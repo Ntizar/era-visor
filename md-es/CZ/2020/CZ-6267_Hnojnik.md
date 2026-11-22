@@ -10,13 +10,14 @@ chars: 91108
 ratio_longitud: 1.24
 tokens_in: 48980
 tokens_out: 34714
-verificacion: revisar
-notas_cifras: ["bloque 5: original bilingüe: se compara contra el idioma principal (PT)", "bloque 6: cifras cortas: 4/97", "bloque 7: cifras cortas: 2/124", "bloque 8: cifras cortas: 1/22"]
-avisos: ["bloque 5: ratio 1.83"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 3: original bilingüe: se compara contra el idioma principal (PT)", "página 4: original bilingüe: se compara contra el idioma principal (CS)", "página 6: original bilingüe: se compara contra el idioma principal (CS)", "página 7: original bilingüe: se compara contra el idioma principal (CS)", "página 10: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -43,13 +44,13 @@ IČ: 75009561
 mail@dicr.cz
 tel.: +420 736 521 003
 
-
 ## Página 2
+
 
 El presente informe final es público y todos los hechos en él expuestos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ## 1. RESUMEN
 Fuente: Drážní inspekce
@@ -78,8 +79,8 @@ oportunidad de visibilidad adecuada de la vía y no se comprobó si podía
 cruzar el paso a nivel de forma segura.
 No se detectó ningún factor contribuyente por parte de la DI.
 
-
 ## Página 4
+
 
 No se detectó ninguna causa sistémica por parte de la DI.
 Recomendaciones de seguridad:
@@ -101,8 +102,8 @@ cruces de advertencia, incluidas las señales de tráfico verticales P 6 «¡Alt
 ceda el paso!», dispongan de un fondo fluorescente amarillo-verde 
 retroreflectante.
 
-
 ## Página 5
+
 
 ## SUMMARY
 16th May 2015, 7:41 (5:41 GMT).
@@ -150,8 +151,8 @@ signs P 6 „Stop, give a priority!", should be provided with a retroreflective
 fluorescent yellow-green background until the change of securing of the level 
 crossing No. P8324 will be realized.
 
-
 ## Página 6
+
 
 # Índice
 1. RESUMEN...................................................................................................................3
@@ -212,6 +213,7 @@ de la infraestructura ferroviaria o de las instalaciones técnicas..............
 
 ## Página 7
 
+
 4.2.2 Factores o consecuencias derivados de la instalación y puesta en servicio de material rodante, infraestructura ferroviaria o instalación técnica......................................................................28
 4.2.3 Factores o consecuencias relacionados con los fabricantes de material rodante u otro proveedor de productos ferroviarios............................................................................28
 4.2.4 Factores o consecuencias derivados del mantenimiento y modificación de material rodante o instalaciones técnicas....................................................................................................28
@@ -241,8 +243,8 @@ y de los talleres de mantenimiento..............................................
 6. RECOMENDACIONES DE SEGURIDAD....................................................................................32
 ANEXOS..............................................................................................................................34
 
-
 ## Página 8
+
 
 ### Lista de siglas y símbolos utilizados
 CDP
@@ -296,8 +298,8 @@ paso a nivel ferroviario
 žst.
 estación ferroviaria
 
-
 ## Página 9
+
 
 ### Lista de siglas de la legislación, normas y normativa interna utilizadas
 ley núm. 13/1997 Sb.
@@ -336,8 +338,8 @@ decreto núm. 294/2015 Sb., por el que se aplican las normas de circulación en 
 decreto núm. 376/2006 Sb.
 decreto núm. 376/2006 Sb., sobre el sistema de seguridad de la explotación de la infraestructura y del transporte ferroviario y los procedimientos en caso de sucesos extraordinarios en los ferrocarriles, en la redacción vigente en el momento de la ocurrencia del MU
 
-
 ## Página 10
+
 
 OPT 73 6380
 norma sectorial 
@@ -353,8 +355,8 @@ normativa interna SŽDC S2/3
 normativa interna del gestor de infraestructura SŽ, s. o., 
 «Organización y realización de inspecciones y mediciones en la infraestructura de ámbito nacional y en las infraestructuras regionales, en la redacción vigente en el momento de la ocurrencia del MU
 
-
 ## Página 11
+
 
 ## 2. INVESTIGACIÓN Y SU CONTEXTO
 ### 2.1 Decisión de iniciar la investigación
@@ -375,10 +377,10 @@ Lo anterior no tuvo como consecuencia una limitación que influyera negativament
 que participaron en el suceso
 En la investigación de las causas y circunstancias de la ocurrencia del MU, DI se basó principalmente en sus propios conocimientos, hallazgos y en su propia documentación fotográfica. Durante la investigación, DI solicitó la documentación recabada durante la investigación al gestor de infraestructura, al transportista, a PČR, a HZS, a SŽ, s. o. y a CDV, v. v. i. 
 La investigación de las causas y circunstancias de la ocurrencia del MU se realizó de acuerdo con la ley núm. 266/1994 Sb. 
-y el decreto núm. 376/2006 Sb. 
-
+y el decreto núm. 376/2006 Sb.
 
 ## Página 12
+
 
 ### 2.6 Descripción del nivel de colaboración ofrecido por los sujetos implicados
 El nivel de colaboración con los representantes de los sujetos implicados en el MU fue estándar. En el marco de la investigación, no fue necesario que DI iniciara una solicitud de colaboración con los sujetos que participaron en el MU.
@@ -417,6 +419,7 @@ accidente.
 
 ## Página 13
 
+
 3.1.2 fecha, hora exacta y lugar del suceso
 Fecha:
 16. 5. 2020.
@@ -434,8 +437,8 @@ Fig. n.º 1: Esquema del lugar de origen del SU.
 Del examen del lugar del SU se constató:
 El examen se realizó en dos fases, en las que en la primera fase, para acelerar el tiempo de obtención del permiso para liberar la vía, es decir, para el cambio del estado original en el lugar del SU, se examinó el DV del tren Os 12818 y solo después se examinó la infraestructura de la vía, la vía adyacente al PFP P8324 y el estado del VU.
 
-
 ## Página 14
+
 
 Estado de la infraestructura:
 El PFP P8324 estaba señalizado en ambos lados de aproximación con señales de tráfico verticales de advertencia
@@ -469,8 +472,8 @@ los pernos de protección estaban colocados en ambos lados del PFP. El estado de
 •
 la superficie de la vía terrestre adyacente al PFP P8324 era asfáltica. La calzada de paso era desmontable, formada por una estructura de paso de goma-metal STRAIL sobre
 
-
 ## Página 15
+
 
 soportes de traviesa de madera. La modificación constructiva de la superficie del paso correspondía a la carga del tráfico rodado y garantizaba la seguridad de la explotación del transporte ferroviario;
 •
@@ -499,8 +502,8 @@ el tren Os 12818 estaba formado por la unidad automotora «Regionova» compuesta
 •
 la persona que conducía el DV (en adelante solo maquinista) conducía el tren Os 12818, observaba la vía y las indicaciones desde la cabina de conducción del HDV 814.072-5, es decir, desde la cabina delantera del maquinista en el sentido de marcha del tren. En la cabina del maquinista se encontraba solo el maquinista. Del examen de la cabina y de la cabina de conducción del HDV no se constató nada que impidiera al maquinista, antes de la aparición del SU, observar sin obstrucción la vía, las indicaciones y actuar según los hechos constatados;
 
-
 ## Página 16
+
 
 •
 el tren se encontraba en la posición final tras el SU con el frontal del HDV 814.072-5 a una distancia de 132 m detrás del lugar de la colisión, es decir, en el pk 125,118, con el eje delantero del HDV descarrilado. Las ruedas ferroviarias descarriladas estaban sobre el balasto, cuando la rueda izquierda se encontraba fuera del raíl izquierdo y la rueda derecha entre los raíles más cerca del raíl derecho;
@@ -533,36 +536,70 @@ el VU era un SUV de la marca Škoda Kodiaq, cuando en el VU en el momento de apa
 
 ## Página 17
 
-en el MU el tren Os 12818 chocó contra el lado izquierdo de la OA, mientras que ambos amortiguadores del HDV
+en el MU el tren Os 12818 embistió el lado izquierdo de la OA, tras lo cual ambos amortiguadores del HDV
 •
-814.072-5 penetraron en el interior de la cabina de la OA. Debido a la dinámica del suceso, la OA fue empujada hacia delante tras la colisión, dejando en la dirección de marcha del tren huellas de roce de las ruedas sobre la vía;
-la conductora de la OA sufrió lesiones graves para su salud durante la colisión. Debido a sus lesiones, no se realizó a la conductora una prueba orientativa de alcohol en el aliento, sino que se realizó posteriormente una prueba de presencia de alcohol en sangre con resultado negativo, en el Hospital Universitario de Ostrava, al que fue trasladada desde el lugar del accidente por el servicio de rescate aéreo.
+814.072-5 penetraron en el interior de la cabina de la OA. Debido a la dinámica del suceso del accidente,
+la OA fue empujada hacia delante por el HDV tras la colisión, dejando en la dirección de marcha del tren
+trazas de roce de las ruedas sobre la superestructura ferroviaria;
+la conductora de la OA sufrió lesiones graves para su salud durante la colisión. Dado sus
+•
+lesiones, no se realizó a la conductora una prueba orientativa de contenido de alcohol en el aliento, sino que
+se realizó únicamente una prueba de presencia de alcohol en sangre con resultado negativo, en el
+Hospital Universitario de Ostrava, al que fue trasladada desde el lugar del MU por el servicio
+de rescate aéreo.
 Condiciones meteorológicas:
 horario diurno, despejado, + 18 °C, la visibilidad no estaba reducida.
 Datos geográficos:
-terreno llano (despejado). No se detectó efecto deslumbrante del sol sobre la conductora de la OA – durante la marcha de la OA por el camino de campo, los rayos de la radiación solar, debido al período estival, incidían desde arriba sobre su lado izquierdo con un ángulo de aprox. 90°. Tras salir la OA a la carretera local y girar a la izquierda hacia el ŽP, los rayos de la radiación solar incidían desde arriba de forma aprox. perpendicular al parabrisas de la OA y, por tanto, no obstaculizaban la visión libre desde la cabina de la OA hacia los lados ni hacia el tren Os 12818, que se aproximaba al ŽP P8324 desde el lado izquierdo de la OA con un ángulo de 90°.
-### 3.1.4 Fallecidos, heridos y daños materiales
+terreno llano (despejado). No se detectó efecto
+deslumbrante del sol sobre la conductora de la
+OA – durante la marcha de la OA por el camino de
+campo, los rayos de la radiación solar incidían,
+dado el período estival, desde arriba sobre su lado
+izquierdo con un ángulo de aprox. 90°. Tras salir la
+OA a la vía local y girar a la izquierda hacia el PdE,
+los rayos de la radiación solar incidían desde arriba
+aprox. perpendicularmente sobre el parabrisas de la
+OA y, por tanto, no obstaculizaban la visión
+ininterrumpida desde la cabina de la OA hacia los
+lados ni hacia el tren Os 12818, que se aproximaba
+al PdE P8324 desde el lado izquierdo de la OA con
+un ángulo de 90°.
+### 3.1.4 Fallecimientos, lesiones y daños materiales
 En el MU se produjo:
-• daño a la salud de la conductora de la OA;
-• daño a la salud del jefe de tren del tren Os 12818.
-El gestor de la infraestructura y el transportista cuantificaron el daño en:
-• HDV 301 800 Kč;
-• instalaciones de la infraestructura 637 000 Kč;
-• medio ambiente 0 Kč.
-En el MU, el daño causado en la infraestructura, en los componentes de la infraestructura y en el medio ambiente se cuantificó en un total de 938 800 Kč.
+daño a la salud de la conductora de la OA;
+•
+daño a la salud del jefe de tren del tren Os 12818.
+•
+El gestor de la vía y el transportista cuantificaron el daño en:
+HDV
+301 800 CZK;
+•
+instalaciones de la vía
+637 000 CZK;
+•
+medio ambiente
+0 CZK.
+•
+En el MU, el daño causado en el DV, en los componentes de la vía y en el medio ambiente se cuantificó
+en un total de 938 800 CZK.
 En el MU se produjo daño en:
-• OA 800 000 Kč;
+OA
+800 000 CZK;
 *)
-• equipaje de los pasajeros 0 Kč.
+•
+equipaje de los pasajeros
+0 CZK.
 *)
-En el MU, el daño causado en las cosas transportadas, el equipaje y otros bienes se cuantificó en un total de 800 000 Kč. *)
+•
+En el MU, el daño causado en las cosas transportadas, el equipaje y otros bienes se cuantificó en un
+total de 800 000 CZK. *)
 *) La cuantía del daño a la fecha de publicación del ZZ no era definitiva.
-### El daño total causado asciende a 1 738 800 Kč. *)
+### El daño total causado como consecuencia del MU asciende a 1 738 800 CZK. *)
 *) La cuantía del daño a la fecha de publicación del ZZ no era definitiva.
-No se produjo daño en las cosas transportadas, el equipaje ni otros bienes.
-
+No se produjo daño en las cosas transportadas, el equipaje y otros bienes.
 
 ## Página 18
+
 
 ### 3.1.5 Descripción de otras consecuencias, incluido el impacto del suceso en las actividades habituales de los sujetos implicados
 Como consecuencia de la ocurrencia del MU, se interrumpió la circulación en la TK entre la est. Hnojník y Dobrá u Frýdku-Místku, desde las 13:05 h hasta las 21:00 h. Los trenes de transporte de pasajeros fueron sustituidos en dicho horario por autobuses de transporte de reemplazo.
@@ -593,8 +630,8 @@ El transporte ferroviario se prestaba en virtud de un contrato celebrado entre e
 Nota sobre el tren Os 12818:
 • la estación de origen del tren era la est. Hnojník, y la estación de destino la est. Frýdek-Místek;
 
-
 ## Página 19
+
 
 • el tren estaba destinado al transporte de pasajeros; en el momento de la ocurrencia del MU viajaban en el tren
 30 pasajeros;
@@ -634,8 +671,8 @@ distancia de 58 m del lugar de la ocurrencia del MU. La presión de aire en la t
 del frenado de acción rápida del tren por parte del operador de la palanca de mando y la caída de
 la presión en la tubería principal desde 4,975 bar hasta 2,975 bar;
 
-
 ## Página 20
+
 
 • a las 13:05:11 h, a una velocidad de 69 km·h-1, los cilindros de freno se presurizaron con
 >0,2 bar;
@@ -657,89 +694,106 @@ maquinista del tren Os 12818
 
 ## Página 21
 
-◦del no transmisible señal fija con la señal "¡Silbido!" antes de la SP P8324 dio con la bocina de locomotora la señal "¡Cuidado!", que después dio repetidamente hasta la SP.
-◦antes de la SP P8324, donde la vía transcurre paralelamente a un camino de campo conectado a una vía local a la derecha antes de la SP, vio un VAM de color azul circulando en la misma dirección. Por ello dio repetidamente la señal "¡Cuidado!";
-◦el VAM antes de la entrada a la vía local redujo la velocidad y giró a la izquierda hacia la SP. A la situación creada reaccionó dando nuevamente la señal "¡Cuidado!";
-◦el VAM no se detuvo antes de la SP y entró en la SP P8324. Reaccionó con la aplicación inmediata del frenado de acción rápida. La colisión que siguió inmediatamente ya no pudo evitarla;
-◦el origen de la EM lo comunicó al número 112 y posteriormente también el jefe de estación de la est. Hnojník.
+◦del semáforo fijo con la señal "Pite" antes del PFE P8324, dio con la bocina de la locomotora la señal "Atención", que después dio repetidamente hasta el PFE.
+◦antes del PFE P8324, donde la vía transcurre paralelamente a un camino de campo conectado a una vía local a la derecha antes del PFE, vio un vehículo de motor (OA) de color azul circulando en la misma dirección. Por ello dio repetidamente la señal "Atención";
+◦el OA antes de entrar en la vía local frenó y giró a la izquierda hacia el PFE. A la situación creada reaccionó dando nuevamente la señal "Atención";
+◦el OA no se detuvo antes del PFE y entró en el PFE P8324. Reaccionó con la aplicación inmediata del frenado de acción rápida. La colisión que se produjo a continuación ya no pudo evitarla;
+◦el origen del accidente ferroviario (MU) lo comunicó al número 112 y posteriormente también el jefe de estación de la est. Hnojník.
 jefe de tren del tren Os 12818
   – Acta con el empleado:
 •
-◦tras la salida del tren de la est. Hnojník se dedicó a la comprobación de los títulos de transporte, registrando un frenado brusco intenso y un golpe, durante el cual cayó al suelo del coche motor;
-◦tras la llegada del autobús de transporte de sustitución, se marchó junto con el resto de pasajeros a la est. Frýdek-Místek, donde buscó atención médica.
-Resumen de las explicaciones prestadas por otros participantes de la EM y testigos:
-conductora del VAM
-  – Registro oficial de la explicación prestada a la PČR:
+◦tras la salida del tren de la est. Hnojník, se dedicó a la comprobación de los billetes, registrando un frenado brusco e intenso y un golpe, durante el cual cayó al suelo del coche motor;
+◦tras la llegada del autobús de transporte de sustitución, partió junto con los demás pasajeros hacia la est. Frýdek-Místek, donde buscó atención médica.
+
+Resumen de las explicaciones presentadas por otros participantes en el MU y testigos:
+conductora del OA
+  – Registro oficial de la explicación presentada ante la Policía (PČR):
 •
-◦por motivo de una celebración familiar, se desplazó con el VAM al restaurante U Bubíka para recoger comida;
-◦durante el trayecto de ida y vuelta al mencionado restaurante utilizó un camino de campo que transcurre paralelamente a la vía, circulando en el trayecto de ida a través de la SP P8324;
-◦conoce la SP P8324, circula por ella a diario;
-◦no recuerda el origen de la EM, solo le viene a la mente que se marchó con el VAM desde el restaurante de vuelta a casa.
-propietario de la finca contigua a la SP
-  – Registro oficial de la explicación prestada a la PČR:
+◦por motivo de una celebración familiar, se desplazó con el OA al restaurante U Bubíka para recoger comida;
+◦durante el trayecto de ida y vuelta al mencionado restaurante, utilizó un camino de campo que transcurre paralelamente a la vía, circulando en el trayecto de ida al restaurante a través del PFE P8324;
+◦conoce el PFE P8324, pasa por él a diario;
+◦no recuerda el origen del MU, solo recuerda que con el OA se marchó del restaurante de vuelta a casa.
+propietario de la vivienda contigua al PFE
+  – Registro oficial de la explicación presentada ante la Policía (PČR):
 •
-◦escuchó la bocina de locomotora del tren Os 12818 y también el golpe del tren contra el VAM;
-◦el origen de la EM lo comunicó al número 150.
+◦escuchó la bocina de la locomotora del tren Os 12818 y también el golpe del tren contra el OA;
+◦el origen del MU lo comunicó al número 150.
+
 ### 3.2 Descripción fáctica del suceso
-### 3.2.1 Secuencia de hechos que condujeron al suceso extraordinario
-El maquinario del tren Os 12818 entró en servicio el día 16. 5. 2020 en Frýdek-Místek, concretamente para el tren Os 12817, con el que, debido a la interrupción planificada de la TK Český Těšín – Hnojník, según la ROV 23035, finalizaba la circulación en la est. Hnojník, donde tenía el cambio al tren Os 12818 Český Těšín – Frýdek-Místek. Tras finalizar el embarque de los pasajeros transportados a la est. Hnojník en transporte de sustitución y la formación del tren, puso el tren Os 12818 en movimiento a las 13:03:22 h. Con la puesta en marcha del tren aumentó progresivamente la velocidad y, circulando por el tramo recto de la vía, se aproximaba a la SP P8324. En ese momento, el VAM salía del restaurante U Bubíka a un camino de campo, en el término municipal de Horní Tošanovice, que a una distancia de aprox. 200 m antes de la SP P8324 transcurre paralelamente a la TK Hnojník – Dobrá u Frýdku-Místku, finalizando su recorrido con la salida a una vía local a una distancia de 5,35 m antes de la SP.
+### 3.2.1 Secuencia de hechos que condujeron al accidente ferroviario
 
-A las 13:04:45 h, en el momento en que el tren Os 12818 circulando a una velocidad de 64 km·h-1 se encontraba a 468 m de la SP, es decir, a 68 m del nivel de la señal fija no transmisible de aviso con la señal "¡Silbido!"
+El maquinista del tren Os 12818 incorporó su turno el día 16. 5. 2020 en Frýdek-Místek, con el tren Os 12817, con el que, debido a la interrupción planificada de la vía (TK) Český Těšín – Hnojník, según la ROV 23035, finalizaba su trayecto en la est. Hnojník, donde tenía el enlace con el tren Os 12818 Český Těšín – Frýdek-Místek. Tras finalizar el embarque de los pasajeros transportados hasta la est. Hnojník en transporte de sustitución y la formación del tren, puso en marcha el tren Os 12818 a las 13:03:22 h. Con la puesta en marcha del tren aumentó progresivamente la velocidad y, circulando por el tramo recto de la vía, se aproximaba al PFE P8324. En ese momento, el OA salía del restaurante U Bubíka a un camino de campo, en el término municipal de Horní Tošanovice, que a una distancia de aprox. 200 m antes del PFE P8324 transcurre paralelamente a la TK Hnojník – Dobrá u Frýdku-Místku, finalizada con la salida a una vía local a una distancia de 5,35 m antes del PFE.
 
+A las 13:04:45 h, en el momento en que el tren Os 12818, circulando a una velocidad de 64 km·h-1, se encontraba a 468 m del PFE, es decir, a 68 m del semáforo fijo de aviso con la señal "Pite"
 
 ## Página 22
 
-(colocada a la derecha de la TK en el pk 125,650), el maquinario dio con la bocina de locomotora la señal audible corta "¡Cuidado!", cuya emisión finalizó en el mismo segundo. 6 s después, a una velocidad de 66 km·h-1, a una distancia de 359 m de la SP, el maquinario volvió a dar con la bocina de locomotora la señal audible corta "¡Cuidado!", cuya emisión finalizó tras transcurrir 1 s. Debido a que el maquinario vio un VAM circulando en la misma dirección por el camino de campo que transcurre paralelamente a la TK, dio a las 13:05:00 h, a una velocidad de 68 km·h-1, a una distancia de 191 m de la SP, la señal audible "¡Cuidado!", cuya emisión finalizó 2 s después, a una distancia de 153 m de la SP.
-
-Cuando el VAM, antes de entrar en la vía local, redujo la velocidad y comenzó a girar a la izquierda en dirección a la SP, el maquinario reaccionó a la situación creada a las 13:05:07 h dando nuevamente la señal "¡Cuidado!". El tren circulando a una velocidad de 69 km·h-1 se encontraba en ese momento a 58 m de la SP. Debido a que el VAM no se detuvo antes de la SP y entró en la SP, 3 s después, es decir, a las 13:05:10 h, se produjo la colisión, cuando el frontal del tren Os 12818 a una velocidad de 69 km·h-1 impactó en el costado izquierdo del VAM. Al mismo tiempo, el maquinario aplicó el frenado de acción rápida. Durante el proceso de accidente posterior, como consecuencia del atrapamiento del VAM bajo los topes delanteros, se produjo la pérdida de la fuerza vertical de rueda de los ejes delanteros del VMP 814.072-5 y en el pk 125,244, es decir, 6 m tras el punto de colisión, el descarrilamiento de la rueda izquierda del eje delantero del VMP, que abandonó la cabeza del carril izquierdo hacia la izquierda (sin huellas de trepada del borde sobre la cabeza de la banda del carril izquierdo), mientras que la rueda derecha bajó de la cabeza del carril derecho hacia la izquierda entre las bandas del carril y permaneció sostenida por el VAM atrapado, hasta el pk 125,230, es decir, 20 m tras el punto de colisión, donde dejó huellas en la superestructura ferroviaria hasta el lugar de detención tras la EM.
-### 3.2.2 Secuencia de hechos desde el origen del suceso extraordinario hasta la finalización de las acciones de los servicios de emergencia
-| • 13:05 h | origen de la EM; |
-| • 13:07 h | el maquinario del tren Os 12818 comunicó el origen de la EM al número 112 y el propietario de la finca contigua a la SP P8324 al número 150; |
-| • 13:11 h | el maquinario del tren Os 12818 comunicó el origen de la EM al puesto de notificación del operador de la vía al jefe de estación de la est Hnojník; – . |
-| • 13:12 h | el oficial de operaciones de la PČR envía al lugar del origen una patrulla de la Sección de Distrito de Hnojník; |
-| • 13:13 h | la jefa de estación de la est Hnojník comunicó el origen de la EM según el horario de notificación al CDP . Přerov; |
-| • 13:18 h | la patrulla de la PČR de la Sección de Distrito de Hnojník en el lugar del origen de la EM en el lugar , la EM interviene el HZS de la Región de Moravia y Silesia JPO Nošovice; , |
-| • 13:19 h | el jefe de despachante del CDP Přerov comunicó el origen de la EM al Departamento del Sistema de Seguridad de la Explotación de la Vía de la SŽ s o Ú de la Sección Territorial de Ostrava; , . ., |
-| • 13:20 h | en el lugar de la EM interviene el Cuerpo de Bomberos Voluntarios de Třinec-Guty; |
-| • 13:21 h | en el lugar de la EM interviene el HZS de la Región de Moravia y Silesia , JPO Frýdek - Místek; |
-| • 13:22 h | Servicio de Emergencias Sanitarias de la Región de Moravia y Silesia en el lugar del origen de la EM; |
-| • 13:26 h | la patrulla de la Inspección de Tráfico de la PČR en el lugar del origen de la EM; |
-
+(colocado a la derecha del TK en el pk 125,650), el maquinista dio con la bocina de la locomotora una señal sonora corta «¡Atención!», cuya emisión finalizó en el mismo segundo. 6 s después, a una velocidad de 66 km·h-1, a una distancia de 359 m antes del ŽP, el maquinista volvió a dar con la bocina de la locomotora una señal sonora corta «¡Atención!», cuya emisión finalizó tras transcurrir 1 s. Debido a que el maquinista vio un OA circulando en la misma dirección por el camino de campo que transcurre paralelo al TK, dio a las 13:05:00 h, a una velocidad de 68 km·h-1, a una distancia de 191 m antes del ŽP, la señal sonora «¡Atención!», cuya emisión finalizó 2 s después, a una distancia de 153 m antes del ŽP.
+Cuando el OA frenó antes de entrar en la vía local y comenzó a girar a la izquierda en dirección al ŽP, el maquinista reaccionó a la situación creada a las 13:05:07 h con una nueva emisión de la señal «¡Atención!». El tren, que circulaba a una velocidad de 69 km·h-1, se encontraba en ese momento a 58 m antes del ŽP. Debido a que el OA no se detuvo antes del ŽP y entró en el ŽP, 3 s después, es decir, a las 13:05:10 h, se produjo la colisión, en la que el frontal del tren Os 12818, a una velocidad de 69 km·h-1, impactó en el flanco izquierdo del OA. Al mismo tiempo, el maquinista aplicó el frenado de acción rápida. Durante el suceso de accidente posterior, como consecuencia del atrapamiento del OA bajo los topes delanteros, se produjo la pérdida de la fuerza vertical de las ruedas del eje delantero del HDV 814.072-5 y, en el pk 125,244, es decir, 6 m después del punto de colisión, el descarrilamiento de la rueda izquierda del eje delantero del HDV, que abandonó la cabeza del carril izquierdo hacia la izquierda (sin huellas de trepada del borde sobre la cabeza de la banda del carril izquierdo), mientras que la rueda derecha bajó de la cabeza del carril derecho hacia la izquierda entre las bandas del carril y permaneció sostenida por el OA atrapado, hasta el pk 125,230, es decir, 20 m después del punto de colisión, donde dejó huellas en la superestructura ferroviaria hasta el lugar de detención tras el MU.
+### 3.2.2 Secuencia de hechos desde la producción del suceso extraordinario hasta la finalización de las acciones de los servicios de rescate
+| • 13:05 h | producción del MU; |
+| • 13:07 h | el maquinista del tren Os 12818 comunicó la producción del MU al número 112 y el propietario de la finca contigua al ŽP P8324 al número 150; |
+| • 13:11 h | el maquinista del tren Os 12818 comunicó la producción del MU al puesto de comunicación del operador ferroviario, al jefe de estación de Hnojník; – . |
+| • 13:12 h | el oficial de operaciones de la PČR envía al lugar de la producción una patrulla del Distrito de Hnojník; |
+| • 13:13 h | la jefa de estación de Hnojník comunicó la producción del MU según el horario de comunicación al CDP . Přerov; |
+| • 13:18 h | la patrulla de la PČR del Distrito de Hnojník en el lugar de la producción del MU en el lugar , el MU es atendido por el HZS de la Región de Moravia y Silesia, JPO Nošovice; , |
+| • 13:19 h | el jefe de despachador del CDP Přerov comunicó la producción del MU al Departamento del Sistema de Seguridad de la Explotación Ferroviaria de SŽ s o Ú, puesto de trabajo terrestre de Ostrava; , . ., |
+| • 13:20 h | en el lugar del MU interviene el Cuerpo de Bomberos Voluntarios de Třinec-Guty; |
+| • 13:21 h | en el lugar del MU interviene el HZS de la Región de Moravia y Silesia , JPO Frýdek - Místek; |
+| • 13:22 h | Servicio de Emergencias Sanitarias de la Región de Moravia y Silesia en el lugar de la producción del MU; |
+| • 13:26 h | la patrulla de la Inspección de Tráfico de la PČR en el lugar de la producción del MU; |
 
 ## Página 23
 
-| • 13:27 h | primera notificación del origen de la EM por la persona autorizada del operador de la vía y del transportista al COP DI (sin descarrilamiento) ver punto 2 3 de esta ZZ; , . |
-| • 13:30 h | la primera notificación del origen de la EM fue completada por la persona autorizada con la información de que , como consecuencia de la EM no se produjo el descarrilamiento del VMP; |
-| • 13:39 h | en el lugar de la EM interviene el HZS de la SŽ s o JPO Ostrava; , . ., |
-| • 13:57 h | la persona autorizada completó la notificación del origen de la EM con la información de que durante la EM , se descarriló el VMP acoplado a la cabeza del tren con un eje – el permiso emitido previamente por la DI para la liberación de la vía fue retirado; |
-| • 15:15 h | inspección del lugar del origen de la EM por empleados de la DI de la SŽ s o y de la PČR; , , . ., |
-| • 16:10 h | el inspector de DI presente dio el permiso para la liberación de la vía; |
-| • 21:00 h | restablecimiento de la circulación en la TK Hnojník – Dobrá u Frýdku-Místku . |
-El Plan de IZS fue activado, dada la naturaleza de la EM, a las 12:07 h, es decir, 2 min tras el origen de la EM, por el maquinario del tren Os 12818 y un testigo.
-
-En el lugar de la EM intervinieron los siguientes componentes de la IZS:
-PČR, Dirección Regional de la Región de Moravia y Silesia, Sección Territorial de Frýdek-Místek, 
+| • 13:27 h | notificación inicial de la creación de la MU por parte de la persona autorizada del gestor de la vía y del transportista en el COP DI (sin descarrilamiento) ver punto 2 3 de esta ZZ; , . |
+| • 13:30 h | notificación inicial de la creación de la MU completada por la persona autorizada con la información de que , como consecuencia de la MU no se produjo el descarrilamiento del DV; |
+| • 13:39 h | en el lugar de la MU interviene el HZS SŽ s o con la JPO Ostrava; , . ., |
+| • 13:57 h | la persona autorizada completó la notificación de la creación de la MU con la información de que durante la MU , se descarriló el DV acoplado a la cabeza del tren con un eje – el DI retiró el permiso concedido anteriormente para liberar la vía; |
+| • 15:15 h | inspección del lugar de la creación de la MU por empleados del DI SŽ s o y de la PČR; , , . ., |
+| • 16:10 h | el inspector del DI presente dio el permiso para liberar la vía; |
+| • 21:00 h | restablecimiento de la circulación en el TK Hnojník – Dobrá u Frýdku-Místku . |
+El Plan IZS fue activado, dada la naturaleza de la MU, a las 12:07 h, es decir, 2 min después de la creación de la MU, 
+por el maquinista del tren Os 12818 y por un testigo.
+En el lugar de la MU intervinieron los siguientes componentes del IZS:
+PČR, Dirección Regional del Moravskoslezský kraj, Departamento Territorial de Frýdek-Místek, 
 •
-2.º Departamento de Delincuencia General e Inspección de Tráfico de Třinec;
-Servicio de Emergencias Sanitarias de la Región de Moravia y Silesia;
+2.º Departamento de Criminalidad General y de la Inspección de Tráfico de Třinec;
+Servicio de Emergencias Sanitarias del Moravskoslezský kraj;
 •
 Servicio de Rescate Aéreo de Ostrava;
 •
-HZS de la SŽ, s. o., JPO Ostrava;
+HZS SŽ, s. o., JPO Ostrava;
 •
-HZS de la Región de Moravia y Silesia, JPO Frýdek-Místek, Nošovice y Cuerpo de Bomberos 
+HZS del Moravskoslezský kraj, JPO Frýdek-Místek, Nošovice y el Cuerpo de Bomberos 
 •
 Voluntarios de Třinec-Guty.
 ## 4. ANÁLISIS DEL SUCESO
-### 4.1 Funciones y obligaciones
-### 4.1.1 Transportistas y operadores de vías
-El maquinario, al conducir un tren (VMP), en el sentido del § 35 apartado 1 letra a) y g) de la Ley núm. 266/1994 Sb., § 35 apartado 1 del Decreto núm. 173/1995 Sb. y de las disposiciones correspondientes de las normas internas del operador de la vía SŽ, s. o. y del transportista ČD, a. s., entre otros, está obligado a conducir el VMP solo desde la posición desde la que existe la mejor visibilidad, normalmente desde la cabina delantera del maquinario en el sentido de la marcha, observar desde el VMP líder la vía y las señales y actuar según los hechos constatados, y durante la marcha no exceder la velocidad máxima permitida, establecida en el horario de circulación o impuesta por una velocidad limitada. Ante la SP con balizas de aviso, es decir, también ante la SP P8324, el maquinario debe, para advertir a las personas, dar la señal "¡Cuidado!" (un sonido largo de la bocina de locomotora de al menos 2 s) repetidamente, al menos tres veces desde estas balizas de aviso hasta la SP, sin que sea necesario repetir la señal "¡Cuidado!" si ha comprobado que no se aproxima a la SP ningún usuario de la vía de comunicación terrestre.
-
-El maquinario del tren Os 12818, durante la marcha hacia la SP, dio a una distancia de 468 m (a las 13:04:45 h) y a una distancia de 359 m (a las 13:04:51 h) antes de la SP P8324 señales audibles "¡Cuidado!" de duración inferior a 2 s. En el no cómputo de la emisión de la señal audible "¡Cuidado!" desde la baliza de aviso, sino a una distancia de 68 m antes de la baliza de aviso en el pk 125,650, no puede verse una deficiencia, dada la velocidad del tren de aprox. 18 m·s-1 y el tiempo de reacción del maquinario de aprox. 1 a 2 s.
-
-El cruce de la vía con la vía de comunicación terrestre a nivel debe estar señalizado y asegurado. En el cruce de la vía férrea con la vía de comunicación terrestre a nivel, el transporte ferroviario, según
+### 4.1 Tareas y obligaciones
+### 4.1.1 Transportistas y gestores de vías
+El maquinista, al conducir el tren (DV), en el sentido del § 35 apartado 1 letra a) y g) de la Ley 
+n.º 266/1994 Sb., del § 35 apartado 1 del Decreto n.º 173/1995 Sb. y de las disposiciones 
+correspondientes de las normas internas del gestor de la vía SŽ, s. o. y del transportista ČD, 
+a. s., entre otras, está obligado a conducir el DV únicamente desde el puesto desde el que 
+existe la mejor visibilidad, normalmente desde la cabina delantera del maquinista en el sentido 
+de la marcha, observar desde el mando del DV la vía y las señales y actuar según los hechos 
+constatados, y durante la marcha no superar la velocidad máxima permitida, establecida en el 
+horario de circulación o la velocidad limitada ordenada. Ante el ŽP con postes de aviso, 
+es decir, también ante el ŽP P8324, el maquinista debe dar, para advertir a las personas, la 
+señal «Atención» (un sonido largo de la bocina de la locomotora de al menos 2 s) 
+repetidamente, al menos tres veces desde dichos postes de aviso hasta el ŽP, sin que sea 
+necesario repetir la señal «Atención» si ha constatado que no se aproxima al ŽP ningún 
+usuario de la vía pública.
+El maquinista del tren Os 12818, durante la aproximación al ŽP, dio señales audibles 
+«Atención» de duración inferior a 2 s a una distancia de 468 m (a las 13:04:45 h) y a una 
+distancia de 359 m (a las 13:04:51 h) del ŽP P8324. En el hecho de no haber dado la señal 
+audible «Atención» a partir del poste de aviso, sino a una distancia de 68 m antes del poste 
+de aviso en el km 125,650, no puede verse una deficiencia, teniendo en cuenta la velocidad 
+del tren de unos 18 m·s-1 y el tiempo de reacción del maquinista de unos 1 a 2 s.
+El cruce de la vía con la vía pública a nivel de las vías debe estar señalizado y protegido. En 
+el cruce de la vía férrea con la vía pública a nivel de las vías, el tráfico ferroviario, según
 
 ## Página 24
+
 
 § 6 apartado 3 de la Ley núm. 266/1994 Sb., prioridad sobre la circulación en la vía pública.
 El cruce a nivel de la vía de una vía férrea de vía única con una vía pública es señalizado por el explotador de la infraestructura ferroviaria con la señal vertical A 32a «Cruz de aviso para paso a nivel de vía única». La cruz de aviso se coloca en el borde derecho de la vía pública (acera) en el sentido de circulación de los vehículos, de manera que ninguna parte de la cruz de aviso se encuentre a menos de 4 m del eje de la vía exterior. El paso a nivel puede, de acuerdo con el § 4 apartado 1 del decreto núm. 177/1995 Sb., en relación con el art. 6.3.2 letra c) y el art. 7.2.5 de la ČSN 73 6380, estar protegido únicamente por una cruz de aviso, si la velocidad de la línea en el tramo adyacente de la línea al paso a nivel no es superior a 60 km·h-1 y su momento de tráfico no supera el valor de 10 000.
@@ -752,8 +806,8 @@ Dado que el valor de la longitud de visibilidad para el vehículo rodante más l
 ### Según la documentación del explotador de la infraestructura ferroviaria contenida en la «Hoja núm. 2 – Datos operativos y técnicos del paso a nivel en la vía núm. 1» del paso a nivel P8324, el momento de tráfico del citado paso a nivel tiene el valor
 5 200, véase el punto 3.1.8 de la presente ZZ (informe final), es decir, no supera el valor límite establecido en el § 4 apartado 1 del decreto núm. 177/1995 Sb. Según la declaración del explotador de la infraestructura ferroviaria, la última actualización del momento de tráfico se realizó en 2005, cuando la intensidad del tráfico rodante en la vía local que atraviesa el paso a nivel fue, según la declaración del explotador de la infraestructura ferroviaria, determinada
 
-
 ## Página 25
+
 
 por estimación como promedio de una investigación propia de dos horas en el lugar del cruce con la infraestructura ferroviaria, en 13 vehículos por hora, si bien en el documento «Registro de la inspección conjunta del paso a nivel ferroviario y de la vía pública adyacente», de fecha 29 de junio de 2017, en la sección de evaluación del aumento del momento de tráfico se indica: «¿Se puede esperar un aumento (A) o una disminución (D) del momento de tráfico?… NO».
 Para las necesidades de la investigación de la citada MU, el DI (investigador de accidentes) se dirigió al CDV, v. v. i., que, sobre la base de la realización de una encuesta de tráfico en el citado paso a nivel, elaboró el informe «Encuesta de tráfico en el paso a nivel P8324 en el municipio de Horní Tošanovice», de fecha 30 de junio de 2020, del que entre otros se desprende:
@@ -779,8 +833,8 @@ En la investigación se detectó infracción de la normativa legal, de los regla
 •
 «El paso a nivel de líneas con una velocidad de línea inferior o igual a 60 km·h-1, el paso a nivel destinado exclusivamente al tránsito peatonal en líneas con una velocidad de línea inferior o igual a 100 km·h-1, salvo que se trate de un paso a nivel cuyo momento de tráfico supere el valor de 10 000, puede estar protegido únicamente por una cruz de aviso»;
 
-
 ## Página 26
+
 
 art. 80 del reglamento interno SŽDC S2/3:
 •
@@ -801,6 +855,7 @@ La función de la Agencia Ferroviaria de la Unión Europea es, además de garant
 En la investigación no se detectó infracción de las funciones y obligaciones de la autoridad nacional de seguridad y de la Agencia Ferroviaria de la Unión Europea.
 
 ## Página 27
+
 
 ### 4.1.5 Entidades notificadas, entidades designadas y entidades de evaluación de riesgos
 En la investigación no se detectó incumplimiento de las funciones y obligaciones de las entidades notificadas, las entidades designadas y las entidades de evaluación de riesgos.
@@ -825,8 +880,8 @@ En la investigación se detectó incumplimiento de las funciones y obligaciones 
 •
 «El conductor no debe entrar en un paso a nivel si ya se ve o se oye el tren u otro vehículo ferroviario que se aproxima, o si se oye su silbato o sirena; ...».
 
-
 ## Página 28
+
 
 En la investigación se detectó incumplimiento de la normativa legal, de las normas internas y de las normas técnicas, relativas a las funciones y obligaciones del propietario de la vía local – el municipio de Horní Tošanovice
 ### fuera de relación causal con la aparición del SU:
@@ -850,8 +905,8 @@ En la investigación no se detectaron factores relacionados con la entidad respo
 4.2.6 Otros factores o consecuencias que se consideran relevantes a efectos de la investigación
 En la investigación no se detectaron otros factores relacionados con los VF, con la infraestructura ferroviaria o con las instalaciones técnicas.
 
-
 ## Página 29
+
 
 ### 4.3 Factores humanos
 ### 4.3.1 Características humanas e individuales
@@ -872,53 +927,65 @@ En los procedimientos, métodos, contenido y resultados de las actividades de ev
 ### 4.4.3 Sistema de garantía de la seguridad de los operadores ferroviarios y gestores de la infraestructura implicados
 En el sistema de garantía de la seguridad adoptado por el gestor de la infraestructura y por el operador ferroviario, relacionado con las circunstancias de la aparición del SU en cuestión, no se detectaron deficiencias.
 
-
 ## Página 30
 
-### 4.4.4 Sistema de gestión de las entidades responsables del mantenimiento de los vehículos ferroviarios y de los talleres de mantenimiento
-El sistema de gestión de las entidades responsables del mantenimiento de los VF y de los talleres de mantenimiento no guardaba relación con la aparición del SU.
+### 4.4.4 Sistema de gestión de los sujetos responsables del mantenimiento de los vehículos ferroviarios
+y de los talleres de mantenimiento
+El sistema de gestión de los sujetos responsables del mantenimiento de los VF y de los talleres de mantenimiento no guardaba relación con la aparición del MU.
 ### 4.4.5 Resultados de la supervisión realizada por las autoridades nacionales de seguridad
-Atendiendo a los factores detectados y a las circunstancias de la aparición del SU, la supervisión de la autoridad de seguridad no guarda relación con el SU en cuestión.
-### 4.4.6 Aprobaciones, certificados y dictámenes de evaluación emitidos por la Agencia, por las autoridades nacionales de seguridad u otras entidades de evaluación de la conformidad
-El gestor de la infraestructura explotó la vía férrea en virtud de la autorización administrativa vigente y del certificado de seguridad del gestor de la infraestructura.
-El operador ferroviario explotó el transporte ferroviario en virtud de la licencia vigente y del certificado del operador ferroviario.
+Atendiendo a los factores y circunstancias de aparición del MU constatados, la supervisión de la autoridad de seguridad no guarda relación con el MU en cuestión.
+### 4.4.6 Aprobaciones, certificados y evaluaciones emitidos por la agencia, las autoridades nacionales de seguridad u otros sujetos de evaluación de la conformidad
+El explotador ferroviario explotaba la vía ferroviaria en virtud de la autorización administrativa vigente y del certificado de seguridad del explotador ferroviario.
+El transportista explotaba el transporte ferroviario en virtud de la licencia vigente y del certificado del transportista.
 ### 4.4.7 Otros factores sistémicos
-En la investigación no se detectaron otros factores sistémicos.
+En la investigación no se constataron otros factores sistémicos.
 ### 4.5 Sucesos anteriores de naturaleza similar
-El DI registra en el periodo comprendido entre el 1 de enero de 2008 y la aparición del SU en cuestión 842 casos análogos (colisión de un tren con un VTD en pasos a nivel protegidos únicamente por cruces de San Andrés), en los que fallecieron 55 personas, 327 personas resultaron lesionadas y se produjo un daño por un importe de 181 947 751 Kč. La causa de la aparición de todos estos SU fue la entrada no autorizada de un VTD en el paso a nivel en el momento en que se aproximaba a él un VF (tren).
-En el paso a nivel P8324, en el periodo observado, el DI registra 1 SU, concretamente del 2 de octubre de 2015 a las 12:02 h, cuando el tren Os 12816 colisionó con un turismo. Con motivo de la aparición de este SU no resultó lesionada ninguna persona, el daño total producido en el SU ascendió a 61 500 Kč. La causa inmediata de este SU fue la entrada no autorizada de un turismo en el paso a nivel en el momento en que se aproximaba a él un tren.
-El DI ha emitido en el pasado, en repetidas ocasiones, recomendaciones de seguridad a los gestores de la infraestructura y a la Oficina Ferroviaria para la adopción de medidas propias encaminadas a la realización de la mejora del nivel de protección de los pasos a nivel protegidos únicamente por cruces de San Andrés, de modo que, en las reconstrucciones y modernizaciones de las líneas y de los pasos a nivel, ya se proyectara, instalara y aprobara únicamente instalaciones de enclavamiento de paso a nivel luminosas complementadas con barreras, que, desde el punto de vista de la barrera óptica y física, reducen significativamente el riesgo de que un conductor de un VTD entre en el paso a nivel en el momento en que se aproxima a él un VF o un tren.
-
+El DI registra en el período comprendido entre el 1. 1. 2008 y la aparición del MU en cuestión 842 casos análogos (colisión de un tren con un SMV en un PF protegido únicamente por cruces de advertencia), en los que fallecieron 55 personas, 327 personas resultaron lesionadas y se produjo un daño por importe de 181 947 751 Kč.
+La causa de la aparición de todos estos MU fue la entrada no autorizada de un SMV en el PF en el momento en que se aproximaba al mismo un VF (tren).
+En el PF P8324, en el período examinado, el DI registra 1 MU, concretamente del día 2. 10. 2015 a las 12:02 h, cuando el tren Os 12816 colisionó con un OA. Con motivo de la aparición de este MU no resultó lesionada ninguna persona, y el daño total producido en el MU ascendió a 61 500 Kč. La causa inmediata de este MU fue la entrada no autorizada de un OA en el PF en el momento en que se aproximaba al mismo un tren.
+El DI ha emitido en el pasado, en repetidas ocasiones, recomendaciones de seguridad a los explotadores ferroviarios y a la Oficina Ferroviaria para la adopción de medidas propias encaminadas a la realización del aumento del nivel de protección de los PF protegidos únicamente por cruces de advertencia, a fin de que, en las reconstrucciones y modernizaciones de líneas y PF, ya se proyectara, instalara y aprobara únicamente equipamiento de señalización de paso a nivel complementado con barreras, que desde el punto de vista óptico y físico de barrera reducen de forma significativa el riesgo de que un conductor de SMV entre en el PF en el momento en que se aproxima al mismo un VF o tren.
 
 ## Página 31
 
 ## 5. CONCLUSIONES
 ### 5.1 Resumen del análisis y conclusiones relativas a las causas del suceso
-La causa inmediata del suceso extraordinario fue:
-la entrada no autorizada de un turismo en el paso a nivel P8324 en el momento en •
-que se aproximaba a él el tren Os 12818, causada por la actuación de la conductora del turismo, que no detuvo el vehículo, conforme a la orden de la señal de tráfico «¡Alto, dé paso!», en un lugar desde el que tuviera la visibilidad adecuada de la vía, y no se aseguró de si podía cruzar el paso a nivel de forma segura.
-El DI no detectó ningún factor contribuyente.
-El DI no detectó ninguna causa sistémica.
-### A summary of the analysis and conclusions with regard to the causes of the occurrence
+La causa inmediata del suceso ferroviario fue:
+la entrada no autorizada de un automóvil en el paso a nivel P8324 en el momento en que •
+se aproximaba a él el tren Os 12818, causada por la conducta de la conductora del
+automóvil, que ante la señal de tráfico «¡Pare, ceda el paso!» no detuvo el vehículo en
+un lugar que le permitiera disponer de la visibilidad adecuada de la vía y no se
+comprobó si podía cruzar el paso a nivel de forma segura.
+No se detectó ningún factor contribuyente por parte de la DI.
+No se detectó ninguna causa sistémica por parte de la DI.
+### A summary of the analysis and conclusions with regard to the causes of the
+occurrence
 Causal factor:
-an unauthorized entrance of the car at the level crossing No. P8324 at the time •
-when the train No. 12818 was arriving, caused by behavior of the car driver, who did not respect the traffic sign „Stop, give a priority!” and did not stop the car at a place where she would have a proper view of the track and did not make sure whether she could safely pass the level crossing.
+an unauthorized entrance of the car at the level crossing No. P8324 at the time
+•
+when the train No. 12818 was arriving, caused by behavior of the car driver, who
+did not respect the traffic sign „Stop, give a priority!” and did not stop the car at
+a place where she would have a proper view of the track and did not make sure
+whether she could safely pass the level crossing.
 Contributing factor: none.
 Systemic factor:
 none.
-### 5.2 Medidas adoptadas para la prevención de los sucesos extraordinarios
-El gestor de la infraestructura SŽ, s. o., y el operador ferroviario ČD, a. s., no adoptaron ni emitieron ninguna medida.
+### 5.2 Medidas adoptadas para la prevención de sucesos ferroviarios
+El gestor de la infraestructura SŽ, s. o. y el ferroviario ČD, a. s. no han adoptado ni emitido ninguna medida.
 ### Measures taken since the occurrence
-The infrastructure manager SŽ, s. o., and the railway undertaking ČD, a. s. have not taken any measures.
+The infrastructure manager SŽ, s. o., and the railway undertaking ČD, a. s. have not taken
+any measures.
 ### 5.3 Hallazgos complementarios
-En el gestor de la infraestructura SŽ, s. o.:
-la no observación (no determinación) de la intensidad real del tráfico rodado en el •
-paso a nivel por parte del gestor de la infraestructura, lo que tuvo como consecuencia que no detectara que la protección del paso a nivel P8324 únicamente con un cruce de San Andrés no se ajustaba a la normativa legal.
-En el operador ferroviario ČD, a. s.:
-el maquinista del tren Os 12818 daba señales acústicas audibles de «Atención» a •
-una distancia de 468 m y 359 m antes del paso a nivel P8324, de una duración inferior a 2 s:
+Por parte del gestor de la infraestructura SŽ, s. o.:
+la no vigilancia (no determinación) de la intensidad real del tráfico rodado en el PAN •
+por parte del gestor de la infraestructura, lo que tuvo como consecuencia que no
+detectara que la protección del PAN P8324 únicamente con una cruz de advertencia
+no se ajustaba a la normativa legal.
+Por parte del ferroviario ČD, a. s.:
+el maquinista del tren Os 12818 emitía a una distancia de 468 m y 359 m del PAN •
+P8324 avisos audibles de «Atención» con una duración inferior a 2 s:
 
 ## Página 32
+
 
 U vlastníka místní komunikace obce Horní Tošanovice:
 • a ambos lados del P. de c. P8324 no se habían colocado, sobre las señales de tráfico A 31a «Tablero de señalización (240 m)», las señales de tráfico de advertencia A 30 «Paso a nivel sin barreras».
@@ -949,8 +1016,8 @@ Dirigidas a la Autoridad Nacional de Seguridad Checa (la NSA):
  se recomienda adoptar una medida propia para garantizar que:
 • ◦ se realice lo más rápido posible el cambio del modo de protección del paso a nivel n.º P8324, el momento de tráfico supera los 10 000 y alcanza un valor de hasta 28 800 cuando se tiene en cuenta el quincuagésimo volumen anual de flujo de tráfico más alto
 
-
 ## Página 33
+
 
 de flujo de tráfico, de modo que, en relación con las recomendaciones de seguridad emitidas con anterioridad, el citado paso a nivel quede protegido mediante un sistema de señalización luminoso de paso a nivel y complementado con barreras,
 ◦ los cruces de advertencia del paso a nivel n.º P8324, incluidas las señales de tráfico verticales P 6 «¡Alto, ceda el paso!», estén provistos de un fondo fluorescente amarillo-verde retroreflectante hasta que se realice el cambio de protección del paso a nivel n.º P8324.
@@ -964,11 +1031,9 @@ inspector
 Inspección Territorial de Ostrava
 Inspección Territorial de Ostrava
 
-
 ## Página 34
 
-## PŘÍLOHY
-
-Fig. n.º 2: Vista del cruz de advertencia y de la señal de tráfico vertical P 6 desde el camino de campo por el que se aproximaba el turismo (OA) al P. de c. P8324.
+## Anexos
+Fig. n.º 2: Vista de la cruz de aviso y de la señal vertical de tráfico P 6 desde el camino de campo por el que circulaba el OA hacia el PŽ P8324.
         Fuente: DI
-Fig. n.º 3: Vista desde el nivel del cruz de advertencia hacia la vía en la dirección del tren entrante Os 12818 hacia el P. de c. P8324 (a la izquierda, el camino de campo que discurre paralelo).      Fuente: DI
+Fig. n.º 3: Vista desde el nivel de la cruz de aviso hacia la vía en la dirección del tren Os 12818 que se aproxima al PŽ P8324 (a la izquierda, el camino de campo que transcurre paralelo).      Fuente: DI

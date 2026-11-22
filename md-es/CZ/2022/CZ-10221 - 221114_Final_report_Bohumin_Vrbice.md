@@ -10,13 +10,14 @@ chars: 121044
 ratio_longitud: 1.26
 tokens_in: 56373
 tokens_out: 40863
-verificacion: revisar
-notas_cifras: ["bloque 1: original bilingüe: se compara contra el idioma principal (EN)", "bloque 2: original bilingüe: se compara contra el idioma principal (CS)", "bloque 4: cifras largas: 2/119", "bloque 5: original bilingüe: se compara contra el idioma principal (CS)", "bloque 9: original bilingüe: se compara contra el idioma principal (EN)"]
-avisos: ["bloque 9: ratio 1.73"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 3: original bilingüe: se compara contra el idioma principal (CS)", "página 5: original bilingüe: se compara contra el idioma principal (CS)", "página 6: original bilingüe: se compara contra el idioma principal (CS)", "página 9: original bilingüe: se compara contra el idioma principal (CS); cifras cortas: 2/26", "página 10: original bilingüe: se compara contra el idioma principal (CS)", "página 12: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -40,13 +41,13 @@ IČ: 75009561
 mail@dicr.cz
 tel.: +420 736 521 003
 
-
 ## Página 2
+
 
 Este informe final es público y todos los hechos en él recogidos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ## 1 RESUMEN
 Fuente: Drážní inspekce
@@ -82,8 +83,8 @@ No fue detectado por la Drážní inspekce ningún factor contribuyente.
 No fue detectada por la Drážní inspekce ninguna causa sistémica.
 No fue emitida por la Drážní inspekce ninguna recomendación de seguridad.
 
-
 ## Página 4
+
 
 ## SUMMARY
 Date and time:        19th April 2022, 3:57 (1:57 GMT).
@@ -124,8 +125,8 @@ Recommendation:
 •
 not issued.
 
-
 ## Página 5
+
 
 # Índice
 1 RESUMEN........................................................................................................................3
@@ -174,8 +175,8 @@ riesgos.........................................................................
 4.2.1 Factores o consecuencias derivados del diseño de los vehículos ferroviarios, de la infraestructura
 ferroviaria o de las instalaciones técnicas.....................................................................31
 
-
 ## Página 6
+
 
 4.2.2 Factores o consecuencias derivados de la instalación y puesta en servicio de los vehículos
 ferroviarios, de la infraestructura ferroviaria o de las instalaciones técnicas......................................31
@@ -214,6 +215,7 @@ de seguridad u otras entidades de evaluación de la conformidad.................
 ANEXOS..............................................................................................................................41
 
 ## Página 7
+
 
 ### Lista de abreviaturas y símbolos utilizados
 CDP
@@ -291,8 +293,8 @@ Servicio de Emergencias Sanitarias de la Región de Moravia-Silesia
 žst.
 estación de ferrocarril
 
-
 ## Página 8
+
 
 ### Lista de abreviaturas de las disposiciones legales, normas y normativas internas utilizadas
 ley núm. 262/2006 Sb.
@@ -314,37 +316,36 @@ normativa interna del transportista RCC-CZ «P 1 Normativa sobre conocimientos d
 normativa RCC-CZ P3 
 normativa interna del transportista RCC-CZ «P 3 Normativa para las tripulaciones de locomotora», en la redacción vigente en el momento de la ocurrencia de la MU
 
-
 ## Página 9
 
 ## 2 INVESTIGACIÓN Y SUS RELACIONES
-### 2.1 Decisión sobre el inicio de la investigación
-La DI decidió iniciar la investigación de la MU en cuestión el 19. 4. 2022.
-### 2.2 Fundamentación de la decisión sobre el inicio de la investigación
-La DI decidió investigar la MU en cuestión sobre la base de su gravedad, recurrencia y de los impactos de la MU sobre el explotador de la vía y el transportista, y sobre la base de la facultad derivada del § 53b de la ley núm. 266/1994 Sb.
+### 2.1 Decisión de iniciar la investigación
+La DI decidió iniciar la investigación de la MU en cuestión el 19 de abril de 2022.
+### 2.2 Fundamentación de la decisión de iniciar la investigación
+La DI decidió investigar la MU en cuestión sobre la base de su gravedad, repetitividad y de los efectos de la MU sobre el gestor de la vía y el transportista, así como sobre la base de la facultad derivada del § 53b de la Ley núm. 266/1994 Sb.
 ### 2.3 Alcance y limitaciones de la investigación, incluida la fundamentación correspondiente
 La DI no se encontró, en el marco de la investigación de la MU en cuestión, con limitaciones que influyeran negativamente en el modo y los procedimientos de la investigación.
-### 2.4 Descripción resumida de las capacidades y funciones técnicas del equipo de investigadores
+### 2.4 Descripción resumida de las capacidades y funciones técnicas del equipo de investigación
 Investigación de la DI en el lugar de la MU:
-La DI no participó en la investigación en el lugar de la MU. 
+La DI no participó en la investigación en el lugar de la MU.
 Constitución del equipo de investigación:
 no fue necesario constituirlo.
-Colaboración externa:
+Cooperación externa:
 se utilizó, con las siguientes entidades:
 •
-VŠB-TUO, Facultad de Ingeniería, Instituto de Transporte, Departamento de Técnica de Transporte, representado por Ing. Jaromír Široký, Ph.D., que elaboró el documento: «Análisis del proceso de frenado para la determinación de las distancias de frenado del HDV de la serie 753.6», número de informe: ID202202Sir, de fecha 15. 9. 2022 (en adelante, Análisis del proceso de frenado del HDV de la serie 753.6). 
+VŠB-TUO, Facultad de Ingeniería, Instituto de Transporte, Departamento de Técnica de Transporte, representado por el Ing. Jaromír Široký, Ph.D., que elaboró el documento: "Análisis del proceso de frenado para la determinación de las distancias de frenado de la HDV serie 753.6", número de informe: ID202202Sir, de fecha 15 de septiembre de 2022 (en adelante, Análisis del proceso de frenado de la HDV serie 753.6).
 2.5 Comunicación y consultas durante la investigación con las personas o entidades que participaron en el suceso
-En la investigación de las causas y circunstancias de la ocurrencia de la MU, la DI se basó principalmente en sus propios conocimientos, hallazgos y en su propia documentación fotográfica realizada tras el inicio de su propia investigación. Durante la investigación, la DI solicitó la documentación necesaria al explotador de la vía SŽ y al transportista RCC-CZ. 
-La investigación de las causas y circunstancias de la ocurrencia de la MU se realizó de acuerdo con la ley núm. 266/1994 Sb. y el decreto núm. 376/2006 Sb. 
-### 2.6 Descripción del nivel de colaboración ofrecido por las entidades participantes
-La DI realizó, en colaboración con el transportista RCC-CZ y en presencia de un empleado de O18 SŽ en la estación de Bohumín, distrito Bohumín-Vrbice, una prueba de verificación con el fin de determinar:
+En la investigación de las causas y circunstancias de la aparición de la MU, la DI se basó principalmente en sus propios conocimientos, hallazgos y en su propia documentación fotográfica realizada tras el inicio de la propia investigación. Durante la investigación, la DI solicitó posteriormente la documentación necesaria al gestor de la vía SŽ y al transportista RCC-CZ.
+La investigación de las causas y circunstancias de la aparición de la MU se realizó de conformidad con la Ley núm. 266/1994 Sb. y con la Ordenanza núm. 376/2006 Sb.
+### 2.6 Descripción del nivel de cooperación ofrecido por las entidades participantes
+La DI realizó, en cooperación con el transportista RCC-CZ y en presencia del empleado O18 de SŽ en la est. Bohumín, distrito Bohumín-Vrbice, una prueba de verificación con el fin de determinar:
 •
-la distancia a la que la persona que conduce el vehículo ferroviario (en adelante, maquinista) durante la marcha desde la SK núm. 604a a la SK núm. 626 ve a lo largo del DV estacionado (detenido) en la SK núm. 624, con el frente en el km 272,197 (véase el punto 3.1.3 de este ZZ);
+la distancia a la que la persona que conduce el vehículo ferroviario (en adelante, maquinista) ve, durante la marcha desde el SK núm. 604a al SK núm. 626, el DV aparcado (detenido) en el SK núm. 624, con el frontal en el km 272,197 (véase el punto 3.1.3 de esta ZZ);
 •
-la visibilidad – la posibilidad de reconocer un DV no identificado detenido en la SK núm. 626 durante la noche, con la iluminación de la vía realizada de la misma manera que en el momento de la ocurrencia de la MU, véase el punto 3.1.3 de este ZZ.
-
+la visibilidad —la posibilidad de reconocer un DV sin señalizar detenido en el SK núm. 626 durante la noche, con la iluminación de la vía de la misma manera que en el momento de la aparición de la MU, véase el punto 3.1.3 de esta ZZ.
 
 ## Página 10
+
 
 Posteriormente, la DI realizó, en colaboración con el transportista RCC-CZ y con un representante del Departamento de Técnica de Transporte, Instituto de Transporte, Facultad de Ingeniería, VŠB-TUO, una prueba de verificación en la estación de Žilina, distrito de la estación de clasificación (República Eslovaca), con el fin de documentar las curvas de frenado reales del HDV de la serie 753.6, a través de sensores GPS previamente instalados en el HDV, para la posterior evaluación del modo de conducción del maquinista, es decir, si, entre otros, de acuerdo con el § 1 letra m) del decreto núm. 173/1995 Sb., cumplió las condiciones de marcha según las condiciones de visibilidad.
 El nivel de colaboración con los representantes de las entidades participantes en la MU fue estándar; la DI recibió la información requerida para la investigación de las causas y circunstancias de la ocurrencia de la MU. 
@@ -377,8 +378,8 @@ Durante la investigación de la MU no se plantearon dificultades ni problemas qu
 ### 2.9 Interacción con los órganos judiciales
 Durante la investigación de la MU en cuestión, no se inició por parte de la DI ni por parte de los órganos judiciales ninguna comunicación ni colaboración.
 
-
 ## Página 11
+
 
 ### 2.10 Cualquier otra información relevante para la investigación
 Todas las circunstancias esenciales determinadas relativas al desarrollo de la investigación de la MU en cuestión ya han sido indicadas anteriormente.
@@ -403,8 +404,8 @@ La estación de Bohumín se encuentra en el km 275,908 de la vía ferroviaria, c
 La estación de Bohumín está dividida, desde el punto de vista del tráfico, en el distrito de la estación de apartadero, estación de apartadero OCÚ, estación de viajeros, distrito MEXIKO, THÚ, andén izquierdo, andén derecho y distrito Bohumín-Vrbice. El distrito Bohumín-Vrbice está delimitado, por el lado del distrito del andén izquierdo, por las señales principales (de itinerario) (en adelante, señal de itinerario) Lc91 y Lc93, por el lado del distrito del andén derecho, por las señales de itinerario Lc92 y Lc94, y por el lado de la estación de Ostrava hl. n., por las señales principales (de entrada) 1S y 2S.
 La ocurrencia de la MU – la colisión del HDV 753.613-9 circulando de forma autónoma en maniobras (también denominada en adelante, elemento de maniobra) con el HDV estacionado A-ÖBB 91 81 1293 184-8 (en adelante, 1293.184-8) tuvo lugar en la SK núm. 624 en el km 272,197. El itinerario (de maniobra) (en adelante, itinerario de maniobra) para el elemento de maniobra estaba establecido, en el extremo de Ostrava de la estación de Bohumín, distrito Bohumín-Vrbice, desde la SK núm. 604a desde la señal de clasificación Se621 hasta la SK núm. 624, ocupada por el HDV estacionado 1293.184-8 y por un conjunto de DV estacionados. A esta maniobra precedió la maniobra del HDV 753.613-9 desde la SK núm. 632 hasta la SK núm. 604a (hasta la altura de la señal de clasificación Se621), realizada con el fin de su posterior estacionamiento a corto plazo en la SK núm. 626.
 
-
 ## Página 12
+
 
  Fig. núm. 1: Esquema del lugar de la ocurrencia de la MU.
              Fuente: DI utilizando como base cartográfica: https://mapy.cz/
@@ -413,6 +414,7 @@ El lugar de la ocurrencia de la MU se determinó en la SK núm. 624 en el km 272
 El elemento de maniobra estaba compuesto por el HDV 753.613-9 circulando de forma autónoma. El HDV estacionado 1293.184-8 estaba situado con el frente hacia el lado de la cabina del maquinista 1 en la SK núm. 624, a una distancia de aprox. 2 m, en el sentido de la marcha del elemento de maniobra, tras la señal principal (de salida) (en adelante, señal de salida) L624, que se encontraba en el km 272,195. Ambos HDV resultaron dañados en la MU; se detectó una pequeña fuga de fluidos de trabajo del HDV 753.613-9, que, sin embargo, no constituyó una catástrofe ecológica. Detrás del HDV estacionado 1293.184-8 se encontraba un conjunto estacionado de 40 TDV acoplado en el lado del distrito de la estación de viajeros con el HDV A-ÖBB 91 81 1293 199-6. Desde la dirección de
 
 ## Página 13
+
 
 En la est. Ostrava hl. n. el convoy estaba señalizado con la señal "Fin de tren", consistente en dos placas rectangulares de señal de final de tren, formadas por triángulos rojos y blancos enfrentados de material reflectante, situadas a la misma altura en el frontal del último TDV PL-PKPC 31 51 5495 867-4 (en adelante 31 51 5495 867-4). El convoy estacionado TDV junto con el HDV acoplado tenía una longitud de 581 m, 164 ejes y un peso de 950 t. Tras la inspección de los DV estacionados no se constataron daños en los mismos.
 Entre los discos de los amortiguadores del HDV estacionado 1293.184-8 y el TDV extremo del convoy de DV estacionado se constató una distancia de 21 cm. El TDV 31 51 5495 867-4 no presentaba huellas de impacto ni desplazamiento (la compresión de los amortiguadores correspondía al estado habitual). Por tanto, es probable que durante el suceso del accidente no se produjera el impacto del HDV estacionado contra el convoy de DV estacionados.
@@ -434,8 +436,8 @@ la aguja n.º 627 (en el sentido de circulación de la maniobra de maniobras, de
 •
 la vía SK n.º 624 en el lugar del MU, es decir, en el lado de la cabeza de vías de Ostrava de la est. Bohumín, sector Bohumín-Vrbice, en el sentido de circulación de la maniobra de maniobras discurría en un arco derecho de radio 190 m al nivel del terreno circundante y descendía con una pendiente de 0,39 ‰. La superestructura ferroviaria en el lugar de la ocurrencia del MU estaba formada por traviesas de ancho estándar de forma S49 (fabricadas en el año 1996) sobre soportes de traviesa de madera (en adelante traviesa) con fijación K. Las almohadillas de caucho bajo las bases de las traviesas no estaban dañadas. En la retención
 
-
 ## Página 14
+
 
 de los elementos de fijación, traviesas, traviesas y lecho de vía no se constataron anomalías.
 El balasto era de piedra triturada de fracción 31,5/63 mm;
@@ -459,6 +461,7 @@ El HDV 1293.184-8 estaba asegurado contra la marcha con freno de trinquete de mu
 En el lugar del MU no se realizaron, inmediatamente antes de su ocurrencia, trabajos de reparación o mantenimiento por parte del propietario, del operador de la vía ni de otros sujetos. La circulación en el lugar del MU y sus alrededores se desarrollaba en régimen habitual.
 
 ## Página 15
+
 
 ### 3.1.4 Fallecidos, heridos y daños materiales
 En el MU no se produjeron daños a la salud de personas.
@@ -497,6 +500,7 @@ El transporte ferroviario se explotaba en virtud de un contrato celebrado entre 
 
 ## Página 16
 
+
 ### 3.1.7 Descripción de los vehículos ferroviarios y sus composiciones, incluidos los números de registro
 | HDV estacionado 1293 .184 -8: |  | HDV estacionado | Régimen de frenado: |
 | Longitud de la maniobra de maniobras (m): | 1898 , | HDV: 1293 .184 -8 | – |
@@ -524,6 +528,7 @@ El HDV 753.613-9 (denominación de fábrica EffiLiner 1600) es una locomotora di
 El HDV 753.613-9 estaba en el momento de la ocurrencia del MU equipado con un dispositivo de registro automático de datos – tipo Re1xx n.º 9201 (en adelante registrador de velocidad). De los datos registrados, tras tener en cuenta la corrección de tiempo respecto al tiempo registrado por los ordenadores tecnológicos de la SZZ de la est. Bohumín, sector Bohumín-Vrbice, que fue para las necesidades de
 
 ## Página 17
+
 
 de la investigación de la MU se estableció como hora de referencia, tras redondear los parámetros de tiempo a segundos completos, la velocidad a km·h-1 y la distancia a metros completos, entre otros, se desprende:
 •
@@ -589,8 +594,8 @@ debajo del valor de 3,5 bar. El HDV a partir de este momento se frenó únicamen
 por el efecto del freno neumático, se encontraba a una distancia de 20 m del
 lugar de la colisión;
 
-
 ## Página 18
+
 
 | • a las 3:57:24 h | el extremo delantero del HDV circulando a una velocidad de 35 km·h-1 se encontraba a la altura de la señal de salida L624, es decir, a una distancia de 2 m del lugar de la colisión. En la tubería principal se registró una presión de aire de 0,975 bar; |
 | • a las 3:57:25 h | se produjo la MU: el extremo delantero del HDV impactó a una velocidad de 29 km·h-1 contra el HDV estacionado en la SK n.º 624. 1 s después el HDV se detuvo en la posición final tras la producción de la MU; |
@@ -606,66 +611,65 @@ Del análisis de los datos registrados el día 19. 4. 2022 en el intervalo de 0:
 | • a las 1:33:10 h | el tramo de maniobras formado a partir del tren Nex 45237 entró íntegramente en la SK n.º 626. |
 | • a las 2:01:37 h | el tramo de maniobras formado a partir del tren Nex 45237 liberó la SK n.º 626. |
 
-
 ## Página 19
 
-hasta las 2:07:46 h se registró una maniobra realizada desde la SK n.º 626
+hasta las 2:07:46 h se registró una maniobra de maniobras realizada desde la SK n.º 626
 a la SK n.º 630 a través de la SK n.º 604a y 616a, donde el tramo de maniobras cambió
-de dirección, es decir, de un tramo de maniobras originalmente arrastrado (SK n.º 626 → SK
+de dirección, es decir, de un tramo de maniobras originalmente tirado (SK n.º 626 → SK
 n.º 616a) a un tramo de maniobras empujado (SK n.º 616a → SK n.º 630).
-Nota DI: En realidad la maniobra se realizaba en la SK n.º 632, que
-no está conectada al SZZ, y por lo tanto no es posible determinar a partir de los datos registrados
+Nota DI: En realidad, la maniobra se realizaba en la SK n.º 632, que
+no está conectada al SZZ, y por lo que no es posible determinar a partir de los datos registrados
 si la maniobra se realizaba en la SK n.º 630 o en la SK n.º 632.
-La SK n.º 632 es una vía de maniobras – aguja decisiva, que tampoco
-está conectada al SZZ; entre la SK n.º 630 y 632 hay una aguja
-n.º 626 de control manual;
+La SK n.º 632 es una vía de maniobras – la aguja decisiva, que tampoco
+está conectada al SZZ, es entre la SK n.º 630 y 632 la aguja
+n.º 626 de mando manual;
 •
-a las 3:52:38 h se realizaron mediante la operación normal del SZZ las operaciones para la marcha del tramo de maniobras
-desde la señal de clasificación Se618, es decir, desde la SK n.º 604a (véase la nota DI
-indicada a la hora 2:01:37 h), a través de la aguja desviadora Vk605 y a través de las
-aguja n.º 628, 629, 633, 636, 638, 639, 641 y 642 hasta la SK n.º 604a;
+a las 3:52:38 h mediante el funcionamiento normal del SZZ se realizaron las operaciones para la marcha del tramo de maniobras
+desde la señal de clasificación Se618, es decir, desde la SK n.º 630 (véase la nota DI
+indicada a la hora 2:01:37 h), a través de la aguja de desvío Vk605 plegada y a través de
+las agujas n.º 628, 629, 633, 636, 638, 639, 641 y 642 hasta la SK n.º 604a;
 •
-a las 3:52:40 h tras la realización por la acción automática del SZZ del enclavamiento de la ruta de maniobras
+a las 3:52:40 h tras el cierre de la vía de maniobras realizado por el funcionamiento automático del SZZ
 desde la señal de clasificación Se618, se estableció en la SK n.º 604a
-la ruta de maniobras. La señal de clasificación Se618 comenzó a indicar
-la señal "Maniobras permitidas";
+la vía de maniobras. La señal de clasificación Se618 comenzó a indicar
+la señal «Maniobra permitida»;
 •
-a las 3:53:18 h el extremo delantero del tramo de maniobras pasó la señal de clasificación Se618,
-el tramo de maniobras entró en la cabecera de Ostrava;
+a las 3:53:18 h el frente del tramo de maniobras pasó la señal de clasificación Se618,
+el tramo de maniobras entró en el extremo de Ostrava;
 •
-a las 3:54:30 h por la acción automática del SZZ se cambió la indicación de la señal de clasificación
-Se618 de la señal "Maniobras permitidas" a la señal "Maniobras
-prohibidas";
+a las 3:54:30 h mediante el funcionamiento automático del SZZ se cambió la señal de la
+señal de clasificación Se618 de la señal «Maniobra permitida» a la señal «Maniobra
+prohibida»;
 •
-a las 3:54:56 h el tramo de maniobras entró en la SK n.º 604a, 5 s después entró íntegramente en la SK
-n.º 604a;
+a las 3:54:56 h el tramo de maniobras entró en la SK n.º 604a, 5 s después entró
+entero en la SK n.º 604a;
 •
-### a las 3:56:15 h se realizaron mediante la operación normal del SZZ las operaciones para la marcha
+### a las 3:56:15 h mediante el funcionamiento normal del SZZ se realizaron las operaciones para la marcha
 ### del tramo de maniobras desde la señal de clasificación Se621, es decir, desde la SK
 n.º 604a, a través de las agujas n.º 642, 641, 639, 638, 636, 633, 629 y 627,
 hasta la SK n.º 624;
 •
-### a las 3:56:27 h tras la realización por la acción automática del SZZ del enclavamiento de la ruta de
-### maniobras desde la señal de clasificación Se621, se estableció en la SK n.º 624
-### la ruta de maniobras. La señal de clasificación Se621 comenzó a indicar
-### la señal "Maniobras permitidas";
+### a las 3:56:27 h tras el cierre de la vía de maniobras realizado por el funcionamiento automático del SZZ
+### desde la señal de clasificación Se621, se estableció en la SK n.º 624
+### la vía de maniobras. La señal de clasificación Se621 comenzó a indicar
+la señal «Maniobra permitida»;
 •
-a las 3:56:48 h el extremo delantero del tramo de maniobras pasó la señal de clasificación Se621,
+a las 3:56:48 h el frente del tramo de maniobras pasó la señal de clasificación Se621,
 el tramo de maniobras ocupó el KO V640, es decir, el KO de las agujas n.º 642 y 641. 6 s
 después el tramo de maniobras liberó la SK n.º 604a;
 •
-a las 3:56:55 h por la acción automática del SZZ se cambió la indicación de la señal de clasificación
-Se621 de la señal "Maniobras permitidas" a la señal "Maniobras
-prohibidas";
+a las 3:56:55 h mediante el funcionamiento automático del SZZ se cambió la señal de la
+señal de clasificación Se621 de la señal «Maniobra permitida» a la señal «Maniobra
+prohibida»;
 •
 a las 3:57:18 h el tramo de maniobras ocupó el KO V627, es decir, el KO de la aguja decisiva n.º 627 para
-la marcha del DV a la SK n.º 624 y 626;
+la marcha del DV hasta la SK n.º 624 y 626;
 •
-a las 3:57:21 h el tramo de maniobras ocupó el KO V624KK, es decir, la SK entre el final de la aguja n.º
-627 y la señal de salida L624;
-
+a las 3:57:21 h el tramo de maniobras ocupó el KO V624KK, es decir, la SK entre el extremo de la aguja
+n.º 627 y la señal de salida L624;
 
 ## Página 20
+
 
 •
 a las 3:57:25 h el tramo de maniobras liberó el KO V627, es decir, el KO de la aguja n.º 627;
@@ -696,6 +700,7 @@ maquinista del tramo de maniobras
 
 ## Página 21
 
+
 ◦a la guardia nocturna de maniobras de reserva de la estación de Bohumín, distrito Bohumín-Vrbice, ingresó el 18. 4. 2022 a las 18:00 h. Hasta el momento de la producción de la MU, la guardia transcurrió de forma estándar y sin incidencias,
 ◦alrededor de las cuatro de la madrugada acordó con el despachador 3G CDP Přerov, a través de la red GSM-R, una maniobra con el HDV 753.613-9 circulando en solitario, que consistía en trasladar dicho HDV desde la vía de clasificación (SK) n.º 632, en el lado de la cabeza de vías de Ostrava de la estación de Bohumín, distrito Bohumín-Vrbice, a la SK n.º 626,
 ◦tras la concesión del permiso para la maniobra con la señal «Maniobra permitida», indicada por la señal de clasificación Se621, puso en movimiento la formación de maniobras y vigiló la ruta de maniobras. Nota DI: se trata de la descripción de una maniobra en sentido contrario desde la SK n.º 604a en dirección a la SK n.º 626 solicitada,
@@ -715,8 +720,8 @@ La comunicación entre el despachador 3G CDP Přerov y el maquinista de la forma
 | • 1:58:26 h a 1:58:29 h | despachador 3G CDP Přerov | „Sí Bohumín-Vrbice .“ , |
 | • 1:58:30 h a 1:58:39 h | maquinista de la formación de maniobras | Saludo Vrbice aquí está RCC hacia 626 con carga „ , . . Jefe tengo aquí el tractor sacaría en dirección Ostrava , , y comprimiría eso hacia 632 Allí lo dejaría entero “ . , . |
 
-
 ## Página 22
+
 
 •
 1:58:40 h a
@@ -842,8 +847,8 @@ maquinista de la
 3:52:23
 formación de maniobras
 
-
 ## Página 23
+
 
 | • 3:52:23 h a 3:52:25 h | despachador 3G CDP Přerov | Y luego avise De acuerdo “ „ . . |
 | • 3:52:26 h a 3:52:27 h | maquinista de la formación de maniobras | De acuerdo Gracias “ „ . . |
@@ -859,66 +864,63 @@ A las 3:56:40 h el maquinista puso la formación de maniobras en movimiento; el 
 A continuación se produjo una circulación por inercia. A las 3:57:18 h el frente de la formación de maniobras, circulando a una velocidad de 38 km·h-1, se encontraba al comienzo del último (determinante) desvío n.º 627, es decir, a una distancia de 63 m antes del lugar de la colisión. En el espacio del comienzo de dicho desvío, que de conformidad con la normativa y los procedimientos tecnológicos del explotador de la vía no estaba equipado con una señal de desvío, el maquinista de la formación de maniobras comprobó que la ruta de maniobras no estaba establecida de acuerdo con su petición hacia la SK n.º 626, sino hacia la SK n.º 624 contigua, en la que se encontraba estacionado, a 2 m detrás del nivel de la señal de salida L624, el HDV 1293.184-8. El maquinista de la formación de maniobras reaccionó a su hallazgo manipulando el controlador de integración, como consecuencia de lo cual a las 3:57:21 h se conmutó el circuito de tracción del HDV al modo EDB.
 Un segundo después, el maquinista de la formación de maniobras utilizó, para evitar la producción de la MU o reducir las consecuencias de su producción, el freno de acción directa e inició la frenada de acción rápida, con lo que se redujo la presión de aire en la tubería principal desde el valor nominal de 4,775 bar a 1,975 bar y se llenaron los cilindros de freno a una presión superior a 0,2 bar. El HDV circulando a una velocidad de 38 km·h-1 se encontraba a una distancia de 29 m antes del lugar de la colisión. A las 3:57:24 h el frente del HDV, a una velocidad de 35 km·h-1, pasó el nivel de la señal de salida L624. Un segundo después se produjo la MU – el frente de la formación de maniobras impactó a una velocidad de 29 km·h -1 contra el HDV estacionado en la SK n.º 624.
 
-
 ## Página 24
 
-### 3.2.2 Secuencia de hechos desde la producción de la excepcionalidad hasta la finalización de las acciones de los servicios de emergencia
+### 3.2.2 Secuencia de hechos desde la aparición del suceso extraordinario hasta la finalización de las acciones de los servicios de emergencia
 •
 3:57 h
-producción de la MU;
+aparición del SE;
 •
 4:00 h
-el maquinista de la formación de maniobras comunicó la producción de la MU al despachador 3G CDP
-Přerov;
+el maquinista de la maniobra comunicó la aparición del SE al despachador 3G CDP Přerov;
 •
 4:06 h
-el despachador 3G CDP Přerov comunicó la producción de la MU al jefe de despachadores CDP
-Přerov;
+el despachador 3G CDP Přerov comunicó la aparición del SE al jefe de despachadores CDP Přerov;
 •
 4:23 h
-el despachador 3G CDP Přerov comunicó la producción de la MU al HZS SŽ;
+el despachador 3G CDP Přerov comunicó la aparición del SE a HZS SŽ;
 •
 4:26 h
-el despachador 3G CDP Přerov comunicó la producción de la MU a la PČR;
+el despachador 3G CDP Přerov comunicó la aparición del SE a PČR;
 •
 4:28 h
-el jefe de despachadores CDP Přerov comunicó la producción de la MU a la O18 SŽ;
+el jefe de despachadores CDP Přerov comunicó la aparición del SE a O18 SŽ;
 •
 4:30 h
-el equipo de intervención del HZS SŽ Ostrava se presentó en el lugar de la producción de la MU;
+el grupo de intervención de HZS SŽ Ostrava se presentó en el lugar de aparición del SE;
 •
 4:33 h
-la persona autorizada de la O18 SŽ notificó la producción de la MU al COP DI como colisión de un HDV con un HDV estacionado durante una maniobra en la estación de Bohumín, distrito Bohumín-Vrbice, en la SK n.º 624, en el km 272,800, en la que se habría producido un daño de aproximadamente 500 000 Kč;
+la persona autorizada de O18 SŽ notificó la aparición del SE a COP DI como colisión de HDV con un HDV estacionado durante maniobras en la est. Bohumín, distrito Bohumín-Vrbice, en el SK n.º 624, en el km 272,800, con la que se habría producido un daño de aproximadamente 500 000 Kč;
 •
 4:35 h
-el empleado en el COP DI, con base en los hechos notificados, concedió el permiso para la liberación de la vía; 
+el empleado en COP DI, sobre la base de los hechos notificados, concedió el consentimiento para la liberación de la vía;
 •
 4:46 h
-el despachador 3G CDP Přerov comunicó la producción de la MU a la ZZS MSK;
+el despachador 3G CDP Přerov comunicó la aparición del SE a ZZS MSK;
 •
 4:58 h
-el equipo de intervención de la ZZS MSK se presentó en el lugar de la producción de la MU;
+el grupo de intervención de ZZS MSK se presentó en el lugar de aparición del SE;
 •
 6:10 h
-la persona autorizada de la O18 SŽ finalizó la investigación y concedió el permiso para iniciar los trabajos de limpieza. Al mismo tiempo se restableció plenamente la circulación;
+la persona autorizada de O18 SŽ finalizó la investigación y concedió el consentimiento para el inicio de los trabajos de despeje. Al mismo tiempo, se restableció plenamente la circulación;
 •
 6:41 h
-la persona autorizada de la O18 SŽ completó la notificación inicial de la producción de la MU con la precisión del lugar de la producción de la MU y el aumento de la estimación inicial del daño – la MU se habría producido en el km 272,197, mientras que la estimación preliminar del daño se incrementó en 19 500 000 Kč.
-El Plan IZS fue activado, a las 4:23 h, es decir, 26 min. después de la producción de la MU, por el despachador 3G CDP
-Přerov.
-En el lugar de la MU intervinieron los siguientes componentes del IZS:
+la persona autorizada de O18 SŽ completó la notificación inicial de la aparición del SE con la precisión del lugar de aparición del SE y el aumento de la estimación inicial de daños – el SE habría aparecido en el km 272,197, habiéndose aumentado la estimación preliminar de daños en 19 500 000 Kč.
+El Plan IZS fue activado, a las 4:23 h, es decir, 26 min. después de la aparición del SE, por el despachador 3G CDP Přerov.
+En el lugar del SE intervinieron los siguientes componentes del IZS:
 •
-PČR, distrito de Bohumín;
+PČR, distrito Bohumín;
 •
 ZZS MSK;
 •
 HZS SŽ Ostrava.
 ## 4 ANÁLISIS DEL SUCESO
-### 4.1 Funciones y obligaciones
-### 4.1.1 Transportistas y explotadores de vías
-El explotador de la vía estaba, de acuerdo con lo dispuesto en la ley n.º 266/1994 Sb., obligado a explotar la vía para las necesidades del transporte ferroviario fluido y seguro de acuerdo con las normas para la explotación de la vía y la autorización administrativa, y a garantizar que el sistema de seguridad del explotador de la vía por él establecido tuviera en cuenta el alcance y el objeto de su actividad y de la actividad de los distintos transportistas ejercida en la vía por él explotada, permitiera la explotación de la vía y del transporte ferroviario
+### 4.1 Tareas y obligaciones
+### 4.1.1 Transportistas y gestores de infraestructura
+El gestor de la infraestructura estaba obligado, según lo dispuesto en la Ley n.º 266/1994 Sb., a explotar la infraestructura para las necesidades del transporte ferroviario fluido y seguro de acuerdo con las normas de explotación de la infraestructura y la autorización administrativa, y a garantizar que el sistema de seguridad del gestor de la infraestructura por él establecido tuviera en cuenta el alcance y el objeto de su actividad y de las actividades de los distintos transportistas realizadas en la infraestructura por él explotada, permitiera la explotación de la infraestructura y del transporte ferroviario
 
 ## Página 25
+
 
 de conformidad con las especificaciones técnicas de interoperabilidad, otras disposiciones legales y certificaciones del operador, y fue cumplido.
 La persona que dirige el tráfico ferroviario (también despachador 3G CDP Přerov) está, entre otras obligaciones, obligada a utilizar, en la explotación de la vía, las dependencias derivadas de la actividad del SZZ explotado y del enclavamiento de la vía, siendo así que las instrucciones dadas durante la dirección del tráfico deben ser breves y comprensibles y no pueden poner en peligro la seguridad del tráfico ferroviario.
@@ -943,8 +945,8 @@ En la investigación se constató la infracción de disposiciones legales y de d
 art. 1692 de la disposición interna SŽDC D1:
 «Solo se puede maniobrar en las vías destinadas a la circulación de trenes con la autorización del jefe de estación. El jefe de estación solo puede dar la autorización para maniobrar si conoce al operador que va a
 
-
 ## Página 26
+
 
 maniobrar, la tecnología de maniobra y de tracción (es decir, eléctrica, diésel, vapor) requerida por el operador de todas las locomotoras activas incluidas en la sección de maniobra. Con esta autorización, el jefe de estación comunica al empleado que dirige la maniobra o al jefe de cuadrilla de maniobras, si está encargado de acordar la maniobra, y a los operadores de desvíos, en cuyo ámbito de maniobras se va a maniobrar:
 a) en qué vías destinadas a la circulación de trenes se permite maniobrar;
@@ -971,8 +973,8 @@ En la investigación se constató la infracción de disposiciones legales y de d
 art. 329 de la disposición interna SŽDC D1:
 «Por el correcto uso de las señales y la emisión de señales responde el empleado que las emite; ... El empleado al que van dirigidas las señales debe garantizar las condiciones (si puede influir en ellas) para que pueda percibir correctamente las señales y regirse por ellas.»;
 
-
 ## Página 27
+
 
 •
 art. 1676 de la disposición interna SŽDC D1:
@@ -994,29 +996,29 @@ La velocidad durante la maniobra se rige según cómo esté frenada la sección 
 
 ## Página 28
 
-cuando en esta señal se muestra la señal «Maniobra permitida» o cuando el encargado de desvío que opera esta señal da su consentimiento para la maniobra por otro medio. Solo el maquinista, al que se le conoce el procedimiento de trabajo durante la maniobra, es decir, también las SK en las que está permitido maniobrar, puede durante la maniobra cumplir los requisitos para la explotación segura de la vía y del tráfico ferroviario, es decir, entre otros:
+cuando en este señálico se muestra la señal «Maniobra permitida», o cuando el agente de agujas que opera dicho señálico da su consentimiento a la maniobra de otra manera. Solo el maquinista, al que se le conoce el procedimiento de trabajos durante la maniobra, es decir, también las SK en las que está permitido maniobrar, puede durante la maniobra cumplir los requisitos para la explotación segura de la vía y del transporte ferroviario, es decir, entre otros:
 •
-vigilar la libertad de la ruta de maniobra, es decir, si en la ruta de maniobra no hay DV u otros obstáculos que pueda observar desde su puesto de mando, y la distribución de DV;
+vigilar la libertad de la ruta de maniobra, es decir, si en la ruta de maniobra no hay DV u otros obstáculos que pueda observar desde su puesto, y la disposición de DV;
 •
-detener el tramo de maniobra si comprueba que la ruta de maniobra no se ha establecido según su solicitud.
-El maquinista del tramo de maniobra, formado por el HDV 753.613-9 circulando en solitario, antes incluso de iniciar la maniobra, acordó con el despachador 3G CDP Přerov la maniobra del HDV 753.613-9 circulando en solitario desde la SK n.º 632 hasta la SK n.º 626 con el fin de su estacionamiento a corto plazo en esta SK.
-El maquinista puso en movimiento el tramo de maniobra en la SK n.º 632, junto a la señal de agrupamiento Se618, que indicaba la señal «Maniobra permitida», sin haber recibido del despachador 3G CDP Přerov el aviso sobre la SK n.º 604a, en la que estaba permitido maniobrar y en la que debía cambiarse el sentido de marcha del tramo de maniobra para la siguiente parte de la maniobra hasta la SK n.º 626. Tampoco recibió información sobre la hora en la que se podía iniciar la maniobra y la hora en la que debía finalizarse como más tarde la maniobra permitida.
-Esto no permitió al maquinista comprobar que la ruta de maniobra desde la SK n.º 632 hasta la SK n.º 604a, en la que estaba permitido maniobrar, se había establecido correctamente. El maquinista, durante esta parte de la maniobra, detuvo correctamente el HDV en maniobra en la SK n.º 604a tras pasar la señal de agrupamiento Se621, y ello antes de la señal de agrupamiento Se622, donde terminaba la ruta de maniobra. El maquinista del tramo de maniobra en la SK n.º 604a no cambió el sentido de marcha según la información contenida en el permiso de maniobra concedido por el despachador 3G CDP Přerov, sino únicamente en base a su propia intuición y a las costumbres de explotación.
-El maquinista del tramo de maniobra toleró al despachador 3G CDP Přerov la ausencia de información sobre la SK n.º 604a, en la que estaba permitida la maniobra desde la SK n.º 632, y no exigió información a dicho despachador.
-Lo anterior no puede valorarse en relación causal con la aparición de la MU, ya que se trataba de una deficiencia referida exclusivamente a la parte de la maniobra realizada, es decir, para la maniobra desde la SK n.º 632 hasta la SK n.º 604a, durante la cual no se produjo la MU. La MU se produjo únicamente durante la maniobra posterior realizada circulando en sentido contrario, que fue autorizada por el despachador 3G CDP Přerov mediante la señal «Maniobra permitida» indicada por la señal de agrupamiento Se621.
+detener el elemento de maniobra si comprueba que la ruta de maniobra no está establecida según su solicitud.
+El maquinista del elemento de maniobra, compuesto por el HDV 753.613-9 circulando de forma independiente, antes incluso de iniciar la maniobra, acordó con el despachador 3G CDP Přerov la maniobra del HDV 753.613-9 circulando de forma independiente desde la SK n.º 632 a la SK n.º 626 con el fin de su estacionamiento a corto plazo en dicha SK.
+El maquinista puso en movimiento el elemento de maniobra en la SK n.º 632, junto al señálico de agrupación Se618, que indicaba la señal «Maniobra permitida», sin haber recibido del despachador 3G CDP Přerov el aviso sobre la SK n.º 604a, en la que estaba permitido maniobrar y en la que debía haberse cambiado el sentido de marcha del elemento de maniobra para la siguiente parte de la maniobra hacia la SK n.º 626. Tampoco recibió información sobre la hora en la que se podía iniciar la maniobra y a más tardar cuándo debía finalizarse la maniobra permitida.
+Lo anterior no permitió al maquinista comprobar que la ruta de maniobra desde la SK n.º 632 a la SK n.º 604a, a la que estaba permitido maniobrar, hubiera sido establecida correctamente. El maquinista durante esta parte de la maniobra detuvo correctamente, con el HDV en maniobra en la SK n.º 604a, tras pasar el señálico de agrupación Se621, y ello antes del señálico de agrupación Se622, donde terminaba la ruta de maniobra. El maquinista del elemento de maniobra en la SK n.º 604a no cambió el sentido de marcha según la información contenida en la autorización de maniobra, concedida por el despachador 3G CDP Přerov, sino únicamente sobre la base de su propia intuición y de las costumbres operativas.
+El maquinista del elemento de maniobra toleró al despachador 3G CDP Přerov la ausencia de información sobre la SK n.º 604a, a la que estaba permitido el maniobrar desde la SK n.º 632, y no exigió información a dicho despachador.
+Lo anterior no puede valorarse en relación causal con la aparición de la MU, ya que se trataba de una deficiencia referida exclusivamente a la parte de la maniobra realizada, es decir, para la maniobra desde la SK n.º 632 a la SK n.º 604a, durante la cual no se produjo la MU. La aparición de la MU se produjo únicamente durante la maniobra posterior realizada circulando en sentido contrario, que fue autorizada por el despachador 3G CDP Přerov con la señal «Maniobra permitida» indicada por el señálico de agrupación Se621.
 ### Hallazgos:
-En la investigación se constató la infracción de normas legales y normas internas relativas a las funciones y obligaciones del transportista RCC-CZ, fuera de la relación causal con la aparición de la MU relacionada con la actividad del maquinista del tramo de maniobra:
+Durante la investigación se constató la infracción de disposiciones legales y normas internas relativas a las funciones y obligaciones del transportista RCC-CZ, al margen de la relación causal con la aparición de la MU relacionada con la actividad del maquinista del elemento de maniobra:
 •
-§ 35 apartado 1 letra a) de la ley n.º 266/1994 Sb.:
-«El transportista está obligado a explotar el tráfico ferroviario de acuerdo con las reglas de explotación del tráfico ferroviario, ...»;
+§ 35 apartado 1 letra a) de la Ley n.º 266/1994 Sb.:
+«El transportista está obligado a explotar el transporte ferroviario de acuerdo con las normas de explotación del transporte ferroviario, ...»;
 •
-§ 35 apartado 1 letra h) del decreto n.º 173/1995 Sb.:
-«Para la conducción de un vehículo ferroviario debe garantizarse que la persona que conduce el vehículo ferroviario haga que el vehículo ferroviario de tracción se ponga en movimiento solo ante la señal «Salida» u otra autorización establecida por el explotador de la vía, o ante la señal correspondiente para maniobrar en la dirección establecida, con la condición de que conozca la forma y el destino de la marcha,»;
+§ 35 apartado 1 letra h) del Decreto n.º 173/1995 Sb.:
+«Para la conducción de un vehículo ferroviario debe garantizarse que la persona que conduce el vehículo ferroviario haga que el vehículo ferroviario de tracción se ponga en movimiento solo con la señal «Salida» u otra autorización establecida por el explotador de la vía, o con la señal correspondiente para la maniobra en el sentido establecido, siempre que conozca el modo y el destino de la circulación,»;
 •
 art. 261 de la norma interna SŽDC D1:
 
-
 ## Página 29
+
 
 «La seguridad de la explotación de la vía y del tráfico ferroviario consiste en el conocimiento y el cumplimiento estricto de las normas internas de SŽDC, así como de otras medidas relativas a la explotación, por parte de todas las personas implicadas, que deben por ello velar siempre por su cumplimiento exacto.».
 En el caso de esta MU concreta, es necesario relacionar la disposición anterior con la definitoria:
@@ -1037,8 +1039,8 @@ art. 1752 de la norma interna SŽDC D1:
 Tras el cambio del sentido de marcha en la SK n.º 604a y tras poner en movimiento el tramo de maniobra, y además durante la marcha en dirección a la SK n.º 626 acordada, el HDV 753.613-9 fue conducido desde la cabina frontal del maquinista n.º 2, es decir, desde el puesto desde el que tenía la mejor visibilidad. Que la ruta de maniobra no estaba establecida según su solicitud en la SK n.º 626, sino en la SK n.º 624, lo comprobó el maquinista del tramo de maniobra inmediatamente después de entrar en la aguja decisiva n.º 627 (la aguja no está equipada con señal de aguja). Ante esta comprobación, el maquinista reaccionó de forma oportuna y correcta manipulando los elementos de mando del HDV para detenerlo. Lo anterior lo acredita el análisis de los datos registrados por el RR instalado en el HDV 753.613-9, ya que a los 3 s de pasar el nivel ZV n.º 627 con el frontal del HDV, el circuito de tracción del HDV, tras la manipulación previa del maquinista del controlador de integración, se había cambiado del modo de marcha al modo EDB. Un segundo después, el HDV comenzó a frenar con EDB, que en ese mismo segundo fue sustituida por el efecto del freno neumático en base a la manipulación posterior del maquinista del mando del freno directo y del mando del freno automático del freno automático eléctricamente controlado DAKO-BSE, con el que introdujo el frenado de acción rápida, ver punto 3.1.7 de esta ZZ. A pesar de la reacción anterior, el maquinista ya no pudo evitar la colisión.
 Para valorar si el maquinista eligió una forma de marcha (velocidad) que, en consideración a la velocidad del tramo de maniobra y a la distancia que podía ver, le permitiera detener el tramo de maniobra antes de los DV estacionados o circulando en el mismo sentido en la ruta de marcha común que, según su solicitud, debía estar establecida en la SK n.º 626, es decir, si cumplió las condiciones de marcha según las condiciones de visibilidad a esta SK, la DI verificó mediante pruebas de verificación – determinando
 
-
 ## Página 30
+
 
 la distancia a la que el maquinista, al circular desde la SK n.º 604a hasta la SK n.º 626, ve junto al DV estacionado en la SK n.º 624 en el mismo lugar en el que se encontraba el HDV 1293.184-8 en el momento de la aparición de la MU [teniendo en cuenta la forma del frontal (inclinación y redondeo) del HDV 1293.184-8], en relación con las curvas de frenado del HDV de la serie 753.6, ver punto 3.1.7 de esta ZZ.
 De las pruebas de verificación realizadas y del Análisis del proceso de frenado del HDV de la serie 753.6 se constató, entre otros, que:
@@ -1056,8 +1058,8 @@ En la investigación no se constató infracción de las funciones y obligaciones
 ### 4.1.4 Autoridades nacionales de seguridad y Agencia Ferroviaria de la Unión Europea
 La autoridad nacional de seguridad es el DÚ, que de acuerdo con la ley n.º 266/1994 Sb. es una autoridad administrativa dependiente del Ministerio de Transportes. Su función es, en particular, el ejercicio de la supervisión estatal en materia de vías y en materia de la autoridad de construcción, el ejercicio de la autoridad de construcción especial para obras de vía y obras sobre la vía, la aprobación de vehículos ferroviarios nuevos y modernizados y de instalaciones técnicas designadas, y la tramitación de infracciones. Es obligación del DÚ comunicar a la DI, en un plazo de 12 meses desde la fecha de publicación del informe final que contenga las recomendaciones de seguridad dirigidas a él, qué medida ha adoptado en relación con esta recomendación de seguridad; dicha comunicación la realiza de forma regular, al menos una vez al año, hasta la adopción de las medidas correspondientes.
 
-
 ## Página 31
+
 
 La función de la Agencia Ferroviaria de la Unión Europea es, además de garantizar, en el marco de sus competencias, que se mantenga en general la seguridad ferroviaria y, en la medida de lo posible, se aumente de forma sistemática, entre otras, la emisión, renovación, suspensión y modificación de certificados únicos de seguridad, la limitación de su validez o su anulación, en cuestión en la que coopera con las autoridades nacionales de seguridad; asimismo emite autorizaciones para la comercialización de vehículos ferroviarios y de tipos de vehículos, y está facultada para renovar, modificar, suspender o anular las autorizaciones que haya emitido. La Agencia evalúa además los proyectos de normativa nacional, etc.
 En la investigación no se constató infracción de las funciones y obligaciones de la autoridad nacional de seguridad y de la Agencia Ferroviaria de la Unión Europea.
@@ -1079,6 +1081,7 @@ En la investigación no se detectaron factores derivados del mantenimiento y la 
 
 ## Página 32
 
+
 ### 4.2.5 Factores o consecuencias relacionados con el sujeto responsable del mantenimiento de material rodante, talleres de mantenimiento y otros proveedores de servicios de mantenimiento
 En la investigación no se detectaron factores relacionados con el sujeto responsable del mantenimiento de MR, talleres de mantenimiento y otros proveedores de servicios de mantenimiento.
 ### 4.2.6 Otros factores o consecuencias que se consideran relevantes a efectos de la investigación
@@ -1092,8 +1095,8 @@ Tanto el maquinista como el despachador 3G eran profesionalmente aptos para el t
 Es evidente que el despachador 3G del CDP Přerov no actuó con la intención de producir el SU. Su conducta estuvo influenciada por un error inconsciente (equivocación) en relación con el incumplimiento inadecuado (impreciso) de la normativa legal y de las normas internas del gestor de la infraestructura en la dirección del tráfico ferroviario el 19. 4. 2022 (también en la operación de la SZZ de la estación de Bohumín realizada a las 3:56:15 h para establecer la ruta de maniobras desde la SK n.º 604a a la SK n.º 626), el cual se produjo, desde el punto de vista del bioritmo de vigilia de 24 h del ser humano, en un momento en el que se registra la máxima, respectivamente la persistente alta tasa de error (el mínimo de atención se produce alrededor de las 3 h de la madrugada; la atención vuelve a la normalidad antes de las 6 h de la madrugada) (fuente: ŠTIKAR, Jiří, HOSKOVEC, Jiří, ŠTIKAROVÁ, Jana, 2003. Psychologie v dopravě. Praga: Karolinum, p. 132. ISBN 80-246-0606-2).
 En la investigación no se detectaron factores relacionados con la formación profesional de los empleados, su estado de salud y su situación personal, incluido el estrés físico y psicológico.
 
-
 ## Página 33
+
 
 ### 4.3.2 Factores laborales
 La DI, en el marco de la investigación de los factores laborales, abordó también el sistema de organización de la jornada laboral (de prestación de trabajo) de los empleados participantes en el SU, del gestor de la infraestructura y del transportista, con posible influencia en su actuación. Dadas las causas y circunstancias de la producción del SU en cuestión, se realizó un análisis detallado de la prestación de trabajo del despachador 3G del CDP Přerov durante el mes de abril de 2022 hasta el momento de la producción del SU.
@@ -1103,8 +1106,8 @@ La duración de la jornada laboral semanal establecida del despachador 3G del CD
 La cuestión del descanso ininterrumpido del empleado – despachador 3G del CDP Přerov – entre dos turnos se regula, en virtud de la disposición habilitante contenida en el § 100 de la Ley n.º 262/2006 Sb., además en el § 14 del Decreto del Gobierno n.º 589/2006 Sb., conforme al cual el empresario distribuirá la jornada laboral de modo que el empleado disponga, entre el final de un turno y el comienzo del turno siguiente, de un descanso ininterrumpido de al menos 11 h durante 24 h consecutivas. Dicho descanso podrá reducirse hasta 7 h durante 24 h consecutivas, siempre que el empresario garantice al empleado la posibilidad de dormir en una cama durante al menos 6 h. El descanso ininterrumpido entre dos turnos podrá reducirse con la condición de que el descanso siguiente se prolongue por el tiempo de reducción de dicho descanso.
 De la documentación del gestor de la infraestructura SŽ se desprende que el despachador 3G del CDP Přerov, en el mes de abril de 2022, realizó, tras el turno en cuyo marco se produjo el SU en cuestión, un total de 7 turnos de 12,25 h de duración, de los cuales 4 turnos diurnos con inicio previsto a las 5:50 h y final previsto a las 18:05 h, y 3 turnos nocturnos con inicio previsto a las 17:50 h y final previsto a las 6:05 h del día siguiente. El turno nocturno (8.º turno del mes de abril de 2022), en el que se produjo el SU en cuestión, lo inició el despachador 3G del CDP Přerov a las 17:45 h, aprovechando el tiempo adecuado de descanso y alimentación en las paradas de tren adecuadas.
 
-
 ## Página 34
+
 
 El despachador 3G del CDP Přerov utilizaba como medio de transporte el tren para los desplazamientos al trabajo. El trayecto a los turnos diurnos lo iniciaba en su lugar de residencia con la salida del tren a las 4:17 h, es decir, 1 h y 33 min. antes del inicio previsto del turno. El trayecto a los turnos nocturnos lo iniciaba en su lugar de residencia con la salida del tren a las 16:21 h, es decir, 1 h y 29 min. antes del inicio previsto del turno.
 De la documentación de SŽ se desprende que el empresario no computaba, de conformidad con la normativa legal, en la jornada laboral del despachador 3G del CDP Přerov el tiempo de su trayecto desde el lugar de residencia hasta el lugar de prestación de trabajo. Dado que el trayecto desde el lugar de residencia hasta el lugar de prestación de trabajo en el CDP de Přerov puede durar hasta 1 h 33 min. antes del inicio previsto del turno, no puede calificarse dicho tiempo como un posible riesgo de seguridad de que el despachador no se encuentre ya desde el inicio del turno, en cuyo marco dirige y organiza el tráfico ferroviario, debidamente descansado.
@@ -1115,8 +1118,8 @@ En la investigación no se detectaron factores relacionados con la organización
 Los puestos de trabajo de los despachadores en el CDP Přerov se distribuyen en ocho salas de despacho (en adelante, «sala») situadas en un edificio independiente, desde las cuales las personas que dirigen el tráfico ferroviario a distancia controlan las instalaciones de enclavamiento de la estación y organizan el tráfico ferroviario en la línea correspondiente. En cada una de las salas trabajan los despachadores de control y de línea (de sección) y los operadores de tráfico ferroviario (en adelante, «operador»). Los puestos de trabajo de los despachadores de control y de línea, compuestos por el ordenador de entrada de las instalaciones de enclavamiento y la capa gráfico-tecnológica de las instalaciones de enclavamiento, son estructuralmente idénticos y plenamente sustituibles entre sí. La comunicación verbal de los participantes en las redes telefónicas, radio (Red radio local), móviles y GSM-R se realiza a través de la terminal de despacho IP Touch Call, grabándose las llamadas y conexiones en el dispositivo de registro ReDat.
 La sala n.º 7, que es puesto de trabajo de un total de ocho empleados de SŽ (despachador operativo PD2, despachador de control 1G, despachador de sección 1G, despachador de sección 2G, despachador de sección 3G, despachador de sección 6G, operador de tráfico ferroviario 1G y operador de tráfico ferroviario 3G), tiene un suelo escalonado en dos niveles, en los que se encuentran, en dos filas, los JOP y los puestos de trabajo de los operadores. La altura de las mesas de trabajo y sus dimensiones permiten una postura de trabajo cómoda. La distancia de los monitores a los ojos de los empleados es de aproximadamente 75 a 80 cm, estando garantizados, por la disposición de los puestos de trabajo, las vistas perpendiculares a los monitores de 19" de diagonal. El tamaño de los monitores utilizados parece suficiente para las necesidades de la operación de las instalaciones de enclavamiento, no obstante, en la actualidad ya obsoleto, lo que es especialmente acusado en las estaciones con gran ramificación de vías, en las que los elementos mostrados son lógicamente de menor tamaño (peor distinguibles) que en las estaciones con menor ramificación de vías, véase la fig. n.º 2.
 
-
 ## Página 35
+
 
 Fig. n.º 2: Captura de pantalla de un monitor de 19" de diagonal de la SZZ de la estación de Bohumín, distrito Bohumín-Vrbice, que documenta la distancia mutua entre los iconos de la SK n.º 624 y 626, de aproximadamente 8,5 mm.
 Fuente: DI
@@ -1134,39 +1137,43 @@ En los procedimientos, métodos, contenido y resultados de las actividades de ev
 ## Página 36
 
 ### 4.4.3 Sistema de garantía de la seguridad de los transportistas y gestores de infraestructura participantes
-En el sistema de seguridad del gestor de la infraestructura y en el sistema de garantía de la seguridad del transporte ferroviario del transportista, relacionados con las circunstancias del origen de la MU en cuestión, no se detectaron deficiencias.
-### 4.4.4 Sistema de gestión de las entidades responsables del mantenimiento de los vehículos ferroviarios y de los talleres de mantenimiento
-El sistema de gestión de las entidades responsables del mantenimiento de los VF y de los talleres de mantenimiento no guardaba relación con el origen de la MU.
+En el sistema de seguridad del gestor de infraestructura y en el sistema de garantía de la seguridad del transporte ferroviario del transportista, relacionados con las circunstancias de la aparición de la MU en cuestión, no se detectaron deficiencias.
+### 4.4.4 Sistema de gestión de los sujetos responsables del mantenimiento de los vehículos ferroviarios y de los talleres de mantenimiento
+El sistema de gestión de los sujetos responsables del mantenimiento de los VF y de los talleres de mantenimiento no guardaba relación con la aparición de la MU.
 ### 4.4.5 Resultados de la supervisión realizada por las autoridades nacionales de seguridad
-Atendiendo a los factores y circunstancias detectados del origen de la MU, la supervisión de la autoridad de seguridad no guarda relación con la MU en cuestión.
-### 4.4.6 Aprobaciones, certificados y evaluaciones emitidos por la Agencia, las autoridades nacionales de seguridad u otras entidades de evaluación de la conformidad
-El gestor de la infraestructura explotaba la infraestructura en virtud de una autorización administrativa vigente y de un certificado de seguridad del gestor de la infraestructura. El transportista explotaba el transporte ferroviario en virtud de una licencia vigente y de un certificado del transportista.
+Atendiendo a los factores y circunstancias detectados de la aparición de la MU, la supervisión de la autoridad de seguridad no guarda relación con la MU en cuestión.
+### 4.4.6 Aprobaciones, certificados y evaluaciones emitidos por la agencia, las autoridades nacionales de seguridad u otros sujetos de evaluación de la conformidad
+El gestor de infraestructura explotaba la infraestructura con base en una autorización administrativa vigente y un certificado de seguridad del gestor de infraestructura. El transportista explotaba el transporte ferroviario con base en una licencia vigente y un certificado del transportista.
 ### 4.4.7 Otros factores sistémicos
 En la investigación no se detectaron otros factores sistémicos.
-### 4.5 Sucesos anteriores de naturaleza similar
-La DI, en el período comprendido entre el 1. 1. 2010 y la fecha de origen de la MU en cuestión, registra en las infraestructuras ferroviarias, categoría nacional y regional, un total de 252 MU análogas, en las que se produjo una circulación no protegida de una unidad de maniobras – 134 casos, respectivamente, de un tren – 118 casos, por una ruta de circulación mal establecida, en la que no se cumplieron las condiciones para su circulación segura en el sentido de las normas para la explotación de la infraestructura o del transporte ferroviario.
-Como consecuencia de las circulaciones no protegidas de unidades de maniobras:
+### 4.5 Eventos anteriores de naturaleza similar
+El DI en el período desde el 1. 1. 2010 hasta la aparición de la MU en cuestión registra en las vías ferroviarias,
+### categoría nacional y regional, un total de 252 MU análogas, cuando se produjo una
+circulación no asegurada de una unidad de maniobra – 134 casos, respectivamente, de un tren – 118 casos, por
+una ruta de circulación mal establecida, en la que no se cumplieron las condiciones para su circulación
+segura en el sentido de las normas para la explotación de la infraestructura o del transporte ferroviario.
+Como consecuencia de las circulaciones no aseguradas de unidades de maniobra:
 •
-6 personas sufrieron lesiones personales;
+6 personas resultaron con lesiones;
 •
 en 8 casos se produjo una colisión de VF;
 •
-en 81 casos los VF descarrilaron;
+en 81 casos el VF descarriló;
 •
 se produjo un daño total de 128 715 998 Kč.
-Como consecuencia de las circulaciones no protegidas de trenes:
+Como consecuencia de las circulaciones no aseguradas de trenes:
 •
-17 personas sufrieron lesiones personales;
+17 personas resultaron con lesiones;
 •
 en 4 casos se produjo una colisión de VF;
 •
-en 11 casos los VF descarrilaron;
+en 11 casos el VF descarriló;
 •
 se produjo un daño total de 17 037 072 Kč.
-La DI, en el período comprendido entre el 1. 1. 2008 y la fecha de origen de la MU en cuestión, investigó las causas y circunstancias de 5 MU análogas indicadas a continuación, en las que se produjo una circulación no protegida de una unidad de maniobras, en las infraestructuras ferroviarias, categoría nacional y regional:
-
+El DI en el período desde el 1. 1. 2008 hasta la aparición de la MU en cuestión investigó las causas y circunstancias de 5 MU análogas indicadas a continuación, cuando se produjo una circulación no asegurada de una unidad de maniobra, en las vías ferroviarias, categoría nacional y regional:
 
 ## Página 37
+
 
 •
 del 10. 6. 2017 en la estación Český Brod, donde se produjo una circulación no protegida de una unidad de maniobras de una vía excluida a una vía en explotación y la entrada en la ruta de circulación establecida del tren en sentido contrario Os 9320. La causa inmediata del origen de la MU fue la circulación no intencionada del vagón de mantenimiento de la catenaria a través de la aguja n.º 45, conmutada en la dirección (de desvío) incorrecta;
@@ -1182,20 +1189,19 @@ Sobre la base de los resultados de la investigación de la MU en cuestión, la D
 ◦en las SZZ de 3.ª categoría en explotación y en las nuevas puestas en servicio – enclavamientos electrónicos – garantizará que, al establecer rutas de circulación para la circulación de VF a través de la unión de vías mutuamente enlazadas, realizada en forma de maniobras, cuando el final de la ruta de maniobras se encuentra en otra vía, se exija siempre por parte del dispositivo de seguridad, para la confirmación de las operaciones de servicio obligatoriamente documentadas, una secuencia de signos, la llamada secuencia de confirmación, que contenga el nombre o el número de la vía en la que se encuentra el final de la ruta de circulación;
 ◦garantizará que los procedimientos tecnológicos uniformes, que son elementos del sistema de garantía de la seguridad de la explotación del transporte ferroviario del transportista Advanced World Transport, a. s. (desde el 2. 10. 2019 PKP CARGO INTERNATIONAL, a. s.), respectivamente de los demás transportistas en la República Checa, contengan una serie de principios de seguridad para el servicio del dispositivo de frenado y, en su caso, del dispositivo de areneado del VF, por parte de los maquinistas, que durante la circulación de un tren o de maniobras en condiciones meteorológicas o de adherencia desfavorables garanticen la reducción de la velocidad del VF o su detención segura en el lugar requerido, mediante el inicio del frenado a tiempo con un margen menor que el efecto de frenado, respectivamente, apoyando el rodado de las ruedas mediante el uso del dispositivo de areneado, si el VF está equipado con dicho dispositivo.
 
-
 ## Página 38
 
-La DÚ adoptó y emitió, en relación con la recomendación de seguridad emitida por la DI, la medida n.º de registro DUCR-57579/20/Lv, de fecha 8. 10. 2020, por la que instó al gestor de la infraestructura nacional y a todos los transportistas que explotan el transporte ferroviario en el territorio de la República Checa al cumplimiento de la recomendación de seguridad en cuestión.
-Según el documento de la DÚ "Informe sobre las medidas de la Oficina de Ferrocarriles a las recomendaciones de seguridad", n.º de registro DUCR-47727/21/Lv, de fecha 24. 8. 2021, se desprende que, de las respuestas del gestor de la infraestructura y de los transportistas, es evidente que la recomendación de seguridad fue aceptada y puesta en práctica.
+El DÚ adoptó y emitió, en relación con la recomendación de seguridad DI emitida, la medida n.º de referencia DUCR-57579/20/Lv, de fecha 8. 10. 2020, mediante la cual instó al gestor de la infraestructura ferroviaria de ámbito estatal y a todos los operadores ferroviarios que prestan servicio de transporte ferroviario en el territorio de la República Checa al cumplimiento de la recomendación de seguridad en cuestión.
+Según el documento del DÚ "Informe sobre las medidas de la Autoridad Ferroviaria en relación con las recomendaciones de seguridad", n.º de referencia DUCR-47727/21/Lv, de fecha 24. 8. 2021, se desprende que, de las respuestas del gestor de la infraestructura y de los operadores, se deduce que la recomendación de seguridad fue aceptada y puesta en práctica.
 ## 5 CONCLUSIONES
 ### 5.1 Resumen del análisis y conclusiones relativas a las causas del suceso
 La causa inmediata del suceso extraordinario fue:
 •
-el establecimiento de la ruta de maniobras desde la vía de estación n.º 604a de la estación ferroviaria Bohumín, sector Bohumín-Vrbice, a la vía de estación n.º 624, es decir, a un lugar que el maquinista de la unidad de maniobras, en su condición de empleado que dirige las maniobras, no determinó al acordar las maniobras con el despachador de vía (de sección) 3G del Puesto de Despacho Central de Přerov, lo que fue causado por:
-◦su error inconsciente (equivocación) al operar el dispositivo de enclavamiento de estación,
-◦la no realización de la comprobación del correcto establecimiento de la ruta de maniobras, es decir, si la ruta de maniobras está establecida en el lugar determinado al acordar las maniobras.
-La Inspección Ferroviaria no detectó ningún factor contribuyente.
-La Inspección Ferroviaria no detectó ninguna causa sistémica.
+la establecimiento de la ruta de maniobras desde la vía de estación n.º 604a de la estación ferroviaria de Bohumín, distrito Bohumín-Vrbice, a la vía de estación n.º 624, es decir, a un lugar que el maquinista de la unidad de maniobras, en su condición de empleado que dirige las maniobras, no determinó al acordar la maniobra con el despachador de vía (de sección) 3G del Puesto Central de Despacho de Přerov, lo cual fue causado por:
+◦su error inconsciente (equivocación) al operar el aparato de enclavamiento de estación,
+◦la no realización de la comprobación del correcto establecimiento de la ruta de maniobras, es decir, de si la ruta de maniobras estaba establecida en el lugar determinado al acordar la maniobra.
+No fue detectado ningún factor contribuyente por la Inspección Ferroviaria.
+No fue detectada ninguna causa sistémica por la Inspección Ferroviaria.
 ### A summary of the analysis and conclusions with regard to the causes of the
 occurrence
 Causal factor:
@@ -1215,8 +1221,8 @@ Systemic factor:
 •
 none.
 
-
 ## Página 39
+
 
 ### 5.2 Medidas adoptadas para la prevención de sucesos extraordinarios
 El gestor de la infraestructura SŽ adoptó, a la fecha de emisión de la presente ZZ, las siguientes medidas:
@@ -1256,8 +1262,8 @@ the permission to move granted by the dispatcher 3G of the Central dispatching
 workplace Přerov did not contain all the prescribed information.
 At the railway undertaking RCC-CZ:
 
-
 ## Página 40
+
 
 •
 the train driver of the shunting operation put the shunting operation into motion on
@@ -1280,8 +1286,8 @@ inspektor
 Územního inspektorátu Ostrava
 Územního inspektorátu Ostrava
 
-
 ## Página 41
+
 
 ## ANEXOS
 Fig. n.º 3: Vista de los frentes dañados de ambos HDV como consecuencia de la MU.

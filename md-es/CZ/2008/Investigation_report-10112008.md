@@ -10,13 +10,14 @@ chars: 85108
 ratio_longitud: 1.24
 tokens_in: 36975
 tokens_out: 25022
-verificacion: revisar
-notas_cifras: ["bloque 2: original bilingüe: se compara contra el idioma principal (CS)", "bloque 3: original bilingüe: se compara contra el idioma principal (CS)", "bloque 4: original bilingüe: se compara contra el idioma principal (CS)", "bloque 8: cifras cortas: 9/74", "bloque 9: original bilingüe: se compara contra el idioma principal (CS); cifras cortas: 1/46", "bloque 10: original bilingüe: se compara contra el idioma principal (CS); cifras cortas: 1/24"]
-avisos: ["bloque 9: ratio 1.85", "bloque 10: ratio 1.88"]
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 4: original bilingüe: se compara contra el idioma principal (EN)", "página 5: original bilingüe: se compara contra el idioma principal (CS)", "página 7: original bilingüe: se compara contra el idioma principal (CS)", "página 9: original bilingüe: se compara contra el idioma principal (CS)", "página 11: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 Inspección Ferroviaria
 República Checa
@@ -41,11 +42,12 @@ N.º de identificación fiscal (IČO): 75009561
 http://www.dicr.cz
 fax: (+420) 224 805 428
 
-
 ## Página 2
 
 
+
 ## Página 3
+
 
 # RESUMEN
 Gravedad:
@@ -84,8 +86,8 @@ bajo y la zona de asientos de las unidades de tracción, para garantizar que la 
 al impacto del tabique no sea inferior a la resistencia al impacto de las ventanas y de
 otras partes del interior del vehículo.
 
-
 ## Página 4
+
 
 # Índice
  Resumen .............................................................................................................................3
@@ -120,6 +122,7 @@ incluidas las personas en relación contractual ................................
 
 ## Página 5
 
+
 3.1.2 Otras personas .........................................................................................................14
 3.2 Sistema de garantía de la seguridad ...............................................................................14
 3.2.1 Organización marco y forma en que se emiten y ejecutan las instrucciones .......14
@@ -149,8 +152,8 @@ incluidas las personas en relación contractual ................................
 ............................................................................................................................21
 4.2 Análisis ......................................................................................................................23
 
-
 ## Página 6
+
 
 4.2.1 Evaluación de los hechos constatados en el punto 3 y exposición de las conclusiones sobre la causa del incidente y la actuación de los servicios de rescate ..........................................23
 4.3 Conclusiones .......................................................................................................................25
@@ -173,6 +176,7 @@ incluidas las personas en relación contractual ................................
  Anexo 7: Fragmentos en el compartimento de viajeros .......................................................................33
 
 ## Página 7
+
 
 ## 1 RESUMEN
 Grupo de acontecimiento:
@@ -205,8 +209,8 @@ Causas fundamentales:
 Causas en el sistema de seguridad: - no se detectaron
 Recomendaciones de seguridad: Se recomienda a la Oficina Ferroviaria, a los fabricantes y a los gestores de las unidades de mando de la serie 914 y de unidades de construcción similar, que modifiquen la construcción del tabique entre el espacio de piso bajo y el compartimento para pasajeros, de modo que, con el fin de garantizar la seguridad de las personas a bordo, la resistencia de estos paneles de vidrio ante el impacto del vehículo no sea inferior a la resistencia de los demás cristales, construcciones y equipamientos de los compartimentos para pasajeros y de las cabinas de conducción.
 
-
 ## Página 8
+
 
 ## 2 DATOS RELATIVOS AL INCIDENTE
 ### 2.1 Incidente
@@ -247,43 +251,30 @@ En la señal de entrada «S» brillaba la indicación «Alto», el dispositivo d
 en el pk 27,634 estaba en funcionamiento y emitía una advertencia a los usuarios 
 de la vía terrestre.
 
-
 ## Página 9
 
-Los seguros de bloqueo en el panel de mando y en el dispositivo de conmutación del dispositivo de protección de la estación 
-●
-de la estación ferroviaria de Ždírec nad Doubravá se encontraban en su estado básico, 
-los seguros de seguridad de ambos dispositivos estaban intactos y en número completo. 
-El estado de los contadores en el panel de control correspondía a los estados indicados en la documentación de tráfico - última entrega del servicio de tráfico. Las llaves de reserva de los desvíos y del dispositivo de mando estaban guardadas en un armario de la oficina de tráfico, sus precintos estaban intactos. En los indicadores del permiso de vía, el indicador de la señalización de concesión del permiso de vía a la estación ferroviaria adyacente de Hlinsko 
-v Čechás estaba iluminado en rojo, el indicador de vía libre estaba apagado.
-2.1.3 Decisión de iniciar la investigación de las causas y circunstancias de la aparición, composición del equipo de personas cualificadas y método de dirección de la investigación de las causas y circunstancias de la aparición
-La Inspección Ferroviaria inició la investigación de este incidente tras constatar que se trataba de 
-un accidente grave que podía aportar conocimientos valiosos para la seguridad de las vías y del tráfico ferroviario. La investigación de las causas fue llevada a cabo por la Inspección Territorial de Brno de la Inspección Ferroviaria de forma independiente de la investigación de las causas llevada a cabo por el gestor y el transportista y de la investigación de otros órganos, 
-utilizando sus propios documentos, documentos obtenidos mediante solicitud al gestor de la vía, al operador del gestor de la vía y al operador del tráfico ferroviario y a la Policía de la República Checa. La Agencia Ferroviaria Europea fue informada de la iniciación de la investigación mediante el procedimiento establecido. Para verificar los hallazgos importantes, la Inspección Ferroviaria, en colaboración con los transportistas participantes y con la presencia de representantes de la Policía de la República Checa, organizó una prueba de verificación y encargó la elaboración de un análisis del frenado del tren Os 5307.
-### 2.2 Circunstancias del incidente
-### 2.2.1 Empleados del gestor de la vía y del transportista participantes, personas en relación contractual y otros participantes y testigos
-Empleados del gestor de la vía, del operador del gestor de la vía 
-y del operador del tráfico ferroviario participantes:
-Conductor del grupo de maniobras, empleado del operador del tráfico ferroviario 
-●
-ČD Cargo, a. s.
-Jefe de tráfico de la estación ferroviaria de Ždírec nad Doubravá, empleado del operador 
-del gestor de la vía České dráhy, a. s.
-Jefe de maniobras, empleado del operador del tráfico ferroviario ČD Cargo, a. s.
-●
-Maniobrador, empleado del operador del tráfico ferroviario ČD Cargo, a. s.
-●
-Conductor del tren Os 5307, empleado del operador del tráfico ferroviario České 
-●
-dráhy, a. s.
-Jefe de tráfico de la estación ferroviaria de Hlinsko v Čechách, empleado del operador 
-●
-del gestor de la vía České dráhy, a. s.
-Supervisor de desvíos de la estación St.II. de la estación ferroviaria de Ždírec nad Doubravá, 
-●
-empleado del operador del gestor de la vía České dráhy, a. s.
+Los enclavamientos en los aparatos de mando y de enclavamiento del dispositivo de enclavamiento de la estación de ferrocarril Ždírec nad Doubravou se encontraban en posición básica, los enclavamientos de seguridad en ambos aparatos estaban intactos y en número completo. El estado de los contadores en la mesa de mando correspondía a los estados indicados en la documentación de tráfico – la última entrega del servicio de tráfico. Las llaves de repuesto de las agujas y del aparato de mando estaban guardadas en un armario en la oficina de tráfico, sus sellos estaban intactos. En los pilotos de la autorización de vía, brillaba en rojo el piloto de señalización de la concesión de la autorización de vía a la estación de ferrocarril vecina Hlinsko v Čechách, el piloto de vía libre estaba apagado.
+
+2.1.3 Decisión de iniciar la investigación de las causas y circunstancias de la ocurrencia, composición del equipo de personas cualificadas y método de dirección de la investigación de las causas y circunstancias de la ocurrencia
+
+La Inspección Ferroviaria inició la investigación de este suceso excepcional tras constatar que se trataba de un accidente grave que puede aportar conocimientos valiosos para la seguridad de las vías y del transporte ferroviario. La investigación de las causas la realizó la Inspección Territorial de Brno de la Inspección Ferroviaria de forma independiente de la investigación de las causas realizada por el operador y el transportista y de la investigación de otros órganos, utilizando documentación propia, documentación obtenida a petición del operador de la vía, del operador del operador de la vía y del operador del transporte ferroviario, y de la Policía de la República Checa. Del inicio de la investigación se informó a la Agencia Ferroviaria Europea de la manera establecida. Para verificar hallazgos importantes, la Inspección Ferroviaria organizó, en colaboración con los transportistas implicados y con la presencia de representantes de la Policía de la República Checa, una prueba de verificación y encargó la elaboración de un análisis del frenado del tren Os 5307.
+
+### 2.2 Circunstancias del suceso excepcional
+
+### 2.2.1 Empleados implicados del operador de la vía y del transportista, personas en relación contractual y otros implicados y testigos
+
+Empleados implicados del operador de la vía, del operador del operador de la vía y del operador del transporte ferroviario:
+
+● Maquinista de la maniobra, empleado del operador del transporte ferroviario ČD Cargo, a. s.
+● Jefe de estación de la estación de ferrocarril Ždírec nad Doubravou, empleado del operador del operador de la vía České dráhy, a. s.
+● Jefe de maniobra, empleado del operador del transporte ferroviario ČD Cargo, a. s.
+● Auxiliar de maniobra, empleado del operador del transporte ferroviario ČD Cargo, a. s.
+● Maquinista del tren Os 5307, empleado del operador del transporte ferroviario České dráhy, a. s.
+● Jefe de estación de la estación de ferrocarril Hlinsko v Čechách, empleado del operador del operador de la vía České dráhy, a. s.
+● Vigilante de agujas del puesto St.II de la estación de ferrocarril Ždírec nad Doubravou, empleado del operador del operador de la vía České dráhy, a. s.
 
 ## Página 10
+
 
 Testigos:
 Pasajeros del tren Os 5307.
@@ -303,60 +294,80 @@ El lugar del incidente excepcional se encuentra en el tramo intermedio Ždírec 
 ### 2.2.4 Uso de medios de comunicación
 En relación con la aparición del incidente excepcional se utilizaron estaciones de radio portátiles de tipo MOTOROLA CP 040, que funcionan en la red local, utilizadas por el maquinillo de la sección de maniobras, el despachador de la estación ferroviaria de Ždírec nad Doubravou, el jefe de maniobras, el maniobrero y el vigilante de las agujas del puesto St.II.
 
-
 ## Página 11
 
-### 2.2.5 Trabajos realizados en el lugar del incidente excepcional y en sus proximidades
-En el lugar del incidente excepcional ni en sus proximidades no se realizaron en el momento en cuestión obras de construcción ni de mantenimiento.
-### 2.2.6 Activación del plan de emergencia ferroviaria y secuencia de los acontecimientos
-El plan de emergencia fue activado por la jefa de servicio del tren Os 5307 inmediatamente después de la aparición del incidente excepcional, notificándolo por teléfono móvil al número 155 y al despachador de la estación ferroviaria de Ždírec nad Doubravou. Este activó el resto de los componentes del sistema integrado de rescate y notificó el incidente excepcional según el plan de notificación. La Inspección Ferroviaria fue notificada de la aparición del incidente excepcional por la persona autorizada por el gestor de la infraestructura y el transportista para investigar las causas de la aparición del incidente excepcional.
-### 2.2.7 Activación del plan del sistema integrado de rescate, de la policía y del servicio de rescate sanitario y secuencia de los acontecimientos
-La activación del sistema integrado de rescate fue iniciada por la jefa de servicio del tren procedente del tren n.º Os 5307 y continuó posteriormente por el despachador del puesto de notificación de la estación ferroviaria de Ždírec nad Doubravou. Al lugar del incidente excepcional acudieron todos los componentes del Sistema Integrado de Rescate, concretamente el Servicio de Rescate Sanitario de Vysočina – sede Havlíčkův Brod, el Servicio Sanitario Aéreo, el Servicio de Rescate de Bomberos de la Gestión de la Infraestructura Ferroviaria, s. o., Kolín y la Policía de la República Checa, Dirección Distrital de Havlíčkův Brod, Grupo de Policía Criminal e Investigación.
+### 2.2.5 Trabajos realizados en el lugar del suceso excepcional y en sus inmediaciones
+En el lugar del suceso excepcional ni en sus inmediaciones se estaban realizando, en el periodo en cuestión, 
+ningún tipo de obras de construcción ni de mantenimiento.
+### 2.2.6 Activación del plan para el caso de suceso excepcional en la vía y secuencia de acontecimientos
+El plan para el caso de suceso excepcional fue activado por la jefa de servicio del tren Os 5307 
+inmediatamente después de la producción del suceso excepcional, al comunicarlo por teléfono móvil al 
+número de teléfono 155 y al jefe de estación de la estación de ferrocarril Ždírec nad Doubravou. Este activó 
+los restantes componentes del sistema integrado de emergencias y comunicó el suceso excepcional según 
+el esquema de comunicación. A la Inspección Ferroviaria le comunicó la producción del suceso excepcional 
+la persona designada por el gestor de la vía para investigar las causas de la producción del suceso 
+excepcional, y al gestor del transporte ferroviario.
+### 2.2.7 Activación del plan del sistema integrado de emergencias, de la policía y del servicio de 
+emergencias médicas y secuencia de acontecimientos
+La activación del sistema integrado de emergencias fue iniciada por la jefa de servicio del tren 
+desde el tren n.º Os 5307 y, a continuación, fue continuada por el jefe de estación desde el puesto de 
+comunicaciones de la estación de ferrocarril Ždírec nad Doubravou. Al lugar del suceso excepcional 
+acudieron todos los componentes del Sistema Integrado de Emergencias, concretamente el Servicio 
+Sanitario de Emergencias Vysočina – centro de Havlíčkův Brod, el Servicio Médico Aéreo, el Servicio 
+de Bomberos de la Administración de la Infraestructura Ferroviaria del Tráfico, s. o., Kolín y la Policía de la 
+República Checa, Jefatura Provincial de Havlíčkův Brod, Grupo de Policía Judicial e Investigación.
 ### 2.3 Fallecimientos, lesiones y daños materiales
-2.3.1 En pasajeros y terceros, empleados del gestor de la infraestructura y del transportista, incluidas las personas en relación contractual
-En el incidente excepcional resultaron heridas seis pasajeras del tren Os 5307 de forma leve, cuatro pasajeras de forma grave y un empleado del transportista de transporte ferroviario ČD, a. s., de forma leve.
-En el perito médico se caracterizaron las lesiones individuales como fracturas, heridas punzantes, hematomas, hinchazones, en un caso como esguince cervical y en un caso como hemorragia abdominal.
-### 2.3.2 En las cosas transportadas, equipajes y otros bienes
-Los pasajeros del tren Os 5307 denunciaron a la Policía de la República Checa daños en las cosas transportadas, equipajes y otros bienes por un importe total de 1 320,- Kč.
-### 2.3.3 En las unidades ferroviarias, en los componentes de la vía de circulación y en el medio ambiente
-En el incidente excepcional se produjeron los siguientes daños:
-en la unidad motriz n.º 814.030-3, de propiedad de České dráhy, a. s., por un importe de 
+2.3.1 En los pasajeros y terceras personas, empleados del gestor de la vía y del transportista, 
+incluidas personas en relación contractual
+En el suceso excepcional resultaron lesionados seis pasajeros del tren Os 5307 de forma leve, cuatro pasajeros 
+de forma grave y un empleado del gestor del transporte ferroviario ČD, a. s., de forma leve.
+En el dictamen pericial del ámbito sanitario, las lesiones individuales se caracterizaron como 
+fracturas, heridas cortantes, hematomas, hinchazones, en un caso como esguince de la columna cervical 
+y en un caso como hemorragia abdominal.
+### 2.3.2 En los objetos transportados, equipajes y otros bienes
+Los pasajeros del tren Os 5307 comunicaron a la Policía de la República Checa daños en 
+los objetos transportados, equipajes y otros bienes por un importe total de 1 320,- Kč.
+### 2.3.3 En los vehículos ferroviarios, componentes de la vía y en el medio ambiente
+En el suceso excepcional se produjo un daño:
+en la automotora n.º 814.030-3, propiedad de České dráhy, a. s., por un importe de 
 ●
 2 000 000,- Kč;
 
 ## Página 12
 
-sobre el coche de control n.º 914.030-2, propiedad de České dráhy, a. s., por un importe de 750 000,- Kč;
+en la cabina de mando n.º 914.030-2, titular de České dráhy, a. s., por importe de 750 000,- Kč;
 ●
-sobre la locomotora de maniobras n.º 742.334-6, propiedad de ČD Cargo, a. s., por un importe de
+en la locomotora de la unidad de maniobras n.º 742.334-6, titular de ČD Cargo, a. s., por importe de 
 ●
 35 101,- Kč.
-El daño total causado por el incidente asciende a 2 785 101,- Kč.
+El daño total ocasionado con motivo del suceso asciende a 2 785 101,- Kč
 ### 2.4 Circunstancias externas
 ### 2.4.1 Condiciones meteorológicas y datos geográficos
-Cielo nublado, + 8 °C, capa de nieve de aprox. 15 cm, visibilidad no reducida.
-Las cabezas de los vehículos ferroviarios que quedaron enclavadas tras la colisión se detuvieron en el pk 27,713, es decir, a 28 metros antes de la señal de entrada «S». La vía situada antes de esta señal se encuentra en una curva derecha de radio 282 metros y es horizontal. La visibilidad de la señal de entrada «S» en el sentido de circulación del tren Os 5307 comienza en el pk 27,919. La vía principal se encuentra en un terraplén, cuya altura es de aprox. 1,5 metros en ambos lados. La señal de entrada «S» de la estación ferroviaria de Ždírec nad Doubravou está situada en el pk 27,685, el paso a nivel equipado con un dispositivo de protección de pasos a nivel de tipo PZS 3SNI en el pk 27,634, el hito kilométrico en el pk 27,599, el punto de cruce n.º 9 en el pk 27,367.
+Cubierto, + 8 °C, capa de nieve de unos 15 cm, visibilidad no reducida. 
+Los frentes encajados de los vehículos ferroviarios se detuvieron tras la colisión en el pk 27,713, es decir, 28 metros antes de la señal de entrada «S». La vía situada antes de dicha señal se encuentra en una curva a la derecha de radio 282 metros y es horizontal. La visibilidad de la señal de entrada «S» en el sentido de circulación del tren Os 5307 es de 234 metros desde el pk 27,919. La vía de vía se encuentra sobre un terraplén cuya altura es de unos 1,5 metros por ambos lados. La señal de entrada «S» a la estación de ferrocarril Ždírec nad Doubravou está situada en el pk 27,685, el paso a nivel equipado con instalación de enclavamiento de paso a nivel tipo PZS 3SNI en el pk 27,634, el señalizador en el pk 27,599, el desvío n.º 9 en el pk 27,367.
 Se midieron las siguientes distancias:
-desde la punta del punto de cruce n.º 9 hasta la señal de entrada «S» = 318 metros;
+desde la punta del desvío n.º 9 hasta la señal de entrada «S» = 318 metros;
 ●
-desde la señal de entrada «S» hasta las cabezas enclavadas de las locomotoras ferroviarias
+desde la señal de entrada «S» hasta los frentes mutuamente encajados de los vehículos ferroviarios 
 ●
-tras el incidente = 28 metros;
-desde el hito kilométrico hasta la señal de entrada «S» = 86 metros;
+motores tras el suceso = 28 metros;
+desde el señalizador hasta la señal de entrada «S» = 86 metros;
 ●
-visibilidad de la señal de entrada «S» desde la vía principal en el sentido de circulación del tren
+visibilidad de la señal de entrada «S» desde la vía de vía en el sentido de circulación del tren 
 ●
 Os 5307 = 234 metros.
-## 3 REGISTRO DE LAS EXPLICACIONES PRESTADAS
-### 3.1 Resumen de las explicaciones prestadas (sujeto a la protección de la identidad de las personas)
-### 3.1.1 Empleados del operador de la infraestructura y del transportista, incluidas las personas en relación contractual
-En relación con las circunstancias de la aparición del incidente, los empleados participantes del operador de la infraestructura y de ambos transportistas prestaron explicaciones. Las explicaciones prestadas figuran en los siguientes documentos, que forman parte del expediente:
-«Acta oficial de la explicación prestada de conformidad con el apartado 5 del artículo 158 del Código de Procedimiento Penal»,
+## 3 REGISTRO DE LAS EXPLICACIONES PRESENTADAS
+### 3.1 Resumen de las explicaciones presentadas (sujeto a protección de la identidad de las personas)
+### 3.1.1 Empleados del gestor de la infraestructura y de los transportistas, incluidas personas en 
+relación contractual
+En relación con las circunstancias del suceso, presentaron explicaciones los empleados participantes del operador del gestor de la infraestructura y de ambos transportistas. Las explicaciones presentadas se encuentran en los siguientes documentos, que forman parte del expediente:
+«Registro oficial de la explicación presentada conforme al apartado 5 del artículo 158 del Código 
 ●
-n.º de ref. ORHB-1631-3/TČ-2008-70, redactada en la Policía de la República Checa, Dirección Distrital de Havlíčkův Brod – maquinista de maniobras;
-
+procesal penal», n.º de referencia ORHB-1631-3/TČ-2008-70, levantado en la Policía de la República 
+Checa, Jefatura de Distrito de Havlíčkův Brod – maquinista de la unidad de maniobras;
 
 ## Página 13
+
 
 «Acta oficial de la explicación prestada de conformidad con el apartado 5 del artículo 158 del Código de Procedimiento Penal»,
 ●
@@ -406,44 +417,51 @@ RIBŽD, sede Česká Třebová – despachador de la estación ferroviaria de Hl
 
 ## Página 14
 
-„Acta con el empleado en relación con el incidente MU A1 del 10. 11. 2008 entre las estaciones de Hlinsko v 
+„Acta con el empleado en el asunto MU A1 del 10. 11. 2008 entre la est. Hlinsko en 
 ●
-Čechách – Ždírec nad Doubravou“, redactada en České dráhy, a. s., Departamento 18 – 
-RIBŽD, sede Česká Třebová – supervisor de agujas de la estación de Ždírec nad 
+Bohemia – Ždírec nad Doubravou“, redactada por České dráhy, a. s., Departamento 18 – 
+RIBŽD, centro de trabajo Česká Třebová – inspector de desvíos de la estación de ferrocarril Ždírec nad 
 Doubravou;
-carta certificada del 17. 12. 2008 con la modificación de la declaración sobre las circunstancias de la 
+carta certificada de fecha 17. 12. 2008 con cambio de declaración sobre las circunstancias de la 
 ●
-ocurrencia del incidente extraordinario – despachador de la estación de Ždírec nad 
+producción del suceso extraordinario – jefe de estación de la estación de ferrocarril Ždírec nad 
 Doubravou.
 ### 3.1.2 Otras personas
-Los viajeros del tren Os 5307 proporcionaron explicaciones sobre el incidente extraordinario. Sus declaraciones 
-forman parte del expediente. No había otras personas presentes en el lugar del incidente extraordinario ni en las inmediaciones.
+Con respecto al suceso extraordinario, prestaron declaración los pasajeros del tren Os 5307. Sus 
+declaraciones forman parte del expediente. Otras personas no se encontraban presentes en el lugar 
+del suceso extraordinario ni en las inmediaciones.
 ### 3.2 Sistema de garantía de la seguridad
 ### 3.2.1 Organización marco y forma en que se emiten y ejecutan las instrucciones
-En la estación de Ždírec nad Doubravou hay despachadores de trenes y dos 
-supervisores de agujas trabajando ininterrumpidamente por turnos. El despachador de trenes tiene su puesto en la oficina de tráfico, los supervisores de agujas en los puestos St.I y St.II. El despachador de trenes es el responsable del turno para todo el ámbito de la 
-estación de ferrocarril, organiza y dirige el tráfico ferroviario en todo el ámbito de la estación y en los tramos intermedios adyacentes, maneja los dispositivos de seguridad, dirige y controla el trabajo de todos los 
-empleados, participantes en la prestación del servicio de tráfico y en las maniobras, y lleva el diario de tráfico electrónico.
-### 3.2.2 Requisitos para los empleados del gestor de la infraestructura y del transportista y su cumplimiento
-Todos los empleados participantes cumplen los requisitos de competencia profesional establecidos por la legislación y los requisitos establecidos por las normas del gestor del tráfico ferroviario ČD Cargo, 
-a. s., y del gestor del tráfico ferroviario y operador de la infraestructura České dráhy, a. s.
+En la estación de ferrocarril Ždírec nad Doubravou se encuentran en el turno, de forma ininterrumpida, 
+el jefe de trenes y dos inspectores de desvíos. El jefe de trenes tiene su puesto en la oficina de 
+circulación, los inspectores de desvíos en los puestos St.I y St.II. El jefe de trenes es el jefe de turno 
+para todo el ámbito de la estación de ferrocarril, organiza y dirige el tráfico ferroviario en todo el 
+ámbito de la estación y en los tramos intermedios adyacentes, opera el equipo de seguridad, dirige y 
+controla el trabajo de todos los empleados participantes en la prestación del servicio de circulación y 
+en las maniobras, y lleva el diario electrónico de circulación.
+### 3.2.2 Requisitos para los empleados del gestor de la vía y del transportista y su 
+aplicación
+Todos los empleados participantes cumplen los requisitos de competencia profesional establecidos por 
+la legislación, así como los requisitos establecidos por las normas del gestor del tráfico ferroviario 
+ČD Cargo, a. s., y del gestor del tráfico ferroviario y operador del gestor de la vía České dráhy, a. s.
 ### 3.2.3 Procedimiento de control interno de la seguridad y sus resultados
-De la investigación se ha determinado que:
-Los controles del desempeño laboral de los empleados del operador de la infraestructura České dráhy, 
+La investigación determinó que:
+Los controles del desempeño del servicio de los empleados del operador del gestor de la vía České 
 ●
-a. s., en la estación de Ždírec nad Doubravou, se realizaron de manera continua 
-y los registros de los mismos no contienen ninguna constatación relacionada con este incidente 
-extraordinario. El último control antes de la ocurrencia de este incidente extraordinario se llevó a cabo el 
+dráhy, a. s., en la estación de ferrocarril Ždírec nad Doubravou, se realizaron de forma 
+continua y los registros de los mismos no contienen ningún hallazgo relacionado con este 
+suceso extraordinario. El último control anterior a la producción de este suceso extraordinario 
+se realizó el día 
 6. 11. 2008.
-Los controles del desempeño laboral de los maquinistas - empleados del gestor del tráfico 
+Los controles del desempeño del servicio de los maquinistas – empleados del gestor del tráfico 
 ●
-ferroviario ČD Cargo, a. s., en la estación de Ždírec nad Doubravou, se realizaron 
-de manera continua y los registros de los mismos no contienen ninguna constatación relacionada con este 
-incidente extraordinario. El último control antes de la ocurrencia de este incidente extraordinario 
-se llevó a cabo el 25. 10. 2008.
-
+ferroviario ČD Cargo, a. s., en la estación de ferrocarril Ždírec nad Doubravou, se realizaron 
+de forma continua y los registros de los mismos no contienen ningún hallazgo relacionado con 
+este suceso extraordinario. El último control anterior a la producción de este suceso 
+extraordinario se realizó el día 25. 10. 2008.
 
 ## Página 15
+
 
 En el „Registro de averías de los dispositivos de seguridad“ no se ha registrado ninguna avería para el período del 
 ●
@@ -486,8 +504,8 @@ El Decreto n.º 177/1995 Coll., reglamento de construcción y técnica de las v�
 ●
 vigente (en adelante, Decreto n.º 177/1995 Coll.);
 
-
 ## Página 16
+
 
 Contrato n.º 122D/3/2008 sobre la explotación del tráfico ferroviario en la vía férrea lateral „Stora 
 ●
@@ -536,6 +554,7 @@ n.º de registro 2911/2007-O11/BNO, válido desde el 1. 6. 2007.
 
 ## Página 17
 
+
 ### 3.4 Actividad del material rodante y de los dispositivos técnicos
 ### 3.4.1 Sistema de conducción, señalización y protección, incluidos los dispositivos de grabación automática de datos
 De este ámbito son relevantes para las causas y las circunstancias de la aparición del incidente extraordinario los siguientes hechos:
@@ -553,8 +572,8 @@ Toda la comunicación mutua durante las maniobras entre el maquinista, el jefe d
 ### 3.4.4 Material rodante, incluidos los dispositivos de grabación automática de datos
 La unidad motriz del grupo de maniobras n.º 742.334-6 estaba equipada con un tacómetro METRA con grabación mecánica. El tiempo real de extracción de la cinta del tacómetro fue a las 15:14 h,
 
-
 ## Página 18
+
 
 siendo los relojes del tacómetro retrasados 20 minutos con respecto al tiempo real. La actividad de la unidad motriz del grupo de maniobras antes de la colisión constaba de varios movimientos cortos y lentos, intercalados con paradas breves. En su mayoría, se trata de intervalos de tiempo de alrededor de un minuto, velocidades de alrededor de 5 km/h y distancias recorridas del orden de decenas de metros. Valores tan pequeños ya se acercan al límite de las posibilidades tecnológicas de la grabación mecánica de los datos del tacómetro y, por tanto, su precisión está afectada por una desviación ya bastante grande.
 De la comparación de los datos de la cinta del tacómetro con los datos de la topografía, entre otras cosas, se desprende que:
@@ -582,6 +601,7 @@ De los datos del tacómetro electrónico, entre otras cosas, se desprende que: L
 
 ## Página 19
 
+
 ### 3.5 Documentación del sistema de explotación
 ### 3.5.1 Medidas adoptadas por el personal del administrador de la infraestructura y del transportista, en lo que respecta a la gestión, la señalización y la protección de la circulación
 El dispositivo de protección de la estación de la estación ferroviaria de Ždírec nad Doubravá no está equipado con un dispositivo de grabación automática. Las grabaciones de la gestión del tráfico ferroviario se llevan en un diario de tráfico electrónico, que cuenta con una función de grabación. De este se desprende que el tren Lv 82344 se detuvo en la vía 2 de la estación a las 12:28 h, el tren Os 5304 se detuvo en la vía 3 de la estación a las 12:46 h y que la salida prevista del tren Os 5307 desde la estación ferroviaria de Hlinsko v Čechách estaba programada para las 12:46 h.
@@ -590,8 +610,8 @@ Inmediatamente después de la producción del incidente, se produjo una comunica
 ### 3.5.3 Medidas adoptadas para proteger y asegurar el lugar del incidente
 Inmediatamente después de la producción del incidente, se excluyó la vía de circulación entre las estaciones ferroviarias de Ždírec nad Doubravá y Hlinsko v Čechách, y la persona autorizada por el administrador de la infraestructura y los transportistas para investigar las causas y las circunstancias del incidente, en colaboración con la Policía de la República Checa, impidió el movimiento de los vehículos ferroviarios participantes, aseguró el lugar del incidente, obtuvo los datos de la gestión del tráfico ferroviario de los diarios de tráfico electrónicos de las estaciones ferroviarias de Ždírec nad Doubravá y Hlinsko v Čechách, la documentación de tráfico de ambas locomotoras, determinó la posición de todos los vehículos ferroviarios participantes y retiró la cinta de velocidad de la locomotora del taller de maniobras. Los datos del velocígrafo electrónico de la locomotora n.º 814.030-3 se descargaron el 11 de noviembre de 2008. La Policía de la República Checa realizó simultáneamente una documentación fotográfica y practicó declaraciones a todos los empleados participantes en el incidente. Posteriormente, la Policía de la República Checa y la Inspección Ferroviaria investigaron el lugar del incidente. El tráfico ferroviario en la vía de circulación excluida se reanudó el 10 de noviembre de 2008 a las 19:30 h.
 
-
 ## Página 20
+
 
 ### 3.6 Condiciones laborales, sanitarias y de explotación
 ### 3.6.1 Horario de trabajo del personal del administrador de la infraestructura y del transportista que fueron participantes en el incidente
@@ -622,6 +642,7 @@ El maniobrero era médicamente apto para el desempeño de la función de maniobr
 
 ## Página 21
 
+
 de estrés físico o psicológico. Inmediatamente después de la producción del incidente excepcional, se sometió a una prueba de alcoholímetro con resultado negativo.
 El maquinista del tren n.º Os 5307 se encontraba, en el momento de la producción del incidente excepcional, médicamente apto para el desempeño de la función de maquinista conforme al apartado a) del § 1 del Decreto n.º 101/1995 Sb., y no se encontraba bajo la influencia de estrés físico o psicológico. Inmediatamente después de la producción del incidente excepcional, se sometió a una prueba de alcoholímetro con resultado negativo.
 El guardagujas de las agujas del puesto St.II de la estación ferroviaria de Ždírec nad Doubrava se encontraba, en el momento de la producción del incidente excepcional, médicamente apto para el desempeño de la función de despachador de tráfico conforme al apartado a) del § 2 del Decreto n.º 101/1995 Sb., y no se encontraba bajo la influencia de estrés físico o psicológico. Inmediatamente después de la producción del incidente excepcional, se sometió a una prueba de alcoholímetro con resultado negativo.
@@ -633,34 +654,64 @@ La Inspección Ferroviaria no ha registrado hasta la fecha ningún incidente exc
 ## 4 ANÁLISIS Y CONCLUSIONES
 ### 4.1 Descripción final del incidente excepcional
 ### 4.1.1 Descripción final del incidente excepcional basada en los hechos constatados en el punto 3
-El 10 de noviembre de 2008, poco después del mediodía, el despachador de tráfico de la estación ferroviaria de Ždírec nad Doubrava, tras un acuerdo verbal con el jefe de maniobras, autorizó la maniobra desde la vía lateral 3 de la derivación de Stora Enso Timber, s. r. o., hacia la vía de paso 2 de la estación ferroviaria de Ždírec nad Doubrava. La maniobra fue autorizada a través del cabezal en dirección a la estación ferroviaria de Hlinsko v Čechás, dentro del perímetro de maniobras del guardagujas del puesto St.II, y debía consistir en el desplazamiento de 17 vagones de una longitud total de 342 metros. El jefe de maniobras informó a todos los trabajadores participantes, es decir, al maquinista, al ayudante de maniobras y al guardagujas del puesto St.II, sobre la forma de realizar la maniobra. Tras la 
+El 10 de noviembre de 2008, poco después del mediodía, el despachador de tráfico de la estación ferroviaria de Ždírec nad Doubrava, tras un acuerdo verbal con el jefe de maniobras, autorizó la maniobra desde la vía lateral 3 de la derivación de Stora Enso Timber, s. r. o., hacia la vía de paso 2 de la estación ferroviaria de Ždírec nad Doubrava. La maniobra fue autorizada a través del cabezal en dirección a la estación ferroviaria de Hlinsko v Čechás, dentro del perímetro de maniobras del guardagujas del puesto St.II, y debía consistir en el desplazamiento de 17 vagones de una longitud total de 342 metros. El jefe de maniobras informó a todos los trabajadores participantes, es decir, al maquinista, al ayudante de maniobras y al guardagujas del puesto St.II, sobre la forma de realizar la maniobra. Tras la
 
 ## Página 22
 
-llegada del tren Lv 82344 a la vía de paso 2, que se detuvo a las 12:28 h, el despachador de tráfico informó al guardagujas sobre la maniobra prevista, activó la señalización de precaución PZS en el pk 27,634 y autorizó la maniobra.
-Aproximadamente a las 12:40 h, tras la emisión de la indicación «Autorización para maniobrar» por parte del guardagujas del puesto St.II, el jefe de maniobras dio por radio al maquinista la orden de sacar el grupo de maniobras de la derivación. Sin embargo, contrariamente a lo acordado previamente con el despachador de tráfico, primero apartaron un vagón a la vía lateral 2, regresaron a la vía lateral 3 y solo entonces iniciaron la maniobra desde la derivación hacia el cabezal en dirección a la estación ferroviaria de Hlinsko v Čechás. El grupo de maniobras era remolcado. Para poder desplazar el grupo de maniobras a la vía de paso 2, era necesario liberar la aguja de extremo n.º 9. Debido a la longitud del grupo de maniobras, esto no ocurrió, y cuando la locomotora se detuvo a las 12:55 h junto al hito, la aguja n.º 9 seguía ocupada. Dado que el paso a nivel PZS en el pk 27,634, que se encuentra entre el hito y la señal de entrada «S», estaba abierto, y el maquinista seguía recibiendo órdenes por radio para maniobrar, solicitó también por radio su cierre. Tras un breve periodo, el paso a nivel se cerró y, poco después, el despachador de tráfico anunció por radio que el paso a nivel estaba cerrado, por lo que el maquinista continuó la marcha. Dado que seguía recibiendo órdenes para maniobrar junto con la información de que la aguja n.º 9 seguía sin liberarse, continuó pasando junto a la señal de entrada «S» hacia la vía de línea y, ante la indicación «Alto», dada a través de la radio, se detuvo a las 12:56 h, a 31 metros de la señal de entrada, y esperó allí la orden para retroceder. Tras un breve periodo, la recibió, desbloqueó el grupo de maniobras y se preparó para retroceder en dirección a la estación.
-El jefe de maniobras dirigió la maniobra durante su inicio, pero poco después de salir de la vía lateral 3 en dirección al cabestral, transmitió por radio la orden al ayudante de maniobras para que asumiera la emisión de indicaciones al maquinista y fuera a la oficina de tráfico junto al despachador de tráfico para acordar el siguiente procedimiento. A partir de ese momento y hasta el instante de la colisión, fue el ayudante de maniobras quien dio las indicaciones al maquinista. Este se encontraba inicialmente en un vagón, aproximadamente a mitad del grupo de maniobras, pero en la aguja n.º 9 saltó y las indicaciones siguientes las dio únicamente desde ese lugar.
-Mientras tanto, el despachador de tráfico de la estación ferroviaria de Ždírec nad Doubrava realizó la entrada del tren Os 5304, que debía cruzar en la estación con el tren Os 5307. El tren Os 5304 se detuvo a las 12:46 h en la vía de paso 3. A las 12:45 h, el despachador de tráfico, mediante el manejo del dispositivo de seguridad de la línea, otorgó el permiso de circulación para el tramo Hlinsko v Čechás – Ždírec nad Doubrava al despachador de tráfico de la estación ferroviaria de Hlinsko v Čechás, con lo que autorizó la marcha del tren Os 5307. Este tren salió de la estación ferroviaria de Hlinsko v Čechás a las 12:46 h, es decir, con un retraso de 4 minutos.
-Cuando se acercaba a la estación ferroviaria de Ždírec nad Doubrava, el maquinista vio en la preindicación «PřS» la indicación «Precaución». Por lo tanto, colocó el controlador en la posición «Aceleración» y se preparó para detenerse antes de la señal de entrada «S». Al salir de la curva derecha, vio en la vía de línea una locomotora con vagones estacionados, por lo que utilizó el freno de emergencia y abandonó la cabina. La colisión se produjo a las 12:57 h a una velocidad de 35-29 km/h.
-Como resultado del impacto, el grupo de maniobras, ya desbloqueado, fue empujado en dirección a la estación 3 m, de modo que la parte delantera de su locomotora quedó detenida en el pk 27,713, es decir, a 28 metros de la señal de entrada «S».
+la llegada del tren Lv 82344 a la 2.ª vía de tráfico, que se detuvo a las 12:28 h., informó el jefe de estación
+al inspector de desvíos de la maniobra prevista, activó la alarma PZS en el pk 27,634 y autorizó
+la maniobra.
+Aproximadamente a las 12:40 h., tras dar la señal «Autorización para la maniobra» por el inspector de desvíos desde el puesto
+St.II, el jefe de maniobra dio por radio al maquinista la instrucción de sacar la composición de maniobra
+del ramal. Sin embargo, a diferencia de lo acordado inicialmente con el jefe de estación, primero
+apartaron un vagón a la 2.ª vía del ramal, regresaron a la 3.ª vía del ramal y solo entonces iniciaron la maniobra desde el ramal hacia
+la cabecera en dirección a la estación de Hlinsko v Čechách. La composición de maniobra iba en cabeza.
+Para poder maniobrar la composición a la 2.ª vía de tráfico, era necesario
+despejar el desvío extremo n.º 9. Debido a la longitud de la composición de maniobra esto no ocurrió y cuando la locomotora se detuvo a
+las 12:55 h. junto al señalizador, el desvío n.º 9 seguía ocupado.
+Como el paso a nivel PZS en el pk 27,634, que se encuentra entre el señalizador y la señal de entrada «S»,
+estaba abierto, y el maquinista seguía recibiendo instrucciones de maniobra por radio, solicitó también
+por radio su cierre. Al rato el paso a nivel se cerró e inmediatamente después el jefe de estación comunicó por radio
+que el paso a nivel estaba cerrado y el maquinista continuó la marcha.
+Como seguía recibiendo instrucciones de maniobra junto con la información de que el desvío n.º 9
+no estaba despejado, continuó más allá junto a la señal de entrada «S» hacia la vía de línea y ante la señal «Alto»,
+dada por medio de la radio, se detuvo a las 12:56 h. a 31 metros detrás de la señal de entrada y allí aguardó
+la instrucción para el empuje. Al rato la recibió, desfrenó la composición de maniobra y se preparó para empujar en dirección a la
+estación de ferrocarril.
+El jefe de maniobra dirigió la maniobra al iniciarse, pero poco después de salir de la 3.ª vía del ramal
+hacia la cabecera, transmitió por radio la instrucción al maniobrador para que asumiera el paso de señales
+al maquinista y fuera con el jefe de estación a la oficina de tráfico a acordar los siguientes pasos.
+Desde este momento y hasta el momento de la colisión, las señales al maquinista las dio el maniobrador.
+Este se encontraba inicialmente en un vagón aproximadamente en la mitad de la composición de maniobra, pero en el desvío n.º 9
+saltó y las siguientes señales ya las dio solo desde este lugar.
+Mientras tanto, el jefe de estación de Ždírec nad Doubravou realizó la entrada del tren
+Os 5304, que debía cruzarse en la estación con el tren Os 5307. El tren Os 5304 se detuvo a las 12:46
+h. en la 3.ª vía de tráfico. A las 12:45 h. el jefe de estación, mediante la operación del dispositivo de seguridad,
+concedió el permiso de línea para el tramo Hlinsko v Čechách – Ždírec nad Doubravou al jefe de estación
+de Hlinsko v Čechách, dando así el permiso para la circulación del tren Os 5307. Este tren
+salió de la estación de Hlinsko v Čechách a las 12:46 h., es decir, con 4 minutos de retraso.
+Cuando se acercaba a la estación de Ždírec nad Doubravou, el maquinista vio
+en el preaviso «PřS» la señal «Alarma».
+Por tanto, colocó el mando en la posición «Freno de servicio» y se preparó para detenerse
+antes de la señal de entrada «S». Tras salir del arco derecho, vio en la vía de línea
+una locomotora con vagones detenida y por ello aplicó el freno de emergencia y abandonó el puesto. El impacto se produjo
+a las 12:57 h. a una velocidad de 35-29 km/h.
+El impacto hizo que la composición de maniobra, ya desfrenada, fuera empujada hacia la estación 3 m, de modo que el morro
+de su locomotora quedó situado en el pk 27,713, es decir, a 28 m antes de la señal de entrada «S».
 
 ## Página 23
 
 ### 4.2 Análisis
-### 4.2.1 Evaluación de los hechos constatados de acuerdo con el punto 3 y exposición de las conclusiones sobre la causa del incidente extraordinario y la actuación de los servicios de rescate
-El 10 de noviembre de 2008, entre las 12:00 h y las 12:30 h, el jefe de maniobras del transportista ČD Cargo, a. s., concertaba con el despachador de la estación ferroviaria de Ždírec nad Doubravou las maniobras. Informó al despachador de que era necesario desplazar 17 vagones de una longitud de 342 metros desde la vía lateral 3 de la derivación Stora Enso Timber, s. r. o., hacia la vía de paso 2 de la estación ferroviaria de Ždírec nad Doubravou. El despachador consintió en dicha maniobra, siempre que esta se iniciara tras la llegada del tren Lv 82344, lo cual se preveía a las 12:30 h. El jefe de maniobras informó por radio a todos los participantes del modo de ejecución de las maniobras y se dirigió a la derivación.
-
-Dada la contradicción entre las declaraciones del despachador y del jefe de maniobras, no puede determinarse de manera inequívoca la hora de finalización de las maniobras asignada por el despachador; no obstante, de la explicación del despachador y de su posterior actuación se desprende que autorizó las maniobras más allá del señal de entrada y que sabía que las maniobras debían finalizar a más tardar a las 12:45 h, ya que a partir de esa hora sería necesario preparar la vía de circulación para el tren Os 5307. Aunque el despachador retiró posteriormente su declaración de autorización para las maniobras más allá del señal de entrada, tras la evaluación de los hechos constatados, dicha retirada parece tener únicamente un carácter premeditado.
-
-El tren locomotora Lv 82344 se detuvo en la vía de paso 2 a las 12:28 h; posteriormente, dicha locomotora realizó una maniobra hacia la vía de manipulación 4, enganchó 4 vagones y regresó con ellos a la vía de paso 2. Allí permaneció detenida, ya que debían enganchársele aquellos 17 vagones procedentes de la derivación Stora Enzo Timber, s. r. o. Mientras tanto, el despachador informó al guardagujas de la plataforma St.II. sobre las maniobras previstas, cerró el paso a nivel situado en el pk 27,634, que se encuentra entre el señal de entrada y el semáforo de entrada «S», y autorizó las maniobras. Del hecho de que el despachador cerrara el citado paso a nivel antes del inicio de las maniobras se deduce claramente que contaba con realizar las maniobras más allá del señal de entrada.
-
-Tras regresar a la derivación, el jefe de maniobras decidió modificar el modo de maniobra inicialmente anunciado. Tras obtener el consentimiento para las maniobras del guardagujas de la plataforma St.II., la locomotora estacionó inicialmente un vagón en la vía lateral 2, regresó a la vía lateral 3 y, tras engatar el grupo de maniobras, se iniciaron las maniobras de tracción hacia el cabezal en dirección a la estación ferroviaria de Hlinsko v Čechách. Esto provocó una prolongación sustancial del tiempo de las maniobras en comparación con lo previsto.
-
-Una vez que el grupo de maniobras comenzó a moverse, el jefe de maniobras ordenó por radio al ayudante de maniobras que asumiera la emisión de las señales para el maquinista y se dirigió a la oficina de tráfico para concertar con el despachador los pasos siguientes. El ayudante de maniobras, que en aquel momento se encontraba en la plataforma del vagón aproximadamente en el centro del grupo de maniobras, comenzó a emitir las señales al maquinista. Dado que para desplazar el grupo de maniobras hacia la vía de paso 2 era necesario liberar el punto de vía n.º 9, el ayudante de maniobras descendió del vagón en dicho punto para poder ver el mencionado punto de vía y emitió las señales siguientes desde allí. Mientras tanto, el despachador preparó la vía de circulación para el tren Os 5304 en la vía de paso 3 y, sin verificar si las maniobras habían finalizado, abrió el paso a nivel en el pk 27,634. Sin embargo, el hecho de que hubiera anulado la señal de precaución en el citado paso a nivel, la cual era condición indispensable para las maniobras más allá del señal de entrada, no lo comunicó a ningún empleado que participara en las maniobras.
-
-El tren Os 5304 se detuvo a las 12:46 h y esperó el cruce con el tren Os 5307, que en ese momento ya había salido de la estación ferroviaria de Hlinsko v Čechách. Una de las condiciones para su salida
+### 4.2.1 Evaluación de los hechos constatados según el punto 3 y exposición de las conclusiones sobre la causa del suceso excepcional y la actuación de los servicios de rescate
+El día 10. 11. 2008, entre las 12:00 y las 12:30 h, el jefe de maniobras del transportista ČD Cargo, a. s., acordó con el jefe de estación de la estación de ferrocarril Ždírec nad Doubravou la maniobra. Informó al jefe de estación de que era necesario trasladar 17 vagones de una longitud de 342 metros desde la 3.ª vía de apartadero del apartadero Stora Enso Timber, s. r. o., a la 2.ª vía de tráfico de la estación de ferrocarril Ždírec nad Doubravou. El jefe de estación accedió a esta maniobra con la condición de que la maniobra se iniciara únicamente tras la llegada del tren Lv 82344, lo que se preveía a las 12:30 h. El jefe de maniobras informó a todos los implicados, por medio de la estación de radio, de la forma de ejecución de la maniobra y se dirigió al apartadero.
+Debido a las discrepancias en las declaraciones del jefe de estación y del jefe de maniobras, no es posible determinar de forma inequívoca la hora de finalización de la maniobra fijada por el jefe de estación; sin embargo, de la explicación del jefe de estación y de su posterior actuación se deduce que autorizó la maniobra más allá del señalizador y que sabía que la maniobra habría de finalizar a más tardar a las 12:45 h, puesto que a partir de esa hora ya habría que efectuar la preparación de la vía de tren para el tren Os 5307. El jefe de estación retractó posteriormente su declaración sobre la autorización de la maniobra más allá del señalizador, no obstante, tras la evaluación de los hechos constatados, dicha retractación parece meramente interesada.
+El tren de locomotoras Lv 82344 se detuvo en la 2.ª vía de tráfico a las 12:28 h; a continuación, esta locomotora se desplazó como maniobra hasta la 4.ª vía de maniobra, acopló 4 vagones y con ellos regresó a la 2.ª vía de tráfico. Allí permaneció detenida, puesto que debían acoplarse a ella los mencionados 17 vagones del apartadero Stora Enzo Timber, s. r. o. Mientras tanto, el jefe de estación informó al encargado de desvíos del puesto St.II. de la maniobra prevista, cerró el paso a nivel en el km 27,634, situado entre el señalizador y la señal de entrada «S», y autorizó la maniobra. Que el jefe de estación hubiera cerrado dicho paso a nivel antes del inicio de la maniobra evidencia que contaba con una maniobra más allá del señalizador.
+Tras regresar al apartadero, el jefe de maniobras decidió modificar la forma de maniobra comunicada inicialmente. Tras obtener la autorización para la maniobra por parte del encargado de desvíos del puesto St.II., primero la locomotora estacionó un vagón en la 2.ª vía de apartadero, regresó a la 3.ª vía de apartadero y, tras acoplar el tramo de maniobra, solo entonces se inició la maniobra por arrastre hacia el extremo en dirección a la estación de ferrocarril Hlinsko v Čechách. De este modo, la duración de la maniobra se prolongó considerablemente respecto a lo previsto.
+Una vez que el tramo de maniobra se puso en marcha, el jefe de maniobras ordenó por radio al maniobrista que se hiciera cargo de las señales al maquinista, y él mismo se dirigió a la oficina de tráfico para acordar con el jefe de estación los siguientes pasos. El maniobrista, que en ese momento se encontraba en el estribo de un vagón situado aproximadamente en el centro del tramo de maniobras, es decir, detrás, comenzó a dar señales al maquinista. Dado que para trasladar el tramo de maniobra a la 2.ª vía de tráfico era necesario despejar el desvío n.º 9, el maniobrista, para poder ver dicho desvío, saltó del vagón en ese punto y las señales siguientes ya las dio desde allí. Mientras tanto, el jefe de estación efectuó la preparación de la vía de tren para el tren Os 5304 en la 3.ª vía de tráfico y, además, sin comprobar si la maniobra había finalizado, abrió el paso a nivel en el km 27,634. El hecho de que hubiera levantado la alerta en dicho paso a nivel, que era condición para la maniobra más allá del señalizador, no lo comunicó, sin embargo, a ningún empleado implicado en la maniobra.
+El tren Os 5304 se detuvo a las 12:46 h y esperó el cruce con el tren Os 5307, que en ese momento ya estaba partiendo de la estación de ferrocarril Hlinsko v Čechách. Una de las condiciones de su salida
 
 ## Página 24
+
 
 se concedió la autorización de vía para el tramo de vía Hlinsko v Čechách – Ždírec nad Doubravab por el dispositivo de seguridad de vía mediante el jefe de estación de Ždírec nad Doubravab. El momento en que se concedió no puede determinarse con precisión debido a las contradicciones en las declaraciones de los jefes de estación de Ždírec nad Doubravab y Hlinsko v Čechab. Según su afirmación, el jefe de estación de Ždírec nad Doubravab concedió la autorización de vía a las 12:45 h. Según la declaración del jefe de estación de Hlinsko v Čechab, la autorización de vía permaneció concedida tras la circulación del tren anterior Os 5305. En ambos casos, sin embargo, cabe señalar que durante el maniobra de maniobra más allá de la señal, el jefe de estación de Ždírec nad Doubravab no tenía concedida la autorización de vía para el tramo de vía adyacente, ya fuera durante toda la maniobra o solo durante parte de ella.
 
@@ -673,6 +724,7 @@ El tren Os 5307 salió de la estación de Hlinsko v Čechab a las 12:46 h con un
 El tren Os 5307 era un conjunto motor compuesto por el coche motor n.º 814.030-3 y el coche de mando n.º 914.030-2, circulando con el coche motor por delante. La masa del conjunto era de 46 toneladas, el porcentaje de frenado necesario del 67 % y el porcentaje de frenado real del 89 %. El conjunto frenaba con el freno neumático automático en el modo de frenado de emergencia. La colisión contra el grupo de maniobras detenido se produjo a las 12:57 h, en un rango de velocidades de 35 a 29 km/h; el cálculo del valor exacto a partir del registro del velocígrafo electrónico mediante métodos numéricos no es relevante debido a las causas y circunstancias de la aparición del accidente. Como resultado del impacto, el grupo de maniobras, ya liberado de frenos, fue desplazado en dirección a la estación 3 m, de modo que la parte frontal de su locomotora quedó detenida en la vía de línea en el pk 27,713, es decir, 28 m antes de la señal de entrada «S». No hubo descarrilamiento.
 
 ## Página 25
+
 
 El registro del velocígrafo del coche motor 814.030-3 del tren Os 5307 demostró que durante el frenado de emergencia se producía el bloqueo de los ejes, lo que reducía el efecto de frenado y prolongaba la distancia de frenado del tren. Esto fue confirmado también por la prueba de verificación realizada el 24.11.2008 en condiciones de adherencia favorables y con un conjunto motor del mismo tipo. El resultado de esta prueba mostró además que, si el grupo de maniobras no se hubiera encontrado en la vía de línea durante el frenado de emergencia del tren Os 5307 y el frenado desde la velocidad correspondiente a la velocidad de impacto se hubiera realizado en condiciones de adherencia favorables, el tren podría haberse detenido antes de la señal de entrada «S» con la señal «Alto». Ni el análisis matemático ni la reconstrucción del transcurso del frenado determinaron de manera inequívoca y con certeza si el tren se habría detenido antes de la señal de entrada «S» bajo las condiciones de adherencia que existían en el momento de la aparición del accidente.
 
@@ -697,6 +749,7 @@ Se trata de una infracción del apartado 11 del artículo 16 del Decreto n.º 17
 
 ## Página 26
 
+
 establecidos por el administrador de la infraestructura ferroviaria. Los procedimientos tecnológicos para las maniobras entre las vías de circulación se encuentran contenidos en la norma SŽDC (ČD) D2 del administrador de la infraestructura ferroviaria, que establece:
 - en el artículo 750: «El despachador de tráfico podrá autorizar la maniobra más allá de la señal de entrada, si... ...en las líneas equipadas con autorización de vía, se ha recibido la autorización de vía»;
 - en el artículo 719: «...Si se espera un tren, el despachador de tráfico deberá asegurar que la vía de circulación del tren se libere a tiempo y se detenga la maniobra que lo perturbe, es decir, aquella maniobra que está prohibida debido a la circulación del tren. En la Documentación básica de tráfico se indicará, según las condiciones locales, cuántos minutos antes de la llegada de los distintos tipos de trenes debe haber terminado, como máximo, la maniobra que perturba el tráfico. (Según la Documentación básica de tráfico de la estación ferroviaria de Ždírec nad Doubravou, la maniobra que perturba el tráfico debe terminar, como máximo, 5 minutos antes de la llegada prevista de todos los tipos de trenes.);
@@ -717,8 +770,8 @@ No se detectaron causas derivadas del marco normativo.
 ### 4.4.1 Deficiencias y omisiones detectadas durante la investigación de las causas y las circunstancias de la aparición del incidente, que no son relevantes para las conclusiones sobre las causas
 Se detectaron las siguientes deficiencias, que no influyeron en las causas de la aparición del incidente:
 
-
 ## Página 27
+
 
 El método de realización de la maniobra inicialmente acordado y aprobado por el despachador de tráfico
 ●
@@ -739,23 +792,22 @@ y un vagón de mando de la serie 914, demostró que la resistencia de los panele
 ### 5.1 Relación de las medidas que ya se han adoptado o tomado como consecuencia del incidente
 A raíz de este incidente, se adoptaron las siguientes medidas:
 
-
 ## Página 28
 
-El transportista ČD Cargo, a. s., emitió una medida para prevenir incidentes PŘ ČD Cargo, a. s.,
+El transportista ČD Cargo, a. s., emitió la medida para la prevención de MU PŘ ČD Cargo, a. s.,
 ●
-n.º ref. 399/2009 ŘTOD-013/22, en la que se ordena:
-1. «Se suspendió la cualificación del maquinista del vehículo ferroviario de tracción de la unidad de maniobra y, antes de volver a incorporarse al servicio de maquinista, deberá superar un examen extraordinario y someterse a una revisión médica extraordinaria, que incluirá un examen psicológico».
-2. «El Director de la Unidad Operativa de Brno emitirá una «Nota informativa» sobre el incidente en su unidad operativa y comunicará de manera verificable a todos los empleados de la Unidad Operativa de Brno».
-3. «Todos los empleados operativos de ČD Cargo serán informados sobre el resultado de la investigación del incidente y sobre la Nota informativa durante la formación realizada por el DVI».
-4. «Los inspectores de material rodante realizarán, en los meses de marzo y abril, al menos dos inspecciones cada uno para verificar el cumplimiento de las disposiciones normativas durante las maniobras, centrándose en la organización del trabajo durante las maniobras más allá de la señal de entrada y en la comunicación entre el empleado que dirige la maniobra, el maquinista y el despachador de tráfico».
+ref. n.º 399/2009 ŘTOD-013/22, en la que se ordena:
+1. «Se ha suspendido la cualificación del maquinista de la locomotora de maniobras de la unidad de maniobras y, antes de ser reincorporado al servicio como maquinista, superará un examen extraordinario y se someterá a un reconocimiento médico extraordinario, cuyo componente será una evaluación psicológica.»
+2. «El Director de la Unidad Operativa de Brno emitirá, con motivo del suceso extraordinario en su unidad operativa, una "Hoja de lecciones aprendidas" y pondrá la misma en conocimiento de forma acreditada de todos los empleados de la Unidad Operativa de Brno.»
+3. «El resultado de la investigación del suceso extraordinario y la Hoja de lecciones aprendidas serán puestos en conocimiento de todos los empleados operativos de ČD Cargo durante la formación impartida por DVI.»
+4. «Los inspectores de tráfico realizarán, en los meses de marzo y abril, cada uno un mínimo de dos inspecciones sobre el cumplimiento de las disposiciones reglamentarias durante las maniobras, con especial atención a la organización del trabajo en maniobras más allá de la señal y a la comunicación entre el empleado que dirige las maniobras, el maquinista y el jefe de estación.»
 El operador de la infraestructura ferroviaria České dráhy, a. s., adoptó las siguientes medidas:
 ●
-- Se suspendió la competencia profesional del despachador de tráfico de la estación ferroviaria de Ždírec nad Doubravou hasta la nueva verificación de su competencia profesional y se adoptaron otras medidas laborales.
-- Se emitió la «Nota informativa sobre el incidente del grupo A n.º 2/2009» n.º ref. 12/2009/018-RI 3.
-
+- Se ha suspendido la competencia profesional del jefe de estación de la estación de ferrocarril de Ždírec nad Doubravou hasta la revalidación de su competencia profesional, y se han adoptado medidas laborales adicionales.
+- Se ha emitido la "Hoja de lecciones aprendidas sobre el suceso extraordinario del grupo A n.º 2/2009" ref. n.º 12/2009/018-RI 3.
 
 ## Página 29
+
 
 ## 6 RECOMENDACIONES DE SEGURIDAD
 A raíz de los resultados de la investigación del incidente – colisión del tren regional Os 5307 con una unidad de maniobra en el tramo Hlinsko v Čechách – Ždírec nad Doubravou, el 10 de noviembre de 2008, la Inspección Ferroviaria recomienda a la Autoridad Ferroviaria, a los fabricantes y a los operadores de los vagones de mando de la serie 914 y de vagones de construcción similar, que modifiquen la construcción del tabique entre el espacio de piso bajo y el compartimento de viajeros, de modo que, por razones de seguridad de las personas a bordo, la resistencia de estos paneles de vidrio al impacto del vehículo no sea inferior a la resistencia de los demás cristales, estructuras y equipamientos de los espacios para viajeros y las cabinas de los maquinistas.
@@ -769,23 +821,24 @@ Inspección Central
 
 ## Página 30
 
+
 ## 7 ANEXOS
 Anexo 1: Condiciones locales en el lugar del accidente
 Anexo 2: Situación posterior al accidente
 
-
 ## Página 31
+
 
 Anexo 3: Distancias a los objetos decisivos
 Anexo 4: Vehículos siniestrados
 
-
 ## Página 32
+
 
 Anexo 5: Posición del coche de maniobra con respecto al semáforo de entrada "S"
 Anexo 6: Relleno de vidrio fragmentado del tabique
 
-
 ## Página 33
+
 
 Anexo 7: Fragmentos en el compartimento de pasajeros

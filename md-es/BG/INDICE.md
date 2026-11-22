@@ -77,7 +77,7 @@ Fidelidad = revisión IA del castellano contra el original (0-100).
 | Informe | Págs | Caracteres | Verificación |
 |---|---|---|---|
 | [BG 04.05.2017 FR Train Derailment_BG-5332.md](2017/BG%2004.05.2017%20FR%20Train%20Derailment_BG-5332.md) | — | 51679 | ok |
-| [BG 09.02.2017 FR_Derailment in Dalgopol-Komunari.md](2017/BG%2009.02.2017%20FR_Derailment%20in%20Dalgopol-Komunari.md) | — | 54330 | revisar |
+| [BG 09.02.2017 FR_Derailment in Dalgopol-Komunari.md](2017/BG%2009.02.2017%20FR_Derailment%20in%20Dalgopol-Komunari.md) | — | 54330 | ok |
 | [BG 12.10.2017 FR_Fire in RS_12 10 2017.md](2017/BG%2012.10.2017%20FR_Fire%20in%20RS_12%2010%202017.md) | — | 44465 | ok |
 
 ## 2016 (8)
@@ -86,7 +86,7 @@ Fidelidad = revisión IA del castellano contra el original (0-100).
 |---|---|---|---|
 | [BF 23.01.2016 FR_Derailment.md](2016/BF%2023.01.2016%20FR_Derailment.md) | — | 38048 | ok |
 | [BG 03.09.2016 FR_BG-5161_Derailment.md](2016/BG%2003.09.2016%20FR_BG-5161_Derailment.md) | — | 34014 | ok |
-| [BG 08.07.2016 Fire.md](2016/BG%2008.07.2016%20Fire.md) | — | 36600 | revisar |
+| [BG 08.07.2016 Fire.md](2016/BG%2008.07.2016%20Fire.md) | — | 36600 | ok |
 | [BG 10.12.2016 FR Derailment in Hitrino.md](2016/BG%2010.12.2016%20FR%20Derailment%20in%20Hitrino.md) | — | 116044 | ok |
 | [BG 13.04.2016 FR_Fire.md](2016/BG%2013.04.2016%20FR_Fire.md) | — | 36329 | ok |
 | [BG 14.09.2016 FR Fire in RS_BG-5167.md](2016/BG%2014.09.2016%20FR%20Fire%20in%20RS_BG-5167.md) | — | 29984 | ok |
@@ -97,9 +97,9 @@ Fidelidad = revisión IA del castellano contra el original (0-100).
 
 | Informe | Págs | Caracteres | Verificación |
 |---|---|---|---|
-| [BG 01.02.2015 FR_Derailment_BG_4713.md](2015/BG%2001.02.2015%20FR_Derailment_BG_4713.md) | — | 35837 | revisar |
+| [BG 01.02.2015 FR_Derailment_BG_4713.md](2015/BG%2001.02.2015%20FR_Derailment_BG_4713.md) | — | 35837 | ok |
 | [BG 09.08.2015.md](2015/BG%2009.08.2015.md) | — | 57449 | revisar |
-| [BG 13.10.2015-4910.md](2015/BG%2013.10.2015-4910.md) | — | 41421 | revisar |
+| [BG 13.10.2015-4910.md](2015/BG%2013.10.2015-4910.md) | — | 41421 | ok |
 
 ## 2014 (7)
 

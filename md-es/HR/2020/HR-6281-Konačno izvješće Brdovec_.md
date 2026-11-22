@@ -12,8 +12,8 @@ tokens_in: 33949
 tokens_out: 22026
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-verificacion: revisar
-avisos: ["página 6: ratio 1.95", "página 25: ratio 1.89", "página 27: ratio 1.71"]
+verificacion: ok
+notas_cifras: ["página 6: original bilingüe: se compara contra el idioma principal (EN); cifras cortas: 1/12", "página 8: cifras cortas: 2/25", "página 9: cifras largas: 1/12; cifras cortas: 1/22", "página 15: cifras largas: 1/17", "página 25: original bilingüe: se compara contra el idioma principal (HR)", "página 27: original bilingüe: se compara contra el idioma principal (HR)"]
 ---
 
 ## Página 1
@@ -159,37 +159,33 @@ falta de detención del conductor del vehículo particular antes del paso a nive
 
 ## Página 6
 
-CORRECCIÓN OBLIGATORIA: falló ratio 1.89. Traduce el fragmento completo, sin omitir ninguna línea, tabla ni cifra.
-
-
-
 - 
-la conciencia situacional de la conductora del vehículo particular de que se acercaba al paso a nivel (capítulo 4.6).  
+la conciencia situacional de la conductora del vehículo de carretera de que se aproxima al paso a nivel (capítulo 4.6).  
 Factores organizativos:  
 - 
- no se han establecido ninguna omisión. 
+ no se han detectado deficiencias. 
 ### Recomendaciones de seguridad 
-La Agencia para la Investigación de Accidentes en el Tráfico Aéreo, Marítimo y Ferroviario no tiene recomendaciones de seguridad relacionadas con este accidente.  
+La Agencia de Investigación de Accidentes de Tráfico Aéreo, Marítimo y Ferroviario no tiene recomendaciones de seguridad relacionadas con este accidente.  
 ## RESUMEN DEL INFORME 
-El 26 de abril de 2020 a las 20:20 h, en el PK 443+898 de la línea M101 Zaprešić-Savski Marof, en el paso a nivel (PA) "Brdovec", un vehículo particular de carretera quedó atrapado bajo el tren n.º 69617, que estaba activamente asegurado (mediante señales luminosas y sonoras). En el mencionado accidente, tres personas resultaron heridas en un vehículo particular de carretera; una falleció y las otras dos resultaron heridas. Hubo daños materiales importantes en el vehículo particular de carretera, la locomotora y la infraestructura. 
-La causa directa del accidente en cuestión fue la conducción de un vehículo particular de carretera por el PA inmediatamente antes de la llegada de la máquina de tren número 69617 a pesar de la señalización luminosa y sonora, y el paso por debajo del tren (capítulo 2.1.). 
-Factores que contribuyeron a este accidente:  
+El 26 de abril de 2020 a las 20:20 h, en el PK 443+898 de la línea M101 Zaprešić-Savski Marof, en el paso a nivel "Brdovec" activamente asegurado (luz y sonido), un vehículo de carretera particular fue embestido por el tren n.º 69617. En el mencionado accidente, tres personas resultaron afectadas en el vehículo de carretera particular, una falleció y otras dos resultaron heridas. Hubo daños materiales importantes en el vehículo de carretera particular, la locomotora y la infraestructura. 
+La causa directa del accidente en cuestión fue la circulación de un vehículo de carretera particular por el paso a nivel inmediatamente antes de la llegada de la máquina-tren n.º 69617 a pesar de la señalización luminosa y sonora, y el paso por debajo del tren (capítulo 2.1.). 
+Factores que contribuyeron a este accidente: 
 - 
- visibilidad reducida debido a la noche (capítulo 2.4.),  
+ visibilidad reducida debido a la noche (capítulo 2.4.), 
 - 
- intensidad de tráfico reducida de los vehículos ferroviarios debido a la pandemia de Covid,  
+ reducción de la intensidad del tráfico de vehículos ferroviarios debido a la pandemia de Covid, 
 - 
- la no parada del conductor del vehículo antes del paso a nivel (capítulo 2.1.),  
+ la conductora del vehículo no se detuvo antes del paso a nivel (capítulo 2.1.), 
 - 
- la conciencia situacional de la conductora del vehículo de que se acercaba al paso a nivel (capítulo 4.6.). 
-Factores organizativos:  
+ la conciencia situacional de la conductora del vehículo de que se aproxima al paso a nivel (capítulo 4.6). 
+Factores organizativos: 
 - 
  ninguno. 
 ### Recomendaciones de seguridad 
-La Agencia para la Investigación de Accidentes en el Tráfico Aéreo, Marítimo y Ferroviario no tiene recomendaciones de seguridad relacionadas con este accidente.  
-### 2. DATOS DEL INCIDENTE  
-### Descripción del incidente  
-El 26 de abril de 2020 a las 20:20 h, en la línea M101 (Dobova)-Frontera Estatal-Savski Marof-Zagreb Glavni kolodvor, en el PA "Brdovec", se produce el paso por debajo de un vehículo particular de carretera bajo el tren mecánico número 69617. El PA "Brdovec" está situado en la intersección de la calle Savska y la calle Dragutina Butorca (carretera condal 3035), en el PK 443+898, y está asegurado (activamente) mediante señales de tráfico así como señales luminosas y sonoras que anuncian el paso del tren. El tren número 69617 circulaba desde Savski Marof hasta Zaprešić por el vía izquierda, mientras que el vehículo particular de carretera llegaba desde la dirección de la calle Savska cruzando el mencionado PA hacia la calle Dragutina Butorca (Figura 1.). Con la llegada del tren número 69617 al PA "Brdovec" se produce el paso por debajo del vehículo particular de carretera bajo el tren, y el choque de la locomotora con el parachoques izquierdo contra el lado izquierdo del vehículo particular de carretera. Durante el choque, el vehículo particular de carretera giró y fue arrojado a la vía derecha, con lo cual
+La Agencia de Investigación de Accidentes de Tráfico Aéreo, Marítimo y Ferroviario no tiene recomendaciones de seguridad relacionadas con este accidente. 
+### 2. DATOS DEL SUCESO 
+###  Descripción del suceso 
+El 26 de abril de 2020 a las 20:20 h, en la línea M101 (Dobova)-Frontera Estatal-Savski Marof-Zagreb Estación Central, en el paso a nivel "Brdovec", se produce el paso por debajo de un vehículo de carretera particular por la máquina-tren n.º 69617. El paso a nivel "Brdovec" está situado en la intersección de la calle Savska y la calle Dragutina Butorca (carretera condal 3035), en el PK 443+898, y está asegurado (activamente) con señales de tráfico y con señales luminosas y sonoras que anuncian el paso del tren. El tren n.º 69617 circulaba de Savski Marof a Zaprešić por la vía izquierda, mientras que el vehículo de carretera particular se aproximaba desde la dirección de la calle Savska cruzando el mencionado paso a nivel hacia la calle Dragutina Butorca (Figura 1.). Con la llegada del tren n.º 69617 al paso a nivel "Brdovec", se produce el paso por debajo del vehículo de carretera particular por el tren, así como el impacto del morro izquierdo de la locomotora en el lado izquierdo del vehículo de carretera particular. En el impacto, el vehículo de carretera particular quedó girado y fue lanzado a la vía derecha, con lo que
 
 ## Página 7
 
@@ -582,21 +578,21 @@ Dispositivo de relés en la estación
 
 ## Página 25
 
-El estado del dispositivo de seguridad ŽCP se transmite a la estación más cercana de control remoto. En la mesa de conmutación se transmiten las siguientes indicaciones:
-- el dispositivo ŽCP funciona normalmente. Luz blanca fija en el indicador
-- avería en el dispositivo ŽCP luz roja fija y señalización eléctrica
-- fallo en el dispositivo ŽCP luz roja intermitente y señalización eléctrica.
-9.1. 
-Cuando se produce una avería, el dispositivo sigue funcionando normalmente, el despachador de trenes debe llamar inmediatamente al trabajador de mantenimiento de la sección SS.
-9.2. 
-Cuando se produce un fallo del dispositivo ŽCP, el dispositivo está averiado y el cruce no está asegurado. En tal caso, el despachador de trenes debe tomar de inmediato todas las medidas previstas en las disposiciones del reglamento de circulación para la seguridad del tráfico.
-10.0. 
-La verificación del funcionamiento correcto del dispositivo ŽCP la realiza el agente de tráfico en la estación de control remoto.
-La verificación se realiza cada día al inicio del turno del agente de tráfico. La verificación del funcionamiento correcto se realiza para averías y fallos (ver punto 9.0.). El despachador de trenes verifica el estado de la automatización en caso de avería y fallo en cada entrega y recepción del mando. Esto lo hace pulsando y soltando los botones IS e IK y, mediante los indicadores descritos en el punto 9.0., verifica el funcionamiento correcto de la automatización del ŽCP. Esta prueba debe anotarse en el diario de tráfico, en la entrega y recepción del servicio, y en caso de fallo o avería también en el formulario V-11.
-### Modo de funcionamiento del equipo ferroviario
-### Infraestructura ferroviaria
-El accidente objeto de investigación ocurrió en el cruce a nivel ŽCP „Brdovec“, que se encuentra en la línea M101, (Dobova)-Frontera estatal-Savski Marof-Zagreb Glavni kolodvor. La mencionada línea es una línea internacional principal, de doble vía, electrificada (tensión de 25 kV, 50 Hz). El tráfico en la línea objeto de investigación entre Zaprešić y Savski Marof se regula mediante bloqueo automático de vía (APB).
-El gestor de la infraestructura, en el documento “Informe de la red para 2020” (en el Anexo 3.13. Distancia entre puntos oficiales, velocidades permitidas/limitadas y perfiles libres), definió el valor permitido de velocidad
+El estado del aparato de enclavamiento de paso a nivel (ŽCP) se transmite a la estación de control remoto más cercana. Al puesto de mando se transmiten las siguientes señales:
+- el aparato ŽCP funciona normalmente. Luz blanca fija en el indicador
+- avería en el aparato ŽCP luz roja fija y aviso eléctrico
+- fallo en el aparato ŽCP luz roja intermitente y aviso eléctrico.
+9.1.
+Cuando aparece una avería el aparato sigue funcionando normalmente, el despachador de trenes debe llamar inmediatamente al trabajador de mantenimiento de la sección SS.
+9.2.
+Cuando aparece un fallo el aparato ŽCP está averiado y el paso no está asegurado. En tal caso, el despachador de trenes debe adoptar con la máxima urgencia todas las medidas conforme a las disposiciones de las normas de tráfico para la seguridad del tráfico.
+10.0.
+La comprobación de la correcta función del aparato ŽCP la realiza el operador de tráfico en la estación de control remoto
+La comprobación se realiza cada día al recibir el turno el operador de tráfico. La comprobación de la correcta función se realiza ante avería y fallo (véase el punto 9.0.). El despachador de trenes comprueba el estado de la automatización ante avería y fallo en cada entrega-recepción del turno. Lo hace pulsando y soltando las teclas IS e IK y, junto con los indicadores descritos en el punto 9.0., comprueba la correcta función de la automatización en el ŽCP. Esta prueba debe anotarla en el diario de tráfico, en la entrega-recepción del servicio y, en caso de fallo o avería, también en el V-11.
+###  Modo de funcionamiento del material ferroviario
+###  Infraestructura ferroviaria
+El accidente objeto de investigación ocurrió en el ŽCP „Brdovec“, situado en la línea M101, (Dobova)-Frontera estatal-Savski Marof-Zagreb Glavni kolodvor. La mencionada línea es una línea principal internacional, de doble vía, electrificada (tensión de 25kV, 50Hz). El tráfico en la línea objeto de investigación entre Zaprešić y Savski Marof se regula mediante bloqueo automático de línea (APB).
+El gestor de infraestructura, en el documento “Izvješće o mreži za 2020.“ (en el Anexo 3.13. Distancia entre puntos oficiales, velocidades permitidas/restringidas y perfiles libres), definió el valor permitido de velocidad
 
 ## Página 26
 
@@ -617,14 +613,15 @@ Mediante la revisión de los documentos sobre fallos y errores (libro de inciden
 
 ## Página 27
 
-Figura 8. Registro de incidencias y averías de los tres meses anteriores al día del accidente en el PC de «Brdovec» (Fuente de la imagen: AIN) 
-###   Antecedentes y hechos similares 
-Según los datos facilitados por HŽ Infrastruktura en el PC de «Brdovec», situado en el PK 443+898, no se registraron incidentes, accidentes ni accidentes graves en los diez años anteriores a la producción del accidente de que se trata.  
-###  Vehículos ferroviarios 
-La locomotora número 91 80 6193-269-8 se mantuvo y reparó con regularidad, según la documentación facilitada de las fechas 18.10.2019., 29.10.2019., 29.11.2019., 19.12.2019., 3.2.2020., 12.3.2020., 20.3.2020.  
-###  Velocidad de circulación del tren 
-Al examinar el registro del dispositivo (figura n.º 9) para el registro del tiempo y la velocidad de circulación, se observa que el tren n.º 69617 circulaba a la velocidad permitida de 60 km/h al atravesar la estación de Savski Marof y durante todo el tiempo hasta aproximarse al PC de «Brdovec», momento en el que se inicia el frenado al detectar un vehículo de carretera particular que lo cruzaba. 
-### Figura 9. Banda de registro del tiempo y la velocidad de circulación (Fuente de la imagen: AIN)
+Figura 8. Registro de averías y fallos en los 3 meses anteriores a la fecha del accidente en el PCL „Brdovec" (Fuente de la imagen: AIN)
+###   Eventos anteriores y similares
+Según los datos facilitados por HŽ Infrastruktura, en el PCL „Brdovec" situado en el PK
+443+898, en los diez años anteriores al accidente en cuestión no hubo incidentes, accidentes ni accidentes graves.
+###  Vehículos ferroviarios
+La locomotora número 91 80 6193-269-8 se mantenía y reparaba regularmente, según la documentación facilitada, los días 18.10.2019., 29.10.2019., 29.11.2019., 19.12.2019., 3.2.2020., 12.3.2020., 20.3.2020.
+### Velocidad de circulación del tren
+Del examen del registro del dispositivo (figura número 9.) de anotación de la hora y velocidad de circulación, se observa que el tren n.º 69617 circulaba a la velocidad permitida de 60 km/h al pasar por la estación de Savski Marof y durante todo el tiempo hasta la aproximación al PCL „Brdovec", cuando comienza la frenada al observar un vehículo de carretera particular que lo cruza.
+### Figura 9. Tira de anotación de la hora y velocidad de circulación (Fuente de la imagen: AIN)
 
 ## Página 28
 

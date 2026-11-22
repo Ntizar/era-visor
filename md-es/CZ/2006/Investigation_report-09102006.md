@@ -10,13 +10,14 @@ chars: 66957
 ratio_longitud: 1.30
 tokens_in: 30612
 tokens_out: 21968
-verificacion: revisar
-notas_cifras: ["bloque 1: original bilingüe: se compara contra el idioma principal (EN)", "bloque 2: original bilingüe: se compara contra el idioma principal (CS)", "bloque 3: cifras cortas: 3/80", "bloque 4: cifras cortas: 6/83", "bloque 5: original bilingüe: se compara contra el idioma principal (CS)", "bloque 6: cifras cortas: 6/95"]
-avisos: ["bloque 5: ratio 1.76", "bloque 7: ratio 1.78"]
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (PT)", "página 5: original bilingüe: se compara contra el idioma principal (EN)", "página 6: original bilingüe: se compara contra el idioma principal (CS)", "página 8: cifras cortas: 2/39", "página 9: cifras cortas: 1/39", "página 10: cifras cortas: 4/47"]
 ---
+
 ## Página 1
+
 
 Inspección Ferroviaria
 República Checa
@@ -42,11 +43,12 @@ NIF: 75009561
 http://www.dicr.cz
 fax: (+420) 224 805 428
 
-
 ## Página 2
 
 
+
 ## Página 3
+
 
 # RESUMEN
 9 de octubre de 2006, 15:54 (13:54 GMT)
@@ -69,11 +71,12 @@ Causa raíz:
 no investigada
 Recomendación: no emitida
 
-
 ## Página 4
 
 
+
 ## Página 5
+
 
 # Índice
  Resumen .............................................................................................................................3
@@ -110,6 +113,7 @@ técnica de las causas de la aparición del incidente extraordinario ...........
 
 ## Página 6
 
+
 proporción ...............................................................................................................12
 3.1.2 Otras personas .........................................................................................................12
 3.2 Sistema de garantía de la seguridad ...............................................................................12
@@ -139,8 +143,8 @@ proporción ....................................................................
 4.1.1 Descripción final del incidente basada en los hechos constatados en el punto 3 
 ............................................................................................................................17
 
-
 ## Página 7
+
 
 4.2 Análisis ......................................................................................................................18
 4.2.1 Evaluación de los hechos constatados según el punto 3 y presentación de conclusiones sobre la causa del incidente y la actuación de los servicios de rescate ..........................................18
@@ -160,6 +164,7 @@ proporción ....................................................................
 
 ## Página 8
 
+
 ## 1 RESUMEN
 El 9 de octubre de 2006 a las 15:54 h se produjo un incidente extraordinario en el transporte ferroviario a tenor del artículo 49 de la ley n.º 266/1994 Coll., sobre vías férreas, en su versión vigente (en lo sucesivo, IE), cuando en un paso a nivel de la vía regional Šumperk – Kouty nad Desnou, en el punto kilométrico 15,590 (línea 312 A), colisionó un vehículo ferroviario que circulaba como el tren de viajeros Os 13772 con un vehículo de motor por carretera: una motocicleta YAMAHA, con matrícula 2M2 122 (en lo sucesivo, motocicleta).
 Tras la producción del IE, el conductor de la motocicleta fue atendido en el lugar.
@@ -178,6 +183,7 @@ La circulación del tren hasta el punto kilométrico 15,590 se desarrolló sin i
 El PaN se encuentra en el punto kilométrico 15,590 de la vía regional de vía única n.º 312 A Šumperk – Kouty nad Desnou, entre la estación ferroviaria ef. Šumperk y la ef. Petrov nad Desnou, en el municipio de Vikýřovice. El ángulo de cruce de la vía con la vía terrestre en el lugar del IE es de 90°.
 
 ## Página 9
+
 
 La distancia de la «Cruz de advertencia» al eje de la vía es de 7,10 metros en el sentido de circulación de la motocicleta y de 4,00 metros en el lado opuesto. El PaN está señalizado y protegido para los usuarios de la vía terrestre desde ambas direcciones mediante señales de tráfico verticales A 32a «Cruz de advertencia para paso a nivel de vía única» y P6 «Deténgase, ceda el paso».
 El sistema integrado de rescate (en lo sucesivo, SIR) fue activado por el despachador de la ef. Petrov nad Desnou a las 16:00 h. En el lugar del IE intervinieron el Servicio de Rescate Sanitario de Šumperk, el Servicio de Rescate de Bomberos de Šumperk y la Policía de la República Checa – Inspección de Tráfico de Šumperk.
@@ -200,6 +206,7 @@ El tren Os 13772 estaba compuesto por un VMF – vehículo motor de la serie 810
 El tren tenía una longitud de 42 m, 6 ejes, 71 t, un porcentaje normativo de frenado necesario del 61 %, un porcentaje real de frenado del 79 %, el I. método de frenado y el modo de freno P.
 
 ## Página 10
+
 
 El vehículo ferroviario (HDV) 810.221-2 dispone de un Certificado de Aptitud de Vehículo Ferroviario válido, expedido de conformidad con el artículo 43 de la Ley n.º 266/1994 Coll., por la Oficina Ferroviaria de Praga bajo el registro n.º PZ 7838/04-V.22, el 2 de septiembre de 2004.
 La última inspección técnica periódica del HDV fue realizada el 27 de septiembre de 2006 por una persona cualificada del transportista, con el resultado: sin defectos.
@@ -237,116 +244,110 @@ El accidente fue notificado a la Inspección Ferroviaria conforme al Decreto n.�
 
 ## Página 11
 
-### 2.2.7 Activación del plan del sistema integrado de rescate, de la policía y del servicio de rescate médico, y secuencia de los acontecimientos
-
-El accidente fue notificado al sistema integrado de rescate de la policía y del servicio de rescate médico conforme al Decreto n.º 376/2006 Coll., sin demora innecesaria tras el conocimiento de los hechos, por el despachador de la estación de Petrov nad Desnou a las 16:00 h.
-
-En el lugar del accidente actuaron el Servicio de Rescate Médico de Šumperk, que atendió en el lugar al conductor de la motocicleta, el Cuerpo de Bomberos y Rescate y la Policía de la República Checa (en adelante, PČR) de la Inspección de Tráfico de Šumperk.
-
-### 2.3 Muertes, lesiones y daños materiales
-
-2.3.1 En viajeros y terceros, empleados del administrador de la infraestructura y del transportista, incluidas las personas en relación contractual
-
-En el lugar del accidente fue atendido el conductor de la motocicleta.
-
-No se produjeron daños a la salud de los viajeros, empleados del administrador de la infraestructura y del transportista, ni de terceros durante el accidente.
-
-### 2.3.2 En mercancías transportadas, equipajes y otros bienes
-
-Se estimó que la motocicleta YAMAHA sufrió daños por un importe de 40.000,- Kč, según la evaluación cualificada de la PČR.
-
-### 2.3.3 En vehículos ferroviarios, componentes de la vía de circulación y en el medio ambiente
-
-Mediante la inspección comisionada del vehículo motorizado 810.221-2 realizada el 11 de octubre de 2006 en las instalaciones de České dráhy, a. s., en el Depósito de Vehículos Ferroviarios de Olomouc, unidad operativa de Šumperk, se detectó: deformación de la parte superior derecha de la cubierta frontal en la cara delantera, escalón derecho doblado, cable del accionamiento del velocímetro dañado incluida la brida de paso, y soporte del lubricante de los rodillos roto. Los daños en el HDV se cuantificaron en 2.740,- Kč.
-
-Los daños secundarios causados por el accidente se originaron por los costes del servicio de autobús de sustitución por un importe de 731,- Kč. El servicio ferroviario se interrumpió en el tramo entre la estación de Šumperk y la estación de Petrov nad Desnou el 9 de octubre de 2006 desde las 15:54 h hasta las 17:55 h del mismo día, es decir, durante 121 min. Se cancelaron los trenes Os 13772/13775 en el tramo Petrov nad Desnou – apeadero D3 Kouty nad Desnou y viceversa, y el Os 13773 en el tramo Petrov nad Desnou - Šumperk. Los trenes Os 23866/23867 en el tramo entre la estación de Šumperk y la estación de Petrov nad Desnou fueron sustituidos por autobuses de la empresa Connex Morava a. s.
-
-### 2.4 Condiciones externas
-
+### 2.2.7 Activación del plan del sistema integrado de emergencias, policía y servicio médico de emergencias y secuencia de acontecimientos
+Se notificó el siniestro al sistema integrado de emergencias de la policía y del servicio médico de emergencias en el sentido del decreto n.º 376/2006 Sb. sin demora innecesaria tras la constatación de los hechos por parte del jefe de estación de la est. Petrov nad Desnou a las 16:00 h.
+En el lugar del siniestro actuó el Servicio Médico de Emergencias Šumperk, que atendió en el lugar al conductor de la motocicleta, el Servicio de Emergencias de Bomberos y la Policía de la República Checa (en adelante PČR), Inspectorado de Tráfico Šumperk.
+### 2.3 Fallecimientos, lesiones y daños materiales
+2.3.1 En pasajeros y terceras personas, empleados del explotador de la vía y del transportista, incluidas personas en relación contractual
+En el lugar del siniestro fue atendido el conductor de la motocicleta.
+No se produjeron daños a la salud en pasajeros, empleados del explotador de la vía y del transportista ni en terceras personas con motivo del siniestro.
+### 2.3.2 En las cosas transportadas, el equipaje y otros bienes
+En la motocicleta YAMAHA, según la estimación cualificada de la PČR, se produjo un daño por importe de 40.000,- CZK.
+### 2.3.3 En los vehículos ferroviarios, los componentes de la vía de circulación y en el medio ambiente
+De la inspección en comisión del automotor 810.221-2 realizada el 11. 10. 2006 en el centro de trabajo de České dráhy, a. s., en el Depósito de vehículos ferroviarios Olomouc, unidad de explotación Šumperk, se constató: la parte superior derecha de la cubierta del frontal deformada en la cara frontal, el estribo derecho doblado, el cable de accionamiento del velocímetro dañado junto con su pasacables, la consola de engrase de los labios de las ruedas rota. El daño en el material rodante fue valorado en 2.740,- CZK.
+El daño secundario causado por el siniestro se originó en los costes del transporte por autobús de sustitución por importe de 731,- CZK. El tráfico ferroviario en el tramo entre la est. Šumperk y la est. Petrov nad Desnou fue interrumpido el 9. 10. 2006 desde las 15:54 h hasta las 17:55 h del mismo día, es decir, 121 min. Fueron suprimidos los trenes Os 13772/13775 en el tramo Petrov nad Desnou – estación D3 Kouty nad Desnou y de vuelta, y el Os 13773 en el tramo Petrov nad Desnou - Šumperk. Los trenes Os 23866/23867 fueron sustituidos por autobuses de la empresa Connex Morava a. s. en el tramo entre la est. Šumperk y la est. Petrov nad Desnou.
+### 2.4 Circunstancias externas
 ### 2.4.1 Condiciones meteorológicas y datos geográficos
-
-Clima: + 16º C, calma, despejado, horario diurno, visibilidad superior a 100 m, no reducida por las condiciones meteorológicas.
+Meteorología: + 16º C, calma, despejado, período diurno, visibilidad superior a 100 m, no reducida por influencias meteorológicas.
 
 ## Página 12
 
-## 3 REGISTRO DE LAS EXPLICACIONES PRESTADAS
-### 3.1 Resumen de las explicaciones prestadas (sujetas a la protección de la identidad de las personas) y de la investigación técnica de las causas de la incidencia extraordinaria
-### 3.1.1 Empleados del gestor de la infraestructura y del transportista, incluidas las personas en relación contractual
-El maquinista del tren Os 13772, en el acta «Acta con el empleado» elaborada el 9. 10. 2006, indicó, entre otras cosas: «...... Ya estaba frenando antes del paso a nivel al aproximarme a la parada de Vikýřovice y, antes del paso a nivel, emití la señal «Atención». La motocicleta... … en el paso a nivel chocó contra la parte delantera derecha de la motocicleta. Utilicé el freno de emergencia y el tren se detuvo. Tras la detención, bajé y fui a prestar ayuda al conductor de la motocicleta. El conductor resultó herido en la pierna derecha, no de gravedad. Posteriormente, comuniqué este incidente por teléfono móvil al despachador de tráfico en Petrov n. D. …...»
+## 3 ZÁZNAM DE LAS EXPLICACIONES PRESENTADAS
+### 3.1 Resumen de las explicaciones presentadas (sujetas a la protección de la identidad de las personas) y del peritaje sobre las causas de la aparición del suceso ferroviario
+### 3.1.1 Personal del gestor de la infraestructura y del transportista, incluidas personas en relación contractual
+El maquinista del tren Os 13772, en el acta «Acta con el empleado» elaborada el 9. 10. 2006, entre otras cosas, indicó: «...... Antes del paso a nivel ya estaba frenando al llegar a la parada Vikýřovice y antes del paso a nivel daba la señal «Atención». El motociclista... … en el paso a nivel impactó en la parte delantera derecha del motociclo. Utilicé el freno de emergencia y el tren se detuvo. Tras detenerme, bajé y fui a prestar asistencia al conductor del motociclo. El conductor resultó herido en la pierna derecha, no de gravedad. Después comuniqué este suceso por teléfono móvil al despachador director en Petrov n. D. …...»
 ### 3.1.2 Otras personas
-El conductor de la motocicleta YAMAHA, en el «Acta sobre el examen oral de la infracción de tráfico n.º j. 173465/2006 DOP/JOSL» elaborada por el Departamento de Tráfico del Ayuntamiento de Šumperk, se indica la falta del conductor de la motocicleta, consistente en no respetar la señal de tráfico P6 «Alto, ceda el paso» y, además, continuar circulando por el paso a nivel ferroviario en un momento en el que ya se veía y se oía el tren.
+Del conductor del motociclo YAMAHA – en el «Acta de la vista oral de la infracción de tráfico n.º de expediente 173465/2006 DOP/JOSL» elaborada por el Departamento de Tráfico de la Oficina Municipal de Šumperk, se hace constar la infracción del conductor del motociclo, a saber, el no respeto de la señal de tráfico P6 «Pare, ceda el paso en la circulación» y, además, la continuación de la circulación por el paso a nivel ferroviario en el momento en que ya se veía y se oía el tren.
 ### 3.2 Sistema de garantía de la seguridad
-### 3.2.1 Organización marco y forma en que se dictan y ejecutan las instrucciones
-La circulación de los trenes entre las estaciones de Šumperk y Petrov nad Desnou está asegurada mediante un bloqueo semiautomático. El maquinista del tren Os 13772, durante la circulación en el tramo de vía en cuestión, se regía por las instrucciones —señales— y por las circunstancias que observaba desde su puesto de conducción, situado en la cabeza del tren, en el lado derecho de la locomotora HDV 810.221-2. Antes de la incidencia extraordinaria (MU) se dictó una instrucción del gestor de la infraestructura mediante un semáforo de advertencia no transmisible «Tocad la bocina» situado a 195 m antes del paso a nivel (ŽP) en cuestión (inmediatamente después del paso a nivel en el pk 15,390). La instrucción iba dirigida al maquinista del tren Os 13772. A la instrucción de la señal «Tocad la bocina» siguió la instrucción del transportista dada mediante la bocina de la locomotora con la señal «Atención» de forma repetida. Esta instrucción de advertencia iba dirigida a advertir a los participantes en la circulación por carretera, es decir, también al conductor de la motocicleta, de que se acercaba un vehículo ferroviario al paso a nivel. Otras instrucciones, relacionadas con la incidencia extraordinaria, son las instrucciones del gestor de la infraestructura a los participantes en la circulación por carretera, en forma de señales de tráfico verticales A 32a «Cruz de advertencia para paso a nivel de vía única» y P6 «Alto, ceda el paso».
-### 3.2.2 Requisitos para los empleados del gestor de la infraestructura y del transportista y su cumplimiento
-La aptitud sanitaria y profesional de los empleados del gestor del transporte ferroviario de la empresa Connex Morava a. s. se rige por las disposiciones del Decreto n.º 101/1995 Coll., por el que se aprueba el Reglamento para la aptitud sanitaria y profesional de las personas en la explotación de la vía férrea y del transporte ferroviario, en su versión vigente (en adelante, Decreto n.º 101/1995 Coll.). El maquinista realizó la última revisión médica periódica el 14. 10. 2004 con una validez de 2 años.
-Los requisitos de aptitud profesional de los empleados del gestor del transporte ferroviario de la empresa Connex Morava a. s. los establece el documento interno «OS-Ž 10.5 Formación y capacitación de los empleados de ŽD, en la versión 
+### 3.2.1 Organización marco y forma en que se emiten y ejecutan las instrucciones
+La circulación de trenes entre la est. Šumperk y Petrov nad Desnou está protegida por un bloqueo semiautomático. El maquinista del tren Os 13772, durante la circulación en el tramo de vía objeto de estudio, se guió por las instrucciones – señales y hechos que observaba desde su puesto de mando, situado en la parte delantera del tren, en el lado derecho del HDV 810.221-2 del tren. Al suceso MU le precedió una instrucción del gestor de la infraestructura mediante una señal de aviso fija «Pite» colocada a 195 m antes del paso a nivel en cuestión (inmediatamente después del paso a nivel en el pk 15,390). La instrucción estaba destinada al maquinista del tren Os 13772. A la señal «Pite» le siguió la instrucción del transportista dada con la bocina de la locomotora «Atención» repetidamente. Esta instrucción de aviso estaba destinada a advertir a los usuarios de la vía pública, es decir, también al conductor del motociclo, de que se aproximaba un vehículo ferroviario al paso a nivel. Otras instrucciones, relacionadas con la aparición del MU, son instrucciones del gestor de la infraestructura a los usuarios de la vía pública, en forma de señales verticales de tráfico A 32a «Cruz de aviso para paso a nivel ferroviario de vía única» y P6 «Pare, ceda el paso en la circulación».
+### 3.2.2 Requisitos para el personal del gestor de la infraestructura y del transportista y su cumplimiento
+La aptitud médica y profesional de los empleados del gestor de la infraestructura de la empresa Connex Morava a. s., se rige por las disposiciones del decreto n.º 101/1995 Sb., por el que se dicta la Ordenanza sobre la aptitud médica y profesional de las personas para la explotación de la infraestructura y el transporte ferroviario, en su versión vigente (en adelante, decreto n.º 101/1995 Sb.). El maquinista realizó la última revisión médica periódica el 14. 10. 2004 con una vigencia de 2 años.
+Los requisitos de aptitud profesional de los empleados del gestor de la infraestructura de la empresa Connex Morava a. s., los establece la norma interna «OS-Ž 10.5 Formación y capacitación de los empleados de ŽD», en su versión
 
 ## Página 13
 
-modificada n.º 1» aprobado el 26. 4. 2006, con efecto desde el 1. 5. 2006. Para las personas que conduzcan vehículos ferroviarios de tracción, el documento interno establece la prueba profesional número «C 2».
-La última formación con examen se realizó el 20. 6. 2006.
-El maquinista es una persona con aptitud profesional, con un certificado de aptitud para la conducción de vehículos ferroviarios válido, n.º de registro 202022, emitido conforme al § 45 de la Ley n.º 266/1994 Coll., sobre vías férreas, en su versión vigente, por la Oficina Ferroviaria (en adelante, OF) el 28. 7. 2000 para las vías C, R, V para vehículos ferroviarios de tipo (MM, MH, ME, MK).
-### 3.2.3 Procedimiento de control interno de la seguridad y sus resultados
-Para garantizar la operatividad de la vía férrea y la seguridad del transporte ferroviario, en el anexo n.º 1 del Decreto n.º 177/1995 Coll., por el que se aprueba el Reglamento de construcción y técnica de las vías férreas (en adelante, Decreto n.º 177/1995 Coll.), se establece el intervalo de tiempo para las inspecciones y mediciones de las construcciones de la vía. Para el paso a nivel (ŽP), en las actas «Acta de la inspección integral del Ferrocarril Desná año 2006» se establece un intervalo de inspección de 12 meses.
-El gestor de la infraestructura tiene establecidas las inspecciones de conformidad con el anexo n.º 1 del Decreto n.º 177/1995 Coll.
-La última inspección periódica del paso a nivel se realizó el 6. 6. 2006 sin detectar defectos.
-### 3.2.4 Interfaces entre las distintas partes implicadas y las componentes de la ruta de circulación
-El propietario de la vía férrea regional Šumperk – Kouty nad Desnou y Petrov nad Desnou es la Asociación de Municipios del valle de Desná, con domicilio en Družstevní 125, Rapotín, código postal 788 14, número de identificación fiscal (IČO) 65497074.
-El gestor de la infraestructura es la empresa con razón social «SART – stavby a rekonstrukce a. s.» con domicilio en Uničovská čp. 2944/1 B, Šumperk, código postal 787 01, número de identificación fiscal (IČO) 258 98 671, en base a la Autorización Oficial emitida por la Oficina Ferroviaria de Praga, el 23. 3. 2005 bajo el n.º j. 3-588/05-DU/Le (n.º de registro ÚP/2005/8014) y al contrato «Contrato de mandato n.º 03/2005 sobre la explotación de la vía férrea, conforme a la Ley sobre vías férreas n.º 266/1994 Coll., en su versión vigente y en la versión de los reglamentos de ejecución» celebrado entre la Asociación de Municipios del valle de Desná, IČO 654 97074 y la empresa SART – stavby a rekonstrukce a. s., IČO 258 98 671, el 22. 2. 2005, con efecto desde el 1. 3. 2005.
-El gestor del transporte ferroviario es la empresa con razón social «Connex Morava a. s.» con domicilio en Vítkovická 3056/2, Ostrava – Moravská Ostrava, código postal 702 00, número de identificación fiscal (IČO) 258 27 405, en base a la Licencia de gestor del transporte ferroviario n.º j. 3 - 2407/02-DÚ/Bp, n.º de registro: L/2006/8016 concedida por la OF de Praga el 27 de agosto de 2001 a la persona jurídica – transportista con razón social «Connex Morava a. s.» y al contrato «Contrato de explotación del transporte ferroviario en la vía férrea regional Šumperk – Kouty nad Desnou, Petrov nad Desnou – Sobotín número: 002/05/ŽD» celebrado entre Connex Morava a. s., IČO 258 27 405 y la empresa SART – stavby a rekonstrukce a. s., IČO 258 98 671, el 28. 2. 2005, con efecto desde el 1. 3. 2005.
-El conductor de la motocicleta – como participante en la circulación por carretera. Su procedimiento al utilizar el paso a nivel se regula por la Ley n.º 361/2000 Coll., sobre la circulación en las vías terrestres, en la versión de las disposiciones posteriores.
-### 3.3 Regulación jurídica y otras
-### 3.3.1 Normas jurídicas comunitarias y nacionales aplicables
-Ley n.º 266/1994 Coll., sobre vías férreas, en la versión de las disposiciones posteriores;
+změny č. 1" aprobado el 26. 4. 2006, con entrada en vigor el 1. 5. 2006. Para las personas que conducen un vehículo ferroviario de tracción, el reglamento interno establece el examen profesional número "C 2".
+La última formación con reexamen se realizó el 20. 6. 2006.
+El maquinista es una persona profesionalmente competente, con certificado de competencia válido para la conducción de vehículos ferroviarios, n.º ev. 202022, expedido en virtud del § 45 de la Ley núm. 266/1994 Sb., de ferrocarriles, en su redacción vigente, por la Oficina Ferroviaria (en adelante DU) el 28. 7. 2000 para las líneas C, R, V para vehículos ferroviarios de los tipos (MM, MH, ME, MK).
+### 3.2.3 Procedimiento de control interno de seguridad y sus resultados
+Para garantizar la operatividad de la línea y la seguridad del transporte ferroviario, en el anexo núm. 1 del decreto núm. 177/1995 Sb., por el que se dicta el reglamento de construcción y técnico de ferrocarriles (en adelante decreto núm. 177/1995 Sb.), se establece el intervalo temporal de inspecciones y mediciones de las construcciones ferroviarias. Para el ŽP, en las actas "Acta de la inspección integral del ferrocarril Desná año 2006" se establece un intervalo de inspecciones de 12 meses.
+El operador de la línea tiene establecidas las inspecciones de conformidad con el anexo núm. 1 del decreto núm. 177/1995 Sb.
+La última inspección periódica del ŽP se realizó el 6. 6. 2006 sin defectos detectados.
+### 3.2.4 Interfaz entre los distintos sujetos participantes y los componentes de la vía de circulación
+El propietario del ferrocarril, línea regional Šumperk – Kouty nad Desnou y Petrov nad Desnou es la Asociación de municipios del valle de Desná, con sede en Družstevní 125, Rapotín, PSČ 788 14, IČO 65497074.
+El operador de la línea es la empresa con denominación social "SART – stavby a rekonstrukce a. s." con sede en Uničovská čp. 2944/1 B, Šumperk, PSČ 787 01, IČO 258 98 671, en virtud de la Autorización Administrativa expedida por la Oficina Ferroviaria de Praga, el 23. 3. 2005 bajo el n.º de expediente 3-588/05-DU/Le (n.º ev. ÚP/2005/8014) y del contrato "Contrato de mandato núm. 03/2005 sobre la explotación de la línea, en virtud de la Ley de ferrocarriles núm. 266/1994 Sb., en su redacción vigente y en la redacción de los reglamentos de aplicación" celebrado entre la Asociación de municipios del valle de Desná, IČO 654 97074 y la empresa SART – stavby a rekonstrukce a. s., IČO 258 98 671, con fecha 22. 2. 2005, con entrada en vigor el 1. 3. 2005.
+El operador del transporte ferroviario es la empresa con denominación social "Connex Morava a. s." con sede en Vítkovická 3056/2, Ostrava – Moravská Ostrava, PSČ 702 00, IČO 258 27 405, en virtud de la Licencia de operador de transporte ferroviario n.º de expediente 3 - 2407/02-DÚ/Bp, n.º ev.: L/2006/8016 concedida por la DU de Praga el 27 de agosto de 2001 a la persona jurídica – transportista con denominación social "Connex Morava a. s." y del contrato "Contrato sobre la explotación del transporte ferroviario en la línea regional Šumperk – Kouty nad Desnou, Petrov nad Desnou – Sobotín número: 002/05/ŽD" celebrado entre Connex Morava a. s., IČO 258 27 405 y la empresa SART – stavby a rekonstrukce a. s., IČO 258 98 671, con fecha 28. 2. 2005, con entrada en vigor el 1. 3. 2005.
+El conductor de motocicleta – como participante en el tráfico por carretera. Su procedimiento en el uso del ŽP lo regula la Ley núm. 361/2000 Sb., sobre la circulación en las vías de comunicación terrestre, en la redacción de las disposiciones posteriores.
+### 3.3 Regulación jurídica y de otro tipo
+### 3.3.1 Normativa jurídica comunitaria y nacional aplicable
+Ley núm. 266/1994 Sb., de ferrocarriles, en la redacción de las disposiciones posteriores;
 ●
-Decreto n.º 173/1995 Coll., por el que se aprueba el Reglamento de circulación de las vías férreas, en la versión de las disposiciones posteriores;
+decreto núm. 173/1995 Sb., por el que se dicta el reglamento de circulación de ferrocarriles, en la redacción de las disposiciones
 ●
-Decreto n.º 177/1995 Coll., por el que se aprueba el Reglamento de construcción y técnica de las vías férreas, en la versión de las disposiciones posteriores;
+posteriores;
+decreto núm. 177/1995 Sb., por el que se dicta el reglamento de construcción y técnico de ferrocarriles, en la redacción
 ●
-Decreto n.º 376/2006 Coll., sobre el sistema de seguridad de la explotación de la vía férrea y del transporte ferroviario
+de las disposiciones posteriores;
+decreto núm. 376/2006 Sb., sobre el sistema de seguridad de la explotación de la línea y del transporte ferroviario
 ●
 
 ## Página 14
 
-a los procedimientos para la aparición de incidentes en las vías;
-el Decreto n.º 101/1995 Coll., por el que se aprueba el Reglamento sobre la aptitud sanitaria y profesional de las personas que intervienen en la explotación de las vías férreas y del transporte ferroviario, en su redacción posterior;
+a los procedimientos en caso de situaciones excepcionales en las vías;
+decreto n.º 101/1995 Sb., por el que se aprueba el Reglamento sobre aptitud médica y profesional
 ●
-la Ley n.º 361/2000 Coll., sobre la circulación por las vías públicas, en su redacción posterior.
+de las personas para la explotación de la vía y del transporte ferroviario, en su redacción vigente;
+ley n.º 361/2000 Sb., sobre la circulación en las vías terrestres, en su redacción vigente.
+3.3.2 Otras normas, p. ej. reglamento de explotación, reglamento de trabajo, normas de mantenimiento, normas técnicas vigentes y otras normas internas
+Normas internas del explotador de la vía:
+norma interna "PDŽD Explotación de la vía regional Šumperk – Petrov nad Desnou -
 ●
-3.3.2 Otras normas, por ejemplo, el reglamento de explotación, el reglamento de trabajo, las normas de mantenimiento, las normas técnicas vigentes y otras disposiciones internas
-Disposiciones internas del titular de la infraestructura:
-disposición interna «PDŽD Explotación de la línea regional Šumperk – Petrov nad Desnou -
+Sobotín, incluido Petrov nad Desnou – Kouty nad Desnou, en adelante Železnice Desná", en vigor desde el 15. 4. 2005;
+"ESQUEMA DE VÍA DEL DISPOSITIVO DE SEÑALIZACIÓN EN LA VÍA FERROVIARIA DESNÁ",
 ●
-Sobotín, incluyendo Petrov nad Desnou – Kouty nad Desnou, en adelante, «Ferrocarril Desná»», con eficacia desde el 15. 4. 2005;
-«ESQUEMA DE LA LÍNEA DE LOS EQUIPOS DE SEGURIDAD EN EL FERROCARRIL DESNÁ», con
+en vigor desde el 19. 12. 2005;
+norma interna "ŽD S5 Norma sobre la organización y realización de inspecciones en la vía
 ●
-eficacia desde el 19. 12. 2005;
-disposición interna «ŽD S5 Disposición sobre la Organización y realización de inspecciones en el Ferrocarril Desná», con
+ferroviaria Desná", en vigor desde el 15. 4. 2005. El contenido de la norma incluye también la fijación del intervalo temporal de las inspecciones y mediciones de las obras de la vía;
+norma interna "ŽD D1 Norma sobre el uso de señales al organizar y explotar el transporte
 ●
-eficacia desde el 15. 4. 2005. La disposición establece también el intervalo de tiempo entre las inspecciones y las mediciones de las construcciones de la vía;
-disposición interna «ŽD D1 Disposición sobre el uso de las señales para la organización y la explotación del transporte ferroviario en el Ferrocarril Desná», con eficacia desde el 15. 6. 2005;
+ferroviario en la vía ferroviaria Desná", en vigor desde el 15. 6. 2005;
+norma interna "ŽD D2 Dirección del transporte ferroviario en el tramo Šumperk – Petrov nad
 ●
-disposición interna «ŽD D2  Control del transporte ferroviario en la Estación de Control de Šumperk – Petrov nad Desnou y en las intersecciones de vías», con eficacia desde el 1. 9. 2005;
+Desnou y en la intersección de vías", en vigor desde el 1. 9. 2005;
+norma interna "ŽD S4 Norma sobre explotación, servicio y mantenimiento del dispositivo de
 ●
-disposición interna «ŽD S4 Disposición sobre la Explotación, la operación y el mantenimiento de los equipos de telecomunicaciones, de los equipos de seguridad y de los equipos de PZS en el Ferrocarril Desná», con eficacia desde el 15. 6. 2005;
+comunicación, del dispositivo de señalización y del dispositivo PZS en la vía ferroviaria Desná", en vigor desde el 15. 6. 2005;
+norma interna "Norma OK 2/ŽD Aptitud profesional y conocimientos de las personas que
 ●
-disposición interna «Disposición OK 2/ŽD Aptitud profesional y conocimiento del personal que garantiza la explotación de la vía, método de verificación de los conocimientos y sistema de formación periódica en el Ferrocarril Desná», con eficacia desde el 15. 4. 2005;
+garantizan la explotación de la vía, método de verificación de conocimientos y sistema de formación periódica en la vía ferroviaria Desná", en vigor desde el 15. 4. 2005;
+norma interna ČD D2 "NORMA SOBRE LA ORGANIZACIÓN Y LA EXPLOTACIÓN DEL
 ●
-disposición interna ČD D2 «DISPOSICIÓN PARA LA ORGANIZACIÓN Y LA EXPLOTACIÓN DEL TRANSPORTE FERROVIARIO».
+TRANSPORTE FERROVIARIO".
+Normas internas del explotador del transporte ferroviario:
+norma interna "OS-Ž 10.5 Formación y adiestramiento de los empleados de ŽD, en su
 ●
-Disposiciones internas del titular del transporte ferroviario:
-disposición interna «OS-Ž 10.5 Formación y capacitación del personal de ŽD, en la redacción de la modificación
-●
-n.º 1» aprobada el 26. 4. 2006, con eficacia desde el 1. 5. 2006.
+redacción de la modificación n.º 1", aprobada el 26. 4. 2006, en vigor desde el 1. 5. 2006.
 Normas vigentes:
-ČSN 73 6380 Cruces ferroviarios y pasos a nivel.
+ČSN 73 6380 Pasos a nivel y pasos peatonales ferroviarios.
 ●
-### 3.4 Actividad de los vehículos ferroviarios y de los equipos técnicos
-### 3.4.1 Sistema de control, señalización y seguridad, incluidos los equipos de registro automático de datos
-La circulación de los trenes en el tramo Šumperk - Petrov nad Desnou está asegurada mediante un bloqueo semiautomático de tipo RPB 71. El aviso de salida prevista del tren se realiza mediante una comunicación independiente, por teléfono, sin grabación de las conversaciones.
+### 3.4 Funcionamiento de los vehículos ferroviarios y de los dispositivos técnicos
+### 3.4.1 Sistema de dirección, señalización y protección, incluidos los dispositivos de registro automático de datos
+La circulación de trenes en el tramo Šumperk - Petrov nad Desnou está protegida por un bloqueo semiautomático del tipo RPB 71. El aviso de salida prevista del tren se realiza mediante un aviso independiente, por teléfono sin registro de las llamadas.
 
 ## Página 15
+
 
 ### 3.4.2 Componentes de la vía
 El paso a nivel (ŽP) se encuentra en el pk 15,590 de la línea regional de vía única n.º 312 A Šumperk – Kouty nad Desnou, entre las estaciones de Šumperk y Petrov nad Desnou, en el municipio de Vikýřovice. El ángulo de cruce de la vía con la vía pública es de 90°.
@@ -365,23 +366,23 @@ La evaluación de los datos registrados en la cinta del tacógrafo no reveló ni
 
 ## Página 16
 
-### 3.5 Documentación o sistema de explotación
-### 3.5.1 Medidas adoptadas por el personal del administrador de la infraestructura y del transportista, en lo que respecta a la gestión, la señalización y la seguridad del tráfico
-El tren Os 13772 salió de la estación de Šumperk a las 15:50 h tras la autorización expedida por el encargado de la estación de Šumperk. El encargado de la estación de Šumperk, antes de autorizar la salida del tren en cuestión, comunicó mediante la línea telefónica de vía la salida prevista del tren Os 13772 al encargado de la estación de Petrov nad Desnou y, a continuación, realizó la operación del dispositivo de seguridad de la estación de conformidad con las prescripciones tecnológicas del administrador de la infraestructura.
-### 3.5.2 Intercambio de comunicaciones verbales en relación con el incidente, incluidas las pruebas procedentes del dispositivo de grabación
-Se considera que la primera comunicación demostrada en relación con el incidente fue la notificación de la colisión por parte del maquinista del tren Os 13772 al encargado de la estación de Petrov nad Desnou, realizada mediante el teléfono móvil de servicio del maquinista del tren Os 13772. Otra comunicación verbal fue la notificación de la aparición del incidente por parte del encargado de la estación de Petrov nad Desnou a la Sala de Control Integrada (IZS).
-En la estación de Petrov nad Desnou no está instalado un dispositivo de grabación para el archivo de las instrucciones dadas durante la organización y la explotación del transporte ferroviario. Por lo tanto, la notificación de la aparición del incidente por parte del maquinista del tren Os 13772 al encargado de la estación de Petrov nad Desnou, que se realizó mediante teléfono móvil, no fue grabada de ninguna manera.
-### 3.5.3 Medidas adoptadas para la protección y la seguridad del lugar del incidente
-Las medidas de protección y seguridad del lugar del incidente fueron aseguradas por el maquinista del tren Os 13772 hasta la llegada de la persona autorizada y técnicamente competente del administrador de la infraestructura y del transporte ferroviario. Tras la llegada de la persona autorizada y técnicamente competente del administrador del transporte ferroviario, a tenor del apartado 1 del artículo 9 del Decreto n.º 376/2006 Coll., y del representante del administrador de la infraestructura (aunque el administrador de la infraestructura no había designado, antes, durante y después de la aparición del incidente, a una persona técnicamente competente a tenor del apartado 1 del artículo 9 del Decreto n.º 376/2006 Coll.), las medidas de protección y seguridad del lugar del incidente fueron adoptadas por la persona autorizada del transportista en colaboración con los órganos competentes en el procedimiento penal.
+### 3.5 Documentación sobre el sistema de explotación
+### 3.5.1 Medidas adoptadas por los empleados del gestor de la vía y del transportista en materia de conducción, señalización y seguridad del tráfico
+El tren Os 13772 partió de la est. Šumperk a las 15:50 h tras la autorización de salida dada por el jefe de estación de Šumperk. El jefe de estación de Šumperk, antes de efectuar la autorización de salida del tren en cuestión, comunicó mediante el enlace telefónico de línea la salida prevista del tren Os 13772 al jefe de estación de Petrov nad Desnou y, a continuación, realizó la maniobra del aparato de enclavamiento de estación de conformidad con las instrucciones técnicas de explotación del gestor de la vía.
+### 3.5.2 Intercambio de comunicaciones verbales en relación con el suceso excepcional, incluidas las pruebas del dispositivo de registro
+La primera comunicación acreditada en relación con el SE puede considerarse la notificación de la colisión en la vía por parte del maquinista del tren Os 13772 al jefe de estación de Petrov nad Desnou, efectuada con el teléfono móvil profesional del maquinista del tren Os 13772. La siguiente comunicación verbal fue la notificación de la aparición del SE por parte del jefe de estación de Petrov nad Desnou al IZS.
+En la est. Petrov nad Desnou no está instalado ningún dispositivo de registro para archivar las instrucciones dadas durante la organización y explotación del transporte ferroviario. Por ello, ni siquiera la comunicación de la aparición del SE del maquinista del tren Os 13772 al jefe de estación de Petrov nad Desnou, que se realizó por teléfono móvil, fue registrada de ninguna manera.
+### 3.5.3 Medidas adoptadas para la protección y seguridad del lugar del suceso excepcional
+Las medidas de protección y seguridad del lugar del SE fueron garantizadas por el maquinista del tren Os 13772 hasta la llegada de la persona autorizada y competente del gestor de la vía y del transporte ferroviario. Tras la llegada de la persona autorizada y competente del gestor del transporte ferroviario en el sentido del § 9 apartado 1 del decreto n.º 376/2006 Sb. y del representante del gestor de la vía (aunque el gestor de la vía no designó, antes, durante ni después de la aparición del SE en el sentido del § 9 apartado 1 del decreto n.º 376/2006 Sb., a una persona competente), las medidas de protección y seguridad del lugar del SE fueron adoptadas por la persona autorizada del transportista en colaboración con las autoridades de persecución penal.
 ### 3.6 Condiciones laborales, sanitarias y de explotación
-### 3.6.1 Jornada laboral del personal del administrador de la infraestructura y del transportista que fueron parte en el incidente
-El maquinista del tren HDV 810.221-2 comenzó su turno el 9 de octubre de 2006 a las 7:30 h, de conformidad con el calendario de servicios por turnos, con la finalización prevista del turno a las 18:03 h. El descanso previo al turno fue conforme a lo dispuesto en el artículo 90 del Código del Trabajo.
-3.6.2 Estado de salud y situación personal que influyeron en el incidente, incluido el estrés físico o psicológico
-No se detectaron estado de salud ni situaciones personales que influyeran en el incidente, incluido el estrés físico o psicológico de las personas participantes en el incidente.
-Se realizó una prueba de aliento orientativa para detectar la ingesta de alcohol por parte del maquinista y del conductor de la motocicleta, llevada a cabo por la Policía de la República Checa (PČR) en el lugar del incidente, con resultado negativo.
-
+### 3.6.1 Jornada laboral de los empleados del gestor de la vía y del transportista que participaron en el suceso
+El maquinista de la locomotora de tracción 810.221-2 incorporó su turno el día 9 de octubre de 2006 de conformidad con el cuadrante de servicio por turnos a las 7:30 h, con la finalización prevista del turno a las 18:03 h. El descanso previo al turno fue conforme a lo dispuesto en el § 90 del Código del Trabajo.
+3.6.2 Estado de salud y situación personal que influyeron en el suceso excepcional, incluido el estrés físico o psicológico
+No se detectó ningún estado de salud ni situación personal que influyera en el SE, incluido el estrés físico o psicológico de las personas implicadas en el SE.
+La prueba de alcoholemia de orientación al maquinista y al conductor de la motocicleta fue realizada por la PČR en el lugar del SE, con resultado negativo.
 
 ## Página 17
+
 
 3.6.3 Disposición del equipo del puesto de control o del vehículo, que influye en su manejo y uso
 El tren Os 13772 fue conducido por una locomotora de la serie HDV 810.221-2. El maquinista lo conducía, observando la vía y las señales desde el lado derecho de la cabina n.º 1. El panel de control de la locomotora HDV 810.221-2 está dispuesto ergonómicamente de tal manera que no obstaculiza en absoluto la visibilidad del maquinista hacia el frente de la locomotora. En el lugar del incidente no se detectó nada que empeorara la visibilidad desde la cabina del maquinista.
@@ -396,6 +397,7 @@ La distancia de la «Cruz de San Andrés» al eje de la vía es de 7,10 metros e
 El paso a nivel fue construido en 1941. Dado que el administrador de la infraestructura, la empresa SART – stavby a rekonstrukce a. s., no presentó la documentación de proyecto verificada en el procedimiento de construcción antes de la entrada en vigor del
 
 ## Página 18
+
 
 el nº 177/1995 Coll., es decir, antes del 1. 12. 1995, y no se acredita una solución técnica verificada de la construcción y la seguridad del paso a nivel (ŽP), no pueden tenerse en cuenta, al evaluar la seguridad del ŽP en cuestión a tenor del artículo 4 del Decreto nº 177/1995 Coll., las disposiciones del artículo 88, apartado 1, del Decreto nº 177/1995 Coll.
 Dado que la velocidad de línea en el ŽP en el pk 15,590 es de 80 km/h y que el ŽP, a tenor del artículo 4 del Decreto nº 177/1995 Coll., está protegido únicamente con cruces de San Andrés, esta protección del ŽP entra en conflicto con el artículo 4, apartado 1, del Decreto nº 177/1995 Coll. («Un paso a nivel de vía con una velocidad de línea inferior o igual a 60 km/h... puede estar protegido únicamente con un cruce de San Andrés»).
@@ -416,8 +418,8 @@ La construcción del ŽP, en el momento de la aparición del incidente, cumplía
 El ŽP fue construido en 1941. Dado que el titular de la vía, la empresa SART – stavby a rekonstrukce a. s., no presentó documentación de proyecto verificada en el procedimiento administrativo de construcción antes de la entrada en vigor del Decreto nº 177/1995 Coll., es decir, antes del 1. 12. 1995, y no se acredita una solución técnica verificada de la construcción y la seguridad del ŽP, no pueden tenerse en cuenta, al evaluar la seguridad del ŽP en cuestión a tenor del artículo 4 del Decreto nº 177/1995 Coll., las disposiciones del artículo 88 del Decreto nº 177/1995 Coll.
 Dado que la velocidad de línea en el ŽP en el pk 15,590 es de 80 km/h y que el ŽP, a tenor del artículo 4 del Decreto
 
-
 ## Página 19
+
 
 nº 177/1995 Coll., está protegido únicamente con cruces de San Andrés, esta protección del ŽP entra en conflicto con el artículo 4, apartado 1, del Decreto nº 177/1995 Coll. («Un paso a nivel de vía con una velocidad de línea inferior o igual a 60 km/h... puede estar protegido únicamente con un cruce de San Andrés»).
 Sin embargo, este hecho no influyó en la aparición del incidente en cuestión.
@@ -440,6 +442,7 @@ el artículo 29, apartado 1, letra d), de la Ley nº 361/2000 Coll.: «cuando ya
 ●
 
 ## Página 20
+
 
 ### 4.3.2 Causas principales relacionadas con la cualificación, los procedimientos y el mantenimiento
 No se detectaron.
@@ -470,6 +473,7 @@ La Inspección Ferroviaria detectó otras deficiencias por parte del operador de
 
 ## Página 21
 
+
 *   no se realizó la evaluación de los resultados de la inspección del lugar del suceso extraordinario, de la documentación y los registros reunidos, de los resultados del control del estado técnico del material rodante, de las actas sobre el estado de la infraestructura ferroviaria y de las explicaciones de los empleados participantes sobre la aparición del suceso extraordinario.
     El hallazgo constituye una infracción de lo dispuesto en el apartado 3 del artículo 10 del Decreto n.º 376/2006 Coll.;
 *   no se compararon los hechos detectados de conformidad con el apartado 3 del artículo 10 del Decreto n.º 376/2006 Coll. con los hechos de referencia establecidos por las especificaciones técnicas de interoperabilidad, las prescripciones técnicas, las normas técnicas armonizadas o designadas y las prescripciones internas del operador de la vía o del transportista.
@@ -492,26 +496,20 @@ Otra deficiencia detectada durante la investigación de las causas y las circuns
 ## Página 22
 
 ## 5 MEDIDAS ADOPTADAS
-
-### 5.1 Relación de las medidas ya adoptadas o tomadas como consecuencia del suceso extraordinario
-
-No se adoptaron medidas por parte del operador de la vía y del transporte ferroviario en relación con el suceso extraordinario objeto del informe.
-
+### 5.1 Lista de medidas que, como consecuencia del suceso ferroviario, ya se han adoptado o tomado
+No se adoptó ninguna medida relativa al citado suceso ferroviario por parte del gestor de la infraestructura y del transporte ferroviario.
 ## 6 RECOMENDACIONES DE SEGURIDAD
-
-La Inspección Ferroviaria, basándose en los resultados de la investigación de las causas y las circunstancias de la aparición del SU, no formuló recomendaciones de seguridad.
-
-En Ostrava, el 29 de marzo de 2007
-
-Ing. Adrian Kufa, v. r.
-Ing. Petr Maikranz, v. r.
-inspector superior
-director
-
-Oficina Territorial de Ostrava
-de la Oficina Territorial de Ostrava
+La Inspección Ferroviaria, con base en los resultados de la investigación de las causas y circunstancias del suceso ferroviario, no emitió recomendaciones de seguridad.
+En Ostrava, a 29 de marzo de 2007
+Ing. Adrian Kufa v. r.
+Ing. Petr Maikranz v. r.
+Inspector jefe
+Director
+Inspección Territorial de Ostrava
+de la Inspección Territorial de Ostrava
 
 ## Página 23
+
 
 ## 7 ANEXOS
 

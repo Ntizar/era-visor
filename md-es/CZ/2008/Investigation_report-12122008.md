@@ -10,13 +10,14 @@ chars: 116699
 ratio_longitud: 1.28
 tokens_in: 49746
 tokens_out: 34844
-verificacion: revisar
-notas_cifras: ["bloque 1: original bilingüe: se compara contra el idioma principal (EN)", "bloque 2: original bilingüe: se compara contra el idioma principal (PT)", "bloque 3: original bilingüe: se compara contra el idioma principal (PT)", "bloque 9: cifras cortas: 1/46", "bloque 10: original bilingüe: se compara contra el idioma principal (CS)", "bloque 11: cifras cortas: 28/137"]
-avisos: ["bloque 10: ratio 1.71", "bloque 14: ratio 1.68"]
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 3: original bilingüe: se compara contra el idioma principal (EN)", "página 4: original bilingüe: se compara contra el idioma principal (EN)", "página 5: original bilingüe: se compara contra el idioma principal (PT)", "página 6: original bilingüe: se compara contra el idioma principal (PT)", "página 8: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 Inspección Ferroviaria
 República Checa
@@ -46,11 +47,12 @@ CIF: 75009561
 http://www.dicr.cz
 fax: (+420) 224 805 428
 
-
 ## Página 2
 
 
+
 ## Página 3
+
 
 # RESUMEN
 Grado:
@@ -86,8 +88,8 @@ Causa raíz:
 ninguna
 Recomendaciones: no emitidas
 
-
 ## Página 4
+
 
 # Índice
  Resumen .............................................................................................................................3
@@ -124,6 +126,7 @@ contractual ....................................................................
 
 ## Página 5
 
+
 3.1.2 Otras personas .........................................................................................................18
 3.2 Sistema de garantía de la seguridad ...............................................................................19
 3.2.1 Estructura organizativa general y forma en que se emiten y ejecutan las instrucciones .......21
@@ -155,6 +158,7 @@ contractual ....................................................................
 4.2.1 Evaluación de los hechos constatados en el punto 3 y exposición de las conclusiones sobre la causa
 
 ## Página 6
+
 
 sucesos extraordinarios y actividades de los servicios de rescate ..........................................31
 4.3 Conclusiones .......................................................................................................................33
@@ -189,11 +193,12 @@ de serie B 250 50 54 20-80 219-9 ...............................................
  Foto 7.9 Marcas de colisión con el vehículo de carretera en la unidad motriz del tren Pn 65401 de serie 130.032-
 6 ................................................................................................................................44
 
-
 ## Página 7
 
 
+
 ## Página 8
+
 
 ## 1 RESUMEN
 Grupo de suceso:
@@ -227,6 +232,7 @@ Recomendaciones de seguridad: no se emitieron
 
 ## Página 9
 
+
 ## 2 DATOS RELATIVOS AL INCIDENTE
 ## 2.1
 ### Incidente
@@ -239,8 +245,8 @@ A ambos lados de la vía, antes y después del paso a nivel, había un bosque cu
 El vehículo de carretera de color blanco fue arrojado aproximadamente 40 metros más allá del paso a nivel, en el sentido de circulación de los trenes Os 6409 y Pn 65401, y quedó volcado sobre su lado derecho. La parte delantera estaba orientada en diagonal respecto a la dirección de circulación de los trenes y yacía completamente destrozada a una distancia de 6 metros del primer vía de circulación. A una distancia de 20 metros más allá del paso a nivel, a la derecha en el sentido de circulación de los trenes Os 6409 y Pn 65401, en el pk 343,089, había una huella en la grava y en el suelo correspondiente a la reciente incrustación del vehículo de carretera en la tierra. Sus piezas y las piezas de la carga transportada en él quedaron dispersas a una distancia de entre 6 y 40 metros más allá del paso a nivel, en el sentido de circulación de los trenes mencionados. Según las manchas de sangre, el conductor, tras caer de los restos del vehículo de carretera, se encontraba a una distancia de 1 metro del primer vía de circulación y a 6 metros detrás del vehículo de carretera, en el sentido de circulación de los trenes. Durante la inspección del lugar del II, el DPN presentaba un funcionamiento correcto; la señal luminosa de «señal de aviso» estaba activa.
 El acta de inspección del lugar del II se adjunta al expediente.
 
-
 ## Página 10
+
 
 El conductor del vehículo de carretera, con graves lesiones, fue trasladado por el Servicio Aéreo de Rescate (en adelante, SAR) al Hospital Universitario Královské Vinohrady de Praga. La aparición del II fue notificada por el jefe de tren del tren Os 6409 al despachador de la estación ferroviaria de Lysá nad Labem, quien actuó conforme al plan de notificación. En el lugar intervinieron el Servicio Rápido de Asistencia Médica (en adelante, SRAM) de Mladá Boleslav, la Policía de la República Checa – Grupo de Accidentes de Tráfico (en adelante, PRC – GAT) de Mladá Boleslav y el Cuerpo de Bomberos y Rescate (en adelante, CBR) de SŽDC, organismo estatal, Unidad de la División de Operaciones (en adelante, UDO) de Nymburk.
 est. Stará Boleslav
@@ -263,6 +269,7 @@ La aparición del II fue comunicada a la Inspección Ferroviaria en la Oficina C
 El inspector jefe de la Inspección Territorial de Praga de la IF (en adelante, IT IF) fue encargado de la investigación y de la determinación de las causas y circunstancias de la aparición del II. Sobre la base de los hechos constatados, no fue necesario constituir un equipo de la IT IF. El método de actuación se determinó de manera operativa según el desarrollo de la investigación, incluyendo la utilización de consultas con otras personas técnicamente cualificadas de la IF. En la investigación, la IF se basó en sus propios conocimientos y constataciones, en su propia documentación fotográfica y, además, en la documentación solicitada, elaborada durante la investigación por el explotador de la vía y por los transportistas.
 
 ## Página 11
+
 
 ## 2.2
 ### Circunstancias del incidente
@@ -303,9 +310,10 @@ El incidente se produjo en una línea ferroviaria de ámbito nacional. La vía d
 en dirección recta a nivel del terreno circundante y presenta una pendiente descendente del 5,08 ‰. La velocidad máxima de la línea 
 en el tramo en cuestión es de 120 km/h. 
 La circulación de los trenes entre las estaciones de Stará Boleslav y Lysá nad Labem está asegurada mediante un 
-dispositivo de seguridad de línea automático de la 3.ª categoría (bloqueo automático de tres indicadores), que 
+dispositivo de seguridad de línea automático de la 3.ª categoría (bloqueo automático de tres indicadores), que
 
 ## Página 12
+
 
 mediante medios técnicos comprueba la libre ocupación de los tramos y registra el paso del tren por los puntos de control. El funcionamiento de las señales de sección es automático en función de la circulación del tren.
 El paso a nivel se encuentra en el pk 343,109 de la vía doble ferroviaria de ámbito nacional 
@@ -328,44 +336,29 @@ El tráfico ferroviario entre las estaciones de Stará Boleslav y Lysá nad Labe
 
 ## Página 13
 
-### 2.2.7 Activación del plan del sistema integrado de rescate, de la policía y de los servicios de rescate sanitario y seguimiento de los acontecimientos
-
-El plan del sistema integrado de rescate se activó simultáneamente a la notificación de la aparición de este accidente a los órganos de investigación, de conformidad con el Plan de Notificación. A la zona del accidente fueron llegando sucesivamente el Servicio de Rescate Sanitario Integrado (RZZS), el Servicio de Rescate Sanitario (LZS), el Cuerpo de Bomberos de la Empresa Estatal de Infraestructura Ferroviaria de la República Checa (HZS SŽDC), la organización estatal – Cuerpo de Bomberos Voluntarios de Nymburk (JPO Nymburk) y la Policía de la República Checa. El conductor del vehículo de carretera fue trasladado, con graves lesiones, por el Servicio de Rescate Sanitario (LZS) al Hospital Universitario Královské Vinohrady de Praga.
-
-La investigación del accidente la llevó a cabo la Policía de la República Checa, Dirección Distrital, Oficina de Policía de Mladá Boleslav, con el número de referencia: ORMB-2322/DN-2008-LN.
-
+### 2.2.7 Activación del plan del sistema integrado de emergencias, de la policía y del servicio de emergencias médicas y secuencia de acontecimientos
+El plan del sistema integrado de emergencias fue activado simultáneamente con la notificación de la producción de este MU a los órganos de investigación, de conformidad con el Calendario de notificaciones. Al lugar de producción del MU acudieron progresivamente el RZZS, el LZS, el HZS SŽDC, la organización estatal – JPO Nymburk y la Policía ČR. El conductor del vehículo de carretera fue trasladado con lesiones graves para la salud por el LZS al Hospital Universitario Královské Vinohrady de Praga.
+El MU fue investigado por la Policía ČR, Dirección Distrital, SDN Mladá Boleslav bajo el n.º de expediente: ORMB-2322/DN-2008-LN.
 ## 2.3
-### Muertes, lesiones y daños materiales
-
-2.3.1 En viajeros y terceros, empleados del gestor de la infraestructura y del transportista, incluidas las personas en relación contractual
-
-En el accidente no hubo ninguna víctima mortal.
-
+### Fallecimientos, lesiones y daños materiales
+2.3.1 En pasajeros y terceras personas, empleados del gestor de la vía y del transportista, incluidas personas en relación contractual
+En el MU no falleció nadie.
 ●
-El conductor del vehículo de carretera sufrió graves lesiones.
+El conductor del vehículo de carretera sufrió lesiones graves para la salud.
 ●
-### 2.3.2 En las mercancías transportadas, equipajes y demás bienes
-
-Se estimó un daño total de 100 000,- Kč en el vehículo de carretera Fiat Scudo.
-
-### 2.3.3 En los vehículos ferroviarios, en las partes de la vía y en el medio ambiente
-
-Se estimó un daño total de 200 000,- Kč en el vehículo ferroviario (DV) de la serie B 250 50 54 20-80 219-9, propiedad de ČD, a. s., tras la inspección técnica realizada en el Centro de Inspección Técnica de Praga (DKV Praha).
-
-Se estimó un daño total de 50 000,- Kč en el vehículo ferroviario (DV) de la serie Bt 283 50 54 21-19 499-2, propiedad de ČD, a. s., tras la inspección técnica realizada en el Centro de Inspección Técnica de Praga (DKV Praha).
-
-Se estimó un daño total de 25 000,- Kč en el vehículo ferroviario pesado (HDV) de la serie 130.032-6, propiedad de ČD Cargo, a. s., tras la inspección técnica realizada en el Centro de Inspección Técnica de Ostrava (SOKV Ostrava).
-
-Se estimó un daño total de 8 760,- Kč en el vehículo ferroviario (DV) de la serie Eas-u 82 54 596 2885-5, propiedad de ČD Cargo, a. s., tras la inspección técnica realizada en el Centro de Inspección Técnica de Ústí nad Labem (SOKV Ústí nad Labem).
-
-Se estimó un daño total de 6 320,- Kč en el vehículo ferroviario (DV) de la serie Eas-u 82 54 596 3986-0, propiedad de ČD Cargo, a. s., tras la inspección técnica realizada en el Centro de Inspección Técnica de Ústí nad Labem (SOKV Ústí nad Labem).
-
-No se produjeron daños en el patrimonio de la Empresa Estatal de Infraestructura Ferroviaria de la República Checa (SŽDC).
-
+### 2.3.2 En las mercancías transportadas, el equipaje y otros bienes
+En el vehículo de carretera Fiat Scudo se estimó un daño total de 100 000,- Kč.
+### 2.3.3 En los vehículos ferroviarios, los componentes de la vía de circulación y el medio ambiente
+Al vehículo ferroviario dañado de la serie B 250 50 54 20-80 219-9, propiedad de ČD, a. s., en la comprobación conjunta del estado técnico en el DKV Praga se le estimó un daño total de 200 000,- Kč.
+Al vehículo ferroviario dañado de la serie Bt 283 50 54 21-19 499-2, propiedad de ČD, a. s., en la comprobación conjunta del estado técnico en el DKV Praga se le estimó un daño total de 50 000,- Kč.
+A la locomotora dañada de la serie 130.032-6, propiedad de ČD Cargo, a. s., en la comprobación conjunta del estado técnico en el SOKV Ostrava se le estimó un daño total de 25 000,- Kč.
+Al vehículo ferroviario dañado de la serie Eas-u 82 54 596 2885-5, propiedad de ČD Cargo, a. s., en la comprobación conjunta del estado técnico en el SOKV Ústí nad Labem se le estimó un daño total de 8 760,- Kč.
+Al vehículo ferroviario dañado de la serie Eas-u 82 54 596 3986-0, propiedad de ČD Cargo, a. s., en la comprobación conjunta del estado técnico en el SOKV Ústí nad Labem se le estimó un daño total de 6 320,- Kč.
+En los bienes de SŽDC, organización estatal, no se produjo daño alguno.
 Daño total constatado: 390 080,- Kč.
 
-
 ## Página 14
+
 
 ## 2.4
 ### Circunstancias externas
@@ -394,8 +387,8 @@ no soy capaz de estimar la distancia a la que lo vi – el vehículo estaba, en 
 ●
 lo crucé, fuera de la sección de paso, por lo que no tenía el más mínimo motivo para tomar ninguna medida;
 
-
 ## Página 15
+
 
 crucé el paso a nivel con normalidad – estimo una velocidad de alrededor de 100 km/h, no oí ningún
 ●
@@ -446,6 +439,7 @@ en la parada de Lysá nad Labem-Dvorce bajé por el lado derecho en el sentido d
 del tren desde la primera puerta del primer vagón de pasajeros detrás de la locomotora y, como ya he indicado, fui en busca del maquinista;
 
 ## Página 16
+
 
 alrededor del tren no me acerqué;
 ●
@@ -511,79 +505,61 @@ el jefe de tren de este tren, que a simple vista estaba visiblemente alterado;
 nos comunicó que llamáramos a la PČR, ya que los vagones del tren presentaban daños;
 ●
 
-
 ## Página 17
 
+junto con mi colega, antes de que se informara a la Policía (PČR), fuimos preguntando gradualmente qué
 ●
-junto con mi compañero, antes de que se notificara a la PČR, fuimos preguntando progresivamente qué había
+había ocurrido realmente y dónde;
+el jefe de tren indicó en varias frases inconexas que, al revisar los billetes, sintió un golpe
 ●
-ocurrido exactamente y dónde;
+y vio, durante la marcha del tren, desde la ventana, volar una chapa en el paso a nivel entre Otradovice y la parada Lysá nad Labem-Dvorce;
+no fue capaz de indicar en qué paso a nivel se produjo este suceso;
 ●
-el jefe de tren indicó, en varias frases inconexas, que durante la revisión de billetes percibió un impacto
+además indicó que creía que se trataba de algún objeto que alguien había colocado sobre
 ●
-y vio volar una plancha de metal desde la ventana del tren en movimiento en el paso a nivel entre Otradovice y la parada
-Lysá nad Labem-Dvorce;
+las vías, pero se enteró de los pasajeros (en qué momento no lo sé) de que se trataba de un automóvil;
+el colega intentó inmediatamente detener el tren en marcha Pn 65401 y yo informé telefónicamente
 ●
-no fue capaz de indicar en qué paso a nivel ocurrió este incidente;
+a la RZS y a la PČR;
+posteriormente, junto con mi colega, realizamos la notificación de la MU (incidencia) surgida según el
 ●
-además, indicó que creía que se trataba de algún objeto que alguien había colocado sobre
+plan de notificaciones.
+El jefe de estación de la estación Stará Boleslav, en el Registro con el empleado, entre otras cosas, indicó que:
+tras el paso de los trenes Os 6409 y Pn 65401, el tiempo exacto no lo recuerdo, pero fueron unos 5 minutos
 ●
-las vías, pero que supo por los viajeros (no sé en qué momento) que se trataba de un automóvil;
+después de la llegada del tren Os 6409 a la estación Lysá nad Labem, me llamó el jefe de estación de la estación Lysá nad Labem y me ordenó introducir la PARADA GENERAL (GENERÁLNÍ STOP);
+yo introduje inmediatamente la PARADA GENERAL, el testigo se encendió, por lo que estaba
 ●
-mi compañero intentó de inmediato detener el tren Pn 65401 en movimiento, mientras yo por teléfono
+convencido de que se había introducido;
+a la pregunta del VI DI (Jefe de Circulación) de si había registrado la reacción de alguno de los
 ●
-notificaba al RZS y a la PČR;
+conductores tras la emisión de la PARADA GENERAL, respondo: no, no la registré.
+El conductor del tren Pn 65401, en el Registro con el empleado, entre otras cosas, indicó que:
+con la locomotora acoplé el tren de mercancías Pn 65401 en la estación Všetaty, hacia las 11:35
 ●
-posteriormente, junto con mi compañero, realizamos la notificación del incidente surgido según el
+horas salí con el tren en dirección a Lysá nad Labem;
+tras pasar la parada Otradovice la vía comienza a ascender y yo, con el regulador, aceleré a
 ●
-plan de notificación.
-El despachador de la estación de Stará Boleslav en el Acta con el empleado, entre otras cosas, indicó que:
+potencia, en estos tramos la vía discurre por un bosque y en ese momento nevaba intensamente y había niebla, la visibilidad era de unos 100 metros;
+cuando me aproximé con el tren circulando a unos 80 km/h al paso a nivel, vi detrás del
 ●
-tras el paso de los trenes Os 6409 y Pn 65401, no recuerdo la hora exacta, pero fue aproximadamente 5 minutos
+paso a nivel, a la derecha, a la distancia indicada anteriormente, algo grande y blanco junto a la vía transitada;
+cuando me aproximé al objeto a unos 50 metros, comprobé que se trataba
 ●
-después de la llegada del tren Os 6409 a la estación de Lysá nad Labem, el despachador de la estación de Lysá nad
-Labem me llamó y me ordenó emitir la PARADA GENERAL;
+de un automóvil volcado;
+al pasar junto a él se oyó una explosión;
 ●
-emití inmediatamente la PARADA GENERAL, se encendió la luz indicadora, por lo que estaba
+en cuanto se activó la señal (el transmisor funciona mal en el bosque), informé por
 ●
-convencido de que se había emitido;
+transmisor al jefe de estación de Lysá nad Labem de que había rozado algo con el tren y parecía un automóvil destrozado;
+el jefe de estación pregunté si estaba detenido o en marcha con el tren, respondí que estaba en marcha;
 ●
-ante la pregunta del IV DI, si había registrado la reacción de alguno de los maquinistas ante la emisión
+llegué con el tren hasta Lysá nad Labem, tras detenerme previamente ante la señal de entrada
 ●
-de la PARADA GENERAL, respondo: no, no lo registré.
-El maquinista del tren Pn 65401 en el Acta con el empleado, entre otras cosas, indicó que:
-●
-con la unidad motriz enganché el tren de mercancías Pn 65401 en la estación de Všetaty; aproximadamente a las 11:35
-●
-horas partí con el tren en dirección a Lysá nad Labem;
-●
-tras superar la parada de Otradovice, la vía comienza a ascender y subí la potencia con el controlador;
-●
-en este tramo la vía transcurre por un bosque y en ese momento nevaba densamente y había niebla,
-con una visibilidad de aproximadamente 100 metros;
-●
-cuando me acerqué con el tren a una velocidad de aproximadamente 80 km/h al paso a nivel, vi más allá
-●
-del paso a nivel, a la derecha y a la distancia antes mencionada, algo grande y blanco junto a la vía por la que circulaba;
-●
-cuando me acerqué al objeto a unos 50 metros, comprobé que se trataba de
-●
-un automóvil volcado;
-●
-al pasarlo junto a él se produjo un golpe;
-●
-tan pronto como se activó la señal (la radio no funcionaba bien en el bosque), notifiqué por radio
-●
-al despachador en Lysá nad Labem que había rozado algo con el tren y que parecía un coche siniestrado;
-●
-el despachador preguntó si el tren estaba parado o en movimiento; respondí que estaba en movimiento;
-●
-llegué con el tren a Lysá nad Labem; tras detenerme previamente ante la señal de entrada
-●
-(en la señal de entrada en ese momento aún había la indicación «Alto» durante aproximadamente 2 minutos)
-fui a inspeccionar la unidad motriz, donde comprobé que la unidad motriz presentaba daños en el lado derecho; en la señal de entrada se encendieron las indicaciones «40 km/h» y «Precaución»;
+(en la señal de entrada en ese momento aún faltaban unos 2 minutos para la señal «Alto» («Stůj»)), fui a revisar la locomotora, donde comprobé que la locomotora estaba dañada en el lado derecho, en la señal de entrada se encendió la señal «40 km/h» y «Aviso» («Výstraha»);
 
 ## Página 18
+
 
 al jefe de estación le comunicé por radio que tenía la locomotora dañada;
 ●
@@ -624,8 +600,8 @@ además, se constató que la ubicación de las señales para la operación por r
 ●
 Tablas de las condiciones de la línea (en adelante, TTP).
 
-
 ## Página 19
+
 
 El empleado de ČD Telematika, a. s., declaró el 12.12.2008 en el acta de verificación del sistema TRS en la estación de Lysá nad Labem lo siguiente:
 entre las 18:30 y las 19:00 horas se realizó la verificación de la radio TRS, incluida la función de
@@ -668,6 +644,7 @@ Cruce de la línea férrea
 
 ## Página 20
 
+
 cruce señalizado y protegido. La forma de señalización del cruce la establece el reglamento de ejecución.
 (2) La autoridad administrativa ferroviaria decide, tras el previo informe del órgano competente de la Policía de la República Checa, sobre el alcance y la forma de protección del cruce de la vía férrea con las comunicaciones terrestres a nivel de las vías y su modificación. La decisión sobre el alcance y la forma de protección del cruce no sustituye a las autorizaciones emitidas por las autoridades administrativas conforme a las disposiciones jurídicas especiales. Las formas técnicas de protección del cruce las establece el reglamento de ejecución.
 (3) En el cruce de la vía férrea con las comunicaciones terrestres a nivel de las vías, el tráfico ferroviario tiene prioridad frente al tráfico en las comunicaciones terrestres.
@@ -686,26 +663,33 @@ a) explotar la vía para las necesidades del tráfico ferroviario fluido y segur
 (3) El titular de la infraestructura está autorizado a:
 a) impartir a los transportistas, durante la organización del tráfico ferroviario, instrucciones para garantizar un tráfico ferroviario fluido y seguro.
 
-
 ## Página 21
 
-La impartición de instrucciones durante la dirección del tráfico, los cambios en las condiciones de circulación del tren, la información al conductor del vehículo ferroviario sobre las condiciones de la línea y la notificación de cambios en los parámetros constructivo-técnicos de las construcciones de la vía y de las construcciones en la vía están establecidas en el artículo 14, apartado (5), artículo 15, apartado (7), artículo 35, apartado (1), letra a), y artículo 68 del Decreto n.º 173:
-Artículo 14
-(5) Las instrucciones impartidas durante la dirección del tráfico deben ser breves y comprensibles, y no deben poner en peligro la seguridad del tráfico ferroviario. Al emitir instrucciones durante la dirección del tráfico a través de los equipos de comunicación, debe quedar claro quién emite la instrucción y quién la recibe. La instrucción no puede combinarse con otras comunicaciones.
-Artículo 15
-(7) Los cambios en las condiciones de circulación del tren, que no estén señalizados de manera inequívoca mediante las señales correspondientes o las señales manuales, los incidentes extraordinarios durante la explotación de la vía y del tráfico ferroviario que puedan influir en la seguridad y la regularidad de la circulación del tren, y las instrucciones relacionadas con ello, deben comunicarse a la tripulación del tren por escrito o a través de un dispositivo técnico con registro comprobable de la comunicación de ambas partes.
-Artículo 35
-Dirección del vehículo ferroviario
-(1) Para la dirección del vehículo ferroviario debe garantizarse que la persona que dirige el vehículo ferroviario:
-a) esté informada sobre las condiciones de la línea en las vías y en las estaciones de clasificación donde dirige el vehículo ferroviario.
-Artículo 68
-(1) El titular de la infraestructura notifica al transportista con antelación, al menos 21 días antes de la puesta en servicio, los cambios previstos en los parámetros constructivo-técnicos de las construcciones de la vía y de las construcciones en la vía, que tengan una influencia directa en la seguridad y la fluidez del tráfico ferroviario, especialmente si se trata de cambios en la capacidad de paso y transitable de los vehículos ferroviarios, cambios en la señalización, cambios en el equipo de protección, en el equipo de protección del tren, en el equipo de tracción eléctrica y cambios en el equipo de comunicación destinado a la transmisión de información desde el equipo de línea al vehículo ferroviario y viceversa.
-(2) La persona que dirige el vehículo ferroviario debe ser informada de manera comprobable sobre los cambios en los parámetros constructivo-técnicos de las construcciones de la vía y de las construcciones en la vía conforme al apartado 1, que tengan una influencia directa en la seguridad y la fluidez de la explotación del tráfico ferroviario, como mínimo antes de la primera circulación en el tramo de vía afectado.
-### 3.2.1 Organización marco y forma en que se imparten y ejecutan las instrucciones
-La forma de impartir instrucciones a la persona que dirige el vehículo ferroviario (DV) la regulan las normas de explotación de la vía y los procedimientos tecnológicos contenidos en las disposiciones internas del titular de la infraestructura. La circulación del tren Os 6409 hacia el paso a nivel fue dirigida mediante instrucciones del titular de la infraestructura. El despachador de la estación de Lysá nad Labem, en su explicación, indicó que no pudo contactar con el maquinista del tren Pn 65401 a través del TRS, por lo que ordenó una PARADA GENERAL en el grupo de canales n.º 66. Sin embargo, ningún tren en el ámbito de este grupo de canales respondió a su orden. Al investigar las causas y las circunstancias de la aparición del incidente extraordinario (MU), se determinó que el maquinista del tren Pn 65401 tenía el TRS sintonizado continuamente en el grupo de canales n.º 78, en lugar del grupo de canales n.º 66. La colocación de la señal «Cambie al grupo de canales n.º 66» en el pk 342,00 entre la estación de Stará Boleslav y la estación de Lysá nad Labem en el momento de la aparición del incidente extraordinario no correspondía a la realidad.
-Basándose en las instrucciones de la central de control de ČD, a. s., RCP Praga (dps 2008-10-001472), del 13 de octubre de 2008, el sistema de radio TRS Tesla ya estaba activado en la estación de Stará Boleslav, como
+La concesión de instrucciones durante la conducción del tráfico, los cambios en las condiciones para la circulación de trenes, la familiarización de la persona que conduce el vehículo ferroviario con las condiciones de la vía y la información sobre los cambios en los parámetros técnicos de construcción de las obras ferroviarias y de las obras en la vía están establecidos en el § 14 apartado (5), § 15 apartado (7), § 35 apartado (1) letra a) y § 68 del decreto n.º 173:
+
+§ 14
+(5) Las instrucciones concedidas durante la conducción del tráfico deben ser breves y comprensibles y no deben poner en peligro la seguridad del transporte ferroviario. A la hora de emitir instrucciones durante la conducción del tráfico a través del equipo de comunicación, debe quedar claro quién emite la instrucción y quién la recibe. La instrucción no puede combinarse con otros mensajes.
+
+§ 15
+(7) Los cambios en las condiciones para la circulación de trenes, cuando no estén señalizados de forma unívoca por los correspondientes señales o señales maneras de la manera establecida, los acontecimientos excepcionales durante la explotación de la vía y del transporte ferroviario que pudieran tener influencia en la seguridad y regularidad de la circulación del tren, y las instrucciones relacionadas con ello, deben notificarse a la escolta del tren por escrito o a través de un equipo técnico con un registro verificable de la comunicación de ambas partes.
+
+§ 35
+Conducción de vehículos ferroviarios
+(1) Para la conducción de un vehículo ferroviario debe garantizarse que la persona que conduce el vehículo ferroviario
+a) esté familiarizada con las condiciones de la vía en las líneas y en las estaciones donde conduce el vehículo ferroviario.
+
+§ 68
+(1) El explotador de la vía notifica al transportista, con una antelación de al menos 21 días antes de la puesta en servicio, los cambios previstos en los parámetros técnicos de construcción de las obras ferroviarias y de las obras en la vía que tienen una influencia directa en la seguridad y fluidez del transporte ferroviario, en particular cuando se trate de cambios en la estanqueidad espacial y la transmisibilidad de los vehículos ferroviarios, cambios en la señalización, cambios en el equipo de enclavamiento, en el equipo de seguridad automática de trenes, en el equipo de tracción eléctrica y cambios en el equipo de comunicación destinado a la transmisión de información desde el equipo de la vía al vehículo ferroviario y viceversa.
+
+(2) La persona que conduce el vehículo ferroviario debe recibir información verificable sobre los cambios en los parámetros técnicos de construcción de las obras ferroviarias y de las obras en la vía según el apartado 1, que tienen una influencia directa en la seguridad y fluidez de la explotación del transporte ferroviario, como máximo antes del primer trayecto en el tramo de vía afectado.
+
+### 3.2.1 Organización marco y forma en que se conceden y ejecutan las instrucciones
+La forma de conceder las instrucciones a la persona que conduce el V.F. está regulada por las normas de explotación de la vía y los procedimientos tecnológicos contenidos en las disposiciones internas del explotador de la vía. La circulación del tren Os 6409 hacia el paso a nivel ferroviario fue dirigida por instrucciones del explotador de la vía. El jefe de estación de la est. Lysá nad Labem, en su explicación, indicó que no pudo comunicarse con el maquinista del tren Pn 65401 a través del TRS y, por lo tanto, envió una PARADA GENERAL en el grupo de canal n.º 66. Sin embargo, ningún tren en el ámbito de ese grupo de canal respondió a su indicación. Al investigar las causas y circunstancias del origen del E.M. (evento ferroviario), se constató que el maquinista del tren Pn 65401 tenía el TRS sintonizado permanentemente en el grupo de canal n.º 78, en lugar del grupo de canal n.º 66. La ubicación de la señal «Cambie al grupo de canal n.º 66» en el km 342,00 entre la est. Stará Boleslav y la est. Lysá nad Labem en el momento del origen del E.M. no correspondía a la realidad.
+
+Sobre la base de las instrucciones del despacho del operador de control de ČD, a. s., RCP Praha (dps 2008-10-001472), del día 13. 10. 2008, ya en la est. Stará Boleslav se activó el sistema de radio TRS Tesla, como
 
 ## Página 22
+
 
 parte de la red de radio por banda de Stará Boleslav – Lysá nad Labem – Velký Osek – Kolín – Čáslav 
 en el grupo de canales nº 66, y dicha señal debía ser trasladada y activada desde el pk 342,00 hasta 
@@ -744,10 +728,10 @@ de los vehículos ferroviarios, de la calidad de los suministros de materiales y
 del transporte ferroviario con influencia en la seguridad de la explotación y por el control de las actividades de los subcontratistas,
 c) determinación de la responsabilidad por la gestión continua de la documentación sobre todas las partes importantes del sistema 
 de garantía de la seguridad de la explotación de la infraestructura o del transporte ferroviario,
-d) establecimiento de objetivos de seguridad y medidas para la mejora continua del sistema de garantía de 
-
+d) establecimiento de objetivos de seguridad y medidas para la mejora continua del sistema de garantía de
 
 ## Página 23
+
 
 seguridad de la explotación de la infraestructura o del transporte ferroviario.
 (2) Los requisitos para el sistema de garantía de la seguridad de la explotación de la infraestructura y de la explotación del transporte ferroviario 
@@ -794,6 +778,7 @@ ferroviario y los procedimientos en caso de incidentes en las vías férreas;
 
 ## Página 24
 
+
 Decreto n.º 100/1995 Coll., por el que se establecen las condiciones para la explotación, la construcción y la fabricación de determinados equipos técnicos y su concreción (Reglamento de equipos técnicos), en su versión vigente de disposiciones posteriores (en adelante, decreto n.º 100);
 Decreto n.º 101/1995 Coll., por el que se aprueba el reglamento relativo a la aptitud sanitaria y profesional de las personas durante la explotación de la vía férrea y del transporte ferroviario, en su versión vigente de disposiciones posteriores (en adelante, decreto n.º 101).
 3.3.2 Otras normas, por ejemplo, reglamento de explotación, reglamento de trabajo, normas de mantenimiento, normas técnicas vigentes y otras normas internas
@@ -818,8 +803,8 @@ norma interna ČD V2 «Reglamento para las tripulaciones de locomotoras» aproba
 ●
 norma interna ČD Ok 2 «Reglamento de formación y pruebas de Českých drah, a. s.» aprobada por decisión del 7 de diciembre de 2005, ref.: 61773/05-O10, en su versión vigente;
 
-
 ## Página 25
+
 
 norma interna SŽDC Zam1 «Reglamento sobre la aptitud profesional de los empleados de la Administración de la Infraestructura de Transporte Ferroviario, organismo estatal» aprobada por el director general de SŽDC el 30 de junio de 2008, ref.: 23138/08-OKS, con efecto desde el 1 de julio de 2008, en su versión vigente;
 ●
@@ -843,6 +828,7 @@ Mediante la prueba técnico-seguridad se determinó que los equipos de protecci�
 En el momento de la producción del incidente, la superficie de la calzada del cruce ferroviario estaba cubierta por una capa de nieve derretida. La pendiente de la calzada hacia la vía férrea es del 0 % en ambas direcciones.
 
 ## Página 26
+
 
 La identificación y el señalización del paso a nivel en el pk 343,109 están en conformidad con el § 3 y el § 4 del Decreto n.º 177. La distancia de la «Señal de cruz de paso a nivel para vías múltiples» desde el eje de la vía es de 4 metros en el sentido de circulación del DV y de 6,9 metros en el sentido contrario.
 
@@ -872,6 +858,7 @@ La unidad motriz principal (HDV) del tren Pn 65401, serie 130.032-6, propiedad d
 
 ## Página 27
 
+
 La HDV está equipada con un registrador de velocidad nº A09.227. A partir de la evaluación del viaje del tren Pn 65401 desde la última salida hasta la detención en el pk 337,150, según la banda registradora del velocímetro de capa de carbón tipo KAPS – COMM – Český Krumlov, con un rango de escala de velocidad de 150 km/h, se determinó lo siguiente:
 
 *   salida de la estación de Všetaty a las 11:33:00 horas, alcanzada una velocidad V = 80 km/h en un recorrido de 8 250 metros, circulación a velocidad V = 80 km/h en un recorrido adicional de 4 720 metros, reducción de la velocidad a un valor V = 67 km/h en un recorrido adicional de 2 420 metros, aumento de la velocidad a un valor V = 80 km/h en un recorrido adicional de 2 060 metros, circulación a velocidad 80 km/h en un recorrido adicional de 640 metros, reducción de la velocidad a un valor V = 78 km/h en un recorrido adicional de 1 010 metros, aumento de la velocidad a un valor V = 80 km/h en un recorrido adicional de 860 metros, circulación a velocidad V = 80 km/h en un recorrido adicional de 1 050 metros, detención antes de la señal de entrada 1S de la estación de Lysá nad Labem a las 11:53:30 horas en un recorrido adicional de 1 400 metros;
@@ -895,6 +882,7 @@ Con base en la notificación de la colisión por el jefe de tren del tren Os 640
 El empleado del transportista ČD Cargo, a. s., conductor de la HDV del tren Vn 53668, al circular por la segunda vía principal junto al lugar de la colisión inmediatamente después de su ocurrencia, tras observar el vehículo de carretera volcado junto a la primera vía principal, continuó sin interrupción su siguiente viaje, ya que, con base en los hechos constatados, consideró que no era necesario adoptar ninguna medida por su parte.
 
 ## Página 28
+
 
 El empleado de la empresa de transporte ČD Cargo, a. s., conductor del tren Pn 65401, al atravesar por la primera vía principal el lugar del accidente, tras ver el vehículo de carretera volcado junto a la primera vía principal y tras colisionar con él, continuó sin detenerse en su marcha. Comunicó este hecho al despachador de tráfico durante la marcha posterior, una vez que comprobó que tenía señal en la emisora. La investigación determinó que el maquinista de este tren había seleccionado en la radio el grupo de canales 78, debido a la posición kilométrica errónea de la señal con la indicación «Cambie al grupo de canales 66», de la cual no fue informado, y la ubicación correcta de dicha señal no estaba reflejada en la tabla de condiciones de la línea ferroviaria n.º 503 Lysá nad Labem – Ústí nad Labem západ.
 
@@ -940,8 +928,8 @@ Despachador de tráfico de la estación Lysá nad Labem:
 Maquinista del tren Pn 65401:
 «Bueno, yo he pasado aquí, sí, pero muy justo».
 
-
 ## Página 29
+
 
 Despachador de tráfico de la estación Lysá nad Labem:
 «Y por la segunda vía se puede pasar, ¿verdad? ¿Está al otro lado?
@@ -989,67 +977,50 @@ La ubicación incorrecta de la señal «Cambie al grupo de canales n.º 66» en 
 
 Tras la colisión del tren Pn 65401 con el vehículo de carretera en la sección de paso de la primera vía principal en el pk 343,089, el lugar del accidente fue asegurado por la Policía de la República Checa y debidamente protegido por el administrador de la infraestructura de conformidad con el Decreto n.º 376.
 
-
 ## Página 30
 
 ## 3.6
 ### Condiciones laborales, sanitarias y de explotación
-### 3.6.1 Tiempo de trabajo de los empleados del administrador de la infraestructura y de la empresa de transporte que fueron participantes en el incidente
-
-No se detectó incumplimiento del Código del Trabajo ni del régimen de turnos por parte de los empleados participantes.
-
-3.6.2 Estado de salud y situación personal que influyeron en el incidente, incluido el estrés físico o psicológico
-
-Todos los empleados participantes estaban médicamente aptos para el desempeño de sus funciones en el momento del accidente. La investigación no demostró que hubieran estado sometidos a estrés físico ni psicológico antes de la ocurrencia del accidente. Las anotaciones por escrito forman parte del expediente del accidente.
-
-3.6.3 Disposición del equipamiento del puesto de control o del vehículo, que influye en su manejo y uso
-
-No guarda relación con la causa del incidente.
-
+### 3.6.1 Jornada laboral de los empleados del gestor de la infraestructura y del transportista que participaron en el suceso
+No se detectó incumplimiento del Código del Trabajo ni del cuadro de turnos por parte de los empleados implicados.
+3.6.2 Estado de salud y situación personal que influyeron en el suceso extraordinario, incluido el estrés físico o psicológico
+Todos los empleados implicados estaban, en el momento de producirse el suceso extraordinario, aptos para el desempeño de la función que desempeñaban. La investigación no acreditó que hubieran estado sometidos a estrés físico ni psicológico antes de producirse el suceso extraordinario. Los registros escritos forman parte del expediente del suceso extraordinario.
+3.6.3 Disposición del equipamiento del puesto de mando o del vehículo que influye en su manejo y utilización
+No guarda relación con la causa del suceso extraordinario.
 ## 3.7
-### Incidentes anteriores de carácter similar
-
-El accidente ocurrido, la colisión de un tren con un vehículo de carretera en un paso a nivel, no se aparta de la mayoría de los accidentes similares registrados por la Dirección de Investigación en otros pasos a nivel. Sin embargo, las circunstancias que siguieron a la ocurrencia del accidente son diferentes en este caso.
-
+### Sucesos extraordinarios anteriores de carácter similar
+El suceso extraordinario producido, la colisión de un tren con un vehículo por carretera en un paso a nivel, no se aparta en nada de la mayoría de los sucesos extraordinarios análogos registrados por el DI en otros pasos a nivel. Sin embargo, en este caso, son distintas las circunstancias que siguieron a la producción del suceso extraordinario.
 ## 4 ANÁLISIS Y CONCLUSIONES
-
 ## 4.1
-### Descripción final del incidente
-
-### 4.1.1 Descripción final del incidente basada en los hechos establecidos en el punto 3
-
-El 12. 12. 2008 a las 11:35 horas, el tren Os 6409, que circulaba desde la estación Stará Boleslav hacia la estación Lysá nad Labem, colisionó en un paso a nivel, protegido por el sistema PZZ de categoría PZS 3SB, tipo SSSR con señales de aviso AŽD, con un vehículo de carretera. El conductor del vehículo de carretera no reaccionó a la señal de aviso del PZZ y, por el lado derecho en dirección de circulación del tren, impactó contra el lateral del primer vehículo remolcado del tren en tránsito. El vehículo de carretera fue desviado del paso a nivel hacia la derecha en la dirección de circulación del tren, de tal manera que ocupaba la sección de paso de la primera vía principal. El conductor del vehículo de carretera permaneció entre los restos del vehículo. El maquinista del tren Os 6409 no registró la colisión y continuó su marcha hasta la parada Lysá nad Labem-Dvorce, donde fue interrogado por el jefe de tren del mismo tren sobre si había visto algo en el paso a nivel. El maquinista no registró la colisión con el vehículo de carretera y el tren continuó su marcha.
+### Descripción definitiva del suceso extraordinario
+### 4.1.1 Descripción definitiva del suceso extraordinario basada en los hechos establecidos en el punto 3
+El 12. 12. 2008 a las 11:35 horas, el tren Os 6409, que circulaba desde la est. Stará Boleslav hasta la est. Lysá nad Labem, colisionó en el paso a nivel situado en el pk 343,109, protegido por PZZ de categoría PZS 3SB, tipo SSSR con señales AŽD, con un vehículo por carretera. El conductor del vehículo por carretera no respondió a la señal de aviso del PZZ y, por el lado derecho en el sentido de circulación del tren, impactó contra el costado del primer DV remolcado del tren en circulación. El vehículo por carretera fue desviado fuera del paso a nivel hacia la derecha en el sentido de circulación del tren, de manera que invadía el gálibo de la primera vía de tráfico. El conductor del vehículo por carretera permaneció en el vehículo destrozado. El maquinista del tren Os 6409 no advirtió la colisión y continuó la marcha hasta la parada Lysá nad Labem-Dvorce, donde fue preguntado por el jefe de tren del mismo tren si había visto algo en el paso a nivel. El maquinista no advirtió la colisión con el vehículo por carretera y el tren continuó su marcha
 
 ## Página 31
 
-de la estación de destino Lysá nad Labem.
-Aproximadamente 5 – 6 minutos después de la llegada del tren a la estación de Lysá nad Labem y tras constatar la aparición de una IU (incidencia extraordinaria), el jefe de tren del tren Os 6409 comunicó este hecho al despachador de la estación de Lysá nad Labem, quien, tras un intento fallido de establecer comunicación con el maquinista del tren posterior Pn 65401, procedente de la estación de Stará Boleslav con destino a la estación de Lysá nad Labem, ordenó una PARADA GENERAL en el grupo de canales n.º 66. El tren Pn 65401 no respondió a esta orden. Su radio de tren (TRS) tenía seleccionado el grupo de canales n.º 78, debido a una colocación incorrecta de la indicación «Cambiar al grupo de canales n.º 66», y el maquinista no fue informado de este hecho por el explotador de la infraestructura.
-A las 11:50 horas, cerca del paso a nivel mencionado, en el pk 343,089, el tren Pn 65401 chocó contra el obstáculo creado: un vehículo de carretera que se adentraba desde el lado derecho en dirección de circulación del tren hacia la sección libre de la primera vía de circulación. El vehículo de carretera fue desviado por la parte delantera del vehículo de tracción (HDV) hacia la derecha, en dirección de circulación del tren, fuera de la primera vía de circulación. El maquinista del tren Pn 65401, tras la colisión, no detuvo el tren y continuó su viaje hacia la estación de Lysá nad Labem. Tras el impacto del HDV contra el vehículo de carretera siniestrado, su conductor salió despedido y permaneció tendido a unos 1 m de la primera vía de circulación y a 6 m detrás del vehículo siniestrado.
-No se superó la velocidad máxima permitida para el tren Os 6409 de 110 km/h ni la velocidad máxima permitida para el tren Pn 65401 de 80 km/h en el momento de la aparición de la IU.
-En la IU no hubo fallecidos; el conductor del vehículo de carretera sufrió lesiones graves.
-El daño total constatado asciende a 390 080,- Kč.
+hasta la estación de destino Lysá nad Labem.
+Aproximadamente 5 – 6 minutos después de la llegada del tren a la estación de Lysá nad Labem y tras constatar la aparición de la UE, el jefe de tren del tren Os 6409 comunicó este hecho al jefe de estación de Lysá nad Labem, quien, tras el intento fallido de establecer contacto con el maquinista del tren posterior Pn 65401, que circulaba desde la estación de Stará Boleslav hasta la estación de Lysá nad Labem, emitió una PARADA GENERAL en el grupo de canales n.º 66. El tren Pn 65401 no reaccionó a esto. Su TRS tenía seleccionado el grupo de canales n.º 78, debido a la ubicación incorrecta de la señal «Cambie al grupo de canales n.º 66», y el maquinista no fue informado de este hecho por el gestor de la vía.
+A las 11:50 horas, en las proximidades del citado paso a nivel ferroviario, en el km 343,089, el tren Pn 65401 chocó con el obstáculo creado – un vehículo terrestre que invadía desde el lado derecho en el sentido de marcha del tren la sección de paso de la primera vía de la línea. El vehículo terrestre fue desplazado por la locomotora hacia la derecha en el sentido de marcha del tren, fuera de la primera vía de la línea. El maquinista del tren Pn 65401 no detuvo el tren tras la colisión y continuó la marcha hasta la estación de Lysá nad Labem. Tras el impacto de la locomotora contra el vehículo terrestre destrozado, su conductor salió despedido y quedó tendido a unos 1 m de la primera vía de la línea y a 6 m detrás del vehículo destrozado.
+La velocidad máxima permitida del tren Os 6409 de 110 km/h y la velocidad máxima permitida del tren Pn 65401 de 80 km/h no fueron superadas en el momento de la aparición de la UE.
+Con motivo de la UE no hubo ninguna persona fallecida, se produjo una lesión grave en la salud del conductor del vehículo terrestre.
+El daño total constatado asciende a 390 080,- CZK.
 ## 4.2
 ### Análisis
-### 4.2.1 Evaluación de los hechos constatados conforme al punto 3 y exposición de las conclusiones sobre la causa de la incidencia extraordinaria y la actuación de los servicios de rescate
-El paso a nivel de doble vía en el pk 343,109, de la red ferroviaria nacional Lysá nad Labem – Ústí nad Labem oeste, está señalizado y protegido de conformidad con los artículos 3 y 4 del Decreto n.º 177 y, en el sentido del artículo 17 del Decreto n.º 177, por su ejecución cumple con la explotación ferroviaria segura y garantiza la seguridad de los participantes en el tráfico en la vía pública.
-El vehículo de carretera de marca Fiat Scudo entró en el paso a nivel en el pk 343,109 en dirección procedente de la Estación de Tratamiento de Agua Káraný en un momento en el que el tren ya había cruzado el paso a nivel y las barreras automáticas con semáforos (PZZ) no permitían la circulación a los participantes del tráfico rodado.
-Mediante la revisión de la documentación del paso a nivel:
-Certificado de aptitud del dispositivo técnico designado, reg. n.º PZ 4782/97-E.45,
-●
-emitido conforme al artículo 47 de la Ley,
-Registro de averías en el equipo de comunicación y protección,
-●
-Acta de inspección del PZZ tras la IU,
-●
-Acta de la verificación comisionada del PZZ tras la IU del 12.12.2008,
-●
-registros de las inspecciones técnicas periódicas realizadas,
-●
-se constató que el paso a nivel en el pk 343,109 estaba en servicio en el momento de la llegada del vehículo de carretera y en el momento de la aparición de la IU, y presentaba un estado sin averías. La documentación mencionada forma parte del expediente de la IU.
-Del análisis realizado de las grabaciones de velocímetro de las circulaciones de los trenes Os 6409 y Pn 65401, de los datos de los ordenadores tecnológicos TPC1 SZZ Stará Boleslav y TPC3 SZZ Lysá nad Labem
-
+### 4.2.1 Evaluación de los hechos constatados de acuerdo con el punto 3 y formulación de conclusiones sobre la causa del suceso excepcional y la actuación de los servicios de emergencia
+El paso a nivel ferroviario de dos vías en el km 343,109, de la vía férrea de ámbito nacional Lysá nad Labem – Ústí nad Labem západ, está señalizado y protegido de conformidad con los apartados § 3 y § 4 del decreto n.º 177 y, en el sentido del apartado § 17 del decreto n.º 177, su diseño cumple con la explotación segura del transporte ferroviario y garantiza la seguridad de los usuarios de la vía pública.
+El vehículo terrestre de marca Fiat Scudo entró en el paso a nivel ferroviario del km 343,109 en dirección desde la Planta de Tratamiento de Aguas de Káraný en el momento en que ya un tren lo estaba cruzando y en el que la señalización de paso a nivel no permitía la circulación a los usuarios del tráfico por carretera.
+De la comprobación de la documentación del paso a nivel ferroviario:
+● Certificado de aptitud del dispositivo técnico designado, n.º de registro PZ 4782/97-E.45,
+emitido en el sentido del apartado § 47 de la ley,
+● Registro de averías de los aparatos de señalización y protección,
+● Acta de inspección de la señalización de paso a nivel tras la UE,
+● Acta de ensayo en comisión de la señalización de paso a nivel tras la UE de fecha 12. 12. 2008,
+● registros de las inspecciones técnicas periódicas realizadas,
+se constató que el paso a nivel ferroviario del km 343,109 se encontraba en servicio en el momento de la llegada del vehículo terrestre y en el momento de la aparición de la UE, y presentaba un estado sin averías. La citada documentación forma parte del expediente de la UE.
+Del análisis realizado de los registros de velocímetro de las circulaciones de los trenes Os 6409 y Pn 65401, de los datos de los ordenadores tecnológicos TPC1 SZZ Stará Boleslav y TPC3 SZZ Lysá nad Labem
 
 ## Página 32
+
 
 y de los hechos indicados en las «Actas con los empleados», se desprende la secuencia temporal de la incidencia extraordinaria:
 ● a las 11:34:57 horas, el tren Os 6409 circulaba por el paso a nivel en el pk 343,109 a una velocidad V = 108 km/h, produciéndose la colisión con el vehículo de carretera;
@@ -1067,6 +1038,7 @@ En el presente caso, la aparición de la IU se notificó con un retraso temporal
 De manera similar, el Decreto n.º 173, en su artículo 74, apartado (1), establece la obligación de elaborar, en caso de accidente e incidencia extraordinaria, medidas de rescate para la salvaguardia de la salud y la vida de las personas afectadas, la garantía de la asistencia médica necesaria, incluida la prevención de la aparición de otros daños. Aunque las medidas y los procedimientos tecnológicos requeridos habían sido elaborados en este sentido, no se garantizó su cumplimiento, ya que no se evitó la colisión del tren Pn 65401 con el obstáculo, ni siquiera mediante el uso de la función PARADA GENERAL, que, según el despachador, se había ordenado, pero a la cual ningún tren en movimiento en el momento de la orden dentro del ámbito del grupo de canales n.º 66 respondió, y tampoco se registró en el dispositivo de grabación REDAT. Este dispositivo fue verificado durante la investigación tras la aparición de la IU junto con la TRS, y las grabaciones que realizó no corresponden a la instrucción rutinaria para las señales codificadas STOP – TRS (el acta forma parte del expediente).
 
 ## Página 33
+
 
 Asimismo, otras circunstancias de este accidente de tráfico (MU) son contrarias a las obligaciones derivadas de las disposiciones de la normativa jurídica, y en particular:
 
@@ -1088,8 +1060,8 @@ Los componentes del sistema integrado de rescate llegaron al lugar del accidente
 
 ### La causa inmediata del accidente de tráfico fue el incumplimiento de la prioridad del tráfico ferroviario frente al tráfico en la vía pública en el paso a nivel ferroviario, cuando, tras el cierre del paso a nivel para los usuarios de la vía pública, un vehículo por carretera entró en el paso a nivel, chocó
 
-
 ## Página 34
+
 
 contra el tren Os 6409 en movimiento y, tras el choque, creó un obstáculo dentro del perímetro de la vía, en el
 ### cual impactó el tren posterior Pn 65401.
@@ -1116,6 +1088,7 @@ se infringió el § 7 apartado (2) del Decreto n.º 376:
 (2) Si se produce un incidente extraordinario durante la explotación de la vía o la explotación del tráfico ferroviario,
 
 ## Página 35
+
 
 el administrador de la infraestructura y el transportista garantizan que cada empleado o persona en relación contractual con el administrador de la infraestructura o el transportista, cuya actividad laboral contribuya a la explotación de la infraestructura o a la explotación del transporte ferroviario, notifique de inmediato en el puesto de notificación designado su aparición, si dicha circunstancia la detectan por sí mismos o si se enteran de ella de manera fidedigna.
 ### b) la imposibilidad de detener el tren posterior Pn 65401 que circula detrás del tren Os 6409 
@@ -1155,9 +1128,10 @@ mediante un dispositivo técnico con un registro comprobable de la comunicación
 § 68 apartado (3) del Decreto n.º 173:
 (3) La persona que dirige el vehículo ferroviario debe ser informada de manera comprobable antes de la salida sobre los cambios 
 inmediatos en los parámetros constructivo-técnicos de las construcciones de la infraestructura y de las construcciones en la infraestructura, que tengan 
-una influencia directa en la seguridad y la fluidez del transporte ferroviario, si a la persona que dirige el vehículo ferroviario 
+una influencia directa en la seguridad y la fluidez del transporte ferroviario, si a la persona que dirige el vehículo ferroviario
 
 ## Página 36
+
 
 el transporte es conocido, incluidas las medidas necesarias.
 c) la no garantía de la obligación de las personas que dirigen los vehículos ferroviarios de actuar en el momento posterior a la 
@@ -1199,6 +1173,7 @@ preaviso de entrada a la estación de Stará Boleslav (el texto completo del tel
 
 ## Página 37
 
+
 udílené při řízení dopravy musí ser breves y comprensibles y no deben poner en peligro la seguridad del transporte ferroviario“.
 ## 5 MEDIDAS ADOPTADAS
 ## 5.1
@@ -1219,8 +1194,8 @@ el jefe de tren del servicio de viajeros del tren Os 6409, tras producirse el IU
 ●
 tras producirse el IU, el director del Departamento de Vehículos sobre Rieles emitió el 16 de diciembre de 2008 la circular n.º 2008-12-002157, en la que ordena que, en todos los casos en que el maquinista tenga constancia de que podría haberse producido un choque con vehículos de carretera, este debe detenerse inmediatamente y realizar una inspección del tren; antes de la inspección, el maquinista comunicará al despachador el motivo de la detención y, posteriormente, el resultado de la inspección;
 
-
 ## Página 38
+
 
 El gestor del transporte ferroviario ČD Cargo, a. s., adoptó como consecuencia del IU las siguientes medidas:
 el maquinista del tren de mercancías HDV Pn 65401 recibió la «Amonestación del empleador por incumplimiento de la disciplina», y se le ordenó realizar una «prueba extraordinaria por motivos de incumplimiento de las disposiciones reglamentarias»;
@@ -1236,43 +1211,38 @@ inspector jefe
 De la Inspección Territorial de Praga
 De la Inspección Territorial de Praga
 
-
 ## Página 39
+
 
 
 ## Página 40
 
 ## 7 ANEXOS
-Foto 7.1 Paso a nivel en el pk 343,109 desde la dirección de circulación de los trenes
+Foto 7.1 Paso a nivel en el pk 343,109 desde la dirección de circulación de los trenes 
 Os 6409 y Pn 65401
-Foto 7.2 Vista general del lugar del IU desde el paso a nivel
+Foto 7.2 Vista general del lugar del accidente ferroviario desde el paso a nivel 
 en el pk 343,109 desde la dirección de circulación de los trenes Os 6409 y Pn 65401
-
 
 ## Página 41
 
-Foto 7.3 Restos del vehículo de carretera tras la colisión con el tren Pn 65401
-Foto 7.4 Paso a nivel y restos del vehículo de carretera desde la dirección contraria
-a la de circulación de los trenes Os 6409 y Pn 65401
-
+Foto 7.3 Restos del vehículo rodante tras la colisión con el tren Pn 65401
+Foto 7.4 El paso a nivel y los restos del vehículo rodante en el sentido contrario a la marcha de los trenes Os 6409 y Pn 65401
 
 ## Página 42
 
-Foto 7.5 Rejilla de la parte delantera del vehículo de carretera colgada en el
-primer vagón remolcado de la composición del tren de viajeros Os 6409, serie B 250 50 54 20-80 219-9
-Foto 7.6 Marcas de la colisión con el vehículo de carretera en el primer
-vagón remolcado de la composición del tren de viajeros Os 6409, serie B 250 50 54 20-80 219-9
-
+Foto 7.5 Rejilla de la parte frontal del vehículo rodante colgada en el primer coche remolcado del tren DV Os 6409 de la serie B 250 50 54 20-80 219-9
+Foto 7.6 Huellas de la colisión con el vehículo rodante en el primer coche remolcado del tren DV Os 6409 de la serie B 250 50 54 20-80 219-9
 
 ## Página 43
+
 
 Foto 7.7 Marcas de la colisión con el vehículo de carretera en el segundo
 vagón remolcado de la composición del tren de viajeros Os 6409, serie Bdt 279 50 54 21-08 014-2
 Foto 7.8 Marcas de la colisión con el vehículo de carretera en el segundo
 vagón remolcado de la composición del tren de viajeros Os 6409, serie Bt 283 50 54 21-19 499-2
 
-
 ## Página 44
+
 
 Foto 7.9 Marcas de la colisión con el vehículo de carretera en la locomotora del tren de mercancías Pn
 65401, serie 130.032-6

@@ -10,13 +10,14 @@ chars: 92129
 ratio_longitud: 1.24
 tokens_in: 49683
 tokens_out: 34229
-verificacion: revisar
-notas_cifras: ["bloque 1: original bilingüe: se compara contra el idioma principal (EN)", "bloque 2: original bilingüe: se compara contra el idioma principal (CS)", "bloque 4: original bilingüe: se compara contra el idioma principal (CS); cifras cortas: 1/85", "bloque 7: original bilingüe: se compara contra el idioma principal (CS)"]
-avisos: ["bloque 7: ratio 1.72"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 3: original bilingüe: se compara contra el idioma principal (CS)", "página 6: original bilingüe: se compara contra el idioma principal (CS)", "página 7: original bilingüe: se compara contra el idioma principal (CS)", "página 9: original bilingüe: se compara contra el idioma principal (CS)", "página 10: original bilingüe: se compara contra el idioma principal (CS)", "página 12: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -43,13 +44,13 @@ IČ: 75009561
 mail@dicr.cz
 tel.: +420 736 521 003
 
-
 ## Página 2
+
 
 Este informe final es público y todos los hechos en él expuestos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ### 1 RESUMEN
 Fuente: Drážní inspekce
@@ -80,14 +81,14 @@ que no respetó la alerta luminosa y acústica del dispositivo de enclavamiento 
 paso a nivel y no se cercioró de si podía cruzar el paso a nivel con seguridad.
 No fue detectado ningún factor contribuyente por parte de Drážní inspekce.
 
-
 ## Página 4
+
 
 No fue detectada ninguna causa sistémica por parte de Drážní inspekce.
 No fue emitida ninguna recomendación de seguridad por parte de Drážní inspekce.
 
-
 ## Página 5
+
 
 ### SUMMARY
 5th May 2021, 16:27 (15:27 GMT).
@@ -124,8 +125,8 @@ none.
 Recommendation:
 not issued.
 
-
 ## Página 6
+
 
 # Índice
 1 RESUMEN........................................................................................................................3
@@ -167,8 +168,8 @@ SUMMARY.........................................................................
 4.2 Vehículos ferroviarios e instalaciones técnicas...........................................................................32
 4.2.1 Factores o consecuencias derivados del diseño de los vehículos ferroviarios, de la infraestructura ferroviaria o de las instalaciones técnicas.....................................................................32
 
-
 ## Página 7
+
 
 4.2.2 Factores o consecuencias derivados de la instalación y puesta en servicio de los vehículos ferroviarios, de la infraestructura ferroviaria o de las instalaciones técnicas......................................32
 4.2.3 Factores o consecuencias relacionados con los fabricantes de vehículos ferroviarios u otros proveedores de productos ferroviarios............................................................................32
@@ -198,6 +199,7 @@ SUMMARY.........................................................................
 6 RECOMENDACIONES DE SEGURIDAD.....................................................................................37
 
 ## Página 8
+
 
 ### Lista de siglas y símbolos utilizados
 COP
@@ -264,8 +266,8 @@ Paso a nivel ferroviario
 žst.
 Estación de ferrocarril
 
-
 ## Página 9
+
 
 ### Lista de siglas de la legislación, normas y reglamentos internos utilizados
 ley núm. 266/1994 Sb.
@@ -292,51 +294,55 @@ reglamento interno del explotador del ferrocarril SŽ, «Reglamento de estación
 de la estación de ferrocarril Písek», en la redacción vigente en el momento
 de la ocurrencia del incidente excepcional
 
-
 ## Página 10
 
 ### 2 INVESTIGACIÓN Y SUS RELACIONES
 ### 2.1 Decisión de iniciar la investigación
-La DI decidió iniciar la investigación del incidente excepcional en cuestión el 5. 5. 2021.
+El DI decidió iniciar la investigación de la MU en cuestión el 5 de 5 de 2021.
 ### 2.2 Fundamentación de la decisión de iniciar la investigación
-La DI decidió investigar el incidente excepcional en cuestión sobre la base de su gravedad, recurrencia, impactos
-del incidente excepcional en el explotador del ferrocarril y el transportista y la obligación derivada
+El DI decidió investigar la MU en cuestión en base a su gravedad, repetitividad, impactos
+del suceso excepcional sobre el gestor de la vía y el transportista, y la obligación derivada
 de la disposición § 53b de la ley núm. 266/1994 Sb.
 ### 2.3 Alcance y limitaciones de la investigación, incluida la fundamentación correspondiente
-La DI no se encontró, en el marco de la investigación del incidente excepcional en cuestión, con limitaciones que
-influyeran negativamente en el modo y los procedimientos de la investigación.
-### 2.4 Descripción resumida de las capacidades y funciones técnicas del equipo de investigación
-Investigación de la DI en el lugar del incidente excepcional:
-1x inspector de la ÚI Čechy, sede de Plzeň. 
-Formación del equipo de investigación:
-no fue necesario formarlo.
+El DI no se encontró, en el marco de la investigación de la MU en cuestión, con limitaciones
+que influyeran negativamente en el modo y los procedimientos de la investigación.
+### 2.4 Descripción resumida de las capacidades técnicas y funciones del equipo de investigación
+Investigación del DI en el lugar de la MU:
+1x inspector de la ÚI Čechy, centro de trabajo de Plzeň.
+Constitución del equipo de investigación:
+no fue necesario constituirlo.
 Colaboración externa:
 no se utilizó.
 2.5 Comunicación y consultas durante la investigación con personas o entidades
 que participaron en el suceso en cuestión
-Al investigar las causas y circunstancias de la ocurrencia del incidente excepcional, la DI se basó principalmente en sus propios conocimientos,
-hallazgos y en su propia documentación fotográfica. Durante la investigación, la DI solicitó la documentación
-obtenida durante la investigación al explotador del ferrocarril, al transportista y a la PČR. 
-La investigación de las causas y circunstancias de la ocurrencia del incidente excepcional se realizó de acuerdo con la ley núm. 266/1994 Sb.
-y el decreto núm. 376/2006 Sb. 
+En la investigación de las causas y circunstancias de la aparición de la MU, el DI se basó
+principalmente en sus propios conocimientos, hallazgos y en su propia documentación
+fotográfica. Durante la investigación, el DI solicitó posteriormente la documentación
+elaborada en el marco de la investigación por parte del gestor de la vía, el transportista y la PČR.
+La investigación de las causas y circunstancias de la aparición de la MU se realizó de
+conformidad con la ley núm. 266/1994 Sb.
+y el decreto núm. 376/2006 Sb.
 ### 2.6 Descripción del nivel de colaboración ofrecido por las entidades participantes
-El nivel de colaboración con los representantes de las entidades participantes en el incidente excepcional fue estándar.
-### 2.7 Descripción de la investigación, métodos y técnicas utilizados para acreditar los hechos
-y los hallazgos indicados en el informe
-En el marco de la investigación del incidente excepcional, la DI procedió de la siguiente manera, es decir, utilizó, entre otros, los siguientes métodos y técnicas:
-inspección del lugar del incidente excepcional, incluidos los vehículos ferroviarios participantes,
+El nivel de colaboración con los representantes de las entidades participantes en la MU
+fue estándar.
+### 2.7 Descripción de la investigación, los métodos y las técnicas utilizados para acreditar
+la situación de hecho y los hallazgos indicados en el informe
+En el marco de la investigación de la MU, el DI procedió de la siguiente manera, es decir,
+utilizó, entre otros, los siguientes métodos y técnicas:
+inspección del lugar del suceso excepcional, incluidos los vehículos ferroviarios
 •
-los dispositivos técnicos y la infraestructura del ferrocarril;
-medición de las condiciones de visibilidad en el paso a nivel ferroviario;
+participantes, los dispositivos técnicos y la infraestructura de la vía;
+medición de las condiciones de visibilidad en el paso a nivel;
 •
-comprobación del funcionamiento correcto del dispositivo de seguridad de paso a nivel;
+comprobación del funcionamiento correcto del dispositivo de seguridad del paso a nivel;
 •
-verificación tanto de la posibilidad de deslumbramiento del conductor del NA al conducir hacia el ŽP por el sol, como de la posible
+verificación tanto de la posibilidad de deslumbramiento del conductor del NA durante
 •
-influencia – reducción en la percepción de la señal luminosa de aviso en las cajas luminosas de los semáforos;
-
+la marcha hacia el ŽP por el sol, como de una posible influencia —reducción de la
+percepción de la señalización luminosa en las cajas luminosas de los señales de aviso;
 
 ## Página 11
+
 
 participación en la inspección comisionada de los vehículos ferroviarios participantes;
 •
@@ -380,8 +386,8 @@ El ferrocarril no electrificado es de vía única en los tramos entre estaciones
 El propietario de la carretera local terrestre adyacente es la ciudad de Písek. 
 De la inspección del lugar del incidente excepcional se constató:
 
-
 ## Página 12
+
 
 ##   est. Čížová
 ## ŽP P488
@@ -418,27 +424,16 @@ en las caras posteriores de todas las cajas luminosas de los semáforos se situa
 •
 con la identificación del ŽP con el número de identificación P488;
 
-
 ## Página 13
 
-las cruces de aviso se situaban en los mástiles de los semáforos antes del ŽP en la
-•
-carretera a la derecha en el sentido de circulación del NA a una distancia de 4,75 m
-del eje del raíl, y en el lado opuesto de la carretera a la izquierda a 4,35 m del eje del raíl;
-en el sentido de circulación del NA, antes del ŽP se situaban a la derecha y a la izquierda en la carretera
-•
-señales de tráfico verticales A 31a «Placa indicadora» (240 m) complementada con la señal de tráfico
-A 30 «Paso a nivel sin barreras» (véase la fig. 2), A 31b «Placa indicadora» (160 m)
-y A 31c «Placa indicadora» (80 m);
-Fig. 2: Señalización de tráfico en el sentido de circulación del NA  Fuente: DI
-la cruz de aviso y las cajas luminosas del semáforo a la derecha en la carretera eran
-•
-visibles desde la carretera en el sentido de circulación del NA ya desde una distancia de 80 m (véase la fig.
-3) y posteriormente desde una distancia de 54 m (véase la fig. 4);
-Fig. 3: Visibilidad de la cruz de aviso desde 80 m   Fuente: DI
-
+- Las cruces de advertencia estaban montadas en los mástiles de los señales de advertencia antes de la ZP, en la vía de comunicación por tierra a la derecha en el sentido de circulación NA, a una distancia de 4,75 m del eje de la vía; desde el lado opuesto de la vía de comunicación por tierra, a la izquierda, a 4,35 m del eje de la vía;
+- En el sentido de circulación NA, antes de la ZP, estaban colocadas a la derecha y a la izquierda en la vía de comunicación por tierra señales de tráfico verticales A 31a «Placa de señalización» (240 m) complementada con la señal de tráfico A 30 «Paso a nivel sin barreras» (ver fig. n.º 2), A 31b «Placa de señalización» (160 m) y A 31c «Placa de señalización» (80 m);
+Fig. n.º 2: Señalización de tráfico en el sentido de circulación NA  Fuente: DI
+- La cruz de advertencia y las cajas luminosas del señal de advertencia a la derecha en la vía de comunicación por tierra eran visibles desde la vía de comunicación por tierra, en el sentido de circulación NA, ya desde una distancia de 80 m (ver fig. n.º 3) y posteriormente desde una distancia de 54 m (ver fig. 4);
+Fig. n.º 3: Visibilidad de la cruz de advertencia desde 80 m   Fuente: DI
 
 ## Página 14
+
 
 Fig. 4: Visibilidad de la cruz de aviso desde 54 m   Fuente: DI
 La DI realizó la verificación de la visibilidad de las cruces de aviso, de las cajas luminosas de los semáforos
@@ -455,54 +450,63 @@ la longitud de visibilidad para el vehículo terrestre más lento Lp en caso de 
 desconexión del PZZ se midió en el sentido de circulación del NA y de circulación del tren R 1171
 como mayor de 350 m (véase la fig. 6);
 
-
 ## Página 15
 
-Fig. 6: Longitud de visibilidad en el sentido de circulación del NA y del tren
+Fig. n.º 6: Visibilidad en la dirección de circulación NA y del tren
    R 1171
             Fuente: DI
-a la derecha antes del ŽP desde el punto de vista de la circulación del NA se encontraba el
+a la derecha de la ŽP desde el punto de vista de la dirección de circulación NA se encontraba el edificio tecnológico PZZ y por su
 •
-edificio tecnológico del PZZ y con su ubicación no creaba un obstáculo en el campo de visión, se garantizaba al conductor una visión
-despejada de la vía;
-la superficie de la carretera adyacente al ŽP era asfáltica, la calzada del paso a nivel estaba
+ubicación no creaba un obstáculo en la visibilidad, para el conductor se garantizaba una visión libre de interferencias
+hacia la vía;
+la superficie de la vía pública adyacente a la ŽP era de asfalto, la calzada del paso
 •
-formada por una estructura asfáltica de hormigón asfáltico;
-la calzada del paso a nivel estaba en estado satisfactorio y era transitable sin limitaciones;
+a nivel estaba formada por una estructura asfáltica de hormigón asfáltico;
+la calzada del paso a nivel se encontraba en estado satisfactorio y era transitable sin
 •
-no se utilizó señalización horizontal en el ŽP en el sentido de circulación del NA y el espacio del ŽP
+limitaciones;
+no se utilizaba señalización horizontal de tráfico en la ŽP en la dirección de
 •
-no estaba monitorizado por un sistema de cámaras;
-en ambos lados del ŽP en el eje del raíl se situaban los conos de protección y el estado de los
+circulación NA y el espacio de la ŽP no estaba monitorizado por un sistema de
+cámara;
+en ambos lados de la ŽP en el eje de la vía se encontraban colocados los conos
 •
-carriles para el aro del vehículo ferroviario estaba en estado satisfactorio;
-en la estructura asfáltica de la calzada del paso a nivel se apreciaban surcos y huellas de desgaste
+protectores y el estado de los canales para el flanco DV se encontraba en estado
+satisfactorio;
+en la estructura asfáltica de la calzada del paso a nivel se apreciaban surcos y huellas
 •
-de los neumáticos, producidos como consecuencia del impacto del tren en el NA;
-el punto «0», es decir, la primera huella tras el descarrilamiento, donde el aro de la rueda delantero del bogie
+de desgaste de los neumáticos, producidos como consecuencia del impacto del tren
+contra el NA;
+el punto «0», es decir, la primera huella tras el descarrilamiento, donde el flanco de la
 •
-del ŽV del tren R 1171 subió a la cabeza del raíl del carril derecho en el sentido de circulación del tren y dejó en él una huella visible,
-se constató en el km 17,125;
-en todo el tramo de circulación en estado descarrilado, el ŽV dejó huellas en el
+rueda derecha del bogí delantero del ŘV del tren R 1171 subió hasta la corona del
+raíl del carril derecho en la dirección de circulación del tren y dejó en él una huella
+visible, se localizó en el pk 17,125;
+en todo el tramo de circulación en estado descarrilado el ŘV dejó huellas en la
 •
-balasto (traviesas de madera y elementos de fijación) y en la calzada del paso a nivel;
-a una distancia de 4,80 m del ŽP a la derecha del raíl en el sentido de circulación del tren R 1171 se encontraba
+superestructura ferroviaria (traviesas de madera y elementos de fijación) y en la
+calzada del paso a nivel;
+a una distancia de 4,80 m de la ŽP a la derecha de la vía en la dirección de
 •
-el sensor dañado del contador de ejes;
-el ŽP P488 estaba protegido por un dispositivo de seguridad de paso a nivel luminoso sin
+circulación del tren R 1171 se encontraba el sensor dañado del contador de ejes;
+la ŽP P488 estaba protegida por una instalación de señalización de paso a nivel
 •
-complemento de barreras, con señal positiva (luz blanca intermitente);
-en el momento de la inspección del lugar del incidente excepcional el PZZ estaba en funcionamiento, es decir, se emitía la señal luminosa
+luminosa sin complemento de barreras, con señal positiva (luz blanca intermitente);
+en el momento de la inspección del lugar del MU el PZZ estaba en funcionamiento, es
 •
-de aviso con luces rojas intermitentes alternas de la señal del PZZ y también la señal acústica de aviso;
-en el Registro de Averías del equipo de comunicación y seguridad del ŽP, situado
+decir, se emitía la señal luminosa de aviso con luces rojas intermitentes alternas del
+señal del PZZ así como la señal acústica de aviso;
+en el Registrador de averías de las instalaciones de comunicación y señalización de la
 •
-en el edificio de relés junto al ŽP, no se registraba ninguna avería;
-inmediatamente después de la ocurrencia del incidente excepcional se descargaron los archivos del ordenador tecnológico
+ŽP, situado en el edificio de relés junto a la ŽP, no constaba registrada ninguna
+avería;
+inmediatamente después de la aparición del MU se descargaron los archivos del
 •
-del dispositivo de seguridad ESA 11 y a continuación del bloque de diagnóstico del PZZ.
+ordenador tecnológico de la instalación de señalización ESA 11 y a continuación del
+bloque de diagnóstico del PZZ.
 
 ## Página 16
+
 
 Estado de los vehículos ferroviarios:
 el tren R 1171 estaba compuesto por una unidad motorizada con la composición CZ-ARR 95 54 5 945 113-
@@ -544,8 +548,8 @@ mediante la inspección del puesto de conducción de la persona que conducía la
 •
 adelante, maquinista) se constató:
 
-
 ## Página 17
+
 
 ◦todos los instrumentos de control, es decir, los indicadores de revoluciones del motor
 de combustión, de presión y temperatura del aceite de la caja de cambios, de presión
@@ -596,8 +600,8 @@ Datos geográficos:
 terreno accidentado, desde la salida de la carretera principal n.º 20 la vía
 terrestre en el sentido de circulación del NA gira hacia la izquierda bajo
 
-
 ## Página 18
+
 
 la carretera principal y posteriormente hacia la derecha tras la conexión con
 la vía local principal 18a.
@@ -626,8 +630,8 @@ perjuicio para la salud de la revisora del tren R 1171;
 perjuicio para la salud de 1 pasajero del tren R 1171.
 •
 
-
 ## Página 19
+
 
 El operador de la vía y el transportista cuantificaron los daños en:
 ŘV (tren R 1171)
@@ -687,8 +691,8 @@ testigo 2 – conductor de SMV detenido delante del PFE a la derecha en el senti
 circulación del tren R 1171;
 •
 
-
 ## Página 20
+
 
 testigo 3 – conductor de SMV detenido delante del PFE a la derecha en el sentido de
 circulación del tren R 1171.
@@ -758,8 +762,8 @@ El HDV 845.113-0 estaba equipado en el momento de la ocurrencia de la MU con un
 dispositivo de registro automático de datos – velocímetro electrónico UniControls –
 Tramex RE1xx, n.º 9235.
 
-
 ## Página 21
+
 
 De los datos registrados se desprende:
 16:22:31 h – salida del tren R 1171 de la estación de Písek;
@@ -823,17 +827,18 @@ la norma ČSN 73 6380. La visibilidad
 
 ## Página 22
 
-de las cruces de advertencia, de las cajas luminosas de los semáforos de señalización y de la señalización luminosa en el sentido de la marcha NA se comprobó una visibilidad de más de 50 m. La norma ČSN 73 6380 establece el valor mínimo de esta visibilidad para las carreteras locales en función de su pendiente longitudinal de 35 m. El valor de la pendiente de la carretera terrestre en el sentido de la marcha NA antes del PFE es, según la documentación del gestor de la vía, del 1 %.
-El tramo entre estaciones Písek – Čížová está equipado, según el Reglamento de explotación de la estación de Písek, con un sistema de seguridad y control de tráfico (TZZ) de 3.ª categoría – una barrera automática AH 83 sin señales de bloqueo de sección. La comprobación de la libertad de vía en el tramo entre estaciones se realiza mediante contadores de ejes. Como complemento del TZZ existe un PC de entrada con una aplicación – terminal para la introducción de números de tren – para la transmisión de los números de tren y de las salidas previstas hacia/desde la estación de Čížová. El TZZ dispone de un Certificado de idoneidad del dispositivo técnico designado, n.º de referencia: PZ 1729/97-E.48, emitido por el DÚ el 1. 4. 1997, con vigencia por tiempo indefinido. La última inspección y prueba del UTZ se realizó, con base en el Acta de inspección y prueba realizadas n.º 63/2020-LP, el 2. 10. 2020, con el siguiente resultado: «El equipo de seguridad indicado en este acta, una vez inspeccionado y reprobado, sigue desempeñando la función de garantía directa de la seguridad del transporte ferroviario y es operativamente apto». La última inspección integral de los equipos de comunicación y seguridad del TZZ se realizó, con base en el Acta de inspección integral n.º 23347/2020-SŽ-OŘ PLZ-SSZT CBE, el 2. 10. 2020, con el siguiente resultado: «El equipo de seguridad de tramo inspeccionado no presenta anomalías, se encuentra en buen estado de conservación y permite la operación segura del transporte ferroviario».
-El PFE P488 está protegido por un PZZ luminoso de categoría PZS 3SBI, tipo PZZ-K con contadores de ejes, sin barras de cierre, con señal positiva y está equipado con un dispositivo de registro. Los elementos de indicación y mando del PFE están instalados en el Puesto de mando y operación (JOP) del agente de explotación DOZ Jih de la estación de Březnice. La indicación simplificada del estado del PZZ está instalada en la sala de explotación de la estación de Písek, en el terminal para la introducción de números de tren, en el denominado panel de suma.
-El PZZ, en el sentido desde la estación de Písek, es decir, en el sentido de la marcha del tren R 1171, se activa automáticamente con la circulación del tren al ocupar el tramo de aproximación mediante la activación del sensor del contador de ejes situado en el pk 16,487 de la línea Zdice – Protivín.
-El PZZ del PFE P488 dispone de un Certificado de idoneidad del dispositivo técnico designado – equipo eléctrico de seguridad, cuyos circuitos eléctricos desempeñan la función de garantía directa de la seguridad del transporte ferroviario, n.º de referencia: PZ 0955/10-E.48, emitido por el DÚ el 14. 6. 2010, con vigencia por tiempo indefinido.
-La última revisión del equipo eléctrico se realizó, con base en el Informe de revisión periódica del equipo eléctrico n.º 007/18-KP, el 30. 4. 2018, con el siguiente resultado: «El equipo eléctrico es apto para la explotación desde el punto de vista de la seguridad».
-La última inspección y prueba del UTZ se realizó, con base en el Acta de inspección y prueba del UTZ, cuyos circuitos eléctricos desempeñan la función de garantía directa de la seguridad del transporte ferroviario, n.º 07/2020-LP, el 21. 4. 2020, con el siguiente resultado: «El equipo de seguridad indicado en este acta, una vez inspeccionado y reprobado, sigue desempeñando la función de garantía directa de la seguridad del transporte ferroviario y es operativamente apto».
-La última inspección integral de los equipos de comunicación y seguridad del PZZ se realizó, con base en el Acta de inspección integral n.º 11706/2020-SŽ-OŘ PLZ-SSZT CBE, el 27. 4. 2020, con el siguiente resultado: «El equipo de seguridad de paso a nivel inspeccionado no presenta anomalías, se encuentra en buen estado de conservación y permite la operación segura del transporte ferroviario».
-
+de cruces de advertencia, cajas luminosas de señales de advertencia y de la señalización luminosa en el sentido de circulación NA se constató una visibilidad superior a 50 m. La norma ČSN 73 6380 establece el valor mínimo de esta visibilidad para las carreteras locales en función de su pendiente longitudinal en 35 m. El valor de la pendiente de la carretera en el sentido de circulación NA antes del ŽP es, según la documentación del gestor de la vía, del 1 %.
+El tramo entre estaciones Písek – Čížová está equipado, según el Reglamento de explotación de la estación de Písek, con un TZZ de 3.ª categoría – barrera automática AH 83 sin señales de bloqueo de sección. La comprobación de la libertad de vía en el tramo entre estaciones se realiza mediante contadores de ejes. Como parte superior del TZZ hay un PC de entrada con una aplicación – terminal para la introducción de números de tren – para la transmisión de los números de tren y de las salidas previstas hacia/desde la estación de Čížová. El TZZ dispone de un Certificado de idoneidad del dispositivo técnico designado válido, n.º de ev.: PZ 1729/97-E.48, emitido por el DÚ el 1. 4. 1997, con vigencia por tiempo indefinido. La última inspección y prueba del UTZ se realizó, con base en el Acta de inspección y prueba realizadas n.º 63/2020-LP, el 2. 10. 2020, con la conclusión: «El dispositivo de seguridad inspeccionado y reexaminado indicado en la presente acta sigue cumpliendo la función de garantía directa de la seguridad del transporte ferroviario y es operativamente apto.»
+La última inspección integral de los dispositivos de comunicación y seguridad del TZZ se realizó, con base en el Acta de inspección integral n.º 23347/2020-SŽ-OŘ PLZ-SSZT CBE, el 2. 10. 2020, con la conclusión: «El dispositivo de seguridad de vía controlado no presenta defectos, se encuentra en buen estado, debidamente mantenido, y permite la explotación segura del transporte ferroviario.»
+El ŽP P488 está protegido por un PZZ luminoso de categoría PZS 3SBI, tipo PZZ-K con contadores de ejes, sin barras de cierre, con señal positiva, y está equipado con un dispositivo de registro. Los elementos de indicación y mando del ŽP están instalados en el Puesto de mando y explotación (JOP) del encargado de explotación DOZ Jih de la estación de Březnice. La indicación simplificada del estado del PZZ está instalada en la oficina de explotación de la estación de Písek, en el terminal para la introducción del número de tren, en la llamada cabecera de suma.
+El PZZ, en el sentido desde la estación de Písek, es decir, en el sentido de circulación del tren R 1171, se activa automáticamente con la circulación del tren al ocupar el tramo de aproximación mediante la activación del sensor del contador de ejes situado en el km 16,487 de la línea Zdice – Protivín.
+El PZZ del ŽP P488 dispone de un Certificado de idoneidad del dispositivo técnico designado – dispositivo eléctrico de seguridad – cuyos circuitos eléctricos cumplen la función de garantía directa de la seguridad del transporte ferroviario, n.º de ev.: PZ 0955/10-E.48, emitido por el DÚ el 14. 6. 2010, con vigencia por tiempo indefinido.
+La última revisión del equipo eléctrico se realizó, con base en el Informe de revisión periódica del equipo eléctrico n.º 007/18-KP, el 30. 4. 2018, con la conclusión: «El equipo eléctrico es apto para la explotación desde el punto de vista de la seguridad.»
+La última inspección y prueba del UTZ se realizó, con base en el Acta de inspección y prueba del UTZ, cuyos circuitos eléctricos cumplen la función de garantía directa de la seguridad del transporte ferroviario, n.º 07/2020-LP, el 21. 4. 2020, con la conclusión: «El dispositivo de seguridad inspeccionado y reexaminado indicado en la presente acta sigue cumpliendo la función de garantía directa de la seguridad del transporte ferroviario y es operativamente apto.»
+La última inspección integral de los dispositivos de comunicación y seguridad del PZZ se realizó, con base en el Acta de inspección integral n.º 11706/2020-SŽ-OŘ PLZ-SSZT CBE, el 27. 4. 2020, con la conclusión: «El dispositivo de seguridad de paso a nivel controlado no presenta defectos, se encuentra en buen estado, debidamente mantenido, y permite la explotación segura del transporte ferroviario.»
 
 ## Página 23
+
 
 La última inspección y mantenimiento periódicos del PZZ según el plan de mantenimiento aprobado se realizaron el 8. 4. 2021, con el siguiente resultado: «Equipo reprobado, en estado operativo».
 Del análisis del archivo de datos descargado del ordenador tecnológico TPC4 SZZ ESA 11 en la estación de Březnice se constató:
@@ -853,8 +858,8 @@ De los registros en los Registradores de averías de los equipos de comunicació
 Tras la producción del MU, por parte de las personas competentes del gestor de la vía y en presencia del DI, se realizó una reprobación comisionada del PZZ – se constató el funcionamiento sin averías del PZZ.
 Del análisis de los datos descargados y de los resultados de la inspección comisionada se deduce que el PZZ presentaba, antes de la producción del MU y en el momento de su producción, un estado sin averías y que su estado técnico no guardaba relación causal con la producción del MU.
 
-
 ## Página 24
+
 
 ### 3.1.9 Cualquier otra información relevante para los fines de la descripción del suceso y de la información básica
 Resumen de las explicaciones aportadas por los empleados del gestor de la vía y del transportista, incluidas las personas con relación contractual:
@@ -889,8 +894,8 @@ lo ya indicado anteriormente):
 ◦al bajar del tren, vio encendidas las luces de advertencia en el PFE P488;
 ◦tras recibir los primeros auxilios, fue trasladado al hospital de Písek;
 
-
 ## Página 25
+
 
 agente de explotación de la estación de
  Písek
@@ -928,6 +933,7 @@ PČR:
 
 ## Página 26
 
+
 descargaba piezas de repuesto y posteriormente cargaba los envases vacíos que debía transportar a la República Checa;
 ◦tras la carga, comenzó el 4. 5. 2021 aproximadamente a las 23:45 h un descanso;
 ◦el 5. 5. 2021 a las 9:00 h, plenamente descansado, salió con dirección a la R.C., donde en Folmava, aproximadamente tras 2 horas de viaje, tuvo una pausa de 50 minutos;
@@ -947,8 +953,8 @@ descargaba piezas de repuesto y posteriormente cargaba los envases vacíos que d
 ◦tanto el NA como el remolque no presentaban ningún problema técnico, por lo que no se considera ninguna avería técnica como posible causa del accidente de tráfico;
 ◦respecto a la velocidad del NA, declaró que no sabe a qué velocidad circulaba, solo le pareció que el tren iba rápido dado que se aproximaba al paso;
 
-
 ## Página 27
+
 
 testigo, revisora del tren R 1171
   – Acta del transportista con el empleado:
@@ -991,8 +997,8 @@ testigo 2, conductor
 •
 oficial de la declaración prestada ante la PČR:
 
-
 ## Página 28
+
 
 ◦el 5. 5. 2021 alrededor de las 16:30 h volvía de Protivín pasando por Písek y continuaba con dirección a Praga;
 ◦circulaba por la calle Dobešická, donde se detuvo delante del paso a nivel, porque estaban encendidas las luces de aviso y la señalización sonora estaba activada;
@@ -1017,8 +1023,8 @@ oficial de la declaración prestada ante la PČR:
 El 5. 5. 2021 a las 16:22 h partió el tren R 1171 (unidad diésel compuesta por ŘV 945.113-9 y HDV 845.113-0) de la est. Písek con destino a la est. Čížová. Durante la marcha hacia el ŽP P488 no se produjo ninguna anomalía, el maquinista manejó regularmente el freno automático de tren y, según el análisis de los datos registrados, no se superó la velocidad máxima permitida (75 km·h-1) del tren R 1171.
 Tras salir de un arco a la derecha antes de la parada Písek-Dobešice, el maquinista, según su declaración, divisó a la izquierda un camión que se aproximaba al ŽP P488 y frenaba. Sin embargo, el conductor del camión no respetó la advertencia luminosa (dos luces rojas intermitentes alternas) y sonora del PZZ, que le informaba de que un tren se estaba aproximando al ŽP, y entró en el ŽP. A pesar de que el maquinista del tren R 1171 utilizó inmediatamente la bocina de la locomotora e inició un frenado de acción rápida, debido a la velocidad de circulación del tren, la distancia hasta el ŽP y la distancia de frenado, no pudo evitar la colisión con el camión.
 
-
 ## Página 29
+
 
 Como consecuencia de la colisión, en la que el tren R 1171 impactó contra el lado derecho del remolque, se produció la rotura del tren: el camión fue lanzado al lado derecho del ŽP (en el sentido de marcha del tren) y el remolque al lado izquierdo del ŽP. El tren R 1171 descarriló en el espacio del paso a nivel con el bogie delantero y el trasero de la ŘV hacia la derecha en el sentido de marcha del tren y en la posición final tras la MU la ŘV se encontraba fuera de la vía de circulación. No se produjo el descarrilamiento del HDV.
 ### 3.2.2 Secuencia de hechos desde la ocurrencia del suceso excepcional hasta la finalización de las acciones de los servicios de emergencia
@@ -1057,6 +1063,7 @@ El cruce de la vía con la carretera a nivel de la vía debe estar señalizado y
 
 ## Página 30
 
+
 la cruz se coloca en el borde derecho de la vía de comunicación terrestre (acera) en el sentido de circulación de los vehículos, de modo que ninguna parte de la cruz de advertencia esté a menos de 4 m del eje de la vía exterior. Los pasos a nivel con una velocidad de línea superior a 60 km·h-1 o con un valor de momento de tráfico que supere los 10 000 se protegen mediante una instalación de señalización automática de paso a nivel luminosa, que debe advertir a los usuarios de la vía de comunicación terrestre con la antelación suficiente de que un tren o un vehículo ferroviario se aproxima al paso a nivel, mediante luz roja intermitente y señal sonora intermitente. La ejecución y ubicación de los señales de advertencia deben corresponder a las normas ČSN 73 6380 y ČSN 34 2650 y los señales de advertencia deben ir complementados con una placa con la advertencia «Cuidado tren».
 Para el conductor de un vehículo terrestre debe garantizarse la visibilidad del señal de advertencia a una longitud tal que el conductor pueda detenerse de forma fiable antes del paso a nivel, es decir, a la longitud de parada Dz. Además, en caso de avería o desconexión de la instalación de señalización automática de paso a nivel, debe garantizarse la longitud de visibilidad para el vehículo terrestre más lento Lp hacia el vehículo ferroviario desde una distancia de 4 m del eje de la vía. En dicho caso, el vehículo ferroviario tiene la obligación de circular a una velocidad de hasta 10 km·h-1.
 El transportista está, entre otras obligaciones, obligado a garantizar que el maquinista conduzca el DV únicamente desde la posición desde la que existe la mejor visibilidad, por lo general desde la cabina delantera del maquinista en el sentido de circulación, que desde la cabina de mando del DV observe la vía y las señales y actúe conforme a los hechos constatados y que durante la circulación no supere la velocidad máxima permitida establecida en el horario de circulación o la velocidad limitada ordenada.
@@ -1069,8 +1076,8 @@ En la investigación no se constató infracción de las funciones y obligaciones
 La autoridad nacional de seguridad es la Oficina Ferroviaria, que de conformidad con la Ley n.º 266/1994 Sb. es una autoridad administrativa dependiente del Ministerio de Transportes. Su función es, en particular, el ejercicio de la supervisión estatal en materia de ferrocarriles y en materia de autoridad de construcción, el ejercicio de la autoridad de construcción especial para obras ferroviarias y obras en la vía férrea, la aprobación de vehículos ferroviarios nuevos y modernizados y de instalaciones técnicas designadas, y la tramitación de infracciones. La Oficina Ferroviaria tiene la obligación de comunicar, en el plazo de 12 meses desde la fecha de publicación del informe final que contenga las recomendaciones de seguridad dirigidas a la misma, a la Inspección Ferroviaria qué medida ha adoptado en relación con dicha recomendación de seguridad.
 La función de la Agencia Ferroviaria de la Unión Europea es, además de garantizar, en el marco de sus competencias, que se mantenga y, en la medida de lo posible, se aumente de forma sistemática la seguridad de los ferrocarriles, entre otras, la emisión, renovación, suspensión y modificación de certificados únicos de seguridad, la limitación de su vigencia o su cancelación, cuestión en la que
 
-
 ## Página 31
+
 
 colabora con las autoridades nacionales de seguridad; además, emite autorizaciones para la puesta en el mercado de vehículos ferroviarios y de tipos de vehículos y está facultada para renovar, modificar, suspender o cancelar las autorizaciones que haya emitido. La Agencia evalúa asimismo los proyectos de normativa nacional, etc.
 En la investigación no se constató infracción de las funciones y obligaciones de la autoridad nacional de seguridad y de la Agencia Ferroviaria de la Unión Europea.
@@ -1096,8 +1103,8 @@ En la investigación se constató infracción de la normativa legal relativa a l
 •
 «El conductor no debe entrar en el paso a nivel si se está emitiendo la advertencia con el sonido intermitente de la sirena o la campana de la instalación de señalización automática de paso a nivel, ...».
 
-
 ## Página 32
+
 
 ### 4.2 Vehículos ferroviarios e instalaciones técnicas
 4.2.1 Factores o consecuencias derivados de la construcción de los vehículos ferroviarios, de la infraestructura ferroviaria o de las instalaciones técnicas
@@ -1118,8 +1125,8 @@ En la investigación no se identificaron factores relacionados con la formación
 ### 4.3.2 Factores laborales
 En la investigación no se identificaron factores relacionados con el contenido del puesto de trabajo o la jornada laboral de los empleados. En la investigación no se constató, en los empleados implicados, el incumplimiento de las condiciones de descanso antes del turno y de los descansos, respectivamente, del tiempo adecuado para el descanso y la alimentación durante el turno.
 
-
 ## Página 33
+
 
 ### 4.3.3 Factores organizativos y tareas
 En la investigación no se identificaron factores relacionados con la organización del trabajo o con las tareas laborales.
@@ -1134,6 +1141,7 @@ El conductor del NA fue advertido del PŽ P488 mediante señales de tráfico ver
 En caso de avería o desconexión del PZZ debe garantizarse la longitud de visibilidad para el vehículo terrestre más lento Lp hacia el vehículo ferroviario, que en dicho caso debe circular a una velocidad de hasta 10 km·h-1. Según el Anexo C de la norma ČSN 73 6380, la longitud de visibilidad Lp es la longitud del tramo de vía antes del paso a nivel que recorre el frente del DV a la velocidad de línea, en caso de avería o desconexión del PZZ a la velocidad
 
 ## Página 34
+
 
 10 km·h-1, para el tiempo necesario para que el conductor del vehículo rodante más lento pueda abandonar con el vehículo de forma fiable la banda de peligro del paso a nivel, y se calcula según la fórmula:
 Lp = vž / vsn * (Dp + Ds)
@@ -1155,53 +1163,45 @@ En el sistema de aseguramiento de la seguridad adoptado por el gestor de la infr
 ### 4.4.4 Sistema de gestión de los sujetos responsables del mantenimiento de los vehículos ferroviarios y de los talleres de mantenimiento
 El sistema de gestión de los sujetos responsables del mantenimiento de los vehículos ferroviarios y de los talleres de mantenimiento no guardaba relación con la aparición de la MU.
 
-
 ## Página 35
 
 ### 4.4.5 Resultados de la supervisión realizada por las autoridades nacionales de seguridad
-Atendiendo a los factores detectados y a las circunstancias de la aparición de la MU, la supervisión de la autoridad de seguridad no guarda relación con la MU en cuestión.
-### 4.4.6 Aprobaciones, certificados y dictámenes de evaluación emitidos por la agencia, las autoridades nacionales de seguridad u otros sujetos de evaluación de la conformidad
-El gestor de la infraestructura explotó la vía al amparo de la autorización administrativa vigente y del certificado de seguridad del gestor de la infraestructura. El transportista explotó el transporte ferroviario al amparo de la licencia vigente y del certificado del transportista.
+Atendiendo a los factores y circunstancias de la aparición del MU constatados, la supervisión de la autoridad de seguridad no guarda relación con el MU en cuestión.
+### 4.4.6 Aprobaciones, certificados e informes de evaluación emitidos por la agencia, las autoridades nacionales de seguridad u otros organismos de evaluación de la conformidad
+El gestor de la infraestructura ferroviaria explotaba la infraestructura en virtud de una autorización administrativa vigente y de un certificado de seguridad del gestor de la infraestructura ferroviaria. El operador ferroviario explotaba el transporte ferroviario en virtud de una licencia vigente y de un certificado del operador.
 ### 4.4.7 Otros factores sistémicos
-En la investigación no se detectaron otros factores sistémicos.
+En la investigación no se constataron otros factores sistémicos.
 ### 4.5 Sucesos anteriores de naturaleza similar
-La Inspección Ferroviaria registra en las vías de ámbito nacional y regional, en el período comprendido entre el 1. 1. 2008 y la fecha de aparición de la MU en cuestión, 1011 MU similares, en las que se produjo la colisión de DV con vehículos a motor de carretera en pasos a nivel protegidos por PZS sin barreras. En estas MU fallecieron 175 personas, 728 personas resultaron heridas y el daño causado ascendió a 512 248 753 Kč.
-La Inspección Ferroviaria registra en el ŽP P488, en el período indicado, 3 MU similares, a saber:
-• del 27. 6. 2009, en que se produjo la colisión del tren R 1252 con un automóvil. En la
-MU se produjeron lesiones en dos personas (el conductor del OA y su acompañante). El
-daño total se valoró en 344 922 Kč.
-• del 6. 7. 2010, en que se produjo la colisión del tren R 1252 con un automóvil. En la
-MU fallecieron 3 personas (el conductor del OA y sus dos acompañantes). El daño total
-se valoró en 186 144 Kč.
-• del 18. 11. 2016, en que se produjo la colisión del tren Mn 88530 con un automóvil.
-En la MU no se produjeron lesiones y el daño total se valoró en 110 000 Kč.
-La causa inmediata de la aparición de todas las MU anteriores fue la entrada no autorizada de un vehículo a motor de carretera en el ŽP en el momento en que se emitía la señal luminosa y acústica del dispositivo de enclavamiento del paso a nivel y en que se aproximaba al paso a nivel un tren.
-La DI recomendó repetidamente desde el año 2012 al gestor de la infraestructura SŽ (anteriormente SŽDC), con el fin de garantizar la máxima seguridad en las vías ferroviarias de ámbito nacional y regional, que se elevara el nivel de protección de los pasos a nivel de tal forma que, en las reconstrucciones y modernizaciones de líneas y pasos a nivel, ya se proyectara e instalara únicamente dispositivo de enclavamiento del paso a nivel luminoso complementado con barreras. La DI, al mismo tiempo, mediante estas recomendaciones de seguridad, recomendó a la Oficina Ferroviaria que adoptara las medidas pertinentes orientadas a garantizar la realización de las recomendaciones de seguridad anteriores también en los demás gestores de infraestructuras ferroviarias en la República Checa. Desde el 1. 4. 2017, en que entró en vigor la modificación de la ley n.º 266/1994 Sb., las recomendaciones de seguridad de carácter similar se destinaron, de conformidad con el § 53e de la ley n.º 266/1994 Sb., únicamente a la Oficina Ferroviaria. El motivo para emitir estas recomendaciones fue el hecho de que
-
+La Inspección Ferroviaria registra en las infraestructuras ferroviarias de ámbito nacional y regional, en el periodo comprendido entre el 1. 1. 2008 y la fecha de aparición del MU en cuestión, 1011 MU similares, en los que se produjo una colisión entre un DV y vehículos automóviles de carretera en pasos a nivel protegidos por PZS sin barreras. En estos MU resultaron fallecidas 175 personas, 728 personas resultaron heridas y el daño causado ascendió a 512 248 753 CZK.
+La Inspección Ferroviaria registra en el P488 de la ŽP, en el periodo indicado, 3 MU similares, a saber:
+• el del 27. 6. 2009, en el que se produjo una colisión entre el tren R 1252 y un automóvil. En el MU resultaron heridas dos personas (el conductor del OA y su acompañante). El daño total se cifró en 344 922 CZK.
+• el del 6. 7. 2010, en el que se produjo una colisión entre el tren R 1252 y un automóvil. En el MU resultaron fallecidas 3 personas (el conductor del OA y sus dos acompañantes). El daño total se cifró en 186 144 CZK.
+• el del 18. 11. 2016, en el que se produjo una colisión entre el tren Mn 88530 y un automóvil. En el MU no se produjeron daños personales y el daño total se cifró en 110 000 CZK.
+La causa inmediata de la aparición de todos los MU anteriormente indicados fue la entrada no autorizada de un vehículo automóvil de carretera en la ŽP en el momento en que se emitía la señalización luminosa y acústica del dispositivo de enclavamiento del paso a nivel y en el que se aproximaba un tren al paso a nivel.
+Desde 2012, la DI recomendó reiteradamente al gestor de la infraestructura ferroviaria SŽ (anteriormente SŽDC), con el fin de garantizar la máxima seguridad en las infraestructuras ferroviarias de ámbito nacional y regional, aumentar el nivel de protección de los pasos a nivel de manera que, en las reconstrucciones y modernizaciones de líneas y pasos a nivel, ya se proyectara e instalara únicamente un dispositivo de enclavamiento del paso a nivel luminoso complementado con barreras. Asimismo, mediante estas recomendaciones de seguridad, la DI recomendó a la Oficina Ferroviaria adoptar sus propias medidas encaminadas a garantizar la realización de las recomendaciones de seguridad anteriormente indicadas también en los demás gestores de infraestructuras ferroviarias de la República Checa. Desde el 1. 4. 2017, fecha en que entró en vigor la modificación de la ley núm. 266/1994 Sb., las recomendaciones de seguridad de carácter similar se destinaron, de conformidad con el § 53e de la ley núm. 266/1994 Sb., únicamente a la Oficina Ferroviaria. El motivo de la emisión de estas recomendaciones fue el hecho de que
 
 ## Página 36
 
-la mayor parte de las colisiones con vehículos de carretera con las consecuencias más graves se produce a largo plazo en pasos a nivel protegidos por dispositivo de enclavamiento del paso a nivel sin barreras, mientras que, por el contrario, a largo plazo, desde el punto de vista de la sinestralidad y de las consecuencias, el tipo de protección de pasos a nivel más favorable es precisamente el dispositivo de enclavamiento del paso a nivel complementado con barreras. SŽ (anteriormente SŽDC) reaccionó a estas recomendaciones, entre otros, de la siguiente manera: "en caso de sustitución de los PZM existentes (dispositivo de enclavamiento del paso a nivel mecánico – nota de la DI) y PZS por tecnología moderna, en el diseño se priorizará la construcción de dispositivos de enclavamiento del paso a nivel con barreras, salvo que existan obstáculos técnicos u operativos significativos que lo impidan. La instalación de un dispositivo de enclavamiento del paso a nivel concreto respetará en todo caso la decisión vigente de la Oficina Ferroviaria sobre el alcance y el modo de protección del paso a nivel.". La Oficina Ferroviaria, entre otros, envió como medida la siguiente declaración: "La Oficina Ferroviaria, como autoridad administrativa ferroviaria, recomienda así permanentemente a la Administración de Infraestructuras Ferroviarias, como gestor de la infraestructura, incluir en la mayor medida posible en el plan de inversiones la dotación de barreras al dispositivo de enclavamiento del paso a nivel luminoso existente. Deberían ser prioritarios los pasos a nivel con alto volumen de tráfico y con sucesos extraordinarios recurrentes.". La Inspección Ferroviaria sigue apoyando la dotación de barreras en los pasos a nivel (de forma prioritaria en aquellos con mayor volumen de tráfico y condiciones locales desfavorables), pero, en el caso de emitir nuevas recomendaciones de seguridad para sucesos extraordinarios concretos, tiene en cuenta las características específicas del paso a nivel en cuestión y emite dicha recomendación de seguridad de forma más concreta.
-Atendiendo a la circunstancia constatada de que el gestor de la infraestructura SŽ, en el marco de la acción "Dotación de barreras en el paso a nivel P488 en el km 17,132 de la línea Protivín – Zdice", con plazo de ejecución de la obra de junio de 2021 – agosto de 2022, elevará el nivel de protección de este paso a nivel, la Inspección Ferroviaria no emite en este caso recomendación de seguridad.
+la mayoría de las colisiones con vehículos viales con las consecuencias más graves se producen a largo plazo en pasos a nivel protegidos por instalación de protección de paso sin barreras, mientras que a largo plazo, desde el punto de vista de la siniestralidad y de las consecuencias, el tipo de protección de pasos a nivel más favorable es precisamente la instalación de protección de paso complementada con barreras. SŽ (anteriormente SŽDC) reaccionó a estas recomendaciones, entre otros medios, de la siguiente manera: «En caso de sustitución de las PZM existentes (instalación de protección de paso mecánica – nota de la DI) y PZS por tecnología moderna, en el diseño se priorizará la construcción de instalaciones de protección de paso con barreras, salvo que lo impidan obstáculos técnicos u operativos significativos. La instalación de una instalación de protección de paso concreta respetará siempre la decisión vigente de la Oficina Ferroviaria sobre el alcance y el modo de protección del paso a nivel». La Oficina Ferroviaria, entre otros medios, envió como medida la siguiente declaración: «La Oficina Ferroviaria, como autoridad administrativa ferroviaria, recomienda así permanentemente a la Administración de Infraestructuras Ferroviarias, como operador de la vía, incluir en el plan de inversiones, en la mayor medida posible, la instalación de barreras complementarias en la instalación de protección de paso luminosa existente. Deberían ser prioritarios los pasos a nivel con alto volumen de tráfico y con eventos excepcionales recurrentes». La Inspección Ferroviaria sigue apoyando la instalación de barreras complementarias en los pasos a nivel (de forma prioritaria en aquellos con mayor volumen de tráfico y condiciones locales desfavorables), sin embargo, en el caso de emitir más recomendaciones de seguridad sobre eventos excepcionales concretos, tiene en cuenta las características específicas de dicho paso a nivel y emite dicha recomendación de seguridad de forma más concreta.
+Atendiendo a la constatación de que el operador de la vía SŽ, en el marco de la acción «Instalación de barreras en el paso a nivel P488 en el pk 17,132 de la línea Protivín – Zdice» con plazo de ejecución de la obra de junio de 2021 – agosto de 2022, aumentará el nivel de protección de dicho paso a nivel, la Inspección Ferroviaria no emite en este caso recomendación de seguridad.
 ### 5 CONCLUSIONES
 ### 5.1 Resumen del análisis y conclusiones relativas a las causas del suceso
-La causa inmediata del suceso extraordinario fue:
-• la entrada no autorizada de un camión en el paso a nivel P488 en el momento en que se
-aproximaba a él el tren R 1171, causada por la actuación del conductor del camión, que no
-respetó la señal luminosa y acústica del dispositivo de enclavamiento del paso a nivel y no
-comprobó si podía cruzar el paso a nivel de forma segura.
-No se detectó factor contribuyente por parte de la DI.
-No se detectó causa sistémica por parte de la DI.
+La causa inmediata del evento excepcional fue:
+la entrada no autorizada de un camión en el paso a nivel P488 en el momento en que •
+se aproximaba a él el tren R 1171, causada por la actuación del conductor del camión, que no respetó la alerta luminosa y acústica de la instalación de protección de paso y no se aseguró de si podía cruzar el paso a nivel de forma segura.
+La DI no identificó ningún factor contribuyente.
+La DI no identificó ninguna causa sistémica.
 ### A summary of the analysis and conclusions with regard to the causes of the
 occurrence
 Causal factor:
-• an unauthorized entrance of the lorry at the level crossing No. P488 at the time
+an unauthorized entrance of the lorry at the level crossing No. P488 at the time
+•
 when the train No. 1171 was arriving, caused by behavior of the lorry driver, who did
 not respect the light and acoustic warning of the level crossing safety equipment
 and did not make sure whether he could safely pass the level crossing.
 
-
 ## Página 37
+
 
 Contributing factor: none.
 Systemic factor: 

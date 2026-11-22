@@ -10,13 +10,14 @@ chars: 186927
 ratio_longitud: 1.17
 tokens_in: 102099
 tokens_out: 72568
-verificacion: revisar
-notas_cifras: ["bloque 2: original bilingüe: se compara contra el idioma principal (CS); cifras cortas: 131/131", "bloque 5: original bilingüe: se compara contra el idioma principal (CS)", "bloque 6: cifras cortas: 3/161", "bloque 8: cifras cortas: 4/80", "bloque 9: original bilingüe: se compara contra el idioma principal (CS)", "bloque 10: cifras cortas: 1/71"]
-avisos: ["bloque 2: marcadores de página: 5 vs 0; cifras largas: faltan 43/43 (100%); ratio 0.01", "bloque 9: ratio 1.70", "bloque 16: ratio 1.62"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 4: original bilingüe: se compara contra el idioma principal (PT)", "página 6: original bilingüe: se compara contra el idioma principal (CS)", "página 7: original bilingüe: se compara contra el idioma principal (CS)", "página 8: original bilingüe: se compara contra el idioma principal (EN)", "página 10: original bilingüe: se compara contra el idioma principal (CS)", "página 11: original bilingüe: se compara contra el idioma principal (CS); cifras cortas: 1/19"]
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -39,13 +40,13 @@ IČ: 75009561
 mail@dicr.cz
 tel.: +420 736 521 003
 
-
 ## Página 2
+
 
 El presente informe final es público y todos los hechos en él expuestos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ## 1 RESUMEN
 Fuente: Drážní inspekce
@@ -64,8 +65,8 @@ sin daños personales;
 daño total 4 267 500 Kč. *)
 *) La cuantía del daño a la fecha de publicación del informe final no era definitiva.
 
-
 ## Página 4
+
 
 Causa inmediata:
 •
@@ -74,8 +75,8 @@ No fue detectado por la Drážní inspekce ningún factor contribuyente.
 No fue detectada por la Drážní inspekce ninguna causa sistémica.
 No fue emitida por la Drážní inspekce ninguna recomendación de seguridad.
 
-
 ## Página 5
+
 
 ## SUMMARY
 7th February 2023, 23:51 (22:51 GMT).
@@ -103,8 +104,8 @@ Systemic factor:
 none.
 Recommendation: not issued.
 
-
 ## Página 6
+
 
 # Índice
 1 RESUMEN........................................................................................................................3
@@ -148,7 +149,258 @@ SUMMARY.........................................................................
 
 The request was rejected because it was considered high risk
 
+## Página 7
+
+4.2.2 Factores o consecuencias derivados de la instalación y puesta en servicio de material rodante, infraestructura ferroviaria o instalaciones técnicas.....................................44
+4.2.3 Factores o consecuencias relacionados con los fabricantes de material rodante u otros proveedores de productos ferroviarios...........................................................................44
+4.2.4 Factores o consecuencias derivados del mantenimiento y modificación de material rodante o instalaciones técnicas..................................................................................................44
+4.2.5 Factores o consecuencias relacionados con el sujeto responsable del mantenimiento del material rodante, los talleres de mantenimiento y otros prestadores de servicios de mantenimiento.44
+4.2.6 Otros factores o consecuencias que se consideren relevantes a efectos de la investigación.....44
+4.3 Factores humanos...........................................................................................................44
+4.3.1 Características humanas e individuales..........................................................................44
+4.3.2 Factores laborales................................................................................................54
+4.3.3 Factores organizativos y tareas...............................................................................55
+4.3.4 Factores relacionados con el entorno laboral......................................................56
+4.3.5 Otro factor relevante a efectos de la investigación.............................................................56
+4.4 Mecanismos de retroalimentación y mecanismos de control, incluida la gestión del riesgo y el aseguramiento de la seguridad, y procedimientos de seguimiento..................................................................................56
+4.4.1 Condiciones pertinentes del marco regulatorio............................................................56
+4.4.2 Procedimientos, métodos, contenido y resultados de las actividades de evaluación de riesgos y seguimiento realizadas por cualquiera de los sujetos implicados...............................................................56
+4.4.3 Sistema de aseguramiento de la seguridad de los transportistas y gestores de infraestructura implicados
+...................................................................................................................................56
+4.4.4 Sistema de gestión de los sujetos responsables del mantenimiento del material rodante y de los talleres de mantenimiento..................................................................................................56
+4.4.5 Resultados de la supervisión realizada por las autoridades nacionales de seguridad............56
+4.4.6 Aprobaciones, certificados y evaluaciones emitidos por la Agencia, las autoridades nacionales de seguridad u otros sujetos de evaluación de la conformidad...............................56
+4.4.7 Otros factores sistémicos......................................................................................57
+4.5 Sucesos anteriores de naturaleza similar........................................................................57
+5 CONCLUSIONES..........................................................................................................................57
+5.1 Resumen del análisis y conclusiones relativas a las causas del suceso..........................................57
+5.2 Medidas adoptadas para prevenir sucesos extraordinarios..........................................58
+5.3 Hallazgos complementarios.....................................................................................................58
+6 RECOMENDACIONES DE SEGURIDAD...................................................................................59
+ANEXOS............................................................................................................................60
+
+## Página 8
+
+### Lista de siglas y símbolos utilizados
+ARR
+regulación automática de velocidad
+CDP
+Centro de despacho central
+COP
+Centro de aviso central
+ČD
+České dráhy, a. s.
+DI
+Inspección Ferroviaria
+DK
+oficina de tráfico
+DKV
+depósito de material rodante
+DÚ
+Oficina Ferroviaria
+DV
+material rodante
+ETCS
+European Train Control System (Sistema europeo de control de trenes)
+GSM-R
+Global System for Mobile Communications for Railway (Sistema global de comunicaciones móviles para ferrocarriles)
+GVD
+gráfico de tráfico ferroviario
+HDV
+material rodante de tracción
+HZS
+Cuerpo de Bomberos y Rescate
+IZS
+sistema integrado de rescate
+JOP
+Puesto de servicio unificado
+JPO
+Unidad de protección contra incendios
+JŘ
+horario de trenes
+KÚ
+tramo de vía
+MU
+ocurrencia extraordinaria
+O18
+Departamento del Sistema de Seguridad de la Explotación Ferroviaria de Správa železnic, organización estatal
+OŘOD
+Dirección Regional de Transporte de Viajeros
+PČR
+Policía de la República Checa
+PDOJ
+tiempo adecuado de descanso y comida
+PMD
+maniobra entre estaciones
+PO
+Distrito operativo
+PPV
+puesto del jefe de estación de guardia
+RR
+registrador de velocidad
+ŘDV
+material rodante de mando
+SK
+vía de estación
+SZZ
+aparato de enclavamiento de estación
+SŽ
+Správa železnic, organización estatal (antes del 1. 1. 2020 Správa železniční dopravní cesty, organización estatal – SŽDC)
+TDV
+material rodante remolcado
+TK
+vía de trazado
+TTP
+tablas de condiciones de trazado
+TZZ
+aparato de enclavamiento de trazado
+ÚI
+Inspectorado Territorial
+ZDD
+documentación básica de tráfico
+ZOZ
+aptitud profesional especial
+ZZ
+Informe final sobre los resultados de la investigación de la ocurrencia extraordinaria
+ŽP
+pasaje a nivel
+žst.
+estación ferroviaria
+
+## Página 9
+
+### Lista de abreviaturas de legislación, normas y reglamentos internos utilizados
+Directiva 2007/59/CE
+DIRECTIVA 2007/59/CE DEL PARLAMENTO EUROPEO Y DEL CONSEJO 
+de 23 de octubre de 2007 sobre la expedición de certificados 
+a los maquinistas que conducen locomotoras y trenes 
+en el sistema ferroviario de la Comunidad, en la redacción 
+vigorosa en el momento del suceso
+ley núm. 262/2006 Sb.
+ley núm. 262/2006 Sb., Código del Trabajo, en la redacción 
+vigorosa en el momento del suceso
+ley núm. 266/1994 Sb.
+ley núm. 266/1994 Sb., de los ferrocarriles, en la redacción 
+vigorosa en el momento del suceso
+decreto núm. 16/2012 Sb.
+decreto núm. 16/2012 Sb., sobre la cualificación profesional 
+de las personas que conducen vehículos ferroviarios y de las 
+personas que realizan revisiones, inspecciones y ensayos 
+de instalaciones técnicas designadas, y de modificación 
+del decreto 
+del Ministerio 
+de Transportes 
+núm. 101/1995 Sb., por el que se aprueba el Reglamento de 
+aptitud médica y profesional de las personas para la explotación 
+de la vía y del transporte ferroviario, en la redacción 
+vigorosa en el momento del suceso
+decreto núm. 100/1995 Sb.
+decreto núm. 100/1995 Sb., por el que se establecen las 
+condiciones para la explotación, construcción y fabricación 
+de instalaciones técnicas designadas y su concreción 
+(Reglamento de instalaciones técnicas designadas), 
+en la redacción vigorosa en el momento del suceso
+decreto núm. 173/1995 Sb.
+decreto núm. 173/1995 Sb., por el que se aprueba el 
+Reglamento de circulación de los ferrocarriles, en la redacción 
+vigorosa en el momento del suceso
+decreto núm. 376/2006 Sb.
+decreto núm. 376/2006 Sb., sobre la garantía de la seguridad 
+de la explotación de la vía y del transporte ferroviario y los 
+procedimientos en caso de sucesos excepcionales en los 
+ferrocarriles, en la redacción vigorosa en el momento del suceso
+ČSN EN 13452-1
+ČSN EN 13452-1 (284011), "Aplicaciones ferroviarias – 
+Frenado – Sistemas de freno para el transporte colectivo – 
+Parte 1: Requisitos de ejecución", en la redacción 
+vigorosa en el momento del suceso
+reglamento interno SŽDC D1
+reglamento interno del explotador de la vía SŽ, "SŽDC D1 
+Reglamento de circulación y de señales", en la redacción 
+vigorosa hasta el 30. 6. 
+2022
+reglamento interno SŽ D1
+reglamento interno del explotador de la vía SŽ, "SŽ D1 PARTE 
+PRIMERA Reglamento de circulación y de señales para líneas 
+no equipadas con el sistema europeo de seguridad del tren", 
+en la redacción vigorosa en el momento del suceso
+reglamento interno ČD Ž 9
+reglamento interno del explotador de la vía SŽ, "ČD Ž 9 
+PLATAFORMA FERROVIARIA HOJA MODELO DE LA PLATAFORMA 
+FERROVIARIA Topes", en la redacción vigorosa en el momento 
+del suceso
+
+## Página 10
+
+Reglamento interno SŽDC T121
+reglamento interno del gestor de la infraestructura SŽ, «SŽDC (ČSD)
+T121 REGLAMENTO DE MANTENIMIENTO DEL EQUIPO
+DE SEÑALIZACIÓN EXTERIOR»,
+en la versión vigente en el momento de producirse el MU
+Reglamento de estación de la est. Český Těšín
+reglamento interno del gestor de la infraestructura SŽ, «Reglamento de
+estación de la estación de ferrocarril Český Těšín»,
+en la versión vigente en el momento de producirse el MU
+Lista de trenes de la est. Český Těšín reglamento interno del gestor de la infraestructura SŽ, «Lista de
+trenes para el personal de la estación ŽST Český Těšín –
+estación de pasajeros», en la versión vigente en el momento de
+producirse el MU
+Reglamento interno ČD Ok 2
+reglamento interno del transportista ČD, «ČD Ok 2 REGLAMENTO DE
+FORMACIÓN Y EXÁMENES DE LOS FERROCARRILES CHECOS, A.S.
+Modificación n.º 2», en la versión vigente en el momento de la
+formación del maquinista del tren Os 12853 para adquirir los
+conocimientos, habilidades y procedimientos pertinentes
+para acreditar la ZOZ
+Reglamento interno ČD V 2
+reglamento interno del transportista ČD, «ČD V 2 Reglamento para
+las tripulaciones de locomotora», aprobado el 8. 1. 1998, con el
+n.º de expediente: 60796/97-O18, en vigor desde el 22. 4. 1998,
+en la versión vigente en el momento de producirse el MU
+Reglamento interno ČD V15/I
+reglamento interno del transportista ČD, «ČD V15/I Reglamento para
+la explotación y el servicio de los equipos de freno de los
+vehículos ferroviarios de vía», en la versión vigente en el momento
+de producirse el MU
+
+## Página 11
+
+## 2 INVESTIGACIÓN Y SUS RELACIONES
+### 2.1 Decisión de iniciar la investigación
+La DI decidió iniciar la investigación de la MU en cuestión el 8 de febrero de 2023.
+### 2.2 Fundamentación de la decisión de iniciar la investigación
+La DI decidió investigar la MU en cuestión en base a su gravedad, a su repetitividad, a los impactos de la MU en la explotación segura de la vía y del transporte ferroviario, y en base a la facultad derivada de la disposición § 53b de la ley núm. 266/1994 Sb.
+### 2.3 Alcance y limitaciones de la investigación, incluida la fundamentación correspondiente
+La DI no se encontró, en el marco de la investigación de la MU en cuestión, con limitaciones que influyeran negativamente en el modo y los procedimientos de la investigación.
+### 2.4 Descripción resumida de las capacidades técnicas y funciones del equipo de investigación
+Investigación de la DI en el lugar de la MU:
+3 inspectores de la ÚI Ostrava.
+Constitución del equipo de investigación:
+no fue necesario constituirlo.
+Colaboración externa:
+no se utilizó.
+2.5 Comunicación y consultas durante la investigación con las personas o entidades
+que participaron en el acontecimiento de que se trata
+En la investigación de las causas y circunstancias de la aparición de la MU, la DI se basó principalmente en sus propios conocimientos, hallazgos y en su propia documentación fotográfica. Durante la investigación, la DI solicitó posteriormente la documentación necesaria al explotador de la vía SŽ, al transportista ČD y a la PČR.
+La investigación de las causas y circunstancias de la aparición de la MU se realizó de conformidad con la ley núm. 266/1994 Sb. y con la ordenanza núm. 376/2006 Sb.
+### 2.6 Descripción del nivel de colaboración ofrecido por las entidades participantes
+El nivel de colaboración con los representantes de las entidades participantes en la MU fue estándar.
+### 2.7 Descripción de la investigación, los métodos y las técnicas utilizados para acreditar los hechos
+y los hallazgos consignados en el informe
+En el marco de la investigación de la MU, la DI procedió de la siguiente manera, y utilizó, entre otros, los siguientes métodos y técnicas:
+•
+inspección del lugar de la MU – de la infraestructura de la vía y del DV del tren Os 12853 en la estación Český Těšín (Czeski Cieszyn) (en adelante, estación Český Těšín);
+•
+participación en la inspección comisionada de los DV participantes;
+•
+análisis de la documentación solicitada al explotador de la vía SŽ, al transportista ČD y a la PČR;
+•
+análisis de los datos registrados por el SZZ de la estación Český Těšín;
+•
+análisis de los datos registrados por el RR instalado en el DV del tren Os 12853;
+
 ## Página 12
+
 
 •
 análisis de las declaraciones de los empleados implicados en el MU presentadas al empleador, a la PČR y a la DI;
@@ -183,8 +435,8 @@ Coordenadas GPS:
 49.7422856N, 18.6227033E
 [lugar de la colisión del tren Os 12853 con el dispositivo técnico de la vía (tope de vía)].
 
-
 ## Página 13
+
 
 ### 3.1.3 Descripción del lugar del suceso
 La est. Český Těšín se encuentra en la vía ferroviaria, categoría nacional, Mosty u Jablunkova frontera estatal – Chotěbuz, que en los tramos intermedios adyacentes era de doble vía y electrificada (electrificada) con sistema de tracción de corriente continua con alimentación de 3 kV.
@@ -203,28 +455,27 @@ Fuente: DI con utilización de la base cartográfica www.mapy.cz
 Del examen del lugar del MU se constató:
 El examen del lugar de origen del MU se realizó en sentido contrario a la marcha del tren Os 12853, es decir, desde la posición final del frontal del HDV CZ-ČD 95 54 5 814 187-1 (también 814.187-1) a 6,6 m por detrás de
 
-
 ## Página 14
 
-el nivel de la señal de paso Lc238 (km 137,920), respectivamente a 5,6 m por detrás del nivel del tope situado al final de la vía n.º 238 (km 137,921), en dirección hacia la señal principal (de entrada) (en adelante, señal de entrada) FL de la est. Český Těšín (km 136,607), habiendo sido examinado simultáneamente el DV del tren Os 12853. Posteriormente se realizó el examen del DK en el edificio tecnológico de la est. Český Těšín, y de los elementos interiores y exteriores del SZZ de la est. Český Těšín.
+del nivel de la señal de itinerario Lc238 (pk 137,920), respectivamente 5,6 m detrás del nivel del tope situado al final de la vía de servicio n.º 238 (pk 137,921), en dirección hacia la señal principal (de entrada) (en adelante, señal de entrada) FL de la estación de Český Těšín (pk 136,607), habiéndose examinado simultáneamente el DV del tren Os 12853. Posteriormente se realizó el examen del DK en el edificio tecnológico de la estación de Český Těšín, así como de los elementos interiores y exteriores del SZZ de la estación de Český Těšín.
 Estado de la infraestructura:
 •
-la ruta (de tren) (en adelante, ruta de tren) para el tren Os 12853 estaba establecida desde el TK Český Těšín – Hnojník desde la señal de entrada FL hasta la vía n.º 238, a través del desvío n.º 201 en dirección recta por la aguja, a través del PZ P8263 en el km 136,825, a través del desvío n.º 202 en dirección recta contra la aguja, hasta la vía n.º 236a, a través del desvío n.º 206 en dirección recta contra la aguja, hasta la vía n.º 236, alrededor de la señal de paso Lc236, a través del desvío n.º 207 en dirección recta por la aguja, a través del desvío n.º 208 contra la aguja en dirección de desvío a la derecha hasta la vía n.º 238, a través del PZ P8343 en el km 137,781, hasta la señal de paso Lc238 situada a la derecha directamente junto a la vía n.º 238 en el km 137,920, válida para dicha vía, ver más abajo;
+la vía de circulación (vía de tren) (en adelante, vía de tren) para el tren Os 12853 se estableció desde el TK Český Těšín – Hnojník desde la señal de entrada FL hasta la vía de servicio n.º 238, a través del desvío n.º 201 en dirección recta por la punta, a través del ŽP P8263 en pk 136,825, a través del desvío n.º 202 en dirección recta contra la punta, hasta la vía de servicio n.º 236a, a través del desvío n.º 206 en dirección recta contra la punta, hasta la vía de servicio n.º 236, junto a la señal de itinerario Lc236, a través del desvío n.º 207 en dirección recta por la punta, a través del desvío n.º 208 contra la punta en dirección de desvío a la derecha hasta la vía de servicio n.º 238, a través del ŽP P8343 en pk 137,781, hasta la señal de itinerario Lc238 situada a la derecha justo junto a la vía de servicio n.º 238 en pk 137,920, válida para esta vía de servicio, ver más abajo;
 •
-el desvío n.º 208 en el km 137,714 (determinante para la circulación del DV en dirección desde la est. Hnojník hacia la vía n.º 238 o hacia las vías n.º 6 y 8) era un desvío simple derecho de perfil J49 1:9-300 Pp sobre soportes de vía de hormigón (en adelante, traviesa). El desvío estaba equipado con un motor de cambio con cierre de lengüeta; en el examen, estaba cambiado para la circulación del DV en dirección de desvío a la derecha hacia/desde la vía n.º 238. El desvío no presentaba huellas de golpe en las agujas ni de cambio forzado;
+el desvío n.º 208 en pk 137,714 (determinante para la circulación del DV en dirección desde la estación de Hnojník hacia la vía de servicio n.º 238 o hacia las vías de servicio n.º 6 y 8) era un desvío simple a la derecha de forma J49 1:9-300 Pp sobre soportes de riel de hormigón (en adelante, traviesa). El desvío estaba equipado con un motor de maniobra con cierre de lengüetas; durante el examen se encontró accionado para la circulación del DV en dirección de desvío a la derecha hacia/desde la vía de servicio n.º 238. El desvío no presentaba huellas de golpe en las agujas ni de accionamiento forzado;
 •
-la vía n.º 238 tenía una longitud constructiva de 153,8 m (desde el punto de medida del desvío n.º 208 hasta el tope), una longitud útil de 128 m (desde la señal de paso Sc238 hasta la señal de paso Lc238) y estaba terminada en el km 137,921 por un tope de vías de perfil S49. La traviesa transversal anclada estaba anclada en el espacio entre la 1.ª y la 2.ª traviesa del tope de vía; tras la ocurrencia del MU, dicha traviesa permaneció anclada a la vía izquierda, girada en un ángulo de aprox. 45° a la izquierda y encajada bajo el HDV 814.187-1;
+la vía de servicio n.º 238 tenía una longitud constructiva de 153,8 m (desde el hito del desvío n.º 208 hasta el tope), una longitud útil de 128 m (desde la señal de itinerario Sc238 hasta la señal de itinerario Lc238) y estaba terminada en pk 137,921 por un tope de rieles de forma S49. La traviesa transversal anclada estaba anclada en el espacio entre la 1.ª y la 2.ª traviesa del tope de riel; tras la aparición del MU, esta traviesa permaneció anclada al riel izquierdo, girada en un ángulo de aprox. 45° a la izquierda y encastrada bajo el HDV 814.187-1;
 •
-la superestructura de la vía n.º 238 estaba formada por vías de ancho estándar de perfil S49, soldadas en vía continua, fijadas a traviesas de hormigón con abrazaderas ŽS 4 (fijación K). El lecho de balasto estaba formado por roca de cantera limpia de fracción 31,5/63 mm;
+la superestructura de la vía de servicio n.º 238 estaba formada por rieles de ancho estándar de forma S49, soldados en vía sin juntas, fijados a traviesas de hormigón con abrazaderas ŽS 4 (fijación K). El balasto estaba formado por piedra de cantera limpia de fracción 31,5/63 mm;
 •
-como consecuencia de la ocurrencia del MU, la superestructura de la vía n.º 238 resultó dañada y deformada direccionalmente, en el espacio situado delante del tope de la vía, habiendo sido desplazada la vía, incluidos los elementos de fijación y las traviesas, hacia la izquierda hasta 40 cm, a lo largo de 9,9 m. El tope quedó totalmente destruido, incluidos los marcos de apoyo del tope, la viga amortiguadora y ambos amortiguadores, cuando:
-◦el amortiguador izquierdo del tope fue arrancado en la colisión, lanzado y dividido en dos partes [cuerpo (funda) del amortiguador y cesta del amortiguador], cuando:
-▪el cuerpo (funda) del amortiguador se encontraba en la dirección de marcha del tren Os 12853 a una distancia de 30 m por detrás del tope y 21,5 m a la izquierda del eje de la vía n.º 238, es decir, junto al borde izquierdo del andén n.º 2. El cuerpo (funda), en el curso de su movimiento incontrolado, dañó el cesto de basura de acero inoxidable situado en el andén n.º 2.
-Nota DI: en el momento del examen, el cuerpo (funda) del amortiguador yacía en el andén n.º 2, desde donde fue retirado por miembros del JPO HZS SŽ por razones de seguridad,
-▪la cesta del amortiguador se encontraba en la dirección de marcha del tren Os 12853 a una distancia de 44,5 m por detrás del tope y 21 m a la izquierda del eje de la vía n.º 238, en el espacio situado entre la vía derecha de la vía n.º 2 y el borde izquierdo del andén n.º 2,
-
+como consecuencia de la aparición del MU, la superestructura de la vía de servicio n.º 238 resultó dañada y deformada direccionalmente, concretamente en el espacio situado delante del tope de la vía de servicio, habiendo sido desplazada la vía de servicio, incluidos los elementos de fijación y las traviesas, hacia la izquierda hasta 40 cm, a lo largo de 9,9 m. Quedó totalmente destruido el tope, incluidos los marcos de apoyo del tope, la viga amortiguadora y ambos amortiguadores, cuando:
+◦el amortiguador izquierdo del tope fue arrancado durante la colisión, lanzado y partido en dos partes [cuerpo (funda) del amortiguador y cesta del amortiguador], cuando:
+▪el cuerpo (funda) del amortiguador se encontraba en la dirección de circulación del tren Os 12853 a una distancia de 30 m detrás del tope y 21,5 m a la izquierda del eje de la vía de servicio n.º 238, junto al borde izquierdo del andén n.º 2. El cuerpo (funda), en el transcurso de su movimiento incontrolado, dañó el cubo de basura de acero inoxidable situado en el andén n.º 2.
+Nota DI: en el momento del examen, el cuerpo (funda) del amortiguador yacía en el andén n.º 2, desde donde fue retirado por miembros de los JPO HZS SŽ por motivos de seguridad,
+▪la cesta del amortiguador se encontraba en la dirección de circulación del tren Os 12853 a una distancia de 44,5 m detrás del tope y 21 m a la izquierda del eje de la vía de servicio n.º 238, en el espacio situado entre el riel derecho de la vía de servicio n.º 2 y el borde izquierdo del andén n.º 2,
 
 ## Página 15
+
 
 ◦el amortiguador derecho fue arrancado como consecuencia del suceso accidentológico y lanzado a la derecha contra la pared del edificio tecnológico de la est. Český Těšín, en el que, con su plato, abrió un agujero de aprox. 20 x 30 cm. El amortiguador se encontraba en la dirección de marcha del tren Os 12853 a una distancia de aprox. 2 m por delante del frontal del HDV 814.187-1 en el andén n.º 5,
 ◦la dispersión principal de los anillos de acero procedentes de los amortiguadores dañados se detectó en el espacio del doble enclavamiento entre las vías n.º 6 y 8, en la dirección de marcha del tren Os 12853 a una distancia de 37,7 m por detrás del tope y 12 m a la izquierda del eje de la vía n.º 238. También resultó dañada la traviesa transversal anclada situada delante del tope;
@@ -249,6 +500,7 @@ en la ruta de tren para la entrada del tren Os 12853 en dirección desde la est.
 
 ## Página 16
 
+
 señal de vía Lc238. Se trataba de una señal del tipo AŽD 70, que por su construcción era una señal unipolar, de mástil, con cinco lámparas de señal con parasoles. La señal estaba marcada con una placa de identificación roja de forma rectangular, que contenía el texto blanco «FL», una banda de marcado con franjas rojas y blancas de igual longitud y una placa indicadora con el número 5, es decir, una placa rectangular negra colocada sobre el lado corto con borde blanco y con el número blanco «5». La señal no presentaba ningún daño.
 Las señales indicadas por la señal de entrada FL eran visibles a una distancia de 385 m,
 ◦señal de vía Lc236, situada en el pk 137,645, a la derecha justo junto al SC n.º 236, situada a 69 m antes de la aguja (decisiva) n.º 208 y a 275 m antes de la señal de vía Lc238. Se trataba de una señal del tipo AŽD 70, que por su construcción era una señal unipolar, de mástil, con cinco lámparas de señal con parasoles. La señal estaba marcada con una placa de identificación roja de forma rectangular, que contenía el texto blanco «Lc236» y una banda de marcado con franjas rojas y blancas, siendo las blancas de la mitad de longitud que las rojas, y una placa indicadora con el número 5, es decir, una placa rectangular negra colocada sobre el lado corto con borde blanco y con el número blanco «5». La señal no presentaba ningún daño.
@@ -264,8 +516,8 @@ el tren estaba formado por una unidad automotora circulando de forma independien
 •
 la persona que conducía el material rodante (en adelante, el maquinista) conducía el tren Os 12853, observaba la vía y las señales desde la cabina de conducción del MD 814.187-1, es decir, desde la cabina delantera del maquinista en el sentido de marcha del tren. En la cabina del maquinista se encontraba únicamente el maquinista. Del examen de la cabina y de la posición de conducción del MD no se constató
 
-
 ## Página 17
+
 
 nada que impidiera al maquinista, antes de la producción del MU, observar sin interferencias la vía, las señales y actuar conforme a los hechos constatados;
 •
@@ -293,8 +545,8 @@ en la posición de conducción del MD 814.187-1 se encontraba:
 ◦el conmutador del dispositivo de control de la vigilia del maquinista en posición «PROVOZ» (FUNCIONAMIENTO) – dispositivo de control de la vigilia del maquinista activado,
 ◦el conmutador de bloqueo del freno se encontraba en posición «0»,
 
-
 ## Página 18
+
 
 ◦el manómetro duplicado de presión del aire en el depósito de aire principal indicaba 0 bar y en el tubo principal también 0 bar,
 ◦el manómetro de presión del aire en los cilindros de freno indicaba 2 bar,
@@ -324,8 +576,8 @@ como consecuencia del MU, ambos vehículos del tren resultaron dañados. Se cons
 ▪la transmisión del freno de mano,
 ▪el cristal de la ventana frontal de la cabina del maquinista,
 
-
 ## Página 19
+
 
 ▪la pintura del flanco,
 ▪la caja de baterías,
@@ -357,30 +609,30 @@ En el lugar del MU no se estaban realizando, inmediatamente antes de su producci
 
 ## Página 20
 
-### 3.1.4 Muertes, lesiones y daños materiales
-En el MU no se produjeron daños a la salud de los empleados del gestor de la vía, del transportista, de personas en relación contractual, ni de pasajeros ni de terceros.
+### 3.1.4 Muertos, heridos y daños materiales
+En el MU no se produjeron daños a la salud de los empleados del gestor de la vía, del transportista, de las personas en relación contractual, ni tampoco de los pasajeros y terceras personas.
 El gestor de la vía y el transportista cuantificaron los daños en:
 •
-HDV (tren Os 12853)
+Material motor (tren Os 12853)
 3 398 000 Kč;*)
 •
-ŘDV (tren Os 12853)
+Material remolcado (tren Os 12853)
 69 500 Kč*)
 •
 instalaciones de la vía
 800 000 Kč*)
-### En el MU, el daño causado en el DV y en los componentes de la vía se cuantificó en un total de 
+### En el MU, los daños causados en el material rodante y en los componentes de la vía se cuantificaron en un total de 
 ### 4 267 500 Kč. *)
-*) La cuantía del daño a la fecha de publicación del ZZ no era definitiva.
-No se produjeron daños al medio ambiente, a las cosas transportadas, al equipaje ni a otros bienes.
+*) La cuantía de los daños a la fecha de publicación del ZZ no era definitiva.
+No se produjeron daños al medio ambiente, a las mercancías transportadas, al equipaje ni a otros bienes.
 ### 3.1.5 Descripción de otras consecuencias, incluido el impacto del suceso en las actividades regulares de los sujetos participantes
-Como consecuencia de la ocurrencia del MU, desde las 23:51 h del 7. 2. 2023 hasta las 12:00 h del 1. 3. 2023 se suspendió (interrumpió) la explotación de la vía y del transporte ferroviario en la SK n.º 238 de la est. Český Těšín.
-Debido a la retirada de escombros tras la ocurrencia del MU, en la est. Český Těšín, desde las 23:51 h del 7. 2. 2023 hasta las 0:57 h del día siguiente, también se vio limitada la circulación en la SK n.º 0 y 2.
+Como consecuencia de la producción del MU, desde las 23:51 h del 7. 2. 2023 hasta las 12:00 h del 1. 3. 2023 se suspendió (interrumpió) la explotación de la vía y del tráfico ferroviario en la SK n.º 238 de la est. Český Těšín.
+Debido a la retirada de escombros tras la producción del MU, en la est. Český Těšín, desde las 23:51 h del 7. 2. 2023 hasta las 0:57 h del día siguiente, también se vio limitada la circulación en la SK n.º 0 y 2.
 ### 3.1.6 Identificación de las personas, sus funciones y los sujetos participantes
 Personas participantes por:
 Gestor de la vía (SŽ):
 •
-despachante de vía – despachante director (en adelante, despachante directora) 2H CDP Přerov, empleada de SŽ.
+jefe de sección – despachador director (en adelante, despachadora directora) 2H CDP Přerov, empleada de SŽ.
 Transportista (ČD):
 •
 maquinista del tren Os 12853, empleado de ČD.
@@ -390,12 +642,13 @@ jefe de maniobras de guardia de la est. Český Těšín, empleada de SŽ;
 •
 jefe de servicio del tren (en adelante, jefe de tren) Os 12853, empleada de ČD;
 •
-6 maquinistas que supervisaron al maquinista del tren Os 12853 durante su formación en conducción para adquirir los conocimientos, habilidades y procedimientos detallados necesarios para acreditar la ZOZ para la conducción de DV de la categoría y tipo correspondientes (en adelante, maquinistas supervisores), con quienes, en el marco de la formación en conducción, simultáneamente realizó la familiarización con las condiciones de la vía en el tramo Frýdek-Místek – Český Těšín, respectivamente Český Těšín – Frýdek-Místek y en la est. Český Těšín;
+6 maquinistas que supervisaron al maquinista del tren Os 12853 durante su formación en conducción para adquirir los conocimientos, habilidades y procedimientos detallados necesarios para acreditar la ZOZ para la conducción de material rodante de la categoría y tipo correspondientes (en adelante, maquinista supervisor), con quienes, en el marco de la formación en conducción, simultáneamente realizó la familiarización con las condiciones de la vía en el tramo Frýdek-Místek – Český Těšín, respectivamente Český Těšín – Frýdek-Místek, y en la est. Český Těšín;
 •
-2 maquinistas con quienes el maquinista del tren Os 12853 realizó la familiarización con las condiciones de la vía (en adelante, maquinistas instructores) en el tramo Frýdek-Místek – Český Těšín, respectivamente Český Těšín – Frýdek-Místek y en la est. Český Těšín.
-
+2 maquinistas con quienes el maquinista del tren Os 12853 realizó la familiarización con las condiciones de la vía (en adelante, maquinista instructor) en el tramo Frýdek-Místek – Český Těšín, respectivamente Český Těšín – Frýdek-Místek, y en la est. Český Těšín.
 
 ## Página 21
+
+
 Sujetos participantes:
 El propietario de la vía ferroviaria, categoría nacional, Mosty u Jablunkova frontera estatal – Chotěbuz, y categoría regional, Český Těšín – Frýdek-Místek, era la República Checa.
 El derecho a administrar los bienes del Estado lo ejercía SŽ, con domicilio en Dlážděná 1003/7, Praha 1, PSČ 110 00.
@@ -425,8 +678,9 @@ El tren Os 12853 estaba formado por la unidad motora para el transporte regional
 El coche motor 814.187-1 estaba dividido en la cabina del maquinista con puesto de conducción orientado hacia el centro en la parte delantera del DV, el espacio de acceso delantero, la sala de pasajeros amplia y el espacio de acceso trasero, al que se unía el puente de enlace. La cabina y el ergonómicamente dispuesto puesto de maquinista en forma de «U» abierta permitían al maquinista observar sin interrupciones la vía y las señales y conducir el DV con facilidad.
 El ŘDV 914.187-0 estaba dividido (descrito en dirección desde el frontal trasero de la unidad motora) en la cabina del maquinista en la parte delantera del DV, el compartimento delantero de pasajeros, la sección de piso bajo con espacio de acceso y módulo de aseo, y el compartimento trasero de pasajeros, al que se unía el puente de enlace.
 
-
 ## Página 22
+
+
 Fig. n.º 2: Imagen ilustrativa de la composición del tren Os 12853 formada por la unidad motora «Regionova»
 Fuente: DI utilizando el dibujo de tipo de la empresa ŠKODA PARS, a. s.
 El HDV 814.187-1 del tren Os 12853 estaba equipado con el dispositivo de registro automático de datos – RR con registro electrónico de datos Unicontrols Tramex RE1xx, n.º 2024. De los datos registrados sobre la marcha del tren Os 12853 el 7. 2. 2023 en el tiempo desde la puesta en marcha en la est. Hnojník hasta la parada en la posición final tras la ocurrencia del MU, tras redondear los datos temporales a segundos completos, los datos de vía a metros completos, los datos de velocidad a décimas de km·h-1 y tras tener en cuenta las desviaciones temporales entre el tiempo registrado por el RR y el tiempo registrado por el SZZ de la est. Český Těšín, que se consideró como tiempo de referencia para las necesidades de la investigación de este MU, entre otros se desprende que:
@@ -452,8 +706,9 @@ el tren a una velocidad de 50 km·h-1 tenía su frontal en el espacio de la aguj
 a las 23:50:47 h
 En un tiempo inferior a 1 s se registró el inicio de la reducción de velocidad correspondiente a la marcha por arrastre. El tren a una velocidad de 49 km·h-1 se encontraba a una distancia de 165 m de la señal de vía Lc238;
 
-
 ## Página 23
+
+
 •
 el tren marchando por arrastre a una velocidad de 49 km·h-1 tenía su frontal en el lugar del comienzo de la visibilidad ininterrumpida de la señal «Alto» 
 a las 23:50:51 h
@@ -486,32 +741,64 @@ la SK n.º 238;
 
 Al mismo tiempo, RR registró:
 •
-la manipulación de la palanca del controlador de conducción, que fue causada por la colisión, en relación con la acción de la fuerza de inercia sobre el maquinista en la dirección de marcha del tren, que la cambió de la posición de frenado rápido a alguna de las posiciones de conducción,
+la manipulación de la palanca del controlador de conducción, que fue
+causada por la colisión, en relación con la acción de la fuerza de inercia
+sobre el maquinista en la dirección de la marcha del tren, que la cambió
+de la posición de frenado rápido a alguna de las posiciones de conducción,
 •
-el sentido de rodadura de las ruedas inverso, y ello a una velocidad de 19 km·h-1, que no estaba en concordancia con el sentido de marcha seleccionado.
-Nota DI: mediante el cálculo de la deceleración del tren hasta el momento de la colisión del tren con el tope, se obtuvo el valor de 1,481 m·s-2, que es superior al valor mínimo de deceleración de 1 m·s-2 establecido en el art. 9.2.2 de la ČSN EN 13452-1 para el «frenado de emergencia», a pesar de que el valor de deceleración del tren se vio afectado negativamente por el derrape del bogie ŘDV;
+el sentido de rodadura de las ruedas inverso, y ello a una velocidad de 19 km·h-1,
+que no estaba en concordancia con el sentido de marcha seleccionado.
+Nota DI: mediante el cálculo de la deceleración del tren hasta el momento de la colisión
+del tren con el tope de vía se obtuvo el valor de 1,481 m·s-2, que es superior al
+valor mínimo de deceleración de 1 m·s-2 establecido en el art. 9.2.2
+ČSN EN 13452-1 para el «frenado de emergencia», a pesar de que el valor de
+deceleración del tren se vio afectado negativamente por el derrape del bogie ŘDV;
 •
 a las 23:51:02 h
-el tren se detuvo en la posición final tras el MU;
+el tren se detuvo en la posición final tras la MU;
 •
-el dispositivo de control de vigilia del maquinista estaba activado y fue operado periódicamente por el maquinista durante todo el transcurso del mencionado viaje del tren Os 12853 (véase más arriba);
+el dispositivo de control de vigilia del maquinista estaba activado y fue utilizado periódicamente
+por el maquinista durante todo el
+transcurso de la marcha anterior del tren Os 12853 (véase más arriba);
 •
-la velocidad máxima permitida del tren Os 12853 no fue excedida en el tramo examinado.
-Para las necesidades de la investigación de este MU se realizó un análisis del frenado en servicio del tren Os 12853, frenado por el efecto del freno dinámico HDV y del freno neumático de ambos DV del tren, teniendo en cuenta el tiempo total de activación equivalente de 2,5 s en el frenado en servicio según el art. 9.2.2 de la ČSN EN 13452-1 y el correspondiente recálculo de los valores iniciales de velocidad y distancia, para la detención en:
+la velocidad máxima permitida del tren Os 12853 no fue superada
+en el tramo examinado.
+Para las necesidades de la investigación de esta MU se realizó un análisis del frenado
+operativo del tren Os 12853
+frenado con la acción del freno dinámico HDV y del freno neumático de ambos DV del tren, tras
+tener en cuenta el tiempo total de activación equivalente de 2,5 s en el frenado
+operativo según el art. 9.2.2
+ČSN EN 13452-1 y el recálculo correspondiente de los valores iniciales de velocidad y
+distancia, para la detención en:
 •
-la estación Dobrá u Frýdku-Místku, donde el tren, tras un previo frenado parcial, frenó desde una velocidad de 19,5 km·h-1 en una distancia de 35 m, en una pendiente del 5 ‰.
-Con una reducción media de la presión del aire en la tubería principal de 0,600 bar se alcanzó un valor medio de deceleración de 0,570 m·s-2;
+est. Dobrá u Frýdku-Místku, donde el tren, tras un previo frenado parcial, frenó desde una velocidad
+de 19,5 km·h-1 en una distancia de 35 m, en una pendiente del 5 ‰.
+Con una reducción media de la presión del aire en la tubería principal de 0,600 bar se
+alcanzó un valor medio de deceleración de 0,570 m·s-2;
 •
-la parada Dobratice pod Prašivou, donde el tren, tras un previo frenado parcial, frenó desde una velocidad de 37 km·h-1 en una distancia de 64 m, en una pendiente del 6 ‰.
-Con una reducción media de la presión del aire en la tubería principal de 0,681 bar se alcanzó un valor medio de deceleración de 0,822 m·s-2;
+en la parada Dobratice pod Prašivou, donde el tren, tras un previo frenado parcial, frenó
+desde una velocidad de 37 km·h-1 en una distancia de 64 m, en una pendiente del 6 ‰.
+Con una reducción media de la presión del aire en la tubería principal de 0,681 bar se
+alcanzó un valor medio de deceleración de 0,822 m·s-2;
 •
-la estación Hnojník, donde el tren frenó desde una velocidad de 36 km·h-1 en una distancia de 34 m, en una pendiente del 1,5 ‰.
-Con una reducción media de la presión del aire en la tubería principal de 0,424 bar se alcanzó un valor medio de deceleración de 0,465 m·s-2.
-Los valores de deceleración obtenidos en el frenado en servicio del tren antes de la aparición del MU no indican un efecto de frenado del tren incorrecto (insuficiente).
-Las funciones del dispositivo de freno de los DV del tren Os 12853 tras la aparición del MU fueron verificadas en el marco de la inspección comisionada de los DV mencionados, realizada en las instalaciones del Centro Regional de Mantenimiento Este, del Centro de Mantenimiento Bohumín. Debido a los daños en el HDV 814.187-1 producidos durante el suceso del accidente, se realizaron a iniciativa y en presencia de la DI, en el HDV 814.187-1, las modificaciones necesarias en la tubería principal y de suministro, y se desacopló la palanca de freno de los cilindros de freno de los bogies de un solo eje del HDV. Las modificaciones de las tuberías consistieron en la inserción de obturadores en las uniones antes del purgador de la tubería de suministro (por el lado del ŘDV 914.187-0) bajo el frontal trasero del HDV, y en el sellado de la tubería principal bajo la cabina del maquinista del
-
+est. Hnojník, donde el tren frenó desde una velocidad de 36 km·h-1 en una distancia de 34 m, en una pendiente del 1,5 ‰.
+Con una reducción media de la presión del aire en la tubería principal de 0,424 bar se
+alcanzó un valor medio de deceleración de 0,465 m·s-2.
+Los valores de deceleración obtenidos en el frenado operativo del tren antes de la
+producción de la MU no indican una acción de los frenos del tren incorrecta (insuficiente).
+Las funciones del dispositivo de freno de los DV del tren Os 12853 tras la producción de la MU
+fueron verificadas en el marco de la
+inspección comisionada de los DV en cuestión, realizada en las instalaciones del Centro
+Regional de Mantenimiento Este, del Centro de Mantenimiento Bohumín. Debido a los daños en el
+HDV 814.187-1 producidos durante el suceso del accidente, se realizaron a iniciativa y en
+presencia del DI sobre el HDV 814.187-1 las modificaciones necesarias en la tubería principal y de
+alimentación, y se desconectó la palanca de freno de los cilindros de freno de los bogies de un
+eje del HDV. Las modificaciones de la tubería consistieron en la inserción de
+tapones en las conexiones antes del purgador de la tubería de alimentación (por el lado del ŘDV 914.187-0)
+bajo el frontal trasero del HDV y en el sellado de la tubería principal bajo la cabina del maquinista
 
 ## Página 25
+
 
 HDV. El aire comprimido se introdujo en la tubería de suministro desde una fuente externa, a través de los acoplamientos de presión de la tubería de suministro del ŘDV 914.187-0. En el marco de la verificación de la función del freno directo del HDV y del freno automático continuo de aire del HDV y del ŘDV (unidad de motor) controlado desde la cabina del maquinista del HDV 814.187-1, precedió a la realización de la prueba de estanqueidad de la tubería principal. El frenado y el desfrenado se controlaron en el HDV en el manómetro de presión del aire del cilindro de freno en la cabina del maquinista y mediante la verificación de la extensión, respectivamente, la retracción de los pistones dentro y fuera de los cilindros de freno. En el ŘDV, el frenado y el desfrenado se controlaron mediante el acoplamiento y el desacoplamiento de las zapatas de freno con las superficies de rodadura de los bogies. Mediante la verificación de la función del freno directo y del freno automático continuo de aire del HDV 814.187-1 y del freno automático continuo de aire del ŘDV 914.187-0, controlado desde el HDV 814.187-1, no se detectaron deficiencias, los frenos estaban en buen estado.
 ### 3.1.8 Descripción de las partes correspondientes de la infraestructura y del sistema de seguridad
@@ -522,8 +809,9 @@ La SK n.º 238 descendía con una pendiente de hasta 5,19 ‰ y discurría en un
 En el momento de la aparición del MU, el SZZ de la estación Český Těšín era operado en remoto desde el CDP Přerov. La actividad del SZZ y los estados actuales del SZZ controlado desde el JOP se mostraban al empleado operador en los monitores con el esquema de la vía.
 En el ámbito de la estación Český Těšín, en el área previa de Frýdek, desde la baliza de entrada FL hasta la baliza de paso Lc238, incluidos los movimientos de DV por la SK n.º 236b hasta el ámbito de la estación de pasajeros, la libertad de los tramos de vía y de agujas se comprobaba mediante contadores de ejes.
 
-
 ## Página 26
+
+
 Del análisis de los datos registrados el 7 de febrero de 2023 por el ordenador tecnológico 1 del SZZ de la estación Český Těšín, que contenían, entre otros, las acciones realizadas por el empleado operador – la despachadora de control 2H del CDP Přerov, se desprende, entre otros:
 •
 a las 23:34:52 h mediante la operación normal del SZZ de la estación Český Těšín se introdujeron las acciones para la circulación del tren Os 12853, desde el TK Český Těšín – Hnojník desde la baliza de entrada FL, a través de las agujas n.º 201, 202, la SK n.º 236a y la aguja n.º 206, a la SK n.º 236 y simultáneamente desde la SK n.º 236 desde la baliza de paso Lc236 a través de las agujas n.º 207 y 208 a la SK n.º 238;
@@ -553,47 +841,46 @@ de los datos registrados se desprende claramente que la baliza de paso Lc238 emi
 •
 de los datos registrados no se puede determinar de forma inequívoca el momento concreto (exacto) en que se produjo la circulación no autorizada del tren Os 12853 más allá del nivel de la baliza de paso Lc238, que
 
-
 ## Página 27
 
-emitía la señal «Alto»;
+la señal indicaba la indicación «Alto»;
 •
-el puesto de operación se mostraba en color rojo en los momentos analizados, es decir, desde las 21:36:09 h hasta las 21:52:05 h y desde las 23:34:52 h hasta las 23:50:56 h, lo que significa que el puesto de operación estaba en modo de control desde otro puesto (desde otro nivel) – en remoto desde el CDP Přerov;
+el puesto de mando se mostraba en color rojo en las horas analizadas, es decir, en el periodo desde las 21:36:09 h hasta las 21:52:05 h y desde las 23:34:52 h hasta las 23:50:56 h, lo que significa que el puesto de mando estaba en modo de control desde otro puesto (desde otro nivel) – a distancia desde el CDP Přerov;
 •
-el SZZ de la estación Český Těšín presentaba en el momento de la aparición del MU un funcionamiento normal, es decir, un estado sin averías.
-### 3.1.9 Cualquier otra información relevante a efectos de la descripción del suceso y de la información básica
-Resumen de las explicaciones facilitadas por los empleados del gestor de la vía y del transportista, incluidas las personas con relación contractual:
+el SZZ de la estación de Český Těšín mostraba en el momento de la aparición de la MU un funcionamiento normal, es decir, un estado sin averías.
+### 3.1.9 Cualquier otra información relevante para los fines de la descripción del suceso y de la información básica
+Resumen de las explicaciones presentadas por los empleados del gestor de la infraestructura y del transportista, incluidas las personas en relación contractual:
 •
-la despachadora de control 2H del CDP Přerov
-  – Acta con el empleado y Registro de la explicación facilitada DI:
-◦el 7 de febrero de 2023 acudió al desempeño de su trabajo (turno nocturno) en el puesto de despachadora de control 2H del CDP Přerov plenamente descansada,
-◦en el turno nocturno dirigió y organizó el tráfico ferroviario en el tramo Český Těšín – Karviná hl. n., el turno hasta la aparición del MU mencionado transcurrió sin incidencias,
-◦durante la prestación del servicio de tráfico disponía de los documentos del gestor de la vía SŽ, a saber, la Lista de trenes de la estación Český Těšín y las Instrucciones para la prestación del servicio de tráfico de la estación Český Těšín, indicando que en el ZDD se había asignado para la entrada del tren Os 12853 la vía – SK n.º 6,
-◦a las 23:36 h partió de la estación Hnojník hacia la estación Český Těšín el tren Os 12853, que entra regularmente en la estación Český Těšín por la SK n.º 238, donde los DV del tren se conectan al poste eléctrico de precalefacción, hasta que, antes de la salida del tren Os 12800, se reubiquen mediante maniobra a la vía de salida, normalmente a la SK n.º 6.
+la jefa de despacho 2H del CDP Přerov
+  – Acta con el empleado y Registro de la explicación presentada DI:
+◦el 7 de febrero de 2023 se incorporó al desempeño de su trabajo (turno de noche) en el puesto de jefa de despacho 2H del CDP Přerov debidamente descansada,
+◦durante el turno de noche dirigió y organizó el transporte ferroviario en el tramo Český Těšín – Karviná hl. n., el turno hasta la aparición de la MU en cuestión transcurrió sin incidencias,
+◦durante el desempeño del servicio de transporte tuvo a su disposición los documentos del gestor de la infraestructura SŽ, a saber, la Lista de trenes de la estación de Český Těšín y las Instrucciones para el desempeño del servicio de transporte de la estación de Český Těšín, indicando que en el ZDD se había asignado para la entrada del tren Os 12853 la vía – SK n.º 6,
+◦a las 23:36 h partió de la estación de Hnojník hacia la estación de Český Těšín el tren Os 12853, que entra regularmente en la estación de Český Těšín en la SK n.º 238, donde los DV del tren se conectan al soporte eléctrico de precalentamiento, hasta que, antes de la salida del tren Os 12800, se reubica mediante maniobras a la vía de salida, normalmente a la SK n.º 6.
 Nota DI: véase el punto 3.1.8 de esta ZZ,
-◦mediante la operación normal del SZZ de la estación Český Těšín estableció la ruta ferroviaria de entrada para el tren Os 12853 desde el TK Český Těšín – Hnojník desde la baliza de entrada FL de la estación Český Těšín a través de las SK n.º 236a y 236, pasando por la baliza de paso Lc236, a la SK n.º 238 hasta la baliza de paso Lc238.
-Según su declaración, el motivo de establecer la ruta ferroviaria para el tren Os 12853 en la SK n.º 238 fue el hecho de que «este tren nocturno tardío que finaliza, cuya composición constituye la vuelta para el primer tren de la mañana a Frýdku-Místku, me supondría durante gran parte del turno, con su estacionamiento en la SK n.º 6 de paso, una carga en la resolución de situaciones de tráfico (establecimiento de rutas ferroviarias) al organizar la circulación de los demás trenes de pasajeros y de mercancías», lo que estuvo influido también por el conocimiento de que en dicha SK se entra regularmente con el tren Os 12853, según su declaración, «ya desde hace unos 20 años, …», y también en la actualidad,
-◦al organizar y dirigir el tráfico ferroviario en la estación Český Těšín no se atuvo a las Instrucciones para la prestación del servicio de tráfico de la estación Český Těšín y no asignó para la entrada del tren Os 12853 la SK n.º 6 de entrada, porque tras finalizar la circulación del tren en dicha SK habría tenido que reubicar mediante maniobra los DV de dicho tren desde la SK n.º 6 a la SK n.º 238. Al respecto indicó, entre otros, que «En mi opinión no hay motivo para ello, porque la SK n.º 238 es
+◦mediante el servicio normal, el SZZ de la estación de Český Těšín estableció la ruta de entrada para el tren Os 12853 desde el TK Český Těšín – Hnojník desde la señal de entrada FL de la estación de Český Těšín a través de la SK n.º 236a y 236, junto a la señal de ruta Lc236, a la SK n.º 238 hasta la señal de ruta Lc238. 
+El motivo de establecer la ruta para el tren Os 12853 en la SK n.º 238 fue, según su declaración, el hecho de que «este tren nocturno tardío que finaliza, cuya composición constituye la vuelta para el primer tren de la mañana a Frýdek-Místek, me habría supuesto durante una parte considerable del turno, con su estacionamiento en la SK de paso n.º 6, una carga en la resolución de situaciones de tráfico (establecimiento de rutas) a la hora de organizar la circulación de los demás trenes de transporte de viajeros y de mercancías», declaración que estuvo influenciada también por el conocimiento de que en la SK en cuestión se entra con el tren Os 12853 regularmente, según su declaración, «ya hace unos 20 años, …», e incluso en la actualidad,
+◦al organizar y dirigir el transporte ferroviario en la estación de Český Těšín no se atenúó a las Instrucciones para el desempeño del servicio de transporte de la estación de Český Těšín y no asignó para la entrada del tren Os 12853 la SK de entrada n.º 6, porque tras finalizar la circulación del tren en dicha SK habría tenido que reubicar los DV de dicho tren desde la SK n.º 6 mediante maniobras a la SK n.º 238. Al respecto, entre otras cosas, indicó que «En mi opinión no hay motivo para ello, porque la SK n.º 238 es
 
 ## Página 28
 
-de tráfico y según el Reglamento de Estación de la estación de Český Těšín, la vía de entrada y la vía de salida para trenes desde o hacia Hnojník.",
-◦ tras un momento, cuando el tren Os 12853 entró en la vía de enlace n.º 238 de la estación de Český Těšín, fue informada a través de la conexión GSM-R por el maquinista del tren Os 12853 de que no había logrado frenar el tren, había sufrido un derrape y había embestido el tope de vía al final de la vía de enlace n.º 238. Posteriormente, el maquinista le informó de que no había habido lesiones personales, de que tanto el tope de vía como el tren estaban considerablemente dañados y de que el tren se había descarrilado,
-◦ a continuación, recabó más información relativa a la mencionada MU y comunicó su aparición según el horario de comunicaciones de la sala n.º 8 del CDP Přerov;
+de vías de tráfico y según el Reglamento de Estación de la estación de Český Těšín, vía de entrada y vía de salida para trenes desde o hacia Hnojník.",
+◦poco después, cuando el tren Os 12853 entró en la vía de enlace (SK) n.º 238 de la estación de Český Těšín, fue informada a través de la conexión GSM-R por el maquinista del tren Os 12853 de que no había logrado frenar el tren, había sufrido un derrape y había embestido el tope de vía al final de la SK n.º 238. Posteriormente, el maquinista le informó de que no había habido lesiones personales, de que tanto el tope de vía como el tren estaban considerablemente dañados y de que el tren se había descarrilado,
+◦posteriormente, obtuvo más información relativa a la MU (materia no rodante) en cuestión y comunicó su aparición según el horario de comunicaciones de la sala n.º 8 del CDP de Přerov;
 •
- maquinista del tren Os 12853
-  – Acta con el empleado, Registros oficiales de la Policía Nacional y Registro de declaración prestada ante el DI:
-◦ desde septiembre de 2021 estuvo empleado por el operador ČD como maquinista en preparación. En mayo de 2022 realizó el ZOZ y, a continuación, comenzó a ejercer la función de maquinista.
-Nota del DI: el ZOZ lo realizó en realidad el 29. 4. 2022, véase el punto 4.3.1 de la presente ZZ,
-◦ antes de incorporarse al servicio (turno nocturno) el 7. 2. 2023 a las 17:36 h en Frýdek-Místek, había tenido un descanso ininterrumpido de 23 h. La noche anterior al comienzo del servicio la pasó en su domicilio en la cama, durmió mucho también por la mañana. Por la tarde no se acostó, ya que se sentía descansado, y habitualmente lo hace así. Se incorporó al servicio (turno) descansado,
-◦ la conducción de la unidad motorizada 814.187-1/914.187-0 asignada al tren Os 12853 la recibió en el eje en la vía de enlace n.º 5 de la estación de Frýdek-Místek, donde había sido estacionada desde el espacio de vías del antiguo depósito de locomotoras de Frýdek-Místek. En el DV de la unidad no había ninguna avería, la prueba de freno fue realizada por el maquinista que había estacionado la unidad motorizada en la estación de Frýdek-Místek. La realización de la prueba de freno quedó anotada en el Libro de entrega de la unidad motriz con el texto "en orden",
-◦ tras la expedición del tren y la recepción de la señal "Autorización para la salida" dada por el jefe de tren del tren Os 12853, cerró las puertas de acceso de cierre centralizado de la unidad motorizada y a las 23:12 h puso el tren en marcha,
-◦ al frenar para detener el tren Os 12853 en la estación de Hnojník, tuvo la sensación de que el efecto de frenado del tren era menor de lo habitual, debido a la necesidad de una mayor reducción de la presión de aire en la tubería principal para alcanzar el efecto de frenado deseado.
-Nota del DI: al frenar para detener el tren en la estación indicada, el maquinista frenó desde una velocidad de 36 km·h-1, en una distancia de 34 m, en una pendiente de 1,5 ‰, con una reducción media de la presión de aire en la tubería principal de 0,424 bar. Con el frenado se alcanzó un valor medio de deceleración de 0,465 m·s-2, véase el punto 3.1.7 de la presente ZZ.
-
-Su sensación de un efecto de frenado incorrecto (insuficiente) del tren fue, según su declaración: "… dudas, mi sensación, pero no estoy del todo seguro de esa sensación. Esta mi sensación no era una duda sobre el correcto funcionamiento del freno del tren.". A la pregunta del DI sobre qué hizo con dicha sensación tras detener el tren en la estación de Hnojník, respondió: "Simplemente tuve que reducir más la presión en la tubería principal. Sabía que las condiciones de adherencia estaban deterioradas y que tenía que frenar antes. Es decir, mi sensación de un menor efecto de frenado del tren se debió a las condiciones de adherencia deterioradas. No observé ninguna avería en el funcionamiento del freno.",
+maquinista del tren Os 12853
+  – Acta con el empleado, Registros oficiales de la Policía (PČR) y Registro de declaración prestada ante el DI:
+◦desde septiembre de 2021 estuvo empleado por el operador ČD como maquinista en formación. En mayo de 2022 realizó el ZOZ, a continuación comenzó a ejercer la función de maquinista.
+Nota del DI: el ZOZ fue realizado en realidad el 29. 4. 2022, véase el punto 4.3.1 de la presente ZZ,
+◦antes de incorporarse al trabajo (turno nocturno) el 7. 2. 2023 a las 17:36 h en Frýdek-Místek, había tenido un descanso ininterrumpido de 23 h. La noche anterior al comienzo del trabajo la pasó en su domicilio en la cama, durmió mucho también por la mañana. Por la tarde no se acostó, ya que se sentía descansado, habitualmente lo hace así. Se incorporó al trabajo (turno) descansado,
+◦la conducción de la unidad motorizada 814.187-1/914.187-0 asignada al tren Os 12853 la recibió en la vía en la SK n.º 5 de la estación de Frýdek-Místek, donde fue dispuesta desde el espacio de vías del antiguo depósito de locomotoras de Frýdek-Místek. En el DV (diario de a bordo) de la unidad no había ninguna avería, la prueba de freno fue realizada por el maquinista que le había dispuesto la unidad motorizada en la estación de Frýdek-Místek. La realización de la prueba de freno quedó anotada en el Libro de entrega de la unidad motriz con el texto "v pořádku" (correcto),
+◦tras la expedición del tren y la recepción de la señal "Autorización para la salida" dada por el jefe de tren del tren Os 12853, cerró las puertas de acceso de cierre centralizado de la unidad motorizada y a las 23:12 h puso el tren en marcha,
+◦al frenar para detener el tren Os 12853 en la estación de Hnojník, tuvo la sensación de que el efecto de frenado del freno del tren era menor de lo habitual, debido a la necesidad de una mayor reducción de la presión del aire en la tubería principal para alcanzar el efecto de frenado deseado.
+Nota del DI: al frenar para detener el tren en la estación indicada, el maquinista frenó desde una velocidad de 36 km·h-1, en una distancia de 34 m, en una pendiente de 1,5 ‰, con una reducción media de la presión del aire en la tubería principal de 0,424 bar. Con el frenado se alcanzó un valor medio de deceleración de 0,465 m·s-2, véase el punto 3.1.7 de la presente ZZ.
+Su sensación de un efecto de frenado incorrecto (insuficiente) del tren fue, según su declaración: "… dudas, mi sensación, pero no estoy del todo seguro de esa sensación. Esta mi sensación no era una duda sobre el correcto funcionamiento del freno del tren.". A la pregunta del DI sobre qué hizo con dicha sensación tras detener el tren en la estación de Hnojník, declaró: "Simplemente tuve que reducir más la presión en la tubería principal. Sabía que las condiciones de adherencia estaban deterioradas y que tenía que frenar antes. Es decir, mi sensación de un menor efecto de frenado del freno del tren se debió a las condiciones de adherencia deterioradas. No observé ninguna avería en el funcionamiento del freno.",
 
 ## Página 29
+
 
 ◦ por la señal de entrada FL de la estación de Český Těšín se indicó la señal "Aviso", que no prohibía la circulación del tren. En la siguiente señal principal, según su declaración: "… mostraba velocidad 50 km/h, y repetición, señal aviso.".
 Nota del DI: se trataba de la señal de camino Lc236, que indicaba la señal "Velocidad 40 km/h y repetición de la señal Aviso", que estaba marcada con una placa indicadora con el número 5,
@@ -612,6 +899,7 @@ A continuación, aplicó el frenado con el freno de acción directa del HDV, seg
 
 ## Página 30
 
+
 ◦ tras detenerse, abandonó inmediatamente la cabina del maquinista del HDV y corrió al espacio para pasajeros para comprobar el estado de los pasajeros y de la jefa de tren,
 ◦ la jefa de tren del tren Os 12853 le comunicó que estaba bien y que no había sufrido lesiones. En el espacio para pasajeros se encontraba 1 pasajero, que le comunicó que también estaba bien y sin lesiones. El pasajero posteriormente bajó del tren y se marchó,
 ◦ comunicó la aparición de la MU a través de la radio de a bordo a la despachadora de control 2H del CDP Přerov y a través del teléfono móvil de servicio al jefe de taller del Puesto de Explotación de Bohumín,
@@ -624,6 +912,7 @@ Nota del DI: la vía de tren para el tren Os 12853 terminaba en la señal de cam
 Nota del DI: el conocimiento de las condiciones de la vía en el tramo Frýdek-Místek – Český Těšín, o Český Těšín – Frýdek-Místek, incluida la estación de Český Těšín, al operador
 
 ## Página 31
+
 
 lo confirmó con su firma el 5 de diciembre de 2022 en la Ficha de conocimientos de la línea. Dicho reconocimiento lo realizó recorriendo la línea correspondiente en ambos sentidos un total de 21 veces de día y 1 vez de noche, y además en el sentido Frýdek-Místek – Český Těšín recorriendo 4 veces de día, de las cuales 1 vez realizó la entrada a la est. Český Těšín de noche, y en el sentido Český Těšín – Frýdek-Místek recorriendo 4 veces de noche, de las cuales 1 vez realizó la salida de la est. Český Těšín todavía de día, ver punto 4.3.1 de esta ZZ,
 ◦durante la formación práctica ni durante el reconocimiento (conocimiento) realizado de forma independiente de las condiciones de la línea en la est. Český Těšín y en el tramo Frýdek-Místek – Český Těšín, respectivamente Český Těšín – Frýdek-Místek, no se le informó en la est. Český Těšín de la posibilidad de realizar la entrada con un tren procedente de la est. Hnojník en la vía SK n.º 238, a pesar de que se le había informado del Reglamento de estación de la est. Český Těšín.
@@ -644,83 +933,86 @@ jefe de maniobras de guardia de la est. Český Těšín
 ◦el 7 de febrero de 2023 a las 17:50 h entró en el turno de noche en el puesto de jefe de maniobras de guardia de la est. Český Těšín,
 ◦el turno de noche transcurrió de la manera habitual. En el horario de las 20:10 h a las 21:10 h asumió del CDP Přerov la explotación a distancia (tramo Český Těšín, ámbito de la estación de pasajeros, est. Chotěbuz, Louky nad Olší y Karviná hl. n.) desde el PPV en la est. Český
 
-
 ## Página 32
 
-Těšín. Tras devolver la explotación a distancia al CDP Přerov a la despachadora de control 2H del CDP Přerov, se dedicó al trabajo con órdenes escritas,
-◦aproximadamente 15 minutos antes de la llegada regular del tren Os 12853, se estableció desde el CDP Přerov la ruta de entrada para el tren en cuestión desde el TK Český Těšín – Hnojník desde la señal de entrada FL, pasando por la vía SK n.º 236, hasta la vía SK n.º 238, donde la composición del tren se aparca regularmente por la noche,
-◦no siguió la circulación del tren Os 12853. Posteriormente oyó desde fuera un gran estruendo, acompañado de un destello, y todo el edificio tecnológico tembló. En el DK se apagó la iluminación y se encendió la iluminación de emergencia. Simultáneamente dejaron de funcionar los teléfonos, el terminal táctil, las conexiones de datos y se produjo un corte de suministro eléctrico. Únicamente el dispositivo de seguridad permaneció en funcionamiento y operativo,
-◦tras mirar por la ventana, comprobó que el tren Os 12853 en la vía SK n.º 238 de la est. Český Těšín había pasado más allá del nivel de la señal de viaje Lc238 y había chocado contra el tope de vía,
-◦cogió el teléfono móvil de servicio y salió corriendo del edificio hacia el tren Os 12853, donde el conductor y el jefe de tren del tren le comunicaron que nadie había sufrido daños en su salud,
-◦comunicó la aparición del MU por teléfono móvil de servicio a la despachadora de control 2H del CDP Přerov, quien le respondió que ya le había llamado el conductor del tren Os 12853 y que la MU ya se estaba notificando según el calendario de notificaciones del CDP Přerov,
-◦junto con el conductor del tren Os 12853, verificaron si se había producido una fuga de sustancias ecológicamente peligrosas;
+Těšín. Tras la devolución del servicio de larga distancia de vuelta al CDP Přerov, la despachadora de control 2H del CDP Přerov se dedicó a trabajar con órdenes escritas,
+◦aproximadamente 15 minutos antes de la llegada regular del tren Os 12853, se estableció desde el CDP Přerov la ruta de tren de entrada para el tren en cuestión desde TK Český Těšín – Hnojník desde la señal de entrada FL, pasando por SK n.º 236, hasta SK n.º 238, donde la composición del tren se aparca regularmente por la noche,
+◦no siguió la circulación del tren Os 12853. Posteriormente oyó desde fuera un gran estruendo, acompañado de un destello; toda la edificación tecnológica tembló. En DK se apagó la iluminación y se encendió la iluminación de emergencia. Al mismo tiempo dejaron de funcionar los teléfonos, la terminal táctil, las conexiones de datos y se produjo un corte de suministro eléctrico. Únicamente quedó en funcionamiento y en condiciones el dispositivo de seguridad,
+◦tras mirar por la ventana, comprobó que el tren Os 12853 en SK n.º 238 de la est. Český Těšín había pasado más allá del nivel de la señal de circulación Lc238 y había chocado contra el tope de vía,
+◦tomó el teléfono móvil profesional y salió corriendo del edificio hacia el tren Os 12853, donde el maquinista y el jefe de tren del tren le comunicaron que nadie había sufrido daños en su salud,
+◦comunicó el suceso MU por teléfono móvil profesional a la despachadora de control 2H del CDP Přerov, la cual le respondió que ya le había llamado el maquinista del tren Os 12853 y que el MU ya surgido lo estaban comunicando según el horario de comunicaciones del CDP Přerov,
+◦junto con el maquinista del tren Os 12853, verificaron si se había producido una fuga de sustancias ecológicamente peligrosas;
 •
 jefe de tren del tren Os 12853
-  – Acta con el empleado:
-◦el 7 de febrero de 2023 acompañó al tren Os 12853 desde la est. Frýdek-Místek hasta la est. Český Těšín, la circulación del tren transcurrió sin incidencias hasta la aparición del MU,
-◦desde Frýdek-Místek viajaron 3 pasajeros en el tren, de los cuales 2 se bajaron en la parada Horní Tošanovice, 1 pasajero continuó hasta la est. Český Těšín,
-◦las paradas Střítež u Českého Těšína, Ropice-Zálesí (Ropica-Zalesie) y Ropice (Ropica) eran paradas a demanda, en las que el tren no se detuvo. Después de la parada Ropice (Ropica) se sentó en el asiento a la izquierda justo detrás de la cabina del conductor del HDV 814.187-1,
+  – Registro con el empleado:
+◦el 7. 2. 2023 acompañó al tren Os 12853 desde la est. Frýdek-Místek hasta la est. Český Těšín; la circulación del tren se desarrolló sin incidencias hasta la producción del MU,
+◦desde Frýdek-Místek viajaron en el tren 3 pasajeros, de los cuales 2 se bajaron en la parada Horní Tošanovice, 1 pasajero continuó hasta la est. Český Těšín,
+◦las paradas Střítež u Českého Těšína, Ropice-Zálesí (Ropica-Zalesie) y Ropice (Ropica) eran paradas bajo demanda, en las que el tren no se detuvo. Después de la parada Ropice (Ropica), se sentó en el asiento a la izquierda justo detrás de la cabina del maquinista del HDV 814.187-1,
 ◦antes de detenerse en la est. Český Těšín quería levantarse y en ese momento sintió un golpe violento que la lanzó contra el reposabrazos del asiento,
-◦el conductor salió de la cabina del conductor del HDV 814.187-1 y preguntó si todos estaban bien. El pasajero indicó que estaba bien y quiso bajarse, tras lo cual, tras la apertura de emergencia de las puertas, se marchó.
+◦el maquinista salió de la cabina del maquinista del HDV 814.187-1 y preguntó si todos estaban bien. El pasajero comunicó que estaba bien y quiso bajarse, tras lo cual se marchó tras la apertura de emergencia de las puertas.
 •
-conductores supervisores
-  – Registros oficiales de las explicaciones facilitadas DI por los conductores con quienes el conductor del Os 12853 realizó el reconocimiento de las condiciones de la línea en el tramo Frýdek-Místek – Český Těšín, respectivamente Český Těšín – Frýdek-Místek, y en la est. Český Těšín, y que lo supervisaron durante su formación práctica, excepto un conductor que ejerció su derecho y se negó a facilitar explicaciones DI:
-◦debido al gran intervalo de tiempo transcurrido, no recuerdan información concreta relacionada con la cuestión de la entrada de trenes de pasajeros en la est. Český Těšín, en el sentido desde Frýdek-Místek, que facilitaron al conductor del tren Os 12853. Sin embargo, están completamente seguros de que no informaron al conductor del tren Os 12853 de que el último tren de pasajeros
-
+maquinista supervisor
+  – Registros oficiales de las explicaciones DI prestadas por los maquinistas con los que el maquinista del Os 12853 realizó la familiarización con las condiciones de la vía en el tramo Frýdek-Místek – Český Těšín, respectivamente Český Těšín – Frýdek-Místek, y en la est. Český Těšín, y que lo supervisaron durante su formación en circulación, con excepción de un maquinista que ejerció su derecho y se negó a prestar la explicación DI:
+◦debido al gran intervalo de tiempo transcurrido, no recuerdan información concreta relativa a la cuestión de la entrada de trenes de pasajeros en la est. Český Těšín, en el sentido desde Frýdek-Místek, que le facilitaron al maquinista del tren Os 12853. Sin embargo, están completamente seguros de que no informaron al maquinista del tren Os 12853 de que el último tren de pasajeros
 
 ## Página 33
 
-desde Frýdek-Místek entra en la est. Český Těšín en la vía SK n.º 6 u 8, desde la cual tendría que ser trasladado mediante maniobra de maniobras a la vía SK n.º 238, porque el último tren de pasajeros en la mayoría de los casos entra directamente en la vía SK n.º 238, donde se aparca. Simultáneamente debieron advertirle que a cualquier tren desde Frýdek-Místek se le puede establecer una ruta no solo a las vías SK n.º 6 y 8, sino también a la vía SK n.º 238, que también está equipada con borde de andén.
+desde Frýdek-Místek entra en la vía de estacionamiento (SK) n.º 6 u 8, desde la cual tendría que ser trasladado por maniobra de maniobras a la SK n.º 238, ya que el último tren de pasajeros en la mayoría de los casos entra directamente en la SK n.º 238, donde es estacionado. Al mismo tiempo, se debió haberle advertido que a cualquier tren desde Frýdek-Místek se le puede establecer una ruta de tren no solo a la SK n.º 6 y 8, sino también a la SK n.º 238, que también está equipada con borde de andén.
 •
-conductores encargados del reconocimiento
-  – Registros oficiales de las explicaciones facilitadas DI:
-◦debido al gran intervalo de tiempo transcurrido, no recuerdan información concreta relacionada con la cuestión de la entrada de trenes de pasajeros en la est. Český Těšín, en el sentido desde Frýdek-Místek, que facilitaron al conductor del tren Os 12853, quien con ellos realizó el reconocimiento de las condiciones de la línea en el tramo Frýdek-Místek – Český Těšín, respectivamente Český Těšín – Frýdek-Místek, y en la est. Český Těšín. Sin embargo, están seguros de que no informaron al conductor del tren Os 12853 de que el último tren de pasajeros desde Frýdek-Místek entra en la est. Český Těšín en la vía SK n.º 6 u 8, desde la cual tendría que ser trasladado mediante maniobra de maniobras a la vía SK n.º 238, porque el último tren de pasajeros en la mayoría de los casos entra directamente en la vía SK n.º 238, donde se aparca. Simultáneamente debieron advertir al conductor del tren Os 12853 de que con cualquier tren, es decir, no solo con el último tren, desde Frýdek-Místek puede entrar directamente en la vía SK n.º 238.
-De los datos registrados por el sistema de cámaras de la est. Český Těšín el 7 de febrero de 2023 en el horario de las 23:44:57 h a las 23:51:03 h, teniendo en cuenta la desviación temporal respecto al tiempo registrado por los ordenadores tecnológicos del SZZ de la est. Český Těšín, que se estableció como tiempo de referencia para las necesidades de la investigación de dicho MU, entre otros se deduce que:
-| • a las 23:49:26 h | en el encuadre de las cámaras, en la vía SK n.º 236a de la est. Český Těšín en el sentido desde la est. Hnojník hacia el ŽP P8343, se mostró a lo lejos una luz circular blanca que se aproximaba. Nota DI: se trataba del haz del proyector del HDV del tren Os 12853; |
-| • a las 23:49:49 h | el dispositivo de seguridad de paso a nivel ŽP P8343 se puso en estado de alerta con dos luces rojas intermitentes alternas – advertía de que se acercaba un tren al ŽP, en este caso concreto se trataba del tren Os 12853 circulando desde la est. Hnojník. 33 s después (a las 23:50:22 h) comenzaron a bajar las barreras del paso a nivel; |
-| • a las 23:50:34 h | entró en el encuadre de las cámaras en la vía SK n.º 236 desde la est. Hnojník la unidad automotriz de la serie 814 circulando de forma independiente, es decir, el tren Os 12853. El tren estaba señalizado con la señal "Inicio de tren" en la forma de tres luces blancas encendidas en forma de triángulo isósceles; |
-| • a las 23:50:40 h | el tren Os 12853 pasó con su frente el nivel de la señal de viaje Lc236; |
-| • a las 23:50:45 h | el tren Os 12853 se encontraba con su frente en el espacio del inicio de la aguja n.º 208; |
-| • a las 23:50:54 h | el tren Os 12853 se encontraba con su frente en el lugar del inicio del andén n.º 5 y antes de la señal de viaje Lc238; |
-| • a las 23:50:58 h | el tren Os 12853 entró íntegramente en el espacio junto al andén en la vía SK n.º 238; |
+maquinistas que realizaron la familiarización
+  – Registros oficiales de las explicaciones presentadas por el DI:
+◦debido al gran intervalo de tiempo transcurrido, no recuerdan información concreta relacionada con la cuestión de la entrada de trenes de pasajeros en la estación de Český Těšín, en dirección desde Frýdek-Místek, que proporcionaron al maquinista del tren Os 12853, que con ellos completó la familiarización con las condiciones de la vía en el tramo de vía Frýdek-Místek – Český Těšín, respectivamente Český Těšín – Frýdek-Místek, y en la estación de Český Těšín. Sin embargo, están seguros de que no informaron al maquinista del tren Os 12853 de que el último tren de pasajeros desde Frýdek-Místek entra en la estación de Český Těšín en la SK n.º 6 u 8, desde la cual tendría que ser trasladado por maniobra de maniobras a la SK n.º 238, ya que el último tren de pasajeros en la mayoría de los casos entra directamente en la SK n.º 238, donde es estacionado. Al mismo tiempo, debieron advertir al maquinista del tren Os 12853 de que con cualquier tren, es decir, no solo con el último tren, desde Frýdek-Místek puede entrar directamente en la SK n.º 238.
+De los datos registrados por el sistema de cámaras de la estación de Český Těšín el 7. 2. 2023 en el período de 23:44:57 h a 23:51:03 h, tras tener en cuenta la desviación temporal respecto al tiempo registrado por los ordenadores tecnológicos SZZ de la estación de Český Těšín, que se estableció como tiempo de referencia para las necesidades de la investigación de la presente MU, entre otros, se desprende que:
+| • a las 23:49:26 h | en el encuadre de las cámaras, en la SK n.º 236a de la estación de Český Těšín en dirección desde la estación de Hnojník hacia el P8343, se mostró a distancia una luz circular blanca que se aproximaba. Nota del DI: se trataba de la luz del reflector del HDV del tren Os 12853; |
+| • a las 23:49:49 h | el dispositivo de señalización de paso a nivel P8343 fue puesto en estado de alerta por dos luces rojas intermitentes alternas – advertía de que se acercaba un tren al P8343; en este caso concreto se trataba del tren Os 12853 que circulaba en dirección desde la estación de Hnojník. 33 s después (a las 23:50:22 h) comenzó a bajar la barrera del paso a nivel; |
+| • a las 23:50:34 h | entró en el encuadre de las cámaras en la SK n.º 236 en dirección desde la estación de Hnojník la unidad de motor de la serie 814 circulando en solitario, es decir, el tren Os 12853. El tren estaba señalizado con la señal "Inicio de tren" en configuración de tres luces blancas encendidas en forma de triángulo isósceles; |
+| • a las 23:50:40 h | el tren Os 12853 pasó con su extremo delantero el nivel de la señal de vía Lc236; |
+| • a las 23:50:45 h | el tren Os 12853 se encontraba con su extremo delantero en el espacio del inicio de la aguja n.º 208; |
+| • a las 23:50:54 h | el tren Os 12853 se encontraba con su extremo delantero en el lugar del inicio del andén n.º 5 y delante de la señal de vía Lc238; |
+| • a las 23:50:58 h | el tren Os 12853 entró íntegramente en el espacio junto al andén en la SK n.º 238; |
 
 ## Página 34
 
 •
-ve 23:51:00 h
-el tren Os 12853 con su extremo frontal pasó el nivel de la señal de vía Lc238 y se encontraba delante del tope de la vía al final de la vía de clasificación (SK) n.º 238, en cuyo travesaño de amortiguación estaba colocada una señal fija con la indicación «Prohibido maniobrar», ver puntos 3.1.3, 4.1.1 y 5.3 de la presente ZZ;
+a las 23:51:00 h
+el tren Os 12853, con su frente, superó el nivel de la señal de camino Lc238 y se encontraba delante del tope de la vía al final del SK n.º 238, en cuyo travesaño de amortiguación estaba colocada una señal fija con la indicación «Prohibido maniobrar», ver puntos 3.1.3, 4.1.1 y 5.3 de la presente IIA;
 •
-ve 23:51:01 h
-el tren Os 12853 con su extremo frontal del HDV chocó contra el tope de la vía al final de la SK n.º 238, observándose en las grabaciones de las cámaras una brusca deceleración de dicho tren.
-Al mismo tiempo, en el lugar de la destrucción del tope de la vía al final de la SK n.º 238 por el extremo frontal del tren, se registró un movimiento incontrolado (vuelo) del amortiguador izquierdo del tope. En el vestíbulo del edificio de la estación de Český Těšín se apagaron los paneles de salidas.
-Los medios de comunicación se utilizaron en relación con el suceso mencionado solo después de su producción, cuando el 7 de febrero de 2023 a las 23:53:29 h se inició la comunicación, en el marco de la cual el maquinista del tren Os 12853 comunicó la producción del suceso extraordinario (MU) a la despachadora de control 2H CDP Přerov.
-### 3.2 Descripción fáctica del suceso
-### 3.2.1 Secuencia de hechos que condujeron al suceso extraordinario
-El maquinista del tren Os 12853 asumió el mando de la unidad motorizada 814.187-1/914.187-0 en la estación de Frýdek-Místek, tras la llegada a la estación de Frýdek-Místek con el tren Os 12850 Cieszyn (República de Polonia) – Frýdek-Místek. Desde la estación de Frýdek-Místek partió con el tren Os 12853 a las 23:12 h, en el DV de la unidad motorizada del tren Os 12853 no se produjo ninguna avería durante todo el trayecto. El maquinista condujo el tren Os 12853 desde la cabina de conducción del HDV 814.187-1, es decir, desde la cabina frontal del maquinista en el sentido de la marcha del tren. El maquinista se encontraba solo en la cabina durante todo el trayecto del tren.
-La entrada del tren Os 12853 en la estación de Český Těšín fue autorizada por la despachadora de control 2H CDP Přerov mediante la operación normal del SZZ, es decir, desde la TK Český Těšín – Hnojník desde la señal de entrada FL, a través de los desvíos n.º 201, 202, SK n.º 236a y el desvío n.º 206, a la SK n.º 236 y posteriormente desde la SK n.º 236 desde la señal de vía Lc236 a través de los desvíos n.º 207 y (decisivo) 208 a la SK n.º 238. La despachadora de control 2H CDP Přerov, al organizar y dirigir el tráfico ferroviario en la estación de Český Těšín, cambió debido a la situación del tráfico la SK de entrada n.º 6 designada en la Instrucción para la prestación del servicio de tráfico de la estación de Český Těšín por la SK n.º 238. Sin embargo, la designación de la SK de entrada n.º 238 de la estación de Český Těšín no tuvo ninguna influencia en la producción del suceso extraordinario mencionado, ya que al dirigir el DV el maquinista del tren Os 12853 tenía la obligación de observar desde el DV principal la vía y las señales y actuar según los hechos constatados, independientemente de la vía por la que circule con el tren, ver punto 4.1.1 de la presente ZZ.
-La entrada del tren Os 12853 en la estación de Český Těšín fue autorizada con la indicación «Aviso» emitida por la señal de entrada FL, cuyo nivel este tren pasó con su extremo frontal a las 23:49:23 h a una velocidad de 50 km·h-1. El nivel de la señal de vía Lc236, que emitía la indicación «Velocidad 40 km/h y repetición de la indicación Aviso» y estaba señalizada, entre otros, con una placa indicadora con el dígito 5, lo pasó el extremo frontal del tren Os 12853 a las 23:50:40 h a la velocidad máxima permitida de 50 km·h-1. En dicho momento el tren se encontraba a una distancia de 275 m de la siguiente señal de vía Lc238. El maquinista del tren Os 12853, al circular tras la señal de vía Lc236, eligió el modo de conducción – seleccionó la marcha por inercia, sin comenzar a reducir mediante el freno la velocidad del tren para una detención segura del tren antes de la siguiente señal principal, que estaba situada a una distancia de frenado insuficiente. Que con el tren
+a las 23:51:01 h
+el tren Os 12853, con el frente del HDV, impactó contra el tope de la vía al final del SK n.º 238, siendo apreciable en las grabaciones de las cámaras la repentina deceleración de dicho tren.
 
+Al mismo tiempo, en el lugar de la destrucción del tope de la vía al final del SK n.º 238, se registró con el frente del tren un movimiento incontrolado (vuelo) del amortiguador izquierdo del tope. En el vestíbulo del edificio de la estación de Český Těšín se apagaron los paneles de salida.
+
+Los medios de comunicación se utilizaron en relación con el suceso mencionado solo después de su producción, cuando el 7 de febrero de 2023 a las 23:53:29 h se inició la comunicación, en cuyo marco el maquinista del tren Os 12853 comunicó la producción del suceso a la despachadora de control 2H CDP Přerov.
+
+### 3.2 Descripción fáctica del suceso
+### 3.2.1 Secuencia de hechos que condujeron al suceso ferroviario
+
+El maquinista del tren Os 12853 asumió el mando de la unidad motorizada 814.187-1/914.187-0 en la estación de Frýdek-Místek, tras la llegada a la estación de Frýdek-Místek con el tren Os 12850 Cieszyn (República de Polonia) – Frýdek-Místek. Desde la estación de Frýdek-Místek partió con el tren Os 12853 a las 23:12 h, en el DV de la unidad motorizada del tren Os 12853 no se produjo ninguna avería durante todo el trayecto. El maquinista condujo el tren Os 12853 desde la cabina de conducción del HDV 814.187-1, es decir, desde la cabina delantera del maquinista en el sentido de la marcha del tren. El maquinista se encontró solo en la cabina durante todo el trayecto del tren.
+
+La entrada del tren Os 12853 en la estación de Český Těšín fue autorizada por la despachadora de control 2H CDP Přerov mediante la operación normal del SZZ, esto es, desde el TK Český Těšín – Hnojník desde la señal de entrada FL, a través de los desvíos n.º 201, 202, SK n.º 236a y el desvío n.º 206, al SK n.º 236 y posteriormente desde el SK n.º 236 desde la señal de camino Lc236 a través de los desvíos n.º 207 y (decisivo) 208 al SK n.º 238. La despachadora de control 2H CDP Přerov, al organizar y dirigir el tráfico ferroviario en la estación de Český Těšín, modificó debido a la situación del tráfico la vía de entrada SK n.º 6 determinada por la Instrucción para la prestación del servicio de tráfico de la estación de Český Těšín por la SK n.º 238. No obstante, la determinación de la vía de entrada SK n.º 238 de la estación de Český Těšín no tuvo ninguna influencia en la producción del suceso mencionado, ya que al dirigir el DV el maquinista del tren Os 12853 tenía la obligación de observar desde el DV principal la vía y las señales y actuar de acuerdo con los hechos constatados, independientemente de la vía por la que circule con el tren, ver punto 4.1.1 de la presente IIA.
+
+La entrada del tren Os 12853 en la estación de Český Těšín fue autorizada con la señal «Aviso» emitida por la señal de entrada FL, cuyo nivel este tren superó con su frente a las 23:49:23 h a una velocidad de 50 km·h-1. El nivel de la señal de camino Lc236, que emitía la señal «Velocidad 40 km/h y repetición de la señal Aviso» y estaba señalizada, entre otros, con una placa indicadora con el dígito 5, fue superado por el frente del tren Os 12853 a las 23:50:40 h a la velocidad máxima permitida de 50 km·h-1. En dicho momento el tren se encontraba a una distancia de 275 m de la siguiente señal de camino Lc238. El maquinista del tren Os 12853, al circular tras la señal de camino Lc236, eligió el modo de conducción – seleccionó la marcha por inercia – sin comenzar a reducir mediante el frenado la velocidad del tren para detenerlo con seguridad antes de la siguiente señal principal, que estaba situada a una distancia de frenado insuficiente. Que con el tren
 
 ## Página 35
 
-entraba en la SK n.º 238, pudo el maquinista detectarlo a más tardar a las 23:50:47 h, cuando el extremo frontal del tren se encontraba en el espacio de la aguja del desvío n.º 208, que el tren recorría contra la punta en el sentido de desviación a la derecha (hacia la SK n.º 238). El maquinista no reaccionó en absoluto al paso del tren por el desvío n.º 208 hacia la SK n.º 238 y continuó la marcha por inercia.
-La indicación «Alto» emitida por la señal de vía Lc238 era visible a una distancia de 121 m durante la marcha del DV por la SK n.º 238 (en el tramo de la curva derecha), desde detrás del edificio situado a la derecha de la SK, delante del edificio tecnológico de la estación de Český Těšín. El extremo frontal del tren que circulaba por inercia pasó dicho punto a las 23:50:51 h a una velocidad de 49 km·h-1. El maquinista del tren reaccionó a la indicación emitida por la señal de vía Lc238 solo a las 23:50:56 h, a una velocidad de 48 km·h-1 y a una distancia de 61 m de la señal de vía Lc238, respectivamente 51 m del lugar habitual de detención en la SK n.º 238, mediante la manipulación de la palanca del controlador de conducción, con la que inició el frenado de acción rápida. Dada la velocidad del tren y la distancia restante a la señal de vía Lc238, a pesar del correcto funcionamiento del aparato de freno de la unidad motorizada, ya no era posible evitar la producción del suceso extraordinario.
-A las 23:51:00 h se produjo el suceso extraordinario, cuando el extremo frontal del tren a una velocidad de 37 km·h-1 pasó el nivel de la señal de vía Lc238, que con la indicación «Alto» prohibía la circulación del tren. A continuación se produjo la colisión del tren Os 12853 con el tope de vía situado al final de la SK n.º 238, a 1 m de dicha señal de vía, y el descarrilamiento del tren.
-El hecho de que durante el frenado rápido (de emergencia) del tren antes de la producción del suceso extraordinario se produjera el patinaje de las ruedas, primero en el eje trasero del ŘDV 914.187-0, tuvo una influencia negativa únicamente en la velocidad a la que el tren pasó indebidamente el nivel de la señal de vía Lc238 y posteriormente chocó contra el tope (ver punto 3.1.7 de la presente ZZ).
-### 3.2.2 Secuencia de hechos desde la producción del suceso extraordinario hasta la finalización de las acciones de los servicios de emergencia
+entra en la SK n.º 238, el maquinista pudo detectarlo a más tardar a las 23:50:47 h, cuando el extremo frontal del tren se encontraba en el espacio del corazón de la aguja n.º 208, por la que el tren circulaba contra la espiga en la dirección de desviación a la derecha (hacia la SK n.º 238). El maquinista no reaccionó en absoluto al paso del tren por la aguja n.º 208 en la SK n.º 238 y continuó la marcha por el desvío.
+La señal «Alto» indicada por la señal de camino Lc238 era visible, durante la circulación DV por la SK n.º 238 (en el tramo del arco derecho), a una distancia de 121 m, vista desde detrás del edificio situado a la derecha de la SK, delante del edificio tecnológico de la est. Český Těšín. El extremo frontal del tren que circulaba por el desvío pasó por dicho punto a las 23:50:51 h a una velocidad de 49 km·h-1. El maquinista del tren reaccionó a la señal indicada por la señal de camino Lc238 únicamente a las 23:50:56 h, a una velocidad de 48 km·h-1 y a una distancia de 61 m antes de la señal de camino Lc238, respectivamente 51 m antes del lugar habitual de detención en la SK n.º 238, mediante la manipulación de la palanca del controlador de marcha, con la que accionó el frenado de acción rápida. Dada la velocidad del tren y la distancia restante hasta la señal de camino Lc238, incluso con el correcto funcionamiento del aparato de freno de la unidad automotriz, ya no era posible evitar la producción de la MU.
+A las 23:51:00 h se produjo la MU, cuando el extremo frontal del tren pasó a una velocidad de 37 km·h-1 por el nivel de la señal de camino Lc238, que con la señal «Alto» prohibía la circulación del tren. A continuación se produjo la colisión del tren Os 12853 con el tope de riel, situado al final de la SK n.º 238, a 1 m detrás de dicha señal de camino, y el descarrilamiento del tren.
+El hecho de que, durante el frenado de acción rápida (de rescate) del tren antes de la producción de la MU, se produjera el derrape de las ruedas, primero en los ejes traseros de la ŘDV 914.187-0, tuvo únicamente una influencia negativa en la velocidad a la que el tren pasó indebidamente por el nivel de la señal de camino Lc238 y, posteriormente, chocó contra el tope (véase el punto 3.1.7 de esta ZZ).
+### 3.2.2 Secuencia de hechos desde la producción del suceso excepcional hasta la finalización de las acciones de los servicios de rescate
 7. 2. 2023
 |  |  | 7 2 2023 . . |
-| • | 23:51:00 h producción del suceso extraordinario (MU). A partir de esta hora se detuvo la circulación en la SK n.º 238 y se restringió la circulación en la SK n.º 0 y 2 de la estación de Český Těšín debido al impacto de partes de los restos (amortiguadores) del tope de la SK n.º 238; |  |
-| • | 23:53 h | el maquinista del tren Os 12853 comunicó mediante conexión GSM-R la producción del suceso extraordinario (MU) a la despachadora de control 2H CDP Přerov. En el mismo minuto la despachadora de control 2H CDP Přerov comunicó la producción del suceso extraordinario (MU) al jefe de despacho de CDP Přerov; |
+| • | 23:51:00 h Producción de la MU. A partir de esta hora se detuvo la circulación en la SK n.º 238 y se restringió la circulación en las SK n.º 0 y 2 de la est. Český Těšín debido al impacto de partes de los restos (amortiguadores) del tope de la SK n.º 238; |  |
+| • | 23:53 h | El maquinista del tren Os 12853 comunicó la producción de la MU a la jefa de maniobras 2H CDP Přerov mediante conexión GSM-R. En el mismo minuto, la jefa de maniobras 2H CDP Přerov comunicó la producción de la MU al jefe de maniobras CDP Přerov; |
 |  |  | 8 2 2023 . . |
-| • | 0:02 h | la despachadora de control 2H CDP Přerov comunicó la producción del suceso extraordinario (MU) al HZS SŽ; |
-| • | 0:03 h | la despachadora de control 2H CDP Přerov comunicó la producción del suceso extraordinario (MU) a la guardia de accidentes de PO Český Těšín; |
-| • | 0:09 h | la persona autorizada O18 SŽ notificó la producción del suceso extraordinario (MU) en el COP DI como operador ferroviario SŽ y transportista ČD; |
-| • | 0:47 h | llegó al lugar del suceso extraordinario (MU) la unidad de intervención JPO del HZS SŽ Ostrava; |
-| • | 0:57 h | se restableció la circulación en la SK n.º 0 y 2 de la estación de Český Těšín, previa retirada de los restos, incluida la extracción del amortiguador izquierdo del tope de la |
-
+| • | 0:02 h | La jefa de maniobras 2H CDP Přerov comunicó la producción de la MU al HZS SŽ; |
+| • | 0:03 h | La jefa de maniobras 2H CDP Přerov comunicó la producción de la MU a la guardia de accidentes PO Český Těšín; |
+| • | 0:09 h | La persona autorizada O18 SŽ notificó la producción de la MU al COP DI en nombre del gestor de la vía SŽ y del transportista ČD; |
+| • | 0:47 h | Llegó al lugar de la MU la UPE HZS SŽ Ostrava; |
+| • | 0:57 h | Se restableció la circulación en las SK n.º 0 y 2 de la est. Český Těšín, previa retirada de los restos, incluida la extracción del amortiguador izquierdo del tope de la SK n.º 238, |
 
 ## Página 36
+
 
 2.ª andén;
 |  |  | 2 nástupiště; . |
@@ -744,6 +1036,7 @@ Las vías de entrada se determinaban principalmente atendiendo a las maniobras d
 
 ## Página 37
 
+
 estaba determinada por el Seznam vlaků pro staniční zaměstnance (Lista de trenes para el personal de estación). En las estaciones donde las circunstancias lo exigían, es decir, también en la estación Český Těšín, el Seznam vlaků pro staniční zaměstnance podía adaptarse en forma de cuaderno y complementarse con otras instrucciones prácticas para el servicio de tráfico. Dichas instrucciones eran una ayuda tecnológica al horario de trenes (nota DI: la palabra «pomůcka» [ayuda] deriva de la palabra «pomoc» [auxilio]) y contenían un resumen básico de las operaciones tecnológicas relacionadas con la circulación, los rebases y, en su caso, los enlaces de todos los trenes regulares, si bien, según la declaración del gestor de la infraestructura SŽ, las instrucciones dadas para organizar el tráfico ferroviario no eran estrictamente vinculantes.
 El documento Seznam vlaků de la estación Český Těšín no contenía una columna con los números de las vías de entrada y salida para los trenes en trayectos regulares. Esta lista remitía a las Pokyny pro výkon dopravní služby (Instrucciones para el servicio de tráfico) de la estación Český Těšín, de las que se desprendían las vías de entrada y salida asignadas a los trenes. Si las necesidades actuales del empleado que servía el aparato de enclavamiento, es decir, también de la despachadora de control 2H CDP Přerov, y simultáneamente si la situación de tráfico lo requería (véase el art. 338 apartado 1 de la norma interna SŽ D1), dicho empleado podía determinar para la entrada del tren otra vía de enclavamiento (SK) de entrada.
 Según las Pokyny pro výkon dopravní služby de la estación Český Těšín, el gestor de la infraestructura había determinado para el tren Os 12853, es decir, el último tren de pasajeros desde Frýdek-Místek, la vía de enclavamiento (SK) de entrada n.º 6 de la estación Český Těšín. Una vez finalizada la circulación del tren Os 12853, la composición DV de dicho tren debía ser trasladada mediante maniobras a la SK n.º 238. El motivo era la necesidad de liberar la SK de paso n.º 6. En la SK n.º 238, la composición DV del tren Os 12853 debía permanecer hasta la siguiente maniobra, concretamente para ser llevada de vuelta a la SK n.º 6 para la salida del primer tren de la mañana hacia Frýdek-Místek: el tren Os 12800 que circula en días laborables, respectivamente el tren Os 12802 que circula los sábados y en días de descanso laboral.
@@ -760,15 +1053,14 @@ A este respecto, no puede dejar de sorprender los procedimientos del gestor de l
 ## Página 38
 
 •
-según el art. 21 del Reglamento de estación de la estación Český Těšín, una vía de entrada y salida, dotada de borde de andén en el andén 5, y
-•
-una vía determinada por las Pokyny pro výkon dopravní služby de la estación Český Těšín para el estacionamiento regular de la composición DV del tren Os 12853 y para el tren de rebases Os 12800, respectivamente el tren Os 12802.
-Al determinar la SK de entrada n.º 238 para el tren Os 12853, el gestor de la infraestructura SŽ podría eliminar por completo al menos una maniobra de tráfico completa (el traslado de la composición DV del tren en cuestión desde la SK n.º 6, a través de la SK n.º 236, a la SK n.º 238). A la vez, no puede pasar por alto el ahorro energético y de material por parte del gestor de la infraestructura y del transportista, así como la influencia positiva en la jornada laboral del maquinista, y el beneficio para los pasajeros, que tras bajar del tren no tendrían que usar el paso subterráneo.
-Lo expuesto no puede valorarse en relación causal con la aparición de la MU, porque la determinación de la SK de entrada n.º 6 para la entrada del tren Os 12853 mediante las Pokyny pro výkon dopravní služby de la estación Český Těšín no tuvo ninguna influencia en su aparición. No obstante, debido a la necesidad de trasladar posteriormente la composición DV del tren en cuestión mediante maniobras a la SK n.º 238, la determinación de la SK de entrada n.º 6 puede calificarse de puramente impracticable, véase el punto 6 de la presente ZZ. Lo expuesto lo confirma el hecho constatado por el DI mediante el análisis de los registros de explotación de la infraestructura ferroviaria en la estación Český Těšín en el GVD 2022/2023 (desde el inicio de su vigencia el 11. 12. 2022 hasta la aparición de la MU), cuando las personas que dirigen el tráfico ferroviario, al organizar y dirigir el tráfico ferroviario en la estación Český Těšín para el tren Os 12853, determinaron en 55 casos como vía de entrada la SK n.º 238 y solo en 2 casos la SK n.º 6 (en 2 días naturales no se realizó la circulación del tren en cuestión conforme al GVD vigente), véase también el punto 3.1.9 de la presente ZZ.
-A la entrada del tren final Os 12853 en la estación Český Těšín precedió la preparación de la vía libre desde TK Český Těšín – Hnojník desde la señal de entrada FL de la estación Český Těšín, junto a la señal de vía Lc236, a través del desvío (decisivo) n.º 208, hasta la SK de entrada n.º 238. La despachadora de control 2H CDP Přerov cambió mediante las Pokyny pro výkon dopravní služby de la estación Český Těšín la SK de entrada n.º 6 determinada por la SK n.º 238, porque tras finalizar la circulación del tren Os 12853 habría tenido que realizar, para su estacionamiento planificado y determinado, una maniobra desde la SK n.º 6, a través de la SK n.º 236, hasta la SK n.º 238, mientras que el maquinista de la maniobra habría tenido que cambiar 2 veces de puesto de conducción de la unidad automotriz debido a la circulación en marcha atrás. La vía libre para el tren Os 12853 la estableció el servicio normal del SZZ de la estación Český Těšín. A las 23:34:56 h, es decir, 15 min 33 s antes de la entrada del tren Os 12853 en la estación Český Těšín, la señal de entrada FL de la estación Český Těšín comenzó a indicar la señal «Výstraha» (Aviso). La señal de vía Lc236, señalizada, entre otras, con una placa indicadora con el número 5, indicaba la señal «Velocidad 40 km/h y repetición de la señal Výstraha». La vía libre terminaba a la altura de la señal de vía de un solo aspecto Lc238, que indicaba permanentemente la señal «Stůj» (Alto) y con su señal prohibía la circulación más allá de dicha señal, véase el punto 3.1.8 de la presente ZZ.
-A este lugar conviene señalar que la vía muerta es una vía de tráfico o de maniobras que, por regla general, está finalizada con un tope. En las estaciones donde la vía libre termina en la señal principal o en la señal «Fin de vía libre», que está situada antes del tope de la vía muerta, la entrada del tren en dicha vía no se considera entrada del tren en una vía muerta. En el caso de que la señal principal esté situada más allá de la altura del tope y no haya una señal «Fin de vía libre» situada antes del tope, entonces la entrada en dicha vía se considera entrada en una vía muerta. Desde la entrada en vigor de la norma interna del gestor de la infraestructura SŽ D1 está prohibido situar la señal principal detrás del tope, si bien las señales principales situadas detrás del tope, anteriores a la entrada en vigor de dicha norma, pueden permanecer detrás del tope hasta la próxima reconstrucción (modernización) del aparato de enclavamiento. En las estaciones donde la vía libre termina en la señal principal o en la señal «Fin de vía libre», que está situada incluso inmediatamente detrás del tope de la vía muerta y que ya se encontraba allí también antes de la entrada en vigor de la norma interna SŽ D1, la entrada del tren en dicha vía, y ello en relación con la disposición del art. 2926 de la norma interna SŽDC D1, no se considera entrada del tren en una vía muerta.
+vía determinada por la Instrucción para la prestación del servicio de tráfico de la estación de Český Těšín para el aparcamiento regular del conjunto DV del tren Os 12853 y para el tren de retorno Os 12800, respectivamente el tren Os 12802.
+Al determinar la vía de entrada SK n.º 238 para el tren Os 12853, el gestor de la vía SŽ podría eliminar por completo al menos una maniobra de tráfico completa (el movimiento del conjunto DV de dicho tren desde la SK n.º 6, a través de la SK n.º 236, hasta la SK n.º 238). A la vez, no puede pasarse por alto el ahorro energético y de material por parte del gestor de la vía y del transportista, así como la influencia positiva en la jornada laboral del maquinista, y el beneficio para los pasajeros, que tras bajar del tren no tendrían que usar el paso subterráneo.
+Lo anterior no puede valorarse en relación causal con la aparición de la MU, ya que la determinación de la vía de entrada SK n.º 6 para la entrada del tren Os 12853 mediante la Instrucción para la prestación del servicio de tráfico de la estación de Český Těšín no tuvo ninguna influencia en su aparición. No obstante, dado que es necesario el posterior traslado del conjunto DV de dicho tren mediante un movimiento hasta la SK n.º 238, la determinación de la vía de entrada SK n.º 6 puede calificarse de puramente impracticable, véase el punto 6 de la presente ZZ. Lo anterior lo confirma el hecho constatado mediante el análisis DI de los registros de explotación del transporte ferroviario en la estación de Český Těšín en el GVD 2022/2023 (desde el inicio de su vigencia el 11. 12. 2022 hasta la aparición de la MU), cuando las personas que dirigen el transporte ferroviario, al organizar y dirigir el transporte ferroviario en la estación de Český Těšín para el tren Os 12853, determinaron en 55 casos la vía de entrada SK n.º 238 y solo en 2 casos la SK n.º 6 (en 2 días calendario no se realizó la circulación de dicho tren conforme al GVD vigente), véase también el punto 3.1.9 de la presente ZZ.
+A la entrada del tren Os 12853 que finaliza en la estación de Český Těšín precedió la preparación de la vía de tren desde TK Český Těšín – Hnojník desde la señal de entrada FL de la estación de Český Těšín, junto a la señal de vía Lc236, a través del desvío (decisivo) n.º 208, hasta la vía de entrada SK n.º 238. La despachadora directora 2H del CDP Přerov cambió la vía de entrada SK n.º 6 determinada por la Instrucción para la prestación del servicio de tráfico de la estación de Český Těšín por la SK n.º 238, porque tras finalizar la circulación del tren Os 12853 habría que realizar, para su aparcamiento planificado y determinado, un movimiento desde la SK n.º 6, a través de la SK n.º 236, hasta la SK n.º 238, habiendo tenido el maquinista de la maniobra que cambiar 2 veces de puesto de conducción de la unidad motora debido a la circulación en marcha atrás. La vía de tren para el tren Os 12853 la estableció el servicio normal de la SZZ de la estación de Český Těšín. A las 23:34:56 h, es decir 15 min 33 s antes de la entrada del tren Os 12853 en la estación de Český Těšín, la señal de entrada FL de la estación de Český Těšín comenzó a emitir la señal «Aviso». La señal de vía Lc236, señalizada, entre otros, con una placa indicadora con el número 5, emitía la señal «Velocidad 40 km/h y repetición de la señal Aviso». La vía de tren terminaba a la altura de la señal de vía de un solo aspecto Lc238, que emitía permanentemente la señal «Alto» y con su señal prohibía la circulación más allá de dicha señal, véase el punto 3.1.8 de la presente ZZ.
+En este punto es oportuno indicar que la vía muerta es una vía de tráfico o de maniobra que, por regla general, finaliza con un tope. En las estaciones donde la vía de tren termina en la señal principal o en la señal «Fin de vía de tren», que está situada antes del tope de la vía muerta, la entrada del tren en dicha vía no se considera entrada del tren en vía muerta. En el caso de que la señal principal esté situada detrás del tope y no haya una señal «Fin de vía de tren» situada antes del tope, entonces la entrada en dicha vía se considera entrada en vía muerta. Desde la entrada en vigor de la normativa interna del gestor de la vía SŽ D1 está prohibido situar la señal principal detrás del tope, pudiendo las señales principales situadas detrás del tope con anterioridad a la entrada en vigor de dicha normativa permanecer detrás del tope hasta la próxima reconstrucción (modernización) del aparato de seguridad. En las estaciones donde la vía de tren termina en la señal principal o en la señal «Fin de vía de tren», que está situada incluso inmediatamente detrás del tope de la vía muerta y que fue situada allí también con anterioridad a la entrada en vigor de la normativa interna SŽ D1, la entrada del tren en dicha vía, y ello en relación con el artículo 2926 de la normativa interna SŽDC D1, no se considera entrada del tren en vía muerta.
 
 ## Página 39
+
 
 Las entradas regulares de trenes en una vía muerta no están permitidas. En los casos excepcionales en que sea necesario entrar con el tren en una vía muerta, el maquinista debe ser informado de la entrada excepcional en una vía muerta. Para la entrada del tren en una vía muerta rigen las mismas condiciones que para la entrada del tren en una vía ocupada. El maquinista del tren, en caso de entrada excepcional en una vía muerta, será informado de ello mediante una orden escrita en la última estación (o también en el desvío) ocupada por la persona que dirige el tráfico ferroviario. En el caso de que el maquinista del tren no sea informado mediante una orden escrita en la última estación, o de que no llegue de dicha estación el aviso de que el tren ha sido informado de la entrada excepcional en una vía muerta, la persona que dirige el tráfico ferroviario informará al tren mediante una orden escrita en la señal de entrada o de vía. Solo tras esta información podrá la persona que dirige el tráfico ferroviario permitir al tren continuar la circulación hacia la vía muerta.
 La SK n.º 238 de la estación Český Těšín era una vía de tráfico, de entrada y de salida para la dirección desde/hacia la estación Hnojník. La SK en cuestión estaba finalizada con un tope situado a 1 m de la altura de la señal de vía Lc238. Como la vía libre del tren entrante Os 12853, con dirección desde la estación Hnojník, terminaba en la señal de vía Lc238 (situada antes del tope al final de la SK), la entrada de dicho tren en la SK en cuestión, en el sentido de las disposiciones legales y del art. 326 apartado 2 de la norma interna SŽ D1, no se consideró entrada del tren en una vía muerta.
@@ -787,6 +1079,7 @@ La señal de entrada FL de la estación Český Těšín estaba situada, de acue
 
 ## Página 40
 
+
 Las constataciones indicadas no pueden valorarse en relación causal con la aparición de la MIE, ya que se trata únicamente de una deficiencia administrativa.
 ### Constatación:
 En la investigación se constató la infracción de la normativa relativa a las funciones y obligaciones 
@@ -800,10 +1093,10 @@ En la investigación se constató la infracción de la normativa relativa a las 
 Nota DI: la deficiencia indicada fue subsanada por el gestor de la infraestructura SŽ con la entrada en vigor del documento «Reglamento de estación de la estación de ferrocarril ČESKÝ TĚŠÍN y de la desviación CHOTĚBUZ», ref. núm.: 35112/2023-SŽ-OŘ OVA-NŘP, en vigor desde el 31. 8. 2023.
 El operador ferroviario estaba obligado a explotar el transporte ferroviario de acuerdo con las normas de explotación del transporte ferroviario, la licencia vigente y el contrato celebrado con el gestor de la infraestructura sobre la explotación del transporte ferroviario en la infraestructura.
 La persona que conduce el vehículo ferroviario, es decir, también el maquinista del tren Os 12853, estaba, entre otras obligaciones, al conducir el tren (DV), obligada a conducir el DV únicamente desde la posición desde la que existe la mejor visibilidad, normalmente desde la cabina delantera del maquinista en el sentido de la marcha, y a observar desde la cabeza del DV la vía y las señales y actuar de acuerdo con los hechos constatados. Durante la marcha no debía superar la velocidad máxima permitida, establecida en el horario de circulación o la velocidad limitada ordenada, por ejemplo, la anunciada por la señal luminosa de la señal principal, debiendo garantizar las condiciones (si podía influir en ellas) para que pudiera percibir las señales y regirse por ellas. El maquinista era responsable de todas las medidas de tráfico derivadas de la circulación del tren y del contacto con el personal que dirige y organiza el transporte ferroviario. De lo indicado se desprende, entre otras cosas, que el maquinista, al entrar en la estación, está obligado a observar si las señales principales correspondientes permiten su circulación. Para cumplir lo indicado, el maquinista debía también observar la vía y, sobre la base del conocimiento de la infraestructura definida – del conocimiento de las condiciones de la vía en la estación (estación Český Těšín) – orientarse en el lugar donde se encontraba con el tren (DV). Antes de la señal principal que anunciaba la señal «Alto», que prohibía al maquinista la circulación del tren (PMD), el maquinista debía detener la cabeza del tren en circulación (PMD) a 10 m (estimado). Allí donde la señal principal no estaba directamente junto a la vía, el maquinista debía detener la cabeza del tren antes de la señal con la señal «Fin de trayecto». A una distancia de 10 m (estimado) antes de la señal principal se establecía el lugar habitual de detención. El maquinista podía detenerse lo más cerca posible de la señal principal, siempre que dicha detención fuera necesaria en función de la longitud del tren o por instrucción del jefe de estación. Con todos los medios disponibles, el maquinista estaba obligado a adoptar las medidas necesarias para detener el tren si comprobaba que su circulación no estaba permitida o si el tren estaba amenazado por algo.
-El maquinista del tren Os 12853 condujo la circulación del tren desde la cabina delantera en el sentido de la marcha. El nivel de la señal de camino Lc236, que anunciaba la señal «Velocidad 40 km/h y repetición de la señal Aviso» y que estaba marcada, entre otros, con una placa indicadora con el número 5, fue pasado por el maquinista con la cabeza del tren a una velocidad de 50 km·h-1. La señal indicada le permitía, en combinación con la placa indicadora correspondiente, circular en el ámbito de los desvíos adyacentes a dicha señal a una velocidad máxima de 50 km·h-1, 
-
+El maquinista del tren Os 12853 condujo la circulación del tren desde la cabina delantera en el sentido de la marcha. El nivel de la señal de camino Lc236, que anunciaba la señal «Velocidad 40 km/h y repetición de la señal Aviso» y que estaba marcada, entre otros, con una placa indicadora con el número 5, fue pasado por el maquinista con la cabeza del tren a una velocidad de 50 km·h-1. La señal indicada le permitía, en combinación con la placa indicadora correspondiente, circular en el ámbito de los desvíos adyacentes a dicha señal a una velocidad máxima de 50 km·h-1,
 
 ## Página 41
+
 
 pero a la vez le anunciaba la señal «Alto» en la siguiente señal principal situada a una distancia de frenado insuficiente (la señal de camino Lc238 de la estación Český Těšín estaba situada tras la señal de camino Lc236 a una distancia de 275 m). Aun así, el maquinista continuó tras pasar el nivel de la señal de camino con la circulación a la velocidad inalterada de 50 km·h-1, sin modificar en absoluto la velocidad del tren, salvo la selección de la marcha por gravedad. El primer cambio de velocidad de circulación del tren Os 12853 se produjo únicamente desde el espacio de la aguja de la aguja n.º 208 (dispuesta para la circulación del tren por la desviación a la derecha hacia la vía n.º 238), donde, debido a la circulación por gravedad, la velocidad del tren descendió a 49 km·h-1. El tren se encontraba en ese momento a una distancia de 165 m antes de la señal de camino Lc238, que anunciaba permanentemente la señal «Alto». Aunque el maquinista, al observar la vía, pudo comprobar de manera inequívoca, como muy tarde en el espacio de la aguja de la aguja n.º 208 (a las 23:50:47 h), que el tren entraba en la vía n.º 238, tampoco a partir del punto de inicio de la visibilidad ininterrumpida de la señal «Alto» anunciada por la señal de camino Lc238 situada a 121 m antes de la señal de camino Lc238 (a las 23:50:51 h) inició, mediante la manipulación de los elementos de mando de la HDV, la frenada del tren que circulaba a 49 km·h-1. La primera manipulación por parte del maquinista del tren Os 12853 del elemento de mando para la activación de la frenada del tren fue registrada por el dispositivo de registro instalado en la HDV 814.187-1 únicamente en el instante (a las 23:50:56 h) en que activó la frenada de acción rápida con la palanca del controlador de marcha. El tren que circulaba a 48 km·h-1 se encontraba a 22 m tras el inicio del andén n.º 5 (situado a la derecha de la vía n.º 238) y a 61 m antes de la señal de camino Lc238, es decir, en el lugar donde ya no era posible evitar la aparición de la MIE, véanse los puntos 3.1.7, 4.2, 4.3.1 y 4.3.2 de la presente ZZ.
 ### Constatación:
@@ -830,8 +1123,8 @@ En el caso de esta MIE concreta es necesario relacionar la disposición indicada
 •
 art. 25 apartado 9 de la norma interna SŽ D1:
 
-
 ## Página 42
+
 
 «Cada empleado es personalmente responsable del correcto desempeño del servicio de tráfico y es plenamente responsable de garantizar la seguridad de la explotación de la infraestructura y del transporte ferroviario en el ámbito de su competencia profesional»;
 •
@@ -869,8 +1162,8 @@ art. 171 letra c) de la norma interna ČD V15/I:
 «El maquinista de la cabeza (motriz) del tren debe, con el correcto funcionamiento del freno continuo en función de las condiciones de la vía actuales ..., de la situación de tráfico inmediata (expresada por señales, comunicación por radio, etc.) y de la velocidad real inmediata del tren, garantizar:
 c) La detención del tren en el lugar requerido».
 
-
 ## Página 43
+
 
 ### 4.1.2 Entidades responsables del mantenimiento de los vehículos ferroviarios
 En la investigación no se constató infracción de las funciones y obligaciones de las entidades responsables del mantenimiento de los DV.
@@ -888,6 +1181,7 @@ En la investigación no se constató infracción de las funciones y obligaciones
 Las funciones y obligaciones de otras personas o entidades no guardaban relación con la aparición de la MIE.
 
 ## Página 44
+
 
 ### 4.2 Material rodante y dispositivos técnicos
 4.2.1 Factores o consecuencias derivados de la construcción del material rodante, de la infraestructura ferroviaria o de los dispositivos técnicos
@@ -907,8 +1201,8 @@ En la investigación no se detectaron otros factores relacionados con el MR, la 
 En la investigación de las características humanas e individuales no se detectaron factores relacionados con la formación profesional para el MU del empleado del operador ferroviario SŽ participante. Tampoco se detectaron factores relacionados con el estado de salud y la situación personal de todos los empleados del operador ferroviario SŽ y del transportista ČD participantes en el MU, incl. el estrés físico y psicológico.
 Dadas las circunstancias en que se produjo el MU en cuestión, la DI, en el marco de la investigación de las características humanas e individuales, abordó asimismo en detalle la competencia profesional del maquinista del tren Os 12853, cuyo análisis se indica a continuación.
 
-
 ## Página 45
+
 
 El transportista, de conformidad con el § 35 apartado 1 letra a) de la Ley núm. 266/1994 Sb., podía explotar el transporte ferroviario en una línea de ámbito nacional o regional, entre otros supuestos, si era titular de una licencia y de un certificado de transportista válidos. De conformidad con el § 35 apartado 1 letra b) de la Ley núm. 266/1994 Sb., el transportista estaba obligado a emitir una normativa interna sobre la competencia profesional y los conocimientos de las personas que garantizan la explotación del transporte ferroviario y el método de su verificación, incl. el sistema de formación periódica, la expedición y retirada del certificado de maquinista y las modificaciones de los datos en él contenidos, así como la vigencia del certificado de maquinista. El transportista ČD cumplió dicha obligación mediante la emisión de la normativa interna ČD Ok 2.
 Asimismo, el transportista estaba obligado, de conformidad con el § 35 apartado 1 letra h) de la Ley núm. 266/1994 Sb. (vigente hasta el 31. 1. 2022), o bien el § 35 apartado 1 letra g) de la Ley núm. 266/1994 Sb. (vigente a partir del 1. 2. 2022), en relación con el § 46b apartado 1 de dichas leyes, a garantizar que el MR en las líneas de ámbito nacional y regional fuera conducido por personas que posean una licencia de maquinista válida y un certificado de maquinista válido, y, de conformidad con el § 35 apartado 1 letras f) y g) de la Ley núm. 266/1994 Sb. (vigente hasta el 31. 1. 2022), o bien el § 35 apartado 1 letras e) y f) de la Ley núm. 266/1994 Sb. (vigente a partir del 1. 2. 2022), estaba obligado a garantizar que el transporte ferroviario fuera realizado por personas que estén aptas física y profesionalmente, que en la explotación del transporte ferroviario se ajusten a las instrucciones del operador ferroviario impartidas al organizar el transporte ferroviario.
@@ -931,8 +1225,8 @@ de las fuerzas que actúan sobre la rueda del MR;
 •
 de los factores que influyen en la aceleración y el efecto de frenado, p. ej. las condiciones meteorológicas, el dispositivo de frenado, la circulación con adherencia reducida, el uso de dispositivos para mejorar la adherencia.
 
-
 ## Página 46
+
 
 De conformidad con el § 46i de la Ley núm. 266/1994 Sb., el transportista expidió el certificado de maquinista a solicitud de una persona física que mantenga con el transportista una relación laboral básica, sea titular de una licencia de maquinista válida y haya acreditado la ZOZ para conducir un tipo concreto de MR, para circular en líneas o tramos de líneas delimitados y para el uso de la lengua checa en la medida necesaria para conducir el MR en el territorio de la República Checa, habiendo fijado el transportista la vigencia del certificado de maquinista de conformidad con la normativa interna emitida en virtud del § 35 apartado 1 letra b) de la Ley núm. 266/1994 Sb., delimitando en el certificado de maquinista la línea o tramo de línea, los tipos de MR y la forma de su uso para los que el certificado era válido.
 De conformidad con el § 46j de la Ley núm. 266/1994 Sb., el solicitante acreditaba la ZOZ mediante la superación satisfactoria de un examen teórico y práctico ante una comisión designada por el transportista, no pudiendo al menos 1 miembro de la comisión mantener una relación laboral básica con el transportista. El conocimiento de la lengua checa se verificaba si la lengua materna del solicitante era distinta del checo. Solo podía presentarse al examen que acreditaba la ZOZ el solicitante que hubiera seguido la formación para adquirir los conocimientos (también denominados detallados), destrezas y procedimientos pertinentes. El alcance y el contenido de los conocimientos, destrezas y procedimientos detallados, así como el alcance y el contenido de la formación, los estableció el decreto núm. 16/2012 Sb., mediante los anexos núm. 2 y 3.
@@ -952,27 +1246,31 @@ Nota de la DI: la duración mínima de la instrucción en conducción indicada a
 
 ## Página 47
 
-La formación para adquirir conocimientos detallados, habilidades y procedimientos para acreditar la ZOZ para la conducción en una vía delimitada o parte de la misma se centraba, conforme al anexo 3 del decreto n.º 16/2012 Sb., entre otros aspectos, en:
-•
-el conocimiento de la vía delimitada o parte de la misma, incl. las instalaciones en la línea y las rutas alternativas, especialmente con un enfoque en las condiciones de explotación,
-•
-la capacidad de determinar en todo momento la ubicación del tren en la vía delimitada o parte de la misma,
-•
-la evaluación de los hechos que condicionan la circulación del tren (horario de circulación, señales, etc.),
-•
-las normas de circulación vigentes y el significado del sistema de señalización, el régimen de explotación, los nombres de las estaciones y su ubicación, la capacidad de reconocer las estaciones y los aparatos de enclavamiento a distancia, las limitaciones de velocidad para los diferentes tipos de DV, los perfiles topográficos y la capacidad de determinar en todo momento la ubicación del tren en la vía delimitada o parte de la misma, y las características operativas especiales, como las señales, la señalización, las condiciones de entrada y salida del tren,
-•
-el uso de los frenos de manera que no se produzcan daños en el DV ni en la vía,
-•
-la observación de la señalización, su correcta interpretación y la actuación correspondiente.
-Dicha formación se realizó con una duración mínima de 80 h.
-Nota DI: aunque la normativa no distingue explícitamente, en cuanto al alcance de la formación para adquirir conocimientos detallados, habilidades y procedimientos para acreditar la ZOZ para la conducción en una vía delimitada o parte de la misma, entre una parte teórica y otra parte – la formación en conducción, en vista del enfoque de la formación es evidente que el alcance mínimo establecido de 80 h se refiere únicamente a la parte teórica de la formación. El alcance de la parte práctica de esta formación no está regulado por la normativa. Sin embargo, por lógica es evidente que la parte práctica de la formación para adquirir conocimientos detallados, habilidades y procedimientos para acreditar la ZOZ para la conducción en una vía delimitada o parte de la misma se lleva a cabo en el marco de la formación en conducción de DV de la categoría y tipo correspondientes con una duración mínima de 12 semanas establecida por el anexo n.º 2 del decreto n.º 16/2012 Sb., ver más arriba. La razón es el hecho de que estas formaciones están directamente relacionadas entre sí – se entrelazan y en el marco de la formación en conducción no es posible separarlas, al igual que las obligaciones del maquinista derivadas de la disposición del § 35 apartado 1 del decreto n.º 173/1995 Sb.
+La formación para adquirir los conocimientos, habilidades y procedimientos detallados necesarios para acreditar la ZOZ para la conducción en una vía delimitada o parte de la misma se centraba, conforme al anexo 3 del decreto nº 16/2012 Sb., entre otros aspectos en:
 
-Conforme al § 46o de la ley n.º 266/1994 Sb., las formaciones para adquirir los conocimientos, habilidades y procedimientos generales básicos necesarios para superar el examen de competencia profesional general (para obtener la licencia de maquinista) y las formaciones para adquirir los conocimientos, habilidades y procedimientos detallados necesarios para superar el examen ZOZ solo podían ser impartidas por una persona física o jurídica a la que se hubiera concedido la acreditación para realizar esta actividad por la autoridad administrativa ferroviaria.
+•
+conocimiento de la vía delimitada o parte de la misma, incluidas las instalaciones en la línea y las rutas alternativas, con especial atención a las condiciones de explotación,
+•
+capacidad de determinar en todo momento la posición del tren en la vía delimitada o parte de la misma,
+•
+evaluación de los hechos que condicionan la circulación del tren (horario de circulación, señales, etc.),
+•
+reglamentos de circulación vigentes y significado del sistema de señalización, régimen de explotación, nombres de las estaciones y su ubicación, capacidad de reconocimiento a distancia de las estaciones y de los aparatos de vía, límites de velocidad para los distintos tipos de DV, perfiles topográficos y capacidad de determinar en todo momento la posición del tren en la vía delimitada o parte de la misma, así como características de explotación especiales como señales, marcación, condiciones de entrada y salida del tren,
+•
+uso de los frenos de manera que no se produzcan daños en la DV ni en la vía,
+•
+vigilancia de la señalización, su correcta interpretación y la actuación correspondiente.
 
-El alcance, el contenido y el modo de realización del examen ZOZ, así como el modo de evaluación de los resultados del examen, los establece el § 5 del decreto n.º 16/2012 Sb. y, en el caso del transportista ČD, también el Anexo 4, artículo 80, parte 3 de la norma interna de ČD Ok 2. Para la evaluación del examen con la calificación de «aprobado» conforme al § 5 apartado 6 del decreto n.º 16/2012 Sb. era necesario obtener un mínimo del 80 % de los puntos del número total posible de puntos tanto en la prueba escrita como en la entrevista oral, acreditar los conocimientos prácticos de conducción de DV en una vía delimitada o parte de la misma conforme al enfoque del contenido de la formación y acreditar el conocimiento del idioma checo. En el caso de la evaluación con la calificación de «no aprobado», es decir, la no superación del examen, se comunicaban al solicitante los errores y deficiencias detectados. El solicitante podía inscribirse para el examen de recuperación como mínimo a los 7 días y como máximo a los 28 días desde el día en que no lo superó, si bien el examen de recuperación se permitió 2 veces.
+Dicha formación se realizaba con una duración mínima de 80 h.
+
+Nota DI: si bien la normativa no distingue explícitamente en el alcance de la formación para adquirir los conocimientos, habilidades y procedimientos detallados necesarios para acreditar la ZOZ para la conducción en una vía delimitada o parte de la misma entre una parte teórica y otra parte – formación en conducción –, atendiendo al enfoque de la formación es evidente que el alcance mínimo establecido de 80 h se refiere únicamente a la parte teórica de la formación. El alcance de la parte práctica de esta formación no está regulado por la normativa. Sin embargo, por la lógica de la materia es evidente que la parte práctica de la formación para adquirir los conocimientos, habilimientos y procedimientos detallados necesarios para acreditar la ZOZ para la conducción en una vía delimitada o parte de la misma se lleva a cabo en el marco de la formación en conducción de la categoría y tipo de DV correspondiente, con una duración mínima de 12 semanas establecida en el anexo nº 2 del decreto nº 16/2012 Sb., ver más arriba. La razón es el hecho de que estas formaciones están directamente relacionadas entre sí – se entrelazan – y en el marco de la formación en conducción no pueden separarse entre sí, al igual que las obligaciones del maquinista derivadas de la disposición § 35 apartado 1 del decreto nº 173/1995 Sb.
+
+Conforme al § 46o de la ley nº 266/1994 Sb., las formaciones para la obtención de los conocimientos, habilidades y procedimientos generales básicos necesarios para superar el examen de competencia profesional general (para la obtención de la licencia de maquinista) y las formaciones para la obtención de los conocimientos, habilidades y procedimientos detallados necesarios para superar el examen ZOZ solo podían ser impartidas por una persona física o jurídica a la que se hubiera concedido la acreditación para realizar esta actividad por la autoridad administrativa ferroviaria.
+
+El alcance, el contenido y el modo de realización del examen ZOZ, así como el modo de evaluación de los resultados del examen, los establece el § 5 del decreto nº 16/2012 Sb. y, en el caso del transportista ČD, también el Anexo 4, artículo 80, parte 3 de la norma interna de ČD Ok 2. Para la evaluación del examen conforme al § 5 apartado 6 del decreto nº 16/2012 Sb. con la calificación de «aprobado» era necesario obtener un mínimo del 80 % de los puntos del número total posible de puntos tanto en la prueba escrita como en la entrevista oral, demostrar los conocimientos prácticos de conducción de la DV en una vía delimitada o parte de la misma según el enfoque de contenido de la formación y demostrar conocimiento del idioma checo. En caso de evaluación con la calificación de «no aprobado», es decir, de no superación del examen, se comunicaban al solicitante los errores y deficiencias detectados. El solicitante podía inscribirse para el examen de recuperación como mínimo a los 7 días y como máximo a los 28 días desde el día en que no lo superó, si bien el examen de recuperación se permitía 2 veces.
 
 ## Página 48
+
 
 Para la conducción de DV, el transportista debía garantizar, conforme al § 35 apartado 1 letra a) del decreto n.º 173/1995 Sb., que el maquinista estuviera acreditadamente informado de las condiciones de la línea en las líneas y en las instalaciones de tráfico donde conduce DV, es decir, que estuviera informado, entre otros aspectos, del carácter de la línea y de las estaciones, de las TTP, de la tecnología (modo) de circulación, de los reglamentos de estación y de las obligaciones de circulación relacionadas, en la medida necesaria para la actividad del maquinista.
 La cuestión de la información acreditada del maquinista sobre las condiciones de la línea en las líneas y en las instalaciones de tráfico estaba regulada en las condiciones del transportista ČD por el artículo 36 de la norma interna de ČD V 2, conforme al cual la información sobre las condiciones de la línea en la línea y en las instalaciones de tráfico se realizaba mediante la recorrida de la línea correspondiente en ambos sentidos, 2 veces de día y 2 veces de noche en trenes del transportista ČD. En el marco de la información se realizaba también una información práctica sobre las condiciones locales en las estaciones, en las estaciones de mercancías, en las vías de servicio, en los DKV, etc.
@@ -988,6 +1286,7 @@ el 11. 1. 2022 en el marco de la formación en conducción realizada en los tren
 ◦Os 12813, Os 12814, Os 12825, Os 12828, Os 12833 (con salida de la estación Frýdek-Místek a las 15:38 h y llegada a la estación Český Těšín a las 16:17 h) y Os 12836 (con salida de la estación Český Těšín a las 16:44 h y llegada a la estación Frýdek-Místek a las 17:21 h).
 
 ## Página 49
+
 
 Dado que la hora de la puesta de sol en Frýdek-Místek (el momento en que el centro geométrico del sol se oculta tras el horizonte) fue ese día a las 16:09 h y la hora de la puesta de sol en Český Těšín fue a las 16:07 h, cuando las luces de la iluminación artificial en la estación Frýdek-Místek debían haberse encendido, conforme al Plan Horario de Iluminación (no fue posible determinar de forma acreditada la hora real de encendido de las luces de la iluminación artificial en la estación Frýdek-Místek debido a la ausencia del dispositivo de registro correspondiente, ver también más abajo), a las 16:20 h y en los sectores de la estación de pasajeros y del atril frýdecký de la estación Český Těšín se encendieron realmente a las 16:27 h, se trataba de la información del maquinista del tren Os 12853 sobre las condiciones de la línea en el tramo:
 ◦Frýdek-Místek – Český Těšín y Český Těšín – Frýdek-Místek mediante la recorrida en ambos sentidos 2 veces de día,
@@ -1009,6 +1308,7 @@ Dado que la hora de la puesta de sol en Frýdek-Místek fue ese día a las 16:47
 ◦Český Těšín – Frýdek-Místek mediante la recorrida 1 vez de noche, si bien desde la estación Český Těšín con el tren Os 12836 partió aún de día;
 
 ## Página 50
+
 
 •
 el 14. 2. 2022 en el marco de la formación en conducción realizada en los trenes:
@@ -1066,71 +1366,35 @@ Dado que la hora de la puesta de sol en Frýdek-Místek ese día fue a las 17:58
 hora de la puesta de sol en Český Těšín fue a las 17:57 h, cuando las luces de la 
 iluminación artificial en la est. Frýdek-Místek debían ser encendidas según el 
 Plan horario de iluminación a las 18:05 h y en las zonas de la estación de pasajeros 
-y del atril frýdecký de la est. Český Těšín fueron 
-
+y del atril frýdecký de la est. Český Těšín fueron
 
 ## Página 51
 
-encendidas efectivamente a las 18:13 h, se trataba de la familiarización del maquinista 
-del tren Os 12853 con las condiciones de la vía en el tramo de vía:
-◦Frýdek-Místek – Český Těšín y Český Těšín – Frýdek-Místek recorriéndolo en 
-ambas direcciones 4x de día y 1x de noche; 
-• el 28. 11. 2022 en el marco de la familiarización realizada de forma independiente 
-en los trenes:
-◦Os 12819, Os 12820, Os 12825 y Os 12828 (salida de la est. Český Těšín a 
-las 14:36 h y llegada a la est. Frýdek-Místek a las 15:21 h).
-Dado que la hora de la puesta de sol en Frýdek-Místek ese día fue a las 15:51 h y la 
-hora de la puesta de sol en Český Těšín fue a las 15:50 h, cuando las luces de la 
-iluminación artificial en la est. Frýdek-Místek debían ser encendidas según el 
-Plan horario de iluminación a las 16:15 h y en las zonas de la estación de pasajeros 
-y del atril frýdecký de la est. Český Těšín fueron encendidas efectivamente a las 
-16:08 h, se trataba de la familiarización del maquinista del tren Os 12853 con las 
-condiciones de la vía en el tramo de vía:
-◦Frýdek-Místek – Český Těšín y Český Těšín – Frýdek-Místek recorriéndolo en 
-ambas direcciones 2x de día.
-Del análisis anterior se desprende que el maquinista del tren Os 12853 completó la 
-familiarización con las condiciones de la vía en las líneas y en las instalaciones de 
-tráfico del ferrocarril regional en el tramo de vía:
+efectivamente activada a las 18:13 h, se trataba de la familiarización del maquinista del tren Os 12853 con las condiciones de la vía en el tramo:
+◦Frýdek-Místek – Český Těšín y Český Těšín – Frýdek-Místek recorriéndolo en ambos sentidos 4 veces de día y 1 vez de noche;
+• el 28 de noviembre de 2022, en el marco de la familiarización realizada de forma independiente en los trenes:
+◦Os 12819, Os 12820, Os 12825 y Os 12828 (con salida de la est. Český Těšín a las 14:36 h y llegada a la est. Frýdek-Místek a las 15:21 h).
+Dado que la hora de la puesta de sol en Frýdek-Místek ese día fue a las 15:51 h y la hora de la puesta de sol en Český Těšín fue a las 15:50 h, cuando las luces de la iluminación artificial en la est. Frýdek-Místek debían haber sido activadas según el Plan horario de iluminación a las 16:15 h y en los ámbitos de la estación de pasajeros y del atrio de la est. Český Těšín fueron efectivamente activadas a las 16:08 h, se trataba de la familiarización del maquinista del tren Os 12853 con las condiciones de la vía en el tramo:
+◦Frýdek-Místek – Český Těšín y Český Těšín – Frýdek-Místek recorriéndolo en ambos sentidos 2 veces de día.
+Del análisis anterior se desprende que el maquinista del tren Os 12853 completó la familiarización con las condiciones de la vía en las líneas y en las instalaciones de tráfico del ferrocarril regional en el tramo:
 •
-Frýdek-Místek – Český Těšín y Český Těšín – Frýdek-Místek recorriéndolo en 
-ambas direcciones 21x de día y 1x de noche;
+Frýdek-Místek – Český Těšín y Český Těšín – Frýdek-Místek recorriéndolo en ambos sentidos 21 veces de día y 1 vez de noche;
 •
-Frýdek-Místek – Český Těšín recorriéndolo 4x de día, de los cuales 1x completó 
-la entrada en la est. Český Těšín de noche;
+Frýdek-Místek – Český Těšín recorriéndolo 4 veces de día, de las cuales 1 vez completó la entrada en la est. Český Těšín de noche;
 •
-Český Těšín – Frýdek-Místek recorriéndolo 4x de noche, de los cuales 1x completó 
-la salida de la est. Český Těšín aún de día.
-En la est. Český Těšín, por tanto, el maquinista del tren Os 12853 completó la 
-familiarización con las condiciones de la vía en la dirección desde la est. Hnojník 
-(Frýdek-Místek) 25x de día y 2x de noche, sin que en ninguno de los casos fuera 
-realizada por los trenes anteriores la entrada en el SK n.º 238.
-Puede resumirse, por tanto, que el transportista ČD no garantizó la familiarización 
-demostrable del maquinista del tren Os 12853 con las condiciones de la vía en la 
-línea Frýdek-Místek – Český Těšín/Český Těšín – Frýdek-Místek recorriendo la 
-línea correspondiente en ambas direcciones 2x de día y 2x de noche, y que el 
-maquinista del tren Os 12853, a pesar de no haber completado la familiarización con 
-las condiciones de la vía en la línea indicada en el alcance establecido, el 5. 12. 2022 
-confirmó al transportista en el documento «Ficha de conocimiento de la línea» de 
-manera demostrable el conocimiento de este ferrocarril.
-La constatación indicada no puede valorarse en relación causal con la aparición de la 
-ME, puesto que el maquinista del tren Os 12853 completó la familiarización con las 
-condiciones de la vía en la est. Český Těšín en la dirección desde la est. Hnojník 
-(Frýdek-Místek) 25x de día y 2x de noche, es decir, en la dirección de circulación del 
-tren Os 12853 era conocedor de las condiciones de la vía en la est. Český Těšín.
-### Constataciones:
-En la investigación se constató la infracción de la normativa legal y de la normativa 
-interna, relativa a las funciones y obligaciones del transportista ČD y del maquinista 
-del tren Os 12853, al margen de la relación causal 
-### con la aparición de la ME: 
+Český Těšín – Frýdek-Místek recorriéndolo 4 veces de noche, de las cuales 1 vez completó la salida de la est. Český Těšín todavía de día.
+En la est. Český Těšín, por tanto, el maquinista del tren Os 12853 completó la familiarización con las condiciones de la vía en el sentido desde la est. Hnojník (Frýdek-Místek) 25 veces de día y 2 veces de noche, sin que en ningún caso se hubiera realizado por los trenes mencionados la entrada en el SK n.º 238.
+Puede resumirse así que el operador ČD no garantizó la familiarización demostrable del maquinista del tren Os 12853 con las condiciones de la vía en la línea Frýdek-Místek – Český Těšín/Český Těšín – Frýdek-Místek recorriéndola en ambos sentidos 2 veces de día y 2 veces de noche, y que el maquinista del tren Os 12853, a pesar de no haber completado la familiarización con las condiciones de la vía en la línea mencionada en el alcance establecido, el 5 de diciembre de 2022 confirmó al operador en el documento «Karta znalosti tratě» (Tarjeta de conocimiento de la línea) de forma demostrable el conocimiento de este ferrocarril.
+Dicha constatación no puede valorarse en relación causal con la aparición del MU, puesto que el maquinista del tren Os 12853 completó la familiarización con las condiciones de la vía en la est. Český Těšín en el sentido desde la est. Hnojník (Frýdek-Místek) 25 veces de día y 2 veces de noche, es decir, en el sentido de circulación del tren Os 12853 estaba familiarizado con las condiciones de la vía en la est. Český Těšín.
+### Constatación:
+En la investigación se constató la infracción de la normativa legal y de la normativa interna relativa a las funciones y obligaciones del operador ČD y del maquinista del tren Os 12853, al margen de la relación causal
+### con la aparición del MU:
 •
 § 35 apartado 1 letra a) de la Ley n.º 266/1994 Sb.:
-«El transportista está obligado a explotar el transporte ferroviario de acuerdo con las 
-reglas de explotación del transporte ferroviario, la licencia vigente y el contrato 
-celebrado con el explotador de la vía para la explotación del transporte ferroviario 
-en la vía,»;
-
+«El operador está obligado a explotar el transporte ferroviario de acuerdo con las normas de explotación del transporte ferroviario, la licencia vigente y el contrato celebrado con el explotador de la vía para la explotación del transporte ferroviario en la vía,»;
 
 ## Página 52
+
 
 •
 § 35 apartado 1 letra a) del Decreto n.º 173/1995 Sb.: 
@@ -1194,6 +1458,7 @@ de la señal Aviso» señalizada por la señal de vía Lc236, señalizada
 
 ## Página 53
 
+
 mj. con la tabla indicadora con el número 5, que le preseñaló, entre otras cosas, la señal «Alto» en el siguiente semáforo principal situado a una distancia de frenado insuficiente (en el caso de la entrada en la SK n.º 238 situada a una distancia de 275 m),
 •
 la determinación incorrecta del lugar donde se encontraba con el tren objeto de investigación, cuando, tras entrar en la zona de la aguja de la aguja n.º 208, debió haber detectado a más tardar que, al circular por dicha aguja en aguja y en dirección de desviación a la derecha, entraba en la SK n.º 238 y no en la SK n.º 6,
@@ -1203,8 +1468,8 @@ El comportamiento del maquinista del tren Os 12853 estuvo negativamente influido
 Por ello, el maquinista del tren Os 12853, al circular en el ámbito de las agujas adyacentes al semáforo de itinerario Lc236 de la est. Český Těšín y al circular por la SK n.º 238 hasta el semáforo de itinerario Lc238, eligió un modo de conducción que fue incorrecto. Desde el nivel del semáforo de itinerario Lc236, que preseñaló, entre otras cosas, la señal «Alto» en el siguiente semáforo principal, situado a una distancia de frenado insuficiente, hasta la aguja de la aguja n.º 208 (situada a 173 m antes del semáforo de itinerario Lc238), circuló con el tren a la velocidad máxima permitida de 50 km·h-1, sin modificar en absoluto la velocidad del tren que circulaba en balasto hasta la activación del frenado de acción rápida a una distancia de 61 m antes del semáforo de itinerario Lc238, a pesar de que, como muy tarde en la zona de la aguja de la aguja n.º 208, pudo detectar que entraba y posteriormente se encontraba en la SK n.º 238, y de que la señal «Alto» señalizada por el semáforo de itinerario Lc238 era visible a una distancia de 121 m al circular por la SK n.º 238 (véanse también los puntos 3.1.3, 3.1.7 y 4.1.1 de esta ZZ).
 En la investigación no se detectaron factores relacionados con la formación profesional para la MU del empleado de SŽ implicado, con su estado de salud y su situación personal, incl. el estrés físico y psíquico.
 
-
 ## Página 54
+
 
 ### 4.3.2 Factores laborales
 La DI, en relación con la investigación de los factores laborales, abordó también el sistema de organización de la jornada laboral (de la ejecución del trabajo) del empleado del gestor de la infraestructura y del empleado del transportista implicados en la MU, en relación con la posible influencia de la fatiga en su actuación.
@@ -1221,8 +1486,8 @@ La DI, en el marco del análisis de la ejecución del trabajo (jornadas) del maq
 6. 2. 2023
   el maquinista tenía acordado (planificado) el inicio de la ejecución del trabajo (jornada) a las 7:02 h en el lugar de trabajo Frýdek-Místek y el fin acordado (planificado) de la ejecución del trabajo (jornada) a las 18:20 h también en el lugar de trabajo Frýdek-Místek, mientras que desde las 10:06 h hasta las 12:36 h tenía prevista una interrupción de la ejecución del trabajo (jornada). La ejecución del trabajo (jornada laboral) del maquinista debía ascender a 8:48 h. El inicio real y el fin real de la ejecución del trabajo (jornada), incl. su interrupción, coincidían con la ejecución del trabajo planificada. El maquinista disfrutaba del PDOJ en momentos oportunos durante las permanencias de los trenes en las estaciones
 
-
 ## Página 55
+
 
 y en el periodo de interrupción de la jornada. Durante dicha ejecución del trabajo (jornada), el maquinista condujo, entre otras cosas, en el tramo Frýdek-Místek – Český Těšín, respectivamente Český Těšín – Frýdek-Místek, la DV de los trenes Os 12813, Os 12814, Os 12825, Os 12828, Os 12833 y Os 12836, mientras que en todos los casos con trenes que terminaban en la est. Český Těšín (2x), circulando en dirección desde Frýdek-Místek, finalizó el recorrido en la SK n.º 6;
 •
@@ -1245,6 +1510,7 @@ una deficiencia administrativa en el trabajo con el acta de la prueba de freno r
 la operación incorrecta de la radio de a bordo,
 
 ## Página 56
+
 
 siendo así que ninguno de los defectos detectados guardaba relación con la aparición de la MU mencionada.
 En la investigación no se detectaron por parte del gestor de la infraestructura SŽ y del transportista ČD factores 
@@ -1278,8 +1544,8 @@ El gestor de la infraestructura explotaba la infraestructura en virtud de una au
 certificado de seguridad del gestor de la infraestructura. El transportista explotaba el transporte ferroviario en virtud de 
 una licencia vigente y de un certificado del transportista.
 
-
 ## Página 57
+
 
 ### 4.4.7 Otros factores sistémicos
 En la investigación no se detectaron otros factores sistémicos.
@@ -1321,10 +1587,10 @@ occurrence
 Causal factor:
 •
 failure to stop of the regional passenger train No. 12853 in front of the main (route) 
-signal device Lc238 at Český Těšín station with signal „Stop”, due to by incorrect 
-
+signal device Lc238 at Český Těšín station with signal „Stop”, due to by incorrect
 
 ## Página 58
+
 
 driving style of the train driver of the regional passenger train No. 12853 to the 
 signal „Speed 40 km/h and repetition of the warning signal" signaled by the main 
@@ -1376,8 +1642,8 @@ condiciones de la vía en la línea Frýdek-Místek – Český Těšín/Český
 a pesar de no haberse familiarizado con las condiciones de la vía en la línea mencionada 
 en la extensión establecida.
 
-
 ## Página 59
+
 
 ### Additional observations
 At the infrastructure manager SŽ:
@@ -1424,18 +1690,17 @@ director
 Territorial Inspectorate Ostrava
 Territorial Inspectorate Ostrava
 
-
 ## Página 60
 
-## ANEXOS
-Fig. núm. 3: Vista de la señal «Alto» indicada por la señal principal (de itinerario) Lc238 
-de la estación Český Těšín desde el punto de inicio de su visibilidad (desde una distancia de 121 m)   
+## Anexos
+Fig. n.º 3: Vista de la señal «Alto» indicada por la señal de vía Lc238 
+est. Český Těšín desde el punto de inicio de su visibilidad (desde una distancia de 121 m)   
 Fuente: DI
-Fig. núm. 4: Vista del final del tren Os 12853 en su posición final tras la MU
+Fig. n.º 4: Vista del final del tren Os 12853 en su posición final tras la MU
 Fuente: DI
-
 
 ## Página 61
+
 
 Fig. núm. 5: Vista del HDV 814.187-1 descarrilado del tren Os 12853 en su posición 
 final tras la MU 

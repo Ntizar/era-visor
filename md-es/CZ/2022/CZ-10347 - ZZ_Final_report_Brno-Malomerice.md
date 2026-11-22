@@ -10,13 +10,14 @@ chars: 124971
 ratio_longitud: 1.14
 tokens_in: 68991
 tokens_out: 48073
-verificacion: revisar
-notas_cifras: ["bloque 1: original bilingüe: se compara contra el idioma principal (EN)", "bloque 2: cifras cortas: 120/120", "bloque 5: cifras cortas: 5/109", "bloque 10: original bilingüe: se compara contra el idioma principal (CS)"]
-avisos: ["bloque 2: marcadores de página: 7 vs 0; cifras largas: faltan 61/61 (100%); ratio 0.01", "bloque 10: ratio 1.75"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 3: original bilingüe: se compara contra el idioma principal (PT)", "página 4: original bilingüe: se compara contra el idioma principal (CS)", "página 6: original bilingüe: se compara contra el idioma principal (CS)", "página 7: original bilingüe: se compara contra el idioma principal (CS)", "página 10: original bilingüe: se compara contra el idioma principal (CS)", "página 11: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -41,13 +42,13 @@ IČ: 75009561
 mail@dicr.cz
 tel.: +420 736 521 003
 
-
 ## Página 2
+
 
 Este informe final es público y todos los hechos en él recogidos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ### 1 RESUMEN
 Fuente: Drážní inspekce
@@ -75,8 +76,8 @@ Recomendaciones de seguridad:
 Drážní inspekce, con base en lo dispuesto en el § 53e apartado 1 de la ley n.º 266/1994 Sb., recomienda,
 en relación con la prevención de incidencias:
 
-
 ## Página 4
+
 
 ### A la Oficina Ferroviaria:
 •
@@ -87,8 +88,8 @@ la problemática de contactos repetidos y no deseados, no estándar, de los ganc
 con otros componentes del desvío (raíl de soporte) y, en el marco de la eliminación definitiva
 de dichos contactos, prevenir así la tensión no deseada de estos ganchos.
 
-
 ## Página 5
+
 
 ### SUMMARY
 8th December 2022, 2:15 (1:15 GMT).
@@ -124,8 +125,8 @@ undesirable non-standard contacts of locking hooks with next switch components
 (stock rail) and definitive remove this contacts which it will prevent undesirable
 stress of this locking hooks.
 
-
 ## Página 6
+
 
 # Índice
 1 RESUMEN..................................................................................................................3
@@ -174,8 +175,8 @@ riesgos.........................................................................
 4.2.1 Factores o consecuencias derivados del diseño de los vehículos ferroviarios, de la infraestructura
 ferroviaria o de las instalaciones técnicas....................................................................44
 
-
 ## Página 7
+
 
 4.2.2 Factores o consecuencias derivados de la instalación y puesta en servicio de los vehículos
 ferroviarios, de la infraestructura ferroviaria o de las instalaciones técnicas.....................................44
@@ -215,7 +216,271 @@ ANEXOS..........................................................................
 
 The request was rejected because it was considered high risk
 
+## Página 8
+
+### Lista de siglas y símbolos utilizados
+AŽD
+AŽD Praha s.r.o.
+CDP                        Centro de despacho central
+COP
+Centro de notificación central
+ČDC
+ČD Cargo, a. s.
+ČVUT
+Universidad Técnica Checa en Praga
+DI
+Inspección Ferroviaria
+DÚ
+Autoridad Ferroviaria
+DV
+vehículo ferroviario
+ETCS
+European Train Control System (Sistema Europeo de Control de Trenes)
+GSM-R
+sistema global de comunicaciones móviles para ferrocarril (Global System for Mobile Communication for Railway)
+HDV
+vehículo ferroviario de tracción
+HZS
+Cuerpo de Bomberos y Rescate
+IZS
+sistema integrado de rescate
+MU
+ocurrencia extraordinaria
+OŘ
+Dirección Regional
+PHS
+aguja móvil de la aguja de riel
+RID
+Reglamento para el transporte internacional ferroviario de mercancías peligrosas
+SK
+vía de estación
+St.
+enclavamiento
+SZZ
+aparato de enclavamiento de estación
+SŽ
+Správa železnic, organización estatal (hasta el 1. 1. 2020 Správa železniční dopravní cesty, organización estatal – SŽDC)
+TDV
+vehículo ferroviario remolcado
+TK
+vía de trazado
+TO
+sección de trazado
+TRS
+sistema de radio de trazado
+TSI
+Especificaciones Técnicas para la Interoperabilidad
+TZZ
+aparato de enclavamiento de trazado
+ÚI
+Inspección Territorial
+VPS
+jefe del centro de explotación
+VTG
+VTG Rail Europe GmbH
+ZZ
+Informe final sobre los resultados de la investigación de la ocurrencia extraordinaria
+žst.
+estación de ferrocarril
+
+## Página 9
+
+### Lista de siglas de disposiciones legales, normas y reglamentos internos utilizados
+ley núm. 266/1994 Sb.
+ley núm. 266/1994 Sb., de ferrocarriles, en la redacción
+vigorosa en el momento de producirse la incidencia
+decreto núm. 173/1995 Sb.
+decreto núm. 173/173/1995 Sb., por el que se aprueba el
+reglamento de circulación de los ferrocarriles, en la
+redacción vigorosa en el momento de producirse la
+incidencia
+decreto núm. 177/1995 Sb.
+decreto núm. 177/1995 Sb., por el que se aprueba el
+reglamento de construcción y técnico de los ferrocarriles,
+en la redacción vigorosa en el momento de producirse la
+incidencia
+decreto núm. 376/2006 Sb.
+decreto núm. 376/2006 Sb., sobre la garantía de la
+seguridad de la explotación de la infraestructura
+ferroviaria y del transporte ferroviario y los procedimientos
+en caso de incidencias en los ferrocarriles, en la redacción
+vigorosa en el momento de producirse la incidencia
+reglamento SŽ T100
+reglamento interno del explotador de la infraestructura
+ferroviaria SŽ, «SŽ T100 Reglamento para la explotación
+de las instalaciones de señalización», en la redacción
+vigorosa en el momento de producirse la incidencia
+reglamento SŽDC S3 parte IX
+reglamento interno del explotador de la infraestructura
+ferroviaria SŽ, «SŽDC S3, Superestructura ferroviaria,
+parte IX, Desvíos y estructuras de desvío», en la
+redacción vigorosa en el momento de producirse la
+incidencia
+reglamento SŽ S3/4
+reglamento interno del explotador de la infraestructura
+ferroviaria SŽ, «SŽ S3/4, Ensayos no destructivos de
+raíles», en la redacción vigorosa en el momento de
+producirse la incidencia
+U 03 150
+documento interno del fabricante AŽD Praha s.r.o.
+«Manual de mantenimiento, Cierres de riel VZ 200 para
+desvíos de cruzamiento», en la redacción vigorosa en el
+momento de producirse la incidencia
+norma ČSN 42 2712
+norma estatal checa ČSN 42 2712 «Acero para piezas
+fundidas 42 2712 manganeso», en la redacción vigorosa
+en el momento de producirse la incidencia
+norma ČSN 41 3240
+norma estatal checa ČSN 42 2712 «Acero 41 3240 Mn-Si»,
+en la redacción vigorosa en el momento de producirse la
+incidencia
+
+## Página 10
+
+### 2 INVESTIGACIÓN Y SUS RELACIONES
+### 2.1 Decisión de iniciar la investigación
+La DI decidió iniciar la investigación de la MU en cuestión el 8 de 12 de 2022.
+### 2.2 Fundamentación de la decisión de iniciar la investigación
+La DI decidió investigar la MU en cuestión en base a su gravedad, repetitividad, impactos de la MU en la explotación segura de la vía y del transporte ferroviario, y a la competencia derivada de la disposición § 53b de la ley núm. 266/1994 Sb.
+### 2.3 Alcance y limitaciones de la investigación, incluida la fundamentación correspondiente
+La DI no se encontró, en el marco de la investigación de la MU en cuestión, con limitaciones que influyeran negativamente en el modo y los procedimientos de la investigación.
+### 2.4 Descripción resumida de las capacidades técnicas y funciones del equipo de investigación
+Investigación de la DI en el lugar de la MU:
+3x inspector de la ÚI Brno.
+Constitución del equipo de investigación:
+no fue necesario constituirlo.
+Colaboración externa:
+se utilizó, con el sujeto:
+•
+Universidad Técnica Checa en Praga, Facultad de Ingeniería Nuclear y Física,
+que elaboró el documento «Análisis de fracturas de ganchos de cierre dañados de los cierres de aguja de las agujas núm. 48a, 48b y 170b1» con el número de informe E-KMAT-1161/23.
+2.5 Comunicación y consultas durante la investigación con personas o sujetos
+que participaron en el suceso en cuestión
+En la investigación de las causas y circunstancias de la aparición de la MU, la DI se basó principalmente en sus propios conocimientos, hallazgos y en su propia documentación fotográfica. Durante la investigación, la DI solicitó posteriormente la documentación necesaria al explotador de la vía, al transportista y al fabricante del cierre de aguja.
+La investigación de las causas y circunstancias de la aparición de la MU se realizó de conformidad con la ley núm. 266/1994 Sb.
+y la ordenanza núm. 376/2006 Sb.
+### 2.6 Descripción del nivel de colaboración ofrecido por los sujetos participantes
+El nivel de colaboración con los representantes de los sujetos participantes en la MU fue estándar.
+### 2.7 Descripción de la investigación, métodos y técnicas utilizados para acreditar la situación de hecho
+y los hallazgos indicados en el informe
+En el marco de la investigación de la MU, la DI procedió de la siguiente manera, y utilizó, entre otros, los siguientes métodos y técnicas:
+•
+inspección del lugar del suceso excepcional, incluidos los DV participantes, las instalaciones técnicas y la infraestructura de la vía;
+•
+medición de los parámetros de la superestructura ferroviaria mediante un calibrador manual de ancho de vía;
+•
+análisis de la documentación solicitada al explotador de la vía y al transportista;
+
+## Página 11
+
+•
+análisis de los datos registrados por el registrador de velocidad del vehículo de tracción implicado;
+•
+participación en la inspección comisionada en el MU de los vehículos implicados;
+•
+inspecciones adicionales del lugar del MU con la participación de la Sección 13 de SŽ;
+•
+inspección de las agujas de enlace en la estación de Kolín (MU similar en 2018);
+•
+encargo y evaluación del dictamen pericial E-KMAT-1161/23 para la valoración por la ČVUT;
+•
+presentación de aclaraciones por la VPS TO Brno-Maloměřice;
+•
+solicitud del dictamen pericial E-KMAT-1165/23 al encargante AŽD.
+### 2.8 Descripción de las dificultades y problemas concretos surgidos durante la investigación
+Durante la investigación del MU no surgieron dificultades ni problemas que pudieran influir en el desarrollo de la investigación o en sus conclusiones.
+### 2.9 Interacción con los órganos judiciales
+Durante la investigación del MU en cuestión no se inició, ni por parte de la DI ni por parte de los órganos judiciales, ninguna comunicación ni colaboración.
+### 2.10 Cualquier otra información relevante para la investigación
+Todas las circunstancias esenciales detectadas relativas al desarrollo de la investigación del MU en cuestión ya se han indicado más arriba.
+### 3 DESCRIPCIÓN DEL SUCESO
+### 3.1 Descripción e información básica
+### 3.1.1 Descripción del tipo de suceso
+Tipo de MU:
+descarrilamiento de DV.
+Grupo de MU:
+incidente.
+### 3.1.2 Fecha, hora exacta y lugar del suceso
+Fecha:
+8 de 12 de 2022.
+Hora:
+2:15 h.
+Lugar:
+vía ferroviaria, categoría nacional, estación de Brno-Maloměřice, aguja n.º 48a, pk 2,838.
+Coordenadas GPS:
+49.2246928N, 16.6512642E – lugar de origen del MU.
+### 3.1.3 Descripción del lugar del suceso
+La estación de ferrocarril Brno-Maloměřice se sitúa en la vía ferroviaria, nacional, en el pk 4,424 de la línea Odb. Brno-Židenice – Havlíčkův Brod y en el pk 160,402 de la línea Odb. Brno-Židenice – Svitavy.
+En los tramos intermedios adyacentes en dirección Brno-Královo Pole y Adamov se trata de una vía doble
+
+## Página 12
+
+(en el momento de producirse el MU se estaba realizando la interrupción de ambas vías de la línea en dirección Adamov debido a la modernización de la línea), en la parte sur se conecta directamente con el Desvío Brno-Židenice. 
+## Lugar del MU
+Fig. n.º 1: Esquema del lugar de producción del MU
+           Fuente: DI sobre la base de www.mapy.cz
+Del examen del lugar del MU se constató lo siguiente:
+Primero se realizó el examen de la oficina de tráfico en el puesto de enclavamiento St. 3 norte (oficina de tráfico). Tras el examen de la oficina de tráfico, siguió el examen de la composición del tren Nex 60310 y de la superestructura de la vía en el lugar del MU.
+Estado de la infraestructura:
+•
+la superestructura de la vía en dirección desde la 2. SK hasta el lugar del MU no presentaba defectos aparentes;
+•
+en el desvío n.º 48a se constató el choque del labio interior izquierdo curvado;
+•
+junto al labio interior izquierdo curvado yacía en el travesaño de canal (sin calefacción eléctrica de los desvíos) una parte desprendida del gancho del cierre de las cuchillas, con una fractura antigua visible y una pequeña zona fresca de desprendimiento. Este gancho fue desmontado y la DI lo aseguró en el lugar para su posterior examen pericial;
+
+## Página 13
+
+•
+El eje "0" se encontraba en el pk 2,838, en el desvío n.º 48a. Debido a la circulación por la rama y al descarrilamiento, se dañaron componentes de los desvíos n.º 48a/b (doble corazón izquierdo, roturas de los perfiles de sujeción y de los raíles, rotura del gancho interior derecho del cierre de mandíbulas del desvío n.º 48b, daños en los dispositivos de fijación y en los traviesas de hormigón en la parte del desvío n.º 48b);
+Fig. n.º 2: Parte desprendida del gancho de cierre del cierre de mandíbulas del desvío
+n.º 48a
+                  Fuente: ČVUT
+•
+se detectó una deformación direccional y una rotura en el carril derecho en la unión de los desvíos n.º 48b y n.º 49 en el pk 2,829 (visible en la fig. n.º 12 del anexo);
+•
+en el sentido de circulación del tren Nex 60310, tras el desvío n.º 48a/b, se detectaron múltiples roturas de raíles, traviesas de hormigón dañadas y dispositivos de fijación dañados debido a la circulación de los vehículos descarrilados (véase la fig. n.º 3);
+•
+se realizó una medición de la superestructura ferroviaria tras el descarrilamiento con un ancho de vía manual Robel y una medición de las partes de los desvíos n.º 48a/b;
+•
+se realizó una medición del lengüeta interior izquierda del desvío n.º 48a con la plantilla de medición PŠR3, plantilla de 55°, en la que la lengüeta cumplía en todo el tramo medido;
+•
+a 1,2 m del comienzo de la lengüeta interior izquierda del desvío n.º 48a se detectó un defecto en la cabeza de la lengüeta de 30 mm de longitud;
+•
+debido a la parada de parte del tren Nex 60310 en la vía dañada y a los trabajos de realineamiento, no fue posible documentar in situ todos los defectos de la superestructura de vía. La inspección exhaustiva del desvío, también debido a la repetición y gravedad de esta MU, se llevó a cabo con la participación del Departamento 13 de SŽ el 20. 1. 2023 (véase el capítulo 3.1.8).
+
+## Página 14
+
+Fig. n.º 3: Daño en la superestructura de la vía detrás de la aguja n.º 48b tras el traslado de los vehículos no descarrilados    Fuente: DI
+Estado del aparato de seguridad:
+•
+la estación Brno-Maloměřice estaba equipada con un aparato de seguridad de categoría 3 de selección por pulsadores;
+•
+la ruta de salida para el tren Nex 60310 fue establecida por la operación normal del aparato de seguridad;
+•
+durante el paso del tren Nex 60310 se señaló la pérdida de posición de la aguja n.º 48a/b mediante el timbre de seccionamiento;
+•
+la ruta de tren desde la 2.ª vía principal hasta la aguja n.º 48a/b fue automáticamente cancelada por el paso del tren;
+•
+todos los pulsadores de emergencia estaban equipados con precintos.
+Estado de los vehículos ferroviarios del tren Nex 60310:
+•
+el tren Nex 60310 estaba formado por la locomotora de tracción CZ-ČDC 91 54 7 363 247-8 y 14 vagones para el transporte de contenedores de distintas series y propietarios;
+•
+la cabeza del tren Nex 60310 se detuvo en el extremo en el pk 3,088 (en dirección a la 2.ª vía principal Brno-Maloměřice – Brno-Královo Pole);
+•
+el tren estaba señalizado con las señales «Inicio de tren» y «Fin de tren»;
+•
+en el puesto de conducción delantero no estaba seleccionada la dirección de marcha, la palanca de conducción estaba en la posición «X», el freno continuo estaba en la posición «cierre» y el freno directo en la posición totalmente frenado;
+•
+la locomotora fue llevada a un estado seguro tras la detención;
+•
+en la pantalla del radioteléfono de a bordo estaba seleccionado el tren 60310 en el modo GSM-R CZ;
+•
+en el puesto del maquinista no había ninguna orden de marcha del tren;
+
 ## Página 15
+
 
 •
 en el puesto de conducción del maquinista se encontraba la comunicación internacional de frenado y la lista del tren Nex 60310;
@@ -264,6 +529,7 @@ y puesta en servicio de la vía de circulación de la vía
 
 ## Página 16
 
+
 •
 medio ambiente
               0 CZK.
@@ -311,8 +577,8 @@ El transporte ferroviario se prestaba en virtud del contrato celebrado entre el 
 | Peso (t): | 861315 , | 1 . | 318049502731 - | P |
 | Porcentajes de frenado necesarios (%): | 72 | 2 . | 315449505520 - | P |
 
-
 ## Página 17
+
 
 | Porcentajes de frenado reales (%): | 93 | 3 . | 315445644356 - | P |
 | Porcentajes de frenado ausentes (%): | 0 | 4 . | 378049501844 - | P |
@@ -355,8 +621,8 @@ registrada la salida del tren Nex 60310 a una distancia de 855 m de la posterior
 2:15:57 h
 en el pk 2,838 y simultáneamente a 250 m del lugar de la posterior parada del frente del tren, con una velocidad instantánea de 36,3 km·h-1, se produjo el MU;
 
-
 ## Página 18
+
 
 •
 2:16:04 h
@@ -388,71 +654,70 @@ La aguja n.º 48a/b era un prototipo para la verificación en servicio de la agu
 
 ## Página 19
 
-forjadas, lenguas con disposición tangencial del perfil de lengua I 49 forjadas al perfil S 49 con un respaldo de rieles del perfil S 49. Las lenguas y los respaldos se apoyaban en soportes deslizantes. El apoyo y la fijación de la aguja se realizaron mediante soportes nervurados y soportes deslizantes. Los rieles se fijaron con abrazaderas elásticas Vossloh, el respaldo por el lado interior con una muelle de sujeción. Entre el riel y el soporte se insertó una junta de goma de 6 mm de espesor y bajo el soporte se insertó una junta de polietileno de 2 mm de espesor. La aguja se instaló en el año 2008. El 14. 1. 2022 se sustituyó la lengua interior derecha curva en la aguja n.º 48b (en el sentido de circulación del tren, lengua izquierda). El respaldo correspondiente, aunque ya presentaba signos de un ligero desgaste, no fue sustituido.
+forjadas, lenguas con disposición tangencial del perfil lingüeril I 49 forjadas al perfil S 49 con nádvarka de rieles del perfil S 49. Las lenguas y los apoyos estaban alojados sobre sillas deslizantes. El apoyo y la fijación de la aguja se realizaron mediante placas base nervuradas y sillas deslizantes. Los rieles estaban fijados con abrazaderas elásticas Vossloh, el apoyo por el lado interior con una muelle de sujeción. Entre el riel y la placa base se insertó una junta de goma de 6 mm de espesor y bajo la placa base se insertó una junta de polietileno de 2 mm de espesor. La aguja se insertó en el año 2008. El 14. 1. 2022 se sustituyó la lengua interior derecha curva en la aguja n.º 48b (en el sentido de circulación del tren, lengua izquierda). El apoyo correspondiente, aunque ya presentaba signos de ligero desgaste, no fue sustituido.
 
-DI realizó el 20. 1. 2023 (la primera fecha conjunta posible) con la participación de SŽ, representantes de la Sección 13, una inspección del lugar del MU y la medición de algunos parámetros de la aguja n.º 48a/b. En la lengua interior izquierda de la aguja n.º 48a se detectó una elevación de la lengua sobre el respaldo de 7 mm y tornillos de fijación flojos con muelle de sujeción, incluida una abrazadera elástica de fijación rota (en total 7 piezas de ambos tipos de fijación), lo cual no fue consecuencia del MU. En todas las abrazaderas (9 piezas) se detectaron juntas de goma aplastadas que no cumplían su función.
+DI realizó el 20. 1. 2023 (la primera fecha posible común) con la participación de SŽ, representantes de la Sección 13, una inspección del lugar del MU y la medición de algunos parámetros de la aguja n.º 48a/b. En la lengua interior izquierda de la aguja n.º 48a se detectó un sobreelevación de la lengua sobre el apoyo de 7 mm y tornillos de fijación flojos con muelle de sujeción, incluida una abrazadera elástica de fijación rota (en total 7 piezas de ambos tipos de fijación), lo cual no ocurrió como consecuencia del MU. En todas las abrazaderas (9 piezas) se detectaron juntas de goma aplastadas, que no cumplían su función.
 
-DI tomó el 20. 1. 2023 otro gancho de sujeción roto (consecuencia del MU) de esta lengua para su posterior examen. Este gancho presentaba signos de fractura por fatiga (aproximadamente el 20 % de la sección transversal), el resto era una fractura frágil. Tras la sustitución y reparación de la aguja n.º 48a/b, DI solicitó y entregó a ČVUT, con el fin de una evaluación especializada, una parte (aproximadamente 35 cm) del respaldo izquierdo del espacio desde la lengua interior izquierda curva de esta aguja, especialmente debido a los signos y al desgaste de la base del respaldo en su cara inferior como consecuencia del contacto con el gancho de sujeción en movimiento.
+DI tomó el 20. 1. 2023 otro gancho de sujeción roto (consecuencia del MU) de esta lengua para su ulterior examen. Este gancho presentaba signos de fractura por fatiga (aproximadamente el 20 % de la sección transversal), el resto era una fractura frágil. Tras la sustitución y reparación de la aguja n.º 48a/b, DI solicitó y entregó al ČVUT, con el fin de una evaluación especializada, una parte (aproximadamente 35 cm) del apoyo izquierdo del espacio desde la lengua interior izquierda curva de esta aguja, especialmente debido a los signos y al desgaste de la pata del apoyo por la cara inferior como consecuencia del contacto con el gancho de sujeción en movimiento.
 
-Como consecuencia de los hallazgos del MU en cuestión, DI realizó el 25. 1. 2023 una inspección de los ganchos de las trabas de mordazas en la est. Kolín en las agujas de crucero con puntas móviles de corazón n.º 171, 170, 169 y 164. El motivo era comprobar el estado de los ganchos de las agujas de crucero tras un MU similar anterior (est. Kolín, véase el punto 4.5 ZZ). Los inspectores de DI limpiaron a fondo todos los ganchos de sujeción por la cara superior de la suciedad y las grasas de servicio. En la aguja n.º 170b1 se encontró un desprendimiento visible del gancho en la lengua interior derecha curva. DI contactó inmediatamente desde el lugar con O13 SŽ. Los empleados del sector de vía en Kolín, que participaron en la inspección con DI, adoptaron una medida inmediata (prohibición de circular en la dirección de desviación) y aseguraron la sustitución del gancho en el plazo de unos días. DI solicitó y recibió este gancho agrietado como otra pieza para su examen especializado. Además, se descubrió la elevación de algunas lenguas en las agujas. En la aguja n.º 169a1 se produjo una elevación de la lengua derecha curva de 9 mm y de la lengua izquierda curva de 4 mm. En la aguja n.º 169b1 se detectó una elevación de la lengua derecha curva de 7 mm y de la lengua izquierda curva de 3 mm. En la aguja n.º 169a2 se detectó una elevación de la lengua izquierda curva de 5 mm y de la lengua derecha curva de 7 mm. En la aguja n.º 164b1 se detectó una elevación de la lengua izquierda curva de 7 mm sobre el respaldo. En la aguja n.º 164a1 se detectó una elevación de la lengua derecha curva de 8 mm y de la lengua izquierda curva de 6 mm sobre el respaldo.
+Como consecuencia de los hallazgos del MU en cuestión, DI realizó el 25. 1. 2023 una inspección de los ganchos de las mordazas de sujeción en la estación de Kolín en agujas de crucero con puntas móviles de corazón n.º 171, 170, 169 y 164. El motivo era la comprobación del estado de los ganchos de las agujas de crucero tras un MU similar anterior (estación de Kolín, véase el punto 4.5 ZZ). Los inspectores de DI limpiaron a fondo todos los ganchos de sujeción por la cara superior de las suciedades y lubricantes de explotación. En la aguja n.º 170b1 se encontró un desprendimiento visible del gancho en la lengua interior derecha curva. DI contactó inmediatamente desde el lugar con O13 SŽ. Los empleados del sector de vía en Kolín, que participaron en la inspección con DI, adoptaron una medida inmediata (prohibición de circular en la dirección de desviación) y aseguraron la sustitución del gancho en el plazo de unos días. DI solicitó y entregó este gancho agrietado como otra pieza para su examen especializado. Además, se descubrió la sobreelevación de algunas lenguas en las agujas. En la aguja n.º 169a1 se produjo una sobreelevación de la lengua derecha curva de 9 mm y de la lengua izquierda curva de 4 mm. En la aguja n.º 169b1 se detectó una sobreelevación de la lengua derecha curva de 7 mm y de la lengua izquierda curva de 3 mm. En la aguja n.º 169a2 se detectó una sobreelevación de la lengua izquierda curva de 5 mm y de la lengua derecha curva de 7 mm. En la aguja n.º 164b1 se detectó una sobreelevación de la lengua izquierda curva de 7 mm sobre el apoyo. En la aguja n.º 164a1 se detectó una sobreelevación de la lengua derecha curva de 8 mm y de la lengua izquierda curva de 6 mm sobre el apoyo.
 
-Desde 2018 hasta la fecha se han encontrado y documentado un total de 5 fracturas de ganchos de sujeción fundidos (posibles casos adicionales no eran conocidos por DI), en todos los casos se produjeron en agujas de crucero con traviesas de hormigón. Como consecuencia de estas fracturas se produjeron 2 MU.
+Desde 2018 hasta la fecha se han encontrado y documentado un total de 5 fracturas de ganchos de sujeción fundidos (posibles otros casos no eran conocidos por DI), en todos los casos se produjeron en agujas de crucero con traviesas de hormigón. Como consecuencia de estas fracturas se produjeron 2 MU.
 
 ## Página 20
 
-Fig. n.º 4: Gancho de sujeción de la trabas de mordazas de la aguja n.º 170b1 en Kolín. La posición de la grieta está indicada con flechas.
+Obra n.º 4: Gancho de cierre del cierre de mandíbulas de la aguja n.º 170b1 en Kolín. La posición de la grieta está señalada con flechas.
      Fuente: ČVUT
-### 3.1.9 Cualquier otra información relevante para los fines de la descripción del suceso y de la información básica
-Resumen de las explicaciones facilitadas por los empleados del gestor de la infraestructura y del transportista, incluidas las personas con relación contractual:
+### 3.1.9 Cualquier otra información relevante a los fines de la descripción del suceso y de la información básica
+Resumen de las explicaciones presentadas por los empleados del gestor de la infraestructura ferroviaria y del transportista, incluidas las personas con relación contractual:
 •
 maquinista del tren Nex 60310
   – Acta con el empleado:
-◦llegó a la est. Brno-Maloměřice como maquinista del tren Nex 60311;
-◦tras la llegada y el desenganche fue informado por el jefe de estación de que circularía hacia el norte y a la vía n.º 101 para los vagones;
-◦en la vía n.º 101, tras enganchar 3 vagones, esperó la llegada del tren 60310;
-◦tras la aparición de la señal «Maniobras permitidas» en el semáforo Lc101, el jefe de estación le informó de que circularía a la vía n.º 10c;
-◦allí el jefe de estación le informó para que cambiara la emisora al canal 28, que le conduciría el jefe de maniobras desde la vía n.º 10c a la vía n.º 2;
-◦tras engancharse a la composición en la vía n.º 2, llegó el jefe de vagones, que realizó en los primeros 4 vagones la prueba completa de freno, le trajo la documentación del tren y le firmó el informe internacional de frenado;
-◦tras revisar la documentación del tren y introducir los datos en LS06, declaró la disponibilidad al jefe de estación de la est. Brno-Maloměřice;
-◦el jefe de estación le dijo que entendía y «que saldríamos en un momento tras la salida del tren que partía de la vía contigua»;
+◦llegó a la estación de Brno-Maloměřice como maquinista del tren Nex 60311;
+◦tras su llegada y desenganche, fue informado por el jefe de estación de que iría hacia el norte y a la vía n.º 101 para los vagones;
+◦en la vía n.º 101, tras acoplar 3 vagones, esperó la llegada del tren 60310;
+◦tras la aparición de la señal «Maniobras permitidas» en el semáforo Lc101, el jefe de estación le informó de que iría a la vía n.º 10c;
+◦allí el jefe de estación le informó de que cambiase la frecuencia de la estación de radio al canal 28, que le conduciría el jefe de maniobras desde la vía n.º 10c a la vía n.º 2;
+◦tras acoplar a la composición en la vía n.º 2, llegó el jefe de vagones, que realizó una prueba completa de freno en los primeros 4 vagones, le entregó la documentación del tren y le firmó el informe internacional de frenado;
+◦tras revisar la documentación del tren e introducir los datos en el LS06, declaró su disponibilidad al jefe de estación de Brno-Maloměřice;
+◦el jefe de estación le dijo que entendía y «que saldríamos enseguida tras la salida del tren que partía de la vía contigua»;
 ◦en el semáforo Lc2 se encendió la señal «Velocidad 40 km/h y repetición de la señal de Advertencia», puso el tren en movimiento y antes de llegar al semáforo Lc2 la señal cambió a «Velocidad 40 km/h y espere velocidad 40 km/h»;
-◦al entrar en la vía n.º 1b brillaba en el semáforo L1b la señal «Velocidad 40 km/h y advertencia» y antes de que llegara a él cambió a la señal «Velocidad 40 km/h y vía libre»;
-◦tras pasar el semáforo L1b activó la automatización a 40 km.h-1 e incrementó lentamente la velocidad;
-
+◦al entrar en la vía n.º 1b brillaba en el semáforo L1b la señal «Velocidad 40 km/h y advertencia» y antes de que llegara a él, cambió a la señal «Velocidad 40 km/h y vía libre»;
+◦tras pasar el semáforo L1b, activó la automatización a 40 km·h-1 y aumentó lentamente la velocidad;
 
 ## Página 21
 
-◦tras pasar las agujas en la cabecera sintió una «extraña tracción inversa» del tren y notó una caída de presión en la tubería principal;
-◦se detuvo inmediatamente, tras lo cual el jefe de estación le llamó por emisora para que se detuviera;
-◦le comunicó que el tren ya estaba detenido, y el jefe de estación le dio la orden de que no se moviera;
-◦puso los elementos de mando de la HDV en posición segura y fue a comprobar la composición del tren, donde constató el descarrilamiento de los vagones 5.º, 6.º y 7.º;
-◦comunicó el MU al despachador central en Česká Třebová, al despachador de locomotoras en Česká Třebová y al jefe de locomotoras en Nymburk;
-◦al circular desde la vía n.º 2 en la cabecera por la vía n.º 1b en dirección a Brno-Královo Pole no notó nada, hasta el momento de la «extraña tracción inversa»;
-◦durante las maniobras no notó nada especial, la maniobra desde la vía n.º 101 a la vía n.º 2 se realizó sin problemas;
-◦durante la inspección de la composición se encontró con el jefe de estación, que le comunicó que había encontrado una fractura del riel que probablemente había causado el descarrilamiento de los vagones.
+◦al pasar por el paso de agujas en la cabecera, sintió un «extraño tirón inverso» del tren y notó una caída de presión en la tubería principal;
+◦se detuvo inmediatamente, tras lo cual el jefe de estación le llamó por radio para que se detuviera;
+◦le comunicó que el tren ya estaba detenido, y el jefe de estación le dio la orden de no moverse ya;
+◦puso los elementos de mando del HDV en posición segura y fue a revisar la composición del tren, donde constató el descarrilamiento de los vagones 5.º, 6.º y 7.º;
+◦el MU comunicó al despachista central de Česká Třebová, al despachista de locomotoras de Česká Třebová y al jefe de máquinas de Nymburk;
+◦al circular de la vía n.º 2 en la cabecera por la vía n.º 1b en dirección a Brno-Královo Pole, no notó nada, hasta el momento del «extraño tirón inverso»;
+◦durante la maniobra no notó nada especial, la maniobra desde la vía n.º 101 a la vía n.º 2 se realizó sin problemas;
+◦durante la revisión de la composición se encontró con el jefe de estación, quien le informó de que había encontrado una rotura del carril que probablemente había causado el descarrilamiento de los vagones.
 •
-jefe de estación de despacho de la est. Brno-Maloměřice
+jefe de maniobras de la est. Brno-Maloměřice
   – Acta con el empleado:
-◦el 8. 12. 2022, con la salida del tren 60310 desde la 2.ª vía de clasificación a la 2.ª vía principal en dirección a la est. Brno-Královo Pole, sonó la campana de corte en la mesa de vías del dispositivo de enclavamiento de relés y, mirando, notó que en las agujas n.º 48a/b y n.º 49 se indicaba la pérdida de vigilancia;
-◦en ese instante el jefe de estación panel norte ya llamaba por emisora al maquinista del tren 60310 para que se detuviera inmediatamente;
+◦el 8. 12. 2022, con la salida del tren 60310 de la 2.ª SK a la 2.ª TK hacia la est. Brno-Královo Pole, sonó la campana de corte en la mesa de vías del aparato de enclavamiento por relés, y con la mirada notó que en las agujas n.º 48a/b y n.º 49 se indicaba la pérdida de vigilancia;
+◦en ese momento, el jefe de estación panel norte ya estaba llamando por radio al maquinista del tren 60310 para que se detuviera de inmediato;
 ◦el maquinista respondió que ya estaba detenido debido a una fuga de aire de la tubería continua;
 ◦el jefe de estación panel norte fue a comprobar el lugar para averiguar qué había ocurrido;
-◦tras un rato le comunicó que se había producido el descarrilamiento de vagones;
-◦a continuación realizó la declaración del MU conforme al Calendario de declaraciones.
+◦un momento después le comunicaron que se había producido el descarrilamiento de los vagones;
+◦a continuación, realizó la comunicación del MU según el Plan de Comunicaciones.
 •
 jefe de estación panel norte de la est. Brno-Maloměřice
   – Acta con el empleado:
 ◦el 7. 12. 2022 a las 17:00 h entró en turno como jefe de estación panel norte;
-◦hasta la producción del MU el turno transcurrió normalmente y sin incidencias;
-◦tras la salida del tren 47766 a las 2:12 h estableció la ruta para el tren 60310 desde la 2.ª vía de clasificación a la 2.ª vía principal en dirección a Brno-Královo Pole;
-◦con el paso del tren por la aguja n.º 48a/b sonó la campana de corte y se encendió la indicación de corte en el panel SZZ;
-◦intentó contactar inmediatamente con el maquinista mediante la emisora;
+◦hasta la aparición del MU, el turno transcurrió con normalidad y sin incidencias;
+◦tras la salida del tren 47766 a las 2:12 h, estableció la ruta ferroviaria para el tren 60310 de la 2.ª SK a la 2.ª TK en dirección a Brno-Královo Pole;
+◦con el paso del tren por la aguja n.º 48a/b, sonó la campana de corte y se encendió la indicación de corte en el panel SZZ;
+◦intentó contactar inmediatamente con el maquinista mediante el aparato de radio;
 ◦a continuación, el jefe de estación de vía se comunicó con el maquinista mediante GSM-R;
-◦el maquinista comunicó que ya se había detenido, porque se había producido una fuga de aire de la tubería de freno continuo;
-◦aproximadamente a las 2:20 h fue a comprobar el lugar de producción del MU, donde constató la desalineación de 3 DV;
-
+◦el maquinista comunicó que ya se había detenido, debido a una fuga de aire de la tubería de freno continuo;
+◦aproximadamente a las 2:20 h fue a comprobar el lugar de origen del MU, donde constató el desplazamiento de 3 DV;
 
 ## Página 22
+
 
 ◦comunicó el hecho al jefe de estación de despacho, que declaró el MU en los términos del Calendario de declaraciones.
 •
@@ -474,39 +739,39 @@ VPS de la est. Brno-Maloměřice
 
 ## Página 23
 
-◦del modo de manipulación de los cierres de las agujas no fueron puestos de manifiesto de forma demostrable a otros componentes operativos ni a otros empleados. A algunos empleados ferroviarios se les mostró el modo de eliminación de averías en caso de funcionamiento pesado de la aguja.
+◦no fueron puestos de forma demostrable en conocimiento de otros componentes operativos o empleados mediante el modo de manipulación de los cierres de las agujas. A algunos empleados de tráfico se les mostró el modo de eliminación de averías en caso de paso difícil de la aguja.
 ### 3.2 Descripción fáctica del suceso
 ### 3.2.1 Secuencia de hechos que condujeron al suceso excepcional
-El 8 de diciembre de 2022, por la mañana, se estaba preparando la composición para el tren Nex 60310 en la est. Brno-Maloměřice. A la composición principal, que había llegado desde Přerov, se le acoplaron 3 vagones y otra HDV. Se realizó la prueba de freno y el maquinista del tren Nex 60310 comunicó a los jefes de estación de la est. Brno-Maloměřice que estaba listo para la salida. Tras la salida del tren 47766, hacia las 2:12 h, el jefe de estación de panel del norte de la est. Brno-Maloměřice estableció la vía de tren desde la 2. SK hacia la 2. TK en dirección a Brno-Králova Pole. El maquinista del tren Nex 60310, ante la señal «Velocidad 40 km/h y repetición de la señal Aviso» en el semáforo de vía Lc2, comenzó a arrancar. Antes de llegar al semáforo de salida L1b, ya en este se mostraba la señal «Velocidad 40 km/h y vía libre». Al pasar por la cabecera, especialmente en el espacio de la aguja n.º 48a/b, no observó nada anormal. Tras pasar la HDV por la cabecera, sintió un «extraño tirón inverso». También registró una fuga de aire del conducto principal y el tren se detuvo inmediatamente. Durante el paso del tren Nex 60310 por la aguja n.º 48a/b se produjo la señalización de corte y la pérdida de control de las agujas n.º 48a/b y n.º 49 en el panel SZZ de la est. Brno-Maloměřice. El jefe de estación de panel de la est. Brno-Maloměřice contactó con el maquinista del tren Nex 60310, quien le comunicó que ya se había detenido debido a una fuga de aire del conducto principal. El maquinista y el jefe de estación de panel se dirigieron al lugar para inspeccionarlo y comprobaron el descarrilamiento de 3 vagones.
-### 3.2.2 Secuencia de hechos desde la producción del suceso excepcional hasta la finalización de las acciones de los servicios de rescate
+El 8 de diciembre de 2022, por la mañana, se preparaba la composición para el tren Nex 60310 en la estación de Brno-Maloměřice. A la composición principal, que había llegado desde Přerov, se le acoplaron 3 vagones y otra HDV. Se realizó la prueba de freno y el maquinista del tren Nex 60310 comunicó a los jefes de estación de Brno-Maloměřice que estaba listo para la salida. Tras la salida del tren 47766, hacia las 2:12 h, el jefe de estación de panel del norte de la estación de Brno-Maloměřice estableció la vía de tren desde la 2. SK hacia la 2. TK en dirección a Brno-Královo Pole. El maquinista del tren Nex 60310, ante la señal «Velocidad 40 km/h y repetición de la señal Aviso» en la señal de camino Lc2, comenzó a arrancar. Antes de llegar a la señal de salida L1b, ya en ella brillaba la señal «Velocidad 40 km/h y vía libre». Al pasar por la cabecera, especialmente en el espacio de la aguja n.º 48a/b, no observó nada anormal. Tras pasar la cabecera con la HDV, sintió un «extraño tirón inverso». También registró una fuga de aire del conducto principal y el tren se detuvo inmediatamente. Durante el paso del tren Nex 60310 por la aguja n.º 48a/b se produjo la señalización de corte y la pérdida de control de las agujas n.º 48a/b y n.º 49 en el panel SZZ de la estación de Brno-Maloměřice. El jefe de estación de panel de la estación de Brno-Maloměřice contactó con el maquinista del tren Nex 60310, quien le comunicó que ya se había detenido debido a una fuga de aire del conducto principal. El maquinista y el jefe de estación de panel se dirigieron al lugar y constataron el descarrilamiento de 3 vagones.
+### 3.2.2 Secuencia de hechos desde la aparición del suceso excepcional hasta la finalización de las acciones de los servicios de rescate
 8 de diciembre de 2022
 •
 2:16 h
-el jefe de estación de panel de la est. Brno-Maloměřice contactó por radio con el maquinista del tren Nex 60310 para que se detuviera inmediatamente;
+el jefe de estación de panel de la estación de Brno-Maloměřice contactó por radio con el maquinista del tren Nex 60310 para que se detuviera inmediatamente;
 •
 2:16 h
-el maquinista del tren Nex 60310 comunicó al jefe de estación de panel de la est. Brno-Maloměřice que estaba detenido por una fuga de aire del conducto principal;
+el maquinista del tren Nex 60310 comunicó al jefe de estación de panel de la estación de Brno-Maloměřice que estaba detenido por una fuga de aire del conducto principal;
 •
 2:25 h
-el jefe de estación de despacho de la est. Brno-Maloměřice comunicó la producción del SU al CDP Přerov tras las informaciones recibidas por el jefe de estación de panel de la est. Brno-Maloměřice (fue enviado a inspeccionar el lugar del SU);
+el jefe de estación de despacho de la estación de Brno-Maloměřice comunicó la aparición del SE en el CDP de Přerov tras las informaciones recibidas por el jefe de estación de panel de la estación de Brno-Maloměřice (fue enviado a observar el lugar del SE);
 •
 2:37 h
-el despachador del CDP Přerov llamó al jefe de estación de despacho de la est. Brno-Maloměřice para obtener informaciones aclaratorias necesarias para comunicar el SU al O18 SŽ;
+el despachador del CDP de Přerov llamó al jefe de estación de despacho de la estación de Brno-Maloměřice para obtener informaciones aclaratorias necesarias para la notificación del SE a O18 SŽ;
 •
 2:40 h
-el jefe de estación de despacho de la est. Brno-Maloměřice comunicó la producción del SU según el calendario de comunicación al IZS;
+el jefe de estación de despacho de la estación de Brno-Maloměřice comunicó la aparición del SE según el calendario de notificación al IZS;
 •
 2:40 h
-el jefe despachador del CDP Přerov comunicó el SU al O18 SŽ;
+el jefe despachador del CDP de Přerov comunicó el SE a O18 SŽ;
 •
 2:53 h
-la persona designada del O18 SŽ comunicó la producción del SU al COP DI;
+la persona designada de O18 SŽ comunicó la aparición del SE al COP DI;
 •
 3:55 h
-inspección del lugar de producción del SU por empleados del DI, SŽ y la Policía ČR;
-
+inspección del lugar de aparición del SE por empleados de DI, SŽ y Policía ČR;
 
 ## Página 24
+
 
 •
 5:15 h
@@ -528,19 +793,18 @@ Cuerpo de Bomberos y Rescate SŽ Brno, Unidad de Protección Contra Incendios Br
 ### 4.1.1 Transportistas y gestores de vías
 El gestor de la vía tiene, entre otras, la obligación de explotar la vía para las necesidades del tráfico ferroviario fluido y seguro según las normas de explotación de la vía. El propietario de la vía está obligado a garantizar el mantenimiento y la reparación de la vía en la medida necesaria para su aptitud de explotación. SŽ realizaba en la aguja n.º 48a/b una inspección periódica y los registros correspondientes de la medición de los parámetros de la aguja en la documentación. La última intervención importante (reparación) en la aguja n.º 48a/b fue el cambio del lengüeta interior derecha defectuosa de la parte b (izquierda en el sentido de la marcha), el 14 de enero de 2022. En el SU se encontró en esta lengüeta un gancho roto como consecuencia del SU (véase el capítulo 3.1.8 ZZ). La aguja n.º 48a/b estaba sometida a inspección y mantenimiento periódicos. A pesar de ello, se encontraron en el soporte izquierdo de la parte a tornillos de fijación sueltos, una abrazadera de fijación elástica rota (un total de 7 piezas de ambos tipos de fijación), almohadillas de caucho aplastadas (un total de 9 piezas) y un sobreelevación de la lengüeta izquierda. VPS TO Brno-Maloměřice, en su escrito de explicaciones para el DI, indicó que la fijación elástica de los soportes aquí era atípica y no había existencias. Dada la necesidad de pedidos con un plazo de entrega mínimo de un trimestre, era necesario sustituir de inmediato la fijación defectuosa y para ello se utilizó una fijación rígida. Asimismo indicó que la aguja era inspeccionada y mantenida periódicamente. Al menos 2 veces al año se realizaba el ajuste del funcionamiento de los cierres mediante el batido de las lengüetas en la dirección requerida (es decir, el ajuste de la posición de las lengüetas respecto al soporte debido al fenómeno conocido como «caminar de las lengüetas»). Todas las intervenciones realizadas durante el mantenimiento se llevaron a cabo conforme a los procedimientos tecnológicos. El aplastamiento (es decir, la formación de una superficie en la cara superior del gancho de cierre debido al contacto no deseado de la cara superior del gancho de cierre con la cara inferior del talón del soporte) de los ganchos de cierre era, según se afirmaba, habitual y no se tenía constancia de que pudiera guardar relación con la rotura de los ganchos. El cambio de las almohadillas de caucho aplastadas no llegó a producirse antes de la producción del SU. Las marcas de golpes de objetos que se descubrieron en los ganchos no pudo explicarlas. Para liberar el llamado funcionamiento pesado de los ganchos se necesitan patadas o golpes al gancho, especialmente en el periodo invernal con heladas o deshielos, cuando por efecto de una capa fina de óxido se produce la inmovilidad de los ganchos. Esto afecta a todos los cierres (de mordazas y de ganchos), especialmente donde no está instalada la calefacción de agujas. La inspección de los ganchos del cierre de mordazas se realizaba únicamente visualmente. No estaba prescrito otro método de inspección y no se realiza ensayo no destructivo en estas piezas. Los demás componentes operativos de SŽ no fueron puestos de manifiesto de forma demostrable sobre la manipulación de los cierres de la aguja. Solo a algunos trabajadores (jefes de estación) se les mostró el procedimiento para liberar el funcionamiento de los cierres en caso de llamado funcionamiento pesado.
 
-
 ## Página 25
 
-La actividad de inspección se realizaba de la forma prescrita, las averías se comunicaban y se eliminaban de forma continuada. No se comunicó ninguna avería con influencia en la seguridad de la explotación. Los viajes de inspección con el vehículo de medición para la superestructura ferroviaria no registraron ninguna desviación respecto al estado normal. A partir del 3 de octubre de 2022 (es decir, 2 meses antes de la producción del SU) también quedó prohibido instalar nuevos ganchos de cierre fundidos en agujas con tipo de superestructura S 49 como resultado de la recomendación de seguridad del DI tras el SU en la est. Kolín (véase el punto 4.5 de esta ZZ). Si se hubiera detectado una avería (rotura) en el gancho de cierre de la aguja n.º 48a/b a partir de la fecha indicada, ya se habría sustituido por su variante forjada. El problema de las roturas de los ganchos de cierre era conocido por parte de SŽ y se estaba abordando en colaboración con el fabricante y proveedor AŽD Praha.
-La detección de defectos ocultos en las agujas se realiza mediante ensayo no destructivo (de defectoscopia). Su metodología en las vías explotadas por el gestor de la vía SŽ la establece la norma interna de SŽ S3/4. La mencionada norma establece los principios del ensayo no destructivo de rieles, vínculos y lengüetas de agujas, de sus soldaduras y deposiciones. No aborda, por tanto, el ensayo no destructivo de otros componentes, por ejemplo, de los componentes de los cierres de agujas.
-Las disposiciones de la norma SŽDC S3, parte IX. Agujas y estructuras de agujas, describen principalmente la construcción, el equipamiento y el mando de las agujas y abordan los requisitos técnicos. Contiene, por tanto, partes donde se establecen medidas de inspección para los cierres de cambio de mordazas en agujas de cruce. En el art. 89 de la norma SŽDC S3, parte IX, se establece que «En explotación no pueden mantenerse sin medidas de seguridad especiales las agujas que tengan aunque sea una sola de las siguientes averías:
+La actividad de control se realizaba de la manera prescrita, las averías se comunicaban y se eliminaban de forma continuada. No se comunicó ninguna avería con influencia en la seguridad de la explotación. Los viajes de control con el vehículo medidor para la superestructura ferroviaria no registraron ninguna desviación del estado normal. A partir del 3 de octubre de 2022 (es decir, 2 meses antes de la aparición del MU) también quedó prohibido instalar nuevos ganchos de fijación fundidos en desvíos con tipo de superestructura S 49 como resultado de la recomendación de seguridad DI tras el MU en la est. Kolín (véase el punto 4.5 de esta ZZ). Si se hubiera detectado una avería (rotura) en el gancho de fijación del desvío n.º 48a/b desde la fecha indicada, ya se habría sustituido por su variante forjada. El problema de las roturas de los ganchos de fijación era conocido por parte de SŽ y se abordó en colaboración con el fabricante y proveedor AŽD Praha.
+La detección de defectos ocultos en los desvíos se realiza mediante ensayo no destructivo (de detección de defectos). Su metodología en las vías explotadas por el explotador de vía SŽ la establece la norma interna de SŽ S3/4. Dicha norma establece los principios del ensayo no destructivo de raíles, cruces y agujas de desvío, de sus soldaduras y deposiciones. No aborda, por tanto, el ensayo no destructivo de otros componentes, p. ej. de los componentes de los enclavamientos de desvío.
+Las disposiciones de la norma SŽDC S3, parte IX. Desvíos y estructuras de desvío, describen en su mayoría la construcción, el equipamiento y el mando de los desvíos y abordan requisitos técnicos. Contiene, por tanto, partes donde se establecen medidas de control para los cierres de cambio de lengüeta en desvíos de cruce. En el art. 89 de la norma SŽDC S3, parte IX, se establece que «En la explotación no podrán mantenerse sin medidas de seguridad especiales los desvíos que presenten, aunque sea, una sola de las siguientes averías:
 …
 f) rotura, deformación u otro daño visible de la barra de unión o de bloqueo; …».
-Puede, por tanto, constatarse que los procedimientos tecnológicos no abordan las posibles roturas en otras piezas de los cierres de agujas.
-Las inspecciones y mediciones de agujas también son objeto de la directriz SŽDC n.º 51 para la realización de inspecciones y mediciones de agujas. Su enfoque va dirigido a la unificación de las normas de realización de inspecciones y mediciones de agujas y estructuras de agujas, incluida la elaboración de registros de medición. Este documento no aborda la producción de roturas en piezas de los cierres de agujas.
-Las disposiciones de la norma SŽ T100 establecen las normas básicas para la explotación, el servicio, el cuidado operativo, la realización de inspecciones, el mantenimiento, la reparación y la reconstrucción de los dispositivos de señalización utilizados en las vías del gestor de la vía SŽ, incluida la realización de la llamada prueba de enclavamiento, que consiste en la medición de los parámetros de los cierres de agujas, no abordando otras piezas de los cierres de agujas.
-En el documento U 03 150 se establecen las condiciones para la realización de la inspección, el ajuste y el mantenimiento de los cierres de cambio de mordazas VZ 200. El documento contiene también un listado de las herramientas permitidas para la realización del mantenimiento, con la prohibición de usar el «clásico» instrumental de herrero, y contiene la prohibición de la manipulación bruta y violenta. Este documento no aborda la producción de roturas en piezas de los cierres de agujas.
-Los métodos no destructivos de inspección (defectoscopia) pueden realizarse de las siguientes formas:
+Puede, por tanto, constatarse que los procedimientos tecnológicos no abordan posibles roturas en otros componentes de los enclavamientos de desvío.
+De las inspecciones y mediciones de desvíos se ocupa también la directriz SŽDC n.º 51 para la realización de inspecciones y mediciones de desvíos. Su enfoque va encaminado a unificar las reglas de realización de inspecciones y mediciones de desvíos y estructuras de desvío, incluida la elaboración de registros de medición. Este documento no aborda la aparición de roturas en componentes de los enclavamientos de desvío.
+Las disposiciones de la norma SŽ T100 establecen las reglas básicas para la explotación, el servicio, el mantenimiento operativo, la realización de controles, el mantenimiento, la reparación y la reconstrucción de los aparatos de señalización utilizados en las vías explotadas por el explotador de vía SŽ, incluida la realización de la llamada prueba de enclavamiento, en la que se trata de medir parámetros de los enclavamientos de desvío, no abordando otros componentes de los enclavamientos de desvío.
+En el documento U 03 150 se establecen las condiciones para la realización del control, ajuste y mantenimiento de los cierres de cambio de lengüeta VZ 200. El documento contiene también un listado de las herramientas permitidas para la realización del mantenimiento, con prohibición de uso del «clásico» instrumental de herrero, y contiene la prohibición de manipulación brusca y violenta. Este documento no aborda la aparición de roturas en componentes de los enclavamientos de desvío.
+Los métodos no destructivos de control (detección de defectos) pueden realizarse de las siguientes formas:
 •
 inspección visual;
 •
@@ -550,8 +814,8 @@ método de polvo magnético;
 •
 ensayo capilar (de penetración).
 
-
 ## Página 26
+
 
 Técnicamente es posible realizar la inspección de estos elementos en explotación con alguno de los métodos anteriores, no obstante, en la práctica cada uno de ellos tiene determinadas limitaciones o inconvenientes con los que hay que contar y que reducen significativamente su aplicabilidad (para más detalles véase ZZ Kolín).
 El DI encargó la elaboración de la peritación técnica de los ganchos de cierre rotos de los cierres de mordazas de las agujas n.º 48a, 48b y 170b1 a la ČVUT en Praha, Facultad de Ingeniería Nuclear y Física, entre otras razones también porque ya había elaborado una peritación similar tras el SU en la est. Kolín (véase el punto 4.5 de esta ZZ) y era posible comparar los procesos y materiales de ambos SU. Se disponía de la comparación de los 5 ganchos de cierre agrietados encontrados (2x del SU Kolín y 3x del SU Brno-Maloměřice). Esta peritación debía responder a las siguientes preguntas:
@@ -596,6 +860,7 @@ verificación de la influencia del daño mecánico violento del gancho de cierre
 
 ## Página 27
 
+
 ### 4) Ganchos de desvíos n.º 48a, 48b, 170b1
 Sobre la base de los resultados obtenidos, verificar si el mecanismo de formación y desarrollo de las averías en los ganchos estudiados fue el mismo o similar al del caso de las averías descritas en el Dictamen pericial n.º 17/1/19 sobre MU Kolín (7. 9. 2018)…
 Actualmente, para los ganchos de enganche debería utilizarse material forjado ČSN 41 3240.
@@ -611,8 +876,8 @@ Fig. n.º 5: Gancho n.º 48a: Relieve de las superficies del gancho de enganche 
 2) Además, en la parte superior e inferior del gancho se encontraron rebabas macroscópicamente claramente visibles. Estas rebabas excedían la dimensión (espesor) original del gancho en aprox. 1 ÷ 3 mm... Es evidente que se trata de la consecuencia de contactos repetidos muy intensos del gancho tanto con otras piezas del desvío como con el sustrato...
 3) El carácter macroscópico de la fractura del gancho es apreciable en la fig. 6. Las líneas de progresión claramente visibles en la superficie de fractura documentan de forma totalmente inequívoca que la fractura se produjo como consecuencia de la formación y el desarrollo progresivo de una serie de microgrietas por fatiga que se iniciaron en la pared superior e inferior del gancho.
 
-
 ## Página 28
+
 
 4) La banda adyacente a la pared superior del gancho es bastante irregular, lo que es consecuencia de que las microgrietas por fatiga se propagaron en distintos planos y, al unirse, se formaron en la superficie de fractura escalones de distinta altura (fig. 6).
 El carácter macroscópico de la fractura indica que la iniciación de microgrietas por fatiga se produjo también en la pared inferior del gancho. Estas grietas formaron una banda estrecha de aprox. 1 mm de ancho a lo largo de la pared inferior del gancho (fig. 6).
@@ -625,8 +890,8 @@ Se detectó una situación análoga en las zonas de iniciación de las microgrie
 Fig. n.º 6: Gancho n.º 48a, en la figura se indica la posición de las zonas en las que se obtuvo la fotodocumentación detallada
        Fuente: ČVUT
 
-
 ## Página 29
+
 
 7) Desde las zonas de iniciación, las microgrietas por fatiga se propagaron mediante el mecanismo de formación de estriaciones, como demuestra la aparición local de campos de estriaciones. Las estriaciones individuales solo pudieron identificarse de forma inequívoca a partir de mayores longitudes de grieta. Las estriaciones son el signo fractográfico fundamental del deterioro por fatiga y proporcionan información sobre la dirección local y la velocidad de propagación de la grieta.
 8) En la superficie de fractura, en las zonas de propagación de la grieta por fatiga, además de los campos de estriaciones, se observó la aparición de una serie de rechupes y, asimismo, zonas de fractura estructural transcurriendo por los límites de los granos perlíticos.
@@ -637,8 +902,8 @@ Fig. n.º 6: Gancho n.º 48a, en la figura se indica la posición de las zonas e
 2) Además, en la parte superior e inferior del gancho se encontraron rebabas macroscópicamente claramente visibles. Estas rebabas excedían la dimensión (espesor) original del gancho en aprox. 1 ÷ 3 mm... Es evidente que se trata de la consecuencia de contactos repetidos muy intensos del gancho tanto con otras piezas del desvío como con el sustrato...
 3) El carácter macroscópico de la fractura del gancho lleva a la conclusión de que la afectación de parte de la sección resistente del gancho se produjo como consecuencia de la formación y el desarrollo de una serie de microgrietas por fatiga que se iniciaron en la pared superior del gancho (fig. n.º 7).
 
-
 ## Página 30
+
 
 Fig. n.º 7: Gancho n.º 48b – vista general de la superficie de fractura con la indicación de la posición de las zonas en las que se obtuvo la fotodocumentación detallada
          Fuente: ČVUT
@@ -650,18 +915,17 @@ Fig. n.º 7: Gancho n.º 48b – vista general de la superficie de fractura con 
 ### 3.1.3  Gancho del cierre de mordazas del desvío n.º 170b1 (Kolín)
 1) En la pared superior del gancho se observaron huellas que probablemente corresponden a golpes de un objeto pesado... Queda abierta la cuestión de si también las huellas en la superficie inclinada... pueden ser consecuencia de golpes. Además, la cara superior e inferior del gancho presenta signos de intenso
 
-
 ## Página 31
 
-contacto con otras piezas del desvío. Las estrías en la pared superior del gancho en la dirección de su movimiento indican contacto con el travesaño de apoyo...
-2) Además, en la parte superior e inferior del gancho se encontraron rebabas macroscópicamente claramente visibles. Estas rebabas excedían la dimensión (espesor) original del gancho en aprox. 1 ÷ 2 mm... Es evidente que se trata de la consecuencia de contactos repetidos muy intensos del gancho tanto con otras piezas del desvío como con el sustrato...
-3) El carácter macroscópico de la superficie de fractura tras la fractura final en laboratorio es apreciable en la fig. n.º ... y 8. En la superficie de fractura se distinguen con total claridad las líneas de progresión. Sobre la base de la forma de estas líneas es evidente que el deterioro del gancho fue consecuencia de la formación y propagación de dos grietas principales por fatiga que se iniciaron en las proximidades de los bordes entre la pared superior y ambas paredes laterales (fig. n.º 8). Las microgrietas por fatiga se propagaron en distintos planos y, al unirse, se formó en la superficie de fractura un escalón bastante alto.
-Fig. n.º 8: Gancho n.º 170b1 – vista general de la superficie de fractura con la indicación de las dos grietas principales por fatiga I y II. Asimismo, se indican las posiciones de las zonas en las que se obtuvo la fotodocumentación detallada.
+contacto con otras piezas de desvío. Las estrías en la pared superior del gancho en la dirección de su movimiento indican contacto con el apoyo ... 
+2) Además, en la parte superior e inferior del gancho se encontraron rebabas macroscópicamente claramente visibles. Estas rebabas superaban la dimensión (espesor) original del gancho en aproximadamente 1 ÷ 2 mm... Es evidente que se trata de la consecuencia de contactos muy intensos y repetidos del gancho tanto con otras piezas de desvío como con el sustrato ...
+3) El carácter macroscópico de la superficie de fractura tras la rotura en laboratorio es aparente de la fig. n.º ... y 8. En la superficie de fractura se distinguen claramente las líneas de propagación. En función de la forma de estas líneas, es evidente que la rotura del gancho fue consecuencia de la formación y propagación de dos grietas de fatiga principales, que se iniciaron en las proximidades de los bordes entre la pared superior y ambas paredes laterales (fig. n.º 8). Las grietas de fatiga parciales se propagaron en distintos planos y, al interconectarse, se formó en la superficie de fractura un escalón relativamente alto.
+Fig. n.º 8: Gancho n.º 170b1 – vista general de la superficie de fractura con la indicación de las dos grietas de fatiga principales I y II. Asimismo se señalan las posiciones de las zonas en las que se realizó la fotodocumentación detallada.
                   Fuente: ČVUT
-4) En la superficie de fractura, en las zonas de iniciación, se demostró la presencia de una gran serie de irregularidades superficiales y distintas inhomogeneidades... Se observaron principalmente defectos de fundición (burbujas o rechupes), que en algunos casos alcanzaban hasta varios milímetros bajo la superficie.
-
+4) En la superficie de fractura, en las zonas de iniciación, se constató la presencia de una gran variedad de irregularidades superficiales y distintas inhomogeneidades ... Se observaron principalmente defectos de fundición (burbujas o rechupes), que en algunos casos alcanzaban hasta varios milímetros por debajo de la superficie.
 
 ## Página 32
+
 
 Asimismo, se observaron facetas formadas por decohesión intercristalina y, localmente, también apareció fractura estructural transcurriendo por los límites de los granos perlíticos.
 5) Desde las zonas de iniciación, ambas microgrietas por fatiga se propagaron con un frente aproximadamente cuartelíptico. La propagación se produjo principalmente mediante el mecanismo de formación de estriaciones...
@@ -685,6 +949,7 @@ Tabla: Resultados de la medición de dureza HV30 en secciones de los ganchos.
 
 ## Página 33
 
+
 | gancho n.º 48b . | 135 ± 7 |
 | gancho n.º 170b1 . | 155 ± 9 |
 | Gancho forjado | 254 ± 2 |
@@ -705,8 +970,8 @@ Los límites de grano están notablemente debilitados debido a las condiciones e
 
 Los mecanismos de rotura por fatiga de los tres ganchos observados fueron cualitativamente idénticos. En la propagación de la fatiga del proceso de rotura de los ganchos intervinieron tres mecanismos diferentes:
 
-
 ## Página 34
+
 
 - Mecanismo de descohesión intergranular, cuya presencia se observó localmente en zonas justo bajo la superficie de la pared superior del gancho.
 - Mecanismo de formación de estriaciones, que se detectó en la mayor parte de las zonas de fatiga de las superficies de fractura. Los espacios entre estriaciones aumentan, dependiendo de la longitud creciente de la grieta (distancia desde el punto de iniciación), de forma no muy significativa.
@@ -726,8 +991,8 @@ El mecanismo de rotura final del resto de la sección resistente de cada uno de 
 Cabe plantearse la cuestión del modo de carga operativa del gancho. De la información del solicitante se deduce que la carga del gancho debería producirse, cuando el gancho está en posición de enganche, solo durante el paso del tren. En posición abierta, el gancho no debería estar en contacto con el resto de componentes del desvío...
 Esto, sin embargo, no explica la aparición de rebabas marcadas encontradas en las paredes superiores de los ganchos observados (fig. 5,...). Las huellas en la pared superior del gancho corresponden a la dirección de movimiento del gancho bajo el soporte, pero no es probable que las rebabas pudieran haberse formado durante este movimiento. Además, las rebabas (aunque en menor medida) aparecen también en la cara inferior del gancho. Por lo tanto, puede suponerse que incluso en posición abierta se producen contactos del gancho con el soporte, o bien con
 
-
 ## Página 35
+
 
 el componente bajo el gancho... Cabe plantearse de qué manera se forman las rebabas... Estas zonas no están en contacto con el soporte ni en estado abierto ni en estado cerrado. La aparición de rebabas indica que la carga operativa real de los ganchos no corresponde en absoluto a la información facilitada.
 Al inspeccionar la cara inferior del soporte del desvío de Maloměřice se encontraron huellas de contacto entre el gancho y el soporte (fig. 9). El ancho de esta huella (aprox. 48 mm) es considerablemente mayor que el ancho de la cara superior del gancho (30 mm), lo que indica que el gancho se mueve no solo de forma directa, sino también lateralmente.
@@ -736,8 +1001,8 @@ Fig. n.º 9: Desvío n.º 48b (Maloměřice): Huellas de contacto de la pared su
 En las paredes superiores de los ganchos observados se detectaron huellas que probablemente son marcas de golpes con un objeto pesado. La relación de los golpes con el mecanismo de rotura de los ganchos demostrado, sin embargo, lleva a la conclusión de que estos golpes no pudieron influir de manera significativa ni en la iniciación ni en la propagación de las grietas de fatiga.
 En los casos observados no disponemos de datos suficientes sobre los parámetros de carga operativa que permitan describir la cinética de desarrollo de las grietas a partir de la medición de los espacios entre estriaciones. Solo puede realizarse una estimación orientativa de que para la propagación de las grietas de fatiga en los ganchos n.º 48a y 170b1 se necesitaron aprox. 105 ciclos de carga efectivos (es decir, ciclos que conducen a la formación de estriaciones). La estimación indicada sugiere que la iniciación de las grietas de fatiga en los ganchos n.º 48a y 170b1 se produjo con toda probabilidad muy poco después de su puesta en servicio. La vida útil prevista
 
-
 ## Página 36
+
 
 de los ganchos en servicio es de aprox. 25 años. En el caso del gancho del desvío n.º 48a se produjo la avería tras 15 años de servicio, en el caso del gancho del desvío n.º 170b1 la avería se detectó tras 13 años de servicio.
 ### Desde el punto de vista de garantizar la explotación segura de desvíos de tipo similar, es necesario asegurar una inspección minuciosa de los ganchos, especialmente en los casos en que llevan más de 10 años en servicio.
@@ -776,31 +1041,46 @@ Si en el gancho hay huellas de contacto del gancho con la cara inferior del tac�
 
 ## Página 37
 
-- Si se observan en el gancho huellas claras de golpes y si la formación de la fractura pudo haber sido influenciada por daño mecánico violento del gancho de cierre correspondiente (p. ej., un golpe individual con un objeto pesado).
+
+Si en el gancho se observan huellas claras de golpes y si la formación de la fractura pudo haber sido influenciada por un daño mecánico violento del gancho de enganche correspondiente (por ejemplo, un golpe individual con un objeto pesado).
 ### En la superficie del gancho se observaron huellas de golpes con un objeto pesado.
-### El hallazgo fractográfico no aporta información alguna sobre la influencia de dichos golpes en la iniciación o propagación de grietas por fatiga en los ganchos.
-### 2) Gancho de la aguja n.º 48b Maloměřice – fractura, consecuencia de MU:
-- Si el gancho de la aguja n.º 48b presenta indicios de grietas y su desarrollo.
+### El hallazgo fractográfico no aporta ninguna información sobre la influencia de estos golpes en la iniciación o propagación de grietas por fatiga en los ganchos.
+### 2) Gancho de la aguja n.º 48b Maloměřice – fractura, consecuencia MU:
+
+Si el gancho de la aguja n.º 48b contiene indicios de grietas y su desarrollo.
 ### En el gancho se encontraron grietas del mismo tipo que en los ganchos de las agujas n.º 48a y 170b1.
-- Cuál fue el mecanismo de fractura del gancho de la aguja n.º 48b.
-### La causa de la iniciación fueron tanto muescas de diseño como muescas formadas por inhomogeneidades estructurales. En el presente caso no es posible determinar en qué medida la presencia de las mencionadas muescas acortó el tiempo (número de ciclos de carga) hasta la iniciación de grietas por fatiga.
+
+Cuál fue el mecanismo de fractura del gancho de la aguja n.º 48b.
+### La causa de la iniciación fueron tanto muescas de construcción como muescas formadas por
+### inhomogeneidades estructurales. En el presente caso no es posible determinar en qué medida
+### la presencia de las mencionadas muescas acortó el tiempo (número de ciclos de carga) hasta
+### la iniciación de las grietas por fatiga.
 ### La propagación de las grietas por fatiga se produjo mediante el mecanismo de formación de estriaciones.
 ### En total, la fatiga dañó aproximadamente el 24 % de la sección resistente del gancho.
-### El fracturamiento del resto de la sección resistente se produjo por una sobrecarga repentina causada por el impacto de los vehículos descarrilados durante la MU.
-- Si se observan en el gancho huellas de contacto del gancho con la cara inferior de la base del soporte u otras huellas indeseadas de su contacto con componentes de la aguja.
-### Los rebabes en la cara superior e inferior del gancho indican un contacto intenso del gancho con otros componentes de la aguja.
-### En la cara superior del gancho y en la cara inferior del soporte se encontraron huellas que acreditan el contacto mutuo durante el movimiento del gancho de la posición abierto a la posición cerrado y viceversa.
-- Si se observan en el gancho huellas claras de golpes y si la formación de la fractura pudo haber sido influenciada por daño mecánico violento del gancho de cierre correspondiente (p. ej., un golpe individual con un objeto pesado).
+### La fractura de la sección resistente restante se produjo por una sobrecarga repentina causada por
+### el impacto de los vagones descarrilados durante el MU.
+
+Si en el gancho hay huellas de contacto del gancho con la cara inferior del pie del soporte u otras huellas no deseadas de su contacto con los componentes de la aguja.
+### Las rebabas en la cara superior e inferior del gancho indican un contacto intenso del gancho
+### con otros componentes de la aguja.
+### En la cara superior del gancho y en la cara inferior del soporte se encontraron huellas
+### que demuestran el contacto mutuo durante el movimiento del gancho de la posición abierto a la posición cerrado y viceversa.
+
+Si en el gancho se observan huellas claras de golpes y si la formación de la fractura pudo haber sido influenciada por un daño mecánico violento del gancho de enganche correspondiente (por ejemplo, un golpe individual con un objeto pesado).
 ### En la superficie del gancho se observaron huellas de golpes con un objeto pesado.
-### El hallazgo fractográfico no aporta información alguna sobre la influencia de dichos golpes en la iniciación o propagación de grietas por fatiga en los ganchos.
-3) Gancho de la aguja n.º 170b1 Kolín – fractura parcial (tras 13 años de servicio), encontrada durante una inspección:
-- Determinación de la localización de la zona de iniciación de las grietas cuyo desarrollo provocó el daño del gancho;
-### Se demostró que la iniciación de grietas parciales por fatiga se produjo en la pared superior del gancho como consecuencia de la carga operativa habitual.
-- Determinación del mecanismo de formación y desarrollo de las grietas.
-### La causa de la iniciación fueron tanto muescas de diseño como muescas formadas por inhomogeneidades estructurales. En el presente caso no es posible determinar en qué medida
-
+### El hallazgo fractográfico no aporta ninguna información sobre la influencia de estos golpes en la iniciación o propagación de grietas por fatiga en los ganchos.
+3) Gancho de la aguja n.º 170b1 Kolín – fractura parcial (tras 13 años de servicio), encontrado durante una inspección:
+
+Determinación de la localización del área de iniciación de las grietas cuyo desarrollo provocó el daño del gancho;
+### Se demostró que la iniciación de grietas parciales por fatiga se produjo en la pared superior
+### del gancho como consecuencia de la carga operativa habitual.
+
+Determinación del mecanismo de formación y desarrollo de las grietas.
+### La causa de la iniciación fueron tanto muescas de construcción como muescas formadas por
+### inhomogeneidades estructurales. En el presente caso no es posible determinar en qué medida
 
 ## Página 38
+
 
 la presencia de las mencionadas muescas acortó el tiempo (número de ciclos de carga) hasta la iniciación de grietas por fatiga.
 ### La propagación de las grietas por fatiga se produjo mediante el mecanismo de formación de estriaciones.
@@ -823,8 +1103,8 @@ el límite de fatiga de ambos materiales en ensayos de probetas con muesca;
 la dependencia de la velocidad de propagación de la grieta por fatiga v(m/ciclo) de la amplitud del factor de intensidad de tensiones ΔK(MPam 0.5).
 2) Medición de la tenacidad a la fractura.
 
-
 ## Página 39
+
 
 3) Análisis fractográfico de las superficies de fractura de las probetas, centrado en la descripción de los mecanismos de daño. Los resultados deberían compararse con los resultados de los análisis de fracturas operativas...
 "...Para la fabricación de probetas de material fundido ČSN 42 2712 se utilizó el gancho de la aguja n.º 48b dañado durante la incidencia extraordinaria en Brno-Maloměřice. Las probetas de material forjado se fabricaron a partir de un nuevo gancho suministrado por el solicitante (AŽD Praha s.r.o.)."
@@ -844,8 +1124,8 @@ Puede, por tanto, constatarse que, con la carga operativa actual, el mayor lími
 Asimismo, del dictamen se desprende que probablemente empezaron a producirse grietas en los ganchos de las agujas n.º 48a y 170b1 muy poco después de su puesta en servicio. A ello corresponde también el hallazgo de DI, cuando tras la puesta en servicio de la aguja n.º 48a/b en la est. de Brno-Maloměřice (3. 3. 2023), ya a los 4 días de servicio eran apreciables los contactos de los ganchos con el soporte en lugares donde no deberían producirse, ¡y en una aguja recién ajustada!
 No fue posible explicar de forma inequívoca de qué manera se produjeron las huellas de golpes en los ganchos. Como ya se ha mencionado más arriba, las inspecciones de los ganchos se realizan mediante una simple visualización y, en su caso, mediante una prueba de encaje. No está prescrita una inspección mediante ensayos no destructivos (es una cuestión muy problemática; además, no es posible inspeccionar detalladamente algunas piezas sin desmontarlas – problema espacial). La única posibilidad eran las inspecciones periódicas de las caras superiores de los ganchos de cierre tras la limpieza del gancho de la suciedad hasta el metal (actualmente se realizan en los
 
-
 ## Página 40
+
 
 ganchos fundidos). Asimismo, p. ej., en la aguja n.º 48a/b en la est. de Brno-Maloměřice no existía el anclaje elástico original de los soportes, sino un anclaje rígido. El uso de un anclaje rígido junto con almohadillas de caucho aplastadas pudo tener influencia en el conjunto total de la aguja y en las fuerzas que actúan en ella. También se realizaba el rebaje de los raíles (su devolución) al menos 2 veces al año debido a su desplazamiento. Sin embargo, no se ajustaban en altura, por lo que se constató tras la MU repetidamente el sobreelevación de algunos raíles por encima de los soportes (también en la est. de Kolín).
 Todos los ganchos de cierre fundidos agrietados encontrados (incluido el de 2018 en la est. de Kolín – 5 unidades en total) estaban situados en agujas de cruzamiento montadas sobre traviesas de hormigón. De las conversaciones de DI con la ČVUT se derivó la hipótesis de si las agujas sobre traviesas de hormigón amortiguan poco los posibles impactos y el conjunto total de la aguja es más rígido que sobre traviesas de madera, lo que puede tener influencia también en la vida útil de los ganchos de cierre fundidos. No obstante, para verificar esta hipótesis sería necesario un estudio adicional a largo plazo, incluidas mediciones de fuerzas en las agujas mediante extensómetros. Este estudio podría, además, responder también a las cuestiones del contacto indeseado o de los contactos de los ganchos de cierre con otros componentes de la aguja.
@@ -856,6 +1136,7 @@ El explotador ferroviario, según su comunicación, continúa realizando de form
 El número total de agujas y cruces de vía destinados a la sustitución de los ganchos de cierre ČZ originales fabricados con fundiciones de acero al manganeso por la nueva versión de ganchos de cierre ČZ fabricados con piezas forjadas es de 159 unidades. A la fecha, es decir, el 16. 8. 2023, se había realizado la sustitución completa de los mencionados ganchos de cierre en 46 unidades de agujas y cruces de vía, es decir, el 29 %. La sustitución parcial de los mencionados ganchos de cierre (p. ej., solo los ganchos PHS o una de las sustituciones) se había realizado en otras 12 unidades de agujas, es decir, el 7,5 %."
 
 ## Página 41
+
 
 SŽ asimismo, en la misma fecha (véase más arriba), presentó información sobre el contacto no estándar de los ganchos con la base de los apoyos (se relaciona también con uno de los puntos de la recomendación de seguridad para MU Kolín – véase el punto 4.5 de esta ZZ):
 „Las razones por las que en varios casos se produce la expulsión visible de la grasa en la superficie superior del gancho y el posible pulido de la llamada cubierta del gancho, no están concretamente determinadas por el momento (si se trata de la vibración del gancho durante el paso del vehículo, cuando se produce el empuje de la lengüeta/punta y, debido a la holgura ajustada en el enganche, se permite el movimiento vertical del gancho hacia arriba, o si el fenómeno se ve reforzado por suciedad adherida y rígida desde abajo de la base del apoyo, o por la posibilidad de flexión vertical del apoyo durante el paso del vehículo). Sin embargo, en los casos observados hasta la fecha se trata únicamente de superficies ligeramente pulidas sin deformaciones del material. A la vez, se trata predominantemente de casos de ganchos originales de fundición, cuando en este fenómeno puede influir también la forma de la pieza fundida.
@@ -872,8 +1153,8 @@ En la investigación se constató la infracción de la normativa relativa a las 
 En la investigación de la MU se constató que ninguna normativa establece como obligación del gestor de la infraestructura la realización de inspecciones no destructivas de todos los componentes de los enganches de aguja de las agujas, incluidos los ganchos de enganche. La razón es la difícil accesibilidad y también la posible necesidad de desmontar los ganchos de enganche para la realización exhaustiva de la inspección no destructiva de defectos. Aun así, la simple inspección visual de los ganchos de enganche (tras su limpieza) permite cierta prevención al detectar roturas antes de que pudiera producirse una posible MU. Sin embargo, estas inspecciones visuales comenzaron a realizarse únicamente tras la aparición de esta MU investigada y tras el hallazgo de un gancho de enganche roto en la est. Kolín (véase más arriba).
 El transportista está, entre otras obligaciones, obligado a asegurar que el maquinista conduzca el DV únicamente desde la posición desde la que existe la mejor visibilidad, normalmente desde la cabina delantera del maquinista en el sentido de la marcha, que desde el DV principal observe la vía y las señales, que actúe según los hechos constatados y que durante la marcha no supere la velocidad máxima permitida establecida en el horario de circulación o la velocidad limitada ordenada. El DI durante la inspección constató que el 2.º vagón descarrilado (6.º vagón del convoy tras el HDV), compuesto por dos partes (bogíe central común), no tenía ambos conmutadores de modo de frenado en la misma posición, es decir, en el modo „P“ (pasajeros), como se indicaba en la documentación del tren. Una parte (2.ª en el sentido de la marcha) tenía el conmutador en la posición „G“ (mercancías), lo que significaba un mayor tiempo de establecimiento del efecto de frenado y también un mayor tiempo de desfrenado. Dicho hecho, sin embargo
 
-
 ## Página 42
+
 
 estaba fuera de la relación causal y no puede considerarse como una infracción de los procedimientos tecnológicos, ya que el cambio de este conmutador pudo producirse a causa de la MU durante la marcha del vagón en estado descarrilado tras su asentamiento con el bastidor en el lecho de balasto y la marcha sobre los raíles individuales, sobre los que se producían roturas debido a la marcha de los vagones descarrilados.
 El transportista está además obligado a utilizar, para la explotación en las líneas o parte de línea con una sección de línea explotada del sistema de radioferrocarril de tren destinado a garantizar la gestión del tráfico ferroviario o para la transmisión de órdenes, señales, avisos o transmisión de datos, un DV equipado con una parte móvil de radioferrocarril compatible y funcional. Si la sección de línea de radioferrocarril de tren permite enviar una orden de parada automática del DV (tren), y ello sin especificación 54 del sistema de radioferrocarril de tren, el DV debe estar equipado con los medios técnicos para su realización. En las líneas o parte de línea equipadas con radioferrocarril de tren del sistema GSM-R, que garantiza las funciones de comunicación y de voz o la comunicación de datos para el ETCS, un DV equipado con una parte móvil compatible del sistema GSM-R.
@@ -886,8 +1167,8 @@ En la investigación se constató la infracción de la normativa relativa a las 
 •
 § 35 apartado 1 letra a) de la Ley núm. 266/1994 Sb.:
 
-
 ## Página 43
+
 
 „El transportista está obligado a explotar el tráfico ferroviario de acuerdo con las normas de explotación del tráfico ferroviario, la licencia vigente y el contrato celebrado con el gestor de la infraestructura para la explotación del tráfico ferroviario en la infraestructura“;
 •
@@ -904,8 +1185,8 @@ En la investigación no se constató infracción de las funciones y obligaciones
 ### 4.1.5 Entidades notificadas, entidades designadas y entidades dedicadas a la evaluación de riesgos
 En la investigación no se constató infracción de las funciones y obligaciones de las entidades notificadas, de las entidades designadas y de las entidades dedicadas a la evaluación de riesgos.
 
-
 ## Página 44
+
 
 ### 4.1.6 Entidades de certificación responsables del mantenimiento de los vehículos ferroviarios
 En la investigación no se constató infracción de las funciones y obligaciones de las entidades de certificación responsables del mantenimiento de los vehículos ferroviarios.
@@ -925,6 +1206,7 @@ En la investigación no se detectaron factores derivados del mantenimiento y la 
 En la investigación no se detectaron factores relacionados con la entidad responsable del mantenimiento de los vehículos ferroviarios, los talleres de mantenimiento y otros proveedores de servicios de mantenimiento.
 
 ## Página 45
+
 
 4.2.6 Otros factores o consecuencias que se consideran importantes a efectos de la investigación
 En la investigación no se detectaron otros factores relacionados con el material rodante, la infraestructura ferroviaria o las instalaciones técnicas.
@@ -949,32 +1231,29 @@ En los procedimientos, métodos, contenido y resultados de las actividades de ev
 ### 4.4.3 Sistema de garantía de la seguridad de los transportistas y gestores de infraestructura implicados
 En el sistema de seguridad del gestor de infraestructura y en el sistema de garantía de la seguridad del transporte ferroviario del transportista, relacionados con las circunstancias de la aparición de la MU en cuestión, no se detectaron deficiencias.
 
-
 ## Página 46
 
-### 4.4.4 Sistema de gestión de los sujetos responsables del mantenimiento del material rodante
-y de los talleres de mantenimiento
-El sistema de gestión de los sujetos responsables del mantenimiento del material rodante y de los talleres de mantenimiento no guardaba relación con la aparición de la MU.
+### 4.4.4 Sistema de gestión de los sujetos responsables del mantenimiento de los vehículos ferroviarios y de los talleres de mantenimiento
+El sistema de gestión de los sujetos responsables del mantenimiento de los vehículos ferroviarios y de los talleres de mantenimiento no guardaba relación con la aparición de la MU.
 ### 4.4.5 Resultados de la supervisión realizada por las autoridades nacionales de seguridad
-Atendiendo a los factores detectados y a las circunstancias de la aparición de la MU, la supervisión de la autoridad de seguridad no guarda relación con la MU en cuestión.
-### 4.4.6 Aprobaciones, certificados y informes de evaluación emitidos por la agencia, las autoridades nacionales
-de seguridad u otros sujetos de evaluación de la conformidad
-El gestor de infraestructura explotaba la infraestructura al amparo de la autorización administrativa vigente y del certificado de seguridad del gestor de infraestructura. El transportista explotaba el transporte ferroviario al amparo de la licencia vigente y del certificado del transportista.
+Atendiendo a los factores y circunstancias de aparición de la MU identificados, la supervisión de la autoridad de seguridad no guarda relación con la MU en cuestión.
+### 4.4.6 Aprobaciones, certificados e informes de evaluación emitidos por la agencia, las autoridades nacionales de seguridad u otros sujetos de evaluación de la conformidad
+El gestor de la infraestructura explotaba la infraestructura al amparo de una autorización administrativa vigente y de un certificado de seguridad del gestor de la infraestructura. El transportista explotaba el transporte ferroviario al amparo de una licencia vigente y de un certificado del transportista.
 ### 4.4.7 Otros factores sistémicos
-En la investigación no se detectaron otros factores sistémicos.
+En la investigación no se identificaron otros factores sistémicos.
 ### 4.5 Sucesos anteriores de naturaleza similar
-La DI investigó, en el período comprendido entre el 1. 1. 2008 y la fecha de aparición de la MU en cuestión, en las infraestructuras ferroviarias de categoría nacional y regional, las causas y circunstancias de esta MU similar:
+La DI investigó en el período comprendido entre el 1. 1. 2008 y la fecha de aparición de la MU en cuestión, en las vías ferroviarias de categoría nacional y regional, las causas y circunstancias de esta MU análoga:
 •
-del 7. 9. 2018 en la estación de Kolín, donde se produjo el descarrilamiento de cinco vagones durante la circulación del tren Sv 10220. La causa inmediata de la aparición de la MU fue la rotura del gancho de bloqueo y el desprendimiento de la lengua de aguja no asegurada de la aguja n.º 169 parte «a» del soporte durante la circulación del tren Sv 10220 (lo que se denomina «circulación en bifurcación»).
-En base a los resultados de la investigación de la MU en cuestión, la Inspección Ferroviaria emitió la recomendación de seguridad DÚ, cuyo objeto era:
+del 7. 9. 2018 en la estación de Kolín, donde se produjo la descarrilación de cinco vagones durante la circulación del tren Sv 10220. La causa inmediata de la aparición de la MU fue la rotura del gancho de enganche y el desprendimiento de la lengua no asegurada del desvío n.º 169 parte «a» del contrafuerte durante la circulación del tren Sv 10220 (el llamado paso en aguja).
+Sobre la base de los resultados de la investigación de la MU en cuestión, la Inspección Ferroviaria emitió la recomendación de seguridad DÚ, cuyo objeto era:
 •
-en el marco de su actividad como autoridad nacional de seguridad, realizar una verificación del estado técnico general de la aguja n.º 169a en la estación de Kolín y del estado técnico del correspondiente cierre de cambio de carril de mordaza, donde se detectó un contacto claramente anormal del gancho de bloqueo con el pie del soporte, y abordar posteriormente esta situación con el gestor de la aguja y con los fabricantes de las instalaciones en cuestión.
+en el marco de su actividad como autoridad nacional de seguridad, realizar una verificación del estado técnico general del desvío n.º 169a en la estación de Kolín y del estado técnico del correspondiente cierre de sustitución de las mandíbulas, donde se detectó un contacto claramente anormal del gancho de enganche con el pie del contrafuerte, y abordar ulteriormente esta situación con el gestor del desvío y con los fabricantes de los dispositivos en cuestión.
 •
-en el marco de su actividad como autoridad nacional de seguridad, la adopción de una medida que garantice que el gestor de infraestructura SŽDC:
-1. exija siempre a sus fabricantes, antes de la puesta en servicio de nuevos elementos de estructuras de agujas y cierres de cambio de carril de los que dependa directamente la seguridad del transporte ferroviario, entre otros, la realización de una evaluación integral y un análisis de todos los factores principales que influyen en la resistencia a la fatiga y la vida útil (por ejemplo, material, superficie, forma, tecnología, cargas operativas y condiciones, etc.), mediante métodos analíticos y numéricos avanzados y modelización, en la que se seleccione la solución del elemento en cuestión que obtenga la mejor valoración desde el punto de vista de las propiedades de fatiga (por ejemplo,
-
+en el marco de su actividad como autoridad nacional de seguridad, la adopción de una medida que garantice que el gestor de la infraestructura SŽDC:
+1. exija siempre a los fabricantes de los elementos de las estructuras de desvíos y de los cierres de sustitución, de los que depende directamente la seguridad del transporte ferroviario, antes de su puesta en servicio, entre otros, la realización de una evaluación integral y de un análisis de todos los factores principales que influyen en la resistencia a la fatiga y en la vida útil (por ejemplo, el material, la superficie, la forma, la tecnología, la carga operativa y las condiciones, etc.), mediante métodos analíticos y numéricos avanzados y modelización, en la que se seleccione la solución del elemento en cuestión que obtenga la mejor valoración desde el punto de vista de las propiedades de fatiga (por ejemplo,
 
 ## Página 47
+
 
 diseño para resistencia permanente), siempre que la selección de dicha solución no se vea obstaculizada por otros parámetros técnicos y de diseño, problemas y limitaciones;
 2. en caso de que se monten nuevos cierres de cambio de carril de mordaza en agujas de cruzamiento y PHS, se utilicen en las lenguas interiores de las agujas de cruzamiento y en los ganchos de bloqueo de tipo similar utilizados en los cierres de cambio de carril de mordaza para PHS únicamente ganchos de bloqueo modificados en su diseño de acuerdo con el punto anterior, en los que se logre la mejora de sus parámetros desde el punto de vista de las propiedades de fatiga;
@@ -986,34 +1265,49 @@ la adopción de una medida propia encaminada a la aplicación de las recomendaci
 En el documento «Medidas de la Autoridad Ferroviaria para el cumplimiento de la recomendación de seguridad de la DI», correspondiente al período del 1. 10. 2019 – 31. 5. 2020, la DÚ indicó, entre otros aspectos, en relación con la recomendación de seguridad anterior: «La Autoridad Ferroviaria, mediante el oficio n.º de expediente DUCR – 8681/20/Lv de fecha 13. 2. 2020, trasladó la totalidad de la recomendación de seguridad a los 8 gestores de infraestructura, fijando un plazo concreto para la presentación de un informe sobre cómo se ha dado cumplimiento a la recomendación de seguridad y qué medidas se han adoptado. La Autoridad Ferroviaria, en base a los informes individuales de los gestores de infraestructura, constata que la recomendación de seguridad de la Inspección Ferroviaria ha sido aceptada y asumida por los gestores a los que se refiere. Las verificaciones se realizarán en el marco del mantenimiento programado. Algunos gestores de infraestructura (por ejemplo, AŽD Praha, SART – stavby a rekonstrukce a.s., KŽC Doprava, s. r. o.,) no explotan las agujas en cuestión y, por tanto, la recomendación de seguridad no les afecta directamente.».
 El gestor de infraestructura adoptó y publicó medidas en relación con la recomendación de seguridad emitida por la DI:
 
-
 ## Página 48
 
-SŽ, en colaboración con el fabricante de los ganchos de cierre de mordaza AŽD Praha s.r.o., adoptó la medida de que los ganchos interiores de las agujas de cruzamiento se fabricaran y suministraran como piezas forjadas en molde (como el resto de ganchos). Asimismo, se produjo una modificación y actualización de las condiciones técnicas de AŽD para los ganchos de cierres de mordaza en relación con el cambio de la tecnología de fabricación. Además, se prohibió la instalación de estos ganchos fabricados mediante el proceso de colada en el carril tipo S49, con efectos a partir del 3. 10. 2022, es decir, 2 meses antes de la aparición de la MU en la estación de Brno-Maloměřice.
+SŽ, en colaboración con el fabricante de ganchos de cierre de mordaza AŽD Praha s.r.o., adoptó la medida de que los ganchos interiores de las agujas de cruce se fabricaran y entregaran como piezas forjadas en matriz (como los demás ganchos). Asimismo, se produjo una modificación y actualización de las condiciones técnicas de AŽD para los ganchos de cierres de mordaza en relación con el cambio en la tecnología de fabricación. Además, se prohibió la instalación de estos ganchos fabricados mediante fundición en el carril de rodadura tipo S49, con efectos a partir del 3. 10. 2022, es decir, 2 meses antes de la producción del SU en la est. Brno-Maloměřice.
+
 ### 5 CONCLUSIONES
+
 ### 5.1 Resumen del análisis y conclusiones relativas a las causas del suceso
-La causa inmediata del suceso extraordinario fue:
+
+La causa inmediata del suceso ferroviario fue:
+
 •
-la rotura del gancho de bloqueo y el desprendimiento de la lengua de aguja no asegurada de la aguja n.º 48a del soporte durante la circulación del tren Nex 60310 (lo que se denomina «circulación en bifurcación»).
-La DI no detectó ningún factor contribuyente.
-La DI no detectó ninguna causa sistémica.
-### A summary of the analysis and conclusions with regard to the causes of the
-occurrence
+la rotura del gancho de cierre y la desaparición de la lengüeta de aguja no sujeta de la aguja n.º 48a del carril de apoyo durante la circulación del tren Nex 60310 (denominada circulación en horquilla).
+
+No se detectó ningún factor contribuyente por parte del DI.
+
+No se detectó ninguna causa sistémica por parte del DI.
+
+### A summary of the analysis and conclusions with regard to the causes of the occurrence
+
 Causal factor:
+
 •
 a fracture of the locking hook and opening of the unheld switch tongue of the switch
 No. 48a from the stock rail while the freight train No. 60310 was moving over the
 switch.
+
 Contributing factor: none.
+
 Systemic factor: none.
-### 5.2 Medidas adoptadas para prevenir sucesos extraordinarios
-El gestor de infraestructura SŽ adoptó, tras la aparición de la MU, las siguientes medidas:
+
+### 5.2 Medidas adoptadas para la prevención de sucesos ferroviarios
+
+El gestor de la infraestructura SŽ adoptó, tras la producción del SU, las siguientes medidas:
+
 •
-tras el hallazgo de un gancho de bloqueo roto por la DI en la estación de Kolín el 25. 1. 2023, se ordenó una verificación extraordinaria de todos los ganchos de bloqueo colados en las agujas de cruzamiento, con plazo hasta el 10. 2. 2023 y con un intervalo de verificación posterior de, como máximo, cada 3 meses, hasta la sustitución del gancho por una versión forjada;
+tras el hallazgo de un gancho de cierre fracturado por el DI en la est. Kolín el 25. 1. 2023, se ordenó una inspección extraordinaria de todos los ganchos de cierre fundidos en las agujas de cruce, con un plazo hasta el 10. 2. 2023, con un posterior intervalo de inspección como máximo cada 3 meses, hasta la sustitución del gancho por una versión forjada;
 •
-en colaboración con el fabricante de ganchos AŽD Praha s.r.o., se procederá a la sustitución de todos los ganchos de bloqueo colados de las agujas de cruzamiento por la variante forjada antes de finalizar el año 2024.
+en colaboración con el fabricante de ganchos AŽD Praha s.r.o., se procederá a la sustitución de todos los ganchos de cierre fundidos de las agujas de cruce por la variante forjada antes de finalizar el año 2024.
+
 ### Measures taken since the occurrence
+
 The infrastructure manager SŽ took the following measures after the occurrence:
+
 •
 it was ordered an extraordinary control of all cast locking hooks in double switches
 (term 10th February 2023) with consequent control this locking hooks every 3
@@ -1021,8 +1315,8 @@ months until change for forged (hammer) version. This controls was ordered after
 then NIB discovered of fracture of the locking hook at Kolín station on the 25th
 January 2023;
 
-
 ## Página 49
+
 
 •
 it will perform change of all cast locking hooks in double switches for forged
@@ -1062,14 +1356,15 @@ De la Inspección Territorial de Brno
 
 ## Página 50
 
+
 ### ANEXOS
 Fig. n.º 10: Estado en que se encontró la parte desprendida del gancho de la aguja n.º 48a en la estación de Brno-Maloměřice
        Fuente: DI
 Fig. n.º 11: Estado en que se encontró el gancho de la aguja n.º 170b1 con rotura en la estación de Kolín tras limpiarlo de grasa y otras suciedades
                                               Fuente: DI
 
-
 ## Página 51
+
 
 Fig. n.º 12: Vista de los daños en la aguja n.º 49  
         Fuente: DI

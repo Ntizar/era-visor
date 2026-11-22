@@ -34,8 +34,8 @@ Fidelidad = revisión IA del castellano contra el original (0-100).
 | [BE-6195 - summary-walenhoek.md](2020/BE-6195%20-%20summary-walenhoek.md) | — | 5343 | ok |
 | [BE-6195 - verslag walenhoek.md](2020/BE-6195%20-%20verslag%20walenhoek.md) | — | 145296 | ok |
 | [BE-6236 - Report Moelingen (NL).md](2020/BE-6236%20-%20Report%20Moelingen%20(NL).md) | — | 148795 | ok |
-| [BE-6236 - notice-de-securite-Moelingen-french.md](2020/BE-6236%20-%20notice-de-securite-Moelingen-french.md) | — | 151672 | revisar |
-| [BE-6273 - Report Tubize (FR).md](2020/BE-6273%20-%20Report%20Tubize%20(FR).md) | — | 42074 | ok |
+| [BE-6236 - notice-de-securite-Moelingen-french.md](2020/BE-6236%20-%20notice-de-securite-Moelingen-french.md) | — | 151672 | ok |
+| [BE-6273 - Report Tubize (FR).md](2020/BE-6273%20-%20Report%20Tubize%20(FR).md) | — | 42074 | revisar |
 
 ## 2019 (5)
 
@@ -62,7 +62,7 @@ Fidelidad = revisión IA del castellano contra el original (0-100).
 | [BE 13.01.2016summary_Binche.md](2016/BE%2013.01.2016summary_Binche.md) | — | 4624 | ok |
 | [BE 18.02.2016 rapport_Landen.md](2016/BE%2018.02.2016%20rapport_Landen.md) | — | 18512 | ok |
 | [BE 18.02.2016 verslag_Landen.md](2016/BE%2018.02.2016%20verslag_Landen.md) | — | 19789 | ok |
-| [Zusammenfassung melsele.md](2016/Zusammenfassung%20melsele.md) | — | 13722 | revisar |
+| [Zusammenfassung melsele.md](2016/Zusammenfassung%20melsele.md) | — | 13722 | ok |
 | [résumé melsele.md](2016/résumé%20melsele.md) | — | 15484 | ok |
 | [summary melsele.md](2016/summary%20melsele.md) | — | 16340 | ok |
 | [verslag melsele.md](2016/verslag%20melsele.md) | — | 194061 | ok |
@@ -100,12 +100,12 @@ Fidelidad = revisión IA del castellano contra el original (0-100).
 | [DÃ©raillement_d'un_train_de_marchandises.md](2013/DÃ©raillement_d'un_train_de_marchandises.md) | — | 181584 | ok |
 | [DÃ©raillement_d'un_train_de_marchandises19.02.2013.md](2013/DÃ©raillement_d'un_train_de_marchandises19.02.2013.md) | — | 181187 | ok |
 | [Déraillement_d'un_train_de_marchandises 19.02.2013.md](2013/Déraillement_d'un_train_de_marchandises%2019.02.2013.md) | — | 181626 | ok |
-| [Ontsporing_van_een_goederentrein.md](2013/Ontsporing_van_een_goederentrein.md) | — | 178078 | ok |
+| [Ontsporing_van_een_goederentrein.md](2013/Ontsporing_van_een_goederentrein.md) | — | 178078 | revisar |
 | [rapport_Remersdaal_2013-1.md](2013/rapport_Remersdaal_2013-1.md) | — | 99323 | ok |
 | [recommendations_Wetteren 04.05.2013.md](2013/recommendations_Wetteren%2004.05.2013.md) | — | 11547 | ok |
 | [samenvatting_Wetteren 04.05.2013.md](2013/samenvatting_Wetteren%2004.05.2013.md) | — | 19400 | ok |
 | [summary_Wetteren 04.05.2013.md](2013/summary_Wetteren%2004.05.2013.md) | — | 18648 | ok |
-| [verslag_Wetteren 04.05.2013.md](2013/verslag_Wetteren%2004.05.2013.md) | — | 560433 | revisar |
+| [verslag_Wetteren 04.05.2013.md](2013/verslag_Wetteren%2004.05.2013.md) | — | 560433 | ok |
 
 ## 2012 (17)
 
@@ -133,13 +133,13 @@ Fidelidad = revisión IA del castellano contra el original (0-100).
 
 | Informe | Págs | Caracteres | Verificación |
 |---|---|---|---|
-| [BE 28.01.2011 rapport_Pepinster.md](2011/BE%2028.01.2011%20rapport_Pepinster.md) | — | 199004 | ok |
+| [BE 28.01.2011 rapport_Pepinster.md](2011/BE%2028.01.2011%20rapport_Pepinster.md) | — | 199004 | revisar |
 | [BE 28.01.2011 resume_Pepinster.md](2011/BE%2028.01.2011%20resume_Pepinster.md) | — | 7599 | ok |
 | [BE 30 06 2011 rapport_Charleroi.md](2011/BE%2030%2006%202011%20rapport_Charleroi.md) | — | 90201 | ok |
 | [rapport_Charleroi-300611.md](2011/rapport_Charleroi-300611.md) | — | 92369 | ok |
 | [rapport_Feluy-020911.md](2011/rapport_Feluy-020911.md) | — | 53693 | ok |
-| [rapport_Pepinster.md](2011/rapport_Pepinster.md) | — | 195900 | ok |
-| [resume_Pepinster.md](2011/resume_Pepinster.md) | — | 8492 | revisar |
+| [rapport_Pepinster.md](2011/rapport_Pepinster.md) | — | 195900 | revisar |
+| [resume_Pepinster.md](2011/resume_Pepinster.md) | — | 8492 | ok |
 
 ## 2010 (8)
 
@@ -151,7 +151,7 @@ Fidelidad = revisión IA del castellano contra el original (0-100).
 | [BE 15.02.2010 rapport_FR.md](2010/BE%2015.02.2010%20rapport_FR.md) | — | 393634 | ok |
 | [BE 15.09.2010 Arlon_FR.md](2010/BE%2015.09.2010%20Arlon_FR.md) | — | 15407 | ok |
 | [Summary_and_recommendations-150212-EN.md](2010/Summary_and_recommendations-150212-EN.md) | — | 20593 | ok |
-| [rapport_Buizingen-150210-FR.md](2010/rapport_Buizingen-150210-FR.md) | — | 393535 | revisar |
+| [rapport_Buizingen-150210-FR.md](2010/rapport_Buizingen-150210-FR.md) | — | 393535 | ok |
 | [rapport_Buizingen-150210-NL.md](2010/rapport_Buizingen-150210-NL.md) | — | 399831 | ok |
 
 ## 2009 (5)
@@ -162,7 +162,7 @@ Fidelidad = revisión IA del castellano contra el original (0-100).
 | [BE 15.11.2009 rapport_Jemelle_NL.md](2009/BE%2015.11.2009%20rapport_Jemelle_NL.md) | — | 24439 | ok |
 | [BE 19.11.2009 rapport_Mons.md](2009/BE%2019.11.2009%20rapport_Mons.md) | — | 43892 | ok |
 | [BE 23.05.2009 RAPPORT_enquête_Dinant_version_31_01_2013.md](2009/BE%2023.05.2009%20RAPPORT_enquête_Dinant_version_31_01_2013.md) | — | 95439 | ok |
-| [RAPPORT_enquête_Dinant_version_31_01_2013-230509.md](2009/RAPPORT_enquête_Dinant_version_31_01_2013-230509.md) | — | 95346 | ok |
+| [RAPPORT_enquête_Dinant_version_31_01_2013-230509.md](2009/RAPPORT_enquête_Dinant_version_31_01_2013-230509.md) | — | 95346 | revisar |
 
 ## 2008 (8)
 
@@ -192,5 +192,5 @@ Fidelidad = revisión IA del castellano contra el original (0-100).
 | [Final report Houyet-02092007.md](2007/Final%20report%20Houyet-02092007.md) | — | 67833 | ok |
 | [Final report Izegem-26042007.md](2007/Final%20report%20Izegem-26042007.md) | — | 61369 | ok |
 | [Final report La Hulpe-29112007.md](2007/Final%20report%20La%20Hulpe-29112007.md) | — | 81936 | ok |
-| [Final report Mortsel-14122007.md](2007/Final%20report%20Mortsel-14122007.md) | — | 85587 | ok |
+| [Final report Mortsel-14122007.md](2007/Final%20report%20Mortsel-14122007.md) | — | 85587 | revisar |
 | [I32 LaHuple bijlage-29112007.md](2007/I32%20LaHuple%20bijlage-29112007.md) | — | 21263 | ok |

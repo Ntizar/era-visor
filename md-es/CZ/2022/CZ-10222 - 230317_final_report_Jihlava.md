@@ -10,13 +10,14 @@ chars: 73862
 ratio_longitud: 1.24
 tokens_in: 36576
 tokens_out: 25716
-verificacion: revisar
-notas_cifras: ["bloque 1: original bilingüe: se compara contra el idioma principal (EN)", "bloque 2: original bilingüe: se compara contra el idioma principal (CS)", "bloque 3: original bilingüe: se compara contra el idioma principal (CS)", "bloque 4: original bilingüe: se compara contra el idioma principal (CS)", "bloque 6: cifras cortas: 1/45"]
-avisos: ["bloque 4: ratio 1.78"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 3: original bilingüe: se compara contra el idioma principal (PT)", "página 5: original bilingüe: se compara contra el idioma principal (CS)", "página 6: original bilingüe: se compara contra el idioma principal (CS)", "página 9: original bilingüe: se compara contra el idioma principal (CS)", "página 10: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -41,13 +42,13 @@ IČ: 75009561
 mail@dicr.cz
 tel.: +420 736 521 003
 
-
 ## Página 2
+
 
 Este informe final es público y todos los hechos en él recogidos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ### 1 RESUMEN
 Fuente: Drážní inspekce
@@ -70,8 +71,8 @@ No se ha detectado ningún factor contribuyente por parte de Drážní inspekce.
 No se ha detectado ninguna causa sistémica por parte de Drážní inspekce.
 No se ha emitido ninguna recomendación de seguridad por parte de Drážní inspekce.
 
-
 ## Página 4
+
 
 ### SUMMARY
 23rd April 2022, 22:39 (20:39 GMT).
@@ -105,8 +106,8 @@ Systemic factor:
 none.
 Recommendation: not issued.
 
-
 ## Página 5
+
 
 # Índice
 1 RESUMEN........................................................................................................................3
@@ -148,8 +149,8 @@ SUMMARY.........................................................................
 4.2 Vehículos ferroviarios e instalaciones técnicas...........................................................................24
 4.2.1 Factores o consecuencias derivados del diseño de los vehículos ferroviarios, de la infraestructura ferroviaria o de las instalaciones técnicas.....................................................................24
 
-
 ## Página 6
+
 
 4.2.2 Factores o consecuencias derivados de la instalación y la puesta en servicio de los vehículos ferroviarios, de la infraestructura ferroviaria o de las instalaciones técnicas......................................24
 4.2.3 Factores o consecuencias relacionados con los fabricantes de vehículos ferroviarios u otros proveedores de productos ferroviarios............................................................................24
@@ -180,6 +181,7 @@ SUMMARY.........................................................................
 ANEXOS..............................................................................................................................30
 
 ## Página 7
+
 
 ### Lista de abreviaturas y símbolos utilizados
 ARR
@@ -230,8 +232,8 @@ Informe final sobre los resultados de la investigación del suceso ferroviario
 žst.
 estación de ferrocarril
 
-
 ## Página 8
+
 
 ### Lista de abreviaturas de la legislación, normas y normativa interna utilizadas
 ley núm. 266/1994 Sb.
@@ -259,18 +261,17 @@ Norma técnica ferroviaria «TNŽ 34 2620 Dispositivos de seguridad
 ferroviarios: dispositivos de seguridad de estación y de trazado», vigente
 en el momento de producirse el suceso ferroviario
 
-
 ## Página 9
 
 ### 2 INVESTIGACIÓN Y SUS RELACIONES
 ### 2.1 Decisión de iniciar la investigación
-La DI decidió iniciar la investigación del suceso ferroviario en cuestión el 23. 4. 2022.
+La DI decidió iniciar la investigación de la MU en cuestión el 23. 4. 2022.
 ### 2.2 Fundamentación de la decisión de iniciar la investigación
-La DI decidió investigar el suceso ferroviario en cuestión sobre la base de su gravedad, de su repetitividad, de los impactos del suceso ferroviario sobre la explotación segura del transporte ferroviario y de la competencia derivada de la disposición § 53b de la ley núm. 266/1994 Sb.
+La DI decidió investigar la MU en cuestión en base a su gravedad, repetitividad, impactos del suceso excepcional en la explotación segura del transporte ferroviario y la facultad derivada de la disposición § 53b de la ley núm. 266/1994 Sb.
 ### 2.3 Alcance y limitaciones de la investigación, incluida la fundamentación correspondiente
-La DI no se encontró, en el marco de la investigación del suceso ferroviario en cuestión, con limitaciones que influyeran negativamente en el modo y los procedimientos de la investigación.
-### 2.4 Descripción resumida de las capacidades y funciones técnicas del equipo de investigación
-Investigación de la DI en el lugar del suceso ferroviario:
+La DI no se encontró, en el marco de la investigación de la MU en cuestión, con limitaciones que influyeran negativamente en el modo y los procedimientos de la investigación.
+### 2.4 Descripción resumida de las capacidades técnicas y funciones del equipo de investigadores
+Investigación de la DI en el lugar de la MU:
 2x inspector de la ÚI Brno.
 Constitución del equipo de investigación:
 no fue necesario constituirlo.
@@ -278,25 +279,25 @@ Colaboración externa:
 no se utilizó.
 2.5 Comunicación y consultas durante la investigación con personas o entidades
 que participaron en el suceso en cuestión
-Al investigar las causas y circunstancias de la producción del suceso ferroviario, la DI se basó principalmente en sus propios conocimientos, hallazgos y en su propia documentación fotográfica. Durante la investigación, la DI solicitó la documentación necesaria al explotador del ferrocarril y al transportista.
-La investigación de las causas y circunstancias de la producción del suceso ferroviario se realizó de acuerdo con la ley núm. 266/1994 Sb.
-y el decreto núm. 376/2006 Sb.
+En la investigación de las causas y circunstancias de la MU, la DI se basó principalmente en sus propios conocimientos, hallazgos y en su propia documentación fotográfica. Durante la investigación, la DI solicitó la documentación necesaria al explotador de la vía y al transportista.
+La investigación de las causas y circunstancias de la MU se realizó de acuerdo con la ley núm. 266/1994 Sb.
+y la ordenanza núm. 376/2006 Sb.
 ### 2.6 Descripción del nivel de colaboración ofrecido por las entidades participantes
-El nivel de colaboración con los representantes de las entidades participantes en el suceso ferroviario fue estándar.
-### 2.7 Descripción de la investigación, los métodos y las técnicas utilizados para acreditar los hechos
+El nivel de colaboración con los representantes de las entidades participantes en la MU fue estándar.
+### 2.7 Descripción de la investigación, métodos y técnicas utilizados para acreditar los hechos
 y los hallazgos indicados en el informe
-En el marco de la investigación del suceso ferroviario, la DI actuó de la siguiente manera, es decir, utilizó, entre otros, los siguientes métodos y técnicas:
+En el marco de la investigación de la MU, la DI procedió de la siguiente manera, respectivamente, utilizó, entre otros, los siguientes métodos y técnicas:
 •
-inspección del lugar del suceso ferroviario, incluidos los materiales rodantes ferroviarios participantes, los equipos técnicos y la infraestructura del ferrocarril;
+inspección del lugar de la MU, incluidos los vehículos ferroviarios participantes, los dispositivos técnicos y la infraestructura de la vía;
 •
-análisis de la documentación solicitada al explotador del ferrocarril y al transportista;
+análisis de la documentación solicitada al explotador de la vía y al transportista;
 •
-análisis de los datos registrados por el registrador de velocidad de los materiales rodantes ferroviarios participantes;
+análisis de los datos registrados por el registrador de velocidad de los vehículos ferroviarios participantes;
 •
-análisis de los datos del archivo del SZZ de la est. Jihlava;
-
+análisis de los datos del archivo SZZ de la estación Jihlava;
 
 ## Página 10
+
 
 •
 declaración del jefe de estación principal del DOZ de la est. Jihlava;
@@ -332,103 +333,109 @@ contrario – punto n.º 2 en el mapa del hipervínculo).
 La est. Jihlava se sitúa en el ferrocarril, nacional, en la línea 322C Brno-Horní Heršpice – Jihlava,
 en el pk 198,627 y simultáneamente en el pk 92,653 (= 198,627 – comparación de los pk de posición de ambas líneas) de la línea 701A Veselí nad Lužnicí – Havlíčkův Brod. En el tramo adyacente entre estaciones en dirección a Dobronín es de vía única, electrificada y está equipada con TZZ de 3.ª categoría – bloque automático bidireccional.
 
-
 ## Página 11
 
-## Lugar del suceso ferroviario
-Fig. n.º 1: Esquema del lugar de producción del suceso ferroviario
+## Lugar del accidente
+Fig. n.º 1: Esquema del lugar de producción del accidente
      Fuente: DI (sobre base cartográfica www.mapy.cz)
-De la inspección del lugar del suceso ferroviario se constató:
-En el lugar del suceso ferroviario se realizó en primer lugar la inspección de las composiciones de los trenes Os 8376 y Os 28305 detenidas en el tramo entre estaciones Jihlava – Dobronín, desde el hito hectométrico pk 200,000 en el sentido de circulación del tren Os 8376 en sentido contrario al de circulación del tren Os 28305 hasta su posición final tras el suceso ferroviario. A continuación se realizó la inspección de la aguja n.º 42 forzada en el pk 199,254, la inspección del semáforo L5 en el pk 199,152 y la inspección de la sala de circulación de la est. Jihlava en el pk 198,627.
-El tren Os 8367, al salir de la est. Jihlava, pasó junto al semáforo de salida L5 con la señal «Alto»
-y, tras el cruzamiento de la aguja n.º 42, continuó hacia la vía de trazado ocupada en dirección a la est. Dobronín, donde
-
+Del examen del lugar del accidente se constató lo siguiente:
+En el lugar del accidente se realizó inicialmente el examen de los conjuntos de los trenes Os 8376 y Os 28305
+estacionados en el tramo entre estaciones Jihlava – Dobronín, es decir, desde el hito hectométrico km 200,000
+en el sentido de circulación del tren Os 8376 en sentido contrario al de circulación del tren Os 28305 hasta su posición final
+tras el accidente. A continuación se realizó el examen de la aguja forzada n.º 42 en km
+199,254, el examen de la señal L5 en km 199,152 y el examen de la oficina de circulación de la est. Jihlava
+en km 198,627.
+El tren Os 8367, al salir de la est. Jihlava, pasó junto a la señal de salida L5 con la indicación «Alto»
+y, tras el cruzamiento de la aguja n.º 42, continuó hacia la oficina de circulación ocupada en dirección a la est. Dobronín, donde
 
 ## Página 12
 
-entró en la vía de tren establecida del tren Os 28305. Los trenes se detuvieron con sus frentes a una distancia de 28 m entre sí.
+entró en la vía de tren establecida del tren Os 28305. Los trenes detuvieron sus cabezas a una distancia de 28 m entre sí.
 Estado de la infraestructura:
 •
-la aguja n.º 42 en el pk 199,254 fue forzada hacia la dirección de desviación al circular desde la vía de estación n.º 5 y no presentaba daños visibles;
+la aguja n.º 42 en pk 199,254 fue forzadamente conmutada a la dirección de desviación durante la marcha desde la 5.ª vía de estación y no presentaba daños visibles;
 •
-se realizó la prueba de enclavamiento de la aguja n.º 42 con el resultado de que la prueba de enclavamiento fue satisfactoria.
-Estado del dispositivo de seguridad y de telecomunicaciones:
+se realizó la prueba de bloqueo de la aguja n.º 42 con el resultado de que la prueba de bloqueo fue superada.
+Estado del aparato de enclavamiento y de telecomunicaciones:
 •
-semáforo de salida L5 en el pk 199,152:
-◦se trata de un semáforo de mástil tipo AŽD 70 con cinco luces de señalización, marcado con una placa de identificación roja que contiene la inscripción blanca «L5»
-y una placa indicadora con el dígito «5»;
-◦el semáforo de salida L5 estaba además marcado con una banda de franjas blancas y rojas, siendo las franjas blancas de la mitad de longitud que las rojas;
-◦en el semáforo de salida L5, situado a la derecha justo al lado de la vía de estación n.º 5 y válido únicamente para esta vía de estación, brillaba la señal «Alto» (luz roja);
-◦la tensión en la bombilla en cuestión del semáforo de salida L5 se midió
-en un valor de 10,55 V;
-◦el semáforo y las señales que por él se emitían eran visibles sin limitaciones a una distancia mínima de 434 m (desde el semáforo Lc5b);
+la señal de salida L5 en pk 199,152:
+◦se trata de una señal de mástil tipo AŽD 70 con cinco luces de señalización, marcada con una placa de señalización roja que contiene la inscripción blanca «L5», y con una placa indicadora con el dígito «5»;
+◦la señal de salida L5 estaba además marcada con una banda de franjas blancas y rojas, siendo las franjas blancas de la mitad de longitud que las rojas;
+◦en la señal de salida L5, situada a la derecha justo al lado de la vía de estación n.º 5 y válida únicamente para esta vía de estación, brillaba la señal «Alto» (luz roja);
+◦se midió un valor de 10,55 V en el filamento de la lámpara de la señal de salida L5;
+◦la señal y las señales emitidas por ella eran visibles sin limitaciones a una distancia mínima de 434 m (desde la señal Lc5b);
 •
-en el monitor del JOP del SZZ en la sala de circulación de la est. Jihlava, en el puesto del jefe de estación principal del DOZ, se indicaba:
+en el monitor JOP SZZ en la sala de tráfico de la estación de Jihlava, en el puesto de trabajo del jefe de estación principal DOZ, se indicaba:
 ◦la vía de estación n.º 5 indicaba la pérdida de shunt del tren Os 8376;
-◦la vía de trazado en dirección a Dobronín estaba ocupada, delante del semáforo de entrada S de la est. Jihlava, por ambos trenes;
-◦desde la aguja n.º 41 hasta el semáforo de entrada S de la est. Jihlava la vía de tren permaneció en retención (fondo azul);
-◦la vía de estación n.º 3 permaneció con fondo verde sin número de tren;
+◦la vía de tren TK en dirección a Dobronín estaba ocupada por ambos trenes antes de la señal de entrada S de la estación de Jihlava;
+◦desde la aguja n.º 41 hasta la señal de entrada S de la estación de Jihlava, la vía de tren permanecía en cierre (fondo azul);
+◦la vía de estación n.º 3 permanecía con fondo verde sin número de tren;
 ◦el SZZ indicaba funcionamiento normal, las vías de tren para los trenes Os 8376 y Os 28305 se habían establecido con operación normal;
 ◦se solicitaron los datos de archivo del SZZ;
 •
-junto al monitor del JOP había un aparato telefónico con las instrucciones de uso de la función «Parada general» resaltadas y el botón para esta selección estaba resaltado en color rojo.
-Estado de los materiales rodantes ferroviarios del tren Os 8376:
-•
-el tren Os 8376 del transportista ČD estaba compuesto por una unidad automotriz Regionova formada por 2 vehículos – el coche de mando n.º CZ ČD 95 54 5 914 148-2 circulando en cabeza y el HDV n.º CZ ČD 95 54 5 814 148-3 circulando en cola del tren;
-
+junto al monitor JOP había un aparato telefónico con instrucciones destacadas para el uso de la función «Parada general» y el botón para esta selección estaba resaltado en color rojo.
+Estado de los vehículos ferroviarios del tren Os 8376:
+◦el tren Os 8376 del operador ČD estaba compuesto por una unidad automotriz Regionova formada por 2 vehículos – el coche de mando n.º CZ ČD 95 54 5 914 148-2 circulando en cabeza y la locomotora n.º CZ ČD 95 54 5 814 148-3 circulando en cola del tren;
 
 ## Página 13
 
 •
-el frente del tren Os 8376 se detuvo en la vía de trazado en el pk 200,047, es decir, 895 m después del semáforo de salida L5;
+el morro delantero del tren Os 8376 se detuvo en el TK en el pk 200,047, es decir, a 895 m de la señal de salida L5;
 •
-el tren estaba marcado con las señales «Inicio de tren» y «Fin de tren»;
+el tren estaba señalizado con las señales «Inicio de tren» y «Fin de tren»;
 •
-en el puesto de conducción delantero del maquinista se había seleccionado el sentido de circulación «hacia delante», la palanca combinada de marcha/freno estaba en posición de freno rápido (R) y el freno de acción directa en posición de completamente frenado (posición B2);
+en la cabina de conducción del maquinista se había seleccionado el sentido de circulación «hacia adelante», la palanca combinada de marcha/freno estaba en la posición de freno rápido (R) y el freno de acción directa en la posición de completamente frenado (posición B2);
 •
-el radioteléfono estaba en modo TRS y estaba sintonizado en la banda 66;
+la radio estaba en el modo TRS y estaba sintonizada en la banda 66;
 •
-en el puesto del maquinista no había ninguna orden escrita;
+en la cabina de conducción no había ninguna orden escrita;
 •
-en el puesto de conducción delantero del maquinista estaba pegado un mensaje permanente sobre el frenado;
+en la cabina de conducción del maquinista estaba pegado el mensaje permanente de frenado;
 •
-en el tren, en el momento del suceso ferroviario, se encontraban 4 pasajeros;
+en el tren se encontraban 4 pasajeros en el momento del MU;
 •
-la unidad automotriz no presentaba signos visibles de daños.
-Estado del material rodante ferroviario del tren Os 28305:
+la unidad motorizada no presentaba ningún signo visible de daños.
+
+Estado del vehículo ferroviario del tren Os 28305:
 •
-el tren Os 28305 del transportista ČD estaba formado por una unidad automotriz Stadler Regio-Shuttle RS1 (RegioSpider) con el HDV n.º CZ-ČD 95 54 5 841 001-1 en cabeza;
+el tren Os 28305 del transportista ČD estaba compuesto por la unidad motorizada Stadler Regio-Shuttle RS1 (RegioSpider) con el HDV n.º CZ-ČD 95 54 5 841 001-1 a la cabeza;
 •
-el frente del tren Os 28305 se detuvo en la vía de trazado en el pk 200,075, es decir, 28 m del frente del tren Os 8376;
+el morro del tren Os 28305 se detuvo en el TK en el pk 200,075, es decir, a 28 m del morro del tren Os 8376;
 •
-el tren estaba marcado con las señales «Inicio de tren» y «Fin de tren»;
+el tren estaba señalizado con las señales «Inicio de tren» y «Fin de tren»;
 •
-en el puesto de conducción delantero del maquinista se había seleccionado el sentido de circulación «hacia delante», la palanca combinada de marcha/freno estaba en posición 0 y el freno de acumulador en posición frenado;
+en la cabina de conducción del maquinista se había seleccionado el sentido de circulación «hacia adelante», la palanca combinada de marcha/freno estaba en la posición 0 y el freno de acumulador en la posición de frenado;
 •
-el radioteléfono estaba en modo TRS y estaba sintonizado en la banda 66;
+la radio estaba en el modo TRS y estaba sintonizada en la banda 66;
 •
-el HDV estaba equipado con el protector de tren Mirel VZ1;
+el HDV estaba equipado con el sistema de seguridad de tren Mirel VZ1;
 •
-en el puesto del maquinista no había ninguna orden escrita;
+en la cabina de conducción no había ninguna orden escrita;
 •
-en el puesto de conducción delantero del maquinista estaba pegado un mensaje permanente sobre el frenado;
+en la cabina de conducción del maquinista estaba pegado el mensaje permanente de frenado;
 •
-en el tren, en el momento del suceso ferroviario, se encontraban unos 20 pasajeros;
+en el tren se encontraban unos 20 pasajeros en el momento del MU;
 •
-la unidad automotriz no presentaba signos visibles de daños.
+la unidad motorizada no presentaba ningún signo visible de daños.
+
 Condiciones meteorológicas:
 parcialmente nublado, + 9 °C, período nocturno, visibilidad no reducida.
+
 Datos geográficos:
-lugar de producción del suceso ferroviario en llano en la aguada de Dobronín de la est.
-Jihlava, el lugar de detención de ambos trenes estaba en un terraplén leve
-en una curva a la derecha en el sentido de circulación del tren Os 8376.
-En el lugar del suceso ferroviario no se realizaron, inmediatamente antes de su producción, por parte del propietario, del explotador del ferrocarril ni de otras entidades, ninguna obra de reparación o de mantenimiento. La circulación en el lugar del suceso ferroviario y sus alrededores estaba en régimen habitual.
-### 3.1.4 Fallecidos, heridos y daños materiales
-En el suceso ferroviario no se produjo perjuicio para la salud de los empleados del explotador del ferrocarril, del transportista, de personas en relación contractual, ni de pasajeros ni de terceras personas.
-No se produjeron daños en materiales rodantes ferroviarios, en componentes del ferrocarril ni en el medio ambiente.
+el lugar de producción del MU se encontraba en llano en la aguada de Dobronín de la estación Jihlava, el lugar de detención de ambos trenes estaba en un terraplén ligero en una curva a la derecha en el sentido de circulación del tren Os 8376.
+
+En el lugar del MU no se realizaron, inmediatamente antes de su producción, por parte del propietario, del explotador de la vía ni de otros sujetos, ninguna obra de reparación ni de mantenimiento. La circulación en el lugar del MU y sus alrededores se desarrollaba en régimen normal.
+
+### 3.1.4 Fallecimientos, lesiones y daños materiales
+
+En el MU no se produjeron lesiones en la salud de los empleados del explotador de la vía, del transportista, de personas en relación contractual, ni tampoco de pasajeros ni de terceras personas.
+
+No se produjeron daños en los vehículos ferroviarios, en los componentes de la vía ni en el medio ambiente.
+
 No se produjeron daños en las cosas transportadas, en el equipaje ni en otros bienes.
 
 ## Página 14
+
 
 ### 3.1.5 Descripción de otras consecuencias, incluido el impacto del suceso en las actividades habituales de los sujetos participantes
 Como consecuencia de la aparición del MU, se interrumpió la circulación entre la est. Jihlava y Dobronín desde las 22:39 h hasta las 3:05 h del día 24. 4. 2022, en que se restableció la circulación.
@@ -459,8 +466,8 @@ El transporte ferroviario se realizaba en virtud de un contrato celebrado entre 
 | Velocidad máxima permitida del tren en el lugar del MU (km .h-1): | 50 |  |  |  |
 | Modo de frenado: | I . |  |  |  |
 
-
 ## Página 15
+
 
 Nota sobre el tren Os 8376:
 •
@@ -502,8 +509,8 @@ el tren estaba formado por una unidad motorizada (1 DV) Stadler RS1;
 •
 el titular del HDV era ČD;
 
-
 ## Página 16
+
 
 •
 el tren se conducía en modo manual;
@@ -529,8 +536,9 @@ La aguja es manejada de forma remota por el equipo de señalización, se conmuta
 La est. Jihlava está electrificada con una tensión alterna de 25 kV/50 Hz, protegida por un SZZ de 3.ª categoría según la TNŽ 34 2620 tipo ESA 11 con circuitos de vía y contadores de ejes. La velocidad de línea en la est. Jihlava era de 60 km.h-1, pero para el tren Os 8376 la velocidad máxima permitida estaba limitada en el sector de agujas a 50 km.h-1 (placa indicadora con el dígito «5» en la señal). El tren Os 28305, procedente de la est. Dobronín, tenía en la línea una velocidad permitida de 100 km.h-1 y en la señal de entrada lucía la señal «Velocidad 40 km.h-1 y aviso» complementada con el indicador encendido con el dígito «5» (50 km.h-1).
 La señal de camino Lc5b está situada en el km 198,718 sobre el soporte de la SK n.º 5b antes de la bifurcación de la est. Jihlava hacia el andén isla (7.ª y 9.ª SK). La señal de salida L5 está situada a la derecha de la SK n.º 5 en el km 199,152. La distancia entre estas señales es de 434 m.
 
-
 ## Página 17
+
+
 El SZZ de la est. Jihlava dispone de un Certificado de idoneidad del equipo técnico designado, emitido por el DÚ, con el n.º de registro PZ 1590/07-E.46 de fecha 16. 11. 2007, con vigencia por tiempo indefinido.
 Inmediatamente antes y en el momento de la aparición del MU no constaba registrada en el SZZ ninguna avería ni la realización de reparaciones. No se encontraba en la sala de tecnología del SZZ ningún empleado. Los plazos de inspecciones y mediciones del SZZ se cumplieron antes de la aparición del MU.
 Del análisis de los datos de archivo del SZZ de la est. Jihlava, teniendo en cuenta la desviación temporal de +6 s (a partir de aquí ya con la desviación añadida a las horas) entre la hora registrada por el SZZ de la est. Jihlava y la hora real, se constató, entre otros:
@@ -566,87 +574,85 @@ maquinista del tren Os 8376
 ◦al circular por el extremo advirtió del tren que circulaba en sentido contrario y se detuvo de inmediato;
 ◦acto seguido le llamó el jefe de estación interno y le comunicó que había salido con la señal que prohibía la marcha, que venía un tren en sentido contrario y le dio la señal «Alto, alto»;
 
-
 ## Página 18
 
-◦no fue detenido por una parada general, sino por una comunicación realizada de forma estándar;
+◦no fue detenido con parada general, sino mediante una comunicación realizada de forma estándar;
 ◦el tren que circulaba en sentido contrario también se detuvo con seguridad;
-◦comunicó el suceso ocurrido según el cuadro de notificación y, tras la llegada de los órganos investigadores, se sometió a la prueba de aliento con resultado negativo;
-◦tras la finalización de la investigación fue relevado y finalizó el turno.
+◦comunicó el suceso ocurrido según el horario de comunicaciones, y a la llegada de los órganos de investigación se sometió a la prueba de alcoholemia con resultado negativo;
+◦tras finalizar la investigación, fue relevado y terminó su turno.
 •
 maquinista del tren Os 8376
-  – Registro de la explicación aportada DI:
-◦actúa como maquinista desde hace 2 años y ya ha sido parte en 1 MU – colisión en un paso a nivel;
-◦antes de incorporarse al turno tuvo el descanso suficiente, cree que tuvo un día libre;
-◦no realiza otro trabajo en su transportista ni en otro, solo con licencia de actividad económica realiza puntualmente otro trabajo en un alcance de unas 8 horas al mes;
-◦en la línea Jihlava – Havlíčkův Brod está adscrito de forma interina;
+  – Registro de la declaración prestada ante el DI:
+◦actúa como maquinista desde hace 2 años y ya ha sido protagonista de 1 MU – colisión en un paso a nivel;
+◦antes de incorporarse al turno descansó lo suficiente, cree que tuvo un día libre;
+◦no realiza otra trabajo en su propia empresa ni en otra empresa de transporte, solo con licencia de actividad económica realiza puntualmente otro trabajo en un alcance de unas 8 horas al mes;
+◦en la línea Jihlava – Havlíčkův Brod figura de forma somera;
 ◦antes de la marcha no fue molestado por nadie ni por nada, no se produjeron anomalías antes de la marcha y durante la marcha no fue deslumbrado por nada;
 ◦conduce desde hace relativamente poco tiempo y por ello no tiene tendencia a la actuación rutinaria;
-◦en el turno hizo 5 veces el trayecto de Havlíčkův Brod a Jihlava město y de vuelta. En la est. Jihlava město dispone de unos 30 min. de tiempo para la maniobra de retorno, pero en general tenía un pequeño retraso en el trayecto y volvía a salir de inmediato. En este turno se produce habitualmente la expedición del tren hasta la señal de salida (nota DI: en el extremo Dobronín) y solo cuando pasa el tren en sentido contrario para el cruce, se expide desde la est. Jihlava;
-◦hasta la aparición del MU era habitual que desde el andén delante del edificio de estación saliera con la señal «Aviso» en dirección a Havlíčkův Brod; dos semanas después del MU no ocurría en absoluto, después solo raramente, cuando estaba de turno;
-◦antes de la salida del tren Os 8376 no se produjo ninguna comunicación entre él y el jefe de estación externo o el jefe de estación interno, solo saludó al jefe de estación externo y fue expedido;
-◦durante la marcha vio que había luces de otro tren en sentido contrario, durante un rato pensó que estaban en la vía lateral de un ramal, redujo la velocidad y, tras comprobar que estaba en la vía de su vía de entrada, se detuvo;
-◦el jefe de estación interno de la est. Jihlava le llamó por radio, pero ya estaba detenido y por ello le comunicó la aparición del MU.
+◦en el turno realizó 5 veces el trayecto de Havlíčkův Brod a Jihlava město y de vuelta. En la est. Jihlava město dispone de unos 30 min. de tiempo para la maniobra de retorno, pero la mayoría de las veces tenía un pequeño retraso en el trayecto y volvió a salir de inmediato. En este turno se produce habitualmente la expedición del tren hasta la señal de salida (nota del DI: en la cabeza de vía de Dobronín) y solo una vez que ha circulado el tren en sentido contrario para el cruce, es expedido desde la est. Jihlava;
+◦hasta la producción de la MU era habitual que, desde el andén situado delante del edificio de señalización, partiera con la señal «Aviso» en dirección a Havlíčkův Brod; dos semanas después de la MU no ocurría en absoluto, y posteriormente solo raramente, cuando estaba de turno;
+◦antes de la salida del tren Os 8376 no se produjo ninguna comunicación entre él y el jefe de estación exterior o el jefe de estación interior, solo saludó al jefe de estación exterior y fue expedido;
+◦durante la marcha vio que había luces de otro tren en sentido contrario, durante un momento pensó que estaban en la vía lateral de la vía de servicio, redujo la velocidad y, tras comprobar que se encontraba en la vía de su itinerario de tren, se detuvo;
+◦el jefe de estación interior de la est. Jihlava le llamó por radio, pero ya estaba detenido y por ello le comunicó la producción de la MU.
 •
 maquinista del tren Os 28305
   – Acta con el empleado:
-◦el 23. 4. 2022 conducía el tren Os 28305 desde la est. Havlíčkův Brod hasta la est. Telč;
-◦al circular hacia la señal de entrada de la est. Jihlava se produjo un cambio repentino del indicador luminoso en la señal de entrada a la señal que prohibía la marcha;
-◦dada la distancia suficiente hasta la señal de entrada, aplicó el frenado de servicio;
-◦acto seguido le llamó el jefe de estación interno por medio de la estación de radio, que venía un tren en sentido contrario y le dio la señal «Alto, alto»;
+◦el 23. 4. 2022 realizó el trayecto del tren Os 28305 desde la est. Havlíčkův Brod hasta la est. Telč;
+◦durante la marcha hacia la señal de entrada de la est. Jihlava se produjo un cambio repentino de la indicación en la señal de entrada a una señal que prohibía la circulación;
+◦dada la distancia suficiente hasta la señal de entrada, aplicó el frenado en servicio;
+◦acto seguido le llamó el jefe de estación interior mediante el aparato de radio, indicándole que circulaba un tren en sentido contrario y dándole la señal «Alto, alto»;
 
 ## Página 19
 
-◦el tren se detuvo de inmediato;
-◦vio que se aproximaba un tren en sentido contrario desde žst. Jihlava, que se detuvo aproximadamente a 30 m delantera de su tren;
-◦no fue detenido por una parada general, sino mediante una comunicación realizada de forma estándar;
-◦comunicó el suceso ocurrido según el horario de comunicaciones;
-◦no se produjo ningún herido;
-◦tras la llegada de los órganos investigadores, se sometió a una prueba de alcoholemia con resultado negativo y, una vez finalizada la investigación, continuó su turno.
-•
-jefe de estación interior de žst. Jihlava
-  – Acta con el empleado:
-◦el 23. 4. 2022 estableció la ruta de tren para el tren Os 28305 desde Dobronín a la 3.ª vía principal (SK) y, simultáneamente, parte de la ruta de tren para el tren Os 8376 desde la vía principal (SK) n.º 5b a la vía principal (SK) n.º 5;
-◦tras la salida del tren Os 8376 desde la vía principal (SK) n.º 5b, el tren continuó su marcha desde la 5.ª vía principal (SK) pasando junto a la señal de salida L5, que se encontraba en la posición «Alto»;
-◦se produjo el paso por la aguja n.º 42 y el tren entró en la ruta de tren establecida para el tren Os 28305;
-◦inmediatamente, mediante la estación de radio TRS seleccionando el número de tren, detuvo ambos trenes;
-◦los trenes se detuvieron aproximadamente en el pk 200,0.
-•
-jefe de estación interior de žst. Jihlava
-  – Registro de la declaración prestada ante el DI:
-◦el servicio transcurría normalmente, de forma habitual;
-◦lleva unos 25 años en žst. Jihlava y no ha prestado servicio en otras estaciones;
-◦antes del turno nocturno estaba descansado y sobrio;
-◦la formación sobre el uso de los medios de telecomunicaciones (Radioprovoz D-08) se realizó mediante e-learning, que considera suficiente y comprensible;
-◦la formación sobre el uso de la función «Parada general» se impartió también, sin duda, en otras formaciones;
-◦antes de la salida del tren Os 8376 no se comunicó en absoluto con el maquinista;
-◦le dijo al jefe de estación exterior que el tren Os 8376 avanzaría hasta la 5.ª vía principal (SK) y liberaría el andén, que el tren desde Havlíčkův Brod debía llegar a la 3.ª vía principal (SK) y que tenía retraso;
-◦si la situación del tráfico lo requiere y es conveniente, se realiza la expedición del tren en dirección a Havlíčkův Brod con la señal «Aviso» de forma habitual, debido a un cruce más rápido en žst. Jihlava;
-◦tras la aparición de la MU, que le indicó la señal de advertencia en el JOP, reaccionó poniéndose en contacto, a través del TRS, primero con un tren y después también con el otro;
-◦en ese momento no se le ocurrió que debiera usar la función «Parada general» en el TRS. Nunca antes había tenido que usarla;
-◦ahora ya no tiene temor a usar la función «Parada general» y no conoce a nadie más que tenga estos temores.
+◦ el tren se detuvo inmediatamente;
+◦ vio cómo se aproximaba desde la estación de Jihlava un tren en sentido contrario, que se detuvo aproximadamente a 30 m delantera de su tren;
+◦ no fue detenido por una parada general, sino por una comunicación realizada de forma estándar;
+◦ comunicó el suceso ocurrido según el horario de comunicaciones;
+◦ no hubo ningún herido;
+◦ a la llegada de los órganos investigadores se sometió a la prueba de alcoholemia con resultado negativo, y tras finalizar la investigación continuó su turno.
 
+• interventor de estación de Jihlava
+  – Acta con el empleado:
+◦ el 23. 4. 2022 estableció la vía de tren para el tren Os 28305 desde Dobronín en la 3.ª vía principal y simultáneamente parte de la vía de tren para el tren Os 8376 desde la vía principal n.º 5b a la vía principal n.º 5;
+◦ tras la salida del tren Os 8376 de la vía principal n.º 5b, el tren continuó su marcha desde la 5.ª vía principal junto a la señal de salida L5, que se encontraba en la posición «Alto»;
+◦ se produjo el desplazamiento de la aguja n.º 42 y el tren entró en la vía de tren establecida para el tren Os 28305;
+◦ inmediatamente detuvo ambos trenes mediante la estación de radio TRS seleccionando el número de tren;
+◦ los trenes se detuvieron aproximadamente en el km 200,0.
+
+• interventor de estación de Jihlava
+  – Registro de la explicación prestada al DI:
+◦ el servicio transcurría normalmente, de forma habitual;
+◦ lleva unos 25 años en la estación de Jihlava, no presta servicio en otras estaciones;
+◦ antes del turno nocturno estaba descansado y sobrio;
+◦ la formación sobre el uso de los medios de telecomunicación (Radioprovoz D-08) se realizó mediante e-learning, que considera suficiente y comprensible;
+◦ la formación sobre el uso de la función «Parada general» se impartió también, sin duda, en otras formaciones;
+◦ antes de la salida del tren Os 8376 no se comunicó en absoluto con el maquinista;
+◦ le dijo al interventor de estación que el tren Os 8376 avanzaría hasta la 5.ª vía principal y liberaría el andén, que el tren desde Havlíčkův Brod debía llegar a la 3.ª vía principal y que tenía retraso;
+◦ si la situación del tráfico lo requiere y resulta conveniente, se realiza la expedición del tren en dirección a Havlíčkův Brod con la señal «Aviso» de forma habitual, debido a la mayor rapidez en el cruce de trenes en la estación de Jihlava;
+◦ tras producirse la MU, que le indicó la señal de aviso en el JOP, reaccionó poniéndose en contacto, a través del TRS, primero con un tren y después también con el otro;
+◦ en ese momento no se le ocurrió que debiera usar la función «Parada general» en el TRS. Nunca antes había tenido que usarla;
+◦ ahora ya no tiene temor a usar la función «Parada general» y no conoce a nadie más que tenga estos temores.
 
 ## Página 20
 
-El jefe de estación interior de žst. Jihlava utilizó, tras la aparición de la MU, la estación de radio TRS para llamar individualmente a los maquinistas. Primero, a las 22:39:43 h (duración de la grabación 30 s), llamó al maquinista del tren Os 28305, le dio la señal «Alto, alto» e informó de que en sentido contrario circulaba otro tren. El maquinista le respondió que ya estaba detenido. Posteriormente, a las 22:40:16 h (duración de la grabación 38 s), llamó al maquinista del tren Os 8356, le dio la señal «Alto, alto» e informó de que había pasado una señal en posición que prohibía la circulación. El maquinista le respondió que ya estaba detenido con el tren.
+El jefe de estación interior de la estación de Jihlava, tras la aparición de la MU, utilizó la estación de radio TRS para llamar individualmente a los maquinistas. Primero, a las 22:39:43 h (duración de la grabación 30 s), llamó al maquinista del tren Os 28305, le dio la señal «Alto, alto» y le informó de que en sentido contrario circulaba otro tren. El maquinista le respondió que ya estaba detenido. Posteriormente, a las 22:40:16 h (duración de la grabación 38 s), llamó al maquinista del tren Os 8356, le dio la señal «Alto, alto» y le informó de que había pasado un señalizador en posición que prohíbe la circulación. El maquinista le respondió que ya estaba detenido con el tren.
 ### 3.2 Descripción fáctica del suceso
-### 3.2.1 Secuencia de hechos que condujeron a la excepcionalidad
-El 23. 4. 2022 se produjo la expedición del tren Os 8376 por el jefe de estación exterior desde žst. Jihlava a la estación de destino Havlíčkův Brod. Para el tren Os 8376 se estableció la ruta de tren desde la vía principal (SK) n.º 5b a la vía principal (SK) n.º 5. En la señal de camino Lc5b, identificada con una placa indicadora con el dígito «5», brillaba la señal «Velocidad 40 km/h y repetición de la señal Aviso». En la señal de salida L5 brillaba la señal que prohibía la circulación. El motivo era un retraso de 6,5 minutos del tren en sentido contrario Os 28305 (registrado por la capa gráfico-tecnológica, último dato de žst. Dobronín, cuando la salida real fue a las 22:32:30 h). Para el tren en sentido contrario se estableció la ruta de tren en la vía principal (SK) n.º 3. Con ello debía producirse un cruce más rápido de ambos trenes. El maquinista del tren Os 8376, tras la puesta en marcha, aumentaba progresivamente la velocidad en modo ARR hasta 49 km·h-1 (el tren alcanzó esta velocidad a 82 m de la señal L5, en un tramo de 462 m), no redujo la velocidad antes de la señal L5, pasó junto a esta señal con la señal que prohibía la circulación («Alto») y pasó por la aguja n.º 42. En ese momento se produjo la entrada en la ruta de tren establecida para el tren Os 28305, el cambio del indicador de señal en la señal de entrada S para el tren Os 28305 de la señal «Velocidad 40 km/h y aviso» (con el indicador encendido con el dígito «5») a la señal que prohibía la circulación, y la aparición de avisos de emergencia y de avería en el monitor SZZ en la sala de tráfico. El maquinista del tren Os 28305 reaccionó al cambio del indicador de señal y comenzó a frenar. El maquinista del tren Os 8376, al divisar las luces del tren en sentido contrario, aplicó el freno de servicio y se detuvo de frente a 28 m del tren en sentido contrario. El jefe de estación interior de žst. Jihlava, a través del TRS, llamó individualmente a los maquinistas para informarles de que circulaban hacia otro tren. Ambos trenes ya estaban detenidos en el momento de las llamadas con el jefe de estación interior de žst. Jihlava (el Os 28305 se detuvo durante la llamada). El jefe de estación interior de žst. Jihlava no utilizó la función «Parada general» (detalles en el cap. 4.1.1 ZZ).
-### 3.2.2 Secuencia de hechos desde la aparición de la excepcionalidad hasta la finalización de las acciones de los servicios de emergencia
+### 3.2.1 Secuencia de hechos que condujeron al suceso excepcional
+El 23 de abril de 2022 se produjo la expedición del tren Os 8376 por el jefe de estación exterior de la estación de Jihlava hacia la estación de destino Havlíčkův Brod. Para el tren Os 8376 se estableció una ruta de tren desde el SK n.º 5b al SK n.º 5. En el señalizador de trayecto Lc5b, identificado con una placa indicadora con el dígito «5», estaba encendida la señal «Velocidad 40 km/h y repetición de la señal Aviso». En el señalizador de salida L5 estaba encendida la señal que prohíbe la circulación. El motivo era un retraso de 6,5 minutos del tren en sentido contrario Os 28305 (registrado por la capa gráfico-tecnológica, último dato de la estación de Dobronín, cuando la salida real fue a las 22:32:30 h). Para el tren en sentido contrario se estableció una ruta de tren al SK n.º 3. De este modo debía producirse un cruce más rápido de ambos trenes. El maquinista del tren Os 8376, tras la salida, aumentaba progresivamente la velocidad en modo ARR hasta 49 km·h-1 (el tren alcanzó esta velocidad a 82 m del señalizador L5, en una vía de 462 m), no redujo la velocidad antes del señalizador L5, pasó junto a dicho señalizador con la señal que prohíbe la circulación («Alto») y cruzó el desvío n.º 42. En ese momento se produjo la entrada en la ruta de tren establecida para el tren Os 28305, el cambio de la señalización en el señalizador de entrada S para el tren Os 28305 de la señal «Velocidad 40 km/h y aviso» (con el indicador encendido con el dígito «5») a la señal que prohíbe la circulación, y la visualización de las señales de emergencia y de avería en el monitor SZZ en la oficina de tráfico. El maquinista del tren Os 28305 reaccionó al cambio de señalización y comenzó a frenar. El maquinista del tren Os 8376, al divisar las luces del tren en sentido contrario, aplicó el freno de servicio y se detuvo de frente a 28 m del tren en sentido contrario. El jefe de estación interior de la estación de Jihlava, a través de TRS, llamó individualmente a los maquinistas para informarles de que circulaban en sentido contrario a otro tren. Ambos trenes, en el momento de las conversaciones con el jefe de estación interior de la estación de Jihlava, ya estaban detenidos (el Os 28305 se detuvo durante la conversación). El jefe de estación interior de la estación de Jihlava no utilizó la función «Parada general» (detalles en el cap. 4.1.1 ZZ).
+### 3.2.2 Secuencia de hechos desde la aparición del suceso excepcional hasta la finalización de las acciones de los servicios de rescate
 •
-22:40 h el jefe de estación interior de žst. Jihlava informó al maquinista del tren Os 8376 de la aparición de la MU;
+22:40 h el jefe de estación interior de la estación de Jihlava informó al maquinista del tren Os 8376 de la aparición de la MU;
 •
-22:40 h el maquinista del tren Os 28305 comunicó la aparición de la MU al jefe de estación interior de žst. Jihlava;
+22:40 h el maquinista del tren Os 28305 comunicó la aparición de la MU al jefe de estación interior de la estación de Jihlava;
 •
-22:41 h el jefe de estación interior de žst. Jihlava comunicó la aparición de la MU según el horario de comunicaciones al CDP Přerov;
+22:41 h el jefe de estación interior de la estación de Jihlava comunicó la MU según el horario de notificación al CDP Přerov;
 •
-22:42 h el jefe de estación interior de žst. Jihlava comunicó la MU a la guardia de emergencias del ámbito operativo de Jihlava;
+22:42 h el jefe de estación interior de la estación de Jihlava comunicó la MU a la guardia de accidentes del ámbito operativo de Jihlava;
 •
-22:46 h el jefe de despacho del CDP Přerov comunicó la MU al O18 SŽ;
-
+22:46 h el jefe de despacho del CDP Přerov comunicó la MU a la O18 SŽ;
 
 ## Página 21
+
 
 •
 22:58 h la persona autorizada del O18 SŽ comunicó la aparición de la MU al COP DI;
@@ -679,27 +685,27 @@ En la investigación se detectó infracción de las normas internas relativas a 
 •
 art. 53 de la norma SŽDC (ČD) Z11:
 
-
 ## Página 22
 
-«En caso de amenaza inminente para la circulación ferroviaria, especialmente si se ven amenazadas vidas humanas y existe riesgo de demora, el jefe de estación (despachante) debe presumir que el vehículo de tracción está equipado con un adaptador de locomotora funcional e intentar detener el tren (PMD) mediante la operación del TRS con la orden rutinaria «STOP» o «GENERÁLNÍ STOP»…».
-El transportista está, entre otras obligaciones, obligado a asegurar que el maquinista conduzca el DV solo desde la posición desde la que existe la mejor visibilidad, normalmente desde la cabina delantera del maquinista en el sentido de la marcha, que desde el DV delantero observe la vía y las señales y actúe según los hechos constatados, y que durante la marcha no supere la velocidad máxima permitida, establecida en el horario de circulación o impuesta como velocidad limitada.
-El maquinista del tren Os 8376 partió de la vía principal (SK) n.º 5b tras la expedición regular por el jefe de estación exterior y con la señal que permitía la circulación en la señal de camino Lc5b «Velocidad 40 km/h y repetición de la señal Aviso». Sin embargo, durante la marcha por la 5.ª vía principal (SK) hacia la señal de salida L5 con la señal «Alto», ante la que tenía la obligación de detenerse, no reducía la velocidad. No detectó la señal «Alto» y pasó junto a esta señal, y con la marcha posterior se produjo el paso por la aguja n.º 42, que estaba conmutada a la vía principal (SK) n.º 3 y formaba parte de la ruta de tren establecida para el tren en sentido contrario Os 28305. Sin embargo, el maquinista del tren Os 8376 no registró el paso por la aguja y continuó su marcha en dirección a Dobronín y Havlíčkův Brod. Al divisar las luces del tren en sentido contrario Os 28305 (señal «inicio de tren») en una curva a la derecha, se alertó y comenzó a frenar con freno de acción rápida. Aunque inicialmente pensó que se trataba de una maniobra en la vía lateral del ramal, el DV al frente de la maniobra habría estado identificado solo con 2 luces blancas. Según su declaración prestada, el maquinista del tren Os 8376 no estaba alterado por nadie y durante su marcha tampoco fue deslumbrado por nada, de modo que hubiera pasado por alto las señales en las señales luminosas.
-El maquinista del tren Os 28305, durante su marcha, vigilaba la vía y las señales. Durante la marcha hacia žst. Jihlava desde žst. Dobronín se produjo el cambio del indicador de señal en la señal de entrada S a la señal «Alto» que prohibía la circulación. Este hecho también lo registró el repetidor de señal del freno automático de tren. El maquinista, por tanto, aplicó el freno progresivo debido a la distancia suficiente antes de la señal de entrada S hacia žst. Jihlava, y se detuvo.
-
-### Hallazgos:
-En la investigación se detectó infracción de las disposiciones legales y de las normas internas relativas a las funciones y obligaciones del transportista, del maquinista del tren Os 8376, en relación causal con la aparición de la
+«En caso de amenaza inmediata para la circulación ferroviaria, especialmente si se ven amenazadas vidas humanas y existe riesgo por demora, el jefe de estación (despachador) debe presumir que la unidad de tracción está equipada con un adaptador de locomotora funcional e intentar detener el tren (PMD) mediante el servicio TRS con una orden rutinaria "STOP" o "GENERÁLNY STOP"…».
+El operador de transporte está, entre otras obligaciones, obligado a asegurar que el maquinista conduzca la unidad de tracción (DV) únicamente desde la posición desde la que existe la mejor visibilidad, por lo general desde la cabina delantera del maquinista en el sentido de la marcha, que desde la cabina de mando de la unidad de tracción observe la vía y las señales y actúe de acuerdo con los hechos constatados, y que durante la marcha no supere la velocidad máxima permitida establecida en el horario de circulación o la velocidad limitada ordenada.
+El maquinista del tren Os 8376 partió de la vía de estacionamiento (SK) n.º 5b tras la señalización reglamentaria del jefe de estación exterior y con la señal que permitía la circulación en la señal de vía Lc5b «Velocidad 40 km/h y repetición de la señal Advertencia». Sin embargo, durante la circulación por la vía de estacionamiento n.º 5 hacia la señal de salida L5 con la señal «Alto», ante la cual tenía la obligación de detenerse, no reducía la velocidad. No detectó la señal «Alto» y pasó por alto dicha señal, y la circulación posterior provocó el corte del desvío n.º 42, que estaba conmutado a la vía de estacionamiento n.º 3 y formaba parte del itinerario de tren establecido para el tren en sentido contrario Os 28305. El maquinista del tren Os 8376, sin embargo, no registró el corte del desvío y continuó su circulación en dirección a Dobronín y Havlíčkův Brod. Al avistar las luces del tren en sentido contrario Os 28305 (señal «inicio de tren») en un arco de vía derecha, se alertó y comenzó a frenar con frenado de acción rápida. Aunque inicialmente creyó que se trataba de una maniobra en la vía lateral de la vía industrial, la unidad de tracción (DV) al frente de la maniobra habría estado señalizada únicamente con 2 luces blancas.
+Según su declaración de explicaciones, el maquinista del tren Os 8376 no estaba alterado por nadie y durante su circulación no fue deslumbrado por nada que le hiciera pasar por alto las señales en los semáforos.
+El maquinista del tren Os 28305, durante su circulación, vigilaba la vía y las señales. Durante la circulación desde la estación de Dobronín hacia la estación de Jihlava, se produjo un cambio de indicación de la señal en la señal de entrada S a la señal «Alto» que prohíbe la circulación. Este hecho también lo registró el repetidor de señal del protector automático de tren. El maquinista, por tanto, inició un frenado continuo debido a la distancia suficiente antes de la señal de entrada S hacia la estación de Jihlava, y se detuvo.
+### Constataciones:
+En la investigación se constató la infracción de disposiciones legales y normas internas relativas a las funciones y obligaciones del operador de transporte y del maquinista del tren Os 8376, en relación causal con la aparición
 ## MU:
 •
 § 35 apartado 1 letra a) de la Ley n.º 266/1994 Sb.:
-«El transportista está obligado a explotar el transporte ferroviario de acuerdo con las normas de explotación del transporte ferroviario, la licencia vigente y el contrato celebrado con el gestor de la vía para la explotación del transporte ferroviario en la vía,»;
+«El operador de transporte está obligado a explotar el transporte ferroviario de acuerdo con las reglas de explotación del transporte ferroviario, la licencia vigente y el contrato celebrado con el explotador de la infraestructura para la explotación del transporte ferroviario en la infraestructura,»;
 •
 § 35 apartado 1 letra f) de la Ley n.º 266/1994 Sb.:
-«El transportista está obligado a regirse, en la explotación del transporte ferroviario, por las instrucciones del gestor de la vía impartidas en la organización del transporte ferroviario,»;
+«El operador de transporte está obligado a regirse, en la explotación del transporte ferroviario, por las instrucciones del explotador de la infraestructura impartidas durante la organización del transporte ferroviario,»;
 •
 § 35 apartado 1 letra f) del Decreto n.º 173/1995 Sb.:
 
 ## Página 23
+
 
 «Para la conducción de un material rodante ferroviario debe garantizarse que la persona que conduce el material rodante ferroviario desde el material rodante ferroviario de cabeza observe la vía y las señales y actúe de acuerdo con los hechos constatados»;
 •
@@ -731,8 +737,8 @@ En la investigación no se constató infracción de las funciones y obligaciones
 ### 4.1.4 Autoridades nacionales de seguridad y Agencia Ferroviaria de la Unión Europea
 La autoridad nacional de seguridad es el DÚ, que de acuerdo con la ley n.º 266/1994 Sb. es una autoridad administrativa dependiente del Ministerio de Transportes. Su función es, en particular, el ejercicio de la supervisión estatal en materia de ferrocarriles y en materia de autoridad de construcción, el ejercicio de la autoridad de construcción especial para obras ferroviarias y obras en el ferrocarril, la aprobación de nuevos y modernizados materiales rodantes ferroviarios y de instalaciones técnicas designadas, y la tramitación de infracciones. La obligación del DÚ es comunicar al DI, en el plazo de 12 meses desde la fecha de publicación del informe final
 
-
 ## Página 24
+
 
 que contenga las recomendaciones de seguridad dirigidas a él, qué medida ha adoptado en relación con esta recomendación de seguridad; realiza esta comunicación de forma regular, al menos una vez al año, hasta la adopción de las medidas correspondientes.
 La función de la Agencia Ferroviaria de la Unión Europea es, además de garantizar, en el marco de sus competencias, que se mantenga y, en la medida de lo posible, se aumente sistemáticamente la seguridad de los ferrocarriles, entre otros, la emisión, renovación, suspensión y modificación de certificados únicos de seguridad, la limitación de su validez o su cancelación, en cuestión en la que colabora con las autoridades nacionales de seguridad; asimismo emite autorizaciones para la puesta en el mercado de vehículos ferroviarios y de tipos de vehículos, y está facultada para renovar, modificar, suspender o cancelar las autorizaciones que haya emitido. La Agencia evalúa asimismo los proyectos de normativas nacionales, etc.
@@ -756,8 +762,8 @@ En la investigación no se constataron factores derivados de la instalación y p
 ### 4.2.3 Factores o consecuencias relacionados con los fabricantes de materiales rodantes ferroviarios u otros proveedores de productos ferroviarios
 En la investigación no se constataron factores relacionados con los fabricantes de materiales rodantes ferroviarios u otros proveedores de productos ferroviarios.
 
-
 ## Página 25
+
 
 ### 4.2.4 Factores o consecuencias derivados del mantenimiento y la modificación de materiales rodantes ferroviarios o de instalaciones técnicas
 En la investigación no se constataron factores derivados del mantenimiento y la modificación de materiales rodantes ferroviarios o de instalaciones técnicas.
@@ -777,8 +783,8 @@ En la investigación no se constataron factores relacionados con el contenido de
 Según el transcurso del turno, el maquinista del tren Os 8376 en el grupo de turnos n.º 882 debía llegar con el tren anterior Os 8379 a la est. Jihlava mesto con llegada regular a las 21:40 h. El tren Os 8379 llegó sin retraso (también según los datos del velocímetro electrónico de HDV 814.148-3). La salida regular del tren de vuelta Os 8376 de la est. Jihlava mesto a la est. Jihlava era a las 22:33 h. Según el registro, el maquinista disfrutó de un tiempo adecuado para el descanso y la alimentación en la est. Jihlava mesto de 21:55 h a 22:25 h. Desde el inicio del turno el 23. 4. 2022 en la est. Havlíčkův Brod (cambio en la base) a las 12:33 h hasta la producción del MU (trabajó 10 h y 6 min), disfrutó de 3 tiempos adecuados para el descanso y la alimentación con una duración total de 60 min. En su declaración al DI, el maquinista mencionó posibles pequeños retrasos y tiempos de vuelta cortos en las estaciones terminales. El tiempo de vuelta más corto era siempre de 12 min en la est. Havlíčkův Brod (fijado por el horario de circulación). El tiempo de vuelta más corto en la est. Jihlava mesto fue el 23. 4. 2022 con una duración de 30 min; el último tiempo de vuelta en la est. Jihlava mesto antes de la producción del MU fue de 53 min. El tiempo de descanso antes del inicio del turno del maquinista del tren Os 8376 fue de 24 h.
 El maquinista del tren Os 8376 puso el tren en movimiento a las 22:38:40 h; en la señal de viaje Lc5b (señalizada con una placa indicadora con el dígito «5») brillaba la señal «Velocidad 40 km/h y repetición de la señal Aviso». Esta señal, según su declaración, el maquinista la percibió y la recibió correctamente. A continuación, como se desprende del análisis del velocímetro (véanse los puntos 3.1.7 y 3.2.1 de la presente ZZ), aumentó la velocidad de forma gradual hasta 49 km.h-1, es decir, la conducta del maquinista no correspondía
 
-
 ## Página 26
+
 
 al hecho de que en la siguiente señal de salida L5 (situada con insuficiente distancia de frenado) debía esperar la señal «Alto». El propio maquinista declaró (véase el punto 3.1.9 de la presente ZZ) que pasó por alto la señal L5, es decir, que no percibió en absoluto la señal ni su indicación (no la detectó). Del desarrollo posterior del suceso del accidente se desprende que el maquinista del tren Os 8376, tras ver frente a él el tren en sentido contrario Os 28305, aplicó el frenado de emergencia y el tren Os 8376 se detuvo. El maquinista del tren Os 8376 aumentó progresivamente la velocidad hasta 49 km.h-1, que alcanzó a 82 m de la señal de salida L5. Como muy tarde en ese momento, el maquinista habría tenido que aplicar el frenado de emergencia para detenerse como muy tarde a la altura de la señal L5 (no se habría producido el MU), lo que, debido a que pasó por alto la señal «Alto» en la señal L5, no ocurrió.
 
@@ -803,28 +809,29 @@ En los procedimientos, métodos, contenido y resultados de las actividades de ev
 ## Página 27
 
 ### 4.4.3 Sistema de garantía de la seguridad de los transportistas y gestores de infraestructura participantes
-En el sistema de seguridad del gestor de la infraestructura y en el sistema de garantía de la seguridad del transporte ferroviario del transportista, relacionados con las circunstancias del origen de la MIE en cuestión, no se detectaron deficiencias.
-### 4.4.4 Sistema de gestión de los sujetos responsables del mantenimiento del material rodante ferroviario y de los talleres de mantenimiento
-El sistema de gestión de los sujetos responsables del mantenimiento del material rodante ferroviario y de los talleres de mantenimiento no guardaba relación con el origen de la MIE.
+En el sistema de seguridad del gestor de infraestructura y en el sistema de garantía de la seguridad del transporte ferroviario del transportista, relacionados con las circunstancias del origen de la MIE en cuestión, no se detectaron deficiencias.
+### 4.4.4 Sistema de gestión de los sujetos responsables del mantenimiento de los vehículos ferroviarios
+y de los talleres de mantenimiento
+El sistema de gestión de los sujetos responsables del mantenimiento de los vehículos ferroviarios y de los talleres de mantenimiento no guardaba relación con el origen de la MIE.
 ### 4.4.5 Resultados de la supervisión realizada por las autoridades nacionales de seguridad
 Atendiendo a los factores y circunstancias detectados del origen de la MIE, la supervisión de la autoridad de seguridad no guarda relación con la MIE en cuestión.
-### 4.4.6 Aprobaciones, certificados e informes de evaluación emitidos por la agencia, las autoridades nacionales de seguridad u otros organismos de evaluación de la conformidad
-El gestor de la infraestructura explotó la infraestructura con base en una autorización administrativa vigente y un certificado de seguridad del gestor de la infraestructura. El transportista explotó el transporte ferroviario con base en una licencia vigente y un certificado del transportista.
+### 4.4.6 Aprobaciones, certificados y evaluaciones emitidos por la agencia, las autoridades nacionales de seguridad u otros sujetos de evaluación de la conformidad
+El gestor de infraestructura explotaba la infraestructura con base en una autorización administrativa vigente y un certificado de seguridad del gestor de infraestructura. El transportista explotaba el transporte ferroviario con base en una licencia vigente y un certificado del transportista.
 ### 4.4.7 Otros factores sistémicos
 En la investigación no se detectaron otros factores sistémicos.
-### 4.5 Sucesos anteriores de naturaleza similar
-La DI, en el periodo comprendido entre el 1 de enero de 2015 y la fecha de origen de la MIE en cuestión, registra en las vías férreas de categoría nacional y regional un total de 704 MIE, cuyo origen fue la circulación no autorizada de un tren más allá de una señal con indicación «Alto». De este número, se produjo posteriormente en 14 casos una colisión de MR, en 18 casos un descarrilamiento de MR y en 11 casos una colisión de MR con un dispositivo técnico de la infraestructura. Como consecuencia de estas circulaciones no autorizadas, se produjo el fallecimiento de 5 personas, lesiones corporales en
+### 4.5 Eventos anteriores de naturaleza similar
+DI, en el periodo comprendido entre el 1 de enero de 2015 y la fecha de origen de la MIE en cuestión, registra en las vías férreas, categoría nacional y regional, un total de 704 MIE, cuyo origen fue la circulación no autorizada de un tren más allá de una señal con la indicación «Alto». De este número, se produjo posteriormente una colisión de VF en 14 casos, un descarrilamiento de VF en 18 casos y una colisión de VF con un dispositivo técnico de la infraestructura en 11 casos. Como consecuencia de estas circulaciones no autorizadas, se produjo la muerte de 5 personas, lesiones en
 ### 165 personas y un daño total por importe de 583 939 892 CZK.
 ### 5 CONCLUSIONES
 ### 5.1 Resumen del análisis y conclusiones relativas a las causas del suceso
 La causa inmediata del suceso extraordinario fue:
 •
-el incumplimiento de la indicación «Alto» en la señal de salida L5 de la estación ferroviaria de Jihlava por parte del maquinista del tren Os 8376, ocasionado por un descuido inconsciente, un error del maquinista, que no detectó la indicación «Alto» al circular hacia dicha señal.
-No se detectó por parte de la DI ningún factor contribuyente.
-No se detectó por parte de la DI ninguna causa sistémica.
-
+el incumplimiento de la indicación «Alto» en la señal de salida L5 de la estación ferroviaria de Jihlava por parte del maquinista del tren Os 8376, causado por una infracción inconsciente, un error del maquinista, que durante la marcha hacia dicha señal no detectó la indicación «Alto».
+No se detectó por parte de DI ningún factor contribuyente.
+No se detectó por parte de DI ninguna causa sistémica.
 
 ## Página 28
+
 
 ### Resumen del análisis y conclusiones relativas a las causas del suceso
 Factor causal:
@@ -853,8 +860,8 @@ no utilización de la función «Parada general» por parte del jefe de estació
 ### 6 RECOMENDACIONES DE SEGURIDAD
 Atendiendo a las causas y circunstancias detectadas del origen del suceso extraordinario, la Inspección Ferroviaria no emite recomendaciones de seguridad, porque no se detectaron datos que
 
-
 ## Página 29
+
 
 justificaran la emisión de una recomendación de seguridad en el marco de la prevención del origen de sucesos extraordinarios.
 ### RECOMENDACIONES DE SEGURIDAD
@@ -867,8 +874,8 @@ inspector
 Delegación Territorial de Brno
 Delegación Territorial de Brno
 
-
 ## Página 30
+
 
 ### ANEXOS
 Fig. n.º 2: Visibilidad de la señal de salida L5
@@ -876,8 +883,8 @@ Fig. n.º 2: Visibilidad de la señal de salida L5
 Fig. n.º 3: Señal de vía Lc5b en el balasto
                                 Fuente: DI
 
-
 ## Página 31
+
 
 Fig. n.º 4: Situación tras la MIE en el monitor JOP de la estación de Jihlava
        Fuente: DI

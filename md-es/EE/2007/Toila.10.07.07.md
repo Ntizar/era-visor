@@ -10,13 +10,14 @@ chars: 55590
 ratio_longitud: 1.26
 tokens_in: 24395
 tokens_out: 16909
-verificacion: revisar
-notas_cifras: ["bloque 3: cifras cortas: 2/20", "bloque 5: original bilingüe: se compara contra el idioma principal (FI); cifras largas: 1/26", "bloque 6: cifras cortas: 4/29", "bloque 7: cifras cortas: 1/18"]
-avisos: ["bloque 3: marcadores de página: 2 vs 1"]
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 4: original bilingüe: se compara contra el idioma principal (FI)", "página 5: original bilingüe: se compara contra el idioma principal (FI)", "página 6: original bilingüe: se compara contra el idioma principal (FI)", "página 9: original bilingüe: se compara contra el idioma principal (FI)", "página 10: original bilingüe: se compara contra el idioma principal (FI)", "página 11: original bilingüe: se compara contra el idioma principal (FI); cifras largas: 1/14"]
 ---
+
 ## Página 1
+
 
 INFORME DE INVESTIGACIÓN DE ACCIDENTE FERROVIARIO
 Accidente ferroviario
@@ -31,8 +32,8 @@ Lugar y fecha del accidente ferroviario: en el paso a nivel de Toila (condado de
 Tallin
 2007
 
-
 ## Página 2
+
 
 # 1. RESUMEN
 1. La colisión entre el tren de mercancías n.º 1552 y el camión Scania con semirremolque tuvo lugar el 10 de julio de 2007 a las 08:32 en el paso a nivel de Toila, en el tramo entre las estaciones de Jõhvi y Oru.
@@ -49,8 +50,8 @@ Tallin
 3. Los daños a la infraestructura ferroviaria se extendieron a 325 metros, incluyendo dos fracturas de riel, durmientes dañados y abrazaderas que unen los durmientes y los rieles. El tráfico ferroviario se interrumpió durante 20 horas y 49 minutos.
 4. La parte delantera de la locomotora diésel 2TE116 número 1682 de la sección A sufrió una deformación grave, incluyendo daños a la cabina del conductor y su equipamiento, bogies, pares de ruedas, sistema de tubos de arenado, tubería del freno automático y caja de potencia, depósito de combustible y grifos.
 
-
 ## Página 3
+
 
 5. La parte delantera del camión Scania quedó totalmente deformada y el remolque destrozado. El camión junto con su remolque no era apto para su restauración y tuvo que ser dado de baja.
 6. El depósito de combustible de la locomotora y el motor del camión presentaban fugas, y las fugas provocaron contaminación medioambiental. Las fugas no provocaron una contaminación sustancial del medio ambiente.
@@ -68,6 +69,7 @@ Tras la colisión, el tren se detuvo a una distancia de 318,2 m del paso a nivel
 A ambos lados de la vía férrea había marcas de frenado del automóvil, y tras cruzar la vía férrea, las marcas dejadas por el automóvil se extendieron sobre el asfalto hasta una distancia de 2,3 m del riel más cercano. El remolque del automóvil transportaba carga de tablas. Antes del paso a nivel, en el lado izquierdo de la carretera en la dirección de circulación del automóvil, había una zona trapezoidal paralela a la carretera cubierta con vidrio, plástico y madera. La longitud del lado paralelo a la vía férrea de la zona trapezoidal
 
 ## Página 4
+
 
 oli 30,5m, sõiduteepoolse trapetsi aluse pikkus oli 3,8m ja rongi peapoolse aluse 
 pikkus 3,2m.  
@@ -113,10 +115,10 @@ ole. Kell 09.05 teatas opertiivkorrapidaja, et kütuseleke on peatatud, palutaks
 edastada raudtee päästeteenistusele, et tuleb teostada kütuse ümberpumpamine, 
 hinnanguliselt oli maha valgunud umbes 200 - 500 liitrit kütust. Kell 09.11 
 teavitati raudtee turvakeskust. Kell 12.04 palus operatiivkorrapidaja teavitada 
-politseid, et ülesõit jääb suletuks kuni kella 02.00-ni öösel. Kell 12.05 edastati 
-
+politseid, et ülesõit jääb suletuks kuni kella 02.00-ni öösel. Kell 12.05 edastati
 
 ## Página 5
+
 
 eelmine teade politseile. Kell 13.33 teatas operatiivkorrapidaja, et raudteetöötajad 
 tõstavad rongi tagasi rööbastele, päästjad turvavad kohapeal. Kütust veel vähesel 
@@ -183,72 +185,75 @@ frecuencia del tráfico de vehículos de motor es
 
 ## Página 6
 
-1500 unidades por día. Según los resultados del censo de tráfico de 2006 de la Dirección de Carreteras de Viru, la intensidad del tráfico fue de 2160 vehículos por día.
-La velocidad máxima permitida para los trenes de mercancías es de 80 km/h y, según los datos de AS Eesti Raudtee, para el transporte por carretera es de 90 km/h; sin embargo, según los datos de la policía de Jõhvi, la velocidad máxima permitida para el transporte por carretera es de 50 km/h. La anchura del paso a nivel es de 11,4 m y la calzada y las vías férreas se cruzan en ángulo recto. La visibilidad desde la locomotora hasta el paso a nivel es de 1000 m. A 50 m de la calzada, la visibilidad en dirección de aproximación del tren es de 200 m. Para los usuarios de la carretera, el paso a nivel está equipado con señales de tráfico de advertencia 112 «Paso a nivel sin barreras», «121 «Vía única» y con la señal de prioridad 222 «Deténgase y ceda el paso». El paso a nivel no está equipado con semáforos de paso de señalización automática ni con barreras. Al paso a nivel de Toila se le ha asignado la categoría II.
-En el lugar del suceso llegaron la policía, el servicio de rescate y la ambulancia médica. La policía tramitó el incidente, la ambulancia prestó asistencia médica a la víctima y el equipo de rescate participó en la eliminación de las consecuencias del accidente. El servicio de rescate eliminó la fuga del depósito de combustible de la locomotora, transfiriendo el combustible al depósito de combustible de la segunda sección de la locomotora. La fuga también se produjo como resultado de las daños en el motor del camión. Las labores de eliminación de la contaminación se realizaron cumpliendo todas las normas medioambientales y se finalizaron el 13 de julio mediante el tratamiento hidrológico del terraplén ferroviario contaminado. El suelo contaminado y cubierto con material absorbente se entregó al Centro de Residuos Peligrosos EcoPro Vaivara OÜ.
-Tras producirse el accidente ferroviario, el grupo de respuesta rápida de la zona de Narva de AS Eesti Raudtee comenzó a operar en colaboración con el equipo de rescate del Centro de Rescate del Este de Estonia. El responsable del grupo de eliminación de las consecuencias de accidentes de AS Eesti Raudtee llegó al lugar del suceso a las 11.15. La eliminación de las consecuencias del accidente se llevó a cabo en colaboración con el grupo de eliminación de las consecuencias de accidentes, representantes de Westgate Transport OÜ y el equipo de rescate del Centro de Rescate del Este de Estonia. Tras la marcha del operador de guardia del Centro de Rescate del Este de Estonia, la eliminación de las consecuencias quedó bajo la dirección del responsable del grupo operativo de AS Eesti Raudtee. El izado de la primera sección de la locomotora sobre las vías lo realizaron el tren de rescate de AS Eesti Raudtee y el personal de Westgate Transport OÜ. Como ayuda se utilizó una grúa ferroviaria de AS Eesti Raudtee con una capacidad de elevación de 125 t. La grúa se encontraba previamente en la estación de Jõhvi, pero para realizar los trabajos debía situarse hacia Narva respecto al lugar del accidente. Para el desplazamiento de la grúa ferroviaria desde el lugar del suceso se utilizó la infraestructura de AS Põlevkivi Raudtee y para el cambio de dirección se utilizó el triángulo de Narva. La locomotora implicada en el accidente se transportó a la estación de Jõhvi.
-Las obras de restauración de la vía las realizaron el personal de AS Eesti Raudtee utilizando sus propios equipos técnicos y el personal de VolkerRail RTE AS junto con sus máquinas.
-# Muertes, lesiones y daños materiales
-No hubo muertos como consecuencia del accidente. El maquinista sufrió lesiones leves. El conductor del automóvil sufrió lesiones graves, que le fueron atendidas por la ambulancia que lo trasladó al hospital. Al conductor del automóvil se le diagnosticó una fractura en la parte inferior del cuerpo, contusiones en la espalda y la pelvis, así como arañazos; también presentó arañazos y contusiones en la zona del codo.
-La infraestructura ferroviaria sufrió daños en un tramo de 325 m. Se inutilizaron todos los durmientes de hormigón, las vías y las abrazaderas que unen los durmientes que había en este tramo de vía, y se produjeron dos roturas de vía.
-Como consecuencia de la colisión, AS Eesti Raudtee sufrió daños por valor de 2720941 coronas, de las cuales los gastos del tren de rescate para la realización de las labores de rescate ascendieron a 183437 coronas, los gastos de desplazamiento del tren de rescate y su tripulación al lugar del suceso y desde el mismo fueron de 64028 coronas, los gastos del servicio de transporte para la eliminación de las consecuencias del accidente y la suspensión del transporte de mercancías fueron de 751403 coronas, los gastos de materiales y mano de obra para la realización de las obras y la reapertura del tráfico ferroviario a la velocidad de circulación previa al accidente fueron de 1694727 coronas, el coste de las labores de coordinación y gestión de los especialistas del departamento de seguridad durante el desplazamiento fue de 19475 coronas, y los gastos administrativos para la presupuestación y la contabilidad de las labores de rescate y reparación, así como para la gestión de las reclamaciones por daños, fueron de 7871 coronas.
+1500 unidades al día. Según el resultado del recuento de tráfico de 2006 del Viru Teedevalitsus, se obtuvo una intensidad de tráfico de 2160 vehículos al día. 
 
+La velocidad máxima permitida para los trenes de mercancías es de 80 km/h y, según los datos de AS Eesti Raudtee, para el transporte por carretera es de 90 km/h, pero según los datos de la policía de Jõhvi, la velocidad máxima permitida para el transporte por carretera es de 50 km/h. La anchura del paso a nivel es de 11,4 m y la calzada y la vía férrea se encuentran perpendiculares entre sí. La visibilidad desde la locomotora hasta el paso a nivel es de 1000 m de distancia. A una distancia de 50 m de la calzada desde la vía férrea, la visibilidad en la dirección de aproximación del tren es de 200 m. Para el tráfico por carretera, el paso a nivel está equipado con señales de tráfico de advertencia 112 «Paso a nivel sin barrera», «121 «Vía férrea de vía única» y la señal de prioridad 222 «Pare y ceda el paso». El paso a nivel no está equipado con semáforo de paso a nivel de señalización automática, faltan las barreras. Al paso a nivel de Toila se le ha asignado la categoría II. 
+
+Al lugar del suceso llegaron la policía, el servicio de rescate y la ambulancia. La policía instruyó el caso, la ambulancia prestó asistencia médica al herido, el equipo de rescate participó en la eliminación de las consecuencias del accidente. El servicio de rescate eliminó la fuga del depósito de combustible de la locomotora, el combustible se bombeó al depósito de combustible de la segunda sección de la locomotora. La fuga también había surgido como consecuencia de los daños en el motor del camión. Los trabajos de eliminación de la contaminación se llevaron a cabo teniendo en cuenta todos los requisitos medioambientales y los trabajos se finalizaron el 13 de julio tratando el terraplén ferroviario contaminado con un hidrobreak. El suelo contaminado y cubierto con absorbente se entregó a AS EcoPro Vaivara Ohtlike Jäätmete Keskus. 
+
+Tras la ocurrencia del accidente ferroviario, comenzó a operar el grupo de respuesta rápida de la región de Narva de AS Eesti Raudtee en colaboración con el equipo de rescate del Centro de Rescate de Estonia Oriental. El jefe del grupo de eliminación de las consecuencias del accidente de AS Eesti Raudtee llegó al lugar del suceso a las 11.15. La eliminación de las consecuencias del accidente se llevó a cabo por la colaboración del grupo de eliminación de las consecuencias del accidente, los representantes de Westgate Transport OÜ y el equipo de rescate del Centro de Rescate de Estonia Oriental. Tras la partida del jefe de guardia operativo del Centro de Rescate de Estonia Oriental, la dirección de la eliminación de las consecuencias pasó al jefe del grupo operativo de AS Eesti Raudtee. El izado de la primera sección de la locomotora sobre la vía fue realizado por el tren de rescate de AS Eesti Raudtee y los empleados de Westgate Transport OÜ. Se contó con la ayuda de la grúa ferroviaria de 125 t de capacidad de izado del tren de rescate de AS Eesti Raudtee. La grúa se encontraba en la estación de Jõhvi antes del accidente, pero para realizar los trabajos debía situarse al lado de Narva respecto al lugar del accidente. Para el paso de la grúa ferroviaria por el lugar del suceso se utilizó la infraestructura de AS Põlevkivi Raudtee y para el cambio de sentido el triángulo de Narva. La locomotora accidentada fue transportada a la estación de Jõhvi. 
+
+Los trabajos de restauración de la vía férrea fueron realizados por los empleados de AS Eesti Raudtee utilizando sus equipos técnicos y los empleados de VolkerRail RTE AS y sus máquinas de vía. 
+
+# Muertes, lesiones y daños materiales 
+
+No hubo muertos como consecuencia del accidente. El maquinista sufrió lesiones corporales leves. El conductor del vehículo sufrió lesiones corporales más graves, al que la ambulancia trasladó al hospital. Al conductor del vehículo se le diagnosticó fractura de hueso en la parte inferior del cuerpo, contusión de espalda y pelvis y arañazos, así como arañazos y contusión en la zona del codo. 
+
+La infraestructura ferroviaria resultó dañada en una extensión de 325 m. Se volvieron inutilizables todas las traviesas de hormigón, los raíles y los abrazaderas que unen las traviesas existentes en dicho tramo, se produjeron dos roturas de raíl. 
+
+Como consecuencia de la colisión, se causó un daño a AS Eesti Raudtee de 2720941 coronas, de las cuales los gastos del tren de rescate para la realización de los trabajos de rescate ascendieron a 183437 coronas, los gastos de traslado del tren de rescate y su equipo al lugar del suceso y desde el lugar del suceso fueron de 64028 coronas, los gastos del servicio de transporte de las consecuencias del accidente
+
+## Página 7
+
+para la eliminación y la parada del transporte de mercancías 751403 coronas, costes de material y de mano de obra para la realización de los trabajos y la reapertura de la circulación ferroviaria a la velocidad de circulación anterior al accidente 1694727 coronas, coste de las tareas de coordinación y dirección de los especialistas de la sección de seguridad en la salida fue de 19475 coronas, gastos administrativos para la presupuestación y contabilización de los trabajos de salvamento y reparación y para la administración de la reclamación de daños 7871 coronas.
 Foto
 2.
-Locomotora
-diésel
-2TE116 n.º 1682 después
-de la colisión
+Locomotora diésel
+2TE116 nº 1682 tras la
+colisión
+La locomotora diésel 2TE116 nº 1682 descarriló con el primer bogie de 6 ejes y sufrió daños técnicos importantes. Estaba fuertemente deformada toda la parte frontal de la sección A de la locomotora, junto con la cabina del maquinista y los bogies de dirección, siendo el primer bogie de dirección casi perpendicular al cuerpo de la locomotora. Estaban rotos los cristales de la cabina de la locomotora, las luces de choque, el pupitre de mando y el equipamiento de la locomotora. Estaban dañadas las partes del bastidor de la locomotora, los ejes, la tubería del sistema de riego y la tubería y las llaves de cierre de los conductos principales del freno automático y de suministro, el depósito de combustible. El coste orientativo de la reparación de restauración de la locomotora asciende a 5,5 millones de coronas.
 
-La locomotora diésel 2TE116 n.º 1682 descarriló con las seis parejas de ruedas de la primera sección y sufrió graves daños técnicos. Estuvo muy deformada la parte delantera de toda la sección A de la locomotora, junto con la cabina del maquinista y los bogies, siendo el primer bogie casi perpendicular al chasis de la locomotora. Se rompieron las ventanas de la cabina de la locomotora, las luces de los parachoques, el panel de control y el interior de la locomotora. Resultaron dañadas las partes del tren de rodadura de la locomotora, las parejas de ruedas, la tubería del sistema de arenado y la tubería de la línea maestra del freno automático y de suministro, así como las válvulas de cierre de los extremos, el depósito de combustible. El coste orientativo de la reparación de la locomotora asciende a 5,5 millones de coronas.
-La carrocería del camión Scania quedó aplastada y arañada tras el accidente, el motor resultó dañado, siendo especialmente grandes los daños en la parte delantera del vehículo. El vehículo estaba destinado a la chatarra. La lona del remolque estaba dañada y el chasis del remolque estaba deformado y roto; el remolque estaba destinado a la chatarra. La carga de tablas se había desintegrado y dispersado por el paso a nivel y sus alrededores.
-Como consecuencia de las fugas producidas en el depósito de combustible de la locomotora y en el motor del camión, se causó contaminación medioambiental. Según los datos de la Oficina de Inspección Medioambiental de la provincia de Viru, no se confirmaron las estimaciones iniciales sobre la cantidad de combustible derramado, que se estimaba en al menos 200 litros. La Oficina de Inspección Medioambiental tomó muestras de agua de los pozos más cercanos el 17 de julio de 2007, cuyos resultados no mostraron contaminación. Tampoco se han recibido quejas posteriores sobre la contaminación del agua de los pozos. Las fugas no provocaron una contaminación medioambiental significativa.
-# Factores externos
-El accidente se produjo por la mañana a las 08.32, cuando ya era de día. El tiempo estaba despejado, la carretera era plana y seca.
+La carrocería del camión Scania estaba aplastada y arañada tras el accidente, el motor estaba dañado, y los daños en la parte frontal del vehículo eran muy grandes. El vehículo debía ser dado de baja. La lona del remolque estaba dañada y el bastidor del remolque estaba deformado y cortado, el remolque debía ser dado de baja. La carga de tablones se había desmoronado y se había extendido por el paso a nivel y sus alrededores.
+
+Como consecuencia de las fugas procedentes del depósito de combustible de la locomotora y del motor del camión, se produjo contaminación ambiental. Según los datos de la Sección de Virumaa de la Inspección de Medio Ambiente, las estimaciones iniciales de derrame de combustible de al menos 200 litros no se confirmaron. La Inspección de Medio Ambiente tomó muestras de agua de los pozos más próximos el 17 de julio de 2007, cuyos resultados no indicaron contaminación. Tampoco se han recibido posteriormente quejas sobre la contaminación del agua de los pozos. Las fugas no causaron una contaminación ambiental significativa.
+
+# Circunstancias externas
+El accidente ocurrió a las 08.32 de la mañana, cuando fuera estaba claro. El tiempo estaba despejado, la vía era llana y seca.
 
 ## Página 8
 
-# 3. DATOS DE INVESTIGACIÓN Y DECLARACIONES
+# 3. DATOS DE INVESTIGACIONES Y ENCUESTAS 
 # Resumen de las declaraciones
-
-El maquinista ha proporcionado explicaciones y declaraciones sobre el incidente, en las que indica que el 10.07.2007 circuló con el tren n.º 1552, cuyo peso era de 1644 t, en la sección A de la locomotora 2TE116 n.º 1682, entre las estaciones de Jõhvi y Oru, y al aproximarse al paso a nivel emitió una señal acústica. Desde la izquierda de la dirección de circulación del tren, un vehículo de tipo Scania con cabina blanca se acercó al paso a nivel y se detuvo antes del mismo. Sin embargo, cuando el tren se aproximaba al paso a nivel, el vehículo cruzó repentinamente el paso a nivel sin reaccionar a la señal acústica emitida. El faro estaba encendido en luz alta y también estaban encendidas las luces de cruce. El maquinista aplicó inmediatamente el freno de emergencia, pero no fue posible evitar la colisión ocurrida a las 08.32. En el momento del impacto, el maquinista sintió un fuerte golpe, la rotura del parabrisas y la deformación de la cabina. El maquinista informó del incidente al encargado de la estación de Jõhvi. Antes de la colisión, la velocidad del tren era de 71 km/h. El maquinista sufrió lesiones corporales leves.
-
-En la declaración del ayudante de maquinista se indica que el 10.07.2007 viajaban con el tren 1552 en la locomotora 2TE116 n.º 1682 entre las estaciones de Jõhvi y Oru; al aproximarse al paso a nivel se emitió una señal acústica. El vehículo de tipo Scania se detuvo junto al paso a nivel, pero cuando el tren se aproximaba, el coche cruzó el paso a nivel de forma inesperada sin reaccionar a la señal acústica emitida por el maquinista. El faro estaba encendido en luz alta y las luces de cruce estaban encendidas.
-
-El maquinista aplicó inmediatamente el freno de emergencia, pero no pudo evitar la colisión. Tras detener el tren, el ayudante, siguiendo las órdenes del maquinista y del maquinista instructor, procedió a asegurar el tren con cuñas de freno.
-
-El conductor del vehículo ha prestado declaraciones sobre el accidente ocurrido, en las que informa que el 10.07.2007 a las 8.33 conducía un camión de tipo Scania con matrícula estatal 024LIN, realizando un transporte comercial desde Rusia a Estonia. Al atravesar Linaküla y al aproximarse al paso a nivel ferroviario, se detuvo antes de la señal STOPP. Al mirar a la izquierda y a la derecha, decidió continuar la marcha. El conductor llevaba puesto el cinturón de seguridad. El vehículo tenía encendidas las luces de cruce y las luces de posición. Al cruzar el paso a nivel, el conductor volvió a mirar a la izquierda y a la derecha, y se aseguró de que el tren se encontraba ya cerca y circulaba a gran velocidad. El conductor comprendió que no podía regresar. Aceleró con la esperanza de avanzar rápidamente para evitar la colisión. Posteriormente, el conductor sintió un impacto contra la parte trasera del remolque. El vehículo quedó enganchado contra el lado derecho de la cabina del tren. Tras recorrer una cierta distancia, el vehículo fue lanzado fuera de la carretera. El conductor detuvo el motor y se desabrochó el cinturón de seguridad. Posteriormente, salió del vehículo a través del cristal roto. Pasado un tiempo, llegaron la ambulancia y la policía. Se prestó asistencia médica al conductor del vehículo y fue trasladado al hospital.
-
+El maquinista ha prestado declaración sobre el caso, en la que indica que 
+el 10.07.2007 circulaba con el tren n.º 1552, con un peso de 1644 t, en la sección A de la locomotora 2TE116 n.º 1682, entre las estaciones de Jõhvi y Oru, y dio la señal sonora al aproximarse al paso a nivel. Por la izquierda, en el sentido de circulación del tren, llegó al paso a nivel un vehículo tipo Scania de cabina blanca y se detuvo delante del paso a nivel. Sin embargo, cuando el tren ya se había aproximado al paso a nivel, el vehículo entró de repente en el paso a nivel y no respondió a la señal sonora emitida. El proyector estaba encendido en posición de luz alta y también estaban encendidas las luces de posición. El maquinista aplicó de inmediato un frenado de emergencia, pero no fue posible evitar la colisión, que se produjo a las 08.32. En el momento de la colisión, el maquinista sintió un golpe fuerte, la rotura del parabrisas y la deformación de la cabina. 
+El maquinista informó del caso al jefe de estación de Jõhvi. Antes de la colisión, la velocidad del tren era de 71 km/h. El maquinista sufrió lesiones leves. 
+En la declaración del ayudante de maquinista consta que el 10.07.2007 circulaban con el tren 1552 en la locomotora 2TE116 n.º 1682 entre las estaciones de Jõhvi y Oru; al aproximarse al paso a nivel se dio la señal sonora. Un vehículo tipo Scania se detuvo junto al paso a nivel, pero cuando el tren se aproximaba al paso a nivel, el coche entró inesperadamente en el paso a nivel sin responder a la señal sonora emitida por el maquinista. El proyector estaba encendido en posición de luz alta y las luces de posición estaban encendidas. 
+El maquinista aplicó de inmediato un frenado de emergencia, pero no pudo evitar la colisión. Tras detener el tren, el ayudante cumplió las órdenes del maquinista y del instructor de maquinistas y aseguró la composición del tren con calzos de rueda. 
+El conductor del vehículo ha prestado declaración sobre el accidente ocurrido, en la que informa de que el 10.07.2007 a las 8.33 conducía un camión tipo Scania con matrícula estatal 024LIN, transportando una carga comercial desde Rusia hasta Estonia. Al pasar por Linaküla y aproximarse al paso a nivel, se detuvo delante de la señal STOPP. Tras mirar a izquierda y a derecha, decidió continuar la marcha. El conductor estaba sujeto con los cinturones de seguridad. El vehículo tenía encendidas las luces de posición y de contorno. Al entrar en el paso a nivel, el conductor volvió a mirar a izquierda y a derecha y comprobó que la composición del tren ya estaba cerca y circulaba a gran velocidad. El conductor comprendió que ya no podía retroceder. Aumentó la velocidad con la esperanza de lanzarse hacia adelante para evitar la colisión. A continuación, el conductor sintió un golpe en la parte trasera del remolque. El vehículo chocó con el lado derecho de la cabina contra el tren. Durante cierto tiempo, el vehículo quedó enganchado y a continuación fue lanzado al borde de la carretera. El conductor detuvo el motor y se soltó del cinturón de seguridad. A continuación, salió del vehículo a través del cristal roto. Pasado un tiempo, llegaron la ambulancia y la policía. Se prestó primeros auxilios al conductor del vehículo y se le trasladó al hospital. 
 # Sistema de gestión de la seguridad
-
-AS Eesti Raudtee ha establecido la orden n.º 19, de 23.09.2004, «Comunicación de acontecimientos que amenazan la circulación ferroviaria y procedimiento de actuación». La orden se establece para la circulación oportuna de información y la actuación rápida ante una situación de emergencia, un accidente de circulación ferroviaria, un incidente ferroviario, un choque de trenes con personas presentes en la vía férrea y otros acontecimientos que amenazan directamente la vía férrea.
-
-El anexo 1 de la orden n.º 19 establece:
-
-1. Todos los empleados de las empresas ferroviarias que se encuentren en AS Eesti Raudtee y en la infraestructura ferroviaria de Eesti Raudtee, que hayan observado el acontecimiento mencionado anteriormente, deben comunicarlo inmediatamente al encargado de la estación más cercana, al despachador de trenes o al gestor de tráfico ferroviario.
-2. El encargado de la estación o el despachador de trenes deben transmitir inmediatamente la información recibida al gestor de tráfico ferroviario y al centro de seguridad de AS Eesti Raudtee. Este último informará, si fuera necesario, a la policía.
-3. El gestor de tráfico ferroviario debe:
-   - informar de forma operativa al director de seguridad o a la persona que le sustituya;
-   - si es necesario, informar del incidente a través del número de emergencia 112.
-
-El anexo 2 de la orden n.º 19 establece la composición del grupo de liquidación de las consecuencias del accidente y la distribución de las tareas de los miembros.
-
-El jefe de grupo-director de seguridad dirige las operaciones operativas del grupo y coordina el trabajo de las unidades estructurales y subordinadas de AS Eesti Raudtee en la liquidación de las consecuencias del accidente, y coordina las acciones conjuntas con el Cuerpo de Rescate, las autoridades locales y, si es necesario, con la Inspección Medioambiental, así como con las empresas operadoras de las compañías transportistas. Decide, sobre la base de las propuestas del jefe del tren de rescate y del jefe del departamento de dirección de los transportes, la realización de modificaciones en los horarios de circulación o la cancelación de trenes de viajeros y mercancías. Si es necesario, transmite al portavoz de prensa la información necesaria para la elaboración de un comunicado de prensa.
-
-El jefe del tren de rescate-jefe de las operaciones de rescate, al llegar al lugar del incidente, asume la dirección de las operaciones de rescate. Organiza y dirige el trabajo de los grupos de accidentes del tren de rescate y de otras unidades estructurales de Eesti Raudtee en el lugar del incidente, garantizando la seguridad y la restablecimiento de la circulación ferroviaria durante la liquidación operativa del accidente y de sus consecuencias. Organiza la localización, neutralización y limpieza de la contaminación medioambiental.
-
-La orden n.º 16 de AS Eesti Raudtee, de 26.07.2004, establece «La realización de la investigación oficial de accidentes de circulación ferroviaria, incidentes ferroviarios y choques con personas, y la comunicación de los mismos». La orden establece la recopilación de los materiales relacionados con el incidente, el procedimiento para llevar a cabo la investigación, así como el contenido de los materiales de investigación.
-
-La orden n.º 2.1/23 de AS Eesti Raudtee, de 28.05.2003, establece la formación de los grupos de respuesta rápida.
-
-4. El jefe del grupo de respuesta rápida o, por delegación, el empleado correspondiente del servicio de material rodante, al llegar al lugar del incidente:
-   - transmite al jefe del grupo de liquidación de las consecuencias del accidente de AS Eesti Raudtee, director de seguridad, información sobre la situación en el lugar y las propuestas para la liquidación de la situación de accidente y de las consecuencias del accidente;
-   - dirige las actuaciones en el lugar y resuelve las cuestiones hasta que llegue al lugar del incidente un representante del grupo de liquidación de las consecuencias del accidente, que asume la dirección;
-   - si la dirección se ha transferido al representante del grupo de liquidación de las consecuencias del accidente, el grupo de respuesta rápida se somete al representante del grupo de liquidación de las consecuencias del accidente, permaneciendo a su disposición hasta la liquidación de la situación peligrosa.
+AS Eesti Raudtee ha establecido la orden n.º 19, de 23.09.2004, "Procedimiento de notificación y actuación ante eventos que amenacen la circulación ferroviaria". La orden se ha establecido en caso de emergencia, accidente de circulación ferroviaria, incidente ferroviario, material rodante
 
 ## Página 9
 
+para la persona que se encuentra en el ferrocarril en caso de atropello y de otros acontecimientos que amenacen directamente al ferrocarril, para la circulación oportuna de información y la actuación operativa.
+El anexo 1 de la orden n.º 19 establece:
+1. Todos los empleados de las empresas ferroviarias que se encuentren en la infraestructura ferroviaria de AS Eesti Raudtee y de Eesti Raudtee y que hayan observado el acontecimiento mencionado anteriormente, deberán informar de ello de inmediato al jefe de estación de la estación más próxima, al despachador de trenes o al director de tráfico ferroviario.
+2. El jefe de estación o el despachador de trenes transmitirá de inmediato la información recibida al director de tráfico ferroviario y al centro de seguridad de AS Eesti Raudtee. Este último informará a la policía si es necesario.
+3. El director de tráfico ferroviario:
+ informará de forma operativa al director de seguridad o a la persona que lo sustituya;
+ informará del suceso al número de emergencias 112 si es necesario.
+El anexo 2 de la orden n.º 19 establece la composición del grupo de eliminación de consecuencias de accidentes y la distribución del trabajo entre sus miembros.
+El jefe del grupo-director de seguridad dirige la actividad operativa del grupo y coordina el trabajo de las estructuras y subunidades de AS Eesti Raudtee en la eliminación de las consecuencias de los accidentes, y coordina la acción conjunta con el Cuerpo de Bomberos, las administraciones locales y, si es necesario, con la Inspección de Medio Ambiente y con las empresas operadoras de las empresas de transporte. Decide, sobre la base de las propuestas del jefe del tren de rescate y del jefe de la sección de gestión del tráfico, la realización de modificaciones en los horarios de circulación o la supresión de la circulación de trenes de pasajeros y de mercancías. Si es necesario, transmite al portavoz la información necesaria para la elaboración de comunicados de prensa.
+El jefe del tren de rescate-jefe de las obras de rescate, al llegar al lugar del suceso, asume la dirección de las obras de rescate. Organiza y dirige el trabajo de los grupos de accidentes del tren de rescate y de otras unidades estructurales de Eesti Raudtee en el lugar del suceso, garantizando la seguridad y la aseguración del tráfico ferroviario en la eliminación operativa del accidente y de sus consecuencias. Organiza la localización, neutralización y limpieza de la contaminación medioambiental.
+Por orden de AS Eesti Raudtee n.º 16, de 26.07.2004, se aprobó la "Investigación oficial y notificación de accidentes ferroviarios, incidentes ferroviarios y atropellos". La orden establece la recopilación de materiales relacionados con el caso, el procedimiento para la realización de la investigación, así como el contenido de los materiales de investigación.
+Por la disposición n.º 2.1/23, de 28.05.2003, de AS Eesti Raudtee, se ha establecido la formación de grupos de respuesta rápida.
+4. El jefe del grupo de respuesta rápida o, con su autorización, el empleado correspondiente del servicio de material rodante, al llegar al lugar del suceso:
+transmite al jefe del grupo de eliminación de consecuencias de accidentes de AS Eesti Raudtee-director de seguridad, la información sobre la situación en el lugar y las propuestas para la eliminación de la situación de accidente y de las consecuencias del accidente;
+dirige la actuación en el lugar y resuelve las cuestiones hasta que llegue al lugar del suceso el representante del grupo de eliminación de consecuencias de accidentes, que asume la dirección;
+cuando la dirección haya sido transferida al representante del grupo de eliminación de consecuencias de accidentes, el grupo de respuesta rápida queda bajo las órdenes del representante del grupo de eliminación de consecuencias de accidentes, permaneciendo a su disposición hasta la eliminación de la situación peligrosa.
+
 ## Página 10
+
 
 Westgate
 Transport
@@ -290,6 +295,7 @@ III. Despachador, distribuidor de tareas
 
 ## Página 11
 
+
 2. Distribuidor de tareas
 2.2 Vigila que se garantice a las tripulaciones de locomotoras un tiempo de descanso entre viajes normal.
 2.4 Está prohibido al distribuidor de tareas:
@@ -311,6 +317,7 @@ La tripulación de la locomotora fue autorizada para trabajar tras el control pe
 
 ## Página 12
 
+
 el conductor había descansado. Al finalizar el control, el despachador emitió al equipo de conducción el pase de línea. Al momento del accidente, el equipo de conducción llevaba trabajando 7 horas y 32 minutos.
 El periodo de descanso previo entre dos turnos de trabajo había sido de 4 horas y 15 minutos para el equipo de conducción, mientras que, según Westgate Transport OÜ, el periodo de descanso normativo es de 4 horas y 00 minutos.
 El conductor del camión Scania de Transsped AS llevaba al volante 1 hora antes del accidente. La experiencia del conductor de vehículos era de 19 años.
@@ -328,6 +335,7 @@ El tren frenado impactó lateralmente contra el semirremolque situado detrás de
 
 ## Página 13
 
+
 este cambiara de dirección y saliera disparado de la carretera hacia el campo. Toda la zona circundante se cubrió de material maderero que transportaba el vehículo.
 El tren se detuvo a 400 m del punto de inicio del frenado. La cabina de la locomotora se deformó y los equipos sufrieron daños. La primera sección de la locomotora descarriló junto con el sexto par de ruedas. El equipo de conducción informó conforme a las normas al despachador de trenes y al encargado de la estación de Jõhvi del incidente y aseguró el tren con cuñas de freno.
 Inmediatamente después del accidente, el equipo de conducción no fue capaz de proporcionar información adecuada y exhaustiva sobre el incidente.
@@ -343,6 +351,7 @@ Cuando el vehículo estaba a 50 m de las vías, el tren era visible para el cond
 El conductor del camión Scania estaba absorto en sus pensamientos y llegó al paso a nivel. Se detuvo brevemente ante la señal de prioridad. La mirada a la izquierda y a la derecha fue superficial. El conductor no era consciente de por qué lo hacía ni en qué momento lo hacía. En el momento de la detención del vehículo, el tren ya había entrado en el radio de visibilidad del conductor del vehículo. Con cada segundo, el tren se acercaba unos 20 m. Al mirar hacia la dirección de llegada del tren desde el vehículo detenido, la aproximación del tren puede estar oculta por el espejo del vehículo o por otra estructura de la cabina. La dirección de movimiento del tren es perpendicular a la línea de visión del conductor del vehículo y basta con una pequeña obstrucción para ocultar el tren que se encuentra a gran distancia. En todo el radio de visibilidad
 
 ## Página 14
+
 
 Para poder observar las vías, el conductor del vehículo habría tenido que cambiar la posición de su cabeza con respecto a los posibles obstáculos.
 Si el conductor del vehículo puede ver el tren a 200 m antes de llegar al paso a nivel, transcurren 10 segundos desde el momento en que el tren se hace visible para el conductor hasta que llega al paso a nivel a una velocidad de 20 m/s. Durante este tiempo, el conductor reduce la velocidad y se detiene ante la señal de ceda el paso. Si el conductor echa un vistazo a la dirección de donde se acerca el tren mientras frena, antes de detenerse ante la señal de ceda el paso, puede considerar que con ello ha cumplido las normas de tráfico y que no ha percibido la aproximación del tren. A continuación, el conductor se detiene, reanuda la marcha y, durante la conducción, echa otro vistazo a la dirección de donde se acerca el tren.
@@ -360,8 +369,8 @@ Gracias a la labor de todos los servicios de emergencia, se pudieron eliminar la
 1. La tripulación del tren de Westgate Transport OÜ detectó el camión detenido antes del paso a nivel, que comenzó a cruzar la vía férrea al acercarse el tren.
 La tripulación del tren realizó un frenado de emergencia y no pudo evitar el accidente.
 
-
 ## Página 15
+
 
 2. El conductor del vehículo de Transsped AS se detuvo en el lugar previsto antes del paso a nivel, pero, al mirar hacia las vías, no se aseguró de la presencia de un tren que se acercaba y comenzó a cruzar la vía férrea, como resultado de lo cual se produjo la colisión entre el tren y el camión.
 3. El paso a nivel de categoría II de Toila, situado en la infraestructura de AS Eesti Raudtee, está equipado con la señal de ceda el paso para vehículos de carretera 222 «Deténgase y ceda el paso», 112 «Paso a nivel sin barreras» y 121 «Vía única».
@@ -381,6 +390,7 @@ AS Eesti Raudtee
 2. Corregir los datos del paso a nivel de Toila.
 
 ## Página 16
+
 
 Transsped AS 
 3. Analizar las circunstancias del presente accidente a través de las conversaciones con los conductores de la empresa 
@@ -406,10 +416,10 @@ y de las brigadas de ambulancias a la escena del suceso. Centro de Estonia Orien
 página. 
 8. Traducción. Cartas explicativas del conductor de locomotora y del ayudante de conductor de locomotora – 1 página. 
 9. Licencia de conductor de locomotora RI002082. Inspección Ferroviaria. Copia – 1 página. 
-10. Certificado profesional nº 006833. Eesti Raudtee. Cámara Profesional. Copia – 1 página. 
-
+10. Certificado profesional nº 006833. Eesti Raudtee. Cámara Profesional. Copia – 1 página.
 
 ## Página 17
+
 
 11. Certificado de descodificación de la cinta del registrador de velocidad nº 16/07. Edelaraudtee Veeremi OÜ, 
 12.07.2007 – 1 página. 

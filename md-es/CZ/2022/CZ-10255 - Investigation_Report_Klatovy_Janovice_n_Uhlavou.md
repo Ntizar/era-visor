@@ -10,13 +10,14 @@ chars: 83181
 ratio_longitud: 1.24
 tokens_in: 37596
 tokens_out: 25541
-verificacion: revisar
-notas_cifras: ["bloque 4: original bilingüe: se compara contra el idioma principal (CS)", "bloque 7: original bilingüe: se compara contra el idioma principal (EN)"]
-avisos: ["bloque 7: ratio 1.71"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 4: original bilingüe: se compara contra el idioma principal (CS)", "página 6: original bilingüe: se compara contra el idioma principal (CS)", "página 7: original bilingüe: se compara contra el idioma principal (CS)", "página 9: original bilingüe: se compara contra el idioma principal (CS)", "página 10: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -41,13 +42,13 @@ IČ: 75009561
 mail@dicr.cz
 tel.: +420 736 521 003
 
-
 ## Página 2
+
 
 El presente informe final es público y todos los hechos en él expuestos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ### 1 RESUMEN
 Fuente: Drážní inspekce
@@ -78,17 +79,16 @@ paso a nivel de forma segura.
 No fue detectado por la Drážní inspekce ningún factor contribuyente.
 No fue detectada por la Drážní inspekce ninguna causa sistémica.
 
-
 ## Página 4
 
 Recomendaciones de seguridad:
-La Drážní inspekce, con base en lo dispuesto en el § 53e apartado 1 de la ley n.º 266/1994 Sb., recomienda, en relación con la prevención de sucesos excepcionales:
-### Al Drážní úřad:
+La Inspección Ferroviaria, en virtud de lo dispuesto en el § 53e apartado 1 de la Ley núm. 266/1994 Sb., recomienda, en relación con la prevención de sucesos extraordinarios:
+### A la Autoridad Ferroviaria:
 •
-la adopción de medidas que garanticen la dotación del paso a nivel P847, actualmente protegido por un dispositivo de seguridad lumínico, con barreras, que desde el punto de vista de la barrera óptica reduzcan la probabilidad de que el conductor entre en el paso a nivel cuando no responda a la señalización lumínica del paso a nivel en estado de alerta.
-
+la adopción de una medida que garantice la dotación del paso a nivel P847, actualmente protegido con un sistema de señalización luminosa, de barreras, que desde el punto de vista de la barrera visual reduzcan la probabilidad de que un conductor entre en el paso a nivel cuando no responda a la señalización luminosa del paso a nivel en la advertencia.
 
 ## Página 5
+
 
 ### RESUMEN
 4 de julio de 2022, 15:11 (13:11 GMT).
@@ -128,8 +128,8 @@ un sistema de paso a nivel equipado con barreras, que desde el punto de vista de
 la barrera óptica y manual reduzca la probabilidad de que el conductor entre en el
 paso a nivel cuando no responda a la señalización lumínica en estado de alerta.
 
-
 ## Página 6
+
 
 # Índice
 1 RESUMEN.......................................................................................................................3
@@ -180,6 +180,7 @@ ferroviaria o de las instalaciones técnicas....................................
 
 ## Página 7
 
+
 4.2.2 Factores o consecuencias derivados de la instalación y puesta en servicio de vehículos ferroviarios, infraestructura ferroviaria o instalaciones técnicas......................................28
 4.2.3 Factores o consecuencias relacionados con fabricantes de vehículos ferroviarios u otros proveedores de productos ferroviarios............................................................................28
 4.2.4 Factores o consecuencias derivados del mantenimiento y modificación de vehículos ferroviarios o instalaciones técnicas....................................................................................................29
@@ -207,8 +208,8 @@ ferroviaria o de las instalaciones técnicas....................................
 5.3 Hallazgos complementarios.......................................................................................................33
 6 RECOMENDACIONES DE SEGURIDAD.....................................................................................33
 
-
 ## Página 8
+
 
 ### Lista de siglas y símbolos utilizados
 CDP
@@ -261,8 +262,8 @@ paso a nivel ferroviario
 žst.
 estación ferroviaria
 
-
 ## Página 9
+
 
 ### Lista de siglas de la legislación, normas y normativa interna utilizadas
 ley núm. 266/1994 Sb.
@@ -307,42 +308,40 @@ Disposiciones complementarias – a la normativa SŽDC (ČD) Z1
 Normativa para la explotación de las instalaciones de seguridad de estación y de tramo; - a la normativa SŽDC (ČD) Z2
 Normativa para la explotación de las instalaciones de seguridad de paso a nivel, en la redacción vigente en el momento de la producción del suceso extraordinario
 
-
 ## Página 10
 
-### 2 INVESTIGACIÓN Y SU CONTEXTO
+### 2 INVESTIGACIÓN Y SUS RELACIONES
 ### 2.1 Decisión de iniciar la investigación
-La DI decidió iniciar la investigación del suceso extraordinario en cuestión el 4. 7. 2022.
+El DI decidió iniciar la investigación de la MU en cuestión el 4. 7. 2022.
 ### 2.2 Fundamentación de la decisión de iniciar la investigación
-La DI decidió investigar el suceso extraordinario en cuestión sobre la base de los impactos del suceso extraordinario en la seguridad de la explotación de la infraestructura y del transporte ferroviario, de su gravedad, de su repetitividad y de la obligación derivada de la disposición § 53b de la ley núm. 266/1994 Sb.
-### 2.3 Alcance y limitaciones de la investigación, incluida la fundamentación pertinente
-La DI no se encontró, en el marco de la investigación del suceso extraordinario en cuestión, con limitaciones que influyeran negativamente en el modo y los procedimientos de la investigación.
-### 2.4 Descripción general de las capacidades y funciones técnicas del equipo de investigación
-Investigación de la DI en el lugar del suceso extraordinario:
-2x inspector de la Inspección Territorial de Bohemia, centro de trabajo
+El DI decidió investigar la MU en cuestión sobre la base de los impactos del suceso excepcional en la explotación segura de la vía y del transporte ferroviario, de su gravedad, de su repetitividad y de la obligación derivada de lo dispuesto en el § 53b de la ley núm. 266/1994 Sb.
+### 2.3 Alcance y limitaciones de la investigación, incluida la fundamentación correspondiente
+El DI no se encontró, en el marco de la investigación de la MU en cuestión, con limitaciones que influyeran negativamente en el modo y los procedimientos de la investigación.
+### 2.4 Descripción resumida de las capacidades técnicas y funciones del equipo de investigación
+Investigación del DI en el lugar de la MU:
+2x inspector del Územní inspektorát Čechy, centro de trabajo
 Plzeň.
 Constitución del equipo de investigación:
 no fue necesario constituirlo.
 Colaboración externa:
 no se utilizó.
-2.5 Comunicación y consultas durante la investigación con las personas o entidades
-que participaron en el suceso en cuestión
-En la investigación de las causas y circunstancias de la producción del suceso extraordinario, la DI se basó principalmente en sus propios conocimientos, hallazgos y en su propia documentación fotográfica. Durante la investigación, la DI solicitó la documentación necesaria al gestor de la infraestructura, al transportista y a la PČR.
-La investigación de las causas y circunstancias de la producción del suceso extraordinario se realizó de acuerdo con la ley núm. 266/1994 Sb.
-y el decreto núm. 376/2006 Sb. 
-### 2.6 Descripción del nivel de colaboración ofrecido por las entidades implicadas
-El nivel de colaboración con los representantes de las entidades implicadas en el suceso extraordinario fue estándar.
-### 2.7 Descripción de la investigación, los métodos y las técnicas utilizados para acreditar los hechos y los hallazgos recogidos en el informe
-En el marco de la investigación del suceso extraordinario, la DI procedió de la siguiente manera, es decir, utilizó, entre otros, los siguientes métodos y técnicas:
+### 2.5 Comunicación y consultas durante la investigación con las personas o entidades que participaron en el suceso
+En la investigación de las causas y circunstancias de la MU, el DI se basó principalmente en sus propios conocimientos, hallazgos y en su propia documentación fotográfica. Durante la investigación, el DI solicitó la documentación necesaria al explotador de la vía, al transportista y a la PČR.
+La investigación de las causas y circunstancias de la MU se realizó de conformidad con la ley núm. 266/1994 Sb.
+y el decreto núm. 376/2006 Sb.
+### 2.6 Descripción del nivel de colaboración ofrecido por las entidades participantes
+El nivel de colaboración con los representantes de las entidades participantes en la MU fue estándar.
+### 2.7 Descripción de la investigación, los métodos y las técnicas utilizados para acreditar los hechos y los hallazgos expuestos en el informe
+En el marco de la investigación de la MU, el DI procedió de la siguiente manera, y utilizó, entre otros, los siguientes métodos y técnicas:
 •
-inspección del lugar del suceso extraordinario, incluido el vehículo ferroviario de tracción implicado, el conjunto rodante implicado, las instalaciones técnicas y la infraestructura de la vía;
+inspección del lugar del suceso excepcional, incluido el HDV participante, el conjunto rodante participante, las instalaciones técnicas y la infraestructura de la vía;
 •
-medición de las condiciones de visibilidad en el paso a nivel;
+medición de las condiciones de visibilidad en la ŽP;
 •
-comprobación del correcto funcionamiento de la instalación de seguridad de paso a nivel;
-
+comprobación del funcionamiento correcto del PZZ;
 
 ## Página 11
+
 
 •
 verificación tanto de la posibilidad de deslumbramiento del conductor del conjunto rodante por el sol al circular hacia el paso a nivel, como de una posible influencia y reducción en la percepción de la señal luminosa de las cajas de señalización de los semáforos;
@@ -381,8 +380,8 @@ Coordenadas GPS:
 El paso a nivel ferroviario de vía única P847 en el km 44,499 entre las estaciones de Klatovy y Janovice nad Úhlavou permite el cruce de la vía ferroviaria con la carretera de clase III núm. 18510 en el término municipal de Bezděkov. La línea ferroviaria no electrificada es de vía única en los tramos entre estaciones.
 El propietario de la carretera adyacente de clase III núm. 18510 es el Plzeňský kraj y su gestión la realiza la Správa a údržba silnic Klatovy.
 
-
 ## Página 12
+
 
 parte trasera
 ### obec Bezděkov
@@ -421,6 +420,7 @@ el arado estaba deformado;
 las luces de señal estaban rotas;
 
 ## Página 13
+
 
 •
 el frontal de la caja estaba deformado;
@@ -463,8 +463,8 @@ Estado de la infraestructura y del dispositivo de seguridad:
 •
 el paso a nivel de vía única ŽP P847 en el pk 44,499 estaba protegido por un PZZ luminoso sin complemento de barreras, con señal positiva (luz blanca intermitente);
 
-
 ## Página 14
+
 
 •
 en los semáforos de aviso brillaban luces rojas intermitentes (aviso luminoso) y sonaba la campana (aviso acústico);
@@ -501,8 +501,8 @@ en la estructura de hormigón de la calzada del paso a nivel eran visibles huell
 •
 en el edificio de relés del ŽP P847 se aportó la documentación: certificado de aptitud del PZZ, Registro de averías en el equipo de comunicaciones y de seguridad y Plan de mantenimiento;
 
-
 ## Página 15
+
 
 •
 en el Registro de averías en el equipo de comunicaciones y de seguridad del ŽP no constaba ninguna avería registrada el día 4. 7. 2022;
@@ -526,8 +526,8 @@ el conjunto de circulación estaba formado por un tractor de marca ZETOR CRYSTAL
 •
 en la MU, el tren Os 17555 impactó en el lado izquierdo del conjunto rodante en el punto de la parte trasera de la cabina del tractor y el timón del remolque, como consecuencia de lo cual se produjo la rotura del tractor y el desprendimiento del remolque;
 
-
 ## Página 16
+
 
 •
 el remolque fue lanzado al lado derecho del ŽP (en el sentido de circulación del tren), en la posición final tras la MU se encontraba fuera de la carretera bajo el terraplén de la vía, girado unos 120°, su parte trasera se encontraba a una distancia de 2 m del eje de la vía en el pk 44,508 (es decir, 9 m del centro del ŽP), el timón (parte delantera) se encontraba a 7,5 m del eje de la vía en el pk 44,512;
@@ -550,8 +550,8 @@ en el pk 44,541, dentro de la vía, se encontraban los restos del enganche de tr
 •
 en el pk 44,551, a una distancia de 2 m del eje de la vía a la izquierda, se encontraban los restos del guardabarros de la rueda trasera del tractor;
 
-
 ## Página 17
+
 
 •
 el torso trasero del tractor (cabina y ruedas traseras) se encontraba en el terraplén a la izquierda en el pk 44,562 (es decir, 64 m del centro del ŽP), encastrado con la rueda trasera derecha entre el centro del larguero izquierdo del HDV y el carril izquierdo (véase la fig. n.º 4).
@@ -563,8 +563,8 @@ Datos geográficos:
 la vía y el ŽP en línea recta sobre un terraplén suave por encima del terreno llano circundante, con una pendiente de -3,1 ‰.
 La Inspección Ferroviaria verificó la posibilidad de que el conductor del conjunto rodante quedara deslumbrado por el sol. Durante todo el tiempo de circulación por la carretera, los rayos solares procedían del lado izquierdo hacia el conductor del conjunto rodante con un ángulo de unos 35° (véase la fig. n.º 5). Sin embargo, su intensidad no era tal que pudiera causar tanto un efecto deslumbrante para el conductor del conjunto rodante como una influencia y reducción en la percepción de la alerta luminosa en las cajas de luz de los semáforos.
 
-
 ## Página 18
+
 
 ## ŽP P847
 sentido de circulación
@@ -596,8 +596,8 @@ medio ambiente *)
 0 Kč.
 *) Como se desprende de las conclusiones del Informe Final de la actuación de remediación, Bezděkov u Klatov — fuga accidental de sustancias petrolíferas, elaborado por la empresa especializada GEO Group a. s., el día 7. 7. 2022 se llevaron a cabo, sobre la base de los trabajos de prospección, las medidas correctivas, que incluyeron la excavación del superestructura ferroviaria contaminado de una superficie de 22 x 4 m hasta una profundidad de 0,4 – 0,5 m. «En total se eliminaron y posteriormente se dispusieron 44,72 t de residuos peligrosos con número de catálogo 17 05 03. Tras finalizar la excavación, se realizó un muestreo del fondo de la zanja, que demostró que la contaminación había sido prácticamente eliminada.»
 
-
 ## Página 19
+
 
 Se trataba de residuos peligrosos —tierra y piedra excavada de lugares contaminados con diésel y aceite hidráulico de acuerdo con el Anexo n.º 1 del decreto n.º 8/2021 Sb.
 Los costes de los trabajos de remediación se incluyeron en el daño al equipamiento de la vía.
@@ -638,6 +638,7 @@ El gestor de la vía férrea, categoría regional, Klatovy – Železná Ruda-Al
 
 ## Página 20
 
+
 El transportista del tren Os 17555 era ČD, con domicilio en Nábřeží L. Svobody 1222, Praha 1, PSČ 110 15.
 El transporte ferroviario se prestaba en virtud de un contrato celebrado entre el gestor de la infraestructura SŽ y el transportista ČD el 20. 1. 2020, con efectos desde el 23. 1. 2020.
 ### 3.1.7 Descripción de los vehículos ferroviarios y sus composiciones, incluidos los números de registro
@@ -673,8 +674,8 @@ registrador de velocidad por el impacto con el conjunto rodante, la
 posterior registración fue incorrecta.
 Nota: la diferencia entre el tiempo registrado y el tiempo real no pudo determinarse debido a la rotura del registrador de velocidad.
 
-
 ## Página 21
+
 
 Del registro del registrador de velocidad del HDV se desprende que, en el tramo entre la est. Janovice nad Úhlavou y el lugar de ocurrencia de la MU, no se superó ni la velocidad establecida (80 km·h-1) ni la velocidad de línea (90 km·h-1) del tren Os 17555.
 El 14. 7. 2022, por personal cualificado del transportista, se realizó una comprobación pericial del estado técnico del HDV 810.561-1 tras la MU. El estado técnico del HDV no guardaba relación causal con la ocurrencia de esta MU y sus daños se produjeron como consecuencia de la colisión.
@@ -688,25 +689,24 @@ El TZZ cuenta con un Certificado de aptitud de dispositivo técnico designado v�
 La última inspección integral de los equipos de comunicaciones y de señalización del TZZ se realizó, en virtud del Acta de inspección integral, el 21. 10. 2020 sin defectos detectados.
 El paso a nivel P847 está protegido por un PZZ luminoso de categoría PZS 3SBI, tipo AŽD 71, sin barreras, con señal positiva, y está equipado con un dispositivo de registro. El PZZ se activa automáticamente con la circulación del tren al ocupar el tramo de aproximación mediante la activación del sensor de los contadores de ejes situados en el km 46,073 (en el sentido desde la est. Klatovy) y en el km 42,988 (en el sentido desde la est. Janovice nad Úhlavou).
 
-
 ## Página 22
 
-El PZZ del paso a nivel P847 cuenta con un Certificado de aptitud de dispositivo técnico designado – equipo de señalización, cuyos circuitos eléctricos desempeñan la función de garantía directa de la seguridad del transporte ferroviario, n.º ev.: PZ 8332/96-E.49, expedido por DÚ el 5. 9. 1996, con validez por tiempo indefinido.
-La última revisión del equipo eléctrico se realizó, en virtud del Informe de revisión periódica del equipo eléctrico n.º S032/20-KP, el 6. 8. 2020, con la conclusión: «El equipo eléctrico es apto para la explotación, desde el punto de vista de la seguridad de las personas y de los bienes frente a los efectos de la tensión de contacto peligrosa, de conformidad con el § 5 apartado 3 del Dec. n.º 100/1995 Sb…»
-La última inspección y ensayo del UTZ se realizó, en virtud del Acta de inspección y ensayo del UTZ, cuyos circuitos eléctricos desempeñan la función de garantía directa de la seguridad del transporte ferroviario, n.º 939/2020-LP, el 25. 9. 2020, con la conclusión: «El equipo de señalización inspeccionado y ensayado indicado en el presente acta sigue desempeñando la función de garantía directa de la seguridad del transporte ferroviario y es apto para la explotación.»
-La última inspección integral de los equipos de comunicaciones y de señalización del PZZ se realizó, en virtud del Acta de inspección integral, el 8. 10. 2020, con la conclusión: «El estado técnico del equipo de señalización corresponde a su antigüedad. El mantenimiento se realiza conforme al plan de mantenimiento aprobado. Garantizando un buen nivel de mantenimiento y de explotación del equipo de señalización de acuerdo con los requisitos de las normas técnicas y de mantenimiento, su estado permite la explotación hasta la próxima inspección planificada.»
-La última inspección y mantenimiento periódico del PZZ conforme al plan de mantenimiento aprobado se realizó el 23. 6. 2022, con la conclusión: «Equipo ensayado, en orden.»
-Del análisis del archivo de datos descargado del dispositivo de registro del TZZ y del PZZ se comprobó:
-15:07:40 h – establecimiento de la vía de salida para el tren Os 17555 desde la 1.ª vía de la est. Janovice nad Úhlavou;
-15:09:08 h – ocupación de los tramos de vía V1-4 y LK con la circulación del tren Os 17555 en el extremo de Klatovy de la est. Janovice nad Úhlavou;
-15:10:25 h – ocupación del tramo de vía T7 KL-JU mediante la activación del sensor del contador de ejes KJPB12 en el km 42,988 con la circulación del tren Os 17555 – inicio de la señalización de aviso del PZZ en el paso a nivel P847 (es decir, a 1 501 m del paso a nivel);
-15:11:11 h –
-ocupación del tramo de vía T6 KL-JU mediante la activación del sensor del contador de ejes KJPB10 en el km 44,489 con la circulación del tren Os 17555 y no liberación del tramo de vía T7 KL-JU debido a la rotura del sensor del contador de ejes KJPB9 en el km 44,508 a consecuencia de la colisión del tren Os 17555 con el conjunto rodante – ocurrencia de la MU.
+La PZZ ŽP P847 dispone de un Certificado de idoneidad del dispositivo técnico designado – dispositivo de señalización, cuyos circuitos eléctricos cumplen la función de garantía directa de la seguridad del tráfico ferroviario, n.º de ev.: PZ 8332/96-E.49, expedido por el DÚ el 5. 9. 1996, con vigencia por tiempo indefinido.
+La última revisión del equipo eléctrico se realizó, con base en el Informe de revisión periódica del equipo eléctrico n.º S032/20-KP, el 6. 8. 2020, con la conclusión: "El equipo eléctrico, desde el punto de vista de la seguridad de las personas y de los bienes frente a los efectos de la peligrosa tensión de contacto, es apto para la operación conforme al § 5 apartado 3 del Decr. n.º 100/1995 Sb…"
+La última inspección y prueba del UTZ se realizó, con base en el Acta de inspección y prueba del UTZ, cuyos circuitos eléctricos cumplen la función de garantía directa de la seguridad del tráfico ferroviario, n.º 939/2020-LP, el 25. 9. 2020, con la conclusión: "El dispositivo de señalización inspeccionado y reexaminado indicado en la presente acta sigue cumpliendo la función de garantía directa de la seguridad del tráfico ferroviario y es apto para la explotación."
+La última inspección integral del equipo de comunicaciones y de señalización de la PZZ se realizó, con base en el Acta de inspección integral, el 8. 10. 2020, con la conclusión: "El estado técnico del dispositivo de señalización corresponde a su antigüedad. El mantenimiento se realiza conforme al plan de mantenimiento aprobado. Garantizando un buen nivel de mantenimiento y de explotación del dispositivo de señalización conforme a las prescripciones técnicas y de mantenimiento, su estado permite la explotación hasta la próxima inspección programada."
+La última inspección periódica y el mantenimiento de la PZZ conforme al plan de mantenimiento aprobado se realizaron el 23. 6. 2022, con la conclusión: "Dispositivo reexaminado, en orden."
+Del análisis del archivo de datos descargado del equipo registrador del TZZ y de la PZZ se constató:
+15:07:40 h – establecimiento de la vía de salida para el tren Os 17555 desde la 1. SK de la est. Janovice nad Úhlavou;
+15:09:08 h – ocupación de los tramos de vía V1-4 y LK por la circulación del tren Os 17555 en el extremo de Klatovy de la est. Janovice nad Úhlavou;
+15:10:25 h – ocupación del tramo de vía T7 KL-JU por la influencia del sensor del contador de ejes KJPB12 en km 42,988 por la circulación del tren Os 17555 – inicio de la alarma de la PZZ en la ŽP P847 (es decir, 1 501 m antes de la ŽP);
+15:11:11 h – 
+ocupación del tramo de vía T6 KL-JU por la influencia del sensor del contador de ejes KJPB10 en km 44,489 por la circulación del tren Os 17555 y no liberación del tramo de vía T7 KL-JU a causa de la avería del sensor del contador de ejes KJPB9 en km 44,508 como consecuencia de la colisión del tren Os 17555 con la formación ferroviaria – producción del MU.
 Nota: no se detectó diferencia entre el tiempo registrado y el tiempo real.
-Del análisis del archivo de datos descargado se desprende que la señalización luminosa y sonora de aviso del PZZ se emitió durante 46 s hasta el momento de la activación del sensor del contador de ejes KJPB10 en el km 44,489, es decir, a 10 m del punto de colisión, con la circulación del tren Os 17555. El tiempo de aproximación, en función de la longitud del paso a nivel P847 y de la velocidad de línea, corresponde al valor establecido indicado en la tabla del paso a nivel (32,47 s) y es conforme a la disposición de la norma ČSN 34 2650 ed. 2. De lo anterior se desprende que el conductor del conjunto rodante fue advertido a tiempo por la acción del PZZ del paso a nivel ferroviario P847 de que un tren se aproximaba al paso a nivel.
-
+Del análisis del archivo de datos descargado se deduce que la alarma luminosa y sonora de la PZZ se emitió durante 46 s hasta el momento de la influencia del sensor del contador de ejes KJPB10 en km 44,489, es decir, 10 m antes del lugar de la colisión, por la circulación del tren Os 17555. El tiempo de aproximación, en relación con la longitud de la ŽP P847 y la velocidad en vía, corresponde al valor establecido indicado en la tabla del paso a nivel (32,47 s) y es conforme a la disposición de la norma ČSN 34 2650 ed. 2. De lo anterior se deduce que el conductor de la formación rodoviaria fue advertido a tiempo por el funcionamiento de la PZZ del paso a nivel ferroviario P847 de que se aproximaba un tren a la ŽP.
 
 ## Página 23
+
 
 De los registros en el Registro de averías de los equipos de comunicaciones y de señalización del PZZ se desprende que las inspecciones y el mantenimiento periódicos se realizaron en los intervalos prescritos y que el 4. 7. 2022 no se registró ninguna avería.
 Tras la ocurrencia de la MU, por personal cualificado del gestor de la infraestructura y en presencia de DI, se realizó una comprobación pericial del PZZ – se comprobó el funcionamiento sin averías del PZZ.
@@ -739,72 +739,80 @@ jefe de estación del DOZ de la est. Železná Ruda-Alžbětín
 
 ## Página 24
 
-◦el tren Os 17555 ocupaba según los elementos indicativos los largos tramos de vía T6 KL-JU y T7 KL-JU y afectaba al PZZ en el pk 44,499 (P847), en el pk 45,039 (P848) y en el pk 45,331 (P849);
-◦preguntó telefónicamente al maquinista del Os 17555 por el motivo de este estado;
-◦del maquinista se enteró de que había colisionado con un tractor en el PE P847 y de que ya había informado al jefe de estación de la est. Klatovy;
-◦se puso inmediatamente en contacto con el jefe de estación de la est. Klatovy y en colaboración notificaron la aparición de la MU según el horario de notificación;
+◦el tren Os 17555 ocupaba según los elementos indicadores durante mucho tiempo los tramos T6 KL-JU y T7 KL-JU y afectaba al PZZ en el km 44,499 (P847), en el km 45,039 (P848) y en el km 45,331 (P849);
+◦preguntó por teléfono al maquinista del Os 17555 el motivo de este estado;
+◦del maquinista se enteró de que había colisionado con un tractor en el PZ P847 y de que ya había informado al jefe de estación de la est. Klatovy;
+◦se puso inmediatamente en contacto con el jefe de estación de la est. Klatovy y, en colaboración, comunicaron la aparición de la MU según el horario de comunicaciones;
 ◦en el momento de la aparición de la MU había despejado, más 34 °C.
-
 Resumen de las explicaciones prestadas por los testigos:
-
 •
 testigo, jefe de estación DOZ de la est. Klatovy 
  – Acta con el empleado:
-◦el 4. 7. 2022 entró en turno a las 6:35 h;
-◦desde la entrada en turno hasta la aparición de la MU, el PZZ del PE P847 no mostró averías ni defectos;
+◦el 4. 7. 2022 entró de turno a las 6:35 h;
+◦desde la entrada de turno hasta la aparición de la MU, el PZ P847 no mostró averías ni defectos;
 ◦confirmó al jefe de estación DOZ de la est. Železná Ruda-Alžbětín la salida prevista de la est. Janovice nad Úhlavou del tren Os 17555;
-◦hacia las 14:15 h el maquinista del tren Os 17555 le comunicó la colisión del tren con un tractor en el PE P847;
-◦a continuación notificó la aparición de la MU según el horario de notificación;
+◦hacia las 14:15 h el maquinista del tren Os 17555 le comunicó la colisión del tren con un tractor en el PZ P847;
+◦a continuación comunicó la aparición de la MU según el horario de comunicaciones;
 •
-testigo, ciclista que circulaba por la carretera de 3.ª clase n.º 18510
+testigo, ciclista que circulaba por la carretera de clase III n.º 18510
   – Registro oficial de la explicación prestada a la Policía Nacional:
 ◦iba en bicicleta junto con otras dos personas desde la localidad de Rohozno hasta la localidad de Bezděkov;
-◦vio cómo desde la antigua pista de aeródromo, a la izquierda de la carretera, salía un tractor con cisterna, que se incorporó a la carretera por delante de ellos;
-◦cuando se acercaban al PE P847, vio y oyó la alerta luminosa y sonora del PZZ, y al mismo tiempo vio un tren que llegaba desde la dirección de la est. Janovice nad Úhlavou;
-◦suponía que antes de llegar al PE el tren pasaría y no tendrían ni que detenerse;
-◦se percató de que el tractor continuaba su marcha fluida, no demasiado rápida, hacia el PE, sin que su conductor reaccionara a la alerta del PZZ ni al tren que llegaba;
+◦vio cómo desde la antigua pista de aeródromo, a la izquierda de la vía de comunicación, salió un tractor con cisterna, que se incorporó a la vía de comunicación por delante de ellos;
+◦al acercarse al PZ P847, vio y oyó la alerta luminosa y sonora del PZZ, y al mismo tiempo vio un tren que se aproximaba desde la dirección de la est. Janovice nad Úhlavou;
+◦se pensó que antes de llegar al PZ, el tren pasaría y no tendrían ni que detenerse;
+◦se percató de que el tractor continuaba con un avance fluido, no demasiado rápido, por el PZ, sin que su conductor reaccionara a la alerta del PZZ ni al tren que se aproximaba;
 ◦según su opinión, el impacto del tren se produjo entre el motor y la cabina del tractor o directamente en la cabina.
-
 ### 3.2 Descripción fáctica del suceso
-### 3.2.1 Secuencia de hechos que condujeron al suceso extraordinario
-El 4. 7. 2022 a las 15:09 h partió, tras la correcta establecimiento de la vía de tren, de la est. Janovice nad Úhlavou el tren Os 17555, compuesto por un automotor de la serie 810, en dirección a la est. Klatovy, según se desprende del análisis del archivo TZZ. Desde la antigua pista de aeródromo junto a la localidad de Rohozno salió a la
-
+### 3.2.1 Secuencia de hechos que condujeron al suceso excepcional
+El 4. 7. 2022 a las 15:09 h partió, tras la formación regular de la vía de tren desde la est. Janovice nad Úhlavou, el tren Os 17555 compuesto por un automotor de la serie 810 en dirección a la est. Klatovy, según se desprende del análisis del archivo TZZ. Desde la antigua pista de aeródromo junto a la localidad de Rohozno salió a la
 
 ## Página 25
 
-carretera de 3.ª clase n.º 18510, según la declaración del testigo, ciclista que circulaba con otras personas por la misma carretera, un conjunto rodante formado por un tractor y un remolque (cisterna cargada), y continuó en dirección al PE P847 hacia la localidad de Bezděkov. Del análisis del archivo TZZ se constató que el tren Os 17555 activó a las 15:10:25 la alerta del PZS del paso a nivel P847; dicha alerta también fue registrada por el testigo anteriormente mencionado. Asimismo, según su declaración, registró un tren en marcha desde la est. Janovice nad Úhlavou, así como que el conjunto rodante no circulaba rápido, no se detuvo en absoluto y continuó su marcha a pesar de la alerta luminosa y sonora del PZZ en curso. A las 15:11:35 se produjo la colisión del tren Os 17555 con el conjunto rodante. Como consecuencia de la colisión, el VR descarriló por el eje delantero y en estado descarrilado recorrió todavía 70 m. El impacto desgarró el tractor entre la cabina y el motor, la parte delantera del tractor fue arrojada fuera del PE a la izquierda en el sentido de circulación del tren Os 17555, el remolque fue arrojado a la derecha, más allá del PE, en el sentido de circulación del tren Os 17555, y la cabina del tractor quedó encastrada bajo el centro del VR descarrilado. El conductor del conjunto rodante falleció a causa de las heridas; el maquinista, el jefe de tren y 7 pasajeros sufrieron lesiones.
-
-### 3.2.2 Secuencia de hechos desde la aparición del suceso extraordinario hasta la finalización de las acciones de los servicios de emergencia
+vía terrestre de clase III n.º 18510, según la declaración del testigo, ciclista que circulaba con otras personas por la misma vía, conjunto rodante formado por un tractor y un remolque (cisterna cargada), y continuó en dirección al PAP P847 hacia la localidad de Bezděkov. Del análisis del archivo TZZ se constató que el tren Os 17555 activó a las 15:10:25 la señalización PZS del paso a nivel P847, señalización que también registró el testigo mencionado anteriormente. Asimismo, según su declaración, registró el tren en marcha procedente de la estación Janovice nad Úhlavou, y también que el conjunto rodante no circulaba rápido, no se detuvo en absoluto y continuó su marcha a pesar de la señalización luminosa y sonora PZZ en curso. A las 15:11:35 se produjo la colisión del tren Os 17555 con el conjunto rodante. Como consecuencia de la colisión, el material rodante descarriló por el eje delantero y, en estado de descarrilamiento, recorrió todavía 70 m. El impacto desgarró el tractor entre la cabina y el motor, la parte delantera del tractor fue despedida del PAP a la izquierda en el sentido de circulación del tren Os 17555, el remolque fue despedido a la derecha del PAP en el sentido de circulación del tren Os 17555 y la cabina del tractor quedó encastrada bajo el centro del material rodante descarrilado. El conductor del conjunto rodante falleció a consecuencia de las lesiones; el maquinista, el jefe de tren y 7 pasajeros resultaron heridos.
+### 3.2.2 Secuencia de hechos desde la producción del suceso excepcional hasta la finalización de las acciones de los servicios de emergencia
 •
-15:11 h aparición de la MU, tras la detención del tren Os 17555, evacuación de los pasajeros del VR con la escolta del tren;
+15:11 h producción del SE,
+tras la detención del tren Os 17555, evacuación de los pasajeros del material rodante
+con la escolta del tren;
 •
-15:14 h notificación de la aparición de la MU por el maquinista del tren Os 17555 al jefe de estación DOZ de la est. Klatovy;
+15:14 h notificación de la producción del SE por el maquinista del tren Os 17555 al
+jefe de estación DOZ de la estación Klatovy;
 •
-15:16 h notificación de la aparición de la MU por el jefe de estación DOZ de la est. Klatovy según el horario de notificación;
+15:16 h notificación de la producción del SE por el jefe de estación DOZ de la estación
+Klatovy según el horario de notificación;
 •
-15:17 h notificación de la aparición de la MU por el jefe de estación DOZ de la est. Klatovy al jefe de despachante CDP Praga – OŘP para el área de Praga;
+15:17 h notificación de la producción del SE por el jefe de estación DOZ de la estación
+Klatovy al jefe de despachador CDP Praga – OŘP para el área de Praga;
 •
-15:26 h notificación de la aparición de la MU por el jefe de despachante CDP Praga – OŘP para el área de Praga a la O18 SŽ;
+15:26 h notificación de la producción del SE por el jefe de despachador CDP Praga –
+OŘP para el área de Praga a O18 SŽ;
 •
-15:37 h comunicación de la aparición de la MU por la persona autorizada de la O18 SŽ al COP DI;
+15:37 h comunicación de la producción del SE por la persona autorizada O18 SŽ al COP
+DI;
 •
-16:50 h inspección del lugar de la aparición de la MU por empleados de la DI, SŽ, ČD y PČR;
+16:50 h inspección del lugar de producción del SE por empleados de DI, SŽ, ČD y PČR;
 •
-17:40 h concesión del permiso para la liberación de la vía por el inspector de la DI presente;
+17:40 h concesión del permiso para la liberación de la vía por el inspector de DI presente;
 •
-22:40 h restablecimiento de la circulación en la vía general con la implantación de una limitación transitoria de la velocidad en vía a 30 km·h-1 en el pk 44,480 – 44,580;
+22:40 h restablecimiento de la circulación en la vía general mediante la implantación
+de una limitación transitoria de la velocidad en vía general a 30 km·h-1 en el pk
+44,480 – 44,580;
 7. 7. 2022
 •
 7:20 h
-inicio de la intervención en la vía general por motivo de la rehabilitación de la superestructura;
+inicio de la intervención en la vía general por motivo de la rehabilitación del
+balasto;
 8. 7. 2022
 •
-18:00 h finalización de la intervención en la vía general tras la rehabilitación de la superestructura y restablecimiento de la circulación sin limitaciones.
-
-El Plan IZS fue activado dada la naturaleza de la MU. El Plan IZS fue activado a las 15:16 h, es decir, 5 minutos después de la aparición de la MU, por el jefe de estación DOZ de la est. Klatovy. El servicio de emergencias sanitarias fue también informado inmediatamente por los pasajeros del tren Os 17555 a través del número 112.
-
+18:00 h finalización de la intervención en la vía general tras la rehabilitación del balasto
+y restablecimiento de la circulación sin limitaciones.
+El Plan IZS fue activado en función de la naturaleza del SE. El Plan IZS fue activado a las
+15:16 h, es decir, 5 minutos después de la producción del SE, por el jefe de estación DOZ
+de la estación Klatovy. El servicio de emergencias sanitarias fue también informado de
+forma inmediata por los pasajeros del tren Os 17555 a través del número 112.
 
 ## Página 26
+
 
 En el lugar de la MU intervinieron los siguientes componentes del IZS:
 •
@@ -831,8 +839,8 @@ El transportista está, entre otras, obligado a garantizar que el maquinista con
 
 En la investigación no se constató infracción de la normativa legal, de las normas internas ni de las normas técnicas relativas a las funciones y obligaciones del gestor de la vía y del transportista, tanto en relación causal como fuera de relación causal con la aparición de la MU.
 
-
 ## Página 27
+
 
 ### 4.1.2 Entidades responsables del mantenimiento de los vehículos ferroviarios
 En la investigación no se constató infracción de las funciones y obligaciones de las entidades responsables del mantenimiento de los vehículos ferroviarios.
@@ -852,6 +860,7 @@ En la investigación no se constató infracción de las funciones y obligaciones
 De acuerdo con el § 6 apartado 3 de la Ley n.º 266/1994 Sb., en el cruce de la vía férrea con las carreteras a nivel de los raíles, el transporte ferroviario tiene prioridad sobre la circulación en las carreteras. Los usuarios de la carretera deben, antes de un paso a nivel, en aplicación del § 28 apartado 1 y del § 29 apartado 1 de la Ley n.º 361/2000 Sb., proceder con especial precaución,
 
 ## Página 28
+
 
 especialmente debe comprobar si puede cruzar el paso a nivel de forma segura, y no debe entrar en el paso a nivel si se está emitiendo la advertencia con dos luces rojas intermitentes alternas de la señal del dispositivo de enclavamiento del paso a nivel o con el sonido intermitente de su sirena o campana.
 ### Hallazgos:
@@ -877,8 +886,8 @@ En la investigación no se detectaron factores derivados de la instalación y pu
 ### 4.2.3 Factores o consecuencias relacionados con los fabricantes de material rodante u otro proveedor de productos ferroviarios
 En la investigación no se detectaron factores relacionados con los fabricantes de material rodante u otro proveedor de productos ferroviarios.
 
-
 ## Página 29
+
 
 ### 4.2.4 Factores o consecuencias derivados del mantenimiento y la modificación del material rodante o de los dispositivos técnicos
 En la investigación no se detectaron factores derivados del mantenimiento y la modificación del material rodante o de los dispositivos técnicos.
@@ -899,8 +908,8 @@ En la investigación no se detectaron factores relacionados con el entorno labor
 En virtud de los §§ 28 y 29 apartado 1 de la Ley núm. 361/2000 Sb., el usuario de la vía pública debe proceder con especial precaución ante el PAN, comprobando especialmente si puede cruzar el PAN de forma segura, y no debe entrar en el paso a nivel si se está emitiendo la advertencia con dos luces rojas intermitentes alternas de la señal del dispositivo de enclavamiento del paso a nivel o con el sonido intermitente de su sirena o campana.
 Esto no se aplica únicamente en el caso de que se ilumine la luz blanca intermitente de la señal positiva del PZZ. El conductor, al conducir hacia el PAN, debe especialmente ajustar la velocidad del vehículo, observar y evaluar la señal de los semáforos si el PAN está equipado con PZZ. Solo sobre esta base el conductor determinará si y a qué velocidad puede cruzar el PAN, o si debe detener el vehículo a tiempo antes del PAN. En el caso de la señal de advertencia del PZZ emitida con dos luces rojas intermitentes y el sonido de la sirena o la campana, el PAN está claramente cerrado para el usuario
 
-
 ## Página 30
+
 
 de la vía pública. En el caso de la señal positiva del PZZ emitida con luz blanca intermitente, el conductor puede continuar la marcha a través del PAN a una velocidad máxima de 50 km·h-1. En ausencia de señal de luz roja y blanca, se trata de la denominada señal de aviso, en la que el conductor no puede ser informado por el PZZ de la aproximación de un material rodante que pueda ponerlo en peligro (en caso de apagado o avería del PZZ). En este caso, el conductor debe comprobar con la vista y el oído que no se aproxima ningún material rodante al PAN y que, por tanto, puede cruzar el PAN de forma segura.
 El conductor del conjunto rodante fue advertido del PAN P847 mediante señales verticales de tráfico, situadas a la derecha en la vía pública, a saber: A 31a «Placa de señalización» (240 m) complementada con la señal de tráfico A 30 «Paso a nivel sin barreras», A 31b «Placa de señalización» (160 m) y A 31c «Placa de señalización» (80 m). El PAN P847 estaba señalizado en ambos lados con señales verticales de advertencia de tráfico A 32a «Cruz de advertencia para paso a nivel de vía única» en acabado reflectante sin realce con fondo fluorescente retroreflectante amarillo-verde, situadas a la derecha en la vía pública. La señalización de tráfico en la vía pública estaba de acuerdo con las normativas de tráfico para la circulación en las vías públicas. Las señales de tráfico estaban, en el momento de la inspección inmediatamente después de la aparición de la MU, en buen estado y bien visibles.
@@ -916,50 +925,75 @@ En los procedimientos, métodos, contenido y resultados de las actividades de ev
 ### 4.4.3 Sistema de garantía de la seguridad de los transportistas y gestores de infraestructura implicados
 En el sistema de seguridad del gestor de infraestructura y en el sistema de garantía de la seguridad del transporte ferroviario del transportista, relacionados con las circunstancias de la aparición de la MU en cuestión, no se detectaron deficiencias.
 
-
 ## Página 31
 
-### 4.4.4 Sistema de gestión de los sujetos responsables del mantenimiento del material rodante
-y de los talleres de mantenimiento
-El sistema de gestión de los sujetos responsables del mantenimiento del material rodante y de los talleres de mantenimiento no guardaba relación con la aparición de la MU.
+### 4.4.4 Sistema de gestión de los sujetos responsables del mantenimiento de los vehículos ferroviarios y de los talleres de mantenimiento
+El sistema de gestión de los sujetos responsables del mantenimiento de los vehículos ferroviarios y de los talleres de mantenimiento no guardaba relación con la aparición de la MU.
 ### 4.4.5 Resultados de la supervisión realizada por las autoridades nacionales de seguridad
-Atendiendo a los factores y circunstancias detectados de la aparición de la MU, la supervisión de la autoridad de seguridad no guarda relación con la MU en cuestión.
-### 4.4.6 Aprobaciones, certificados y dictámenes de evaluación emitidos por la agencia, las autoridades nacionales de seguridad u otros sujetos de evaluación de la conformidad
-El gestor de infraestructura explotaba la infraestructura con base en la autorización administrativa vigente y el certificado de seguridad del gestor de infraestructura. El transportista explotaba el transporte ferroviario con base en la licencia vigente y el certificado del transportista.
+Atendiendo a los factores y circunstancias de aparición de la MU identificados, la supervisión de la autoridad de seguridad no guarda relación con la MU en cuestión.
+### 4.4.6 Aprobaciones, certificados y evaluaciones emitidos por la agencia, las autoridades nacionales de seguridad u otros organismos de evaluación de la conformidad
+El gestor de la infraestructura explotaba la infraestructura al amparo de la autorización administrativa vigente y del certificado de seguridad del gestor de la infraestructura. El transportista explotaba el transporte ferroviario al amparo de la licencia vigente y del certificado del transportista.
 ### 4.4.7 Otros factores sistémicos
-En la investigación no se detectaron otros factores sistémicos.
+En la investigación no se identificaron otros factores sistémicos.
 ### 4.5 Sucesos anteriores de naturaleza similar
-La Inspección Ferroviaria registra en las líneas de ámbito nacional y regional, en el período comprendido entre el 1. 1. 2008 y la fecha de aparición de la MU en cuestión, 1092 MU similares, en las que se produjo la colisión de DV con vehículos a motor de carretera en pasos a nivel protegidos por PZS sin barreras. En estas MU resultaron fallecidas 180 personas, 787 personas resultaron heridas y el daño causado ascendió a 584 659 615 CZK.
-La Inspección Ferroviaria registra en el PAN P847, en el período indicado, 3 MU similares, a saber:
+La Inspección Ferroviaria registra en las líneas de ámbito nacional y regional, en el período comprendido entre el 1. 1. 2008 y la fecha de aparición de la MU en cuestión, 1092 MU análogas, en las que se produjo la colisión de un DV con vehículos a motor de carretera en pasos a nivel protegidos por PZS sin barreras de cierre. En estas MU resultaron fallecidas 180 personas, 787 personas resultaron heridas y el daño causado ascendió a 584 659 615 Kč.
+La Inspección Ferroviaria registra en el P847 de la ŽP, en el período indicado, 3 MU análogas, a saber:
 •
-del 10. 7. 2013, en que se produjo la colisión del tren Os 17547 con un automóvil. En la MU no se produjeron daños a la salud y el daño total se valoró en 191 980 CZK;
+del 10. 7. 2013, en que se produjo la colisión del tren Os 17547 con un automóvil. En la MU no se produjeron daños a la salud y el daño total se valoró en 191 980 Kč;
 •
-del 5. 10. 2010, en que se produjo la colisión del tren Os 7542 con un automóvil. En la MU no se produjeron daños a la salud y el daño total se valoró en 526 100 CZK;
+del 5. 10. 2010, en que se produjo la colisión del tren Os 7542 con un automóvil. En la MU no se produjeron daños a la salud y el daño total se valoró en 526 100 Kč;
 •
-del 5. 2. 2008, en que se produjo la colisión del tren Os 7544 con un tractor. En la MU no se produjeron daños a la salud y el daño total se valoró en 187 360 CZK.
-La causa inmediata de la aparición de todas las MU anteriores fue la entrada indebida de un vehículo a motor de carretera en el PAN en el momento en que se emitía la advertencia lumínica y sonora del dispositivo de enclavamiento del paso a nivel y en que se aproximaba un tren al paso a nivel.
-Desde 2012, la DI había recomendado repetidamente al gestor de infraestructura SŽ (antes SŽDC), con el fin de garantizar la máxima seguridad en las líneas ferroviarias de ámbito nacional y regional, elevar el nivel de protección de los pasos a nivel de modo que, en las reconstrucciones y modernizaciones de líneas y pasos a nivel, ya se proyectara e instalara únicamente el dispositivo de enclavamiento del paso a nivel luminoso complementado con barreras. La DI, al mismo tiempo, recomendaba con estas recomendaciones de seguridad a la DÚ que adoptara sus propias medidas encaminadas a garantizar la realización de las medidas de seguridad anteriores
+del 5. 2. 2008, en que se produjo la colisión del tren Os 7544 con un tractor. En la MU no se produjeron daños a la salud y el daño total se valoró en 187 360 Kč.
+La causa inmediata de la aparición de todas las MU anteriormente indicadas fue la entrada no autorizada de un vehículo a motor de carretera en la ŽP en el momento en que se emitía la advertencia luminosa y sonora del dispositivo de enclavamiento del paso a nivel y en el que se aproximaba un tren al paso a nivel.
+La DI, desde 2012, recomendó repetidamente al gestor de la infraestructura SŽ (antes SŽDC), con el fin de garantizar la máxima seguridad en las líneas ferroviarias de ámbito nacional y regional, elevar el nivel de protección de los pasos a nivel de manera que, en las reconstrucciones y modernizaciones de líneas y pasos a nivel, ya se proyectase e instalase únicamente dispositivo de enclavamiento del paso a nivel luminoso complementado con barreras de cierre. La DI, al mismo tiempo, mediante estas recomendaciones de seguridad, recomendó a la DÚ adoptar sus propias medidas encaminadas a garantizar la realización de las medidas de seguridad anteriormente indicadas
 
 ## Página 32
 
-recomendaciones también a otros gestores de infraestructura ferroviaria en la República Checa. Desde el 1. 4. 2017, en que entró en vigor la enmienda de la Ley n.º 266/1994 Sb., las recomendaciones de seguridad de carácter similar se destinaron, de conformidad con el § 53e de la Ley n.º 266/1994 Sb., únicamente al DÚ. El motivo para la emisión de estas recomendaciones fue el hecho de que los choques con vehículos viales con las consecuencias más graves se producen a largo plazo en los pasos a nivel protegidos con instalación de enclavamiento de paso a nivel sin barreras, mientras que, por el contrario, a largo plazo, desde el punto de vista de la siniestralidad y de las consecuencias, el tipo de protección más favorable de los pasos a nivel es precisamente la instalación de enclavamiento de paso a nivel complementada con barreras. El entonces gestor de la infraestructura SŽDC reaccionó a estas recomendaciones, entre otros medios, de la manera siguiente: «En caso de sustitución de las PZM existentes (instalación de enclavamiento de paso a nivel mecánico, nota de la DI) y PZS por tecnología moderna, en el diseño se priorizará la construcción de instalaciones de enclavamiento de paso a nivel con barreras, salvo que lo impidan obstáculos técnicos u operativos significativos. La instalación de una instalación de enclavamiento de paso a nivel concreta respetará en todo caso la decisión vigente de la Oficina Ferroviaria sobre el alcance y el modo de protección del paso a nivel». El DÚ envió, entre otros medios, como medida la siguiente declaración: «La Oficina Ferroviaria, como autoridad administrativa ferroviaria, recomienda así permanentemente a Správa železnic, como gestor de la infraestructura, incluir en la mayor medida posible en el plan de inversiones la dotación de barreras a la instalación de enclavamiento de paso a nivel luminoso existente. Deberían ser prioritarios los pasos a nivel con alto momento de tráfico y con eventos extraordinarios recurrentes». La DI sigue apoyando la dotación de barreras en los pasos a nivel (de forma prioritaria en aquellos con mayor momento de tráfico y condiciones locales desfavorables), pero en caso de emitir nuevas recomendaciones de seguridad sobre eventos extraordinarios concretos, tiene en cuenta las características específicas del paso a nivel en cuestión y emite dicha recomendación de seguridad de forma más concreta – véase el punto 6 ZZ.
+recomendaciones también a otros gestores de vías ferroviarias en la República Checa. Desde el 1. 4.
+2017, fecha en que entró en vigor la enmienda de la Ley núm. 266/1994 Sb., las recomendaciones de seguridad
+de carácter similar se destinaron, de conformidad con el § 53e de la Ley núm. 266/1994 Sb., únicamente al DÚ.
+El motivo para la emisión de estas recomendaciones fue el hecho de que las colisiones con vehículos
+por carretera con las consecuencias más graves se producen de forma prolongada en los pasos a nivel
+protegidos con aparato de enclavamiento de paso a nivel sin barreras, mientras que, por el contrario, de forma prolongada
+desde el punto de vista de la sinestralidad y de las consecuencias, el tipo de protección de los pasos a nivel
+más favorable es precisamente el aparato de enclavamiento de paso a nivel
+complementado con barreras. El entonces gestor de la vía SŽDC reaccionó a estas recomendaciones, entre otras cosas, de la siguiente manera: «En caso de sustitución
+de los PZM existentes (aparato de enclavamiento de paso a nivel mecánico, nota del DI) y PZS
+por tecnología moderna, en el diseño se priorizará la construcción de aparatos de enclavamiento de
+paso a nivel con barreras, salvo que existan obstáculos técnicos o
+operativos significativos. La instalación de un aparato de enclavamiento de paso a nivel concreto
+respetará siempre la decisión vigente de la Oficina Ferroviaria sobre el alcance y la forma de protección
+del paso a nivel ferroviario.». El DÚ, entre otras cosas, envió como medida la siguiente declaración: «La Oficina Ferroviaria,
+como autoridad administrativa ferroviaria, recomienda así permanentemente a Správa železnic, como gestor de la vía,
+incluir en el plan de inversiones, en la mayor medida posible, la complementación de barreras en el
+aparato de enclavamiento de paso a nivel luminoso existente. Deberían ser prioritarios los pasos a nivel
+con un alto tráfico y con eventos extraordinarios recurrentes.» El DI sigue apoyando la complementación de barreras en los pasos a nivel ferroviarios (de forma prioritaria en aquellos
+con mayor tráfico y condiciones locales desfavorables), pero en caso de
+emisión de nuevas recomendaciones de seguridad en relación con eventos extraordinarios concretos
+tiene en cuenta las características específicas del paso a nivel ferroviario correspondiente y emite dicha recomendación de seguridad
+de forma más concreta – véase el punto 6 ZZ.
 ### 5 CONCLUSIONES
 ### 5.1 Resumen del análisis y conclusiones relativas a las causas del evento
 La causa inmediata del evento extraordinario fue:
 •
-la entrada no autorizada de un conjunto de vehículos en el paso a nivel P847 en el momento en que se aproximaba a él el tren Os 17555, causada por la actuación del conductor del conjunto de vehículos, que no respetó la alerta luminosa y acústica de la instalación de enclavamiento de paso a nivel y no se aseguró de si podía cruzar el paso a nivel con seguridad.
-No se detectó ningún factor contribuyente por parte de la DI.
-No se detectó ninguna causa sistémica por parte de la DI.
-### A summary of the analysis and conclusions with regard to the causes of the
-occurrence
-Causal factor:
+la entrada no autorizada del conjunto de vehículos en el paso a nivel P847 en el momento en que
+se aproximaba el tren Os 17555, causada por la conducta del conductor del conjunto de vehículos, que
+no respetó la alerta luminosa y acústica del aparato de enclavamiento de paso a nivel
+y no se comprobó si podía cruzar el paso a nivel ferroviario de forma segura.
+El DI no detectó ningún factor contribuyente.
+El DI no detectó ninguna causa sistémica.
+### Un resumen del análisis y conclusiones relativas a las causas del
+evento
+Factor causal:
 •
-an unauthorized entrance of the set of vehicles at the level crossing No. P847 at the time when the regional passenger train No. 17555 was arriving, caused by behavior of the driver of the set of vehicles, who did not respect the light and acoustic warning of the level crossing safety equipment and did not make sure whether he could safely pass the level crossing.
-Contributing factor: none.
-Systemic factor: none.
-
+la entrada no autorizada del conjunto de vehículos en el paso a nivel núm. P847 en el momento en que
+se aproximaba el tren regional de pasajeros núm. 17555, causada por la conducta del conductor del conjunto de vehículos, que
+no respetó la alerta luminosa y acústica del aparato de enclavamiento de paso a nivel y no se comprobó si podía cruzar el paso a nivel de forma segura.
+Factor contribuyente: ninguno.
+Factor sistémico: ninguno.
 
 ## Página 33
+
 
 ### 5.2 Medidas adoptadas para la prevención de eventos extraordinarios
 El gestor de la infraestructura SŽ y el transportista ČD no adoptaron ni emitieron ninguna medida.

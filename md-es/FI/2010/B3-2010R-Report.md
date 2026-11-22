@@ -10,13 +10,14 @@ chars: 118092
 ratio_longitud: 1.15
 tokens_in: 54661
 tokens_out: 40939
-verificacion: revisar
-notas_cifras: ["bloque 1: original bilingüe: se compara contra el idioma principal (EN)", "bloque 2: original bilingüe: se compara contra el idioma principal (EN)", "bloque 3: original bilingüe: se compara contra el idioma principal (FI)", "bloque 4: cifras cortas: 5/122", "bloque 7: original bilingüe: se compara contra el idioma principal (EN); cifras cortas: 1/52", "bloque 8: original bilingüe: se compara contra el idioma principal (EN)"]
-avisos: ["bloque 8: ratio 1.70"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 2: original bilingüe: se compara contra el idioma principal (NL)", "página 3: original bilingüe: se compara contra el idioma principal (SV)", "página 4: original bilingüe: se compara contra el idioma principal (EN)", "página 13: original bilingüe: se compara contra el idioma principal (FI)", "página 15: cifras cortas: 4/23", "página 16: original bilingüe: se compara contra el idioma principal (FI)"]
 ---
+
 ## Página 1
+
 
 Informe de investigación
 B3/2010R
@@ -25,8 +26,8 @@ Accidente en paso a nivel con resultado de muerte en Karjaa
 Este informe de investigación se ha elaborado para mejorar la seguridad y prevenir nuevos accidentes.
 Aquí no se aborda la posible responsabilidad derivada del accidente ni la obligación de indemnización. Debe evitarse el uso del informe de investigación para un fin distinto de la mejora de la seguridad.
 
-
 ## Página 2
+
 
 ### Centro de investigación de accidentes
 ### Centralen för undersökning av olyckor
@@ -82,8 +83,8 @@ Otros accidentes / Övriga olyckor / Other accidents
 Investigador jefe / Ledande utredare / Chief Accident Investigator
 Kai Valonen
 
-
 ## Página 3
+
 
 ## RESUMEN
 El miércoles 14.4.2010 a las 16.47 se produjo en el paso a nivel sin vigilancia de Leskinen/Leppämäentie en Karjaa, Raasepori, un accidente en paso a nivel con resultado de muerte. El accidente se produjo cuando un todoterreno que salía de una explotación maderera cercana al paso a nivel embistió a un tren de cercanías (railbus) que viajaba de Hangoo a Karjaa. En el todoterreno viajaba únicamente el conductor, que murió inmediatamente a causa de las heridas sufridas en el accidente. Los costes causados al material ferroviario por el accidente ascendieron a 94 500 euros. El todoterreno quedó totalmente destruido.
@@ -101,8 +102,8 @@ La causa del accidente fue que el conductor del vehículo detectó el tren demas
 Los siguientes factores contribuyeron a ello:
 I
 
-
 ## Página 4
+
 
 - el conductor probablemente tenía su atención dirigida a algo distinto de cruzar el paso a nivel de forma segura
 - el paso a nivel era bastante conocido para el conductor, lo que generalmente reduce la precaución al llegar a un paso a nivel
@@ -127,15 +128,15 @@ investigation commission reiterates recommendation S211 presented in investigati
 1 Sports Utility Vehicle
 II
 
-
 ## Página 5
+
 
 B1/2005R concerning the establishment of a direct mobile phone connection from accident site to
 the emergency response centre.
 III
 
-
 ## Página 6
+
 
 ## TABLA RESUMEN – SAMMANFATTNING – DATA SUMMARY
 Hora:
@@ -244,6 +245,7 @@ IV
 
 ## Página 7
 
+
 ## ALKUSANAT
 Karjaalla 14.4.2010 sattuneen tasoristeysonnettomuuden selvittämiseksi Onnettomuustutkinta-
 keskus asetti onnettomuuksien tutkinnasta annetun lain (373/1985) 5 §:n nojalla tutkintalautakun-
@@ -284,8 +286,8 @@ Tämä tutkintaselostus on myös Onnettomuustutkintakeskuksen internet-sivuilla 
 www.onnettomuustutkinta.fi. 
 V
 
-
 ## Página 8
+
 
 Tutkintaselostuksen tiivistelmä, alkusanat, yhteenvetotaulukko, johtopäätökset, toteutetut toimen-
 piteet ja turvallisuussuositukset sekä kuvien, kaavioiden ja taulukoiden otsikkotekstit ovat suomen 
@@ -328,8 +330,8 @@ En förteckning över undersökningsmaterialet finns i slutet av denna undersök
 dersökningsmaterialet förvaras vid Centralen för undersökning av olyckor.  
 VI
 
-
 ## Página 9
+
 
 Denna undersökningsrapport finns också på de webbsidor som upprätthålls av Centralen för un-
 dersökning av olyckor, www.onnettomuustutkinta.fi. 
@@ -371,8 +373,8 @@ Rescue Department of the Ministry of the Interior, the Emergency Response Centre
 tion and Raasepori Town. The statements can be found in annex 1 of the investigation report. 
 VII
 
-
 ## Página 10
+
 
 The involved parties were given the opportunity to comment on the investigation report. The text 
 of this investigation report has been amended based on the statements and comments received. 
@@ -386,6 +388,7 @@ available in Swedish and English.
 VIII
 
 ## Página 11
+
 
 ## ÍNDICE 
 RESUMEN......................................................................................................................................I 
@@ -421,8 +424,8 @@ PREFACE.........................................................................
 2.11 Otras investigaciones.................................................................................................................15 
 IX
 
-
 ## Página 12
+
 
 2.12 Documentos ...................................................................................................................15 
 3 ANÁLISIS ..................................................................................................................................15 
@@ -449,8 +452,8 @@ Anexo 1. Declaraciones
 Anexo 2. Reglamentos y directrices sobre pasos a nivel 
 X
 
-
 ## Página 13
+
 
 ##  1 
 ## ACCIDENTE 
@@ -472,8 +475,8 @@ arrows.
 El empresario del sector de las máquinas forestales se encontraba el miércoles 14.4.2010 circulando con un todoterreno. En su posesión había también conjuntos de vehículos de transporte de madera y máquinas de trabajo forestal. Había salido de su casa por la mañana sobre las nueve y había estado durante la mañana y parte de la tarde en reuniones sobre asuntos laborales en Nummela. Después, había visitado su casa en Lohja y se había cambiado ropa adecuada para los trabajos forestales. El conductor había conducido el todoterreno 
 1
 
-
 ## Página 14
+
 
 a los lugares de trabajo forestal situados a lo largo de Leppämäentie. Visitaba dichos lugares de trabajo para comprobarlos y averiguar cómo se podía acceder a ellos con un conjunto de vehículos. 
 Una persona que vivía en una casa cercana al paso a nivel había visto el coche dirigirse a una pila de troncos cercana y continuar desde allí su camino por Leppämäentie. Pasado un tiempo, había visto el mismo coche regresar por Leppämäentie hacia el paso a nivel.  
@@ -482,6 +485,7 @@ Según la declaración de los conductores de la locomotora, el coche continuó s
 2
 
 ## Página 15
+
 
 Figura 2. El todoterreno fue lanzado 30 metros lejos del paso a nivel por la fuerza de la colisión (el coche se encuentra en el borde derecho de la imagen). En el momento de tomar la fotografía, el tren ya había retrocedido hasta el lugar del accidente.
 ### Alarmas
@@ -495,6 +499,8 @@ El conductor del coche falleció inmediatamente a causa de las heridas sufridas 
 3
 
 ## Página 16
+
+
 no resultaron heridos en el accidente. El personal de rescate que llegó al lugar inspeccionó a los pasajeros del tren y al personal en el lugar del suceso.
 ## 1.3.2
 ### Daños en el material rodante, la vía y los dispositivos
@@ -507,8 +513,8 @@ Regionaltågets front skadades vid olyckan.
 Figure 3. The train’s front was damaged.
 4
 
-
 ## Página 17
+
 
 ### Vehículo
 La carrocería completa del todoterreno se deformó y sufrió graves daños en el accidente. En particular, el lado derecho resultó gravemente dañado. Visto desde el frente, los daños se extendían hasta el parabrisas.
@@ -526,8 +532,8 @@ El accidente no causó daños medioambientales.
 La policía informó del accidente al centro de mando de la policía de Uusimaa Occidental, desde donde el comunicado se difundió a los medios de comunicación. En el comunicado de la policía se indicó que en Raasepori, en el paso a nivel sin vigilancia de Leppämäentie, se había producido un accidente en paso a nivel. Las partes implicadas en el accidente fueron un tren de cercanías y un automóvil. En el accidente falleció una persona varón. El accidente se produjo cuando el automóvil cruzaba el paso a nivel de Leppämäentie.
 5
 
-
 ## Página 18
+
 
 ## 2
 ## INVESTIGACIÓN DEL ACCIDENTE
@@ -554,8 +560,8 @@ El vehículo era un todoterreno con tracción a las cuatro ruedas Mitsubishi 5D 
 El accidente se produjo en Karjaa, en Raasepori, en el paso a nivel sin vigilancia denominado Leskinen/Leppämäentie, situado entre la carretera privada con revestimiento de grava denominada Leppämäentie y el tramo de vía entre Karjaa y Hanko, en el punto kilométrico 161+39. El paso a nivel dispone de las señales de paso a nivel de una vía única. En Leppämäentie no hay señales de aproximación al paso a nivel. En el paso a nivel, la velocidad máxima permitida en la vía es de 110 km/h. En la carretera no hay señales de limitación de velocidad, por lo que se aplica la limitación de velocidad general de 80 km/h. El lugar del accidente se encuentra a 3,2 kilómetros de la estación de Karjaa en dirección a Hanko. Leppämäentie tiene una longitud de 2,2 kilómetros y a su lado se encuentran nueve viviendas. Las viviendas situadas al otro lado de la vía no disponen de una vía de acceso alternativa. En el tramo de vía hay tráfico tanto de trenes de pasajeros (14 trenes al día) como de trenes de mercancías (12 trenes al día).
 6
 
-
 ## Página 19
+
 
 Leppämäentie cruza el paso a nivel casi perpendicularmente. La carretera asciende hacia el paso a nivel desde ambos lados. Visto desde la dirección de llegada del conductor del vehículo accidentado, la carretera asciende más de tres metros en los últimos 40 metros antes del paso a nivel. Desde la dirección opuesta, la pendiente de la carretera en los últimos 40 metros es de casi dos metros. No existe una plataforma de espera antes del paso a nivel.
 Visto desde la dirección de llegada del conductor del vehículo accidentado, a la derecha de Leppämäentie hay arbolado y matorrales que impiden la visibilidad hacia la vía. Además, el terraplén de la vía es tan alto que, en la práctica, la tala del arbolado no facilitaría mucho la observación. La visibilidad hacia la derecha, es decir, en la dirección de llegada del tren, era de 187 metros desde la dirección de llegada del automóvil, a 8 metros antes del raíl más cercano. A la izquierda de Leppämäentie hay una zona de tala, por lo que el arbolado no limita la visibilidad hacia la vía. Sin embargo, la altura del terraplén de la vía dificulta la observación también hacia la izquierda.
@@ -565,8 +571,8 @@ Vy mot plankorsningen från bilens ankomstriktning ca 30 meter före plankorsnin
 Figure 5. The view towards the level crossing from the direction of the approaching car about 30 metres before the crossing.
 7
 
-
 ## Página 20
+
 
 Figura 6. Medidas de visibilidad en el paso a nivel a ocho metros antes del raíl más cercano (Centro de investigación técnica de delitos de Uusimaa Occidental). En el dibujo se muestra además la posición del coche después de la colisión.
 Bild 6.
@@ -576,8 +582,8 @@ La superestructura de la vía es de clase C1, la vía dispone de traviesas de ho
 En el año 2000, la Dirección Ferroviaria encargó a la VTT la realización de un inventario del tramo de vía Hyvinkää–Hanko. En el informe se indica que el tráfico medio diario de vehículos en Leppämäentie es de 35 vehículos. Basándose en la situación del año 2000, como propuestas de medidas para el paso a nivel Leskinen/Leppämäentie se propusieron como medidas a implementar inmediatamente la limpieza de la visibilidad, una señal acústica al circular desde Hanko en dirección a Hyvinkää, la prohibición de circular para vehículos combinados, una limitación de velocidad de 100 km/h para el tren al circular desde Hanko en dirección a Hyvinkää, comenzando en el kilómetro 161+414 y terminando en el kilómetro 161+39, y la disponibilidad de arena en la carretera. Como medidas a implementar posteriormente se mencionan la eliminación del paso a nivel y la construcción de una carretera sustitutiva entre Leskinen y Sundberg en el paso a nivel a diferentes niveles que se construirá, así como la eliminación de la limitación de velocidad puntual del tren.
 8
 
-
 ## Página 21
+
 
 ### Dos pasos a nivel anteriores
 A unos 500 metros del paso a nivel del accidente, en dirección a Hanko, se encuentra el paso a nivel sin vigilancia denominado Sundberg/Hakutie. Este paso a nivel también es extremadamente peligroso en sus características. La velocidad máxima permitida en la vía en este paso a nivel es de 110 km/h y los requisitos de visibilidad exigidos no se cumplen en ninguna dirección. En el informe de pasos a nivel realizado por la VTT se indica además que tampoco mediante la limpieza de la vía se pueden cumplir los requisitos de visibilidad. Además, el perfil de altura de la carretera es muy difícil/problemático para el usuario de la carretera. Al aproximarse al paso a nivel desde el sur, la carretera desciende hacia el paso a nivel más de tres metros en los últimos 40 metros. Desde la dirección opuesta, es decir, desde el norte, al aproximarse al paso a nivel, la carretera asciende, por su parte, casi cuatro metros en los últimos 40 metros.
@@ -599,6 +605,7 @@ VIRVE = Red de radio de las autoridades finlandesas.
 
 ## Página 22
 
+
 ## 2.5 
 ### Condiciones meteorológicas 
 En el momento del accidente el cielo estaba despejado y el sol daba de frente al conductor del automóvil. La temperatura del aire era de +10 ˚C. La carretera tenía superficie de grava, con excepción del tendido aéreo del paso a nivel. En el momento de los hechos la superficie de la carretera estaba despejada y seca. 
@@ -610,8 +617,8 @@ En la cabina del tren accidentado viajaba como pasajero de regreso a Karjala el 
 Todas las personas relacionadas con los hechos contaban con la formación exigida y la experiencia suficiente para sus tareas.
 10
 
-
 ## Página 23
+
 
 Figura 7. Vista desde la cabina del tren de cercanías a unos 50 metros antes del paso a nivel de Leppämäentie. El automóvil se aproximaba al paso a nivel por la izquierda. En el momento del accidente los árboles aún no tenían hojas; la fotografía fue tomada el 31.5.2010.  
 Bild 7. 
@@ -627,8 +634,8 @@ En el momento del accidente, el conductor regresaba precisamente de una de estas
 El conductor conducía mucho por motivos laborales y también había conducido combinaciones de vehículos. El conductor atendía asuntos de trabajo prácticamente las 24 horas del día. La investigación puso de manifiesto que el conductor
 11
 
-
 ## Página 24
+
 
 no tenía la costumbre de usar el cinturón de seguridad. También atendía sus asuntos de trabajo mientras conducía y hablaba mucho por teléfono. No disponía de un dispositivo manos libres. 
 Por lo que se sabe, no había sufrido accidentes anteriores, aunque sí situaciones de casi accidente. El conductor había sido sancionado previamente por no usar el cinturón de seguridad y por hablar por teléfono mientras conducía. 
@@ -643,8 +650,8 @@ En el territorio del Servicio de Bomberos de Uusimaa Occidental opera un jefe de
 El lugar del accidente pertenece a la zona de riesgo IV, para la que no se ha establecido un tiempo de respuesta. El tipo de emergencia es «accidente ferroviario, menor». La unidad de intervención es un equipo de rescate. La alerta incluye a un jefe de bomberos de guardia y tres unidades de intervención. El número de unidades puede aumentarse en función de la información recabada por el primer jefe de unidad o de la valoración realizada por el centro de emergencias. 
 12
 
-
 ## Página 25
+
 
 ## 2.8 
 ### Grabaciones 
@@ -663,8 +670,8 @@ El operador del centro de emergencias alertó a la primera unidad a las 16.52.39
 Durante el suceso se estaban realizando trabajos de informática en el Centro de Emergencias de Uusimaa Occidental y, por este motivo, no todo el material solicitado estaba disponible. Existen discrepancias en la sincronización horaria entre las grabaciones de las llamadas de emergencia y de las comunicaciones por radio, y el reloj del sistema de información del centro de emergencias. Por ejemplo, la primera llamada de emergencia, según el sistema de grabación de llamadas, comenzó a las 16.48, mientras que en la hoja de misión del sistema de información del centro de emergencias consta que comenzó a las 16.49. Esto se debe en parte a los trabajos de informática que se estaban realizando en el centro de emergencias en ese momento, y en parte a la diferente sincronización horaria de los sistemas. 
 13
 
-
 ## Página 26
+
 
 ## 2.8.4 
 ### Otras grabaciones de los servicios de emergencia 
@@ -681,6 +688,7 @@ Las señales de cruce del paso a nivel situado junto a las vías, con sus posibl
 14
 
 ## Página 27
+
 
 De acuerdo con la Ley del Tráfico Ferroviario, se debe garantizar un paso libre de obstáculos al tren y el usuario de la vía que se aproxime a un paso a nivel debe observar una especial precaución.
 ## 2.10
@@ -701,8 +709,9 @@ La comisión ha tenido a su disposición, entre otros, los siguientes documentos
 Leppämäentie es una carretera privada de poco tráfico, con una anchura de unos 4 metros y un firme de grava. En la vía no hay señales de limitación de velocidad, por lo que se aplica la limitación general de 80 km/h. A lo largo de Leppämäentie hay en la actualidad una decena de viviendas que no disponen de otra ruta de acceso. En el futuro, la población aumentará.
 15
 
-
 ## Página 28
+
+
 En Leppämäentie no hay señales de advertencia ni de aproximación al paso a nivel, lo que en parte reduce la visibilidad del paso a nivel. El paso a nivel era bastante conocido para el conductor del automóvil, por lo que la ausencia de señales probablemente no tuvo influencia en el accidente.
 Visto desde la dirección de llegada del conductor del automóvil, Leppämäentie transcurre prácticamente en línea recta hacia el paso a nivel durante los últimos 200 metros. La carretera asciende hacia el paso a nivel de forma considerablemente pronunciada. El arbolado y los matorrales situados a la derecha de la carretera impiden la visibilidad hacia la vía y, además, la altura del terraplén dificulta considerablemente la realización de observaciones hacia la vía.
 En el lado izquierdo de Leppämäentie se han realizado talas, por lo que el arbolado no obstaculiza la visibilidad hacia la izquierda. Sin embargo, la altura del terraplén sí dificulta la realización de observaciones también en esta dirección.
@@ -712,8 +721,9 @@ En el paso a nivel de Leppämäki/Leskise no se cumplen los requisitos de visibi
 Si el automóvil se aproxima al paso a nivel, por ejemplo, a una velocidad de 30 km/h, avanza a 8,3 m/s. En este paso a nivel, la visibilidad a 8 metros antes de los raíles era de 187 metros hacia la dirección de llegada del tren. Si se supone que el tiempo de reacción del conductor es, en una situación óptima, del orden de un segundo, entonces un automóvil que circula a 30 km/h ya estará en el paso a nivel un segundo después. El cruce seguro del paso a nivel requeriría que el conductor del automóvil se detuviera antes del paso a nivel y se asegurara de que no hubiera tráfico en la vía. Debido a las condiciones de visibilidad, en este paso a nivel el conductor del automóvil dispone como máximo de seis segundos de tiempo para cruzar el paso a nivel (el tren avanza a la velocidad permitida de 110 km/h a 30,6 m/s, es decir, recorrer la zona de visibilidad de 187 metros le lleva 6,1 segundos). En una situación óptima, el conductor del vehículo podría, tal vez, en esos seis segundos llegar a ver el tren que se aproxima, interpretar lo que ha visto y elegir la forma de actuación adecuada. El
 16
 
-
 ## Página 29
+
+
 entorno de la carretera (la pronunciación de la pendiente y la ausencia de áreas de espera) no apoya, sin embargo, la detención antes de cruzar el paso a nivel, y en el paso a nivel tampoco existe la señal de STOP que exija una detención obligatoria.
 Tampoco queda apenas tiempo de reacción para el maquinista si el automóvil se aproxima al paso a nivel simultáneamente. Aunque el maquinista iniciara la frenada en cuanto advirtiera el vehículo, la velocidad del tren en un trayecto tan corto no llegaría a descender prácticamente en absoluto. La subida de la carretera hacia el paso a nivel, la ausencia de áreas de espera, la altura del terraplén y la mala visibilidad hacen del paso a nivel de Leppämäki/Leskise un lugar extremadamente peligroso.
 En las entrevistas a los maquinistas y en la reconstrucción realizada el 31.5. quedó patente la peligrosidad tanto del paso a nivel de Leskinen/Leppämäentie como de los dos pasos a nivel anteriores (Sundberg/Hakutie y Torppari). También en el informe realizado por la VTT en el año 2000 sobre el tramo de la línea Hyvinkää–Hanko se afirma que los tres pasos a nivel deberían eliminarse y sustituirse por un paso a nivel a distinto nivel. En el informe se afirma también que en los tres pasos a nivel debería existir una prohibición de paso para conjuntos de vehículos. En la actualidad, estos pasos a nivel constituyen un gran peligro para el tráfico de vehículos. El riesgo de un accidente grave y de que se vea comprometida la seguridad ferroviaria es también extremadamente alto si se produjera una colisión frontal entre un conjunto de vehículos y un tren en el paso a nivel.
@@ -724,8 +734,9 @@ El maquinista tiene la posibilidad de ver el paso a nivel de Leppämäki/Leskise
 El vehículo se puso en servicio hace 17 años. La carrocería del automóvil estaba en muy mal estado debido a daños por corrosión. Los neumáticos delanteros también estaban en muy mal estado. El estado de los frenos también era deficiente. El automóvil no disponía de otros equipos o dispositivos de seguridad que los cinturones de seguridad de 3 puntos. El estado del vehículo y la falta de revisión, sin embargo, no tuvieron relevancia en cuanto a la muerte del conductor debido a la gran energía del impacto.
 17
 
-
 ## Página 30
+
+
 ### Actuación del conductor del vehículo
 El conductor estaba revisando los terrenos de talas de su empresa situados a lo largo de Leppämäentie y se disponía a marcharse para atender otras tareas laborales. Conducía mucho por motivos de trabajo y también había conducido conjuntos de vehículos. El conductor atendía asuntos laborales prácticamente las 24 horas del día. En la investigación quedó patente que el conductor no tenía la costumbre de usar el cinturón de seguridad. Atendía sus asuntos laborales también mientras conducía y hablaba mucho por teléfono. No disponía de un dispositivo manos libres.
 En la investigación se pudo averiguar que el conductor había estado hablando por teléfono justo antes del accidente. También es posible que hubiera iniciado una nueva llamada o que estuviera hojeando los papeles de trabajo que había en el automóvil. La audición del oído derecho del conductor era considerablemente deficiente. Si ha hablado por teléfono, es probable que el teléfono estuviera en el oído izquierdo por ello. El tren se aproximaba al paso a nivel, visto desde el conductor del vehículo, por la derecha, es decir, por el lado del oído con peor audición. Esto puede explicar en parte por qué el conductor entró en el paso a nivel simultáneamente con el tren que llegaba por la derecha. Por otro lado, en Leppämäentie se pudo observar una huella de frenado de 6 metros de longitud, a partir de la cual puede estimarse que el conductor había advertido en el último momento el tren de cercanías que se aproximaba por la derecha e intentado evitar la colisión frenando, sin conseguirlo.
@@ -738,6 +749,7 @@ El maquinista se puso en contacto, a través de la radio de línea, con el regul
 18
 
 ## Página 31
+
 
 ### Servicios de salvamento
 El lugar del accidente pertenece a la zona de riesgo IV, para la cual no se ha definido un tiempo de accesibilidad. 
@@ -765,8 +777,8 @@ el paso a nivel era bastante conocido para el conductor, lo que generalmente red
 la atención del conductor probablemente estaba dirigida a algo distinto de cruzar el paso a nivel de forma segura 
 19
 
-
 ## Página 32
+
 
 - 
 el paso a nivel no disponía de instalaciones de aviso 
@@ -797,8 +809,8 @@ la atención del conductor probablemente estaba dirigida a algo distinto de cruz
 el paso a nivel no disponía de instalaciones de aviso 
 20
 
-
 ## Página 33
+
 
 la carretera asciende en pendiente hacia el paso a nivel, faltaban las plataformas de espera, el terraplén ferroviario era alto y había árboles junto a la carretera, lo que dificultaba la tarea de conducción del conductor y debilitaba la posibilidad de cruzar el paso a nivel de forma segura. 
 ## 4 
@@ -827,8 +839,8 @@ El paso a nivel no disponía de instalaciones de aviso.
 La conducción y un cruce seguro se vieron dificultados por la pendiente de la carretera, la ausencia de plataformas de espera, la alta altura del terraplén ferroviario y los árboles que rodeaban la carretera. 
 21
 
-
 ## Página 34
+
 
 ## 5 
 ## MEDIDAS ADOPTADAS
@@ -849,8 +861,8 @@ Debido a las deficientes visibilidades del paso a nivel, la pendiente de la carr
 El paso a nivel Leskinen/Leppämäki debería sustituirse por una intersección a distinto nivel. [B3/10R/S302] 
 El municipio de Raasepori ha elaborado una propuesta de plan general en la que se propone la construcción de un paso inferior entre Leppämäentie y Almantie (donde se encuentra el paso a nivel Sundberg/Hakutie). Con esta solución de plan general se podría eliminar también el paso a nivel Torppari. Sin embargo, la ejecución del proyecto llevará tiempo, por lo que antes de la construcción del paso inferior debería mejorarse la seguridad de los pasos a nivel por otros medios. Como una de las alternativas está la propuesta del municipio de Raasepori en su declaración: "También se ha elaborado una propuesta de plan general preliminar al norte de la vía, en conexión con Leppämäentie, en la que se propone la construcción de una conexión viaria hacia el este al polígono industrial de Bäljarsin te-
 
-
 ## Página 35
+
 
 llisuusalue y de ahí a la carretera 111." El municipio afirma también que esta conexión viaria sustitutiva podría ejecutarse más rápidamente que la construcción del paso inferior.  
 ### Repetición de las recomendaciones dadas en informes de investigación anteriores
@@ -866,6 +878,7 @@ En el tráfico ferroviario y en lo que respecta a su material y tecnología, se 
 
 ## Página 36
 
+
 del material rodante implicado en el accidente. Como ejemplo, se pueden mencionar el autobús de vía y el camión de vía, que, sin una identificación precisa, pueden dar una imagen errónea del material rodante del transporte por carretera al tomar decisiones rápidas. Cuando el personal ferroviario llame al centro de emergencias o a terceros, deberían utilizarse las denominaciones de tren de pasajeros o unidad de trabajo ferroviario. Durante el accidente se estaban realizando trabajos de modificación informática en el Centro de Emergencias de Länsi-Uudenmaa y no todos los registros solicitados estaban disponibles. Los trabajos de modificación informática del centro de emergencias deberían realizarse de manera que los registros necesarios estén disponibles.
 La Autoridad de Seguridad del Transporte (Trafi), la Autoridad de Transporte, VR-Yhtymä Oy, el departamento de rescate del Ministerio del Interior, la Institución del Centro de Emergencias y la ciudad de Raasepori han emitido sus pronunciamientos sobre las recomendaciones. Los pronunciamientos se encuentran íntegros en el anexo 1. Se han realizado modificaciones y precisiones al informe de investigación en base a los pronunciamientos y comentarios.
 ## 6
@@ -880,8 +893,8 @@ La ciudad de Raasepori ha elaborado un plan en el que se propone construir un pa
 En este accidente, la primera llamada de emergencia fue realizada por un transeúnte. El procedimiento que se ha instruido a los maquinistas, de llamar primero al centro de control de tráfico, provoca un retraso en la solicitud de ayuda urgente al lugar del accidente.
 24
 
-
 ## Página 37
+
 
 Si como primera medida se realizara una notificación desde el lugar del accidente directamente al centro de emergencias, las unidades de rescate serían alertadas más rápidamente y, al mismo tiempo, se obtendrían datos más precisos sobre lo ocurrido. Con estas medidas se puede garantizar que la información sobre el accidente, su alcance correcto y su ubicación exacta se transmita sin cambios al centro de emergencias. Además, queda claro que con estas medidas se facilita la evaluación de riesgos del operador del centro de emergencias y se acelera la solicitud del tipo de ayuda adecuado al lugar del accidente.
 Las instrucciones para realizar una llamada de emergencia deberían desarrollarse de manera que, desde el lugar del accidente, además de la notificación al centro de operaciones, se llame también directamente al número de emergencias general, si se necesita ayuda urgente del servicio de rescate en el lugar. [B1/05R/S211]
@@ -893,8 +906,8 @@ En el momento del accidente se estaban realizando trabajos de modificación info
 La Autoridad de Seguridad del Transporte, la Autoridad de Transporte, VR-Group Ab, el departamento de rescate del Ministerio del Interior, la Administración de Centros de Emergencia y la ciudad de Raasepori han emitido pronunciamientos sobre las recomendaciones
 25
 
-
 ## Página 38
+
 
 . Los pronunciamientos completos se encuentran en el anexo 1. En el informe de investigación se han realizado modificaciones y precisiones en base a los pronunciamientos y comentarios.
 ## 6
@@ -911,8 +924,8 @@ Realizar la primera llamada de emergencia directamente al centro de respuesta a 
 Las instrucciones para la elaboración de un aviso de emergencia deberían desarrollarse para garantizar que, siempre que se necesite ayuda urgente del servicio de rescate, se llame también al número de emergencias general desde el lugar del incidente, además de la notificación a la unidad de control de tráfico. [B1/05R/S211]
 26
 
-
 ## Página 39
+
 
 El Departamento de Rescate del Ministerio del Interior señala en su pronunciamiento que las instrucciones de llamada de emergencia deberían modificarse de manera que cumplan los requisitos del artículo 28 de la Ley de Rescate: "Cualquiera que note o se entere de que ha comenzado un incendio o de que ha ocurrido otro accidente, o de que existe amenaza del mismo, y no pueda detener el incendio o evitar el peligro, tiene la obligación de informar a quien esté en peligro, de realizar una llamada de emergencia y de iniciar medidas de rescate en la medida de sus posibilidades."
 La Administración de Centros de Emergencia también ha emitido un pronunciamiento indicando que debería existir una conexión telefónica móvil directa al centro de emergencias. Las razones dadas se indican a continuación: "El centro de control de tráfico de VR Group podría situarse en un área distinta a la del centro de respuesta a emergencias responsable del lugar del accidente. Esto significa en la práctica que la llamada debe ser transferida al centro de respuesta a emergencias del lugar del accidente, lo que significa que las unidades son alertadas con retraso. Una conexión telefónica móvil directa reduciría en cualquier caso el retraso desde el momento del accidente hasta la realización de la notificación de emergencia, ya que eliminaría una etapa del proceso. Una conexión telefónica móvil directa también ayudaría a garantizar que la información correcta se comunique desde el lugar del accidente al centro de respuesta a emergencias. El operador del centro de respuesta a emergencias podría preguntar directamente al maquinista para obtener más información."
@@ -922,8 +935,8 @@ En el momento del accidente, el centro de respuesta a emergencias de Länsi-Uusi
 Las siguientes partes han emitido un pronunciamiento sobre las recomendaciones: la Autoridad Finlandesa de Seguridad del Transporte, la Autoridad de Transporte de Finlandia, VR Group, el Departamento de Rescate del Ministerio del Interior, la Administración de Centros de Emergencia y el Municipio de Raasepori. Los pronunciamientos se encuentran íntegros en el Anexo 1. El texto de este informe de investigación ha sido enmendado en base a los pronunciamientos y comentarios recibidos.
 27
 
-
 ## Página 40
+
 
 En Helsinki, el 25.5.2011
 Kati Hernetkoski
@@ -932,6 +945,7 @@ Tuomo Markoff
 28
 
 ## Página 41
+
 
 ## LISTADO DE FUENTES
 Los siguientes anexos de fuentes se encuentran registrados en el Centro de Investigación de Accidentes:
@@ -957,60 +971,62 @@ Resumen de accidentes del Servicio de Bomberos de Uusimaa Occidental en la base 
 Datos del dispositivo de registro de circulación del tren de cercanías 389
 29
 
-
 ## Página 42
+
 
 
 ## Página 43
 
+
 ## Anexo 1/1 (9)
 ## DICTÁMENES
 
-
 ## Página 44
+
 
 ## Anexo 1/2 (9)
 
-
 ## Página 45
+
 
 ## Anexo 1/3 (9)
 
-
 ## Página 46
+
 
 ## Anexo 1/4 (9)
 
-
 ## Página 47
+
 
 ## Anexo 1/5 (9)
 
-
 ## Página 48
+
 
 ## Anexo 1/6 (9)
 
-
 ## Página 49
+
 
 ## Anexo 1/7 (9)
 
-
 ## Página 50
+
 
 ## Anexo 1/8 (9)
 
-
 ## Página 51
 
-## Anexo 1/9 (9)
 
+## Anexo 1/9 (9)
 
 ## Página 52
 
 
+
 ## Página 53
+
 
 ## Anexo 2/1 (5)
 ### Reglamentos e instrucciones relativos a los pasos a nivel
@@ -1028,8 +1044,8 @@ De acuerdo con la sección 7 de la Ley de Tráfico por Carretera (267/1981): "De
 En la sección 13 de la parte "Señales de advertencia" del capítulo 3 del Reglamento de Tráfico por Carretera (182/1982) se determina la colocación de las señales de advertencia de modo que la señal de advertencia debe situarse al menos a 150 y como máximo a 250 metros antes del punto de peligro. En zonas urbanas y por motivos especiales en otros lugares, la señal de advertencia también puede colocarse más cerca del punto de peligro. Este tipo de colocación puede utilizarse si el límite de velocidad es de como máximo 60 km/h o si la velocidad del vehículo es suficientemente baja por otra razón al aproximarse al tramo peligroso de la carretera.
 Antes del paso a nivel debe haber la señal 171 Paso a nivel ferroviario sin barreras o la señal 172 Paso a nivel ferroviario con barreras, así como las señales de aproximación al paso a nivel ferroviario 173, 174 y 175. Las señales de aproximación al paso a nivel deben colocarse de modo que la señal 173 esté más alejada del paso a nivel, bajo la señal 171 o 172 en el mismo poste. Además, inmediatamente antes del raíl más próximo debe haber o bien la señal 176 Paso a nivel ferroviario de vía única o la señal 177 Paso a nivel ferroviario de vía doble o múltiple.
 
-
 ## Página 54
+
 
 ## Anexo 2/2 (5)
 Las señales 173–175 pueden utilizarse además de la señal 171 o 172 para reforzar la visibilidad del paso a nivel. Si el paso a nivel está en la carretera transversal, sin embargo, no se utilizan las señales de aproximación. Las señales se colocan de modo que las bandas rojas de la señal estén inclinadas hacia la carretera y la altura del borde inferior sea como máximo de un metro desde la superficie de la calzada. La señal 173 se coloca bajo la señal 171 o 172 en el mismo poste, la señal 174 a unos ⅔ de la distancia y la señal 175 a unos ⅓ de la distancia del paso a nivel.
@@ -1062,8 +1078,8 @@ De acuerdo con la sección 14 del Reglamento de Tráfico por Carretera (182/1982
 La disposición de la Autoridad Ferroviaria "Estructuras y mantenimiento de la vía" (RVI/902/431/2009) se aplica a los pasos a nivel ferroviarios nuevos, a renovar y a mejorar, así como al mantenimiento y registro de los pasos a nivel ferroviarios. La disposición no se aplica a los pasos a nivel ferroviarios en los que esté impedida la circulación en las vías relacionadas con el paso a nivel ferroviario, o en los que la velocidad máxima de la vía o vías sea de como máximo 20 km/h, ni a los pasos a nivel en obras ferroviarias.
 Un paso a nivel ferroviario que no cumpla la disposición debe adaptarse a la disposición antes de que finalice el año 2030, salvo que la vía relacionada con el paso a nivel ferroviario se renueve o mejore antes. Un paso a nivel ferroviario que no cumpla la disposición a más tardar antes de que finalice el año 2030 debe retirarse del servicio.
 
-
 ## Página 55
+
 
 ## Anexo 2/3 (5)
 ### Según la sección 7.1 "Disposiciones estructurales" de la parte de la disposición que trata de los pasos a nivel:
@@ -1085,8 +1101,8 @@ La visibilidad y las estructuras del paso a nivel deben inspeccionarse al menos 
 El titular de la red ferroviaria debe llevar un registro de los pasos a nivel, del que conste la inspección de la visibilidad y las estructuras del paso a nivel, así como las medidas de mantenimiento.
 Los datos del registro deben estar a disposición del Centro de Investigación de Accidentes, la policía, la autoridad de rescate y la Autoridad de Seguridad del Tráfico.
 
-
 ## Página 56
+
 
 ## Anexo 2/4 (5)
 ## 5
@@ -1103,6 +1119,7 @@ Figura 2. Ángulo de intersección del paso a nivel y trazado de la carretera. E
 5 Gon = porcentaje del ángulo recto (ángulo recto = 90 °).
 
 ## Página 57
+
 
 ## Anexo 2/5 (5) 
 ### Línea de nivelación de la carretera6 

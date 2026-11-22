@@ -10,13 +10,14 @@ chars: 68053
 ratio_longitud: 1.28
 tokens_in: 34076
 tokens_out: 22463
-verificacion: revisar
-notas_cifras: ["bloque 1: original bilingüe: se compara contra el idioma principal (EN)", "bloque 2: original bilingüe: se compara contra el idioma principal (CS)", "bloque 4: original bilingüe: se compara contra el idioma principal (CS)", "bloque 6: original bilingüe: se compara contra el idioma principal (CS)", "bloque 9: cifras cortas: 3/64"]
-avisos: ["bloque 4: ratio 1.72"]
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (PT)", "página 5: original bilingüe: se compara contra el idioma principal (EN)", "página 6: original bilingüe: se compara contra el idioma principal (PT)", "página 7: original bilingüe: se compara contra el idioma principal (CS)", "página 10: original bilingüe: se compara contra el idioma principal (CS)", "página 11: original bilingüe: se compara contra el idioma principal (CS); ratio 2.08"]
 ---
+
 ## Página 1
+
 
 Inspección Ferroviaria
 República Checa
@@ -42,11 +43,12 @@ IČ:   75009561
 http://www.dicr.cz
 fax: (+420) 224 805 428
 
-
 ## Página 2
 
 
+
 ## Página 3
+
 
 # RESUMEN
 Grado:
@@ -76,14 +78,14 @@ no existía procedimiento para la inspección y el mantenimiento del paso a nive
 Causa raíz: ninguna
 Recomendaciones: no se emitieron
 
-
 ## Página 4
+
 
 Por la traducción al inglés es responsable: Ing. Hana Pechačová
 Este informe final es público y todos los documentos y hechos están respaldados por el expediente de investigación.
 
-
 ## Página 5
+
 
 # Índice
  Resumen .........................................................................................................................3
@@ -125,6 +127,7 @@ relación contractual ..........................................................
 
 ## Página 6
 
+
 3.1.2 Otras personas .........................................................................................................17
 3.2 Sistema de garantía de la seguridad ........................................................................17
 3.2.1 Organización marco y forma en que se emiten y ejecutan las instrucciones .......17
@@ -154,10 +157,10 @@ aplicación ....................................................................
 4.1.1 Descripción definitiva del suceso excepcional basada en los hechos constatados en el punto 3 
 ............................................................................................................................24
 4.2 Análisis ......................................................................................................................24
-4.2.1 Evaluación de los hechos constatados de acuerdo con el punto 3 y formulación de conclusiones sobre la causa 
-
+4.2.1 Evaluación de los hechos constatados de acuerdo con el punto 3 y formulación de conclusiones sobre la causa
 
 ## Página 7
+
 
 del suceso excepcional y la actuación de los servicios de emergencia ..........................................24
 4.3 Conclusiones ...............................................................................................................26
@@ -174,8 +177,8 @@ del suceso excepcional y la actuación de los servicios de emergencia ..........
  Foto 1: vista del automóvil dañado ..................................................................................28
  Foto 2: visibilidad para el vehículo rodado más lento a la izquierda en el sentido de circulación del automóvil hacia el paso a nivel. ..........28
 
-
 ## Página 8
+
 
 ## Lista de siglas y símbolos utilizados
 |  | Lista de siglas y símbolos utilizados |
@@ -184,6 +187,7 @@ del suceso excepcional y la actuación de los servicios de emergencia ..........
 | zn ŽP | señal de paso a nivel ferroviario |
 
 ## Página 9
+
 
 ## 1 RESUMEN
 Clasificación del suceso:
@@ -218,73 +222,50 @@ creciente en el campo de visibilidad para el conductor del vehículo de carreter
 Causas en el sistema de seguridad: no se detectaron por el DI.
 Recomendaciones de seguridad: no se emitieron por el DI.
 
-
 ## Página 10
 
-## 2 DATOS RELATIVOS AL SUCESO FERROVIARIO
+## 2 DATOS RELATIVOS AL SUCESO EXTRAORDINARIO
 ## 2.1
-### Suceso ferroviario
-### 2.1.1 Fecha, hora exacta y lugar del suceso ferroviario
-El SF se produjo el día 31/08/2010 a las 16:04 h, en el ferrocarril, categoría vía
-privada, en la vía privada «Vlečková síť OKD, Doprava, a. s.», en la vía de enlace 90 HS
-entre la estación de clasificación Rychvald y la maniobra de Heřmanice, en el paso a
-nivel en el pk 0,535 (P10627).
-Figura 1: vista del lugar del SF
-### 2.1.2 Descripción del suceso ferroviario y del lugar del accidente, incluida la
-actuación del sistema integrado de emergencias y del servicio de rescate
-El día 31/08/2010, mientras el tren de vía privada 425040 circulaba por la vía de
-enlace 90 HS, en sentido desde la estación de clasificación Rychvald hacia la maniobra
-de Heřmanice, se produjo en el paso a nivel de vía única en el pk 0,535 (P10627),
-señalizado y protegido únicamente con cruces de advertencia, una colisión con un
-automóvil, marca TOYOTA YARIS. El automóvil entró en el paso a nivel en sentido desde
-la vía local «Nad Stavy», es decir, por el lado derecho del tren de vía privada que se
-aproximaba.
-El tren de vía privada 425040 se encontraba en su posición final tras el SF con la
-cabeza en el pk 0,452, es decir, 83 m por detrás del lugar de la colisión. El automóvil
-fue desplazado por la parte delantera derecha de la locomotora 5 m del eje de la vía,
-en el sentido de circulación del tren de vía privada a la derecha, y 7,3 m por detrás del
-lugar de la colisión. Como consecuencia del accidente fue arrancado, en el paso a nivel,
-en el sentido de circulación del tren de vía privada, el poste derecho con el cruce de
-advertencia.
-En el lugar del SF actuó la Policía de la República Checa (PČR), Jefatura Municipal
-de Policía de Ostrava, Departamento Territorial de Ostrava, Inspección de Tráfico de
-Ostrava. Dado que en el SF no se produjo daño a la salud de las personas, el resto de
-cuerpos del sistema integrado de emergencias (IZS) no actuaron.
-
+### Suceso extraordinario
+### 2.1.1 Fecha, hora exacta y lugar del suceso extraordinario
+El SE tuvo lugar el día 31. 08. 2010 a las 16:04 h, en la vía ferroviaria, categoría vía privada, 
+en la vía privada "Vlečková síť OKD, Doprava, a. s.", en el enlace 90 HS entre la estación de clasificación Rychvald 
+y la maniobra Heřmanice, en el punto kilométrico 0,535 (P10627).
+Figura 1: vista del lugar del SE
+### 2.1.2 Descripción del suceso extraordinario y del lugar del accidente, incluida la actividad del sistema 
+integrado de emergencia y del servicio de rescate
+El día 31. 08. 2010, durante la circulación del tren de vía privada 425040 por el enlace 90 HS, 
+en sentido desde la estación de clasificación Rychvald hacia la maniobra Heřmanice, se produjo en el punto kilométrico 0,535 
+(P10627), de vía única, señalizado y protegido únicamente con cruces de advertencia, una colisión con un vehículo 
+automóvil, marca TOYOTA YARIS. El vehículo entró en el punto kilométrico en sentido desde la vía local "Nad Stavy", es decir, 
+por el lado derecho del tren de vía privada que se aproximaba.
+El tren de vía privada 425040 se encontraba en su posición final tras el SE con el morro en el punto kilométrico 
+0,452, es decir, 83 m detrás del lugar de la colisión. El vehículo fue desplazado por la parte delantera derecha de la locomotora 5 m del eje 
+de la vía, en sentido de circulación del tren de vía privada hacia la derecha, y 7,3 m 
+detrás del lugar de la colisión. Como consecuencia del accidente fue arrancado el poste derecho con el cruce 
+de advertencia en el punto kilométrico, en sentido de circulación del tren de vía privada. 
+En el lugar del SE actuó la Policía de la República Checa, Jefatura Municipal de Policía de Ostrava, Departamento 
+Territorial de Ostrava, Inspección de Tráfico de Ostrava. Como en el SE no se produjeron lesiones personales, 
+las demás unidades del sistema integrado de emergencia no intervinieron.
 
 ## Página 11
 
-Figura 2: esquema del lugar del SF
-2.1.3 Decisión de iniciar la investigación de las causas y circunstancias de su
-producción, composición del equipo de personas cualificadas y forma de dirigir la
-investigación de las causas y circunstancias de su producción
-El SF fue notificado al COP del DI de Praga el día 31/08/2010 a las 16:38 h. Debido a
-las consecuencias y al alcance del SF, el DI no inició inmediatamente en el lugar del SF la
-investigación de las causas y circunstancias de su producción. La autorización para la
-liberación de la vía fue emitida por el VI COP a las 16:38 h.
-Debido a las constataciones realizadas durante el ejercicio de la supervisión estatal
-en materia de ferrocarriles en el paso a nivel en cuestión el día 01/09/2010, el DI decidió
-el día 14/09/2010 iniciar la investigación de las causas y circunstancias de su producción.
-La investigación de las causas y circunstancias de su producción fue encomendada al VI ÚI
-de Ostrava. La investigación de las causas y circunstancias de su producción fue realizada
-por el DI de conformidad con el § 53b de la Ley núm. 266/1994 Sb., de ferrocarriles, en su
-redacción vigente (en adelante, Ley núm. 266/1994 Sb.), y con el § 11 del Decreto núm.
-376/2006 Sb., sobre el sistema de seguridad de la explotación del ferrocarril y del
-transporte ferroviario y los procedimientos en caso de producción de sucesos ferroviarios
-en los ferrocarriles, en su redacción vigente (en adelante, Decreto núm. 376/2006 Sb.).
+Figura 2: esquema del lugar del MU
+2.1.3 Decisión de iniciar la investigación de las causas y circunstancias de su origen, composición del equipo de personas cualificadas y método de dirección de la investigación de las causas y circunstancias de su origen
+El MU fue notificado al COP DI Praga el 31. 08. 2010 a las 16:38 h. Debido a las consecuencias y al alcance del MU, la DI no inició inmediatamente en el lugar del MU la investigación de las causas y circunstancias de su origen. El permiso para liberar la vía fue emitido por el VI COP a las 16:38 h.
+Debido a los hallazgos realizados durante el ejercicio de la supervisión estatal en materia de ferrocarriles en el mencionado ŽP el 01. 09. 2010, la DI decidió el 14. 09. 2010 iniciar la investigación de las causas y circunstancias de su origen. La investigación de las causas y circunstancias de su origen fue encomendada al VI ÚI Ostrava. La investigación de las causas y circunstancias de su origen fue realizada por la DI de conformidad con el § 53b de la ley núm. 266/1994 Sb., de ferrocarriles, en su versión vigente (en adelante, ley núm. 266/1994 Sb.), y con el § 11 del decreto núm. 376/2006 Sb., sobre el sistema de seguridad de la explotación del ferrocarril y del transporte ferroviario y los procedimientos en caso de ocurrencia de sucesos extraordinarios en los ferrocarriles, en su versión vigente (en adelante, decreto núm. 376/2006 Sb.).
 ## 2.2
-### Circunstancias del suceso ferroviario
-### 2.2.1 Empleados intervinientes de la explotadora de la vía y del transportista,
-personas en relación contractual y demás intervinientes y testigos
-Personas intervinientes por:
+### Circunstancias del suceso extraordinario
+### 2.2.1 Empleados participantes del explotador del ferrocarril y del transportista, personas en relación contractual y demás participantes y testigos
+Personas participantes por parte de:
 - transportista:
-maquinista del tren de vía privada 425040, empleado de AWT;
+maquinista del tren de maniobras 425040, empleado de AWT;
 •
-jefe de tren del tren de vía privada 425040, empleado de AWT;
+jefe de tren del tren de maniobras 425040, empleado de AWT;
 •
-
 
 ## Página 12
+
 
 - tercera parte:
 conductor del automóvil;
@@ -345,41 +326,42 @@ advertencia había sido, según la explotadora de la vía, sustraído.
 ## Página 13
 
 ### 2.2.4 Uso de medios de comunicación
-En relación con la aparición de la MIE, no se utilizaron medios de comunicación alguno, a excepción de la notificación de la aparición de la MIE al despachador 01 AWT por parte del jefe de tren del tren de vía privada 425040 mediante teléfono móvil.
-### 2.2.5 Trabajos realizados en el lugar de la excepción y en sus proximidades
-En el lugar de la MIE, inmediatamente antes de su aparición, no se realizaron por parte del propietario de la vía ni del explotador de la vía trabajos de reparación o mantenimiento en la superestructura e infraestructura del ferrocarril. Asimismo, a excepción de la organización del tráfico ferroviario relacionada con la circulación del tren de vía privada 425040, no fueron realizados por el explotador de la vía otros trabajos en la explotación de la vía y la organización del tráfico ferroviario que guarden relación con la aparición de la MIE.
-### 2.2.6 Activación del plan de emergencia en la vía y secuencia de acontecimientos
-La aparición de la MIE fue notificada a las 16:15 h al despachador 01 AWT por el jefe de tren del tren de vía privada 425040. El despachador 01 AWT cumplió las demás obligaciones de conformidad con el Horario de Notificación. En el COP DI, la MIE fue notificada por el explotador de la vía y el transportista AWT a las 16:38 h. El empleado del COP, sobre la base de los hechos notificados, en particular del hecho de que en la MIE no hubo daños a la salud de personas, decidió inmediatamente conceder el permiso para los trabajos de retirada.
-Al lugar de la MIE acudieron las personas cualificadas del explotador de la vía y del transportista para determinar las causas y circunstancias de la aparición de la MIE. Estas realizaron la inspección del lugar de la MIE y la investigación preliminar en el lugar de la MIE.
-El tráfico ferroviario entre la est. Rychvald y la bif. Heřmanice fue interrumpido desde la aparición de la MIE hasta las 20:00 h, es decir, durante 236 min.
-### 2.2.7 Activación del plan del sistema integrado de emergencia, policía y servicio médico de emergencia y secuencia de acontecimientos
-En el lugar de la MIE actuó la PČR, la Jefatura Municipal de Policía de Ostrava, el Departamento Territorial de Ostrava, la Inspección de Tráfico de Ostrava.
+En relación con la aparición de la MU, no se utilizaron medios de comunicación alguno, salvo la notificación de la aparición de la MU al despachador 01 AWT por parte del jefe de tren del tren de vía privada 425040 mediante teléfono móvil.
+### 2.2.5 Trabajos realizados en el lugar del suceso excepcional y en sus proximidades
+En el lugar de la MU, no se realizaron, inmediatamente antes de su aparición, trabajos de reparación o mantenimiento en la superestructura e infraestructura del ferrocarril por parte del propietario de la vía ni del explotador de la vía. Asimismo, salvo la organización del tráfico ferroviario relacionada con la circulación del tren de vía privada 425040, el explotador de la vía no realizó otros trabajos en la explotación de la vía y en la organización del tráfico ferroviario que guarden relación con la aparición de la MU.
+### 2.2.6 Activación del plan para casos de suceso excepcional en la vía y secuencia de acontecimientos
+La aparición de la MU fue notificada a las 16:15 h al despachador 01 AWT por el jefe de tren del tren de vía privada 425040. El despachador 01 AWT cumplió las demás obligaciones de conformidad con el Cuadro de notificaciones. En el COP DI, la MU fue comunicada por el explotador de la vía y el transportista AWT a las 16:38 h. El empleado del COP, sobre la base de los hechos comunicados, en particular del hecho de que en la MU no se produjeron daños a la salud de personas, decidió inmediatamente conceder el consentimiento para los trabajos de retirada. Al lugar de la MU acudieron las personas cualificadas del explotador de la vía y del transportista para determinar las causas y circunstancias de la aparición de la MU. Estas realizaron la inspección del lugar de la MU y la investigación inicial en el lugar de la MU. El tráfico ferroviario entre la est. Rychvald y la bif. Heřmanice estuvo interrumpido desde la aparición de la MU hasta las 20:00 h, es decir, durante 236 min.
+### 2.2.7 Activación del plan del sistema integrado de emergencia, de la policía y del servicio de emergencias médicas y secuencia de acontecimientos
+En el lugar de la MU actuó la PČR, Jefatura Municipal de Policía de Ostrava, Departamento Territorial de Ostrava, Inspección de Tráfico de Ostrava.
 ## 2.3
 ### Fallecimientos, lesiones y daños materiales
 2.3.1 En pasajeros y terceros, empleados del explotador de la vía y del transportista, incluidas personas en relación contractual
-En la MIE no hubo ninguna persona herida ni fallecida.
+En la MU nadie resultó herido ni fallecido.
 ### 2.3.2 En objetos transportados, equipaje y otros bienes
-En el vehículo de carretera (OA) se produjo un daño
- 60.000,- CZK*.
-* Se trata de un daño según la estimación de la PČR. La cuantía real del daño no fue cuantificada por el propietario del OA a la fecha de emisión del Informe sobre los resultados de la investigación de las causas y circunstancias de la aparición de la MIE.
-### 2.3.3 En vehículos ferroviarios, componentes de la vía de tráfico y en el medio ambiente
-No se produjo daño en los DV, la infraestructura de la vía ni en el medio ambiente.
-
+En el OA se produjo un daño
+ 60.000,- Kč*.
+* Se trata de un daño según la estimación de la PČR. La cuantía real del daño no fue cuantificada por el propietario del OA a la fecha de emisión del Informe sobre los resultados de la investigación de las causas y circunstancias de la aparición de la MU.
+### 2.3.3 En vehículos ferroviarios, componentes de la vía de circulación y en el medio ambiente
+No se produjo daño en los DV, en la infraestructura de la vía ni en el medio ambiente.
 
 ## Página 14
 
 ## 2.4
 ### Circunstancias externas
 ### 2.4.1 Condiciones meteorológicas y datos geográficos
-Temperatura del aire +11 °C, período diurno, nublado, visibilidad ligeramente reducida por la lluvia.
-Coordenadas GPS del lugar de la MIE: 49°52'1.7"N, 18°20'3.3"E.
-A lo largo de la vía de servicio a la izquierda en el sentido desde la vía local "Nad Stavy" hasta la inmediata proximidad de la VY en el km 0,535 (P10627), en el campo visual para el conductor de un vehículo de carretera, se encontraba una densa franja de vegetación adventicia de Reynoutria, alcanzando una altura de aprox. 3 m. Esta impedía la visión de la vía, es decir, de la parte delantera del DV, en toda la longitud de la visibilidad para la parada D z, ver figura 3.
-A lo largo de la vía de servicio a la derecha en el sentido desde la vía local "Nad Stavy" hasta la inmediata proximidad de la VY en el km 0,535 (P10627), en el campo visual para el conductor de un vehículo de carretera, se encuentra vegetación adventicia, árboles y arbustos. Estos dificultaban la visión de la vía, es decir, de la parte delantera del DV.
-Figura 3: vista del campo visual para el conductor de un vehículo de carretera
-a la izquierda en el sentido de circulación del OA hacia la VY.
-
+Temperatura del aire +11 °C, período diurno, nublado, visibilidad ligeramente reducida por la lluvia. 
+Coordenadas GPS del lugar del accidente: 49°52'1.7"N, 18°20'3.3"E. 
+A lo largo del camino de servicio a la izquierda en el sentido desde la vía local „Nad Stavy“ hasta 
+la inmediata proximidad de la vía férrea en el pk 0,535 (P10627) se encontraba, en el campo visual del conductor del vehículo rodado, una franja densa de vegetación adventicia de Reynoutria, alcanzando una altura de aprox. 3 m. Esta 
+obstaculizaba la visión de la vía, es decir, de la parte delantera del DV, en toda la longitud de la visibilidad para la parada D z, ver 
+figura 3.
+A lo largo del camino de servicio a la derecha en el sentido desde la vía local „Nad Stavy“ hasta 
+la inmediata proximidad de la vía férrea en el pk 0,535 (P10627) se encuentra, en el campo visual del conductor del vehículo rodado, vegetación adventicia, árboles y arbustos. Esta dificultaba la visión de la vía, es decir, de la parte delantera del DV.
+Figura 3: vista del campo visual del conductor del vehículo rodado 
+a la izquierda en el sentido de circulación del vehículo hacia la vía férrea.
 
 ## Página 15
+
 
 ## 3 REGISTRO DE LAS EXPLICACIONES PRESENTADAS
 ## 3.1
@@ -433,6 +415,7 @@ no detectó ningún defecto. La vía de servicio estaba cerrada a ambos lados de
 
 ## Página 16
 
+
 con una inspección completa de la vía en el pk 0,535 (P10627), realizada el 17. 06. 2010, ◦ no se detectaron defectos;
 además de las inspecciones y mediciones, no ordenó, antes de la aparición del MU, la verificación de los parámetros operativos de la vía en cuestión para garantizar la aptitud para el servicio de la vía y la seguridad del transporte ferroviario en función de los cambios en los parámetros constructivo-técnicos y operativos de la vía en el pk 0,535 (P10627), provocados por la vegetación adventicia crecida a lo largo de la vía de servicio a la izquierda en el sentido desde la vía local "Nad Stavy" hasta la inmediata proximidad de la vía, en el campo visual del conductor de un vehículo por carretera.
 • Vigilante de la vía – del Acta de la declaración prestada con el testigo del MU se desprende, entre otros:
@@ -448,6 +431,7 @@ además de las inspecciones y mediciones, no ordenó, antes de la aparición del
 ◦ además de las inspecciones y mediciones, antes de la aparición del MU no realizó la verificación de los parámetros operativos de la vía en cuestión para garantizar la aptitud para el servicio de la vía y la seguridad del transporte ferroviario en función de los cambios en los parámetros constructivo-técnicos y operativos de la vía en el pk 0,535 (P10627), provocados por la vegetación adventicia crecida a lo largo de la vía de servicio a la izquierda en el sentido desde la vía local "Nad Stavy" hasta la inmediata proximidad de la vía, en el campo visual del conductor de un vehículo por carretera. La razón fue el bloqueo a largo plazo de la vía de servicio.
 
 ## Página 17
+
 
 ### 3.1.2 Otras personas
 Conductor del vehículo de motor – del Acta de la declaración prestada con el participante del MU se desprende, entre otros:
@@ -468,6 +452,7 @@ En el momento de la aparición del MU en cuestión, tanto los dos empleados del 
 El gestor de la vía, para garantizar la aptitud para el servicio de la vía y la seguridad del transporte ferroviario, tiene establecidos, de conformidad con lo dispuesto en el § 26 y el anexo n.º 1 del decreto n.º 177/1995 Sb., por el que se aprueba el reglamento constructivo y técnico de las vías férreas, en su versión vigente (en adelante, decreto n.º 177/1995 Sb.), los intervalos de tiempo para las inspecciones y mediciones de la construcción de la vía, en la norma interna OKD, Doprava Sp 1 "Organización y ejecución de las comprobaciones de la vía y garantía de las condiciones técnicas de aptitud para el servicio de la vía OKD, D, a. s.", en vigor desde el 01. 04. 2001, en su versión vigente (en adelante, norma Sp 1).
 
 ## Página 18
+
 
 De la documentación del explotador de la vía sobre la realización de inspecciones y mediciones del enlace de vía 90 HS y ŽP en el punto kilométrico 0,535 (P10627), anterior a la ocurrencia del MU, se desprende:
 la última inspección de ŽP se realizó los días 07. a 11. 05. 2010. El acceso de vehículos
@@ -499,8 +484,8 @@ a) explotar la vía para las necesidades del tráfico ferroviario fluido y segur
 •
 inspecciones y mantenimiento periódicos para garantizar su aptitud para el servicio. ...»;
 
-
 ## Página 19
+
 
 § 4 apartado 7 del decreto nº 177/1995 Sb.: «Los detalles de la ubicación de la
 •
@@ -531,6 +516,7 @@ de la vía privada se realizan:
 a) sin medición – las realiza el recorridor o el empleado designado por el reglamento de explotación en el tramo establecido según el anexo nº 2 de este reglamento. Los defectos detectados se anotan en
 
 ## Página 20
+
 
 de su libreta de servicio, que siempre lleva consigo durante el servicio. Las anomalías detectadas las comunicará inmediatamente después de finalizar la inspección al jefe de turno. Este registrará las anomalías en el Libro n.º 3 y firmará en la libreta de servicio la anotación del inspector. ….”;
 normativa Sp 1, art. 28, donde se indica, entre otros: “Las anomalías que amenacen la seguridad
@@ -566,34 +552,26 @@ art. C.6, para la velocidad de circulación Vž = 30 km·h-1, ángulo de cruce �
 El sistema de control, señalización y protección de la circulación del tren de ramal no guardaba relación con la aparición del MU. Ni la circulación del tren de ramal ni el movimiento de los usuarios de la vía pública en el P10627 en el pk 0,535 (P10627) son registrados por el dispositivo de registro.
 No se detectaron anomalías.
 
-
 ## Página 21
 
-### 3.4.2 Componentes de la vía
-Se detectaron anomalías en el cumplimiento de los procedimientos tecnológicos contenidos en las normativas internas del explotador de la infraestructura durante la inspección integral y la inspección de la vía en el lugar de aparición del MU, véase el punto 3.2.3.
-Se detectó una anomalía consistente en la no realización, por parte del explotador de la infraestructura, de la verificación de los parámetros operativos del P10627 en el pk 0,535 (P10627), es decir, la verificación de las condiciones de visibilidad, en función de los cambios en las condiciones constructivo-técnicas u operativas provocados por la vegetación espontánea crecida a lo largo de la vía de servicio a la izquierda en el sentido desde la vía pública “Nad Stavy” hasta la inmediata proximidad del P10627 en el campo de visibilidad para el conductor del vehículo de carretera.
-La citada constatación supone, en relación con el art. 23, el art. 25 letra a) y el art. 28 de la normativa Sp1 y el § 26 apartado 4 del decreto n.º 177/1995 Sb., el incumplimiento de lo dispuesto en el § 22 apartado 1 letra a) de la ley n.º 266/1994 Sb.
-En la protección del P10627 en el pk 0,535 (P10627) se detectaron al día siguiente de la aparición del MU, por parte de la DI, las siguientes deficiencias relacionadas con el MU, véase el “REGISTRO del resultado de la supervisión estatal en materia de ferrocarriles”, n.º de expediente: 7-1633/2010/DI-1, de fecha 01. 09. 2010:
-delante del P10627 no había, en el sentido de circulación del tren de ramal 425040, es decir, en el sentido
-•
-desde la estación de enlace Rychvald, situada la señal de advertencia Poste de advertencia con la indicación “Pite”.
-La citada constatación supone, en relación con el art. 6.3.4 de la ČSN 73 6380 y el § 4 apartado 7 y el § 17 apartado 1 del decreto n.º 177/1995 Sb., el incumplimiento de lo dispuesto en el § 6 apartado 1 y el § 22 apartado 1 letra a) de la ley n.º 266/1994 Sb.
-la longitud de visibilidad para el vehículo de carretera Lr, en el sentido desde la vía pública “Nad
-•
-Stavy”, es decir, en el sentido de circulación del OA, a la izquierda, era de 2 m en lugar de los 32 m exigidos.
-La citada constatación supone, en relación con el art. 7.4.1, el art. 7.4.6 y el art. 7.4.6.5 de la ČSN 73 6380 y el § 4 apartado 7, el § 17 apartado 1 y el § 25 apartado 12 del decreto n.º 177/1995 Sb., el incumplimiento de lo dispuesto en el § 6 apartado 1 y el § 22 apartado 1 letra a) de la ley n.º 266/1994 Sb.
-en el campo de visibilidad para el vehículo de carretera, en el sentido desde la vía pública “Nad
-•
-Stavy”, es decir, en el sentido de circulación del OA, a la derecha, dificultaba la visibilidad de la vía la vegetación espontánea, los árboles y los arbustos.
-La citada constatación supone, en relación con el art. 7.4.1, el art. 7.4.6 y el art. 7.4.6.5 de la ČSN 73 6380 y el § 4 apartado 7, el § 17 apartado 1 y el § 25 apartado 12 del decreto n.º 177/1995 Sb., el incumplimiento de lo dispuesto en el § 6 apartado 1 y el § 22 apartado 1 letra a) de la ley n.º 266/1994 Sb.
-la longitud de visibilidad para el vehículo de carretera más lento Lp, en el sentido desde la vía
-•
-pública “Nad Stavy”, es decir, en el sentido de circulación del OA, a la izquierda, era de solo 100 m en lugar de los 172 m exigidos.
-La citada constatación supone, en relación con el art. 7.4.1, el art. 7.4.6 y el art. 7.4.6.9 de la ČSN 73 6380 y el § 4 apartado 7, el § 17 apartado 1 y el § 25 apartado 12 del decreto n.º 177/1995 Sb., el incumplimiento de lo dispuesto en el § 6 apartado 1 y el § 22 apartado 1 letra a) de la ley n.º 266/1994 Sb.
+### 3.4.2 Elementos de la vía
+Se detectaron defectos en el cumplimiento de los procedimientos tecnológicos contenidos en las normas internas del gestor de la vía durante la inspección integral y el recorrido de la línea en el lugar donde se produjo el MU, véase el punto 3.2.3.
+Se detectó un defecto consistente en la no realización de la verificación de los parámetros operativos del PdV en el km 0,535 (P10627) por parte del gestor de la vía, es decir, la verificación de las condiciones de visibilidad, en función de los cambios en las condiciones constructivo-técnicas u operativas provocados por la vegetación espontánea que crece a lo largo de la vía de servicio a la izquierda en el sentido desde la vía local «Nad Stavy» hasta la inmediata proximidad del PdV en el campo de visibilidad para el conductor de un vehículo por carretera.
+Dicha constatación, en relación con el art. 23, el art. 25 apartado a) y el art. 28 de la norma Sp1 y el § 26 apartado 4 del decreto nº 177/1995 Sb., constituye un incumplimiento de lo dispuesto en el § 22 apartado 1 apartado a) de la ley nº 266/1994 Sb.
+En la protección del PdV en el km 0,535 (P10627) se detectaron al día siguiente de la producción del MU, por parte de la DI, los siguientes defectos relacionados con el MU, véase «REGISTRO del resultado de la supervisión estatal en materia de ferrocarriles», ref. nº 7-1633/2010/DI-1, de fecha 01. 09. 2010:
+• Antes del PdV, en el sentido de circulación del tren de vía privada 425040, es decir, en el sentido desde la estación de enlace Rychvald, no se había colocado la señal de aviso «Poste de aviso» con la señal «Pite».
+Dicha constatación, en relación con el art. 6.3.4 de la ČSN 73 6380 y el § 4 apartado 7 y el § 17 apartado 1 del decreto nº 177/1995 Sb., constituye un incumplimiento de lo dispuesto en el § 6 apartado 1 y el § 22 apartado 1 apartado a) de la ley nº 266/1994 Sb.
+• La longitud de visibilidad para vehículos por carretera Lr, en el sentido desde la vía local «Nad Stavy», es decir, en el sentido de circulación del OA, a la izquierda, era de 2 m en lugar de los 32 m exigidos.
+Dicha constatación, en relación con el art. 7.4.1, el art. 7.4.6 y el art. 7.4.6.5 de la ČSN 73 6380 y el § 4 apartado 7, el § 17 apartado 1 y el § 25 apartado 12 del decreto nº 177/1995 Sb., constituye un incumplimiento de lo dispuesto en el § 6 apartado 1 y el § 22 apartado 1 apartado a) de la ley nº 266/1994 Sb.
+• En el campo de visibilidad para vehículos por carretera, en el sentido desde la vía local «Nad Stavy», es decir, en el sentido de circulación del OA, a la derecha, la vegetación espontánea, los árboles y los arbustos dificultaban la visibilidad hacia la vía.
+Dicha constatación, en relación con el art. 7.4.1, el art. 7.4.6 y el art. 7.4.6.5 de la ČSN 73 6380 y el § 4 apartado 7, el § 17 apartado 1 y el § 25 apartado 12 del decreto nº 177/1995 Sb., constituye un incumplimiento de lo dispuesto en el § 6 apartado 1 y el § 22 apartado 1 apartado a) de la ley nº 266/1994 Sb.
+• La longitud de visibilidad para el vehículo por carretera más lento Lp, en el sentido desde la vía local «Nad Stavy», es decir, en el sentido de circulación del OA, a la izquierda, era de solo 100 m en lugar de los 172 m exigidos.
+Dicha constatación, en relación con el art. 7.4.1, el art. 7.4.6 y el art. 7.4.6.9 de la ČSN 73 6380 y el § 4 apartado 7, el § 17 apartado 1 y el § 25 apartado 12 del decreto nº 177/1995 Sb., constituye un incumplimiento de lo dispuesto en el § 6 apartado 1 y el § 22 apartado 1 apartado a) de la ley nº 266/1994 Sb.
 ### 3.4.3 Medios de comunicación
-En relación con la aparición del MU, no se utilizaron antes de su aparición ningún medio de comunicación.
+En relación con la producción del MU, no se utilizaron medios de comunicación antes de su producción.
 
 ## Página 22
+
 
 ### 3.4.4 Material rodante, incluido el dispositivo de registro automático de datos
 HDV 770.507-2, circulando a la cabeza del tren de vía privada 425040, dispone de un 
@@ -643,8 +621,8 @@ destinada a advertir a los usuarios de la vía de servicio que un tren se aproxi
 por el dispositivo de registro del HDV 770.507-2.
 No se detectaron anomalías.
 
-
 ## Página 23
+
 
 ### 3.5.2 Intercambio de partes verbales en relación con la excepción, incluidos los documentos del dispositivo de registro
 En relación con la ocurrencia de la MU, no se realizaron partes verbales 
@@ -680,6 +658,7 @@ una de las causas de la ocurrencia de la MU fueran longitudes de visibilidad ins
 
 ## Página 24
 
+
 ## 4 ANÁLISIS Y CONCLUSIONES
 ## 4.1
 ### Descripción final del suceso ferroviario
@@ -695,6 +674,7 @@ El operador ferroviario AWT, en el sentido del § 22 apartado 1 letra a) de la L
 
 ## Página 25
 
+
 El operador ferroviario AWT, en el sentido del § 22 apartado 1 letra a) de la Ley n.º 266/1994 Sb., no explotaba el ramal Vlečková síť OKD, Doprava, a. s., para las necesidades del tráfico ferroviario fluido y seguro según las normas de explotación ferroviaria y la autorización administrativa, al no garantizar en el paso a nivel en el pk 0,535 (P10627), en el sentido del § 4 apartado 7, § 17 apartado 1 y § 25 apartado 12 del decreto n.º 177/1995 Sb., la seguridad de los usuarios de las vías de comunicación terrestre y al no asegurar que el paso a nivel, por su diseño, cumpliera las condiciones para la explotación segura del tráfico ferroviario, porque:
 • la longitud de visibilidad para el vehículo automóvil Lr, en dirección desde la vía local «Nad Stavy», es decir, en dirección de circulación del vehículo, a la izquierda en dirección hacia el tren de vía privada que se aproximaba, era de 2 m en lugar de los 32 m requeridos. La visibilidad de la vía, es decir, de la cabeza de la locomotora, en toda la longitud de visibilidad de parada Dz, estaba impedida por una densa franja de vegetación adventicia de frambuesa creciente a lo largo de la vía de servicio.
 El operador ferroviario AWT, en el sentido del § 22 apartado 1 letra a) de la Ley n.º 266/1994 Sb., no explotaba el ramal Vlečková síť OKD, Doprava, a. s., para las necesidades del tráfico ferroviario fluido y seguro según las normas de explotación ferroviaria y la autorización administrativa, al no garantizar en el paso a nivel en el pk 0,535 (P10627), en el sentido del § 26 apartado 4 del decreto n.º 177/1995 Sb., la aptitud para la explotación de la vía y la seguridad del tráfico ferroviario, porque:
@@ -704,6 +684,7 @@ El conductor del vehículo automóvil, en el sentido del § 28 apartado 1 y § 2
 El DI no tiene objeciones sobre la actuación de los servicios del sistema de emergencia (IZS).
 
 ## Página 26
+
 
 ## 4.3
 ### Conclusiones
@@ -725,8 +706,8 @@ El gestor de la infraestructura AWT, en el sentido del § 22 apartado 1 letra a)
 • la longitud de visibilidad para el vehículo por carretera más lento Lp, en el sentido desde la vía local «Nad Stavy», es decir, en el sentido de circulación del VU, a la izquierda, era de solo 100 m en lugar de los 172 m requeridos;
 • en el campo visual del vehículo por carretera, en el sentido desde la vía local «Nad Stavy», es decir, en el sentido de circulación del VU, a la derecha, dificultaba la visibilidad hacia la vía la vegetación adventicia, los árboles y los arbustos.
 
-
 ## Página 27
+
 
 ## 5 MEDIDAS ADOPTADAS
 ## 5.1
@@ -746,8 +727,8 @@ director
 Inspección Territorial de Ostrava
 Inspección Territorial de Ostrava
 
-
 ## Página 28
+
 
 ## 7 ANEXOS
 Foto 1: vista del VU dañado

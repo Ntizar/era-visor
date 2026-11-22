@@ -10,13 +10,14 @@ chars: 88525
 ratio_longitud: 1.25
 tokens_in: 46863
 tokens_out: 33509
-verificacion: revisar
-notas_cifras: ["bloque 1: original bilingüe: se compara contra el idioma principal (EN)", "bloque 3: original bilingüe: se compara contra el idioma principal (CS); cifras cortas: 4/182", "bloque 5: original bilingüe: se compara contra el idioma principal (CS)", "bloque 6: original bilingüe: se compara contra el idioma principal (CS)", "bloque 7: original bilingüe: se compara contra el idioma principal (CS)"]
-avisos: ["bloque 5: ratio 1.68", "bloque 7: ratio 1.73"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 3: original bilingüe: se compara contra el idioma principal (PT)", "página 5: original bilingüe: se compara contra el idioma principal (CS)", "página 6: original bilingüe: se compara contra el idioma principal (CS)", "página 9: original bilingüe: se compara contra el idioma principal (CS)", "página 11: original bilingüe: se compara contra el idioma principal (CS)", "página 16: original bilingüe: se compara contra el idioma principal (PT)"]
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -40,13 +41,13 @@ IČ: 75009561
 mail@dicr.cz
 tel.: +420 736 521 003
 
-
 ## Página 2
+
 
 Este informe final es público y todos los hechos en él recogidos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ### 1 RESUMEN
 Fuente: Drážní inspekce
@@ -73,8 +74,8 @@ No fue detectado por la Drážní inspekce ningún factor contribuyente.
 No fue detectada por la Drážní inspekce ninguna causa sistémica.
 No fue emitida por la Drážní inspekce ninguna recomendación de seguridad.
 
-
 ## Página 4
+
 
 ### SUMMARY
 19th June 2022, 9:48 (7:48 GMT).
@@ -106,8 +107,8 @@ Systemic factor:
 none.
 Recommendation: not issued.
 
-
 ## Página 5
+
 
 # Índice
 1 RESUMEN........................................................................................................................3
@@ -149,8 +150,8 @@ SUMMARY.........................................................................
 4.2 Vehículos ferroviarios e instalaciones técnicas...........................................................................29
 4.2.1 Factores o consecuencias derivados del diseño de los vehículos ferroviarios, de la infraestructura ferroviaria o de las instalaciones técnicas.....................................................................29
 
-
 ## Página 6
+
 
 4.2.2 Factores o consecuencias derivados de la instalación y de la puesta en servicio de los vehículos ferroviarios, de la infraestructura ferroviaria o de las instalaciones técnicas......................................29
 4.2.3 Factores o consecuencias relacionados con los fabricantes de vehículos ferroviarios u otros proveedores de productos ferroviarios............................................................................29
@@ -179,8 +180,8 @@ SUMMARY.........................................................................
 5.3 Hallazgos complementarios.......................................................................................................35
 6 RECOMENDACIONES DE SEGURIDAD.....................................................................................35
 
-
 ## Página 7
+
 
 ### Lista de siglas y símbolos utilizados
 CDP
@@ -229,6 +230,7 @@ Technická norma železnic
 
 ## Página 8
 
+
 ### Lista de abreviaturas de disposiciones legales, normas y reglamentos internos utilizados
 ley núm. 266/1994 Sb.
 ley núm. 266/1994 Sb., de ferrocarriles, en la redacción vigente en el momento de producirse el suceso ferroviario
@@ -252,8 +254,8 @@ TNŽ 34 2620 «Instalaciones de seguridad ferroviaria; Instalaciones de segurida
 SŽDC D1
 reglamento interno del explotador de la infraestructura SŽ, «SŽDC D1 Reglamento de circulación y de señales», en la redacción vigente en el momento de producirse el suceso ferroviario
 
-
 ## Página 9
+
 
 | SŽDC D3 | reglamento interno del explotador de la infraestructura SŽ SŽDC D3, « |
 |  | Reglamento para la gestión simplificada del transporte ferroviario» en |
@@ -271,8 +273,8 @@ reglamento interno del explotador de la infraestructura SŽ, «SŽDC D1 Reglamen
 | AK T013 00 | Descripción técnica del fabricante «Desvío de retorno automático SP-03», |
 |  | en la redacción vigente en el momento de producirse el suceso ferroviario |
 
-
 ## Página 10
+
 
 ### 2 INVESTIGACIÓN Y SU CONTEXTO
 ### 2.1 Decisión de iniciar la investigación
@@ -304,8 +306,8 @@ medición de la visibilidad de la señal del semáforo Sv3;
 •
 verificación del correcto funcionamiento del desvío de retorno automático de la aguja n.º 3sv, incluida la medición del tiempo de retorno a la posición final prioritaria;
 
-
 ## Página 11
+
 
 •
 análisis de los documentos solicitados al explotador de la infraestructura y al transportista;
@@ -342,8 +344,8 @@ Coordenadas GPS:
 ### 3.1.3 Descripción del lugar del suceso
 La estación D3 Stupno se encuentra en el ferrocarril regional de vía única Ejpovice – Radnice en el pk 19,614 del tramo de línea Ejpovice – Stupno y en el pk 0,00 del tramo de línea Stupno – Radnice. En el tramo de línea Chrást u Plzně – Radnice, el transporte ferroviario se gestiona de forma simplificada según el reglamento SŽDC D3. La estación D3 Stupno es de remolque, en el pk 19,951 finaliza con un tope. En la cabecera de la estación se encuentra el paso a nivel de vía doble ŽP P463, en el pk 19,373
 
-
 ## Página 12
+
 
 para la vía n.º 1 (tramo de línea Ejpovice – Stupno) y en el pk 0,242 para la vía n.º 2 (tramo de línea Stupno – Radnice). La pendiente en el lugar de producción del suceso ferroviario es 0,0 ‰.
 ## Lugar del suceso ferroviario
@@ -368,8 +370,8 @@ Estado del material rodante ferroviario:
 •
 el tren Os 17806 estaba compuesto por una unidad automotora de dos coches en la composición (en la dirección de circulación hacia la estación D3 Radnice) CZ-ČD 95 54 5 914 172-2 (también ŘV 914.172-2) y CZ-ČD 95 54 5 814 172-3 (también HDV 814.172-3);
 
-
 ## Página 13
+
 
 Fig. n.º 2: Vista general del lugar del suceso ferroviario en la dirección contraria a la circulación del tren Os 17806 
  Fuente: DI
@@ -405,8 +407,8 @@ de la inspección de la cabina de conducción de ŘV 914.172-2, desde la que se 
 ◦la palanca de conducción combinada estaba en la posición «V» – arrastre;
 ◦el conmutador KBS-E estaba configurado en la posición «EXPLOTACIÓN»;
 
-
 ## Página 14
+
 
 ◦el motor diésel no estaba en marcha;
 ◦la manija del freno de inmediato estaba en la posición «B2» – frenado;
@@ -443,6 +445,7 @@ el semáforo de la aguja con desvío de retorno automático Sv3 en el pk 19,446:
 se trataba de un semáforo fijo bajo de mástil que, en el momento de la inspección, señalizaba la correcta desviación de la aguja en la posición prioritaria al circular por la aguja contra la punta, es decir, la señal «Circulación asegurada» (destello de luz blanca);
 
 ## Página 15
+
 
 ∘
 estaba marcado con una placa de señalización negra con borde blanco, que contenía
@@ -518,8 +521,8 @@ en el lado izquierdo, junto a la vía n.º 2, en el pk 0,233 (en el sentido de c
 del tren Os 17806), estaba situada la señal asociada – Placa de aviso con la señal
 «El repetidor se encuentra en el lado opuesto»;
 
-
 ## Página 16
+
 
 •
 el PZZ P463 en el pk 19,373 (0,242) era controlado en el sentido de circulación desde
@@ -575,6 +578,7 @@ del PZZ P463 en el pk 19,373 (0,242).
 
 ## Página 17
 
+
 Fig. n.º 4: Sector circular del control
 desacoplado
      Fuente: DI
@@ -602,6 +606,7 @@ Fig. n.º 5: Posición del sol en el momento de la aparición del MU
    Fuente: www.suncalk.org con modificación del DI
 
 ## Página 18
+
 
 En el lugar del MU no se realizaron, inmediatamente antes de su aparición, trabajos de
 reparación o mantenimiento por parte del propietario, del gestor de la infraestructura ni
@@ -651,6 +656,7 @@ El transportista del tren Os 17806 eran ČD, con domicilio en Nábřeží L. Svo
 Praha 1, PSČ 110 15.
 
 ## Página 19
+
 
 El transporte ferroviario se prestaba en virtud de un contrato celebrado entre el gestor
 de la infraestructura SŽ y el transportista ČD el 20 de enero de 2020, con efectos desde
@@ -708,6 +714,7 @@ De los datos registrados se desprende:
 
 ## Página 20
 
+
 •
 9:45:09 h – activación de la cabina de conducción 2 (RV) del tren Os 17806;
 •
@@ -744,6 +751,7 @@ La circulación en el tramo de línea Chrást u Plzně – Radnice se organiza c
 
 ## Página 21
 
+
 n.º 173/1995 Sb., el llamado procedimiento simplificado del tráfico ferroviario. Las reglas para la organización del procedimiento simplificado y la garantía de seguridad del tráfico ferroviario están establecidas por las disposiciones internas del explotador de la vía SŽDC D3 y PND3 Ejpovice – Radnice. La sede del despachador director se encuentra en la est. Plzeň hl. n.
 La aguja n.º 3sv en el pk 19,442 estaba equipada con un cierre de cambio de lengüeta y un aparato de maniobra autorretornante SP-03 en versión derecha. La aguja estaba provista de un contrapeso de cambio de color amarillo y negro y de una señal de aguja. En el momento de la aparición del MU estaba conectada al modo autorretornante. Se trataba de una aguja simple de lado izquierdo tipo S49 1:9-190 Lp d nov komb, sobre traviesas de madera, que se insertó en la vía en el año 1980. El aparato de maniobra autorretornante SP-03 estaba, en el momento de la aparición del MU, equipado con un cilindro hidráulico HVO-2 n.º de fabricación 21-2000, fecha de puesta en servicio 29. 10. 2020, fabricante AK signal Brno, a. s. Para la comprobación del alcance de la posición prioritaria de la aguja para la circulación contra la punta, se instaló una comprobación eléctrica deslocalizada DK/SP-03 con la señal Sv3 tipo ATE 21600. El aparato de maniobra autorretornante garantiza la fuerza de retención de la aguja en la posición prioritaria y, tras el cambio no destructivo de la rueda DV circulando por la punta de la aguja por la lengüeta alejada, su retorno automático a la posición prioritaria, es decir, para la circulación de DV contra la punta a través de la aguja n.º 3sv hacia la vía n.º 2.
 El PZZ del paso a nivel P463 tipo PZZ RE en el pk 19,373 (pk 0,242) es operado en el sentido de circulación de DV desde la estación D3 Stupno hacia la estación D3 Chrást u Plzně y hacia la estación D3 Radnice por el maquinista mediante un localizador, que tiene en su manojo el Llave principal de conjuntos. El estado de cierre o apertura del PŽP se señala al maquinista mediante la señal OX003 en el pk 0,233 para el sentido de circulación hacia la estación D3 Radnice y mediante la señal OX194 en el pk 19,382 para el sentido de circulación hacia la estación D3 Chrást u Plzně con las señales «Paso a nivel cerrado» o «Paso a nivel abierto». Tras la introducción de la orden mediante el localizador, se inicia un periodo de preaviso de 45 s, tras el cual se enciende en el repetidor de paso a nivel correspondiente al sentido de circulación la señal «Paso a nivel cerrado». A continuación, se mide el periodo límite de aviso de 124 s. Tras su transcurso, se apaga la señal «Paso a nivel cerrado» y, tras transcurrir otros 188 s, se produce la apertura del PŽP P463. Tras la salida de DV de la estación D3 Stupno, el PZZ se restablece automáticamente al estado base.
@@ -756,8 +764,8 @@ la última inspección de vías y agujas se realizó el día 17. 6. 2022 sin def
 del Acta de la prueba de recepción realizada del aparato de maniobra autorretornante de la aguja n.º 3sv del día 15. 5. 2022 se desprende que, en la realización de la prueba de bloqueo (galga de 6 mm), en la prueba de dependencias del enclavamiento de bloqueo y en la comprobación deslocalizada, en la cantidad de aceite del cilindro hidráulico y en su funcionamiento, no se detectaron defectos. El tiempo de retorno de la aguja n.º 3sv a la posición prioritaria (marcha atrás de la aguja, tiempo de maniobra) se midió en 23 s.
 La última prueba de visibilidad de las señales en circulación del tren en el tramo entre estaciones Ejpovice – Radnice fue realizada por una persona cualificada del explotador de la vía el día 24. 5. 2022 sin defectos detectados.
 
-
 ## Página 22
+
 
 Inmediatamente después de la aparición del MU, el explotador de la vía realizó, en presencia de los inspectores de DI, la medición de los parámetros del superestructura ferroviaria, incluida la medición de la aguja n.º 3sv. De la evaluación de los valores medidos según la norma técnica ČSN 73 6360-2 y la disposición interna del explotador de la vía SŽDC S3 se detectó, entre otros:
 •
@@ -774,8 +782,8 @@ Las partes de la vía no guardaban relación causal con la aparición del MU.
 En la Descripción técnica AK T013 00 se establece que el tiempo de marcha atrás en la primera fase (lenta) es de 8 – 25 s, en la segunda fase (rápida) de aprox. 3 s. El tiempo total de retorno de la aguja a la posición prioritaria es, por tanto, de 11 – 28 s. Inmediatamente después de la aparición del MU se realizaron tres ensayos de verificación de la prueba del mecanismo autorretornante de la aguja n.º 3sv, cuya parte era, entre otras, también la medición del tiempo de maniobra, es decir, del tiempo necesario para devolver la parte de cambio de la aguja a la posición final prioritaria y el posterior encendido de la señal «Circulación asegurada» en la señal luminosa Sv3. En el primer ensayo se produjo el cambio de la aguja a la posición prioritaria en 28 s y el encendido de la señal «Circulación asegurada» en la señal luminosa Sv3. En los dos ensayos siguientes no se produjo el retorno de las lengüetas de la aguja a la posición prioritaria. Sobre la base de los resultados de estos ensayos de verificación, en los que no se detectó el correcto funcionamiento del aparato de maniobra autorretornante de la aguja n.º 3sv, la aguja se puso en modo de cambio manual, se cambió a la dirección recta hacia la vía n.º 1 en la estación D3 Chrást u Plzně y se cerró con un cierre de cambio portátil. El cilindro hidráulico HVO-2 del aparato de maniobra autorretornante de la aguja n.º 3sv fue desmontado por el fabricante del aparato autorretornante, en el marco de la garantía de servicio, para la detección del defecto de funcionalidad según el art. 2.3.4 AK T013 00, cuando en caso de detectarse fugas o mal funcionamiento del cilindro hidráulico, el fabricante realiza una revisión de servicio por sustitución. La propia revisión de servicio del cilindro hidráulico retirado fue realizada por un subcontratista del fabricante del dispositivo autorretornante.
 El explotador de la vía procesó los datos de la actividad de la aguja n.º 3sv equipada con el aparato de maniobra autorretornante en el intervalo de una semana antes de la aparición del MU. DI realizó el análisis de los registros de los trenes circulando por la punta de la aguja n.º 3sv en los días en que la temperatura diaria del aire era más alta, con el fin de determinar si la temperatura ambiente influye en el funcionamiento del aparato de maniobra autorretornante de la aguja n.º 3sv.
 
-
 ## Página 23
+
 
 12. 06. 2022 – domingo
 temp. máx. diaria a la sombra +24 °C
@@ -863,100 +871,106 @@ Nota: la diferencia entre el tiempo registrado y el tiempo real fue de +55 min 2
 De las tablas se desprende que el tiempo de retorno de la aguja a la posición prioritaria hasta la aparición del MU correspondía a la documentación técnica del fabricante, es decir, 8 – 25 s. Es, por tanto, evidente que la temperatura ambiente no tuvo influencia en el funcionamiento del aparato de maniobra autorretornante y sus parámetros ambientales correspondían a la clase T1 según ČSN EN 50125-3 con una extensión de -38 °C a +80 °C.
 Del Acta de la reparación media del cilindro hidráulico HVO-2 y su prueba en las condiciones acordadas del día 30. 8. 2022 se desprende que el subcontratista inspeccionó el cilindro hidráulico y no encontró ningún defecto de funcionalidad que fuera la causa de la avería del cilindro. A continuación, en el marco de la reparación media, se sustituyó la junta y el relleno de aceite – DEXRON III. El día 22. 8. 2022 se probó la marcha atrás del vástago en la primera fase – la llamada marcha lenta del vástago, y se midieron los tiempos de marcha atrás en el intervalo de 11,2 – 11,4 s. Los valores medidos y el relleno de aceite correspondían a AK T013 00.
 
-
 ## Página 24
 
-La estación D3 Stupno está equipada con un SZZ tipo dispositivo de enclavamiento mecánico con aparatos de maniobra autorretornantes de las agujas n.º 1sv, 2sv, 3sv y 4sv. Según la TNŽ 34 2620 se trata de un dispositivo de enclavamiento de 1.ª categoría.
-El registro del estado de la posición final prioritaria de las agujas mencionadas con aparatos de maniobra autorretornantes en la estación D3 Stupno se transmitía al sistema de diagnóstico situado en la caseta tecnológica del PZZ PŽP P463.
-Del análisis del archivo de datos del sistema de diagnóstico del PZZ PŽP P 463 se desprende:
+La estación de tráfico D3 Stupno está equipada con un sistema de señalización automática de tipo dispositivo de señalización mecánico con desvías de cambio automático n.º 1sv, 2sv, 3sv y 4sv. Según TNŽ 34 2620 se trata de un dispositivo de señalización de 1.ª categoría.
+El registro del estado de la posición preferente final de las desvías mencionadas con cambio automático en la estación de tráfico D3 Stupno se transmitió al sistema de diagnóstico situado en la caseta tecnológica PZZ ŽP P463.
+Del análisis del archivo de datos del sistema de diagnóstico PZZ ŽP P463 se deduce:
 •
-9:41:27 h – ocupación del tramo 1AJ por la circulación del tren Os 17806, activación de la alarma del PZZ PŽP P463, en la señal Sv3 había la señal «Circulación asegurada»;
+9:41:27 h – ocupación del tramo 1AJ por la circulación del tren Os 17806, activación de la alarma PZZ ŽP P463, en el semáforo Sv3 la señal "Circulación asegurada";
 •
-9:42:25 h – cambio (no destructivo) de la aguja n.º 3sv por la circulación del tren Os 17806, apagado de la señal «Circulación asegurada» en la señal Sv3, ocupación del tramo 1BJ, finalización de la alarma del PZZ PŽP P463;
+9:42:25 h – cambio (no destructivo) de la desvía n.º 3sv por la circulación del tren Os 17806, apagado de la señal "Circulación asegurada" en el semáforo Sv3, ocupación del tramo 1BJ, finalización de la alarma PZZ ŽP P463;
 •
-9:47:25 h – activación de la alarma del PZZ PŽP P463 por el maquinista del tren Os 17806 mediante el localizador, duración de la pérdida de la posición prioritaria de la aguja con aparato de maniobra autorretornante n.º 3sv, en la señal Sv3 no había la señal «Circulación asegurada»;
+9:47:25 h – activación de la alarma PZZ ŽP P463 por el maquinista del tren Os 17806 mediante el localizador, duración de la pérdida de la posición preferente de la desvía con cambio automático n.º 3sv, en el semáforo Sv3 no había señal "Circulación asegurada";
 •
-9:48:31 h – ocupación del tramo 1BJ y posterior cambio de la aguja n.º 3sv por la circulación
-### del tren Os 17806 a la posición prioritaria – aparición del MU.
+9:48:31 h – ocupación del tramo 1BJ y posterior cambio de la desvía n.º 3sv por la circulación
+### del tren Os 17806 a la posición preferente – generación de MU.
 Nota: la diferencia entre el tiempo registrado y el tiempo real fue de + 55 min 22 s.
 ### 3.1.9 Cualquier otra información relevante para los fines de la descripción del suceso y de la información básica
-Resumen de las explicaciones prestadas por los empleados del explotador de la vía y del transportista, incluidas las personas en relación contractual:
+Resumen de las explicaciones presentadas por los empleados del gestor de la infraestructura y del transportista, incluidas las personas en relación contractual:
 •
 maquinista del tren Os 17806
   – Acta con el empleado:
 ◦embarcó en el tren Os 17806 en la est. Plzeň hl. n.;
 ◦se trataba de su primera circulación del día 19. 6. 2022, que comenzó a las 9:05 h;
-◦circulaba por la aguja n.º 3sv por la punta al llegar a la estación D3 Stupno;
-◦hasta la llegada a la estación D3 Stupno no registró un comportamiento no estándar del tren;
-◦tras detenerse en el andén de la estación D3 Stupno abrió las puertas para el desembarque y embarque de pasajeros;
-◦notificó la llegada a la estación D3 Stupno al despachador director de la est. Plzeň hl. n. y solicitó el permiso de salida hacia la estación D3 Radnice a la hora 9:48 h;
-◦pasó al extremo opuesto del tren (a la cabina ŘV 914.172-2, nota de DI);
-◦operó el PZZ PŽP P463 con el localizador, tras cerrar el paso a nivel se encendió la señal «Paso a nivel cerrado» en el repetidor OX003 en el pk 0,233;
-◦a la hora de salida 9:48 h cerró las puertas, miró la luz intermitente Sv3 del aparato de maniobra autorretornante, registró su parpadeo y a continuación arrancó;
+◦al entrar en la estación de tráfico D3 Stupno abordó la desvía n.º 3sv por la punta;
+◦hasta su llegada a la estación de tráfico D3 Stupno no registró un comportamiento anormal del tren;
+◦tras detenerse en el andén de la estación de tráfico D3 Stupno abrió las puertas para el desembarque y embarque de los pasajeros;
+◦notificó su llegada a la estación de tráfico D3 Stupno al despachador director de la est. Plzeň hl. n. y solicitó el permiso de salida hacia la estación de tráfico D3 Radnice a las 9:48 h;
+◦pasó al extremo opuesto del tren (a la cabina ŘV 914.172-2, nota DI);
+◦operó el PZZ ŽP P463 mediante el localizador, tras cerrar el paso a nivel se encendió la señal "Paso a nivel cerrado" en el indicador de paso a nivel OX003 en km 0,233;
+◦a la hora de salida 9:48 h cerró las puertas, miró la luz intermitente Sv3 del cambio automático, registró su parpadeo y a continuación arrancó;
 
 ## Página 25
 
 ◦al pasar por el desvío n.º 3sv, el ŘV 914.172-2 osciló, por lo que inició frenado de acción rápida;
-◦tras detenerse y comprobar los hechos, revisó a los pasajeros y comunicó la aparición de la MU al despachador director de la est. Plzeň hl. n.;
+◦tras detenerse y comprobar los hechos, revisó a los pasajeros y comunicó la aparición de la MU al director de maniobras de la estación Plzeň hl. n.;
 ◦su percepción de las señales se vio afectada por la radiación solar.
 Resumen de las explicaciones prestadas por los testigos:
 •
-testigo, despachador director de la est. Plzeň hl. n.
+testigo, director de maniobras de la estación Plzeň hl. n.
   – Acta con el empleado:
-◦el 19. 6. 2022 desempeñaba el servicio de despachador director para las líneas D3 Ejpovice – Radnice y Pňovany – Bezdružice en el aparato de enclavamiento central Triangl, en la est. Plzeň hl. n.;
+◦el 19. 6. 2022 desempeñaba el servicio de tráfico de director de maniobras para las líneas D3 Ejpovice – Radnice y Pňovany – Bezdružice en el puesto de mando central Triangl, en la estación Plzeň hl. n.;
 ◦desde el inicio del turno circulaban por la línea D3 Ejpovice – Radnice los trenes Os 17802 y Os 17807;
-◦nadie le había comunicado ninguna avería ni incidencia en el funcionamiento de los desvíos de muelle automático;
-◦el tren Os 17806 llegó a la estación D3 Stupno puntualmente, es decir, a las 9:44 h;
-◦el maquinista del tren Os 17806, a través de la comunicación radiofónica TRS, comunicó la llegada y, al mismo tiempo, solicitó la autorización de salida de la estación D3 Stupno a la estación D3 Radnice a la hora 9:48 h;
-◦concedió la autorización de salida del tren Os 17806 de la estación D3 Stupno;
-◦a las 9:51 h, el maquinista del tren Os 17806 comunicó por teléfono móvil que, por causas desconocidas, se había descarrilado antes del ŽP P463 en el pk 19,373 (0,242);
+◦nadie le había comunicado ningún defecto ni avería en el funcionamiento de los desviables de retorno automático;
+◦el tren Os 17806 llegó puntualmente a la estación D3 Stupno, es decir, a las 9:44 h;
+◦el maquinista del tren Os 17806 comunicó la llegada por medio de la comunicación radiofónica TRS y, al mismo tiempo, solicitó el permiso de salida de la estación D3 Stupno hacia la estación D3 Radnice a la hora 9:48 h;
+◦concedió el permiso de salida del tren Os 17806 de la estación D3 Stupno;
+◦a las 9:51 h el maquinista del tren Os 17806 comunicó por teléfono móvil que, por causa desconocida, se había descarrilado antes del PFP P463 en el km 19,373 (0,242);
 ◦acordaron conjuntamente que el maquinista garantizaría la salida segura de los pasajeros del tren;
-◦comunicó la aparición de la MU según el plan de notificación y participó en la organización del transporte por autobús alternativo.
+◦comunicó la aparición de la MU según el horario de notificación y participó en la organización del transporte alternativo por autobús.
 ### 3.2 Descripción fáctica del suceso
-### 3.2.1 Secuencia de hechos que condujeron al suceso extraordinario
-El 19. 6. 2022 a las 9:29 h partió el tren Os 17806 tras la autorización de circulación concedida por el despachador director de la est. Plzeň hl. n. desde la estación D3 Chrást u Plzně zastávka al sector de vía de la línea Chrást u Plzně zastávka – Stupno. La entrada en la estación D3 Stupno se realizó por la vía n.º 1 a través del desvío n.º 1sv en aguja contra punta en posición de preferencia en el sentido directo en régimen de muelle automático y, a continuación, a través del desvío n.º 3sv en punta en régimen de muelle automático, que desplazó de forma no destructiva con su circulación, y continuó por la vía n.º 1 hasta el lugar de parada regular de entrada y salida de pasajeros, donde se detuvo a las 9:42 h. Posteriormente, el maquinista del tren Os 17806 comunicó al despachador director de la est. Plzeň hl. n. la llegada del tren Os 17806 a la estación D3 Stupno y, al mismo tiempo, le solicitó la autorización de circulación al sector de vía de la línea Stupno – Radnice. Recibió la autorización de circulación inmediatamente. A continuación, el maquinista pasó de la cabina del HDV 814.172-3 a la cabina del ŘV 914.172-2. Con el localizador activó el cierre del PZZ ŽP P463. Se cercioró, según su declaración, de la señal «Cruce cerrado» en el semáforo del repetidor de cruce OX003 y registró la señal «Circulación asegurada»
-
+### 3.2.1 Secuencia de hechos que condujeron al suceso excepcional
+El 19. 6. 2022 a las 9:29 h partió el tren Os 17806 tras la concesión del permiso de circulación por el director de maniobras de la estación Plzeň hl. n. desde la estación D3 Chrást u Plzně zastávka hacia el sector espacial de la línea Chrást u Plzně zastávka – Stupno. La entrada en la estación D3 Stupno se realizó por la vía n.º 1 a través del desvío n.º 1sv en contra de la aguja en posición prioritaria en dirección directa en modo de retorno automático y, a continuación, a través del desvío n.º 3sv por la aguja en modo de retorno automático, que desplazó de forma no destructiva con su circulación, y continuó por la vía n.º 1 hasta el lugar de parada regular de bajada y subida de pasajeros, donde se detuvo a las 9:42 h. Posteriormente, el maquinista del tren Os 17806 comunicó al director de maniobras de la estación Plzeň hl. n. la llegada del tren Os 17806 a la estación D3 Stupno y, al mismo tiempo, le solicitó el permiso de circulación hacia el sector espacial de la línea Stupno – Radnice. El permiso de circulación le fue concedido de inmediato. A continuación, el maquinista pasó de la cabina del HDV 814.172-3 a la cabina del ŘV 914.172-2. Mediante el localizador activó el cierre del PFP PFP P463. Se cercioró, según su declaración, de la señal «Cruce cerrado» en el semáforo del repetidor de cruce OX003 y registró la señal «Circulación asegurada».
 
 ## Página 26
 
-del semáforo Sv3. A la hora de salida cerró las puertas de acceso y se puso en marcha en dirección a la estación D3 Radnice. Al pasar por el desvío n.º 3sv se produjo el descarrilamiento del ŘV con ambos ejes a la derecha en el sentido de circulación, no produciéndose el descarrilamiento del HDV.
-### 3.2.2 Secuencia de hechos desde la aparición del suceso extraordinario hasta la finalización de las actuaciones de los servicios de emergencia
+señalizaciones Sv3. A la hora de salida cerró las puertas de acceso y se puso en marcha en dirección a la estación de tráfico D3
+Radnice. Al pasar por el desvío n.º 3sv se produjo el descarrilamiento del RV por ambos ejes hacia la derecha en
+dirección de marcha, no produciéndose el descarrilamiento del HDV.
+### 3.2.2 Secuencia de hechos desde la aparición del suceso extraordinario hasta la finalización de las acciones de los servicios de emergencia
 •
 9:51 h
-comunicación de la aparición de la MU por el maquinista del tren Os 17806 al despachador director de la est. Plzeň hl. n.;
+comunicación de la aparición del SE por parte del maquinista del tren Os 17806 al jefe de maniobras
+de la estación de Plzeň hl. n.;
 •
 9:52 h
-comunicación de la aparición de la MU por el despachador director de la est. Plzeň hl. n. según el plan de notificación;
+comunicación de la aparición del SE por parte del jefe de maniobras de la estación de Plzeň hl. n. según
+el horario de notificación;
 •
 9:56 h
-comunicación de la aparición de la MU por el despachador director de la est. Plzeň hl. n. al despachador jefe de CDP Praha – OŘP para el área de Praga;
+comunicación de la aparición del SE por parte del jefe de maniobras de la estación de Plzeň hl. n. al jefe de
+maniobras del CDP Praha – OŘP para el área de Praga;
 •
-10:13 h comunicación de la aparición de la MU por el despachador jefe de CDP Praha – OŘP para el área de Praga a la O18 SŽ;
+10:13 h comunicación de la aparición del SE por parte del jefe de maniobras del CDP Praha – OŘP para el área
+de Praga al O18 SŽ;
 •
-10:16 h notificación de la aparición de la MU por la persona designada de la O18 SŽ al COP DI;
+10:16 h notificación de la aparición del SE por parte de la persona autorizada del O18 SŽ al COP DI;
 •
-13:05 h inspección del lugar de aparición de la MU por empleados de la DI;
+13:05 h inspección del lugar de aparición del SE por parte de empleados del DI;
 •
-13:20 h autorización de liberación de la vía por el inspector de la DI presente;
+13:20 h concesión de la autorización para la liberación de la vía por parte del inspector del DI presente;
 •
-17:45 h restablecimiento de la circulación en el tramo est. Ejpovice – estación D3 Stupno,
-(bloqueo del desvío n.º 3sv en el sentido directo);
+17:45 h reanudación de la circulación en el tramo entre la estación de Ejpovice – estación de tráfico D3 Stupno,
+(bloqueo del desvío n.º 3sv en posición de vía directa);
 20. 6. 2022
 •
-13:00 h restablecimiento de la circulación sin restricciones (circulación restablecida también en el tramo estación D3 Stupno – estación D3 Radnice).
-El Plan IZS se activó en función de la naturaleza de la MU. El Plan IZS fue activado a las 9:52 h, es decir, 4 minutos después de la aparición de la MU, por el despachador director de la est. Plzeň hl. n.
-En el lugar de la MU intervinieron los siguientes componentes del IZS:
+13:00 h reanudación de la circulación sin restricciones (circulación reanudada también en el tramo estación de tráfico D3
+Stupno – estación de tráfico D3 Radnice).
+El Plan de IZS fue activado en función de la naturaleza del SE. El Plan de IZS fue activado a las 9:52 h, es decir, 4 minutos
+después de la aparición del SE, por el jefe de maniobras de la estación de Plzeň hl. n.
+En el lugar del SE intervinieron los siguientes componentes del IZS:
 •
-Cuerpo de Bomberos y Salvamento de la SŽ, Unidad de Protección contra Incendios de Plzeň;
+Cuerpo de Bomberos y Rescate del SŽ, Unidad de Protección contra Incendios de Plzeň;
 •
-Cuerpo de Bomberos y Salvamento de la Región de Plzeň, Estación de Bomberos de Radnice.
+Cuerpo de Bomberos y Rescate de la Región de Plzeň, Estación de Bomberos de Radnice.
 ### 4 ANÁLISIS DEL SUCESO
-### 4.1 Funciones y obligaciones
+### 4.1 Tareas y obligaciones
 ### 4.1.1 Transportistas y gestores de infraestructura
-El gestor de la infraestructura estaba obligado, según lo dispuesto en la Ley n.º 266/1994 Sb., entre otros, a explotar la infraestructura para las necesidades del transporte ferroviario fluido y seguro de acuerdo con las normas de explotación de la infraestructura y la autorización administrativa, y a garantizar que el sistema de seguridad del gestor de la infraestructura por él establecido tuviera en cuenta el alcance y el objeto de su actividad y de las actividades de los distintos transportistas realizadas en la infraestructura por él explotada, permitiera la explotación de la infraestructura y del transporte ferroviario de conformidad con las especificaciones técnicas de interoperabilidad, otras normas jurídicas y los certificados del transportista, y fuera cumplido.
-
+El gestor de la infraestructura estaba, de acuerdo con las disposiciones de la Ley n.º 266/1994 Sb., entre otras obligaciones, a operar la infraestructura para las necesidades del transporte ferroviario fluido y seguro de acuerdo con las normas de explotación de la infraestructura y la autorización administrativa, y garantizar que el sistema de seguridad del gestor de la infraestructura por él establecido tuviera en cuenta el alcance y el objeto de su actividad y de las actividades de los distintos transportistas realizadas en la infraestructura por él explotada, permitiera la explotación de la infraestructura y del transporte ferroviario de conformidad con las especificaciones técnicas de interoperabilidad, otras disposiciones legales y los certificados del transportista, y fuera cumplido.
 
 ## Página 27
+
 
 El gestor de la infraestructura estableció los procedimientos tecnológicos de explotación de la infraestructura y del transporte ferroviario relativos a la seguridad de la circulación de los trenes, que están contenidos en la norma interna SŽDC D1, es decir, en relación con la MU en cuestión, principalmente la determinación de las condiciones de circulación a través de desvíos con desvío de muelle automático en los casos en que no se muestra la señal «Circulación asegurada» en el semáforo.
 En la investigación no se detectó infracción de las funciones y obligaciones del gestor de la infraestructura, tanto en relación causal como fuera de relación causal con la aparición de la MU.
@@ -972,8 +986,8 @@ En la investigación se detectó infracción de las normas jurídicas y de las n
 •
 § 35 apartado 1 letra a) de la Ley n.º 266/1994 Sb.:
 
-
 ## Página 28
+
 
 «El transportista está obligado a explotar el transporte ferroviario de acuerdo con las normas de explotación del transporte ferroviario, ...»;
 •
@@ -1003,6 +1017,7 @@ La autoridad nacional de seguridad es el Drážní úřad, que de acuerdo con la
 
 ## Página 29
 
+
 de infracciones. La obligación de la Oficina Ferroviaria es comunicar, en un plazo de 12 meses a partir de la fecha de publicación del informe final que contenga las recomendaciones de seguridad dirigidas a la misma, a la Inspección Ferroviaria qué medida ha adoptado en relación con dicha recomendación de seguridad; esta comunicación se realiza de forma periódica, al menos una vez al año, hasta la adopción de las medidas correspondientes.
 La función de la Agencia de la Unión Europea para los Ferrocarriles es, además de garantizar, en el marco de sus competencias, que se mantenga la seguridad ferroviaria en general y que, si es posible, se aumente de forma sistemática, entre otras, la emisión, renovación, suspensión y modificación de certificados únicos de seguridad, la limitación de su validez o su anulación, en cuestión en la que coopera con las autoridades nacionales de seguridad; asimismo, emite autorizaciones para la puesta en servicio de vehículos ferroviarios y de tipos de vehículos en el mercado, y está facultada para renovar, modificar, suspender o anular las autorizaciones que haya emitido. La Agencia evalúa asimismo los proyectos de normativa nacional, etc.
 En la investigación no se detectó incumplimiento de las funciones y obligaciones de la autoridad nacional de seguridad y de la Agencia de la Unión Europea para los Ferrocarriles.
@@ -1020,28 +1035,28 @@ En la investigación no se detectaron factores derivados de la instalación y la
 ### 4.2.3 Factores o consecuencias relacionados con los fabricantes de vehículos ferroviarios u otros proveedores de productos ferroviarios
 En la investigación no se detectaron factores relacionados con los fabricantes de vehículos ferroviarios u otros proveedores de productos ferroviarios.
 
-
 ## Página 30
 
-### 4.2.4 Factores o consecuencias derivados del mantenimiento y la modificación de los vehículos ferroviarios o de las instalaciones técnicas
-En la investigación no se detectaron factores derivados del mantenimiento y la modificación de los vehículos ferroviarios o de las instalaciones técnicas.
-### 4.2.5 Factores o consecuencias relacionados con el organismo responsable del mantenimiento de los vehículos ferroviarios, los talleres de mantenimiento y otros prestadores de servicios de mantenimiento
-En la investigación no se detectaron factores relacionados con el organismo responsable del mantenimiento de los vehículos ferroviarios, los talleres de mantenimiento y otros prestadores de servicios de mantenimiento.
-4.2.6 Otros factores o consecuencias que se consideren relevantes a efectos de la investigación
-En la investigación no se detectaron otros factores relacionados con los vehículos ferroviarios, la infraestructura ferroviaria o las instalaciones técnicas.
+### 4.2.4 Factores o consecuencias derivados del mantenimiento y la modificación de vehículos ferroviarios o instalaciones técnicas
+En la investigación no se detectaron factores derivados del mantenimiento y la modificación de vehículos ferroviarios o instalaciones técnicas.
+### 4.2.5 Factores o consecuencias relacionados con el sujeto responsable del mantenimiento de vehículos ferroviarios, los talleres de mantenimiento y otros prestadores de servicios de mantenimiento
+En la investigación no se detectaron factores relacionados con el sujeto responsable del mantenimiento de vehículos ferroviarios, los talleres de mantenimiento y otros prestadores de servicios de mantenimiento.
+4.2.6 Otros factores o consecuencias que se consideran relevantes a efectos de la investigación
+En la investigación no se detectaron otros factores relacionados con vehículos ferroviarios, infraestructura ferroviaria o instalaciones técnicas.
 ### 4.3 Factores humanos
 ### 4.3.1 Características humanas e individuales
-Los requisitos aplicables al personal de la empresa explotadora de la infraestructura y al transportista, en particular los requisitos de idoneidad profesional y sanitaria, están establecidos en la Ley n.º 266/1994 Sb., el Decreto n.º 173/1995 Sb., el Decreto n.º 101/1995 Sb., el Decreto n.º 16/2012 Sb. y en la normativa interna de la empresa explotadora de la infraestructura y del transportista.
-La Inspección Ferroviaria, en su investigación del factor humano, trató de evaluar todas las influencias que pudieran haber actuado sobre el personal implicado y que pudieran haber tenido, en su caso, incidencia en la ocurrencia de este SU. En el caso del maquinista del tren Os 17806, se evaluaron principalmente sus experiencias, conocimientos y antigüedad. Trabajó como maquinista de forma ininterrumpida desde el año 2015 hasta la ocurrencia del SU. Circulaba regularmente por la línea Ejpovice – Radnice desde octubre de 2016. El maquinista contaba, por tanto, con una antigüedad suficientemente larga y, según la documentación del transportista ČD, estaba acreditadamente familiarizado con las condiciones de la línea.
-La Inspección Ferroviaria, mediante la investigación, constató que el maquinista estaba cualificado profesionalmente para el desempeño de la función de maquinista y que su antigüedad, experiencia y conocimientos no tuvieron incidencia en la ocurrencia de este SU.
-En la investigación no se detectaron factores relacionados con la formación profesional del personal implicado, el maquinista del tren Os 17806.
-El personal implicado del transportista ČD, maquinista del tren Os 17806, se sometía a reconocimientos médicos periódicos de conformidad con lo dispuesto en el Decreto n.º 101/1995 Sb. y, con base en el informe médico presentado sobre su idoneidad sanitaria para el trabajo, en el momento de la ocurrencia del SU estaba sanitariamente apto para el desempeño de su función.
-En la investigación no se detectaron factores relacionados con la formación profesional del personal, el estado de salud y la situación personal, incluido el estrés físico y psicológico.
+Los requisitos aplicables a los empleados del gestor de la infraestructura y del transportista, en particular los requisitos de idoneidad profesional y sanitaria, están establecidos por la Ley n.º 266/1994 Sb., el Decreto n.º 173/1995 Sb., el Decreto n.º 101/1995 Sb., el Decreto n.º 16/2012 Sb. y las normas internas del gestor de la infraestructura y del transportista.
+La Inspección Ferroviaria, en su investigación del factor humano, trató de evaluar todas las influencias que pudieron actuar sobre los empleados implicados y que pudieron haber tenido, en su caso, incidencia en la producción de este MU.
+En el caso del maquinista del tren Os 17806, se trató principalmente de evaluar su experiencia, conocimientos y antigüedad en el puesto. Trabajó como maquinista de forma ininterrumpida desde el año 2015 hasta la producción del MU. Circuló regularmente por la línea Ejpovice – Radnice desde octubre de 2016. El maquinista tenía, por tanto, una antigüedad suficientemente larga y, según la documentación del transportista ČD, estaba acreditadamente familiarizado con las condiciones de la línea.
+La Inspección Ferroviaria determinó en su investigación que el maquinista estaba cualificado profesionalmente para el desempeño de la función de maquinista y que su antigüedad en el puesto, experiencia y conocimientos no tuvieron incidencia en la producción de este MU.
+En la investigación no se detectaron factores relacionados con la formación profesional del empleado implicado, maquinista del tren Os 17806.
+El empleado implicado del transportista ČD, maquinista del tren Os 17806, se sometía a reconocimientos médicos periódicos de conformidad con lo dispuesto en el Decreto n.º 101/1995 Sb. y, con base en el informe médico presentado sobre su idoneidad sanitaria para el trabajo, en el momento de la producción del MU estaba sanitariamente apto para el desempeño de su función.
+En la investigación no se detectaron factores relacionados con la formación profesional de los empleados, el estado de salud y la situación personal, incluido el estrés físico y psicológico.
 ### 4.3.2 Factores laborales
-En la investigación no se detectaron factores relacionados con el contenido del trabajo o la jornada laboral del personal. En la investigación no se constató, en el personal implicado, el incumplimiento de
-
+En la investigación no se detectaron factores relacionados con el contenido del puesto de trabajo o la jornada laboral de los empleados. En la investigación no se constató, en el empleado implicado, el incumplimiento
 
 ## Página 31
+
 
 las condiciones de descanso antes del turno y de los descansos, o bien del tiempo adecuado para el descanso y la alimentación durante el turno.
 ### 4.3.3 Factores organizativos y tareas
@@ -1062,8 +1077,8 @@ El sistema de gestión de los organismos responsables del mantenimiento de los v
 ### 4.4.5 Resultados de la supervisión realizada por las autoridades nacionales de seguridad
 Atendiendo a los factores y circunstancias detectados de la ocurrencia del SU, la supervisión de la autoridad de seguridad no guarda relación con el SU en cuestión.
 
-
 ## Página 32
+
 
 ### 4.4.6 Aprobaciones, certificados e informes de evaluación emitidos por la Agencia, las autoridades nacionales de seguridad u otros organismos de evaluación de la conformidad
 La empresa explotadora de la infraestructura explotaba la infraestructura con base en una autorización administrativa vigente y un certificado de seguridad de la empresa explotadora de la infraestructura. El transportista realizaba el transporte ferroviario con base en una licencia vigente y un certificado del transportista.
@@ -1089,6 +1104,7 @@ del 1. 4. 2022, en la estación de enlace D3 Bavorov, donde se produjo una circu
 
 ## Página 33
 
+
 La Inspección Ferroviaria emitió a la Autoridad Ferroviaria, sobre la base de los resultados de la investigación de las causas y circunstancias del surgimiento de la UE del 29. 4. 2018 en la estación de tráfico D3 Lhotka u Mělníka, la recomendación de seguridad contenida en el Informe final sobre los resultados de la investigación de la excepcionalidad n.º de ref.: 6-1527/2018/DI, de fecha 5. 3. 2018, con la que la Autoridad Ferroviaria recomendó considerar a los operadores de desvíos con mecanismo de retorno automático la adición a la señal activa "Tráfico asegurado" de una señal activa que prohíba la circulación adicional para los casos en que el desvío en modo de retorno automático no esté correctamente conmutado en la posición de prioridad.
 La Inspección Ferroviaria recibió de la Autoridad Ferroviaria, de acuerdo con lo dispuesto en el § 53e apartado 4 de la ley n.º 266/1994 Sb., las medidas adoptadas en relación con la recomendación de seguridad emitida sobre la base de los resultados de la investigación de las causas y circunstancias de la UE del 29. 4. 2018. En la carta "Medidas adoptadas en relación con la recomendación de seguridad, información continua" de fecha 17. 2. 2020, n.º de ref.: DUCR-7259/20/Lv, se indica que la Autoridad Ferroviaria envió bajo el n.º de ref.: 21033/19 de fecha 23. 4. 2019 a todos los operadores de ferrocarriles nacionales y regionales un aviso sobre el informe final de la Inspección Ferroviaria, incluida la recomendación de seguridad. De acuerdo con el § 13 apartado 1 del decreto 376/2006 Sb., se solicitó a los operadores de ferrocarriles que utilizaran el informe final para uso laboral.
 Sobre la base de los resultados de la investigación de las causas y circunstancias del surgimiento de la UE del 28. 6. 2019 en la estación de tráfico D3 Vysoké Mýto, la Inspección Ferroviaria emitió a la Autoridad Ferroviaria la recomendación de seguridad contenida en el Informe final sobre los resultados de la investigación de la excepcionalidad n.º de ref.: 6-2441/2019/DI, de fecha 30. 1. 2020, con la que la Autoridad Ferroviaria recomendó adoptar una medida propia que, en colaboración con los operadores de ferrocarriles, garantizara que en los desvíos con mecanismo de retorno automático, que estén equipados con señal luminosa, la señal activa "Tráfico asegurado" se complementara con una señal activa que prohíba la circulación para el caso en que el desvío en modo de retorno automático no esté correctamente conmutado en la posición de prioridad.
@@ -1096,20 +1112,19 @@ La Inspección Ferroviaria recibió de la Autoridad Ferroviaria, de acuerdo con 
 El operador del ferrocarril SŽ, en su carta n.º de ref. 20930/2020-SŽDC-GŘ-O 14 de fecha 26. 3. 2020, respondió que, en el marco de las modificaciones en la estación de tráfico D3 Vysoké Mýto, la señal Sv1 se complementó con una lámpara de color rojo para la posible verificación futura de la solución técnica de la señal que prohíbe la circulación para los casos en que el desvío en modo de retorno automático no esté correctamente conmutado en la posición de prioridad. Dado que la aplicación de este cambio requiere modificaciones no menores en los circuitos de supervisión técnica del desvío en modo de retorno automático, la verificación de la visibilidad diurna y nocturna de la señal propuesta y la modificación en las condiciones de organización y dirección del tráfico ferroviario, se puede prever la posible primera aplicación, en el marco de la operación de verificación, en la segunda mitad del año 2020.
 El operador del ferrocarril SŽ, además, en su normativa interna revisada SŽ D1 en la versión vigente desde el 1. 7. 2022, en el art. 63 Averías de desvíos con mecanismo de retorno automático, indica:
 
-
 ## Página 34
 
-"El hecho de que un desvío equipado con señal luminosa de desvío con mecanismo de retorno automático en el modo de conmutación de retorno automático no esté correctamente conmutado en la posición de prioridad, se indica al maquinista durante la circulación en contra de la aguja de la siguiente manera:
-a) en la señal luminosa de desvío con mecanismo de retorno automático no se enciende la señal
-### Tráfico asegurado …, o
-b) en la señal luminosa de desvío con mecanismo de retorno automático se enciende la luz intermitente roja …".
+„El hecho de que una aguja equipada con señal luminosa de aguja con aparato de cambio de vía autorretornable en modo de cambio autorretornable no esté correctamente dispuesta en la posición de prioridad, se indica al maquinista durante la marcha en punta de aguja de la siguiente manera:
+a) en la señal luminosa de aguja con aparato de cambio de vía autorretornable no se enciende la señal
+### Marcha asegurada …, o
+b) en la señal luminosa de aguja con aparato de cambio de vía autorretornable se enciende la luz intermitente roja …“.
 ### 5 CONCLUSIONES
 ### 5.1 Resumen del análisis y conclusiones relativas a las causas del suceso
-La causa inmediata de la excepcionalidad fue:
+La causa inmediata del suceso ferroviario fue:
 •
-el incumplimiento de la instrucción del operador del ferrocarril dada por la señal luminosa Sv3 antes de la entrada en el desvío n.º 3sv en la estación de tráfico D3 Stupno, la no detención del tren Os 17806 antes del desvío n.º 3sv y la no comprobación de su correcta conmutación.
-No fue detectado por la Inspección Ferroviaria ningún factor contribuyente.
-No fue detectado por la Inspección Ferroviaria ninguna causa sistémica.
+el incumplimiento de la instrucción del gestor de la infraestructura dada por la señal luminosa Sv3 antes de entrar en la aguja n.º 3sv en el punto de control de tráfico D3 Stupno, la no detención del tren Os 17806 antes de la aguja n.º 3sv y la no comprobación de su correcta disposición.
+No se detectó ningún factor contribuyente por parte de la DI.
+No se detectó ninguna causa sistémica por parte de la DI.
 ### A summary of the analysis and conclusions with regard to the causes of the
 occurrence
 Causal factor:
@@ -1122,19 +1137,19 @@ this switch.
 Contributing factor: none.
 Systemic factor:
 none.
-### 5.2 Medidas adoptadas para la prevención de excepcionalidades
-El operador del ferrocarril SŽ no adoptó ni emitió ninguna medida.
-El transportista ČD emitió tras el surgimiento de la UE las siguientes medidas:
+### 5.2 Medidas adoptadas para la prevención de sucesos ferroviarios
+El gestor de la infraestructura SŽ no adoptó ni emitió ninguna medida.
+El operador ferroviario ČD emitió, tras la producción del suceso ferroviario, las siguientes medidas:
 •
-la causa de la UE y la responsabilidad por su surgimiento fueron debatidas en la reunión ampliada de la dirección de la Dirección Regional de Transporte de Pasajeros Oeste;
+la causa del suceso ferroviario y la responsabilidad por su producción fueron debatidas en la reunión ampliada de dirección de la Dirección Regional de Transporte de Pasajeros Oeste;
 •
-al maquinista se le realizó una verificación extraordinaria de conocimientos en la Dirección General de ČD.
+al maquinista se le sometió a una verificación extraordinaria de conocimientos en la Dirección General de ČD.
 ### Measures taken since the occurrence
 The infrastructure manager SŽ did not take any measures.
 The railway undertaking ČD took the following measure after the occurrence:
 
-
 ## Página 35
+
 
 •
 the cause and responsibility of the occurrence were discussed at extended meeting

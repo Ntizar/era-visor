@@ -10,12 +10,13 @@ chars: 129845
 ratio_longitud: 1.05
 tokens_in: 42392
 tokens_out: 34522
-verificacion: ok
-notas_cifras: ["bloque 3: original bilingüe: se compara contra el idioma principal (DE); cifras cortas: 3/28", "bloque 4: original bilingüe: se compara contra el idioma principal (DE)", "bloque 10: original bilingüe: se compara contra el idioma principal (EN)", "bloque 11: original bilingüe: se compara contra el idioma principal (DE)", "bloque 12: original bilingüe: se compara contra el idioma principal (IT)"]
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
 ---
+
 ## Página 1
+
 
 Informe de investigación
 Informe de investigación
@@ -23,8 +24,8 @@ Incendio en el vehículo del Z 150 de la línea U1 entre Taubstummengasse y Haup
 Ref.: 2026-0.643.531
 Viena, 2026
 
-
 ## Página 2
+
 
 ### Colofón
 Titular de los medios, editor y publicador:
@@ -39,8 +40,8 @@ El único objetivo de la investigación de seguridad es la prevención de futuro
 Toda la información relativa a la protección de datos se encuentra en el siguiente enlace:
 bmimi.gv.at/impressum/daten.html.
 
-
 ## Página 3
+
 
 ### Prefacio
 De conformidad con el § 4 UUG 2005, las investigaciones tienen como objetivo exclusivo la determinación de la causa del suceso, a fin de poder elaborar recomendaciones de seguridad que contribuyan a evitar sucesos similares o de características análogas en el futuro. La valoración jurídica de las circunstancias y causas no es, expresamente, objeto de la investigación. Por ello, tampoco es el propósito de este informe de investigación determinar una culpa ni aclarar cuestiones de responsabilidad (véase el art. 20.4 de la Directiva (UE) 2016/798). El informe de investigación debe, de conformidad con el § 15.2 UUG 2005, garantizar el anonimato de todos los implicados de tal manera que, en todo caso, no contenga nombres de las personas implicadas.
@@ -49,16 +50,16 @@ De conformidad con el § 14.2 UUG 2005, las alegaciones debidamente fundamentada
 De conformidad con el § 16.3 UUG 2005 en relación con el art. 26.2 de la Directiva (UE) 2016/798, las recomendaciones de seguridad se dirigen a la autoridad de seguridad y, en la medida en que la naturaleza de la recomendación lo requiera, a otros organismos o autoridades que puedan trasladar la recomendación de seguridad a medidas adecuadas para la prevención de sucesos, o a otros Estados miembros. Los Estados miembros y sus autoridades de seguridad adoptan las medidas necesarias para garantizar que las recomendaciones de seguridad de las oficinas de investigación se tengan debidamente en cuenta y, en su caso, se apliquen.
 La autoridad de seguridad y otras autoridades u organismos, así como, en su caso, otros Estados miembros a los que se dirijan las recomendaciones, informarán a la oficina de investigación al menos una vez al año sobre las medidas adoptadas o previstas en respuesta a la recomendación (véase el art. 26.3 de la Directiva (UE) 2016/798).
 
-
 ## Página 4
+
 
 ### Nota
 ### El presente informe de investigación no podrá reproducirse, ni siquiera parcialmente, sin indicación de la fuente y la aprobación expresa de la Oficina Federal de Investigación de Seguridad.
 De conformidad con el § 15.2 UUG 2005, el informe de investigación debe, en general, preservar el anonimato de las personas implicadas en el suceso. Si se ha concedido el anonimato a personas u organismos, ello deberá indicarse en el lugar correspondiente, de conformidad con el Reglamento de Ejecución (UE) 2020/572.
 En las representaciones de objetos y lugares (fotografías) incluidas en este informe podrían aparecer personas ajenas al suceso, personal que no levantó acta del accidente o personal con funciones organizativas, así como unidades de intervención, que deberán ser anonimizadas en su caso. Dado que los colores de la ropa de estas personas (p. ej., los colores fluorescentes de los chalecos reflectantes) podrían desviar la atención de la representación, se han corregido digitalmente cuando ha sido necesario (p. ej., desaturándolos a gris).
 
-
 ## Página 5
+
 
 ### Índice
 Colofón ..................................................................................................................... 2
@@ -96,6 +97,7 @@ Safety recommendations according to § 16 paragraph 1 UUG 2005 .................
 2.10 Otra información ............................................................................................... 24
 
 ## Página 6
+
 
 3 Descripción del suceso .................................................................................... 25 
 a) Información sobre el suceso y sus antecedentes ............................................ 25 
@@ -157,10 +159,10 @@ Características humanas e individuales ........................................
 2. 
 Factores del puesto de trabajo ............................................................................ 47 
 3. 
-Factores organizativos y tareas ........................................................................... 48 
-
+Factores organizativos y tareas ........................................................................... 48
 
 ## Página 7
+
 
 4. 
 Factores ambientales ............................................................................................ 48 
@@ -204,19 +206,19 @@ Safety recommendations according to § 16 paragraph 2 UUG 2005 .................
 Safety recommendations according to § 16 paragraph 1 UUG 2005 .................................. 64 
 Posiciones tenidas en cuenta .................................................................................. 67 
 Índice de tablas ...................................................................................................... 69 
-Índice de figuras .................................................................................................. 70 
-
+Índice de figuras .................................................................................................. 70
 
 ## Página 8
+
 
 Índice de normas ......................................................................................... 71 
 Índice de normas de WIENER LINIEN ................................................................. 72 
 Índice de fuentes ....................................................................................................... 73 
 Abreviaturas................................................................................................................ 74 
-Anexo – Posiciones ........................................................................................... 75 
-
+Anexo – Posiciones ........................................................................................... 75
 
 ## Página 9
+
 
 # 1 Resumen 
 ## Desarrollo
@@ -231,6 +233,7 @@ Cinco empleados fueron tratados en el lugar por la unidad de emergencias por lev
 
 ## Página 10
 
+
 Dado que el origen del incendio se encontraba exactamente en el tramo de la alimentación del suministro eléctrico de la instalación de ventilación de la estación central, altura Favoritenstraße 50, el cable se quemó y hacia las 17:14 se produjo el fallo de la instalación, si bien la extracción natural de los gases de humo continuó, ya que las compuertas de ventilación permanecen abiertas en ausencia de corriente.
 Dos empleados de un departamento especializado fueron atendidos en el lugar por los servicios de emergencia debido a la inhalación de gases de humo tras la reparación de la instalación de ventilación averiada; uno de ellos fue dado de alta a domicilio tras una revisión en un hospital.
 ### Factor causal
@@ -244,6 +247,7 @@ En las listas de verificación del mantenimiento, la inspección visual de los c
 ² Ejecutado como interruptor de potencia con desenganche magnético rápido.
 
 ## Página 11
+
 
 La plantilla de prueba utilizada por el fabricante del interruptor de potencia en la producción no se empleó durante el reensamblaje de la cámara de arco.
 ### Factores sistémicos
@@ -263,12 +267,14 @@ Tabla 1 Recomendaciones de seguridad conforme al § 16 Abs. 1 UUG 2005
 
 ## Página 12
 
+
 | Número correlativo | Recomendación de seguridad (causal del accidente) | Se dirige a | Afecta a |
 |---|---|---|---|
 | A-2026/001 | reconstrucción de interruptores de potencia con cámara de arco, sigan el procedimiento del fabricante, introduciendo por un lado el principio de cuatro ojos y utilizando por otro lado, para el tipo de interruptor afectado en el suceso en cuestión, la plantilla recomendada por el fabricante. Justificación: Según el fabricante, una cámara de arco montada incorrectamente es muy difícil de detectar una vez instalada. Tampoco se detectaría en el marco de las mediciones realizadas en las inspecciones unitarias. El principio de cuatro ojos ayuda a la detección de errores. En relación con el beneficio de poder prevenir incendios con posibles consecuencias graves, el esfuerzo adicional de esta medida es reducido. | LH Wien | ECM, FH |
 | A-2026/002 | Se recomienda solicitar a los titulares de los vehículos y a las EVU o empresas de transporte que, en la adquisición del material rodante, exijan a los fabricantes que los componentes eléctricos de seguridad relevante del circuito principal sean designados e indicados como tales. Para las instalaciones ya entregadas, sería aconsejable que los titulares de los vehículos y los fabricantes cooperen respecto a una categorización posterior. Si en la gestión de reparación o mantenimiento se prevé que tales componentes se manipulen desmontados, debería ser obligatorio elaborar un registro exhaustivo de todos los eventos relativos al equipo afectado. Además de la información sobre los mantenimientos y reparaciones, en los registros también deberían anotarse las desconexiones debidas a magnitudes físicas desviadas. Justificación: Una documentación permite un mantenimiento exhaustivo y eficiente. En el caso en cuestión, una documentación existente habría facilitado la determinación de la causa y, con ello, acelerado la adopción de medidas preventivas. Dado que, en todo caso, es estado de la técnica que cada componente eléctrico esté designado, al menos según el sistema de identificación de instalaciones, el esfuerzo adicional para la | LH Wien | EVU, ECM, BU, FH |
 
 ## Página 13
+
 
 | Número correlativo | Recomendación de seguridad (causal del accidente) | Se dirige a | Afecta a |
 |---|---|---|---|
@@ -278,6 +284,7 @@ Tabla 1 Recomendaciones de seguridad conforme al § 16 Abs. 1 UUG 2005
 Fuente: SUB
 
 ## Página 14
+
 
 # Resumen
 ## Hechos
@@ -291,6 +298,7 @@ La maquinista y un empleado del departamento de sistemas de ventilación fueron 
 Cinco empleados fueron atendidos en el lugar por los servicios de emergencias por inhalación leve de humo y pudieron reanudar sus funciones a continuación.
 
 ## Página 15
+
 
 Dado que el origen del incendio se encontraba exactamente en el tramo de la alimentación del suministro eléctrico de la instalación de ventilación de la estación central (altura Favoritenstraße 50), el cable se quemó y hacia las 17:14 se produjo el fallo de la instalación, si bien la extracción natural de los gases de humo continuó, ya que las compuertas de ventilación permanecen abiertas en ausencia de corriente.
 Tras la reparación del fallo en la instalación de ventilación, dos empleados de un departamento especializado fueron atendidos en el lugar por los servicios de emergencia debido a la exposición al humo; uno de ellos fue dado de alta a domicilio tras una revisión en un hospital.
@@ -306,6 +314,7 @@ Los factores contribuyentes citados deben considerarse también como factores si
 
 ## Página 16
 
+
 concernante el disyuntor. Los intervalos de mantenimiento del disyuntor no se ajustaban a las especificaciones del fabricante. 
 ## Recomendaciones de seguridad 
 ### Recomendaciones de seguridad según el § 16 apartado 2 UUG 2005 
@@ -319,10 +328,10 @@ Recomendaciones de seguridad
 Dirigida a 
 A-2026/001 
 Se recomienda que los propietarios de vehículos instruyan a sus centros de mantenimiento, talleres de reparación y demás instalaciones de mantenimiento para que sigan los procedimientos del fabricante al reparar o renovar disyuntores equipados con cortaarcos; esto implica la implementación de un «principio de cuatro ojos» (verificación independiente) y el uso del calibre recomendado por el fabricante para el tipo específico de disyuntor implicado en el incidente en cuestión. 
-Justificación: Según el fabricante, un cortaarcos montado incorrectamente es extremadamente difícil de detectar una vez instalado. Tal error no se detectaría durante las mediciones 
-
+Justificación: Según el fabricante, un cortaarcos montado incorrectamente es extremadamente difícil de detectar una vez instalado. Tal error no se detectaría durante las mediciones
 
 ## Página 17
+
 
 N.º 
 Recomendaciones de seguridad 
@@ -334,18 +343,18 @@ Justificación: Una documentación adecuada permite un mantenimiento eficiente y
 Dado que ya es práctica estándar designar cada componente electrotécnico —al menos de acuerdo con los sistemas de identificación de equipos—, el esfuerzo adicional requerido para la categorización recomendada es mínimo en comparación con los beneficios. Los fabricantes pueden documentar esta categorización como parte de la documentación estándar de equipos de la industria. Los costes asociados a la documentación de eventos que requieren las herramientas necesarias deberían ser despreciables, ya que probablemente podrían utilizarse los sistemas existentes. 
 A-2026/003 
 Se recomienda que se inste a los propietarios de vehículos y a las empresas ferroviarias u operadores de transporte a evaluar la viabilidad y conveniencia de realizar mediciones de aislamiento regulares —y, cuando proceda, ensayos dieléctricos— para detectar en una fase temprana cualquier deterioro de la resistencia de aislamiento del cableado del circuito principal. 
-Justificación: Los límites de resistencia de aislamiento están definidos en las normas pertinentes, lo que significa que el 
-
+Justificación: Los límites de resistencia de aislamiento están definidos en las normas pertinentes, lo que significa que el
 
 ## Página 18
+
 
 N.º 
 Recomendaciones de seguridad 
 Dirigida a 
-valor medido permitiría al propietario del vehículo identificar el riesgo. En el caso del ensayo dieléctrico, una resistencia de aislamiento insuficiente daría lugar a una ruptura dieléctrica, haciendo imposible la operación continuada del vehículo sin reparaciones. En cualquier caso, el esfuerzo implicado en tales comprobaciones debería ser proporcional al beneficio de prevenir potencialmente accidentes graves (como incendios). La propia evaluación determinará si la medida es proporcional en términos del esfuerzo requerido. 
-
+valor medido permitiría al propietario del vehículo identificar el riesgo. En el caso del ensayo dieléctrico, una resistencia de aislamiento insuficiente daría lugar a una ruptura dieléctrica, haciendo imposible la operación continuada del vehículo sin reparaciones. En cualquier caso, el esfuerzo implicado en tales comprobaciones debería ser proporcional al beneficio de prevenir potencialmente accidentes graves (como incendios). La propia evaluación determinará si la medida es proporcional en términos del esfuerzo requerido.
 
 ## Página 19
+
 
 # 2 La investigación y su contexto 
 ## 2.1 
@@ -370,10 +379,10 @@ las labores de mantenimiento
 los flujos de información y comunicación 
 • 
 la gestión de competencias de las organizaciones 
-5 De acuerdo con la definición del § 5 apartado 1 punto 1 UUG 2005, por el ámbito ferroviario debe entenderse, entre otros, la operación de un tranvía en el que los vehículos ferroviarios circulan exclusivamente sobre una propia plataforma ferroviaria, como un metro (véase el § 5 apartado 1 punto 2 EisbG 1957). 
-
+5 De acuerdo con la definición del § 5 apartado 1 punto 1 UUG 2005, por el ámbito ferroviario debe entenderse, entre otros, la operación de un tranvía en el que los vehículos ferroviarios circulan exclusivamente sobre una propia plataforma ferroviaria, como un metro (véase el § 5 apartado 1 punto 2 EisbG 1957).
 
 ## Página 20
+
 
 • 
 la gestión de riesgos existente del IB 
@@ -382,10 +391,10 @@ las lecciones aprendidas y las medidas de mejora derivadas de accidentes similar
 El objeto de la investigación se limita temporalmente, en principio, al momento del accidente (19 de noviembre de 2024). La investigación relativa a la infraestructura abarca exclusivamente el equipo que, en el desarrollo temporal y espacial del accidente, se utilizó directa o indirectamente, cuando es relevante para el precursor de la causa. Las condiciones operativas de las distintas empresas/organizaciones se investigan, al igual que la gestión de competencias, los flujos de información y comunicación y la gestión de riesgos, en el contexto del accidente. En el marco de la investigación de la gestión de competencias se comprueba, además de la idoneidad técnica y social, el cumplimiento de los criterios de selección del reclutamiento previstos por las normas y las medidas de formación. También se comprueban los titulares de funciones en el contexto indirecto del accidente, pudiendo, según la necesidad, incluirse como objeto de comprobación también los titulares de funciones del nivel de informe precedente. 
 ## 2.4 
 ## Equipo de investigación 
-La dirección de la investigación está encomendada a un empleado de la Oficina Federal de Investigación de Seguridad. El responsable de la investigación dispone de conocimientos técnicos y tecnológicos en el ámbito de la técnica eléctrica, de energía, de protección, de mando y de tracción, así como de la capacidad de gestión de proyectos, en particular de la estructuración de proyectos y del tratamiento de las interfaces de las distintas especialidades, adquiridos mediante una formación sólida y una experiencia internacional de décadas. El responsable de la investigación recibe apoyo técnico en los ámbitos de técnica de vehículos y técnica operativa de otro empleado de la Oficina Federal de Investigación de Seguridad. Este empleado dispone de una formación técnica superior completada y de una formación específica y de perfeccionamiento pertinente en el marco de su actividad, y puede acudir a una amplia experiencia profesional. 
-
+La dirección de la investigación está encomendada a un empleado de la Oficina Federal de Investigación de Seguridad. El responsable de la investigación dispone de conocimientos técnicos y tecnológicos en el ámbito de la técnica eléctrica, de energía, de protección, de mando y de tracción, así como de la capacidad de gestión de proyectos, en particular de la estructuración de proyectos y del tratamiento de las interfaces de las distintas especialidades, adquiridos mediante una formación sólida y una experiencia internacional de décadas. El responsable de la investigación recibe apoyo técnico en los ámbitos de técnica de vehículos y técnica operativa de otro empleado de la Oficina Federal de Investigación de Seguridad. Este empleado dispone de una formación técnica superior completada y de una formación específica y de perfeccionamiento pertinente en el marco de su actividad, y puede acudir a una amplia experiencia profesional.
 
 ## Página 21
+
 
 ## 2.5 
 ## Procedimiento de investigación (proceso de comunicación y 
@@ -401,6 +410,7 @@ La investigación se estructuró en las tres fases recurrentes de acumulación, 
 
 ## Página 22
 
+
 La recopilación de datos y hechos se realizó, por un lado, mediante investigaciones empíricas en los vehículos accidentados o en vehículos de la misma serie de producción, incluido el equipamiento eléctrico, y, por otro lado, mediante consultas escritas y orales a la WIENER LINIEN GmbH & Co KG (WIENER LINIEN), al fabricante, a la Autoridad Ferroviaria Suprema, a la autoridad de supervisión competente en materia de derecho ferroviario de la ciudad de Viena (MA 64) y al perito6.
 Sobre la base de los hechos y datos recopilados, se procedió a interrogar a la conductora. Asimismo, en varias reuniones con la WIENER LINIEN y el fabricante se cuestionaron los datos y hechos recopilados, lo que a su vez condujo a nuevas medidas, como cálculos de simulación y la comprobación experimental del interruptor principal.
 La documentación completa y en todo momento verificable del proceso de comunicación y consulta se garantizó mediante el libro de correspondencia electrónico, que se utiliza exclusivamente para la investigación de este suceso.
@@ -410,8 +420,8 @@ Nivel 1: Directrices/acciones del legislador o de las autoridades estatales.
 Esto incluye, en esencia, todos los reglamentos y autorizaciones dictados por la administración pública, así como la labor del BMK o BMIMI y de la autoridad de supervisión en materia de derecho ferroviario de la ciudad de Viena.
 6 Se utilizaron en total tres hallazgos o dictámenes. Estos fueron elaborados por la empresa IBS-Technisches Büro GmbH en 4020 Linz, Dipl. Ing. Dr. Martin Fasching en 3033 Altlengbach y TÜV SÜD Rail GmbH en 80686 Múnich (Alemania). La encomienda se realizó en los tres casos por parte de la WIENER LINIEN.
 
-
 ## Página 23
+
 
 Nivel 2: Directrices/acciones del operador de metro involucrado. Esto incluye, en esencia, todos los reglamentos complementarios, así como su elaboración y entrada en vigor.
 Nivel 3: Gestión. Esto incluye, en esencia, la aplicación de los reglamentos existentes y la visión conjunta (interfaz) de las áreas de la empresa involucradas.
@@ -425,15 +435,15 @@ Los graves daños en los componentes eléctricos instalados, así como el cambio
 No se inició ninguna investigación por parte de la fiscalía en relación con el suceso objeto de este informe.
 7 El sucesor legal del fabricante del equipamiento eléctrico del vehículo, la empresa ELIN EBG Traction GmbH, se integró en 2005, tras la adquisición de la VA TECH AG por parte de Siemens AG Österreich, en la Siemens AG Österreich. Por lo tanto, en esta investigación se considera a la empresa Siemens Mobility Austria GmbH como empresa fabricante y de puesta en servicio de estos vehículos.
 
-
 ## Página 24
+
 
 ## 2.10 Otra información
 ### Competencia de la autoridad
 La autoridad ferroviaria competente es el Landeshauptmann de Viena.
 
-
 ## Página 25
+
 
 # 3 Descripción del suceso
 ## a) Información sobre el suceso y sus antecedentes
@@ -447,8 +457,8 @@ El suceso tuvo lugar en el metro de la ciudad de Viena, en la línea 1, entre la
 Figura 1 Esquema de la red de vías de WIENER LINIEN
 Fuente: WIENER LINIEN/SUB
 
-
 ## Página 26
+
 
 Figura 2 Esquema de la red de vías de WIENER LINIEN - Detalle
 Fuente: WIENER LINIEN/SUB
@@ -458,8 +468,8 @@ Figura 3 Situación del túnel a lo largo de la Favoritenstraße (Viena, 4.º di
 Fuente: WIENER LINIEN
 El lugar del suceso se encuentra en el túnel, en la vía 2, delante de la señal 282 (punto de parada TA 282), entre el km 12.060 y el km 12.090. En el tramo de bloque comprendido entre la señal 282 y la señal 280 se encuentran las agujas 864 – 861 y 863 – 862.
 
-
 ## Página 27
+
 
 Figura 4 Esquema unifilar del suministro de energía eléctrica
 Fuente: Dipl.-Ing. Dr. Martin Fasching
@@ -469,8 +479,8 @@ El suministro eléctrico se realiza mediante una instalación de raíl de 750 V 
 ### Condiciones meteorológicas; visibilidad
 Situación en túnel, iluminación artificial mediante la iluminación de la vía tras el suceso.
 
-
 ## Página 28
+
 
 Fuera del túnel:
 Temperatura del aire: 5,4 °C
@@ -489,8 +499,8 @@ Los otros dos trenes de dos vehículos de tracción dañados por el incendio est
 El sustituto del vehículo incendiado (o de los vehículos incendiados en caso de que no sea posible su reparación) se realizará mediante la adquisición de un vehículo de tipo X. Se estima que la adquisición de un vehículo X de sustitución costará 11,4 millones de euros. [4]
 El daño estimado a la infraestructura se cifra en 2.733.205,72 euros. [4]
 
-
 ## Página 29
+
 
 No se tienen constancia de daños al medio ambiente. [4]
 ## 5.
@@ -531,8 +541,8 @@ Longitud total
 8 Es la entidad responsable del mantenimiento en el tráfico ferroviario.
 9 En los planos y en el lenguaje coloquial se habla de vehículos «A» o «B». En los planos se emplean tanto la «A» o «B» en mayúscula como en minúscula.
 
-
 ## Página 30
+
 
 Número de circulación/tren 150
 Libro de grupos:
@@ -555,8 +565,8 @@ En la WIENER LINIEN siguen en servicio 111 trenes de dos vehículos de tracción
 Los vehículos 2282 y 3282 se construyeron en 1993 y estuvieron en servicio desde el 18 de febrero de 1994. [3]
 10 ECC significa Element Control Computer
 
-
 ## Página 31
+
 
 El tipo U11 tiene una potencia continua de 1 MW, que se obtiene mediante ocho motores de corriente alterna de 750 V con una potencia de 125 kW cada uno. A cada cuatro motores se les asigna un inversor de frecuencia, de modo que se emplean dos inversores por tren de dos vehículos de tracción. A través de un interruptor de potencia de CC11, ambos inversores se alimentan mediante un contactor electromagnético de potencia con contactos principales conectados en paralelo. Sin ningún otro órgano de protección primaria eléctrica12, la alimentación de corriente alterna desde el inversor de frecuencia hacia los motores se realiza mediante cables o conductores, estando los motores conectados en paralelo. Mediante baterías de condensadores y una resistencia óhmica se forma un punto estrella por inversor.
 ## b) Descripción objetiva
@@ -569,6 +579,7 @@ Por encargo del centro de control de la WIENER LINIEN, el tren de reserva 150, t
 14 La conductora tenía la impresión de que esto no funcionaba. [10] En realidad, la luz indicadora no funcionó, de modo que la conductora asumió que el depósito de muelle no estaba activado. El depósito de muelle funcionó. [11]
 
 ## Página 32
+
 
 Dado que la visibilidad estaba muy limitada por la generación de humo, la conductora permaneció inicialmente en la cabina de conducción. Solo cuando la conductora percibió varios fuertes ruidos de estallido en la zona del tren, abandonó la cabina, comprobó que el tren estaba en llamas y se dirigió a la fuga por la vía de evacuación de la zona de vías hacia la estación Hauptbahnhof, Südtirolerplatz, donde llegó a las 17:00 horas.
 ### Cadena de acontecimientos
@@ -616,8 +627,8 @@ El vehículo de radio propio de la empresa informa de que el tercer
 [3]
 coche intermedio (2282) está ardiendo.
 
-
 ## Página 33
+
 
 ## 2.
 ### Medidas de emergencia
@@ -675,8 +686,8 @@ procedentes del andén de la estación Hauptbahnhof para
 colocar una toma de tierra en la vía 2, el jefe de intervención
 reconoce desde el
 
-
 ## Página 34
+
 
 Hora
 Descripción
@@ -736,8 +747,8 @@ bomberos la autorización para entrar en la vía desde la
 estación Taubstummengasse con el fin de colocar la toma de
 tierra.
 
-
 ## Página 35
+
 
 Hora
 Descripción
@@ -779,8 +790,8 @@ oxígeno por parte del servicio de rescate debido a los gases
 tóxicos.15
 15 Estos cuatro empleados pudieron continuar con su servicio a continuación.
 
-
 ## Página 36
+
 
 # 4 Evaluación del acontecimiento
 El cortocircuito de masa producido en el vehículo no pudo provocar el corte por la protección eléctrica del vehículo16. El cortocircuito de masa fue consecuencia de un daño en el aislamiento de la línea de corriente continua del circuito principal. El cortocircuito de masa se produjo durante el proceso de frenado, por lo que debe asumirse que, debido a la inyección de los motores de la ruta, se inyectó corriente adicional en el cortocircuito de masa. La interrupción del suministro de energía por parte de la subestación solo pudo producirse mediante la activación o el corte de la protección eléctrica de la subestación. En consecuencia, se produjo el incendio en el vehículo y, a continuación, en el túnel. [3] 17
@@ -795,8 +806,8 @@ El mantenimiento de los vehículos afectados está regulado en cuanto a frecuenc
 17 Sirve como fuente principalmente el informe de evaluación de las WIENER LINIEN. No obstante, la carta del sucesor legal del fabricante de fecha 10 de diciembre de 2024 a las WIENER LINIEN es considerada prioritariamente por la SUB debido a los parámetros técnicos.
 18 Las WIENER LINIEN no son ni una EVU ni una IB según la Ley ferroviaria de 1957. La infraestructura necesaria para la operación es competencia de la empresa de transporte.
 
-
 ## Página 37
+
 
 revisiones, que se diferencian por los intervalos y contenidos de mantenimiento prescritos. Las categorías de mantenimiento se designan alfabéticamente desde "Revisión A" hasta "Revisión G". La "Revisión A" debe realizarse cada 6 semanas y se realizó para el vehículo afectado con un kilometraje de 446 829 el 08 de octubre de 2024 en la sede de Leopoldau de las WIENER LINIEN como "Revisión A LIGHT".19 En la sede de Heiligenstadt se realizó la "Revisión B" el 12 de noviembre de 2024. Esta debe realizarse cada 12 semanas e incluye automáticamente también la "Revisión A".20 Dado que el defecto de aislamiento de los cables se trata de zonas de rozamiento, debe asumirse un defecto de larga data que podría haberse detectado en ambas revisiones. Este defecto de larga data se produce durante la circulación a lo largo de un período prolongado debido a vibraciones, en las que las zonas de contacto de los cables o de los aislamientos de las líneas se van desgastando. Los vehículos de comparación examinados no permiten deducir una aparición repentina del defecto de aislamiento.
 ## 3.
@@ -809,6 +820,7 @@ Véase el capítulo "Resultados de la actividad de supervisión de las autoridad
 20 El kilometraje registrado del vehículo asciende a 457 358, de modo que entre las dos revisiones aparece una circulación de 10 529 km.
 
 ## Página 38
+
 
 ## 5. 
 ### Lugares designados, lugares determinados y/o 
@@ -826,10 +838,10 @@ No se verificó ninguno.
 La comprobación experimental del «interruptor principal 1Q121», que habría sido responsable de la desconexión de la corriente de cortocircuito de masa, ha arrojado como resultado que fue diseñado correctamente.22 El interruptor principal es un interruptor rápido de corriente continua (High speed DC circuit breaker) de la firma Secheron con la designación de tipo UR6 31T. En la entrega del tren, la corriente nominal de desconexión estaba preajustada a 2.400 A.23 Dado que el interruptor original quedó completamente destruido por el incendio, se utilizaron como interruptores de prueba tres interruptores Secheron en distintos estados. [13]  
 21 «1Q1», esa es la designación de este interruptor en el esquema de circuito típico u11/56.1.1 para la identificación inequívoca de este componente de la instalación según el sistema de identificación de instalaciones (AKS) 
 22 La comprobación tuvo lugar en el laboratorio de alta corriente de Austria Institute of Technology (AIT) GmbH. 
-23 Eso es, para el ajuste del desconector de sobrecorriente directo según la hoja de datos técnica, el valor más alto posible (1,2 a 2,4 kA) 
-
+23 Eso es, para el ajuste del desconector de sobrecorriente directo según la hoja de datos técnica, el valor más alto posible (1,2 a 2,4 kA)
 
 ## Página 39
+
 
 Figura 6 Interruptor principal 
 Fuente: Oficina Técnica / Instituto de Tecnología de Protección contra Incendios e Investigación de Seguridad
@@ -839,10 +851,10 @@ La probeta 2 era un interruptor con desgaste avanzado.
 La probeta 3 era un interruptor con desgaste avanzado, cuya cámara de chispas fue montada deliberadamente de forma incorrecta. 
 Tanto la probeta 1 como la probeta 2 desconectaron la corriente de cortocircuito en torno a 30,5 ms, habiendo alcanzado la probeta 1 (casi nueva) una corriente máxima de unos 5,6 kA y la probeta 2 (desgaste avanzado) una corriente máxima de 6,6 kA. 
 La probeta 3 (cámara de chispas montada deliberadamente de forma incorrecta) no pudo desconectar la corriente de cortocircuito. La corriente de prueba de unos 19 kA fue desconectada por el órgano de protección de la alimentación a los 300 ms, no obstante, la probeta sufrió daños considerables. 
-En un cálculo de red de simulación realizado con anterioridad, se recogieron las magnitudes eléctricas (impedancias) de la red de alimentación relevante de WIENER LINIEN y del vehículo, y se consignaron en un esquema de circuito equivalente. De la simulación se obtuvieron ulteriores valores característicos. Este esquema de circuito equivalente y los valores característicos obtenidos de la simulación se adaptaron durante el experimento a las condiciones del laboratorio 
-
+En un cálculo de red de simulación realizado con anterioridad, se recogieron las magnitudes eléctricas (impedancias) de la red de alimentación relevante de WIENER LINIEN y del vehículo, y se consignaron en un esquema de circuito equivalente. De la simulación se obtuvieron ulteriores valores característicos. Este esquema de circuito equivalente y los valores característicos obtenidos de la simulación se adaptaron durante el experimento a las condiciones del laboratorio
 
 ## Página 40
+
 
 y se crearon así condiciones eléctricas aproximadamente iguales a las del momento del accidente. [13]  
 Figura 7 Esquema de circuito equivalente del circuito de ensayo para la comprobación experimental 
@@ -851,10 +863,10 @@ Las bobinas de filtro de red24 designadas en el esquema de circuito equivalente 
 Figura 8 Valores eléctricos del circuito de ensayo en el AIT 
 Fuente: Dipl.-Ing. Dr. Martin Fasching
 La posibilidad de una falla de conmutación debido a una corriente de masa o de cortocircuito excesivamente alta puede excluirse a la vista de los resultados de los cálculos de red de simulación
-24 La designación corresponde a la designación del AKS tal como se encuentra en el esquema de circuito típico. 
-
+24 La designación corresponde a la designación del AKS tal como se encuentra en el esquema de circuito típico.
 
 ## Página 41
+
 
 . Los cálculos muestran valores de 10,2 a 19 kA. [13] El vehículo fue diseñado o construido por el fabricante con una resistencia al cortocircuito de 30 kA / 150 ms. 
 Otra posibilidad de una falla de conmutación podría radicar en un circuito de corriente de fallo excesivamente inductivo, cuya constante de tiempo sea demasiado larga. Eso equivaldría a una energía almacenada excesivamente alta. El cálculo demuestra, no obstante, que con una suposición 8 veces mayor de la impedancia de bucle calculada25 los 150 ms no se alcanzan ni de lejos, [13] de modo que tampoco en este aspecto importante puede acreditarse un error de diseño del fabricante. 
@@ -868,10 +880,10 @@ Los coches fueron construidos en 1993 por la firma ELIN Energieanwendung G.m.b.H
 El interruptor principal 1Q1, que no desconectó la corriente de masa, es como tipo UR6-31T un producto de la firma Sécheron SA.27 Este interruptor está homologado según la IEC 60077. Ello 
 25 Para la impedancia de bucle del punto de fallo se calculó una inductancia de L=1,13 mH/km[13] 
 26 Del área de negocio de tecnología de la EEA surgió, tras la fusión con la firma EBG Linz, la firma ELIN EBG Traction GmbH, que en 2005, tras la adquisición de la VA TECH AG por Siemens AG Österreich, se integró en la Siemens AG Österreich. Por consiguiente, en esta investigación se considera a la firma Siemens Mobility Austria GmbH como empresa fabricante y de puesta en servicio de estos coches.  
-27 En esta investigación actúa como interlocutor la firma Secheron Hasler GmbH en Frankfurt am Main. 
-
+27 En esta investigación actúa como interlocutor la firma Secheron Hasler GmbH en Frankfurt am Main.
 
 ## Página 42
+
 
 significa, entre otras cosas, que en la prueba de tipo el interruptor se hace desconectar tres veces seguidas, con un intervalo de unos 1 minuto, mediante la desconexión magnética rápida con una corriente de 30 kA.  
 Figura 9 Hoja de datos circuito principal 
@@ -879,8 +891,8 @@ Fuente: Firma Sécheron
 Figura 10 Curva característica parámetros de desconexión 
 Fuente: Firma Sécheron
 
-
 ## Página 43
+
 
 Toda conmutación bajo carga produce un arco eléctrico que debe extinguirse. Este tipo corresponde a un interruptor de potencia con refrigeración por aire. Para la extinción se prevé la cámara de chispas. Este interruptor debe garantizar, en caso de cortocircuito, una apertura rápida del contacto principal sin disparo y, mediante una sobretensión constante, una rápida supresión del arco durante todo el proceso de interrupción. 
 El UR6 ya no se comercializa para proyectos nuevos y ha sido sustituido a tal efecto por el UR10, que es compatible en su instalación. Para proyectos en curso o antiguos, los UR6 completos y sus recambios siguen estando disponibles. No se prevé una obsolescencia. [15] 
@@ -890,10 +902,10 @@ Desde finales de 2016 se han registrado en el fabricante un total de 79 pedidos 
 No se pudieron obtener hojas de datos o especificaciones detalladas de los cables o conductores instalados en el vehículo por la firma ELIN Energieanwendung G.m.b.H. En la documentación técnica del tipo U11 se conserva un documento29 del año 1988, del que se desprende que las líneas de corriente principal y las líneas de control fueron suministradas por la firma KDAG30. La designación de tipo de las líneas de corriente principal se indica como «Type 77 SISIF 1 x .. mm2 F 1,7 / 3 kV RT H». Lo esencial es que del mencionado documento se desprende que los conductores deben ser ignífugos y sin halógenos. [9] Asimismo, el 20.12.2024 se realizaron en el laboratorio del IBS pruebas de fuego a los cables
 28 La indicación se refiere a todos los pedidos, tanto equipos completos como recambios. 
 29 Este documento lleva el número de identificación 68.27 / U11 Ausg. 1. En este documento se encuentra un pedido de la firma ELIN a KDAG fechado el 28.07.1988 
-30 La firma KDAG era una filial de la entonces (en el momento de la entrega de los vehículos) ELIN Energieversorgung G.m.b.H con sede en Viena Meidling. Tras la venta a Siemens Österreich AG, la producción cesó en 1997. En el momento del pedido, la KDAG aún formaba parte de la ELIN UNION AG, ya que la división de la ELIN UNION AG entró en vigor el 1 de octubre de 1989. 
-
+30 La firma KDAG era una filial de la entonces (en el momento de la entrega de los vehículos) ELIN Energieversorgung G.m.b.H con sede en Viena Meidling. Tras la venta a Siemens Österreich AG, la producción cesó en 1997. En el momento del pedido, la KDAG aún formaba parte de la ELIN UNION AG, ya que la división de la ELIN UNION AG entró en vigor el 1 de octubre de 1989.
 
 ## Página 44
+
 
 ,31 que arrojaron como resultado que los cables, independientemente de su sección transversal, eran de difícil inflamabilidad. [3] 
 Figura 11 Cables con zonas de rozamiento 
@@ -905,10 +917,10 @@ La figura muestra las zonas de rozamiento en los cables de un coche no dañado. 
 ### Interruptor principal 1Q1
 En la «BEDIENUNGSANLEITUNG» (manual de instrucciones) elaborada por el fabricante se recomienda la comprobación de la cámara de chispas en busca de desgaste cada 18 meses. La gran inspección debería realizarse, conforme a este manual de instrucciones, cada 36 a 48 meses32. [14] Los requisitos del manual de instrucciones aquí presente pueden rastrearse al menos hasta el año 1997. [15] Nuevos manuales están disponibles en el fabricante a petición, no se realiza un envío sistemático. Cuándo se transmitieron qué documentos a las 
 31 Los cables se extrajeron de un vehículo equivalente no dañado. 
-32 O tras 20.000 maniobras de conmutación sin carga. Según qué evento ocurra primero.  
-
+32 O tras 20.000 maniobras de conmutación sin carga. Según qué evento ocurra primero.
 
 ## Página 45
+
 
 WIENER LINIEN ya no es rastreable hoy en el fabricante.33 [15]  
 Una cámara de chispas montada de forma incorrecta solo puede reconocerse con mucha dificultad en su estado instalado. Tampoco se detectaría en el marco de las mediciones realizadas en las inspecciones unitarias. En las reparaciones, el fabricante aplica en su taller fundamentalmente un principio de cuatro ojos, que ayuda a la detección de errores. Especialmente en esta cámara de chispas, el fabricante utiliza en la producción una plantilla que, con la cámara montada correctamente, se puede introducir hasta la marca necesaria. [15] 
@@ -919,6 +931,7 @@ Se ofrecen formaciones en alemán por Sécheron en Frankfurt am Main.
 33 Para cambios técnicos en equipos existe una lista de distribución de correo electrónico. El veterano empleado de ventas del fabricante en Austria se jubiló en 2025.
 
 ## Página 46
+
 
 ## 5. 
 ### Talleres de mantenimiento, talleres de reparación y otros 
@@ -931,10 +944,10 @@ identifica una pieza ya reacondicionada. De ello se puede deducir que el interru
 ## 6. 
 ### Otros factores o consecuencias relevantes 
 No se verificaron ninguno. 
-34 Según la experiencia de los empleados de las WIENER LINIEN, la reparación o reacondicionamiento se realiza unos días o semanas antes de la instalación. 
-
+34 Según la experiencia de los empleados de las WIENER LINIEN, la reparación o reacondicionamiento se realiza unos días o semanas antes de la instalación.
 
 ## Página 47
+
 
 c) 
 ## Factores humanos 
@@ -946,10 +959,10 @@ En función del número de la orden de fabricación, es posible evaluar qué emp
 ### Factores del puesto de trabajo 
 Para la reparación del interruptor de potencia se necesitan unas 12 horas. Se facilitan a los especialistas instrucciones de trabajo por escrito. La instrucción de trabajo relativa al mantenimiento o reparación del interruptor de potencia36 es una instrucción de trabajo vigente desde el 01 de abril de 2018. En este documento de 20 páginas con el número de documento «DB-W54-020_1» se describe, con palabras sencillas y con imágenes detalladas, cada uno de los pasos de trabajo. Antes de 2018, el alcance de las 
 35 En esta orden de fabricación se procesaron diez interruptores UR6. Cada mantenimiento incluye también una prueba final en el campo de pruebas, que se realiza tras la reparación. 
-36 El interruptor de potencia se denomina en este documento interruptor rápido, lo que sugiere que para el redactor del documento la característica de la desconexión magnética rápida era lo principal. También el manual de instrucciones del fabricante utiliza para este interruptor de potencia, entre otros, el término «interruptor rápido de corriente continua». En la instrucción de trabajo, la cámara de arco se denomina chimenea. Esta denominación para la cámara de arco o cámara de extinción fue utilizada sin excepción por los empleados del Taller Central en las reuniones con empleados de SUB. La cámara de arco está fijada al cuerpo del interruptor de potencia con cuatro tornillos M8, lo que hace que esta cámara parezca visualmente una chimenea. 
-
+36 El interruptor de potencia se denomina en este documento interruptor rápido, lo que sugiere que para el redactor del documento la característica de la desconexión magnética rápida era lo principal. También el manual de instrucciones del fabricante utiliza para este interruptor de potencia, entre otros, el término «interruptor rápido de corriente continua». En la instrucción de trabajo, la cámara de arco se denomina chimenea. Esta denominación para la cámara de arco o cámara de extinción fue utilizada sin excepción por los empleados del Taller Central en las reuniones con empleados de SUB. La cámara de arco está fijada al cuerpo del interruptor de potencia con cuatro tornillos M8, lo que hace que esta cámara parezca visualmente una chimenea.
 
 ## Página 48
+
 
 actividades realizadas correspondía al de la instrucción de trabajo actual. Los medios de trabajo disponibles se consideran de alta calidad. 
 ## 3. 
@@ -969,10 +982,10 @@ No se verificaron ninguno.
 «§ 4. (1) 
 Las instalaciones de explotación y los vehículos deben estar construidos de manera que su explotación normal no perjudique a nadie ni lo ponga en peligro o lo obstaculice más de lo inevitable. 
 Deben estar construidos de manera que en particular  
-37 En 2013, la planificación del trabajo estaba organizada de forma descentralizada. Es decir, la planificación del trabajo formaba parte de cada uno de los talleres. 
-
+37 En 2013, la planificación del trabajo estaba organizada de forma descentralizada. Es decir, la planificación del trabajo formaba parte de cada uno de los talleres.
 
 ## Página 49
+
 
 1. las solicitaciones de naturaleza mecánica, eléctrica y térmica que se producen habitualmente en la explotación puedan soportarse sin poner en peligro la explotación, 
 2. no puedan tocarse accidentalmente piezas e instalaciones peligrosas, 
@@ -984,10 +997,10 @@ La actividad de evaluación y supervisión de riesgos está reflejada en la cali
 ## 3. 
 ### SMS de empresas ferroviarias y operadores de infraestructura 
 El sistema de gestión de la seguridad (SMS) en el sentido de los §§ 188 y siguientes del EisbG se introdujo en las WIENER LINIEN de forma voluntaria, ya que las WIENER LINIEN no son ni una empresa de transporte ferroviario ni una empresa de infraestructura ferroviaria y, por tanto, no existe la obligación de introducir un SMS. Debido a la introducción voluntaria del SMS, sin embargo, las regulaciones de la UE sobre un método común de seguridad para la evaluación de la conformidad en relación con los requisitos para la emisión de certificados de seguridad ferroviaria y la concesión de autorizaciones de seguridad ferroviaria deben implementarse de forma obligatoria. El principal motivo de la introducción de un SMS en las WIENER LINIEN, además de la descripción orientada a la seguridad de todos los procesos operativos relevantes, fue la circunstancia de que, en caso de introducir un SMS, las revisiones periódicas recurrentes conforme al § 19a del EisbG podrían suprimirse. [4] 
-La primera emisión del certificado SMS se realizó por Quality Austria el 05 de diciembre de 2008. El certificado vigente en el momento del incidente se emitió el 04 de noviembre de 2019 y fue válido hasta el 09 de diciembre de 2024.  
-
+La primera emisión del certificado SMS se realizó por Quality Austria el 05 de diciembre de 2008. El certificado vigente en el momento del incidente se emitió el 04 de noviembre de 2019 y fue válido hasta el 09 de diciembre de 2024.
 
 ## Página 50
+
 
 ## 4. 
 ### Sistema de gestión de los talleres de mantenimiento 
@@ -1000,6 +1013,7 @@ Cuando la empresa ferroviaria presente a los revisores autorizados mencionados e
 
 ## Página 51
 
+
 que el estado real de las instalaciones ferroviarias, los medios de explotación, incluidos los vehículos ferroviarios y el resto del material complementario, no corresponde aparentemente al estado indicado en dichos documentos.  
 Parte del certificado de inspección § 19a presentado por última vez en el año 2008 para los tipos de vehículo en cuestión era también la realización de las inspecciones conforme a la StrabVO o a la resolución, de acuerdo con el § 61 apartado 3 StrabVO.  
 La WIENER LINIEN GmbH & Co KG dispone desde el año 2008 (primera emisión el 05 de diciembre de 2008) de un sistema de gestión de seguridad certificado (SMS), por lo que desde ese momento no tiene que realizar una verificación conforme al § 19a EisbG. Desde el 02 de diciembre de 2024 (con vigencia hasta el 01 de diciembre de 2029) está certificada conforme al Reglamento delegado (UE) 2018/762. El sistema de gestión de seguridad cumple, también según el certificado, los requisitos de los §§ 189-193 del Ferrocarril de 1957 – EisbG.  
@@ -1010,10 +1024,10 @@ los resultados de las inspecciones internas de seguridad;
 datos sobre deficiencias e incidencias de la seguridad de la explotación del ferrocarril, de la explotación de vehículos ferroviarios en el ferrocarril o del tráfico en el ferrocarril, que puedan ser relevantes para la autoridad, incluidos los riesgos comunicados por los actores pertinentes; y  
 un informe sobre la aplicación de los métodos comunes de seguridad pertinentes.  
 En los últimos cinco años39, la empresa ferroviaria ha remitido anualmente informes de seguridad a la autoridad, que también han contenido declaraciones sobre inspecciones internas de seguridad. Estas inspecciones internas de seguridad deben garantizar que se alcancen los objetivos de seguridad  
-39 La SUB ha solicitado esta información para un periodo de cinco años.  
-
+39 La SUB ha solicitado esta información para un periodo de cinco años.
 
 ## Página 52
+
 
 (p. ej., entre ellas también se incluirían controles aleatorios de las inspecciones que deben realizarse conforme a la norma o a la resolución, p. ej. por parte de auditores de la empresa ferroviaria).  
 La remisión de justificantes de las inspecciones de vehículos por parte de la empresa ferroviaria a la autoridad ya no está prevista legalmente.  
@@ -1025,16 +1039,16 @@ Cuenta con la autorización ferroviaria. [16]
 ### Otros factores sistémicos  
 No se verificaron ninguno.  
 ## e) Sucesos anteriores de naturaleza similar  
-El 28 de junio de 2024, hacia las 15:16 h, se produjo un estallido y una ligera emisión de humo durante el trayecto de la estación Pilgramgasse a la estación Kettenbrückengasse (U 4). El tren se detuvo a continuación en vía abierta, inmovilizado. Como causa, el perito técnico ferroviario de la MA 64 indicó que se produjo un arco eléctrico en el interior del acoplamiento eléctrico entre los vagones 2230-3230. La causa del arco eléctrico en la mitad afectada del acoplamiento fue un terminal de cable defectuoso. Debido al arco eléctrico se produjo un estallido, una emisión de humo en la zona del acoplamiento y el tren quedó conectado a tierra. Como consecuencia, en la zona afectada se activaron las protecciones del subestación, lo que dejó sin corriente a varios trenes. El 07.08.2024, el vehículo implicado, el tren de dos coches 2230-3230 del tipo U11, fue inspeccionado por la MA junto con representantes de la WIENER LINIEN GmbH & Co KG, departamento técnico F52-vehículos ferroviarios, en la estación de servicio Wasserleitungswiese.  
-
+El 28 de junio de 2024, hacia las 15:16 h, se produjo un estallido y una ligera emisión de humo durante el trayecto de la estación Pilgramgasse a la estación Kettenbrückengasse (U 4). El tren se detuvo a continuación en vía abierta, inmovilizado. Como causa, el perito técnico ferroviario de la MA 64 indicó que se produjo un arco eléctrico en el interior del acoplamiento eléctrico entre los vagones 2230-3230. La causa del arco eléctrico en la mitad afectada del acoplamiento fue un terminal de cable defectuoso. Debido al arco eléctrico se produjo un estallido, una emisión de humo en la zona del acoplamiento y el tren quedó conectado a tierra. Como consecuencia, en la zona afectada se activaron las protecciones del subestación, lo que dejó sin corriente a varios trenes. El 07.08.2024, el vehículo implicado, el tren de dos coches 2230-3230 del tipo U11, fue inspeccionado por la MA junto con representantes de la WIENER LINIEN GmbH & Co KG, departamento técnico F52-vehículos ferroviarios, en la estación de servicio Wasserleitungswiese.
 
 ## Página 53
 
-El vehículo implicado era un tren de dos coches, es decir, dos vagones forman una unidad que está conectada mediante un acoplamiento corto y que normalmente no se separa. El arco eléctrico se produjo en el interior del acoplamiento corto del vagón 3230 entre los cables de alimentación de tracción (tensión continua de 750V) y la carcasa del acoplamiento. Tanto el cable como la carcasa presentaban claras marcas de quemadura o de arco eléctrico. En el extremo del vagón 2230 eran visibles marcas de hollín de gran superficie.  
-Según la información de los representantes de la WIENER LINIEN GmbH & Co KG, se trataba del primer incidente de este tipo. Los vehículos de metro del tipo U11 llevan unos 35 años en servicio. [7]  
 
+El vehículo implicado era un tren de dos coches, es decir, dos vagones forman una unidad que está conectada mediante un acoplamiento corto y que normalmente no se separa. El arco eléctrico se produjo en el interior del acoplamiento corto del vagón 3230 entre los cables de alimentación de tracción (tensión continua de 750V) y la carcasa del acoplamiento. Tanto el cable como la carcasa presentaban claras marcas de quemadura o de arco eléctrico. En el extremo del vagón 2230 eran visibles marcas de hollín de gran superficie.  
+Según la información de los representantes de la WIENER LINIEN GmbH & Co KG, se trataba del primer incidente de este tipo. Los vehículos de metro del tipo U11 llevan unos 35 años en servicio. [7]
 
 ## Página 54
+
 
 # 5 Conclusiones  
 ## a) Resumen de la evaluación y conclusiones sobre  
@@ -1043,10 +1057,10 @@ La evaluación de las causas del incendio muestra que solo por la no activación
 En las instalaciones eléctricas del material rodante pueden producirse daños en el aislamiento por fricción, que pueden dar lugar a un cortocircuito o a un cortocircuito a tierra. Por ello, la función global de la protección eléctrica es imprescindible. Asimismo, es necesaria una comprobación permanente de la resistencia de aislamiento de la instalación para prevenir la aparición de un cortocircuito. La gestión de revisiones y mantenimiento de las WIENER LINIEN prevé efectivamente esta comprobación permanente en la medida en que el chasis inferior se revisa visualmente cada 6 semanas, sin embargo, la lista de comprobación disponible para el inspector no contenía ninguna indicación explícita sobre la comprobación del aislamiento de los cables. No se prevén pruebas dieléctricas durante los mantenimientos en las WIENER LINIEN.  
 ### Factor causal  
 El incendio fue causado por un defecto eléctrico en la zona de los cables de conexión en el circuito «subestación – inversor para los motores de tracción».  
-Debe suponerse que, debido a fricciones, se produjo una reducción progresiva de la resistencia de aislamiento en el cableado del tren en cuestión  
-
+Debe suponerse que, debido a fricciones, se produjo una reducción progresiva de la resistencia de aislamiento en el cableado del tren en cuestión
 
 ## Página 55
+
 
 que dio lugar a un cortocircuito a tierra encendido40. El defecto eléctrico (daños en el aislamiento, marcas de fricción en los cables) en el cable de conexión no fue detectado a pesar de los intervalos de mantenimiento estrechos durante las inspecciones visuales del chasis inferior.  
 El interruptor principal situado en el vehículo, que habría debido desconectar el cortocircuito a tierra oportunamente, un interruptor rápido de corriente continua41, no funcionaba. El servicio del interruptor principal durante el mantenimiento probablemente se realizó de forma deficiente.  
@@ -1059,10 +1073,10 @@ Asimismo, en los puntos de mantenimiento inmediato faltaba una documentación co
 ## b) Medidas adoptadas  
 En las futuras listas de comprobación para las revisiones periódicas de los vagones se prescribirá explícitamente la comprobación visual del aislamiento de los cables. Las listas de comprobación revisadas  
 40 El cortocircuito a tierra es un fallo eléctrico y, como tal, una forma de cortocircuito. En un vehículo se produce un cortocircuito a tierra cuando un conductor con corriente entra en contacto no deseado con elementos metálicos de dicho vehículo. Debido a la resistencia casi inexistente, se genera una corriente elevada que, para evitar más daños, debería ser desconectada inmediatamente por la técnica de protección eléctrica.  
-41 Diseñado como interruptor de potencia con desconexión rápida magnética.  
-
+41 Diseñado como interruptor de potencia con desconexión rápida magnética.
 
 ## Página 56
+
 
 sin embargo, aún no están disponibles42. No obstante, en el entretanto, también sin listas de comprobación revisadas, se realiza esta comprobación. [11] En el marco de las verificaciones intermedias realizadas se detectaron puntos de fricción y daños en el aislamiento de los conductores, que fueron subsanados conforme a las especificaciones de la instrucción de trabajo «DB-F52a-AA U1_U11 revisión intermedia periódica de cables-045_A».43 Basándose en las revisiones intermedias exhaustivas y en los trabajos realizados recientemente, no se han detectado posteriormente más daños en el aislamiento durante las revisiones. No obstante, el personal está sensibilizado, por lo que las deficiencias detectadas en el futuro se someterán a una medida de mantenimiento inmediato. [16]  
 Dado que, ya durante la investigación en curso, las WIENER LINIEN tenían la sospecha de una cámara de extinción de arcos mal montada, la cámara de extinción de arcos afectada fue verificada conforme a la instrucción de trabajo «DB-F52a-IB U1_U11 comprobación de la cámara de extinción de arcos-090_A» mediante su extracción, inspección visual de las placas deflectoras para comprobar el orden correcto y su posterior reinstalación. En caso de placas deflectoras mal montadas, se habría previsto el cambio del interruptor principal y su traslado al taller principal. Además, el 03 de octubre de 2025 se inició una revisión de todas las cámaras de extinción de arcos de los interruptores principales UR6 conforme al punto 10.3 de la instrucción de trabajo «DB-F52a-AA U1_U11 comprobación del interruptor principal-086-G»44, en la que las cámaras de extinción de arcos se controlaron mediante una plantilla. Esta comprobación se finalizó el 03 de octubre de 2025, sin que se detectaran más cámaras de extinción de arcos mal montadas ni deficiencias por fusión de las placas deflectoras durante la revisión con la plantilla. [16]  
@@ -1070,16 +1084,17 @@ El 20 de enero de 2026 se realizó en las WIENER LINIEN, por parte del fabricant
 [15,16]  
 42 En la lista de comprobación existente (U11 A-Rev A Wg), en el punto chasis inferior se indica el punto de comprobación «inspección visual del chasis inferior». Falta una indicación sobre cables o conductores. Las WIENER LINIEN argumentaron que los cables y conductores forman parte del chasis inferior. La SUB, en el curso de la investigación, señaló que esto no era suficiente. Gracias a la medida adoptada, no es necesaria una recomendación de seguridad al respecto.  
 43 Esta instrucción de trabajo fue creada el 10.12.2024.  
-44 Esta instrucción de trabajo fue creada el 28.04.2025.  
-
+44 Esta instrucción de trabajo fue creada el 28.04.2025.
 
 ## Página 57
+
 
 c)  
 ## Observaciones adicionales  
 En el marco de la investigación no se detectaron más problemas de seguridad.
 
 ## Página 58
+
 
 # Conclusiones
 ## Resumen del análisis y de las conclusiones respecto de las causas
@@ -1092,8 +1107,8 @@ El incendio fue causado por un defecto eléctrico en los cables de conexión del
 
 45 Una falla a tierra es una falla eléctrica y, como tal, un tipo de cortocircuito. En un vehículo, una falla a tierra se produce cuando un conductor portador de corriente entra en contacto no intencionado con los componentes metálicos del vehículo.
 
-
 ## Página 59
+
 
 del subchasis, el defecto eléctrico (daño en el aislamiento y signos de roce de los cables) en el cable de conexión pasó desapercibido. El interruptor principal del vehículo —un disyuntor de CC de alta velocidad46 diseñado para abrir ante un cortocircuito de este tipo— no llegó a funcionar. El servicio del interruptor principal durante el mantenimiento probablemente se realizó de forma inadecuada.
 ### Factores contribuyentes
@@ -1107,8 +1122,8 @@ Debido a la resistencia despreciable, se genera una corriente elevada; para evit
 46 Diseñado como disyuntor con desenganche instantáneo magnético.
 47 La lista de verificación existente (U11 A-Rev A Wg) incluye un elemento de «inspección visual del subchasis» en la sección del subchasis, pero no hace referencia específica a cables o líneas. WIENER LINIEN alegó que los cables y las líneas se consideran parte del subchasis; sin embargo, el SUB señaló durante la investigación que esto era insuficiente. La medida adoptada hace innecesaria una recomendación de seguridad al respecto.
 
-
 ## Página 60
+
 
 de cables).48 Basándose en estas exhaustivas inspecciones intermedias y en el trabajo realizado recientemente, no se ha detectado ningún daño adicional en el aislamiento durante las revisiones posteriores.
 El personal ha sido sensibilizado sobre la cuestión, garantizando que cualquier defecto identificado en el futuro se aborde mediante medidas de mantenimiento inmediatas. [16]
@@ -1119,8 +1134,8 @@ No se identificaron más problemas de seguridad durante la investigación.
 48 Esta instrucción de trabajo se creó el 10 de diciembre de 2024.
 49 Esta instrucción de trabajo se creó el 28 de abril de 2025.
 
-
 ## Página 61
+
 
 # 6 Recomendaciones de seguridad
 ## 6.1
@@ -1140,21 +1155,64 @@ Tabla 6 Recomendaciones de seguridad conforme al § 16 Abs. 1 UUG 2005
 | | Justificación: Una documentación permite un mantenimiento eficiente e ininterrumpido. En el presente caso, una documentación existente habría facilitado la determinación de la causa y, con ello, habría acelerado la adopción de medidas preventivas. Dado que de todos modos es estado de la técnica que cada componente electrotécnico se designe, al menos según el sistema de identificación de instalaciones, el esfuerzo adicional de la categorización recomendada es reducido en relación con el beneficio. La documentación de esta categorización puede ser realizada por el fabricante en el marco de la documentación de instalaciones habitual en el sector. Los costes de documentación de los eventos relativos a los medios auxiliares necesarios no deberían ser relevantes, en la medida en que probablemente podría recurrirse a sistemas existentes. | | |
 | A-2026/003 | Se recomienda solicitar a los titulares de los vehículos y a las empresas ferroviarias o empresas de transporte que verifiquen en qué medida es viable y conveniente realizar mediciones periódicas de aislamiento y, en su caso, también ensayos dieléctricos, para detectar a tiempo la disminución de la resistencia de aislamiento de la instalación eléctrica del circuito principal. | LH Wien | EVU, ECM, BU, FH |
 
-
 ## Página 62
 
-| Número correlativo | Recomendación de seguridad (causal del accidente) | Se dirige a | Afecta a |
-|---|---|---|---|
-| | Justificación: Los valores límite de la resistencia de aislamiento están establecidos en las normas pertinentes, de modo que el titular del vehículo reconocería el peligro a partir del valor medido. En el ensayo dieléctrico, una resistencia de aislamiento demasiado baja conduciría a la perforación. La explotación del vehículo sería sin más imposible sin reparación. El esfuerzo de la verificación debería ser, en todo caso, adecuado en relación con el beneficio de la prevención potencial de accidentes graves (incendios). Si la medida en sí es proporcional en cuanto al esfuerzo, se determinará a través de la verificación. | | |
-
+Número correlativo 
+Recomendación de seguridad (causal del accidente) 
+Se dirige a 
+afecta a 
+las mediciones realizadas no se pueden reconocer. 
+El principio de las cuatro ayudas en la detección de 
+errores. 
+En relación con el beneficio de que se puedan prevenir 
+incendios con posibles consecuencias graves, el 
+esfuerzo adicional para esta medida es escaso. 
+A-2026/002 
+Se recomienda solicitar a los propietarios de vehículos y a las EVU 
+LH Wien 
+EVU, ECM, 
+o empresas de transporte que, al adquirir el material rodante, exijan a 
+BU, FH 
+los fabricantes que los componentes eléctricos de seguridad del 
+circuito principal se identifiquen y declaren como tales. En el caso de 
+instalaciones ya entregadas, sería aconsejable que los propietarios de 
+vehículos y los fabricantes colaboraran en una categorización 
+posterior. 
+Si en la gestión de mantenimiento y reparación está previsto que 
+dichos componentes se manipulen en estado desmontado, debería ser 
+obligatorio elaborar un registro exhaustivo de todos los eventos 
+relacionados con el equipo afectado. Además de la información sobre 
+mantenimientos y reparaciones, en los registros también deberían 
+anotarse las desconexiones debidas a magnitudes físicas anómalas. 
+Justificación: Una documentación permite un mantenimiento exhaustivo 
+y eficiente. En el presente caso, una documentación existente habría 
+facilitado la determinación de la causa y, con ello, acelerado la adopción 
+de medidas preventivas. 
+Dado que, en todo caso, es estado de la técnica que cada componente 
+eléctrico se identifique, al menos según el sistema de identificación de 
+instalaciones, el esfuerzo adicional para la categorización recomendada 
+es escaso en relación con el beneficio. 
+La documentación de esta categorización puede realizarla el fabricante 
+en el marco de la documentación de instalaciones habitual en el sector. 
+Los costes de documentación de los eventos relacionados con los 
+recursos auxiliares necesarios no deberían ser relevantes, ya que 
+probablemente se podría recurrir a sistemas existentes. 
+A-2026/003 
+Se recomienda solicitar a los propietarios de vehículos y a las EVU 
+LH Wien 
+EVU, ECM, 
+o empresas de transporte que, al adquirir el material rodante, exijan a 
+BU, FH
 
 ## Página 63
+
 
 | Número correlativo | Recomendación de seguridad (causal del accidente) | Se dirige a | Afecta a |
 |---|---|---|---|
 | | Justificación: Los valores límite de la resistencia de aislamiento están establecidos en las normas pertinentes, de modo que el titular del vehículo reconocería el peligro a partir del valor medido. En el ensayo dieléctrico, una resistencia de aislamiento demasiado baja conduciría a la perforación. La explotación del vehículo sería sin más imposible sin reparación. El esfuerzo de la verificación debería ser, en todo caso, adecuado en relación con el beneficio de la prevención potencial de accidentes graves (incendios). Si la medida en sí es proporcional en cuanto al esfuerzo, se determinará a través de la verificación. | | |
 
 ## Página 64
+
 
 # Recomendaciones de seguridad
 ## Recomendaciones de seguridad según el § 16 apartado 2 UUG 2005
@@ -1190,8 +1248,8 @@ Justificación: Según el fabricante, un
 cortaarcos montado incorrectamente es extremadamente
 difícil de detectar una vez instalado. Tal error
 
-
 ## Página 65
+
 
 N.º
 Recomendaciones de seguridad
@@ -1247,8 +1305,8 @@ proceda, ensayos dieléctricos, a fin de detectar
 cualquier deterioro de la resistencia de aislamiento del
 cableado del circuito principal en una fase temprana.
 
-
 ## Página 66
+
 
 N.º
 Recomendaciones de seguridad
@@ -1267,8 +1325,8 @@ incendios). La propia evaluación determinará
 si la medida es proporcional en términos del
 esfuerzo requerido.
 
-
 ## Página 67
+
 
 # Consideración de las alegaciones
 De acuerdo con el § 14 UUG 2005, al informe de investigación deben adjuntarse todas las alegaciones recibidas en plazo50
@@ -1299,8 +1357,8 @@ bienvenida», se concluye en esta
 alegación.
 50 El plazo para alegaciones finalizó el 31.07.2026
 
-
 ## Página 68
+
 
 •
 ### WIENER LINIEN GmbH & Co KG
@@ -1319,8 +1377,8 @@ seguridad A-2026/002 recomendada en este informe, se
 garantiza un registro completo del mantenimiento de
 todos los componentes eléctricos relevantes para la seguridad.
 
-
 ## Página 69
+
 
 ### Índice de tablas
 Tabla 1 Recomendaciones de seguridad según el § 16 apartado 1 UUG 2005 ..................................... 11
@@ -1331,8 +1389,8 @@ Tabla 5 Procedimiento de emergencia ferroviario ................................
 Tabla 6 Recomendaciones de seguridad según el § 16 apartado 1 UUG 2005 ..................................... 61
 Tabla 7 Safety recommendations according to § 16 paragraph 1 UUG 2005 ................... 64
 
-
 ## Página 70
+
 
 ### Índice de figuras
 Figura 1 Esquema de la red de líneas de WIENER LINIEN ................................................................ 25
@@ -1348,8 +1406,8 @@ Figura 10 Curva característica de los parámetros de apagado ..................
 Figura 11 Cable con zonas de rozadura ............................................................................... 44
 Figura 12 Plantilla para la verificación de la cámara de arcos ............................................ 45
 
-
 ## Página 71
+
 
 ### Índice de normativa
 Ley federal sobre ferrocarriles, vehículos sobre raíles en ferrocarriles y el tráfico
@@ -1375,8 +1433,8 @@ alcance y la forma de las notificaciones de accidentes e incidencias que se
 produzcan en empresas ferroviarias, a la Oficina Federal de Investigación de
 ### Accidentes (MeldeVO-Eisb 2006), BGBl. II n.º 279/2006
 
-
 ## Página 72
+
 
 ### Índice de normativa de WIENER LINIEN
 Plan de mantenimiento «Type U1, U11» edición n.º 14, vigente a partir del 13.01.2022
@@ -1386,6 +1444,7 @@ Instrucción de trabajo «Verificación del interruptor principal» DB-F52a-AA U
 Instrucción de trabajo «Interruptor rápido - U11 / V-Wagen» DB-W54-020_01; 01.04.2018
 
 ## Página 73
+
 
 ### Índice de fuentes
 Los datos del presente informe de investigación (provisional) se tomaron de las siguientes fuentes (números de identificación no correlativos):
@@ -1427,8 +1486,8 @@ Frankfurt am Main
 [16]
 Correo electrónico (795.409 U1-WL-032-I-E); 27.03.2026; WIENER LINIEN
 
-
 ## Página 74
+
 
 ### Abreviaturas
 Art.
@@ -1478,28 +1537,33 @@ Untergrundbahn (Ferrocarril subterráneo)
 Z
 Zug (Tren)
 
-
 ## Página 75
+
 
 # Anexo – Dictámenes
 
-
 ## Página 76
+
 
 
 ## Página 77
 
 
+
 ## Página 78
+
 
 
 ## Página 79
 
 
+
 ## Página 80
 
 
+
 ## Página 81
+
 
 ### Sicherheitsuntersuchungsstelle des Bundes (Oficina Federal de Investigación de Seguridad)
 Radetzkystraße 2, 1030 Wien

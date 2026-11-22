@@ -12,8 +12,8 @@ tokens_in: 32227
 tokens_out: 21861
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-verificacion: revisar
-avisos: ["página 6: ratio 1.82", "página 28: ratio 1.84"]
+verificacion: ok
+notas_cifras: ["página 4: original bilingüe: se compara contra el idioma principal (HR)", "página 6: original bilingüe: se compara contra el idioma principal (EN)", "página 7: cifras cortas: 1/70", "página 10: cifras largas: 1/19; cifras cortas: 5/87", "página 15: cifras cortas: 1/16", "página 21: original bilingüe: se compara contra el idioma principal (HR)"]
 ---
 
 ## Página 1
@@ -194,32 +194,28 @@ La velocidad de circulación del tren por los puntos de desvío, ligeramente por
 
 ## Página 6
 
-CORRECCIÓN OBLIGATORIA: falló ratio 1.77. Traduce el fragmento completo, sin omitir ninguna línea, tabla ni cifra.
-
-
-
-No fue posible determinar la causa inmediata del descarrilamiento mediante la investigación, aunque la desaceleración del tren mediante frenado podría haber contribuido a ello, lo que podría haber provocado un contacto local entre los vagones y un tirón del vehículo, así como la acción de fuerzas dinámicas durante el paso por las agujas. Como consecuencia de lo anterior, podría haberse producido un salto del eje. Asimismo, es posible que el desplazamiento vertical local de la vía junto a los valores límite del conjunto de eje descarrilado haya contribuido a la descarga del eje en cuestión y, por tanto, a la escalada de la corona de la rueda sobre el riel (capítulo 4.2.6). 
+La causa inmediata del descarrilamiento no pudo determinarse en la investigación, pero en ello pudo contribuir la deceleración del tren mediante frenado, lo que pudo tener como consecuencia el acoplamiento local de unos vagones sobre otros y el tirón del vehículo, así como la acción de las fuerzas dinámicas al pasar por los desvíos. Como consecuencia de lo anterior, esto pudo provocar el salto del eje. Asimismo, es posible que el desplazamiento vertical local de la vía, en los valores límite del conjunto de ejes descarrilado, haya podido contribuir a la descarga del eje en cuestión y, con ello, provocar el ascenso del labio de la rueda sobre el raíl (capítulo 4.2.6). 
 ### Recomendaciones de seguridad 
-La Agencia para la Investigación de Accidentes en el Tráfico Aéreo, Marítimo y Ferroviario no tiene recomendaciones de seguridad relacionadas con este accidente. 
+La Agencia de Investigación de Accidentes en el Tráfico Aéreo, Marítimo y Ferroviario no tiene recomendaciones de seguridad relacionadas con este accidente. 
 ## RESUMEN DEL INFORME 
-El 11 de julio de 2018, a las 8:38 h, durante la entrada del tren 48911 procedente de la estación de Gyekenyes con destino a la estación de Dobova, el transportista RCC-Croatia, en el sexto andén de la estación de Dugo Selo, descarrilaron cuatro vagones de mercancías en la aguja número 5, en el pk 445 + 562 de la línea ferroviaria internacional M102. No hubo heridos en el accidente, aunque hubo daños materiales considerables en la infraestructura, en los vagones de mercancías descarrilados y en la mercancía.  
-Una causa directa de este accidente es: el descarrilamiento de la décima vagona con el segundo eje del primer bogie inmediatamente después de cruzar la aguja número 5 en la estación de Dugo Selo (capítulo 4.1).  
+El 11 de julio de 2018, a las 8:38 a. m., durante la maniobra de entrada del tren 48911 desde la estación de Gyekenyes hasta la estación de Dobova, del transportista RCC-Croatia, en la vía número 6 de la estación de ferrocarril de Dugo Selo, cuatro vagones de mercancías descarrilaron en el desvío número 5, en el km 445 + 562 de la línea ferroviaria internacional M102. No hubo heridos en el accidente, sin embargo, se produjeron daños materiales considerables en la infraestructura, en los vagones de mercancías descarrilados y en la mercancía.  
+La causa directa de este accidente es: el descarrilamiento del décimo vagón con el segundo eje del primer bogie inmediatamente después de cruzar el desvío número 5 en la estación de ferrocarril de Dugo Selo (capítulo 4.1).  
 Factores contribuyentes: 
 - 
-los valores medidos del conjunto de eje de descarrilamiento superan los valores límite permitidos (capítulo 4.2.2), 
+los valores medidos del conjunto de ejes descarrilado superan los valores límite permitidos (capítulo 4.2.2), 
 - 
-el estado de la vía de la aguja número 5 (capítulo 4.2.1), 
+el estado de la vía del desvío número 5 (capítulo 4.2.1), 
 - 
 daños en la punta del traductor y desgaste material del propio traductor (capítulo 4.2.1), 
 - 
-la velocidad del tren en la aguja, ligeramente superior al valor máximo (capítulo 4.2.3), 
-No fue posible determinar la causa inmediata del accidente, pero la desaceleración del tren mediante frenado podría haber provocado un contacto local entre los vagones y un tirón del vehículo, así como la acción de fuerzas dinámicas, lo que podría haber contribuido al accidente. Esto podría haber provocado un movimiento vertical del eje. También es posible que el movimiento vertical local de la vía, combinado con los valores máximos permitidos del tazón giratorio, haya contribuido a la descarga del eje en cuestión y, por tanto, a la escalada de la rueda sobre la vía (capítulo 4.2.6). 
+la velocidad del tren en el desvío, ligeramente por encima del valor máximo (capítulo 4.2.3), 
+No fue posible determinar la causa inmediata del accidente, pero la deceleración del tren mediante frenado pudo haber provocado el contacto local entre los vagones y el tirón del vehículo, y la acción de las fuerzas dinámicas, que pudieron haber contribuido al accidente. Esto pudo haber resultado en el movimiento vertical del eje. También es posible que el desplazamiento vertical local de la vía, combinado con los valores máximos permitidos de la placa giratoria, haya podido contribuir a la liberación del eje en cuestión y, con ello, al ascenso de la rueda sobre la vía (capítulo 4.2.6). 
 ### Recomendación de seguridad 
-Como resultado de esta investigación, la Agencia para la Investigación de Accidentes Aéreos, Marítimos y Ferroviarios (AIA) no emite recomendaciones de seguridad. 
-### 2. DATOS DEL INCIDENTE 
+Como resultado de esta investigación, la Agencia de Investigación de Accidentes en el Tráfico Aéreo, Marítimo y Ferroviario (AIA) no tiene recomendación de seguridad. 
+### 2. DATOS DEL EVENTO 
 ## 2.1. 
-### Descripción del incidente 
-El 11 de julio de 2018 a las 08:38 h, durante la entrada del tren 48911 en la línea entre la estación de Gyekenyes y la estación de Dobova, del transportista RCC-Croatia d.o.o., en el sexto andén de la estación de Dugo Selo se produjo el descarrilamiento de cuatro vagones de mercancías en la aguja número 5, en el pk 445+562 de la línea internacional de标识 M102. Los vagones de mercancías descarrilados se encontraban en las posiciones 10., 11., 12. y 13. dentro de la composición del tren 48911, que estaba compuesto por diecinueve
+### Descripción del evento 
+El 11 de julio de 2018 a las 08:38 horas, durante la maniobra de entrada del tren 48911 en el tramo estación de Gyekenyes – estación de Dobova, del transportista RCC-Croatia d.o.o., en la vía número 6 de la estación de Dugo Selo, se produce el descarrilamiento de cuatro vagones de mercancías en el desvío número 5, en el km 445+562 de la vía internacional con designación M102. Los vagones de mercancías descarrilados se encontraban en los puestos 10.º, 11.º, 12.º y 13.º en la composición del tren 48911, el cual estaba formado por diecinueve
 
 ## Página 7
 
@@ -629,49 +625,44 @@ En la siguiente tabla se muestra un resumen de la actividad del conductor:
 ## Página 28
 
 ## 3.7.7.2. 
-### Formación, instrucción, aptitud física y control del trabajo del maquinista
-El maquinista implicado completó en octubre de 2013 el programa de formación para la locomotora de la serie 
-1116 impartido por la Escuela Técnica de Zagreb, Centro Autorizado para la Formación de Maquinistas. 
-Posteriormente, en diciembre de 2017, superó el examen de verificación extraordinaria de conocimientos, de 
-conformidad con el artículo 12 del Reglamento sobre la autorización de los maquinistas. 
-Su aptitud física era válida, con la fecha límite para la nueva verificación de la aptitud física fijada para el 
-02.09.2018. 
-Asimismo, hasta el momento del accidente, participó puntualmente en todas las sesiones de instrucción periódica 
-organizadas por el empleador en la Escuela Técnica de Zagreb, que se celebraron en los meses de marzo y junio 
-y tuvieron una duración de nueve horas cada una. 
-Según la documentación presentada, se observa que el control del trabajo del maquinista se realizó cuatro veces 
-en el período comprendido entre mayo de 2016 y marzo de 2018, y no se detectaron irregularidades en relación 
-con la preparación para la conducción del tren y la gestión de la unidad móvil, excepto en un caso de irregularidad 
-relativa a la documentación de trabajo. 
+### Formación, instrucción, aptitud médica y control del trabajo del maquinista 
+El maquinista implicado realizó en octubre de 2013 el programa de formación para el vehículo de tracción de la serie 
+1116 impartido por la Escuela Técnica de Zagreb, Centro Autorizado de Formación de Maquinistas. 
+Asimismo, en diciembre de 2017 superó el examen de comprobación extraordinaria de conocimientos, de conformidad con el artículo 12. 
+del Reglamento sobre la habilitación de maquinistas. 
+Médicamente era apto, con fecha límite para la repetición de la comprobación de aptitud médica hasta el 02.09.2018. 
+También hasta el momento del accidente participó regularmente en todas las instrucciones periódicas organizadas por el 
+empleador en la Escuela Técnica de Zagreb, que se celebraron en los meses de marzo y junio, con una duración de nueve horas cada una. 
+Según la documentación remitida, se observa que el control del trabajo del maquinista se realizó cuatro veces en 
+el período comprendido entre mayo de 2016 y marzo de 2018, y que no se detectaron anomalías en relación con 
+la preparación para la circulación del tren y la conducción del vehículo, salvo en un caso de anomalía en cuanto a la gestión 
+de la documentación laboral. 
 ### 4. ANÁLISIS Y CONCLUSIONES 
 ## 4.1. 
-### Presentación final de la secuencia de los acontecimientos
-El 06 de julio de 2018, desde el lugar de Nagtad (Hungría), una composición de vagones de mercancías cargada 
-con maíz inició su circulación con destino final al lugar de Fiorenzuola (Italia). El 11 de julio de 2018 a las 06:02 
-horas, entró en la estación de Botovo. Desde la estación de Botovo circuló como el tren número 48911, 
-pasando por la estación de Koprivnica a las 06:20 horas y llegando a la estación de Križevci. Desde la estación 
-de Križevci partió a las 08:02 horas, pasando por las estaciones de Vrbovec y Božjakovina, y cruzando la señal 
-de entrada «B» de la estación de Dugo Selo a las 08:36:28 horas. En el momento del paso, el tren 489111 
-mantenía una velocidad de 56 km/h; tras recorrer una distancia de 76 metros, se aplicó el freno, reduciendo la 
-velocidad a 40 km/h, con una distancia total recorrida de 291 metros. 
-Durante la mencionada reducción de velocidad, la composición pasó por el punto de cruce número 1 (velocidad 
-43 km/h) y el punto de cruce número 2 (velocidad 40 km/h). A continuación, circuló a velocidad constante de 
-40 km/h durante una distancia de 184 metros, atravesando el punto de cruce número 5 en el pk 445+562. 
-Durante el paso del décimo vagón (número de identificación 33 87 9332 528-7) por el punto de cruce número 5, 
-se produjo el descarrilamiento del segundo bogie del lado izquierdo en sentido de circulación del tren. La primera 
-huella del descarrilamiento (imagen 6, marca 1′) es visible en el decimocuarto traviesa del punto de cruce 
-número 5, y el bogie comenzó a desplazarse sobre las traviesas de madera del séptimo vía, chocando contra el 
-riel derecho del séptimo vía. Posteriormente, el mencionado bogie se desprendió y el décimo vagón se volcó 
-hacia la izquierda. Asimismo, en el undécimo vagón (33 87 9335 999-7) se desprendió el primer bogie del primer 
-bogie y el segundo bogie del segundo bogie, volcando hacia la derecha. Mientras el duodécimo vagón (33 87 
-9332 190-6) se desprendió de ambos bogies y el decimotercer vagón (33 87 9336 248-8) se desprendió del primer 
-bogie. La locomotora con los primeros nueve vagones se detuvo en el sexto vía de la estación de Dugo Selo en 
-la posición pk 445+081. Debido al descarrilamiento, se produjo una importante salida de la mercancía a granel 
-(maíz) de los vagones 10 y 11, mientras que de los vagones 12 y 13 no hubo salida de mercancía. 
-En el descarrilamiento, los vagones 10 y 11 quedaron totalmente destruidos, mientras que los vagones 12 y 13 
-resultaron gravemente dañados. 
-Además, debido al descarrilamiento y al vuelco de los vagones, se produjeron una serie de daños en el quinto, 
-sexto y séptimo vía, en los puntos de cruce número 5 y 7, y se destruyó la señal de salida con la marca D-6.
+### Representación final de la secuencia de acontecimientos 
+El 06 de julio de 2018, desde la localidad de Nagtad (Hungría), una composición de vagones de mercancías cargada con 
+maíz comienza a circular con destino final a la localidad de Fiorenzuola (Italia). El 11 de julio de 
+2018 a las 06:02 horas entra en la estación de Botovo. Desde la estación de Botovo circula como tren número 48911, 
+pasa por la estación de Koprivnica a las 06:20 horas y llega a la estación de Križevci. Desde la estación de Križevci parte a las 08:02 
+horas, y pasa por las estaciones de Vrbovec, Božjakovina y pasa junto a la señal de entrada "B" de la estación de Dugo Selo a las 08:36:28 
+horas. En el momento del paso, el tren 489111 tiene una velocidad de circulación de 56 km/h; tras recorrer una distancia de 76 metros 
+lleva a cabo una frenación y una reducción de velocidad hasta el valor de 40 km/h con un recorrido total de 291 metros. 
+Durante la reducción de velocidad anteriormente mencionada pasa por el desvío número 1 (velocidad 43 km/h) y el desvío 
+número 2 (velocidad 40 km/h). A continuación sigue una marcha a velocidad constante de 40 km/h con una distancia recorrida de 
+184 metros, donde se pasa por el desvío número 5. en el pk 445+562. Durante el paso del décimo vagón (matrícula 33 87 
+9332 528-7) por el desvío número 5. se produce el descarrilamiento del segundo conjunto de ejes del primer bogie 
+por el lado izquierdo en el sentido de circulación del tren. La primera huella de descarrilamiento (figura 6. marca 1′) es visible en el 14º 
+durmiente desde el desvío número 5, y se produce el movimiento del mismo sobre los durmientes de madera de la séptima vía y el 
+impacto contra el riel derecho de la séptima vía. A continuación se produce la salida del suelo del conjunto de ejes 
+anteriormente mencionado y el vuelco del décimo vagón sobre el costado izquierdo. También en el 11.º (33 87 9335 999-7) 
+vagón se produce la salida del primer conjunto de ejes del primer bogie y la salida del segundo conjunto de ejes 
+del segundo bogie, así como el vuelco sobre el costado derecho. Mientras que el 12.º vagón (33 87 9332 190-6) saltó de ambos bogies y el 13.º vagón (33 87 9336 248-8) 
+saltó del primer bogie. La locomotora con los nueve primeros vagones se detuvo en la sexta vía 
+de la estación de Dugo Selo en la posición pk 445+081. Como consecuencia del descarrilamiento se produce una fuga considerable de carga a granel 
+(maíz) de los vagones 10 y 11, mientras que de los vagones 12 y 13 no se produjo fuga de carga. 
+Durante el descarrilamiento los vagones 10 y 11 quedaron totalmente destruidos, mientras que los vagones 12 y 13 quedaron gravemente dañados. 
+Asimismo, como consecuencia del descarrilamiento y vuelco de los vagones se produjo una serie de daños en la quinta, sexta y séptima 
+vía, en los desvíos número 5 y 7, así como la destrucción de la señal de salida con la marca D-6.
 
 ## Página 29
 

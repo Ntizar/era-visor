@@ -10,13 +10,14 @@ chars: 85138
 ratio_longitud: 1.25
 tokens_in: 36109
 tokens_out: 25319
-verificacion: revisar
-notas_cifras: ["bloque 4: original bilingüe: se compara contra el idioma principal (CS)", "bloque 7: original bilingüe: se compara contra el idioma principal (CS)"]
-avisos: ["bloque 7: ratio 1.68"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 5: original bilingüe: se compara contra el idioma principal (EN)", "página 6: original bilingüe: se compara contra el idioma principal (PT)", "página 7: original bilingüe: se compara contra el idioma principal (PT)", "página 11: original bilingüe: se compara contra el idioma principal (CS)", "página 13: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 Inspección Ferroviaria
 República Checa
@@ -41,8 +42,8 @@ IČ:   75009561
 http://www.dicr.cz
 tel.: 224 805 444
 
-
 ## Página 2
+
 
 # RESUMEN
 Grado:
@@ -69,10 +70,10 @@ coste total CZK 152 960,-
 Causa directa:
 perturbación de la sección transversal de la vía durante la realización no autorizada 
 de obras de construcción por parte de los trabajadores de un subcontratista en la zona 
-de protección de la vía sin permiso del gestor de la infraestructura y sin 
-
+de protección de la vía sin permiso del gestor de la infraestructura y sin
 
 ## Página 3
+
 
 cumplimiento de la regulación del gestor de la infraestructura SŽDC, s. o. y de la 
 agencia nacional de seguridad.
@@ -120,13 +121,13 @@ y métodos de evaluación de riesgos e implementación de disposiciones para el 
 riesgos de acuerdo con la directiva europea 2004/49/ED, artículo 9 apartado 2 „SMĚRNICE 
 EVROPSKÉHO PARLAMENTU A RADY 2004/49/ES (Směrnice o bezpečnosti železnic).
 
-
 ## Página 4
+
 
 Este informe final es público y todos los documentos y hechos están respaldados por el expediente de investigación.
 
-
 ## Página 5
+
 
 # Índice
  Summary .............................................................................................................................3
@@ -167,8 +168,8 @@ incluidas personas en relación contractual ....................................
 3.1 Resumen de las declaraciones prestadas (sujeto a protección de la identidad de las 
 personas) ........................................................................................................16
 
-
 ## Página 6
+
 
 3.1.1 Empleados del gestor de la vía y del transportista, incluidas personas en 
 relación contractual ...................................................................................16
@@ -214,6 +215,7 @@ constatados en el punto 3 ......................................................
 
 ## Página 7
 
+
 4.2 Análisis ......................................................................................................................26
 4.2.1 Evaluación de los hechos constatados de acuerdo con el punto 3 y exposición de las conclusiones sobre la causa del suceso excepcional y la actuación de los servicios de emergencia ..........................................26
 4.3 Conclusiones .............................................................................................................29
@@ -229,11 +231,12 @@ constatados en el punto 3 ......................................................
 7 Anexos .............................................................................................................................34
  Foto n.º 3: Billete documentado por el DI en la oficina de tráfico de la est. de Miroslav tras la ocurrencia del SE ........................34
 
-
 ## Página 8
 
 
+
 ## Página 9
+
 
 ## Lista de siglas y símbolos utilizados
 COP
@@ -310,8 +313,8 @@ servicio de emergencias sanitarias de la región de Moravia del Sur
 žst.
 estación ferroviaria
 
-
 ## Página 10
+
 
 ## 1 RESUMEN
 Grupo del suceso:
@@ -346,36 +349,22 @@ Factores contribuyentes:
 la no verificación de los requisitos del constructor, relacionados con los trabajos en la 
 •
 vía de transporte en explotación, por parte del Jefe del Centro de Operaciones de Hrušovany n. Jevišovkou el día del inicio de la obra, de acuerdo con las reglas indicadas en los párrafos 93 y 94 de la norma SŽDC (ČD) Op16, 
-Capítulo I, Disposiciones Fundamentales, PARTE TERCERA, TRABAJO 
-
+Capítulo I, Disposiciones Fundamentales, PARTE TERCERA, TRABAJO
 
 ## Página 11
 
-Y OBLIGACIONES DE LOS EMPLEADOS DE PERSONAS JURÍDICAS Y 
-FÍSICAS EXTRANJERAS EN ČD;
-la actuación de los jefes de estación de la est. de Miroslav, desde el día del inicio de la obra hasta la 
-•
-ocurrencia del SE, que no rechazaron la transmisión de información sobre la situación del tráfico a un trabajador del constructor (subcontratista) sin cualificación profesional y de una manera que no correspondía a las reglas establecidas en el art. D.1 y D.5 letra b), del documento «Circular n.º 1. a la norma SŽDC (ČD) Op 16». 
-Causas en el uso del sistema de garantía de la seguridad:
-procedimiento ambiguo en la transmisión de información de seguridad 
-•
-dentro del explotante de la vía;
-la no transmisión del documento «Dictamen sobre la notificación de la obra» de los órganos 
-•
-directivos de SŽDC, s. o., hacia el Jefe del Centro de Operaciones, que estuvo presente en el lugar el día del inicio de la obra.
+OBLIGACIONES DE LOS EMPLEADOS DE PERSONAS JURÍDICAS Y FÍSICAS EXTRANJERAS EN ČD;
+• actuaciones de los jefes de estación de la estación Miroslav, desde el día de inicio de la obra hasta la aparición de la MU, que no se negaron a facilitar información sobre la situación del tráfico a un trabajador del contratista (subcontratista) sin competencia profesional y de una manera que no corresponde a las reglas establecidas en el art. D.1 y D.5 letra b) del documento „Výnos č. 1. k předpisu SŽDC (ČD) Op 16“.
+Causas en el uso del sistema de garantía de seguridad:
+• procedimiento ambiguo a la hora de facilitar información de seguridad dentro del gestor de la vía;
+• no entrega del documento „Vyjádření k ohlášení stavby“ por parte de los órganos directivos de SŽDC, s. o., hacia el Jefe del centro de explotación, que estuvo presente en el lugar el día del inicio de la obra.
 Recomendaciones de seguridad:
-al explotante de la vía, la Gestión de la Vía Ferroviaria de Transporte, organización estatal: 
-describir y establecer los procedimientos de transmisión de información de seguridad y los procedimientos de control de 
-•
-su transmisión en el documento «Elementos fundamentales del sistema de garantía de la seguridad de la explotación de la vía y de la organización del transporte ferroviario en la vía de ámbito nacional y en las vías regionales» de manera más clara, unívoca y coherente, en consonancia con la recomendación indicada en el punto ad 2b) del documento «ACTA sobre el ejercicio de la supervisión estatal en materia de vías» n.º de expediente: 
-7- 469/2011/DI-2;
-completar, en vista de la causa inmediata establecida de la ocurrencia del SE, en el documento 
-•
-«Elementos fundamentales del sistema de garantía de la seguridad de la explotación de la vía y de la organización del transporte ferroviario en la vía de ámbito nacional y en las vías regionales» el capítulo e) «procedimientos y métodos de evaluación del riesgo y de implantación de medidas para la gestión del riesgo» con la metodología para tener en cuenta el riesgo derivado de la actividad de otras personas, de acuerdo con el art. 9. apartado 2 de la «DIRECTIVA 
-DEL PARLAMENTO EUROPEO Y DEL CONSEJO 2004/49/CE (Directiva sobre seguridad ferroviaria).
-
+al gestor de la vía Správa železniční dopravní cesty, organización estatal:
+• describir y establecer los procedimientos de facilitación de información de seguridad y los procedimientos de control de su facilitación en el documento „Základní prvky systému zajišťování bezpečnosti provozování dráhy a organizování drážní dopravy na dráze celostátní a dráhách regionálních“ de manera más clara, unívoca y coherente, en consonancia con la recomendación indicada en el punto ad 2b) del documento „PROTOKOL o výkonu státního dozoru ve věcech dráh“ n.º de expediente: 7-469/2011/DI-2;
+• completar, en vista de la causa inmediata determinada de la aparición de la MU, en el documento „Základní prvky systému zajišťování bezpečnosti provozování dráhy a organizování drážní dopravy na dráze celostátní a dráhách regionálních“ el capítulo e) „postupy a metody posuzování rizika a zavádění opatření pro usměrňování rizika“ con la metodología de consideración del riesgo derivado de la actividad de otras personas, de conformidad con el art. 9 apartado 2 de la „DIRECTIVA DEL PARLAMENTO EUROPEO Y DEL CONSEJO 2004/49/CE (Directiva sobre seguridad ferroviaria).
 
 ## Página 12
+
 
 ## 2 DATOS RELATIVOS AL SUCESO EXCEPCIONAL
 ## 2.1
@@ -389,8 +378,8 @@ El día 23. 7. 2012 a las 8:51 h partió de la est. de Hrušovany nad Jevišovko
 Mn 82623. La circulación en dirección a la est. de Miroslav se realizó sin anomalías. Durante la marcha por el tramo de la parada de Dolenice, el maquinista detectó una estructura en la vía bajo el paso superior de carretera. A pesar de la aplicación inmediata del frenado de acción rápida, no logró evitar el choque con el obstáculo en el perfil de paso de la vía, formado por un andamiaje móvil en el pk 105,190. La cabeza del tren se detuvo en el pk 105,205. En el impacto a baja velocidad se produjo el hundimiento de la estructura del andamiaje y la caída del trabajador del constructor, que trabajaba en el andamiaje, a la parte lateral del HDV. 
 El empleado del constructor resultó levemente herido y partes del andamiaje quedaron, tras la detención del tren, encajadas bajo el HDV. La ocurrencia del SE fue notificada por el maquinista del tren al jefe de estación de la est. de Miroslav. Este activó el IZS y a continuación notificó la ocurrencia del SE de acuerdo con el cuadro de notificaciones.
 
-
 ## Página 13
+
 
 2.1.3 Decisión de iniciar la investigación de las causas y circunstancias del origen, composición del equipo de personas cualificadas y forma de dirigir la investigación de las causas y circunstancias del origen
 El SE fue notificado al COP de la DI de Praga el día 23. 7. 2012 a las 10:07 h. En vista 
@@ -428,6 +417,7 @@ El estado de los componentes de la vía de transporte no guardaba relación con 
 
 ## Página 14
 
+
 Fig. n.º 2: Vista del lugar del SU
 ### 2.2.4 Uso de medios de comunicación
 Para la transmisión de información sobre incidencias en el tráfico ferroviario entre el jefe de estación de la est. Miroslav y un trabajador del subcontratista en el lugar de la obra se utilizaron (sobre la base de un acuerdo verbal) teléfonos móviles. Esta comunicación no fue registrada por el dispositivo técnico para la archivación del tráfico telefónico y no correspondía a las reglas establecidas por el gestor de la vía para garantizar la seguridad en el lugar de la obra.
@@ -439,6 +429,7 @@ Al COP DI se notificó el SU a las 10:07 h. Al lugar del SU acudieron las person
 Con la participación del VI DI se realizó la inspección conjunta del lugar del SU, incluida la elaboración del acta. Tras la inspección del lugar de la ocurrencia de la incidencia por el VI DI, la PČR y los empleados de la OMU ÚP Brno, a las 11:25 h se concedió al DI el permiso para iniciar los trabajos de limpieza.
 
 ## Página 15
+
 
 El tráfico ferroviario en el lugar del SU quedó interrumpido desde las 9:10 h hasta las 11:35 h, momento en que se reanudó la explotación del tráfico ferroviario.
 ### 2.2.7 Activación del plan del sistema integrado de emergencia, de la policía y del servicio de emergencias médicas y secuencia de acontecimientos
@@ -473,6 +464,7 @@ jefe de estación de la est. Miroslav – del Acta con el empleado y de la prese
 del jefe de estación del turno nocturno recibió el número de teléfono móvil al que debía comunicar las incidencias en el tráfico ferroviario;
 
 ## Página 16
+
 
 el tren Mn 82623 no lo comunicó al equipo de trabajo porque se trataba de un tren
 ◦
@@ -554,6 +546,7 @@ de estación llamaría;
 
 ## Página 17
 
+
 no registró a la persona que ejercía la inspección de vía durante los trabajos en el lugar
 ◦
 de la obra.
@@ -619,6 +612,7 @@ Tanto el gestor de la vía como el transportista tienen sistemas de garantía de
 
 ## Página 18
 
+
 ### 3.2.2 Requisitos para los empleados del gestor de la vía y del transportista y su aplicación
 La aptitud médica de los empleados del gestor de la vía y del transportista se evalúa en el sentido de lo dispuesto en el decreto n.º 101/1995 Sb., por el que se aprueba el Reglamento de aptitud médica y profesional de las personas en la explotación de la vía y del tráfico ferroviario, en su versión vigente.
 En el momento de la ocurrencia del SU objeto de estudio, todos los empleados del gestor de la vía y del transportista participantes en el SU tenían un certificado de aptitud médica vigente.
@@ -642,31 +636,31 @@ El DI se centró en la verificación del contenido de la inspección en la est. 
 
 ## Página 19
 
-del órgano de control del gestor de la infraestructura.
-En el caso de la realización de controles en el gestor de la infraestructura no se detectaron anomalías.
-### 3.2.4 Interfaz entre los distintos sujetos implicados y los componentes del camino de tránsito
-El gestor de la infraestructura de la línea ferroviaria regional de vía única 323A Střelice – Hrušovany nad Jevišovkou es SŽDC, s. o., con domicilio en Dlážděná 1003/7, Praha 1 – Nové Město, PSČ 110 00, en virtud de la Autorización Administrativa emitida por el Drážní úřad el 29. 5. 2008, con el n.º de expediente: 3-4277/07-DÚ/Le-DÚ/O-SI (n.º de reg. ÚP/2008/9002).
-El gestor del transporte ferroviario era ČDC, con domicilio en Jankovcova 1569/2c, PSČ 170 00 Praha 7 – Holešovice, en virtud de la Licencia para la explotación del transporte ferroviario n.º de expediente: 3-3841/07-DÚ/Le (n.º de reg. L/1996/5000), concedida por el Drážní úřad Praha el 20. 11. 2007, y de la Resolución de modificación de la licencia, n.º de expediente 3-2935/08-DÚ/Le (n.º de reg. L/2008/1452-1), de fecha 5. 8. 2008, y n.º de expediente: 3886/08-DÚ/Le (n.º de reg. L/2008/1452-2), de fecha 27. 08. 2008.
-Autorización para la construcción de la obra «Reparación del paso superior carretero – puente 415-1, Dolenice» emitida por el DÚ, área de Olomouc el 13. 2. 2012, ref. MO-SOO0165/12-2/Vb DUCR-8512/12/Vb.
+del órgano de control del explotador ferroviario.
+En el caso de la realización de inspecciones en el explotador ferroviario no se detectaron defectos.
+### 3.2.4 Interfaz entre los distintos sujetos participantes y los componentes de la vía
+El explotador de la línea ferroviaria regional de vía única 323A Střelice – Hrušovany nad Jevišovkou es SŽDC, s. o., con domicilio en Dlážděná 1003/7, Praha 1 – Nové Město, CP 110 00, en virtud de la Autorización Administrativa emitida por la Oficina Ferroviaria el 29. 5. 2008, con el n.º de expediente: 3-4277/07-DÚ/Le-DÚ/O-SI (n.º de registro ÚP/2008/9002).
+El explotador del transporte ferroviario era ČDC, con domicilio en Jankovcova 1569/2c, CP 170 00 Praha 7 – Holešovice, en virtud de la Licencia de explotación de transporte ferroviario n.º de expediente: 3-3841/07-DÚ/Le (n.º de registro L/1996/5000), concedida por la Oficina Ferroviaria de Praga el 20. 11. 2007, y de la Resolución de modificación de la licencia, n.º de expediente 3-2935/08-DÚ/Le (n.º de registro L/2008/1452-1), de fecha 5. 8. 2008, y n.º de expediente: 3886/08-DÚ/Le (n.º de registro L/2008/1452-2), de fecha 27. 08. 2008.
+Autorización para la construcción «Reparación del paso superior carretero – puente 415-1, Dolenice» emitida por DÚ, área de Olomouc el 13. 2. 2012, ref. MO-SOO0165/12-2/Vb DUCR-8512/12/Vb.
 Declaración sobre la notificación de la obra «Reparación del paso superior carretero – puente 415-1, Dolenice» por parte de SŽDC, s. o., de fecha 26. 1. 2012, ref. 1126/12-SDC BNO-3/12-43/15.
 Contrato de obra «Reparación del puente N.º reg. 415-1, DOLENICE n.º 171/2012» celebrado entre SÚS JMK y la empresa SARES spol. s r. o. el 12. 6. 2012.
 ## 3.3
-### Regulación jurídica y de otro tipo
+### Normativa jurídica y otras disposiciones
 ### 3.3.1 Normativa jurídica comunitaria y nacional aplicable
-En la investigación del accidente ferroviario (MU) se constató la infracción de las siguientes normas jurídicas:
+En la investigación del accidente ferroviario se constató la infracción de las siguientes disposiciones jurídicas:
 § 4a apartado (1) de la Ley n.º 266/1994 Sb., de ferrocarriles, en su redacción vigente: «Nadie podrá
 •
-sin la autorización del gestor de la infraestructura realizar en el ámbito de la infraestructura actividades que se consideren como actividad empresarial, entrar en la infraestructura y en su ámbito a lugares no accesibles al público, salvo que una norma jurídica especial disponga lo contrario»;
+sin autorización del explotador ferroviario realizar en el ámbito de la vía actividades que se consideren como actividad empresarial, entrar en la vía y en el ámbito de la vía en lugares no accesibles al público, salvo que una disposición jurídica especial establezca lo contrario»;
 § 22 apartado (1) letra a) de la Ley n.º 266/1994 Sb., de ferrocarriles, en su redacción vigente:
 •
-«El gestor de la infraestructura está obligado a explotar la infraestructura para las necesidades del transporte ferroviario fluido y seguro de acuerdo con las normas de explotación de la infraestructura y la autorización administrativa»;
+«El explotador ferroviario está obligado a explotar la vía para las necesidades del transporte ferroviario fluido y seguro de acuerdo con las normas de explotación de la vía y la autorización administrativa»;
 § 22 apartado 2 letra d) de la Ley n.º 266/1994 Sb., de ferrocarriles, en su redacción vigente:
 •
-«El gestor de la infraestructura de ámbito nacional o regional está además obligado a implantar un sistema de garantía de la seguridad de la explotación de la infraestructura y a asegurar su cumplimiento»;
-§ 152 apartado (1) de la Ley n.º 183/2006 Sb., de ordenación territorial y del procedimiento de construcción (Ley de construcción), en su redacción vigente, «El promotor está obligado a velar por la correcta preparación y ejecución de la obra; esta obligación se extiende también a las obras de nivelación y a las instalaciones. Al hacerlo, deberá tener en cuenta especialmente la protección de la vida y la salud de las personas o los animales, la protección del medio ambiente y de la propiedad, así como la consideración hacia los vecinos. Estas obligaciones existen también en el caso de obras y sus modificaciones que no requieren licencia de construcción ni notificación, o de cualquier otro proyecto análogo, por ejemplo, la instalación de un dispositivo publicitario. En el caso de las obras
-
+«El explotador de una vía de ámbito nacional o de una vía regional está además obligado a implantar un sistema de garantía de la seguridad de la explotación de la vía y a garantizar su cumplimiento»;
+§ 152 apartado (1) de la Ley n.º 183/2006 Sb., de ordenación territorial y del procedimiento de construcción (Ley de Construcción), en su redacción vigente, «El promotor está obligado a velar por la adecuada preparación y ejecución de la obra; esta obligación se extiende también a las obras de nivelación y a las instalaciones. A tal efecto deberá tener en cuenta especialmente la protección de la vida y la salud de las personas o de los animales, la protección del medio ambiente y de la propiedad, así como la consideración hacia el vecindario. Estas obligaciones existen también en el caso de obras y sus modificaciones que no requieran licencia de construcción ni notificación, o en el caso de otro proyecto análogo, por ejemplo, la instalación de un dispositivo publicitario. En el caso de obras
 
 ## Página 20
+
 
 realizadas por el propio promotor, este está asimismo obligado a hacer coincidir la posición espacial de la obra con la documentación de proyecto verificada. Sobre el inicio de los trabajos en obras exentas de autorización, está obligado a informar con la antelación suficiente a las personas directamente afectadas por dichos trabajos»;
 § 152 apartado (4) de la Ley n.º 183/2006 Sb., de ordenación territorial y del procedimiento de construcción (Ley de construcción), en su redacción vigente, «En el caso de una obra financiada con presupuesto público y ejecutada por un empresario de la construcción como contratista, el promotor está obligado a asegurar la supervisión técnica de la obra por parte del promotor sobre la ejecución de la misma. Si la documentación de proyecto de dicha obra puede ser elaborada únicamente por una persona autorizada según una norma jurídica especial, el promotor asegurará la supervisión de autoría del proyectista o, en su caso, del proyectista principal sobre la conformidad de la obra ejecutada con la documentación de proyecto verificada»;
@@ -683,29 +677,54 @@ art. 11, capítulo III, Principios de seguridad y salud en el trabajo, aplicable
 •
 todos los empleados de ČD y también a los empleados de otras entidades jurídicas que realicen actividades en ČD, PARTE PRIMERA, DISPOSICIONES GENERALES de la norma SŽDC (ČD) Op16, «Todos los empleados están obligados, según sus posibilidades, a velar
 
-
 ## Página 21
 
-por su propia seguridad, por su salud y por la seguridad y la salud de las personas físicas a las que su actuación afecte directamente. Están obligados a cumplir las normas... normas de seguridad...»;
-art. 43, capítulo III, Trabajo en el ámbito de las estaciones, en las vías de trazado y en
-•
-la vía de otras unidades organizativas de la norma SŽDC (ČD) Op16, «Si un grupo de trabajo opera en las vías OS – o en plena línea, su seguridad deberá estar garantizada mediante vigilancia. Esta vigilancia la ejercerá el director de trabajos o la patrulla de seguridad designada por él...»;
-art. D.1 del documento Výnos n.º 1. de la norma SŽDC (ČD) Op 16, «La seguridad en el
-•
-trabajo se detalla también en otras normas de SŽDC, mediante las cuales se regulan las condiciones para la realización del trabajo. En la realización del trabajo, los empleados y las personas mencionadas en A.2 afectados por ellas deberán regirse por las mismas y, al mismo tiempo, estarán obligados a actuar de manera que su actuación no suponga una amenaza para la salud o la seguridad de las personas o para la seguridad de la explotación de la infraestructura y de la explotación del transporte ferroviario»;
-art. D.5 letra b) del documento Výnos n.º 1. de la norma SŽDC (ČD) Op 16, «Siempre
-•
-antes de iniciar el trabajo, el director de trabajos comunicará al empleado de tráfico el tipo y el lugar concreto del trabajo y: ...en el caso de que el puesto de trabajo esté...en plena línea...el director de trabajos podrá acordar con el empleado de tráfico que la vigilancia del puesto de trabajo la garantice él mismo, mediante una patrulla de seguridad (patrulla de seguridad avanzada)... El empleado de tráfico anotará en el cuaderno telefónico las condiciones acordadas para la realización del trabajo y la forma de comunicación mutua, y ambos firmarán las anotaciones»;
-capítulo h) Procedimientos y modelos de documentación de la información de seguridad y
-•
-establecimiento del procedimiento para la comprobación de la configuración de la información de seguridad más importante, del documento Elementos básicos del sistema de garantía de la seguridad de la explotación de la infraestructura y de la organización del transporte ferroviario en la infraestructura de ámbito nacional y en las infraestructuras regionales del gestor de la infraestructura, «Una parte integrante de la actividad de control de la organización es el control continuo del proceso de transmisión de la información de seguridad desde los órganos de dirección de la organización hasta la firma de los distintos empleados en la OS del gestor de la infraestructura y su retroalimentación, incluidos los procedimientos de archivo».
-## 3.4
-### Actividad de los vehículos ferroviarios y de los dispositivos técnicos
-### 3.4.1 Sistema de control, señalización y seguridad, incluidos los dispositivos de registro automático de datos
-La línea no está equipada con dispositivo de seguridad de línea en el tramo entre la est. Hrušovany nad Jevišovkou y la est. Miroslav. La circulación de los trenes se organizaba mediante comunicación telefónica, que comprendía la oferta y la aceptación del tren entre los jefes de estación, con la consiguiente comprobación de la libertad de la línea tras cada paso. La comprobación de la libertad de la línea se basa en el hecho de que el tren llega a la estación contigua completo (comprobación de la marca del último DV). De esta actividad se deja constancia en el registro de la comunicación telefónica. En las actividades de los jefes de estación relacionadas con la comunicación asociada a la seguridad de la circulación de los trenes mediante comunicación telefónica no se detectaron anomalías y esta actividad de los jefes de estación no guardaba relación causal con la ocurrencia del accidente ferroviario (MU).
+o su propia seguridad, su salud y la seguridad y salud de las personas físicas a las que se refiere directamente su actuación. Están obligados a cumplir las normas... normas de seguridad...";
 
+• art. 43, capítulo III, Trabajo en el ámbito de las estaciones, en las vías de trazado y en la vía de otras
+organizaciones del reglamento SŽDC (ČD) Op16, "Cuando un grupo de trabajo
+trabaja en vías OS – o en plena línea, su seguridad debe estar garantizada mediante vigilancia.
+Esta vigilancia la ejerce el responsable del trabajo o la guardia de seguridad designada por él...";
+
+• art. D.1 del documento Výnos č. 1. del reglamento SŽDC (ČD) Op 16, "La seguridad laboral
+se concreta también en otros reglamentos SŽDC, mediante los cuales se regulan las condiciones para
+la realización del trabajo. Durante la realización del trabajo, los empleados afectados y las personas indicadas
+en A.2 deben regirse por ellos y, a la vez, están obligados a actuar de manera que su actuación no
+provoque un riesgo para la salud o la seguridad de las personas o un riesgo para la seguridad de la explotación
+de la vía y la seguridad de la explotación del transporte ferroviario";
+
+• art. D.5 letra b) del documento Výnos č. 1. del reglamento SŽDC (ČD) Op 16, "Siempre antes
+de iniciar el trabajo, el responsable del trabajo comunicará al empleado de tráfico el tipo y el lugar concreto del trabajo y: ...en el caso de que el puesto de trabajo esté...en plena línea...puede acordar
+el responsable del trabajo con el empleado de tráfico que la vigilancia del puesto de trabajo la garantice
+él mismo, mediante una guardia de seguridad (guardia de seguridad avanzada)...las condiciones acordadas
+para la realización del trabajo y el modo de comunicación mutua los anotará el empleado
+de tráfico en el cuaderno telefónico y ambos firmarán la anotación";
+
+• capítulo h) Procedimientos y modelos de documentación de la información de seguridad y establecimiento del
+procedimiento para la comprobación de la configuración de la información de seguridad
+más importante, del documento Elementos básicos del sistema de garantía de la seguridad de la explotación
+de la vía y de la organización del transporte ferroviario en la vía de ámbito nacional y en las vías regionales
+del explotador de la vía, "Una parte integrante de la actividad de control de la organización es
+el control continuo del proceso de transmisión de la información de seguridad desde los órganos de dirección
+de la organización hasta la firma de los distintos empleados en la OS del explotador de
+la vía y su retroalimentación, incluidos los procedimientos de archivo".
+
+## 3.4
+### Actividad de los vehículos ferroviarios y de las instalaciones técnicas
+### 3.4.1 Sistema de control, señalización y seguridad, incluidos los dispositivos para la grabación automática
+de datos
+
+El trazado no está equipado, en el tramo entre la estación de Hrušovany nad Jevišovkou y la estación de Miroslav, con
+dispositivo de enclavamiento de línea. La circulación de los trenes se organizaba mediante telefónica
+de entendimiento, que comprendía la oferta y la aceptación del tren entre los jefes de estación, con la consiguiente comprobación
+de la libertad de la vía después de cada paso. La comprobación de la libertad de la vía se basa en el hecho de que el tren llega a la
+estación contigua completo (comprobación de la marca del último DV). De esta actividad se deja constancia
+en el registro de la actividad telefónica. En las actividades de los jefes de estación, relativas a la comunicación conectada
+con la seguridad de la circulación de los trenes mediante telefónica de entendimiento, no se detectaron
+defectos y esta actividad de los jefes de estación no guardaba relación causal con la aparición del MU.
 
 ## Página 22
+
 
 ### 3.4.2 Componentes de la infraestructura
 Los parámetros constructivos y técnicos de la infraestructura y la realización de inspecciones y mediciones de los componentes de la infraestructura no guardaban relación con las causas de la ocurrencia del accidente ferroviario (MU) y, por lo tanto, no fue necesario verificarlos.
@@ -741,6 +760,7 @@ El puesto de trabajo no estuvo señalizado ni vigilado durante todo el tiempo de
 
 ## Página 23
 
+
 ### 3.5.2 Intercambio de comunicaciones verbales en relación con el suceso excepcional, incluidas las pruebas del dispositivo de registro
 La comunicación verbal entre el jefe de estación de la est. Miroslav y el VPS el día del inicio de la obra no está registrada por el dispositivo de registro, y el hecho de que se produjera se desprende de las explicaciones presentadas por el DI y de las actas con los empleados.
 Entre el jefe de estación de la est. Miroslav y el contratista de la obra se mantuvo comunicación verbal desde el inicio de la obra hasta la ocurrencia del SE, pero dicha comunicación no fue registrada de ninguna manera. Sin embargo, el hecho de que se produjera se desprende de las explicaciones presentadas (véase el punto 2.1.1 de este informe). El jefe de estación de la est. Miroslav, mediante teléfonos móviles, transmitía información de seguridad e instrucciones relativas a la organización del tráfico ferroviario a personas sin cualificación profesional en la organización del tráfico ferroviario. Según la explicación presentada por el DI, el jefe de estación de la est. Miroslav no comunicó a los trabajadores en el lugar de la obra la información sobre la circulación del tren Mn 82623.
@@ -756,8 +776,8 @@ El lugar del SE fue asegurado por el gestor de la infraestructura y el transport
 • el maquinista del tren Mn 82623 estaba en turno el día 23. 7. 2012 a partir de las 4:00 h, y su descanso ininterrumpido previo al turno fue de 31 h 15 min.
 El empleador garantizó las condiciones para el descanso ininterrumpido previo al turno y durante el turno de conformidad con el Decreto del Gobierno n.º 586/2006 Sb., por el que se establece la regulación diferenciada de la jornada laboral y del tiempo de descanso de los trabajadores del transporte, y con los §§ 88 y 90 de la Ley n.º 262/2006 Sb., Código del Trabajo, en su versión vigente.
 
-
 ## Página 24
+
 
 3.6.2 Estado de salud y situación personal que influyeron en el suceso excepcional, incluido el estrés físico o psicológico
 Todos los empleados implicados estaban, en el momento de la ocurrencia del SE, aptos para el desempeño de la función que desempeñaban. La investigación no arrojó datos de que la situación personal o el estado psicológico de las personas implicadas en el SE hubieran influido en la ocurrencia del SE.
@@ -772,8 +792,8 @@ Un SE similar ocurrió el día 21. 7. 2006 en la línea Tábor – Ražice, dura
 ### 4.1.1 Descripción final del suceso excepcional basada en los hechos constatados en el punto 3
 El día 23. 7. 2012 a las 8:51 h partió de la est. Hrušovany nad Jevišovkou el tren de mercancías Mn 82623. La circulación en dirección a la est. Miroslav se desarrolló sin incidencias. Durante la circulación por el tramo de la parada Dolenice, el maquinista observó alguna estructura en la vía bajo el paso superior carretero. A pesar de la aplicación inmediata del frenado de emergencia, no logró evitar la colisión con el obstáculo, formado por un andamio móvil en el pk 105,190. La cabeza del tren se detuvo en el pk 105,205. En el impacto a baja velocidad se produjo el hundimiento de la estructura del andamio y la caída del trabajador del contratista que trabajaba en el andamio a la parte lateral de la HDV. El empleado del subcontratista de la obra resultó levemente herido y, tras la detención del tren, partes del andamio quedaron encastradas bajo la HDV.
 
-
 ## Página 25
+
 
 ## 4.2
 ### Análisis
@@ -787,8 +807,8 @@ El documento de SŽDC, s. o. fue creado en primer lugar y precedió a la creaci�
 • en el punto n.º 1 se establece una instrucción inequívoca de que, entre otras cosas: «los trabajos solo pueden ejecutarse con la exclusión del tráfico ferroviario...»;
 • en el punto n.º 2 se establecen instrucciones para obtener el consentimiento para la ejecución de la obra notificada de conformidad con la Ley de Construcción;
 
-
 ## Página 26
+
 
 • en el punto n.º 3 se da la instrucción de garantizar «la supervisión técnica de los trabajos como mínimo 30 días antes del inicio de los trabajos»;
 • en el punto n.º 4 se indica que, entre otras cosas: «Los trabajos de reparación del paso superior deben ejecutarse de manera que no se ponga en peligro la seguridad del tráfico ferroviario (perfil de circulación), la seguridad de los trabajadores... ni se dificulte el mantenimiento...».
@@ -807,14 +827,15 @@ El día 9. 7. 2012, en el lugar de ejecución de los trabajos, se reunieron los 
 
 ## Página 27
 
+
 De las explicaciones facilitadas por las personas implicadas, que se contradicen en algunos puntos, se realizó un análisis y una confrontación con la forma constatada en que se garantizó la seguridad en el lugar de la obra desde el 9. 7. 2012 hasta la ocurrencia del SU.
 Desde el inicio de los trabajos, la seguridad de los trabajadores y la seguridad del tráfico ferroviario en el lugar de ejecución de los trabajos se garantizó de una manera que no se ajustaba a ninguna disposición de las normas internas del gestor de la vía y no cumplía ninguna de las condiciones indicadas en los documentos DÚ y SŽDC, s. o., para la concesión del consentimiento para la obra, a pesar de que el contratista los había recibido de forma comprobable. El contratista no disponía de permiso de acceso al recinto de la vía y tampoco lo proporcionó a los trabajadores del subcontratista. Tampoco entregó al gestor de la vía el calendario de trabajos para su deliberación ni notificó el inicio de la obra según las condiciones establecidas.
 El VPS entregó al contratista, el día del inicio de los trabajos, la lista de trenes que había elaborado, a pesar de no ser un empleado que dirigiera y organizara el tráfico ferroviario. Aceptó la garantía de la seguridad en el lugar de los trabajos mediante comunicación por teléfono móvil con el jefe de estación de solo una de las estaciones vecinas. No realizó ninguna anotación en la documentación relacionada con la explotación de la vía y la organización del tráfico ferroviario sobre la forma de asegurar el puesto de trabajo y, dentro del alcance de su competencia profesional, no evaluó las informaciones críticas para la seguridad que se derivaron de la reunión de inicio de la obra del 9. 7. 2012, ni garantizó la seguridad según las reglas normativas y las instrucciones del gestor de la vía. No se interesó por la competencia profesional del responsable de trabajos del contratista ni por los documentos que el contratista poseía antes del inicio de la obra. El hecho de que en su ámbito de responsabilidad por la explotabilidad de la vía, en el segmento derivado de la competencia profesional, se fueran a ejecutar trabajos en la franja de protección de la vía y en el recinto de la vía, no lo consultó con sus superiores. Por otro lado, el VPS no fue informado a tiempo de la intención de ejecutar trabajos de construcción en su ámbito de responsabilidad y no recibió las condiciones que el gestor de la vía había establecido para autorizar la obra. El gestor de la vía, en el marco de la circulación interna de informaciones de seguridad, no garantizó su entrega a la unidad operativa TO Hrušovany nad Jevišovkou con la antelación suficiente.
 El jefe de estación de Miroslav, el 9. 7. 2012, aceptó la forma propuesta de comunicación con los trabajadores del subcontratista en el lugar de la obra, sin ser consciente de que se trataba de la transmisión de informaciones de seguridad e instrucciones relativas a la organización del tráfico ferroviario a personas sin competencia profesional, y de que la actividad que realizaba no se ajustaba a ninguna regla indicada en las normas internas del gestor de la vía. Ningún jefe de estación de Miroslav que, desde el día del inicio de la obra hasta la ocurrencia del SU, estuviera en servicio diario, puso fin a esta colaboración indicando que adoptaría sus propias medidas para garantizar la seguridad y requeriría al VPS para la corrección inmediata de la situación instaurada.
 El 23. 7. 2012 a las 8:51 h, partió de la estación de Hrušovany nad Jevišovkou el tren de mercancías Mn 82623. El jefe de estación de Miroslav, convencido de que se trataba de un tren regular que el subcontratista tenía en la lista (ninguno de los jefes de estación vio nunca la lista de trenes que utilizaban los trabajadores en el lugar de la obra), no llamó por teléfono móvil a los trabajadores de la obra. Durante la marcha por el tramo de la parada de Dolenice, el maquinista observó alguna estructura en la vía bajo el paso superior de carretera. A pesar de la aplicación inmediata del frenado de acción rápida, no logró evitar la colisión con el obstáculo, formado por un andamio móvil. Como consecuencia de los hallazgos ya mencionados, el puesto de trabajo no estaba señalizado ni vigilado de ninguna manera. Un trabajador del subcontratista se encontraba, en el ejercicio de su trabajo sobre el andamio, con ropa de protección y una capucha en la cabeza, dotada de un aparato de respiración. Este hecho, junto con el ruido generado al chorrear la estructura del puente, contribuyó además a que no pudiera oír la advertencia sonora emitida por la bocina del HDV. En el impacto a baja velocidad se produjo el hundimiento de la estructura del andamio y la caída de este trabajador del contratista sobre la parte lateral del HDV. El empleado resultó levemente herido y partes del andamio quedaron, tras
 
-
 ## Página 28
+
 
 la parada del tren, encastradas bajo el HDV. La ocurrencia del SU fue comunicada por el maquinista del tren al jefe de estación de Miroslav. Este activó el IZS y, además, comunicó la ocurrencia del SU según el cuadro de notificaciones.
 ## 4.3
@@ -842,8 +863,8 @@ garantizó la seguridad en el lugar de la obra de una manera que no se ajustaba 
 ◦
 condiciones establecidas para el consentimiento de ejecución de la obra, indicadas en el documento «Vyjádření k ohlášení stavby» de SŽDC, s. o., ni tampoco a las reglas establecidas en el art. 11. de la norma SŽDC (ČD) Op16, capítulo III, «Principios de seguridad y salud laboral, válidos para todos los empleados de ČD y también para los empleados de otras entidades jurídicas que realicen actividad en ČD, PARTE PRIMERA, DISPOSICIONES BÁSICAS», en relación con el art. 43, capítulo III «Trabajos en el recinto de las estaciones, en las vías de línea y en la vía de otras unidades organizativas»;
 
-
 ## Página 29
+
 
 incumplió las obligaciones indicadas en el art. D.1 y D.5 letra b) del documento «Výnos
 ◦
@@ -862,54 +883,50 @@ SŽDC, s. o., al VPS presente en el lugar el día del inicio de la obra, lo que 
 ### 4.4.1 Deficiencias y omisiones constatadas durante la investigación de las causas y circunstancias de la ocurrencia del suceso excepcional, que sin embargo no son relevantes para las conclusiones sobre las causas
       En el documento «Žádost o souhlas» del promotor de la obra, recibido por SŽDC, s. o., el 10. 1. 2012, se indica, entre otras cosas, que: «...los trabajos se realizarán sobre un andamio ligero y fácilmente manipulable, que no invadirá el perfil de circulación de la línea». Esta frase figura también en las condiciones de la licitación pública y en el contrato de obra. Atendiendo a la descripción de los trabajos realizados en el diario de obra y al hecho de que el eje de la vía bajo el puente «EV. Č. 4152-1 DOLENICE» se encuentra, en el sentido a la derecha desde el inicio de la línea, a 2,94 m del muro de contención, al trabajar en la parte de las vigas sobre la vía y en el muro de contención derecho debía producirse necesariamente una entrada no autorizada en el recinto de la vía y una violación del perfil de circulación. El procedimiento presentado de ejecución de trabajos fuera del perfil de circulación estaba ya desde el principio en contradicción con la realidad objetiva, derivada de la tecnología, del alcance de los trabajos ejecutados y de la ubicación de la parte de la obra. De los hechos mencionados se desprende que el promotor (constructor) y el contratista incumplieron también las disposiciones de la normativa legal no relacionada con la explotación de la vía. Se trataba del § 152 apartado (1) y (4), y del § 153 apartado (1) de la Ley núm. 183/2006 Sb., de ordenación territorial y procedimiento de construcción (Ley de construcción).
 
-
 ## Página 30
 
-## 5 MEDIDAS ADOPTADAS
+## 5 Medidas adoptadas
 ## 5.1
-### Lista de medidas que ya se han adoptado o tomado como consecuencia del suceso excepcional
-          El gestor de la vía y el operador han adoptado las siguientes medidas respecto al SU:
-los responsables directivos (P OS, P PO) garantizarán la información de los directores
-•
-de los centros operativos sobre las conclusiones de la investigación y sobre el contenido de la «Evaluación de las causas y circunstancias de la ocurrencia del suceso excepcional»;
-los jefes de las administraciones especializadas de la sección NPI garantizarán la
-•
-formación repetida de los directores de los centros operativos sobre el sistema de deliberación de obras en la franja de protección de la vía y de Obras en la vía gestionadas en el SW ISPD;
-incluir en el contenido de la próxima formación periódica de los empleados en la función
-•
-de jefe de estación la información sobre el desarrollo, la causa y las consecuencias de este suceso excepcional.
+### Lista de medidas que ya se han adoptado o tomado como consecuencia del suceso ferroviario
+          El gestor de la infraestructura y el transportista han adoptado las siguientes medidas en relación con el suceso ferroviario:
+los responsables directivos (P OS, P PO) garantizarán que los directivos de •
+los centros operativos sean informados de las conclusiones de la investigación y del contenido de la "Evaluación de las causas y circunstancias del suceso ferroviario";
+los jefes de las administraciones especializadas de la sección NPI garantizarán la •
+reciclación de los directivos de los centros operativos sobre el sistema de tramitación de construcciones en la franja de protección ferroviaria y de Construcciones ferroviarias gestionado en el SW ISPD;
+se incluirá en el contenido de la próxima formación ordinaria de los empleados en •
+la función de jefe de estación la información sobre el desarrollo, la causa y las consecuencias de este suceso ferroviario.
 
 ## Página 31
 
 ## 6 RECOMENDACIONES DE SEGURIDAD
-La Inspección Ferroviaria, como autoridad administrativa competente en la materia según lo dispuesto en el apartado 53b, apartado 5, de la Ley núm. 266/1994 Sb., de ferrocarriles, en su redacción vigente, sobre la base del resultado de la investigación de las causas y circunstancias del origen del suceso extraordinario, recomienda al operador ferroviario Administración de la Infraestructura de Transporte Ferroviario, organización estatal:
+La Inspección Ferroviaria, como autoridad administrativa competente en la materia según lo dispuesto en el apartado 5 del § 53b de la Ley núm. 266/1994 Sb., de ferrocarriles, en su versión vigente, sobre la base del resultado de la investigación de las causas y circunstancias del suceso ferroviario, recomienda al explotador ferroviario Administración de la Infraestructura Ferroviaria, organización estatal:
 describir y establecer los procedimientos de transmisión de información de seguridad y los procedimientos de control de
 •
-su transmisión en el documento "Elementos básicos del sistema de garantía de la seguridad de la explotación del ferrocarril y de la organización del transporte ferroviario en la red ferroviaria estatal y en las redes ferroviarias regionales" de forma más clara, unívoca y coherente, de acuerdo con la recomendación indicada en el punto ad 2b) del documento "ACTA sobre el ejercicio de la supervisión estatal en materia de ferrocarriles", ref. núm.: 7-469/2011/DI-2;
-completar, en vista de la causa inmediata determinada del origen del SE, en el documento
+su transmisión en el documento «Elementos básicos del sistema de garantía de la seguridad de la explotación ferroviaria y de la organización del transporte ferroviario en la red ferroviaria de ámbito nacional y en las redes ferroviarias regionales» de manera más clara, unívoca y coherente, de conformidad con la recomendación indicada en el punto ad 2b) del documento «PROTOCOLO sobre el ejercicio de la supervisión estatal en materia ferroviaria» ref. núm.: 7-469/2011/DI-2;
+complementar, en relación con la causa inmediata determinada del suceso ferroviario, el documento
 •
-"Elementos básicos del sistema de garantía de la seguridad de la explotación del ferrocarril y de la organización del transporte ferroviario en la red ferroviaria estatal y en las redes ferroviarias regionales" el capítulo e) "procedimientos y métodos de evaluación del riesgo y de adopción de medidas para la gestión del riesgo", la metodología de consideración del riesgo derivado de la actividad de otras personas, de conformidad con el artículo 9. apartado 2 de la "DIRECTIVA 2004/49/CE DEL PARLAMENTO EUROPEO Y DEL CONSEJO (Directiva sobre seguridad ferroviaria)".
-El sentido del primer punto de la recomendación de seguridad es volver a señalar el hecho de que en el documento "Elementos básicos del sistema de garantía de la seguridad de la explotación del ferrocarril y de la organización del transporte ferroviario en la red ferroviaria estatal y en las redes ferroviarias regionales" existe una definición indirecta de qué información se considera información de seguridad, y que sobre su base no es posible determinar el número y la relación unívoca de dicha información, ni cuáles de ellas se consideran las más importantes. Este hecho provoca también la ausencia de modelos para la documentación y el control de la transmisión de información de seguridad. Los hechos relativos a la información de seguridad contenida en las normas de ejecución de la obra se describen en la segunda causa sistémica del origen del SE.
-El segundo punto de la recomendación de seguridad es una reacción al hecho de que la DI, tras estudiar la recomendación indicada en el capítulo 14) del documento "Instrucción metodológica para la emisión del certificado de seguridad del operador ferroviario y del certificado del transportista", emitido por la DÚ bajo la ref. núm. 1-1574/07-DÚ de fecha 10. 12. 2007, no encontró en el capítulo c) del documento "Elementos básicos del sistema de garantía de la seguridad de la explotación del ferrocarril y de la organización del transporte ferroviario en la red ferroviaria estatal y en las redes ferroviarias regionales" su aplicación. La parte del texto de la recomendación indicada, relativa a la "entrada permitida y prohibida en las vías", llevó a la DI a vincular esta recomendación a la causa inmediata del origen del SE.
+«Elementos básicos del sistema de garantía de la seguridad de la explotación ferroviaria y de la organización del transporte ferroviario en la red ferroviaria de ámbito nacional y en las redes ferroviarias regionales» en el capítulo e) «procedimientos y métodos de evaluación del riesgo y de adopción de medidas para la gestión del riesgo», con la metodología de consideración del riesgo derivado de la actividad de otras personas, de conformidad con el artículo 9. apartado 2 de la «DIRECTIVA 2004/49/CE DEL PARLAMENTO EUROPEO Y DEL CONSEJO (Directiva sobre seguridad ferroviaria)».
+El sentido del primer punto de la recomendación de seguridad es volver a llamar la atención sobre el hecho de que en el documento «Elementos básicos del sistema de garantía de la seguridad de la explotación ferroviaria y de la organización del transporte ferroviario en la red ferroviaria de ámbito nacional y en las redes ferroviarias regionales» existe una definición indirecta de qué información se considera información de seguridad, y que sobre su base no es posible determinar el número y la relación exhaustiva y unívoca de dicha información, ni cuáles de ellas se consideran las más importantes. Este hecho provoca también la ausencia de modelos para la documentación y el control de la transmisión de información de seguridad. Los hechos relativos a la información de seguridad contenida en las normas de ejecución de la obra se describen en la segunda causa sistémica del suceso ferroviario.
+El segundo punto de la recomendación de seguridad es una reacción al hecho de que, tras estudiar la recomendación indicada en el capítulo 14) del documento «Instrucción metodológica para la expedición del certificado de seguridad del explotador ferroviario y del certificado del transportista», emitido por la DÚ bajo la ref. núm. 1-1574/07-DÚ de fecha 10. 12. 2007, la DI no encontró su aplicación en el capítulo c) del documento «Elementos básicos del sistema de garantía de la seguridad de la explotación ferroviaria y de la organización del transporte ferroviario en la red ferroviaria de ámbito nacional y en las redes ferroviarias regionales». Una parte del texto de la recomendación indicada, relativa a la «entrada permitida y no permitida en las vías», llevó a la DI a vincular esta recomendación con la causa inmediata del suceso ferroviario.
 En Brno, a 11 de febrero de 2013
-Bc. Josef Dvořák s. f.
-Libor Bruzl s. f.
+Bc. Josef Dvořák v. r.
+Libor Bruzl v. r.
 director
 inspector superior
-de la Inspección Territorial de Brno
-de la Inspección Territorial de Brno
-
+De la Inspección Territorial de Brno
+De la Inspección Territorial de Brno
 
 ## Página 32
 
-## 7 ANEXOS
 
+## 7 ANEXOS
 
 ## Página 33
 
+
 Foto núm. 1 y 2: Vista del lugar del SE (restos de andamios y equipos de protección del trabajador lesionado tras la colisión con el tren (fuente: foto SŽDC, s. o.)
 
-
 ## Página 34
+
 
 Foto núm. 3: Billete documentado por la DI en la estación de Miroslav tras el origen del SE

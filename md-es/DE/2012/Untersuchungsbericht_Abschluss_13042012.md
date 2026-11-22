@@ -10,13 +10,14 @@ chars: 57380
 ratio_longitud: 1.14
 tokens_in: 22354
 tokens_out: 18004
-verificacion: revisar
-notas_cifras: ["bloque 2: cifras cortas: 1/77", "bloque 5: cifras largas: 1/31", "bloque 7: cifras cortas: 2/41"]
-avisos: ["bloque 8: ratio 1.69"]
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 9: cifras cortas: 1/10", "página 18: cifras largas: 1/11", "página 27: cifras cortas: 2/12"]
 ---
+
 ## Página 1
+
 
 Centro de Investigación
 de la Oficina Federal de Investigación de Accidentes Ferroviarios
@@ -31,8 +32,8 @@ Suceso peligroso en el tráfico ferroviario
 | Número de línea: | 3600 |
 | Kilómetro: | 18 420 , |
 
-
 ## Página 2
+
 
 ## Publicado por:
 Ministerio Federal de Transporte y Economía Digital
@@ -40,8 +41,8 @@ Oficina Federal de Investigación de Accidentes Ferroviarios
 Robert-Schuman-Platz 1
 53175 Bonn
 
-
 ## Página 3
+
 
 # Índice:
 ### Página
@@ -98,8 +99,8 @@ Evaluación y conclusiones .....................................................
 5.1
 Instalaciones de infraestructura ............................................................................................. 26
 
-
 ## Página 4
+
 
 | 5.2 | Tecnología de mando y seguridad 26 - ................................................................................ |
 | 5.3 | Tecnología de vehículos 26 .................................................................................................. |
@@ -111,8 +112,8 @@ Ilustr. 2: Plano de situación .................................................
 Ilustr. 3: Anexo 1 de Betra F 514146 12 ................................................................................. 19
 Ilustr. 4: Representación gráfica del EFR de la cabina de control 50 80 8035 378-4 ............................. 25
 
-
 ## Página 5
+
 
 # Glosario de siglas
 AEG
@@ -170,8 +171,8 @@ Tren regional
 Rb/Bau
 Acompañante de maniobras, servicio de construcción
 
-
 ## Página 6
+
 
 | Ril | Directriz |
 | SB | Autoridad de seguridad |
@@ -184,6 +185,7 @@ Acompañante de maniobras, servicio de construcción
 
 ## Página 7
 
+
 # 1 
 # Resumen 
 ## 1.1 
@@ -195,16 +197,16 @@ El maquinista del RB 15640, el conductor del vehículo de dos vías y el Zf/RbBa
 ## 1.3 
 ## Causas 
 Debido a un error de vía, el vehículo de dos vías fue enlazado en la vía de línea no cerrada del cruce Mühlheim Ost – Hanau Hbf. El RB 15640, que circulaba por la vía de línea Mühlheim Ost – Hanau Hbf, colisionó sin frenar en el pk 18,420 con el vehículo de dos vías.  
-. 
-
+.
 
 ## Página 8
 
-Fig. 1: Fotografías en el lugar del accidente 
-Fuente: BPol 
 
+Fig. 1: Fotografías en el lugar del accidente 
+Fuente: BPol
 
 ## Página 9
+
 
 # 2 
 # Observaciones previas 
@@ -217,10 +219,10 @@ Más detalles al respecto se encuentran disponibles en Internet en >> www.eisenb
 ## 2.2 
 ## Objetivo de la investigación de accidentes ferroviarios 
 El objetivo y la finalidad de las investigaciones es aclarar las causas de los sucesos peligrosos y extraer de ellas indicaciones para la mejora de la seguridad. Las investigaciones de la EUB no tienen como objetivo determinar culpas ni aclarar cuestiones de responsabilidad u otras reclamaciones de derecho civil, y se llevan a cabo de forma independiente de cualquier investigación judicial. 
-La investigación comprende la recopilación y evaluación de información, la elaboración de conclusiones, incluida la determinación de las causas, y, en su caso, la emisión de recomendaciones de seguridad. Las propuestas de la oficina de investigación para la prevención de accidentes y la mejora de la seguridad en el tráfico ferroviario se comunican a la autoridad de seguridad y, si es necesario, a otros órganos y autoridades o a otros Estados miembros de la UE en forma de recomendaciones de seguridad. 
-
+La investigación comprende la recopilación y evaluación de información, la elaboración de conclusiones, incluida la determinación de las causas, y, en su caso, la emisión de recomendaciones de seguridad. Las propuestas de la oficina de investigación para la prevención de accidentes y la mejora de la seguridad en el tráfico ferroviario se comunican a la autoridad de seguridad y, si es necesario, a otros órganos y autoridades o a otros Estados miembros de la UE en forma de recomendaciones de seguridad.
 
 ## Página 10
+
 
 ## 2.3 
 ## Partes implicadas 
@@ -235,6 +237,7 @@ Entre el 12.04.2012 y el 16.04.2012, según la Instrucción de explotación y co
 A las 0:27 h, el Zf/RbBau del vehículo de dos vías solicita el enclavamiento del vehículo de dos vías en la vía Hanau Hbf – Üst Mühlheim Ost. Además, el Zf/RbBau solicita el cierre de la vía del S-Bahn a las 0:32 h. Una vez que el ÖZF del lado norte de Hanau ha cumplido los requisitos operativos para los cierres de vía, incluida la transmisión de órdenes para el tren de cierre 97210, autoriza el enclavamiento del vehículo de dos vías. El vehículo de dos vías cruza a continuación la vía de línea cerrada Hanau Hbf – Üst Mühlheim Ost y se enlaza en la vía Üst Mühlheim Ost – Hanau Hbf en el pk 18,420. El brazo del vehículo de dos vías se orienta en dirección a Hanau. A las 0:38 h, tras consultar con el Zf/RbBau del vehículo de dos vías, se levanta el cierre de la vía del S-Bahn Mühlheim Dietesheim – Hanau Hbf. A las 0:44 h, el S-Bahn 35881 cruza a nivel la zona de vía única del vehículo de dos vías en el pk 18,420. La vía del S-Bahn de vía única (VZG 3680) se deriva desde el lado sur al lado norte de la vía doble (VZG 3600) mediante una estructura de superposición entre el pk 67,5 y el pk 68,0. A las 0:57 h, el tramo 21B537 es ocupado por el RB 15640 en el área de control del ÖZF1. La colisión del Regionalbahn con el vehículo de dos vías en el pk 18,420 se produce a las 0:58 h. El tren impacta sin frenar a una velocidad registrada de 129 km/h con el vehículo de dos vías y empuja este unos 405 m hasta aproximadamente el pk 18,825. El vehículo de dos vías empujado por delante y el coche piloto colisionan con tres mástiles de catenaria a la derecha de la vía y con la señal de avance 517 en el pk 18,760. Como consecuencia de los mástiles de catenaria dañados, se produce la caída de la catenaria
 
 ## Página 11
+
 
 al convoy de vagones. El coche piloto líder 50 80 8035 378-4; tipo 761 descarrila con ambos bogies. El vehículo de doble vía se cuña debido a la colisión con el coche piloto y se detiene descarrilado en el pk 18,825, delante del coche piloto.
 Vehículo de doble vía
@@ -257,10 +260,10 @@ Las horas nocturnas fueron secas y sin nubes. La visibilidad era clara.
 ## 4.1 
 ## Resumen de declaraciones  
 Conductor de tren (KIN) del RB 15640
-El recorrido desde Frankfurt/M Hbf hasta Offenbach se realizó sin incidentes especiales. Indicó que, a partir de Offenbach, se desplazó al coche piloto situado en la cabeza del tren para realizar el control de billetes. De repente, percibió un golpe extremadamente fuerte procedente de la cabina de conducción y fue lanzado contra una puerta de cristal. Además, se escucharon fuertes ruidos procedentes de la grava levantada. Él 
-
+El recorrido desde Frankfurt/M Hbf hasta Offenbach se realizó sin incidentes especiales. Indicó que, a partir de Offenbach, se desplazó al coche piloto situado en la cabeza del tren para realizar el control de billetes. De repente, percibió un golpe extremadamente fuerte procedente de la cabina de conducción y fue lanzado contra una puerta de cristal. Además, se escucharon fuertes ruidos procedentes de la grava levantada. Él
 
 ## Página 12
+
 
 percibió una deformación del suelo. Tras la detención del tren, descendió a la altura de la señal hectométrica pk 18,8 junto con varios viajeros y realizó una llamada de emergencia.
 Jefe de tráfico (ÖZF 1) Hanau lado norte
@@ -283,10 +286,10 @@ BPol
  
 EUB 
 =  1:14 h 
-El Nmg llega a la escena del accidente a las 1:20 h. La desconexión de la catenaria para la vía Hanau Hbf – Üst Mühlheim Ost se realiza a las 1:25 h. La desconexión de la catenaria para la vía Üst Mühlheim Ost – Hanau Hbf se produce mediante un cortocircuito fijo inmediatamente después del incidente. Las puestas a tierra de ambos tramos de vía por parte del Nmg se realizan sobre las 1:50 h. La puesta a tierra sin perfil se realiza sobre las 3:00 h por el servicio técnico especializado en electricidad.  
-
+El Nmg llega a la escena del accidente a las 1:20 h. La desconexión de la catenaria para la vía Hanau Hbf – Üst Mühlheim Ost se realiza a las 1:25 h. La desconexión de la catenaria para la vía Üst Mühlheim Ost – Hanau Hbf se produce mediante un cortocircuito fijo inmediatamente después del incidente. Las puestas a tierra de ambos tramos de vía por parte del Nmg se realizan sobre las 1:50 h. La puesta a tierra sin perfil se realiza sobre las 3:00 h por el servicio técnico especializado en electricidad.
 
 ## Página 13
+
 
 Resumen de los periodos de bloqueo:
 | Vía de la línea | desde Fecha / Hora |  | hasta |  | VZG Línea |
@@ -304,6 +307,7 @@ El tramo de línea (VZG 3600) entre la Üst Mühlheim Ost y Hanau Hbf está equi
 
 ## Página 14
 
+
 ## 4.5 
 ## Investigación sobre el tráfico ferroviario 
 ## 4.5.1 
@@ -314,10 +318,10 @@ Conversación por radio de tren >Responsable Técnico y ÖZF 1 Hanau Nordseite<
 | 0:12:54 h | 0:15:03 h | 02:09 min | Responsable Técnico | ÖZF 1 FHN |
 El ÖZF 1 Hanau Nordseite introduce en los tramos de vía del sector de salida de la parte norte de la estación central de Hanau (Hanau Hbf) – parte de la estación Hanau Mainbrücke (sección_20G36) la indicación de memoria «Cerrado» (Gesperrt). Con la indicación de memoria «Cerrado» se establece automáticamente un bloqueo de circulación en el ESTW. Además, el ÖZF, según Ril 408.0402, coloca las indicaciones de memoria «ARB» y «X».  
 El Zf/RbBau del vehículo bidireccional solicita a las 0:27 h, de acuerdo con Betra F 514 146 12, el uso de vía única del vehículo bidireccional en la vía de línea Hanau Hbf – Üst Mühlheim Ost. 
-El ÖZF 1 Hanau Nordseite transmite al Zf/RbBau del vehículo bidireccional una orden escrita para la circulación bajo bloqueo 97210 en la vía contraria desde el pk 18,420 hasta el 20,400 de la vía Hanau Hbf – Üst Mühlheim Ost. Tras la transmisión de la orden, el Zf/RbBau del vehículo bidireccional recibe la aprobación telefónica para el uso de vía única por parte del ÖZF 1 Hanau Nordseite. A continuación, el Zf/RbBau solicita el cierre de la vía del S-Bahn. 
-
+El ÖZF 1 Hanau Nordseite transmite al Zf/RbBau del vehículo bidireccional una orden escrita para la circulación bajo bloqueo 97210 en la vía contraria desde el pk 18,420 hasta el 20,400 de la vía Hanau Hbf – Üst Mühlheim Ost. Tras la transmisión de la orden, el Zf/RbBau del vehículo bidireccional recibe la aprobación telefónica para el uso de vía única por parte del ÖZF 1 Hanau Nordseite. A continuación, el Zf/RbBau solicita el cierre de la vía del S-Bahn.
 
 ## Página 15
+
 
 Conversación por radio de tren >Zf/RbBau vehículo bidireccional y ÖZF 1 Hanau Nordseite< 
 | Inicio de la conversación | Fin de la conversación | Duración de la conversación | De | Para |
@@ -328,10 +332,10 @@ Conversación por radio de tren >ÖZF 1 Hanau Nordseite y Zf/RbBau vehículo bid
 | Inicio de la conversación | Fin de la conversación | Duración de la conversación | De | Para |
 | 0:37:55 h | 0:38:57 h | 01:02 min | ÖZF 1 FHN | Zf/RbBau ZW FZ - |
 A las 0:38 h, el ÖZF 1 Hanau Nordseite, tras la levantamiento del cierre de la vía del S-Bahn Mühlheim-Dietesheim – Hanau Hbf Nordseite, elimina en el puesto de mando de la BZ Frankfurt/M la indicación de memoria «Cerrado» en el tramo de vía 502 de la vía de línea Mühlheim-Dietesheim – Hanau Hbf Nordseite. 
-A las 0:44 h, el S-Bahn 35881 recorre la línea Mühlheim-Dietesheim – Hanau Hbf y continúa en dirección a la estación central de Hanau (Hanau Hbf). 
-
+A las 0:44 h, el S-Bahn 35881 recorre la línea Mühlheim-Dietesheim – Hanau Hbf y continúa en dirección a la estación central de Hanau (Hanau Hbf).
 
 ## Página 16
+
 
 El RB 15460 sale a las 0:56 h de la estación de Offenbach y entra en el tramo de vía 21B577. A las 0:57 h, el tren 15640 abandona el tramo de vía 21B577 y ocupa el tramo de vía siguiente 21B537.  
 A las 0:58 h, el cabezal rector del RB 15640 choca sin frenar contra el vehículo bidireccional estacionado en la vía de línea Üst Mühlheim Ost – Hanau Hbf, en el pk 18,420, a una velocidad registrada de 129 km/h. El tren y el vehículo bidireccional situado delante del cabezal rector se desplazan aún unos 405 m en dirección a la estación central de Hanau (Hanau Hbf). El cabezal rector descarrila con ambos bogies y se detiene a las 0:59:33 h (hora DSK) junto con el vehículo bidireccional en el pk 18,825. 
@@ -346,6 +350,7 @@ Según las «Condiciones generales para la utilización de la infraestructura fe
 El jefe de tráfico de turno dispone de la cualificación profesional como jefe de tráfico y está formado y examinado localmente en el puesto de mando del ÖZF 1 Hanau Nordseite. Se han documentado las directrices para las medidas periódicas de formación continua y perfeccionamiento, así como las pruebas de supervisión de sus actividades profesionales. Se cumplían los requisitos de aptitud.
 
 ## Página 17
+
 
 El maquinista del Regionalbahn 15640 estaba en posesión de un permiso de conducción de vehículos de tracción válido. Se habían llevado a cabo las medidas de formación continua necesarias. Se cumplían los requisitos de aptitud.
 El conductor de ferrocarril (EF) del vehículo bidireccional estaba en posesión de un permiso de conducción de vehículos de tracción válido. La aptitud física estaba acreditada. En el marco de las medidas de formación continua periódicas «FIT» se presentaron certificados de asistencia para la conducción de vehículos bidireccionales. El EF no conocía la línea.
@@ -366,8 +371,8 @@ Extracto de la Ril 406 «Conducción y construcción» – Elaboración de Betra
 |  | (2) Una Betra es necesaria en los siguientes casos: |  |  |  |  |
 |  | en trabajos de construcción/trabajos planificables con influencia en la operación (según 406 .000 - |  |  |  |  |
 
-
 ## Página 18
+
 
 Sección 2)
 Plano de situación
@@ -377,8 +382,8 @@ Plano de situación
 El 12.04.2012 a las 18:00 horas entra en vigor la Betra F 514146 12. En el marco de los trabajos de construcción está previsto un cambio de riel en la vía del puente del Main de Hanau – Üst Mühlheim Ost. El tiempo de trabajo se extiende a las noches del 12./13.04.2012 hasta el 15./16.04.2012, de 22:00 horas a 6:00 horas respectivamente. La clausura de la vía del tramo Hanau Hbf – Üst Mühlheim Ost está prevista, entre otros, el 13.04.2012 de 1:00 horas tras la circulación del tren KT 41944 hasta las 5:00 horas antes de la circulación del tren RE-D- 4501 de forma continua. El responsable del servicio de circulación (ÖZF1) de la zona norte de la estación central de Hanau es competente para todas las disposiciones operativas. El Técnico Autorizado (número 4.2 de la Betra) fue nombrado el 11.04.2012 por la jefa de distrito de la vía (adición a la Betra F 514146 12). El 05.04.2012 se entregó la Betra a las oficinas operativas.
 La Betra F 5514146 12 describe en el punto 5.3.4 «Uso de acompañantes de maniobras», que para la realización de maniobras es necesario el uso de acompañantes de maniobras por parte de la empresa ejecutora de la construcción. Además, deben asumirse las tareas que le sean encomendadas por el maquinista.
 
-
 ## Página 19
+
 
 Fig. 3: Anexo 1 de la Betra F 514146 12
 Fuente: DB Netz AG
@@ -393,8 +398,8 @@ Extractos de la Ril 408 «Circulación de trenes y maniobras»:
 |  | b) se trabaje en base a una instrucción escrita o como consecuencia de accidentes o interrupciones del servicio , |  |  |
 |  | … |  |  |
 
-
 ## Página 20
+
 
  i) se vayan a introducir vehículos en la vía,
 …
@@ -423,6 +428,7 @@ varias
 
 ## Página 21
 
+
 b) … 
 3. se deben admitir varias circulaciones de bloqueo en la vía. 
 En estos casos, debe usted ordenar la circulación a la vista para la vía bloqueada.  
@@ -442,10 +448,10 @@ Principio general
 …  
 (5) Podrá usted introducir vehículos en una vía si el jefe de tráfico, que ha bloqueado la vía, ha dado su consentimiento. 
 … 
-Según Betra F 514146 12, son necesarios servicios de trenes de trabajo para el cambio de raíl (número 5.3.5). Para ello se prevén circulaciones de bloqueo desde el punto de entrada/salida de vía km 18,420 en la vía de línea Hanau Hbf – Üst Mühlheim Ost. Las circulaciones se realizarán desde el punto de vía única hasta el lugar de trabajo en la vía contraria. Antes de la introducción del vehículo de doble vía, se deberán observar las disposiciones de la Ril 408.0482 (Betra: número 5.4.2). Además 
-
+Según Betra F 514146 12, son necesarios servicios de trenes de trabajo para el cambio de raíl (número 5.3.5). Para ello se prevén circulaciones de bloqueo desde el punto de entrada/salida de vía km 18,420 en la vía de línea Hanau Hbf – Üst Mühlheim Ost. Las circulaciones se realizarán desde el punto de vía única hasta el lugar de trabajo en la vía contraria. Antes de la introducción del vehículo de doble vía, se deberán observar las disposiciones de la Ril 408.0482 (Betra: número 5.4.2). Además
 
 ## Página 22
+
 
 se prevén medidas para las circulaciones de bloqueo cuando se renuncia a la presencia de personal de protección en la vía bloqueada (Betra: número 5.3.6). En consecuencia, se expide la orden para la circulación de bloqueo 97210 con el añadido 9.5 (motivo nº 3). La transmisión de la orden se realiza mediante radio de tren. 
 | Circulación de trenes |  |  | 4080301 . |
@@ -462,10 +468,10 @@ Extracto de la VDV – Schrift 755 «Norma de conocimiento de la línea»:
 VDV – Schrift 755 
 1. Generalidades 
 1.2 Definición de términos en el sentido de la norma 
-1.2.1 El «conocimiento de la línea» es el conocimiento adquirido mediante la observación directa de la línea y la consulta de los documentos operativos, sobre aquellas particularidades de la línea que el conductor de vehículo ferroviario necesita como complemento a las señales y a los documentos de horario, para poder circular por la línea de forma segura y conforme al horario, asumiendo la responsabilidad correspondiente. 
-
+1.2.1 El «conocimiento de la línea» es el conocimiento adquirido mediante la observación directa de la línea y la consulta de los documentos operativos, sobre aquellas particularidades de la línea que el conductor de vehículo ferroviario necesita como complemento a las señales y a los documentos de horario, para poder circular por la línea de forma segura y conforme al horario, asumiendo la responsabilidad correspondiente.
 
 ## Página 23
+
 
 … 
 1.2.5 Las «personas con conocimiento de la línea» son funcionarios de explotación en el sentido de los artículos 47 EBO y 47 ESBO, que poseen el conocimiento de la línea según esta norma, así como los conocimientos operativos necesarios que un conductor de vehículo ferroviario adquiere en el marco de su formación. 
@@ -491,10 +497,10 @@ el recorrido a pie por la infraestructura,
 y 
 b) la consulta de los documentos operativos. 
 … 
-3.4 El conocimiento de la línea se considera adquirido cuando el conductor de vehículo ferroviario o la persona con conocimiento de la línea cumple las directrices del responsable de explotación y se declara con conocimiento de la línea. Deberán llevarse pruebas de la adquisición y mantenimiento del conocimiento (artículo 54 EBO). Las responsabilidades del responsable de explotación 
-
+3.4 El conocimiento de la línea se considera adquirido cuando el conductor de vehículo ferroviario o la persona con conocimiento de la línea cumple las directrices del responsable de explotación y se declara con conocimiento de la línea. Deberán llevarse pruebas de la adquisición y mantenimiento del conocimiento (artículo 54 EBO). Las responsabilidades del responsable de explotación
 
 ## Página 24
+
 
 según el artículo 4 EBV permanecen inalteradas. 
 … 
@@ -525,11 +531,12 @@ El vagón piloto delantero 50 80 8035 378-4 está equipado con un sistema de seg
 
 ## Página 25
 
+
 129 km/h. La grabación de la velocidad del coche piloto se interrumpe a las 0:59:20 h (hora DSK) tras recorrer aproximadamente otros 55 m. Al mismo tiempo se diagnostican varios cambios de vía. La velocidad máxima permitida por el horario en el tramo de vía relevante es de 140 km/h, según VZG V zul. = 140 km/h. Debe asumirse que la colisión del coche piloto líder con el vehículo bidireccional se produjo a una velocidad registrada de 129 km/h. No se puede demostrar que el maquinista del RB 15640 iniciara una frenada de emergencia antes del impacto contra el vehículo bidireccional.
 Fig. 4: representación gráfica EFR del coche piloto 50 80 8035 378-4
 
-
 ## Página 26
+
 
 # 5 
 # Análisis y conclusiones 
@@ -548,8 +555,8 @@ De conformidad con la Directriz VDV Schrift 755 «Conocimiento de la vía», el 
 Según el § 47 (1) EBO – Explicaciones – Resumen de las funciones del personal de explotación –, el acompañante de tren se denomina también, en la función correspondiente, conductor de tren. De acuerdo con la descripción de las funciones de la Ril 046.2541, el conductor de tren y el acompañante de maniobras deben apoyar al EF en la realización de viajes de tren o maniobras en el marco de las obras (Zf/RbBau). En la instrucción Betra F 514 146 12 (punto 5.3.4. – Empleo de acompañantes de maniobras) se exigió un acompañante de maniobras del operador ferroviario (EVU) para la realización de maniobras. La realización de maniobras y, por tanto, el empleo de un acompañante de maniobras no estaba permitido para las obras planificadas según la instrucción Betra F 514146 12. El lugar de obras se encontraba en el tramo de vía libre entre las instalaciones de explotación Hanau y Üst Mühlheim Ost.
 Por consiguiente, los viajes previstos eran viajes de tren (viajes de bloqueo) y no maniobras
 
-
 ## Página 27
+
 
 Es suficientemente probable que el operador ferroviario (EVU) haya transferido las funciones y las competencias del acompañante de maniobras al conductor de tren (AZF), quien debe realizar su actividad conforme a la Ril 408.0482. Además, el operador ferroviario (EF) aceptó abiertamente la asunción de las funciones operativas por parte del conductor de tren y acompañante de maniobras de obra (Zf/RbBau) en la función de conductor de tren (AZF) del vehículo bidireccional.
 En la certificación de aptitud del Zf/RbBau se acredita la aptitud física y la idoneidad psicológica para el empleo como conductor de tren (AZF). Además, el Zf/RbBau del vehículo bidireccional participó regularmente en las formaciones continuas. La última inscripción data del 17 y 18 de diciembre de 2010. No se pudo presentar un certificado de formación continua para el año 2011. Se pudieron acreditar en gran número las instrucciones locales para las regiones del sudoeste y del centro de DB Netz AG desde el año 2000 hasta 2011 (última inscripción: estación de Gernsheim el 31.10.2011).  
@@ -559,18 +566,14 @@ La solicitud de bloqueo de vía del tramo Hanau Hbf – Üst Mühlheim Ost prese
 
 ## Página 28
 
-El lado norte demuestra que las actuaciones operativas para el cierre de la vía del S-Bahn se realizaron conforme a las normas y según las directrices de la Betra F 514146 12. Esto lo confirman los datos en los documentos operativos del ÖZF 1 Hanau Lado Norte y la evaluación del «Historial» en el ESTW.
-Cabe asumir que no se exigió explícitamente una legitimación expresa del AZF por parte del EF, debido a su conversación con el ÖZF 1 Hanau Lado Norte, en la cual el Zf/RbBau expresó verbalmente su competencia y autoridad.
-Esto se manifiesta mediante la maniobra de circulación por vía única del vehículo bidireccional, que solo pudo ser realizada por el EF, y por el hallazgo de la Betra F 514146 12 tras la colisión en el AZF del vehículo bidireccional.
-A las 0:27 horas, el Zf/RbBau del vehículo bidireccional solicita la circulación por vía única hacia la vía de línea Hanau Hbf – Üst Mühlheim Ost. Durante esta conversación por radio de tren entre el Zf/RbBau y el ÖZF 1 Hanau Lado Norte, también se solicita el cierre de la vía del S-Bahn Mühlheim-Dietesheim – Hanau Hbf (vía del S-Bahn en circulación por vía única). El ÖZF 1 Hanau Lado Norte cierra la vía del S-Bahn (la vía de línea Hanau Hbf – Üst Mühlheim Ost ya estaba cerrada por el Técnico Autorizado) y transmite al Zf/RbBau del vehículo bidireccional, entre otros, la orden para la circulación desde el punto kilométrico 18,420 (punto de circulación por vía única) hasta la zona de obras en el punto kilométrico 19,800 en la vía contraria. El Zf/RbBau del vehículo bidireccional confunde claramente la vía de línea Hanau Hbf – Üst Mühlheim Ost con la vía de línea Üst Mühlheim Ost - Hanau Hbf. Esto se debe al hecho de que en la zona del punto de circulación por vía única existe una tercera vía (vía del S-Bahn). Esta vía transcurre en la zona del punto de circulación por vía única en el lado sur y en la zona de las obras en el lado norte (Fig. 3).
-El Zf/RbBau trabajó durante la noche del 11/12.04 en la zona de las obras entre los puntos kilométricos 19,800 – 20,280. Si se considera la disposición de las vías entre los puntos kilométricos 19,800 y 20,280, se constata que la vía de trabajo (zona de obras) se presenta in situ como una vía situada entre una vía norte y una vía sur. No puede descartarse que el Zf/RbBau haya proyectado la disposición de las vías en el lugar de trabajo sobre el punto de circulación por vía única. Su suposición fue errónea, a saber, que la vía norte era la vía única del S-Bahn. A las 0:44 horas, el S-Bahn 35881 circula por la vía Mühlheim-Dietesheim – Hanau Hbf y atraviesa la zona de circulación por vía única del vehículo bidireccional. Está claro que el Zf/RbBau no poseía el conocimiento de la línea en la zona del punto de circulación por vía única, lo cual habría sido estrictamente necesario para realizar las circulaciones de cierre.
-Independientemente de este hecho, sigue siendo dudoso si el conocimiento de la línea abarca realmente las maniobras de entrada y salida de vía de los vehículos bidireccionales. Según el § 34 de la EBO, los trenes se definen como unidades móviles accionadas por fuerza mecánica que circulan individualmente y que pasan a la vía libre. Por tanto, no puede derivarse necesariamente una asignación de la maniobra de entrada o salida de vía para la partida o llegada inminente del tren. En consecuencia, el mero conocimiento de la línea no basta como requisito para el personal a emplear en las maniobras de entrada y salida de vía. Según la publicación VDV 755, se considera adquirido el conocimiento de la línea cuando el EF o la persona con conocimiento de la línea cumple las directrices del responsable de explotación y se declara con conocimiento de la línea. Por consiguiente, no puede derivarse un conocimiento objetivo de la línea ante las cambiantes actividades de servicio del EF o de las personas con conocimiento de la línea. Además, no está prevista una instrucción local en el punto de entrada/salida de vía.
-Las empresas ferroviarias están obligadas, según el § 4 (3) del AEG, a gestionar su explotación con seguridad. La maniobra de entrada y salida de vía de los vehículos bidireccionales en la vía libre incide directamente en la explotación ferroviaria en curso. No existen apoyos técnicos que revelen la ocupación de las vías. Por consiguiente, los conocimientos locales del personal de explotación deben estar diseñados de tal manera que se excluya con seguridad la confusión de vías.
-La imagen ampliada del ESTW UZ Hanau 1 no está respaldada con indicaciones kilométricas de la línea. Por tanto, el punto de circulación por vía única del vehículo bidireccional en el punto kilométrico 18,420 no es técnicamente determinable para el ÖZF 1 Hanau Lado Norte a partir de la imagen ampliada. El plano de situación registrado en las Directrices Locales para el personal de las estaciones de explotación, correspondiente a la BZ Frankfurt/M; Distrito de control 04, era adecuado para representar el punto de circulación por vía única en el punto kilométrico 18,420 en relación con el trazado de la línea 3600 y de la línea 3680. Por consiguiente, el punto de circulación por vía única del vehículo bidireccional habría debido asignarse al recorrido de la línea. La conversación por radio de tren a las 0:27 horas entre el ÖZF 1 Hanau – Lado Norte y el Zf/RbBau demuestra que el error del Zf/RbBau del vehículo bidireccional habría podido ser detectado, independientemente de si el punto de circulación por vía única se encontraba al sur o al norte de las vías en el punto kilométrico 18,420, siempre que el plano de situación hubiera sido utilizado por el ÖZF 1 Hanau Lado Norte para la circulación por vía única del vehículo bidireccional. Sin embargo, no está prescrito el uso del plano de situación por parte del ÖZF 1 Hanau Lado Norte para trabajos planificables.
-Independientemente de este hecho, no existen directrices uniformes para el diseño de los planos de situación en las Directrices Locales. Por consiguiente, el plano de situación no puede utilizarse necesariamente para la entrada y salida de vía de los vehículos bidireccionales.
-El Anexo 1 de la Betra F 514146 12 muestra en una representación esquemática exclusivamente la línea 3600. Para la circulación por vía única del vehículo bidireccional, esta representación (Fig. 3) no es suficiente como ayuda de orientación y trabajo ni para el Zf/RbBau del vehículo bidireccional ni para el ÖZF 1 Hanau Lado Norte.
+Nordseite acreditan que las actuaciones operativas para la clausura del vía de la S-Bahn se realizaron conforme a la normativa y según las directrices de la Betra F 514146 12. Las indicaciones en la documentación operativa del ÖZF 1 Hanau Nordseite y la evaluación de la "Historie" en el ESTW lo acreditan.
+Debe partirse de que una legitimación expresa del AZF por parte del EF, debido a su forma de conversación con el ÖZF 1 Hanau Nordseite, en la que el Zf/RbBau expresó verbalmente su competencia y autoridad, no fue exigida explícitamente. Esto se manifiesta por la entrada en vía única del vehículo de dos vías, que solo pudo ser realizada por el EF, y por el hallazgo de la Betra F 514146 12 tras la colisión en el AZF del vehículo de dos vías.
+A las 0:27 horas, el Zf/RbBau del vehículo de dos vías solicita la entrada en vía única en la vía de línea Hanau Hbf – Üst Mühlheim Ost. Durante esta conversación de radio entre el Zf/RbBau y el ÖZF 1 Hanau Nordseite, también se solicita la clausura del vía de la S-Bahn Mühlheim-Dietesheim – Hanau Hbf (vía de la S-Bahn en vía única). El ÖZF 1 Hanau Nordseite clausura el vía de la S-Bahn (la vía de línea Hanau Hbf – Üst Mühlheim Ost ya había sido clausurada por el Técnico Autorizado) y transmite al Zf/RbBau del vehículo de dos vías, entre otras cosas, la orden para la marcha desde el pk 18,420 (tramo de vía única) hasta la obra en el pk 19,800 en la vía contraria. El Zf/RbBau del vehículo de dos vías confunde evidentemente la vía de línea Hanau Hbf – Üst Mühlheim Ost con la vía de línea Üst Mühlheim Ost - Hanau Hbf. Esto se debe a que en el ámbito del tramo de vía única existe una tercera vía (vía de la S-Bahn). Esta vía discurre en el ámbito del tramo de vía única por el lado sur y en el ámbito de la obra por el lado norte (Fig. 3).
+El Zf/RbBau trabajó en la noche del 11./12.04 en el ámbito de la obra pk 19,800 – 20,280. Si se considera la disposición de las vías en el pk 19,800 – pk 20,280, cabe constatar que la vía de trabajo (obra) en el lugar se presenta como una vía situada entre una vía norte y una vía sur. No puede descartarse que el Zf/RbBau haya proyectado la disposición de las vías en el lugar de trabajo sobre el tramo de vía única. Su suposición de que la vía norte era la vía de la S-Bahn en vía única resultó errónea. A las 0:44 horas, la S-Bahn 35881, en la vía Mühlheim-Dietesheim – Hanau Hbf, atraviesa el área de vía única del vehículo de dos vías. Es un hecho que el Zf/RbBau no disponía en el ámbito del tramo de vía única de información sobre la vía que hubiera sido imprescindible para la realización de los trenes de clausura.
+Independientemente de este hecho, sigue siendo dudoso que el conocimiento de la línea comprenda realmente la entrada o salida en vía única de vehículos de dos vías. Según el EBO § 34, los trenes se consideran unidades movidas por energía mecánica que pasan a la vía libre y que circulan indi-
 
 ## Página 29
+
 
 de vehículos tracción se definen. Por tanto, no puede derivarse necesariamente una asignación de la maniobra de entrada o salida de vía para la partida inminente o final del tren. En consecuencia, el mero conocimiento de la línea no basta como requisito para el personal a emplear en las maniobras de entrada y salida de vía. Según la publicación VDV 755, se considera adquirido el conocimiento de la línea cuando el EF o la persona con conocimiento de la línea cumple las directrices del responsable de explotación y se declara con conocimiento de la línea. Por consiguiente, no puede derivarse un conocimiento objetivo de la línea ante las cambiantes actividades de servicio del EF o de las personas con conocimiento de la línea. Además, no está prevista una instrucción local en el punto de entrada/salida de vía.
 Las empresas ferroviarias están obligadas, según el § 4 (3) del AEG, a gestionar su explotación con seguridad. La maniobra de entrada y salida de vía de los vehículos bidireccionales en la vía libre incide directamente en la explotación ferroviaria en curso. No existen apoyos técnicos que revelen la ocupación de las vías. Por consiguiente, los conocimientos locales del personal de explotación deben estar diseñados de tal manera que se excluya con seguridad la confusión de vías.
@@ -579,6 +582,7 @@ Independientemente de este hecho, no existen directrices uniformes para el dise�
 El Anexo 1 de la Betra F 514146 12 muestra en una representación esquemática exclusivamente la línea 3600. Para la circulación por vía única del vehículo bidireccional, esta representación (Fig. 3) no es suficiente como ayuda de orientación y trabajo ni para el Zf/RbBau del vehículo bidireccional ni para el ÖZF 1 Hanau Lado Norte.
 
 ## Página 30
+
 
 La DB Netz AG remite a las Condiciones Contractuales Adicionales (ZVB-DB) y a las disposiciones técnicas adicionales que se celebran entre la DB Netz AG y las empresas responsables de la ejecución de las obras. En el punto 11.1 se establece que el contratista debe cumplir las instrucciones de la Betra del comitente y confirmar su recepción por escrito. Asimismo, se remite a las disposiciones y contenidos de la norma Ril 406.1201, según los cuales, en el punto 5, apartado 8, «Información», las empresas responsables de la ejecución de las obras deben garantizar que los maquinistas, operarios de maquinaria de construcción, acompañantes de tren, acompañantes de maniobras, etc., empleados por ellas en la zona de obra hayan recibido información demostrable sobre el contenido de la Betra y sobre las particularidades. Cabe señalar que la colisión del tren no ocurrió en la zona de obra de la Betra F 514146 12, sino en vía libre. En consecuencia, no pueden aplicarse las disposiciones de la norma Ril 406.1201. Independientemente de este hecho, los contenidos de la Betra eran conocidos por la empresa ejecutora de las obras, por lo que los procedimientos para el enganche y desenganche de vehículos bidireccionales, expuestos en los puntos 5.4.1 y 5.4.2 de la Betra, debían aplicarse obligatoriamente.
 La empresa Strukton Rail GmbH no ha emitido la confirmación por escrito exigida por las ZVB-DB. En consecuencia, por motivos formales, ni el contratista debía haber actuado ni el comitente debía haber autorizado la intervención en la obra.

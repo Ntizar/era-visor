@@ -12,8 +12,8 @@ tokens_in: 38267
 tokens_out: 25411
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-verificacion: revisar
-avisos: ["página 33: ratio 1.83"]
+verificacion: ok
+notas_cifras: ["página 7: original bilingüe: se compara contra el idioma principal (HR)", "página 8: cifras cortas: 2/25", "página 10: original bilingüe: se compara contra el idioma principal (HR)", "página 15: cifras cortas: 1/19", "página 18: cifras cortas: 3/44", "página 28: original bilingüe: se compara contra el idioma principal (HR)"]
 ---
 
 ## Página 1
@@ -768,21 +768,20 @@ posible insuficiente experiencia laboral del maquinista de servicio que entregab
 
 ## Página 33
 
-### 5.2. Medidas adoptadas desde entonces  
-Se nos ha informado por parte del transportista ferroviario, Train Hungary, que tras la realización del procedimiento de investigación adoptaron la decisión de rescindir extraordinariamente el contrato laboral debido a una infracción particularmente grave de las obligaciones del maquinista A del tren número 41991 (que entregaba el turno), y que se envió una carta a la ASŽ para la anulación del Certificado de Maquinista con fecha 16 de noviembre de 2020. 
-Asimismo, la RU nos informó y nos remitió la Decisión sobre la adopción del programa de formación periódica para maquinistas y trabajadores móviles (trabajadores ferroviarios ejecutivos) para el año 2021, con el contenido del programa que incluye, entre otros temas, aquellos dirigidos a los maquinistas relacionados con la prevención de los mismos incidentes extraordinarios: instrucciones para el trabajo del personal, aseguramiento del tren contra el autodesplazamiento, relevo del personal en la cabina de mando ocupada y abandono temporal de la unidad motriz. En enero de 2021, todo el personal que ocupaba el puesto de maquinista en Train Hungary fue enviado al Centro Autorizado de Formación de Maquinistas, a fin de verificar la competencia profesional general de acuerdo con el art. 11 y la comprobación de conocimientos de acuerdo con el art. 12 del Reglamento sobre la autorización de maquinistas (»Narodne novine«, núm. 96/13, 74/15, 75/16 y 126/19). 
-### 5.3. Consideraciones adicionales  
-No tenemos consideraciones adicionales. 
-### CONCLUSIONES  
-5.1. Un resumen del análisis y las conclusiones respecto a las causas del incidente 
-El 15 de noviembre de 2020, a las 07:41 a. m., se produjo un incidente en la línea marcada M103 en la estación de Lipovljani en el PK 009+140, donde se evitó una colisión entre trenes. El tren n.º 41991, que estaba detenido en la estación de Lipovljani para cambiar el personal de conducción, tras bajar el maquinista de la locomotora, se autodesplazó en dirección a Novska, superó el punto de aguja n.º 3 y cortó el punto de aguja n.º 1. Además, fue detenido con éxito por el personal del propietario del tren, a una distancia de 22 m delante del tren n.º 89280 que procedía de la dirección de Novska. El mencionado incidente no causó ni lesiones/muertes ni daños en la infraestructura ferroviaria ni en el material rodante implicado.  
-El factor causal del incidente en cuestión es el autodesplazamiento del tren número 41991 debido a un aseguramiento inadecuado del tren durante la parada en la estación para el relevo del personal de conducción (Capítulo 4.3.1.). 
-Factores sistémicos: 
+### 5.2. Medidas adoptadas desde entonces
+Se nos ha comunicado por parte del operador ferroviario, Train Hungary, que, tras el procedimiento de investigación realizado, han adoptado la decisión de rescisión extraordinaria del contrato de trabajo por incumplimiento especialmente grave de las obligaciones por parte del conductor A del tren número 41991 (que entregaba el relevo), y que se ha enviado a ASŽ un comunicado de anulación de la Certificación del conductor con fecha del 16 de noviembre de 2020.
+Asimismo, la RU nos ha notificado y ha remitido la Decisión de aprobación del programa de formación ordinaria de conductores y trabajadores móviles (trabajadores ferroviarios ejecutivos) para el año 2021, con el contenido programático en el que, entre otros, se incluyen temas para conductores relacionados con la prevención de los mismos acontecimientos extraordinarios: instrucciones de trabajo del personal, aseguramiento del tren contra el arranque automático, relevo del personal en la cabina de conducción ocupada y abandono temporal de la locomotora. En enero de 2021, todos los empleados con el puesto de conductor en Train Hungary fueron destinados al Centro autorizado de formación de conductores, a fin de verificar la formación profesional general de conformidad con el art. 11 y la comprobación de conocimientos de conformidad con el art. 12 del Reglamento de habilitación de conductores (»Narodne novine«, n.º 96/13, 74/15, 75/16 y 126/19).
+### 5.3. Consideraciones adicionales
+No tenemos consideraciones adicionales.
+### CONCLUSIONES
+5.1. Resumen del análisis y de las conclusiones respecto a las causas del suceso
+El 15 de noviembre de 2020 a las 07:41 a.m. se produjo un suceso en la línea marcada M103 en la estación Lipovljani en el PK 009+140, en el que se evitó una colisión de trenes. El tren número 41991, que estaba detenido en la estación Lipovljani para el relevo del personal de conducción, tras descender el conductor de la locomotora, se puso en marcha por sí mismo en dirección a Novska, pasó el desvío número 3 y rebasó el desvío número 1. Además, fue detenido con éxito por el personal del propietario del tren, a una distancia de 22 m por delante del tren número 89280 que llegaba desde la dirección de Novska. El suceso mencionado no causó ni lesiones/daños personales ni daños en la infraestructura ferroviaria o el material rodante implicado.
+El factor causal del suceso en cuestión es el arranque automático del tren número 41991 debido a la incorrecta inmovilización del tren durante la parada en la estación para el relevo del personal de conducción (Capítulo 4.3.1.).
+Factores sistémicos:
 -  
-el maquinista de servicio que entregaba el turno no cumplió plenamente con las instrucciones de trabajo prescritas (Capítulo 4.3.3), de acuerdo con el art. 64 del Reglamento sobre la forma y las condiciones para la operación segura y la gestión del tráfico ferroviario (Gaceta Oficial n.º 107/16), y con las Instrucciones para los maquinistas del Sistema de Gestión de la Seguridad de la RU, para asegurar correctamente el tren contra el autodesplazamiento y abandonar la unidad motriz, 
+el conductor en servicio que entregó el relevo no cumplió íntegramente las instrucciones de trabajo prescritas (Capítulo 4.3.3), de conformidad con el art. 64 de la Ordenanza sobre el modo y las condiciones de explotación y gestión seguras del tráfico ferroviario (Boletín Oficial n.º 107/16), y con las Instrucciones para conductores de tren del Sistema de Gestión de Seguridad de la RU, para inmovilizar correctamente el tren contra el arranque automático y abandonar la locomotora,
 -  
-posible fatiga del maquinista de tren de servicio que entregaba el turno (Capítulo 4.3.2), de 
-acuerdo con su declaración prestada a la RU,
+posible fatiga del conductor en servicio que entregó el relevo (Capítulo 4.3.2), de conformidad con su declaración prestada a la RU,
 
 ## Página 34
 

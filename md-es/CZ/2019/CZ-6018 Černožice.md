@@ -10,13 +10,14 @@ chars: 66397
 ratio_longitud: 1.23
 tokens_in: 35163
 tokens_out: 24582
-verificacion: revisar
-notas_cifras: ["bloque 2: original bilingüe: se compara contra el idioma principal (CS)", "bloque 4: original bilingüe: se compara contra el idioma principal (CS)", "bloque 5: original bilingüe: se compara contra el idioma principal (CS)"]
-avisos: ["bloque 5: ratio 1.63"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 3: original bilingüe: se compara contra el idioma principal (EN)", "página 6: original bilingüe: se compara contra el idioma principal (EN)", "página 7: original bilingüe: se compara contra el idioma principal (PT)", "página 11: original bilingüe: se compara contra el idioma principal (CS)", "página 13: original bilingüe: se compara contra el idioma principal (CS)", "página 17: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -41,13 +42,13 @@ IČ:   75009561
 mail@dicr.cz
 tel.: +420 736 521 003
 
-
 ## Página 2
+
 
 El presente informe final es público y todos los hechos en él expuestos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ## 1 RESUMEN
     Fuente: DI
@@ -75,8 +76,8 @@ entrada no autorizada de un automóvil en el paso a nivel P5223 en el momento en
 se aproximaba a él el tren Sp 1793 y se estaba emitiendo la advertencia luminosa y
 acústica del dispositivo de seguridad del paso a nivel.
 
-
 ## Página 4
+
 
 Factores contribuyentes:
 no fueron detectados por la Inspección Ferroviaria.
@@ -95,8 +96,8 @@ Recomendaciones de seguridad:
 no fue emitida por la Inspección Ferroviaria.
 •
 
-
 ## Página 5
+
 
 ## SUMMARY
 Grade: 
@@ -138,8 +139,8 @@ none.
 Recommendation:
 not issued.
 
-
 ## Página 6
+
 
 # Índice
 1 RESUMEN........................................................................................................................3
@@ -191,6 +192,7 @@ técnicas aplicables y otras normas internas....................................
 
 ## Página 7
 
+
 registro de datos.....................................................................................................22
 3.4.2 Componentes de la vía....................................................................................23
 3.4.3 Dispositivos de comunicación e información.........................................................24
@@ -230,8 +232,8 @@ sobre las causas................................................................
 6 RECOMENDACIONES DE SEGURIDAD.....................................................................................31
 7 ANEXOS..........................................................................................................................32
 
-
 ## Página 8
+
 
 ## Lista de siglas y símbolos utilizados
 COP
@@ -293,8 +295,8 @@ paso a nivel ferroviario
 žst.
 estación de ferrocarril
 
-
 ## Página 9
+
 
 ## Lista de siglas de la legislación, normas y normativa interna 
 utilizadas
@@ -345,8 +347,8 @@ decreto núm. 376/2006 Sb., sobre el sistema de seguridad de la explotación de 
 y del transporte ferroviario y los procedimientos en caso de sucesos ferroviarios en las vías, en la redacción 
 válida en el momento de producirse el suceso ferroviario
 
-
 ## Página 10
+
 
 | ČSN 73 6380 | ČSN 73 6380 «P asos a nivel y pasos peatonales ferroviarios» en la redacción , |
 |  | válida en el momento de producirse el suceso ferroviario |
@@ -361,8 +363,8 @@ válida en el momento de producirse el suceso ferroviario
 |  | Ordenanza de tráfico y de señales» en la redacción válida en el , |
 |  | momento de producirse el suceso ferroviario |
 
-
 ## Página 11
+
 
 ## 2 DATOS RELATIVOS AL SUECOS FERROVIARIO
 ### 2.1 Suceso ferroviario
@@ -385,8 +387,8 @@ El 14. 7. 2019, un automóvil, marca Škoda Fabia, entró en el ŽP P5223,
 en el momento en que se aproximaba al ŽP, en dirección desde la est. Jaroměř, el tren Sp 1793. Se produjo una colisión, durante la cual el tren impactó en el lado izquierdo del automóvil, que fue empujado hasta el punto de detención 
 a unos 300 m.
 
-
 ## Página 12
+
 
 ### Jaroměř
 ### Nádražní - vía municipal n.º 14c
@@ -425,23 +427,37 @@ antes del ŽP se situaban a la derecha en la vía de comunicación terciaria n.�
 
 ## Página 13
 
-Hradecká) señales verticales de tráfico A 31a «Placa de señal» (240 m) complementada con la señal de tráfico A 30 «Paso a nivel sin barreras», A 31b «Placa de señal» (160 m) y A 31c «Placa de señal» (80 m);
-• la cruz de advertencia y la caja luminosa del anunciador eran visibles a una distancia de 90 m desde la carretera de clase III n.º 2998;
-• la advertencia de cierre de barreras (PZZ) emitida mediante dos luces rojas intermitentes alternas era visible y podía identificarse con fiabilidad desde la carretera de clase III n.º 2998 a una distancia superior a 40 m (véase la fig. n.º 3);
-• la longitud de visibilidad para el vehículo rodado más lento, en el caso de fallo o desconexión del PZZ, se midió en el sentido de circulación del tren Sp 1793 en más de 100 m;
-• en ambos lados del paso a nivel, en el eje de la vía, estaban colocados los cuñas de protección y el estado del canal para el flanco del vehículo ferroviario se encontraba en estado satisfactorio;
-• la superficie de la carretera contigua al paso a nivel era de asfalto, y la calzada del paso a nivel estaba formada por una estructura asfáltica;
-• la calzada del paso a nivel se encontraba en estado satisfactorio y era transitable sin limitaciones.
-• En la MK n.º 14c (calle Nádražní), grupo funcional C, que desemboca en la carretera de clase III n.º 2998 por la derecha antes del paso a nivel P5223 con un ángulo de 80°, estaba colocada la señal vertical P4 «Ceda el paso»;
-• la visibilidad de las cruces de advertencia y de la advertencia luminosa del PZZ desde la MK n.º 14c se midió en 35 m;
-• en la superficie de la carretera de clase III y en la calzada del paso a nivel no se detectaron huellas de neumáticos por frenado del automóvil, solo se detectaron huellas originadas como consecuencia del desplazamiento del automóvil tras la colisión con el tren Sp 1793.
-Fig. n.º 3: Visibilidad del anunciador del PZZ desde la carretera de clase III. Fuente: DI
+Hradecká) señales verticales de tráfico A 31a "Placa de señalización" (240 m) complementada con la señal de tráfico A 30 "Paso a nivel sin barreras", A 31b "Placa de señalización" (160 m) y A 31c "Placa de señalización" (80 m);
+• la cruz de advertencia y la caja luminosa del anunciador a la derecha en la carretera de clase III
+  nº 2998 eran visibles a una distancia de 90 m;
+• la advertencia PZZ emitida mediante dos luces rojas intermitentes alternas era
+  visible y podía identificarse con fiabilidad desde la carretera de clase III nº 2998 a una distancia
+  superior a 40 m (véase la fig. nº 3);
+• la longitud de visibilidad para el vehículo rodado más lento en caso de avería o
+  desconexión del PZZ se midió en el sentido de circulación del tren Sp 1793 en más de 100 m;
+• en ambos lados del paso a nivel, en el eje de la vía, se situaban los calzos de protección y el estado
+  del canal para el guardarruedas del vehículo ferroviario se encontraba en estado satisfactorio;
+• la superficie de la carretera contigua al paso a nivel era de asfalto, la calzada del
+  paso a nivel estaba formada por una estructura asfáltica;
+• la calzada del paso a nivel se encontraba en estado satisfactorio y era transitable sin
+  limitaciones.
+• En la MK nº 14c (calle Nádražní), del grupo funcional C, que desemboca en la carretera de
+  clase III nº 2998 por la derecha antes del paso a nivel P5223 con un ángulo de 80°, estaba
+  situada la señal vertical P4 "Ceda el paso en la circulación";
+• la visibilidad de las cruces de advertencia y de la advertencia luminosa del PZZ desde la MK nº 14c se midió
+  en 35 m;
+• en la superficie de la carretera de clase III y en la calzada del paso a nivel no se detectaron
+  huellas de neumáticos por frenado del OA, solo se detectaron huellas producidas como
+  consecuencia del desplazamiento del OA tras la colisión con el tren Sp 1793.
+Fig. nº 3: Visibilidad del anunciador PZZ desde la carretera de clase III   Fuente: DI
 Composición del tren Sp 1793:
-• en el km 34,819, es decir, a una distancia de 249 m del paso a nivel, se encontraba el final del tren;
-• el frente del tren en su posición final tras la MU se encontraba en el km 34,769, es decir, a una distancia de 299 m del paso a nivel;
-
+• en el km 34,819, es decir, a una distancia de 249 m del paso a nivel, se encontraba el
+  final del tren;
+• el frente del tren en la posición final tras el MU se encontraba en el km 34,769, es decir, a
+  una distancia de 299 m del paso a nivel;
 
 ## Página 14
+
 
 • en el km 34,827, a una distancia de 8 m detrás del final del tren, se encontraba la señal luminosa de preaviso de la estación Smiřice PřS con la señal «Advertencia»;
 • la composición no estaba marcada con las señales «Inicio del tren» y «Fin del tren» debido a la desconexión de las baterías tras la producción de la MU;
@@ -474,8 +490,8 @@ Dispositivo de seguridad del paso a nivel P5223:
 Con la MU se activó el IZS.
 En el lugar de la MU estaban presentes también los responsables de las distintas ramas organizativas del explotador de la infraestructura y del transportista. Con la participación de la DI se realizó una inspección comisionada del lugar de la MU, incluida la elaboración de un acta.
 
-
 ## Página 15
+
 
 ### 2.1.3 Decisión sobre el inicio de la investigación, composición del equipo de personas cualificadas para la investigación y método de dirección de la investigación
 MU comunicada al COP de la DI:
@@ -506,8 +522,8 @@ Transportista (ČD):
 Tercera parte:
 • conductora del automóvil.
 
-
 ## Página 16
+
 
 Otras personas, testigos:
 • 3 acompañantes en el automóvil.
@@ -535,57 +551,64 @@ La calzada del paso a nivel está formada por una capa asfáltica en el espacio 
 La velocidad máxima permitida para los vehículos rodados a través del paso a nivel, con la condición de que esté encendida la luz blanca intermitente de la señal del PZZ, es de 50 km·h-1.
 El paso a nivel está protegido por un PZZ luminoso de categoría PSZ 4S, tipo SSSR, sin barreras, con señal positivo y está equipado con un dispositivo de registro. Los elementos indicadores y de mando del paso a nivel se encuentran en la oficina de tráfico de la estación Smiřice. El PZZ se pone en funcionamiento automáticamente con la circulación del tren (por la influencia en los circuitos de vía en el tramo entre los km 33,800 y 36,680 de la línea Pardubice hl. n. – Jaroměř). El paso a nivel no está equipado con el sistema de cámaras del explotador de la infraestructura. Hacia la zona del entorno del paso a nivel está orientada una cámara del sistema de vigilancia municipal situada en un poste de alumbrado público a una distancia de 70 m del paso a nivel.
 
-
 ## Página 17
 
-### 2.2.4 Uso de los medios de comunicación
+### 2.2.4 Uso de medios de comunicación
 14.54 h
-• la conductora del tren Sp 1793 utilizó el teléfono móvil para comunicar la producción de la MU al jefe de estación de la estación Smiřice;
+el maquinista del tren Sp 1793 utilizó el teléfono móvil para comunicar la aparición de la MU
+•
+al jefe de estación de la estación de Smiřice;
 14.54 h
-• el jefe de estación de la estación Smiřice recibió la comunicación de la conductora del tren Sp 1793 sobre la producción de la MU y actuó conforme al horario de comunicación.
-La comunicación entre la conductora del tren Sp 1793 y el jefe de estación de la estación Smiřice no fue grabada.
+el jefe de estación de la estación de Smiřice recibió la comunicación del maquinista del tren Sp 1793
+•
+sobre la aparición de la MU y actuó conforme al calendario de comunicaciones.
+La comunicación entre el maquinista del tren Sp 1793 y el jefe de estación de la estación de Smiřice no fue
+grabada.
 ### 2.2.5 Trabajos realizados en el lugar y en sus alrededores
-En el lugar de la MU no se realizaron, inmediatamente antes de su producción, por parte del propietario, del explotador de la infraestructura ni de otras personas, ningún tipo de trabajos de reparación o de mantenimiento. La explotación en el lugar de la MU y sus alrededores se desarrollaba en régimen normal.
-### 2.2.6 Activación del plan para el caso de suceso extraordinario en la infraestructura y procedimientos consecuentes
+En el lugar de la MU, inmediatamente antes de su aparición, no se realizaron por parte del propietario, del gestor de la vía ni de otras personas trabajos de reparación o de mantenimiento. La circulación en el lugar de la MU y sus alrededores se desarrollaba en régimen normal.
+### 2.2.6 Activación del plan para casos de incidente excepcional en la vía y procedimientos conexos
 14.52 h –
-colisión del tren Sp 1793 con el automóvil – producción de la MU;
+colisión del tren Sp 1793 con un OA – aparición de la MU;
 •
 14.54 h –
-activación del IZS por la conductora y el jefe de tren;
+activación del IZS por el maquinista y el jefe de tren;
 •
 14.54 h –
-comunicación de la producción de la MU por la conductora al jefe de estación de la estación Smiřice;
+comunicación de la aparición de la MU por el maquinista al jefe de estación de la estación de Smiřice;
 •
 14.56 h –
-comunicación de la producción de la MU por el jefe de estación de la estación Smiřice conforme al horario de comunicación;
+comunicación de la aparición de la MU por el jefe de estación de la estación de Smiřice conforme al calendario de comunicaciones;
 •
 15.06 h –
-comunicación de la producción de la MU por un empleado de la PO Hradec Králové al O18 SŽDC
+comunicación de la aparición de la MU por un empleado de la PO Hradec Králové al O18 SŽDC
 •
-puesto de trabajo Česká Třebová;
+puesto de trabajo de Česká Třebová;
 15.15 h –
-comunicación de la producción de la MU por la persona autorizada del O18 SŽDC al COP de la DI;
+notificación de la aparición de la MU por la persona autorizada del O18 SŽDC al COP DI;
 •
 16.30 h –
-inicio de la inspección del lugar de producción de la MU por empleados de la PČR y del SŽDC;
+inicio de la inspección del lugar de la aparición de la MU por empleados de la PČR y la SŽDC;
 •
 16.45 h –
-inicio de la inspección del lugar de producción de la MU por el inspector de la DI;
+inicio de la inspección del lugar de la aparición de la MU por el inspector del DI;
 •
 17.55 h –
-concesión del consentimiento para la liberación de la vía por el inspector de la DI presente;
+concesión del permiso para la liberación de la vía por el inspector del DI presente;
 •
 19.52 h –
-restablecimiento de la explotación.
+restablecimiento de la circulación.
 •
-### 2.2.7 Activación del plan del sistema integrado de emergencia, de los servicios de emergencia policial y sanitario y procedimientos consecuentes
-El plan del IZS fue activado dada la naturaleza de la MU. El plan del IZS fue activado a las 14.54 h, es decir, 2 minutos después de la producción de la MU, por la conductora y el jefe de tren del tren Sp 1793.
-En el lugar de la MU intervinieron los siguientes cuerpos del IZS:
-• Servicio de Emergencias Sanitarias de la Región de Hradec Králové; Base de salida Jaroměř
-• Bomberos de la Región de Hradec Králové, Estación Jaroměř;
-
+### 2.2.7 Activación del plan del sistema integrado de emergencia, de los servicios de emergencia policiales y sanitarios y procedimientos conexos
+El plan del IZS fue activado en función del carácter de la MU. El plan del IZS fue activado a las 14.54 h, es decir, 2 minutos después de la aparición de la MU, por el maquinista y el jefe de tren del tren Sp 1793.
+En el lugar de la MU intervinieron los siguientes componentes del IZS:
+Servicio de emergencia sanitaria de la región de Královéhradecký; Base de salida
+•
+de Jaroměř
+Bomberos de la región de Královéhradecký, Estación de Jaroměř;
+•
 
 ## Página 18
+
 
 • Bomberos de la Región de Hradec Králové, Estación central Hradec Králové;
 • Servicio de Bomberos y Salvamento del SŽDC, Unidad de Protección contra Incendios Nymburk
@@ -621,6 +644,7 @@ Datos geográficos:
 línea a la altura del terreno en el casco urbano del municipio.
 
 ## Página 19
+
 
 ## 3 EXAMEN DE LA INVESTIGACIÓN Y DE LAS EXPLICACIONES PRESENTADAS
 ### 3.1 Resumen de las explicaciones presentadas (sujeto a la protección de la identidad de las personas)
@@ -658,27 +682,26 @@ agente de estación de la est. Smiřice
 ◦en el CEM no se produjo la ocupación del tramo tras la señal de entrada S de la est. Smiřice, el tren Sp 1793 no pasó esta señal;
 ◦por ello, intentó establecer comunicación mediante radio con el maquinista del tren Sp 1793, pero sin éxito;
 
-
 ## Página 20
 
-◦ambos pasos a nivel, según la señalización de las pilotos, volvieron al estado de advertencia.
+◦los pasos a nivel, según la señalización de los testigos, volvieron a pasar al estado de advertencia.
 ### 3.1.2 Otros testigos
-Otras personas no presentaron explicaciones.
+Otras personas no aportaron explicaciones.
 ### 3.2 Sistema de garantía de la seguridad
-### 3.2.1 Organización marco y forma de impartición y ejecución de instrucciones
-El gestor de la infraestructura y el transportista disponen de un sistema de garantía de la seguridad adoptado en virtud de las disposiciones de la Ley núm. 266/1994 Sb.
-En el sistema de garantía de la seguridad de la explotación de la infraestructura adoptado por el gestor de la infraestructura SŽDC, relacionado con las circunstancias de la ocurrencia de la MU en cuestión, no se detectó ninguna deficiencia.
-En el sistema de garantía de la seguridad de la explotación del transporte ferroviario adoptado por el transportista ČD, relacionado con las circunstancias de la ocurrencia de la MU en cuestión, no se detectó ninguna deficiencia.
+### 3.2.1 Organización marco y forma de emisión y ejecución de instrucciones
+El gestor de la infraestructura y el transportista cuentan con un sistema de garantía de la seguridad adoptado en virtud de lo dispuesto en la ley nº 266/1994 Sb.
+En el sistema de garantía de la seguridad de la explotación de la infraestructura adoptado por el gestor de la infraestructura SŽDC, relacionado con las circunstancias de la aparición de la MU en cuestión, no se detectó ningún defecto.
+En el sistema de garantía de la seguridad de la explotación del transporte ferroviario adoptado por el transportista ČD, relacionado con las circunstancias de la aparición de la MU en cuestión, no se detectó ningún defecto.
 ### 3.2.2 Requisitos para los empleados del gestor de la infraestructura y del transportista y aplicación de dichos requisitos
-Los requisitos para los empleados del gestor de la infraestructura y del transportista, en particular los requisitos de idoneidad profesional y sanitaria, están establecidos por la Ley núm. 266/1994 Sb., el Decreto núm. 173/1995 Sb., el Decreto núm. 101/1995 Sb., el Decreto núm. 16/2012 Sb. y las normas internas del gestor de la infraestructura y del transportista.
-En el momento de la ocurrencia de la MU en cuestión, la persona del gestor de la infraestructura SŽDC involucrada en la MU que realizaba actividades en la explotación de la infraestructura era profesionalmente idónea para el desempeño de la función que ocupaba.
-En el momento de la ocurrencia de la MU en cuestión, la persona del transportista ČD involucrada en la MU que realizaba actividades en la explotación del transporte ferroviario era profesionalmente idónea para el desempeño de la función que ocupaba.
-### 3.2.3 Procedimientos de control interno de seguridad y de auditoría y sus resultados
-El gestor de la infraestructura SŽDC dispone de un sistema de control de seguridad de la explotación de la infraestructura. El 4. 7. 2019 se realizó la inspección y mantenimiento rutinarios del PZZ conforme al plan de mantenimiento aprobado, con el resultado: «El equipo se encuentra en estado operativo».
-La última revisión rutinaria del equipo técnico eléctrico designado se realizó, con base en el Informe de revisión rutinaria del equipo eléctrico Rz. núm. 181-201-2017/Star/Sk, el 20. 6. 2017, con la conclusión: «En el equipo eléctrico revisado no se
-
+Los requisitos para los empleados del gestor de la infraestructura y del transportista, en particular los requisitos de idoneidad técnica y sanitaria, están establecidos por la ley nº 266/1994 Sb., el decreto nº 173/1995 Sb., el decreto nº 101/1995 Sb., el decreto nº 16/2012 Sb. y las normas internas del gestor de la infraestructura y del transportista.
+En el momento de la aparición de la MU en cuestión, la persona del gestor de la infraestructura SŽDC implicada en la MU, que desempeñaba actividades en la explotación de la infraestructura, era técnicamente idonea para el ejercicio de la función desempeñada.
+En el momento de la aparición de la MU en cuestión, la persona del transportista ČD implicada en la MU, que desempeñaba actividades en la explotación del transporte ferroviario, era técnicamente idonea para el ejercicio de la función desempeñada.
+### 3.2.3 Procedimientos de control interno de la seguridad y de auditoría y sus resultados
+El gestor de la infraestructura SŽDC cuenta con un sistema adoptado de control de la seguridad de la explotación de la infraestructura. El 4 de julio de 2019 se realizó la inspección y el mantenimiento periódicos del PZZ conforme al plan de mantenimiento aprobado, con el resultado: «El equipo se encuentra en estado operativo».
+La última revisión periódica del equipo técnico eléctrico designado se realizó, con base en el Informe de revisión periódica del equipo eléctrico Rz. nº 181-201-2017/Star/Sk, el 20 de junio de 2017, con la conclusión: «En el equipo eléctrico revisado no se
 
 ## Página 21
+
 
 detectaron deficiencias que pongan en peligro la seguridad».
 La última inspección integral del equipo de comunicaciones y de seguridad PZZ se realizó, con base en el Acta de la inspección integral, el 2. 12. 2016, con la conclusión: «El equipo se encuentra mantenido en buen estado técnico y es capaz de una explotación segura».
@@ -694,8 +717,8 @@ El gestor de la infraestructura ferroviaria, categoría nacional, Hradec Králov
 El transportista del tren Sp 1793 fue ČD, con domicilio en Nábřeží L. Svobody 1222, Praha 1, PSČ 110 15.
 El transporte ferroviario se explotaba en virtud del contrato celebrado entre el gestor de la infraestructura SŽDC y el transportista ČD el 21. 8. 2013, con efectos desde el 1. 9. 2013.
 
-
 ## Página 22
+
 
 En la interfaz entre los sujetos involucrados no se detectó ninguna deficiencia.
 ### 3.3 Normativa jurídica y otra normativa
@@ -720,8 +743,8 @@ En la investigación de la MU no se detectó infracción de las normas internas 
 El PZZ de categoría PZS 3SBI, tipo SSSR, contaba con un Certificado de idoneidad del equipo técnico designado, n.º ref.: PZ 5547/96-E.44, expedido por la AF el 18. 6. 1996, con vigencia por tiempo indefinido. El ETT es idóneo para la explotación con base en el Acta de inspección y prueba técnica n.º de ref.: 730/2016-LP de fecha 21. 10. 2016, con la conclusión: «El equipo de seguridad inspeccionado y reprobado indicado en este acta sigue desempeñando la función de garantía directa de la seguridad del transporte ferroviario y es operativamente idóneo».
 Del análisis del archivo de datos descargado se detectó:
 
-
 ## Página 23
+
 
 14.52.00 h – el tren Sp 1793 entró en el tramo de aproximación – caída de la armadura del relé BJ
 •
@@ -755,6 +778,7 @@ No se detectaron deficiencias.
 El uso de los equipos de comunicaciones, de transmisión y de información no guardaba relación con la ocurrencia de la MU.
 
 ## Página 24
+
 
 ### 3.4.4 Material rodante, incluido el dispositivo de registro automático de datos
 El HDV 854.017-1 disponía del Certificado de aptitud del material rodante, n.º de ev.: PZ
@@ -805,8 +829,8 @@ señal "Vía libre". El tren Sp 1793 salió de la est. Jaroměř a las 14.48 h. 
 Sp 1793 se aseguró de conformidad con los procedimientos tecnológicos indicados en los
 procedimientos internos
 
-
 ## Página 25
+
 
 del gestor de la vía.
 No se detectaron deficiencias.
@@ -843,95 +867,32 @@ periódicos de conformidad con la disposición del decreto n.º 101/1995 Sb. No 
 estados de salud ni situaciones personales que pudieran haber influido en la ocurrencia de
 la MU, incluido el estrés físico y psicológico.
 
-
 ## Página 26
 
-3.6.3 Disposición del equipamiento del puesto de mando o del material rodante que
-influye en su manejo y uso
-La disposición y el equipamiento del puesto de trabajo de los empleados del gestor de la
-vía y del transportista no guardaban relación con la ocurrencia de la MU.
-### 3.7 Sucesos excepcionales anteriores de carácter similar
-La Inspección Ferroviaria registra en las vías de ámbito nacional y regional, en el período
-desde el 1. 1. 2008 hasta la ocurrencia del suceso excepcional en cuestión, 891 MU
-similares, en las que en pasos a nivel protegidos por PZS sin barreras se produjo el
-encuentro de un DV o un tren con un vehículo motorizado por carretera. La causa inmediata
-de la ocurrencia de estas MU fue la entrada no autorizada de un vehículo motorizado por
-carretera en el P5223 cuando se aproximaba a él un DV o un tren. En estas MU fallecieron
-151 personas, 645 personas resultaron lesionadas y el daño causado ascendió a
-458 976 108 CZK.
-En el paso a nivel P5223, en el período desde el 1. 1. 2010 hasta la ocurrencia del suceso
-excepcional en cuestión, la Inspección Ferroviaria registra dos MU (el 17. 8. 2013 y el
-15. 7. 2014). En estas dos MU no hubo fallecidos ni lesionados y el daño causado ascendió
-a 177 022 CZK. La causa inmediata de la ocurrencia de estas MU fue la entrada no
-autorizada de un vehículo motorizado por carretera en el paso a nivel cuando se aproximaba
-a él o lo estaba cruzando un DV y se estaba emitiendo la advertencia luminosa y sonora.
-Dado que la mayoría de los encuentros en los pasos a nivel y con las peores consecuencias
-se producen precisamente en los pasos a nivel protegidos por PZS sin barreras, la DI, en
-base a los resultados de la investigación de las causas y circunstancias de la ocurrencia de
-MU anteriores de carácter similar, emitió recomendaciones de seguridad, con las que, bajo
-el n.º de expediente: 877/2012/DI, de fecha 14. 11. 2012, y las siguientes, recomendó al
-gestor de la vía SŽDC, con el fin de garantizar la máxima seguridad en las vías férreas de
-ámbito nacional y regional, aumentar el nivel de protección de los pasos a nivel de modo
-que, en las reconstrucciones y modernizaciones de líneas y pasos a nivel, ya se proyectara
-e instalara únicamente equipo de protección de paso a nivel luminoso complementado con
-barreras. La DI, al mismo tiempo, con estas recomendaciones de seguridad, recomendó al
-DÚ adoptar sus propias medidas encaminadas a garantizar la realización de las
-recomendaciones de seguridad mencionadas anteriormente también en los demás gestores
-de vías férreas en la República Checa. Desde el 1. 4. 2017, fecha en que entró en vigor la
-modificación de la ley n.º 266/1994 Sb., conforme a la ley n.º 319/2016 Sb., las
-recomendaciones de seguridad de carácter similar, a partir de la emisión de la ZZ n.º de
-expediente: 6-2611/2017/DI, de fecha 2. 11. 2017, y las siguientes, se destinaron, de
-conformidad con el § 53e de la ley n.º 266/1994 Sb., únicamente a la Autoridad Ferroviaria.
-
+3.6.3 Disposición del equipamiento del puesto de mando o del vehículo ferroviario que influye en su conducción y utilización
+La disposición y el equipamiento del puesto de trabajo de los empleados del gestor de la vía y del transportista no guardaban relación con la aparición de la MU.
+### 3.7 Incidentes anteriores de carácter similar
+La Inspección Ferroviaria registra en las vías de ámbito nacional y regional en el período desde el 1. 1. 2008 hasta la aparición de la MU en cuestión 891 MU similares, en los que en el PZS protegido en el ŽP sin barreras de paso se produjo una colisión del DV o del tren con un vehículo motor por carretera. La causa inmediata de la aparición de estas MU fue la entrada no autorizada de un vehículo motor por carretera en el ŽP en el momento en que se aproximaba a él un DV o un tren. En estas MU resultaron muertas 151 personas, 645 personas sufrieron lesiones y el daño causado ascendió a 458 976 108 Kč.
+En el paso a nivel P5223 en el período desde el 1. 1. 2010 hasta la aparición de la MU en cuestión, la Inspección Ferroviaria registra dos MU (el 17. 8. 2013 y el 15. 7. 2014). En estas dos MU no se produjeron muertes ni lesiones personales y el daño causado ascendió a 177 022 Kč. La causa inmediata de la aparición de estas MU fue la entrada no autorizada de un vehículo motor por carretera en el ŽP en el momento en que se aproximaba a él o lo estaba cruzando un DV y se estaba emitiendo la señalización luminosa y acústica de aviso.
+Dado que la mayoría de las colisiones en el ŽP y con las consecuencias más graves se producen precisamente en el ŽP protegido por PZS sin barreras de paso, la DI, con base en los resultados de la investigación de las causas y circunstancias de la aparición de MU anteriores de carácter similar, emitió recomendaciones de seguridad, mediante las que, con el n.º de ref.: 877/2012/DI, de fecha 14. 11. 2012, y las siguientes, recomendó al gestor de la vía SŽDC, con el fin de garantizar la máxima seguridad en las vías ferroviarias de categoría nacional y regional, aumentar el nivel de protección del ŽP de modo que, en las reconstrucciones y modernizaciones de líneas y ŽP, ya se proyectara e instalara únicamente equipamiento de señalización luminosa de paso a nivel complementado con barreras de paso. La DI, al mismo tiempo, mediante estas recomendaciones de seguridad, recomendó al DÚ adoptar sus propias medidas encaminadas a garantizar la realización de las recomendaciones de seguridad anteriores también en los demás gestores de vías ferroviarias en la República Checa. Desde el 1. 4. 2017, fecha en que entró en vigor la modificación de la ley n.º 266/1994 Sb., conforme a la ley n.º 319/2016 Sb., las recomendaciones de seguridad de carácter similar, a partir de la emisión de la ZZ n.º de ref.: 6-2611/2017/DI, de fecha 2. 11. 2017, y las siguientes, quedaron destinadas, conforme al § 53e de la ley n.º 266/1994 Sb., únicamente a la Autoridad Ferroviaria.
 
 ## Página 27
 
 ## 4 ANÁLISIS Y CONCLUSIONES
-### 4.1 Descripción final del suceso excepcional
-### 4.1.1 Elaboración de las conclusiones sobre el suceso excepcional basadas en los
-hechos constatados en el punto 3
-El 14. 7. 2019 a las 14.52.40 h, entre la est. Jaroměř y la est. Smiřice, en el tramo del paso
-a nivel ferroviario de vía única P5223 en el km 35,068, protegido por un PZZ luminoso con
-señalización positiva sin complemento de barreras, el tren Sp 1793 chocó con un automóvil
-de la marca Škoda Fabia. El tren Sp 1793 entraba en el paso a nivel, en el que se estaba
-emitiendo la advertencia luminosa (con dos luces rojas intermitentes alternas) y sonora del
-equipo de protección de paso a nivel. La conductora del automóvil no respetó la advertencia
-luminosa y sonora del PZZ, que le informaba de que se aproximaba un tren, y entró en el
-paso a nivel. Tras el choque, el automóvil quedó atrapado en la parte frontal del HDV y fue
-empujado hasta el lugar de detención del tren Sp 1793 en el km 34,769, es decir, 299 m
-del paso a nivel.
-En la MU se produjeron lesiones con resultado de fallecimiento de la conductora y de tres
-acompañantes en el automóvil. En el tren Sp 1793 no hubo heridos. No se produjo
-descarrilamiento del DV, el daño en el HDV fue valorado por el titular del DV en 150 550
-CZK, no se produjo daño en el equipamiento del gestor de la vía y el daño en el automóvil
-fue valorado en 300 000 CZK.
+### 4.1 Descripción final del suceso ferroviario
+### 4.1.1 Elaboración de las conclusiones sobre el suceso ferroviario basadas en los hechos
+constatados en el punto 3
+El 14 de julio de 2019 a las 14.52.40 h, entre la estación de Jaroměř y la estación de Smiřice, en el tramo del paso a nivel ferroviario de vía única P5223 en el pk 35,068, protegido por semáforo de paso a nivel con señalización positiva sin complemento de barreras, el tren Sp 1793 colisionó con un automóvil de la marca Škoda Fabia. El tren Sp 1793 entraba en el paso a nivel, en el que se estaba emitiendo la alerta luminosa (dos luces rojas intermitentes alternas) y sonora del dispositivo de enclavamiento del paso a nivel. La conductora del automóvil no respetó la alerta luminosa y sonora del paso a nivel, que le informaba de que se aproximaba un tren, y entró en el paso a nivel. Tras la colisión, el automóvil quedó encastrado en el frontal de la locomotora y fue empujado hasta el punto de detención del tren Sp 1793 en el pk 34,769, es decir, 299 m desde el paso a nivel.
+En el suceso ferroviario se produjo un daño a la salud con resultado de fallecimiento de la conductora y de tres acompañantes en el automóvil. En el tren Sp 1793 no hubo heridos. No se produjo descarrilamiento del tren, el daño en la locomotora fue valorado por el titular del tren en 150 550 Kč, no se produjo daño en las instalaciones del gestor de la infraestructura y el daño en el automóvil fue valorado en 300 000 Kč.
 ### 4.2 Análisis
-### 4.2.1 Evaluación de los hechos constatados en el punto 3 y exposición de las
-conclusiones sobre la causa del suceso excepcional y la actuación de los servicios de rescate
-Tras la salida del tren Sp 1793 a las 14.43 h de la est. Jaroměř, no se produjo ninguna
-anomalía durante la marcha hacia el paso a nivel P5223; la maquinista operaba
-regularmente el freno automático de tren, no se superó la velocidad de línea en el lugar de
-la MU (100 km·h-1) ni la velocidad establecida (100 km·h-1) del tren Sp 1793.
-Al pasar por el paso a nivel P5223, según su declaración, la maquinista vio de repente el
-OA, que entró en el paso a nivel en el mismo instante, a pesar de la advertencia luminosa,
-directamente por delante de la parte frontal del tren en marcha. Inmediatamente después se
-produjo el choque. Dada la velocidad de marcha del tren de 26,94 m·s-1 (97 km·h-1) y la
-distancia muy corta, la maquinista no pudo evitar el choque con el OA.
-Del análisis de los datos descargados del PZZ y de la comprobación comisionada del
-funcionamiento del PZZ se desprende que el PZZ presentaba un funcionamiento normal y
-que el estado técnico del PZZ y su modo de funcionamiento no guardaban relación causal
-con la ocurrencia de la MU.
-Dado que a la DI no le fue posible averiguar con exactitud, ni siquiera del investigador de
-la PČR, si el OA llegó al paso a nivel P5223 directamente por la carretera terciaria n.º
-2998 de la calle Hradecká, o si accedió a ella desde la carretera local n.º 14c de la calle
-Nádražní, se verificaron los parámetros requeridos según la norma ČSN 73 6380 y la
-señalización de tráfico en ambas carreteras. En un poste de alumbrado público, a una
-distancia de 70 m del paso a nivel, hay una cámara del sistema de monitorización urbano,
-orientada hacia el paso a nivel; sin embargo, en el momento de la ocurrencia de la MU,
-según
-
+### 4.2.1 Evaluación de los hechos constatados en el punto 3 y exposición de las conclusiones sobre la causa del suceso ferroviario y la actuación de los servicios de emergencia
+Tras la salida del tren Sp 1793 a las 14.43 h de la estación de Jaroměř, no se produjo ninguna anomalía durante la marcha hacia el paso a nivel P5223; la maquinista operaba regularmente el enclavamiento del tren, y no se superó ni la velocidad de la vía en el lugar del suceso ferroviario (100 km·h-1) ni la velocidad establecida (100 km·h-1) del tren Sp 1793.
+Al pasar por el paso a nivel P5223, según su declaración, la maquinista divisó repentinamente el automóvil, que entró en el paso a nivel en el mismo instante, pese a la alerta luminosa, directamente por delante del frontal del tren en marcha. Inmediatamente después se produjo la colisión. Dada la velocidad de marcha del tren de 26,94 m·s-1 (97 km·h-1) y la distancia muy corta, la maquinista no pudo evitar la colisión con el automóvil.
+Del análisis de los datos descargados del paso a nivel y de la comprobación pericial de la función del paso a nivel se concluyó que el paso a nivel presentaba un funcionamiento normal y que el estado técnico del paso a nivel y su modo de funcionamiento no guardaban relación causal con la producción del suceso ferroviario.
+Dado que no fue posible determinar con exactitud, ni siquiera por parte del investigador de la Policía Nacional, si el automóvil llegó al paso a nivel P5223 directamente por la carretera terrestre de clase III n.º 2998 en la calle Hradecká, o si accedió a ella desde la carretera local n.º 14c de la calle Nádražní, se verificaron los parámetros requeridos según la norma ČSN 73 6380 y la señalización de tráfico en ambas carreteras. En un poste de alumbrado público, a una distancia de 70 m del paso a nivel, se encuentra instalada una cámara del sistema municipal de vigilancia, orientada hacia el paso a nivel; sin embargo, en el momento de la producción del suceso ferroviario, este sistema, según
 
 ## Página 28
+
 
 la información del Ayuntamiento de Černožice, este sistema no funcionaba.
 En el paso a nivel P5223, los conductores que circulaban por la carretera terciaria n.º
@@ -965,8 +926,8 @@ dirección de su marcha y la orientación del paso a nivel. Este hecho fue verif
 en la inspección posterior del lugar realizada por la DI en la misma hora y condiciones
 luminosas que en la ocurrencia de la MU (véanse las figs. n.º 4 y 5).
 
-
 ## Página 29
+
 
 Fig. n.º 4: Visibilidad del avisador desde la calle Hradecká
 Fuente: DI
@@ -974,6 +935,7 @@ Fig. n.º 5: Visibilidad del avisador desde la calle Nádražní
 Fuente: DI
 
 ## Página 30
+
 
 ### 4.3 Conclusiones
 4.3.1 Causas directas e inmediatas del suceso, incluidos los factores que contribuyeron al mismo y que estuvieron relacionados con la actuación de las personas implicadas o con el estado del material rodante o de las instalaciones técnicas
@@ -992,8 +954,8 @@ No fueron detectadas por la Inspección Ferroviaria.
 ### 5.1 Lista de medidas que ya se han adoptado o tomado como consecuencia del suceso
 El gestor de la infraestructura y el transportista no han adoptado ni emitido ninguna medida. La Autoridad Ferroviaria tampoco ha emitido ninguna medida.
 
-
 ## Página 31
+
 
 ## 6 RECOMENDACIONES DE SEGURIDAD
 Atendiendo a que en el paso a nivel P5223 se completó la PZZ en el mes de octubre de 2019 con barreras (véanse las figuras 6 y 7 del anexo), es decir, se actuó conforme a las recomendaciones de seguridad emitidas anteriormente y de forma repetida por la Inspección Ferroviaria, la Inspección Ferroviaria no emite recomendaciones de seguridad.
@@ -1005,8 +967,8 @@ inspector
 Delegación Territorial de Bohemia
 Delegación Territorial de Bohemia
 
-
 ## Página 32
+
 
 ## 7 ANEXOS
 Fig. n.º 6: PZZ con barreras desde la calle Hradecká

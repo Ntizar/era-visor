@@ -13,7 +13,8 @@ tokens_out: 163456
 fecha_proceso: 2026-11-18
 generador: traducir_md_es.py (traducción IA + verificación numérica)
 verificacion: revisar
-avisos: ["página 55: cifras largas: faltan 2/2 (100%)", "página 59: cifras largas: faltan 8/18 (44%)", "página 62: cifras largas: faltan 3/5 (60%)", "página 66: cifras largas: faltan 3/7 (43%)", "página 72: cifras largas: faltan 2/4 (50%)", "página 73: cifras largas: faltan 9/10 (90%)"]
+avisos: ["página 76: cifras largas: faltan 3/7 (43%)"]
+notas_cifras: ["página 12: cifras cortas: 1/36", "página 13: cifras cortas: 9/18", "página 14: cifras cortas: 12/24", "página 15: cifras cortas: 3/4", "página 18: cifras cortas: 4/14", "página 19: cifras cortas: 1/1"]
 ---
 
 ## Página 1
@@ -1207,9 +1208,16 @@ Figura 36. La sala de control de tráfico con los jefes de estación en la Estac
 ## Página 55
 
 Figura 37. El panel de control en la estación de Larissa
-El método normal de funcionamiento del panel de control para el movimiento de los cambios accionados eléctricamente y la apertura de las señales luminosas que permitirán el paso de un tren es el mando simultáneo de dos botones que establecen automáticamente la ruta (Figura 38).
-Figura 38. «Establecimiento automático» de la ruta para un tren según se explica en el manual del Panel de Control5.
-Como puede observarse en la fotografía general del panel de control (Figura 37), se trata de una gran superficie con mucha información y comandos que no pueden considerarse de un vistazo. Para pasar de un modo a otro (del modo manual al automatizado o viceversa), los jefes de estación deben girar una llave numerada (el número hace referencia al número del cambio) en la parte superior del panel de control (Figura 46), individualmente para cada cambio. La zona donde leer los números de los cambios es pequeña y está parcialmente oculta por los anillos de llaves de plástico y metal (este punto se analiza más adelante en el capítulo 4.2.2). En la práctica real del uso de estas llaves, como se ha explicado y mostrado in situ, coexisten al menos dos formas de manipularlas, siendo una de ellas indicativa de falta de confianza en el sistema y/o falta de experiencia (4.2.1.3).
+El método normal de funcionamiento del panel de control para el movimiento de los desvíos accionados eléctricamente y la
+188
+apertura de las señales luminosas que permitirán el paso de un tren, es el control simultáneo de dos botones que
+establecen automáticamente la ruta (Figura 38).
+Figura 38. «Establecimiento automático» de la ruta para un tal, tal como se explica en el manual del panel de control5.
+Como puede observarse en la fotografía general del panel de control (Figura 37), se trata de una zona amplia con mucha información
+189
+y comandos que no pueden considerarse de un vistazo. Para pasar de un modo a otro (del modo manual al modo automático o viceversa), los jefes de estación deben girar una llave numerada (el número hace referencia al número del
+desvío) en la parte superior del panel de control (Figura 46), por separado para cada desvío. La zona donde se leen los números de los desvíos es pequeña y está parcialmente oculta por los llaveros de plástico y metal (este punto se analiza más detenidamente en el
+capítulo 4.2.2). En la práctica real del uso de estas llaves, tal como se ha explicado y mostrado sobre el terreno, coexisten al menos dos formas de manipularlas, una de las cuales es indicativa de falta de confianza en el sistema y/o falta de experiencia (4.2.1.3).
 5 Nótese que esta Figura 33 representa una situación genérica y no la situación específica de Larissa.
 
 ## Página 56
@@ -1264,18 +1272,35 @@ siempre que fuera posible. Aunque esta instrucción apuntaba principalmente al u
 
 ## Página 59
 
-paneles que estaban previstos para entrar en servicio y, por lo tanto, también se aplicaba al uso del panel de control en Larissa.
-Tras esta modificación técnica, OSE emitió el 23/12/2022 una nueva instrucción para el uso del panel de control de Larissa, ordenando que: «Los jefes de estación de Larissa, necesariamente, formarán la ruta utilizando los botones de inicio y destino. Las señales de salida permanecerán mostrando un aspecto de parada y serán rebasadas por orden del jefe de estación, después de asegurarse de que ha formado la ruta adecuada y de que se cumplen las condiciones de libertad de la sección de bloqueo hasta la siguiente estación en servicio».
-4.2.1.4. Práctica «normal/aceptada» de seguir utilizando el establecimiento manual de rutas
-El jefe de estación de Larissa estableció la ruta para que el IC-62 se desplazara hacia el norte de forma manual, girando las llaves correspondientes en el panel de control con este fin. Esta operación manual fue reconocida como más compleja y se emitieron varias instrucciones (198), por lo que se esperaba que esta ruta específica se estableciera automáticamente.
-Como se observó al analizar las grabaciones de las manipulaciones en los paneles de control durante las cuatro noches anteriores (es decir, del 24 al 27 de febrero), el mismo jefe de estación había utilizado la vía automatizada de establecimiento de la ruta para el tren IC-62 todas las noches anteriores. El uso de la vía manual de establecimiento de la ruta para el IC-62 la noche del día 28 supuso una ruptura de este patrón. Estos registros, sin embargo, al observar el panorama general de cómo se establecían las rutas para diferentes trenes, indican claramente que ambas vías de establecimiento de la ruta, manual y automatizada, eran utilizadas indistintamente por este jefe de estación.
-Además, varios de los jefes de estación entrevistados, con distintos niveles de experiencia, declararon que en algunas situaciones (degradadas) o sistemáticamente para ciertos trenes (principalmente locales), la práctica normal y aceptada es el establecimiento manual de la ruta. Esto se combina con el hecho de que el establecimiento automático de la ruta para los trenes que se desplazan al norte de Larissa solo era técnicamente posible tras la introducción del cambio solicitado el 23/12/2022 (198).
-De lo anterior, resulta casi inevitable que los jefes de estación recién contratados hayan observado el uso indistinto del panel de control en Larissa. Especialmente para los nuevos jefes de estación, este punto de tener un conjunto parcial o condicional de normas y prácticas puede haber influido en un manejo inconsistente del panel de control.
-4.2.1.5. Competencias
-El jefe de estación que realizó el turno de noche la noche del accidente fue contratado mediante un proceso diferente al de los más de 200 nuevos empleados fijos a plazo determinado (100). Como antiguo empleado de OSE, solicitó (junto con unos pocos más en ese momento) mediante una ley relativa a la «movilidad interna» a diferentes puestos de empleados del sector público en sentido amplio. Su solicitud y reingreso en OSE coincidieron cronológicamente con la contratación de los empleados contractuales, reclutados durante el verano de 2022, y por lo tanto formó parte del mismo proceso de formación y educación de seis a siete meses. Pero su situación laboral era permanente.
-Poco más de un mes antes del accidente, a finales de enero de 2023, el jefe de estación de Larissa superó sin duda alguna tanto los exámenes orales como los escritos, tras la formación básica. A partir de entrevistas y declaraciones oficiales podemos concluir que también era percibido por su supervisor en Larissa, por sus compañeros-formadores prácticos y por sus compañeros de formación como muy interesado en aprender y hacerlo bien, haciendo preguntas y buscando respuestas. En términos de Habilidades No Técnicas (NTS) o competencias conductuales, ha sido descrito como servicial y deseoso de trabajar, pero también con un carácter bastante fuerte y algo excesivamente seguro de sí mismo. Cabe señalar que en esta profesión es necesario adquirir un buen nivel de autoconfianza, para poder dominar todas las influencias que pesan sobre ellos, como han mencionado varios de los últimos jefes de estación contratados, quienes hacen referencia a un período para esto de uno a año y medio (301301). Esto contrasta con los contratos de 6 meses (renovables) realizados para la mayoría de estos nuevos jefes de estación contratados.
-4.2.1.6. Trabajo en solitario, diseño del puesto y presión temporal
-El 28 de febrero de 2023, el jefe de estación de Larissa fue llamado a comenzar antes por los jefes de estación del turno de tarde, debido a su agotadora carga de trabajo del servicio, según el contenido de las comunicaciones y posteriores declaraciones. Por lo tanto, el jefe de estación del turno de noche tomó su relevo alrededor de las 21:45 (es decir, involucrado en su primera comunicación registrada). Luego quedó solo alrededor de las 22:15 a 22:20 según él mismo y la última comunicación en la que estaba involucrado el jefe de estación anterior (22:04).
+paneles que se preveía poner en servicio y, por tanto, también aplicados al uso del panel de control en 
+Larissa. 
+Tras esta enmienda técnica, OSE emitió el 23/12/2022 una nueva instrucción para el uso del panel de control de 
+200 
+Larissa, en la que se establecía que: «Los jefes de estación de Larissa, necesariamente, formarán la ruta mediante botones de inicio y destino. Las señales luminosas de salida permanecerán mostrando una indicación de parada y serán autorizadas por orden del jefe de estación, después de asegurarse de que ha formado la ruta apropiada y de que se cumplen las condiciones de libertad de la sección de bloqueo hasta la siguiente estación en servicio.»  
+4.2.1.4. Práctica «normal/aceptada» de continuar utilizando la formación manual de ruta 
+El jefe de estación de Larissa formó la ruta para que el IC-62 se desplazara hacia el norte de forma manual, girando 
+201 
+para ello las llaves correspondientes del panel de control. Esta operación manual se reconoció como más compleja y se emitieron varias instrucciones (198), de modo que se esperaba que esta ruta específica se formara automáticamente.  
+Como se constató al analizar las grabaciones de las manipulaciones en los paneles de control durante las cuatro 
+202 
+noches anteriores (es decir, del 24 al 27 de febrero), el mismo jefe de estación había utilizado la vía automatizada de formación de la ruta para el tren IC-62 todas las noches anteriores. Utilizar la vía manual de formación de la ruta para el IC-62 la noche del 28 fue una ruptura de este patrón. Estos registros, sin embargo, al observar el panorama general de cómo se formaban las rutas para los distintos trenes, también indican claramente que ambos modos de formación de la ruta, manual y automatizado, eran utilizados de forma indistinta por este jefe de estación.  
+Además, varios de los jefes de estación entrevistados, con distintos niveles de experiencia, declararon que en algunas 
+203 
+situaciones (degradadas) o de forma sistemática para ciertos trenes (mayoritariamente locales), la práctica normal y aceptada es la formación manual de ruta. Esto se combina con el hecho de que la formación automática de la ruta para los trenes que se desplazan al norte de Larissa solo fue técnicamente posible tras la introducción del cambio solicitado el 23/12/2022 (198).  
+De lo anterior, es casi inevitable que los jefes de estación recién incorporados hayan observado el uso 
+204 
+indistinto del panel de control en Larissa. Especialmente para los nuevos jefes de estación, este hecho de contar con un conjunto parcial o condicional de normas y prácticas puede haber influido en un manejo inconsistente del panel de control.  
+4.2.1.5. Competencias 
+El jefe de estación que realizó el turno de noche la noche del accidente fue contratado mediante un proceso distinto 
+205 
+al de los más de 200 nuevos empleados de duración determinada (100). Como antiguo empleado de OSE, se presentó (junto con unos pocos más en aquel momento) en virtud de una ley relativa al «movimiento interno» a distintos puestos de empleados del amplio sector público. Su solicitud y su readmisión en OSE coincidieron temporalmente con la contratación de los empleados contratados, incorporados durante el verano de 2022, y por tanto formó parte del mismo proceso de formación y educación de seis a siete meses. Pero su situación laboral era de carácter permanente. 
+Un poco más de un mes antes del accidente, a finales de enero de 2023, el jefe de estación de Larissa aprobó sin 
+206 
+ninguna duda los exámenes tanto orales como escritos, tras la formación básica. De las entrevistas y declaraciones oficiales podemos concluir que también fue percibido por su superior en Larissa, por sus colegas prácticos-formadores y por sus compañeros de formación como muy dispuesto a aprender y a hacerlo bien, formulando preguntas y buscando respuestas. En cuanto a las Habilidades No Técnicas (NTS) o competencias de comportamiento, se ha descrito como servicial y con muchas ganas de trabajar, pero también con un carácter bastante fuerte y más bien excesivamente confiado. Cabe señalar que en esta profesión es necesario adquirir un buen nivel de confianza en uno mismo, para poder dominar todas las influencias que pesan sobre ellos, como han referido varios de los jefes de estación recién incorporados, que señalan un período para ello de uno a un año y medio (301301). Esto contrasta con los contratos de 6 meses (renovables) suscritos para la mayoría de estos nuevos jefes de estación. 
+4.2.1.6. Trabajo en solitario, diseño del puesto y presión horaria 
+El 28 de febrero de 2023, el jefe de estación de Larissa fue llamado para empezar antes por los jefes de estación del 
+207 
+turno de tarde, debido a su agotadora carga de trabajo del servicio, según el contenido de las comunicaciones y declaraciones posteriores. Por tanto, el jefe de estación del turno de noche tomó su turno hacia las 21:45 (es decir, involucrado en su primera comunicación registrada). Se quedó solo alrededor de las 22:15 a 22:20 según sus propias palabras y la última comunicación en la que estuvo involucrado el jefe de estación anterior (22:04).
 
 ## Página 60
 
@@ -1368,11 +1393,17 @@ y cuantificable, estaba compuesta por las comunicaciones recibidas, dadas o moni
 
 ## Página 62
 
-comunicaciones en las que el jefe de estación solo debía escuchar (monitorizar). Durante la tercera media hora, se intensifica aún más con 50 comunicaciones de una duración media comparable y solapadas. La duración acumulada de las comunicaciones es un 25 % mayor en esta última media hora, lo que deja menos tiempo para comprender lo que estaba sucediendo, anticipar y razonar correctamente, o incluso compartir algunos problemas con alguien.
-La variabilidad que reside en el error cometido por el jefe de estación de Larissa puede tener parte de sus fuentes de influencia en la cantidad, la duración y la diversidad de las comunicaciones que tuvo que tratar, procesar o hacer seguimiento, especialmente durante la última hora e incluso más durante la última media hora. De hecho, considerando el número de interlocutores (conductores de tren, operador de aguja, guarda del paso a nivel y residentes, policía, personal de estación, regulador de tráfico y otros jefes de estación), los temas y el tiempo restante para «pensar» o «escribir», varios jefes de estación experimentados, incluido uno de sus responsables, admitieron que la carga de trabajo en este periodo era más que crítica. Y dado que tal combinación de factores de carga de trabajo es muy rara, puede considerarse que esta situación fue una gran trampa para un jefe de estación insuficientemente preparado o sin experiencia.
-El análisis únicamente de las comunicaciones, sin ni siquiera tener en cuenta otras tareas, indica tres periodos pico (Figura 44) que parecen corresponderse con los errores consecutivos cometidos por el jefe de estación: el establecimiento de itinerarios respectivamente para el tren 2597 y el IC-62, y no detectar el error con la aguja 118. Esto indica que los periodos de carga de trabajo demasiado pesada, en particular para operadores con menos experiencia, pueden ser una causa directa de errores, equivocaciones y violación de procedimientos rutinarios, porque hay «tiempo para pensar» o uno está «capturado por el flujo de problemas a contener». Este tipo de análisis de carga de trabajo, con resultados que superan las capacidades humanas, muestra la importancia de integrar los factores humanos y organizativos en las prácticas de gestión de riesgos (4.2.80).
-Figura 44. Análisis factual de la carga de trabajo de comunicaciones como riesgo a tener en cuenta durante la integración de HOF.
-Al analizar el número y la diversidad de las comunicaciones, también pudimos observar que, a pesar de la frecuente mala calidad del sonido, la radio VHF es el medio de comunicación más utilizado, excepto entre los Jefes de Estación, que utilizaban tanto el GSM-R (con números de telegrama la mayoría de las veces) como el teléfono fijo.
+comunicaciones en las que el jefe de estación solo tenía que escuchar (monitorizar). En el tercer medio horario, se intensifica aún más con 50 comunicaciones de una duración media comparable y superpuestas. La duración acumulada de las comunicaciones es un 25 % mayor en este último medio horario, dejando menos tiempo para comprender lo que estaba sucediendo, anticipar y razonar correctamente, o incluso compartir algunos problemas con alguien. 
+La variabilidad que reside en el error cometido por el jefe de estación de Larissa puede tener partes de sus fuentes de 
+219 
+influencia en la cantidad, la duración y la diversidad de las comunicaciones que tuvo que tratar, procesar o dar seguimiento, especialmente durante la última hora e incluso más durante el último medio horario. De hecho, considerando el número de interlocutores (maquinistas, operador de agujas, guardia de paso a nivel y residentes, policía, personal de estación, regulador de tráfico y otros jefes de estación), los temas y el tiempo disponible para «pensar» o «escribir», varios jefes de estación experimentados, incluido uno de sus responsables, admitieron que la carga de trabajo en este período de tiempo era más que crítica. Y con una combinación de factores de carga de trabajo como esta, muy poco frecuente, puede considerarse que esta situación ha sido una enorme trampa para un jefe de estación insuficientemente preparado o inexperto. 
+El análisis de las comunicaciones únicamente, sin tener en cuenta otras tareas, indica tres períodos pico (Figura 
+220 
+44) que parecen corresponder con los errores consecutivos cometidos por el jefe de estación: la establecimiento de las rutas para los trenes 2597 e IC-62 respectivamente y la no detección del error con la aguja 118. Esto indica que los períodos de carga de trabajo excesivamente pesada, en particular para operadores menos experimentados, pueden ser una causa directa de errores, equivocaciones y violación de rutinas, porque «no hay tiempo para pensar» o se está «atrapado por el flujo de problemas que contener». Este tipo de análisis de carga de trabajo, con resultados que superan las capacidades humanas, muestra la importancia de la integración de factores humanos y organizativos en las prácticas de gestión de riesgos (4.2.80). 
+Figura 44. Análisis factual de la carga de trabajo de las comunicaciones como riesgo a tener en cuenta durante la integración de HOF. 
+Mientras analizábamos el número y la diversidad de las comunicaciones, también pudimos observar que, a pesar de la 
+221 
+frecuente mala calidad del sonido, la radio VHF es el medio de comunicación más utilizado, excepto entre los jefes de estación que utilizaban tanto el GSM-R (con números de telegrama la mayor parte del tiempo) como el teléfono de línea fija.
 
 ## Página 63
 
@@ -1436,12 +1467,15 @@ Figura 47. Detalle de los aparatos de cambio 118 en el Panel de Control de Laris
 
 ## Página 66
 
-Las líneas en las que la presencia de un tren es detectada por circuitos de vía o contadores de ejes se muestran en el Panel de Control mediante una secuencia de colores que delimitan el circuito de vía o la zona controlada por cada contador de ejes. Las vías principales utilizan una secuencia de colores naranja/verde para las vías ascendentes y azul/marrón para las vías descendentes (Figura 48). Dentro de las líneas coloreadas que representan los circuitos de detección, se colocan fotodiodos que se iluminan para proporcionar información al operador del panel. La iluminación de la luz amarilla en un circuito de vía significa que se ha "encaminado" un tren para cruzar la sección de vía que está iluminada. La luz amarilla permanece encendida hasta que el tren alcanza el circuito, momento en el cual se apaga y es sustituida por un grupo de luces rojas, lo que indica que hay un tren en el circuito específico de detección.
-Figura 48. Detalle del Panel de Control de Larissa con una ruta establecida para cruzar un desvío en posición de desviación.
-El Panel de Control de la estación de Larissa fue puesto nuevamente en servicio el 01/11/2022 (194) hasta la sección EA1. La razón de esto es que la sección EA2 cubre parcialmente la estación de Larissa, pero también partes de la estación comercial de Larissa situadas más al norte. Esta sección estaba prevista para ser entregada posteriormente, como parte de las obras Larissa-Platy. Sin embargo, esto significó que el Panel de Control fue puesto en servicio sin que la sección EA2 del Panel de Control mostrara ninguna indicación. Este fue también el caso en la noche del 28/02/2023, como puede concluirse de las “Conclusiones de la Comisión de expertos”, quienes informaron haber observado esto durante su visita in situ a la estación de Larissa el 20/03/2023.
-En la sección EA3 (indicada como “EA” en el panel de control) había una indicación permanente de ocupación ya que la señalización hacia el norte de Larissa aún no se había completado. Esto significa que una de las luces en esa parte del panel de control mostrando un aspecto rojo, no sería percibida como excepcional ni preocupante y probablemente no atraería inmediatamente la atención del jefe de estación.
+Las líneas en las que la presencia de un tren se detecta mediante circuitos de vía o ejes contadores se muestran en el Panel de Control 238 en una secuencia de colores que delimita el circuito de vía o el área controlada por cada eje contador. Las líneas principales utilizan una secuencia de colores naranja/verde para las ascendentes y azul/marrón para las descendentes (Figura 48). Dentro de las líneas de colores que representan los circuitos de detección se colocan fotodiodos que se encienden para proporcionar información al operador del panel. Encender la luz amarilla en un circuito de vía significa que un tren ha sido "encaminado" para cruzar el tramo de vía que está iluminado. La luz amarilla permanece encendida hasta que el tren alcanza el circuito, momento en el que se apagan y son sustituidas por un grupo de luces rojas, lo que significa que hay un tren en el circuito de detección específico.
+Figura 48. Detalle del Panel de Control de Larissa con una ruta establecida para cruzar un cambio en posición de bypass.
+El Panel de Control de la estación de Larissa se puso en servicio el 01/11/2022 (194) hasta la sección EA1. La razón 239
+de esto es que la sección EA2 cubre parcialmente la estación de Larissa, pero también partes de la estación comercial de Larissa situada más al norte. Esta sección estaba prevista para ser entregada más tarde, como parte de las obras Larissa-Platy. Esto, sin embargo, significaba que el Panel de Control se había puesto en servicio sin que la sección EA2 del Panel de Control mostrara ninguna indicación. Este también fue el caso la noche del 28/02/2023, como puede concluirse de las "Conclusiones de la Comisión de expertos", que informan de haber observado esto durante su visita sobre el terreno a la estación de Larissa el 20/03/2023.
+En la sección EA3 (indicada como "EA" en el panel de control) había una indicación permanente de ocupación ya que la 240
+señalización hacia el norte de Larissa aún no se había completado. Esto significa que una de las luces en esa parte del panel de control que mostraba una indicación roja, no se percibiría como excepcional o preocupante y probablemente no atraería inmediatamente la atención del jefe de estación.
 
 ## Página 67
+
 
 Figura 49. Sección EA3 (indicada como EA a la izquierda de EA2 en la imagen) del panel de control indicando incorrectamente una ocupación.
 En la práctica, esto significa que el encaminamiento erróneo del tren IC-62 era visible para el jefe de estación mediante las siguientes
@@ -1594,62 +1628,126 @@ El registrador de datos TELOC muestra que ambas locomotoras, la 120-012 y la 120
 
 ## Página 72
 
-y llegando a la Estación de Mercancías de Tesalónica, permaneciendo luego estacionada durante aproximadamente 25 minutos (desde las 21:15 hasta las 21:40).  
-La misma cronología de los hechos está respaldada por los datos GPS del movimiento de las locomotoras proporcionados por Hellenic Train.²⁸⁴ Una cronología similar está también respaldada por el libro de registro del jefe de estación en la Estación de Mercancías de Tesalónica (las locomotoras llegan a las 21:05, la prueba finaliza a las 21:35 y el tren sale a las 21:40).  
-Figura 51. Cronología del movimiento del tren de mercancías 63503  
-
-| Tesalónica | 21:40 |
-| :--- | :--- |
-| ΤΧ1 | 21:50 |
-| Sindos | 21:57 |
-| Platy | 22:13 |
-| Aiginio | 22:25 |
-| Katerini | 22:40 |
-| Litochoro | 22:51 |
-| Leptokarya | 22:59 |
-| Neoi Poroi | 23:05 |
-
-Tabla 6. Tabla de la hora en cada estación intermedia antes de salir de Neoi Poroi según lo registrado por OSE.  
-Faltan las imágenes de vídeo de la carga del tren de mercancías 63503, al igual que la mayoría de las imágenes de vídeo de su itinerario²⁸⁵ hasta el lugar del accidente.
+y llegando a la Estación de Mercancías de Thessaloniki y permaneciendo después inmóvil durante aproximadamente 25 minutos (desde 
+21:15 hasta 21:40).  
+La misma cronología de los hechos está respaldada por los datos GPS del movimiento de las locomotoras facilitados por Hellenic 
+284 
+Train. Una cronología similar también está respaldada por el libro de registro del jefe de estación de la Estación de Mercancías de Thessaloniki 
+(las locomotoras llegan a las 21:05, la prueba finaliza a las 21:35 y el tren sale a las 21:40).  
+Figura 51. Cronología del movimiento del tren de mercancías 63503 
+Thessaloniki 
+21:40 
+ΤΧ1 
+21:50 
+Sindos 
+21:57 
+Platy 
+22:13 
+Aiginio 
+22:25 
+Katerini 
+22:40 
+Litochoro 
+22:51 
+Leptokarya 
+22:59 
+Neoi Poroi 
+23:05 
+Tabla 6. Tabla de la hora en cada estación intermedia antes de salir de Neoi Poroi según lo registrado por OSE. 
+Falta la grabación de vídeo de la carga del tren de mercancías 63503, al igual que la mayor parte de la grabación de vídeo de su itinerario 
+285 
+hasta el lugar del accidente.
 
 ## Página 73
 
 Análisis adicional de los sistemas de gestión de la seguridad
-El marco legislativo europeo establece claramente que los operadores, el gestor de infraestructura y las empresas ferroviarias son responsables del control de los riesgos inherentes a sus actividades. Para controlar estos riesgos operacionales, deben implementar un sistema de gestión de la seguridad. Por lo tanto, para comprender mejor qué elementos subyacentes pueden explicar los factores contribuyentes identificados anteriormente, se analizaron en mayor detalle los procesos pertinentes de dichos sistemas de gestión de la seguridad, como se detalla en los puntos siguientes (4.2.6 a 4.2.16).
+
+El marco legislativo europeo establece claramente que los operadores, el gestor de infraestructura y los operadores ferroviarios son responsables de controlar los riesgos inherentes a sus actividades. Para controlar estos riesgos operativos, deben implantar un sistema de gestión de la seguridad. Por lo tanto, para comprender mejor qué elementos subyacentes pueden explicar los factores contribuyentes encontrados más arriba, se analizaron en mayor profundidad los procesos relevantes de estos sistemas de gestión de la seguridad, tal y como se informa en los puntos siguientes (4.2.6 a 4.2.16).
+
 El sistema de gestión de la seguridad de OSE
+
 4.2.6. Gestión de la competencia de los jefes de estación
-Un sistema de gestión de la competencia debe garantizar que el personal con una función que afecte a la seguridad sea competente en las tareas relacionadas con la seguridad por las que es responsable. Y esto significa incluir al menos: la identificación de las competencias (incluidos conocimientos, habilidades, comportamientos no técnicos y actitudes) requeridas para las tareas relacionadas con la seguridad, los principios de selección (nivel educativo básico, aptitud psicológica y física requerida); los detalles de la formación inicial, experiencia y cualificación; la formación continua y la actualización periódica de las competencias existentes; la evaluación periódica de la competencia y las comprobaciones de la aptitud psicológica y física para garantizar que las cualificaciones y habilidades se mantengan con el tiempo; y cualquier formación específica en las partes relevantes de las normas operativas, integradas en el sistema de gestión de la seguridad, para desempeñar sus tareas relacionadas con la seguridad. Además, la organización debe proporcionar un programa de formación cuya eficacia esté demostrada y garantizar que el programa adecuado se imparta a la persona adecuada, en el momento oportuno, con evidencia trazable, y que esté sujeto a control, revisión y mejora continua.
-Desde un punto de vista general, ha sido difícil obtener más que la lista de los temas a cubrir durante la formación teórica, los nombres de los formadores, los periodos de tiempo dedicados a estas actividades de formación, el contenido de los exámenes y los resultados finales del grupo de alumnos que finalizaron la formación en enero de 2023.
-Para poder realizar un análisis completo, habríamos necesitado más información y al menos los siguientes puntos: la ruta completa de integración incluyendo los aspectos prácticos a cubrir, la formación de los formadores con sus capacidades formativas (las necesidades docentes requieren competencias específicas), el rol y la preparación de los formadores incluidos los compañeros-formadores prácticos, los vínculos establecidos con la evaluación de riesgos de situaciones degradadas (y emergencias) y/o incidentes anteriores, las listas formales de los participantes para cada formación, y algunos informes que muestren cómo se pusieron en práctica los controles o auditorías para mejorar la gestión de la competencia.
-El hecho de que estos elementos no pudieran ser transmitidos crea al menos la presunción de que no existen y, por lo tanto, nunca se pusieron en práctica para gestionar la competencia de los jefes de estación, ya fueran experimentados o recién contratados.
+
+Un sistema de gestión de la competencia debe garantizar que el personal que desempeña un papel que afecta a la seguridad sea competente en las
+286
+tareas relacionadas con la seguridad de las que es responsable. Y esto significa incluir al menos: la identificación de las competencias (incluidos conocimientos, habilidades, comportamientos no técnicos y actitudes) requeridas para las tareas relacionadas con la seguridad, los principios de selección (nivel educativo básico, aptitud psicológica y física requerida); los detalles de la formación inicial, la experiencia y la cualificación; la formación continua y la actualización periódica de las competencias existentes; la evaluación periódica de la competencia y las comprobaciones de aptitud psicológica y física para garantizar que las cualificaciones y habilidades se mantienen a lo largo del tiempo; y cualquier formación específica en las partes pertinentes de las normas operativas, tal como están incorporadas en el sistema de gestión de la seguridad, para desempeñar sus tareas relacionadas con la seguridad. Asimismo, la organización debe proporcionar un programa de formación que se demuestre que alcanza su objetivo y garantizar que el programa adecuado se imparte a la persona adecuada, en el momento oportuno, con evidencia trazable, y sometido a control, revisión y mejora continua.
+
+Desde un punto de vista general, ha sido difícil obtener más que la lista de los puntos a cubrir durante
+287
+la formación teórica, los nombres de los formadores, los períodos de tiempo dedicados a estas actividades de formación, el contenido de los exámenes y los resultados finales del grupo de alumnos que finalizaron la formación en enero de 2023.
+
+Para poder realizar un análisis completo, habríamos necesitado más información y al menos los siguientes puntos:
+288
+la ruta de integración completa incluía los puntos prácticos a cubrir, la formación de los formadores con sus capacidades de formación (la enseñanza requiere competencias específicas), el papel y la preparación de los formadores, incluidos los formadores prácticos compañeros de trabajo, los vínculos establecidos con la evaluación de riesgos de situaciones degradadas (y emergencias) y/o ocurrencias anteriores, las listas formales de los participantes en cada formación, y algunos informes que muestren cómo se pusieron en práctica los controles o auditorías para mejorar la gestión de la competencia.
+
+El hecho de que estos elementos no pudieran transmitirse al menos crea la presunción de que no existen
+289
+y, por lo tanto, nunca se pusieron en práctica para gestionar la competencia de los jefes de estación, ya fueran experimentados o de nueva incorporación.
+
 4.2.6.1. Integración de nuevos jefes de estación
-El contenido actual de la parte teórica de la formación se construye con una mentalidad basada en el conocimiento. No está claro cómo se valorizan los incidentes anteriores y las situaciones degradadas clásicas o menos clásicas mediante una evaluación de riesgos o una simulación (de mesa o in situ). La identificación de las competencias parece ser una correspondencia aproximativa entre importantes capítulos teóricos y el cronograma del programa de formación.
-No existe una dirección centralizada específica dada al desarrollo de las Habilidades No Técnicas críticas necesarias para realizar las actividades de un jefe de estación, ni a su evaluación o seguimiento.
-Una vez que los nuevos alumnos contratados han finalizado los cursos teóricos impartidos en aulas, son distribuidos regionalmente e integrados en los servicios de turnos de diferentes estaciones. No existe (o es deficiente) el seguimiento y el control trazable de quién hace qué, dónde, cuándo, con quién y aprendiendo qué. Esto es especialmente cierto para la parte práctica de la formación (pero no solo).
-No existe una dirección centralizada específica dada a esta integración, ni una evaluación dedicada de su practicidad y calidad.
-No existe una evaluación particular ni intercambio de información entre la parte teórica y la práctica
+
+El contenido actual de la parte teórica de la formación se construye con una mentalidad basada en el conocimiento. No está claro cómo
+290
+las ocurrencias anteriores, y las situaciones degradadas clásicas o menos clásicas, se valoran a través de una evaluación de riesgos o una simulación (sobre mesa o in situ). La identificación de las competencias parece ser una correspondencia aproximada entre capítulos teóricos importantes y la línea temporal del programa de formación.
+
+No se da ninguna dirección centralizada específica para el desarrollo de las Habilidades No Técnicas críticas necesarias para
+291
+desempeñar las actividades de un jefe de estación, ni para su evaluación o seguimiento.
+
+Una vez que los alumnos recién incorporados han finalizado los cursos teóricos impartidos en aulas, se distribuyen regionalmente
+292
+e integran en los servicios de turnos de diferentes estaciones. No hay (o es escaso) el seguimiento y el control trazable de quién hace qué, dónde, cuándo, con quién y qué aprende. Esto es especialmente cierto para la parte práctica de la formación (pero no solo).
+
+No se da ninguna dirección centralizada específica para esta integración, ni se realiza una evaluación dedicada de la practicidad
+293
+y la calidad de la misma.
+
+No hay una evaluación particular ni un intercambio de información entre la parte teórica y la práctica
+294
 
 ## Página 74
 
-parte de la formación. Por lo tanto, sigue siendo posible que un alumno se presente a la parte práctica poco preparado o con una preparación insuficiente, es decir, en medio de las operaciones de tráfico que deben gestionar los compañeros-formadores experimentados en tiempo real.
-295 
-Lo específico de la parte práctica de la formación es la forma en que los alumnos son asignados y rotan por diferentes estaciones, con diferentes jefes de estación experimentados y con diferentes métodos de gestión del tráfico (hay distintos tipos de paneles de control y hay estaciones sin panel de control). Como tal, este enfoque puede considerarse bueno o válido; sin embargo, no existe garantía ni trazabilidad sobre lo que hacen realmente los alumnos de forma individual, ni sobre si su rotación es suficiente o no para adquirir las competencias necesarias para poder trabajar de forma segura en todas las condiciones.
-Aunque OSE presume que es una práctica conocida y estándar, los roles de los compañeros-formadores, dedicados a llevar a cabo la formación práctica de los nuevos jefes de estación (no certificados aún), no están definidos. No se conoce ni se explica cómo son elegidos o preparados para cumplir su misión formativa. No hay seguimiento de sus tareas específicas de formación, que por cierto pueden interferir con las de garantizar el tráfico.
-296 
-La retroalimentación que se distribuye a través de los compañeros-formadores a los alumnos no está explicada, compartida, consolidada, validada, estandarizada ni es trazable.
-Estos compañeros-formadores, que garantizan la parte práctica de la integración, no participan en el examen final, ni en las evaluaciones intermedias, ya sean sumativas (mediante retroalimentación) o normativas (mediante puntuaciones). Parece que no son reconocidos en absoluto como formadores, o al menos así es como ellos perciben y comentan su situación.
-297 
-No existe o es deficiente la garantía de que todos los puntos críticos de seguridad para la operación del tráfico estén integrados en la formación práctica y evaluados mediante la observación de la práctica o mediante una evaluación práctica relevante. Un ejemplo relevante es el ya descrito (195), que explicaba que, según pudimos identificar, no se pusieron a disposición instrucciones de trabajo específicas que describieran las maniobras a realizar para cada tren (en modo automático o manual, en modo normal o degradado), por lo que esto pudo haber influido en un manejo inconsistente del panel de control.
-298 
-La evaluación global de la cohorte de agosto de 2022 muestra una fuerte consistencia en el éxito, indicando que todos los participantes obtuvieron notas entre 7 y 10 tanto en la parte oral como en la escrita. Esto pone en duda si el enfoque puede definir la capacidad operativa real de los nuevos jefes de estación.
-Una vez certificados, la dirección asume, e incluso algunos nuevos jefes de estación certificados podrían asumirlo, que están listos para desempeñarse al nivel esperado, independientemente de las situaciones o de los recursos puestos a su disposición para dominarlas. Sin embargo, ha sido repetido varias veces por diferentes jefes de estación, tanto nuevos como experimentados, que se tarda al menos entre un año y 1,5 años de práctica operativa para estar más cómodo, menos estresado y más seguro en el desempeño del trabajo de jefe de estación. Esta visión compartida no parece ser tenida en cuenta en ningún momento, ni en la orientación dada a la práctica, ni en el plan de lecciones teóricas, ni en las Habilidades No Técnicas tal como actualmente se apoyan (o no), ni en la retroalimentación final dada después de la integración para eventualmente mejorar todo el contenido y enfoque de la formación.
-299 
-Incluso si la integración de un número tan alto de nuevos jefes de estación reclutados debería considerarse, desde una perspectiva de seguridad, como un cambio significativo, no hay indicación de que este cambio haya sido nunca objeto de ninguna evaluación específica de riesgos (4.2.12). Por el contrario, el enfoque presentado parece ser una copia de la forma en que se realizaba la formación de jefes de estación hace 20 años.
-300 
+parte de la formación. Por lo tanto, sigue siendo posible que un alumno llegue bastante no preparado o insuficientemente preparado a la parte práctica, es decir, en medio de las operaciones de tráfico que deben ser gestionadas por los experimentados (los compañeros-formadores) en tiempo real.
+
+Específico de la parte práctica de la formación es la forma en que los alumnos se colocan y rotan por diferentes puestos,
+295
+con diferentes jefes de estación experimentados, y con diferentes formas de gestionar el tráfico (hay diferentes tipos de paneles de control, y hay estaciones sin panel de control). Como tal, este enfoque puede considerarse bueno o válido, sin embargo, no hay garantía ni trazabilidad de lo que los alumnos están haciendo realmente como individuos, y si su rotación es suficiente o no para adquirir las competencias necesarias para poder trabajar de forma segura en todas las condiciones.
+
+Aunque OSE lo presume como práctica conocida y estándar, los roles de los compañeros-formadores, que están
+296
+dedicados a perseguir la formación práctica de los nuevos jefes de estación (aún no certificados), no están definidos. No se sabe ni se explica cómo se les elige o se les prepara para cumplir su misión formativa. No hay seguimiento de sus tareas formativas específicas, que por cierto pueden interferir con las de garantizar el tráfico. La retroalimentación que se distribuye a través de los compañeros-formadores a los alumnos no está explicada, compartida, consolidada,
+297
+validada, estandarizada ni trazable.
+
+Estos compañeros-formadores, que aseguran la parte práctica de la integración, no están involucrados en el examen
+298
+final, ni en las evaluaciones intermedias, ya sean sumativas (dando retroalimentación) o normativas (dando puntos). Parece que no son reconocidos en absoluto como formadores, o al menos así es como sienten y comentan su situación.
+
+No hay o hay poca garantía de que todos los puntos críticos de seguridad para la operación del tráfico estén integrados en la formación
+299
+práctica, y evaluados mediante observación de la práctica o mediante una evaluación práctica relevante. Un ejemplo relevante es el ya descrito (195) que explicó que, hasta donde pudimos identificar, no se pusieron a disposición instrucciones de trabajo específicas que describieran las maniobras a realizar para cada tren (en modo automático o manual, en modo normal o degradado), por lo que esto puede haber influido en un manejo inconsistente del panel de control.
+
+La evaluación global de la cohorte de agosto de 2022 muestra una fuerte consistencia en el éxito, demostrando que todos los
+300
+participantes obtuvieron notas entre 7 y 10 tanto en la parte oral como en la escrita. Esto pone en duda si el enfoque puede definir la capacidad operativa real de los nuevos jefes de estación.
+
+Una vez certificados, se asume por parte de la dirección, y quizás incluso por algunos jefes de estación recién certificados, que
+301
+están listos para desempeñarse al nivel esperado, cualesquiera que sean las situaciones o los recursos puestos a su disposición para dominarlas. Sin embargo, se ha repetido en varias ocasiones por diferentes jefes de estación, nuevos y experimentados, que se necesita al menos entre un año y 1,5 años de práctica operativa para sentirse más cómodo, menos estresado y más seguro en el desempeño del trabajo de jefe de estación. Esta visión compartida no parece tenerse en cuenta en ningún momento, ni en la dirección dada a la práctica, ni en el plan de lecciones teóricas, ni en las Habilidades No Técnicas tal como actualmente se (des)apoyan, ni en la retroalimentación final dada después de la integración para mejorar eventualmente todo el contenido y enfoque de la formación.
+
+Aunque la integración de un número tan elevado de jefes de estación recién contratados debería considerarse, desde una
+302
+perspectiva de seguridad, un cambio significativo, no hay indicación de que este cambio haya sido objeto de ninguna evaluación de riesgos específica (4.2.12). Por el contrario, el enfoque presentado parece ser una copia de la forma en que se realizaba la formación de jefes de estación 20 años antes.
+
 4.2.6.2. Planificación de turnos de los jefes de estación
-En esta investigación, en varias ocasiones durante varios meses, cuando se solicitó un informe sobre los turnos realmente realizados, a los investigadores les fue proporcionada la planificación de turnos tal como estaba prevista. Sin embargo, informalmente e incluso en una declaración oficial, algunos trabajadores experimentados han compartido su agenda con períodos extendidos de tiempo trabajado, incluso de noche. Por ejemplo, 29 turnos de noche consecutivos. Por supuesto, esto debe vincularse con algunos desafíos de gestión como las reducciones de personal tanto brutales como progresivas sin ninguna evaluación de riesgos. O debe vincularse con un mecanismo para compensar la reducción de salarios tras el recorte del 50% debido a la crisis socioeconómica de 2010 en adelante. No obstante, permanecen serias dudas sobre la regularidad (incluso en relación con la legislación griega vigente en esta materia) de la organización de los turnos y su monitorización continua.
-301 
-De hecho, ha resultado imposible obtener de los Departamentos operativos y centrales de OSE los turnos realmente realizados, con hora de inicio y fin registradas, para cada individuo y para períodos de tiempo más largos. Esto
+
+En esta investigación, en varias ocasiones durante varios meses, cuando se solicitó un informe sobre los turnos realmente
+303
+realizados, los investigadores recibieron la planificación de turnos tal como estaba prevista. Sin embargo, informalmente e incluso en una declaración oficial, algunos trabajadores experimentados han compartido su agenda con períodos extendidos de tiempo trabajado, incluso de noche. Por ejemplo, 29 turnos de noche seguidos. Por supuesto, esto debe vincularse con algunos desafíos de gestión como las reducciones de personal tanto bruscas como progresivas sin ninguna evaluación de riesgos. O vincularse con un mecanismo para compensar la reducción de salarios después del recorte del 50 % debido a la crisis socioeconómica de 2010 en adelante. No obstante, persisten serias dudas sobre la regularidad (incluso en relación con la legislación griega actual en esta materia) de la organización de los turnos y su monitorización continua.
+
+Efectivamente, ha resultado imposible obtener de los Departamentos operativo y central de OSE los turnos realmente
+304
+realizados, con una hora de inicio y finalización registrada, para cada individuo y para períodos de tiempo más largos. Esta
 
 ## Página 75
 
@@ -1677,11 +1775,11 @@ Por otro lado, el Reglamento Interno de OSE, publicado por decreto ministerial e
 
 ## Página 76
 
-establece que la División de Control de Tráfico de OSE es responsable de la coordinación central y el control del tráfico en tiempo real (en comunicación con las EIU), de conformidad con los reglamentos de tráfico y seguridad, y las instrucciones para la reubicación del personal siempre que sea necesario bajo condiciones de tiempo real. En la tarde y noche del 28 de febrero de 2023, la situación de tráfico no puede considerarse como «normal»: cuatro trenes habían sufrido averías, había retrasos, tráfico congestionado y muchos problemas por resolver. Esta era claramente una situación irregular y, según este Reglamento Interno, correspondería a la División de Control de Tráfico tomar medidas para regular el tráfico de manera que se resolvieran las demandas conflictivas y se priorizaran las acciones, incluyendo la adopción de medidas para emplear personal de reserva o adicional hasta que el tráfico se normalizara nuevamente. Esto, sin embargo, no ocurrió.
-Además, la posibilidad de supervisar el desempeño de los jefes de estación, en particular el cumplimiento del requisito de establecer rutas automáticamente, se introdujo en la «Directriz urgente» publicada por OSE el 22/08/2022 (199): «La recepción o salida de un tren sin formación de ruta pero con operación individual será objeto de control disciplinario mediante el examen del equipo de registro de los sistemas de señalización». La falta de recursos y las dificultades técnicas para recuperar la información sobre el método aplicado para el establecimiento de rutas hicieron, no obstante, que esta actividad de supervisión nunca se pusiera en práctica.
-Otro nivel de supervisión del desempeño también es posible a través de las salas de control de tráfico digitalizadas (nótese que tal sala de control no estaba operativa cuando ocurrió el accidente de Tempi), y esto concierne a la supervisión del tráfico en túneles, y también, como en el ejemplo siguiente, a la gestión del tráfico mismo. Como se observó durante las visitas in situ (Figura 52), en varias ocasiones durante la investigación, está claro que las decisiones tomadas mediante el panel de control en la estación de Larisa, unas pocas decenas de metros más adelante (así como podría ser cincuenta o cien kilómetros), pueden observarse y supervisarse fácilmente. Sin embargo, actualmente no se utiliza de esa manera, y no está claro si existe alguna intención de hacerlo en el futuro. Se observó que ha habido un esfuerzo por poner en funcionamiento estas salas de control de tráfico allí donde la infraestructura (señalización) esté disponible. Su uso, no obstante, sigue limitado por la falta de mantenimiento de los desvíos. Como resultado, aún grandes partes de la ruta Atenas-Tesalónica no están monitorizadas remotamente.
-Figura 52. Sala de control de tráfico digitalizada en la estación de Larisa, con personal experimentado, en 2025.
-Por último, pero no menos importante, está el rol «natural» del supervisor de los jefes de estación. Al igual que cualquier otro supervisor directo, el líder regional o local puede o podría asumir esta supervisión continua u ocasional. Sin embargo, no se encontró ninguna indicación ni iniciativa organizada centralmente que guiara esta iniciativa de supervisión. Predomina la percepción de que la supervisión del desempeño conduciría a detectar incumplimientos y al castigo consecutivo del personal. Considerando la falta de personal operativo, la supervisión del desempeño de los jefes de estación se consideró impracticable y, por lo tanto, fue abandonada.
+especifica que la División de Control de Tráfico de OSE es responsable de la coordinación central y del control de tráfico en tiempo real (en comunicación con las ERO), de conformidad con las normas de tráfico y seguridad, y de las instrucciones de reubicación de personal siempre que sea necesario en condiciones de tiempo real. Durante la tarde y la noche del 28 de febrero de 2023, la situación del tráfico no puede considerarse como «normal»: cuatro trenes se habían averiado, había retrasos, tráfico congestionado y muchos problemas que resolver. Esta era claramente una situación irregular y, de acuerdo con esta Reglamentación Interna, correspondería a la División de Control de Tráfico adoptar acciones para regular el tráfico de manera que se resolvieran las demandas conflictivas y se priorizaran las actuaciones, incluida la adopción de medidas para emplear personal de reserva o adicional hasta que el tráfico se normalizara de nuevo. Sin embargo, esto no ocurrió.
+Además, la posibilidad de supervisar el rendimiento de los jefes de estación, en particular el cumplimiento del requisito de establecer itinerarios automáticamente, se introdujo en la «Directriz urgente» publicada por OSE el 22/08/2022 (199): «La recepción o la salida de un tren sin formación de itinerario pero con operación individual deberá ser controlada disciplinariamente mediante el examen del equipo de registro de los sistemas de señalación». La falta de recursos y las dificultades técnicas para recuperar la información sobre el método aplicado para el establecimiento de itinerarios hicieron, sin embargo, que esta actividad de supervisión nunca se llevara a la práctica.
+Otro nivel de supervisión del rendimiento también es posible a través de las salas de control de tráfico digitalizadas (obsérvese que no existía una sala de control de este tipo cuando se produjo el accidente de Tempi), y esto se refiere a la supervisión del tráfico en túneles, así como, como en el ejemplo siguiente, a la propia gestión del tráfico. Como se observó durante las visitas in situ (Figura 52), en varias ocasiones durante la investigación, está claro que la decisión tomada a través del panel de control de la estación de Larissa, a unos pocos decenas de metros más allá (igual que podría ser también a cincuenta o cien kilómetros), puede observarse y supervisarse fácilmente. Sin embargo, actualmente no se utiliza de esta manera, y no está claro si existe alguna intención de hacerlo en el futuro. Se observó que se ha realizado un esfuerzo por poner en funcionamiento estas salas de control de tráfico allí donde la infraestructura (señalización) está disponible. Su uso, sin embargo, sigue siendo limitado por la falta de mantenimiento de los desvíos. Como resultado, todavía grandes partes de la ruta Atenas-Salónica no se supervisan de forma remota.
+Figura 52. Sala de control de tráfico digitalizada en la estación de Larissa, con personal experimentado, en 2025.
+Por último, pero no menos importante, está el papel «natural» del supervisor de los jefes de estación. Al igual que cualquier otro supervisor directo, el responsable regional o local puede o podría asumir esta supervisión continua u ocasional. Sin embargo, no se encontró ninguna indicación ni iniciativa organizada centralmente que guiara esta iniciativa de supervisión. Predomina la percepción de que la supervisión del rendimiento conduciría a la detección de incumplimientos y a la consiguiente sanción del personal. Teniendo en cuenta la falta de personal operativo, se consideró que supervisar el rendimiento de los jefes de estación era impracticable y, por tanto, se abandonó.
 
 ## Página 77
 
@@ -1724,33 +1822,69 @@ el Gestor de Infraestructura OSE y RAS asumió sus funciones en julio de 2019, i
 
 ## Página 78
 
-legislación como normas nacionales de seguridad. Tras la consulta mencionada, el 1 de julio de 2020 el Ministerio de Infraestructura y Transporte presentó las propuestas de normas nacionales en materia de seguridad ferroviaria a la ERA y a la Comisión Europea para su evaluación de conformidad con los artículos 25 y 26 del Reglamento de Ejecución (UE) 2016/796.
-Si bien el objetivo principal de este trabajo era alinear el marco nacional con los requisitos modificados del Reglamento (UE) 2019/773 (ETI OPE), no existen referencias específicas en el texto principal del GKK a la metodología de comunicación relacionada con la seguridad establecida por el Apéndice C del Reglamento de la UE (257). Los requisitos del Reglamento de la UE, en este caso el Apéndice C de la Decisión 2012/757/UE (ETI OPE 2012), se consideran directamente aplicables en los Estados miembros. Esto significa que se espera una aplicación estricta de la metodología por parte de los jefes de estación y los conductores de tren, sin necesidad de especificaciones adicionales en la legislación nacional. Además, los elementos de comunicación relacionados con la seguridad no serían aceptados y recibirían un dictamen negativo durante la evaluación de las Normas Nacionales de Seguridad por la ERA (4.2.20.3).
-En esta argumentación, se requiere la integración de la metodología en diversos documentos relativos a las comunicaciones, como las reglas operativas y los procedimientos de comunicación que forman parte de los Sistemas de Gestión de la Seguridad del gestor de infraestructura y de las empresas ferroviarias respectivamente, así como la formación continua y la aplicación fiel de la metodología por parte de los conductores de tren y los gestores de estación. Tras la publicación del GKK modificado, RAS, en dos cartas dirigidas al sector ferroviario, señaló explícitamente que «los procedimientos y procesos exigidos por la ETI OPE deben formar parte de las reglas y procedimientos operativos y deben integrarse en el Sistema de Gestión de la Seguridad (SGS) del GI y las EF». Si bien estas cartas contienen una lista de temas a cubrir, correspondientes al Apéndice I, no obstante, no se hace mención explícita de la necesidad de integrar el apéndice C ni ningún otro elemento relacionado con la metodología de comunicación. En consecuencia, las organizaciones operativas no fueron alertadas explícitamente y probablemente no eran conscientes de la necesidad de actualizar también la metodología de comunicación.
-4.2.10. Proporcionar información en tiempo real a los conductores de tren
-A los conductores de tren, antes de la salida, se les proporciona información sobre restricciones relacionadas con la infraestructura mediante, por una parte, el horario, proporcionado a los conductores de tren por Hellenic Train y, por otra parte, respecto a las restricciones temporales de velocidad, proporcionadas por OSE.
-Las restricciones adicionales y los cambios en tiempo real deben comunicarse a los conductores de tren por los jefes de estación, ya sea mediante formularios específicos (p. ej., 1001) o mediante mensajes verbales por el canal VHF.
-Además, de acuerdo con el Manual del conductor de tren de Hellenic (SMS 052), los conductores deben contactar con el Centro de Monitorización de Tráfico de la empresa para informar de problemas identificados en la infraestructura ferroviaria, el material rodante y los retrasos significativos en las rutas. La comunicación de los conductores de tren con el Centro de Monitorización de Tráfico se realiza por teléfono. El papel del Centro de Monitorización de Tráfico es también alertar a los conductores de tren, a través del mismo canal, de riesgos inminentes en la red, de los cuales fue informado a través del regulador de tráfico de OSE o a través de sus propias fuentes.
-De las comunicaciones grabadas del jefe de estación de Neoi Poroi, se confirma que los conductores de tren del tren IC-63 (que posteriormente pasarían a estar a cargo del tren IC-62) fueron informados de que el servicio con operación de vía doble entre las estaciones de Neoi Poroi y Larissa había sido restablecido, al salir de la estación de Neoi Poroi desde la 1ª vía.
-Es importante recordar que deben estar disponibles medios técnicos de comunicación para poder contactar con los conductores de tren en tiempo real con información urgente de seguridad.
-En la respuesta de OSE al Juez Instructor fechada el 02-08-2024, se explica que se puso en marcha en 2013 una red de enlaces de radio a través de la red TETRA existente, de modo que las comunicaciones locales simplex VHF desde diferentes receptores analógicos acoplados con estaciones de relevo digitales a lo largo del trayecto, serían captadas desde el aire y retransmitidas digitalmente a un repetidor remoto que volvería a emitir las señales remotas a través de un transmisor VHF analógico.
-Este sistema se describe con un diagrama esquemático que muestra las diferentes estaciones, repetidores y enlaces y se menciona que el sistema funcionaba correctamente sin ninguna queja de sus usuarios.
-Las grabaciones de las diversas estaciones del día del accidente (proporcionadas por OSE en la respuesta al Juez Instructor) muestran que el sistema de relevo no estaba funcionando según lo esperado el día del accidente. Como uno de los muchos ejemplos, la grabación CH1_00000459_90.wav de Rapsani muestra que no hay repetidor ni relevo digital de señal a lo largo de la línea, ya que se escucha muy claramente al jefe de estación de Neoi Poroi hablando con un tren que pasa por la zona, pero la respuesta del conductor de tren no se escucha en absoluto, porque es una transmisión de menor potencia
+legislación como normas nacionales de seguridad. Tras la consulta anteriormente mencionada, el 1 de julio de 2020 el Ministerio de Infraestructura y Transporte sometió las normas nacionales propuestas en el ámbito de la seguridad ferroviaria a la ERA y a la Comisión Europea para su evaluación de conformidad con los artículos 25 y 26 del Reglamento de Ejecución (UE) 2016/796.
+Si bien el objetivo principal de este trabajo era alinear el marco nacional con los requisitos modificados del Reglamento (UE) 2019/773 (TSI OPE), no existen referencias específicas en el texto principal del GKK a la metodología de comunicación relacionada con la seguridad establecida en el Apéndice C del Reglamento de la UE (257). Los requisitos del Reglamento de la UE, en este caso el Apéndice C de la Decisión 2012/757/EU (TSI OPE 2012), se consideran directamente aplicables en los Estados miembros. Esto significa que se espera una aplicación estricta de la metodología por parte de los jefes de estación y los conductores de tren, sin necesidad de una especificación adicional en la legislación nacional. Además, los elementos de comunicación relacionada con la seguridad no serían aceptados y obtendrían un dictamen desfavorable durante la evaluación de las Normas Nacionales de Seguridad por parte de la ERA (4.2.20.3).
+En este razonamiento, se requiere la integración de la metodología en diversos documentos relacionados con las comunicaciones, tales como las
+324
+normas operativas y los procedimientos de comunicación que forman parte de los Sistemas de Gestión de Seguridad del gestor de infraestructura y de las empresas ferroviarias, respectivamente, así como la reciclación y la aplicación fiel de la metodología por parte de los conductores de tren y de los jefes de estación. Tras la publicación del GKK enmendado, la RAS, en dos cartas dirigidas al sector ferroviario, señaló explícitamente que "los procedimientos y procesos exigidos por la TSI OPE deberían formar parte de las normas y procedimientos operativos y deberían integrarse en el Sistema de Gestión de Seguridad (SMS) del GI y de las EF". Si bien estas cartas contienen una lista de puntos a cubrir, correspondiente al Apéndice I, sin embargo, no se hace mención explícita de la necesidad de integrar el apéndice C ni de ningún otro elemento relacionado con la metodología de comunicación. En consecuencia, las organizaciones operativas no fueron alertadas explícitamente y probablemente no eran conscientes de la necesidad de actualizar también la metodología de comunicación.
+4.2.10. Proporcionar a los conductores de tren información en tiempo real
+Los conductores de tren, antes de la salida, reciben información sobre restricciones relacionadas con la infraestructura, por un lado a través del
+325
+horario, proporcionado a los conductores de tren por Hellenic Train, y por otro lado en relación con las restricciones temporales de velocidad, proporcionadas por OSE.
+Las restricciones adicionales y los cambios en tiempo real deben comunicarse a los conductores de tren por parte de los jefes de estación, ya sea
+326
+a través de formularios específicos (por ejemplo, 1001) o mediante mensajes verbales por el canal VHF.
+Asimismo, de conformidad con el Libro de Reglas del conductor de tren de Hellenic (SMS 052), los conductores deben ponerse en contacto con el
+327
+Centro de Vigilancia de Tráfico de la empresa para informar de problemas detectados en la infraestructura ferroviaria, el material rodante y retrasos significativos en las rutas. La comunicación de los conductores de tren con el Centro de Vigilancia de Tráfico se realiza por teléfono. La función del Centro de Vigilancia de Tráfico es también alertar a los conductores de tren, a través del mismo canal, de riesgos inminentes en la red, de los que fue informado a través del regulador de tráfico de OSE o por sus propias fuentes.
+De las comunicaciones registradas del jefe de estación de Neoi Poroi, se confirma que los conductores de tren del
+328
+tren IC-63 (que más tarde pasarían a estar a cargo del tren IC-62) fueron informados de que el servicio con operación de doble vía entre las estaciones de Neoi Poroi y Larissa se había restablecido, al salir de la estación de Neoi Poroi por la vía 1.
+Es importante recordar que deben estar disponibles medios técnicos de comunicación para poder contactar con los conductores de
+329
+tren en tiempo real con información urgente de seguridad.
+En la respuesta de OSE al Juez Instructor fechada el 02-08-2024, se explica que en 2013 se implantó una red de enlaces de radio a través de la
+330
+red TETRA existente, de modo que las comunicaciones locales simplex VHF de distintos receptores analógicos acoplados a estaciones de retransmisión digital a lo largo del recorrido, fueran captadas al aire y retransmitidas digitalmente a un repetidor remoto que volvería a emitir las señales remotas a través de un transmisor VHF analógico.
+Este sistema se describe con un esquema que muestra las distintas estaciones, repetidores y enlaces, y se
+331
+menciona que el sistema funcionaba correctamente sin ninguna queja de sus usuarios.
+Las grabaciones de las distintas estaciones del día del accidente (facilitadas por OSE en la respuesta al
+332
+Juez Instructor) muestran que el sistema de retransmisión no funcionaba como se esperaba el día del accidente. Como uno de los muchos ejemplos, la grabación CH1_00000459_90.wav de Rapsani muestra que no hay repetidor ni retransmisión digital de la señal a lo largo de la línea, ya que se oye muy claramente al jefe de estación de Neoi Poroi hablando con un tren que pasa por la zona, pero no se oye en absoluto la respuesta del conductor del tren, ya que es una transmisión de menor potencia
 
 ## Página 79
 
-que no es lo suficientemente fuerte para ser captado directamente por el receptor de Rapsani. Si un repetidor o enlace de radio hubiera estado funcionando correctamente, esta transmisión del maquinista debería haber sido captada por todas las estaciones receptoras en la zona y a lo largo de la ruta del tren. Sin embargo, es altamente dudoso que esto pudiera haber influido en el curso del accidente.
+que no es lo suficientemente fuerte como para ser captado directamente por el receptor de Rapsani. Si un repetidor o un enlace de radio estuviera funcionando correctamente, esta transmisión del maquinista habría sido captada por todas las estaciones receptoras de la zona y a lo largo de la ruta del tren. Sin embargo, es muy dudoso que esto haya podido influir en el curso del accidente.
 4.2.11. Gestión de instalaciones técnicas (activos)
-Es función del gestor de infraestructura gestionar los riesgos de seguridad asociados con los activos físicos durante todo su ciclo de vida, desde el diseño hasta la eliminación, y cumplir los requisitos de factores humanos en todas las fases del ciclo de vida. Para garantizar esto, la organización debe asegurarse de que los activos se utilicen para el fin previsto manteniendo su estado operativo seguro y su nivel esperado de rendimiento. El gestor de infraestructura debe gestionar los activos en operaciones normales y degradadas, y detectar tan pronto como sea razonablemente posible los casos de incumplimiento de los requisitos operativos antes o durante la operación del activo, incluida la aplicación de restricciones de uso según corresponda para garantizar un estado operativo seguro del activo. Además, para controlar los riesgos cuando sea relevante para el suministro de mantenimiento, al menos se debe identificar la necesidad de mantenimiento para mantener el activo en un estado operativo seguro, basándose en el uso planificado y real del activo y sus características de diseño.
-En particular, la degradación de elementos relacionados con las instalaciones de control, mando y señalización pareció influir en la carga de trabajo y el rendimiento del jefe de estación en la estación de Larisa la noche del 28/02/2023 (3.8.10).
-En las entrevistas, los ingenieros implicados declararon que no existe monitorización del rendimiento ni mantenimiento preventivo planificado para estos activos. Por falta de personal competente, una intervención solo es posible cuando falla un activo (crítico).
-Mientras se completan incrementalmente, OSE pone en servicio partes de proyectos más grandes de renovación. Sin embargo, para los contratos celebrados para grandes proyectos de renovación (como el contrato 717), no hay disposición para mantenimiento (preventivo) porque contractualmente la propiedad por parte de OSE solo puede comenzar cuando se completa todo el proyecto. En caso de daño para dicha infraestructura, se debe seguir un procedimiento formal y engorroso según lo especificado por la ley griega que rige las obras públicas, lo que resulta en graves retrasos para la reparación (la Ley 3669/08 Artículo 58, vigente en el momento del contrato 717, ha sido ahora reemplazada por la Ley 4412/2016 Artículo 157).
-Documentos internos de OSE muestran que la financiación para el mantenimiento preventivo a largo plazo, junto con la necesidad de mejora de la red y la contratación de personal adicional, fue identificada como una preocupación principal por la dirección de OSE y discutida con el Gobierno, al menos en el período 2021-2022. En ese momento, el requisito total para las obras de mejora a lo largo de la red principal se estimó en € 670 millones, mientras que un esquema de mantenimiento a 10 años se estimó del orden de € 550 millones.
-A principios de febrero de 2023, esto resultó en la aprobación de la participación del Estado griego en la financiación, hasta un máximo de € 80 millones, para un proyecto de "Rehabilitación, Mejora y Mantenimiento del Eje Ferroviario del Norte de Grecia mediante una APP". No hay información disponible para el equipo de investigación sobre cómo se implementó posteriormente esta decisión.
+Corresponde al gestor de infraestructura gestionar los riesgos de seguridad asociados a los activos físicos a lo largo de
+333
+su ciclo de vida, desde el diseño hasta la eliminación, y cumplir los requisitos de factores humanos en todas las fases del ciclo de vida. Para garantizar esto, la organización deberá asegurar que los activos se utilicen para el propósito previsto manteniendo su estado operativo seguro y su nivel de rendimiento esperado. El gestor de infraestructura deberá gestionar los activos en operaciones normales y degradadas, y detectar en cuanto sea razonablemente practicable casos de incumplimiento de los requisitos de explotación antes o durante la operación del activo, incluida la aplicación de restricciones de uso según corresponda para garantizar un estado operativo seguro del activo. Además, para controlar los riesgos pertinentes en el suministro de mantenimiento, se deberá identificar al menos la necesidad de mantenimiento para mantener el activo en un estado operativo seguro, basándose en el uso planificado y real del activo y sus características de diseño.
+En particular, la degradación de los elementos relacionados con las instalaciones de control, mando y señalización pareció
+334
+haber influido en la carga de trabajo y el rendimiento del jefe de estación de la estación de Larissa la noche del 28/02/2023 (3.8.10).
+En las entrevistas, los ingenieros interesados declararon que no existe supervisión del rendimiento ni mantenimiento
+335
+preventivo planificado para estos activos. Por falta de personal competente, una intervención solo es posible cuando falla un activo (crítico).
+Aunque se completan de forma incremental, OSE pone en servicio partes de proyectos de renovación de mayor envergadura. Sin embargo, para los contratos que se
+336
+celebran para proyectos de renovación importantes (como el contrato 717), no se prevé el mantenimiento (preventivo) porque contractualmente la propiedad por parte de OSE solo puede comenzar cuando se completa todo el proyecto. En caso de daños en dicha infraestructura, debe seguirse un procedimiento formal y engorroso según lo especificado por la ley griega que rige las obras públicas, lo que resulta en retrasos graves para la reparación (la Ley 3669/08 Artículo 58, vigente en la época del contrato 717, ha sido sustituida ahora por la Ley 4412/2016 Artículo 157).
+Los documentos internos de OSE muestran que la financiación del mantenimiento preventivo a largo plazo, junto con la
+337
+necesidad de modernización de la red y la contratación de personal adicional, fue identificada como una preocupación principal por la dirección de OSE y discutida con el Gobierno, al menos en el periodo 2021-2022. En ese momento, la necesidad total de obras de modernización a lo largo de la red principal se estimó en 670 millones de €, mientras que un plan de mantenimiento a 10 años se estimó en el orden de 550 millones de €.
+A principios de febrero de 2023, esto resultó en la aprobación de la participación del Estado griego en la financiación,
+338
+hasta un máximo de 80 millones de €, para un proyecto de "Rehabilitación, Modernización y Mantenimiento del Eje Ferroviario del Norte de Grecia a través de una PPP". El equipo de investigación no dispone de información sobre cómo se implementó posteriormente esta decisión.
 4.2.12. Gestión de riesgos
-La gestión dinámica de riesgos es el núcleo de un sistema de gestión de seguridad bien functioning. Los principales riesgos derivados de la actividad operativa de una organización son mapeados, se identifican medidas de gestión de riesgos, cuya eficacia es monitoreada continuamente y el riesgo residual es evaluado. El impacto de los cambios en la organización, que pueden tener un impacto en la seguridad, también es evaluado sistemáticamente.
-El Procedimiento D-07 del Sistema de Gestión de Seguridad del gestor de infraestructura concierne a la identificación de amenazas y oportunidades derivadas de un posible cambio operativo u organizativo. Este procedimiento demuestra cumplimiento con los requisitos de los puntos 2.1.1 (h), (i), 3.1.1.1 (a), (b) y 5.3.3 (a), (b) del Anexo II del Reglamento Delegado (UE) 2018/762 de la Comisión. El análisis y evaluación técnica de riesgos está cubierto por el procedimiento D-19 del SGS. El primer procedimiento estipula que el "proceso se utiliza principalmente... cuando se implementan cambios significativos tales como: nuevos recursos humanos, nuevos sistemas de información y comunicación,...".
-En la medida en que pudo identificarse, el procedimiento D-07 no fue aplicado en los casos de la integración de nuevos jefes de estación, ni para la introducción del panel de control en la estación de Larisa (4.2.1.3). La continua conformidad e implementación de los procedimientos del SGS de OSE es supervisada por la RAS sobre una base muestral. La aplicación de lo anterior
+La gestión dinámica de riesgos es el núcleo de un sistema de gestión de seguridad que funcione correctamente. Los principales riesgos derivados
+339
+de la actividad operativa de una organización se mapean, se identifican las medidas de gestión de riesgos, cuya efectividad se supervisa continuamente, y se evalúa el riesgo residual. El impacto de los cambios en la organización, que pueden tener repercusiones en la seguridad, también se evalúa sistemáticamente.
+El procedimiento D-07 del Sistema de Gestión de Seguridad del gestor de infraestructura se refiere a la identificación de
+340
+amenazas y oportunidades derivadas de un posible cambio operativo u organizativo. Este procedimiento demuestra el cumplimiento de los requisitos de los puntos 2.1.1 (h), (i), 3.1.1.1 (a), (b) y 5.3.3 (a), (b) del Anexo II del Reglamento Delegado de la Comisión (UE) 2018/762. El análisis y la evaluación de riesgos técnicos están cubiertos por el procedimiento D-19 del SGS. El procedimiento anterior establece que el "proceso se utiliza principalmente… cuando se implementan cambios significativos como: nuevos recursos humanos, nuevos sistemas de información y comunicación…".
+En la medida en que pudo identificarse, el procedimiento D-07 no se aplicó en los casos de integración de nuevos jefes de
+341
+estación, ni para la introducción del panel de control en la estación de Larissa (4.2.1.3). El cumplimiento e implementación continuos de los procedimientos del SGS de OSE son supervisados por la RAS mediante muestreo. La aplicación de los anteriores
 
 ## Página 80
 
@@ -1913,20 +2047,38 @@ en las numerosas cartas alarmantes enviadas por los Sindicatos en los años prev
 
 ## Página 85
 
-En conclusión, ante la ausencia de un NIB para realizar el análisis independiente de accidentes e incidentes, la capacidad del sector ferroviario griego para aprender de los sucesos adversos dependía exclusivamente de las investigaciones realizadas por los operadores como parte de su SMS. Estas investigaciones internas, sin embargo, al centrarse en los errores cometidos por el personal de primera línea individual, carecían sistemáticamente de la profundidad necesaria para introducir cambios sostenibles, limitando así el potencial de aprendizaje a un mínimo extremo. Una situación que se vio reforzada además por la forma en que RAS se centraba en el incumplimiento normativo en sus investigaciones, análisis y recomendaciones.
+En conclusión, al no existir un NIB para realizar el análisis independiente de accidentes y sucesos, la capacidad del sector ferroviario griego de aprender de los sucesos adversos dependió íntegramente de las investigaciones realizadas por los operadores como parte de su SGS. Estas investigaciones internas, sin embargo, al centrarse en los errores cometidos por el personal de primera línea de forma individual, carecían sistemáticamente de la profundidad necesaria para introducir cambios sostenibles, limitando con ello el potencial de aprendizaje a un mínimo extremo. Situación que se vio reforzada aún más por la forma en que RAS se centró en el incumplimiento en sus investigaciones, análisis y recomendaciones.
+
 Análisis adicional de las capas de control
-Además de la obligación impuesta a los operadores de implementar un sistema de gestión de la seguridad, la legislación europea establece diversos niveles de control para verificar la correcta implementación y funcionamiento de los principios de gestión de la seguridad. El análisis del funcionamiento de estas capas de control relevantes para esta investigación se recoge en los puntos siguientes (4.2.19 a 4.2.21).
+
+Además de la obligación de los operadores de implantar un sistema de gestión de la seguridad, la legislación europea prevé diversos niveles de control para verificar la correcta implantación y el funcionamiento de los principios de gestión de la seguridad. El análisis del funcionamiento de estas capas de control relevantes para la presente investigación se recoge en los puntos siguientes (4.2.19 a 4.2.21).
+
 4.2.19. Actividades de control realizadas por la Autoridad Nacional de Seguridad
-Una autoridad nacional de seguridad (NSA) debe supervisar el cumplimiento continuado de la obligación legal impuesta a una empresa ferroviaria o a un gestor de infraestructura de establecer un sistema de gestión de la seguridad (SMS). La acreditación de dicho cumplimiento se basa principalmente en documentación en el momento de otorgar un certificado de seguridad o una autorización de seguridad, pero requerirá inspecciones in situ y otras tareas de supervisión con el fin de evaluar que los operadores siguen aplicando debidamente su SMS de manera continua.
-4.2.19.1. Aprobación de maquinistas
-Según la especificación técnica de interoperabilidad relativa al subsistema «operación y gestión del tráfico» del sistema ferroviario de la Unión Europea, el personal que realiza tareas críticas para la seguridad debe poseer la aptitud adecuada para garantizar que se cumplen los estándares operativos y de seguridad generales. Tanto las empresas ferroviarias como el gestor de infraestructura deben establecer sistemas para garantizar que se realicen los exámenes y evaluaciones adicionales apropiados para su respectivo personal afectado.
-Tanto los procedimientos para convertirse o mantenerse en el rol de maquinista, como la licencia/certificación que debe poseer un maquinista, pueden ser verificados y supervisados por la Autoridad Nacional de Seguridad.
-En el contexto de este accidente, y debido al perfil de uno de los maquinistas del IC-62 (que tuvo que superar diferentes problemas de salud durante varios años), el equipo investigador intentó recuperar toda la información y los expedientes posibles sobre el caso. El expediente facilitado era particularmente vago, mencionando únicamente un dictamen positivo final. Para que la licencia de este maquinista siguiera siendo válida, los médicos enviaron certificados de aptitud física a la RAS correspondientes a 2021, 2022 y 2023, en los que se declara al maquinista apto para el trabajo. En su respuesta, la RAS señala que, a su juicio, los médicos reconocidos son plenamente responsables de emitir los certificados de aptitud física de los maquinistas, basándose en los exámenes médicos realizados. Sin embargo, a pesar de la aparente gravedad de las preocupaciones sanitarias, no se pudo encontrar ninguno de los exámenes médicos ni evaluaciones psicológicas relacionados con la función del maquinista.
-La falta de información en un caso tan grave llevó al equipo investigador a cuestionar los criterios médicos y psicológicos a utilizar, su comunicación a los centros de evaluación y especialistas pertinentes, su frecuencia y ocasiones de evaluación, así como la naturaleza y alcance de la retroalimentación útil compartida con los gestores afectados para que pudieran adoptar medidas adecuadas de gestión del riesgo. La capacidad de los operadores ferroviarios para gestionar estas cuestiones como parte de su sistema de gestión de la seguridad debería formar parte de las actividades de supervisión realizadas por la RAS.
-4.2.19.2. Autorización de Seguridad para el Gestor de Infraestructura OSE
-Mediante su Decisión No 1940/20-10-2021, la RAS aprobó la renovación de la Autorización de Seguridad del gestor de infraestructura OSE (EL 21 2021 0001), inicialmente emitida en 2015 (EL 21 2015 0001), con efectos desde el 4 de octubre de 2021 hasta el 3 de octubre de 2026. Esta Autorización de Seguridad fue actualizada nuevamente (EL 21 2022 0001), manteniendo la misma fecha de caducidad, mediante la Decisión No 1647/21-06-2022, con el fin de satisfacer el requisito para el gestor de infraestructura OSE
+
+Una autoridad nacional de seguridad (ANS) debe supervisar el cumplimiento continuo de la obligación legal impuesta a una 382
+empresa ferroviaria o gestor de infraestructuras de establecer un sistema de gestión de la seguridad (SGS). La acreditación de dicho cumplimiento se basa principalmente en documentación en el momento de la concesión de un certificado de seguridad o una autorización de seguridad, pero requerirá inspecciones in situ y otras tareas de supervisión a fin de evaluar que los operadores continúan aplicando debidamente su SGS de forma continuada.
+
+4.2.19.1. Aprobación de los conductores de tren
+
+Según la especificación técnica de interoperabilidad relativa al subsistema de «explotación y gestión del tráfico» 383
+del sistema ferroviario en la Unión Europea, el personal que realiza tareas críticas para la seguridad debe contar con la aptitud adecuada para garantizar que se cumplen las normas generales de explotación y seguridad. Tanto las empresas ferroviarias como el gestor de infraestructuras deben implantar sistemas para garantizar que se realicen dichos exámenes y evaluaciones adicionales, según corresponda, a su respectivo personal afectado.
+
+Ambos procedimientos para convertirse en conductor de tren o mantenerse en dicho rol, y la licencia/certificación que un conductor de tren 384
+debe poseer, pueden ser verificados y supervisados por la Autoridad Nacional de Seguridad.
+
+En el contexto de este accidente, y debido al perfil de uno de los conductores del IC-62 (que tuvo que 385
+superar diferentes tipos de problemas de salud durante varios años), el equipo de investigación intentó recuperar toda la información y documentación posible relativa al caso. La documentación puesta a disposición era particularmente vaga, mencionando únicamente un dictamen final positivo. Para que la licencia de este conductor de tren siguiera siendo válida, se enviaron certificados médicos a RAS para 2021, 2022 y 2023 por parte de médicos, en los que se considera al conductor de tren apto para el trabajo. En su respuesta, RAS señala que, según su criterio, los médicos reconocidos son plenamente responsables de la emisión de los certificados médicos de los conductores de tren, basándose en los reconocimientos médicos realizados. Sin embargo, a pesar de la aparente gravedad de los problemas de salud, no se pudo localizar ninguno de los reconocimientos médicos y evaluaciones psicológicas relacionados con la función del conductor de tren.
+
+La falta de información en un caso tan grave llevó al equipo de investigación a cuestionar los criterios médicos y psicológicos 386
+a utilizar, su comunicación a los centros de evaluación y especialistas correspondientes, su frecuencia y ocasiones de evaluación, y la naturaleza y alcance de la información útil compartida con los gestores correspondientes para que estos pudieran adoptar las medidas de gestión de riesgos apropiadas. La capacidad de los operadores ferroviarios para gestionar estos asuntos como parte de su sistema de gestión de la seguridad debería formar parte de las actividades de supervisión realizadas por RAS.
+
+4.2.19.2. Autorización de Seguridad para el gestor de infraestructuras OSE
+
+Con su Decisión n.º 1940/20-10-2021, RAS aprobó la renovación de la Autorización de Seguridad del gestor de infraestructuras 387
+OSE (EL 21 2021 0001), emitida inicialmente en 2015 (EL 21 2015 0001), con efectos desde el 4 de octubre de 2021 y hasta el 3 de octubre de 2026. Esta Autorización de Seguridad fue actualizada de nuevo (EL 21 2022 0001), manteniendo la misma fecha de caducidad, con la Decisión n.º 1647/21-06-2022, a fin de satisfacer el requisito del gestor de infraestructuras OSE
 
 ## Página 86
+
 
 para demostrar el cumplimiento del Anexo II del Reglamento de Ejecución (UE) 2019/779 de la Comisión, en relación
 con el mantenimiento de los vehículos utilizados exclusivamente para sus propias operaciones.   
@@ -1998,31 +2150,63 @@ Asimismo, no existe transparencia sobre qué ocurre con las normas nacionales no
 
 ## Página 89
 
-evaluación de la ERA, lo cual sería el caso con las normas operativas que especifican la metodología para la comunicación relacionada con la seguridad. Cuestionada sobre el seguimiento de la aplicación práctica del Derecho ferroviario de la UE, incluida la legislación de aplicación inmediata, como los Reglamentos y las Decisiones, la Comisión Europea respondió que se basa esencialmente en la información procedente de la supervisión por parte de la Agencia de las autoridades nacionales de seguridad y los organismos notificados, así como de las denuncias. En este contexto, la Comisión Europea también declaró que: «Los Estados miembros tienen la responsabilidad principal de aplicar e implementar correctamente el Derecho de la Unión. Las autoridades nacionales de seguridad fueron establecidas para supervisar la aplicación del acervo comunitario entre las partes interesadas, dada su experiencia técnica y la alta complejidad de los Reglamentos y Decisiones en el ámbito ferroviario, como la ETI OPE».
-En el caso específico de Grecia, donde la necesidad de integrar la metodología de comunicación requerida en las instrucciones operativas no fue reconocida por todo el sector ferroviario (incluido el Ministerio y la Autoridad Nacional de Seguridad (4.2.9)), la falta de control puede resultar en una implementación inadecuada de las normas operativas especificadas por la UE que pueden tener un impacto directo en la seguridad.
-4.2.21. Aplicación de la legislación de la UE
-El marco jurídico de la UE aplicable al sistema ferroviario incluye Directivas, que requieren transposición por parte de los Estados miembros, así como Reglamentos y Decisiones, que son de aplicación directa y, como tales, no necesitan ser transpuestos a la legislación nacional. Hasta la fecha, los esfuerzos de la Comisión en materia de aplicación del marco jurídico de la UE se han centrado principalmente en las comprobaciones de transposición de las Directivas, que se llevan a cabo de oficio. Sin embargo, para dar seguimiento a la aplicación práctica del Derecho ferroviario de la UE, incluida la legislación de aplicación inmediata, como los Reglamentos y las Decisiones, la Comisión se basa esencialmente en la información procedente de la supervisión por parte de la Agencia de las autoridades nacionales de seguridad y los organismos notificados, así como de las denuncias.
-Cuando los hallazgos de las auditorías de supervisión de la ANS revelan incumplimientos del Derecho de la UE y las respuestas proporcionadas por el Estado miembro son insuficientes, la Comisión puede iniciar un procedimiento de infracción conforme al artículo 258 del Tratado de Funcionamiento de la Unión Europea. El procedimiento se dirige contra el Estado miembro y no contra organismos o autoridades individuales. Los casos formales de infracción pueden ir precedidos de un diálogo informal con el Estado miembro a través del denominado mecanismo EU Pilot con el fin de recopilar información y pruebas adicionales y esforzarse por resolver el asunto fuera de los procedimientos formales de infracción. En cuanto a Grecia, se abrió un EU Pilot en relación con la transposición de la Directiva (UE) 2016/798.
-Los hallazgos de la auditoría de supervisión de la ANS de 2019 (cuyo informe se entregó en enero de 2020) relativos a la ausencia de un ONB operativo fueron debidamente tenidos en cuenta e incorporados al proceso de verificación de conformidad de la transposición griega de la Directiva de Seguridad Ferroviaria, que estaba en curso en paralelo en ese momento. En abril de 2021, en el marco de un caso EU Pilot, la Comisión contactó a las autoridades griegas para obtener explicaciones sobre la transposición y aplicación de algunas disposiciones de la Directiva de Seguridad Ferroviaria, incluido el artículo 20, apartado 1, que establece la obligación de investigar accidentes graves. En su respuesta, las autoridades griegas compartieron su intención de preparar una modificación legal que fusionara los organismos de investigación de accidentes para el transporte ferroviario y aéreo. Con este fin, la Ley 5014/2023 fue publicada el 21 de enero de 2023, estableciendo la Organización Nacional para la Investigación de Accidentes Aéreos y Ferroviarios y la Seguridad del Transporte (EODASAAM). Transcurrieron otros 14 meses antes de que la parte ferroviaria de este organismo investigador se volviera operativa, con el traslado de un primer investigador responsable (44).
-Dado que el procedimiento de infracción (engorroso y lento) es el único instrumento formal a disposición de la Comisión para la aplicación cuando los contactos informales resultan insuficientes para resolver un asunto de cumplimiento del Derecho de la UE, se pierde un tiempo valioso cada vez que los incumplimientos identificados están relacionados con elementos de la legislación que conciernen a la seguridad ferroviaria.
+evaluación de la ERA, que sería el caso con las reglas de explotación que especifiquen la metodología para la comunicación relacionada con la seguridad. Interrogada sobre el seguimiento de la aplicación práctica del derecho ferroviario de la UE, incluida la legislación de aplicación inmediata, como los Reglamentos y las Decisiones, la Comisión Europea respondió que se basa esencialmente en la información procedente del seguimiento que realiza la Agencia de las autoridades nacionales de seguridad y de los organismos notificados, así como de las quejas. En este contexto, la Comisión Europea también declaró que: «Los Estados miembros tienen la responsabilidad principal de aplicar e implementar correctamente el derecho de la Unión. Las autoridades nacionales de seguridad se crearon para supervisar la aplicación del acquis de la UE entre las partes interesadas, dada su experiencia técnica y la alta complejidad de los Reglamentos y las Decisiones en el ámbito ferroviario, como el TSI OPE.».
+En el caso específico de Grecia, donde la necesidad de integrar la metodología de comunicación requerida en las instrucciones de explotación no fue reconocida por todo el sector ferroviario (incl. el Ministerio y la Autoridad Nacional de Seguridad (4.2.9)), la falta de control puede dar lugar a la implementación inadecuada de las reglas de explotación especificadas por la UE que pueden tener un impacto directo en la seguridad.
+4.2.21. Hacer cumplir la legislación de la UE
+El marco jurídico de la UE aplicable al sistema ferroviario incluye Directrices, que requieren la transposición por
+412
+los Estados miembros, así como Reglamentos y Decisiones, que son de aplicación directa y como tales no necesitan ser transpuestos a la legislación nacional. Hasta ahora, los esfuerzos de la Comisión en materia de aplicación del marco jurídico de la UE se han centrado principalmente en las comprobaciones de transposición de las Directrices, que se llevan a cabo de oficio. Sin embargo, para dar seguimiento a la aplicación práctica del derecho ferroviario de la UE, incluida la legislación de aplicación inmediata, como los Reglamentos y las Decisiones, la Comisión se basa esencialmente en la información procedente del seguimiento que realiza la Agencia de las autoridades nacionales de seguridad y de los organismos notificados, así como de las quejas.
+Cuando los hallazgos de las auditorías de seguimiento de la ANS revelan incumplimientos del derecho de la UE y las respuestas proporcionadas por
+413
+el Estado miembro son insuficientes, la Comisión puede iniciar un procedimiento de infracción en virtud del artículo 258 del Tratado de Funcionamiento de la Unión Europea. El procedimiento se dirige al Estado miembro y no contra organismos o autoridades individuales. Los casos formales de infracción pueden ir precedidos de un diálogo informal con el Estado miembro a través del denominado mecanismo EU Pilot, con el fin de recopilar información y pruebas adicionales y procurar resolver el asunto fuera de los procedimientos formales de infracción. En lo que respecta a Grecia, se abrió un EU Pilot en relación con la transposición de la Directiva (UE) 2016/798.
+Los hallazgos de la auditoría de seguimiento de la ANS de 2019 (cuyo informe se entregó en enero de 2020) relativos a
+414
+la falta de un NIB operativo fueron debidamente tenidos en cuenta y incorporados al proceso de comprobación de conformidad de la transposición griega de la Directiva de Seguridad Ferroviaria que se estaba llevando a cabo en paralelo en ese momento. En abril de 2021, en el marco de un caso EU Pilot, la Comisión se puso en contacto con las autoridades griegas para obtener explicaciones sobre la transposición y la aplicación de algunas de las disposiciones de la Directiva de Seguridad Ferroviaria, incluido el artículo 20(1), que establece la obligación de investigar los accidentes graves. En su respuesta, las autoridades griegas compartieron su intención de preparar una enmienda legal que fusionara los organismos de investigación de accidentes del transporte ferroviario y aéreo. A tal efecto, la Ley 5014/2023 se publicó el 21 de enero de 2023, que estableció la Organización Nacional para la Investigación de Accidentes Aéreos y Ferroviarios y de Seguridad del Transporte (EODASAAM). Pasarían otros 14 meses antes de que la parte ferroviaria de este organismo de investigación se pusiera en funcionamiento, con la transferencia de un primer investigador responsable (44).
+Con el (engorroso y que consume tiempo) procedimiento de infracción siendo el único instrumento formal de
+415
+hacer cumplir a disposición de la Comisión siempre que los contactos informales resultan insuficientes para resolver un asunto de cumplimiento del derecho de la UE, se pierde un tiempo precioso siempre que los incumplimientos identificados están relacionados con elementos de legislación que conciernen a la seguridad ferroviaria.
 
 ## Página 90
 
-4.3. La colisión de los trenes 
-En el momento del primer impacto, según lo registrado por los datos TELOC a bordo recuperados del lugar del accidente, la velocidad del tren 63503 era de 89,91 km/h. Esto se encuentra dentro del límite de velocidad de 100 km/h para los trenes de mercancías en esta ubicación (4.2.4). Dado que los maquinistas del tren 63503 no pudieron haber identificado con antelación el peligro inminente del tren de pasajeros que salía del túnel, el frenado de emergencia se activó solo un segundo antes del impacto real. 
-Figura 54. Grabador de datos TELOC a bordo, tren 63503, locomotora 120-022, recuperado por peritos judiciales el 05.03.2023. 
-Con el grabador de datos TELOC del tren IC-62 dañado y sus componentes de almacenamiento de datos electrónicos destruidos por el incendio posterior a la colisión, no existe registro directo de la velocidad del tren IC-62 en el momento del primer impacto. Sin embargo, elementos posteriores sugieren que la velocidad del tren de pasajeros también estaba dentro de los límites predeterminados de 160 km/h (4.2.4). Existe el último punto de datos registrado desde el módulo GPS a bordo que muestra una velocidad de 154 km/h 12 segundos antes del primer impacto. Además, EDAPO, utilizando las grabaciones disponibles de las cámaras de control de tráfico de autopistas, también calculó la velocidad de este tren como aproximadamente 150 km/h en el momento del impacto. 
-4.3.1. Mecanismos causantes de lesiones 
-Los 4 maquinistas que estaban sentados en las cabinas de conducción murieron instantáneamente debido a las fuerzas extremas del impacto. Las fuerzas mecánicas extremas se extienden hacia atrás hasta incluir la cabina trasera de la locomotora IC-62 (1 víctima, maquinista de reserva como pasajero) y el coche de primera clase (12 pasajeros y 1 empleado ferroviario viajando como pasajero). Del estado de los vehículos totalmente destruidos y de los informes de autopsia de las víctimas, está claro que ninguna de estas 18 víctimas tuvo posibilidad de supervivencia debido a la brutal deceleración y las fuerzas mecánicas de la colisión inicial. 
-Otras 9 víctimas fueron debidas a trauma mecánico causado por colisiones secundarias de vehículos que siguieron al impacto inicial. Dos de ellos eran empleados del tren que casualmente se encontraban en la parte delantera del vagón restaurante y otros 7 eran pasajeros que viajaban en los dos primeros compartimentos y en el último compartimento del coche B2. Los 7 fueron encontrados fuera del vagón: 3 en la parte delantera, posteriormente quemados fuera de cualquier estructura cerrada, otros 2 en la parte delantera con heridas graves, y 2 en la parte trasera, expulsados de un compartimento desprendido. De los hallazgos de los informes de autopsia y otra información disponible, podemos concluir que estas 9 víctimas sobrevivieron al impacto inicial pero luego resultaron muy gravemente heridas durante los siguientes 3-4 segundos durante las colisiones secundarias de los vehículos, sin ninguna posibilidad de supervivencia. 
-Según la mejor estimación posible, otras 20 (+/- 2) víctimas fueron causadas por las estructuras que se cerraban sobre ellas y las aplastaban sin dejarles suficiente espacio de supervivencia. La causa real de la muerte sería trauma mecánico junto con asfixia debido a la compresión del tórax.
+4.3. La colisión de los trenes
+En el momento del primer impacto, tal y como registraron los datos TELOC de a bordo recuperados del
+416
+lugar del accidente, la velocidad del tren 63503 era de 89,91 km/h. Esta velocidad se encuentra dentro del límite de 100 km/h para trenes de mercancías en este punto (4.2.4). Dado que los maquinistas del tren 63503 no pudieron identificar de forma posible el peligro inminente del tren de pasajeros que salía del túnel con anterioridad, la frenada de emergencia solo se activó un segundo antes del impacto real.
+Figura 54. Registrador de datos TELOC de a bordo, tren 63503, locomotora 120-022, recuperado por peritos judiciales el 05.03.2023.
+Al estar dañado el registrador de datos TELOC del tren IC-62 y haberse destruido sus componentes de almacenamiento de datos electrónicos
+417
+por el incendio que siguió a la colisión, no existe un registro directo de la velocidad del tren IC-62 en el momento del primer impacto. No obstante, elementos posteriores sugieren que la velocidad del tren de pasajeros también se encontraba dentro de los límites preestablecidos de 160 km/h (4.2.4). Existe el último punto de datos registrado desde el módulo GPS de a bordo que muestra una velocidad de 154 km/h 12 segundos antes del primer impacto. Además, EDAPO, utilizando las grabaciones disponibles de las cámaras de control del tráfico de la autopista, también calculó la velocidad de este tren en aproximadamente 150 km/h en el momento del impacto.
+4.3.1. Mecanismos de causación de las lesiones
+Los 4 maquinistas que se encontraban en las cabinas de conducción murieron instantáneamente debido a las fuerzas extremas del
+418
+impacto. Las fuerzas mecánicas extremas se extendieron hacia atrás e incluyeron la cabina trasera de la locomotora IC-62 (1 víctima, maquinista de refuerzo viajando como pasajero) y el coche de primera clase (12 pasajeros y 1 empleado ferroviario viajando como pasajero). Por el estado de los vehículos totalmente destruidos y las autopsias de las víctimas, está claro que ninguna de estas 18 víctimas tuvo posibilidad alguna de supervivencia debido a la desaceleración brutal y a las fuerzas mecánicas de la colisión inicial.
+Otras 9 víctimas se debieron a traumatismos mecánicos causados por los choques secundarios de vehículos que siguieron al
+419
+impacto inicial. Dos de ellos eran empleados del tren que se encontraban en la parte delantera del coche comedor y otros 7 eran pasajeros que viajaban en los dos compartimentos delanteros y en el último del coche B2. Los 7 fueron encontrados fuera del coche: 3 en la parte delantera, posteriormente calcinados fuera de cualquier estructura cerrada, otros 2 en la parte delantera con lesiones graves, y 2 en la parte trasera, expulsados de un compartimento desprendido. A partir de las conclusiones de los informes de autopsia y de otra información disponible, podemos concluir que estas 9 víctimas sobrevivieron al impacto inicial, pero resultaron gravemente heridas en los 3-4 segundos siguientes durante los choques secundarios de los vehículos, sin posibilidad alguna de supervivencia.
+Según la mejor estimación posible, 20 (+/- 2) víctimas adicionales fueron causadas por las estructuras que se cerraron sobre
+420
+ellas y las aplastaron sin dejarles espacio suficiente para sobrevivir. La causa real de la muerte habría sido el traumatismo mecánico en combinación con la asfixia debido a la compresión del tórax.
 
 ## Página 91
 
-Durante su desplazamiento hacia su posición final de reposo, 2 de los 31 ocupantes del coche restaurante 421 fueron expulsados con lesiones compatibles con la supervivencia y recibieron ayuda por parte de otros pasajeros para llegar a las ambulancias que llegaron posteriormente.
-De los 29 ocupantes restantes del coche restaurante, otros 4 lograron escapar por sus propios medios 422 de las estructuras de acero en llamas y retorcidas durante el primer minuto tras la colisión. Los 4 sobrevivieron con diversas lesiones que fueron tratadas posteriormente en los hospitales.
-El coche B3 del tren de pasajeros no estuvo sometido a fuerzas de deceleración intensas y era totalmente compatible con la supervivencia, de no ser por los impactos secundarios del coche B2 contra su techo y una sección de la locomotora contra el lateral del coche B3. Hubo 2 víctimas que sufrieron ambos traumatismos craneales y espinales graves debido al impacto de escombros pesados que entraron a través de las ventanas laterales. Ambas víctimas fallecieron instantáneamente sin ninguna posibilidad de supervivencia, dada la desafortunada posición en la que se encontraban (otros pasajeros sentados junto a ellos resultaron prácticamente ilesos). Y 5 víctimas heridas fueron expulsadas durante el accidente o saltaron desde una altura para salir del vehículo.
-Figura 55. Posiciones iniciales y finales estimadas de las víctimas mortales, visualizadas sobre el esquema de la parte impactada del IC-62 y sobre el terreno.
+Durante su movimiento hacia su posición final de reposo, 2 de los 31 ocupantes del coche restaurante
+421
+fueron expulsados con lesiones sobrevivibles y fueron ayudados por otros pasajeros hasta las ambulancias que llegaron
+posteriormente.
+De los 29 ocupantes restantes del coche restaurante, otros 4 lograron escapar por sus propios medios
+422
+de las estructuras de acero ardiendo y retorcidas durante el primer minuto tras la colisión. Los 4 sobrevivieron con diversas
+lesiones que fueron tratadas posteriormente en los hospitales.
+El coche B3 del tren de pasajeros no estuvo sometido a fuerzas de deceleración elevadas y era totalmente sobrevivible, si no
+423
+hubiera sido por los impactos secundarios del coche B2 golpeando su techo y una sección de la locomotora golpeando contra
+el lateral del coche B3. Hubo 2 víctimas mortales que sufrieron ambas graves traumatismos craneoencefálicos y de columna
+debido al impacto de escombros pesados que entraron por las ventanas laterales. Ambas víctimas mortales fallecieron
+instantáneamente sin ninguna posibilidad de supervivencia, dada la desafortunada posición en la que se encontraban
+(los otros pasajeros sentados a su lado resultaron prácticamente ilesos). Y 5 víctimas heridas fueron expulsadas durante
+el choque o saltaron desde una altura para salir del coche.
+
+Figura 55. Posiciones iniciales y finales estimadas de las víctimas mortales, visualizadas en el esquema de la parte impactada del IC-62, y en el lugar de los hechos.
 
 ## Página 92
 
@@ -2206,11 +2390,14 @@ inicial. La duración de esta 2ª fase, la altura real de las columnas de fuego 
 
 ## Página 99
 
-fase. Dado el color similar de la llama y las características de combustión similares, puede asumirse con seguridad que el tipo de combustible que arde es el mismo que en la Fase 1. Esto indica que: 1) un segundo volumen del mismo combustible está ardiendo mientras se desplaza hacia el norte, o 2) que el volumen original, tras haber derramado parte de su contenido durante la Fase 1 de la deflagración (0-2 segundos desde la ignición), se está desplazando ahora hacia el norte, siguiendo el movimiento del tren de pasajeros.
-Los fotogramas anteriores del vídeo de la autopista Aegean Motorway (Figura 59) no permiten identificar la forma irregular oscura.461
-Para poder identificar esta parte del tren de pasajeros que hacía que la bola de fuego se desplazara hacia el norte, se correlacionaron las evidencias del vídeo que grabó el evento desde el lado sur (cámara «Maliakos-Kleidi») y otros vídeos disponibles recopilados por los pasajeros unos minutos después del accidente.
-Los vídeos de los pasajeros muestran un fuego muy intenso pero muy concentrado que arde ferozmente desde la parte inferior del Coche Restaurante (color amarillo añadido), mientras que pueden observarse los restos de la locomotora del tren de pasajeros (incluido el transformador lleno de aceite de silicona) a una distancia muy cercana, pero claramente sin estar ardiendo. Esta observación puede verificarse mediante el examen de los restos de los trenes al día siguiente (Figura 60, Figura 61), donde queda claro que la locomotora (color verde añadido) está mecánicamente destruida y, al igual que el transformador (color rojo añadido), solo presenta marcas de quemaduras en un lado, mientras que el Coche Restaurante (color azul añadido) ha sido totalmente consumido por el fuego.
-Figura 60. Incendio en el restaurante junto a la locomotora del tren de pasajeros, con la posición del transformador en rojo.
+fase. Dado el color de la llama similar y las características de combustión similares, se puede asumir con seguridad que el tipo de combustible que se está quemando es el mismo que en la Etapa 1. Esto es una indicación de que: 1) un segundo volumen del mismo combustible se está quemando mientras se desplaza en dirección norte, o 2) que el volumen original, después de haber derramado una parte de su contenido durante la Etapa 1 de la deflagración (0-2 segundos desde la ignición), se está desplazando ahora en dirección norte, siguiendo el movimiento del tren de pasajeros.
+Los fotogramas anteriores del vídeo de la Autovía Egea (Figura 59) no permiten identificar la forma irregular oscura.
+461
+Para poder identificar esta parte del tren de pasajeros que hacía que la bola de fuego se desplazara hacia el norte, se correlacionó la evidencia del vídeo que había grabado el suceso desde el lado sur (cámara "Maliakos-Kleidi") y otros vídeos disponibles recogidos por pasajeros unos minutos después del choque.
+Los vídeos de los pasajeros muestran un fuego muy intenso pero muy concentrado ardiendo ferozmente desde la parte inferior del
+462
+coche restauración (color amarillo añadido), mientras que los restos de la locomotora del tren de pasajeros (incluido el transformador lleno de aceite de silicona) pueden observarse a muy corta distancia pero claramente sin arder. Esta observación puede verificarse mediante el examen de los restos de los trenes al día siguiente (Figura 60, Figura 61), donde queda claro que la locomotora (color verde añadido) está destruida mecánicamente y, al igual que el transformador (color rojo añadido), solo tiene marcas de quemaduras en un lado, mientras que el coche restauración (color azul añadido) está totalmente consumido por el fuego.
+Figura 60. Coche restauración ardiendo junto a la locomotora del tren de pasajeros, con la posición del transformador en rojo.
 
 ## Página 100
 
@@ -2649,6 +2836,7 @@ En el contexto de la planificación de emergencias y la gestión de crisis, la o
 
 ## Página 117
 
+
 Para que la cooperación entre las partes implicadas se desarrolle de la mejor manera posible, los participantes deben haber desarrollado una especie de rutina respecto al trabajo a realizar, a fin de no verse desbordados por la situación de emergencia. Esta «rutina» solo puede adquirirse mediante la fuerza de la repetición de los ejercicios.
 Por lo tanto, pueden organizarse dos tipos de ejercicios: 1) Ejercicios de mesa, en los que los distintos servicios se reúnen alrededor de la mesa y deben reaccionar como lo harían en la realidad, y 2) Ejercicios sobre el terreno: en este caso, el ejercicio se escenifica donde tendría lugar la situación de emergencia y, en principio, se organiza un despliegue real de personal y recursos in situ.
 578 
@@ -2762,6 +2950,7 @@ de apoyo psicosocial (Bomberos, Policía, OATHYK). En los Bomberos, se organizó
 
 ## Página 121
 
+
 4.6.3.2. Objetivos de la encuesta 
 Más allá de las reacciones sociales y públicas mencionadas en el §71, para las víctimas afectadas y aquellas más directamente 
 606 
@@ -2803,6 +2992,7 @@ junto con sus preguntas/respuestas más cuantitativas. Estos elementos adicional
 
 ## Página 122
 
+
 4.6.3.4. Resultados de la encuesta
 Los principales resultados sobre la gravedad actual del trauma (evaluado con la herramienta descrita anteriormente)
 Se incluye una visión general completa de las cifras de la encuesta en los anexos. Insistimos en tratar con cautela los datos cuantitativos
@@ -2837,6 +3027,7 @@ Emocional o Psicológico recibido. Aproximadamente 2/3 partes de los grupos reci
 
 ## Página 123
 
+
 En cuanto a la forma en que esta ayuda «llega» a las personas dedicadas, debemos señalar que la vía más importante es por sus propios medios, a través de sus familiares, amigos o conocidos. Si bien existe una ligera diferencia para el grupo «Víctimas», se observa una fuerte tendencia en el grupo «Familiares de las Víctimas», quienes declaran recibir apoyo «por sus propios medios, sus familias, etc.» dos veces más que a través de las «autoridades». Más importante desde el punto de vista del riesgo de TEPT, 6 de las 25 personas identificadas con un nivel actual de trauma «grave» aún no reciben ningún apoyo profesional.
 624 
 Dentro de los grupos de «Profesionales ferroviarios» y «Profesionales de emergencias», esperábamos que pudieran declarar haber recibido apoyo emocional o psicológico a través de su empleador o línea jerárquica, u otro servicio interno o externo. Esto fue mencionado explícitamente en el caso de los «Profesionales de emergencias» (coincidiendo con la mayoría de nuestras entrevistas con sus diferentes subgrupos). Nunca fue mencionado para los «Profesionales ferroviarios». Y, por el contrario, 40 de los 45 profesionales declararon que nunca se les propuso dicho apoyo profesional (o que no recordaban tal propuesta). No obstante, entre aquellos (12) que informaron haberse beneficiado de dicho apoyo, declararon sentirse mucho o muy mejorados. Desde el punto de vista del riesgo de TEPT, todavía 3 de estos «Profesionales ferroviarios» –identificados con un nivel actual de trauma «grave»– no están recibiendo apoyo profesional.
@@ -2868,30 +3059,63 @@ Además, la ley proporcionó a las víctimas lesionadas y a los familiares cerca
 
 5. Conclusiones
 5.1. Resumen y conclusiones del análisis
-El escenario más probable considerado para explicar la colisión frontal entre el tren de pasajeros IC-62 y el tren de mercancías 63503 es el olvido en la colocación de los desvíos 118 A/B por parte del jefe de estación inexperto, que trabajaba solo en la estación de Larisa esa noche, lo cual guió al tren de pasajeros por la vía descendente opuesta. La barrera potencial, donde los conductores de tren reaccionan ante la información contradictoria entre la posición de los desvíos y la autorización de movimiento concedida, fue pasada por alto por los conductores.
+El escenario más probable considerado para explicar la colisión frontal entre el tren de pasajeros IC-62 y el tren de mercancías 631
+63503 es la colocación olvidada de los desvíos 118 A/B por parte del jefe de estación inexperto, que trabajaba solo en
+la estación de Larissa esa noche, lo que guió al tren de pasajeros por el carril descendente opuesto. La barrera potencial, en la que los conductores de tren reaccionan a la información contradictoria entre la posición de los desvíos y la
+autorización de movimiento concedida, fue omitida por los conductores de tren.
 5.1.1. Causa inmediata
-La colisión entre el tren de pasajeros IC-62 y el tren de mercancías 63503 pudo ocurrir porque ambos trenes circulaban en direcciones opuestas por la misma vía descendente entre las estaciones de Larisa y Neoi Poroi.
+La colisión entre el tren de pasajeros IC-62 y el tren de mercancías 63503 pudo producirse porque ambos trenes
+632
+circulaban en direcciones opuestas por el mismo carril descendente entre las estaciones de Larissa y Neoi Poroi.
 5.1.2. Factores causales
-El jefe de estación no utilizó el método automatizado para establecer la ruta del tren IC-62 para salir de la estación de Larisa hacia el norte, dirección Neoi Poroi, lo cual habría posicionado correctamente todos los desvíos. En su lugar, ordenó los desvíos individuales manualmente y, al hacerlo, olvidó colocar los desvíos 118 A/B en la posición «principal»; con ello, guió el tren IC-62 hacia la línea descendente. Este error pasó inadvertido para el jefe de estación.
-La investigación identificó una serie de factores que pueden haber influido en las acciones del jefe de estación al establecer la ruta del tren IC-62:
+El jefe de estación no utilizó el método automatizado para establecer la ruta del tren IC-62 para salir de la estación de Larissa hacia
+633
+el norte, hacia Neoi Poroi, lo que habría colocado todos los desvíos correctamente. En su lugar, ordena los
+desvíos individuales manualmente y, al hacerlo, olvida colocar los desvíos 118 A/B en la posición de «vía
+principal»; con ello guía el tren IC-62 hacia la línea descendente. Este error pasa desapercibido para el jefe de estación.
+La investigación identificó una serie de factores que pudieron influir en las acciones del jefe de estación al
+634
+establecer la ruta del tren IC-62:
 a.
-La información necesaria para controlar el tráfico ferroviario que puede «leerse» desde un panel de control es compleja, está dispersa en diferentes lugares y se complementa con notas manuscritas sobre puntos de interés temporales. Como confirmaron varios de ellos, descifrar toda la información no es obvio para jefes de estación novatos (4.2.1.2). Dado que no todas las secciones estaban ya incluidas en el panel de control y algunas de ellas estaban temporalmente fuera de servicio, no era sencillo identificar la ruta del tren IC-62 a través de los desvíos 118 A/B la tarde del accidente (4.2.2).
+La información necesaria para controlar el tráfico ferroviario que puede «leerse» de un panel de control es compleja, está
+dispersa en diferentes lugares y se complementa con notas manuscritas sobre puntos de interés temporales. Como
+confirmaron varios de ellos, descifrar toda la información no es evidente para los jefes de estación novatos
+(4.2.1.2). Como no todas las secciones estaban ya incluidas en el panel de control y algunas de ellas estaban
+temporalmente fuera de servicio, no fue sencillo identificar la ruta del tren IC-62 más allá de los desvíos 118 A/B
+la noche del accidente (4.2.2).
 b.
-Basándose en la información proporcionada, no está claro si los jefes de estación recién contratados fueron formados y evaluados en la aplicación práctica de las instrucciones operativas locales de trabajo para los respectivos paneles de control que tendrían que utilizar (4.2.1.3).
+Según la información facilitada, no está claro si los jefes de estación recién contratados fueron formados y
+evaluados en la aplicación práctica de las instrucciones de trabajo locales y operativas para los respectivos paneles
+de control que tendrían que utilizar (4.2.1.3).
 c.
-Mientras que varios de sus colegas que fueron contratados junto con él hacen referencia a un periodo de uno a año y medio antes de sentirse seguros con las tareas requeridas, el jefe de estación que estaba de turno en la estación de Larisa la noche del accidente tenía menos de un mes de experiencia (4.2.1.5).
+Si bien varios de sus colegas que fueron contratados junto con él se refieren a un período de uno a uno y medio año
+antes de sentirse seguros con las tareas requeridas, el jefe de estación que estaba de servicio en la estación de Larissa
+la noche del accidente tenía menos de un mes de experiencia (4.2.1.5).
 d.
-Aunque la operación manual de los desvíos se consideraba más compleja y se emitieron varias instrucciones para establecer rutas automáticamente de forma sistemática, utilizando los botones de destino en el panel de control, seguía siendo una práctica común entre los jefes de estación utilizar ambos métodos (4.2.1.4).
+Aunque la operación manual de los desvíos se consideraba más compleja y se emitieron varias instrucciones para
+establecer rutas automáticamente de forma sistemática, utilizando los botones de destino del panel de control, seguía
+siendo una práctica habitual entre los jefes de estación utilizar ambos métodos (4.2.1.4).
 e.
-El turno de noche en la estación de Larisa está diseñado para ser realizado por un único jefe de estación. Esto se basa en una interpretación estática de las tareas y no tiene en cuenta el carácter dinámico de las actividades a realizar (4.2.1.6).
+El turno de noche en la estación de Larissa está diseñado para ser realizado por un solo jefe de estación. Esto se
+basan en una interpretación estática de las tareas y no tiene en cuenta el carácter dinámico de las actividades a
+realizar (4.2.1.6).
 f.
-Una serie de defectos técnicos y averías, algunos específicos de ese día pero otros presentes ya durante varias semanas e incluso años, crearon una situación en la que los jefes de estación que operaban en Larisa estaban obligados a realizar una serie de actividades adicionales en comparación con la situación de referencia, sin incidentes (3.8.1).
+Una serie de defectos técnicos y averías, algunos específicos de ese día pero otros ya presentes durante varias semanas
+y a veces incluso años, crearon una situación en la que los jefes de estación que operaban en Larissa
+estaban obligados a realizar una serie de actividades adicionales en comparación con la situación de referencia, sin
+incidentes (3.8.1).
 g.
-Una parte significativa de la carga de trabajo del jefe de estación de Larisa en el turno de tarde del 28/02/2023 consistió en un número excepcionalmente alto de comunicaciones, utilizando diferentes medios de comunicación y comunicándose con interlocutores muy diversos. El hecho de que una proporción significativa de las conversaciones mantenidas no se relacionen o solo se relacionen indirectamente con la gestión del tráfico ferroviario también contribuye a una mayor carga de trabajo (4.2.1.8).
+Una parte significativa de la carga de trabajo del jefe de estación de Larissa en el turno de tarde del 28/02/2023
+estaba compuesta por un número excepcionalmente alto de comunicaciones, utilizando diferentes medios de comunicación
+y comunicación con interlocutores muy diversos. El hecho de que una proporción significativa de las conversaciones
+mantenidas no se relacionen o solo indirectamente con la gestión del tráfico ferroviario también contribuye a una
+carga de trabajo aumentada (4.2.1.8).
 h.
-El panel de control en la estación de Larisa y el área con las instalaciones técnicas a utilizar para diferentes tipos de comunicación están organizados y situados físicamente de manera que hace imposible realizar ambas tareas al mismo tiempo (245).
+El panel de control de la estación de Larissa y el área con las instalaciones técnicas a utilizar para diferentes
+tipos de comunicación están organizados y situados físicamente de una manera que hace imposible
+realizar ambas tareas al mismo tiempo (245).
 i.
-En la última media hora antes de establecer la ruta para el tren IC-62, el jefe de estación de Larisa cometió un error en
+En la media hora anterior al establecimiento de la ruta del tren IC-62, el jefe de estación de Larissa cometió un error en
 
 ## Página 125
 
@@ -2943,58 +3167,61 @@ OSE no proporciona ningún mantenimiento preventivo de sus activos principales p
 
 ## Página 126
 
-Las intervenciones solo se llevan a cabo cuando fallan los activos (críticos), incluso en el caso de proyectos de renovación que entran parcialmente en servicio (4.2.11). 
-Para los maquinistas, que se enfrentan diariamente a cambios debido a obras en curso y/o fallos de activos, esto 
-642 
-requiere una alerta continua y un alto nivel de resiliencia. 
-La forma en que OSE gestiona la competencia de los jefes de estación no garantiza que sean competentes en las 
-643 
-tareas relacionadas con la seguridad por las que son responsables: 
-a. 
-La formación inicial es teórica (290). 
-b. 
-No se aporta evidencia del desarrollo de las habilidades no técnicas necesarias (291). 
-c. 
-No existe garantía de que la formación práctica sea suficiente para adquirir las competencias necesarias para trabajar 
-de forma segura en todas las condiciones (295). 
-d. 
-No existe ninguna iniciativa estructurada para garantizar la formación continua de los jefes de estación, con el fin de que 
-mantengan y/o mejoren sus competencias (4.2.6.3). 
-No se realizó ningún seguimiento estructurado del desempeño de ninguno de los jefes de estación a principios de 
-644 
-2023, lo que dejó a OSE sin conocimiento de cualquier deterioro en el desempeño de las tareas relacionadas con la seguridad (4.2.7). 
-OSE no tiene en cuenta la necesidad de integrar los factores humanos y organizativos. Esto resulta en que el equipo utilizado, las tareas exigidas, el entorno de trabajo proporcionado y los arreglos organizativos generales 
-extienden los límites de su personal operativo más allá de lo humanamente aceptable de manera sostenible (4.2.8). 
-La integración de un gran número de jefes de estación a mediados de 2022 nunca fue considerada, desde una perspectiva de seguridad, 
-646 
-como un cambio significativo (4.2.6.1). Se hizo un hallazgo similar para la reintegración de los paneles de control. En general, 
-la gestión de riesgos y cambios de OSE no está adaptada a las principales misiones de un gestor de infraestructura, y 
-el vínculo con las actividades operativas está poco desarrollado y mal comprendido (4.2.12). Reinaba la fuerte creencia de que 
-todos los riesgos operativos pueden controlarse aplicando estrictamente las normas, bajo todas las condiciones, y solo recientemente se puede notar un primer intento de gestión de riesgos. 
-El potencial de OSE, y por extensión de todo el sector ferroviario griego, para aprender lecciones de incidentes y 
-647 
-accidentes, y así implementar medidas de mejora estructural que puedan crear un entorno que apoye 
-el trabajo del personal operativo, es limitado si no inexistente (4.2.16). 
-Hellenic Train no pudo demostrar que hubiera establecido una formación continua, en particular para comunicaciones relacionadas con la seguridad 
-y competencias no técnicas relevantes (habilidades, comportamientos o actitudes) (4.2.13). 
-Hellenic Train no dispone de un proceso para monitorear sistemáticamente el desempeño de sus maquinistas respecto a la calidad 
-649 
-de las comunicaciones relacionadas con la seguridad (4.2.14). 
-5.1.4. Factores que afectan la gravedad de las consecuencias 
-Los vehículos ferroviarios no están diseñados para una colisión a una velocidad superior a 36 km/h, por lo que deberían estar en vigor medidas de seguridad activa para reducir la gravedad de las consecuencias. A diferencia, por ejemplo, del estado de los elementos de vía, para los cuales 
-se imponen restricciones temporales de velocidad, no existen criterios ni disposiciones dentro de OSE para adaptar la velocidad máxima permitida de línea al estado del sistema de señalización (438). 
-Basándose en las observaciones que pudieron realizarse, no hay indicio de que el equipo técnico del material rodante 
-utilizado diera lugar a la formación y expansión de la enorme bola de fuego que surgió tras el impacto, y 
-que posteriormente resultó en los incendios secundarios. Con la evidencia existente es imposible determinar qué causó exactamente esto, pero las simulaciones indican la posible presencia de un combustible hasta ahora desconocido. 
-Queda por evaluar si materiales ignífugos mejores podrían haber desempeñado un papel en la probabilidad de supervivencia 
-de las víctimas que sobrevivieron a la colisión inicial y posteriormente perdieron la vida a causa del incendio. 
-Considerando por un lado los resultados de la Encuesta de Impacto Psicológico (4.6.3.5), y por otro lado 
-653 
-el nivel de preparación del Plan sobre este tema (575), concluimos que existió/existe un alto riesgo de agravamiento 
-de las consecuencias iniciales relacionadas con el TEPT, especialmente para todos aquellos que no tuvieron la posibilidad de acceder a este apoyo a tiempo. Observamos que todavía hay 22 personas en un nivel 'grave' o superior (más de 1/4 parte 
-de la muestra de la encuesta). 
-5.1.5. Observaciones de seguridad 
-Aunque no están vinculadas a las causas del accidente ni a la gravedad de las consecuencias, la investigación ha identificado 
+Las intervenciones solo tienen lugar cuando fallan los activos (críticos), incluso en los proyectos de renovación que se ponen parcialmente en servicio (4.2.11).
+Para los maquinistas, que se enfrentan a diario a cambios debidos a obras en curso y/o a fallos de activos, esto
+642
+requiere una alerta continua y un alto nivel de resiliencia.
+La forma en que OSE gestiona la competencia de los jefes de estación no garantiza que sean competentes en las
+643
+tareas relacionadas con la seguridad de las que son responsables:
+a.
+La formación inicial es teórica (290).
+b.
+No se aportan pruebas del desarrollo de las competencias no técnicas necesarias (291).
+c.
+No hay garantía de que la formación práctica sea suficiente para adquirir las competencias necesarias para trabajar
+de forma segura en todas las condiciones (295).
+d.
+No existe ninguna iniciativa estructurada para garantizar la formación continua de los jefes de estación, a fin de
+que mantengan y/o mejoren sus competencias (4.2.6.3).
+No se realizó ninguna supervisión estructurada del desempeño de ninguno de los jefes de estación a principios de
+644
+2023, lo que dejó a OSE sin conocimiento de cualquier deterioro en el desempeño de las tareas relacionadas con la seguridad (4.2.7).
+OSE no tiene en cuenta la necesidad de integrar los factores humanos y organizativos. Esto hace que el equipo
+645
+utilizado, las tareas exigidas, el entorno de trabajo puesto a disposición y los arreglos organizativos en general
+estiren los límites de su personal operativo más allá de lo que es humanamente aceptable de forma sostenible (4.2.8).
+La integración de un gran número de jefes de estación a mediados de 2022 nunca se consideró, desde una perspectiva de seguridad,
+646
+como un cambio significativo (4.2.6.1). Se llegó a una conclusión similar con respecto a la reintegración de los paneles de control. En general,
+la gestión del riesgo y del cambio de OSE no está adaptada a las misiones principales de un gestor de infraestructura, y
+el vínculo con las actividades operativas está poco desarrollado y mal comprendido (4.2.12). Reinaba una fuerte creencia de que
+todos los riesgos operativos podían controlarse aplicando estrictamente las reglas, en todas las condiciones, y solo recientemente puede observarse un primer
+intento de gestión del riesgo.
+El potencial de OSE, y por extensión de todo el sector ferroviario griego, de extraer lecciones de los incidentes y
+647
+accidentes, y así implementar medidas de mejora estructural que puedan crear un entorno que apoye el trabajo del personal operativo, es limitado si no inexistente (4.2.16).
+Hellenic Train no pudo demostrar que hubiera puesto en marcha una formación continua, en particular para las comunicaciones relacionadas con la seguridad
+648
+y las competencias no técnicas relevantes (habilidades, comportamientos o actitudes) (4.2.13).
+Hellenic Train no tiene ningún proceso para supervisar sistemáticamente el desempeño de sus maquinistas en cuanto a la calidad
+649
+de las comunicaciones relacionadas con la seguridad (4.2.14).
+5.1.4. Factores que afectan a la gravedad de las consecuencias
+Los vehículos ferroviarios no están diseñados para una colisión a una velocidad superior a 36 km/h, por lo que deben existir medidas de seguridad activas
+650
+para reducir la gravedad de las consecuencias. A diferencia, por ejemplo, del estado de los elementos de la vía, para los que se imponen restricciones temporales de velocidad, no existen criterios ni disposiciones dentro de OSE para adaptar la velocidad máxima permitida en la línea al estado del sistema de señalización (438).
+Según las observaciones que pudieron realizarse, no hay indicios de que el equipo técnico del material rodante
+651
+utilizado diera lugar a la formación y expansión de la enorme bola de fuego que surgió tras el impacto y que posteriormente provocó los incendios secundarios. Con las pruebas existentes es imposible determinar qué lo causó exactamente, pero las simulaciones indican la posible presencia de un combustible hasta ahora desconocido.
+Queda por evaluar si mejores materiales retardantes de llama podrían haber desempeñado un papel en las posibilidades de supervivencia
+652
+de las víctimas que sobrevivieron a la colisión inicial y posteriormente perdieron la vida a causa del incendio.
+Considerando, por un lado, los resultados de la Encuesta de Impacto Psicológico (4.6.3.5), y por otro
+653
+el nivel de preparación del Plan sobre este tema (575), concluimos que existía/existe un alto riesgo de agravamiento de las consecuencias iniciales relacionadas con el TEPT, especialmente para todos aquellos que no tuvieron la posibilidad de acceder a este apoyo a tiempo. Señalamos que todavía hay 22 personas en un nivel «grave» o superior (más de 1/4 de la muestra de la encuesta).
+5.1.5. Observaciones de seguridad
+Aunque no están vinculadas con las causas del accidente o la gravedad de las consecuencias, la investigación ha identificado
 654
 
 ## Página 127
@@ -3039,6 +3266,7 @@ Además, han pasado casi 5 años desde la identificación de un incumplimiento, 
 Si bien el monitoreo de la NSA y/o la ejecución de tareas de autoridad podrían identificar ocasionalmente algunos de los problemas, no existe un seguimiento activo a nivel europeo de la implementación adecuada de las reglas operativas especificadas en la legislación de la UE, y por lo tanto no deben ser reportadas como reglas nacionales.
 
 ## Página 128
+
 
 5.2. Medidas adoptadas desde el accidente y relacionadas con nuestras conclusiones y 
 recomendaciones 
@@ -3330,6 +3558,7 @@ La Comisión Europea debe definir e implementar un marco de evaluación ampliado
 
 ## Página 139
 
+
 6.1.8. Recomendaciones bajo la iniciativa del Ministerio griego de Crisis Climática y Protección Civil 
 Las siguientes recomendaciones se formulan para su aplicación por parte del Ministerio griego de Crisis Climática y Protección Civil:
 697 
@@ -3345,6 +3574,7 @@ Recomendación 2025-RL01-016. La finalidad de esta recomendación es garantizar 
 El Ministerio de Crisis Climática y Protección Civil debe tomar las medidas necesarias para incluir el papel de EODASAAM, en apoyo de la Autoridad Investigadora Preliminar, para todos los accidentes relacionados con el ferrocarril en una versión actualizada del Plan de Gestión de Pérdidas Humanas y otros eventuales Planes de Respuesta ante Emergencias y Gestión de Crisis que deban elaborarse en respuesta a la Recomendación 2025-RL01-014.
 
 ## Página 140
+
 
 6.2. Otras recomendaciones 
 De esta investigación no se derivan otras recomendaciones. 

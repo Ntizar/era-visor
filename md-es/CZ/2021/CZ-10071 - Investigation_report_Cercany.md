@@ -10,13 +10,14 @@ chars: 177832
 ratio_longitud: 1.26
 tokens_in: 99362
 tokens_out: 71232
-verificacion: revisar
-notas_cifras: ["bloque 3: original bilingüe: se compara contra el idioma principal (CS)", "bloque 4: original bilingüe: se compara contra el idioma principal (CS); cifras cortas: 1/146", "bloque 5: original bilingüe: se compara contra el idioma principal (CS)", "bloque 6: original bilingüe: se compara contra el idioma principal (CS)", "bloque 12: cifras cortas: 3/292", "bloque 13: original bilingüe: se compara contra el idioma principal (EN)"]
-avisos: ["bloque 3: ratio 1.67", "bloque 5: ratio 1.65", "bloque 6: ratio 1.80", "bloque 13: ratio 1.84", "bloque 14: ratio 1.65"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 7: original bilingüe: se compara contra el idioma principal (CS)", "página 8: original bilingüe: se compara contra el idioma principal (CS)", "página 11: original bilingüe: se compara contra el idioma principal (CS)", "página 12: original bilingüe: se compara contra el idioma principal (CS)", "página 15: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -40,13 +41,13 @@ IČ: 75009561
 mail@dicr.cz
 tel.: +420 736 521 003
 
-
 ## Página 2
+
 
 Este informe final es público y todos los hechos en él expuestos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ### 1 RESUMEN
 Fuente: Drážní inspekce
@@ -79,8 +80,8 @@ curva con visibilidad limitada a través del conjunto de vagones estacionados en
 vía contigua.
 No fue detectada ninguna causa sistémica por la Drážní inspekce.
 
-
 ## Página 4
+
 
 Recomendaciones de seguridad:
 La Drážní inspekce, con base en lo dispuesto en el § 53e apartado 1 de la ley n.º 
@@ -121,8 +122,8 @@ servicio una forma de normativa interna de referencia tal que se establezcan los
 límites superiores de velocidad en la maniobra en función de la posición desde la que 
 se controla la circulación de la maniobra de maniobras.
 
-
 ## Página 5
+
 
 ### RESUMEN
 18 de junio de 2021, 10:10 (8:10 GMT).
@@ -176,10 +177,10 @@ necesario definir reglas para el caso en que no sea posible conducir la locomoto
 desde la posición del maquinista desde la que se garantiza la mejor visibilidad 
 (cuando la posición del maquinista de la segunda locomotora para la maniobra en 
 sentido opuesto sea prácticamente inaccesible), y definir los límites superiores de 
-velocidad de la maniobra en función de la posición del maquinista desde la que 
-
+velocidad de la maniobra en función de la posición del maquinista desde la que
 
 ## Página 6
+
 
 se controla la circulación de la maniobra de maniobras. También recomendamos que 
 el Ministerio modifique la definición de circulación según las condiciones de 
@@ -206,6 +207,7 @@ posición del maquinista desde la que se controla la circulación de la maniobra
 maniobras.
 
 ## Página 7
+
 
 # Índice
 1 RESUMEN........................................................................................................................3
@@ -247,8 +249,8 @@ SUMMARY.........................................................................
 4.2 Vehículos ferroviarios e instalaciones técnicas...........................................................................48
 4.2.1 Factores o consecuencias derivados de la construcción de los vehículos ferroviarios, de la infraestructura ferroviaria o de las instalaciones técnicas.....................................................................48
 
-
 ## Página 8
+
 
 4.2.2 Factores o consecuencias derivados de la instalación y puesta en servicio de los vehículos ferroviarios, de la infraestructura ferroviaria o de las instalaciones técnicas......................................48
 4.2.3 Factores o consecuencias relacionados con los fabricantes de vehículos ferroviarios u otros proveedores de productos ferroviarios....................................................................48
@@ -278,8 +280,8 @@ SUMMARY.........................................................................
 6 RECOMENDACIONES DE SEGURIDAD.....................................................................................54
 ANEXOS..............................................................................................................................56
 
-
 ## Página 9
+
 
 ### Lista de siglas y símbolos utilizados
 CDP
@@ -335,8 +337,8 @@ Servicio de Emergencia Sanitaria
 žst.
 estación de ferrocarril
 
-
 ## Página 10
+
 
 ### Lista de siglas de la legislación, normas y normativa interna utilizadas
 ley núm. 266/1994 Sb.
@@ -364,34 +366,34 @@ Norma Técnica Ferroviaria, «Instalaciones de señalización ferroviaria, Insta
 
 ### 2 INVESTIGACIÓN Y SUS RELACIONES
 ### 2.1 Decisión de iniciar la investigación
-DI decidió iniciar la investigación de la MU en cuestión el 18. 6. 2021.
+El DI decidió iniciar la investigación de la MU en cuestión el 18. 6. 2021.
 ### 2.2 Fundamentación de la decisión de iniciar la investigación
-DI decidió investigar la MU en cuestión sobre la base de su gravedad y de los efectos de la MU sobre el gestor de la vía y el transportista.
+El DI decidió investigar la MU en cuestión sobre la base de su gravedad y de los efectos de la MU sobre el gestor de la vía y el transportista.
 ### 2.3 Alcance y limitaciones de la investigación, incluida la fundamentación correspondiente
-DI no se encontró, en el marco de la investigación de la MU en cuestión, con limitaciones que influyeran negativamente en el modo y los procedimientos de la investigación.
+El DI no se encontró, en el marco de la investigación de la MU en cuestión, con limitaciones que influyeran negativamente en el modo y los procedimientos de la investigación.
 ### 2.4 Descripción resumida de las capacidades y funciones técnicas del equipo de investigación
-Investigación de DI en el lugar de la MU:
-2x inspector de ÚI Čechy, centro de trabajo Praga.
+Investigación del DI sobre el terreno de la MU:
+2x inspector del ÚI Čechy, centro de trabajo Praga.
 Constitución del equipo de investigación:
 no fue necesario constituirlo.
 Colaboración externa:
 se utilizó, con las siguientes entidades:
 •
-ČVUT, Facultad de Transporte, Instituto de Peritaje Forense en Transporte, que elaboró la evaluación profesional «Medición de los parámetros de frenado de la pareja de HDV serie 742».
-2.5 Comunicación y consultas durante la investigación con personas o entidades que participaron en el suceso
-En la investigación de las causas y circunstancias de la MU, DI se basó principalmente en sus propios conocimientos, hallazgos y en su propia documentación fotográfica. Durante la investigación, DI solicitó la documentación elaborada durante la investigación por parte del gestor de la vía y del transportista, y encargó a ČVUT la elaboración de la evaluación profesional del frenado de la pareja de HDV serie 742 participante en la MU en cuestión.
-La investigación de las causas y circunstancias de la MU se realizó de acuerdo con la ley nº 266/1994 Sb. y la ordenanza nº 376/2006 Sb.
+ČVUT, Facultad de Transporte, Instituto de Peritaje Forense en Transporte, que elaboró la evaluación técnica "Medición de los parámetros de frenado del par de HDV serie 742".
+2.5 Comunicación y consultas durante la investigación con las personas o entidades que participaron en el suceso
+En la investigación de las causas y circunstancias de la MU, el DI se basó principalmente en sus propios conocimientos, hallazgos y en su propia documentación fotográfica. Durante la investigación, el DI solicitó la documentación recabada durante la investigación al gestor de la vía y al transportista, y encargó al ČVUT la elaboración de la evaluación técnica del frenado del par de HDV serie 742 participante.
+La investigación de las causas y circunstancias de la MU se realizó de conformidad con la ley nº 266/1994 Sb. y con la ordenanza nº 376/2006 Sb.
 ### 2.6 Descripción del nivel de colaboración ofrecido por las entidades participantes
-DI, con la participación de representantes de ČVUT y del transportista ČD Cargo, realizó una prueba de verificación con el fin de determinar el retardo de los frenos, la puesta en marcha del efecto de frenado y la longitud de la distancia de frenado de la pareja de HDV serie 742 participante en la MU en cuestión. El nivel de colaboración con las entidades fue estándar.
-### 2.7 Descripción de la investigación, los métodos y las técnicas utilizados para acreditar los hechos y los hallazgos consignados en el informe
-En el marco de la investigación de la MU, DI procedió de la siguiente manera, y utilizó, entre otros, los siguientes métodos y técnicas:
+El DI, con la participación de representantes del ČVUT y del transportista ČD Cargo, realizó una prueba de verificación con el fin de determinar el retardo de los frenos, el establecimiento del efecto de frenado y la longitud de la distancia de frenado del par de HDV serie 742 participante en la MU en cuestión. El nivel de colaboración con las entidades fue estándar.
+### 2.7 Descripción de la investigación, los métodos y las técnicas utilizados para acreditar los hechos y los hallazgos expuestos en el informe
+En el marco de la investigación de la MU, el DI procedió de la siguiente manera, y utilizó, entre otros, los siguientes métodos y técnicas:
 •
 inspección del lugar de la MU, incluidos los vehículos ferroviarios participantes, los dispositivos técnicos y la infraestructura de la vía;
 •
-declaración del empleado participante y análisis de las actas con los empleados;
-
+declaración del empleado participante y análisis de los registros con los empleados;
 
 ## Página 12
+
 
 •
 análisis de los resultados de las inspecciones comisionales de los vehículos ferroviarios participantes;
@@ -428,8 +430,9 @@ Hora:
 Lugar:
 vía ferroviaria, categoría nacional, estación ferroviaria de Čerčany, señal de maniobras Se12 en el km 143,882. El lugar de la colisión se encontraba en la vía de estación 5c en el km 143,756.
 
-
 ## Página 13
+
+
 Coordenadas GPS:
 49.8520597N, 14.7018611E (circulación no autorizada de la unidad de maniobras más allá de la señal Se12);
 49.8509294N, 14.7016894E (colisión de la unidad de maniobras con el tren detenido Os 9010).
@@ -444,8 +447,9 @@ Tras la llegada del tren Mn 85229 con carga de madera redonda a la vía de estac
 De la inspección de los vehículos ferroviarios del transportista ČD Cargo se constató además lo siguiente:
 La composición de vagones desenganchada del tren Mn 85229 en la vía de estación 7a estaba formada por 5 vagones tipo Snps de plataforma con carga de madera redonda. El frente del 1er vagón se encontraba en el km 143,809, la longitud de la composición era de 104 m.
 
-
 ## Página 14
+
+
 El frente de la unidad de maniobras se detuvo en la vía de estación nº 5b en el km 143,753 (es decir, 14,3 m detrás del final del tren Os 9010), el final de la unidad de maniobras se encontraba en el km 143,780. La unidad de maniobras estaba formada por dos locomotoras de tracción serie 742 procedentes del tren Mn 85229. En el frente de la unidad de maniobras se encontraba la HDV CZ ČDC 92 54 2 742 171-2 (en adelante también 742.171-2) en la dirección de circulación con el morro corto por delante, como segunda se situaba la HDV CZ ČDC 92 54 2 742 362-7 (en adelante también 742.362-7) en la dirección de circulación con el morro largo por delante. La unidad de maniobras se conducía desde el segundo puesto de la HDV trasera.
 La longitud de la unidad de maniobras era de 27,2 m, tenía 8 ejes, una masa total de 128 toneladas y estaba frenada de forma continua en el modo P, los frenos de ambas HDV estaban activados. Asimismo, las tuberías de freno directo de ambas HDV estaban conectadas.
 Los bloques de freno de ambas HDV de la unidad de maniobras estaban correctamente adheridos a las ruedas de las HDV. Se realizó la prueba de freno con el resultado «en orden».
@@ -460,30 +464,45 @@ La pareja de HDV serie 742 no presentaba signos evidentes de daños, la determin
 De la inspección del tren Os 9010 del transportista ČD se constató además lo siguiente:
 El tren Os 9010 (Čerčany – Praha-Krč – Praha hl. n.) se encontraba detenido junto al andén nº 2 en la vía de estación nº 5b. El tren estaba formado por una unidad motora de tres vagones Regionova, con la HDV – vagón motor CZ-ČD 95 54 5 814 224-2 (en adelante también 814.224-2) en el frente del tren, el vagón intercalado CZ-ČD 95 54 5 014 012-9 (en adelante también 014.012-9) y el vagón motor trasero CZ-ČD 95 54 5
 
-
 ## Página 15
-814 223-4 (en adelante también 814.223-4). La longitud del tren era de 42,4 m, el tren tenía 6 ejes, una masa total de 74 t, un porcentaje de frenado necesario del 83 %, un porcentaje de frenado real del 101 % y estaba frenado con el 1er método de frenado en el modo P.
-El tren se conducía desde el puesto de la HDV 814.224-2. La palanca de conducción combinada (controlador combinado) estaba en la posición V (libre), la palanca del freno directo estaba en la posición B2 (frenado), el controlador de dirección de circulación estaba en la posición P (adelante). La presión en la tubería de alimentación era de 0 bar, la presión en la tubería principal era de 0 bar, la presión en los cilindros de freno era de 0 bar debido a una fuga de aire. Los motores de ambos vagones motoros estaban apagados.
-El aparato de radio con caja de control VO67 (del fabricante T-CZ) estaba sintonizado para el tren 9010 en la red GSM-R, además estaba activo el Simplex encastrado en el canal 18.
-La hora del registrador de velocidad UniControls – Tramex adelantaba en 2 s la hora exacta (SELČ).
-El controlador KBS-E estaba activado en la posición Provoz (Servicio).
-El conmutador de función ARR estaba en la posición Vypnuto (Apagado). El controlador de las luces de señal estaba activado en la posición correspondiente para la identificación del tren en cuestión.
-En el puesto del maquinista se encontraba la Orden General para el tren Os 9010, nº 000 005-020 para el trayecto Čerčany – Praha hl. n., elaborada el 17. 6. 2021 a las 20:04 h, entregada el 18. 6. 2021 con el texto: «Z důvodu výluky jízdu ukončete ve stanici Praha-Krč.» (Debido a una interrupción de servicio, finalice la circulación en la estación Praha-Krč.), y el Libro de entrega.
-El inicio y el final del tren estaban señalizados con las señales prescritas. La HDV del tren estaba equipada con un informe de frenado permanente. El frente del tren se encontraba en la vía de estación 5b en el km 143,696, el final del tren estaba en el km 143,739, es decir, a 14,3 m del frente de la unidad de maniobras de ČD Cargo. Los vehículos estaban asegurados contra el desplazamiento mediante el apriete de los frenos, los bloques de freno estaban adheridos a las ruedas de los DV.
-Como consecuencia de la colisión, en el vagón intercalado 014.012-9 se produjeron daños en la listilla de cubierta superior sobre la puerta del WC, el cierre incorrecto de las puertas de acceso a la derecha en la dirección de circulación, el desprendimiento del indicador de ocupación del WC y el desprendimiento de las cubiertas de los respaldos de los asientos. En el puesto trasero de la unidad se produjo el desprendimiento de la cubierta del espacio bajo la mesa de control.
-La extensión real de los daños en los DV del tren fue objeto de la inspección comisional.
-De la inspección de la infraestructura se constató además lo siguiente:
-Los desvíos nº 17, 16 y 13 estaban dispuestos para la circulación de la unidad de maniobras desde la vía de estación 1a a través de la vía de estación 5c hacia la vía de estación 5b, los desvíos se encontraban en la posición final y no estaban dañados. En la señal Se12 en el km 143,880 brillaba la señal «Posun zakázán» (maniobras prohibidas).
-En la trayectoria de circulación de la unidad de maniobras, a una distancia de 130 m detrás de la señal de maniobras Se12, se encontraron en ambos carriles huellas frescas de derrape de las ruedas del último bogie del tren Os 9010, cuyo frente se encontraba antes de la colisión y del desplazamiento en el km 143,756 y fue desplazado por la unidad de maniobras en 16,5 m hasta el km 143,739.
-Sobre la base de la inspección se determinó la posición en km de estos puntos:
+
+814 223-4 (véase también 814.223-4), la longitud del tren era de 42,4 m, el tren tenía 6 ejes, peso total de 74 t, porcentaje de frenado necesario 83, porcentaje de frenado real 101 y estaba frenado con el I.º modo de frenado en el modo P.
+
+El tren estaba conducido desde la cabina de mando HDV 814.224-2. La palanca de conducción combinada (controlador combinado) estaba en la posición V (salida), la palanca del freno directo estaba en la posición B2 (frenado), el mando de sentido de marcha estaba en la posición P (adelante). La presión en la tubería de alimentación era de 0 bar, la presión en la tubería principal era de 0 bar, la presión en los cilindros de freno era de 0 bar debido a una fuga de aire. Los motores de ambos coches motor estaban apagados.
+
+La radiestación con el cuadro de mando VO67 (del fabricante T-CZ) estaba sintonizada para el tren 9010 en la red GSM-R, además estaba activo el Simplex incrustado en el canal 18.
+
+El reloj del registrador de velocidad UniControls – Tramex adelantaba 2 s respecto a la hora exacta (HSE).
+
+El mando KBS-E estaba encendido en la posición Provoz (Servicio).
+
+El conmutador de función ARR estaba en la posición Vypnuto (Apagado). El mando de las señales luminosas estaba encendido en la posición correspondiente para la señalización del tren mencionado.
+
+En la cabina del maquinista se encontraba la Orden General para el tren Os 9010, número 000 005-020 para la ruta Čerčany – Praha hl. n., elaborada el día 17. 6. 2021 a las 20:04 h, entregada el día 18. 6. 2021 con el texto: "Por motivo de una intervención, finalice la circulación en la estación Praha-Krč.", y el Libro de entrega.
+
+El principio y el final del tren estaban señalizados con las señales prescritas. El HDV del tren estaba equipado con mensaje permanente de frenado. El frente del tren se encontraba en la 5b. SK en el km 143,696, el final del tren estaba en el km 143,739, es decir, a 14,3 m del frente de la maniobra de ČD Cargo. Los vehículos estaban asegurados contra el desplazamiento mediante el apriete de los frenos, las zapatas de freno estaban en contacto con las ruedas del DV.
+
+Como consecuencia de la colisión, en el coche intercalado 014.012-9 se produjo el daño en la listón de cubierta superior sobre la puerta del WC, el mal cierre de la puerta de acceso derecha en el sentido de marcha, el desprendimiento del indicador de ocupación del WC y el desprendimiento de las cubiertas de los pilares de los asientos. En la cabina trasera de la unidad se produjo el aflojamiento de la cubierta del espacio bajo la consola de mando.
+
+El alcance real de los daños en el DV del tren fue objeto de una inspección por comisión.
+
+Del examen de la infraestructura se determinó además:
+
+Las agujas n.º 17, 16 y 13 estaban dispuestas para la circulación de la maniobra desde la 1a. SK a través de la 5c. SK hasta la 5b. SK, las agujas estaban en posición terminal y no estaban dañadas. En la señal Se12 en el km 143,880 brillaba la señal "Posun zakázán" (Maniobras prohibidas).
+
+En el recorrido de circulación de la maniobra, a una distancia de 130 m tras la señal de agrupamiento Se12, se encontraron en ambos raíles huellas frescas de derrape de las ruedas del último bogie del tren Os 9010, cuyo frente antes de la colisión y del desplazamiento se encontraba en el km 143,756 y fue desplazado por la maniobra 16,5 m hasta el km 143,739.
+
+Sobre la base del examen se determinó la posición en km de los siguientes puntos:
+
 | Nombredelpunto | Medición(m) | Puntokilométrico* |
-| SeñalSe12enelkm143882segúnSŘ(VBM) , | 000 , | 143882 , |
-| AislamientodecontactodelaSeñalSe12 | 170 , | 143880 , |
-| LugardelprimeravistazodelafinaldelTrenOs9010desdeelfrentedelaunidaddemaniobrasencirculación | 2125 , | 143861 , |
-| FrentedelacomposicióndevagonesSnpsdesenganchadosenla7aSK . | 7300 , | 143809 , |
-| Finaldelaunidaddemaniobrasdetenida(PBM) | 10200 , | 143780 , |
+| SeñalSe12enelkm143882segúnSV(VBM) , | 000 , | 143882 , |
+| AislamientodelaSeñalSe12 | 170 , | 143880 , |
+| LugardelprimeravistadelcandeltrenOs9010desdeelfrentedelamaniobracirculante | 2125 , | 143861 , |
+| FrentedelatrenadevehículosSnpcolgadosenla7a SK . | 7300 , | 143809 , |
+| Findelamaniobraparada(PBM) | 10200 , | 143780 , |
 
 ## Página 16
+
 
 | Fin del tren Os 9010 antes de la colisión y tras el impacto | 12680 , |  |  | 143756 , |
 | Frente de la unidad de maniobras detenida | 12900 , |  |  | 143753 , |
@@ -531,10 +550,10 @@ situado a 21,25 m detrás de la señal Se12, es decir, a una distancia de 105,5 
 que disminuía la distancia, la superficie visible del frontal trasero del tren aumentaba.
 Otros:
 Los empleados participantes de ambas empresas ferroviarias fueron sometidos a una prueba 
-de alcoholemia con resultado negativo. 
-
+de alcoholemia con resultado negativo.
 
 ## Página 17
+
 
 En el lugar se levantaron actas con los empleados participantes de ambas empresas 
 ferroviarias; el jefe de la cuadrilla de maniobras indicó en el acta que se negaba en el 
@@ -581,8 +600,8 @@ Como consecuencia de la producción de la MU no se vio limitada ni interrumpida 
 circulación en la est. Čerčany; durante la investigación, los trenes circularon por las 
 demás vías.
 
-
 ## Página 18
+
 
 ### 3.1.6 Identificación de las personas, sus funciones y de los sujetos participantes
 Personas participantes por:
@@ -626,8 +645,8 @@ Nota sobre el tren Os 9010:
 •
 el propietario de todos los DV era ČD, OCÚ Střed.
 
-
 ## Página 19
+
 
 El HDV 814.224-2 estaba equipado en el momento de la MU con un dispositivo de registro 
 automático de datos – tipo UniControls – Tramex, n.º 8033; la hora registrada adelantaba 
@@ -698,6 +717,7 @@ marcha a esta velocidad durante unos 150 m adicionales;
 en unos 70 m adicionales, descenso de la velocidad a 16 km.h-1;
 
 ## Página 20
+
 
 velocidad 16 km.h-1 – desplazamiento horizontal de las agujas de minuto y de velocidad,
 •
@@ -774,7 +794,6 @@ la maniobra ocupó el tramo V17 más allá de la señal Sc1a;
 10:10:09 h
 la maniobra liberó la 1a. SK;
 
-
 ## Página 21
 
 •
@@ -785,44 +804,47 @@ la maniobra ocupó el tramo V16;
 la maniobra liberó el tramo V17;
 •
 10:10:28 h
-la maniobra ocupó la 5c. SK, en la señal Se12 había la indicación „Posun zakázán“ (Maniobra prohibida);
+la maniobra ocupó 5c. SK, en la señal Se12 había la indicación «Prohibido maniobrar»;
 •
 10:10:33 h
-la maniobra liberó el tramo V16, la maniobra estaba íntegramente en la 5c. SK antes de la señal Se12 con la indicación „Posun zakázán“ (Maniobra prohibida);
+la maniobra liberó el tramo V16, la maniobra estaba íntegramente en 5c. SK antes de la señal Se12 con la indicación «Prohibido maniobrar»;
 •
 10:10:35 h
-la maniobra ocupó el tramo V13 más allá de la señal Se12 con la indicación „Posun zakázán“ (Maniobra prohibida) – hora de producción de la MU;
+la maniobra ocupó el tramo V13 tras la señal Se12 con la indicación «Prohibido maniobrar» – hora de producción de la MU;
 •
 10:10:41 h
-la maniobra liberó la 5c. SK;
+la maniobra liberó 5c. SK;
 •
 10:10:46 h
-la maniobra liberó el tramo V13, la maniobra se encontraba íntegramente en la 5b. SK detrás del tren Os 9010.
+la maniobra liberó el tramo V13, la maniobra se encontraba íntegramente en 5b. SK detrás del tren Os 9010.
+
 ### 3.1.9 Cualquier otra información relevante a efectos de la descripción del suceso y de la información básica
-Resumen de las explicaciones prestadas por los empleados de la empresa explotadora de la vía y del transportista, incluidas las personas con relación contractual:
+Resumen de las explicaciones aportadas por los empleados del gestor de la infraestructura ferroviaria y del transportista, incluidas las personas con relación contractual:
+
 •
 maquinista del tren Os
    9010
   – Acta con el empleado:
-◦entró de servicio descansado y psicológicamente equilibrado;
-◦en la hora de salida del tren Os 9010 de la est. Čerčany y tras realizar las formalidades propias de la salida del tren, soltó el freno del convoy (nota DI: en realidad no se produjo el soltado del freno antes del choque);
-◦en ese momento se produjo el choque contra la parte trasera del convoy;
-◦el choque provocó un fuerte desplazamiento del convoy;
-◦aplicó el freno del convoy y fue a comprobar qué había ocurrido y a prestar primeros auxilios;
-◦a continuación, la escolta del tren llamó al ZZS y él comunicó la MU al puesto de comunicación de la CDP a las 10:15 h;
-◦en el tren había aproximadamente 25 pasajeros, de los cuales 10 niños. Un niño fue trasladado por el ZZS al hospital;
-◦antes de la producción de la MU no detectó en el convoy motor ningún defecto que impidiera la explotación;
-◦el tiempo adecuado para descansar y comer lo disfrutó entre las 9:10 h y las 9:55 h en la est. Čerčany.
-•
-despachador de línea CDP Praga
-  – Acta con el empleado:
-◦el 18. 6. 2021 prestó servicio en la función TD721 en la sala de despacho 3A de la CDP Praga;
-◦a las 10:10 h se produjo la entrada de la locomotora de maniobra en el tren Os 9010;
-◦la locomotora circulaba desde la vía n.º 7a con la indicación „Posun dovolen“ (Maniobra permitida) hacia la vía n.º 1a, desde la vía n.º 1a con la indicación que permite la maniobra hacia la vía libre n.º 5c;
-◦se produjo el paso de la señal Se12 en la vía n.º 5c y la entrada de la maniobra en el tren Os 9010, que tenía establecida la ruta de salida desde la vía n.º 5b en dirección Týnec nad Sázavou;
+◦entró en servicio descansado y psicológicamente equilibrado;
+◦en la hora de salida del tren Os 9010 de la est. Čerčany y tras realizar las formalidades de salida del tren, desfrenó la composición (nota DI: en realidad no se produjo el desfrenado antes del impacto);
+◦en ese momento se produjo el impacto en la parte trasera de la composición;
+◦el impacto provocó un fuerte desplazamiento de la composición;
+◦frenó la composición y fue a comprobar qué había ocurrido y a prestar primeros auxilios;
+◦acto seguido, la dotación del tren llamó al ZZS y él comunicó la MU al puesto de comunicación CDP a las 10:15 h;
+◦en el tren había aproximadamente 25 viajeros, de los cuales 10 niños. Un niño fue trasladado por el ZZS al hospital;
+◦antes de la producción de la MU no detectó en la composición motriz ningún defecto que impidiera la explotación;
+◦el tiempo adecuado de descanso y comida lo disfrutó de 9:10 h a 9:55 h en la est. Čerčany.
 
+•
+despachante de línea CDP Praga
+  – Acta con el empleado:
+◦el 18. 6. 2021 prestó servicio en la función TD721 en la sala de despacho 3A CDP Praga;
+◦a las 10:10 h se produjo la entrada de la locomotora de maniobras en el tren Os 9010;
+◦la locomotora circulaba desde la vía n.º 7a con la indicación «Maniobras permitidas» a la vía n.º 1a, desde la vía n.º 1a con la indicación que permite maniobrar a la vía libre n.º 5c;
+◦se produjo el paso de la señal Se12 en la vía n.º 5c y la entrada de la maniobra en el tren Os 9010, que tenía establecida la vía de salida del tren desde la vía n.º 5b en dirección a Týnec nad Sázavou;
 
 ## Página 22
+
 
 ◦dicha ruta de tren la canceló unos 15 minutos después y comunicó la cancelación de la salida prevista a Vrané nad Vltavou;
 ◦comunicó el suceso conforme al Cuadro de Comunicaciones.
@@ -849,91 +871,118 @@ jefe de cuadrilla de maniobras
 ◦no recuerda si el despachador le indicó los números de las vías por las que transcurriría la maniobra, si le comunicó algún otro dato sobre la maniobra ya no lo recuerda;
 ◦lo que dijo al maquinista tampoco lo recuerda, considera que debería constar en la grabación de la radiostación;
 
-
 ## Página 23
 
-◦en la est. Čerčany no se trata de una maniobra demasiado frecuente en comparación con otras estaciones en la ruta de dicho tren de maniobras;
-◦no recuerda exactamente cuándo realizó por última vez una maniobra en Čerčany;
-◦no registró la señal Se12 ni su indicación, como indicó más arriba, en ese momento vigilaba la posición de los desvíos;
-◦considera que la velocidad en el momento de iniciar el frenado de la maniobra era de unos 30 km.h-1.
-◦comunicaba con el despachador de línea con su emisor a través de Simplex;
-◦tras la colisión comprobó inmediatamente el estado de salud del maquinista, éste estaba en el andén, estaba bien y estaba hablando por teléfono;
-◦a continuación fue a ver a los pasajeros de la Regionova y no detectó lesiones visibles;
-◦durante esta comprobación llamaba continuamente con la radiostación a la CDP para comunicar la colisión, nadie respondía en la CDP, así que intentó llamar con su teléfono móvil personal;
-◦el despachador que se ocupaba de Čerčany no respondía, así que llamó al despachador que se ocupaba de Benešov y le comunicó la MU;
-◦a continuación comunicó la producción de la MU al despachador-jefe de turno de la ČD Cargo en la est. Praha-Libeň.
+◦en la estación de Čerčany no se trata de una maniobra de clasificación demasiado frecuente en comparación con otras estaciones en la ruta de este tren de maniobras;
+◦no recuerda cuándo exactamente realizó la maniobra de clasificación por última vez en Čerčany;
+◦no registró la señal Se12 y su indicación, como indicó más arriba, en ese momento estaba observando la posición de los desvíos;
+◦considera que la velocidad en el momento del inicio del frenado de la parte de maniobras era de unos 30 km·h-1.
+◦comunicaba con el despachador de vía mediante su emisor-receptor a través de Simplex;
+◦tras la colisión comprobó inmediatamente el estado de salud del maquinista, éste estaba de pie en el andén, estaba bien y estaba hablando por teléfono;
+◦a continuación fue a comprobar a los pasajeros del Regionovy y no detectó ninguna lesión visible;
+◦durante esta comprobación llamaba continuamente por radio al CDP para comunicar la colisión, nadie respondía en el CDP, así que intentó llamar con su teléfono móvil personal;
+◦el despachador que se ocupaba de Čerčany no respondía, así que llamó al despachador que se ocupaba de Benešov y le comunicó el MU;
+◦a continuación comunicó la aparición del MU al despachador-jefe de turno de ČD Cargo en la estación de Praha-Libeň.
 • jefe de cuadrilla de maniobras
-  – Acta de prestación de explicaciones sobre el suceso extraordinario (DI):
-◦se remitió en su totalidad al acta con el empleado redactada ese mismo día por los órganos de investigación de la SŽ y la ČD Cargo, indicando que, si bien afirmó que habían llegado con el tren a la vía de estación n.º 5, tras la presentación del plano de la estación lo corrigió, indicando que había sido en la vía de estación n.º 7. Le confundió el plano de situación de las vías, tal y como está actualmente hoy;
-◦el tiempo de descanso antes de entrar en el turno en cuestión lo estimó en unas 12 a 13 h;
+  – Registro de la declaración de explicaciones sobre el suceso excepcional (DI):
+◦en su totalidad se remitió al acta con el empleado redactada ese mismo día por los órganos de investigación de SŽ y ČD Cargo, indicando que si había dicho que habían llegado con el tren en la 5.ª vía de estación, tras la presentación del plano de la estación lo corrigió, que era en la 7.ª vía de estación. Le confundió el plano de situación de la vía tal como está actualmente hoy;
+◦el periodo de descanso antes de incorporarse al turno en cuestión lo estimó en unas 12 a 13 h;
 ◦estaba descansado física y psicológicamente, no sentía estrés ni otra indisposición;
-◦entró en el turno en cuestión hacia las 6:30 h en la est. Benešov u Prahy;
-◦circulaban con un par de locomotoras sueltas de la serie 742 con un maquinista desde la est. Benešov u Prahy hasta la estación de carga-parada Pecerady, allí engancharon 5 vagones cargados de troncos, con los que fueron hasta la est. Čerčany y debían continuar hasta la est. Benešov u Prahy, en la est. Čerčany debían armar una de las locomotoras, ésta era su primera tarea asignada;
-◦al empleado que prestaba explicaciones se le reprodujo un vídeo que mostraba la llegada del tren Mn 85229 a la 7a. SK de la est. Čerčany, tras la reproducción del vídeo, el empleado indicó:
-▪apretó el freno manual en el vagón 2.º o 3.º, fue en el momento en que por el encuadre pasaba el tren rápido;
-▪a la pregunta del DI de dónde saltó del tren a la vía de la est. Čerčany, indicó que aproximadamente a la altura del desvío n.º 9, fue a devolver la llave de la estación de carga-parada Pecerady a
+◦se incorporó al turno en cuestión hacia las 6:30 h en la estación de Benešov u Prahy;
+◦viajaron con un par de locomotoras sueltas de la serie 742 con el maquinista desde la estación de Benešov u Prahy hasta la estación-parada de carga de Pecerady, allí acoplaron 5 vagones cargados de troncos, con los que viajaron hasta la estación de Čerčany y debían continuar hasta la estación de Benešov u Prahy, en la estación de Čerčany debían enganchar una de las locomotoras, ésta era su primera tarea asignada;
+◦al empleado que prestaba declaración se le reprodujo el vídeo que muestra la llegada del tren Mn 85229 a la 7a. vía de estación de Čerčany, tras reproducir el vídeo el empleado indicó:
+▪apretó el freno de mano en el 2.º o 3.º vagón, fue en el momento en que por la toma pasaba un tren rápido;
+▪a la pregunta del DI, dónde saltó del tren a la vía de la estación de Čerčany, indicó que aproximadamente a la altura del desvío n.º 9, fue a devolver la llave de la estación-parada de carga de Pecerady a
 
 ## Página 24
 
-del auxiliar de enclavamiento 1. Pensó que el tren se detendría ya en la señal Lc7, por lo que no corrió hacia ella. A continuación, el maquinista le comunicó que ya estaba establecido, que subiera;
-▪a la pregunta del DI si vio en el andén 5b. de la vía de estación a la unidad Regionova detenida, indicó que no la había registrado, la vio solo antes del impacto;
-▪a la pregunta del DI sobre qué actividad realizó tras la detención del tren Mn 85229 en la vía de estación 7a. hasta el inicio de la maniobra en cuestión, indicó que aseguró los vagones contra el desplazamiento mediante el freno de mano y el calzado con tope en el HDV y «acopló» el tren. Además, acordó la maniobra con el despachista de línea, como consta en el Registro con el empleado;
-▪a la pregunta del DI si se trataba de una maniobra con cuadrilla de maniobras, indicó que se trataba de una maniobra con cuadrilla de maniobras;
-▪a la pregunta del DI quién era el empleado que dirigía la maniobra, indicó que era él mismo;
-▪a la pregunta del DI quién y de qué manera informó al despachista de línea de la tecnología de maniobra solicitada y le pidió autorización para la maniobra en cuestión, indicó que la autorización para la maniobra la solicitó él mismo por radio. Informó al despachista de línea de que necesitaría rodear con el HDV y acudir al depósito para abastecerse, no recordaba la redacción exacta;
-▪a la pregunta del DI quién y de qué manera informó al maquinista del procedimiento de trabajo, de la forma de ejecución de la maniobra y de todas las circunstancias excepcionales que no podían serle conocidas, indicó que con el maquinista hablaron del plan de maniobra ya durante el trayecto desde Pecerad hasta Čerčan. El maquinista sabía que rodearía la composición y se iría a abastecer al depósito, de la necesidad de abastecerse le informó el maquinista. Tras acordar la maniobra no informó especialmente al maquinista, porque el maquinista estaba sintonizado en el mismo canal Simplex 21 en el que con el despachista acordaba la maniobra y obtuvo la autorización para la maniobra;
-▪a la pregunta del DI cuál era la tecnología de maniobra prevista, es decir, los números de vías por las que tenía previsto realizar esta maniobra, indicó que solo comunicó que necesitaría rodear con el HDV e ir a abastecerse al depósito, no recordaba la redacción exacta;
+del auxiliar de aparatos de vía 1. Pensaba que el tren se detendría ya en la señal Lc7, por lo que no se apresuró a alcanzarlo. A continuación, el maquinista le comunicó que tenía la vía dispuesta, que subiera;
+▪a la pregunta del DI sobre si vio una unidad Regionova parada en la vía de estación 5b. junto al andén, indicó que no la había registrado, que la vio solo antes del impacto;
+▪a la pregunta del DI sobre qué actividad realizó tras la detención del tren Mn 85229 en la vía de estación 7a. hasta el inicio de la maniobra en cuestión, indicó que aseguró los vagones contra el desplazamiento mediante el apriete del freno de mano y el calzado con tope en el HDV y «reenganchó» el tren. Además, acordó la maniobra con el despachista de línea, como consta en el Registro con el empleado;
+▪a la pregunta del DI sobre si se trataba de una maniobra con cuadrilla de maniobras, indicó que se trataba de una maniobra con cuadrilla de maniobras;
+▪a la pregunta del DI sobre quién era el empleado que dirigía la maniobra, indicó que era él mismo;
+▪a la pregunta del DI sobre quién y de qué manera informó al despachista de línea sobre la tecnología de maniobra solicitada y le pidió autorización para la maniobra en cuestión, indicó que la autorización para la maniobra la solicitó él mismo por radio. Informó al despachista de línea de que necesitaría dar una vuelta con el HDV y ir al depósito a armar el tren, no recordaba la redacción exacta;
+▪a la pregunta del DI sobre quién y de qué manera informó al maquinista sobre el procedimiento de trabajo, la forma de ejecución de la maniobra y todas las circunstancias excepcionales que no podían serle conocidas, indicó que con el maquinista hablaron del plan de maniobra ya durante el trayecto desde Pecerady hasta Čerčany. El maquinista sabía que daría la vuelta a la composición y que iría a armar el tren al depósito; de la necesidad de armar el tren le informó el maquinista. Tras acordar la maniobra, no informó especialmente al maquinista, porque el maquinista estaba sintonizado en el mismo canal Simplex 21 en el que con el despachista acordaba la maniobra y recibió la autorización para la maniobra;
+▪a la pregunta del DI sobre cuál era la tecnología de maniobra prevista, es decir, los números de vías por los que tenía intención de realizar esta maniobra, indicó que solo comunicó que necesitaría dar una vuelta con el HDV y ir al depósito a armar el tren, no recordaba la redacción exacta;
 ◦al empleado que prestaba declaración se le reprodujo la grabación de la comunicación de voz que mantuvo con el despachista de línea con el fin de acordar la maniobra en cuestión:
-▪a la pregunta del DI si era consciente de que la maniobra en cuestión no se realizaba por las vías comunicadas por el despachista de línea al acordar la maniobra, indicó que no era consciente de ello;
-▪a la pregunta del DI si se trataba de una práctica frecuente por parte de los empleados del gestor de la vía, indicó que dependía de caso en caso, algunos jefes de estación son estrictos en este sentido, otros menos estrictos y otros no estrictos;
-▪a la pregunta del DI si realiza maniobras en estas vías en la est. Čerčan con frecuencia o de forma regular, remitió al Registro con el empleado e indicó además que no recuerda cuándo realizó la última maniobra en la est. Čerčan;
-
+▪a la pregunta del DI sobre si era consciente de que la maniobra en cuestión no se realizaba por las vías comunicadas por el despachista de línea al acordar la maniobra, indicó que no era consciente de ello;
+▪a la pregunta del DI sobre si se trataba de una práctica frecuente por parte de los empleados del explotador de la vía, indicó que dependía de caso a caso, que algunos jefes de estación eran estrictos en este sentido, otros menos estrictos y otros nada estrictos;
+▪a la pregunta del DI sobre si realizaba maniobras en estas vías en la est. de Čerčany con frecuencia o de manera habitual, remitió al Registro con el empleado e indicó además que no recordaba cuándo realizó la última maniobra en la est. de Čerčany;
 
 ## Página 25
 
-▪a la pregunta del DI de qué manera (por qué medio) transcurrió durante la maniobra en cuestión su comunicación con el maquinista, indicó que transcurrió por radio en el canal Simplex 21, la comunicación era bien audible y comprensible;
-▪a la pregunta del DI qué instrucciones daba al maquinista durante la maniobra en cuestión, se remitió íntegramente al Registro con el empleado;
-▪a la pregunta del DI dónde se encontraba durante la maniobra en cuestión, se remitió íntegramente al Registro con el empleado;
-▪a la pregunta del DI si registró la señal Se12, es decir, su indicación «Maniobra prohibida», indicó que no registró la señal, observaba la posición de cambio de los desvíos, y se remitió al Registro con el empleado;
-▪a la pregunta del DI si daba al maquinista alguna instrucción de modificación de velocidad antes de repetir la instrucción «Alto», indicó que no daba otras instrucciones que «Alto», la instrucción «Alto» la repitió hasta la colisión;
-▪a la pregunta del DI a qué distancia estimaba ver a través de la carga aparcada de madera redonda la unidad Regionova detenida, indicó que a una distancia de aprox. 90 m, es decir, aprox. 4,5 vagones;
-▪a la pregunta del DI si consideraba la posibilidad de que la unidad Regionova pudiera seguir detenida en la vía de estación 5b., indicó que no lo consideraba, no tenía ningún conocimiento sobre dicha unidad;
-▪a la pregunta del DI cómo reaccionó cuando vio por primera vez la unidad Regionova detenida en la vía de estación 5b., indicó que inmediatamente dio repetidamente al maquinista por radio la instrucción «Alto»;
-▪a la pregunta del DI de que ni en el canal MRS 21 ni en la red GSM-R constaba registro de la declaración de la aparición de la MU, y quién y de qué manera (por qué medio) declaró entonces la aparición de la MU al despachista de línea, se remitió al Registro con el empleado e indicó además que la aparición de la MU la declaró en el CDP Praga al despachista de línea Benešov u Prahy con un teléfono móvil privado;
-▪a la pregunta del DI si comunicaba con el despachista de línea solo por radio o también por teléfono, indicó que antes de la aparición de la MU solo por radio en el canal Simplex 21, tras la aparición de la MU también por teléfono;
-▪a la pregunta del DI qué sucedió tras la colisión con la unidad Regionova detenida, se remitió íntegramente al Registro con el empleado;
-▪a la pregunta del DI cuál es, según él, la velocidad máxima permitida de la unidad de maniobra compuesta por dos HDV de la serie 742 en mando múltiple durante una maniobra con cuadrilla de maniobras, cuando el jefe de la cuadrilla de maniobras se encuentra en la cabeza de la unidad de maniobra y el maquinista conduce desde el HDV trasero en el sentido de la marcha, indicó que, en su opinión, se trata de la misma situación que cuando un HDV empuja un vagón por delante. La velocidad máxima permitida al empujar es entonces de 30 km.h-1;
-▪a la pregunta del DI si quiere añadir algo a lo indicado, indicó que la aparición de la MU le lamenta enormemente, fue su primera MU de este tipo.
-
+▪a la pregunta del DI sobre de qué manera (por qué medio) se llevaba a cabo durante el mencionado maniobra su comunicación con el maquinista, indicó que se llevaba a cabo por radio en el canal Simplex 21, la comunicación era bien audible y comprensible;
+▪a la pregunta del DI sobre qué instrucciones daba al maquinista durante la mencionada maniobra, se remitió íntegramente al Acta con el empleado;
+▪a la pregunta del DI sobre dónde se encontraba durante la mencionada maniobra, se remitió íntegramente al Acta con el empleado;
+▪a la pregunta del DI sobre si registró la señal Se12, es decir, su indicación «Maniobra prohibida», indicó que no registró la señal, observaba la posición de cambio de agujas y se remitió al Acta con el empleado;
+▪a la pregunta del DI sobre si daba al maquinista alguna instrucción de modificación de velocidad antes de repetir la orden «Alto», indicó que no daba otras órdenes que «Alto», la orden «Alto» la repetía hasta la colisión;
+▪a la pregunta del DI sobre a qué distancia estimaba ver, a través de la carga de troncos de madera aparcada, la unidad Regionova detenida, indicó que a una distancia de aprox. 90 m, es decir, aprox. 4,5 vagones;
+▪a la pregunta del DI sobre si consideraba la posibilidad de que la unidad Regionova pudiera seguir detenida en la vía de estación 5b, indicó que no lo consideraba, no tenía ningún conocimiento sobre dicha unidad;
+▪a la pregunta del DI sobre cómo reaccionó cuando vio por primera vez la unidad Regionova detenida en la vía de estación 5b, indicó que inmediatamente daba repetidamente al maquinista por radio la orden «Alto»;
+▪a la pregunta del DI de que ni en el canal MRS 21 ni en la red GSM-R había registro de la notificación de la creación de la MU, y quién y de qué manera (por qué medio) notificó entonces la creación de la MU al despachista de línea, se remitió al Acta con el empleado e indicó además que la creación de la MU la notificó en el CDP Praga al despachista de línea Benešov u Prahy con un teléfono móvil privado;
+▪a la pregunta del DI sobre si se comunicaba con el despachista de línea solo por radio o también por teléfono, indicó que antes de la creación de la MU solo por radio en el canal Simplex 21, después de la creación de la MU también por teléfono;
+▪a la pregunta del DI sobre qué sucedió después de la colisión con la unidad Regionova detenida, se remitió íntegramente al Acta con el empleado;
+▪a la pregunta del DI sobre cuál es, según él, la velocidad máxima permitida para un tramo de maniobras compuesto por dos locomotoras de la serie 742 en mando múltiple durante una maniobra con cuadrilla de maniobras, cuando el jefe de la cuadrilla de maniobras va en la cabeza del tramo de maniobras y el maquinista conduce desde la locomotora trasera en sentido de marcha, indicó que, en su opinión, se trata de la misma situación que cuando una locomotora empuja un vagón por delante. La velocidad máxima permitida al empujar es entonces de 30 km·h-1;
+▪a la pregunta del DI sobre si quiere añadir algo a lo expuesto, indicó que la creación de la MU le lamenta mucho, fue su primera MU de este tipo.
 
 ## Página 26
 
 •
-maquinista de la unidad de maniobra
-  – Registro con el empleado:
-◦tras la llegada del tren Mn 85229, a través del jefe de la cuadrilla de maniobras, acordó con el despachista de línea del CDP Praga la maniobra en la est. Čerčan (rodear el tren Mn 85229 por la vía n.º 5 con la posterior entrada del HDV en el depósito Čerčan);
-◦tras encenderse la indicación «Maniobra permitida» en la señal Lc7a, salió con el par de HDV serie 742 más allá de la señal Sc1a;
-◦según las instrucciones del jefe de la cuadrilla de maniobras, puso el HDV en movimiento en la vía n.º 5c y a continuación en la vía n.º 5b;
-◦en la radio escuchó varias veces la repetición de «empujamos», después «despacio – despacio – tren – alto – alto – alto – alto!»;
+maquinista de la maniobra
+  – Anotación con el empleado:
+◦a la llegada del tren Mn 85229, a través del jefe de cuadrilla de maniobras, acordó 
+con el despachista de línea CDP Praga la maniobra en la est. Čerčany (paso del tren 
+Mn 85229 por la vía n.º 5 con la posterior entrada de la HDV en el depósito Čerčany);
+◦tras la luz de la señal «Maniobra permitida» en la señal Lc7a, salió con el dúo de HDV 
+serie 742 más allá de la señal Sc1a;
+◦según las instrucciones del jefe de cuadrilla de maniobras, puso la HDV en movimiento 
+en la vía n.º 5c y posteriormente en la vía n.º 5b;
+◦en la estación de radio oyó varias veces la repetición de «suneme» y después 
+«poco a poco – poco a poco – tren – alto – alto – alto – alto!»;
 ◦comenzó inmediatamente a frenar con el freno rápido, frenó hasta el impacto;
-◦aseguró el HDV y fue a comprobar las consecuencias del impacto;
-◦el despachista de línea del CDP Praga fue informado de la aparición de la MU por el jefe de la cuadrilla de maniobras;
-◦él mismo informó de la aparición de la MU al jefe de máquinas de ČD Cargo en la est. Praha-Libeň.
-El espacio en el lugar de la MU estaba monitorizado por un sistema de cámaras con grabación, del que es, entre otros, evidente la situación antes de la aparición de la MU, la llegada del tren Mn 85225 a la est. Čerčan y la posterior colisión de la unidad de maniobra con el tren detenido Os 9010.
+◦aseguró la HDV y fue a comprobar las consecuencias del impacto;
+◦el despachista de línea CDP Praga fue informado de la creación de la MU por el jefe 
+de cuadrilla de maniobras;
+◦él mismo informó de la creación de la MU al jefe de taller de ČD Cargo en la est. 
+Praha-Libeň.
+El espacio en el lugar de la MU estaba monitorizado por un sistema de cámaras con 
+grabación, de la cual es, entre otros, evidente la situación antes de la creación de la 
+MU, la llegada del tren Mn 85225 a la est. Čerčany y la posterior colisión de la maniobra 
+con el tren detenido Os 9010. 
 CÁMARA K2:
 •
-la cámara mostraba la llegada del tren Mn 85229 desde la dirección de la estación de carga-parada Pecerady a la 7a. SK de la est. Čerčan, además, que el jefe de la cuadrilla de maniobras, al retirar la placa derecha con la indicación «Fin del tren», se encontraba en un lugar donde sin duda podía divisar la unidad Regionova detenida en la 5b. SK. Si realmente miró a la unidad, sin embargo, no fue posible demostrarlo mediante la investigación;
+la cámara mostraba la llegada del tren Mn 85229 desde la dirección de la estación de 
+carga-apeadero Pecerady a la 7a. SK de la est. Čerčany, además, que el jefe de cuadrilla 
+de maniobras, al retirar la placa derecha con la señal «Fin de tren», se encontraba en 
+un lugar desde el que sin duda alguna podía ver la unidad Regionova detenida en la 
+5b. SK. Si miró realmente a la unidad, sin embargo, no pudo probarse mediante la 
+investigación;
 •
-a las 10:07:55 h el HDV del tren en paso Ex 533 pasó el extremo del andén, simultáneamente el tren retrasado Os 2526 (llegada regular a las 10:00 h) entró en el espacio del andén 2. SK, se detuvo y a las 10:08:23 h comenzaron a bajar los pasajeros.
+a las 10:07:55 h la HDV del tren de paso Ex 533 superó el final del andén, 
+simultáneamente el tren retrasado Os 2526 (llegada prevista a las 10:00 h) entró en el 
+espacio del andén 2. SK, se detuvo y a las 10:08:23 h comenzaron a bajar los pasajeros. 
 CÁMARA K3:
 •
-la cámara estaba orientada en sentido contrario a la marcha de la unidad de maniobra desde la 1a. SK a la 5c. SK. El jefe de la cuadrilla de maniobras se encontraba en la cabeza de la unidad de maniobra en el estribo derecho y el maquinista conducía desde el HDV trasero que avanzaba con un largo tramo por delante desde el puesto izquierdo (II.) en el sentido de la marcha.
+la cámara estaba orientada en sentido contrario a la dirección de marcha de la maniobra 
+desde la 1a. SK a la 5c. SK. El jefe de cuadrilla de maniobras estaba de pie en la cabeza 
+de la maniobra en el escalón derecho y el maquinista manejaba desde la HDV trasera, 
+que circulaba con un largo remolque por delante, desde el puesto izquierdo (II.) en 
+dirección de marcha.
 CÁMARA K7:
 •
-la cámara estaba orientada hacia los andenes en el sentido de la salida prevista del tren Os 9010 y de la marcha no autorizada de la unidad de maniobra. A las 10:07:48 h el HDV del tren Ex 533 entró en el espacio de los andenes, a las 10:08:18 h en el andén 2. SK se detuvo el tren retrasado Os 2526, a continuación se produjo el descenso de pasajeros. Los pasajeros abandonaron el andén por el paso subterráneo. A las 10:09:01 h el tren Os 2526 se puso en marcha. Parte de los pasajeros abandonó el paso subterráneo delante del edificio de la estación. A las 10:09:38 h comenzaban a salir los pasajeros (en total 6) del paso subterráneo al andén 5b. SK y subieron al tren Os 9010. A las 10:10:41 h se cerraron todas las puertas y a las 10:10:46 h se produjo el impacto de la unidad de maniobra contra el extremo del tren Os 9010, su retroceso y la posterior detención a las 10:10:52 h.
-
+la cámara estaba orientada hacia los andenes en la dirección de la salida prevista del 
+tren Os 9010 y de la circulación no autorizada de la maniobra. A las 10:07:48 h la HDV 
+del tren Ex 533 entró en el espacio de los andenes, a las 10:08:18 h junto al andén 
+2. SK se detuvo el tren retrasado Os 2526, seguido de la bajada de pasajeros. Los 
+pasajeros abandonaron el andén por el paso subterráneo. A las 10:09:01 h el tren Os 
+2526 se puso en marcha. Parte de los pasajeros abandonó el paso subterráneo delante 
+del edificio de la estación. A las 10:09:38 h comenzaban a salir los pasajeros (6 en 
+total) del paso subterráneo al andén 5b. SK y subieron al tren Os 9010. A las 10:10:41 h 
+se cerraron todas las puertas y a las 10:10:46 h se produjo el impacto de la maniobra 
+contra el final del tren Os 9010, su rebote y la posterior detención a las 10:10:52 h.
 
 ## Página 27
+
 
 ### 3.2 Descripción fáctica del suceso
 ### 3.2.1 Secuencia de hechos que condujeron al suceso excepcional
@@ -947,6 +996,7 @@ El tren Mn 85229 entró a las 9:58:40 h en la est. Čerčan desde la dirección 
 10:17 h el despachador-jefe de turno de ČD Cargo en la est. Praha-Libeň declaró la aparición de la MU al despachador-principal-planificador (Praga) y al Despachador Central de ČD Cargo
 
 ## Página 28
+
 
 •
 10:30 h el jefe de despacho de CDP Praha comunicó la anomalía a O18 SŽ;
@@ -977,8 +1027,8 @@ El transportista está obligado, de conformidad con el § 35 apartado 1 letra e)
 El transportista ČD Cargo estableció en el PTs10-B-2011, entre otros:
 «3.4.2 El HV (vehículo motriz) de un tren se conduce desde el puesto frontal en el sentido de la marcha, con excepción del HV acoplado como último vehículo del tren y enganchado al tren, en cuyo caso el maquinista puede ocupar el puesto trasero en el sentido de la marcha, salvo que por razones constructivas u otras razones operativo-tecnológicas sea más conveniente ocupar el puesto frontal en el sentido de la marcha. En los trenes empujados (secciones de maniobra empujadas), el HV se conduce desde el puesto desde el que la LČ (tripulación de locomotora) tenga mejor visibilidad, con la posible consideración del lado acordado en el que puedan darse señales manuales.
 
-
 ## Página 29
+
 
 3.4.3 En la maniobra por tracción, el HV de caja se conduce desde el puesto frontal en el sentido de la marcha; en los demás casos, el HV de caja, de capó o de torre se conduce desde el puesto desde el que la LČ tenga mejor visibilidad o desde el que se haya acordado la emisión de señales.
 3.4.4 El HV de caja puede conducirse durante la maniobra también desde el puesto trasero en el sentido de la marcha. Esta actividad es la marcha del elemento de maniobra empujado que se desplaza (un HV individual o varios HV acoplados) en toda su extensión, y la seguridad durante la maniobra la garantiza otro empleado a la cabeza del elemento de maniobra. P. ej., de conformidad con SŽDC D1 art. 1728 y art. 1731. La velocidad establecida para la maniobra por empuje no debe ser superada. Este artículo no afecta a la posibilidad excepcional de maniobra sin tripulación de maniobra según, p. ej., SŽDC D1 art. 1970.»
@@ -990,8 +1040,8 @@ El artículo 3.4.4 del PTs10-B-2011 permite de forma inequívoca una excepción 
 Sin embargo, ninguno de los artículos citados impone explícitamente qué puesto debe elegir el maquinista de HDV de capó o de torre acoplados, o desde qué vehículo debe elegir el puesto.
 Por ello, la Inspección Ferroviaria solicitó al transportista ČD Cargo una interpretación rectora de los arts. 3.4.3 y 3.4.4 del PTs10-B-2011, o, en su caso, una comunicación sobre qué norma establecía desde qué puesto debía (podía) conducir el maquinista el HDV de capó o de caja durante la maniobra de HDV acoplados en conducción múltiple, y, si existían varias posibilidades, una comunicación sobre en qué casos la marcha se consideraba marcha de un elemento de maniobra empujado, todo ello en el contexto de la disposición del § 35 apartado 1 letra e) del Decreto n.º 173/1995 Sb.
 
-
 ## Página 30
+
 
 La respuesta del transportista ČD Cargo fue:
 «En el caso de una MU concreta, desde la perspectiva de los arts. 3.4.3 y 3.4.4 de la directriz PTs10-B-2011, no es relevante de qué tipo constructivo de los vehículos motrices de la serie 742 se trate. El texto de la disposición corresponde plenamente a la disposición de las normas de rango superior.
@@ -1005,6 +1055,7 @@ La disposición del § 16 apartado 6 del Decreto es la única disposición que m
 
 ## Página 31
 
+
 1 letra e) del decreto, pero solo establece cómo proceder si, por ejemplo, el HDV no tiene puesto de mando frontal (cabina frontal) o no es posible utilizarlo (por ejemplo, por avería).
 El decreto presupone claramente la utilización del puesto desde el que se tiene la mejor visibilidad en todos los casos, si bien solo en el empuje, cuyas condiciones se regulan en el § 16 apartado 4, en relación con el § 35 apartado 1 letra g) del decreto, se contempla que la visibilidad del maquinista estará limitada y, por ello, el decreto presupone además la emisión de señales manuales u otras señales por una persona cualificada a la cabeza de la unidad de maniobras (si bien, en el caso de la emisión de señales manuales, también hay que elegir el puesto en función de su transmisión). Aparte del empuje, el decreto no contempla la presencia de otra persona, de lo que puede deducirse que, en el caso del mando (control) de HDV conectados (activos) (denominados también, en el marco de las normas internas del gestor de la infraestructura y del transportista, HDV conectados a mando múltiple, o HDV con mando múltiple), el puesto desde el que se tiene la mejor visibilidad debe elegirse entre todos los puestos de todos los HDV así mando. Con ello concuerda también el hecho de que, en la marcha de HDV conectados (activos), según el art. 1725 SŽDC D1, se aplicaba el mismo límite superior de velocidad que en el empuje, sin necesidad de especificar la cabina, respectivamente el puesto, desde el que, respectivamente desde el cual, debía ser dirigida la marcha por el maquinista.
 El propio decreto distingue únicamente el empuje y el empuje, y para estos dos casos establece en el § 16 apartado 3 el límite superior de velocidad de 40, respectivamente 30 km.h-1. El decreto no aborda explícitamente el empuje de HDV conectados (activos) ni concreta específicamente los términos unidad de maniobras empujada y unidad de maniobras remolcada. Sin embargo, por la naturaleza de estas palabras, el vehículo que desarrolla su propia fuerza de tracción y de frenado no es empujado ni remolcado. En este sentido, el DI coincide con parte de la interpretación gestora del transportista, que concreta la unidad de maniobras empujada, y coincide en que, en el caso de la MU en cuestión, no se trataba de una unidad de maniobras empujada. Paradójicamente, sin embargo, el propio transportista ČD Cargo, en contradicción con la interpretación gestora enviada, calificó en el art. 3.4.4 PTs10-B-2011 como empuje también la marcha de un HDV de caja conducido durante la maniobra desde el puesto trasero en
@@ -1012,8 +1063,8 @@ El propio decreto distingue únicamente el empuje y el empuje, y para estos dos 
 Sobre la realización de la maniobra con cuadrilla de maniobras o sin ella decidía, en general, según SŽDC D1, el maquinista, si bien, según el art. 1970, sin cuadrilla de maniobras solo podría empujarse un vehículo, siempre que el maquinista pudiera ver la vía por delante del vehículo empujado. En el caso de HDV conectados (activos), sin embargo, no se trata de un empuje (véase más arriba) y, por tanto, el maquinista, en un caso absurdo, hipotéticamente podría decidir, durante una maniobra de, por ejemplo, 4 HDV conectados (activos), realizar la maniobra sin cuadrilla de maniobras y, a continuación, controlarlos desde el último en dirección de marcha (sin la obligación de pasar al puesto desde el que se tiene la mejor visibilidad en el primer vehículo y, a la vez, sin la obligación de garantizar la seguridad en la cabeza de la unidad de maniobras como en el empuje con cuadrilla de maniobras), lo que, desde el punto de vista de la seguridad, no es aceptable.
 Ni el decreto ni los procedimientos tecnológicos del gestor de la infraestructura abordaron concretamente tal situación en el momento de producirse la MU. Del mismo modo, ni el decreto ni los procedimientos tecnológicos del gestor de la infraestructura imponían la obligación de maniobra acompañada (maniobra con cuadrilla de maniobras) en el caso de la marcha remolcada, en la que el HDV de caja se controlaría desde el puesto trasero (orientado hacia los vagones). Se ofrece a primera vista una razón evidente: según estas normas, tales situaciones no podían producirse, ya que el maquinista debe elegir siempre, según el § 35 apartado 1 letra e) del decreto nº 173/1995 Sb., el puesto desde el que se tiene la mejor visibilidad, es decir, pasar al primer HDV en
 
-
 ## Página 32
+
 
 dirección de marcha y en él elegir el puesto en la cabina frontal en dirección de marcha (si el HDV no tiene cabina frontal en dirección de marcha, elegir en la cabina del maquinista del primer HDV el puesto desde el que se tiene la mejor visibilidad). En general, puede decirse que, con la redacción actual del decreto, la decisión de realizar la maniobra con cuadrilla de maniobras no exime al maquinista de
 ### la obligación de dirigir el HDV solo desde el puesto desde el que se tiene la mejor visibilidad y, por tanto, no le autoriza a elegir un puesto cualquiera en el empuje y en la marcha
@@ -1026,8 +1077,8 @@ Es necesario constatar que el transportista ČD Cargo, en la disposición del ar
 ### hecho de que, según el DI, la seguridad como tal queda garantizada adecuadamente por este único procedimiento tecnológico, al ordenarse proceder como en el empuje, incluida la velocidad establecida para el empuje.
 En la interpretación gestora, ČD Cargo indica en general (sin limitación según el tipo de locomotora) y, por tanto, aparentemente en relación con el art. 3.4.3 PTs10-B-2011, que es posible dirigir el HDV también desde un puesto desde el que no se tiene la mejor visibilidad, siempre que la marcha segura de la unidad de maniobras se garantice de otro modo, concretamente mediante el acompañamiento de un empleado cualificado a la cabeza de la unidad de maniobras (basta con el acompañamiento como tal, no el cumplimiento de todas las condiciones del empuje; por el contrario, en la interpretación gestora se destaca la elección de la velocidad según el art. 1725 SŽDC D1), lo que es aún más permisivo que el art. 3.4.4 PTs10-B-2011, que solo menciona explícitamente los HDV de caja, que considera la marcha de estos HDV durante la maniobra desde el puesto trasero en dirección de marcha como marcha de una unidad de maniobras empujada (pese a que la interpretación gestora, por el contrario, indica que no se trata de una unidad de maniobras empujada en tales casos) y que ordena proceder "como en el empuje", incluida la velocidad establecida para el empuje. Precisamente la velocidad durante la maniobra fue, sin embargo, la que se demostró clave en esta MU (véase el análisis de la velocidad más abajo).
 
-
 ## Página 33
+
 
 En principio, no es posible aplicar una parte de los procedimientos tecnológicos del empuje (el acompañamiento de la maniobra) y otra parte de los procedimientos tecnológicos del empuje de HDV conectados (activos) (velocidad 40 km.h-1).
 ### Los procedimientos tecnológicos únicos del transportista ČD Cargo en cuestión, incluida la interpretación gestora, son incompatibles con el § 35 apartado 1 letra e) del decreto nº 173/1995 Sb. y, sobre todo,
@@ -1040,6 +1091,7 @@ No cabe duda de que el maquinista de la unidad de maniobras, al producirse la MU
 Del análisis de la influencia de la velocidad de la unidad de maniobras en la colisión de la unidad de maniobras con el tren Os 9010 (véase más abajo) se constató que la unidad de maniobras habría logrado detenerse antes del tren si se hubiera respetado el límite superior de velocidad para el empuje o si el maquinista de la unidad de maniobras hubiera dirigido los HDV conectados (activos) desde el puesto derecho en la cabina del primer HDV en dirección de marcha, hubiera seguido debidamente la vía (vía férrea) y hubiera actuado según los hechos constatados. No obstante, esta deficiencia sistémica no puede ser la causa sistémica de la producción de la MU (marcha no autorizada), respectivamente de la colisión, ya que, desde el punto de vista del sistema, es indiferente si el maquinista o el jefe de maniobras pasó por alto la señal de la señal Se12, respectivamente si la reducción de velocidad, atendiendo a las condiciones de visibilidad, se produce por iniciativa del maquinista o por orden del jefe de la cuadrilla de maniobras. Pese a la ambigüedad de los procedimientos tecnológicos generales del art. 3.4.3 PTs10-B-2011, a los empleados les quedaba claro quién debía vigilar las señales y ajustar la velocidad de marcha de la unidad de maniobras de modo que esta se detuviera a la distancia a la que el empleado designado tenía visibilidad (véase la parte siguiente del análisis).
 
 ## Página 34
+
 
 ### Circulación según las condiciones de visibilidad
 Además, el transportista debe garantizar, de conformidad con el § 35 apartado 1 letra g) o p) del decreto nº 173/1995 Sb., que el maquinista (persona que conduce el vehículo ferroviario) durante las maniobras de maniobra ajuste la velocidad de circulación a la circulación según las condiciones de visibilidad, de modo que se garantice la seguridad de la maniobra, o bien que durante la maniobra conduzca la HDV bajo las condiciones de circulación según las condiciones de visibilidad. La circulación según las condiciones de visibilidad es la circulación de un vehículo ferroviario guiada únicamente por la visión de la persona que conduce el vehículo ferroviario, durante la cual el maquinista debe detener el tren o la fracción de maniobra ante vehículos detenidos o que circulen en la misma dirección en la misma vía de circulación y, en la medida de lo posible, ante cualquier otro obstáculo que amenace su circulación, incluidos los vehículos que circulen en sentido contrario, sin que se pueda superar la velocidad máxima permitida.
@@ -1054,8 +1106,8 @@ la velocidad de circulación de la fracción de maniobra de modo que esta se det
 ### que el jefe de cuadrilla de maniobras veía, atendiendo a la posición del DV respecto del tren Mn 85229.
 Posteriormente, el maquinista, ante la instrucción del jefe de cuadrilla de maniobras de detener la fracción de maniobra, no detuvo esta ante los vehículos detenidos del tren Os 9010. Dado que la investigación no
 
-
 ## Página 35
+
 
 detectó ninguna avería técnica en los vehículos ferroviarios, es evidente que durante la circulación de la fracción de maniobra la velocidad de circulación no se ajustó a las condiciones de visibilidad, con lo que se incumplieron los arts. 66 y 1756 SŽDC D1 y el art. 3.13.2 PTs10-B-2011, y como consecuencia no se respetó la disposición del § 35 apartado 1 letra g) del decreto nº 173/1995 Sb. y del § 35 apartado 1 letra a) y f) de la
 ### ley nº 266/1994 Sb.
@@ -1071,8 +1123,8 @@ La elección de la posición de mando en el lado izquierdo de la cabina del maqu
 ### no actuó conforme al art. 2.3.7 PTs9-B-2011
 y a los arts. 329, 1545 y 1753 letra a) SŽDC D1, al no garantizar las condiciones para poder percibir correctamente la señal del aparato de señalización Se12, al no observarlo suficientemente y, en consecuencia, no cumplir la instrucción dada por la señal de este aparato de señalización fijo aplicable a las maniobras, con lo que
 
-
 ## Página 36
+
 
 como consecuencia no se respetó la disposición del § 35 apartado 1 letra a) y f) de la
 ### ley nº 266/1994 Sb. Atendiendo a las circunstancias, por el contrario, no puede decirse que el maquinista incumpliera el art. 2.4.1.8 PTs10-B-2011 ni puede reprochársele el incumplimiento de los arts. 1750 letra a) y 1753 letra
@@ -1084,6 +1136,7 @@ Con base en lo anteriormente expuesto es, por tanto, evidente que es necesario r
 En la norma SŽ D1 PARTE PRIMERA Norma de circulación y de señalización para líneas no equipadas con el sistema europeo de seguridad del tren, en vigor desde el 1. 7. 2022, ya se produjo una modificación parcial de la redacción de los artículos que establecen las velocidades durante las maniobras y las obligaciones del empleado al frente de la fracción de maniobra (ahora en general, sin el adjetivo «empujada»).
 
 ## Página 37
+
 
 ### Deficiencias en la organización de la maniobra sin relación causal con la aparición de la MU
 La maniobra en el ámbito de la estación con bifurcación de vías debe organizarse según las reglas de explotación de la vía y los procedimientos tecnológicos establecidos por el explotador de la vía. El tráfico ferroviario solo puede ser dirigido por personas cualificadas. La persona que dirigía el tráfico ferroviario (y por tanto también la maniobra) en la est. Čerčany era en este caso el despachista de línea TD721 CDP Praga. El maquinista, en el sentido del art. 1663 y 1969 SŽDC D1 y del art. 2.3.5 PTs9-B-2011, realizaba la maniobra con la cuadrilla de maniobras y, en el sentido del art. 1662 SŽDC D1, era el empleado que dirigía la maniobra. En el sentido de los arts. 1663 y 1664 de este reglamento, el transportista encargó, mediante el art. 2.3.5 PTs9-B-2011, al jefe de la cuadrilla de maniobras el cumplimiento de las obligaciones del maquinista, en particular informar al despachista de línea, con antelación al inicio de la maniobra, de la tecnología de maniobra requerida [requisitos para la realización de la maniobra, tiempo previsto de maniobra (artículo 1744 SŽDC D1) y, antes del inicio de los trabajos, informar a todos los empleados implicados sobre el procedimiento de los trabajos, la forma de realización de la maniobra y sobre las circunstancias excepcionales que no puedan serles conocidas (artículo 1745 SŽDC D1)].
@@ -1110,8 +1163,8 @@ JEFE DE LA CUADRILLA DE MANIOBRAS:
 "Vale, gracias."
 De la comunicación en cuestión se desprende que el jefe de la cuadrilla de maniobras comunicó al despachista de línea, antes del inicio de la maniobra, la tecnología de la maniobra prevista, concretamente los requisitos para la realización de la maniobra y en qué vías tenía la intención de realizar la maniobra (dar la vuelta a la composición
 
-
 ## Página 38
+
 
 aparcada en la 7a. SK y entrar en el depósito con los vehículos ferroviarios para el abastecimiento de HDV), pero no comunicó el tiempo previsto de maniobra, con lo que incumplió la disposición del art. 1744 SŽDC D1.
 El despachista de línea concedió el permiso para la maniobra, comunicando, de conformidad con el art. 1692 del reglamento SŽDC D1, que la vuelta a la composición se realizaría tras la 1. SK, lo que sin embargo no llegó a ocurrir en absoluto.
@@ -1121,8 +1174,8 @@ El permiso para la maniobra es, según el art. 1687 SŽDC D1, el conjunto de inf
 El despachista de línea, mediante la operación del SZZ, dio el consentimiento para la maniobra encendiendo la señal "Maniobra permitida" en la señal Lc7a y posteriormente también en la señal Sc1a, pero en contra de lo dispuesto en el art. 58 del reglamento SŽDC (ČD) Z1, ya que no cumplió el conjunto de operaciones de tráfico y procedimientos de trabajo descritos anteriormente establecidos en los reglamentos internos, es decir, que operaría el SZZ solo después de emitir el permiso regular para la maniobra y que cambiaría los desvíos según las instrucciones del empleado del transportista en el sentido del art. 431 SŽDC D1.
 El jefe de la cuadrilla de maniobras se conformó con el permiso concedido. Tras encender la señal que permite la maniobra en la señal Lc7a y posteriormente también en la señal Sc1a, dio la instrucción de poner en movimiento la sección de maniobras, sin reaccionar en la siguiente marcha en absoluto al hecho de que la ruta de maniobra no hubiera sido establecida según la información del despachista de línea en la 1. SK, sino incorrectamente de vuelta en dirección a la 5c. SK. En el sentido del art. 1750, aparentemente no comprobó si la ruta de maniobra estaba establecida según la información del despachista de línea; al no haberlo averiguado, aparentemente no procedió según el 1753 apartado g) y el 1767 apartado e) SŽDC D1, no detuvo la sección de maniobras y continuó con la maniobra. Según su declaración, vigilaba las posiciones de los desvíos n.º 17 y 16, por si la ruta estaba establecida para la composición de vagones aparcada en la 7a. SK, lo que posteriormente no se confirmó. Dado que el maquinista también fue informado de la información sobre la ruta de maniobra a través de la radio, tampoco él procedió en el sentido del art. 1750 y 1753 apartado g) del reglamento SŽDC D1. Con ello se produjo la infracción del art. 1750 SŽDC D1. La infracción del art. 1753
 
-
 ## Página 39
+
 
 apartado g) y 1767 apartado e) no puede constatarse, ya que es evidente que los empleados del transportista, en su aproximación al permiso para la maniobra, no averiguaron en absoluto (no se dieron cuenta) de que la ruta de maniobra no estaba establecida según la información del encargado de desvíos (despachista de línea), siendo precisamente "si averigua" la condición en estas disposiciones.
 Por la infracción de las disposiciones de los reglamentos internos por parte del despachista de línea, se produjo también el incumplimiento del § 22 apartado 1 letra a) de la ley n.º 266/1994 Sb. Por la infracción de las disposiciones de los reglamentos internos por parte de los empleados del transportista, se produjo también el incumplimiento del § 35 apartado 1 letra a) de la ley n.º 266/1994 Sb.
@@ -1138,6 +1191,7 @@ Durante la marcha hacia la señal Se12, el jefe de la cuadrilla de maniobras, qu
 Durante la marcha desde la señal Se12, el jefe de la cuadrilla de maniobras no garantizó la detención de la sección de maniobras antes del tren Os 9010 en marcha, ya que, en contra de lo dispuesto en el art. 2.3.7 PTs9-B-2011, no daba ninguna señal para ajustar la velocidad de marcha de la sección de maniobras de modo que
 
 ## Página 40
+
 
 El tramo de maniobras se detuvo a la distancia a la que veía. Durante la marcha del tramo de maniobras, la velocidad de circulación no se adaptó a las condiciones de visibilidad, con lo que se produjo una infracción del art. 66 y 1756 SŽDC D1 y del art. 3.13.2 PTs10-B-2011. Esta circunstancia es la causa inmediata de la colisión del tramo de maniobras con el tren estacionado Os
  9010.
@@ -1168,8 +1222,8 @@ a cumplir las instrucciones dadas por las señales de los aparatos de señalizac
 •
 a vigilar la libertad de la vía de maniobras (es decir, si en la vía de maniobras no hay vehículos u otros obstáculos que pueda observar desde su puesto) y la disposición de los vehículos; ...
 
-
 ## Página 41
+
 
 •
 con sus instrucciones debe dirigir y regular la velocidad de circulación del tramo de maniobras de modo que el tramo de maniobras se detenga a la distancia a la que vea, pero como máximo en el lugar del final anunciado de la vía de maniobras;
@@ -1197,8 +1251,8 @@ En los tramos de maniobras empujados, el jefe de la cuadrilla de maniobras debe 
 art. 1756 SŽDC D1:
 «Durante las maniobras, el maquinista debe cumplir las condiciones de marcha según las condiciones de visibilidad, ...».
 
-
 ## Página 42
+
 
 ### Hallazgos:
 Durante la investigación se constató la infracción de la normativa legal, de las normas internas relativas a las funciones y obligaciones del explotador de la vía y del transportista, al margen de la relación causal con el origen de la
@@ -1224,10 +1278,10 @@ art. 1693 SŽDC D1:
 «El jefe de estación dará el permiso para las maniobras o comunicará su eventual modificación al empleado que dirige las maniobras directamente, a través del conmutador o a través del jefe de la cuadrilla de maniobras.»;
 •
 art. 58 SŽDC (ČD) Z1:
-«El empleado operador debe, en las actividades relacionadas con la operación del ZZ (dispositivo de seguridad), cumplir siempre también el conjunto de maniobras y procedimientos de trabajo establecidos por las normas internas ...». 
-
+«El empleado operador debe, en las actividades relacionadas con la operación del ZZ (dispositivo de seguridad), cumplir siempre también el conjunto de maniobras y procedimientos de trabajo establecidos por las normas internas ...».
 
 ## Página 43
+
 
 Transportista ČDC:
 •
@@ -1255,8 +1309,8 @@ b) la hora a la que se puede iniciar la maniobra; la hora a la que debe finaliza
 c) qué vías destinadas a la circulación de trenes podrán quedar ocupadas tras la finalización de la maniobra;
 d) la hora a la que deben liberarse las demás vías destinadas a la circulación de trenes; …».
 
-
 ## Página 44
+
 
 Análisis de la influencia de la velocidad del tramo de maniobras en la colisión del tramo de maniobras con el tren
    Os 9010:
@@ -1267,6 +1321,7 @@ Antes de iniciar los viajes, el par de HDV serie 742 se equipó con la técnica 
 El registro de datos evaluado sobre la dinámica del par de HDV medido contenía, entre otros, datos sobre el tiempo de medición, la evolución de la aceleración, la orientación en el espacio (ángulos de balanceo, cabeceo y guiñada), la posición en la superficie terrestre (coordenadas geográficas) y la evolución de la velocidad. Estos datos se utilizaron a continuación para evaluar los distintos viajes de prueba.
 
 ## Página 45
+
 
 Tabla 1 – Resumen de los valores determinados
 Recorrido durante la
@@ -1371,8 +1426,8 @@ Como valor de referencia para los cálculos posteriores de DI se utilizó la vel
 ◦ en el punto con velocidad de 16 km.h-1, el recorrido hasta la detención total fue como máximo de 5,11 m (con perfil libre de la vía, es decir, sin desaceleración por impacto);
 ◦ el recorrido de frenado máximo desde 37 km.h-1 tras la actuación de los frenos fue de 53,25 m;
 
-
 ## Página 46
+
 
 De lo anterior se deduce que, con la creación de la MU, el efecto del frenado de la pareja de HDV se inició a una distancia de 47,07 m del final del tren Os 9010. Dada la distancia entre el lugar de la colisión (pk 143,755) y el lugar de la primera visibilidad posible del final del tren Os 9010 por parte del jefe de la maniobra de empuje (pk 143,861) de 105,55 m, el efecto del frenado se inició 58,49 m después de dicho lugar. Desde el lugar de la primera visibilidad posible del final del tren hasta la actuación de los frenos transcurrieron 5,69 s, de los cuales, en el peor de los casos, el retraso de la puesta en marcha de los frenos pudo alcanzar 1,24 s, por lo que quedaban 4,45 s para la reacción del jefe de la maniobra de empuje y del maquinista y la transmisión de información entre ellos (en adelante, tiempo de reacción).
 Para evaluar el tiempo de reacción se utilizó la literatura especializada¹, de la cual puede deducirse por analogía que el límite superior de la reacción del jefe de la maniobra de empuje se componía de la reacción óptica (percepción) – 0,55 s, psíquica (evaluación, decisión) – 0,58 s y muscular (en este caso, manejo de la estación de radio) – 0,21 s; la reacción del maquinista se componía de la reacción psíquica (evaluación y decisión) – 0,58 s y muscular (manejo del freno) – 0,21 s. La suma de estos tiempos de reacción asciende a 2,13 s y, por tanto, para la transmisión de información por radio quedan 4,45 - 2,13 = 2,32 s, lo que corresponde a la pulsación de teclas, la conexión y la emisión de la orden de detención. Puede, por tanto, constatarse que las reacciones de los empleados fueron adecuadas.
@@ -1383,8 +1438,8 @@ Si hipotéticamente el maquinista de la maniobra de empuje no hubiera facilitado
 El último escenario comprobado es la presencia hipotética del maquinista de la maniobra de empuje en el puesto derecho de la cabina del primer HDV en el sentido de la marcha, es decir, la conducción desde el puesto desde el que se tiene la mejor visión. Dado que el recorrido desde el lugar de la colisión
 ¹ BRADÁČ, A., KREJČÍŘ, P., LUKAŠÍK, L., OŠLEJŠEK, J., PLCH, J.: Soudní inženýrství. Akademické nakladatelství CERM Brno,
 
-
 ## Página 47
+
 
 hasta la detención total (con perfil libre de la vía sin el tren Os 9010 detenido) fue, según las mediciones, de como máximo 5,11 m, es evidente que, a 37 km.h-1, habría bastado con reducir el tiempo de reacción en 0,5 s. Si el maquinista hubiera reaccionado por sí mismo (sin intermediario) a los vehículos del tren Os 9010 en la maniobra de empuje, el ahorro en los tiempos de reacción habría sido de 0,58 s (psíquica) + 0,21 s (muscular) + aprox. 2 s (transmisión de información por radio). De lo anterior se deduce que la maniobra de empuje habría conseguido detenerse antes del tren si el maquinista de la maniobra de empuje hubiera conducido los HDV acoplados (activos) desde el puesto derecho de la cabina del primer HDV en el sentido de la marcha, hubiera vigilado adecuadamente la vía (la línea) y hubiera actuado según los hechos constatados.
 ### 4.1.2 Entidades responsables del mantenimiento de los vehículos ferroviarios
@@ -1398,8 +1453,8 @@ En la investigación no se detectó el incumplimiento de las funciones y obligac
 ### 4.1.5 Entidades notificadas, entidades designadas y entidades dedicadas a la evaluación de riesgos
 En la investigación no se detectó el incumplimiento de las funciones y obligaciones de las entidades notificadas, de las entidades designadas y de las entidades dedicadas a la evaluación de riesgos.
 
-
 ## Página 48
+
 
 ### 4.1.6 Entidades de certificación responsables del mantenimiento de los vehículos ferroviarios
 En la investigación no se detectó el incumplimiento de las funciones y obligaciones de las entidades de certificación responsables del mantenimiento de los vehículos ferroviarios.
@@ -1421,6 +1476,7 @@ En la investigación no se detectaron otros factores relacionados con los vehíc
 
 ## Página 49
 
+
 ### 4.3 Factores humanos
 ### 4.3.1 Características humanas e individuales
 En la investigación no se detectaron factores relacionados con la formación profesional de los empleados, el estado de salud y la situación personal, incluido el estrés físico y psicológico.
@@ -1434,8 +1490,8 @@ El jefe del cuadrillo de maniobras fue controlado en el año 2021, antes de la a
 El maquinista de la unidad de maniobras fue controlado en el año 2021, antes de la aparición de la MU, un total de 2 veces.
 Durante el primer control se constató: "… sorprendido realizando maniobras – sin documentos ni impresos obligatorios. Manifestó que todo lo tiene en la sala de descanso. En los pies, sandalias abiertas sin tacón ni puntera firmes, sin chaleco reflectante. Control de las anotaciones en el KO (Libro de reparaciones), ZPSZZ (Registro de averías en el aparato de señales y enclavamiento) y el libro de entrega. Estado del HV (vehículo de tracción) – bogie, sala de máquinas y puesto de conducción. Control de los cajones laterales. En estado + 2 topes en el espacio de los escalones (además de los extremos). Se requirió al maquinista que los retirara. Del armario se retiró la versión no válida de KVs3-B-2010/2.Z. Tecnología de circulación durante la maniobra – al
 
-
 ## Página 50
+
 
 desviar un vagón cisterna, el maquinista puso el HV (vehículo de tracción) en movimiento sin saber hacia dónde estaba establecida la ruta de maniobras (autorización para la maniobra). Al preguntarle, respondió: "hacia la de extracción". Realidad – en la 1. DK (vía de tráfico). Se advirtió al maquinista de la necesidad de cumplir las condiciones para poner en movimiento la PD (unidad de maniobras), de que no es necesario circular a 40 km/h y de que en la maniobra se trata siempre de circular según las condiciones de visibilidad." Las deficiencias identificadas según el catálogo: "Circulación del empleado sin chaleco reflectante u otros EPI (equipos de protección individual) en el trazado de vías, trabajo en el trazado de vías sin los EPI prescritos: no uso del chaleco protector, del casco protector, pantalones sueltos y sin abrochar durante la maniobra."
 El segundo control se centró en: "Recepción del HV (vehículo de tracción), inspección del bogie y de los fluidos de servicio, ZBHV (prueba de freno del vehículo de tracción). Documentos y protocolos necesarios para el turno en orden. Conducción del tren 85243 – 105 toneladas en el tramo Benešov – Postupice, seguimiento de las señales, cumplimiento de la velocidad y de la tecnología de frenado en orden.", con resultado sin defectos.
@@ -1453,8 +1509,8 @@ En el sistema de garantía de la seguridad adoptado por el gestor de la infraest
 ### 4.4.4 Sistema de gestión de los sujetos responsables del mantenimiento de los vehículos ferroviarios y de los talleres de mantenimiento
 El sistema de gestión de los sujetos responsables del mantenimiento de los vehículos ferroviarios y de los talleres de mantenimiento no guardaba relación con la aparición de la MU.
 
-
 ## Página 51
+
 
 ### 4.4.5 Resultados de la supervisión realizada por las autoridades nacionales de seguridad
 Atendiendo a los factores detectados y a las circunstancias de la aparición de la MU, la supervisión de la autoridad de seguridad no guarda relación con la MU en cuestión.
@@ -1488,8 +1544,8 @@ Causal factor:
 head’s of the shunting gang error (he did not respect the signal “Shunting forbidden” 
 of the signal device Se12).
 
-
 ## Página 52
+
 
 Contributing factor:
 •
@@ -1537,8 +1593,8 @@ la autorización para la maniobra emitida por el despachador de línea no conten
 •
 el despachador de línea no comunicó al cuadrillo de maniobras el cambio de la autorización para la maniobra emitida;
 
-
 ## Página 53
+
 
 •
 a pesar de que la autorización para la maniobra emitida no reunía todos los requisitos, el despachador de línea comenzó a realizar la maniobra;
@@ -1583,23 +1639,22 @@ by the line dispatcher and they did not stop the shunting operation.
 ## Página 54
 
 ### 6 RECOMENDACIONES DE SEGURIDAD
-La Inspección Ferroviaria, con base en lo dispuesto en el § 53e apartado 1 de la Ley núm. 266/1994 Sb., recomienda, en aras de la prevención de sucesos extraordinarios:
+La Inspección Ferroviaria, con base en lo dispuesto en el § 53e apartado 1 de la Ley núm. 266/1994 Sb., recomienda, en relación con la prevención de sucesos extraordinarios:
 Al Ministerio de Transportes:
 •
-garantizar la modificación del decreto núm. 173/1995 Sb. de modo que las normas para la conducción de locomotoras de tracción individuales y conectadas (activas) en la red ferroviaria de ámbito nacional, regional y en apartaderos sean en la práctica cumplibles, sencillas y unívocas. Concretamente, es necesario definir de forma unívoca las normas para la maniobra de locomotoras de tracción conectadas (activas) atendiendo al hecho de que, en este caso, no se trata de una tracción ni de un empuje; además, las normas para el caso en que no sea posible conducir el vehículo desde la posición desde la que se tiene la mejor visibilidad (cuando las cabinas (posiciones) del maquinista de la segunda locomotora de tracción para la maniobra en sentido opuesto sean prácticamente inaccesibles), y definir los límites superiores de velocidad en la maniobra en función de la posición desde la que se controla la circulación del conjunto de maniobra. Asimismo, es necesario modificar la definición de circulación según condiciones de visibilidad, al menos para el caso de empuje, ya que en la maniobra por empuje el maquinista no puede realimente conducir la locomotora de tracción en condiciones de circulación según condiciones de visibilidad, si la circulación según condiciones de visibilidad significa la circulación controlada por la visibilidad de la persona que conduce el vehículo ferroviario (estricta y únicamente).
+garantizar la modificación del decreto núm. 173/1995 Sb. de modo que las normas para la conducción de locomotoras de tracción independientes y conectadas (activas) en la red ferroviaria de ámbito nacional, regional y en vías de servicio sean en la práctica cumplibles, sencillas y unívocas. Concretamente, es necesario definir de forma unívoca las normas para la maniobra de locomotoras de tracción conectadas (activas) atendiendo al hecho de que, en este caso, no se trata de una tracción ni de un empuje; además, las normas para el caso en que no sea posible conducir el vehículo desde el puesto desde el que se tiene la mejor visibilidad (cuando las cabinas (puestos) del maquinista de la segunda locomotora de tracción para la maniobra en sentido contrario sean prácticamente inaccesibles), y definir los límites superiores de velocidad durante la maniobra en función del puesto desde el que se controla la circulación del tramo de maniobra. Asimismo, es necesario modificar la definición de circulación según las condiciones de visibilidad, al menos para el caso de empuje, ya que en la maniobra por empuje el maquinista no puede realimente conducir la locomotora de tracción en condiciones de circulación según las condiciones de visibilidad, si la circulación según las condiciones de visibilidad significa una circulación controlada por la visibilidad de la persona que conduce el vehículo ferroviario (estricta y exclusivamente).
 A la Autoridad Ferroviaria:
 •
-exigir a todos los operadores ferroviarios de la red de ámbito nacional, regional y en apartaderos una forma de normativa interna de referencia tal que las instrucciones para la conducción de locomotoras de tracción individuales y conectadas (activas) sean en la práctica cumplibles, sencillas y unívocas. Concretamente, es necesario, hasta la modificación del decreto núm. 173/1995 Sb., definir de forma unívoca las normas para la maniobra de locomotoras de tracción conectadas (activas) para el caso en que no sea posible conducir el vehículo desde la posición desde la que se tiene la mejor visibilidad (cuando las cabinas (posiciones) del maquinista de la segunda locomotora de tracción para la maniobra en sentido opuesto sean prácticamente inaccesibles);
+exigir a todos los operadores de la red ferroviaria de ámbito nacional, regional y en vías de servicio una forma de normativa interna de referencia tal que las instrucciones para la conducción de locomotoras de tracción independientes y conectadas (activas) sean en la práctica cumplibles, sencillas y unívocas. Concretamente, es necesario, hasta la modificación del decreto núm. 173/1995 Sb., definir de forma unívoca las normas para la maniobra de locomotoras de tracción conectadas (activas) para el caso en que no sea posible conducir el vehículo desde el puesto desde el que se tiene la mejor visibilidad (cuando las cabinas (puestos) del maquinista de la segunda locomotora de tracción para la maniobra en sentido contrario sean prácticamente inaccesibles);
 •
-exigir a todos los gestores de infraestructura de las redes de ámbito nacional, regional y en apartaderos una forma de normativa interna de referencia tal que se establezcan los límites superiores de velocidad en la maniobra en función de la posición desde la que se controla la circulación del conjunto de maniobra.
+exigir a todos los gestores de infraestructuras ferroviarias de ámbito nacional, regional y de vías de servicio una forma de normativa interna de referencia tal que se establezcan los límites superiores de velocidad durante la maniobra en función del puesto desde el que se controla la circulación del tramo de maniobra.
 ### RECOMENDACIONES DE SEGURIDAD
-Dirigidas al Ministerio Checo de Transportes (en adelante, «el Ministerio»):
+Dirigidas al Ministerio de Transportes de la República Checa (en adelante, «el Ministerio»):
 •
-recomendamos que el Ministerio garantice la modificación del decreto núm. 
-173/1995 Sb. de modo que las normas para la conducción de locomotoras de tracción individuales y conectadas (activas) en la red ferroviaria de ámbito nacional, regional y en apartaderos sean en la práctica cumplibles, sencillas y unívocas. Es necesario definir normas para la maniobra de locomotoras de tracción conectadas (activas) atendiendo al hecho de que no se trata de una maniobra por tracción ni de una maniobra por empuje. Asimismo, es necesario definir normas para el caso en que no sea posible conducir la locomotora desde la posición del maquinista desde la que se tiene la mejor visibilidad (cuando la posición del maquinista de la segunda locomotora para la maniobra en sentido opuesto sea prácticamente inaccesible), y definir los límites superiores de velocidad de la maniobra en función de la posición del maquinista desde la que se controla la circulación del conjunto de maniobra. Recomendamos también que el 
-
+recomendamos que el Ministerio garantice la modificación del decreto núm. 173/1995 Sb. de modo que las normas para la conducción de locomotoras de tracción independientes y conectadas (activas) en la red ferroviaria de ámbito nacional, regional y en vías de servicio sean en la práctica cumplibles, sencillas y unívocas. Es necesario definir normas para la maniobra de locomotoras de tracción conectadas (activas) atendiendo al hecho de que no se trata de una maniobra por tracción ni de una maniobra por empuje. También es necesario definir normas para el caso en que no sea posible conducir la locomotora desde el puesto del maquinista desde el que se tiene la mejor visibilidad (cuando el puesto del maquinista de la segunda locomotora para la maniobra en sentido contrario sea prácticamente inaccesible), y definir los límites superiores de velocidad de la maniobra en función de la posición del maquinista desde la que se controla la circulación de la maniobra. También recomendamos que el
 
 ## Página 55
+
 
 Ministerio modifique la definición de circulación según condiciones de visibilidad, al menos para la maniobra por empuje, 
 porque en ese caso el maquinista de la locomotora no puede conducir la locomotora 
@@ -1623,8 +1678,8 @@ Ing. Petr Mencl f. s.
 Director
 de la Inspección Territorial de Bohemia
 
-
 ## Página 56
+
 
 ### ANEXOS
 Fig. núm. 2: Durante la circulación del conjunto de maniobra hacia la señal Se12, el tren Os 9010 estaba completamente oculto a la vista del jefe de la cuadrilla de maniobras, tras el material estacionado de vagones cargados con madera rolliza
@@ -1633,8 +1688,8 @@ Fig. núm. 3: Por primera vez, el final del tren Os 9010 pudo verse desde detrá
 22,5 m tras la señal Se12, respectivamente 105,5 m antes del final del tren
 Fuente: DI
 
-
 ## Página 57
+
 
 Fig. núm. 4: La investigación confirmó que el maquinista controlaba el conjunto de maniobra desde la posición izquierda (II) de la locomotora de tracción trasera mediante un avance largo hacia delante, es decir, desde el punto con la peor visibilidad dada la posición de las señales 
 y las condiciones de visibilidad desfavorables en la curva de derecha.

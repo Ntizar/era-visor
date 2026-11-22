@@ -12,8 +12,8 @@ tokens_in: 79826
 tokens_out: 64952
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-verificacion: revisar
-avisos: ["página 8: ratio 2.25", "página 34: ratio 1.98", "página 42: ratio 1.63", "página 55: ratio 1.70"]
+verificacion: ok
+notas_cifras: ["página 3: cifras cortas: 2/21", "página 4: cifras cortas: 1/139", "página 6: original bilingüe: se compara contra el idioma principal (ES)", "página 8: original bilingüe: se compara contra el idioma principal (EN); ratio 2.23", "página 10: cifras cortas: 1/38", "página 13: cifras cortas: 3/21"]
 ---
 
 ## Página 1
@@ -317,32 +317,32 @@ AIN/06-FR-01 Página: 7/56
 
 ## Página 8
 
-EN AIRE, MARÍTIMO |
+EN EL AÉREO, MARÍTIMO |
 
-= AGENCIA PARA LA INVESTIGACIÓN DE ACCIDENTES
-FERROVIARIOS 09 de septiembre de 2022, Okučani
+= AGENCIA DE INVESTIGACIÓN DE ACCIDENTES
+DEL TRANSPORTE FERROVIARIO 09 de septiembre de 2022, Okučani
 
-AIN/06-SR-02/2023: Todos los vehículos ferroviarios de tracción que participen en el transporte de viajeros y circulen por la red de vías férreas de la República de Croacia deberían estar equipados con dispositivos de grabación de vídeo del tren durante la primera modernización o reparación periódica, y como máximo hasta el 01 de julio de 2027.
+AIN/06-SR-02/2023: Todos los vehículos ferroviarios de tracción que participan en el transporte de pasajeros y que circulan en la red de vías de la República de Croacia deberían estar equipados con dispositivos de grabación de vídeo de la conducción del tren en la primera modernización o reparación ordinaria, y a más tardar el 01 de julio de 2027.
 
-AIN/06-SR-03/2023: El transportista ferroviario implicado, HŽPP, debería incluir en el contenido de la formación profesional de los maquinistas una mayor atención sobre los peligros de circular un tren junto a señales que prohíben la circulación ulterior, así como una mayor atención a la aplicación obligatoria de las disposiciones del Reglamento sobre señales, signos de señalización y marcas de señalización en el tráfico ferroviario (NN 94/15) y del Reglamento sobre el modo y las condiciones para la circulación segura y la gestión del tráfico ferroviario (NN 107/16).
+AIN/06-SR-03/2023: El ferroviario implicado, HŽPP, debería incluir en el contenido de la formación profesional de los maquinistas una mayor atención sobre el peligro de paso de un tren junto a señales que prohíben la continuación de la marcha, así como una mayor atención a la aplicación obligatoria de las disposiciones del Reglamento sobre señales, signos señaléticos e indicaciones en el tráfico ferroviario (NN 94/15) y del Reglamento sobre el modo y las condiciones para la realización y gestión seguras del tráfico ferroviario (NN 107/16).
 
-AIN/06-SR-04/2023: El transportista ferroviario implicado, HŽPP, debería revisar su propio sistema de gestión de la seguridad, en lo relativo a los procedimientos de trabajo de los maquinistas.
+AIN/06-SR-04/2023: El ferroviario implicado, HŽPP, debería revisar su propio sistema de gestión de la seguridad, en cuanto a los procedimientos de trabajo de los maquinistas.
 
-AIN/06-SR-05/2023: Los transportistas ferroviarios en el territorio de la República de Croacia están obligados a realizar mensualmente una vez la sincronización del tiempo de la grabación de vídeo del tren y del dispositivo de grabación digital de la velocidad.
+AIN/06-SR-05/2023: Los ferroviarios en el ámbito de la RH están obligados a realizar regularmente, una vez al mes, la sincronización de la hora de la grabación de vídeo de la conducción del tren y del dispositivo de registro digital de la velocidad de circulación.
 
-AIN/06-SR-06/2023: El gestor de la infraestructura, HŽI, está obligado a realizar mensualmente una vez la sincronización del tiempo en los dispositivos que registran los datos.
+AIN/06-SR-06/2023: El gestor de la infraestructura, HŽI, está obligado a realizar regularmente, una vez al mes, la sincronización de la hora en los dispositivos que registran datos.
 
-AIN/06-SR-07/2023: En todos los vehículos ferroviarios de tracción que circulen por el territorio de las vías férreas de la República de Croacia, en los casos de circulación bajo mandato, al cruzar sobre una baliza, el equipo AS instalado en los vehículos debería limitar la velocidad de circulación a Vmax= 40 km/h, y la circulación hasta la siguiente señal espacial se limita a Vmax=30 km/h. En el caso de que el equipo AS actualmente instalado no pueda cumplir los requisitos anteriormente mencionados, se concede un plazo como máximo hasta el 01 de julio de 2025 para adaptar los vehículos a los requisitos solicitados.
+AIN/06-SR-07/2023: En todos los vehículos ferroviarios de tracción que circulan por el ámbito de las vías ferroviarias de la RH, en los casos de conducción por orden al transitar sobre un baliz, el equipo AS instalado en los vehículos debería limitar la velocidad de circulación hasta Vmax= 40 km/h, y la conducción hasta la siguiente señal espacial se limita a Vmax=30 km/h. En el caso de que el equipo AS actualmente instalado no pueda cumplir los requisitos anteriormente mencionados, se concede un plazo a más tardar el 01 de julio de 2025 para que los vehículos se adapten a los requisitos solicitados.
 
-AIN/06-SR-08/2023: El gestor de la infraestructura, HŽI, debería mejorar el control de los dispositivos SS de conformidad con las disposiciones del Reglamento sobre el mantenimiento de los dispositivos SS (HŽI-400) y de las Instrucciones sobre el procedimiento del personal de los servicios ejecutivos con dispositivos SS y de telecomunicaciones (HŽI-432).
+AIN/06-SR-08/2023: El gestor de la infraestructura, HŽI, debería mejorar la supervisión de los dispositivos SS de conformidad con las disposiciones del Reglamento sobre el mantenimiento de los dispositivos SS (HŽI-400) y de la Instrucción sobre el procedimiento del personal de los servicios ejecutivos con los dispositivos SS y de telecomunicaciones (HŽI-432).
 
 RESUMEN
 
-El 09 de septiembre de 2022, a las 21:28 h, hora local, en la línea M104 Novska-Tovarnik-frontera estatal, entre las estaciones Okučani-Novska, en el vía derecha en el pk 294+485, se produjo un suceso de la categoría "accidente grave", una colisión del tren de viajeros número 2506 (HŽPP) con el tren de mercancías número 41200 (ENNA TRANSPORT), que estaba detenido en la vía para eliminar la perturbación percibida.
+El 09 de septiembre de 2022, a las 09:28 p. m. hora local, en la línea M104 Novska-Tovarnik-frontera estatal, entre las estaciones Okučani-Novska en la vía derecha en el pk 294+485, se produjo un suceso de la categoría «accidente grave», una colisión del tren de pasajeros número 2506 (HŽPP) contra el tren de mercancías número 41200 (ENNA TRANSPORT) que estaba detenido en la vía con el fin de eliminar la avería detectada.
 
-En un accidente grave, tres personas resultaron fallecidas: el maquinista, el revisor y un pasajero masculino menor de edad del tren de viajeros número 2506. En total, once pasajeros del tren de viajeros resultaron heridos, de los cuales dos sufrieron heridas graves y nueve heridas leves.
+En el accidente grave, tres personas resultaron con lesiones mortales: el maquinista, el revisor y un pasajero varón menor de edad del tren de pasajeros número 2506. En total resultaron heridos once pasajeros del tren de pasajeros, de los cuales dos con lesiones graves y nueve con lesiones leves.
 
-El factor causal del accidente grave en cuestión de que la conducción del tren de viajeros número 2506 no se realizó plenamente de acuerdo con las instrucciones por escrito (Capítulo 3.1.7.), el paso del tren de viajeros número 2506 debido a la activación de la conducción mediante el botón de mandato sobre las señales espaciales 6222 y
+El factor causal del accidente grave en cuestión fue que la conducción del tren de pasajeros número 2506 no se realizó íntegramente de conformidad con las instrucciones escritas (Capítulo 3.1.7.), el paso del tren de pasajeros número 2506 debido a la activación del botón de conducción por orden sobre las señales espaciales 6222 y
 
 AIN/O6-FR-01 Página: 8/56
 
@@ -1377,57 +1377,61 @@ AIN/O6-FR-01 Página: 33/56
 
 ## Página 34
 
-EN AÉREO, MARÍTIMO |
-
-= AGENCIA PARA LA INVESTIGACIÓN DE ACCIDENTES
-Y TRÁFICO FERROVIARIO 09 de septiembre de 2022, Okučani
+AGENCIA DE INVESTIGACIÓN DE ACCIDENTES
+DE TRANSPORTE AÉREO, MARÍTIMO
+Y FERROVIARIO 09.09.2022., Okučani
 
 HŽ Infrastruktura d.o.o. SE-1
-Orden de circulación del tren número: 2606 = / 09.09.2022
+Orden de circulación del tren n.º: 2606 = / 09.09.2022
 
 Desde la estación: Vinkovci Hasta la estación: Novska
-
 Estación que emite la orden: = Vinkovci
-Fecha y hora de emisión de la orden: 09.09.2022
+Fecha de emisión de la orden: 09.09.2022
 
-Notificaciones al maquinista:
+Avisos a los maquinistas:
 
-Entre la estación de Vinkovci y la estación de Ivankovo, desde el pk 157+250 hasta el pk 157+300, hay conducción lenta a 20 km/h.
+Entre la estación Vinkovci y la estación Ivankovo desde km 157+250 hasta km 157+300 hay
+circulación lenta a 20 km/h.
 
-entre la estación de Vinkovci y la estación de Ivankovo, desde el pk 165+125 hasta el pk 165+145, hay conducción lenta a 50 km/h.
+entre la estación Vinkovci y la estación Ivankovo desde km 165+125 hasta km 165+145 hay
+circulación lenta a 50 km/h.
 
-Entre la estación de Garčin y la estación de Slavonski Brod, desde el pk 216+130 hasta el pk 215+180, hay conducción lenta a 50 km/h.
+Entre la estación Garčin y la estación Slavonski Brod desde km 216+130 hasta km 215+180 hay
+circulación lenta a 50 km/h.
 
-ta eia Sibinj y la estación de Oriovac, desde el pk 235+000 hasta el pk 238+000, hay conducción lenta a
+ta eia Sibinj y la estación Oriovac desde km 235+000 hasta km 238+000 hay circulación lenta
 m/h.
 
-En la estación de Oriovac, desde el pk 241+000 hasta el pk 242+000, hay conducción lenta a 50 km/h.
+En la estación Oriovac desde km 241+000 hasta km 242+000 hay circulación lenta a 50 km/h.
 
-Entre la estación de Staro Petrovo Selo y la estación de Nova Gradiška, desde el pk 267+400 hasta el pk
-272+100, hay conducción lenta a 50 km/h.
+Entre la estación Staro Petrovo Selo y la estación Nova Gradiška desde km 267+400 hasta km
+272+100 hay circulación lenta a 50 km/h.
 
-Entre la estación de Nova Gradiška y la estación de Okučani, desde el pk 281+800 hasta el pk 284+000, hay
-conducción lenta a 50 km/h.
+Entre la estación Nova Gradiška y la estación Okučani desde km 281+800 hasta km 284+000 hay
+circulación lenta a 50 km/h.
 
-Entre la estación de Okućani y la estación de Novska, desde el pk 290+000 hasta el pk 291+400, hay conducción
-lenta a 70 km/h.
+Entre la estación Okućani y la estación Novska desde km 290+000 hasta km 291+400 hay
+circulación lenta a 70 km/h.
 
-Entre la estación de Okučani y la estación de Novska, desde el pk 297+200 hasta el pk 302+200, hay conducción
-lenta a 70 km/h.
+Entre la estación Okučani y la estación Novska desde km 297+200 hasta km 302+200 hay
+circulación lenta a 70 km/h.
 
 Fin
 
-Imagen 11. - Documento SE-1, Orden de circulación del tren de pasajeros 2506 (fuente de la imagen: HŽI)
+Figura 11. - Documento SE-1, Orden de circulación del tren de pasajeros 2506 (fuente de la
+imagen: HŽI)
 
-Entre las notificaciones anteriormente mencionadas, se incluyen también dos notificaciones relacionadas con la conducción lenta
-en el tramo de vía entre las estaciones de Okučani y Novska (desde el pk 290+000 hasta el pk 291+400, conducción lenta
-a 70 km/h, tramo de vía que precedía al lugar del impacto, y desde el pk 297+200 hasta el pk 302+200, conducción lenta a 70
-km/h), el lugar del impacto se encuentra en la posición pk 294+485. Desde la estación de Vinkovci con salida a las 18:36 horas,
-el maquinista pasa y se detiene en doce estaciones, y llega a la estación de Okučane a las 21:20 horas en la vía 1.
-del vídeo de la estación se observa la llegada del tren, la salida de los pasajeros, y la llegada del jefe de estación
-de Okučani a la cabina de la locomotora y la entrega del documento SE-3 (Imagen 12., Orden escrita bajo
-el número 50, el cual está firmado a mano por el maquinista), tras transcurrir algo menos de un minuto
-se pone en marcha el tren de pasajeros 2506 en dirección a la estación de Novska.
+Entre los avisos anteriormente indicados se indicaron también dos avisos relacionados con la
+circulación lenta en el tramo de la vía entre las estaciones Okučani y Novska (desde KM 290+000
+hasta KM 291+400 circulación lenta a 70 km/h, tramo de vía que precedía al lugar de la colisión y
+desde KM 297+200 hasta KM 302+200 circulación lenta a 70 km/h), el lugar de la colisión se
+encuentra en la posición KM 294+485. Desde la estación Vinkovci con salida a las 18:36 horas el
+maquinista pasa y se detiene en doce estaciones, y llega a la estación Okučane a las 21:20 horas
+en el 1.º vía, en la grabación de vídeo de la estación se ve la llegada del tren, la salida de los
+pasajeros, así como la llegada del agente de la estación Okučani a la cabina de mando de la
+locomotora y la entrega del documento SE-3 (Figura 12., Orden escrito con el n.º 50, el mismo
+está firmado manuscritamente por el maquinista), tras transcurrir algo menos de un minuto se pone
+en marcha el tren de pasajeros 2506 en dirección a la estación Novska.
 
 AIN/O6-FR-01 Página: 34/56
 
@@ -1797,34 +1801,34 @@ AIN/O6-FR-01 Página: 41/56
 
 ## Página 42
 
-EN AIRE, MARÍTIMO |
+EN EL AÉREO, MARITIMO |
 
-= AGENCIA PARA LA INVESTIGACIÓN DE ACCIDENTES
-FERROVIARIOS 09 de septiembre de 2022, Okučani
+= AGENCIA DE INVESTIGACIÓN DE ACCIDENTES
+DEL TRÁNSITO FERROVIARIO 09 de septiembre de 2022., Okučani
 
-la cabeza del tren (cabina de conducción) se encontraba a una distancia de 20 m de la señal espacial 6122 en el sentido de circulación, cuando
-se produjo el RESET del sistema SS y la caída de todas las señales a ROJO.
+la cabeza del tren (cabina de conducción) se encontraba a una distancia de 20 m de la señal espacial 6122 en el sentido de la marcha, cuando
+se produjo un REINICIO del sistema SS y la caída de todas las señales a ROJO.
 
 Contador de ejes
 
-Imagen 15. - Señal espacial 6122 posiciones del equipo (contador de ejes) (fuente de la imagen: HŽI)
+Figura 15. - Señal espacial 6122 posiciones del equipamiento (contador de ejes) (fuente de la imagen: HŽI)
 
-En vista de lo anteriormente expuesto, los investigadores de la AIN adoptarán la postura de que los estados de las señales espaciales
-durante la circulación del tren de pasajeros fueron los siguientes:
-- — Señal de salida de Okučani, marca D2b en ROJO (conforme al documento SE-3)
-- Señal, marca 6122 en VERDE (circulación conforme a la normativa)
-- — Señal, marca 6222 en ROJO (circulación contraria a la normativa)
-- Señal, marca 6322 en ROJO (circulación contraria a la normativa), tras 383 m se produce el
-choque contra el tren de mercancías.
+Atendiendo a lo anteriormente expuesto, los investigadores de la AIN se regirán por el criterio de que los estados de las señales espaciales
+durante la marcha del tren de pasajeros fueron los siguientes:
+- — Señal de salida de Okučani de indicación D2b en ROJO (conforme al documento SE-3)
+- Señal de indicación 6122 en VERDE (marcha conforme a la normativa)
+- — Señal de indicación 6222 en ROJO (marcha contraria a la normativa)
+- Señal de indicación 6322 en ROJO (marcha contraria a la normativa), a los 383 m se encuentra
+con el choque contra un tren de mercancías.
 
-Reglamento sobre el modo y las condiciones para la circulación segura y la gestión del tráfico ferroviario NN 107/2016
+Reglamento sobre la forma y las condiciones para la realización y gestión seguras del tránsito ferroviario NN 107/2016
 
-Derecho de viaje en la cabina de conducción de la locomotora
+Derecho de circulación en la cabina de conducción de la unidad de tracción
 Artículo 92.
-(1) En la cabina de conducción de la locomotora o del vagón de mando, además del maquinista, solo podrán viajar
-los trabajadores ferroviarios ejecutivos y otras personas previstas en este artículo, así como las personas que dispongan de autorización por escrito.
+(1) En la cabina de conducción de la unidad de tracción o del vagón de conducción, además del maquinista, solo podrán viajar los
+trabajadores ferroviarios ejecutivos y otras personas previstas en este artículo, así como las personas que dispongan de un permiso por escrito.
 
-Información al personal del tren sobre el tráfico de trenes y las medidas de seguridad
+Información al personal del tren sobre la circulación de trenes y las medidas de seguridad
 
 AlIN/O6-FR-01 Página: 42/56
 
@@ -2334,31 +2338,32 @@ AIN/O6-FR-01 Página: 54/56
 
 ## Página 55
 
-AGENCIA DE INVESTIGACIÓN DE ACCIDENTES DE TRÁNSITO AÉREO, MARÍTIMO Y FERROVIARIO |
+EN EL AÉREO, MARÍTIMO |
 
-= AGENCIA DE INVESTIGACIÓN DE ACCIDENTES DE TRÁNSITO FERROVIARIO 09 de septiembre de 2022, Okučani
+= AGENCIA DE INVESTIGACIÓN DE ACCIDENTES
+DEL TRANSPORTE FERROVIARIO 09 de septiembre de 2022., Okučani
 
 6. RECOMENDACIONES DE SEGURIDAD
 
 Recomendaciones de seguridad
 
-La Agencia de Investigación de Accidentes de Tránsito Aéreo, Marítimo y Ferroviario, con base en la investigación llevada a cabo de este accidente, con el fin de aumentar la seguridad del sistema ferroviario, emite a la Agencia de Seguridad del Tránsito Ferroviario las siguientes recomendaciones de seguridad:
+La Agencia de Investigación de Accidentes del transporte aéreo, marítimo y ferroviario, con base en la investigación realizada sobre este accidente, con el fin de aumentar la seguridad del sistema ferroviario, emite a la Agencia de Seguridad del Tráfico Ferroviario las siguientes recomendaciones de seguridad:
 
-AIN/06-SR-01/2023: Todos los vehículos ferroviarios de tracción que circulen por la red de vías de la República de Croacia deberían estar equipados con dispositivos de registro digital de la velocidad de circulación en el momento de la primera modernización o reparación periódica, y como muy tarde hasta el 01 de julio de 2027.
+AIN/06-SR-01/2023: Todos los vehículos ferroviarios de tracción que circulen en la red de vías de la República de Croacia deberían estar equipados con dispositivos de registro digital de la velocidad de circulación durante la primera modernización o reparación ordinaria, y a más tardar el 01 de julio de 2027.
 
-AIN/06-SR-02/2023: Todos los vehículos ferroviarios de tracción que participen en el transporte de viajeros y que circulen por la red de vías de la República de Croacia deberían estar equipados con dispositivos de grabación de vídeo de la conducción del tren en el momento de la primera modernización o reparación periódica, y como muy tarde hasta el 01 de julio de 2027.
+AIN/06-SR-02/2023: Todos los vehículos ferroviarios de tracción que participen en el transporte de pasajeros y circulen en la red de vías de la República de Croacia deberían estar equipados con dispositivos de registro de vídeo de la conducción del tren durante la primera modernización o reparación ordinaria, y a más tardar el 01 de julio de 2027.
 
-AIN/06-SR-03/2023: El transportista ferroviario implicado, HŽPP, debería incluir en el contenido de la formación profesional de los maquinistas una mayor atención sobre los peligros de la circulación del tren junto a señales que prohíben la circulación ulterior, así como una mayor atención a la aplicación obligatoria de las disposiciones del Reglamento sobre señales, signos de señalización y marcas de señalización en el tráfico ferroviario (NN 94/15) y del Reglamento sobre el modo y las condiciones para el desarrollo y la gestión seguros del tráfico ferroviario (NN 107/16).
+AIN/06-SR-03/2023: El operador ferroviario implicado, HŽPP, debería incluir en el contenido de la formación profesional de los maquinistas una mayor atención sobre el peligro de paso del tren junto a señales que prohíben la continuación de la marcha, así como una mayor atención para la aplicación obligatoria de las disposiciones del Reglamento sobre señales, signos de señalización e indicaciones de señalización en el tráfico ferroviario (NN 94/15) y del Reglamento sobre el modo y las condiciones para la realización y gestión seguras del tráfico ferroviario (NN 107/16).
 
-AIN/06-SR-04/2023: El transportista ferroviario implicado, HŽPP, debería revisar su propio sistema de gestión de la seguridad, en lo que respecta a los procedimientos de trabajo de los maquinistas.
+AIN/06-SR-04/2023: El operador ferroviario implicado, HŽPP, debería revisar su propio sistema de gestión de seguridad, en lo que respecta a los procedimientos de trabajo de los maquinistas.
 
-AIN/06-SR-05/2023: Los transportistas ferroviarios en el territorio de la República de Croacia están obligados a realizar mensualmente una vez la sincronización del tiempo de la grabación de vídeo de la conducción del tren y de los dispositivos de registro digital de la velocidad de circulación.
+AIN/06-SR-05/2023: Los operadores ferroviarios en el territorio de la RH están obligados a realizar regularmente, una vez al mes, la sincronización de la hora del registro de vídeo de la conducción del tren y del dispositivo de registro digital de la velocidad de circulación.
 
-AIN/06-SR-06/2023: El gestor de la infraestructura, HŽI, está obligado a realizar mensualmente una vez la sincronización del tiempo en los dispositivos que registran los datos.
+AIN/06-SR-06/2023: El gestor de infraestructura, HŽI, está obligado a realizar regularmente, una vez al mes, la sincronización de la hora en los dispositivos que registran datos.
 
-AIN/06-SR-07/2023: En todos los vehículos ferroviarios de tracción que circulen por el territorio de las vías férreas de la República de Croacia, en los casos de circulación por mandato, al pasar sobre una baliza, el equipo de AS instalado en los vehículos debería limitar la velocidad de circulación a Vmax= 40 km/h, y la circulación hasta la siguiente señal espacial se limita a Vmax=30 km/h. En el caso de que el equipo de AS actualmente instalado no pueda cumplir los requisitos anteriormente mencionados, se concede un plazo como muy tarde hasta el 01 de julio de 2025 para adaptar los vehículos a los requisitos solicitados.
+AIN/06-SR-07/2023: En todos los vehículos ferroviarios de tracción que circulen por el territorio de las vías férreas de la RH, en los casos de conducción por orden al cruzar un baliz, el equipo AS instalado en los vehículos debería limitar la velocidad de circulación a Vmax= 40 km/h, y la conducción hasta la siguiente señal espacial se limita a Vmax=30 km/h. En el caso de que el equipo AS actualmente instalado no pueda cumplir los requisitos anteriormente mencionados, se concede un plazo a más tardar el 01 de julio de 2025 para que los vehículos se adapten a los requisitos solicitados.
 
-AIN/06-SR-08/2023: El gestor de la infraestructura, HŽI, debería mejorar el control de los dispositivos SS de conformidad con las disposiciones del Reglamento sobre el mantenimiento de los dispositivos SS (HŽI-400) y de las Instrucciones sobre el procedimiento de los trabajadores de los servicios ejecutivos con dispositivos SS y de telecomunicaciones (HŽI-432).
+AIN/06-SR-08/2023: El gestor de infraestructura, HŽI, debería mejorar la supervisión de los dispositivos SS de conformidad con las disposiciones del Reglamento sobre el mantenimiento de los dispositivos SS (HŽI-400) y de la Instrucción sobre el procedimiento del personal de los servicios ejecutivos con los dispositivos SS y de telecomunicaciones (HŽI-432).
 
 AIN/O6-FR-01 Página: 55/56
 

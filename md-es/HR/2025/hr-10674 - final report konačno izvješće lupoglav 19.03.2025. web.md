@@ -12,8 +12,8 @@ tokens_in: 45475
 tokens_out: 31354
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-verificacion: revisar
-avisos: ["página 12: ratio 1.69", "página 35: ratio 2.24", "página 37: ratio 1.63"]
+verificacion: ok
+notas_cifras: ["página 5: original bilingüe: se compara contra el idioma principal (HR)", "página 8: cifras cortas: 1/25", "página 12: original bilingüe: se compara contra el idioma principal (ES)", "página 15: cifras largas: 2/16", "página 28: cifras largas: 2/17", "página 31: cifras cortas: 7/36"]
 ---
 
 ## Página 1
@@ -271,46 +271,46 @@ Lista de actos jurídicos, leyes nacionales y actos sublegislativos, así como i
 ## Página 12
 
 - 
-REGALAMENTO DI ESECUZIONE (UE) n. 402/2013 DELLA COMMISSIONE del 30 aprile 2013 recante metodo di sicurezza comune per la valutazione e la stima dei rischi e che abroga il Regolamento (CE) n. 352/2009,  
+Reglamento de Ejecución (UE) n.º 402/2013 de la Comisión, de 30 de abril de 2013, relativo al método común de seguridad para la evaluación y la estimación del riesgo y por el que se deroga el Reglamento (CE) n.º 352/2009,  
 - 
-REGOLAMENTO DELEGATO (UE) 2018/761 DELLA COMMISSIONE del 16 febbraio 2018 che stabilisce metodi di sicurezza comuni per il controllo esercitato dalle autorità nazionali competenti per la sicurezza dopo il rilascio di un certificato di sicurezza unico o di un attestato di sicurezza ai sensi della direttiva (UE) 2016/798 del Parlamento europeo e del Consiglio e che abroga il regolamento (UE) n. 1077/2012 della Commissione,  
+Reglamento Delegado (UE) 2018/761 de la Comisión, de 16 de febrero de 2018, por el que se establecen métodos comunes de seguridad para la supervisión realizada por las autoridades nacionales competentes en materia de seguridad tras la expedición del certificado único de seguridad o de la declaración de seguridad de conformidad con la Directiva (UE) 2016/798 del Parlamento Europeo y del Consejo, y por el que se deroga el Reglamento (UE) n.º 1077/2012 de la Comisión,  
 - 
-REGOLAMENTO DI ESECUZIONE (UE) 2015/1136 DELLA COMMISSIONE del 13 luglio 2015 che modifica il regolamento di esecuzione (UE) n. 402/2013 recante metodo di sicurezza comune per la valutazione e la stima dei rischi,  
+Reglamento de Ejecución (UE) 2015/1136 de la Comisión, de 13 de julio de 2015, por el que se modifica el Reglamento de Ejecución (UE) n.º 402/2013 relativo al método común de seguridad para la evaluación y la estimación del riesgo,  
 - 
-Regolamento (UE) 2016/679 del Parlamento europeo e del Consiglio del 27 aprile 2016 relativo alla protezione delle persone fisiche con riguardo al trattamento dei dati personali, nonché alla libera circolazione di tali dati e che abroga la direttiva 95/46/CE (regolamento generale sulla protezione dei dati) (GU L 119 del 4.5.2016, pag. 1),  
+Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016, relativo a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos y por el que se deroga la Directiva 95/46/CE (Reglamento general de protección de datos) (DO L 119 4.5.2016, 1),  
 - 
-Regolamento (UE) n. 1169/2010 della Commissione del 10 dicembre 2010 recante metodo di sicurezza comune per la valutazione della conformità ai requisiti per il rilascio della decisione di sicurezza per la gestione dell'infrastruttura ferroviaria (GU L 327 del 11.12.2010, pagg. 13–25),  
-b) leggi nazionali e atti normativi secondari  
+Reglamento (UE) n.º 1169/2010 de la Comisión, de 10 de diciembre de 2010, relativo al método común de seguridad para la evaluación de la conformidad con los requisitos para la obtención de resoluciones de seguridad para la gestión de la infraestructura ferroviaria (DO L 327, 11.12.2010, 13–25), 
+b) leyes nacionales y actos sublegales 
 - 
-Legge sulla sicurezza e interoperabilità del sistema ferroviario («Gazzetta ufficiale», n. 63/20),  
-c) disposizioni interne delle imprese di trasporto ferroviario  
+Ley sobre la seguridad y la interoperabilidad del sistema ferroviario («Narodne novine», número 63/20), 
+c) instrucciones internas de los operadores ferroviarios 
 - 
-Regolamento sull'organizzazione del sistema di gestione della sicurezza in HŽPP d.o.o.,  
+Reglamento sobre la organización del sistema de gestión de la seguridad en HŽPP d.o.o., 
 - 
-Politica di sicurezza di HŽPP d.o.o.,  
+Política de seguridad de HŽPP d.o.o., 
 - 
-Piano operativo per l'attuazione della politica di sicurezza per HŽPP d.o.o.,  
+Plan operativo de aplicación de la política de seguridad para HŽPP d.o.o., 
 - 
-Istruzione sulle procedure in caso di evento straordinario in HŽPP d.o.o.,  
+Instrucción sobre los procedimientos en caso de suceso excepcional en HŽPP d.o.o., 
 - 
-Regolamento sulla formazione, l'istruzione e la verifica delle conoscenze dei macchinisti in HŽPP d.o.o.,  
+Reglamento sobre la formación, la enseñanza y la verificación de conocimientos de los maquinistas en HŽPP d.o.o., 
 - 
-Regolamento sul lavoro del centro di formazione dei macchinisti in HŽPP d.o.o.,  
+Reglamento sobre el funcionamiento del centro de formación de maquinistas en HŽPP d.o.o., 
 - 
-Istruzione per la manutenzione delle locomotive di proprietà di HŽPP d.o.o. (Gazz. uff. HŽPP 28/23),  
+Instrucción para el mantenimiento de los vehículos de tracción en propiedad de HŽPP d.o.o. (Sl. vj. HŽPP 28/23), 
 - 
-Istruzione sulle I. Modifiche e integrazioni dell'Istruzione per la manutenzione delle locomotive di proprietà di HŽ Putnički prijevoz d.o.o. (Gazz. uff. HŽPP 28/23),  
+Instrucción sobre las I.ª Modificaciones y Adiciones a la Instrucción para el mantenimiento de los vehículos de tracción en propiedad de HŽ Putnički prijevoz d.o.o. (Sl. vj. HŽPP 28/23), 
 - 
-Istruzione sulla valutazione, la stima, la gestione e il monitoraggio dei rischi con l'elenco e la categorizzazione dei pericoli legati alla sicurezza del traffico ferroviario nella società HŽ Putnički prijevoz d.o.o. (Gazz. uff. HŽPP 10/24),  
+Instrucción sobre la evaluación, la estimación, la gestión y el seguimiento del riesgo, con la lista y categorización de los peligros relacionados con la seguridad del tráfico ferroviario en la sociedad HŽ Putnički prijevoz d.o.o. (Sl. vj. HŽPP 10/24), 
 - 
-Regolamento sulla protezione antincendio (Gazz. uff. HŽPP 1/15).  
-d) disposizioni interne del gestore dell'infrastruttura  
+Reglamento de protección contra incendios (Sl. vj. HŽPP 1/15). 
+d) instrucciones internas del gestor de infraestructura 
 - 
-REGOLAMENTO DEL TRAFFICO (Regolamento HŽI-2),  
+REGLAMENTO DE TRÁFICO (Reglamento HŽI-2), 
 - 
-Regolamento sulla gestione in caso di evento straordinario (HŽI-631),  
+Reglamento sobre los procedimientos en caso de suceso excepcional (HŽI-631), 
 - 
-Manuale sull'organizzazione e l'applicazione del sistema di gestione della sicurezza (HŽI-663),
+Manual sobre la organización y la aplicación del sistema de gestión de la seguridad (HŽI-663),
 
 ## Página 13
 
@@ -700,25 +700,39 @@ El maquinista y el revisor del tren número 4706 actuaron de acuerdo con el proc
 
 ## Página 35
 
-Tras la revisión de accidentes anteriores y similares de incendio con causas determinadas de incendio proporcionadas por el transportista, se observa que, de un total de 22 incendios, 8 incendios correspondían a la serie de trenes 7122, y de estos, 6 incendios se produjeron en el espacio donde se encuentra alojado el motor diésel de tracción, 1 incendio estaba relacionado con el sistema de escape del motor diésel de tracción y 1 incendio se refería al transmisor del vehículo.
-
-Además, durante la elaboración del presente informe se produjo otro incendio en un tren motor diésel de pasajeros de la serie 7121 (tren n.º 6324) en el espacio del motor de tracción. El accidente ocurrió el 8 de febrero de 2026 a las 20:08 horas, en el tramo de vía M302 entre las estaciones de Osijek y Đakovo, en el pk 016+072. En el momento del estallido del incendio, a bordo del tren se encontraban aproximadamente 100 pasajeros, quienes fueron evacuados del tren a tiempo. En el tren, en el espacio del motor de tracción, se activó el sistema contra incendios para la extinción de incendios, y el maquinista y el conductor del tren, con la ayuda de los extintores de incendios, extinguieron el incendio hasta el final. En el mencionado accidente no hubo víctimas mortales ni heridos, y se produjeron daños materiales menores en el tren.
-
-Los accidentes anteriores y este accidente de incendio en el tren motor diésel (DMV) pueden, bajo circunstancias ligeramente diferentes, dar lugar a accidentes graves, por lo que es fundamental abordar la implementación de las recomendaciones de seguridad según los plazos indicados.
-
+Del examen de accidentes de incendio anteriores y similares con las causas de incendio determinadas facilitadas por el
+transportista se observa que, de un total de 22 incendios, 8 incendios correspondían a la serie de trenes 7122, y de
+ellos 6 incendios se produjeron en el espacio donde está instalado el motor diésel de propulsión, 1 incendio estaba
+relacionado con el sistema de escape del motor diésel de propulsión, 1 incendio que correspondía a la transmisión del
+vehículo.
+Asimismo, durante la redacción de este informe se produjo otro incendio en un tren diésel de pasajeros de la serie
+7121 (tren n.º 6324) en el espacio del motor de propulsión. El accidente se produjo el día 08 de febrero de
+2026 a las 20:08 horas, en el tramo de la línea M302 entre las estaciones de Osijek y Đakovo, en el km 016+072. En
+el momento del inicio del incendio en el tren se encontraban aproximadamente 100 pasajeros, que fueron evacuados
+del tren a tiempo. En el tren, en el espacio del motor de propulsión, se activó el sistema de extinción de incendios,
+y el maquinista y el revisor del tren, con la ayuda de los extintores, extinguieron el incendio por completo. En el
+mencionado accidente no hubo fallecidos ni heridos, y se produjo un daño material menor en el tren.
+Los accidentes anteriores y este accidente de incendio en el DMV pueden, en circunstancias ligeramente diferentes,
+conducir a accidentes graves, por lo que es extremadamente importante abordar la implementación de las
+recomendaciones de seguridad en los plazos indicados.
 ### 5.2. Medidas adoptadas desde entonces
-
-El tren motor diésel número 95 78 7122 033-2 fue remolcado tras el accidente a un taller autorizado de TSŽV, Unidad Regional Noroeste de Varaždin.
-
+El tren diésel de motor número 95 78 7122 033-2, tras el accidente, fue remolcado al taller autorizado TSŽV,
+Unidad Regional Noroeste Varaždin.
 ### 5.3. Consideraciones adicionales
-
 No tenemos consideraciones adicionales.
-
 ### CONCLUSIONES
-
-5.1. Resumen del análisis y las conclusiones en relación con las causas del suceso
-
-El factor causal de este accidente fue el aislamiento térmico dañado en el sistema de escape del motor diésel de tracción de la serie 7122, lo que provocó calor y la posterior ignición de materiales combustibles, mientras que el factor contribuyente fue la presencia de grasa mezclada con polvo en los componentes de tracción situados bajo el suelo. Los factores sistémicos identificados se refieren a la falta de descripción y periodicidad definida para la inspección del sistema de escape completo de los motores diésel "A" y "B" dentro de las "Instrucciones para el mantenimiento de vehículos de tracción propiedad de HŽPP d.o.o.", la ausencia de identificación y evaluación de los riesgos que puedan afectar a la seguridad ferroviaria, así como la falta de medidas correspondientes en el Anexo 2 Lista y categorización de los riesgos derivados del sistema de mantenimiento de vehículos ferroviarios para la parte C Mantenimiento de trenes motores diésel y trenes motores eléctricos, la implementación incompleta de medidas adicionales acordadas el 14 de diciembre de 2020 entre la Empresa Ferroviaria y la Entidad Responsable del Mantenimiento para mejorar la calidad del mantenimiento y la prevención de incendios en los vehículos de tracción.
+5.1. Resumen del análisis y las conclusiones respecto a las causas del suceso
+El factor causal de este accidente fue el aislamiento térmico dañado en el sistema de escape del motor diésel de
+propulsión de la serie 7122, lo que provocó el calor y la posterior ignición de materiales combustibles, mientras que
+el factor contribuyente fue la presencia de grasa mezclada con polvo en los componentes de propulsión bajo el
+suelo. Los factores sistémicos identificados se relacionan con la falta de descripción y periodicidad definida para la
+inspección del sistema de escape completo de los motores diésel "A" y "B" en las "Instrucciones para el mantenimiento
+de vehículos de tracción propiedad de HŽPP d.o.o.", la ausencia de identificación y evaluación de riesgos que puedan
+afectar a la seguridad ferroviaria, así como la falta de medidas correspondientes en el Anexo 2 Lista y
+categorización de riesgos derivados del sistema de mantenimiento de vehículos ferroviarios para la parte C
+Mantenimiento de trenes diésel múltiples y trenes eléctricos múltiples, la implementación incompleta de medidas
+adicionales acordadas el 14 de diciembre de 2020 entre la Empresa Ferroviaria y la Entidad Responsable del
+Mantenimiento para mejorar la calidad del mantenimiento y la prevención de incendios en los vehículos de tracción.
 
 ## Página 36
 
@@ -738,14 +752,14 @@ AIN/06-SR-02/2026: La Empresa Ferroviaria involucrada, en colaboración con el M
 
 ## Página 37
 
-AIN/06-SR-03/2026: La empresa ferroviaria implicada, en colaboración con el mantenedor autorizado de material rodante, debería, en un plazo de 3 meses, examinar todos los vehículos de las series 7121 y 7122 para determinar si están equipados con un aparato automático de extinción de incendios de tipo tubular en el compartimento del motor, y, en caso de que no lo estén, instalarlos en un plazo de 12 meses. En la serie 7122, el mismo aparato debe instalarse en un plazo de 12 meses en el armario a través del cual pasa el sistema de escape del motor.
-AIN/06-SR-04/2026: La empresa ferroviaria implicada debería, en el Anexo 2. Lista y categorización de los riesgos derivados del sistema de mantenimiento de los vehículos ferroviarios, para la parte C. mantenimiento de trenes diésel y trenes eléctricos, evaluar e incluir los riesgos basados en las causas de incendio identificadas que puedan afectar a la seguridad del tráfico ferroviario, así como determinar las medidas necesarias.
+AIN/06-SR-03/2026: El ferrocarril implicado, en colaboración con el gestor de mantenimiento autorizado del vehículo, debería revisar en un plazo de 3 meses todos los vehículos de las series 7121 y 7122 para comprobar si están equipados con un aparato automático de extinción de incendios de tipo tubular en el compartimento del motor y, en caso de no estarlo, instalarlos en un plazo de 12 meses. En la serie 7122, en un plazo de 12 meses, el mismo aparato debe instalarse en el armario por el que pasa el sistema de escape del motor.
+AIN/06-SR-04/2026: El ferrocarril implicado debería, en el Anexo 2. Lista y categorización de riesgos derivados del sistema de mantenimiento de vehículos ferroviarios, para la parte C. mantenimiento de trenes diésel y trenes eléctricos, evaluar e incluir el riesgo de acuerdo con las causas de incendio determinadas que puedan afectar a la seguridad del tráfico ferroviario, así como establecer las medidas necesarias.
 ### RECOMENDACIONES DE SEGURIDAD
-La Agencia de Investigación de Accidentes de Tráfico Aéreo, Marítimo y Ferroviario, basándose en la investigación llevada a cabo de este accidente, con el fin de aumentar la seguridad del sistema ferroviario, dirige las siguientes recomendaciones de seguridad a la Agencia de Seguridad Ferroviaria:
-AIN/06-SR-01/2026: La empresa ferroviaria implicada debería actualizar las "Instrucciones para el mantenimiento de los vehículos de tracción propiedad de HŽPP d.o.o." para las series de vehículos 7122 y 7121, con el fin de incluir una descripción detallada y la periodicidad para la inspección del sistema de escape completo de los motores diésel "A" y "B".
-AIN/06-SR-02/2026: La empresa ferroviaria implicada, en cooperación con la Entidad Autorizada a Cargo del Mantenimiento, debería inspeccionar todos los vehículos de las series 7121 y 7122 en un plazo de 3 meses para garantizar que están equipados con dos extintores de incendios adicionales; si se encuentran vehículos que carecen de ellos, deben equiparse inmediatamente.
-AIN/06-SR-03/2026: La empresa ferroviaria implicada, en cooperación con la Entidad Autorizada a Cargo del Mantenimiento, debería inspeccionar todos los vehículos de las series 7121 y 7122 en un plazo de 3 meses para determinar si están equipados con un sistema automático de extinción de incendios de tipo tubular en el compartimento del motor; en caso de que no lo estén, estos deben instalarse en un plazo de 12 meses. En la serie 7122, el mismo dispositivo debe instalarse en un plazo de 12 meses en el armario a través del cual pasa el sistema de escape del motor.
-AIN/06-SR-04/2026: La empresa ferroviaria implicada debería, en el Anexo 2. Lista y categorización de los riesgos derivados del sistema de mantenimiento de los vehículos ferroviarios, para la parte C, evaluar e incluir los riesgos basados en las causas de incendio identificadas que puedan afectar a la seguridad ferroviaria, así como determinar las medidas de mitigación necesarias.
+La Agencia de Investigación de Accidentes de Tráfico Aéreo, Marítimo y Ferroviario, con base en la investigación realizada de este accidente, con el fin de aumentar la seguridad del sistema ferroviario, dirige las siguientes recomendaciones de seguridad a la Agencia de Seguridad Ferroviaria:
+AIN/06-SR-01/2026: El ferrocarril implicado debería actualizar las "Instrucciones para el mantenimiento de vehículos de tracción propiedad de HŽPP d.o.o." para las series de vehículos 7122 y 7121, a fin de incluir una descripción detallada y la periodicidad de la inspección del sistema de escape completo de los motores diésel "A" y "B".
+AIN/06-SR-02/2026: El ferrocarril implicado, en colaboración con el gestor de mantenimiento autorizado del vehículo, debería revisar en un plazo de 3 meses todos los vehículos de las series 7121 y 7122 para asegurarse de que están equipados con dos extintores de incendios adicionales; si se detecta que algún vehículo carece de ellos, debe equiparse de inmediato.
+AIN/06-SR-03/2026: El ferrocarril implicado, en colaboración con el gestor de mantenimiento autorizado del vehículo, debería revisar en un plazo de 3 meses todos los vehículos de las series 7121 y 7122 para comprobar si están equipados con un aparato automático de extinción de incendios de tipo tubular en el compartimento del motor y, en caso de no estarlo, instalarlos en un plazo de 12 meses. En la serie 7122, en un plazo de 12 meses, el mismo aparato debe instalarse en el armario por el que pasa el sistema de escape del motor.
+AIN/06-SR-04/2026: El ferrocarril implicado debería, en el Anexo 2. Lista y categorización de riesgos derivados del sistema de mantenimiento de vehículos ferroviarios, para la parte C. mantenimiento de trenes diésel y trenes eléctricos, evaluar e incluir el riesgo de acuerdo con las causas de incendio determinadas que puedan afectar a la seguridad ferroviaria, así como establecer las medidas de mitigación necesarias.
 
 ## Página 38
 

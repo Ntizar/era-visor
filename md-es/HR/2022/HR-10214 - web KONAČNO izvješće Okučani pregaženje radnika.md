@@ -12,8 +12,8 @@ tokens_in: 41374
 tokens_out: 26558
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-verificacion: revisar
-avisos: ["página 3: cifras largas: faltan 4/7 (57%)", "página 14: ratio 1.71", "página 32: ratio 1.78"]
+verificacion: ok
+notas_cifras: ["página 11: original bilingüe: se compara contra el idioma principal (HR)", "página 14: original bilingüe: se compara contra el idioma principal (HR)", "página 30: cifras cortas: 2/29", "página 31: cifras cortas: 2/17", "página 32: original bilingüe: se compara contra el idioma principal (HR)", "página 34: original bilingüe: se compara contra el idioma principal (EN)"]
 ---
 
 ## Página 1
@@ -51,19 +51,18 @@ El informe definitivo no podrá utilizarse como prueba en un procedimiento judic
 
 ## Página 3
 
-### Prefacio  
-La Agencia para la Investigación de Accidentes en el Tráfico Aéreo, Marítimo y Ferroviario (en lo sucesivo: AIN) fue creada por la Ley de Creación de la Agencia para la Investigación de Accidentes en el Tráfico Aéreo, Marítimo y Ferroviario (Diario Oficial de la República de Croacia, n.º 54/13, 96/18) como persona jurídica con poderes públicos. El fundador de la Agencia es la República de Croacia, y el ejercicio de los derechos de fundación corresponde al Gobierno de la República de Croacia.  
-En el ejercicio de las funciones de la Agencia se aplican disposiciones especiales, es decir, las leyes que regulan el tráfico aéreo, la marina mercante, así como la seguridad y la interoperabilidad del tráfico ferroviario, o las disposiciones adoptadas para su aplicación.  
-La Sección de Investigaciones de Accidentes Ferroviarios es una unidad organizativa autónoma e independiente de la AIN que realiza tareas técnicas relacionadas con las investigaciones de incidentes extraordinarios en el tráfico ferroviario en la red ferroviaria de la República de Croacia. Las investigaciones se llevan a cabo sobre la base de las disposiciones de la Ley sobre la Seguridad y la Interoperabilidad del Sistema Ferroviario (Diario Oficial de la República de Croacia, n.º 63/20) y de la Directiva (UE) 2016/798 del Parlamento Europeo y del Consejo, de 11 de mayo de 2016, relativa a la seguridad ferroviaria (revisión), así como sobre la base de las directrices de la Agencia Ferroviaria de la Unión Europea.  
-La AIN investiga todos los accidentes ferroviarios graves, es decir, todos los incidentes que impliquen colisión de trenes o descarrilamiento de trenes que tengan como consecuencia la muerte de al menos una persona o lesiones graves de cinco o más personas, o daños considerables a los vehículos, a la infraestructura ferroviaria o al medio ambiente, así como cualquier otro accidente similar con un impacto evidente en la seguridad del sistema ferroviario o en la gestión de la seguridad.  
-La AIN puede investigar también aquellos accidentes e incidentes que, bajo circunstancias ligeramente diferentes, podrían haber provocado accidentes graves, incluidas las averías técnicas de los subsistemas estructurales o de sus componentes.  
-La AIN realiza investigaciones de seguridad con el fin de prevenir accidentes, lo que incluye la recopilación y el análisis de datos, la elaboración de conclusiones, incluida la determinación de los factores y, cuando proceda, la elaboración de recomendaciones de seguridad para prevenir accidentes e incidentes en el futuro y mejorar la seguridad en el tráfico ferroviario.
+### Prefacio
+La Agencia de Investigación de Accidentes en el Tráfico Aéreo, Marítimo y Ferroviario (en lo sucesivo: AIN) fue creada por la Ley de Creación de la Agencia de Investigación de Accidentes en el Tráfico Aéreo, Marítimo y Ferroviario («Narodne novine», número 54/13, 96/18) como persona jurídica con competencias públicas. El fundador de la Agencia es la República de Croacia, y los derechos de fundación los ejerce el Gobierno de la República de Croacia. En la forma de realización de las actividades de la Agencia se aplican las disposiciones especiales, es decir, las leyes que regulan el tráfico aéreo, la marina, y la seguridad y la interoperabilidad del tráfico ferroviario, así como las disposiciones adoptadas para su aplicación.
+El Departamento de Investigación de Accidentes en el Tráfico Ferroviario es una unidad organizativa autónoma e independiente de la AIN que desempeña las funciones profesionales relacionadas con la investigación de sucesos extraordinarios en el tráfico ferroviario en la red ferroviaria de la República de Croacia. Las investigaciones se llevan a cabo con base en las disposiciones de la Ley sobre la Seguridad e Interoperabilidad del Sistema Ferroviario («Narodne novine», número 63/20) y de la Directiva (UE) 2016/798 del Parlamento Europeo y del Consejo de 11 de mayo de 2016 sobre la seguridad ferroviaria (recodificación), así como con base en las directrices de la Agencia Ferroviaria de la Unión Europea.
+La AIN investiga todos los accidentes ferroviarios graves, que son todos los sucesos que implican una colisión de trenes o el descarrilamiento de un tren que tenga como consecuencia la muerte de al menos una persona o lesiones graves a cinco o más personas, o daños importantes a los vehículos, a la infraestructura ferroviaria o al medio ambiente, así como cualquier otro accidente similar con una influencia evidente en la seguridad del sistema ferroviario o en la gestión de la seguridad.
+La AIN puede investigar también aquellos accidentes e incidentes que, en circunstancias ligeramente diferentes, podrían haber dado lugar a accidentes graves, incluidos los fallos técnicos en el funcionamiento de los subsistemas estructurales o de sus componentes.
+La AIN realiza investigaciones de seguridad con el fin de prevenir accidentes, lo que incluye la recopilación y el análisis de datos, la elaboración de conclusiones, incluida la determinación de factores y, cuando resulte apropiado, la formulación de recomendaciones de seguridad para prevenir accidentes e incidentes en el futuro y mejorar la seguridad en el tráfico ferroviario.
 
 |  | Nombre y apellidos | Puesto de trabajo | Fecha | Firma |
-|  | Elaborado por: | Sandra Lovrić | Investigadora responsable | 05.06.2023 . . . |  |
-|  | Revisado por: | Tomislav Antun Biber | Investigador principal | 05.06.2023 . . . |  |
-|  |  | Ivica Majdanđić | Investigador de accidentes | 05.06.2023 . . . |  |
-|  | Aprobado por: | Tomislav Antun Biber | Investigador principal | 05.06.2023 . . . |  |
+| Elaboró: | SandraLovrić | Investigadora responsable | 05062023 . . . |  |
+| Revisaron: | TomislavAntunBiber | Investigador principal | 05062023 . . . |  |
+|  | IvicaMajdanđić | Investigador de accidentes | 05062023 . . . |  |
+| Aprobó: | TomislavAntunBiber | Investigador principal | 05062023 . . . |  |
 
 ## Página 4
 
@@ -377,27 +376,20 @@ En el mencionado accidente participaron trabajadores ejecutivos de las sociedade
 ## Página 14
 
 Las personas implicadas fueron:
-- guardafrenos - patrullero (trabajador de HŽI),
-- maquinista del tren número 2011 (trabajador de HŽPP),
-- maquinista instructor del tren número 2011 (trabajador de HŽPP).
+- guardavía (operador de vía) (trabajador de HŽI),
+- maquinista del tren n.º 2011 (trabajador de HŽPP),
+- maquinista mentor del tren n.º 2011 (trabajador de HŽPP).
+3.1.7. Descripción e identificadores de los trenes y de su composición, incluidos los vehículos ferroviarios y sus números de registro
+El tren de pasajeros n.º 2011 (Figura 2.) estaba formado por un tren eléctrico de la serie 6112, número de identificación único 94 78 6112 013-9. Se trata de una composición de cuatro partes destinada a la circulación en el tráfico urbano-suburbano y regional. El tren consta de cuatro módulos:
+- módulo motriz extremo A/B con cabina de conducción (un extremo se apoya en el bogie motor giratorio y el otro en el bastidor intermedio portante en la unión de dos módulos),
+- módulo de pasajeros C1/C2 (se instala entre los módulos extremos con cabina de conducción y se apoya en dos bastidores intermedios en las uniones de dos módulos).
 
-3.1.7. Descripción e identificadores de los trenes y su composición, incluidos los vehículos ferroviarios y sus números de registro
-
-El tren de pasajeros número 2011 (Imagen 2.) estaba compuesto por un tren eléctrico múltiple (TEM) de la serie 6112, con el número de identificación único 94 78 6112 013-9. Se trata de una composición de cuatro unidades destinada al tráfico urbano-suburbano y regional. El tren consta de cuatro módulos:
-- Módulo de tracción extremo A/B con cabina de conducción (un extremo se apoya sobre el bogie motor y el otro sobre el bogie intermedio resistente en la unión entre dos módulos),
-- Módulo de pasajeros C1/C2 (se instala entre los módulos extremos con cabina de conducción y se apoya sobre dos bogies intermedios en las uniones entre dos módulos).
-
-### Imagen 2. – TEM 94 78 6112 013-9 (Fuente de la imagen: KONČAR - Električna vozila d.d.)
-
-El tren eléctrico múltiple de la serie 6112 fue fabricado por la empresa Končar - Električna vozila d.d. El sistema de alimentación eléctrica es de 25 kV, 50 Hz, y la disposición de ejes es Bo'2'2'2'Bo. La velocidad máxima que puede alcanzar el tren es de 160 km/h. La masa propia del TEM vacío es de 141 t, su longitud es de 75 000 mm y la anchura de la caja es de 2 885 mm. Cada módulo de tracción, en ambos lados exteriores de la cabina de conducción, tiene instalada una cámara de vídeo para el seguimiento de la entrada o salida de los pasajeros, así como para el estado exterior del TEM durante la circulación. En cada módulo también están instaladas dos cámaras de vigilancia interior.
-
-La Agencia de Seguridad del Transporte Ferroviario emitió el 25 de febrero de 2022 la resolución (CLASE: UP/I-341-06/22-05/09, NÚM. DE EXPEDIENTE: 387-05-22-2) mediante la cual se autoriza la puesta en el mercado de la red de la República de Croacia del vehículo ferroviario, el tren eléctrico múltiple de la serie 6112, con número de identificación único 94 78 6112 013-9, conforme a sus características técnicas y operativas, así como a su destino.
-
-De conformidad con el acta de recepción del TEM 94 78 6112 013-9 según el contrato número 7/14-PP, HŽPP recibió el 28 de febrero de 2022 el mencionado tren eléctrico múltile de Končar - Električna vozila d.d.
-
-Al tren eléctrico múltiple de la serie 6112, con número de identificación único 94 78 6112 013-9, se le realizó el 25 de marzo de 2022 una revisión de mantenimiento tras haber recorrido 8 067 km.
-
-Con base en los hechos y conclusiones anteriormente mencionados, realizados durante la inspección del lugar de la grave accidente, el tren eléctrico múltiple (Imagen 3.) estaba técnicamente en condiciones durante la circulación.
+### Figura 2. – Tren eléctrico 94 78 6112 013-9 (Fuente de la imagen: KONČAR - Električna vozila d.d.)
+El tren eléctrico de la serie 6112 fue fabricado por la empresa Končar - Električna vozila d.d. El sistema de suministro eléctrico es de 25 kV, 50 Hz, el esquema de ejes es Bo'2'2'2'Bo. La velocidad máxima que puede alcanzar el tren es de 160 km/h. La masa propia del tren eléctrico en vacío es de 141 t, su longitud es de 75000 mm, la anchura del cajón de 2885 mm. Cada módulo motriz tiene instalada, en ambos lados exteriores de la cabina de conducción, una cámara de vídeo para la supervisión de la entrada o salida de los pasajeros y, durante la circulación, del estado exterior del tren eléctrico. En cada módulo también están instaladas dos cámaras de vigilancia interior.
+La Agencia de Seguridad del Tráfico Ferroviario dictó el día 25 de febrero de 2022 una resolución (CLASE: UP/I-341-06/22-05/09, N.º DE REGISTRO: 387-05-22-2) por la que se autoriza la comercialización del vehículo en la red de la República de Croacia, del tren eléctrico de la serie 6112, número de identificación único 94 78 6112 013-9, de acuerdo con sus características técnicas y de explotación, así como con su finalidad.
+De conformidad con el acta de recepción del tren eléctrico 94 78 6112 013-9 en virtud del contrato n.º 7/14-PP, HŽPP recibió el día 28 de febrero de 2022 el mencionado tren eléctrico de Končar - Električna vozila d.d.
+Al tren eléctrico de la serie 6112, número de identificación único 94 78 6112 013-9, se le realizó el día 25 de marzo de 2022 una revisión de mantenimiento tras haber recorrido 8067 km.
+En virtud de los hechos y conclusiones anteriormente mencionados, obtenidos durante la inspección del lugar de la propia accidente grave, el tren eléctrico (Figura 3.) se encontraba técnicamente en buen estado durante la circulación.
 
 ## Página 15
 
@@ -685,18 +677,19 @@ A pesar de todo lo anterior, el guardafrenos/patrullero, durante la realización
 
 ## Página 32
 
-La realidad innegable es que el trabajo de guardavía – inspector de línea – es extremadamente difícil, peligroso y exigente, ya que el 95% del trabajo se realiza en el terreno, donde los trabajadores caminan por su cuenta, inspeccionan, vigilan y, si es posible, subsanan las irregularidades del estado del sistema ferroviario (todas las funciones enumeradas en el punto 4.1.1.) y, al mismo tiempo, deben cuidar de su propia seguridad. En ningún momento deben reducir la atención y la concentración, ya que cada segundo es importante y conlleva un posible peligro.  
-Es necesario centrarse de manera adecuada y eficaz en la diversidad de factores humanos y organizativos que pueden influir en la práctica laboral en el terreno, mejorar los propios procesos de seguimiento y supervisión, desarrollar un comportamiento seguro y mejorar la política de seguridad de la organización.  
+Hecho relevante adicional es que el trabajo del guardabarreras – ophodar es extremadamente difícil, peligroso y exigente, ya que el 95% del trabajo se realiza en el terreno, donde los trabajadores caminan por sí mismos e inspeccionan, observan y, si es posible, eliminan las irregularidades del estado del sistema ferroviario (todas las funciones indicadas en el punto 4.1.1.) y al mismo tiempo deben cuidar de su propia seguridad. En ningún segundo deben reducir la atención y la concentración, porque cada segundo es importante y significa un posible peligro. 
+Es necesario centrarse de manera adecuada y eficaz en la diversidad de factores humanos y organizativos que pueden influir en la práctica laboral en el terreno, mejorar sus procesos de seguimiento y supervisión, desarrollar un comportamiento seguro y mejorar la política de seguridad de la organización. 
 ### 5.2. Medidas adoptadas desde entonces  
-La Comisión de Investigación Conjunta IM y RU para la investigación del suceso extraordinario, tras la realización de la inspección ocular y la investigación ulterior, concluyó su trabajo mediante la emisión del Informe de Investigación n.º 30/22, de fecha 21.04.2022. Tras la inspección ocular realizada por la policía, la AIN, la inspección de protección en el trabajo, el juez instructor y el forense, el cuerpo de la persona fallecida fue trasladado a la sección de patología del Hospital General Dr. Ivan Perišić de Sisak. Durante la investigación del suceso extraordinario, en la vía adyacente se estableció una circulación reducida con una velocidad máxima de vmax=20 km/h.  
-Asimismo, en la 11.ª sesión extraordinaria del comité de protección en el trabajo de la Unidad de Trabajo Territorial para el mantenimiento del subsistema de infraestructura civil Este (HŽI), celebrada el 30.03.2022 en Vinkovci, se adoptaron los siguientes acuerdos:  
--  realizar una nueva formación en materia de protección en el trabajo por parte de los especialistas en protección en el trabajo para todos los guardavías – inspectores de línea de la Unidad de Trabajo Territorial para el mantenimiento del subsistema de infraestructura civil Este,  
--  realizar, además de las inspecciones periódicas, inspecciones extraordinarias para verificar si el trabajador se encuentra bajo la influencia de bebidas alcohólicas y otras sustancias adictivas.  
+La comisión de investigación conjunta IM y RU para la investigación del suceso extraordinario, tras la realización de la inspección ocular y la investigación posterior, concluyó su trabajo con la emisión del Informe de investigación n.º 30/22, con fecha del 21.04.2022. Tras la inspección ocular realizada por la policía, la AIN, la inspección de seguridad laboral, el juez de instrucción y el médico forense, el cuerpo de la víctima fue trasladado al servicio de patología del Hospital General dr. Ivan Perišić en Sisak. Durante la investigación del suceso extraordinario, se estableció una circulación ligera con vmax=20 km/h en la vía adyacente. 
+
+Asimismo, en la 11.ª sesión extraordinaria del comité de seguridad laboral de la Unidad de Trabajo Regional para el mantenimiento del subsistema de infraestructura de construcción Este (HŽI), celebrada el 30.03.2022 en Vinkovci, se adoptaron las siguientes conclusiones: 
+-  realizar la reciclificación en seguridad laboral por parte de especialistas en seguridad laboral para todos los guardabarreras – ophodar de la Unidad de Trabajo Regional para el mantenimiento del subsistema de infraestructura de construcción Este, 
+-  además de las revisiones ordinarias, realizar revisiones extraordinarias para comprobar si el trabajador está bajo la influencia de bebidas alcohólicas y otras sustancias adictivas. 
 ### 5.3. Consideraciones adicionales  
-No hay consideraciones adicionales.  
+No tenemos consideraciones adicionales. 
 ### CONCLUSIONES  
-5.1. Resumen del análisis y las conclusiones respecto a las causas del suceso  
-El guardavía es la posición de un trabajador ejecutivo en el sistema ferroviario, y está vinculado a la seguridad del sistema ferroviario, ya que garantiza la monitorización continua del estado del sistema ferroviario. El guardavía del accidente grave objeto de estudio, mientras realizaba el trabajo el 28 de marzo de 2022, llevaba puestos el equipo de protección y otro equipo de trabajo, tenía todas las cualificaciones, realizaba regularmente las formaciones y las pruebas de conocimientos, tenía un horario laboral regular y capacidad física. Además, llevaba ejerciendo este trabajo desde 2002, lo que significa que tenía las habilidades y la experiencia para el puesto mencionado. A pesar de todo lo anterior, el guardavía se encontraba dentro de la vía izquierda mientras realizaba su trabajo,
+5.1. Resumen del análisis y las conclusiones respecto a las causas de la ocurrencia 
+El guardabarreras es la posición de un trabajador ejecutivo en el sistema ferroviario, y está relacionada con la seguridad del sistema ferroviario porque garantiza la monitorización continua del estado del sistema ferroviario. El guardabarreras del grave accidente objeto de estudio, mientras realizaba el trabajo el 28 de marzo de 2022, llevaba puesto el equipo de protección y demás equipo de trabajo, tenía todas las cualificaciones, realizaba regularmente formaciones y pruebas de conocimientos, tenía horario de trabajo regular así como aptitud médica. Además, venía realizando este trabajo desde 2002, lo que significa que tenía las habilidades y la experiencia para dicha posición. A pesar de todo lo anterior, el guardabarreras se encontraba dentro de la vía izquierda mientras realizaba su trabajo,
 
 ## Página 33
 

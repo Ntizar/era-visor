@@ -12,8 +12,8 @@ tokens_in: 40404
 tokens_out: 22762
 fecha_proceso: 2026-11-18
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-verificacion: revisar
-avisos: ["página 8: cifras largas: faltan 1/3 (33%)"]
+verificacion: ok
+notas_cifras: ["página 4: original bilingüe: se compara contra el idioma principal (ES)", "página 10: original bilingüe: se compara contra el idioma principal (LV)", "página 11: original bilingüe: se compara contra el idioma principal (LV)", "página 15: original bilingüe: se compara contra el idioma principal (LV)", "página 20: original bilingüe: se compara contra el idioma principal (LV)", "página 22: original bilingüe: se compara contra el idioma principal (LV); cifras cortas: 1/11"]
 ---
 
 ## Página 1
@@ -159,25 +159,26 @@ Las recomendaciones de seguridad incluyen propuestas en las siguientes áreas:
 ## Página 8
 
 • 
-documentación de mantenimiento de las vías;  
+documentación de mantenimiento de la vía férrea;  
 • 
 equipamiento de los trenes de pasajeros. 
 ## 2. Investigación y su contexto 
-### 2.1. Decisión de realizar la investigación  
-La investigación se inició el 1 de diciembre de 2023, tras evaluar la Oficina de Investigación las circunstancias del accidente y teniendo en cuenta la gravedad del mismo.  
-### 2.2. Justificación de la decisión  
-La decisión de iniciar la investigación se adoptó basándose en el punto 23 del Reglamento del Consejo de Ministros n.º 334. 
+### 2.1. Decisión de proceder a la investigación  
+La investigación se inició el 1 de diciembre de 2023, tras evaluar el Oficio de Investigación las circunstancias del accidente y teniendo en cuenta la gravedad del mismo.  
+### 2.2. Fundamento de la decisión  
+La decisión de iniciar la investigación se adoptó con fundamento en el punto 23 de las disposiciones del CM n.º 334. 
 ### 2.3. Alcance y limitaciones de la investigación 
-Se realizó la investigación para determinar todas las causas y consecuencias del accidente de tráfico ferroviario y, asimismo, para formular, si fuera necesario, recomendaciones destinadas a prevenir accidentes similares de tráfico ferroviario. 
-En la adopción de sus decisiones, la Oficina de Investigación es independiente del gestor de la infraestructura ferroviaria, del transportista y del organismo de control y supervisión de la explotación técnica ferroviaria, así como del organismo responsable de establecer y recaudar las tasas por el uso de la infraestructura ferroviaria, de asignar la capacidad de la infraestructura ferroviaria o de ejercer la administración pública en el ámbito del transporte ferroviario, y de las personas cuyos intereses puedan entrar en conflicto con las funciones de la Oficina de Investigación. 
-El objetivo principal de la investigación es llevar a cabo una investigación técnica del accidente de tráfico ferroviario y prevenir accidentes similares, mejorando así la seguridad de la circulación en el transporte ferroviario. 
-### 2.4. Descripción resumida de las competencias técnicas y funciones del equipo investigador  
-La investigación fue realizada por Aleksandrs Dmitrijevs, investigador del Departamento de Investigación de Accidentes Ferroviarios de la Oficina de Investigación.  
-Los derechos de los investigadores están establecidos en el artículo 33¹ de la Ley del Ferrocarril.  
+La investigación se llevó a cabo para determinar todas las causas y consecuencias del accidente de tráfico ferroviario, así como, en caso necesario, formular recomendaciones para la prevención de accidentes ferroviarios similares. 
+El Oficio de Investigación es independiente en la adopción de sus decisiones respecto al gestor de la infraestructura ferroviaria, al transportista y a la institución de control y supervisión de la explotación técnica ferroviaria, así como respecto a la institución encargada de la fijación y recaudación de las tarifas de la infraestructura ferroviaria, la asignación de la capacidad de la infraestructura ferroviaria o la realización de la administración pública en el ámbito del transporte ferroviario, y respecto a las personas cuyos intereses puedan estar en conflicto con las funciones del Oficio de Investigación. 
+El objetivo principal de la investigación es realizar la investigación técnica del accidente de tráfico ferroviario y prevenir accidentes similares, mejorando así la seguridad de la circulación del transporte ferroviario. 
+### 2.4. Descripción resumida de las capacidades técnicas y funciones del grupo de investigadores 
+La investigación fue realizada por el investigador Aleksandrs Dmitrijevs de la Sección de Investigación de Accidentes Ferroviarios del Oficio de Investigación. 
+Las facultades de los investigadores están establecidas en el artículo 331 de la Ley de Ferrocarriles.  
 Durante la investigación se examinó la siguiente documentación: 
-• Documentación sobre el accidente preparada por el gestor de la infraestructura ferroviaria y
+ Documentación del accidente preparada por el gestor de la infraestructura ferroviaria y el transportista
 
 ## Página 9
+
 
 materiales de investigación;
 *   descripciones de puestos;
@@ -207,6 +208,7 @@ Durante la investigación se examinaron los sistemas de gestión de la seguridad
 
 ## Página 10
 
+
 descripciones de puestos y explicaciones de los empleados, instrucciones de protección laboral. Se utilizaron los siguientes métodos de investigación:
 *   examen del lugar del accidente;
 *   entrevistas al personal;
@@ -221,6 +223,7 @@ En el lugar del accidente, el investigador de la Oficina de Investigación conta
 Se envió a la Policía Estatal una comunicación oficial sobre el inicio de la investigación realizada por la Oficina de Investigación.
 
 ## Página 11
+
 
 ## 3. Descripción del accidente 
 ### a) Accidente e información básica 
@@ -237,13 +240,16 @@ Fig. 1. Lugar del accidente
 
 ## Página 12
 
+
 2.º anexo. Esquema de la estación ferroviaria de Lielvārde (con la ubicación del desvío n.º 3)
 
 ## Página 13
 
+
 3.att. Esquema del lugar del accidente
 
 ## Página 14
+
 
 ### 3.3 Descripción del lugar del accidente, indicando las condiciones meteorológicas y geográficas en el momento del accidente, y si se realizaron trabajos en el lugar del accidente o en sus proximidades
 Según los datos de la estación de observación Skrīveri* del Centro Letón de Medio Ambiente, Geología y Meteorología, el 30 de noviembre de 2023, en el periodo comprendido entre las 9:00 y las 12:00, las condiciones meteorológicas en la estación ferroviaria de Lielvārde fueron las siguientes: 

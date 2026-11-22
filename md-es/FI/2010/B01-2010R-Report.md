@@ -10,13 +10,14 @@ chars: 211759
 ratio_longitud: 1.17
 tokens_in: 86520
 tokens_out: 66740
-verificacion: revisar
-notas_cifras: ["bloque 1: cifras cortas: 4/52", "bloque 3: original bilingüe: se compara contra el idioma principal (EN)", "bloque 4: cifras cortas: 1/141", "bloque 5: original bilingüe: se compara contra el idioma principal (FI)", "bloque 6: cifras cortas: 1/107", "bloque 7: original bilingüe: se compara contra el idioma principal (FI)"]
-avisos: ["bloque 15: ratio 1.63", "bloque 16: ratio 1.73"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 2: original bilingüe: se compara contra el idioma principal (NL)", "página 4: original bilingüe: se compara contra el idioma principal (SV)", "página 5: cifras cortas: 3/10", "página 10: original bilingüe: se compara contra el idioma principal (FI)", "página 11: original bilingüe: se compara contra el idioma principal (SV)", "página 16: cifras cortas: 1/41"]
 ---
+
 ## Página 1
+
 
 Informe de investigación
 B1/2010R
@@ -24,8 +25,8 @@ Colisión de vagones de pasajeros con un tope de vía y, a continuación, con la
 Este informe de investigación se ha elaborado para mejorar la seguridad y prevenir nuevos accidentes.
 Aquí no se aborda la posible responsabilidad derivada del accidente ni la obligación de indemnización. Debe evitarse el uso del informe de investigación para fines distintos de la mejora de la seguridad.
 
-
 ## Página 2
+
 
 ### Centro de investigación de accidentes
 ### Centralen för undersökning av olyckor
@@ -85,8 +86,8 @@ ISBN 978-951-836-308-1
 ISSN 1239-5323
 Multiprint Oy, Vantaa 2011
 
-
 ## Página 3
+
 
 ## RESUMEN
 El lunes 4.1.2010 a las 8.28, cuatro vagones desprendidos del tren chocaron a una velocidad de unos 35 km/h contra un tope de vía situado al final de una vía en la estación principal de ferrocarril de Helsinki. El extremo delantero del vagón de dos plantas que iba primero se elevó en el impacto sobre el tope de vía destruido y, a continuación, sobre el obstáculo de hormigón situado al final de la vía, y chocó contra la pared del edificio de oficinas situado al final de la vía. El vagón se hundió parcialmente en el interior del edificio. El tren se estaba trasladando como convoy de maniobras, empujado por una locomotora, desde el depósito de Ilmala, situado a 4,5 kilómetros, hasta su vía de salida en la estación de Helsinki. Los vigilantes de la estación lograron evacuar a las personas que se encontraban en el andén antes del impacto.
@@ -103,8 +104,8 @@ también al personal del vagón-restaurante se le debería organizar formación 
 Por "ordeño" se entiende aquí la liberación de los frenos mediante el tirador de la válvula de desenganche.
 I
 
-
 ## Página 4
+
 
 Además, la comisión de investigación recomienda que se elabore un plan de contingencia para el control del tráfico para situaciones excepcionales.
 La comisión de investigación considera positivas las siguientes medidas ya adoptadas o en curso de adopción y apoya su puesta en marcha:
@@ -121,8 +122,8 @@ De las tres personas que se encontraban en los vagones durante la colisión, una
 3 La baliza es un dispositivo de la infraestructura de JKV que envía a la instalación de JKV de la locomotora un mensaje programado o un mensaje transmitido a través del cable de transmisión de datos.
 II
 
-
 ## Página 5
+
 
 contacto, al que se conectan los cables de contacto, se desprendió. El edificio contra el que chocaron los vagones sufrió daños materiales considerables. La estructura portante primaria del edificio no sufrió daños significativos, pero las losas alveolares se agrietaron y se desplazaron ligeramente. En la segunda planta del edificio, una sala de reuniones quedó completamente destruida y la entrada a nivel de calle sufrió daños graves. Además, los sistemas de edificación y de técnica de seguridad situados en las inmediaciones de la zona de colisión resultaron dañados. Los daños ascendieron a un total de 825 000 euros.
 La causa del accidente fue que el eslabón de acoplamiento se había deslizado del gancho de tracción mientras la locomotora empujaba los vagones hasta la vía de salida. Esto provocó que el tren se partiera y que los frenos de aire automático se activaran tras desprenderse la manguera de freno. El conductor de maniobras liberó los frenos de los vagones para poner el tren en movimiento. No se percató de que el tren se había partido. Al empujar los vagones hacia delante, los topes de los vagones se comprimieron, lo que hizo que el eslabón de acoplamiento del acoplamiento de tornillo endurecido por el frío se deslizara del gancho. El hecho de que el acoplamiento de tornillo no estuviera apretado lo suficiente contribuyó a que el eslabón se desprendiera. El hielo y la nieve entre los vagones y la escasa iluminación dificultaron la detección del eslabón de acoplamiento. Dicho tren se había realizado por última vez el deshielo nueve días antes y se había acumulado mucho hielo y nieve entre los vagones y en los bogies de los vagones. Además, el agua procedente del tubo de desagüe del lavabo del aseo del vagón acoplado al vagón-restaurante había contribuido a la formación de hielo entre dicho vagón y el vagón-restaurante.
@@ -146,6 +147,7 @@ III
 
 ## Página 6
 
+
 - Trafikverket ha hecho instalar barreras ferroviarias de parada en las vías de maniobra que van desde el depósito de Ilmala hasta la estación de Helsingfors. En una situación excepcional, una unidad de tren puede detenerse con estos dispositivos.
 Asimismo, la comisión de investigación recuerda que los vagones y, en particular, el espacio entre vagones deben deshelarse con carácter preventivo con la frecuencia suficiente para que las inspecciones puedan realizarse conforme a la normativa. Quienes inspeccionan los vagones deben recordar que, si una acoplamiento entre dos vagones no puede inspeccionarse debido a la formación de hielo, deben asegurarse siempre de que el vagón se envíe a deshelar.
 ## RESUMEN
@@ -156,6 +158,7 @@ De las tres personas que había en los coches durante la colisión, una resultó
 El accidente fue causado por el desprendimiento del eslabón de acoplamiento del gancho durante la maniobra de empuje. Esto provocó que el tren se partiera en dos, y los frenos de aire automáticos se activaron una vez que la conducción de freno se había soltado. El conductor liberó los frenos de los coches para poner el tren en marcha. No se dio cuenta de que el tren se había partido en dos. El eslabón de acoplamiento se desprendió porque, al comprimirse los topes de los vagones, el eslabón de acoplamiento, que estaba congelado por completo, se elevó del
 
 ## Página 7
+
 
 gancho. La situación se agravó por el hecho de que el tornillo de acoplamiento no se había apretado correctamente. Era difícil ver el eslabón de acoplamiento debido a la iluminación deficiente y al hielo y la nieve en el espacio entre los vagones. El tren en cuestión se había deshelado por última vez nueve días antes, y había mucha nieve en los bogies y entre los vagones. Además, el agua procedente de la tubería de desagüe del lavabo del aseo del vagón situado detrás del vagón-restaurante había aumentado la formación de hielo en este espacio.
 Para evitar accidentes similares en el futuro, la Comisión de Investigación de Accidentes recomienda lo siguiente:
@@ -177,10 +180,12 @@ V
 
 ## Página 8
 
+
 necesarias. Debe recordarse a los inspectores de vagones que, si un espacio entre vagones no puede inspeccionarse debido al hielo, el vagón debe enviarse siempre a deshelar.
 VI
 
 ## Página 9
+
 
 ## TABLA RESUMEN – SAMMANFATTNING – DATA SUMMARY
 ### Hora:
@@ -278,6 +283,7 @@ VII
 
 ## Página 10
 
+
 ## PREÁMBULO
 El Centro de Investigación de Accidentes designó, en virtud del artículo 5 de la ley sobre investigación de accidentes (373/1985), una comisión de investigación para investigar el accidente ocurrido en Helsinki el 4.1.2010. Como presidente de la comisión de investigación fue nombrado el investigador principal Esko Värttiö, y como miembros, los expertos del Centro de Investigación de Accidentes, la doctora en psicología Sirkku Laapotti y el maestro bombero Jaakko Niskala. Como secretarios técnicos de la comisión fueron nombrados el investigador principal en funciones Erkki Hainari y el experto del Centro de Investigación de Accidentes, el investigador Jari Auvinen.
 En este informe de investigación se presentan los acontecimientos anteriores al accidente, en el momento del accidente y después del mismo. Además, se analiza el desarrollo de las operaciones de salvamento y se examinan las causas que influyeron en el accidente. Por último, se presentan recomendaciones de seguridad cuya aplicación podría evitar o atenuar posiblemente accidentes similares o sus consecuencias. El objetivo de la investigación es mejorar la seguridad, por lo que no se pronuncia sobre cuestiones de culpa ni de indemnización por daños y perjuicios.
@@ -291,6 +297,7 @@ Centralen för undersökning av olyckor tillsatte enligt 5 § i lagen om unders�
 VIII
 
 ## Página 11
+
 
 tiö y a los miembros psicóloga doctora Sirkku Laapotti y jefe de bomberos Jaakko Niskala, am-
 bos expertos del Centro de Investigación de Accidentes. Como secretarios técnicos de la comisión de investigación se designó al jefe de planificador especial Erkki Hainari y al investigador Jari Auvinen, ambos del Centro de Investigación de Accidentes.
@@ -306,6 +313,7 @@ IX
 
 ## Página 12
 
+
 Este informe de investigación presenta los hechos ocurridos antes, durante y después del accidente. Además, analiza el desarrollo de la operación de salvamento y los factores que tuvieron impacto en el accidente. Por último, este informe presenta recomendaciones de seguridad que podrían contribuir a evitar accidentes similares o a atenuar sus consecuencias. El objetivo de esta investigación es la promoción de la seguridad, lo que significa que no se extraen conclusiones en materia de responsabilidades ni de indemnización de daños.
 La Junta de Investigación de Accidentes fue informada del accidente a las 8.45 h. El investigador responsable se dirigió inmediatamente al lugar del accidente, y el investigador designado como secretario técnico de la Comisión llegó poco después para asistir al investigador responsable. Una Unidad de Investigación de Escena del Crimen del Departamento de Policía de Helsinki asistió a los investigadores en la documentación del lugar del accidente y del tren. Los vagones fueron examinados con más detalle y sus frenos probados en el depósito de Ilmala. El desarrollo de los hechos, la formación y las actividades de salvamento, y la gestión de la seguridad se investigaron mediante la consulta de diversas grabaciones y documentos, y se entrevistó a los implicados en el accidente para obtener más información. La velocidad de los vagones en el momento del impacto se calculó a partir de los datos temporales obtenidos de diversas grabaciones, así como del perfil de la vía, de la restante geometría de la vía y de la distancia recorrida.
 Este informe ha sido circulado para recabar comentarios en el Ministerio de Transportes y Comunicaciones, la Agencia Finlandesa de Seguridad del Transporte, la Agencia Finlandesa del Transporte y VR Group. Los dictámenes se encuentran en el anexo 1 del informe de investigación. Las partes implicadas tuvieron la oportunidad de comentar el informe de investigación.
@@ -315,6 +323,7 @@ El resumen, el resumen de datos, la introducción, las conclusiones, las medidas
 X
 
 ## Página 13
+
 
 ## ÍNDICE
 RESUMEN...................................................................................................................................I
@@ -352,6 +361,7 @@ XI
 
 ## Página 14
 
+
 2.9 Sistema de gestión de la seguridad ....................................................................................... 34 
 2.10 Reglamentos y directrices ........................................................................................................ 36 
 2.10.1 
@@ -383,8 +393,8 @@ LIITTEET
 Liite 1. Lausunnot
 XII
 
-
 ## Página 15
+
 
 ## 1 
 ## ACCIDENTE 
@@ -395,10 +405,10 @@ El accidente ocurrió el lunes 4.1.2010 a las 8.28.30 en la estación central de
 Kuva 1. Onnettomuusjunan reitti. 
 Bild 1. 
 Rutten för olyckståget. 
-Figure 1. The route of the train. 
-
+Figure 1. The route of the train.
 
 ## Página 16
+
 
 ## 1.2 
 ### Desarrollo de los hechos 
@@ -411,10 +421,10 @@ Figure 2. IC71 departing for Kajaani on 4 January 2010 being pushed from the Ilm
 A las 7.46 el IC71 se detuvo justo después de la estación de Pasila en la vía 425, cuando se produjo una avería en el sistema eléctrico de 1 500 voltios del tren, que hizo saltar el interruptor principal de la locomotora. El maquinista del tren que venía en sentido contrario informó también al maquinista del IC71 de que había visto un destello intenso en medio del tren. El maquinista pidió al conductor de acompañamiento que investigara el origen del problema. El conductor de acompañamiento observó que el cable de 1 500 voltios entre el cuarto y el quinto vagón, el vagón restaurante y el vagón de día de 2.lk de un piso estaba mal conectado en su toma. No logró empujar el enchufe de vuelta a su sitio. El conductor de acompañamiento decidió junto con el maquinista que el tren se empujaría hasta el andén de salida, donde se repararía la avería. En ese mismo momento se interrumpió también la comunicación por teléfono de acompañamiento entre el conductor de acompañamiento y el maquinista. Después de esto, el revisor y el maquinista utilizaron el teléfono móvil como medio de comunicación durante el traslado. Con el tren detenido, el revisor y el maquinista conversaron por el canal de maniobra de la radio. 
 
 A las 8.02 la locomotora reanudó el empuje, pero tras recorrer 192 metros el tren se detuvo al activarse los frenos de aire comprimido del tren, debido a la pérdida de presión en la línea de freno. El conductor de acompañamiento salió a comprobar la causa y, al caminar por el interior del tren, oyó un silbido proveniente de la fuga de aire comprimido en el mismo intervalo entre vagones donde el cable de 1 500 voltios estaba mal conectado. Salió y observó que los acoplamientos de manguera de la línea de freno que unían los conectores se habían desprendido y que el acoplamiento de manguera de la línea del depósito principal se había desenganchado del acoplamiento del vagón. No observó nada anormal entre los vagones. El revisor concluyó que no podía reparar las conexiones de las mangueras, porque el espacio entre los vagones estaba tan helado.  
-10  La prueba de frenos es la comprobación, basada en reglamentos, del estado de funcionamiento de los frenos del tren.  
-
+10  La prueba de frenos es la comprobación, basada en reglamentos, del estado de funcionamiento de los frenos del tren.
 
 ## Página 17
+
 
 A las 8.09 el revisor conversó con el centro de control de tráfico de Helsinki sobre la desconexión de los frenos e informó de que pondría el tren en condiciones para poder trasladarlo a la estación. Fue a buscar al vagón restaurante una barra de hierro con la que cerró las válvulas de acoplamiento del vagón 5 (vagón de día de 2.lk) del lado de la locomotora. Con ello se logró restablecer el funcionamiento de los frenos en los cuatro vagones del lado de la locomotora. Después de esto, salió a desconectar, es decir, a «ordeñar», los frenos de los cuatro vagones de la parte trasera del tren. 
 
@@ -430,6 +440,7 @@ Cuando en el centro de control de tráfico se recibió la información de que lo
 
 ## Página 18
 
+
 el operador de zona solicitó al personal del centro de operaciones que cortara la energía eléctrica del tráfico ferroviario en la zona de la estación de Helsinki. Inmediatamente después de la decisión, el operador de zona solicitó al personal de guardia del centro de operaciones que cortara la energía eléctrica del tráfico ferroviario en la zona de la estación de Helsinki.
 
 La persona responsable de la información al viajero de la gestión del tráfico, que trabajaba en las mismas instalaciones, supo que los coches se habían desprendido y que se estaban dirigiendo a la vía 13. Emitió avisos y órdenes de evacuación para los coches que se aproximaban al andén 13. Los avisos se escucharon en la estación de tren de Helsinki y en la zona de andenes.
@@ -439,20 +450,19 @@ Al mismo tiempo, un becario de información al viajero que se encontraba en el l
 Tras recorrer 1 980 metros, los coches chocaron contra el tope de vía a las 8.28.30. La velocidad de los coches en el momento del choque era de unos 35 km/h11. Los coches empujaron el tope de vía hidráulico por delante de ellos hacia el obstáculo de hormigón situado en el extremo de la vía y destruyeron el tope de vía. El coche delantero de dos pisos subió en el choque sobre el tope de vía destruido y, a continuación, sobre el obstáculo de hormigón, cruzando la zona de andenes, y chocó contra la pared de un edificio de oficinas situado en el extremo de la vía 13. Parte del coche penetró en el interior del edificio.
 11  Según los cálculos del ingeniero jefe de la Agencia de Transporte, la velocidad era de 40 km/h. En dicho cálculo no se ha tenido en cuenta el efecto frenador de los desvíos.
 
-
 ## Página 19
 
-Figura 3. El coche delantero de dos pisos subió en el choque sobre el tope de vía destruido y, a continuación, sobre el obstáculo de hormigón, cruzando la zona de andenes, y chocó contra la pared de un edificio de oficinas situado en el extremo de la vía 13. (foto: policía)
+Kuva 3. El vagón doble delantero subió sobre el tope de vía que se había roto en la colisión y, a continuación, sobre el obstáculo de hormigón, recorriendo la zona del andén y chocando contra la pared del edificio de oficinas situado en el extremo de la vía 13. (foto: policía)
 Bild 3.
-Den främsta, dubbeldäckade vagnen åkte över spårbufferten, som gick sönder i kollisionen.
-Vagnen fortsatte över betonghindret och plattformområdet tills den kolliderade med byggnaden
-som ligger bakom spår 13 (bilden tagen av polisen).
-Figure 3. The front-most double-decker oach was pushed onto the rail barrier, which crashed in collision,
-and from there onto a concrete buffer stop, crossing the platform area and colliding with the wall
-of an office building at the end of track 13. (Photo: Police)
-
+El vagón doble delantero pasó por encima del tope de vía, que se rompió en la colisión.
+El vagón continuó por encima del obstáculo de hormigón y la zona del andén hasta que chocó contra el edificio
+situado detrás de la vía 13 (foto tomada por la policía).
+Figura 3. El vagón doble delantero fue empujado sobre el tope de vía, que se rompió en la colisión,
+y desde allí sobre el tope de hormigón, cruzando la zona del andén y chocando contra la pared
+de un edificio de oficinas en el extremo de la vía 13. (Foto: Policía)
 
 ## Página 20
+
 
 Figura 4. A la altura de los cubos de basura se ve el obstáculo de hormigón situado en el extremo de la vía sobre el que pasó el coche. Parte del coche penetró en el interior del edificio y el forjado intermedio del edificio, fabricado con forjados alveolares, se introdujo unos tres metros en el interior del coche. (foto: policía).
 Bild 4.
@@ -467,8 +477,8 @@ Tras el choque, uno de los agentes de orden público realizó una denuncia de em
 A las 8.29.04, el centro de emergencias de Helsinki recibió una alerta del detector automático de incendios del edificio comercial Eliel, es decir, el edificio contra el que chocó el tren. La alarma del detector de incendios fue provocada por la apertura de una válvula de rociador, lo que a su vez se debió a la caída de presión en la tubería de rociadores. La caída de presión se debió al choque del tren contra el edificio, en el que rompió, entre otras cosas, la tubería de rociadores. A las 8.29.30, se alertó a la unidad de bomberos H21 del parque de bomberos de Erottaja para acudir al lugar.
 A las 8.29.43, el centro de emergencias de Helsinki recibió la primera llamada de emergencia sobre el accidente ferroviario. La llamada de emergencia procedía de un agente de orden público de la estación de tren, que informó de que el tren había embestido a toda velocidad la pared de un hotel. También informó de que no había información sobre heridos.
 
-
 ## Página 21
+
 
 Sobre la base de la información recibida, el centro de emergencias seleccionó como tipo de evento de los servicios de emergencia «accidente ferroviario grave» y como tipo de evento de los servicios de emergencia médicos «situación de múltiples víctimas, segundo grado».
 Entre las 8.31.11 y las 8.31.2812, el centro de emergencias alertó al lugar de un equipo de rescate reforzado de acuerdo con la respuesta13. Este estaba formado por el jefe de guardia de los servicios de emergencia HP4, que dirigía la operación de rescate, y la unidad de bomberos H11 del parque de bomberos de Kallio, la unidad de desescombro H25 y el camión con plataforma elevadora H26 del parque de bomberos de Erottaja, la unidad de bomberos H31 y el camión cisterna H33 del parque de bomberos de Haaga, así como la unidad de bomberos H41 del parque de bomberos de Käpylä.
@@ -482,8 +492,8 @@ La unidad de bomberos pesados H25 llegó al lugar a las 8.36.29, es decir, en un
 13  La respuesta es la instrucción de alerta por tipo de accidente que el servicio de bomberos entrega al centro de emergencias, que contiene la cantidad y el tipo de unidades a alertar.
 14  El centro de mando de los servicios de emergencia es el nivel de mando superior de las operaciones de rescate.
 
-
 ## Página 22
+
 
 en el lugar en once minutos y medio desde la alerta. Después llegaron al lugar la unidad de bomberos H41 y la unidad de bomberos pesados H15.
 El director de operaciones de rescate distribuyó inicialmente los recursos de modo que las unidades H21 y H25, que fueron las primeras en llegar al lugar, continuaran la búsqueda del revisor de acompañamiento en el coche de tren dañado. La unidad de bomberos H11 recibió la misión de evacuar la sección de oficinas dañada del edificio y evaluar los daños. La unidad de bomberos H31 recibió la misión de cerrar las tuberías de rociadores y de agua del edificio. La unidad de bomberos pesados H15 recibió la misión de realizar una puesta a tierra de emergencia en los cables de tracción junto con el personal de VR.
@@ -496,6 +506,7 @@ Los agentes de orden público guiaron a las tres personas que se encontraban en 
 El servicio de bomberos inició la preparación de la zona del accidente para el desprendimiento de los coches, retirando las partes colgantes y sueltas del edificio. Después de esto, las diferentes autoridades, así como los representantes de VR y del inmueble, realizaron una inspección. Sobre esta base, VR elaboró, junto con el representante de la empresa que diseñó el edificio, un plan de apoyo del edificio, que fue aprobado por la autoridad de control de edificios. A las 17.05, las medidas de seguimiento se transfirieron a la responsabilidad de VR. Una vez completado el apoyo del edificio, las dos unidades de desescombro de VR y el resto del personal iniciaron el desprendimiento de los coches. El trabajo de desescombro y el desprendimiento de los coches finalizaron a la mañana siguiente.
 
 ## Página 23
+
 
 ## 1.3 
 ### Daños causados por el accidente 
@@ -515,21 +526,23 @@ Del quinto vagón, un vagón de día de 1 piso de 2.ª clase, se rompieron el ca
 Los demás vagones no sufrieron daños. 
 El coste total de los daños en los vagones ascendió a 243 000 euros. 
 ### Dispositivos de vía 
-El tope de vía situado en el extremo de la vía 13 se desintegró por completo y el obstáculo de hormigón (barrera de hormigón) posterior presentó pequeños desprendimientos en sus esquinas. Como estructura, la barrera de hormigón resistió el impacto. El extremo del cableado eléctrico de la vía, al que se conectan los cables de catenaria, se desprendió. El coste de reparación de la vía y de los dispositivos de vía ascendió a 102 000 euros. 
+El tope de vía situado en el extremo de la vía 13 se desintegró por completo y el obstáculo de hormigón (barrera de hormigón) posterior presentó pequeños desprendimientos en sus esquinas. Como estructura, la barrera de hormigón resistió el impacto. El extremo del cableado eléctrico de la vía, al que se conectan los cables de catenaria, se desprendió. El coste de reparación de la vía y de los dispositivos de vía ascendió a 102 000 euros.
 
 ## Página 24
 
-### Edificio 
-El edificio comercial contra el que impactaron los vagones sufrió daños materiales considerables. El armazón primario portante del edificio no sufrió daños significativos, pero las losas alveolares se habían agrietado y desplazado en cierta medida. En la zona de impacto, en la segunda planta del edificio, una sala de reuniones quedó totalmente destruida y la entrada a nivel de calle sufrió daños significativos. Además, los sistemas relacionados con la construcción y la técnica de seguridad situados en la inmediata vecindad de la zona de impacto sufrieron daños. El coste de reparación ascendió a un total de 480 000 euros. 
-## 1.3.3 
-### Daños medioambientales 
-El accidente no causó daños medioambientales. 
-## 1.4 
-### Información 
-El jefe de guardia HP3, que actuaba como responsable de guardia posterior, facilitó a los representantes de los medios de comunicación que llegaron al lugar la primera breve información sobre lo ocurrido poco después de las 9.00. A las 9.30, el servicio de emergencias organizó la primera rueda de prensa en las zonas de recepción del hotel situado en el otro extremo del edificio dañado por el tren. Estuvieron presentes representantes del servicio de emergencias, de VR, de la policía, del edificio que sufrió daños en el accidente y de la inspección de edificios. El servicio de emergencias organizó la segunda rueda de prensa a las 11.00. Se organizó una visita guiada a la zona del accidente aislada para los representantes de los medios de comunicación. 
-El presidente de la comisión de investigación respondió a las preguntas de los medios de comunicación el día del accidente. El Centro de Investigación de Accidentes Ferroviarios emitió el 18.1.2010 un comunicado en el que se exponían los datos sobre el accidente obtenidos hasta la fecha en las investigaciones. Tras la publicación del comunicado, el presidente de la comisión de investigación respondió a las preguntas formuladas por los medios de comunicación. 
+yksen. El poste terminal de la vía eléctrica, al que se conectan los cables de contacto, se desprendió. Los costes de reparación de la vía y del material de vía ascendieron a 102 000 euros.
+### Edificio
+El edificio comercial en el que se estrellaron los vagones sufrió daños materiales considerables. La estructura primaria de soporte del edificio no sufrió daños significativos, pero las losas huecas se habían agrietado y desplazado en cierta medida. En la zona del impacto, en la segunda planta del edificio, una sala de reuniones quedó totalmente destruida y la entrada a nivel de calle sufrió daños significativos. Además, los sistemas relacionados con la vivienda y la técnica de seguridad situados en la inmediata proximidad de la zona del impacto resultaron dañados. Los costes de reparación ascendieron a un total de 480 000 euros.
+## 1.3.3
+### Daños medioambientales
+El accidente no causó daños medioambientales.
+## 1.4
+### Información
+El jefe de guardia de relevo, el capitán de bomberos HP3, facilitó a los representantes de los medios de comunicación que llegaron al lugar el primer informe breve sobre lo ocurrido poco después de las 9.00. A las 9.30, el servicio de emergencias organizó la primera rueda de prensa en las zonas del vestíbulo del hotel situado en el otro extremo del edificio dañado por el tren. Estaban presentes representantes del servicio de emergencias, de VR, de la policía, del edificio que sufrió daños en el accidente y de la autoridad de supervisión de edificios. El servicio de emergencias organizó la segunda rueda de prensa a las 11.00. Se organizó una visita guiada para los representantes de los medios de comunicación a la zona del accidente aislada.
+El presidente de la comisión de investigación respondió a las preguntas de los medios de comunicación el día del accidente. El Centro de Investigación de Accidentes Ferroviarios emitió el 18.1.2010 un comunicado en el que se exponían las conclusiones obtenidas hasta la fecha en las investigaciones sobre el accidente. Tras la publicación del comunicado, el presidente de la comisión de investigación respondió a las preguntas formuladas por los medios de comunicación.
 
 ## Página 25
+
 
 ## 2 
 ## INVESTIGACIÓN DEL ACCIDENTE 
@@ -625,9 +638,10 @@ RJ
 ## 2.1.1 
 ### Principio de funcionamiento de los frenos del tren 
 Los trenes disponen de frenos de servicio accionados por aire comprimido. Los vagones disponen de frenos de disco equipados con dispositivos antideslizamiento y frenos de rueda. Los frenos de rueda funcionan únicamente durante el frenado de emergencia. Los vagones disponen además de frenos de estacionamiento manuales, es decir, frenos de mano. En las locomotoras eléctricas hay un freno eléctrico que actúa solo en la locomotora o en conjunto con el freno de aire comprimido. 
-Las locomotoras Sr2 disponen de un freno eléctrico que devuelve la energía de frenado a la línea de tracción. 
+Las locomotoras Sr2 disponen de un freno eléctrico que devuelve la energía de frenado a la línea de tracción.
 
 ## Página 26
+
 
 ### Freno de tren 
 En el freno de tren, es decir, el freno que actúa sobre todo el tren, a través del cuerpo del tren está conectada la línea de freno que atraviesa todos los vagones, cuyo contenido de aire comprimido llena los depósitos auxiliares de aire de los vagones hasta la presión de servicio, que en Finlandia es de 5 bar. En este estado, los frenos de los vagones están liberados. Cuando se desea frenar el tren, se reduce la presión de la línea de freno mediante la válvula del conductor situada en la locomotora. La válvula de servicio del vagón detecta esto y deja pasar aire comprimido del depósito auxiliar al cilindro de freno, que presiona las barras de freno contra las ruedas o las pastillas de freno contra los discos de freno. La presión máxima del cilindro de freno (3,3–3,8 bar) se alcanza cuando la presión de la línea de freno ha descendido a 3,5 bar. Aunque la presión de la línea de freno descienda por debajo de este valor, la fuerza de frenado ya no aumenta. La ventaja de este sistema es que, si el tren se separa, los frenos se activan automáticamente. El freno de emergencia funciona mediante el vaciado de la línea de freno. 
@@ -646,10 +660,10 @@ dañado más gravemente en el accidente:
 - 
 bogie delantero desprendido y carcasa del chasis y equipos interiores rotos 
 - 
-en el extremo delantero del vagón había una abolladura producida por la losa alveolar del suelo del edificio de oficinas que llegaba hasta la primera ventana lateral 
-
+en el extremo delantero del vagón había una abolladura producida por la losa alveolar del suelo del edificio de oficinas que llegaba hasta la primera ventana lateral
 
 ## Página 27
+
 
 - 
 interior del vagón: 
@@ -721,6 +735,7 @@ el extremo norte (el extremo por el que se rompió el cuerpo del tren)
 
 ## Página 28
 
+
 • 
 en el extremo había una cantidad considerable de hielo y nieve 
 • 
@@ -756,10 +771,10 @@ o
 la puerta que da al comedor desgarrada y las pantallas de las pantallas de las lámparas de las 
 mesas dañadas 
 o 
-la caja registradora se había mantenido en su sitio 
-
+la caja registradora se había mantenido en su sitio
 
 ## Página 29
+
 
 o 
 en la cocina había objetos revueltos en el suelo 
@@ -786,23 +801,21 @@ el gancho de tracción helado, el hielo era duro
 Kuva 6. Ex-vaunun eteläpäädyssä (irronnut väli) oli paljon jäätä ja lunta. 
 Bild 6. 
 I Ex-vagnens södra ända (där kopplingen lossnade) fanns det likaså mycket is och snö. 
-Figure 6. At the southern end of the Ex car (broken connecting) there was plenty of ice and snow. 
-
+Figure 6. At the southern end of the Ex car (broken connecting) there was plenty of ice and snow.
 
 ## Página 30
 
 Kuva 7. Ex-vaunun eteläpään vetokoukku, josta kytkinlenkki oli irronnut, oli jäinen. 
 Bild 7. 
 Dragkroken i Ex-vagnens södra ända, från vilken kopplingslänken hade lossnat, var nedisad. 
-Figure 7. The coupling hook of the southern end of the Ex car from which the coupling loop had loosened 
-was covered in ice. 
+Figura 7. El gancho de enganche del extremo sur del coche Ex, del cual el eslabón de enganche se había desprendido, estaba cubierto de hielo. 
 Kuva 8. Myös vetokoukun sisällä oli jäätä. 
 Bild 8. 
 Det fanns is även på insidan av dragkroken. 
-Figure 8. There was ice on the inside of the hook, too. 
-
+Figura 8. También había hielo en el interior del gancho.
 
 ## Página 31
+
 
 o 
 el gancho de tracción estaba en el borde izquierdo y no podía moverse 
@@ -839,10 +852,10 @@ de tipo 54E1 y 60E1. La vía asciende inicialmente desde Ilmala hasta la estaci�
 un total de cuatro metros, a partir de lo cual desciende inicialmente diez metros hasta el 
 punto de desacoplamiento de los coches. Desde el punto de desacoplamiento la vía desciende 
 13 metros en un recorrido de 1 500 metros, después hay unos cien metros llanos y en el 
-tramo final, hasta el andén 13 de la estación de Helsinki, la vía asciende unos dos metros. 
-
+tramo final, hasta el andén 13 de la estación de Helsinki, la vía asciende unos dos metros.
 
 ## Página 32
+
 
 Los coches partieron de la vía 425. A 90 metros del punto de partida, el primer desvío 
 V425 (YV60-300–1:9-V) estaba dispuesto en posición de enclavamiento inverso15 que 
@@ -879,10 +892,10 @@ Figure 10. Concrete buffer stop and hydraulic rail barrier on the next track.
 15  El enclavamiento inverso es un desvío por el que el tren pasa desde la punta de las agujas hacia la 
 base de las agujas. 
 16  El enclavamiento directo es un desvío por el que el tren pasa desde la base de las agujas hacia la 
-punta de las agujas. 
-
+punta de las agujas.
 
 ## Página 33
+
 
 ## 2.3 
 ### Instalaciones de seguridad 
@@ -910,10 +923,10 @@ sig. De följer tågens rörelse med hjälp av en stor kontrollpanel. Tågledare
 tar bakom ställverksvakterna till vänster i bilden. 
 Figure 11. The panel operators use the control devices in front of them to issue train control commands. 
 They monitor the trains via the large indication table. The workstation of the main track traffic 
-controller, visible on the left, is behind the panel operators’ workstation. 
-
+controller, visible on the left, is behind the panel operators’ workstation.
 
 ## Página 34
+
 
 Kuva 12. Asetinlaitteen ohjauslaite. Laitteella tehdään komennot asetinlaitteelle käyttäen 
 numeronäppäimiä ja painikkeita. 
@@ -940,10 +953,10 @@ propio del tren, la radio de estación de clasificación que utiliza frecuencias
 estación de clasificación 7) y el teléfono móvil. El teléfono de acompañamiento del IC71 no 
 funcionó después de la primera parada, por lo que a partir de entonces el trabajo de 
 acompañamiento se realizó utilizando el teléfono móvil conforme al acuerdo entre el revisor 
-de acompañamiento y el maquinista 
-
+de acompañamiento y el maquinista
 
 ## Página 35
+
 
 Las demás conversaciones las mantuvieron en el canal de estación de clasificación 7. 
 El maquinista y el regulador de tráfico utilizan en su comunicación mutua la radio de 
@@ -974,6 +987,7 @@ El día del accidente el sol salió a las 9.22, por lo que cuando se produjo el 
 de los coches estaba oscuro fuera.
 
 ## Página 36
+
 
 ## 2.6 
 ### Organizaciones y personas relacionadas con el accidente 
@@ -1051,10 +1065,10 @@ accident under investigation are highlighted in blue.
 ### El depósito de Helsinki de VR-Yhtymä Oy 
 Los vagones del tren habían llegado en la misma composición la noche anterior desde Kajaani a través de Helsinki al depósito de Helsinki en Ilmala hacia las 23:00. Según las instrucciones, al tren debía realizársele una inspección de aptitud para el servicio, ya que los vagones habían recorrido más de 1 200 kilómetros desde la última vez que estuvieron en el depósito de Helsinki. Además, a los vagones del tren de pasajeros que partía debía realizársele una inspección de salida. 
 Una vez llegados los vagones a la vía de mantenimiento del depósito de Helsinki, se realizó al tren una inspección de aptitud para el servicio, una prueba completa de los frenos y una inspección de aptitud para el viaje. En el turno de noche había un inspector de vagones de 56 años, con 40 años de experiencia laboral en VR, de los cuales 35 como inspector de vagones. Según declaró, realizó la inspección de aptitud para el viaje en lo relativo a los frenos. Realizó la prueba completa de los frenos del tren con el equipo de prueba y constató que todo lo demás estaba en orden, pero el freno de riel del vagón número 5 no funcionaba. Según los datos almacenados en el ordenador del depósito y visibles en la pantalla del supervisor, la prueba de frenos comenzó a las 22:00 y finalizó a la 1.19. 
-El inspector de vagones revisó también los bogies de los vagones y comprobó visualmente que los acoplamientos y conexiones entre vagones estaban cerrados. Además, comprobó en el interior del tren que las luces, la calefacción, las puertas y los WC funcionaban. Asimismo, numeró los vagones.  
-
+El inspector de vagones revisó también los bogies de los vagones y comprobó visualmente que los acoplamientos y conexiones entre vagones estaban cerrados. Además, comprobó en el interior del tren que las luces, la calefacción, las puertas y los WC funcionaban. Asimismo, numeró los vagones.
 
 ## Página 37
+
 
 En el turno de mañana, el inspector de vagones de dicho tren era una persona de 53 años. Tenía unos 35 años de experiencia laboral en VR, de los cuales 12 como inspector de vagones. Su turno comenzó a las 7:00 y, según declaró, al inicio de su turno había consultado en el ordenador un informe según el cual el tren IC71 había sido inspeccionado por la noche en el depósito de Helsinki, y en estas inspecciones no se había detectado nada anormal. 
 Cuando llegó la locomotora, el inspector de vagones acopló la locomotora a los vagones, es decir, conectó el enganche, las mangueras de aire comprimido, el cable de megafonía y el cable de 1 500 voltios al tren. Después, según declaró, realizó una prueba sencilla de frenos y, a continuación, informó al maquinista de que los frenos funcionaban, el tren estaba conforme a la lista, era apto para el viaje y la prueba de frenos había finalizado. Según el inspector de vagones, durante la prueba de frenos, al caminar por el lado del tren desde la locomotora hasta el otro extremo, es habitual comprobar visualmente que los acoplamientos entre vagones del tren están en buen estado. Aquella mañana no detectó nada anormal en los acoplamientos entre vagones del tren. 
@@ -1065,8 +1079,8 @@ En los vagones desprendidos había además un conserje que no estaba de turno. T
 ### Personal de restauración 
 Avecra Oy pertenece a la División de Tráfico de Pasajeros de VR-Yhtymä Oy y es responsable de los servicios de restauración de los trenes de pasajeros. En los vagones desprendidos había dos auxiliares de a bordo, uno de 58 años, que estaba al servicio de Avecra Oy, y otro de 24 años, que estaba al servicio de la empresa de suministro de personal StaffPoint Oy. El primero tenía unos 20 años de experiencia trabajando en restauración de trenes y el segundo poco más de un año. Cada uno de los dos auxiliares de a bordo
 
-
 ## Página 38
+
 
 había recibido formación para el trabajo de restauración y la formación de seguridad relacionada con el mismo, así como formación de seguridad para desplazarse por la estación de clasificación, pero en absoluto formación en seguridad ferroviaria. Por ejemplo, ninguno de los dos sabía dónde se encuentra el freno de mano del tren ni cómo se frena con él. El turno de ambos comenzó aquella mañana a las 7.15. 
 ### Control de tráfico 
@@ -1078,10 +1092,10 @@ En el momento del desprendimiento de los vagones, en el centro de control de tr�
 Los responsables de información al pasajero y los directores de tráfico trabajan físicamente en la misma oficina abierta. 
 La mañana del accidente, en el turno había un operador de enclavamiento de 57 años del puesto de trabajo de Helsinki de los servicios de control de Helsinki de VR. Tenía 37 años de experiencia laboral en VR. Había cursado el curso de conserje hace 30 años y había ejercido como operador de enclavamiento durante 26 años, de los cuales los dos últimos en el puesto de trabajo de Helsinki. La mañana del accidente, el regulador de pausas del trabajo del operador de enclavamiento era un director de tráfico de 28 años. Tenía unos 3 años de experiencia en control de tráfico en los servicios de control de Helsinki. 
 Como director regional, la mañana del accidente actuaba un director de tráfico de señales de 48 años, con 22 años de experiencia en control de tráfico, de los cuales unos 15 en Helsinki. Llevaba 10 años actuando como director regional. 
-17 El enclavamiento es un dispositivo de seguridad mediante el cual se acciona de forma centralizada desde un solo lugar los cambios de vía utilizados por el tren en su itinerario a las posiciones correctas y las señales a las posiciones que permiten la circulación. El enclavamiento puede ser mecánico o eléctrico. El enclavamiento también puede ser controlado a distancia. 
-
+17 El enclavamiento es un dispositivo de seguridad mediante el cual se acciona de forma centralizada desde un solo lugar los cambios de vía utilizados por el tren en su itinerario a las posiciones correctas y las señales a las posiciones que permiten la circulación. El enclavamiento puede ser mecánico o eléctrico. El enclavamiento también puede ser controlado a distancia.
 
 ## Página 39
+
 
 ### Información al pasajero 
 El responsable de información al pasajero es responsable de los anuncios a las estaciones y de los avisos en los paneles de información electrónicos de las estaciones en la zona de control remoto de Finlandia Meridional en los tramos Helsinki–Riihimäki, Helsinki–Turku y Karjaa–Hanko. Los responsables de información al pasajero son, por tanto, responsables de todos los anuncios y avisos del tráfico de cercanías de Helsinki y de algunos del tráfico de larga distancia. En el resto de Finlandia, los directores de tráfico son responsables de la transmisión de la información al pasajero. 
@@ -1102,6 +1116,7 @@ La parte IV, que llega tras un año de periodo de trabajo, Maniobras, se centra 
 
 ## Página 40
 
+
 La formación de la tripulación de tren otorga, tras 16 semanas de formación aprobada, la habilitación para las funciones de conductor de trenes de pasajeros, que incluye también el traslado de trenes de pasajeros en las vías en colaboración con el maquinista. La formación consiste, tras una semana de familiarización, en 8 semanas de formación teórica: Fundamentos del trabajo del conductor y situaciones excepcionales. El período incluye, entre otros, los sistemas y dispositivos de freno, el acoplamiento y desacoplamiento entre vagones, la seguridad ferroviaria, las maniobras de clasificación y la conexión del sistema eléctrico de 1 500 voltios del tren. Tras tres días de formación en equipos de venta y primeros auxilios, sigue un período de tutoría laboral de unas 6–7 semanas en la propia unidad de trabajo bajo la orientación de un tutor. La competencia se verifica mediante pruebas teóricas y prácticas.
 La formación de director de tráfico dura unos 6 meses. La formación se imparte en modalidad de aprendizaje mixto, que incluye enseñanza teórica, familiarización y tutoría laboral práctica. Al finalizar la formación, el formando supera una demostración profesional aprobada y se gradúa en el Centro de Formación de VR como director de tráfico. Tras la demostración profesional y la graduación en la profesión, sigue aún un período de prácticas de 3–5 semanas, así como un período de formación en equipos de 2–9 semanas en función de las necesidades regionales.
 Anteriormente, la formación era similar en contenido. Era habitual avanzar en la profesión hacia tareas más exigentes a través de experiencia laboral práctica y formación complementaria.
@@ -1114,8 +1129,8 @@ De acuerdo con la Ley de Servicios de Emergencia (468/2003), el nivel de servici
 Según el análisis de riesgos en el que se basa la decisión sobre el nivel de servicio18 del Servicio de Bomberos de Helsinki, el lugar del accidente pertenece a la zona de riesgo I. En este caso, la primera unidad de intervención debe llegar al punto del accidente e iniciar las primeras medidas en un plazo de seis minutos desde que recibe la solicitud de intervención. El equipo de intervención, que debe incluir a un titular de cargo de mando y como mínimo
 18  La decisión sobre el nivel de servicio de los servicios de emergencia define el nivel de los servicios prestados por los servicios de emergencia en su ámbito. La decisión sobre el nivel de servicio del Servicio de Bomberos de Helsinki para los años 2009–2012 fue aprobada el 24.8.2009
 
-
 ## Página 41
+
 
 tres unidades de intervención, debería estar en el lugar 20 minutos después de la solicitud de intervención. Las estaciones de bomberos se procuran situar de modo que, estando las unidades de intervención en la estación, la zona de riesgo 1 se alcance de la manera más eficiente posible.
 La preparación continua del Servicio de Bomberos de Helsinki se distribuye, en tiempos normales, entre siete estaciones de bomberos, cuyo personal y equipamiento están en estado de salida de 60 segundos desde que reciben la solicitud de intervención. Cada estación de bomberos dispone como mínimo de una unidad de intervención (vehículo de bomberos con su equipamiento y tripulación) y una ambulancia. Algunas estaciones de bomberos cuentan con equipamiento especial, como por ejemplo un vehículo de bomberos pesado.
@@ -1126,8 +1141,8 @@ VR dispone en Helsinki, en el patio de Ilmala, de un vehículo de bomberos pesad
 En Helsinki, el servicio de bomberos se encarga, con base contractual, principalmente de la atención del transporte sanitario urgente. El médico de la Unidad de Primeros Auxilios del Distrito Hospitalario de Helsinki y Uusimaa (HUS) actúa como asesor médico del transporte sanitario y como jefe de campo de los servicios de emergencia sanitarios (jefe sanitario). Las once ambulancias del servicio de bomberos están distribuidas en cada estación de bomberos y en una estación de transporte sanitario independiente. Además, el médico con ambulancia y el jefe de transporte sanitario con su unidad, que forman parte del sistema de primeros auxilios, están en preparación en la estación de bomberos de Kallio.
 La solicitud de ambulancias se basa en la evaluación de riesgos realizada por el operador de guardia del centro de emergencias y en las instrucciones de intervención que la Unidad de Primeros Auxilios de HUS entrega al centro de emergencias. La instrucción de intervención aplicada al accidente era la instrucción de intervención Monipotilastilanne (situación de múltiples víctimas) para el Centro de Emergencias de Helsinki. La instrucción clasifica las situaciones de múltiples víctimas en cuatro clases. La clasificación se basa en el número de pacientes, el grado de lesiones y la naturaleza del accidente. En función de la clasificación, el centro de emergencias debe solicitar la salida que corresponda a la clase indicada en la instrucción. Según la instrucción, a una situación de múltiples víctimas de segundo grado deben enviarse tres ambulancias, un médico con ambulancia y el jefe de transporte sanitario.
 
-
 ## Página 42
+
 
 ## 2.8
 ### Grabaciones
@@ -1152,8 +1167,8 @@ Según los datos del dispositivo de registro de circulación de la locomotora, e
 La tracción llegó a durar 8 min 1 s antes de que la unidad se detuviera a las 7.45.58 tras recorrer 2,4 kilómetros. La presión de la línea de freno descendió durante el frenado con el freno de tren hasta un mínimo de 3,64 bares, comenzando a subir de nuevo, y estaba en 3,78 bares cuando la unidad se detuvo.
 La unidad volvió a ponerse en movimiento a las 8.01.56. La locomotora tenía el modo de tracción activado, es decir, empujó los vagones durante 38 segundos y la velocidad aumentó a 19 km/h. Aunque el modo de tracción no estaba activado, la velocidad continuó aumentando y llegó a 21 km/h, hasta que 4 s después comenzó a descender la presión de la línea de freno. El frenado con el freno eléctrico comenzó 3 s después del inicio de la caída de la presión de la línea de freno. La presión de la línea de freno llegó a descender a 2,53 bares antes de que la unidad se detuviera. El frenado por la caída de la presión de la línea de freno y el freno eléctrico permanecieron activados hasta que la unidad se detuvo. El maquinista realizó el frenado con la válvula del conductor justo antes de que la unidad se detu-
 
-
 ## Página 43
+
 
 viera. La unidad se detuvo a las 8.02.47 tras recorrer 192 metros desde la nueva puesta en marcha.
 Figura 14. Representación gráfica de los datos del dispositivo de registro de circulación en función de la distancia desde el inicio de la marcha hasta la separación total de los vagones. Añadido en rojo el perfil longitudinal de la vía.
@@ -1175,6 +1190,7 @@ A las 7.47.40 el maquinista informó al control de tráfico de Helsinki de una a
 
 ## Página 44
 
+
 El conductor del tren se dirigió inmediatamente al canal 7 y preguntó al maquinista qué avería tenía. 
 El maquinista supuso que había alguna avería en el sistema de 1 500 voltios del tren, y que el interruptor principal de la locomotora se había disparado y no podía volver a conectarse. El conductor informó de que se iba a marchar a investigar la avería. Al mismo tiempo, informó de que su teléfono móvil estaba programado para el tren. El maquinista comunicó que el maquinista del tren que venía en sentido contrario había visto un destello a mitad del tren. 
 A las 7.51.07, la regulación del tráfico se puso en contacto con el conductor e informó de que se retiraba la señal de autorización de marcha del señalizador, porque era de esperar que no pudieran continuar el viaje de inmediato. El conductor estuvo de acuerdo y manifestó que salía humo entre el vagón comedor y el vagón siguiente. 
@@ -1183,10 +1199,10 @@ A las 7.57.18, el conductor comunicó al maquinista que no podía reparar la ave
 A las 8.00.49, el maquinista informó a la regulación del tráfico de que el IC71 estaba listo para continuar hasta el andén de Helsinki. La regulación del tráfico prometió dar las señales de autorización de marcha. 
 A las 8.02.25, el maquinista pidió a la regulación del tráfico que confirmara que el personal de vagones de la estación vendría a revisar el cable de 1 500 voltios. 
 A las 8.09.06, la regulación del tráfico se puso en contacto con el IC71 y preguntó si estaban en su sitio. El maquinista informó de que habían vuelto a su sitio, porque la línea de freno se había vaciado por alguna razón y que estaban buscando el motivo en ese momento. Y en ese mismo momento, el conductor informó de que habían caído hielo entre los vagones y de que las mangueras de las líneas de freno y de la línea principal de aire se habían desprendido y estaban goteando. Informó de que las otras mangueras estaban tan heladas que conectarlas llevaría al menos media hora sin las herramientas adecuadas. La regulación del tráfico manifiesta que el tren está realmente en una situación muy complicada, pero que no se puede hacer nada si no se mueve. A lo cual el conductor respondió que el único medio era desacoplar los frenos de los vagones de la parte delantera y llegar a la estación con los frenos de media formación. A juicio de la regulación del tráfico, sería realmente una buena idea. El conductor informó de que procedería a ello, tras lo cual la regulación del tráfico comunicó que tenían libre la vía de acceso al señalizador 226 y que podían continuar el viaje cuando estuvieran listos. 
-A las 8.13.57, el conductor pidió al maquinista que hiciera un corte de tensión, pero el maquinista no lo escuchó. 
-
+A las 8.13.57, el conductor pidió al maquinista que hiciera un corte de tensión, pero el maquinista no lo escuchó.
 
 ## Página 45
+
 
 A las 8.20.11, el maquinista informó al conductor de que en la parte de la locomotora la línea de freno y el depósito de aire principal estaban en buen estado. El conductor informó de que estaba fuera del tren despresurizando los frenos de los vagones de la parte delantera. 
 A las 8.23.53, el conductor informó de que ahora el tren rodaba bien, ya que había puestose en marcha por sí mismo, y pidió al maquinista que detuviera el tren. El maquinista respondió que el tren estaba parado todo el tiempo. A esto el conductor respondió con incredulidad de que no podía estar parado, pero en ese mismo momento manifestó que el tramo estaba cortado y que los vagones de la parte delantera se habían puesto en marcha. El maquinista respondió a esto que ahora solo rápidamente al freno de mano. El conductor informó de que intentaba subir, pero por la conversación se entiende que no lo consigue. Entonces informa, sin aliento, de que ahora ha ocurrido una catástrofe en la estación. El maquinista informó a la regulación del tráfico de la emergencia roja para todos, porque los vagones 71 del tren habían comenzado a deslizarse hacia la estación después de que el conductor hubiera liberado los frenos y el tramo entre los vagones hubiera estado cortado. La regulación del tráfico respondió que ya había oído el asunto e intentaba dirigir el tren hacia algún lugar. El conductor pidió que alguien llamara al personal del vagón comedor. En la conversación mantenida en la regulación del tráfico, alguien preguntó si el conductor había ido a detener los vagones desprendidos, a lo cual otro manifestó que no los había logrado detener. El maquinista informó a la regulación del tráfico de que en los vagones desprendidos del tren 71 no había ningún conductor. El conductor confirmó, sin aliento, lo mismo.  
@@ -1196,10 +1212,10 @@ A las 8.27.45, en la regulación del tráfico se pidió avisar en la estación d
 ## 2.8.3 
 ### Grabaciones del centro de emergencias y de los servicios de emergencia
 Los investigadores han tenido a su disposición el registro de voz relacionado con las llamadas de emergencia y las alertas del centro de emergencias de Helsinki. Del registro de voz se obtienen, entre otros datos, el lugar del accidente y su magnitud, así como la movilización del servicio de bomberos y de la policía. Además, los investigadores han tenido a su disposición los resúmenes de la base de datos de accidentes del servicio de emergencia (PRONTO). Los resúmenes de PRONTO se dividen en resumen de alerta y resumen de accidente. De los resúmenes se desprende, entre otros datos, la hora de inicio de la llamada de emergencia, la apertura de las líneas de alerta a las unidades alertadas y las unidades alertadas. Además, de los resúmenes se desprende cuándo y con qué efectivos se han desplazado las unidades alertadas y cuándo han llegado al lugar.  
-Los tiempos de alerta tomados del registro de voz van con un retraso medio de 20 segundos respecto a los tiempos de PRONTO debido a las diferencias de registro en la apertura de las comunicaciones de voz. En el informe de investigación se utilizan principalmente los datos de PRONTO en lo que respecta a las llamadas de emergencia y las alertas.  
-
+Los tiempos de alerta tomados del registro de voz van con un retraso medio de 20 segundos respecto a los tiempos de PRONTO debido a las diferencias de registro en la apertura de las comunicaciones de voz. En el informe de investigación se utilizan principalmente los datos de PRONTO en lo que respecta a las llamadas de emergencia y las alertas.
 
 ## Página 46
+
 
 ### Registro de voz del centro de emergencias 
 A las 8.29.30, el centro de emergencias alertó a la unidad de bomberos H21 en el edificio comercial de Elielinaukio para que comprobara la alarma del detector automático de incendios. 
@@ -1233,10 +1249,10 @@ Tabla 1. Datos iniciales del registro de la base de datos de accidentes desde el
 8.34.54 
 8.36.29 
 8.37.48 
-8.38.15 
-
+8.38.15
 
 ## Página 47
+
 
 | 83854 . . | +1024 . | H190 en el lugar |
 | 83945 . . | +1115 . | H291 en el lugar |
@@ -1285,6 +1301,7 @@ Datos del registro estadístico de accidentes del servicio de bomberos desde el 
 
 ## Página 48
 
+
 H25 llega al lugar 
 | 83629 . . | +759 . | H25 llega al lugar |
 | 83748 . . | +918 . | HP4 llega al lugar |
@@ -1309,10 +1326,10 @@ De las imágenes también se puede apreciar que, en torno al momento de la colis
 En su conjunto, la garantía de la seguridad en VR-Yhtymä se basa, además de la política de seguridad, en los sistemas de gestión de la seguridad, la gestión de riesgos y el seguimiento continuo de los acontecimientos excepcionales. 
 VR-Yhtymä dispone del sistema de gestión de la seguridad exigido por el artículo 30 de la ley ferroviaria (555/2006), que forma parte del sistema de gestión de VR. La instrucción de procedimiento vigente relativa al sistema de gestión de la seguridad ferroviaria de VR entró en vigor el 25.11.2009. El punto de partida de la gestión de la seguridad ferroviaria es la identificación y evaluación de los riesgos que amenazan la seguridad ferroviaria, así como la definición de las medidas de gestión de dichos riesgos. El objetivo es la mejora continua de la seguridad ferroviaria. Por gestión de riesgos se entiende el mantenimiento de la conciencia sobre los efectos de los cambios en la actividad y en el entorno operativo sobre la seguridad. En las evaluaciones periódicas de riesgos se identifican los riesgos que amenazan la actividad y se definen los medios para gestionarlos. A los acontecimientos excepcionales que ponen en peligro la seguridad debe reaccionarse de inmediato. Cada empleado de la compañía está obligado a notificar un acontecimiento de este tipo a su superior, quien debe tramitar la notificación recibida de inmediato. 
 La actividad de seguridad de VR se basa en la política de seguridad de la compañía. La aplicación de la política de seguridad se garantiza mediante un programa de seguridad trienal y objetivos de seguridad fijados anualmente. 
-Además del sistema de gestión de la seguridad ferroviaria, VR cuenta con un sistema independiente de seguridad del material rodante. 
-
+Además del sistema de gestión de la seguridad ferroviaria, VR cuenta con un sistema independiente de seguridad del material rodante.
 
 ## Página 49
+
 
 Las divisiones elaboran mensualmente informes de seguridad ferroviaria y de seguridad de las maniobras de clasificación sobre los accidentes y situaciones de amenaza ocurridos. Los grupos de dirección de las divisiones y de las unidades tratan el desarrollo de la seguridad de forma periódica. El informe de seguridad ferroviaria se trata mensualmente en el consejo de administración de VR. 
 La colaboración con el personal se lleva a cabo en cuatro comités regionales de seguridad ferroviaria, así como en el comité de seguridad ferroviaria de la sede central de VR, cuyo presidente es el responsable de seguridad. 
@@ -1342,10 +1359,10 @@ el desarrollo de situaciones de accidente y de amenaza
 - 
 la evaluación del grupo de dirección sobre el cumplimiento de los objetivos de seguridad. 
 El propósito de las auditorías internas es comprobar si la actividad corresponde a la descripción del sistema de gestión de la seguridad ferroviaria. Las divisiones y sus unidades realizan las auditorías anualmente de acuerdo con los planes de auditoría. Las áreas del sistema de gestión y todos los centros de trabajo de la unidad son objeto de auditoría una vez cada tres años. Se ha emitido una instrucción específica sobre las auditorías (Y Tuy 19/040/03, 1.9.2003). 
-La supervisión de la actividad de seguridad garantiza que las personas que desempeñan tareas de seguridad del tráfico cumplen las disposiciones sobre seguridad ferroviaria y los métodos de trabajo correctos y se encuentran en condiciones de trabajo (Y Tuy 31/040/04, 8.1.2009). El transporte de pasajeros, VR Cargo, Junaliikennöinti y Kunnossapito elaboran planes de seguimiento trienales por unidad, mediante los cuales se controla el cumplimiento de los requisitos de seguridad ferroviaria. 
-
+La supervisión de la actividad de seguridad garantiza que las personas que desempeñan tareas de seguridad del tráfico cumplen las disposiciones sobre seguridad ferroviaria y los métodos de trabajo correctos y se encuentran en condiciones de trabajo (Y Tuy 31/040/04, 8.1.2009). El transporte de pasajeros, VR Cargo, Junaliikennöinti y Kunnossapito elaboran planes de seguimiento trienales por unidad, mediante los cuales se controla el cumplimiento de los requisitos de seguridad ferroviaria.
 
 ## Página 50
+
 
 Los superiores deben supervisar la actividad de sus subordinados que desempeñan tareas de seguridad del tráfico e intervenir sin demora ante cualquier actividad contraria a las disposiciones o instrucciones (instrucción de supervisión de los superiores O 15/040/06, 1.1.2007). Los temas y objetos de la supervisión de los superiores se definen en los planes de supervisión de los superiores. Los acontecimientos de supervisión de los superiores se notifican y las unidades elaboran un resumen de los informes de supervisión de los superiores para la revisión de la dirección. 
 ### Gestión de riesgos 
@@ -1360,10 +1377,10 @@ La tarea de la Autoridad de Seguridad del Transporte es velar por la seguridad g
 ## TRÁFICO Y TRABAJOS EN VÍA EN EL SISTEMA FERROVIARIO (RVI/1092/412/2009) 
 El punto 5 de la disposición trata de las maniobras de clasificación. Por maniobras de clasificación se entiende el desplazamiento y la formación de vagones, realizados de forma separada del tráfico ferroviario en la estación de clasificación o en la línea ferroviaria, de acuerdo con las disposiciones emitidas sobre las maniobras de clasificación. Las maniobras de clasificación incluyen, por ejemplo, la formación de trenes a partir de vagones y el servicio de acompañamiento, en el que un tren listo para la salida se traslada a la vía de salida. 
 Las maniobras de clasificación las dirige el jefe de maniobras, quien obtiene los permisos necesarios para realizarlas. Para las maniobras de clasificación debe existir un permiso de control de tráfico en el ámbito del área sometida al control de tráfico. 
-Debe utilizarse el freno de aire de los vagones, es decir, debe conectarse la conducción del freno de aire de los vagones cuando las maniobras de clasificación se realicen sobre material rodante en el que haya personas que no formen parte del personal que participa en las maniobras de clasificación. 
-
+Debe utilizarse el freno de aire de los vagones, es decir, debe conectarse la conducción del freno de aire de los vagones cuando las maniobras de clasificación se realicen sobre material rodante en el que haya personas que no formen parte del personal que participa en las maniobras de clasificación.
 
 ## Página 51
+
 
 En el punto 5.1 VELOCIDAD EN LAS MANIOBRAS DE CLASIFICACIÓN se establece que las maniobras de clasificación deben realizarse de manera que el movimiento pueda detenerse en la distancia visible. La velocidad de la unidad no puede superar los 35 km/h cuando el movimiento se realiza empujando. 
 Según el punto 5.2 DIRECCIÓN DE LAS MANIOBRAS DE CLASIFICACIÓN, el jefe de maniobras debe asegurarse de que: 
@@ -1397,6 +1414,7 @@ La revisión de los frenos y el ensayo completo de los frenos de un tren de pasa
 19  El tipo de freno es un concepto que expresa la velocidad de funcionamiento y la fuerza de los frenos.
 
 ## Página 52
+
 
 ### En la inspección de los frenos debe constatarse que:
 - 
@@ -1435,8 +1453,8 @@ La inspección de salida se realiza a todos los vagones del tren saliente. Compr
 20 La norma de seguridad ferroviaria fue derogada el 5.6.2005.
 21 LISO es la abreviatura de Liikkuvan Kaluston Sähkömääräykset (Reglamentos eléctricos del Material Rodante Circulante). La instrucción fue derogada el 31.12.2009.
 
-
 ## Página 53
+
 
 prueba (Jt IV.3). Si el vagón no es apto para la conexión de tracción o de 1500 V, se envía al mantenimiento.
 En el apartado 5. INSPECCIÓN DE DISPONIBILIDAD DEL TREN DE VIAJEROS
@@ -1476,8 +1494,8 @@ los equipos de agua y WC del vagón
 el cierre de las puertas exteriores de los extremos del primer y del último vagón
 22 VETAHE = Sistema de control de producción de los Servicios de Mantenimiento.
 
-
 ## Página 54
+
 
 - 
 la conexión adecuada de los cables libres a los armarios y el cierre de las puertas de los armarios
@@ -1516,8 +1534,8 @@ revestimientos de fricción, discos de freno, instrumentación indicadora de los
 - 
 el funcionamiento de los frenos de riel
 
-
 ## Página 55
+
 
 - 
 la prueba del dispositivo antideslizamiento
@@ -1557,8 +1575,8 @@ los vagones están en condiciones aptas para la circulación.
 De la comprobación de la aptitud para el viaje realizada debe informarse al maquinista en el momento de la comprobación de los frenos y de la prueba.
 ### Conforme a la tarjeta de instrucción laboral elaborada por el Centro de Formación de VR para los instructores laborales, Conexión entre vagones de viajeros (1.15/30.8.1999), la conexión entre vagones se realiza de la siguiente manera: con la locomotora se empujan los enganches y se comprimen hasta que el enganche de tornillo queda a la tensión adecuada. La justificación de apretar la conexión a la tensión adecuada es que una conexión demasiado holgada afecta a la comodidad de los pasajeros y una conexión demasiado tensa dificulta la apertura de la conexión.
 
-
 ## Página 56
+
 
 ## 2.11 
 ### Investigación realizada por la policía
@@ -1573,6 +1591,7 @@ Grafisk presentation över vagnarnas hastighet från avgången till kollisionen.
 Figure 15. Graphical representation of the speed of the cars from the loosening point to the collision. The green line represents the speed of the cars.
 
 ## Página 57
+
 
 ## ANÁLISIS
 ## 3.1
@@ -1590,32 +1609,44 @@ Según las mediciones realizadas después del accidente, el acoplamiento de torn
 
 ## Página 58
 
-Figura 16. Acoplamiento entre los vagones Ex y Rx según las mediciones. Los topes se tocaban entre sí, pero no se habían comprimido en absoluto. El eslabón de acoplamiento está dibujado desprendido del fondo del gancho, porque en el fondo del gancho había hielo.
-
-Bild 16.
-Kopplingen mellan Ex- och Rx-vagnen enligt mätningar. Buffertarna var i kontakt med varandra, men de var inte ihoppressade mot varandra. Kopplingslänken har avbildats lossnad från bottnen av kroken för att det fanns is i bottnen av kroken.
-
-Figure 16. The coupling between the Ex and Rx cars, on the basis of measurements. The buffers touched but had not been compressed at all. The coupling loop has drown off the hook because there was ice on the bottom of the curve of the hook.
-
-En algún momento, al empujar los vagones hacia la estación de Helsinki, los topes se comprimieron tanto que el eslabón de acoplamiento del acoplamiento de tornillo, que se había congelado rígido, salió del gancho y ya no volvió a caer en el gancho. Esto ocurrió antes de la avería del cable de 1 500 voltios y de la interrupción de la comunicación telefónica de acompañamiento del tren. Los posibles momentos en los que el eslabón de acoplamiento salió del gancho fueron la salida y la activación de los dispositivos en posición de tracción, es decir, cuando la locomotora empezó a empujar los vagones a los 1 min 21 s, 2 min 4 s, 2 min 36 s y 6 min 22 s después de la salida. La salida es el momento más probable, porque entonces hubo derrapes en la locomotora, es decir, las ruedas de la locomotora patinaron durante 21 segundos. El eslabón de acoplamiento dejó de caer definitivamente en el gancho de tracción a los 5 min 17 s o a los 6 min 56 s después de la salida, al frenar con el freno eléctrico, solo con el freno que afecta a la locomotora. En ese momento, los cuatro primeros vagones continuaron el viaje a la velocidad anterior, mientras que la velocidad de la locomotora y de los vagones 5.º–8.º acoplados a ella disminuía.
+Kuva 16. Ex- ja Rx-vaunun välin kytkentä mittausten perusteella. Puskimet koskettivat 
+toisiaan, mutta eivät olleet puristuneet lainkaan kokoon. Kytkinlenkki on piirretty 
+irti koukun pohjasta, koska koukun pohjalla oli jäätä. 
+Bild 16. 
+Kopplingen mellan Ex- och Rx-vagnen enligt mätningar. Buffertarna var i kontakt med varandra, 
+men de var inte ihoppressade mot varandra. Kopplingslänken har avbildats lossnad från bottnen 
+av kroken för att det fanns is i bottnen av kroken. 
+Figura 16. El acoplamiento entre los coches Ex y Rx, sobre la base de las mediciones. Los topes se 
+tocaban pero no se habían comprimido en absoluto. El eslabón de enganche se ha dibujado desprendido 
+del fondo del gancho porque había hielo en el fondo de la curva del gancho. 
+En algún momento, al empujar los coches hacia la estación de Helsinki, los topes se comprimieron 
+tanto que el eslabón de enganche del tornillo de acoplamiento, que se había quedado rígido por la 
+congelación, se elevó fuera del gancho y ya no volvió a caer en el gancho. Esto ocurrió antes de 
+la avería del cable de 1 500 voltios y de la interrupción de la comunicación telefónica de 
+acompañamiento del tren. Los posibles momentos de elevación del eslabón de enganche fuera del 
+gancho fueron la salida en marcha y la puesta en servicio de los dispositivos en estado de tracción, 
+es decir, cuando la locomotora ha comenzado a empujar los coches a los 1 min 21 s, 2 min 4 s, 
+2 min 36 s y 6 min 22 s después de la salida. La salida en marcha es lo más probable, porque 
+entonces se produjeron deslizamientos en la locomotora, es decir, las ruedas de la locomotora 
+derrumbaron durante 21 segundos. El eslabón de enganche quedó definitivamente sin caer en el 
+gancho de tracción ya sea a los 5 min 17 s o a los 6 min 56 s después de la salida en marcha, 
+al frenar con freno eléctrico, solo con el freno que afecta a la locomotora. En ese momento, 
+los cuatro primeros coches continuaron el recorrido a la velocidad anterior, mientras que la 
+velocidad de la locomotora y de los coches 5.º–8.º acoplados a ella disminuía.
 
 ## Página 59
 
-Figura 17. La causa de la rotura del espacio fue que, al comprimirse los topes, el eslabón de acoplamiento del acoplamiento de tornillo, que se había congelado rígido, salió del gancho.
-
+Kuva 17. La causa de la rotura del enganche fue que, al comprimirse los amortiguadores, el eslabón del acoplamiento de tornillo, que había quedado rígido por la congelación, se desprendió del gancho.
 Bild 17.
-Orsaken till att kopplingen mellan vagnarna bröts var att skruvkopplets kopplingslänk som hade stelnat av kölden steg upp ur kroken när buffertarna pressades ihop.
-
-Figure 17. The coupling broke because the screw coupling loop, frozen solid, rose off the hook as the buffers were compressed.
-
-Figura 18. Funcionamiento previsto del acoplamiento de tornillo. Al comprimirse los topes, el acoplamiento de tornillo desciende y el eslabón no sale del gancho.
-
+La causa de que la unión entre los vagones se rompiera fue que el eslabón de acoplamiento del acoplamiento de tornillo, que se había endurecido por el frío, subió del gancho cuando los amortiguadores se presionaron juntos.
+Figure 17. El acoplamiento se rompió porque el eslabón del acoplamiento de tornillo, congelado por completo, se desprendió del gancho al comprimirse los amortiguadores.
+Kuva 18. Funcionamiento previsto del acoplamiento de tornillo. Al comprimirse los amortiguadores, el acoplamiento de tornillo desciende y el eslabón no se desprende del gancho.
 Bild 18.
-Så här är skruvkopplet avsedd att fungera. När buffertarna pressas ihop sänker sig skruvkopplet och kopplingslänken hålls på kroken.
-
-Figure 18. The intended operation of the screw coupling. As the buffers are compacted, the screw coupling moves down and the loop does not rise off the hook.
+Así es como está diseñado para funcionar el acoplamiento de tornillo. Cuando los amortiguadores se presionan juntos, el acoplamiento de tornillo desciende y el eslabón de acoplamiento permanece en el gancho.
+Figure 18. El funcionamiento previsto del acoplamiento de tornillo. Al compactarse los amortiguadores, el acoplamiento de tornillo desciende y el eslabón no se desprende del gancho.
 
 ## Página 60
+
 
 El conductor de acompañamiento no vio, durante ninguna de las dos paradas, que el espacio estuviera roto. No vio nada anormal en la primera parada salvo que el enchufe del cable de 1 500 voltios estaba flojo, y en la segunda parada, además, la desconexión de las mangueras de freno. Cuando el tren se detuvo, el espacio entre vagones se había cerrado en ambos casos, porque el extremo delantero frenó más rápidamente que el extremo trasero. En la segunda ocasión, el conductor de acompañamiento tuvo que meterse entre los vagones para poder cerrar las llaves de acoplamiento. Sin embargo, solo cerró las llaves de acoplamiento desde el lado del vagón Ex. El acoplamiento de tornillo, si ya había caído, estaba en el lado del vagón Rx.
 
@@ -1635,6 +1666,7 @@ En el procedimiento de evaluación de riesgos hay instrucciones concretas sobre 
 
 ## Página 61
 
+
 sinki fue en octubre de 1990. Sin embargo, no se había elaborado un plan de preparación para prevenir accidentes de este tipo.
 
 En conclusión, se establece que el sistema de gestión de la seguridad, con sus instrucciones de funcionamiento, está bien documentado y que en los procedimientos se ha procurado la concreción (por ejemplo, el procedimiento de gestión de riesgos). Sin embargo, en la implicación de las personas en el funcionamiento conforme al sistema de gestión de la seguridad pueden observarse deficiencias en los distintos niveles de la organización.
@@ -1653,6 +1685,7 @@ Dado que en los trenes se habían producido averías eléctricas y de cable en a
 
 ## Página 62
 
+
 de la conducción de acompañamiento. Según sus declaraciones, también había revisado el enganche entre los vagones, pero no observó nada anormal. La falta de detección se vio influida por una fuerte capa de nieve y hielo entre los vagones, la oscuridad y probablemente también por la rareza del desacoplamiento automático de los vagones. El conductor de acompañamiento probablemente no tuvo en cuenta en absoluto la posibilidad de que los vagones se desprendieran. La fatiga pudo ser también un factor de fondo en el estrechamiento de la toma de decisiones.
 El desarrollo de los acontecimientos hacia un accidente grave fue favorecido por la existencia en la playa de maniobras de una pendiente tan pronunciada como de diez milésimas en dirección a la estación de Helsinki, momento en que los vagones que se habían desprendido y liberado de los frenos comenzaron a rodar con aceleración hacia la estación.
 En la regulación del tráfico se realizó un análisis de qué opciones existían para minimizar las consecuencias del accidente después de que los vagones se hubieran desprendido. El hecho de que en la regulación del tráfico se tuviera conocimiento del desarrollo de los acontecimientos a través de la radio de playa de maniobras ya un poco antes del contacto oficial con ellos, proporcionó más tiempo para la toma de decisiones. Ya no existían buenas opciones, sino que todas conllevaban grandes riesgos. Sin embargo, se procuró basar la decisión en la opción que conllevase menos riesgos. La rápida actuación de los agentes de información para advertir a las personas presentes en la estación y para informar a los vigilantes contribuyó con éxito a la minimización de las consecuencias. No obstante, fue pura casualidad que hubiera personal de información suficiente en el lugar como para que también los agentes de orden recibieran rápidamente noticia de lo ocurrido.
@@ -1661,6 +1694,7 @@ Las personas que se encontraban en el vagón desprendido no recibieron previamen
 Anteriormente, los profesionales de los ferrocarriles avanzaban en su carrera «de la raíz al árbol», adquiriendo experiencia de forma amplia en distintas tareas laborales. Actualmente, la formación es una formación específica para una tarea determinada y los trabajadores son profesionales de un sector más estrecho. En estos casos, los trabajadores de la organización no necesariamente saben mucho de las tareas de los demás trabajadores, sino que la colaboración y la seguridad de la operación se basan en que cada uno realice su trabajo de forma precisa y conforme a las disposiciones. Al mismo tiempo, la exigencia de las tareas laborales individuales y del entorno operativo ha aumentado de tal manera que la verdadera polivalencia se ha vuelto cada vez más difícil. Sin embargo, en la organización existen tanto polivalentes de la «vieja escuela» como especialistas de la «nueva escuela», lo que en el mejor de los casos puede suponer una colaboración complementaria, pero que por otro lado también puede dar lugar a conflictos y situaciones de peligro. De un polivalente se puede esperar más de lo que su puesto de trabajo actual exigiría. Él mismo también puede imponer mayores exigencias a su actividad. Lo que se gana en amplitud de polivalencia puede perderse en precisión de los detalles.
 
 ## Página 63
+
 
 ## 3.2
 ### Análisis de las operaciones de rescate
@@ -1676,6 +1710,7 @@ El médico de ambulancia con su tripulación llegó al lugar como primera unidad
 Las comunicaciones de las operaciones de rescate se realizaron a través de la red de radio de autoridades y directamente cara a cara, ya que el lugar del accidente era geográficamente reducido. El organismo de rescate organizó recursos para la organización de la información a los medios y se celebraron suficientes ruedas de prensa.
 
 ## Página 64
+
 
 ## CONCLUSIONES
 ## 4.1
@@ -1700,6 +1735,7 @@ Las comunicaciones de las operaciones de rescate se realizaron a través de la r
 
 ## Página 65
 
+
 18. El primer vagón de dos plantas subió en el impacto sobre el tope de vía destrozado y posteriormente sobre el obstáculo de hormigón, recorriendo la zona de andén y chocando contra la pared del edificio de oficinas situado en el extremo de la vía 13. Parte del vagón penetró en el interior del edificio.
 19. El accidente no causó lesiones personales graves.
 ## 4.2
@@ -1719,6 +1755,7 @@ Dicho tren llegó por última vez a la descongelación nueve días antes y se ha
 6. Avsikten var att loket skulle skjuta vagnarna till avgångsspåret.
 
 ## Página 66
+
 
 7. Durante la maniobra, el tren se partió entre el cuarto y el quinto vagón.
 8. El jefe de maniobras no se percató de que el eslabón de enganche se había desprendido.
@@ -1740,8 +1777,8 @@ La causa del accidente fue que el eslabón de enganche se había desprendido del
 
 Cuando los vagones fueron empujados hacia adelante, los topes de vagón se comprimieron, lo que hizo que el eslabón de enganche del acoplamiento de tornillo, endurecido por el frío, se desprendiera del gancho. El hecho de que el acoplamiento de tornillo no estuviera suficientemente apretado contribuyó a que el eslabón se soltara. El hielo y la nieve entre los vagones y la escasa iluminación dificultaron la detección del eslabón de enganche.
 
-
 ## Página 67
+
 
 El conjunto de vagones en cuestión se había sometido por última vez a una limpieza nueve días antes y se había acumulado mucho hielo y nieve entre los vagones y en los bogies de los vagones. Además, el agua del tubo de desagüe del lavabo del aseo del vagón acoplado al vagón-restaurante había contribuido a la formación de hielo entre este vagón y el vagón-restaurante.
 
@@ -1762,8 +1799,8 @@ El conjunto de vagones en cuestión se había sometido por última vez a una lim
 11. Dado que había una pendiente descendente de la vía en el lugar donde los vagones se separaron del resto del tren, los vagones empezaron a moverse por sí mismos después de que se hubieran liberado los frenos.
 12. En los vagones separados se encontraban dos auxiliares de a bordo y un conductor que estaba de descanso; ninguno de ellos sabía que los vagones se habían separado del tren.
 
-
 ## Página 68
+
 
 13. La dirección de tráfico tomó la decisión de conducir los vagones a una vía libre.
 14. El operador de enclavamiento condujo los vagones a la vía 13.
@@ -1787,8 +1824,8 @@ VR-Yhtymä Oy elaboró la instrucción en vigor desde el 11.1.2010: «La liberac
 
 Al depósito de vagones de Helsinki en Ilmala se le ha adquirido un equipo de deshielo con glicol para impedir la formación de nuevo hielo en los chasis de los vagones y la adhesión de la nieve.
 
-
 ## Página 69
+
 
 A las vías 13 y 14 de la estación de Helsinki se les han adquirido nuevos topes de vía. Los topes pueden detener incluso un tren pesado (de 400 toneladas) a una velocidad de hasta 35 km/h sin que la deceleración suponga un riesgo para las personas que puedan encontrarse en los vagones. Todas las vías de la estación se equiparán con topes similares.
 
@@ -1798,8 +1835,8 @@ Las vías de llegada de la estación se han equipado con balizas JKV, con las qu
 
 La Dirección de Transporte ha hecho instalar topes de vía detenedores en las vías de maniobra que van desde el depósito de Ilmala a la estación de Helsinki. En una situación excepcional, una unidad de tren puede detenerse con estos dispositivos. Los tacones de frenado asociados al tope de vía detenedor se giran hacia los raíles y se apartan de los raíles utilizando el motor de cambio de aguja y sus controles. Cuando una unidad en movimiento colisiona con el tope de vía, los tacones de frenado se desprenden del mecanismo de cambio y se desplazan con la unidad, deteniéndola eficazmente. El material de fricción de los tacones de frenado es caucho.
 
-
 ## Página 70
+
 
 Figura 20. Tope de vía detenedor girado hacia el raíl. (Imagen: Konepaja Mankinen Oy)
 
@@ -1811,8 +1848,8 @@ Al depósito de vagones de Ilmala se le ha adquirido un equipo de deshielo con g
 
 Las vías 13 y 14 de la estación de Helsinki se han equipado con nuevos topes de vía. Los topes pueden detener incluso un tren pesado (de 400 toneladas) que circule a una velocidad de hasta 35 km/h sin que la deceleración suponga un riesgo para las personas que puedan encontrarse en los vagones. Todas las vías de la estación se equiparán con topes de vía similares.
 
-
 ## Página 71
+
 
 Figura 19.
 Nuevo tope de vía en la vía 13.
@@ -1821,8 +1858,8 @@ Las vías de llegada de la estación se han equipado con balizas ATP, con las qu
 
 La Dirección de Transporte de Finlandia ha hecho instalar topes de vía detenedores en las vías de maniobra que van desde el depósito de Ilmala a la estación central de Helsinki. En una situación excepcional, un tren puede detenerse con estos dispositivos. Los tacones de frenado de los topes de vía se colocan sobre los raíles y se apartan de ellos mediante un motor de cambio de aguja y sus controles. Cuando una unidad de tren en movimiento colisiona con el tope de vía, los tacones de frenado se desprenden del mecanismo de cambio, acompañan a la unidad y la detienen eficazmente. El material de fricción de los tacones de frenado es caucho.
 
-
 ## Página 72
+
 
 Figura 20.
 Tope de vía detenedor girado hacia el raíl.
@@ -1835,8 +1872,8 @@ Al depósito ferroviario de Helsinki en Ilmala se le ha dotado de un sistema de 
 
 Se han instalado nuevos topes de vía en las vías 13 y 14 de la estación de Helsinki. Los topes de vía son capaces de detener incluso un tren pesado que circule a 35 km/h sin que la deceleración suponga un riesgo para los pasajeros que puedan encontrarse en los vagones. Todas las vías de la estación de Helsinki se equiparán con topes de vía similares.
 
-
 ## Página 73
+
 
 Figura 19. Nuevo tope de vía en la vía 13.
 
@@ -1844,12 +1881,13 @@ Las vías de llegada de Helsinki están equipadas con balizas ATP, que reducen l
 
 La Dirección de Transporte de Finlandia ha hecho instalar topes de vía detenedores en las vías que conducen desde el depósito de Ilmala a la estación central de ferrocarril de Helsinki. En una situación excepcional, un tren puede detenerse con este equipo. Los tacones de frenado de los topes de vía se colocan sobre las vías y se apartan de ellas mediante el motor de cambio de aguja y sus controles. Cuando una unidad de tren en movimiento colisiona con el tope de vía, los tacones de frenado se desprenden del mecanismo de cambio, acompañan a la unidad y la detienen eficazmente. Los tacones de frenado del tope de vía están fabricados en caucho.
 
-
 ## Página 74
+
 
 Figura 20. Tope de vía detenedor girado hacia la vía.
 
 ## Página 75
+
 
 ## 6 
 ## RECOMENDACIONES DE SEGURIDAD 
@@ -1866,10 +1904,10 @@ Los proveedores de servicio a bordo no tenían información sobre cómo detener 
 También al personal del vagón-restaurante debería organizarse formación en el uso de dispositivos importantes por razones de seguridad. [B1/10R/S298] 
 Los asuntos a formar serían, por ejemplo, la frenada de emergencia, el uso del freno de mano y la apertura de emergencia de las puertas en los diferentes tipos de vagones. La formación debería organizarse para todo el personal y completarse cuando se ponga en servicio nuevo material rodante. 
 ### S299 Plan de actuación del control de tráfico para situaciones excepcionales 
-No existía un plan de preparación para gestionar una situación de este tipo, y los vagones desprendidos se dirigieron a una vía libre tras una breve reunión. Para que se sepa de antemano cómo actuar, la comisión de investigación recomienda a la Agencia Finlandesa de Seguridad del Transporte que 
-
+No existía un plan de preparación para gestionar una situación de este tipo, y los vagones desprendidos se dirigieron a una vía libre tras una breve reunión. Para que se sepa de antemano cómo actuar, la comisión de investigación recomienda a la Agencia Finlandesa de Seguridad del Transporte que
 
 ## Página 76
+
 
 asegure que la Agencia de Transporte de Finlandia adopte las medidas necesarias para implementar la siguiente recomendación: 
 Debería elaborarse un plan de preparación para el control de tráfico para situaciones excepcionales. 
@@ -1889,10 +1927,10 @@ El Ministerio de Transporte y Comunicaciones, la Agencia Finlandesa de Seguridad
 ## REKOMENDATIONER FÖR SÄKERHETEN 
 ### S296 Anvisning för åtdragning av skruvkopplet 
 Anvisningen om att skruvkopplet ska dras åt ”till lämplig spänning” ger för stort utrymme för tolkning. Därför rekommenderar undersökningskommissionen för Trafiksäkerhetsverket att verket ska säkerställa att VR-Group Ab vidtar åtgärder för att verkställa följande rekommendation: 
-Entydiga anvisningar för åtdragningen av skruvkopplet ska sammanställas för olika vagnstyper. [B1/09R/S296] 
-
+Entydiga anvisningar för åtdragningen av skruvkopplet ska sammanställas för olika vagnstyper. [B1/09R/S296]
 
 ## Página 77
+
 
 ### S297 Användningen av handbromsen 
 Det fanns ingen anvisning för hur man ska använda handbromsen i en situation där man blir tvungen att frigöra vagnarnas bromsar genom ”mjölkning” för att få tåget att röra på sig. För att säkerställa att vagnarna alltid hålls på plats rekommenderar undersökningskommissionen för Trafiksäkerhetsverket att verket ska säkerställa att VR-Group Ab vidtar åtgärder för att verkställa följande rekommendation: 
@@ -1906,27 +1944,26 @@ Utbildningen bör omfatta t.ex. nödbromsning, användning av handbromsen och n�
 Det fanns ingen beredskapsplan för hur man hanterar situationer av det här slaget och vagnarna som hade lossnat styrdes efter en kort rådplägning till ett tomt spår. För att personalen i förväg ska veta hur man ska förfara rekommenderar undersökningskommissionen för Trafiksäkerhetsverket att verket ska säkerställa att Trafikverket Ab vidtar åtgärder för att verkställa följande rekommendation: 
 För trafikledningen bör en beredskapsplan för exceptionella situationer utarbetas. [B1/10R/S299] 
 Beredskapsplanen bör omfatta både riktningen från Ilmala till Helsingfors och från Helsingfors till Ilmala. I planen bör ingå anvisningar för hur man håller kontakt med personerna i vagnarna och passagerarinformationen. 
-Hur man ska handla vid exceptionella situationer bör övas regelbundet. 
-
+Hur man ska handla vid exceptionella situationer bör övas regelbundet.
 
 ## Página 78
 
-Trafiksäkerhetsverket framför i sitt utlåtande att beredskapen särskilt bör inriktas på utvecklandet av sådana för trafikledningen tillgängliga tekniska system och funktioner som kan vara till hjälp om fara hotar. Trafiksäkerhetsverket konstaterar därtill att trafikledningen även i framtiden ska förfara likadant som vid denna incident, dvs. bedöma den rådande situationen och förhållandena och vidta åtgärder utifrån bedömningen. Trafikledningen ska också behärska de tillgängliga metoderna för hantering av tillbud. 
-### Övriga iakttagelser och förslag 
-Undersökningskommissionen betraktar redan vidtagna eller aktuella åtgärder som positiva och understöder slutförandet av dem. 
-Vidare påminner undersökningskommissionen om att vagnarna och särskilt utrymmet mellan vagnarna bör avisas i förebyggande syfte tillräckligt ofta för att kontrollerna ska kunna utföras i enlighet med föreskrifterna. De som granskar vagnarna bör påminnas om att de, om en koppling mellan två vagnar inte kan kontrolleras på grund av isbildning, alltid bör se till att vagnen avisas. 
-Kommunikationsministeriet, Trafiksäkerhetsverket, Trafikverket och VR-Group Ab har gett utlåtanden om rekommendationerna. De fullständiga utlåtandena finns i bilaga 1. 
-## 6 
-## RECOMENDACIONES DE SEGURIDAD 
-### S296 Instrucciones para el apriete del enganche de tornillo 
-Las instrucciones actuales para el apriete del enganche de tornillo, "apretar lo suficiente", dejan demasiado margen de interpretación. Por ello, la Comisión de Investigación recomienda a la Agencia Finlandesa de Seguridad del Transporte que asegure que VR Group adopte las medidas necesarias para implementar la siguiente recomendación: 
-Deberían elaborarse instrucciones inequívocas sobre el apriete del enganche de tornillo en los diferentes tipos de vagones. [B1/10R/S296] 
-### S297 Uso del freno de mano 
-Actualmente no existen instrucciones sobre el uso del freno de mano en una situación en la que los vagones deben liberarse "ordeñándolos" para poner el tren en movimiento. Para asegurar que los vagones permanezcan en su lugar en todo momento, la Comisión de Investigación recomienda a la Agencia Finlandesa de Seguridad del Transporte que asegure que VR Group adopte las medidas necesarias para implementar la siguiente recomendación: 
-Para asegurar que los vagones permanezcan en su lugar mientras los frenos se liberan "ordeñándolos", deberían elaborarse instrucciones sobre el uso del freno de mano. [B1/10R/S297] 
-
+Trafiksäkerhetsverket manifiesta en su dictamen que la preparación debe centrarse especialmente en el desarrollo de aquellos sistemas técnicos y funciones disponibles para la conducción del tráfico que puedan ser de ayuda si se avecina un peligro. Trafiksäkerhetsverket constata además que la conducción del tráfico también en el futuro debe proceder de la misma manera que en este incidente, es decir, evaluar la situación y las circunstancias vigentes y adoptar medidas en función de dicha evaluación. La conducción del tráfico debe también dominar los métodos disponibles para la gestión de incidencias.
+### Otras observaciones y propuestas
+La comisión de investigación considera las medidas ya adoptadas o en curso como positivas y respalda su finalización.
+Asimismo, la comisión de investigación recuerda que los vagones y, en particular, el espacio entre los vagones deben deshelarse con fines preventivos con la suficiente frecuencia para que las inspecciones puedan realizarse conforme a las prescripciones. Quienes revisan los vagones deben recordar que, si un acoplamiento entre dos vagones no puede inspeccionarse debido a la formación de hielo, deben asegurarse siempre de que el vagón se deshiele.
+El Ministerio de Comunicaciones, Trafiksäkerhetsverket, Trafikverket y VR-Group Ab han emitido dictámenes sobre las recomendaciones. Los dictámenes completos figuran en el anexo 1.
+## 6
+## RECOMENDACIONES DE SEGURIDAD
+### S296 Instrucciones para el apriete del acoplamiento de tornillo
+Las instrucciones vigentes para el apriete del acoplamiento de tornillo, «apretar lo suficiente», dejan demasiado margen de interpretación. Por ello, la comisión de investigación recomienda a la Agencia Finlandesa de Seguridad del Transporte que se asegure de que VR Group adopte las medidas necesarias para implementar la siguiente recomendación:
+Deben elaborarse instrucciones inequívocas sobre el apriete del acoplamiento de tornillo en los distintos tipos de vagones. [B1/10R/S296]
+### S297 Uso del freno de mano
+Actualmente no existen instrucciones sobre el uso del freno de mano en una situación en la que los vagones deben liberarse «ordeñándolos» para poner en marcha el tren. Para garantizar que los vagones permanezcan inmóviles en todo momento, la comisión de investigación recomienda a la Agencia Finlandesa de Seguridad del Transporte que se asegure de que VR Group adopte las medidas necesarias para implementar la siguiente recomendación:
+Para garantizar que los vagones permanezcan inmóviles mientras se liberan los frenos «ordeñándolos», deben elaborarse instrucciones sobre el uso del freno de mano. [B1/10R/S297]
 
 ## Página 79
+
 
 Si hay vagones en uso cuyo freno de mano se avería al usarse con los frenos de aire activados, deberían modificarse para evitar que se produzcan dichos daños. 
 ### S298 Formación del personal de restaurante para circunstancias excepcionales 
@@ -1943,6 +1980,7 @@ En su dictamen, la Agencia Finlandesa de Seguridad del Transporte sugiere que la
 
 ## Página 80
 
+
 ### Otras observaciones y sugerencias
 La Comisión de Investigación de Accidentes considera buenas las medidas ya adoptadas o en proceso de ejecución y las apoya.
 
@@ -1955,8 +1993,8 @@ Esko Värttiö
 Sirkku Laapotti
 Jaakko Niskala
 
-
 ## Página 81
+
 
 ## LISTADO DE FUENTES
 Los siguientes anexos de fuentes están registrados en el Centro de Investigación de Accidentes:
@@ -1985,8 +2023,8 @@ Dictamen de VR-Yhtymä Oy Y 5018/021/11, 23.2.2011
 18. Planes de formación y programas de capacitación del personal de estación y del personal de a bordo 2009
 19. Circulación y trabajos en vía en el sistema ferroviario (RVI/1092/412/2009)
 
-
 ## Página 82
+
 
 20. Capacidad de frenado del tren e inspección y ensayo de los frenos (RVI/363/412/2008)
 21. Instrucción de procedimiento de los Servicios de Mantenimiento de VR. Instrucción de inspección de vagones de pasajeros (SHK120-050-001, 31.12.2005) (No público)
@@ -1997,31 +2035,31 @@ Dictamen de VR-Yhtymä Oy Y 5018/021/11, 23.2.2011
 26. Sistema de gestión de la seguridad ferroviaria de VR-Yhtymä (O13/040/99) 25.11.2009 (No público)
 27. Gestión de los riesgos de seguridad ferroviaria en el Grupo VR (YTuy 5/040/04) (No público)
 
-
 ## Página 83
+
 
 ## Anexo 1/1 (5)
 ## DICTÁMENES
 
-
 ## Página 84
 
-## Anexo 1/2 (5)
-## Anexo 1/2 (5)
 
+## Anexo 1/2 (5)
+## Anexo 1/2 (5)
 
 ## Página 85
 
-## Anexo 1/3 (5)
-## Anexo 1/3 (5)
 
+## Anexo 1/3 (5)
+## Anexo 1/3 (5)
 
 ## Página 86
 
-## Anexo 1/4 (5)
-## Anexo 1/4 (5)
 
+## Anexo 1/4 (5)
+## Anexo 1/4 (5)
 
 ## Página 87
+
 
 ## Anexo 1/5 (5)

@@ -10,13 +10,15 @@ chars: 72932
 ratio_longitud: 1.09
 tokens_in: 27066
 tokens_out: 19917
-verificacion: revisar
-notas_cifras: ["bloque 2: cifras cortas: 1/38", "bloque 3: cifras cortas: 1/67", "bloque 4: cifras largas: 5/27; cifras cortas: 1/65", "bloque 8: cifras largas: 2/21", "bloque 9: cifras cortas: 1/95"]
-avisos: ["bloque 4: marcadores de página: 4 vs 3"]
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: revisar
+avisos: ["página 36: cifras largas: faltan 2/8 (25%)"]
+notas_cifras: ["página 7: cifras cortas: 1/9", "página 10: cifras cortas: 1/4", "página 40: cifras cortas: 1/11"]
 ---
+
 ## Página 1
+
 
 Ministerio Federal de Transporte,  
 Dirección de  
@@ -27,19 +29,19 @@ Colisión de trenes
 seguida de descarrilamiento  
 en el túnel de Landrücken  
 el 26.04.2008  
-Bonn, 14.05.2010  
-
+Bonn, 14.05.2010
 
 ## Página 2
+
 
 ### Publicado por:  
 Ministerio Federal de Transporte, Construcción y Desarrollo Urbano,  
 Oficina Federal de Investigación de Accidentes Ferroviarios  
 Robert-Schuman-Platz 1  
-53175 Bonn  
-
+53175 Bonn
 
 ## Página 3
+
 
 ### Índice  
 ## 1  
@@ -93,10 +95,10 @@ CONCLUSIONES ...................................................................
 ## 6  
 RESUMEN DE LAS EVALUACIONES ................................................................................45  
 ## 7  
-RECOMENDACIONES DE SEGURIDAD ..............................................................................48  
-
+RECOMENDACIONES DE SEGURIDAD ..............................................................................48
 
 ## Página 4
+
 
 ### Resumen  
 ## 1.1  
@@ -111,10 +113,10 @@ El descarrilamiento provocó daños considerables en los vehículos, en la super
 ### Causas  
 El descarrilamiento del ICE 885 puede atribuirse a las siguientes causas:  
 1. Una posible causa es un descarrilamiento debido a la acción directa de las ovejas sobre la cabeza motriz. Según los cálculos de simulación, son suficientes 9-13 ovejas con una masa total de 900 kg a 1.300 kg en la situación de conducción considerada para provocar una descarga completa de las ruedas. En total, se encontraron cadáveres de animales con una masa total de 3.700 kg en la zona del descarrilamiento.  
-2. También es posible que las piezas dañadas en la parte frontal de la cabeza motriz durante el impacto contra las ovejas se hayan quedado atascadas entre los cadáveres de los animales y la vía, lo que podría haber provocado el descarrilamiento. Esta posible causa de descarrilamiento se ve respaldada por una  
-
+2. También es posible que las piezas dañadas en la parte frontal de la cabeza motriz durante el impacto contra las ovejas se hayan quedado atascadas entre los cadáveres de los animales y la vía, lo que podría haber provocado el descarrilamiento. Esta posible causa de descarrilamiento se ve respaldada por una
 
 ## Página 5
+
 
 travesaña rota en la zona del descarrilamiento.  
 3. También es posible una combinación de las dos causas mencionadas anteriormente.  
@@ -122,6 +124,7 @@ La causa del descarrilamiento de los vagones intermedios probablemente sea la re
 Figura 1
 
 ## Página 6
+
 
 ### Preámbulo 
 ## 2.1 
@@ -143,10 +146,10 @@ IVE Ingenieurgesellschaft für Verkehrs- und Eisenbahnwesen mbH
  - Guiado de la vía del ICE 1 descarrilado – 
 • 
 TSTG Schienen Technik GmbH & Co. KG 
-- Ensayos no destructivos en algunos puntos de las vías - 
-
+- Ensayos no destructivos en algunos puntos de las vías -
 
 ## Página 7
+
 
 ## 2.2 
 ### Nota organizativa 
@@ -155,10 +158,10 @@ La dirección de la Oficina Federal de Investigación de Accidentes Ferroviarios
 ## 2.3 
 ### Objetivo y propósito de la investigación de accidentes ferroviarios 
 El objetivo y propósito de las investigaciones es aclarar las causas de los sucesos peligrosos y extraer de ellas indicaciones para la mejora de la seguridad. Las investigaciones de la EUB no tienen como fin establecer una culpa ni aclarar cuestiones de responsabilidad o de otras reclamaciones de derecho civil, y se llevan a cabo de forma independiente de cualquier investigación judicial.  
-La investigación abarca la recopilación y evaluación de información, la elaboración de conclusiones, incluida la determinación de las causas, y, en su caso, la emisión de recomendaciones de seguridad. Las propuestas de la oficina de investigación para la prevención de accidentes y la mejora de la seguridad en el tráfico ferroviario se comunican a la autoridad de seguridad y, si fuera necesario, a otras entidades y autoridades o a otros Estados miembros de la UE en forma de recomendaciones de seguridad. 
-
+La investigación abarca la recopilación y evaluación de información, la elaboración de conclusiones, incluida la determinación de las causas, y, en su caso, la emisión de recomendaciones de seguridad. Las propuestas de la oficina de investigación para la prevención de accidentes y la mejora de la seguridad en el tráfico ferroviario se comunican a la autoridad de seguridad y, si fuera necesario, a otras entidades y autoridades o a otros Estados miembros de la UE en forma de recomendaciones de seguridad.
 
 ## Página 8
+
 
 ### Suceso 
 ## 3.1 
@@ -173,6 +176,7 @@ El ICE 885 se detuvo en la estación de Fulda mediante un freno de servicio bajo
 
 ## Página 9
 
+
 Los túneles de ckentunnels en el pk 251,325 tenían asimismo una velocidad de 210 km/h. La velocidad admisible del ICE 885 es de 250 km/h.
 A las 21:04:40* h, en el pk 251,332, se registró en la EFR la entrada «Störsammelmelder» (indicador de averías acumuladas), el equipo de tren PZB «Apagado»/ la categoría de tren superior «Apagado» y «Vigilancia continua». Como causa de este cambio de registro se considera el impacto contra las primeras ovejas a una velocidad de 210 km/h.
 En el pk 251,347 se registró un cambio de velocidad a corto plazo de 210 km/h a 215 km/h en un tramo de 35 m. La causa puede ser el impacto contra más animales y el consiguiente valor fluctuante del coeficiente de adherencia y, como consecuencia de ello, el descarrilamiento constatado del «primer» eje en el pk 251,385. Las primeras huellas de descarrilamiento (traviesas de hormigón dañadas y cables LZB) se encuentran en el bloque 78, aproximadamente 60 m detrás del portal norte del túnel Landrücken, en el sentido de circulación del tren, y están situadas antes de la primera conexión de agujas en el túnel.
@@ -180,8 +184,8 @@ Aproximadamente a las 21:04:45* h, en el pk 251,622, a una velocidad de aprox. 2
 Las primeras huellas de descarrilamiento apuntan a un descarrilamiento hacia la derecha. Las huellas, así como la evaluación de los cojinetes de los ejes, confirman que se produjo un descarrilamiento del primer eje debido a las fuerzas y efectos resultantes del impacto contra el rebaño de ovejas. Sin embargo, la cabeza motriz descarrilada no abandonó la zona de la vía y mantuvo la trayectoria durante los siguientes aproximadamente 700 m hasta la primera aguja 602 «Spur» (vía) atravesada frontalmente.
 Tras atravesar la zona del corazón, el eje descarrilado chocó contra la hoja de aguja y, por ello, se desplazó hacia la derecha por encima de las cabezas de las traviesas hacia la balasto. Esta constatación se ve corroborada por la grabación de la EFR. En el pk 251,927 (situación de la aguja W 602) se aprecia un aumento brusco de la curva de frenado desde una velocidad registrada de 174 km/h a 141 km/h y un registro posterior de 179 km/h en un tramo grabado de 120 m. La causa de este registro de velocidad son los coeficientes de adherencia cambiantes como consecuencia del descarrilamiento de los ejes por encima del canto superior del riel.
 
-
 ## Página 10
+
 
 El impacto contra la hoja de aguja de la aguja 602 se produjo a aprox. 179 km/h. La velocidad de descarrilamiento en la zona de la aguja fue de 174 km/h.
 A continuación, la cabeza motriz chocó contra el borde derecho del camino del túnel. Las fuerzas transversales ejercidas por el tren descarrilado sobre la aguja, en combinación con la penetración en el lecho de balasto, provocaron un desplazamiento de la estructura de vía hacia la izquierda.
@@ -191,13 +195,13 @@ Dado que los dos vagones intermedios siguientes a la cabeza motriz líder no se 
 El ICE 885 se detuvo a las 21:05:11* h en el pk 252,432.
 Nota: * Los valores de tiempo extraídos de la cinta de almacenamiento de datos no corresponden a la hora real.
 
-
 ## Página 11
+
 
 Figura 2: Esquema del lugar del accidente
 
-
 ## Página 12
+
 
 ## 3.2
 ### Antecedentes del incidente
@@ -215,8 +219,8 @@ Vagón restaurante
 TK 401 011-2 (trasero)
 El tren tenía una longitud de 360 m y la velocidad admisible era de 250 km/h.
 
-
 ## Página 13
+
 
 ### 3.2.2 Descripción de la infraestructura
 ### 3.2.2.1 Línea
@@ -226,8 +230,8 @@ El tramo de línea está equipado con un dispositivo automático de ocupación d
 La velocidad admisible de la línea es de 280 km/h.
 Figura 3: Plano de situación
 
-
 ## Página 14
+
 
 ### 3.2.2.2 Túnel Landrücken (10.779 m)
 El túnel Landrücken se encuentra en la línea de alta velocidad Hannover – Würzburg. El túnel de doble vía, construido entre 1981 y 1986, se recorre normalmente a una velocidad máxima de 250 km/h.
@@ -237,8 +241,8 @@ El trazado transcurre en gran parte en línea recta. En la zona del portal norte
 En el túnel, en los pk 252,1 («Landrücken Nord») y 258,2 («Landrücken Süd»), hay dos apartaderos donde los trenes pueden cambiar de vía.
 Figura 4: Túnel Landrücken 10779 m
 
-
 ## Página 15
+
 
 ### 3.2.2.3 Descripción del sistema de señales
 La ejecución de las circulaciones de trenes en el tramo de línea de la línea principal de doble vía desde Üst Hartberg hasta Üst Landrücken-Süd la regula el Fdl del puesto de maniobras Ff Fulda. El puesto de maniobras es del tipo DrS 600 de plano de vías.
@@ -249,6 +253,7 @@ El tramo de línea está equipado con radio de tren - Sistema Global para las Co
 Las notificaciones de tren se realizan automáticamente a través de sistemas de notificación de números de tren (ZN 800).
 
 ## Página 16
+
 
 ### 3.2.4 Trabajos de construcción en el lugar del suceso o en sus proximidades
 En el área del lugar del suceso (en el pk 251,332) no se realizaron trabajos de construcción.
@@ -264,53 +269,51 @@ El procedimiento de emergencia se activó de acuerdo con las disposiciones inter
 - 1 empleado de ferrocarril y 21 viajeros resultaron gravemente heridos
 - 4 empleados de ferrocarril y 13 viajeros resultaron ligeramente heridos
 
-
 ## Página 17
 
-### 3.3.2 Daños materiales
-| Daños materiales | importe estimado de los daños |
-| --- | --- |
-| Vehículos (ICE 885) | 520 000 000 € . . , |
-| Infraestructura (instalaciones constructivas) Instalaciones de seguridad y telecomunicaciones Instalaciones mecánicas y eléctricas Otros daños | 230 000 000 € . . , 180 000 000 € . . , 30 000 000 € . , 72 000 000 € . , |
-| Medio ambiente Formación importante de polvo; fuerte molestia por olores procedentes de cadáveres de animales |  |
+### 3.3.2 Daños materiales 
+| Daños materiales | Importe estimado del daño |
+| Vehículos (ICE885) | 520000000 € . . , |
+| Infraestructura (instalaciones constructivas) Instalaciones de seguridad y telecomunicaciones Instalaciones mecánicas y electrotécnicas Otros daños | 230000000 € . . , 180000000 € . . , 30000000 € . , 72000000 € . , |
+| Medio ambiente Producción importante de polvo; fuerte molestia por olor debido a cadáveres de animales |  |
 . 
 ### 3.4 Condiciones meteorológicas  
-En el momento del accidente ya era de noche. No hubo influencias meteorológicas especiales; la visibilidad era clara.  
-
+En el momento del accidente ya había oscuridad. No hubo influencias meteorológicas particulares; 
+la visibilidad era clara.
 
 ## Página 18
 
-### Acta de investigación 
-### 4.1 Resumen de declaraciones 
-### 4.1.1 Jefe de tráfico
-El jefe de tráfico 3 de Fulda (Ff) declaró que a las 20:58 h había recibido del maquinista del ICE 782 el aviso de que había atropellado a una oveja en el pk 249,8.  
-A las 21:05 h había informado a la central de gestión de emergencias sobre el aviso recibido.
-A las 21:08 h había recibido de la central de emergencias del maquinista del ICE 885 el aviso de que la cabeza motriz se había descarrilado.
-Este aviso de emergencia lo había transmitido a la central de gestión de emergencias a las 21:10 h.
-Constatación:
-Según la evaluación del recorrido del tren, la indicación del pk (249,8) no fue transmitida correctamente por el maquinista del ICE 782.
+### Protocolo de investigación
+### 4.1 Resumen de declaraciones
+### 4.1.1 Jefe de maniobras
+El jefe de maniobras 3 de Fulda (Ff) declaró que a las 20:58 horas recibió del conductor del ICE 782 el aviso de que había atropellado una oveja en el pk 249,8.
+A las 21:05 informó al centro de emergencias del aviso recibido.
+A las 21:08 horas recibió la llamada de emergencia del conductor del ICE 885, en la que comunicaba que la locomotora se había descarrilado.
+Dicha llamada de emergencia la reenvió a las 21:10 horas al centro de emergencias.
+Hallazgo:
+De acuerdo con la evaluación del recorrido, la indicación del pk (249,8) no fue transmitida correctamente por el conductor del ICE 782.
+### 4.1.2 Conductor de tracción del ICE 782
+El conductor del ICE 782 declaró que, poco antes de salir del túnel de Landrücken, observó una oveja en la vía por la que circulaba. Inició inmediatamente una frenada de emergencia, pero no pudo evitar el impacto con la oveja. Tras informar al jefe de maniobras, inspeccionó la locomotora y detectó un daño en la antena de la LZB. La marcha continuó con señalización.
+### 4.1.3 Conductor de tracción del ICE 885
+El conductor del ICE 885 declaró que, debido a la operatividad, la oscuridad y la velocidad de circulación de unos 210 km/h, no había prestado atención a circunstancias especiales a lo largo de la línea. Al entrar en el túnel de Landrücken observó algo «gris» sobre los raíles. Inmediatamente después chocó con un obstáculo. Tras identificar el obstáculo, inició inmediatamente una frenada de emergencia. La locomotora entera se sacudió con mucha fuerza. Observó que la locomotora se desprendía de la vía y se descarrilaba. A continuación, activó una parada de emergencia de la LZB mediante el pulsador del panel de indicación y mando. Inmediatamente después fue expulsado de su asiento. El tren continuó circulando bajo fuertes sacudidas y finalmente se detuvo. Emitió una orden de parada de emergencia por radio de tren. El jefe de tren se puso en contacto con él e informó
 
-### 4.1.2 Maquinista del ICE 782
-El maquinista del ICE 782 declaró que, poco antes de salir del túnel de Landrücken, había observado una oveja en el vía que debía circular. Había iniciado inmediatamente un frenado de emergencia, pero no pudo evitar el impacto contra la oveja. Tras informar al jefe de tráfico, había examinado la cabeza motriz y había constatado un daño en la antena LZB. La continuación del viaje se realizó bajo control de señales.
+## Página 19
 
-### 4.1.3 Maquinista del ICE 885
-El maquinista del ICE 885 declaró que, debido a los procedimientos operativos, a la oscuridad y a la velocidad de circulación de aproximadamente 210 km/h, no había prestado atención a circunstancias especiales junto a la vía. Al entrar en el túnel de Landrücken, había observado algo «gris» sobre los raíles. Inmediatamente después, había chocado contra un obstáculo. Tras atropellar el obstáculo, había iniciado inmediatamente un frenado de emergencia. La cabeza motriz completa había sufrido una vibración muy intensa. Había observado que la cabeza motriz se elevaba del riel y se descarrilaba.
-A continuación, había activado una parada de emergencia LZB mediante el botón de presión en el panel de visualización y control. Inmediatamente después, había sido proyectado fuera del asiento. El tren había continuado avanzando aún bajo fuertes sacudidas y finalmente se había detenido. Había enviado una orden de parada de emergencia mediante la radio del tren. El conductor del tren se había puesto en contacto con él e le había informado de que, según su evaluación, no había personas gravemente heridas en el tren. Los viajeros y el personal de acompañamiento del tren se habían dirigido posteriormente hacia el lugar de rescate.
-Las conversaciones se realizaron mediante radio digital del tren (GSM-R).
-
-### 4.1.4 Pasajeros
-Varios pasajeros interrogados declararon que, tras la detención del ICE 885, debido al fallo de la iluminación del vehículo, las vías de evacuación y los martillos de emergencia no eran visibles o lo eran muy mal. Debido a la fuerte desaceleración del tren, muchas piezas de equipaje habían caído de los portaequipajes.  
-Se renuncia en este punto a evaluar otras declaraciones, ya que no guardan relación con el desarrollo del accidente.
-
+miert, que según su evaluación no habría personas gravemente heridas en el tren. Los viajeros y el personal de a bordo se habrían dirigido a continuación hacia el lugar de rescate. 
+Las conversaciones se mantuvieron mediante radio digital de tren (GSM-R). 
+### 4.1.4 Viajeros 
+Varios viajeros interrogados declararon que, tras la detención del ICE 885 debido a la avería de la iluminación del vehículo, las vías de escape y los martillos de emergencia no eran visibles o eran muy poco visibles. Debido a la fuerte frenada del tren, muchas piezas de equipaje cayeron del portaequipajes. 
+En este punto se prescinde de la evaluación de otras declaraciones, ya que no guardan relación con el desarrollo del accidente. 
 ### 4.2 Sistema de gestión de la seguridad 
-### 4.2.1 Gestión de emergencias
-De conformidad con el artículo 4 apartado 1 de la Ley General de Ferrocarriles (AEG), las empresas ferroviarias tienen la obligación de colaborar en las medidas de protección contra incendios y de asistencia técnica. En un acuerdo entre los ministerios del Interior de los Länder y DB AG se llegó a un entendimiento sobre un procedimiento. Para DB Netz AG son aplicables las correspondientes leyes de protección contra incendios y catástrofes de los Länder. La gestión de emergencias de DB AG está descrita y regulada más detalladamente en la Directriz del grupo (Ril) 123.  
-Bases:
-Según Ril 123.0110, las zonas de emergencia deben establecerse de tal manera que el lugar de intervención correspondiente pueda alcanzarse en un plazo de 30 minutos.  
-De conformidad con el artículo 8 de Ril 123.0150, en todos los incidentes peligrosos en el túnel de Landrücken que requieran el despliegue de fuerzas de rescate externas para la extinción de incendios o la asistencia técnica, deben desplegarse los trenes de rescate (Rtz). El despliegue es independiente de la competencia municipal del cuerpo de bomberos que tripula el Rtz. Los Rtz deben desplegarse adicionalmente a petición del respectivo jefe de intervención.
-La decisión sobre el despliegue necesario de los medios de intervención corresponde exclusivamente a la dirección técnica de la intervención.
+### 4.2.1 Gestión de emergencias 
+De acuerdo con el § 4 Abs. 1 de la Ley General de Ferrocarriles (AEG), los ferrocarriles tienen la obligación de participar en las medidas de protección contra incendios y de asistencia técnica. En un acuerdo entre los ministerios del interior de los Länder y la DB AG se acordó un procedimiento. Para la DB Netz AG resultan de aplicación las correspondientes leyes de protección contra incendios y de protección contra catástrofes de los Länder. La gestión de emergencias de la DB AG se describe y regula con mayor detalle en la Directriz de Grupo (Ril) 123. 
+Fundamentos: 
+Según la Ril 123.0110, los distritos de emergencia deben delimitarse de manera que se pueda alcanzar el lugar de intervención respectivo en un plazo de 30 minutos. 
+De acuerdo con el § 8 de la Ril 123.0150, en todos los eventos peligrosos en el túnel de Landrück que requieran la intervención de fuerzas de rescate externas para la extinción de incendios o la asistencia técnica, deben emplearse los trenes de rescate (Rtz). El empleo es independiente de la competencia municipal del cuerpo de bomberos que tripula el Rtz. Los Rtz deben emplearse además a petición del jefe de intervención respectivo. 
+La decisión sobre la intervención necesaria de los medios de intervención corresponde en exclusiva a la dirección técnica de la intervención.
 
 ## Página 20
+
 
 Según el Ril 123 0150, apartado 10, la puesta en marcha del tren de rescate (Rtz) en el túnel de Landrück debe ordenarse de inmediato por la central de gestión de emergencias competente tras tener conocimiento del incidente. En principio, debe ordenarse la puesta en marcha del tren de rescate cuyos lugares de estacionamiento se encuentren situados antes y después del lugar del incidente. La alarma del personal de tren necesario para la puesta en marcha del tren de rescate la realiza el responsable de tráfico (Fdl) competente para el lugar de estacionamiento del tren de rescate.
 
@@ -325,8 +328,8 @@ De los informes de intervención y de los hechos anteriormente expuestos se desp
 En lo que respecta a las medidas de evacuación, la llegada del Rtz de Würzburg al lugar del incidente no es relevante.
 Es urgente llevar a cabo un análisis posterior del incidente por parte de los responsables. En este proceso, el concepto de rescate y el proceder de los equipos de intervención deben ser el foco principal.
 
-
 ## Página 21
+
 
 ### 4.3 Investigación de la infraestructura y del sistema de señales
 ### 4.3.1 Tramo
@@ -342,8 +345,8 @@ En el recorrido de inspección de la vía según el Ril 821.2003 y en el recorri
 Inmediatamente después de la colisión se observaron «hundimientos» notables en las superficies de rodadura de los rieles. Estos «hundimientos» no se encontraron ni en la vía opuesta ni en la vía de circulación en el área anterior a la colisión. Se sospechó que los hundimientos fueran causados por piedras de balasto.
 El 05.05.2008 se cortó y extrajo una parte del riel, la cual fue examinada por TSTG Schienentechnik. Las mediciones no pudieron demostrar de manera concluyente que los
 
-
 ## Página 22
+
 
 hundimientos presentes fueran hundimientos causados por piedras de balasto. El perito no llegó a un resultado preciso.
 Se han cumplido los plazos de inspección en el marco de las pruebas no destructivas de los rieles según el Ril 821.2007. Se renuncia a un análisis más profundo, ya que no hay indicios documentados de que el descarrilamiento se viera favorecido por un fallo de un riel.
@@ -356,6 +359,7 @@ A partir de la evaluación de los resultados de inspección de los documentos/re
 Se renuncia a una verificación más detallada del estado de los puntos de cruce en el marco del presente informe, ya que el primer punto de cruce W 602 se encuentra aproximadamente 625 m después del impacto y aproximadamente 585 m después de las primeras huellas de descarrilamiento, por lo que el estado técnico no puede tener relevancia para el incidente.
 
 ## Página 23
+
 
 ### 4.3.2 Túnel de Landrück
 En el marco de la investigación del accidente, se solicitaron y evaluaron posteriormente los documentos de aprobación de la planificación (*Planfeststellungsunterlagen*) del túnel de Landrück a la Oficina Federal de Ferrocarriles (EBA), delegación de Núremberg.
@@ -372,8 +376,8 @@ En las disposiciones jurídicas ferroviarias no se establece una obligación de 
 En la resolución de aprobación de la planificación para la sección norte del túnel no se contienen indicaciones sobre medidas adicionales antes del portal del túnel, como el vallado de la vía correspondiente y la protección contra incendios y catástrofes. En el marco de las observaciones de las autoridades, de los titulares de intereses públicos y de particulares afectados, tampoco se plantearon exigencias respecto a un vallado del tramo de vía antes del túnel.
 En la autorización de planificación del 03.02.2006 para la adaptación del túnel de Landrück con plazas de rescate para el portal norte, para el túnel de ventana, para el túnel de acceso y para el portal sur, no se contienen condiciones sobre medidas adicionales en los portales del túnel.
 
-
 ## Página 24
+
 
 • 
 Medidas de seguridad dentro del túnel
@@ -389,8 +393,8 @@ El 29.12.2008 se inspeccionó el túnel de Landrück, incluidos los túneles de 
 En los respectivos actas se constató, entre otras cosas, que las puertas de los túneles de rescate no podían abrirse desde el exterior por los bomberos. Solo es posible el acceso desde el exterior si la puerta se ha abierto previamente desde el interior.
 Las puertas de las esclusas contra incendios solo podían abrirse con un gran esfuerzo físico. En la puerta de la esclusa contra incendios (esclusa – túnel) en el túnel de rescate en el pk 259,1 no funcionaba el cierre de pánico y un cerrador de puerta defectuoso impedía el cierre automático de la puerta.
 
-
 ## Página 25
+
 
 Evaluación:
 Sin acceso a los túneles de rescate, no es posible que los bomberos presten asistencia a través de los túneles de rescate. Sin embargo, debe asegurarse que el personal de rescate solo acceda tras consultar con el responsable del control de tráfico (*Fdl*) para excluir peligros procedentes del tráfico de trenes.
@@ -406,6 +410,7 @@ La instalación de centralización de señales funcionó sin errores en el perí
 
 ## Página 26
 
+
 ### 4.4 Investigación de las acciones operativas 
 Viaje del tren ICE 782 
 Bases: 
@@ -417,10 +422,10 @@ Valoración:
 Debido al impacto contra una oveja, el maquinista podía suponer que no se trataba de un peligro inminente según la Ril 408.0581. El maquinista podía suponer, dada la situación, que los trenes en la vía adyacente no estaban en peligro. Por lo tanto, no era necesario un mandato de parada de emergencia.  
 El maquinista se comportó conforme a la normativa según la Ril 492.0001. Detuvo el tren, informó al responsable de tráfico (Fdl) correspondiente y examinó la locomotora en busca de posibles daños. Informó al responsable de tráfico (Fdl) del daño constatado y de la interrupción del sistema LZB, y pudo continuar la marcha a velocidad reducida (con señalización principal).  
 El comportamiento del maquinista tras una colisión con animales no está descrito explícitamente en la normativa vigente disponible. Debe evaluarse hasta qué punto, basándose en el presente incidente, parece adecuada una concreción de la normativa.  
-El viaje del tren ICE 885 transcurrió, según las evaluaciones del registro de datos del tren (EFR) con conducción activa LZB, así como de las grabaciones de voz evaluadas, sin particularidades operativas. 
-
+El viaje del tren ICE 885 transcurrió, según las evaluaciones del registro de datos del tren (EFR) con conducción activa LZB, así como de las grabaciones de voz evaluadas, sin particularidades operativas.
 
 ## Página 27
+
 
 ### 4.5 Investigación del ICE 885 
 Para las siguientes constataciones y valoraciones se tienen en cuenta los resultados de los peritos de la empresa LogoMotive. Los documentos de mantenimiento fueron puestos a disposición de los peritos para su evaluación.  
@@ -432,10 +437,10 @@ Las alturas del borde de rodadura de todas las ruedas del vehículo Tz111 cumple
 Los valores del grosor del borde de rodadura se registraron simultáneamente a la medición de la altura del borde de rodadura.  
 Se respetaron los valores límite del grosor del borde de rodadura en todos los ejes.  
 ### Medida de las caras del borde de rodadura (qR)  
-Se evaluaron las medidas de las caras del borde de rodadura medidas. El valor mínimo permitido es de 6,5 mm. Las medidas de las caras del borde de rodadura de todas las ruedas se encuentran dentro del rango permitido. 
-
+Se evaluaron las medidas de las caras del borde de rodadura medidas. El valor mínimo permitido es de 6,5 mm. Las medidas de las caras del borde de rodadura de todas las ruedas se encuentran dentro del rango permitido.
 
 ## Página 28
+
 
 ### 4.6 Evaluación de la documentación del lugar del accidente y del registro de los distintos dispositivos de control 
 ### 4.6.1 Evaluación de la memoria del vehículo (EFR) 
@@ -446,10 +451,10 @@ La evaluación del EFR se documenta en el capítulo 3.1. Según ello, la velocid
 4. Indicador de averías (entrada "Ö" en la columna Ö) 
 En el punto 3.1 se asume que los cambios de registro pueden haber sido causados por el incidente "impacto contra ovejas".  
 La figura 6 muestra la evolución de la velocidad del tren extraída del EFR. En azul se marca el área en la que, suponiendo una normalización exacta de la ruta de circulación, se superaron los puntos de desvío. De ello se puede deducir la suposición de que el cambio de velocidad descrito en el capítulo 3.1 está relacionado con el superamiento del punto de desvío dañado por el descarrilamiento.  
-En rojo se representa el hecho de que la evolución de la desaceleración puede dividirse fundamentalmente en dos fases. En la primera zona se produce una desaceleración menor que en la segunda zona. También se asume, basándose en otros conocimientos, que en la primera zona la desaceleración se caracteriza por la fuerza de frenado del tren y la mayor resistencia al rodamiento del eje descarrilado. En la segunda zona se produce una desaceleración considerablemente mayor. La causa de esto es probablemente el hecho de que en el punto de desvío se hayan descarrilado ejes adicionales. 
-
+En rojo se representa el hecho de que la evolución de la desaceleración puede dividirse fundamentalmente en dos fases. En la primera zona se produce una desaceleración menor que en la segunda zona. También se asume, basándose en otros conocimientos, que en la primera zona la desaceleración se caracteriza por la fuerza de frenado del tren y la mayor resistencia al rodamiento del eje descarrilado. En la segunda zona se produce una desaceleración considerablemente mayor. La causa de esto es probablemente el hecho de que en el punto de desvío se hayan descarrilado ejes adicionales.
 
 ## Página 29
+
 
 Figura 6: Evolución de la velocidad del tren extraída del EFR 
 Aproximadamente 290 m después del cambio de registro se registró la disminución de la presión en la tubería principal de aire comprimido. La causa de esto es la activación del frenado de emergencia por parte del maquinista. 
@@ -459,6 +464,7 @@ En el tren accidentado había sensores de aceleración instalados en los ocho co
 El incidente de accidente se anuncia mediante un corte de cable en el sensor R1R (eje delantero en dirección de marcha, cojinete derecho del eje), lo cual equivale a la avería de este sensor. Aproximadamente 0,64 s después se registró un aumento claro de las aceleraciones en la carcasa del cojinete del eje izquierdo (véase la figura 7)
 
 ## Página 30
+
 
 2000
 1500
@@ -502,10 +508,10 @@ s
 2
 2
 26
-De ello puede determinarse la distancia recorrida hasta el descarrilamiento del segundo eje: 
-
+De ello puede determinarse la distancia recorrida hasta el descarrilamiento del segundo eje:
 
 ## Página 31
+
 
 sRS
 v
@@ -533,29 +539,29 @@ De este valor puede deducirse que el descarrilamiento del segundo eje tuvo lugar
 ### 4.7 Interpretación de las huellas del accidente 
 El durmiente roto se encuentra a aprox. 6 m después del inicio de la colisión con las ovejas, es decir, aún antes de las primeras huellas de descarrilamiento. Cabe suponer que las piezas dañadas en la parte frontal del cabezal motor por el impacto contra las ovejas se quedaron atascadas entre los cadáveres de los animales y el durmiente, que la fuerza resultante provocó la rotura del durmiente y que la fuerza de reacción podría haber favorecido el descarrilamiento. 
 Abbildung 8: Durmiente roto a aprox. 6 m tras el impacto contra el rebaño de ovejas  
-En la Abbildung 9 se observan las huellas de descarrilamiento en el lado derecho, visto en sentido de la marcha, que transcurren paralelas al eje de la vía a lo largo de un tramo considerable. 
-
+En la Abbildung 9 se observan las huellas de descarrilamiento en el lado derecho, visto en sentido de la marcha, que transcurren paralelas al eje de la vía a lo largo de un tramo considerable.
 
 ## Página 32
 
-Abbildung 9: Huellas de descarrilamiento en el lado derecho en sentido de la marcha  
-En contraste con ello, en el lado izquierdo se pueden distinguir dos huellas (véase Abbildung 10).  
 
+Abbildung 9: Huellas de descarrilamiento en el lado derecho en sentido de la marcha  
+En contraste con ello, en el lado izquierdo se pueden distinguir dos huellas (véase Abbildung 10).
 
 ## Página 33
 
+
 Abbildung 10: Huellas de descarrilamiento en el lado izquierdo en sentido de la marcha  
 En la Abbildung 11 y la Abbildung 12 se puede apreciar que las dos huellas de descarrilamiento encontradas proceden muy probablemente del primer eje. 
-Junto con los resultados de las investigaciones, esto descarta casi por completo que al impactar se descarrilaran dos o más ejes. 
-
+Junto con los resultados de las investigaciones, esto descarta casi por completo que al impactar se descarrilaran dos o más ejes.
 
 ## Página 34
 
-Abbildung 11: Análisis de las huellas de descarrilamiento – Parte 1 
-Abbildung 12: Análisis de las huellas de descarrilamiento – Parte 2 
 
+Abbildung 11: Análisis de las huellas de descarrilamiento – Parte 1 
+Abbildung 12: Análisis de las huellas de descarrilamiento – Parte 2
 
 ## Página 35
+
 
 ### 4.8 Análisis de cálculo o mediante simulación del impacto de las ovejas 
 Para estimar diversas influencias se elaboró un modelo de simulación simplificado. A continuación se documentan el modelo y los resultados. 
@@ -566,28 +572,28 @@ Abbildung 13: Modelo MKS de conducción simplificado
 El modelo consta de cuatro ejes, dos bastidores de bogie y la caja del vehículo, y tiene una masa total de 80 t. 
 Como elementos de fuerza entre los cuerpos actúan los resortes primarios y secundarios; además, en el nivel primario están modelados amortiguadores verticales y, en el nivel secundario, amortiguadores de cabeceo, balanceo y vertical, según los datos disponibles. 
 ### 4.8.2 Consideraciones de conducción 
-En cuanto a las condiciones de circulación, la situación del tren de medición difiere de la del tren del accidente. Con el tren de medición se recorrió el tramo correspondiente a v=280 km/h. El tren del accidente tenía una velocidad de aprox. 210 km/h. A continuación se comparan ambas condiciones de circulación mediante simulación. 
-
+En cuanto a las condiciones de circulación, la situación del tren de medición difiere de la del tren del accidente. Con el tren de medición se recorrió el tramo correspondiente a v=280 km/h. El tren del accidente tenía una velocidad de aprox. 210 km/h. A continuación se comparan ambas condiciones de circulación mediante simulación.
 
 ## Página 36
 
-La Tabelle 1 muestra la comparación de las dos situaciones de circulación en lo que respecta a la aceleración lateral no compensada. En el viaje de medición se recorrió el lugar del accidente con una aceleración lateral no compensada de 0,44 m/s². El tren del accidente recorrió el tramo de vía casi con aceleración lateral compensada. 
+La tabla 1 muestra la comparación de las dos situaciones de circulación respecto a la aceleración lateral no compensada. En el viaje de medición se recorrió el punto del accidente con una aceleración lateral no compensada de 0,44 m/s². El tren del accidente recorrió el tramo de vía casi con aceleración lateral compensada. 
 |  | Tren de medición | Tren del accidente | Unidad |
 | Velocidad de circulación | 280 | 210 | km/h |
-| Radio de curvatura | 7002 |  | m |
+| Radio de curva | 7002 |  | m |
 | Superelevación | 65 |  | mm |
-| acel. lateral no compensada | 0,44 | 0,06 | m/s² |
-Tabelle 1: Comparación de la aceleración lateral no compensada 
-Al comparar las fuerzas de apoyo de las ruedas calculadas, se aprecia claramente una menor dinámica en el caso de v=210 km/h y el efecto de la transferencia de fuerza de las ruedas debido a la aceleración lateral en el caso de v=280 km/h. En lo que respecta a las fuerzas de apoyo de las ruedas, la situación de circulación durante el viaje del accidente fue más favorable que en el viaje de medición. 
-La comparación de la suma de las fuerzas de guiado también revela una situación más favorable para el tren del accidente. 
-La comparación del coeficiente de seguridad de descarrilamiento Y/Q muestra que en la rueda exterior adelantada en curva la situación fue más favorable durante el viaje del accidente que en el viaje de medición. 
-El nivel general en esta situación es muy bajo y está muy lejos del valor límite. 
-Aunque se consideren las condiciones límite diferentes de las del viaje de inspección, puede afirmarse que la situación del viaje del accidente en la zona del lugar del accidente habría sido desde el punto de vista de la conducción una situación no crítica, si no hubiera sido por otras influencias que afectaron decisivamente a la situación. 
-### 4.8.3 Consideración del impacto 
-### Consideración del impacto (ICE - ganado vacuno) 
-En el marco del procedimiento de homologación del ICE1, en 1991 se encargó al Instituto de Tecnología de Transporte y Vehículos Ferroviarios; RWTH Aachen analizar el comportamiento ante el impacto con animales grandes. Debería verificarse si, al impactar un ICE contra ganado vacuno, se producen descargas de las ruedas y fuerzas laterales que puedan provocar un descarrilamiento.
+| Acel. lateral no comp. | 0,44 | 0,06 | m/s² |
+Tabla 1: Comparación de la aceleración lateral no compensada 
+En la comparación de las fuerzas de apoyo de rueda calculadas, se aprecia claramente una menor dinámica en el caso de v=210 km/h y el efecto de la transferencia de fuerza de rueda por la aceleración lateral en el caso de v=280 km/h. En lo que respecta a las fuerzas de apoyo de rueda, la situación de circulación en el viaje del accidente era más favorable que en el viaje de medición. 
+También la comparación de la suma de las fuerzas de guiado permite apreciar una situación más favorable en el tren del accidente. 
+La comparación del coeficiente de seguridad contra descarrilamiento Y/Q permite observar que en la rueda exterior de la curva precedente la situación en el viaje del accidente era más favorable que en el viaje de medición. 
+El nivel general en esta situación es muy bajo y muy alejado del valor límite. 
+Aunque se tengan en cuenta las condiciones límite diferentes de las del viaje de inspección, cabe señalar que en el viaje del accidente, en el ámbito del punto del accidente, se habría tratado de una situación no crítica desde el punto de vista de la circulación, si no hubieran influido otros factores de manera decisiva en la situación. 
+### 4.8.3 Consideración del choque 
+### Consideración del choque (ICE - ganado mayor) 
+En el marco del procedimiento de homologación del ICE1 se encargó en 1991 al Instituto de Tecnología de Transporte y Vehículos Ferroviarios; RWTH Aachen el análisis del comportamiento en caso de impacto con ganado mayor. Se debía comprobar si, en caso de impacto de un ICE contra ganado mayor, se producen descompresiones de rueda y fuerzas laterales que puedan dar lugar a un descarrilamiento.
 
 ## Página 37
+
 
 El resultado de la investigación fue que los impactos de los trenes ICE contra ganado mayor no se producen sin daños importantes o la destrucción de la parte frontal. Sin embargo, se excluyeron con una probabilidad cercana a la seguridad los descarrilamientos.
 
@@ -602,6 +608,7 @@ $t = \frac{0,583}{58,3} = 0,010 \text{ s}$
 (ver fig. 15)
 
 ## Página 38
+
 
 300
 Punto de contacto
@@ -623,6 +630,7 @@ SOK
 Figura 15: Consideración de la contornada inferior del ICE
 
 ## Página 39
+
 
 La figura 16 muestra ambas variantes consideradas de la evolución de la fuerza en función del tiempo. Varias ovejas con una distancia asumida de 0,7 m o 12 ms pueden realizarse mediante vectores de fuerza generados con una evolución de fuerza repetida. La figura 17 muestra esto para tres o cinco ovejas. Además, se asume simplificado que las ovejas no se influyen mutuamente; esta restricción es necesaria, ya que la interacción de las ovejas entre sí no puede representarse con los modelos físicos utilizados.
 
@@ -661,6 +669,7 @@ Figura 17: Vectores de fuerza generados
 
 ## Página 40
 
+
 La dirección exacta de aplicación del vector de fuerza no es conocida; por consiguiente, se examinan a continuación diversas variantes. En la figura 18 se puede ver la definición de los dos ángulos α y β. α describe el ángulo con respecto al eje longitudinal del vehículo y β el ángulo que conduce a una componente vertical del vector de fuerza.
 
 β
@@ -676,6 +685,7 @@ Debido a la colisión con una oveja se produce una descarga de la rueda hasta un
 En la siguiente figura se representan únicamente las fuerzas de apoyo de las ruedas mínimas restantes en función del número de ovejas.
 
 ## Página 41
+
 
 KZV 3; alpha=-10°; beta=127°
 KZV 5; alpha=-10°; beta=127°
@@ -720,6 +730,7 @@ Cabe señalar que la investigación puede ser únicamente una estimación de los
 
 ## Página 42
 
+
 los modelos físicos no son capaces de describir con precisión todos los detalles de una colisión entre el cabezal motor del ICE y ovejas. No obstante, los efectos físicos dominantes están capturados de tal manera que las afirmaciones realizadas son definitivamente independientes de la falta de precisión existente.
 Como resultado, puede afirmarse que es perfectamente plausible que, a partir de la acción directa de 9 a 13 ovejas, cada una con una masa de 100 kg, se produzca una descarga de las ruedas que ponga en duda la conducción segura en vía.
 Dado que, según la indicación de la Policía Federal (Bundespolizei), se eliminaron aproximadamente 3,7 t de cadáveres de animales, es perfectamente imaginable que el descarrilamiento fuera causado directamente por el impacto contra los animales.
@@ -732,8 +743,8 @@ En principio, en caso de una modificación puede prescindirse de una nueva prueb
 De los documentos presentados se desprende que se cumple la condición 1 para el cabezal motor, es decir, todas las magnitudes de evaluación relevantes para la seguridad presentan una holgura respecto al valor límite de al menos el 10 %: Además, en los documentos solicitados a la DB AG se indica que las modificaciones realizadas en el bastidor del bogie del cabezal motor se encuentran dentro de los límites establecidos para prescindir de ensayos de circulación en línea.
 De los análisis realizados sobre la secuencia del accidente no se pudo encontrar ningún indicio que permitiera suponer que la modificación de los vehículos hubiera influido en el accidente.
 
-
 ## Página 43
+
 
 ### 5 Conclusiones
 En el marco de la determinación de los hechos in situ y las investigaciones llevadas a cabo por las empresas ferroviarias participantes, así como en la evaluación de los informes encargados, se pudo determinar la causa y la secuencia de los hechos.
@@ -746,8 +757,8 @@ La investigación del accidente se realizó mediante el método de exclusión.
 A partir de las evaluaciones de los resultados de las inspecciones no surgieron indicios que sugirieran que el estado de la superestructura hubiera favorecido el descarrilamiento del ICE 885.
 La instalación de señalización funcionó sin errores durante el período relevante. No existen indicios de que el descarrilamiento hubiera sido favorecido por errores de manejo o por defectos en la instalación de señalización.
 
-
 ## Página 44
+
 
 En la verificación del concepto de seguridad del túnel se detectaron deficiencias constructivas y organizativas. Entre otras cosas, se constató que las puertas de los túneles de evacuación no podían ser abiertas desde el exterior por los bomberos.
 La investigación de las actuaciones operativas mostró que se realizaron conforme a las normas. No existen indicios de que errores operativos pudieran haber favorecido el incidente.
@@ -756,6 +767,7 @@ La verificación de la gestión de emergencias puso de manifiesto ciertas defici
 Las evaluaciones de las declaraciones de testigos revelaron que, tras el fallo del alumbrado en el vehículo, las vías de evacuación y la ubicación de los martillos de emergencia estaban señalizados de forma insuficiente.
 
 ## Página 45
+
 
 ### 6 Resumen de las evaluaciones
 En el capítulo 4.8 se incluyen consideraciones sobre colisiones entre un ICE y ganado mayor, y entre un ICE y ovejas. En el marco de la homologación del ICE 1, en 1991 —antes de la fundación del Eisenbahn-Bundesamt (Oficina Federal de Ferrocarriles)— se analizó el comportamiento ante impactos contra animales de gran tamaño. Se realizaron estudios para aclarar si, en caso de colisión de un ICE con ganado mayor, podrían producirse descargas de las ruedas y fuerzas laterales que, en última instancia, pudieran provocar un descarrilamiento. Se llegó a la conclusión de que, aunque el impacto de un ICE contra ganado mayor provocaría daños considerables en la parte frontal, se excluyó con una probabilidad cercana a la certeza que se produjera un descarrilamiento.
@@ -769,6 +781,7 @@ En la demostración de la seguridad frente al descarrilamiento conforme a la TSI
 En el capítulo 4.1.4 se resumen las declaraciones de testigos que la EUB puso a disposición de la Fiscalía. De ellas se desprende que el alumbrado de los vehículos dejó de funcionar en algunos vagones poco después de que el tren se detuviera. Debido a este fallo, las vías de evacuación y los martillos de emergencia no eran visibles o solo lo eran de forma deficiente. Algunos testigos declararon que algunas piezas de equipaje depositadas en los estantes de equipaje habían caído.
 
 ## Página 46
+
 
 Según el capítulo 5, Conclusiones, el impacto del ICE 885 contra el rebaño de ovejas se habría evitado si a las ovejas no les hubiera sido posible alcanzar la infraestructura de vía. Una vallado o un vallado parcial de la línea habría impedido, con una probabilidad cercana a la certeza, que el rebaño de ovejas entrara en la zona de vía.
 
@@ -790,6 +803,7 @@ De los distintos informes de intervención y de las constataciones mencionadas s
 
 ## Página 47
 
+
 Con este trasfondo, debe revisarse la Ril 123 y reformularse las disposiciones relativas a la solicitud y la intervención de los Rtz.
 
 Además, debido a los defectos estructurales y organizativos constatados, el acontecimiento de daños debería ser analizado posteriormente por los responsables. En este análisis, deberían centrarse el concepto de rescate y el proceder de las fuerzas de intervención.
@@ -797,6 +811,7 @@ Además, debido a los defectos estructurales y organizativos constatados, el aco
 El examen de las actuaciones operativas mostró que se realizaron conforme a las normas. No existen indicios de que actuaciones operativas erróneas pudieran haber favorecido el acontecimiento. No obstante, el comportamiento del Tf (conductor de tren) tras una colisión con animales no está explícitamente recogido en el reglamento vigente. Por ello, debe examinarse hasta qué punto, a la luz del acontecimiento ocurrido, parece procedente una concreción del reglamento.
 
 ## Página 48
+
 
 ### 7 Recomendaciones de seguridad
 De conformidad con el artículo 6 del Reglamento sobre Investigación de Accidentes Ferroviarios (EUV) y con el artículo 25, apartado 2, de la Directiva 2004/49/CE, se formulan las siguientes recomendaciones de seguridad:

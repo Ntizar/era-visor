@@ -12,8 +12,8 @@ tokens_in: 72981
 tokens_out: 51128
 fecha_proceso: 2026-11-19
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-verificacion: revisar
-avisos: ["página 24: cifras largas: faltan 6/24 (25%)"]
+verificacion: ok
+notas_cifras: ["página 7: cifras cortas: 2/25", "página 20: original bilingüe: se compara contra el idioma principal (IT)", "página 22: original bilingüe: se compara contra el idioma principal (IT)", "página 37: original bilingüe: se compara contra el idioma principal (IT)", "página 59: cifras largas: 1/8", "página 66: cifras cortas: 2/20"]
 ---
 
 ## Página 1
@@ -587,30 +587,28 @@ Como se ha expresado en los apartados anteriores, el evento ha causado daños a 
 
 ## Página 24
 
-respecto al material rodante descarrilado y al que no estuvo directamente implicado en el descarrilamiento, pero que seguía formando parte del tren. Para estos últimos, las observaciones indicaron el estado de idoneidad funcional de los bogies (observación visual del estado estructural, de los tensores, de los órganos de enganche y de tracción, de los dispositivos de repulsión, de los elementos rodantes de los ejes).
-La Autoridad Judicial autorizó a RFI a proceder, en la Estación de Portomaggiore, a la restauración de la LTE, de las instalaciones de señalización, de los componentes estructurales de la vía férrea y de la vía permanente ya no conformes con el servicio regular. A las 14:00 horas aproximadamente llegó a la Estación de Portomaggiore el Vagón de Socorro de IF TI. El primer vagón del tren, descarrilado pero aún conectado a la locomotora, fue izado y recolocado sobre las vías. A las 17:00 horas aproximadamente, mediante una locomotora diésel de IF Dinazzano Po, se trasladaron a la Estación de Ferrara los nueve vagones de los quince que formaban parte del tren, no afectados por el descarrilamiento. Poco antes de las 19:00 horas, el Vagón de Socorro trasladó la locomotora E652 y el primer vagón del tren MIR n.º 63887 a la Estación de Ravenna. Posteriormente, durante las horas de la tarde, con la ayuda de dos grúas rodantes, se retiraron los restos de los vagones (desde el segundo hasta el sexto en la composición del tren) declarados en estado de destrucción casi total.
-
+inspecciones al material rodante accidentado y a aquel no directamente involucrado en el descarrilamiento, pero aún en composición del convoy. Para estos últimos, las observaciones han indicado el estado de idoneidad funcional de los bogies (observación visual del estado estructural, de los tensores, de los órganos de enganche y de tracción, de los dispositivos de repulsión, de los elementos de rodadura de los ejes). La Autoridad Judicial ha autorizado a RFI a proceder, en la Estación de Portomaggiore, al restablecimiento de la LTE, de las instalaciones de señalización, de los componentes estructurales de la plataforma ferroviaria y del armamento que ya no cumplen con el servicio regular. Aproximadamente a las 14:00 llegó a la Estación de Portomaggiore el Carro Socorro de la IF TI. El primer vagón del convoy, descarrilado pero aún conectado a la locomotora, fue levantado y recolocado sobre la vía. Aproximadamente a las 17:00, por medio de una locomotora Diesel de la IF Dinazzano Po, fueron trasladados a la Estación de Ferrara los nueve vagones de los quince en composición del convoy, no afectados por el descarrilamiento. Poco antes de las 19:00, el Carro Socorro trasladó la locomotora E652 y el primer vagón del tren MIR n. 63887 a la Estación de Ravenna. Posteriormente, durante las horas de la noche, con la ayuda de dos grúas viales, se retiraron los restos de los vagones (del segundo al sexto en composición del convoy) considerados en estado de destrucción casi total.
 ### 2.3.
 ### Fallecimientos, lesiones, daños materiales
 2.3.1. Pasajeros y terceros, personal
-El incidente no causó daños al personal de conducción de la locomotora E652.062, a las personas implicadas en el servicio ferroviario, a terceros ni a los usuarios del servicio de transporte. Dos semirremolques que formaban parte del tren, durante las fases de desarrollo del descarrilamiento, detuvieron su movimiento dentro de un jardín cercado. Por esta consecuencia particular, a DiGIFeMa no le consta la cuantificación de los daños materiales estimados. IF MIR informó a DIGiFeMa de denuncias relativas a daños producidos en algunos vehículos estacionados en las zonas próximas a la Estación de Portomaggiore, probablemente alcanzados por grava proyectada por los impactos del material rodante descarrilado contra la vía férrea. Debido a la fragmentariedad de la información, es imposible una cuantificación económica de estos últimos efectos.
-
+El evento no ha causado daños al personal de conducción de la locomotora E652.062, a personas dedicadas a la explotación ferroviaria, a terceros ni a usuarios del servicio de transporte. Dos semivagones en composición del convoy, en las fases de desarrollo del descarrilamiento, detuvieron su movimiento en el interior de un jardín cercado. Debido a esta particular consecuencia, la DiGIFeMa no conoce la cuantificación de los daños materiales estimados. La IF MIR ha informado a DIGiFeMa de comunicaciones relativas a daños producidos en algunos automóviles aparcados en las zonas colindantes a la Estación de Portomaggiore, alcanzados probablemente por piedra machacada proyectada por los impactos del material rodante descarrilado con la plataforma ferroviaria. Debido a la fragmentariedad de la información, es imposible una cuantificación económica de dichos últimos efectos.
 2.3.2. Infraestructura y material rodante
-RFI, y concretamente la DTP de Bolonia, realizó una estimación de las intervenciones necesarias para el mantenimiento extraordinario destinado a la restauración del servicio en la línea entre los puntos kilométricos 17+000 y 23+490. El coste de dichas intervenciones asciende a 3.939.234 euros e incluye:
- sustitución de aproximadamente 10.000 traviesas de tipo FS V 35P y sus dispositivos de fijación tipo Pandrol; sustitución del desvío 2, tipo S60U/250/0.12sx, en la Estación de Montesanto;
+RFI, y concretamente la DTP de Bolonia, ha realizado una estimación de las intervenciones necesarias para el mantenimiento extraordinario encaminado al restablecimiento del servicio en la línea entre los puntos kilométricos progresivos 17+000 y 23+490. El coste de dichas intervenciones asciende a 3.939.234 euros e incluye:
+ sustitución de aproximadamente 10000 traviesas en cabeza tipo FS V 35P y los correspondientes dispositivos de fijación tipo Pandrol; sustitución del desvío 2, tipo S60U/250/0.12sx, en la Estación de Montesanto;
  sustitución del desvío 3A, tipo S60U/170/0.12sx, en la Estación de Portomaggiore;
  sustitución de los desvíos 1B, 3B, 5B, 5A, los dos primeros del tipo S60U/400/0.074dx y los restantes del tipo S60U/400/0.074sx, en la Estación de Portomaggiore;
- saneamiento de la balasto para aproximadamente 7.400 m y sustitución de 1.080 m de raíl tipo 60E1 en tramos de 18 m R260;
- restauración de la accesibilidad del segundo andén para 240 m en la Estación de Portomaggiore;
- sustitución de 1.200 m de conductos V317/V318 con la colocación de 5.000 m de cable no armado de diversa tipología;
- sustitución de 10 boyas SCMT y sus conexiones relativas;
- sustitución de 7 dispositivos de calefacción eléctrica para desvíos;
- sustitución de 6 cajas de maniobra para desvíos tipo P80;
- sustitución de una señal con su correspondiente poste, escala, plano de pisada, barandilla, luces, velas;
- sustitución de 1.590 m de LTE;
- sustitución de 4 postes LTE: dos tipo M30, uno tipo M31D y uno tipo M29 y su correspondiente tirantería.
+ saneamiento del balasto durante aproximadamente 7400 m y sustitución de 1080 m de raíl tipo 60E1 en tramos de 18 m R260;
+ restablecimiento de la accesibilidad del segundo andén durante 240 m en la Estación de Portomaggiore;
+ sustitución de 1200 m de canalizaciones V317/V318 con la colocación de 5000 m de cable sin blindaje de diversa tipología;
+ sustitución de 10 balizas SCMT y sus correspondientes conexiones;
+ sustitución de 7 disposiciones de calefacción eléctrica de desvíos;
+ sustitución de 6 cajas de maniobra para desvío tipo P80;
+ sustitución de una señal con su correspondiente placa, escalera, plataforma de pisada, parapeto, luces, velas;
+ sustitución de 1590 m de LTE;
+ sustitución de 4 postes LTE: dos tipo M30, uno tipo M31D y uno tipo M29 y su correspondiente tirante.
 
 ## Página 25
+
 
 TW ha valutato il valore economico relativo alla distruzione di uno dei sei carri coinvolti nello svio 
 (tale valore deve quindi essere moltiplicato per i 6 carri coinvolti e considerati irrecuperabili) in 

@@ -10,9 +10,11 @@ chars: 35905
 ratio_longitud: 1.02
 tokens_in: 12408
 tokens_out: 8908
-verificacion: ok
+verificacion: revisar
 fecha_proceso: 2026-11-19
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+avisos: ["página 15: cifras largas: faltan 3/5 (60%)", "página 17: cifras largas: faltan 12/12 (100%)"]
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (PT)", "página 6: original bilingüe: se compara contra el idioma principal (IT)", "página 16: cifras cortas: 6/8", "página 22: original bilingüe: se compara contra el idioma principal (ES)"]
 ---
 ## Página 1
 

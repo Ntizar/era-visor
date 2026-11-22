@@ -10,13 +10,14 @@ chars: 88820
 ratio_longitud: 1.25
 tokens_in: 47464
 tokens_out: 31789
-verificacion: revisar
-notas_cifras: ["bloque 1: original bilingüe: se compara contra el idioma principal (EN); cifras cortas: 1/90", "bloque 2: original bilingüe: se compara contra el idioma principal (PT)", "bloque 3: cifras cortas: 5/84", "bloque 4: original bilingüe: se compara contra el idioma principal (CS)", "bloque 7: original bilingüe: se compara contra el idioma principal (CS)", "bloque 9: cifras cortas: 16/170"]
-avisos: ["bloque 4: ratio 1.62", "bloque 12: ratio 1.67"]
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (PT)", "página 4: original bilingüe: se compara contra el idioma principal (EN); cifras cortas: 1/70", "página 5: original bilingüe: se compara contra el idioma principal (PT)", "página 6: original bilingüe: se compara contra el idioma principal (CS)", "página 9: cifras cortas: 2/7", "página 10: cifras cortas: 3/50"]
 ---
+
 ## Página 1
+
 
 Inspección Ferroviaria
 República Checa
@@ -42,11 +43,12 @@ CIF:   75009561
 http://www.dicr.cz
 fax: (+420) 224 805 428
 
-
 ## Página 2
 
 
+
 ## Página 3
+
 
 # RESUMEN
 Grado:
@@ -83,8 +85,8 @@ Recomendaciones: no emitidas
 Ing. Hana Pechačová es responsable de la traducción al inglés.
 Este informe final es público y todos los documentos y hechos están respaldados por el expediente de investigación.
 
-
 ## Página 4
+
 
 # Índice
  RESUMEN ...........................................................................................................................3
@@ -120,6 +122,7 @@ contractual ....................................................................
 
 ## Página 5
 
+
 3.2 Sistema de garantía de la seguridad ...............................................................................17
 3.2.1 Organización marco y forma en que se emiten y aplican las instrucciones .......17
 3.2.2 Requisitos del personal del gestor de la infraestructura y del transportista y su 
@@ -150,8 +153,8 @@ aplicación ....................................................................
 4.2 Examen ......................................................................................................................29
 4.2.1 Evaluación de los hechos establecidos según el punto 3 y formulación de conclusiones sobre la causa del suceso excepcional y la actuación de los servicios de emergencia ..........................................29
 
-
 ## Página 6
+
 
 4.3 Conclusiones .......................................................................................................................29
 4.3.1 Causas inmediatas del suceso excepcional, incluidos los factores que contribuyeron al mismo y que se relacionaron con la actuación de las personas implicadas o con el estado de los vehículos ferroviarios o de las instalaciones técnicas ....................................................................29
@@ -170,8 +173,8 @@ aplicación ....................................................................
  Foto 4: vista del extremo del tren y de los elementos exteriores destruidos de la SZZ ..........................................33
  Foto 5: elementos exteriores destruidos del dispositivo de enclavamiento ...............................................34
 
-
 ## Página 7
+
 
 ### Lista de siglas y símbolos utilizados
 COP
@@ -239,6 +242,7 @@ dispositivo de enclavamiento de estación
 
 ## Página 8
 
+
 SŽDC
 Gestión de la vía de tráfico ferroviario, organización estatal
 TDV
@@ -286,8 +290,8 @@ documentación básica de tráfico
 est.
 estación ferroviaria
 
-
 ## Página 9
+
 
 ## 1 RESUMEN
 Grupo del suceso:
@@ -310,8 +314,8 @@ incumplimiento de los procedimientos tecnológicos del explotador de la vía par
 Causas en el sistema de seguridad: no se determinaron;
 Recomendaciones de seguridad: no se emitieron.
 
-
 ## Página 10
+
 
 ## 2 DATOS RELATIVOS AL SUCESO EXCEPCIONAL
 ## 2.1
@@ -350,8 +354,8 @@ en el último DV CZ-ČDC 81 54 6675 488-5 Falls, situado en el tren como el 30.�
 La ocurrencia del SE fue comunicada telefónicamente por un empleado de TSS y posteriormente también por el jefe de estación de la estación de pasajeros de la est. Lovosice al jefe de estación de vía de la est. Lovosice, quien procedió a continuación según el plan de notificación, incluida la activación del sistema integrado de emergencia.
 En el SE no se produjeron lesiones personales, en el lugar actuaron el Cuerpo de Bomberos de SŽDC y la Policía.
 
-
 ## Página 11
+
 
 2.1.3 Decisión de iniciar la investigación de las causas y circunstancias de la ocurrencia, composición del equipo de personas cualificadas y forma de dirigir la investigación de las causas y circunstancias de la ocurrencia
 La ocurrencia del SE fue comunicada por la DI al COP a las 08:42 horas. Debido a las consecuencias del SE, en el que se produjo un daño de gran magnitud, la DI inició la investigación de las causas y circunstancias de la ocurrencia del SE de conformidad con lo dispuesto en el apartado 1 del § 53b de la Ley n.º 266/1994 Sb., en el lugar de la ocurrencia del SE. El permiso para la eliminación de las consecuencias del SE fue emitido a las 10:30 horas. La investigación y determinación de las causas y circunstancias de la ocurrencia del SE fue encomendada por la DI al inspector superior de la Inspección Territorial de Praga. Sobre la base de los hechos constatados no fue necesario constituir un equipo de VI de la DI. La forma de proceder se estableció de manera operativa según el desarrollo de la investigación, incluido el uso de consultas con otras personas cualificadas de la DI.
@@ -380,6 +384,7 @@ El tren Pn 66681 estaba compuesto por el HDV 122.034-2 ČDC, SOKV Ústí nad Lab
 El TDV CZ-ČDC 81 54 6681 951-4 Falls descarrilado estaba situado como el 29.º desde el principio
 
 ## Página 12
+
 
 del tren.
 Longitud total del tren 422 metros, 124 ejes, peso total del tren 2428 toneladas, 
@@ -430,49 +435,37 @@ Tras la inspección del lugar de la ocurrencia del MU por la PČR, los empleados
 del RIBŽD Ústí nad Labem y el VI DI presente, a las 10:30 horas del día 9. 3. 2010 
 se otorgó por el DI el consentimiento para el inicio de los trabajos de limpieza.
 El transporte ferroviario entre la estación Lovosice y la estación Prackovice nad 
-Labem por la 2. TK 
-
+Labem por la 2. TK
 
 ## Página 13
 
-y en la vía de estación entre la estación Lovosice y la estación Chotiměř fue 
-interrumpido durante 15 horas y 10 minutos, hasta las 23:38 horas del día 9. 3. 2010. 
-La explotación del transporte ferroviario por la 1. TK fue interrumpida entre la 
-estación Prackovice nad Labem y la estación Lovosice hasta el 9. 4. 2010 a las 12:40 
-horas.
-### 2.2.7 Activación del plan del sistema integrado de emergencia, policía y servicio médico de emergencia y secuencia de acontecimientos
-El plan del sistema integrado de emergencia fue activado simultáneamente con la 
-notificación de la ocurrencia de este MU a los órganos de investigación, según el § 7 
-del decreto n.º 376/2006 Sb. Al lugar de la ocurrencia del MU acudió el HZS SŽDC – 
-JPO Ústí nad Labem y la PČR, MO Lovosice. Posteriormente la investigación del MU 
-fue asumida por la PČR, Grupo de policía criminal e investigación Litoměřice, el 
-expediente está registrado bajo el n.º de referencia: KRPÚ-6034/TČ-2010-040672.
+a la vía entre la estación de Lovosice y la estación de Chotiměř se interrumpió durante 15 horas y 10 minutos, hasta las 23:38 horas del día 9. 3. 2010. La explotación del transporte ferroviario por la 1. TK entre la estación de Prackovice nad Labem y la estación de Lovosice se interrumpió hasta el 9. 4. 2010 a las 12:40 horas.
+### 2.2.7 Activación del plan del sistema integrado de emergencias, policía y servicio médico de emergencias y secuencia de acontecimientos
+El plan del sistema integrado de emergencias fue activado simultáneamente con la notificación de la producción de esta MU a los órganos de investigación, de acuerdo con el § 7 del decreto nº 376/2006 Sb. Al lugar de producción de la MU acudieron el HZS SŽDC – JPO Ústí nad Labem y la PČR, MO Lovosice. Posteriormente, la investigación de la MU fue asumida por la PČR, Grupo de policía criminal e investigación de Litoměřice, el expediente está registrado bajo el nº de ref.: KRPÚ-6034/TČ-2010-040672.
 ## 2.3
 ### Fallecimientos, lesiones y daños materiales
-2.3.1 En los pasajeros y terceras personas, empleados del operador de la vía y del 
-transportista, incluidas personas en relación contractual
-No se produjeron daños a la salud en los empleados del operador de la vía y del 
-transportista ni en otras personas durante el MU.
-### 2.3.2 En las mercancías transportadas, el equipaje y otros bienes
-No se produjeron daños en las mercancías transportadas, el equipaje y otros bienes.
-### 2.3.3 En los vehículos ferroviarios, los componentes de la vía de circulación y en el medio ambiente
-Por parte del transportista y del operador de la vía se cuantificó el daño:
+2.3.1 En pasajeros y terceras personas, empleados del explotador de la vía y del transportista, incluidas personas en relación contractual
+No se produjeron daños a la salud en empleados del explotador de la vía y del transportista ni en otras personas durante la MU.
+### 2.3.2 En objetos transportados, equipaje y otros bienes
+No se produjeron daños en objetos transportados, equipaje y otros bienes.
+### 2.3.3 En vehículos ferroviarios, componentes de la vía y en el medio ambiente
+El transportista y el explotador de la vía cuantificaron el daño:
 ●
-| en la DV de ČDC por importe de | 112 022 Kč; |
-| en los bienes de SŽDC por importe de | 32 060 418 Kč . |
-No se produjeron daños al medio ambiente.
+| en DV ČDC por importe de | 112 022 Kč; |
+| en bienes de SŽDC por importe de | 32 060 418 Kč . |
+No se produjeron daños en el medio ambiente.
 ●
-Daño total detectado:
+Daño total constatado:
 32 172 440 Kč. 
 ●
 ## 2.4
 ### Circunstancias externas
 ### 2.4.1 Condiciones meteorológicas y datos geográficos
-En el momento de la ocurrencia del MU había cielo despejado, temperatura - 6 °C, 
-capa de nieve continua.
-Coordenadas GPS del lugar de la ocurrencia del MU: 50°31'38.793'' N; 14°3'2.051'' E.
+En el momento de la producción de la MU había cielo despejado, temperatura - 6 °C, manto de nieve continuo.
+Coordenadas GPS del lugar de producción de la MU: 50°31'38.793'' N; 14°3'2.051'' E.
 
 ## Página 14
+
 
 ## 3 ZÁZNAM DE LAS EXPLICACIONES PRESENTADAS
 ## 3.1
@@ -492,8 +485,8 @@ El jefe de circulación de la estación de Řehlovice, en el Acta con el emplead
 ● durante el turno de noche del día 8./ 9. 3. 2010 desempeñaba la función de jefe de circulación en la estación de Řehlovice; la situación de tráfico era operativa, sin averías;
 ● en el momento en que el tren Pn 66659 entraba en la estación de Řehlovice, hacia las 06:28 horas, oyó que se activaba el indicador de sobrecalentamiento, cuyo sensor está situado en la 1. TK entre la estación de Úpořiny y la estación de Řehlovice. Al poco oyó la señalización sonora del indicador de sobrecalentamiento y desactivó esta señalización con un botón. A la vez vio que en la cinta del indicador de sobrecalentamiento había un registro del cuarto eje del tren, que ascendía y descendía progresivamente en una sinusoida irregular. Supuso que el maquinista probablemente, con el fin de reducir la velocidad, había utilizado el freno, porque, como ya ha indicado, el registro en la cinta
 
-
 ## Página 15
+
 
 no abarcaba todo el ancho de la cinta y la línea ascendía gradualmente. Sabe que, cuando se señala el llamado punto caliente, este registro en la cinta asciende de inmediato casi verticalmente y a lo largo de todo el ancho de la cinta. Por ello, no detuvo el tren y le dejó continuar su marcha hacia la estación de Ústí nad Labem západ. Sin embargo, vigiló la marcha del tren con especial atención, durante unos 15 metros. El tren pasó a las 06:33 horas. No observó ninguna anomalía, tanto visual como auditivamente, lo que confirmó su suposición de que se trataba simplemente de una leve aplicación de freno por parte del maquinista. Tras regresar a la oficina de tráfico, preparaba la entrega de servicio y, como no quería que quedara tras él en la cinta un registro de actividad activa del IHL, destruyó la cinta, de la que quedaba muy poca en el carrete, incluido el registro arriba descrito del paso del tren Pn 66659, y la tiró de camino a casa.
 El maquinista del tren Pn 66681, en el Acta con el empleado del día 9. 3. 2010, entre otras cosas, indicó:
@@ -513,6 +506,7 @@ El gestor de la infraestructura, a petición del DI, se pronunció sobre la vigi
 
 ## Página 16
 
+
 de las personas que dirigen o participan en la gestión del transporte ferroviario y que entran en consideración, no detectó ningún defecto en el tren durante su circulación.
 ### 3.1.2 Otras personas
 Otras personas no aportaron explicaciones sobre este MU.
@@ -531,8 +525,8 @@ El requisito de competencia profesional de las personas que realizan el transpor
 Las condiciones de edad, formación y competencia profesional de las personas para la conducción de un vehículo motriz eléctrico en la red de ámbito estatal las establecen el § 8 y el § 9 apartado 1 letra a) – f) del Decreto n.º 101/1995 Sb.
 La competencia profesional con arreglo a las disposiciones legales anteriores la fijó el transportista ČDC para las personas participantes en la explotación del transporte ferroviario con la categoría laboral (profesión) de maquinista y jefe de tren en la norma interna «Reglamento de exámenes y formación», aprobado por el director ejecutivo de
 
-
 ## Página 17
+
 
 ČD Cargo, a. s., el 06. 04. 2009, registrado bajo el n.º de expediente: PERs28-B-2009, con vigencia desde el 01. 05. 2009.
 La forma de reconocimiento de las condiciones de la vía y locales por parte de los maquinistas durante el día y la noche la establece la norma del transportista «ČD D2 Norma para la organización y explotación del transporte ferroviario» y las normas del transportista «ČD V1 Norma para la organización de la explotación en depósitos de vehículos sobre raíles», «ČD V2 Norma para las cuadrillas de locomotoras».
@@ -552,6 +546,7 @@ En el puesto de trabajo del jefe de estación de la estación de Řehlovice se r
 
 ## Página 18
 
+
 En el puesto de trabajo de los jefes de tren en la vía – ramal Doly Bílina, Úpravna uhlí Ledvice, durante el período observado del 1. 7. 2009 – 28. 2. 2010, se realizaron 32 inspecciones y se detectaron 11 defectos. De ellos, 4 defectos se detectaron tras la realización de la inspección técnica y 2 tras la realización de la prueba de freno. Los defectos detectados se subsanaron en el lugar y también se comentaron con los empleados implicados.
 No se detectaron defectos.
 Para garantizar la operatividad de la vía y la seguridad del transporte ferroviario, se establece el intervalo temporal de inspecciones y mediciones en el anexo n.º 1 del decreto n.º 177/1995 Sb. Antes del suceso del MU se realizó la medición de los parámetros geométricos de la vía con el tren medidor el día 10. 12. 2009. De la impresión del tren medidor se constató que no se superan los niveles límite de operación segura. En la marcha de inspección con HDV el día 26. 2. 2010 y en la inspección a pie realizada por el inspector el día 3. 3. 2010 no se detectaron deficiencias. Tras la realización de las mediciones establecidas en el lugar del suceso del MU no se detectó ninguna superación de los valores límite. Se respetaron el intervalo temporal de las inspecciones a pie y su cobertura completa, no se detectaron defectos.
@@ -565,8 +560,8 @@ El transportista es ČD Cargo, a. s., con domicilio en Jankovcova 1569/2c, Praha
 El transporte ferroviario se explota en virtud del «Contrato número 168/09 para la explotación del transporte ferroviario en la vía de circulación ferroviaria de la vía de ámbito nacional y de las vías regionales en propiedad de la República Checa», celebrado entre las partes contratantes Správa železniční dopravní cesty, organización estatal, con domicilio en Dlážděná 1003/7, Praha 1 – Nové Město, CP 110 00, y ČD Cargo, a. s., con domicilio en Jankovcova 1569/2c, Praha 7, CP 170 00, el día 29. 12. 2008, con efectos a partir del 1. 1. 2009.
 No se detectaron defectos.
 
-
 ## Página 19
+
 
 ## 3.3
 ### Regulación jurídica y otra
@@ -604,6 +599,7 @@ a) la utilización del vehículo ferroviario,...
 (2) Para garantizar las actividades... conforme al apartado 1 y para determinar la idoneidad profesional de las personas implicadas en la explotación del transporte ferroviario, si estas actividades las realizan empleados del transportista, sirven los procedimientos tecnológicos uniformes contenidos en las normas internas del transportista.
 
 ## Página 20
+
 
 decreto n.º 173/1995 Sb., § 34 apartado 1 letra f) "No puede utilizarse para la circulación un
 ●
@@ -659,8 +655,8 @@ retirado (anotar fecha, hora y firma),
 – en caso de indicación de rodamiento caliente, anotar fecha, hora, número de tren y
 firma,
 
-
 ## Página 21
+
 
 – según el apartado a), anotar fecha, hora, número del último tren que consta en el
 registro, firma (del trabajador que se releva y del que toma posesión, o del trabajador
@@ -718,6 +714,7 @@ empleados
 
 ## Página 22
 
+
 SŽDC, TUDC Praha y SDC Ústí nad Labem con la conclusión de que no se detectó ningún defecto y el equipo presentaba un funcionamiento correcto.
 Se realizó la evaluación de la cinta registradora IHL tomada del turno nocturno del 8 de marzo de 2010 al 9 de marzo de 2010, en la que se constató que el último registro anotado es el registro de la circulación del tren Pn 67491. Tras este registro, la cinta está desprendida sin la anotación correspondiente de cierre de cinta según la norma interna del gestor de la vía SŽDC (ČSD) V65 art. 25d. Al comparar con las listas impresas de la aplicación diario de tráfico, faltan los registros de circulación de los trenes Os 16501, Os 16503 y Pn 66681.
 Se detectó un defecto.
@@ -744,8 +741,8 @@ No se detectó ningún defecto.
 ### 3.4.2 Componentes de la vía
 La vía en el lugar de origen del MU en el sentido de circulación del tren discurre en una curva suave a la izquierda al nivel del terreno circundante con una pendiente determinante de 1 por mil. La vía de la línea tiene un perfil UIC 60 sobre traviesas de hormigón y está equipada con equipo de enclavamiento de la línea de 3.ª categoría según TNŽ 34 2620, bloque automático de tres señales (bloque automático universal AB3-74). El equipo tiene el certificado de aptitud n.º PZ 0533/99-E.47 de fecha 1 de septiembre de 1999, emitido por la Autoridad Ferroviaria de Praga. Mediante el acta de UTZ n.º 54/09-JV, de fecha 3 de agosto de 2009, se prorrogó la vigencia del certificado de aptitud hasta el 23 de junio de 2014. Se realizó la medición del perfil
 
-
 ## Página 23
+
 
 ferroviario en el lugar del descarrilamiento del DV. Mediante la evaluación de las magnitudes medidas del perfil ferroviario según ČSN 73 6360 – 2 (Diseño constructivo y geométrico de la vía de las vías férreas y su posición espacial – Parte 2: Construcción y recepción, explotación y mantenimiento) no se detectó el incumplimiento de ningún valor límite para la explotación segura de la vía. El estado de los componentes de la vía no guardaba relación causal con el origen del MU.
 El equipo de enclavamiento de línea y de estación no guarda relación con la causa del origen del MU.
@@ -769,6 +766,7 @@ Tras el aumento de la velocidad a 34 – 35 km.h-1, a las 06:42 horas se registr
 del freno continuo y la reducción de la velocidad a 30 km.h-1, a las 06:43,5 horas se registró el sexto uso del freno continuo y la reducción de la velocidad a 28 km.h-1. Desde esta velocidad se produjo
 
 ## Página 24
+
 
 aumento de 1 – 2 km.h-1 y, a continuación, a las 06:46 horas se registra la parada del tren en la est. 
 Ústí nad Labem západ, entrada a la estación, donde el tren permaneció detenido durante 74 minutos. La tira registradora de velocidad fue retirada por el maquinista del tren al finalizar su turno en la est. Ústí nad Labem západ. La velocidad máxima permitida del tren Pn 66681 en el tramo Světec – Ústí nad Labem západ, que es de 60 km.h-1, no fue superada.
@@ -813,9 +811,10 @@ el uso de la grasa declarada Mogul LV 2 EPS y, aparte de una mayor cantidad de i
 tras la destrucción del rodamiento, no se acreditó la presencia de otra sustancia. 
 A iniciativa de la DI, se encomendó a la PČR la realización de pruebas mecanoscópicas de las piezas 
 del DV descarrilado y la elaboración de un informe pericial en el Instituto de Criminalística de Praga. 
-Según las conclusiones del informe pericial de fecha 10. 1. 2011, la causa del daño en el asiento del rodamiento del 
+Según las conclusiones del informe pericial de fecha 10. 1. 2011, la causa del daño en el asiento del rodamiento del
 
 ## Página 25
+
 
 eje fueron dos fracturas por fatiga del anillo interior del rodamiento de rodillos trasero 
 del DV descarrilado. 
@@ -862,6 +861,7 @@ No se detectaron averías.
 
 ## Página 26
 
+
 ## 3.6
 ### Condiciones laborales, sanitarias y de explotación
 ### 3.6.1 Jornada laboral de los empleados del gestor de la infraestructura y del transportista que participaron en el suceso
@@ -888,6 +888,7 @@ El DI registra un SU análogo del día 19. 11. 2007 en la estación de Leština 
 
 ## Página 27
 
+
 ## 4 ANÁLISIS Y CONCLUSIONES
 ## 4.1
 ### Descripción final del suceso
@@ -900,6 +901,7 @@ A las 08:01 horas se produjo la salida del tren Pn 66681 desde la estación de �
 El tren con el DV descarrilado continuó su marcha hacia la estación de Lovosice. La ruta ferroviaria para la entrada del tren se había establecido desde la 1.ª TK hasta la 5.ª SK. En el desvío nº 56 de la estación de Lovosice se produjo el encajamiento del TDV descarrilado y su posterior rotura entre el 13/14.º y el 28/29.º TDV en el sentido de la marcha del tren, que a continuación se detuvo con el frente en el km 495,140 en la 5.ª SK. En estado de descarrilamiento, el TDV recorrió 2,459 km.
 
 ## Página 28
+
 
 ## 4.2
 ### Análisis
@@ -916,8 +918,8 @@ El descarrilamiento del DV causó la rotura del alojamiento del rodamiento del s
 ### 4.3.2 Causas fundamentales relacionadas con la cualificación, los procedimientos y el mantenimiento
 Incumplimiento de los procedimientos tecnológicos del explotador de la vía para la manipulación del indicador de temperatura elevada de los rodamientos tras la activación del dispositivo de detección por la circulación del tren Pn 66681.
 
-
 ## Página 29
+
 
 ### 4.3.3 Causas debidas al marco normativo y al uso del sistema de aseguramiento de la seguridad
 No se constataron.
@@ -938,8 +940,8 @@ Según la comunicación del director de O 12 de ČD Cargo, a. s., durante el cum
 Al director del departamento de seguridad de la explotación de la vía de SŽDC se le impuso emitir, en el plazo hasta el 31. 8. 2010, un documento destinado a los empleados de SŽDC y al operador de explotación de la vía de ČD, a. s., para su conocimiento de este SU. En el documento se describirá de forma breve el transcurso, la causa y la responsabilidad por la producción del SU.
 En el operador de explotación de la vía de ČD, a. s., realizar el conocimiento acreditativo de este documento en el plazo hasta el 31. 12. 2010.
 
-
 ## Página 30
+
 
 La responsabilidad del conocimiento acreditativo de los empleados del operador de explotación de la vía de ČD, a. s., fue encomendada al director de O 11 de ČD, a. s.
 El explotador de la vía SŽDC emitió con fecha 25. 8. 2010 el documento «Conocimiento del suceso excepcional de SŽDC núm. 1/2010» con referencia 43095/10-OB. Con este documento, según la declaración del explotador de la vía, fueron puestos en conocimiento todos los empleados de SŽDC y del operador de explotación de la vía de ČD, a. s., que entraban en consideración.
@@ -958,20 +960,20 @@ inspector principal
 de la Inspección Territorial de Praga
 Inspección Territorial de Praga
 
-
 ## Página 31
+
 
 ## 7 ANEXOS
 Foto 1: TDV descarrilado, vista desde el extremo del tren
 Foto 2: TDV descarrilado, vista desde la cabecera del tren
 
-
 ## Página 32
+
 
 Foto 3: TDV descarrilado, vista lateral
 Foto 4: vista del extremo del tren y de los elementos exteriores destruidos del SZZ
 
-
 ## Página 33
+
 
 Foto 5: elementos exteriores destruidos de la instalación de enclavamiento

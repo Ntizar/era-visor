@@ -10,13 +10,14 @@ chars: 192867
 ratio_longitud: 1.27
 tokens_in: 83659
 tokens_out: 59169
-verificacion: revisar
-notas_cifras: ["bloque 2: original bilingüe: se compara contra el idioma principal (PT)", "bloque 3: cifras cortas: 2/176", "bloque 4: cifras cortas: 3/121", "bloque 5: cifras cortas: 2/59", "bloque 6: cifras cortas: 1/57", "bloque 10: cifras cortas: 4/105"]
-avisos: ["bloque 15: ratio 1.78"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 3: original bilingüe: se compara contra el idioma principal (CS)", "página 4: original bilingüe: se compara contra el idioma principal (PT)", "página 7: original bilingüe: se compara contra el idioma principal (EN)", "página 8: original bilingüe: se compara contra el idioma principal (PT)", "página 10: original bilingüe: se compara contra el idioma principal (CS)", "página 12: original bilingüe: se compara contra el idioma principal (PT)"]
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -43,13 +44,13 @@ IČ: 75009561
 mail@dicr.cz
 tel.: +420 736 521 003
 
-
 ## Página 2
+
 
 Este informe final es público y todos los hechos en él expuestos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ## 1 RESUMEN
  Fuente: DI
@@ -76,66 +77,32 @@ interferencia en el perfil de paso de la vía de la línea por un obstáculo –
 desprendida de un árbol,
 •
 que crecía en el ámbito de la ferroviaria a la distancia de caída del perfil de
-paso de la vía de la línea. 
-
+paso de la vía de la línea.
 
 ## Página 4
 
 Factores contribuyentes:
-pudrición interna del árbol;
-•
-no evaluación de los árboles (vegetación alta) que crecen en el ámbito de la
-ferroviaria y en la franja de protección de la ferroviaria a la distancia de caída
-del perfil de paso de la vía de la línea como fuente de peligro para la
-explotación segura de la ferroviaria y del transporte ferroviario. 
-Causas subyacentes:
-no identificación y no eliminación de la fuente de peligro para la explotación
-•
-segura de la ferroviaria y del transporte ferroviario en el ámbito de la
-ferroviaria, que la constituía un árbol a la distancia de caída del perfil de paso
-de la vía de la línea.
-Causa en el sistema de seguridad:
-no fue identificada por la Inspección Ferroviaria.
-•
-Recomendaciones de seguridad:
-La Inspección Ferroviaria, con base en lo dispuesto en el § 53e apartado 1 de la
-ley núm. 266/1994 Sb., recomienda, en relación con la prevención de excepcionales
-incidencias:
-### A la Autoridad Ferroviaria
-##  : 
-en su condición de autoridad nacional de seguridad, garantizar que los gestores de
-•
-la infraestructura incorporen en sus normas internas el procedimiento conforme al
-§ 10 apartado 3 de la ley núm. 266/1994 Sb., de ferrocarriles, en su redacción
-vigente, y que apliquen este procedimiento de forma primaria y sistemática, es
-decir, que las normas internas impongan a los empleados correspondientes del
-gestor de la infraestructura la obligación de eliminar la arboleda que pone en
-peligro la explotación segura de la ferroviaria de forma prioritaria sin recurrir a
-lo dispuesto en el § 10 apartado 2 de la ley núm. 266/1994 Sb.;
-realizar periódicamente inspecciones estatales en materia de ferrocarriles con
-•
-enfoque en la verificación de si en los alrededores de las líneas se encuentran
-árboles y otras vegetaciones que, al caer, puedan afectar al perfil de paso de la
-ferroviaria y, en caso de que se encuentren, si el gestor de la infraestructura
-correspondiente ya ha actuado activamente conforme a las competencias que le
-otorga la ley, es decir, si ya ha iniciado pasos eficaces encaminados a eliminar
-esta fuente de peligro.
-### Al Ministerio de Transporte:
-con base en las negociaciones con el Ministerio de Agricultura y el Ministerio de
-•
-Medio Ambiente, impulsar modificaciones en las leyes núm. 114/1992 Sb., de
-protección de la naturaleza y el paisaje, y núm. 289/1995 Sb., de bosques y de
-modificación de algunas leyes (ley de bosques), de modo que estas normas
-jurídicas estén en consonancia con las disposiciones del § 10 de la ley núm.
-266/1994 Sb., de ferrocarriles (para que sus discrepancias no creen margen para
-interpretaciones distintas y, en consecuencia, para litigios judiciales), y permitan
-así garantizar la eliminación y poda de la arboleda que pone en peligro la
-seguridad o la fluidez del transporte ferroviario o la explotación de la ferroviaria
-sin obstáculos administrativos y procesos que consuman tiempo, tanto por parte
-del gestor de la infraestructura como de los propios propietarios.
+• la podredumbre interna del árbol;
+• la no evaluación de la arboleda (arbolado alto) creciente en el perímetro de la vía y en la franja de protección de la vía a la distancia de impacto del perfil de paso de la vía férrea como fuente de amenaza para la explotación segura de la vía y del transporte ferroviario.
 
+Causas principales:
+• la no identificación y no eliminación de la fuente de amenaza para la explotación segura de la vía y del transporte ferroviario en el perímetro de la vía, que la constituía un árbol a la distancia de impacto del perfil de paso de la vía férrea.
+
+Causa en el sistema de seguridad:
+• no fue identificada por la Inspección Ferroviaria.
+
+Recomendaciones de seguridad:
+La Inspección Ferroviaria, con base en lo dispuesto en el § 53e apartado 1 de la Ley núm. 266/1994 Sb., recomienda, en vista de la prevención de sucesos extraordinarios:
+
+### A la Oficina Ferroviaria:
+• desde la posición de autoridad nacional de seguridad, garantizar que los explotadores de vías incorporen en sus normas internas el procedimiento conforme al § 10 apartado 3 de la Ley núm. 266/1994 Sb., de vías, en su redacción vigente, y que apliquen este procedimiento de forma primaria y sistemática, es decir, que las normas internas impongan a los empleados correspondientes del explotador de la vía la obligación de eliminar la arboleda que amenace la explotación segura de la vía de manera prioritaria, sin recurrir a lo dispuesto en el § 10 apartado 2 de la Ley núm. 266/1994 Sb.;
+• realizar periódicamente inspecciones estatales en materia de vías, con especial énfasis en verificar si en los alrededores de las líneas se encuentran árboles y otras plantaciones que, al caer, puedan alcanzar el perfil de paso de la vía, y en caso de que se encuentren, si el explotador de la vía correspondiente ya ha actuado activamente conforme a las competencias que le otorga la ley, es decir, si ya ha iniciado pasos eficaces encaminados a eliminar esta fuente de amenaza.
+
+### Al Ministerio de Transporte:
+• con base en las negociaciones con el Ministerio de Agricultura y el Ministerio de Medio Ambiente, impulsar modificaciones en las Leyes núm. 114/1992 Sb., de protección de la naturaleza y del paisaje, y núm. 289/1995 Sb., de bosques y de modificación de algunas leyes (Ley forestal), de modo que estas disposiciones legales sean coherentes con las disposiciones del § 10 de la Ley núm. 266/1994 Sb., de vías (para que sus colisiones no generen espacio para interpretaciones divergentes y, en consecuencia, para litigios judiciales), y permitan así garantizar la eliminación y la poda de la arboleda que amenace la seguridad o la continuidad del transporte ferroviario o la operatividad de la vía, sin obstáculos administrativos ni procesos que consuman mucho tiempo, tanto por parte del explotador de la vía como de los propios propietarios.
 
 ## Página 5
+
 
 ## RESUMEN
 Clasificación: 
@@ -190,8 +157,8 @@ Sb."), en sus normas internas y que apliquen este procedimiento de forma primari
 y sistemática, lo que significa que las normas internas de los GI impondrán la
 obligación a los
 
-
 ## Página 6
+
 
 empleados correspondientes del GI de eliminar los árboles que ponen en peligro la
 explotación segura del ferrocarril de forma prioritaria, es decir, sin recurrir al
@@ -219,6 +186,7 @@ sistema ferroviario sin ningún obstáculo administrativo ni procesos que consum
 tiempo.
 
 ## Página 7
+
 
 # Índice
 1 RESUMEN........................................................................................................................3
@@ -259,8 +227,8 @@ SUMMARY.........................................................................
 3.4.1 Sistema de control, señalización y seguridad, incluidos los dispositivos de registro automático de datos.....................................................................................................36
 3.4.2 Componentes de la vía............................................................................................36
 
-
 ## Página 8
+
 
 3.4.3 Dispositivos de comunicación e información.................................................37
 3.4.4 Vehículos ferroviarios, incluidos los dispositivos de registro automático de datos..............37
@@ -290,8 +258,8 @@ SUMMARY.........................................................................
 6 RECOMENDACIONES DE SEGURIDAD.....................................................................................59
 7 ANEXOS..........................................................................................................................61
 
-
 ## Página 9
+
 
 ## Lista de siglas y símbolos utilizados
 CDP
@@ -353,8 +321,8 @@ Informe Final sobre los Resultados de la Investigación del Suceso Extraordinari
 žst.
 estación ferroviaria
 
-
 ## Página 10
+
 
 ## Lista de siglas de la legislación, normas y normas internas
 utilizadas
@@ -405,8 +373,8 @@ Organización y ejecución de inspecciones y mediciones en
 las vías ferroviarias nacionales y regionales»,
 en la redacción vigente en el momento de la ocurrencia del SU
 
-
 ## Página 11
+
 
 Guía Metodológica para el Mantenimiento de la Vegetación Alta
 documento del gestor de la vía SŽDC, «Guía Metodológica
@@ -420,6 +388,7 @@ y de trazado», en la redacción vigente en el momento de la ocurrencia
 del SU
 
 ## Página 12
+
 
 ## 2 DATOS RELATIVOS AL SUCESO EXTRAORDINARIO
 ### 2.1 Suceso extraordinario
@@ -447,8 +416,8 @@ por un bosque entre las estaciones Nová Paka y Lázně Bělohrad, chocó con un
 con una parte desprendida de un árbol maduro caída en el perfil de paso de la vía
 en servicio por el lado izquierdo en el sentido de circulación del tren.
 
-
 ## Página 13
+
 
 El maquinista, según su declaración, al conducir el tren Os 5700 al salir de una curva
 izquierda en la oscuridad, vio la copa del árbol en la vía a corta distancia y comenzó a
@@ -515,8 +484,8 @@ el extremo del tren se encontraba en el pk 64,417, es decir, 40 m detrás del lu
 origen del suceso. Tras la detención, el primer eje estaba descarrilado por el lado
 izquierdo y el eje trasero por el lado derecho en el sentido de circulación del tren;
 
-
 ## Página 14
+
 
 Fig. n.º 2: Esquema del lugar de origen del suceso
 Fuente: gis.izscr.cz, modificación DI
@@ -552,8 +521,8 @@ en la locomotora quedó documentado el Libro de entrega, en el que en la anotaci
 •
 sobre la prueba de freno ZBHV realizada en el tren Os 5700 figuraba la fecha incorrecta
 
-
 ## Página 15
+
 
 23. 7. 2019 en lugar de la correcta 24. 7. 2019;
 daños visibles en la locomotora: pala delantera dañada y parcialmente arrancada,
@@ -584,8 +553,8 @@ dividía en 3 troncos menores;
 en este punto se produjo la rotura de uno de estos troncos, que cayó sobre la vía;
 •
 
-
 ## Página 16
+
 
 en el punto de unión de los 3 troncos se encontraron hojas viejas en descomposición,
 •
@@ -631,8 +600,8 @@ ferroviario y del documento HZS.
 La investigación de las causas y circunstancias del origen del suceso se realizó de
 conformidad con la ley n.º 266/1994 Sb. y el decreto n.º 376/2006 Sb.
 
-
 ## Página 17
+
 
 ### 2.2 Circunstancias del suceso extraordinario
 ### 2.2.1 Empleados implicados, personas en relación contractual y demás implicados
@@ -684,6 +653,7 @@ del suceso estaba fijada en 65 km.h-1, y a partir del pk 64,426 en 70 km.h-1.
 
 ## Página 18
 
+
 El estado de la superestructura ferroviaria ni el sistema de seguridad estaban en relación causal con la aparición de la MU.
 ### 2.2.4 Uso de medios de comunicación
 En relación con la MU no se produjo ninguna comunicación verbal que influyera en su aparición.
@@ -731,43 +701,52 @@ HZS de SŽDC, JPO Praga;
 PČR, distrito policial de Nová Paka.
 •
 
-
 ## Página 19
 
-### 2.3 Fallecimientos, lesiones y daños causados
-2.3.1 En los pasajeros y terceras personas, empleados del gestor de la vía y del transportista, incluidas las personas en relación contractual
-En la MU no se produjo ningún daño a la salud en los empleados del gestor de la vía, del transportista, de las personas en relación contractual, ni tampoco en los pasajeros y terceras personas.
-### 2.3.2 En las cosas transportadas, el equipaje y otros bienes
-No se produjeron daños en las cosas transportadas, el equipaje ni otros bienes.
-### 2.3.3 En los vehículos ferroviarios, los componentes de la vía y el medio ambiente
-El gestor de la vía y el transportista cuantificaron los daños en:
+### 2.3 Muertos, heridos y daños causados
+2.3.1 En cuanto a pasajeros y terceros, empleados del gestor de la vía y del transportista,
+incluidas personas en relación contractual
+En el MU no se produjo daño a la salud de los empleados del gestor de la vía, del transportista,
+de las personas en relación contractual, ni tampoco de los pasajeros y terceros.
+### 2.3.2 En cuanto a las cosas transportadas, el equipaje y otros bienes
+No se produjo daño en las cosas transportadas, el equipaje ni otros bienes.
+### 2.3.3 En cuanto a los vehículos ferroviarios, los componentes de la vía y el medio ambiente
+El gestor de la vía y el transportista cuantificaron el daño en:
 HDV 95 54 5 810 228-7 (tren Os 5700)
-929 655 CZK;
+929 655 Kč;
 •
 instalaciones de la vía
-18 120 CZK;
+18 120 Kč;
 •
 medio ambiente
- 0 CZK.
+ 0 Kč.
 •
-En la MU, los daños producidos en los vehículos ferroviarios, los componentes de la vía y el medio
-### ambiente se cuantificaron en un total de 947 775 CZK.
+En el MU, el daño causado en los vehículos ferroviarios, los componentes de la vía y el
+### medio ambiente se cuantificó en un total de 947 775 Kč. 
 ### 2.4 Circunstancias externas
 ### 2.4.1 Condiciones meteorológicas y datos geográficos
 Condiciones meteorológicas:
-en el momento de la aparición de la MU era el crepúsculo civil (faltaban 38 minutos para
+en el momento de producirse el MU era el crepúsculo civil (faltaban 38 minutos para
 la salida del sol),
  +15
  °C, la visibilidad
- no estaba reducida
-por influencias meteorológicas, sin viento y sin precipitaciones. No se había emitido
-ninguna advertencia del ČHMÚ.
+ no se vio reducida
+por influencias meteorológicas, sin viento y sin precipitaciones. No se emitió
+ninguna alerta del ČHMÚ.
 Datos geográficos:
-La vía discurría por un bosque en el sentido de marcha del tren en un arco a la izquierda, mayormente en corte y en descenso, en el lugar de la aparición de la MU sobre un terraplén.
-Mediante levantamiento geodésico se constató que el árbol crecía en la parcela n.º 561/1 en el término municipal de Hřídelec (573094) del municipio de Lázně Bělohrad, LV 602, en el punto kilométrico 64,461 de la vía. El derecho de propiedad lo tenía la República Checa, el derecho de gestión lo tenía SŽDC, el modo de aprovechamiento del terreno – vía. En las inmediaciones del árbol discurría el límite del ámbito de la vía y de la franja de protección de la vía (véase la Fig. n.º 10, punto 7 de la presente ZZ).
-
+La vía discurría por un bosque en el sentido de circulación del tren, en una curva a
+la izquierda, predominantemente en corte y en descenso, en el punto de producción del MU
+sobre un terraplén. 
+Mediante levantamiento geodésico se constató que el árbol crecía en la
+finca nº 561/1 en el término municipal de Hřídelec (573094) del municipio de Lázně
+Bělohrad, LV 602, en el punto kilométrico 64,461 de la vía. El derecho de propiedad
+correspondía a la República Checa, el derecho de gestión correspondía a SŽDC, el modo de
+uso de la finca – vía. En las inmediaciones del árbol discurría el
+límite del perímetro de la vía y de la franja de protección de la vía (véase Fig.
+nº 10, punto 7 de esta ZZ).
 
 ## Página 20
+
 
 ## 3 REGISTRO DE LA INVESTIGACIÓN Y DE LAS EXPLICACIONES PRESENTADAS
 ### 3.1 Resumen de las explicaciones presentadas (sujeto a protección de la identidad de las personas)
@@ -797,8 +776,8 @@ Otras personas no presentaron explicaciones.
 El texto de este punto se refiere a la fecha de aparición de la citada MU; las partes redactadas en presente son asimismo vigentes en el momento de la emisión de la presente ZZ.
 El gestor de la vía SŽDC tiene implantado un sistema de garantía de la seguridad de la explotación de la vía con base en las disposiciones de la ley n.º 266/1994 Sb. Parte integrante de las normas internas del gestor de la vía eran, en el momento de la aparición de la MU, los procedimientos por los que se rigen las actividades en la seguridad de la circulación del tren en periodos de situación meteorológica desfavorable, y los procedimientos que regulan la realización de las inspecciones y mediciones periódicas de las obras de la vía, cuya parte es
 
-
 ## Página 21
+
 
 la búsqueda y eliminación de puntos peligrosos en el ámbito de la vía y en la franja de protección de la vía, y la búsqueda de fuentes de amenaza para la explotación segura de la vía y del transporte ferroviario.
 El ámbito de la vía es, conforme al § 4 de la ley n.º 266/1994 Sb., el terreno determinado por decisión de ordenación territorial para la ubicación de la obra de la vía. El ámbito de la vía en la vía de ámbito nacional y en la vía regional está delimitado por superficies verticales trazadas por los límites de los terrenos que están destinados a la ubicación de la vía y a su mantenimiento.
@@ -819,6 +798,7 @@ n.º 114/1992 Sb., tampoco se requiere permiso para la tala, entre otros, de veg
 que crece fuera del bosque, siempre que dicha vegetación no forme parte de un significativo
 
 ## Página 22
+
 
 elemento del paisaje, plantaciones sustitutorias o alineaciones de árboles, con un perímetro de tronco de hasta 80 cm medido a una altura de 130 cm sobre el suelo, o para masas arbóreas arboladas, siempre que la superficie total de masas arbóreas arboladas taladas no supere los 40 m2.
 
@@ -851,48 +831,38 @@ art. 33:
 
 «Los propietarios de inmuebles colindantes con la vía férrea están obligados, de acuerdo con el § 10, apartado 1 de la Ley núm. 266/1994 Sb., a tolerar que en sus terrenos se realicen las medidas necesarias para evitar la caída de árboles o de sus partes sobre la construcción de la vía férrea o sobre construcciones en la vía férrea, si este
 
-
 ## Página 23
 
-peligro surge por la construcción o el funcionamiento de la vía férrea o por influencias naturales (también se refiere a la cuestión de las señales).»
-
+peligro por la construcción o explotación de la vía o por influencias naturales (se refiere también a la cuestión de las señales)."
 art. 34:
-
-«Si este peligro surge por la actuación de estos propietarios, están obligados a tomar las medidas necesarias a su costa. Por actuación se entiende también la omisión de dicha acción, como es el mantenimiento preventivo adecuado de la vegetación en la franja de protección de la vía férrea. Se refiere a todas las especies arbóreas que, en caso de caer, o de caer sus partes, puedan alcanzar el perfil de paso o las instalaciones de la infraestructura ferroviaria.»
-
+"Si surge este peligro por la actuación de estos propietarios, están obligados a adoptar las medidas necesarias a su costa. Por actuación se entiende también la omisión de dicha acción, como es el mantenimiento preventivo adecuado de la vegetación en la franja de protección de la vía. Se refiere a todas las especies arbóreas que, en caso de caer, o de caer sus partes, puedan afectar al perfil de paso o a las instalaciones de la infraestructura ferroviaria."
 art. 36:
-
-«Si no se lleva a cabo la eliminación de la fuente de peligro para la vía férrea de acuerdo con el art. 34, o si otras circunstancias lo requieren, SŽDC remitirá un impulso a la autoridad administrativa ferroviaria, que decidirá sobre el alcance y la forma de la realización de las medidas necesarias. Junto con el impulso, SŽDC enviará a la DÚ los siguientes documentos:
-
-identificación de los árboles propuestos para ser talados, que contenga el tramo de vía según la señalización kilométrica,
+"Si no se lleva a cabo la eliminación de la fuente de peligro para la vía conforme al art. 34, o si otras circunstancias lo requieren, SŽDC remitirá un impulso a la autoridad administrativa ferroviaria, que decidirá sobre el alcance y la forma de ejecución de las medidas necesarias. Junto con el impulso, SŽDC enviará a la DÚ la siguiente documentación:
+identificación de los árboles propuestos para ser talados, indicando el tramo de vía según la señalización kilométrica,
 •
-la demarcación catastral, el número de parcela (números), la composición de especies y la estimación del número de especies arbóreas en cada terreno, la documentación fotográfica y el trazado sobre los documentos del mapa catastral (JŽM);
-descripción y justificación del peligro para la vía férrea – p. ej. daños a la infraestructura ferroviaria
+la circunscripción catastral, el número de parcela (números), la composición de especies y la estimación del número de árboles en cada parcela, la documentación fotográfica y el trazado en la documentación base del mapa catastral (JŽM);
+descripción y justificación de la amenaza a la vía — p. ej., daños a la infraestructura ferroviaria (la línea de tracción), daños en los vehículos ferroviarios al embestir un vehículo ferroviario un árbol caído o la colisión con un árbol que invade el perfil de paso; la alteración de las condiciones de visibilidad en los pasos a nivel, la visibilidad de las señales, etc.;
+documentación de las advertencias comprobablemente realizadas por parte de SŽDC para la eliminación de la fuente de peligro para la vía,
 •
-(línea de tracción), daños en los vehículos ferroviarios al embestir un vehículo ferroviario un árbol caído o la colisión con un árbol que sobresale en el perfil de paso; alteración de las condiciones de visibilidad en los pasos a nivel, visibilidad de las señales, etc.;
-documentos de las requerimientos demostrablemente realizados para la eliminación de la fuente de peligro para la vía férrea
+dirigidas al propietario o gestor de la parcela (o de la parcela con función forestal);
+declaración del propietario o gestor de la parcela (o de la parcela con función forestal)
 •
-por parte de SŽDC, dirigidos al propietario o gestor del terreno
-(o del terreno con función de bosque);
-declaración del propietario o gestor del terreno (o del terreno con función de bosque)
+sobre las mencionadas advertencias de SŽDC, si el propietario o gestor se pronuncia;
+según las condiciones locales, la propuesta del procedimiento tecnológico para el talado de árboles en parcela ajena — p. ej., la posibilidad de acceso a las parcelas de propietarios ajenos a través de una parcela gestionada por SŽDC, la coordinación de las interrupciones de servicio, la colaboración en el transporte de la masa forestal extraída, etc."
+Esta norma, en relación con las disposiciones mencionadas de la legislación, establecía en general (en el momento del suceso) el procedimiento para el talado o la poda de cualquier árbol que crezca a la distancia de impacto del perfil de paso de la vía en explotación, ya sea que crezca
+en el ámbito de la vía,
 •
-sobre los mencionados requerimientos de SŽDC, si el propietario o gestor se pronuncia;
-según las condiciones locales, propuesta del procedimiento tecnológico para el talado de especies arbóreas en terreno ajeno
+en la franja de protección de la vía en una parcela con derecho de gestión de SŽDC
 •
-– p. ej. posibilidad de acceso a terrenos de propietarios ajenos a través de un terreno gestionado por SŽDC, coordinación de las interrupciones de servicio, colaboración en el transporte de la masa forestal extraída, etc.»
-
-Esta disposición, en relación con las mencionadas disposiciones de la legislación, establecía en general (en el momento de la ocurrencia del SU) el procedimiento para el talado o la poda de cualquier especie arbórea (árbol) que crezca a una distancia de impacto del perfil de paso de la vía en servicio, ya sea que crezca
-en el ámbito de la vía férrea,
-•
-en la franja de protección de la vía férrea en un terreno con derecho de gestión de SŽDC
 ◦en el bosque,
 ◦fuera del bosque,
- en la franja de protección de la vía férrea en un terreno con derecho de gestión de otra entidad
+ en la franja de protección de la vía en una parcela con derecho de gestión de otro sujeto
+•
 ◦en el bosque,
 ◦fuera del bosque.
 
-
 ## Página 24
+
 
 ### Ámbito de la vía férrea
 
@@ -908,8 +878,8 @@ Al comparar las disposiciones del § 8 de la Ley núm. 114/1992 Sb., el § 22 de
 
 Independientemente de la redacción de la Directriz metodológica o de su interpretación, la disposición del § 10 de la Ley núm. 266/1994 Sb. en relación con el § 22 de la Ley núm. 289/1995 Sb. proporcionaba al operador ferroviario un respaldo jurídico suficiente y la posibilidad de garantizar la eliminación de la fuente de posible peligro para la vía férrea (talado de árboles) en la franja de protección de la vía férrea, incluso en terrenos destinados al cumplimiento de la función de bosque, e incluso a pesar del problema parcial relacionado con el uso de la definición del término «especie arbórea» en la Directriz metodológica. Sin embargo, si el propietario del terreno (o la persona con derecho de gestión en dicho terreno) no colaboraba, el proceso que conducía al talado podía durar mucho más tiempo.
 
-
 ## Página 25
+
 
 ### Proceso que conduce al talado
 
@@ -935,6 +905,7 @@ En el caso de que el árbol marcado crezca en un terreno destinado al cumplimien
 
 ## Página 26
 
+
 a o náhradě případné újmy rozhodne orgán státní správy lesů.
 Si el árbol marcado crece en un terreno con derecho de gestión de SŽDC, entonces SŽDC se comunica directamente con el órgano de la administración estatal de los bosques. Si el árbol marcado crece en un terreno donde SŽDC no tiene derecho de gestión, entonces SŽDC (en el momento de la aparición de la MU según el art. 35 de la Directriz Metodológica) envía al propietario del terreno una notificación escrita para la eliminación de la fuente de peligro para la vía y fija un plazo para la eliminación del árbol.
 ### Si no se lleva a cabo la eliminación de la fuente de peligro para la vía (del árbol marcado)
@@ -949,8 +920,8 @@ Según el Instituto de la Lengua Checa, el significado de la palabra «vegetaci�
 ### Ejemplo de la exigencia temporal de la tala de árboles
 De fuentes de acceso público (www.silvarium.cz y www.idnes.cz) se sabe que SŽDC solicitó taladrar los árboles peligrosos en el bosque a lo largo de la línea en el tramo Karlovy Vary – Potůčky. SŽDC envió una notificación escrita al propietario del terreno Lesy České republikas, s. p., que se negó a la tala. Posteriormente, a petición de SŽDC, la Oficina Ferroviaria (Drážní úřad) realizó la supervisión estatal y en mayo de 2016 emitió la decisión sobre la eliminación de los árboles peligrosos con plazo hasta finales de septiembre de 2016. El propietario del terreno presentó un recurso, que el Ministerio de Transporte rechazó en la primavera de 2017. Después, el propietario del terreno presentó una demanda de anulación de la decisión del órgano administrativo contra el Ministerio de Transporte. La tala de árboles no se produjo ni tras la emisión de la decisión del Ministerio de Transporte (la demanda de anulación, en cambio, no tenía efecto suspensivo). La Oficina Ferroviaria hizo efectiva su decisión en julio de 2017 y el ejecutor judicial, mediante la imposición de una ejecución, limitó la disposición del patrimonio del propietario del terreno y al mismo tiempo se envió la notificación para la tala de los árboles peligrosos. Posteriormente se alcanzó un acuerdo para la tala de los árboles con plazo hasta el 31. 8. 2017 y la suspensión de la ejecución. Hasta finales de agosto de 2017 se taladraron los árboles marcados.
 
-
 ## Página 27
+
 
 ### El principal escollo del sistema de prevención de la caída de un árbol o de una parte del mismo,
 que el gestor de vía SŽDC utiliza actualmente, es, por tanto, el procedimiento descrito anteriormente frente a terceros – propietarios de terrenos en la franja de protección de la vía, ya se trate de árboles en el bosque o de leñosas fuera del bosque. Este proceso de obtención del permiso de tala en terrenos con derecho de gestión de terceras personas es en la práctica insuficiente, ya que puede ser largo y administrativamente exigente, lo que limita significativamente su eficacia.
@@ -975,8 +946,8 @@ d) representa incluso solo una fuente potencial de peligro para la vía en caso 
 art. 26 de la Directriz Metodológica para el mantenimiento de la vegetación arbórea superior, ref. núm.: S 34873/11-OP, con vigencia desde el 1. 10. 2011 (válido hasta el 20. 2. 2014), donde entre otros se indica:
 «La tala de árboles es más conveniente realizarla en el periodo de reposo vegetativo (...). En los casos en que por razones de seguridad o de salud sea necesario limitar o eliminar leñosas indeseadas, esta actividad se realiza en cualquier momento cumpliendo la notificación mediante la obligación de declaración (...). La notificación mediante la obligación de declaración se refiere solo a las leñosas indeseadas que ..., pero crecen o forman un VKP (nota DI: elemento paisajístico significante) a lo largo de la vía de tráfico, invaden el perfil de paso o se encuentran en la franja de protección de la vía, que con su distancia de impacto podría amenazar la seguridad de la operación. ...».
 
-
 ## Página 28
+
 
 ### Artículos
 ### de la Directriz Metodológica vigente en el momento de la aparición de la MU:
@@ -1005,6 +976,7 @@ El gestor de vía tiene la obligación de eliminar oportunamente tales fuentes d
 
 ## Página 29
 
+
 Sobre la base de lo anterior, pueden extraerse las siguientes conclusiones:
 • mientras que, según el art. 12 de la versión anterior de la Guía Metodológica, la vegetación leñosa se convertía en vegetación leñosa «indeseada» (cuya tala es obligatoria) de forma automática (pasiva), la redacción del art. 11 de la guía vigente en el momento de la aparición del MU exige que el operador ferroviario de la SŽDC marque la vegetación leñosa de forma activa, y solo con ello se convierte en vegetación leñosa «designada para su eliminación»;
 • mientras que, según el art. 12 de la versión anterior de la Guía Metodológica, era vegetación leñosa «indeseada» toda vegetación leñosa que representara incluso solo una fuente potencial de amenaza para la vía, la redacción del art. 11 de la Guía Metodológica vigente en el momento de la aparición del MU, mediante el uso de la palabra «en particular», exige marcar únicamente la vegetación leñosa que, en caso de su caída o de la caída de sus partes aéreas (ramas, etc.) como consecuencia de condiciones meteorológicas adversas, pueda causar una amenaza a la vida o la salud y
@@ -1022,6 +994,7 @@ la marcación y la posterior tala de árboles situados en el ámbito de la vía,
 El transportista ČD cuenta con un sistema de garantía de la seguridad adoptado sobre la base de las disposiciones de la Ley núm. 266/1994 Sb. En el sistema de garantía de la seguridad de la explotación del transporte ferroviario del transportista ČD, relacionado con las circunstancias de la aparición del MU en cuestión, ni en este ni en su cumplimiento se detectó ningún defecto.
 
 ## Página 30
+
 
 ### 3.2.2 Requisitos para el personal del operador ferroviario y del transportista y aplicación de dichos requisitos
 Los requisitos para el personal del operador ferroviario y del transportista, en particular los requisitos de su idoneidad técnica y sanitaria, están establecidos por la Ley núm. 266/1994 Sb., el Decreto núm. 173/1995 Sb., el Decreto núm. 101/1995 Sb., el Decreto núm. 16/2012 Sb. y las normas internas del operador ferroviario y del transportista.
@@ -1047,6 +1020,7 @@ En la documentación presentada, aparte de una instrucción de fecha 3. 5. 2019 
 
 ## Página 31
 
+
 (matorrales), no constaba ningún registro de deficiencias detectadas, a pesar de que los árboles se encontraban a la distancia de caída y eran fuente de amenaza para la vía.
 La realización de rondas e inspecciones regulares no garantizó en medida suficiente la marcación y la posterior tala de árboles situados en el ámbito de la vía, así como de árboles situados a la distancia de caída desde el eje de la vía de servicio, que, como consecuencia de condiciones meteorológicas adversas, podrían causar una amenaza a la vida o la salud y la producción de daños de considerables dimensiones.
 Estadística de MU y anomalías en relación con la caída de árboles en los años 2016, 2017 y 2018
@@ -1068,6 +1042,7 @@ De los 133 casos de MU y anomalías (con causa registrada) se determinó que la 
 En el caso de la aparición de un MU, en las evaluaciones se indica que en la inspección anterior no se había detectado en el tramo de vía en cuestión ningún árbol enfermo u otro árbol peligroso para la explotación ferroviaria.
 
 ## Página 32
+
 
 A pesar de los controles e inspecciones realizados, se seguían produciendo caídas de árboles sobre la vía en explotación, siendo que en 118 de los 133 casos, es decir, el 88,72 %, se trataba de árboles sanos y en el resto de casos se trataba de árboles cuyo mal estado sanitario no había sido detectado en la inspección anterior de la SŽDC.
 En el documento del operador ferroviario «Registro de caída de árboles», en la parte de medidas adoptadas, se indicaba lo siguiente:
@@ -1097,6 +1072,7 @@ A pesar de los controles e inspecciones realizados, se seguían produciendo caí
 
 ## Página 33
 
+
 árboles, en otros 20 casos, es decir, el 4,13 %, se trataba de árboles cuyo mal estado sanitario no había sido detectado en la inspección anterior de SŽDC, y en 2 casos, es decir, el 0,41 %, se trataba de árboles con un mal estado sanitario evidente (árbol seco o tocon de árbol), que en el primer caso no había sido detectado en la inspección anterior y en el segundo caso no había sido indicado.
 En el documento del gestor de la vía
  „Registro de caída de árboles”
@@ -1120,8 +1096,8 @@ De los 294 casos de MU y anomalías (con causa registrada) se constató que la c
 En caso de producción de una MU, en las evaluaciones se indica que en la inspección anterior no se había detectado en el tramo de vía en cuestión ningún árbol enfermo u otro árbol peligroso para el tráfico ferroviario.
 A pesar de las inspecciones y revisiones realizadas, se seguían produciendo caídas de árboles sobre la vía en servicio, siendo en 273 de los 294 casos, es decir, el 92,86 %, árboles sanos, y en otros 21 casos, es decir, el 7,14 %, árboles cuyo mal estado sanitario no había sido detectado en la inspección anterior de SŽDC.
 
-
 ## Página 34
+
 
 En el documento del gestor de la vía
  „Registro de caída de árboles”
@@ -1151,8 +1127,8 @@ El transportista del tren Os 5700 era ČD, con domicilio en Nábřeží L. Svobo
 El transporte ferroviario se prestaba en virtud de un contrato celebrado entre el gestor de la vía SŽDC y el transportista ČD el 18. 12. 2018, con efectos desde el 1. 1. 2019.
 En la interfaz entre los sujetos implicados no se detectaron deficiencias.
 
-
 ## Página 35
+
 
 ### 3.3 Regulación legal y de otro tipo
 ### 3.3.1 Normativa legal nacional y normativa de la Unión Europea aplicables
@@ -1194,8 +1170,8 @@ de la Norma. Mediante la ronda se realiza una inspección para determinar el est
 superestructura e infraestructura ferroviaria, de los pasos a nivel, de las obras y de las instalaciones
 fijas necesarias para la protección
 
-
 ## Página 36
+
 
 contra las influencias adversas de la vía, de las obras de la infraestructura ferroviaria, y para detectar
 la posible aparición de una fuente de peligro para la vía.“;
@@ -1237,8 +1213,8 @@ conformidad con el § 25 apartado 1 del Decreto núm. 177/1995 Sb.
 Los componentes de la vía no guardaron relación causal con la producción de la MU.
 No se detectaron deficiencias.
 
-
 ## Página 37
+
 
 ### 3.4.3 Instalaciones de comunicación e información
 El uso de las instalaciones de comunicación, transmisión e información no guardó
@@ -1287,6 +1263,7 @@ No se detectaron deficiencias.
 
 ## Página 38
 
+
 ### 3.5 Documentación sobre el sistema de explotación
 ### 3.5.1 Medidas adoptadas por los empleados del gestor de la infraestructura y del transportista en cuanto a la dirección y la seguridad del tráfico
 La circulación del tren Os 5700 entre la est. Nová Paka y Lázně Bělohrad en la vía de doble sentido de circulación (TK) se aseguró de conformidad con los procedimientos tecnológicos del gestor de la infraestructura.
@@ -1303,38 +1280,38 @@ El lugar del SE fue asegurado por la persona cualificada designada del gestor de
 Maquinista del tren Os 5700, en el turno del 24. 7. 2019 a partir de las 4:00 h, descanso previo al turno de 11 h de duración. No se produjo la obligación de disfrutar del descanso intermedio y del descanso hasta el momento de la aparición del SE.
 El empleador garantizó las condiciones para el descanso previo al turno y durante el turno, de conformidad con la ley n.º 262/2006 Sb., o, en su caso, con el decreto gubernamental n.º 589/2006 Sb., por el que se establece una regulación diferenciada de la jornada laboral y del tiempo de descanso de los empleados en el transporte.
 
-
 ## Página 39
 
-3.6.2 Estado de salud y situación personal que tuvieron repercusión en el suceso excepcional, incluido el estrés físico o psicológico
-El empleado participante del transportista gozaba de buena salud para el desempeño de la función que ocupaba en el momento de la aparición del SE. El empleado del transportista se sometía a reconocimientos médicos periódicos de conformidad con la disposición del decreto n.º 101/1995 Sb. No se detectó ningún estado de salud ni situación personal que pudiera haber influido en la aparición del SE, incluido el estrés físico y psicológico.
-3.6.3 Disposición del equipamiento del puesto de mando o del vehículo ferroviario que influye en su manejo y uso
-La disposición y el equipamiento del puesto de trabajo del transportista no guardaban relación con la aparición del SE.
-### 3.7 Sucesos excepcionales anteriores de carácter similar
-La Inspección Ferroviaria registra en el período comprendido entre el 1. 1. 2008 y la aparición del SE objeto de estudio en las vías ferroviarias, categoría estatal y regional, un total de 832 SE similares, cuyo origen fue la colisión de un tren con un obstáculo – un árbol (árboles), como consecuencia de los cuales hubo 30 personas heridas y se produjo un daño material por un importe de 96 733 438 Kč. El origen de estos SE fue en todos los casos un obstáculo – un árbol (árboles) en el perfil de paso de la vía en explotación.
-Antes de la aparición del SE objeto de estudio, la DI investigó 6 SE similares:
-### del 21. 7. 2011, entre la est. Hodkovice nad Mohelkou y Rychnov u Jablonce
+3.6.2 Estado de salud y situación personal que tuvieron incidencia en el suceso ferroviario, incluido el estrés físico o psicológico
+El empleado de la empresa ferroviaria implicado se encontraba, en el momento de producirse el suceso ferroviario, en condiciones de salud aptas para el desempeño de la función que desempeñaba. El empleado de la empresa ferroviaria se sometía a reconocimientos médicos periódicos de conformidad con lo dispuesto en el decreto nº 101/1995 Sb. No se detectó ningún estado de salud ni situación personal que pudiera haber influido en la producción del suceso ferroviario, incluido el estrés físico y psicológico.
+3.6.3 Disposición del equipamiento del puesto de mando o del vehículo ferroviario que influye en su conducción y utilización
+La disposición y el equipamiento del puesto de trabajo de la empresa ferroviaria no guardaban relación con la producción del suceso ferroviario.
+### 3.7 Sucesos ferroviarios anteriores de carácter similar
+La Inspección Ferroviaria registra, en el período comprendido entre el 1 de enero de 2008 y la fecha de producción del suceso ferroviario objeto de estudio, en las vías ferroviarias de categoría nacional y regional, un total de 832 sucesos ferroviarios similares, cuya causa de producción fue la colisión de un tren con un obstáculo – un árbol (árboles), como consecuencia de los cuales resultaron 30 personas heridas y se produjo un daño material por importe de 96.733.438 Kč. La causa de producción de dichos sucesos ferroviarios fue en todos los casos el obstáculo – un árbol (árboles) en el perfil libre de la vía de circulación en servicio.
+Antes de la producción del suceso ferroviario objeto de estudio, la DI investigó 6 sucesos ferroviarios similares:
+### del 21 de julio de 2011, entre la estación de Hodkovice nad Mohelkou y Rychnov u Jablonce
 •
-### nad Nisou, cuando el tren Os 5408 colisionó con la copa de un árbol caído y posteriormente se descarriló. La causa inmediata de la aparición del SE fue el arrancamiento y la posterior caída de un árbol crecido en la franja de protección de la vía sobre la vía general como consecuencia de su sobrecarga por otros árboles arrancados;
-### del 26. 8. 2012, entre la est. Vlastějovice y la est. Ledeč nad Sázavou
+### nad Nisou, en el que el tren Os 5408 chocó con la copa de un árbol caído y, posteriormente, descarriló. La causa inmediata de la producción del suceso ferroviario fue el arrancamiento y la posterior caída de un árbol situado en la franja de protección de la vía sobre la vía de circulación como consecuencia de su sobrecarga por otros árboles arrancados;
+### del 26 de agosto de 2012, entre la estación de Vlastějovice y la estación de Ledeč nad Sázavou
+ , en el que el tren
 •
-, cuando el tren
-Os 9205 colisionó con la copa desprendida de un árbol caída sobre la vía general.
-La causa inmediata de la aparición del SE fue el desprendimiento y la posterior caída de la copa de un árbol, que crecía en la franja de protección de la vía, sobre el espacio de la vía general;
-### del 4. 2. 2014, entre Jindřichov ve Slezsku (frontera de estado) y la est. Jindřichov ve
+Os 9205 chocó con la copa de un árbol desprendida y caída sobre la vía de circulación.
+La causa inmediata de la producción del suceso ferroviario fue el desprendimiento y la posterior caída de la copa de un árbol situado en la franja de protección de la vía sobre el espacio de la vía de circulación;
+### del 4 de febrero de 2014, entre Jindřichov ve Slezsku st. hr. y la estación de Jindřichov ve
 •
-Slezsku, cuando el tren Sp 1661 colisionó con tres árboles caídos y posteriormente se descarriló. La causa inmediata de la aparición del SE fue la alteración del perfil de paso de la vía general por un obstáculo en la vía de circulación de la vía, originado por la caída de tres árboles (robles) crecidos en el perímetro de la vía a una distancia de caída desde el eje de la vía general;
-### del 11. 1. 2015, entre la est. Rožná y la est. Nedvědice
+Slezsku, en el que el tren Sp 1661 chocó con tres árboles caídos y, posteriormente, descarriló.
+La causa inmediata de la producción del suceso ferroviario fue la alteración del perfil libre de la vía de circulación por un obstáculo en la vía de circulación de la infraestructura ferroviaria, producido por la caída de tres árboles (robles) situados en el perímetro de la vía a una distancia de impacto desde el eje de la vía de circulación;
+### del 11 de enero de 2015, entre la estación de Rožná y la estación de Nedvědice
+ , en el que el tren Os 14905 chocó
 •
-, cuando el tren Os 14905 colisionó
-con dos árboles caídos sobre la vía general. La causa inmediata de la aparición del SE fue el arrancamiento y la posterior caída de dos árboles, crecidos en la franja de protección de la vía, sobre la vía general;
-### del 12. 8. 2017, entre la est. Mostek y la est. Bílá Třemešná
+con dos árboles caídos sobre la vía de circulación. La causa inmediata de la producción del suceso ferroviario fue el arrancamiento y la posterior caída de dos árboles situados en la franja de protección de la vía sobre la vía de circulación;
+### del 12 de agosto de 2017, entre la estación de Mostek y la estación de Bílá Třemešná
+ , en el que el tren R 1261
 •
-, cuando el tren R 1261
-colisionó con un árbol caído y posteriormente se descarriló. La causa inmediata de la aparición del SE fue la alteración del perfil de paso de la vía general por un obstáculo – el tronco caído de un árbol, que crecía en el perímetro de la vía a una distancia de caída del perfil de paso de la vía general;
-
+chocó con un árbol caído y, posteriormente, descarriló. La causa inmediata de la producción del suceso ferroviario fue la alteración del perfil libre de la vía de circulación por un obstáculo – el tronco caído de un árbol situado en el perímetro de la vía a una distancia de impacto del perfil libre de la vía de circulación;
 
 ## Página 40
+
 
 del 21. 9. 2018, entre la est.
 ###  Holýšov y Staňkov
@@ -1357,8 +1334,8 @@ al Ministerio de Transporte de la República Checa, en colaboración con la Auto
 •
 iniciar la modificación de la disposición del apartado 2 del art. 8 de la ley n.º 114/1992 Sb., de protección de la naturaleza y del paisaje, en su redacción vigente, de modo que, de forma análoga a lo que ocurre en la franja de protección de las instalaciones de los sistemas de electrificación y de gas, para la tala de ejemplares arbóreos crecidos en la franja de protección de la vía, cuya altura aumentada en 2,5 m sea igual o mayor que la distancia desde el eje de la vía exterior, no se requiriera, en la explotación de las vías, la licencia de los órganos de protección de la naturaleza, bastando únicamente con la notificación escrita del gestor de la infraestructura al órgano de protección de la naturaleza al menos 15 días de antemano. Se implementó;
 
-
 ## Página 41
+
 
 al gestor de la infraestructura, Administración de la Infraestructura Ferroviaria de Transporte, organización estatal
 •
@@ -1369,6 +1346,7 @@ iniciar la modificación de las disposiciones de las leyes n.º 266/1994 Sb., de
 Algunas RS (Recomendaciones de Seguridad) se implementaron, algunas se implementaron parcialmente y algunas RS no se implementaron. Se produjo una modificación de la normativa legal que, en algunos casos, simplificó las condiciones para la tala de árboles que son fuente inmediata de riesgo para la vía, y de árboles en el perímetro de la vía y en la franja de protección de la vía en terrenos fuera del bosque. La tala de árboles que a primera vista están sanos y crecen en la franja de protección de la vía en terrenos que cumplen funciones forestales, que por su altura y distancia desde el eje de la vía son fuente de riesgo para la vía, sigue siendo muy problemática y muy exigente en cuanto a tiempo. Véase el punto 3.2.3 y, a continuación, el punto 4.2.1 de la presente ZZ.
 
 ## Página 42
+
 
 ## 4 ANÁLISIS Y CONCLUSIONES
 ### 4.1 Descripción final del suceso ferroviario
@@ -1382,10 +1360,10 @@ El maquinista, al conducir el tren Os 5700, según su declaración, al salir de 
 El obstáculo en la vía lo constituía la parte desprendida de un árbol, que tras caer quedó tendida sobre la vía en servicio en el pk 64,457. La vía, antes del lugar de origen del suceso ferroviario, discurre por un tramo arbolado en una curva a la izquierda; el obstáculo era visible desde el material rodante con luz diurna a una distancia de 118 m; en el momento del suceso había comenzado el amanecer civil. El llenado de los cilindros de freno, según el análisis del registrador de velocidad (véase el punto 3.4.4 de la presente ZZ), se registró a 40 m del lugar de origen del suceso ferroviario; el tiempo necesario para la reacción del maquinista es de hasta 1,49 s.¹ El tiempo desde la accionación del freno de acción directa hasta la entrada de presión en los cilindros de freno es de aproximadamente 1 s en este material rodante. En 2,49 s, el material rodante recorre a una velocidad de 63 km·h-1 unos 44 m. Antes de la reacción del maquinista, el tren recorrió, por tanto, en el lugar donde era posible ver el obstáculo con luz diurna, una distancia de 34 m en 1,94 s (40 m correspondían a la distancia de frenado, 44 m a la reacción del maquinista y del material rodante, y de los 118 m totales de visibilidad del obstáculo quedaban, por tanto, 34 m, respectivamente 1,94 s, que el tren recorrió antes de que el maquinista reconociera el obstáculo en la vía, respectivamente, comenzara a percibirlo). Esto puede considerarse adecuado, dadas las condiciones lumínicas al inicio del amanecer civil (es decir, quedaban 38 minutos para la salida del sol) en el bosque. El maquinista no disponía, en ese momento y antes del origen del suceso ferroviario, de una visibilidad suficiente sobre la vía situada delante de él como para poder, utilizando una frenada de acción rápida desde una velocidad de 63 km·h-1, evitar la colisión con el obstáculo, ni siquiera si teóricamente hubiera reaccionado de inmediato. En el momento de la entrada de presión en los cilindros de freno, teóricamente quedarían 74 m hasta la colisión, distancia que es claramente insuficiente para detener el material rodante de la serie 810 desde una velocidad de 63 km·h-1. El material rodante del tren estaba sin anomalías antes del origen del suceso ferroviario y, antes del origen del suceso ferroviario, el tren no superó la velocidad máxima permitida.
 Del examen del lugar del suceso ferroviario se constató que el árbol crecía a 17 m del eje de la vía en el pk 64,461, a la izquierda en el sentido de circulación del tren. El árbol estaba frondoso y en su superficie visible (corteza) no se detectaron signos de pudrición. El árbol tenía una altura de unos 35 m, a 130 cm del suelo tenía un perímetro de 250 cm, es decir, un diámetro de 80 cm. A una altura de unos 8 m sobre el suelo, el tronco principal del árbol se dividía
 1
-BRADÁČ, A., KREJČÍŘ, P., LUKAŠÍK, L., OŠLEJŠEK, J., PLCH, J.: Soudní inženýrství. Akademické nakladatelství CERM Brno, 
-
+BRADÁČ, A., KREJČÍŘ, P., LUKAŠÍK, L., OŠLEJŠEK, J., PLCH, J.: Soudní inženýrství. Akademické nakladatelství CERM Brno,
 
 ## Página 43
+
 
 en 3 troncos menores. En este punto se produjo la rotura de uno de estos troncos, que cayó sobre la vía. En el punto de unión de los 3 troncos se encontró hojarasca vieja en descomposición; el lugar presentaba signos de humedad permanente (tras cada lluvia permanecía allí agua estancada). La parte desprendida presentaba huellas de pudrición interna de 123 cm de longitud. La pudrición no era detectable desde el exterior, pero era previsible en un lugar así. El tronco de la parte desprendida del árbol se subdividió a su vez en dos ramas principales, contra las que impactó el material rodante del tren Os 5700 y las partió. En el punto de rotura, las ramas (cada una por separado) tenían un perímetro de 85 cm, es decir, un diámetro de 27 cm. La copa y la mayor parte de las partes frondosas se encontraron a la derecha de la vía en el sentido de circulación del tren.
  Posteriormente, mediante una medición geodésica, se constató que el árbol crecía en una parcela del ámbito de la vía con derecho de explotación de SŽDC. Dicha parcela está destinada a la construcción de la vía y la vía está destinada al movimiento de material rodante. Según la extracto del registro catastral, en la parcela consta la forma de uso – vía.
@@ -1397,8 +1375,8 @@ Conforme a lo dispuesto en el § 2, apartado 1, de la Ley núm. 266/1994 Sb., la
 Lo dispuesto en el § 8, apartado 2, de la Ley núm. 114/1992 Sb. permite la tala de árboles con el fin de garantizar la operatividad de la vía férrea o de garantizar un transporte ferroviario fluido y seguro en dicha vía, lo que debe notificarse por escrito con al menos 15 días de antelación al organismo de protección de la naturaleza. Lo dispuesto en el § 8, apartado 4, de la Ley núm. 114/1992 Sb. permite, a su vez, la tala de árboles sin notificación previa en la situación en que la vida o la salud se vean amenazada de forma manifiesta e inmediata o cuando se amenace con un daño de gran magnitud.
 Dado que el árbol crecía en el ámbito de la vía, esta posible fuente de amenaza para la vía debió haber sido señalizada por el explotador de la vía durante las rondas de inspección regulares o durante la realización de la inspección integral como «madera destinada a su eliminación» en el sentido del art. 11 de la Directriz Metodológica. Dado que la altura de este árbol era mayor que su distancia al eje de la vía, dicho árbol podía, como consecuencia de condiciones atmosféricas adversas (en caso de su caída y la posterior posible colisión con el material rodante), amenazar la garantía de la operatividad de la vía férrea o la garantía de un transporte ferroviario fluido y seguro en dicha vía, en el sentido de lo dispuesto en el § 22, apartado 1, letra a), de la Ley núm. 266/1994 Sb. y en el sentido de lo dispuesto en el § 8, apartado 2, de la Ley núm. 114/1992 Sb. Al no señalizar ni eliminar el árbol en cuestión, el explotador de la vía incumplió el deber de prevención establecido en el § 2900 de la Ley núm. 89/2012 Sb., independientemente de si en el caso concreto se exime o no de su responsabilidad subjetiva conforme al § 2910 de la Ley núm. 89/2012 Sb. en el marco de una eventual controversia judicial de derecho privado.
 
-
 ## Página 44
+
 
 Las inspecciones y los viajes de control fueron realizados por el explotador de la vía conforme a la normativa interna SŽDC S2/3, respectivamente, conforme a las disposiciones correspondientes del Decreto núm. 177/1995 Sb., y dichos controles y mediciones establecidos fueron cumplimentados. No se detectaron, mediante esta actividad de control ni durante la inspección integral, anomalías concretas en relación con la vegetación que amenazaran la seguridad de la explotación de la vía y del transporte ferroviario en dicho tramo de vía antes del origen del suceso ferroviario, en contradicción con el § 26, apartado 2, letra a), del Decreto núm. 177/1995 Sb., los arts. 32 y 70 de la normativa interna del explotador de la vía SŽDC S2/3 y los arts. 51 y 53 de la Directriz Metodológica, y no constan registradas en la documentación presentada a la Inspección Ferroviaria (extracto del sistema de información SORUT, Libro de controles del jefe del centro de explotación TO Stará Paka, Libreta de servicio del inspector de rondas TO Stará Paka). El único tramo con una anomalía registrada en la vegetación (matorral destinado a su poda) era el tramo entre el pk 56,170 y el 56,550, entre las estaciones de Stará Paka y Ostroměř.
 De lo anterior puede concluirse que los controles así realizados no garantizaron el cumplimiento de las disposiciones de las normativas y directrices internas de SŽDC, el cumplimiento de la obligación de mantener la vía para garantizar su operatividad en el sentido del § 2, apartado 3, del Decreto núm. 173/1995 Sb., y, posteriormente, tampoco la materialización del sistema de seguridad adoptado por el explotador de la vía, lo que contradice lo dispuesto en el § 22, apartado 1, letra a), y apartado 2, letra d), de la Ley núm. 266/1994 Sb.
@@ -1410,6 +1388,7 @@ El crecimiento de árboles en el ámbito de la vía (casi siempre en una parcela
 El hecho de que el explotador de la vía SŽDC realice inspecciones y controles no significa aún que se realicen de forma estricta en relación con la vegetación, porque si así fuera, no podría haberse producido el origen de este y otros sucesos ferroviarios similares, en los que se produjo la caída de un árbol sobre la vía desde una parcela sobre la que el explotador de la vía SŽDC tiene derecho de explotación, ya que dicha parcela está, o debería estar, mantenida conforme a la decisión de recepción de obra, es decir, sin árboles, lo que, por otro lado, el explotador de la vía SŽDC alegó en su defensa en el procedimiento ante la Inspección Checa de Medio Ambiente, respectivamente, ante el Tribunal Supremo Administrativo.
 
 ## Página 45
+
 
 ### El explotador de la vía no eliminó la vegetación no deseada del terreno sobre el que tiene derecho a explotar, cuando dicha vegetación estaba posteriormente en relación causal con la aparición de la MU, no explotaba así la vía para las necesidades del transporte ferroviario fluido y seguro.
  2  
@@ -1427,8 +1406,8 @@ La Ley n.º 266/1994 Sb., de vías, en su redacción vigente, con su disposició
 2
 El texto de esta parte se refiere a la fecha de aparición de la mencionada MU; las partes redactadas en presente son asimismo actuales en el momento de la emisión de esta ZZ.
 
-
 ## Página 46
+
 
 de peligro para la vía, la obligación de adoptar las medidas necesarias para eliminar la situación ilícita, es decir, la fuente de peligro para la vía.
 ### SŽDC advierte al propietario (administrador) del terreno afectado que la eliminación de la fuente de peligro para la vía debe realizarse de tal manera y en tal alcance que impida dicho peligro, es decir, es necesario eliminar todos los árboles que por su altura y distancia de impacto pueden causar la aparición de una incidencia en la vía con posible consecuencia de peligro para la vida, la salud o daños de considerable magnitud.
@@ -1444,40 +1423,40 @@ En caso de que no realice la eliminación (poda) de los árboles en el plazo ind
 Le agradecemos su colaboración para garantizar las condiciones de explotación segura y fluida de la vía y del transporte ferroviario.»
 Del texto modelo de la notificación se desprende que el propio explotador de la vía SŽDC era consciente de que eliminar la fuente de peligro para la vía significaba eliminar todos los árboles que por su altura y distancia de impacto pueden causar la aparición de una incidencia en la vía con posible consecuencia de peligro para la vida, la salud o daños de considerable magnitud. Asimismo, el propio explotador de la vía SŽDC señalaba que se trataba de una responsabilidad inequívoca del propietario (administrador) del terreno en la franja de protección de la vía, que dejó crecer los árboles (bosque) hasta un estado en el que estos se convirtieron en una fuente de peligro para la vía, incluidas las consecuencias de carácter penal. Como él mismo indicaba, la fuente de peligro para la vía descrita, en efecto, no surgió por la construcción ni por la explotación de la vía ni por influencias naturales, sino por la actuación (que incluye también la omisión) del propietario (administrador) del terreno, en el que se encuentra la fuente de peligro para la vía (árboles (bosque)). El explotador de la vía SŽDC instaba de este modo a los demás propietarios (administradores) de terrenos, pero él mismo no cumplía diligentemente dichas obligaciones (véanse los datos estadísticos indicados más abajo y en el punto 3.2.3 de esta ZZ).
 
-
 ## Página 47
 
-Fig. n.º 4: Árbol – posible fuente de peligro para la vía
+Obra n.º 4: Árbol – posible fuente de peligro para la vía
          Fuente: SŽDC, Ochranaprirody.cz; edición DI
 ### Estadística de caídas
  de árboles
-De acuerdo con el documento de SŽDC titulado «Registro de caídas de árboles», para el año 2016 se registran
-206 casos de caída de árboles, de los cuales en 91 casos (es decir, el 44 % del total) los árboles caídos crecían en un terreno con derecho de explotación de SŽDC. Del total del daño indicado, el daño en vehículos ferroviarios fue del 94 % y el daño en infraestructura del 6 %.
-A pesar de las inspecciones y revisiones realizadas, se producían continuamente caídas de árboles
-en la vía explotada, de los cuales en 118 de 133 casos, es decir, el 88,72 %, se trataba de árboles sanos y en el resto de casos se trataba de árboles en los que el mal estado de salud no era evidente a primera vista.
-De acuerdo con el documento de SŽDC titulado «Registro de caídas de árboles», para el año 2017 se registran
-
+Según el documento de SŽDC titulado «Evidence pádu stromů» (Registro de caídas de árboles), para el año 2016 se registran
+206 casos de caída de árboles, de los cuales en 91 casos (es decir, el 44 % del total) los árboles
+caídos crecían en un terreno con derecho de aprovechamiento de SŽDC. Del total de daños indicados, el daño en
+material rodante fue del 94 % y el daño en infraestructura del 6 %.
+A pesar de las inspecciones y revisiones realizadas, se seguían produciendo caídas de árboles
+en la vía en explotación, de las cuales en 118 de los 133 casos, es decir, el 88,72 %, se trataba de árboles sanos
+y en el resto de los casos se trataba de árboles en los que el mal estado sanitario no era
+evidente a primera vista.
+Según el documento de SŽDC titulado «Evidence pádu stromů» (Registro de caídas de árboles), para el año 2017 se registran
 
 ## Página 48
 
-706 casos de caída de árboles, de los cuales en 297 casos (es decir, el 42 % del total) los árboles caídos crecían en un terreno con derecho de explotación de SŽDC. Del total del daño indicado, el daño en vehículos ferroviarios fue del 92 % y el daño en infraestructura del 8 %.
-A pesar de las inspecciones y revisiones realizadas, se producían continuamente caídas de árboles
-en la vía explotada, de los cuales en 462 de 484 casos, es decir, el 95,45 %, se trataba de árboles sanos, en otros 20 casos, es decir, el 4,13 %, se trataba de árboles en los que el mal estado de salud no era evidente a primera vista, y en 2 casos, es decir, el 0,41 %, se trataba de un estado de salud evidentemente malo de los árboles (árbol seco o tocón de árbol), que en el primer caso no fue detectado por la inspección anterior y en el segundo caso no fue indicado.
-De acuerdo con el documento de SŽDC titulado «Registro de caídas de árboles», para el año 2018 se registran
-443 casos de caída de árboles, de los cuales en 209 casos (es decir, el 47 % del total) los árboles caídos crecían en un terreno con derecho de explotación de SŽDC. Del total del daño indicado, el daño en vehículos ferroviarios fue del 99 % y el daño en infraestructura del 1 %.
-A pesar de las inspecciones y revisiones realizadas, se producían continuamente caídas de árboles
-en la vía explotada, de los cuales en 273 de 294 casos, es decir, el 92,86 %, se trataba de árboles sanos y en otros 21 casos, es decir, el 7,14 %, se trataba de árboles en los que el mal estado de salud no era evidente a primera vista.
-De lo anterior se desprende que, en promedio, el 44 % de todos los árboles que en los años 2016 a 2018 ponían en peligro o limitaban la explotación de la vía crecían en un terreno con derecho de explotación de SŽDC y que para su eliminación no era necesaria la colaboración de terceros, respectivamente no existían complicaciones para la obtención del consentimiento.
-Además, de lo anterior se puede deducir que la mayoría de las incidencias y anomalías son causadas por la caída de un árbol sano como consecuencia de la acción de las condiciones meteorológicas. Si se acepta el hecho de que estos árboles caen como consecuencia de un acontecimiento inevitable sin origen en la explotación, entonces la única medida eficaz para prevenir las MU y las anomalías es la eliminación de todos los árboles o de sus partes que, en función de su altura y distancia del eje de la vía, pueden potencialmente caer en el perfil de paso de la vía explotada.
-Por último, de lo anterior se desprende que el daño producido en el lado de los transportistas es más de diez veces superior al daño producido en el lado del explotador de la vía SŽDC.
+706 casos de caída de árboles, de los cuales en 297 casos (es decir, el 42 % del total) los árboles caídos crecían en terreno con derecho de explotación de SŽDC. Del total del daño indicado, el daño a los vehículos ferroviarios fue del 92 % y el daño a la infraestructura del 8 %.
+A pesar de las inspecciones y revisiones realizadas, se producían continuamente caídas de árboles sobre la vía en explotación, de las cuales en 462 de los 484 casos, es decir, el 95,45 %, se trataba de árboles sanos, en otros 20 casos, es decir, el 4,13 %, se trataba de árboles cuyo mal estado de salud no era evidente a primera vista, y en 2 casos, es decir, el 0,41 %, se trataba de un mal estado de salud manifiesto de los árboles (árbol seco o tocon de árbol), que en el primer caso no fue detectado por la inspección anterior y en el segundo caso no fue indicado.
+Según el documento de SŽDC titulado „Evidence pádu stromů“ (Registro de caídas de árboles), para el año 2018 se registran 443 casos de caída de árboles, de los cuales en 209 casos (es decir, el 47 % del total) los árboles caídos crecían en terreno con derecho de explotación de SŽDC. Del total del daño indicado, el daño a los vehículos ferroviarios fue del 99 % y el daño a la infraestructura del 1 %.
+A pesar de las inspecciones y revisiones realizadas, se producían continuamente caídas de árboles sobre la vía en explotación, de las cuales en 273 de los 294 casos, es decir, el 92,86 %, se trataba de árboles sanos y en otros 21 casos, es decir, el 7,14 %, se trataba de árboles cuyo mal estado de salud no era evidente a primera vista.
+De lo anterior se deduce que, en promedio, el 44 % de todos los árboles que en los años 2016 a 2018 amenazaban o limitaban la explotación de la vía crecían en terreno con derecho de explotación de SŽDC y, por tanto, no era necesaria la colaboración de terceros para su eliminación, respectivamente no existían complicaciones para obtener el consentimiento.
+Además, de lo anterior se puede deducir que la mayoría de los sucesos excepcionales y anomalías los causa la caída de un árbol sano como consecuencia de la acción de las condiciones meteorológicas. Si se acepta el hecho de que estos árboles caen como consecuencia de un suceso inevitable sin origen en la explotación, entonces la única medida eficaz para prevenir los SU y las anomalías es la eliminación de todos los árboles o de sus partes que, en función de su altura y de su distancia al eje de la vía, puedan potencialmente caer en el perfil de paso de la vía en explotación.
+Por último, de lo anterior se deduce que el daño causado en el lado de los transportistas es más de diez veces superior al daño causado en el lado del explotador de la vía SŽDC.
  3  
-### Evaluación de las causas y circunstancias de la aparición de la MU y determinación de medidas
-### En los casos en los que el árbol presenta un estado de salud visiblemente malo y, por tanto, cayó por falta de cuidado, es necesario rechazar la afirmación del explotador de la vía SŽDC, indicada en sus evaluaciones de las causas y circunstancias de la aparición de la MU, de que la responsabilidad por la aparición de la MU corresponde a: Influencia natural – acontecimiento inevitable sin origen en la explotación, es decir, fuerza mayor.
-La jurisprudencia constante del Tribunal Supremo de la República Checa indica que no pueden considerarse fuerza mayor las influencias meteorológicas, es decir, viento, lluvia o nieve, si no se ha empleado todo el esfuerzo imaginable y todo el cuidado posible para evitar/prevenir la aparición del daño que hubiera sido posible emplear (por ejemplo, resolución, ref. n.º: 25 Cdo 1435/2013, de fecha 27. 5. 2014, o ref. n.º: 25 Cdo 1927/2012, de fecha 20. 12. 2012, en los que se produjo la caída de un árbol o de su parte desprendida independientemente del tiempo, debido a la falta de cuidado del árbol, puesto que el árbol estaba afectado por pudrición. Según el tribunal, el propietario del terreno está obligado a cuidar los vegetales que crecen en su terreno).
+### Evaluación de las causas y circunstancias de los SU y determinación de medidas
+### En los casos en que el árbol presenta un mal estado de salud visiblemente evidente y, por tanto, cayó por falta de cuidado, debe rechazarse la afirmación del explotador de la vía SŽDC, expuesta en sus evaluaciones de las causas y circunstancias de los SU, de que la responsabilidad por la ocurrencia del SU corresponde a: Influencia natural – suceso inevitable sin origen en la explotación, es decir, fuerza mayor.
+La jurisprudencia constante del Tribunal Supremo de la República Checa establece que no pueden considerarse fuerza mayor las influencias meteorológicas, es decir, el viento, la lluvia o la nieve, si no se ha empleado todo el esfuerzo imaginable y todos los cuidados posibles para evitar/impedir la ocurrencia del daño que hubiera sido posible emplear (por ejemplo, resolución, ref. núm.: 25 Cdo 1435/2013, de fecha 27. 5. 2014, o ref. núm.: 25 Cdo 1927/2012, de fecha 20. 12. 2012, en los que se produjo la caída de un árbol o de su parte desprendida independientemente del tiempo atmosférico, debido a la falta de cuidado del árbol, ya que el árbol estaba atacado por la pudrición. Según el tribunal, el propietario del terreno está obligado a cuidar de la vegetación que crece en su terreno).
 3
-El texto de esta parte se refiere a la fecha de aparición de la mencionada MU; las partes redactadas en presente son asimismo actuales en el momento de la emisión de esta ZZ.
+El texto de esta parte se refiere a la fecha de ocurrencia del SU en cuestión; las partes redactadas en tiempo presente son asimismo vigentes en el momento de la emisión de esta ZZ.
 
 ## Página 49
+
 
 En general, se considera fuerza mayor un acontecimiento especialmente calificado, que es objetivamente imprevisible e inevitable dadas las circunstancias (véase HENDRYCH, Dušan, y col. Právnický slovník. 3.ª edición ampliada sustancialmente. Praga : C. H. Beck, 2009, p. 1302).
 En la RESOLUCIÓN del Tribunal Supremo, ref. 25 Cdo 1979/2012, de fecha 10. 1. 2013, se
@@ -1494,26 +1473,25 @@ Dicho proceder del explotador de la vía SŽDC es claramente contrario a la disp
    otros acontecimientos (anomalías)
   en la garantía de la seguridad de la explotación de la vía o del transporte ferroviario. Además, es necesario indicar que las influencias meteorológicas como el viento, la lluvia, la nieve, las tormentas son habituales y se repiten cíclicamente a lo largo del año, incluidos los fenómenos para los que se emiten alertas del ČHMÚ, ya que también estos fenómenos extremos se presentan de forma repetida. Por tanto, es posible preverlos y prepararse para ellos mediante medidas eficaces (véase más abajo).
 
-
 ## Página 50
 
-### Parte general referida a la evolución de la jurisprudencia y de la normativa relativa a
-### la eliminación de la arboleda hasta la fecha de emisión del ZZ
-### Nueva decisión del Tribunal Supremo Administrativo
-Durante la investigación del MU en cuestión, el Tribunal Supremo Administrativo emitió el 18. 12. 2019 la decisión n.º de expediente: 1 As 299/2019-45, en el asunto de la decisión de la Oficina Ferroviaria de fecha 18. 7. 2016, por la que la OF ordenó a la sociedad Lesy ČR que realizara las medidas necesarias para eliminar la fuente de peligro para la vía y la explotación en la misma que había surgido, hasta el 30. 11. 2016. Por fuente de peligro para la vía se entendían, mediante esta decisión, los árboles crecidos a lo largo de la vía nacional electrificada de doble vía Chomutov – Cheb, en el tramo entre estaciones Citice – Dasnice, entre los km 216,120 y 216,215, que por su altura y distancia de caída podían causar la aparición de un MU con la posible consecuencia de peligro para la vida, la salud o daños de considerable magnitud.
-Contra la decisión de la Oficina Ferroviaria se opuso la sociedad Lesy ČR, y demandó al Ministerio de Transporte (en adelante también MDČR), como organismo tutelar de la OF, ante el Tribunal Municipal de Praga (en adelante solo Tribunal Municipal). El Tribunal Municipal estimó la demanda, anuló la decisión de la Oficina Ferroviaria y le devolvió el asunto para la continuación del procedimiento.
-El Tribunal Municipal dio la razón a la excepción del demandante (Lesy ČR) de que no pueden considerarse como peligro, en el sentido del apartado 1 del artículo 10 de la Ley de ferrocarriles, todos los árboles crecidos en terreno forestal que por su altura y distancia de caída puedan causar la aparición de una anomalía en la vía. La orden general de eliminar todos los árboles que, en función de su altura y de su distancia a la vía, pudieran caer en la vía, la valoró el Tribunal Municipal como ilegal.
+### Parte general relativa a la evolución de la jurisprudencia y de la legislación en materia de
+### eliminación de arbolado hasta la fecha de emisión de la ZZ
+### Nueva resolución del Tribunal Supremo Administrativo
+Durante la investigación del MU en cuestión, el Tribunal Supremo Administrativo emitió el 18. 12. 2019 la resolución n.º de expediente: 1 As 299/2019-45, en el asunto de la resolución de la Autoridad Ferroviaria de 18. 7. 2016, por la que la DÚ ordenó a la sociedad Lesy ČR que adoptara las medidas necesarias para eliminar la fuente de peligro para la vía y la explotación en la misma que se había generado, antes del 30. 11. 2016. Mediante dicha resolución, se entendió como fuente de peligro para la vía los árboles crecidos a lo largo de la vía férrea nacional electrificada de doble vía Chomutov – Cheb, en el tramo entre estaciones Citice – Dasnice, entre el pk 216,120 y el 216,215, que por su altura y distancia de caída podían causar la aparición de un MU con la posible consecuencia de peligro para la vida, la salud o daños de considerable magnitud.
+Contra la resolución de la Autoridad Ferroviaria se opuso la sociedad Lesy ČR, y demandó al Ministerio de Transporte (en adelante también MDČR), como organismo tutelar de la DÚ, ante el Tribunal Municipal de Praga (en adelante solo Tribunal Municipal). El Tribunal Municipal estimó la demanda, anuló la resolución de la Autoridad Ferroviaria y le devolvió el asunto para su ulterior tramitación.
+El Tribunal Municipal dio la razón a la alegación de la parte actora (Lesy ČR) de que no pueden considerarse como peligro, en el sentido del § 10 apartado 1 de la Ley de Ferrocarriles, todos los árboles crecidos en terreno forestal que por su altura y distancia de caída puedan causar la aparición de un suceso excepcional en la vía. El mandato generalizado de eliminar todos los árboles que, en función de su altura y distancia respecto a la vía, pudieran caer en la misma, fue valorado por el Tribunal Municipal como ilegal.
 Recurso de casación del MDČR
-El MDČR interpuso a continuación un recurso de casación, en el que contra la sentencia alegó que el Tribunal Municipal valoró incorrectamente el concepto «peligro para la vía» desde el punto de vista de la probabilidad de caída del árbol, aunque dicho concepto debía valorarlo desde el punto de vista de las consecuencias (resultados) de dicha caída.
-### El MDČR indicó que «las consecuencias de la caída de un árbol son las mismas en el caso de un árbol sano que en el de un árbol enfermo. Los fenómenos climáticos desfavorables actuales han demostrado que incluso un árbol objetivamente totalmente sano puede, como consecuencia de una ráfaga fuerte de viento, del suelo empapado o de las avalanchas de nieve, convertirse en un peligro para la vía, cuando de forma totalmente repentina, incontrolada e imprevisible incide en el perfil de paso de la vía.
-### La exigencia de acreditar un estado dendrológico adecuadamente dañado de todos los árboles destinados a la tala supondría, por tanto, una carga injustificada para los participantes en el procedimiento y una generación innecesaria de costes.
-### Cualquier árbol, incluso sano, con una altura y distancia críticas respecto de la vía, representa para esta un peligro ya como consecuencia de la amenaza de fenómenos climáticos negativos repetidos, y no solo en el momento de la aparición de una situación crítica inmediata, ya que en tal caso el procedimiento administrativo según el artículo 10 de la Ley de ferrocarriles no sería una reacción suficientemente rápida ante el peligro en cuestión.»
-El MDČR indicó que «el Tribunal Municipal no tuvo en cuenta manifiestamente el fallo del Tribunal Constitucional Pl. ÚS 11/01 (nota DI: ref.) de fecha 6. 3. 2002, n.º 144/2002 Sb., según el cual constituye un incumplimiento de la obligación del propietario del terreno, por ejemplo, la plantación de un árbol en un lugar inadecuado.
+A continuación, el MDČR interpuso un recurso de casación, en el que alegó contra la sentencia que el Tribunal Municipal valoró incorrectamente el concepto de «peligro para la vía» desde el punto de vista de la probabilidad de caída del árbol, cuando debió valorar dicho concepto desde el punto de vista de las consecuencias (resultados) de dicha caída.
+### El MDČR constató que «las consecuencias de la caída de un árbol son las mismas en el caso de un árbol sano que en el de uno enfermo. Los fenómenos climáticos adversos actuales han demostrado que también un árbol objetivamente completamente sano puede convertirse, como consecuencia de una ráfaga de viento fuerte, del suelo empapado o de las avalanchas de nieve, en un peligro para la vía, cuando invade de forma totalmente repentina, incontrolada e imprevisible el perfil de paso de la vía.
+### La exigencia de acreditar de forma adecuada el deterioro dendrológico de todos los árboles destinados a la tala supondría, por tanto, una carga injustificada para las partes en el procedimiento y una generación innecesaria de costes.
+### Cualquier árbol, incluso sano, que se encuentre a una altura y distancia críticas respecto a la vía representa para esta un peligro ya en virtud de la amenaza de fenómenos climáticos negativos recurrentes, y no solo en el momento en que se produce la situación crítica inmediata, pues en tal caso el procedimiento administrativo conforme al § 10 de la Ley de Ferrocarriles no constituiría una reacción suficientemente rápida ante el peligro de que se trate.»
+El MDČR constató que «el Tribunal Municipal no tuvo claramente en cuenta el fallo del Tribunal Constitucional Pl. ÚS 11/01 (nota DI: n.º de expediente) de 6. 3. 2002, n.º 144/2002 Sb., conforme al cual constituye un incumplimiento de la obligación del propietario del terreno, por ejemplo, la plantación de un árbol en un lugar inadecuado.
 4
-Esta parte se incluye con el fin de motivar la propuesta de la recomendación de seguridad actual, que debería prevenir MU similares en el futuro.
-
+Esta parte se incluye con el fin de fundamentar la propuesta de la recomendación de seguridad actual, que debería prevenir MU similares en el futuro.
 
 ## Página 51
+
 
 ### El Tribunal Constitucional, por tanto, no resuelve la probabilidad de caída, sino las consecuencias, que serán siempre las mismas en el árbol plantado en un lugar inadecuado, independientemente de las causas de la caída.
 ### Como consecuencia de la valoración incorrecta de esta cuestión jurídica, el Tribunal Municipal llegó a la conclusión incorrecta de que no queda establecida la responsabilidad del propietario del terreno colindante con la vía por la existencia del peligro que la amenaza.»
@@ -1529,6 +1507,7 @@ Valoración del asunto por el Tribunal Supremo Administrativo
 «La restricción del derecho de propiedad del propietario del terreno colindante con la vía, consistente en la tala de árboles sin indemnización, solo puede ser constitucionalmente conforme si se refiere a la eliminación de árboles que acreditadamente representan un peligro para la salud y las vidas
 
 ## Página 52
+
 
 de personas, o de otro daño previsible a la vía
  ,  ya que solo en tal caso
@@ -1552,8 +1531,8 @@ La disposición § 10 de la Ley nº 266/1994 Sb. indica ahora, entre otros, lo s
 
 "(5) Si el propietario o usuario de la finca se ha visto limitado en el uso habitual de la misma, o si ha sufrido un daño, como consecuencia del ejercicio del derecho del explotador de la vía férrea según el apartado 3, tendrá derecho a una indemnización única razonable; este derecho podrá ejercerse frente al explotador de la vía férrea en el plazo de 2 años a partir de
 
-
 ## Página 53
+
 
 la fecha en que se produjo la limitación o el daño, de lo contrario el derecho caduca."
 De lo anterior se deduce claramente qué arbolada es arbolada que amenaza la seguridad, y el explotador de la vía férrea adquiere ahora la posibilidad de realizar activamente la poda y eliminación de la arbolada y otras vegetaciones que amenacen la seguridad o la fluidez del tráfico ferroviario o la operatividad de la vía férrea también en fincas ajenas dentro de la franja de protección de la vía férrea, si el propietario de la finca no lo ha hecho él mismo en el plazo razonable establecido y en la extensión establecida, en virtud de la advertencia previa del explotador de la vía férrea.
@@ -1564,8 +1543,8 @@ Sin embargo, es necesario señalar que las modificaciones de las normativas jur�
 Ahora ya el § 10 apartado 3 de la Ley nº 266/1994 Sb. establece claramente que "La arbolada y otras vegetaciones que en su caída puedan alcanzar el perfil de paso de la vía férrea son arbolada que amenaza la seguridad o la fluidez del tráfico ferroviario o la operatividad de la vía férrea.", lo que, en combinación con la disposición § 2900 de la Ley nº 89/2012 Sb. "Si las circunstancias del caso o las costumbres de la vida privada lo exigen, todo el mundo está obligado a comportarse en sus actos de manera que no se produzca un perjuicio injustificado a la libertad, la vida, la salud o la propiedad de otro.", con la disposición § 2910 de la Ley nº 89/2012 Sb. "El infractor que con culpa propia incumpla una obligación establecida por la ley e intervenga así en un derecho absoluto del perjudicado, indemnizará al perjudicado por lo que con ello haya causado. La obligación de indemnizar surgirá también para el infractor que intervenga en otro derecho del perjudicado mediante el incumplimiento culposo de una obligación legal establecida para la protección de dicho derecho."
 y con la disposición § 2937 de la Ley nº 89/2012 Sb. "Si la cosa causa un daño por sí misma, indemnizará el daño quien debía tener la custodia de la cosa; si dicha persona no puede determinarse de otro modo, se entiende que es el propietario de la cosa. Quien acredite que no descuidó la debida custodia quedará exento de la obligación de indemnizar." fundamenta la obligación del propietario de eliminar dicha arbolada y, a la vez, la obligación de indemnizar el daño que
 
-
 ## Página 54
+
 
 la arbolada cause en caso de caída. El único criterio aquí es la altura y la distancia de caída de la arbolada determinada por la expresión "en su caída puedan alcanzar el perfil de paso de la vía férrea". Se establece, por tanto, una sanción, pero su efecto preventivo es mínimo. Por una parte, solo se aplica en caso de aparición de un MU y, además, en la Ley nº 266/1994 Sb. se establece al propietario de forma indirecta, ya que solo se deduce del contexto con las obligaciones de la Ley nº 89/2012 Sb.
 Falta, por tanto, por completo la amenaza de una sanción que actuara primariamente de forma preventiva, incluso sin que tuviera que producirse dicho MU. El simple hecho de dejar dicha arbolada sin intervención no constituye para el propietario ni siquiera una infracción. Esto puede conducir en la práctica a que el propietario deje dicha arbolada en el lugar de forma intencionada o por desconocimiento (no deduce el contexto anterior), y ello hasta que se lo requiera el explotador de la vía férrea o el DÚ. Si la normativa jurídica actual no impone explícitamente obligaciones preventivas a los propietarios de las fincas, es necesario aplicar de forma estricta el cumplimiento de la actividad preventiva por parte del explotador de la vía férrea, en cuya actividad se basa todo el procedimiento y que debe requerir activamente a los propietarios. Es cuestión, sin embargo, de si el explotador de la vía férrea tiene la motivación suficiente, cuando según lo anterior no es responsable del daño causado por la caída de un árbol desde una finca de un propietario ajeno.
@@ -1582,6 +1561,7 @@ El § 6 apartado 2 de esta ley establece:
 
 ## Página 55
 
+
 a   árboles y arbustos en ellos, vertederos, construcciones, pilares de puente y otras estructuras y líneas aéreas en tal estado y utilizarlos de tal manera que no pongan en peligro la explotación de la vía y sus componentes, ni limiten la seguridad y la fluidez del tráfico en la vía."
 "Se pueden plantar y cultivar árboles y arbustos con una altura que supere los tres metros en la franja de protección de la vía solo si se garantiza que, en caso de caída, no puedan dañar los componentes de la vía."
 El § 108 apartado 1 letra b) de la presente ley establece:
@@ -1593,8 +1573,8 @@ De la comparación de la normativa checa y eslovaca se desprende que, aunque las
 La Inspección de Vías no se ocupa en su investigación concretamente de la cuestión de la culpa y la responsabilidad, o de cualquier sanción posterior, sin embargo, la responsabilidad está estrechamente relacionada con la posible prevención. En general, se puede constatar que si cualquiera se exime de la responsabilidad por los daños ocasionados y, por tanto, no es sancionado por el incumplimiento de sus obligaciones, no está suficientemente motivado para empezar a cumplirlas adecuadamente. Desde el punto de vista de la Inspección de Vías, es absolutamente inaceptable que el resultado de los procesos judiciales en el caso de la colisión de un material rodante con un árbol sea que nadie responda de dicha colisión, a pesar de que a estos acontecimientos se les puede prevenir.
 La Inspección de Vías registra en el período desde el 1. 1. 2008 hasta la fecha de origen de la ME objeto de estudio en las vías ferroviarias, de categoría nacional y regional, un total de 832 ME similares, cuya causa de origen fue la colisión de un tren con un obstáculo – un árbol (árboles), como consecuencia de la cual hubo 30 personas heridas y en las que se produjo un daño material por un importe de 96 733 438 Kč. De media, por tanto, cada año se produjeron 72 ME, cada año se lesionaron 2 – 3 personas y cada año se produjo un daño de aproximadamente 8,4 millones de Kč. La estadística completamente concreta de los últimos 5 años indica lo siguiente:
 
-
 ## Página 56
+
 
 | año | ME | fallecidos | heridos | daño[Kč] |
 | 2015 | 75 | 0 | 2 | 5420255 |
@@ -1608,8 +1588,8 @@ Por otro lado, si los cambios en la normativa no son suficientemente inequívoco
 Con ello, la Inspección de Vías no niega en ningún caso que sea necesario respetar los derechos de propiedad, al igual que la prohibición de la retroactividad verdadera de la normativa, por lo que solo se puede prohibir la nueva plantación; por el contrario, al eliminar la arboleda existente es necesario compensar al propietario los posibles daños ocasionados. En ello se tiene en cuenta ahora en el § 10 apartado 5 de la ley n.º 266/1994 Sb. La Inspección de Vías tampoco cuestiona la importancia de la necesidad de protección de la naturaleza y el paisaje, o de los bosques. Sin embargo, es necesario decidir qué tiene prioridad en el territorio concreto, o distinguir claramente qué ley es en el caso concreto la ley general y cuál la especial, para evitar litigios judiciales innecesarios.
 Como indica el § 10 apartado 3 de la ley n.º 266/1994 Sb., la arboleda y otras plantaciones que, en su caída, puedan alcanzar el perfil de paso de la vía, son arboleda que pone en peligro la seguridad o la fluidez del tráfico ferroviario o la operatividad de la vía. La Inspección de Vías se identifica plenamente con esta disposición. Para la reducción sistemática de los daños a la salud y a la vida es necesario aceptar esta tesis e implementarla en el futuro debidamente en todas las normativas relacionadas. El peligro derivado de la presencia de árboles que, en función de su altura y distancia al eje de la vía, pueden potencialmente caer en el perfil de paso de la vía explotada, no se puede cuestionar, al igual que nadie cuestiona la análoga prohibición de la presencia de árboles en las cercanías de un aeropuerto.
 
-
 ## Página 57
+
 
 La disposición del § 37 apartado 3 de la ley n.º 49/1997 Sb., de aviación civil y de modificación y adición de la ley n.º 455/1991 Sb., de actividad empresarial (ley de comercio), en la redacción de las disposiciones posteriores, establece: "Las franjas de protección de los aeropuertos se dividen en franjas de protección a) con prohibición de construcciones, b) con limitación de altura de las construcciones, ...". Según el § 102 apartado 2 de la misma ley: "Los explotadores de aeropuertos y construcciones aeronáuticas, las personas encargadas de la explotación de servicios aeronáuticos, los explotadores de actividades aeronáuticas y las demás personas implicadas en la aviación civil están obligados a cumplir las normas aeronáuticas, que están en consonancia con los tratados internacionales que forman parte del ordenamiento jurídico, …" Una de estas normas es también la norma aeronáutica L14 "Aeropuertos", que en el capítulo 11, disposición 11.1.3.3 letra b) establece: "En la franja de protección con prohibición de construcciones se prohíbe: b) plantar árboles, arbustos u otras plantaciones de altura, ..." y en la disposición 11.1.4.3 establece: "En la franja de protección con limitación de altura no se permite establecer tales construcciones o instalaciones, ni plantar plantaciones y colocar objetos que superen la altura determinada por los planos de obstáculos de las franjas de protección."
 En otras palabras, la presencia de un aeropuerto supone una limitación concreta para la vegetación alta. En el caso de la vía debería regir de forma análoga, es decir, si es prioridad de la República Checa la máxima seguridad del tráfico ferroviario, la normativa debe configurarse de forma inequívoca y completa en el sentido de la eliminación incondicional de todos los árboles que, en función de su altura y distancia al eje de la vía, pueden potencialmente caer en el perfil de paso de la vía explotada.
@@ -1618,8 +1598,8 @@ La normativa de la República Checa, a pesar de los cambios recientes, en la act
 En la situación actual, a la Inspección de Vías, atendiendo a lo anteriormente expuesto, no le queda más que apelar al explotador de la vía SŽDC para que atienda con mayor rigor a sus obligaciones derivadas de la normativa y utilice con mayor rigor todas las posibilidades que le otorga la normativa para evitar ME similares, y para que, al evaluar las causas y circunstancias del origen de la ME, aplique rigurosamente la definición de arboleda que pone en peligro la seguridad o la fluidez del tráfico ferroviario o la operatividad de la vía, indicada en el § 10 apartado 3 de la ley n.º 266/1994 Sb.
 La Inspección de Vías es consciente de que el sentido del tratamiento y mantenimiento periódico de la vegetación en el ámbito de la vía y en la franja de protección de la vía no es la creación de superficies completamente sin vegetación. La vegetación cumple una función insustituible en la creación del paisaje, pero también, entre otros, en el refuerzo de laderas, cortes y terraplenes. La vegetación garantiza la absorción y retención de agua en el paisaje, elimina la erosión del suelo y, en condiciones invernales, limita la formación de ventisca en la vía. Una posible solución es elegir un tipo de vegetación adecuado (por ejemplo, árboles bajos y raquíticos) y mantenerlos de manera que por su altura y distancia a la vía no sean fuente de peligro. Por ello, en el tratamiento y mantenimiento periódico de la vegetación es necesario proceder con sensibilidad, en consonancia con la ley n.º 114/1992 Sb. y la ley n.º 289/1995 Sb., y simultáneamente siempre en consonancia con los requisitos para garantizar el tráfico ferroviario fluido y seguro, es decir, para el cumplimiento de la obligación del explotador de la vía según el § 22 apartado 1 letra a) de la ley n.º 266/1994 Sb.
 
-
 ## Página 58
+
 
 ### 4.3 Conclusiones
 4.3.1 Causas directas e inmediatas de la situación excepcional, incluidos los factores que contribuyeron a ella y que estuvieron relacionados con la actuación de las personas implicadas o con el estado del material rodante o de las instalaciones técnicas
@@ -1648,51 +1628,25 @@ los resultados de la inspección realizada;
 ## Página 59
 
 ## 5 MEDIDAS ADOPTADAS
-### 5.1 Lista de medidas que, como consecuencia del accidente, ya se han
-adoptado o tomado
-El gestor de la infraestructura y el transportista, de acuerdo con sus Evaluaciones de las causas y circunstancias del accidente, no han adoptado ni emitido ninguna medida, debido a que la causa y la responsabilidad por su acaecimiento recaen fuera de ellos.
+### 5.1 Lista de medidas que ya se han tomado o adoptado como
+consecuencia del suceso ferroviario
+El gestor de la infraestructura ferroviaria y el transportista, de acuerdo con sus Evaluaciones de las causas y circunstancias del origen del suceso ferroviario, no han adoptado ni emitido ninguna medida, debido a que la causa y la responsabilidad por su origen recaen fuera de ellos.
 ## 6 RECOMENDACIONES DE SEGURIDAD
-La Inspección Ferroviaria, en virtud de lo dispuesto en el apartado 1 del artículo 53e de la Ley núm. 266/1994 Sb., recomienda, en relación con la prevención de accidentes:
+La Inspección Ferroviaria, con base en lo dispuesto en el apartado 1 del artículo 53e de la Ley n.º 266/1994 Sb., recomienda, en aras de la prevención de sucesos ferroviarios:
 ### A la Autoridad Ferroviaria
 ##  :
-desde la posición de organo nacional de seguridad, garantizar que los gestores de la infraestructura tengan en sus
+en su condición de organismo nacional de seguridad, garantizar que los gestores de la infraestructura ferroviaria incluyan en sus
 •
-reglamentos internos incorporado el procedimiento conforme al apartado 3 del artículo 10 de la Ley núm. 266/1994
-Sb., de ferrocarriles, en su redacción vigente, y que apliquen dicho procedimiento de forma primaria y sistemática,
-es decir, que los reglamentos internos impongan a los empleados correspondientes del gestor de la infraestructura
-la obligación de eliminar la arbolación que amenace la explotación segura de la infraestructura en primer lugar,
-sin recurrir a lo dispuesto en el apartado 2 del artículo 10 de la Ley núm. 266/1994 Sb.;
-realizar periódicamente inspecciones estatales en materia de ferrocarriles, centrándose en comprobar si
-•
-en las inmediaciones de las líneas se encuentran árboles y otras vegetaciones que, al caer, puedan
-penetrar en el perfil de circulación de la infraestructura y, en caso de que se encuentren, si el
-gestor de la infraestructura correspondiente ya ha actuado activamente conforme a las competencias que
-le confiere la ley, es decir, si ya ha iniciado pasos eficaces encaminados a eliminar esta fuente
-de peligro.
+reglamentos internos el procedimiento conforme al apartado 3 del artículo 10 de la Ley n.º 266/1994 Sb., de ferrocarriles, en su redacción vigente, y que apliquen dicho procedimiento de forma primaria y sistemática, es decir, que los reglamentos internos impongan a los empleados correspondientes del gestor de la infraestructura ferroviaria la obligación de eliminar la arboleda que amenace la operación segura de la infraestructura ferroviaria con carácter prioritario, sin recurrir a lo dispuesto en el apartado 2 del artículo 10 de la Ley n.º 266/1994 Sb.;
+realizar periódicamente inspecciones estatales en materia de ferrocarriles, con especial énfasis en verificar si en las inmediaciones de las líneas se encuentran árboles y otras vegetaciones que, al caer, puedan alcanzar el perfil de circulación de la infraestructura ferroviaria, y, en caso de que se encuentren, si el gestor correspondiente de la infraestructura ferroviaria ya ha actuado activamente conforme a las competencias que la ley le otorga, es decir, si ya ha iniciado pasos eficaces encaminados a eliminar esta fuente de peligro.
 ### Al Ministerio de Transportes:
-en virtud de las negociaciones con el Ministerio de Agricultura y el Ministerio de Medio Ambiente,
+con base en las conversaciones con el Ministerio de Agricultura y el Ministerio de Medio Ambiente,
 •
-promover modificaciones en las Leyes núm. 114/1992 Sb., de protección de la naturaleza y el paisaje,
-y núm. 289/1995 Sb., de bosques y de modificación de algunas leyes (Ley de bosques), de modo que
-estas normas jurídicas estén en consonancia con las disposiciones del artículo 10 de la Ley núm. 266/1994 Sb.,
-de ferrocarriles (para que sus colisiones no generen margen para interpretaciones distintas y, en consecuencia,
-para litigios judiciales), y permitan así garantizar la eliminación y la poda de la arbolación que amenace la
-seguridad o la regularidad del transporte ferroviario o la explotabilidad de la infraestructura sin obstáculos
-administrativos ni procesos que consuman tiempo, tanto por parte del gestor de la infraestructura como de los
-propietarios mismos.
-El sentido de la recomendación de seguridad no es la eliminación no sistemática de toda la
-vegetación en el perímetro y la franja de protección de la infraestructura, que desempeña
-un papel y un significado insustituibles para el medio ambiente y para la explotación segura
-y regular de la infraestructura y del transporte ferroviario, sino fundamentalmente la prevención
-de la aparición de accidentes que se repiten de forma constante – colisión de un vehículo
-ferroviario con un árbol (y, por tanto, la prevención de lesiones personales y daños materiales) –
-mediante la supervisión de si las competencias otorgadas por la ley están siendo realmente
-utilizadas de forma eficaz por el gestor de la infraestructura para eliminar la arbolación que
-amenace la seguridad o la regularidad del transporte ferroviario o la explotabilidad de la
-infraestructura.
-
+promover modificaciones en las Leyes n.º 114/1992 Sb., de protección de la naturaleza y del paisaje, y n.º 289/1995 Sb., de bosques y de modificación de algunas leyes (Ley forestal), de modo que dichas disposiciones legales sean coherentes con las disposiciones del artículo 10 de la Ley n.º 266/1994 Sb., de ferrocarriles (para que sus conflictos no generen margen para interpretaciones divergentes y, en consecuencia, para litigios judiciales), y permitan así garantizar la eliminación y la poda de la arboleda que amenace la seguridad o la continuidad del transporte ferroviario o la operatividad de la infraestructura ferroviaria, sin obstáculos administrativos ni procesos que consuman tiempo, tanto para el gestor de la infraestructura ferroviaria como para los propietarios.
+El propósito de la recomendación de seguridad no es la eliminación no sistemática de toda la vegetación en el perímetro y la franja de protección de la infraestructura ferroviaria, la cual desempeña un papel y una función insustituibles para el medio ambiente, así como para la operación segura y continua de la infraestructura ferroviaria y del transporte ferroviario, sino, principalmente, la prevención de la aparición de sucesos ferroviarios que se repiten de forma constante – colisión de un vehículo ferroviario con un árbol (y, por tanto, la prevención de daños personales y perjuicios materiales) – mediante la supervisión de si los derechos que la ley otorga al gestor de la infraestructura ferroviaria están siendo realmente utilizados de forma eficaz para eliminar la arboleda que amenace la seguridad o la continuidad del transporte ferroviario o la operatividad de la infraestructura ferroviaria.
 
 ## Página 60
+
 
 La Inspección Ferroviaria está de acuerdo con el Ministerio de Transportes (expresado por el MDČR en el punto 3.7
 de este ZZ) en que el objetivo inequívoco es evitar las colisiones extremadamente peligrosas de vehículos ferroviarios
@@ -1729,8 +1683,8 @@ Ing. Petr Mencl v. r.
 director
 de la Inspección Territorial de Bohemia
 
-
 ## Página 61
+
 
 ## 7 ANEXOS
 Fig. n.º 5: Vista de la parte inferior y media del árbol desprendida y del tren descarrilado
@@ -1738,22 +1692,22 @@ Fig. n.º 5: Vista de la parte inferior y media del árbol desprendida y del tre
           Fuente: SŽDC
 Fig. n.º 6: Vista de la parte superior del árbol desprendida y del tren descarrilado
 
-
 ## Página 62
+
 
 Fig. n.º 7: Vista del lugar del desprendimiento de la parte del árbol y de la podredumbre
              Fuente: DI
 Fig. n.º 8: Vista de la parte del árbol desprendida y de la podredumbre
                   Fuente: SŽDC
 
-
 ## Página 63
+
 
          Fuente: SŽDC
 Fig. n.º 9: Vista del árbol tras el desprendimiento de su parte
 
-
 ## Página 64
+
 
         Fuente: SŽDC
 Fig. n.º 10: Levantamiento geodésico del lugar donde crecía el árbol

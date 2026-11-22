@@ -12,8 +12,8 @@ tokens_in: 36531
 tokens_out: 23964
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-verificacion: revisar
-avisos: ["página 20: ratio 1.74"]
+verificacion: ok
+notas_cifras: ["página 9: cifras cortas: 2/29", "página 10: original bilingüe: se compara contra el idioma principal (HR)", "página 11: cifras largas: 1/33", "página 12: cifras cortas: 1/19", "página 14: cifras cortas: 1/27", "página 20: original bilingüe: se compara contra el idioma principal (HR)"]
 ---
 
 ## Página 1
@@ -53,6 +53,7 @@ Las investigaciones son independientes y están separadas de los procedimientos 
 El informe final no podrá utilizarse como prueba en un procedimiento judicial que tenga como objetivo determinar la responsabilidad civil, penal o administrativa de una persona física.
 
 ## Página 3
+
 
 ### Prefacio  
 La Agencia de Investigación de Accidentes en el Tráfico Aéreo, Marítimo y Ferroviario (en adelante: AIN) fue creada por la Ley de Creación de la Agencia de Investigación de Accidentes en el Tráfico Aéreo, Marítimo y Ferroviario (Diario Oficial «Narodne novine», número 54/13, 96/18) como persona jurídica con poderes públicos. El fundador de la Agencia es la República de Croacia, y el titular de los derechos de fundación es el Gobierno de la República de Croacia.  
@@ -491,9 +492,9 @@ Al llegar a la escena del accidente grave, alrededor de las 14:20 horas, en el p
 
 ## Página 20
 
-### Imagen 7. – Paso a nivel Grgur (fuente de la imagen: AIN) 
-Posteriormente, el conjunto de tren de pasajeros 1272 (Imagen 8.) se detuvo a una distancia de 197,40 m medida desde el centro del paso a nivel Grgur (número de identificación 4), es decir, a una distancia de 151,20 m desde el extremo del conjunto (la longitud del conjunto es de 46,20 m).   
-Al examinar la vía desde la dirección de aproximación del tren en el punto kilométrico (PK) 103+400, es visible la señal de advertencia (que advierte al personal de la locomotora de que el tren se acerca a un paso a nivel no protegido por un dispositivo de protección de pasos a nivel), es decir, a una distancia de 400 m de acuerdo con la distancia de frenado prescrita de 700 m, según el Reglamento sobre señales, signos de señalización y marcas de señalización en el tráfico ferroviario („Narodne novine“, número 94/15).
+### Figura 7. – Puesto de cambio Grgur (fuente de la imagen: AIN)
+A continuación, el conjunto de viajeros del tren 1272 (Figura 8.) se detuvo a una distancia de 197,40 m medida desde el centro del puesto de cambio Grgur (marca número 4), es decir, a una distancia de 151,20 m desde el extremo del conjunto (la longitud del conjunto es de 46,20 m).
+Al examinar la vía desde la dirección de aproximación del tren en la posición PK 103+400 se observa un aviso (advirtiendo al personal de la locomotora que el tren se aproxima a un paso a nivel no protegido por un dispositivo de protección de paso a nivel), es decir, a una distancia de 400 m conforme a la distancia de frenado prescrita de 700 m en virtud del Reglamento sobre señales, signos de señalización y marcas de señalización en el tráfico ferroviario («Narodne novine», número 94/15).
 
 ## Página 21
 

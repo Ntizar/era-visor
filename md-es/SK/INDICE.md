@@ -8,7 +8,7 @@ Fidelidad = revisión IA del castellano contra el original (0-100).
 | Informe | Págs | Caracteres | Verificación |
 |---|---|---|---|
 | [sk-10738 - 36_jablonov_nad_turňou.md](2025/sk-10738%20-%2036_jablonov_nad_turňou.md) | — | 96629 | ok |
-| [sk-10754 - záverečná správa z vyšetrovania vážnej nehody - pezinok.md](2025/sk-10754%20-%20záverečná%20správa%20z%20vyšetrovania%20vážnej%20nehody%20-%20pezinok.md) | — | 80556 | revisar |
+| [sk-10754 - záverečná správa z vyšetrovania vážnej nehody - pezinok.md](2025/sk-10754%20-%20záverečná%20správa%20z%20vyšetrovania%20vážnej%20nehody%20-%20pezinok.md) | — | 80556 | ok |
 
 ## 2024 (1)
 
@@ -113,6 +113,6 @@ Fidelidad = revisión IA del castellano contra el original (0-100).
 
 | Informe | Págs | Caracteres | Verificación |
 |---|---|---|---|
-| [A3 DNV-260506.md](2006/A3%20DNV-260506.md) | — | 12381 | revisar |
+| [A3 DNV-260506.md](2006/A3%20DNV-260506.md) | — | 12381 | ok |
 | [B2 Handlova-310306.md](2006/B2%20Handlova-310306.md) | — | 12379 | ok |
 | [B2 Hlboke-300306.md](2006/B2%20Hlboke-300306.md) | — | 12686 | ok |

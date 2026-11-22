@@ -10,13 +10,14 @@ chars: 85213
 ratio_longitud: 1.23
 tokens_in: 47948
 tokens_out: 33808
-verificacion: revisar
-notas_cifras: ["bloque 2: original bilingüe: se compara contra el idioma principal (CS)", "bloque 5: original bilingüe: se compara contra el idioma principal (CS)", "bloque 7: original bilingüe: se compara contra el idioma principal (CS)", "bloque 11: original bilingüe: se compara contra el idioma principal (CS)", "bloque 12: cifras cortas: 1/97"]
-avisos: ["bloque 7: ratio 1.82"]
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 5: original bilingüe: se compara contra el idioma principal (EN)", "página 6: original bilingüe: se compara contra el idioma principal (PT)", "página 7: original bilingüe: se compara contra el idioma principal (CS)", "página 13: original bilingüe: se compara contra el idioma principal (CS)", "página 16: original bilingüe: se compara contra el idioma principal (PT)"]
 ---
+
 ## Página 1
+
 
 Inspección Ferroviaria
 República Checa
@@ -40,11 +41,12 @@ IČ:   75009561
 http://www.dicr.cz
 fax: (+420) 224 805 428
 
-
 ## Página 2
 
 
+
 ## Página 3
+
 
 # RESUMEN
 Gravedad:
@@ -72,8 +74,8 @@ coste total 6.086.243,07 CZK
 Causa directa:
 error operativo del maquinista (el maquinista del tren de maniobras no respetó la señal de parada)
 
-
 ## Página 4
+
 
 Causa subyacente:
 factor humano – situación inmediata
@@ -82,8 +84,8 @@ ninguna
 Recomendaciones: no emitidas
 Este informe final es público y todos los documentos y hechos están respaldados por el expediente de investigación.
 
-
 ## Página 5
+
 
 # Índice
  Resumen .............................................................................................................................3
@@ -112,6 +114,7 @@ Este informe final es público y todos los documentos y hechos están respaldado
 3.1.1 Empleados del operador de la vía y del transportista, incluidas personas en relación contractual ...............................................................................................................17
 
 ## Página 6
+
 
 3.1.2 Otras personas .....................................................................................................19
 3.2 Sistema de garantía de la seguridad .......................................................................19
@@ -142,10 +145,10 @@ aplicación ....................................................................
 4.1.1 Descripción definitiva del suceso excepcional basada en los hechos establecidos en el punto 3 
 ............................................................................................................................28
 4.2 Examen ......................................................................................................................29
-4.2.1 Evaluación de los hechos establecidos de acuerdo con el punto 3 y exposición de las conclusiones sobre la causa 
-
+4.2.1 Evaluación de los hechos establecidos de acuerdo con el punto 3 y exposición de las conclusiones sobre la causa
 
 ## Página 7
+
 
 del suceso excepcional y la actuación de los servicios de emergencia ..........................................29
 4.3 Conclusiones ...............................................................................................................30
@@ -160,8 +163,8 @@ del suceso excepcional y la actuación de los servicios de emergencia ..........
 6 Recomendaciones de seguridad .............................................................................................31
 7 Anexos .............................................................................................................................32
 
-
 ## Página 8
+
 
 ## Lista de siglas y símbolos utilizados
 COP
@@ -237,6 +240,7 @@ estación de ferrocarril
 
 ## Página 9
 
+
 ## 1 RESUMEN
 Clasificación del suceso:
 accidente grave
@@ -266,8 +270,8 @@ maniobra de la 1.ª reserva de maniobras de la est. Olomouc hl. n.
 Causas en el sistema de seguridad: no fueron detectadas por la DI
 Recomendaciones de seguridad: no fue emitida ninguna por la DI
 
-
 ## Página 10
+
 
 ## 2 DATOS RELATIVOS AL SUCESO EXCEPCIONAL
 ## 2.1
@@ -291,10 +295,10 @@ Dado que en el SE no se produjeron daños personales,
 el resto de cuerpos del IZS no intervinieron.
 Como consecuencia del SE, en el extremo de Grygov de la est. Olomouc hl. n. 
 se dañó la superestructura ferroviaria del enlace de vías de las agujas n.º 9 y n.º 13, incluida la 
-superestructura ferroviaria de la vía n.º 1 con una longitud de 
-
+superestructura ferroviaria de la vía n.º 1 con una longitud de
 
 ## Página 11
+
 
 18 m y de la vía n.º 2 con una longitud de 30 m. Fue derribado el tendido de 
 tracción del enlace de vías entre los soportes de tracción TP n.º 8 y 9C. 
@@ -355,6 +359,7 @@ de 7 TDV, donde (todo descrito en el sentido de circulación del tren Rn 53033):
 
 ## Página 12
 
+
 • El TDV de dos ejes TDV Kns 21 54 3379 139-3, enganchado como 3.º TDV tras el HDV, descarriló por ambos ejes;
 • El TDV de cuatro ejes Eas 31 54 5968 999-0, enganchado como 4.º TDV tras el HDV, descarriló por ambos bogies de dos ejes;
 • El TDV de cuatro ejes Res 31 54 3937 250-1, enganchado como 5.º TDV tras el HDV, descarriló por ambos bogies de dos ejes;
@@ -374,18 +379,20 @@ Del examen de los vehículos ferroviarios de la maniobra de estacionamiento remo
 
 ## Página 13
 
-Fig. 2.1: Mapa del lugar de la MU                  fuente: portal cartográfico www.cd.cz/mapa
-2.1.3 Decisión de iniciar la investigación de las causas y circunstancias de la MU, composición del equipo de personas cualificadas y método de dirección de la investigación de las causas y circunstancias de la MU
-La MU fue comunicada al COP DI Praga el 03. 07. 2010 a las 13:42 h. Debido a las consecuencias y al alcance de la MU, la DI inició la investigación de las causas y circunstancias de la MU de conformidad con lo dispuesto en el § 53b apartado 1 de la Ley n.º 266/1994 Sb., de ferrocarriles, en su redacción vigente (en adelante Ley n.º 266/1994 Sb.), en el lugar de la MU. La investigación en el lugar fue realizada por 2 inspectores superiores de la UI Ostrava. La posterior investigación de las causas y circunstancias de la MU fue encomendada a la UI Ostrava. La investigación de las causas y circunstancias de la MU fue realizada por la DI de conformidad con el § 53b de la Ley n.º 266/1994 Sb. y el § 11 del Decreto n.º 376/2006 Sb., sobre el sistema de seguridad de la explotación ferroviaria y del transporte ferroviario y los procedimientos en caso de ocurrencia de sucesos excepcionales en las vías férreas, en su redacción vigente (en adelante Decreto n.º 376/2006 Sb.).
+Fig. 2.1: Mapa del lugar del accidente ferroviario                  fuente: portal cartográfico www.cd.cz/mapa
+2.1.3 Decisión de iniciar la investigación de las causas y circunstancias del accidente ferroviario, composición del equipo de personas cualificadas y método de dirección de la investigación de las causas y circunstancias del accidente ferroviario
+El accidente ferroviario fue notificado al COP DI Praga el 03. 07. 2010 a las 13:42 h. Debido a las consecuencias y al alcance del accidente ferroviario, el DI inició la investigación de las causas y circunstancias del accidente ferroviario de conformidad con lo dispuesto en el § 53b apartado 1 de la ley núm. 266/1994 Sb., de ferrocarriles, en su redacción vigente (en adelante, ley núm. 266/1994 Sb.), en el lugar del accidente ferroviario. La investigación en el lugar fue realizada por 2 inspectores superiores de la UI Ostrava. La posterior investigación de las causas y circunstancias del accidente ferroviario fue encomendada a la UI Ostrava. La investigación de las causas y circunstancias del accidente ferroviario fue realizada por el DI de conformidad con el § 53b de la ley núm. 266/1994 Sb. y el § 11 del decreto núm. 376/2006 Sb., sobre el sistema de seguridad de la explotación de la vía férrea y del transporte ferroviario y los procedimientos en caso de accidentes ferroviarios en las vías férreas, en su redacción vigente (en adelante, decreto núm. 376/2006 Sb.).
 ## 2.2
-### Circunstancias del suceso excepcional
-### 2.2.1 Empleados participantes del explotador de la vía férrea y del transportista, personas en relación contractual y demás participantes y testigos
-Personas participantes por:
-- el transportista:
-• la persona que conduce el vehículo ferroviario (en adelante maquinista) del tren Rn 53033, empleado de ČDC, a. s., PJ Olomouc;
-
+### Circunstancias del accidente ferroviario
+### 2.2.1 Empleados participantes del explotador de la vía férrea y del transportista, personas en relación contractual y otros participantes y testigos
+Personas participantes por parte de:
+- transportista:
+persona que conduce el vehículo ferroviario (en adelante, maquinista) del tren Rn 53033,
+•
+empleado de ČDC, a. s., PJ Olomouc;
 
 ## Página 14
+
 
 • el maquinista de la maniobra de estacionamiento de la 1.ª reserva de la est. Olomouc hl. n., empleado de ČD, a. s., DKV Olomouc, PJ Olomouc;
 • la persona cualificada para dirigir las maniobras (en adelante jefe de maniobras) de la maniobra de estacionamiento de la 1.ª reserva de la est. Olomouc hl. n., empleado de ČD, a. s., DKV Olomouc, PJ Olomouc.
@@ -400,6 +407,7 @@ La maniobra de estacionamiento de la 1.ª reserva de maniobras de la est. Olomou
 La est. Olomouc hl. n. está equipada con SZZ de 3.ª categoría, según TNŽ 34 2620 «Aparatos de señalización ferroviaria de estación y de vía», RZZ, tipo AŽD 71. La est. está dividida en dos circuitos independientes, a saber, la estación de pasajeros y la antena. La frontera entre ambos circuitos la forman las vías de la estación interior. Las itinerarios se establecen para cada circuito de la estación independientemente por el jefe de maniobra correspondiente en el aparato de enclavamiento central sobre la base de la orden del jefe de maniobra de despacho. El RZZ de estación está equipado con un dispositivo para la transmisión de información de las señales de los semáforos principales al HDV en todas las vías destinadas a la circulación de trenes. El circuito de la estación de pasajeros incluye la playa de vías de la estación de pasajeros y la cabecera sur de la estación interior. El circuito de la antena incluye la cabecera norte de la estación interior, la antena izquierda y derecha y la playa de vías de entrada de Černovír.
 
 ## Página 15
+
 
 El tramo de vía de doble vía Olomouc hl. n. – Grygov está formado por cuatro secciones de vía y está equipado con TZZ, bloque automático bidireccional de tres señales tipo ABE-1 con circuitos de vía de 3.ª categoría según TNŽ 342620, que permite la circulación protegida de trenes sucesivos y en sentido contrario en ambas vías de vía en ambos sentidos. El TZZ está equipado con un dispositivo para la transmisión de información de las señales principales de los señales de vía a la HDV. La señal de maniobras enana Se48 (situada a la derecha de la vía n.º 2 en el km 205,266) es una señal no transmisible válida solo para maniobras y solo para una vía. La señal está marcada con una placa azul de señalización con borde blanco, con la inscripción blanca Se48. La vía n.º 2 en el extremo de Grygov de la est. Olomouc hl. n. se desarrolla en dirección recta. Los tramos de carril están formados por carriles de forma S49 sobre traviesas de madera, con fijación sobre soportes nervurados de forma R4. En el ámbito de la estación interior y de pasajeros, las vías de estación se desarrollan con una pendiente de 0,00 ‰, es decir, en plano. La velocidad máxima permitida del tren Rn 53033 que circulaba desde la vía de estación n.º 3, 3b fue fijada por la señal del señal de salida S3b en el valor v = 40 km.h-1. La velocidad máxima permitida de la parte de maniobras remolcada era v = 40 km.h-1.
 
@@ -424,6 +432,7 @@ Tras la inspección del lugar de producción del SE, a las 16:35 h se concedió 
 El tráfico ferroviario entre la est. Olomouc hl. n. y Grygov, entre la est. Olomouc hl. n. y Blatec y entre la est. Olomouc hl. n. y Olomouc-Nová Ulice fue interrumpido desde las 13:05 h del día 03. 07. 2010. Tras la finalización de los trabajos de vía y de limpieza, se restableció la explotación de la vía entre las estaciones:
 
 ## Página 16
+
 
 Olomouc hl. n. y Olomouc-Nová Ulice a las 17:25 h del día 03. 07. 2010;
 •
@@ -482,6 +491,7 @@ Coordenadas GPS del lugar del SE: 49°35'15.74"N, 17°16'50.27"E.
 
 ## Página 17
 
+
 ## 3 RESUMEN DE LAS EXPLICACIONES PRESENTADAS
 ## 3.1
 ### Resumen de las explicaciones presentadas (sujeto a protección de la identidad de las personas)
@@ -502,8 +512,8 @@ Maquinista de la 1.ª reserva de maniobras de la estación de Olomouc hl. n. –
 ◦ la unidad de maniobras era remolcada; en la cabina del maquinista estaba solo;
 ◦ suponía que la ruta de maniobras terminaría más allá de la última aguja recorrida en el extremo de Grygov, igual que en los desplazamientos anteriores de ese día. Al acercarse a la señal de clasificación Se48, reducía la velocidad de la unidad de maniobras
 
-
 ## Página 18
+
 
 mediante frenado electrodinámico del material rodante para detener la unidad de maniobras en la 2.ª vía del extremo de Grygov. Pasó por alto la señal de la señal de clasificación Se48 «Maniobra prohibida» y no reaccionó ante ella;
 ◦ ante la orden del jefe de maniobras «¡Pare, pare!», se dio cuenta de que la orden de poner en movimiento la unidad de maniobras se había dado únicamente para la maniobra «bajo el puente». Por ello, inmediatamente aplicó el frenado de acción rápida.
@@ -523,25 +533,29 @@ Despachador de panel de la estación de Olomouc hl. n. – Del Acta con el emple
 
 ## Página 19
 
-Jefe de maniobras de despacho de la estación de Olomouc hl. n. – del Registro con el empleado, entre otros, se desprende:
-◦ la ruta de itinerario para el tren Rn 53033 se había establecido desde la vía de estación n.º 109 del sector de la estación exterior (přednádraží), a la vía de estación n.º 53 de la estación interior, hasta el sector de la estación de pasajeros en la vía de estación n.º 3 y n.º 3b. Tras la salida del tren EC 111, la ruta de itinerario para el tren Rn 53033 se estableció desde la vía de estación n.º 3b a la 2.ª vía de trayecto Olomouc hl. n. – Grygov en sentido contrario al correcto. El paso del tren Rn 53033 se preveía a las 12:58 h;
-◦ el motivo de la salida del tren Rn 53033 a la 2.ª vía de trayecto Olomouc hl. n. – Grygov fue el intento de no perturbar la circulación de otro tren, el tren R 808, con salida a las 13:06 h;
-◦ durante la circulación del tren Rn 53033, el jefe de la maniobra de la 1.ª reserva de maniobras de la estación de Olomouc hl. n. comunicó la preparación para el traslado del elemento de maniobras desde la vía de estación n.º 8 a la vía de estación n.º 22. Por ello, dio instrucción al jefe de maniobras de mesa para establecer la ruta de maniobras desde la vía de estación n.º 8 hasta la señal de agrupamiento Se48, debido a la ruta de itinerario establecida para el tren Rn 53033;
-◦ a continuación, el jefe de maniobras de mesa procedió al establecimiento de la ruta de maniobras para la 1.ª reserva de maniobras.
+Jefe de maniobras de disposición de la estación de Olomouc hl. n. – del Registro con el empleado, entre otros, se desprende:
+◦
+la ruta para el tren Rn 53033 se estableció desde la vía de estación n.º 109 del sector de la plaza delantera, a la vía de estación n.º 53 del patio interior, al sector de la estación de viajeros en la vía de estación n.º 3 y n.º 3b. Tras la salida del tren EC 111, la ruta para el tren Rn 53033 se estableció desde la vía de estación n.º 3b a la 2.ª vía de circulación Olomouc hl. n. – Grygov en sentido contrario al correcto. El paso del tren Rn 53033 se preveía a las 12:58 h;
+◦
+el motivo de la salida del tren Rn 53033 a la 2.ª vía de circulación Olomouc hl. n. – Grygov fue el intento de no perturbar la circulación de otro tren, el tren R 808, con salida a las 13:06 h;
+◦
+durante la circulación del tren Rn 53033, el jefe de maniobras de la 1.ª reserva de maniobras de la estación de Olomouc hl. n. comunicó la preparación para el cambio de la unidad de maniobras desde la vía de estación n.º 8 a la vía de estación n.º 22. Por ello, dio instrucción al jefe de maniobras de panel para establecer la ruta de maniobras desde la vía de estación n.º 8 hasta la señal de agrupamiento Se48, debido a la ruta establecida para el tren Rn 53033;
+◦
+a continuación, el jefe de maniobras de panel realizó el establecimiento de la ruta de maniobras para la 1.ª reserva de maniobras.
 ### 3.1.2 Otras personas
-Otras personas no participaron en el accidente ferroviario (MU), no se solicitó declaración de otras personas.
+Otras personas no participaron en el accidente ferroviario, no se solicitó la declaración de otras personas.
 •
 ## 3.2
 ### Sistema de garantía de seguridad
 ### 3.2.1 Organización marco y forma en que se emiten y ejecutan las instrucciones
-Tanto el gestor de la infraestructura como los dos operadores ferroviarios participantes en el accidente ferroviario cuentan con un sistema de garantía de seguridad adoptado.
-En los sistemas de garantía de seguridad adoptados y en su cumplimiento no se detectaron deficiencias durante la investigación de la ocurrencia del accidente ferroviario en la estación de Olomouc hl. n.
-### 3.2.2 Requisitos para los empleados del gestor de la infraestructura y del operador ferroviario y su aplicación
-Los requisitos de competencia profesional de los empleados de SŽDC, s. o., incluida la forma de su aplicación, están establecidos en la norma interna del gestor de la infraestructura SŽDC Zam1 «Reglamento sobre la competencia profesional de los empleados de la Administración de la Vía de Transporte Ferroviario, organización estatal», aprobada el día 30. 06. 2008, con el n.º de expediente: 23138/08-OKS, en su versión vigente.
-Los requisitos de competencia profesional de los empleados del operador ferroviario ČD, a. s., incluida la forma de su aplicación, están establecidos en la norma interna del operador ferroviario «ČD Ok 2 ORDEN DE FORMACIÓN Y EXAMEN DE LOS FERROCARRILES CHECOS, a. s.», aprobada el día 07. 12. 2005, con el n.º de expediente: 61773/05-O10, en su versión vigente. La organización de la formación y de los exámenes se especifica además en la medida «Medida del director del departamento de recursos humanos y del director del departamento de tecnología y organización del transporte sobre la organización de la formación y de los exámenes en ČD, a. s.», emitida el día 25. 06. 2008, con el n.º de expediente: 1620/2008 ŘTOD-O13/22. La medida en cuestión es válida hasta la aprobación de la norma interna que sustituya a ČD Ok 2.
-
+Tanto el gestor de la infraestructura como los dos operadores ferroviarios participantes en el accidente ferroviario disponen de un sistema de garantía de seguridad adoptado.
+En los sistemas de garantía de seguridad adoptados y en su cumplimiento no se detectaron deficiencias durante la investigación del origen del accidente ferroviario en la estación de Olomouc hl. n.
+### 3.2.2 Requisitos para el personal del gestor de la infraestructura y de los operadores ferroviarios y su aplicación
+Los requisitos de cualificación profesional del personal de SŽDC, s. o., incluido el modo de su aplicación, están establecidos en la norma interna del gestor de la infraestructura SŽDC Zam1 «Reglamento sobre la cualificación profesional del personal de la Administración de la Infraestructura de Transporte Ferroviario, organización estatal», aprobada el 30. 06. 2008, con el n.º de expediente: 23138/08-OKS, en su versión vigente.
+Los requisitos de cualificación profesional del personal del operador ferroviario ČD, a. s., incluido el modo de su aplicación, están establecidos en la norma interna del operador ferroviario «ČD Ok 2 ORDEN DE FORMACIÓN Y EXÁMENES DE LOS FERROCARRILES CHECOS, a. s.», aprobada el 07. 12. 2005, con el n.º de expediente: 61773/05-O10, en su versión vigente. La organización de la formación y de los exámenes se especifica además en la medida «Medida del director del departamento de recursos humanos y del director del departamento de tecnología y organización del transporte sobre la organización de la formación y de los exámenes en ČD, a. s.», emitida el 25. 06. 2008, con el n.º de expediente: 1620/2008 ŘTOD-O13/22. La medida en cuestión es válida hasta la aprobación de la norma interna que sustituya a ČD Ok 2.
 
 ## Página 20
+
 
 Los requisitos de competencia profesional de los empleados del operador ferroviario ČD Cargo, a. s., incluida la forma de su aplicación, los establece la norma interna del operador ferroviario «PERs28-2009 ORDEN DE FORMACIÓN Y EXAMEN», aprobada el 01. 04. 2009, con entrada en vigor el 01. 05. 2009.
 La condición de aptitud para la conducción de vehículos ferroviarios la establece el § 45 de la ley n.º 266/1994 Sb.
@@ -560,57 +574,56 @@ El operador ferroviario del tren Rn 53033 es ČDC, a. s., con domicilio en Janko
 
 ## Página 21
 
-republica", celebrado entre las partes contratantes SŽDC, s. o. y ČDC, a. s. El contrato se
+republica“, celebrado entre las partes contratantes SŽDC, s. o. y ČDC, a. s. El contrato se 
 celebra por duración indefinida, con efectos desde el 01. 01. 2010.
-El transportista de la unidad de maniobras 1.ª reserva de maniobras de la est. Olomouc hl. n. es ČD, a. s.,
-con domicilio en Nábřeží L. Svobody 1222 Praha 1, PSČ 110 15, en virtud de la Licencia,
-n.º de expediente: 3-2169/03-DÚ/Bp, n.º de registro: L/2004/9000, concedida por DU el 17. 09. 2003, y del contrato
-"SMLOUVA číslo 001/05 o přístupu na železniční dopravní cestu celostátní dráhy
-a regionálních drah ve vlastnictví státu" (Contrato n.º 001/05 sobre acceso a la vía de tráfico ferroviario de la red ferroviaria estatal
-y de las líneas regionales en propiedad del Estado), en la redacción de los adendas n.º 1 a 6 en la versión vigente,
-celebrado entre las partes contratantes, SŽDC, s. o. y ČD, a. s., el 31. 10. 2005
-y "SMLOUVA číslo 001/08 o provozování drážní dopravy na železniční dopravní cestě
-celostátní dráhy a regionálních drah ve vlastnictví České republiky" (Contrato n.º 001/08 sobre explotación del transporte ferroviario en la vía de tráfico ferroviario
-de la red ferroviaria estatal y de las líneas regionales en propiedad de la República Checa), en la redacción de la adenda n.º 1
-en la versión vigente, celebrado entre las partes contratantes, SŽDC, s. o. y ČD, a. s., el 01. 07.
+El transportista de la sección de maniobras 1.ª reserva de maniobras de la est. Olomouc hl. n. 
+son ČD, a. s., con sede en Nábřeží L. Svobody 1222 Praha 1, PSČ 110 15, en virtud de la Licencia, 
+n.º de expediente: 3-2169/03-DÚ/Bp, n.º de registro: L/2004/9000, concedida por DU el 17. 09. 
+2003, y del contrato „SMLOUVA číslo 001/05 o přístupu na železniční dopravní cestu celostátní 
+dráhy a regionálních drah ve vlastnictví státu“, en la redacción de los adendas n.º 1 a 6 en 
+vigencia, celebrado entre las partes contratantes, SŽDC, s. o. y ČD, a. s., el 31. 10. 2005, 
+y del contrato „SMLOUVA číslo 001/08 o provozování drážní dopravy na železniční dopravní cestě 
+celostátní dráhy a regionálních drah ve vlastnictví České republiky“, en la redacción del adenda 
+n.º 1 en vigor, celebrado entre las partes contratantes, SŽDC, s. o. y ČD, a. s., el 01. 07. 
 2008, con vigencia desde el 01. 07. 2008.
 ## 3.3
 ### Regulación jurídica y de otro tipo
-### 3.3.1 Normativa comunitaria y nacional pertinente
-En la investigación del MU se constató la infracción de las siguientes normas jurídicas:
-§ 35 apartado 1 letra f) de la ley n.º 266/1994 Sb., "El transportista está obligado a) a explotar
+### 3.3.1 Normativa comunitaria y nacional aplicable
+En la investigación del MU se constató el incumplimiento de las siguientes disposiciones 
+jurídicas:
+§ 35 apartado 1 letra f) de la ley n.º 266/1994 Sb., „El transportista está obligado a 
 •
-el transporte ferroviario de acuerdo con las reglas de explotación del transporte ferroviario, la licencia vigente
-y los contratos celebrados con el explotante de la vía sobre la explotación del transporte ferroviario en
-la vía";
-§ 35 apartado 1 letra f) del decreto n.º 173/1995 Sb., por el que se dicta el reglamento de circulación ferroviaria,
+realizar el transporte ferroviario de acuerdo con las normas de explotación del transporte 
+ferroviario, la licencia vigente y los contratos celebrados con el explotador de la vía 
+ferroviaria sobre la explotación del transporte ferroviario en la vía“;
+§ 35 apartado 1 letra f) del decreto n.º 173/1995 Sb., por el que se aprueba el reglamento 
 •
-en la redacción de normas posteriores, "Para la conducción de un vehículo ferroviario debe garantizarse que
-la persona que conduce el vehículo ferroviario: f) observe desde el vehículo ferroviario de mando la vía
-y las señales y actúe de acuerdo con los hechos constatados".
-3.3.2 Otras normas, p. ej., reglamento de explotación, reglamento laboral, normas de mantenimiento,
-normas técnicas vigentes y otras normas internas
-En la investigación del MU se constató la infracción de las siguientes normas internas:
-norma interna SŽDC (ČD) D1 "PŘEDPIS PRO POUŽÍVÁNÍ NÁVĚSTÍ PŘI
+de circulación ferroviaria, en la redacción de las disposiciones posteriores, „Para la 
+conducción de un vehículo ferroviario debe garantizarse que la persona que conduce el 
+vehículo ferroviario: f) observe desde el vehículo ferroviario de mando la vía y las señales 
+y actúe de acuerdo con los hechos constatados“.
+3.3.2 Otras normas, p. ej., reglamento de explotación, reglamento de trabajo, normas de 
+mantenimiento, normas técnicas vigentes y otras normas internas
+En la investigación del MU se constató el incumplimiento de las siguientes normas internas:
+norma interna SŽDC (ČD) D1 „PŘEDPIS PRO POUŽÍVÁNÍ NÁVĚSTÍ PŘI 
 •
-ORGANIZOVÁNÍ A PROVOZOVÁNÍ DRÁŽNÍ DOPRAVY" (Norma para el uso de señales en
-la organización y explotación del transporte ferroviario), aprobada el 15. 04.
-1997, bajo el n.º de expediente: 55216/97-O11, en la versión vigente, que fue asumida por el explotante de la vía
-SŽDC, s. o. en virtud del BOLETÍN DE TRANSPORTE Y TARIFAS n.º 29-30,
-de 16. 07. 2008 [en adelante, norma SŽDC (ČD) D1], art. 9, donde se establece:
-"Dar instrucciones mediante señales o colocar señales portátiles solo está permitido al
-empleado que esté cualificado profesionalmente para esta actividad. Si la norma ČD D1
+ORGANIZOVÁNÍ A PROVOZOVÁNÍ DRÁŽNÍ DOPRAVY“, aprobada el 15. 04. 
+1997, bajo el n.º de expediente: 55216/97-O11, en vigor, que fue asumida por el explotador 
+de la vía SŽDC, s. o. en el sentido del BOLETÍN DE TRANSPORTE Y TARIFAS n.º 29-30, 
+del 16. 07. 2008 [en adelante, norma SŽDC (ČD) D1], art. 9, donde se establece:
+„Dar instrucciones mediante señales o colocar señales portátiles solo está permitido al 
+empleado que esté cualificado profesionalmente para esta actividad. Si la norma ČD D1 
 establece quién da la señal y a quién se la da, se ordena dar esta instrucción directamente.
-### Las instrucciones en la organización y explotación del transporte ferroviario
-expresadas mediante señales deben ser obedecidas por el empleado a tiempo, salvo en los casos
-en que su ejecución pudiera poner en peligro la seguridad del transporte ferroviario o las vidas humanas.
-Si se emiten simultáneamente señales discrepantes entre sí, el empleado debe regirse por la señal
-que sea más grave.";
+### Las instrucciones para la organización y explotación del transporte ferroviario 
+expresadas mediante señales deben ser obedecidas por el empleado a tiempo, salvo en los 
+casos en que su ejecución pudiera poner en peligro la seguridad del transporte ferroviario 
+o las vidas humanas. Si se dan simultáneamente señales distintas entre sí, el empleado 
+debe regirse por la señal que sea más grave.”;
 norma interna SŽDC (ČD) D1, art. 550, donde se establece:
 •
 
-
 ## Página 22
+
 
 ### "La señal Posun zakázán (luz azul) (Maniobras prohibidas) prohíbe las maniobras; el frente de la unidad de maniobras
 debe detenerse aún antes de la señal. Donde dicha señal no esté directamente junto a la vía,
@@ -661,6 +674,7 @@ realizó entre el 13. 09. y el 16. 10. 2006, véase "ZPRÁVA o provedené komple
 
 ## Página 23
 
+
 La inspección y prueba del dispositivo técnico designado RZZ de la estación de Olomouc hl. n. se realizó el 27. 10. 2006, véase «ACTA de la inspección y prueba realizadas del dispositivo técnico designado en servicio», n.º de expediente: 100/06 LA, de fecha 27. 10. 2006.
 La inspección del RZZ de la estación de Olomouc hl. n. se realizó el 01. 07. 2010, véase la anotación «Registro de averías del equipo de señalización y seguridad» de la estación de Olomouc hl. n.
 La última avería del SZZ de la estación de Olomouc hl. n. antes de la producción del MU queda registrada en el documento «Registro de averías del equipo de señalización y seguridad» el 28. 06. 2010 (registro n.º 48), cuando no fue posible conceder la autorización de vía a la estación de Velká Bystřice. La avería fue subsanada por una persona competente del explotador ferroviario ese mismo día. Los hechos anteriores quedan acreditados en el libro «Registro de averías del equipo de señalización y seguridad».
@@ -677,8 +691,8 @@ Sin defectos detectados.
 ### 3.4.4 Material rodante ferroviario, incluidos los dispositivos de registro automático de datos
 El HDV 130.009-4, que circulaba en cabeza del tren Rn 53033, dispone de un CERTIFICADO DE IDONEIDAD DEL MATERIAL RODANTE FERROVIARIO válido, n.º de referencia PZ 2350/01-V.01, expedido por el DU el 05. 12. 2001. La última revisión técnica periódica antes de la producción del MU se realizó de conformidad con el § 44 apartado 1 de la ley n.º 266/1994 Sb. el 20. 03. 2010, con vigencia hasta el 20. 09. 2010. El HDV fue explotado por el transportista de conformidad con el tipo aprobado.
 
-
 ## Página 24
+
 
 El HDV 130.009-4 estaba, en el momento de la producción del MU, equipado con un dispositivo de registro con registro mecánico de datos, registrador de velocidades tipo METRA, n.º de referencia 09215.
 De los datos registrados se desprende, entre otros:
@@ -724,6 +738,7 @@ a las 12:55 h, desde la 2.ª vía de la línea Olomouc hl. n. – Grygov, llegó
 estación n.º 8 el tren R 807;
 
 ## Página 25
+
 
 ve 12:55 h ze staniční koleje č. 1 na 1. traťovou kolej Olomouc hl. n. – Grygov odjel 
 •
@@ -773,10 +788,10 @@ o postavené posunové cestě a je souhlasem k posunu. O způsobu a cíli jízdy
 strojvedoucí 1. posunové zálohy zpraven ústně vedoucím posunu 1. posunové zálohy 
 před započetím posunu. Na návěst „Posun dovolen” odjezdového návěstidla S8 a pokynu 
 vedoucího posunu 1. posunové zálohy uvedl strojvedoucí posunový díl do pohybu. 
-Posunová cesta končila v úrovni seřaďovacího návěstidla Se48, které návěstilo návěst 
-
+Posunová cesta končila v úrovni seřaďovacího návěstidla Se48, které návěstilo návěst
 
 ## Página 26
+
 
 „Posun zakázán“ (modré světlo). Ta zakazuje posun, čelo posunového dílu musí 
 zastavit ještě před návěstidlem.
@@ -815,6 +830,7 @@ Los empleadores garantizaron las condiciones para el descanso previo al turno de
 
 ## Página 27
 
+
 3.6.2 Estado de salud y situación personal que influyeron en el suceso ferroviario, incluido el estrés físico o psicológico
 • Todos los empleados implicados estaban, en el momento de producirse el suceso ferroviario, en condiciones de salud aptas para el desempeño de la función que ocupaban. La investigación no determinó que la situación personal o el estado psicológico de las personas implicadas en el suceso ferroviario hubieran influido en la producción del mismo.
 • Los empleados del gestor de la infraestructura y del transportista se someten a reconocimientos médicos periódicos de conformidad con lo dispuesto en el decreto nº 101/1995 Sb. No se detectaron circunstancias de salud ni situaciones personales que pudieran haber influido en la producción del suceso ferroviario, incluido el estrés físico y psicológico.
@@ -840,8 +856,8 @@ El DI, en el periodo comprendido entre el 01. 01. 2008 y la fecha de producción
 | 15 07 2009 08:20h . . , | est. Veselí nad Lužnicí . | Se33 | enana | 34 080 Kč . ,- |
 | 10 08 2009 19:51h . . , | est. Olomouc hl n . . . | Se216 | enana | 12 554 Kč . ,- |
 
-
 ## Página 28
+
 
 | 12 08 2009 13:00h . . , | est. Havlíčkův Brod . | Se12 | enana | 2 273 Kč . ,- |
 | 05 09 2009 10:34h . . , | est. Praha hl n . . . | Se68 | enana | 400 000 Kč . ,- |
@@ -865,16 +881,16 @@ Durante la circulación del tren Rn 53033, el jefe de maniobras de la 1ª reserv
 
 ## Página 29
 
-hl. n. preparación para el traslado de la maniobra desde la vía de estación n.º 8 a la vía de estación n.º 22. El jefe de estación de panel, en la operación normal de la SZZ, de acuerdo con los procedimientos tecnológicos del gestor de la infraestructura, estableció la ruta de maniobra para la circulación de la maniobra remolcada desde la vía de estación n.º 8, del ámbito de la estación de pasajeros, hasta la señal de clasificación Se48 en la cabecera de Grygov, la cual mostraba la señal «Maniobra prohibida». A continuación, informó al jefe de maniobra del establecimiento de la ruta de maniobra desde la vía de estación n.º 8 en dirección a la 2.ª vía de circulación «bajo el puente». Tras esta comunicación, el jefe de maniobra dio instrucción al maquinista de la 1.ª reserva de maniobra de la est. Olomouc para iniciar la maniobra desde la vía de estación n.º 8. El maquinista de la maniobra remolcada, ante esta instrucción y la señal de la señal de salida S8 «Maniobra permitida», puso la maniobra en movimiento. La circulación de la maniobra se realizó desde la vía de estación n.º 8, pasando junto a la señal de salida S8 y junto a la señal de clasificación Se32, la cual, con sus indicaciones, permitía la circulación de la maniobra. La ruta de maniobra terminaba a la altura de la señal de clasificación Se48, en la que brillaba la señal «Maniobra prohibida». El maquinista de la maniobra, a pesar de la información de la maniobra «bajo el puente», supuso, como él mismo declaró: «... como en las circulaciones anteriores en el turno de hoy, que se establecería la ruta de maniobra hasta más allá del puente, tras la última aguja. ...». El maquinista no registró la señal de la señal de clasificación Se48 «Maniobra prohibida», a pesar de que esta señal de maniobra era visible en la dirección de circulación de la maniobra a una distancia de 175 m. Cuando el jefe de maniobra de la 1.ª reserva de maniobra comprobó que la maniobra no reducía la velocidad de circulación para detenerse «bajo el puente», antes de la señal de clasificación Se48, dio, inmediatamente antes de que se produjera el MU, por radio, instrucción al maquinista de reducir la velocidad y detenerse. El maquinista reaccionó a esta instrucción aplicando el frenado de acción rápida. Debido a la corta distancia, sin embargo, la maniobra no se detuvo antes de la señal de clasificación Se48 y continuó su circulación hacia la aguja n.º 9, situada en la ruta de tren en el mismo sentido que el tren Rn 53033 que salía.
-Cuando la locomotora del tren Rn 53033 pasó por la cabecera de Grygov y entró en la vía 2 de la cabecera de Grygov, la locomotora de la maniobra chocó contra el lado izquierdo del tren que salía. El maquinista del tren Rn 53033 registró el ruido, la oscilación de la catenaria y la pérdida de presión de aire en la tubería del freno automático continuo. El tren Rn 53033 se detuvo a continuación automáticamente.
+hl. n. preparación para el cambio de la maniobra desde la vía de estación n.º 8 a la vía de estación n.º 22. El despachador de panel en servicio normal de SZZ, de acuerdo con los procedimientos tecnológicos del gestor de la vía, estableció la ruta de maniobra para la circulación de la maniobra remolcada desde la vía de estación n.º 8, del recinto de la estación de pasajeros, hasta la señal de enclavamiento Se48 en el extremo de Grygov, que mostraba la señal "Maniobra prohibida". A continuación, informó al jefe de maniobra de la ruta de maniobra establecida desde la vía de estación n.º 8 en dirección a la 2.ª vía de vía libre "bajo el puente". Tras esta comunicación, el jefe de maniobra dio instrucción al maquinista de la 1.ª reserva de maniobras de la est. Olomouc para iniciar la maniobra desde la vía de estación n.º 8. El maquinista de la maniobra remolcada, ante esta instrucción y la señal de la señal de salida S8 "Maniobra permitida", puso la maniobra en movimiento. La circulación de la maniobra se realizó desde la vía de estación n.º 8, junto a la señal de salida S8 y junto a la señal de enclavamiento Se32, cuyas señales permitían la circulación de la maniobra. La ruta de maniobra terminaba a la altura de la señal de enclavamiento Se48, en la que brillaba la señal "Maniobra prohibida". El maquinista de la maniobra, a pesar de la información de la maniobra "bajo el puente", supuso, como él mismo indicó: "... al igual que en las circulaciones anteriores de la jornada de hoy, que se establecería la ruta de maniobra hasta más allá del puente, tras la última aguja. ...". El maquinista no registró la señal de la señal de enclavamiento Se48 "Maniobra prohibida", a pesar de que esta señal de maniobra era visible en la dirección de circulación de la maniobra a una distancia de 175 m. Cuando el jefe de maniobra de la 1.ª reserva de maniobras comprobó que la maniobra no reducía la velocidad de circulación para detenerse "bajo el puente", antes de la señal de enclavamiento Se48, dio, inmediatamente antes de que se produjera el MU, instrucción por radio al maquinista para frenar y detenerse. El maquinista reaccionó a esta instrucción aplicando el freno de acción rápida. Sin embargo, debido a la corta distancia, la maniobra no se detuvo ante la señal de enclavamiento Se48 y continuó circulando hacia la aguja n.º 9 situada en la ruta de tren en el mismo sentido que el tren Rn 53033 que partía.
+Cuando la HDV del tren Rn 53033 pasó por el extremo de Grygov y entró en la 2.ª vía del extremo de Grygov, la HDV de la maniobra chocó contra el lado izquierdo del tren que partía. El maquinista del tren Rn 53033 registró el ruido, la oscilación de la catenaria y la pérdida de presión de aire en la tubería del freno automático continuo. El tren Rn 53033 se detuvo a continuación automáticamente.
 ## 4.2
 ### Análisis
-### 4.2.1 Evaluación de los hechos constatados de acuerdo con el punto 3 y exposición de las conclusiones sobre la causa del suceso excepcional y la actuación de los servicios de rescate
-El transportista ČD, a. s., en relación con lo dispuesto en el § 35 apartado 1 letra f) del decreto n.º 173/1995 Sb., en el sentido del § 35 apartado 1 letra a) de la ley n.º 266/1994 Sb., no garantizó la explotación del transporte ferroviario de acuerdo con las normas de explotación del transporte ferroviario y el contrato celebrado con el gestor de la infraestructura para la explotación del transporte ferroviario en la infraestructura, al no detener la persona que conducía el vehículo ferroviario de la maniobra de la 1.ª reserva de maniobra de la est. Olomouc hl. n. la maniobra antes de la señal de clasificación Se48 con la señal «Maniobra prohibida» y continuar indebidamente la circulación hasta la aguja n.º 9 de la est. Olomouc hl. n., donde la locomotora de la maniobra en el km 205,248 chocó contra el lado izquierdo del tren Rn 53033 que salía.
-De la investigación de las causas y circunstancias de la aparición del MU se constató la existencia de un fallo del factor humano, del maquinista de la maniobra de la 1.ª reserva de maniobra de la est. Olomouc hl. n. De la verificación de la idoneidad profesional y sanitaria no se constataron deficiencias, véase el punto 3.6.2. El error humano se manifestó en la omisión y la evaluación errónea de la situación producida. El maquinista,
-
+### 4.2.1 Evaluación de los hechos constatados de acuerdo con el punto 3 y formulación de conclusiones sobre la causa del suceso excepcional y la actuación de los servicios de rescate
+El transportista ČD, a. s., en virtud de lo dispuesto en el § 35 apartado 1 letra f) del decreto n.º 173/1995 Sb., en el sentido del § 35 apartado 1 letra a) de la ley n.º 266/1994 Sb., no garantizó la explotación del transporte ferroviario de acuerdo con las reglas de explotación del transporte ferroviario y el contrato celebrado con el gestor de la vía para la explotación del transporte ferroviario en la vía, al no detener la persona que conducía el vehículo ferroviario de la maniobra de la 1.ª reserva de maniobras de la est. Olomouc hl. n. la maniobra antes de la señal de enclavamiento Se48 con la señal "Maniobra prohibida" y continuar indebidamente la circulación hasta la aguja n.º 9 de la est. Olomouc hl. n., donde la HDV de la maniobra en el km 205,248 chocó contra el lado izquierdo del tren Rn 53033 que partía.
+En la investigación de las causas y circunstancias de la aparición del MU se constató un fallo del factor humano, del maquinista de la maniobra de la 1.ª reserva de maniobras de la est. Olomouc hl. n. La verificación de la idoneidad profesional y sanitaria no detectó deficiencias, véase el punto 3.6.2. El error humano se manifestó en la omisión y la evaluación errónea de la situación producida. El maquinista,
 
 ## Página 30
+
 
 que desempeñaba la función de maquinista desde el 01. 04. 2010, tenía el día de la aparición del MU en la 1.ª reserva de maniobra de la est. Olomouc hl. n. su primer turno. Al trasladar la maniobra, supuso de forma totalmente incorrecta el establecimiento de la ruta de maniobra más allá de la última aguja transitada hacia la vía n.º 2 de la cabecera de Grygov, tal como había ocurrido en las circulaciones de traslado anteriores en dicho turno. A la señal de clasificación Se48, cuya señal «Maniobra prohibida» es visible en la dirección de circulación de la maniobra remolcada a una distancia de 175 m, el maquinista no prestó atención.
 Con un conocimiento más profundo de los factores que actuaban sobre el maquinista, no solo durante el turno sino también antes de su inicio, no se constató nada, aparte de la inmadurez profesional, que pudiera haber influido negativamente en su comportamiento.
@@ -891,8 +907,8 @@ Las causas derivadas del marco normativo y del uso del sistema de garantía de l
 ### 4.4.1 Deficiencias y omisiones constatadas durante la investigación de las causas y circunstancias de la aparición del suceso excepcional, que sin embargo no son relevantes para las conclusiones sobre las causas
 Las deficiencias y omisiones constatadas durante la investigación de las causas y circunstancias de la aparición del suceso excepcional, que sin embargo no son relevantes para las conclusiones sobre las causas, no fueron constatadas por el DI.
 
-
 ## Página 31
+
 
 ## 5 MEDIDAS ADOPTADAS
 ## 5.1
@@ -916,14 +932,14 @@ director
 de la Inspección Territorial de Ostrava
 de la Inspección Territorial de Ostrava
 
-
 ## Página 32
+
 
 ## 7 ANEXOS
 Fig. 7.1: Panel indicador de la SZZ RZZ en el puesto de mando central de la est. Olomouc hl. n.
 Fig. 7.2: Vehículo descarrilado del tren Rn 53033
 
-
 ## Página 33
+
 
 Fig. 7.3: Vehículo descarrilado del tren Rn 53033 y de la 1.ª reserva de maniobra

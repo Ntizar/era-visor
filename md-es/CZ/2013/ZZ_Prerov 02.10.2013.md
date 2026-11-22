@@ -10,13 +10,14 @@ chars: 116811
 ratio_longitud: 1.26
 tokens_in: 61627
 tokens_out: 46403
-verificacion: revisar
-notas_cifras: ["bloque 1: cifras cortas: 1/115", "bloque 4: original bilingüe: se compara contra el idioma principal (CS)", "bloque 6: cifras largas: 1/70", "bloque 7: original bilingüe: se compara contra el idioma principal (CS)", "bloque 8: original bilingüe: se compara contra el idioma principal (CS)"]
-avisos: ["bloque 7: ratio 1.67", "bloque 8: ratio 1.60"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 4: cifras cortas: 1/3", "página 7: original bilingüe: se compara contra el idioma principal (EN)", "página 8: original bilingüe: se compara contra el idioma principal (CS)", "página 9: original bilingüe: se compara contra el idioma principal (CS)", "página 12: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -43,13 +44,13 @@ IČ:   75009561
 http://www.dicr.cz
 tel.: 224 805 444
 
-
 ## Página 2
+
 
 Este informe final es público y todos los hechos en él expuestos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ### 1 RESUMEN
 Fuente: Drážní inspekce 
@@ -80,8 +81,8 @@ Factores contribuyentes:
 no fueron detectados por la Drážní inspekce.
 •
 
-
 ## Página 4
+
 
 Causas fundamentales:
 propiedades mecánicas inadecuadas de la lengüeta derecha curva de la
@@ -114,10 +115,10 @@ gestor de la vía y, en ese ámbito, adoptar también las medidas correspondient
 (y no solo a nivel local).
 2. a la Drážní úřad, la adopción de una medida propia encaminada a garantizar la
 ejecución de la recomendación de seguridad anteriormente indicada también en los
-demás gestores de vías ferroviarias de la República Checa. 
-
+demás gestores de vías ferroviarias de la República Checa.
 
 ## Página 5
+
 
 ### RESUMEN 
 Grado:
@@ -171,8 +172,8 @@ al adoptar medidas tras un accidente o incidente, evaluar siempre las deficienci
 y los riesgos de forma integral en el conjunto de la red ferroviaria y, en ese
 ámbito, adoptar también las medidas correspondientes y no solo a nivel local.
 
-
 ## Página 6
+
 
 2)  Dirigidas a la Autoridad Nacional de Seguridad Checa (NSA):
 se recomienda adoptar una medida propia encaminada a forzar la ejecución de
@@ -180,8 +181,8 @@ se recomienda adoptar una medida propia encaminada a forzar la ejecución de
 las recomendaciones anteriores para el otro gestor de la infraestructura (IM)
 en la República Checa.
 
-
 ## Página 7
+
 
 ## Índice
 1 Resumen................................................................................................................................3
@@ -226,6 +227,7 @@ relación contractual...........................................................
 
 ## Página 8
 
+
 3.1.2 Otras personas...................................................................................................25
 3.2 Sistema de garantía de la seguridad.....................................................................25
 3.2.1 Organización marco y forma en que se emiten y ejecutan las instrucciones........25
@@ -263,8 +265,8 @@ manejo y utilización...........................................................
 4.1.1 Descripción definitiva del suceso ferroviario basada en los hechos constatados en el
 punto 3.................................................................................................................38
 
-
 ## Página 9
+
 
 4.2 Análisis................................................................................................................39
 4.2.1 Evaluación de los hechos constatados de acuerdo con el punto 3 y formulación de
@@ -288,8 +290,8 @@ ferroviario.....................................................................
 6 Recomendaciones de seguridad......................................................................................42
 7 Anexos........................................................................................................................43
 
-
 ## Página 10
+
 
 ### Lista de siglas y símbolos utilizados
 CDP
@@ -387,16 +389,16 @@ investigación propia
 ZRDS
 estación de radio base
 
-
 ## Página 11
+
 
 ZSSKC
 Železničná spoločnosť Cargo Slovakia, a. s.
 žst.
 estación de ferrocarril
 
-
 ## Página 12
+
 
 ### Lista de siglas de la normativa legal, normas y normas internas
 utilizadas
@@ -449,10 +451,10 @@ el 1. 3. 2013
 norma interna del gestor de la infraestructura SŽDC, s. o., ČSD
 S 3 Superestructura ferroviaria, aprobada el 11. 3. 1978, con
 núm. de ref.: 25 805/76, en vigor desde el 1. 9. 1980, en la versión
-de la modificación núm. 3, en vigor desde el 1. 1. 1989 
-
+de la modificación núm. 3, en vigor desde el 1. 1. 1989
 
 ## Página 13
+
 
 SŽDC D1
 norma interna del gestor de la infraestructura SŽDC, s. o., SŽDC
@@ -506,8 +508,8 @@ norma interna del gestor de la infraestructura SŽDC, s. o., Reglamento de
 estación de la estación de ferrocarril PŘEROV, aprobado el 15. 5. 2013,
 con núm. de ref.: 3629/2013-OŘ OLC, en vigor desde el 24. 5. 2013
 
-
 ## Página 14
+
 
 Directriz SŽDC núm. 51
 norma interna del gestor de la infraestructura SŽDC, s. o.,
@@ -517,6 +519,7 @@ los desvíos, aprobada el 26. 9. 2008, con núm. de ref.: 31
 vigente.
 
 ## Página 15
+
 
 ### 2 DATOS RELATIVOS AL SUCESO EXTRAORDINARIO
 ## 2.1
@@ -537,8 +540,8 @@ Fuente: Inspección Ferroviaria
 ### 2.1.2 Descripción del suceso extraordinario y del lugar del accidente, incluida la actividad del sistema integrado de emergencia y del servicio de rescate
 Al entrar en la est. Přerov, ámbito de la estación, debido a la interrupción de la SZZ, el tren Rn 50230 puso fin a su circulación en la señal principal (de vía) Lc18. En la siguiente circulación continuó como maniobra sin cuadrilla de maniobras. Al circular desde la vía n.º 18 a la vía n.º 208, en la aguja n.º 208, en el pk 182,629, descarriló el HDV 91 54 7 363 058-9 (en adelante 363.058-9) con todos los ejes.
 
-
 ## Página 16
+
 
 Como consecuencia de los golpes y la acción dinámica del HDV descarrilado, descarriló el TDV Eas-u 31 54 5947 571-3, enganchado como 1.º TDV tras el HDV, en el sentido de circulación de la formación de maniobras, con el primer bogie delantero. El HDV 363.058-9, tras descarrilar, se detuvo en el pk 182,594 con las ruedas derechas en la vía n.º 210 y las ruedas izquierdas en la parte de cambio de la aguja n.º 212.
 Fig. n.º 2: Esquema del lugar del SE
@@ -557,8 +560,8 @@ la señal principal (de vía) Lc18 está situada a la derecha de la vía n.º 18
 •
 la señal es válida tanto para la circulación de trenes como para maniobras;
 
-
 ## Página 17
+
 
 antes de la detención del tren Rn 50230 en la señal principal (de vía) Lc18, la
 •
@@ -575,41 +578,43 @@ enganchado en la mandíbula de cierre de la manera prescrita. La punta de la agu
 mediante la inspección visual de las superficies de rotura de la aguja derecha curvada de la aguja n.º 208 se constató una rotura reciente, sin rastros de corrosión ni de iniciación de la rotura originada en el lugar del borde frontal del soporte deslizante. En la superficie de rotura de la aguja derecha curvada, adyacente a la raíz de la aguja, se constataron en el canto de la cabeza del riel dos rastros de la pasada de los pestañones y un rastro de la pasada de la superficie de rodadura de la rueda derecha del HDV sobre la cabeza del riel;
 desde el lugar de la rotura se constataron marcas de la pasada de dos pestañones del HDV. El pestañón del 1.º bogie de la rueda derecha dejó en el canto de la cabeza de la aguja derecha curvada un rastro de 1,96 m de longitud, seguido de un rastro de la salida de la rueda derecha fuera de la aguja derecha curvada de la aguja n.º 208, entre la aguja derecha curvada y el apoyo derecho curvado. El pestañón del 3.º bogie dejó en el canto de la cabeza de la aguja derecha curvada un rastro de 2,55 m de longitud, seguido de un rastro de salida, de nuevo fuera de la aguja derecha curvada, entre la aguja derecha curvada y el apoyo derecho curvado. En el nivel de salida de las ruedas derechas se
 
-
 ## Página 18
 
-constataron 2 rastros en el apoyo izquierdo curvado de la aguja n.º 208 por la salida de las ruedas izquierdas del 1.º y 3.º eje entre los pares de rieles. Los rastros de la circulación de los bogies descarrilados del HDV continuaban con marcas en los elementos de fijación, soportes de madera de los rieles, lecho de balasto, componentes de la aguja n.º 208 y posteriormente en la parte de cambio de la aguja n.º 212 y a la vez en la vía n.º 210 hasta el lugar de detención. El HDV se detuvo con el frontal en el pk 182,594;
-como consecuencia de la rotura de la aguja derecha curvada de la aguja n.º 208 en el lugar de transición del perfil de aguja al perfil de riel del riel de forma S49 en el borde del 11.º soporte deslizante, se produjo una liberación del estado de tensión en la aguja derecha adyacente respecto al apoyo derecho. La parte frontal de la aguja desprendida apoyaba libremente en el 1.º apoyo de aguja en el sentido desde la punta de la aguja. Con la circulación de las ruedas delanteras derechas del 1.º y 2.º bogie del HDV, la parte desprendida de la aguja fue presionada hacia el apoyo derecho a lo largo de los soportes deslizantes. Posteriormente, en el lugar de la rotura de la aguja, se produjo un desplazamiento horizontal transversal de las superficies de rotura, permitiendo así la entrada de los pestañones y de las superficies de rodadura de las ruedas del HDV en el frontal de la superficie de rotura del riel de forma S49. Con la posterior circulación del HDV descarrilado por los elementos de fijación, soportes de madera de los rieles y lecho de balasto, el lecho de vía desde el punto „0“ en las agujas n.º 208 y n.º 212 y en la vía n.º 210, desde el nivel del corazón de la aguja n.º 208 hasta el lugar de detención del HDV, se deformó direccionalmente;
-en la aguja n.º 208 el lecho de balasto estaba hundido, formado por árido
+se detectaron 2 huellas en el soporte izquierdo curvado de la aguja n.º 208 tras el descarrilamiento de las ruedas izquierdas de los ejes 1.º y 3.º entre los carriles. Las huellas de la circulación de los bogies descarrilados del HDV continuaron con marcas en los aparatos de fijación, soportes de madera de los carriles, balasto, piezas de la aguja n.º 208 y posteriormente en la sección de cambio de la aguja n.º 212 y simultáneamente en la SK n.º 210 hasta el punto de detención. El HDV se detuvo con el frontal en el pk 182,594;
+como consecuencia de la rotura de la lengüeta derecha curvada de la aguja n.º 208 en el punto de transición
 •
-triturado de fracción 16 – 32 mm, limpio;
-la aguja derecha curvada (rota) de la aguja n.º 208 con el apoyo derecho se
+de lengüeta al perfil del carril de forma S49 en el borde del 11.º soporte deslizante, se produjo la liberación del estado de tensión en la lengüeta derecha adyacente al soporte derecho. La parte frontal de la lengüeta rota se apoyaba libremente en el 1.º soporte de lengüeta en la dirección desde la punta de la lengüeta. Con la circulación de las ruedas delanteras derechas de los bogies 1.º y 2.º del HDV, la parte rota de la lengüeta fue presionada contra el soporte derecho a lo largo de los soportes deslizantes. Posteriormente, en el punto de rotura de la lengüeta, se produció un desplazamiento transversal horizontal de las superficies de rotura, lo que permitió la entrada de los flancos y de las superficies de rodadura de las ruedas del HDV en el borde de la superficie de rotura del carril de forma S49. Con la posterior circulación del HDV descarrilado sobre los aparatos de fijación, soportes de madera de los carriles y balasto, el lecho de vía desde el punto "0" en las agujas n.º 208 y n.º 212 y en la SK n.º 210, desde el nivel del corazón de la aguja n.º 208 hasta el punto de detención del HDV, se deformó direccionalmente;
+en la aguja n.º 208 el balasto estaba hundido, formado por árido triturado
 •
-insertó en la aguja en el año 1990;
-todos los soportes de madera de los rieles de la aguja n.º 208 fueron sustituidos
+de fracción 16 – 32 mm, limpio;
+la lengüeta derecha curvada (rota) de la aguja n.º 208 con el soporte derecho se
 •
-por nuevos en el marco de los trabajos de reparación en el año 2012. En el estado de los soportes de madera de los rieles y del pequeño material de vía (elementos de fijación) no se constataron deficiencias.
-De la inspección del DV de la formación de maniobras arrastrada se constató (todo indicado en el sentido de circulación de la formación de maniobras):
-la formación de maniobras estaba constituida por los elementos del tren Rn 50230, es decir, el HDV 363.058-9 y 24 TDV destinados al transporte de mercancías;
+instaló en la aguja en el año 1990;
+todos los soportes de madera de los carriles de la aguja n.º 208 fueron sustituidos
 •
-el frontal del HDV 363.058-9 en la posición final tras el SE se encontraba con el
+por nuevos en el marco de los trabajos de reparación en el año 2012. En el estado de los soportes de madera de los carriles y del material menor de vía (aparatos de fijación) no se detectaron deficiencias.
+Con la inspección del DV de la maniobra de empuje arrastrada se detectó (todo indicado en la dirección de circulación de la maniobra de empuje):
+la maniobra de empuje estaba formada por los elementos del tren Rn 50230, es decir, HDV 363.058-9 y 24 TDV
 •
-frontal en el pk 182,594 descarrilado con todos los ejes. La rueda derecha del 1.º y 4.º bogie se encontraba fuera del par de rieles izquierdo de la vía n.º 210. La rueda izquierda del 1.º bogie se encontraba junto al par de rieles izquierdo en la dirección de desvío de la aguja n.º 212. Las ruedas derechas del 2.º y 3.º bogie se encontraban tras el corazón de la aguja n.º 212, entre los pares de rieles de la vía n.º 210, junto al par de rieles izquierdo. Las ruedas izquierdas del 2.º, 3.º y 4.º bogie se encontraban entre la aguja derecha y la aguja izquierda de la aguja n.º 212;
-el frontal del HDV en la posición final tras el SE se encontraba a una distancia de
+destinados al transporte de mercancías;
+el frontal del HDV 363.058-9 en la posición final tras la MU se encontraba con el
 •
-35 m detrás del punto „0“;
-la circulación del HDV 363.058-9 se realizaba desde la cabina del maquinista II,
+frontal en el pk 182,594 descarrilado en todos los ejes. La rueda derecha de los bogies 1.º y 4.º se encontraba fuera del carril izquierdo de la SK n.º 210. La rueda izquierda del bogie 1.º se encontraba junto al carril izquierdo en la dirección de desvío de la aguja n.º 212. Las ruedas derechas de los bogies 2.º y 3.º se encontraban detrás del corazón de la aguja n.º 212, entre los carriles de la SK n.º 210, junto al carril izquierdo. Las ruedas izquierdas de los bogies 2.º, 3.º y 4.º se encontraban entre la lengüeta derecha e izquierda de la aguja n.º 212;
+el frontal del HDV en la posición final tras la MU se encontraba a una distancia de 35 m del
 •
-delantera en el sentido de circulación, que estaba ocupada únicamente por el maquinista;
-el equipo locomotor para comunicación por radio VRDS VS 67, junto con el VO79,
+punto "0";
+la circulación del HDV 363.058-9 era dirigida desde la cabina del conductor II, la
 •
-estaban funcionales y sin averías;
-como consecuencia de los golpes y la acción dinámica del HDV descarrilado,
+delantera en la dirección de circulación, que estaba ocupada únicamente por el conductor;
+el equipo locomotor para comunicación por radio VRDS VS 67, junto con el VO79, estaban
 •
-descarriló el TDV cargado Eas-u 31 54 5947 571-3, con el primer bogie del bogie b en el corazón de la aguja n.º 208, en el pk 182,509. El TDV en estado descarrilado recorrió una distancia de 0,5 m. La rueda derecha del primer bogie del bogie b en la posición final tras el SE se encontraba con el pestañón
-
+funcionales y sin averías;
+como consecuencia de los golpes y la acción dinámica del HDV descarrilado, se
+•
+descarriló el TDV cargado Eas-u 31 54 5947 571-3, con el bogie delantero b en el corazón de la aguja n.º 208, en el pk 182,509. El TDV en estado descarrilado recorrió una distancia de 0,5 m. La rueda derecha del bogie delantero b en la posición final tras la MU se encontraba con el flanco
 
 ## Página 19
+
 
 sobre el riel de rodadura derecho del corazón de la aguja n.º 208. La rueda izquierda del primer bogie del bogie b en la posición final tras el SE se encontraba con la superficie de rodadura sobre el riel de sujeción izquierdo de la aguja n.º 208;
 excepto el HDV y el 1.º TDV descarrilado tras el HDV, el resto de DV de la
@@ -642,6 +647,7 @@ la presunción de una relación causal directa con las deficiencias
 
 ## Página 20
 
+
 en el sistema de garantía organizativa o técnica de la explotación segura de la vía y del transporte ferroviario.
 Composición de la VI DI en el lugar de la MU:
 3x VI ÚI Ostrava.
@@ -665,8 +671,8 @@ jefe de estación de la estación de Přerov, empleado de SŽDC, s. o., OŘ Olom
 jefe de PJ TO Přerov jih, empleado de SŽDC, s. o., OŘ Olomouc, ST Olomouc.
 •
 
-
 ## Página 21
+
 
 2.2.2 Trenes y su composición, incluidos los números de registro de los distintos vehículos ferroviarios
 Tren/maniobra:
@@ -757,8 +763,8 @@ La estación de origen del tren Rn 50230 era la est. Ostrava hl. n. – andén i
 La est. Přerov se encuentra en el pk 183,483 de la vía ferroviaria, categoría nacional, Bohumín – Přerov, que en los tramos intermedios adyacentes es de doble vía, y en el tramo Bohumín – Huštěnovice está electrificada con tensión continua de 3 kV. La est. Přerov está dividida en el ámbito del andén de pasajeros y el ámbito del preandén.
 La est. Přerov está equipada con un SZZ de 3.ª categoría tipo ESA 11 con EIP con JOP, que es controlado a distancia por el despachador del CDP Přerov. En el ámbito de la estación se utilizan, para el control de la libertad u ocupación de los tramos de vía y para la interacción de los vehículos ferroviarios sobre el dispositivo de señalización, circuitos de vía de 275 Hz tipo KOA1 y contadores de ejes. La parte tecnológica del dispositivo de señalización está situada en el centro de enclavamiento, en el nuevo edificio del CDP Přerov. La parte de mando del dispositivo de señalización está situada en la nueva oficina de circulación de la est. Přerov, también en el edificio del CDP.
 
-
 ## Página 22
+
 
 La SK nº 18 se encuentra en el ámbito del andén de pasajeros, es vía de entrada, de salida y de paso, en toda su longitud con catenaria de TV, con la pendiente constructiva más desfavorable de 1,20 ‰ en el sentido de la circulación del tren Rn 50230/unidad de maniobras. En el lugar de la aparición de la MU la pendiente es de 1,20 ‰. En la misma pendiente se encuentra el extremo de entrada del ámbito del preandén.
 La SK nº 208 se encuentra en el ámbito del preandén, es vía de entrada y de salida, en toda su longitud con catenaria de TV, con la pendiente constructiva más desfavorable de 3,10 ‰ en el sentido de la circulación de la unidad de maniobras.
@@ -771,53 +777,49 @@ La velocidad máxima permitida de circulación de la DV en el lugar de la aparic
 del tren Rn 50230 el equipo TRS. El jefe de estación de la est. Přerov informó al maquinista de la finalización de la circulación del tren en la señal de ruta Lc18, con el indicio de que la siguiente circulación se realizaría en forma de maniobra, como maniobra sin cuadrilla de maniobras, en la SK nº 208.
 Asimismo informó al maquinista de que la señal principal (de ruta) Lc18 no se atiende para su circulación, de que la siguiente circulación será dirigida con las señales de agrupamiento Se203 y Se206 con la señalización «maniobra permitida» y de que debe sintonizar el VRDS a recepción simplex en el canal 18. El maquinista confirmó al jefe de estación de la est. Přerov la recepción de la información sobre la siguiente circulación desde la señal de ruta Lc18
 
-
 ## Página 23
 
-hasta la SK nº 208;
-9.58.00 h el maquinista de la unidad de maniobras utilizó el VRDS sintonizado a
+en la SK n.º 208, el jefe de estación de la estación de Přerov lo confirmó;
+9.58.00 h el maquinista de la maniobra VRDS utilizó la unidad de maniobra reconfigurada a simplejo
 •
-funcionamiento simplex para comunicar la aparición de la MU al jefe de estación de la est. Přerov.
-La comunicación entre el maquinista del tren Rn 50230/unidad de maniobras y el jefe de estación de la est. Přerov quedó registrada por el dispositivo de registro ReDat3 situado en el CDP Přerov.
+para comunicar la aparición de la UE al jefe de estación de la estación de Přerov.
+La comunicación entre el maquinista del tren Rn 50230/maniobra y el jefe de estación de la estación de Přerov quedó registrada por el dispositivo de registro ReDat3 situado en el CDP Přerov.
 ### 2.2.5 Trabajos realizados en el lugar del suceso excepcional y en sus proximidades
-En el lugar de la MU no se realizaban, inmediatamente antes de su aparición, por parte del propietario, del gestor de la vía ni de otras personas, ningún tipo de trabajos de reparación o de mantenimiento.
+En el lugar de la UE no se realizaron, inmediatamente antes de su aparición, por parte del propietario, del gestor de la vía ni de otras personas, trabajos de reparación o de mantenimiento alguno.
 ### 2.2.6 Activación del plan para el caso de suceso excepcional en la vía y secuencia de acontecimientos
-9.58 h el maquinista de la unidad de maniobras comunicó al jefe de estación de la
+9.58 h el maquinista de la maniobra comunicó al jefe de estación de la estación de Přerov
 •
-est. Přerov la aparición de la MU;
-9.59 h la aparición de la MU fue comunicada por el jefe de estación de la est. Přerov
+la aparición de la UE;
+9.59 h la aparición de la UE fue comunicada por el jefe de estación de la estación de Přerov conforme al horario de comunicaciones
 •
-según el horario de comunicaciones;
-10.13 h la aparición de la MU fue notificada por la persona autorizada del gestor de la
+;
+10.13 h la aparición de la UE fue notificada por la persona autorizada del gestor de la vía y del operador ferroviario en el COP DI;
 •
-vía y del transportista al COP DI;
-11.32 h precisión de las consecuencias de la MU por la persona autorizada del gestor
+11.32 h precisión de las consecuencias de la UE por la persona autorizada del gestor de la vía
 •
-de la vía y del transportista. En base a la precisión de las consecuencias, la DI retiró el consentimiento para la liberación de la vía;
-11.45 h salida de la VI DI al lugar de la aparición de la MU;
+y del operador ferroviario. Con base en la precisión de las consecuencias del DI se revocó el consentimiento para la liberación de la vía;
+11.45 h salida del VI DI al lugar de aparición de la UE;
 •
-12.45 h inspección del lugar de la aparición de la MU por empleados de la DI, PČR y
+12.45 h inspección del lugar de aparición de la UE por empleados del DI, la PČR y las personas autorizadas del gestor de la vía y del operador ferroviario;
 •
-personas autorizadas del gestor de la vía y del transportista;
-13.20 h se otorgó a la VI DI presente en el lugar de la MU el consentimiento para la
+13.20 h en el lugar de la UE se concedió al VI DI presente el consentimiento para la liberación de la vía;
 •
-liberación de la vía;
-18.30 h finalización de la inspección del lugar de la MU;
+18.30 h finalización de la inspección del lugar de la UE;
 •
-desde las 9.57 h del 2. 10. 2013 hasta las 13.17 h del día siguiente se limitó la
+desde las 9.57 h del 2. 10. 2013 hasta las 13.17 h del día siguiente se restringió la explotación
 •
-explotación del transporte ferroviario en parte del extremo de entrada del ámbito del preandén en la est. Přerov, concretamente en las agujas nº 208 y nº 212 y en la SK nº 210.
-En el lugar de la MU estaban presentes también los directivos de las distintas unidades organizativas del gestor de la vía y del transportista.
+del transporte ferroviario en parte de la entrada de la zona de la estación de Přerov, concretamente en los desvíos n.º 208 y n.º 212 y en la SK n.º 210.
+En el lugar de la UE estaban presentes también los directivos de las distintas divisiones organizativas del gestor de la vía y del operador ferroviario.
 ### 2.2.7 Activación del plan del sistema integrado de emergencia, de la policia y del servicio médico de emergencia y secuencia de acontecimientos
-El plan IZS fue activado por el supervisor de circulación del CDP a las 10.07 h tras la comunicación de la aparición de la MU por el jefe de estación de la est. Přerov.
-Al lugar de la MU acudieron los siguientes servicios:
+El plan IZS fue activado por el supervisor de explotación del CDP a las 10.07 h tras la comunicación de la aparición de la UE por el jefe de estación de la estación de Přerov.
+Al lugar de la UE acudieron los siguientes servicios:
 HZS SŽDC, s. o., JPO Přerov y Ostrava;
 •
 PČR, Distrito de Přerov II.
 •
 
-
 ## Página 24
+
 
 ## 2.3
 ### Fallecimientos, lesiones y daños materiales
@@ -861,45 +863,38 @@ durante la detención, el jefe de estación de la est. Přerov a través de
 
 ## Página 25
 
-VRDS informó de la finalización de la circulación del tren Rn 50230 en la señal principal (de vía) Lc18. A la vez, recibió el resumen de información para la realización segura de la maniobra en el SK n.º 208, incluida la información sobre la no atención de la señal principal (de vía) Lc18 y la concesión del permiso para la maniobra junto a dicha señal;
-a continuación, puso la formación de maniobra en movimiento. Las señales de clasificación Se203 y Se206 indicaron la señal «Maniobra permitida»;
+VRDS informó de la finalización de la circulación del tren Rn 50230 en la señal principal (de vía) Lc18. Simultáneamente recibió el resumen de informaciones para la realización segura de la maniobra en el SK n.º 208, incluida la información de que no se atiende la señal principal (de vía) Lc18 y la concesión del permiso para la maniobra alrededor de dicha señal;
+a continuación puso la composición de maniobra en movimiento. Las señales de clasificación Se203 y Se206 indicaron la señal «Maniobra permitida»;
 •
-al pasar por la entrada de la zona de la estación de andenes, tras la señal de clasificación Se206, registró una oscilación no estándar de la HDV, tras la cual la HDV descarriló. Ante la situación creada, reaccionó activando el frenado de acción rápida;
-inmediatamente después de la detención de la HDV descarrilada, es decir, tras la aparición de la MU, comunicó la aparición de la MU al jefe de estación de andenes de la est. Přerov y, a continuación, al maquinista de la PJ Ostrava.
+al pasar por la entrada de la zona de la estación de pasajeros, tras la señal de clasificación Se206, registró un balanceo no estándar de la HDV, tras el cual la HDV descarriló. Ante la situación creada reaccionó aplicando el frenado de acción rápida;
+inmediatamente después de la parada de la HDV descarrilada, es decir, tras la aparición de la MU, comunicó la aparición de la MU al jefe de estación de la estación de pasajeros de la est. Přerov y, a continuación, al maquinista de la PJ Ostrava.
 •
-jefe de estación de andenes de la est. Přerov – del Registro con el empleado se desprende, entre otras cosas:
-comunicó con el maquinista del tren Rn 50230/formación de maniobra situada en el SK n.º 18
+jefe de estación de la est. Přerov – del Registro con el empleado, entre otras cosas, se desprende:
+comunicó con el maquinista del tren Rn 50230/composición de maniobra situada en el SK n.º 18
 •
 mediante el TRS;
-finalizó la circulación del tren Rn 50230 en el SK n.º 18 debido a la realización de la intervención SZZ. La
+dio por finalizada la circulación del tren Rn 50230 por motivo de la realización de la intervención SZZ en el SK n.º 18. La vía de tren terminaba a la altura de la señal principal (de vía) Lc18. Esta indicaba la señal «Alto»;
 •
-vía de circulación terminaba a la altura de la señal principal (de vía) Lc18. Esta indicaba la señal «Alto»;
-la circulación posterior se realizó en forma de maniobra sin cuadrilla de maniobra. Concedió al
-•
-maquinista de la formación de maniobra el permiso para la maniobra en el SK n.º 208 y, a la vez, también el permiso para la maniobra junto a la señal Lc18 no atendida. Desde la altura de la señal de clasificación, la circulación de la formación de maniobra estuvo dirigida por las señales Se203 y Se206;
+la circulación posterior se realizó en forma de maniobra sin cuadrilla de maniobra. Al maquinista de la composición de maniobra le concedió la autorización para la maniobra en el SK n.º 208 y, simultáneamente, también el permiso para la maniobra alrededor de la señal no atendida Lc18. Desde la altura de la señal de clasificación, la circulación de la composición de maniobra fue dirigida por las señales Se203 y Se206;
 la vía de maniobra terminaba en el SK n.º 208 junto a la señal principal (de vía) Lc208;
 •
-tras la entrada de toda la formación de maniobra en el SK n.º 208, pretendía detener la formación de maniobra
+tras la entrada de toda la composición de maniobra en el SK n.º 208, pretendía parar la composición de maniobra con la orden dada mediante el ZRDS.
 •
-con la orden dada mediante el ZRDS.
-jefe de la PJ TO Přerov jih – del Registro con el empleado se desprende, entre otras cosas:
-realizaba las inspecciones y mediciones de la superestructura e infraestructura ferroviaria, incluido el SK n.º 18, el
+jefe de la PJ TO Přerov jih – del Registro con el empleado, entre otras cosas, se desprende:
+las inspecciones y mediciones de la superestructura e infraestructura ferroviaria, incluido el SK n.º 18, el desvío n.º 208, incluido el sector asignado en la est. Přerov, las realizaba en los intervalos de tiempo establecidos y en el alcance determinado por los procedimientos tecnológicos del explotador de la vía. Sus hallazgos y las medidas adoptadas las documentaba mediante registros en los documentos establecidos;
 •
-desvío n.º 208, incluida la zona asignada en la est. Přerov, en los intervalos de tiempo establecidos y en el ámbito determinado por los procedimientos tecnológicos del explotador de la vía. Documentaba sus hallazgos y las medidas adoptadas mediante registros en los documentos establecidos;
-antes de la aparición de la MU, no ordenó una inspección extraordinaria de vías y desvíos;
+antes de la aparición de la MU no ordenó la inspección extraordinaria de vías y desvíos;
 •
-a ST Olomouc se le ha ordenado una vigilancia reforzada de los desvíos con más de 20 años instalados en la
-•
-vía, lo que también afecta al desvío n.º 208.
+a ST Olomouc se le ha ordenado la vigilancia reforzada de los desvíos con más de 20 años instalados en la vía, lo que también afecta al desvío n.º 208.
 ### 3.1.2 Otras personas
-Otras personas no fueron participantes ni testigos de la MU en cuestión.
+Otras personas no fueron participantes ni testigos de la MU objeto de estudio.
 ## 3.2
 ### Sistema de garantía de seguridad
 ### 3.2.1 Organización marco y forma en que se emiten y ejecutan las órdenes
-El explotador de la vía SŽDC, s. o., y el transportista ČDC, a. s., cuentan con un sistema de garantía de seguridad adoptado con base en las disposiciones de la Ley n.º 266/1994 Sb.
-
+El explotador de la vía SŽDC, s. o., y el transportista ČDC, a. s., tienen aprobado un sistema de garantía de seguridad con base en las disposiciones de la ley n.º 266/1994 Sb.
 
 ## Página 26
+
 
 En el sistema de garantía de seguridad adoptado por el explotador de la vía SŽDC, s. o., y el transportista ČDC, a. s., relacionado con las circunstancias de la aparición de la MU en cuestión, no se detectó ningún defecto.
 ### 3.2.2 Requisitos para los empleados del explotador de la vía y del transportista y su aplicación
@@ -914,8 +909,8 @@ El transportista del tren Rn 50230/formación de maniobra fue ČDC, a. s., con d
 El transporte ferroviario se explotaba con base en el contrato «CONTRATO n.º 1268/10 sobre la explotación del transporte ferroviario en la vía de circulación ferroviaria de la vía nacional y de las vías regionales en propiedad de la República Checa», celebrado entre el explotador de la vía y el transportista el 31. 12. 2009, en vigor desde el 1. 1. 2010, en su versión vigente.
 En la interfaz entre los sujetos implicados no se detectó ningún defecto.
 
-
 ## Página 27
+
 
 ## 3.3
 ### Regulación legal y otra
@@ -953,8 +948,8 @@ Grado IL – umbral de intervención (reparación), para RP 0 para la velocidad 
 Los valores de las desviaciones operativas límite RK, ZR, … en el grado IAL son válidos …, para la medida sin carga son válidos con la condición de cumplir el valor de RK y ZR para RP0 hasta RP2 en el grado IL según la tabla 7. ...».
 En la investigación de la MU no se detectó el incumplimiento de las normas internas del transportista.
 
-
 ## Página 28
+
 
 ## 3.4
 ### Actividad del material rodante y de las instalaciones técnicas
@@ -969,6 +964,7 @@ La aguja derecha curvada del desvío n.º 208 se rompió a una distancia de 5,72
 
 ## Página 29
 
+
 de supervisión (la lengüeta del desvío, rota a una distancia de 5,72 m de su punta, al accionarse se comporta desde una posición alejada a una posición adyacente a la aguja de apoyo como si estuviera entera). El SZZ, tras comprobar la correcta colocación del itinerario de maniobras (de maniobra), es decir, también tras comprobar el correcto accionamiento del desvío n.º 208, permitió la colocación de la señal de clasificación Se206 en la señal «Maniobras permitidas».
 Se ha detectado una deficiencia.
 Hallazgo:
@@ -980,8 +976,8 @@ De las mediciones del superestructura ferroviaria en los desvíos n.º 208 y n.�
 • las magnitudes medidas de la anchura de vía (en adelante, RK) para la banda de velocidad RP0 en estado sin carga en los desvíos n.º 207 y n.º 208 no superaron en ningún punto de medición, desde el punto de medición «+30» hasta el punto «+5», las desviaciones operativas de la RK en el nivel IL – límite de intervención (en adelante, IL) ni las desviaciones operativas límite de la RK en el nivel IAL – límite de intervención inmediata (en adelante, IAL), indicadas en la Tabla 7 «Desviaciones operativas de las magnitudes RK, ZR, RK100, VL, VP, VK, SL, SP y SK Nivel IL – límite de intervención (reparación)» y en la Tabla 8 – «Desviaciones operativas límite de las magnitudes RK, ZR, RK100, VL, VP, VK, SL, SP y SK Nivel IAL – límite de intervención inmediata», que son aplicables a la vía dispuesta en arco, y en la Tabla 9 – «desviaciones operativas y operativas límite de las magnitudes +RK en vía recta» de la ČSN 73 6360-2/Z1;
 • las magnitudes calculadas de variación de la anchura de vía – deformación de la anchura de vía (en adelante, ZR), para la banda de velocidad RP0 en los desvíos n.º 207 y n.º 208, al medir la RK en estado sin carga:
 
-
 ## Página 30
+
 
 ◦ en el punto de medición «+9» (lengüeta del desvío n.º 207) se alcanzó la desviación operativa límite de la ZR en el nivel IAL (+7 mm/2 m);
 ◦ en los puntos de medición «+5» y «+4» (parte desprendida de la lengüeta derecha del desvío n.º 208) se superó la desviación operativa límite de la ZR en el nivel IAL en +3 mm/2 m;
@@ -996,8 +992,8 @@ Los valores de la ZK calculados a partir de las magnitudes medidas de la PK en e
 • mediante la medición de la altura y la anchura de la cabeza de la lengüeta se constató que los valores de desgaste vertical y lateral no superan el valor del mayor desgaste permitido de los carriles y de los carriles de lengüeta de forma S49.
 La lengüeta derecha curva del desvío n.º 208 fue fabricada en el año 1990 por la empresa «DT výhybkárna a mostárna, spol. s r. o.», actualmente «DT - Výhybkárna a strojírna, a.s.», y corresponde a la hoja de modelo de los ČSD Superestructura ferroviaria «Hoja de modelo n.º 152.345d y n.º 152.346d Desvío simple de forma JS49-1:7,5-190 sobre traviesas de madera – lengüeta curva y recta» y a los requisitos de la norma ČSD S 3 sobre el acero para la fabricación de lengüetas y carriles de desvíos de calidad 95 ČSD-Vk con resistencia a la tracción  900 Mpa ≥ Rm > 1100 MPa y ductilidad A5 ≥ 8 %. Al investigar las causas y circunstancias de la producción del MU no fue posible verificar los resultados de la verificación de calidad, incluidos los resultados de las pruebas realizadas, por parte del gestor de la infraestructura ferroviaria, de las lengüetas de desvío suministradas por el fabricante DT výhybkárna a strojírna, a. s., porque el gestor de la infraestructura ferroviaria las archiva
 
-
 ## Página 31
+
 
 únicamente durante el plazo de garantía de la lengüeta, véase el punto 6 Recomendaciones de seguridad. Este plazo, en relación con la fecha de fabricación de la lengüeta en cuestión, venció en el año 1995. Tampoco se logró localizar estos documentos en el fabricante, porque el fabricante archiva estos documentos durante 20 años, es decir, el plazo de archivo venció en el año 2010; el fabricante no localizó la documentación correspondiente del carril de lengüeta marcado con la marca en el talón del carril TŽ 90 S49 46847 H.
 Para garantizar la operatividad de la infraestructura ferroviaria y la seguridad del transporte ferroviario, antes de la producción del MU, en el lugar de producción del MU, el gestor de la infraestructura ferroviaria realizó inspecciones y mediciones de las obras de la infraestructura ferroviaria de conformidad con lo dispuesto en el § 26, apartados 1 y 2, del decreto n.º 177/1995 Sb. La última inspección por control de defectos de la lengüeta derecha curva del desvío n.º 208 con un detector de defectos ultrasónico e inspección visual de la lengüeta fue realizada por el gestor de la infraestructura ferroviaria el día 15. 10. 2012, con validez hasta el 15. 10. 2014. El gestor de la infraestructura ferroviaria no detectó deficiencias.
@@ -1018,6 +1014,7 @@ Mediante el ensayo de impacto por flexión se detectaron valores extremadamente 
 ◦ la heterogeneidad de las propiedades mecánicas, de la macroestructura y de la microestructura en las inmediaciones del lugar de fractura de la lengüeta;
 
 ## Página 32
+
 
 ### alta susceptibilidad del material a los impactos de las pestañas de las ruedas de los DV que pasan
 ◦
@@ -1045,8 +1042,8 @@ ZRDS TOP1, incl. X1467296, situada en el puesto de trabajo del jefe de estación
 VRDS VS 67 + VO79, n.º 1058, HDV 363.058-9 del tren Rn 50230/de la unidad de maniobras.
 El uso de los medios de comunicación antes y después de la aparición de la MU no guardaba relación con la causa de la aparición de la MU.
 
-
 ## Página 33
+
 
 ### 3.4.4 Vehículos ferroviarios, incluidos los dispositivos de registro automático de datos
 El HDV 363.058-9 que circulaba a la cabeza del tren Rn 50230/de la unidad de maniobras contaba con un Certificado de aptitud de vehículo ferroviario válido, n.º de expediente: 3327/05-V.03, emitido por el DÚ el 22. 12. 2005. La última revisión técnica ordinaria (TK) antes de la aparición de la MU se realizó, de conformidad con el § 44 apartado 1 de la ley n.º 266/1994 Sb., el 28. 8. 2013 con vigencia hasta el 28. 3. 2014. Tras la verificación del estado técnico del HDV después de la MU, en particular de su eje, se constató que el HDV era utilizado por el transportista ČDC, a. s., en un estado técnico que correspondía a la aptitud aprobada.
@@ -1068,8 +1065,8 @@ No se detectaron deficiencias.
 ### 3.5.1 Medidas adoptadas por los empleados del gestor de la infraestructura y del transportista en materia de conducción, señalización y seguridad del tráfico
 El 2. 10. 2013 se estaba llevando a cabo en la estación de Přerov la activación del nuevo SZZ tipo ESA 11, según ROV 15002, fases D y D1. Por este motivo, el jefe de estación de la estación de Přerov tenía previsto finalizar la circulación del tren Rn 50230 en la estación de Přerov en el SK n.º 18 y continuar en la siguiente circulación en el SK n.º 208 del sector de aproximación en forma de maniobra sin cuadrilla de maniobras. La ruta de circulación (de maniobras) fue establecida por el jefe de estación de la estación de Přerov, mediante la operación normal del SZZ tipo ESA 11 desde el JOP, situado en el edificio CDP Přerov, desde el SK n.º 18 alrededor de la señal principal (de circulación) Lc18, que no era operada y mostraba la señal "Alto", a través de la aguja n.º 81, que estaba asegurada
 
-
 ## Página 34
+
 
 por el cierre de emergencia del SZZ, hasta la señal de agrupamiento Se203, desde la señal de agrupamiento Se203 a través de las agujas n.º 82, n.º 202 y n.º 207, que estaban aseguradas por el cierre de la ruta de maniobras, hasta la señal de agrupamiento Se206, desde la señal de agrupamiento Se206 a través de las agujas n.º 208 y n.º 212, que estaban aseguradas por el cierre de la ruta de maniobras en el SK n.º 208. Tras la realización de los cierres de las rutas de maniobras, las señales de agrupamiento Se203 y Se206 mostraron con luz blanca la señal "Maniobras permitidas".
 Durante la circulación del tren Rn 50230 por el SK n.º 18, cuando el tren se aproximaba a la señal principal (de circulación) Lc18, que mostraba la señal "Alto", el jefe de estación de la estación informó al maquinista del tren Rn 50230, mediante el dispositivo de telecomunicaciones TRS, de la finalización de la circulación del tren en el SK n.º 18 y de la siguiente circulación en forma de maniobras en el SK n.º 208. El jefe de estación informó además al maquinista de que la señal principal (de circulación) Lc18 no era operada y concedió al maquinista, es decir, al empleado que dirigía la maniobra, el permiso para realizar la maniobras alrededor de dicha señal. La siguiente circulación de la unidad de maniobras en el SK n.º 208 fue permitida por las señales de agrupamiento Se203 y Se206.
@@ -1088,32 +1085,27 @@ maquinista del tren (Rn 50230) de la unidad de maniobras, en el turno del 2. 10.
 jefe de estación de la estación de Přerov, en el turno del 2. 10. 2013 desde las 5.30 h, descanso previo al turno de 48 h.
 Los empleadores SŽDC, s. o., y ČDC, a. s., garantizaron las condiciones para el descanso previo al turno de conformidad con el § 90 de la ley n.º 262/2006 Sb., respectivamente el § 14 apartado 2 del decreto gubernamental n.º 589/2006 Sb., por el que se establece la regulación diferenciada de la jornada laboral y del tiempo de descanso de los empleados en el transporte.
 
-
 ## Página 35
 
-3.6.2 Estado de salud y situación personal que influyeron en la incidencia, incluido el estrés físico o psicológico
-Los empleados participantes del gestor de la infraestructura SŽDC, s. o., y del transportista ČDC, a. s., estaban, en el momento de la aparición de la MU, médicamente aptos para el desempeño de la función que ocupaban. La investigación no constató que la aparición de la MU estuviera influida por la situación personal o el estado psicológico de las personas que participaron en la MU.
-3.6.3 Disposición y equipamiento del puesto de mando o del vehículo que influye en su manejo y uso
-La disposición y el equipamiento de los puestos de mando de los empleados del gestor de la infraestructura SŽDC, s. o., y del transportista ČDC, a. s., no guardaban relación con la aparición de la MU.
+3.6.2 Estado de salud y situación personal que influyeron en el suceso ferroviario, incluido el estrés físico o psicológico
+Los empleados implicados de la empresa gestora de la infraestructura SŽDC, s. o., y del transportista ČDC, a. s., se encontraban, en el momento de producirse el SU, en condiciones de salud adecuadas para el desempeño de la función que ocupaban. La investigación no determinó que la situación personal o el estado psicológico de las personas implicadas en el SU hubieran influido en la producción del SU.
+3.6.3 Disposición del equipamiento del puesto de mando o del vehículo que influye en su manejo y utilización
+La disposición y el equipamiento de los puestos de mando de los empleados de la empresa gestora de la infraestructura SŽDC, s. o., y del transportista ČDC, a. s., no guardaron relación con la producción del SU.
 ## 3.7
-### Incidencias anteriores de carácter similar
-El DI registra en el periodo desde el 1. 1. 2006 hasta la aparición de la MU en cuestión, en las vías férreas de categoría nacional y regional, 9 MU similares a continuación indicadas:
-•
-el 17. 10. 2006 descarrilaron 6 DV en la parte trasera del tren Nex 47338 por la fractura de la lengüeta recta izquierda de la aguja n.º 3 en la estación de Děčín východ. La riel de lengüeta fue fabricada en 1987. La causa de la aparición de la MU fue la fractura de la riel de lengüeta. En la superficie de fractura de la riel de lengüeta, en el lugar del borde del talón de la riel, se detectó una grieta de fatiga iniciadora y el incumplimiento de la calidad del material de acero utilizado para la fabricación de la riel;
-•
-el 17. 2. 2007 descarrilaron el HDV y 5 DV del tren EC 107 por la fractura de la lengüeta recta izquierda de la aguja n.º 2 en la aguja de desvío de Praha-Vítkov. La riel de lengüeta fue fabricada en 1973. La causa de la aparición de la MU fue la fractura de la riel de lengüeta. En la superficie de fractura se detectó una grieta iniciadora en el borde del talón de la riel y un defecto de fabricación;
-•
-el 1. 3. 2007 descarrilaron DV durante una maniobra por la fractura de la lengüeta derecha de la aguja n.º 115 en la estación de České Budějovice. La causa de la aparición de la MU fue la fractura de la riel de lengüeta. La riel de lengüeta fue fabricada en 1991. En la superficie de fractura, en el lugar del borde del talón de la riel, se detectó una grieta iniciadora antigua;
-•
-el 12. 11. 2009 descarrilaron 7 DV del tren Ex 143 por la fractura de la lengüeta curva izquierda de la aguja n.º 460 en la estación de Praha-Vršovice. La riel de lengüeta fue fabricada en 1988. La causa de la aparición de la MU fue la fractura de la riel de lengüeta. En la superficie de fractura se detectó una fractura iniciadora antigua;
-•
-el 22. 1. 2011 descarrilaron el HDV y 3 TDV del tren de mercancías Rn 52336 por la fractura de la lengüeta de la aguja n.º 43 en la estación de Brno-Maloměřice. La riel de lengüeta fue fabricada en 1988. La causa de la aparición de la MU fue la fractura de la riel de lengüeta. En la superficie de fractura de la riel de lengüeta, en la superficie lateral del talón de la riel, se detectó una grieta de fatiga iniciadora.
-El DI, entre otros, constató la realización deficiente de las rondas de inspección y de la revisión de las agujas, la no realización del mantenimiento de la lengüeta y del soporte de la aguja n.º 43 y la eliminación ficticia de la avería – la avería fue eliminada por el gestor de la infraestructura únicamente de forma administrativa.
-Sobre la base de los resultados de la investigación de las causas y circunstancias de la aparición de la MU indicada, el DI emitió una recomendación de seguridad, n.º ref.: 5-759/2011/DI, de fecha 24. 10. 2011, en la que recomendó:
-al gestor de la infraestructura SŽDC, s. o.:
+### Sucesos ferroviarios anteriores de carácter similar
+La DI registra, en el periodo comprendido entre el 1 de enero de 2006 y la fecha de producción del SU objeto de estudio, en las vías ferroviarias de categoría nacional y regional, 9 SU similares a continuación indicados:
+• el 17 de octubre de 2006, se descarrilaron 6 DV en la parte trasera del tren Nex 47338 por rotura de la lengüeta recta izquierda del desvío n.º 3 en la estación Děčín východ. La lengüeta se fabricó en 1987. La causa de la producción del SU fue la rotura de la lengüeta. En la superficie de rotura de la lengüeta, en el lugar del borde del talón del carril, se detectó una grieta de fatiga iniciadora y se constató el incumplimiento de la calidad del material de acero utilizado para la fabricación del carril;
+• el 17 de febrero de 2007, se descarrilaron el HDV y 5 DV del tren EC 107 por rotura de la lengüeta recta izquierda del desvío n.º 2 en la aguja de enlace Praha-Vítkov. La lengüeta se fabricó en 1973. La causa de la producción del SU fue la rotura de la lengüeta. En la superficie de rotura se detectó una grieta iniciadora en el borde del talón del carril y un defecto de fabricación;
+• el 1 de marzo de 2007, se descarriló un DV durante maniobras de maniobra por rotura de la lengüeta derecha del desvío n.º 115 en la estación České Budějovice. La causa de la producción del SU fue la rotura de la lengüeta. La lengüeta se fabricó en 1991. En la superficie de rotura, en el lugar del borde del talón del carril, se detectó una grieta iniciadora anterior;
+• el 12 de noviembre de 2009, se descarrilaron 7 DV del tren Ex 143 por rotura de la lengüeta curva izquierda del desvío n.º 460 en la estación Praha-Vršovice. La lengüeta se fabricó en 1988. La causa de la producción del SU fue la rotura de la lengüeta. En la superficie de rotura se detectó una fractura iniciadora anterior;
+• el 22 de enero de 2011, se descarrilaron el HDV y 3 TDV del tren de mercancías Rn 52336 por rotura de la lengüeta del desvío n.º 43 en la estación Brno-Maloměřice. La lengüeta se fabricó en 1988. La causa de la producción del SU fue la rotura de la lengüeta. En la superficie de rotura de la lengüeta, en la superficie lateral del talón del carril, se detectó una grieta de fatiga iniciadora.
+La DI, entre otros extremos, constató la realización inconsistente de los recorridos de inspección y de las revisiones de los desvíos, la no realización del mantenimiento de la lengüeta y del soporte del desvío n.º 43 y la eliminación ficticia de la avería —la avería fue eliminada por la empresa gestora de la infraestructura únicamente de forma administrativa.
+En base a los resultados de la investigación de las causas y circunstancias de producción del SU indicado, la DI emitió una recomendación de seguridad, n.º de expediente: 5-759/2011/DI, de fecha 24 de octubre de 2011, en la que recomendó:
+a la empresa gestora de la infraestructura SŽDC, s. o.:
 ◦
 
 ## Página 36
+
 
 para todos los lenguajes que llevan más de 15 años en servicio, acortar los plazos
 ▪
@@ -1187,8 +1179,8 @@ en todos los lenguajes de aguja que lleven más de 15 años en servicio,
 realizar siempre, para la detección de defectos ocultos, una inspección por
 defectoscopia con sonda angular o
 
-
 ## Página 37
+
 
 con otro dispositivo más eficaz;
 al adoptar medidas tras una MU, evaluar siempre las deficiencias (riesgos) en el
@@ -1247,57 +1239,21 @@ apareció una fisura o fisura inicial del lenguaje que no era detectable con la
 tecnología de inspección utilizada por el gestor de la vía. Esta fisura inicial
 desembocó siempre en la rotura del lenguaje.
 
-
 ## Página 38
 
 ### 4 ANÁLISIS Y CONCLUSIONES
 ## 4.1
 ### Descripción final del suceso ferroviario
-### 4.1.1 Descripción final del suceso ferroviario sobre la base de los hechos
-detectados en el punto 3
-El 2. 10. 2013 se estaba realizando en la estación de Přerov la activación del nuevo
-SZZ tipo ESA 11, según ROV 15002, fases D y D1. Por este motivo, el jefe de estación
-de la estación de Přerov tenía previsto finalizar la circulación del tren Rn 50230 en la
-estación de Přerov en la SK n.º 18 y continuar en la siguiente circulación en la SK
-n.º 208 del sector de la estación en forma de maniobra sin cuadrilla de maniobras. El
-jefe de estación de la estación de Přerov estableció la vía de circulación (maniobra)
-mediante el servicio normal del SZZ tipo ESA 11 desde el JOP, situado en el edificio
-CDP Přerov, desde la SK n.º 18 alrededor de la señal principal (de vía) Lc18, que no
-se servía y mostraba la señal «Alto», a través de la aguja n.º 81, que estaba asegurada
-con el cierre de emergencia del SZZ, hasta la señal de clasificación Se203. Desde la
-señal de clasificación Se203 a través de las agujas n.º 82, n.º 202 y n.º 207, que
-fueron aseguradas a las 9.46.03 h con el cierre de la vía de maniobra, hasta la señal
-de clasificación Se206. Desde la señal de clasificación Se206 a través de las agujas
-n.º 208 y n.º 212, que fueron aseguradas a las 9.46.14 h con el cierre de la vía de
-maniobra en la SK n.º 208. Tras la realización de los cierres de las vías de maniobra,
-las señales de clasificación Se203 desde las 9.46.05 h y Se206 desde las 9.46.16 h
-mostraron con luz blanca la señal «Maniobra permitida».
-Durante la circulación del tren Rn 50230 por la SK n.º 18, cuando el tren se
-aproximaba a la señal principal (de vía) Lc18, que mostraba la señal «Alto», el jefe de
-estación informó al maquinista del tren Rn 50230 por medio del dispositivo de
-telecomunicaciones TRS de la finalización de la circulación del tren en la SK n.º 18
-y de la siguiente circulación en forma de maniobra en la SK n.º 208. El jefe de
-estación informó además al maquinista de que la señal principal (de vía) Lc18 no se
-servía y concedió al maquinista, es decir, al empleado que dirigía la maniobra, el
-permiso para la maniobra alrededor de dicha señal. La siguiente circulación de la
-sección de maniobra en la SK n.º 208 fue permitida por las señales de clasificación
-Se203 y Se206. El maquinista, tras la instrucción de permiso para la maniobra, puso
-la sección de maniobra en movimiento a las 9.56.27 h. Al pasar por la entrada del
-sector de la estación, por la aguja n.º 208, rodando contra el canto por la rama
-desviada a la izquierda, el HDV 363.058-9 descarriló a las 9.57.51 h, a una velocidad
-de 16 km·h-1, sobre el lenguaje de aguja derecho curvado roto tras el paso de los
-flancos y superficies de rodadura de las ruedas derechas sobre el borde de la
-superficie de rotura. El maquinista reaccionó ante la situación producida aplicando
-frenado de acción rápida. Como consecuencia de los golpes y la acción dinámica del
-HDV descarrilado, también descarriló el TDV Eas-u 31 54 5947 571-3, acoplado como
-1.º TDV tras el HDV, en el sentido de circulación de la sección de maniobra, con el
-primer eje del primer bogie. El HDV 363.058-9 se encontraba en la posición final de la
-MU con el morro en el km 182,594, es decir, 35 m detrás del lugar de aparición de la
-MU, con las ruedas derechas en la SK n.º 210 y las ruedas izquierdas en la sección de
-cambio de la aguja n.º 212.
-En la MU no se produjeron daños personales.
+### 4.1.1 Descripción final del suceso ferroviario basada en los hechos constatados
+en el punto 3
+El 2 de octubre de 2013 se estaba llevando a cabo en la estación de Přerov la activación de un nuevo SZZ tipo ESA 11, conforme a ROV 15002, fases D y D1. Por este motivo, el jefe de estación de la estación de Přerov tenía previsto finalizar la circulación del tren Rn 50230 en la estación de Přerov en el SK n.º 18 y continuar en la siguiente circulación en el SK n.º 208 del ámbito de la estación en forma de maniobra sin cuadrilla de maniobras. La ruta de circulación (de maniobra) fue establecida por el jefe de estación de la estación de Přerov mediante el servicio normal del SZZ tipo ESA 11 desde el JOP, situado en el edificio CDP Přerov, desde el SK n.º 18 alrededor de la señal principal (de vía) Lc18, que no se atendía y mostraba la señal «Alto», a través de la aguja n.º 81, que estaba asegurada con el enclavamiento de emergencia del SZZ, hasta la señal de clasificación Se203. Desde la señal de clasificación Se203 a través de las agujas n.º 82, n.º 202 y n.º 207, que fueron aseguradas a las 9.46.03 h con el enclavamiento de la ruta de maniobra, hasta la señal de clasificación Se206. Desde la señal de clasificación Se206 a través de las agujas n.º 208 y n.º 212, que fueron aseguradas a las 9.46.14 h con el enclavamiento de la ruta de maniobra en el SK n.º 208. Tras la realización de los enclavamientos de las rutas de maniobra, las señales de clasificación Se203 desde las 9.46.05 h y Se206 desde las 9.46.16 h indicaron con luz blanca la señal «Maniobra permitida».
+Durante la circulación del tren Rn 50230 por el SK n.º 18, cuando el tren se aproximaba a la señal principal (de vía) Lc18, que indicaba la señal «Alto», el jefe de estación informó al maquinista del tren Rn 50230 por medio del equipo de telecomunicaciones TRS de la finalización de la circulación del tren en el SK n.º 18 y de la siguiente circulación en forma de maniobra en el SK n.º 208. El jefe de estación informó además al maquinista de que la señal principal (de vía) Lc18 no se atendía y concedió al maquinista, es decir, al empleado que dirigía la maniobra, el permiso para la maniobra alrededor de esta señal. La siguiente circulación del tramo de maniobra en el SK n.º 208 fue permitida por las señales de clasificación Se203 y Se206.
+El maquinista, tras la instrucción de permiso de maniobra, puso el tramo de maniobra en movimiento a las 9.56.27 h.
+Al pasar por la entrada del ámbito de la estación, por la aguja n.º 208, circulada en sentido contrario al punto de la aguja por la rama de desviación a la izquierda, el HDV 363.058-9 a las 9.57.51 h, a una velocidad de 16 km·h-1, descarriló sobre la lengüeta curva derecha rota de la aguja tras el paso de los bordes y de las superficies de rodadura de las ruedas derechas sobre el borde de la superficie de rotura. El maquinista reaccionó a la situación producida aplicando el frenado de acción rápida. Como consecuencia de los golpes y de la acción dinámica del HDV descarrilado, descarriló también el TDV Eas-u 31 54 5947 571-3, enganchado como 1.º TDV tras el HDV, en el sentido de circulación del tramo de maniobra, por el primer eje del primer bogie. El HDV 363.058-9 se encontraba en la posición final del MU con el morro en el km 182,594, es decir, a 35 m del lugar de origen del MU, con las ruedas derechas en el SK n.º 210 y con las ruedas izquierdas en la parte de cambio de la aguja n.º 212.
+En el MU no se produjeron daños personales.
 
 ## Página 39
+
 
 ## 4.2
 ### Análisis
@@ -1310,8 +1266,8 @@ Mediante el examen metalográfico de la lengüeta derecha curva fracturada del d
 Para garantizar la explotabilidad de la infraestructura y la seguridad del tráfico ferroviario, antes de la producción del SU en el lugar de producción del SU, el gestor de la infraestructura SŽDC, s. o., realizó inspecciones y mediciones de las obras de la infraestructura de conformidad con lo dispuesto en los apartados 1 y 2 del artículo 26 del decreto n.º 177/1995 Sb.
 La última inspección de detección de defectos de la lengüeta derecha curva del desvío n.º 208 con detector de defectos ultrasónico e inspección visual de la lengüeta fue realizada por el gestor de la infraestructura el día 15. 10. 2012, con validez hasta el 15. 10. 2014. El gestor de la infraestructura no detectó anomalías. Las deficiencias en las propiedades mecánicas de la lengüeta derecha curva del desvío
 
-
 ## Página 40
+
 
 n.º 208 en el lugar de la forja de transición del perfil de la lengüeta al perfil del raíl, el gestor de la infraestructura, en el marco de las inspecciones y mediciones periódicas, incluidas las inspecciones con métodos no destructivos, no las detectó ni podía detectarlas, porque en el lugar de la fractura de la lengüeta no existen defectos internos del material, véase más arriba.
 El HDV 363.058-9 y el TDV Eas-u 31 54 5947 571-3 que se descarrilaron, en el momento de la producción del SU, eran utilizados por el transportista de conformidad con el apartado 1, letra d), del artículo 35 de la ley n.º 266/1994 Sb., en un estado técnico que correspondía a la aptitud aprobada. No se superó la velocidad máxima permitida de la unidad de maniobras de 40 km·h-1. El maquinista de la unidad de maniobras, de conformidad con el apartado 1, letra f), del artículo 35 del decreto n.º 173/1995 Sb., vigilaba la vía, las señales y actuó de forma oportuna y correcta según los hechos constatados.
@@ -1333,8 +1289,8 @@ de la estación de ferrocarril de Přerov en el lugar de la forja de transición
 ### 4.3.3 Causas derivadas del marco normativo y del uso del sistema de garantía de la seguridad
 Las causas del suceso excepcional derivadas del marco normativo y del uso del sistema de seguridad no fueron constatadas por la Inspección Ferroviaria.
 
-
 ## Página 41
+
 
 ## 4.4
 ### Hallazgos complementarios
@@ -1359,8 +1315,8 @@ en la inspección visual de las lengüetas de los desvíos en el marco de las in
 comisionales periódicas de los desvíos en el entorno de ST Olomouc y Zlín, centrar la atención en el lugar de la forja de transición del perfil de la lengüeta al perfil del raíl.
 El transportista ČDC, a. s., en relación con el SU, no adoptó ni emitió ninguna medida.
 
-
 ## Página 42
+
 
 ### 6 RECOMENDACIONES DE SEGURIDAD
 La Inspección Ferroviaria, como autoridad administrativa competente en la materia de acuerdo con lo dispuesto en el apartado 5 del artículo 53b de la ley n.º 266/1994 Sb., de ferrocarriles, en su redacción vigente, sobre la base del resultado de la investigación de las causas y circunstancias de la producción del suceso excepcional, recomienda al gestor de la infraestructura, Administración de la Infraestructura Ferroviaria de Transporte, organización estatal:
@@ -1382,38 +1338,38 @@ inspector jefe
 de la Inspección Territorial de Ostrava
 de la Inspección Territorial de Ostrava
 
-
 ## Página 43
+
 
 ### 7 ANEXOS
 Fig. n.º 3: Vista desde el frontal trasero del HDV 363.058-9 del lado derecho del HDV descarrilado
 Fuente: Inspección Ferroviaria
 Fig. n.º 4: Vista del lado izquierdo del HDV 363.058-9 descarrilado          Fuente: Inspección Ferroviaria
 
-
 ## Página 44
+
 
 Fig. n.º 5: Vista del eje 1.º descarrilado del TDV Eas-u 31 54 5947 571-3
        Fuente: Inspección Ferroviaria
 Fig. n.º 6: Vista de la fractura de la lengüeta derecha curva del desvío n.º 208 de la est. de Přerov – entorno de la estación
                       Fuente: Inspección Ferroviaria
 
-
 ## Página 45
+
 
 Fig. n.º 7: Vista de la fractura de la lengüeta derecha curva del desvío n.º 208 a una distancia de 5,72 m de la punta de la lengüeta
                          Fuente: Inspección Ferroviaria
 Fig. n.º 8: Vista de la fractura de la lengüeta derecha curva del desvío n.º 208 con las marcas visibles de las ruedas en el lomo de la lengüeta
          Fuente: Inspección Ferroviaria
 
-
 ## Página 46
+
 
 Fig. n.º 9: Vista de la superficie de fractura de la lengüeta derecha curva del desvío n.º 208 adyacente a la raíz de la lengüeta
               Fuente: Inspección Ferroviaria
 
-
 ## Página 47
+
 
 Fig. n.º 10: Vista de la superficie de fractura de la lengüeta derecha curva del desvío n.º 208 adyacente a la punta de la lengüeta
                                          Fuente: Inspección Ferroviaria

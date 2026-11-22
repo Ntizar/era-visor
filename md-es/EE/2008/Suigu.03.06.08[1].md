@@ -10,13 +10,14 @@ chars: 52119
 ratio_longitud: 1.27
 tokens_in: 23373
 tokens_out: 15310
-verificacion: revisar
-notas_cifras: ["bloque 1: cifras cortas: 3/51", "bloque 2: original bilingüe: se compara contra el idioma principal (HU); cifras cortas: 4/46", "bloque 4: original bilingüe: se compara contra el idioma principal (FI)", "bloque 5: cifras cortas: 3/74"]
-avisos: ["bloque 3: cifras largas: faltan 3/14 (21%)"]
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: cifras cortas: 1/2", "página 2: cifras cortas: 1/28", "página 3: cifras cortas: 1/18", "página 4: cifras cortas: 2/8", "página 5: original bilingüe: se compara contra el idioma principal (HU); cifras cortas: 2/37", "página 7: original bilingüe: se compara contra el idioma principal (FI)"]
 ---
+
 ## Página 1
+
 
 INFORME DE INVESTIGACIÓN DE ACCIDENTE FERROVIARIO
 Accidente ferroviario
@@ -32,6 +33,7 @@ Tallin
 2008
 
 ## Página 2
+
 
 # 1. RESUMEN
 1. La colisión entre el tren de pasajeros n.º 0238 y el automóvil Toyota Corolla se produjo el 3 de junio de 2008 a las 17:34 en el paso a nivel de Suigu, sin equipamiento automático, situado en el tramo entre las estaciones de Pärnu y Tootsi.
@@ -53,6 +55,7 @@ A efectos de conocimiento, el informe de investigación se remitirá a la Agenci
 
 ## Página 3
 
+
 El arado de nieve fue arrancado de sus puntos de fijación. El arado de nieve, la pintura exterior del bastidor del vagón y la viga de la bobina de recepción de códigos AVS resultaron dañados.
 5. Los daños de la locomotora motriz del tren de pasajeros impidieron que el tren pudiera continuar su viaje según el horario. Los viajeros fueron trasladados a su destino con la ayuda de un autobús convocado expresamente para ello.
 6. El tren permaneció detenido en el lugar del accidente durante 2 horas y 2 minutos, lo que provocó la detención durante 29 minutos de un tren de pasajeros que circulaba en sentido contrario.
@@ -70,6 +73,7 @@ A 230 m del paso a nivel, es decir, a 61 m del automóvil, hacia Pärnu, se enco
 
 ## Página 4
 
+
 Se solicitó la asistencia de la ambulancia, el servicio de rescate y la policía en el lugar del suceso. La ambulancia constató el fallecimiento de la víctima del accidente; el servicio de rescate prestó asistencia a la policía para eliminar las consecuencias del accidente, y la policía inició la investigación del caso.
 El Departamento de Gestión de Crisis del Ministerio de Economía y Comunicaciones recibió, por parte del Departamento de Seguridad Ferroviaria de la Agencia de Supervisión Técnica, un aviso sobre el accidente ocurrido a primera hora del 6 de junio de 2008. La Unidad de Investigación de Accidentes Ferroviarios precisó la información preliminar sobre el caso y decidió iniciar la investigación del accidente. La Unidad de Investigación informó a la Agencia Ferroviaria Europea, el 6 de junio, sobre el inicio de la investigación. La investigación la lleva a cabo el especialista principal del Departamento de Gestión de Crisis, Jüri Olde, en el marco de las funciones del investigador responsable. El investigador responsable colabora con la empresa ferroviaria, la policía y otras instituciones, empresas y organizaciones, y, basándose en el análisis de la información recopilada, elabora el informe de investigación del accidente, en el que propone medidas para aumentar la seguridad del tráfico y reducir la ocurrencia de incidentes similares en el futuro.
 # 2.2 Antecedentes del caso
@@ -81,8 +85,8 @@ Un vehículo de motor Toyota Corolla de color rojo, de propiedad particular, con
 Tras el accidente, el Toyota Corolla
 El paso a nivel de Suigu se encuentra en la infraestructura de Edelaraudtee Infrastruktuuri AS, en la línea principal entre Tootsi y la estación de Pärnu, en el punto kilométrico 120,006 km. Por el paso a nivel circula una sola vía férrea y está clasificado como categoría III. La frecuencia de circulación de los trenes es de 6 trenes
 
-
 ## Página 5
+
 
 diarios, y la frecuencia de tráfico de vehículos de motor es de 620 unidades diarias. La velocidad máxima permitida para los trenes de pasajeros es de 80 km/h, y para el tráfico de vehículos de motor, de 90 km/h.
 Desde la dirección de aproximación del tren, la visibilidad hacia el paso a nivel es de 500 m. Según las normas, se han instalado señales de aviso de paso a nivel con campana. El conductor del vehículo tenía una visibilidad de 400 m hacia la dirección de aproximación del tren, a una distancia de 50 m del carril más cercano, y la visibilidad era similar a una distancia de 8 m.
@@ -100,26 +104,21 @@ El daño en el riel del vagón líder
 
 ## Página 6
 
-El perro del vehículo sufrió graves heridas, concretamente fracturas óseas.
-En la locomotora del tren diésel DR1BJ-3718, vagón piloto DR1BJ-2714, se identificó una tubería rota del circuito de alimentación y de frenado, las mangueras extremas, el rastrillo de nieve se había desgarrado de sus puntos de fijación, habiendo sufrido daños. La parte frontal izquierda del exterior del chasis presentaba daños en la pintura en una extensión de 1,5 m²; estaba dañada la viga de la parte receptora de los códigos AVS y estaba rota la linterna del parachoques. Los costes de reparación ascendieron en total a 183 196 coronas.
-La empresa incurrió en gastos adicionales al contratar un autobús suplementario para el transporte de los pasajeros hasta su destino, lo que supuso 6 038 coronas. A la tripulación de la locomotora se le concedieron días libres adicionales pagados para recuperar el equilibrio psicológico, cuyos costes ascendieron a 7 009 coronas.
-El automóvil
-Toyota
-Corolla
-712
-MCV
-resultó completamente destruido e inutilizable. El lado izquierdo del conductor del automóvil estaba completamente deformado; la puerta del lado del conductor faltaba.
+En el coche había un perro, que sufrió graves heridas en forma de fracturas óseas.
+En la cabina de mando DR1BJ-2714 del diésel DR1BJ-3718 se detectó un tubo roto de la línea de suministro y de freno neumático, manguitos terminales; el raíl de nieve, que había resultado dañado, estaba desprendido de los puntos de fijación. El borde exterior del frontal izquierdo del bastidor presentaba daños de pintura en una superficie de 1,5 m²; el travesaño del lado de recepción de los códigos AVS estaba dañado y el piloto de tope estaba roto. Los costes de reparación ascienden en total a 183196 coronas.
+La empresa realizó gastos adicionales con la contratación de un autobús adicional para el traslado de los pasajeros a su destino, que ascendió a 6038 coronas. A la tripulación de la locomotora se le concedieron días libres retribuidos adicionales para alcanzar el equilibrio psicológico, cuyos gastos ascendieron a 7009 coronas.
+El automóvil Toyota Corolla 712 MCV quedó totalmente destrozado e inutilizable. El lateral izquierdo del lado del conductor estaba totalmente deformado; la puerta del lado del conductor faltaba.
 Los pasajeros y la infraestructura ferroviaria no sufrieron daños.
-# 2.4 Factores externos
-El accidente ocurrió durante el día; el tiempo estaba nublado pero despejado. La calzada era plana y seca.
-La vía férrea forma una curva suave cerca del paso a nivel de Suigu.
-# 3. DATOS DE LAS INVESTIGACIONES Y CUESTIONARIOS
+# 2.4 Circunstancias externas
+El accidente ocurrió durante el día; el tiempo estaba nublado pero despejado. La calzada estaba llana y seca. El ferrocarril forma una curva suave en las proximidades del paso a nivel de Suigu.
+# 3. DATOS DE LAS INVESTIGACIONES Y DECLARACIONES
 # 3.1 Resumen de las declaraciones
-El familiar cercano del conductor del vehículo fallecido en el accidente ha prestado declaraciones, en las que indica que el fallecido era médico de formación. Le gustaban los animales y trataba con ellos de manera servicial y atenta. El conductor del automóvil cuidaba de su salud y la controlaba periódicamente. Su afición era el deporte, en el que le gustaba asumir riesgos. El conductor del automóvil conocía muy bien el camino desde Sind a través de Are hasta la carretera de Tallinn desde su infancia y sabía que la vía férrea pasaba por allí. El perro que viajaba en el automóvil sufrió graves heridas y, a petición de los familiares, se le puso fin a sus días en una clínica veterinaria.
-El maquinista del tren diésel ha prestado declaraciones y explicaciones sobre el incidente, en las que indica que el 03.06.08 por la mañana a las 06.58 comenzó su viaje con el tren n.º 0231 desde Tallinn a Pärnu, llegando a las 09.39. Después hubo un periodo de descanso y la tripulación durmió en la sala de descanso de la estación de ferrocarril de Pärnu. A las 17.10, al atender el tren n.º 0238 Pärnu – Tallinn, el viaje de regreso fue normal. Tras haber viajado unos 15 minutos en dirección a Tallinn, la primera señal en la vía indicaba que se aproximaba un paso a nivel.
-Al acercarse al paso a nivel, el maquinista emitió un fuerte silbido. Pasado un tiempo, había una curva; al salir de ella, el maquinista vio un vehículo cargado con material forestal cruzando el paso a nivel, y el maquinista repitió la señal. Desde el otro lado se movía un automóvil rojo; el maquinista emitió un fuerte silbido. El conductor del automóvil no reaccionó a los silbidos, miró hacia la dirección contraria. El maquinista vio que el conductor del automóvil rojo tenía la mano izquierda levantada junto a la mejilla, como si hablara por teléfono. El maquinista realizó un frenado de emergencia. No pudo evitar la colisión frontal. En el paso a nivel de la sección de vía Pärnu – Tootsi, km
+Un familiar directo del conductor del automóvil fallecido en el accidente ha prestado declaraciones en las que señala que el fallecido era médico de profesión. Amaba a los animales y se relacionaba con ellos de manera servicial y atenta. El conductor cuidaba de su salud y la revisaba periódicamente. Su pasión era el deporte, en el que también le gustaba correr riesgos. El conductor conocía muy bien desde niño la ruta de Sindi a Are hasta la carretera de Tallinno y sabía que por allí también pasaba el ferrocarril. El perro que viajaba en el automóvil sufrió graves heridas y sus días se terminaron a petición de los familiares en una clínica veterinaria.
+El conductor de la locomotora del diésel ha prestado declaración y explicación sobre el caso, en la que informa de que el 03.06.08 por la mañana a las 06.58 inició con el tren n.º 0231 el viaje de Tallinno a Pärnu, al que se llegó a las 09.39. Después hubo un periodo de descanso y la tripulación de la locomotora durmió en la sala de descanso de la estación de ferrocarril de Pärnu. A las 17.10, al prestar servicio al tren n.º 0238 Pärnu – Tallinno, el viaje de regreso era habitual. Tras haber viajado unos 15 minutos en dirección a Tallinno, la primera señal en el ferrocarril indicaba que se aproximaba un paso a nivel.
+Al acercarse al paso a nivel, el conductor de la locomotora dio un silbido fuerte. Después de un tiempo hubo una curva; al salir de ella, el conductor de la locomotora vio un automóvil cargado con madera cruzando el paso a nivel, y repitió la señal. Por el otro lado se aproximaba un automóvil rojo; el conductor de la locomotora dio un silbido fuerte. El conductor del automóvil no reaccionó a los silbidos y miraba en sentido contrario. El conductor de la locomotora vio que el conductor del automóvil rojo tenía la mano izquierda levantada junto a la mejilla, como si hablara por teléfono. El conductor de la locomotora realizó una frenada de emergencia. No pudo evitar la colisión. En el paso a nivel del tramo Pärnu – Tootsi km
 
 ## Página 7
+
 
 120 pk 10 se produjo la colisión frontal contra el automóvil Toyota Corolla con matrícula 712 MCV, que terminó con la muerte del conductor del automóvil.
 Más tarde, en la inspección del lugar del suceso, se descubrió que el conductor del automóvil había muerto; la señalización del automóvil estaba activa, no se pudo abrir el capó y del automóvil se escapaba gasolina.
@@ -162,6 +161,7 @@ información:
 
 ## Página 8
 
+
 3.1.11. lugar del suceso.
 Anexo 1 «Procedimiento de actuación del personal en caso de accidente»
 Jefe de tren y ayudante de jefe de tren. Suceso del que debe transmitirse la notificación: accidentes con participación de trenes o causados por trenes. A quién se transmite la notificación y plazo: inmediatamente al jefe de estación o al despachador de trenes. Las órdenes del jefe de estación y del despachador de trenes al empleado de atención al cliente, inmediatamente. Qué hace el empleado por su cuenta: presta los primeros auxilios a las personas a bordo del tren mediante los medios disponibles en el mismo. En caso de un accidente mayor o de una avería, determina la extensión de la avería y las posibles formas de subsanarla, y lo comunica al despachador de trenes. Debe mantener la comunicación por radio desde el lugar del suceso hasta la llegada de la ayuda.
@@ -186,8 +186,8 @@ Aclarar las causas, los responsables y las consecuencias del suceso.
 2. Investigación de las causas de accidentes e infracciones.
 2.4. La investigación de las causas del accidente que provocó la práctica laboral, la investigación del accidente y del incidente pueden llevarla a cabo los jefes de las unidades estructurales de forma independiente o bien el departamento de calidad y seguridad.
 
-
 ## Página 9
+
 
 La forma de la investigación depende de la naturaleza de lo ocurrido y se realiza de conformidad con el anexo de la presente guía. (Anexo 1) «Organizadores y plazos de la investigación de las causas de los accidentes».
 2.8. Si la obligación de realizar la investigación final del suceso recae en el departamento de gestión de crisis del Ministerio de Economía y Comunicaciones, al organizar la investigación interna de la empresa se debe tener necesariamente en cuenta las exigencias de la Directiva 2004/49/CE del Parlamento Europeo y del Consejo (anexo 6).
@@ -211,6 +211,7 @@ En los trabajos en los que sea necesario debido a la naturaleza del trabajo, el 
 (1) … Cada año, en los meses de mayo o junio, el propietario de la vía férrea organiza una inspección comisionada del paso a nivel que le pertenece o está bajo su custodia, así como de sus instalaciones y de los medios de regulación del tráfico de las vías que confluyen en el paso a nivel. A la comisión de inspección se invita a representantes de la administración local,
 
 ## Página 10
+
 
 por el propietario, de la Agencia de Supervisión Técnica y de la prefectura de policía correspondiente a la ubicación del paso a nivel. Las decisiones de la comisión se formalizan mediante un acta, que se transmite al propietario o titular del paso a nivel.
 (4) Los pasos a nivel pueden estar regulados o no regulados. Los pasos a nivel se dividen de la siguiente manera:
@@ -238,6 +239,7 @@ El tren permaneció en el lugar del incidente durante 2 horas y 2 minutos. Tras 
 
 ## Página 11
 
+
 Se solicitó un autobús para los 20 pasajeros que iban en el tren, el cual llegó a la estación final de Tallin con los pasajeros a las 22.30, en lugar de las 19.48 previstas, es decir, 2 horas y 42 minutos más tarde.
 Tras obtener el permiso de la policía y por orden del despachador, el tren circuló a baja velocidad hasta la estación de Tootsi, donde se le realizó la reparación necesaria que permitió su desplazamiento hasta el depósito. El tren llegó a la estación de Tootsi a las 20.05 y al depósito de Tallin al día siguiente, el 4 de junio, a las 01.07.
 En la estación de Tootsi se detuvo durante 29 minutos el tren de pasajeros n.º 0237 Tallinn – Pärnu debido a la ocupación del tramo de vía.
@@ -260,6 +262,7 @@ Sufrieron daños los túneles y las carrocerías de los dos primeros vagones del
 El conductor del automóvil sufrió heridas. Los trabajadores ferroviarios y los pasajeros no sufrieron heridas.
 
 ## Página 12
+
 
 El conductor no logró detener el vehículo ante la señal de prioridad 222 «Deténgase y ceda el paso». Según el conductor, el estado técnico del sistema de frenado del vehículo no permitía detenerlo adecuadamente.
 
@@ -285,6 +288,7 @@ La tripulación estaba atenta durante la conducción. Se emitieron señales de a
 
 ## Página 13
 
+
 con atención lo que ocurría en el paso a nivel. La velocidad de circulación del tren estaba dentro de los límites permitidos. Al diseñar nuevos pasos a nivel, el criterio es que el maquinista debe poder ver un paso a nivel no regulado desde una distancia de al menos 1000 metros. La instalación del paso a nivel existente de Suigu cumple con las normas establecidas. Una mayor visibilidad desde la cabina del tren proporciona a la tripulación una mejor visión general de lo que ocurre y les permite actuar en consecuencia. En el mismo paso a nivel se produjo un accidente anterior hace tres años, el 28.06.2005. Como resultado de la concurrencia de muchas circunstancias, en algunos pasos a nivel se producen ocasionalmente colisiones entre vehículos de carretera y material rodante ferroviario, mientras que en otros no. Con el objetivo de aumentar la seguridad vial, resulta pertinente analizar la necesidad de instalar señalización luminosa automática en algunos pasos a nivel.
 
 La empresa de infraestructura ferroviaria tiene, sin duda, interés en aumentar la seguridad vial, pero también tiene interés en ahorrar costes. Jurídicamente, no parece lo más adecuado dejar la conversión de un paso a nivel no regulado a una categoría de paso a nivel regulado únicamente a la iniciativa del titular de la vía férrea. Dicha iniciativa podría plantearse también en el marco de la revisión anual de los medios de regulación del tráfico en los pasos a nivel, llevada a cabo por una comisión, incluso en casos excepcionales. La propuesta de la comisión podría basarse, por ejemplo, en la frecuencia general de accidentes ocurridos en los últimos cinco a diez años en comparación con otros pasos a nivel del mismo tipo.
@@ -299,6 +303,7 @@ Había un perro en el automóvil. Al mirar a la derecha, el conductor podía int
 
 ## Página 14
 
+
 # 4.3 Conclusiones 
 1. La tripulación del tren de pasajeros nº 0238 Pärnu – Tallinn entró en curva y emitió la señal acústica reglamentaria. Al salir de la curva, la visibilidad de la tripulación hacia el paso a nivel era de 500 m. Al aproximarse el tren, la tripulación observó lo que ocurría en el paso a nivel y emitió señales acústicas repetidas. Al aproximarse el Toyota Corolla, la tripulación aplicó el freno de emergencia inmediatamente después de asegurarse de que el automóvil no tenía intención de ceder el paso al tren. El tren se desplazó frenando 38,6 m hasta impactar contra el automóvil. La tripulación no pudo evitar la colisión. 
 2. La visibilidad del conductor del automóvil hacia la dirección de llegada del tren es de 400 m a una distancia de 50 m, mientras que la normativa establece 250 m. Inmediatamente antes de llegar al paso a nivel, pasó por delante del automóvil, procedente del lado del tren, un camión de transporte forestal cuyo ruido del motor dificultaba la audición de otras señales y la visibilidad hacia la dirección de llegada del tren. 
@@ -310,10 +315,10 @@ Había un perro en el automóvil. Al mirar a la derecha, el conductor podía int
 En el paso a nivel de Suigu no está siempre garantizada la fijación rígida de las traviesas de la cubierta del paso a nivel a la base. Durante el accidente en cuestión no se había observado que las posibles traviesas sueltas hubieran influido en el accidente ocurrido. En determinadas circunstancias, algunas traviesas sueltas pueden obstaculizar el movimiento de los vehículos que cruzan el paso a nivel y provocar una situación peligrosa para la circulación o un accidente. 
 Existe una contradicción en la organización del tiempo de trabajo de la tripulación con las disposiciones de la «Ley del tiempo de trabajo y descanso». Según la ley, el periodo de descanso entre dos turnos de trabajo debe ser de 11 horas. La tripulación tuvo un periodo de descanso de 4 horas y 55 minutos. 
 Edelaraudtee AS ha establecido en la empresa normas e instrucciones que, con la entrada en vigor del sistema de gestión de la seguridad, se convertirán en sus componentes. 
-La empresa ha presentado a la Autoridad de Supervisión Técnica una solicitud, dentro del plazo establecido, para obtener el certificado de seguridad. La aprobación del sistema de gestión de la seguridad por parte de la Autoridad de Supervisión Técnica es un requisito para la obtención del nuevo certificado de seguridad. 
-
+La empresa ha presentado a la Autoridad de Supervisión Técnica una solicitud, dentro del plazo establecido, para obtener el certificado de seguridad. La aprobación del sistema de gestión de la seguridad por parte de la Autoridad de Supervisión Técnica es un requisito para la obtención del nuevo certificado de seguridad.
 
 ## Página 15
+
 
 # 5. MEDIDAS ADOPTADAS 
 Tras el accidente, se realizó una inspección comisionada del paso a nivel de Suigu. 
@@ -332,6 +337,7 @@ Investigación realizada por:
 Jüri Olde
 
 ## Página 16
+
 
 ### Lisad:
 1. Informe de investigación de accidente o incidente. Turi, 06.06.2008 – 2 páginas.
@@ -363,6 +369,7 @@ Jüri Olde
 27. Acta de autopsia del fallecido n.º 108. Pärnu, 31.07.2008 – 6 páginas.
 
 ## Página 17
+
 
 28. Nota sobre el coste del peritaje. Instituto Estonio de Peritajes Judiciales – 1 página.
 29. Tabla fotográfica. Acta de autopsia del fallecido 108/06.06.2008 – 5 páginas.

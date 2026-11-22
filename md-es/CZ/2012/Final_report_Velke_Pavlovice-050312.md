@@ -10,13 +10,14 @@ chars: 59395
 ratio_longitud: 1.23
 tokens_in: 35898
 tokens_out: 24657
-verificacion: revisar
-notas_cifras: ["bloque 1: original bilingüe: se compara contra el idioma principal (EN)", "bloque 2: original bilingüe: se compara contra el idioma principal (CS)", "bloque 3: original bilingüe: se compara contra el idioma principal (CS)", "bloque 4: original bilingüe: se compara contra el idioma principal (CS)"]
-avisos: ["bloque 3: ratio 1.66", "bloque 4: ratio 1.76"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 4: original bilingüe: se compara contra el idioma principal (EN)", "página 5: original bilingüe: se compara contra el idioma principal (PT)", "página 6: original bilingüe: se compara contra el idioma principal (PT)", "página 8: original bilingüe: se compara contra el idioma principal (CS)", "página 9: original bilingüe: se compara contra el idioma principal (CS)", "página 10: original bilingüe: se compara contra el idioma principal (CS); ratio 2.26"]
 ---
+
 ## Página 1
+
 
 Inspección Ferroviaria
 República Checa
@@ -44,8 +45,8 @@ IČ:   75009561
 http://www.dicr.cz
 Tel.: (+420) 224 805 444
 
-
 ## Página 2
+
 
 # RESUMEN
 Grado:
@@ -86,13 +87,13 @@ se recomienda adoptar una medida propia que obligue a la implementación de
 las recomendaciones anteriores por parte del otro gestor de infraestructura (IM)
 en la República Checa.
 
-
 ## Página 3
+
 
 Este informe final es público y todos los documentos y hechos están respaldados por el expediente de investigación.
 
-
 ## Página 4
+
 
 # Índice
  Resumen .............................................................................................................................2
@@ -133,8 +134,8 @@ ambiente .......................................................................
 3.1 Resumen de las declaraciones prestadas (sujeto a protección de la identidad de las
 personas) ................................................................................................14
 
-
 ## Página 5
+
 
 3.1.1 Empleados del gestor de la vía y del transportista, incluidas personas en
 relación contractual ...............................................................................................................14
@@ -175,8 +176,8 @@ su control y uso ...............................................................
 4.1.1 Descripción final del suceso ferroviario basada en los hechos constatados en el
 punto 3 ............................................................................................................................20
 
-
 ## Página 6
+
 
 4.2 Examen ......................................................................................................................21
 4.2.1 Evaluación de los hechos constatados según el punto 3 y exposición de las
@@ -209,6 +210,7 @@ en dirección desde la est. Velké Pavlovice ...................................
  Fig. n.º 7: NA Iveco dañado tras la colisión .....................................................................26
 
 ## Página 7
+
 
 ## Lista de abreviaturas y símbolos utilizados
 COP
@@ -274,8 +276,8 @@ inspector superior
 žst.
 estación de ferrocarril
 
-
 ## Página 8
+
 
 ## 1 RESUMEN
 Grupo de la ocurrencia:
@@ -322,8 +324,8 @@ la adopción de una medida propia encaminada a garantizar la realización de la 
 de seguridad anteriormente mencionada también en los demás gestores 
 de vías ferroviarias en la República Checa.
 
-
 ## Página 9
+
 
 ## 2 DATOS RELATIVOS A LA OCURRENCIA EXTRAORDINARIA
 ## 2.1
@@ -343,79 +345,50 @@ un tren se aproximaba al mismo. El conductor del NA, que llegaba por la izquierd
 circulación del tren, no respetó la alerta 
 luminosa y sonora y entró en el paso a nivel.
 
-
 ## Página 10
 
-La colisión del tren Os 14506 con el camión fue comunicada por el maquinista del tren al jefe de estación de la est. 
-Velké Pavlovice. El IZS fue activado por el jefe de estación de la est. Velké Pavlovice, al mismo tiempo que por otra persona 
-desde el lugar de la OE. Al lugar de la OE acudieron los componentes del IZS. El maquinista y el jefe de estación 
-procedieron conforme al horario de notificación.
-En la colisión, la locomotora impactó en la parte lateral de la caja del NA. Debido a la colisión mutua, el NA 
-fue desplazado a la derecha en el sentido de circulación del tren fuera del gálibo de circulación y girado 180° respecto a su 
-sentido de circulación, quedando la cabina del conductor orientada hacia la localidad de Bořetice, de donde 
-llegaba el NA. En este 
-movimiento no controlado se produjo la demolición de la señal «B», el arrancamiento de la base de hormigón, 
-el derribo de la señal y el derramamiento de la carga transportada en el NA.
-Asimismo, debido a la colisión mutua, la locomotora del tren Os 14506 
-descarriló a la derecha en el sentido de circulación, con ambos bogies. 
-Las huellas de circulación en estado descarrilado comenzaban en el firme de la vía pública y la huella de 
-circulación de la rueda izquierda del primer bogie en el sentido de circulación del tren llegaba hasta los 
-elementos de fijación internos del carril derecho. En la estructura del paso a nivel y en la vía 
-eran visibles huellas de circulación de la rueda izquierda hasta la locomotora, que estaba 
-notablemente inclinada hacia el flanco derecho y encastrada con la parte frontal en el borde del paso inferior 
-que discurre bajo la línea en el pk 4,705. La locomotora fue 
-apuntalada con un manipulador Faresin para la evacuación segura de los pasajeros, cuyo conductor, en el momento de la OE, 
-trabajaba cerca del paso a nivel y acudió a prestar ayuda.
-Tras la llegada de los componentes de la PČR, se aseguró el lugar de la OE. En el lugar de la OE intervinieron los componentes de la JPO 
-HZS SŽDC; la RZZS realizó la atención de las personas evacuadas y trasladó a los heridos a un 
-centro sanitario para su posterior atención.
-Fig. n.º 2: Esquema del lugar de la OE
-
+La colisión del tren Os 14506 con un camión de carga fue comunicada por el maquinista del tren al jefe de estación de la estación de 
+Velké Pavlovice. El IZS fue activado por el jefe de estación de la estación de Velké Pavlovice, así como también por otra persona 
+desde el lugar de origen del MU. Al lugar de origen del MU se desplazaron los componentes del IZS. El maquinista y el jefe de estación 
+procedieron conforme al horario de comunicaciones.
+En la colisión, el HDV impactó en la parte lateral de la caja de la superestructura NA. Debido a la colisión mutua, el NA fue arrojado a la derecha en el sentido de circulación del tren fuera del perfil de paso y girado 180° respecto a su 
+sentido de circulación, quedando la cabina del conductor orientada hacia la localidad de Bořetice, de donde el NA procedía. En 
+este movimiento incontrolado se produjo la demolición de la señal "B", el arrancamiento del bloque de hormigón, 
+el vuelco de la señal y el derramamiento de la carga transportada en el NA.
+Asimismo, debido a la colisión mutua, el HDV del tren Os 14506 descarriló a la derecha en el sentido de circulación, concretamente 
+con ambos bogies. Las huellas de circulación en estado descarrilado comenzaban en la calzada de la carretera terrestre y la huella de circulación de la rueda izquierda del primer bogie en el sentido de circulación del tren conducía hasta 
+los elementos de fijación internos del carril derecho. En la estructura del paso a nivel y en la vía 
+eran visibles huellas claras de circulación de la rueda izquierda hasta el HDV, que estaba notablemente inclinado hacia el flanco derecho y encastrado con la parte frontal en el borde del paso inferior que discurre bajo la línea en el km 4,705. El HDV fue 
+apuntalado con una maniobradora Faresin para la evacuación segura de los pasajeros, cuyo conductor en el momento del origen del MU trabajaba cerca del paso a nivel ferroviario y acudió a prestar ayuda.
+Con la llegada de los componentes de la Policía (PČR) se aseguró el lugar del MU. En el lugar de origen del MU intervinieron los componentes de JPO HZS SŽDC, la RZZS realizó la atención de las personas evacuadas y trasladó a los heridos a un centro médico para su posterior atención.
+Fig. n.º 2: Esquema del lugar de origen del MU
 
 ## Página 11
 
-2.1.3 Decisión de iniciar la investigación de las causas y circunstancias de la producción, composición del equipo de personas cualificadas y forma de dirigir la investigación de las causas y circunstancias de la producción
-La OE fue notificada al COP DI Praga por la persona designada para la investigación de las causas 
-y circunstancias de la OE por parte del gestor de de la vía y del transportista (en adelante, persona designada) el día 
-5. 3. 2012 a las 8:12 horas. Tras la aclaración de la información por la persona designada a las 8:37 horas, la DI, 
-en función de las consecuencias y el alcance de la OE, inició la investigación de las causas y circunstancias de la OE 
-conforme a lo dispuesto en el apartado 53b, párrafo 1, de la Ley n.º 266/1994 Sb., sobre vías ferroviarias, 
-en su redacción vigente (en adelante también Ley n.º 266/1994 Sb.), en el lugar de la OE.
-La investigación y la investigación de las causas y circunstancias de la OE fueron encomendadas por la DI a la Inspección Territorial 
-Brno. En base a los hechos constatados, no fue necesario constituir un equipo de inspectores superiores 
-de la DI. La autorización de la DI para la eliminación de las consecuencias de la OE fue emitida el día 5. 3. 2012 a las 10:14 horas. El modo 
-de proceder en la dirección de la investigación se estableció de forma operativa. La investigación se basó en los propios 
-conocimientos y hallazgos en el lugar de la OE, la evaluación de la propia documentación, el estado de 
-la instalación de seguridad y en la documentación solicitada obtenida durante la investigación por parte del gestor 
-de la vía y del transportista.
+2.1.3 Decisión de iniciar la investigación de las causas y circunstancias de la ocurrencia, composición del equipo de personas cualificadas y forma de dirigir la investigación de las causas y circunstancias de la ocurrencia
+La ocurrencia de MU fue comunicada al DI de Praga por la persona designada para la investigación de las causas y circunstancias de la ocurrencia de MU del gestor de la vía y del transportista (en adelante, la persona designada) el 5. 3. 2012 a las 8:12 horas. Tras la precisión de la información por parte de la persona designada a las 8:37 horas, el DI, en vista de las consecuencias y del alcance de la MU, inició la investigación de las causas y circunstancias de la ocurrencia de MU de conformidad con lo dispuesto en el § 53b apartado 1 de la Ley núm. 266/1994 Sb., de vías férreas, en su versión vigente (en adelante también Ley núm. 266/1994 Sb.), en el lugar de la MU.
+Para la investigación y la determinación de las causas y circunstancias de la ocurrencia de MU, el DI designó a la Inspección Territorial de Brno. Sobre la base de los hechos constatados, no fue necesario constituir un equipo de inspectores superiores del DI. La conformidad del DI para la eliminación de las consecuencias de la MU fue emitida el 5. 3. 2012 a las 10:14 horas. La forma de proceder en la dirección de la investigación fue establecida de manera operativa. La investigación se basó en los propios conocimientos y hallazgos en el lugar de la MU, en la evaluación de la propia documentación, en el estado del dispositivo de seguridad y en la documentación solicitada obtenida durante la investigación al gestor de la vía y al transportista.
 ## 2.2
-### Circunstancias de la ocurrencia extraordinaria
-### 2.2.1 Empleados intervinientes del gestor de la vía y del transportista, personas en relación contractual y demás intervinientes y testigos
-Personas intervinientes:
+### Circunstancias del suceso excepcional
+### 2.2.1 Empleados participantes del gestor de la vía y del transportista, personas en relación contractual y demás participantes y testigos
+Personas participantes:
 por el transportista ČD:
 maquinista del tren Os 14506, empleado de ČD, DKV Brno;
 •
 por el usuario de la vía pública:
 conductor del NA Iveco.
 •
-Otras personas, testigos de la OE:
+Otras personas, testigos de la MU:
 jefe de estación de la est. Velké Pavlovice, empleado de SŽDC, PO Břeclav.
 •
-2.2.2 Trenes y su composición, incluidos los números de registro de cada vehículo ferroviario
-El tren Os 14506 estaba formado por el propio coche motor CZ–ČD 95 54 5 810 469-7. 
-La longitud total del tren era de 14 metros, 2 ejes, el peso total del tren de 24 toneladas, el porcentaje 
-de frenado necesario del 46, el porcentaje de frenado real del 112. El tren estaba frenado con el freno automático 
-continuo en el modo P.
-### 2.2.3 Descripción de los componentes de la vía de circulación de la vía, del sistema de seguridad (es decir, en particular 
-el estado de los raíles, agujas, aparatos de enclavamiento, señales y del equipo de seguridad del tren)
-La línea de vía única discurre en el lugar de la OE en línea recta a la altura del terreno circundante 
-y presenta una pendiente del 0,46 ‰ en el sentido de circulación del tren. La superestructura está formada por raíles de perfil S49 fijados 
-en traviesas de madera, con una separación entre traviesas de 600 mm.
-El paso a nivel P 7140 en el pk 4,740 cruza la carretera de segunda clase n.º 421, el ángulo 
-de cruce con la vía pública es de 80°. La estructura del paso a nivel está formada por 
-
+2.2.2 Trenes y su composición, incluidos los números de registro de los distintos vehículos ferroviarios
+El tren Os 14506 estaba formado por el propio automotor CZ–ČD 95 54 5 810 469-7. La longitud total del tren era de 14 metros, 2 ejes, el peso total del tren de 24 toneladas, los porcentajes de frenado necesarios 46, los porcentajes de frenado reales 112. El tren estaba frenado con el freno automático continuo en el modo P.
+### 2.2.3 Descripción de los componentes de la vía de circulación de la vía férrea, del sistema de seguridad (es decir, en particular el estado de las vías, de los desvíos, de las agujas, de las señales y del dispositivo de seguridad del tren)
+La línea de vía única en el lugar de la MU discurre en dirección recta a la altura del terreno circundante y asciende 0,46 ‰ en el sentido de la marcha del tren. La superestructura está formada por carriles de perfil S49 fijados sobre traviesas de madera, la separación de las traviesas es de 600 mm.
+El paso a nivel P 7140 en el km 4,740 cruza la carretera de segunda clase núm. 421, el ángulo de cruce con la vía pública es de 80°. La estructura del paso a nivel ferroviario está formada por
 
 ## Página 12
+
 
 paneles de hormigón armado, la longitud del paso a nivel es de 10,2 metros, el ancho de 6 metros. La velocidad máxima 
 permitida en el paso a nivel y en el tramo de línea adyacente es de 50 km.h-1.
@@ -456,8 +429,8 @@ en su redacción vigente (en adelante también decreto n.º 376/2006 Sb.). Al lu
 SŽDC Brno, la Policía Municipal de Velké Pavlovice y los componentes de la PČR, la inspección de tráfico de Břeclav, 
 la sección de distrito de Velké Pavlovice y la policía judicial de Břeclav.
 
-
 ## Página 13
+
 
 La OE es investigada por la PČR, Dirección Regional de Policía de la Región de Moravia del Sur, 
 Departamento Territorial de Břeclav, Sección de Criminalidad General bajo el n.º de expediente: KRPBI-58250/TČ-2012-060471.
@@ -501,60 +474,60 @@ Coordenadas GPS del lugar de la OE: 48°53'50.90547"N, 16°49'21.58921"E.
 
 ## Página 14
 
-## 3 ZÁZNAM DE LAS EXPLICACIONES PRESENTADAS
+## 3 EXPLICACIONES PRESENTADAS
 ## 3.1
-### Resumen de las explicaciones presentadas (sujeto a la protección de la identidad de las personas)
-### 3.1.1 Empleados del gestor de la infraestructura y del transportista, incluidas personas en relación contractual
+### Resumen de las explicaciones presentadas (sujeto a protección de la identidad de las personas)
+### 3.1.1 Personal del gestor de la infraestructura y del transportista, incluidas personas en relación contractual
 Maquinista del tren Os 14506 – del Acta con el empleado se desprende, entre otros:
-30 metros antes del paso a nivel vio que NA entraba en él, y activó
+30 metros antes del paso a nivel vio que NA entraba en él y activó el
 •
-el frenado de acción rápida;
-debido a la gran inclinación de la HDV, con riesgo de volcadura, y para una evacuación
+frenado de acción rápida;
+debido a la gran inclinación del material rodante, con riesgo de vuelco, y para la
 •
-segura de los pasajeros, los trabajadores que operaban en las cercanías apuntalaron la HDV
-descarrilada con la cuchara de la pala cargadora;
-MU informó al jefe de locomotora y al jefe de estación de la estación de Velké Pavlovice;
+evacuación segura de los viajeros, los trabajadores que estaban trabajando cerca
+apuntalaron el material rodante volcado con la cuchara de la pala cargadora;
+el MA comunicó al jefe de maniobras y a la jefa de estación de Velké Pavlovice;
 •
-apagó el motor mediante la bomba de inyección, ya que no se podía apagar desde la cabina,
+apagó el motor mediante la bomba de inyección, ya que no podía apagarse desde
 •
-y desconectó los cuchillos de las baterías.
+la cabina, y desconectó los cuchillos de las baterías.
 Maquinista del tren Os 14506 – del Registro Oficial de la explicación presentada se desprende, entre otros:
-el trayecto hasta el paso a nivel en el pk 4,740 transcurrió sin incidencias, después NA comenzó
+el trayecto hasta el paso a nivel en el pk 4,740 transcurrió sin incidencias, después NA
 •
-a entrar suavemente en el paso a nivel por el lado izquierdo en el sentido de marcha del tren;
-el conductor de NA no pudo ser deslumbrado directamente, el maquinista tenía por este motivo
+comenzó a entrar en el paso a nivel de forma suave por el lado izquierdo en el sentido de
+marcha del tren;
+el conductor de NA no pudo ser deslumbrado directamente, el maquinista tenía por este
 •
-las persianas bajadas en la ventana y NA se aproximaba por la izquierda en el sentido de marcha
-del tren;
-activó el frenado de acción rápida y se aferró, el impacto fue muy fuerte, la HDV descarriló
+motivo las persianas bajadas en la ventana y NA se aproximaba por la izquierda en el
+sentido de marcha del tren;
+activó el frenado de acción rápida y se aferró, el impacto fue muy fuerte, el material
 •
-a la derecha en el sentido de marcha y circuló en estado descarrilado hasta el paso inferior bajo
-la vía.
+rodante descarriló a la derecha en el sentido de marcha y circuló en estado de
+descarrilamiento hasta el paso bajo la vía.
 ### 3.1.2 Otras personas
 Conductor de NA – del Registro Oficial de la explicación presentada se desprende, entre otros:
-antes del paso a nivel redujo la velocidad a 30 km·h-1;
+antes del paso a nivel redujo la velocidad a 30 km.h-1;
 •
 salía el sol y brillaba por la izquierda o por detrás en el sentido de marcha de NA;
 •
-no registró en el PZZ que la señalización estuviera en funcionamiento, debido al resplandor
+no registró en el PZZ que la señalización estuviera en funcionamiento, debido a la
 •
-de las luces rojas situadas en el señalizador «A»;
-antes del paso a nivel miró a su alrededor, a la derecha le impedían la visión los vehículos
+iluminación de las luces rojas situadas en el aviso «A»;
+antes del paso a nivel miró a su alrededor, a la derecha le impedía la visión los vehículos
 •
 aparcados y otros obstáculos;
-justo antes del paso a nivel vio el tren a la derecha y le oyó tocar el silbato, por lo que
+justo antes del paso a nivel vio el tren a la derecha y le oyó pitar, por lo que
 •
 aceleró para lograr salir del paso a nivel.
-Testigos – jefe de estación de la estación de Velké Pavlovice – del Acta con el empleado se desprende,
-entre otros:
-recibió la salida prevista del tren en el EDD a las 7:21 h desde la estación de Kobylí na Moravě
+Testigos – jefa de estación de Velké Pavlovice – del Acta con el empleado se desprende, entre otros:
+recibió la salida prevista del tren en el EDD a las 7:21 horas desde la estación de
 •
-y la confirmó;
-estableció la vía de tren para el tren Os 14506 en la 1.ª SK y vigiló el SZZ;
+Kobylí na Moravě y la confirmó;
+estableció la vía de tren para el tren Os 14506 en la 1. SK y vigiló el SZZ;
 •
-
 
 ## Página 15
+
 
 el tren Os 14506 apareció en el segundo tramo de aproximación y puso el PZZ en el pk 4,740
 •
@@ -603,55 +576,32 @@ ferroviarios válido, número de registro 509744, emitido por la Oficina de Ferr
 Según la documentación presentada por el transportista, el maquinista estaba cualificado
 profesionalmente para la actividad laboral que desempeñaba.
 
-
 ## Página 16
 
-No se detectó ninguna avería.
-### 3.2.3 Procedimiento de control interno de la seguridad y sus resultados
-En el ámbito del DKV Brno se realizaba una verificación periódica del rendimiento laboral de los
-maquinistas. El rendimiento laboral de los maquinistas se vigilaba en el marco de las carreras de
-verificación de los inspectores autorizados en locomotoras, con base en la «Medida del jefe superior
-del DKV Brno» núm. 19/30/2011 sobre la actividad de verificación en el DKV Brno, emitida el 19. 2. 2011
-con efectos desde el 1. 3. 2011.
-La realización de los controles internos y su sistema no guardaron relación causal con la producción de
-la MU.
-El 2. 7. 2008 se realizó una inspección integral y el 20. 2. 2012 una inspección programada y
-mantenimiento del PZZ según el plan de mantenimiento, con el resultado de sin averías. La inspección
-integral del paso a nivel se realizó el 22. 3. 2011 con el resultado de sin averías.
-No se detectó ninguna avería.
-### 3.2.4 Interfaz entre los distintos sujetos implicados y los componentes de la vía de circulación
-El gestor de la infraestructura ferroviaria regional Hodonín – Zaječí es la Administración de la
-Infraestructura Ferroviaria, organización estatal, con domicilio en Dlážděná 1003/7, Praha 1 – Nové
-Město, código postal 110 00, con base en la Autorización Oficial emitida por la Oficina de Ferrocarriles
-el 29. 5. 2008, n.º de expediente: 3-4277/07-DÚ/Le-DÚ/O-SI, n.º de registro: ÚP/2008/9002.
-El transportista del tren Os 14506 eran los Ferrocarriles Checos, a. s., con domicilio en Nábřeží L.
-Svobody 1222, Praha 1, código postal 110 15, con base en la Licencia de explotador del transporte
-ferroviario n.º de expediente: 3-2169/03-DÚ/Bp, n.º de registro: L/2003/9000, concedida por la Oficina
-de Ferrocarriles el 17. 9. 2003, y las decisiones de modificación de la licencia mencionada n.º de
-expediente: 3-974/04-DÚ/Bg, n.º de expediente: 3-2564/08-DÚ/Le y n.º de expediente: DUCR-
-61234/11/Bo. El transportista era titular del Certificado de Transportista, emitido por la DÚ el 26. 3. 2008,
-bajo el n.º de expediente DUCR-2366/10/Pd, n.º de registro OSD/2008/028, con vigencia hasta el 25. 3.
-2013.
-El transporte ferroviario se explota con base en el «Contrato número 001/09 para la explotación del
-transporte ferroviario en la vía de circulación ferroviaria de la red nacional y de las redes regionales
-en propiedad de la República Checa», en su versión vigente, celebrado entre las partes contratantes
-SŽDC y ČD el 30. 6. 2009, con vigencia desde el 1. 7. 2009, con el Adendo núm. 1 vigente desde el 13. 4.
-2010, el Adendo núm. 2 vigente desde el 1. 1. 2011 y el Adendo núm. 3 vigente desde el 22. 7. 2011.
+No se detectó ningún defecto.
+### 3.2.3 Procedimiento de control interno de seguridad y sus resultados
+En el ámbito de DKV Brno se realizaba una verificación periódica del rendimiento laboral de los maquinistas. El rendimiento laboral de los maquinistas era supervisado en el marco de las carreras de verificación de los verificadores autorizados en vehículos de tracción, con base en la «Medida del jefe superior de DKV Brno» n.º 19/30/2011 sobre actividad de verificación en DKV Brno, emitida el 19. 2. 2011 con entrada en vigor el 1. 3. 2011.
+La realización de los controles internos y su sistema no guardaban relación causal con la aparición del MU.
+El 2. 7. 2008 se realizó una inspección completa y el 20. 2. 2012 una inspección programada y mantenimiento de PZZ conforme al plan de mantenimiento, con el resultado de sin defectos. La inspección completa del paso a nivel se realizó el 22. 3. 2011 con el resultado de sin defectos.
+No se detectó ningún defecto.
+### 3.2.4 Interfaz entre los distintos sujetos participantes y los componentes de la vía de circulación
+El explotador del ferrocarril regional Hodonín – Zaječí es Správa železniční dopravní cesty, organización estatal, con domicilio en Dlážděná 1003/7, Praha 1 – Nové Město, CP 110 00, con base en la Autorización Oficial emitida por el Drážní úřad el 29. 5. 2008, bajo el n.º de expediente: 3-4277/07-DÚ/Le-DÚ/O-SI, n.º de registro: ÚP/2008/9002.
+El transportista del tren Os 14506 era České dráhy, a. s., con domicilio en Nábřeží L. Svobody 1222, Praha 1, CP 110 15, con base en la Licencia de explotador del transporte ferroviario n.º de expediente: 3-2169/03-DÚ/Bp, n.º de registro: L/2003/9000, concedida por el Drážní úřad el 17. 9. 2003, y la decisión de modificación de la licencia mencionada n.º de expediente: 3-974/04-DÚ/Bg, n.º de expediente: 3-2564/08-DÚ/Le y n.º de expediente: DUCR-61234/11/Bo. El transportista era titular del Certificado de transportista, emitido por el DÚ el 26. 3. 2008, bajo el n.º de expediente DUCR-2366/10/Pd, n.º de registro OSD/2008/028, con vigencia hasta el 25. 3. 2013.
+El transporte ferroviario se explota con base en el «Contrato n.º 001/09 para la explotación del transporte ferroviario en la vía de circulación ferroviaria de la red ferroviaria estatal y de las líneas regionales en propiedad de la República Checa», en su versión vigente, celebrado entre las partes contratantes SŽDC y ČD, el 30. 6. 2009, con vigencia desde el 1. 7. 2009, con el Adendo n.º 1 vigente desde el 13. 4. 2010, el Adendo n.º 2 vigente desde el 1. 1. 2011 y el Adendo n.º 3 vigente desde el 22. 7. 2011.
 ## 3.3
-### Regulación legal y otra
-### 3.3.1 Disposiciones legales comunitarias y nacionales pertinentes
-En la investigación de la MU se constató la infracción de las siguientes disposiciones legales:
-§ 6 apartado 3 de la Ley núm. 266/1994 Sb.:
-•
-«Cuando la vía ferroviaria cruce las vías terrestres a nivel de las vías, el transporte ferroviario
-tiene prioridad sobre el tráfico en las vías terrestres»;
-§ 29 apartado 1 letra a) de la Ley núm. 361/2000 Sb., sobre el tráfico en las vías
-•
-terrestres y sobre la modificación de algunas leyes (Ley sobre el tráfico por carretera),
-en su versión vigente:
+### Regulación jurídica y de otro tipo
+### 3.3.1 Normativa jurídica comunitaria y nacional aplicable
+En la investigación del MU se constató la infracción de las siguientes normas jurídicas:
 
+§ 6 apartado 3 de la Ley n.º 266/1994 Sb.:
+•
+«Cuando una vía ferroviaria cruce vías de comunicación terrestre a nivel, el transporte ferroviario tiene prioridad sobre el tráfico en las vías de comunicación terrestre»;
+§ 29 apartado 1 letra a) de la Ley n.º 361/2000 Sb., sobre el tráfico en
+•
+las vías de comunicación terrestre y sobre la modificación de determinadas leyes (Ley sobre el tráfico por carretera), en su versión vigente:
 
 ## Página 17
+
 
 «El conductor no debe entrar en el paso a nivel cuando se emite la advertencia con dos luces
 rojas intermitentes del dispositivo de enclavamiento del paso a nivel»;
@@ -701,25 +651,25 @@ núm. 177/1995 Sb.).
 
 No se detectó ninguna avería.
 ### 3.4.3 Medios de comunicación
-Para la comunicación entre el jefe de estación de la estación de Velké Pavlovice y el maquinista del tren Os 14506 se utilizó el TRS; además, el jefe de estación utilizó el teléfono de servicio para activar el IZS. Los medios de comunicación no guardaban relación causal con la aparición del MU.
+Para la comunicación entre la jefa de estación de la estación de Velké Pavlovice y el maquinista del tren Os 14506 se utilizó el TRS; asimismo, la jefa de estación utilizó el teléfono de servicio para activar el IZS. Los medios de comunicación no guardaban relación causal con la aparición del MU.
 No se detectó ninguna avería.
 ### 3.4.4 Material rodante, incluidos los dispositivos de registro automático de datos
-El HDV CZ–ČD 95 54 5 810 469 – 7, propiedad de ČD, a. s., DKV Brno, contaba con un «Certificado de aptitud del material rodante» válido expedido por la Oficina Ferroviaria (Drážní úřad) el día 9. 9. 2002 con el número de registro PZ 8594/02-V.22; la inspección técnica periódica se realizó el día 24. 10. 2011 con el resultado de sin averías.
-El HDV del tren Os 14506 estaba equipado con un velocímetro mecánico Metra n.º 83051. Mediante la evaluación de la marcha del tren desde la última salida de la parada de Velké Pavlovice se registró una salida a las 7:41 horas, alcanzando una velocidad de 48 km.h-1 en un tramo de 170 metros, a continuación una reducción de la velocidad a 46 km.h-1 en un tramo de 150 metros y, posteriormente, el frenado desde dicha velocidad y la detención en un tramo de 60 metros.
-El protector automático de tren estaba en funcionamiento y fue operado por el maquinista durante toda la parte anterior registrada del turno; no se superó la velocidad máxima permitida del tren Os 14506.
+El HDV CZ–ČD 95 54 5 810 469 – 7, propiedad de ČD, a. s., DKV Brno, contaba con un «Certificado de aptitud del material rodante» expedido por el Drážní úřad (Oficina Ferroviaria) el día 9. 9. 2002 con el número de registro PZ 8594/02-V.22; la inspección técnica periódica se realizó el día 24. 10. 2011 con el resultado de sin averías.
+El HDV del tren Os 14506 estaba equipado con el velocímetro mecánico Metra n.º 83051. Mediante la evaluación de la marcha del tren desde la última salida de la parada de Velké Pavlovice se registró una salida a las 7:41 horas, alcanzando una velocidad de 48 km.h-1 en un tramo de 170 metros, a continuación una reducción de la velocidad a 46 km.h-1 en un tramo de 150 metros y, posteriormente, el frenado desde dicha velocidad y la detención en un tramo de 60 metros.
+El protector de trenes estaba en funcionamiento y fue operado por el maquinista durante toda la parte precedente del turno registrado; no se superó la velocidad máxima permitida del tren Os 14506.
 El estado técnico del HDV no guardaba relación con la causa de la aparición del MU.
 No se detectó ninguna avería.
 ## 3.5
-### Documentación sobre el sistema de explotación
-### 3.5.1 Medidas adoptadas por los empleados del gestor de la infraestructura y del transportista en lo que respecta a la dirección, señalización y protección del tráfico
-La operación del SZZ se realizó de forma habitual, cuando el jefe de estación recibió en el EDD la salida prevista del tren Os 14506 y la confirmó. A continuación, estableció la ruta ferroviaria para la entrada del tren Os 14506 en el 1. SK y vigiló su marcha en el panel del SZZ. La protección de la marcha del tren Os 14506 por parte de la persona que dirige el tráfico ferroviario se ajustó a los procedimientos tecnológicos del gestor de la infraestructura y no guardaba relación con la aparición del MU.
-En la actividad de los empleados del gestor de la infraestructura antes e inmediatamente después de la aparición del MU no se detectaron averías.
+### Documentación relativa al sistema de explotación
+### 3.5.1 Medidas adoptadas por los empleados del gestor de la infraestructura y del transportista en materia de dirección, señalización y seguridad del tráfico
+La operación del SZZ se realizó de forma habitual, recibiendo la jefa de estación en el EDD la salida prevista del tren Os 14506 y confirmando la misma. A continuación, estableció la ruta ferroviaria para la entrada del tren Os 14506 en la 1. SK y vigiló su marcha en el panel del SZZ. La seguridad de la marcha del tren Os 14506 por parte de la persona que dirige el tráfico ferroviario se ajustó a los procedimientos tecnológicos del gestor de la infraestructura y no guardaba relación con la aparición del MU.
+En la actividad de los empleados del gestor de la infraestructura antes y inmediatamente después de la aparición del MU no se detectaron averías.
 ### 3.5.2 Intercambio de comunicaciones verbales en relación con el suceso excepcional, incluidos los registros del dispositivo de registro
-Entre el jefe de estación de la estación de Velké Pavlovice y el maquinista del tren Os 14506 se produjo, tras la aparición del MU, una comunicación mediante el TRS, en la que el maquinista actuó conforme al horario de notificación e informó simultáneamente al jefe de estación de la situación tras el MU.
+Entre la jefa de estación de la estación de Velké Pavlovice y el maquinista del tren Os 14506 se produjo, tras la aparición del MU, una comunicación mediante el TRS, en la que el maquinista actuó conforme al horario de avisos e informó a la jefa de estación de la situación tras el MU.
 No se detectó ninguna avería.
 
-
 ## Página 19
+
 
 ### 3.5.3 Medidas adoptadas para la protección y seguridad del lugar del suceso excepcional
 El lugar del MU fue asegurado por el gestor de la infraestructura de conformidad con el decreto n.º 376/2006 Sb.
@@ -740,36 +690,35 @@ Antes de este accidente se produjo una serie de MU similares en lugares (pasos a
 A fecha de 30. 9. 2012, en la República Checa constan registrados 2185 pasos a nivel protegidos con dispositivos de señalización luminosa de paso a nivel sin barreras y 1106 pasos a nivel protegidos con dispositivos de señalización luminosa de paso a nivel con barreras. Por tanto, los pasos a nivel protegidos con dispositivos de señalización luminosa de paso a nivel sin barreras son «solo» aproximadamente el doble que los pasos a nivel protegidos con dispositivos de señalización luminosa de paso a nivel con barreras.
 Solo desde el 1. 1. 2008 hasta el 31. 12. 2011, la Inspección Ferroviaria registra 411 MU en los que se produjeron colisiones en pasos a nivel protegidos con dispositivos de señalización luminosa de paso a nivel sin barreras, y aproximadamente cinco veces menos, es decir, un total de 79 MU en pasos a nivel protegidos con dispositivos de señalización luminosa de paso a nivel con barreras. El listado de las consecuencias de estos accidentes se indica en la tabla siguiente.
 
-
 ## Página 20
 
-|  | N.º de MU | Fallecidos | Heridos | Daños en DV | Daños en infraestructura |
-| Pasos a nivel con luces | 411 | 94 | 262 | 93 821 047 Kč | 20 238 523 Kč |
-| Pasos a nivel con luces y barreras | 79 | 35 | 14 | 9 301 494 Kč | 6 717 104 Kč |
-Las 35 personas fallecidas en pasos a nivel protegidos con dispositivos de señalización luminosa de paso a nivel con barreras eran peatones y ciclistas que no respetaron la señalización luminosa y sonora y, posteriormente, también ignoraron las barreras bajadas.
-De lo anterior se desprende que en los pasos a nivel equipados con dispositivos de señalización luminosa con barreras tanto el número total de accidentes como las consecuencias de estos son notablemente inferiores, no solo en lo que respecta a las consecuencias de lesiones en la salud de las personas participantes en dichos accidentes, sino también en la cuantía de los daños para los gestores de la infraestructura y el transporte ferroviario.
+|  | Nº de MU | Fallecidos | Heridos | Daños en material rodante | Daños en infraestructura |
+| Cruces con señales luminosas | 411 | 94 | 262 | 93 821 047 Kč | 20 238 523 Kč |
+| Cruces con señales luminosas y barreras | 79 | 35 | 14 | 9 301 494 Kč | 6 717 104 Kč |
+Las 35 personas fallecidas en cruces ferroviarios protegidos con instalación de enclavamiento de cruce con señalización luminosa y barreras eran peatones y ciclistas que no respetaron la señalización luminosa y acústica de aviso e ignoraron posteriormente también las barreras bajadas.
+De lo anterior se deduce que en los cruces ferroviarios equipados con instalaciones de enclavamiento luminosas con barreras, tanto el número total de accidentes como las consecuencias de estos accidentes son notablemente inferiores, no solo en relación con las consecuencias de lesiones personales de los participantes en dichos accidentes, sino también en cuanto a la cuantía de los daños para los operadores de vías y del transporte ferroviario.
 ## 4 ANÁLISIS Y CONCLUSIONES
 ## 4.1
 ### Descripción final del suceso excepcional
 ### 4.1.1 Descripción final del suceso excepcional basada en los hechos constatados en el punto 3
-El tren Os 14506, que circulaba desde la estación de Hodonín hasta la estación de Zaječí, el día 5. 3. 2012 a las 7:41 horas en el paso a nivel P 7140 en el km 4,740 colisionó con un NA de la marca Iveco. A una distancia de 30 metros del paso a nivel, el maquinista vio que un NA entraba en el paso a nivel por la izquierda en el sentido de marcha del tren. El maquinista utilizó la bocina de la locomotora e inició un frenado de acción rápida, pero ya no pudo evitar la colisión y el tren Os 14506 impactó en el flanco derecho de la caja del NA. Como consecuencia de la colisión, el NA fue despedido fuera de la vía pública y, al mismo tiempo, destruyó la señal «B». El HDV del tren Os 14506 descarriló a la derecha en el sentido de su marcha.
-En el MU resultaron heridos el maquinista y 5 pasajeros del tren Os 14506. Los daños en el HDV y en las instalaciones de la infraestructura alcanzaron la cifra de 618.347 Kč. Los daños en el NA y en la carga transportada se estimaron en 450.000 Kč.
-
+El tren Os 14506, que circulaba desde la estación de Hodonín hasta la estación de Zaječí, el día 5. 3. 2012 a las 7:41 h colisionó en el cruce ferroviario P 7140 en el pk 4,740 con un VTD de la marca Iveco. A una distancia de 30 metros del cruce ferroviario, el maquinista vio que un VTD entraba en el cruce ferroviario por la izquierda en el sentido de marcha del tren. El maquinista utilizó la bocina de la locomotora y aplicó frenado de acción rápida, pero ya no pudo evitar la colisión y el tren Os 14506 impactó en el lado derecho de la carrocería del VTD. Como consecuencia de la colisión, el VTD fue despedido fuera de la vía pública y, al hacerlo, destruyó el señalizador «B». El material rodante del tren Os 14506 descarriló a la derecha en el sentido de su marcha.
+En el MU se produjeron lesiones al maquinista y a 5 pasajeros del tren Os 14506. Los daños en el material rodante y en las instalaciones de la vía alcanzaron la cifra de 618.347 Kč. Los daños en el VTD y en la carga transportada se estimaron en 450.000 Kč.
 
 ## Página 21
 
 ## 4.2
 ### Análisis
-### 4.2.1 Evaluación de los hechos constatados según el punto 3 y exposición de las conclusiones sobre la causa del suceso excepcional y la actuación de los servicios de emergencia
-El jefe de estación de la estación de Kobylí na Moravě introdujo mediante el EDD la salida prevista del tren a las 7:29 horas y el jefe de estación de la estación de Velké Pavlovice la confirmó. A continuación, el jefe de estación de la estación de Velké Pavlovice estableció la ruta ferroviaria para la entrada en el 1. SK y vigiló la marcha del tren en el SZZ, donde vio que el paso a nivel P 4170 en el km 4,740 estaba en funcionamiento en el momento en que el tren Os 14506 se aproximaba al mismo.
-El tren Os 14506 salió de la parada de Velké Pavlovice a las 7:41 horas y, en su marcha hacia el paso a nivel, alcanzó una velocidad de 48 km.h-1. El sol de la mañana deslumbraba al maquinista del tren Os 14506, por lo que tenía bajada la pantalla de la ventana del HDV. En su marcha hacia el paso a nivel, el maquinista vio que un NA entraba en el paso a nivel. Vio el NA a una distancia de unos 30 metros; una visión más amplia le impedía la edificación (valla) situada en las proximidades del paso a nivel y los automóviles aparcados en un recinto vallado. Advirtió al usuario de la vía pública con la bocina de la locomotora y, dada la corta distancia, inició un frenado de acción rápida; a continuación, se aferró y esperó el impacto.
-El conductor del NA, que circulaba en el sentido desde la localidad de Bořetice, entraba en el paso a nivel por la izquierda en el sentido de marcha del tren. Antes de entrar en el paso a nivel redujo su velocidad a 30 km.h -1 y miró a su alrededor. Según su declaración, no vio ningún tren a la izquierda y, a la derecha, vio a corta distancia el tren Os 14506 que se aproximaba al paso a nivel.
-El conductor del NA no respetó la señal luminosa y sonora del dispositivo de protección de paso a nivel, que, según el análisis de su registro, estaba en funcionamiento a partir de las 7:41:09 horas, y entró en el paso a nivel. El conductor del NA aceleró, en un intento de abandonar el paso a nivel, pero no lo consiguió y se produjo la colisión del tren Os 14506 con el NA, o mejor dicho, con su caja.
-De la evaluación de la documentación solicitada, de las conclusiones de las inspecciones colegiadas, del examen del lugar del MU y de la inspección de la vía se constató que ni el PZZ, ni el estado técnico del material rodante, ni el proceder de los empleados del gestor de la infraestructura y del transportista guardaban relación con la causa de la aparición del MU. El conductor del NA no respetó la señal luminosa y sonora y entró en el paso a nivel en el momento en que se estaba emitiendo la señal sonora y luminosa, es decir, estaba prohibido el acceso (entrada) al espacio del paso a nivel a los usuarios de la circulación por carretera. En el lugar del MU se confirmó la afirmación del conductor del NA de que el sol naciente brillaba por la izquierda y ligeramente por detrás en el sentido de marcha del NA sobre la señal de advertencia.
-Los componentes del sistema integrado de emergencia se presentaron en el lugar del MU inmediatamente después de su notificación e iniciaron de inmediato las labores de rescate, en particular la aseguración del lugar del MU y la atención de los heridos.
-De las estadísticas a largo plazo indicadas en la sección 3.7 de este informe se desprende claramente que la mayoría de las colisiones en pasos a nivel se producen precisamente en los pasos a nivel protegidos con señalización luminosa sin barreras. En los pasos a nivel con barreras, el número de MU es varias veces menor, al igual que el número de víctimas y heridos. La diferencia reside, sin duda, en el método complementario de protección, es decir, en las barreras, que constituyen un obstáculo visual evidente para el conductor de un vehículo por carretera. Los pasos a nivel protegidos por PZZ con barreras se
+### 4.2.1 Evaluación de los hechos constatados de acuerdo con el punto 3 y enunciación de las conclusiones sobre la causa del suceso excepcional y la actuación de los servicios de emergencia
+El jefe de estación de la estación de Kobylí na Moravě registró mediante EDD la salida prevista del tren a las 7:29 horas y el jefe de estación de la estación de Velké Pavlovice la confirmó. A continuación, el jefe de estación de la estación de Velké Pavlovice estableció la ruta de tren para la entrada en la 1.ª vía y vigiló la marcha del tren en la SZZ, donde observó que el paso a nivel P 4170 en el pk 4,740 estaba en funcionamiento en el momento en que el tren Os 14506 se aproximaba al mismo.
+El tren Os 14506 partió de la parada de Velké Pavlovice a las 7:41 horas y, durante la marcha hacia el paso a nivel, alcanzó una velocidad de 48 km·h-1. El sol de la mañana deslumbraba al maquinista del tren Os 14506, por lo que tenía bajada la pantalla de sombra en la ventanilla de la cabina de conducción. Durante la marcha hacia el paso a nivel, el maquinista vio cómo un vehículo NA entraba en el paso a nivel. El vehículo NA se vio a una distancia de unos 30 metros; una mayor visibilidad la impedía la edificación (valla) situada en las inmediaciones del paso a nivel y los automóviles aparcados en el recinto cercado. Advirtió a los usuarios de la vía pública mediante la bocina de la locomotora y, dada la corta distancia, aplicó frenado de acción rápida; a continuación, se aferró y esperó el impacto.
+El conductor del vehículo NA, que circulaba en dirección desde la localidad de Bořetice, entraba en el paso a nivel por la izquierda en el sentido de marcha del tren. Antes de entrar en el paso a nivel redujo su velocidad a 30 km·h-1 y miró a su alrededor. Según su declaración, no vio ningún tren a la izquierda y a la derecha vio a corta distancia el tren Os 14506, que se aproximaba al paso a nivel.
+El conductor del vehículo NA no respetó la señal de advertencia luminosa y sonora del dispositivo de seguridad del paso a nivel, que según el análisis de su registro estaba en funcionamiento desde las 7:41:09 horas, y entró en el paso a nivel. El conductor del vehículo NA aceleró en un intento de abandonar el paso a nivel, pero no lo logró y se produjo la colisión del tren Os 14506 con el vehículo NA, o mejor dicho, con su carrocería.
+De la evaluación de la documentación solicitada, de las conclusiones de las inspecciones comisionales, del levantamiento del lugar del suceso excepcional y de la inspección de la vía se constató que el PZZ, el estado técnico de los vehículos ferroviarios ni el proceder de los empleados del gestor de la infraestructura y del transportista guardan relación con la causa de la producción del suceso excepcional. El conductor del vehículo NA no respetó la advertencia luminosa y sonora y entró en el paso a nivel en el momento en que se estaba emitiendo la advertencia sonora y luminosa, es decir, estaba prohibido a los participantes en el tráfico por carretera el acceso (entrada) al espacio del paso a nivel. En el lugar del suceso excepcional se confirmó la afirmación del conductor del vehículo NA de que el sol naciente de la mañana brillaba por la izquierda y ligeramente por detrás en el sentido de marcha del vehículo NA sobre el indicador de advertencia.
+Los componentes del sistema integrado de emergencias se presentaron en el lugar del suceso excepcional inmediatamente después de su notificación y comenzaron de inmediato las labores de salvamento, en particular la aseguración del lugar del suceso excepcional y la atención de los heridos.
+De las estadísticas a largo plazo indicadas en la sección 3.7 de este informe se desprende de forma inequívoca que la mayoría de las colisiones en pasos a nivel se producen precisamente en los pasos a nivel protegidos con señalización luminosa sin barreras. En los pasos a nivel con barreras, el número de sucesos excepcionales es varias veces menor, así como también el número de víctimas y heridos. La diferencia radica sin duda precisamente en el modo complementario de protección, es decir, en las barreras, que constituyen un obstáculo visual evidente para el conductor de un vehículo por carretera. Los pasos a nivel protegidos por PZZ con barreras se
 
 ## Página 22
+
 
 Desde una perspectiva a largo plazo, tanto para el transporte por carretera como para el ferroviario, la solución menos arriesgada para el cruce a nivel entre la vía férrea y la vía pública es el paso a nivel. Se trata probablemente de la medida más eficaz para evitar la repetición de accidentes ferroviarios por las mismas causas repetitivas, es decir, la no atención a la señalización de aviso PZZ luminosa sin barreras por parte de los usuarios de la vía pública. Aparte de los peatones y ciclistas indisciplinados que rodean o se cuelan por debajo de los travesaños de las barreras, en los últimos 5 años no ha fallecido ningún conductor en un paso a nivel protegido de esta manera – en el año 2007 falleció en un paso a nivel protegido con PZZ y barreras un conductor cuyo automóvil quedó atascado en el paso a nivel y él intentó huir con el automóvil, cuando el tiempo para abandonar el paso a nivel era más que suficiente (entró en el paso a nivel en un momento en que el PZZ no estaba en funcionamiento); otro conductor falleció en un paso a nivel con barreras en el año 2005 después de rodearlas con su vehículo. Puede constatarse así que en los últimos 8 años no ha fallecido ninguna persona en los pasos a nivel con PZZ y barreras debido a un error involuntario de un usuario de la vía pública (La Inspección Ferroviaria no analiza accidentes ferroviarios con más de 8 años de antigüedad, considera que este periodo es suficientemente representativo para llegar a la conclusión de que el PZZ complementado con barreras impide estadísticamente de forma suficiente la muerte de un conductor, ciclista o peatón, siempre y cuando este usuario de la vía pública no arriesgue conscientemente). Por ello es deseable, precisamente con el fin de garantizar la máxima seguridad en los pasos a nivel, seguir aumentando el nivel de protección en las reconstrucciones y modernizaciones de líneas y pasos a nivel mediante la instalación de dispositivos de señalización luminosa con barreras. Esta solución evitaría en el futuro la gran mayoría de las colisiones en los pasos a nivel. Tampoco puede omitirse el hecho de que en la vía férrea hay cada vez más trenes modernos (modernizados) de construcción ligera, que son precisamente más vulnerables en las colisiones, y en los accidentes se producen descarrilamientos y daños considerables. El accidente ferroviario en cuestión es un ejemplo claro de los hechos anteriores, no puede haber duda de que si el conductor del NA hubiera tenido en su camino un obstáculo visual en forma de barrera bajada, con toda probabilidad se habría detenido antes del paso a nivel y el accidente ferroviario no habría tenido lugar.
 ## 4.3
@@ -781,8 +730,8 @@ La causa fundamental de la producción del accidente ferroviario fue la no atenc
 ### 4.3.3 Causas debidas al marco normativo y al uso del sistema de garantía de la seguridad
 No fueron detectadas por la DI.
 
-
 ## Página 23
+
 
 ## 4.4
 ### Hallazgos complementarios
@@ -806,22 +755,21 @@ inspector superior
 Delegación Territorial de Brno
 Delegación Territorial de Brno
 
-
 ## Página 24
+
 
 ## 7 ANEXOS
 Fig. n.º 3: Huellas de descarrilamiento de la locomotora
 
-
 ## Página 25
+
 
 Fig. n.º 4: Locomotora descarrilada asegurada con el manipulador Faresin,
 en dirección desde la estación de Kobylí na Moravě
 Fig. n.º 5: Locomotora descarrilada asegurada con el manipulador Faresin,
 en dirección desde la estación de Velké Pavlovice
 
-
 ## Página 26
 
-Fig. n.º 6: Camión y señal de aviso «B» demolida
-Fig. n.º 7: Camión Iveco dañado tras la colisión
+Fig. n.º 6: NA y el señalizador "B" demolado
+Fig. n.º 7: NA Iveco dañado tras la colisión

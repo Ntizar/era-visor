@@ -10,13 +10,14 @@ chars: 146911
 ratio_longitud: 1.27
 tokens_in: 70206
 tokens_out: 51042
-verificacion: revisar
-notas_cifras: ["bloque 1: original bilingüe: se compara contra el idioma principal (EN)", "bloque 6: cifras cortas: 4/125", "bloque 9: cifras cortas: 1/50", "bloque 11: original bilingüe: se compara contra el idioma principal (EN)"]
-avisos: ["bloque 6: marcadores de página: 4 vs 2"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 3: original bilingüe: se compara contra el idioma principal (CS)", "página 6: original bilingüe: se compara contra el idioma principal (CS)", "página 7: original bilingüe: se compara contra el idioma principal (CS)", "página 11: original bilingüe: se compara contra el idioma principal (CS)", "página 12: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -41,13 +42,13 @@ IČ: 75009561
 mail@di.gov.cz
 tel.: +420 736 521 003
 
-
 ## Página 2
+
 
 Este informe final es público y todos los hechos en él expuestos están respaldados por el expediente de investigación. La Drážní inspekce, en el curso de la investigación, no se ocupa de la responsabilidad por delito o infracción administrativa, por lo que no puede deducirse de este informe final. La investigación se llevó a cabo de forma independiente con el objetivo de determinar las causas y circunstancias del suceso ferroviario.
 
-
 ## Página 3
+
 
 ### 1 RESUMEN
 Fuente: Drážní inspekce
@@ -72,16 +73,16 @@ emisión de la orden de iniciar la maniobra por parte del jefe de cuadrilla de m
 •
 puesta en movimiento de la composición de maniobras por parte del maquinista sin conocer la tecnología de la maniobra;
 
-
 ## Página 4
+
 
 •
 establecimiento incorrecto de la comunicación radio y concesión del permiso para la maniobra, que no había sido debidamente acordada, por parte del jefe de estación de Jihlava, para iniciar la maniobra empujando hacia una vía libre, en cuya continuación no se garantizó la protección lateral de las itinerarios que convergen con la vía en la que estaba establecido el itinerario de tren para el tren R 668.
 La Drážní inspekce no determinó la causa sistémica.
 La Drážní inspekce no emitió ninguna recomendación de seguridad.
 
-
 ## Página 5
+
 
 ### SUMMARY
 13th January 2025, 9:42 (8:42 GMT).
@@ -116,8 +117,8 @@ Systemic factor:
 none.
 Recommendation: not issued.
 
-
 ## Página 6
+
 
 ## Índice
 1 RESUMEN........................................................................................................................3
@@ -161,6 +162,7 @@ SUMMARY.........................................................................
 
 ## Página 7
 
+
 4.2.2 Factores o consecuencias derivados de la instalación y puesta en servicio de vehículos ferroviarios, infraestructura ferroviaria o instalaciones técnicas......................................43
 4.2.3 Factores o consecuencias relacionados con fabricantes de vehículos ferroviarios u otros proveedores de productos ferroviarios............................................................................44
 4.2.4 Factores o consecuencias derivados del mantenimiento y modificación de vehículos ferroviarios o instalaciones técnicas....................................................................................................44
@@ -189,8 +191,8 @@ SUMMARY.........................................................................
 6 RECOMENDACIONES DE SEGURIDAD.....................................................................................50
 ANEXOS..............................................................................................................................51
 
-
 ## Página 8
+
 
 ### Lista de siglas y símbolos utilizados
 CDP
@@ -280,8 +282,8 @@ vehículo ferroviario sobre raíles
 žst.
 estación ferroviaria
 
-
 ## Página 9
+
 
 ### Lista de siglas de la legislación, normas y normativa interna utilizadas
 ley núm. 266/1994 Sb. 
@@ -310,14 +312,14 @@ reglamento de estación de la estación ferroviaria Jihlava, en la redacción vi
 PŘ MRS
 reglamento de explotación del gestor de la vía férrea SŽ «Reglamento de explotación de las redes radio locales PO Jihlava», en la redacción vigente en el momento de la ocurrencia del SU
 
-
 ## Página 10
+
 
 PVDS
 instrucción del gestor de la vía férrea SŽ «Instrucciones para la prestación del servicio de tráfico ESTACIÓN Jihlava», en la redacción vigente en el momento de la ocurrencia del SU
 
-
 ## Página 11
+
 
 ### 2 INVESTIGACIÓN Y SUS CONTEXTOS
 ### 2.1 Decisión de iniciar la investigación
@@ -349,8 +351,8 @@ análisis de los datos del archivo del SZZ de la estación Jihlava;
 •
 análisis de las actas con los empleados implicados;
 
-
 ## Página 12
+
 
 •
 declaraciones de las personas implicadas;
@@ -385,8 +387,8 @@ Coordenadas GPS:
 ### 3.1.3 Descripción del lugar del suceso
 La estación Jihlava se sitúa en la vía férrea nacional, en el trazado según TTP 322C Brno-Horní Heršpice – Jihlava, en el pk 198,627 y simultáneamente en el pk 92,653 (= 198,627 – comparación de los pk de la posición de ambos trazados) del trazado según TTP 701A Veselí nad Lužnicí – Havlíčkův Brod. En el tramo intermedio adyacente entre la estación Jihlava y la estación Jihlava město se instaló un TZZ de 3.ª categoría según SŽ TNŽ 34 2620, barrera automática bidireccional tipo AHP03, sin transmisión de código del VZ, con condición de bloqueo completo introducida a la salida al trazado.
 
-
 ## Página 13
+
 
 Fig. n.º 1: Esquema del lugar de ocurrencia del SU
           Fuente: SŽ, modificación de la DI
@@ -407,6 +409,7 @@ tenía 8 ejes, una longitud de 45 m y un peso de 99 t;
 esta composición estaba preparada, tras cargarse, en la SK n.º 101 en el recinto del ramal de ČD, a. s. – Jihlava, y mediante maniobras se realizaba su colocación en la estación Jihlava, desde donde debía continuar a continuación como tren Os 14813;
 
 ## Página 14
+
 
 •
 La HDV de la maniobra de maniobras era manejada en el momento del suceso por el maquinista desde el puesto de conducción n.º 2;
@@ -448,8 +451,8 @@ De la inspección del dispositivo de seguridad se constató:
 •
 el SZZ es de la categoría 3 según SŽ TNŽ 34 2620 – enclavamiento electrónico tipo ESA 11 con mando desde JOP, con ordenador ejecutivo remoto en la est. Dobronín y en la est. Šlapanov;
 
-
 ## Página 15
+
 
 •
 en el puesto del jefe de estación de la est. Jihlava, en la oficina de tráfico de la est. Jihlava, se documentaron el registrador de averías, el cuaderno de registro telefónico, el estado del SZZ mostrado en los monitores JOP y el equipo de mando para la comunicación telefónica y radioeléctrica;
@@ -486,8 +489,8 @@ terreno llano; la disposición geográfica de la est. Jihlava no guardaba relaci
 
 En la est. Jihlava no se realizaron, inmediatamente antes de la ocurrencia del suceso, trabajos de reparación o mantenimiento por parte del propietario, del explotador de la vía ni de otros sujetos. La circulación en el lugar del suceso y sus alrededores se desarrollaba en régimen normal.
 
-
 ## Página 16
+
 
 ### 3.1.4 Fallecimientos, lesiones y daños materiales
 Con el suceso no se produjo perjuicio para la salud de los empleados del explotador de la vía, del transportista, de personas en relación contractual, ni de pasajeros ni de terceros.
@@ -535,8 +538,8 @@ El transportista de la maniobra y del tren R 668 era ČD, con domicilio en Náb�
 
 El transporte ferroviario se prestaba en virtud de un contrato celebrado entre el explotador de la vía SŽ y el transportista ČD, con efectos desde el 27. 9. 2024.
 
-
 ## Página 17
+
 
 ### 3.1.7 Descripción del material rodante y sus composiciones, incluidos los números de registro
 
@@ -596,8 +599,8 @@ Composición del tren:
 | Número de ejes: | 24 | |
 | TDV: | 51 54 29-41 085-2 | R |
 
-
 ## Página 18
+
 
 | Peso (t): | 51 54 20-41 888-8 | R |
 | Porcentaje de freno necesario (%): | 51 54 29-41 096-9 | R |
@@ -635,52 +638,50 @@ La est. Jihlava estaba electrificada con un sistema de alimentación alterna de 
 
 ## Página 19
 
-SZZ disponaba con un Certificado de Aptitud n.º reg. PZ 1590/07-E.46, válido, emitido por el DÚ el 16. 11. 2007 
-con vigencia por tiempo indefinido. El último mantenimiento de SZZ antes de la aparición de la MU se realizó el 
+SZZ disponaba con un Certificado de Idoneidad válido, n.º de reg. PZ 1590/07-E.46, expedido por el DÚ el 16. 11. 2007
+con vigencia por tiempo indefinido. El último mantenimiento de SZZ antes de la producción del MU se realizó el
 8. 1. 2025.
-De los datos del dispositivo de registro de SZZ en la est. Jihlava del 13. 1. 2025 (tras tener en cuenta 
-la desviación entre el tiempo real y el tiempo registrado por los ordenadores tecnológicos de SZZ), 
+De los datos del dispositivo de registro de SZZ en la est. Jihlava del 13. 1. 2025 (tras tener en cuenta
+la desviación entre el tiempo real y el tiempo registrado por los ordenadores tecnológicos de SZZ),
 entre otros, se desprende:
 •
-9:38:28 h 
-la cabeza de la maniobra de empuje pasó la señal Se12 en el 101. SK, que 
+9:38:28 h
+la cabeza de la maniobra de empuje pasó la señal Se12 en el 101. SK, la cual
 no estaba atendida;
 •
 9:41:25 h
-establecida la ruta de maniobra desde la señal Se4 a la vía n.º 5a. En 
-la señal Se4 se encendió la indicación «Maniobra permitida» y en la 
-seal Se9 permaneció encendida la indicación «Maniobra prohibida»;
+establecida la ruta de maniobra desde la señal Se4 a la vía n.º 5a. En la
+señal Se4 se encendió la indicación «Maniobra permitida», en la
+señal Se9 brillaba la indicación «Maniobra prohibida»;
 •
 9:41:47 h
-la maniobra de empuje pasó la señal de agrupación Se4 (véase Fig. n.º 2);
+la maniobra de empuje empujada pasó la señal de clasificación Se4 (véase Fig. n.º 2);
 •
 9:41:48 h
-establecimiento de la ruta de tren y encendido de la indicación autorizante en la 
-seal S3 para el tren R 668;
+establecimiento de la ruta de tren y encendido de la indicación autorizante en la señal
+S3 para el tren R 668;
 •
 9:42:25 h
-la maniobra de empuje ocupó el tramo de vía situado tras la señal Se9 con la 
-indicación «Maniobra prohibida» (el tramo de vía comienza a 4 m de la señal);
+la maniobra de empuje ocupó el tramo de vía situado tras la señal Se9 con la indicación
+«Maniobra prohibida» (el tramo de vía comienza a 4 m de la señal);
 •
 9:42:27 h
-encendido de la indicación «Alto» en la señal S3. Se trató de un cambio 
-repentino de la indicación luminosa como consecuencia de la alteración de la 
-ruta de tren establecida por el paso de la maniobra de empuje por la señal Se9 
-con la indicación «Maniobra prohibida»;
+encendido de la indicación «Alto» en la señal S3. Se trató de un cambio repentino
+de la indicación de señal como consecuencia de la alteración de la ruta de tren establecida
+por el paso de la señal Se9 con la indicación «Maniobra prohibida» por parte de la maniobra de empuje;
 •
 9:42:32 h
 la cabeza del tren R 668 pasó la señal S3 con la indicación «Alto»;
 •
 9:42:34 h
-indicación de corte de la aguja n.º 11 (véase Fig. n.º 3).
-Fig. n.º 2: Vista del monitor JOP, donde se representa la circulación de la maniobra de empuje y la ruta de tren 
-establecida para el tren R 668 detenido en el 3. SK  
+indicación de la sección de la aguja n.º 11 (véase Fig. n.º 3).
+Fig. n.º 2: Vista del monitor JOP, donde se representa la circulación de la maniobra de empuje y la ruta de tren establecida para el tren R 668 detenido en el 3.SK
    Fuente: SŽ, edición DI
-SZZ presentaba, en el momento de producirse la MU, un funcionamiento correcto y no se habían registrado en él 
-ninguna avería. Mediante la verificación y comprobación del dispositivo, incluida la documentación, se constató que 
-
+SZZ mostraba en el momento de la producción del MU un funcionamiento correcto y no se habían registrado en él ninguna
+averías. Mediante la prueba y la comprobación del dispositivo, incluida la documentación, se constató que
 
 ## Página 20
+
 
 funcionaba, en el momento de producirse la MU, de la manera prescrita para él y se encontraba en un 
 estado operativo-técnico satisfactorio.
@@ -711,8 +712,8 @@ maniobra;
 ◦el jefe del equipo de maniobra se encontraba en la cabeza de la maniobra de 
 empuje;
 
-
 ## Página 21
+
 
 ◦ante la instrucción del jefe del equipo de maniobra «Podemos empujar el tren 14813», 
 primero comprobó visualmente la primera señal de la ruta de maniobra (nota DI: Se4) 
@@ -763,8 +764,8 @@ de paso, no sabe cómo se realiza habitualmente esta maniobra. A veces, los
 jefes de estación la dirigen a la vía n.º 2a o a la vía n.º 5b. No recuerda por qué 
 tuvo retraso. Probablemente, por la demora en el rodeo del tren y en el armado;
 
-
 ## Página 22
+
 
 ◦la tecnología de la maniobra estaba indicada en las tablas de incorporación;
 ◦para la primera maniobra desde la vía 101 hasta el ascensor, el acuerdo se 
@@ -815,8 +816,8 @@ jefe del equipo de maniobra
 ◦el 13. 1. 2025 se incorporó al turno a las 6:30 h en Jihlava;
 ◦acompañó a la maniobra de empuje para el tren 14813 desde el depósito hasta el andén de la est. Jihlava;
 
-
 ## Página 23
+
 
 ◦antes de iniciar la maniobra, acordó con el maquinista que el acuerdo de maniobra con el jefe de estación lo realizaría el maquinista;
 ◦no escuchó el acuerdo, ya que estaba sintonizado en el canal simplex n.º 23;
@@ -840,6 +841,7 @@ jefe del equipo de maniobra
 
 ## Página 24
 
+
 2. SK desde el lado norte, al que llegó el tren Os 14806. Desenganchó la composición y esperó en el vagón hasta que el maquinista pasara con la composición. Tras el paso, acopló el HDV al vagón y acordó la maniobra con el Jefe de Estación «bajo el puente» en el canal n.º 12. A continuación, cambió la estación de radio al canal n.º 23 y realizó la maniobra empujando bajo el puente. No recuerda si acordó también la maniobra hasta el depósito;
 ◦al llegar la composición al depósito se realizó el acoplamiento. Lo realizó conjuntamente con el maquinista;
 ◦no conocía al maquinista y ya no recuerdan de qué hablaron en el depósito;
@@ -860,8 +862,8 @@ maquinista del tren R 668
 ◦el 13. 1. 2025 se incorporó al turno en la est. Jihlava a las 8:35 h para la realización del tren R 668;
 ◦tras realizar las operaciones administrativas, recibió el HDV para el tren R 668 y realizó el registro en el libro de entrega, del cual comprobó que la ZBHDV era válida;
 
-
 ## Página 25
+
 
 ◦tras acordar la maniobra con el Jefe de Estación de Jihlava, se realizó la maniobra desde la vía n.º 3a a través de la vía n.º 3 hasta la cabecera de la est. Jihlava. Tras la entrada del tren R 668, se realizó la maniobra del HDV a la vía n.º 3, donde el jefe de vagones realizó el desenganche del HDV con la composición (nota DI: cambio de HDV en el tren R 668);
 ◦tras el desenganche, se realizó la JZB en colaboración con el jefe de vagones;
@@ -886,8 +888,8 @@ Jefe de Estación de Jihlava
 ◦antes de que pudiera dar la señal «Alto, deténganse por todos los medios», ambas composiciones ya estaban detenidas;
 ◦a continuación, comunicó la aparición de la MU según el cuadro de notificaciones;
 
-
 ## Página 26
+
 
 ◦del maquinista no recibió ninguna información de que durante la maniobra realizada se hubiera producido un cambio del empleado que dirigía la maniobra;
 ◦al maquinista de la sección de maniobra no le asignó ningún grupo de canales para la realización de la maniobra.
@@ -908,8 +910,8 @@ Jefe de Estación de Jihlava
 ◦a la pregunta de por qué no esperó a establecer el segundo itinerario de maniobra, es decir, «del ascensor a la 5a», hasta que hubiera salido el expreso R 668, respondió que dio las instrucciones al maquinista de la sección de maniobra y no calculó que entrara en el itinerario de circulación del tren R 668;
 ◦la vía n.º 5a era de espera, normalmente allí estaban las composiciones que esperan la conducción al andén para la salida. Desde el «ascensor» está lejos y además hay un paso a nivel, por lo que
 
-
 ## Página 27
+
 
 el tiempo de circulación desde el «ascensor» sería mayor. Además, al final del SK n.º 5a hay una señal válida para maniobras;
 ◦en el marco de dicha maniobra habla normalmente con el maquinista, pero ocurre también que con otro empleado de la tripulación de maniobra;
@@ -946,66 +948,87 @@ Jefe de vagones
 
 ### 3.2 Descripción fáctica del suceso
 ### 3.2.1 Secuencia de hechos que condujeron al suceso excepcional
-El 13 de enero de 2025 a las 8:25 h llegó a la estación de Jihlava el tren Os 14806 procedente de la estación de Luka nad Jihlavou. Tras el descenso de los pasajeros, se acordó y ejecutó la maniobra de la composición hacia la vía privada de ČD, a. s. – Jihlava (depósito del operador ČD), donde se realizó en la composición, según el ZPD, la limpieza de retorno y el llenado de agua. A las 9:36:16 h se comunicó el maquinista de la unidad de maniobras en el canal n.º 12 de la red radiofónica VOS al jefe de estación de Jihlava, informando de que se encontraba «al sur» en la SK n.º 101, preparado. El jefe de estación de Jihlava indicó que entendía y, posteriormente, a las 9:37:50 h, concedió la autorización para la maniobra y el consiguiente permiso para iniciar la maniobra mediante el aparato de telecomunicaciones desde la SK n.º 101 hasta la SK n.º 4a (al «ascensor»). Se trataba de la primera y única ruta de maniobra acordada, que acordó el maquinista de la unidad de maniobras como maniobra sin cuadrilla de maniobras (también primera maniobra). A las 9:38:16 h se puso en marcha la unidad de maniobras remolcada desde la SK n.º 101 junto a la señal Se12 sin servicio hacia la SK n.º 4a (al «ascensor»), donde se detuvo a las 9:39:38 h. Con ello quedó ejecutada (finalizada) la maniobra acordada por el maquinista. Tras detenerse, el maquinista sintonizó el canal n.º 23. En este canal se encontraba también sintonizado el jefe de la cuadrilla de maniobras, que se hallaba, durante la ejecución de la primera maniobra, en el vehículo detrás de la HDV.
-El jefe de estación de Jihlava concedió, en el canal n.º 12 de la red radiofónica VOS, a las 9:41:19 h, la autorización para la segunda maniobra, no acordada por nadie, únicamente con las palabras «Composición 14813, aquí jefe de estación de Jihlava, será desde el ascensor por ahora a la 5a, de la valla saldrá el tren rápido y será a la 5b» (también segunda ruta de maniobra), que el maquinista y el jefe de la cuadrilla de maniobras no oyeron debido a la sintonización de la radio en otro canal. A las 9:41:25 h el jefe de estación de Jihlava estableció, mediante el servicio normal del SZZ, la parte de la segunda ruta de maniobra desde la señal Se4 en la SK n.º 5a hasta la señal Se9 y, encendiendo la señal «Maniobra permitida» en la señal Se4, concedió el permiso para iniciar la maniobra. La segunda maniobra (desde la señal Se4 en la SK n.º 5a y posteriormente en la SK n.º 5b) se realizó empujando. En ese momento, el jefe de estación de Jihlava, a través del SZZ, también preparó, estableció y aseguró la ruta de tren de salida para el tren R 668, es decir, desde la SK n.º 3 junto a la señal S3, a continuación a través de los desvíos n.º 15, n.º 12 y n.º 11 en dirección a la estación de Jihlava město.
-El jefe de la cuadrilla de maniobras, al frente de la unidad de maniobras empujada, emitió mediante el radioteléfono la instrucción para iniciar la maniobra empujando. El maquinista de la unidad de maniobras se puso en marcha con esta instrucción y, a las 9:41:47 h, pasó la señal Se4 con la señal «Maniobra permitida». La unidad de maniobras empujada continuó su marcha en la SK n.º 5a, donde a las 9:42:23 h se produjo una circulación no autorizada más allá de la señal Se9 con la señal «Maniobra prohibida». El jefe de la cuadrilla de maniobras advirtió el desvío n.º 11 mal establecido y, a través de la comunicación radiofónica, dio la instrucción de detener al maquinista. Se produjo la entrada en la ruta de tren establecida para el tren R 668 y la posterior bifurcación del desvío n.º 11. La unidad de maniobras empujada se detuvo a las 9:42:32 h en el km 198,505.
-El maquinista del tren R 668 vio que la unidad de maniobras empujada había invadido su ruta de tren y aplicó el frenado de acción rápida. El tren R 668 se detuvo en el km 198,572. Ambas composiciones se detuvieron a una distancia de 67 m entre sí.
-### 3.2.2 Secuencia de hechos desde la producción del suceso excepcional hasta la finalización de las acciones de los servicios de rescate
+El 13 de enero de 2025 a las 8:25 h llegó a la est. Jihlava el tren Os 14806 procedente de la dirección de la est. Luka nad Jihlavou. Tras el descenso de los pasajeros, se acordó y ejecutó la maniobra de la composición a la vía privada de ČD, a. s. – Jihlava (depósito del operador ČD), donde se realizó en la composición, conforme al ZPD, el lavado de retorno y el llenado de agua. A las 9:36:16 h se comunicó el maquinista de la unidad de maniobras en el canal n.º 12 de la red radiofónica VOS al jefe de estación de la est. Jihlava con la información de que se encontraba «en el sur» en la SK n.º 101, preparado. El jefe de estación de la est. Jihlava indicó que entendía y, a continuación, a la hora 9:37:50 h, concedió la autorización para la maniobra y el posterior consentimiento para iniciar la maniobra mediante el aparato de telecomunicaciones desde la SK n.º 101 hasta la SK n.º 4a (hasta el «ascensor»). Se trataba de la primera y única ruta de maniobra acordada, que acordó el maquinista de la unidad de maniobras como maniobra sin cuadrilla de maniobras (también primera maniobra). A las 9:38:16 h se puso en marcha la unidad de maniobras remolcada desde la SK n.º 101 junto a la señal Se12 sin servicio en la SK n.º 4a (hasta el «ascensor»), donde se detuvo a la hora 9:39:38 h. Con ello quedó realizada (finalizada) la maniobra acordada por el maquinista. Tras detenerse, el maquinista sintonizó el canal n.º 23. En este canal se encontraba sintonizado también el jefe de la cuadrilla de maniobras, que se hallaba, durante la ejecución de la primera maniobra, en el vehículo detrás de la HDV.
+El jefe de estación de la est. Jihlava concedió en el canal n.º 12 de la red radiofónica VOS a la hora 9:41:19 h la autorización para la maniobra de un segundo movimiento de maniobras no acordado por nadie, y únicamente con las palabras «Composición 14813, aquí jefe de estación Jihlava, será desde el ascensor de momento hasta la 5a, de la valla saldrá el tren rápido y será en la 5b» (también segunda ruta de maniobra), que no oyeron el maquinista ni el jefe de la cuadrilla de maniobras debido a que habían sintonizado la radio en otro canal. A la hora 9:41:25 h el jefe de estación de la est. Jihlava estableció mediante el servicio normal del SZZ la parte de la segunda ruta de maniobra desde la señal Se4 en la SK n.º 5a hasta la señal Se9 y, mediante la iluminación de la señal «Maniobra permitida» en la señal Se4, concedió el consentimiento para iniciar la maniobra. El segundo movimiento de maniobras (desde la señal Se4 en la SK n.º 5a y posteriormente en la SK n.º 5b) se estaba realizando empujando. En este momento, el jefe de estación de la est. Jihlava realizó también, a través del SZZ, la preparación, establecimiento y aseguramiento de la ruta de salida del tren para el tren R 668, y ello desde la SK n.º 3 junto a la señal S3, a continuación a través de los desvíos n.º 15, n.º 12 y n.º 11 en dirección a la est. Jihlava město.
+El jefe de la cuadrilla de maniobras a la cabeza de la unidad de maniobras empujada emitió mediante la estación radiofónica la instrucción para iniciar la maniobra empujando. El maquinista de la unidad de maniobras se puso en marcha con esta instrucción y a la hora 9:41:47 h pasó la señal Se4 con la señal «Maniobra permitida». La unidad de maniobras empujada continuó su marcha en la SK n.º 5a, donde a la hora 9:42:23 h se produjo una circulación no autorizada más allá de la señal Se9 con la señal «Maniobra prohibida». El jefe de la cuadrilla de maniobras advirtió el desvío n.º 11 incorrectamente establecido y, a través de la comunicación radiofónica, dio la instrucción al maquinista de detenerse. Se produjo la entrada en la ruta de tren establecida para el tren R 668 y la posterior rotura del desvío n.º 11. La unidad de maniobras empujada se detuvo a la hora 9:42:32 h en el km 198,505.
+El maquinista del tren R 668 vio que la unidad de maniobras empujada había invadido su ruta de tren y aplicó el frenado de emergencia. El tren R 668 se detuvo en el km 198,572. Ambas composiciones se detuvieron a una distancia de 67 m entre sí.
+### 3.2.2 Secuencia de hechos desde la producción del suceso excepcional hasta la finalización de las actuaciones de los servicios de rescate
 •
 9:44 h
-el jefe de estación de Jihlava comunicó la producción del SE a la guardia de accidentes del ámbito de explotación;
+el jefe de estación de la est. Jihlava comunicó la producción del SE a la guardia de accidentes del distrito operativo;
+
+## Página 29
+
 •
 9:46 h
-el jefe de estación de Jihlava comunicó la producción del SE a la HZS SŽ;
+el jefe de estación (výpravčí) de la estación de Jihlava comunicó la aparición de la MU al HZS SŽ;
 •
 9:47 h
-el jefe de estación de Jihlava comunicó la producción del SE al jefe de despacho del CDP Přerov;
+el jefe de estación (výpravčí) de la estación de Jihlava comunicó la aparición de la MU al jefe de despachador del CDP Přerov;
 •
-10:00 h el jefe de estación de Jihlava comunicó la producción del SE a la PČR;
+10:00 h el jefe de estación (výpravčí) de la estación de Jihlava comunicó la aparición de la MU a la PČR;
 •
-10:00 h el jefe de despacho del CDP Přerov comunicó la producción del SE a la O18 SŽ;
+10:00 h el jefe de despachador del CDP Přerov comunicó la aparición de la MU a la O18 SŽ;
 •
-10:03 h la persona designada de la O18 SŽ comunicó la producción del SE a la COP DI;
+10:03 h la persona designada de la O18 SŽ comunicó la aparición de la MU al COP DI;
 •
-11:30 h inicio de la inspección del lugar de producción del SE por parte de los inspectores del DI;
+11:30 h inicio de la inspección del lugar de la aparición de la MU por parte de los inspectores del DI;
 •
-12:30 h el inspector del DI presente dio el consentimiento para la liberación de la vía;
+12:30 h el inspector del DI presente concedió el permiso para la liberación de la vía;
 •
-12:45 h se produjo la restablecimiento total de la explotación.
-El Plan IZS no fue activado dada la naturaleza del SE.
-En el lugar del SE intervinieron los siguientes cuerpos del IZS:
+12:45 h se produjo la total restablecimiento de la explotación.
+
+El plan de IZS no se activó dada la naturaleza de la MU.
+
+En el lugar de la MU intervinieron los siguientes servicios de IZS:
+
 •
-Policía ČR, Distrito de Jihlava;
+Policía de la República Checa (Policie ČR), Departamento de Distrito de Jihlava;
 •
 HZS SŽ, Unidad de Protección Contra Incendios de Brno.
+
 ### 4 ANÁLISIS DEL SUCESO
-### 4.1 Funciones y obligaciones
-### 4.1.1 Operadores ferroviarios y explotadores de vías
-El explotador de la vía tiene, entre otras, la obligación de explotar la vía para las necesidades del tráfico ferroviario fluido y seguro según las normas de explotación de la vía y la autorización administrativa. El explotador de la vía tiene, asimismo, la obligación de emitir normas internas para la seguridad de la vía, la explotación de la vía y la organización del tráfico ferroviario. El jefe de estación está, entre otras, obligado a utilizar, en la explotación de la vía, las dependencias derivadas del funcionamiento del aparato de seguridad en servicio, y las instrucciones dadas a los jefes de estación en la dirección del tráfico deben ser breves, comprensibles y no pueden poner en peligro la seguridad del tráfico ferroviario.
-Cada maniobra debía ser acordada. Solo podía acordar la maniobra, por parte del operador ferroviario, el empleado que dirige la maniobra (más abajo, más detalle) y, por parte del explotador de la vía, el jefe de estación. Según el art. 200 apartado 1 de la norma interna SŽ D1, en el SE en cuestión el jefe de estación, antes de conceder el permiso para iniciar la maniobra, debía conocer el operador ferroviario que iba a realizar la maniobra, la tecnología de maniobra requerida por el operador ferroviario, además de si la maniobra se iba a realizar sin cuadrilla de maniobras, la forma de comunicación del empleado que dirige la maniobra con el jefe de estación y la tracción de todas las HDV en servicio y preparadas.
-La autorización para la maniobra estaba definida en el art. 196 apartado 1 de la norma interna SŽ D1, donde se indicaba, entre otras, que la autorización para la maniobra la concede el empleado al empleado que dirige la maniobra, con quien se acuerda la maniobra, y es siempre parte del acuerdo de maniobra. Según el art. 200 apartado 2 de la norma interna SŽ D1, el jefe de estación, en el marco del acuerdo de maniobra, debía comunicar al empleado que dirige la maniobra:
+
+### 4.1 Tareas y obligaciones
+
+### 4.1.1 Transportistas y gestores de vías
+
+El gestor de la vía tiene, entre otras, la obligación de explotar la vía para las necesidades del transporte ferroviario fluido y seguro de acuerdo con las normas de explotación de la vía y la autorización administrativa. El gestor de la vía tiene además la obligación de emitir normas internas para la señalización de la vía, la explotación de la vía y la organización del transporte ferroviario. El jefe de estación (výpravčí) está, entre otras, obligado, durante la explotación de la vía, a utilizar las dependencias derivadas del funcionamiento del sistema de señalización explotado, y las instrucciones dictadas a los jefes de estación durante la dirección del tráfico deben ser breves, comprensibles y no deben poner en peligro la seguridad del transporte ferroviario.
+
+Cada maniobra debía ser acordada. La maniobra podía ser acordada, por parte del transportista, únicamente por el empleado que dirige la maniobra (más adelante, véase más abajo) y, por parte del gestor de la vía, por el jefe de estación. De acuerdo con el art. 200 apartado 1 de la norma interna SŽ D1, en relación con la MU en cuestión, el jefe de estación debía conocer, antes de conceder el permiso para iniciar la maniobra, el transportista que realizará la maniobra, la tecnología de maniobra requerida por el transportista, asimismo, si la maniobra se realizará sin cuadrilla de maniobras, la forma de comunicación del empleado que dirige la maniobra con el jefe de estación y la tracción de todos los HDV en servicio y disponibles para el servicio.
+
+El permiso para la maniobra estaba definido en el art. 196 apartado 1 de la norma interna SŽ D1, donde se indicaba, entre otras, que el permiso para la maniobra lo concede al empleado que dirige la maniobra el empleado con el que se acuerda la maniobra, y es siempre parte del acuerdo de la maniobra. De acuerdo con el art. 200 apartado 2 de la norma interna SŽ D1, el jefe de estación debía, en el marco del acuerdo de la maniobra, comunicar al empleado que dirige la maniobra:
+
 •
-siempre la tecnología de maniobra – inicio y final de las rutas de maniobra, incluidas las vías por las que se va a realizar la maniobra;
+siempre la tecnología de maniobra – el inicio y el final de los recorridos de maniobra, incluidas las vías por las que se realizará la maniobra;
 •
 el lapso temporal de la maniobra permitida, si es necesario en función de la situación del tráfico en la estación;
-•
-el momento en que alguna de las vías destinadas a la circulación de trenes debe liberarse antes de que finalice la maniobra permitida, si es necesario en función de la situación del tráfico en la estación;
-•
-qué vías podrán permanecer ocupadas tras la finalización de la maniobra en función de la tecnología de maniobra acordada;
-•
-hasta dónde se puede maniobrar, si es necesario determinarlo;
-•
-siempre las excepciones que no pueden ser conocidas por el empleado que dirige la maniobra y que influyen en la ejecución segura de la maniobra (p. ej., limitación temporal de velocidad en las vías por las que se va a maniobrar, avería del aparato de seguridad de paso a nivel, etc.);
-•
-siempre la desconexión (o, en su caso, la conexión) o la no circulabilidad de la línea de contacto (incluido el modo de paso de las secciones eléctricas o de los separadores de sección, si es conocido por el jefe de estación), de la eventual ausencia o avería de las señales para explotación eléctrica, si la maniobra se realiza con vehículos de tracción dependiente.
-Tras la comunicación de los hechos descritos, el jefe de estación podía entonces conceder la autorización para la maniobra.
-Al inicio del análisis fue necesario aclarar primero varios nombres de la clasificación funcional de los miembros de la cuadrilla de maniobras en relación con la verificación del cumplimiento de las obligaciones de cada función.
-El empleado que dirigía la maniobra era, según el art. 198 apartado 5 de la norma interna SŽ D1, el maquinista de la unidad motriz en la maniobra sin cuadrilla de maniobras y el jefe de la cuadrilla de maniobras en la maniobra con cuadrilla de maniobras. Sobre si la maniobra se iba a realizar sin cuadrilla de maniobras decidía, según el art. 209 apartado 1 de la norma interna SŽ D1, el maquinista. La disposición del art. 198 apartado 7 de la norma interna SŽ D1 indicaba además qué obligaciones cumple el empleado que dirige la maniobra, p. ej., acuerda la maniobra, organiza y dirige el movimiento de la unidad de maniobras y, durante la maniobra, se comunica con los empleados del operador ferroviario y con la dirección de explotación, mientras que el apartado 9 del mismo artículo permitía que el empleado que dirige la maniobra transmitiera sus obligaciones a otro empleado cualificado para dirigir maniobras. El art. 198 apartado 10 de la norma interna SŽ D1 indicaba, asimismo, que en todos los casos en que se produzca un cambio del empleado que cumple las obligaciones del empleado que dirige la maniobra, el empleado saliente informará de este hecho al jefe de estación y a todos los empleados participantes en la maniobra, directamente o a través del jefe de estación.
-SŽ comunicó, en el marco de la tramitación de esta ZZ, que «solo podía acordar la maniobra el empleado que dirige la maniobra y no podía delegar esta su obligación en otro empleado», con referencia al art. 196 apartado 5 de la norma interna SŽ D1, donde se indica, entre otras, que «Pueden acordar la maniobra: a) por parte del operador ferroviario, solo el empleado que dirige la maniobra; ...». Sin embargo, esto no corresponde al tenor general del art. 198 apartado 9 de esta norma, que indicaba «El empleado que dirige la maniobra debe cumplir por sí mismo las obligaciones que le impone esta norma, salvo que transmita el cumplimiento de sus obligaciones a otro empleado cualificado para dirigir maniobras.». Por tanto, el DI no puede estar totalmente de acuerdo con la comunicación de SŽ y no considera que, en el momento de la producción de este SE, la situación en que el empleado que dirige la maniobra transmitió el cumplimiento de la obligación de acordar la maniobra a otro empleado cualificado sea claramente prohibida.
-Además, SŽ comunicó que «Si se produjo un cambio del empleado que dirige la maniobra como tal (el maquinista de la unidad motriz en la maniobra sin cuadrilla de maniobras por otro maquinista o el jefe de la cuadrilla de maniobras en la maniobra con cuadrilla de maniobras por otro jefe de la cuadrilla de maniobras), entonces para el empleado saliente regía la obligación de informar al jefe de estación y a todos los empleados participantes en la maniobra, directamente o a través del jefe de estación
 
+## Página 30
+
+•
+el momento en que algunas de las vías destinadas a la circulación de trenes deben liberarse antes de que finalice la maniobra autorizada, si es necesario en función de la situación de tráfico en la estación;
+•
+qué vías podrán permanecer ocupadas tras la finalización de la maniobra con base en la tecnología de maniobra acordada;
+•
+hasta dónde se podrá maniobrar, si es necesario determinarlo;
+•
+en todo caso, circunstancias que no pueden ser conocidas por el empleado que dirige la maniobra y que influyen en la ejecución segura de la misma (por ejemplo, limitación transitoria de velocidad en las vías por las que se va a maniobrar, avería del dispositivo de seguridad de paso a nivel, etc.);
+•
+en todo caso, la desconexión (o, en su caso, la conexión) o la no circulabilidad de la catenaria (incluido el modo de paso de las secciones eléctricas o de los separadores de sección, si es conocido por el jefe de estación), sobre la eventual ausencia o avería de señales para la circulación eléctrica, si la maniobra se realiza con vehículos de tracción dependiente.
+
+Tras la comunicación de los hechos anteriormente descritos, el jefe de estación podía entonces conceder el permiso para la maniobra.
+
+Al inicio del análisis fue necesario aclarar primero varios nombres de la clasificación funcional de los miembros de la cuadrilla de maniobra en relación con la verificación del cumplimiento de las obligaciones de cada función.
+
+El empleado que dirigía la maniobra era, según el art. 198 apartado 5 de la norma interna SŽ D1, el maquinista del vehículo de cabecera en la maniobra sin cuadrilla de maniobra y el jefe de cuadrilla de maniobra en la maniobra con cuadrilla de maniobra. Sobre si la maniobra se realizaría sin cuadrilla de maniobra decidía, según el art. 209 apartado 1 de la norma interna SŽ D1, el maquinista. La disposición del art. 198 apartado 7 de la norma interna SŽ D1 indicaba además qué obligaciones cumplía el empleado que dirigía la maniobra, es decir, por ejemplo, acordaba la maniobra, organizaba y dirigía el movimiento del tramo de maniobra y durante la maniobra se comunicaba con los empleados del operador y con la dirección de explotación, mientras que el apartado 9 del mismo artículo permitía que el empleado que dirigía la maniobra transmitiera sus obligaciones a otro empleado cualificado para dirigir maniobras. El art. 198 apartado 10 de la norma interna SŽ D1 indicaba además que en todos los casos en que se produjera un cambio del empleado que cumple las obligaciones del empleado que dirige la maniobra, el empleado saliente comunicaría este hecho al jefe de estación y a todos los empleados participantes en la maniobra directamente o a través del jefe de estación.
+
+SŽ comunicó, en el marco de la tramitación de esta ZZ, que «solo el empleado que dirigía la maniobra podía acordar la maniobra y no podía delegar esta su obligación en otro empleado», con referencia al art. 196 apartado 5 de la norma interna SŽ D1, donde se indica, entre otros, que «Acordar la maniobra puede: a) por parte del operador, solo el empleado que dirige la maniobra; ...». Sin embargo, esto no corresponde al tenor general del art. 198 apartado 9 de esta norma, que indicaba «El empleado que dirige la maniobra debe cumplir por sí mismo las obligaciones que le impone esta norma, salvo que transmita el cumplimiento de sus obligaciones a otro empleado cualificado para dirigir maniobras.». Por tanto, la DI no puede estar totalmente de acuerdo con la comunicación de SŽ y no considera que, en el momento de producirse esta MU, la situación en la que el empleado que dirigía la maniobra transmitió el cumplimiento de la obligación de acordar la maniobra a otro empleado cualificado fuera claramente prohibida.
+
+Además, SŽ comunicó que «Si se produjo un cambio del empleado que dirigía la maniobra como tal (el maquinista del vehículo de cabecera en la maniobra sin cuadrilla de maniobra por otro maquinista, o el jefe de cuadrilla de maniobra en la maniobra con cuadrilla de maniobra por otro jefe de cuadrilla de maniobra), entonces para el empleado saliente regía la obligación de comunicar al jefe de estación y a todos los empleados participantes en la maniobra directamente o a través del jefe de estación
 
 ## Página 31
+
 
 de este hecho.», lo que significaría que el art. 198 apartado 10 de la norma interna SŽ D1 se aplicaría únicamente a la situación en que se produzca un cambio del empleado que dirige la maniobra como tal. Con la aplicación de la interpretación de SŽ, la norma no resolvería en absoluto la información al jefe de estación y a todos los empleados participantes en la maniobra en la situación en que se hubiera transmitido solo algunas de las obligaciones del empleado que dirige la maniobra en el sentido del art. 198 apartado 9 (p. ej., la organización y dirección del movimiento de la unidad de maniobras a un maniobrador suficientemente cualificado del turno en la maniobra con cuadrilla de maniobras).
 Sin embargo, en el momento de la emisión de esta ZZ la situación ya es distinta, dado que la norma interna SŽ D1 Norma de Explotación y de Señalización, con efectos a partir del 14 de diciembre de 2025, ya establece de forma clara en el art. 231 apartado 3 que la obligación de acordar la maniobra no puede ser transmitida por el empleado que dirige la maniobra, es decir, que, p. ej., no es posible designar a un maquinista para acordar la maniobra con cuadrilla de maniobras, y que de la transmisión de las demás obligaciones del empleado que dirige la maniobra a otro empleado cualificado es necesario informar al jefe de estación y a todos los empleados participantes en la maniobra.
@@ -1017,13 +1040,14 @@ El DI considera que la solución más adecuada para la composición de trenes es
 
 ## Página 32
 
+
 (del SŘ de la estación de Jihlava, nombre local para SK n.º 4a) lo acordó el maquinista de la maniobra. El maquinista podría, durante la maniobra con el cuadrillo de maniobras, entre otros, dirigir el movimiento de la formación de maniobras bajo el jefe del cuadrillo de maniobras y, según la interpretación de la DI, también acordar la maniobra si estuviera autorizado para ello (en el sentido del art. 198 apartado 9 de la norma interna de SŽ D1); en tal caso, sin embargo, el jefe del cuadrillo de maniobras tendría que informar al jefe de estación de este cambio (cambio respecto a la situación básica descrita en la norma en cuestión) en el sentido del art. 198 apartado 10 de la norma interna de SŽ D1, lo cual, sin embargo, no ocurrió. El jefe del cuadrillo de maniobras, no obstante, habló repetidamente (véase el punto 3.1.9 de la presente ZZ) únicamente de la autorización al maquinista para acordar la maniobra, no de la autorización para dirigir el movimiento de la formación de maniobras; a pesar de ello, el jefe del cuadrillo de maniobras, durante la marcha desde el SK n.º 101 hasta el «ascensor», no dirigió el movimiento de la formación de maniobras, lo cual, en una maniobra con el cuadrillo de maniobras, debería haber hecho (según el art. 198 apartado 11 de la norma interna de SŽ D1); entre otros, antes de la marcha no dio al maquinista la instrucción para poner en movimiento la formación de maniobras según el art. 200 apartado 4 de la norma interna de SŽ D1, y ello ni siquiera personalmente (se encontraba en el vagón) ni por radio. Por estas razones, la DI valora la colocación de la formación para el tren Os 14813 en el día de producción del MU como dos maniobras, en las que la primera maniobra sin cuadrillo de maniobras (1.ª vía de maniobras, maniobra por tracción) la acordó el maquinista y la segunda maniobra con cuadrillo de maniobras (2.ª vía de maniobras, maniobra por empuje) no la acordó nadie.
 Antes de que se llevara a cabo la primera maniobra, el maquinista de la formación de maniobras se comunicó con el jefe de estación de Jihlava y le informó a las 9:36:13 h de que estaba listo con la formación 14813 en el SK n.º 101, si bien previamente no se había establecido correctamente la comunicación radio en el sentido del art. 9 sección 2 apartado 5 de la norma interna de SŽ Z11 (en este caso se trata de una constatación al margen del nexo causal). El maquinista no comunicó al jefe de estación de Jihlava ninguna información adicional sobre la maniobra prevista. El jefe de estación, sin embargo, conocía cierta información, tal como declaró en su declaración de explicaciones. Así, el jefe de estación conocía el operador, la tracción de la locomotora y el hecho de que se trataba de una maniobra con la formación para el tren Os 14813 con salida regular de la estación de Jihlava a las 9:43 h. Esta información sobre la maniobra figuraba también en el documento «PVDS en la estación de Jihlava» (véase la Fig. n.º 6). Se trataba, por tanto, de una maniobra regular. La información sobre si la maniobra se realizaría sin cuadrillo de maniobras y si se realizaría por tracción o por empuje no está concretamente indicada en el PVDS; no obstante, se deduce de la composición de la formación, de la maniobra anterior con la misma (circunnavegación), de la ruta del futuro tren y de la necesidad de colocar la formación en marcha atrás. Si el jefe de estación no hubiera deducido de esta información y de la observación de la vía que, al menos, la segunda vía de maniobras debía realizarse como maniobra con cuadrillo de maniobras, puesto que debía llevarse a cabo por empuje, en virtud del art. 200 apartado 1 de la norma interna de SŽ D1 incumbía al jefe de estación de Jihlava obtener esta información, por ejemplo, preguntando al maquinista. El jefe de estación concedió por radio, en el canal n.º 12 de la red radio VOS, el permiso para la maniobra a las 9:37:50 h, esto es, desde el SK n.º 101 hasta el «ascensor», es decir, únicamente para la primera maniobra. En el permiso también concedió el consentimiento para circular junto a la señal de clasificación Se12 no atendida. No se mencionó información relativa al lapso temporal de la maniobra permitida ni a la hora en la que deben liberarse determinadas vías.
 El maquinista no comunicó la información de dónde pretendía maniobrar con la formación, ni si se trataba de una maniobra sin cuadrillo de maniobras, y aunque el maquinista no estaba autorizado para acordar maniobras con cuadrillo de maniobras (el jefe del cuadrillo de maniobras no informó de ello al jefe de estación), el jefe de estación supuso erróneamente que se trataba del empleado que dirigía la maniobra para toda la maniobra prevista y que el acuerdo lo realizaba también para la segunda vía de maniobras.
 El jefe de estación, no obstante, concedió el permiso para la maniobra únicamente desde el SK n.º 101 hasta el «ascensor», es decir, el permiso para la primera maniobra, que finalizó tras recorrer esta vía de maniobras. La segunda maniobra debía acordarse de nuevo con el segundo empleado que dirigía la maniobra, que era el jefe del cuadrillo de maniobras, ya que en la segunda maniobra era necesario empujar la formación de maniobras y, por ello, la segunda maniobra debía realizarse con el cuadrillo de maniobras.
 
-
 ## Página 33
+
 
 El maquinista, tras finalizar la primera maniobra, sintonizó la radio en la red radio STE, es decir, el canal n.º 23, destinado al operador ČD, donde aguardaba las instrucciones para su siguiente marcha por parte del jefe del cuadrillo de maniobras, quien también estaba sintonizado en esta red. Por tanto, ni el maquinista de la formación de maniobras ni el jefe del cuadrillo de maniobras oyeron el permiso para la segunda maniobra por parte del jefe de estación de Jihlava, que este concedió en el canal n.º 12 de la red radio VOS a las 9:41:19 h, ni la información de que esta segunda vía de maniobras se establecería solo parcialmente y que su parte restante se establecería únicamente tras el paso del tren R 668. La mención de dicha información excedía del marco de las obligaciones establecidas por la norma interna de SŽ D1 y habría sido sin duda en beneficio de la seguridad si el maquinista y el jefe del cuadrillo de maniobras la hubieran oído.
 A pesar de que el jefe del cuadrillo de maniobras no sabía a dónde se dirigía con la formación de maniobras empujada, en base a la señal «Maniobra permitida» en la señal Se4, dio al maquinista, por radio, la instrucción de poner en movimiento la formación de maniobras. Según su declaración de explicaciones, supuso que la maniobra la había acordado el maquinista cuando se encendió en la señal Se4 la señal «Maniobra permitida», a pesar de que no le había autorizado para ello. En ese momento, el jefe de estación de Jihlava también estableció la ruta de tren para el tren R 668 desde el SK n.º 3 en dirección a la estación de Jihlava město.
@@ -1031,8 +1055,8 @@ Fig. n.º 5: Parte de la tabla del documento PVDS relativa al tren Os 14813
        Fuente: SŽ
 A las 9:42:23 h se produjo el paso por la señal de clasificación Se9, que indicaba la señal «Maniobra prohibida» a la formación de maniobras empujada, la cual a continuación siguió avanzando hasta el desvío n.º 11. El jefe del cuadrillo de maniobras detectó el desvío n.º 11
 
-
 ## Página 34
+
 
 establecido incorrectamente en la vía de maniobras y comenzó a dar por radio al maquinista repetidamente la señal «Alto». El maquinista detuvo a continuación la formación de maniobras en el km 198,505, es decir, a 41 m de la señal Se9.
 Todo el proceso, desde el acuerdo de la maniobra hasta su realización, estuvo marcado por una comunicación insuficiente entre los empleados implicados. Como se deduce del punto 3.1.9 de la presente ZZ y del texto anterior, los distintos participantes interpretaron de forma diferente la distribución de obligaciones e infirieron incorrectamente la información que faltaba, descuidando también sus propias obligaciones impuestas por las correspondientes normas internas, que, según la distribución de obligaciones que consideraban, deberían cumplir. La confianza mutua y la incomprensión de los roles de los distintos participantes desembocaron finalmente en un malentendido, lo que sin duda contribuyó a la posterior producción del MU.
@@ -1043,6 +1067,7 @@ Es necesario señalar que el art. 200 de la norma interna de SŽ D1 imponía al 
 ### saber si la maniobra se realizaría sin cuadrillo de maniobras. El requisito de conocer el modo de realización de la maniobra (es decir, por tracción o por empuje) no se deduce de él. A la vez, el art. 205 apartado 3 de la norma interna de SŽ D1 establecía para el jefe de estación obligaciones relativas a la maniobra por empuje. Sin la información de que se trata de una maniobra por empuje, sin embargo, no es posible cumplir esta obligación de forma segura y conforme a la norma. El jefe de estación tuvo así que obtener esta información del operador
 
 ## Página 35
+
 
 dentro de la tecnología de maniobras requerida por el transportista, o bien debía averiguarla en el transportista en el marco de la concertación de la maniobra.
 ### Hallazgos:
@@ -1072,8 +1097,8 @@ artículo 9 sección 2 apartado 5 de la norma interna SŽ Z11:
 «Al establecer la comunicación por radio, el participante que inicia la conexión debe utilizar primero la indicación de llamada del participante llamado y luego indicar la suya. El participante llamado confirmará a continuación la conexión de la misma manera, es decir, indicará primero la indicación de llamada del participante que llama y luego la suya. …».
 Del documento PVDS se desprende que en el tren Os 14813, en diferentes días, pasaban diferentes composiciones de los trenes anteriores (véase la Fig. n.º 6). En el tren Os 14806 se indica que la composición gira para el tren Os 14813 y posteriormente, en el marco de la maniobra, circula y se retira al depósito para su equipamiento. En el tren
 
-
 ## Página 36
+
 
 Os 14813, que estaba formado por la composición del tren Os 14806, sin embargo, en la parte de la maniobra se indicaba que la locomotora entra desde el depósito.
 La contradicción indicada en el documento PVDS permite la aparición de un procedimiento operativo diferente, en el que al depósito puede acoplarse o bien la composición completa, o bien solo la locomotora sin vagón, es decir, sin la participación de la cuadrilla de maniobras. Esta ambigüedad es confirmada también por los registros de comunicación del día del MU, de los que se deduce que incluso en el día en que se produjo el MU, entre los empleados del transportista se planteaba la cuestión de si al depósito iría solo la locomotora o la composición completa.
@@ -1094,8 +1119,8 @@ artículo 5 apartado 3 de la norma interna SŽ Z11:
 artículo 9 sección 1 apartado 6 de la norma interna SŽ Z11:
 «El empleado que organiza y dirige el tráfico ferroviario responde o corresponsabiliza en la operación del ZR de la disciplina de las comunicaciones orales en las llamadas redes «activas» de SŽ.
 
-
 ## Página 37
+
 
 Normalmente se trata de las MRS, que SŽ necesita necesariamente para organizar y dirigir el tráfico ferroviario y para el cumplimiento de las obligaciones del gestor de la infraestructura. En el PŘ MRS, estas redes de radio están indicadas en la lista de MRS explotadas con la letra mayúscula «A» entre paréntesis. En estos casos, el empleado correspondiente que organiza y dirige el tráfico ferroviario en el sector de radio correspondiente se indica normalmente como operador de la estación de radio de control.»;
 •
@@ -1109,8 +1134,8 @@ En la investigación se constató la infracción de normas jurídicas y de norma
 § 35 apartado 1 letra a) de la Ley núm. 266/1994 Sb.:
 «El transportista está obligado a explotar el tráfico ferroviario de acuerdo con las reglas de explotación del tráfico ferroviario, la licencia vigente y el contrato celebrado con el gestor de la infraestructura para la explotación del tráfico ferroviario en la infraestructura,»;
 
-
 ## Página 38
+
 
 •
 § 35 apartado 1 letra f) de la Ley núm. 266/1994 Sb.:
@@ -1137,6 +1162,7 @@ Esta disposición es problemática por dos motivos. En primer lugar, cabe señal
 
 ## Página 39
 
+
 ### empleado cualificado. Sin embargo, lo fundamental es la contradicción práctica en las instrucciones impartidas en una situación en la que, a la vez, es necesario realizar una maniobra y ejecutar la JZB (como en el momento de producirse el MU). En tal caso, la disposición citada del ZPD está prácticamente en contradicción con el Anexo n.º 3 de la normativa interna de ČD D2 «Criterios para la asignación de las distintas actividades laborales en la maniobra regular (composición de tren)», que indica en el punto 11:
 
 «La realización de la prueba de freno simple/completa (si no se realiza con el manómetro en la cabina de conducción) la efectuará:
@@ -1150,8 +1176,8 @@ Sin embargo, la investigación de la DI llegó a la conclusión de que el jefe d
 
 La primera maniobra, es decir, el trayecto de maniobra desde la SK n.º 101 hasta la SK n.º 4a (al «ascensor»), se realizó por tracción y el maquinista la ejecutó sin la participación de la cuadrilla de maniobras (véase la fundamentación en la parte introductoria de este capítulo). Por ello cumplía las obligaciones del empleado que dirige la maniobra de acuerdo con la normativa interna de SŽ D1. Era, a su vez, consciente de que la segunda maniobra la dirigiría el jefe de cuadrilla de maniobras, quien había participado en la primera maniobra solo de forma pasiva.
 
-
 ## Página 40
+
 
 Cabe señalar también que el transportista no estableció en sus procedimientos tecnológicos uniformes (generales, ni específicos para la est. Jihlava) ninguna condición específica para la maniobra, que por tanto podía dividirse en parte en una maniobra sin cuadrilla de maniobras y en parte en una maniobra con cuadrilla de maniobras. La DI ya había advertido sobre un hecho análogo en la ZZ de Praha Masarykovo nádraží, cuando el transportista sí estableció condiciones, pero de forma inadecuada, de manera que en un solo proceso de volteo de la composición debía realizarse una maniobra con cuadrilla de maniobras, a continuación una sin cuadrilla de maniobras y finalmente otra vez con cuadrilla de maniobras. La DI indicó en la ZZ en cuestión que esta solución es problemática. Es posible que algunos empleados acuerden incluso partes de la maniobra que no les corresponde acordar, mientras que otros empleados no acuerdan las partes de la maniobra que sí les corresponde, y los permisos para la maniobra se emiten entonces a empleados incorrectos o no se emiten en absoluto. También puede ocurrir que los empleados se apoyen los unos en los otros y en un momento dado no sean conscientes de las obligaciones que se derivan de su clasificación funcional. Simplificadamente, perciben todo el proceso como una sola maniobra. También es problemática la situación del jefe de estación, que tiene que comunicarse cada vez con un empleado diferente que dirige la maniobra. El transportista comunicó a la DI, en el curso de la presente investigación, que en el caso de la est. Jihlava se emitirá una instrucción encaminada a que toda la maniobra se realice como maniobra con cuadrilla de maniobras.
 
@@ -1168,8 +1194,8 @@ En la investigación se constató la infracción de una norma legal y de una nor
 § 35 punto 1 letra a) de la Ley n.º 266/1994 Sb.
 «El transportista está obligado a explotar el transporte ferroviario de acuerdo con las reglas de explotación del transporte ferroviario, la licencia vigente y el contrato celebrado con el explotador de la infraestructura para la explotación del transporte ferroviario en la infraestructura,»;
 
-
 ## Página 41
+
 
 •
 art. 196 punto 4 de la normativa interna de SŽ D1:
@@ -1197,6 +1223,7 @@ Además, es necesario advertir también sobre la situación que se produjo en la
 
 ## Página 42
 
+
 n.º 23. En la situación en la que el operador ČD necesitaba utilizar otra MRS, dado que la JZB en el tren R 668 (en relación con la maniobra de su HDV que se estaba realizando) transcurría simultáneamente con la maniobra del convoy para el tren Os 14813, la solución es que los empleados del operador, previo acuerdo con el jefe de estación, utilicen otra red adecuada, es decir, por ejemplo, la red de maniobras del tren. Asimismo, el maquinista, al establecer la conexión de radio durante la primera maniobra, no actuó de acuerdo con el artículo 9 apartado 2 párrafo 5 de la norma interna de SŽ Z11 (véase más arriba).
 ### De las garantías:
 En la investigación se constató la infracción de una norma legal y de una norma interna, relativas a las funciones y obligaciones del operador ČD, al margen de la relación causal con el MU:
@@ -1219,8 +1246,8 @@ En la investigación no se constató infracción de las funciones y obligaciones
 ### 4.1.3 Fabricantes de vehículos ferroviarios u otros proveedores de instalaciones ferroviarias
 En la investigación no se constató infracción de las funciones y obligaciones de los fabricantes de vehículos ferroviarios u otros proveedores de productos ferroviarios.
 
-
 ## Página 43
+
 
 ### 4.1.4 Autoridades nacionales de seguridad y Agencia Ferroviaria de la Unión Europea
 La autoridad nacional de seguridad es el DÚ, que de acuerdo con la Ley n.º 266/1994 Sb. es la autoridad administrativa dependiente del Ministerio de Transportes. Su función es, en particular, el ejercicio de la supervisión estatal en materia de vías, la aprobación de vehículos ferroviarios nuevos y modernizados y de instalaciones técnicas designadas, y la tramitación de infracciones. La obligación del DÚ es comunicar al DI, en el plazo de 12 meses desde la fecha de publicación del informe final que contenga las recomendaciones de seguridad dirigidas a él, qué medidas ha adoptado en relación con dicha recomendación de seguridad; realiza esta comunicación de forma regular, al menos una vez al año, hasta la adopción de las medidas correspondientes.
@@ -1238,8 +1265,8 @@ En la investigación no se identificaron factores derivados de la construcción 
 4.2.2 Factores o consecuencias derivados de la instalación y puesta en servicio de los vehículos ferroviarios, de la infraestructura ferroviaria o de las instalaciones técnicas
 En la investigación no se identificaron factores derivados de la instalación y puesta en servicio de los vehículos ferroviarios, de la infraestructura ferroviaria o de las instalaciones técnicas.
 
-
 ## Página 44
+
 
 ### 4.2.3 Factores o consecuencias relacionados con los fabricantes de vehículos ferroviarios u otros proveedores de productos ferroviarios
 En la investigación no se identificaron factores relacionados con los fabricantes de vehículos ferroviarios u otros proveedores de productos ferroviarios.
@@ -1257,8 +1284,8 @@ La Inspección Ferroviaria, en la investigación del factor humano, trató de ev
 El maquinista de la unidad de maniobras trabajaba para el operador desde el año 2020. Su licencia de maquinista le fue expedida por el DÚ el 31. 5. 2021. Circulaba regularmente en la línea en cuestión y acreditativamente estaba familiarizado con las condiciones de la línea. En su declaración de explicaciones indicó que, al trabajar "al vuelo", el trabajo para él era variado y diverso, y por tanto no tendía a la actuación rutinaria. Con base en la documentación del operador, el DI comprobó que el maquinista era profesional y médicamente idóneo para el trabajo en la función de maquinista. El operador le realizó durante el año 2024 tres controles, los días 26. 2., 19. 10. y 23. 12. 2024, con el resultado de sin deficiencias.
 El jefe de cuadrilla de maniobras trabajaba para el operador desde el año 2010, es decir, disponía de 15 años de práctica, y por tanto tenía una experiencia profesional suficientemente larga para el desempeño de su función. Hasta el cambio
 
-
 ## Página 45
+
 
 del GVD desempeñaba el servicio principalmente en la est. Havlíčkův Brod y en la est. Žďár nad Sázavou. En la est. Jihlava no desempeñaba servicio, porque allí, hasta el cambio del GVD, solo había un empleado del operador en la función de jefe de vagones. Con el nuevo GVD, en vigor desde el 14. 12. 2024, surgió en la est. Jihlava la necesidad de desempeño también para los maniobristas, o para el jefe de cuadrilla de maniobras, debido a la utilización de otro tipo de vehículos que requieren circulación por vía ajena. Como consecuencia de este cambio, el jefe de cuadrilla de maniobras comenzó a desempeñar servicio en la est. Jihlava. Antes del cambio del GVD tuvo servicio en la est. Jihlava por última vez el 24. 4. 2023 y tras el cambio del GVD, el 20. 12. 2024, el 5. y el 8. 1. 2025. Antes de la ocurrencia del MU, el jefe de cuadrilla de maniobras tenía, por tanto, 3 turnos en la est. Jihlava. Asimismo, el jefe de cuadrilla de maniobras indicó en su declaración de explicaciones que le parece que la señal Se9 es confusa y que en un determinado punto se solapa con la señal que está situada antes de la señal Se9. El DI verificó esta información. Mediante una inspección a pie y mediciones en la vía en el recorrido de la unidad de maniobras en marcha, se comprobó que la señal "Maniobras prohibidas" en la señal Se9 era visible desde una distancia de 100 m con una intensidad de iluminación limitada. Esto se debe a la configuración de la vía al circular hacia esta señal (en la vía n.º 5a), que está formada por dos arcos en sentido opuesto formados por agujas en itinerario y la circulación por dichas agujas en dirección de desvío. La señal Se9 tiene por esta razón el soporte de las ópticas de señal desviado desde el eje del mástil hacia la izquierda, hacia el eje de la vía. La vía n.º 5a tiene una longitud de 31 m y sirve principalmente para la colocación de HDV independientes para los convoyes de trenes rápidos que llegan desde Brno y desde la dirección opuesta desde České Budějovice, cuando en la est. Jihlava se produce el cambio de locomotora por motivos de cambio de tracción. Por ello, es deseable que el maquinista que se detiene con el HDV delante de la señal Se9 pueda ver claramente la señal luminosa.
 La orientación del sistema óptico formado por un par de lentes de Fresnel crea un único haz intenso de luz. Las ranuras de la lente recogen la luz del resplandor de la bombilla en la zona central de la lente y concentran el haz creado en la mayor intensidad de resplandor en un solo punto. Por esta razón, el direccionamiento del haz de luz azul hacia el punto de mayor intensidad de iluminación en una zona tan compleja (desde el punto de vista de la configuración de la vía, de las prioridades del régimen de tráfico en la vía n.º 5a y del requisito legal de visibilidad de la señal) solo puede realizarse de forma "comprometida".
@@ -1268,6 +1295,7 @@ El DI no puede confirmar ni descartar con certeza en qué medida la larga ausenc
 En la investigación no se identificaron factores relacionados con el contenido del trabajo o la jornada laboral de los empleados. En la investigación no se constató, en los empleados implicados, el incumplimiento de las condiciones de descanso antes del turno y de los descansos, o del tiempo adecuado para el descanso y la alimentación durante el turno.
 
 ## Página 46
+
 
 ### 4.3.3 Factores organizativos y tareas
 En la investigación no se detectaron factores relacionados con la organización del trabajo o con las tareas laborales.
@@ -1301,8 +1329,8 @@ El gestor de la infraestructura explotaba la infraestructura en virtud de una au
 certificado de seguridad del gestor de la infraestructura. El transportista explotaba el transporte ferroviario en virtud 
 de una licencia vigente y de un certificado del transportista.
 
-
 ## Página 47
+
 
 ### 4.4.7 Otros factores sistémicos
 En la investigación no se detectaron otros factores sistémicos.
@@ -1353,8 +1381,8 @@ en cuya continuación no se garantizó la protección lateral de los itinerarios
 convergen con la vía en la que estaba establecido el itinerario para el tren R 668. 
 La Drážní inspekce no detectó una causa sistémica.
 
-
 ## Página 48
+
 
 ### A summary of the analysis and conclusions with regard to the causes of the 
 occurrence
@@ -1406,8 +1434,8 @@ it has been intensified supervisory activities focusing on the arranging of shun
 operation and radio communication at station dispatchers at the Jihlava station after 
 the occurrence;
 
-
 ## Página 49
+
 
 •
 the topic of arranging shunting operation was added to the subsequent regular 
@@ -1465,8 +1493,8 @@ dissimilar information provided in the technological aids of the train timetable
 „Instructions for the performance of transport services“ for Jihlava station to 
 manipulation of passenger trains.
 
-
 ## Página 50
+
 
 At the railway undertaking ČD:
 •
@@ -1504,8 +1532,8 @@ Certifikát autora podpisu:
 Jméno: Drážní inspekce
 Vydal: PostSignum Qualified CA 4
 
-
 ## Página 51
+
 
 ### ANEXOS
 Fig. n.º 7: Vista desde la unidad de maniobras empujada tras su detención

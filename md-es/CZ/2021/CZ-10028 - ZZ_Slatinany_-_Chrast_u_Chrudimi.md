@@ -10,13 +10,14 @@ chars: 73377
 ratio_longitud: 1.25
 tokens_in: 38994
 tokens_out: 27042
-verificacion: revisar
-notas_cifras: ["bloque 1: original bilingüe: se compara contra el idioma principal (EN)", "bloque 6: original bilingüe: se compara contra el idioma principal (CS)"]
-avisos: ["bloque 6: ratio 1.91"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 3: original bilingüe: se compara contra el idioma principal (PT)", "página 4: original bilingüe: se compara contra el idioma principal (CS)", "página 6: original bilingüe: se compara contra el idioma principal (CS)", "página 7: original bilingüe: se compara contra el idioma principal (CS)", "página 10: original bilingüe: se compara contra el idioma principal (CS)", "página 18: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -43,13 +44,13 @@ IČ: 75009561
 mail@dicr.cz
 tel.: +420 736 521 003
 
-
 ## Página 2
+
 
 El presente informe final es público y todos los hechos en él expuestos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ### 1 RESUMEN
 Fuente: PČR
@@ -79,8 +80,8 @@ Recomendaciones de seguridad:
 La Inspección Ferroviaria, con base en lo dispuesto en el § 53e apartado 1 de la ley n.º 266/1994 Sb.,
 recomienda, en relación con la prevención de sucesos excepcionales:
 
-
 ## Página 4
+
 
 A la Autoridad Ferroviaria:
 la adopción de una medida que garantice la dotación del paso a nivel P5332, actualmente
@@ -90,8 +91,8 @@ vista de la barrera óptica reduzca la probabilidad de que el conductor entre en
 nivel cuando no responda a la señalización luminosa en estado de alerta, también debido
 a la parada ferroviaria adyacente al paso, donde solo se detienen los trenes de pasajeros.
 
-
 ## Página 5
+
 
 ### RESUMEN
 4 de marzo de 2021, 14:20 (13:20 GMT).
@@ -133,8 +134,8 @@ manual, reducirá la probabilidad de que el conductor entre en el paso a nivel c
 responda a la señalización luminosa en estado de alerta, incluso debido a la parada
 ferroviaria cercana, donde se detienen solo los trenes regionales de pasajeros.
 
-
 ## Página 6
+
 
 # Índice
 1 RESUMEN.......................................................................................................................3
@@ -178,6 +179,7 @@ RESUMEN.........................................................................
 
 ## Página 7
 
+
 4.2.2 Factores o consecuencias derivados de la instalación y puesta en servicio de vehículos ferroviarios, infraestructura ferroviaria o instalación técnica......................................................................25
 4.2.3 Factores o consecuencias relacionados con los fabricantes de vehículos ferroviarios u otro proveedor de productos ferroviarios............................................................................25
 4.2.4 Factores o consecuencias derivados del mantenimiento y modificación de vehículos ferroviarios o instalaciones técnicas....................................................................................................25
@@ -206,8 +208,8 @@ RESUMEN.........................................................................
 6 RECOMENDACIONES DE SEGURIDAD.....................................................................................29
 ANEXOS..............................................................................................................................30
 
-
 ## Página 8
+
 
 ### Lista de siglas y símbolos utilizados
 CDP
@@ -254,8 +256,8 @@ paso a nivel
 žst.
 estación ferroviaria
 
-
 ## Página 9
+
 
 ### Lista de siglas de los reglamentos legales, normas y disposiciones internas utilizados
 ley núm. 266/1994 Sb.
@@ -294,8 +296,8 @@ Condiciones Técnicas 65 del Ministerio de Transportes «Normas
 para la señalización de tráfico en las vías públicas», en la
 redacción vigente en el momento de producirse el suceso extraordinario
 
-
 ## Página 10
+
 
 ### 2 INVESTIGACIÓN Y SU CONTEXTO
 ### 2.1 Decisión de iniciar la investigación
@@ -340,8 +342,8 @@ medición de las condiciones de visibilidad en el paso a nivel;
 análisis de la documentación solicitada al gestor de la vía, al transportista y a la PČR;
 •
 
-
 ## Página 11
+
 
 análisis de los datos registrados por el velocímetro registrador del vehículo ferroviario
 •
@@ -384,8 +386,8 @@ y cuyo gestor es la Správa a údržba silnic Pardubického kraje. Más allá de
 de circulación del OA desde Zaječic, hay una intersección con la carretera de III. clase núm.
 35819, que se bifurca a la derecha y pertenece y está gestionada por los mismos sujetos.
 
-
 ## Página 12
+
 
 ## Lugar del MU
 Fig. núm. 1: Esquema del lugar de producción del MU
@@ -420,6 +422,7 @@ no se encontraron huellas de frenado en la vía pública antes del ŽP;
 •
 
 ## Página 13
+
 
 en las caras traseras de los señores de aviso figuraba la identificación ŽP con el número de identificación P5332;
 •
@@ -467,8 +470,8 @@ Condiciones meteorológicas:
 nublado, +8 °C, seco con zonas húmedas en vías de secado,
 visibilidad no reducida.
 
-
 ## Página 14
+
 
 Datos geográficos:
 cruce a nivel de la vía férrea con una vía de comunicación terrestre,
@@ -522,8 +525,8 @@ jefe de tren del tren Sp 1455, empleado de ČD;
 jefe de estación DOZ Žďárec u Skutče, empleado de SŽ;
 •
 
-
 ## Página 15
+
 
 acompañante en el automóvil.
 •
@@ -560,8 +563,8 @@ La HDV 844.031-5 disponía del Certificado de aptitud del vehículo ferroviario,
 
 La HDV 844.031-5 estaba equipada, en el momento de la MU, de conformidad con el § 71 del decreto n.º 173/1995 Sb., con la parte móvil del equipo de radioferrocarril – la estación de radio a bordo VO79, que permite la comunicación del maquinista con los empleados del explotador de la vía en modo GSM-R, TRS y también en modo simplex. La estación de radio a bordo permite asimismo, en modo TRS, la detención automática de la unidad diésel (mediante el mando de la válvula electropneumática en la tubería principal) en función de una orden emitida por la parte de tierra del equipo de radioferrocarril.
 
-
 ## Página 16
+
 
 La HDV 844.031-5 estaba equipada, en el momento de la producción de la MU, con un dispositivo de registro automático de datos – tipo CONJUNTO ELECTRÓNICO VELODIMÉTRICO Teloc, n.º 12081440.
 
@@ -605,6 +608,7 @@ En la verificación de los parámetros del ŽP, el DI comprobó, entre otros, la
 
 ## Página 17
 
+
 en la dirección de circulación del tren desde la estación de Slatiňany a la derecha y a la izquierda, estaban conformes con la norma ČSN 73 6380, con ambas longitudes de visibilidad Lp medidas en 57 m. Las longitudes de visibilidad Lp medidas para la velocidad de circulación en la vía de 10 km.h-1 en ambos cuadrantes en la dirección de circulación del tren desde la estación de Chrast u Chrudimi a la derecha y a la izquierda, estaban conformes con la norma ČSN 73 6380, con ambas longitudes de visibilidad Lp medidas en 57 m. Estos valores figuran también en la documentación de SŽ.
 Antes del PFE se colocaron en todas las vías de acceso por carretera las señales de tráfico n.º A30 (paso a nivel sin barreras) junto con la señal de tráfico n.º A31a (placa de señalización 240 m), la señal de tráfico n.º A31b (placa de señalización 160 m) y la señal de tráfico n.º A31c (placa de señalización 80 m). La señalización de tráfico en la dirección de circulación del vehículo desde la localidad de Zaječice estaba colocada a la distancia correcta (240 m, 160 m y 80 m) y era visible.
 La señalización de tráfico en la carretera de clase III n.º 35820 desde Studená Voda (en sentido contrario a la circulación del vehículo) era visible, pero estaba colocada en contradicción con la TP 65. La señal de tráfico n.º A30 junto con la n.º A31a estaban colocadas a 252 m antes del PFE, la señal de tráfico n.º A31b estaba colocada a 182 m antes del PFE y la señal de tráfico n.º A31c estaba colocada a 102 m antes del PFE. A una distancia de 80 m antes del PFE hay un acceso a una propiedad desde la vía de tránsito.
@@ -627,37 +631,28 @@ ocupación del tramo de alejamiento "T2CH-SL" por el tren Sp 1455;
 finalización de la emisión de la alerta acústica y óptica del APFE.
 El tramo de aproximación y el de alejamiento se solapan a través del PFE (véase la Fig. n.º 2). Según la comparación de los tiempos del APFE y del velocímetro de la locomotora, se puede constatar que los tiempos del APFE tienen una desviación máxima de +2/-2 s respecto al tiempo de la locomotora (según la velocidad y la longitud del tren, la emisión de la alerta del APFE debería finalizar en
 
-
 ## Página 18
 
-el momento 14:20:31 h). Con base en el análisis de los datos del dispositivo de registro del APFE se constató que
-la alerta (encendido de las luces rojas de los semáforos de aviso) se produjo de forma ininterrumpida durante todo el tiempo de
-afectación del paso a nivel P5332 por el tren Sp 1455, en total 43 s, y que el APFE el día 4. 3. 2021
-funcionó sin averías y no mostraba un estado de fallo antes ni después de producirse el SU. La última
-inspección integral del PFE antes de producirse el SU se realizó el día 27. 2. 2020 (indicado en el Acta
-de la Dirección de Líneas de fecha 31. 3. 2021), la última revisión periódica de la instalación eléctrica del APFE se realizó
-el 24. 11. 2020 con 1 avería (una mesa colocada frente a la pared frontal del convector eléctrico de
-pared). La última verificación del APFE se realizó según el plan de mantenimiento el día 18. 2. 2021
-con el resultado de sin averías.
-Fig. n.º 2: Finalización de la alerta del APFE en el PFE P5332
+hora 14:20:31 h). Sobre la base del análisis de los datos del dispositivo de registro del PZZ se constató que la señalización (encendido de las luces rojas de los semáforos de aviso) se mantuvo sin interrupción durante todo el tiempo en que el cruce P5332 estuvo afectado por el tren Sp 1455, un total de 43 s, y que el PZZ el día 4. 3. 2021 funcionó sin averías y no presentaba estado de avería antes ni después de la producción del MU. La última inspección completa de la ŽP antes de la producción del MU se realizó el día 27. 2. 2020 (indicado en el Acta de la Administración de Líneas de fecha 31. 3. 2021), la última revisión periódica de la instalación eléctrica del PZZ se realizó el 24. 11. 2020 con 1 avería (una mesa colocada delante de la pared frontal de un convector eléctrico de pared). La última comprobación del PZZ se realizó conforme al plan de mantenimiento el día 18. 2. 2021 con el resultado de sin averías.
+Fig. n.º 2: Finalización de la señalización del PZZ en la ŽP P5332
 Fuente: SŽ
-### 3.1.9 Cualquier otra información relevante para los fines de la descripción del suceso y de la información básica
-Resumen de las explicaciones aportadas por los empleados del gestor de la infraestructura ferroviaria y del transportista, incluidas las personas en relación contractual:
+### 3.1.9 Cualquier otra información relevante a los efectos de la descripción del suceso y de la información básica
+Resumen de las explicaciones aportadas por los empleados del operador ferroviario y del transportista, incluidas las personas en relación contractual:
 maquinista del tren
  Sp 1455
   – Acta con el empleado:
 •
-◦El 4. 3. 2021 se incorporó al turno en la estación de Pardubice hl. n. a las 4:19 h, tras pernoctar en el alojamiento, correctamente descansado y en un estado anímico adecuado;
-◦el turno incluía también la conducción del tren Sp 1455, hasta la salida de este tren el turno transcurría sin problemas;
-◦tras salir de la curva en el pk 71,800 comenzó a aumentar la velocidad del tren hasta la velocidad de circulación en la vía de 100 km.h-1;
-◦a unos 300 m antes del paso a nivel registró un coche rojo;
-◦a continuación se ocultó tras el pilar entre el parabrisas y la ventanilla lateral;
-◦a la altura de la parada de Zaječice vio que el coche probablemente no se detenía y entraba en el paso a nivel;
-◦inmediatamente aplicó el frenado de acción rápida, pero el choque ya no podía evitarse;
-◦tras el choque tomó el botiquín y fue a comprobar el estado de las personas del coche, mientras el jefe de tren llamaba a los servicios de emergencia (IZS);
-
+◦El 4. 3. 2021 se incorporó al turno en la est. Pardubice hl. n. a las 4:19 h, tras pernoctar en el alojamiento, descansado adecuadamente y en un estado anímico tranquilo;
+◦el turno incluía también la conducción del tren Sp 1455; hasta la salida de este tren, el turno transcurrió sin problemas;
+◦tras salir de la curva en el km 71,800, comenzó a aumentar la velocidad del tren hasta la velocidad de línea de 100 km.h-1;
+◦a unos 300 m antes del cruce registró un coche rojo;
+◦a continuación, se ocultó tras el poste situado entre el parabrisas y la ventanilla;
+◦a la altura de la parada Zaječice vio que el coche probablemente no se detenía y entraba en el paso a nivel;
+◦inmediatamente aplicó el frenado de acción rápida, pero ya no fue posible evitar la colisión;
+◦tras la colisión, tomó el botiquín y fue a comprobar el estado de las personas del coche; el jefe de tren mientras tanto llamaba a los servicios de IZS;
 
 ## Página 19
+
 
 ◦en el tren no hubo heridos;
 ◦comunicó el SU al despachador en la estación de Žďárec u Skutče y esperó la llegada de los investigadores;
@@ -697,8 +692,8 @@ testigo,
   – Registro oficial de la explicación aportada a la Policía de la República Checa:
 •
 
-
 ## Página 20
+
 
 ◦en el momento del choque, que se produjo en el paso a nivel de la localidad de Zaječice, no miraba en la dirección de circulación, si bien registró el choque solo en el propio impacto, como la mayoría de los pasajeros;
 ◦con excepción de uno, todos los demás pasajeros estaban sentados en la parte trasera del tren, uno estaba sentado en medio del convoy;
@@ -723,45 +718,44 @@ testigo,
 La Policía de la República Checa facilitó al DI la autopsia judicial y el dictamen pericial del ámbito de la sanidad, rama de la toxicología. En el conductor del vehículo no se detectó alcohol, sustancias estupefacientes y psicotrópicas, ni sus metabolitos.
 De la autopsia se desprende que la causa inmediata de la muerte del conductor y de la acompañante fueron lesiones incompatibles con la vida (absolutamente mortales).
 
-
 ## Página 21
 
-### 3.2 Descripción fáctica del suceso
+### 3.2 Descripción factual del suceso
 ### 3.2.1 Secuencia de hechos que condujeron al suceso extraordinario
-El día 4. 3. 2021 a las 14:16:17 h salió el tren Sp 1455 desde la estación de Slatiňany en dirección a la estación de Chrast u Chrudimi. El trayecto transcurrió sin incidencias. Tras pasar la «S» antes de la parada de Zaječice, el maquinista comenzó a acelerar hasta la velocidad de circulación en la vía de 100 km.h-1. Desde el lado izquierdo, antes de la parada de Zaječice, vio llegar un vehículo, que perdió de vista brevemente tras el pilar izquierdo entre el parabrisas y la ventanilla lateral. A unos 60 m del PFE P5332, al pasar por la parada de Zaječice, el maquinista vio que el vehículo no se detenía y entraba en el PFE. Inmediatamente aplicó el frenado de acción rápida, pero por la corta distancia ya no podía evitar el choque, ni siquiera llegó a emitir la señal «¡Atención!» con la bocina de la locomotora. Se produjo el choque y el vehículo quedó encastrado en la parte frontal del tren, empujándolo a una distancia de 192 m desde el lugar del choque. Tras detenerse en el pk 70,921 (210 m desde el inicio del frenado de acción rápida), el maquinista fue a comprobar el estado de la tripulación del vehículo, que ya no mostraba signos de vida. Mientras tanto, el jefe de tren del Sp 1455 activó los servicios de emergencia (IZS).
+El 4 de marzo de 2021, a las 14:16:17 h, el tren Sp 1455 salió de la estación de Slatiňany en dirección a la estación de Chrast u Chrudimi. El transcurso fue sin incidencias. Tras pasar la "S" antes de la parada de Zaječice, el maquinista comenzó a acelerar hasta la velocidad de línea de 100 km.h-1. Por el lado izquierdo, antes de la parada de Zaječice, vio llegar un OA, que momentáneamente perdió de vista tras el pilar izquierdo entre la ventana frontal y la lateral. A unos 60 m antes del PdP P5332, al pasar por la parada de Zaječice, el maquinista observó que el OA no se detenía e invadía el PdP. Inmediatamente aplicó frenado de acción rápida, pero por la corta distancia ya no pudo evitar la colisión, ni siquiera llegó a emitir la señal de "¡Atención!" con la bocina de la locomotora. Se produjo la colisión y el encastramiento del OA en la parte frontal del tren, empujándolo a una distancia de 192 m del lugar de la colisión. Tras detenerse en el km 70,921 (210 m del inicio del frenado de acción rápida), el maquinista fue a comprobar el estado de la tripulación del OA, que ya no mostraba signos de vida. Mientras tanto, el jefe de tren del tren Sp 1455 activó el IZS.
 ### 3.2.2 Secuencia de hechos desde la producción del suceso extraordinario hasta la finalización de las acciones de los servicios de rescate
-14:20 h producción del SU;
+14:20 h se produce el SE;
 •
-14:21 h el jefe de tren comunicó la producción del SU a los servicios de emergencia (IZS);
+14:21 h el jefe de tren comunicó la producción del SE al IZS;
 •
-14:39 h el jefe de despachador del CDP Přerov comunicó el SU a la O18 de SŽ;
+14:39 h el jefe de despacho CDP Přerov comunicó el SE a la O18 SŽ;
 •
-14:42 h la persona autorizada de la O18 de SŽ comunicó la producción del SU al COP del DI, concediéndose
+14:42 h la persona autorizada de la O18 SŽ comunicó la producción del SE a la COP DI, concediéndose de inmediato
 •
-inmediatamente la autorización para la liberación de la vía;
-17:09 h inspección del lugar del SU por los inspectores del DI, la Policía de la República Checa y la persona autorizada de SŽ y ČD;
+la autorización para la liberación de la vía;
+17:09 h inspección del lugar del SE por los inspectores de la DI, la PČR y la persona autorizada de la SŽ y la ČD;
 •
-18:41 h finalización de la inspección de los lugares de producción del SU;
+18:41 h finalización de la inspección de los lugares de producción del SE;
 •
 18:45 h restablecimiento completo de la circulación.
 •
-El Plan de IZS, debido a la naturaleza del SU, fue activado a las 14:21 h, es decir, 1 min. tras la producción del SU, por el jefe de tren del Sp 1455.
-En el lugar del SU intervinieron los siguientes servicios de emergencia (IZS):
+El Plan IZS, dada la naturaleza del SE, fue activado a las 14:21 h, es decir, 1 min. después de la producción del SE, por el jefe de tren del tren Sp 1455.
+En el lugar del SE intervinieron los siguientes componentes del IZS:
 Policía de la República Checa, Distrito Territorial de Chrudim;
 •
 Servicio de Emergencias Sanitarias de la Región de Pardubice;
 •
-Bomberos de SŽ Havlíčkův Brod;
+HZS de la SŽ de Havlíčkův Brod;
 •
-Bomberos de la Región de Pardubice.
+HZS de la Región de Pardubice.
 •
 ### 4 ANÁLISIS DEL SUCESO
-### 4.1 Funciones y obligaciones
-### 4.1.1 Transportistas y gestores de la infraestructura ferroviaria
-El gestor de la infraestructura ferroviaria tiene, entre otras, la obligación de señalizar el paso a nivel con la señal vertical de tráfico A 32a «Cruz de aviso para paso a nivel de vía única». La cruz de aviso se coloca en el borde derecho de la vía de tránsito (acera) en la dirección de circulación de los vehículos, de manera que ninguna parte de la cruz de aviso esté a menos de 4 m del eje de la vía exterior.
-Los pasos a nivel con una velocidad de circulación en la vía superior a 60 km.h-1 y con un valor de tráfico
+### 4.1 Tareas y obligaciones
+### 4.1.1 Transportistas y gestores de vías
+El gestor de la vía tiene, entre otras, la obligación de señalizar el paso a nivel con la señal vertical de tráfico A 32a "Cruz de aviso para paso a nivel de vía única". La cruz de aviso se coloca en el borde derecho de la vía terrestre (acera) en el sentido de circulación de los vehículos, de manera que ninguna parte de la cruz de aviso se encuentre a menos de 4 m del eje de la vía exterior. Los pasos a nivel con velocidad de línea superior a 60 km.h-1 y con valor de tráfico
 
 ## Página 22
+
 
 momento que superan 10 000 se protegen con un aparato de enclavamiento de paso a nivel con señalización luminosa, que debe advertir a los usuarios de la vía pública con la antelación suficiente de que se aproxima al paso a nivel un tren o un vehículo ferroviario, mediante luz roja intermitente y señal sonora intermitente.
 
@@ -781,8 +775,8 @@ En la investigación no se constató incumplimiento de las funciones y obligacio
 ### 4.1.5 Entidades notificadas, entidades designadas y entidades dedicadas a la evaluación de riesgos
 En la investigación no se constató incumplimiento de las funciones y obligaciones de las entidades notificadas, de las entidades designadas y de las entidades dedicadas a la evaluación de riesgos.
 
-
 ## Página 23
+
 
 ### 4.1.6 Entidades de certificación responsables del mantenimiento de los vehículos ferroviarios
 En la investigación no se constató incumplimiento de las funciones y obligaciones de las entidades de certificación responsables del mantenimiento de los vehículos ferroviarios.
@@ -813,42 +807,58 @@ b) si se emite una advertencia mediante el sonido intermitente de la bocina o de
 c) si ya se ve o se oye el tren u otro vehículo ferroviario que se aproxima, o si se oye su silbato o sirena; ...».
 El gestor de la vía pública tiene la obligación de colocar antes del paso a nivel la señalización vial A30 (paso a nivel sin barreras) y, según la situación, antes del paso a nivel las placas de señalización n.º A31a (placa de señalización 240 m),
 
-
 ## Página 24
 
-n.º A31b (placa de señalización 160 m) y n.º A31c (placa de señalización 80 m) a las distancias indicadas. La colocación de la señalización vial también la regula el decreto núm. 294/2015 Sb. y la TP 65.
-
-La señalización vial en la carretera de clase III n.º 35820 desde la dirección de Studená Voda (en sentido contrario a la marcha del vehículo de motor) era visible, pero estaba colocada en contradicción con la TP 65. Las señales de tráfico n.º A30 junto con la n.º A31a estaban colocadas a 252 m del paso a nivel, la señal de tráfico n.º A31b estaba colocada a 182 m del paso a nivel y la señal de tráfico n.º A31c estaba colocada a 102 m del paso a nivel. A una distancia de 80 m del paso a nivel hay un acceso a una finca desde la vía pública.
-
-La señalización vial desde la carretera de enlace de clase III n.º 32819 desde la localidad de Bítovany (en sentido contrario a la marcha del vehículo de motor) estaba colocada en contradicción con la TP 65 en el caso de la señal de tráfico n.º A30 junto con la señal n.º A31a a una distancia de 250 m. Los hallazgos mencionados en relación con la señalización vial no guardaban relación causal ni tuvieron influencia en la aparición del MU y fueron tratados con el gestor de la vía pública (véase el capítulo 3.1.8 del ZZ).
+n.º A31b (placa señalizadora 160 m) y n.º A31c (placa señalizadora 80 m) en las distancias indicadas.
+La ubicación de la señalización de tráfico la regulan tanto el decreto n.º 294/2015 Sb. como la TP 65.
+La señalización de tráfico en la carretera de clase III n.º 35820 desde la dirección de Studená Voda (en sentido contrario a la marcha de los vehículos de motor)
+era visible, pero estaba ubicada en contradicción con la TP 65. Las señales de tráfico n.º A30 junto con la n.º A31a
+estaban ubicadas a 252 m antes del PFC, la señal de tráfico n.º A31b estaba ubicada a 182 m antes del PFC
+y la señal de tráfico n.º A31c estaba ubicada a 102 m antes del PFC. A una distancia de 80 m antes del PFC hay un acceso
+a una finca desde la vía de comunicación terrestre.
+La señalización de tráfico desde la carretera de conexión de clase III n.º 32819 desde la localidad de Bítovany (en sentido contrario a la marcha de los vehículos de motor)
+estaba ubicada en contradicción con la TP 65 en el caso de la señal de tráfico n.º A30 junto con la señal
+n.º A31a a una distancia de 250 m. Los hallazgos indicados sobre la señalización de tráfico no tuvieron relación causal
+ni influencia en la aparición del accidente ferroviario y fueron tratados con el gestor de la vía de comunicación terrestre (véase
+el capítulo 3.1.8 ZZ).
 ### Hallazgos:
-En la investigación se constató el incumplimiento de la normativa y de las condiciones técnicas relativas a las funciones y obligaciones del gestor de la vía pública, fuera de
+En la investigación se constató la infracción de normas legales y condiciones técnicas relativas a
+las funciones y obligaciones del gestor de la vía de comunicación terrestre, sin
   relación causal
   con la aparición
-## del MU:
-anexo núm. 1, parte A 31a del decreto núm. 294/2015 Sb.:
+## del accidente ferroviario:
+anexo n.º 1, parte A 31a del decreto n.º 294/2015 Sb.:
 •
-«Placa de señalización (240 m). La señal se coloca a una distancia de 240 m antes del paso a nivel al que advierte.»;
-anexo núm. 1, parte A 31b del decreto núm. 294/2015 Sb.:
+"Placa señalizadora (240 m). La señal se coloca a una distancia de 240 m antes
+del paso a nivel al que avisa.";
+anexo n.º 1, parte A 31b del decreto n.º 294/2015 Sb.:
 •
-«Placa de señalización (160 m). La señal se coloca a una distancia de 160 m antes del paso a nivel al que advierte.»;
-anexo núm. 1, parte A 31c del decreto núm. 294/2015 Sb.:
+"Placa señalizadora (160 m). La señal se coloca a una distancia de 160 m antes
+del paso a nivel al que avisa.";
+anexo n.º 1, parte A 31c del decreto n.º 294/2015 Sb.:
 •
-«Placa de señalización (80 m). La señal se coloca a una distancia de 80 m antes del paso a nivel al que advierte.»;
-art. 9.2.1.35 de la TP 65:
+"Placa señalizadora (80 m). La señal se coloca a una distancia de 80 m antes del paso a nivel
+al que avisa.";
+art. 9.2.1.35 TP 65:
 •
-«La señal n.º A 30 se utiliza para advertir de un paso a nivel sin barreras según los mismos principios que se aplican a la colocación de la señal n.º A 29...»;
-art. 9.2.1.36 de la TP 65:
+"La señal n.º A 30 se utiliza para avisar de un paso a nivel sin barreras según
+los mismos principios que se aplican a la colocación de la señal n.º A 29...,";
+art. 9.2.1.36 TP 65:
 •
-«La señal n.º A 31a se utiliza para advertir de un paso a nivel en combinación con la señal n.º A 29 o n.º A 30. En una carretera de clase I o II, la señal n.º A 31a se coloca en ambos lados. Las bandas diagonales de la placa de señalización apuntan hacia el centro de la calzada. La señal n.º A 31a se coloca debajo de la señal n.º A 29 o n.º A 30 a una distancia de 240 m del paso a nivel…»;
-art. 9.2.1.37 de la TP 65:
+"La señal n.º A 31a se utiliza para avisar de un paso a nivel en combinación con
+la señal n.º A 29 o n.º A 30. En carreteras de clase I o II, la señal n.º A 31a se coloca
+en ambos lados. Las bandas diagonales de la placa señalizadora apuntan al centro de la calzada.
+La señal n.º A 31a se coloca debajo de la señal n.º A 29 o n.º A 30 a una distancia
+de 240 m del paso a nivel…";
+art. 9.2.1.37 TP 65:
 •
-«La señal n.º A 31b se coloca a una distancia de 160 m antes del paso a nivel y se utiliza según los mismos principios que se aplican a la señal n.º A 31a.…»;
-art. 9.2.1.38 de la TP 65:
+"La señal n.º A 31b se coloca a una distancia de 160 m antes del paso a nivel
+y se utiliza según los mismos principios que se aplican a la señal n.º A 31a.…";
+art. 9.2.1.38 TP 65:
 •
-
 
 ## Página 25
+
 
 «La señal n.º A 31c "Placa de señalización (80 m)" se coloca a una distancia de 80 m antes del paso a nivel y se utiliza según los mismos principios que se aplican a la señal n.º A 31a.…».
 ### 4.2 Vehículos ferroviarios y dispositivos técnicos
@@ -868,8 +878,8 @@ En la investigación no se constataron otros factores relacionados con los vehí
 ### 4.3.1 Características humanas e individuales
 En la investigación no se constataron factores relacionados con la formación profesional de los empleados, el estado de salud y la situación personal, incluido el estrés físico y psicológico.
 
-
 ## Página 26
+
 
 ### 4.3.2 Factores laborales
 En la investigación no se constataron factores relacionados con el contenido del trabajo o la jornada laboral de los empleados. En la investigación no se constató, en los empleados implicados, el incumplimiento de las condiciones de descanso antes del turno y de los descansos, respectivamente, del tiempo adecuado para el reposo y la alimentación durante el turno.
@@ -895,49 +905,53 @@ Atendiendo a los factores y circunstancias constatados de la aparición del MU, 
 
 ## Página 27
 
-### 4.4.6 Aprobaciones, certificados e informes de evaluación otorgados por la agencia, las autoridades nacionales de seguridad u otros organismos de evaluación de la conformidad
-El gestor de la infraestructura ferroviaria explotó la infraestructura en virtud de la autorización administrativa vigente y del certificado de seguridad del gestor de la infraestructura ferroviaria. El operador ferroviario explotó el transporte ferroviario en virtud de la licencia vigente y del certificado del operador ferroviario.
+### 4.4.6 Aprobaciones, certificados e informes de evaluación concedidos por la Agencia, las autoridades nacionales de seguridad u otros organismos de evaluación de la conformidad
+El gestor de la infraestructura ferroviaria explotó la infraestructura en virtud de la autorización administrativa vigente y del certificado de seguridad del gestor de la infraestructura ferroviaria. El transportista explotó el transporte ferroviario en virtud de la licencia vigente y del certificado del transportista.
 ### 4.4.7 Otros factores sistémicos
 En la investigación no se detectaron otros factores sistémicos.
 ### 4.5 Sucesos anteriores de naturaleza similar
-La Inspección Ferroviaria registra en las infraestructuras ferroviarias de ámbito nacional y regional, en el período comprendido entre el 1. 1. 2008 y la fecha de ocurrencia de la MU 1002 objeto de estudio, sucesos análogos de MU, en los que se produjo la colisión de un DV con vehículos a motor de carretera en pasos a nivel protegidos con PZS sin barreras. En dichas MU resultaron fallecidas 172 personas, 724 personas resultaron heridas y el daño causado ascendió a 506 744 623 CZK.
-La Inspección Ferroviaria registra en el PAP P5332, en el período indicado, los siguientes sucesos de MU adicionales:
-• el del 14. 2. 2019, en el que se produjo la colisión del tren Sp 1460 con un camión.
-En la MU no se produjeron lesiones personales. El daño total se valoró en 1 617 196 CZK;
-• el del 31. 3. 2019, en el que se produjo la colisión del tren Sp 1460 con un automóvil.
-En la MU se produjeron lesiones personales en el conductor y el acompañante del automóvil. El daño total se valoró en 530 000 CZK.
-La causa inmediata de la ocurrencia de todas las MU anteriormente indicadas fue la entrada no autorizada de un vehículo a motor de carretera en el PAP en el momento en que se aproximaba a él un DV.
-La DI, desde 2012, ha recomendado repetidamente al gestor de la infraestructura SŽDC, con el fin de garantizar la máxima seguridad en las infraestructuras ferroviarias de categoría nacional y regional, que eleve el nivel de protección de los pasos a nivel de modo que, en las reconstrucciones y modernizaciones de líneas y pasos a nivel, ya se proyecte e instale únicamente equipo de señalización de paso a nivel luminoso complementado con barreras. La DI, al mismo tiempo, mediante estas recomendaciones de seguridad, recomendó al DÚ que adoptara sus propias medidas orientadas a garantizar la realización de las recomendaciones de seguridad anteriormente indicadas también en los demás gestores de infraestructuras ferroviarias en la República Checa. Desde el 1. 4. 2017, fecha en que entró en vigor la modificación de la Ley n.º 266/1994 Sb., las recomendaciones de seguridad de carácter similar se destinaron, de conformidad con el § 53e de la Ley n.º 266/1994 Sb., únicamente al DÚ. El motivo para emitir estas recomendaciones fue el hecho de que la mayor parte de las colisiones con vehículos de carretera con las consecuencias más graves se producen, a largo plazo, en pasos a nivel protegidos con equipo de señalización de paso a nivel sin barreras; por el contrario, a largo plazo, desde el punto de vista de la accidentalidad y de las consecuencias, el tipo de protección de pasos a nivel más favorable es precisamente el equipo de señalización de paso a nivel complementado con barreras. El SŽDC reaccionó a estas recomendaciones, entre otros, de la siguiente manera: «en caso de sustitución de los PZM y PZS existentes por tecnología moderna, en el proyecto se priorizará la construcción de equipo de señalización de paso a nivel con barreras, siempre que no lo impidan obstáculos técnicos u operativos significativos. La instalación de un equipo de señalización de paso a nivel concreto respetará en todo caso la decisión vigente de la Oficina Ferroviaria sobre el alcance y el modo de protección del paso a nivel». El DÚ, entre otros, envió como medida la siguiente declaración: «La Oficina Ferroviaria,
-
+La Inspección Ferroviaria registra en las infraestructuras ferroviarias de ámbito nacional y regional, en el periodo comprendido entre el 1 de enero de 2008 y la fecha de ocurrencia de la MU 1002 objeto de estudio, accidentes ferroviarios análogos en los que, en pasos a nivel protegidos por PZS sin barreras, se produjo la colisión de un DV con vehículos automóviles de carretera. En dichos accidentes ferroviarios fallecieron 172 personas, 724 personas resultaron heridas y los daños ocasionados ascendieron a 506 744 623 CZK.
+La Inspección Ferroviaria registra en el P5332 en el periodo indicado los siguientes accidentes ferroviarios adicionales:
+el del 14 de febrero de 2019, en el que se produjo la colisión del tren Sp 1460 con un camión.
+•
+En el accidente ferroviario no se produjeron lesiones. Los daños totales se valoraron en 1 617 196 CZK;
+el del 31 de marzo de 2019, en el que se produjo la colisión del tren Sp 1460 con un automóvil.
+•
+En el accidente ferroviario se produjeron lesiones en el conductor y el acompañante del automóvil. Los daños totales se valoraron en 530 000 CZK.
+La causa inmediata de la ocurrencia de todos los accidentes ferroviarios anteriormente mencionados fue la entrada no autorizada de un vehículo automóvil de carretera en el P5332 en el momento en que se aproximaba a él un DV.
+La DI, desde 2012, recomendó repetidamente al gestor de la infraestructura ferroviaria SŽDC, con el fin de garantizar la máxima seguridad en las infraestructuras ferroviarias de categoría nacional y regional, que elevara el nivel de protección de los pasos a nivel de modo que, en las reconstrucciones y modernizaciones de líneas y pasos a nivel, ya se proyectara e instalara únicamente señalización luminosa de paso a nivel complementada con barreras. La DI, al mismo tiempo, mediante estas recomendaciones de seguridad, recomendó al DÚ que adoptara sus propias medidas encaminadas a garantizar la realización de las recomendaciones de seguridad anteriormente mencionadas también en los demás gestores de infraestructuras ferroviarias de la República Checa. Desde el 1 de abril de 2017, fecha en que entró en vigor la modificación de la Ley n.º 266/1994 Sb., las recomendaciones de seguridad de carácter similar se destinaron, de conformidad con el § 53e de la Ley n.º 266/1994 Sb., únicamente al DÚ. El motivo de la emisión de estas recomendaciones fue el hecho de que la mayor parte de las colisiones con vehículos de carretera con las consecuencias más graves se producen, a largo plazo, en pasos a nivel protegidos por señalización de paso a nivel sin barreras, mientras que, a largo plazo, desde el punto de vista de la sinestralidad y de las consecuencias, el tipo de protección de pasos a nivel más favorable es precisamente la señalización de paso a nivel complementada con barreras. La SŽDC reaccionó a estas recomendaciones, entre otros, en el sentido de que «en caso de sustitución de los PZM y PZS existentes por tecnología moderna, en el proyecto se priorizará la construcción de señalización de paso a nivel con barreras, salvo que existan obstáculos técnicos u operativos significativos. La instalación de la señalización de paso a nivel concreta respetará en todo caso la decisión vigente de la Oficina Ferroviaria sobre el alcance y el modo de protección del paso a nivel». El DÚ, entre otros, envió como medida la siguiente declaración: «Oficina Ferroviaria,
 
 ## Página 28
 
-como autoridad administrativa ferroviaria, recomienda así permanentemente a la Administración de la Infraestructura Ferroviaria, como gestor de la infraestructura, que incluya en la mayor medida posible en el plan de inversiones la dotación de barreras al equipo de señalización de paso a nivel luminoso existente. Deberían ser prioritarios los pasos a nivel con un alto volumen de tráfico y con sucesos extraordinarios recurrentes». La DI sigue apoyando la dotación de barreras en los pasos a nivel (de forma prioritaria en aquellos con mayor volumen de tráfico y condiciones locales desfavorables), pero, en el caso de emitir nuevas recomendaciones de seguridad para sucesos extraordinarios concretos, tiene en cuenta las características específicas del paso a nivel en cuestión y emite dicha recomendación de seguridad de forma más concreta – véase el punto 6 ZZ.
+como autoridad administrativa ferroviaria, recomienda asimismo de forma permanente a Správa železnic, como gestor de la infraestructura ferroviaria, incluir en la mayor medida posible en el plan de inversiones la instalación de barreras de madera en los pasos a nivel existentes con señalización luminosa de enclavamiento de paso a nivel. Deberían ser prioritarios los pasos a nivel con un alto momento de tráfico y con eventos excepcionales recurrentes".
+DI sigue apoyando la instalación de barreras de madera en los pasos a nivel ferroviarios (con prioridad en aquellos con mayor momento de tráfico y condiciones locales desfavorables), sin embargo, en el caso de la emisión de nuevas recomendaciones de seguridad para eventos excepcionales concretos, tiene en cuenta las características específicas del paso a nivel ferroviario en cuestión y emite dicha recomendación de seguridad de forma más concreta – véase el punto 6 ZZ.
 ### 5 CONCLUSIONES
 ### 5.1 Resumen del análisis y conclusiones relativas a las causas del suceso
-La causa inmediata del suceso extraordinario fue:
-• la entrada no autorizada de un automóvil en el paso a nivel P5332 en el momento en que se aproximaba a él el tren Sp 1455, causada por la actuación del conductor del automóvil, que no respetó la alerta luminosa y acústica del equipo de señalización de paso a nivel y no se aseguró de si podía cruzar el paso a nivel de forma segura.
-No se identificó ningún factor contribuyente por parte de la DI.
-No se identificó ninguna causa sistémica por parte de la DI.
+La causa inmediata del suceso excepcional fue:
+la entrada no autorizada de un automóvil en el paso a nivel P5332 en el momento en que •
+se aproximaba a él el tren Sp 1455, causada por la conducta del conductor del automóvil, que no respetó la advertencia luminosa y acústica del equipo de enclavamiento del paso a nivel y no se aseguró de si podía cruzar el paso a nivel de forma segura.
+No se identificó ningún factor contribuyente por parte de DI.
+No se identificó ninguna causa sistémica por parte de DI.
 ### A summary of the analysis and conclusions with regard to the causes of the
 occurrence
 Causal factor:
-• an unauthorized entrance of the car at the level crossing No. P5332 at the time
+an unauthorized entrance of the car at the level crossing No. P5332 at the time
+•
 when the train No. 1455 was arriving, caused by behavior of the car driver, who did
 not respect the light and acoustic warning of the level crossing safety equipment
 and did not make sure whether he could safely pass the level crossing.
 Contributing factor: none.
 Systemic factor:
 none.
-### 5.2 Medidas adoptadas para la prevención de sucesos extraordinarios
+### 5.2 Medidas adoptadas para la prevención de sucesos excepcionales
 El gestor de la infraestructura SŽ y el operador ferroviario ČD no adoptaron ni emitieron ninguna medida.
 ### Measures taken since the occurrence
 The infrastructure manager SŽ and the railway undertaking ČD did not take any measures.
 ### 5.3 Hallazgos complementarios
-En el gestor de la vía pública, Administración y mantenimiento de carreteras de la región de Pardubice:
-
+Respecto al gestor de la vía pública, la Dirección y Mantenimiento de Carreteras de la Región de Pardubice:
 
 ## Página 29
+
 
 • se detectaron defectos en la ubicación de la señalización de tráfico del PAP en la carretera de clase III n.º 32820 en dirección desde la localidad de Studená Voda y en la carretera de clase III n.º 32819 en dirección desde la localidad de Bítovany.
 ### Additional observations
@@ -966,8 +980,8 @@ inspector
 Inspección Territorial de Brno
 Inspección Territorial de Brno
 
-
 ## Página 30
+
 
 ### ANEXOS
 Fig. n.º 3: Frontal dañado de la HDV

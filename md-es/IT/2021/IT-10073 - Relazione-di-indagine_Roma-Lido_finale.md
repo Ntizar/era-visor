@@ -10,10 +10,11 @@ chars: 119577
 ratio_longitud: 1.05
 tokens_in: 43332
 tokens_out: 33187
-verificacion: ok
-notas_cifras: ["bloque 5: cifras cortas: 1/97", "bloque 14: cifras cortas: 1/75", "bloque 15: cifras largas: 12/73"]
+verificacion: revisar
 fecha_proceso: 2026-11-19
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+avisos: ["página 56: cifras largas: faltan 12/34 (35%)"]
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (IT)", "página 10: cifras cortas: 1/42", "página 14: original bilingüe: se compara contra el idioma principal (IT); ratio 2.10", "página 23: original bilingüe: se compara contra el idioma principal (IT)", "página 27: original bilingüe: se compara contra el idioma principal (IT)", "página 34: original bilingüe: se compara contra el idioma principal (IT)"]
 ---
 ## Página 1
 

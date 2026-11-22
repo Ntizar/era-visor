@@ -10,13 +10,14 @@ chars: 150477
 ratio_longitud: 1.24
 tokens_in: 72931
 tokens_out: 50990
-verificacion: revisar
-notas_cifras: ["bloque 1: original bilingüe: se compara contra el idioma principal (EN)", "bloque 3: cifras cortas: 7/132", "bloque 4: cifras largas: 2/65", "bloque 6: cifras cortas: 5/40", "bloque 10: cifras cortas: 7/89", "bloque 11: original bilingüe: se compara contra el idioma principal (EN)"]
-avisos: ["bloque 11: ratio 1.88"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 3: original bilingüe: se compara contra el idioma principal (CS)", "página 7: original bilingüe: se compara contra el idioma principal (CS)", "página 8: original bilingüe: se compara contra el idioma principal (CS)", "página 10: original bilingüe: se compara contra el idioma principal (CS)", "página 11: original bilingüe: se compara contra el idioma principal (CS)", "página 14: original bilingüe: se compara contra el idioma principal (PT); cifras cortas: 1/20"]
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -41,13 +42,13 @@ IČ: 75009561
 mail@dicr.cz
 tel.: +420 736 521 003
 
-
 ## Página 2
+
 
 Este informe final es público y todos los hechos en él expuestos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ### 1 RESUMEN
 Fuente: LOKORAIL, a. s.
@@ -78,8 +79,8 @@ Recomendaciones de seguridad:
 La Inspección Ferroviaria, con base en lo dispuesto en el § 53e apartado 1 de la Ley n.º 266/1994 Sb.,
 recomienda, en relación con la prevención de sucesos ferroviarios:
 
-
 ## Página 4
+
 
 A la Autoridad Ferroviaria:
 que, en el marco de su actividad, garantice mediante herramientas adecuadas la minimización de los casos en los que
@@ -113,8 +114,8 @@ especialmente en lo relativo a las señales portátiles para circulación eléct
 explotación se utilicen únicamente señales portátiles para circulación eléctrica de color azul con
 borde naranja.
 
-
 ## Página 5
+
 
 ### SUMMARY
 5th June 2021, 21:18 (19:18 GMT).
@@ -168,8 +169,8 @@ consequent processing and using (e.g. notification by the text messages on displ
 and control unit of the mobile part of the ETCS and similar measures) shlould be
 applied.
 
-
 ## Página 6
+
 
 Addressed to the Czech Ministry of Transport in cooperation with the Czech National
 Safety Authority:
@@ -181,8 +182,8 @@ knowledge of this Final report and also on knowledge of the IMs and RUs). We als
 recommend using only portable signal devices for electric operation made of the
 blue color with the orange frame in railway transport.
 
-
 ## Página 7
+
 
 # Índice
 1 RESUMEN........................................................................................................................3
@@ -232,6 +233,7 @@ ferroviaria o de los equipos técnicos..........................................
 
 ## Página 8
 
+
 4.2.2 Factores o consecuencias derivados de la instalación y puesta en servicio de vehículos ferroviarios, infraestructura ferroviaria o instalación técnica......................................37
 4.2.3 Factores o consecuencias relacionados con los fabricantes de vehículos ferroviarios u otro proveedor de productos ferroviarios............................................................................37
 4.2.4 Factores o consecuencias derivados del mantenimiento y modificación de vehículos ferroviarios o instalaciones técnicas....................................................................................................37
@@ -261,8 +263,8 @@ y talleres de mantenimiento.....................................................
 6 RECOMENDACIONES DE SEGURIDAD.....................................................................................47
 ANEXOS..............................................................................................................................49
 
-
 ## Página 9
+
 
 ### Lista de siglas y símbolos utilizados
 CDP
@@ -329,8 +331,8 @@ Informe final sobre los resultados de la investigación del suceso extraordinari
 žst.
 estación ferroviaria
 
-
 ## Página 10
+
 
 ### Lista de siglas de la legislación, normas y disposiciones internas utilizadas
 ley núm. 262/2006 Sb.
@@ -385,8 +387,8 @@ en la redacción vigente en el momento del suceso MU
 1: Señales de tráfico permanentes», en la redacción vigente en el momento
 del suceso MU
 
-
 ## Página 11
+
 
 TNŽ 34 3109
 norma técnica ferroviaria «TNŽ 34 3109 Reglamentos de seguridad
@@ -398,8 +400,8 @@ documento «CONTRATO número: PDD 9273/19 sobre la explotación
 del transporte ferroviario en la vía de ámbito nacional y en las vías
 regionales», en la redacción vigente en el momento del suceso MU
 
-
 ## Página 12
+
 
 ### 2 INVESTIGACIÓN Y SU CONTEXTO
 ### 2.1 Decisión de iniciar la investigación
@@ -436,6 +438,7 @@ de Transporte. Asimismo, la DI solicitó la declaración del Národný inšpekto
 
 ## Página 13
 
+
 La investigación de las causas y circunstancias de la aparición del MU se realizó de acuerdo con la ley n.º 266/1994 Sb.
 y con el decreto n.º 376/2006 Sb.
 ### 2.6 Descripción del nivel de cooperación ofrecido por los sujetos participantes
@@ -471,8 +474,8 @@ Durante la investigación del MU en cuestión, no se inició por parte de la DI 
 ### 2.10 Cualquier otra información relevante para la investigación
 Todas las circunstancias esenciales halladas relativas al desarrollo de la investigación del MU en cuestión ya se han indicado más arriba.
 
-
 ## Página 14
+
 
 ### 3 DESCRIPCIÓN DEL SUCESO
 ### 3.1 Descripción e información básica
@@ -518,8 +521,8 @@ el lugar de origen del MU – la colisión del colector de corriente de tracció
 Lv 53484 con el dispositivo técnico situado en el conductor de catenaria
 (con la llamada «hákovnice») se encontraba en la cabecera de Český Těšín de la est. Třinec, en la SK, que es
 
-
 ## Página 15
+
 
 la continuación de la TK n.º 2 Třinec – Český Těšín, en el pk 312,820, en el lugar del TP n.º 80
 situado en la división mecánica/eléctrica ÚO 412 delimitada por los TP n.º 76 y 82;
@@ -542,8 +545,8 @@ y 35 y de los desvíos n.º 39 y 40, al nivel de sus contactos finales;
 en la cabecera de Český Těšín por la división mecánica/eléctrica ÚO 412.
 •
 
-
 ## Página 16
+
 
 Las señales portátiles para tracción eléctrica se situaron en la cabecera y en la cabecera de Český Těšín, en el sentido de circulación del tren Lv 53484, en:
 pk 312,386, donde se encontraba la señal con la indicación «Připravte se ke stažení
@@ -565,8 +568,8 @@ pk 312,889, donde se encontraba la señal con la indicación «Zdvihněte sběra
 placa cuadrada azul colocada en lo alto con borde naranja. La señal
 estaba situada directamente en la mitad inferior de la banda indicadora de la señal luminosa de enlace Se32, lo que tuvo como consecuencia que ocultara parte de su señalización que expresa su significado (véase la Fig. n.º 4 de este informe).
 
-
 ## Página 17
+
 
 Fig. n.º 4: Ubicación de la señal portátil para tracción eléctrica con la indicación «Zdvihněte sběrač»
 sobre la banda indicadora de la señal de enlace Se32 (en el recorte se muestra una vista de
@@ -601,8 +604,8 @@ vías situadas al nivel del terreno circundante en un entorno
 industrial, 300 m s. n. m., la disposición geográfica de la est. Třinec
 no guardaba relación con la aparición del MU.
 
-
 ## Página 18
+
 
 En la est. Třinec se estaba llevando a cabo la interrupción planificada continua de vía y de tensión mencionada anteriormente y la interrupción continua no prevista de vía, debido a trabajos de construcción en la vía. En la estación, antes de la aparición del MU, a las 20:59 h se finalizaron la eliminación de las consecuencias del MU y la reparación del TV, surgidos en relación con el MU anterior, que tuvo lugar el 5 de junio de 2021 a las 15:42 h, en la cabecera de Bystřice en el pk 310,818, cuando el tren Nex 49708, que circulaba en sentido contrario, colisionó con el dispositivo técnico situado en el conductor de catenaria (con la llamada «hákovnice»), como consecuencia de lo cual se dañaron los colectores del HDV y el TV.
 ### 3.1.4 Fallecimientos, lesiones y daños materiales
@@ -654,33 +657,34 @@ El tráfico ferroviario se prestaba en virtud de un contrato celebrado entre el 
 | Velocidad máxima permitida del tren en el punto MU (km·h-1): | 100 |  |  |  |
 | Modo de frenado: | I . |  |  |  |
 Nota sobre el tren:
-la locomotora circulando independientemente 383.211-0 viajó de la estación de Čadca a la estación de Návsí con el número de tren
+la locomotora circulando en solitario 383.211-0 viajó de la est. Čadca a la est. Návsí con el número de tren
 •
-Lv 49794, donde el tren finalizó la circulación. De la estación de Návsí a la estación de Český Těšín circuló la locomotora con el nuevo
+Lv 49794, con el que el tren finalizó la circulación. De la est. Návsí a la est. Český Těšín circuló la locomotora con el nuevo
 número de tren Lv 53484;
-el propietario y titular de la locomotora era la compañía Slovenská plavba a prístavy, a. s.
 •
-La locomotora 383.211-0 es una locomotora modular multisistema de cuatro ejes (15 kV/16,7 Hz,
-25 kV/50 Hz y 3 kV), del tipo X4-E-lok-AB_A (Vectron MS) variante A17, con una potencia de 6 400 kW
+el propietario y poseedor de la locomotora era la empresa Slovenská plavba a prístavy, a. s.
+•
+la locomotora 383.211-0 es una locomotora modular multisistema de cuatro ejes (15 kV/16,7 Hz,
+25 kV/50 Hz y 3 kV), tipo X4-E-lok-AB_A (Vectron MS) variante A17, con una potencia de 6 400 kW
 y una velocidad máxima de construcción/operación de 200/160 km·h-1, de construcción con caja
-con dos cabinas frontales de conductor. La construcción de las cabinas y la disposición de los
-elementos de mando e indicación en el pupitre de mando de la posición del conductor permiten
-al conductor manejar la locomotora, observar sin obstrucción la vía y las señales, sentado y de pie.
-La locomotora 383.211-0 estaba equipada en el momento del suceso MU con un dispositivo de
+con dos cabinas frontales del maquinista. El diseño de las cabinas y la disposición de los elementos
+de control e indicación en la mesa de control del puesto del maquinista permiten al
+maquinista conducir la locomotora, observar sin obstrucciones la vía y las señales,
+sentado o de pie. La locomotora 383.211-0 en el momento de la aparición del MU estaba equipada con un dispositivo de
 registro automático de datos del fabricante Alstom Belgium SA, número de serie RU-1811017.
 De los datos registrados, tras tener en cuenta la corrección de tiempo respecto al tiempo registrado
-por los ordenadores tecnológicos SZZ de la estación de Třinec, que fue establecido como tiempo de referencia
-para las necesidades de la investigación del presente suceso MU, y tras redondear los parámetros de tiempo a segundos completos,
-la velocidad a km·h-1 completos y la distancia a metros completos, entre otros, se desprende que a las:
-| • 21:17:01 h | el tren se detuvo en la SK nº 3 de la estación de Třinec en el km 311 940, es decir, 206 m antes de la señal principal (de salida) (en adelante, señal de salida) L3; |
-| • 21:17:08 h | el tren se puso en movimiento en la SK nº 3; |
-| • 21:17:36 h | el frente del tren a una velocidad de 38 8 km·h-1 pasó la señal de salida L3, situándose a una distancia de 674 m antes del lugar de origen del suceso MU; |
-| • 21:18:01 h | el frente del tren a una velocidad de 32 7 km·h-1 pasó la señal portátil para tracción eléctrica con la indicación «Prepárese para bajar el pantógrafo», situándose a una distancia de 434 m antes del lugar de origen del suceso MU; |
-| • 21:18:09 h | el frente del tren a una velocidad de 31 1 km·h-1 pasó la señal portátil para tracción eléctrica con la indicación «Vía en dirección a la derecha sin línea de tracción», situándose a una distancia de 361 m antes del lugar de origen del suceso MU; |
-| • 21:18:15 h | el frente del tren a una velocidad de 29 9 km·h-1 pasó el separador de sección nº 16, insertado en la TV sobre el enlace de vías de los desvíos nº 39 y 40, situándose a 306 m antes del lugar de origen del suceso MU; |
-
+por los ordenadores tecnológicos SZZ de la est. Třinec, que se estableció para las necesidades de la investigación del presente MU como
+tiempo de referencia, y tras redondear los parámetros de tiempo a segundos completos,
+la velocidad a km·h-1 completos y la distancia a metros completos, entre otros, se deduce que en:
+| • 21:17:01 h | el tren se detuvo en el SK n.º 3 de la est. Třinec en el km 311 940, es decir, 206 m antes de la señal principal (de salida) (en adelante, señal de salida) L3; |
+| • 21:17:08 h | el tren se puso en marcha en el SK n.º 3; |
+| • 21:17:36 h | el frente del tren a una velocidad de 38 8 km·h-1 pasó la señal de salida L3, se encontraba a una distancia de 674 m del lugar de aparición del MU; |
+| • 21:18:01 h | el frente del tren a una velocidad de 32 7 km·h-1 pasó la señal portátil para tracción eléctrica con la señal «Prepárese para bajar el pantógrafo», se encontraba a una distancia de 434 m del lugar de aparición del MU; |
+| • 21:18:09 h | el frente del tren a una velocidad de 31 1 km·h-1 pasó la señal portátil para tracción eléctrica con la señal «Vía en dirección derecha sin línea de tracción», se encontraba a una distancia de 361 m del lugar de aparición del MU; |
+| • 21:18:15 h | el frente del tren a una velocidad de 29 9 km·h-1 pasó el separador de sección n.º 16, insertado en el TV sobre la enlace de vías de los desvíos n.º 39 y 40, se encontraba a 306 m del lugar de aparición del MU; |
 
 ## Página 20
+
 
 ### 21:18:50 h origen del suceso MU – a una velocidad de 35,1 km·h-1 la patín del pantógrafo de la locomotora
 •
@@ -719,8 +723,8 @@ registrados por el ordenador tecnológico TPC4 el 5. 6. 2021, se constató, entr
 | • 21:15:54 h | el tren Lv 53484 ocupó la «KO 3K», es decir, entró en la KO de la SK nº 3 de la estación de Třinec. 4 s después, el tren entró íntegramente en la SK nº 3; |
 | • 21:16:38 h | mediante la operación normal del SZZ se realizaron las maniobras para la circulación del tren Lv 53484 desde la SK nº 3 de la estación de Třinec a la TK nº 2 Třinec – Český Těšín, es decir, desde |
 
-
 ## Página 21
+
 
 |  | la señal de salida L3 de la estación de Třinec a través de los desvíos nº 22, 26, 29, 30, 34, 35, 36, 39, 40 y 41 a la TK nº 2; |
 | • 21:16:55 h | tras el enclavamiento de la ruta de tren realizado por la operación automática del SZZ, se estableció desde la señal de salida L3 de la estación de Třinec a la TK nº 2 Třinec – Český Těšín la ruta de tren para la circulación del tren Lv 53484. La señal de salida L3, señalizada, entre otros, con una placa indicadora con el dígito blanco «5», comenzó a indicar la señal «Velocidad 40 km/h y vía libre»; |
@@ -734,8 +738,8 @@ Las SK nº 3, 3a, 4, 5, 5a, 6, 7, 9, 11, 13, 15 y los enlaces de vías entre las
 Para evitar desplazamientos mutuos no deseados del cable portante y del hilo de catenaria en la dirección longitudinal, los tramos de anclaje estaban provistos de anclaje, llamados puntos fijos. Los hilos de catenaria estaban suspendidos a una altura constante sobre la vía, es decir, a una distancia perpendicular entre la superficie inferior transitable del hilo de catenaria y el plano que pasa por las cabezas de los raíles, de 5,6 m. Bajo el paso elevado a la plataforma, en el km 311,865, esta altura se redujo hasta el valor de 5,3 m. La velocidad máxima de construcción de la TV para circulaciones de DV de construcción normal sobre las SK nº 1 y 2 estaba establecida en el momento del origen del suceso MU en 160 km·h-1.
 La TV de la línea abierta, es decir, sobre la TK nº 1 y 2 Bystřice – Třinec y sobre la TK nº 1 y 2 Třinec – Český Těšín, formaba tramos eléctricos independientes, que estaban separados de los montajes de TV de la estación de Třinec mediante divisiones mecánico/eléctricas. Estas divisiones estaban situadas en la estación de Třinec en el lomo de Bystřice y en el lomo de Český Těšín. En el lomo de Český Těšín de la estación, la división mecánico/eléctrica sobre la SK, que es la continuación de la TK nº 2 Třinec – Český Těšín, estaba señalizada por el operador de la vía como ÚO 412. El propio intercambio de montajes (tramos de anclaje) en dicha división estaba situado entre el TP 78 y 80. El tramo de anclaje adyacente sobre:
 
-
 ## Página 22
+
 
 la parte de la SK nº 2, la SK nº 2b, la SK, que es la continuación de la SK nº 2 en el lomo de Český Těšín,
 •
@@ -772,31 +776,31 @@ la estación de Český Těšín,
 
 ## Página 23
 
-◦en la estación de Čadca (República Eslovaca) se le informó de forma comprobable mediante una orden escrita para el tren Lv 49794, que contenía información sobre la circulación ordenada con los colectores recogidos a través de la sección sin tensión en la entrada y la salida en la estación de Třinec,
-◦en la estación de Čadca subió a la cabina de conducción ocupada por él otro maquinista del transportista LR, que se desplazaba con el material rodante (HDV) por él conducido (trenes) hacia la estación de Český Těšín,
-◦antes de la entrada del tren Lv 53484 en la estación de Třinec, ajustó su velocidad de acuerdo con las señales, respetó la señal «Recoger colector» y, por inercia, entró con el tren en el SK n.º 3, donde se detuvo,
-◦al salir del SK n.º 3 de la estación de Třinec hacia el TK n.º 2 Třinec – Český Těšín, el tren alcanzó una velocidad de unos 40 km·h-1 y aún en el SK n.º 3 recogió el colector,
-◦al salir de la estación de Třinec registró las señales portátiles para la circulación eléctrica, cuando la señal portátil con la indicación «Levante el colector», que estaba situada en el km 312,400 entre las señales portátiles para la circulación eléctrica con las indicaciones «Prepárese para recoger el colector» y «Vía en sentido a la derecha sin hilo de contacto», le indujo a error, pero aun así continuó la circulación con el colector recogido,
-◦unos 20 m antes del nivel de la señal de entrada 2S de la estación de Třinec (para el sentido contrario) ordenó el levantamiento del colector. Aproximadamente 2 s después se produjo el impacto del colector, lo que se manifestó mediante un efecto sonoro y una caída de la indicación de tensión en el voltímetro de la tensión de hilo de contacto en el puesto de conducción,
-◦ordenó el levantamiento del colector aún antes de pasar la señal portátil para la circulación eléctrica con la indicación «Levante el colector»,
-◦detuvo el tren, comprobó visualmente el estado del colector y detectó su daño. A continuación, comunicó la aparición de la MU.
+◦en la estación de Čadca (República Eslovaca) se le informó de forma comprobable mediante una orden escrita para el tren Lv 49794, que contenía información sobre la circulación ordenada con pantógrafos recogidos a través de la sección sin tensión en la entrada y salida de la estación de Třinec,
+◦en la estación de Čadca subió a la cabina de conductor ocupada por él otro conductor del transportista LR, que se desplazaba con el material rodante (HDV) por él conducido (trenes) hacia la estación de Český Těšín,
+◦antes de la entrada del tren Lv 53484 en la estación de Třinec, ajustó su velocidad de acuerdo con las señales, respetó la señal «Recoger pantógrafo» y, por inercia, entró con el tren en el SK n.º 3, donde se detuvo,
+◦al salir del SK n.º 3 de la estación de Třinec hacia el TK n.º 2 Třinec – Český Těšín, el tren alcanzó una velocidad de unos 40 km·h-1 y aún en el SK n.º 3 recogió el pantógrafo,
+◦a la salida de la estación de Třinec registró las señales portátiles para la circulación eléctrica, cuando la señal portátil con la señal «Levante el pantógrafo», que estaba situada en el km 312,400 entre las señales portátiles para la circulación eléctrica con las señales «Prepárese para recoger el pantógrafo» y «Vía en sentido a la derecha sin hilo de contacto», le indujo a error, pero aun así continuó la circulación con el pantógrafo recogido,
+◦a unos 20 m de la altura de la señal de entrada 2S de la estación de Třinec (para el sentido contrario) ordenó el levantamiento del pantógrafo. Aproximadamente 2 s después se produjo el choque del pantógrafo, lo que se manifestó con un efecto sonoro y una caída de la indicación de tensión en el voltímetro de tensión de catenaria en la cabina del conductor,
+◦ordenó el levantamiento del pantógrafo aún antes de pasar la señal portátil para la circulación eléctrica con la señal «Levante el pantógrafo»,
+◦detuvo el tren, comprobó visualmente el estado del pantógrafo y detectó su daño. Posteriormente comunicó la aparición de una MU.
 
 Resumen de las explicaciones prestadas por otros testigos:
-controlador de tráfico 1H CDP Přerov
+jefe de despacho 1H CDP Přerov
   – Acta con el empleado:
 •
-◦controlaba la circulación en la estación de Třinec, donde se estaba llevando a cabo una interrupción continua de tensión y de vía del grupo de vías pares,
-◦a las 21:09 h se puso en contacto con el maquinista del tren Lv 53484 mediante el equipo de telecomunicaciones y le preguntó si estaba informado de la circulación con colectores recogidos en la entrada y en la salida en la estación de Třinec. El maquinista le confirmó que estaba informado,
-◦a continuación, estableció la ruta de entrada del tren desde el TK n.º 2 Bystřice – Třinec al SK n.º 3 de la estación de Třinec y más tarde estableció la ruta de salida del tren desde el SK n.º 3 al TK n.º 2 Třinec – Český Těšín,
-◦a las 21:20 h el maquinista del tren Lv 53484 le comunicó la aparición de la MU;
+◦dirigió la circulación en la estación de Třinec, donde se estaba llevando a cabo una interrupción continua de tensión y de vía en el grupo de vías pares,
+◦a las 21:09 h se puso en contacto con el conductor del tren Lv 53484 mediante el equipo de telecomunicaciones y le preguntó si estaba informado de la circulación con pantógrafos recogidos en la entrada y en la salida de la estación de Třinec. El conductor le confirmó que estaba informado,
+◦a continuación estableció la ruta de entrada desde el TK n.º 2 Bystřice – Třinec al SK n.º 3 de la estación de Třinec y más tarde estableció la ruta de salida desde el SK n.º 3 al TK n.º 2 Třinec – Český Těšín,
+◦a las 21:20 h el conductor del tren Lv 53484 le comunicó la aparición de una MU;
 testigo n.º 1
   – Acta con el empleado del transportista:
 •
-◦el comienzo del turno lo tuvo en la estación de Čadca (República Eslovaca), donde subió al HDV del tren Lv 49794, con el que se desplazaba hacia la estación de Český Těšín, donde debía recoger otro HDV,
-◦durante el desplazamiento hacia la estación de Český Těšín se encontraba en la cabina delantera de conducción del HDV de los trenes Lv 49794 y Lv 53484,
-
+◦comenzó el turno en la estación de Čadca (República Eslovaca), donde subió al material rodante (HDV) del tren Lv 49794, con el que se desplazaba hacia la estación de Český Těšín, donde debía recoger otro material rodante (HDV),
+◦durante el desplazamiento hacia la estación de Český Těšín se encontraba en la cabina delantera del conductor del HDV de los trenes Lv 49794 y Lv 53484,
 
 ## Página 24
+
 
 ◦al entrar el tren Lv 53484 en la estación de Třinec registró la señal «Recoger colector», a lo que el maquinista de dicho tren comentó que «la recogida» también es en la salida de esta estación,
 ◦al salir de la estación de Třinec también registró la señal «Recoger colector». No prestó atención a las acciones del maquinista,
@@ -819,60 +823,58 @@ La comunicación entre el controlador de tráfico 1H CDP Přerov y el maquinista
 | • 21:20:49 h | controlador de tráfico 1H CDP Přerov | CDP příjem “ „ . |
 | • 21:20:51 h | maquinista del tren Lv 53484 | Eee zdravím pekne tu päť tri štyri osem štyri „ , , … no zberač nemame ten sa nám strhol bo pri na , … na odchode sme to dvihli skôr jak sme mali , , a jsme si to neuvedomili “ … |
 
-
 ## Página 25
+
 
 ### 3.2 Descripción fáctica del suceso
 ### 3.2.1 Secuencia de hechos que condujeron al suceso extraordinario
 En la estación de Třinec se celebró el día 5. 6. 2021 una interrupción planificada continua de vía y de tensión, de acuerdo con el documento «ROZKAZ O VÝLUCE n.º 23051», que fue iniciada el día 31. 5. 2021 a las 7:15 h. Se interrumpieron las vías SK n.º 4, 6 y 6b y se interrumpió la tensión en las SK n.º 2, 4, 6 y 6a. El día 5. 6. 2021 en la estación de Třinec, según el correspondiente mensaje electrónico de teletipo (Edps), se celebró simultáneamente una interrupción continua de vía no prevista del SK n.º 2, que fue iniciada el día 31. 5. 2021 a las 7:15 h. Por ello, todos los trenes en la estación de Třinec fueron conducidos por el grupo de vías impares y los maquinistas fueron informados de forma comprobable mediante órdenes escritas sobre la circulación extraordinaria con colectores recogidos. En relación con estas interrupciones, el gestor de la infraestructura adoptó medidas para la circulación con colectores recogidos, consistentes en la disposición de señales portátiles para la circulación eléctrica antes y en la estación de Třinec, y, para eliminar el peligro de conexión de la sección desconectada con la sección de TV bajo tensión mediante la lengüeta del colector levantado del HDV, se instalaron dispositivos técnicos, los llamados «hákovnice», en los extremos de Bystřice y de Český Těšín en los km 310,818 y 312,820 en el hilo de contacto. En el lugar de la MU, dicho dispositivo técnico estaba situado en el hilo de contacto de la sección de anclaje sobre la parte del SK, que es la continuación del TK n.º 2 Třinec – Český Těšín, y el TK n.º 2, es decir, en el TV alimentado. El maquinista del tren Lv 53484, procedente de la estación de Návsí con destino a la estación de Český Těšín, compuesto por un HDV independiente 383.211-0, fue informado de forma comprobable de la circulación extraordinaria con colectores recogidos en la estación de Třinec el día 5. 6. 2021 en la estación de Čadca, mediante la orden escrita «Všeobecný rozkaz pro vlak číslo 49794», n.º 088/1, que contenía el texto: «En Třinec, en la entrada y en la salida, circule por la sección sin tensión con los colectores recogidos. ŽST Třinec 1. staničná koľaj ….. km 312,580 – 312,560 = 80 km/h ŽST Třinec 2. staničná koľaj ….. km 312,580 – 312,560 = 80 km/h». Esta orden escrita fue emitida para el tren n.º Lv 49794, que circulaba de la estación de Čadca a la estación de Návsí, y en ella se indicaban instrucciones también para el tramo siguiente entre las estaciones de Návsí y Český Těšín, sin que contuviera ninguna información de que fuera válida también para el tren Lv 53484, bajo cuyo número circulaba el HDV 383.211-0 de la estación de Návsí a la estación de Český Těšín.
 El controlador de tráfico 1H CDP Přerov, antes de permitir la entrada y la salida del tren Lv 53484 en y de la estación de Třinec, verificó mediante el equipo de telecomunicaciones que el maquinista estaba informado de la circulación con colectores recogidos. A continuación, mediante la operación normal del SZZ, realizó las maniobras para la circulación del tren Lv 53484 desde el TK n.º 2 Bystřice – Třinec al SK n.º 3 de la estación de Třinec. En el momento de la entrada del tren Lv 53484 en la estación de Třinec, o sea, en el momento anterior a su detención en el SK n.º 3 a las 21:17:01 h, el controlador de tráfico 1H CDP Přerov realizó otras maniobras para la circulación del tren Lv 53484, a saber, desde el SK n.º 3 al TK n.º 2 Třinec – Český Těšín. La salida del tren fue permitida por la señal «Velocidad 40 km/h y vía libre» indicada por la señal de salida L3, que estaba señalizada, entre otros, con una placa indicadora con el dígito blanco «5». A las 21:17:08 h el maquinista puso el tren Lv 53484 en movimiento. Aún durante la circulación por el SK n.º 3, el maquinista recogió el colector con antelación y continuó la circulación por inercia, pasando la señal de salida L3 a una velocidad de 38,8 km·h-1. En la circulación posterior, el tren Lv 53484 pasó junto a la señal portátil para la circulación eléctrica con la indicación «Prepárese para recoger el colector» complementada con la indicación «Distancia corta» y «Flecha direccional» hacia la derecha, junto a la señal portátil para la circulación eléctrica con la indicación «Levante el colector» y junto a la señal portátil para la circulación eléctrica con la indicación «Vía en sentido a la derecha sin hilo de contacto». Tras el paso del tren Lv 53484 (HDV 383.211-0) bajo el separador de sección n.º 16, insertado en el TV sobre la unión de vías de los desvíos n.º 39 y 40 y situado a 306 m del lugar de aparición de la MU, el maquinista del tren Lv 53484, mediante la manipulación del conmutador de mando de colectores, dio la orden de levantar el colector, aún antes de pasar la señal portátil para la circulación eléctrica con la indicación «Levante el colector» situada
 
-
 ## Página 26
 
-en el extremo de Český Těšín en el km 312,889. Con ello se produjo el levantamiento del 3.º colector de corriente de tracción del HDV 383.211-0 (en el sentido de circulación del tren Lv 53484) aún en el lugar de la circulación ordenada con colectores recogidos, y la consiguiente colisión de su lengüeta con el dispositivo técnico situado en el hilo de contacto, el llamado «hákovnice». Esta estaba situada en el km 312,820, es decir, en el sentido de circulación del tren Lv 53484 a una distancia de 69 m antes de la señal portátil para la circulación eléctrica con la indicación «Levante el colector». La colisión se manifestó mediante un efecto sonoro y una caída de la indicación de tensión en el voltímetro de la tensión de hilo de contacto en el puesto de conducción, a lo que el maquinista reaccionó frenando. Con el tren Lv 53484 se detuvo (en el sentido de circulación del tren) con el frontal del HDV a 2 m tras el nivel de la señal de entrada 2S de la estación de Třinec válida para la circulación de trenes (PMD) del sentido contrario, es decir, ya en el TK n.º 2 Třinec – Český Těšín.
-### 3.2.2 Secuencia de hechos desde la aparición del suceso extraordinario hasta la finalización de las acciones de los servicios de rescate
-21:18 h aparición de la MU;
+en la cabecera de Český Těšín en el pk 312,889. Con ello se produjo el levantamiento del 3.º colector de corriente de tracción del HDV 383.211-0 (en el sentido de circulación del tren Lv 53484) aún en el lugar de la orden de circular con los colectores recogidos, y la consiguiente colisión de su patín con un dispositivo técnico situado en el hilo de contacto, la llamada «hákovnice». Esta estaba situada en el pk 312,820, es decir, en el sentido de circulación del tren Lv 53484 a una distancia de 69 m antes de la señal portátil para tracción eléctrica con la indicación «Levante el colector». La colisión se manifestó mediante un efecto sonoro y una caída de la indicación de tensión en el voltímetro de tensión de catenaria en la cabina del maquinista, ante lo cual el maquinista reaccionó frenando. Con el tren Lv 53484 se detuvo (en el sentido de circulación del tren) con el frontal del HDV a 2 m por detrás del nivel de la señal de entrada 2S de la est. Třinec válida para la circulación de trenes (PMD) en sentido contrario, ya sobre la TK n.º 2 Třinec – Český Těšín.
+### 3.2.2 Secuencia de hechos desde la producción del suceso excepcional hasta la finalización de las acciones de los servicios de rescate
+21:18 h se produce el SE;
 •
-21:20 h el maquinista del tren Lv 53484 comunicó la aparición de la MU al controlador de tráfico 1H CDP
+21:20 h el maquinista del tren Lv 53484 comunicó la producción del SE al despachador jefe 1H CDP
 •
 Přerov;
-21:30 h el controlador de tráfico 1H CDP Přerov comunicó la aparición de la MU según el calendario de
+21:30 h el despachador jefe 1H CDP Přerov comunicó la producción del SE según el calendario de
 •
 comunicaciones del CDP Přerov;
-21:37 h el electrocontrolador de SŽ en el puesto de control ED Ostrava finalizó las maniobras
+21:37 h el electrodespachador de SŽ en el puesto de mando ED Ostrava finalizó las maniobras
 •
-para el desacople de la parte dañada del TV;
-21:46 h el jefe de control del CDP Přerov comunicó la aparición de la MU a la persona autorizada
+para el desacople de la parte dañada de la TV;
+21:46 h el despachador jefe del CDP Přerov comunicó la producción del SE a la persona
 •
-del gestor de la infraestructura SŽ – Departamento de Sistema de Seguridad de la Explotación de la
-Infraestructura, Oficina Territorial de Ostrava (en adelante, persona autorizada);
-21:50 h la persona autorizada inició la investigación de la MU en el lugar de su aparición, tras
+autorizada del gestor de la vía SŽ – Departamento del Sistema de Seguridad de la Explotación
+de la Vía, Oficina Territorial de Ostrava (en adelante, persona autorizada);
+21:50 h la persona autorizada inició la investigación del SE en el lugar de su producción, una vez
 •
-la finalización de las actuaciones de investigación de la MU anterior, que tuvo lugar el día 5. 6. 2021
-a las 15:42 h, en el extremo de Bystřice de la estación de Třinec en el km 310,818;
-21:55 h la persona autorizada notificó la aparición de la MU en el COP DI por parte del gestor de la
+finalizadas las actuaciones de investigación del SE anterior, que tuvo lugar el 5 de junio de 2021
+a las 15:42 h, en la cabecera de Bystřice de la est. Třinec en el pk 310,818;
+21:55 h la persona autorizada notificó la producción del SE en el COP DI por parte del gestor de la
 •
-infraestructura SŽ y del transportista LR;
-21:57 h el empleado en el COP DI, con base en los hechos notificados, concedió
+vía SŽ y del transportista LR;
+21:57 h el empleado en el COP DI, sobre la base de los hechos comunicados, concedió el
 •
-el consentimiento para la liberación de la infraestructura;
-22:10 h los empleados del gestor de la infraestructura SŽ iniciaron la reparación del TV dañado;
+consentimiento para la liberación de la vía;
+22:10 h los empleados del gestor de la vía SŽ iniciaron la reparación de la TV dañada;
 •
-23:45 h finalización de los trabajos de reparación del TV dañado;
+23:45 h finalización de los trabajos de reparación de la TV dañada;
 •
-23:58 h restablecimiento de la circulación a través del lugar de la MU, es decir, en el SK, que es la
+23:58 h se restableció la circulación a través del lugar del SE, es decir, sobre la SK, que es la
 •
-continuación del TK n.º 2 Třinec – Český Těšín.
-
-El Plan IZS no fue activado dada la naturaleza de la MU.
-
+continuación de la TK n.º 2 Třinec – Český Těšín.
+El Plan de Protección Civil no fue activado dada la naturaleza del SE.
 ### 4 ANÁLISIS DEL SUCESO
-### 4.1 Funciones y obligaciones
-### 4.1.1 Transportistas y gestores de la infraestructura
-El gestor de la infraestructura SŽ está obligado a explotar la infraestructura para las necesidades del transporte ferroviario fluido y seguro de acuerdo con las normas de explotación de la infraestructura y la autorización administrativa.
+### 4.1 Tareas y obligaciones
+### 4.1.1 Transportistas y gestores de vías
+El gestor de la vía SŽ está obligado a explotar la vía para las necesidades del tráfico ferroviario fluido y seguro, de acuerdo con las normas de explotación de la vía y la autorización administrativa.
 
 ## Página 27
+
 
 En los casos de previsión de una interrupción, el operador ferroviario debe emitir una orden de interrupción (por ejemplo, ROV). Este documento establece las condiciones para la exclusión de la parte correspondiente de la vía de tráfico y, en caso de necesidad, contiene medidas concretas para la ejecución de la interrupción prevista. El ROV también determina las condiciones para la organización de la explotación de la vía y del transporte ferroviario durante la duración de la interrupción.
 De las incidencias relativas a la explotación de la vía, se informa a los miembros de la dotación del tren mediante una orden escrita. El maquinista debe ser informado antes de la marcha, de forma comprobable, mediante una orden escrita sobre los cambios temporales de los parámetros constructivo-técnicos de las obras de vía y de las obras en la vía que tienen una influencia directa en la seguridad y la fluidez del transporte ferroviario, si son conocidos por el jefe de estación, incl. las medidas necesarias. Se informa a los maquinistas de los trenes durante toda la duración de los cambios de los parámetros constructivo-técnicos de las obras de vía y de las obras en la vía, incluido en caso de avería (interrupción) de los equipos de tracción eléctrica que influye en el trabajo del maquinista.
@@ -886,8 +888,8 @@ En la investigación se constató la infracción de la normativa legal y de las 
 •
 «El operador ferroviario está obligado a explotar la vía para las necesidades de un transporte ferroviario fluido y seguro, de acuerdo con las reglas para la explotación de la vía y la autorización administrativa»;
 
-
 ## Página 28
+
 
 § 14 apartado 5 del decreto n.º 173/1995 Sb.:
 •
@@ -906,8 +908,8 @@ Asimismo, se realizó en la est. Třinec el último mantenimiento de la TV por p
 El obstáculo en el lugar del MU estaba constituido por un dispositivo técnico colocado en el hilo de catenaria (las llamadas «hákovnice»), que se utiliza para eliminar el peligro de conexión de la sección desconectada con la sección de TV bajo tensión mediante el pantógrafo del HDV y que, en general, se coloca entre la señal «Recoger pantógrafo» y la correspondiente sección eléctrica. El uso de este dispositivo se basa en la TNŽ 34 3109 y se trata de un elemento de seguridad de importancia excepcional que tiene claramente como finalidad la protección de las personas que trabajan en la TV.
 En caso de conexión de la sección desconectada con la sección de TV bajo tensión, y ello mediante el pantógrafo del HDV, se produce, además de la amenaza para las personas que trabajan en la TV y en sus inmediaciones, por la influencia del cortocircuito de diversa intensidad generado y del arco eléctrico asociado, el daño a la TV y, por regla general, también a los pantógrafos
 
-
 ## Página 29
+
 
 del DV, lo que tiene repercusión en la seguridad, la fluidez y la operatividad de la vía. Si se produce repetidamente la conexión de la sección desconectada con la sección de TV bajo tensión mediante el pantógrafo del DV, la instalación de TV en dicho punto se somete a una carga no estándar (principalmente térmica, con influencia en la estructura del hilo de catenaria), lo que puede dar lugar a complicaciones operativas incluso después de finalizada la interrupción de tensión, así como a averías técnicas en la TV, incluso con un intervalo de tiempo más prolongado. Del mismo modo, los pantógrafos del DV, especialmente sus lisas, pueden verse dañados de la manera descrita al conectar la sección desconectada con la sección de TV bajo tensión, y en el caso extremo esto puede manifestarse, con un intervalo de tiempo más prolongado, por ejemplo, con la aparición de un MU en un lugar completamente distinto.
 Además del mencionado dispositivo técnico (es decir, la «hákovnice»), el operador ferroviario SŽ no dispone en la actualidad de otra posibilidad para impedir eficazmente la conexión de la sección desconectada con la sección de TV bajo tensión mediante el pantógrafo del DV. Tampoco dispone de un sistema eficaz capaz de detectar cada circulación del DV con el pantógrafo levantado (pantógrafos levantados) en los lugares donde no está permitido (por ejemplo, mediante medios diagnósticos especiales que garanticen la monitorización, evaluación y transmisión de la información correspondiente). Como consecuencia de ello, no siempre es posible identificar de forma inequívoca el tren cuyo maquinista no respetó las señales correspondientes para la circulación eléctrica, o bien las constataciones son considerablemente imprecisas y, por tanto, los transportistas no siempre reaccionan de manera adecuada a las mismas.
@@ -916,11 +918,13 @@ Como se desprende de la documentación recogida tras la aparición del mencionad
 
 ## Página 30
 
+
 Fig. n.º 5: Señal móvil para tracción eléctrica con la señal «Vía en sentido de la derecha sin línea de contacto» situada en el pk 312,459
         Fuente: SŽ
 El DI hizo que, en el marco de la investigación, un laboratorio acreditado determinara, entre otros, el coeficiente de retroreflexión de la señal móvil para tracción eléctrica con la señal «Suba el pantógrafo» (color azul con borde naranja), que según el gestor de la infraestructura SŽ (véase más abajo) debía haberse situado en la estación de Třinec antes de la ocurrencia del MU. Los resultados se resumieron en los documentos Protocolos CDV y de ellos se desprende que, aunque en la superficie activa de la señal mencionada se hubiera aplicado una película retroreflectante en la que constaba que se trataba de una película de clase «RA1», los valores realmente medidos del coeficiente de retroreflexión «RA» del color azul no alcanzaban los valores mínimos según la tabla 3 de la norma ČSN EN 12899-1 (véase el párrafo indicado más abajo). Esa era también la razón por la que, de la documentación obtenida, no quedaba patente en algunas señales si toda la placa de la señal estaba fabricada con material reflectante. No obstante, puede constatarse que en la señal con la señal «Suba el pantógrafo» facilitada por el DI no se cumplía el requisito establecido en el punto 12, parte I, del anexo n.º 1 del decreto n.º 173/1995 Sb. y que toda su placa no estaba fabricada con material reflectante, porque la película de color azul utilizada en esta señal no alcanzaba los valores mínimos del coeficiente de retroreflexión para la clase «RA1». En general, las películas retroreflectantes tienen una retroreflexión diferente, en función de sus propiedades determinadas por la fabricación. Se distinguen tres clases de retroreflexión (de las cuales la clase «RA1» es la más baja y la clase «RA3» la más alta), siendo así que cuanto mayor es la clase de la película, mejor se ve la película por la noche. Sin embargo, debido a la agresividad del medio y a la acción de la radiación ultravioleta, durante su uso se deteriora la retroreflexión de la película retroreflectante (capacidad de reflejar la luz) y los colores utilizados se decoloran. Para poder evaluar cuantitativamente, entre otros, el estado de la película retroreflectante, la norma ČSN EN 12899-1 contiene valores mínimos de seguimiento que deberían cumplirse. Aunque la normativa en materia de ferrocarriles no contiene, en relación con la evaluación de los parámetros de retroreflexión, una referencia directa a la ČSN EN 12899-1, tampoco indica ningún otro documento según el cual deban evaluarse los parámetros de retroreflexión. Dado que el ordenamiento jurídico debe tomarse como un todo, en esta cuestión puede partirse de dicha norma, aunque se refiera a señales verticales de tráfico de carretera. Su aplicación, en definitiva, también la admite el gestor de la infraestructura SŽ, por ejemplo en el caso de algunas señales fijas bajo la competencia del Departamento de Gestión de Vías, donde hace referencia a esta norma en las condiciones técnicas generales correspondientes.
 
 ## Página 31
+
 
 Atendiendo a que la ocurrencia del MU tuvo lugar al anochecer y que la visibilidad de las señales mencionadas no fue puesta en duda en modo alguno, no se trata de una deficiencia en relación causal con la ocurrencia del MU.
 A este respecto es necesario señalar que el decreto n.º 173/1995 Sb. permite que los símbolos de señal de las señales para tracción eléctrica estén también formados por reflectores circulares de color blanco, lo que, en las actuales posibilidades técnicas y tecnológicas y con la disponibilidad de nuevos materiales y procedimientos, puede considerarse obsoleto.
@@ -936,6 +940,7 @@ En la investigación se constató la infracción de la normativa relativa a las 
 
 ## Página 32
 
+
 § 5 apartado 1 del decreto n.º 173/1995 Sb.:
 •
 «El sistema de señalización está formado por un sistema unificado de señales visibles en la forma, figura y color establecidos y de señales acústicas audibles en la forma establecida. El sistema de señalización debe permitir una expresión y percepción fácil, rápida y unívoca de las señales y garantizar la explotación segura del tráfico ferroviario. … Las señales básicas del sistema de señalización se indican en el anexo n.º 1, parte I, que forma parte de este decreto.»;
@@ -948,6 +953,7 @@ Fig. n.º 6: Ejemplo de señales móviles para tracción eléctrica de color nar
 Por este motivo, el DI solicitó al gestor de la infraestructura SŽ no solo la facilitación de una señal móvil para tracción eléctrica con la señal «Vía en sentido de la derecha sin línea de contacto» de color naranja y en versión de color azul con marco naranja, sino también la facilitación de una señal móvil para tracción eléctrica con la señal «Suba el pantógrafo» de color naranja y en versión de color azul con marco naranja (véase más arriba). El DI
 
 ## Página 33
+
 
 hizo que a continuación un laboratorio acreditado determinara para estas señales su coeficiente de retroreflexión, sus coordenadas tricromáticas y sus factores de luminancia. Los resultados se resumieron en los documentos Protocolos CDV. Con base en estos antecedentes fue posible a continuación realizar una comparación cuantificable de las señales móviles para tracción eléctrica de color naranja y de color azul con marco naranja. Para esta comparación, dada su alta especialización e independencia, se contactó con un centro académico especializado que se ocupa de esta cuestión, concretamente en la Universidad Palacký de Olomouc, Facultad de Ciencias, Departamento de Óptica. Los resultados se resumieron en el documento Análisis y comparación de señales. De este documento se desprende, entre otros:
 •
@@ -963,6 +969,7 @@ para la mejor identificación posible de la señal móvil para tracción eléctr
 Si resumimos lo anterior, en el caso concreto puede recomendarse de forma unívoca para su uso en servicio únicamente las señales móviles para tracción eléctrica de color azul con marco naranja. Toda la señal debería estar fabricada con película retroreflectante que cumpla los criterios de la norma ČSN EN 12899-1. Para la mejor identificación posible de la señal es conveniente situarla de modo que en sus inmediaciones no haya elementos de estructura y color similares a los que contiene la señal, de manera que, por ejemplo, no debería situarse cerca de otras señales en las que se utilice el color azul, etc., y no debería producirse innecesariamente en servicio la agrupación de señales individuales. Además, al situarlas debería prestarse atención a que las señales se ubiquen de forma previsible (por ejemplo, a la misma altura sobre la cabeza del raíl en la zona correspondiente, etc.). Atendiendo a lo anterior, es por tanto innecesario que el decreto n.º 173/1995 Sb. permita en las líneas de interés general y regional y en ramales la utilización de señales móviles para tracción eléctrica de color naranja (véase el punto 6 de la presente IIA).
 
 ## Página 34
+
 
 El transportista está obligado a explotar el transporte ferroviario de acuerdo con las reglas de explotación del transporte ferroviario, la licencia vigente y el contrato celebrado con el gestor de la infraestructura sobre la explotación del transporte ferroviario en la vía.
 El maquinista está obligado, entre otros, al conducir el tren (DV) a conducir el DV únicamente desde el puesto desde el que se tenga la mejor visibilidad, normalmente desde la cabina delantera del maquinista en el sentido de la marcha, a observar desde la cabina de mando del DV la vía y las señales y, en las vías electrificadas, también la tensión de catenaria, y a actuar de acuerdo con los hechos constatados.
@@ -988,8 +995,8 @@ art. 3412 de la norma interna SŽDC D1:
 •
 «La señal Vía en el sentido derecho sin hilo de contacto … advierte bien de que en el sentido derecho hay una vía sin hilo de contacto, o de que el tramo de hilo de contacto siguiente no es transitable y ordena al maquinista del vehículo de tracción eléctrica circular con el pantógrafo recogido como tarde a la altura de esta señal.»;
 
-
 ## Página 35
+
 
 art. 3432 de la norma interna SŽDC D1:
 •
@@ -1016,8 +1023,8 @@ art. 3256 de la norma interna SŽDC D1:
 •
 «El empleado que recibe una orden escrita está obligado a leerla antes de confirmar su recepción. Cualquier inconsistencia debe subsanarse de inmediato. Si la orden redactada no se ajusta a las disposiciones sobre su redacción, se negará a recibirla.».
 
-
 ## Página 36
+
 
 Todas las instrucciones dadas (concedidas) en el servicio de tráfico deben ser breves y comprensibles, de modo que se excluya cualquier malentendido. El maquinista del tren Lv 53484, en la comunicación por medio de un dispositivo de telecomunicaciones con el despachador de circulación 1H CDP Přerov, mantenía las conversaciones en lengua eslovaca (véase el punto 3.1.8 de esta ZZ). Aunque la similitud del eslovaco con el checo es indudable y históricamente las lenguas son emparentadas, no puede utilizarse la lengua eslovaca, según los procedimientos tecnológicos del gestor de la infraestructura SŽ, en el servicio de tráfico.
 La constatación anterior no puede valorarse en relación causal con la producción de la MU, porque en la comunicación entre el maquinista del tren Lv 53484 y el despachador de circulación 1H CDP Přerov ninguna de las dos partes tuvo dudas sobre su contenido.
@@ -1038,8 +1045,8 @@ En la investigación no se constató infracción de las funciones y obligaciones
 La autoridad nacional de seguridad es el DÚ, que de acuerdo con la Ley n.º 266/1994 Sb. es una autoridad administrativa dependiente del Ministerio de Transportes. Su función es, entre otras, el ejercicio de la supervisión estatal en materia de vías y en materia de autoridad de construcción, el ejercicio de la autoridad de construcción especial para las obras de la vía y las obras en la vía, la aprobación de DV nuevos y modernizados y de dispositivos técnicos designados, y la tramitación de infracciones. El DÚ tiene la obligación de comunicar al DI, en el plazo de 12 meses desde la fecha de publicación del informe final que contenga las recomendaciones de seguridad dirigidas a él, qué medida ha adoptado en relación con dicha recomendación de seguridad, realizando esta comunicación de forma periódica, al menos una vez al año, hasta la adopción de las medidas correspondientes.
 La función de la Agencia Ferroviaria de la Unión Europea es, además de garantizar, en el marco de sus competencias, que se mantenga en general y se aumente, si es posible de forma sistemática, la seguridad de los ferrocarriles, entre otras, la emisión, renovación, suspensión y modificación de certificados únicos de seguridad, la limitación de su vigencia o su anulación, colaborando en este asunto con las autoridades nacionales de seguridad; asimismo, emite autorizaciones para la comercialización de vehículos ferroviarios y de tipos de vehículos y está facultada para renovar, modificar, suspender
 
-
 ## Página 37
+
 
 o retirar las autorizaciones que haya emitido. La Agencia evalúa además los proyectos de normativa nacional, etc.
 En la investigación no se constató infracción de las funciones y obligaciones de la autoridad nacional de seguridad y de la Agencia Ferroviaria de la Unión Europea.
@@ -1061,6 +1068,7 @@ El HDV 383.211-0 estaba equipado, en el momento de la producción de la MU, con 
 
 ## Página 38
 
+
 ### Hallazgos:
 Durante la investigación se constató una infracción de la normativa relativa a las funciones y obligaciones del operador
 ### LR, sin relación causal con la aparición de la MU:
@@ -1077,40 +1085,39 @@ En términos generales, puede afirmarse que en la actualidad los casos de no res
 El sistema de transporte será seguro [sin incidentes (accidentes)] en lo que respecta al comportamiento (actuación) del ser humano solo si se diseña de tal manera que, aunque el ser humano cometa un error, el sistema sea capaz de corregir dicho error y no se produzca el incidente (accidente). A este respecto, conviene señalar que, por naturaleza humana, el ser humano comete errores y seguirá cometiéndolos. Se trata de errores deliberados (conscientes) y de errores no deliberados (inconscientes).
 Dadas las posibilidades actuales, en las que no es posible prevenir el comportamiento erróneo del ser humano, la prevención más adecuada y más accesible ante la aparición de sucesos relacionados con los casos de no respeto de las señales para tracción eléctrica consiste en la mayor eliminación posible de las situaciones en las que dichos sucesos puedan producirse. Se trata, por tanto, de minimizar los casos en los que, por parte de los explotadores de vías, se ordene, al organizar el transporte ferroviario, la circulación con pantógrafos recogidos mediante señales portátiles para tracción eléctrica, especialmente en las obras realizadas en las vías. La minimización de estos casos debería tenerse ya en cuenta en la preparación de la obra concreta y de los procedimientos constructivos específicos, mediante la adopción de medidas tanto puramente administrativas como técnicas (por ejemplo, mediante la inserción de seccionadores en el conjunto de la TV). En la estación de Třinec, al igual que en otras estaciones con bifurcación de vías, los distintos tramos eléctricos de la TV se separaron mediante divisiones mecánico/eléctricas y seccionadores insertados en la TV (véase el punto 3.1.8 de la presente ZZ), de modo que:
 
-
 ## Página 39
 
-las divisiones mecánico/eléctricas servían para separar la TV de la vía en llano de la TV de la estación
+la división mecánico/eléctrica servía para separar la TV de la línea abierta de la TV de la estación
 •
-en la dirección longitudinal;
-los seccionadores servían para separar la TV de las vías principales SK (separación del grupo de vías
+en dirección longitudinal;
+los separadores de sección servían para separar la TV de las principales SK (separación del grupo
 •
-impares y del grupo de vías pares) y la TV de las demás vías SK de tráfico y otras en la dirección transversal.
-Por este motivo, en la estación de Třinec, durante la realización de la interrupción conforme a la ROV nº 23051, se excluyeron del servicio las vías SK nº 2, 4, 6 y 6a y, conforme al esquema vigente de alimentación y división de la TV, se cortó la tensión sobre la parte de la SK que es continuación de la TK nº 2 Bystřice – Třinec, sobre la SK que es continuación de la SK nº 2 en el extremo de Bystřice, sobre la SK que es continuación de la SK nº 2 en el extremo de Český Těšín, y sobre la parte de la SK que es continuación de la TK nº 2 Třinec – Český Těšín. Todos los trenes circularon por la SK del grupo de vías impares. Por ello, los trenes que entraban en la estación de Třinec desde las TK pares tenían que atravesar parte de la cabecera de entrada y el extremo con los pantógrafos recogidos. Del mismo modo, los trenes que salían hacia las TK pares tenían que atravesar parte de la cabecera de salida y el extremo también con los pantógrafos recogidos (véase la Fig. 7 de la presente ZZ).
-Tramo de la TV por el que se estableció la ruta para el tren Lv 53484
+de vías impar y par) y la TV de las demás SK de tráfico y otras conectadas en dirección transversal.
+Por este motivo, en la estación. Třinec, durante la realización de la interrupción de trabajo según la ROV n.º 23051, se excluyeron elécticamente las SK n.º 2, 4, 6 y 6a y, según el esquema vigente de alimentación y división de la TV, se desconectó la tensión sobre la parte de la SK que es continuación del TK n.º 2 Bystřice – Třinec, sobre la SK que es continuación de la SK n.º 2 en la cabecera de Bystřice, sobre la SK que es continuación de la SK n.º 2 en la cabecera de Český Těšín, y sobre la parte de la SK que es continuación del TK n.º 2 Třinec – Český Těšín. Todos los trenes fueron conducidos por la SK del grupo de vías impar. Por ello, los trenes que entraban en la estación. Třinec desde los TK pares debían atravesar parte de la cabecera de entrada y la cabecera con los pantógrafos recogidos. Del mismo modo, los trenes que salían hacia los TK pares debían atravesar parte de la cabecera de salida y la cabecera también con los pantógrafos recogidos (véase la Fig. 7 de esta ZZ).
+Tramo de TV donde se estableció la vía para el tren Lv 53484
 Leyenda:
-Tramo de la TV bajo tensión
-Tramo de la TV sin tensión (área de exclusión de tensión de la TV)
+Tramo de TV bajo tensión
+Tramo de TV sin tensión (área de la interrupción eléctrica de la TV)
 División mecánico/eléctrica
-Seccionador
-Seccionador de la TV en posición de cierre
-Seccionador de la TV en posición de apertura
-Fig. nº 7: Esquema y división de la TV en la estación de Třinec (estado en el momento de la MU).
+Separador de sección
+Seccionador de sección de TV conectado
+Seccionador de sección de TV desconectado
+Fig. n.º 7: Esquema y división de la TV en la estación. Třinec (estado en el momento de la MU).
      Fuente: DI
-Mediante la inserción de seccionadores en la TV en lugares adecuados sobre las SK de los distintos extremos, es decir, especialmente entre el desvío del enlace de vías y el primer desvío de la siguiente bifurcación que no esté conectado al enlace de vías (y viceversa), es posible eliminar los tramos en los que se ordene la circulación con pantógrafos recogidos (véase la Fig. 8 de la presente ZZ), y con ello eliminar el riesgo de MU derivado del comportamiento del maquinista que no respeta la orden de recoger el pantógrafo, incluidos los efectos negativos asociados sobre la regularidad y la fluidez del transporte ferroviario (véanse los puntos 4.5 y 6 de la presente ZZ).
-Tramo de la TV por el que se estableció la ruta para el tren Lv 53484
+Mediante la inserción de separadores de sección en la TV en lugares adecuados sobre las SK de las distintas cabeceras, es decir, principalmente entre la aguja del enlace de vías y la primera aguja de la siguiente bifurcación que no esté conectada al enlace de vías (y viceversa), es posible eliminar los tramos de orden de marcha con los pantógrafos recogidos (véase la Fig. 8 de esta ZZ), y con ello eliminar el riesgo de MU surgido como consecuencia del comportamiento del maquinista que no respeta la orden de recoger el pantógrafo, incl. los impactos negativos relacionados sobre la regularidad y la fluidez del transporte ferroviario (véanse los puntos 4.5 y 6 de esta ZZ).
+Tramo de TV donde se estableció la vía para el tren Lv 53484
 Leyenda:
-Tramo de la TV bajo tensión tras la inserción del seccionador
-Seccionador insertado
-Tramo de la TV bajo tensión
-Tramo de la TV sin tensión (área de exclusión de tensión de la TV)
+Tramo de TV bajo tensión tras la inserción de un separador de sección
+Separador de sección recién insertado
+Tramo de TV bajo tensión
+Tramo de TV sin tensión (área de la interrupción eléctrica de la TV)
 División mecánico/eléctrica
-Seccionador
-Seccionador de la TV en posición de cierre
-Fig. nº 8: Ejemplo de esquema y división de la TV tras la inserción de un seccionador en la TV entre la vía nº 2 y la nº 2b.  Fuente: DI
-
+Separador de sección
+Seccionador de sección de TV conectado
+Fig. n.º 8: Ejemplo de esquema y división de la TV tras la inserción de un separador de sección en la TV entre la vía n.º 2 y la n.º 2b.  Fuente: DI
 
 ## Página 40
+
 
 Asimismo, sobre la base de lo expuesto anteriormente, desde la perspectiva del factor humano, como medida concreta de prevención ante la aparición de sucesos que se repiten constantemente relacionados con los casos de no respeto de las señales para tracción eléctrica, puede recomendarse el uso de dispositivos técnicos en la cabina del maquinista para mostrar los lugares en los que es necesario accionar el elemento de control para recoger o, en su caso, levantar el pantógrafo del DV, o incluso eliminar por completo, mediante el funcionamiento automático de los dispositivos del DV, estas actuaciones del maquinista.
 Esto puede lograrse mediante la utilización y ampliación de las funcionalidades del sistema ERTMS/ETCS. Técnicamente es posible utilizar la salida de la parte móvil del ETCS no solo para mostrar la orden de recoger el pantógrafo en el DMI, sino también para controlar el pantógrafo del DV. La simple visualización de esta orden en el DMI (complementada, en su caso, con una alerta acústica) es una herramienta insustituible para la reducción significativa del riesgo de error del maquinista al circular hacia y por lugares de la vía en los que el explotador de la vía ordene la circulación con pantógrafos recogidos, es decir, el error del maquinista que, al manipular el elemento de control correspondiente del DV, recoja el pantógrafo tarde, lo levante pronto o no lo recoja en absoluto (véase el punto 6 de la presente ZZ).
@@ -1122,6 +1129,7 @@ El maquinista del tren Lv 53484 tenía celebrado con el transportista LR un cont
 Dado que el maquinista del tren Lv 53484 condujo el DV durante sus jornadas en territorio de la República Eslovaca y de la República Checa, al haber sido asignado por el empleador (transportista) durante más de una hora al transporte transfronterizo interoperable, era, conforme al § 12 apartado 2 de la ley nº 462/2007 Z. z., un empleado móvil en el transporte transfronterizo interoperable. Conforme al § 13 apartado 1 de dicha ley, el empleador (transportista LR) estaba obligado a distribuir la jornada laboral (el tiempo de trabajo) del maquinista de modo que la duración de su turno de trabajo fuera como máximo de 13 h, pudiendo ampliarla por el tiempo de duración del viaje de servicio, que
 
 ## Página 41
+
 
 se realizará al final de la jornada laboral. Según el § 13 apartado 4 de la misma ley, la jornada laboral (tiempo de trabajo) del maquinista era el periodo (tiempo) desde el inicio de la actividad hasta el final de la actividad, durante el cual el maquinista se encontraba en el puesto de trabajo a disposición del empleador y ejercía su función. Aquí es necesario indicar que, según el § 13 apartado 7 de la misma ley, el puesto de trabajo era también el HDV, que el maquinista utilizaba para el ejercicio de las actividades de transporte (lo conducía).
 
@@ -1146,8 +1154,8 @@ De lo anterior se deduce que el tiempo necesario para el traslado del empleado d
 
 De la comparación de las disposiciones pertinentes de la legislación de la República Eslovaca, es decir, de las leyes n.º 311/2001 Z. z. y n.º 462/2007 Z. z., con las disposiciones pertinentes de la legislación de la República Checa, es decir, de la ley n.º 262/2006 Sb. y del decreto gubernamental n.º 589/2006 Sb., no se detectaron diferencias fundamentales en relación con los turnos del maquinista que se indican a continuación.
 
-
 ## Página 42
+
 
 El turno anterior del maquinista del tren Lv 53484 lo inició [comenzó a transcurrir la jornada laboral (el tiempo de trabajo)] el 1 de junio de 2021 a las 9:30 h en Karviná, es decir, en un lugar de prestación de trabajo distinto del lugar de prestación de trabajo pactado (Košice), al que se trasladó desde su residencia en Spišská Nová Ves (República Eslovaca). El maquinista finalizó el turno el mismo día a las 22:00 h [finalizó la jornada laboral (el tiempo de trabajo)] en Čadca (República Eslovaca), es decir, también en un lugar de prestación de trabajo distinto, desde el que se trasladó de vuelta a su residencia. El tiempo para el traslado del maquinista desde su residencia a un lugar de prestación de trabajo distinto (Karviná) del lugar de prestación de trabajo pactado según el contrato de trabajo (Košice), respectivamente el tiempo para el traslado del maquinista desde otro lugar de prestación de trabajo (Čadca) a su residencia, no se computó en la jornada laboral (tiempo de trabajo).
 
@@ -1157,8 +1165,8 @@ De los turnos analizados del maquinista del tren Lv 53484 se evidencia que el em
 
 Los turnos [jornadas laborales (tiempos de trabajo)] del maquinista comenzaban (finalizaban) en lugares de prestación de trabajo distintos, para lo que necesitaba, en el caso del traslado a Vrútky, unas 2 h y a Karviná unas 4 h, para el traslado (desplazamiento), es decir, para la actuación necesaria antes del inicio de la prestación de trabajo. El empleador (transportista LR) respetaba a su vez la duración límite del turno de 13 h establecida en el § 13 apartado 1 de la ley n.º 462/2007 Z. z. Así, externamente y de conformidad con la legislación, no se producía una amenaza a la seguridad del transporte ferroviario por fatiga del maquinista, ya que el maquinista del tren Lv 53484 no condujo el HDV tras la expiración del tiempo establecido por la citada ley. El empleador (transportista LR) no tuvo en cuenta el riesgo de que el maquinista, tras el traslado (desplazamiento) desde su residencia al puesto de trabajo, que en los casos dados duraba hasta unas 4 h (puede durar incluso más horas en función del lugar del puesto de trabajo), no estuviera (no pueda estar) siempre ya desde el inicio de la prestación de trabajo – conducción del HDV – adecuadamente descansado. Tal práctica reduce significativamente la seguridad, porque la fatiga tiene una influencia directa en la atención y la concentración, en el caso concreto en la concentración del maquinista en la conducción del DV, la observación de la vía y las señales y la actuación según los hechos constatados. En el caso de este MU concreto no se detectó la influencia de la fatiga en su producción –
 
-
 ## Página 43
+
 
 El MU se produjo tras transcurrir unas 6 h desde el inicio del traslado (desplazamiento) del maquinista desde su residencia al lugar del puesto de trabajo (Vrútky) y unas 3 h desde el inicio de la prestación de trabajo.
 
@@ -1195,32 +1203,30 @@ El sistema de gestión de los sujetos responsables del mantenimiento del DV y de
 ## Página 44
 
 ### 4.4.5 Resultados de la supervisión realizada por las autoridades nacionales de seguridad
-Atendiendo a los factores y circunstancias del suceso de la MU constatados, la supervisión de la autoridad de seguridad no guarda relación con la MU en cuestión.
+Atendiendo a los factores y circunstancias de la aparición de la MU constatados, la supervisión de la autoridad de seguridad no guarda relación con la MU en cuestión.
 ### 4.4.6 Aprobaciones, certificados e informes de evaluación emitidos por la agencia, las autoridades nacionales de seguridad u otros organismos de evaluación de la conformidad
-El gestor de la infraestructura ferroviaria explotó la infraestructura en virtud de una autorización administrativa vigente y del certificado de seguridad del gestor de la infraestructura ferroviaria. El operador ferroviario explotó el transporte ferroviario en virtud de una licencia vigente y del certificado del operador ferroviario.
+El gestor de la infraestructura ferroviaria explotó la infraestructura ferroviaria al amparo de una autorización administrativa vigente y de un certificado de seguridad del gestor de la infraestructura ferroviaria. El transportista explotó el transporte ferroviario al amparo de una licencia vigente y de un certificado del transportista.
 ### 4.4.7 Otros factores sistémicos
 En la investigación no se constataron otros factores sistémicos.
 ### 4.5 Sucesos anteriores de naturaleza similar
-La DI registra en el periodo comprendido entre el 1. 1. 2012 y la fecha de suceso de la MU en cuestión, en las vías ferroviarias, categoría nacional y regional, un total de 253 MU similares, en las que, durante la circulación de un tren (de maniobras) en el lugar ordenado para circular con los colectores recogidos, se produjo daños en la catenaria y/o en el material rodante (colectores del material rodante), como consecuencia del error del maquinista del tren (de maniobras), que no respetó el correspondiente señal fija, respectivamente señal portátil, para la explotación eléctrica. Como consecuencia de estas MU no se produjeron daños personales. Sin embargo, se originó un daño por un importe total de 40 282 695 CZK, de los cuales 7 264 181 CZK en la infraestructura ferroviaria y 33 018 514 CZK en el material rodante; el transporte ferroviario se interrumpió durante unas 463 h, se retrasaron 2 860 trenes de transporte de pasajeros en unas 1 427 h y 415 trenes de transporte de mercancías en unas 855 h.
-Del número total de MU similares anteriores, se produjeron 62 MU en lugares en los que la circulación con los colectores recogidos estaba ordenada por señales fijas de ubicación permanente e indicadores para la explotación eléctrica. Como consecuencia de estas MU no se produjeron daños personales. Se originó un daño total por un importe de 9 064 797 CZK, de los cuales 780 532 CZK en la infraestructura ferroviaria y 8 284 265 CZK en el material rodante; el transporte ferroviario se interrumpió durante unas 64 h, se retrasaron 344 trenes de transporte de pasajeros en 119 h y 27 trenes de transporte de mercancías en unas 45 h.
-Del número total de MU similares anteriores, se produjeron 191 MU en lugares en los que la circulación con los colectores recogidos estaba ordenada por señales portátiles para la explotación eléctrica. Como consecuencia de estas MU no se produjeron daños personales. Se originó un daño total por un importe de 31 217 898 CZK, de los cuales 6 483 649 CZK en la infraestructura ferroviaria y 24 734 249 CZK en el material rodante; el transporte ferroviario se interrumpió durante unas 399 h, se retrasaron 2 516 trenes de transporte de pasajeros en unas 1 308 h y 388 trenes de transporte de mercancías en 810 h.
-La DI investigó en el periodo anteriormente mencionado las causas y circunstancias de 1 MU similar, concretamente la del día 12. 9. 2015 (3.27 h), en la est. 
+El DI registra en el período comprendido entre el 1. 1. 2012 y la fecha de aparición de la MU en cuestión, en las vías férreas de categoría nacional y regional, un total de 253 MU similares, en los que, durante la circulación de un tren (de maniobras) en el lugar ordenado de circulación con pantógrafos recogidos, se produjo daños en el TV y/o en el DV (pantógrafos del DV), como consecuencia del error del maquinista del tren (de maniobras), que no respetó la señal ferroviaria correspondiente, respectivamente la señal portátil, para la circulación eléctrica. Como consecuencia de estas MU no se produjeron lesiones personales. Sin embargo, se originó un daño por un importe total de 40 282 695 CZK, de los cuales 7 264 181 CZK en la infraestructura ferroviaria y 33 018 514 CZK en el DV, el transporte ferroviario se interrumpió durante unas 463 h, se retrasaron 2 860 trenes de transporte de pasajeros en unos 1 427 h y 415 trenes de transporte de mercancías en unas 855 h.
+De la cifra anterior de MU similares, se produjeron 62 MU en lugares en los que la circulación con pantógrafos recogidos estaba ordenada por señales ferroviarias invariables de ubicación permanente e indicadores para la circulación eléctrica. Como consecuencia de estas MU no se produjeron lesiones personales. Se originó un daño total por un importe de 9 064 797 CZK, de los cuales 780 532 CZK en la infraestructura ferroviaria y 8 284 265 CZK en el DV, el transporte ferroviario se interrumpió durante unas 64 h, se retrasaron 344 trenes de transporte de pasajeros en 119 h y 27 trenes de transporte de mercancías en unas 45 h.
+De la cifra anterior de MU similares, se produjeron 191 MU en lugares en los que la circulación con pantógrafos recogidos estaba ordenada por señales portátiles para la circulación eléctrica. Como consecuencia de estas MU no se produjeron lesiones personales. Se originó un daño total por un importe de 31 217 898 CZK, de los cuales 6 483 649 CZK en la infraestructura ferroviaria y 24 734 249 CZK en el DV, el transporte ferroviario se interrumpió durante unas 399 h, se retrasaron 2 516 trenes de transporte de pasajeros en unas 1 308 h y 388 trenes de transporte de mercancías en 810 h.
+El DI investigó en el período anteriormente indicado las causas y circunstancias de 1 MU similar, concretamente la del día 12. 9. 2015 (3.27 h), en la estación de 
  Ústí nad Orlicí
- , donde en el lugar ordenado para circular con los colectores recogidos (ordenado por señales portátiles para la explotación eléctrica) se produjeron daños en la catenaria y en la locomotora de maniobras del tren Pn 66287. La causa inmediata de la MU fue la circulación de la locomotora eléctrica a la cabeza del tren Pn 66287 por el lugar de separación mecánico/eléctrico entre la sección de vía de la catenaria y la sección de estación de la catenaria sin el recogido ordenado del colector. Un factor contribuyente de la MU fueron las circulaciones acreditadas de nueve trenes en el periodo comprendido entre el 1. 9. 2015 y el 12. 9. 2015 por el lugar de la MU posterior con el colector no recogido, que sometieron el hilo de contacto en el lugar de separación a una gran carga térmica por encima de las condiciones operativas habituales. La causa fundamental de la MU fue el incumplimiento de las señales «Recoger el colector» emitidas por una señal portátil para la explotación eléctrica, situada antes del lugar de la MU, por parte del maquinista de la locomotora a la cabeza del tren.
-
+, donde en el lugar ordenado de circulación con pantógrafos recogidos (ordenado por señales portátiles para la circulación eléctrica) se produjeron daños en el TV y en la locomotora de maniobras del tren Pn 66287. La causa inmediata de la aparición de la MU fue la circulación de la locomotora eléctrica a la cabeza del tren Pn 66287 por el lugar de división mecánica/eléctrica de la sección de vía del TV y de la sección de estación del TV sin el recogido ordenado del pantógrafo. Un factor contribuyente a la aparición de la MU fueron las circulaciones acreditadas de nueve trenes en el período comprendido entre el 1. 9. 2015 y el 12. 9. 2015 por el lugar de la MU posterior con el pantógrafo no recogido, que sometieron el hilo de contacto en el lugar de división a una gran carga térmica por encima de las condiciones operativas habituales. La causa fundamental de la aparición de la MU fue el incumplimiento de las señales «Recogido el pantógrafo» emitidas por una señal portátil para la circulación eléctrica, situada antes del lugar de la MU, por parte del maquinista de la locomotora a la cabeza del tren.
 
 ## Página 45
 
-La DI, atendiendo a las causas y circunstancias constatadas del suceso de la MU en cuestión, no emitió recomendaciones de seguridad.
+DI, teniendo en cuenta las causas y circunstancias del suceso de la MU, no emitió recomendaciones de seguridad.
 ### 5 CONCLUSIONES
 ### 5.1 Resumen del análisis y conclusiones relativas a las causas del suceso
-La causa inmediata del suceso excepcional fue:
-el recogido prematuro del colector de la locomotora motriz del tren Lv 53484 en el lugar
+La causa inmediata del suceso extraordinario fue:
+el levantamiento prematuro del colector de corriente de la locomotora del tren Lv 53484 en el lugar
 •
-ordenado para circular con el colector recogido, sin que la persona que conducía la
-locomotora hubiera recibido la instrucción correspondiente al respecto.
-No se constató ningún factor contribuyente por parte de la Inspección Ferroviaria.
-No se constató ninguna causa sistémica por parte de la Inspección Ferroviaria.
+de la orden de circular con el colector de corriente retraído, sin que la persona que conducía el vehículo ferroviario recibiera para ello la instrucción correspondiente.
+No fue detectado ningún factor contribuyente por parte de la Inspección Ferroviaria.
+No fue detectada ninguna causa sistémica por parte de la Inspección Ferroviaria.
 ### A summary of the analysis and conclusions with regard to the causes of the
 occurrence
 Causal factor:
@@ -1230,22 +1236,22 @@ place where the ride with the withdrawn current collector was ordered, and even 
 the train driver was not called on to do so.
 Contributing factor: none.
 Systemic factor: none.
-### 5.2 Medidas adoptadas para la prevención de sucesos excepcionales
-El gestor de la infraestructura SŽ, con base en los resultados de su propia investigación de la MU en cuestión, no adoptó ninguna medida. No obstante, presta una atención constante a la cuestión del incumplimiento de las señales para la explotación eléctrica por parte de los operadores ferroviarios.
-La Sección de Ingeniería Eléctrica y Energética de la Dirección General de SŽ lleva estadísticas de la tasa de fallos de la catenaria, que incluye, entre otros, el registro de MU causadas por el incumplimiento de las señales para la explotación eléctrica. En el pasado, se advirtió a los operadores ferroviarios mediante cartas independientes sobre la necesidad de cumplir las disposiciones vinculantes del reglamento interno SŽDC D1, relativas a las líneas electrificadas y a las señales para la explotación eléctrica. La última carta enviada antes de la MU en cuestión, relativa a esta cuestión, estaba fechada el 14. 5. 2021 y el operador ferroviario LR también la disponía, publicándola internamente el 18. 5. 2021.
-La cuestión del incumplimiento de las señales para la explotación eléctrica figuraba también en el orden del día de las reuniones periódicas con los operadores ferroviarios organizadas por SŽ.
-El operador ferroviario LR, con base en los resultados de su propia investigación de la MU en cuestión, adoptó las siguientes medidas:
+### 5.2 Medidas adoptadas para la prevención de sucesos extraordinarios
+El operador de la infraestructura SŽ, sobre la base de los resultados de su propia investigación del asunto de la MU, no adoptó ninguna medida. No obstante, presta atención constante a la cuestión del incumplimiento de las señales para la circulación eléctrica por parte de los operadores ferroviarios.
+El Departamento de Ingeniería Eléctrica y Energética de la Dirección General de SŽ lleva una estadística de averías de los vehículos eléctricos, cuya parte incluye, entre otros, el registro de MU causadas por el incumplimiento de las señales para la circulación eléctrica. En el pasado, se advirtió a los operadores ferroviarios mediante cartas independientes sobre la necesidad de cumplir las disposiciones vinculantes de la normativa interna SŽDC D1, relativas a las líneas electrificadas y a las señales para la circulación eléctrica. La última carta anterior a la aparición del asunto de la MU, relativa a esta cuestión, estaba fechada el 14. 5. 2021 y el operador ferroviario LR también la disponía, publicándola internamente el 18. 5. 2021.
+La cuestión del incumplimiento de las señales para la circulación eléctrica figuraba también en el programa de reuniones periódicas con los operadores ferroviarios organizadas por SŽ.
+El operador ferroviario LR, sobre la base de los resultados de su propia investigación del asunto de la MU, adoptó las siguientes medidas:
 en relación con el maquinista del tren Lv 53484:
 •
-◦realizar una formación interna sobre el reglamento interno SŽDC D1,
-◦reclamar la indemnización por los daños causados,
-◦realizar la llamada «circulación de control» en presencia de un instructor de maquinistas;
-en relación con la MU en cuestión, realizar una actividad de control reforzada sobre
+◦realizar una formación interna sobre la normativa interna SŽDC D1,
+◦aplicación de una indemnización por los daños causados,
+◦realización de la denominada «circulación de control» en presencia de un instructor de maquinistas;
+en relación con el asunto de la MU, realizar una actividad de control reforzada hacia
 •
 los empleados;
 
-
 ## Página 46
+
 
 poner de manifiesto de forma demostrable a todos los empleados operativos de la
 •
@@ -1302,61 +1308,63 @@ parámetro de la variable complementaria – el estado (posición) del colector
 correspondiente al colector levantado, independientemente de su estado (posición)
 real.
 
-
 ## Página 47
 
-### Additional observations
-At the infrastructure manager SŽ:
-the train driver of the locomotive train No. 53484 was not formally informed by
+### Observaciones adicionales
+En el gestor de infraestructura SŽ:
+el maquinista de la locomotora del tren n.º 53484 no fue informado formalmente de
 •
-a verifiable manner (by a written order) about the exclusion of the electric traction
-equipment at Třinec station;
-the entire plate of the signal device with the signal "raise the current collector" was
+manera verificable (mediante una orden escrita) sobre la exclusión del equipo de
+tracción eléctrica en la estación de Třinec;
+la placa completa del dispositivo de señalización con la señal "levantar el colector
 •
-not made of light-reflecting material; 
-some signal devices placed in Třinec station were not placed directly on the contact
+de corriente" no estaba fabricada de material reflectante;
+algunos dispositivos de señalización situados en la estación de Třinec no estaban
 •
-wire or on a stand.
-At the railway undertaking LR:
-the train driver of the locomotive train No. 53484 did not point out any discrepancies
+colocados directamente sobre el hilo de contacto ni sobre un soporte.
+En la empresa ferroviaria LR:
+el maquinista de la locomotora del tren n.º 53484 no señaló ninguna discrepancia
 •
-in the written order;
-the train driver of the locomotive train No. 53484 communicated with the control
+en la orden escrita;
+el maquinista de la locomotora del tren n.º 53484 se comunicó con el despachador
 •
-dispatcher of 1H CDP Přerov in the Slovak language;
-the recording device of the locomotive No. 383.211-0 permanently recorded the
+de control de 1H CDP Přerov en lengua eslovaca;
+el dispositivo de registro de la locomotora n.º 383.211-0 registraba permanentemente
 •
-parameter of the additional quantity – the state (position) of the current collector
-corresponding to the raised current collector, regardless of its actual state
-(position).
+el parámetro de la cantidad adicional – el estado (posición) del colector de corriente
+correspondiente al colector de corriente levantado, independientemente de su estado
+(posición) real.
 ### 6 RECOMENDACIONES DE SEGURIDAD
-La Inspección Ferroviaria, con base en lo dispuesto en el § 53e apart. 1 de la Ley núm. 266/1994 Sb., recomienda, en aras de la prevención de sucesos excepcionales:
+La Inspección Ferroviaria, en virtud de lo dispuesto en el § 53e apartado 1 de la Ley n.º 266/1994 Sb., recomienda, con miras a la prevención de sucesos extraordinarios:
 A la Autoridad Ferroviaria:
-que, en el marco de su actividad, garantice mediante herramientas adecuadas la minimización
+que, en el marco de su actividad, garantice mediante herramientas adecuadas la
 •
-de los casos en los que, por parte de los gestores de las vías ferroviarias, categoría
-nacional y regional, se ordene el recogido de los colectores de las locomotoras mediante
-señales portátiles para la explotación eléctrica, especialmente en las obras (reconstrucciones,
-modernizaciones) realizadas en las vías, donde dicha minimización debería tenerse en
-cuenta ya en el marco de la preparación de la obra en cuestión y de los procedimientos
-constructivos concretos. Para este fin, utilizar medidas tanto puramente administrativas
-como técnicas – p. ej. mediante la inserción (inserción temporal) de separadores de
-sección en el conjunto del sistema de catenaria en lugares adecuados de los extremos de
-las vías de circulación, es decir, en el espacio comprendido entre el desvío del enlace de
-vía y el primer desvío de la siguiente bifurcación que no esté conectado al enlace de vía
-(y viceversa);
-que, atendiendo al desarrollo continuo relacionado con la construcción y explotación del
+minimización de los casos en los que, por parte de los gestores de vías férreas de
+categoría nacional y regional, se ordene el descenso de los colectores de corriente
+de los vehículos ferroviarios mediante señales portátiles para tracción eléctrica,
+especialmente en las obras (reconstrucciones, modernizaciones) ejecutadas en vías
+férreas donde dicha minimización deba tenerse ya en cuenta en el marco de la
+preparación de la obra concreta y de los procedimientos constructivos específicos.
+Para este fin, deberá utilizar medidas tanto puramente administrativas como
+técnicas – por ejemplo, mediante la inserción (inserción temporal) de separadores
+de sección en la configuración de la línea de contacto en lugares adecuados de las
+cabezas de vías de las estaciones, es decir, en el espacio entre el desvío del enlace
+de vías y el primer desvío de la siguiente bifurcación que no esté conectada al
+enlace de vías (y viceversa);
+que, dada la constante evolución relacionada con la construcción y explotación del
 •
-ETCS en la República Checa, por parte de los correspondientes gestores de las vías
-ferroviarias se verifiquen y apliquen en el futuro las posibilidades disponibles de este
-sistema en relación con la prevención de sucesos excepcionales relacionados con el
-incumplimiento de las señales para la explotación eléctrica, es decir, principalmente las
-posibilidades de transmisión de información sobre las señales para la explotación
-eléctrica, incluidas las portátiles, desde la parte fija a la parte móvil del ETCS y su
-posterior procesamiento y uso (por ejemplo, avisos mediante mensajes de texto en la
-unidad de visualización y control de la parte móvil del ETCS y medidas similares).
+ETCS en la República Checa, por parte de los gestores de vías férreas competentes
+se verifiquen y apliquen en el futuro las posibilidades disponibles de dicho sistema
+en relación con la prevención de la aparición de sucesos extraordinarios
+relacionados con el incumplimiento de las señales para tracción eléctrica, es decir,
+fundamentalmente las posibilidades de transmisión de información sobre las señales
+para tracción eléctrica, incluidas las portátiles, desde la vía a la parte móvil del
+ETCS y su posterior procesamiento y utilización (por ejemplo, avisos mediante
+mensajes de texto en la unidad de visualización y mando de la parte móvil del ETCS
+y medidas similares).
 
 ## Página 48
+
 
 Al Ministerio de Transporte en colaboración con la Autoridad Ferroviaria:
 • para que el decreto núm. 173/1995 Sb., por el que se dicta el reglamento de circulación ferroviaria, en su
@@ -1407,18 +1415,17 @@ director
 Inspectorado Territorial de Ostrava
 Inspectorado Territorial de Ostrava
 
-
 ## Página 49
 
 ### ANEXOS
-Fig. núm. 9: Vista del colector de toma de corriente dañado del material rodante del tren Lv 53484 tras el MU.
+Fig. n.º 9: Vista del pantógrafo dañado del material rodante del tren Lv 53484 tras el MU.
        Fuente: SŽ
-el llamado «hákovnice»
-Fig. núm. 10: Vista del conjunto de TV dañado y el llamado «hákovnice» tras la aparición del MU.
+llamado «hákovnice»
+Fig. n.º 10: Vista de la composición de TV dañada y del llamado «hákovnice» tras la aparición del MU.
        Fuente: LR
 
-
 ## Página 50
+
 
 el llamado «hákovnice»
 Fig. núm. 11: Vista del conjunto de TV reparado y el llamado «hákovnice» tras la aparición del MU.      

@@ -10,13 +10,14 @@ chars: 73818
 ratio_longitud: 1.22
 tokens_in: 42548
 tokens_out: 30866
-verificacion: revisar
-notas_cifras: ["bloque 1: original bilingüe: se compara contra el idioma principal (EN)", "bloque 3: original bilingüe: se compara contra el idioma principal (CS)", "bloque 5: original bilingüe: se compara contra el idioma principal (CS)"]
-avisos: ["bloque 5: ratio 1.74"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 6: original bilingüe: se compara contra el idioma principal (EN)", "página 7: original bilingüe: se compara contra el idioma principal (PT)", "página 8: original bilingüe: se compara contra el idioma principal (CS)", "página 15: original bilingüe: se compara contra el idioma principal (CS)", "página 16: original bilingüe: se compara contra el idioma principal (PT)"]
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -44,13 +45,13 @@ IČ:   75009561
 http://www.dicr.cz
 tel.: 224 805 444
 
-
 ## Página 2
+
 
 Este informe final es público y todos los hechos en él expuestos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ### 1 RESUMEN
 Fuente: Drážní inspekce
@@ -79,8 +80,8 @@ Factores contribuyentes:
 no fueron detectados por la Drážní inspekce.
 •
 
-
 ## Página 4
+
 
 Causas fundamentales:
 incumplimiento de la obligación de notificación por parte del maquinista del tren Os 15966
@@ -93,8 +94,8 @@ Recomendaciones de seguridad:
 no fueron emitidas por la Drážní inspekce.
 •
 
-
 ## Página 5
+
 
 ### SUMMARY
 Grade:
@@ -131,8 +132,8 @@ Root cause:
 none.
 Recommendations: not issued.
 
-
 ## Página 6
+
 
 ## Índice
 1 Resumen ........................................................................................................................3
@@ -175,8 +176,8 @@ contractual ....................................................................
 3.1.2 Otras personas .........................................................................................................18
 3.2 Sistema de garantía de la seguridad ...............................................................................18
 
-
 ## Página 7
+
 
 3.2.1 Organización general y forma en que se emiten y ejecutan las instrucciones .......18
 3.2.2 Requisitos para los empleados del gestor de la vía y del transportista y su 
@@ -217,8 +218,8 @@ manejo y uso ...................................................................
 sobre la causa del suceso extraordinario y la actividad de los servicios de rescate ..........................................27
 4.3 Conclusiones .......................................................................................................................30
 
-
 ## Página 8
+
 
 4.3.1 Causas inmediatas del suceso extraordinario, incluidos los factores que contribuyeron al 
 mismo y que estuvieron relacionados con la actuación de las personas intervinientes o con el estado 
@@ -238,6 +239,7 @@ extraordinario .................................................................
 7 Anexos .............................................................................................................................32
 
 ## Página 9
+
 
 ### Lista de siglas y símbolos utilizados
 COP
@@ -304,8 +306,8 @@ investigación propia
 ŽSSK
 Železničná spoločnosť Slovensko, a. s.
 
-
 ## Página 10
+
 
 ### Lista de siglas de las disposiciones legales, normas y normativas internas
 utilizadas
@@ -358,8 +360,8 @@ para la notificación e investigación de sucesos excepcionales, aprobado
 por decisión del director general de la SŽDC el 27. 6. 2008,
 ref.: 22957/08-OKS, en vigor desde el 1. 7. 2008
 
-
 ## Página 11
+
 
 ### 2 DATOS RELATIVOS AL SUCESO EXCEPCIONAL
 ## 2.1
@@ -384,8 +386,8 @@ al despachador director desde la estación Lípa y se detuvo en el intervalo de 
 Lípa y Herálec, a una distancia de 105 m del final del tren Mn 82552, que
 se encontraba allí atascado debido a una avería del HDV.
 
-
 ## Página 12
+
 
 Fig. n.º 2: Esquema del lugar de detención de los trenes
                Fuente: mapy.cz
@@ -410,8 +412,8 @@ Consentimiento de la DI para la liberación de la vía:
 La notificación del SE por parte del explotador ferroviario y los transportistas se realizó de conformidad con lo dispuesto en el
 § 49 apartado 3 letra a) de la ley núm. 266/1994 Sb. y el § 8 del decreto núm. 376/2006 Sb.
 
-
 ## Página 13
+
 
 Decisión de la DI sobre el inicio de la IP:
 4. 2. 2014, y ello sobre la base de los hallazgos obtenidos
@@ -451,8 +453,8 @@ jefe de maniobras, empleado de ČDC, PJ Brno, PP Havlíčkův Brod;
 operario de maniobras, empleado de ČDC, PJ Brno, PP Havlíčkův Brod.
 •
 
-
 ## Página 14
+
 
 2.2.2 Trenes y su composición, incluidos los números de registro de cada material rodante
 | Tren: | Os15966 |  | Composición del tren: | Propietario: |
@@ -494,8 +496,8 @@ En el puesto del maquinista se encontraba una persona en preparación. El maquin
 82552 fue informado de forma fehaciente de la orden PvD3 para el tren 82552,
 n.º 347177, de fecha 4. 2. 2014, en la estación Lípa.
 
-
 ## Página 15
+
 
 No se redactaron órdenes para la retirada del tren por partes desde el intervalo de vía y se
 iniciaron maniobras sin el permiso del despachador director. El estado real del tren constatado después de la
@@ -539,43 +541,43 @@ ferroviario ni de otras personas, ningún tipo de trabajos de reparación o mant
 
 ## Página 16
 
-15:34 h decisión del gestor de la vía de tramitar el suceso como MU;
+15:34 h decisión del explotador de tramitar el suceso como MU;
 •
 15:38 h MU comunicada al COP DI;
 •
-17:55 h inspección del lugar de origen de la MU por parte de empleados de DI y OSB y
+17:55 h inspección del lugar de origen del MU por parte de personal de DI y OSB y
+concesión de la autorización
 •
-concesión del permiso para liberar la vía;
-18:00 h reanudación de la circulación en la línea afectada.
+para liberar la vía;
+18:00 h restablecimiento de la circulación en la línea afectada.
 •
-En el lugar de la MU estaban presentes también los directivos de las distintas
-estructuras organizativas del gestor de la vía y del transportista. Con la presencia de VI
-DI se realizó una inspección comisionada del lugar de la MU, incluida la elaboración de
-acta.
-### 2.2.7 Activación del plan del sistema integrado de emergencia, policía y servicio
-### sanitario de emergencia y secuencia de acontecimientos
-La MU fue comunicada por el maquinista del tren Os 15966 al despachador director.
+En el lugar del MU estaban presentes también los responsables de las distintas
+divisiones organizativas del explotador de la vía y del transportista. Con la
+participación de VI DI se realizó una inspección comisionada del lugar del MU, incluida
+la elaboración de un acta.
+### 2.2.7 Activación del plan del sistema integrado de emergencia, de la policía y del
+servicio médico de emergencia y secuencia de los acontecimientos
+El MU fue comunicado por el maquinista del tren Os 15966 al despachador director.
 El plan IZS no fue activado.
 ## 2.3
 ### Fallecimientos, lesiones y daños materiales
-2.3.1 En cuanto a pasajeros y terceros, empleados del gestor de la vía y del
+2.3.1 En pasajeros y terceras personas, empleados del explotador de la vía y del
 transportista, incluidas personas en relación contractual
-En la MU no se produjeron lesiones personales entre los empleados del gestor de la vía,
-del transportista, personas en relación contractual, ni tampoco entre pasajeros y
-terceros.
-### 2.3.2 En cuanto a mercancías transportadas, equipaje y otros bienes
-No se produjeron daños en mercancías transportadas, equipaje ni otros bienes.
-### 2.3.3 En cuanto a vehículos ferroviarios, componentes de la vía de circulación y
-### medio ambiente
-No se produjeron daños en vehículos ferroviarios, componentes de la vía de circulación
-ni en otros bienes.
+En el MU no se produjeron lesiones personales entre los empleados del explotador de
+la vía, del transportista, personas en relación contractual, ni tampoco entre pasajeros
+y terceras personas.
+### 2.3.2 En los objetos transportados, equipajes y otros bienes
+No se produjeron daños en los objetos transportados, equipajes y otros bienes.
+### 2.3.3 En el material rodante, en los componentes de la vía y en el medio ambiente
+No se produjeron daños en el material rodante, en los componentes de la vía ni en
+otros bienes.
 ## 2.4
 ### Circunstancias externas
 ### 2.4.1 Condiciones meteorológicas y datos geográficos
 Condiciones meteorológicas: parcialmente nublado, - 4 °C, visibilidad no reducida.
 
-
 ## Página 17
+
 
 ### 3 REGISTRO DE EXPLICACIONES PRESENTADAS
 ## 3.1
@@ -642,107 +644,77 @@ debido a una avería en el HDV, detuvo el tren en el tramo entre las estaciones 
 •
 y Herálec;
 
-
 ## Página 18
 
-para la segunda parte del tren partió solo el maquinista, el maquinista en preparación
+para la segunda parte del tren, el maquinista partió solo; el maquinista en preparación
 •
-custodiaba la primera parte estacionada en la 3. SK.
-Jefe de maniobras – Del acta con el empleado se desprende, entre otros aspectos:
-el maquinista del tren Mn 82552 le comunicó que la retirada del tren a la estación de
+custodiaba la primera parte estacionada en la 3.ª SK.
+Jefe de maniobras – del Registro con el empleado se desprende, entre otras cosas:
+el maquinista del tren Mn 82552 le comunicó que la maniobra del tren a la estación
 •
-Herálec se haría en dos partes, y ordenó dividir el tren en dos grupos de 8 y 5 DV y
-custodiar la segunda parte del tren estacionada;
-la custodia de los 5 DV en la línea la realizó el maniobrador;
+de Herálec se realizaría en dos partes, y ordenó dividir el tren en dos grupos de 8 y 5
+DV y asegurar la parte (segunda) estacionada del tren;
+la custodia de los 5 DV en la vía la realizaba el maniobrador;
 •
-custodió la composición estacionada de 8 DV en la estación de Herálec y realizó las
+aseguró la composición estacionada de 8 DV en la estación de Herálec y realizó las
 •
-operaciones relacionadas con la maniobra en el extremo de Humpolec – cambio del
-HDV a la 1. SK y, a continuación, cambio de la composición del HDV y 5 DV a la 3.
-SK.
-Despachador director – Del acta con el empleado se desprende, entre otros aspectos:
+operaciones relacionadas con la maniobra en la cabecera de Humpolec – el cambio
+del HDV a la 1.ª SK y, a continuación, el cambio de la composición HDV y 5 DV a la
+3.ª SK.
+Despachador director – del Registro con el empleado se desprende, entre otras cosas:
 ordenó y acordó con los maquinistas de los trenes Os 15966 (ordenó la redacción del
 •
-PvD3 al jefe de estación de Havlíčkův Brod) y Mn 82552 (PvD3 redactado en la
-estación de Lípa) el adelantamiento del tren Mn 82552 por el tren Os 15966 en la
-estación de Herálec;
-no sabía de la necesidad de retirar el tren Mn 82552 por partes a la estación de
+PvD3 al jefe de estación de Havlíčkův Brod) y Mn 82552 (PvD3 redactado en la estación
+de Lípa) el adelantamiento del tren Mn 82552 por el tren Os 15966 en la estación
+de Herálec;
+no tenía conocimiento de la necesidad de maniobrar el tren Mn 82552 por partes
 •
-Herálec, ni la acordó con el maquinista;
-tras la comunicación del maquinista del tren Os 15966, comunicó la aparición de la
+hacia la estación de Herálec, ni la acordó con el maquinista;
+tras la notificación del maquinista del tren Os 15966, notificó la aparición de la MU
 •
-MU al jefe de turno (jefe de despacho).
+al jefe de turno (despachador jefe).
 ### 3.1.2 Otras personas
-Otras personas no presentaron explicaciones sobre esta MU.
+Otras personas no aportaron explicaciones sobre esta MU.
 ## 3.2
 ### Sistema de garantía de la seguridad
-### 3.2.1 Organización marco y forma en que se dictan y ejecutan las instrucciones
+### 3.2.1 Organización marco y forma en que se emiten y ejecutan las instrucciones
 El gestor de la vía y los transportistas cuentan con un sistema de garantía de la
-seguridad adoptado en virtud de lo dispuesto en la ley núm. 266/1994 Sb.
+seguridad adoptado en virtud de lo dispuesto en la Ley núm. 266/1994 Sb.
 En el sistema de garantía de la seguridad adoptado por el gestor de la vía SŽDC,
-relativo a las circunstancias de la aparición de la MU en cuestión, no se detectó
-ninguna deficiencia.
+relacionado con las circunstancias de la aparición de la MU en cuestión, no se
+detectó ninguna deficiencia.
 En el sistema de garantía de la seguridad adoptado por los transportistas ČD y ČDC,
-relativo a las circunstancias de la aparición de la MU en cuestión, no se detectaron
-deficiencias. En el cumplimiento del sistema de garantía de la seguridad adoptado por
-los transportistas ČD y ČDC, relativo a las circunstancias de la aparición de la MU en
-cuestión, se detectaron deficiencias.
+relacionado con las circunstancias de la aparición de la MU en cuestión, no se
+detectaron deficiencias. En el cumplimiento del sistema de garantía de la seguridad
+adoptado por los transportistas ČD y ČDC relacionado con las circunstancias de la
+aparición de la MU en cuestión, se detectaron deficiencias.
 Hallazgos:
 el maquinista del tren Os 15966 partió de la estación de Lípa sin cumplir la
 •
 obligación de notificación ordenada por el despachador director;
 el maquinista del tren Mn 82552, debido a la avería del HDV y a las condiciones de
 •
-pendiente, retiraba el tren a la estación de Herálec por partes. No se comunicó al
-despachador director
-
+pendiente, maniobraba el tren hacia la estación de Herálec por partes. No se notificó
+al despachador director
 
 ## Página 19
 
-la llegada de la primera parte del tren Mn 82552 a la estación de Herálec, tampoco se
-solicitó autorización para la maniobra y no se redactaron órdenes de marcha PMD
-desde la línea y de vuelta a la línea para la segunda parte del tren Mn 82552 y de
-vuelta a la estación de Herálec.
-### 3.2.2 Requisitos para los empleados del gestor de la vía y del transportista y su
-### aplicación
-Los requisitos para los empleados del gestor de la vía y de los transportistas,
-especialmente los relativos a su idoneidad técnica y sanitaria, están establecidos por la
-ley núm. 266/1994 Sb., el decreto núm. 173/1995 Sb., el decreto núm. 101/1995 Sb., el
-decreto núm. 16/2012 Sb. y las normas internas del gestor de la vía y de los
-transportistas.
-En el momento de la aparición de la MU en cuestión, todas las personas del gestor de
-la vía SŽDC participantes en la MU que desempeñaban actividades en la explotación de
-la vía y del transporte ferroviario eran técnicamente idóneas para el desempeño de la
-función que ocupaban.
-En el momento de la aparición de la MU en cuestión, todas las personas del transportista
-ČD participantes en la MU que desempeñaban actividades en la explotación del
-transporte ferroviario y de la vía eran técnicamente idóneas para el desempeño de la
-función que ocupaban.
-En el momento de la aparición de la MU en cuestión, todas las personas del transportista
-ČDC participantes en la MU que desempeñaban actividades en la explotación del
-transporte ferroviario y de la vía eran técnicamente idóneas para el desempeño de la
-función que ocupaban.
-### 3.2.3 Procedimiento de control interno de la seguridad y sus resultados
-En el procedimiento de control interno de la seguridad del gestor de la vía y de los
-transportistas no se detectaron deficiencias.
-### 3.2.4 Interfaz entre los distintos sujetos implicados y los componentes de la vía de
-### circulación
-El propietario de la vía ferroviaria, categoría regional, Havlíčkův Brod – Humpolec, es
-la República Checa. La función de propietario la desempeña la Správa železniční
-dopravní cesty, organización estatal, con domicilio en Dlážděná 1003/7, Praha 1, PSČ
-110 00.
-El gestor de la vía ferroviaria, categoría regional, Havlíčkův Brod – Humpolec, es
-SŽDC, s. o., con domicilio en Dlážděná 1003/7, Praha 1, PSČ 110 00, en virtud de la
-Autorización Administrativa emitida por el DÚ el 29. 5. 2008, n. ref.: 3-4277/07-DÚ/Le,
-n. ev.: ÚP/2008/9002.
-El transportista del tren Os 15966 fue ČD, a. s., con domicilio en Nábřeží L. Svobody
-1222, Praha 1, PSČ 110 15, en virtud de la Licencia de transportista concedida por
-resolución del DÚ el 29. 5. 2008, n. ref.: 3-2169/03-DÚ/Bp, n. ev.: L/2003/9000.
-El transporte ferroviario se explotaba en virtud del contrato «SMLOUVA číslo 001/09
-o provozování drážní dopravy na železniční dopravní cestě celostátní dráhy a regionálních
-
+llegada de la primera parte del tren Mn 82552 a la estación de Herálec, a continuación no se solicitó permiso para las maniobras y no se redactaron órdenes de circulación PMD desde la vía y de vuelta a la vía para la segunda parte del tren Mn 82552 y de vuelta a la estación de Herálec.
+### 3.2.2 Requisitos para los empleados del gestor de la infraestructura y del transportista y su cumplimiento
+Los requisitos para los empleados del gestor de la infraestructura y de los transportistas, en particular los requisitos de idoneidad profesional y sanitaria, están establecidos por la Ley n.º 266/1994 Sb., por el decreto n.º 173/1995 Sb., por el decreto n.º 101/1995 Sb., por el decreto n.º 16/2012 Sb. y por las normas internas del gestor de la infraestructura y de los transportistas.
+En el momento de la producción de la MUA objeto de estudio, todas las personas del gestor de la infraestructura SŽDC participantes en la MUA que realizaban actividades en la explotación de la infraestructura y del transporte ferroviario eran profesionalmente idóneas para el desempeño de la función que ocupaban.
+En el momento de la producción de la MUA objeto de estudio, todas las personas del transportista ČD participantes en la MUA que realizaban actividades en la explotación del transporte ferroviario y de la infraestructura eran profesionalmente idóneas para el desempeño de la función que ocupaban.
+En el momento de la producción de la MUA objeto de estudio, todas las personas del transportista ČDC participantes en la MUA que realizaban actividades en la explotación del transporte ferroviario y de la infraestructura eran profesionalmente idóneas para el desempeño de la función que ocupaban.
+### 3.2.3 Procedimiento de control interno de seguridad y sus resultados
+En el procedimiento de control interno de seguridad del gestor de la infraestructura y de los transportistas no se detectaron deficiencias.
+### 3.2.4 Interfaz entre los distintos sujetos participantes y los componentes de la vía
+El propietario de la vía ferroviaria, categoría regional, Havlíčkův Brod – Humpolec, es la República Checa. La función de propietario la desempeña la Administración de la Infraestructura de Transporte Ferroviario, organización estatal, con domicilio en Dlážděná 1003/7, Praha 1, CP 110 00.
+El gestor de la infraestructura ferroviaria, categoría regional, Havlíčkův Brod – Humpolec, es SŽDC, s. o., con domicilio en Dlážděná 1003/7, Praha 1, CP 110 00, en virtud de la Autorización Oficial expedida por el DÚ el 29. 5. 2008, n.º de expediente: 3-4277/07-DÚ/Le, n.º de registro: ÚP/2008/9002.
+El transportista del tren Os 15966 fue ČD, a. s., con domicilio en Nábřeží L. Svobody 1222, Praha 1, CP 110 15, en virtud de la Licencia de transportista concedida por resolución del DÚ el 29. 5. 2008, n.º de expediente: 3-2169/03-DÚ/Bp, n.º de registro: L/2003/9000.
+El transporte ferroviario se explotó en virtud del contrato «CONTRATO n.º 001/09 sobre la explotación del transporte ferroviario en la vía de transporte ferroviaria de la red ferroviaria de ámbito nacional y de las regionales
 
 ## Página 20
+
 
 drah ve vlastnictví České republiky», celebrado entre el gestor de la vía y el
 transportista el 30. 6. 2009, con efectos desde el 1. 7. 2009, en su versión vigente.
@@ -793,6 +765,7 @@ circulación del tren.»;
 
 ## Página 21
 
+
 § 15 apartado (8) del decreto nº 173/1995 Sb.:
 •
 «Las actividades relativas a la aseguración de la entrada, salida y paso de los trenes y el método de aseguración de la circulación de los trenes se rigen por los procedimientos tecnológicos establecidos por el gestor de la infraestructura ferroviaria.»;
@@ -820,8 +793,8 @@ art. 263, norma interna del gestor SŽDC, norma SŽDC D3:
 •
 «El despachador director dará la autorización para circular siempre hasta el siguiente punto de cruce, en el que se haya impuesto al maquinista del tren correspondiente la obligación de comunicar (o bien hasta el lugar
 
-
 ## Página 22
+
 
 con bifurcación de vías, en el que el PND3 permita la liberación de la vía de línea). El maquinista no podrá salir del punto de cruce D3 antes de recibir la autorización del despachador director.»;
 art. 474, norma interna del gestor SŽDC, norma SŽDC D3:
@@ -846,8 +819,8 @@ art. 540, norma interna del gestor SŽDC, norma SŽDC D3:
 •
 «El maquinista deberá comunicar al despachador director la finalización de la PMD en el punto de cruce D3. El maquinista solo podrá comunicar la finalización de la PMD cuando se haya asegurado de que el tramo de maniobra ha entrado íntegramente en el punto de cruce D3 y ha liberado los topes.».
 
-
 ## Página 23
+
 
 ## 3.4
 ### Funcionamiento de los vehículos ferroviarios y de las instalaciones técnicas
@@ -871,8 +844,8 @@ De los datos registrados se desprende:
 •
 188 m.
 
-
 ## Página 24
+
 
 El HDV 742.209-0 disponía de un Certificado de aptitud de vehículo ferroviario válido, n.º de ref.: PZ 8926/03 – V.20, expedido por el DÚ el 16. 7. 2003. La última revisión técnica periódica antes de la producción del MU se realizó el 24. 1. 2014 con el resultado de sin defectos. El HDV fue utilizado por el transportista ČD en un estado técnico correspondiente a la aptitud aprobada.
 El HDV 742.426-0 disponía de un Certificado de aptitud de vehículo ferroviario válido, n.º de ref.: PZ 3031/04 – V.20, expedido por el DÚ el 24. 5. 2004. La última revisión técnica periódica antes de la producción del MU se realizó el 31. 10. 2013 con el resultado de sin defectos. El HDV fue utilizado por el transportista ČD en un estado técnico correspondiente a la aptitud aprobada.
@@ -897,8 +870,8 @@ En relación con el MU no se produjo ninguna comunicación verbal que influyera 
 El lugar del MU no fue asegurado por la persona competente designada del gestor de la infraestructura ferroviaria y de los transportistas de conformidad con el decreto nº 376/2006 Sb.
 La persona competente designada del gestor de la infraestructura ferroviaria no impidió en el lugar del MU el movimiento de todos los vehículos ferroviarios (DV) implicados.
 
-
 ## Página 25
+
 
 Se constató una deficiencia.
 Hallazgos:
@@ -936,109 +909,74 @@ maquinista en preparación del tren Mn 82552 en el turno del día 4. 2. 2014 des
 
 ## Página 26
 
-jefe de maniobras en el turno del 4. 2. 2014 desde las 6:12 h, descanso previo al turno de más
+jefe de maniobras en el turno del día 4. 2. 2014 desde las 6:12 h, descanso previo al turno más
 •
 de 24:00 h;
-despachador director en el turno del 4. 2. 2014 desde las 3:33 h, descanso previo al turno
+despachador director en el turno del día 4. 2. 2014 desde las 3:33 h, descanso previo al turno
 •
-de 24:00 h.
+24:00 h.
 Los empleadores garantizaron las condiciones para el descanso previo al turno y durante el
-turno de conformidad con el § 90 de la ley núm. 262/2006 Sb., respectivamente el § 14
-apartado 2 del decreto gubernamental núm. 589/2006 Sb., por el que se establece la
-regulación excepcional de la jornada laboral y del tiempo de descanso de los empleados en
+turno de conformidad con el § 90 de la Ley núm. 262/2006 Sb., respectivamente el § 14
+apartado 2 del Decreto gubernamental núm. 589/2006 Sb., por el que se establece la
+regulación diferenciada de la jornada laboral y del tiempo de descanso de los empleados en
 el transporte.
 3.6.2 Estado de salud y situación personal que influyeron en el suceso excepcional,
 incluido el estrés físico o psicológico
-Los empleados participantes de la empresa explotadora de la vía y del transportista se
-encontraban, en el momento de la producción del SE, aptos para el desempeño de la función
-que ocupaban. La investigación no constató que la situación personal o el estado psicológico
-de las personas participantes en el SE hubieran influido en la producción del SE.
+Los empleados participantes del gestor de la vía y del transportista estaban, en el momento
+del SE, médicamente aptos para el desempeño de la función que ocupaban. La investigación no
+constató que la situación personal o el estado psicológico de las personas participantes en el
+SE hubieran influido en la aparición del SE.
 3.6.3 Disposición del equipamiento del puesto de mando o del vehículo que influye en su
-manejo y uso
-La disposición y el equipamiento del puesto de trabajo de los empleados de la empresa
-explotadora de la vía y del transportista no guardaban relación con la producción del SE.
+manejo y utilización
+La disposición y el equipamiento del puesto de trabajo de los empleados del gestor de la vía y
+del transportista no guardaban relación con la aparición del SE.
 ## 3.7
 ### Sucesos excepcionales anteriores de carácter similar
-DI registra en el período desde el año 2004 hasta la producción del SE objeto de estudio en
-las vías ferroviarias, categoría regional, los siguientes SE similares:
-del 22 de julio de 2004, entre las estaciones de Bavorov y Strunkovice nad Blanicí
+DI registra en el período desde el año 2004 hasta la aparición del SE objeto de estudio en las
+vías férreas, categoría regional, los siguientes SE similares:
+del 22 de julio de 2004 entre las estaciones de Bavorov y Strunkovice nad Blanicí
 •
-se produjo en plena vía la colisión del tren Os 18008 con el tren Os 18035. La causa de
-la producción del SE fue la salida no autorizada del tren de la estación de Bavorov sin el
+se produjo en plena vía la colisión del tren Os 18008 con el tren Os 18035. La causa de la
+aparición del SE fue la salida no autorizada del tren de la estación de Bavorov sin el
 consentimiento del despachador director;
-del 1. 9. 2007, entre la estación adyacente de Vodňany y la estación de Bavorov, se
+del 1. 9. 2007 entre la estación adyacente de Vodňany y la estación de Bavorov se produjo
 •
-produjo en plena vía la colisión de los trenes Os 18003 y Os 18032. La causa de la
-producción del SE fue la salida no autorizada del tren de la estación de Bavorov sin el
-consentimiento del despachador director;
-del 2. 2. 2008, entre la estación de Číčenice y la estación de Volary, se produjo la colisión
+en plena vía la colisión de los trenes Os 18003 y Os 18032. La causa de la aparición del SE
+fue la salida no autorizada del tren de la estación de Bavorov sin el consentimiento del
+despachador director;
+del 2. 2. 2008 entre la estación de Číčenice y la estación de Volary se produjo la colisión
 •
-del tren Os 18003 con el tren en sentido contrario Mn 88850. La causa de la producción
-del SE fue, entre otros, el incumplimiento de la obligación de aviso del tren Os 18003 en
-la estación de Vodňany;
+del tren Os 18003 con el tren en sentido contrario Mn 88850. La causa de la aparición del SE
+fue, entre otros, el incumplimiento de la obligación de aviso del tren Os 18003 en la
+estación de Vodňany;
 del 11. 2. 2008 se produjo una circulación no asegurada del tren Os 18045 desde la
 •
-estación de Zbytiny. La causa de la producción del SE fue la no ordenación y no
-ejecución de la obligación excepcional de aviso por parte del despachador director y del
-maquinista.
-DI, con base en los resultados de la investigación del SE del 1. 9. 2007 entre la estación
-de Vodňany y la estación de Bavorov, recomendó a la empresa explotadora de la vía y del
-transporte ferroviario modificar los procedimientos tecnológicos (mediante el endurecimiento
-de las condiciones) en la línea Číčenice – Volary, respectivamente instalar
-
+estación de Zbytiny. La causa de la aparición del SE fue la no ordenación y no ejecución de
+la obligación excepcional de aviso por parte del despachador director y del maquinista.
+DI, con base en los resultados de la investigación del SE del 1. 9. 2007 entre la estación de
+Vodňany y la estación de Bavorov
+, recomendó al gestor de la vía y al transporte ferroviario
+modificar los procedimientos tecnológicos (mediante el endurecimiento de las condiciones) en
+la línea Číčenice – Volary, respectivamente instalar
 
 ## Página 27
 
-en las líneas donde se emplea la gestión simplificada del transporte ferroviario, con
-prioridad en la línea Číčenice – Volary, dispositivos técnicos (de seguridad) que eliminen la
-posible falla del factor humano.
-DI solicitó el 29. 5. 2014 a SŽDC información sobre la recomendación de seguridad
-objeto de estudio. SŽDC comunicó que en el tramo Číčenice – Volary se había instalado, en
-el marco de un proyecto piloto, el denominado «sistema Radioblok 0+», en el que desde el
-26. 4. 2011 hasta el 4. 12. 2012 se desarrolló una explotación de pruebas, y desde el
-5. 12. 2012 hasta la actualidad se desarrolla la 1.ª fase de la explotación de verificación.
-En la actualidad se espera el informe de evaluación de seguridad y la emisión del certificado
-de aptitud, a lo que seguirá la 2.ª fase de la explotación de verificación, probablemente en
-el otoño de 2014. La ulterior tramitación depende, entre otros, también del equipamiento de
-DV con los componentes necesarios.
+en las líneas donde se emplea la gestión simplificada del tráfico ferroviario, preferentemente en la línea Číčenice – Volary, medios técnicos (de señalización) que eliminen la posible falla del factor humano.
+El DI el 29. 5. 2014 solicitó a SŽDC información sobre la recomendación de seguridad en cuestión. SŽDC comunicó que en el tramo Číčenice – Volary se había instalado, en el marco de un proyecto piloto, el denominado «sistema Radioblok 0+», sobre el que desde el 26. 4. 2011 hasta el 4. 12. 2012 se desarrolló una explotación de pruebas, y desde el 5. 12. 2012 hasta la actualidad se encuentra en curso la 1.ª fase de la explotación de verificación. Actualmente se espera el informe de evaluación de seguridad y la emisión del certificado de aptitud, a lo que seguirá la 2.ª fase de la explotación de verificación, probablemente en otoño de 2014. El ulterior procedimiento depende, entre otros factores, también del equipamiento de DV con los componentes necesarios.
 ### 4 ANÁLISIS Y CONCLUSIONES
 ## 4.1
 ### Descripción final del suceso excepcional
-### 4.1.1 Descripción final del suceso excepcional con base en los hechos constatados
+### 4.1.1 Descripción final del suceso excepcional basada en los hechos constatados
 en el punto 3
-El 4. 2. 2014 el tren Mn 82552 partió a las 13:57 h de Havlíčkův Brod hacia Humpolec.
-Debido a su circulación lenta, el despachador director decidió, en el aviso de llegada en la
-estación de Lípa a las 14:21 h, adelantarlo con el tren Os 15966, que salía a las 14:27 h de
-Havlíčkův Brod, en la estación de Herálec. La orden PvD3 de adelantar al tren Mn 82552 en
-la estación de Herálec para el tren Os 15966 la transmitió de forma indirecta el jefe de
-estación de Havlíčkův Brod al maquinista del tren Os 15966 con la obligación de aviso
-ordenada en las estaciones de Lípa y Herálec. En el momento en que el tren Os 15966 llegó
-a la estación de Lípa, el maquinista del tren Mn 82552 comunicó al despachador director la
-inactividad de la HDV, respectivamente la parada del tren en el sector de vía entre las
-estaciones de Lípa y Herálec. A pesar de la obligación de aviso ordenada en la estación de
-Lípa, el maquinista del tren Os 15966 partió sin cumplir esta obligación hacia el sector de
-vía ocupado por el tren Mn 82552 y se detuvo con frenado de servicio a las 14:47 h, en
-cuanto vio ante sí el final del tren Mn 82552.
-Como consecuencia de la producción del SE no se produjo perjuicio para la salud de las
-personas ni daños.
+El 4. 2. 2014 el tren Mn 82552 partió a las 13:57 h de Havlíčkův Brod hacia Humpolec. Debido a su marcha lenta, el despachador director decidió, al registrar la llegada en la estación de tráfico Lípa a las 14:21 h, adelantarlo con el tren Os 15966, que salía a las 14:27 h de Havlíčkův Brod, en la estación de tráfico Herálec. La orden PvD3 de adelantar el tren Mn 82552 en la estación de tráfico Herálec para el tren Os 15966 la transmitió de forma indirecta el jefe de estación de la est. Havlíčkův Brod al maquinista del tren Os 15966, con la obligación de dar aviso en las estaciones de tráfico Lípa y Herálec. En el momento en que el tren Os 15966 llegó a la estación de tráfico Lípa, el maquinista del tren Mn 82552 comunicó al despachador director la inactividad de la HDV, es decir, la parada del tren en el sector espacial comprendido entre las estaciones de tráfico Lípa y Herálec. A pesar de la obligación de dar aviso en la estación de tráfico Lípa, el maquinista del tren Os 15966 partió sin cumplir dicha obligación hacia el sector espacial ocupado por el tren Mn 82552 y se detuvo con frenado de servicio a las 14:47 h, en cuanto vio ante sí el final del tren Mn 82552.
+Como consecuencia de la aparición del MU no se produjo daño a la salud de las personas ni se originó ningún perjuicio.
 ## 4.2
 ### Análisis
-### 4.2.1 Evaluación de los hechos constatados según el punto 3 y exposición de las
-conclusiones sobre la causa del suceso excepcional y la actuación de los servicios de
-rescate
-La línea 325 C Havlíčkův Brod – Humpolec es una línea de vía única, en la que el
-transporte ferroviario se organiza con gestión simplificada según la norma SŽDC D3. La
-estación directora (el lugar desde el que se realiza la dirección, la gestión del transporte
-ferroviario, por el jefe de estación – despachador director) es la estación de Humpolec. La
-estación adyacente es la estación de Havlíčkův Brod, en la que se enlaza la línea 325 C y
-donde el tráfico se organiza según la norma SŽDC D1. Según el PND3, la línea se divide en
-tres sectores de vía y en las estaciones de Lípa y Herálec se permite el cruce o el adelantamiento
-de trenes. El puesto de aviso para la notificación de la producción del SE es la estación de
-Humpolec. El tramo objeto de estudio, donde se produjo el SE, la circulación del tren Os 15966
-hacia
-
+### 4.2.1 Evaluación de los hechos constatados de acuerdo con el punto 3 y exposición de las conclusiones sobre la causa del suceso excepcional y la actuación de los servicios de rescate
+La línea 325 C Havlíčkův Brod – Humpolec es una línea de vía única, en la que el tráfico ferroviario se organiza con gestión simplificada conforme a la norma SŽDC D3. La estación directora (lugar desde el que se realiza la dirección, la gestión del tráfico ferroviario, por el jefe de estación – despachador director) es la est. Humpolec. La estación adyacente es la est. Havlíčkův Brod, en la que enlaza la línea 325 C y donde el tráfico se organiza conforme a la norma SŽDC D1. De acuerdo con el PND3, la línea se divide en tres sectores espaciales y en las estaciones de tráfico Lípa y Herálec se permite el cruce o el adelantamiento de trenes. El puesto de aviso para comunicar la aparición del MU es la est. Humpolec. El tramo en cuestión, donde se produjo el MU, la circulación del tren Os 15966 hacia
 
 ## Página 28
+
 
 el sector de vía sin el consentimiento del despachador director, se encontraba entre las
 estaciones de Lípa y Herálec. La intensidad del transporte ferroviario en la línea objeto de
@@ -1096,75 +1034,82 @@ las puestos de conducción de ambos trenes se encontraban personas
 
 ## Página 29
 
+
 en el relevo, en el tren Os 15966 solo en el relevo POP y en el tren Mn 82552 en el relevo del maquinista. Del examen se constató la parada del tren Os 15966 en el pk 12,730. Ambos maquinistas de los trenes Os 15966 y Mn 82552 fueron instruidos con órdenes PvD3 de conformidad con la instrucción interna del explotador de la vía SŽDC D3 sobre el adelantamiento del tren Mn 82552 por el tren Os 15966 en la estación de Herálec. El maquinista del tren Os 15966, al recibir la orden PvD3 en la estación de Havlíčkův Brod, después de que el jefe de estación le comunicara que iba a adelantar al tren Mn 82552 en la estación de Herálec, creyó erróneamente que el tren Mn 82552 ya estaba en Herálec. Al mismo tiempo, en ese momento se estaba ocupando del maquinista en preparación y también el revisor de tren le pedía que bloqueara los validadores de billetes. Estos hechos, según su declaración, se produjeron en el momento inmediatamente anterior a la salida del tren, por lo que no prestó la debida atención a la orden. Así se llevaron a cabo las maniobras rutinarias en la estación de Lípa y la salida del tren Os 15966 hacia el tramo de vía ocupado por el tren Mn 82552 detenido.
 
 Durante la maniobra desde el tramo de vía y la maniobra posterior para la segunda parte del tren Mn 82552 hacia el tramo de vía, no se solicitó a los maquinistas la redacción de las órdenes PvD3 necesarias para la maniobra desde el tramo de vía y posteriormente de vuelta para la segunda parte del tren. Asimismo, no se acordaron las maniobras en la estación de Herálec con el consentimiento del despachador director, que se realizaron según el análisis del registrador de velocidad en el período de 14:58 h a 15:03 h y de 15:18 h a 15:19 h, es decir, en el período en el que no se estaba produciendo la comunicación entre el despachador director y el maquinista del tren Mn 82552.
 
 Del registro con el despachador director se desprende que recibió la información sobre la detención del tren Mn 82552 en el tramo de vía entre las estaciones de Lípa y Herálec y, al mismo tiempo, la notificación de la creación de una MU por parte del maquinista del tren Os 15966, de su parada detrás del tren, o parte del tren, Mn 82552. El despachador director niega la declaración del maquinista del tren Mn 82552 de que su marcha hacia la estación de Herálec se acordó por partes debido a una avería en la HDV. De los registros de la comunicación entre el despachador director y el despachador jefe a las 14:51 h se desprende la notificación de la creación de una MU en el puesto de notificación – al despachador jefe. Debido a una pérdida breve de señal en la comunicación, se produjo una desinterpretación, no se procedió sin demora a la notificación posterior y el suceso fue comunicado a las 14:54 h al despachador de explotación. En ninguna de las conversaciones el despachador director dijo de forma comprensible que se había producido una circulación no asegurada de un vehículo ferroviario, o del tren Os 15966, es decir, con una formulación verbal de fácil comprensión definida en el artículo 32 de la instrucción interna del explotador de la vía SŽDC Dp17 (provisional). A las 15:10 h, de la conversación entre el despachador director y el despachador de explotación se desprende, entre otras, la información de que la 1.ª parte del tren Mn 82552 ya está retirada en la estación de Herálec; el despachador director ya en la conversación de las 14:54 h con el despachador de explotación menciona que el tren Mn 82552 ya está parcialmente en la estación de Herálec, aunque según el análisis del registrador de velocidad del tren Mn 82552 el inicio de la maniobra en la estación de Herálec está registrado hasta las 14:58 h. El despachador director no reacciona a esta información sobre la realización de maniobras en la vía que dirige, ni siquiera después de la conversación de las 15:10 h con el despachador de explotación, es decir, en el momento en que se había enterado de forma comprobable de que el tren Mn 82552 circulaba por partes, no adoptó ninguna medida organizativa, no dirigió el tráfico ferroviario y ni siquiera tuvo la intención de impedir la circulación del tren. Siendo así, a las 15:03 h estaba en contacto con el maquinista del tren Mn 82552 y la salida de la segunda parte del tren Mn 82552 hacia la estación de Herálec está registrada hasta las 15:13 h; habló con el maquinista del tren Mn 82552 hasta las 15:21 h y la conversación siguiente a la charla con el despachador de explotación a las 15:10 h fue a las 15:13 h con el maquinista del tren Os 15966.
 
-
 ## Página 30
 
 ## 4.3
 ### Conclusiones
-4.3.1 Causas inmediatas del suceso excepcional, incluidos los factores que contribuyeron al mismo y que estuvieron relacionados con la actuación de las personas implicadas o con el estado de los vehículos ferroviarios o de las instalaciones técnicas
-La causa inmediata del suceso excepcional fue:
-la salida del tren Os 15966 de la estación de Lípa sin el consentimiento del despachador director hacia el tramo
+4.3.1 Causas inmediatas del suceso, incluidos los factores que contribuyeron al mismo y que estuvieron relacionados con la actuación de las personas implicadas o con el estado de los vehículos ferroviarios o de las instalaciones técnicas
+La causa inmediata del suceso fue:
 •
-ocupado por el tren Mn 82552.
-Factores contribuyentes al suceso excepcional:
+la salida del tren Os 15966 de la estación Lípa sin autorización del despachador director de tráfico hacia un tramo ocupado por el tren Mn 82552.
+Factores contribuyentes al suceso:
+•
 no fueron detectados por la Inspección Ferroviaria.
-•
 ### 4.3.2 Causas fundamentales relacionadas con la cualificación, los procedimientos y el mantenimiento
-La causa fundamental del suceso excepcional fue:
-el incumplimiento de la obligación de notificación por parte del maquinista del tren Os 15966 en la estación de Lípa.
+La causa fundamental del suceso fue:
 •
+el incumplimiento de la obligación de notificación por parte del maquinista del tren Os 15966 en la estación Lípa.
 ### 4.3.3 Causas derivadas del marco normativo y del uso del sistema de garantía de la seguridad
 No fueron detectadas por la Inspección Ferroviaria.
 ## 4.4
 ### Hallazgos complementarios
-### 4.4.1 Deficiencias y omisiones detectadas durante la investigación de las causas y circunstancias del suceso excepcional, que sin embargo no son significativas para las conclusiones sobre las causas
-En el explotador de la vía SŽDC, a. s.:
-la notificación de la creación de la MU por el despachador director y la recepción de la notificación por el despachador
+### 4.4.1 Deficiencias y omisiones detectadas durante la investigación de las causas y circunstancias del suceso, que sin embargo no son relevantes para las conclusiones sobre las causas
+Por parte del gestor de la infraestructura SŽDC, a. s.:
 •
-jefe, con la consiguiente demora en la notificación a la DI, o la salida del tren Mn 82552 del lugar de su parada sin el consentimiento de la DI – el explotador de la vía no aseguró el lugar del suceso excepcional. Se trata del incumplimiento de lo dispuesto en el § 49 apartado 3) letra b) de la Ley n.º 266/1994 Sb.
-En el transportista ČD Cargo, a. s.:
-en relación con las tablas de condiciones de la línea aplicables a la línea en cuestión, se establece
+la notificación del suceso por parte del despachador director de tráfico y la recepción de la notificación por parte del jefe de despacho, con la consiguiente demora en la notificación a la Inspección Ferroviaria, respectivamente la salida del tren Mn 82552 de su punto de detención sin el consentimiento de la Inspección Ferroviaria – el gestor de la infraestructura no aseguró el lugar del suceso. Se trata del incumplimiento de lo dispuesto en el § 49 apartado 3) letra b) de la Ley n.º 266/1994 Sb.
+Por parte del transportista ČD Cargo, a. s.:
 •
-un normativo de longitud para el tren de transporte de mercancías de 163 m. El tren Mn 82552 tenía una longitud de 165 m. El maquinista del tren Mn 82552 u otro empleado del transportista no consultó la circulación del tren largo con el despachador director. Se trata del incumplimiento de lo dispuesto en el art. 474 de la norma SŽDC D3;
-
+conforme a las tablas de condiciones de la vía aplicables a la vía en cuestión, se establece una normativa de longitud para los trenes de transporte de mercancías de 163 m. El tren Mn 82552 tenía una longitud de 165 m. El maquinista del tren Mn 82552 u otro empleado del transportista no consultó la circulación de un tren largo con el despachador director de tráfico. Se trata del incumplimiento de lo dispuesto en el artículo 474 de la normativa SŽDC D3;
 
 ## Página 31
 
-en la orden PvD3 n.º 347177 redactada por el maquinista del tren Mn 82552 en la estación de
+en la orden PvD3 n.º 347177 redactada por el maquinista del tren Mn 82552 en la estación
 •
-Lípa no se indica el número de tren para el que se emitió la orden. Se trata del incumplimiento de lo dispuesto en el art. 3326 de la norma SŽDC D1;
-para el tren Mn 82552 (PMD) no se emitieron órdenes para el retiro del tren por partes
+Lípa no consta el número de tren para el cual se emitió la orden. Se trata del incumplimiento
+de lo dispuesto en el art. 3326 de la norma SŽDC D1;
+para el tren Mn 82552 (PMD) no se emitieron órdenes para la retirada del tren por partes
 •
-desde el tramo de vía y se inició la maniobra sin el consentimiento del despachador director. Se trata del incumplimiento de lo dispuesto en los arts. 502, 510, 533, 535, 539, 540 de la norma SŽDC D3 en relación con lo dispuesto en el § 35 apartado (1) letra a) de la Ley n.º 266/1994 Sb., § 15 apartado (8) y § 16 apartado (2) del Decreto n.º 173/1995 Sb.
+de la zona espacial y se inició la maniobra sin el permiso del despachador director. Se trata
+del incumplimiento de lo dispuesto en los arts. 502, 510, 533, 535, 539, 540 de la norma
+SŽDC D3 en relación con lo dispuesto en el apartado (1), letra a), del § 35 de la ley
+n.º 266/1994 Sb., y en los apartados (8) del § 15 y (2) del § 16 del decreto n.º 173/1995 Sb.
 ### 5 MEDIDAS ADOPTADAS
 ## 5.1
 ### Lista de medidas que ya se han tomado o adoptado como consecuencia del suceso excepcional
-El transportista ČD
-, a. s.,
-adoptó
-tras la creación de la MU las siguientes medidas:
-Emitió una instrucción informativa sobre el suceso excepcional en cuestión y la incluyó en la formación periódica de los maquinistas. Traslado del maquinista desde el 11. 2. 2014 hasta el 11. 5. 2014 a la categoría de puesto de trabajo de personal operativo-administrativo de la PJ Havlíčkův Brod y la realización de una verificación oral de conocimientos de la norma SŽDC D3 antes de su regreso a la función de maquinista.
-El transportista ČD Cargo, a. s., adoptó tras la creación de la MU las siguientes medidas:
-Resolución sobre la pérdida de la cualificación profesional (examen D-30) del maquinista del tren Mn 82552 hasta la realización de un examen excepcional.
-El explotador de la vía SŽDC, s. o., no adoptó ni emitió ninguna medida.
+El transportista
+ ČD
+ , a. s.,
+ adoptó
+ tras la aparición del SE las siguientes medidas:
+Emitió una instrucción informativa sobre el SE en cuestión y la incluyó en la formación
+periódica de los maquinistas. Traslado del maquinista desde el 11. 2. 2014 hasta el 11. 5. 2014
+a la categoría de personal administrativo-operativo de la PJ Havlíčkův Brod y realización de una
+verificación oral de conocimientos de la norma SŽDC D3 antes de su reincorporación al puesto
+de maquinista.
+El transportista ČD Cargo, a. s., adoptó tras la aparición del SE las siguientes medidas:
+Resolución sobre la pérdida de la cualificación profesional (examen D-30) del maquinista
+del tren Mn 82552 hasta la realización del examen excepcional.
+El gestor ferroviario SŽDC, s. o., no adoptó ni emitió ninguna medida.
 ### 6 RECOMENDACIONES DE SEGURIDAD
-Atendiendo a las causas detectadas y a las circunstancias de la creación del suceso excepcional, la Inspección Ferroviaria no emite recomendaciones de seguridad.
+Atendiendo a las causas y circunstancias de la aparición del suceso excepcional, la
+Inspección Ferroviaria no emite recomendaciones de seguridad.
 En Brno, a 8. 8. 2014
-Bc. Josef Dvořák s. f.
-Bc. Radim Sucháč s. f.
+Bc. Josef Dvořák v. r.
+Bc. Radim Sucháč v. r.
 director
-inspector jefe
+inspector principal
 de la Inspección Territorial de Brno
 de la Inspección Territorial de Brno
-
 
 ## Página 32
+
 
 ### 7 ANEXOS
 Sin anexos.

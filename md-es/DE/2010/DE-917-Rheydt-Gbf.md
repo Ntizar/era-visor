@@ -10,13 +10,15 @@ chars: 39876
 ratio_longitud: 1.10
 tokens_in: 18335
 tokens_out: 11653
-verificacion: revisar
-notas_cifras: ["bloque 2: cifras cortas: 1/48", "bloque 4: cifras largas: 3/28; cifras cortas: 14/77", "bloque 5: cifras cortas: 15/80", "bloque 6: cifras largas: 1/17; cifras cortas: 2/40"]
-avisos: ["bloque 6: marcadores de página: 3 vs 2"]
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: revisar
+avisos: ["página 18: cifras largas: faltan 2/8 (25%)"]
+notas_cifras: ["página 3: original bilingüe: se compara contra el idioma principal (HR)", "página 7: cifras cortas: 1/12", "página 9: original bilingüe: se compara contra el idioma principal (DE)", "página 19: original bilingüe: se compara contra el idioma principal (DE); cifras cortas: 1/12", "página 20: original bilingüe: se compara contra el idioma principal (DE)", "página 21: cifras largas: 1/10; cifras cortas: 5/19"]
 ---
+
 ## Página 1
+
 
 Informe de investigación
 Número de expediente:
@@ -32,16 +34,16 @@ Suceso peligroso en el servicio ferroviario
 | Agujero: | 242 |
 | Kilómetro: | 11,55 , |
 
-
 ## Página 2
+
 
 Publicado por:
 Oficina Federal para la Investigación de Accidentes Ferroviarios
 Heinemannstraße 6
 53175 Bonn
 
-
 ## Página 3
+
 
 ## Índice de contenidos
 ## I. 
@@ -92,10 +94,10 @@ Investigación de la tecnología de dirección y seguridad (LST) ...............
 Investigación de los procedimientos operativos del gestor de infraestructura ................... 8 
 4.6 
 Investigación de los procedimientos operativos del IRU .................................................. 9
-I 
-
+I
 
 ## Página 4
+
 
 | 4.7 | Investigación de los vehículos 9 ............................................................................... |
 | 5 | Evaluación 23 ....................................................................................................... |
@@ -107,10 +109,10 @@ I
 ## Índice de modificaciones: 
 Modificación 
 Fecha 
-II 
-
+II
 
 ## Página 5
+
 
 ## II. 
 ## Índice de figuras: 
@@ -142,6 +144,7 @@ Tabla 4: Grosor de la banda de rodadura en el MKE ..............................
 III
 
 ## Página 6
+
 
 ## IV. 
 ## Índice de abreviaturas: 
@@ -187,10 +190,10 @@ Tf
 Conductor de locomotora 
 VzG 
 Lista de las velocidades máximas localmente permitidas  
-IV 
-
+IV
 
 ## Página 7
+
 
 ## 1 Preámbulo 
 El capítulo Preámbulo trata de información general sobre la Oficina Federal de Investigación de Accidentes Ferroviarios (BEU). En él se presenta la base legal y se esboza brevemente la organización. 
@@ -199,17 +202,17 @@ Con la Directiva 2004/49/CE del Parlamento Europeo y del Consejo, relativa a la 
 La Directiva se transpuso mediante la Quinta Ley de modificación de las disposiciones jurídicas ferroviarias del 16.04.2007 y se creó la Oficina Federal de Investigación de Accidentes Ferroviarios (EUB). 
 Con la Ley de reordenación de la investigación de accidentes ferroviarios del 27.06.2017 se creó, entre otras cosas, la base legal para la creación de la Oficina Federal de Investigación de Accidentes Ferroviarios (BEU). Con ello se modificaron la Ley General de Ferrocarriles (AEG) y la Ley de Administración del Tráfico Ferroviario Federal (BEVVG), transfiriendo competencias y atribuciones a la nueva autoridad, la BEU. Con la creación de la BEU se disolvió la EUB, que constaba de la dirección de la EUB en el Ministerio Federal de Transporte e Infraestructura Digital (BMVI) y del centro de investigación de la EUB en la Oficina Federal de Ferrocarriles (EBA). Mediante la Orden organizativa del Ministerio Federal de Transporte e Infraestructura Digital para la creación de la Oficina Federal de Investigación de Accidentes Ferroviarios del 14.07.2017 se creó la BEU como autoridad federal superior independiente en el ámbito de competencias del BMVI para el cumplimiento de las tareas conforme al § 7 BEVVG. La tarea de investigar determinados sucesos peligrosos en el servicio ferroviario se transfirió sin interrupción de la EUB a la BEU. 
 Dado que el suceso peligroso se produjo antes de la creación de la BEU, determinadas actuaciones de investigación se realizaron aún por la EUB, a las que se hace referencia correspondientemente en el informe. Todos los hallazgos obtenidos durante la investigación se comunicaron continuamente a las empresas ferroviarias afectadas y a la autoridad de seguridad, y se emitieron recomendaciones de seguridad específicas del caso. 
-Más información al respecto está disponible en Internet en www.beu.bund.de. 
-
+Más información al respecto está disponible en Internet en www.beu.bund.de.
 
 ## Página 8
 
+
 ### 1.2 Objetivo de la investigación de accidentes ferroviarios 
 El objetivo y la finalidad de las investigaciones es aclarar las causas de los sucesos peligrosos y extraer de ellas indicaciones para la mejora de la seguridad. Las investigaciones de la BEU no tienen como objetivo determinar la culpabilidad ni aclarar cuestiones de responsabilidad o de otras reclamaciones de derecho civil, y se llevan a cabo de forma independiente de cualquier investigación judicial. 
-La investigación comprende la recopilación y evaluación de información, la elaboración de conclusiones, incluida la determinación de las causas y, en su caso, la emisión de recomendaciones de seguridad. Las propuestas del órgano de investigación para la prevención de accidentes y la mejora de la seguridad en el tráfico ferroviario se comunican a la autoridad de seguridad y, si es necesario, a otros órganos y autoridades o a otros Estados miembros de la UE en forma de recomendaciones de seguridad. 
-
+La investigación comprende la recopilación y evaluación de información, la elaboración de conclusiones, incluida la determinación de las causas y, en su caso, la emisión de recomendaciones de seguridad. Las propuestas del órgano de investigación para la prevención de accidentes y la mejora de la seguridad en el tráfico ferroviario se comunican a la autoridad de seguridad y, si es necesario, a otros órganos y autoridades o a otros Estados miembros de la UE en forma de recomendaciones de seguridad.
 
 ## Página 9
+
 
 ## 2 Resumen 
 El capítulo trata de una breve descripción del desarrollo del suceso, las consecuencias y la causa primaria. Finalmente, se enumeran las recomendaciones de seguridad eventualmente emitidas. 
@@ -220,20 +223,20 @@ No hubo personas heridas ni fallecidas. Se produjeron daños materiales por un i
 ### 2.3 Causas 
 El descarrilamiento se debe a la separación de un neumático de la rueda. 
 ### 2.4 Recomendaciones de seguridad 
-No se emitieron recomendaciones de seguridad. 
-
+No se emitieron recomendaciones de seguridad.
 
 ## Página 10
+
 
 ## 3 Datos generales 
 El capítulo contiene datos generales para la descripción del lugar del suceso y de las instalaciones ferroviarias relevantes. Además, se indican las partes participantes y colaboradoras en la investigación del accidente, las condiciones externas, el número de personas heridas y fallecidas en el suceso, así como el tipo y el importe de las consecuencias dañosas. 
 ### 3.1 Ubicación y descripción del lugar del suceso 
 El lugar del accidente se encontraba en el punto de desvío 242 en la parte de estación Rheydt Gbf, aproximadamente en el pk 11,55. Aquí era visible la primera vía de descarrilamiento, que se extendía hasta Vierse-Heleabru. 
 En la parte de estación Rheydt Gbf se encuentra la vía Vierse-Heleabru – Rheydt Gbf, que según la Lista de las velocidades máximas localmente permitidas (VzG) lleva el número 2522.  
-El operador de infraestructura ferroviaria (EIU) es DB Netz AG. Se trata de una línea principal electrificada de vía única con una distancia de frenado de 700 m. La velocidad máxima permitida es de 90 km/h. El procedimiento de explotación se llevó a cabo conforme a la Directriz DB (Ril) 408 (Trenes y maniobras). La línea está equipada con el sistema de control de trenes puntiforme (PZB) y el sistema de control de trenes. Como sistema de comunicación se utiliza el Sistema Global para las Comunicaciones Móviles Ferroviarias (GSM-R). Las dos imágenes siguientes ofrecen una visión general del lugar del descarrilamiento. 
-
+El operador de infraestructura ferroviaria (EIU) es DB Netz AG. Se trata de una línea principal electrificada de vía única con una distancia de frenado de 700 m. La velocidad máxima permitida es de 90 km/h. El procedimiento de explotación se llevó a cabo conforme a la Directriz DB (Ril) 408 (Trenes y maniobras). La línea está equipada con el sistema de control de trenes puntiforme (PZB) y el sistema de control de trenes. Como sistema de comunicación se utiliza el Sistema Global para las Comunicaciones Móviles Ferroviarias (GSM-R). Las dos imágenes siguientes ofrecen una visión general del lugar del descarrilamiento.
 
 ## Página 11
+
 
 Imagen 1: Plano de situación 1  
 Imagen 2: Plano de situación Vista detallada2 
@@ -241,6 +244,7 @@ Imagen 2: Plano de situación Vista detallada2
 2 Fuente: Plano DB Netz AG IVL, editado por BEU
 
 ## Página 12
+
 
 ### 3.2 Partes implicadas y participantes
 En el incidente participaron las siguientes entidades:
@@ -281,10 +285,12 @@ La siguiente imagen 3 muestra la rueda descarrilada del vagón afectado. En la i
 
 ## Página 13
 
+
 Imagen 3: Eje descarrilado
 Imagen 4: Punto de descarrilamiento
 
 ## Página 14
+
 
 ## 4
 ## Acta de investigación
@@ -315,6 +321,7 @@ La actuación del personal implicado en el incidente en la explotación ferrovia
 
 ## Página 15
 
+
 ### 4.6 Investigación de los procedimientos operativos de la EVU
 
 El tren CFN 47595 se encontraba detenido antes de la señal de entrada (Esig) de la estación de Vierse-Hele cuando el maquinista (Tf) del RE 10220 de la EVU DB Regio AG detectó el vagón descarrilado durante el paso. Mediante la llamada de emergencia inmediata con la activación del freno de emergencia, el Tf evitó la continuación de la marcha del tren CFN 47595.
@@ -330,6 +337,7 @@ El vagón descarrilado, situado en la posición 20 en el convoy del tren, era el
 El informe de investigación se basa en los detalles técnicos del informe de inspección (documento 10-P12415-T.TVI53-PR-1960) y del peritaje sobre la investigación metalúrgica (documento 10-P-12415-TTZ4-986-01) de DB Systemtechnik GmbH. Los extractos del peritaje y del informe de inspección están marcados como citas.
 
 ## Página 16
+
 
 De la siguiente tabla se puede extraer la ficha técnica del vehículo:
 
@@ -355,31 +363,31 @@ El vagón era un vagón plano con bogies de la empresa ferroviaria belga SNCB. E
 
 ## Página 17
 
+
 Imagen 5: Vagón deteriorado con carga
 Imagen 6: Tarjeta de revisión
 
 ## Página 18
 
-La investigación en el lugar del accidente arrojó como resultado que el vagón descarriló claramente debido a una rueda con llanta suelta en el eje de rueda 013916.6. Una parte de un anillo de retención fue encontrada poco después del punto de descarrilamiento en la estación de mercancías de Rheydt. No se pudo determinar cómo se produjo la pérdida de la llanta de la rueda; esto debía establecerse mediante una investigación exhaustiva de las ruedas de ambos ejes de rueda del bogía afectado por parte de DB Systemtechnik GmbH.
+La investigación en el lugar del accidente determinó que el vagón había salido evidentemente de la vía debido a un anillo de rueda suelto en el eje 013916.6. Se encontró una pieza de un fragmento de anillo justo detrás del punto de salida de la vía en el BM Rheydt Gbf. Cómo se produjo el desprendimiento del anillo de rueda debía ser determinado mediante las investigaciones en curso de las ruedas de ambos ejes del bogie afectado por parte de la DB Systemtechnik GmbH. Ni la documentación del historial del vehículo ni la documentación de planos del vagón afectado estaban disponibles para las investigaciones.
 
-No se dispuso de documentación sobre la historia del vehículo ni de documentación gráfica del vagón afectado durante la investigación.
+En el informe de pruebas de la DB Systemtechnik se indica lo siguiente sobre la evaluación externa del eje no desviado del bogie afectado:
 
-En el informe de ensayo de DB Systemtechnik se indica lo siguiente respecto a la evaluación externa del eje de rueda no descarrilado del bogía afectado:
+„En uno de los dos tapones de rodamiento había fijada una placa de identificación en la que se leían los siguientes datos:
 
-«En uno de las dos tapas del cojinete estaba fijada una placa de identificación, en la que se indicaban los siguientes datos:
+Abbildung 7: Placa de identificación en el tapón de rodamiento del eje íntegro
 
-Imagen 7: Placa de identificación en la tapa del cojinete del eje de rueda intacto
+De acuerdo con la posición del tapón de rodamiento con la placa de identificación, la rueda situada en el mismo lado fue designada como Rueda A. Los anillos de rueda de ambas ruedas presentaban las siguientes marcas en forma de estampado en caliente en el lado exterior:
 
-En función de la posición de la tapa del cojinete, la rueda situada en el mismo lado se designó como rueda A. Las llantas de las ruedas presentaban las siguientes marcas en forma de punzonado en el lado exterior de la cara de rodadura:
+Anillo de rueda Rueda A: 4 ??? l BOEL 4 70 BV2 BL 5-70
+Anillo de rueda Rueda B: 42591 BOEL 4 70 BV2 BL 5-70
 
-Llanta de la rueda A: 4 ??? l BOEL 4 70 BV2 BL 5-70
-Llanta de la rueda B: 42591 BOEL 4 70 BV2 BL 5-70
+Los signos de interrogación corresponden a letras o cifras que no se pudieron descifrar de forma inequívoca o que no se pudieron descifrar en absoluto. Los anillos de rueda se fabricaron a partir de 1970 con un acero de calidad BV2. La UIC 810-1V, versión de 1957, exige para el acero de anillo de rueda BV2 una resistencia de 70-84 kg/mm². Según la versión actualmente vigente de la hoja informativa UIC 810-1V3, esto corresponde más bien a la calidad B2, para la que se exige una resistencia a la tracción de 700-820 N/mm².
 
-Los signos de interrogación representan letras o cifras que no podían descifrarse de forma inequívoca o en absoluto. Las llantas de las ruedas fueron fabricadas a partir de 1970 a partir de un acero de calidad BV2. La norma UIC 810-1V, versión de 1957, exige para el acero de llanta de rueda BV2 una resistencia de 70-84 kg/mm². Según la versión actualmente vigente de la hoja informativa UIC 810-1V3, esto corresponde más bien a la calidad B2, para la cual se exige una resistencia a la tracción de 700-820 N/mm².
-
-3 Condiciones técnicas de suministro para llantas de rueda en bruto de acero aleado laminado para vehículos traccionados y vagones; versión del 01.07.1981»
+3 Especificaciones técnicas de suministro para anillos de rueda en bruto de acero laminado y aleado para locomotoras y vagones; versión de 01.07.1981
 
 ## Página 19
+
 
 Los cuerpos de las ruedas presentaban cada uno la siguiente marca en forma de punzonado con números de golpe en el alma de la rueda en el lado exterior:
 
@@ -395,21 +403,16 @@ Imagen 8: Eje de rueda intacto 010608.25
 
 ## Página 20
 
-Imagen 9: Estado de la cara de rodadura rueda A (a) y B (b) del eje de rueda intacto 010608.26
-
-El informe de ensayo indica lo siguiente respecto al eje de rueda del accidente:
-
-«En uno de las dos tapas del cojinete del eje de rueda del accidente estaba fijada una placa de identificación con las siguientes indicaciones:
-
-Imagen 10: Placa de identificación en la tapa del cojinete del eje de rueda defectuoso
-
-En la rueda B se había desprendido la llanta de la rueda. Estaba suelta y se movía sobre el cuerpo de la rueda. Aquí faltaban el borde de la llanta de la rueda y el anillo de retención (véase la imagen 11). En la rueda A estaba presente el borde de la llanta de la rueda y el anillo de retención estaba firmemente asentado. A diferencia de las otras tres ruedas de los dos ejes de rueda entregados del bogía, la rueda B no presentaba ningún rebaje en el cubo sobre el eje. (…)
-
-Si este rebaje se originó ya durante la fabricación, únicamente en servicio o si se trata de un daño secundario, no puede aclararse de forma inequívoca debido al avance de la corrosión. Así, la zona del asiento de presión de la rueda sobresaliente sobre el eje está corroída aparentemente de la misma manera que la superficie metálica local del eje y del alma de la rueda, que están dañadas por arañazos.
-
+Figura 9: Estado de la superficie de rodadura de la rueda A (a) y B (b) del bogie del juego de ruedas 010608.26
+En relación con el juego de ruedas del accidente, el comité de inspección indica lo siguiente:
+„A" El juego de ruedas del accidente llevaba fijada en uno de los dos tapones de rodamiento una placa de identificación con los siguientes datos:
+Figura 10: Placa de identificación en el tapón de rodamiento del juego de ruedas dañado
+En la rueda B se había desprendido el aro de la rueda. Estaba suelto y móvil sobre el cuerpo de la rueda. Aquí faltaban el borde de retención del aro de la rueda y el anillo de rotura (véase la figura 11). En la rueda A el borde de retención estaba presente y el anillo de rotura estaba firme. A diferencia de las otras tres ruedas de los dos juegos de ruedas suministrados del bogie, la rueda B no presentaba ninguna saliente de encastre en el eje. (…)
+No puede aclararse de forma inequívoca, sobre la base del progreso de la corrosión, si esta saliente ya se produjo en la fabricación, se originó posteriormente en el servicio o es un daño secundario. Así, el área del encastre de la rueda que sobresale en el eje está aparentemente corroída exactamente igual que la superficie metálica local del eje y del radio de la rueda, que están dañados por rayones.
 6 DB Systemtechnik GmbH
 
 ## Página 21
+
 
 Las llantas de las ruedas presentaban cada una la siguiente marca en forma de punzonado en el lado exterior de la cara de rodadura:
 
@@ -429,6 +432,7 @@ A partir de las marcas de giro, que solo podían hacerse visibles en este eje de
 
 ## Página 22
 
+
 Imagen 11: Estado de la rueda B del eje de rueda defectuoso 013916.68
 
 Imagen 12: Eje de rueda defectuoso 013916.69
@@ -440,14 +444,13 @@ Imagen 12: Eje de rueda defectuoso 013916.69
 
 ## Página 23
 
-(véase la figura 13, flechas amarillas) se encontraba una hendidura. Según la estimación, el ancho de la hendidura era de aproximadamente 0,5 mm.
-Figura 13: Fotografía macroscópica de la rueda A del juego de ruedas 013916.610
-
-Además, se observaba a simple vista una grieta visible en la ranura del anillo de seguridad (figura 13, dos flechas a la derecha de la imagen) en la base del radio. Partiendo de este radio, se extendía con un ángulo de aproximadamente 45° hacia el lado interior del radio. En este punto, la rueda B carecía del borde de la pestaña. Para investigar las causas de la hendidura entre el cuerpo de la rueda y el neumático, se inspeccionó el área de contacto entre el neumático de la rueda y la corona de la rueda en todas las ruedas intactas —rueda A y rueda B del juego de ruedas intacto, y rueda A del juego de ruedas del accidente— para su verificación. Con este fin, se extrajo de cada una de estas ruedas un segmento de rueda acoplado, compuesto por el neumático de la rueda y el cuerpo de la rueda. Mediante el uso de un juego de calibradores de espesores (galgas de espesores), se verificon las superficies de presión transversal (superficies de asiento por fricción) en busca de formación de hendiduras. La lámina de 0,10 mm de grosor del juego de calibradores de espesores se pudo insertar fácilmente en el plano del diámetro de medición (MKE) entre el neumático de la rueda y el cuerpo de la rueda en las tres ruedas. Esto significa que en todas las ruedas intactas existía una hendidura. Posteriormente, se revelaron las superficies de asiento por fricción mediante cortes con sierra para su evaluación de las áreas de contacto. Las áreas de contacto confirmaron que en todas las ruedas examinadas existía una hendidura entre el neumático de la rueda y el cuerpo de la rueda. Así, se observó en todas estas
-
+(siehe Abbildung 1 3 gelbe Pfeile) ein Spalt befand. Nach Abschätzung betrug die Spaltbreite ca. 0,5 .  
+Abbildung 13: Makroskopische Aufnahme Rad A v. Radsatz 013916.6 10  
+Weiterhin lag ein augenscheinlich mit bloßem Auge sichtbarer Riss in der Sprengerringnut (Abbildung 1 3 zwei Pfeile rechts im Bild) im Grundradius vor. Er verlief ausgehend von diesem Radius unter einem Winkel von ca. 45° in Richtung Radinnenseite. An dieser Stelle fehlte bei Rad B die Bördelkante. Um den Ursachen des Spaltes zwischen Radkörper und -reifen nachzugehen, wurde das Tragbild zwischen Radreifen und Radkranz an allen intakten Rädern - Rad A und B des intakten Radsatzes und Rad A des Unfallsradsatzes - überprüft. Dazu wurde diesen Rädern jeweils ein komplettes Radsegment, bestehend aus Radreifen und Radkörper, entnommen. Unter Zuhilfenahme einer Fühlerlehre wurden die Querpressflächen (Schruppsitzflächen) auf Spaltbildung überprüft. Das 0,10 dicke Blech der Fühlerlehre ließ sich bei allen drei Rädern in Messkreisebene (MKE) zwischen Radreifen und -körper leicht einschieben. Das bedeutet, dass bei allen intakten Rädern ein Spalt vorlag. Anschließend wurden die Schruppsitzflächen mittels Sägeschnitten zur Beurteilung der Tragbilder freigelegt. Die Tragbilder bestätigten, dass bei allen untersuchten Rädern ein Spalt zwischen Radreifen und Radkörper vorliegt. So zeigten sich bei all diesen  
 10 DB Systemtechnik GmbH
 
 ## Página 24
+
 
 ruedas (véanse las figuras 14, 15 y 16) en los bordes del asiento por presión a lo largo de toda la longitud del segmento extraído, zonas de color metálico brillante, mientras que la superficie intermedia presentaba un color rojo óxido.
 Figura 14: Áreas de contacto del acoplamiento por presión transversal del juego de ruedas intacto 010608.211
@@ -458,6 +461,7 @@ Aquí se observaba una capa pulverulenta de color rojo óxido que se podía elim
 
 ## Página 25
 
+
 Figura 15: Áreas de contacto del acoplamiento por presión transversal de la rueda B del juego de ruedas intacto 010608.212
 Figura 16: Áreas de contacto del acoplamiento por presión transversal de la rueda A del juego de ruedas defectuoso 013916.613
 
@@ -465,6 +469,7 @@ Figura 16: Áreas de contacto del acoplamiento por presión transversal de la ru
 13 DB Systemtechnik GmbH
 
 ## Página 26
+
 
 Una verificación de las superficies de asiento por fricción mediante una regla de espesores (galga de espesores tipo "hairline") reveló que los neumáticos de las ruedas presentaban las hendiduras que conducían a la formación de hendiduras, mientras que los cuerpos de las ruedas carecían de hendiduras en el punto correspondiente.” 14
 
@@ -482,6 +487,7 @@ Figura 17: Sección transversal macroscópica del cuerpo de la rueda y el neumá
 17 Condiciones técnicas de suministro para ruedas macizas de acero no aleado laminado para vehículos tracción y vagones; estado julio de 1995
 
 ## Página 27
+
 
 el grosor del neumático de la rueda B puede haber sufrido pérdidas de material debido al desprendimiento y al movimiento relativo sobre el cuerpo de la rueda.” 18
 
@@ -504,6 +510,7 @@ Para el examen microscópico de los neumáticos de las ruedas, se extrajeron de 
 
 ## Página 28
 
+
 Ambos neumáticos de rueda son comparables al respecto. Esto también es válido para la composición cualitativa de la microestructura en la superficie de rodadura. En ambos neumáticos de rueda se presentaba una microestructura predominantemente perlítica con menores proporciones ferríticas, que en la superficie se había endurecido plásticamente debido a las tensiones de servicio en el contacto rueda/rriel y a las operaciones de frenado. La profundidad de endurecimiento en la superficie de rodadura de la rueda B es ligeramente mayor que en la rueda A. No se detectaron indicios de una influencia térmica pasiva debida a fallos de frenado, aunque sí se observó una microestructura influenciada térmicamente. La profundidad de la estructura influenciada térmicamente es mayor en la rueda B que en la rueda A.
 
 Ilustración 19: Posición de las rayas de pulido microscópico en el neumático de rueda 21
@@ -517,34 +524,38 @@ Ilustración 19: Posición de las rayas de pulido microscópico en el neumático
 
 ## Página 29
 
-En la prueba de dureza, la prueba de tracción y el análisis químico se cumplieron los requisitos según UIC 810-1V y UIC 812-1.
+En la prueba de dureza, el ensayo de tracción y el análisis químico se cumplieron los requisitos según UIC 810-1V y UIC 812-1.
 
 ## 5 Evaluación
 
-El capítulo 5 Evaluación se ocupa de la reconstrucción del suceso. Sobre la base de las constataciones anteriores, se compila un curso plausible del suceso peligroso. Las conclusiones relevantes se evalúan posteriormente y conducen, si procede, a las correspondientes conclusiones.
+El capítulo 5 Evaluación se ocupa de la reconstrucción del suceso. A partir de las constataciones anteriores se elabora un transcurso plausible del suceso peligroso. Los hallazgos relevantes se evalúan al final y conducen, en su caso, a conclusiones correspondientes.
 
 ### 5.1 Reconstrucción del suceso
 
-El tren CFN 47595 fue transportado el 26.05.2010 por el ferrocarril belga SNCB desde La Louvière Centre (Bélgica) hasta Aquisgrán Oeste. Tras un cambio de locomotora previsto, el viaje del tren desde Aquisgrán Oeste hasta la estación de destino Dortmund-Oberhagen debía ser realizado por el operador de transporte ferroviario (OTF) DB Schenker Rail AG. Poco después de la aguja 242 de la estación de clasificación de Rheydt, el vagón 20 descarriló debido a un neumático de rueda suelto con un eje de rueda. En el lugar del descarrilamiento se encontraron piezas de un anillo de retención que podían asignarse a la rueda defectuosa. El maquinista no se percató del descarrilamiento y continuó conduciendo el tren aproximadamente 11 km hasta detenerse en la señal de parada de la estación de Viersen-Holweide en el pk 0,6. Solo a través del maquinista del RE 10220 que circulaba en sentido contrario se detectó el descarrilamiento. Mediante una llamada de emergencia con activación de frenado de emergencia se pudo impedir la continuación del viaje.
+El tren CFN 47595 fue transportado el 26.05.2010 por la ferrobelga SNCB desde La Louvière Centre (Bélgica) hasta Aachen West. Tras un cambio planificado de locomotora, la circulación del tren debía ser realizada desde Aachen West hasta la estación de destino Dortmund-Oberbuerger por el EVU DB Schenker Rail AG. Justo detrás del desvío 242 de la estación Rheydt Gbf, en la vía de entrada de la 20.ª vía, se produjo un descarrilamiento debido a un aro de rueda flojo en un juego de ruedas. En el punto de descarrilamiento se encontraron piezas de un fragmento de freno que pudieron ser asignadas al eje defectuoso. El maquinista no notó nada del descarrilamiento y condujo el tren aún unos 11 km hasta la señal de parada Essen Vierse-Hele, en el km 0,6. Solo a través del maquinista del RE 10220 que se encontraba en sentido contrario se detectó el descarrilamiento. Mediante una llamada de emergencia con orden de detención pudo impedirse la continuación de la circulación.
 
-### 5.2 Evaluación y conclusiones
+### 5.2 Evaluación y conclusión
 
-El vagón de mercancías, fabricado en 1961, se encontraba en un estado visualmente muy deteriorado. Mediante investigaciones de DB Systemtechnik GmbH se determinó que las propiedades mecánicas, así como las propiedades de la micro y macroestructura, no presentaban diferencias significativas entre las ruedas A y B del eje descarrilado. Los materiales empleados cumplían los requisitos UIC. No se pudieron detectar cambios en la estructura debido a tensiones térmicas. Se mantuvo el espesor del neumático de rueda de al menos 30 mm.
+El vagón de carga fabricado en 1961 se encontraba en un estado ópticamente muy deteriorado. Mediante investigaciones de la DB Systemtechnik GmbH se constató que las propiedades mecánicas, así como las propiedades de la micro y macroestructura, no presentaban diferencias significativas entre las ruedas A y B del juego de ruedas descarrilado. Los materiales utilizados cumplían los requisitos de la UIC. No pudo constatarse alteración de la estructura debida a carga térmica. Se mantuvo el espesor del aro de rueda de al menos 30 mm.
 
-Al examinar la unión por interferencia, se comprobó que, a pesar de estar bien asentados los neumáticos de rueda, las marcas de rotación de todas las ruedas intactas estaban alineadas entre sí, existiendo una hendidura entre el círculo de medición del cuerpo de la rueda y el neumático de rueda. Aunque esta hendidura no pudo detectarse en la rueda B debido a las daños, se debe suponer que esta hendidura también estaba presente en la rueda B. Las imágenes de carga entre el cuerpo de la rueda y el neumático de rueda de todas las ruedas intactas mostraban una superficie de color azul metálico en la zona exterior del área de apoyo. De ello se puede concluir que solo en esta zona existía un contacto total entre el cuerpo de la rueda y el neumático de rueda. El resto de la superficie presentaba puntos de corrosión y una decoloración rojiza causada por el microdeslizamiento.
+En el examen del montaje de prensado transversal se comprobó que en todas las ruedas intactas, a pesar del aro de rueda firmemente asentado, las marcas de giro coincidían en posición y existía una holgura en el plano de medición entre el cuerpo de rueda y el aro de rueda. Si bien este
 
-El dictamen de DB Systemtechnik GmbH llega además a la siguiente conclusión:
+## Página 30
 
-«Las desviaciones demostradas en la unión por interferencia de los cuatro ruedas intactas entre el neumático de rueda y el cuerpo de la rueda, que se manifestaron como una hendidura (cámara de aire) entre el neumático de rueda y el cuerpo de la rueda, han conducido probablemente en combinación con una interferencia de apriete demasiado pequeña a un asentamiento alterado del neumático de rueda y, como consecuencia, a un aumento de la tensión en la ranura del anillo de retención. Esto ha provocado la formación y propagación de grietas en el borde del neumático, tanto en la rueda accidentada como en la rueda intacta, partiendo de la ranura del anillo de retención. En la rueda accidentada, esta grieta creció hasta tal punto que el borde del neumático finalmente se rompió. Aunque, debido al neumático de rueda ya suelto, este hecho no pudo volver a verificarse en la rueda con el neumático de rueda suelto, se debe suponer que aquí también se produjo la misma desviación en la unión por interferencia». 24
+El hueco no pudo determinarse en el caso de la rueda B debido a los daños, sin embargo, debe partirse de que este hueco también estaba presente en la rueda B. Las superficies de apoyo entre el cuerpo de rueda y la llanta de todas las ruedas intactas mostraban una superficie metálicamente brillante en la zona exterior de la superficie de apoyo. De ello puede concluirse que solo en esta zona existía un contacto íntegro entre el cuerpo de rueda y la llanta. El resto de la superficie mostraba puntos de corrosión y una decoloración rojiza que se produce por microfrotamiento.
+
+El peritaje de la DB Systemtechnik GmbH llega a la siguiente conclusión al respecto:
+
+„Las desviaciones demostradas en las tres ruedas intactas en la unión de roscado entre la llanta y el cuerpo de rueda, que se mostraban como un hueco (holgura) entre la llanta y el cuerpo de rueda, han conducido probablemente, en combinación con una cantidad de roscado insuficiente, a una sujeción deteriorada de la llanta y, en consecuencia, a un aumento de la carga en el ranurado del anillo de expansión. Esto ha conducido tanto en la rueda del accidente como en la rueda intacta a la formación y propagación de grietas en el borde de la pestaña a partir del ranurado del anillo de expansión. En la rueda del accidente, esta grieta creció hasta que el borde de la pestaña finalmente se desprendió. Aunque, debido a la llanta ya desprendida, esta circunstancia no pudo volver a verificarse en la rueda con la llanta suelta, debe partirse de que aquí había existido la misma desviación en la unión de roscado.“ 24
 
 Debido a la falta de documentación del vehículo, no fue posible reconstruir cuándo y dónde se produjeron estos errores durante el montaje.
 
 ## 6 Medidas adoptadas hasta la fecha
 
-No se ha conocido ninguna medida del BEU que se haya tomado como consecuencia del suceso por la ferrocarril participante o por la autoridad de seguridad.
+Al BEU no se le comunicó ninguna medida adoptada a consecuencia del suceso por parte de la empresa ferroviaria participante o por parte de la autoridad de seguridad.
 
-## 7 Recomendaciones de seguridad
+## 7 Recomendaciones
 
-No se han formulado recomendaciones de seguridad.
+No se formuló ninguna recomendación de seguridad.
 
-24 Dictamen: 10-P12415-TTZ4-986-01
+24  Peritaje: 10-P12415-TTZ4-986-01

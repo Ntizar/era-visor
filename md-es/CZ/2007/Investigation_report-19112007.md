@@ -10,13 +10,14 @@ chars: 51181
 ratio_longitud: 1.22
 tokens_in: 23202
 tokens_out: 15163
-verificacion: revisar
-notas_cifras: ["bloque 1: original bilingüe: se compara contra el idioma principal (EN); cifras largas: 1/17", "bloque 2: original bilingüe: se compara contra el idioma principal (PT)", "bloque 3: original bilingüe: se compara contra el idioma principal (CS)", "bloque 4: cifras cortas: 8/74", "bloque 5: cifras cortas: 1/65", "bloque 6: cifras cortas: 1/72"]
-avisos: ["bloque 3: ratio 1.86"]
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 3: cifras largas: 1/5", "página 5: original bilingüe: se compara contra el idioma principal (EN)", "página 6: original bilingüe: se compara contra el idioma principal (PT)", "página 7: original bilingüe: se compara contra el idioma principal (CS)", "página 8: cifras cortas: 8/73"]
 ---
+
 ## Página 1
+
 
 República Checa
 Inspección Ferroviaria
@@ -35,11 +36,12 @@ N.º de identificación de la empresa (IČO): 75009561
 http://www.dicr.cz
 fax: (+420) 224 805 428
 
-
 ## Página 2
 
 
+
 ## Página 3
+
 
 ## RESUMEN
 Fecha y hora:
@@ -60,11 +62,12 @@ Causa raíz:
 ninguna
 Recomendación: no emitida
 
-
 ## Página 4
 
 
+
 ## Página 5
+
 
 # Índice
 1 RESUMEN....................................................................................................................7
@@ -115,6 +118,7 @@ dispositivo de grabación.......................................................
 
 ## Página 6
 
+
 3.5.3 Medidas adoptadas para la protección y aseguramiento del lugar del incidente................................13
 3.6 Condiciones laborales, sanitarias y de explotación...................................................13
 3.6.1 Tiempo de trabajo de los empleados del gestor de infraestructura y del transportista que fueron parte del incidente
@@ -144,23 +148,50 @@ guardan relación con la actuación de las personas implicadas o con el estado d
 
 ## Página 7
 
-N.º de ref.: 2-1831/2007/DI
+N. ref.: 2-1831/2007/DI
 ## Informe
-sobre los resultados de la investigación de las causas y circunstancias de la aparición de un incidente extraordinario
+sobre los resultados de la investigación de las causas y circunstancias del surgimiento de la incidencia excepcional
 ## 1 RESUMEN
-El 19.11.2007 a las 15:31 horas, en la vía de ámbito nacional, en la estación ferroviaria de Leština u Světlé, en el pk 251,103, durante la circulación del tren de mercancías Pn n.º 64203, se produjo el descarrilamiento de los tres últimos vehículos ferroviarios de dicho tren. El propietario de la vía es Správa železniční dopravní cesty, s. o., el operador de la vía y el transportista son České dráhy, a. s., y los titulares de los vehículos descarrilados son České dráhy, a. s., Lovochemie, a. s., Lovosice y EEWS, s. r. o., Trnava. Como consecuencia del descarrilamiento se produjeron daños en la balasto de la vía, en la línea de contacto, en el paso a nivel situado en el pk 250,851, daños en todos los vehículos ferroviarios descarrilados y daños en la mercancía cargada en dichos vehículos. No se produjeron lesiones personales. Se causaron daños en un vehículo de České dráhy, a. s., por un importe de 80 000,- Kč, en la infraestructura de Správa železniční dopravní cesty, s. o., por un importe de 4 000 000,- Kč, en los vehículos de transportistas privados por un importe de 915 000,- Kč y en la mercancía transportada por un importe de 274 000,- Kč. El daño total causado por este incidente extraordinario asciende a 5 269 080,- Kč. Se trata de un incidente extraordinario de la categoría «accidente grave». La causa del descarrilamiento fue un defecto técnico en el vehículo n.º 23-54-0730 072-4, que no pudo ser detectado durante la inspección técnica habitual. No se emitió ninguna recomendación de seguridad relativa a este incidente extraordinario.
-## 2 DATOS RELATIVOS AL INCIDENTE EXTRAORDINARIO
-### 2.1 Incidente extraordinario
-### 2.1.1 Fecha, hora exacta y lugar del incidente extraordinario
-19.11.2007, 15:31 horas, vía de ámbito nacional, operador de la vía České dráhy, a. s., línea 324 Brno hl. n. – Kutná Hora hl. n., estación ferroviaria de Leština u Světlé, vía de estación n.º 1, pk 251,103.
-El operador de la vía es České dráhy, a. s.
-2.1.2 Descripción del incidente extraordinario y del lugar del accidente, incluida la actuación del sistema integrado de rescate y del servicio de rescate
-Durante la circulación del tren de mercancías Pn n.º 64203 del transportista České dráhy, a. s., que circulaba desde la estación ferroviaria de origen Nymburk hasta la estación ferroviaria de destino Brno-Maloměřice, se produjo en la estación ferroviaria de Leština u Světlé, en el pk 251,103, el descarrilamiento de los tres últimos vehículos de dicho tren. En el pk 250,780, los vehículos n.º 81-54-3942 442-6 y 23-54-0730 385-0 se volcaron hacia la derecha en el sentido de la marcha y el tren se partió. En el pk 250,496 se volcó hacia la izquierda el vehículo n.º 23-54-0730 072-4, que invadió la sección de paso de la vía de circulación n.º 2. Estos vehículos descarrilados dañaron el balasto de la vía en una longitud de aproximadamente 590 m y el paso a nivel situado en el pk 250,851. En el lugar del incidente extraordinario intervinieron las unidades del sistema integrado de rescate, el Cuerpo de Bomberos y Rescate de České dráhy, a. s., la Unidad de Protección contra Incendios de Kolín y Nymburk y la Policía de la República Checa, Delegación Distrital de Golčův Jeníkov. El servicio de rescate rápido no intervino.
-Mediante la inspección del lugar del incidente extraordinario se constató:
+El 19 de 11 de 2007 a las 15:31 h, en la vía de ámbito estatal, en la estación ferroviaria de Leština u Světlé, en el pk 
+251,103, durante la circulación del tren de mercancías Pn n.º 64203, se produjo el descarrilamiento de los tres últimos vehículos ferroviarios de dicho tren. El propietario de la vía es Správa železniční dopravní cesty, s. o., el explotador de la vía y el transportista son České dráhy, a. s., los titulares de los vagones descarrilados son České dráhy, a. s., Lovochemie, a. s., Lovosice y EEWS, s. r. o., Trnava. Como consecuencia del descarrilamiento se produjo daños en la superestructura ferroviaria, en la línea de contacto, en el paso a nivel del pk 250,851, daños en todos los vehículos ferroviarios descarrilados y daños en la mercancía cargada en dichos vehículos. No se produjeron lesiones en personas. Se produjeron daños en un vagón de České dráhy, a. s., por importe de 80 
+000,- CZK, en la infraestructura de Správa železniční dopravní cesty, s. o., por importe de 4 000 000,- CZK, en vagones de transportistas privados por importe de 915 000,- CZK y en la mercancía transportada por importe de 274 000,- CZK. El daño total causado por esta incidencia excepcional es de 5 269 080,- CZK. Se trata de una incidencia excepcional de categoría 
+"accidente grave". La causa del descarrilamiento fue un defecto técnico en el vagón n.º 23-54-0730 072-4, que no fue posible detectar en la inspección técnica ordinaria. No se emitió ninguna recomendación de seguridad relativa a esta incidencia excepcional.
+## 2 DATOS RELATIVOS A LA INCIDENCIA EXCEPCIONAL
+### 2.1 Incidencia excepcional
+### 2.1.1 Fecha, hora exacta y lugar de la incidencia excepcional
+19 de 11 de 2007, 15:31 h, vía de ámbito estatal, explotador de la vía České dráhy, a. s., línea 324 Brno 
+hl. n. – Kutná Hora hl. n., estación ferroviaria de Leština u Světlé, 1.ª vía de estación, pk 251,103. 
+El explotador de la vía es České dráhy, a. s.
+2.1.2 Descripción de la incidencia excepcional y del lugar del accidente, incluida la actuación del sistema integrado de 
+emergencias y del servicio de rescate
+Durante la circulación del tren de mercancías Pn n.º 64203 del transportista České dráhy, a. s., 
+procedente de la estación ferroviaria de origen Nymburk con destino a la estación ferroviaria de 
+destino Brno-Maloměřice, se produjo en la estación ferroviaria de Leština u Světlé, en el pk 251,103, 
+el descarrilamiento de los tres últimos vagones del mencionado tren. En el pk 
+250,780 los vagones n.º 81-54-3942 442-6 y 23-54-0730 385-0 se volcaron hacia la derecha en el sentido 
+de la marcha y el tren se rompió. En el pk 250,496 se volcó hacia la izquierda el vagón n.º 23-54-0730 072-4, que 
+invadía la carga límite de la 2.ª vía de circulación. Estos vagones descarrilados dañaron la 
+superestructura ferroviaria a lo largo de unos 590 m y el paso a nivel del pk 250,851. En el lugar de la incidencia excepcional 
+intervinieron los servicios del sistema integrado de emergencias, el Cuerpo de Bomberos y Rescate de České 
+dráhy, a. s., la Unidad de Protección contra Incendios de Kolín y Nymburk y la Policía de la República Checa, Departamento Distrital de Golčův 
+Jeníkov. El servicio de urgencias médicas no intervino.
+Del examen del lugar de la incidencia excepcional se constató lo siguiente:
 •
-El punto «0» se encontró en el pk 251,103. Aquí se detectaron daños en los pernos del lado interior del riel derecho y en el lado exterior del riel izquierdo. A partir del 6. durmiente contado desde el punto «0» se observan rayas permanentes en los durmientes en la parte derecha, que pasan visiblemente al lado izquierdo (el punto «0» se encuentra en una curva hacia la derecha) y, al mismo tiempo, se aprecia una huella en el balasto entre la vía de circulación n.º 1 y la n.º 2 en una longitud de 92 metros. En el punto de cruce n.º 3, que está desviado en dirección recta hacia la vía de circulación n.º 1, se ha dañado la placa de cobertura de la varilla de conmutación, se ha arrancado la cabeza del riel en el corazón de la aguja y se han encontrado una hoja y una correa de resorte. En el punto de cruce n.º 1 se ha roto el riel izquierdo del corazón de la aguja y también se aprecian huellas de paso de rueda y deformaciones del balasto fuera de la vía. A partir del 20. durmiente desde la punta del punto de cruce ya se aprecian huellas de circulación del vehículo en el balasto. A unos 90 metros más adelante se encuentra el paso a nivel situado en el pk 250,851, que presenta paneles dañados y balasto de vía dañado y, aproximadamente 50 m después de este paso a nivel, se encuentra dañada la línea de contacto
+El punto "0" se encontró en el pk 251,103. Aquí se encontraron daños en los tornillos en el lado interior 
+del carril derecho y en el lado exterior del carril izquierdo. Desde el 6.º traviesa a partir del punto 
+"0" se observan surcos permanentes en las traviesas en la parte derecha, que visiblemente pasan al lado 
+izquierdo (el punto "0" está en una curva a la derecha) y al mismo tiempo se aprecia una huella en el lecho de balasto 
+entre la 1.ª y la 2.ª vía de circulación a lo largo de 92 metros. En el desvío n.º 3, que 
+está dispuesto en dirección recta hacia la 1.ª vía de circulación, está dañada la placa de cubierta de la varilla de cambio, 
+está arrancada la cabeza del carril en el corazón del desvío y se encontró una lengüeta y un cinturón de la lámina de resorte. En el desvío n.º 1 está 
+partido el carril izquierdo del corazón del desvío y también se observan huellas de 
+rodadura de rueda y deformaciones de la superestructura ferroviaria 
+fuera de la vía. Desde la 20.ª traviesa a partir de la punta del desvío ya se observan huellas de 
+circulación del vagón en el lecho de balasto. A unos 90 metros más adelante se encuentra el paso a nivel del pk 250,851, que tiene 
+los paneles y el lecho de vía dañados y a unos 50 m detrás de dicho paso a nivel está dañada la línea de contacto de
 
 ## Página 8
+
 
 conducto por encima de la primera vía de circulación. Además, en el pk 250,780 se encontraron los vagones nº 81 54 394 2442-6 y 23 54 073 0385-0, volcados sobre su lado derecho en el lado derecho de la vía en el sentido de circulación del tren, y el tercer vagón descarrilado nº 23 54 073 0072-4 se encontró en el pk 250,469, volcado sobre su lado izquierdo, en el lado izquierdo entre la primera y la segunda vía de circulación, aún enganchado al resto del tren.
 Piezas dañadas de los vagones encontradas:
@@ -200,6 +231,7 @@ La estación ferroviaria de Leština u Světlé es una estación intermedia en l
 La vía de estación nº 1 es sin juntas y fue instalada en 1986. Se trata de rieles de perfil S 49,
 
 ## Página 9
+
 
 que están instalados sobre durmientes de hormigón tipo SB 8. El punto «0» del incidente se encuentra en una curva a la derecha en el sentido de circulación del tren, con un radio de 279 m y una pendiente descendente del 9,5 ‰. El paso a nivel en el pk 250,851 está equipado con un dispositivo de seguridad de paso a nivel tipo AŽD 71 y paneles de paso a nivel de hormigón armado.
 
@@ -252,6 +284,7 @@ Cielo semidespejado, 0°C, sin viento, con capa de nieve localmente de hasta uno
 
 ## Página 10
 
+
 ## 3 REGISTRO DE LAS EXPLICACIONES PRESTADAS
 ### 3.1 Resumen de las explicaciones prestadas
 ### 3.1.1 Empleados del administrador de la infraestructura y del transportista, incluidas las personas en relación contractual
@@ -300,6 +333,7 @@ La última prueba no destructiva de los raíles se realizó el 1. 11. 2007.
 •
 
 ## Página 11
+
 
 La medición de la balasto de la vía tras el incidente excepcional se realizó el 19. 11. 2007
 •
@@ -375,6 +409,7 @@ En el tramo de vía Havlíčkův Brod – Golčův Jeníkov se opera una red de 
 
 ## Página 12
 
+
 de los trenes de maniobras. Para el registro y archivo de las llamadas telefónicas en las redes de radio y telefonía se utiliza el dispositivo de grabación digital ReDat, que está ubicado en las estaciones ferroviarias de Světlá nad Sázavou y Vlkaneč.
 
 El paso a nivel en el pk 250,851 está equipado con un dispositivo de protección de pasos a nivel de tipo
@@ -405,6 +440,7 @@ Los registros de la gestión del tráfico ferroviario se llevan en el diario de 
 3.5.2 Intercambio de mensajes verbales en relación con el incidente, incluidos los documentos del dispositivo de grabación
 
 ## Página 13
+
 
 Inmediatamente después de la producción del incidente extraordinario, se desarrolló la comunicación verbal entre el despachador de trenes, el maquinista del tren Pn 64203 y el despachador eléctrico. Durante la misma, las personas mencionadas se transmitieron telefónica o por radio las informaciones sobre la producción del incidente extraordinario, sus causas y consecuencias, así como las instrucciones para garantizar la seguridad.
 
@@ -456,31 +492,30 @@ Aquí fue incorporado al tren Pn 64203, que se constituyó allí como tren inici
 
 ## Página 14
 
-hod. Durante la inspección técnica no se detectaron defectos técnicos en este vagón. Durante el viaje se produjo un fallo en el cojinete del eje de la rueda delantera izquierda del vagón n.º 23 54 0730 072-4 (número de eje 1443), que se encontraba situado como el 3.º vagón desde el final del tren. El cojinete se recalentó intensamente. Ante la señal de entrada 1S en el km 252,680, antes de la estación ferroviaria de Leština u Světlé, el tren se detuvo, permaneciendo parado aproximadamente 5 – 6 minutos. En este punto se rompió la caja del cojinete del cojinete sobrecalentado. Tras colocar la señal en la indicación «Vía libre», el tren se puso en marcha y entró en la estación ferroviaria de Leština u Světlé por la 1.ª vía de estación. En la señal de salida L1 también había la indicación «Vía libre» y los puntos se encontraban en posición recta hacia la 1.ª vía de línea. Durante el trayecto de aproximadamente 1600 metros, comenzaron a desprenderse piezas individuales de la caja del cojinete del eje dañada, las cuales fueron encontradas posteriormente en el andén de la vía. Debido a la alta temperatura, se produjo el desprendimiento de la rueda, su desplazamiento hacia el centro del eje y, consecuentemente, el descarrilamiento de este vagón. El vagón descarriló en el km 251,103 y, posteriormente, descarrilaron también los vagones n.º 23 54 0730 985-0 y 81 54 3942 442-6, que se encontraban situados detrás del mismo. Los vagones descarrilados avanzaron sobre el balasto de grava hasta el km 250,780, donde los dos últimos vagones se volcaron hacia la derecha y se produjo la separación del tren entre el 2.º y el 3.º vagón desde el final del tren. El vagón n.º 23 54 0730 072-4 fue arrastrado posteriormente por el tren sobre el balasto de grava hasta el km 250,496, momento en el que el tren se detuvo. El vagón se volcó hacia la izquierda.
+hod. Durante la inspección técnica no se encontraron defectos técnicos en este vagón. Durante la marcha se produjo un defecto en el rodamiento del eje de la rueda delantera izquierda del vagón n.º 23 54 0730 072-4 (número de eje 1443), acoplado como 3.er vagón desde el final del tren. El rodamiento se calentó intensamente. Antes de la estación de ferrocarril Leština u Světlé, el tren se detuvo en la señal de entrada 1S en el km 252,680, donde permaneció aproximadamente 5 – 6 minutos. En estos lugares se produjo la rotura de la cámara del rodamiento del rodamiento sobrecalentado. Tras colocar la señal en la indicación «Libre», el tren se puso en marcha y entró en la estación de ferrocarril Leština u Světlé por la 1.ª vía de estación. En la señal de salida L1 también había indicación «Libre» y los desvíos estaban colocados en dirección directa hacia la 1.ª vía de tráfico. Durante la marcha de aproximadamente 1600 metros, desde la cámara dañada del rodamiento del eje comenzaron a desprenderse piezas individuales, que posteriormente se encontraron en la vía. Debido a la alta temperatura se produjo el desprendimiento de la rueda, su desplazamiento hacia el centro del eje y el posterior descarrilamiento de este vagón. El vagón descarriló en el km 251,103 y, a continuación, también descarrilaron los vagones n.º 23 54 0730 985-0 y 81 54 3942 442-6, que estaban acoplados detrás de él. Los vagones descarrilados circularon sobre el lecho de balasto hasta el km 250,780, donde los dos últimos vagones se volcaron hacia el lado derecho y se produjo la rotura del tren entre el 2.º y el 3.er vagón desde el final del tren. El vagón n.º 23 54 0730 072-4 fue arrastrado posteriormente por el tren sobre el lecho de balasto hasta el km 250,496, cuando el tren se detuvo. El vagón se volcó hacia el lado izquierdo.
 ### 4.2 Análisis
-4.2.1 Evaluación de los hechos constatados según el punto 3 y exposición de las conclusiones sobre la causa del incidente y la actuación de los servicios de rescate
-El descarrilamiento se produjo como consecuencia de un defecto técnico en el cojinete del eje de la rueda delantera izquierda del vagón n.º 23 
+4.2.1 Evaluación de los hechos constatados de acuerdo con el punto 3 y formulación de conclusiones sobre la causa del suceso excepcional y la actuación de los servicios de rescate
+El descarrilamiento se produjo como consecuencia de un defecto técnico en el rodamiento del eje delantero izquierdo del vagón n.º 23
 •
-54 0730 072-4. Antes de la salida del tren Pn 64203 desde la estación ferroviaria de origen Nymburk, el vagón había pasado por una inspección técnica inicial, que sin embargo no pudo detectar el defecto. El vagón disponía de una revisión válida con fecha 8. 1. 2003 con una validez de 6 años y se le había expedido el «Certificado de conformidad del material rodante ferroviario con el tipo aprobado conforme a la ley n.º 266/1994 Coll.».
-El vagón disponía de una revisión válida y los cojinetes estaban lubricados correctamente.
+54 0730 072-4. Antes de la salida del tren Pn 64203 de la estación de ferrocarril de origen Nymburk, el vagón superó la inspección técnica de origen, que sin embargo no pudo detectar el defecto. El vagón tenía una revisión válida del día 8. 1. 2003 con vigencia de 6 años y se le había emitido el «Certificado de conformidad del vehículo ferroviario con el tipo aprobado de conformidad con la ley n.º 266/1994 Sb.»
+El vagón tenía una inspección de revisión válida y los rodamientos estaban correctamente engrasados.
 •
-No se puede demostrar la negligencia del personal de tráfico del explotador de la infraestructura durante el seguimiento del tren Pn 64203 
+La negligencia de los empleados de tráfico del operador de la vía, en la vigilancia de la marcha del tren Pn 64203,
 •
-dado que no se acreditaron manifestaciones visuales de sobrecalentamiento del cojinete en el vagón n.º 23 54 0730 072-4 y también debido a que las posiciones de estos empleados de tráfico en las estaciones ferroviarias de Golčův Jeníkov, Vlkaneč (estación ferroviaria anterior al lugar del incidente) y Leština u Světlé se encuentran en el lado derecho en la dirección de circulación de este tren, mientras que el cojinete dañado se encontraba en el lado izquierdo. El indicador de sobrecalentamiento está instalado en la 1.ª vía de línea del tramo intermedio Leština u Světlé – Světlá nad Sázavou en el km 247,100, es decir, después del lugar del incidente.
+no es posible acreditar, dado que no se acreditaron manifestaciones visibles de rodamiento caliente en el vagón n.º 23 54 0730 072-4, y también dado que los puestos de trabajo de estos empleados de tráfico en las estaciones de ferrocarril Golčův Jeníkov, Vlkaneč (estación de ferrocarril anterior al lugar del suceso excepcional) y Leština u Světlé se encuentran en el lado derecho en el sentido de marcha de este tren, mientras que el rodamiento dañado se encontraba en el lado izquierdo. El indicador de rodamiento caliente está conectado en la 1.ª vía de tráfico del tramo entre estaciones Leština u Světlé – Světlá nad Sázavou en el km 247,100, es decir, después del lugar del suceso excepcional.
 ### 4.3 Conclusiones
-4.3.1 Causas inmediatas del incidente, incluidos los factores que contribuyeron a él y que estaban relacionados con la actuación de las personas implicadas o con el estado de los materiales rodantes ferroviarios o de las instalaciones técnicas
-La causa inmediata del descarrilamiento de los materiales rodantes ferroviarios del tren Pn 64203 fue el desprendimiento y desplazamiento de la rueda delantera izquierda hacia el centro del vagón debido al sobrecalentamiento del cojinete del eje del vagón n.º 23 54 
-0730 072-4.
+4.3.1 Causas inmediatas del suceso excepcional, incluidos los factores que contribuyeron al mismo y que estuvieron relacionados con la actuación de las personas implicadas o con el estado de los vehículos ferroviarios o de las instalaciones técnicas
+La causa inmediata del descarrilamiento de los vehículos ferroviarios del tren Pn 64203 fue el desprendimiento y el desplazamiento de la rueda delantera izquierda hacia el centro del vagón debido al sobrecalentamiento del rodamiento del eje del vagón n.º 23 54 0730 072-4.
 ### 4.3.2 Causas fundamentales relacionadas con la cualificación, los procedimientos y el mantenimiento
-Daño del cojinete del eje de la rueda delantera izquierda en la dirección de circulación del vagón n.º 23 54 0730 072-4, su sobrecalentamiento, recalentamiento y posterior rotura de su caja. Este defecto era indetectable sin el indicador de sobrecalentamiento.
-4.3.3 Causas derivadas del marco normativo y del uso del sistema de garantía de la seguridad
-No las hay.
+El daño en el rodamiento del eje de la rueda delantera izquierda en el sentido de marcha del vagón n.º 23 54 0730 072-4, su rodamiento caliente, el sobrecalentamiento y la posterior rotura de su cámara. Este defecto era indetectable sin el indicador de rodamiento caliente.
+4.3.3 Causas que se deben al marco normativo y al uso del sistema de garantía de la seguridad
+No existen.
 ### 4.4 Hallazgos complementarios
-4.4.1 Deficiencias y omisiones detectadas durante la investigación de las causas y las circunstancias de la aparición del incidente, que sin embargo no son relevantes para las conclusiones sobre las causas.
-No las hay.
-
+4.4.1 Deficiencias y omisiones constatadas durante la investigación de las causas y circunstancias de la producción del suceso excepcional, que sin embargo no son relevantes para las conclusiones sobre las causas.
+No existen.
 
 ## Página 15
+
 
 ## 5 MEDIDAS ADOPTADAS
 ### 5.1 Relación de las medidas que ya se han adoptado o tomado como consecuencia del incidente.
@@ -500,46 +535,46 @@ Anexo número 1: Causa del incidente (fotografías de las inspecciones comisiona
 Anexo número 3: Plano situacional del lugar del incidente
 Anexo número 4: Evaluación del incidente según la norma ČSN 73 6360 - 2
 
-
 ## Página 16
 
-Anexo n.º 1 – causa del incidente
-### Cojinete defectuoso 
 
+Anexo n.º 1 – causa del incidente
+### Cojinete defectuoso
 
 ## Página 17
 
-### Eje dañado
 
+### Eje dañado
 
 ## Página 18
 
+
 ### Estado del segundo cojinete del eje dañado durante la inspección comisionada
 
-
 ## Página 19
+
 
 ### Anexo n.º 2 – consecuencias del incidente
 ### Vagones descarrilados
 
-
 ## Página 20
+
 
 
 ## Página 21
 
+
 ### Corazón de aguja roto
 
-
 ## Página 22
+
 
 ### Paso a nivel dañado en el km 250,851
 ### Anexo n.º 3 – plano situacional del lugar del incidente
 
-
 ## Página 23
 
-### Anexo n.º 4 – Evaluación del incidente según la norma ČSN 73 6360 - 2
 
+### Anexo n.º 4 – Evaluación del incidente según la norma ČSN 73 6360 - 2
 
 ## Página 24

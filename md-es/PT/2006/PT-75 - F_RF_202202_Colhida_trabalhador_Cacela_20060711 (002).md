@@ -13,6 +13,7 @@ tokens_out: 10000
 fecha_proceso: 2026-11-19
 generador: traducir_md_es.py (traducción IA + verificación numérica)
 verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (PT)", "página 2: original bilingüe: se compara contra el idioma principal (EN)", "página 3: original bilingüe: se compara contra el idioma principal (EN); cifras cortas: 2/4", "página 4: original bilingüe: se compara contra el idioma principal (EN)", "página 5: original bilingüe: se compara contra el idioma principal (EN)", "página 6: original bilingüe: se compara contra el idioma principal (EN)"]
 ---
 
 ## Página 1

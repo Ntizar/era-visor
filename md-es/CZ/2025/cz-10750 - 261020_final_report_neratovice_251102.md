@@ -10,13 +10,14 @@ chars: 138610
 ratio_longitud: 1.26
 tokens_in: 70338
 tokens_out: 50026
-verificacion: revisar
-notas_cifras: ["bloque 1: original bilingüe: se compara contra el idioma principal (EN)", "bloque 5: original bilingüe: se compara contra el idioma principal (CS)", "bloque 10: cifras largas: 1/42", "bloque 11: cifras cortas: 1/47"]
-avisos: ["bloque 5: ratio 1.66"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 6: original bilingüe: se compara contra el idioma principal (CS)", "página 7: original bilingüe: se compara contra el idioma principal (CS)", "página 13: original bilingüe: se compara contra el idioma principal (CS)", "página 15: original bilingüe: se compara contra el idioma principal (CS)", "página 16: original bilingüe: se compara contra el idioma principal (CS)", "página 18: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -39,14 +40,14 @@ IČ: 75009561
 mail@di.gov.cz
 tel.: +420 736 521 003
 
-
 ## Página 2
+
 
 Este informe final es público y todos los hechos en él expuestos están respaldados por el expediente de investigación. 
 La Inspección Ferroviaria no se ocupa, en el marco de la investigación, de la responsabilidad penal o administrativa, y por ello no puede deducirse de este informe final. La investigación se llevó a cabo de forma independiente con el objetivo de determinar las causas y circunstancias de la excepcionalidad.
 
-
 ## Página 3
+
 
 ## 1 RESUMEN
       Fuente: Inspección Ferroviaria
@@ -84,8 +85,8 @@ estación de 1.ª y 2.ª categoría con desvíos conmutados centralmente, o apar
 se evalúa el control del paso del tren tras el último desvío conmutado centralmente, o apartadero, en 
 la ruta de tren, adopten medidas:
 
-
 ## Página 4
+
 
 ◦que, en el caso de cabezas de estación donde es posible la circulación simultánea de varios trenes, 
 garanticen la modificación del dispositivo de modo que se evalúe el paso del tren tras el último desvío 
@@ -97,8 +98,8 @@ operan los dispositivos en cuestión la ausencia de una medida técnica en el di
 incluidas las consecuencias que de ello se derivan y la necesidad de esperar estrictamente, antes de 
 operar el dispositivo, a que el tren que entra libere el punto de empalme trasero.
 
-
 ## Página 5
+
 
 ## SUMMARY
 2nd November 2025, 12:33 (11:33 GMT).
@@ -147,8 +148,8 @@ measure for the specific installation, including the resulting consequences and
 the necessity to strictly wait until the arriving train clears the rear fouling point 
 before operating the equipment.
 
-
 ## Página 6
+
 
 ## Índice
 1 RESUMEN........................................................................................................................3
@@ -193,6 +194,7 @@ riesgos.........................................................................
 
 ## Página 7
 
+
 4.2.2 Factores o consecuencias derivados de la instalación y puesta en servicio de vehículos ferroviarios, infraestructura ferroviaria o instalaciones técnicas......................................38
 4.2.3 Factores o consecuencias relacionados con fabricantes de vehículos ferroviarios u otro proveedor de productos ferroviarios............................................................................39
 4.2.4 Factores o consecuencias derivados del mantenimiento y modificación de vehículos ferroviarios o instalaciones técnicas....................................................................................................39
@@ -222,8 +224,8 @@ y talleres de mantenimiento.....................................................
 6 RECOMENDACIONES DE SEGURIDAD.....................................................................................45
 ANEXOS..............................................................................................................................47
 
-
 ## Página 8
+
 
 ### Lista de siglas y símbolos utilizados
 COP
@@ -312,8 +314,8 @@ paso a nivel
 žst.
 estación de ferrocarril
 
-
 ## Página 9
+
 
 ### Lista de siglas de la legislación, normas y reglamentos internos utilizados
 ley núm. 266/1994 Sb.
@@ -364,16 +366,16 @@ Reglamentos para la operación de instalaciones de enclavamiento
 de estación y de vía», en la redacción vigente desde el 1. 7. 1949,
 ya sin vigencia en el momento de producirse el SE
 
-
 ## Página 10
+
 
 | SŽ TNŽ 34 2620 | SŽ TNŽ 34 2620 «Instalación de enclavamiento ferroviario, Instalaciones de enclavamiento de estación y de vía» en la redacción vigente en el momento de producirse el SE (se refiere a la TNŽ 34 2620 indicada a continuación) |
 | TNŽ 34 2620 | TNŽ 34 2620 «Instalación de enclavamiento ferroviario, Instalaciones de enclavamiento de estación y de vía» en la redacción vigente desde el 1. 7. 2002, ya sin vigencia en el momento de producirse el SE. |
 | ON 34 2620 | ON 34 2620 Reglamentos para las «instalaciones de enclavamiento de estación ferroviaria» en la redacción vigente desde el 1. 5. 1985 (las modificaciones publicadas no afectan al texto del ZZ), ya sin vigencia en el momento de producirse el SE |
 | PTPŽ | reglamento del ministerio federal de transportes ČSD P 1, «Reglas de explotación técnica de los ferrocarriles con otros principios de explotación y técnicos aplicables a las líneas nacionales (PTPŽ)» con vigencia desde el 1. 1. 1978, ya sin vigencia en el momento de producirse el SE |
 
-
 ## Página 11
+
 
 ## 2 LA INVESTIGACIÓN Y SU CONTEXTO
 ### 2.1 Decisión de iniciar la investigación
@@ -420,8 +422,8 @@ análisis de reglamentos y normas históricos en relación con la configuración
 •
 en el marco de la investigación del SE, se realizó un examen de la influencia del factor humano.
 
-
 ## Página 12
+
 
 ### 2.8 Descripción de las dificultades y problemas concretos surgidos durante la investigación
 La DI se encontró, durante la investigación del SE en cuestión, con el hecho de que el gestor de infraestructura SŽ
@@ -473,13 +475,13 @@ en el tramo intermedio adyacente.
 Fig. n.º 1: Esquema del lugar de origen del SU
           Fuente: SŽ, modificación DI
 Del examen del lugar del SU se constató lo siguiente:
-Tras la llegada de DI al lugar de origen del suceso excepcional, se examinó el puesto del jefe de estación (incluido el dispositivo de seguridad y la documentación de tráfico), el puesto del operador de señales St.2 (incluido el dispositivo de seguridad y la documentación de tráfico), la aguja n.º 26 y la parte afectada de la infraestructura en la estación, las partes exteriores del tren Os 9529 (incluida la medición de su posición final), la cabina del maquinista del coche de mando, es decir, del DV del tren (incluidos los elementos de mando, el protector de tren y la estación de radio), y se realizó la corrección de la hora en el registrador de velocidad UniControls – Tramex. Se realizó la prueba de presencia de alcohol a los empleados implicados, con resultado negativo, y asimismo se realizaron, en presencia de DI, declaraciones con los empleados implicados por parte del gestor de la infraestructura.
+Tras la llegada de DI al lugar de origen de la incidencia extraordinaria, se examinó el puesto del jefe de estación (incluido el dispositivo de seguridad y la documentación de tráfico), el puesto del señalero St.º 2 (incluido el dispositivo de seguridad y la documentación de tráfico), el desvío n.º 26 y la parte afectada de la infraestructura en la estación, las partes exteriores del tren Os 9529 (incluida la medición de su posición final), la cabina del maquinista del coche de mando, es decir, del DV del tren (incluidos los elementos de mando, el protector de tren y la estación de radio), y se realizó la corrección de la hora en el velocímetro UniControls – Tramex. Se realizó la prueba de presencia de alcohol a los empleados implicados con resultado negativo y, asimismo, en presencia de DI, el operador ferroviario realizó declaraciones con los empleados implicados.
 Estado del material rodante:
-El tren Os 9529 (Mělník – Praha hl. n.) del transportista ČD estaba formado por el coche de mando n.º CZ-ČD 50 54 80-29 208-3 (en adelante también ŘV) ABfbdtn795 (anteriormente ŘV de la serie 954) y la locomotora n.º CZ-ČD 95 54 5 854 027-0 (en adelante también HDV). El principio y el final del tren estaban señalizados con las señales prescritas. El tren Os 9529 tenía, según el Informe de frenado, una longitud de 50 m (8 ejes), una masa total de 102 t, un porcentaje de frenado necesario del 104 %, un porcentaje de frenado real del 132 % y estaba frenado por el método de frenado I en el modo de frenado R; la velocidad establecida según el Horario de circulación tabular era de 120 km·h-1. El tren era conducido desde la cabina del maquinista en el ŘV. En la caja del ŘV, la palanca del conmutador del modo de frenado estaba en la posición «R». El conmutador del HDV estaba en el modo de frenado «R». No se detectaron anomalías en el enganche del DV del tren.
-El frente del tren Os 9529 se encontraba en la vía de estación n.º 2 en el km 34,374, es decir, a 117,6 m detrás de la punta de la aguja n.º 26 en el extremo de Všetaty. El primer DV (ŘV) no se había descarrilado, el segundo DV (HDV) se había descarrilado con los ejes 1.º y 2.º (bogí «b») a la izquierda en el sentido de la marcha y con los ejes 3.º y 4.º (bogí «a») a la derecha en el sentido de la marcha (véase Fig. n.º 2). El HDV estaba inclinado y apoyado sobre la señal de salida L1 (véase Fig. n.º 3) e invadía el perfil de rodadura de la vía
-
+El tren Os 9529 (Mělník – Praha hl. n.) del transportista ČD estaba formado por el coche de mando n.º CZ-ČD 50 54 80-29 208-3 (en adelante también ŘV) ABfbdtn795 (anteriormente ŘV de la serie 954) y el HDV n.º CZ-ČD 95 54 5 854 027-0 (en adelante también HDV). El principio y el final del tren estaban señalizados con las señales prescritas. El tren Os 9529 tenía, según el Informe de frenado, una longitud de 50 m (8 ejes), una masa total de 102 t, un frenado necesario del 104 %, un frenado real del 132 % y estaba frenado por el 1.er modo de frenado en el régimen de frenado R; la velocidad establecida según el Horario de circulación tabular era de 120 km·h-1. El tren era conducido desde la cabina del maquinista en el ŘV. En la caja del ŘV, la manija del conmutador del régimen de frenado estaba en la posición «R». El conmutador del HDV estaba en el régimen de frenado «R». En la suspensión del DV del tren no se detectaron anomalías.
+El frente del tren Os 9529 se encontraba en la 2.ª vía de estación en el km 34,374, es decir, a 117,6 m detrás de la punta del desvío n.º 26 en la cabecera de Všetaty. El primer DV (ŘV) no se había descarrilado, el segundo DV (HDV) se había descarrilado por los ejes 1.º y 2.º (bogí «b») a la izquierda en el sentido de circulación y por los ejes 3.º y 4.º (bogí «a») a la derecha en el sentido de circulación (véase Fig. n.º 2). El HDV estaba inclinado y apoyado sobre la señal de salida L1 (véase Fig. n.º 3) e invadía el perfil de paso del contiguo
 
 ## Página 14
+
 
 1. contigua (entre la señal L1 y la aguja n.º 26). El final del tren se encontraba en el km 34,424 en el espacio entre la vía 1.ª y la 2.ª.
 En el ŘV estaba dañado el paso transversal. En el HDV estaban dañados: todas las ruedas de todos los bogíes, el cuna de suspensión del bogí delantero destruida, los pasadores centrales de guía de los bogíes, los muelles de los bogíes del bogí delantero, la palanca de freno, los enganches de emergencia, las cajas de engranajes de los bogíes 1.º y 2.º, el borde inferior del rastrillo principal (arado), el soporte de enganche VZ LS, los captadores VZ LS, los depósitos del dispositivo de arenado, la chapa del larguero izquierdo, la caja de distribución eléctrica del cable de la válvula EP antideslizamiento, los largueros del bastidor del techo del bogí delantero, el larguero izquierdo del bastidor del vehículo junto al bogí trasero. La parte delantera del vehículo presentaba signos de flexión, la goterón dañado por ambos lados del vehículo. Sospecha de deformación de la carrocería en la parte delantera del vehículo, visible principalmente en el interior, en el espacio de equipajes.
@@ -505,8 +507,8 @@ Para el examen de la vía se procedió en el sentido de la marcha del tren Os 95
 La aguja n.º 26 (véase Fig. n.º 4) estaba, en el momento del examen, accionada en la posición final en el sentido recto (es decir, hacia la 1.ª VE). El accionador no estaba dañado. En ambas puntas de los raíles de la aguja n.º 26 no se encontraron rastros de impacto. En la aguja eran visibles rastros del descarrilamiento del DV (véase Fig. n.º 5).
 De los rastros continuos de descarrilamiento encontrados entre los carriles de apoyo y los raíles, era evidente que se habían descarrilado dos ejes. El primer rastro de descarrilamiento – el salto de la rueda izquierda del carril de apoyo – se encontró a 6,9 m de la punta del raíl de la aguja n.º 26, es decir, en el km 34,485.
 
-
 ## Página 15
+
 
 Tras finalizar el examen de los rastros de descarrilamiento del DV, un empleado de SŽ realizó, en presencia de DI, una prueba de enclavamiento en la aguja n.º 26, con el resultado – conforme.
 Delante de la aguja n.º 26 (en el sentido de marcha del tren en cuestión) no se encontraron rastros de descarrilamiento. Las agujas n.º 29, 30 y 31 estaban accionadas en la posición básica (para la circulación del tren desde la estación de Všetaty hacia la aguja n.º 26).
@@ -536,29 +538,30 @@ Durante el examen se midió la posición en km de los siguientes puntos:
 | Final del ŘV/inicio del HDV | 93,2 | 34,398 |
 | Inicio del tren (frente del ŘV) | 117,6 | 34,374 |
 
-
 ## Página 16
 
-Estado del dispositivo de seguridad:
-En la estación de Neratovice había un SZZ electromecánico con señales luminosas y, en la parte afectada de la infraestructura, agujas con accionadores eléctricos. Se trataba de un dispositivo de 2.ª categoría (según SŽ TNŽ 34 2620). El SZZ era operado por el jefe de estación y 2 operadores de señales de la estación de Neratovice. Para la detección de vehículos ferroviarios en el extremo de Všetaty se utilizaron circuitos de vía con una frecuencia de 275 Hz para los tramos V106, V30/31/Vk2, S1K. El circuito de responsabilidad por la libertad de la vía de tren (en adelante también VC) está designado en el RVT como «III. Circuito del operador de señales St.2», y el método de comprobación de la libertad en el funcionamiento correcto del SZZ como «mediante la observación de los elementos indicadores y mediante la observación en la vía».
-En el puesto de mando 2 (en adelante también St.2):
-En el indicador de vías del aparato de agujas del puesto de mando St.2 (en adelante solo aparato de agujas) para los itinerarios desde/hacia Všetaty en la 1.ª VE o la 2.ª VE no se mostraba ningún número de vía.
-Los enclavamientos de vía estaban en la posición básica (vertical).
-La llave de aguja de la aguja n.º 26 estaba (véase Fig. n.º 8) accionada en la posición «más» (es decir, hacia la 1.ª VE). La llave de aguja de la aguja n.º 29 estaba accionada en la posición «más». La llave de aguja del par de agujas n.º 106/31 estaba accionada en la posición «más». La llave de aguja de la aguja n.º 30 y del desvío Vk2 (designado Vk2/30) estaba accionada en la posición «más». La indicación de la posición final de las agujas en la placa indicadora n.º 1 (véase Fig. n.º 6) correspondía a la posición de los elementos de mando del SZZ anteriormente indicados – todas las agujas (desvíos) mencionadas indicaban la posición final «más». Los precintos del equipo de emergencia de las agujas n.º 106/31 y Vk2/30 no estaban violados.
+Estado del aparato de seguridad:
+En la estación de Neratovice había un AES electromecánico con señales luminosas y, en la parte afectada de la infraestructura, con agujas con motores eléctricos de cambio. Se trataba de un aparato de 2.ª categoría (según SŽ TNŽ 34 2620). El AES era operado por el jefe de estación y 2 señaleros de la estación de Neratovice.
+Para la detección de vehículos ferroviarios en la cabecera de Všetaty se utilizaron circuitos de vía con una frecuencia de 275 Hz para los tramos V106, V30/31/Vk2, S1K. El circuito de responsabilidad por la libertad de la vía de tren (en adelante también VC) está designado en el Reglamento de Circulación como «III. Circuito del señalero St.2», el modo de comprobar la libertad en funcionamiento correcto del AES «mediante la observación de los elementos indicadores y mediante la observación en la vía».
+En el enclavamiento 2 (en adelante también St.2):
+En el contador de vías del aparato de agujas del enclavamiento St.2 (en adelante solo aparato de agujas) para los itinerarios desde/hacia Všetaty a la 1.ª vía principal o a la 2.ª vía principal no se mostraba ningún número de vía.
+Los cerrojos de vía estaban en la posición base (vertical).
+La llave de aguja de la aguja n.º 26 estaba (véase Fig. n.º 8) conmutada a la posición «más» (es decir, a la 1.ª vía principal). La llave de aguja de la aguja n.º 29 estaba conmutada a la posición «más». La llave de aguja del par de agujas n.º 106/31 estaba conmutada a la posición «más». La llave de aguja de la aguja n.º 30 y del desvío Vk2 (designado Vk2/30) estaba conmutada a la posición «más». La indicación de la posición final de las agujas en la placa indicadora n.º 1 (véase Fig. n.º 6) correspondía a la posición de los elementos de mando del AES anteriormente indicados – todas las agujas (desvíos) indicadas señalaban la posición final «más». Los precintos del equipo de emergencia de las agujas n.º 106/31 y Vk2/30 no estaban violados.
 El precinto del botón «Anulación de la vía de tren» no estaba violado.
 El amperímetro indicaba un consumo de 0 A.
-Los enclavamientos de barrera en el aparato de agujas estaban en la posición básica:
-La barrera de señal S desde Všetaty estaba cerrada (obturador rojo), la tope de barrera S desde Všetaty estaba cerrado (obturador negro);
+Los enclavamientos de aguja en el aparato de agujas estaban en la posición base:
+La señal de enclavamiento S desde Všetaty estaba cerrada (obturador rojo), el tope de enclavamiento S desde Všetaty estaba cerrado (obturador negro);
 El enclavamiento de agujas desde/hacia Všetaty estaba liberado (obturador blanco – permitía la operación de las agujas);
-Las barreras de señal designadas L2, L1, L3-7,17-19 hacia Všetaty estaban cerradas (obturador rojo), el tope de barrera L hacia Všetaty estaba cerrado (obturador negro).
-Los precintos de los enclavamientos de barrera no estaban violados.
-La llave de la señal de entrada S (desde Všetaty) estaba en la posición básica (en la posición que prohíbe la circulación del tren).
-En el momento del examen no estaba establecido ningún itinerario. En la placa indicadora brillaba la luz roja en la maqueta de la señal de entrada S, que indicaba la señal Alto en la señal correspondiente.
-Las pilotos indicadoras de ocupación de los tramos de vía en el relieve de la vía indicaban la libertad de todos los tramos equipados con medios de comprobación de la libertad, es decir, de los tramos: V106, V30/31/Vk2, S1K y de la línea (etiqueta Ocupación de la línea, véase Fig. n.º 9).
-Se documentó el estado, incluidos los elementos indicadores en la caja de mando del paso a nivel «E» en el km 34,645 (es decir, ŽP P2671), véase Fig. n.º 7.
-En el Registro de averías del equipo de comunicaciones y de seguridad no constaban registros relacionados con el SU.
+Las señales de enclavamiento designadas L2, L1, L3-7,17-19 hacia Všetaty estaban cerradas (obturador rojo), el tope de enclavamiento L hacia Všetaty estaba cerrado (obturador negro).
+Los precintos de los enclavamientos de aguja no estaban violados.
+La llave de la señal de entrada S (desde Všetaty) estaba en la posición base (en la posición que prohíbe la marcha del tren).
+En el momento de la inspección no estaba establecido ningún itinerario. En la placa indicadora brillaba la luz roja en la maqueta de la señal de entrada S, que indicaba la señal «Alto» en la señal correspondiente.
+Las bombillas indicadoras de ocupación de los tramos de vía en el relieve de la vía indicaban la libertad de todos los tramos dotados de medios para el control de libertad, es decir, de los tramos: V106, V30/31/Vk2, S1K y de la línea (etiqueta «Ocupación de la línea», véase Fig. n.º 9).
+Se documentó el estado, incl. los elementos indicadores en el armario de mando del paso a nivel «E» en el km 34,645 (es decir, ŽP P2671), véase Fig. n.º 7.
+En el Registro de averías del equipo de comunicaciones y de seguridad no constaban registros relacionados con el MU.
 
 ## Página 17
+
 
 En la oficina de tráfico (en adelante también DK):
 En el aparato de mando de la oficina de tráfico, el mando deslizante (cursor) y el enclavamiento direccional para la circulación desde/hacia Všetaty estaban en posición base (sin determinación de vía y dirección).
@@ -598,8 +601,8 @@ En el MU, el daño causado en los vehículos ferroviarios, en los componentes de
 *) La cuantía del daño a la fecha de publicación del II no era definitiva.
 No se causó daño en las cosas transportadas, equipajes ni otros bienes.
 
-
 ## Página 18
+
 
 ### 3.1.5 Descripción de otras consecuencias, incluido el impacto del suceso en las actividades habituales de los sujetos implicados
 Como consecuencia de la aparición del MU, se interrumpió la circulación entre la estación Neratovice y la estación Brandýs nad Labem desde las 12:34 h hasta las 13:00 h. La explotación del transporte ferroviario entre la estación Neratovice y la estación Všetaty se interrumpió desde las 12:34 h hasta las 14:25 h. La totalidad de la circulación se restableció sin restricciones en la 1.ª y 2.ª vía principal y en la aguja n.º 26 el día 4. 11. 2025 a las 14:45 h.
@@ -638,8 +641,8 @@ El titular del MRD y del MD eran ČD;
 •
 En el tren viajaban 30 pasajeros.
 
-
 ## Página 19
+
 
 El vehículo de cabeza, respectivamente el MRD, estaba equipado en el momento de la aparición del MU con un registrador de velocidad electrónico UniControls – Tramex, tipo RE1xx, número de serie 8062, en funcionamiento.
 Del análisis de los datos registrados por el registrador de velocidad UniControls – Tramex se desprende:
@@ -742,91 +745,111 @@ El texto resaltado en azul contiene datos calculados.
 La velocidad máxima permitida del tren de 40 km.h-1 fue superada hasta en 7 km.h-1. El protector de tren LS06 estaba activado en el modo «Explotación» y fue operado durante la circulación del tren. El protector de tren ETCS estaba en posición apagado.
 El día 14. 11. 2025 se realizó una comprobación pericial del estado técnico del MD y del MRD tras el MU, con la conclusión de que se encontraban en conformidad con el anexo n.º 6 del decreto n.º 173/1995 Sb.
 
-
 ## Página 20
 
-### 3.1.8 Descripción de las partes pertinentes de la infraestructura y del sistema de enclavamiento
-El tramo entre la estación Všetaty y la estación Neratovice se sitúa en la vía de una sola vía Enlace Skály – Turnov (según TTP 537). Está protegido por un enclavamiento de vía de 3.ª categoría (según SŽ TNŽ 34 2620) – mediante un enclavamiento automático tipo AH-88, sin señales de sección. La vía no estaba (a excepción de la estación Všetaty) equipada con VZ LS ni con ETCS. La comunicación radio básica en el tramo de vía Všetaty – Neratovice era la red GSM-R.
-La vía en el lugar del MU, en la cabecera de Všetaty de la estación Neratovice, discurría en dirección de la circulación del tren Os 9529 en un arco suave a la derecha, a la cota del terreno circundante, y descendía con una pendiente de 4,9 ‰.
-En el lugar del MU, según la TTP, la velocidad de vía era de 55 km.h-1, si bien la velocidad de circulación del tren Os 9529 estaba además limitada por la señal de la señal de entrada S a 40 km.h-1 (en la ruta de entrada de tren desde dicha señal hacia la 2.ª vía principal).
-La estación Neratovice estaba equipada con un enclavamiento de estación de 2.ª categoría (según SŽ TNŽ 34 2620) – un enclavamiento electromecánico modelo 5007 con señales luminosas (puesto en servicio en el año 1981).
-Las agujas recorridas (en la ruta de tren desde la estación Všetaty hacia la 2.ª vía principal) en dirección de la circulación del tren Os 9529 n.º 31, 30, 29 y 26 eran maniobradas centralmente por un maniobrador eléctrico por la operadora de enclavamiento St.2 de la estación Neratovice mediante llaves de aguja de dos posiciones. La indicación de la posición final de las agujas estaba en el panel de indicación St.2 rotulado «Panel de indicación n.º 1» (véase Fig. n.º 6). Las agujas n.º 29 y 26 no estaban provistas de un dispositivo que evalúe la presencia de un vehículo ferroviario en el tramo vigilado (circuito de vía – en adelante también CV). La evaluación del paso por el punto de control en dirección de la circulación del tren se realizaba mediante un par de circuitos de vía paralelos S1K y V30/31/Vk2; no se establecieron más circuitos de vía (véase Fig. n.º 9). El enclavamiento de estación no estaba equipado con un dispositivo de registro de datos.
-Justo antes del lugar del MU, en dirección de la circulación del tren, se encontraba el PC P2671 en el km 34,645. El PC de dicho PC y el enclavamiento de estación de la estación Neratovice eran mutuamente dependientes. El PC estaba equipado con un dispositivo de registro de datos. El PC de categoría PZS 3ZNI fue puesto en servicio en el año 2002. En la inspección del lugar del MU, el PC presentaba un funcionamiento correcto. La advertencia luminosa se emitía mediante dos luces rojas intermitentes alternas de la señal del PC, y la advertencia acústica del PC estaba en funcionamiento.
-Análisis de los datos registrados de las operaciones del enclavamiento de estación y del PC
- PC P2671
-| Hora sin corrección (h) | Descripción de los sucesos seleccionados |
+### 3.1.8 Descripción de las partes pertinentes de la infraestructura y del sistema de señalización
+El tramo de la estación de Všetaty – estación de Neratovice se encuentra en la línea de vía única Výhybna Skály – Turnov 
+(según TTP 537). Está protegido por TZZ de 3.ª categoría (según SŽ TNŽ 34 2620) – con 
+enclavamiento automático tipo AH-88, sin señales de bloqueo de sección. La línea no estaba (a excepción de la estación de Všetaty) equipada 
+ni con VZ LS ni con ETCS. La comunicación radiofónica básica en el tramo de la línea Všetaty – Neratovice era sobre la red 
+GSM-R.
+La línea en el punto del MU en la cabecera de la estación de Neratovice del lado de Všetaty transcurría, en el sentido de circulación del tren Os 9529, 
+en un arco suave a la derecha a la altura del terreno circundante y descendía con una pendiente 
+de 4,9 ‰. 
+En el punto del MU, según el TTP, la velocidad máxima de la línea era de 55 km.h-1, mientras que la velocidad de circulación del tren Os 9529 
+estaba además limitada por la indicación de la señal de entrada S a 40 km.h-1 
+(entrando en la vía de tren n.º 2 desde esta señal). 
+La estación de Neratovice estaba equipada con SZZ de 2.ª categoría (según SŽ TNŽ 34 2620) – 
+con aparato de señalización electromecánico modelo 5007 con señales luminosas 
+(puesto en servicio en el año 1981).
+Los desvíos recorridos (en la vía de tren desde la estación de Všetaty a la vía n.º 2) en el sentido de circulación del tren 
+Os 9529 n.º 31, 30, 29 y 26 eran maniobrados centralmente por un conmutador eléctrico 
+por el operador de señalización St.2 de la estación de Neratovice mediante llaves de cambio de dos posiciones. 
+La indicación de la posición final de los desvíos estaba en la placa de indicación St.2 denominada «Placa de indicación n.º 1» 
+(ver Fig. n.º 6). Los desvíos n.º 29 y 26 no estaban provistos de un dispositivo que evaluara 
+la presencia de un vehículo ferroviario en el tramo vigilado (mediante circuito de vía – en adelante también KO). 
+La evaluación del paso por el punto de control en el sentido de circulación del tren se realizaba mediante un par 
+de circuitos de vía paralelos S1K y V30/31/Vk2; no se establecieron más circuitos de vía (ver Fig. n.º 9). El SZZ no estaba 
+equipado con dispositivo de registro de datos.
+Justo antes del punto del MU, en el sentido de circulación del tren, se encontraba el paso a nivel ŽP P2671 en el km 34,645. 
+La protección de este paso a nivel (PZZ) y el SZZ de la estación de Neratovice eran 
+mutuamente dependientes. El PZZ estaba equipado con dispositivo de registro de datos. El PZZ de categoría PZS 3ZNI fue 
+puesto en servicio en el año 2002. 
+Durante la inspección del punto del MU, el PZZ mostraba un funcionamiento correcto. La advertencia luminosa se emitía 
+mediante dos luces rojas intermitentes alternas de la señal del PZZ y la advertencia acústica del PZZ estaba 
+en funcionamiento.
+Análisis de los datos registrados del funcionamiento del SZZ y del PZZ 
+ ŽP P2671
+| Hora sin corrección (h) | Descripción de los eventos seleccionados |
 | 12:30:39 | liberación del enclavamiento de la señal de entrada S por el jefe de estación 1 |
-| 12:30:40 | activación del relé de disparo (inicio de la advertencia y, en consecuencia, medida del tiempo de preaviso del PC) |
-| 12:31:20 | cierre de las barreras del PC |
-| 12:33:13 | cierre del enclavamiento de la señal de entrada S por la operadora de enclavamiento St.2 (tras la activación de la tope de enclavamiento con la liberación del CV V30/31/Vk2 por la cola del tren) |
-| 12:33:19 | pulsación del botón en la caja de mando del paso a nivel «E» (PC P2671) en St.2 por la operadora de enclavamiento St.2 |
-| 12:33:32 | apertura de las barreras y finalización de la advertencia del PC tras la pulsación del botón en la caja de mando del PC P2671 (véase Fig. n.º 7) por la operadora de enclavamiento St.2 (a las 12:33:19 h) |
-| Tabla n.º 1: Análisis de los datos registrados de las operaciones del enclavamiento de estación y del PC P2671 . . |  |
-
+| 12:30:40 | activación del relé de disparo (inicio de la advertencia y, en consecuencia, medición del tiempo de preaviso del PZZ) |
+| 12:31:20 | cierre de las barreras del PZZ |
+| 12:33:13 | cierre del enclavamiento de la señal de entrada S por la operadora de señalización St 2 . (tras asegurar el tope del enclavamiento con la liberación del KO V30/31/Vk2 por el final del tren) |
+| 12:33:19 | pulsación del botón en el armario de mando del paso a nivel E“ (ŽP P2671) en St 2 “ por la operadora de señalización St 2 . |
+| 12:33:32 | apertura de las barreras y finalización de la advertencia del PZZ en base a la pulsación del botón en el armario de mando del ŽP P2671 (ver Fig. n.º 7) por la operadora de señalización St 2 . . . (a las 12:33:19 h) |
+| Tabla n.º 1: Análisis de los datos registrados del funcionamiento del SZZ y del PZZ ŽP P2671 . . |  |
 
 ## Página 21
 
-El día 16. 12. 2025 se realizó en St.2 de la estación Neratovice, por parte de DI, la verificación del tiempo de establecimiento de la ruta de entrada, de los pasos de trenes junto a St.2 y de la posterior cancelación de la ruta en la 2.ª vía principal desde la estación Všetaty.
-Tiempo medio de duración de las operaciones realizadas por la operadora de enclavamiento St.2
-Hora de inicio
-Hora de fin
-Tiempo
-de la grabación
-de la grabación
-medido
+El 16. 12. 2025 se llevó a cabo en DI en la St.2 de la est. Neratovice la verificación del tiempo de establecimiento de la VC de entrada, el paso de los trenes junto a la St.2 y la posterior anulación de la VC en la 2. SK desde la est. Všetaty.
+Tiempo medio de duración de las actuaciones realizadas por la señalista de la St.2
+Hora de inicio 
+Hora de fin 
+tiempo 
+del registro 
+del registro 
+de la acción
+medido (s)
 de vídeo (min)
 de vídeo (min)
-de la acción (s)
 00:06
 00:25
 19
-preparación de la ruta, incl. el cambio de la aguja n.º 26 con comprobación 
-de la posición final
+preparación de la VC, incl. el cambio de la aguja n.º 26 con comprobación de la posición terminal
 00:28
 00:44
 16
-desde la activación de la HZ (la cola del tren abandonó el CV 
-V30/31/Vk2) hasta el paso de la cola del tren junto a St.2
+desde la liberación de la HZ (el final del tren abandonó el KO V30/31/Vk2) hasta el paso del final del tren junto a la St.2
 00:44
 00:55
 11
-desde el paso de la cola del tren junto a St.2 hasta la liberación 
-del tope de la aguja n.º 26*
+desde el paso del final del tren junto a la St.2 hasta la liberación del tope de la aguja n.º 26*
 00:55
 01:00
 5
-tiempo de operación del enclavamiento de estación por la operadora de enclavamiento* con la operación de la llave de la señal de entrada S y el cierre del enclavamiento de la señal S junto con la HZ (sin operar el PZS, el enclavamiento de vía ni la llave de aguja de la aguja n.º 26)
+tiempo de servicio de la SZZ por la señalista* mediante el manejo de la llave de señalización de la señal de entrada S y el cierre de la barrera de señalización S junto con la HZ (sin el manejo de la PZS, del cerrón de vía y de la llave de cambio de la aguja n.º 26)
 01:01
 01:06
 5
-liberación del enclavamiento de agujas por el jefe de estación (a continuación es técnicamente posible operar el enclavamiento de vía y, posteriormente, cambiar la aguja n.º 26 a la posición base en la 1.ª vía principal)
+liberación del bloqueo de cambios por el jefe de estación (posteriormente es técnicamente posible atender el cerrón de vía y a continuación cambiar la aguja n.º 26 a la posición básica en la 1. SK)
 ‍01:00
 01:07
 7
-orden para la apertura propiamente dicha del paso a nivel (giro de la operadora de enclavamiento desde el aparato de agujas hacia la ventana y pulsación del botón en la caja de mando del paso a nivel «E» (PC P2671), véase Fig. n.º 7)
+orden para la apertura propiamente dicha del paso a nivel (giro de la señalista desde el aparato de agujas hacia la ventana y pulsación del botón en el cuadro de mando del paso a nivel "E" (ŽP P2671), véase Fig. n.º 7)
 01:07
 01:10
 3
-giro de la operadora de enclavamiento de vuelta hacia el aparato de agujas para su posterior operación
+giro de la señalista de vuelta hacia el aparato de agujas para su posterior manejo
 01:10
 01:14
 4
-cambio del enclavamiento de vía y de la llave de aguja de la aguja n.º 26 a la posición base (sin comprobación de su posición final)
+cambio del cerrón de vía y de la llave de cambio de la aguja n.º 26 a la posición básica (sin comprobación de su posición terminal)
 01:10
 01:16
 6
-cambio del enclavamiento de vía y de la llave de aguja de la aguja n.º 26 a la posición base (incl. la comprobación de su posición final)
+cambio del cerrón de vía y de la llave de cambio de la aguja n.º 26 a la posición básica (incl. comprobación de su posición terminal)
 00:55
 01:16
 21
-operación del enclavamiento de estación, incl. el cambio de la aguja n.º 26 (incl. la orden para la apertura del paso a nivel)
-* tras el cumplimiento de las condiciones para la cancelación de la ruta establecidas por las normas SŽ D1 y SŽ Z1 (la cola del tren liberó el tope de la última aguja recorrida a la distancia establecida).
-Tabla n.º 2: Tiempo medio de duración de las operaciones relacionadas con el establecimiento y la cancelación de la ruta.
+servicio de la SZZ, incl. el cambio de la aguja n.º 26 (incl. la orden para la apertura del paso a nivel)
+* una vez cumplidas las condiciones para la anulación de la VC establecidas por las normas SŽ D1 y SŽ Z1 (el final del tren ha liberado el tope de la última aguja transitada a la distancia establecida).
+Tabla n.º 2: Tiempo medio de duración de las actuaciones relacionadas con el establecimiento y la anulación de la VC.
 Nota.
-Los tiempos indicados son orientativos y están influenciados por la velocidad de operación del empleado concreto y por la velocidad del tren.
-El análisis de la operación del enclavamiento de estación por la operadora de enclavamiento St.2 en el momento de la aparición del MU se indica en el punto 4.1.1 de este II.
+Los tiempos indicados son orientativos y están influenciados por la velocidad de servicio del empleado concreto y por la velocidad del tren.
+El análisis del servicio de la SZZ por la señalista de la St.2 en el momento de la aparición de la MU se indica en el punto 4.1.1 de la presente ZZ.
 
 ## Página 22
+
 
 ### 3.1.9 Cualquier otra información relevante para los fines de la descripción del suceso y de la información básica
 Resumen de las explicaciones prestadas por los empleados del gestor de la infraestructura y del transportista, incluidas las personas con relación contractual:
@@ -858,31 +881,31 @@ operadora de enclavamiento St.2
 ◦durante la baja por maternidad/paternidad (nota DI: desde el año 2022 hasta el 1. 9. 2025) trabajó con acuerdo de actividad laboral (DPČ) como operadora de enclavamiento en la est. Mělník y en la est. Neratovice;
 ◦unos días antes del suceso extraordinario (29. 10. 2025) se enteró de que perdería su empleo debido a la modernización del aparato de enclavamiento. Fue una situación
 
-
 ## Página 23
 
-difícil para ella, ya que tiene dos hijos pequeños y los cría sola. Era la única persona con ingresos en el hogar;
-◦dado que era domingo, no había tanto trabajo y la persona dispone de más tiempo para pensar en la pérdida del empleo;
-◦por lo que respecta a la salud, se sentía bien y, en cuanto a su situación personal, a pesar de lo anterior, no se consideraba incapacitada para el desempeño de su trabajo;
-◦antes del turno estaba con los hijos. Se dedicó a las tareas domésticas habituales, no realizó ninguna trabajo físico exigente;
+ni situación complicada, ya que tiene dos hijos pequeños y los cría sola. Era la única persona con ingresos en el hogar;
+◦dado que era domingo, no había tanto trabajo, la persona tiene más tiempo para pensar en la pérdida del empleo;
+◦se sentía bien de salud y, en lo que respecta a su situación personal, no se sentía, a pesar de lo anteriormente expuesto, incapaz de desempeñar su trabajo;
+◦antes del turno estaba con los hijos. Se dedicaba a las tareas domésticas habituales, no realizaba ningún trabajo físico exigente;
 ◦la preparación de la vía de tren se realiza habitualmente de la siguiente manera:
-«Por teléfono recibo la orden del jefe de estación de establecer la vía de tren para la circulación del tren hacia la estación o desde la estación. Yo hago todo lo que me corresponde, compruebo mi sector. Dado que nosotros en el enclavamiento n.º 2 tenemos las barreras conectadas al enclavamiento de señal, no opero las barreras al establecer la vía de tren. Compruebo la libertad de la vía de tren, cambio las agujas al sentido requerido. Aseguro la vía de tren y establezco la señal.»;
-◦tras la liberación del tope de enclavamiento a la entrada del tren Os 9529 en la vía 2, colocó la manija de enclavamiento en posición básica, «cerró tras el tren» (nota DI: realizó el cierre del enclavamiento de señal junto con el tope de enclavamiento);
-◦el jefe de estación liberó el bloqueo de agujas;
-◦cambió la aguja n.º 26 para la salida del tren desde la vía 1 hacia la est. Všetaty (nota DI: aunque sin orden telefónica para la preparación de la vía de tren para la salida del tren desde la vía 1, la posición básica de la aguja n.º 26 estaba también en la 1.ª VK);
-◦a la pregunta: «¿Ha seguido la circulación del tren Os 9529? ¿Ha visto las señales de fin de tren del tren Os 9529 antes de comenzar a liberar la vía de tren?», respondió: «Probablemente no. No esperé al final del tren.»;
-◦no sabe cuál fue el motivo de esa actuación, es decir, el comienzo prematuro de la operación del aparato de enclavamiento de estación al liberar la vía de tren de entrada;
-◦anteriormente no actuaba de esa manera;
-◦justo antes de la aparición del suceso extraordinario no realizaba ninguna otra actividad que no estuviera directamente relacionada con el desempeño del servicio de tráfico;
-◦era consciente de que la aguja n.º 26 comenzaría a cambiar en cuanto girara la manija de agujas;
-◦las agujas n.º 31 y 30 están dotadas de indicación de ocupación, las agujas n.º 29 y 26 no disponen de esta indicación de ocupación;
-◦comunicó la aparición del suceso extraordinario de inmediato, no recuerda por qué vía de comunicación, en todo caso se trataba de una comunicación ferroviaria (teléfono);
-◦el aparato de enclavamiento de estación estaba en buen estado antes de la aparición del suceso extraordinario el 2. 11. 2025;
-◦se llevaba excelentemente con los compañeros en la estación Neratovice.
-El lugar del suceso extraordinario no estaba monitorizado por un sistema de videovigilancia con grabación.
+"Recibo por teléfono la instrucción del jefe de estación para establecer la vía de tren para la circulación del tren hacia la estación o desde la estación. Yo hago todo lo que tengo que hacer, compruebo mi circuito. Dado que en el puesto de maniobras n.º 2 tenemos los barreras conectadas al enclavamiento de señales, no opero las barreras al establecer la vía de tren. Compruebo la libertad de la vía de tren, cambio los desvíos en la dirección requerida. Aseguro la vía de tren y coloco la señal.";
+◦tras asegurar el tope de enclavamiento a la entrada del tren Os 9529 en la vía 2, colocó la manija de señales en posición básica, "cerró detrás del tren" (nota DI: realizó el cierre del enclavamiento de señales junto con el tope de enclavamiento);
+◦el jefe de estación liberó el bloqueo de los desvíos;
+◦cambió el desvío n.º 26 para la salida del tren desde la vía 1 hacia la est. Všetaty (nota DI: aunque sin orden telefónica para la preparación de la vía de tren para la salida del tren desde la vía 1, la posición básica del desvío n.º 26 también estaba en la 1. SK);
+◦a la pregunta: "¿Observó la circulación del tren Os 9529? ¿Vio las señales de fin de tren del tren Os 9529 antes de comenzar a liberar la vía de tren?" Respondió: "Probablemente no. No esperé al final del tren.";
+◦no sabe cuál fue el motivo de esa actuación, es decir, el comienzo prematuro de la operación del dispositivo de enclavamiento de estación al liberar la vía de tren de entrada;
+◦anteriormente no actuaba así de decididamente;
+◦justo antes de la aparición del MU no realizaba ninguna otra actividad que no estuviera directamente relacionada con el desempeño del servicio de tráfico;
+◦era consciente de que el desvío n.º 26 comenzaría a cambiarse en cuanto girara la manija de desvío;
+◦los desvíos n.º 31 y 30 están equipados con indicación de ocupación, los desvíos n.º 29 y 26 no tienen esta indicación de ocupación;
+◦comunicó la aparición del MU inmediatamente, no recuerda en qué enlace se trató, en todo caso se trataba de un enlace ferroviario (teléfono);
+◦el dispositivo de enclavamiento de estación estaba en buen estado antes de la aparición del MU el 2. 11. 2025;
+◦se llevaba muy bien con los colegas en la estación de Neratovice.
 
+El espacio en el lugar del MU no estaba monitorizado por un sistema de cámaras con grabación.
 
 ## Página 24
+
 
 Transcripción de la comunicación jefe de estación est. Neratovice – operadores de enclavamiento St.1 y St.2:
 | Iniciodelallamada(sincorrección):2 11 2025 12:29:54h Duracióndelagrabación:9s . . , |  |
@@ -920,61 +943,60 @@ el final del tren liberó el KO V30/31/Vk2, con lo que se produjo la liberación
 12:33 h
 la operadora de enclavamiento St.2 realizó la apertura del paso a nivel mediante la operación del botón en el armario de control del paso a nivel «E» (ŽP P2671) y el cambio del cerrallíneas y, a continuación, de la aguja n.º 26 a posición básica.
 
-
 ## Página 25
 
-### 3.2.2 Secuencia de hechos desde la aparición del suceso extraordinario hasta la finalización de las acciones de los servicios de emergencia
+### 3.2.2 Cronología de hechos desde la aparición del suceso hasta la finalización de las acciones de los servicios de rescate
 •
 12:33 h
-aparición del suceso extraordinario;
+aparición del suceso;
 •
 12:34 h
-la operadora de enclavamiento St.2 comunicó la aparición del suceso extraordinario al jefe de estación 1 de la est. Neratovice;
+la señalera St.2 comunicó la aparición del suceso al jefe de estación 1 de la est. Neratovice;
 •
 12:35 h
-el jefe de estación 1 de la est. Neratovice comunicó la aparición del suceso extraordinario a la alarma de accidente PO Kralupy nad Vltavou;
-a continuación, el maquinista del tren Os 9529 (tras comprobar el estado de salud de los pasajeros) comunicó verbalmente la aparición del suceso extraordinario al jefe de estación 2 de la est. Neratovice que estaba fuera;
+el jefe de estación 1 de la est. Neratovice comunicó la aparición del suceso al servicio de guardia de accidentes PO Kralupy nad Vltavou;
+posteriormente, el maquinista del tren Os 9529 (tras comprobar el estado de salud de los pasajeros) comunicó verbalmente la aparición del suceso al jefe de estación 2 de la est. Neratovice, que se encontraba fuera;
 •
 12:37 h
-el jefe de estación 1 de la est. Neratovice comunicó la aparición del suceso extraordinario a CDP Praha;
+el jefe de estación 1 de la est. Neratovice comunicó la aparición del suceso al CDP Praga;
 •
 12:45 h
-activación del HZS SŽ por el jefe de despacho de CDP Praha;
+activación del HZS SŽ por el jefe de despacho del CDP Praga;
 •
 12:49 h
-el jefe de despacho de CDP Praha comunicó el suceso extraordinario a O18 SŽ;
+el jefe de despacho del CDP Praga comunicó el suceso al O18 SŽ;
 •
 12:52 h
-la persona responsable de O18 SŽ comunicó la aparición del suceso extraordinario a COP DI;
+la persona designada del O18 SŽ comunicó la aparición del suceso al COP DI;
 •
 14:17 h
-inicio de la inspección del lugar de aparición del suceso extraordinario por parte de los empleados de DI;
+inicio de la inspección del lugar de aparición del suceso por parte de los empleados del DI;
 •
 14:22 h
-el inspector de DI dio la instrucción para permitir la circulación de trenes (excepto 1.ª y 2.ª VK) hacia/desde la est. Všetaty;
+el inspector del DI emitió la instrucción para permitir la circulación de trenes (excepto 1.ª y 2.ª vía) hacia/desde la est. Všetaty;
 •
 14:25 h
-SŽ restableció la circulación (excepto 1.ª y 2.ª VK) hacia/desde la est. Všetaty (con base en la instrucción previa de DI – ver más arriba);
+SŽ restableció la circulación (excepto 1.ª y 2.ª vía) hacia/desde la est. Všetaty (en virtud de la instrucción previa del DI – ver más arriba);
 •
 16:25 h
-el inspector de DI presente dio su conformidad para la liberación de la infraestructura;
+el inspector del DI presente dio su consentimiento para la liberación de la vía;
 •
-4. 11. 2025 
-puesta en servicio de las vías n.º 1 y 2 y de la aguja n.º 26.
+4. 11. 2025
+puesta en servicio de las vías n.º 1 y 2 y del desvío n.º 26.
 14:45 h
-El Plan IZS fue activado en función de la naturaleza del suceso extraordinario. El Plan IZS fue activado a las 12:45 h, es decir, 12 min. después de la aparición del suceso extraordinario, por el jefe de despacho de CDP Praha.
-En el lugar del suceso extraordinario intervinieron los siguientes componentes del IZS:
+El Plan IZS fue activado en función de la naturaleza del suceso. El Plan IZS fue activado a las 12:45 h, es decir, 12 min. después de la aparición del suceso, por el jefe de despacho del CDP Praga.
+En el lugar del suceso intervinieron los siguientes componentes del IZS:
 •
-Cuerpo de Bomberos y Salvamento SŽ, JPO Praha y JPO Kralupy nad Vltavou.
+Cuerpo de Bomberos y Rescate SŽ, JPO Praga y JPO Kralupy nad Vltavou.
 ## 4 ANÁLISIS DEL SUCESO
-### 4.1 Funciones y obligaciones
-### 4.1.1 Transportistas y gestores de la infraestructura
+### 4.1 Tareas y obligaciones
+### 4.1.1 Transportistas y gestores de infraestructura
 ### Gestor de la infraestructura SŽ
-El gestor de la infraestructura estaba obligado, entre otros, de conformidad con el § 22 apart. 1 letra a) de la ley n.º 266/1994 Sb., a explotar la infraestructura para las necesidades del tráfico ferroviario fluido y seguro de acuerdo con las normas para la explotación de la infraestructura y la autorización administrativa, y, asimismo, estaba autorizado, entre otros, de conformidad con el § 22 apart. 3 letra a) de la ley n.º 266/1994 Sb., a impartir a los transportistas, al organizar el tráfico ferroviario, instrucciones para garantizar el tráfico ferroviario fluido y seguro.
-El gestor de la infraestructura estableció los procedimientos tecnológicos de organización y la forma de impartición y ejecución de las instrucciones en la explotación de la infraestructura y del tráfico ferroviario, que se contienen
-
+El gestor de la infraestructura estaba obligado, entre otros, de conformidad con el § 22 apartado 1 letra a) de la ley n.º 266/1994 Sb., a explotar la infraestructura para las necesidades del transporte ferroviario fluido y seguro de acuerdo con las normas para la explotación de la infraestructura y la autorización administrativa, y asimismo estaba autorizado, entre otros, de conformidad con el § 22 apartado 3 letra a) de la ley n.º 266/1994 Sb., a dictar instrucciones a los transportistas en la organización del transporte ferroviario para garantizar un transporte ferroviario fluido y seguro.
+El gestor de la infraestructura estableció los procedimientos tecnológicos de organización y la forma de dictado y ejecución de las instrucciones en la explotación de la infraestructura y del transporte ferroviario, que están contenidos
 
 ## Página 26
+
 
 entre otros en las normas SŽ D1 y SŽ Z1. Se trata, en particular, de la constatación de que el tren ha llegado completo a la vía designada, los procedimientos para la preparación y liberación de vías de tren y la determinación de las condiciones para el cambio de agujas.
 1. Operación del aparato de enclavamiento por la operadora de enclavamiento St.2
@@ -1004,6 +1026,7 @@ DI, en el marco de la investigación, se ocupó del análisis de la operación d
 
 ## Página 27
 
+
 Según el análisis del velocímetro:
 •
 desde la liberación de KO V30/31/Vk2 hasta el paso del paso de servicio junto a la caja de enclavamiento St.2 del final del tren Os 9529 (es decir, la cabeza del tren estaba a 11 m detrás de la punta de la lengüeta del desvío n.º 26) transcurrieron 13 s;
@@ -1031,8 +1054,8 @@ a) explotar la infraestructura para las necesidades del tráfico ferroviario flu
 § 12 apartado 1 del decreto n.º 173/1995 Sb.:
 «... No está permitido maniobrar un desvío delante de vehículos ferroviarios en movimiento de manera que se ponga en peligro la seguridad de su circulación, ni por debajo de vehículos en movimiento, con excepción de los desvíos maniobrados directamente por los vehículos, y en los casos de prevención de un peligro.»;
 
-
 ## Página 28
+
 
 •
 artículo 54 apartado 2 de la norma SŽ D1:
@@ -1064,8 +1087,8 @@ En el caso de esta MU concreta, es necesario relacionar el artículo 313 apartad
 ◦artículo 313 apartado 2 de la norma SŽ D1:
 «El jefe de estación vigila el tren en la entrada, salida y paso por el lugar desde su puesto de trabajo o desde el puesto de trabajo (caja de enclavamiento), para poder detectar posibles averías en los vehículos en circulación, detectables a simple vista o por oído, …»;
 
-
 ## Página 29
+
 
 •
 artículo 6.3.1.2 de la norma SŽ Z1:
@@ -1095,8 +1118,8 @@ artículo 6.3.5 de la norma SŽDC T1:
 ### Transportista ČD
 El transportista estaba obligado, entre otros, de acuerdo con el § 35 apartado 1 letra a) y f) de la ley n.º 266/1994 Sb., a explotar el tráfico ferroviario de acuerdo con las reglas de explotación del tráfico ferroviario, la licencia vigente y el contrato celebrado con el gestor de la infraestructura para la explotación del tráfico ferroviario en la infraestructura, y a regirse en la
 
-
 ## Página 30
+
 
 explotación del tráfico ferroviario por las instrucciones del gestor de la infraestructura dictadas al organizar el tráfico ferroviario.
 Asimismo, el transportista estaba obligado a asegurar que el maquinista condujera el DV solo desde el puesto desde el que se tenga la mejor visibilidad, normalmente desde la cabina delantera del maquinista en el sentido de la marcha, que desde el DV delantero observara la vía y las señales, actuara según los hechos comprobados y no superara durante la circulación la velocidad máxima permitida establecida en el horario o la velocidad limitada ordenada, y que detuviera el tren de forma segura antes del lugar señalizado, de acuerdo con las disposiciones del § 35 apartado 1 del decreto n.º 173/1995 Sb.
@@ -1127,6 +1150,7 @@ artículo 77 apartado 9 de la norma SŽ D1:
 
 ## Página 31
 
+
 •
 art. 171 letra b) de la instrucción interna de ČD V15/I:
 .«El maquinista del vehículo de tracción (motriz) de un tren debe, con el freno continuo actuando correctamente, en función de las condiciones de vía actuales, de la situación de tráfico inmediata y de la velocidad real instantánea del tren, garantizar:
@@ -1151,8 +1175,8 @@ En la investigación no se constató infracción de las funciones y obligaciones
 ### 4.1.2 Entidades responsables del mantenimiento de los vehículos ferroviarios
 En la investigación no se constató infracción de las funciones y obligaciones de las entidades responsables del mantenimiento de los vehículos ferroviarios.
 
-
 ## Página 32
+
 
 ### 4.1.3 Fabricantes de vehículos ferroviarios u otros proveedores de instalaciones ferroviarias
 En la investigación no se constató infracción de las funciones y obligaciones de los fabricantes de vehículos ferroviarios u otros proveedores de productos ferroviarios.
@@ -1169,8 +1193,8 @@ Las funciones y obligaciones de otras personas o entidades no guardaban relació
 4.2.1 Factores o consecuencias derivados de la construcción de los vehículos ferroviarios, de la infraestructura ferroviaria o de las instalaciones técnicas
 En el marco de la investigación se constató que el desvío n.º 26, que fue conmutado prematuramente (indebidamente) por la operadora de St.2, se conmutaba de forma centralizada, por lo que, por un lado, no estaba equipado con un medio para comprobar la libertad de paso y, en consecuencia, el SZZ no impedía en general su conmutación con el tramo de vía correspondiente ocupado y, a la vez, el SZZ no impedía la conmutación de dicho desvío en el momento en que el desvío formaba parte del itinerario de entrada establecido y aún no había sido despachado.
 
-
 ## Página 33
+
 
 En cuanto a la posible conmutación de un desvío ocupado en general, de acuerdo con el art. 5.6.3 letra a) de la norma SŽ TNŽ 34 2620, en el enclavamiento de estación de 2.ª categoría la conmutación centralizada de desvíos y apartaderos no tiene por qué depender de la evaluación de su libertad de paso, entre otros casos cuando se tiene visibilidad sobre ellos desde el puesto de mando, lo que en el caso del desvío n.º 26 de la est. Neratovice estaba garantizado. La conmutación de dicho desvío en el momento en que formaba parte del itinerario de entrada establecido y aún no había sido despachado, debería haber sido impedida al SZZ mediante la instalación de un dispositivo de control del paso de un vehículo ferroviario en el marco del SZZ de 2.ª categoría de acuerdo con el art. 6.3.1 letra c) de la norma SŽ TNŽ 34 2620, en relación con el art. 10.4.2 de la misma norma.
 El art. 6.3.1 letra c) de la norma SŽ TNŽ 34 2620 establece:
@@ -1186,6 +1210,7 @@ La disposición del SZZ de la est. Neratovice no estaba, por tanto, en el moment
 
 ## Página 34
 
+
 constatar la infracción de las disposiciones antedichas de SŽ TNŽ 34 2620, puesto que las disposiciones 
 § 88 apartados 1 y 2 del decreto nº 177/1995 Sb. establecen que «Las disposiciones de este decreto que regulan las condiciones técnicas y los requisitos para las construcciones de vías férreas y las construcciones en la vía férrea no se aplican a las construcciones de vías férreas y a las construcciones en la vía férrea para las que se hubiera verificado la documentación de proyecto en el procedimiento de construcción antes de la entrada en vigor de este decreto» y que «Las construcciones de vías férreas y las construcciones en la vía férreas que se hubieran adquirido y puesto en servicio conforme a las normativas vigentes hasta la fecha podrán explotarse hasta la próxima reconstrucción o modernización». Por ello era necesario obtener y verificar las normativas y normas vigentes desde la elaboración de la documentación del dispositivo, a través del periodo de su puesta en servicio, el periodo de sus modificaciones (reconstrucciones y modernizaciones) hasta el periodo de producción del MU. Esto finalmente se logró. Al final se obtuvo una serie completa de normas y normativas, cuyo examen permitió comprobar que prácticamente requisitos idénticos para el SZZ en cuestión ya estaban vigentes desde 1964, cuando se creó la primera ČSN de esta especialidad. También se obtuvo la normativa ČSD T6, vigente desde el 1. 7. 1949, y las Disposiciones Complementarias a esta normativa, vigentes desde el 1. 10. 1958, o bien posiblemente aplazadas al 1. 1. 1959 (en adelante, Disposiciones Complementarias), que estaban vigentes antes de la creación de las primeras normas de esta especialidad (antes de 1964) y que permitían aún una disposición como la existente en la est. Neratovice.
 El SZZ de la est. Neratovice fue proyectado en 1979 por la empresa SUDOP, los distintos aparatos de enclavamiento son de los años 1980, el SZZ se puso en servicio en 1981. De la documentación original se desprende que los desvíos, que hoy se conmutan centralmente, se conmutaban originalmente manualmente y se bloqueaban centralmente. La comprobación del paso de un vehículo ferroviario por el punto de control se realizaba mediante un carril aislado. Esta situación correspondía a las normativas de la época y también correspondería a las normativas actuales. Sin embargo, en 1987 se llevó a cabo la reconstrucción de St.1 y en 1991 también de St.2. La reconstrucción del dispositivo de enclavamiento St.2 se llevó a cabo en el marco de la acción «Reconstrucción del puente en el km 34,875 Praga – Turnov» (reconstrucción del puente sobre el río Elba) y conforme a la documentación elaborada por el Instituto Estatal de Proyecto de Transporte (SUDOP), sucursal de Praga, en 1988. Entonces se añadieron en el ámbito de St.2 los KO, entre otros V106, V30/31/Vk2 y S1K, y los conmutadores eléctricos de desvíos, entre otros los nº 26, 29, 30 y 31. Entonces también se creó una situación que ha perdurado hasta hoy y que estaba en contradicción con las normas pertinentes vigentes en la época de elaboración del proyecto e igualmente en la época de la puesta en servicio tras la reconstrucción.
@@ -1193,8 +1218,8 @@ La Inspección Ferroviaria en este asunto, durante la investigación, trató tan
 De ello se desprende que SUDOP Praga probablemente elaboró entonces la documentación de proyecto en contradicción con las disposiciones de las normativas y normas indicadas más abajo, pero ya no es posible probarlo más allá de toda duda.
 Los Ferrocarriles del Estado Checoslovaco, posteriormente Ferrocarriles Checos, la Administración de la Vía de Transporte Ferroviario y hoy SŽ explotaron esta situación, es decir, conforme a la documentación de proyecto, respectivamente técnica, el SZZ de la est. Neratovice. La negligencia de los empleados, respectivamente de las personas que realizaban las inspecciones periódicas, revisiones o inspecciones y pruebas del UTZ en el pasado no es posible probarla sobre la base de los documentos disponibles, atendiendo al contenido establecido de estas actividades y al hecho de que el dispositivo en este caso correspondía a la documentación técnica disponible. Solo se puede constatar el hecho general de que SŽ (operador de la vía, que a la vez cumple
 
-
 ## Página 35
+
 
 las obligaciones del propietario de la vía) en el momento de producción del MU explotaba este dispositivo en contradicción con las normativas y normas vigentes en la época de su reconstrucción y, durante la investigación, no acreditó una excepción sobre la base de la cual pudiera explotarlo en la disposición dada.
 Respecto a la concesión de excepciones a las normativas y normas vigentes, SŽ comunicó lo siguiente:
@@ -1224,10 +1249,10 @@ control)
  , 
  pese a lo cual la producción de un MU análogo permitiría que estos dispositivos
  . 
-Para la operación de ambos grupos de estos dispositivos se establecieron, a su vez, procedimientos tecnológicos idénticos (en las normativas SŽ D1 y SŽ Z1). 
-
+Para la operación de ambos grupos de estos dispositivos se establecieron, a su vez, procedimientos tecnológicos idénticos (en las normativas SŽ D1 y SŽ Z1).
 
 ## Página 36
+
 
 Conforme al art. 276 apartado 4 letra b) de la normativa SŽ D1, el empleado participante en la preparación del itinerario de tren u otro empleado designado por el ZDD puede comunicar al jefe de estación que el tren ha entrado íntegro solo si, entre otros, el tren entrante ha liberado el último tope de aguja como mínimo en 20 m (a ojo). Si esto se cumple, entonces conforme al art. 6.3.1.3 de la normativa SŽ Z1 se han dado las condiciones para la anulación del itinerario de tren (el tren ha entrado/salido íntegro y ha liberado los topes de aguja de todos los desvíos recorridos en el itinerario de tren) y los empleados encargados, al anular un itinerario de tren de entrada o de salida, proceden conforme a la tabla 21. Aunque el art. 54 apartado 6 de la normativa SŽ D1 prohíbe en circunstancias normales conmutar los desvíos si a través de ellos se ha permitido el paso de un vehículo o si están ocupados por vehículos, en ninguna parte de ambas normativas se indica expresamente que antes de conmutar los distintos desvíos el empleado encargado deba volver a comprobar su libertad, es decir, el hecho que él mismo había comunicado inmediatamente antes al jefe de estación. La DI no cuestiona que la obligación establecida en el art. 54 apartado 6 de la normativa SŽ D1 estuviera permanentemente vigente y que en el caso de este MU fuera infringida sin duda (véase el punto 4.1.1 de esta ZZ), pero desde el punto de vista del factor humano, debido al mínimo intervalo temporal entre la comprobación de la libertad de los desvíos en el marco de las actuaciones relacionadas con el seguimiento de la marcha del tren y la comunicación de que el tren ha entrado íntegro, y la comprobación de la libertad con el fin de conmutar los desvíos, es previsible el peligro de que, sobre la base de la comprobación inicial, el empleado encargado devuelva los desvíos a la posición básica sin volver a comprobar su libertad antes de operar el elemento de mando. En el caso de un error seguido de la ejecución rutinaria de las actividades consecuentes, el riesgo de producción del MU no reducía ya nada más.
 No puede omitirse que, en el periodo de vigencia de la normativa ČSD T6, el riesgo de colisión y descarrilamiento del DV derivado del peligro de una operación prematura del SZZ se regulaba conforme al art. 241 punto 15) de esta normativa aún con un factor humano adicional, de modo que el jefe de estación, antes de liberar el bloqueo de los desvíos, debía «adquirir la certeza» de que «el tren ha liberado los topes de aguja de los desvíos recorridos, o que se ha detenido en el lugar habitual». La normativa ČSD T6, sin embargo, en el art. 98 preveía también la situación en la que el jefe de estación liberara el bloqueo de los desvíos de forma prematura (indicado expresamente en las Disposiciones Complementarias) y permitía, igual que hoy, al conmutador de desvíos (señalista) conmutar, entre otros, los elementos de mando de los desvíos solo cuando «el tren hubiera pasado todos los desvíos en su itinerario». Con el paso del tiempo, la actividad del jefe de estación se sustituyó precisamente mediante el aumento del número de puntos de control y las normas para su ubicación en los itinerarios de tren. No obstante, la función fundamental en la garantía de la seguridad (regulación del riesgo de colisión y descarrilamiento del DV derivado del peligro de una operación prematura del SZZ) la tuvo siempre el conmutador de desvíos (señalista).
@@ -1236,6 +1261,7 @@ Atendiendo a la elevada eficacia general de los procedimientos tecnológicos act
 Aunque el aporte de la medida técnica es incuestionable, al determinar las causas de este MU la DI partió de que los procedimientos tecnológicos en cuestión (que durante este MU
 
 ## Página 37
+
 
 violados, véase el punto 4.1.1 de la presente II) eran unívocos y comprensibles, al tiempo que eran percibidos generalmente como fundamentales y, sobre la base de la práctica hasta la fecha, como suficientes para garantizar la seguridad incluso sin una medida técnica; las consecuencias de su incumplimiento eran evidentes en general y concretamente para la señalera St.2 de la est. Neratovice, que era consciente del principio de funcionamiento de la SZZ en la est. Neratovice, como se desprende de su declaración (véase el punto 3.1.9 de la presente II).
 No obstante, sobre la base del propio origen de la MU y del análisis anterior de la DI, llegó a la conclusión de que sería conveniente adoptar una medida que compensara la ausencia de medida técnica en los dispositivos cuya configuración corresponde a la norma ČSD T6 (agujas conmutadas centralmente, o en su caso también desvíos, tras el punto de control), sin embargo, atendiendo a la antigüedad de estos dispositivos y a la alta eficacia general de los procedimientos tecnológicos actuales, la DI recomienda, en el caso de las agujas donde no es posible la circulación simultánea de varios trenes, únicamente una medida organizativa, mediante la cual se les recuerde a los empleados que operan los dispositivos en cuestión la ausencia de medida técnica en la SZZ concreta, incluidas las consecuencias que de ello se derivan y la necesidad de esperar diligentemente, antes de operar la SZZ, a que el tren que entra libere el último balizamiento trasero (por ejemplo, mediante una formación y un recordatorio sobre el aparato de señales).
@@ -1260,6 +1286,7 @@ En el caso de esta MU concreta, es necesario relacionar el citado § 20 apartado
 
 ## Página 38
 
+
 «Las obras de vía y las obras en la vía que hayan sido realizadas y puestas en servicio conforme a los reglamentos anteriores podrán explotarse hasta la próxima reconstrucción o modernización.»;
 ◦§ 5 apartado 1 de la Ley núm. 51/1964 Sb.:
 «Las Reglas de explotación técnica establecen las condiciones básicas para la construcción de dispositivos técnicos y de explotación de las vías, así como para la explotación en las vías.»;
@@ -1281,6 +1308,7 @@ En la investigación no se detectaron factores derivados de la instalación y la
 
 ## Página 39
 
+
 ### 4.2.3 Factores o consecuencias relacionados con los fabricantes de vehículos ferroviarios u otros proveedores de productos ferroviarios
 En la investigación no se detectaron factores relacionados con los fabricantes de vehículos ferroviarios u otros proveedores de productos ferroviarios.
 ### 4.2.4 Factores o consecuencias derivados del mantenimiento y la modificación de vehículos ferroviarios o de dispositivos técnicos
@@ -1300,6 +1328,7 @@ Por ello, la DI, en relación con la investigación del factor humano, solicitó
 
 ## Página 40
 
+
 La DI, en respuesta a su solicitud a la MU, recibió de SŽ una comunicación en la que se indicaba:
 «En respuesta a la solicitud comunicamos:
 1. La negociación del cambio organizativo, por el que se decidió con efectos desde el 1. 2. 2026, entre otros, la extinción del puesto de trabajo de señalera en la est. Neratovice, Distrito de Explotación Kralupy nad Vltavou, ocupado por la empleada … (nota de la DI: se indica el nombre y apellidos de la señalera St.2), se celebró el 29. 10. 2025.
@@ -1312,6 +1341,7 @@ Por el contrario, la DI está de acuerdo con la comunicación de SŽ en que corr
 La señalera St.2 evaluó su estado de modo que, por lo que respecta a su salud, se sentía bien y, en cuanto a su situación personal, no se sentía, pese a lo anterior, incapacitada para el desempeño de su trabajo (véase su comunicación en el punto 3.1.9 de la presente II). A este respecto, sin embargo, es necesario destacar que este
 
 ## Página 41
+
 
 La evaluación subjetiva puede estar gravada, por ejemplo, por la preocupación de empeorar las relaciones en el lugar de trabajo, o con los superiores, causada por la necesidad de buscar urgentemente un sustituto, o por la situación económica. El temor a las repercusiones de la pérdida de ingresos puede ser, sin duda, un motivo para no disfrutar de la baja por indisponibilidad de corta duración, que el empleador ofrece sí como una de las opciones de solución para dicha situación (indisponibilidad), pero, según el art. 8 del Convenio Colectivo Empresarial de SŽ, sin compensación salarial.
 La DI, tras la investigación, llegó a la conclusión de que la situación de la inminente finalización de la relación laboral pudo ser estresante para la señalera St.2 como madre soltera, pero, teniendo en cuenta también la declaración de la señalera St.2 en el punto 3.1.9 de la presente II, no puede demostrarse una influencia directa de dicha situación en la aparición del MU.
@@ -1340,8 +1370,8 @@ El jefe de estación 1 y la señalera St.2 pudieron disfrutar del tiempo adecuad
 ### 4.3.3 Factores organizativos y tareas
 En la investigación se analizó la actividad de control realizada por el empleador SŽ a la señalera St.2 en el período comprendido entre el 1. 1. 2024 y el 2. 11. 2025, cuando el 18. 2. 2024, en el horario de 9:30 a 11:30 h, se le realizó un control aleatorio en la estación de Mělník en St.2.
 
-
 ## Página 42
+
 
 El control se centró en:
 1. Ejecución directa del servicio de tráfico: sin anomalías;
@@ -1364,32 +1394,54 @@ En los procedimientos, métodos, contenido y resultados de las actividades de ev
 La DI, en el marco de la investigación, abordó la cuestión de los procedimientos tecnológicos idénticos para la operación de SZZ electromecánicos con y sin medida técnica para la mitigación del riesgo de colisión y descarrilamiento de DV derivado del peligro de operación prematura de SZZ, así como la cuestión de la concesión y registro de excepciones a las disposiciones de las normas en relación con el sistema de señalización explotado. El análisis relacionado se indica en el punto 4.2.1 de la presente II.
 En el sistema de seguridad del gestor de infraestructura y en el sistema de garantía de seguridad del transporte ferroviario del transportista, relacionados con las circunstancias de la aparición del MU en cuestión, no se detectaron, respect. no se demostraron deficiencias.
 
-
 ## Página 43
 
-### 4.4.4 Sistema de gestión de los sujetos responsables del mantenimiento de los vehículos ferroviarios y de los talleres de mantenimiento
-El sistema de gestión de los sujetos responsables del mantenimiento de los vehículos ferroviarios y de los talleres de mantenimiento no guardaba relación con la aparición del MU.
+### 4.4.4 Sistema de gestión de los sujetos responsables del mantenimiento de los vehículos ferroviarios
+y de los talleres de mantenimiento
+El sistema de gestión de los sujetos responsables del mantenimiento de los vehículos ferroviarios y de los talleres de mantenimiento
+no guardaba relación con la aparición de la MU.
 ### 4.4.5 Resultados de la supervisión realizada por las autoridades nacionales de seguridad
-Atendiendo a los factores detectados y a las circunstancias de la aparición del MU, la supervisión de la autoridad de seguridad no guarda relación con el MU en cuestión.
-### 4.4.6 Aprobaciones, certificados y dictámenes de evaluación emitidos por la agencia, las autoridades nacionales de seguridad u otros sujetos de evaluación de la conformidad
-El gestor de infraestructura explotó la infraestructura al amparo de la autorización administrativa vigente y del certificado de seguridad del gestor de infraestructura. El transportista explotó el transporte ferroviario al amparo de la licencia vigente y del certificado del transportista.
+Atendiendo a los factores y circunstancias de aparición de la MU identificados, la supervisión de la autoridad de seguridad
+no guarda relación con la MU en cuestión.
+### 4.4.6 Aprobaciones, certificados y evaluaciones emitidos por la agencia, las autoridades nacionales
+de seguridad u otros organismos de evaluación de la conformidad
+El gestor de la infraestructura explotó la infraestructura al amparo de la autorización administrativa vigente y del certificado
+de seguridad del gestor de la infraestructura. El transportista explotó el transporte ferroviario al amparo
+de la licencia vigente y del certificado del transportista.
 ### 4.4.7 Otros factores sistémicos
-En la investigación no se detectaron otros factores sistémicos.
+En la investigación no se identificaron otros factores sistémicos.
 ### 4.5 Sucesos anteriores de naturaleza similar
-La DI investigó las causas y circunstancias en el período comprendido entre el 1. 1. 2017 y la aparición del MU en cuestión, en las vías ferroviarias de categoría nacional y regional, de un total de 6 MU similares, en los que se produjo un cambio no autorizado de aguja antes o bajo los DV en marcha de un tren.
+La DI investigó las causas y circunstancias en el periodo comprendido entre el 1. 1. 2017 y la aparición de la MU en cuestión
+en las vías ferroviarias, categoría nacional y regional, un total de 6 MU similares,
+en los que se produjo un cambio no autorizado de aguja delante o por debajo de los DV en marcha del tren.
 •
-de fecha 16. 8. 2017 en la estación de Praha-Čakovice, en el que se produjo el descarrilamiento del tren Os 9522. La causa inmediata del MU fue el cambio de la aguja n.º 1 por el jefe de estación de la estación de Praha-Čakovice en el momento justo antes de la circulación de los DV del tren Os 9522;
+del 16. 8. 2017 en la est. Praha-Čakovice, en el que se produjo el descarrilamiento del tren Os 9522.
+La causa inmediata de la MU fue el cambio de la aguja n.º 1 por el jefe de estación de la est. Praha-
+Čakovice en el momento inmediatamente anterior a la circulación de los DV del tren Os 9522;
 •
-de fecha 2. 10. 2019 en la estación de Omlenice, en el que se produjo el descarrilamiento del tren Os 18809. La causa inmediata del MU fue el cambio de la aguja n.º 1 bajo los DV en marcha del tren Os 18809;
+del 2. 10. 2019 en la est. Omlenice, en el que se produjo el descarrilamiento del tren Os 18809.
+La causa inmediata de la MU fue el cambio de la aguja n.º 1 por debajo de los DV en marcha del tren
+Os 18809;
 •
-de fecha 18. 6. 2020 (8:05 h) en la estación de Obrnice, en el que se produjo el descarrilamiento del tren Os 6704. La causa inmediata del MU fue el cambio no autorizado de la aguja de cruzamiento n.º 25a bajo el tren Os 6704 en marcha, precedido por la no verificación de si el tren Os 9529 había llegado íntegro a la vía designada, y la cancelación prematura de la vía de tren establecida para dicho tren;
+del 18. 6. 2020 (8:05 h) en la est. Obrnice, en el que se produjo el descarrilamiento del tren Os 6704.
+La causa inmediata de la MU fue el cambio no autorizado de la aguja de cruzamiento n.º 25a
+por debajo del tren Os 6706 en marcha, precedido por la no comprobación de si el tren Os 6704
+había llegado completo a la vía designada, y la anulación prematura de la vía de tren establecida para dicho
+tren;
 •
-de fecha 15. 7. 2020 en la estación de Medlešice, en el que se produjo el descarrilamiento del tren Os 5338. La causa inmediata del MU fue el cambio no autorizado de la aguja n.º 1 bajo el tren Os 5338 en marcha, precedido por la no verificación de si el tren Os 5338 había llegado íntegro a la vía designada, y la cancelación prematura de la vía de tren establecida para dicho tren;
+del 15. 7. 2020 en la est. Medlešice, en el que se produjo el descarrilamiento del tren Os 5338.
+La causa inmediata de la MU fue el cambio no autorizado de la aguja n.º 1 por debajo del tren Os 5338
+en marcha, precedido por la no comprobación de si el tren Os 5338 había llegado
+completo a la vía designada, y la anulación prematura de la vía de tren establecida para dicho tren;
 •
-de fecha 13. 8. 2020 en la estación de Tišnov, en el que se produjo el descarrilamiento del tren R 975. La causa inmediata del MU fue la operación no autorizada de elementos del SZZ de la estación de Tišnov, que tuvo como consecuencia el cambio de la aguja n.º 33 en el momento en que estaba ocupada por los DV en movimiento del tren R 975, causada por una infracción involuntaria (error) de una persona profesionalmente apta que operaba dicho dispositivo;
-
+del 13. 8. 2020 en la est. Tišnov, en el que se produjo el descarrilamiento del tren R 975. La causa
+inmediata de la MU fue la operación no autorizada de elementos del SZZ de la est. Tišnov que tuvo como
+consecuencia el cambio de la aguja n.º 33 en el momento en que estaba ocupada por los DV en movimiento
+del tren R 975, causada por un fallo involuntario (error) de la persona cualificada
+que operaba dicho dispositivo;
 
 ## Página 44
+
 
 •
 de fecha 23. 3. 2022 en la estación de Praha-Krč, en el que se produjo el descarrilamiento del tren Os 9013. La causa inmediata del MU fue la operación no autorizada de elementos del sistema de señalización de la estación de Praha-Krč, que tuvo como consecuencia el cambio de la aguja n.º 32 en el momento en que estaba ocupada por los vehículos ferroviarios en movimiento del tren Os 9013, causada por una infracción involuntaria (error) de una persona profesionalmente apta que operaba dicho dispositivo, la cual no utilizó las dependencias del sistema de señalización de la estación de Praha-Krč explotado para realizar el cierre de la vía de tren mediante la acción automática del sistema de señalización, y no permitió la entrada del tren Os 9013 mediante la operación normal de la señal principal (de entrada) S.
@@ -1417,6 +1469,7 @@ todos los directivos de la OŘ Praha serán informados de la causa, las circunst
 todos los empleados de tráfico de la PO Kralupy nad Vltavou serán informados de forma fehaciente de la causa, las circunstancias de la aparición y la responsabilidad por la aparición del suceso extraordinario
 
 ## Página 45
+
 
 formó la «Medida del jefe de PO Kralupy nad Vltavou», que se incorporará al Libro Electrónico de Normas.
 El gestor de la infraestructura ČD no adoptó ni emitió ninguna medida.
@@ -1450,8 +1503,8 @@ A la Autoridad Ferroviaria:
 garantizar que los gestores de infraestructuras ferroviarias que operen instalaciones de enclavamiento de estación de categoría 1 y 2 con desvíos maniobrados centralmente, o con apartaderos, en los que no se evalúa el control de paso del tren más allá del último desvío maniobrado centralmente, o apartadero, en la ruta del tren, adopten medidas:
 ◦que, en el caso de cabezas de estación donde sea posible el movimiento simultáneo de varios trenes, garanticen la modificación de la instalación de modo que se evalúe el paso del tren más allá del último desvío maniobrado centralmente, o apartadero, en la ruta del tren, o la exclusión administrativa de dichas rutas de tren simultáneas;
 
-
 ## Página 46
+
 
 ◦que, en el caso de cabezas de estación donde no sea posible el movimiento simultáneo de varios trenes, garanticen al menos medidas organizativas mediante las que se ponga de manifiesto al personal que opera las instalaciones en cuestión la ausencia de una medida técnica en la instalación concreta, incluidas las consecuencias que de ello se derivan y la necesidad de aguardar estrictamente, antes de operar la instalación, a que el tren entrante libere el punto de invasión trasero.
 ## RECOMENDACIONES DE SEGURIDAD
@@ -1473,8 +1526,8 @@ Certificado del autor de la firma:
 Nombre: Drážní inspekce
 Emitido por: PostSignum Qualified CA 4
 
-
 ## Página 47
+
 
 ## ANEXOS
 Fig. No. 2: Vista del lugar de la EM desde la estación hacia St.2
@@ -1482,30 +1535,30 @@ Fig. No. 2: Vista del lugar de la EM desde la estación hacia St.2
 Fig. No. 3: Vista del lugar de la EM desde St.2 hacia DK, concretamente la HDV al final del tren Os 9529 apoyada sobre la señal de salida L1 
        Fuente: DI
 
-
 ## Página 48
+
 
 Fig. No. 4: Vista del lugar de la EM desde St.2 hacia la estación
          Fuente: DI
 Fig. No. 5: Vista del lugar de la EM desde el desvío No. 26 hacia la estación
         Fuente: DI
 
-
 ## Página 49
+
 
 Fig. No. 6: Vista de la placa indicadora No. 1 en St.2 de la estación de Neratovice
          Fuente: DI
 
-
 ## Página 50
+
 
 Fig. No. 7: Cajetín de mando PZZ ŽP P2671 en St.2 de la estación de Neratovice 
         Fuente: DI
 Fig. No. 8: Llave de maniobra del desvío No. 26 en St.2 de la estación de Neratovice (en posición básica en la 1. SK)
         Fuente: DI
 
-
 ## Página 51
+
 
 Fig. No. 9: Indicación de KO en la placa indicadora No. 1 en St.2 de la estación de Neratovice 
         Fuente: DI

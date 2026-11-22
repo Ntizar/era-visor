@@ -10,13 +10,14 @@ chars: 44076
 ratio_longitud: 1.03
 tokens_in: 15645
 tokens_out: 11277
-verificacion: revisar
 fecha_proceso: 2026-11-18
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-avisos: ["página 35: ratio 1.65", "página 38: cifras largas: faltan 1/3 (33%)", "página 39: cifras largas: faltan 1/3 (33%)"]
+verificacion: ok
 notas_cifras: ["página 3: original bilingüe: se compara contra el idioma principal (PL)", "página 5: original bilingüe: se compara contra el idioma principal (DE); cifras cortas: 1/12", "página 10: cifras largas: 1/8"]
 ---
+
 ## Página 1
+
 
 COLISIÓN DE TRENES Z 7825  
 CON Z 7630  
@@ -39,6 +40,7 @@ http://versa.bmvit.gv.at
 Página web:
 
 ## Página 2
+
 
 ### Índice de contenidos
 Índice de figuras ............................................................................................................................................. 2 
@@ -134,6 +136,7 @@ Figura 9     Tabla de personas heridas .........................................
 
 ## Página 3
 
+
 Figura 10     Señal „Sch502R“ y „G2“  – Fuente SUB ........................................................................................ 16 
 Figura 11    Magnet de vía PZB ................................................................................................................................ 17 
 Figura 12    Curva de vigilancia PZB 90 (Fuente DB 823/PZB 90) ....................................................................... 18 
@@ -188,9 +191,10 @@ Reglamento de señalización del IM
 DV V3 
 Reglamento de explotación del IM 
 ZSB 
-Disposiciones complementarias al reglamento de señalización y explotación 
+Disposiciones complementarias al reglamento de señalización y explotación
 
 ## Página 4
+
 
 ### Observaciones preliminares 
 La investigación se llevó a cabo conforme a las disposiciones del art. 19 apdo. 2 de la RL 2004/49/CE en relación con las disposiciones del § 5 apdos. 2 y 3 UUG.  
@@ -212,9 +216,10 @@ Maquinista Z 7825
 Maquinista Z 7630 
 Comité de empresa del grupo de la empresa ferroviaria 
 Ministerio Federal de Transporte, Innovación y Tecnología 
-BMWFJ - Biblioteca clúster 
+BMWFJ - Biblioteca clúster
 
 ## Página 5
+
 
 ### Resumen 
 El domingo, 11 de diciembre de 2011 a las 17:03 horas, en Bf Bruck an der Leitha, colisionó el Z 7825, que circulaba por la vía 2 en dirección a Eisenstadt, con el Z 7630 que procedía en sentido contrario desde Bratislava-Petrzalka.  El Z 7825 había rebasado la señal intermedia «G2» que mostraba «Parada», entrando así en la ruta de circulación del Z 7630 que venía en sentido contrario, y colisionó con este en el cambio 204 en el km 41,720.  
@@ -224,6 +229,7 @@ En los vehículos implicados y en las instalaciones de infraestructura se produj
 La línea entre Bf Bruck an der Leitha y el apeadero Parndorf Ort estuvo interrumpida hasta el lunes, 12 de diciembre de 2011, a las 18:00 horas.
 
 ## Página 6
+
 
 ### 2. Datos generales 
 2.1. Localización 
@@ -236,10 +242,10 @@ Figura 1     Esquema de las líneas ferroviarias de Austria (Fuente: IM)
 2.2. Momento temporal 
 Domingo, 11 de diciembre de 2011, 17:03 horas 
 2.3. Condiciones meteorológicas y visibilidad 
-Despejado, 7°C, oscuridad. No existían restricciones de visibilidad debidas a las condiciones meteorológicas. 
-
+Despejado, 7°C, oscuridad. No existían restricciones de visibilidad debidas a las condiciones meteorológicas.
 
 ## Página 7
+
 
 2.4. Particularidades locales 
 La estación de Bruck an der Leitha se encuentra en la línea de vía doble, electrificada y de ancho normal, que va desde la estación de Wien Südbahnhof (Ostbahn) hasta la frontera estatal junto a la estación de Nickelsdorf. La estación no está dotada de un puesto de mando de circulación (Fdl) y es controlada remotamente desde el Centro de Gestión de Operaciones de Viena. 
@@ -257,10 +263,10 @@ Motriz Tw 4124 033-4
 126 centésimas de frenado requeridas según el horario oficial (Buchfahrplan) 700 del IM 
 150 centésimas de frenado disponibles 
 Tren con freno continuo y suficiente 
-En el tren viajaban aproximadamente 60 – 70 pasajeros y un maquinista (Tfzf). El tren fue operado sin acompañante de tren.  
-
+En el tren viajaban aproximadamente 60 – 70 pasajeros y un maquinista (Tfzf). El tren fue operado sin acompañante de tren.
 
 ## Página 8
+
 
 ### Z 7630 REX (Tren Regional Express) 
 Recorrido del tren: Desde la estación de Bratislava Petrzalka hasta la estación de Wien Südbahnhof (Ostbahn) 
@@ -277,27 +283,27 @@ En el tren viajaban aproximadamente 60 – 70 pasajeros y un maquinista (Tfzf). 
 2.7.1. Extracto del VzG de la línea 11801 
 aprox. punto de colisión 
 Figura 2     Extracto VzG (Fuente: IM) 
-La velocidad localmente permitida en el área del incidente es de 120 km/h según el VzG. 
-
+La velocidad localmente permitida en el área del incidente es de 120 km/h según el VzG.
 
 ## Página 9
+
 
 2.7.2. Extracto del horario oficial (Buchfahrplan) Cuaderno 700 
 Figura 3     Extracto del horario oficial Z 7825 (Fuente: IM) 
 Según el horario oficial, la velocidad programada para el Z 7825 en el área del accidente está fijada en 120 km/h. No existían restricciones de velocidad por tramos lentos o órdenes escritas en el área del incidente para el Z 7825.  
-Las centésimas de frenado requeridas (véase el punto 2.6 en la página 7) para el Z 7825 están indicadas en el horario oficial como 126%.  
-
+Las centésimas de frenado requeridas (véase el punto 2.6 en la página 7) para el Z 7825 están indicadas en el horario oficial como 126%.
 
 ## Página 10
+
 
 Figura 4     Extracto del horario oficial Z 7630 (Fuente: IM) 
 Según el horario oficial, la velocidad programada para el Z 7630 en el área del accidente está fijada en 120 km/h.  
 En la entrada del Z 7630 a la vía 1 en la estación de Bruck an der Leitha, estaba permitida una velocidad de 60 km/h, señalizada en la señal intermedia „U2“.  
 No existían restricciones de velocidad por tramos lentos o órdenes escritas en el área del incidente para el Z 7630.  
-Las centésimas de frenado requeridas (véase el punto 2.6 en la página 8) para el Z 7630 están indicadas en el horario oficial como 124%.  
-
+Las centésimas de frenado requeridas (véase el punto 2.6 en la página 8) para el Z 7630 están indicadas en el horario oficial como 124%.
 
 ## Página 11
+
 
 ### 3. Descripción del incidente 
 Debido a una rotura de carril en el corazón del cambio W 274, la vía 1 en la estación de Bruck an der Leitha Ost no era transitable desde el 11 de diciembre de 2011, 13:21 horas. La gestión operativa entre la estación de Parndorf y la estación de Bruck an der Leitha Ost se realizaba por vía única. Los trayectos en dirección a Wien Südbahnhof (Ostbahn) se desviaban en la estación de Bruck an der Leitha Ost desde la vía 2 hacia la vía 1 de Bruck an der Leitha (véase Figura 5). 
@@ -310,10 +316,10 @@ Gestión operativa de los trayectos
 en dirección a Bruck an der 
 Leitha 
 Figura 5     Plano de situación Bruck an der Leitha Ost (Fuente: IM) 
-El Z 7825 circulaba según lo previsto y realizó una parada a las 17:00 horas en el andén 2b de la estación de Bruck an der Leitha para el intercambio de pasajeros. La ruta de marcha apta para señales había sido establecida para el tren hasta la señal intermedia „G2“ que mostraba „Alto“, mientras que la señal de protección „Sch502R“ situada en la ruta de marcha mostraba „Prohibición de marcha levantada“. Mediante la señal intermedia „G2“ que mostraba „Alto“, durante la entrada del Z 7825 en la estación de Bruck an der Leitha, se produjo una influencia PZB de 1000 Hz en la señal intermedia anticipadora (situada en la ubicación de la señal de entrada „F2“) y, debido a la parada posterior, la supervisión restrictiva de velocidad mediante el sistema de seguridad embarcado.  
-
+El Z 7825 circulaba según lo previsto y realizó una parada a las 17:00 horas en el andén 2b de la estación de Bruck an der Leitha para el intercambio de pasajeros. La ruta de marcha apta para señales había sido establecida para el tren hasta la señal intermedia „G2“ que mostraba „Alto“, mientras que la señal de protección „Sch502R“ situada en la ruta de marcha mostraba „Prohibición de marcha levantada“. Mediante la señal intermedia „G2“ que mostraba „Alto“, durante la entrada del Z 7825 en la estación de Bruck an der Leitha, se produjo una influencia PZB de 1000 Hz en la señal intermedia anticipadora (situada en la ubicación de la señal de entrada „F2“) y, debido a la parada posterior, la supervisión restrictiva de velocidad mediante el sistema de seguridad embarcado.
 
 ## Página 12
+
 
 Esta supervisión de velocidad fue anulada por el Z 7825 durante la parada para el intercambio de pasajeros en la estación de Bruck an der Leitha mediante la pulsación de la tecla libre (Freitaste).  
 Desde la dirección opuesta, a las 16:58:26 horas, se estableció para el Z 7630 una ruta de marcha apta para señales desde la señal intermedia „U2“ hasta la señal intermedia „T1“ y se autorizó la marcha hacia la estación de Bruck an der Leitha.  
@@ -325,10 +331,10 @@ Ruta de marcha Z 7825
 Punto de colisión  
 ruta de marcha no autorizada 
 Tras completarse el intercambio de pasajeros, el Z 7825 partió del andén 2b, aceleró hasta 76 km/h y posteriormente pasó indebidamente la señal intermedia „G2“ que mostraba „Alto“. Debido al paso indebido de la señal, se activó inmediatamente un frenado forzoso PZB que no logró detener al Z 7825 en los 142 m restantes hasta el cambio 204. El Z 7825 entró en la ruta de marcha del Z 7630 que estaba entrando y colisionó con este en el cambio 204 a una velocidad de aprox. 46 km/h.  
-Como resultado de la colisión, ambos trenes descarrilaron. El Z 7630 descarriló con ambos ejes del segundo y tercer bogie, y el Z 7825 con ambos ejes del primer y segundo bogie.  
-
+Como resultado de la colisión, ambos trenes descarrilaron. El Z 7630 descarriló con ambos ejes del segundo y tercer bogie, y el Z 7825 con ambos ejes del primer y segundo bogie.
 
 ## Página 13
+
 
 Figura 7     Z 7630 y Z 7825 en posición final - Fuente SUB 
 En la colisión resultaron heridos leves 3 pasajeros, así como el maquinista (Tfzf) del Z 7630.  
@@ -337,6 +343,7 @@ La línea entre la estación de Bruck an der Leitha y la parada de Parndorf Ort 
 Figura 8     Plano de situación Bruck an der Leitha - Fuente SUB
 
 ## Página 14
+
 
 ### 4. Partes implicadas, contratistas y testigos 
 - Operador de infraestructura 
@@ -357,10 +364,10 @@ Figura 9     Tabla de personas heridas
 5.2. Daños materiales en la infraestructura ferroviaria 
 Daño estimado € 200.000.- 
 5.3. Daños materiales en los vehículos ferroviarios 
-Daño estimado € 600.000.- 
-
+Daño estimado € 600.000.-
 
 ## Página 15
+
 
 ### 6. Pruebas / Resultados del análisis 
 6.1. Análisis del protocolo del puesto de mando Bf Bruck an der Leitha  
@@ -372,10 +379,10 @@ El protocolo del puesto de mando fue analizado por el operador de infraestructur
 - ### 17:02:31 h, la señal de protección „Sch502R“ se pone en parada por efecto de un itinerario 
 - 17:03:13 h, la señal de protección „Sch502R“ se libera 
 Según este análisis, la señal intermedia „G2“ mostró siempre „Parada“ para el Z 7825. No hubo una cancelación no permitida del itinerario ni una resolución no permitida del itinerario para el Z 7825.  
-La liberación de la señal de protección „Sch502R“ se realizó para el tren posterior Z 9433.  
-
+La liberación de la señal de protección „Sch502R“ se realizó para el tren posterior Z 9433.
 
 ## Página 16
+
 
 6.2. Documentación fotográfica de la ubicación de la señal intermedia „G2“ 
 La señal intermedia „G2“ está situada en el km 41,578, a la derecha de la vía 2. La propia vía 2 discurre allí en línea recta, lo que garantiza claramente la visibilidad de la señal „G2“. No existen restricciones de visibilidad hacia la señal. 
@@ -384,20 +391,20 @@ La señal intermedia „G2“ está situada en el km 41,578, a la derecha de la 
 Figura 10     Señales „Sch502R“ y „G2“ – Fuente SUB 
 La documentación fotográfica anterior, tomada desde el poste indicador de 70 m en el andén 2b (punto de parada aproximado del Z 7825), muestra la señal de protección „Sch502R“ en primer plano con la señal intermedia „G2“ detrás. Las condiciones de visibilidad corresponden bastante exactamente a las circunstancias en el momento del accidente.  
 6.3. Equipamiento PZB Tw 4124 033-4 (Z 7825) 
-El Tw 4124 033-4 está equipado con un sistema de seguridad del tren PZB 90. La PZB supervisa el respeto de las señales y las limitaciones de velocidad por parte del Tfzf y consta de equipos a bordo (imanes de vehículo) y equipos de vía (imanes de vía). Bajo el término imán se entiende un circuito oscilante eléctrico que alcanza su frecuencia de resonancia a 500 Hz, 1000 Hz o 2000 Hz, lo que corresponde a tres informaciones transmitibles.  
-
+El Tw 4124 033-4 está equipado con un sistema de seguridad del tren PZB 90. La PZB supervisa el respeto de las señales y las limitaciones de velocidad por parte del Tfzf y consta de equipos a bordo (imanes de vehículo) y equipos de vía (imanes de vía). Bajo el término imán se entiende un circuito oscilante eléctrico que alcanza su frecuencia de resonancia a 500 Hz, 1000 Hz o 2000 Hz, lo que corresponde a tres informaciones transmitibles.
 
 ## Página 17
+
 
 En el vehículo ferroviario hay circuitos oscilantes eléctricos activos, sintonizados a frecuencias específicas, cuyas bobinas están agrupadas en el llamado imán de vehículo. Como contrapartida, en la vía hay imanes de vía correspondientes, cada uno sintonizado a una de las frecuencias del vehículo. Cuando el vehículo ferroviario pasa sobre un imán de vía, la intensidad de corriente en el circuito oscilante del vehículo correspondiente disminuye debido al efecto de resonancia. Esta caída de corriente es evaluada y desencadena las reacciones correspondientes.  
 Figura 11    Imán de vía PZB 
 La influencia de 1000 Hz debe ser confirmada por el Tfzf dentro de los 4 segundos mediante la tecla „Atención“, de lo contrario se produce un frenado de emergencia. 20 o 26 segundos después de la influencia de 1000 Hz, la velocidad no debe superar los 90 km/h o 70 km/h respectivamente (el factor tiempo y velocidad depende del modo de operación de la PZB); de lo contrario, también se produce un frenado de emergencia (prueba de velocidad adjunta).  
 Con la influencia de 500 Hz, la supervisión de velocidad entra en vigor según el modo de operación ajustado. La velocidad no debe superar los 65 km/h o 50 km/h (dependiendo del modo de operación); de lo contrario, se produce un frenado de emergencia. 
 La influencia de 2000 Hz provoca un frenado de emergencia inmediato. 
-Una de las mejoras esenciales para la supervisión de la velocidad de aproximación a una señal principal que indica „Parada“ es la „Supervisión restrictiva de velocidad“ de la PZB 90. Si tras una influencia PZB de 1000 Hz (anuncio de una señal que indica „Parada“) la velocidad permanece al menos 15 segundos por debajo de la velocidad de conmutación (Vum en el diagrama), se cambia a la llamada supervisión restrictiva de velocidad.  
-
+Una de las mejoras esenciales para la supervisión de la velocidad de aproximación a una señal principal que indica „Parada“ es la „Supervisión restrictiva de velocidad“ de la PZB 90. Si tras una influencia PZB de 1000 Hz (anuncio de una señal que indica „Parada“) la velocidad permanece al menos 15 segundos por debajo de la velocidad de conmutación (Vum en el diagrama), se cambia a la llamada supervisión restrictiva de velocidad.
 
 ## Página 18
+
 
 Entonces rige la velocidad de supervisión (VÜ2 en el diagrama) de 45 km/h. Si se supera la velocidad de 45 km/h, esto conlleva un frenado de emergencia del tren.  
 Figura 12    Curva de supervisión PZB 90 (Fuente DB 823/PZB 90) 
@@ -408,40 +415,41 @@ Si la liberación se realiza injustificadamente, al pasar posteriormente sobre u
 
 ## Página 19
 
+
 6.3.1. Normas para la operación del PZB 90
 Para la operación del dispositivo de seguridad PZB 90 en el Tw 4124 033-4 se aplican, en principio, las disposiciones del DB 823/PZB 90 del prestador de tracción. Este conjunto de normas contiene, entre otras, las disposiciones relativas a la liberación de la supervisión restrictiva de velocidad (Anexo: Extracto del DB 823 PBZ 90 en la página 42).
 Figura 13    Extracto del DB 823/PZB 90 (Fuente: Prestador de tracción)
 Conforme a estas disposiciones, la liberación de la supervisión restrictiva de velocidad solo puede realizarse al reconocer una indicación de señal que permita una velocidad superior a la velocidad de supervisión actual.
 ### Conforme a estas disposiciones, no existe obligación alguna de realizar la liberación de la supervisión restrictiva.
 
-
 ## Página 20
+
 
 Figura 14    Extracto del DB 823/PZB 90 (Fuente: Prestador de tracción)
 
-
 ## Página 21
+
 
 Además del conjunto de normas DB 823/PZB 90, el prestador de tracción ha emitido una instrucción sobre la liberación anticipada de las supervisiones de velocidad de 1000 Hz (Anexo: Instrucción relativa al DB 823 PZB del prestador de tracción en la página 46).
 Figura 15    Extracto de la instrucción relativa al DB 823 (Fuente: Prestador de tracción)
 ### Según esta instrucción, el Tfzf debe realizar una liberación si la siguiente señal principal alcanzada muestra una vía libre con una velocidad mínima de 40 km/h y el programa de supervisión del PZB lo permite.
 
-
 ## Página 22
+
 
 6.4. Evaluación del registrador de datos del Z 7630
 La grabación del registrador de datos del Tw 4124 023-5 del Z 7630 fue asegurada tras el incidente, evaluada por el prestador de tracción y puesta a disposición de la SUB.
 Figura 16    Registrador de datos del Z 7630 (Fuente: Prestador de tracción)
 
-
 ## Página 23
+
 
 6.5. Evaluación del registrador de datos del Z 7825
 La grabación del registrador de datos del Tw 4124 033-4 del Z 7825 fue asegurada tras el incidente y evaluada por el prestador de tracción. La evaluación y los datos brutos del registro fueron puestos a disposición de la SUB.
 Figura 17    Registrador de datos del Z 7825 (Fuente: Prestador de tracción)
 
-
 ## Página 24
+
 
 6.5.1. Análisis del registrador de datos del Z 7825 realizado por la SUB
 Los datos brutos del registrador de datos fueron evaluados y analizados en detalle por la SUB. De la figura siguiente se puede deducir, debido a la fuerte deceleración repentina de 4,07 m/s², que la colisión se produjo después de la frenada de emergencia (deceleración de 1,39 m/s²) a una velocidad de 46 km/h.
@@ -449,8 +457,8 @@ Figura 18    Velocidad en función de la distancia – Detalle – Fuente: SUB
 Además, se simuló el comportamiento de frenado del Z 7825 basándose en los datos brutos, en caso de que no se hubiera producido ninguna liberación de la supervisión restrictiva de velocidad.
 Se simuló una frenada de emergencia en la señal intermedia «G2» mostrando «Parada», respetando la velocidad de supervisión de v ≤ 45 km/h, y una frenada de emergencia tras superar la velocidad de supervisión de la supervisión restrictiva con una velocidad de v > 45 km/h. En ambas simulaciones se utilizó como comparación la curva de frenado real del Z 7825. La figura 19 siguiente muestra en una visión general las diferentes curvas de frenado.
 
-
 ## Página 25
+
 
 ## 1 
 ## 4 
@@ -468,8 +476,8 @@ La línea cero marca la ubicación de la señal intermedia «G2».
 En la simulación con v ≤ 45 km/h (2 línea verde), la frenada de emergencia en la señal intermedia «G2» no es suficiente para detener el tren antes del punto de colisión.
 En la simulación con v > 45 km/h (3 línea azul), el tren es detenido mediante la frenada de emergencia de la supervisión restrictiva aproximadamente 55 m antes de la señal intermedia G2. La colisión habría sido claramente evitada de este modo.
 
-
 ## Página 26
+
 
 ### 7. Conclusiones
 7.1.  Z 7630
@@ -484,6 +492,7 @@ Estas disposiciones solo son eficaces si las líneas están equipadas sin interr
 
 ## Página 27
 
+
 ### 8. Causas
 Al liberarse de la supervisión restrictiva de velocidad ante una señal intermedia «G2» que indicaba «Parada», el tren Z 7825 pudo acelerar hasta 76 km/h. Como consecuencia posterior, se sobrepasó indebidamente la señal intermedia «G2» que indicaba «Parada». A causa de la velocidad de 76 km/h, el frenado forzoso en la señal intermedia «G2» ya no fue suficiente para detener el tren antes de alcanzar la W 204.
 No existía un equipamiento de la infraestructura con imanes de vía de 500 Hz. Por ello, tras la liberación injustificada o errónea de la supervisión restrictiva de velocidad, tampoco se produjo ningún frenado forzoso del tren Z 7825.
@@ -491,8 +500,8 @@ No existía un equipamiento de la infraestructura con imanes de vía de 500 Hz. 
 ### 9. Alegaciones tenidas en cuenta
 Las alegaciones recibidas de las personas y entidades implicadas se adjuntan íntegramente al informe de investigación (véase Anexo 2: Alegaciones recibidas dentro del plazo, a partir de la página 31).
 
-
 ## Página 28
+
 
 ### 10. Recomendaciones de seguridad
 Punto | Recomendaciones de seguridad | Dirigido a | Número anual
@@ -501,8 +510,8 @@ Punto | Recomendaciones de seguridad | Dirigido a | Número anual
 Justificación: Sensibilización de los empleados respecto a la liberación de la supervisión restrictiva de velocidad.
 10.2 | La instrucción relativa a la liberación de la supervisión de velocidad de 1000 Hz (punto 6.3.1 en la página 19) debe considerarse extremadamente crítica en este contexto. La obligación de liberación asociada a esta instrucción solo aporta una ventaja de seguridad en aquellas líneas completamente protegidas por imanes de 500 Hz. En ausencia del equipamiento de 500 Hz, la liberación de la supervisión de velocidad constituye un retroceso desde el punto de vista de la seguridad técnica, ya que, en caso de liberación injustificada o errónea, no existe ninguna protección técnica para evitar un paso indebido de señales. Se recomienda dejar sin efecto la instrucción TR-B 045-2008 de 24.11.2008 hasta que exista un equipamiento adecuado de la infraestructura con imanes de 500 Hz. | Operador de tracción NSA | A-2012/83
 
-
 ## Página 29
+
 
 | Punto Número anual | Recomendaciones de seguridad | Dirigido a |
 | --- | --- | --- |
@@ -515,16 +524,16 @@ Bundesanstalt für Verkehr
 Sicherheitsuntersuchungsstelle des Bundes - Schiene
 Este informe final de investigación conforme al § 15 UUG ha sido revisado y aprobado por el jefe de la Sicherheitsuntersuchungsstelle des Bundes tras la finalización del procedimiento de alegaciones conforme al § 14 UUG.
 
-
 ## Página 30
+
 
 ### Anexos
 ### 1. Anexo gráfico
 Figura 20    Z 7825 – Fuente SUB
 Figura 21    Z 7630 en primer plano – Fuente SUB
 
-
 ## Página 31
+
 
 ### 2. Alegaciones recibidas dentro del plazo
 Letra
@@ -534,8 +543,8 @@ b)
 c)
 d)
 
-
 ## Página 32
+
 
 Letra
 Alegación del BMVIT
@@ -545,8 +554,8 @@ g)
 h)
 i)
 
-
 ## Página 33
+
 
 Letra
 Alegación del BMVIT
@@ -556,8 +565,8 @@ l)
 m)
 n)
 
-
 ## Página 34
+
 
 Letra
 Alegación del BMVIT
@@ -581,13 +590,12 @@ m) | La interrogación de los conductores de vehículos de tracción implicados 
 n) | Véanse letras i) y k)
 o) | -
 
-
 ## Página 35
 
-Alegación de la representación legal del conductor de vehículo de tracción del Z 7825
-
+Declaración de la representación legal del Tfzf Z 7825
 
 ## Página 36
+
 
 Letra
 Alegación de la representación legal del conductor de vehículo de tracción del Z 7825
@@ -595,40 +603,36 @@ p)
 q)
 r)
 
-
 ## Página 37
+
 
 Letra
 Alegación de la representación legal del conductor de vehículo de tracción del Z 7825
 s)
 t)
 
-
 ## Página 38
 
-Letra
-Alegación de la representación legal del conductor de vehículo de tracción del Z 7825
-u)
-v)
-y su consideración
-| Letra | Observaciones |
-| --- | --- |
-| p) | La situación de las señales cumple con las normas reglamentarias. No existe ninguna restricción de visibilidad en ninguna de las señales descritas. |
-| q) | Una evaluación de riesgos del año 2009 para la estación Bf Bruck an der Leitha no consta en el expediente del procedimiento de investigación. Con la recomendación de seguridad 10.5 se propuso realizar una evaluación de riesgos actualizada. |
-
+Litera  
+Declaración de la representación legal del Tfzf Z 7825 
+u) 
+v) 
+y su consideración 
+| Litera | Observaciones |
+| p) | La situación de las señales corresponde a las normativas reglamentarias. No se da ninguna restricción de visibilidad en ninguna de las señales descritas. |
+| q) | Una evaluación de peligros del año 2009 para la estación de Bruck an der Leitha no consta en el expediente del procedimiento de investigación. Se propuso, con la recomendación de seguridad 105, una evaluación de peligros actual. |
 
 ## Página 39
 
-| Letra | Observación |
-| --- | --- |
-| r) | La supervisión restrictiva de velocidad tiene como objetivo impedir, mediante un frenado forzoso, el arranque contra una señal que indica «Parada», por ejemplo, si el conductor de vehículo de tracción olvida durante la permanencia en el andén la indicación de precaución mostrada mucho antes (como en el presente caso en la señal anticipadora intermedia F2). Por tanto, una liberación prematura de la supervisión restrictiva de velocidad debe considerarse crítica. |
+| Litera | Anmerkung |
+| r) | La supervisión restrictiva de velocidad debe impedir, mediante frenado forzado, la arrancada hacia una señal que indica «alto» si, por ejemplo, el Tfz olvida durante la parada en el andén el término de precaución mostrado previamente (como en el presente caso en la señal previa intermedia F2). Por ello, la liberación anticipada de la supervisión restrictiva de velocidad debe considerarse crítica. |
 | s) | - |
-| t) | La mencionada instrucción sobre DB 823 PZB 90 «Liberación prematura de la supervisión de velocidad de 1000 Hz» así como su eventual autorización administrativa necesaria fueron tenidas en cuenta con la recomendación de seguridad 10.4. La mencionada y transmitida «Instrucción de servicio sobre la ofensiva de ahorro energético» del año 2009 es únicamente material formativo del operador de tracción y no una instrucción de servicio. |
+| t) | La instrucción mencionada sobre DB 823PZB 90 «Liberación anticipada de la supervisión de velocidad de 100 Hz» y, en su caso, la aprobación administrativa necesaria de la misma, se tuvo en cuenta en la recomendación de seguridad 10 4. En lo que respecta a la «Instrucción de servicio de ofensiva de ahorro de energía» mencionada y transmitida del año 2009, se trata únicamente de un material de formación del gestor de tracción y no de una instrucción de servicio. |
 | u) | - |
 | v) | - |
 
-
 ## Página 40
+
 
 Alegación del gestor de infraestructura
 w)
@@ -637,8 +641,8 @@ y su consideración
 | --- | --- |
 | w) | - |
 
-
 ## Página 41
+
 
 Letra
 Alegación del operador de tracción
@@ -648,24 +652,26 @@ y su consideración
 | --- | --- |
 | x) | - |
 
-
 ## Página 42
+
 
 ### 3. Extracto de DB 823 PZB 90
 
-
 ## Página 43
+
 
 
 ## Página 44
 
 
+
 ## Página 45
+
 
 
 ## Página 46
 
-### 4. Instrucción del operador de tracción sobre DB 823 PZB
 
+### 4. Instrucción del operador de tracción sobre DB 823 PZB
 
 ## Página 47

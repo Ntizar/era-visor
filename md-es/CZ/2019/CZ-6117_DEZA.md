@@ -10,13 +10,14 @@ chars: 96057
 ratio_longitud: 1.25
 tokens_in: 50522
 tokens_out: 36696
-verificacion: revisar
-notas_cifras: ["bloque 2: original bilingüe: se compara contra el idioma principal (CS)", "bloque 3: cifras largas: 2/108; cifras cortas: 6/261", "bloque 4: original bilingüe: se compara contra el idioma principal (CS)", "bloque 6: cifras cortas: 8/217", "bloque 8: original bilingüe: se compara contra el idioma principal (CS)"]
-avisos: ["bloque 4: ratio 1.66", "bloque 8: ratio 1.77"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 3: original bilingüe: se compara contra el idioma principal (CS)", "página 4: original bilingüe: se compara contra el idioma principal (PT)", "página 6: original bilingüe: se compara contra el idioma principal (EN)", "página 7: original bilingüe: se compara contra el idioma principal (PT)", "página 11: original bilingüe: se compara contra el idioma principal (PT); ratio 1.97"]
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -40,13 +41,13 @@ IČ:   75009561
 mail@dicr.cz
 tel.: +420 736 521 003
 
-
 ## Página 2
+
 
 Este informe final es público y todos los hechos en él expuestos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ## 1 RESUMEN
 Fuente: DEZA, a. s.
@@ -74,8 +75,8 @@ Factor contribuyente:
 no fue detectado por la Inspección Ferroviaria.
 •
 
-
 ## Página 4
+
 
 Causa fundamental:
 conducción del vehículo ferroviario de tracción 92 54 2 740 324-9 por una persona que no era titular de 
@@ -88,8 +89,8 @@ Recomendaciones de seguridad:
 no fueron emitidas por la Inspección Ferroviaria.
 •
 
-
 ## Página 5
+
 
 ## RESUMEN
 Clasificación: 
@@ -127,8 +128,8 @@ ninguna.
 Recomendación:
 no emitida.
 
-
 ## Página 6
+
 
 # Índice
 1 RESUMEN........................................................................................................................3
@@ -179,6 +180,7 @@ técnicas aplicables y otras normativas internas................................
 
 ## Página 7
 
+
 3.4.1 Sistema de control, señalización y seguridad, incluidos los dispositivos de registro automático de datos.....................................................................................................23
 3.4.2 Componentes de la vía....................................................................................................23
 3.4.3 Dispositivos de comunicación e información.........................................................................23
@@ -210,8 +212,8 @@ constatados en el punto 3.......................................................
 6 RECOMENDACIONES DE SEGURIDAD.....................................................................................35
 7 ANEXOS..........................................................................................................................36
 
-
 ## Página 8
+
 
 ## Lista de siglas y símbolos utilizados
 COP
@@ -243,8 +245,8 @@ Informe Final sobre los resultados de la investigación del suceso ferroviario
 žst.
 estación ferroviaria
 
-
 ## Página 9
+
 
 ## Lista de siglas de la legislación, normas y normativa interna 
 utilizadas
@@ -274,8 +276,8 @@ normativa interna del gestor de la vía y del transportista
 DEZA, a. s., "NORMA INTERNA PARA LA ORGANIZACIÓN DE LA VÍA, DEL TRÁFICO FERROVIARIO Y DE LA CUALIFICACIÓN PROFESIONAL (REGLAMENTO DE VÍA PRIVADA)", núm.: PI 01/62210, 
 en vigor desde el 1. 4. 2008, en la redacción vigente en el momento de producirse el SU
 
-
 ## Página 10
+
 
 ## 2 DATOS RELATIVOS AL SUCESO FERROVIARIO
 ### 2.1 Suceso ferroviario
@@ -297,39 +299,41 @@ la colisión con el VR remolcado estacionado.
 ### 2.1.2 Descripción del desarrollo del suceso ferroviario y del lugar de producción, incluida la actuación del sistema integrado de emergencia y del servicio de emergencia
 El 19. 8. 2019, durante la maniobra de los HVM 92 54 2 740 324-9 (en adelante 740.324-9) y 92 54 2 740 310-8 (en adelante 740.310-8), originalmente estacionados para la realización del mantenimiento programado en el depósito de locomotoras (también depósito de locomotoras) de la vía privada "DEZA Valašské Meziříčí", se produjo, tras la salida de la cabina del maquinista del HVM 740.324-9 por parte de la persona que conducía dicho VF, en la vía n.º 305, su puesta en movimiento espontánea. El HVM, mediante una marcha no asegurada (espontánea) y no controlada, recorrió la vía n.º 305, a través del sector de maniobras II hasta el sector de maniobras I de la vía privada, donde en la vía n.º 107, ocupada por VR remolcados estacionados
 
-
 ## Página 11
 
-cisterna, colisionó con el VR remolcado TEN CZ - DEZA 33 54 7834 010-2 de la serie Zacens (en adelante 
-33 54 7834 010-2). 
-Fig. n.º 2: Esquema del lugar de producción del SU.                                                                               Fuente: DI
-La Inspección Ferroviaria no participó en la inspección del lugar del SU tras su producción, ya que la decisión de iniciar la investigación del SU se adoptó con posterioridad, el 7. 11. 2019 (véase el punto 2.1.3 de este IF). De la documentación del gestor de la vía y del transportista sobre la inspección del lugar del SU y la posterior inspección del lugar del SU tras el inicio de la investigación, entre otros, se desprende:
-las puertas del depósito de locomotoras se encontraban en el pk 0,95 al final de las vías n.º 501 y 502. Las puertas 
+cisternas TDV, colisionó con el TDV TEN CZ - DEZA 33 54 7834 010-2 de la serie Zacens (en adelante solo
+33 54 7834 010-2).
+Fig. n.º 2: Esquema del lugar de origen del MU.                                                                               Fuente: DI
+La DI no participó en la inspección del lugar del MU tras su producción, ya que la decisión de iniciar la investigación
+del MU se adoptó posteriormente, el 7. 11. 2019 (véase el punto 2.1.3 de la presente ZZ). De la documentación
+del gestor de la vía y del transportista sobre la inspección del lugar del MU y la inspección posterior del lugar del MU
+tras el inicio de la investigación de la DI, entre otros, se desprende lo siguiente:
+las puertas del depósito de locomotoras se encontraban en el km 0,95, al final de las vías n.º 501 y 502. Las puertas
 •
-estaban dotadas de señales fijas no mutables con la indicación "Maniobras prohibidas" 
+estaban dotadas de señales fijas no transmisibles con la señal "Movimiento de maniobra prohibido"
 y estaban numeradas 1 (puertas en la vía n.º 501) y 2 (puertas en la vía n.º 502);
-el lugar de producción del SU se encontraba en la vía n.º 305, 14 m después del inicio de la aguja D9, 
+el lugar de origen del MU se encontraba en la vía n.º 305, a 14 m del inicio de la aguja D9,
 •
-en el pk 1,081; 
+en el km 1,081;
 las agujas D8 (en el depósito de locomotoras) y D9 estaban numeradas 8 y 9;
 •
-el HVM 740.324-9, mediante una marcha no asegurada (espontánea) y no controlada, recorrió la vía 
+el HDV 740.324-9 recorrió, sin asegurar (espontánea) y sin control, por la vía
 •
-n.º 305, a través de las agujas D35, D37ab y D38, por la vía n.º 204 hasta el desvío de la vía privada, donde 
-recorrió las agujas D48, D52, D54, D58 y D61 hasta la vía n.º 107, habiendo recorrido 
+n.º 305, a través de las agujas D35, D37ab y D38, por la vía n.º 204 hasta la rampa de la vía lateral, donde
+recorrió las agujas D48, D52, D54, D58 y D61 hasta la vía n.º 107, habiendo recorrido
 una distancia de 1 833 m;
-durante el paso del HVM por el desvío de la vía privada, el personal del gestor de la vía intentó 
+al pasar el HDV por la rampa de la vía lateral, los empleados del gestor de la vía intentaron
 •
-reducir la velocidad de marcha del HVM mediante la acción de dos trenes de frenos de vía;
-el lugar de la colisión del HVM 740.324-9 con el VR 33 54 7834 010-2 en la vía n.º 107 es el pk 
+reducir la velocidad de marcha del HDV mediante dos juegos de frenos de vía;
+el lugar de la colisión del HDV 740.324-9 con el TDV 33 54 7834 010-2 en la vía n.º 107 es el km
 •
-2,914, es decir, 74 m después del freno de vía en la vía n.º 107. Entre el HVM y el VR había, 
-en la posición final tras el SU, una separación de 1,5 m;
-no se produjo el descarrilamiento de los VF;
+2,914, es decir, a 74 m del freno de vía en la vía n.º 107. Entre el HDV y el TDV quedó
+una separación de 1,5 m en la posición final tras el MU;
+no se produjo el descarrilamiento del DV;
 •
-
 
 ## Página 12
+
 
 Fig. n.º 3: Esquema del lugar de la colisión de los VF.                                                                      Fuente: DI
 el VR 33 54 7834 010-2 no estaba cargado y estaba acoplado a un grupo de otros 14 VR 
@@ -360,6 +364,7 @@ del travesaño largo se desprendió de sus soportes una hoja de la puerta de acc
 y al distribuidor de frenos,
 
 ## Página 13
+
 
 ◦hnací soustrojí, tj. spalovací motor s trakčním alternátorem, a pomocné agregáty
 fueron desplazados en el bastidor de la locomotora, habiéndose roto, entre otros, la
@@ -412,8 +417,8 @@ Con la MU no se activó el IZS.
 | Comunicado por la persona autorizada en nombre de: | el explotador de la vía y el transportista DEZA, a. s. |
 | Consentimiento del DI para liberar la vía: | el 19. 8. 2019 a las 9.27 h (es decir, 1 h 14 min tras la aparición de la MU). |
 
-
 ## Página 14
+
 
 La comunicación de la MU en nombre del explotador de la vía y del transportista se
 realizó de conformidad con lo dispuesto en el § 49 apartado 3 letra a) de la Ley n.º
@@ -463,8 +468,8 @@ vehículos ferroviarios
 | Modo de frenado: | I. |  |  |
 ### HDV en marcha no asegurada (espontánea) y sin conducción:
 
-
 ## Página 15
+
 
 Nota sobre el HDV y el vagón cisterna:
 •
@@ -525,8 +530,8 @@ manual; las agujas D35, D37, D38, D41, D44ab, D48, D52, D54, D58 y D61 se
 accionaban centralizadamente mediante el servicio del SZZ, realizado por el
 operador de señalización.
 
-
 ## Página 16
+
 
 En el apartadero estaban situadas, en dos series, frenos de vía accionados
 neumáticamente. La primera serie se encontraba entre las agujas D54 y D52, y la
@@ -575,54 +580,54 @@ Con la MU no se produjeron daños personales.
 ## Página 17
 
 ### 2.3.2 Sobre las cosas transportadas, el equipaje y otros bienes
-No se produjeron daños en las cosas transportadas, el equipaje ni otros bienes.
+No se produjo daño en las cosas transportadas, el equipaje y otros bienes.
 ### 2.3.3 Sobre el material rodante, los componentes de la vía y el medio ambiente
-El explotador de la vía y el transportista cuantificaron los daños en:
+El explotador de la vía y el transportista cuantificaron el daño en:
 infraestructura de la vía y medio ambiente 
-0 Kč;
+0 CZK;
 •
 HDV 740.324-9
- 4 071 890 Kč; *)
+ 4 071 890 CZK; *)
 •
 TDV  33 54 7834 010-2
-258 110 Kč.
+258 110 CZK.
 •
-En el MU, los daños causados en el material rodante, los componentes de la vía y el medio ambiente se cuantificaron 
-### en un total de 4 330 000 Kč*). 
-*) La cuantía de los daños en la fecha de publicación del ZZ no era definitiva.
+En el MU, el daño producido en el DV, los componentes de la vía y el medio ambiente se cuantificó 
+### en total en 4 330 000 CZK*). 
+*) La cuantía del daño a la fecha de publicación del ZZ no era definitiva.
 ### 2.4 Circunstancias externas
 ### 2.4.1 Condiciones meteorológicas y datos geográficos
 Condiciones meteorológicas:
-despejado, seco, período diurno, +18 °C, la visibilidad no se vio reducida 
+despejado, seco, horario diurno, +18 °C, la visibilidad no se vio reducida 
 por influencias meteorológicas.
 Datos geográficos:
 terreno llano, la vía n.º 305 en el lugar de producción del MU desciende con una pendiente 
 de 2,5 ‰. Los datos geográficos no guardaban relación con la producción del MU.
 ## 3 REGISTRO DE LA INVESTIGACIÓN Y DE LAS EXPLICACIONES PRESENTADAS 
-### 3.1 Resumen de las explicaciones presentadas (sujeto a la protección de la identidad de las personas)
+### 3.1 Resumen de las explicaciones presentadas (sujeto a protección de la identidad de las personas)
 ### 3.1.1 Empleados del explotador de la vía y del transportista, incluidas personas en relación contractual
 mecánico 1
   – del Acta con el empleado, elaborada por el transportista DEZA, a. s., 
 •
 y del Registro de explicaciones presentadas del DI, entre otros, se desprende:
-◦trabaja como mecánico de locomotoras diésel en virtud de un Acuerdo de prestación de servicios 
-celebrado con DEZA, a. s., finalizó su turno anterior el 16. 8. 2019 a las 16.30 h;
-◦incorporó el 19. 8. 2019 
+◦trabaja como mecánico de locomotoras diésel en virtud del Acuerdo de realización de trabajo 
+celebrado con DEZA, a. s., finalizó el turno anterior el 16 de agosto de 2019 a las 16.30 h;
+◦incorporó el 19 de agosto de 2019 
 descansado al turno de mecánico, en el que debía realizar el mantenimiento planificado del HDV 740.310-8 
-y 740.324-9 – limpiar los motores de tracción en el depósito de locomotoras. Durante el turno no se vio alterado por nadie ni por nada;
+y 740.324-9 – limpiar los motores de tracción en el depósito de locomotoras. Durante el turno no fue alterado por nadie ni por nada;
 ◦si era necesario maniobrar el HDV en el depósito de locomotoras, llamaba por teléfono al jefe de tráfico 
-o al capataz de turno, que se encargaba de que el HDV fuera maniobrado por el maquinista;
-◦no lo recuerda con exactitud, pero el 19. 8. 2019, tras limpiar los motores de tracción del HDV 
-740.324-9, parece que no pudieron comunicarse con el capataz de turno. Como 
-junto con el mecánico 2 no querían esperar inactivamente al maquinista 
-### que maniobrara el HDV en el depósito de locomotoras, decidieron, a propuesta del mecánico 2, maniobrar el HDV en el depósito 
+o al capataz de turno, que se encargaba de que un maquinista realizara la maniobra del HDV;
+◦no recuerda con exactitud, pero el 19 de agosto de 2019, tras limpiar los motores de tracción del HDV 
+740.324-9, probablemente no pudieron comunicarse con el capataz de turno. Como junto 
+con el mecánico 2 no querían esperar inactivamente al maquinista que maniobraría el HDV en el depósito 
+### de locomotoras, decidieron, a propuesta del mecánico 2, maniobrar el HDV en el depósito 
 ### de locomotoras por sí mismos, de modo que él maniobraría el HDV 740.310-8 de la vía n.º 502 sobre 
-### el foso de inspección a la vía n.º 501, y el HDV 740.324-9 lo maniobraría el mecánico 2 
-### de la vía n.º 501 sobre el foso de inspección inundado a la vía n.º 502. Después tenían 
+### el canal de inspección a la vía n.º 501 y el HDV 740.324-9 lo maniobraría el mecánico 2 
+### de la vía n.º 501 sobre el canal de inspección inundado a la vía n.º 502. Después tenían 
 la intención de limpiar también los motores de tracción del HDV 740.310-8;
 
-
 ## Página 18
+
 
 ### ◦sabía que el mecánico 2 no estaba habilitado para conducir el HDV. Como sabía que el mecánico 2 
 en el pasado desempeñó la función de ayudante de maquinista, presumía que los fundamentos 
@@ -670,101 +675,45 @@ planificado;
 habilitado maniobró el HDV 740.324-9 de la vía n.º 305 sobre 
 el foso de inspección a la vía n.º 501;
 
-
 ## Página 19
 
-◦las maniobras con el HDV en el ámbito del depósito de locomotoras las realizaban siempre los maquinistas. Él mismo 
-nunca había conducido el HDV anteriormente;     
-◦sobre la maniobra del HDV 740.310-8 de la vía n.º 502 a la vía n.º 501 y del HDV 740.324-9, 
-en el que ya habían limpiado los motores de tracción, de la vía n.º 501 a la vía n.º 502, situados sobre 
-los fosos de inspección del depósito de locomotoras, solicitó el mecánico 1 al capataz de turno. 
-El maquinista que debía maniobrar el HDV estaba ocupado en otra maniobra en 
-el ramal;
-### ◦propuso y acordó con el mecánico 1 que el «cambio» – la maniobra del HDV 
-740.310-8 y 740.324-9, situados sobre los fosos de inspección del depósito de locomotoras, 
-### lo realizarían ellos mismos, de modo que él saldría con el HDV 740.324-9, 
-### a través de la aguja D8, más allá de la aguja D9. Tras la salida del HDV 740.310-8 
-más allá de la aguja D8, colocaría esta aguja para 
-el paso a la vía n.º 501. Tras la entrada del HDV 740.310-8 en la vía n.º 501, colocaría la aguja 
-D8 para el paso a la vía n.º 502 libre, en la que después entraría con el HDV 740.324-9, 
-y el mecánico 1 saldría con el HDV 740.310-8 de la vía n.º 502 más allá de la aguja D8 y, tras 
-colocarla, entraría con el HDV en la vía n.º 501, donde realizarían la limpieza de sus motores 
-de tracción;
-◦es consciente de que la persona que conduce el DV debe, antes de abandonar la cabina del HDV, colocar el 
-controlador de marcha en la posición «0» – grado de potencia no engranado, colocar la palanca de mando 
-del controlador inversor en la posición «D» – posición de arranque y colocar la manija 
-del freno DAKO-BS 2 en la posición de frenado en servicio; 
-### ◦condujo el HDV 740.324-9, con el que, tras salir de la vía n.º 501, se detuvo 
-### más allá de la aguja D9. Al descender del HDV, cuando iba a colocar la aguja D8 para el paso 
-del HDV 740.310-8 a la vía n.º 501, sintió, al pisar la balasta del lecho del carril, 
-un dolor agudo en el músculo del muslo de la pierna derecha;
-◦se volvió en dirección al HDV y comprobó que este se había puesto en movimiento no asegurado (autónomo) 
-en dirección a la zona de maniobras I;
-◦a causa del dolor de la pierna derecha no pudo echar a correr hacia el HDV que se ponía en marcha;
-◦gritó al mecánico 1, que conducía el HDV 740.310-8. Este inmediatamente, a través del 
-radio RDST de vehículo, comunicó la producción del MU;
-### ◦no es titular de un certificado de aptitud vigente para la conducción del DV – no está habilitado 
-### para conducir el HDV en el ramal.
+◦los maniobras con HDV en el ámbito de la cochería de locomotoras los realizaban siempre los maquinistas. Él mismo nunca había manejado un HDV anteriormente;
+◦para el traslado del HDV 740.310-8 de la vía n.º 502 a la vía n.º 501 y del HDV 740.324-9, en el cual ya habían limpiado los motores de tracción, de la vía nº 501 a la vía n.º 502, estacionados sobre los fosos de inspección en la cochería de locomotoras, solicitó el mecánico 1 al capataz de turno. El maquinista que debía trasladar el HDV estaba ocupado con otra maniobra en el ramal;
+### ◦propuso y acordó con el mecánico 1 que el «cambio» – el traslado de los HDV 740.310-8 y 740.324-9, estacionados sobre los fosos de inspección en la cochería de locomotoras,
+### lo realizarían ellos mismos, de modo que él saldría con el HDV 740.324-9, a través del desvío D8, más allá del desvío D9. Una vez que el HDV 740.310-8 hubiera salido más allá del desvío D8, cambiaría este desvío para la circulación por la vía n.º 501. Tras la entrada del HDV 740.310-8 en la vía n.º 501, cambiaría el desvío D8 para la circulación por la vía n.º 502, quedada libre, en la que a continuación entraría con el HDV 740.324-9, y el mecánico 1 saldría con el HDV 740.310-8 de la vía n.º 502 más allá del desvío D8 y, tras su cambio, entraría con el HDV en la vía n.º 501, donde realizarían la limpieza de sus motores de tracción;
+◦es consciente de que la persona que conduce el DV debe, antes de abandonar la cabina del HDV, colocar el controlador de marcha en la posición «0» – grado de potencia no acoplado, colocar la palanca de mando del controlador inversor en la posición «D» – posición de arranque y colocar la manija del freno DAKO-BS 2 en la posición de frenado en servicio;
+### ◦condujo el HDV 740.324-9, con el que, tras salir de la vía n.º 501, se detuvo más allá del desvío D9. Al descender del HDV, cuando iba a cambiar el desvío D8 para la circulación del HDV 740.310-8 por la vía n.º 501, sintió, al pisar la balasta del lecho del carril, un dolor agudo en el músculo del muslo de la pierna derecha;
+◦se miró en dirección al HDV y comprobó que este se había puesto en movimiento inasegurado (espontáneo) en dirección al ámbito de maniobras I;
+◦debido al dolor de la pierna derecha, no pudo echar a correr hacia el HDV que estaba arrancando;
+◦gritó al mecánico 1, que conducía el HDV 740.310-8. Este inmediatamente, a través del RDST del vehículo, comunicó la aparición de MU;
+### ◦no es titular de un certificado de aptitud vigente para la conducción del DV – no está habilitado para conducir un HDV en el ramal.
 capataz de turno
-  – del Acta con el empleado, elaborada por el explotador de la vía 
+  – del Acta con el empleado, levantada por el operador ferroviario
 •
 DEZA, a. s., entre otros, se desprende:
-◦hacia las 8. h oyó en el RDST un grito ininteligible, tras el cual el mecánico 1 le comunicó 
-la producción del MU – la marcha no asegurada del HDV desde el depósito de locomotoras en dirección a la zona 
-de maniobras I. Solo tras la repetición de la comunicación comprendió que el HDV no estaba 
-conducido;
-◦para que el HDV que circulaba sin asegurar no atravesara toda la zona de maniobras I, le 
-estableció una ruta a la vía n.º 107 ocupada por TDV estacionados, mientras intentaba 
-detener el HDV mediante el efecto de los frenos de vía neumáticos;
-◦como el HDV circulaba, según su declaración, muy rápido, con el efecto de los frenos de vía 
-solo se logró reducir su velocidad;
+◦alrededor de las 8.00 h oyó en el RDST un grito ininteligible, tras el cual el mecánico 1 le comunicó la aparición de MU – la circulación inasegurada de un HDV desde la cochería de locomotoras en dirección al ámbito de maniobras I. Solo tras la repetición de la comunicación comprendió que el HDV no estaba conducido;
+◦para que el HDV en circulación inasegurada no recorriera todo el ámbito de maniobras I, le estableció una ruta hacia la vía n.º 107, ocupada por TDV estacionados, mientras intentaba detener el HDV mediante el efecto de los frenos de vía neumáticamente accionados;
+◦porque el HDV circulaba, según su declaración, muy rápido, con el efecto de los frenos de vía solo se logró reducir su velocidad;
 ◦seguidamente se produjo la colisión del HDV con los TDV estacionados en la vía n.º 107;
-◦inmediatamente informó al jefe de tráfico del ramal.
-
+◦inmediatamente informó al responsable del transporte en el ramal.
 
 ## Página 20
 
 ### 3.1.2 Otros testigos
-Otras personas no presentaron explicaciones sobre las causas y circunstancias de la producción de este MU.
+Otras personas no aportaron explicaciones sobre las causas y circunstancias de la aparición de esta MU.
 ### 3.2 Sistema de garantía de la seguridad
-### 3.2.1 Organización marco y forma de impartición y ejecución de las instrucciones
-El tráfico ferroviario en el ramal «DEZA Valašské Meziříčí» se realiza con los propios 
-medios del transportista DEZA, a. s. El movimiento del DV en el ramal se lleva a cabo únicamente como 
-maniobra. Se considera maniobra todo movimiento del DV realizado de forma intencionada y organizada, 
-por lo que, sin medidas adicionales, solo se puede poner en movimiento simultáneamente en el ramal un DV 
-o un grupo de DV acoplados.
-El maquinista solo puede poner el HDV en movimiento si ha sido informado de la maniobra prevista, 
-si las señales correspondientes permiten la maniobra y si la persona autorizada a dirigir 
-la maniobra, es decir, la persona profesionalmente habilitada con la cualificación de jefe de maniobra (también jefe de maniobra), 
-o el empleado por ella designado, ha dado la instrucción al respecto. La marcha de un HDV autónomo no acompañado, es decir, 
-sin jefe de maniobra, está permitida en el ámbito del depósito de locomotoras y en la marcha del HDV desde el ámbito 
-del depósito hasta el edificio de servicio en la zona de maniobras I y de vuelta. En estos casos, el 
-maquinista solicita el consentimiento del operador de señales por teléfono o por RDST. En estas marchas, 
-el maquinista responde de la correcta colocación de las agujas manuales, mientras que desde el nivel 
-de la señal de agrupación Se110 dirige el tráfico ferroviario a través de las agujas maniobradas 
-centralmente mediante el SZZ el operador de señales, y el maquinista se ajusta a las señales de las señales de agrupación 
-en su ruta.
-La maniobra solo puede dirigirla una persona profesionalmente habilitada con la cualificación de jefe de maniobra. 
-El jefe de maniobra puede dar órdenes a los demás empleados participantes en la maniobra y 
-también puede realizar él mismo la maniobra. Sin sus órdenes no se debe maniobrar. 
-Sobre la maniobra prevista son informados previamente todos los empleados por la persona autorizada 
-a dirigir la maniobra. El empleado autorizado a dirigir la maniobra es designado por una norma interna, 
-incluidas las obligaciones de los demás empleados participantes en la maniobra. 
-Antes de iniciar la maniobra, el jefe de maniobra informa al maquinista sobre el procedimiento de trabajo, 
-sobre la forma de frenado de la parte maniobrada y sobre la forma de maniobra. 
-En el sistema de organización marco y forma de impartición y ejecución de las instrucciones, 
-relacionado con las circunstancias de producción del MU en cuestión, no se detectó ningún defecto.
-### 3.2.2 Requisitos para los empleados del explotador de la vía y del transportista y aplicación 
-de dichos requisitos
-Los requisitos para los empleados del explotador de la vía y del transportista, en particular los requisitos 
-de su aptitud profesional y sanitaria, están establecidos por la ley n.º 266/1994 Sb., 
-el decreto n.º 173/1995 Sb., el decreto n.º 101/1995 Sb., el decreto n.º 16/2012 Sb. 
-y las normas internas del explotador de la vía y del transportista.
-Solo pueden conducir el DV en el ramal «DEZA Valašské Meziříčí» las personas con un certificado 
-de aptitud vigente para la conducción del DV o con una licencia de maquinista vigente, que estén habilitadas para 
-conducir el HDV del tracción y tipo correspondientes y sean aptas para el desempeño de la actividad laboral de conductor de HDV.
+### 3.2.1 Organización marco y forma de emisión y ejecución de instrucciones
+El transporte ferroviario en el apartadero «DEZA Valašské Meziříčí» se realiza con los propios medios del transportista DEZA, a. s. El movimiento de DV en el apartadero se lleva a cabo únicamente como maniobra. Se considera maniobra todo movimiento de DV realizado intencionada y organizadamente, por lo que sin medidas adicionales solo se puede poner en movimiento simultáneamente en el apartadero un solo DV o un solo grupo de DV acoplados.
+El maquinista solo puede poner en movimiento el HDV si ha sido informado de la maniobra prevista, si las señales correspondientes permiten la maniobra y si ha dado instrucción para ello la persona autorizada para dirigir la maniobra, es decir, una persona profesionalmente competente con la cualificación de jefe de maniobra (en adelante también jefe de maniobra), o un empleado por ella designado. Se permite la circulación de un HDV suelto no acompañado, es decir, sin jefe de maniobra, dentro del recinto de la cochería de locomotoras y durante la circulación del HDV desde el recinto de la cochería hasta el edificio de servicio en el ámbito de maniobras I y de vuelta. En estos casos, el maquinista solicita el consentimiento del señalero por teléfono o por RDST. En estas circulaciones, el maquinista es responsable de la correcta colocación de los desvíos manuales, mientras que desde el nivel de la señal de clasificación Se110 el señalero dirige el transporte ferroviario a través de los desvíos maniobrados centralmente mediante SZZ y el maquinista se guía por las señales de las señales de clasificación en su itinerario.
+Solo puede dirigir la maniobra una persona profesionalmente competente con la cualificación de jefe de maniobra. El jefe de maniobra puede dar órdenes a los demás empleados participantes en la maniobra y también puede realizar él mismo la maniobra. Sin sus órdenes no se debe maniobrar. De la maniobra prevista son informados previamente todos los empleados por la persona autorizada para dirigir la maniobra. El empleado autorizado para dirigir la maniobra está determinado por una norma interna, incluidas las obligaciones de los demás empleados participantes en la maniobra.
+Antes de comenzar la maniobra, el jefe de maniobra informa al maquinista sobre el procedimiento de trabajo, sobre el modo de frenado de la parte maniobrada y sobre el modo de maniobra.
+En el sistema de organización marco y forma de emisión y ejecución de instrucciones, relacionado con las circunstancias de la aparición de la MU en cuestión, no se detectó ninguna deficiencia.
+### 3.2.2 Requisitos para los empleados del gestor de la infraestructura y del transportista y aplicación de dichos requisitos
+Los requisitos para los empleados del gestor de la infraestructura y del transportista, en particular los requisitos de su idoneidad profesional y sanitaria, están establecidos por la ley n.º 266/1994 Sb., por el decreto n.º 173/1995 Sb., por el decreto n.º 101/1995 Sb., por el decreto n.º 16/2012 Sb. y por las normas internas del gestor de la infraestructura y del transportista.
+En el apartadero «DEZA Valašské Meziříčí» solo pueden dirigir DV las personas que dispongan de un certificado de idoneidad vigente para la conducción de DV o de una licencia de maquinista vigente, que sean idóneas para la conducción de HDV del tracción y tipo correspondientes y que sean idóneas para el desempeño de la actividad laboral de conductor de HDV.
 
 ## Página 21
+
 
 El mecánico 1 era titular de una licencia de conductor de tren válida, pero no estaba cualificado para el desempeño de la actividad laboral de conductor de HDV.
 El mecánico 2 no era titular del certificado de aptitud para conducir DV ni de licencia de conductor de tren, y tampoco estaba cualificado para conducir HDV de la serie 740 ni para el desempeño de la actividad laboral de conductor de HDV.
@@ -786,6 +735,7 @@ En la investigación se constató la infracción de normativa legal en relación
 "El transportista está obligado a explotar el transporte ferroviario conforme a las reglas de explotación del transporte ferroviario, licencia válida...";
 
 ## Página 22
+
 
 • § 35 apartado 1 letra e) de la Ley núm. 266/1994 Sb., donde entre otros se indica:
 "El transportista está obligado a garantizar que los vehículos ferroviarios en … la vía lateral sean conducidos por personas que posean un certificado de aptitud válido para conducir vehículos ferroviarios";
@@ -809,6 +759,7 @@ bb) se permite la circulación de una locomotora sola y sin acompañamiento en e
 
 ## Página 23
 
+
 ### 3.4 Funcionamiento de los vehículos ferroviarios y de otros dispositivos técnicos
 ### 3.4.1 Sistema de mando, señalización y seguridad, incluidos los dispositivos de registro automático de datos
 El circuito de maniobras I y una parte del circuito de maniobras II de la vía lateral "DEZA Valašské Meziříčí" está equipado con un SZZ de 2.ª categoría de tipo GS II – 63, de relés. La operación del SZZ la realiza el señalero desde el puesto de mando de tráfico, situado en el segundo piso del edificio de explotación. El resto de desvíos se colocan manualmente.
@@ -825,6 +776,7 @@ El HDV de la serie 740 es una locomotora de cuatro ejes con transmisión eléctr
 
 ## Página 24
 
+
 que conduce el DV. En caso contrario, es necesario asegurar el HDV contra el movimiento reduciendo la presión del aire en la tubería principal a 3,5 bares (vinculación al interruptor de presión Tl1, que se desconectará y, por tanto, no permitirá el cierre y la puesta en servicio del circuito de tracción para alimentar los motores de tracción con energía de tracción), apretando el freno de mano, calzando con cuñas, en función de si se trata de estacionar el HDV, alejarse del HDV o de la cabina del conductor;
 • de acción indirecta (automática y continua) – operada por los frenadores DAKO-BS 2;
 • de mano – para asegurar el DV contra el arrastre, operada desde la cabina del conductor mediante el volante.
@@ -833,6 +785,7 @@ Fig. n.º 4: Vista del contacto del respaldo del asiento del conductor con la ma
 Para poner el HDV en movimiento por efecto de su fuerza de tracción, tras el precalentamiento previo del motor de combustión, la eliminación de los medios de aseguramiento y la liberación del freno de mano, es necesario desfrenar el freno de presión automático continuo con el frenador DAKO-BS 2, desfrenar el freno de acción directa con el frenador DAKO-BP, colocar la palanca de dirección del controlador de reversa en la dirección correspondiente ("P" – adelante o "Z" – atrás) y seleccionar con el mando del controlador de marcha el 1.er grado de potencia. Posteriormente, según las necesidades (fuerza de tracción requerida), se pueden acoplar los demás grados de potencia. La fuerza de tracción del HDV se puede regular en 8 grados de potencia, siendo las revoluciones del motor de combustión aumentadas únicamente después de acoplar el 2.º grado de potencia o superior. Con el grado de potencia no acoplado, cuando el controlador de marcha está en la posición "0", y al acoplar el 1.er grado de potencia, el motor de combustión del HDV tiene revoluciones de ralentí.
 
 ## Página 25
+
 
 Fig. n.º 5: Dibujo esquemático del HDV de la serie 740.                  Fuente: ČKD Praha
 El HDV 740.310-8 tenía un Certificado de Aptitud DV válido, n.º de ref.: PZ 0956/07-V.20, emitido por el DÚ el 15. 3. 2007. La última inspección técnica periódica antes de la ocurrencia del MU fue realizada el 22. 3. 2019, con vigencia hasta el 21. 3. 2021.
@@ -848,50 +801,55 @@ El HDV estaba, en el momento de la ocurrencia del MU, equipado con un dispositiv
 
 ## Página 26
 
-El HDV circuló a una velocidad de 38 km·h-1 hacia el 1.º grupo de frenos de vía, cuando desde
+El HDV entró a 38 km·h-1 en el 1.º grupo de frenos de vía, cuando desde
 a las 8.16.44 h
 •
-la última puesta en marcha del HDV había recorrido 1 655 m. Como efecto de los
-frenos de vía, la velocidad de circulación se redujo a 34 km·h-1, tras lo cual siguió un nuevo aumento gradual de la velocidad;
-El HDV circuló a una velocidad de 34 km·h-1 hacia el 2.º grupo de frenos de vía, cuando desde
+el último arranque del HDV había recorrido 1 655 m. Como efecto de
+los frenos de vía, la velocidad de circulación se redujo a 34 km·h-1, tras lo cual
+siguió de nuevo un aumento gradual de la velocidad;
+El HDV entró a 34 km·h-1 en el 2.º grupo de frenos de vía, cuando desde
 a las 8.16.54 h
 •
-la última puesta en marcha del HDV había recorrido 1 751 m. Como efecto de los
-frenos de vía, la velocidad de circulación se redujo a 30 km·h-1, tras lo cual sigue un nuevo aumento gradual de la velocidad;
-### El HDV, tras haber recorrido 1 832 m, a una velocidad de 31 km·h-1, chocó contra el TDV
+el último arranque del HDV había recorrido 1 751 m. Como efecto de
+los frenos de vía, la velocidad de circulación se redujo a 30 km·h-1, tras lo cual
+sigue un nuevo aumento gradual de la velocidad;
+### El HDV, tras haber recorrido 1 832 m, a 31 km·h-1, chocó contra el TDV
 a las 8.17.07 h
 •
 aparcado en la vía n.º 107;
 a las 8.17.08 h
 El HDV se detuvo en la posición final tras el MU.
 •
-Del análisis de los datos registrados por el software de seguimiento GX Loco instalado en el
-HDV 740.324-9 sobre su circulación desde la puesta en marcha en la vía n.º 501 del depósito de locomotoras el
-19 de agosto de 2019 hasta la detención en la posición final tras el MU, entre otros, se desprende que:
-la circulación desde la vía n.º 501, hasta la aguja D9, se realizó mediante la activación del
+Del análisis de los datos registrados por el software de seguimiento GX Loco instalado en
+el HDV 740.324-9 sobre su circulación desde el arranque en la vía n.º 501 de la cochería de locomotoras el
+19 de 8 de 2019 hasta la detención en la posición final tras el MU, entre otros, se desprende que:
+la circulación desde la vía n.º 501, hasta la aguja D9, se realizó mediante la activación
 •
-1.er grado de potencia por el controlador de conducción. La detención antes de la aguja D9
-precedió a la desactivación del 1.er grado de potencia, es decir, al paso del controlador de conducción a la
-posición «0»;
-la maniobra posterior más allá de la aguja D9 se realizó tras la activación del 1.er grado de
+del 1.º grado de potencia por el mando de control. La detención antes de la aguja D9
+precedió a la desactivación del 1.º grado de potencia, es decir, al paso del mando de
+circulación a la posición "0";
+el posterior maniobrado más allá de la aguja D9 se realizó tras la activación del
 •
-potencia por el controlador de conducción, grado de potencia que no fue, y no solo
+1.º grado de potencia por el mando de control, grado de potencia que no fue, y no solo
 ### antes y en el momento de la detención del HDV tras la aguja D9, sino hasta el momento del choque del HDV
 con los TDV aparcados en la vía n.º 107, desactivado;
-tras el choque del HDV con los TDV aparcados, cuando la dinámica del suceso del accidente hizo que el
+tras el choque del HDV con los TDV aparcados, cuando la dinámica del suceso del accidente
 •
-controlador de conducción pasara a la posición «0», el motor de combustión, a pesar del daño total violento del tren motriz, siguió funcionando durante 56 s a ralentí.
-De las grabaciones de vídeo realizadas por las (cámaras de) seguimiento instaladas en ambos
-frentes del HDV 740.324-9, en el tiempo desde la puesta en marcha del HDV en el depósito de locomotoras hasta su
+había llevado el mando de circulación a la posición "0", el motor de combustión, pese al
+daño violento total del tren motriz, siguió funcionando durante 56 s a ralentí.
+De las grabaciones de vídeo realizadas por las cámaras (de seguimiento) situadas en ambos
+frentes del HDV 740.324-9, en el tiempo desde el arranque del HDV en la cochería de locomotoras hasta su
 detención en la posición final tras la aparición del MU, teniendo en cuenta la desviación temporal entre el
-tiempo registrado por las cámaras y el tiempo registrado por el velocímetro registrador, cuando para los fines del presente MU se considera como tiempo de referencia el registrado por el velocímetro registrador, entre otros, se desprende:
-| • a las 8.11.44 h | El HDV 740.324-9, circulando por la vía n.º 501 hacia delante con maniobra de cabeza larga, entró en la aguja D8, donde se detuvo antes de la aguja D9; |
-| • a las 8.11.45 h | El HDV 740.310-8 salió por la vía n.º 502 del depósito de locomotoras circulando hacia delante con maniobra de cabeza larga; |
-| • a las 8.12.09 h | El mecánico 2, que conducía el HDV 740.324-9, accionó la aguja D9 para la circulación a la vía n.º 305; |
-| • a las 8.12.14 h | El HDV 740.310-8 se detuvo tras el HDV 740.324-9, delante del corazón de la aguja D8. El mecánico 1, que conducía dicho HDV, bajó del HDV y fue a la palanca de cambio de la aguja D8; |
-
+tiempo registrado por las cámaras y el tiempo registrado por el velocímetro
+registrador, cuando para los fines del presente MU se considera como tiempo de referencia el
+tiempo registrado por el velocímetro registrador, entre otros, se desprende:
+| • a las 8 11 44 h . . | El HDV 740 .324 -9 circulando por la vía n.º 501 hacia delante con el morro largo entró en la aguja D8 donde se detuvo antes de la aguja n.º D9; |
+| • a las 8 11 45 h . . | El HDV 740 .310 -8 salió por la vía n.º 502 de la cochería de locomotoras circulando hacia delante con el morro largo; |
+| • a las 8 12 09 h . . | el mecánico 2 al mando del HDV 740 .324 -9 cambió la aguja D9 para la circulación por la vía n.º 305; . |
+| • a las 8 12 14 h . . | El HDV 740 .310 -8 se detuvo detrás del HDV 740 .324 -9 antes del corazón de la aguja D8. El mecánico 1 que conducía dicho HDV bajó del HDV y fue a la palanca del cambiador de la aguja D8; |
 
 ## Página 27
+
 
 | • a las 8.12.42 h | El HDV 740.324-9 se puso en marcha circulando hacia delante a través de la aguja D9. Cuando el HDV abandonó la aguja D8, el mecánico 1 la accionó para la circulación del HDV 740.310-8 desde la vía n.º 502; |
 | • a las 8.13.03 h | El HDV 740.324-9 se detuvo en la vía n.º 305, tras la aguja D9; |
@@ -925,8 +883,8 @@ con los datos registrados por el software de seguimiento GX Loco, es evidente qu
 potencia (activado antes de la puesta en marcha del HDV desde el espacio de la aguja D8 en el ámbito
 del depósito de locomotoras) fue desactivado únicamente en el momento del choque por la acción de las puertas superiores izquierdas salidas del cuadro eléctrico principal que se movían de forma no controlada, y ello incluso antes de
 
-
 ## Página 28
+
 
 su encajamiento contra la palanca de mando del controlador de conducción y el marco de la ventana lateral derecha de la cabina.
 Se detectó una deficiencia.
@@ -948,36 +906,33 @@ y 3.4.4 de la presente ZZ.
 En relación con el MU se produjo una comunicación verbal entre el mecánico 1
 y el mecánico 2, quienes, aunque no estuvieran habilitados para el desempeño de la actividad laboral de conductor de HDV en el enlace «DEZA Valašské Meziříčí», acordaron realizar conjuntamente el intercambio de los HDV 740.310-8 y 740.324-9 sobre los canales de trabajo, véanse los apartados 3.1.1 y 3.2.2 de la presente ZZ.
 
-
 ## Página 29
 
 ### 3.5.3 Medidas adoptadas para la protección y la seguridad del lugar del suceso excepcional
-El lugar del MU fue asegurado por la persona cualificada designada del gestor de la infraestructura y del transportista de conformidad con el decreto n.º 376/2006 Sb.
-### 3.6 Condiciones laborales, sanitarias y operativas
-### 3.6.1 Jornada laboral de los empleados del gestor de la infraestructura y del transportista que participaron en el suceso excepcional
-mecánico 1, en la jornada del 19 de agosto de 2019 desde las 6.00 h, descanso previo a la jornada de 63,5 h.
+El lugar del SE fue asegurado por la persona cualificada y competente designada del gestor de la vía y del transportista, de conformidad con el decreto n.º 376/2006 Sb.
+### 3.6 Condiciones laborales, sanitarias y de explotación
+### 3.6.1 Jornada laboral de los empleados del gestor de la vía y del transportista que participaron en el suceso excepcional
+mecánico 1, en la jornada del 19 de agosto de 2019 a partir de las 6.00 h, descanso previo a la jornada de 63,5 h.
 •
-La pausa para la comida y el descanso no fue disfrutada, dada la duración de la jornada trabajada;
-mecánico 2, en la jornada del 19 de agosto de 2019 desde las 6.00 h, descanso previo a la jornada de 49 h.
+No se disfrutó la pausa para comida y descanso en función de la duración de la jornada trabajada;
+mecánico 2, en la jornada del 19 de agosto de 2019 a partir de las 6.00 h, descanso previo a la jornada de 49 h.
 •
-La pausa para la comida y el descanso no fue disfrutada, dada la duración de la jornada trabajada;
-capataz de turno, en la jornada del 19 de agosto de 2019 desde las 6.00 h, descanso previo a la jornada de 60 h.
+No se disfrutó la pausa para comida y descanso en función de la duración de la jornada trabajada;
+capataz de turno, en la jornada del 19 de agosto de 2019 a partir de las 6.00 h, descanso previo a la jornada de 60 h.
 •
-La pausa para la comida y el descanso fue disfrutada en las pausas laborales adecuadas.
-El empleador garantizó las condiciones para el descanso previo a la jornada y durante la jornada
-de conformidad con la ley n.º 262/2006 Sb., o bien con el decreto gubernamental n.º 589/2006 Sb., por el que se establece la regulación diferenciada de la jornada laboral y del tiempo de descanso de los empleados en el transporte.
-3.6.2 Estado de salud y situación personal que tuvieron repercusión en el suceso excepcional, incluido el estrés físico o psicológico
-Los empleados participantes del gestor de la infraestructura y del transportista se encontraban, en el momento de la aparición del MU, en condiciones de salud aptas para el desempeño de la función que ocupaban. La investigación no determinó que su situación personal o su estado psicológico hubieran tenido influencia en la aparición del MU.
-3.6.3 Disposición del equipamiento del puesto de mando o del vehículo ferroviario que influye en su operación y uso
-La disposición y el equipamiento del puesto de trabajo de los empleados del gestor de la infraestructura y del transportista no guardaban relación con la aparición del MU.
+La pausa para comida y descanso se disfrutó en las pausas laborales adecuadas.
+El empleador garantizó las condiciones para el descanso previo a la jornada y durante la jornada de conformidad con la ley n.º 262/2006 Sb., o bien con el decreto gubernamental n.º 589/2006 Sb., por el que se establece un régimen diferenciado de la jornada laboral y del tiempo de descanso de los empleados en el transporte.
+3.6.2 Estado de salud y situación personal que tuvieron incidencia en el suceso excepcional, incluido el estrés físico o psicológico
+Los empleados participantes del gestor de la vía y del transportista se encontraban, en el momento de producirse el SE, aptos para el desempeño de la función que desempeñaban. La investigación no arrojó datos de que su situación personal o su estado psicológico hubieran tenido influencia en la producción del SE.
+3.6.3 Disposición del equipamiento del puesto de mando o del vehículo ferroviario que incide en su conducción y utilización
+La disposición y el equipamiento del puesto de trabajo de los empleados del gestor de la vía y del transportista no guardaban relación con la producción del SE.
 ### 3.7 Sucesos excepcionales anteriores de carácter similar
-El DI, en el periodo desde el 1 de enero de 2008 hasta la aparición del MU en cuestión, no registra en el enlace «DEZA Valašské Meziříčí» ningún MU similar – circulación no asegurada (espontánea) y no controlada de un HDV.
-El DI, en el periodo desde el 1 de enero de 2008 hasta la aparición del MU en cuestión, investigó las causas y circunstancias de la aparición de los 3 MU similares indicados a continuación, que tuvieron lugar en la vía de ámbito nacional, respectivamente en la vía regional:
-el 27 de junio de 2009 en la estación Rájec-Jestřebí, cuando se produjo una circulación no asegurada (fuga) de la composición del tren EC 174. La causa inmediata de la aparición del MU fue la no aseguración de la composición frente al movimiento no deseado mediante la aplicación del freno continuo y de los frenos de mano de los TDV.
-•
-Un factor contribuyente fue que un miembro de la tripulación del tren no utilizara el freno de emergencia para detener la composición inmediatamente después de detectar su movimiento inesperado.
+El DI, en el periodo comprendido entre el 1 de enero de 2008 y la fecha de producción del SE en cuestión, no registra en el enlace «DEZA Valašské Meziříčí» ningún SE similar —no asegurado (espontáneo) y no controlado— de circulación de HDV.
+El DI, en el periodo comprendido entre el 1 de enero de 2008 y la fecha de producción del SE en cuestión, investigó las causas y circunstancias de la producción de 3 SE similares indicados a continuación, que tuvieron lugar en la vía de ámbito estatal, respectivamente en la vía regional:
+el 27 de junio de 2009 en la estación de Rájec-Jestřebí, cuando se produjo una circulación no asegurada (despacho) del tren EC 174. La causa inmediata de la producción del SE fue la no aseguramiento del tren contra el movimiento no deseado mediante la aplicación del freno continuo y de los frenos manuales del TDV. El factor contribuyente fue que un miembro de la tripulación no utilizó el freno de emergencia para detener el tren inmediatamente después de detectar el movimiento inesperado del tren.
 
 ## Página 30
+
 
 El transportista ČD, a. s., adoptó la medida n.º 9794/09/09, de fecha 24. 09. 2009, que ordenaba
 informar durante la formación periódica de los maquinistas sobre el desarrollo, la causa y las consecuencias de este
@@ -1024,8 +979,8 @@ sobre el foso de inspección en funcionamiento. Como el maquinista que debía
 trasladar los HDV en el depósito de locomotoras estaba ocupado, los mecánicos decidieron
 trasladar los HDV en el depósito por sus propios medios, e incluso a pesar de que el mecánico 1 no estaba habilitado en el enlace «DEZA Valašské Meziříčí»
 
-
 ## Página 31
+
 
 para el desempeño de la actividad laboral de conductor de HDV y el mecánico 2 no era titular de un certificado de habilitación
 válido para la conducción de DV ni de una licencia válida de maquinista, y no estaba habilitado en el enlace
@@ -1080,8 +1035,8 @@ Sin embargo, debido a la marcha en pendiente y al 1.er grado de potencia acoplad
 comenzó a aumentar de nuevo gradualmente. A la hora 8.17.07 h, a una distancia de 74 m detrás del final del 2.º tren de frenos de vía,
 es decir, tras recorrer una distancia de 1 832 m, el HDV, a una velocidad de 31 km·h-1, embistió en la vía
 
-
 ## Página 32
+
 
 n.º 107 al TDV 33 54 7834 006-0 estacionado a la cabeza del grupo de TDV estacionados de un peso total
 de 844 t.
@@ -1118,45 +1073,61 @@ el software de seguimiento GX Loco instalado en el HDV 740.324-9, que no solo du
 
 ## Página 33
 
-vía n.º 107, en el controlador de conducción se había activado el 1.er escalón de potencia. Este fue desactivado hasta el momento de la colisión (a una velocidad de 31 km·h-1) por la acción de las puertas superiores izquierdas del panel eléctrico principal, que se habían desprendido y se movían de forma no controlada, las cuales, antes de atascarse en la manija de mando («volante») del controlador de conducción y en el marco de la ventana lateral derecha de la cabina, chocaron contra el controlador de conducción e iniciaron su cambio a la posición «0».
-El HDV 740.324-9 estaba siendo utilizado en el momento de la aparición de la MU, de conformidad con el § 35 apartado 1 letra d) de la ley n.º 266/1994 Sb., en un estado técnico que correspondía a la aptitud aprobada. La investigación no arrojó nada que, aparte del comportamiento del mecánico 2, pudiera influir negativamente en la puesta del HDV en movimiento no asegurado (espontáneo) y no controlado.
-Parte de la investigación de la MU fue, entre otros, la evaluación de todas las influencias que pudieran actuar sobre los empleados implicados y que pudieran tener, en su caso, influencia en la aparición de la MU. Se trata, en particular, además de la evaluación del estado de salud y de la situación personal, de la capacidad de procesar información, de un posible estrés físico y psicológico, así como de la evaluación de la experiencia, los conocimientos, la duración de la práctica y la carga de trabajo.
-De la investigación realizada sobre la MU se desprende que la maniobra –el cambio de posición de los HDV 740.310-8 y 740.324-9– la realizaron mecánicos que estaban de acuerdo en este procedimiento de trabajo. Esta actividad la llevaron a cabo de buena fe, con la convicción de que ellos mismos podían gestionarla, por lo que no molestarían a nadie y podrían continuar con el siguiente trabajo –el mantenimiento programado de los HDV en cuestión– sin demoras. El mecánico 2, que conducía el HDV 740.324-9, no actuó con la intención de causar la aparición de la MU.
-Una influencia fundamental en la aparición de la MU la tuvo la insuficiente/nula formación teórica y profesional y la aptitud del mecánico 2 para conducir DV, en combinación con la ausencia de cualquier experiencia personal directa en la conducción de DV en el desempeño de la función de maquinista, a pesar de su conocimiento y experiencia personal adquiridos en el trabajo como ayudante de maquinista. Lo anterior se manifestó, en particular, en la forma incorrecta de circular al pasar a la aguja D9, cuando el mecánico 2, antes de detener el HDV, de forma totalmente ilógica y en contra de los principios básicos de la conducción de DV y de los hábitos de los maquinistas, no desactivó mediante el mando del controlador de conducción el 1.er escalón de potencia, ni lo desactivó tampoco tras la detención, antes de abandonar la cabina del maquinista, cuando se dirigió a la aguja D8.
-La insuficiente inmovilización del HDV 740.324-8 frente a un movimiento no deseado (dejar el freno DAKO-BP sin control visual) puede imputarse a la ignorancia y a la incompetencia del mecánico 2 para conducir DV.
+koleji č. 107, en el controlador de conducción se había activado el 1.º grado de potencia. Este fue desactivado hasta el momento de la colisión (a una velocidad de 31 km·h-1) por la acción de las puertas superiores izquierdas desprendidas que se movían sin control, las cuales, antes de encajarse en el mando de control («volante») del controlador de conducción y en el marco de la ventana lateral derecha de la cabina, chocaron contra el controlador de conducción e iniciaron su cambio a la posición «0».
+El HDV 740.324-9, en el momento de la aparición del MU, se utilizaba, de conformidad con el § 35 apartado 1 letra d) de la ley núm. 266/1994 Sb., en un estado técnico que correspondía a la aptitud aprobada. La investigación no arrojó nada que, aparte del comportamiento del mecánico 2, pudiera influir negativamente en la puesta del HDV en movimiento no asegurado (espontáneo) y sin control.
+Parte de la investigación del MU fue, entre otros, la evaluación de todas las influencias que pudieron actuar sobre los empleados implicados y que pudieran haber tenido, en su caso, influencia en la aparición del MU. Se trata, en particular, además de la evaluación del estado de salud y de la situación personal, de la capacidad de procesar información, de un posible estrés físico y psíquico, así como de la evaluación de la experiencia, los conocimientos, la duración de la práctica y la carga laboral.
+De la investigación del MU realizada se desprende que la maniobra –el cambio del HDV 740.310-8 y 740.324-9– la realizaron mecánicos que estaban de acuerdo en este procedimiento de trabajo. Esta actividad la llevaron a cabo de buena fe, con la convicción de que ellos mismos podían hacerlo, por lo que no molestarían a nadie y podrían continuar en el trabajo posterior –el mantenimiento programado de los HDV en cuestión– sin demora. El mecánico 2, que conducía el HDV 740.324-9, no actuó con la intención de causar la aparición del MU. Una influencia decisiva en la aparición del MU la tuvo la insuficiente/nula formación teórica y profesional y la aptitud del mecánico 2 para conducir el DV, en combinación con la ausencia de cualquier experiencia personal directa en la conducción del DV en el desempeño de la función de maquinista, a pesar de su conocimiento y experiencia personal adquiridos en el trabajo como ayudante de maquinista. Lo anterior se manifestó, en particular, en la forma incorrecta de conducir al pasar por la aguja D9, cuando el mecánico 2, antes de detener el HDV, de forma totalmente ilógica y en contradicción con los principios básicos de la conducción del DV y con los hábitos de los maquinistas, no desactivó mediante el mando del controlador de conducción el 1.º grado de potencia, ni lo desactivó tampoco tras la detención, antes de abandonar la cabina del maquinista, cuando se dirigió a la aguja D8. La insuficiente aseguración del HDV 740.324-8 contra el movimiento no deseado (dejar el freno DAKO-BP sin control visual) puede imputarse a la ignorancia y a la incompetencia del mecánico 2 para conducir el DV.
 ### 4.3 Conclusiones
-4.3.1 Causas directas e inmediatas del suceso excepcional, incluidos los factores que contribuyeron al mismo y que estuvieron relacionados con la actuación de las personas implicadas o con el estado de los vehículos ferroviarios o de las instalaciones técnicas
+4.3.1 Causas directas e inmediatas del suceso excepcional, incluidos los factores que contribuyeron al mismo y que estuvieron relacionados con la actuación de las personas implicadas o con el estado de los vehículos ferroviarios o de los equipos técnicos
 Las causas inmediatas del suceso excepcional fueron:
-forma incorrecta de circular antes de la detención del vehículo ferroviario motriz 92 54 2 740 •
-324-9 y durante su estacionamiento tras la aguja D9 – no desactivación del 1.er escalón de potencia;
-no inmovilización del vehículo ferroviario motriz 92 54 2 740 324-9 frente al •
+forma incorrecta de conducir antes de la detención del vehículo ferroviario de tracción 92 54 2 740
+•
+324-9 y durante su estacionamiento tras la aguja D9 –no desactivación del 1.º grado de potencia;
+no aseguramiento del vehículo ferroviario de tracción 92 54 2 740 324-9 contra el
+•
 movimiento antes de alejarse de la cabina del maquinista.
-
 
 ## Página 34
 
-### 4.3.2 Causas fundamentales relacionadas con la cualificación, los procedimientos y el mantenimiento
-La causa fundamental del suceso excepcional fue:
-conducción del vehículo ferroviario motriz 92 54 2 740 324-9 por una persona que •
-no era titular de un certificado de aptitud válido para conducir vehículos ferroviarios ni de una licencia de maquinista válida, y que no estaba cualificada en el ramal «DEZA Valašské Meziříčí» para conducir vehículos ferroviarios motrices de la serie 740 ni para el desempeño de la actividad laboral de conductor de vehículo ferroviario motriz.
-### 4.3.3 Causas originadas en el marco jurídico y en el uso del sistema de garantía de la seguridad
-No se detectó ninguna causa del suceso excepcional derivada del marco jurídico y del uso del sistema de garantía de la seguridad.
+### 4.3.2 Causas principales relacionadas con la cualificación, los procedimientos y el mantenimiento
+La causa principal del suceso ferroviario fue:
+la conducción de la locomotora de tracción 92 54 2 740 324-9 por una persona que no era titular de
+•
+un certificado de aptitud válido para conducir material rodante ni de una licencia válida de
+maquinista, y que no estaba cualificada en el apartadero „DEZA Valašské Meziříčí“ para
+conducir locomotoras de tracción de la serie 740 ni para desempeñar la actividad laboral de
+conductor de locomotora de tracción.
+### 4.3.3 Causas originadas en el marco jurídico y en el uso del sistema de
+garantía de la seguridad
+No se ha detectado la causa del suceso ferroviario originada en el marco jurídico y en el uso del
+sistema de garantía de la seguridad.
 ### 4.4 Hallazgos complementarios
-4.4.1 Deficiencias y omisiones detectadas durante la investigación que no se refieren a las conclusiones sobre las causas
-Operador del ramal DEZA, a. s.:
-en virtud de lo dispuesto en el art. VII, punto 3, letra bb) del Reglamento del •
-Ramal y en el § 23 apartados 4 y 9 del decreto n.º 173/1995 Sb., de acuerdo con el § 22 apartado 1 letra a) de la ley n.º 266/1994 Sb., no operó el ramal de acuerdo con las normas de explotación del ramal y la autorización oficial, al haber sido señalizadas las agujas D8 y D9, de forma distinta a lo previsto en el Reglamento del Ramal, únicamente con los números 8 y 9.
+4.4.1 Deficiencias y omisiones detectadas durante la investigación que no se
+relacionan con las conclusiones sobre las causas
+El operador de la vía DEZA, a. s.:
+en virtud de lo dispuesto en el artículo VII, punto 3, letra bb) del Reglamento de apartadero y
+•
+en los apartados 4 y 9 del artículo 23 del decreto nº 173/1995 Sb., de conformidad con el
+apartado 1, letra a) del artículo 22 de la ley nº 266/1994 Sb., no explotaba la vía de acuerdo con
+las reglas de explotación de la vía y la autorización administrativa, al haberse señalado los
+desvíos D8 y D9, de forma distinta a lo previsto en el Reglamento de apartadero, únicamente
+con los números 8 y 9.
 ## 5 MEDIDAS ADOPTADAS
-### 5.1 Lista de medidas que ya se han llevado a cabo o adoptado como consecuencia del suceso excepcional
-El operador del ramal y transportista DEZA, a. s., adoptó tras la aparición de la MU las siguientes medidas:
-puso fin al acuerdo de realización de trabajos con los mecánicos 1 y 2; •
-se llevó a cabo un cambio organizativo consistente en la creación y la •
-dotación permanente de la plaza de mecánico de locomotoras diésel;
-impuso a los maquinistas la obligación de registrar en el Libro de entrega del HDV la •
-vía en la que estacionarían el HDV en el depósito de locomotoras.
-
+### 5.1 Lista de medidas que ya se han adoptado o tomado como consecuencia
+del suceso ferroviario
+El operador de la vía y el transportista DEZA, a. s., adoptó las siguientes medidas tras la
+producción del SU:
+con los mecánicos 1 y 2, puso fin al acuerdo para la realización de trabajos;
+•
+se llevó a cabo un cambio organizativo consistente en la creación y la dotación permanente
+•
+del puesto de mecánico de locomotoras diésel;
+impuso al maquinista la obligación de registrar en el Libro de entrega de material rodante de
+•
+tracción la vía en la que aparca el material rodante de tracción en el depósito de locomotoras.
 
 ## Página 35
+
 
 ## 6 RECOMENDACIONES DE SEGURIDAD
 Atendiendo a las causas detectadas y a las circunstancias de aparición del suceso excepcional, la Inspección Ferroviaria no emite recomendaciones de seguridad.
@@ -1168,11 +1139,10 @@ Director
 de la Inspección Territorial de Ostrava
 de la Inspección Territorial de Ostrava
 
-
 ## Página 36
 
 ## 7 ANEXOS
-Fig. n.º 6: Vista del lugar de la MU delante de la aguja D9 y del depósito de locomotoras.  
+Fig. n.º 6: Vista del lugar del MU antes de la aguja D9 y del depósito de locomotoras.  
 Fuente: DI
-Fig. n.º 7: Vista desde la cámara instalada en el frontal trasero del HDV 92 54 2 740 324-9 en el momento de la aparición de la MU.    
+Fig. n.º 7: Vista desde la cámara situada en el frontal trasero del HDV 92 54 2 740 324-9 en el momento de la formación del MU.    
                 Fuente: DEZA, a. s.

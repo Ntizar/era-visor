@@ -10,13 +10,14 @@ chars: 52053
 ratio_longitud: 1.02
 tokens_in: 22849
 tokens_out: 15304
-verificacion: revisar
-notas_cifras: ["bloque 1: cifras cortas: 7/148", "bloque 4: cifras largas: 1/11", "bloque 5: cifras largas: 5/47"]
-avisos: ["bloque 1: cifras largas: faltan 13/22 (59%)"]
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 2: original bilingüe: se compara contra el idioma principal (FR)", "página 4: original bilingüe: se compara contra el idioma principal (FR)", "página 7: cifras largas: 1/10", "página 10: cifras largas: 1/17"]
 ---
+
 ## Página 1
+
 
 Consejo General de Puentes y Caminos
 6 de diciembre de 2005
@@ -30,8 +31,8 @@ Informe de investigación técnica sobre
 el accidente ferroviario ocurrido en Longueville
 el 16 de febrero de 2005
 
-
 ## Página 2
+
 
 Cuadro documental
 Organismo(s) encargado(s): Ministerio de Transportes, Equipamiento, Turismo y Mar; MTETM
@@ -44,66 +45,66 @@ N.º ISRN: EQ-BEATT--05-9--FR
 
 Propuesta de palabras clave: Colisión, Transporte ferroviario, Freno
 
-
 ## Página 3
 
 Índice
 
-1 Resumen... 8
-2 Constataciones inmediatas... 9
-2.1 El accidente... 9
-2.2 Pérdidas humanas, personas heridas y daños materiales. 9
-2.3 Elementos de contexto... 9
-2.3.1 Sociedad explotadora... 9
-2.3.2 El tramo de vía Longueville- Provins. 9
-2.3.3 El material rodante de viajeros. 9
+1 Resumen... 0000 0080906800 00000000N2090D00S00000C000O0000S0S00000OC0000000000S00.O00000UGG0 veuves Û
+2- Constataciones inmediatas. recrue ras ere ecec0 00080950000000060006000 000
+2.1 El ACCICONL se vircriremaititihennmennnnanannannççannennt n ne nmsmnnnnenennnnnnententee 9
+2.2- Pérdidas humanas, personas heridas y daños materiales. 9
+2.3- Bléments d€ CONtEXtE….….……….….………….………rccsesrecnenenmmnneaneanraneersenerenrrrrrrrrn er erevivivee 9
+2.3.1- Sociedad explotadora… pe PE ME EE
+2.3.2- La sección de línea Longueville- Provins. mérites eee raies iiiriinenmmenennn D
+2.3.3- El material de viajeros. AN | IS A AO
 
-3- Informe de las investigaciones y las investigaciones... 13
+3- Relato de las investigaciones y encuestas... 13
 
-3.1- Resumen de los testimonios... 13
-3.1.1- Declaraciones del conductor del tren 117710: 13
-3.1.2- Declaraciones del agente de tren del tren 117710... 13
-3.1.3- Declaraciones del conductor anterior... 14
-3.1.4- Declaraciones del jefe de seguridad en la estación de Provins... 14
-3.1.5- Declaraciones del agente de circulación en la estación de Longueville... 14
-3.1.6- Declaraciones del adjunto « seguridad » del jefe de establecimiento explotación de « Este
-parisino »... 14
-3.1.7- Declaraciones del conductor del tren percudido 1 17578... 15
-3.1.8- Declaraciones del responsable de tracción de guardia Tracción (CTT)... 15
+3.1- Resumen de los (ÉMOÏGNAGES. ricrérerenirraparenearientettrihneniniierrerranmenernenestennta rames ess 13
+3.1.1- Declaraciones del conductor del tren 117710 : ……………….…..………crcreccrrereerrererenrevesrsrersres 13
+3.1.2- Declaraciones del agente de tren del tren 117710....….…….……………rrenenenennnnn 13
+3.1.3- Declaración del conductor anterior.……u…mimicenmenment mean ndiecisiienistiie 14
+3.1.4- Declaración del jefe de seguridad en la estación de Provins... 14
+3.1.5- Declaración del agente de circulación en la estación de Longueville.…………… 14
+3.1.6- Declaración del adjunto « seguridad » del jefe de establecimiento explotación de «P Est
+parisien » . = PEER RER ERA E P EE
+3.1.7- Declaraciones del conductor del tren atropellado 1 17578... pomme ae LS
+3.1.8- Declaraciones del cuadro de tracción de guardia Traction (CTT).…. hrermammnmnnnnt ons
 
-3.2- Gestión inmediata del incidente... 15
+3.2- Gestión inmediata del incidente……………….…………nennnnnnnnnnnnnnnn 15
 
-3.3- Sistema de gestión de la SEGURIDAD... 16
-3.3.1- Las instalaciones fijas de seguridad... 16
-3.3.2- Los mandos del frenado a bordo de la locomotora... 16
-3.3.3- Las instalaciones de seguridad (relacionadas con la conducción) a bordo del tren... 16
+3.3- Sistema de gestión de la SÉCUTItÉ.…….………….…………crrrseenermnnannmnennnnnnnn 16
+3.3.1- Las instalaciones fijas de seguridad. terminer en AO
+3.3.2- Los mandos del frenado a bordo de la locomotora. sera amer certe LÉO
+3.3.3- Las instalaciones de seguridad (ligadas a la conducción) a bordo del tren. péltiétercemmennennmntbkt
 
-3.4- Normas y reglamentaciones... 17
-3.4.1- Normas y reglamentaciones para los agentes de las estaciones... 17
-3.4.2- Normas y reglamentaciones para los agentes de acompañamiento... 17
-3.4.3- Normas y reglamentación para los agentes de conducción... 17
+3.4- Reglas ctréglemeontationS.……iciarrepananennnnt aniiennnnenitennennnnnnten 17
+3.4.1- Reglas y reglamentaciones para los agentes de las estaciones. sascocmaneaanmennneneî
+3.4.2- Reglas y reglamentaciones para los agentes de acompañamiento … sxptrrenannaenmemeenceana IT
+3.4.3- Reglas y reglamentación para los agentes de conducción. ice PS
 
-3.5- Funcionamiento de las instalaciones técnicas y del material rodante... 20
-3.5.1- Constataciones realizadas en las instalaciones fijas... 20
-3.5.2- Banda gráfica de registro de los eventos de conducción... 20
-3.5.3- Constataciones realizadas en el tren 117710 relativas al frenado 21
+3.5- Funcionamiento de las instalaciones técnicas y del material rodante… crurakererdries 20
+3.5.1- Constataciones hechas sobre las instalaciones fijas... rie mmalrenmedretn cha 20
+3.5.2- Banda gráfica de registro de los acontecimientos de conducción. éme D
+3.5.3- Constataciones hechas sobre el tren 117710 relativas al frenado 21
 
-3.6- Condiciones de trabajo del conductor... 27
-3.6.1- La jornada de trabajo del conductor del tren 117710... 27
-3.6.2- Circunstancias médicas y personales del conductor del tren 117710... 27
-3.6.3- Duración de las medias vueltas en Longueville o Provins... 28
-3.6.4- Ergonomía de conducción de las locomotoras utilizadas... 28
+3.6- Condiciones de trabajo del conductor……………………………enenenensnenenne 27
+3.6.1- La jornada de trabajo del conductor del tren 117710... ARE érrécréistioreenen= à
+3.6.2- Circunstancias médicas y personales del conductor del sax 1177 1 0... sacre
+3.6.3- Duración de los cambios de sentido en Longueville o ProvVins....……….…….………crserecererennnennnsnnn 28
+3.6.4- Ergonomía de conducción de las locomotoras utilizadas… sv 28
 
-3.7- Convenio de explotación SNCF/CFTA y gestión de los agentes CFTA... 29
-3.7.1- Convenio de explotación SNCF/CFTA y reglamento de seguridad aplicable... 29
+3.7- Convenio de explotación SNCF/CFTA y management de los agentes CFTA.. 29
+3.7.1- Convenio de explotación SNCF/CFTA y reglamento de seguridad aplicable. 29
 
-3.7.2- La organización general de la gestión de la seguridad en la CFTA... 29
-3.7.3- La gestión de los agentes en relación con la seguridad en la CFTA... 30
-3.7.4- Las relaciones SNCF / CFTA para los agentes de acompañamiento... 33
+3.7.2- La organización general del management de la seguridad en la CFTA....…….…...…..…….….…….29
+3.7.3- El management de los agentes frente a la seguridad en la CFTA...….………...…………………….…...30
+3.7.4- Las relaciones SNCF / CFTA para los agentes de acompañamiento…………………………………………33
 
 3
 
 ## Página 4
+
 
 3.8- Sucesos anteriores de naturaleza comparable... 33
 
@@ -155,8 +156,8 @@ Anexo 15 : Puesto de conducción (lado 1) : freno de mano y válvula de emergenc
 Anexo 16 : El marco reglamentario para la explotación del tramo de línea de
 Longueville (exchi) a Provins. LirionedntionmemneneanadansnnnntnnetnnnennnnennÊandt 69
 
-
 ## Página 5
+
 
 Glosario
 
@@ -208,6 +209,7 @@ desvíos y las señales de una zona de itinerario por itinerario (y no por desv�
 
 ## Página 6
 
+
 individualmente). Las vías pueden grabarse de forma ordenada con antelación, incluso si existen incompatibilidades entre ellas. La segunda vía se forma tan pronto como el tren supera la última aguja incompatible de la primera vía.
 
 Conjunto reversible: material rodante de viajeros constituido por una locomotora y un conjunto de vagones, generalmente de composición fija. El vagón de extremo (denominado «vagón piloto») dispone de una cabina de conducción con órganos de mando conectados por cables a la locomotora. Dicho conjunto puede ser conducido indistintamente desde la locomotora o desde el vagón piloto, lo cual facilita la explotación, ya que en las maniobras de inversión ya no es necesario hacer pasar la locomotora de la cola del tren a la cabeza.
@@ -230,6 +232,7 @@ ZG- Interruptor general ZG: denominado también «cierre de reversibilidad», ó
 
 ## Página 7
 
+
 1- Resumen
 
 El 16 de febrero de 2005, a las 19 h 23, el tren 117 710, procedente de Provins (Seine y Marne), embiste lateralmente en la estación de Longueville (Seine y Marne) al tren 117 578. Por fortuna, no hubo heridos que lamentar; únicamente se produjeron daños materiales: el coche de cabeza del tren embestido quedó destrozado, la locomotora del tren embestidor sufrió algunos daños en el chasis, y la vía así como el andén contiguo quedaron deformados. Los dos trenes implicados están constituidos por unidades reversibles (con una cabina de conducción en cada extremo) diésel de acero inoxidable. La línea de Longueville a Provins es explotada por la sociedad CFTA, en régimen de subcontratación de la SNCF.
@@ -248,8 +251,8 @@ En cuanto a la gestión, la CFTA debe completar su sistema relativo a la formaci
 
 * Término que figura en el glosario
 
-
 ## Página 8
+
 
 EE
 —
@@ -307,35 +310,36 @@ ms m1 EF À Pare | uéu lFEuus me Een ES EE Ein |
 
 2.1- El accidente
 
-El miércoles 16 de febrero de 2005 a las 19 h 23, el tren n.º 117 710, procedente de Provins (Sena y Marne), embistió lateralmente al tren 117 578 en la estación de Longueville (Sena y Marne).
+El miércoles 16 de febrero de 2005 a las 19h23 el tren n.º 117 710 procedente de Provins (Seine et Marne) embistió de canto, en la estación de Longueville (Seine et Marne), al tren 117 578.
 
-El tren 117 578, tras haber permanecido estacionado en la vía B de la estación de Longueville, partió a las 19 h 14, a la hora prevista, con destino a París. Este movimiento le llevaba a cortar las vías A y 1, lado París, antes de tomar la vía 2. Tras ser accionado una alarma de emergencia por un viajero, el tren se detuvo, encontrándose su coche de cabeza (coche piloto) sobre el cruce de unión doble (CUD) n.º 155/156. Este CUD da acceso, por un lado, a la vía única de Provins y a las vías 1 y 2, lado París, y, por el otro, a las vías A y B. El extremo del andén que da servicio a las vías 1 y A se encuentra a la altura de este CUD. Veinte viajeros se encontraban en el tren, de los cuales uno estaba en el coche impactado.
+El tren 117578, tras haber permanecido estacionado en la vía B de la estación de Longueville, partió a las 19h14, en hora, con dirección a París. Este movimiento lo llevaba a cruzar las vías A y 1 lado París antes de tomar la vía 2. Habiendo sido activada una alarma por un viajero, el tren se detuvo, encontrándose su coche de cabeza (coche piloto) sobre el cruzamiento de enlace doble (TJS) n.º 155/156. Esta TJD da acceso por un lado a la vía única de Provins y a las vías 1 y 2 lado París, y por otro a las vías A y B. El extremo del andén que da servicio a las vías 1 y A se sitúa a la altura de esta TJD. Veinte viajeros se encontraban en el tren, de los cuales uno en el coche embestido.
 
-El tren 117 710 tenía como destino la vía A, con una llegada prevista a las 19 h 23. No podía acceder a su destino final debido a la detención del tren 117 578. Por lo tanto, debía detenerse en el semáforo cuadrado 163, que el señalizador había mantenido en posición de cierre. Debido a la ausencia de frenado, el tren 117 710 superó cerrado este semáforo y embistió lateralmente al tren 117 578 a la altura del extremo trasero del primer coche de este tren, a una velocidad de aproximadamente 20 km/h. Había un viajero a bordo del tren, así como un agente de tren.
+El tren 117710 tenía como destino la vía A con una llegada prevista a las 19h23. No podía llegar a su destino final, debido a la detención del tren 117578. Debía detenerse por tanto en la señal cuadrada 163 que el enclavador había mantenido en posición de cierre. A consecuencia de una ausencia de frenado, el tren 117 710 franqueó dicha señal en estado de cierre y vino a embestir de canto al tren 117578 a la altura del extremo trasero del primer coche de dicho tren a una velocidad del orden de unos veinte km/h. Un viajero se encontraba en el tren así como un agente de tren.
 
 2.2- Pérdidas humanas, personas heridas y daños materiales
 
-Este accidente no provocó ninguna pérdida humana; no hubo heridos.
+Este accidente no provocó ninguna pérdida humana, nadie resultó herido.
 
-El primer coche del tren impactado resultó destrozado en aproximadamente 5 metros, y la locomotora del tren que impactó sufrió algunos daños materiales (véase el anexo 4).
+El primer coche de la formación embestida fue abierto en canal en unos 5 metros y la locomotora de la formación que embistió sufrió algunos daños materiales (cf. anexo 4).
 
-La vía quedó deformada a la altura del CUD 155/156, y el andén fue golpeado y desplazado lateralmente, provocando la invasión del perfil de gálibo de la vía 1.
+La vía está deformada a la altura de la TJD 155/156 y el andén fue golpeado y desplazado lateralmente provocando la invasión del gálibo de la vía 1.
 
-El tráfico se interrumpió inicialmente en todas las vías del tramo París-Basilea y Longueville-Provins.
+La circulación fue interrumpida primero en la totalidad de las vías París-Bâle y Longueville-Provins.
 
-Al no estar invadidas las vías 1 y 2 del tramo París-Basilea, el tráfico se reanudó hacia las 21 h, con circulación prudente en la vía 2 y a paso lento en la vía 1. El tráfico a velocidad normal se reanudó a las 23 h en la vía 2 y a las 15 h 30 del jueves 17 en la vía 1. El tráfico ferroviario entre Longueville y Provins se reanudó la mañana del lunes 21 de febrero, habiéndose establecido un servicio de sustitución por carretera hasta dicha fecha.
+Al no estar afectadas las vías 1 y 2 París-Bâle, la circulación se reanudó hacia las 21 h, en marcha prudente por la vía 2 y a paso por la vía 1. La circulación a velocidad normal se reanudó a las 23h por la vía 2 y a las 15h30 del jueves 17 por la vía 1. El tráfico ferroviario entre Longueville y Provins se reanudó el lunes 21 de febrero por la mañana, habiéndose establecido un servicio por carretera hasta dicha fecha.
 
 2.3- Elementos de contexto
 
-2.3.1- Empresa explotadora
+2.3.1- Sociedad explotadora
 
-El tramo de línea de Longueville a Provins y Villiers-Saint-Georges forma parte de la red ferroviaria nacional (RFN), pero su explotación está encomendada por la SNCF a la sociedad CFTA, sociedad de derecho privado. Esta sociedad es responsable del mantenimiento de la vía, de las operaciones comerciales, de la conducción y del acompañamiento de los trenes. Para los trenes de mercancías exclusivamente, puede verse obligada a utilizar su propio material de tracción.
+La sección de línea de Longueville a Provins y Villiers-Saint-Georges forma parte de la red ferroviaria nacional (RFN) pero su explotación es confiada por la SNCF a la sociedad CFTA, sociedad de derecho privado. Esta sociedad se encarga del mantenimiento de la vía, de las operaciones comerciales, de la conducción y de la acompañancia de los trenes. Para los únicos trenes de mercancías, puede verse en la necesidad de utilizar su propio material de tracción.
 
-2.3.2- El tramo de línea Longueville-Provins
+2.3.2- La sección de línea Longueville-Provins
 
-Este tramo de línea, de aproximadamente 6,8 km de longitud, es de vía única. No está electrificado. Cuenta con dos puntos de parada intermedios no gestionados: Sainte Colombe-Septveilles (a poco menos de 2 km de la estación de Longueville) y Chambenoist-Poigny (a poco más de 5 km de Longueville).
+Esta sección de línea, de unos 6,8 km de longitud, es de vía única. No está electrificada. Cuenta con dos puntos de parada no gestionados intermedios: Sainte Colombe-Septveille (a un poco menos de 2 km de la estación de Longueville) y Chambenoist-Poigny (a un poco más de 5 km de Longueville).
 
 ## Página 10
+
 
 La radio tierra-tren (RST) cubre la totalidad del tramo de línea, con excepción de la estación de Provins.
 
@@ -374,6 +378,7 @@ El tren 117 710 estaba compuesto por una locomotora (BB 66465) y un segmento de 
 
 ## Página 11
 
+
 Este material había realizado los siguientes trenes ese día:
 
 Tren N.º | De a
@@ -396,6 +401,7 @@ A continuación, habrían debido realizar el tren:
 
 ## Página 12
 
+
 |
 ee ee ee M RL IE
 
@@ -415,6 +421,7 @@ er es
 PRPUL, SN ES / lys,
 
 ## Página 13
+
 
 3- Informe de las investigaciones y las investigaciones
 
@@ -446,6 +453,7 @@ A las 19 h 13, tras recibir la autorización de salida, en forma de luz verde de
 
 ## Página 14
 
+
 la parte del agente de circulación de Provins, el agente de tren declara haber cerrado las puertas y haber transmitido esta autorización de salida al maquinista mediante la transmisión « mono-coup ». El tren salió de Provins a velocidad normal, pasó sin detenerse en Chambenoist-Poigny como estaba previsto y continuó su marcha.
 
 El tren no realizó la parada prevista en Sainte-Colombe-Septveilles; no obstante, el agente de tren declara no haber reaccionado en el momento porque efectivamente percibió un principio de desaceleración y pensaba que el tren se detendría (en ese instante, no imaginaba que el maquinista hubiera olvidado la parada, ni, por supuesto, que este estuviera teniendo dificultades para conducir el tren; se limitó a mantener las puertas cerradas durante el cruce por la estación). No se produjo ningún intercambio de información entre el maquinista y el agente de tren: no se utilizó la vía acústica mediante la bocina, ni la intercomunicación locomotora — composicio, ya que esta no estaba equipada con dicho sistema.
@@ -473,6 +481,7 @@ Este agente se desplazó al lugar tras ser informado del accidente, procedente d
 14
 
 ## Página 15
+
 
 tenían los frenos apretados (testigos de freno a la altura de cada bogía girados a rojo) y que las llaves de las conducciones de freno CG y CP entre el tren 240 y la locomotora aseguraban la continuidad tren/locomotora.
 
@@ -504,8 +513,8 @@ Tras el choque, el maquinista del tren 117578:
 
 15
 
-
 ## Página 16
+
 
 > informó al regulador del incidente.
 
@@ -544,6 +553,7 @@ La VACMA: la vigilancia automática con control del mantenimiento de la presión
 16
 
 ## Página 17
+
 
 desencadenamiento del relé de tracción QT o parada del motor y puesta a la atmósfera de la CG) ; este sistema tiene por objeto detener el tren automáticamente en caso de malestar del conductor.
 
@@ -604,8 +614,8 @@ de la señal de alarma mediante silbidos breves (dos silbidos repetidos a interv
 
 17
 
-
 ## Página 18
+
 
 procedimiento, que presenta un interés cierto, no está previsto en la reglamentación CFTA.
 
@@ -674,6 +684,7 @@ El conductor debe, además, poner en marcha todos los medios a su disposición p
 
 ## Página 19
 
+
 robinet de emergencia, freno directo, freno de mano, … Debe alertar al personal del tren, mediante la bocina: emitir dos golpes cortos « © e » repitiéndolos a intervalos suficientes.
 
 En tal caso, el referente VO 0250 de la SNCF, aplicable al agente de tren, prevé que dicho agente de tren que perciba esta señal tire de la señal de alarma y provoque así la parada del tren. Sin embargo, este referente no ha sido transpuesto a la normativa CFTA y, por tanto, no es aplicable en el presente caso.
@@ -712,8 +723,8 @@ El manual de conducción se encuentra en la locomotora y es objeto de una actual
 
 19
 
-
 ## Página 20
+
 
 depósito titular de la locomotora. Este manual describe la manera de realizar las distintas pruebas:
 > pruebas VACMA (vigilancia automática con control del mantenimiento del apoyo).

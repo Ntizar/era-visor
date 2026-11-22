@@ -10,13 +10,14 @@ chars: 70363
 ratio_longitud: 1.27
 tokens_in: 41554
 tokens_out: 30782
-verificacion: revisar
-notas_cifras: ["bloque 1: original bilingüe: se compara contra el idioma principal (EN)", "bloque 2: original bilingüe: se compara contra el idioma principal (CS)", "bloque 3: original bilingüe: se compara contra el idioma principal (CS)", "bloque 5: original bilingüe: se compara contra el idioma principal (CS)"]
-avisos: ["bloque 3: ratio 1.65", "bloque 5: ratio 1.82"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 7: original bilingüe: se compara contra el idioma principal (EN)", "página 8: original bilingüe: se compara contra el idioma principal (PT)", "página 9: original bilingüe: se compara contra el idioma principal (CS)", "página 13: original bilingüe: se compara contra el idioma principal (CS)", "página 15: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 Inspección Ferroviaria
 República Checa
@@ -41,13 +42,13 @@ IČ:   75009561
 http://www.dicr.cz
 tel.: 224 805 444
 
-
 ## Página 2
+
 
 Este informe final es público y todos los documentos y hechos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ## 1 RESUMEN
    Fuente: DI
@@ -83,15 +84,15 @@ Causas en el sistema de seguridad:
 no fueron detectadas por la Inspección Ferroviaria.
 •
 
-
 ## Página 4
+
 
 Recomendaciones de seguridad:
 no emitidas por la Inspección Ferroviaria.
 •
 
-
 ## Página 5
+
 
 ## SUMMARY 
 Grade:
@@ -128,11 +129,12 @@ Root cause:
 none.
 Recommendations: not issued.
 
-
 ## Página 6
 
 
+
 ## Página 7
+
 
 # Índice
 1 Resumen ........................................................................................................................3
@@ -177,8 +179,8 @@ las personas) ..................................................................
 3.1.1 Empleados del gestor de la infraestructura y de la empresa ferroviaria,
 incluidas personas en relación contractual .......................................................18
 
-
 ## Página 8
+
 
 3.1.2 Otras personas .....................................................................................................20
 3.2 Sistema de garantía de la seguridad ...........................................................................20
@@ -221,10 +223,10 @@ en su control y uso ............................................................
 punto 3 ............................................................................................................28
 4.2 Análisis ......................................................................................................................29
 4.2.1 Evaluación de los hechos constatados según el punto 3 y exposición de las
-conclusiones sobre la causa del 
-
+conclusiones sobre la causa del
 
 ## Página 9
+
 
 suceso ferroviario y la actividad de los servicios de salvamento ......................29
 4.3 Conclusiones ..............................................................................................................31
@@ -247,6 +249,7 @@ ferroviario ....................................................................
 7 Anexos .............................................................................................................................33
 
 ## Página 10
+
 
 ## Lista de siglas y símbolos utilizados
 COP
@@ -314,8 +317,8 @@ inspección territorial
 žst.
 estación ferroviaria
 
-
 ## Página 11
+
 
 ## Lista de siglas de la legislación, normas y normativa interna utilizadas
 ley núm. 266/1994 Sb.
@@ -341,8 +344,8 @@ normativa interna del explotador de la vía SŽDC y del transportista ČDC, SŽD
 SŽDC (ČD) Z11
 normativa interna del explotador de la vía SŽDC y del transportista ČDC, Reglamento para la operación de equipos de radio, aprobado por decisión del director general de České dráhy de fecha 15 de noviembre de 2000, ref. núm. 55962/2000-O11, en vigor desde el 28. 12. 1997, en su versión vigente
 
-
 ## Página 12
+
 
 ## 2 DATOS RELATIVOS A LA OCURRENCIA EXTRAORDINARIA
 ## 2.1
@@ -362,8 +365,8 @@ GPS:
 Fig. n.º 1: Vista del lugar de la OE
        Fuente: DI
 
-
 ## Página 13
+
 
 ### 2.1.2 Descripción de la ocurrencia extraordinaria y del lugar del accidente, incluida la actividad del sistema integrado de rescate y del servicio de emergencia
 El 10. 2. 2013, tras la retirada del tren Nex 55055 averiado de la 1. TK a la est. Praha-Běchovice a la SK n.º 101, a las 4:43 h, durante una maniobra con el fin de trasladar el HDV inoperativo del mencionado tren a la vía ocupada n.º 104 en la est. Praha-Běchovice, se produjo una colisión con los DV estacionados de la serie Laaers.
@@ -381,8 +384,8 @@ Del examen del lugar de la OE se constató lo siguiente:
 • en la SK n.º 104 no se detectaron anomalías en la posición geométrica de la vía.
 Durante la OE se activó el IZS.
 
-
 ## Página 14
+
 
 Lugar de detención del frente del tren
 Nex 55055 retirado.
@@ -397,8 +400,8 @@ tras la señal Se 102.
 Fig. n.º 2: Esquema del lugar de la OE
         Fuente: DI
 
-
 ## Página 15
+
 
 2.1.3 Decisión de iniciar la investigación de las causas y circunstancias de su origen, composición del equipo de personas cualificadas y método de dirección de la investigación de las causas y circunstancias de su origen
 OE notificada al COP de la DI el día:
@@ -429,8 +432,8 @@ Transportista (ČDC):
 • conductor del HDV 92 54 2 742 302-3 del tren de maniobra, empleado de ČDC, PJ de Praga;
 • maniobrador, empleado de ČDC, PJ de Praga;
 
-
 ## Página 16
+
 
 Explotador de la vía (SŽDC):
 • jefe de estación de la est. Praha-Běchovice, empleado de SŽDC, OŘ de Praga, PO de Praha-Libeň.
@@ -455,8 +458,8 @@ Dado que se trataba de una maniobra, el VZ en el HDV 92 54 2 742 302-3 estaba ac
 ### 2.2.5 Trabajos realizados en el lugar de la ocurrencia extraordinaria y en sus proximidades
 En el lugar de la OE no se realizaban, inmediatamente antes de su origen, trabajos de reparación o mantenimiento por parte del propietario, del explotador de la vía ni de otras personas.
 
-
 ## Página 17
+
 
 ### 2.2.6 Activación del plan para caso de ocurrencia extraordinaria en la vía y secuencia de los hechos
 • 4:42 h: notificación del origen de la OE por el maniobrador al jefe de estación de la est. Praha-Běchovice, quien a continuación notificó conforme al «Cuadro de Notificación»;
@@ -488,6 +491,7 @@ HDV 92 54 2 742 302-3
 •
 
 ## Página 18
+
 
 DV Laaers č. 23 88 4371 905-1
       3 303 005,68 Kč;
@@ -544,184 +548,127 @@ tras colocar la señal con la indicación que autoriza la circulación, partió 
 maquinista a buscar el tren Nex 55055; tras detenerse, acopló a él y, con el
 maniobrador, realizaron una prueba simple de freno;
 
-
 ## Página 19
 
-tras retirar el tren hasta la estación y detenerse delante de la oficina de tráfico,
+tras la maniobra de entrada del tren a la estación y la parada delante de la oficina de tráfico, frenó el tren
 •
-frenó el tren y se dirigió a la oficina de tráfico, donde el jefe de estación de
-Praha-Běchovice estaba justamente hablando por teléfono;
-tras un rato salió el maquinista a comprobar el estado técnico del HDV dañado
+y se dirigió a la oficina de tráfico, donde el jefe de estación de la est. Praha-Běchovice estaba justamente
+telefoneando;
+al rato salió el maquinista a comprobar el estado técnico del HDV dañado
 •
 91 54 7 363 050-6;
-tras algún tiempo llegó tras el maquinista el maniobrador, que con él retiró el
+tras el maquinista, después de un cierto tiempo, llegó un maniobrador, que con él sacó el tren de la vía,
 •
-tren de la vía, y le informó del procedimiento para las maniobras, es decir, tras
-encender la señal «Maniobras permitidas», circularán juntos hacia el puente y,
-tras el semáforo enano, el maniobrador lo detendrá. A continuación maniobrarán
-hacia la SK n.º 104 libre y las instrucciones para las maniobras las dará el
-maniobrador al maquinista por radio;
-tras encender la señal «Maniobras permitidas», recibió el maquinista la
+y le informó del procedimiento de maniobra, es decir, tras encender la señal "Maniobra
+permitida", irán juntos al puente y, tras el enanillo, el maniobrador
+lo detendrá. A continuación maniobrarán hasta la vía libre SK n.º 104 y las órdenes de maniobra las dará
+el maniobrador al maquinista por radio;
+tras encender la señal "Maniobra permitida", el maquinista recibió la orden de iniciar
 •
-instrucción para iniciar las maniobras;
-el maquinista salió con el HDV 91 54 7 363 050-6 inoperativo acoplado hacia el
+la maniobra;
+el maquinista salió con el HDV inoperativo 91 54 7 363 050-6 acoplado
 •
-punto designado por el maniobrador, donde este lo detuvo;
-a continuación recibió el maquinista del maniobrador la instrucción de empujar
+hasta el punto designado por el maniobrador, donde este lo detuvo;
+a continuación, el maquinista recibió del maniobrador la orden de empujar en dirección a la vía libre
 •
-en dirección a la SK n.º 104 libre;
-el maquinista aceleró la sección de maniobras empujada hasta una velocidad de
-•
-aprox. 25 km.hod-1;
-el maniobrador repitió dos veces la instrucción de empujar al maquinista, la
-•
-tercera ya no la terminó debido al choque;
-inmediatamente tras el choque, oyó el maquinista en la radio la sorpresa del
-•
-maniobrador al comprobar que estaban en la SK n.º 106, cuando debían estar en la
 SK n.º 104;
-el maquinista comprobó el estado del HDV 92 54 2 742 302-3 y comunicó el MU al
+el maquinista aceleró la sección de maniobra empujada hasta una velocidad de aprox. 25 km·h⁻¹;
 •
-supervisor del turno en la est. Praha-Libeň;
-durante el empuje desde el semáforo enano hacia la SK n.º 104, el maquinista no
+el maniobrador repitió dos veces la orden de empujar al maquinista, la tercera vez ya
 •
-veía desde dónde daba las señales el maniobrador.
-maquinista del HDV 
-  91 54 7 363 050-6 – del Acta con el empleado, entre otros, se
+no la terminó debido al choque;
+inmediatamente después del choque, el maquinista oyó en la radio la sorpresa del maniobrador al
 •
-desprende:
-el HDV auxiliar 92 54 2 742 302-3 retiró el tren Nex 55055 hasta la est.
+ver que estaban en la SK n.º 106, cuando debían estar en la SK n.º 104;
+el maquinista comprobó el estado del HDV 92 54 2 742 302-3 e informó de la MU al jefe de
 •
-Praha-Běchovice en la SK n.º 101 y se detuvo con él junto a la señal Sc 101c;
-el maniobrador desenganchó ambos HDV del tren retirado;
+turno en la est. Praha-Libeň;
+durante el empuje desde el enanillo hacia la SK n.º 104, el maquinista no veía desde dónde
 •
-al HDV 91 54 7 363 050-6 llegó el jefe de estación de Praha-Běchovice y
+el maniobrador daba las señales.
+maquinista del HDV
+ 91 54 7 363 050-6 – de la Acta con el empleado, entre otras cosas,
 •
-acordaron el traslado del HDV inoperativo a la SK n.º 104;
-desde el puesto de conducción del HDV 92 54 2 742 302-3, el maniobrador
+se desprende:
+el HDV auxiliar 92 54 2 742 302-3 sacó el tren Nex 55055 a la est.
 •
-hablaba con el jefe de estación sobre el apartamiento del HDV 91 54 7 363 050-6
-inoperativo a la SK n.º 104;
-el maquinista bajó del HDV 91 54 7 363 050-6 y pasó al puesto de conducción
+Praha-Běchovice en la SK n.º 101 y lo detuvo junto a la señal Sc 101c;
+el maniobrador desenganchó ambos HDV del tren maniobrado;
 •
-del HDV 92 54 2 742 302-3, donde permaneció durante todo el tiempo de las
-maniobras en la est. Praha-Běchovice;
-durante el empuje, el maquinista observaba visualmente el estado del colector
+al HDV 91 54 7 363 050-6 llegó el jefe de estación de la est. Praha-Běchovice y acordaron
 •
-dañado de su HDV 91 54 7 363 050-6 asignado, cuando de repente se produjo el
-choque;
-el maquinista del HDV 91 54 7 363 050-6 no estuvo presente en la comunicación
+el traslado del HDV inoperativo a la SK n.º 104;
+desde la cabina del maquinista del HDV 92 54 2 742 302-3, el maniobrador hablaba
 •
-sobre la realización de las maniobras entre el maniobrador y el maquinista del
-HDV 92 54 2 742 302-3;
-el maquinista del HDV 91 54 7 363 050-6 no sabía desde dónde ni qué señales
+con el jefe de estación sobre la colocación del HDV inoperativo 91 54 7 363 050-6 en la SK n.º 104;
+el maquinista bajó del HDV 91 54 7 363 050-6 y pasó a la cabina
 •
-daba el maniobrador durante el empuje. El permiso para las maniobras lo da el jefe
-de estación principal, que dirige las maniobras en todo el ámbito de la EST
-Praha-Běchovice, mediante el cambio de todos los desvíos para el itinerario de
-maniobras previsto
-
+del maquinista del HDV 92 54 2 742 302-3, donde permaneció durante toda la maniobra en la est.
+Praha-Běchovice;
+durante el empuje, el maquinista observaba con la vista el estado del pantógrafo dañado del
+•
+HDV 91 54 7 363 050-6 que le estaba asignado, cuando de repente se produjo el choque;
+el maquinista del HDV 91 54 7 363 050-6 no estuvo presente en la información sobre la realización de la maniobra entre
+•
+el maniobrador y el maquinista del HDV 92 54 2 742 302-3;
+el maquinista del HDV 91 54 7 363 050-6 no sabía desde dónde ni qué señales daba el maniobrador durante
+•
+el empuje. El permiso para la maniobra lo da el jefe de estación principal, que dirige la maniobra en todo
+el ámbito de la EST Praha-Běchovice, mediante el cambio de todos los desvíos para la prevista
 
 ## Página 20
 
-con la posterior activación de las señales que autorizan las maniobras en todas las
-señales implicadas mediante el funcionamiento estándar de la instalación JOP.
-jefe de estación de Praha-Běchovice – del Acta con el empleado, entre otros, se desprende:
+vía de maniobras con la posterior encendido de las señales que permiten la maniobra en todos los señales involucrados mediante el uso estándar del dispositivo JOP.
+Jefe de estación de la est. Praha-Běchovice – del Registro con el empleado, entre otros, se desprende:
 •
-tras la parada del tren Nex 55055 con el HDV auxiliar 92 54 2 742 302-3 en la
+tras la parada del tren Nex 55055 con la locomotora auxiliar 92 54 2 742 302-3 en la vía
 •
-SK n.º 101c, el maniobrador desenganchó ambos HDV del tren retirado y a
-continuación acordó con el maniobrador su traslado a la SK n.º 104 ocupada;
-el jefe de estación estableció el itinerario de maniobras desde la SK n.º 101
+n.º 101c el maniobrador desenganchó ambas locomotoras del tren retirado y posteriormente acordó con el maniobrador su traslado a la vía ocupada n.º 104;
+el jefe de estación estableció la vía de maniobras desde la vía n.º 101 hasta la señal Se 102;
 •
-hasta más allá de la señal Se 102;
-tras el paso de ambos HDV por la señal Se 102, el jefe de estación estableció el
+tras el paso de ambas locomotoras por la señal Se 102, el jefe de estación estableció la vía de maniobras hacia la
 •
-itinerario de maniobras hacia la SK n.º 104;
-en la radio oyó las señales para las maniobras por empuje y a continuación la
+vía n.º 104;
+en el radioteléfono escuchó las señales para maniobra por empuje y posteriormente la información en el sentido de
 •
-información en el sentido de haber encontrado los DV apartados;
-a continuación, el maniobrador llamó al jefe de estación para comunicarle que se
+haber encontrado vehículos estacionados;
+posteriormente el maniobrador llamó al jefe de estación informando que se había producido una colisión con vehículos estacionados.
 •
-había producido una colisión con los DV estacionados.
-Por este motivo, el jefe de estación llamó a la guardia de emergencia y excluyó
-de la explotación del transporte ferroviario la vía contigua.
-Maniobrador – en el lugar del MU se negó a dar explicaciones sobre el desarrollo
+Por este motivo, el jefe de estación llamó a la guardia de emergencia y excluyó la vía adyacente de la explotación del tráfico ferroviario.
+Maniobrador – en el lugar de origen del MU se negó a prestar declaración sobre el desarrollo del cumplimiento de sus
 •
-del cumplimiento de sus obligaciones laborales de la persona responsable de
-dirigir las maniobras. El maniobrador, a través de su representante legal, comunicó
-al transportista que ejerce su derecho legal a no declarar sobre el MU en cuestión.
-Posteriormente, rescindió la relación laboral de mutuo acuerdo con el empleador.
-El maniobrador, ante la notificación fehaciente por escrito de la citación para
-presentar explicaciones al DI, comunicó telefónicamente que, sin consultar con su
-representante legal, no asistirá a dicha explicación. Desde entonces, no respondió
-a las consultas sobre el resultado de la tramitación con su representante legal.
+obligaciones laborales como persona responsable de la dirección de la maniobra. El maniobrador, a través de su representante legal, comunicó al transportista que ejerce su derecho legal de no declarar sobre el mencionado MU. Posteriormente, resolvió el contrato de trabajo de mutuo acuerdo con el empleador. El maniobrador, tras la recepción fehaciente por escrito de la citación para prestar declaración al DI, comunicó telefónicamente que, sin consultar con su representante legal, no participará en dicha declaración. Desde entonces, no respondió a las consultas sobre el resultado de la tramitación con su representante legal.
 ### 3.1.2 Otras personas
-Otras personas no estuvieron presentes en la producción del MU.
+Otras personas no estuvieron presentes en el origen del MU.
 ## 3.2
-### Sistema de garantía de la seguridad
+### Sistema de garantía de seguridad
 ### 3.2.1 Organización marco y forma en que se emiten y ejecutan las instrucciones
-El operador de la vía y el transportista tienen un sistema de garantía de la seguridad
-adoptado en base a las disposiciones de la ley n.º 266/1994 Sb.
-En el cumplimiento del sistema de garantía de la seguridad adoptado por el operador
-de la vía SŽDC, relacionado con las circunstancias de la producción del MU en
-cuestión, no se detectó ninguna deficiencia.
-En el cumplimiento del sistema de garantía de la seguridad adoptado por el
-transportista ČDC, relacionado con las circunstancias de la producción del MU en
-cuestión, se detectó una deficiencia.
+El explotador de la infraestructura y el transportista cuentan con un sistema de garantía de seguridad adoptado con base en las disposiciones de la ley n.º 266/1994 Sb.
+En el cumplimiento del sistema de garantía de seguridad adoptado por el explotador de la infraestructura SŽDC, relacionado con las circunstancias del origen del mencionado MU, no se detectó deficiencia alguna.
+En el cumplimiento del sistema de garantía de seguridad adoptado por el transportista ČDC, relacionado con las circunstancias del origen del mencionado MU, se detectó una deficiencia.
 Hallazgo:
-instrucción incorrecta del maniobrador al maquinista, consistente en la información
+instrucción incorrecta del maniobrador al maquinista consistente en la información sobre la marcha
 •
-sobre la circulación de la sección de maniobras hacia la vía libre, y el
-incumplimiento de las condiciones de circulación según la visibilidad
-
+de la formación de maniobras hacia una vía libre y el incumplimiento de las condiciones de marcha según la visibilidad
 
 ## Página 21
 
-por la persona que dirige las maniobras, al no permitir esta persona que el
-maquinista detuviera los vehículos en maniobras antes de los DV estacionados.
-### 3.2.2 Requisitos para los empleados del operador de la vía y del transportista y su aplicación
-Los requisitos para los empleados del operador de la vía y del transportista, en
-particular los requisitos de su idoneidad profesional y sanitaria, están establecidos
-por la ley n.º 266/1994 Sb., el decreto n.º 173/1995 Sb., el decreto n.º 101/1995 Sb.,
-el decreto n.º 16/2012 Sb. y las normas internas del operador de la vía y del
-transportista.
-En el momento de la producción del MU, el empleado del operador de la vía SŽDC
-implicado en el MU, el jefe de estación, que realizaba actividades en la explotación
-de la vía, era profesionalmente idóneo para el desempeño de la función que
-ocupaba.
-En el momento de la producción del MU, todas las personas del transportista ČDC
-implicadas en el MU y que realizaban actividades en la explotación del transporte
-ferroviario eran profesionalmente idóneas para el desempeño de la función que
-ocupaban, incluida la confirmación fehaciente de su conocimiento de las condiciones
-locales de la est. Praha-Běchovice.
+por la persona que dirigía la maniobra, en el sentido de que dicha persona no permitió al maquinista detener los vehículos en maniobra antes de las DV estacionadas.
+### 3.2.2 Requisitos para los empleados del gestor de la infraestructura y del transportista y su aplicación
+Los requisitos para los empleados del gestor de la infraestructura y del transportista, en particular los requisitos de idoneidad profesional y sanitaria, están establecidos por la ley n.º 266/1994 Sb., el decreto n.º 173/1995 Sb., el decreto n.º 101/1995 Sb., el decreto n.º 16/2012 Sb. y las normas internas del gestor de la infraestructura y del transportista.
+En el momento de la ocurrencia de la MU en cuestión, el empleado del gestor de la infraestructura SŽDC participante en la MU, el jefe de estación, que desempeñaba actividades en la explotación de la infraestructura, era profesionalmente idóneo para el ejercicio de la función desempeñada.
+En el momento de la ocurrencia de la MU en cuestión, todas las personas del transportista ČDC participantes en la MU y que desempeñaban actividades en la explotación del transporte ferroviario eran profesionalmente idóneas para el ejercicio de la función desempeñada, incluida la confirmación demostrable de haber sido informadas de las condiciones locales de la est. Praha-Běchovice.
 ### 3.2.3 Procedimiento de control interno de seguridad y sus resultados
-En el procedimiento de control interno de seguridad del operador de la vía y del
-transportista no se detectaron deficiencias.
-### 3.2.4 Interfaz entre los distintos sujetos implicados y los componentes de la vía de circulación
-El propietario de la vía ferroviaria, categoría de ámbito nacional, Praha-Běchovice –
-Praha-Vyšehrad, es la República Checa en derecho de gestión de la Administración de
-la Vía de Circulación Ferroviaria, organización estatal, con domicilio en Dlážděná
-1003/7, Praha 1, código postal 110 00.
-El operador de la vía ferroviaria, categoría de ámbito nacional, es el SŽDC,
-organización estatal, con domicilio en Dlážděná 1003/7, Praha 1, código postal 110 00,
-en base a la Autorización Administrativa emitida por el DÚ el día 29. 5. 2008, n.º de
-exp.: 3-4277/07-DÚ/Le, n.º de reg.: ÚP/2008/9002, vigente en virtud de las
-modificaciones subsiguientes.
-El operador de la vía era titular del Certificado de Seguridad de la Explotación de la
-Vía, emitido por el DÚ el día 30. 6. 2008, bajo n.º de exp.: 3-4274/07-DÚ/Pd, n.º de
-reg.: OSPD/2008/007 con vigencia hasta el 29. 6. 2013.
-El transportista de la sección de maniobras era ČD Cargo, a. s., con domicilio en
-Jankovcova 1569/2c, Praha 7, código postal 170 00, en base a la Licencia de
-Transportista concedida por resolución del DÚ el día 19. 11. 2007, n.º de exp.:
-3-3841/07-DÚ/Le, n.º de reg.: L/2007/1452, vigente en virtud de las modificaciones
-subsiguientes.
-El transportista era titular del Certificado de Transportista, emitido por el DÚ el día
-30. 11. 2007, n.º de exp.: 3-3934/07-DÚ/Pd, n.º de reg.: OSD/2008/022, con vigencia
-hasta el 29. 11. 2013.
-
+En el procedimiento de control interno de seguridad del gestor de la infraestructura y del transportista no se detectaron deficiencias.
+### 3.2.4 Interfaz entre los distintos sujetos participantes y los componentes de la vía de circulación
+El propietario de la vía ferrea, categoría nacional, Praha-Běchovice – Praha-Vyšehrad, es la República Checa en derecho de gestión de la Administración de la Vía de Circulación Ferroviaria, organización estatal, con domicilio en Dlážděná 1003/7, Praha 1, PSČ 110 00.
+El gestor de la infraestructura ferrea, categoría nacional, es SŽDC, organización estatal, con domicilio en Dlážděná 1003/7, Praha 1, PSČ 110 00, en virtud de la Autorización Oficial emitida por DÚ el 29. 5. 2008, n.º de expediente: 3-4277/07-DÚ/Le, n.º de registro: ÚP/2008/9002, válida en virtud de las sucesivas enmiendas.
+El gestor de la infraestructura era titular del Certificado de Seguridad de Explotación de la Infraestructura, emitido por DÚ el 30. 6. 2008, bajo n.º de expediente: 3-4274/07-DÚ/Pd, n.º de registro: OSPD/2008/007, con validez hasta el 29. 6. 2013.
+El transportista de la sección de maniobras era ČD Cargo, a. s., con domicilio en Jankovcova 1569/2c, Praha 7, PSČ 170 00, en virtud de la Licencia de Transportista concedida por decisión de DÚ el 19. 11. 2007, n.º de expediente: 3-3841/07-DÚ/Le, n.º de registro: L/2007/1452, válida en virtud de las sucesivas modificaciones.
+El transportista era titular del Certificado de Transportista, emitido por DÚ el 30. 11. 2007, n.º de expediente: 3-3934/07-DÚ/Pd, n.º de registro: OSD/2008/022, con validez hasta el 29. 11. 2013.
 
 ## Página 22
+
 
 El transporte ferroviario se explotaba en base al contrato «CONTRATO número 168/10
 sobre la explotación del transporte ferroviario en la vía de circulación ferroviaria de la
@@ -777,6 +724,7 @@ maniobras en líneas electrificadas
 
 ## Página 23
 
+
 úsecích, el de maniobras para la explotación de la plataforma de carga, el de maniobras entre estaciones de tráfico y el de maniobras en la explotación del transporte ferroviario en el apartadero se rigen por los procedimientos tecnológicos establecidos por el gestor de la infraestructura.“;
 § 35 apartado 1, letras l), g) y p), del decreto nº 173/1995 Sb.:
 •
@@ -802,8 +750,8 @@ c) antes de poner los vehículos en movimiento, comprobar visualmente o mediante
 – las señales fijas no transponibles válidas para las maniobras permiten las maniobras;
 – la ruta de maniobras está correctamente establecida;
 
-
 ## Página 24
+
 
 – a los movimientos previstos no se oponen vehículos u otros obstáculos que pueda observar desde su puesto;
 e) dar inmediatamente la orden de detener la sección de maniobras si detecta circunstancias que pongan en peligro la seguridad durante las maniobras”.
@@ -830,8 +778,8 @@ n.º 101 en la SK n.º 101b tras la señal de agrupamiento Se102;
 4:41:17 h, la sección de maniobras entró íntegramente en la SK n.º 101b;
 •
 
-
 ## Página 25
+
 
 4:41:48 h, establecida la ruta de maniobras desde la SK n.º 101b desde la señal de agrupamiento
 •
@@ -853,8 +801,8 @@ La HDV fue utilizada por el transportista ČDC en un estado técnico que corresp
 La HDV 92 54 2 742 302-3 estaba equipada, en el momento de la aparición del MU, con un dispositivo de registro automático de datos – tipo velocímetro mecánico METRA.
 De los datos registrados se deduce:
 
-
 ## Página 26
+
 
 4:46 h, arranque de la HDV a una velocidad de 30 km.hod-1, recorridos a esta velocidad
 •
@@ -887,8 +835,8 @@ con base en el examen del lugar del MU y en el anexo n.º 1 del SŘ Praha-Běcho
 •
 constató que la señal de agrupamiento Se 102 se encuentra en el km 1,530 y la parte delantera de la sección de maniobras tras la colisión en el km 1,872, es decir, una distancia recorrida de 342 m. De lo anterior se deduce la obligación para la persona que dirige las maniobras, en el tramo de los últimos 100 m antes del punto de detención, de dar las instrucciones siempre después de recorrer una distancia máxima de 20 m. Según el contenido de la anotación con el maquinista de la HDV 92 54 2 742 302-3 y el jefe de estación de la est. Praha-Běchovice, esta obligación no fue cumplida por el maniobrador.
 
-
 ## Página 27
+
 
 ### 3.5.2 Intercambio de informes verbales en relación con el suceso excepcional, incluidos los documentos del dispositivo de registro
 El jefe de estación de la est. Praha-Běchovice determinó verbalmente a la persona que dirige las maniobras las actuaciones que deben realizarse. Al mismo tiempo, determinó que la HDV 91 54 7 363 050-6 inoperativa se estacionaría en la SK n.º 104 ocupada. El maniobrador era responsable de la transmisión de las instrucciones a todas las personas implicadas en la realización de las maniobras (en este caso, al maquinista de la HDV 92 54 2 742 302-3). Sin embargo, el maniobrador modificó la información del jefe de estación y, al transmitir la información sobre las actuaciones relacionadas con las maniobras, indicó que se trataba de un empuje hacia la SK n.º 104 libre.
@@ -915,6 +863,7 @@ Los empleados del gestor de la infraestructura y del transportista implicados es
 
 ## Página 28
 
+
 Los empleados del gestor de la infraestructura ferroviaria y del transportista se sometían a exámenes médicos periódicos de conformidad con lo dispuesto en el decreto n.º 101/1995 Sb. No se detectó ningún estado de salud ni situación personal que pudiera tener influencia en la aparición de la ME, incluido el estrés físico y psicológico.
 3.6.3 Disposición del equipamiento del puesto de mando o del vehículo, que influye en su manejo y uso
 La disposición y el equipamiento del puesto de trabajo del empleado del gestor de la infraestructura ferroviaria SŽDC y del transportista ČDC no guardaban relación con la aparición de la ME.
@@ -936,18 +885,17 @@ La Inspección Ferroviaria registra accidentes similares cuya causa de origen fu
 ### 4.1.1 Descripción final del accidente basada en los hechos constatados en el punto 3
 Como se indica en el punto 3.1.1 de este informe, el encargado de las maniobras que dirigía la maniobra no atendió a la solicitud de presentar una explicación sobre la aparición de la ME. Por este motivo, la secuencia de hechos que condujo a la aparición de la ME se describe sobre la base de las explicaciones presentadas por el resto de empleados del gestor de la infraestructura ferroviaria y del transportista implicados en la ME y de los demás hechos constatados.
 
-
 ## Página 29
 
-El tren Nex 55055 con destino desde la est. Praha-Malešice hasta la est. Praha-Běchovice se detuvo debido a la aparición de la ME en la 1. TK, cuando se produjo el daño en el colector del HDV 91 54 7 363 050-6 de dicho tren y en el TV sobre la mencionada TK. Para retirar el tren de la vía hasta la est. Praha-Běchovice se utilizó la reserva local "1. malešická záloha" (en adelante, la reserva) compuesta por el HDV 92 54 2 742 302-3. El jefe de estación de la est. Praha-Malešice informó mediante radio al maquinista de la reserva de la necesidad de retirar el tren Nex 55055 con el HDV inoperativo hasta la est. Praha-Běchovice y, a continuación, le entregó la orden V PMD. En la est. Praha-Malešice subió a la reserva el encargado de las maniobras y esta partió posteriormente por la 2. TK hasta la est. Praha-Běchovice. El maquinista de la reserva comprobó durante el trayecto en qué punto se encontraba el tren varado. Tras detenerse en la est. Praha-Běchovice, el maquinista de la reserva recibió del jefe de estación la orden V PMD con la ubicación del tren detenido, el procedimiento para su retirada hasta la est. Praha-Běchovice y el lugar de parada en dicha estación. Tras obtener el permiso de salida, partió por la 1. TK, se detuvo antes del tren varado y, a continuación, avanzó lentamente hacia él. El encargado de las maniobras acopló la reserva al tren y, tras la comprobación del acoplamiento por parte del maquinista, este realizó una prueba sencilla de freno. A continuación, según las instrucciones previas del jefe de estación de Praha-Běchovice, el maquinista retiró con la reserva el tren hasta la est. Praha-Běchovice y se detuvo con ella delante de la oficina de tráfico, antes de la señal de vía Sc 101c. El jefe de estación acordó con el maquinista del HDV inoperativo 91 54 7 363 050-6 el traslado del vehículo a la SK n.º 104. El maquinista del mencionado HDV descendió del vehículo y pasó al HDV de la reserva. El maquinista de la reserva frenó el tren, se dirigió a la oficina de tráfico, donde el jefe de estación realizaba las operaciones de tráfico y hablaba por teléfono. Mientras tanto, el encargado de las maniobras desenganchó ambos HDV del tren. Al poco tiempo, el maquinista de la reserva salió a fuera para comprobar el estado técnico del HDV dañado. El encargado de las maniobras salió tras él y le informó del procedimiento de maniobra, indicándole que, una vez encendida la señal que permite la maniobra en la señal de vía Sc 101c, avanzarían hasta la señal de clasificación Se 102, donde el encargado de las maniobras lo detendría con la señal "Alto" y, tras el permiso para la maniobra, empujarían hasta la SK n.º 104 libre. Las señales entre el encargado de las maniobras y el maquinista de la reserva se transmitían mediante radio. El jefe de estación realizó las operaciones relacionadas con la ejecución de la maniobra más allá de la señal de clasificación Se 102, encendió la iluminación de la cabecera central para mejorar la orientación y, una vez que el elemento de maniobra pasó dicha señal, estableció la ruta de maniobra hacia la SK n.º 104. El maquinista, tras detenerse en el lugar designado tras la señal Se 102 y tras encender la señal "Maniobra permitida" en la señal de clasificación Se 102 y recibir la señal de maniobra del encargado de las maniobras mediante radio, comenzó a empujar. El maquinista del HDV inoperativo, durante el empuje, controlaba visualmente desde la ventana del HDV de la reserva el estado del colector dañado. Ambos maquinistas no vieron físicamente al encargado de las maniobras; solo el maquinista de la reserva recibió por radio dos instrucciones de empuje cuando se produjo el impacto.
+El tren Nex 55055 con destino desde la est. Praha-Malešice a la est. Praha-Běchovice se detuvo debido a la aparición de una MU en la 1. TK, cuando se produjo un daño en el colector del HDV 91 54 7 363 050-6 de dicho tren y en la TV sobre la mencionada TK. Para retirar el tren de la vía hasta la est. Praha-Běchovice se utilizó la "1. malešická záloha" local (en adelante, la reserva), compuesta por el HDV 92 54 2 742 302-3. El jefe de estación de la est. Praha-Malešice informó mediante radiostación al maquinista de la reserva de la necesidad de retirar el tren Nex 55055 con el HDV inoperativo hasta la est. Praha-Běchovice y, a continuación, le entregó la orden V PMD. En la est. Praha-Malešice subió a la reserva un maniobrador y esta partió posteriormente por la 2. TK hasta la est. Praha-Běchovice. El maquinista de la reserva comprobó durante el trayecto en qué punto se encontraba el tren atascado. Tras detenerse en la est. Praha-Běchovice, el maquinista de la reserva recibió del jefe de estación la orden V PMD sobre la ubicación del tren detenido, el procedimiento para su retirada hasta la est. Praha-Běchovice y el punto de parada en dicha estación. Tras obtener el permiso de salida, partió por la 1. TK, se detuvo delante del tren atascado y, a continuación, avanzó lentamente hacia él. El maniobrador acopló la reserva al tren y, tras la comprobación del acoplamiento por parte del maquinista, realizó una prueba simple de freno. Después, según las instrucciones previas del jefe de estación de la est. Praha-Běchovice, el maquinista retiró con la reserva el tren hasta la est. Praha-Běchovice y se detuvo con él delante de la oficina de tráfico, delante de la señal de viaje Sc 101c. El jefe de estación acordó con el maquinista del HDV inoperativo 91 54 7 363 050-6 el traslado del vehículo a la SK n.º 104. El maquinista del mencionado HDV descendió del vehículo y pasó al HDV de la reserva. El maquinista de la reserva frenó el tren, se dirigió a la oficina de tráfico, donde el jefe de estación realizaba las operaciones de tráfico y hablaba por teléfono. Mientras tanto, el maniobrador desenganchó ambos HDV del tren. Al poco tiempo, el maquinista de la reserva salió a fuera a comprobar el estado técnico del HDV dañado. Salió tras él el maniobrador y le informó del procedimiento de maniobra, indicando que, una vez encendida la señal que permite la maniobra en la señal de viaje Sc 101c, avanzarán hasta la señal de clasificación Se 102, donde el maniobrador lo detendrá con la señal "Alto" y, tras el permiso para la maniobra, avanzarán hasta la SK n.º 104 libre. Las señales entre el maniobrador y el maquinista de la reserva se transmitían mediante radiostación. El jefe de estación realizó las operaciones relacionadas con la maniobra más allá de la señal de clasificación Se 102, encendió la iluminación de la cabecera central para mejorar la orientación y, una vez que la unidad de maniobra pasó dicha señal, estableció la ruta de maniobra hacia la SK n.º 104. El maquinista, tras detenerse en el punto designado más allá de la señal Se 102 y tras la iluminación de la señal "Maniobra permitida" en la señal de clasificación Se 102 y la recepción de la señal de maniobra del maniobrador mediante radiostación, comenzó a avanzar. El maquinista del HDV inoperativo, durante la maniobra, controlaba con la vista desde la ventana del HDV de la reserva el estado del colector dañado. Ambos maquinistas no veían físicamente al maniobrador; solo el maquinista de la reserva recibió por radiostación dos instrucciones de maniobra cuando se produjo el choque.
 ## 4.2
 ### Análisis
-### 4.2.1 Evaluación de los hechos constatados según el punto 3 y exposición de conclusiones sobre la causa del accidente y la actuación de los servicios de emergencia
-La maniobra con DV en la est. Praha-Běchovice se realiza de acuerdo con las disposiciones correspondientes de las normas internas del gestor de la infraestructura ferroviaria y de la Documentación Básica de Tráfico de la est.
-En función de la necesidad de realizar maniobras en los límites de la est. Praha-Běchovice, el jefe de estación ordena a la persona que dirige la maniobra qué operaciones deben realizarse. Dado que el jefe de estación en dicha estación es a la vez cambiavías, acuerda con la persona que dirige la maniobra también el procedimiento de trabajo. La persona que dirige la maniobra es responsable de ejecutar la maniobra exactamente según estas instrucciones y, al mismo tiempo, está obligada a informar de ellas de forma comprensible al resto de empleados implicados, de manera que se excluya cualquier malentendido y peligro para la seguridad (art. 21 y art. 645
-
+### 4.2.1 Evaluación de los hechos constatados de acuerdo con el punto 3 y formulación de conclusiones sobre la causa del suceso excepcional y la actuación de los servicios de rescate
+La maniobra con DV en la est. Praha-Běchovice se realiza de acuerdo con las disposiciones correspondientes de las normas internas del explotador de la vía y de la Documentación Básica de Tráfico de la est.
+En función de la necesidad de realizar maniobras en los ámbitos de la est. Praha-Běchovice, el jefe de estación ordena a la persona que dirige la maniobra qué operaciones deben realizarse. Dado que el jefe de estación en dicha estación es también cambiavías, acuerda con la persona que dirige la maniobra también el procedimiento de trabajo. La persona que dirige la maniobra es responsable de realizar la maniobra exactamente de acuerdo con estas instrucciones y, al mismo tiempo, está obligada a informar de ellas de forma comprensible al resto de los empleados implicados, de manera que quede excluido cualquier malentendido y peligro para la seguridad (art. 21 y art. 645
 
 ## Página 30
+
 
 del reglamento SŽDC (ČD) D2). Una vez cumplidas estas condiciones, el jefe de estación, tras haber dispuesto todos los desvíos para la ruta de maniobra prevista, da el permiso para la maniobra mediante la señal que permite la maniobra en todos los señales implicados con el funcionamiento estándar del dispositivo JOP.
 El defecto inicial durante la ejecución de la maniobra antes de la aparición de la ME fue la transmisión de una información errónea por parte del encargado de las maniobras al maquinista de la reserva, indicándole que se trataba de una marcha empujando hacia una vía libre. La transmisión de señales entre el encargado de las maniobras y el maquinista del HDV 92 54 2 742 302-3 se realizaba mediante radios. Del análisis del registro del velocímetro se desprende una distancia recorrida de aproximadamente 450 m desde la parada del elemento de maniobra tras la señal de clasificación Se 102 y el inicio de la maniobra empujando hasta el punto de colisión con los DV estacionados en la SK n.º 104. De ello se deduce que el encargado de las maniobras tenía la obligación de transmitir repetidamente señales al maquinista tras recorrer como máximo 100 m; en el tramo de los últimos 300 m antes del punto de parada, el encargado de las maniobras debía informar al maquinista de la distancia estimada en metros hasta el punto de parada. En el tramo de los últimos 100 m antes del punto de parada, el encargado de las maniobras debía dar instrucciones al maquinista siempre tras recorrer una distancia máxima de 20 m (Anexo n.º 21 del RFE de la est. Praha-Běchovice, art. 38 del reglamento SŽDC (ČD) Z 11 y art. 682 del reglamento SŽDC (ČD) D2).
@@ -957,30 +905,31 @@ Como se constató, la velocidad del HDV de la reserva se mantenía hasta 30 km.h
 • no dio de inmediato la instrucción para detener el elemento de maniobra si detectaba circunstancias que pusieran en peligro la seguridad durante la maniobra;
 La visibilidad del punto de parada durante el empuje hacia la SK n.º 104 pudo verse parcialmente afectada por la iluminación de la cabecera central de la estación. Sin embargo, es necesario destacar que la persona cualificada para dirigir maniobras debe estar familiarizada con la documentación básica de tráfico, incluido el conocimiento de las condiciones locales de la estación correspondiente en la que vaya a realizar su actividad laboral. Asimismo, está obligada a situarse en un lugar desde el que pueda visualizar la vía delante de los vehículos y dar instrucciones de modo que se cumplan las condiciones para la marcha según las condiciones de visibilidad.
 
-
 ## Página 31
 
 ## 4.3
 ### Conclusiones
-4.3.1 Causas inmediatas del accidente, incluidos los factores que contribuyeron al mismo y que estuvieron relacionados con la actuación de las personas implicadas o con el estado de los vehículos ferroviarios o de los dispositivos técnicos
-La causa inmediata del accidente fue:
-• el incumplimiento de la condición de marcha según las condiciones de visibilidad por parte del elemento de maniobra en la est. Praha-Běchovice.
+4.3.1 Causas inmediatas del suceso, incluidos los factores que contribuyeron al mismo y que estuvieron relacionados con la actuación de las personas implicadas o con el estado del material rodante o de las instalaciones técnicas
+La causa inmediata del suceso fue:
+el incumplimiento de la condición de circulación según las condiciones de visibilidad por parte de la maniobra en la estación.
+•
+Praga-Běchovice.
 ### 4.3.2 Causas fundamentales relacionadas con la cualificación, los procedimientos y el mantenimiento
-La causa fundamental del accidente fue:
-• el incumplimiento de los procedimientos tecnológicos para la maniobra, establecidos en la norma interna del gestor de la infraestructura ferroviaria y del transportista, por parte del empleado del transportista que dirigía la maniobra.
+La causa fundamental del suceso fue:
+el incumplimiento de los procedimientos tecnológicos de maniobra establecidos en la normativa interna del gestor de la infraestructura y del operador ferroviario, por parte del empleado del operador ferroviario responsable de la maniobra.
 ### 4.3.3 Causas derivadas del marco normativo y del uso del sistema de garantía de la seguridad
-No se detectaron causas del accidente derivadas del marco normativo y del uso del sistema de seguridad.
+No se detectaron causas del suceso derivadas del marco normativo y del uso del sistema de seguridad.
 ## 4.4
 ### Hallazgos complementarios
-### 4.4.1 Deficiencias y omisiones detectadas durante la investigación de las causas y circunstancias de la aparición del accidente, que sin embargo no son relevantes para las conclusiones sobre las causas
-No fueron detectadas por la DI deficiencias y omisiones durante la investigación de las causas y circunstancias de la aparición de la ME, que sin embargo no son relevantes para las conclusiones sobre las causas.
+### 4.4.1 Deficiencias y omisiones detectadas durante la investigación de las causas y circunstancias del suceso, que sin embargo no son relevantes para las conclusiones sobre las causas
+No fueron detectadas por el DI deficiencias y omisiones detectadas durante la investigación de las causas y circunstancias del suceso, que sin embargo no son relevantes para las conclusiones sobre las causas.
 ## 5 MEDIDAS ADOPTADAS
 ## 5.1
-### Lista de medidas que ya se han tomado o adoptado como consecuencia del accidente
-El gestor de la infraestructura ferroviaria SŽDC no adoptó ni emitió medidas tras la aparición de la ME debido a que la causa y la responsabilidad por su aparición correspondían a un tercero distinto del gestor de la infraestructura ferroviaria SŽDC.
-
+### Lista de medidas que ya se han adoptado o tomado como consecuencia del suceso
+El gestor de la infraestructura SŽDC no adoptó ni emitió medidas tras el suceso debido a que la causa y la responsabilidad por su producción recaen fuera del gestor de la infraestructura SŽDC.
 
 ## Página 32
+
 
 El transportista ČDC, a. s., emitió las siguientes medidas tras la aparición de la ME:
 1) al encargado de las maniobras se le suspendió inmediatamente tras la ME la continuación de su actividad laboral, lo que supuso también la pérdida de su cualificación para el desempeño de la función de encargado de maniobras;
@@ -996,8 +945,8 @@ inspector jefe
 de la Inspección Territorial de Praga
 de la Inspección Territorial de Praga
 
-
 ## Página 33
+
 
 ## 7 ANEXOS
 Fig. n.º 3: Vehículos impactados
@@ -1005,8 +954,8 @@ Fuente: DI
 Fig. n.º 4: Vehículos impactados
 Fuente: DI
 
-
 ## Página 34
+
 
 Fig. n.º 5: Vehículos impactados
 Fuente: DI

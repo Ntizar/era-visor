@@ -10,13 +10,14 @@ chars: 68375
 ratio_longitud: 1.26
 tokens_in: 33032
 tokens_out: 23605
-verificacion: revisar
-notas_cifras: ["bloque 1: original bilingüe: se compara contra el idioma principal (CS)", "bloque 3: original bilingüe: se compara contra el idioma principal (CS)", "bloque 4: original bilingüe: se compara contra el idioma principal (CS)"]
-avisos: ["bloque 4: ratio 1.62"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 3: original bilingüe: se compara contra el idioma principal (CS)", "página 5: original bilingüe: se compara contra el idioma principal (CS)", "página 6: original bilingüe: se compara contra el idioma principal (CS)", "página 12: original bilingüe: se compara contra el idioma principal (CS)", "página 14: original bilingüe: se compara contra el idioma principal (CS)", "página 16: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -39,13 +40,13 @@ IČ: 75009561
 mail@dicr.cz
 tel.: +420 736 521 003
 
-
 ## Página 2
+
 
 Este informe final es público y todos los hechos en él expuestos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ### 1 RESUMEN
               Fuente: Drážní inspekce
@@ -72,8 +73,8 @@ No fue detectado ningún factor contribuyente por la Drážní inspekce.
 No fue detectada ninguna causa en el sistema de seguridad por la Drážní inspekce.
 No fue emitida ninguna recomendación de seguridad por la Drážní inspekce.
 
-
 ## Página 4
+
 
 ### RESUMEN
 25 de junio de 2020, 1:20 (24 de junio de 2020, 23:20 GMT).
@@ -103,8 +104,8 @@ ninguna.
 Recomendación:
 no emitida.
 
-
 ## Página 5
+
 
 # Índice
 1 RESUMEN........................................................................................................................3
@@ -164,8 +165,8 @@ ferroviarios....................................................................
 4.2.1 Factores o consecuencias derivados del diseño de los vehículos ferroviarios,
 la infraestructura ferroviaria o los equipos técnicos...................................................23
 
-
 ## Página 6
+
 
 4.2.2 Factores o consecuencias derivados de la instalación y puesta en servicio de
 los vehículos ferroviarios, la infraestructura ferroviaria o los equipos técnicos.......24
@@ -207,8 +208,8 @@ conformidad.....................................................................
 5.3 Hallazgos complementarios....................................................................................27
 6 RECOMENDACIONES DE SEGURIDAD..........................................................................28
 
-
 ## Página 7
+
 
 ### Lista de siglas y símbolos utilizados
 CDP
@@ -254,6 +255,7 @@ technická kontrola
 
 ## Página 8
 
+
 ### Lista de abreviaturas de legislación, normas y reglamentos internos utilizados
 ley núm. 266/1994 Sb.
 ley núm. 266/1994 Sb., de ferrocarriles, en la redacción vigente en el momento de producirse la incidencia
@@ -272,8 +274,8 @@ reglamento interno del explotador de la vía férrea SŽ, «SŘ ŽST Most nové 
 2192/2009 ŘTOD-O13/32
 reglamento interno del transportista ČDC, Documentación tecnológica del puesto de explotación Most para la estación Most nové nádraží, en la redacción vigente en el momento de producirse la incidencia
 
-
 ## Página 9
+
 
 ### 2 INVESTIGACIÓN Y SUS RELACIONES
 ### 2.1 Decisión de iniciar la investigación
@@ -305,8 +307,8 @@ medición de los parámetros de la superestructura ferroviaria, incluidos los de
 análisis de la documentación solicitada al explotador de la vía férrea y al transportista;
 •
 
-
 ## Página 10
+
 
 declaraciones de los empleados implicados.
 •
@@ -335,8 +337,8 @@ GPS:
 ### 3.1.3 Descripción del lugar del hecho
 La estación ferroviaria Most nové nádraží se sitúa en la vía férrea nacional, en el pk 4,159 de la línea de vía única Třebušice – Most nové nádraží (también est. Most n. n.) y en el pk 2,027 de la línea de vía única Most – Most n. n. La est. Most n. n. constituye un solo ámbito, que se divide en 4 grupos de vías A – D. El lugar de la incidencia se encontraba en el grupo de vías C – vías núm. 19 – 49 (arpa derecha).
 
-
 ## Página 11
+
 
 ## Lugar de la incidencia - punto «0»
 ## 27. SK
@@ -368,8 +370,8 @@ en la I. cabina del maquinista (HDV 742.439-3) se constató:
 ◦el indicador de presión del aire en el cilindro de freno marcaba el valor 3,1 bares, en la tubería principal el valor 0 bar y en el depósito principal de aire el valor 0 bar;
 ◦la palanca de mando del controlador de sentido de marcha estaba en la posición «0»;
 
-
 ## Página 12
+
 
 ◦el controlador de marcha rotativo estaba en la posición «0»;
 ◦el conmutador del freno automático de tren estaba ajustado en la posición «Explotación»;
@@ -408,8 +410,8 @@ desvío núm. 32 en el pk 2,227:
 ◦el punto «0» estaba determinado en el corazón del desvío en el pk 2,251;
 ◦la circulación de los TDV en estado descarrilado provocó daños en las traviesas, los elementos de fijación y la aguja del desvío;
 
-
 ## Página 13
+
 
 desvío núm. 37 en el pk 2,254:
 •
@@ -440,6 +442,7 @@ En el lugar de la incidencia no se realizaron, inmediatamente antes de su produc
 En la incidencia no se produjo perjuicio alguno para la salud de los empleados del explotador de la vía férrea, del transportista, de personas en relación contractual, ni de pasajeros ni de terceras personas.
 
 ## Página 14
+
 
 El explotador de la infraestructura y el transportista cuantificaron los daños en:
 HDV (tren Mn 86658)
@@ -475,8 +478,8 @@ El transportista del tren Mn 86658 era ČDC, con domicilio en Jankovcova 1569/2c
 El transporte ferroviario se prestaba en virtud de un contrato celebrado entre el explotador de la infraestructura SŽ y el transportista ČDC el 18. 12. 2018, con efectos desde el 18. 12. 2018.
 En la interfaz entre los sujetos participantes no se detectó ninguna deficiencia.
 
-
 ## Página 15
+
 
 ### 3.1.7 Descripción de los vehículos ferroviarios y sus composiciones, incluidos sus números de registro
 | Tren: | Mn86658 | Composición del tren: |  | Modo de frenado: |
@@ -524,8 +527,8 @@ detención de la cabeza del tren Mn 86658 a una distancia de 19 m tras las punta
 •
 n.º 32 en el sentido de la marcha.
 
-
 ## Página 16
+
 
 Nota: la desviación del registrador de velocidad respecto al tiempo real era de menos 3 min.
 1. El TDV con código de identificación alfanumérico CZ-ČDC 31 54 6687 897-4 tenía una revisión Tk válida realizada el 20. 3. 2020, con vigencia de 6 años, con el resultado: «El vehículo cumple las condiciones de explotación en las vías».
@@ -552,8 +555,8 @@ ocupación del tramo de aguja V25-37 por la circulación del tren Mn 86658;
 1:20:30 h –
 cambio de indicación en la señal de salida S27 a «Alto».
 
-
 ## Página 17
+
 
 De los datos del Registro de averías de los dispositivos de señalización se desprende que las inspecciones y el mantenimiento ordinarios se realizaron en los intervalos prescritos los días 24. y 25. 6. 2020, y no se registró ninguna avería.
 En la inspección colegiada y la verificación del estado técnico de los dispositivos de señalización se constató que el SZZ en cuestión presentaba, antes de la producción del MU y en el momento de su producción, un estado sin averías, y que el estado técnico del SZZ y su modo de operación no guardaban relación causal con la producción del MU.
@@ -572,8 +575,8 @@ maquinista del tren Mn 86658
 ◦en los límites del OKV recibió del jefe de maniobras St 1 de la est. Most n. n. por radiofónica la instrucción de que circularía hasta la 27.ª SK, donde se acoplaría con la composición para el tren Mn 86658;
 ◦para la composición del Mn 86658 ya se había realizado la ÚZB mediante el HDV de la reserva de maniobras;
 
-
 ## Página 18
+
 
 ◦al entrar en maniobras en la composición, registró dos tope pintadas de amarillo bajo el primer eje del TDV delantero;
 ◦al circular hacia la composición, manejó el HDV desde la cabina II;
@@ -602,6 +605,7 @@ jefe de maniobras St 1 de la est. Most n. n.
 ◦a las 1:30 h comunicó la producción del MU al despachador de explotación en Ústí nad Labem y procedió conforme al plan de notificación;
 
 ## Página 19
+
 
 maniobrador
   – Anotación con el empleado:
@@ -632,28 +636,26 @@ maniobrador –
 ◦en el marco de esta preparación realiza la ÚZB mediante el HDV de la reserva de maniobras y a continuación las operaciones de desenganche y enganche al sustituir el HDV de la reserva de maniobras por el de tren;
 ◦por orden del despachador de estación se dirigió a enganchar el HDV de tren al conjunto en la 27. SK;
 
-
 ## Página 20
 
-◦al maquinista del HDV de tren le entregó la documentación de tráfico y le informó de que, tras el enganche, realizarían la JZB;
-◦retiró el tope de cobertura más cercano a la 28. SK y se metió en el espacio entre el HDV y el 1. TDV;
-◦al manipular el acople de freno del TDV comprobó que el sellado de goma de la cabeza del acople de freno estaba suelto;
-◦tras aprox. 1 minuto consiguió asentar correctamente el sellado de goma;
-◦enganchar el HDV con el TDV, conectó los acoples de freno y abrió las llaves de los acoples de freno;
-◦salió del espacio entre el HDV y el TDV al camino en dirección a la 28. SK;
+◦al maquinista del HDV de tren le entregó la documentación de tráfico e informó de que, tras el enganche, realizarían la JZB;
+◦retiró la tope de cobertura más próxima al 28. SK y entró en el espacio entre el HDV y el 1. TDV;
+◦al manipular el acoplamiento de freno del TDV, comprobó que la junta tórica de goma de la cabeza del acoplamiento de freno estaba suelta;
+◦en aproximadamente 1 minuto consiguió colocar correctamente la junta tórica de goma;
+◦desenganchó el HDV con el TDV, conectó los acoplamientos de freno y abrió las llaves de los acoplamientos de freno;
+◦salió del espacio entre el HDV y el TDV al camino de servicio en dirección al 28. SK;
 ◦comunicó al maquinista el resultado de la JZB tras su correcta realización en el 1. TDV;
-◦el despacho del tren Mn 86658 lo comunicó por radiostación al jefe de maniobras St 1 est. Most n. n. y por teléfono al despachador de estación;
-◦regresó al refugio y tras un momento oyó una fuga de aire y un golpe;
-◦durante su trayectoria profesional ha llegado a la conclusión de que, al realizar la actividad laboral, piensa en lo que está haciendo;
-◦no sabe por qué olvidó retirar el segundo tope de cobertura, durante su trayectoria profesional no le había ocurrido nada similar.
+◦el despacho del tren Mn 86658 lo comunicó por radiostación al jefe de estación St 1 de la est. Most n. n. y telefónicamente al despachador de estación;
+◦regresó al refugio y, tras un rato, oyó una fuga de aire y un golpe;
+◦a lo largo de su trayectoria profesional ha llegado a la conclusión de que, al realizar la actividad laboral, piensa en lo que está haciendo;
+◦no sabe por qué olvidó retirar la segunda tope de cobertura; a lo largo de su trayectoria profesional no le había ocurrido nada parecido.
 ### 3.2 Descripción fáctica del suceso
-### 3.2.1 Secuencia aproximada de hechos que condujeron al suceso ferroviario
-En la 27. SK de la est. Most n. n. estaba preparado un conjunto de 13 vagones de carga TDV para el tren Mn 86658. En este conjunto se había realizado la ÚZB mediante el HDV de la 7.ª reserva de maniobras.
-De acuerdo con lo dispuesto en el SŘ de la est. Most n. n., el conjunto estaba calzado contra el movimiento no deseado en dirección a la est. Třebušice con dos topes de cobertura.
-Según las órdenes del despachador de estación de la est. Most n. n., el HDV de tren de la serie 742 accedió al conjunto en la 27. SK y llegó el maniobrador de la 7.ª reserva para realizar el enganche y el despacho del tren Mn 86658. El maniobrador entregó la documentación del tren al maquinista y le informó del procedimiento a seguir, es decir, la realización de la JZB. El maniobrador, según su declaración, primero retiró el tope de cobertura a la derecha en el sentido de la marcha del tren, a continuación entró en el espacio entre el HDV y el 1. TDV y realizó su enganche. Durante el enganche detectó una avería en el sellado de la cabeza del acople de aire, que eliminó tras aprox. 1 min, conectó los acoples de freno y abrió las llaves de freno correspondientes. No retiró el segundo tope de cobertura en el lado derecho en el sentido de la marcha. Volvió a salir al camino entre la 27. y la 28. SK. Tras la igualación de presiones en la tubería principal de freno del conjunto, realizó con el maquinista la JZB en el 1. TDV del tren. Comunicó verbalmente al maquinista que la JZB se había realizado correctamente y a continuación informó por radiostación al jefe de maniobras St 1 est. Most n. n. del despacho del tren Mn 86658. La misma información la facilitó por teléfono al despachador de estación de la est. Most n. n. y se dirigió al puesto de la 7.ª reserva de maniobras. El maquinista, mediante tablet, confirmó al jefe de maniobras St 1 est. Most n. n. la preparación del tren Mn 86658 para la salida. El jefe de maniobras estableció de forma normal mediante el SZZ la vía de tren hasta la est. Třebušice. Ante la señal que autoriza la marcha de la señal S27, el maquinista puso el tren en movimiento. Tras la puesta en marcha del tren, el tope de cobertura fue empujado por la rueda izquierda del primer eje del primer bogie del 1. TDV por el carril izquierdo hasta el km 2,251, donde se produjo su encaje en la garganta
-
+### 3.2.1 Secuencia aproximada de hechos que condujeron al suceso excepcional
+En el 27. SK de la est. Most n. n. estaba preparada una composición de 13 TDV de mercancías para el tren Mn 86658. A esta composición se le había realizado la ÚZB mediante el HDV de la 7.ª reserva de maniobras. De acuerdo con lo dispuesto en el Reglamento de Servicio (SŘ) de la est. Most n. n., la composición estaba calzada contra el movimiento indeseado en dirección a la est. Třebušice mediante dos topes de cobertura.
+Según las instrucciones del despachador de estación de la est. Most n. n., el HDV de tren de la serie 742 accedió a la composición en el 27. SK y llegó a la composición el maniobrador de la 7.ª reserva para realizar el enganche y el despacho del tren Mn 86658. El maniobrador entregó al maquinista la documentación del tren e informó del procedimiento a seguir, es decir, la realización de la JZB. El maniobrador, según su declaración, primero retiró el tope de cobertura a la derecha en el sentido de la marcha del tren, a continuación entró en el espacio entre el HDV y el 1. TDV y realizó su enganche. Durante el enganche detectó un defecto en la junta tórica de la cabeza del acoplamiento de presión, que eliminó en unos 1 min, conectó los acoplamientos de freno y abrió las llaves de freno correspondientes. No retiró el segundo tope de cobertura en el lado derecho en el sentido de la marcha. Volvió a salir al camino de servicio entre el 27. y el 28. SK. Tras igualar las presiones en la tubería principal de freno de la composición, realizó con el maquinista la JZB en el 1. TDV del tren. Comunicó verbalmente al maquinista que la JZB se había realizado correctamente y, a continuación, informó por radiostación al jefe de estación St 1 de la est. Most n. n. del despacho del tren Mn 86658. Facilitó la misma información telefónicamente al despachador de estación de la est. Most n. n. y se dirigió al puesto de la 7.ª reserva de maniobras. El maquinista confirmó mediante tableta al jefe de estación St 1 de la est. Most n. n. la preparación del tren Mn 86658 para la salida. El jefe de estación estableció de forma normal, mediante el SZZ, la vía de tren hasta la est. Třebušice. Ante la señal que autoriza la marcha de la señal S27, el maquinista puso el tren en movimiento. Tras la puesta en marcha del tren, el tope de cobertura fue empujado por la rueda izquierda del primer eje del primer bogie del 1. TDV por el carril izquierdo hasta el km 2,251, donde se produjo su encastramiento en la rana
 
 ## Página 21
+
 
 del desvío n.º 32. A través del tope encajado, a continuación, ambos bogies del 1. TDV se descarrilaron a la izquierda en el sentido de la marcha del tren. El maquinista, que según su declaración sintió un golpe tras unos 150 m de marcha, activó el frenado de acción rápida. Tras la parada, comprobó junto con el maniobrador y el jefe de maniobras, que también acudieron al lugar del suceso, el descarrilamiento del 1. TDV del conjunto con ambos bogies por el tope de cobertura olvidado, que se encontraba en la parte de garganta del desvío n.º 32 a aprox. 1,5 m detrás de la punta de su garganta.
 ### 3.2.2 Secuencia de hechos desde la producción del suceso ferroviario hasta la finalización de las acciones de los servicios de emergencia
@@ -695,8 +697,8 @@ El gestor de la vía emitió procedimientos tecnológicos relativos, entre otros
 En la investigación no se detectó infracción de las funciones y obligaciones del gestor de la vía en relación causal con la producción del suceso.
 El transportista está obligado a garantizar que el empleado designado, en este caso el maniobrador, en el marco del enganche de los DV retire todos los medios de protección, en este caso los llamados dos topes de cobertura, antes de que el HDV acceda al conjunto del tren. El maniobrador, al enganchar el HDV con el conjunto de TDV en la 27. SK, realizó el enganche correcto y la conexión de los acoples de aire, retiró
 
-
 ## Página 22
+
 
 un tope de cobertura del carril derecho y dejó el del carril izquierdo.
 ### Hallazgos:
@@ -722,6 +724,7 @@ En la investigación no se detectó infracción de las funciones y obligaciones 
 
 ## Página 23
 
+
 ### 4.1.3 Fabricantes de material rodante u otros proveedores de productos ferroviarios
 En la investigación no se detectó infracción de las funciones y obligaciones de los fabricantes de material rodante ni de otros proveedores de productos ferroviarios.
 ### 4.1.4 Autoridades nacionales de seguridad y Agencia Ferroviaria de la Unión Europea
@@ -738,8 +741,8 @@ Las funciones y obligaciones de otras personas u organismos no guardaban relaci�
 4.2.1 Factores o consecuencias derivados de la construcción del material rodante, de la infraestructura ferroviaria o de las instalaciones técnicas
 En la investigación no se detectaron factores derivados de la construcción del material rodante, de la infraestructura ferroviaria o de las instalaciones técnicas.
 
-
 ## Página 24
+
 
 4.2.2 Factores o consecuencias derivados de la instalación y de la puesta en servicio del material rodante, de la infraestructura ferroviaria o de la instalación técnica
 En la investigación no se detectaron factores derivados de la instalación y de la puesta en servicio del material rodante, de la infraestructura ferroviaria o de la instalación técnica
@@ -759,8 +762,8 @@ De la investigación se desprende que el maniobrador cuenta con la práctica suf
 La Inspección Ferroviaria constató mediante la investigación que el maniobrador de la 7.ª reserva de la estación Most n. n. estaba cualificado profesionalmente y que la duración de su práctica, sus experiencias y sus conocimientos no tuvieron incidencia en la ocurrencia de este SU.
 En la investigación no se detectaron factores relacionados con la formación profesional de los empleados, con el estado de salud y con la situación personal, incluidos el estrés físico y psicológico.
 
-
 ## Página 25
+
 
 ### 4.3.2 Factores laborales
 Al final de las vías de clasificación (de salida) núm. 9 – 29 y 32 en el ámbito St 1 de la estación Most n. n., de acuerdo con los procedimientos tecnológicos del gestor de la infraestructura, se colocan, para evitar el movimiento no deseado del DV (material rodante), dos denominadas tope de cobertura, una en cada banda de carril (foto ilustrativa, véase la fig. núm. 2). Las tope de cobertura las retira el empleado designado de la empresa ferroviaria, en este caso el maniobrador, inmediatamente antes de que el HDV (locomotora) acople a la composición del tren. En caso de ser necesario un nuevo desplazamiento del HDV, es el maniobrador quien vuelve a retirar y a colocar las tope de cobertura. Las tope de cobertura están señalizadas en amarillo con franja roja. Las tope de cobertura no pueden utilizarse para otro fin y permanecen en las vías incluso en el caso de que no se realicen maniobras en la estación de clasificación.
@@ -777,28 +780,27 @@ En la investigación no se detectaron otros factores relacionados con la actuaci
 ### 4.4.1 Condiciones pertinentes del marco regulatorio
 Las condiciones pertinentes del marco regulatorio están establecidas en los Reglamentos de la Unión Europea, en la Ley núm. 266/1994 Sb. y en los decretos de aplicación.
 
-
 ## Página 26
 
-4.4.2 Procedimientos, métodos, contenido y resultados de las actividades de evaluación de riesgos y de seguimiento realizadas por cualquiera de los organismos participantes
-En los procedimientos, métodos, contenido y resultados de las actividades de evaluación de riesgos y de seguimiento relacionados con las circunstancias de la ocurrencia del SU en cuestión, no se detectaron deficiencias.
-### 4.4.3 Sistema de garantía de la seguridad de las empresas ferroviarias y de los gestores de la infraestructura implicados
-En el sistema de garantía de la seguridad adoptado por el gestor de la infraestructura y por la empresa ferroviaria, relacionado con las circunstancias de la ocurrencia del SU en cuestión, no se detectaron deficiencias.
-### 4.4.4 Sistema de gestión de los organismos responsables del mantenimiento del material rodante y de los talleres de mantenimiento
-El sistema de gestión de los organismos responsables del mantenimiento del material rodante y de los talleres de mantenimiento no guardaba relación con la ocurrencia del SU.
+4.4.2 Procedimientos, métodos, contenido y resultados de las actividades de evaluación de riesgos y de vigilancia realizadas por cualquiera de los sujetos participantes
+No se han detectado deficiencias en los procedimientos, métodos, contenido y resultados de las actividades de evaluación de riesgos y de vigilancia relacionados con las circunstancias de la aparición de la MU en cuestión.
+### 4.4.3 Sistema de garantía de la seguridad de los transportistas y gestores de infraestructura implicados
+No se han detectado deficiencias en el sistema de garantía de la seguridad adoptado por el gestor de la infraestructura y el transportista, relacionado con las circunstancias de la aparición de la MU en cuestión.
+### 4.4.4 Sistema de gestión de los sujetos responsables del mantenimiento de los vehículos ferroviarios y de los talleres de mantenimiento
+El sistema de gestión de los sujetos responsables del mantenimiento de los vehículos ferroviarios y de los talleres de mantenimiento no guardaba relación con la aparición de la MU.
 ### 4.4.5 Resultados de la supervisión realizada por las autoridades nacionales de seguridad
-Atendiendo a los factores detectados y a las circunstancias de la ocurrencia del SU, la supervisión de la autoridad de seguridad no guarda relación con el SU en cuestión.
-### 4.4.6 Aprobaciones, certificados e informes de evaluación emitidos por la Agencia, por las autoridades nacionales de seguridad u otros organismos de evaluación de la conformidad
-El gestor de la infraestructura explotaba la vía férrea en virtud de una autorización administrativa vigente y de un certificado de seguridad del gestor de la infraestructura. La empresa ferroviaria explotaba el transporte ferroviario en virtud de una licencia vigente y de un certificado de la empresa ferroviaria.
+Atendiendo a los factores y circunstancias de aparición de la MU identificados, la supervisión de la autoridad de seguridad no guarda relación con la MU en cuestión.
+### 4.4.6 Aprobaciones, certificados y informes de evaluación emitidos por la agencia, las autoridades nacionales de seguridad u otros sujetos de evaluación de la conformidad
+El gestor de la infraestructura explotaba la infraestructura en virtud de una autorización administrativa vigente y de un certificado de seguridad del gestor de la infraestructura. El transportista explotaba el transporte ferroviario en virtud de una licencia vigente y de un certificado del transportista.
 ### 4.4.7 Otros factores sistémicos
-En la investigación no se detectaron otros factores sistémicos.
+En el curso de la investigación no se han identificado otros factores sistémicos.
 ### 4.5 Sucesos anteriores de naturaleza similar, si se dispone de ellos
-La DI (Inspección Ferroviaria) registra en el período comprendido entre el 1. 1. 2010 y la fecha de ocurrencia del SU en cuestión, en las vías férreas de categoría nacional y regional, 11 SU análogos, en los que se produjo un descarrilamiento durante la marcha del tren, cuya causa fue la no retirada del medio de inmovilización del material rodante frente a la marcha incontrolada – el tope de la banda de carril – antes de poner el tren en movimiento. De los SU mencionados anteriormente, la DI investigó las causas y circunstancias del SU:
-del 15. 2. 2019 en la estación D3 Kamenice nad Lipou, en el que se produjo el •
-descarrilamiento de material rodante durante la marcha del tren Os 21221. En el SU no se produjeron daños personales y el daño material se valoró en 53 809 Kč.
-
+El DI registra, en el periodo comprendido entre el 1 de enero de 2010 y la fecha de aparición de la MU en cuestión, en las vías ferroviarias de categoría nacional y regional, 11 MU análogas en las que se produjo un descarrilamiento en marcha del tren, cuya causa fue la no retirada del dispositivo de inmovilización de los vehículos ferroviarios contra el arrastre —el tope de la banda del carril— antes de poner el tren en movimiento. De las MU mencionadas anteriormente, el DI investigó las causas y circunstancias de la MU:
+• del 15 de febrero de 2019 en la estación D3 Kamenice nad Lipou, en la que se produjo el descarrilamiento
+del vehículo ferroviario en marcha del tren Os 21221. En la MU no se produjeron daños personales y los daños materiales se valoraron en 53 809 Kč.
 
 ## Página 27
+
 
 ### 5 CONCLUSIONES
 ### 5.1 Resumen del análisis y conclusiones relativas a las causas del suceso
@@ -832,8 +834,8 @@ No se detectó nada en el gestor de la infraestructura SŽ ni en la empresa ferr
 ### Additional observations
 It was not found at the infrastructure manager SŽ and the railway undertaking ČDC.
 
-
 ## Página 28
+
 
 ### 6 RECOMENDACIONES DE SEGURIDAD.
 Atendiendo a las causas detectadas y a las circunstancias de la ocurrencia del suceso extraordinario, la Inspección Ferroviaria no emite recomendaciones de seguridad, puesto que no se han detectado datos que justificasen la emisión de una recomendación de seguridad en el marco de la prevención de la ocurrencia de sucesos extraordinarios.
@@ -849,8 +851,8 @@ inspector
 De la Inspección Territorial de Bohemia
 De la Inspección Territorial de Bohemia
 
-
 ## Página 29
+
 
 ### Anexos
 Fig. núm. 2: Foto ilustrativa de la colocación de las «Topes de cobertura»

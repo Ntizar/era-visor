@@ -10,13 +10,14 @@ chars: 259990
 ratio_longitud: 1.18
 tokens_in: 123441
 tokens_out: 85960
-verificacion: revisar
-notas_cifras: ["bloque 1: original bilingüe: se compara contra el idioma principal (EN)", "bloque 4: cifras cortas: 9/334", "bloque 5: cifras cortas: 7/464", "bloque 9: cifras cortas: 14/44", "bloque 18: cifras cortas: 114/114", "bloque 21: cifras largas: 3/27; cifras cortas: 2/47"]
-avisos: ["bloque 18: marcadores de página: 4 vs 0; cifras largas: faltan 41/41 (100%); ratio 0.01"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 3: original bilingüe: se compara contra el idioma principal (CS)", "página 4: original bilingüe: se compara contra el idioma principal (CS); ratio 1.99", "página 6: original bilingüe: se compara contra el idioma principal (CS)", "página 7: original bilingüe: se compara contra el idioma principal (CS)", "página 11: original bilingüe: se compara contra el idioma principal (CS)", "página 12: original bilingüe: se compara contra el idioma principal (CS); cifras cortas: 1/19"]
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -39,13 +40,13 @@ IČ: 75009561
 mail@dicr.cz
 tel.: +420 736 521 003
 
-
 ## Página 2
+
 
 El presente informe final es público y todos los hechos en él expuestos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ### 1 RESUMEN
 Fuente: Drážní inspekce
@@ -69,15 +70,14 @@ No fue detectada por la Drážní inspekce ninguna causa sistémica.
 Recomendaciones de seguridad:
 La Drážní inspekce, con base en lo dispuesto en el apartado 1 del artículo 53e de la Ley n.º 266/1994 Sb., recomienda, en relación con la prevención de sucesos ferroviarios:
 
-
 ## Página 4
 
-A la Drážní úřad:
+A la Autoridad Ferroviaria (Drážní úřad):
 •
-en el marco de su actividad como autoridad nacional de seguridad, la adopción de medidas que garanticen, en el gestor de la infraestructura Správa železnic, státní organizace, y en los demás gestores de la infraestructura de ámbito nacional y regional, una actividad de control eficaz y rigurosa sobre el cumplimiento y el respeto de las obligaciones establecidas a los distintos empleados, especialmente en relación con la garantía de la seguridad y la protección de la salud de las personas durante la realización de trabajos en una vía de tráfico en servicio.
-
+en el marco de su actividad como autoridad nacional de seguridad, la adopción de medidas que garanticen en el gestor ferroviario Správa železnic, organización estatal, y en los demás gestores ferroviarios de ámbito nacional y regional, una actividad de control eficaz y rigurosa sobre el cumplimiento y el respeto de las obligaciones establecidas a cada uno de los empleados, en particular en relación con la garantía de la seguridad y la protección de la salud de las personas durante la realización de trabajos en la vía de tráfico en explotación.
 
 ## Página 5
+
 
 ### RESUMEN
 3 de octubre de 2023, 9:14 (7:14 GMT).
@@ -107,8 +107,8 @@ Dirigida a la Autoridad Nacional de Seguridad de la República Checa (NSA):
 •
 adoptar una medida propia que garantice una actividad de control eficaz y rigurosa sobre el cumplimiento y el respeto de las obligaciones establecidas a los distintos empleados, especialmente en relación con la garantía de la seguridad y la protección de la salud de los empleados en una vía de tráfico en servicio en el gestor de la infraestructura SŽ y en los demás gestores de la infraestructura de ferrocarriles nacionales y regionales.
 
-
 ## Página 6
+
 
 # Índice
 1 RESUMEN..................................................................................................................3
@@ -152,6 +152,7 @@ SUMMARY.........................................................................
 
 ## Página 7
 
+
 4.2.2 Factores o consecuencias derivados de la instalación y puesta en servicio de material rodante, infraestructura ferroviaria o instalación técnica.....................................................................79
 4.2.3 Factores o consecuencias relacionados con los fabricantes de material rodante u otro proveedor de productos ferroviarios...........................................................................79
 4.2.4 Factores o consecuencias derivados del mantenimiento y modificación de material rodante o instalaciones técnicas..................................................................................................79
@@ -181,6 +182,7 @@ SUMMARY.........................................................................
 ANEXOS............................................................................................................................93
 
 ## Página 8
+
 
 ### Lista de siglas y símbolos utilizados
 ARR
@@ -273,6 +275,7 @@ track warning system (sistema de aviso en vía)
 
 ## Página 9
 
+
 TZZ
 dispositivo de señalización de vía
 ÚI
@@ -297,6 +300,7 @@ pasaje a nivel
 estación de ferrocarril
 
 ## Página 10
+
 
 ### Lista de siglas de la legislación, normas y normativa interna utilizadas
 ley núm. 262/2006 Sb.
@@ -357,6 +361,7 @@ del suceso extraordinario
 
 ## Página 11
 
+
 ČSN 73 6360-2
 ČSN 73 6360-2 «Diseño constructivo y geométrico 
 de la vía de los ferrocarriles y su posición espacial – Parte 2: Construcción y recepción, explotación y mantenimiento», en la redacción 
@@ -402,40 +407,38 @@ en el momento de producirse el suceso extraordinario
 ## Página 12
 
 ### 2 INVESTIGACIÓN Y SUS RELACIONES
-### 2.1 Decisión de iniciar la investigación
-La DI decidió iniciar la investigación del suceso extraordinario mencionado el 3. 10. 2023.
-### 2.2 Fundamentación de la decisión de iniciar la investigación
-La DI decidió investigar el suceso extraordinario mencionado en base a su gravedad y a los impactos del suceso extraordinario sobre la explotación segura de la infraestructura ferroviaria y del transporte ferroviario, de conformidad con el § 53b apartado 1 de la ley 
-núm. 266/1994 Sb.
-### 2.3 Alcance y limitaciones de la investigación, incluida la fundamentación pertinente
-La DI no se encontró, en el marco de la investigación del suceso extraordinario mencionado, con limitaciones que influyeran negativamente en el modo y los procedimientos de la investigación.
+### 2.1 Decisión sobre el inicio de la investigación
+El DI decidió iniciar la investigación de la MU en cuestión el 3 de octubre de 2023.
+### 2.2 Fundamentación de la decisión sobre el inicio de la investigación
+El DI decidió investigar la MU en cuestión sobre la base de su gravedad y de los efectos de la MU sobre la explotación segura de la vía y del transporte ferroviario, de conformidad con el § 53b apartado 1 de la Ley núm. 266/1994 Sb.
+### 2.3 Alcance y limitaciones de la investigación, incluida la fundamentación correspondiente
+El DI no se encontró, en el marco de la investigación de la MU en cuestión, con limitaciones que influyeran negativamente en el modo y los procedimientos de la investigación.
 ### 2.4 Descripción resumida de las capacidades y funciones técnicas del equipo de investigación
-Investigación de la DI en el lugar del suceso extraordinario:
-3x inspector de ÚI Čechy, centro de trabajo Plzeň. 
-Formación del equipo de investigación:
-2x inspector de ÚI Čechy, centro de trabajo Plzeň.
+Investigación del DI en el lugar de la MU:
+3x inspector de la ÚI Čechy, centro de trabajo de Plzeň.
+Constitución del equipo de investigación:
+2x inspector de la ÚI Čechy, centro de trabajo de Plzeň.
 Colaboración externa:
 no se utilizó.
-2.5 Comunicación y consultas durante la investigación con las personas o entidades 
+2.5 Comunicación y consultas durante la investigación con las personas o entidades
 que participaron en el suceso
-En la investigación de las causas y circunstancias de la producción del suceso extraordinario, la DI se basó principalmente en sus propios conocimientos, hallazgos y en su propia documentación fotográfica. Durante la investigación, la DI solicitó la documentación necesaria al gestor de infraestructura, al operador ferroviario y a la PČR. 
-La investigación de las causas y circunstancias de la producción del suceso extraordinario se realizó de conformidad con la ley núm. 266/1994 Sb. 
-y el decreto núm. 376/2006 Sb. 
-### 2.6 Descripción del nivel de colaboración ofrecido por las entidades implicadas
-La DI, en colaboración con los representantes del gestor de infraestructura y del operador ferroviario, realizó una medición del ruido del apriete de impacto VESSEL GT-3500GE con el fin de verificar si, con el apriete en funcionamiento, es posible oír la indicación acústica «Pozor» 
-emitida por el maquinista durante la marcha del tren.
-El nivel de colaboración con los representantes de las entidades implicadas en el suceso extraordinario fue estándar.
-### 2.7 Descripción de la investigación, métodos y técnicas utilizados para acreditar los hechos 
-y los hallazgos recogidos en el informe
-En el marco de la investigación del suceso extraordinario, la DI procedió de la siguiente manera, es decir, utilizó, entre otros, los siguientes métodos y técnicas:
+En la investigación de las causas y circunstancias de la MU, el DI se basó principalmente en sus propios conocimientos, hallazgos y en su propia documentación fotográfica. Durante la investigación, el DI solicitó la documentación necesaria al explotador de la vía, al transportista y a la PČR.
+La investigación de las causas y circunstancias de la MU se realizó de conformidad con la Ley núm. 266/1994 Sb. y con el Decreto núm. 376/2006 Sb.
+### 2.6 Descripción del nivel de colaboración ofrecido por las entidades participantes
+El DI, en colaboración con los representantes del explotador de la vía y del transportista, realizó una medición del ruido del apriete de impacto a motor VESSEL GT-3500GE con el fin de verificar si, con el apriete en funcionamiento, es posible oír la indicación acústica "Pozor" emitida por el maquinista durante la marcha del tren.
+El nivel de colaboración con los representantes de las entidades participantes en la MU fue estándar.
+### 2.7 Descripción de la investigación, los métodos y las técnicas empleados para acreditar los hechos
+y los hallazgos consignados en el informe
+En el marco de la investigación de la MU, el DI procedió de la siguiente manera, es decir, utilizó, entre otros, los siguientes métodos y técnicas:
 •
-inspección del lugar del suceso extraordinario, incluido el material rodante implicado y la infraestructura ferroviaria;
+inspección del lugar de la MU, incluidos los DV participantes y la infraestructura de la vía;
 •
-participación en la inspección comisionada del material rodante implicado;
+participación en la inspección comisionada de los DV participantes;
 •
-declaraciones de los empleados implicados;
+declaraciones de los empleados participantes;
 
 ## Página 13
+
 
 •
 análisis de los datos registrados por el registrador de velocidad del DV participante;
@@ -473,8 +476,8 @@ Bělčice y Blatná, pk 15,054.
 Coordenadas GPS:
 49.4817508N, 13.8785875E.
 
-
 ## Página 14
+
 
 ### 3.1.3 Descripción del lugar del suceso
 El lugar de origen de la MU se situaba en el tramo entre estaciones Bělčice – Blatná de la vía regional Březnice – Strakonice, en el pk 15,054 de la vía de una sola vía Březnice – Strakonice.
@@ -504,46 +507,45 @@ en la tubería principal un valor de 0 bar y en el depósito principal de aire u
 ◦la manija del freno de acción directa estaba en la posición «O2» – desfrenado;
 ◦en el puesto se encontraba el Libro de entrega del HV 95 54 5 814 176-4»;
 
-
 ## Página 15
 
 •
-el HDV 814.176-4 no se había descarrilado;
+El HDV 814.176-4 no se descarriló;
 •
-el HDV 814.176-4 estaba equipado con zapatas de freno metálicas en el bogie motor de un espesor de 23 – 35 mm y en el bogie no motor de un espesor de 45 – 58 mm;
+El HDV 814.176-4 estaba equipado con pastillas de freno metálicas en el bogie motor de un grosor de 23 – 35 mm y en el bogie estándar de un grosor de 45 – 58 mm;
 •
-el ŘV 914.176-3 estaba equipado con zapatas de freno no metálicas IB 116 en el bogie delantero de un espesor de 42 – 45 mm y en el bogie trasero de un espesor de 54 – 56 mm;
+El ŘV 914.176-3 estaba equipado con pastillas de freno no metálicas IB 116 en el bogie delantero de un grosor de 42 – 45 mm y en el bogie trasero de un grosor de 54 – 56 mm;
 •
-las zapatas de freno en todos los bogies estaban correctamente fijadas y aseguradas;
+Las pastillas de freno en todos los bogies estaban correctamente fijadas y aseguradas;
 •
-tras la inspección del puesto de conducción del ŘV 914.176-3, desde el cual se conducía el tren, se determinó:
-◦el puesto, incluido el pupitre de mando, no presentaba signos de deformación ni de daños;
-◦en el puesto no se detectó nada que dificultara la visibilidad delante del ŘV, la observación de la vía y de las señales;
-◦el conmutador ARR estaba en la posición «I»;
-◦el conmutador de sentido de circulación estaba en la posición «0»;
-◦la palanca de conducción combinada estaba en la posición «R» – freno rápido;
-◦el conmutador KBS-E estaba ajustado en la posición «PROVOZ» (EXplotación);
-◦la manija del freno de acción directa estaba en la posición «B2» – frenado;
-◦el indicador de presión del aire en los cilindros de freno del ŘV indicaba un valor de 2,5 bares,
-en la tubería principal un valor de 0 bar y en el depósito principal de aire un valor de 3,7 bares;
-◦la aguja de la unidad de visualización del velocímetro electrónico UniControls – Tramex RE1xx indicaba un valor de 0 km·h-1;
+Tras la inspección de la cabina de conducción del ŘV 914.176-3, desde la cual se conducía el tren, se constató:
+◦la cabina, incluido el pupitre de mando, no presentaba signos de deformación ni de daños;
+◦en la cabina no se detectó nada que dificultara la visibilidad hacia delante del ŘV, la observación de la vía y de las señales;
+◦el conmutador ARR estaba en la posición "I";
+◦el conmutador de sentido de marcha estaba en la posición "0";
+◦la palanca de conducción combinada estaba en la posición "R" – freno rápido;
+◦el conmutador KBS-E estaba ajustado en la posición "PROVOZ" (EXplotación);
+◦la manija del freno de acción directa estaba en la posición "B2" – frenado;
+◦el indicador de presión del aire en los cilindros de freno del ŘV mostraba el valor de 2,5 bares, en la tubería principal el valor de 0 bar y en el depósito de aire principal el valor de 3,7 bares;
+◦la aguja de la unidad de visualización del velocímetro electrónico UniControls – Tramex RE1xx mostraba el valor de 0 km·h-1;
 ◦el panel de la radioestación estaba apagado;
-◦en el pupitre de mando se encontraba la tableta de servicio del maquinista con la página actual «ČD Mapa de sectores de los despachantes de transporte de viajeros»;
-◦en el puesto se encontraba la caja registradora portátil n.º 9794;
+◦en el pupitre de mando se encontraba la tablet profesional del maquinista con la página actual "ČD Mapa obvodů dispečerů osobní dopravy" (Mapa ČD de sectores de los despachantes de tráfico de pasajeros);
+◦en la caja se encontraba la caja registradora portátil de pasajeros n.º 9794;
 •
-el ŘV 914.176-3 no estaba descarrilado;
+El ŘV 914.176-3 no estaba descarrilado;
 •
-en las superficies de rodadura de las ruedas del HDV y del ŘV se encontraron zonas planas y, asimismo, en las superficies de rodadura de las ruedas del HDV se encontraron marcas de frenado, producidas durante el derrape como consecuencia del bloqueo de las ruedas tras la aplicación del frenado de acción rápida;
+En las superficies de rodadura de las ruedas del HDV y del ŘV se encontraron zonas planas y, además, en las superficies de rodadura de las ruedas del HDV se encontraron marcas de frenado (nápeče) producidas durante la circulación por derrape como consecuencia del bloqueo de las ruedas tras la aplicación del frenado de acción rápida;
 •
-en el frontal delantero del coche de mando, a 44 cm sobre el colisionador izquierdo y a 113 cm del flanco izquierdo (en sentido de circulación del tren Sv 98034), se encontraron huellas de la colisión con una persona;
+En el frontal delantero del coche de mando, a 44 cm por encima del enganche izquierdo y a 113 cm del flanco izquierdo (en el sentido de marcha del tren Sv 98034), se encontraron rastros del choque con una persona;
 •
-la cabeza del tren Sv 98034 en la posición final tras la MU se encontraba en el pk 15,238, es decir, a una distancia de 184 m del punto de colisión.
+El frontal del tren Sv 98034, en la posición final tras la maniobra MU, se encontraba en el km 15,238, es decir, a una distancia de 184 m del lugar del choque.
 Estado de la infraestructura:
-◦el ŽP P1329 en el pk 15,194:
-◦el ŽP de una sola vía estaba protegido con cruces de advertencia;
-
+•
+El ŽP P1329 en el km 15,194:
+◦el ŽP de vía única estaba protegido con cruces de advertencia;
 
 ## Página 16
+
 
 ◦en ambos lados del ŽP estaban colocadas las señales de tráfico A 32a «Cruce de advertencia para paso a nivel ferroviario de una sola vía» en versión reflectante sin resalte con fondo retroreflectante amarillo y verde;
 •
@@ -577,8 +579,8 @@ en el pk 15,0532, junto al carril izquierdo, se encontraba una parte del apriete
 •
 en los pk 15,0511, 15,0484 y 15,0478 había flechas trazadas con tiza en las traviesas de madera que señalaban hacia el carril izquierdo;
 
-
 ## Página 17
+
 
 •
 en el pk 15,000 a la derecha junto a la vía de servicio estaba colocada la señal de vía Staničník con la señal «Posición kilométrica» (prisma de piedra con el número negro «15»);
@@ -614,8 +616,8 @@ terreno accidentado, terraplén, borde del bosque, lugar de la colisión
 en un arco a la derecha de un radio de 200 m.
 La Inspección Ferroviaria verificó la posibilidad de que el sol deslumbrara al maquinista del tren Sv 98034. Durante el tiempo de circulación del tren desde el borde del bosque hasta el lugar de la colisión, los rayos solares se dirigían hacia el maquinista desde el lado izquierdo en un ángulo de aproximadamente 90° a 70° (véase la fig. n.º 2). La dirección de los rayos solares no podía causar un efecto deslumbrante para el maquinista del tren Sv 98034.
 
-
 ## Página 18
+
 
 sentido de circulación
 ## del tren Sv 98034
@@ -657,6 +659,7 @@ apriete de impacto motorizado
 
 ## Página 19
 
+
 ### En el MU, el daño causado en bienes de SŽ se cuantificó en un total de 7 297 Kč.
 ### 3.1.5 Descripción de otras consecuencias, incluido el impacto del suceso en las actividades regulares de los sujetos participantes
 Como consecuencia de la ocurrencia del MU, se interrumpió la explotación de la vía y del transporte ferroviario entre las estaciones Bělčice y Blatná el 3 de octubre de 2023, de 9:14 h a 15:10 h.
@@ -696,8 +699,8 @@ El transporte ferroviario se explotaba en virtud de un contrato celebrado entre 
 | Longitud del tren (m): | 2844 , | RV: | 955459141763 - | P |
 | Número de ejes: | 4 | HDV (tras RV): | 955458141764 - | P |
 
-
 ## Página 20
+
 
 | Peso (t): | 47 |
 | Porcentaje de frenado necesario (%): | 53 |
@@ -753,8 +756,8 @@ tras recorrer 1921 m de vía a una velocidad de 49 km·h-1, se registró el uso 
 9:02:48 h –
 bocina de locomotora (emisión de la señal sonora «Atención») durante 2 s;
 
-
 ## Página 21
+
 
 •
 tras recorrer 421 m de vía a una velocidad de 49 km·h-1, se registró el uso de la
@@ -838,8 +841,8 @@ tras recorrer 14 m de vía a una velocidad de 49 km·h-1, se registró el descen
 9:14:31 h –
 de aire en la tubería continua a 2,98 bares;
 
-
 ## Página 22
+
 
 •
 tras recorrer 14 m de vía a una velocidad de 49 km·h-1, inicio de la reducción
@@ -889,6 +892,7 @@ Del registro del velocímetro del HDV se desprende además que entre el uso de l
 
 ## Página 23
 
+
 El 4 de octubre de 2023, por personal cualificado del transportista y en presencia del inspector de DI, se realizó una inspección comisionada del estado técnico de ŘV 914.176-3 y HDV 814.176-4 tras el MU. En dicha inspección se documentaron los daños en ŘV y HDV y se realizó una prueba de freno en modo de acción rápida con el resultado «freno en orden». Asimismo, se realizó una nueva medición de la carrera de los pistones de los cilindros de freno en ambos ejes de ŘV y HDV sin detectar anomalías, así como la medición del diámetro de las ruedas.
 Mediante la medición del diámetro de las ruedas en la circunferencia de contacto del bogie al que está conectado el captador de revoluciones del velocímetro, se detectó una diferencia entre el diámetro real de las ruedas de 828 mm y el diámetro ajustado de 820 mm en el velocímetro con el que estaba equipado el HDV 814.176-4. La relación entre el diámetro ajustado y el diámetro real de las ruedas fue de 0,99034.
 En el Libro de entrega no constaba ninguna anomalía técnica antes de la aparición del MU. El estado técnico de ŘV y HDV no guardaba relación causal con la aparición de este MU, y sus daños se produjeron como consecuencia de la circulación en derrape debido al bloqueo del bogie tras la aplicación del frenado de acción rápida.
@@ -901,8 +905,8 @@ Tabla n.º 1:
 | 43 | 1380963665 , | 0250 , | 0252 , | 54227= , =0234 , | cambio de kilometraje de la vía 715A a 716B | 08:56:03 |
 | 50 | 1380963848 , | 0183 , | 0185 , | 0419 , | alcanzada la velocidad de 50 km·h-1 y posterior circulación en el rango de 49 – 51 km·h-1 | 08:56:17 |
 
-
 ## Página 24
+
 
 reducción de la velocidad a 49 km·h-1
 1380964,758
@@ -1115,8 +1119,8 @@ inicio de la emisión de la señal sonora «Cuidado»
 aplicación del frenado de acción rápida
 09:14:30
 
-
 ## Página 25
+
 
 | 49 | 1380978361 , | 0014 , | 0014 , | 15073 , | descenso de la presión en la tubería continua a 298 , bar | 09:14:31 |
 | 49 | 1380978375 , | 0014 , | 0014 , | 15087 , | inicio de la reducción de velocidad | 09:14:32 |
@@ -1144,33 +1148,59 @@ desde el km 14,644 hasta el km 14,684 en un transitorio de curva compuesta a la 
 •
 desde el km 14,684 hasta el km 14,788 en tramo recto y con una pendiente del 16,40 ‰;
 
-
 ## Página 26
 
 •
-desde el km 14,788 hasta el km 14,838 en un transitorio de curva a la derecha y con una pendiente del 16,40 ‰;
+del km 14,788 al km 14,838 en el tramo transitorio de una curva a la derecha y en pendiente 
+16,40 ‰;
 •
-desde el km 14,838 hasta el km 15,243, es decir, incluido el lugar de aparición del MU en el km 15,054, en una curva a la derecha de radio de 200 m, con una pendiente del 16,40 ‰ desde el km 14,838 hasta el km 14,996 y desde el km 14,996 hasta el km 15,201 con una pendiente del 14,10 ‰.
-El superestructura de la vía está formada por raíles de perfil S49 (49 E1), traviesas de madera con fijación por abrazaderas de ancho de vía. La velocidad de vía, según la documentación del gestor de la vía, está establecida en 50 km·h-1 desde el km 11,865 hasta el km 21,930, es decir, incluido el lugar de aparición del MU.
-La estación de Březnice está equipada con SZZ de tipo ESA 11 con paneles distribuidos EIP con nivel de control para las estaciones de Čížová, Vráž u Písku, Čimelice y Mirovice. La libertad de los tramos de vía y de agujas la evalúan los puntos de conteo de los contadores de ejes Frauscher AZF. Según TNŽ 34 2620, se trata de un dispositivo de señalización de 3.ª categoría. El SZZ se controla desde el puesto de despacho en la oficina de tráfico de la estación de Březnice.
-El SZZ de 3.ª categoría de tipo ESA 11 en la estación de Březnice tiene el Certificado de idoneidad UTZ vigente, n.º de ev.: PZ 1312/09-E.49, emitido por DÚ el 16 de junio de 2009, con vigencia por tiempo indefinido. Se trata de un dispositivo de señalización eléctrica cuyos circuitos eléctricos cumplen la función de garantía directa de la seguridad del transporte ferroviario. La última inspección y prueba de UTZ se realizó, con base en el Protocolo de inspección técnica y prueba n.º 04/2019 – LP, el 11 de abril de 2019, con la conclusión: «El dispositivo de señalización inspeccionado y reprobado indicado en este protocolo sigue cumpliendo la función de garantía directa de la seguridad del transporte ferroviario y es apto para el servicio.»
-La revisión del equipo eléctrico se realizó, con base en el Informe de revisión periódica del equipo técnico eléctrico designado n.º 017/19-KP, del 28 de abril de 2019 al 7 de mayo de 2019, con la conclusión: «El equipo es apto para el servicio, desde el punto de vista de la seguridad de las personas y los bienes frente a los efectos de la tensión de contacto peligrosa, de acuerdo con el art. 6.1.2 de la ČSN 33 1500 y el § 5 apartado 3 del decreto n.º 100/1995 Sb., en la redacción de las disposiciones posteriores.»
-La última inspección integral del dispositivo de señalización se realizó, con base en el Acta de inspección integral del equipo de telecomunicaciones y de señalización n.º 127/02-1SZT, el 11 de abril de 2019, con la conclusión: «El dispositivo de señalización de estación inspeccionado no presenta anomalías, se encuentra en buen estado de mantenimiento y permite la operación segura del transporte ferroviario.»
-Del análisis del archivo de datos descargado del ordenador tecnológico del SZZ de la estación de Březnice se constató:
+del km 14,838 al km 15,243, es decir, incluido el lugar de origen del MU en el km 15,054, 
+en una curva a la derecha de radio 200 m, en pendiente 16,40 ‰ del km 14,838 al 
+km 14,996 y del km 14,996 al km 15,201 en pendiente 14,10 ‰.
+La superestructura ferroviaria está formada por raíles de perfil S49 (49 E1), traviesas de madera con fijación 
+por abrazaderas de ancho de vía. La velocidad de la línea, según la documentación del gestor de la 
+infraestructura, del km 11,865 al km 21,930, es decir, incluido el lugar de origen del MU, está fijada en 
+el valor de 50 km·h-1.
+La estación de Březnice está equipada con un SZZ tipo ESA 11 con paneles distribuidos EIP con nivel de 
+control para las estaciones de Čížová, Vráž u Písku, Čimelice y Mirovice. La libertad de los tramos de vía y 
+de agujas la evalúan los puntos contadores de los contadores de ejes Frauscher AZF. Según TNŽ 34 2620, 
+se trata de un dispositivo de señalización de la categoría 3. El SZZ se controla desde el puesto de despacho 
+en la oficina de tráfico de la estación de Březnice.
+El SZZ de la categoría 3 tipo ESA 11 en la estación de Březnice tiene el Certificado de idoneidad UTZ 
+válido, n.º de referencia: PZ 1312/09-E.49, emitido por el DÚ el 16. 6. 2009, con vigencia por tiempo 
+indefinido. Se trata de un dispositivo de señalización eléctrica, cuyos circuitos eléctricos cumplen la función 
+de garantizar directamente la seguridad del transporte ferroviario. La última inspección y prueba de UTZ 
+se realizó con base en el Acta de inspección técnica y prueba n.º 04/2019 – LP el 
+11. 4. 2019, con la conclusión: «El dispositivo de señalización inspeccionado y reprobado indicado en 
+este acta sigue cumpliendo la función de garantizar directamente la seguridad del transporte ferroviario y es 
+apto para la explotación.»
+La revisión del equipo eléctrico se realizó con base en el Informe de revisión periódica del equipo 
+técnico eléctrico designado n.º 017/19-KP del 28. 4. 2019 al 
+7. 5. 2019, con la conclusión: «El equipo es apto para la explotación, desde el punto de vista de la seguridad de las personas y de los bienes frente a los efectos de la tensión de contacto peligrosa, según el art. 6.1.2 de la ČSN 33 1500 y el § 5 apartado 3 del decreto n.º 100/1995 Sb., en la redacción de las disposiciones posteriores.»
+La última inspección integral del dispositivo de señalización se realizó con base en el Acta de inspección 
+integral de los dispositivos de comunicación y señalización n.º 127/02-1SZT el 11. 4. 2019, con la 
+conclusión: «El dispositivo de señalización de estación inspeccionado no presenta defectos, se encuentra en 
+buen estado, mantenido, y permite la explotación segura del transporte ferroviario.»
+Del análisis del archivo de datos descargado del ordenador tecnológico del SZZ de la estación de Březnice se 
+constató:
 •
 8:54:27 h –
-formación del tren Sv 98034;
+origen del tren Sv 98034;
 •
 8:55:19 h –
-establecida la ruta de tren desde la señal de salida L2 de la estación de Březnice en dirección a la estación de Bělčice para el tren Sv 98034. En la señal de salida L2 luce la señal que autoriza la circulación del tren;
+establecimiento de la ruta de tren desde la señal de salida L2 de la estación 
+de Březnice en dirección a la estación de Bělčice para el tren Sv 98034. En la señal de salida L2 
+se muestra la señal que autoriza la circulación del tren;
 •
 8:55:53 h –
-ocupación del tramo de vía V16 – V17 por la circulación del tren Sv 98034 al ser afectado el contador de ejes BPB21 en el km 54,325;
+ocupación del tramo de vía V16 – V17 por la circulación del tren Sv 98034 
+con la activación del contador de ejes BPB21 en el km 54,325;
 •
 8:55:55 h –
 cambio de señal en la señal de salida L2 a «Alto»;
 
 ## Página 27
+
 
 •
 8:55:56 h –
@@ -1198,8 +1228,8 @@ La est. Blatná está equipada con un SZZ de tipo ESA 11 con EIP, PMI y LEA (ESA
 El SZZ de 3.ª categoría de tipo ESA 51 de la est. Blatná dispone de un Certificado de idoneidad UTZ válido, n.º de ev.: PZ 0757/21-E.48, expedido por el DÚ el 14 de 12 de 2021, con vigencia por tiempo indefinido. Se trata de un dispositivo de señalización eléctrica cuyos circuitos eléctricos cumplen la función de garantizar directamente la seguridad del transporte ferroviario. La última inspección y prueba UTZ se realizó, con base en el Protocolo de inspección y prueba técnica nº 290/2022/02-RE, el 30 de 11 de 2022, con la conclusión: «El dispositivo técnico designado que fue objeto de la inspección y prueba técnica se ha realizado conforme a la documentación técnica presentada. Con base en los documentos presentados, la inspección y prueba técnica realizadas en el alcance indicado en el presente protocolo, el UTZ antes mencionado cumple la idoneidad técnica y la seguridad. El dispositivo es apto para su puesta en servicio conforme al § 47 de la ley nº 266/1994 Sb. sobre ferrocarriles, en su redacción vigente.»
 La revisión (inicial) del equipo eléctrico se realizó, con base en el Informe de revisión del equipo eléctrico nº 12SZZ-12-2021, del 25 de 11 de 2021 al 1 de 12 de 2021, con la conclusión: «El dispositivo de señalización revisado es, en el alcance de esta revisión, capaz de un funcionamiento seguro
 
-
 ## Página 28
+
 
 y de una idoneidad operativa conforme al § 5 apartado 2 del decreto nº 100/1995 Sb., en su redacción vigente.»
 Del análisis del archivo de datos descargado del sistema local de diagnóstico del dispositivo de señalización del tramo intermedio Bělčice – Blatná se constató:
@@ -1243,8 +1273,8 @@ Nota: la diferencia entre el tiempo registrado y el tiempo real fue de -43 s.
 Del análisis de los datos registrados se desprende que el dispositivo de señalización presentaba, antes de la aparición de la MU y en el momento de su aparición, un funcionamiento normal y que su estado técnico y su modo de operación no guardaban relación causal con la aparición de la MU. La circulación del tren Sv 98034 fue autorizada por el dispositivo de señalización y no se produjo ninguna anomalía. En el área monitorizada no se estableció ninguna etiqueta de advertencia.
 De los registros en el Registro de averías del dispositivo de comunicaciones y señalización SZZ de la est. Blatná, respectivamente del TZZ del tramo intermedio Bělčice – Blatná, se desprende que las inspecciones y el mantenimiento regulares se realizaron en los intervalos prescritos y que el 3 de 10 de 2023 no se registró ninguna avería.
 
-
 ## Página 29
+
 
 Del análisis del archivo de datos descargado del sistema local de diagnóstico del dispositivo de señalización del tramo intermedio Bělčice – Blatná se constató además:
 •
@@ -1276,8 +1306,8 @@ jefe de estación de la est.
 ◦por la mañana, tras el relevo de turno, a las aproximadamente 6:15 h llegaron a la oficina de tráfico 2 vigilantes de vía; uno se dirigió hacia Bělčice y el otro hacia Kasejovice, y les puso el sello y la firma en el libro de servicio;
 ◦alrededor de las 8:00 h circulaba un tren de maniobras que primero realizaba maniobras en la est. Blatná y, en el momento del accidente, según ella, en la est. Radomyšl;
 
-
 ## Página 30
+
 
 ◦a continuación la llamó el despachador regional, probablemente desde České Budějovice, para comunicarle que se trasladaría una locomotora a cambio desde la est. Březnice a la est. Blatná; esto fue en el momento en que se marcharon los vigilantes de vía;
 ◦fue informada de la expedición del tren (nota DI: tren Sv 98034); el despachador operativo registró la ruta y el jefe de estación de la est. Březnice le comunicó mediante el ordenador la salida prevista, a qué hora saldría el tren de la est. Březnice;
@@ -1300,6 +1330,7 @@ jefe de estación de la est.
 ◦en este caso no se realizó ninguna llamada telefónica sobre que se fueran a realizar trabajos en la línea;
 
 ## Página 31
+
 
 ◦el trabajador debería declarar que está haciendo algo allí, debería comunicar en qué tramo trabaja y en qué kilómetro, y determinar también la hora en la que debe ser avisado de la circulación de un tren, para tener tiempo de despejar el lugar en la vía;
 ◦el jefe del grupo de trabajo en ningún caso llamaría a la estación de Březnice, porque esa parte de la vía (nota DI: tramo entre estaciones Bělčice – Blatná) está gestionada desde la estación de Blatná y el jefe de estación transmite esta información al jefe de estación de Březnice, quien avisa al maquinista de los trabajos en curso o de otro peligro en la vía por la que circulará;
@@ -1327,8 +1358,8 @@ DI:
 ◦tras la llegada del tren Os 7904 desde la estación de Beroun, el maquinista le comunicó que necesita cambiar la unidad diésel (vehículo motriz) y necesita ir al depósito de Blatná;
 ◦a continuación esperó la ruta (nota DI: la asignación) del tren de composición al depósito de Blatná;
 
-
 ## Página 32
+
 
 ◦llamó al jefe de estación de la estación de Blatná para darle la información de que circularía la composición al depósito de Blatná;
 ◦tras recibir la ruta asignada a través de la aplicación operativa GTN, anotó en un papel el número del tren y se lo entregó personalmente al maquinista;
@@ -1358,8 +1389,8 @@ PČR:
 a la pregunta de cuándo entró en el empleo, respondió que:
 ◦entró en el empleo el día 2. 10. 2023, ese día fue a la formación, y después el 3. 10. 2023 para la prestación de servicios;
 
-
 ## Página 33
+
 
 ◦tenía pedido el ropa de trabajo en el nuevo empleo, porque se encarga a medida para el trabajador concreto;
 ◦en el vestuario había un compañero con él, que como inspector de vías tiene a su cargo la inspección de los raíles;
@@ -1388,8 +1419,8 @@ a la pregunta de qué tareas de trabajo concretas – actividades se le asignaro
 ◦en el lugar, primero sacaron del coche el aparato para la inspección del ancho de vía;
 ◦el jefe de vías con el trabajador de mantenimiento y reparación de vías marcaron el lugar a reparar según los registros que el jefe superior de vías tenía en un papel;
 
-
 ## Página 34
+
 
 ◦le dijeron que era para evitar que un tren descarrilara;
 ◦midieron y después quisieron reparar; fueron al coche, cogieron los tiradores de vía y un taladro a batería (nota DI: un aprieta-tornillos a batería), pero este era débil;
@@ -1414,8 +1445,8 @@ a la pregunta de aproximadamente cuándo llegaron al paso a nivel ferroviario P1
 ◦ya no recordaba de qué lado era; el jefe de vías con el trabajador de mantenimiento y reparación de vías estaban en medio de la vía;
 ◦era en el lugar del choque; el jefe superior de vías estaba frente a él en el otro lado; él estaba en el lado izquierdo fuera de la vía sobre una traviesa y no sabía dónde lo arrojó el tren; solo se percató de cuando lo extraían;
 
-
 ## Página 35
+
 
 •
 a la pregunta de si, hasta el momento que recordaba, el compañero trabajaba con el aprieta-tornillos, es decir, si en el momento del accidente ferroviario el aprieta-tornillos de motor estaba encendido, respondió que:
@@ -1449,53 +1480,51 @@ mencionado anteriormente):
 ## Página 36
 
 ◦a la pregunta de si firmaba la instrucción de seguridad laboral antes de comenzar el turno, respondió que no lo recordaba;
-◦a la pregunta de si se le había comunicado quién había sido designado jefe de obra en el lugar de las reparaciones previstas en la vía de servicio, respondió que el jefe de obra era el capataz de vías y el capataz principal de vías;
-◦a la pregunta de si estuvo presente la encomienda de trabajo y la designación del jefe de obra por parte del jefe de PS TO Blatná al capataz de vías y al capataz principal de vías, respondió que no;
-•
-maquinista del tren Sv 98034
+◦a la pregunta de si se le había comunicado quién había sido designado como director de los trabajos en el lugar de las reparaciones previstas en la vía principal, respondió que el director de los trabajos era el capataz de vías y el capataz principal de vías;
+◦a la pregunta de si estuvo presente la encomienda de los trabajos y la designación del director de los trabajos por parte del director de PS TO Blatná al capataz de vías y al capataz principal de vías, respondió que no;
+• maquinista del tren Sv 98034
   – Acta con el empleado:
-◦el 3. 10. 2023 se presentó a su turno puntual y descansado, se sentía sano y no sentía estrés;
-◦transportaba el tren desde la est. Beroun hasta la est. Březnice (nota DI: tren Os 7904);
+◦el 3. 10. 2023 se presentó a su turno puntualmente y descansado, se sentía sano y no sentía estrés;
+◦llevaba el tren desde la est. Beroun hasta la est. Březnice (nota DI: tren Os 7904);
 ◦en el vehículo 814.176-3 apareció una avería (fallo en la línea de comunicación del vehículo), y por ello informó de la situación al despachador;
 ◦la avería se logró finalmente eliminar, sin embargo en la est. Březnice la avería volvió a aparecer;
 ◦solicitó el cambio de la locomotora, se acordó con el despachador regional de ČD que la locomotora se trasladaría a la est. Blatná como tren Sv 98034;
-◦durante la marcha del tren (nota DI: tren Sv 98034) seguían apareciendo averías, durante la marcha resolvía una avería técnica en el monitor y mientras tanto vigilaba la vía;
+◦durante la circulación del tren (nota DI: tren Sv 98034) seguían apareciendo averías, durante la circulación resolvía una avería técnica en el monitor y mientras tanto vigilaba la vía;
 ◦al salir de una curva a la derecha vio personas a corta distancia;
-◦inmediatamente aplicó el frenado de emergencia, pero a causa de la corta distancia ya no logró evitar la colisión;
+◦inmediatamente aplicó el frenado de emergencia, pero a la corta distancia ya no logró evitar la colisión;
 ◦el inicio de la curva se encontraba en un terreno arbolado y no había buena visibilidad;
-◦informó inmediatamente según el Esquema de notificación e intentó de inmediato prestar primeros auxilios a las personas;
-◦a la pregunta de si había sido informado de órdenes del jefe de estación de la est. Březnice para la marcha del tren Sv 98034, respondió que no recibió ninguna orden y no sabía que debían circular personas por la vía;
-◦a la pregunta de a qué distancia aproximada había divisado a las personas en la vía, respondió que quizás a 50 m;
-◦a la pregunta de dónde se encontraban las personas, si fuera (izquierda, derecha) o dentro de los carriles de ruedas y a qué distancia entre sí, respondió que entre los carriles de ruedas recordaba solo a una persona y de las restantes personas no estaba seguro;
-◦a la pregunta de si las personas reaccionaron y, en caso afirmativo, de qué manera, ya fuera de forma previa o bien ante la señal sonora «Pozor» (¡Cuidado!) que él daba, respondió que no era consciente de su reacción y tampoco recordaba si llegó a dar la señal «Pozor» o no;
-
+◦informó inmediatamente según el Esquema de Comunicación e intentó de inmediato prestar primeros auxilios a las personas;
+◦a la pregunta de si había sido informado de órdenes para la circulación del tren Sv 98034 por el jefe de estación de la est. Březnice, respondió que no recibió ninguna orden y no sabía que debían circular personas por la vía;
+◦a la pregunta de a qué distancia aproximada vio a las personas en la vía, respondió que quizás a 50 m;
+◦a la pregunta de dónde se encontraban las personas, si fuera (izquierda, derecha) o dentro de los carriles y a qué distancia entre sí, respondió que entre los carriles recordaba solo a una persona y de las restantes personas no estaba seguro;
+◦a la pregunta de si las personas reaccionaron y, en caso afirmativo, de qué manera, ya fuera de forma previa o bien a la señal acústica «¡Atención!» que él daba, respondió que no era consciente de su reacción y tampoco recordaba si llegó a dar la señal «¡Atención!» o no;
 
 ## Página 37
 
 •
-maquinista del tren Sv 98034
-  – Registro oficial de la declaración prestada ante la PČR (además de lo ya indicado anteriormente):
-◦durante la marcha hacia Březnice el tren comenzó a presentar diversas averías, que resolvía con el maquinista jefe y el despachador de explotación en Plzeň, quien decidió que se cambiaría la composición;
+el maquinista del tren Sv 98034
+  – Registro oficial de la declaración prestada ante la Policía (PČR) (además de lo ya indicado más arriba):
+◦durante el trayecto hasta Březnice, el tren comenzó a presentar diversas averías, que resolvió con el maquinista de locomotoras y el despachista de tráfico en Plzeň, quien decidió que se sustituiría la composición;
 ◦no se abrían las puertas, el motor se apagaba automáticamente, a continuación se sumaron altas temperaturas de la caja de cambios, avería del alternador y otras que ya no recordaba;
-◦al llegar a Březnice apagó el motor y tuvo que abrir las puertas a los que bajaban;
-◦el despachador de explotación le llamó para decirle que trasladaría la composición a Blatná y que llegaría el número de tren con el que circularía de Březnice a Blatná;
-◦una vez informado de que el número de tren que tenía en la tableta ya había llegado, el jefe de estación (nota DI: jefe de estación de la est. Březnice) autorizó su marcha con las señales, arrancó y partió;
-◦no fue informado de ninguna anomalía, trabajos ni puestos de trabajo en la vía en servicio en el tramo entre estaciones Bělčice – Blatná;
-◦durante la marcha del tren Sv 98034 desde la est. Březnice la circulación transcurría de forma normal, con la salvedad de que en la pantalla aparecía de vez en cuando alguna avería, por Bělčice la velocidad era de 40 km/h y después de 50 km/h hasta Blatná;
-◦la composición no podía circular a más de 50 km/h, tiene algo como un limitador de velocidad (nota DI: ARR);
-◦circulaba por un terreno arbolado donde hay una señal «Pozor» (nota DI: señal de advertencia con la indicación «Pozor»), donde debería pitarse tres veces entre la señal y el paso a nivel, pero si ve el paso a nivel, solo una vez;
-◦al salir de la curva divisó a personas a unos 50 m aproximadamente, se incorporó, frenó y pitó;
-◦sobre todo recordaba al chico, su chaleco naranja, tenía la impresión de que estaban de pie, tres en el lado del riel izquierdo y uno en el derecho en el sentido de marcha del tren;
-◦no observó que tuvieran allí alguna máquina, se dio cuenta después;
-◦si las personas reaccionaron al tren que llegaba y a la señal sonora «Pozor», no pudo decirlo, fue muy rápido;
-◦si hubiera sido advertido de que en ese tramo se estaban realizando algún tipo de trabajos, habría sido informado por una orden por escrito en la que constaría la posición kilométrica donde se realizan los trabajos y donde podría haber, en su caso, velocidad reducida;
-◦una vez detenido el tren, cogió el teléfono móvil, corrió al lugar de la colisión y de camino llamó al jefe de estación de Blatná y le notificó el accidente;
-◦llamó desde el teléfono móvil porque no sabía si el walkie-talkie del HDV estaba funcionando;
-◦vio allí tendido al chico, en ese momento el motor del HDV se detuvo automáticamente y para que la composición no se soltara automáticamente, ya que estaba en cuesta abajo, corrió a frenarla con ambas frenos de mano;
-◦cogió el botiquín y corrió de vuelta;
-
+◦al llegar a Březnice apagó el motor y tuvo que abrir las puertas a los pasajeros que bajaban;
+◦el despachista de tráfico le llamó para decirle que llevaría la composición a Blatná y que llegaría un número de tren con el que circularía de Březnice a Blatná;
+◦una vez informado de que el número de tren que tenía en la tableta ya había llegado, el jefe de estación (nota DI: jefe de estación de la est. Březnice) autorizó su marcha mediante señales, arrancó y partió;
+◦no fue informado de ninguna anomalía, obra ni puesto de trabajo en la vía en servicio en el tramo entre estaciones Bělčice – Blatná;
+◦durante el trayecto del tren Sv 98034 desde la est. Březnice, la circulación se realizó de forma normal, con la salvedad de que en la pantalla aparecía de vez en cuando alguna avería, la velocidad por Bělčice fue de 40 km/h y después de 50 km/h hasta Blatná;
+◦la composición no podía circular a más de 50 km/h, tiene algo parecido a un control de crucero (nota DI: ARR);
+◦circulaba por una zona con vegetación donde hay la señal «Pozor» (nota DI: señal de advertencia con la indicación «Pozor»), donde debería pit tres veces entre la señal y el paso a nivel, pero si ve el paso a nivel, solo una vez;
+◦una vez salido de la curva, avistó a personas a unos 50 m, se levantó, frenó y pitó;
+◦sobre todo recordaba al chico, su chaleco naranja, tenía la impresión de que estaban de pie, tres en el lado del carril izquierdo y uno en el derecho en el sentido de marcha del tren;
+◦no advirtió que allí tuvieran alguna máquina, se dio cuenta después;
+◦si las personas reaccionaron al tren que llegaba y a la señal sonora «Pozor», no supo decirlo, fue muy rápido;
+◦si hubiera sido avisado de que en ese tramo se estaban realizando alguna obra, habría recibido una orden por escrito en la que se indicaría la posición kilométrica donde se realizan las obras y, en su caso, podría haber velocidad reducida;
+◦una vez detenido el tren, cogió el teléfono móvil, corrió al lugar de la colisión y de camino llamó al jefe de estación de Blatná y le comunicó el accidente;
+◦llamó desde el teléfono móvil porque no sabía si el radioteléfono de la locomotora (HDV) estaba en funcionamiento;
+◦vio allí tendido al chico, en ese momento el motor de la locomotora (HDV) se detuvo automáticamente y, para que la composición no soltara los frenos automáticamente, ya que estaba en cuesta abajo, corrió a frenarla con ambas frenos de mano;
+◦cogió el botiquín y volvió corriendo;
 
 ## Página 38
+
 
 ◦junto con la persona que estaba recogiendo hierba cerca del lugar del suceso, intentaron prestar primeros auxilios a los heridos.
 Resumen de las declaraciones prestadas por el resto de personas, testigos:
@@ -1518,8 +1547,8 @@ a la pregunta de por qué motivo en el documento «Denní hlášenka» (Parte di
 ◦el «Denní hlášenka» lo elaboró el capataz de vías aún antes de salir hacia el puesto de trabajo;
 ◦a causa de su otra actividad tras la instrucción matutina vio el documento mencionado por primera vez solo después del inicio de la investigación de la MU;
 
-
 ## Página 39
+
 
 ◦si en este documento constaban dos personas para la dirección de la cuadrilla de trabajo, esto es habitual, pero enfatizó que el jefe de obra había sido designado personalmente por él, el capataz de vías;
 •
@@ -1546,6 +1575,7 @@ jefe de PS Blatná
 
 ## Página 40
 
+
 ◦se resuelve qué deben llevar consigo, ellos no llevaron ninguna máquina consigo, al menos él no lo sabía;
 ◦a continuación fue a hacer otro trabajo – partió hacia las 7:30 h con el maquinista en una draisina (nota DI: vagón motor universal) en dirección a Nepomuk, suponía que los empleados habían partido antes que ellos;
 ◦los empleados estaban equipados con medios de seguridad, solo el nuevo empleado – trabajador de mantenimiento y reparación de vías – no estaba equipado, tenía su propio calzado de trabajo y pidió al jefe de vía que le equipara con el chaleco reflectante del empleador SŽ;
@@ -1562,8 +1592,8 @@ jefe de PS Blatná
 ◦a la pregunta de cuáles son los procedimientos habituales de comunicación con el jefe de estación a la hora de garantizar la SST, respondió que el responsable de los trabajos llama, pregunta al jefe de estación por el tráfico en la vía y comunica que están en la vía, en este caso debía ser la jefa de estación de Blatná, y el jefe de estación debía avisarles de que por allí pasaría un tren;
 ◦a la pregunta de cómo se realiza habitualmente la garantía de la SST en el puesto de trabajo, incluida la asignación de obligaciones concretas a empleados concretos, respondió que llegan al puesto de trabajo, el responsable de los trabajos ya sea mediante la visión, la patrulla de seguridad o la información del trabajador de tráfico, siempre la garantiza el responsable de los trabajos del lugar concreto, en el tramo concreto de vía;
 
-
 ## Página 41
+
 
 ◦a la pregunta de de qué manera concreta y especialmente correcta debían proceder los empleados implicados el 3 de octubre de 2023, respondió que el responsable de los trabajos debía comunicarlo en cualquier caso al jefe de estación;
 ◦a la pregunta de cuáles son los criterios para señalizar el puesto de trabajo, respondió que mediante la visión, la patrulla de seguridad o la información del jefe de estación. Deberían tener para ello el dispositivo de seguridad «LOWS», que deberían recibir en un plazo razonable;
@@ -1576,8 +1606,8 @@ jefe de PS Blatná
 ◦a la pregunta de cómo explica que en el Libro «Instrucción acreditada de los empleados al inicio de turno» el empleado encargado de la dirección directa de los trabajos desde la 1.ª semana del año 2023 hasta la aparición del suceso excepcional no tuviera marcado un día concreto junto a su firma con el código VP – responsable de los trabajos, respondió que no conoce el motivo, no era su obligación marcarlo, era obligación del responsable de los trabajos. El responsable de los trabajos es siempre el que forma. En el caso del 2 de octubre de 2023, cuando el formador estaba ausente, el responsable de los trabajos era el segundo de los jefes de vía, ambos tenían la misma cualificación;
 ◦a la explicación del término trabajo en instalación y a la pregunta de qué se desprende para el responsable de los trabajos, en materia de SST, de la realización de trabajos en instalación, respondió que son todos los trabajos en la vía, excepto la inspección visual, es medir, apretar elementos de fijación, etc. El 3 de octubre de 2023 debía realizarse una inspección visual, lo cual no es un trabajo en instalación;
 
-
 ## Página 42
+
 
 •
 a la pregunta de cómo está equipado el vehículo de servicio que transporta regularmente a los empleados, respondió que:
@@ -1602,8 +1632,8 @@ referente de administración y economía
 ◦a la pregunta de si se había comunicado a todos (entendiéndose al jefe de vía superior, al jefe de vía y a los dos trabajadores de mantenimiento y reparación de vías) quién había sido designado responsable de los trabajos (responsable de la cuadrilla de trabajo) en el lugar de las reparaciones previstas en la vía de circulación, respondió que no lo sabe;
 ◦a la pregunta de si le era conocido por qué en el «Informe diario» TO Blatná del 3 de octubre de 2023 figuraba un número de empleado incorrecto para el jefe de vía superior,
 
-
 ## Página 43
+
 
 respondió que no le era conocido y que fue un error administrativo del jefe de vía que redactaba el «Informe diario»;
 ◦a la pregunta de si estuvo personalmente presente en la «Instrucción acreditada de los empleados al inicio de turno» que realizaba el jefe de vía, respondió que no estuvo;
@@ -1627,6 +1657,7 @@ referente de administración y economía
 
 ## Página 44
 
+
 ◦a la pregunta de si estuvo presente la mañana del 3. 10. 2023 en la distribución de trabajos y la posterior formación de estos empleados antes de realizar el trabajo, quién realizó la formación y quién era el jefe de este grupo de trabajo, respondió que solo estuvo presente en la asignación de trabajos, con el capataz de vía y el capataz principal de vía. No estuvo presente en la formación, esa ya se la hacen en el vestuario con los demás trabajadores, y cómo transcurrió la formación, no lo sabía. El jefe de trabajos designado ese día fue el capataz de vía;
 ◦a la pregunta de dónde estaba ese día el jefe del PS, respondió que fue con el conductor del vehículo universal motorizado a la línea Blatná – Nepomuk, salieron hacia las siete y media. A qué hora salieron el capataz principal de vía, el capataz de vía y dos trabajadores de mantenimiento y reparación de vía, no lo sabía con exactitud, normalmente salían hacia las siete;
 ◦a la pregunta de si el grupo del capataz principal de vía, el capataz de vía y el trabajador de mantenimiento y reparación de vía trabajaba siempre con esta composición, respondió que no, el grupo se determina cada día de nuevo según quién estaba de trabajo y también según el tipo de trabajo;
@@ -1643,36 +1674,35 @@ vigilante de vía 1
 ◦a continuación llegó el capataz de vía y le formó en materia de seguridad laboral, según el horario sabía que iba a realizar la vigilancia de vía en el tramo Blatná – Bělčice;
 ◦a continuación fue a la oficina de tráfico de la est. Blatná, el jefe de estación le presentó el «Libro de servicio», que le confirmó con un sello en el libro la salida al tramo Blatná – Bělčice;
 
-
 ## Página 45
 
-◦se informó de la situación del tráfico, especialmente de las circulaciones de trenes especiales fuera del horario regular;
-◦el jefe de estación le aseguró que de momento no tenía ninguna información sobre la implantación de circulaciones especiales de trenes;
-◦a continuación se dirigió a pie desde la est. Blatná en dirección a la est. Bělčice;
-◦pasaba por Závišín cuando oyó la alarma del dispositivo de enclavamiento de paso a nivel (nota DI: ŽP P1331);
+◦informó sobre la situación del tráfico, en especial sobre las circulaciones de trenes especiales fuera del horario de circulación regular;
+◦la jefa de estación le aseguró que, por el momento, no tenía ninguna información sobre la puesta en marcha de circulaciones especiales de trenes;
+◦a continuación, se dirigió a realizar su recorrido a pie desde la est. Blatná en dirección a la est. Bělčice;
+◦atravesaba Závišín cuando oyó la alarma del dispositivo de seguridad de paso a nivel (nota DI: ŽP P1331);
 ◦como se encontraba justo en la zona de la parada (nota DI: parada Závišín), salió de la vía en servicio y esperó a que pasara el tren;
-◦como hacía mucho que no pasaba, pensó que los trabajadores de la técnica de enclavamiento estaban probando el funcionamiento del paso a nivel;
-◦pasado un tiempo se dirigió fuera de la vía en dirección a Bělčice;
-◦cuando salió de la curva, tenía delante un tren que se había detenido tras el paso a nivel (nota DI: ŽP P1329) en el sentido de circulación del tren desde Bělčice;
-◦se percató de los miembros del HZS, que ya estaban en el lugar, y cuando se acercó a ellos, le prohibieron continuar caminando;
-◦se enteró de que delante de ellos había personas atropelladas en la vía, y se dio cuenta de que probablemente eran compañeros de la TO Blatná;
-◦a continuación, durante todo el tiempo que estuvo en el lugar, mantuvo conversación con otro de los miembros del HZS, probablemente un psicólogo;
-◦subrayó que la función de vigilante de vía se desempeña como «trabajador aislado» y no tiene a su disposición un teléfono móvil de empresa;
+◦como tardaba mucho en pasar, pensó que los trabajadores de la técnica de seguridad estaban probando el funcionamiento del paso a nivel;
+◦transcurrido un tiempo, se dirigió fuera de la vía en dirección a Bělčice;
+◦al salir de la curva, se encontró con un tren que se había detenido tras el paso a nivel (nota DI: ŽP P1329) en el sentido de circulación del tren desde Bělčice;
+◦se percató de la presencia de miembros del HZS, que ya se encontraban en el lugar, y cuando se acercó a ellos, le prohibieron continuar a pie;
+◦se enteró de que delante de ellos había personas atropelladas en la vía, y comprendió que se trataba probablemente de sus compañeros de la TO Blatná;
+◦a continuación, uno de los demás miembros del HZS, probablemente el psicólogo, mantuvo una conversación con él durante todo el tiempo que permaneció en el lugar;
+◦subrayó que la función de guardabarreras se desempeña como «trabajador aislado» y que no dispone de teléfono móvil profesional;
 •
-a la pregunta de cómo transcurrió la instrucción de seguridad laboral antes de incorporarse al turno y quién la realizó, respondió que:
-◦la instrucción la realizó el capataz de vía y le instruyó sobre la necesidad de obtener información del tráfico sobre las circulaciones especiales de trenes y que debía conocer y saber la hora y el minuto de cuándo y desde qué estación saldría el tren;
-◦cuando tenga esta información, entonces aunque el tren especial tenga retraso, debe permanecer fuera de la vía hasta que pase el tren;
-◦el capataz de vía también le comprobó si estaba equipado con todos los medios de EPI proporcionados destinados al desempeño de su trabajo;
-◦además, tras la instrucción, firmó esto en el documento «Instrucción acreditada»;
-◦la instrucción se realizó en el vestuario, donde, aparte de los dos, y eso lo suponía, no había nadie más;
+a la pregunta de cómo se había realizado la instrucción en materia de seguridad laboral antes de incorporarse al turno y quién la había llevado a cabo, respondió que:
+◦la instrucción la realizó el jefe de vía y le informó de la necesidad de obtener información del tráfico sobre las circulaciones especiales de trenes y de que debía conocer la hora y el minuto exactos en los que y desde qué estación saldría el tren;
+◦cuando disponga de esta información, aunque el tren especial tenga retraso, debe permanecer fuera de la vía hasta que pase el tren;
+◦el jefe de vía también le comprobó si estaba equipado con todos los medios de EPI proporcionados destinados al desempeño de su trabajo;
+◦además, tras la instrucción, la firmó en el documento «Instrucción acreditada»;
+◦la instrucción se realizó en el vestuario, donde, aparte de los dos, y así lo supuso, no había nadie más;
 •
-a la pregunta de si recordaba que en el impreso de la «Instrucción acreditada» ya habían firmado los demás empleados de la TO Blatná, respondió que no;
+a la pregunta de si recordaba que en el impreso de «Instrucción acreditada» ya habían firmado los demás empleados de la TO Blatná, respondió que no;
 •
-vigilante de vía 1
+guardabarreras 1
   – Registro oficial de la declaración prestada ante la PČR (más allá de lo ya indicado anteriormente):
 
-
 ## Página 46
+
 
 ◦está empleado como trabajador de mantenimiento y reparación de vía en la TO Blatná y su contenido de trabajo es la inspección visual de la vía, es decir, que comprueba el apriete de las tuercas, el desgaste de los raíles y la pudrición de las traviesas, además realiza el mantenimiento del corredor de vía, p. ej. el desbroce de matorrales y similares;
 ◦a la pregunta de quién decidió que iba a realizar esa actividad, respondió que la actividad la tiene determinada por la inspección periódica de vías, que se repite una vez cada catorce días, para este tramo corresponde cada dos martes;
@@ -1690,8 +1720,8 @@ vigilante de vía 2
 ◦a la pregunta de qué hacía concretamente y en qué tramo el 3. 10. 2023, respondió que realizaba la patrulla en la vía Kasejovice – Blatná, ese día viajaba en la dresina (nota DI: vehículo universal motorizado) junto con el jefe del PS y el maquinista. Qué hacían los otros dos, no lo recordaba, a él le dejaron en Kasejovice, desde donde realizaba la patrulla solo por la vía;
 ◦a la pregunta de si le era conocido qué actividad laboral concreta debían realizar los trabajadores gravemente y mortalmente heridos el 3. 10. 2023, respondió que no;
 
-
 ## Página 47
+
 
 ◦a la pregunta de si durante la formación realizada se designó a alguna de las personas mencionadas como responsable de los trabajos (capataz principal de vía y capataz de vía), respondió que de cierta manera ambos eran sus superiores, pero el 3. 10. 2023 el capataz de vía le dijo que iba a ir a la patrulla, es decir, le dijo qué tramo de vía iba a recorrer, él se preparó para ello y se puso en camino;
 ◦a la pregunta de cuándo y de qué manera se enteró del accidente ferroviario (MU) del 3. 10. 2023, respondió que se enteró por parte del jefe del PS, que volvían en la dresina inmediatamente y en el camino lo recogieron;
@@ -1714,6 +1744,7 @@ testigo
 
 ## Página 48
 
+
 ◦a su regreso al prado, del otro lado del paso a nivel, había una furgoneta de la que salían obreros con monos naranjas hacia la vía;
 ◦eran cuatro y se dirigían hacia Bělčice; no conocía a ninguno de ellos ni se saludó con ellos;
 ◦un hombre llevaba consigo un apretador y un aflojador de tuercas a motor, era del tamaño de una motosierra, solo que tenía otra punta para tornillos;
@@ -1735,8 +1766,8 @@ testigo
 ◦a la pregunta de en qué punto oyó circular y pitar al tren, respondió que oyó circular el tren ya desde la localidad de Bělčice y también oyó la pitada, y eso que aún no se veía el tren; lo oyó delante del bosque, desde donde después salió y atropelló a los hombres en la vía;
 ◦a la pregunta de cuál fue la reacción del maquinista en el lugar tras detener el tren, respondió que de inmediato llamó por teléfono a los servicios de emergencia y se fue a ayudar a los heridos; se veía que estaba en estado de shock;
 
-
 ## Página 49
+
 
 ◦a la pregunta de si sabía que al lugar del accidente debía acudir un empleado que realizaba actividades de patrulla en la vía, respondió que sí; habló con él tras la intervención de los servicios de emergencia;
 ◦a la pregunta de si podía pronunciarse sobre la velocidad del tren y si el tren frenaba, respondió que el tren circulaba a una velocidad menor de la que suelen circular los trenes en ese punto, y si frenaba no lo recordaba; se concentró en las personas atropelladas;
@@ -1758,105 +1789,148 @@ Transcripción de la comunicación jefe de estación est. Blatná – jefe de es
 El maquinista del tren Sv 98034 el día 3. 10. 2023 a las 9:18 h, según la extracción de llamadas del teléfono móvil profesional, comunicó la aparición de una UE al jefe de estación de la est. Blatná. Según el Reglamento de explotación de la est. Blatná, se trata de un circuito telefónico de abonados con grabación. Debido a la avería del tono de llamada de esta línea telefónica (módulo AUT defectuoso en el conmutador telefónico Inoma MIKRO), servía como elemento de tono de llamada sustitutivo un aparato telefónico externo, cuya grabación de la llamada estaba condicionada por la pulsación del botón por parte de los jefes de estación tras una nueva llamada. Dado que el maquinista del tren Sv 98034 comunicó un choque con una persona con lesiones, el jefe de estación no le exigió una llamada repetida. Por este motivo, la llamada no fue registrada en el dispositivo de grabación ReDat; sin embargo, el jefe de estación de la est. Blatná, de conformidad con los procedimientos tecnológicos, anotó la llamada telefónica en el Libro de anotaciones telefónicas el día 3. 10. 2023 con el número 1.
 El explotador de la vía SŽ, en su declaración, indicó que el día 2. 2. 2024 se había sustituido el módulo AUT en el conmutador telefónico.
 
-
 ## Página 50
 
 ### 3.2 Descripción fáctica del suceso
-### 3.2.1 Secuencia de hechos que condujeron a la excepcionalidad
-El maquinista del tren Sv 98034 incorporó su turno el día 3. 10. 2023 en la est. Blatná, primero con el tren Os 7903 con salida regular de la est. Blatná a las 5:10 h en dirección a la est. Beroun, donde tenía que hacer transbordo al tren Os 7904 Beroun – Březnice. Según los datos registrados por el registrador de velocidad, el tren Os 7904 llegó a la est. Březnice a las 8:31 h con 18 minutos de retraso, donde finalizaba su circulación. A continuación debía continuar, con el cumplimiento del servicio, en el tren Os 7909 con salida regular de la est. Březnice a las 9:43 h en dirección a la est. Beroun. Debido a las averías surgidas en el material rodante durante la circulación del tren Os 7904 hacia la est. Březnice, que el maquinista, según su declaración, resolvió con el jefe de taller y el despachador de explotación de ČD, el despachador de explotación decidió a continuación que el maquinista trasladara la composición a la est. Blatná, donde debía ser sustituida.
-El transportista solicitó por ello al explotador de la vía la asignación ad hoc de capacidad de vía y de trayecto de tren. Según la documentación del explotador de la vía, el día 3. 10. 2023 a las 8:48:42 h se realizó la selección de la propuesta de trayecto y a continuación a las 8:48:50 h se asignó al transportista la capacidad de vía incluida la construcción del TJŘ (horario de trenes tabular). Asimismo, esta información se envió a los sistemas ISOŘ y COMPOST. A continuación, el maquinista envió los datos de información sobre la «Composición del tren» al sistema COMPOST, el mensaje «Análisis del tren» se envió al sistema ISOŘ a las 8:51 h y a las 8:55 h el maquinista confirmó la preparación del tren Sv 98034 junto con sus datos como contacto del maquinista conductor del vehículo de tracción.
-El trabajador de mantenimiento y reparación de vías (en formación), según su declaración, se incorporó al trabajo el día 3. 10. 2023 por la mañana antes de las 6:00 h en Blatná. Tras probarse la ropa de trabajo, comunicó las tallas necesarias al responsable de administración y economía. El jefe superior de vías, el jefe de vías y el trabajador de mantenimiento y reparación de vías cargaban en la furgoneta cosas de trabajo (material) y él les ayudaba. Por la mañana, durante su presentación, se enteró de que el jefe superior de vías y el jefe de vías eran los responsables de la cuadrilla, y se le dijo que iban a ir a ver el lugar donde iban a trabajar; querían mostrarle cómo y qué se iba a realizar.
-Sobre la realización de los trabajos el día 3. 10. 2023 en el tramo entre estaciones Bělčice – Blatná decidió, según su declaración, el responsable de PS. Los empleados debían localizar las anomalías del extracto de circulación del tren de medición y proponer soluciones para su eliminación, es decir, en qué tramo se iba a reparar la separación de la vía girando las abrazaderas, o en su caso sustituir las traviesas; debía ser una inspección visual de la vía sin otra ejecución física para la eliminación de anomalías.
-De la declaración del trabajador de mantenimiento y reparación de vías (en formación) se desprende además:
+### 3.2.1 Secuencia de hechos que condujeron al suceso extraordinario
+El maquinista del tren Sv 98034 incorporó su turno el día 3. 10. 2023 en la est. Blatná, primero
+para el tren Os 7903 con salida regular de la est. Blatná a las 5:10 h con destino a la est.
+Beroun, donde debía hacer transbordo al tren Os 7904 Beroun – Březnice. Según los datos
+registrados por el registrador de velocidad, el tren Os 7904 llegó a las 8:31 h con 18 minutos
+de retraso a la est. Březnice, donde finalizaba su circulación. A continuación debía continuar,
+con el cumplimiento del servicio, en el tren Os 7909 con salida regular de la est. Březnice
+a las 9:43 h con destino a la est. Beroun. Debido a averías surgidas en el HDV durante la
+circulación del tren Os 7904 hasta la est. Březnice, que el maquinista, según su declaración,
+resolvió con el jefe de locomotoras y el despachador operativo de ČD, el despachador
+operativo decidió a continuación que el maquinista trasladara la composición hasta la est.
+Blatná, donde debía ser sustituida.
+El transportista solicitó por ello al gestor de la infraestructura ferroviaria la asignación ad hoc
+de capacidad de vía y de trayecto de tren. Según la documentación del gestor de la
+infraestructura ferroviaria, el día 3. 10. 2023 a las 8:48:42 h se realizó la selección de la
+propuesta de trayecto y, posteriormente, a las 8:48:50 h se asignó al transportista la capacidad
+de vía, incluida la construcción de la TJŘ (tabla horaria). Asimismo, esta información fue
+enviada al sistema ISOŘ y al COMPOST. Posteriormente, el maquinista envió los datos de
+«Composición del tren» al sistema COMPOST, el mensaje «Análisis del tren» fue enviado al
+sistema ISOŘ a las 8:51 h y a las 8:55 h el maquinista confirmó la preparación del tren Sv 98034,
+incluidos sus datos como contacto del maquinista responsable de la locomotora motriz.
+El trabajador de mantenimiento y reparación de vías (en formación), según su declaración,
+se incorporó al trabajo en Blatná la mañana del 3. 10. 2023 antes de las 6:00 h. Tras
+probarse la ropa de trabajo, comunicó las tallas necesarias a la responsable administrativa.
+El jefe superior de vías, el jefe de vías y el trabajador de mantenimiento y reparación de vías
+cargaban en la furgoneta los útiles de trabajo (material) y él les ayudaba. Por la mañana,
+durante su presentación, se enteró de que el jefe superior de vías y el jefe de vías eran los
+responsables de cuadrilla, y le dijeron que iban a ir a ver el lugar donde trabajarían, querían
+mostrarle cómo y qué se iba a realizar.
+Sobre la realización de los trabajos el día 3. 10. 2023 en el tramo intermedio Bělčice – Blatná
+decidió, según su declaración, el responsable de PS. Los empleados debían localizar las
+averías a partir del extracto de circulación del tren de medición y proponer soluciones para
+su eliminación, es decir, en qué tramo se podría reparar la separación de vías girando los
+abrazaderas, o en su caso sustituir las traviesas; debía tratarse de una inspección visual de la
+vía sin ninguna intervención física adicional para eliminar las averías.
+De la declaración del trabajador de mantenimiento y reparación de vías (en formación) se
+desprende además que:
 •
-partieron sobre las siete en el vehículo de servicio; conducía el jefe de vías; el acompañante delantero era el jefe superior de vías; él iba detrás junto con el trabajador de mantenimiento y reparación de vías;
+salieron alrededor de las siete en el vehículo de servicio, conducido por el jefe de vías,
+el acompañante en el asiento delantero era el jefe superior de vías, y él iba en el asiento
+trasero junto con el trabajador de mantenimiento y reparación de vías;
 •
-iban a Bělčice a comprar algo para comer y llegaron al paso a nivel ferroviario P1329 sobre las siete y media;
+se dirigieron a Bělčice a comprar algo para comer y llegaron al paso a nivel P1329
+alrededor de las siete y media;
 •
-justo en ese momento pasó un tren y el jefe superior de vías o el jefe de vías dijo que tenían 3 horas antes de que circulara el tren de vuelta;
+justo en ese momento pasó un tren y el jefe superior de vías o el jefe de vías dijo que
+tenían 3 horas antes de que circulara el tren de vuelta;
 •
-los cuatro fueron desde el ŽP P1329 en dirección al bosque y en el camino de vuelta inspeccionaban la vía;
+los cuatro se dirigieron desde el PN P1329 hacia el bosque y en el camino de vuelta
+inspeccionaron la vía;
 •
-el jefe superior de vías llevaba consigo la lista de anomalías del tren de medición y el jefe de vías con el trabajador de mantenimiento y reparación de vías medían con la rozchodka;
+el jefe superior de vías llevaba consigo la lista de averías del tren de medición y el jefe
+de vías, junto con el trabajador de mantenimiento y reparación de vías, medían con el
+medidor de ancho de vía;
 •
-los lugares donde había una separación no conforme o tornillos flojos, los marcaron con una señal de tiza en la traviesa;
+los lugares donde la separación de vías era incorrecta o los tornillos estaban flojos,
+los marcaron con una señal de tiza en la traviesa;
 •
-a continuación volvieron al vehículo de servicio y se llevaron la barra de apriete y el taladro a baterías;
-
+después volvieron al vehículo de servicio y se llevaron la barra de apriete y el taladro
+con batería;
 
 ## Página 51
 
 •
-como el taladro a baterías era débil, el jefe de vías se fue con el trabajador de mantenimiento y reparación de vías a Blatná a por el apretador a motor.
-La declaración del trabajador de mantenimiento y reparación de vías la confirma el registro GPS instalado en el vehículo de servicio, con el que se realizó la circulación de los empleados implicados.
+dado que la atornilladora a batería era débil, el jefe de vía se fue con el trabajador de mantenimiento y reparación de vías a Blatná en el coche de servicio para buscar un atornillador a motor.
+
+La declaración del trabajador de mantenimiento y reparación de vías la confirma el registro GPS instalado en el coche de servicio con el que se realizó el desplazamiento de los empleados implicados.
 Del registro GPS se desprende:
 •
-6:56:31 h – salida del vehículo de servicio de la localidad de Blatná, ul. Riegrova, en dirección a la localidad de Bělčice por la carretera n.º 173 y posteriormente la n.º 174;
+6:56:31 h – salida del coche de servicio de la localidad de Blatná, calle Riegrova, en dirección a la localidad de Bělčice por la carretera nº 173 y posteriormente la nº 174;
 •
-7:15:16 h – llegada del vehículo de servicio a la localidad de Bělčice en nám. J. Kučery;
+7:15:16 h – llegada del coche de servicio a la localidad de Bělčice, plaza J. Kučery;
 •
-7:18:59 h – salida del vehículo de servicio de nám. J. Kučery en la localidad de Bělčice de vuelta por la carretera n.º 174;
+7:18:59 h – salida del coche de servicio de la plaza J. Kučery de la localidad de Bělčice de vuelta por la carretera nº 174;
 •
-7:20:24 h – desvío del vehículo de servicio de la carretera n.º 174 a la carretera que conduce a la localidad de Závišín;
+7:20:24 h – desvío del coche de servicio de la carretera nº 174 a la carretera que conduce a la localidad de Závišín;
 •
-7:25:52 h – llegada del vehículo de servicio al ŽP P1329 (véase la fig. n.º 7);
+7:25:52 h – llegada del coche de servicio al PdV P1329 (véase fig. nº 7);
 •
-8:41:13 h – salida del vehículo de servicio del ŽP P1329;
+8:41:13 h – salida del coche de servicio del PdV P1329;
 •
-8:43:28 h – desvío del vehículo de servicio a la carretera n.º 174 y posterior circulación por la carretera n.º 174 y la n.º 173 hasta la localidad de Blatná, Riegrova ul.;
+8:43:28 h – desvío del coche de servicio a la carretera nº 174 y posterior circulación por la carretera nº 174 y la nº 173 hasta la localidad de Blatná, calle Riegrova;
 •
-8:49:40 h – el vehículo de servicio se encuentra en la localidad de Blatná, ul. Riegrova, junto al edificio de la sede del TO Blatná (véase la fig. n.º 8);
+8:49:40 h – el coche de servicio se encuentra en la localidad de Blatná, calle Riegrova, junto al edificio de la sede de la OT Blatná (véase fig. nº 8);
 •
-8:56:01 h – salida del vehículo de servicio de la localidad de Blatná, ul. Riegrova, por la carretera n.º 173 y posteriormente la n.º 174 hacia el ŽP P1329;
+8:56:01 h – salida del coche de servicio de la localidad de Blatná, calle Riegrova, por la carretera nº 173 y posteriormente la nº 174 hasta el PdV P1329;
 •
-9:04:51 h – llegada del vehículo de servicio al ŽP P1329 (véase la fig. n.º 9).
-El hecho de que el jefe de vías se fuera en el vehículo de servicio de vuelta a Blatná lo confirma tanto la conexión de datos de su teléfono móvil profesional a internet KONET (apellido del responsable de PS) el día 3. 10. 2023 a la hora 8:50:31 h con localización de la posición, concretamente la sede del TO Blatná, como el responsable de administración y economía en su declaración.
-De los datos registrados de la SZZ ESA 11 de la est. Březnice y de la SZZ ESA 51 de la est. Blatná se desprende que a las 8:55:19 h el jefe de estación de la est. Březnice estableció la ruta de tren para el tren Sv 98034 desde la señal de salida L2 en dirección a la est. Bělčice y a continuación a las 8:55:30 h el jefe de estación de la est. Blatná estableció la ruta de tren para el tren Sv 98034 desde la señal de entrada L de la est. Bělčice y además desde la señal de salida L1 de la est. Bělčice en dirección a la est. Blatná. Asimismo, de los datos registrados del registrador de velocidad electrónico del HDV 814.176-4 se desprende que a las 8:55:23 h partió el tren Sv 98034 del andén junto a la 2.ª vía de la est. Březnice, a las 8:55:55 h pasó la señal de salida L2 de la est. Březnice y a las 8:56:24 h entró el tren Sv 98034 en el tramo entre estaciones Březnice – Bělčice. A continuación, a las 9:09:34 h pasó el tren Sv 98034 la señal de entrada L de la est. Bělčice, a las 9:10:34 h pasó la señal de salida L1 de la est. Bělčice y a las 9:11:21 h entró el tren Sv 98034 en el tramo entre estaciones Bělčice – Blatná.
-Tras la llegada a las 9:04:51 h, según el registro GPS, del jefe de vías y del trabajador de mantenimiento y reparación de vías en el vehículo de servicio de vuelta al ŽP P1329, según la declaración del trabajador de mantenimiento y reparación de vías (en formación), trajeron el apretador a motor y lo llevaron al lugar que comenzaba en el borde del bosque.
+9:04:51 h – llegada del coche de servicio al PdV P1329 (véase fig. nº 9).
+
+El hecho de que el jefe de vía se fuera en el coche de servicio de vuelta a Blatná lo confirma tanto la conexión de datos de su teléfono móvil de servicio a internet KONET (apellido del jefe de la PS) el 3 de octubre de 2023 a las 8:50:31 h, incluida la localización de la posición, concretamente la sede de la OT Blatná, como la responsable de administración y economía en su declaración.
+
+De los datos registrados del SZZ ESA 11 de la estación de Březnice y del SZZ ESA 51 de la estación de Blatná se desprende que a las 8:55:19 h el jefe de estación de Březnice estableció la ruta de tren para el tren Sv 98034 desde la señal de salida L2 en dirección a la estación de Bělčice y posteriormente a las 8:55:30 h la jefa de estación de Blatná estableció la ruta de tren para el tren Sv 98034 desde la señal de entrada L de la estación de Bělčice y a continuación desde la señal de salida L1 de la estación de Bělčice en dirección a la estación de Blatná. Asimismo, de los datos registrados del registrador electrónico de velocidad del HDV 814.176-4 también se desprende que a las 8:55:23 h el tren Sv 98034 partió del andén junto a la 2ª vía de la estación de Březnice, a las 8:55:55 h pasó la señal de salida L2 de la estación de Březnice y a las 8:56:24 h el tren Sv 98034 entró en el tramo entre estaciones Březnice – Bělčice. Posteriormente, a las 9:09:34 h el tren Sv 98034 pasó la señal de entrada L de la estación de Bělčice, a las 9:10:34 h pasó la señal de salida L1 de la estación de Bělčice y a las 9:11:21 h el tren Sv 98034 entró en el tramo entre estaciones Bělčice – Blatná.
+
+Tras llegar, a las 9:04:51 h, según el registro GPS, el jefe de vía y el trabajador de mantenimiento y reparación de vías en el coche de servicio de vuelta al PdV P1329, según la declaración del trabajador de mantenimiento y reparación de vías (en formación), trajeron el atornillador a motor y lo llevaron al lugar, que empezaba en el borde del bosque.
 
 ## Página 52
 
-Apretó varios tornillos y después intentó apretar él mismo un tornillo. El apretador mecánico era ruidoso, el jefe de vía y el trabajador de mantenimiento y reparación de vía estaban de pie en medio de la vía, él estaba de pie fuera de la vía sobre una traviesa y el jefe superior de vía estaba frente a él. El tren no lo vio ni lo oyó. El lugar del choque se situaba en un terreno accidentado en el borde del bosque, en el sentido de circulación del tren Sv 98034 en un arco de la derecha de radio 200 m. El maquinista del tren Sv 98034 tuvo la primera visión ininterrumpida de los empleados situados en la vía de servicio en explotación a una distancia de aprox. 85 m, la visibilidad en el momento de producirse el MU no estaba reducida por influencias meteorológicas. Del análisis de los datos registrados por el velocímetro electrónico del tren Sv 98034, así como de la declaración del maquinista, se deduce que, al avistar a los empleados en la vía de servicio, reaccionó a este hecho utilizando la bocina de la locomotora para advertirles y, a continuación, aplicando el frenado de acción rápida. Dadas las circunstancias, adoptó todas las medidas posibles para evitar, respectivamente reducir, las consecuencias del choque.
-Sin embargo, debido a la corta distancia y a la velocidad del tren Sv 98034, el maquinista no logró impedir el choque con los empleados. Como consecuencia de la producción del MU se produjeron dos lesiones graves y dos lesiones con resultado de muerte.
-### 3.2.2 Secuencia de hechos desde la producción del suceso extraordinario hasta la finalización de las acciones de los servicios de emergencia
+Apretó varios tornillos y a continuación intentó apretar él mismo un tornillo. El apretador mecánico era ruidoso, el jefe de vía y el trabajador de mantenimiento y reparación de vías estaban de pie en medio de la vía, él estaba de pie fuera de la vía sobre una traviesa y el jefe superior de vía estaba frente a él. El tren no lo vio ni lo oyó.
+El lugar de la colisión se situaba en un terreno accidentado en el borde del bosque, en el sentido de circulación del tren Sv 98034 en un arco de la derecha de radio 200 m. El maquinista del tren Sv 98034 tuvo la primera visión ininterrumpida de los empleados situados en la vía de servicio en circulación a una distancia de aprox. 85 m, la visibilidad en el momento del suceso no estaba reducida por influencias meteorológicas. Del análisis de los datos registrados por el velocímetro electrónico del tren Sv 98034, así como de la declaración del maquinista, se deduce que, al avistar a los empleados en la vía de servicio, reaccionó a este hecho utilizando la bocina de la locomotora para advertirles y, a continuación, aplicando el frenado de acción rápida. Dadas las circunstancias, adoptó todas las medidas posibles para evitar, respectivamente reducir, las consecuencias de la colisión.
+Sin embargo, debido a la corta distancia y a la velocidad del tren Sv 98034, el maquinista no logró evitar la colisión con los empleados. Como consecuencia de la producción del suceso (MU) se produjeron dos lesiones graves y dos lesiones con resultado de muerte.
+### 3.2.2 Secuencia de hechos desde la producción del suceso hasta la finalización de las acciones de los servicios de emergencia
 •
 9:14 h
-producción del MU;
+producción del suceso (MU);
 •
 9:18 h
-comunicación de la producción del MU por el maquinista del tren Sv 98034 al jefe de estación de la est. Blatná;
+comunicación de la producción del suceso (MU) por el maquinista del tren Sv 98034 al jefe de estación de la est. Blatná;
 •
 9:20 h
-comunicación de la producción del MU por el jefe de estación de la est. Blatná al IZS;
+comunicación de la producción del suceso (MU) por el jefe de estación de la est. Blatná al IZS;
 •
 9:21 h
-comunicación de la producción del MU por el jefe de estación de la est. Blatná al jefe de despachador del CDP Praga – OŘP para el área de Praga;
+comunicación de la producción del suceso (MU) por el jefe de estación de la est. Blatná al jefe de despachador del CDP Praga – OŘP para el área de Praga;
 •
 9:28 h
-comunicación de la producción del MU por el jefe de despachador del CDP Praga – OŘP para el área de Praga al O18 SŽ;
+comunicación de la producción del suceso (MU) por el jefe de despachador del CDP Praga – OŘP para el área de Praga al O18 SŽ;
 •
 9:37 h
-notificación de la producción del MU por la persona autorizada del O18 SŽ al COP DI;
+notificación de la producción del suceso (MU) por la persona autorizada del O18 SŽ al COP DI;
 •
 9:39 h
 concesión del permiso para la liberación de la vía por el inspector del COP DI sobre la base de los hechos inicialmente notificados (atropello y muerte de una persona civil);
 •
 9:46 h
-la persona autorizada del O18 SŽ precisó y completó en el COP DI la notificación del MU con el hecho de que se trataba de empleados de SŽ (guardavías) y de que se había producido una lesión con resultado de muerte de 2 personas;
+la persona autorizada del O18 SŽ precisó y completó en el COP DI la notificación del suceso (MU) con el hecho de que se trataba de empleados de SŽ (encargado de recorrido) y de que se había producido una lesión con resultado de muerte de 2 personas;
 •
 9:47 h
-retirada del permiso para la liberación de la vía por el inspector del COP DI sobre la base del cambio de tipo de MU y del alcance de las consecuencias del MU;
+retirada del permiso para la liberación de la vía por el inspector del COP DI sobre la base del cambio de tipo de suceso (MU) y del alcance de las consecuencias del suceso (MU);
 •
-11:10 h inicio de la inspección del lugar de producción del MU por los empleados de DI;
+11:10 h inicio de la inspección del lugar de producción del suceso (MU) por los empleados de DI;
 •
 13:55 h concesión del permiso para la liberación de la vía por el inspector de DI presente;
 •
-15:10 h reanudación de la explotación.
-El Plan IZS fue activado en función del carácter del MU. El Plan IZS fue activado a las 9:20 h, es decir, 6 minutos después de la producción del MU, por el jefe de estación de la est. Blatná.
-En el lugar del MU intervinieron los siguientes componentes del IZS:
-
+15:10 h restablecimiento de la circulación.
+El plan IZS fue activado en función de la naturaleza del suceso (MU). El plan IZS fue activado a las 9:20 h, es decir, 6 minutos después de la producción del suceso (MU), por el jefe de estación de la est. Blatná.
+En el lugar del suceso (MU) intervinieron los siguientes componentes del IZS:
 
 ## Página 53
+
 
 •
 PČR, Jefatura de Policía de la Región de Bohemia Meridional, Departamento Territorial de Strakonice, Sección de Criminalidad General de Strakonice;
@@ -1890,8 +1964,8 @@ garantía de la seguridad de las personas en el puesto de trabajo;
 •
 notificación de la finalización del trabajo en instalaciones.
 
-
 ## Página 54
+
 
 El trabajo en instalaciones en una vía de circulación explotada no excluida y su aseguramiento deben realizarse estrictamente en el sentido de las disposiciones individuales de la norma interna SŽ Bp1. En caso de no cumplimiento del procedimiento establecido, no debe iniciarse el trabajo en instalaciones o el trabajo en instalaciones ya iniciado debe finalizarse de inmediato.
 La condición básica de todo trabajo en instalaciones es la obligación de concertar las condiciones de trabajo en instalaciones entre el responsable de los trabajos y el empleado ferroviario. Este acto contiene:
@@ -1914,8 +1988,8 @@ De acuerdo con el art. 42 de la SŘ de la est. Blatná, la etiqueta de seguridad
 En los casos de solicitud de trabajo en instalaciones por el responsable de los trabajos del grupo de trabajo en el ámbito de una estación con desvío de vías, donde está físicamente presente un empleado ferroviario, la concertación de las condiciones de trabajo en instalaciones se realiza normalmente de forma personal. En los demás casos, la concertación de las condiciones de trabajo en instalaciones puede realizarse también mediante un equipo de telecomunicaciones.
 Si el puesto de trabajo está en plena vía, es necesario concertar las condiciones de trabajo en instalaciones con los empleados ferroviarios (jefes de estación) de ambas estaciones contiguas (en el caso de estaciones que no estén dotadas de empleado ferroviario, con el empleado ferroviario que en dicha estación sea responsable de la organización o dirección del transporte ferroviario).
 
-
 ## Página 55
+
 
 El tiempo necesario para despejar el puesto de trabajo debe establecerse de modo que tenga en cuenta no solo el abandono del puesto de trabajo por las personas, respectivamente su ocupación de un lugar seguro en relación con la circulación del vehículo, sino también el despeje del puesto de trabajo de las herramientas, máquinas y demás útiles de trabajo que pudieran haber, y la garantía de la circulación segura del vehículo a través del puesto de trabajo.
 En cada concertación de trabajo en instalaciones debe establecirse claramente también el modo de garantía de la seguridad del puesto de trabajo.
@@ -1937,6 +2011,7 @@ En el caso de que la concertación de las condiciones para el trabajo en instala
 Por la garantía de la seguridad de las personas, es decir, de los miembros del grupo de trabajo, en el puesto de trabajo, de acuerdo con el art. 13 apartado (3) de la norma interna SŽ Bp1, responde siempre el responsable de los trabajos, quien está, entre otros, obligado a: conocer las circunstancias en el puesto de trabajo y en sus alrededores, emitir la orden de inicio del trabajo, en caso de acercamiento de un vehículo al puesto de trabajo garantizar que las personas adopten una posición en la que no se vea amenazada su seguridad, todos los equipos, útiles de trabajo, máquinas, herramientas y demás material deben estar colocados durante la circulación de DV de manera que no interfieran en la sección de paso, garantizar la verificación de la funcionalidad de la conexión de radio, garantizar la determinación de un lugar seguro al que deban desplazarse los empleados implicados en plena vía antes de la aproximación de los DV, garantizar la anotación de las circunstancias importantes que garantizan la seguridad de las personas en el libro de servicio o en otro documento, garantizar en caso de necesidad la información previa a
 
 ## Página 56
+
 
 al inicio del trabajo en el dispositivo o incluso durante el mismo, sobre la situación de tráfico actual, y señalar el puesto de trabajo en la vía abierta con señales de advertencia según la normativa interna SŽ D1, si el puesto de trabajo no está cubierto por un poste de advertencia de vigencia limitada para puestos de trabajo.
 Según el art. 13 apartado (7) de la normativa interna SŽ Bp1, no se colocan señales de advertencia cuando se trata de un grupo integrado de un máximo de cinco empleados (incluido el responsable de los trabajos) y dicho grupo de trabajo se desplaza de forma continuada durante la jornada laboral. Además, deben cumplirse las siguientes condiciones:
@@ -1983,8 +2058,8 @@ El 3. 10. 2023, el grupo de trabajo, compuesto por el jefe superior de vía, el 
 "diagnosticar las averías, localizarlas y proponer una solución, debía ser una inspección visual de la vía, ..." (véase Registro oficial de la declaración prestada ante la PČR).
 Sin embargo, en el "Parte diario" redactado por el jefe de vía la mañana del 3. 10. 2023 antes de salir hacia el puesto de trabajo, como descripción de la labor ejecutada según las actividades y su desarrollo en ambos trabajadores de mantenimiento y reparación de vías, se indicó "apretado individual de los elementos de fijación de las estructuras de vía", y para el jefe superior de vía y el jefe de vía "dirección del equipo de trabajo".
 
-
 ## Página 57
+
 
 Según la declaración del jefe del PS, en el "Parte diario" del 3. 10. 2023 se indicó "apretado individual de los elementos de fijación de las estructuras de vía" debido a que en el parte no puede escribirse individualmente la inspección visual, y en el lugar el responsable de los trabajos podía entonces decidir la solución de reparación.
 En el documento del operador de la vía SŽ "Recopilación de trabajos y labores 2023 – Gestión de vías" se definen las distintas partidas, concretamente:
@@ -2009,8 +2084,8 @@ el procedimiento para garantizar la seguridad en esta actividad puede desarrolla
 •
 en lugar de acordar las condiciones de trabajo en el dispositivo, el responsable de los trabajos realizará únicamente una notificación de la actividad que se está realizando (lugar, tipo de trabajo – actividad de inspección y posibilidad de comunicación en su caso) al empleado de tráfico,
 
-
 ## Página 58
+
 
 •
 el responsable de los trabajos establecerá en el puesto de trabajo el modo de protección del puesto de trabajo – patrulla de seguridad o garantía de la seguridad de las personas mediante información del responsable de los trabajos – que resulte más seguro y más conveniente según el carácter del trabajo, la ubicación del puesto de trabajo y el número del grupo de trabajo,
@@ -2023,8 +2098,8 @@ Inmediatamente después de la ocurrencia del MU, los inspectores de la DI, en co
 Fig. n.º 3: Visibilidad desde una distancia de 104 m
           Fuente: DI
 
-
 ## Página 59
+
 
 Fig. n.º 4: Visibilidad desde una distancia de 99 m
           Fuente: DI
@@ -2032,8 +2107,8 @@ Fig. n.º 5: Visibilidad desde una distancia de 90 m
           Fuente: DI
 La primera vista despejada la tuvo el maquinista desde una distancia de unos 85 m (véase fig. n.º 6), momento en el que pudo ver sin duda a los empleados situados en la vía de circulación.
 
-
 ## Página 60
+
 
 Fig. n.º 6: Visibilidad desde una distancia de 85 m
           Fuente: DI
@@ -2052,8 +2127,8 @@ grupo de trabajo son dos o más personas que realizan conjuntamente un trabajo e
 •
 responsable de los trabajos es el empleado designado por el empleado responsable (o el propio empleado responsable) que dirige la actividad del grupo de trabajo de personas en el trabajo en el dispositivo;
 
-
 ## Página 61
+
 
 •
 empleado responsable es el empleado que, en los distintos niveles de dirección del empleador, está facultado para establecer y asignar tareas de trabajo a los empleados subordinados, organizar, dirigir y controlar su trabajo y darles para tal fin instrucciones vinculantes.
@@ -2078,6 +2153,7 @@ Del análisis del documento "Instrucción acreditada de los empleados al inicio 
 en todas las semanas del año 2023 figuraba la referencia al art. 99 letra b) de la normativa interna ya derogada del operador de la vía SŽDC Bp1, que imponía a los empleados responsables la obligación de "instruir de forma acreditada a los empleados al inicio del turno (trabajo) o al cambiar de ámbito del centro de trabajo sobre todas las incidencias en el centro de trabajo y avisarles de la obligación de cumplir los principios de trabajo seguro y los procedimientos de trabajo y tecnológicos".
 
 ## Página 62
+
 
 La norma interna SŽDC Bp1 fue sustituida por las normas internas SŽ Bp1, SŽ Bp2 y SŽ Bp3 con efectos desde el 1. 1. 2021, respectivamente desde el 1. 3. 2023 en su redacción de la modificación n.º 1. La obligación antes mencionada la impone al empleado responsable el art. 10 apartado (3) letra b) de la norma interna SŽ Bp2.
 Del análisis de los «Partes diarios» de la sección TO Blatná y de su comparación con el documento «Instrucción acreditada de los empleados al inicio del turno» se constató:
@@ -2109,8 +2185,8 @@ el 9. 7. 2023 (domingo):
 •
 el 10. 7. 2023:
 
-
 ## Página 63
+
 
 ◦El «Parte diario» fue redactado y firmado por el maestro de vía principal, que tenía registrado en el «Parte diario» ese día de 6:00 h a 14:00 h reconocimiento médico;
 ◦Formación – la instrucción acreditada de los empleados fue realizada por el trabajador de mantenimiento y reparación de vías;
@@ -2145,8 +2221,8 @@ el 2. 10. 2023:
 ◦El «Parte diario» fue redactado y firmado por el maestro de vía;
 ◦Formación – la instrucción acreditada de los empleados fue realizada por el maestro de vía, que tenía registrado en el «Parte diario» ese día de 6:00 h a 14:00 h formación en České Budějovice;
 
-
 ## Página 64
+
 
 ◦La dirección del cuadrillo de trabajo en el puesto de trabajo Březnice – Bělčice figuraba en el «Parte diario» a cargo del maestro de vía principal.
 ### De lo anterior se desprende que las afirmaciones «el responsable de trabajos es quien redacta y firma el parte» y asimismo «el responsable de trabajos es siempre quien imparte la formación», no son ciertas.
@@ -2159,8 +2235,8 @@ Atendiendo a las declaraciones ambiguas antes mencionadas, al análisis de los �
 ### del empleado encargado de la dirección directa de los trabajos junto a su firma con el código VP – responsable de trabajos, a la Inspección Ferroviaria no le fue posible acreditar de forma verificable, en la investigación de este MU, cuál de los empleados implicados, concretamente si el maestro de vía principal o el maestro de vía, era el responsable de trabajos el 3. 10. 2023.
 La Inspección Ferroviaria realizó un análisis de las anotaciones en los Libros de Servicio del maestro de vía principal, del maestro de vía y del trabajador de mantenimiento y reparación de vías, al cual le estaba asignada también la Libreta de Trabajo. Según la declaración del operador de la vía SŽ, ni el maestro de vía principal ni el maestro de vía tenían asignadas Libretas de Trabajo. El Libro de Servicio con la Libreta de Trabajo del trabajador de mantenimiento y reparación de vías fueron incautados el
 
-
 ## Página 65
+
 
 3. 10. 2023 por la PČR en un equipaje personal almacenado en el vehículo de servicio en el lugar de aparición del MU.
 •
@@ -2188,6 +2264,7 @@ anotación de la inspección realizada por el responsable de PS del 16. 3. 2023 
 el enfoque: «Realizada inspección de la llevanza de la libreta de trabajo y de la actividad laboral. Sin anomalías. Prestar atención a las condiciones de visibilidad en
 
 ## Página 66
+
 
 pasos a nivel, limpieza de los canaletas de los pasos a nivel, eliminación de la vegetación no deseada en las proximidades del perfil de paso, apriete de los elementos de fijación aflojados.";
 ✗
@@ -2218,8 +2295,8 @@ desde el teléfono móvil del jefe superior de tramo se realizaron 2 llamadas sa
 desde el teléfono móvil del jefe de tramo se realizaron las siguientes llamadas salientes:
 ◦llamada privada el 29. 9. 2023;
 
-
 ## Página 67
+
 
 ◦3 llamadas el 5. 9. 2023 con el jefe de PS;
 ◦2 llamadas el 15. 9. 2023, a las 15:58 h con el jefe de ST y a las 18:34 h
@@ -2237,8 +2314,8 @@ Si el contenido de la comunicación del jefe de tramo con el jefe de estación d
 Del análisis de las llamadas del 3. 10. 2023 desde los teléfonos móviles de servicio, respectivamente las tarjetas SIM de servicio, asignados al jefe superior de tramo y al jefe de tramo, y de la tarjeta SIM privada del jefe superior de tramo, que fueron incautadas por la PČR en el lugar de producción del SU (la vía y sus inmediaciones), se constató que el 3. 10. 2023 desde las 00:00 h hasta la hora de producción del SU no se realizó ninguna llamada entrante ni saliente.
 Del análisis de las llamadas del 3. 10. 2023 desde las tarjetas SIM privadas de los teléfonos móviles del jefe de tramo y de los dos trabajadores de mantenimiento y reparación de tramos, incautadas por la PČR en los equipajes personales
 
-
 ## Página 68
+
 
 almacenados en el vehículo de servicio en el lugar de producción del SU, se constató que el 3. 10. 2023
 ### desde las 5:35 h hasta la hora de producción del SU no se realizó ninguna llamada entrante ni saliente.
@@ -2254,33 +2331,33 @@ En la investigación se constató la infracción de la normativa legal y de las 
 •
 § 22 apartado 1 letra a) de la Ley núm. 266/1994 Sb.:
 
-
 ## Página 69
 
-"El explotador ferroviario está obligado a explotar la vía para las necesidades del tráfico ferroviario fluido y seguro de acuerdo con las reglas para la explotación de la vía y la autorización administrativa, ...";
+„El operador de la vía está obligado a explotar la vía para las necesidades del tráfico ferroviario fluido y seguro según las reglas para la explotación de la vía y la autorización administrativa, ...“;
 •
 § 22 apartado 4 de la Ley núm. 266/1994 Sb.:
-"Las personas que se encuentren en el ámbito de la vía están obligadas a velar por su propia seguridad, … y están obligadas a abstenerse de todo lo que pudiera perturbar o amenazar la explotación de la vía y el tráfico ferroviario o tener como consecuencia la producción de daños en los componentes de la vía o en el vehículo ferroviario o perturbar el orden público.";
+„Las personas que se encuentren dentro del ámbito de la vía están obligadas a velar por su seguridad, … y están obligadas a abstenerse de todo lo que pudiera perturbar o amenazar la explotación de la vía y del tráfico ferroviario o tener como consecuencia la aparición de daños en los componentes de la vía o en el vehículo ferroviario o perturbar el orden público.“;
 •
 § 101 apartado 1 de la Ley núm. 262/2006 Sb.:
-"El empleador está obligado a garantizar la seguridad y la protección de la salud de los empleados en el trabajo atendiendo a los riesgos de posible amenaza a su vida y salud que se refieren al desempeño del trabajo (en adelante «riesgos»)."
-En el caso de este SU concreto es necesario relacionar el § 101 apartado 1 de la Ley núm. 262/2006 Sb. anteriormente citado con el definitorio:
+„El empleador está obligado a garantizar la seguridad y la protección de la salud de los trabajadores en el trabajo, teniendo en cuenta los riesgos de posible amenaza a su vida y salud que se refieren al desempeño del trabajo (en adelante „riesgos“).“
+En el caso de esta MU concreta, es necesario relacionar el § 101 apartado 1 de la Ley núm. 262/2006 Sb. antes mencionado con el definitorio:
 ◦§ 101 apartado 2 de la Ley núm. 262/2006 Sb.:
-"La atención a la seguridad y protección de la salud en el trabajo impuesta al empleador según el apartado 1 o por normas jurídicas especiales es parte integrante y equiparable de las obligaciones laborales de los empleados directivos en todos los niveles de dirección en la medida de los puestos de trabajo que desempeñan.";
+„El cuidado de la seguridad y la protección de la salud en el trabajo impuesto al empleador según el apartado 1 o por normas jurídicas especiales es una parte integrante e igual de las obligaciones laborales de los empleados directivos en todos los niveles de gestión, en la medida de los puestos de trabajo que desempeñan.“;
 •
 § 103 apartado 2 de la Ley núm. 262/2006 Sb.:
-"El empleador está obligado a garantizar a los empleados la formación en materia de normas jurídicas y demás normas para garantizar la seguridad y la protección de la salud en el trabajo, que completen sus aptitudes profesionales y los requisitos para el desempeño del trabajo, que se refieran al trabajo por ellos realizado y se apliquen a los riesgos con los que el empleado pueda entrar en contacto en el centro de trabajo en el que se realiza el trabajo, y exigir y controlar sistemáticamente su cumplimiento";
+„El empleador está obligado a garantizar a los trabajadores la formación sobre las normas jurídicas y demás disposiciones para garantizar la seguridad y la protección de la salud en el trabajo, que complementan sus cualificaciones profesionales y los requisitos para el desempeño del trabajo, que se refieren al trabajo que realizan y se relacionan con los riesgos con los que el trabajador pueda entrar en contacto en el centro de trabajo donde se realiza el trabajo, y exigir y comprobar sistemáticamente su cumplimiento“;
 •
 § 106 apartado 4 letra c) de la Ley núm. 262/2006 Sb.:
-"Cada empleado está obligado a velar, dentro de sus posibilidades, por su propia seguridad, por su salud y por la seguridad y la salud de las personas físicas a las que se refiera directamente su actuación u omisión en el trabajo. El conocimiento de las obligaciones básicas derivadas de las normas jurídicas y demás normas y de los requisitos del empleador para garantizar la seguridad y la protección de la salud en el trabajo es parte integrante y permanente de las aptitudes del empleado. El empleado está obligado a cumplir las normas jurídicas y demás normas y las instrucciones del empleador para garantizar la seguridad y la protección de la salud en el trabajo, con las que haya sido debidamente informado, y a regirse por los principios de comportamiento seguro en el centro de trabajo y por la información del empleador, ...";
+„Cada trabajador está obligado a velar, según sus posibilidades, por su propia seguridad, por su salud y por la seguridad y salud de las personas físicas a las que se refiera directamente su actuación o, en su caso, su omisión en el trabajo. El conocimiento de las obligaciones básicas que se derivan de las normas jurídicas y demás disposiciones y de los requisitos del empleador para garantizar la seguridad y la protección de la salud en el trabajo es una parte integrante y permanente de las cualificaciones del trabajador. El trabajador está obligado a cumplir las normas jurídicas y demás disposiciones y las instrucciones del empleador para garantizar la seguridad y la protección de la salud en el trabajo, con las que haya sido debidamente informado, y a regirse por los principios de comportamiento seguro en el centro de trabajo y por la información del empleador, ...“;
 •
-art. 3 apartado (6) de la norma interna de SŽ Bp1:
-"Todas las personas en las instalaciones de SŽ y en la vía explotada por SŽ están obligadas, dentro de sus posibilidades, a velar por su propia seguridad, por su salud y por la seguridad y la salud de las personas físicas a las que se refiera directamente su actuación.";
+artículo 3 apartado (6) de la norma interna SŽ Bp1:
+„Todas las personas en las instalaciones de SŽ y en la vía explotada por SŽ están obligadas, según sus posibilidades, a velar por su propia seguridad, por su salud y por la seguridad y salud de las personas físicas a las que se refiera directamente su actuación.“;
 •
-art. 10 apartado (4) de la norma interna de SŽ Bp1:
-"Cada trabajo en instalaciones (en una vía de circulación no excluida) debe desarrollarse, desde el punto de vista de la garantía de la seguridad y la protección de la salud en el trabajo, en estos planos fundamentales:
+artículo 10 apartado (4) de la norma interna SŽ Bp1:
+„Cualquier trabajo en las instalaciones (en una vía de circulación no excluida) debe realizarse, desde el punto de vista de la garantía de la seguridad y la protección de la salud en el trabajo, en estos niveles básicos:
 
 ## Página 70
+
 
 ◦acuerdo de las condiciones de trabajo en el dispositivo,
 ◦garantía de la seguridad del puesto de trabajo,
@@ -2305,8 +2382,8 @@ En el caso de esta MU concreta, es necesario relacionar el art. 10 apartado (9) 
 "Grupo de trabajo – dos o más personas que realizan conjuntamente un trabajo en una vía de tráfico ferroviario en servicio, siendo obligatorio que una de las personas sea el responsable de los trabajos;
 ◦art. 2 apartado (46) del reglamento interno SŽ Bp1:
 
-
 ## Página 71
+
 
 "Responsable de los trabajos – empleado designado por el empleado responsable (o el propio empleado responsable), que dirige la actividad del grupo de trabajo de personas durante el trabajo en el dispositivo.";
 •
@@ -2328,8 +2405,8 @@ Durante la investigación se constató la infracción de disposiciones legales y
 •
 § 22 apartado 1 letra a) de la ley n.º 266/1994 Sb.:
 
-
 ## Página 72
+
 
 "El gestor de la vía está obligado a explotar la vía para las necesidades del tráfico ferroviario fluido y seguro según las reglas para la explotación de la vía y la autorización administrativa, ...";
 •
@@ -2355,8 +2432,8 @@ En el sistema de información SORUT, en el resumen de inspecciones tanto ordinar
 •
 inspección de tramo – vías de tramo y vías principales de estación – 27 veces (realizadas por el jefe de líneas, el inspector de tramo y el trabajador de mantenimiento y reparación de líneas);
 
-
 ## Página 73
+
 
 •
 inspección de circulación – vías de tramo y vías principales de estación – 7 veces (realizadas por el responsable de PS);
@@ -2378,6 +2455,7 @@ IAL – límite de intervención inmediata: si se supera el valor establecido, e
 Del "Resumen de averías" del sistema de información SORUT se desprende además que a fecha 28. 2. 2024 se detectaron averías no eliminadas del límite IAL de la medición con dispositivo de registro continuo realizada el 20. 9. 2023, concretamente:
 
 ## Página 74
+
 
 •
 tramo Březnice – Hudčice:
@@ -2408,8 +2486,8 @@ Tampoco constaban plazos de eliminación de las averías IL, a pesar de que:
 •
 IL – umbral de intervención (reparación): si se supera el valor establecido, es necesario realizar trabajos de mantenimiento de modo que antes de la siguiente inspección no se supere la desviación operativa límite.
 
-
 ## Página 75
+
 
 ### Constatación:
 En la investigación se constató la infracción de la normativa legal y de la norma técnica relativa a las funciones y obligaciones del explotador de la vía, al margen de la relación causal con la aparición del MU:
@@ -2436,8 +2514,8 @@ artículo 7.1.2 de la ČSN 73 6360-2:
 «IAL – umbral de intervención inmediata: si se supera el valor establecido, es necesario adoptar de inmediato medidas para garantizar la seguridad de la explotación.»
 El jefe de PS indicó en su declaración que los empleados estaban dotados de los equipos de seguridad, salvo el nuevo empleado – trabajador de reparación y mantenimiento de líneas (en formación) –, que no estaba dotado y llevaba su propio calzado de trabajo. Por ello solicitó al jefe de línea que dotara al empleado con el chaleco reflectante del empleador SŽ.
 
-
 ## Página 76
+
 
 El trabajador de mantenimiento y reparación de líneas (en formación) indicó, sin embargo, en su declaración que durante los trabajos en la vía de circulación el 3. 10. 2023 llevaba su propia ropa, guantes y casco, no llevaba puesto el chaleco reflectante y tenía pedido el equipo de trabajo.
 El chaleco reflectante fue incautado por la PČR el 3. 10. 2023 en el lugar de la aparición del MU, en el equipaje personal almacenado en el vehículo de servicio del jefe superior de línea.
@@ -2463,8 +2541,8 @@ artículo 10 apartado (3) letra d) de la norma interna SŽ Bp2:
 «Los directivos (excepto el personal de circulación) que dirijan directamente a los empleados durante la realización del trabajo en la vía de circulación y controlen su seguridad personal están obligados a emitir la orden de inicio del trabajo solo cuando todos los empleados a su cargo estén dotados de los EPP prescritos.»
 En la investigación no se constató infracción de las funciones y obligaciones del transportista en relación causal con la aparición del MU.
 
-
 ## Página 77
+
 
 El maquinista está obligado, entre otros, al conducir el tren (DV), a dirigir el DV solo desde el puesto desde el que exista la mejor visibilidad, normalmente desde la cabina delantera del maquinista en el sentido de la marcha, a observar desde el DV la vía y las señales y a actuar según los hechos constatados. Ante el PZ con postes de advertencia, el maquinista debe emitir, para advertir a las personas, la señal sonora «Atención» (un sonido largo con la bocina o el silbato de la locomotora) – una vez a la altura del poste de advertencia y, a continuación, repetidamente al menos dos veces desde dichos postes de advertencia hasta el PZ, sin que deba repetir la señal sonora «Atención» si ha constatado que no se aproxima al PZ ningún usuario de la vía pública.
 Del registro del velocímetro del HDV se desprende que el maquinista del tren Sv 98034 no emitió, ante el paso a nivel P1329, la señal sonora «Atención» a la altura de la señal de advertencia, es decir, del poste de advertencia, con la señal «Silba».
@@ -2488,7 +2566,84 @@ artículo 129 apartado (3) letra (ea) de la norma interna SŽ D1:
 
 The request was rejected because it was considered high risk
 
+## Página 78
+
+### «Para advertir a las personas, el maquinista debe dar la señal de Atención ante pasos a nivel con postes de aviso – una vez a la altura del poste de aviso y, a continuación, repetidamente al menos dos veces desde
+### dichos postes de aviso hasta el paso a nivel. El maquinista no tiene que repetir la señal de Atención si ha comprobado que no se aproxima al paso a nivel ningún usuario de la vía pública, ...»
+En el caso de esta MU concreta, es necesario relacionar el párrafo 129 apartado (3) letra (ea) anterior del reglamento interno SŽ D1 con el definitorio:
+◦ artículo 129 apartado (1) del reglamento interno SŽ D1:
+### «La señal de Atención (un sonido largo de la bocina o del silbato de la locomotora) advierte a las personas del movimiento de los vehículos.»
+### 4.1.2 Entidades responsables del mantenimiento de los vehículos ferroviarios
+En la investigación no se constató infracción de las funciones y obligaciones de las entidades responsables del mantenimiento de los vehículos ferroviarios.
+### 4.1.3 Fabricantes de vehículos ferroviarios u otros proveedores de instalaciones ferroviarias
+En la investigación no se constató infracción de las funciones y obligaciones de los fabricantes de vehículos ferroviarios u otros proveedores de productos ferroviarios.
+### 4.1.4 Autoridades nacionales de seguridad y Agencia Ferroviaria de la Unión Europea
+La autoridad nacional de seguridad es la Oficina Ferroviaria, que de conformidad con la ley nº 266/1994 Sb. es una autoridad administrativa dependiente del Ministerio de Transporte. Su función es, en particular, el ejercicio de la supervisión estatal en materia de vías férreas y en materia de autoridad de construcción, el ejercicio de la autoridad de construcción especial para obras de la vía y obras sobre la vía, la aprobación de vehículos ferroviarios nuevos y modernizados y de instalaciones técnicas designadas, así como la tramitación de infracciones. La Oficina Ferroviaria tiene la obligación de comunicar, en un plazo de 12 meses a partir de la fecha de publicación del informe final que contenga las recomendaciones de seguridad dirigidas a la misma, a la Inspección Ferroviaria qué medida ha adoptado en relación con dicha recomendación de seguridad; esta comunicación se realiza de forma regular, al menos una vez al año, hasta la adopción de las medidas correspondientes.
+La función de la Agencia Ferroviaria de la Unión Europea es, además de garantizar, en el marco de sus competencias, que se mantenga en general la seguridad ferroviaria y, en la medida de lo posible, se aumente de forma sistemática, entre otras, la emisión, renovación, suspensión y modificación de certificados únicos de seguridad, la limitación de su vigencia o su cancelación, en cuestión en la que coopera con las autoridades nacionales de seguridad; asimismo, emite autorizaciones para la comercialización de vehículos ferroviarios y de tipos de vehículos, y está facultada para renovar, modificar, suspender o cancelar las autorizaciones que haya emitido. La Agencia evalúa asimismo los proyectos de normativa nacional, etc.
+En la investigación no se constató infracción de las funciones y obligaciones de la autoridad nacional de seguridad y de la Agencia Ferroviaria de la Unión Europea.
+### 4.1.5 Entidades notificadas, entidades designadas y entidades dedicadas a la evaluación de riesgos
+En la investigación no se constató infracción de las funciones y obligaciones de las entidades notificadas, de las entidades designadas y de las entidades dedicadas a la evaluación de riesgos.
+
+## Página 79
+
+### 4.1.6 Entidades de certificación responsables del mantenimiento de los vehículos ferroviarios
+En la investigación no se detectó infracción de las funciones y obligaciones de las entidades de certificación responsables del mantenimiento de los vehículos ferroviarios.
+### 4.1.7 Cualquier otra persona u entidad
+Las funciones y obligaciones de otras personas o entidades no guardaban relación con la producción del MU.
+### 4.2 Vehículos ferroviarios e instalaciones técnicas
+4.2.1 Factores o consecuencias derivados de la construcción de los vehículos ferroviarios, de la infraestructura ferroviaria o de las instalaciones técnicas
+En la investigación no se detectaron factores derivados de la construcción de los vehículos ferroviarios, de la infraestructura ferroviaria o de las instalaciones técnicas.
+4.2.2 Factores o consecuencias derivados de la instalación y puesta en servicio de los vehículos ferroviarios, de la infraestructura ferroviaria o de las instalaciones técnicas
+En la investigación no se detectaron factores derivados de la instalación y puesta en servicio de los vehículos ferroviarios, de la infraestructura ferroviaria o de las instalaciones técnicas.
+### 4.2.3 Factores o consecuencias relacionados con el fabricante de los vehículos ferroviarios u otro proveedor de productos ferroviarios
+En la investigación no se detectaron factores relacionados con el fabricante de los vehículos ferroviarios u otro proveedor de productos ferroviarios.
+### 4.2.4 Factores o consecuencias derivados del mantenimiento y la modificación de los vehículos ferroviarios o de las instalaciones técnicas
+En la investigación no se detectaron factores derivados del mantenimiento y la modificación de los vehículos ferroviarios o de las instalaciones técnicas.
+### 4.2.5 Factores o consecuencias relacionados con la entidad responsable del mantenimiento de los vehículos ferroviarios, los talleres de mantenimiento y otros prestadores de servicios de mantenimiento
+En la investigación no se detectaron factores relacionados con la entidad responsable del mantenimiento de los vehículos ferroviarios, los talleres de mantenimiento y otros prestadores de servicios de mantenimiento.
+4.2.6 Otros factores o consecuencias que se consideren relevantes a efectos de la investigación
+En la investigación no se detectaron otros factores relacionados con los vehículos ferroviarios, la infraestructura ferroviaria o las instalaciones técnicas.
+
+## Página 80
+
+### 4.3 Factores humanos
+### 4.3.1 Características humanas e individuales
+Los requisitos aplicables a los empleados del gestor de la infraestructura y del transportista, en particular los requisitos de idoneidad profesional y sanitaria, estaban establecidos en el momento del suceso de la MU por la ley núm. 266/1994 Sb., el decreto núm. 173/1995 Sb., el decreto núm. 101/1995 Sb., el decreto núm. 16/2012 Sb. y las normas internas del gestor de la infraestructura y del transportista.
+La Inspección Ferroviaria, al investigar el factor humano, intentó evaluar todas las influencias que pudieron actuar sobre los empleados implicados y que pudieran haber tenido, en su caso, incidencia en la ocurrencia de esta MU.
+En el caso de los empleados del gestor de la infraestructura SŽ, concretamente el jefe superior de vía, el jefe de vía y los dos trabajadores de mantenimiento y reparación de vías, y del empleado del transportista ČD, concretamente el maquinista del tren Sv 98034, se trató principalmente de evaluar sus experiencias, conocimientos y antigüedad en el puesto.
+El jefe superior de vía poseía la idoneidad profesional para la actividad laboral «jefe de vía»/«jefe superior de vía». Superó la última revisión de la cualificación de «jefe superior de vía» el 21. 9. 2021. Desempeñó la función de «jefe superior de vía» de forma ininterrumpida desde el 1. 1. 2021 hasta la ocurrencia de la MU. Realizó la formación sobre las normas internas del gestor de la infraestructura SŽ Bp1, SŽ Bp2 y SŽ Bp3 el 7. 12. 2020, la última formación periódica en materia de seguridad y salud en el trabajo (BOZP) el 21. 11. 2022 y la primera parte de la formación periódica de tráfico y técnica, cuyo contenido incluía, entre otros, la norma interna del gestor de la infraestructura SŽ Bp1, para la función de «jefe superior de vía» el 22. 2. 2023.
+El jefe de vía poseía la idoneidad profesional para la actividad laboral «jefe de vía»/«jefe superior de vía». Superó el examen profesional para la actividad laboral «jefe de vía» el 1. 12. 2022 y el examen profesional para la actividad laboral «jefe superior de vía» el 28. 4. 2023. Desempeñó la función de «jefe de vía» de forma ininterrumpida desde el 1. 1. 2023 hasta la ocurrencia de la MU. Realizó la formación sobre las normas internas del gestor de la infraestructura SŽ Bp1, SŽ Bp2 y SŽ Bp3 el 9. 12. 2020, la última formación periódica en materia de seguridad y salud en el trabajo (BOZP) el 21. 11. 2022 y la primera parte de la formación periódica de tráfico y técnica, cuyo contenido incluía, entre otros, la norma interna del gestor de la infraestructura SŽ Bp1, para la función de «jefe de vía» el 22. 2. 2023.
+El trabajador de mantenimiento y reparación de vías poseía la idoneidad profesional para la actividad laboral «cabo», habiendo superado la última revisión de esta cualificación el 11. 9. 2023. Desempeñó la función de «trabajador de mantenimiento y reparación de vías» de forma ininterrumpida desde el 1. 7. 2019 hasta la ocurrencia de la MU. Realizó la formación sobre las normas internas del gestor de la infraestructura SŽ Bp1, SŽ Bp2 y SŽ Bp3 el 9. 12. 2020, la última formación periódica en materia de seguridad y salud en el trabajo (BOZP) el 21. 11. 2022 y la formación periódica de tráfico y técnica, cuyo contenido incluía, entre otros, la norma interna del gestor de la infraestructura SŽ Bp1, para la función de «trabajador de mantenimiento y reparación de vías» y, a la vez, para la función de «cabo» el 20. 2. 2023.
+El trabajador de mantenimiento y reparación de vías (en formación), que desempeñó la función de «trabajador de mantenimiento y reparación de vías» desde el 1. 10. 2023, realizó únicamente la formación inicial el 2. 10. 2023.
+El maquinista del tren Sv 98034 superó el examen para la actividad laboral «maquinista en preparación» el 28. 7. 2020 y, posteriormente, el 30. 3. 2021, el examen para la actividad laboral «maquinista». Según la documentación del transportista ČD, tenía conocimiento acreditado de las condiciones de la vía.
+La Inspección Ferroviaria, mediante la investigación, constató que los empleados implicados del gestor de la infraestructura SŽ y del transportista ČD, es decir, el jefe superior de vía, el jefe de vía, el trabajador de mantenimiento y reparación de vías y el maquinista del tren Sv 98034, eran idóneos profesionalmente para el desempeño de sus funciones.
+
+## Página 81
+
+Los empleados participantes del gestor de la vía SŽ y del transportista ČD se sometían a exámenes médicos periódicos de conformidad con lo dispuesto en el decreto nº 101/1995 Sb. y, sobre la base de los informes médicos presentados sobre aptitud física para el trabajo, en el momento del siniestro MU estaban médicamente aptos para el desempeño de sus funciones.
+En la investigación no se detectaron factores relacionados con la formación profesional de los empleados, su estado de salud y su situación personal, incluido el estrés físico y psicológico.
+### 4.3.2 Factores laborales
+En la investigación se detectaron factores relacionados con los procedimientos laborales de los empleados que infringieron lo dispuesto en la normativa legal e interna relativa a las tareas y obligaciones del gestor de la vía, indicadas en el punto 4.1.1 de la presente ZZ, principalmente en relación causal con la aparición de dicho siniestro MU.
+En la investigación no se detectaron factores relacionados con la jornada laboral de los empleados. En la investigación no se constató en los empleados participantes el incumplimiento de las condiciones de descanso antes del turno y de las pausas, respectivamente, del tiempo adecuado de descanso y alimentación durante el turno.
+### 4.3.3 Factores organizativos y tareas
+El gestor de la vía SŽ tiene implantado un sistema de control de la seguridad de explotación de la vía. El proceso metodológico de la actividad de control interno dentro de la organización estatal SŽ, incluidos los derechos y obligaciones de los responsables de la realización del control interno y de los empleados de las unidades auditadas, está definido por la Directriz SŽ SM113. El sistema de control interno está destinado a supervisar el cumplimiento adecuado de los objetivos establecidos, que son principalmente:
+•
+la realización y optimización de todas las actividades desempeñadas;
+•
+la conformidad con la normativa legal y los actos internos de gestión;
+•
+la protección del patrimonio de la organización y de la salud de los empleados;
+•
+la gestión adecuada de los fondos encomendados;
+•
+la puntualidad y corrección en la realización de las actividades;
+•
+la calidad de los servicios prestados.
+La Directriz SŽ SM113 se aplica a las unidades de la GŘ SŽ y a las unidades organizativas que participan en la realización de la actividad de control interno. En el ejercicio de la actividad de control aleatoria realizada por el Grupo de control PVO, la Directriz SŽ SM113 se aplicará de forma pertinente. El Grupo de control PVO dirige y coordina la elaboración del Plan anual de actividad de control de las secciones de la GŘ y, a la vez, es responsable de la evaluación de los resultados de los controles internos realizados. Los controles planificados se centran principalmente en las tareas prioritarias, los problemas graves o los riesgos relacionados con la actividad de la unidad correspondiente.
+En el Plan anual de actividad de control de la OŘ Plzeň para el año 2023 (Anexo A de la Directriz SŽ SM113) se indica, entre otros:
+
 ## Página 82
+
 
 | Designación del órgano de control | Nombre del órgano controlado | Objeto del control | Periodo de realización del control | Fin del control |
 | ÚŘ sección, control y jurídico | STČB ZTČ, SS B , SEE | control del cumplimiento de la seguridad en los trabajos en la vía de circulación en explotación | 1.er semestre (2023) 2.º semestre (2023) | cumplimiento de las normas SŽBp1, SŽBp2 y SŽBp3 |
@@ -2504,8 +2659,8 @@ En el Resumen de hallazgos de control del OŘ Plzeň del 1.er semestre del año 
 | ÚŘ , sección control y jurídico | STPlzeň SSZT , Plzeň SEE , | control del cumplimiento de la seguridad en los trabajos en la vía de circulación en explotación | 1 deficiencia | control de la eliminación de las deficiencias mediante un control posterior | 10 6 2022 . . |
 | STPlzeň | Unidades de explotación en el ámbito de ST | control de las unidades de explotación, cumplimiento de las normas de la serie Bp, cumplimiento de la jornada laboral, test de alcohol, control del cumplimiento de las actividades de control prescritas | deficiencias corregibles de inmediato | corrección encomendada al responsable local de PS | de inmediato |
 
-
 ## Página 83
+
 
 |  |  | según S2/3, eliminación de las deficiencias detectadas, de las deficiencias de la actividad de control y de las deficiencias de las circulaciones ... |  |  |  |
 | STPlzeň | Unidades de explotación en el ámbito de ST | control posterior de la eliminación de las deficiencias detectadas | sin deficiencias |  |  |
@@ -2521,8 +2676,8 @@ En el Resumen de hallazgos de control del OŘ Plzeň del 2.º semestre del año 
 | STPlzeň | Unidades de explotación en el ámbito de ST | control de las unidades de explotación, cumplimiento de las normas de la serie Bp, cumplimiento de la jornada laboral, test de alcohol, control del cumplimiento de las actividades de control prescritas según S2/3, eliminación de las deficiencias detectadas, de las deficiencias de la actividad de control y de las deficiencias de las circulaciones ... | deficiencias corregibles de inmediato | corrección encomendada al responsable local de PS | de inmediato |
 | STPlzeň | Ámbito de ST | control posterior de la eliminación de las deficiencias detectadas | sin deficiencias |  |  |
 
-
 ## Página 84
+
 
 | STČB | Unidades de explotación en el ámbito de ST | control de las unidades de explotación, cumplimiento de las normas de la serie Bp, cumplimiento de la jornada laboral, test de alcohol, control del cumplimiento de las actividades de control prescritas según S2/3, eliminación de las deficiencias detectadas, de las deficiencias de la actividad de control y de las deficiencias de las circulaciones ... | deficiencias corregibles de inmediato | corrección encomendada al responsable local de PS | de inmediato |
 | STČB | Ámbito de ST | control posterior de la eliminación de las deficiencias detectadas | sin deficiencias |  |  |
@@ -2554,8 +2709,8 @@ Los controles son:
 1) planificados – según el plan anual de controles;
 2) no planificados (aleatorios) – centrados principalmente en el cumplimiento de la prohibición de consumo de bebidas alcohólicas y de sustancias adictivas y en el cumplimiento del régimen del empleado incapacitado para el trabajo.
 
-
 ## Página 85
+
 
 Cada acción de control, planificada o no planificada, debe ser registrada y su resultado documentado. De cada acción se levanta un acta en los libros previamente establecidos o se redacta un informe independiente según el modelo correspondiente. No es necesario elaborar un informe del control ordinario del responsable.
 
@@ -2583,6 +2738,7 @@ en el documento «Instrucción acreditada de los empleados al inicio del turno»
 
 ## Página 86
 
+
 En el marco de la actividad de control realizada, el gestor de la vía SŽ aportó informes de las inspecciones realizadas:
 1) «Informe de inspección en la est. Blatná» realizado el 22. 12. 2021:
 •
@@ -2604,8 +2760,8 @@ en el informe se indicó, entre otros, que en el momento de la inspección los e
 •
 la inspección se centró en el cumplimiento de las anotaciones del empleado OZOV (responsable del solicitante de la vía fuera de servicio) durante las vías fuera de servicio en el Registro telefónico de la est. Blatná, en los Actas de vía fuera de servicio de los meses 1 – 4/2023, en las órdenes escritas redactadas «V PMD – Vías fuera de servicio», en las anotaciones de los empleados SSZT ČB en el Registro de averías de la est. Blatná, en el cumplimiento de las disposiciones de la norma SŽ Bp1 por parte de los empleados SSZT ČB al trabajar en una vía de tráfico en servicio y en la limpieza en la est. Blatná en los lugares destinados al público;
 
-
 ## Página 87
+
 
 •
 en el informe se indicó, entre otros, que al trabajar en una vía de tráfico en servicio el empleado SSZT ČB garantiza su seguridad de conformidad con la norma SŽ Bp1 – no se detectaron anomalías;
@@ -2630,29 +2786,29 @@ En la investigación no se detectaron otros factores relacionados con la actuaci
 ### 4.4.1 Condiciones pertinentes del marco regulatorio
 Las condiciones pertinentes del marco regulatorio están establecidas en los Reglamentos de la Unión Europea, en la ley núm. 266/1994 Sb. y en los decretos de aplicación.
 
-
 ## Página 88
-4.4.2 Procedimientos, métodos, contenido y resultados de las actividades de evaluación de riesgos y seguimiento realizadas por cualquiera de los sujetos implicados
-En los procedimientos, métodos, contenido y resultados de las actividades de evaluación de riesgos y seguimiento, relacionados con las circunstancias del origen de la MIE en cuestión, no se detectaron deficiencias.
-### 4.4.3 Sistema de garantía de seguridad de los transportistas y gestores de vías implicados
-En el sistema de seguridad del gestor de la vía y en el sistema de garantía de seguridad del transporte ferroviario del transportista, relacionados con las circunstancias del origen de la MIE en cuestión, no se detectaron deficiencias.
+
+4.4.2 Procedimientos, métodos, contenido y resultados de las actividades de evaluación de riesgos y seguimiento realizadas por cualquiera de los sujetos participantes
+No se detectaron deficiencias en los procedimientos, métodos, contenido y resultados de las actividades de evaluación de riesgos y seguimiento relacionados con las circunstancias de producción del siniestro ferroviario en cuestión.
+### 4.4.3 Sistema de garantía de seguridad de los transportistas y gestores de infraestructura participantes
+No se detectaron deficiencias en el sistema de seguridad del gestor de infraestructura ni en el sistema de garantía de seguridad del transporte ferroviario del transportista, relacionados con las circunstancias de producción del siniestro ferroviario en cuestión.
 ### 4.4.4 Sistema de gestión de los sujetos responsables del mantenimiento de los vehículos ferroviarios y de los talleres de mantenimiento
-El sistema de gestión de los sujetos responsables del mantenimiento de los vehículos ferroviarios y de los talleres de mantenimiento no guardaba relación con el origen de la MIE.
+El sistema de gestión de los sujetos responsables del mantenimiento de los vehículos ferroviarios y de los talleres de mantenimiento no guardaba relación con la producción del siniestro ferroviario.
 ### 4.4.5 Resultados de la supervisión realizada por las autoridades nacionales de seguridad
-Atendiendo a los factores detectados y a las circunstancias del origen de la MIE, la supervisión de la autoridad de seguridad no guarda relación con la MIE en cuestión.
-### 4.4.6 Aprobaciones, certificados y informes de evaluación emitidos por la agencia, las autoridades nacionales de seguridad u otros sujetos de evaluación de la conformidad
-El gestor de la vía explotaba la vía en virtud de la autorización administrativa vigente y del certificado de seguridad del gestor de la vía. El transportista explotaba el transporte ferroviario en virtud de la licencia vigente y del certificado del transportista.
+Atendiendo a los factores y circunstancias de producción del siniestro ferroviario detectados, la supervisión de la autoridad de seguridad no guarda relación con el siniestro ferroviario en cuestión.
+### 4.4.6 Aprobaciones, certificados y informes de evaluación emitidos por la Agencia, las autoridades nacionales de seguridad u otros sujetos de evaluación de la conformidad
+El gestor de infraestructura explotaba la infraestructura en virtud de una autorización administrativa vigente y de un certificado de seguridad del gestor de infraestructura. El transportista explotaba el transporte ferroviario en virtud de una licencia vigente y de un certificado del transportista.
 ### 4.4.7 Otros factores sistémicos
 En la investigación no se detectaron otros factores sistémicos.
 ### 4.5 Sucesos anteriores de naturaleza similar
-La DI investigó las causas y circunstancias en el periodo comprendido entre el 1. 1. 2008 y la fecha del origen de la MIE en cuestión en las vías ferroviarias, categoría nacional y regional, de las siguientes MIE análogas:
+La DI investigó las causas y circunstancias en el período comprendido entre el 1 de enero de 2008 y la fecha de producción del siniestro ferroviario en cuestión, en las infraestructuras ferroviarias de categoría nacional y regional, de los siguientes siniestros ferroviarios análogos:
 •
-del 20. 10. 2010 entre la est. Prackovice nad Labem y la est. Lovosice, donde se produjo una colisión del tren EC 175 con dos empleados de la empresa Viamont DSP, a. s. La causa inmediata del origen de la MIE fue la entrada no autorizada de dos empleados de la empresa Viamont DSP, a. s., en el perfil de paso de la vía 1 en servicio, en el momento en que por dicha vía circulaba el tren EC 175;
+del 20 de octubre de 2010, entre la estación de Prackovice nad Labem y la estación de Lovosice, donde se produjo una colisión del tren EC 175 con dos empleados de la empresa Viamont DSP, a. s. La causa inmediata de la producción del siniestro ferroviario fue la entrada no autorizada de dos empleados de la empresa Viamont DSP, a. s., en el perfil de paso de la vía 1 en explotación, en el momento en que por dicha vía circulaba el tren EC 175;
 •
-del 11. 10. 2013 en la est. Karlov pod Ještědem, donde se produjo una colisión del tren Sv 101155 con un empleado de una empresa externa. Las causas inmediatas del origen de la MIE fueron la no interrupción de la actividad laboral del contratista en una vía en servicio no excluida, en el momento en que por dicha vía circulaba el tren Sv 101155, debido a que la persona encargada de vigilar el puesto de trabajo no le advirtió de la circulación del tren, y el incumplimiento de las condiciones para la vigilancia
-
+del 11 de octubre de 2013, en la estación de Karlov pod Ještědem, donde se produjo una colisión del tren Sv 101155 con un empleado de una empresa externa. Las causas inmediatas de la producción del siniestro ferroviario fueron la no interrupción de la actividad laboral del ejecutor en la vía en explotación no excluida, en el momento en que por dicha vía circulaba el tren Sv 101155, debido a que no se le advirtió de la circulación del tren por la persona encargada de la vigilancia del puesto de trabajo, y el incumplimiento de las condiciones para la vigilancia
 
 ## Página 89
+
 
 del puesto de trabajo del grupo de trabajo por no facilitar información sobre la situación de tráfico actual y por establecer una distancia insuficiente entre el inicio del tramo vigilado y el puesto de trabajo, con el consiguiente retraso en la emisión de las señales de advertencia;
 •
@@ -2677,62 +2833,75 @@ La DI no detectó ninguna causa sistémica.
 
 ## Página 90
 
-### Resumen del análisis y las conclusiones en relación con las causas del suceso
+### Resumen del análisis y de las conclusiones en relación con las causas del suceso
 Factor causal:
 •
-realización de trabajos por parte de empleados del gestor de infraestructura en la vía de tráfico operada no excluida sin garantizar la seguridad y la salud en el trabajo, concretamente sin organizar las condiciones de trabajo en el equipo, sin garantizar la seguridad del puesto de trabajo y sin garantizar la seguridad de los empleados en el puesto de trabajo.
+realización de obras por parte de empleados del gestor de la infraestructura en la vía de tráfico no excluida en servicio, sin garantizar la seguridad y la protección de la salud en el trabajo, concretamente sin organizar las condiciones de trabajo en el equipo, sin garantizar la seguridad del puesto de trabajo y sin garantizar la seguridad de los empleados en el puesto de trabajo.
 Factor contribuyente: ninguno.
 Factor sistémico:
 ninguno.
-### 5.2 Medidas adoptadas para prevenir sucesos extraordinarios
-El gestor de la vía SŽ adoptó, tras la producción del SE, las siguientes medidas:
+### 5.2 Medidas adoptadas para prevenir sucesos excepcionales
+El explotador de la vía SŽ adoptó, tras la producción del SE, las siguientes medidas:
 •
-las causas y circunstancias de la producción del SE fueron debatidas en la reunión del jefe de la ST České Budějovice con todos los directivos de la ST;
+las causas y circunstancias de la producción del SE fueron examinadas en la reunión del jefe de la ST de České Budějovice con todos los directivos de la ST;
 •
-las causas y circunstancias de la producción del SE fueron objeto de formación en la formación técnica periódica del personal operativo de la ST České Budějovice;
+las causas y circunstancias de la producción del SE fueron objeto de formación en la formación técnica periódica del personal operativo de la ST de České Budějovice;
 •
-los directivos de todos los niveles de dirección de la ST České Budějovice aumentarán la actividad de control sobre el cumplimiento de las medidas de seguridad durante las actividades de los trabajadores en la vía de tráfico operada no excluida de acuerdo con las normas internas de SŽ;
+los directivos de todos los niveles de dirección de la ST de České Budějovice aumentarán la actividad de control del cumplimiento de las medidas de seguridad en las actividades de los trabajadores en la vía de tráfico no excluida en servicio, de conformidad con las normas internas de SŽ;
 •
-la OŘ Plzeň organizará para todos los jefes de los centros de las administraciones especializadas de la OŘ Plzeň un seminario extraordinario centrado en el cumplimiento de las normas de seguridad y salud en el trabajo y de las disposiciones de la Ley n.º 262/2006 Sb. en el plazo hasta el 30. 6. 2024;
+OŘ Plzeň organizará, para todos los jefes de los centros de las administraciones especializadas de OŘ Plzeň, un seminario excepcional centrado en el cumplimiento de las normas de seguridad y salud en el trabajo y de las disposiciones de la ley núm. 262/2006 Sb., en un plazo hasta el 30. 6. 2024;
 •
-las causas y circunstancias de la producción del SE del día 3. 10. 2023 indicadas en la Evaluación n.º de registro: 1310/2024-SŽ-GŘ-O18 fueron puestas en conocimiento de todos los empleados de las secciones de los subdirectores de operación de infraestructura y de dirección de la explotación de forma acreditada;
+las causas y circunstancias de la producción del SE del 3. 10. 2023 indicadas en la Evaluación ref. núm.: 1310/2024-SŽ-GŘ-O18 fueron puestas en conocimiento de forma acreditada de todos los trabajadores de las secciones de los subdirectores de explotación de la infraestructura y de dirección de la explotación;
 •
-la OŘ Plzeň – departamento de control y jurídico, los directivos de la sección NPI (subdirector de operación de infraestructura) y todos los jefes de las administraciones especializadas de la OŘ Plzeň realizarán de forma permanente controles aleatorios del cumplimiento de las normas de seguridad y salud en el trabajo en todas las actividades laborales de los trabajadores en la vía de tráfico operada no excluida de acuerdo con las normas internas de SŽ. En caso de que los órganos de control detecten deficiencias, los jefes de las administraciones especializadas de la OŘ Plzeň subsanarán inmediatamente la falta y sancionarán a los trabajadores responsables de acuerdo con el reglamento disciplinario.
+OŘ Plzeň – departamento de control y jurídico, los directivos de la sección NPI (subdirector de explotación de la infraestructura) y todos los jefes de las administraciones especializadas de OŘ Plzeň llevarán a cabo de forma permanente controles aleatorios del cumplimiento de las normas de seguridad y salud en el trabajo en todas las actividades laborales de los trabajadores en la vía de tráfico no excluida en servicio, de conformidad con las normas internas de SŽ. En caso de que los órganos de control detecten deficiencias, los jefes de las administraciones especializadas de OŘ Plzeň subsanarán inmediatamente las mismas y sancionarán a los trabajadores responsables de conformidad con el reglamento disciplinario.
 El transportista ČD no adoptó ni emitió ninguna medida.
 ### Medidas adoptadas desde el suceso
-El gestor de infraestructura SŽ adoptó la siguiente medida tras el suceso:
+El gestor de la infraestructura SŽ adoptó la siguiente medida tras el suceso:
 •
-las causas y circunstancias del suceso fueron debatidas en la reunión de la administración de vías České Budějovice con todos los directivos de la administración de vías;
+las causas y circunstancias de la producción del SE fueron examinadas en la reunión de la administración de vías de České Budějovice con todos los directivos de la administración de vías;
 •
-las causas y circunstancias del suceso fueron objeto de formación en la formación técnica periódica del personal operativo de la administración de vías České Budějovice;
-
+las causas y circunstancias de la producción del SE fueron objeto de formación en la formación técnica periódica del personal operativo de la administración de vías de České Budějovice;
 
 ## Página 91
 
 •
-el personal directivo de todos los niveles de dirección de la administración de vías České Budějovice aumentará la actividad de control sobre el cumplimiento de las medidas de seguridad durante las actividades de los trabajadores en las vías operadas no excluidas de acuerdo con las normas internas del gestor de infraestructura SŽ;
+el personal directivo de todos los niveles de la administración de vías de České Budějovice aumentará las actividades de control sobre el cumplimiento de las medidas de seguridad durante las actividades de los trabajadores en las vías en servicio no excluidas según la normativa interna del gestor de infraestructura SŽ;
 •
-la dirección regional de Plzeň organiza un seminario extraordinario para todos los directivos de los centros de las administraciones especializadas de la dirección regional de Plzeň centrado en el cumplimiento de las normas de seguridad y salud y de las disposiciones de la Ley n.º 262/2006 Sb. antes del 30.06.2024;
+la dirección regional de Plzeň organiza un seminario extraordinario para todos los responsables de los centros de las administraciones profesionales de la dirección regional de Plzeň centrado en el cumplimiento de las normas de seguridad y salud y de las disposiciones de la Ley n.º 262/2006 Coll. antes del 30.06.2024;
 •
-las causas y circunstancias del suceso indicadas en la Evaluación n.º 1310/2024-SŽ-GŘ-O18 fueron puestas en conocimiento de todos los empleados de las secciones de los subdirectores de operación de infraestructura y de dirección de la explotación de forma acreditada;
+sobre las causas y circunstancias de la ocurrencia indicadas en la Evaluación n.º 1310/2024-SŽ-GŘ-O18 fueron informados de forma demostrable todos los empleados de los departamentos de los subdirectores de explotación de infraestructura y gestión del tráfico;
 •
-la dirección regional de Plzeň – departamento de control y jurídico, el personal directivo de la sección del subdirector de operación de infraestructura y todos los jefes de las administraciones de la dirección regional de Plzeň realizarán de forma permanente controles aleatorios del cumplimiento de las normas de seguridad y salud en el trabajo en todas las actividades laborales de los trabajadores en las vías operadas no excluidas de acuerdo con las normas internas del gestor de infraestructura SŽ. En caso de que los órganos de control detecten deficiencias, los jefes de las administraciones de la dirección regional de Plzeň subsanarán inmediatamente la falta y los trabajadores responsables serán sancionados de acuerdo con el reglamento disciplinario.
+la dirección regional de Plzeň – departamento de control y jurídico, el personal directivo de la sección del subdirector de explotación de infraestructura y todos los jefes de las administraciones de la dirección regional de Plzeň llevarán a cabo permanentemente controles aleatorios del cumplimiento de las normas de seguridad y salud durante todas las actividades laborales de los trabajadores en las vías en servicio no excluidas según la normativa interna del gestor de infraestructura SŽ. En caso de que los órganos de control detecten deficiencias, los jefes de las administraciones de la dirección regional de Plzeñ garantizarán inmediatamente su corrección y los trabajadores responsables serán sancionados según el código disciplinario.
+
 La empresa ferroviaria ČD no adoptó ninguna medida.
+
 ### 5.3 Hallazgos complementarios
+
 En el gestor de la vía SŽ:
+
 •
-movimiento de un empleado del gestor de la vía en la vía de tráfico operada sin el uso obligatorio de la ropa de trabajo de color de aviso o del chaleco de aviso, al menos en la mitad superior del cuerpo;
+movimiento de un empleado del gestor de la vía en una vía en servicio sin el uso obligatorio de la ropa de trabajo de color de aviso o de un chaleco de aviso, al menos en la mitad superior del cuerpo;
 •
-no información al maquinista del tren Sv 98034 mediante orden escrita sobre la velocidad de vía temporalmente limitada en el tramo entre estaciones Březnice – Bělčice desde km 2,700 hasta km 3,100 por parte del jefe de estación de la estación Březnice;
+no informar al maquinista del tren Sv 98034 mediante una orden escrita sobre la velocidad de vía temporalmente limitada en el tramo entre estaciones Březnice – Bělčice desde km 2,700 hasta km 3,100 por parte del jefe de estación de la estación de Březnice;
 •
-eliminación a largo plazo de los defectos en la GPK no realizada.
+no subsanación a largo plazo de las averías en el GPK.
 
 En el transportista ČD:
-•
-no emisión de la señal sonora «Atención» en el nivel del señal de aviso con la señal «Pite» antes del paso a nivel P1329 por parte del maquinista del tren Sv 98034.
 
+•
+no emitir la señal acústica "Pozor" en el nivel de la señal de aviso con la señal "Pískejte" antes del paso a nivel P1329 por parte del maquinista del tren Sv 98034.
+
+### Observaciones adicionales
+
+En el gestor de infraestructura SŽ:
+
+•
+el movimiento de un empleado del gestor de infraestructura en una vía en servicio sin la ropa de trabajo obligatoria de color de aviso o un chaleco de aviso, al menos en la mitad superior del cuerpo;
+•
+no informar al maquinista del tren Sv 98034 mediante una orden escrita sobre la velocidad de vía temporalmente limitada en el tramo entre estaciones Březnice – Bělčice desde km 2,700 hasta km 3,100 por parte del jefe de estación de la estación de Březnice;
 
 ## Página 92
+
 
 •
 eliminación a largo plazo de los defectos en la posición geométrica de la vía no realizada.
@@ -2760,24 +2929,24 @@ Jaroslav Říha v. r.
 inspector
 del Inspectorado Territorial de Bohemia
 
-
 ## Página 93
+
 
 ### ANEXOS
 ## lugar del SE
 Fig. n.º 7: Trayecto del vehículo de servicio según el registro GPS desde Blatná hacia el PAP P1329 pasando por Bělčice en el horario 6:56:31 h – 7:25:52 h
                                     Fuente: DI (sobre bases cartográficas de mapy.cz)
 
-
 ## Página 94
+
 
 ## lugar del SE
 Fig. n.º 8: Trayecto del vehículo de servicio según el registro GPS desde el PAP P1329 de vuelta a Blatná en el horario
                       Fuente: DI (sobre bases cartográficas de mapy.cz)
 8:41:13 h – 8:49:40 h
 
-
 ## Página 95
+
 
 ## lugar del SE
 Fig. n.º 9: Trayecto del vehículo de servicio según el registro GPS desde Blatná hacia el PAP P1329 en el horario 8:56:01 h – 

@@ -10,13 +10,14 @@ chars: 101816
 ratio_longitud: 1.25
 tokens_in: 52574
 tokens_out: 37177
-verificacion: revisar
-notas_cifras: ["bloque 1: original bilingüe: se compara contra el idioma principal (EN)", "bloque 2: original bilingüe: se compara contra el idioma principal (CS)", "bloque 4: original bilingüe: se compara contra el idioma principal (CS)", "bloque 5: original bilingüe: se compara contra el idioma principal (CS)", "bloque 6: cifras cortas: 1/163", "bloque 8: original bilingüe: se compara contra el idioma principal (EN)"]
-avisos: ["bloque 5: ratio 1.75", "bloque 8: ratio 1.70"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 5: original bilingüe: se compara contra el idioma principal (CS)", "página 6: original bilingüe: se compara contra el idioma principal (CS)", "página 8: original bilingüe: se compara contra el idioma principal (CS)", "página 10: original bilingüe: se compara contra el idioma principal (CS)", "página 13: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -41,13 +42,13 @@ IČ: 75009561
 mail@dicr.cz
 tel.: +420 736 521 003
 
-
 ## Página 2
+
 
 Este informe final es público y todos los hechos en él expuestos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ### 1 RESUMEN
 Fuente: Drážní inspekce 
@@ -78,8 +79,8 @@ No se ha detectado ningún factor contribuyente por parte de la Drážní inspek
 No se ha detectado ninguna causa sistémica por parte de la Drážní inspekce.
 No se ha emitido ninguna recomendación de seguridad por parte de la Drážní inspekce.
 
-
 ## Página 4
+
 
 ### SUMMARY
 18th January 2023, 9:20 (8:20 GMT).
@@ -109,8 +110,8 @@ Contributing factor: none
 Systemic factor: none.
 Recommendation: not issued.
 
-
 ## Página 5
+
 
 # Índice
 1 RESUMEN........................................................................................................................3
@@ -152,8 +153,8 @@ SUMMARY.........................................................................
 4.2 Vehículos ferroviarios e instalaciones técnicas...........................................................36
 4.2.1 Factores o consecuencias derivados del diseño de los vehículos ferroviarios, de la infraestructura ferroviaria o de las instalaciones técnicas.....................................................................36
 
-
 ## Página 6
+
 
 4.2.2 Factores o consecuencias derivados de la instalación y puesta en servicio de los vehículos ferroviarios, de la infraestructura ferroviaria o de las instalaciones técnicas......................................................................................................36
 4.2.3 Factores o consecuencias relacionados con los fabricantes de vehículos ferroviarios u otros proveedores de productos ferroviarios............................................................................36
@@ -184,6 +185,7 @@ y de los talleres de mantenimiento..............................................
 6 RECOMENDACIONES DE SEGURIDAD.....................................................................................42
 
 ## Página 7
+
 
 ### Lista de siglas y símbolos utilizados
 CDP
@@ -245,8 +247,8 @@ paso a nivel ferroviario
 žst.
 estación de ferrocarril
 
-
 ## Página 8
+
 
 ### Lista de siglas de la legislación, normas y normativa interna utilizadas
 Ley n.º 13/1997 Sb.
@@ -301,8 +303,8 @@ Condiciones técnicas TP 169 del Ministerio de Transportes de la R.C.
 vías de comunicación terrestre», en la redacción vigente en el momento
 de producirse el incidente excepcional
 
-
 ## Página 9
+
 
 Disposiciones complementarias del DOZ Zdice – Písek
 normativa interna del explotador ferroviario SŽ, «Disposiciones
@@ -319,58 +321,55 @@ Písek, ref.: MUPI/2022/09810 «Resolución sobre la autorización del
 corte de tráfico y la orden de desvío», en la redacción vigente
 en el momento de producirse el incidente excepcional
 
-
 ## Página 10
 
-### 2 INVESTIGACIÓN Y SUS RELACIONES
-### 2.1 Resolución sobre el inicio de la investigación
-La DI decidió iniciar la investigación del incidente excepcional objeto de estudio el 18. 1. 2023.
-### 2.2 Fundamentación de la resolución sobre el inicio de la investigación
-La DI decidió investigar el incidente excepcional objeto de estudio sobre la base de los
-impactos del incidente excepcional en la explotación segura del ferrocarril y del transporte
-ferroviario, de su gravedad, de su repetitividad y de la obligación derivada de la disposición
-§ 53b de la Ley n.º 266/1994 Sb.
+### 2 INVESTIGACIÓN Y SUS CONTEXTO
+### 2.1 Decisión de iniciar la investigación
+El DI decidió iniciar la investigación de la MU en cuestión el 18/1/2023.
+### 2.2 Fundamentación de la decisión de iniciar la investigación
+El DI decidió investigar la MU en cuestión sobre la base de las repercusiones del suceso
+extraordinario en la explotación segura de la vía y del transporte ferroviario, de su
+gravedad, de su repetición y de la obligación derivada de lo dispuesto en el apartado 53b
+de la Ley n.º 266/1994 Sb.
 ### 2.3 Alcance y limitaciones de la investigación, incluida la fundamentación correspondiente
-La DI no se encontró, en el marco de la investigación del incidente excepcional objeto de
-estudio, con limitaciones que influyeran negativamente en el modo y los procedimientos de
-la investigación.
+En el marco de la investigación de la MU en cuestión, el DI no se encontró con limitaciones
+que influyeran negativamente en el modo y los procedimientos de la investigación.
 ### 2.4 Descripción resumida de las capacidades y funciones técnicas del equipo de investigación
-Investigación de la DI en el lugar del incidente excepcional:
-2x inspector del ÚI Bohemia, centro de trabajo Pilsen.
+Investigación del DI en el lugar de la MU:
+2x inspector del ÚI Čechy, centro de trabajo de Plzeň.
 Constitución del equipo de investigación:
 no fue necesario constituirlo.
 Colaboración externa:
 no se utilizó.
 2.5 Comunicación y consultas durante la investigación con las personas o entidades
-que participaron en el suceso
-Al investigar las causas y circunstancias de la producción del incidente excepcional, la DI
-se basó principalmente en sus propios conocimientos, hallazgos y documentación fotográfica
-propia. Durante la investigación, la DI solicitó la documentación necesaria al explotador
-ferroviario, al transportista y a la PČR.
-La investigación de las causas y circunstancias de la producción del incidente excepcional
-se realizó de acuerdo con la Ley n.º 266/1994 Sb.
-y el Decreto n.º 376/2006 Sb.
+que participaron en el suceso en cuestión
+Al investigar las causas y circunstancias de la MU, el DI se basó principalmente en sus
+propios conocimientos, hallazgos y documentación fotográfica propia. Durante la
+investigación, el DI solicitó la documentación necesaria al explotador de la vía, al
+transportista y a la PČR.
+La investigación de las causas y circunstancias de la MU se realizó de acuerdo con la Ley
+n.º 266/1994 Sb. y con el decreto n.º 376/2006 Sb.
 ### 2.6 Descripción del nivel de colaboración ofrecido por las entidades participantes
-El nivel de colaboración con los representantes de las entidades participantes en el incidente
-excepcional fue estándar.
-### 2.7 Descripción de la investigación, los métodos y las técnicas utilizados para acreditar los hechos
-y los hallazgos indicados en el informe
-En el marco de la investigación del incidente excepcional, la DI procedió de la siguiente
-manera, es decir, utilizó, entre otros, los siguientes métodos y técnicas:
+El nivel de colaboración con los representantes de las entidades participantes en la MU
+fue estándar.
+### 2.7 Descripción de la investigación, los métodos y las técnicas empleados para acreditar los hechos
+y los hallazgos recogidos en el informe
+En el marco de la investigación de la MU, el DI actuó como sigue, es decir, utilizó, entre
+otras, los siguientes métodos y técnicas:
 •
-inspección del lugar del incidente excepcional, incluidos los DV implicados, los
-dispositivos técnicos, la infraestructura ferroviaria, las vías de comunicación
-terrestre adyacentes y el NA;
+inspección del lugar del suceso extraordinario, incluidos los DV participantes, las
+instalaciones técnicas, la infraestructura de la vía, las vías públicas terrestres
+adyacentes y la NA;
 •
-medición de las condiciones de visibilidad en el paso a nivel ferroviario;
+medición de las condiciones de visibilidad en el paso a nivel;
 •
-comprobación del funcionamiento correcto del DEP;
+comprobación del funcionamiento correcto del PZZ;
 •
-análisis de la documentación solicitada al explotador ferroviario, al transportista,
-a la autoridad administrativa de carreteras y a la PČR;
-
+análisis de la documentación solicitada al explotador de la vía, al transportista, a la
+autoridad administrativa de carreteras y a la PČR;
 
 ## Página 11
+
 
 •
 análisis de los datos registrados por el registrador de velocidad del HDV implicado;
@@ -412,8 +411,8 @@ adyacente es el Sur de Bohemia y su gestión la realiza la Dirección y Mantenim
 Carreteras del Sur de Bohemia, sucursal Písek. La autoridad administrativa de carreteras
 competente es el Ayuntamiento de Písek.
 
-
 ## Página 12
+
 
 carretera de III.ª clase n.º 00421 cerrada 
 ## Lugar del incidente excepcional
@@ -456,8 +455,8 @@ circulación del tren y se encontraba en el km 41,211:
 ◦la rueda derecha se encontraba dentro de los carriles a una distancia de 0,20 m
 del carril derecho;
 
-
 ## Página 13
+
 
 ◦la rueda izquierda se encontraba sobre una traviesa de hormigón junto al borde del
 apoyarraíles izquierdo, a una distancia de 0,20 m fuera del carril izquierdo;
@@ -496,6 +495,7 @@ el grosor de las zapatas de freno era de 60 – 65 mm;
 
 ## Página 14
 
+
 •
 Con la inspección de la cabina de conducción del HDV 814.310-9, desde la que se conducía el tren, se constató:
 ◦La cabina, incluido el pupitre de mando, estaba cubierta de cristales rotos del parabrisas y de la ventanilla lateral izquierda;
@@ -525,8 +525,8 @@ En las caras traseras de las cajas luminosas de los semáforos se encontraban ad
 •
 Las cruces de advertencia estaban situadas en los mástiles de los semáforos antes del ŽP en la carretera de clase III n.º 00421a en el sentido de marcha del NA desde la localidad de Nerestce a la derecha a una distancia de 4,05 m y a la izquierda a 4,90 m del eje de la vía, desde el lado opuesto de la carretera a la derecha a 4,40 m del eje de la vía;
 
-
 ## Página 15
+
 
 Fig. n.º 3: Señalización con la señal vertical IP 10a
         Fuente: DI
@@ -547,8 +547,8 @@ La cruz de advertencia y las cajas luminosas de los semáforos a la derecha y a 
 •
 La longitud de visibilidad para el vehículo rodado más lento Lp en caso de avería o desconexión del PZZ era, en el sentido de marcha del NA desde la localidad de Nerestce y en el sentido de marcha del tren Os 7947
 
-
 ## Página 16
+
 
 de 137 m medida, y en el sentido de marcha opuesto, es decir, en el sentido de marcha del NA marchando atrás de vuelta al ŽP, de 105 m;
 Fig. n.º 4: Cierre e interrupción de la carretera de clase III n.º 00421a
@@ -572,74 +572,83 @@ A una distancia de 8 m del ŽP a la izquierda de la vía en el sentido de marcha
 •
 El ŽP P509 estaba protegido por un PZZ luminoso sin complemento de barreras, con señal positiva (luz blanca intermitente);
 
-
 ## Página 17
 
 •
-En el momento de la inspección del lugar del MU, el PZZ estaba en funcionamiento, es decir, se emitía la advertencia luminosa con luces rojas intermitentes alternas de la señal del PZZ y también la advertencia acústica;
+en el momento de la inspección del lugar del accidente el PZZ estaba en funcionamiento, es decir, se emitía la señal luminosa de aviso con luces rojas intermitentes alternas de la señal PZZ, así como la señal acústica de aviso;
 •
-En el Registrador de averías del equipo de comunicaciones y de seguridad del ŽP, situado en la caseta de relés junto al ŽP, no se registró ninguna avería;
+en el Registrador de averías del equipo de telecomunicaciones y de seguridad de la ŽP, situado en el rellé de la ŽP, no constaba registrada ninguna avería;
 •
-Inmediatamente después de la producción del MU, se descargaron los datos del dispositivo de registro del PZZ.
+inmediatamente después de producirse el accidente se descargaron los datos del dispositivo de registro del PZZ.
 Estado del camión:
 •
-El NA estaba formado por un tractor de semirremolques de marca MAN TGX 18.510 (en adelante también tractor) con un semirremolque de marca KRONE (en adelante también semirremolque);
+el camión estaba compuesto por un tractor de remolques de marca MAN TGX 18.510 (en adelante también tractor) con un remolque de marca KRONE (en adelante también remolque);
 •
-En el MU, el tren Os 7947 impactó en la parte trasera izquierda del semirremolque y el impacto hizo girar todo el NA unos 170° y lo lanzó a través del semáforo ("C") hacia el lado derecho fuera de la calzada y parcialmente fuera de la vía;
+en el accidente el tren Os 7947 impactó contra la parte trasera izquierda del remolque y, como consecuencia del impacto, todo el camión giró aproximadamente 170° y fue lanzado por encima del señalizador ("C") hacia la derecha, fuera de la calzada y parcialmente fuera de la vía;
 •
-El NA en su posición final tras el MU se encontraba a la derecha (en el sentido de marcha del NA hacia el ŽP) del ŽP fuera de la carretera (véase la fig. n.º 5);
-en el km 41,1858, es decir, a una distancia de 6,8 m del ŽP, sobre el carril izquierdo en el
+el camión se encontraba en su posición final tras el accidente a la derecha (en el sentido de la marcha del camión hacia la ŽP) de la ŽP, fuera de la vía pública (véase la fig. n.º 5);
+en el pk 41,1858, es decir, a una distancia de 6,8 m de la ŽP, sobre el carril izquierdo en el
 •
-sentido de marcha del Os 7947 se encontraba el borde del frontal derecho delantero del tractor;
-sentido 
-sentido 
-marcha atrás del NA
-llegada del NA
-Fig. n.º 5: Posición del NA tras la colisión 
+sentido de la marcha del Os 7947 se encontraba el borde del frontal derecho del tractor;
+sentido
+sentido
+de marcha
+hacia atrás
+del camión
+de llegada
+del camión
+Fig. n.º 5: Posición del camión tras la colisión
 Fuente: DI
 •
-En el km 41,188, es decir, a una distancia de 9 m del ŽP, sobre el carril derecho en el sentido de marcha del tren Os 7947 se encontraba el borde del frontal izquierdo delantero del tractor;
-en el km 41,1902, es decir, a una distancia de 11,2 m del ŽP y 1 m a la izquierda del carril
+en el pk 41,188, es decir, a una distancia de 9 m de la ŽP, sobre el carril derecho en el sentido de la marcha del tren Os 7947 se encontraba el borde del frontal izquierdo del tractor;
+en el pk 41,1902, es decir, a una distancia de 11,2 m de la ŽP y 1 m a la izquierda del carril
 •
-izquierdo en el sentido de marcha del tren Os 7947, se encontraba el borde frontal izquierdo del semirremolque;
+izquierdo en el sentido de la marcha del tren Os 7947, se encontraba el borde frontal izquierdo del remolque;
 •
-El semirremolque estaba cargado con una carga (línea de producción) que, como consecuencia del impacto, fue parcialmente expulsada al lado y debajo del semirremolque y parcialmente permaneció en la superficie de carga del semirremolque.
-En la caseta de relés del PZZ se documentaron los siguientes documentos: Registrador de averías del equipo de comunicaciones y de seguridad del ŽP P509, Plan de mantenimiento, Certificado de aptitud del UTZ, Acta de la inspección y prueba realizadas del UTZ eléctrico, Acta de la inspección integral del equipo de comunicaciones y de seguridad, Informe de la revisión periódica del UTZ eléctrico y la tabla del paso a nivel.
-
+el remolque estaba cargado con una carga (línea de producción) que, como consecuencia del impacto, fue parcialmente expulsada al lado y por debajo del remolque, y parcialmente permaneció en la superficie de carga del remolque.
+En el rellé del PZZ se documentaron los siguientes documentos: Registrador de averías del equipo de telecomunicaciones y de seguridad de la ŽP P509, Plan de mantenimiento, Certificado de aptitud del UTZ, Acta de la inspección y prueba realizadas del UTZ eléctrico, Acta de la inspección integral del equipo de telecomunicaciones y de seguridad, Informe de la revisión periódica del UTZ eléctrico y la tabla del paso a nivel.
 
 ## Página 18
 
 Condiciones meteorológicas:
 nublado, + 1 °C, sin viento, visibilidad no reducida.
 Datos geográficos:
-terreno accidentado, lugar del MU en un arco izquierdo próximo a la construcción del puente de autopista. Debido a la gran nubosidad en el momento de la producción del MU, no fue necesario evaluar la influencia de la luz solar en la actuación del conductor del NA.
-En el lugar del MU no se realizaron, inmediatamente antes de su producción, por parte del propietario ni del explotador de la vía, ninguna obra de reparación o de mantenimiento. La circulación por la vía de ámbito nacional se desarrollaba en régimen normal. La circulación por la carretera de clase III n.º 00421a que cruza la vía en el ŽP P509 estaba en régimen limitado. Inmediatamente detrás del ŽP P509, la carretera estaba cerrada en virtud de la Resolución del Ayuntamiento de Písek en el sentido de la Ley n.º 13/1997 Sb. debido a la realización de obras de construcción en el marco de la construcción de la autopista D4, tramo Čimelice – Mirotice.
+terreno accidentado, lugar del MU en un arco a la izquierda próximo a
+la construcción de un puente de autopista. Debido a la gran nubosidad
+en el momento de producirse el MU no fue necesario evaluar la influencia del
+resplandor solar en la actuación del conductor del NA.
+En el lugar del MU no se realizaron, inmediatamente antes de su producción, por parte del propietario ni del explotador de
+la vía, ninguna obra de reparación ni de mantenimiento. El tráfico por la vía de interés general estaba
+en régimen normal. El tráfico por la carretera de clase III n.º 00421a que cruza la vía en el
+P509 estaba en régimen restringido. Inmediatamente después del P509 la carretera
+estaba cerrada en virtud de la Decisión del Ayuntamiento de Písek en el sentido de la ley n.º 13/1997 Sb. debido a
+la realización de obras de construcción en el marco de la construcción de la autopista D4 tramo Čimelice – Mirotice.
 ### 3.1.4 Fallecimientos, lesiones y daños materiales
 En el MU se produjo:
 •
-Daño a la salud del maquinista del tren Os 7947;
+daño a la salud del maquinista del tren Os 7947;
 •
-Daño a la salud del revisor del tren Os 7947;
+daño a la salud del revisor del tren Os 7947;
 •
-Daño a la salud de 3 pasajeros;
+daño a la salud de 3 pasajeros;
 •
-Daño a la salud del conductor del NA.
+daño a la salud del conductor del NA.
 El explotador de la vía y el transportista cuantificaron el daño en:
 | • | HDV (tren Os 7947) | 2 000 000 Kč; |
 | • | ŘV (tren Os 7947) | 3 000 000 Kč; |
 | • | instalaciones de la vía | 190 540 Kč; |
 | • | medio ambiente | 0 Kč . |
-En el MU, el daño causado en los vehículos ferroviarios y en los componentes de la vía se cuantificó en un total de
+En el MU el daño causado en los vehículos ferroviarios y componentes de la vía se cuantificó en un total de
 ### 5 190 540 Kč.
 En el MU se produjo daño en:
-| • tractor de marca MAN . | 5 000 000 Kč;*) |
-| • semirremolque de marca Krone . | 500 000 Kč;*) |
-| • carga transportada (línea de producción) | 0 Kč;*) |
-| En el MU, el daño causado en el NA y en la carga transportada se cuantificó en un total de 5 500 000 Kč *) . |  |
-*) La cuantía del daño a la fecha de elaboración del ZZ no era definitiva (el explotador del NA no proporcionó la cuantía del daño en el vehículo y en la carga).
-
+| • el tractor de marca MAN . | 5 000 000 Kč;*) |
+| • el remolque de marca Krone . | 500 000 Kč;*) |
+| • la carga transportada (línea de producción) | 0 Kč;*) |
+| En el MU el daño causado en el NA y la carga transportada se cuantificó en un total de 5 500 000 Kč *) . |  |
+*) La cuantía del daño a la fecha de elaboración del ZZ no era definitiva (el explotador del NA no facilitó la cuantía del daño en el vehículo y la carga).
 
 ## Página 19
+
 
 ### 3.1.5 Descripción de otras consecuencias, incluido el impacto del suceso en las actividades regulares de los sujetos implicados
 Como consecuencia de la producción del MU, se interrumpió la circulación entre las estaciones Čimelice y Mirovice desde las 9:20 h hasta las 18:35 h, momento en que se restableció la circulación mediante la comunicación a los maquinistas de una orden de conducción prudente a través de los ŽP P508 y P509. La explotación de la vía y del transporte ferroviario en su totalidad se restableció el 19. 1. 2023 a las 13:45 h.
@@ -677,6 +686,7 @@ El transporte ferroviario se realizaba en virtud de un contrato celebrado entre 
 
 ## Página 20
 
+
 Nota sobre el tren Os 7947:
 •
 la estación de origen del tren era la est. Protivín, la terminal la est. Březnice;
@@ -713,8 +723,8 @@ Nota: la diferencia entre el tiempo registrado y el tiempo real era de menos 1 s
 Del registro del velocímetro registrador del HDV se desprende que en el tramo entre la est. Čimelice y el lugar de producción del MU no se superó ni la velocidad de vía establecida (75 km·h-1) del tren Os 7947.
 El 27. 1. 2023, por personas cualificadas del transportista con la presencia del DI en el Centro de Mantenimiento de Blatná, se realizó una comprobación comisionada del estado técnico del HDV 814.310-9 y del ŘV 914.310-8 tras el MU. El estado técnico del DV no guardaba relación causal con la producción de este MU y sus daños se produjeron como consecuencia de la colisión.
 
-
 ## Página 21
+
 
 ### 3.1.8 Descripción de las partes correspondientes de la infraestructura y del sistema de señalización
 La vía en el lugar del MU en el sentido de circulación del tren Os 7947 discurre en un arco a la izquierda de radio 350 m, pasa del nivel del terreno circundante a un terraplén y tiene una pendiente de -1,4 ‰.
@@ -730,8 +740,8 @@ En la inspección del lugar del MU, el PZZ mostraba un funcionamiento correcto. 
 El PZZ del ŽP P509 cuenta con un Certificado de idoneidad de dispositivo técnico designado – dispositivo de señalización, cuyos circuitos eléctricos cumplen la función de garantizar directamente la seguridad del transporte ferroviario, n.º de ev.: PZ 4618/96-E.48, expedido por el DÚ el 4. 7. 1996, con vigencia por tiempo indefinido.
 La última revisión de los equipos eléctricos se realizó con base en el Informe de revisión periódica de equipos eléctricos n.º 034/19-KP el 20. 11. 2019 con la conclusión: «Los equipos eléctricos, desde el punto de vista de la seguridad de las personas y de los bienes frente a los efectos de la peligrosa tensión de contacto, son aptos para la explotación según el art. 6.1.2 de la ČSN 33 1500 y el § 5 apart. 3 del Decr. n.º 100/1995 Sb. en la redacción de las normativas posteriores.»
 
-
 ## Página 22
+
 
 La última inspección y ensayo del UTZ se realizó con base en el Acta de inspección y ensayo del UTZ, cuyos circuitos eléctricos cumplen la función de garantizar directamente la seguridad del transporte ferroviario, n.º 60/2019-LP, el 20. 3. 2019 con la conclusión: «El dispositivo de señalización inspeccionado y ensayado indicado en este acta sigue cumpliendo la función de garantizar directamente la seguridad del transporte ferroviario y es apto para la explotación.»
 La última inspección integral de los equipos de telecomunicaciones y de señalización del PZZ se realizó con base en el Acta de inspección integral el 20. 4. 2019 con la conclusión: «El dispositivo controlado no presenta ningún defecto grave. El dispositivo se encuentra en buen estado técnico, el registro de mantenimiento y el estado de la documentación son correctos. El dispositivo permite la explotación segura del transporte ferroviario.»
@@ -756,8 +766,8 @@ De los registros en el Registro de averías de los equipos de telecomunicaciones
 Tras la producción del MU, por personas cualificadas del explotador de la vía con la presencia del DI se realizó una comprobación comisionada del PZZ – se comprobó el funcionamiento sin averías del PZZ.
 La zona en el lugar del MU no estaba monitorizada por un sistema de cámaras.
 
-
 ## Página 23
+
 
 Del análisis de los datos descargados y de los resultados de la inspección comisionada se desprende que el PZZ mostraba un estado sin averías antes de la producción del MU y en el momento de su producción, y que su estado técnico no guardaba relación causal con la producción del MU.
 ### 3.1.9 Cualquier otra información relevante a efectos de la descripción del suceso y de la información básica
@@ -790,6 +800,7 @@ maquinista del tren Os 7947
 ◦se comunicó por radio con el jefe de estación de la est. Březnice, al que comunicó la producción del MU;
 
 ## Página 24
+
 
 ◦en el lugar se encontraban también operarios que estaban construyendo una carretera, que llamaron al servicio de emergencias, a la PČR y a la HZS;
 ◦los bomberos del SDH Čimelice le prestaron los primeros auxilios y la atención médica;
@@ -824,8 +835,8 @@ conductor del camión implicado en el MU
 ◦en el dispositivo de seguridad de paso a nivel ŽP había una luz blanca, y cruzó el ŽP;
 ◦tras el ŽP, tras recorrer una curva a la izquierda en una ligera pendiente, llegó a una señal de tráfico de prohibición de acceso;
 
-
 ## Página 25
+
 
 ◦se detuvo, fotografió el lugar y envió la fotografía a la central para advertir hasta dónde le había llevado la navegación;
 ◦decidió retroceder hasta antes del ŽP y esperar instrucciones sobre por dónde continuar;
@@ -858,57 +869,54 @@ testigo, revisor de tren que viajaba en el tren Os 7947
 ◦en el accidente sufrió un golpe en la parte derecha de la espalda;
 ◦en el momento del MU viajaban en el tren, junto con él y el maquinista, otros 8 pasajeros.
 
-
 ## Página 26
 
-### 3.2 Descripción fáctica del suceso
-### 3.2.1 Secuencia de hechos que condujeron al suceso extraordinario
-El conductor del NA se dirigía desde Francia a una empresa manufacturera situada en la zona industrial de Písek. En territorio de la República Checa inició la circulación el día 18. 1. 2023 a las 6:08 h, tras un descanso de 11 h 43 min.
-Según su declaración, utilizó la navegación durante la conducción, ya que desconocía el trayecto hasta el lugar de destino de la carga. De los datos registrados por el localizador GPS del NA se desprende que el conductor se desvió de la vía de comunicación terrestre – carretera de clase I n.º 4 (que va desde Praga a las Tierras Checas del suroeste) – hacia la vía de comunicación terrestre de clase III n.º 00420 en dirección a la localidad de Nerestce. A continuación, giró a la izquierda hacia una vía de comunicación terrestre provisional sin pavimentar destinada únicamente a garantizar el tráfico y a la ejecución de las obras de construcción en el marco de la construcción de la autopista D4, tramo Čimelice – Mirotice, que estaba señalizada con la señal de tráfico B1 «Prohibido el acceso de todos los vehículos» con el panel complementario E13 con el texto «EXCEPTO VEHÍCULOS DE LA OBRA». Tras recorrer la vía sin pavimentar, continuó por la vía de comunicación terrestre de clase III n.º 00421 contigua, cruzó el puente de piedra sobre el río Skalice y continuó por la vía de comunicación terrestre de clase III n.º 00421a, que cruza la línea ferroviaria de ámbito nacional Zdice – Protivín a través del ŽP P509. Antes del ŽP, esta vía de comunicación terrestre estaba señalizada con la señal de tráfico IP 10a «Vía de comunicación terrestre sin salida». Tras cruzar el ŽP, el conductor continuó circulando por la vía de comunicación terrestre con una curva a la izquierda y, en el horizonte, comprobó que la vía de comunicación terrestre de clase III n.º 00421a estaba señalizada con la señal de tráfico B1 «Prohibido el acceso de todos los vehículos» con el panel complementario E13 con el texto «EXCEPTO VEHÍCULOS DE LA OBRA» y estaba interrumpida por la construcción de los cimientos de un nuevo puente (véase la fig. n.º 4).
-El conductor del NA, según su declaración, fotografió el lugar al que le había dirigido la navegación y envió la fotografía a la central de su transportista. A continuación, retrocedió con el NA hacia el ŽP, donde deseaba, tras cruzarlo, esperar las instrucciones posteriores de su despachador sobre por dónde continuar la circulación. Sin embargo, las ruedas traseras del remolque salieron de la vía de comunicación terrestre en el ŽP de tal modo que la parte trasera del remolque invadía el perfil de paso de la vía. El conductor intentó salir, pero las ruedas del tractor patinaban sobre la superficie helada. Tras escuchar la alerta acústica del PŽŽ P509, intentó, acelerando, volver a salir con el NA del ŽP, pero sin éxito. A continuación, detectó un tren que llegaba y pitaba desde la izquierda.
-El tren Os 7947 estaba compuesto por una unidad automotora de la serie 814/914. El maquinista del tren Os 7947 salió de la estación de Čimelice a las 9:18 h. Según su declaración, tras pasar bajo el puente carretero (nota DI: carretera de clase I n.º 4), al circular por un arco a la izquierda, observó que el remolque de un NA, que no se movía, invadía el espacio del ŽP P509. El maquinista activó la frenada de acción rápida, la bocina, se agachó junto al asiento y esperó el impacto. A continuación, se produjo la colisión del frontal del tren Os 7947 contra la parte trasera del remolque. Como consecuencia de la colisión, el NA se giró unos 170°, el frontal de la HDV del tren Os 7947 quedó considerablemente dañado, el ŘV descarriló con un bogie y quedó considerablemente dañado en el lado izquierdo en el sentido de la marcha. Como consecuencia de la colisión, una parte de la carga del remolque del NA fue expulsada y quedó encajonada bajo el NA.
-El conductor del NA, el maquinista del tren Os 7947, el revisor de tren y 3 pasajeros sufrieron lesiones.
-### 3.2.2 Secuencia de hechos desde la producción del suceso extraordinario hasta la finalización de las acciones de los servicios de emergencias
+### 3.2 Descripción factual del suceso
+### 3.2.1 Secuencia de hechos que condujeron al suceso excepcional
+El conductor del NA se dirigía desde Francia a una empresa fabricante en la zona industrial de Písek. En territorio de la República Checa inició la marcha el 18. 1. 2023 a las 6:08 h, tras un descanso de 11 h 43 min. Según su declaración, utilizaba la navegación durante la marcha, ya que no conocía el trayecto hasta el destino de la carga. De los datos registrados del localizador GPS del NA se desprende que el conductor abandonó la vía de comunicación terrestre – carretera de clase I n.º 4 (que va desde Praga hacia el suroeste de Bohemia) – hacia la vía de comunicación terrestre de clase III n.º 00420 en dirección a la localidad de Nerestce. A continuación giró a la izquierda hacia una vía de comunicación terrestre provisional sin pavimentar destinada únicamente al tráfico y a la ejecución de trabajos de construcción en el marco de la construcción de la autopista D4, tramo Čimelice – Mirotice, que estaba señalizada con la señal de tráfico B1 «Prohibido el paso de todos los vehículos» con la placa adicional E13 con el texto «EXCEPTO VEHÍCULOS DE LA OBRA». Tras recorrer la vía sin pavimentar, continuó por la vía de comunicación terrestre de clase III n.º 00421 contigua, cruzó el puente de piedra sobre el río Skalice y continuó por la vía de comunicación terrestre de clase III n.º 00421a, que cruza la vía férrea de ámbito nacional Zdice – Protivín a través del PdP P509. Antes del PdP, esta vía de comunicación terrestre estaba señalizada con la señal de tráfico IP 10a «Vía de comunicación terrestre sin salida». Tras pasar el PdP, el conductor continuó la marcha por la vía de comunicación terrestre en una curva a la izquierda y en el horizonte comprobó que la vía de comunicación terrestre de clase III n.º 00421a estaba señalizada con la señal de tráfico B1 «Prohibido el paso de todos los vehículos» con la placa adicional E13 con el texto «EXCEPTO VEHÍCULOS DE LA OBRA» y estaba interrumpida por la construcción de los cimientos de un nuevo puente (véase la fig. n.º 4).
+El conductor del NA, según su declaración, fotografió el lugar al que le había dirigido la navegación y envió la foto a la central de su transportista. A continuación marchó hacia atrás con el NA hasta el PdP, donde quería, tras cruzarlo, esperar las siguientes instrucciones de su despachador sobre por dónde debía continuar la marcha. Sin embargo, las ruedas traseras del remolque se salieron de la vía de comunicación terrestre en el PdP de tal manera que la parte trasera del remolque invadía el perfil de paso de la vía. El conductor intentó salir, pero las ruedas de la tractora patinaban sobre la superficie helada. Tras oír la alarma sonora del PdP P509, intentó con el acelerador volver a salir con el NA del PdP, pero sin éxito. A continuación registró un tren que se aproximaba y pitaría por el lado izquierdo.
+El tren Os 7947 estaba compuesto por una unidad motorizada de la serie 814/914. El maquinista del tren Os 7947 salió de la estación de Čimelice a las 9:18 h. Según su declaración, tras pasar el puente carretero (nota DI: carretera de clase I n.º 4), al circular por un arco a la izquierda observó que el remolque del NA, que no se movía, invadía el espacio del PdP P509. El maquinista activó el frenado de acción rápida, la bocina, se agachó junto al asiento y esperó el impacto. A continuación se produjo la colisión del frontal del tren Os 7947 con la parte trasera del remolque. Como consecuencia de la colisión, el NA giró unos 170°, el frontal de la locomotora del tren Os 7947 quedó considerablemente dañado, el RV descarriló con un bogie y quedó considerablemente dañado en el lado izquierdo en el sentido de la marcha. Del remolque del NA fue expulsada como consecuencia de la colisión parte de la carga, que quedó encajada bajo el NA.
+El conductor del NA, el maquinista del tren Os 7947, el revisor del tren y 3 pasajeros sufrieron lesiones.
+### 3.2.2 Secuencia de hechos desde la producción del suceso excepcional hasta la finalización de las acciones de los servicios de rescate
 •
 9:25 h
-notificación de la producción del MU por parte del maquinista del tren Os 7947 al jefe de estación de la estación de Březnice DOZ Jih;
+comunicación de la producción del SE por parte del maquinista del tren Os 7947 al jefe de estación de la estación de Březnice DOZ Jih;
 •
 9:26 h
-notificación de la producción del MU por parte del jefe de estación de la estación de Březnice DOZ Jih al jefe
-
+comunicación de la producción del SE por parte del jefe de estación de la estación de Březnice DOZ Jih al jefe de
 
 ## Página 27
 
-despachador del CDP Praga – OŘP para el área de Praga y, a continuación, conforme al plan de notificación, al IZS;
+al despachador CDP Praha – OŘP para el área de Praga y posteriormente según el horario de notificación al IZS;
 •
 9:33 h
-información sobre la producción del MU por parte del jefe de estación de la estación de Březnice DOZ Jih al maquinista del tren R 1164, que debía cruzarse con el tren Os 7947 en la estación de Mirovice;
+información sobre la creación de la MU al jefe de estación de la estación de Březnice DOZ Jih del maquinista del tren R 1164, que debía cruzar con el tren Os 7947 en la estación de Mirovice;
 •
 9:33 h
-notificación de la producción del MU por parte del jefe despachador del CDP Praga – OŘP para el área de Praga al O18 SŽ;
+notificación de la creación de la MU por el jefe de despachadores CDP Praha – OŘP para el área de Praga a O18 SŽ;
 •
 9:36 h
-notificación de la producción del MU por parte de la persona autorizada del O18 SŽ en el COP DI y concesión de la autorización para liberar la vía por parte del inspector del COP DI sobre la base de la información notificada inicialmente (MU sin lesiones, sin descarrilamiento, daños de 500 mil CZK);
+notificación de la creación de la MU por la persona autorizada de O18 SŽ a COP DI y concesión del permiso para liberar la vía por el inspector de COP DI sobre la base de la información notificada inicialmente (MU sin heridos, sin descarrilamiento, daños de 500 mil CZK);
 •
-9:49 h‍
-la persona autorizada del O18 SŽ en el COP DI completó la notificación inicial con el hecho de que se había producido el descarrilamiento del tren y 2 lesiones leves (autorización para liberar la vía mantenida);
+9:49 h
+la persona autorizada de O18 SŽ en COP DI completó la notificación inicial con el hecho de que se había producido el descarrilamiento del tren y 2 heridos leves (el permiso para liberar la vía se mantuvo);
 •
-11:15 h‍ la persona autorizada del O18 SŽ precisó en el COP DI la notificación del MU con el hecho de que se habían producido lesiones en 4 personas y precisó los daños del transportista y del operador ferroviario (autorización para liberar la vía mantenida);
+11:15 h la persona autorizada de O18 SŽ precisó en COP DI la notificación de la MU con el hecho de que se habían producido heridos en 4 personas y precisó los daños del transportista y del gestor de la vía (el permiso para liberar la vía se mantuvo);
 •
-11:27 h notificación del aumento de los daños en el NA por parte de la persona autorizada del O18 SŽ en el COP DI;
+11:27 h notificación del aumento de los daños a NA por la persona autorizada de O18 SŽ a COP DI;
 •
-11:38 h retirada de la autorización para liberar la vía por parte del inspector del COP DI sobre la base del cambio en el alcance de las consecuencias del MU;
+11:38 h retirada del permiso para liberar la vía por el inspector de COP DI sobre la base del cambio en el alcance de las consecuencias de la MU;
 •
-12:50 h inicio de la inspección del lugar de producción del MU por parte de los empleados del DI;
+12:50 h inicio de la inspección del lugar de la creación de la MU por empleados de DI;
 •
-13:50 h concesión de la autorización para liberar la vía por parte del inspector del DI presente;
+13:50 h concesión del permiso para liberar la vía por el inspector de DI presente;
 •
-18:35 h restablecimiento de la circulación mediante la instrucción a los maquinistas por orden de circular con precaución en el ŽP P509 y el ŽP P508;
+18:35 h restablecimiento del servicio mediante la información a los maquinistas con orden de conducción prudente en ŽP P509 y ŽP P508;
 19. 1. 2023
 •
-13:45 h restablecimiento de la circulación sin restricciones.
-El plan del IZS fue activado en función de la naturaleza del MU. El plan del IZS fue activado a las 9:23 h por un testigo de la construcción de la autopista y, a continuación, a las 9:26, es decir, 6 minutos después de la producción del MU, por el jefe de estación DOZ Jih de la estación de Březnice.
-En el lugar del MU intervinieron los siguientes componentes del IZS:
+13:45 h restablecimiento del servicio sin restricciones.
+El Plan IZS fue activado en función del carácter de la MU. El Plan IZS fue activado a las 9:23 h por un testigo de la obra de la autopista y posteriormente a las 9:26, es decir, 6 minutos después de la creación de la MU, por el jefe de estación DOZ Jih de la estación de Březnice.
+En el lugar de la MU intervinieron los siguientes componentes del IZS:
 •
 PČR, KŘ policía de la región de Bohemia del Sur, ÚO Písek, Inspección de Tráfico de Písek;
 •
@@ -916,7 +924,7 @@ PČR, KŘ policía de la región de Bohemia del Sur, ÚO Písek, Departamento de
 •
 PČR, KŘ policía de la región de Bohemia del Sur, ÚO Písek, Departamento de Criminalidad General de Písek;
 •
-Servicio de Emergencias Sanitarias de la región de Bohemia del Sur, Bases de Salida de Čimelice y Blatná;
+Servicio de Emergencias Sanitarias de la región de Bohemia del Sur, Bases de salida de Čimelice y Blatná;
 •
 Servicio de Rescate Aéreo, estación de Bechyně;
 •
@@ -924,9 +932,10 @@ HZS SŽ, Unidad de Protección contra Incendios de České Budějovice y Plzeň;
 •
 HZS de la región de Bohemia del Sur, Estación de Bomberos de Písek;
 •
-Unidad del cuerpo de bomberos voluntarios de la localidad de Mirovice.
+Unidad del cuerpo de bomberos voluntarios del municipio de Mirovice.
 
 ## Página 28
+
 
 ### 4 ANÁLISIS DEL SUCESO
 ### 4.1 Tareas y obligaciones
@@ -942,8 +951,8 @@ En la investigación no se constató infracción de las tareas y obligaciones de
 ### 4.1.4 Autoridades nacionales de seguridad y Agencia Ferroviaria de la Unión Europea
 La autoridad nacional de seguridad es la Oficina Ferroviaria, que de acuerdo con la ley núm. 266/1994 Sb. es una autoridad administrativa dependiente del Ministerio de Transporte. Su función es, en particular, el ejercicio de la supervisión estatal en materia de infraestructura ferroviaria y en materia de autoridad de construcción, el ejercicio de la autoridad de construcción especial para obras de la vía férrea y obras sobre la vía férrea, la aprobación de nuevos
 
-
 ## Página 29
+
 
 y modernizados vehículos ferroviarios y dispositivos técnicos designados, así como la tramitación de infracciones. La Oficina Ferroviaria tiene la obligación de comunicar, en un plazo de 12 meses desde la fecha de publicación del informe final que contenga las recomendaciones de seguridad dirigidas a la misma, a la Inspección Ferroviaria qué medida ha adoptado en relación con dicha recomendación de seguridad; esta comunicación se realiza de forma regular, al menos una vez al año, hasta la adopción de las medidas correspondientes.
 La función de la Agencia Ferroviaria de la Unión Europea es, además de garantizar, en el marco de sus competencias, que se mantenga y, en la medida de lo posible, se aumente de forma sistemática la seguridad de los ferrocarriles, entre otras, la emisión, renovación, suspensión y modificación de certificados únicos de seguridad, la limitación de su vigencia o su cancelación, en cuestión en la que coopera con las autoridades nacionales de seguridad; asimismo, emite autorizaciones para la comercialización de vehículos ferroviarios y tipos de vehículos, y está facultada para renovar, modificar, suspender o cancelar las autorizaciones que haya emitido. La Agencia evalúa asimismo los proyectos de normativa nacional, etc.
@@ -955,64 +964,61 @@ En la investigación no se constató infracción de las tareas y obligaciones de
 ### 4.1.7 Cualquier otra persona o entidad
 Los usuarios de la carretera deben, de acuerdo con lo dispuesto en la ley núm. 361/2000 Sb., entre otras cosas, comportarse con especial precaución antes del PNP. En particular, no deben detenerse ni estacionar en el paso a nivel ni a una distancia inferior a 15 m antes y después del mismo, ni dar marcha atrás ni girar en el PNP ni en su inmediata cercanía. En caso de detención en el PNP, el vehículo debe retirarse de manera que no invada el gálibo de la vía; si esto no es posible, debe garantizarse la advertencia a las personas que conducen el DV. La DI, en el marco de la investigación, se centró también en el comportamiento del usuario de la carretera, concretamente en el conductor del NA. La PČR evaluó los datos del dispositivo de registro del tacógrafo del NA y del localizador GPS (véase fig. n.º 6). Del análisis de ambos registros se desprende que el conductor del NA abandonó la carretera –la carretera de clase I n.º 4– girando a la derecha hacia la carretera de clase III n.º 00420 y, acto seguido, a la izquierda hacia una carretera provisional sin pavimentar destinada a garantizar el tráfico y a la ejecución de obras de construcción en el marco de la construcción de la autopista D4 en el tramo Čimelice – Mirotice, señalizada con la señal vertical B1 «Prohibido el paso de todos los vehículos (en ambos sentidos)» con la placa complementaria E13 «Texto o símbolo» con el texto «EXCEPTO VEHÍCULOS DE OBRA». Tras recorrer la carretera sin pavimentar, continuó por un puente de piedra hacia el PNP P509. En ese momento, según la declaración del conductor y el análisis del archivo de la PZZ, en la PZZ brillaba una luz blanca intermitente. A continuación, continuó la marcha a través del PNP P509 por la carretera de clase III n.º 00421a en una curva a la izquierda en ligera pendiente y a las 9:17:01 h se detuvo ante la señal de tráfico B1 «Prohibido el paso de todos los vehículos (en ambos sentidos)» con la placa complementaria E13 «Texto o símbolo» con el texto
 
-
 ## Página 30
 
-«EXCEPTO VEHÍCULOS DE OBRA». Detrás de esta señalización de tráfico, a unos 20 m, la carretera de clase III n.º 00421a quedaba interrumpida por la obra.
-El conductor del NA, según su declaración, comenzó a dar marcha atrás en dirección al PNP P509. Durante esta maniobra, la parte trasera del remolque salió de la carretera de manera que invadía el gálibo de la vía. El conductor intentó salir de la vía, pero las ruedas de la tractora patinaban. En el momento en que escuchó la señalización acústica de aviso de la PZZ P509, aceleró repetidamente, pero no logró salir de la vía.
-Fig. n.º 6: Registro de la marcha del NA desde el localizador GPS
+„MIMO VOZIDEL STAVBY“. Tras esta señalización de tráfico, aproximadamente a 20 m, la vía de comunicación terrestre de clase III n.º 00421a quedaba interrumpida por la obra.
+El conductor NA, según su declaración, comenzó a retroceder en dirección a la PdP P509. Durante esta maniobra, la parte trasera del remolque salió de la vía de comunicación terrestre de manera que invadía el perfil de paso de la vía. El conductor intentó salir de la vía, pero las ruedas de la tractora patinaban. En el momento en que escuchó la señalización acústica de aviso de la PZZ P509, aceleró repetidamente, pero no logró salir de la vía.
+Fig. n.º 6: Registro de la marcha de NA desde el localizador GPS
 Fuente: PČR
-Del análisis del detalle del tacógrafo del NA se constató:
+Del análisis del detalle de la ficha del tacógrafo de NA se constató lo siguiente:
 | • 9:15:17 h – | marcha a velocidad constante de 5 a 7 km·h-1 ; |
-| • 9:17:01 h – | detención ante la señal de tráfico B1 «Prohibido el paso de todos los vehículos» antes de la interrupción de la carretera de clase III n.º 00421a; . . . |
-| • 9:17:25 h 9:18:14 h – | inicio de la marcha atrás a una velocidad de 1 a 3 km·h-1 y detención posterior; |
-| • 9:18:48 h 9:19:24 h – | marcha a una velocidad de 2 a 9 km·h-1 y detención posterior (corresponde a la marcha atrás); |
-
+| • 9:17:01 h – | detención ante la señalización de tráfico B1 Prohibido el paso de todos los vehículos” „ antes de la interrupción de la vía de comunicación terrestre de clase III n.º 00421a; . . . |
+| • 9:17:25 h 9:18:14 h – | inicio de la marcha atrás a velocidad de 1 a 3 km·h-1 y posterior detención; |
+| • 9:18:48 h 9:19:24 h – | marcha a velocidad de 2 a 9 km·h-1 y posterior detención (corresponde a la marcha atrás); |
 
 ## Página 31
 
-| • 9:19:34 h 9:19:54 h – | velocidad de 1 a 9 km·h-1 (corresponde al patinaje de las ruedas) y descenso posterior a 0 km·h-1 ; |
-| • 9:20:03 h 9:20:12 h – | velocidad de 1 a 7 km·h-1 (corresponde al patinaje de las ruedas) y descenso posterior a 0 km·h-1 ; |
-| • 9:20:13 h – | velocidad de 1 a 7 km·h-1 (corresponde al patinaje de las ruedas) y descenso posterior a 0 km·h-1 ; |
-| • 9:20:30 h – | aumento de la velocidad a 12 km·h-1 (corresponde al patinaje de las ruedas); |
-| • 9:20:36 h – | velocidad de 0 km·h-1 . |
-Nota: el sensor del tacógrafo del NA está conectado a la caja de cambios y registra las revoluciones del eje que sale de la caja de cambios hacia el eje motriz.
-El conductor del NA, según su declaración y también según el detalle del registro de velocidad del vehículo, intentó retirar el vehículo fuera de la vía férrea.
-### Constatación:
-En la investigación se constató infracción de la normativa legal relativa a las tareas y obligaciones del usuario de la carretera –el conductor del camión– en relación con el tráfico ferroviario, en   relación causal
-### con la aparición del MU:
+| • 9:19:34 h 9:19:54 h – | velocidad de 1 a 9 km·h-1 (corresponde al derrape de las ruedas) y posterior descenso a 0 km·h-1 ; |
+| • 9:20:03 h 9:20:12 h – | velocidad de 1 a 7 km·h-1 (corresponde al derrape de las ruedas) y posterior descenso a 0 km·h-1 ; |
+| • 9:20:13 h – | velocidad de 1 a 7 km·h-1 (corresponde al derrape de las ruedas) y posterior descenso a 0 km·h-1 ; |
+| • 9:20:30 h – | aumento de la velocidad a 12 km·h-1 (corresponde al derrape de las ruedas); |
+| • 9:20:36 h – | velocidad 0 km·h-1 . |
+Nota: el sensor del tacógrafo NA está conectado a la caja de cambios y mide las revoluciones del eje que sale de la caja de cambios hacia el eje motriz.
+El conductor de NA, según su declaración y también según el detalle del extracto de velocidad del vehículo, se esforzó por retirar el vehículo fuera de la vía férrea.
+### Hallazgos:
+En la investigación se constató la infracción de las disposiciones legales relativas a las funciones y obligaciones del usuario de la vía pública – el conductor del camión – en relación con el tráfico ferroviario, en relación causal
+### con la aparición de MU:
 •
-§ 6 apartado 3 de la ley núm. 266/1994 Sb.:
-«En el cruce de la vía férrea con las carreteras a nivel de las vías, el tráfico ferroviario tiene prioridad sobre el tráfico en las carreteras.»;
+§ 6 apartado 3 de la Ley núm. 266/1994 Sb.:
+«En el cruce de la vía férrea con las vías públicas a nivel de las vías, el transporte ferroviario tiene prioridad sobre el tráfico en las vías públicas.»;
 •
-§ 24 apartado 4 letra e) de la ley núm. 361/2000 Sb.:
-«El conductor no debe girar ni dar marcha atrás en el paso a nivel ni en su inmediata cercanía,»;
+§ 24 apartado 4 letra e) de la Ley núm. 361/2000 Sb.:
+«El conductor no puede girar ni marcha atrás en un paso a nivel ferroviario ni en su proximidad inmediata,»;
 •
-§ 27 apartado 1 letra g) de la ley núm. 361/2000 Sb.:
-«El conductor no debe detenerse ni estacionar en el paso a nivel, en el paso inferior ni en el túnel, ni a una distancia inferior a 15 m antes y después de los mismos,»..;
+§ 27 apartado 1 letra g) de la Ley núm. 361/2000 Sb.:
+«El conductor no puede detenerse ni estacionar en un paso a nivel ferroviario, en un paso inferior ni en un túnel, ni a una distancia inferior a 15 m antes ni después de ellos,»..;
 •
-§ 28 apartado 1 de la ley núm. 361/2000 Sb.:
-«Antes del paso a nivel, el conductor debe comportarse con especial precaución, en particular debe comprobar si puede cruzar el paso a nivel de forma segura.»;
+§ 28 apartado 1 de la Ley núm. 361/2000 Sb.:
+«Ante un paso a nivel ferroviario, el conductor debe actuar con especial precaución, en particular debe comprobar si puede cruzar el paso a nivel ferroviario de forma segura.»;
 •
-§ 28 apartado 4 de la ley núm. 361/2000 Sb.:
-«Si el vehículo se detiene en el paso a nivel, su conductor debe retirar el vehículo fuera de la vía férrea y, si no puede hacerlo, debe adoptar de inmediato todas las medidas necesarias para que los conductores de vehículos sobre raíles sean advertidos del peligro a tiempo.»
-En virtud de los requisitos de la empresa DIVIa stavební s.r.o. para la ejecución de obras de construcción en el marco de la construcción de la autopista D4 en el tramo Čimelice – Mirotice (denominada también solicitante del cierre), la autoridad administrativa de carreteras competente, el MěÚ Písek, departamento de tráfico, de acuerdo con lo dispuesto en la ley núm. 13/1997 Sb., emitió mediante un «Decreto público: Resolución sobre la autorización del cierre y orden de la desviación» para el período del 14. 3. 2022 al 31. 12. 2024. Se trataba del cierre total de la carretera de clase III n.º 00421 desde la intersección con la carretera de clase III n.º 00420 hasta
-
+§ 28 apartado 4 de la Ley núm. 361/2000 Sb.:
+«Si el vehículo se detiene en un paso a nivel ferroviario, su conductor debe retirar el vehículo fuera de la vía férrea y, si no puede hacerlo, debe actuar de inmediato para que los conductores de los vehículos sobre raíles sean advertidos del peligro a tiempo.»
+En virtud de las solicitudes de la empresa DIVIa stavební s.r.o. para la realización de las obras de construcción en el marco de la construcción de la autopista D4 en el tramo Čimelice – Mirotice (también solicitante del cierre), la autoridad administrativa de carreteras competente, MěÚ Písek, departamento de transporte, de conformidad con lo dispuesto en la Ley núm. 13/1997 Sb., emitió mediante un «Edicto Público» el «Decisión de autorización de cierre y orden de desvío» para el período del 14. 3. 2022 al 31. 12. 2024. Se trataba del cierre total de la vía pública de clase III núm. 00421 desde el cruce con la vía pública de clase III núm. 00420 hasta
 
 ## Página 32
 
-la intersección con la vía local antes del puente sobre el río Skalice, y del cierre total de la carretera de clase III n.º 00421a desde la intersección con la carretera –carretera de clase I n.º 4– antes del PNP ev. n.º 00421a-1 (nota DI: PNP P509). Con dicha resolución, el MěÚ Písek impuso al solicitante del cierre las condiciones para la colocación y ejecución de la regulación temporal del tráfico, entre otras:
+cruce con una vía local antes del puente sobre el río Skalice y el cierre total de la vía terrestre de clase III n.º 00421a desde el cruce con la vía terrestre – carretera de clase I n.º 4 antes del ŽP ev. n.º 00421a-1 (nota DI: ŽP P509). Con esta decisión, el MěÚ Písek impuso al solicitante del cierre las condiciones para la colocación y ejecución de la regulación temporal del tráfico, entre otras:
 •
-«Durante el período de cierre autorizado por la presente resolución, coloque en las carreteras afectadas una regulación temporal del tráfico de acuerdo con el esquema DIO: "Cierre total de la carretera III/00421 y III/00421a en la localidad de Nerestce" de febrero de 2022 ... (véase fig. 7);
+«Durante el cierre autorizado por la presente decisión, coloque en las vías terrestres afectadas una regulación temporal del tráfico de acuerdo con el plano DIO: "Cierre total de la vía III/00421 y III/00421a en el municipio de Nerestce" de febrero de 2022 ... (véase fig. 7);
 •
-El solicitante es plenamente responsable del estado y de la colocación de la señalización de tráfico establecida. La persona responsable del solicitante está obligada a realizar al menos una vez al día, antes de las 08:00 h de la mañana, una inspección física de los mismos y a registrar la hora y el resultado de dicha inspección (por ejemplo, en el diario de obra o de trabajo), así como a garantizar de inmediato la corrección de los defectos que se hayan detectado;
+El solicitante es plenamente responsable del estado y la colocación de la señalización vial establecida. La persona responsable del solicitante está obligada a realizar, al menos una vez al día antes de las 08:00 horas de la mañana, una inspección física de la misma y a registrar la hora y el resultado de dicha inspección (por ejemplo, en el diario de obra o de trabajo), así como a subsanar sin demora las posibles anomalías detectadas;
 •
-El solicitante del cierre es responsable en su totalidad del desarrollo de los cierres de las carreteras.»
-Fig. n.º 7: Medida de ingeniería de tráfico – establecimiento de la regulación temporal del tráfico
+El solicitante del cierre es responsable del desarrollo del cierre de las vías terrestres en su totalidad.»
+Fig. n.º 7: Medida de ingeniería del tráfico – establecimiento de la regulación temporal del tráfico
    Fuente: MěÚ Písek
 
-
 ## Página 33
+
 
 Del examen del lugar del MU inmediatamente después de su aparición se constató que, en contradicción con la Resolución del MěÚ Písek (DIO), en lugar del dispositivo de tráfico Z2 «Barrera para la señalización del cierre», que de acuerdo con el Anexo n.º 10 de la ordenanza núm. 294/2015 Sb. se utiliza principalmente para delimitar el cierre total de una carretera o para delimitar el recinto de una zona de trabajo, se utilizó el dispositivo de tráfico Z4a y Z4b «Placa direccional» (con franjas oblicuas inclinadas a la derecha/izquierda), que solo dirigen el tráfico en el sentido de la inclinación de las franjas oblicuas (véanse las figs. n.º 8 y 10).
 Fig. n.º 8: Dispositivo de tráfico
@@ -1024,6 +1030,7 @@ Del examen del lugar del MU se constató asimismo que, en contradicción con la 
 
 ## Página 34
 
+
 pk 0,340 carretera de tercer orden n.º 00421a, es decir, inmediatamente después del PE P509, pero a una distancia de 70 m tras el PE (véanse las figuras n.º 10 y 11).
 Los hallazgos indicados no pueden valorarse en relación causal con la aparición de la AM, ya que el conductor del VNA fue advertido por la señalización vial restante con suficiente antelación antes del PE P509 del cierre de la carretera.
 Fig. n.º 10: Señalización vial inmediatamente después de la aparición de la AM
@@ -1031,57 +1038,42 @@ Fig. n.º 10: Señalización vial inmediatamente después de la aparición de la
 Fig. n.º 11: Señal vial B1 «Prohibido el paso de todo tipo de vehículos»
     Fuente: DI
 
-
 ## Página 35
 
 ### Hallazgos:
-En la investigación se detectó el incumplimiento de normativa legal relativa a las funciones y obligaciones del solicitante del cierre en relación con el tráfico en la carretera, al margen de la relación causal con la
-### aparición de la AM:
+En la investigación se constató la infracción de la normativa relativa a las funciones y obligaciones del solicitante de la cierre de la vía en relación con el tráfico en la vía pública, al margen de la relación causal con
+### la aparición del MU:
 •
-§ 24 apart. 7 de la Ley n.º 13/1997 Sb.:
-«El cierre y el desvío deben señalizarse de la forma prescrita. La señalización
-corresponde al solicitante del cierre y del desvío, a su costa, y responde de su
-estado durante la vigencia del cierre y del desvío»;
+§ 24 apartado 7 de la Ley núm. 13/1997 Sb.:
+«El cierre y el desvío deben señalizarse de la manera prescrita. La señalización
+corresponde al solicitante del cierre y del desvío a su costa y responde de su
+estado durante la duración del cierre y del desvío»;
 •
-punto 2 de las condiciones vinculantes de la Resolución del Ayuntamiento de Písek:
-«El ámbito del cierre de los tramos de las carreteras n.º III/00421 y III/00421a
+punto 2 de las condiciones vinculantes de la Decisión del Ayuntamiento de Písek:
+«El espacio del cierre de los tramos de las carreteras núm. III/00421 y III/00421a
 debe corresponder al trazado del plano de la medida de ingeniería de tráfico
-(DIO) «Cierre total de la carretera III/00421 y III/00421a en la localidad de
-Nerestce» de febrero de 2022 ...».
-A raíz de la advertencia de la DI, el Ayuntamiento de Písek requirió al solicitante del cierre el cumplimiento de las Condiciones para la colocación y ejecución de la regulación temporal del tráfico establecidas en la «Resolución de autorización del cierre y ordenación del desvío»:
+(DIO) "Cierre total de la carretera III/00421 y III/00421a en la localidad de
+Nerestce" de febrero de 2022 ...».
+Sobre la base de la advertencia del DI, el Ayuntamiento de Písek requirió al solicitante del cierre que cumpliera las Condiciones para la colocación y ejecución de la regulación temporal del tráfico establecidas en la «Decisión de autorización del cierre y orden del desvío»:
 •
-«obligación de realizar al menos 1 vez al día, antes de las 8:00 h de la mañana,
-una inspección física de la señalización vial temporal establecida;
+«obligación de realizar al menos 1 vez al día, antes de las 8:00 h de la mañana, una inspección física de la señalización de tráfico temporal establecida;
 •
-registrar la hora y el resultado de la inspección (p. ej., en el diario de obra o
-en el diario de trabajo);
+registrar la hora y el resultado de la inspección (p. ej., en el diario de obra o en el diario de trabajo);
 •
-proceder sin dilación a la corrección de las posibles anomalías detectadas.»
-El conductor del VNA no respetó la señal vial prohibitiva B1 «Prohibido el paso de todo tipo de vehículos (en ambos sentidos)» con el panel complementario E13 «Texto o símbolo» con el texto «EXCEPTO VEHÍCULOS DE OBRA» en una carretera provisional no pavimentada.
+proceder sin dilación a la corrección de las posibles anomalías detectadas».
+El conductor de NA no respetó la señal de tráfico prohibitiva B1 «Prohibido el paso de todos los vehículos (en ambos sentidos)» con el panel complementario E13 «Texto o símbolo» con el texto «EXCEPTO VEHÍCULOS DE OBRA» en una vía pública provisional no pavimentada.
 ### Hallazgos:
-En la investigación se detectó el incumplimiento de normativa legal relativa a las funciones del participante en el tráfico por carretera – el conductor del VNA – en relación con el tráfico en la carretera, al margen de la
-### relación causal con la aparición de la AM:
+En la investigación se constató la infracción de la normativa relativa a las funciones del participante en el tráfico por carretera – el conductor de NA – en relación con el tráfico en la vía pública, al margen de la
+### relación causal con la aparición del MU:
 •
-§ 4 letra a) de la Ley n.º 361/2000 Sb.:
-«Al participar en el tráfico en las carreteras, todo el mundo está obligado a
-comportarse de manera considerada y disciplinada, de modo que con su
-conducta no ponga en peligro la vida, la salud o el patrimonio de otras personas
-ni el propio, que no dañe el medio ambiente ni ponga en peligro la vida de los
-animales, y está obligado a adaptar su comportamiento, en particular, al estado
-constructivo y técnico del tráfico de la carretera, a las condiciones
-meteorológicas, a la situación del tráfico en las carreteras, a sus capacidades y
-a su estado de salud,»;
+§ 4 letra a) de la Ley núm. 361/2000 Sb.:
+«Al participar en el tráfico en las vías públicas, todo el mundo está obligado a comportarse con consideración y disciplina, de modo que con su conducta no ponga en peligro la vida, la salud o el patrimonio de otras personas ni el suyo propio, que no dañe el medio ambiente ni ponga en peligro la vida de los animales, y está obligado a adaptar su comportamiento especialmente al estado constructivo y técnico del tráfico de la vía pública, a las condiciones meteorológicas, a la situación del tráfico en las vías públicas, a sus capacidades y a su estado de salud»;
 •
-§ 4 letra b) de la Ley n.º 361/2000 Sb.:
-«Al participar en el tráfico en las carreteras, todo el mundo está obligado a
-ajustarse a las normas de tráfico en las carreteras reguladas por la presente
-ley, a las instrucciones de los agentes de policía, a las instrucciones de las
-personas autorizadas a dirigir el tráfico en las carreteras de acuerdo con el
-§ 75 apart. 5, 8 y 9 y a la detención de vehículos de acuerdo con el § 79
-apart. 1, y a las instrucciones de las personas,
-
+§ 4 letra b) de la Ley núm. 361/2000 Sb.:
+«Al participar en el tráfico en las vías públicas, todo el mundo está obligado a regirse por las normas de tráfico en las vías públicas reguladas por la presente ley, por las instrucciones del agente de policía, por las instrucciones de las personas autorizadas a dirigir el tráfico en las vías públicas de acuerdo con el § 75 apartados 5, 8 y 9 y por las instrucciones de las personas,»
 
 ## Página 36
+
 
 sobre las que lo establezca una normativa legal específica, emitidas para
 garantizar la seguridad y la fluidez del tráfico en las carreteras,»;
@@ -1108,8 +1100,8 @@ En la investigación no se detectaron otros factores relacionados con los vehíc
 ### 4.3.1 Características humanas e individuales
 En la investigación no se detectaron factores relacionados con la formación profesional de los empleados, el estado de salud y la situación personal, incluido el estrés físico y psicológico.
 
-
 ## Página 37
+
 
 ### 4.3.2 Factores laborales
 En la investigación no se detectaron factores relacionados con el contenido del puesto de trabajo o la jornada laboral de los empleados. En la investigación no se detectó, en los empleados implicados, el incumplimiento de las condiciones de descanso antes del turno y de los descansos, respectivamente, del tiempo adecuado para el descanso y la alimentación durante el turno.
@@ -1142,31 +1134,45 @@ art. 9.2.3 de la TP 169:
 principios relativos a la utilización y colocación de las placas indicadoras son
 idénticos a los del art. 9.2.2».
 
-
 ## Página 38
 
-### 4.4 Mecanismos de retroalimentación y mecanismos de control, incluida la gestión de riesgos
-y la garantía de seguridad, y procedimientos de seguimiento
-4.4.1 Condiciones pertinentes del marco regulatorio
-Las condiciones pertinentes del marco regulatorio están establecidas en los Reglamentos de la Unión Europea, en la Ley n.º 266/1994 Sb. y en los decretos de desarrollo.
-4.4.2 Procedimientos, métodos, contenido y resultados de las actividades de evaluación de riesgos y de seguimiento realizadas por cualquiera de los sujetos implicados
-En los procedimientos, métodos, contenido y resultados de las actividades de evaluación de riesgos y de seguimiento, relacionados con las circunstancias de la aparición de la AM en cuestión, no se detectaron deficiencias.
+### 4.4 Mecanismos de retroalimentación y mecanismos de control, incluida la gestión de riesos
+y la garantía de seguridad, y los procedimientos de seguimiento
+### 4.4.1 Condiciones pertinentes del marco regulatorio
+Las condiciones pertinentes del marco regulatorio están establecidas en los Reglamentos de la Unión Europea,
+en la Ley n.º 266/1994 Sb. y en los decretos de aplicación.
+4.4.2 Procedimientos, métodos, contenido y resultados de las actividades de evaluación de riesgos y de seguimiento que
+realiza cualquiera de los sujetos implicados
+En los procedimientos, métodos, contenido y resultados de las actividades de evaluación de riesgos y de seguimiento,
+relacionados con las circunstancias de la aparición de la MU en cuestión, no se detectaron deficiencias.
 ### 4.4.3 Sistema de garantía de seguridad de los transportistas y gestores de infraestructura implicados
-En el sistema de seguridad del gestor de infraestructura y en el sistema de garantía de seguridad del transporte ferroviario del transportista, relacionados con las circunstancias de la aparición de la AM en cuestión, no se detectaron deficiencias.
-### 4.4.4 Sistema de gestión de los sujetos responsables del mantenimiento de los vehículos ferroviarios y de los talleres de mantenimiento
-El sistema de gestión de los sujetos responsables del mantenimiento de los vehículos ferroviarios y de los talleres de mantenimiento no guardaba relación con la aparición de la AM.
+En el sistema de seguridad del gestor de infraestructura y en el sistema de garantía de seguridad del transporte
+ferroviario del transportista, relacionados con las circunstancias de la aparición de la MU en cuestión, no se detectaron
+deficiencias.
+### 4.4.4 Sistema de gestión de los sujetos responsables del mantenimiento del material rodante ferroviario
+y de los talleres de mantenimiento
+El sistema de gestión de los sujetos responsables del mantenimiento del material rodante ferroviario y de los talleres de mantenimiento
+no guardaba relación con la aparición de la MU.
 ### 4.4.5 Resultados de la supervisión realizada por las autoridades nacionales de seguridad
-Atendiendo a los factores detectados y a las circunstancias de la aparición de la AM, la supervisión de la autoridad de seguridad no guarda relación con la AM en cuestión.
-### 4.4.6 Aprobaciones, certificados y dictámenes de evaluación emitidos por la agencia, las autoridades nacionales de seguridad u otros sujetos de evaluación de la conformidad
-El gestor de infraestructura explotó la infraestructura al amparo de la autorización administrativa vigente y del certificado de seguridad del gestor de infraestructura. El transportista explotó el transporte ferroviario al amparo de la licencia vigente y del certificado del transportista.
+Atendiendo a los factores y circunstancias detectados de aparición de la MU, la supervisión de la autoridad de seguridad
+no guarda relación con la MU en cuestión.
+### 4.4.6 Aprobaciones, certificados y informes de evaluación otorgados por la agencia, las autoridades nacionales
+de seguridad u otros sujetos de evaluación de la conformidad
+El gestor de infraestructura explotaba la infraestructura con base en una autorización administrativa vigente y un certificado
+de seguridad del gestor de infraestructura. El transportista explotaba el transporte ferroviario con base en
+una licencia vigente y un certificado del transportista.
 ### 4.4.7 Otros factores sistémicos
 En la investigación no se detectaron otros factores sistémicos.
 ### 4.5 Sucesos anteriores de naturaleza similar
-La DI investigó las causas y circunstancias, en el período comprendido entre el 1. 1. 2012 y la fecha de aparición de la AM en cuestión, en las infraestructuras ferroviarias de categoría estatal y regional, de 10 AM similares, en las que se produjo la colisión de un tren con un vehículo motorizado por carretera atrapado en un paso a nivel:
+El DI investigó las causas y circunstancias, en el período comprendido entre el 1 de enero de 2012 y la fecha de aparición de la MU en cuestión, en
+las vías ferroviarias, de categoría nacional y regional, de 10 MU análogas, en las que se produjo una
+colisión entre un tren y un vehículo automotor de carretera atrapado en un paso a nivel:
 •
-del 7. 5. 2012 en la estación de Uhersko, donde se produjo la colisión del tren EC 170 con un automóvil en el PE P4897. La causa inmediata de la aparición de la AM fue la temprana
+del 7 de mayo de 2012 en la est. Uhersko, donde se produjo una colisión del tren EC 170 con un
+automóvil en el PN P4897. La causa inmediata de la aparición de la MU fue la oportuna
 
 ## Página 39
+
 
 neodstranění uvázlého osobního automobilu ze železničního přejezdu v době jízdy
 vlaku EC 170;
@@ -1239,8 +1245,8 @@ nivel P4073. La causa inmediata de la aparición del MU fue el atasco del camió
 causado por una avería técnica repentina e inesperada, en el perfil de paso de la vía
 en el paso a nivel y su no retirada antes de la llegada del tren.
 
-
 ## Página 40
+
 
 La Inspección Ferroviaria emitió recomendaciones de seguridad sobre algunos de los
 MU anteriormente mencionados al Ministerio de Transporte de la República Checa en
@@ -1285,8 +1291,8 @@ Systemic factor: none.
 El explotador de la vía SŽ y el transportista ČD no adoptaron ni emitieron ninguna
 medida.
 
-
 ## Página 41
+
 
 ### Measures taken since the occurrence
 The infrastructure manager SŽ and the railway undertaking ČD did not take any measures.
@@ -1330,8 +1336,8 @@ excepcional, la Inspección Ferroviaria no emite recomendaciones de seguridad, y
 que no se han detectado datos que justificasen la emisión de una recomendación de
 seguridad en el marco de la prevención de la aparición de sucesos excepcionales.
 
-
 ## Página 42
+
 
 ### SAFETY RECOMMENDATIONS
 The Rail Safety Inspection Office does not issue a safety recommendation in regard of the

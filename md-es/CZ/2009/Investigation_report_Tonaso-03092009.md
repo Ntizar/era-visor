@@ -10,13 +10,14 @@ chars: 103317
 ratio_longitud: 1.27
 tokens_in: 60768
 tokens_out: 39259
-verificacion: revisar
-notas_cifras: ["bloque 2: original bilingüe: se compara contra el idioma principal (CS)", "bloque 4: original bilingüe: se compara contra el idioma principal (CS)", "bloque 6: original bilingüe: se compara contra el idioma principal (CS)", "bloque 7: original bilingüe: se compara contra el idioma principal (CS)", "bloque 8: original bilingüe: se compara contra el idioma principal (CS)", "bloque 9: original bilingüe: se compara contra el idioma principal (CS)"]
-avisos: ["bloque 6: ratio 1.77", "bloque 7: ratio 1.62", "bloque 12: ratio 1.71", "bloque 13: ratio 1.65", "bloque 15: ratio 1.66"]
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 4: original bilingüe: se compara contra el idioma principal (EN)", "página 5: original bilingüe: se compara contra el idioma principal (PT)", "página 6: original bilingüe: se compara contra el idioma principal (CS)", "página 8: original bilingüe: se compara contra el idioma principal (CS); cifras cortas: 1/13", "página 9: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 Inspección Ferroviaria
 República Checa
@@ -44,11 +45,12 @@ CIF:   75009561
 http://www.dicr.cz
 fax: (+420) 224 805 428
 
-
 ## Página 2
 
 
+
 ## Página 3
+
 
 # RESUMEN
 Grado:
@@ -81,8 +83,8 @@ Organización del trabajo y SGSS – el gestor de la vía lateral incumplió la
 obligación de implantar la formación sistemática del personal de la vía lateral
 Recomendaciones: no emitidas
 
-
 ## Página 4
+
 
 # Índice
  Resumen .........................................................................................................................3
@@ -126,6 +128,7 @@ personas en relación contractual
 
 ## Página 5
 
+
 poměru ...............................................................................................................13
 3.1.2 Otras personas ................................................................................................16
 3.2 Sistema de garantía de la seguridad .....................................................................16
@@ -161,8 +164,8 @@ manejo y uso ...................................................................
 ............................................................................................................................27
 4.2 Análisis ......................................................................................................................28
 
-
 ## Página 6
+
 
 4.2.1 Evaluación de los hechos constatados de acuerdo con el punto 3 y formulación de conclusiones sobre la causa del 
 suceso excepcional y la actuación de los servicios de emergencia ..........................................28
@@ -184,108 +187,64 @@ suceso excepcional, que sin embargo no son relevantes para las conclusiones sobr
  Foto 2: Ensayo de la aguja de la aguja n.º 45 con el calibre de ensayo «6 mm» ..........................35
  Foto 3: Vista general ..................................................................................................35
 
-
 ## Página 7
+
+
 
 ## Página 8
 
 ## 1 RESUMEN
-Clasificación del suceso:
+Grupo del suceso:
 accidente
 Origen del suceso:
-3. 9. 2009, 8:30 horas
+3 de septiembre de 2009, 8:30 horas
 Descripción del suceso:
 descarrilamiento de dos vehículos ferroviarios durante maniobras
-Ferrocarril, lugar:
-ferrocarril – vía privada «Vlečka Tonaso a.s.», enlazada a la 2ª vía
+Vía, lugar:
+vía – apartadero „Vlečka Tonaso a.s.“, enlazado con la 2ª vía
 de tráfico, mediante el desvío n.º 1 en el pk 522,245 entre las
-estaciones ferroviarias de Ústí nad Labem sever y Povrly, pk 0,091, vía n.º 48a
-Intervinientes:
-ESON, s. r. o. (en adelante también operador del ferrocarril – vía privada)
+estaciones de ferrocarril Ústí nad Labem sever y Povrly, pk 0,091, vía n.º 48a
+Participantes:
+ESON, s. r. o. (en adelante también operador de la vía – apartadero)
 con sede en Krakovská 1346/15, 110 01 Praha 1, Nové Město
 ČD Cargo, a. s. (en adelante también transportista)
 con sede en Praha 7, Holešovice, Jankovcova 1569/2c
 Consecuencias:
 el daño total asciende a 115 000,- Kč
-Causas inmediatas: inicio de la maniobra a través de un desvío en la ruta de maniobra que no
-había sido dispuesto para el sentido de circulación previsto, sino para el sentido
-desviado.
+Causas inmediatas: inicio de la maniobra a través del desvío en la ruta de maniobras, que no
+había sido dispuesta para la dirección de circulación prevista, sino para la dirección de desvío.
 Causas fundamentales:
-Las actividades de explotación del ferrocarril y del transporte ferroviario en el
-ferrocarril – vía privada «Vlečka Tonaso a.s.» realizadas durante el servicio de la vía
-privada por el transportista eran ejecutadas por personas no profesionalmente
-competentes, puesto que no habían superado los exámenes profesionales prescritos por
-el operador del ferrocarril – vía privada para dichas actividades, no participaron en la
-formación periódica establecida por este y no se les había acreditado que hubieran sido
-informadas de la Documentación Tecnológica de explotación en el ferrocarril – vía
-privada, elaborada de conformidad con el VPŘ.
+Las actividades de explotación de la vía y del transporte ferroviario en la vía – apartadero
+„Vlečka Tonaso a.s.“ realizadas por el transportista en la explotación del apartadero
+eran llevadas a cabo por personas profesionalmente no competentes, ya que no habían
+superado los exámenes profesionales prescritos por el operador de la vía – apartadero
+para dichas actividades, no participaron en la formación periódica establecida por él
+y no fueron acreditadamente informadas de la Documentación Tecnológica de explotación
+en la vía – apartadero, elaborada de conformidad con el VPŘ.
 Causas en el sistema de seguridad.:
 El transporte ferroviario no fue explotado de conformidad con el contrato n.º 22D/9/2009,
-de explotación del transporte ferroviario en el ferrocarril – vía privada «Vlečka Tonaso
-a.s.», celebrado entre el transportista y el operador del ferrocarril – vía privada, y en
-particular por ignorar la obligación de garantizar la competencia profesional de los
-empleados del transportista de conformidad con dicho contrato, por no elaborar la
-Documentación Tecnológica de explotación en el ferrocarril – vía privada «Vlečka
-Tonaso a.s.» y por no respetar las disposiciones de las normas internas del operador del
-ferrocarril – vía privada.
-Recomend. de seg.:
+de explotación del transporte ferrocarril en la vía – apartadero „Vlečka Tonaso a.s.“,
+celebrado entre el transportista y el operador de la vía – apartadero, y en particular
+mediante la omisión del deber de garantizar la competencia profesional de los empleados
+del transportista de conformidad con dicho contrato, la no elaboración de la Documentación
+Tecnológica de explotación en la vía – apartadero „Vlečka Tonaso a.s.“ y el incumplimiento
+de las disposiciones de las normas internas del operador de la vía – apartadero.
+Recom. de seg.:
 no emitidas
-
 
 ## Página 9
 
-## 2 DATOS RELATIVOS AL SUCESO EXCEPCIONAL
+## 2 DATOS RELATIVOS AL SUCESO EXTRAORDINARIO
 ## 2.1
-### Suceso excepcional
-### 2.1.1 Fecha, hora exacta y lugar del suceso excepcional
-El día 3. 9. 2009 a las 8:30 horas se produjo en el ferrocarril – vía privada «Vlečka
-Tonaso a.s.» (en adelante también vía privada), enlazada a la 2ª vía de tráfico mediante
-el desvío n.º 1 en el pk 522,245 entre las estaciones ferroviarias (en adelante también
-est.) de Ústí nad Labem sever y Povrly, en la vía de vía privada n.º 48a, en el pk
-0,091, el descarrilamiento de dos vehículos ferroviarios (en adelante también VF)
-enganchados al final del tramo de maniobra.
-### 2.1.2 Descripción del suceso excepcional y del lugar del accidente, incluidas las
-actividades del sistema integrado de emergencia y del servicio de rescate
-El transportista, al realizar el servicio de la vía privada tras un acuerdo previo con el
-operador del ferrocarril – vía privada, acopló con el vehículo ferroviario motriz (en
-adelante también VFM) una composición de quince VF, que los maniobradores de la vía
-privada habían formado en la vía n.º 101c, y que por su longitud se extendía a través de la
-vía n.º 101c, parte de la vía n.º 46 hasta la vía n.º 48, mientras que el penúltimo VF
-estaba situado en el desvío n.º 45, respectivamente el bogie delantero estaba sobre el
-desvío y el bogie trasero delante del desvío n.º 45 en el sentido previsto de circulación
-del tramo de maniobra. Tras la realización de la prueba de freno y el recuento de los
-vehículos, la maniobra se inició con el jefe de maniobras dando instrucción al maquinista
-para que retirara los vehículos con cuidado, y antes de la puesta en marcha de la
-composición subió al último escalón izquierdo del último VF. Tras recorrer unos 20 m
-oyó sonidos de chirrido y vio cómo el penúltimo VF se desviaba de su eje de
-circulación. Dio por radio la instrucción «Pare, deténgase por todos los medios» al
-maquinista y la composición se detuvo tras otros unos 5 m.
-Del examen del lugar de origen del suceso excepcional (en adelante también SE) se
-constató que la ruta de maniobra para la maniobra con la composición comenzaba desde el
-final del tramo de maniobra, es decir, desde el último VF, que antes del inicio de la
-maniobra estaba en la vía n.º 48 delante del desvío n.º 45 en el sentido previsto de
-circulación por las vías n.º 48, 46, 101c y 101b. El desvío n.º 45 era, por tanto, el
-desvío afectado en la ruta de maniobra. De la inspección se constató que el último VF
-del tramo de maniobra está con el bogie trasero en la vía n.º 48a a una distancia de
-40,8 metros de la punta del desvío n.º 45, el bogie delantero está descarrilado en la vía
-n.º 48a, elevado 13 cm por encima de la cabeza del raíl. El penúltimo VF está con el
-bogie delantero en la vía n.º 48 y el bogie trasero está descarrilado en la vía n.º 48a a la
-izquierda en el sentido de circulación del tramo de maniobra tras el recorrido previo por
-esta vía. El tercer VF desde el final de la composición está sin descarrilar y visualmente
-sin daños en la vía n.º 48 en el sentido de circulación del tramo de maniobra. Los doce
-VF restantes, incluido el VFM, están sin descarrilar y sin daños en las vías de la ruta de
-maniobra dispuesta. El penúltimo vehículo está unido a los vehículos adyacentes mediante
-tornillos y mangueras de freno, y los topes están encajados en ellos. El desvío n.º 45 es
-de accionamiento manual, insertado en la vía n.º 48 para permitir la circulación en la vía
-n.º 48a, que es un tramo sin salida. Antes de la llegada del inspector principal (en
-adelante también IC) de la Inspección Ferroviaria (en adelante también IF), ya se había
-manipulado con la parte móvil del desvío; por este motivo solo se indica el estado
-constatado tras su llegada. El gancho de bloqueo izquierdo del desvío presenta signos de
-daños (está llamado «estirado») y no asienta en toda su superficie contra la mandíbula de
-cierre. En el extremo de la pestaña que se engancha tras la
-
+### Suceso extraordinario
+### 2.1.1 Fecha, hora exacta y lugar del suceso extraordinario
+El día 3. 9. 2009 a las 8:30 horas se produjo en la vía – en la vía lateral «Vlečka Tonaso a.s.» (en adelante también vía lateral), enlazada a la 2ª vía de tráfico mediante el desvío n.º 1 en el km 522,245 entre las estaciones de ferrocarril (en adelante también est.) Ústí nad Labem sever y Povrly, en la vía lateral n.º 48a, en el km 0,091, el descarrilamiento de dos vehículos ferroviarios (en adelante también DV) enganchados al final del tramo de maniobras.
+### 2.1.2 Descripción del suceso extraordinario y del lugar del accidente, incluida la actuación del sistema integrado de emergencias y del servicio de rescate
+El transportista, al realizar el servicio de la vía lateral tras el acuerdo previo con el explotador de la vía – vía lateral, entró con el vehículo ferroviario de tracción (en adelante también HDV) en un tren de quince DV, que los maniobristas de la vía lateral habían formado en la vía n.º 101c, y que por su longitud se extendía más allá de la vía n.º 101c, parte de la vía n.º 46 hasta la vía n.º 48, mientras que el penúltimo DV se encontraba situado en el desvío n.º 45, respectivamente, el bogie delantero estaba sobre el desvío y el bogie trasero delante del desvío n.º 45 en el sentido de la marcha prevista del tramo de maniobras. Tras la realización de la prueba de freno y el recuento de los vehículos, se inició la maniobra dando el jefe de maniobras la instrucción al maquinista para que retirara los vehículos con cuidado, y antes de la puesta en marcha del tren subió al último escalón izquierdo del último DV. Tras recorrer unos 20 m, oyó sonidos de chirrido y vio cómo el penúltimo DV se desviaba de su eje de marcha. Dio por radio la instrucción «Stůj, zastavte všemi prostředky» y el tren se detuvo tras otros unos 5 m.
+Del examen del lugar de origen del suceso extraordinario (en adelante también MU) se constató que la ruta de maniobras para la maniobra con el tren comenzaba desde el final del tramo de maniobras, es decir, desde el último DV, que antes del inicio de la maniobra se encontraba en la vía n.º 48 delante del desvío n.º 45 en el sentido de la marcha prevista por las vías n.º 48, 46, 101c y 101b. El desvío n.º 45 era, por tanto, el desvío afectado en la ruta de maniobras. De la inspección se constató que el último DV del tramo de maniobras se encontraba con el bogie trasero en la vía n.º 48a a una distancia de 40,8 metros de la punta del desvío n.º 45, el bogie delantero estaba descarrilado en la vía n.º 48a, elevado 13 cm por encima de la cabeza del raíl. El penúltimo DV se encontraba con el bogie delantero en la vía n.º 48 y el bogie trasero estaba descarrilado en la vía n.º 48a a la izquierda en el sentido de marcha del tramo de maniobras tras la circulación previa por esta vía. El tercer DV desde el final del tren se encontraba sin descarrilar y visualmente sin daños en la vía n.º 48 en el sentido de marcha del tramo de maniobras. Los doce DV restantes, incluido el HDV, se encontraban sin descarrilar y sin daños en las vías de la ruta de maniobras establecida. El penúltimo vehículo está unido a los vehículos adyacentes mediante tornillos y mangueras de freno, y en ellos están encajados los topes. El desvío n.º 45 es de accionamiento manual, insertado en la vía n.º 48 para permitir la circulación a la vía n.º 48a, que es un tramo sin salida. Antes de la llegada del inspector principal (en adelante también VI) de la Inspección Ferroviaria (en adelante también DI), ya se había manipulado la parte móvil del desvío; por este motivo, solo se indica el estado constatado tras su llegada. El gancho de cierre izquierdo del desvío presenta signos de daños (está llamado «estirado») y no asienta en toda su superficie contra la mandíbula de sujeción. En el extremo del lomo que se engancha tras
 
 ## Página 10
+
 
 mandíbula de cierre, está golpeado. Las agujas no presentan daños visibles, sus puntas
 están limpias y sin deformaciones. Falta la señal de desvío sobre el soporte. El contrapeso
@@ -318,6 +277,7 @@ para los cuales la IF no se desplaza directamente al lugar de su origen. Por est
 
 ## Página 11
 
+
 se emitió el consentimiento para el inicio de los trabajos de limpieza. Este consentimiento fue revocado a las 10:10 horas, a petición de la PČR y de la persona autorizada, que en virtud de lo dispuesto en el § 11 apartado 2, letra b), punto 3 del decreto 376/2006 Sb., sobre el sistema de seguridad de la explotación de la vía y del transporte ferroviario, en su redacción vigente (en adelante también decreto núm. 376), solicitaron a la DI la salida al lugar del MU y la investigación de las causas y circunstancias de su producción.
 
 La DI atendió esta solicitud y al lugar de producción del MU acudió el VI de la Inspección Territorial de Praga (en adelante solo ÚI Praga) y, tras la investigación realizada, a las 12:45 horas se emitió un nuevo consentimiento para la liberación de la vía – vía privada.
@@ -344,8 +304,8 @@ La parte de la vía privada núm. 48 después del desvío núm. 45 en dirección
 
 La parte de la vía privada núm. 48a después del desvío núm. 45 en dirección de desvío tiene una pendiente del 3 ‰, carril de perfil S 49, traviesas de hormigón PB2, fijación sobre placas de apoyo nervuradas S4P1.
 
-
 ## Página 12
+
 
 ### 2.2.4 Uso de medios de comunicación
 Durante la maniobra se utilizaron medios de radiocomunicación entre los empleados del transportista, el jefe de maniobras, el maniobrador y el conductor.
@@ -371,6 +331,7 @@ En el MU no se produjo daño en objetos transportados, equipaje y otros bienes.
 En el MU se produjo daño en los vagones de la serie Habis 33 80 276 2789-6 y 33 80 276 2711-0. El importe total del daño fue tasado pericialmente en 65 000 Kč. En el MU se produjo daño en las fosas de contención, que forman parte de la superestructura ferroviaria, por importe de 50 000 Kč. En el MU no se produjo daño en el medio ambiente. El daño total se cifró en 115 000 Kč.
 
 ## Página 13
+
 
 ## 2.4
 ### Circunstancias externas
@@ -407,8 +368,8 @@ aparato de cambio de aguja que, a una distancia de unos 10 metros, comprobó vis
 correctamente conmutado. Como en este cambio de aguja había vehículos estacionados, solo pudo comprobar el cambio 
 determinando si el contrapeso del aparato de cambio de aguja estaba correctamente conmutado. El contrapeso del aparato de cambio de aguja estaba en posición hacia los raíles, es decir, en la dirección de su llegada hacia la izquierda;
 
-
 ## Página 14
+
 
 tras llegar al final del conjunto, comprobó si el último vagón estaba "finalizado" 
 ●
@@ -456,173 +417,138 @@ los topes, aflojar los frenos de los vagones y colocar los reflectores viaflex d
 
 se dirigió en dirección desde el refugio de la vía lateral Tonaso hacia Děčín por el lado derecho de los vagones,
 ●
-con la vista realizó la comprobación de la suspensión de los vagones y del frenado de los vagones. No detectó ningún
-defecto, los vagones estaban correctamente suspendidos, no estaban frenados, ni estaban asegurados con topes;
-cuando llegó aproximadamente al penúltimo vagón del tren, notó un desvío que estaba en el
+realizó una inspección visual de la suspensión de los vagones y del frenado de los vagones. No detectó ningún
+defecto, los vagones estaban correctamente suspendidos, no estaban frenados, ni estaban asegurados con tope;
+cuando llegó aproximadamente al penúltimo vagón del tren, notó una aguja que estaba en el
 ●
-lado adyacente a los vagones. Si la rama del aparato de cambio del desvío había sido empujada hasta la
-posición final, no fue capaz de indicarlo, pero estaba en el lado adyacente a la vía, es decir,
-en la posición correcta en el sentido del tránsito previsto. Esto lo comprobó con la vista,
+lado adyacente a los vagones. No fue capaz de indicar si el brazo del aparato de cambio de la aguja estaba empujado hasta la
+posición final, pero estaba en el lado adyacente a la vía, es decir,
+en la posición correcta en el sentido del movimiento previsto. Esto lo comprobó visualmente,
 aunque no es su obligación, pero está acostumbrado a hacerlo así según las normas ČD D2;
-posteriormente llegó al final del tren, donde acopló los extremos, y después fue por el otro
+posteriormente llegó al final del tren, donde acopló los enganches de cola, y después fue por el otro
 ●
-lado en dirección hacia la HDV, aproximadamente a la altura del sexto vagón detrás de la HDV encontró en su lado
-al jefe de maniobras, al que verbalmente le dijo que todo estaba en orden. El jefe de maniobras tomó
-nota de ello con la indicación de que completaría el listado. Mientras tanto iba por el lado por el que él
-regresaba desde el extremo de los vagones. Aproximadamente después de diez minutos, cuando él mismo ya estaba
-en el aparato de enclavamiento auxiliar, informó el jefe de maniobras por radio que se podía
-replegar. Aproximadamente medio minuto después el jefe de maniobras dio la señal «Alto, deténgase
-por todos los medios», que repitió todavía unas tres veces hasta la detención del tren, y luego
-dijo que se habían desprendido;
-esperó al jefe de maniobras y juntos fueron a informar al jefe de la vía lateral y después se
+lado en dirección al HDV, aproximadamente a la altura del sexto vagón tras el HDV se encontró en su lado
+con el jefe de maniobras, al que verbalmente le dijo que todo estaba en orden. El jefe de maniobras tomó
+nota de ello con la intención de terminar el listado. Mientras tanto, iba por el lado por el que él regresaba desde
+el extremo de los vagones. Aproximadamente después de diez minutos, cuando él mismo ya estaba en el aparato de enclavamiento auxiliar,
+el jefe de maniobras informó por radio que se podía estirar. Aproximadamente medio minuto
+después, el jefe de maniobras dio la señal «Alto, deténganse por todos los medios», que repitió todavía unas tres veces
+hasta la detención del tren, y luego dijo que se habían desenganchado;
+esperó al jefe de maniobras y juntos fueron a comunicárselo al jefe de la vía lateral y después se
 ●
-fueron a ver qué había ocurrido realmente. Si mientras tanto alguien había manipulado el desvío, no lo sabe.
+fueron a ver qué había ocurrido realmente. No sabe si alguien manipuló la aguja mientras tanto.
 Del Registro con el empleado redactado por el transportista con el maquinista, empleado de ČD
-Cargo, a. s., se desprende que la explicación por él presentada confirma los datos indicados por el jefe de
-maniobras y el maniobrador del transportista.
-Del Registro Oficial sobre la explicación presentada redactada con el jefe de la vía lateral (también jefe
+Cargo, a. s., se desprende que la explicación por él presentada confirma los datos facilitados por el jefe de maniobras
+y el maniobrador del transportista.
+Del Registro Oficial sobre la explicación presentada redactado con el jefe de la vía lateral (también jefe
 de vía – vía lateral) se desprende:
-con el jefe de maniobras del transportista se acordó que en la vía 4 aparcarían los vagones
+se acordó con el jefe de maniobras del transportista que en la vía 4 aparcarían los vagones
 ●
-transportados y el maniobrador de la vía lateral acoplaría ya los diez vagones preparados,
-que sobresalían al final más allá del desvío n.º 45, otros cinco vagones de la vía 6 en la que
-estaba. Posteriormente, tras acoplar los vagones, se apartarían a la vía n.º 20 y así les
-liberarían la ruta – la vía lateral – y luego podrían circular. Esto se realizó y además no
-observó su actuación en las vías de la vía lateral, ya que sabían ellos mismos qué tenían
-que hacer;
+traídos y el maniobrador de la vía lateral acoplaría ya a los diez vagones preparados, que intervenían al
+final a través de la aguja n.º 45, otros cinco vagones de la vía 6 en la que estaban. Posteriormente, tras
+acoplar los vagones, se apartarían a la vía n.º 20 y con ello les liberarían la ruta – la vía lateral y luego podrían
+circular. Esto se llevó a cabo y además no vigiló su actuación en las vías de la vía lateral,
+pues sabían ellos mismos lo que tenían que hacer;
 (nota del redactor: según el jefe de maniobras del transportista se trataba de la vía n.º 3)
-tras aparcar la locomotora de la vía lateral se fue a las instalaciones de producción de la empresa y
-alrededor de las 9:15
+tras aparcar la locomotora de la vía lateral, se fue a las instalaciones de producción de la empresa y hacia las 9:15
 ●
-horas le llamó su suplente, indicándole que ČD Cargo se había desprendido con vagones de carga y que se
-presentara en el lugar, lo cual hizo de inmediato.
-A la pregunta formulada: «¿Según qué, es decir, según qué normas se rige el tránsito en la
-vía lateral Tonaso y quién responde de esa maniobra?», el jefe de vía – vía lateral respondió: «Se
+horas le llamó su suplente para decirle que ČD Cargo se había desenganchado con vagones de carga y que acudiera al
+lugar, lo que hizo inmediatamente.
+A la pregunta formulada: «¿Según qué, es decir, según qué normas se rige la explotación en la
+vía lateral Tonaso y quién es responsable de esa maniobra?», el jefe de vía – vía lateral respondió: «Se
 rije según las normas internas vigentes de la vía lateral Tonaso, emitidas el 1. 11. 2008,
-asimismo de la maniobra responde el jefe de maniobras del transportista, estando esto indicado en las
-normas de la vía lateral Tonaso con vigencia desde el día 1. 11. 2008. Es decir, en este caso la
-responsabilidad correspondía al jefe de maniobras de ČD Cargo.»
+además, de la maniobra es responsable el jefe de maniobras del transportista, estando esto indicado en las normas
+de la vía lateral Tonaso con vigencia desde el día 1. 11. 2008. Es decir, en este caso la responsabilidad
+correspondía al jefe de maniobras de ČD Cargo.»
 A la pregunta formulada: «¿Quién puede realizar maniobras en sus vías de la vía lateral,
-en qué medida y según qué normas se rigen los participantes en la maniobra en la vía lateral
-Tonaso?», el jefe de vía – vía lateral respondió: «Puede circular en nuestra vía lateral cualquier
-transportista que tenga celebrado un contrato de explotación del transporte ferroviario en nuestra vía
-lateral y que tenga empleados con idoneidad profesional y sanitaria, siendo la idoneidad profesional
-indicada en la norma interna de la vía lateral Tonaso. En el caso de este evento siniestrado se
-trataba de empleados de ČD Cargo.»
-A la pregunta formulada: «¿Cuándo se realizó por última vez una maniobra o alguna otra
-manipulación a través del desvío n.º 45 de la vía lateral Tonaso, asimismo cuándo se maniobró
-o se realizó otra actividad en
-
+en qué medida y según qué normas se rigen los participantes en la maniobra al maniobrar en la vía
+lateral Tonaso?», el jefe de vía – vía lateral respondió: «Puede circular en nuestra vía cualquier transportista que
+tenga firmado un contrato de explotación del transporte ferroviario en nuestra vía lateral y tenga empleados
+con idoneidad profesional y sanitaria, siendo la idoneidad profesional establecida por la norma interna
+de la vía lateral Tonaso. En el caso de este accidente se trataba de empleados de ČD Cargo.»
+A la pregunta formulada: «¿Cuándo se realizó por última vez una maniobra o cualquier otra manipulación
+a través de la aguja n.º 45 de la vía lateral Tonaso, además, cuándo se maniobró o se realizó otra actividad en
 
 ## Página 16
 
-los vagones situados a través del desvío n.º 45?», el jefe de vía – vía lateral respondió: «Por
-última vez, antes de la ocurrencia del siniestro, fueron aparcaidos por nuestra empresa un total de
-diez vagones, y ello el día anterior, es decir, el 2. 9. 2009 entre las 12:00 horas y las 13:00
-horas. Posteriormente, el día 3. 9. 2009, se añadieron a estos vagones otros cinco vagones, no
-llegándose a circular con los diez primeros vagones. De ninguna manera se circularon los vagones por
-nuestra parte antes de la recepción de la reserva de ČD Cargo el día 3. 9. 2009.»
-A la pregunta formulada: «¿Por qué no fue acercada toda la composición de vagones a la vía
-de entrega, donde los habría recibido un trabajador de ČD Cargo?», el jefe de vía – vía lateral
-respondió: «Porque esos vagones estarían situados a través del desvío n.º 2 y ČD Cargo no podría
-entrar en nuestra vía lateral, la vía de entrega era corta para la composición de estos vagones.»
-A la pregunta formulada: «¿Fue entregada por su parte, es decir por la parte de la empresa Eson,
-toda la documentación para la explotación del transporte ferroviario en su vía lateral Tonaso, y
-cuándo, por quién y de qué manera?», el jefe de vía – vía lateral respondió: «Toda la documentación
-no fue entregada, se entregó únicamente el contrato de explotación del transporte ferroviario en la
-vía lateral Tonaso, asimismo el Reglamento de transporte de la vía lateral Tonaso de fecha 1. 11.
-2008, tanto en forma electrónica como en forma escrita, incluido el mapa de la infraestructura de la
-vía lateral Tonaso. ...La entrega fue aún antes de la firma del contrato, es decir, antes del 12. 6.
-2009. Asimismo, tras la firma del contrato de explotación del transporte ferroviario en la vía lateral
-Tonaso, este contrato fue enviado a ČD Cargo por Česká pošta.»
-Del Registro Oficial sobre la explicación presentada redactada con el maniobrador de la vía lateral se
-desprende que la explicación por él presentada confirma los datos indicados por el jefe de la vía
-lateral (también jefe de vía – vía lateral) PČR.
+vagones estacionados sobre el desvío n.º 45?"; el jefe de vía – de la vía privada respondió: "La última vez, antes de la aparición del accidente, se estacionaron por nuestra empresa un total de diez vagones, y esto el día anterior, es decir, el 2. 9. 2009 entre las 12:00 horas y las 13:00 horas. Posteriormente, el día 3. 9. 2009, se asignaron a estos vagones otros cinco vagones, no se produjo el movimiento de los primeros diez vagones. De ninguna manera se realizaron maniobras con los vagones por nuestra parte antes de la recepción de la reserva por parte de ČD Cargo el día 3. 9. 2009."
+A la pregunta formulada: "¿Por qué no se acopló el conjunto completo de vagones a la vía de entrega, donde los habría recibido el trabajador de ČD Cargo?"; el jefe de vía – de la vía privada respondió: "Porque esos vagones habrían quedado estacionados sobre el desvío n.º 2 y ČD Cargo no habría podido entrar a nuestra vía, la vía de entrega era corta para la composición de estos vagones."
+A la pregunta formulada: "¿Se ha entregado por vuestra parte, es decir, por parte de la empresa Eson, toda la documentación para la explotación del transporte ferroviario en vuestra vía privada Tonaso, y cuándo, por quién y de qué manera?"; el jefe de vía – de la vía privada respondió: "Toda la documentación no fue entregada, solo se entregó el contrato de explotación del transporte ferroviario en la vía privada Tonaso, además el Reglamento de transporte de la vía privada Tonaso de fecha 1. 11. 2008, tanto en forma electrónica como en forma escrita, incluido el mapa de la vía de la vía privada Tonaso. ...La entrega se realizó aún antes de la firma del contrato, es decir, antes del 12. 6. 2009. Además, tras la firma del contrato de explotación del transporte ferroviario en la vía privada Tonaso, este contrato fue enviado a ČD Cargo por medio de Česká pošta."
+Del Registro Oficial de la declaración prestada, redactado con el maniobrador de la vía privada, se desprende que la declaración por él prestada confirma los datos facilitados por el jefe de la vía privada (también jefe de vía – de la vía privada) de la PČR.
 La documentación forma parte del expediente MU.
 ### 3.1.2 Otras personas
-En el lugar de ocurrencia de la MU ni en las inmediaciones más próximas se encontraban presentes otras
-personas, ni otras personas participaron de ninguna manera en la explotación de la vía – vía lateral y
-del transporte ferroviario.
+En el lugar de origen del MU ni en las inmediaciones se encontraban presentes otras personas, ni ninguna otra persona participó en la explotación de la vía – vía privada ni en el transporte ferroviario.
 ## 3.2
 ### Sistema de garantía de la seguridad
 ### 3.2.1 Organización marco y forma en que se emiten y ejecutan las instrucciones
-Los requisitos de referencia para la explotación segura de la vía se establecen en los siguientes
-preceptos jurídicos y procedimientos tecnológicos contenidos en las normas internas del explotador de
-la vía – vía lateral y del transportista:
-### A) Preceptos jurídicos:
-A1) Obligaciones del propietario de la vía - § 20 apart. (1) de la ley n.º 266/1994 Sb., de vías
-férreas, en su redacción vigente (en adelante la ley):
-(1) El propietario de la vía está obligado a garantizar el mantenimiento y la reparación de la vía en
-la medida necesaria para su aptitud para la explotación y a permitir la conexión de la vía con otras vías.
+Los requisitos de referencia para la explotación segura de la vía están establecidos en las siguientes disposiciones legales y procedimientos tecnológicos contenidos en las normas internas del explotador de la vía – vía privada y del transportista:
+### A) Disposiciones legales:
+A1) Obligaciones del propietario de la vía – § 20 apartado (1) de la ley n.º 266/1994 Sb., de vías, en su redacción vigente (en adelante, la ley):
+(1) El propietario de la vía está obligado a garantizar el mantenimiento y la reparación de la vía en la medida necesaria para su aptitud de explotación y a permitir la conexión de la vía con otras vías.
 
-### A2) Obligaciones del explotador de la vía – § 22 apart. (1) letras a), b), c) de la ley:
-(1) El explotador de la vía está obligado a
-a) explotar la vía para las necesidades del transporte ferroviario fluido y seguro según las reglas
-para la explotación de la vía y la autorización administrativa,
+### A2) Obligaciones del explotador de la vía – § 22 apartado (1) letras a), b), c) de la ley:
+(1) El explotador de la vía está obligado
+a) a explotar la vía para las necesidades del transporte ferroviario fluido y seguro de acuerdo con las reglas para la explotación de la vía y la autorización administrativa,
 
 ## Página 17
 
-b) emitir, con efectos desde el día del inicio de la explotación de la vía, el reglamento interno sobre la explotación de la vía y sobre la idoneidad profesional y los conocimientos de las personas que garantizan la explotación de la vía y el método de su verificación, incluido el sistema de formación periódica,
-c) garantizar que la explotación de la vía la realicen personas que estén sanas y sean profesionalmente idóneas.
-A3) Obligaciones del transportista – § 35 apartado (1) letras a), b), d), e), f), g), apartado (2) letra f) de la ley:
-(1) El transportista está obligado
-a) a explotar el transporte ferroviario de acuerdo con las reglas de explotación del transporte ferroviario, la licencia vigente y el contrato celebrado con el explotador de la vía sobre la explotación del transporte ferroviario en la vía,
-b) a emitir, con efectos desde el día del inicio de la explotación del transporte ferroviario, el reglamento interno sobre la idoneidad profesional y los conocimientos de las personas que garantizan la explotación del transporte ferroviario y el método de su verificación, incluido el sistema de formación periódica,
-d) al explotar el transporte ferroviario, utilizar vehículos ferroviarios y instalaciones técnicas designadas con certificado de idoneidad vigente y en un estado técnico que corresponda a la idoneidad aprobada,
-e) garantizar que los vehículos ferroviarios los conduzcan personas que posean certificado de idoneidad vigente para conducir,
-f) garantizar que el transporte ferroviario lo realicen personas que estén sanas y sean profesionalmente idóneas,
-g) guiarse, al explotar el transporte ferroviario, por las instrucciones del explotador de la vía impartidas al organizar el transporte ferroviario.
-(2) El transportista que explota el transporte ferroviario en una vía de ámbito nacional o en una vía regional, y que es titular de una licencia vigente, está además obligado
-f) a implantar un sistema de garantía de la seguridad del transporte ferroviario y a garantizar su cumplimiento.
-### A4) El explotador de la vía y el transportista están obligados – § 49 apartado (3) letra b) de la ley:
-b) a asegurar el lugar del suceso excepcional y a realizar la documentación del estado en el momento de producirse el suceso excepcional.
-A5) Reglas de explotación de la vía – § 2 apartado (4) del decreto n.º 173/1995 Sb., por el que se dicta el Reglamento de circulación de las vías, en su redacción vigente (en adelante, decreto n.º 173):
-(4) Para garantizar las actividades y para determinar la idoneidad profesional de las personas participantes en la seguridad de la vía, en la operación de la vía y en la organización del transporte ferroviario, si estas actividades las realizan empleados del explotador de la vía, sirven los procedimientos tecnológicos contenidos en los reglamentos internos del explotador de la vía.
+b) emitir, con fecha de inicio de la explotación de la vía, el reglamento interno sobre la explotación de la vía y sobre la idoneidad profesional y los conocimientos de las personas que garantizan la explotación de la vía y el método de su verificación, incluido el sistema de formación periódica,
+c) garantizar que la explotación de la vía la realicen personas que sean aptas desde el punto de vista médico y profesional.
+A3) Obligaciones del operador ferroviario – § 35 apartado (1) letras a), b), d), e), f), g), apartado (2) letra f) de la ley:
+(1) El operador ferroviario está obligado a
+a) explotar el transporte ferroviario de acuerdo con las reglas de explotación del transporte ferroviario, la licencia vigente y el contrato celebrado con el explotador de la vía sobre la explotación del transporte ferroviario en la vía,
+b) emitir, con fecha de inicio de la explotación del transporte ferroviario, el reglamento interno sobre la idoneidad profesional y los conocimientos de las personas que garantizan la explotación del transporte ferroviario y el método de su verificación, incluido el sistema de formación periódica,
+d) utilizar, durante la explotación del transporte ferroviario, vehículos ferroviarios y dispositivos técnicos designados con certificado de idoneidad vigente y en un estado técnico que corresponda a la idoneidad aprobada,
+e) garantizar que los vehículos ferroviarios sean conducidos por personas que posean un certificado de idoneidad para conducir vigente,
+f) garantizar que el transporte ferroviario lo realicen personas que sean aptas desde el punto de vista médico y profesional,
+g) ceñirse, durante la explotación del transporte ferroviario, a las instrucciones del explotador de la vía impartidas al organizar el transporte ferroviario.
+(2) El operador ferroviario que explota el transporte ferroviario en una vía de ámbito nacional o en una vía regional y que es titular de una licencia vigente está además obligado a
+f) implantar un sistema de garantía de la seguridad del transporte ferroviario y garantizar su cumplimiento.
+### A4) El explotador de la vía y el operador ferroviario están obligados a – § 49 apartado (3) letra b) de la ley:
+b) asegurar el lugar del suceso excepcional y realizar la documentación del estado en el momento de producirse el suceso excepcional.
+A5) Reglas de explotación de la vía – § 2 apartado (4) del decreto n.º 173/1995 Sb., por el que se aprueba el reglamento de circulación ferroviaria, en su versión vigente (en adelante, decreto n.º 173):
+(4) Para garantizar las actividades y para determinar la idoneidad profesional de las personas participantes en la seguridad de la vía, en la explotación de la vía y en la organización del transporte ferroviario, si estas actividades las realizan empleados del explotador de la vía, sirven los procedimientos tecnológicos contenidos en los reglamentos internos del explotador de la vía.
 ### A6) Reglas de explotación de la vía – § 23 apartado (7) del decreto n.º 173:
-(7) El transporte ferroviario en un apartadero solo lo pueden conducir personas profesionalmente idóneas.
+(7) El transporte ferroviario en un apartadero solo puede ser conducido por personas profesionalmente idóneas.
 ### A7) Reglas de explotación de la vía – § 23 apartado (10) del decreto n.º 173:
-(10) Al explotar un apartadero deben establecerse procedimientos tecnológicos uniformes para:
+(10) Durante la explotación de un apartadero deben establecerse procedimientos tecnológicos uniformes para:
 a) la organización del transporte ferroviario, la seguridad de la circulación de los vehículos ferroviarios …
 ### A8) Reglas de explotación de la vía – § 24 del decreto n.º 173:
-Dirección simplificada del transporte ferroviario
-Para un apartadero en el que solo se explote transporte de mercancías y en el que los vehículos ferroviarios solo puedan circular a una velocidad de hasta 40 km.h-1, se puede
-a) realizar el movimiento de los vehículos ferroviarios como maniobras de maniobra (en tal caso se aplican de forma pertinente las disposiciones del § 16).
+Gestión simplificada del transporte ferroviario
+En un apartadero en el que solo se explote transporte de mercancías y en el que los vehículos ferroviarios puedan circular a una velocidad de hasta 40 km.h-1, puede
+a) realizarse el movimiento de los vehículos ferroviarios como maniobras de maniobra (en tal caso se aplican de forma pertinente las disposiciones del § 16).
 ### A9) Reglas de explotación de la vía – § 16 apartado (11) del decreto n.º 173:
-
 
 ## Página 18
 
-(11) Las actividades de realización de maniobras, en particular … y la maniobra al explotar el transporte ferroviario en un apartadero se rigen por los procedimientos tecnológicos establecidos por el explotador de la vía.
+(11) Las actividades realizadas durante las maniobras de maniobra, en particular … y la maniobra en la explotación del transporte ferroviario en el apartadero se rigen por los procedimientos tecnológicos establecidos por el gestor de la vía.
 ### A10) Reglas de explotación del transporte ferroviario – § 33 apartado (2) del decreto n.º 173:
-(2) Para garantizar las actividades según el apartado 1 y para determinar la idoneidad profesional de las personas participantes en la explotación del transporte ferroviario, si estas actividades las realizan empleados del transportista, sirven los procedimientos tecnológicos uniformes contenidos en los reglamentos internos del transportista.
-A 11) Condiciones técnicas de operatividad de la vía de ámbito nacional, regional y del apartadero – § 25 apartado (2) del decreto n.º 177/1995 Sb., por el que se dicta el Reglamento de construcción y técnica de las vías, en su redacción vigente (en adelante, decreto n.º 177):
-(2) En los raíles y las agujas debe mantenerse la anchura de vía y la posición geométrica del raíl dentro del margen de tolerancias permitidas contenidas en la norma técnica indicada en el anexo n.º 5 bajo el epígrafe 160.
-A 12) Condiciones técnicas de operatividad de la vía de ámbito nacional, regional y del apartadero – § 25 apartado (4) del decreto n.º 177:
-(4) El desgaste de las agujas, de los cruces de vía, de las estructuras de agujas y de sus componentes no debe superar los valores indicados en el anexo n.º 6.
-B) La explotación de la vía – del apartadero y del transporte ferroviario en la vía – el apartadero se rige por los procedimientos tecnológicos contenidos en los reglamentos internos del apartadero Tonaso (VP), en el Reglamento de explotación del apartadero «Tonaso a.s.» de fecha 1. 11. 2008 (VPŘ) y en el contrato n.º 22D/9/2009 sobre la explotación del transporte ferroviario en la vía – el apartadero «Vlečka Tonaso a.s.» de fecha 11. 6. 2009, celebrado entre el explotador de la vía – el apartadero y el transportista (en adelante también contrato n.º 22D/9/2009).
-### B1) Procedimientos tecnológicos de referencia para las distintas actividades contenidos en los reglamentos internos del apartadero:
-VP D2 artículo 73: «Las agujas solo las puede operar una persona profesionalmente idónea»;
+(2) Para garantizar las actividades según el apartado 1 y para determinar la cualificación profesional de las personas implicadas en la explotación del transporte ferroviario, si estas actividades las realizan empleados del transportista, sirven los procedimientos tecnológicos uniformes contenidos en las normas internas del transportista.
+A 11) Condiciones técnicas de aptitud para la explotación de la vía de ámbito nacional, regional y del apartadero – § 25 apartado (2) del decreto n.º 177/1995 Sb., por el que se dicta el reglamento de construcción y técnico de las vías, en su versión vigente (en adelante, decreto n.º 177):
+(2) En los raíles y las agujas debe mantenerse la anchura de vía y la posición geométrica del raíl dentro de los límites de tolerancia permitidos contenidos en la norma técnica indicada en el anexo n.º 5 bajo el epígrafe 160.
+A 12) Condiciones técnicas de aptitud para la explotación de la vía de ámbito nacional, regional y del apartadero – § 25 apartado (4) del decreto n.º 177:
+(4) El desgaste de las agujas, los cruces de vía, las estructuras de agujas y sus componentes no debe superar los valores indicados en el anexo n.º 6.
+B) La explotación de la vía – apartadero y del transporte ferroviario en la vía – apartadero se rige por los procedimientos tecnológicos contenidos en las normas internas del apartadero Tonaso (VP), en el Reglamento de Explotación del apartadero del apartadero "Tonaso a.s." de fecha 1. 11. 2008 (VPŘ) y en el contrato n.º 22D/9/2009 de explotación del transporte ferroviario en la vía – apartadero "Vlečka Tonaso a.s." de fecha 11. 6. 2009, celebrado entre el gestor de la vía – apartadero y el transportista (en adelante también contrato n.º 22D/9/2009).
+### B1) Procedimientos tecnológicos de referencia para las distintas actividades contenidos en las normas internas del apartadero:
+VP D2 artículo 73: "Las agujas solo pueden ser operadas por una persona con cualificación profesional";
 ●
-VP D2 artículo 77: «La aguja está correctamente dispuesta si está dispuesta para la
-●
-dirección requerida y la persona profesionalmente idónea comprueba:
-77.1. en las agujas accionadas manualmente, todas estas circunstancias:
+VP D2 artículo 77: "La aguja está correctamente conmutada si está conmutada para la dirección requerida y la persona con cualificación profesional comprueba:
+77.1. en las agujas conmutadas manualmente, todas estas circunstancias:
 77.1.1 la aguja no presenta daños ni averías evidentes que impidan la circulación de los vehículos;
 77.1.2 la lengüeta de la aguja se ajusta al riel de apoyo;
-77.1.3 la palanca con contrapeso se asienta en la posición extrema hacia el suelo.»
-VP D2 artículo 80: «Está prohibido circular por una aguja; la persona profesionalmente
+77.1.3 la palanca con contrapeso se asienta en la posición extrema hacia el suelo."
+VP D2 artículo 80: "Está prohibido circular por la aguja; la persona con cualificación profesional no debe dar el permiso de circulación si la aguja no está correctamente conmutada para la dirección de circulación requerida, con excepción de las agujas que se conmutan directamente bajo los vehículos ferroviarios.";
 ●
-idónea no debe dar el permiso de circulación si la aguja no está correctamente dispuesta para la dirección de circulación requerida, con excepción de las agujas que se disponen directamente bajo los vehículos ferroviarios.»;
-VP D2 artículo 141: «La ruta de maniobra correctamente dispuesta debe tener las
+VP D2 artículo 141: "Una ruta de maniobras correctamente dispuesta debe tener las agujas por las que se circula, los desvíos de seguridad en la ruta de maniobras, los cruces de vía con heartpieces conmutables, las mesas giratorias, los transbordadores y los tope de vía conmutados en la posición correcta para la circulación prevista...";
 ●
-agujas por las que se circula, los desvíos de seguridad en la ruta de maniobra, los cruces de vía con agujas móviles, las mesas giratorias, los transbordadores y los tope de vía dispuestos en la posición correcta para la circulación prevista...»;
-VP D2 artículo 149: «El empleado que dirige la maniobra está obligado: ...
+VP D2 artículo 149: "El empleado que dirige la maniobra está obligado a: ...
 ●
-149.2 a garantizar el cumplimiento de los procedimientos tecnológicos establecidos en este reglamento para la maniobra;
-149.4: a dar la primera instrucción para iniciar el movimiento de la sección de maniobra solo bajo la condición de que:
-149.4.2 la ruta de maniobra esté correctamente dispuesta...;»
+149.2 garantizar el cumplimiento de los procedimientos tecnológicos establecidos por esta norma para la maniobra;
+149.4: dar la primera orden para iniciar el movimiento de la sección de maniobras solo con la condición de que:
+149.4.2 la ruta de maniobras esté correctamente dispuesta...;"
 
 ## Página 19
+
 
 ## B2)
 ● VP Ok2 artículo 50: "Para garantizar la explotación de la vía o la explotación del transporte ferroviario, las personas que participen directamente en actividades relacionadas con la explotación de la vía o la explotación del transporte ferroviario deben poseer la cualificación conforme a la normativa legal y a las normas del explotador. La cualificación conforme a la normativa legal la obtendrá la persona ante la autoridad ferroviaria, y la cualificación conforme a las normas del explotador la obtendrá del explotador o de la persona jurídica o física por él autorizada.";
@@ -646,8 +572,8 @@ d) el empleado haya demostrado desconocimiento de las disposiciones de las norma
 e) sea necesario acreditar la cualificación profesional del empleado.
 Fuera de estas necesidades, no se realiza formación periódica."
 
-
 ## Página 20
+
 
 ## B3)
 ● VPŘ artículo 4: Lista de actividades laborales del explotador:
@@ -669,6 +595,7 @@ artículo 4 punto 6: "En la organización y dirección del transporte ferroviari
 artículo 4 punto 8: "La organización y realización de maniobras en la vía privada, incluidas las actividades relacionadas del tráfico ferroviario, las regula la Documentación Tecnológica de explotación en la vía-vía privada vigente.";
 
 ## Página 21
+
 
 artículo 5 punto 3: «Las medidas en el lugar de origen del suceso excepcional conforme a las disposiciones del § 9 del decreto número 376/2006 Sb. serán garantizadas en su totalidad por la persona autorizada competente del transportista, en colaboración con la persona autorizada competente del gestor de la vía – apartadero.».
 ### C) Procedimientos tecnológicos de referencia para las distintas actividades contenidos en las normas internas del transportista:
@@ -694,8 +621,8 @@ El gestor de la vía – apartadero estableció mediante sus normas internas la 
 Los empleados del transportista participantes en el SU y que desempeñaban las actividades mencionadas en el apartadero no superaron las pruebas profesionales establecidas;
 El gestor de la vía – apartadero estableció mediante sus normas internas un sistema de formación periódica de los empleados de transportistas ajenos que realizan en la vía – apartadero actividades de explotación de la vía y de transporte ferroviario. La realización de esta formación periódica de los empleados del transportista fue transferida al transportista mediante el artículo 4, punto 3 del contrato n.º 22D/9/2009
 
-
 ## Página 22
+
 
 con la condición de que para esta actividad designe a su empleado con conocimiento de todas las normas del apartadero, que será la persona autorizada para la formación sobre las normas del apartadero. Este empleado no fue designado por el transportista, y no se realizó la formación periódica sobre las normas del apartadero exigida para los empleados del transportista.
 Los empleados del transportista en la función de maquinista, jefe de maniobras y maniobrista, participantes en el SU, no eran, por las razones expuestas, competentes profesionalmente en el momento del origen del SU para el desempeño de sus funciones y actividades laborales en la vía – apartadero.
@@ -711,6 +638,7 @@ El cambio de la autorización administrativa para la explotación de la vía –
 la autoridad administrativa ferroviaria para el gestor de la vía ESON, s. r. o.: N.º de registro ÚP/2008/261-5 ref. 3-2748v/08-DÚ/Sf de fecha 1. 8. 2008;
 
 ## Página 23
+
 
 Licencia para la explotación del transporte ferroviario expedida por la autoridad administrativa ferroviaria para el operador ČD 
 ●
@@ -753,8 +681,8 @@ VPŘ REGLAMENTO DE EXPLOTACIÓN DEL APARTADERO „TONASO A.S.“ (en adelante, V
 Normas internas del operador:
 Reglamento de exámenes y formación, aprobado por el director ejecutivo de ČDC el 6. 4. 2009, registrado bajo ref. PERs28-B-2009, vigente en el momento de la aparición del SE;
 
-
 ## Página 24
+
 
 Medida del director de la PJ Ústí n. L. para determinar la competencia profesional de los empleados de la PJ 
 ●
@@ -778,6 +706,7 @@ En el uso de los medios de comunicación radioeléctrica, radios, por parte de l
 
 ## Página 25
 
+
 ### 3.4.4 Material rodante, incluido el dispositivo de registro automático de datos
 El HDV disponía de un «Certificado de aptitud del material rodante», n.º de ref. PZ 7207/02-V.20, expedido por la Autoridad Ferroviaria en Praga el 6. 11. 2002. Última inspección técnica realizada el 7. 8. 2009. Del análisis de la banda registradora de velocidad se constató que, en el momento de producirse el MU, no se había excedido la velocidad máxima permitida de 10 km.h-1. De la evaluación del estado técnico del HDV no se detectaron defectos; en los DV de la serie Habis descarrilados solo se detectaron daños derivados de su descarrilamiento. El estado técnico del HDV y de los DV descarrilados no fue la causa de la producción del MU.
 ## 3.5
@@ -787,8 +716,8 @@ El tráfico ferroviario en el apartadero lo organiza el jefe de vía – apartad
 La tarea del transportista al explotar el apartadero consistía en trasladar los quince vagones preparados desde el apartadero. Una vez que el HDV del transportista acopló al grupo de DV preparado, el jefe de maniobras y, por su orden, el maniobrador realizaron las maniobras para extraer los DV del apartadero. La investigación determinó que, durante su transcurso, ambos pasaron junto a la aguja n.º 45, aunque su posición para la dirección prevista de la maniobra solo la comprobaron visualmente mediante el contrapeso de la palanca, ya que sobre la aguja había un vagón y, además, estaban convencidos de que no era su obligación. Como se desprende de las explicaciones prestadas, ambos, al explotar el apartadero, se regían por el «Reglamento de explotación de enlace OPŘ Ústí nad Labem n.º de exp.: 3310/2002 – S para el apartadero de Tonaso a.s. Neštěmice que se bifurca en la vía abierta entre las estaciones Ústí nad Labem sever y Povrly» (en adelante PPŘ), en vigor desde el 18. 3. 2005. Entre otras cosas, en la parte C, punto 3, se indica: «La autorización para la maniobra en el apartadero de entrega de la vía – apartadero la da al jefe de explotación del tren de apartadero el jefe de vía – apartadero» y «por la colocación de las agujas en la vía de entrega correspondiente y la libertad de los correspondientes topes de parada responde el jefe de vía – apartadero».
 El PPŘ mencionado, presentado durante la investigación del MU como válido en el momento de su producción, fue modificado por la enmienda n.º 2 en 2005, vigente el contrato «Contrato sobre la conexión de vías mutuamente enlazadas y sobre la explotación del tráfico ferroviario entre ČD, a. s. OPŘ Ústí nad Labem y ESON, s. r. o. n.º 357/2004-11/1». Entre el transportista y el gestor de la infraestructura se firmó en 2008 un nuevo contrato «Contrato sobre la explotación del tráfico ferroviario en la vía – apartadero n.º 24D/9/2008», no habiéndose realizado en esta relación la modificación del PPŘ. El contrato de 2008 perdió
 
-
 ## Página 26
+
 
 vigencia en virtud de la firma del contrato n.º 22D/9/2009, del que se desprende que el PPŘ, en el momento de producirse el MU, ya no era aplicable para la organización y explotación del tráfico ferroviario en la vía – apartadero.
 El jefe de maniobras y el maniobrador del transportista implicados en el MU, al realizar la maniobra en el apartadero, no actuaron conforme a los procedimientos tecnológicos vigentes contenidos en las normas internas del gestor de la infraestructura – apartadero, puesto que no habían sido informados de los mismos.
@@ -802,6 +731,7 @@ En la transmisión de instrucciones no se detectaron deficiencias.
 Las medidas de protección y seguridad del lugar del MU fueron garantizadas por la persona designada, empleado del gestor de la infraestructura – apartadero, conforme al decreto n.º 376. Tras la llegada de la persona designada del gestor de la infraestructura y de los órganos actuantes en el procedimiento penal, se solicitó al DI que iniciara la investigación de las causas y circunstancias en el lugar de producción del MU. Con base en dicha solicitud, se revocó la autorización ya concedida para iniciar los trabajos de desescombro dada por el COP del DI. Debido a la autorización original, ya antes de la llegada del VI al lugar de producción del MU se estaban realizando maniobras con la parte móvil de la aguja n.º 45 construida manualmente. La nueva autorización para iniciar los trabajos de desescombro se emitió durante la investigación del VI ÚI Praga a las 12:45 horas (véase también el art. 2.1.3).
 
 ## Página 27
+
 
 ## 3.6
 ### Condiciones laborales, sanitarias y de explotación
@@ -820,28 +750,28 @@ En la infraestructura – vlečka en cuestión no constan registrados SU de car�
 ### 4.1.1 Descripción final del suceso basada en los hechos establecidos en el punto 3
 El 3 de septiembre de 2009, el transportista realizó la maniobra de la vlečka «Vlečka Tonaso a.s.». El tren de vlečka fue despachado conforme al procedimiento tecnológico vigente para acordar la circulación entre la línea de ámbito nacional, estación Ústí nad Labem sever, y la vlečka. El tren de vlečka 86188 se detuvo en el tramo de la 2.ª vía, detrás del desvío núm. 1 en dirección a la estación Povrly, a la altura del refugio del jefe de la infraestructura – vlečka, donde el jefe de maniobras del transportista le entregó la documentación de los DV traídos y el jefe de la infraestructura – vlečka procedió a la entrega de las llaves del aparato de enclavamiento auxiliar PSt2 y, a la vez, se concretó el procedimiento de maniobra de la vlečka. Dicho procedimiento consistía en que los cinco DV traídos a la vlečka serían entregados por el transportista al gestor de la infraestructura – vlečka en la vía de vlečka núm. 3, y allí se esperaría el consentimiento para la siguiente maniobra. Dicho consentimiento era
 
-
 ## Página 28
 
-condicionado a la finalización de la maniobra de la vlečka, que añadía otros cinco DV a los diez DV de la serie Habis preparados para su salida ya el 2 de septiembre de 2009 en la vía 101c, y que, debido a la liberación del desvío núm. 2 para la entrada del transportista en la vlečka, se extendía hasta la vía núm. 48, más allá del desvío núm. 45, habiendo quedado el penúltimo DV detenido en el desvío núm. 45, o mejor dicho, su bogie delantero se encontraba sobre el desvío y el trasero antes del desvío núm. 45 en la dirección prevista de circulación del tramo de maniobra. Una vez finalizada la maniobra de la vlečka y estacionada la locomotora de la vlečka en la vía núm. 20, el jefe de la infraestructura – vlečka dio el consentimiento para iniciar la maniobra del transportista. La tarea del transportista en la maniobra de la vlečka consistía en la retirada de los quince vagones preparados de la vlečka, siendo que la ruta de maniobra para la maniobra con la composición comenzaba desde el extremo del tramo de maniobra, es decir, desde el último DV que se encontraba, antes del inicio de la maniobra, en la vía núm. 48 antes del desvío núm. 45 en la dirección prevista de circulación por las vías núm. 48, 46, 101c, 101b. El desvío núm. 45 era el desvío afectado en la ruta de maniobra. El transportista acopló la locomotora al primer vagón del grupo de 15 DV, que ya se encontraba en la vía núm. 101b. Al acoplar a los vagones estacionados no se produjo movimiento, tanto durante la maniobra de la vlečka como durante la maniobra del transportista con dichos vagones. El maniobrador acopló la locomotora y recibió instrucciones del jefe de maniobras para señalizar el último vagón de la composición con la señal «Fin de tren», comprobar el aseguramiento de los vagones, retirar los tope y liberar los frenos. El jefe de maniobras realizó el recuento de vagones y, durante el mismo, ordenó la realización de la prueba de freno. Se encontró con el maniobrador a la altura del octavo DV aproximadamente, a la izquierda en la dirección prevista de circulación del tramo de maniobra, cuando el maniobrador regresaba en dirección a la locomotora y comunicó al jefe de maniobras que todo estaba en orden. El jefe de maniobras continuó con el recuento de la composición y comprobó la señalización del último DV con reflectores viaflex. Ambos empleados del transportista pasaron, durante estas actividades, junto al desvío núm. 45, comprobando su posición para la dirección prevista de maniobra únicamente mediante la visualización del contrapeso de la aguja, ya que sobre el desvío se encontraba un vagón y, además, estaban convencidos de que no era su obligación. El jefe de maniobras dio a continuación, por radio, instrucción al maquinista para poner en movimiento el tramo de maniobra y, antes de la salida, se montó en el estribo izquierdo en el extremo del último DV en la dirección de circulación. Tras recorrer unos 20 metros, oyó algo parecido a un chirrido o crujido y vio cómo el decimocuarto DV se desviaba a la izquierda. Inmediatamente dio, por radio, al maquinista de reserva la señal «Pare, deténgase por todos los medios». Del examen del lugar de origen del SU se constató la descarrilación del último y del penúltimo DV, habiendo quedado el bogie trasero del último DV sobre la vía núm. 48a y descarrilado el bogie delantero en dicha vía. El bogie trasero del penúltimo DV también se encontraba descarrilado en la vía núm. 48a, mientras que el bogie delantero del DV se encontraba sobre la vía núm. 48.
+condicionado por la finalización del maniobras de la vía privada, que añadía otros cinco DV a los diez DV de la serie Habis preparados para su envío ya el 2. 9. 2009 en la vía 101c, y que por motivo de la liberación de la aguja n.º 2 para la entrada del operador a la vía privada intervenía hasta la vía n.º 48 más allá de la aguja n.º 45, siendo así que el penúltimo DV se encontraba sobre la aguja n.º 45, respectivamente su bogie delantero estaba sobre la aguja y el trasero delante de la aguja n.º 45 en el sentido del movimiento previsto del tramo de maniobras. Tras la finalización del maniobras de la vía privada y la estacionamiento de la locomotora de la vía privada en la vía n.º 20, el jefe de vía – vía privada dio su consentimiento para el inicio de las maniobras del operador. La tarea del operador al servicio de la vía privada consistía en el traslado de los quince vagones preparados desde la vía privada, siendo que la ruta de maniobras para la maniobra con el tren comenzaba desde el final del tramo de maniobras, es decir, desde el último DV que se encontraba, antes del inicio de la maniobra, en la vía n.º 48 delante de la aguja n.º 45 en el sentido del movimiento previsto por las vías n.º 48, 46, 101c, 101b. La aguja n.º 45 era la aguja afectada en la ruta de maniobras. El operador acopló con la locomotora al primer vagón del grupo de 15 DV, que ya se encontraba en la vía n.º 101b. Al acoplarse a los vagones estacionados no se produjo movimiento, tanto durante el maniobras de la vía privada como durante las maniobras del operador con estos vagones. El maniobrador acopló la locomotora y recibió del jefe de maniobras las instrucciones para señalizar el último vagón del tren con la señal "Fin de tren", para la comprobación de la sujeción de los vagones, para la eliminación de los topes y la liberación de los frenos. El jefe de maniobras realizó el inventario de los vagones y, durante el mismo, ordenó la realización de la prueba de freno. Se encontró con el maniobrador a la altura del octavo DV aproximadamente a la izquierda en el sentido del movimiento previsto del tramo de maniobras, cuando el maniobrador regresaba en dirección a la locomotora y comunicó al jefe de maniobras que todo estaba en orden. El jefe de maniobras continuó con el inventario del tren y comprobó la señalización del último DV con reflectores viaflex. Ambos empleados del operador pasaban durante estas actividades junto a la aguja n.º 45, comprobando su posición para el sentido previsto de maniobra únicamente mediante la visualización del contrapeso de la palanca, ya que sobre la aguja se encontraba un vagón y, además, estaban convencidos de que no se trataba de su obligación. El jefe de maniobras dio a continuación, por radio, la instrucción al maquinista para poner en movimiento el tramo de maniobras y, antes de la salida, se subió al escalón izquierdo en el extremo del último DV en el sentido de la marcha. Tras recorrer unos 20 metros, escuchó algo parecido a un chirrido o crujido y observó que el decimocuarto DV se inclinaba a la izquierda. Inmediatamente dio por radio al maquinista de reserva la señal "Alto, deténgase por todos los medios". Tras el examen del lugar de origen de la MU se constató el descarrilamiento del último y del penúltimo DV, siendo así que el bogie trasero del último DV se encontraba en la vía n.º 48a y el bogie delantero había descarrilado en dicha vía. El bogie trasero del penúltimo DV también había descarrilado en la vía n.º 48a, encontrándose el bogie delantero del DV en la vía n.º 48.
 ## 4.2
 ### Análisis
-### 4.2.1 Evaluación de los hechos establecidos según el punto 3 y exposición de conclusiones sobre la causa del suceso y la actuación de los servicios de emergencia
-Al determinar las causas y circunstancias de la aparición del SU mencionado, la DI partió principalmente de los siguientes hechos:
-La investigación del SU en su lugar de origen fue iniciada por la DI a solicitud de la Policía Nacional (PČR) y del representante autorizado del transportista, en virtud de lo dispuesto en el § 11 apartado 2, letra b), punto 3 del decreto núm. 376. La DI atendió dicha solicitud y acudió al lugar de origen del SU la VI ÚI Praga, previa revocación del consentimiento ya concedido para el inicio de los trabajos de limpieza. Antes de la llegada de la VI al lugar de origen del SU, y debido al consentimiento originalmente concedido, se estaba realizando la maniobra de la parte móvil del desvío núm. 45 manejado manualmente. La DI partió, por tanto, únicamente del estado detectado tras la llegada de la VI al lugar de origen del SU;
-La composición de DV preparados para su salida se había formado en las vías núm. 101b, 101c, parcialmente en la vía 46 y 48, de manera que el primer DV se encontraba en la vía 101b y el último DV tras
+### 4.2.1 Evaluación de los hechos constatados de acuerdo con el punto 3 y formulación de conclusiones sobre la causa del suceso excepcional y la actuación de los servicios de rescate
+Al investigar las causas y circunstancias de la MU indicada, la DI partió principalmente de los siguientes hechos:
+La DI inició la investigación de la MU en su lugar de origen a petición de la Policía (PČR) y de la persona autorizada del operador, en el sentido de lo dispuesto en el apartado 2, letra b), punto 3, del § 11 de la disposición n.º 376. La DI atendió dicha petición y acudió al lugar de origen de la MU el VI ÚI Praga, previa revocación del consentimiento ya otorgado para el inicio de los trabajos de limpieza. Antes de la llegada del VI al lugar de origen de la MU, y en virtud del consentimiento originalmente otorgado, se estaba realizando la maniobra de la parte móvil de la aguja n.º 45 construida manualmente. La DI partió, por tanto, únicamente del estado constatado tras la llegada del VI al lugar de origen de la MU;
+El tren de DV preparados para su envío se había formado en las vías n.º 101b, 101c, parcialmente en las vías 46 y 48, de manera que el primer DV se encontraba en la vía 101b y el último DV detrás de
 
 ## Página 29
 
-desvío n.º 45 en la vía n.º 48. El penúltimo DV de la composición se situaba parcialmente en el desvío n.º 45 de tal manera que el bogie delantero (valorado según el sentido de circulación previsto de la maniobra) se encontraba en el desvío y el bogie trasero antes del desvío. La ruta de maniobra para la maniobra con la composición comenzaba desde el extremo de la maniobra, es decir, desde el último DV antes del desvío n.º 45 en el sentido de circulación previsto por las vías n.º 48, 46, 101c, 101b. El desvío n.º 45 era el desvío afectado en la ruta de maniobra;
-Las vías n.º 46 y 48 no figuran como vías de entrega ni en el contrato n.º 22D/9/2009 ni en el VPŘ, pero la disposición del VPŘ permite, previo acuerdo con el transportista, su utilización, lo que se cumplió en este caso. El explotador de la vía – el apartadero –, en relación con la determinación de las vías de entrega, incumplió la disposición del art. 2 del VPŘ, ya que no garantizó la correspondencia entre la disposición del punto 2 del art. 3 del contrato n.º 22D/9/2009, donde como lugar de entrega de los DV figuran las vías de apartadero n.º 101a, 101b, 101c, 3, 102, y la disposición del art. 13 del VPŘ, donde como lugar de entrega y recepción de los DV se establece únicamente la vía de apartadero n.º 101b, con la salvedad de que, si no se acuerdan de otra forma el jefe del apartadero y el jefe de maniobras;
-La investigación determinó que, una vez iniciada la maniobra, se produjo la circulación del bogie delantero del penúltimo DV en el sentido de circulación previsto de la maniobra por la vía n.º 48, mientras que el bogie trasero de dicho DV y el último DV circulaban por la vía n.º 48a. Esta situación se mantuvo hasta el momento en que, debido a que la fuerza de tracción transmitida no actuaba en el eje de movimiento del bogie trasero del penúltimo DV, este bogie no pudo continuar su circulación por la vía n.º 48a y descarriló. A continuación, como consecuencia de este descarrilamiento, descarriló también el bogie delantero del último DV en la vía n.º 48a. En estado de descarrilamiento, la maniobra recorrió aproximadamente 24 m;
-El punto «0», primera huella cuando la rueda del DV abandonó la cabeza del carril, fue encontrado durante la inspección del lugar del MU en la vía n.º 48a, en el carril derecho, a 40,8 m de la punta de la aguja del desvío n.º 45. Durante la inspección de dicho desvío se comprobó que las puntas de las agujas del desvío estaban limpias y sin deformaciones;
-Mediante la evaluación de las mediciones de la superestructura ferroviaria y del desvío n.º 45 se detectaron defectos en el corazón del desvío, en el gancho de bloqueo izquierdo del desvío, incluida una prueba de encaje no satisfactoria, así como la superación de los valores operativos límite de la flecha de la vía n.º 48a;
-Al valorar los hechos constatados, el estado de los componentes de la vía se evaluó como un defecto que no guarda relación directa con la causa inmediata de la aparición del MU, ya que la distancia de 40,8 m del punto «0» a la punta de la aguja del desvío n.º 45, la ausencia de huellas mecánicas en las puntas de las agujas del desvío y la posición final de los bogies de los vehículos descarrilados son circunstancias que demuestran claramente que el desvío n.º 45 en la ruta de maniobra no estaba, en el momento del inicio de la maniobra, conmutado para el sentido de circulación previsto de la maniobra, sino en el sentido de desvío hacia la vía n.º 48a;
-La normativa interna del explotador de la vía – el apartadero – VP D2, vigente en el momento de la aparición del MU, establece en el art. 149 (149.2, 1494, 149.4.2), entre otros, la obligación del empleado que dirige la maniobra de garantizar el cumplimiento de los procedimientos tecnológicos establecidos por dicha normativa para la maniobra y, además, de dar la primera orden para iniciar el movimiento de la maniobra solo bajo la condición de que la ruta de maniobra esté correctamente conmutada. En el art. 141 define la ruta de maniobra correctamente conmutada (los desvíos recorridos en la ruta de maniobra deben estar conmutados en la posición correcta para la circulación prevista). En los arts. 73, 77 y 80 establece que los desvíos solo pueden ser operados por una persona cualificada, además, cuándo un desvío está correctamente conmutado (si está conmutado para el sentido previsto) y cómo determina dicha persona cualificada el estado de los desvíos conmutados manualmente (en el desvío no hay daños evidentes ni averías que impidan la circulación de los vehículos, la aguja del desvío se ajusta al riel de apoyo; la palanca con contrapeso llega a la posición extrema hacia el suelo).
+desvío n.º 45 en la vía n.º 48. El penúltimo DV del convoy se situaba parcialmente en el desvío n.º 45, de modo que el bogie delantero (valorado según el sentido de circulación previsto de la maniobra) se encontraba en el desvío y el bogie trasero antes del desvío. La ruta de maniobra para la maniobra con el convoy comenzaba desde el extremo de la maniobra, es decir, desde el último DV antes del desvío n.º 45 en el sentido de circulación previsto por las vías n.º 48, 46, 101c, 101b. El desvío n.º 45 era el desvío afectado en la ruta de maniobra;
+Las vías n.º 46 y 48 no figuran como vías de entrega ni en el contrato n.º 22D/9/2009 ni en el VPŘ, pero la disposición del VPŘ permite, previo acuerdo con el transportista, su utilización, lo que se cumplió en este caso. El operador de la vía – el apartadero –, en relación con la determinación de las vías de entrega, incumplió la disposición del VPŘ art. 2, ya que no garantizó la correspondencia entre la disposición del art. 3 punto 2 del contrato n.º 22D/9/2009, donde como lugar de entrega de los DV se indican las vías de apartadero n.º 101a, 101b, 101c, 3, 102, y la disposición del VPŘ art. 13, donde como lugar de entrega y recepción de los DV se establece únicamente la vía de apartadero n.º 101b, con la salvedad de que, si no se ponen de acuerdo el jefe del apartadero y el jefe de maniobras, se establecerá de otra forma;
+La investigación determinó que, una vez iniciada la maniobra, se produjo la circulación del bogie delantero del penúltimo DV en el sentido de circulación previsto de la maniobra por la vía n.º 48, mientras que el bogie trasero de dicho DV y el último DV circulaban por la vía n.º 48a. Esta situación persistió hasta el momento en que, debido a que la fuerza de tracción transmitida no actuaba en el eje de movimiento del bogie trasero del penúltimo DV, dicho bogie no pudo continuar su circulación por la vía n.º 48a y descarriló. A continuación, como consecuencia de este descarrilamiento, descarriló también el bogie delantero del último DV en la vía n.º 48a. En estado de descarrilamiento, la maniobra recorrió unos 24 m;
+El punto «0», primera huella cuando la rueda del DV abandonó la cabeza del carril, se encontró durante el examen del lugar del MU en la vía n.º 48a, en el carril derecho, a 40,8 m de la punta de la aguja del desvío n.º 45. Durante el examen de dicho desvío se comprobó que las puntas de las agujas del desvío estaban limpias y sin deformaciones;
+De la evaluación de las mediciones de la superestructura ferroviaria y del desvío n.º 45 se detectaron defectos en la cruceta, en el gancho de bloqueo izquierdo del desvío, incluida una prueba de bloqueo no satisfactoria, así como la superación de los valores operativos límite de la flecha de la vía n.º 48a;
+Al valorar los hechos constatados, el estado de los componentes de la vía se evaluó como un defecto que no guarda relación directa con la causa inmediata de la aparición del MU, ya que la distancia de 40,8 m del punto «0» a la punta de la aguja del desvío n.º 45, la ausencia de huellas mecánicas en las puntas de las agujas del desvío y la posición final de los bogies de los vehículos descarrilados son circunstancias que evidencian de manera inequívoca que el desvío n.º 45 en la ruta de maniobra no estaba, en el momento del inicio de la maniobra, conmutado para el sentido de circulación previsto de la maniobra, sino en el sentido de desvío hacia la vía n.º 48a;
+La normativa interna del operador de la vía – el apartadero – VP D2, vigente en el momento de la aparición del MU, establece en el art. 149 (149.2, 1494, 149.4.2), entre otros, la obligación del empleado que dirige la maniobra de garantizar el cumplimiento de los procedimientos tecnológicos establecidos por dicha normativa para la maniobra y, además, de dar la primera instrucción para iniciar el movimiento de la maniobra solo bajo la condición de que la ruta de maniobra esté correctamente conmutada. En el art. 141 define la ruta de maniobra correctamente conmutada (los desvíos recorridos en la ruta de maniobra deben estar conmutados en la posición correcta para la circulación prevista). En los arts. 73, 77 y 80 establece que los desvíos solo pueden ser operados por una persona cualificada, además, cuándo un desvío está correctamente conmutado (si está conmutado para el sentido previsto) y cómo dicha persona cualificada lo comprueba en los desvíos conmutados manualmente (en el desvío no hay daño evidente ni avería que impida la circulación de los vehículos, la aguja del desvío se ajusta al riel de apoyo; la palanca con contrapeso llega a la posición extrema en el suelo).
 
 ## Página 30
+
 
 La obligación de cumplir las disposiciones de los procedimientos tecnológicos en la explotación de la vía y del transporte ferroviario, la organización y el mando de la circulación de los vehículos ferroviarios en el espacio de la vía-ramal, indicadas en la normativa interna del explotador de la vía-ramal, la establece el VPŘ en el art. 20 punto 6.3 y en el art. 21;
 La vigencia del VPŘ para el transportista la establece el contrato n.º 22D/9/2009 en el art. 4 puntos 2 y 6. Los empleados del transportista indican en sus registros que no es su obligación la comprobación de la ruta de maniobras establecida y argumentan con la segunda modificación del reglamento de explotación de enlace para el ramal Tonaso del año 2005, artículo n.º 3, organización de las maniobras en la vía-ramal, cuando uno de los puntos dice que por la colocación de los desvíos en la vía de entrega correspondiente y la libertad de los correspondientes topes responde el jefe de vía-ramal; asimismo, el permiso para la maniobra lo da el jefe del ramal tras la entrega de la llave del enclavamiento auxiliar.
@@ -852,68 +782,61 @@ La investigación determinó que los empleados del transportista implicados en e
 El transportista, a pesar de que con base en la disposición del art. 4 del VPŘ y el art. 3 apartado 3 del contrato sabía que la competencia profesional la había establecido el explotador de la vía-ramal mediante su normativa interna VP Ok2, no atendió a la competencia profesional de sus empleados (véase el art. 3.5.1), aunque así debía hacerlo según su directiva PERs28-B-2009, Reglamento de pruebas y formación.
 Con su enfoque en el cumplimiento de las disposiciones del contrato n.º 22D/9/2009, del VPŘ y de las normativas internas, y con su actividad de control ineficaz, el explotador de la vía-ramal y el transportista permitieron que personas implicadas en el SU realizaran actividades en la explotación de la vía y del transporte ferroviario que, en el momento de su producción, no eran competentes profesionalmente.
 
-
 ## Página 31
 
 ## 4.3
 ### Conclusiones
-4.3.1 Causas inmediatas del suceso ferroviario, incluidos los factores que contribuyeron al mismo y que se relacionaron con la actuación de las personas implicadas o con el estado de los vehículos ferroviarios o de las instalaciones técnicas
-La causa inmediata de la producción del SU fue la iniciación de la maniobra a través de un desvío en la ruta de maniobras que no estaba dispuesto para la dirección de circulación prevista, sino para la dirección de desvío.
+4.3.1 Causas inmediatas del suceso ferroviario, incluidos los factores que contribuyeron al mismo y que estuvieron relacionados con la actuación de las personas implicadas o con el estado de los vehículos ferroviarios o de las instalaciones técnicas
+La causa inmediata de la producción del SU fue la iniciación de una maniobra a través de un desvío en la vía de maniobras, que no estaba dispuesto para la dirección de circulación prevista, sino para la dirección de desvío.
 Factores que contribuyeron al SU:
-Los empleados del transportista implicados en el SU, al realizar la maniobra en el ramal, no actuaron en consonancia con los procedimientos tecnológicos vigentes contenidos en las normativas internas del explotador de la vía-ramal, puesto que no se les había puesto en conocimiento de los mismos.
-Ineficacia del sistema de control por parte de los implicados en el SU, en el sentido de que las deficiencias que generaron las circunstancias para la producción del SU no fueron detectadas y eliminadas.
+Los empleados del transportista implicados en el SU, al realizar la maniobra en el apartadero, no actuaron ●
+conforme a los procedimientos tecnológicos vigentes contenidos en las normas internas del gestor de la vía – apartadero, puesto que no habían sido instruidos sobre los mismos.
+Ineficacia del sistema de control por parte de los implicados en el SU, en el sentido de que las deficiencias ●
+que dieron lugar a las circunstancias de producción del SU no fueron detectadas ni subsanadas.
 ### 4.3.2 Causas fundamentales relacionadas con la cualificación, los procedimientos y el mantenimiento
-Las actividades en la explotación de la vía y del transporte ferroviario en la vía-ramal «Vlečka Tonaso a.s.», realizadas en la explotación del ramal por el transportista, las llevaban a cabo personas no competentes profesionalmente, puesto que no tenían superadas las pruebas profesionales prescritas por el explotador de la vía-ramal para dichas actividades, no participaron en la formación periódica establecida por este y no se les había puesto en conocimiento demostrable de la Documentación tecnológica de explotación en la vía-ramal, elaborada en consonancia con el VPŘ.
+Las actividades de explotación de la vía y del transporte ferroviario en la vía – apartadero «Vlečka Tonaso a.s.», realizadas por el transportista en la explotación del apartadero, eran desempeñadas por personas sin la cualificación profesional necesaria, puesto que no habían superado los exámenes profesionales prescritos por el gestor de la vía – apartadero para dichas actividades, no participaron en la formación periódica establecida por el mismo y no se acreditó que hubieran sido instruidas sobre la Documentación Tecnológica de Explotación de la Vía – Apartadero, elaborada conforme a las VPŘ.
 ### 4.3.3 Causas derivadas del marco normativo y del uso del sistema de garantía de la seguridad
-El transporte ferroviario no se explotó de acuerdo con el contrato n.º 22D/9/2009, de explotación del transporte ferroviario en la vía-ramal «Vlečka Tonaso a.s.», celebrado entre el transportista y el explotador de la vía-ramal, y en particular mediante la omisión de la obligación de garantizar la competencia profesional de los empleados del transportista de acuerdo con dicho contrato, la no elaboración de la Documentación tecnológica de explotación en la vía-ramal «Vlečka Tonaso a.s.» y el incumplimiento de las disposiciones de las normativas internas del explotador de la vía-ramal.
-### El SU se produjo debido a la infracción de la normativa legal:
-§ 22 apartado (1) letra c) de la ley [véase el art. 3.2.1 A2];
-●
-§ 35 apartado (1) letras a) y f) y apartado (2) letra f) de la ley [véase el art. 3.2.1 A3];
-●
-§ 2 apartado (4) del decreto n.º 173 [véase el art. 3.2.1 A5];
-●
-§ 16 apartado (11) del decreto n.º 173 [véase el art. 3.2.1 A9];
-●
-§ 23 apartados (7) y (10) del decreto n.º 173 [véase el art. 3.2.1 A6, A7];
-●
-§ 24 del decreto n.º 173 [véase el art. 3.2.1 A8)];
-●
-§ 33 apartado (2) del decreto n.º 173 [véase el art. 3.2.1 A10];
-●
+El transporte ferroviario no fue explotado conforme al contrato n.º 22D/9/2009, de explotación del transporte ferroviario en la vía – apartadero «Vlečka Tonaso a.s.», celebrado entre el transportista y el gestor de la vía – apartadero, en particular por ignorar la obligación de garantizar la cualificación profesional de los empleados del transportista conforme a dicho contrato, por no elaborar la Documentación Tecnológica de Explotación de la Vía – Apartadero «Vlečka Tonaso a.s.» y por no respetar las disposiciones de las normas internas del gestor de la vía – apartadero.
+### La producción del SU se debió a la infracción de la normativa legal:
+§ 22 apartado (1) letra c) de la ley [véase art. 3.2.1 A2]; ●
+§ 35 apartado (1) letras a) y f) y apartado (2) letra f) de la ley [véase art. 3.2.1 A3]; ●
+§ 2 apartado (4) del decreto n.º 173 [véase art. 3.2.1 A5]; ●
+§ 16 apartado (11) del decreto n.º 173 [véase art. 3.2.1 A9]; ●
+§ 23 apartados (7) y (10) del decreto n.º 173 [véase art. 3.2.1 A6, A7]; ●
+§ 24 del decreto n.º 173 [véase art. 3.2.1 A8)]; ●
+§ 33 apartado (2) del decreto n.º 173 [véase art. 3.2.1 A10]; ●
 
 ## Página 32
 
-§35 apartado (1) letra a) [véase art. 3.2.1 A3] en el sentido del contrato n.º 22D/9/2009, infracción 
+§35 apartado (1) letra a) [véase art. 3.2.1 A3] en el sentido del contrato n.º 22D/9/2009, incumplimiento
 ●
-del artículo 3 puntos 2 y 3, del artículo 4 puntos 1, 2, 3, 4, 6 y 8 y del artículo 5 punto 3 del contrato [véase art. 
+del artículo 3 puntos 2 y 3, del artículo 4 puntos 1, 2, 3, 4, 6, 8 y del artículo 5 punto 3 del contrato [véase art.
 3.2.1 B4]
-aplicados y desarrollados en los procedimientos tecnológicos de las normas internas 
-del gestor de la infraestructura VP D2 artículos 73, 77, 80, 141, 149 [véase art. 3.2.1 B1], VP Ok2 artículos 
-50, 56, 352 letra d), 354 letra d), 401, 403, 420 [véase art. 3.2.1 B2], VPŘ artículos 4, 
-13, 20 punto 6.3, 21 [véase art. 3.2.1 B3] y del transportista Reglamento de pruebas y formación artículo 4.3, 
+aplicados y desarrollados en los procedimientos tecnológicos de las normas internas
+del gestor de la infraestructura VP D2 artículos 73, 77, 80, 141, 149 [véase art. 3.2.1 B1], VP Ok2 artículos
+50, 56, 352 letra d), 354 letra d), 401, 403, 420 [véase art. 3.2.1 B2], VPŘ artículos 4,
+13, 20 punto 6.3, 21 [véase art. 3.2.1 B3] y del transportista Reglamento de pruebas y formación artículo 4.3,
 punto 4.3.2.2 [véase art. 3.2.1 C1].
 ## 4.4
 ### Hallazgos complementarios
-### 4.4.1 Deficiencias y omisiones detectadas durante la investigación de las causas y circunstancias del 
-accidente ferroviario, que sin embargo no son relevantes para las conclusiones sobre las causas
-Estado técnico del desvío n.º 45 y de la superestructura de la vía n.º 48a en la línea – 
-ramal privado (véase artículo 4.2.1).
+### 4.4.1 Deficiencias y omisiones detectadas durante la investigación de las causas y circunstancias del origen
+del suceso ferroviario, que sin embargo no son relevantes para las conclusiones sobre las causas
+Estado técnico del desvío n.º 45 y de la superestructura de la vía n.º 48a en la línea – apartadero (véase
+artículo 4.2.1).
 ## 5 MEDIDAS ADOPTADAS
 ## 5.1
-### Lista de medidas que ya se han adoptado o tomado como 
-consecuencia del accidente ferroviario
-El gestor de la infraestructura – ramal privado ha reconocido temporalmente la idoneidad profesional y sanitaria 
+### Lista de medidas que ya se han tomado o adoptado como consecuencia del suceso ferroviario
+El gestor de la infraestructura – apartadero ha reconocido temporalmente la idoneidad profesional y
 ●
-de los empleados de ČD Cargo, a. s., que realizan actividades en la explotación de la infraestructura 
-y del transporte ferroviario en el ramal privado, establecida en las normas internas del transportista hasta la 
+sanitaria de los empleados de ČD Cargo, a. s., que realizan actividades en la explotación de la línea
+y del transporte ferroviario en el apartadero, establecida en las normas internas del transportista, hasta la
 entrada en vigor del nuevo contrato de explotación del transporte ferroviario;
-El transportista ha elaborado un anexo a la norma interna, "Documentación tecnológica 
+El transportista elaboró un anexo a la norma interna, "Documentación tecnológica
 ●
-de explotación en la línea – ramal privado Ramal privado Tonaso a.s.", que es conforme con el VPŘ vigente;
-
+de explotación en la línea-apartadero Apartadero Tonaso a.s.", que está en conformidad con el VPŘ vigente;
 
 ## Página 33
+
 
 ## 6 RECOMENDACIONES DE SEGURIDAD
 Dadas las circunstancias y causas del accidente ferroviario investigado, no se emitió 
@@ -926,14 +849,14 @@ Director
 Delegación Territorial de Praga
 Delegación Territorial de Praga
 
-
 ## Página 34
+
 
 ## 7 ANEXOS
 Foto 1: Vehículos ferroviarios descarrilados
 
-
 ## Página 35
+
 
 Foto 2: Prueba de enclavamiento del desvío n.º 45 con el calibrador de prueba "6 mm"
 Foto 3: Vista general

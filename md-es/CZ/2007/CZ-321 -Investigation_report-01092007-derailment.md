@@ -10,13 +10,14 @@ chars: 47309
 ratio_longitud: 1.31
 tokens_in: 19866
 tokens_out: 13761
-verificacion: revisar
-notas_cifras: ["bloque 1: original bilingüe: se compara contra el idioma principal (EN)", "bloque 2: original bilingüe: se compara contra el idioma principal (CS)", "bloque 3: cifras cortas: 6/70", "bloque 4: cifras cortas: 12/132", "bloque 5: cifras cortas: 5/104", "bloque 6: original bilingüe: se compara contra el idioma principal (CS); cifras largas: 1/27; cifras cortas: 3/80"]
-avisos: ["bloque 6: marcadores de página: 4 vs 3; ratio 1.64"]
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 4: original bilingüe: se compara contra el idioma principal (EN)", "página 5: original bilingüe: se compara contra el idioma principal (CS)", "página 7: cifras cortas: 5/36", "página 8: cifras cortas: 1/32", "página 9: cifras cortas: 3/45"]
 ---
+
 ## Página 1
+
 
 Inspección Ferroviaria
 República Checa
@@ -42,11 +43,12 @@ N.º de identificación fiscal (IČO): 75009561
 http://www.dicr.cz
 fax: (+420) 224 805 428
 
-
 ## Página 2
 
 
+
 ## Página 3
+
 
 # RESUMEN
 | Fecha y hora: | 1 de septiembre de 2007, 08:12 (06:12 GMT), |
@@ -59,8 +61,8 @@ fax: (+420) 224 805 428
 | Causa raíz: | no investigada |
 Recomendación: no emitida
 
-
 ## Página 4
+
 
 # Índice
  Resumen .............................................................................................................................3
@@ -89,6 +91,7 @@ Recomendación: no emitida
 3.1.1 Empleados del titular de la infraestructura y del transportista, incluidas las personas en relación contractual
 
 ## Página 5
+
 
 proporción ...............................................................................................................11
 3.1.2 Otras personas ..........................................................................................................11
@@ -119,8 +122,8 @@ proporción ....................................................................
 4.1.1 Descripción final del incidente basada en los hechos constatados en el punto 3 
 ............................................................................................................................16
 
-
 ## Página 6
+
 
 4.2 Análisis ......................................................................................................................16
 4.2.1 Evaluación de los hechos constatados según el punto 3 y presentación de las conclusiones sobre la causa del incidente y la actuación de los servicios de emergencia ..........................................16
@@ -142,6 +145,7 @@ de cambio de peralte ...........................................................
 
 ## Página 7
 
+
 ## 1 RESUMEN
 El 1 de septiembre de 2007 a las 8:12 horas se produjo en la línea regional de ferrocarril Tábor – Bechyně un incidente excepcional en el transporte ferroviario (en adelante, IE), a tenor del artículo 49 de la ley n.º 266/1994 Coll., sobre ferrocarriles, en su redacción posterior (en adelante, la ley), cuando, durante la circulación del tren de pasajeros Os 28406, descarriló el vehículo ferroviario remolcado (en adelante, vagón) de la serie Bmto con el número de registro (en adelante, n.º reg.) 5054 2618 130-9, situado como (segundo) último, con su bogie trasero en el pk 0,600. Durante el descarrilamiento se produjeron daños en la superficie del paso a nivel y en el vagón descarrilado.
 No se registraron lesiones a las personas participantes en el IE.
@@ -156,9 +160,10 @@ El IE se produjo el 1 de septiembre de 2007 a las 8:12 horas en la línea region
 
 ### 2.1.2 Descripción del incidente excepcional y del lugar del accidente, incluida la actuación del sistema integrado de rescate y del servicio de emergencias
 El lugar del IE se encuentra en la línea regional de ferrocarril electrificada de vía única Tábor - Bechyně, en una curva a la derecha en el entorno urbano entre los pasos a nivel (en adelante, PaN) en los pk 0,591 y 0,718; la vía desciende en el sentido de circulación del tren. Desde el pk 0,320 hasta el pk 0,640 está establecida una velocidad de línea de 10 km/h.
-El tren partió de la estación de Tábor, es decir, del pk 0,000 de la citada línea, puntualmente según el horario de circulación; hasta el pk 0,600 de la línea la circulación se desarrolló sin incidencias. A continuación, durante la circulación del tren, la rueda exterior del tercer eje del último (segundo) vagón Bmto subió por encima del carril y cayó fuera de la vía a la izquierda en el sentido de circulación del tren; se encontró una clara huella del descarrilamiento en el pk 0,600, lugar que la persona autorizada para determinar las causas y las circunstancias de la aparición del IE designó como el lugar del descarrilamiento (en adelante, punto «0»). El tren continuó circulando, ya que el cuarto eje mantenía el vagón en el eje de la vía hasta el pk 0,711, momento en el que también descarriló al chocar el tercer eje contra el borde del siguiente PaN. La persona 
+El tren partió de la estación de Tábor, es decir, del pk 0,000 de la citada línea, puntualmente según el horario de circulación; hasta el pk 0,600 de la línea la circulación se desarrolló sin incidencias. A continuación, durante la circulación del tren, la rueda exterior del tercer eje del último (segundo) vagón Bmto subió por encima del carril y cayó fuera de la vía a la izquierda en el sentido de circulación del tren; se encontró una clara huella del descarrilamiento en el pk 0,600, lugar que la persona autorizada para determinar las causas y las circunstancias de la aparición del IE designó como el lugar del descarrilamiento (en adelante, punto «0»). El tren continuó circulando, ya que el cuarto eje mantenía el vagón en el eje de la vía hasta el pk 0,711, momento en el que también descarriló al chocar el tercer eje contra el borde del siguiente PaN. La persona
 
 ## Página 8
+
 
 que conducía el vehículo ferroviario (en adelante, maquinista) percibió sacudidas en el vehículo ferroviario motorizado (en adelante, VFM), comprobó visualmente la composición del tren, vio que el último vagón se había desviado del eje del tren y aplicó el freno de emergencia para detener el tren. La cabeza del tren se detuvo en el pk 0,804.
 En el lugar del IE actuaron el Servicio de Bomberos y Rescate de los Ferrocarriles Checos, s. a. (en adelante, SBR FC), de České Budějovice, y la Policía de la República Checa (en adelante, PRC) de Tábor; el servicio médico de emergencias no actuó debido a que no se produjeron heridos.
@@ -178,6 +183,7 @@ El tren Os 28406 estaba compuesto por un VFM de la serie y n.º reg. 113 002-0, 
 
 ## Página 9
 
+
 ### 2.2.3 Descripción de los componentes de la vía de circulación ferroviaria, del sistema de seguridad (es decir, en particular del estado de las vías, de los desvíos, de los centros de mando, de las señales y del equipo de seguridad a bordo del tren)
 Se trata de una línea ferroviaria regional de vía única, electrificada con el sistema de corriente continua de 1500 V, desde la estación de Tábor hasta la estación de Bechyně, con una longitud de 24 km.
 El tráfico ferroviario se gestiona de forma simplificada de conformidad con el artículo 19 del Decreto n.º 173/1995 Coll., por el que se aprueba el reglamento de circulación ferroviaria, en su versión posterior, y con el reglamento interno de ČD D3 - Reglamento para la gestión simplificada del tráfico ferroviario. La sede de la persona encargada de la gestión del tráfico ferroviario (en lo sucesivo, despachador de tráfico) es la estación de Bechyně.
@@ -194,37 +200,32 @@ En el punto kilométrico 0,591 estaban planificados trabajos de reparación de m
 ### 2.2.6 Activación del plan de emergencia ferroviaria y secuencia de los acontecimientos
 El maquinista notificó la aparición del incidente mediante radiotransceptor a las 8:29 horas, tras obtener la información básica, al despachador de tráfico de la estación de Bechyně, quien garantizó la notificación de conformidad con el Plan de Notificación a través de la red telefónica fija. Posteriormente, el Centro Regional de Investigación de Accidentes Ferroviarios (RIBŽD) de Pilsen, que prestaba servicio de guardia de accidentes, notificó la aparición del incidente al Centro de Operaciones de Emergencia (COP) a las 8:51 horas, de conformidad con la legislación aplicable y los acuerdos correspondientes. El Centro de Operaciones de Emergencia de la Dirección de Infraestructuras (COP DI) decidió, a las 8:52 horas, el envío de la guardia de accidentes localmente competente de la Dirección de Infraestructuras, que partió a las 9:00 horas. La investigación propiamente dicha fue iniciada por el Inspector de Investigación (VI) a las 11:05 horas tras su llegada al lugar del incidente. El Inspector de Investigación autorizó los trabajos de desescombro a las 12:30 horas, tras haber asegurado los datos y la información procedentes del lugar del incidente.
 
-
 ## Página 10
 
-### 2.2.7 Activación del plan del Sistema Integrado de Rescate, de la policía y del servicio de asistencia médica de emergencia, y secuencia de los acontecimientos
-El despachador de tráfico de la estación de Bechyně notificó simultáneamente a las 8:31 horas la aparición del incidente al Servicio de Asistencia Médica de Emergencia (HZS) de České Budějovice de České dráhy y a la Policía de la República Checa (PČR) de Tábor, sin demora innecesaria tras obtener la información básica, de conformidad con el Decreto n.º 376/2006 Coll.
-Dado que no se produjeron heridos, el servicio de asistencia médica de emergencia no intervino en el lugar del incidente.
-El propio izado del vehículo descarrilado se llevó a cabo el 1 de septiembre de 2007, de 15:50 a 16:25 horas, mediante una grúa ferroviaria del tren auxiliar de socorro de accidentes (DKV) de České Budějovice.
-
-### 2.3 Muertes, lesiones y daños materiales
-2.3.1 En viajeros y terceros, empleados del titular de la infraestructura y del transportista, incluidas las personas en relación contractual
-En el incidente no se produjeron lesiones ni muertes de personas.
-
-### 2.3.2 En las mercancías transportadas, el equipaje y otros bienes
-No se produjeron daños en las mercancías transportadas, el equipaje ni otros bienes.
-
-### 2.3.3 En los vehículos ferroviarios, los componentes de la vía de circulación y en el medio ambiente
-Mediante una inspección comisionada del vehículo descarrilado Bmto el 4 de septiembre de 2007 en el taller de České Budějovice (DKV), se procedió a la medición de la geometría del conjunto del vehículo y de los bogies.
-Los valores medidos son conformes con la documentación gráfica y no influyeron en la aparición del incidente. El desgaste de las ruedas es coherente con un periodo de aproximadamente 2 meses de servicio oscilante en una línea con radios de curva pequeños.
-Además, se detectaron daños en la tubería del freno de presión, daños en dos guías del bogie «a», flexión del larguero y del refuerzo del bastidor de aproximadamente 200 mm, perforación del revestimiento exterior del vehículo en la parte inferior de aproximadamente 1 m², perforación del revestimiento exterior lateral del vehículo de aproximadamente 6 m, daños en la caja de aire comprimido, escalera angular deformada y tubería de desagüe del inodoro rota, y cristal roto de la ventanilla superior corredera.
-La tasación comisionada del daño del vehículo Bmto 50 54 26 18 130-9 asciende a 54 640,- Kč.
-
-| Tasación comisionada del daño del vehículo Bmto 50 54 26 18 130 -9 asciende a | 54 640 Kč ,- |
-| --- | --- |
-| Daño causado en la vía de circulación por un importe de | 6 400 Kč ,- |
+### 2.2.7 Activación del plan del sistema integrado de rescate, de la policía y del servicio médico de emergencia y secuencia de acontecimientos
+El despachador director de la estación de Bechyně comunicó simultáneamente a las 8:31 horas la creación de la unidad de emergencia del servicio de bomberos de los Ferrocarriles Checos de České Budějovice y de la Policía Nacional de Tábor, sin demora innecesaria tras la obtención de la información básica en el sentido del decreto n.º 376/2006 Sb.
+Dado que no hubo heridos, la unidad de emergencia no intervino en el lugar con el servicio médico de emergencia.
+El realineamiento propio del vagón descarrilado se llevó a cabo el día 1 de septiembre de 2007 de 15:50 a 16:25 horas mediante una grúa ferroviaria del tren auxiliar de accidentes de DKV České Budějovice.
+### 2.3 Fallecimientos, lesiones y daños materiales
+2.3.1 En pasajeros y terceros, empleados del gestor de la vía y del transportista, incluidas personas en relación contractual
+En el accidente no hubo heridos ni fallecidos.
+### 2.3.2 En objetos transportados, equipaje y otros bienes
+En los objetos transportados, el equipaje y otros bienes no se produjo ningún daño.
+### 2.3.3 En vehículos ferroviarios, componentes de la vía de circulación y en el medio ambiente
+Mediante la inspección comisionada del vagón Bmto descarrilado el día 4 de septiembre de 2007 en DKV České Budějovice se procedió a la remediación de la geometría del bastidor de todo el vagón y del bogie.
+Los valores medidos están en conformidad con la documentación de planos y no tuvieron influencia en la producción del accidente.
+El desgaste del bogie correspondía a un tiempo de aproximadamente 2 meses de funcionamiento en vaivén en una vía con radios de curva pequeños.
+Asimismo se constataron daños en la tubería del freno de aire, daños en dos placas deslizantes del bastidor "a", flexión del larguero y del refuerzo del bastidor en unos 200 mm, perforación del revestimiento exterior del vagón en la parte inferior en unos 1 m2, perforación del revestimiento exterior en el lateral del vagón en unos 6 m, fosa del depósito de aire dañada, escalón de esquina deformado y tubo de desagüe del WC, cristal de la ventana superior corredera roto.
+La determinación comisionada de los daños del vagón Bmto 50 54 26 18 130-9 asciende a
+54 640,- Kč
+| La determinación comisionada de los daños del vagón Bmto 50 54 26 18 130 -9 asciende a | 54 640 Kč ,- |
+| En la vía de circulación se produjo un daño por importe de | 6 400 Kč ,- |
 | El daño material total asciende a | 61 040 Kč ,- |
-| No se produjeron daños en el medio ambiente. |  |
-
-El tráfico ferroviario en la mencionada línea se interrumpió el 1 de septiembre de 2007, de 8:12 a 18:00 horas.
-
+| En el medio ambiente no se produjo ningún daño . |  |
+El tráfico ferroviario en la línea mencionada anteriormente fue interrumpido el día 1 de septiembre de 2007 de 8:12 a 18:00 horas.
 
 ## Página 11
+
 
 ### 2.4 Factores externos
 ### 2.4.1 Condiciones meteorológicas y datos geográficos
@@ -246,40 +247,31 @@ La explotación de la infraestructura y el tráfico ferroviario se realizan sobr
 
 ## Página 12
 
-### 3.2.2 Requisitos aplicables al personal del administrador de la infraestructura y del transportista y su cumplimiento
-
-La aptitud física y profesional está determinada por la ley, sus reglamentos de desarrollo y los reglamentos internos del administrador de la infraestructura. Su cumplimiento se garantiza mediante la realización de controles y la adopción de medidas correctivas en todos los niveles de la gestión.
-
-El maquinista disponía de una aptitud física y profesional válidas, así como de un certificado de aptitud para la conducción de vehículos ferroviarios, emitido por el Órgano de Inspección Ferroviaria (Drážní úřad) el 29 de abril de 1996.
-
-El responsable de la base operativa de Tábor disponía de una aptitud física y profesional válidas.
-
+### 3.2.2 Requisitos de los empleados del gestor de la infraestructura ferroviaria y del transportista y su cumplimiento
+La aptitud médica y profesional viene determinada por la ley, sus reglamentos de desarrollo y las normas internas del gestor. Su cumplimiento se garantiza mediante la realización de controles y la adopción de medidas correctoras en todos los niveles de gestión.
+El maquinista dispone de aptitud médica y profesional válidas y de un certificado de aptitud para la conducción de vehículos ferroviarios válido, expedido por la Oficina Ferroviaria el 29. 4. 1996.
+El jefe del centro de explotación de Tábor dispone de aptitud médica y profesional válidas.
 ### 3.2.3 Procedimiento de control interno de seguridad y sus resultados
-
-La actividad de control del administrador de la infraestructura y del transporte ferroviario se realiza a través de personal profesionalmente cualificado para dicha actividad, de conformidad con la legislación vigente y de acuerdo con lo dispuesto en los reglamentos internos del administrador de la infraestructura y del transporte ferroviario.
-
-### 3.2.4 Interfaces entre las distintas partes implicadas y las componentes de la vía
-
-La interfaz entre las partes implicadas está establecida por las disposiciones de la ley n.º 266/1994 Coll., sobre ferrocarriles, y de la ley n.º 77/2002 Coll., sobre la sociedad anónima ČD, la organización estatal SŽDC y sobre modificaciones de determinadas leyes, en su versión vigente.
-
-El propietario de la línea regional Tábor – Bechyně es la República Checa, representada por la Administración de la Red de Transporte Ferroviario, empresa pública (en adelante, SŽDC), con domicilio social en Dlážděná 1003/7, 110 00 Praga 1-Nové Město.
-
-El administrador de la infraestructura y del transporte ferroviario en el momento de la producción del incidente fue una única entidad, ČD, a. s., con domicilio social en Nábřeží L. Svobody 1222, 110 15 Praga 1, por lo que no se celebró contrato de explotación del transporte ferroviario.
-
-### 3.3 Marco jurídico y otras disposiciones
-
+La actividad de control del gestor de la infraestructura ferroviaria y del transporte ferroviario se realiza por medio de personas con la aptitud profesional necesaria para dicha actividad, de conformidad con la legislación vigente y de acuerdo con lo dispuesto en las normas internas del gestor de la infraestructura ferroviaria y del transporte ferroviario.
+### 3.2.4 Interfaz entre los distintos sujetos implicados y los componentes de la vía
+La interfaz entre los sujetos implicados viene establecida por las disposiciones de la Ley n.º 266/1994 Sb., de ferrocarriles, y de la n.º 77/2002 Sb., de la sociedad anónima ČD, organización estatal SŽDC y de modificación de algunas leyes, en su redacción vigente.
+El propietario de la línea ferroviaria regional Tábor – Bechyně es la República Checa, representada por la Administración de la Vía Ferroviaria de Transporte, s. o. (en adelante SŽDC), con domicilio en Dlážděná 1003/7, 110 00 Praha 1-Nové Město,
+El gestor de la infraestructura ferroviaria y del transporte ferroviario en el momento de producirse el MU era un único sujeto, ČD, a. s., Nábřeží L. Svobody 1222, 110 15 Praha 1, por lo que no se suscribe contrato de explotación del transporte ferroviario.
+### 3.3 Regulación jurídica y de otro tipo
 ### 3.3.1 Normativa comunitaria y nacional aplicable
-
-La normativa comunitaria aplicable es la Directiva 2004/49/CE del Parlamento Europeo y del Consejo, de 29 de abril de 2004 (Directiva sobre seguridad ferroviaria).
-
+La normativa comunitaria aplicable es la Directiva 2004/49/ES del Parlamento Europeo y del Consejo de 29. 4. 2004 (directiva sobre seguridad ferroviaria)
 Normativa nacional:
-
-*   Ley n.º 266/1994 Coll., sobre ferrocarriles, en su versión modificada posteriormente;
-*   Decreto n.º 100/1995 Coll., por el que se establecen las condiciones para la explotación, construcción y fabricación de determinados equipos técnicos y su concreción, en su versión modificada posteriormente;
-*   Decreto n.º 101/1995 Coll., por el que se aprueba el Reglamento sobre aptitud física y profesional para la explotación de la infraestructura y del transporte ferroviario, en su versión modificada posteriormente;
-*   Decreto n.º 173/1995 Coll., por el que se aprueba el Reglamento de circulación ferroviaria, en su versión modificada posteriormente;
+Ley n.º 266/1994 Sb., de ferrocarriles, en su redacción consolidada;
+●
+Reglamento n.º 100/1995 Sb., por el que se establecen las condiciones para la explotación, construcción y fabricación de instalaciones técnicas designadas y su concreción, en su redacción consolidada;
+●
+Reglamento n.º 101/1995 Sb., por el que se aprueba la Ordenanza sobre aptitud médica y profesional para la explotación de la infraestructura ferroviaria y del transporte ferroviario, en su redacción consolidada;
+●
+Reglamento n.º 173/1995 Sb., por el que se aprueba el Reglamento de circulación ferroviaria, en su redacción consolidada;
+●
 
 ## Página 13
+
 
 *   Decreto n.º 177/1995 Coll., por el que se aprueba el Reglamento de construcción y técnica ferroviaria, en su versión modificada posteriormente;
 *   Decreto n.º 376/2006 Coll., sobre el sistema de seguridad de la explotación de la infraestructura y del transporte ferroviario y los procedimientos en caso de incidentes en la red ferroviaria, en su versión modificada posteriormente.
@@ -312,105 +304,131 @@ La gestión del transporte ferroviario en la línea mencionada se realiza de for
 
 ## Página 14
 
-La señalización, la seguridad y la grabación de datos no tuvieron ninguna influencia en la producción y el desarrollo del incidente.
-
-### 3.4.2 Componentes de la infraestructura
-
-El estado de la geometría de la vía (GPK), detectado inmediatamente después de la producción del incidente, con una alteración de la contrapesada de la vía por encima de la tolerancia permitida, influyó en la producción del incidente. La medición se realizó manualmente con un patín de medición en estado sin carga y con una cuerda simétrica de 10 metros de longitud.
-
-Tras el descarrilamiento se detectó una alteración de la contrapesada de la vía por encima de la tolerancia permitida. A dos metros antes del punto «0» se midió una desviación de +25 mm (valor proyectado de la contrapesada: 100 mm; valor medido: 125 mm). La desviación máxima permitida, según la norma ČSN 73 6360-2 «Disposición constructiva y geométrica de la vía de los ferrocarriles y su posición espacial - Parte 2: Construcción, recepción, explotación y mantenimiento» (en adelante, ČSN 73 6360-2), para la intervención inmediata es de ± 20 mm.
-
-Los dispositivos de seguridad ŽP, la construcción ŽP, el sistema de protección de trenes y las señales no estaban directamente relacionados con la producción del incidente y funcionaban correctamente.
-
+La señalización, la seguridad y el registro de datos no tuvieron ninguna influencia en la aparición y el desarrollo de la EM.
+### 3.4.2 Componentes de la vía
+En la aparición de la EM influyó el estado del GPK, detectado inmediatamente después de la aparición de la EM, el cambio de flecha de la vía por encima de la tolerancia permitida. La medición se realizó con un bastón de ancho de vía manual en estado sin carga y con una cuerda simétrica de 10 metros de longitud.
+Tras el descarrilamiento se detectó un cambio de flecha de la vía por encima de la tolerancia permitida. A dos metros antes del punto «0» se midió una desviación de +25 mm (valor proyectado de flecha 100 mm, medido 125 mm). La desviación máxima permitida según la ČSN 73 6360-2 «Diseño constructivo y geométrico de la vía de las vías férreas y su posición espacial - Parte 2: Construcción, recepción, explotación y mantenimiento» (en adelante ČSN 73 6360-2) para el límite de intervención inmediata es de ± 20 mm.
+Los dispositivos de seguridad de la ŽP, la estructura de la ŽP, el protector de trenes y las señales no estaban en relación directa con la aparición del suceso extraordinario y mostraron un funcionamiento correcto.
 ### 3.4.3 Medios de comunicación
-
-No tuvieron influencia en la producción del incidente, por lo que no se evaluaron a este respecto.
-
-### 3.4.4 Vehículos ferroviarios, incluidos los dispositivos de grabación automática de datos
-
-La locomotora HDV 113 002-0 disponía de un certificado de aptitud PZ 2354/99-V.01 válido, con una inspección técnica realizada el 19 de julio de 2007 en el taller de České Budějovice (DKV České Budějovice), con resultado de apto para la explotación. El registrador de velocidad en la cabina de la locomotora, tipo TELOC n.º 72044, estaba en buen estado y su registro fue evaluado para la investigación de las causas del incidente, con un alcance de hasta 120 km/h. No se superó la velocidad máxima permitida de circulación de 60 km/h; en el lugar del descarrilamiento se respetó la velocidad de línea de 10 km/h. El vagón BDs 5054 82 40 380-3, situado en primera posición, había sido objeto de una inspección técnica el 24 de mayo de 2007 en el taller de České Budějovice (DKV České Budějovice), con resultado de apto para la explotación, y el vagón Bmto 5054 26 18 130-9, situado en segunda posición (descarrilado), había sido objeto de una inspección técnica el 18 de junio de 2007 en el taller de České Velenice (ŽOS České Velenice), con resultado de apto para la explotación.
-
+No tuvieron influencia en la aparición de la EM, por lo que no fueron evaluados por este motivo.
+### 3.4.4 Material rodante de la vía, incluidos los dispositivos de registro automático de datos
+El HDV 113 002-0 tenía el certificado de aptitud PZ 2354/99-V.01 válido con la inspección técnica realizada el 19. 7. 2007 en el DKV České Budějovice con el resultado de apto para la explotación. El velocímetro registrador en la cabina del HDV de tipo TELOC n.º 72044 estaba en orden y su registro fue evaluado para la investigación de la aparición de la EM, con un alcance de hasta 120 km/h. La velocidad máxima permitida de circulación de 60 km/h no fue superada, en el lugar del descarrilamiento se respetó la velocidad de vía de 10 km/h. El coche BDs 5054 82 40 380-3, situado en primera posición, había superado la inspección técnica el 24. 5. 2007 en el DKV České Budějovice con el resultado de apto para la explotación, y el coche Bmto 5054 26 18 130-9 – situado en segunda posición (descarrilado) –, había superado la inspección técnica el 18. 6. 2007 en el ŽOS České Velenice con el resultado de apto para la explotación.
 ### 3.5 Documentación del sistema de explotación
-
-### 3.5.1 Medidas adoptadas por el personal del administrador de la infraestructura y del transportista en relación con la gestión, la señalización y la seguridad del tráfico
-
-La gestión, la señalización y la seguridad del tráfico no tuvieron ninguna influencia en la producción del incidente.
-
-### 3.5.2 Intercambio de mensajes verbales en relación con el incidente, incluidos los documentos del equipo de grabación
-
-El primer aviso de la producción del incidente fue realizado por el maquinista del tren Os 28406 mediante radio al despachador de tráfico director en la estación de Bechyně (žst. Bechyně) a las 8:29 horas; todos los mensajes están grabados por el equipo de grabación REDAT en la estación de Bechyně.
+### 3.5.1 Medidas adoptadas por los empleados del explotador de la vía y del transportista en lo que respecta a la dirección, la señalización y la seguridad del tráfico
+La dirección, la señalización y la seguridad del tráfico no tuvieron ninguna influencia en la aparición de la EM.
+### 3.5.2 Intercambio de comunicaciones verbales en relación con el suceso extraordinario, incluidos los documentos del dispositivo de registro
+El primer aviso sobre la aparición de la EM lo realizó el maquinista del Os 28406 por radio al despachador director en la estación de Bechyně a las 8:29 h; todos los avisos están registrados por el dispositivo de registro REDAT en la estación de Bechyně.
 
 ## Página 15
 
-### 3.5.3 Medidas adoptadas para la protección y seguridad del lugar del incidente
-El lugar del incidente fue asegurado hasta la llegada de la persona autorizada y técnicamente competente del explotador de la infraestructura y del transportista ferroviario RIBŽD Pilsen por el maquinista y, posteriormente, por el supervisor de tráfico de la estación de Tábor.
+### 3.5.3 Medidas adoptadas para la protección y la seguridad del lugar del suceso
+El lugar del suceso fue asegurado, hasta la llegada de la persona cualificada designada por el gestor de la vía y del transporte ferroviario RIBŽD Plzeň, por el maquinista y, posteriormente, por el inspector de explotación de la estación Tábor.
 ### 3.6 Condiciones laborales, sanitarias y de explotación
-### 3.6.1 Horario de trabajo de los empleados del explotador de la infraestructura y del transportista que fueron parte del incidente
-El horario de trabajo de los empleados del explotador de la infraestructura y del transportista ferroviario que fueron parte del incidente estuvo en consonancia con el Código del Trabajo y el Reglamento Interior de Trabajo. El maquinista comenzó su turno a las 7:00; se trataba de su primer viaje en el día del incidente. El responsable del centro de tráfico de Tábor tenía libre el día del incidente.
-3.6.2 Estado de salud y situación personal que influyeron en el incidente, incluido el estrés físico o psicológico
-Los empleados del explotador de la infraestructura y del transportista se someten a revisiones médicas periódicas de acuerdo con lo dispuesto en el Decreto n.º 101/1995 Coll., por el que se aprueba el Reglamento sobre la aptitud sanitaria y técnica para la explotación de la infraestructura y del transporte ferroviario, en su versión vigente, y de acuerdo con la normativa interna de ČD, a. s.
-No se detectaron estado de salud, situación personal, estrés físico o psicológico que pudieran haber influido en la aparición del incidente.
-Los representantes de la Policía de la República Checa realizaron una prueba de aliento orientativa para detectar consumo de alcohol al maquinista del tren de pasajeros Os, con resultado negativo.
-3.6.3 Disposición del equipamiento del puesto de control o del vehículo, que influye en su manejo y uso
-La disposición del puesto de control y del vehículo no tuvo relación con la aparición del incidente, por lo que no fue evaluada por este motivo.
-### 3.7 Incidentes anteriores de carácter similar
-No se detectaron incidentes graves cuya causa fueran defectos en la geometría de la vía en una curva con radio inferior a 150 m.
-
+### 3.6.1 Jornada laboral de los empleados del gestor de la vía y del transportista que participaron en el suceso
+La jornada laboral de los empleados del gestor de la vía y del transporte ferroviario que participaron en el suceso era conforme al Código del Trabajo y al Reglamento de Trabajo. El maquinista comenzó su turno a las 7:00, siendo este su primer viaje el día del suceso. El jefe del centro de explotación de Tábor tenía libre el día del suceso.
+3.6.2 Estado de salud y situación personal que influyeron en el suceso, incluido el estrés físico o psicológico
+Los empleados del gestor de la vía y del transportista se someten a reconocimientos médicos periódicos de conformidad con lo dispuesto en el decreto n.º 101/1995 Sb., por el que se aprueba la Ordenanza sobre la aptitud sanitaria y profesional para la explotación de la vía y del transporte ferroviario, en su versión vigente, y según la normativa interna de ČD, a. s.
+No se detectó ningún estado de salud o situación personal, ni estrés físico o psicológico, que pudiera haber influido en la aparición del suceso.
+La prueba de alcoholemia orientativa al conductor del tren Os fue realizada por representantes de la PČR, con resultado negativo.
+3.6.3 Disposición del equipamiento del puesto de mando o del vehículo que influye en su manejo y uso
+La disposición del puesto de mando y del vehículo no guardaba relación con la aparición del suceso, por lo que no se evaluó por este motivo.
+### 3.7 Sucesos anteriores de carácter similar
+No se detectaron sucesos graves cuya causa hubieran sido defectos en el alabeo de la vía en curvas de radio inferior a 150 m.
 
 ## Página 16
 
 ## 4 ANÁLISIS Y CONCLUSIONES
-### 4.1 Descripción final del incidente
-### 4.1.1 Descripción final del incidente basada en los hechos constatados en el punto 3
-El 1 de septiembre de 2007 a las 8:12 horas se produjo un incidente en el transporte ferroviario en el sentido del artículo 49 de la Ley, en la línea ferroviaria regional Tábor – Bechyně, cuando el último vagón de pasajeros de la serie Bmto 5054 2618 130-9 descarriló por su bogía trasera a la altura del punto kilométrico 0,600 durante la circulación del tren de pasajeros Os 28406. Durante el descarrilamiento se produjeron daños en la superficie del paso a nivel y en el vagón descarrilado.
-La causa inmediata del descarrilamiento fueron los defectos en la geometría de la vía (GPK) en una curva de radio 125 m. Mediante mediciones realizadas inmediatamente después de la aparición del incidente se detectó un cambio en la geometría de la vía superior al límite permitido (f = 125 mm) a 2 m antes del punto «0».
+### 4.1 Descripción final del suceso ferroviario
+### 4.1.1 Descripción final del suceso ferroviario basada en los hechos constatados 
+en el punto 3
+El 1. 9. 2007 a las 8:12 horas se produjo en la vía férrea regional Tábor – Bechyně un SUF 
+en el tráfico ferroviario en el sentido del § 49 de la ley, cuando en el pk 0,600, durante la 
+circulación del tren de pasajeros Os 28406, descarriló por el bogie trasero el último coche 
+de pasajeros de la serie Bmto 5054 2618 130-9. Durante el descarrilamiento se produjo 
+daños en la superficie del paso a nivel ferroviario y en el coche descarrilado. 
+La causa inmediata del descarrilamiento fueron defectos en la geometría del carril (GPK) 
+en una curva de radio 125 m. 
+Mediante mediciones realizadas inmediatamente después de la producción del SUF se 
+constató una variación de la flecha del carril por encima del límite permitido (f = 125 mm) 
+a 2 m del punto «0».
 ### 4.2 Análisis
-### 4.2.1 Evaluación de los hechos constatados según el punto 3 y presentación de las conclusiones sobre la causa del incidente y la actuación de los servicios de rescate
-La causa del descarrilamiento fueron los defectos en la geometría de la vía, es decir, un cambio en la geometría de la vía superior a la tolerancia permitida. A dos metros antes del punto «0» se midió una desviación de +25 mm (valor proyectado de la geometría de la vía 100 mm, medido 125 mm). La desviación máxima permitida según la norma ČSN 73 6360-2 para el límite de intervención inmediata es de ± 20 mm.
-En el lugar del incidente actuaron los Servicios de Rescate de las Ferrocarriles Checos (HZS ČD) de České Budějovice y la Policía de la República Checa (PČR) de Tábor.
-El Servicio Médico de Rescate no actuó en el lugar del incidente.
+### 4.2.1 Evaluación de los hechos constatados según el punto 3 y formulación de 
+conclusiones sobre la causa del suceso ferroviario y la actuación de los servicios de 
+rescate
+La causa del descarrilamiento fueron defectos en la geometría del carril (GPK), una 
+variación de la flecha del carril por encima de la tolerancia permitida. 
+A dos metros del punto «0» se midió una desviación de +25 mm (valor proyectado de la 
+flecha 100 mm, medido 125 mm). La desviación máxima permitida según la ČSN 73 6360-2 
+para el límite de intervención inmediata es de ± 20 mm.
+En el lugar de producción del SUF intervinieron el HZS ČD České Budějovice y el PČR 
+Tábor.
+El servicio médico de emergencia no intervino en el lugar de producción del SUF.
 ### 4.3 Conclusiones
-4.3.1 Causas inmediatas del incidente, incluidos los factores que contribuyeron a él y que estaban relacionados con la actuación de las personas implicadas o con el estado de los vehículos ferroviarios o de las instalaciones técnicas
-La causa inmediata del incidente fue la circulación de los vehículos ferroviarios del tren Os 28406 por una vía con defectos en la geometría de la vía superiores a la tolerancia permitida.
-El explotador de la infraestructura, en el sentido del apartado 1, letra a) del artículo 22 de la Ley n.º 266/1995 Coll., no explotaba la infraestructura para las necesidades de un transporte ferroviario fluido y seguro de acuerdo con las normas de explotación de la infraestructura.
-El explotador de la infraestructura, en el sentido del apartado 2 del artículo 25 del Decreto n.º 177/1995 Coll., no garantizó los parámetros técnico-constructivos establecidos de las componentes de la infraestructura; la geometría de la vía no correspondía a las tolerancias permitidas contenidas en la norma técnica ČSN 73 6360-2.
-
+4.3.1 Causas inmediatas del suceso ferroviario, incluidos los factores que contribuyeron 
+al mismo y que se relacionaron con la actuación de las personas implicadas o con el estado 
+de los vehículos ferroviarios o de las instalaciones técnicas
+La causa inmediata del SUF fue la circulación de los vehículos ferroviarios del tren Os 
+28406 por un carril con defectos en la geometría del carril (GPK) por encima de la 
+tolerancia permitida.
+El gestor de la vía, en el sentido del § 22 apartado 1 letra a) de la ley nº 266/1994 Sb., 
+no explotó la vía para las necesidades del tráfico ferroviario fluido y seguro según las 
+reglas para la explotación de la vía.
+El gestor de la vía, en el sentido del § 25 apartado 2 del decreto nº 177/1995 Sb., no 
+garantizó los parámetros constructivo-técnicos establecidos de los componentes de la vía; 
+la geometría del carril (GPK) no cumplía las tolerancias permitidas contenidas en la norma 
+técnica ČSN 73 6360-2.
 
 ## Página 17
 
 ### 4.3.2 Causas fundamentales relacionadas con la cualificación, los procedimientos y el mantenimiento
-No se detectaron.
-### 4.3.3 Causas provocadas por el marco normativo y por el uso del sistema de garantía de la seguridad
-No se detectaron.
+No se han detectado.
+### 4.3.3 Causas derivadas del marco normativo y del uso del sistema de garantía de la seguridad
+No se han detectado.
 ### 4.4 Hallazgos complementarios
-### 4.4.1 Deficiencias y omisiones detectadas durante la investigación de las causas y las circunstancias de aparición del incidente, que sin embargo no son relevantes para las conclusiones sobre las causas
-No se detectaron deficiencias ni omisiones en la investigación de las causas y las circunstancias del incidente por parte de la persona autorizada y técnicamente competente del explotador de la infraestructura y del transportista ferroviario.
-Durante la investigación de las causas y las circunstancias de aparición del incidente se abordó la cuestión de la transitabilidad de los vehículos en la mencionada línea ferroviaria regional, en el sentido de que los vehículos ferroviarios con bogías con una distancia entre ejes pivotantes superior a 16 m afectan negativamente a la geometría de la vía. Por ello, la Inspección Ferroviaria encargó a la Facultad de Transporte Jan Perner de la Universidad de Pardubice la elaboración de un dictamen técnico sobre esta cuestión. Sobre la base del análisis de la acción de las fuerzas mediante el método de Heumann y de los cálculos de simulación, se detectó que los vagones de pasajeros de la serie Bmto (distancia entre ejes pivotantes 19,5 m, distancia entre ejes del bogía 2,5 m) no provocan una sobrecarga excesiva de la vía al circular por una curva de radio 125 m a una velocidad de 10 km/h, que pudiera influir en el cambio de la geometría de la vía.
+### 4.4.1 Deficiencias y omisiones detectadas durante la investigación de las causas y circunstancias del suceso ferroviario, que sin embargo no son relevantes para las conclusiones sobre las causas
+No se han detectado deficiencias ni omisiones en la investigación de las causas y circunstancias del suceso ferroviario por parte de la persona designada y profesionalmente competente del gestor de la infraestructura y del transporte ferroviario.
+Durante la investigación de las causas y circunstancias del suceso ferroviario se abordó la cuestión de la compatibilidad de los vehículos en la mencionada línea ferroviaria regional, en el sentido de que los vehículos ferroviarios de bogie con distancia entre pivotes superiores a 16 m afectan desfavorablemente al GPK. Por ello, el DI encargó a la Facultad de Transporte Jan Perner de la Universidad de Pardubice la elaboración de un dictamen pericial sobre esta cuestión. Sobre la base del análisis de la acción de fuerzas mediante el método de Heumann y de cálculos de simulación, se constató que los coches de pasajeros de la serie Bmto (distancia entre pivotes de 19,5 m, distancia entre ejes de bogie de 2,5 m) al circular por un arco de radio de 125 m a una velocidad de 10 km/h no producen una sobrecarga de la vía que tenga incidencia en la variación del GPK.
 ## 5 MEDIDAS ADOPTADAS
-### 5.1 Relación de las medidas que ya se han adoptado o tomado como consecuencia del incidente
-Las medidas relativas al incidente en cuestión fueron adoptadas por el explotador de la infraestructura y del transportista ferroviario ČD, a. s., y se incluyen en la «Evaluación de las causas y las circunstancias de aparición del incidente – peligro», con número de referencia 70 545/2007 de fecha 19 de octubre de 2007. Estas medidas se refieren a la unidad organizativa SDC České Budějovice, la Dirección de Vías České Budějovice y Strakonice.
-- discusión del incidente en cuestión con el personal operativo en la reunión, es decir, las causas, las circunstancias de aparición y la responsabilidad, con fecha límite el 30 de noviembre de 2007;
-- realizar en sus respectivos ámbitos una verificación del estado general de la geometría de la vía en curvas con radios R < 180 m, centrándose especialmente en la geometría de la curva y en la sujeción de los elementos de fijación. En caso de detectar un exceso de las tolerancias de explotación, proceder a la reparación inmediata o, en su caso, adoptar las medidas necesarias para garantizar la seguridad del tráfico ferroviario (supervisión intensificada, establecimiento de una circulación lenta; en el caso de las vías de las estaciones, también su eventual exclusión temporal del servicio), con fecha límite el 30 de noviembre de 2007;
-- tras la realización de las reparaciones de los defectos detectados, realizar como máximo un mes después un control posterior con verificación fehaciente de si no se ha producido un empeoramiento del estado. En caso de confirmarlo, registrar estos tramos como puntos peligrosos y ordenar, dentro de sus competencias, una actividad de control intensificada superior a la norma establecida por la normativa interna de ČD S2/3, con fecha límite el 31 de marzo de 2008.
-La responsabilidad del cumplimiento de las medidas adoptadas fue asignada al director superior de ČD, a. s., SDC České Budějovice.
-Como resultado del ejercicio de la supervisión estatal en materia de ferrocarriles, el 13 de febrero de 2008, en el lugar del incidente y en la sede del Centro de Operaciones de Tábor, la Inspección Ferroviaria constató el cumplimiento de las medidas adoptadas.
+### 5.1 Lista de medidas que ya se han tomado o adoptado como consecuencia del suceso ferroviario
+Las medidas relativas al citado suceso ferroviario fueron adoptadas por el gestor de la infraestructura y del transporte ferroviario ČD, a. s., y figuran en la «Evaluación de las causas y circunstancias del suceso ferroviario – amenaza», con el n.º de expediente 70 545/2007 de fecha 19. 10. 2007. Estas medidas se refieren a la unidad organizativa SDC České Budějovice, Gestión de tramos de České Budějovice y Strakonice.
+– debatir el citado suceso ferroviario con el personal de explotación en la reunión, es decir, causas, circunstancias –
+del suceso y responsabilidad, con fecha límite hasta el 30. 11. 2007;
+– realizar en sus demarcaciones una verificación del estado general del GPK en arcos con radios R < 180 m, con especial atención al alabeo del arco y a la retención de los elementos de fijación. Si se detecta una superación de las tolerancias de explotación, proceder a la reparación inmediata o, en su caso, establecer las medidas necesarias con el fin de garantizar la seguridad del tráfico ferroviario (aumento del
+
+## Página 18
+
+dohled, introducción de una marcha lenta; en el caso de las vías de estación, también su eventual
+exclusión temporal del servicio), con plazo hasta el 30. 11. 2007;
+tras la reparación de las anomalías detectadas, realizar a más tardar en el plazo de un mes la
+–
+posterior verificación con comprobación demostrable de que no se ha producido un
+deterioro del estado. En caso de confirmarse, registrar estos tramos como puntos peligrosos y
+ordenar, en el ámbito de su competencia, una actividad de control reforzada por encima de la
+norma establecida en la instrucción de servicio ČD S2/3,
+con plazo hasta el 31. 3. 2008.
+La responsabilidad por el cumplimiento de las medidas adoptadas fue atribuida al jefe de
+circulación de ČD, a. s., SDC České Budějovice.
+En virtud de la inspección estatal en materia de ferrocarriles llevada a cabo el 13. 2. 2008
+en el lugar del accidente y en la sede del Centro de Explotación Tábor, la Inspección
+Ferroviaria constató el cumplimiento de las medidas adoptadas.
 ## 6 RECOMENDACIONES DE SEGURIDAD
-No se emitió ninguna recomendación de seguridad por parte de la Inspección Ferroviaria.
-En Pilsen, el 16 de junio de 2008.
-Ing. Miloslav Sojka, v. r.
-Ing. Petr Mencl, v. r.
-inspector superior
-director
-Oficina Territorial de Pilsen
-de la Oficina Territorial de Pilsen
+La Inspección Ferroviaria no emitió ninguna recomendación de seguridad.
+En Plzeň, a 16 de junio de 2008.
+Ing. Miloslav Sojka v. r.
+Ing. Petr Mencl v. r.
+Inspector jefe
+Director
+Delegación Territorial de Plzeň
+De la Delegación Territorial de Plzeň
 
 ## Página 19
+
 
 ## 7 ANEXOS
 Foto 1: Vagón descarrilado Bmto 5054 26 18 130-9
 Foto 2: Punto «0» en el pk 0,600 de la línea Tábor – Bechyně
 
-
 ## Página 20
+
 
 Foto 3: Posición de la rueda derecha del primer eje del tren accidentado en el pk 0,596 en el punto de cambio de peralte

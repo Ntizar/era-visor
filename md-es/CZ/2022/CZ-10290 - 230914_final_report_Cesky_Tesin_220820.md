@@ -10,13 +10,14 @@ chars: 157307
 ratio_longitud: 1.26
 tokens_in: 88168
 tokens_out: 65171
-verificacion: revisar
-notas_cifras: ["bloque 1: original bilingüe: se compara contra el idioma principal (EN)", "bloque 3: cifras cortas: 5/167", "bloque 4: cifras cortas: 1/209", "bloque 5: original bilingüe: se compara contra el idioma principal (CS)", "bloque 7: original bilingüe: se compara contra el idioma principal (CS); cifras cortas: 1/89", "bloque 9: cifras largas: 1/48"]
-avisos: ["bloque 7: ratio 1.71", "bloque 12: ratio 1.61"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 5: original bilingüe: se compara contra el idioma principal (CS)", "página 6: original bilingüe: se compara contra el idioma principal (CS)", "página 9: original bilingüe: se compara contra el idioma principal (CS)", "página 12: cifras cortas: 1/31", "página 13: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 Oficina de Inspección de Seguridad Ferroviaria
 Informe final sobre los resultados de la investigación del suceso ferroviario
@@ -38,13 +39,13 @@ IČ: 75009561
 mail@dicr.cz
 tel.: +420 736 521 003
 
-
 ## Página 2
+
 
 Este informe final es público y todos los hechos en él expuestos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 Producción del suceso:
 20. 8. 2022, 7:17 h.
@@ -74,8 +75,8 @@ La Oficina de Inspección Ferroviaria no detectó ningún factor contribuyente.
 La Oficina de Inspección Ferroviaria no detectó ninguna causa sistémica.
 La Oficina de Inspección Ferroviaria no emitió ninguna recomendación de seguridad.
 
-
 ## Página 4
+
 
 ## SUMMARY
 20th August 2022, 7:17 (5:17 GMT).
@@ -110,8 +111,8 @@ Contributing factor: none.
 Systemic factor: none.
 Recommendation: not issued.
 
-
 ## Página 5
+
 
 # Índice
 1 RESUMEN.....................................................................................................................3
@@ -153,8 +154,8 @@ SUMMARY.........................................................................
 4.2 Vehículos rodantes e instalaciones técnicas..........................................................................43
 4.2.1 Factores o consecuencias derivados del diseño de los vehículos rodantes, de la infraestructura ferroviaria o de las instalaciones técnicas....................................................................43
 
-
 ## Página 6
+
 
 4.2.2 Factores o consecuencias derivados de la instalación y puesta en servicio de los vehículos rodantes, de la infraestructura ferroviaria o de las instalaciones técnicas.....................................43
 4.2.3 Factores o consecuencias relacionados con los fabricantes de vehículos rodantes u otros proveedores de productos ferroviarios...........................................................................43
@@ -185,6 +186,7 @@ SUMMARY.........................................................................
 ANEXOS............................................................................................................................51
 
 ## Página 7
+
 
 ### Lista de abreviaturas y símbolos utilizados
 CDP
@@ -244,8 +246,8 @@ Informe Final sobre los Resultados de la Investigación de la Ocurrencia Extraor
 žst.
 estación ferroviaria
 
-
 ## Página 8
+
 
 ### Lista de abreviaturas de disposiciones legales, normas y reglamentos internos utilizados
 ley núm. 266/1994 Sb.
@@ -315,8 +317,8 @@ TECHNOLOGICKÉ
 POSTUPY", en la redacción vigente en el momento de la 
 ocurrencia de la MU
 
-
 ## Página 9
+
 
 ## 2 INVESTIGACIÓN Y SU CONTEXTO
 ### 2.1 Decisión de iniciar la investigación
@@ -342,8 +344,8 @@ La investigación de las causas y circunstancias de la MU se realizó de conform
 ### 2.6 Descripción del nivel de cooperación ofrecido por las entidades participantes
 El nivel de cooperación con los representantes de las entidades participantes en la MU fue estándar.
 
-
 ## Página 10
+
 
 ### 2.7 Descripción de la investigación, los métodos y las técnicas utilizados para acreditar los hechos 
 y los hallazgos expuestos en el informe
@@ -381,8 +383,8 @@ colisión DV x DV.
 Grupo de MU:
 incidente.
 
-
 ## Página 11
+
 
 ### 3.1.2 Fecha, hora exacta y lugar del suceso
 Fecha:
@@ -409,6 +411,7 @@ categoría regional, Český Těšín – Frýdek-Místek.
 La est. Český Těšín estaba dividida en el ámbito de la estación de pasajeros, el ámbito de la estación de mercancías y el ámbito de la estación previa de Frýdek. El ámbito de la estación de mercancías, en cuyo ámbito se produjo la MU en cuestión, estaba delimitado desde las señales principales (de entrada) (en adelante, señal de entrada) 1L y 2L desde la est. Třinec (Trzyniec) (en adelante, Třinec), incl. SK núm. 107 hasta 132, hasta las señales principales (de vía) (en adelante, señal de vía) Lc107 hasta Lc124 (en dirección al ámbito de la estación de pasajeros) y hasta la señal de maniobras Se23 (en dirección al ámbito de la estación previa de Frýdek – en el SK núm. 90).
 
 ## Página 12
+
 
 De la documentación del gestor de la vía y del transportista sobre la inspección del lugar del MU, entre otros, se desprende:
 Estado de la infraestructura:
@@ -439,8 +442,8 @@ El tren se encontraba detenido en la SK n.º 4 de la estación de Třinec, con e
 •
 En la cabina del maquinista II se encontraba la orden escrita «Orden general para el tren n.º 55077», n.º 0000033-116, por la que se informó al maquinista de manera fehaciente el 20 de agosto de 2022 en la estación de Bohumín sobre los cambios en los parámetros constructivo-técnicos de las obras de vía y de las obras en la vía.
 
-
 ## Página 13
+
 
 Nota DI: la orden escrita no contenía ninguna instrucción ni información relevante relativa a la circulación del tren Pn 55077 en la estación de Český Těšín ni para el tramo de Český Těšín a Třinec;
 •
@@ -465,8 +468,8 @@ Nota DI: atendiendo a lo anterior, el extremo delantero de la locomotora de la s
 •
 La locomotora de empuje presentaba descarrilamiento del 1.º eje en el sentido de su circulación, es decir, del 1.º eje de la locomotora de la sección final 131.064-8, véase la Fig. n.º 2 de la presente ZZ, encontrándose en su posición final tras el MU con el eje descarrilado en el km 318,501;
 
-
 ## Página 14
+
 
 Fig. n.º 2: Vista del bogie delantero descarrilado de la locomotora de la sección final 131.064-8 en su posición final tras el MU
       Fuente: SŽ
@@ -488,8 +491,8 @@ Datos geográficos:
 vías transcurridas al nivel del terreno circundante en un entorno urbano consolidado, la disposición geográfica de la estación de Český Těšín no guardaba relación con el origen del MU.
 En el lugar del MU no se realizaron, inmediatamente antes de su origen, ninguna obra de reparación o de mantenimiento por parte del propietario, del gestor de la vía ni de otros sujetos. La circulación en el lugar del MU y sus alrededores se desarrollaba en régimen habitual.
 
-
 ## Página 15
+
 
 ### 3.1.4 Fallecidos, heridos y daños materiales
 El gestor de la vía y el transportista cuantificaron los daños en:
@@ -527,8 +530,8 @@ El gestor de la vía ferroviaria, categoría estatal, Mosty u Jablunkova fronter
 El transportista del tren Pn 55077 era la sociedad LR, con domicilio en Horárska 12, Bratislava-Ružinov, PSČ 821 09, República Eslovaca.
 El transporte ferroviario se prestaba con base en el contrato celebrado entre el gestor de la vía SŽ y el transportista LR el 3 de agosto de 2022, con efectos desde el 11 de agosto de 2022.
 
-
 ## Página 16
+
 
 ### 3.1.7 Descripción de los vehículos ferroviarios y sus composiciones, incluidos los números de registro
 | Tren: | Pn55077 | Composición del tren: |  | Modo defrenado: |
@@ -569,18 +572,23 @@ Nota DI: el aumento de velocidad registrado fue provocado por la colisión (embo
 
 ## Página 17
 
-| • 7:17:15 h | con un aumento brusco de la velocidad se alcanzó la velocidad máxima de 21 km·h-1. El HDV de cabeza de tren recorrió una distancia de 274 m desde su puesta en marcha y de 13 m desde el momento del inicio del aumento brusco de la velocidad; |
-| • 7:17:19 h | la velocidad del tren se redujo a 17 km·h-1 [nota DI: fin del aumento brusco y de la posterior reducción de velocidad provocada por la colisión (embestida) del HDV de empuje con el extremo (hasta el final) del tren]. Se produjo un nuevo aumento gradual de la velocidad. El HDV de cabeza de tren recorrió una distancia de 298 m desde su puesta en marcha y de 37 m desde el momento del inicio del aumento brusco de la velocidad; |
-| • 7:21:48 h | el frente del HDV de cabeza de tren pasó a una velocidad de 69 km·h-1 la altura de la señal de entrada 1S de la est. Třinec. En el panel del repetidor de señal VZ, antes de pasar esta señal, estaba encendida la luz amarilla; |
-| • 7:22:52 h | el tren alcanzó la velocidad máxima de 70 km·h-1. El HDV de cabeza de tren se encontraba en la est. Třinec; desde su puesta en marcha había recorrido una distancia de 4 519 m. Continuó la marcha por inercia con una reducción gradual de la velocidad; |
-| • 7:26:02 h | el tren se detuvo en el SK n.º 4 de la est. Třinec; |
-| • la parte móvil del VZ MIREL VZ 1 estaba encendida y era operada correctamente por el maquinista del HDV de cabeza de tren. • La velocidad máxima permitida del tren no fue superada en el tramo examinado. |  |
-El HDV de empuje estaba formado por dos HDV de la serie 131 idénticos desde el punto de vista constructivo, unidos por el acoplamiento estándar con las partes traseras hacia cada uno de ellos, siendo cada HDV – sección con su propio número de vehículo. Aunque las secciones individuales son capaces de movimiento propio, en el funcionamiento normal los HDV se utilizan como bicuerpo, por este motivo en el ZZ se utiliza el término HDV de empuje y no HDV de empuje (femenino).
-Se trata de HDV de construcción tipo caja, destinados principalmente al servicio de línea en vías electrificadas con tensión continua de 3 kV, y ello en el transporte de mercancías. Cada sección del HDV está equipada con una cabina delantera de conducción unificada que permite la observación sin obstáculos de la vía y de las señales tanto sentado como de pie; en la parte trasera, cada sección está equipada con un paso de enlace con tomas de goma para el paso a la segunda sección.
-La sección desde la que el maquinista dirige la marcha es la sección de cabeza, la segunda sección es la sección de cola, independientemente de la dirección (dirección establecida) de la marcha. Los bogies de ambas secciones tienen la disposición de ejes B'o B'o con tracción individual de los ejes. La puesta en marcha y la regulación de la potencia del HDV se realizan mediante el conmutado programado de los contactores. Los contactores conmutan los distintos grados de marcha – de resistencia y económico – y permiten el puenteador y la conexión de los grupos de motores en serie o en paralelo. El HDV está, entre otros, equipado con un regulador de control de microprocesador MIRER 8031, un velocímetro registrador MIREL RM1 y un VZ del tipo MIREL VZ1. El sistema de freno está compuesto por dos frenos de mano, un freno de acción directa controlado por el frenador DAKO-BP, un freno automático neumático continuo DAKO-BSE controlado por el mando eléctrico OBE 1 y un freno electrodinámico. Al utilizar el freno auxiliar, solo se frena la sección en la que se utiliza el freno auxiliar.
-El HDV de empuje 131.064-8/131.063-0 estaba, en el momento de producirse el MU, equipado con un dispositivo de registro automático de datos, de los cuales, teniendo en cuenta la desviación temporal entre los tiempos registrados por el dispositivo de registro SZZ de la est. Český Těšín y por el dispositivo de registro del HDV de cabeza de tren 383.216-9, que fueron designados como tiempos de referencia para las necesidades de la investigación de este MU, y tras redondear los parámetros de tiempo a segundos completos, la velocidad a km·h-1 completos y la distancia a metros completos, se desprende, entre otros, que en:
+| • 7:17:15 h | mediante un aumento brusco de velocidad se alcanzó la velocidad máxima de 21 km·h-1. El HDV de la composición había recorrido 274 m desde el inicio del movimiento y 13 m desde el momento del inicio del aumento brusco de velocidad; |
+| • 7:17:19 h | la velocidad del tren se redujo a 17 km·h-1 [nota DI: finalizado el aumento brusco de velocidad y la posterior reducción de velocidad provocada por la colisión (embestida) del HDV de empuje con el extremo (hasta el final) de la composición]. Seguidamente se produjo un nuevo aumento gradual de la velocidad. El HDV de la composición había recorrido 298 m desde el inicio del movimiento y 37 m desde el momento del inicio del aumento brusco de velocidad; |
+| • 7:21:48 h | el frente del HDV de la composición pasó a una velocidad de 69 km·h-1 el nivel de la señal de entrada 1S de la estación de Třinec. En el panel del repetidor de señalización VZ, antes de pasar esta señal, estaba encendida la luz amarilla; |
+| • 7:22:52 h | el tren alcanzó la velocidad máxima de 70 km·h-1. El HDV de la composición se encontraba en la estación de Třinec; desde el inicio del movimiento había recorrido 4 519 m. Continuó la marcha por inercia con una reducción gradual de la velocidad; |
+| • 7:26:02 h | el tren se detuvo en el SK n.º 4 de la estación de Třinec; |
+| • la parte móvil del VZ MIREL VZ 1 estaba encendida y era operada correctamente por el maquinista del HDV de la composición; • no se superó la velocidad máxima permitida del tren en el tramo examinado. |  |
+
+El HDV de empuje estaba formado por dos HDV de la serie 131 idénticos desde el punto de vista constructivo, acoplados por su parte trasera entre sí mediante un equipo de acoplamiento estándar, de modo que cada HDV – sección tiene su propio número de vehículo. Aunque las secciones individuales son capaces de movimiento propio, en el funcionamiento normal los HDV se utilizan como bicuerpo, por este motivo en el ZZ se utiliza el término HDV de empuje y no HDV de empuje (en femenino).
+
+Se trata de HDV de construcción tipo caja, destinados principalmente al servicio de línea en vías electrificadas con tensión continua de 3 kV, y ello en el transporte de mercancías. Cada sección del HDV está equipada con una cabina delantera de conducción unificada que permite la observación sin obstrucciones de la vía y de las señales tanto sentado como de pie; en la parte trasera, cada sección está equipada con un paso de enlace con tope de goma para el paso a la segunda sección.
+
+La sección desde la que el maquinista dirige la marcha es la sección motriz, la segunda sección es la sección remolcada, y ello con independencia de la dirección (dirección establecida) de la marcha. Los bogies de ambas secciones tienen la disposición de ejes B'o B'o con tracción individual de los ejes. La puesta en marcha y la regulación de la potencia del HDV se realiza mediante el conmutación programada de los contactores. Los contactores conmutan los distintos grados de marcha – de resistencia y económico – y permiten el puentear y la conexión de los grupos de motores en serie o en paralelo. El HDV está, entre otros, equipado con el regulador de control de microprocesador MIRER 8031, el velocímetro registrador MIREL RM1 y el VZ de tipo MIREL VZ1. El sistema de freno está compuesto por dos frenos de mano, un freno de acción directa controlado por el frenador DAKO-BP, un freno automático neumático continuo DAKO-BSE controlado por el mando eléctrico OBE 1 y un freno electrodinámico. Al utilizar el freno auxiliar, solo se frena la sección en la que se emplea el freno auxiliar.
+
+El HDV de empuje 131.064-8/131.063-0 estaba, en el momento de producirse el MU, equipado con un dispositivo de registro automático de datos, a partir de los cuales, teniendo en cuenta la desviación temporal entre los tiempos registrados por el dispositivo de registro SZZ de la estación de Český Těšín y por el dispositivo de registro
 
 ## Página 18
+
 
 • 6:46:56 h el HDV de empuje (acoplado en la maniobra de empuje del tren Nex 53772) se detuvo en el SK n.º 105;
 • 6:53:03 h el HDV de empuje fue puesto en movimiento en el SK n.º 105. La marcha se realizó en forma de maniobra en dirección al ámbito de la estación de pasajeros, por delante el HDV de la sección de cabeza 131.063-0, que era la sección de cabeza – el maquinista dirigía el HDV de empuje desde la cabina delantera de conducción;
@@ -595,8 +603,8 @@ El HDV de empuje 131.064-8/131.063-0 estaba, en el momento de producirse el MU, 
 • 7:01:39 h el maquinista desconectó el mando del HDV 131.064-8. A continuación se produjo el cambio de cabina desde la que se dirigía el HDV bicuerpo.
 Nota DI: de los datos registrados no es posible determinar si entre la embestida del HDV de empuje en el final del tren Pn 55077 y la posterior puesta en marcha del HDV a las 7:16:31 h se realizó una prueba de freno en el HDV de empuje, ya que a partir de las 7:02:25 h, debido al cierre de la llave de VZ, se registraba una presión en la tubería principal de 0 bar. La llave de VZ fue cerrada por el maquinista debido a la marcha prevista en maniobra de empuje suspendido;
 
-
 ## Página 19
+
 
 • 7:03:11 h el maquinista conectó el mando del HDV 131.063-0, que con ello se convirtió en la sección de cabeza, siendo la sección de cola el HDV 131.064-8. La disposición de secciones indicada no volvió a cambiar hasta la detención del HDV de empuje en la posición final tras el MU;
 • 7:03:16 h el maquinista, manipulando los elementos de mando del HDV de la sección de cabeza 131.063-0, encendió los interruptores principales en ambas secciones, a continuación seleccionó el levantamiento de los pantógrafos – en el HDV de la sección de cabeza el pantógrafo delantero y en la sección de cola el pantógrafo trasero;
@@ -608,8 +616,8 @@ Nota DI: de los datos registrados no es posible determinar si entre la embestida
 • 7:17:12 h
 ### producción del MU – el frente del HDV de la sección de cola 131.064-8 embistió a una velocidad de 36 km·h-1 la parte trasera del último TDV del tren Pn 55077. El HDV de empuje había recorrido desde su puesta en marcha una distancia de 225 m, encontrándose con el frente del HDV de la sección de cola en el km 318,559. Al mismo tiempo y en la misma distancia registrada, como consecuencia del golpe producido en la colisión, se desprendieron los patines (lisas) de los pantógrafos de ambas secciones del hilo de contacto TV sobre el SK n.º 103. Como el HDV de empuje estaba en tracción [se había acoplado el 4.º grado de marcha (3.er grado de potencia)], en ambas secciones actuaron las protecciones por tensión inferior, que desconectaron ambos interruptores principales. Desde ese momento el HDV no desarrolló fuerza de empuje por acción de los motores de tracción;
 
-
 ## Página 20
+
 
 | • 7:17:13 h | el HDV de empuje circulando a una velocidad de 36 km·h-1 con 1 eje de la sección de cola se encontraba en el lugar de su descarrilamiento – 10 m tras el lugar de la colisión, es decir, en el km 318,549 con el frente de la sección de cola en el km 318,546. Al mismo tiempo y lugar se registró el inicio del cambio brusco de la velocidad de marcha del HDV de empuje de 36 km·h-1 a 23 km·h-1. Tras recorrer una distancia de 6 m, a las 7:17:14 h se registró una velocidad de 18 km·h-1, que a partir de ese momento se redujo gradualmente; |
 | • 7:17:33 h | el HDV de empuje se detuvo en la posición final tras el MU, y ello sin el uso de frenos (el HDV se detuvo por la acción de la resistencia producida por la marcha del eje descarrilado del HDV de la sección de cola sobre la superestructura de la vía) con el frente de la sección de cola en el km 318,498; |
@@ -623,6 +631,7 @@ Del análisis de los datos de archivo de la actividad del SZZ en la est. Český
 | • 5:51:51 h | tras el establecimiento de la ruta de marcha realizado por la operación automática del SZZ, desde la señal de entrada 1S al SK n.º 5 de la est. Český Těšín se estableció la ruta de marcha (ruta de tren) (en adelante, ruta de tren) para la marcha del tren Pn 55077. La señal de entrada 1S comenzó a indicar la señal «Velocidad 50 km/h y aviso», cuando bajo la luz amarilla inferior de la señal estaba encendido en el indicador el número blanco «5», que expresa el valor de la décima de la velocidad en el ámbito de los desvíos adyacentes a esta señal principal; |
 
 ## Página 21
+
 
 •
 5:51:53 h
@@ -661,8 +670,8 @@ tras la conclusión de la ruta de tren realizada por la actividad automática de
 6:52:04 h
 el frente del tren Nex 53772 superó el nivel de la señal de ruta Lc105 de la est. Český Těšín;
 
-
 ## Página 22
+
 
 •
 6:52:45 h
@@ -702,8 +711,8 @@ el frente de la formación de maniobras superó el nivel de la señal de ruta Sc
 7:00:48 h
 la formación de maniobras entró completa en la SK n.º 103 de la est. Český Těšín;
 
-
 ## Página 23
+
 
 •
 7:14:58 h
@@ -730,8 +739,8 @@ La zona de la est. Český Těšín estaba, en el momento del origen de la MU en
 | 7:03:43 h • | en el extremo trasero de la locomotora de refuerzo (HDV), es decir, en el extremo frontal de la HDV de la sección líder 131.063-0, se encendieron las luces rojas de final de tren; |
 | 7:03:52 h • | desde la cabina de la HDV de la sección líder de la locomotora de refuerzo descendió al interior de la vía una persona (el maquinista de la locomotora de refuerzo); |
 
-
 ## Página 24
+
 
 7:04:32 h
 el maquinista de la locomotora de refuerzo (HDV) llegó al espacio situado entre el extremo frontal de la HDV de la sección final y el extremo trasero del último TDV del tren Pn 55077;
@@ -769,6 +778,7 @@ maquinista de la locomotora de refuerzo (HDV)
 ◦con la locomotora de refuerzo (HDV) realizó viajes en refuerzo acoplado de trenes en los tramos Čadca – Český Těšín, Český Těšín – Čadca y nuevamente Čadca – Český Těšín,
 
 ## Página 25
+
 
 ◦tras la llegada del tren (nota DI: se trataba del tren Nex 53772) a la vía SK n.º 105 
 de la estación de Český Těšín, desenganchó la locomotora de empuje y acordó con la 
@@ -826,8 +836,8 @@ maquinista de la locomotora de cabeza
 ◦entró a prestar servicio (turno) el día 19. 8. 2022 a las 19:30 h, habiendo 
 disfrutado, antes de dicho servicio (turno), de un descanso superior a 12 h,
 
-
 ## Página 26
+
 
 ◦trabaja en el transporte ferroviario desde el año 1990, desempeña la función de 
 maquinista desde el año 1995,
@@ -887,8 +897,8 @@ salida,
 estación de Český Těšín (en dirección a Třinec) y, a continuación, el tren comenzó 
 a arrancar lentamente en dicha vía,
 
-
 ## Página 27
+
 
 ◦mediante la visualización del sistema de cámaras instalado en la estación de 
 Český Těšín, observó que la locomotora de empuje permanecía detenida al final de la 
@@ -951,10 +961,10 @@ n.º 103 de la estación de Český Těšín en dirección a la estación de Tř
 ◦a las 7:16 h, el tren Pn 55077 comenzó a arrancar,
 ◦mediante la visualización del sistema de cámaras instalado en la estación de 
 Český Těšín, observó que el tren Pn 55077 comenzaba a arrancar, pero que la 
-locomotora de empuje permanecía detenida al final de la vía SK n.º 103. 
-
+locomotora de empuje permanecía detenida al final de la vía SK n.º 103.
 
 ## Página 28
+
 
 A continuación, observó que la locomotora de empuje en la vía SK n.º 103 comenzaba 
 a arrancar tras el tren Pn 55077 que partía,
@@ -1001,6 +1011,7 @@ cursiva los siguientes registros relevantes de comunicación, cuando:
 
 ## Página 29
 
+
 ÚD 1H
 Así que si mires allí cómo está.
 Pn 55077
@@ -1036,81 +1047,84 @@ Bien, bien, entonces que se comunique después…
 VD
 … (Nota DI: en la grabación de fondo se oye claramente una conversación en curso entre el VD y el maquinista de la locomotora de maniobra de empuje, que se realizaba a través de teléfono móvil. En el marco de esta conversación, el VD recababa información sobre la
 
-
 ## Página 30
 
-|  | MU cuando me preguntaba si la locomotora de maniobra de empuje en cuestión estaba descarrilada) Sí , . , . … . |
-| ÚD 1H | ahora además dijeron en Těšín que según ellos esa locomotora, la 103, está … …, , , descarrilada con un eje . |
-| VD | Pues eso ya lo hemos averiguado ahora también , . |
-| ÚD 1H | Sí sí Ahora ahora me llamaban aquí , . , … |
+|  | MU cuando me preguntó si el HDV objeto de estudio estaba descarrilado ) Sí , . , . … . |
+| ÚD 1H | ahora aún más han informado en Těšín que dicen que esa locomotora en la 103 está … …, , , descarrilada con un eje . |
+| VD | Bueno, eso ya lo hemos averiguado ahora también , . |
+| ÚD 1H | Sí sí Ahora ahora me han llamado aquí , . , … |
 ### 3.2 Descripción fáctica del suceso
-### 3.2.1 Secuencia de hechos que condujeron al suceso extraordinario
-El 20 de agosto de 2022 a las 6:00:21 h entró en la est. Český Těšín en la SK n.º 103 el tren Pn 55077. Este se detuvo en dicha SK a las 6:02:05 h y a continuación se le debía acoplar la locomotora de maniobra de empuje, concretamente la del tren Nex 53772 procedente de Čadce, que entró en la est. Český Těšín en la SK n.º 105, y esto a las 6:44:21 h. Desde la est. Český Těšín la locomotora de maniobra de empuje debía circular con el tren Pn 55077 como maniobra de empuje acoplada, es decir, acoplada al tren y conectada al freno continuo del tren.
-Tras la maniobra realizada, el tren Nex 53772 partió de la SK n.º 105 de la est. Český Těšín en dirección a Albrechtice u Českého Těšína y la locomotora de maniobra de empuje desacoplada quedó detenida en dicha SK. Tras el desacople, el maquinista de la locomotora de maniobra de empuje acordó con el despachador de sección 1H de CDP Přerov una maniobra desde la SK n.º 105 a la SK n.º 7 y de vuelta a la SK n.º 103 de la est. Český Těšín. El maquinista de la locomotora de maniobra de empuje realizó la maniobra prevista y en la SK n.º 103 con la locomotora de maniobra de empuje embistió el final del tren Pn 55077. Tras embestir el último TDV del tren Pn 55077 y cambiar de cabina de conducción, desde la que dirigía la marcha de la locomotora de maniobra de empuje, el maquinista se alejó de la cabina y comenzó a realizar actuaciones encaminadas a acoplar la locomotora de maniobra de empuje al último TDV del tren Pn 55077. En el marco de esta actividad, primero no acopló la tornillo de unión, tal como disponen los correspondientes procedimientos tecnológicos del transportista LR, sino que conectó los acoples de la tubería principal. A continuación, al abrir las correspondentes llaves de acople, detectó una fuga en el acople de presión del vagón. Por este motivo volvió a cerrar las correspondientes llaves de acople y, como la tubería principal del último TDV no estaba ramificada en los testeros del vagón – estaba equipada solo con una llave de acople con el correspondiente acople de presión –, decidió que la locomotora de maniobra de empuje quedaría solo acoplada al tren, pero no conectada a su freno continuo. No obstante, de hecho tampoco se produjo el acople de la locomotora de maniobra de empuje al último TDV del tren Pn 55077, porque el maquinista de la locomotora de maniobra de empuje, antes de abandonar el espacio entre el testero trasero del último TDV y el testero frontal de la locomotora de la sección final de la maniobra de empuje, no acopló la locomotora al tren. Entre el último TDV y la locomotora de maniobra de empuje dejó conectados solo los acoples de la tubería principal, habiendo cerrado (dejado cerradas) las correspondientes llaves de acople debido a la fuga de aire en los acoples de presión.
-El maquinista de la locomotora de maniobra de empuje informó a continuación al maquinista de la locomotora del tren de que la locomotora de maniobra de empuje quedaría solo acoplada al tren, pero no conectada a su freno continuo, y le instó a realizar la JZB. El maquinista de la locomotora de maniobra de empuje, en lugar de supervisar los cambios de presión en los manómetros de la tubería principal y del cilindro de freno en la cabina de conducción de la locomotora de maniobra de empuje, realizó la comprobación del agarre y desagarre de las zapatas de freno en el último TDV del tren Pn 55077. Con la realización de esta prueba de freno (y con la no conexión de la locomotora de maniobra de empuje al freno continuo) se conformaron el maquinista de la locomotora de maniobra de empuje y el maquinista de la locomotora del tren, y el maquinista de la locomotora de maniobra de empuje se dirigió a continuación a la cabina trasera de la locomotora de maniobra de empuje en el sentido de la marcha del tren Pn 55077, es decir, la cabina de conducción de la locomotora de la sección principal 131.063-0.
-
+### 3.2.1 Secuencia de hechos que condujeron al suceso excepcional
+El 20 de agosto de 2022 a las 6:00:21 h entró en la est. Český Těšín en la SK n.º 103 el tren Pn 55077. Este 
+detuvo en dicha SK a las 6:02:05 h y posteriormente debía engancharse a él la locomotora de empuje HDV, concretamente la del tren Nex 53772 procedente de Čadce, que entró en la est. Český Těšín en la SK n.º 105, a las 
+6:44:21 h. Desde la est. Český Těšín la locomotora de empuje HDV debía circular con el tren Pn 55077 como empuje enganchado, es decir, enganchada al tren y conectada al freno continuo del tren.
+Tras la maniobra realizada, el tren Nex 53772 partió de la SK n.º 105 de la est. Český Těšín en dirección a Albrechtice u Českého Těšína y la locomotora de empuje HDV desenganchada permaneció detenida en dicha SK. 
+Tras el desenganche, el maquinista de la locomotora de empuje HDV acordó con el despachista de sección 1H CDP Přerov una maniobra desde la SK n.º 105 hasta la SK n.º 7 y de vuelta a la SK n.º 103 de la est. Český Těšín. El maquinista de la locomotora de empuje HDV realizó la maniobra prevista y en la SK n.º 103, con la locomotora de empuje HDV, entró en el extremo del tren Pn 55077. Tras entrar en el último TDV del tren Pn 55077 y cambiar de cabina desde la que controlaba la marcha de la locomotora de empuje HDV, el maquinista se alejó de la cabina y comenzó a realizar actuaciones encaminadas a desenganchar la locomotora de empuje HDV del último TDV del tren Pn 55077. En el marco de esta actividad, primero no enganchó el tornillo, tal como disponen los correspondientes procedimientos tecnológicos del operador LR, sino que conectó los acoples de presión de la tubería principal. Posteriormente, al abrir las correspondientes llaves de acople, detectó una fuga en el acople de presión del coche. 
+Por este motivo volvió a cerrar las correspondientes llaves de acople y, como la tubería principal del último TDV no estaba ramificada en los frentes de los coches – estaba equipada solo con una llave de acople con el correspondiente acople de presión –, decidió que la locomotora de empuje HDV quedaría solo enganchada al tren, pero no conectada a su freno continuo. No obstante, de hecho tampoco se produjo el desenganche de la locomotora de empuje HDV del último TDV del tren Pn 55077, porque el maquinista de la locomotora de empuje HDV, antes de abandonar el espacio entre el frente trasero del último TDV y el frente del HDV de la sección final de la locomotora de empuje, no enganchó la locomotora al tren. Entre el último TDV y la locomotora de empuje HDV dejó únicamente conectados los acoples de presión de la tubería principal, habiendo cerrado las correspondientes llaves de acople, debido a la fuga de aire de los acoples de presión (las dejó cerradas). 
+Posteriormente, el maquinista de la locomotora de empuje HDV informó al maquinista de la locomotora del tren de que la locomotora de empuje HDV quedaría solo enganchada al tren, pero no conectada a su freno continuo, y le instó a realizar la JZB. El maquinista de la locomotora de empuje HDV, en lugar de observar los cambios de presión en los manómetros de la tubería principal y del cilindro de freno en la cabina del maquinista de la locomotora de empuje HDV, realizó la comprobación del apriete y desapriete de las zapatas de freno en el último TDV del tren Pn 55077. Con la realización de esta prueba de freno (y con la no conexión de la locomotora de empuje HDV al freno continuo) se conformaron el maquinista de la locomotora de empuje HDV y el maquinista de la locomotora del tren, y el maquinista de la locomotora de empuje HDV se dirigió seguidamente a la cabina trasera de la locomotora de empuje HDV en el sentido de marcha del tren Pn 55077, es decir, la cabina del maquinista del HDV de la sección 131.063-0.
 
 ## Página 31
+
 
 Tras el cambio de señal en la señal de salida S103, cuando la señal «Alto» cambió a la señal que permite la marcha del tren «Velocidad 40 km/h y vía libre», el maquinista de la locomotora del tren llamó por teléfono móvil al maquinista de la locomotora de maniobra de empuje e informó de que la señal de salida en la est. Český Těšín permite la salida del tren y le dio la instrucción de que con la locomotora de maniobra de empuje podía empezar a ejercer la fuerza de empuje (la situación se refleja esquemáticamente en la Fig. n.º 3 de esta ZZ).
 El maquinista de la locomotora del tren puso a continuación el tren Pn 55077 en movimiento. Como la locomotora de maniobra de empuje no ejercía fuerza de empuje, comenzó a aumentar la holgura entre el último TDV del tren y la locomotora de maniobra de empuje.
 El maquinista de la locomotora de maniobra de empuje, mientras tanto, esperaba a que la locomotora de maniobra de empuje y en general el tren Pn 55077 se pusieran en movimiento para poder empezar a ejercer la fuerza de empuje. Como tenía la sensación de que la locomotora de maniobra de empuje y el tren Pn 55077 llevaban demasiado tiempo detenidos, comenzó a ejercer fuerza de empuje con la locomotora de maniobra de empuje y esta se puso en marcha. En ese momento, la holgura creada entre el último TDV del tren Pn 55077 y la locomotora de maniobra de empuje tenía un tamaño de más de 100 m. La locomotora de maniobra de empuje no acoplada en la SK n.º 103 de la est. Český Těšín embistió a continuación el final del tren Pn 55077 y siguió la colisión, cuando la sección final de la locomotora de maniobra de empuje a las 7:17:12 h, a una velocidad de 36 km·h-1, impactó contra el último TDV del tren que circulaba a una velocidad de 17 km·h-1. Por la dinámica del suceso, la composición estirada del tren remolcado se comprimió hasta agotar los valores límite de compresión de los amortiguadores y siguió un golpe dinámico longitudinal, tanto en dirección hacia delante como acto seguido en dirección hacia atrás. Lo anterior tuvo como consecuencia un aumento brusco de la velocidad del tren Pn 55077 a 21 km·h-1 y la pérdida de la fuerza de rueda vertical del 1.º eje de la sección final de la locomotora de maniobra de empuje, que descarriló a 10 m del lugar de la colisión. El maquinista de la locomotora de maniobra de empuje, que durante la marcha estaba de pie en la cabina de conducción, fue arrojado por el impacto contra la pared trasera de la cabina. La locomotora de maniobra de empuje se detuvo tras la colisión. Cuando el maquinista miró por la ventana de la puerta de acceso a la cabina de conducción, comprobó que había impactado contra el final del tren. De ello dedujo que se había olvidado de acoplar la locomotora de maniobra de empuje al tren. En cuanto se recuperó del impacto, llamó por teléfono al maquinista de la locomotora del tren y le comunicó lo sucedido y que el tren había partido sin maniobra de empuje (la situación se refleja esquemáticamente en la Fig. n.º 1 y 4 de esta ZZ). El maquinista de la locomotora del tren registró el golpe longitudinal (el cambio de velocidad) en la composición del tren. Sin embargo, consideró que había sido causado por el cambio en la fuerza de empuje de la locomotora de maniobra de empuje y continuó con el tren en su marcha.
 
-
 ## Página 32
 
-### 3.2.2 Secuencia de hechos desde la producción del suceso extraordinario hasta la finalización de las acciones de los servicios de emergencia
+### 3.2.2 Secuencia de hechos desde la aparición del suceso hasta la finalización de las acciones de los servicios de rescate
 •
 7:17 h
-producción de la MU;
+aparición del suceso;
 •
 7:22 h
-el maquinista de la locomotora del tren informó al despachador de sección 1H de CDP Přerov de que la locomotora de maniobra de empuje no se había acoplado al tren Pn 55077 y había quedado en la est. Český Těšín;
+el maquinista de la locomotora de maniobras del tren informó al despachador de sección 1H CDP Přerov de que la locomotora de maniobras no se había enganchado al tren Pn 55077 y había permanecido en la estación Český Těšín;
 •
 7:30 h
-el despachador de sección 1H de CDP Přerov informó al maquinista de la locomotora del tren de que había recibido información sobre el daño de dos TDV en el final del tren Pn 55077 y le instó a verificar dicha información;
+el despachador de sección 1H CDP Přerov informó al maquinista de la locomotora de maniobras del tren de que había recibido información sobre el daño de dos vagones de carga al final del tren Pn 55077 y le solicitó que verificara dicha información;
 •
 8:15 h
-el maquinista de la locomotora del tren informó al despachador de sección 1H de CDP Přerov de que la situación respecto a los TDV traseros del tren Pn 55077 se resolverá y que el tren Pn 55077 no partirá de la est. Třinec en un futuro inmediato;
+el maquinista de la locomotora de maniobras del tren informó al despachador de sección 1H CDP Přerov de que la situación respecto a los vagones de carga traseros del tren Pn 55077 se resolvería y de que el tren Pn 55077 no partiría de la estación Třinec en un futuro próximo;
 •
 8:20 h
-el despachador de sección 1H de CDP Přerov recibió información sobre el descarrilamiento de la locomotora de maniobra de empuje por parte de un empleado de la compañía ČDC. A continuación, la producción de la MU fue comunicada por el jefe de despachador de CDP Přerov a O18 SŽ, centro territorial de Ostrava;
+el despachador de sección 1H CDP Přerov recibió información sobre el descarrilamiento de la locomotora de maniobras por parte de un empleado de la empresa ČDC. Posteriormente, la aparición del suceso fue comunicada por el jefe de despacho de CDP Přerov a O18 SŽ, oficina territorial de Ostrava;
 •
 8:39 h
-la persona autorizada de O18 SŽ notificó la producción de la MU a COP DI;
+la persona autorizada de O18 SŽ comunicó la aparición del suceso a COP DI;
 •
 8:46 h
-el empleado en COP DI, sobre la base de los hechos notificados, concedió al notificante el consentimiento para la liberación de la vía;
+el empleado en COP DI, sobre la base de los hechos comunicados, concedió al notificante la autorización para la liberación de la vía;
 •
 9:30 h
-HZS SŽ, JPO Ostrava, se presentó en el lugar de producción de la MU en la est. Český Těšín y la persona autorizada de O18 SŽ inició la inspección del lugar de producción de la MU en cuestión;
+el HZS SŽ, JPO Ostrava, se presentó en el lugar de aparición del suceso en la estación Český Těšín, y la persona autorizada de O18 SŽ inició la inspección del lugar de aparición del suceso en cuestión;
 •
-11:40 h la persona autorizada de O18 SŽ concedió el consentimiento para iniciar los trabajos de limpieza;
-
+11:40 h la persona autorizada de O18 SŽ concedió la autorización para el inicio de los trabajos de despeje;
 
 ## Página 33
 
 •
-14:10 h restablecimiento de la explotación del transporte ferroviario sin restricciones.
-El Plan IZS no fue activado dada la naturaleza de la MU.
-En el lugar de la MU intervinieron los siguientes componentes del IZS:
+14:10 h se reanudó la explotación ferroviaria sin restricciones.
+El Plan de Protección Civil (IZS) no se activó dada la naturaleza de la MU.
+En el lugar de la MU intervinieron los siguientes servicios del IZS:
 •
-HZS SŽ, JPO Ostrava.
+Bomberos del ferrocarril (HZS SŽ), JPO Ostrava.
 ## 4 ANÁLISIS DEL SUCESO
-### 4.1 Funciones y obligaciones
-### 4.1.1 Transportistas y explotadores de la vía
-El explotador de la vía SŽ tenía, entre otras, la obligación de explotar la vía para las necesidades del transporte ferroviario fluido y seguro de acuerdo con las reglas para la explotación de la vía y la autorización administrativa. Asimismo, estaba facultado para impartir a los transportistas, al organizar el transporte ferroviario, instrucciones para garantizar un transporte ferroviario fluido y seguro.
-En la investigación no se detectó infracción de las funciones y obligaciones del explotador de la vía relacionadas con las causas y circunstancias de la producción de la MU en cuestión.
-El transportista LR estaba, entre otras, obligado a explotar el transporte ferroviario de acuerdo con las reglas de explotación del transporte ferroviario, la licencia vigente y el contrato celebrado con el explotador de la vía sobre la explotación del transporte ferroviario en la vía, y a regirse por las instrucciones del explotador de la vía impartidas al organizar el transporte ferroviario. En el sentido de lo anterior, el transportista debía garantizar que el maquinista acoplara y desacoplara las locomotoras, si no está designada para ello otra persona profesionalmente cualificada, que condujera la locomotora solo desde el puesto desde el que existe la mejor visibilidad, por regla general desde la cabina frontal en el sentido de la marcha, que desde la cabina principal observara la vía y las señales y actuara según los hechos constatados. Además debía, entre otras, garantizar que el maquinista supervisara el funcionamiento general de la locomotora y, en caso de amenaza a la seguridad de la locomotora, se detuviera y, al detectar un defecto en la locomotora, comunicara este hecho a la persona que dirige el transporte ferroviario.
-El transportista LR emitió, para el cumplimiento de las obligaciones anteriores, procedimientos tecnológicos uniformes, que estaban contenidos, entre otros, en las normas internas «Povinnosti prevádzkových zamestnancov», «Předpis o provozování drážní dopravy» y «Prevádzka a obsluha brzdových zariadení», y, sobre la base del contrato celebrado con el explotador de la vía, sus empleados estaban, entre otras, obligados a cumplir también las disposiciones de la norma SŽ D1.
-Por tren se entiende, entre otros, un grupo de vehículos acoplado y formado, compuesto al menos por una locomotora y un vagón, señalizado con las señales establecidas, con acompañamiento del tren y circulando según el horario o según la instrucción de la persona profesionalmente cualificada que dirige el transporte ferroviario. Como se desprende de esta definición, el tren puede estar compuesto por varias locomotoras, siendo la locomotora de maniobra de empuje la locomotora en servicio situada en el final del tren con la locomotora en servicio en la cabeza del tren. Como se desprende de la norma SŽ D1, la locomotora de maniobra de empuje puede circular como:
+### 4.1 Tareas y obligaciones
+### 4.1.1 Ferrocarriles y explotadores de infraestructura
+El explotador de la infraestructura SŽ tenía, entre otras, la obligación de explotar la infraestructura para las necesidades del tráfico ferroviario fluido y seguro de acuerdo con las normas de explotación de la infraestructura y la autorización administrativa.
+Asimismo, estaba facultado para impartir a los ferrocarriles, al organizar el tráfico ferroviario, instrucciones para garantizar un tráfico ferroviario fluido y seguro.
+En la investigación no se detectó infracción de las tareas y obligaciones del explotador de la infraestructura relacionadas con las causas y circunstancias de la producción de la citada MU.
+El ferrocarril LR estaba, entre otras, obligado a explotar el tráfico ferroviario de acuerdo con las normas de explotación del tráfico ferroviario, la licencia vigente y el contrato celebrado con el explotador de la infraestructura sobre la explotación del tráfico ferroviario en la infraestructura, y a regirse por las instrucciones del explotador de la infraestructura impartidas al organizar el tráfico ferroviario. En el sentido de lo anterior, el ferrocarril tenía que garantizar que el maquinista acoplara y desacoplara el material rodante (HDV), salvo que para ello estuviera designada otra persona profesionalmente cualificada, que condujera el HDV únicamente desde la posición desde la que existe la mejor visibilidad, por regla general desde la cabina frontal en el sentido de la marcha, que desde el mando del DV observara la vía y las señales y actuara según los hechos constatados. Además tenía que, entre otras, garantizar que el maquinista vigilara el funcionamiento general del HDV y, en caso de amenaza a la seguridad del HDV, lo detuviera y, al detectar una avería en el HDV, comunicara este hecho a la persona que dirige el tráfico ferroviario.
+El ferrocarril LR emitió, para el cumplimiento de las obligaciones anteriores, procedimientos tecnológicos uniformes, que se contenían, entre otros, en las normas internas «Povinnosti prevádzkových zamestnancov» (Obligaciones de los empleados de explotación), «Předpis o provozování drážní dopravy» (Norma sobre la explotación del tráfico ferroviario) y «Prevádzka a obsluha brzdových zariadení» (Explotación y servicio de los aparatos de freno), y, con base en el contrato celebrado con el explotador de la infraestructura, sus empleados estaban, entre otras, obligados a cumplir también las disposiciones de la norma SŽ D1.
+Por tren se entiende, entre otros, un grupo de DV formado y acoplado, constituido por al menos un HDV y un TDV, señalizado con las señales establecidas, con acompañamiento de tren y que circule según el horario de circulación o según la instrucción de una persona profesionalmente cualificada que dirige el tráfico ferroviario. Como se desprende de esta definición, el tren puede estar formado por varios HDV, siendo el HDV de empuje (postrkové HDV) el HDV activo situado en la cola del tren con un HDV activo en la cabeza del tren. Como se desprende de la norma SŽ D1, el HDV de empuje puede circular como:
 •
-maniobra de empuje acoplada, es decir, acoplada al tren y conectada al freno continuo del tren;
+Empuje acoplado, es decir, enganchado al tren y conectado al freno continuo del tren;
 •
-maniobra de empuje no acoplada, es decir, no acoplada al tren o no conectada al freno continuo.
-Las locomotoras, es decir, también las de maniobra de empuje, se acoplan (conectan) con el vehículo contiguo en una vía directa de modo que los amortiguadores de los vehículos solo se toquen. Al acoplar la locomotora con el vehículo se utiliza la tornillo de unión del vehículo correspondiente. Al acoplar los vehículos, primero se engancha la tornillo de unión, después se conectan progresivamente los acoples de la tubería principal (y de suministro). A continuación se abren las correspondientes llaves de acople. Al desacoplar, el orden es inverso. El acoplamiento y desacoplamiento de los vehículos lo realizan los empleados del equipo de maniobras. En la maniobra sin equipo de maniobras, el acoplamiento lo realiza el maquinista
+Empuje no acoplado, es decir, no enganchado al tren o no conectado al freno continuo.
+El HDV, es decir, también el HDV de empuje, se acopla (conecta) con el DV adyacente en la vía directa de modo que los topes de los DV solo se toquen. Al acoplar el HDV con el DV se utiliza la manija de tracción (šroubovka) del DV correspondiente. Al acoplar los vehículos, primero se engancha la manija de tracción y después se conectan progresivamente los acoples de la tubería principal (y de alimentación). A continuación, se abren las llaves de acople correspondientes. Al desacoplar, el orden es inverso. El acoplamiento y desacoplamiento de los vehículos lo realizan los empleados del cuadrillo de maniobras. En maniobras sin cuadrillo de maniobras, el acoplamiento lo realiza el maquinista
 
 ## Página 34
+
 
 (el desenganche del HDV de empuje lo realiza el maquinista del HDV de empuje). Si el acompañamiento del tren está formado por varias personas, desde el punto de vista de la explotación dirige a las demás personas del acompañamiento del tren el maquinista del vehículo tractor principal – en el caso del tren Pn 55077, cuyo acompañamiento debía estar formado en la estación de Český Těšín por el maquinista del HDV de tren y el maquinista del HDV de empuje, el maquinista del HDV de tren dirigió desde el punto de vista de la explotación al maquinista del HDV de empuje.
 Tras realizar las operaciones correspondientes y tras la maniobra del HDV de empuje desde el tren Nex 53772, el HDV de empuje acopló al último TDV del tren Pn 55077, que estaba detenido en el SK n.º 103 de la estación de Český Těšín, y se detuvo. En el caso concreto, en el tren Pn 55077 había dos maquinistas, es decir, el maquinista del HDV de tren y el maquinista del HDV de empuje, siendo el jefe el maquinista del HDV de tren.
@@ -1132,8 +1146,8 @@ En el caso de esta MU concreta, es necesario relacionar la disposición anterior
 «El vehículo tractor de empuje es un vehículo tractor activo situado al final del tren con un vehículo tractor activo en la cabeza del tren. …»,
 ◦art. 422 apartado 8 de la norma interna SŽ D1:
 
-
 ## Página 35
+
 
 «El vehículo tractor de empuje puede circular como:
 a) empuje enganchado, es decir, enganchado al tren y conectado al freno continuo del tren;
@@ -1143,8 +1157,8 @@ El tren debe ser frenado de modo que su efecto de frenado garantice la detenció
 Para comprobar la correcta interconexión del tubo principal entre los DV del tren y su integridad, sobre el cual ya se hubiera realizado la UZB, tras la manipulación posterior con los DV del tren, con las llaves de paso de acople y los cabezales de los acoples de presión del tubo principal entre los DV, o tras el cambio del operador de freno con el que se controlaba el freno continuo del tren, se realiza la JZB. El tubo principal entre los DV del tren está íntegro y correctamente interconectado cuando el freno automático continuo de aire en el vehículo verificado actúa correctamente. Tras enganchar el HDV de empuje, es decir, tras su desenganche con el DV que era el último DV del tren antes de enganchar el HDV de empuje, realiza la JZB el maquinista del HDV de empuje observando los cambios de presión en los manómetros del tubo principal y del cilindro de freno en la cabina de conducción. Tras la indicación «¡Frenen!» dada por el maquinista del HDV de empuje, el maquinista del HDV de tren reduce la presión del aire en el tubo principal en 0,5 bar. El maquinista del HDV de empuje observa la caída de la presión del aire en el tubo principal en el manómetro del HDV de empuje y, tras la indicación «¡Suelten!» dada por él, observa su aumento. La caída y el aumento de la presión deben ser graduales. Durante la JZB debe producirse la activación del freno automático del HDV, lo que el maquinista del HDV de empuje comprueba observando la presión del aire en el manómetro del cilindro de freno del HDV.
 El maquinista del HDV de empuje, tras informar al maquinista del HDV de tren de que el HDV de empuje solo estaría enganchado al tren, pero no conectado al freno continuo del tren, solicitó al maquinista del HDV de tren que realizara la JZB. El maquinista del HDV de tren así toleró que el HDV de empuje no se conectara al freno continuo del tren. El maquinista del HDV de empuje, en lugar de observar los cambios de presión en los manómetros del tubo principal y del cilindro de freno en la cabina de conducción del HDV de empuje, realizó la comprobación del apoyo y desapoyo de las zapatas de freno en el último TDV del tren Pn 55077. El maquinista del HDV de empuje se dirigió a continuación a la cabina de conducción del HDV de la sección jefe
 
-
 ## Página 36
+
 
 131.063-0 situada en el sentido de la marcha del tren Pn 55077 en su extremo. La no realización de la JZB se relacionó con la no conexión del HDV de empuje al freno continuo del tren y tuvo como consecuencia la no verificación de la integridad del tubo principal del tren, en particular la no puesta en acción del freno continuo de los DV del tren, incl. el HDV de empuje, tras la desconexión del tubo principal al separar el último TDV de la composición del tren del HDV de empuje.
 ### Hallazgos:
@@ -1179,33 +1193,33 @@ El peso de frenado total de un tren frenado mediante freno continuo es igual a l
 
 ## Página 37
 
-de la frenada continua del tren. El peso total del tren en el caso dado es igual a la suma del peso de los DV individuales del tren y del peso de la carga en los vehículos. El valor del coeficiente «κ» (kappa) depende entonces del modo de frenado del tren dado, de su longitud y de su tipo, es decir, si se trata de un tren de mercancías o de transporte de pasajeros. Los valores concretos se indican en el anexo n.º 2 de la disposición n.º 173/1995 Sb., cuando para un tren de mercancías de una longitud de hasta 700 m frenado por el modo de frenado I tiene el valor 0,97.
-La ÚZB se realizó en el tren Pn 55077 el 20. 8. 2022 en la est. Chałupki (República de Polonia) y finalizó a las 3:00 h del mismo día. El transportista elaboró el registro «Medzinárodná správa o brzdení» (Informe internacional de frenado) sobre la prueba de frenado realizada para el tren Pn 43255. Con el número de tren 43255 circulaba el tren en el tramo Chałupki – Bohumín os. n., desde donde continuaba, o debía continuar, con el número 55077 hasta Návsí (Nawsie). Sin embargo, del contenido del registro sobre la prueba de frenado realizada no se desprende en modo alguno que se refiera también al tren Pn 55077.
-El registro en cuestión sobre la prueba de frenado realizada contiene, entre otros, la longitud del tren 553 m, el peso del tren 2 079 t, el peso de frenado del tren 1 699 t, el porcentaje de frenado real 81. Debido a la longitud del tren de 553 m, para el cálculo del porcentaje de frenado real debe utilizarse el coeficiente «κ» (kappa) con el valor 0,97. Mediante el cálculo del porcentaje de frenado real, con el uso del coeficiente «κ» 0,97, el porcentaje de frenado real de los trenes Pn 43255/Pn 55077 tiene el valor 79 y no 81, como se indica incorrectamente en el registro «Medzinárodná správa o brzdení».
-La constatación indicada no puede valorarse en relación causal con la aparición de la MU, porque en el caso dado se trataba de una deficiencia administrativa que no tenía influencia fáctica en la aparición de la MU.
+del frenado continuo del tren. El peso total del tren en el caso concreto es igual a la suma del peso de los distintos DV del tren y del peso de la carga en los vehículos. El valor del coeficiente «κ» (kappa) depende entonces del modo de frenado del tren en cuestión, de su longitud y de su tipo, es decir, de si se trata de un tren de mercancías o de viajeros. Los valores concretos se indican en el anexo n.º 2 de la disposición n.º 173/1995 Sb., cuando para un tren de mercancías de una longitud de hasta 700 m frenado por el modo de frenado I tiene el valor 0,97.
+La ÚZB se realizó en el tren Pn 55077 el día 20. 8. 2022 en la est. Chałupki (República de Polonia) y finalizó a las 3:00 h del mismo día. Sobre la prueba de frenado realizada, el operador registró la entrada «Medzinárodná správa o brzdení» para el tren Pn 43255. Con el número de tren 43255 circuló el tren en el tramo Chałupki – Bohumín os. n., desde donde continuó, o bien debía continuar, con el número 55077 hasta Návsí (Nawsie). Sin embargo, del contenido de la entrada sobre la prueba de frenado realizada no se desprende en modo alguno que se refiera también al tren Pn 55077.
+La entrada sobre la prueba de frenado realizada contiene, entre otros, la longitud del tren 553 m, el peso del tren 2 079 t, el peso frenante del tren 1 699 t, el porcentaje frenante real 81. Dada la longitud del tren de 553 m, para el cálculo del porcentaje frenante real debe utilizarse el coeficiente «κ» (kappa) con el valor 0,97. Mediante el cálculo del porcentaje frenante real, con el uso del coeficiente «κ» 0,97, el porcentaje frenante real de los trenes Pn 43255/Pn 55077 tiene el valor 79 y no 81, como se indica incorrectamente en la entrada «Medzinárodná správa o brzdení».
+La constatación indicada no puede valorarse en relación causal con la aparición de la MU, porque en el caso concreto se trataba de una deficiencia administrativa que no tenía influencia fáctica en la aparición de la MU.
 ### Constatación:
-En la investigación se constató la infracción de las disposiciones legales relativas a las funciones y obligaciones del transportista
-### LR fuera de la relación causal con la aparición de la MU:
+En la investigación se constató la infracción de las disposiciones legales relativas a las funciones y obligaciones del operador
+### LR fuera de relación causal con la aparición de la MU:
 •
 § 35 apartado 1 letra a) de la ley n.º 266/1994 Sb.:
-«El transportista está obligado a explotar el transporte ferroviario de acuerdo con las normas de explotación del transporte ferroviario, la licencia vigente y el contrato celebrado con el explotador de la vía sobre la explotación del transporte ferroviario en la vía»;
+«El operador está obligado a explotar el transporte ferroviario de acuerdo con las normas de explotación del transporte ferroviario, la licencia vigente y el contrato celebrado con el explotador de la infraestructura para la explotación del transporte ferroviario en la infraestructura»;
 •
 § 37 apartado 10 de la disposición n.º 173/1995 Sb.:
-«Sobre la prueba de frenado realizada en … trenes de mercancías … se elaborará un registro, que se entregará posteriormente a la persona que conduce el vehículo ferroviario. El registro contiene
+«Sobre la prueba de frenado realizada en … trenes de mercancías … se levantará un acta, que se entregará a continuación a la persona que dirige el vehículo ferroviario. El acta contiene
 …
-e) los porcentajes de frenado requeridos,
-f) los porcentajes de frenado reales …».
-En el caso de esta MU concreta es necesario relacionar la disposición indicada anteriormente con la definitoria:
+e) los porcentajes frenantes requeridos,
+f) los porcentajes frenantes reales …».
+En el caso de esta MU concreta es necesario relacionar la disposición anterior con la definitoria:
 ◦§ 37 apartado 4 de la disposición n.º 173/1995 Sb.:
-«Los porcentajes de frenado reales de cada tren se determinarán mediante el cálculo según la fórmula:
-Porcentajede frenado real=κ∗Peso de frenado total del tren
+«Los porcentajes frenantes reales de cada tren se determinarán mediante el cálculo según la fórmula:
+Porcentajefrenantereal=κ∗Peso frenante total del tren
 ∗100
 Peso total del tren
 … Los valores del coeficiente κ se indican en el anexo n.º 2.».
-Como se desprende de la definición de tren, cada tren debe estar señalizado con la señal «Začátek vlaku» (Inicio del tren) y con la señal «Konec vlaku» (Fin del tren). La señal «Začátek vlaku» está formada por 2 luces blancas situadas al mismo nivel por encima de los amortiguadores o del enganche y una tercera luz blanca superior situada de modo que las luces formen un triángulo isósceles, y se coloca en la cara frontal del 1.º DV del tren en
-
+Como se desprende de la definición de tren, cada tren debe estar señalizado con la señal «Inicio de tren» y la señal «Fin de tren». La señal «Inicio de tren» está formada por 2 luces blancas situadas al mismo nivel por encima de los amortiguadores o del enganche y una tercera luz blanca superior situada de modo que las luces formen un triángulo isósceles, y se coloca en la cara frontal del 1.º DV del tren en
 
 ## Página 38
+
 
 la dirección de marcha. La señal «Konec vlaku» está formada, en los trenes de pasajeros y de mercancías, por 2 luces rojas. En los trenes de mercancías y en todos los trenes en caso de avería de las luces rojas, las luces rojas pueden ser sustituidas por 2 placas rectangulares de señal de fin formadas por triángulos rojos y blancos enfrentados, de material reflectante. La señal se coloca en el extremo del último DV del tren al mismo nivel por encima de los amortiguadores o del enganche. El explotador de la vía SŽ estableció además, mediante sus procedimientos tecnológicos, que el último vehículo del tren debe estar siempre señalizado con la señal «Konec vlaku», excepto en el tren con empuje no acoplado, lo que no es el caso del tren Pn 55077, que debía ser desde la est. Český Těšín un tren con empuje acoplado, cuando los procedimientos tecnológicos uniformes del transportista LR no permiten la circulación de un tren con empuje no acoplado.
 Nota DI: en relación con la investigación de esta MU, la DI no abordó la cuestión de las visibilidades y la diferencia relacionada con las distancias de posible detección del fin del tren señalizado con una señal activa en la configuración de dos luces rojas frente al fin del tren señalizado con una señal en la configuración de dos balizas de fin, y ello especialmente durante la circulación del DV con el proyector de largo alcance apagado, porque lo indicado no tenía relación alguna con la aparición de la MU en cuestión, véase no obstante el ZZ n.º de ref.: 
@@ -1231,8 +1245,8 @@ En el caso de esta MU concreta es necesario relacionar la disposición indicada 
 Parte I. Punto 11.2 del anexo n.º 1 a la disposición n.º 173/1995 Sb.:
 «El «Konec vlaku» se señaliza en los trenes de pasajeros y de mercancías con 2 luces rojas. En los trenes de mercancías y en todos los trenes en caso de avería de las luces rojas, las luces rojas pueden ser sustituidas por 2 placas rectangulares de señal de fin formadas por
 
-
 ## Página 39
+
 
 triángulos rojos y blancos enfrentados, de material reflectante. La señal
 se coloca en el extremo del último vehículo del tren al mismo nivel por encima de los amortiguadores o
@@ -1249,46 +1263,79 @@ El maquinista del HDV del tren indicó que, debido a la adherencia deteriorada, 
 
 ## Página 40
 
-Přerov, que el HDV de empuje se encuentra en la estación Český Těšín, porque no fue enganchado al tren, ver puntos 3.1.9 y 3.2.2 de este ZZ.
-Como ya se ha indicado, el maquinista del HDV de empuje, tras recibir la información de que la señal de salida en la estación Český Těšín permite la salida del tren, y tras recibir la instrucción de que puede comenzar a desarrollar fuerza de empuje con el HDV de empuje, esperó a que el HDV de empuje y el tren Pn 55077 en su conjunto se pusieran en marcha para poder comenzar a desarrollar fuerza de empuje. Debido a que adquirió la sensación de que el HDV de empuje y el tren Pn 55077 llevaban parados demasiado tiempo (de que el HDV de tracción no era capaz de poner el tren en marcha por sí solo), comenzó a desarrollar fuerza de empuje con el HDV de empuje y el HDV de empuje se puso en marcha. En ese momento, la separación existente entre el último TDV del tren Pn 55077 y el HDV de empuje tenía un tamaño de más de 100 m. A este respecto, conviene señalar que el funcionamiento general del HDV siempre depende de las circunstancias dadas y, entre otros, difiere según el HDV circule (se ponga en marcha) de forma independiente, o empuje un tren (se ponga en marcha empujando un tren) de un peso de 2 079 toneladas. Así que ya en el propio arranque del HDV de empuje en la SK n.º 103 de la estación Český Těšín, el maquinista del HDV de empuje pudo registrar cierta anomalía en el funcionamiento del HDV de empuje. La propia colisión (el embestimiento del HDV de empuje a una velocidad de 36 km·h-1 contra el final del tren que circulaba a una velocidad de 17 km·h-1), cuya intensidad fue incluso tal que fue lanzado contra la pared trasera de la cabina del maquinista, mientras que en ambas secciones del HDV de empuje (como consecuencia del desprendimiento de los deslizadores de los colectores del hilo de contacto y la consiguiente actuación de las protecciones contra tensión reducida) se desconectaron los interruptores principales, fue registrado por el maquinista de dicho HDV. El HDV de empuje, tras la aparición de la MU, se detuvo de forma espontánea, por efecto de la resistencia generada por la circulación de la rueda 1 descarrilada del HDV de la sección final sobre la superestructura ferroviaria, en la SK n.º 103 de la estación Český Těšín. El maquinista del HDV de empuje posteriormente comprobó que no había enganchado el HDV de empuje al tren.
-El maquinista del HDV de empuje disponía por tanto de información suficiente para evaluar que se había producido una amenaza a la seguridad del HDV de empuje –una situación que se aparta del estado habitual, que requiere la realización de una comprobación del estado del HDV de dos cuerpos–, y detectó la avería –daño en el frontal deformable, en el dispositivo de enganche y descarrilamiento de la rueda 1 del HDV de la sección final 131.064-8–, sin que nada le impidiera detectar dicha avería –aparición de la MU–. A continuación debía comunicar este hecho a la persona que dirige el tráfico ferroviario, en el presente caso al despachador de sección 1H CDP Přerov.
-De la documentación disponible se desprende que el transportista LR (maquinista del HDV de empuje) al menos hasta las 8:20 h del día 20. 8. 2022 no comunicó (no notificó) la detección de la avería en el HDV de empuje –aparición de la MU– al gestor de la vía (al despachador de sección 1H CDP Přerov).
+Přerov, que el HDV de empuje permanece en la estación de Český Těšín, porque no se había enganchado al tren, ver
+puntos 3.1.9 y 3.2.2 de esta ZZ.
+Como ya se ha indicado, el maquinista del HDV de empuje, tras recibir la información de que
+la señal de salida de la estación de Český Těšín permite la salida del tren, y tras recibir la instrucción de que
+con el HDV de empuje podía empezar a desarrollar fuerza de empuje, esperó a que el HDV de empuje y el tren
+Pn 55077 en su conjunto se pusieran en marcha, para poder empezar a desarrollar fuerza de empuje. Porque
+adquirió la sensación de que el HDV de empuje y el tren Pn 55077 llevaban parados demasiado tiempo (que el HDV
+de tracción no era capaz de poner el tren en marcha por sí solo), empezó a desarrollar fuerza de empuje con el HDV
+de empuje y el HDV de empuje se puso en marcha. En ese momento, la separación surgida entre el último TDV del tren
+Pn 55077 y el HDV de empuje tenía una magnitud de más de 100 m. A este respecto, conviene señalar que
+el funcionamiento total del HDV siempre depende de las circunstancias dadas y, entre otros, difiere según el HDV circule
+(se ponga en marcha) de forma independiente, o empuje un tren (se ponga en marcha empujando un tren)
+de 2 079 toneladas. Así que ya en el propio arranque del HDV de empuje en el SK n.º 103 de la estación de
+Český Těšín, el maquinista del HDV de empuje pudo observar cierta irregularidad en el funcionamiento del HDV de
+empuje. La propia colisión (el embestimiento del HDV de empuje a 36 km·h-1 contra el final del tren que circulaba a
+17 km·h-1), cuya intensidad fue incluso tal que fue
+lanzado contra la pared trasera de la cabina del maquinista, mientras que en ambas secciones del HDV de
+empuje (como consecuencia del desprendimiento de los deslizadores de los colectores del hilo de contacto y de la
+correspondiente actuación de las protecciones por tensión baja) se desconectaron los interruptores principales, el
+maquinista de este HDV lo registró. El HDV de empuje tras la aparición de la MU se detuvo de forma espontánea, por
+la acción de la resistencia surgida por la circulación de la 1.ª eje desbocado del HDV de la sección final sobre la
+superestructura ferroviaria, en el SK n.º 103 de la estación de Český Těšín. El maquinista del HDV de empuje
+posteriormente comprobó que no había enganchado el HDV de empuje al tren.
+El maquinista del HDV de empuje disponía por tanto de información suficiente para evaluar que
+se había producido una amenaza a la seguridad del HDV de empuje – una situación que se sale del estado habitual,
+que exige la realización de una comprobación del estado del HDV de dos partes, y detectó la avería – daño en el
+testero deformable, el aparato de enganche y el descarrilamiento del 1.º eje del HDV de la sección final
+131.064-8, sin que nada le impidiera detectar dicha avería – aparición de la MU. A continuación debía
+comunicar este hecho a la persona que dirige el tráfico ferroviario, en el caso concreto al jefe de sección
+1H CDP Přerov.
+De la documentación disponible se desprende que el transportista LR (maquinista del HDV de empuje)
+como mínimo hasta las 8:20 h del día 20. 8. 2022 no comunicó (no notificó) la detección de la avería en el HDV de
+empuje – aparición de la MU, al gestor de la infraestructura (al jefe de sección 1H CDP Přerov).
 ### Hallazgos:
 En la investigación se constató la infracción de las disposiciones legales relativas a las funciones y obligaciones del transportista
-### LR, al margen de la relación causal con la aparición de la MU:
+### LR, ajena a la relación causal con la aparición de la MU:
 •
-§ 35 apartado 1 letra a) de la ley n.º 266/1994 Sb.:
-"El transportista está obligado a explotar el tráfico ferroviario de acuerdo con las reglas de explotación del tráfico ferroviario, la licencia vigente y el contrato celebrado con el gestor de la vía sobre la explotación del tráfico ferroviario en la vía";
+§ 35 apartado 1 letra a) de la Ley n.º 266/1994 Sb.:
+"El transportista está obligado a explotar el tráfico ferroviario de acuerdo con las normas de explotación del tráfico
+ferroviario, la licencia vigente y el contrato celebrado con el gestor de la infraestructura sobre la explotación del
+tráfico ferroviario en la vía";
 •
 § 35 apartado 1 letra o) del decreto n.º 173/1995 Sb.:
-"Para la conducción de un vehículo ferroviario debe garantizarse que la persona que conduce el vehículo ferroviario … supervise el funcionamiento general del vehículo ferroviario de tracción; en caso de amenaza a la seguridad, detenga dicho vehículo ferroviario, adopte las medidas necesarias, detecte la avería en la medida de lo posible y la elimine,";
-
+"Para la conducción de un vehículo ferroviario debe garantizarse que la persona que conduce el vehículo ferroviario …
+supervise el funcionamiento general del vehículo ferroviario de tracción; en caso de amenaza a la seguridad,
+detenga dicho vehículo ferroviario, adopte las medidas necesarias, detecte la avería en la medida de lo posible y la
+elimine,";
 
 ## Página 41
 
 •
 § 35 apartado 1 letra r) del decreto n.º 173/1995 Sb.:
-"Para la conducción de un vehículo ferroviario debe garantizarse que la persona que conduce el vehículo ferroviario … al detectar una avería en el vehículo ferroviario de tracción, comunique este hecho a la persona que dirige el tráfico ferroviario, …".
-El transportista LR está, entre otras obligaciones, obligado a notificar sin demora cada MU en el tráfico ferroviario al DI en el alcance de los datos establecidos por la disposición legal de desarrollo, es decir, por el decreto n.º 376/2006 Sb., y a actualizar dicha notificación sin demora después de haberse enterado del cambio de los datos notificados o de nuevos datos hasta entonces no incluidos en la notificación.
-Como ya se ha indicado más arriba, el maquinista del HDV de empuje disponía, tras la colisión del HDV de empuje con el final del tren Pn 55077 y la posterior detención en la SK n.º 103 de la estación Český Těšín, de información suficiente para evaluar que se había producido una amenaza a la seguridad del HDV de empuje, y para adoptar las medidas necesarias y detectar el daño y el descarrilamiento totalmente evidentes del HDV de empuje –es decir, la aparición de la MU–. Tras detectar el descarrilamiento del HDV de empuje, lo notificó al puesto de notificación de LR.
-Sin embargo, la información confirmada sobre el daño en el TDV del tren Pn 55077 llegó al gestor de la vía SŽ (concretamente a la persona que dirige el tráfico ferroviario en el lugar de la MU, en el presente caso se trataba del despachador de sección 1H CDP Přerov) hasta las 8:15 h del día 20. 8. 2022, y ello a través del maquinista del HDV de tracción, y la información sobre el descarrilamiento del HDV de empuje hasta las 8:20 h, y ello a través de un empleado de la empresa ČDC. Posteriormente, la aparición de la MU fue notificada por el jefe de despacho de CDP Přerov a O18 SŽ, centro territorial de Ostrava.
-La persona autorizada de O18 SŽ notificó la MU en cuestión en nombre del gestor de la vía SŽ y del transportista LR el día 20. 8. 2022 a las 8:39 h. Ese mismo día a las 10:03 h, la persona autorizada de O18 SŽ precisó en el COP DI la descripción del desarrollo de la MU en cuestión y a las 11:15 h sus consecuencias, ver punto 2.2 de este ZZ.
-Ni el maquinista del HDV de empuje ni ningún otro empleado del transportista LR notificaron sin demora la aparición de la MU en cuestión en el puesto de notificación designado del gestor de la vía SŽ, lo que dio lugar a un retraso en la notificación de la aparición de la MU en cuestión al DI y a una distorsión en la descripción de su desarrollo en la notificación inicial.
+„Para la conducción de un vehículo ferroviario debe garantizarse que la persona que conduce el vehículo ferroviario …
+al detectar una avería en la locomotora de tracción, comunique este hecho a la persona que dirige el tráfico ferroviario, …“.
+El operador LR está obligado, entre otras cosas, a notificar sin demora cada MU en el tráfico ferroviario al DI en el alcance de los datos establecidos por el reglamento de ejecución, es decir, el decreto n.º 376/2006 Sb., y a actualizar dicha notificación sin demora después de haberse enterado del cambio de los datos notificados o de nuevos datos hasta ahora no incluidos en la notificación.
+Como ya se ha indicado más arriba, el maquinista de la locomotora de empuje HDV disponía, tras la colisión de la locomotora de empuje HDV con el extremo del tren Pn 55077 y la posterior parada en la SK n.º 103 de la estación Český Těšín, de información suficiente para evaluar que se había producido una amenaza a la seguridad de la locomotora de empuje HDV, y para adoptar las medidas necesarias y detectar el daño manifiesto y el descarrilamiento de la locomotora de empuje HDV – es decir, la producción de una MU. Tras detectar el descarrilamiento de la locomotora de empuje HDV, lo comunicó al puesto de notificación de LR.
+Sin embargo, la información confirmada sobre el daño al TDV del tren Pn 55077 llegó al operador de la vía SŽ (concretamente a la persona que dirige el tráfico ferroviario en el lugar de la MU, en este caso se trataba del despachador de sección 1H del CDP Přerov) hasta las 8:15 h del 20. 8. 2022, y ello a través del maquinista de la locomotora de tracción del tren, mientras que la información sobre el descarrilamiento de la locomotora de empuje HDV llegó hasta las 8:20 h, a través de un empleado de la empresa ČDC. Posteriormente, la producción de la MU fue notificada por el jefe de despachadores del CDP Přerov al O18 SŽ, oficina territorial de Ostrava.
+La persona autorizada del O18 SŽ notificó la mencionada MU en nombre del operador de la vía SŽ y del operador LR el 20. 8. 2022 a las 8:39 h. El mismo día a las 10:03 h, la persona autorizada del O18 SŽ precisó en el COP DI la descripción del desarrollo de la mencionada MU y a las 11:15 h sus consecuencias, véase el punto 2.2 de la presente ZZ.
+Por tanto, ni el maquinista de la locomotora de empuje HDV ni ningún otro empleado del operador LR notificaron sin demora la producción de la mencionada MU al puesto de notificación designado del operador de la vía SŽ, lo que dio lugar a un retraso en la notificación de la producción de la mencionada MU al DI y a una distorsión de la descripción de su desarrollo en la notificación inicial.
 ### Hallazgos:
-En la investigación se constató la infracción de la disposición legal y de las disposiciones internas relativas a las funciones
-### y obligaciones del transportista LR, al margen de la relación causal con la aparición de la MU:
+En la investigación se detectó una infracción de la normativa y de las disposiciones internas relativas a las funciones y obligaciones del operador LR, sin nexo causal con la producción de la MU:
 •
 § 35 apartado 1 letra a) de la ley n.º 266/1994 Sb.:
-"El transportista está obligado a explotar el tráfico ferroviario de acuerdo con las reglas de explotación del tráfico ferroviario, la licencia vigente y el contrato celebrado con el gestor de la vía sobre la explotación del tráfico ferroviario en la vía";
+„El operador está obligado a explotar el tráfico ferroviario de acuerdo con las reglas de explotación del tráfico ferroviario, la licencia vigente y el contrato celebrado con el operador de la vía sobre la explotación del tráfico ferroviario en la vía“;
 •
 § 7 apartado 2 del decreto n.º 376/2006 Sb.:
-"Cuando se produzca un suceso excepcional durante la explotación de la vía o la explotación del tráfico ferroviario, el gestor de la vía y el transportista garantizarán que todo empleado o persona en relación contractual con el gestor de la vía o el transportista, que con su actividad laboral participe en la explotación de la vía o en la explotación del tráfico ferroviario, notifique sin demora al puesto de notificación designado su aparición, si dicho suceso lo ha detectado él mismo o si se ha enterado de él de forma fiable.";
+„Si se produce un suceso excepcional durante la explotación de la vía o la explotación del tráfico ferroviario, el operador de la vía y el operador garantizan que cada empleado o persona en relación contractual con el operador de la vía o el operador, que con su actividad laboral participan en la explotación de la vía o en la explotación del tráfico ferroviario, notifiquen sin demora al puesto de notificación designado su producción, si dicha circunstancia la detectaron ellos mismos o se enteraron de ella de forma fiable.“;
 •
-art. 445 apartado 1 de la disposición interna SŽ D1:
-"Todo empleado (o persona) en relación contractual con el gestor de la vía o del tráfico ferroviario, que con su actividad laboral participe en la explotación de la vía o
-
+artículo 445 apartado 1 de la disposición interna SŽ D1:
+„Cada empleado (o persona) en relación contractual con el operador de la vía o el tráfico ferroviario, que con su actividad laboral participa en la explotación de la vía o
 
 ## Página 42
+
 
 en la explotación del tráfico ferroviario, está obligado a notificar sin demora al puesto de notificación designado la aparición de un suceso excepcional, si dicho suceso lo ha detectado él mismo o si se ha enterado de él de forma fiable.".
 En el caso de esta MU concreta, es necesario relacionar la disposición anteriormente citada con la definitoria:
@@ -1306,8 +1353,8 @@ La autoridad nacional de seguridad es el DÚ, que de acuerdo con la ley n.º 266
 La función de la Agencia Ferroviaria de la Unión Europea es, además de garantizar, en el marco de sus competencias, que se mantenga y, en la medida de lo posible, se aumente de forma sistemática la seguridad de los ferrocarriles, entre otras, la emisión, renovación, suspensión y modificación de certificados únicos de seguridad, la limitación de su vigencia o su anulación, en cuestión en la que coopera con las autoridades nacionales de seguridad; asimismo emite autorizaciones para la comercialización de vehículos ferroviarios y de tipos de vehículos y está facultada para renovar, modificar, suspender o anular las autorizaciones que haya emitido. La Agencia evalúa además los proyectos de disposiciones nacionales, etc.
 En la investigación no se constató infracción de las funciones y obligaciones de la autoridad nacional de seguridad y de la Agencia Ferroviaria de la Unión Europea.
 
-
 ## Página 43
+
 
 ### 4.1.5 Entidades notificadas, entidades designadas y entidades dedicadas a la evaluación
 ### del riesgo
@@ -1334,6 +1381,7 @@ En la investigación no se detectaron factores relacionados con la entidad respo
 
 ## Página 44
 
+
 4.2.6 Otros factores o consecuencias que se consideran importantes a efectos de la investigación
 En la investigación no se detectaron otros factores relacionados con la DV, la infraestructura ferroviaria o las instalaciones técnicas.
 ### 4.3 Factores humanos
@@ -1349,8 +1397,8 @@ En relación con la investigación de los factores laborales, la DI abordó asim
 En el transporte ferroviario se recurre habitualmente al trabajo nocturno, por razones de garantía de la continuidad de la explotación y de otros requisitos conexos. En términos generales puede afirmarse que el trabajo nocturno es el trabajo realizado entre las 22:00 y las 6:00 horas, y que el trabajo nocturno está sujeto, dadas sus posibles consecuencias adversas, a una regulación jurídica específica, en la que se establecen normas que confieren a dichos empleados una protección reforzada.
 Sobre la cuestión del trabajo nocturno y de la influencia del trabajo nocturno en el ser humano existe una amplia teoría elaborada, y en este sentido se han realizado también numerosas investigaciones. En términos generales puede indicarse que el trabajo por turnos y el trabajo nocturno influyen en el estado psíquico y de salud del ser humano,
 
-
 ## Página 45
+
 
 no obstante, esta influencia es individual en cada persona y variable en el tiempo. En determinadas circunstancias, influye en la fatiga global de la persona de que se trate.
 Dadas las causas y circunstancias de la aparición de la MU en cuestión, en la presente ZZ se analizan únicamente, en detalle, los turnos de trabajo (jornadas) realizados por el maquinista de la locomotora de empuje implicado en la MU durante julio y agosto de 2022, hasta la aparición de dicha MU. De los turnos de trabajo (jornadas) analizados del maquinista de la locomotora de empuje se desprende que:
@@ -1363,8 +1411,8 @@ Puede resumirse, por tanto, que el maquinista de la locomotora de empuje realiza
 En términos generales puede decirse también que la fatiga durante el trabajo influye más o menos en todos los empleados, incluido el maquinista, con independencia de sus experiencias previas o de la duración de su práctica. El momento en que se manifiesta la fatiga y su intensidad son individuales en cada maquinista y dependen de una serie de factores. De los conocimientos recogidos en la literatura especializada sobre psicología del transporte, recogidos por ejemplo en el libro Psychologie v dopravě en la página n.º 130, se desprende que «Es preciso ser consciente de que el nivel de vigilia lo influye, en cada persona, no solo la fatiga, sino también el biorritmo de 24 horas. La atención suele ser menor en las primeras horas de la mañana.» (fuente: ŠTIKAR, Jiří, HOSKOVEC, Jiří, ŠTIKAROVÁ, Jana, Psychologie v dopravě. 1.ª edición Praga: Karolinum, 2003. 275 p. Textos didácticos de la Universidad Carolina de Praga. ISBN 80-246-0606-2).
 En cuanto al régimen de trabajo y descanso, dicha literatura especializada indica en la página n.º 136, entre otras cosas, que «Desde el punto de vista ergonómico, es esencial que la carga de trabajo sea suficiente y uniforme.
 
-
 ## Página 46
+
 
 La actividad reducida o incluso la inactividad, especialmente en el turno nocturno, no constituyen un descanso, sino que reducen considerablemente el nivel de vigilia y dificultan especialmente la transición al estado de actividad plena. … El trabajo por turnos interfiere en la periodicidad natural de 24 horas de las personas. Una actividad suficientemente intensa altera o desplaza dicha periodicidad».
 La MU en cuestión se produjo a las 7:17 h del 20 de agosto de 2022, precedida de una cadena de errores del maquinista de la locomotora de empuje, siendo fundamental el acoplamiento correcto de la locomotora de empuje al tren Pn 55077. El maquinista de la locomotora de empuje no logró explicar por qué motivo no acopló el tornillo de enganche entre la locomotora de empuje y el último vagón del tren Pn 55077, ni siquiera estaba seguro, inmediatamente después de la aparición de la MU, de si había acoplado el tornillo de enganche.
@@ -1375,6 +1423,7 @@ En el marco del desacoplamiento de la DV antes indicado, el maquinista de la loc
 El transportista LR estableció en su norma interna Předpis o provozování drážní dopravy, en el capítulo 2.1, artículo 10, que «En caso de cambio repentino del estado de salud, enfermedad, malestar o sensación de gran fatiga, antes o durante el servicio, que atenúen la capacidad sensorial y/o que puedan influir en el correcto desempeño del servicio, el empleado comunicará estos hechos de inmediato al despachador. No se permitirá que un empleado desempeñe el servicio cuando
 
 ## Página 47
+
 
 declara que no está en condiciones de prestar servicio por motivos de salud. …”. A este respecto, es necesario recordar que es imprescindible seguir trabajando en la cultura de seguridad, de modo que los empleados no teman, en el momento crítico, finalizar el turno antes de tiempo y actúen conforme a la disposición anteriormente mencionada.
 Dado que el maquinista de la locomotora de empuje (HDV) era profesional y médicamente apto, y no se constató que padeciera ninguna enfermedad ni hubiera tomado medicamentos u otras sustancias que afecten a la atención, debió ser capaz de percibir y evaluar su estado momentáneo (fatiga psíquica o física) y actuar en consecuencia, es decir, adoptar medidas para garantizar la seguridad.
@@ -1399,8 +1448,8 @@ realiza cualquiera de los sujetos implicados
 En los procedimientos, métodos, contenido y resultados de las actividades de evaluación de riesgos y seguimiento,
 relacionados con las circunstancias de la ocurrencia de la MUE en cuestión, no se constataron deficiencias.
 
-
 ## Página 48
+
 
 ### 4.4.3 Sistema de garantía de seguridad de los operadores ferroviarios y gestores de la infraestructura implicados
 En el sistema de seguridad del gestor de la infraestructura y en el sistema de garantía de seguridad del transporte
@@ -1436,8 +1485,8 @@ locomotora de empuje (último vehículo motriz del tren).
 No se constató ningún factor contribuyente por parte de la Inspección Ferroviaria (DI).
 No se constató ninguna causa sistémica por parte de la Inspección Ferroviaria (DI).
 
-
 ## Página 49
+
 
 ### A summary of the analysis and conclusions with regard to the causes of the
 occurrence
@@ -1487,8 +1536,8 @@ to inform all operational employees of the company about the conclusions and
 results of the investigation of the occurrence, in the form of a monthly circular and
 subsequently during regular training in November 2022;
 
-
 ## Página 50
+
 
 •
 make a change of the internal regulation „Duties of operational employees”.
@@ -1533,8 +1582,8 @@ inspector
 De la Inspección Territorial de Ostrava
 De la Inspección Territorial de Ostrava
 
-
 ## Página 51
+
 
 ## ANEXOS
 Fig. n.º 5: Vista del frontal posterior de la locomotora de empuje (HDV) – frontal delantero de la sección

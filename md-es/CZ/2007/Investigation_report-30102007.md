@@ -10,13 +10,14 @@ chars: 90503
 ratio_longitud: 1.28
 tokens_in: 43580
 tokens_out: 30514
-verificacion: revisar
-notas_cifras: ["bloque 1: cifras cortas: 1/105", "bloque 2: original bilingüe: se compara contra el idioma principal (CS)", "bloque 3: cifras cortas: 3/80", "bloque 4: cifras cortas: 4/60", "bloque 5: cifras cortas: 1/102", "bloque 6: original bilingüe: se compara contra el idioma principal (PT); cifras cortas: 1/41"]
-avisos: ["bloque 6: ratio 1.72", "bloque 7: ratio 1.65"]
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (PT)", "página 5: original bilingüe: se compara contra el idioma principal (EN)", "página 6: original bilingüe: se compara contra el idioma principal (PT)", "página 9: cifras cortas: 3/46", "página 10: cifras cortas: 3/23", "página 11: cifras cortas: 1/35"]
 ---
+
 ## Página 1
+
 
 Inspección Ferroviaria
 República Checa
@@ -43,11 +44,12 @@ IČO: 75009561
 http://www.dicr.cz
 fax: (+420) 224 805 428
 
-
 ## Página 2
 
 
+
 ## Página 3
+
 
 # RESUMEN
 30 de octubre de 2007, 18:06 (17:06 GMT)
@@ -78,11 +80,12 @@ emergencia, con el fin de evitar malentendidos a la hora de alertar a los servic
 de emergencia o al gestor de la infraestructura en caso de emergencia (véanse las recomendaciones de seguridad emitidas en el marco de los accidentes de Vraňany el 19 de marzo de 2007 y Jablůnka el 7 de mayo
 2007).
 
-
 ## Página 4
 
 
+
 ## Página 5
+
 
 # Índice
  Resumen .............................................................................................................................3
@@ -116,6 +119,7 @@ incluidas las personas en relación contractual ................................
 
 ## Página 6
 
+
 proporción ...............................................................................................................15
 3.1.2 Otras personas .........................................................................................................16
 3.2 Sistema de garantía de la seguridad ...............................................................................16
@@ -145,8 +149,8 @@ proporción ....................................................................
 4.1.1 Descripción final del incidente basada en los hechos constatados en el punto 3 
 ............................................................................................................................24
 
-
 ## Página 7
+
 
 4.2 Análisis ......................................................................................................................26
 4.2.1 Evaluación de los hechos constatados según el punto 3 y presentación de conclusiones sobre la causa del incidente y la actuación de los servicios de emergencia ..........................................26
@@ -168,6 +172,7 @@ proporción ....................................................................
 
 ## Página 8
 
+
 ## 1 RESUMEN
 El 30 de octubre de 2007 a las 18:06:26 h, se produjo, en el sentido del artículo 49 de la ley n.º 266/1994 Coll., sobre ferrocarriles, en su versión vigente (en lo sucesivo, la ley n.º 266/1994 Coll.), un incidente extraordinario en el transporte ferroviario (en lo sucesivo, IE), en el que en el lugar del cruce a nivel de la línea ferroviaria de vía única, nacional Krnov – Olomouc hl. n. (línea 310 A), con una vía pública a nivel de las vías (en lo sucesivo, paso a nivel ferroviario), en el pk 32,212, colisionó un vehículo ferroviario que circulaba como el tren R 827 con un vehículo motorizado de carretera detenido: un camión pesado ZN. RENAULT PREMIUM R 450.19 T 4x2 – EURO.5, matrícula: 5B1 7893 (CZ), con remolque de caja ZN. GENERAL TRAILERS, TRAILOR matrícula: ZNH 95-79 (en lo sucesivo, el conjunto de vehículos).
 En el IE no se produjeron lesiones personales.
@@ -179,8 +184,8 @@ El daño ecológico se cuantificó en 259.407,- Kč.
 La causa del IE fue la detención y el estacionamiento no autorizados (atascamiento y bloqueo) del conjunto de vehículos en el PNF durante el paso del vehículo ferroviario, del tren R 827, y la ausencia de un sistema unificado de señalización del PNF, destinado a la identificación unificada del PNF desde la perspectiva de la topología ferroviaria y de la carretera, y que permitiera la información directa (sin intermediarios) de la persona que dirige el tráfico ferroviario sobre la fuente de peligro para la seguridad del transporte ferroviario.
 La recomendación de seguridad fue emitida por la Inspección Ferroviaria al explotador de la vía y al gestor de la circulación ferroviaria, y se puso en conocimiento del órgano administrativo ferroviario y del Ministerio de Transportes de la República Checa.
 
-
 ## Página 9
+
 
 ## 2 DATOS RELATIVOS AL INCIDENTE EXTRAORDINARIO
 ### 2.1 Incidente extraordinario
@@ -196,6 +201,7 @@ En ese momento, el conjunto de vehículos, compuesto por un camión con remolque
 
 ## Página 10
 
+
 el conductor (en adelante, conductor) con el tren llegó hasta el paso a nivel (PN), que permitía el paso mediante la señalización PZZ con luz blanca intermitente del semáforo de advertencia. Durante el cruce del PN, el tren quedó atascado. Los largueros de soporte del remolque se clavaron en la superficie del pavimento del PN. Por ello, el conductor retrocedió con el tren fuera del PN, donde intentó elevar todo el conjunto mediante los fuelles de aire. Sin embargo, solo logró elevar la cabeza tractora del tren. Al volver a entrar en el PN, el tren volvió a atascarse. Tras retroceder nuevamente fuera del PN, el conductor elevó mediante los fuelles de aire, esta vez, todo el tren, es decir, la cabeza tractora junto con el remolque. A continuación, intentó de nuevo cruzar el PN con el tren. La señalización PZZ permitió el paso a través del PN durante todo el tiempo. Incluso en este tercer intento de cruzar el PN con el tren, se produjo un nuevo atascamiento: el clavamiento de los largueros de soporte del remolque contra la superficie del pavimento del PN.
 En ese momento, según la declaración del conductor, se produjo una fuga de aire del sistema de control del tren, lo que impidió engatar la marcha. Tras salir de la cabina del vehículo, el conductor detectó una fuga de aire detrás del eje trasero de la cabeza tractora del tren. El conductor del tren solicitó a la conductora del automóvil particular, que se había detenido delante del PN detrás del tren, que informara a la persona que controlaba el tráfico ferroviario de la situación surgida, es decir, del tren inmovilizado y atascado en el PN. El conductor del tren quería alertar también a la Policía de la República Checa (en adelante, PČR) de este hecho, pero debido a la oscuridad y a que el PN no estaba debidamente señalizado, no pudo identificar el lugar donde se encontraba el tren. Por ello, regresó a la cabina e intentó, acelerando continuamente, llenar el sistema de aire para poder engatar la marcha y alejarse del área del PN. En ese momento, registró que la señalización PZZ había pasado a estado de alarma. Por ello, salió de la cabina del tren y abandonó rápidamente el área del PN. Debido a la rápida sucesión de los acontecimientos siguientes, no logró advertir a tiempo al maquinista del tren R 827 que se acercaba sobre el peligro inminente.
 El maquinista del tren R 827, al aproximarse al PN en el pk 32,212, registró la iluminación del vehículo motorizado de carretera. Dado que la vía discurre por una curva a la derecha y el PN no estaba iluminado, consideró que el vehículo motorizado de carretera estaba detenido de forma segura antes del PN y, por tanto, continuó su marcha sin ninguna corrección de velocidad, que era de 68 km/h. Tras iluminar el tren detenido en el PN con el haz de luz del faro del HDV, el maquinista aplicó inmediatamente el freno de emergencia. A una velocidad de 45 km/h, se produjo la colisión del tren R 827 contra el lado derecho del tren detenido. Como consecuencia de la dinámica del accidente, el tren fue empujado por el tren R 827 a lo largo de 57 m hasta detenerse. La cabeza del tren se detuvo en el pk 32,269 a las 18:06:37 h.
@@ -206,6 +212,7 @@ Inmediatamente después de la producción del incidente (MU), el automóvil part
 La producción del incidente (MU) fue comunicada a la Oficina Central de Notificaciones de Praga (en adelante, COP) de la Inspección Ferroviaria, por parte del gestor de la infraestructura y del operador de tráfico ferroviario, el 30 de octubre de 2007 a las 18:50 h., es decir, 44 minutos después de la producción del incidente (MU), de conformidad con el artículo 9, apartado 1, del Decreto n.º 376/2006 Coll., sobre el sistema de seguridad de la explotación de la infraestructura ferroviaria y del tráfico ferroviario y los procedimientos en caso de producción de incidentes en las vías (en adelante, Decreto n.º 376/2006 Coll.), por la persona técnicamente competente autorizada del gestor de la infraestructura y del operador de tráfico ferroviario (en adelante, persona autorizada), como colisión del tren R 827 con un vehículo de carretera con remolque en el PN en el pk 32,212 entre las estaciones de Moravský Beroun y Domašov nad Bystřicí a las 18:10 h., con fuga de gasóleo y sin lesiones personales. El empleado de la COP, basándose en la información notificada,
 
 ## Página 11
+
 
 decidió iniciar la investigación de las causas y circunstancias de la producción del incidente (MU) en el lugar, para lo cual fue autorizado el Inspectorado Territorial de Ostrava (en adelante, ÚI Ostrava). El empleado de la COP dio su consentimiento para iniciar las labores de desescombro a las 00:40 h. del día siguiente. El Inspectorado Territorial de Ostrava fue autorizado por la Inspección Ferroviaria para llevar a cabo otra investigación de las causas y circunstancias de la producción del incidente (MU). La Inspección Ferroviaria llevó a cabo la investigación de las causas y circunstancias de la producción del incidente (MU) de conformidad con el artículo 53b de la Ley n.º 266/1994 Coll. y los artículos 11 y 12 del Decreto n.º 376/2006 Coll.
 
@@ -227,6 +234,7 @@ La HDV 843.021-7 dispone de un Certificado de Aptitud del Vehículo Ferroviario 
 
 ## Página 12
 
+
 el 02. 03. 2004. La última inspección técnica periódica del vehículo de tracción se realizó en el taller de Olomouc el 14. 05. 2007, con validez hasta el 14. 11. 2007.
 ### 2.2.3 Descripción de los componentes de la vía de circulación ferroviaria, del sistema de seguridad (es decir, en particular, el estado de las vías, las agujas, los centros de mando, las señales y el equipo de seguridad a bordo)
 El paso a nivel (PAN) de vía única en el pk 32,212 de la línea ferroviaria nacional Krnov – Olomouc hl. n. (línea nº 310A), está señalizado en ambos lados de la carretera terrestre con señales de tráfico verticales A 32a «Cruz de San Andrés para paso a nivel ferroviario de vía única» con tratamiento reflectante. Antes del PAN, en ambos lados del mismo, a la derecha de la carretera terrestre, se encuentran las señales de tráfico verticales A 31a, A 31b, A 31c «Placa de señalización (240 m, 160 m y 80 m)» y A 30 «Paso a nivel ferroviario sin barreras», también con tratamiento reflectante. El PAN está protegido por el equipo de seguridad a nivel del paso (PZZ) de la categoría PZS 3SBI, tipo AŽD 71 sin barreras, para el cual el Instituto Ferroviario de Praga, en virtud del apartado 3 del artículo 47 de la ley nº 266/1994 Coll., Ley Ferroviaria, emitió el 22. 01. 1999, con referencia: 2-5681/98-DÚ, el «Certificado de aptitud del equipo técnico designado» nº de registro PZ 2561/98-E.41. La fecha de la última prórroga de validez es el 10. 12. 2003, sobre la base del acta nº de referencia: AK-98/03-JP-Z, del 10. 12. 2003, con validez hasta el 29. 09. 2008.
@@ -238,8 +246,8 @@ La primera utilización de los medios de comunicación en relación con la apari
 ### 2.2.5 Trabajos realizados en el lugar del incidente y en sus inmediaciones
 Aparte de los intentos infructuosos de hacer pasar la unidad móvil por el PAN, no se realizaron trabajos en el lugar ni en las inmediaciones del lugar del accidente.
 
-
 ## Página 13
+
 
 ### 2.2.6 Activación del plan de emergencia en la vía férrea y secuencia de los acontecimientos
 El procedimiento de activación del plan de emergencia es parte de la normativa interna de ČD D 17 «Reglamento para la notificación e investigación de incidentes», aprobada el 31. 10. 2006 con referencia: 70778/2006, con efecto desde el 01. 01. 2007, y se detalla en los procedimientos tecnológicos – reglamentos de explotación de las unidades operativas, es decir, del Cuerpo de Bomberos y Rescate de los Ferrocarriles Checos, s. a. (en lo sucesivo, HZS ČD) de Olomouc y Ostrava, y de los reglamentos de estación elaborados específicamente para cada centro de mando con ramificación de vías, es decir, también para la estación de Domašov nad Bystřicí y la estación de Moravský Beroun.
@@ -261,76 +269,117 @@ Como consecuencia del accidente, las siguientes partes del vehículo de tracció
 
 ## Página 14
 
-pasarela de transición y dañada la consola de la pasarela de transición;
+puente de paso y consola del puente de paso dañada;
 –
-arado protector bajo la cabina de conducción izquierda;
+pala protectora bajo el puesto de conducción izquierdo;
 –
-grifos de aire (2x rojo, 2x amarillo) y mangueras bajo la cabina de conducción izquierda;
+llaves de aire (2x roja, 2x amarilla) y mangueras bajo el puesto de conducción izquierdo;
 –
-dispositivo de tracción y soporte de la tuerca bajo la cabina de conducción izquierda;
+acoplamiento y soporte del destornillador bajo el puesto de conducción izquierdo;
 –
-soporte de las luces y luz roja rota;
+soporte de luces y farol rojo roto;
 –
-depósito de arena y arenador izquierdo;
+depósito de arena y izquierdo arenero;
 –
-escalones de acceso a la cabina del maquinista desgajados;
+escalones arrancados de la cabina del maquinista;
 –
-escalones de acceso al compartimento de equipajes;
+escalones del compartimento de equipajes;
 –
-cilindro de aire izquierdo para la limpieza del depósito de agua;
+cilindro de aire izquierdo del limpiador de zanja;
 –
-en el primer eje, caja de instalación doblada y cable dañado procedente del sensor de bloqueo de ruedas;
+en el primer eje, caja de instalación doblada y cable dañado del sensor antideslizamiento;
 –
-en el segundo eje, sensor de bloqueo de ruedas desgajado;
+en el segundo eje, sensor antideslizamiento arrancado;
 –
-panel lateral izquierdo de la caja;
+flanco izquierdo delantero de la carrocería;
 –
-pasamanos frontales en el lado de la cabina de conducción izquierda;
+pasamanos frontales en el lado del puesto de conducción izquierdo;
 –
-rejilla de entrada de los filtros de admisión de aire para el enfriamiento de los motores de tracción;
+persiana de entrada de los filtros de admisión de aire de refrigeración de los motores de tracción;
 –
-amortiguador hidráulico vertical de vibraciones del resorte secundario del bogie izquierdo;
+amortiguador hidráulico vertical de oscilaciones del resorte secundario del bogie izquierdo;
 –
-pintura en la parte frontal del vehículo motor diésel (HDV) en el lado de la cabina de conducción izquierda.
+pintura en el frontal del HDV en el lado del puesto de conducción izquierdo.
 –
-El 01. 11. 2007, en las condiciones de la Dirección Regional de Ferrocarriles de Olomouc (DKV Olomouc), se determinó comisionadamente el importe de los daños en 275.500,- Kč, que tras la realización de las reparaciones se cuantificó en 468.493,50 Kč.
-Los daños en la infraestructura ferroviaria, es decir, en la vía principal (ŽP), el balasto ferroviario y las señales de protección (PZZ), ascienden a 316.977,60 Kč.
-Como consecuencia del accidente (MU), se dañó y destruyó por completo la señal de protección «A» situada a la izquierda de la vía principal (ŽP) en el sentido de circulación del tren, y se perforó el depósito de combustible del tractor del tren, del cual se filtró posteriormente combustible (gasóleo) a la cama de balasto del ferrocarril en una cantidad de aproximadamente 600 litros. La catástrofe ecológica causó daños por un importe de 259.407,- Kč.
-Los daños secundarios causados por el accidente (MU) son los daños derivados de los retrasos de los trenes de pasajeros, que el operador del transporte ferroviario cuantificó en un total de 179.407,- Kč.
-El transporte ferroviario en el tramo Moravský Beroun – Domašov nad Bystřicí se interrumpió desde las 18:06 h. del 30. 10. 2007 hasta las 4:00 h. del 31. 10. 2007, es decir, 594 minutos. Como consecuencia del accidente (MU), se canceló el tren R 827 en el trayecto Moravský Beroun – Opava východ. Los trenes Os 3541, Os 3543, Os 3544, R 828 y R 829 se cancelaron en el trayecto Moravský Beroun – Domašov nad Bystřicí y se sustituyeron por transporte por carretera alternativo.
-Los gastos de la inspección de seguridad del vehículo de tracción (TDV) serie 043.014-0, 043.021-5 y 015.053-2 se cuantificaron en 308,53 Kč.
-Los gastos de transporte hasta el lugar de reparación del vehículo motor diésel (HDV) 843.021-7 y de regreso se cuantificaron en 44.932,- Kč.
-
+El 01. 11. 2007 se determinó en las condiciones de DKV Olomouc un daño por importe de 
+275.500,- Kč, que tras la realización de las reparaciones se cuantificó en 468.493,50 Kč.
+El daño en la infraestructura ferroviaria, es decir, la vía, el superestructura y los PZZ, asciende a 316.977,60 Kč. 
+Como consecuencia del MU, en la vía fue arrancado y completamente destruido el señalizador "A" situado a la izquierda de la vía 
+en el sentido de circulación de la composición, y fue perforado el depósito de combustible del tractor de la composición, 
+del que posteriormente se filtró combustible (diésel) al lecho de balasto de la superestructura en una cantidad 
+de unos 600 litros. Por la avería ecológica se produjo un daño por importe de 259.407,- Kč. 
+El daño secundario causado por el MU es el daño derivado de los retrasos de los trenes de transporte de pasajeros, 
+que fue cuantificado por el operador del transporte ferroviario en un importe total de 179.407,- Kč.
+El transporte ferroviario en el tramo Moravský Beroun – Domašov nad Bystřicí fue interrumpido 
+desde las 18:06 h del 30. 10. 2007 hasta las 4:00 h del 31. 10. 2007, es decir, 594 minutos. Como consecuencia del MU fue 
+cancelado el tren R 827 en la línea Moravský Beroun – Opava východ. Los trenes Os 3541, Os 3543, 
+Os 3544, R 828 y R 829 fueron cancelados en la línea Moravský Beroun – Domašov nad Bystřicí 
+y sustituidos por transporte autobús de sustitución.
+Los costes de la inspección de seguridad de los TDV series 043.014-0, 043.021-5 y 015.053-2 fueron 
+cuantificados en 308,53 Kč.
+Los costes del transporte hasta el lugar de reparación del HDV 843.021-7 y de vuelta fueron cuantificados en 
+44.932,- Kč.
 
 ## Página 15
 
-### 2.4 Factores externos
+### 2.4 Circunstancias externas
 ### 2.4.1 Condiciones meteorológicas y datos geográficos
-En el momento de la producción del accidente (MU), la temperatura exterior era de +7º C, lloviznaba, debido a la época del año era de noche, la visibilidad era inferior a 100 m, la cual no se vio reducida por las condiciones meteorológicas.
-## 3 REGISTRO DE LAS EXPLICACIONES PRESTADAS
-### 3.1 Resumen de las explicaciones prestadas (sujetas a la protección de la identidad de las personas) y sobre el descubrimiento técnico de las causas del accidente (MU)
-### 3.1.1 Empleados del operador de la infraestructura y del transportista, incluidas las personas en relación contractual
+En el momento de producirse el MU, la temperatura exterior era de +7º C, lloviznaba, dada la época del año estaba oscuro, visibilidad por debajo de 100 m, que no se vio reducida por influencias meteorológicas.
+## 3 REGISTRO DE LAS EXPLICACIONES PRESENTADAS
+### 3.1 Resumen de las explicaciones presentadas (sujetas a protección de la identidad de las personas) y del peritaje sobre las causas de la producción del suceso ferroviario
+### 3.1.1 Empleados del gestor de la infraestructura y del transportista, incluidas personas en relación contractual
 Maquinista del tren R 827:
-Del documento «ACTA DE PRESTACIÓN DE EXPLICACIONES», elaborado por la Policía Nacional de la República Checa (PČR) de la Dirección Distrital de Olomouc el 30. 10. 2007 a las 21:24 h., se desprende:
-El maquinista condujo el tren R 827 el 30. 10. 2007. Estaba solo en la cabina de conducción.
-Al partir de la estación de Domašov nad Bystřicí lloviznaba ligeramente, pero la visibilidad no se vio reducida por las condiciones meteorológicas. La velocidad máxima permitida para el tren era de 70 km/h. El maquinista indicó que vio un vehículo motor de carretera (en lo sucesivo, VMC) iluminado en el área de la vía principal (ŽP). Dado que la vía discurre por una curva a la derecha y la vía principal (ŽP) no estaba iluminada, consideró que el VMC estaba detenido antes de la vía principal (ŽP). Por ello, continuó su marcha a la misma velocidad. Cuando el haz de luz del faro iluminó el tren detenido en la vía principal (ŽP), aplicó inmediatamente el freno de emergencia y sonó la bocina. A pesar de ello, no fue capaz de detener el tren a una distancia, según la estimación del maquinista, de aproximadamente 50 – 60 m, y la parte frontal del tren chocó contra el lado derecho del vehículo de carga, que empujaba junto con el remolque por delante durante aproximadamente 60 m. Tras la detención del tren, el maquinista fue informado por el personal del tren que ninguno de los viajeros había sufrido lesiones. No sabía si el conductor estaba en la cabina del maquinista en el momento de la colisión. Se enteró posteriormente del hecho de que el conductor había abandonado la cabina del tractor inmediatamente antes de la colisión, gracias al conductor del tren.
-Jefe de tren del tren R 827:
-Del documento «ACTA DE PRESTACIÓN DE EXPLICACIONES», elaborado por la Policía Nacional de la República Checa (PČR), Dirección Distrital de Olomouc, el 30. 10. 2007 a las 21:46 h., se desprende:
-Desde la estación de Domašov nad Bystřicí viajaban en el tren R 827 aproximadamente 45 – 50 viajeros. Antes de la producción del accidente (MU) se produjo un frenado intenso del tren, seguido de una colisión. Tras comprobar que se había producido una colisión con un vehículo motor de carretera, la jefa de tren comprobó inmediatamente si alguno de los viajeros había sufrido lesiones. Tras comprobar que ninguno de los viajeros del tren había sufrido lesiones, comunicó su hallazgo al maquinista y notificó el incidente a la Policía Nacional de la República Checa (PČR) mediante teléfono móvil.
+Del documento «PROTOKOL O PODÁNÍ VYSVĚTLENÍ», elaborado por la PČR, Jefatura de Distrito de Olomouc, el 30. 10. 2007 a las 21:24 h., se desprende:
+El 30. 10. 2007 el maquinista conducía el tren R 827. En el puesto de conducción estaba solo.
+Al salir de la estación de Domašov nad Bystřicí lloviznaba ligeramente, sin embargo la visibilidad no se vio reducida por influencias meteorológicas. La velocidad máxima permitida del tren era de 70 km.h-1. El maquinista indicó que en la zona del ŽP vio un vehículo motorizado de carretera iluminado (en adelante SMV). Como la vía discurva en un arco a la derecha y el ŽP no estaba iluminado, supuso que el SMV estaba detenido delante del ŽP. Por ello continuó la marcha con la velocidad sin cambios. Posteriormente, cuando el cono de luz del faro iluminó la composición detenida en el ŽP, aplicó inmediatamente frenado de acción rápida y arenado. A pesar de ello, a una distancia, según la estimación del maquinista, de unos 50 – 60 m no fue capaz de detener el tren y el morro del tren impactó en el lado derecho del vehículo de carga que empujaba, incluida la remolcada, delante de sí a unos 60 m. Una vez detenido el tren, el maquinista fue informado por el personal del tren de que ningún pasajero había sufrido daños en su salud. Si el conductor se encontraba en la cabina en el momento de la colisión, el maquinista no lo sabía. Del hecho de que el conductor hubiera abandonado la cabina del tractocamión inmediatamente antes de la colisión, se enteró posteriormente del conductor de la composición.
+Jefe de acompañamiento del tren R 827:
+Del documento «PROTOKOL O PODÁNÍ VYSVĚTLENÍ», elaborado por la PČR, Jefatura de Distrito de Olomouc, el 30. 10. 2007 a las 21:46 h., se desprende:
+De la estación de Domašov nad Bystřicí viajaban en el tren R 827 unos 45 – 50 pasajeros. A la producción del MU le precedió un frenado intenso del tren, al que siguió un impacto. Tras comprobar que se había producido una colisión con un vehículo motorizado de carretera, la jefa de tren comprobó inmediatamente si alguno de los pasajeros resultaba herido. Tras comprobar que en la composición del tren ningún pasajero había sufrido daños en su salud, comunicó su hallazgo al maquinista y por teléfono móvil comunicó el suceso a la PČR.
 
 ## Página 16
 
 ### 3.1.2 Otras personas
-Conductor del vehículo de mercancías (SMV) ZN. RENAULT Premium, matrícula 5B1 7893 (CZ):
-Según el documento «ACTA DE DECLARACIÓN», elaborado por la Policía de la República Checa (PČR), Dirección Distrital de Olomouc, el 30.10.2007 a las 20:46 h., se desprende lo siguiente:
-El 30.10.2007 alrededor de las 18:00 h., el conductor con el conjunto rodante se acercaba al paso a nivel (ŽP) en el pk 32,212 por la vía pública – carretera de tercera categoría n.º 44441/3. En ese momento, el dispositivo de protección del paso a nivel (PZZ) permitía el cruce del paso a nivel con la luz blanca intermitente de la barrera luminosa. Durante el cruce del paso a nivel, el conjunto rodante quedó atascado. Los largueros portantes del remolque se clavaron en el firme del paso a nivel. Por ello, el conductor retrocedió con el conjunto rodante fuera del paso a nivel, donde intentó elevar todo el conjunto rodante mediante los fuelles de aire. Sin embargo, solo logró elevar el tractor del conjunto. Al intentar volver a entrar en el paso a nivel, el conjunto rodante volvió a atascarse. Tras retroceder de nuevo fuera del paso a nivel, el conductor elevó mediante los fuelles de aire, en esta ocasión, todo el conjunto rodante, es decir, el tractor con el remolque. Posteriormente, intentó de nuevo cruzar el paso a nivel con el conjunto rodante. El PZZ permitió el cruce del paso a nivel durante todo el tiempo. Incluso en el tercer intento de cruzar el paso a nivel, el conjunto rodante volvió a atascarse: los largueros portantes del remolque se clavaron en el firme del paso a nivel. En ese momento, según la declaración del conductor, se produjo una fuga de aire del sistema de control del conjunto rodante, lo que imposibilitó el cambio de marcha. Tras bajar de la cabina del vehículo, comprobó la fuga de aire detrás del eje trasero del tractor del conjunto rodante. En ese momento, un automóvil particular se detuvo detrás del conjunto rodante. El conductor del conjunto rodante pidió a la conductora del automóvil particular que informara a la persona que dirige el tráfico ferroviario de la situación surgida, es decir, del conjunto rodante inmovilizado y atascado en el paso a nivel. El propio conductor del conjunto rodante quería también alertar a la Policía de la República Checa (en adelante, PČR), pero como era de noche y el paso a nivel no estaba debidamente señalizado, no pudo identificar el lugar donde se encontraba con el conjunto rodante. Por ello, regresó a la cabina e intentó, acelerando continuamente, llenar el sistema de aire para poder cambiar de marcha y salir del área del paso a nivel. En ese momento, registró que el PZZ se había puesto en estado de alarma. Por ello, bajó de la cabina del conjunto rodante y abandonó rápidamente el área del paso a nivel. Posteriormente, un tren impactó por el lado derecho del conjunto rodante y lo empujó por las vías hasta el lugar donde se detuvo.
+Conductor del SMV ZN. RENAULT Premium, matrícula 5B1 7893 (CZ).:
+Del documento «PROTOKOL O PODÁNÍ VYSVĚTLENÍ», elaborado por la PČR, Distrito de
+Olomouc, el 30. 10. 2007 a las 20:46 h., se desprende:
+El 30. 10. 2007 alrededor de las 18:00 h. el conductor llegaba con el tren de vehículos al PZP en el km 32,212
+por la vía de comunicación terrestre – carretera de clase III nº 44441/3. El PZZ en ese momento permitía el paso por el
+PZP con luz blanca intermitente del semáforo de aviso. Al pasar por el PZP se produjo el atascamiento del tren de
+vehículos. Los puntales de soporte del remolque se enclavaron en la superficie de la calzada del PZP. El conductor por lo tanto con el tren de
+vehículos retrocedió fuera del PZP, donde con los sacos de aire intentó levantar todo el
+tren de vehículos. Sin embargo, solo levantó el tractor del tren. En la posterior entrada en el PZP el tren de
+vehículos volvió a atascarse. Tras retroceder de nuevo fuera del PZP el conductor levantó mediante
+los sacos de aire esta vez ya todo el tren de vehículos, es decir, el tractor con el remolque. A continuación
+intentó de nuevo pasar el PZP con el tren de vehículos. El PZZ durante todo el tiempo permitió el paso por el
+PZP. Incluso en el tercer intento de pasar por el PZP el tren de vehículos volvió a atascarse – se enclavó
+con los puntales de soporte del remolque en la superficie de la calzada del PZP. En ese momento, según la declaración del conductor, se produjo una
+fuga de aire del sistema de mando del tren de vehículos, que impedía la activación del grado de
+velocidad. Al salir de la cabina del vehículo detectó una fuga de aire detrás del eje trasero del tractor del
+tren de vehículos. En ese momento se detuvo un automóvil detrás del tren de vehículos. El conductor del tren de
+vehículos pidió a la conductora del automóvil que sobre la situación surgida, es decir, el tren de vehículos inmovilizado,
+detenido enclavado en el PZP, avisara a la persona que dirigía el tráfico ferroviario. El propio conductor del tren de
+vehículos quería poner en conocimiento de este hecho también a la Policía de la República Checa (en adelante PČR),
+pero como era de noche y el PZP no estaba señalizado de ninguna manera, no pudo identificar el lugar donde
+se encontraba con el tren de vehículos. Por lo tanto volvió a la cabina y con la aceleración constante del
+acelerador de gas intentó llenar el sistema de aire para poder activar el grado de
+velocidad y salir del área del PZP. En ese momento registró la activación del PZZ en estado de aviso.
+Por lo tanto salió de la cabina del tren de vehículos y abandonó rápidamente el área del PZP. A continuación
+un tren impactó por el lado derecho del tren y empujó el tren de vehículos por delante de sí mismo por las vías hasta el lugar de
+detención.
 ### 3.2 Sistema de garantía de la seguridad
-### 3.2.1 Organización marco y forma en que se dictan y ejecutan las instrucciones
-La forma de dictar instrucciones a la persona que dirige el vehículo ferroviario se regula en las normas de explotación ferroviaria contenidas, en el sentido del artículo 2 apartado 4 del Decreto n.º 173/1995 Coll., en los procedimientos tecnológicos unitarios – normas internas del explotador de la vía.
-Durante la circulación del vehículo ferroviario, del tren R 827 hacia el paso a nivel (ŽP) en el pk 32,212 protegido por el dispositivo de protección del paso a nivel (PZZ) en funcionamiento, no se dictó al maquinista por parte del explotador de la vía ni de otras personas ninguna instrucción.
-La forma de dictar instrucciones a los participantes en el tráfico viario en el lugar de cruce de la vía férrea con la vía pública en nivel se regula en el artículo 6 de la Ley n.º 266/1994 Coll., los artículos 28 y 29 de la Ley n.º 361/2000 Coll., Ley sobre la circulación por las vías públicas, en su versión vigente, y el artículo 7 apartado 1 letras ff), gg) y hh) y el artículo 24 apartado 1 letras s) y t) del Decreto n.º 30/2001 Coll., por el que se desarrollan las normas de circulación por las vías públicas,
+### 3.2.1 Organización marco y forma en que se emiten y ejecutan las instrucciones
+La forma de emitir instrucciones a la persona que dirige el vehículo ferroviario la regulan las normas de explotación de la vía
+contenidas, en el sentido del § 2 apartado 4 del decreto nº 173/1995 Sb., en los procedimientos tecnológicos únicos – normas internas del explotador de la vía.
+Durante la circulación del vehículo ferroviario, del tren R 827 al PZP en el km 32,212 protegido por el PZZ en funcionamiento,
+no se emitió por parte del explotador de la vía ni de otras personas ninguna instrucción al maquinista.
+La forma de emitir instrucciones a los participantes en el tráfico por carretera en el punto de cruce de la vía ferroviaria
+con la vía de comunicación terrestre a nivel de las vías la regula la disposición del § 6 de la ley nº 266/1994 Sb.,
+§ 28 y § 29 de la ley nº 361/2000 Sb., ley sobre el tráfico en las vías de comunicación terrestre,
+en su redacción vigente, y el § 7 apartado 1 letra ff), gg) y hh) y el § 24 apartado 1 letra s) y t) del decreto
+nº 30/2001 Sb., por el que se ejecutan las normas de tráfico en las vías de comunicación terrestre,
 
 ## Página 17
+
 
 en su versión vigente, y los artículos 3 y 4 del Decreto n.º 177/1995 Coll., por el que se dicta el reglamento de construcción y técnico de las vías férreas, en su versión vigente (en adelante, Decreto 177/1995 Coll.).
 Durante la circulación por la vía pública en dirección al paso a nivel (ŽP) en el pk 32,212, a los participantes en el tráfico viario se les dictan instrucciones mediante señales de tráfico verticales A 30 «Paso a nivel sin barreras», A 31a, A 31b, A 31c «Tabla de señales (240 m, 160 m y 80 m)» y A 32a «Cruz de advertencia para paso a nivel de vía única», complementada con señales luminosas de la barrera luminosa PZZ S 14a «Dos luces rojas intermitentes alternas de la señal del dispositivo de protección del paso a nivel» o S 14b «Luz blanca intermitente de la señal del dispositivo de protección del paso a nivel».
@@ -346,38 +395,37 @@ Para el ETD – dispositivo de seguridad, cuyos circuitos eléctricos cumplen la
 
 ## Página 18
 
-### 3.2.4 Interfaz entre las distintas partes implicadas y las componentes de la vía de circulación
-
-El propietario de la línea ferroviaria nacional Krnov – Olomouc hl. n. es Správa železniční dopravní cesty, organización estatal, con domicilio social en Prvního pluku 367/5, Praga 8 – Karlín, código postal 186 00.
-
-El explotador de la línea son České dráhy, a. s., con domicilio social en Nábřeží Ludvíka Svobody 12/1222, Praga 1, código postal 110 15, en virtud de la Autorización oficial, emitida por el Órgano de Inspección Ferroviaria de Praga el 06.05.1996, con número de referencia: 1814/96-DÚ/O-Sl (nº de registro ÚP/1996/1643).
-
-El transportista son České dráhy, a. s., con domicilio social en Nábřeží Ludvíka Svobody 12/1222, Praga 1, código postal 110 15, en virtud de la Licencia de explotador del transporte ferroviario, nº de referencia: 1-157/96-DÚ/O-Bp, nº de registro L/1996/5000, emitida por el Órgano de Inspección Ferroviaria de Praga el 21.05.1996.
-
-El propietario del vehículo de motor por carretera – camión (tractocamión) MARCA RENAULT Premium, matrícula: 5B1 7893 (CZ), es la persona jurídica VFS Financial Services Czech Republic s. r. o., con domicilio social en Obchodní 109, Čestlice, código postal 25 101.
-
-El propietario del remolque TRAILOR isotérmico matrícula: ZNH 95-79 (CZ), es la persona jurídica VAPAS, a. s., con domicilio social en Nádražní č. 484, Hrušovany nad Jevišovkou, código postal 67 167.
-
-El gestor de la vía terrestre es Správa silnic Olomouckého kraje, organización de carácter público con domicilio social en Lipenská 753/120, código postal 772 11 Olomouc.
-
-### 3.3 Marco jurídico y otras disposiciones
-
+### 3.2.4 Interfaz entre los distintos sujetos implicados y los componentes de la vía de circulación
+El propietario de la vía ferroviaria de interés general Krnov – Olomouc hl. n. es Správa železniční dopravní cesty, organización estatal, con sede en Prvního pluku 367/5, Praha 8 – Karlín, CP 186 00.
+El explotador de la vía es České dráhy, a. s., con sede en Nábřeží Ludvíka Svobody 12/1222, Praha 1, CP 110 15, en virtud de la Autorización Oficial emitida por el Drážní úřad (Organismo Ferroviario) de Praga el 06. 05. 1996, con el n.º de expediente: 1814/96-DÚ/O-Sl (n.º de registro ÚP/1996/1643).
+El transportista es České dráhy, a. s., con sede en Nábřeží Ludvíka Svobody 12/1222, Praha 1, CP 110 15, en virtud de la Licencia de explotador del transporte ferroviario, n.º de expediente: 1-157/96-DÚ/O-Bp, n.º de registro L/1996/5000, emitida por el Drážní úřad (Organismo Ferroviario) de Praga el 21. 05. 1996.
+El propietario del vehículo motorizado por carretera – camión (tractor) ZN. RENAULT Premium, matrícula: 5B1 7893 (CZ), es la persona jurídica VFS Financial Services Czech Republic s. r. o., con sede en Obchodní 109, Čestlice, CP 25 101.
+El propietario del remolque TRAILOR isotérmico matrícula: ZNH 95-79 (CZ), es la persona jurídica VAPAS, a. s., con sede en Nádražní č. 484, Hrušovany nad Jevišovkou, CP 67 167.
+El gestor de la vía pública es Správa silnic Olomouckého kraje, organización de financiación con sede en Lipenská 753/120, CP 772 11 Olomouc.
+### 3.3 Regulación jurídica y de otro tipo
 ### 3.3.1 Normativa comunitaria y nacional aplicable
-
-Para la determinación de las causas y las circunstancias de la aparición de este accidente (MU) se han aplicado las siguientes normas nacionales:
-
-*   la ley nº 266/1994 Coll., sobre las vías férreas, en su versión vigente;
-*   el decreto nº 100/1995 Coll., por el que se establecen las condiciones para la explotación, la construcción y la fabricación de determinados equipos técnicos y su concreción (Reglamento de equipos técnicos determinados), en su versión vigente;
-*   el decreto nº 101/1995 Coll., por el que se aprueba el Reglamento sobre la aptitud sanitaria y profesional del personal durante la explotación de las vías férreas y del transporte ferroviario, en su versión vigente;
-*   el decreto nº 173/1995 Coll., por el que se aprueba el reglamento de circulación de las vías férreas, en su versión vigente;
-*   el decreto nº 177/1995 Coll., por el que se aprueba el reglamento de construcción y técnico de las vías férreas, en su versión vigente;
-*   el decreto nº 376/2006 Coll., sobre el sistema de seguridad de la explotación de las vías férreas y del transporte ferroviario y los procedimientos en caso de aparición de incidentes extraordinarios en las vías férreas;
-*   la ley nº 361/2000 Coll., sobre la circulación en las vías terrestres y sobre la modificación de algunas leyes, en su versión vigente;
-*   el decreto nº 30/2001 Coll., por el que se aplican las normas de circulación en las vías terrestres y la regulación y la gestión de la circulación en las vías terrestres, en su versión vigente;
-*   la ley nº 262/2006 Coll., Código del trabajo, en la versión de la ley nº 585/2006 Coll.
-
+Para la determinación de las causas y circunstancias de la producción de este MU se aplicaron las siguientes normas jurídicas nacionales:
+ley n.º 266/1994 Sb., de vías ferroviarias, en su versión vigente;
+–
+decreto n.º 100/1995 Sb., por el que se establecen las condiciones para la explotación, construcción y fabricación de instalaciones técnicas designadas y su concreción (Reglamento de instalaciones técnicas designadas), en su versión vigente;
+–
+decreto n.º 101/1995 Sb., por el que se aprueba el Reglamento de aptitud sanitaria y profesional de las personas para la explotación de la vía y del transporte ferroviario, en su versión vigente;
+–
+decreto n.º 173/1995 Sb., por el que se aprueba el Reglamento de circulación de las vías ferroviarias, en su versión vigente;
+–
+decreto n.º 177/1995 Sb., por el que se aprueba el Reglamento de construcción y técnica de las vías ferroviarias, en su versión vigente;
+–
+decreto n.º 376/2006 Sb., sobre el sistema de seguridad de la explotación de la vía y del transporte ferroviario y los procedimientos en caso de producirse sucesos excepcionales en las vías;
+–
+ley n.º 361/2000 Sb., sobre la circulación en las vías públicas y sobre la modificación de determinadas leyes, en su versión vigente;
+–
+decreto n.º 30/2001 Sb., por el que se aplican las normas de circulación en las vías públicas y la regulación y dirección del tráfico en las vías públicas, en su versión vigente;
+–
+ley n.º 262/2006 Sb., Código del Trabajo, en la redacción de la ley n.º 585/2006 Sb.
+–
 
 ## Página 19
+
 
 3.3.2 Otras normas, por ejemplo, reglamentos de explotación, reglamentos de trabajo, normas de mantenimiento, normas técnicas vigentes y otras normas internas
 
@@ -402,6 +450,7 @@ Para la determinación de las causas y las circunstancias de la aparición de es
 
 ## Página 20
 
+
 ### 3.4 Actividad del material rodante y de los dispositivos técnicos
 ### 3.4.1 Sistema de control, señalización y protección, incluidos los dispositivos de grabación automática de datos
 El paso a nivel (ŽP) de vía única en el punto kilométrico 32,212 de la vía férrea nacional Krnov – Olomouc hl. n., entre las estaciones de Moravský Beroun y Domašov nad Bystřicí, está protegido por un dispositivo de protección de paso a nivel (PZZ) luminoso, de la categoría PZS 3ZBI, tipo AŽD 71 sin barreras, cuya activación es automática mediante el paso del material rodante. La información sobre el estado del PZZ, el control del funcionamiento del PZZ, incluidos los elementos de manejo de emergencia del PZZ, se encuentra en la sala de tráfico de la estación de Domašov nad Bystřicí. Antes y durante la aparición del accidente (MU), no se utilizaron los elementos de manejo de emergencia del PZZ del paso a nivel en el punto kilométrico 32,212. El funcionamiento del PZZ no queda registrado.
@@ -421,6 +470,7 @@ Mediante el ejercicio de la supervisión estatal en materia de vías férreas se
 
 ## Página 21
 
+
 El paso a nivel está protegido, de conformidad con el artículo 4, apartados 2 y 3, del Decreto n.º 177/1995 Sb., mediante un dispositivo de protección de paso a nivel de la categoría PZS 3SBI sin barreras y con señalización positiva, tipo AŽD 71, que informa con una luz roja intermitente y una señal acústica intermitente con suficiente antelación a los usuarios de la vía terrestre de que se acerca un tren o material rodante al paso a nivel. El paso a nivel está señalizado en ambos lados de la vía terrestre con señales de tráfico verticales A 32a «Cruz de San Andrés para paso a nivel ferroviario de vía única». Antes del paso a nivel, en ambos sentidos de aproximación, a lo largo de la vía terrestre, se han colocado señales de tráfico verticales A 30 «Paso a nivel sin barreras», A 31a, A31b, A31c «Tabla de señales (240 m, 160 m y 80 m)». De conformidad con lo dispuesto en el artículo 4, apartado 7, del Decreto n.º 177/1995 Sb. y en el punto 6.2 de la norma ČSN 73 6380, ninguna parte del dispositivo de señalización en el sentido de circulación del tren, fijada a un mástil independiente con la señal de tráfico A 32a, se adentra en una distancia inferior a 4,00 m del eje de la vía. En el mástil, debajo del dispositivo de señalización, se ha colocado una placa con la advertencia «CUIDADO TREN».
 
 Para el conductor del vehículo de motor se garantiza la visibilidad del dispositivo de señalización para detener de forma segura el vehículo de motor en ambos lados del paso a nivel. La longitud medida de visibilidad para la detención del vehículo de motor, Dz, en el sentido de circulación del tren desde Domašov nad Bystřicí es de Dz=45,00 m. En el sentido procedente de Moravský Beroun, Dz=110,00 m. Según el punto 7.3.2.1 de la norma ČSN 73 6380, para las carreteras y vías locales del grupo funcional A y B con una velocidad máxima permitida de los vehículos que cruzan el paso a nivel de Vs=50 km/h, la longitud mínima de visibilidad para la detención del vehículo de motor es Dz=40 m. La construcción del firme del paso a nivel es desmontable con un revestimiento asfáltico que transiciona a la superficie asfáltica de la carretera de tercera categoría. El estado de la vía del paso a nivel es satisfactorio. La forma del perfil superior ferroviario en el paso a nivel es la misma que en la vía adyacente, de forma S49. La construcción del paso a nivel está rematada en ambos lados, en el eje de la vía, con un talud; el estado técnico y los requisitos para la construcción del paso a nivel, a tenor de lo dispuesto en el artículo 17, apartados 3 y 4, del Decreto n.º 177/1995 Sb., están cumplidos.
@@ -432,6 +482,7 @@ De los resultados de la medición del perfil de la vía terrestre realizados por
 Para mejorar la organización del transporte ferroviario y aumentar la seguridad de la explotación de la vía y del transporte ferroviario, la línea ferroviaria Krnov – Olomouc hl. n. está cubierta por una red de islas del sistema TRS. El tramo de vía entre las estaciones de Moravský Beroun y Domašov nad Bystřicí está cubierto por la señal «Vf» de la red de islas TRS, que permite, en el canal combinado n.º 67, la comunicación entre el despachador, los jefes de las estaciones adyacentes y los maquinistas de los trenes dotados de la parte móvil del sistema TRS. Las islas de la red TRS constituyen las estaciones de radio base situadas en las distintas estaciones. Las conversaciones en la red TRS en el tramo entre estaciones Moravský Beroun – Domašov nad Bystřicí se graban mediante un dispositivo de grabación REDAT 3, situado en la sala de tráfico
 
 ## Página 22
+
 
 est. Domašov nad Bystřicí. En el momento de la producción del incidente, el dispositivo de grabación estaba averiado, siendo incomprensibles todas las conversaciones grabadas. La avería del dispositivo de grabación REDAT 3 fue subsanada el 30.01.2008 a las 13:50 h.
 ### 3.4.3 Medios de comunicación
@@ -471,6 +522,7 @@ De la verificación y control del PZZ tras la producción del incidente, véase 
 
 ## Página 23
 
+
 se desprende que el PZZ del PP en el pk 32,212 se activó automáticamente con el paso del tren R 827 y, en el momento de la producción del incidente, emitía una señal de advertencia mediante dos luces rojas intermitentes alternas y una señal acústica intermitente.
 ### 3.5.2 Intercambio de mensajes verbales en relación con el incidente extraordinario, incluidos los documentos del dispositivo de grabación
 El primer mensaje demostrable en relación con la producción del incidente puede considerarse la notificación de la producción del incidente en el PP por parte del maquinista del tren R 827 al despachador de la est. Domašov nad Bystřicí y de la est. Moravský Beroun mediante la conexión de radio TRS inmediatamente después de la producción del incidente. Sin embargo, la conversación no fue grabada debido a la avería del dispositivo de grabación REDAT 3. La avería del dispositivo de grabación REDAT 3 fue subsanada el 30.01.2008 a las 13:50 h. Otro mensaje verbal fue la notificación de la producción del incidente por parte del jefe de tren del tren R 827 mediante teléfono móvil a los SES (BOM, Policía de la República Checa) inmediatamente después de la producción del incidente.
@@ -487,6 +539,7 @@ El maquinista, durante la circulación del tren R 827, observaba la vía y las s
 
 ## Página 24
 
+
 Ambas cabinas del maquinista del HDV de la serie 843 están dispuestas ergonómicamente de tal manera que el maquinista tiene una visión despeja no solo de los elementos y dispositivos de control, comprobación y señalización situados en el panel de control del maquinista, sino también hacia el frente y en diagonal hacia los lados del HDV. En la inspección del lugar del incidente no se detectó nada que obstaculizara la visión del maquinista hacia el frente del HDV ni su visión general de la posición y el estado de los elementos y dispositivos de control, comprobación y señalización situados en la cabina del maquinista.
 ### 3.7 Incidentes extraordinarios anteriores de carácter similar
 La Inspección Ferroviaria registra los dos siguientes incidentes de carácter similar.
@@ -502,6 +555,7 @@ El incidente se produjo en el cruce a nivel de la vía ferroviaria en el pk 32,2
 
 ## Página 25
 
+
 señales A 32a «Cruz de advertencia para paso a nivel de vía única» y con un dispositivo de seguridad de paso a nivel de la categoría PZS 3SBI (según la norma ČSN 34 2650), tipo AŽD 71, sin barreras, con señalización positiva. El funcionamiento del dispositivo de seguridad de paso a nivel (PZZ) es automático en función del paso de las unidades ferroviarias. El inicio del circuito de control del PZZ en el sentido de circulación del tren R 827 se encuentra en el punto kilométrico (pk) 31,595, es decir, a 617 m antes del paso a nivel (ŽP). El ŽP se sitúa en el sentido de circulación del tren R 827 en una curva a la derecha de radio R=280 m, con una pendiente de +5,29 ‰ antes del ŽP y de +7,39 ‰ después del ŽP. La estructura del ŽP está realizada con aglomerado asfáltico. La estructura del canal de las vías está formada por dos rieles colocados sobre una traviesa modificada y doble. La velocidad máxima en el tramo de vía en cuestión es de 70 km/h en ambos sentidos.
 
 El tramo de vía entre la estación de Moravský Beroun y la estación de Domašov nad Bystřicí está cubierto por el sistema de radio ferroviaria «Vf» TRS, grupo de canales 67. La estación de radio base situada en la estación de Moravský Beroun opera en la frecuencia «Vf» de 468,300 MHz, y la estación de radio base situada en la estación de Domašov nad Bystřicí opera en la frecuencia «Vf» de 468,200 MHz.
@@ -511,6 +565,7 @@ El 30 de octubre de 2007 a las 17:26:14 h, el tren R 827 salió de la estación 
 En ese momento, una composición formada por un camión con remolque se acercaba al ŽP situado en el pk 32,212 por la carretera de tercera categoría n.º 44441/3. El conductor del vehículo motorizado con la composición llegó hasta el ŽP, cuya señalización del PZZ permitía el paso mediante una luz blanca intermitente del aviso de peligro. Durante el paso por el ŽP, la composición se atascó. Las barras de soporte del remolque se clavaron en la superficie del firme del ŽP. Por ello, el conductor retrocedió con la composición fuera del ŽP, donde intentó elevar toda la composición mediante los fuelles de aire. Sin embargo, solo logró elevar la cabeza tractora de la composición. Al intentar volver a entrar en el ŽP con la composición, esta se volvió a atascar. Tras retroceder de nuevo fuera del ŽP, el conductor elevó mediante los fuelles de aire, en esta ocasión, toda la composición, es decir, la cabeza tractora junto con el remolque. A continuación, intentó de nuevo cruzar el ŽP con la composición. El PZZ permitió el paso por el ŽP durante todo el tiempo. Incluso en el tercer intento de cruzar el ŽP con la composición, esta se volvió a atascar, clavándose las barras de soporte del remolque en la superficie del firme del ŽP. En ese momento, según la declaración del conductor, se produjo una fuga de aire del sistema de control de la composición, lo que impidió seleccionar la marcha. Tras salir de la cabina del vehículo, el conductor comprobó la fuga de aire detrás del eje trasero de la cabeza tractora de la composición. El conductor de la composición pidió a la conductora de un automóvil particular, que se detuvo detrás de la composición antes del ŽP, que informara a la persona encargada del control del tráfico ferroviario de la situación surgida, es decir, de la composición inmovilizada y atascada en el ŽP. El propio conductor de la composición quería alertar también a la Policía de las Fuerzas de Seguridad (PČR), pero debido a la oscuridad y a que el ŽP no estaba debidamente señalizado, no pudo identificar el lugar donde se encontraba la composición. Por ello, regresó a la cabina e intentó, acelerando constantemente, llenar el sistema de aire para poder seleccionar la marcha y salir del área del ŽP. En ese momento, registró que el PZZ había pasado a estado de alarma. Por ello, salió de la cabina de la composición y abandonó rápidamente el área del ŽP. Debido a la rápida sucesión de los acontecimientos siguientes, no logró advertir a tiempo al maquinista del tren R 827 del peligro inminente.
 
 ## Página 26
+
 
 El maquinista del tren R 827, al aproximarse al paso a nivel (PN) en el pk 32,212, registró la iluminación de un vehículo automotor de carretera. Dado que la vía discurre por una curva a la derecha y el PN no estaba iluminado, consideró que el vehículo automotor de carretera se encontraba detenido de forma segura antes del PN, por lo que continuó su marcha sin realizar ninguna corrección de velocidad, que era de 68 km/h. Tras la iluminación del conjunto de tracción detenido en el PN mediante el haz de luz del faro del vehículo de carretera, el maquinista aplicó inmediatamente el freno de emergencia. En ese momento, la cabeza del tren se encontraba a 112 m del punto de colisión. Debido a la distancia insuficiente, el maquinista no logró evitar la colisión. A una velocidad de 45 km/h, a las 18:06:26 h, el tren R 827 impactó contra el lado derecho del conjunto de tracción detenido. Como consecuencia de la dinámica del accidente, el conjunto de tracción fue empujado por el tren R 827 a lo largo de 57 m hasta detenerse. La cabeza del tren se detuvo en el pk 32,269 a las 18:06:37 h.
 La conductora del automóvil particular, cuya identidad no fue determinada durante la investigación de las causas y circunstancias de la incidencia (IU), huyó del lugar inmediatamente después de que se produjera la IU.
@@ -522,6 +577,7 @@ El atascamiento y cuña-miento del conjunto de tracción en el PN fue causado po
 El paso a nivel (PN) de vía única en el pk 32,212, de la línea ferroviaria nacional de vía única Krnov – Olomouc hl. n., está señalizado y protegido de conformidad con los artículos 3 y 4 del decreto n.º 177/1995 Coll. y la norma ČSN 73 6380, y su diseño cumplía lo dispuesto en el apartado 1 del artículo 17 del decreto
 
 ## Página 27
+
 
 n.º 177/1995 Coll., garantizando la explotación segura del transporte ferroviario y la seguridad de los participantes en la circulación vial. Este hecho se desprende del documento «REGISTRO de los resultados de la supervisión estatal en materia de ferrocarriles», número de referencia: 1-1267/2007/DI, de fecha 30.10.2007, del documento «ACTA de la ejecución de la supervisión estatal en materia de ferrocarriles», número de referencia: 6-035/2007/DI-2, de fecha 09.11.2007, y del documento «Registro de la inspección del paso a nivel ferroviario en el pk 32,212 de la línea Krnov – Olomouc hl. n. tras la incidencia, de fecha 30.10.2007, realizada el 09.11.2007».
 En el momento de la producción de la IU, el PZZ estaba en funcionamiento y advirtió a tiempo a los participantes en la circulación vial de la aproximación de un tren o de un vehículo ferroviario, véase «REGISTRO de los resultados de la supervisión estatal en materia de ferrocarriles», número de referencia: 1-1267/2007/DI, de fecha 30.10.2007, «Acta de la inspección del PZZ tras la IU en el pk 32,212», de fecha 30.10.2007, y la explicación presentada por el conductor del conjunto de tracción, indicada en el «ACTA DE PRESENTACIÓN DE EXPLICACIONES» de fecha 30.10.2007.
@@ -536,30 +592,22 @@ La causa inmediata de la producción de la IU fue la detención y permanencia no
 
 ## Página 28
 
-### 4.3.2 Causas principales relacionadas con la cualificación, los procedimientos y el mantenimiento
-No detención del tráfico ferroviario por parte del conductor de un vehículo de carretera, que no pudo identificar el lugar donde se encontraba el tren.
-
-### 4.3.3 Causas derivadas del marco normativo y del uso del sistema de garantía de la seguridad
-Ausencia de un sistema uniforme de señalización de los pasos a nivel, destinado a la identificación uniforme de los pasos a nivel (PN) desde la perspectiva de la topología de la vía férrea y de la carretera, que permita la información directa (sin intermediarios) de la persona que dirige el tráfico ferroviario sobre la fuente de peligro para la seguridad del tráfico ferroviario en el paso a nivel.
-
+### 4.3.2 Causas fundamentales relacionadas con la cualificación, los procedimientos y el mantenimiento
+No detención del tráfico ferroviario por parte del conductor de un vehículo por carretera que no pudo identificar el lugar donde se encontraba con la composición de circulación.
+### 4.3.3 Causas debidas al marco normativo y al uso del sistema de garantía de la seguridad
+Ausencia de un sistema uniforme de señalización de los pasos a nivel, destinado a la identificación uniforme del PN desde el punto de vista de la topografía ferroviaria y viaria, que permita la información directa (sin intermediario) a la persona que dirige el tráfico ferroviario sobre la fuente de amenaza a la seguridad del tráfico ferroviario en el PN.
 ### 4.4 Hallazgos complementarios
-
-### 4.4.1 Deficiencias y omisiones detectadas durante la investigación de las causas y las circunstancias de la aparición del incidente grave, que no obstante no son relevantes para las conclusiones sobre las causas
+### 4.4.1 Deficiencias y omisiones detectadas durante la investigación de las causas y circunstancias del suceso extraordinario, que sin embargo no son relevantes para las conclusiones sobre las causas
 No se detectaron.
-
 ## 5 MEDIDAS ADOPTADAS
-
-### 5.1 Relación de las medidas que ya se han adoptado o tomado como consecuencia del incidente grave
-El explotador de la vía y del tráfico ferroviario no ha adoptado medidas para prevenir la aparición de un incidente grave.
-
-El gestor de la carretera – la Administración de Carreteras de la Región de Olomouc, centro de mantenimiento, instaló en las vías de acceso que conducen al paso a nivel en el punto de cruce con la carretera de segunda categoría 444 en dirección procedente de la localidad de Domašov nad Bystřicí y en el punto de cruce con la carretera de tercera categoría 44442 en dirección procedente de la localidad de Moravský Beroun, señales de tráfico verticales B 17 «Prohibida la entrada de vehículos o de composiciones de vehículos cuya longitud exceda del límite indicado» con la indicación de la longitud máxima de los vehículos de carretera (composiciones de vehículos) de 12 m.
-
+### 5.1 Lista de medidas que ya se han tomado o adoptado como consecuencia del suceso extraordinario
+No se han adoptado medidas por parte del gestor de la infraestructura y del operador ferroviario para prevenir la aparición de SE.
+El gestor de la vía pública – Servicio de Carreteras de la Región de Olomouc, centro de mantenimiento, instaló en los accesos que conducen al PN en el punto de cruce con la carretera de categoría II 444 en el sentido desde la localidad de Domašov nad Bystřicí y en el punto de cruce con la carretera de categoría III 44442 en el sentido desde la localidad de Moravský Beroun, señales verticales de tráfico B 17 «Prohibido el paso de vehículos o composiciones de vehículos cuya longitud supere el límite indicado», con indicación de la longitud máxima de los vehículos por carretera (composiciones de vehículos) de 12 m.
 ## 6 RECOMENDACIONES DE SEGURIDAD
-
-La Inspección Ferroviaria, como autoridad competente de materia de conformidad con lo dispuesto en el apartado 5 del artículo 53b de la Ley n.º 266/1994 Coll., sobre la base de los resultados de la investigación de las causas y las circunstancias de la aparición del incidente grave, recomienda al explotador de la vía, České dráhy, a. s., conjuntamente con la Administración de las Vías Férreas de Transporte Ferroviario, s. o.:
-
+La Inspección Ferroviaria, como autoridad competente en la materia de acuerdo con lo dispuesto en el apartado 5) del § 53b de la Ley núm. 266/1994 Sb., sobre la base de los resultados de la investigación de las causas y circunstancias del SE, recomienda al gestor de la infraestructura, České dráhy, a. s., junto con el Gestor de la Vía Ferroviaria de Transporte, s. o.:
 
 ## Página 29
+
 
 1) Ejecutar de inmediato y en su totalidad las recomendaciones de seguridad emitidas por la Inspección Ferroviaria en relación con el incidente grave de Vraňany – Dolní Beřkovice, de fecha 19 de marzo de 2007, y el incidente grave de Jablůnka – Valašské Meziříčí (Bystřička), de fecha 7 de mayo de 2007.
 
@@ -573,15 +621,15 @@ Director
 Inspección Territorial de Ostrava
 De la Inspección Territorial de Ostrava
 
-
 ## Página 30
+
 
 ## 7 ANEXOS
 
 Foto 1: Vista del paso a nivel en el punto kilométrico 32,212 en el sentido de circulación del tren – carretera de tercera categoría 44441/3
 
-
 ## Página 31
+
 
 Foto 2: Estado tras la detención del tren R 827 en el punto kilométrico 32,269
 Foto 3: Estado tras la detención del tren R 827 en el punto kilométrico 

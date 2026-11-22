@@ -10,13 +10,14 @@ chars: 101778
 ratio_longitud: 1.24
 tokens_in: 54510
 tokens_out: 39460
-verificacion: revisar
-notas_cifras: ["bloque 1: original bilingüe: se compara contra el idioma principal (EN)", "bloque 2: cifras cortas: 3/111", "bloque 5: original bilingüe: se compara contra el idioma principal (CS)", "bloque 8: original bilingüe: se compara contra el idioma principal (EN)"]
-avisos: ["bloque 8: ratio 1.61"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 3: original bilingüe: se compara contra el idioma principal (PL)", "página 5: original bilingüe: se compara contra el idioma principal (CS)", "página 6: original bilingüe: se compara contra el idioma principal (CS)", "página 9: cifras cortas: 1/19", "página 10: original bilingüe: se compara contra el idioma principal (CS); cifras cortas: 1/19"]
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -39,13 +40,13 @@ IČ: 75009561
 mail@di.gov.cz
 tel.: +420 736 521 003
 
-
 ## Página 2
+
 
 Este informe final es público y todos los hechos en él expuestos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ### 1 Resumen
 Fuente: Drážní inspekce
@@ -69,8 +70,8 @@ No se identificó ningún factor contribuyente por parte de Drážní inspekce.
 No se identificó ninguna causa sistémica por parte de Drážní inspekce.
 No se emitió ninguna recomendación de seguridad por parte de Drážní inspekce.
 
-
 ## Página 4
+
 
 ### SUMMARY
 6th July 2023, 7:37 (5:37 GMT).
@@ -105,8 +106,8 @@ Systemic factor:
 none.
 Recommendation: not issued.
 
-
 ## Página 5
+
 
 # Índice
 1 Resumen........................................................................................................................3
@@ -148,8 +149,8 @@ SUMMARY.........................................................................
 4.2 Vehículos ferroviarios e instalaciones técnicas..........................................................................30
 4.2.1 Factores o consecuencias derivados del diseño de los vehículos ferroviarios, de la infraestructura ferroviaria o de las instalaciones técnicas....................................................................30
 
-
 ## Página 6
+
 
 4.2.2 Factores o consecuencias derivados de la instalación y de la puesta en servicio de los vehículos ferroviarios, de la infraestructura ferroviaria o de las instalaciones técnicas.....................................30
 4.2.3 Factores o consecuencias relacionados con los fabricantes de vehículos ferroviarios u otros proveedores de productos ferroviarios...........................................................................30
@@ -180,6 +181,7 @@ SUMMARY.........................................................................
 ANEXOS............................................................................................................................39
 
 ## Página 7
+
 
 ### Lista de siglas y símbolos utilizados
 COP
@@ -243,8 +245,8 @@ informe final sobre los resultados de la investigación del suceso excepcional
 žst.
 estación de ferrocarril
 
-
 ## Página 8
+
 
 ### Lista de siglas de la legislación, normas y disposiciones internas utilizadas
 ley n.º 266/1994 Sb.
@@ -260,8 +262,8 @@ disposición interna del explotador ferroviario SŽ, «SŽDC (ČD) T121 Mantenim
 TNŽ 34 2620
 Norma Técnica Ferroviaria «TNŽ 34 2620 Instalaciones de enclavamiento ferroviario; Instalaciones de enclavamiento de estación y de vía», en la redacción vigente en el momento de la ocurrencia del suceso excepcional
 
-
 ## Página 9
+
 
 ### 2 INVESTIGACIÓN Y SUS RELACIONES
 ### 2.1 Decisión de iniciar la investigación
@@ -293,8 +295,8 @@ declaración del maquinista del tren Nex 55320;
 •
 ensayo de verificación para determinar las condiciones de visibilidad de los maquinistas en el lugar del suceso excepcional;
 
-
 ## Página 10
+
 
 •
 análisis de los datos registrados por los registradores de velocidad de los vehículos ferroviarios participantes;
@@ -329,8 +331,8 @@ ferrocarril, categoría nacional, estación de ferrocarril Ústí nad Labem esta
 Coordenadas GPS:
 50.6641428N, 14.0762717E (circulación no autorizada del tren Nex 55320 más allá del semáforo Lc205, posición del punto kilométrico de la aguja n.º 246, parada del frente del tren Nex 55320).
 
-
 ## Página 11
+
 
 ### 3.1.3 Descripción del lugar del suceso
 La estación de ferrocarril Ústí nad Labem estación principal, circuito norte, se encuentra en el ferrocarril nacional, Lovosice – Děčín estación principal, en el pk 518,272 de la línea de doble vía Enclavamiento Praha-Bubeneč – Děčín est. pral. (según TTP 527A).
@@ -338,8 +340,8 @@ La estación de ferrocarril Ústí nad Labem estación principal, circuito norte
 Fig. n.º 1: Esquema del lugar de ocurrencia del suceso excepcional en el plano de la estación y en el mapa fotográfica
        Fuente: SŽ y mapy.cz, edición de DI
 
-
 ## Página 12
+
 
 ### Procedimiento de la inspección:
 La inspección del lugar de ocurrencia del suceso excepcional se inició con la inspección del tren Nex 55320 desde el frente hasta el final, incluida la cabina del maquinista. Continuó con la inspección del tren R 677 desde el frente hasta el final, incluida la cabina del maquinista. A continuación, se examinó el estado de la infraestructura y las partes exteriores de la SZZ. Posteriormente, se inspeccionó el puesto del jefe de estación 2 en el Cuadro de Mando Central de Ústí nad Labem est. pral., circuito norte, y la sala de relés de la SZZ.
@@ -362,8 +364,8 @@ el mando del freno continuo del tren estaba en la posición «SOS» correspondie
 •
 la palanca de mando del freno directo estaba en la posición central bloqueada (sin indicación de frenado/desfrenado);
 
-
 ## Página 13
+
 
 •
 el mando (botón) Dirección de marcha hacia adelante estaba encendido (la dirección de marcha hacia adelante estaba activa);
@@ -415,6 +417,7 @@ el conmutador del modo de marcha estaba en la posición «P» (aparcamiento);
 
 ## Página 14
 
+
 •
 el conmutador de modo de conducción estaba en posición "A" (modo automático con función ARR);
 •
@@ -452,8 +455,8 @@ La estación Ústí nad Labem estación principal, distrito norte, estaba equipa
 
 Mediante una inspección preliminar de los datos registrados por TPC1 (par activo TPC1, TPC2) del SZZ ESA 11 se constató que dicho SZZ presentaba, antes de la aparición del MU y en el momento de la aparición
 
-
 ## Página 15
+
 
 del MU, un estado sin averías (funcionamiento normal). El tiempo interno del par activo TPC1 y TPC2 estaba retrasado en 2 s respecto al tiempo exacto (SELČ).
 
@@ -487,8 +490,8 @@ No se produjo daño en los vehículos ferroviarios, en los componentes de la ví
 
 No se produjo daño en las cosas transportadas, en el equipaje ni en otros bienes.
 
-
 ## Página 16
+
 
 ### 3.1.5 Descripción de otras consecuencias, incluido el impacto del suceso en las actividades regulares de los sujetos participantes
 
@@ -536,8 +539,8 @@ El tráfico ferroviario se prestaba en virtud de un contrato celebrado entre el 
 | Velocidadmáximapermitidadeltren en el lugar del MU (km.h-1): | 50 | 5 . | 338793321922 - | G |
 | Mododefrenado: | I . | 6 . | 338793337308 - | P |
 
-
 ## Página 17
+
 
 | 7 . | 338793335013 - | P |
 | 8 . | 338793335336 - | P |
@@ -571,8 +574,8 @@ el tren estaba compuesto exclusivamente de vagones Uagps para el transporte de c
 
 El HDV 91 80 6 193 934-7 D-ELOC, en el momento de la aparición del MU, estaba equipado con un dispositivo de registro automático de datos – tipo VELOCÍMETRO ELECTRÓNICO del fabricante Alstom, modelo DTR0000478365, n.º RU-2212007, n.º del módulo de memoria 2249. El tiempo del velocímetro no estaba desviado del tiempo exacto (SELČ).
 
-
 ## Página 18
+
 
 De los datos registrados se desprende:
 Hora (h)
@@ -712,6 +715,7 @@ El estado real del tren constatado en el lugar del MU correspondía a la documen
 
 ## Página 19
 
+
 | Tren: | R677 | Composición del tren: |  | Modo de frenado: |
 | Longitud del tren (m): | 164 | HDV: | 91547162020 2 – | P |
 | Número de ejes: | 28 | TDV (tras HDV): |  |  |
@@ -738,8 +742,8 @@ De los datos registrados se desprende:
 La velocidad máxima permitida en el punto de la MU de 110 km·h-1 no fue superada. El desarrollo de la curva de velocidad en la fase de frenado confirma el efecto del freno correspondiente a la aplicación del frenado de acción rápida con el modo de frenado I.
 El estado real del tren comprobado en el lugar de la MU correspondía a la documentación del tren.
 
-
 ## Página 20
+
 
 ### 3.1.8 Descripción de las partes correspondientes de la infraestructura y del sistema de señalización
 Las agujas n.º 242 y 246 fueron maniobradas centralmente por el jefe de estación 2 ÚS. La aguja simple de mano derecha n.º 242 fue maniobrada a la vía lateral en el sentido de la circulación no autorizada del tren Nex 55320 y fue ocupada por dicho tren. La aguja simple de mano derecha n.º 246 fue maniobrada a la vía directa para la circulación del tren R 677 y fue ocupada por dicho tren.
@@ -751,8 +755,8 @@ Según la investigación DI y según la TTP, en el sentido de circulación del t
 Según el art. 9.3.2 de la TNŽ 34 2620, en los dispositivos de señalización de estación de 3.ª categoría, en los itinerarios de tren para velocidades superiores a 120 km·h-1, debe controlarse la libertad de la zona entre el punto de posible puesta en peligro del itinerario de tren por un lado y el dispositivo que garantiza la protección lateral del itinerario de tren desde ese lado (zona de protección lateral no garantizada). De la zona de protección lateral no garantizada pueden excluirse los tramos que se encuentren a una distancia superior a 200 m del punto de posible puesta en peligro del itinerario de tren o que formen parte de otro itinerario de tren que discurra en el sentido desde el punto de puesta en peligro del itinerario de tren para velocidades superiores a 120 km·h-1.
 En relación con lo anterior, para el caso de circulación no autorizada y puesta en peligro del itinerario de tren establecido para el tren R 677 (señal «Vía libre», velocidad de línea de hasta 140 km·h-1), en este punto la zona de protección lateral no garantizada incluía ya el tramo de vía de la aguja n.º 242. Si la velocidad de línea fuera de hasta 120 km·h-1, el citado artículo de la TNŽ no se aplicaría y el cambio de señal en el semáforo Sc201a solo se produciría en caso de ocupación del tramo de vía de la aguja n.º 246, es decir, de la invasión física del itinerario de tren del tren R 677 al rebasar el balizamiento lateral.
 
-
 ## Página 21
+
 
 De los datos registrados por el SSZ, entre otros, se desprende:
 Hora (h)
@@ -832,59 +836,58 @@ en el semáforo Lc202 cambio de la señal «Vía libre» a la señal «Alto».�
 Entre el tiempo registrado por el archivo del SZZ y los velocímetros para el mismo suceso puede constar en el registro del archivo de datos una diferencia temporal de aprox. 2 s. P. ej., el paso de un tren junto a un semáforo puede constar en el archivo del dispositivo de señalización con un retraso de aprox. 2 s debido al tiempo de reacción del dispositivo técnico.
 De los registros en el Registro de Averías del equipo de comunicaciones y de señalización del SZZ se desprende que las revisiones y el mantenimiento periódicos se realizaron en los intervalos prescritos y que el 6. 7. 2023 no se registró ninguna avería.
 
-
 ## Página 22
 
-Del análisis de los datos registrados por el SZZ se desprende que el dispositivo presentaba, antes de producirse la MU y en el momento de su producción, un estado sin averías y que su estado técnico y su modo de operación no guardaban relación causal con el origen de la MU.
+Del análisis de los datos registrados por el SZZ se desprende que el dispositivo presentaba un estado sin averías antes de la aparición de la MU y en el momento de su aparición, y que su estado técnico y su modo de funcionamiento no guardaban relación causal con la aparición de la MU.
 ### 3.1.9 Cualquier otra información relevante a efectos de la descripción del suceso y de la información básica
-Resumen de las explicaciones aportadas por los empleados del gestor de la vía y del transportista, incluidas las personas con relación contractual:
+Resumen de las explicaciones facilitadas por los empleados del gestor de la vía y del transportista, incluidas las personas con relación contractual:
 •
 maquinista del tren Nex 55320
-  – Registro de la explicación aportada DI:
-◦declaró que es simultáneamente empleado del gestor de la vía Správa železnic, estatus de organización, y de los transportistas Retrack Czech, s. r. o., y Cityrail, a. s.;
+  – Registro de la explicación facilitada al DI:
+◦indicó que era simultáneamente empleado del gestor de la vía Správa železnic, entidad estatal, y de los transportistas Retrack Czech, s. r. o. y Cityrail, a. s.;
 ◦al incorporarse al turno estaba debidamente descansado, habiendo tenido un descanso de 22 h;
-◦se incorporó al turno a las aprox. 22:30 h del día 5. 7. 2023 en buen estado físico y psicológico;
-◦con el tren Nex 55320 se detuvo en la est. Ústí nad Labem hl. n., distrito norte, a unos 25 – 30 m antes del semáforo Lc205;
-◦en ese punto permaneció detenido hasta las 7:17 h y observó continuamente el estado del semáforo Lc205, en el que lucía la señal «Alto»;
-◦a las 7:17 h el VZ Mirel le avisó para que realizara el D-TEST (nota DI: test D1);
-◦en ese momento también miró al semáforo Lc205 y considera que allí vio una señal que autorizaba la circulación;
-◦a continuación realizó el D-TEST (nota DI: test D1), volvió a mirar al semáforo Lc205 y la señal que autorizaba la circulación seguía luciendo allí;
-◦acto seguido soltó los frenos del tren y lo puso en movimiento;
-◦comprobó además la posición de la aguja n.º 242 y esta estaba maniobrada para la circulación de su tren;
-◦no vio la aguja siguiente (nota DI: n.º 246);
-◦se puso en marcha y, al rebasar el semáforo Lc205, oyó la bocina del tren rápido que circulaba en sentido contrario (nota DI: R 677), por lo que inmediatamente comenzó a frenar;
-◦tras detenerse permaneció en su puesto y comunicó el origen de la MU;
-◦a continuación puso el mando del freno de acción directa en sentido contrario al movimiento y la palanca de potencia a cero.
+◦se incorporó al turno aproximadamente a las 22:30 h del 5. 7. 2023, en buen estado físico y psicológico;
+◦con el tren Nex 55320 se detuvo en la est. Ústí nad Labem hl. n., distrito norte, a unos 25 – 30 m antes de la señal Lc205;
+◦permaneció detenido en ese lugar hasta las 7:17 h y vigiló continuamente el estado de la señal Lc205, en la que se mostraba la señal «Alto»;
+◦a las 7:17 h el VZ Mirel le advirtió para que realizara el D-TEST (nota del DI: prueba D1);
+◦en ese momento también miró la señal Lc205 y considera que vio una señal que autorizaba la marcha;
+◦a continuación realizó el D-TEST (nota del DI: prueba D1), volvió a mirar la señal Lc205 y la señal que autorizaba la marcha seguía encendida;
+◦acto seguido, desfrenó el tren y lo puso en movimiento;
+◦comprobó además la posición de la aguja n.º 242, la cual estaba dispuesta para la marcha de su tren;
+◦no pudo ver la aguja siguiente (nota del DI: n.º 246);
+◦se puso en marcha y, al pasar la señal Lc205, oyó el silbato del tren rápido que circulaba en sentido contrario (nota del DI: R 677), por lo que inmediatamente comenzó a frenar;
+◦tras detenerse permaneció en su puesto y comunicó la aparición de la MU;
+◦a continuación puso el mando del freno de acción directa en sentido contrario a la marcha y la palanca de potencia a cero.
 •
 maquinista del tren Nex 55320
-  – Registros oficiales DI:
-◦poco después de llegar a la est. Ústí nad Labem hl. n., distrito norte, «a los unos 5 minutos me llamó el jefe de estación y me comunicó que Děčín no acepta y que allí estaré parado»;
-◦la 205. SK que él circulaba en la est. Ústí nad Labem hl. n., distrito norte, no transmitía el código VZ, mientras que la 201. SK sí transmitía el código VZ;
-◦a la pregunta sobre la posible ofuscación por el sol declaró: «Me pareció que le daba a los ojos».
+  – Registros oficiales del DI:
+◦poco después de llegar a la est. Ústí nad Labem hl. n., distrito norte, «en unos 5 minutos me llamó el jefe de estación y me comunicó que Děčín no aceptaba y que tendría que esperar allí»;
+◦la 205. SK que él conducía en la est. Ústí nad Labem hl. n., distrito norte, no transmitía el código VZ, mientras que la 201. SK sí lo transmitía;
+◦a la pregunta sobre la posible deslumbración por el sol, indicó: «Me pareció que le daba a los ojos».
 
 ## Página 23
 
 •
 maquinista del tren R 677
-  – Acta con el empleado:
-◦el 6. 7. 2023 inició el turno puntualmente y descansado, y no sintió ningún estrés físico ni psicológico hasta la ocurrencia de la MU. La situación de salud y personal estaban en orden;
-◦durante la entrada del tren R 677 en la est. Ústí nad Labem hl. n., distrito norte, se produjo un cambio repentino de la señal en el semáforo de vía Sc201a, en ese momento aplicó el frenado de acción rápida y vio que salía hacia él desde la vía 205. SK un tren de mercancías;
-◦con la ayuda de la bocina y el proyector intentó detener el tren que circulaba en sentido contrario, lo cual logró y la composición se detuvo;
-◦a continuación, contactó con el jefe de maniobras 2 ÚS de la est. Ústí nad Labem hl. n., distrito norte, y le comunicó la situación producida.
+  – Registro con el empleado:
+◦el 6 de julio de 2023 inició turno a tiempo y descansado, hasta la aparición de la MU no experimentó ningún estrés físico ni psicológico. La situación de salud y personal estaban en orden;
+◦al entrar el tren R 677 en la est. Ústí nad Labem hl. n., distrito norte, se produjo un cambio repentino de la señal luminosa en el semáforo de vía Sc201a, en ese momento aplicó frenado de acción rápida y vio que en sentido contrario salía de la vía 205 un tren de mercancías;
+◦con la ayuda de la bocina y el proyector de largo alcance intentó detener el tren que venía en sentido contrario, lo cual logró y la composición se detuvo;
+◦a continuación contactó con el jefe de maniobras 2 ÚS de la est. Ústí nad Labem hl. n., distrito norte, y le comunicó la situación producida.
 •
-jefe de maniobras 2 de la Estación Central de Agujas de la est. Ústí nad Labem hl. n., distrito norte – Acta con el empleado:
+jefe de maniobras 2 del Centro de Enclavamientos de la est. Ústí nad Labem hl. n., distrito norte – Registro con el empleado:
 ◦inició el turno correspondiente a las 5:14 h descansado y sano;
-◦en la vía de estación n.º 205, su compañero del turno de noche le entregó el tren n.º 55320 del transportista Retrack Czech con prohibición de circulación debido a un cruce posterior a DB (nota DI: Deutsche Bahn);
-◦aproximadamente a las 7:30 h estableció la ruta ferroviaria para el tren R 677 del transportista ČD desde la est. Povrly por la vía 1.ª de tráfico a través de las vías de estación 201a, 201 y 921 en dirección distrito estación de pasajeros;
-◦a las 7:37 h, con su compañero, registraron en el monitor JOP la notificación de avería de la señal de autorización en el semáforo Sc201a, cuando ya el tren R 677 circulaba por el entorno de la est. Ústí nad Labem hl. n., distrito norte, el cual reaccionó a ello con la aplicación del frenado de acción rápida;
-◦mediante la observación del monitor registró además la ocupación del sector de la aguja n.º 242;
-◦en ese momento ya se había comunicado con ellos el maquinista del tren R 677 y comunicó que había pasado junto al semáforo Sc201a, en el que se produjo un cambio repentino de la señal, y que a continuación se había detenido con todo el tren detrás de la estación y que veía un tren de mercancías detenido a una distancia de unos 15 m de él;
+◦en la vía de estación n.º 205, un colega del turno de noche le entregó el tren n.º 55320 del operador Retrack Czech con prohibición de circulación debido a un cambio posterior a DB (nota DI: Deutsche Bahn);
+◦aproximadamente a las 7:30 h estableció la ruta ferroviaria para el tren R 677 del operador ČD desde la est. Povrly por la vía principal n.º 1 a través de las vías de estación 201a, 201 y 921 en dirección al distrito de la estación de pasajeros;
+◦a las 7:37 h, junto con un colega, registraron en el monitor JOP la avería de la señal de autorización en el semáforo Sc201a; en ese momento el tren R 677 ya pasaba junto al andén de la est. Ústí nad Labem hl. n., distrito norte, el cual reaccionó a ello aplicando frenado de acción rápida;
+◦mirando el monitor, registró además la ocupación del distrito de la aguja n.º 242;
+◦en ese momento ya se había comunicado con ellos el maquinista del tren R 677 y comunicó que había pasado junto al semáforo Sc201a, en el que se produjo un cambio repentino de la señal luminosa, y que a continuación detuvo el tren completo detrás del andén, y que veía un tren de mercancías detenido a una distancia de unos 15 m de él;
 ◦se trataba del tren Nex 55320, que el maquinista puso en movimiento indebidamente desde la vía 205 en dirección a la est. Povrly;
 ◦también se comunicó con el maquinista del tren Nex 55320 y se aseguró de que el tren no estaba en movimiento;
-◦a continuación, comunicó la ocurrencia de la MU conforme al Plan de Notificaciones (guardia de accidentes, HZS SŽ y aparato de despacho).
-
+◦a continuación comunicó la aparición de la MU conforme al Cuadro de Comunicaciones (guardia de accidentes, HZS SŽ y aparato de despacho).
 
 ## Página 24
+
 
 ### 3.2 Descripción fáctica del suceso
 ### 3.2.1 Secuencia de hechos que condujeron al suceso extraordinario
@@ -937,8 +940,8 @@ ocurrencia de la MU (circulación indebida tras el semáforo Lc205 con la señal
 •
 7:37:31 h el tren Nex 55320 alcanzó la velocidad de 8,625 km.h-1, aplicación del frenado EDB (recorridos 66 m desde la salida);
 
-
 ## Página 25
+
 
 •
 7:37:44 h el morro del tren Nex 55320 se detuvo en el km 519,378 (recorridos 85 m desde la salida);
@@ -988,8 +991,8 @@ PČR, distrito Ústí nad Labem, Krásné Březno;
 •
 HZS de la Administración de Ferrocarriles, JPO Ústí nad Labem.
 
-
 ## Página 26
+
 
 ### 4 ANÁLISIS DEL SUCESO
 ### 4.1 Tareas y obligaciones
@@ -1011,6 +1014,7 @@ El transportista estaba, entre otros, de acuerdo con el § 35 apart. 1 letra a) 
 
 ## Página 27
 
+
 cerrado con el gestor de la vía y ceñirse a las instrucciones del gestor de la vía impartidas durante la explotación del transporte ferroviario. Conforme al § 46t apartado 1 letra a), el maquinista del tren Nex 55320 debió detenerse a tiempo antes de la señal que prohíbe la marcha.
 Asimismo, conforme al § 35 apartado 1 letras e), f), i) y m) del decreto nº 173/1995 Sb., debe garantizarse que el maquinista conduzca el vehículo ferroviario motriz únicamente desde el puesto desde el que exista la mejor visibilidad, normalmente desde la cabina frontal en el sentido de la marcha, observe la vía y las señales desde el vehículo ferroviario de cabeza y actúe conforme a los hechos constatados, no supere durante la marcha la velocidad máxima permitida establecida en el horario de circulación o la velocidad limitada ordenada y detenga el tren de forma segura antes del lugar señalizado.
 Conforme al § 35 apartado 1 letra h) del decreto nº 173/1995 Sb., debe garantizarse, entre otros, que el maquinista ponga el vehículo ferroviario en marcha únicamente ante la señal «Salida» u otra autorización establecida por el gestor de la vía.
@@ -1025,8 +1029,8 @@ El maquinista del tren Nex 55320 declaró que, ante el requerimiento del VZ Mire
 Del registro de datos del SZZ se desmintió la afirmación del maquinista sobre la señal que permite la marcha en la señal Lc205, ya que ya a las 4:31:43 h el jefe de maniobras 2 ÚS emitió la orden de bloquear la señal en la posición «Alto»; ambos estados del SZZ fueron registrados hasta después del suceso del accidente, es decir, hasta la posterior investigación en el lugar del MU por parte del gestor de la vía y de la Inspección Ferroviaria.
 No obstante, del análisis de los datos del SZZ se constató que entre las 7:21:21 h y las 7:24:01 h en la señal Lc202 de la vía 202 lucía la señal que permite la marcha «Repetición de la señal Aviso» y entre las 7:24:01 h y las 7:29:49 h lucía la señal «Vía libre» para el tren R 1323. A continuación
 
-
 ## Página 28
+
 
 entre las 7:31:02 h y las 7:31:19 h en la señal Lc202 lucía la señal que permite la marcha «Repetición de la señal Aviso» y entre las 7:31:19 h y las 7:42:59 h lucía la señal que permite la marcha «Vía libre» para el tren Ex 178. Sin embargo, la señal Lc202 estaba situada únicamente junto a la vía 202, es decir, desde el punto de vista del maquinista del tren Nex 55320, más allá de la tercera vía a la derecha del lugar donde se encontraba detenido el HDV del tren Nex 55320, por lo que la confusión de las señales de las señales Lc205 y Lc202 queda prácticamente descartada, aparte del hecho de que, dada la configuración de la vía, no es técnicamente posible emitir en la señal Lc205 una señal de ese tipo.
 Fig. nº 2: Vista del maquinista del tren Nex 55320 detenido a una distancia de 24 m antes de las señales Lc205 y Lc202
@@ -1035,6 +1039,7 @@ Fig. nº 3: Esquema de la posición del morro del tren Nex 55320 y de las señal
                      Fuente: mapy.cz
 
 ## Página 29
+
 
 ### Constatación:
 En la investigación se constató la infracción de la normativa legal y de las normas internas relativas a las funciones y obligaciones del transportista Retrack Czech en relación causal con la aparición del MU:
@@ -1064,8 +1069,8 @@ En la investigación no se constató infracción de las funciones y obligaciones
 ### 4.1.4 Autoridades nacionales de seguridad y Agencia Ferroviaria de la Unión Europea
 La autoridad nacional de seguridad es la Oficina Ferroviaria, que conforme a la ley nº 266/1994 Sb. es la autoridad administrativa dependiente del Ministerio de Transporte. Su función es, en particular, el ejercicio de la supervisión estatal en materia de vías y en materia de autoridad de construcción, el ejercicio de la autoridad de construcción especial para obras de vía y obras sobre la vía, la aprobación de vehículos ferroviarios nuevos y modernizados y de dispositivos técnicos designados, así como la tramitación de infracciones. La Oficina Ferroviaria tiene la obligación de comunicar a la Inspección Ferroviaria, en un plazo de 12 meses desde la fecha de publicación del informe final que contenga las recomendaciones de seguridad dirigidas a la misma, qué medida ha adoptado en relación con dicha recomendación de seguridad; dicha comunicación se realiza periódicamente, al menos una vez al año, hasta la adopción de las medidas correspondientes.
 
-
 ## Página 30
+
 
 La función de la Agencia Ferroviaria de la Unión Europea es, además de garantizar, en el marco de sus competencias, que se mantenga y, en la medida de lo posible, se aumente de forma sistemática la seguridad ferroviaria, entre otras, la emisión, renovación, suspensión y modificación de certificados de seguridad uniformes, la limitación de su vigencia o su cancelación, en cuya materia coopera con las autoridades nacionales de seguridad; asimismo emite autorizaciones para la comercialización de vehículos ferroviarios y de tipos de vehículos, y está facultada para renovar, modificar, suspender o cancelar las autorizaciones que haya emitido. La Agencia evalúa asimismo los proyectos de normativa nacional, etc.
 En la investigación no se constató infracción de las funciones y obligaciones de la autoridad nacional de seguridad y de la Agencia Ferroviaria de la Unión Europea.
@@ -1085,6 +1090,7 @@ En la investigación no se constataron factores relacionados con los fabricantes
 
 ## Página 31
 
+
 ### 4.2.4 Factores o consecuencias derivados del mantenimiento y la modificación de vehículos ferroviarios o instalaciones técnicas
 En la investigación no se detectaron factores derivados del mantenimiento y la modificación de vehículos ferroviarios o instalaciones técnicas.
 ### 4.2.5 Factores o consecuencias relacionados con el sujeto responsable del mantenimiento de vehículos ferroviarios, los talleres de mantenimiento y otros prestadores de servicios de mantenimiento
@@ -1101,10 +1107,10 @@ A las 4:08 h, el jefe de estación 2 US fue informado por el despachador de expl
 Actividad laboral del maquinista del tren Nex
    55320:
 El tren Nex 55320 llegó a la 205. SK de la estación Ústí nad Labem hl. n. distrito norte, el día del suceso de la MU, a las 4:47:19 h, habiendo emitido ya a las 4:31:47 h el jefe de estación 2 ÚS la orden de bloquear la señal Lc205 en la posición «Alto». Aproximadamente 5 minutos después de la llegada del tren a la 205. SK (es decir, hacia las 4:52 h), el maquinista, según su declaración, se enteró por parte del jefe de estación de que «Děčín no acepta y que allí permanecerá detenido». Hasta el momento del suceso de la MU, o en todo caso hasta la finalización del suceso accidentológico, esta orden no fue revocada y en la señal Lc205 permaneció encendida durante todo el tiempo la señal «Alto».
-El maquinista del tren Nex 55320, en su declaración de explicaciones a la DI, entre otros extremos, indicó que incorporó a la mencionada turno el 5. 7. 2023 hacia las 22:30 h en perfecto estado físico y psicológico. Con el tren Nex 55320 se detuvo en la estación Ústí nad Labem hl. n., distrito norte, a una distancia de unos 25 a 30 m antes de la señal Lc205. Observaba continuamente dicha señal, en la que estaba encendida la señal «Alto». El maquinista añadió que a las 7:17 h el VZ Mirel le solicitó que realizara el test D1, pero en realidad, según el registro del velocímetro electrónico del HDV, el test D1 se llevó a cabo entre las 7:33:20 y las 7:36:01 h. En ese momento también miró la señal Lc205 y creyó ver en ella una señal que autorizaba la marcha. Tras la realización del test D1, volvió a mirar la señal Lc205 y, según 
-
+El maquinista del tren Nex 55320, en su declaración de explicaciones a la DI, entre otros extremos, indicó que incorporó a la mencionada turno el 5. 7. 2023 hacia las 22:30 h en perfecto estado físico y psicológico. Con el tren Nex 55320 se detuvo en la estación Ústí nad Labem hl. n., distrito norte, a una distancia de unos 25 a 30 m antes de la señal Lc205. Observaba continuamente dicha señal, en la que estaba encendida la señal «Alto». El maquinista añadió que a las 7:17 h el VZ Mirel le solicitó que realizara el test D1, pero en realidad, según el registro del velocímetro electrónico del HDV, el test D1 se llevó a cabo entre las 7:33:20 y las 7:36:01 h. En ese momento también miró la señal Lc205 y creyó ver en ella una señal que autorizaba la marcha. Tras la realización del test D1, volvió a mirar la señal Lc205 y, según
 
 ## Página 32
+
 
 su declaración, allí seguía encendida la señal que autorizaba la marcha. Sin embargo, el análisis del SZZ demostró que en la señal Lc205 permaneció encendida durante todo el tiempo la señal «Alto» (véase más arriba).
 A continuación, el maquinista a las 7:36:14 h soltó el freno del tren e inició la marcha. La primera aguja (n.º 242) estaba dispuesta para la marcha de su tren, no pudiendo ya ver la siguiente aguja (n.º 246). Se verificó que la visibilidad de la 1. SK, por la que se aproximaba el tren R 677, le estaba vedada como consecuencia de las condiciones de alineación, la valla, la vegetación y las instalaciones de la vía. El maquinista del tren Nex 55320 pudo ver por primera vez el tren R 677 aproximadamente en el momento en que el tren R 677 pasaba la señal Sc201a. Como indicó, comenzó a frenar únicamente sobre la base de la señal sonora «Atención» dada por el tren R 677. Según el registro del velocímetro, el maquinista del tren R 677 dio la señal «Atención» entre las 7:33:20 h y las 7:36:01 h. El primer uso del freno (EDB) en el HDV del tren Nex 55320 se registró a las 7:37:31 h.
@@ -1115,8 +1121,8 @@ Actividad laboral del maquinista del tren R
    677:
 Al entrar en la estación Ústí nad Labem hl. n., distrito norte, el tren pasó a las 7:36:51 h la señal de entrada 1S (pk 520,664) con la señal «Vía libre» a una velocidad establecida de 109 km·h-1. A las 7:37:15 h se produjo un cambio súbito del aspecto de la señal en la señal de trayecto Sc201a (pk 519,565) de la señal «Vía libre» a la señal «Alto». A las 7:37:16 h, a una velocidad de 109 km·h-1, se produjo el encendido de la luz roja en el repetidor de señal del VZ. A las 7:37:17 h el maquinista aplicó el frenado de acción rápida y a las 7:37:23 h, a una velocidad de 96 km·h-1, comenzó a dar la señal sonora «Atención» con la bocina de la locomotora durante 11 s, a lo que, según su declaración, reaccionó el maquinista del tren Nex 55320 aplicando el frenado. Cabe mencionar que en el momento en que el maquinista del tren R 677 detectó la situación no estándar no era posible la visibilidad mutua entre ambos trenes y, por tanto, tras la aplicación necesaria del frenado (de acción rápida), el maquinista valoró correctamente la necesidad de la señal sonora «Atención» con la bocina de la locomotora (registrada por el velocímetro electrónico) y, además, de la señal luminosa con las luces de señal del HDV (lo hizo constar en el acta con el empleado). Con esta rápida reacción, con alta probabilidad, el maquinista evitó la colisión del HDV del tren Nex 55320 con el flanco del tren R 677 ocupado por viajeros, incluida la eventual descarrilación de los vehículos de dicho tren. A este respecto es preciso recordar que el propio cambio súbito del aspecto de la señal en la señal Sc201a se produjo con la antelación suficiente antes de la invasión física de la vía de tren del tren R 677 gracias a la configuración del SZZ (véase el punto 3.1.8 de esta ZZ). Las circunstancias que contribuyeron a evitar la colisión de trenes fueron, por tanto, dos.
 
-
 ## Página 33
+
 
 ### 4.3.2 Factores laborales
 En la investigación no se detectaron factores relacionados con el contenido del puesto de trabajo o la jornada laboral de los empleados. En la investigación no se constató, respecto a los empleados implicados, el incumplimiento de las condiciones de descanso antes del turno y de los descansos, respectivamente, del tiempo adecuado para el reposo y la alimentación durante el turno.
@@ -1139,6 +1145,7 @@ En los procedimientos, métodos, contenido y resultados de las actividades de ev
 En el sistema de seguridad del gestor de infraestructura y en el sistema de garantía de la seguridad del transporte ferroviario del transportista, relacionados con las circunstancias de producción de la mencionada MU, no se detectaron deficiencias.
 
 ## Página 34
+
 
 ### 4.4.4 Sistema de gestión de los sujetos responsables del mantenimiento de los vehículos ferroviarios
 y de los talleres de mantenimiento
@@ -1185,49 +1192,43 @@ El Oficina Ferroviaria visitó el día 3. 7. 2023 el centro de trabajo del trans
 la reunión el transportista presentó el acta de una auditoría centrada en la verificación de la conformidad con los
 requisitos en el ámbito de las medidas correctoras, la actividad de control, la competencia profesional y de salud, los riesgos,
 
-
 ## Página 35
 
-y la actualidad de la documentación del sistema. La auditoría no encontró ninguna no conformidad y no propuso ninguna
-medida correctora. Al mismo tiempo, se presentaron al Oficina Ferroviaria documentos sobre la actividad de control del
-transportista, incluidos los controles de los maquinistas.
-El Oficina Ferroviaria, para completar, indica que además realizó el día 5. 12. 2023 una inspección estatal centrada en
-las obligaciones del transportista en el ámbito del transporte de mercancías peligrosas (RID).
-El Oficina Ferroviaria presume que, a más tardar en la evaluación de la solicitud de certificado del transportista
-durante el próximo año, verificará el cumplimiento de las obligaciones del transportista en relación con la legislación
-checa y europea.»
-### 4.4.6 Aprobaciones, certificados e informes de evaluación emitidos por la agencia, las autoridades nacionales de seguridad u otros sujetos de evaluación de la conformidad
-El gestor de la infraestructura explotó la infraestructura sobre la base de la autorización administrativa vigente y del
-certificado de seguridad del gestor de la infraestructura. El transportista explotó el transporte ferroviario sobre la base
-de la licencia vigente y del certificado del transportista.
-### 4.4.7 Otros factores sistémicos
-En la investigación no se detectaron otros factores sistémicos.
-### 4.5 Incidencias anteriores de naturaleza similar
-La DI, en el período comprendido entre el 1. 1. 2018 y la aparición de la MU en cuestión, registra en las vías
-ferroviarias, categoría nacional y regional, un total de 446 MU, en las que se produjo una circulación no autorizada
-de un tren más allá de la señal de viaje o de salida con la indicación «Alto». De este número, se produjo
-posteriormente en 8 casos una colisión de DV, en 4 casos un descarrilamiento de DV y en 7 casos una colisión de DV
-con un dispositivo técnico de la infraestructura. Como consecuencia de estas MU, fallecieron 4 personas, se produjeron
-lesiones en 135 personas y un daño total de 529 242 711 Kč.
-De las MU mencionadas, la DI registra en la est. Ústí nad Labem hl. n. un total de 4 MU, de las cuales la DI
-investigó la MU del día 28. 5. 2018, en la que se produjo una circulación no autorizada del tren Nex 43333 más allá
-del nivel de la señal principal (de viaje) Sc1 en posición «Alto» y la posterior entrada en la vía de circulación (de tren)
-establecida para el tren Os 6905. La causa inmediata de la aparición de la MU fue el incumplimiento de la
-indicación «Alto» de la señal principal (de viaje) Sc1 de la estación ferroviaria Ústí nad Labem estación principal
-por parte de la persona que conducía el vehículo ferroviario del tren Nex 43333.
-### 5 CONCLUSIONES
-### 5.1 Resumen del análisis y conclusiones relativas a las causas del suceso
-La causa inmediata de la incidencia extraordinaria fue:
-•
-el incumplimiento de la indicación «Alto» de la señal principal de viaje Lc205 de la estación
-ferroviaria Ústí nad Labem estación principal, distrito norte, por parte del maquinista del tren
-Nex 55320 tras la previa puesta en marcha no autorizada del tren sin la expedición de una señal
-que permitiera la circulación.
-No se detectó ningún factor contribuyente por parte de la DI.
-No se detectó ninguna causa sistémica por parte de la DI.
+a la actualidad de la documentación del sistema. La auditoría no encontró ninguna discrepancia y no propuso ninguna medida correctiva. Asimismo, se presentaron a la Oficina Ferroviaria los documentos relativos a la actividad de control del transportista, incluidos los controles de los maquinistas.
 
+La Oficina Ferroviaria, por completitud, indica que además realizó el 5 de diciembre de 2023 una supervisión estatal centrada en las obligaciones del transportista en materia de transporte de mercancías peligrosas (RID).
+
+La Oficina Ferroviaria presume que, como muy tarde en el curso de la evaluación de la solicitud de certificación del transportista durante el próximo año, verificará el cumplimiento de las obligaciones del transportista en relación con la legislación checa y europea."
+
+### 4.4.6 Aprobaciones, certificados e informes de evaluación emitidos por la agencia, las autoridades nacionales de seguridad u otros organismos de evaluación de la conformidad
+
+El gestor de la infraestructura explotó la infraestructura en virtud de una autorización administrativa vigente y de un certificado de seguridad del gestor de la infraestructura. El transportista explotó el transporte ferroviario en virtud de una licencia vigente y de un certificado del transportista.
+
+### 4.4.7 Otros factores sistémicos
+
+En el curso de la investigación no se detectaron otros factores sistémicos.
+
+### 4.5 Sucesos anteriores de naturaleza similar
+
+En el periodo comprendido entre el 1 de enero de 2018 y la fecha de ocurrencia de la MU objeto de estudio, el DI registra en las vías ferroviarias, categoría nacional y regional, un total de 446 MU en los que se produjo la circulación no autorizada de un tren más allá de la señal de paso o de salida con la indicación "Alto". De este número, se produjo posteriormente una colisión de DV en 8 casos, un descarrilamiento de DV en 4 casos y una colisión de DV con un dispositivo técnico de la infraestructura en 7 casos. Como consecuencia de estas MU, fallecieron 4 personas, se produjeron lesiones en 135 personas y el daño total ascendió a 529 242 711 Kč.
+
+De las MU mencionadas anteriormente, el DI registra en la estación de Ústí nad Labem hl. n. un total de 4 MU, habiendo investigado el DI la MU del 28 de mayo de 2018, en la que se produjo la circulación no autorizada del tren Nex 43333 más allá del nivel de la señal principal (de paso) Sc1 en posición "Alto" y la posterior entrada en la vía de circulación (de tren) establecida para el tren Os 6905. La causa inmediata de la MU fue el incumplimiento de la indicación "Alto" de la señal principal (de paso) Sc1 de la estación ferroviaria de Ústí nad Labem hlavní nádraží por parte de la persona que conducía el vehículo ferroviario del tren Nex 43333.
+
+### 5 CONCLUSIONES
+
+### 5.1 Resumen del análisis y conclusiones relativas a las causas del suceso
+
+La causa inmediata del suceso excepcional fue:
+
+•
+el incumplimiento de la indicación "Alto" de la señal principal de paso Lc205 de la estación ferroviaria de Ústí nad Labem hlavní nádraží, distrito norte, por parte del maquinista del tren Nex 55320, tras la previa puesta en marcha no autorizada del tren sin la indicación de vía que autoriza la circulación.
+
+El DI no detectó ningún factor contribuyente.
+
+El DI no detectó ninguna causa sistémica.
 
 ## Página 36
+
 
 ### A summary of the analysis and conclusions with regard to the causes of the
 occurrence
@@ -1276,8 +1277,8 @@ El transportista ČD no adoptó ni emitió ninguna medida.
 ### Measures taken since the occurrence
 The infrastructure manager SŽ took the following measure after the occurrence:
 
-
 ## Página 37
+
 
 •
 all head employees of the Regional directorate Ústí nad Labem were familiarized
@@ -1322,8 +1323,8 @@ Inspección Ferroviaria no emite ninguna recomendación de seguridad, porque no 
 justificasen la emisión de una recomendación de seguridad en el marco de la prevención de la aparición de
 incidencias extraordinarias.
 
-
 ## Página 38
+
 
 ### SAFETY RECOMMENDATIONS
 The Rail Safety Inspection Office does not issue a safety recommendation in regard of the
@@ -1337,8 +1338,8 @@ vedoucí oddělení
 Územní inspektorát Praha
 Územní inspektorát Praha
 
-
 ## Página 39
+
 
 ### ANEXOS
 Fig. nº 4: Vista en el sentido de circulación del tren Nex 55320, señal Lc205
@@ -1347,15 +1348,15 @@ Fig. nº 5: Vista en el sentido de circulación del tren R 677: posición final 
 nº 242 fue accionada en el sentido de la circulación no autorizada del tren Nex 55320.
    Fuente: DI
 
-
 ## Página 40
+
 
 Fig. nº 6: Vista del punto de solape de los perfiles de paso de los trenes R 677 y Nex 55320 en la aguja nº 246
   Fuente: SŽ
 Fig. nº 7: Vista desde la cabina de conducción del tren Nex 55320, punto de la posición final de los frentes de los trenes        Fuente: SŽ
 
-
 ## Página 41
+
 
 Fig. nº 8: En el momento de la aparición de la MU, el sol daba a la cara del maquinista del tren Nex 55320 bajo la elevación
       Fuente: suncalc.org®, modificación DI

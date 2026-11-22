@@ -10,13 +10,14 @@ chars: 200120
 ratio_longitud: 1.24
 tokens_in: 114033
 tokens_out: 95011
-verificacion: revisar
-notas_cifras: ["bloque 4: original bilingüe: se compara contra el idioma principal (CS)", "bloque 5: original bilingüe: se compara contra el idioma principal (CS)", "bloque 6: original bilingüe: se compara contra el idioma principal (CS)", "bloque 7: original bilingüe: se compara contra el idioma principal (CS)", "bloque 8: original bilingüe: se compara contra el idioma principal (CS)", "bloque 9: original bilingüe: se compara contra el idioma principal (PT)"]
-avisos: ["bloque 6: ratio 1.64", "bloque 8: ratio 1.68"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 4: original bilingüe: se compara contra el idioma principal (CS)", "página 7: original bilingüe: se compara contra el idioma principal (CS)", "página 8: original bilingüe: se compara contra el idioma principal (CS)", "página 9: original bilingüe: se compara contra el idioma principal (CS)", "página 18: original bilingüe: se compara contra el idioma principal (CS)", "página 20: original bilingüe: se compara contra el idioma principal (PT)"]
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -43,13 +44,13 @@ IČ: 75009561
 mail@dicr.cz
 tel.: +420 736 521 003
 
-
 ## Página 2
+
 
 El presente informe final es público y todos los hechos en él expuestos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ### 1 RESUMEN
 Fuente: Drážní inspekce
@@ -75,8 +76,8 @@ frenada del tren Os 9359 antes del final del tren Nex 60051 en relación con
 una indisposición médica súbita previa (un episodio cardíaco) con posible influencia
 súbita en la capacidad de percepción y actuación del maquinista del tren Os 9359.
 
-
 ## Página 4
+
 
 Factor contribuyente:
 reiterada anulación de la limitación de velocidad por parte del maquinista del tren Os 9359,
@@ -116,8 +117,8 @@ en su norma interna los distintos tiempos tecnológicos, a partir de los cuales 
 determinen los tiempos mínimos vinculantes para los giros de las composiciones de
 trenes de transporte de pasajeros con la reserva correspondiente.
 
-
 ## Página 5
+
 
 ### SUMMARY
 14th July 2020, 21:35 (19:35 GMT).
@@ -172,8 +173,8 @@ warning signals to the leading tractive unit on the line (there is no light on t
 signalling of the leading tractive unit, or only a blue light illuminates) until the Decree
 No. 173/1995 Coll., the Traffic Rules of Railways, will be amended;
 
-
 ## Página 6
+
 
 we recommend that the NSA ensure that the RUs will be obligated to technically
 •
@@ -188,8 +189,8 @@ to have individual technological times defined in their internal regulations, fr
 which the minimum times for the turnovers of the passengers trains with an
 appropriate reserve will be determined.
 
-
 ## Página 7
+
 
 # Índice
 1 RESUMEN........................................................................................................................3
@@ -240,6 +241,7 @@ infraestructura ferroviaria o de las instalaciones técnicas....................
 
 ## Página 8
 
+
 4.2.2 Factores o consecuencias derivados de la instalación y puesta en servicio de vehículos ferroviarios, infraestructura ferroviaria o instalaciones técnicas......................................49
 4.2.3 Factores o consecuencias relacionados con fabricantes de vehículos ferroviarios u otros proveedores de productos ferroviarios............................................................................49
 4.2.4 Factores o consecuencias derivados del mantenimiento y modificación de vehículos ferroviarios o instalaciones técnicas....................................................................................................49
@@ -268,8 +270,8 @@ infraestructura ferroviaria o de las instalaciones técnicas....................
 6 RECOMENDACIONES DE SEGURIDAD.....................................................................................62
 ANEXOS..............................................................................................................................64
 
-
 ## Página 9
+
 
 ### Lista de siglas y símbolos utilizados
 AB
@@ -360,8 +362,8 @@ Informe final sobre los resultados de la investigación del suceso extraordinari
 žst.
 estación ferroviaria
 
-
 ## Página 10
+
 
 ### Lista de siglas de la legislación, normas y normativa interna utilizadas
 ley n.º 262/2006 Sb.
@@ -387,16 +389,16 @@ normativa interna del gestor de infraestructura SŽ, "SŽDC T121 Mantenimiento d
 directriz SŽDC n.º 35
 normativa interna del gestor de infraestructura SŽ, "Directriz SŽDC n.º 35, por la que se establecen las especificaciones técnicas de los equipos de radioferrocarril y los principios para su preparación e implantación en la vía ferroviaria de propiedad estatal", en la redacción vigente en el momento de la producción del suceso extraordinario
 
-
 ## Página 11
+
 
 Manual de instrucciones AVV
 Manual de instrucciones AVV para unidades eléctricas de la serie 471, documento emitido por la sociedad AŽD Praha s.r.o., en la redacción vigente en el momento de la producción del suceso extraordinario
 ČSN EN 62625-1
 Equipos electrónicos ferroviarios - Sistema de registro a bordo de datos de circulación - Parte 1: Especificación del sistema, en la redacción vigente en el momento de la producción del suceso extraordinario
 
-
 ## Página 12
+
 
 ### 2 INVESTIGACIÓN Y SU CONTEXTO
 ### 2.1 Decisión de iniciar la investigación
@@ -421,6 +423,7 @@ El nivel de colaboración con los representantes de las entidades implicadas en 
 En el marco de la investigación del suceso extraordinario, la DI procedió de la siguiente manera, y en particular utilizó los siguientes métodos y técnicas:
 
 ## Página 13
+
 
 inspección del lugar del suceso excepcional, incluidos los vehículos ferroviarios implicados,
 •
@@ -450,8 +453,8 @@ A continuación, se desmontó la caja con los registros de datos del sistema AVV
 Además, se descargaron los registros de los ordenadores de a bordo del coche de mando 971 075-7, del HDV 471 075-2 se descargaron los registros de datos del registrador de velocidad electrónico, los datos AVV, los registros de los ordenadores de a bordo y los registros de los inversores de tracción, y del coche intercalado 071 075-6 los registros de los ordenadores de a bordo.
 Atendiendo al alcance de los daños de las cajas de los soportes de datos en el vehículo ferroviario como consecuencia del SU y a la amenaza de pérdida de los datos almacenados (del registrador de velocidad electrónico y del AVV), lo que complicaría la investigación del SU, el análisis de los datos y la evaluación del desarrollo real del SU, sería conveniente valorar, para los vehículos ferroviarios existentes, la adopción de medidas para prevenir la posible pérdida de los datos registrados en un SU de alcance similar mediante la incorporación de una memoria de registro resistente (el denominado módulo crash protected según la ČSN EN 62625-1), que garantiza la protección de los datos registrados incluso en caso de un SU de alcance similar o mayor.
 
-
 ## Página 14
+
 
 ### 2.9 Interacción con los órganos judiciales
 Durante la investigación del SU en cuestión, no se inició por parte de DI ni por parte de los órganos judiciales ninguna comunicación ni cooperación.
@@ -491,8 +494,8 @@ desde el pk 378,980, mediante el indicador N se establecía la velocidad de lín
 la superestructura ferroviaria estaba formada por raíles UIC60, que se fijaban a las traviesas de hormigón B91S sin placas base mediante abrazaderas elásticas Skl14.
 •
 
-
 ## Página 15
+
 
 ## Lugar del SU
 Fig. n.º 1: Esquema del lugar de origen del SU
@@ -520,8 +523,8 @@ en los Registros de averías de las instalaciones de telecomunicaciones y de se�
 •
 a fecha de 14. 7. 2020 ninguna avería ni defecto.
 
-
 ## Página 16
+
 
 Estado de los vehículos ferroviarios:
 ### Tren Nex 60051:
@@ -555,8 +558,8 @@ y los travesaños del bastidor en ambos morros y la caja del coche dañada, el �
 como consecuencia del SU, en el último coche se encontraba dañada la tubería de freno.
 •
 
-
 ## Página 17
+
 
 ### Tren Os 9359:
 el tren de pasajeros Os 9359 estaba formado por una unidad eléctrica de dos pisos de tres coches de la serie
@@ -593,6 +596,7 @@ El vidrio de la puerta desde el espacio de la escalera hasta la parte de paso de
 
 ## Página 18
 
+
 no se produjo la rotura del tren. Los travesaños del freno magnético de riel HDV y del vehículo intercalado en el momento de la inspección se ajustaban a las cabezas de los raíles;
 •
 en el momento de la aparición de la MU, según la PČR, se encontraban en el tren 75 personas.
@@ -627,8 +631,8 @@ HDV (tren Nex 60051)
 | • | medio ambiente | 0 Kč . |
 En la MU, los daños causados en los vehículos ferroviarios, en los componentes de la vía, en relación con la eliminación de las consecuencias de la MU y en el medio ambiente se cuantificaron en un total de 44 981 794 Kč.
 
-
 ## Página 19
+
 
 En la MU se produjeron daños en:
 la carga transportada del tren Nex 60051 (jaulas con correo)
@@ -670,8 +674,8 @@ El gestor de la vía ferroviaria, categoría nacional, Kolín – Praha-Libeň, 
 El transportista del tren Os 9359 era ČD, con domicilio en Nábřeží L. Svobody 1222, Praha 1, PSČ 110 15.
 El transportista del tren Nex 60051 era ČDC, con domicilio en Jankovcova 1569/2c, Praha 7 Holešovice, PSČ 170 00.
 
-
 ## Página 20
+
 
 El transporte ferroviario se prestaba en virtud de un contrato celebrado entre el gestor de la vía SŽ y el transportista ČD el día 20. 1. 2020, con efectos desde el 23. 1. 2020.
 El transporte ferroviario se prestaba en virtud de un contrato celebrado entre el gestor de la vía SŽ y el transportista ČDC el día 18. 12. 2018, con efectos desde el 18. 12. 2018.
@@ -704,8 +708,8 @@ Del análisis de los datos registrados se desprende:
 | 21:22 | el tren se puso en marcha tras pasar la señal AB 1 -3796 volvió a brillar la luz roja en la NO el tren alcanzó gradualmente , , la velocidad de 35 km h-1 luego frenó hasta detenerse a las 21:24 h Recorrió unos 642 m; . , . |
 | 21:24 | el tren se detuvo en el km 378850 , es decir, unos 750 m antes de la señal 1S (en el km 378108); , |
 
-
 ## Página 21
+
 
 | 21:28 | el tren se puso en marcha alcanzó una velocidad de hasta 11 km h-1; , . |
 | 21:31 | el tren tras recorrer unos 433 m se detuvo en el km 378400 , es decir, unos 300 m antes de la señal 1S; , . |
@@ -737,62 +741,73 @@ el estado real del tren comprobado en el lugar de la MU correspondía a la docum
 •
 El DV 971 075-7 estaba equipado en el momento de la aparición de la MU con un registrador electrónico de velocidad RE1xx (UniControls-Tramex) n.º 1055. La hora del registrador de velocidad estaba adelantada en 6 segundos respecto a la hora real, se aplicó la diferencia. La hora del sistema AVV estaba adelantada en 4 segundos respecto a la hora real, se aplicó la diferencia.
 
-
 ## Página 22
 
-Del análisis de los datos registrados por el registrador de velocidad y el AVV del vehículo de mando se desprende:
-Hora
-Vía
+Del análisis de los datos registrados por el registrador de velocidad y el AVV del coche de mando se desprende:
+Hora 
+Recorrido
 velocidad
 Descripción de los estados seleccionados registrados por el registrador de velocidad y los registros del AVV
 (km.h-1)
-tras la corrección (h)
-(km)
+tras la corrección (h) 
+(km) 
 21:01:10
 0,000
 1
-el tren partió de la estación Praha Masarykovo nádraží con el ARR y el CB activados;
+el tren partió de la est. Praha Masarykovo nádraží con el ARR y el CB activados;
 21:32:27
 28,165
 1
-el tren partió de la parada Rostoklaty con el ARR y el CB activados, en la NO brillaba la luz amarilla («Aviso»);
+el tren partió de la parada Rostoklaty con el ARR y el CB activados, en el NO se iluminó
+la luz amarilla («Aviso»);
 21:33:13
 28,861
 100
-el tren en la 1.ª vía de trayecto pasó la señal AB 1-3808 (en el km 380,790), en la NO se apagó la luz amarilla («Aviso») y se encendió la roja («Alto»);
+el tren en el 1. TK pasó la señal AB 1-3808 (en km 380,790), en el NO se apagó la luz
+amarilla («Aviso») y se encendió la roja («Alto»);
 21:33:18
 29,005
 105
-el maquinista accionó el botón de vigilancia y en la NO brillaba la luz roja («Alto»);
+el maquinista accionó el botón de vigilancia y en el NO se iluminó la luz roja
+(«Alto»); 
 21:33:22
 29,122
 105
-en la NO brillaba la luz roja («Alto»). El modo CB sin intervención del maquinista reducía la presión en el HP y la velocidad antes de la señal AB 1-3796 (km 379,480);
+en el NO se iluminó la luz roja («Alto»). El modo CB, sin intervención del maquinista,
+reducía la presión en el HP y la velocidad antes de la señal AB 1-3796 (km 379,480);
 21:34:04
 30,011
 38
-la presión en el HP era de 3,98 bar, el maquinista accionó el botón de vigilancia y en la NO brillaba la luz roja («Alto»);
+la presión en el HP era de 3,98 bar, el maquinista accionó el botón de vigilancia y en
+el NO se iluminó la luz roja («Alto»);
 21:34:24
 30,118
 0
-el tren se detuvo con el frente a 54 m de la señal AB 1-3796, la presión en el HP era de 3,98 bar, en la NO brillaba la luz roja («Alto»);
+el tren se detuvo con el morro a 54 m de la señal AB 1-3796, la presión en el HP era de
+3,98 bar, en el NO se iluminó la luz roja («Alto»); 
 21:34:25
 30,118
 0
-se inició el aumento de la presión en el HP, en la NO brillaba la luz roja («Alto»), (el tren estaba detenido con el frente a 1,026 km del lugar de la MU);
+se inició el aumento de la presión en el HP, en el NO se iluminó la luz roja («Alto»), (el tren
+estaba detenido con el morro a 1,026 km del punto MU);
 21:34:25
 30,118
 0
-a la izquierda en el teclado se pulsó el botón PŘIV (señales de llamada), que hace que el CB establezca la indicación «Velocidad 30 km.h-1 y aviso repetido».
-(Esta operación es totalmente correcta. El tren habría circulado como máximo a 30 km.h-1 en todo el tramo hasta la señal de entrada 1S, tras lo cual, al pasar la señal AB 1-3796, esta restricción habría sido irrevocable, incluso con la indicación permisiva en 1S.);
+en el teclado se pulsó el botón PŘIV (señales de llamada), que hace que el CB establezca
+la indicación «Velocidad 30 km.h-1 y aviso repetido».
+(Esta operación es totalmente correcta. El tren circularía como máximo a 30 km.h-1 en
+todo el tramo hasta la señal de entrada 1S, y tras pasar la señal
+AB 1-3796 esta restricción sería irrevocable, ni siquiera con la indicación
+permisiva en 1S.);
 21:34:27
 30,118
 0
-en el teclado se pulsó el botón BO (sin restricción), el botón Selección de velocidad 160 km.h-1;
+en el teclado se pulsó el botón BO (sin restricción), el botón Selección de velocidad
+160 km.h-1;
 21:34:27
 30,118
 0
-aumento de la presión en el HP a 4,78 bar, en la NO brillaba la roja («Alto»);
+aumento de la presión en el HP a 4,78 bar, en el NO se iluminó la roja («Alto»);
 21:34:29
 30,118
 0
@@ -800,50 +815,62 @@ en el teclado se pulsó el botón BO (sin restricción);
 21:34:33
 30,118
 1
-el tren se puso en marcha, en la NO brillaba la roja («Alto»);
+el tren se puso en marcha, en el NO se iluminó la roja («Alto»);
 21:34:34
 30,118
 2
 en
-el
-teclado
-se
-pulsó
-el
-botón
-BO
+el teclado
+se pulsó
+el botón
+ BO 
 (sin
 restricción),
-(Nota AŽD+DI: Con el uso repetido del botón BO (sin restricción) se eliminó la restricción de velocidad en el tramo siguiente, introducida por la pulsación anterior del botón PŘIV, pudiéndose deducir, en base a un total de tres pulsaciones del botón BO, que fue intencionado. Junto con la selección de velocidad de 160 km.h-1, el AVV recibió del maquinista la orden «Ve al siguiente señal, lo más rápido que puedas» = a la velocidad máxima de tramo según el mapa del AVV.);
+(Nota AŽD+DI: Mediante la pulsación repetida del botón BO (sin restricción) se
+anuló la restricción de velocidad en el tramo siguiente, introducida por la pulsación
+anterior del botón PŘIV, y en base a un total de tres pulsaciones del botón BO puede
+presumirse que fue intencionadamente. Junto con la selección de la velocidad de
+160 km.h-1, el AVV recibió del maquinista la instrucción «Ve al siguiente señal, lo más
+rápido que puedas» = a la velocidad máxima de la línea según el mapa del AVV.);
 21:34:36
 30,118
 8
-el maquinista accionó el botón de vigilancia y en la NO brillaba la luz roja («Alto»), (es decir, a 1,026 km del lugar de la MU);
+el maquinista accionó el botón de vigilancia y en el NO se iluminó la luz roja
+(«Alto»), (es decir, a 1,026 km del punto MU);
 21:34:46
 30,177
 32
-el tren en la 1.ª vía de trayecto pasó la señal AB 1-3796, en la NO se apagó la luz roja («Alto»), a continuación no se transmitió el código de la señal, (es decir, a 967 m del lugar de la MU). Nota DI: la pérdida del código VZ significa que la vía está ocupada por otros DV, rotura del raíl u otra avería;
+el tren en el 1. TK pasó la señal AB 1-3796, en el NO se apagó la luz roja
+(«Alto»), a continuación no se transmitió el código de señal, (es decir, a 967 m del
+punto MU). Nota
+DI: la pérdida del código VZ significa que la vía está ocupada por otros DV, rotura de
+raíl u otra avería;
 21:34:54
 30,272
 53
-el maquinista accionó el botón de vigilancia, en la NO no se transmitía el código de la señal (es decir, a 872 m del lugar de la MU);
+el maquinista accionó el botón de vigilancia, en el NO no se transmitió el
+código de señal (es decir, a 872 m del punto MU);
 21:35:11
 30,609
 87
-el maquinista accionó el botón de vigilancia, en la NO no se transmitía el código de la señal, (es decir, a 535 m del lugar de la MU);
+el maquinista accionó el botón de vigilancia, en el NO no se transmitió el
+código de señal, (es decir, a 535 m del punto MU);
 21:35:18
 30,777
 86
-a 767 m de la señal 1S (km 378,108) el modo CB redujo la presión en el HP a 4,38 bar sin intervención del maquinista (es decir, a 367 m del lugar de la MU);
+a 767 m de la señal 1S (km 378,108) el modo CB redujo la presión en el HP a 4,38
+bar sin intervención del maquinista (es decir, a 367 m del punto MU);
 21:35:27
 30,978
 78
-según la comprobación de visibilidad era posible ver (la señal) el final del tren Nex 60051 (a 166 m del lugar de la MU);
+según la verificación de visibilidad era posible ver (la señal) el final del tren Nex 60051
+(166 m del punto MU);
 21:35:29
 31,026
-el maquinista accionó por última vez el botón de vigilancia, en la NO no se
+el maquinista accionó por última vez el botón de vigilancia, en el NO no se
 
 ## Página 23
+
 
 |  |  |  | transmisión de la señal de presión en HP 438 bar (es decir, 118 m antes del lugar de la MU); , , , . |  |  |
 | 21:35:32 | 31087 , | 71 | 438 m antes de la señal 1S, el modo CB redujo la presión en HP a 417 bar sin intervención del maquinista (es decir, 57 m antes de la MU); . |  |  |
@@ -897,58 +924,25 @@ además, durante todo el turno se vigiló el uso del botón PŘIV (nota DI:
 Señal de llamada, permite la circulación de la HDV 471 tras la señal «Alto» a una velocidad de 30 km.h-1), que
 fue utilizado 6 veces en los casos anteriores, de los cuales:
 
-
 ## Página 24
 
-◦5 veces se trató de la maniobra permitida para permitir la llegada al lugar habitual
-de detención, si está a menos de 50 m de la señal; 
-◦en el sexto caso se trató del uso del botón PŘIV en relación con la circulación del tren Os 9354
-tras la señal de sección del autobloque con la señal «Alto» (nota DI: El maquinista puede
-continuar tras la señal «Alto» de esta señal, de acuerdo con el art. 2572 SŽDC D1 bajo
-las siguientes condiciones – ante la señal «Alto» en la señal de sección AB, el
-maquinista debe detenerse primero y luego puede continuar la circulación hacia la señal
-siguiente según las condiciones de visibilidad); el maquinista durante la circulación del tren Os 9354 tras
-detenerse en la parada Tatce (con 7 minutos de retraso), a la que precedió una parada de 1,5 minutos
-antes de la señal AB2-3651, avanzó hasta la señal de sección AB 2-3667
-(primera tras la parada Tatce) de nuevo con la señal «Alto». Tras
-   la detención se operó
-el botón PŘIV, la selección de velocidad 160 km.h
- -1  y a continuación también
-   repetidamente el botón BO, 
+◦En 5 casos se trataba de una maniobra autorizada para permitir la llegada al lugar habitual de detención, si se encuentra a menos de 50 m de la señal;
+◦En el sexto caso se trataba del uso del botón PŘIV en relación con la circulación del tren Os 9354 más allá de la señal de sección del autobloque con la indicación «Alto» (nota DI: El maquinista puede continuar más allá de la indicación «Alto» de esta señal, de conformidad con el art. 2572 de la D1 de SŽDC, bajo las siguientes condiciones – ante la indicación «Alto» en la señal de sección AB, el maquinista debe detenerse primero y luego puede continuar la marcha hacia la señal siguiente según las condiciones de visibilidad); el maquinista, durante la circulación del tren Os 9354 tras detenerse en la parada Tatce (retrasado 7 minutos), a la que precedió una parada de 1,5 minutos ante la señal AB2-3651, avanzó hasta la señal de sección AB 2-3667 (la primera tras la parada Tatce) de nuevo con la indicación «Alto». Tras
+    la detención se atendió
+ -1   y a continuación también
+el botón PŘIV, selección de velocidad 160 km/h
+   repetidamente el botón BO,
  todo ello
-en el momento en que, según el registro del registrador de velocidad, aún se estaba recibiendo el código del semáforo rojo.
-El tren Os 9354 fue adelantado en Velimi y en Pečky por trenes más rápidos, sin embargo, tras el último de ellos tuvo que detenerse entre Pečky y Tatce. En el caso correspondiente se trata de un tramo recto de la vía, en el que se ve delante del tren incluso varios kilómetros. Aunque
-el maquinista podía ver el tren anterior en la vía recta, operaba la AVV
-en la señal AB 2-3667 como si la sección estuviera libre (y el autobloque en avería).
-Finalmente no se produjo el paso de la señal AB 2-3667 con la señal «Alto», ya que aproximadamente
-en el momento de la salida del tren Os 9354 la señal cambió a la señal «Aviso», a lo que el
-maquinista ya reaccionó adecuadamente.
-El 28. 7. 2020 se realizó una comprobación comisionada del estado técnico de la HDV 471 075-2,
-el coche intercalado 071.075-6 y el DV 971 075-7 tras la MU. Los tres DV fueron explotados
-de conformidad con el anexo n.º 6 del decreto n.º 173/1995 Sb., por lo que el estado técnico del DV no estaba
-en relación causal con la aparición de esta MU. El daño de los tres DV se produjo como consecuencia
-de la MU correspondiente.
-La disposición y el equipamiento del puesto de trabajo de los empleados de ambas empresas de transporte no guardaban relación con
-la aparición de la MU.
+en el momento en que, según el registro del velocímetro, aún se estaba recibiendo el código del semáforo rojo. El tren Os 9354 fue adelantado en Velimi y en Pečkáy por trenes más rápidos, sin embargo, tras el último de ellos tuvo que detenerse entre Pečkáy y Tatce. En el caso concreto se trata de un tramo recto de la vía, en el que se ve delante del tren incluso varios kilómetros. Aunque el maquinista podía ver el tren anterior en la vía recta, atendió el AVV en la señal AB 2-3667 como si la sección estuviera libre (y el autobloque en avería). Finalmente no se produjo el paso de la señal AB 2-3667 con la indicación «Alto», ya que aproximadamente en el momento de la salida del tren Os 9354 la indicación cambió a «Aviso», a lo que el maquinista ya reaccionó adecuadamente.
+El 28. 7. 2020 se realizó una comprobación comisionada del estado técnico del HDV 471 075-2, del coche insertado 071.075-6 y del DV 971 075-7 tras la MU. Los tres DV fueron explotados de conformidad con el anexo n.º 6 del decreto n.º 173/1995 Sb., por lo que el estado técnico de los DV no guardaba relación causal con la aparición de esta MU. El daño de los tres DV se produjo como consecuencia de la MU en cuestión.
+La disposición y el equipamiento del puesto de trabajo de los empleados de ambas empresas ferroviarias no guardaban relación con la aparición de la MU.
 ### 3.1.8 Descripción de las partes correspondientes de la infraestructura y del sistema de seguridad
-El tramo de línea entre la est. Úvaly y la est. Český Brod se situaba en la línea electrificada de tres vías
-(TTP 501A) Česká Třebová – Praha-Libeň. La línea estaba electrificada con una tensión continua de
-3 kV. La comunicación radio básica era en la red GSM-R. 
-La línea discurría en el tramo desde la parada Tuklaty, pasando por la parada Rostoklaty hasta la última
-señal AB 1-3796 (en el km 379,480) antes de la est. Český Brod en dirección recta
-a lo largo de unos 4,5 km, predominantemente a la altura del terreno circundante, parcialmente
-bordeada de árboles o arbustos. Desde la última señal AB 1-3796 la línea discurría otros unos 600 m
-en dirección recta, a continuación pasó a una curva a la derecha realizada en desmonte,
-bordeada de vegetación alta (arbustos y árboles), donde aproximadamente a media curva en el km 378,501
-se encontraba el lugar de la colisión de los DV, respectivamente el lugar del hallazgo de la primera pieza desprendida del tren Os 9359.
-Al final de la curva a la derecha en el km 378,108 se encontraba la señal de entrada 1S de la est. Český Brod,
-tras la cual la línea pasaba a continuación a una curva a la izquierda y posteriormente
-a dirección recta. La línea en el lugar de la MU en el sentido de circulación del tren Os 9359 descendía 6,8 ‰. 
-De los resultados de la comprobación de la visibilidad del lugar señalado (final del tren Nex 60051) en la línea
-en la curva a la derecha en el tramo entre la est. Úvaly y la est. Český Brod en el km 378,501,
-
+El tramo de vía entre la est. Úvaly y la est. Český Brod se situaba en la línea electrificada de tres vías (TTP 501A) Česká Třebová – Praha-Libeň. La línea estaba electrificada con tensión continua de 3 kV. La comunicación radio básica era en la red GSM-R.
+La línea, en el tramo desde la parada Tuklaty, pasando por la parada Rostoklaty hasta la última señal AB 1-3796 (en el pk 379,480) antes de la est. Český Brod, discurría en dirección recta durante unos 4,5 km, predominantemente a la altura del terreno circundante, parcialmente bordeada de árboles o arbustos. Desde la última señal AB 1-3796, la línea discurría otros unos 600 m en dirección recta, para pasar a continuación a una curva a la derecha trazada en corte, bordeada de vegetación alta (arbustos y árboles), donde aproximadamente a mitad de la curva, en el pk 378,501, se encontraba el lugar de la colisión de los DV, respectivamente el lugar del hallazgo de la primera pieza desprendida del tren Os 9359. Al final de la curva a la derecha, en el pk 378,108, se encontraba la señal de entrada 1S de la est. Český Brod, tras la cual la línea pasaba posteriormente a una curva a la izquierda y seguidamente a una dirección recta. La línea en el lugar de la MU en el sentido de circulación del tren Os 9359 descendía un 6,8 ‰.
+De los resultados de la comprobación de la visibilidad del lugar señalado (el final del tren Nex 60051) en la línea, en la curva a la derecha, en el tramo entre la est. Úvaly y la est. Český Brod en el pk 378,501,
 
 ## Página 25
+
 
 realizada el 17. 7. 2020, se concluyó que la fuente de luz (2 linternas) en el 1. TK era claramente
 visible desde una distancia de 166 m y menor.
@@ -1007,6 +1001,7 @@ en la 1.ª vía de línea y se volvió a encender la señal «Alto».
 
 ## Página 26
 
+
 Entre el tiempo registrado por el archivo TZZ, SZZ y el velocímetro para el mismo suceso puede constar en el registro del archivo de datos una diferencia de aprox. 1 s. Por ejemplo, el paso de un tren junto a una señal puede constar en el archivo del dispositivo de seguridad con un retraso de aprox. 1 s debido al tiempo de reacción del dispositivo, a la diferencia entre la posición del morro del vehículo y del primer eje, etc.
 Del análisis de los datos registrados por el SZZ de la est. Český Brod se constató, entre otros:
 | Hora con corrección (h) | Descripción de los estados seleccionados |
@@ -1030,32 +1025,64 @@ maquinista del tren Nex 60051
 ◦aquella noche estaba despejado, casi sin nubes, crepúsculo vespertino, penumbra, estaba seco, no llovía, la visibilidad era buena en 2 a 3 secciones;
 ◦durante la circulación entre la est. Úvaly y la est. Český Brod le llamó por la red GSM-R el despachante de línea del CDP Praha (nota DI: en realidad le llamó el jefe de estación PPV Kolín),
 
-
 ## Página 27
 
-que en la est. Český Brod hay una avería en la catenaria y hay colectores sin señalizar (Nota DI: faltan allí las señales «Prepárese para bajar el colector») y que el maquinista se detenga de forma que pueda pasar por el punto de avería con el colector bajado;
-◦primero se detuvo junto al expreso detenido en la 0. TK, pero comprobó que no ve la señal de entrada. Por ello soltó el freno para avanzar un poco y ver la señal, y se detuvo. Junto a su HDV se detuvo en la 0. TK un tren de locomotoras;
-◦la visión de la señal no era ideal, por lo que decidió avanzar un poco más para tener la certeza absoluta de que dicha señal le correspondía a él. Soltó el freno de acción directa, el tren comenzó a arrancar por gravedad propia y acto seguido llegó un fuerte golpe por detrás. Tras el golpe tiró instintivamente del freno de emergencia;
-◦se asomó por la ventana de la locomotora y vio que otro tren había embestido por detrás su tren. Por radio comunicó la aparición del MU al CDP Praha (nota DI: en realidad el MU lo comunicó el jefe de estación PPV Kolín). Durante la conversación llegó el maquinista de la locomotora detenida en la 0. TK para comprobar si todo estaba en orden;
-◦ambos maquinistas cogieron los botiquines y fueron a ayudar (a prestar primeros auxilios);
+que en la estación de Český Brod hay una avería en la catenaria y que hay
+despreavisadas maniobras de descenso (Nota DI: faltan allí las señales
+«Prepárese para descender el pantógrafo») y que el maquinista se detenga de
+forma que pueda pasar el punto de avería con el pantógrafo descendido;
+◦primero se detuvo junto al tren rápido parado en la 0. TK, pero comprobó que
+no ve la señal de entrada. Por lo tanto, soltó el freno para avanzar un poco y
+ver la señal, y se detuvo. Junto a su HDV se detuvo en la 0. TK un tren de
+locomotoras;
+◦la visión de la señal no era ideal, así que decidió avanzar un poco más para
+tener la certeza absoluta de que dicha señal le correspondía a él. Soltó el
+freno de mando directo, el tren comenzó a arrancar por su propio peso y
+enseguida llegó un fuerte golpe por detrás.
+Tras el golpe, por reflejo tiró del freno de emergencia;
+◦se asomó por la ventana de la locomotora y vio que otro tren había embestido
+su tren por detrás. Por radio comunicó la aparición de un MU al CDP Praga
+(nota DI: en realidad el MU lo comunicó el jefe de estación de la PPV Kolín).
+Durante la conversación llegó el maquinista de la locomotora parada en la
+0. TK para comprobar si todo estaba en orden;
+◦ambos maquinistas cogieron los botiquines y fueron a ayudar (a prestar
+primeros auxilios);
 ◦esperó la llegada de los órganos investigadores.
-Resumen de las explicaciones aportadas por otros testigos:
-testigo, maquinista del tren Lv 57559
-  – Registro de la explicación aportada DI y Registro oficial DI:
-•
-◦entró en turno descansado y sin estrés;
-◦en la est. Úvaly le llamó por la red GSM-R el despachante de línea del CDP Praha y le comunicó que en la señal de entrada de la est. Český Brod hay una señal sin anunciar «baje el colector» debido a una avería de la catenaria en la estación;
-◦desde la est. Úvaly hasta la est. Český Brod circuló por la 0. TK, con el HDV se detuvo antes de la señal de entrada con la señal «Alto» de forma que tuviera suficiente longitud de vía para el arranque y pudiera pasar por la est. Český Brod sin tracción;
-◦cuando se detuvo en la 0. TK antes de la señal de entrada, en la 1. TK había un tren Nex ČDC con vagones postales, ambos HDV estaban con el morro uno junto al otro;
-◦el tren Nex en la 1. TK estaba marcado con la señal «Fin de tren», que se veía bien;
-◦anochecece, estaba penumbra, parcialmente despejado, seco, la visibilidad era buena;
-◦a los pocos minutos el tren Nex comenzó a arrancar y adelantó el morro del Lv con el HDV y 1 vagón postal. Luego oyó un estruendo y vio cómo frenaba el HDV del tren Nex, le cayeron los colectores y se sacudió la catenaria;
-◦miró por la ventana derecha hacia fuera y vio humo y la unidad 471 embestida en el final del tren Nex ČDC;
-◦acto seguido comunicó la aparición del MU al CDP Praha y junto con el maquinista del tren Nex ČDC corrieron a prestar primeros auxilios a los pasajeros del tren de cercanías;
-◦solicitó al CDP Praha la activación del IZS y esperó la llegada del IZS y de los órganos investigadores.
 
+Resumen de las explicaciones prestadas por otros testigos:
+testigo, maquinista del tren Lv 57559
+  – Registro de la explicación prestada DI y Registro oficial
+•
+registro DI:
+◦entró en servicio descansado y sin estrés;
+◦en la estación de Úvaly le llamó por la red GSM-R el despachista de vía del
+CDP Praga y le comunicó que en la señal de entrada de la estación de Český
+Brod hay una señal despreavisada «descienda el pantógrafo» debido a una
+avería de la catenaria en la estación;
+◦desde la estación de Úvaly hasta la estación de Český Brod circuló por la
+0. TK, con el HDV se detuvo antes de la señal de entrada con la señal «Alto»
+de forma que tuviera suficiente distancia de marcha para el arranque y pudiera
+pasar por la estación de Český Brod sin tracción;
+◦cuando se detuvo en la 0. TK antes de la señal de entrada, en la 1. TK
+estaba parado el tren Nex ČDC con vagones postales, ambos HDV estaban parados
+de frente uno junto al otro;
+◦el tren Nex en la 1. TK estaba marcado con la señal «Fin de tren», que se
+veía bien;
+◦anochece, hay penumbra, parcialmente nublado, seco, la visibilidad era
+buena;
+◦a los pocos minutos el tren Nex comenzó a arrancar y adelantó la cabeza del
+tren Lv con el HDV y 1 vagón postal. Después oyó un ruido y vio cómo frenaba
+el HDV del tren Nex, le cayeron los pantógrafos y se sacudió la catenaria;
+◦miró por la ventana derecha hacia fuera y vio humo y la unidad 471 embestida
+en la parte trasera del tren Nex ČDC;
+◦seguidamente comunicó la aparición de un MU al CDP Praga y junto con el
+maquinista del tren Nex ČDC corrió a prestar primeros auxilios a los
+pasajeros del tren de viajeros;
+◦solicitó al CDP Praga la activación del IZS y esperó la llegada del IZS y de
+los órganos investigadores.
 
 ## Página 28
+
 
 testigo, jefe de tren del tren Os 9359
   – Acta con el empleado:
@@ -1071,25 +1098,24 @@ testigo, jefe de tren del tren Os 9359
 ◦además comunicó la aparición del MU al mando de las tripulaciones de tren y al colega con el que debía relevarse en la est. Kolín;
 ◦posteriormente ayudó a los bomberos a prestar primeros auxilios a los pasajeros y ayudó además con la evacuación de los pasajeros. Cuando ya no quedó ningún pasajero en el tren, se dejó atender y fue trasladado en ambulancia al hospital de Nymburk.
 
-
 ## Página 29
 
-testigo, 
- jefe de estación 
- PPV Kolín
-  – Registro de la explicación aportada DI:
+testigo,
+jefe de estación
+PPV Kolín
+– Registro de declaración prestada al DI:
 •
-◦entró en turno el 14 de 7 de 2020 a las 17:50 h en la est. Kolín (PPV Kolín), descansado, sin estrés ni fatiga;
-◦entró en turno en el puesto de jefe de estación para Kolín norte, a continuación dirigió el tramo Pečky – Velim, y posteriormente a las 21:13 h asumió del CDP Praha la dirección de la circulación del sector en la est. Český Brod, que dirigió hasta las 21:52 h, cuando el CDP Praha retomó la dirección;
-◦ese día se produjo en la est. Český Brod una avería en la catenaria sobre la vía de estación con motivo de la circulación del tren R 989. Como consecuencia de este hecho la circulación se dirigió principalmente por las vías pares y se producían retrasos de trenes;
-◦antes de asumir la dirección de la circulación en la est. Český Brod, fue informado por una compañera del CDP Praha sobre la intervención no prevista en la catenaria en la est. Český Brod, sobre los detalles y el desarrollo de la situación de tráfico actual. A continuación asumió la dirección de la circulación en la est. Český Brod y el desarrollo del turno fue estándar hasta la aparición del MU;
-◦durante su turno del 14 de 7 de 2020 no comunicó con el maquinista del tren Os 9359 ni tampoco pudo comunicar debido al desarrollo de su turno, cuando primero dirigió la circulación (según el horario de 20:00 h a 20:30 h) en el tramo de la est. Kolín norte y según la entrega de 21:13 a 21:52 h dirigió la circulación en la est. Český Brod;
-◦debido a la intervención no prevista en la catenaria, informó al maquinista del tren Nex 60051 sobre la señal faltante «Prepárese para bajar el colector» en la est. Český Brod en el extremo de Úvaly mediante un teléfono GSM-R que es grabado. El maquinista del tren Nex 60051 confirmó la recepción de esta información;
-◦según una conversación posterior (nota DI: que se produjo ya tras la aparición del MU), constató que el tren Nex 60051 se había detenido aún unos 150 m antes de la señal de entrada. Dictando la información sobre la señal faltante «Prepárese para bajar el colector», consideró con ello cumplido el art. 3438 SŽDC D1 y a continuación se dedicó a la dirección de la circulación en la est. Český Brod;
-◦la norma SŽDC D1 indica que el tren debe ser informado de todas las circunstancias excepcionales (p. ej., entrada excepcional en vía ocupada, intervención no prevista en vía, catenaria o dispositivo de seguridad) como más tarde en la señal de entrada;
-◦como necesitaba hacer pasar prioritariamente primero con dos expreso desde Poříčany hasta Praga (nota DI: R 920 y R 972), retuvo el tren Nex 60051 en la señal de entrada a la est. Český Brod. De esta intención informó al maquinista de Nex 60051 y le comunicó que, debido a la avería de la catenaria en la est. Český Brod y a la señal faltante «Prepárese para bajar el colector», se dejara tiempo (nota DI: espacio para el arranque) para luego poder pasar por la estación;
-◦sobre la aparición de este MU y la solicitud de activación del IZS se enteró por el maquinista del tren Nex 60051, que le comunicó que algo había embestido por detrás su tren;
-◦anuló la vía de tren ya establecida para el tren Nex 60051 debido a la comunicación de dicho MU por el maquinista del tren Nex 60051 y a la solicitud de cambiar la señal que autoriza la circulación a la señal «Alto».
+◦ingresó en turno el 14 de julio de 2020 a las 17:50 h en la est. Kolín (PPV Kolín) descansado, sin estrés ni fatiga;
+◦ingresó en turno en el puesto de jefe de estación para Kolín norte, a continuación dirigió el tramo Pečky – Velim, posteriormente a las 21:13 h asumió del CDP Praha la dirección de la circulación de la zona en la est. Český Brod, que dirigió hasta las 21:52 h, momento en el que el CDP Praha asumió la dirección;
+◦ese día se produjo en la est. Český Brod una avería en la línea de contacto sobre la vía de estación con motivo de la circulación del tren R 989. Como consecuencia de este hecho, la dirección de la circulación se realizó principalmente por las vías pares y se producían retrasos en los trenes;
+◦antes de asumir la dirección de la circulación en la est. Český Brod, fue informado por una compañera del CDP Praha sobre la interrupción no prevista de la línea de contacto en la est. Český Brod, sobre los detalles y el desarrollo de la situación de tráfico actual. A continuación asumió la dirección de la circulación en la est. Český Brod y el desarrollo del turno fue estándar hasta la aparición de la MU;
+◦durante su turno del 14 de julio de 2020 no se comunicó con el maquinista del tren Os 9359 ni tampoco pudo comunicarse debido al desarrollo de su turno, cuando primero dirigió la circulación (según el horario de 20:00 h a 20:30 h) en el tramo de la est. Kolín norte y según la entrega de 21:13 a 21:52 h dirigió la circulación en la est. Český Brod;
+◦debido a la interrupción no prevista de la línea de contacto, informó al maquinista del tren Nex 60051 sobre la ausencia de la señal «Prepárese para bajar el colector» en la est. Český Brod en el extremo de la estación de Úvaly mediante un teléfono GSM-R, que es grabado. El maquinista del tren Nex 60051 confirmó la recepción de esta información;
+◦según una conversación posterior (nota del DI: que tuvo lugar solo después de la aparición de la MU), comprobó que el tren Nex 60051 se detuvo aún unos 150 m antes de la señal de entrada. Dictando la información sobre la ausencia de la señal «Prepárese para bajar el colector», consideró con ello cumplido el art. 3438 de las Normas SŽDC D1 y a continuación se ocupó de la dirección de la circulación en la est. Český Brod;
+◦las Normas SŽDC D1 establecen que el tren debe ser informado de todas las incidencias (por ejemplo, entrada excepcional en una vía ocupada, interrupción no prevista de una vía, de la línea de contacto o del dispositivo de seguridad) como tarde en la señal de entrada;
+◦como necesitaba hacer pasar prioritariamente primero a dos trenes rápidos desde Poříčan hacia Praga (nota del DI: R 920 y R 972), retuvo el tren Nex 60051 en la señal de entrada a la est. Český Brod. De esta intención informó al maquinista del Nex 60051 y le comunicó que, debido a la avería de la línea de contacto en la est. Český Brod y a la ausencia de la señal «Prepárese para bajar el colector», se tomara tiempo (nota del DI: espacio para la salida) para luego poder pasar por la estación;
+◦sobre la aparición de esta MU y la solicitud de activación del IZS se enteró por el maquinista del tren Nex 60051, que le comunicó que algo había impactado por detrás en su tren;
+◦anuló el itinerario de tren ya establecido para el tren Nex 60051 debido a la comunicación de la mencionada MU por parte del maquinista del tren Nex 60051 y a la solicitud de cambiar la señal que permite la circulación sobre la señal «Alto».
 
 ## Página 30
 
@@ -1102,46 +1128,47 @@ DI:
 trenes individuales. Poco antes de las 15:00 h entregó las órdenes al maquinista de los
 trenes Os 9337 / Os 9349 / Os 9359;
 ◦ese día entregó muchas órdenes, no hubo tiempo de decirse nada y ya no recuerda en
-qué estado de ánimo estaba el maquinista del tren Os 9359;
-◦no fue informado de la aparición de la MU de daño en la catenaria y el colector del
-HDV del tren R 989 en la estación de Český Brod, por lo que no informó a ningún tren
-de este hecho.
+qué estado de ánimo se encontraba el maquinista del tren Os 9359;
+◦no fue informado de la aparición de un daño MU en la línea de contacto y el colector
+del material rodante del tren R 989 en la estación de Český Brod, por lo que no informó
+a ningún tren de este hecho.
 testigo, jefe de estación de la estación de Praga Masarykovo nádraží
   – Registro de declaración prestada
 •
 DI:
 ◦ingresó en el turno nocturno el día 14. 7. 2020 a las 17:40 h descansado y sin estrés;
-◦tomó el relevo de su compañero, el turno transcurrió sin incidencias;
+◦tomó el turno de su compañero, el turno transcurrió sin incidencias;
 ◦ese día los trenes con destino a la estación de Kolín fueron informados mediante la
 Orden General sobre circulaciones lentas, la obligación de circular con el colector
-replegado y el desembarque de los pasajeros por la puerta 1 del tren en el andén
-provisional de la estación de Poříčany debido a la realización de obras en los andenes;
+replegado y el desembarque de los pasajeros por la puerta 1 del tren hacia el andén
+provisional de la estación de Poříčany debido a la realización de obras de
+construcción en los andenes;
 ◦el maquinista de los trenes Os 9337 / Os 9349 / Os 9359 fue informado por el jefe de
-estación diurno, contra firma, de las órdenes n.º 2720-540, 2720-541 y 2720-533 de
-fecha 14. 7. 2020;
-◦tras incorporarse a su turno se enteró de la avería en la catenaria de la estación de
-Český Brod, como consecuencia de lo cual no se cumplió el horario, los ciclos de los
-trenes y de los maquinistas, y tuvo que asegurar la información a los maquinistas en los
-ciclos alterados, excepto a los trenes de pasajeros que circulaban hacia Kolín vía
-Český Brod, ya que éstos ya habían sido informados;
+estación diurno, contra firma, de las órdenes n.º 2720-540, 2720-541 y 2720-533 del
+día 14. 7. 2020;
+◦tras incorporarse a su turno se enteró de la avería de la línea de contacto en la
+estación de Český Brod, como consecuencia de lo cual no se cumplió el horario, los
+circuitos de material rodante y de maquinistas, y tuvo que asegurar la información a los
+maquinistas en los circuitos alterados, excepto a los trenes de pasajeros que circulaban
+hacia Kolín vía Český Brod, ya que estos ya habían sido informados;
 ◦ese día, durante su turno, no informó al maquinista de los trenes Os 9349 / Os 9359.
 testigo, maquinista del tren Os 9349 desde Kolín
   – Registro de declaración prestada DI:
 •
 ◦el día 14. 7. 2020 ingresó en el turno diurno descansado y sin estrés;
-◦según el cuadro de turnos, debía tomar en la estación de Kolín, tras la llegada del
-tren Os 9349 desde Praga Masarykovo nádraží a las 19:14 h según el horario, la
-unidad delantera 471 019-0, con la que debía continuar como Os 9349 hasta la estación
-de Přelouč;
+◦según el cuadro de turnos, debía tomar en la estación de Kolín, tras la llegada del tren
+Os 9349 desde Praga Masarykovo nádraží a las 19:14 h según el horario, la unidad
+delantera 471 019-0, con la que debía continuar como Os 9349 hasta la estación de
+Přelouč;
 ◦tras la parada del tren Os 9349, subió a su cabina delantera, donde se encontraba el
 maquinista del tren Os 9349 (futuro maquinista del tren Os 9359) realizando las
 operaciones para el desacoplamiento de los dos trenes 471 019-0 y 471 075-2;
-◦durante la entrega del HDV del tren Os 9349, que duró unos 2 minutos, el futuro
-maquinista del tren Os 9359 estaba tranquilo, sonriente, alegre, en ningún caso
+◦durante la entrega del material rodante del tren Os 9349, que duró unos 2 minutos, el
+futuro maquinista del tren Os 9359 estaba tranquilo, sonriente, alegre, en ningún caso
 nervioso o alterado;
 
-
 ## Página 31
+
 
 ◦para este desacoplamiento de los trenes, el maquinista dispone según el plan de
 solo 6 minutos, durante los cuales debe realizar el desacoplamiento de los trenes en
@@ -1193,8 +1220,8 @@ operativa de Pardubice estaba satisfecho con la incorporación a los turnos;
 conflictos y de principios, que sabía mantenerse firme y alzar la voz cuando algo no le
 parecía bien;
 
-
 ## Página 32
+
 
 ◦el marido en junio se sometió a la revisión médica periódica para el desempeño de la
 actividad de maquinista, donde la superó sin problemas;
@@ -1246,8 +1273,8 @@ antes de la salida del tren. No hay tiempo de ir al WC. En caso de resolver prob
 con el tren o de necesidad imperiosa de ir al WC, el maquinista debe informar al
 despachador del CDP de que saldrá con retraso;
 
-
 ## Página 33
+
 
 ◦sin embargo, los trenes llegan a la estación de Kolín con retraso por la gestión del
 tráfico (por ejemplo, por ser adelantados por otros trenes);
@@ -1299,38 +1326,37 @@ ejemplo, una catenaria colgada, es realmente un problema, cuando
 
 ## Página 34
 
-se «se juega con el tiempo» y la posibilidad de prevenir la aparición de MU o una incidencia, y eso significa un retraso en la comunicación de los hechos constatados.
-### 4) Operación de AVV y desbloqueo de la velocidad en modo CB
-◦AVV es una herramienta útil que ayuda al maquinista, especialmente en la circulación de trenes de pasajeros. No obstante, una persona no debería perder el tacto y la rutina a la hora de conducir un tren sin AVV;
-◦el retraso de un tren puede reducirse acortando el tiempo de recorrido, por ejemplo, desactivando el modo CB o también mediante la regulación del tracción proporcional en el HDV 471, en la que se regula la configuración del % de potencia de los motores de tracción para la puesta en marcha y la frenada del tren mediante el freno electrodinámico (EDB) bajo distintas condiciones de adherencia (seco, húmedo, mojado, hojas), el modo CB calcula la distancia de frenada necesaria hasta el punto de detención;
-◦al circular de Pečky a Poříčany, en el preaviso del semáforo de entrada, la señal es Espere una velocidad de 120 km.h-1, pero el fabricante del teclado y del software no resolvió esto en su momento, de modo que, antes incluso de pasar el preaviso del semáforo de entrada, hay que seleccionar en el teclado la señal Espere 100 km.h-1 y seleccionar en el teclado ARR la velocidad de 120 km.h-1. Poco después de pasar el semáforo preaviso del semáforo de entrada de la est. Poříčany, seleccionar en el teclado CB AVV la tecla BO (Sin limitación) y, a partir de ahí, ya no es necesario operar el teclado. El resultado es que el tren circula junto al semáforo de entrada a una velocidad de 120 km.h-1 en lugar de a 100 km.h-1, y con ello, según su estimación, se ahorra unos 1 minuto de recorrido del tren;
-◦1 maquinista ha oído que los maquinistas de ČD en HDV con AVV eluden a menudo las limitaciones del modo CB al circular hacia la señal «Alto» o hacia la «Señal de llamada», pero está convencido de que el sistema es lo que les obliga a ello, porque el gestor de la infraestructura realiza habitualmente en las líneas interrupciones a largo plazo, en las que se circula planificadamente hacia la señal de llamada al tramo con la línea de tracción desconectada y, en muchos casos, de respetarse la velocidad establecida por el sistema AVV (es decir, 30 km.h-1) (nota DI: en las unidades de la serie 471), se producirían frecuentes atascos de trenes en el tramo bajo la línea de contacto aéreo desconectada;
-◦según el mismo maquinista, estas situaciones crean hábitos peligrosos en los maquinistas, que solo intentan prevenir posibles problemas (por ejemplo, el atasco de un tren);
+se «juega con el tiempo» y la posibilidad de prevenir la aparición de MU o de una incidencia, y eso significa un retraso en la comunicación de los hechos constatados.
+### 4) Operación de AVV y desbloqueo de velocidad en modo CB
+◦AVV es una herramienta útil que ayuda al maquinista, especialmente en la circulación de trenes de pasajeros. Sin embargo, no se debería perder el sentido y la rutina al conducir un tren sin AVV;
+◦el retraso de un tren puede reducirse acortando el tiempo de viaje, por ejemplo, desactivando el modo CB o también mediante el ajuste de la tracción proporcional en el HDV 471, en el que se regula la configuración del % de potencia de los motores de tracción para la puesta en marcha y la frenada del tren mediante el freno electrodinámico (EDB) en distintas condiciones de adherencia (seco, húmedo, mojado, hojas); el modo CB calcula la distancia de frenada necesaria hasta el punto de detención;
+◦al circular de Pečky a Poříčany, en el preaviso de la señal de entrada, la señal es Espere velocidad 120 km.h-1, pero el fabricante del teclado y del software no lo resolvió en aquel momento, de modo que, antes de pasar el preaviso de la señal de entrada, hay que seleccionar en el teclado la señal Espere 100 km.h-1 y seleccionar en el teclado ARR la velocidad 120 km.h-1. Poco después de pasar la señal, preaviso de la señal de entrada de la est. Poříčany, seleccionar en el teclado CB AVV la tecla BO (Sin limitación) y, a partir de ahí, ya no es necesario operar el teclado. El resultado es que el tren circula junto a la señal de entrada a 120 km.h-1 en lugar de a 100 km.h-1, y con ello, según su estimación, se ahorra unos 1 minuto de circulación del tren;
+◦1 maquinista ha oído que los maquinistas de ČD en HDV con AVV eluden con frecuencia las limitaciones del modo CB al circular hacia la señal «Alto» o hacia la «Señal de llamada», pero está convencido de que el sistema es lo que les obliga a ello, ya que el gestor de la infraestructura realiza habitualmente en las líneas interrupciones prolongadas, en las que se circula planificadamente hacia la señal de llamada en un tramo con la catenaria desactivada, y en muchos casos, si se respetara la velocidad fijada por el sistema AVV (es decir, 30 km.h-1) (nota DI: en las unidades de la serie 471), se producirían frecuentes atascos de trenes en el tramo bajo la catenaria desactivada;
+◦según el mismo maquinista, estas situaciones crean hábitos peligrosos en los maquinistas, que solo intentan evitar posibles problemas (por ejemplo, el atasco de un tren);
 ◦el mismo maquinista considera que la posibilidad de eludir las protecciones de seguridad del sistema AVV (desactivar la limitación de velocidad) no debería ser posible en absoluto. Y debe ser impedida por el sistema lo antes posible;
-◦algunos maquinistas utilizan en el modo CB, para desbloquear la limitación de velocidad (aumentar la velocidad) del HDV, los botones «BO» + «BO»; en el caso de que sea «necesario cancelar la luz inferior de la señal», se produce su anulación y se permite la circulación a una velocidad superior (la velocidad máxima de la línea). El modo CB, por tanto, recuerda la selección de velocidad anterior introducida con el botón;
-◦el maquinista elude el modo CB (la velocidad máxima permitida de 30 km.h-1), porque de otro modo alargaría el tiempo de recorrido y esta prolongación después debe justificarla por escrito en el Informe del maquinista debido a la comunicación de despacho de los jefes de estación y a los retrasos de los trenes. Se hace habitualmente para que no se produzcan retrasos en los trenes.
-◦1 de los maquinistas declarantes tiene la experiencia de que, al circular en modo CB hacia la señal «Alto» en el semáforo del autobloque, tras introducir la tecla «PŘIV», en la
-
+◦algunos maquinistas utilizan en el modo CB, para desbloquear la limitación de velocidad (aumentar la velocidad) del HDV, los botones «BO» + «BO»; en el caso de que sea «necesario cancelar la luz inferior de la señal», se produce su anulación y se permite circular a una velocidad superior (la velocidad máxima de la línea). El modo CB, en efecto, recuerda la selección de velocidad anterior introducida con el botón;
+◦los maquinistas eluden el modo CB (la velocidad máxima permitida de 30 km.h-1), porque de lo contrario alargarían el tiempo de viaje y esta prolongación después deben justificarla por escrito en el Informe del maquinista debido a las comunicaciones de despacho de los jefes de estación y a los retrasos de los trenes. Se hace habitualmente para que no se produzcan retrasos en los trenes.
+◦1 de los maquinistas que declaran tiene la experiencia de que, al circular en modo CB hacia la señal «Alto» en la señal de bloqueo automático, tras introducir la tecla «PŘIV», en la
 
 ## Página 35
 
-pantalla del semáforo del sistema aparece «30 y REP AV», que es la señal «velocidad 30 y Repetición de aviso»; tras pasar el semáforo en el tramo siguiente del autobloque, no es posible, sin desactivar el modo CB, aumentar la velocidad del tren por encima de 30 km.h-1, ni siquiera en los tramos siguientes del autobloque (nota DI: si vuelve a circular contra la señal «Alto» utilizando la tecla «PŘIV» – señal de llamada). La solución era, antes incluso de pasar el semáforo del autobloque (nota DI: con la señal de llamada), introducir en CB las teclas «PŘIV» + «100 + AV», con lo que se configuró en CB la señal «100 y repetición de aviso». E inmediatamente después, configurar en el teclado ARR la limitación de velocidad a 30 km.h-1 o 40 km.h-1;
-◦en general, el desbloqueo de la limitación de velocidad de 30 km.h-1 al circular en modo CB tras la señal «Alto» en el autobloque, tras pulsar la tecla «PŘIV» (señal de llamada), puede conducir a un acortamiento del tiempo de recorrido (por ejemplo, debido a una interrupción por tensión);
-◦el acortamiento del tiempo de recorrido puede realizarse mediante el desbloqueo de la limitación de velocidad en la entrada a la est. Poříčany desde la est. Pečky hacia la señal de 120 km.h-1 desde la 2. TK a la 2. SK o en un tramo recto y visible en un tramo ocupado;
-◦los maquinistas pulsan el botón «160» en el teclado ARR, porque es poco utilizado y no está gastado y desgastado por el uso, su respuesta es rápida. Así que no es necesario pulsarlo repetidamente, por si no respondiera a la primera pulsación. Un vehículo con el modo CB activo y el mapa de la ruta no circulará más rápido que la velocidad máxima permitida del HDV o la velocidad máxima permitida de la línea;
-◦si el maquinista crea, mediante una combinación inadecuada de botones («BO» + «BO» + «160»), el presupuesto de incumplimiento de las condiciones de circulación según las condiciones de visibilidad (superación de la velocidad de 100 km.h-1 en la línea), aún puede cumplir la no superación de la velocidad máxima permitida de 100 km.h-1 en la línea, por ejemplo:
-1) trasladando la palanca principal de conducción a la posición de aceleración antes de alcanzar la velocidad de 100 km.h-1;
-2) en base a sus conocimientos prácticos y experiencia, puede saber que esta unidad no se pondrá en marcha a una velocidad superior a 100 km.h-1;
-3) utilizando el OJV (optimizador de la circulación del tren = regulador del tiempo de recorrido), que es una función en el modo CB;
-4) limitando el tracción proporcional / la fuerza de tracción de la unidad 471.
-◦tras la aparición de MU en Český Brod el 14. 7. 2020, la Dirección General de ČD emitió la medida del director O18 n.º 21/2020 de fecha 14. 8. 2020, que ordena que, en una situación así (nota DI: señal «Alto» en el semáforo del autobloque), se pulse únicamente el botón PŘIV, que permite la circulación del tren a una velocidad de 30 km.h-1 (en el HDV 471).
+en el sistema de señalización se mostrará" "30 y REPETICIÓN AV" eso es la señal "velocidad 30 y Repetición de aviso", tras pasar la señalización en el siguiente tramo de autobloque no es posible sin desactivar el modo CB aumentar la velocidad del tren por encima de 30 km.h-1, y esto tampoco en los siguientes sectores del autobloque (nota DI: si vuelve a ir contra la señal "Alto" utilizando la tecla "PŘIV" – señal de llamada). La solución era, antes incluso de pasar la señalización del autobloque (nota DI: con la señal de llamada), introducir en CB las teclas "PŘIV" + "100 + AV" con lo que se establecía en CB la señal "100 y repetición de aviso". E inmediatamente después, en el teclado ARR, establecer la limitación de velocidad a 30 km.h-1 o 40 km.h-1;
+◦en general, la desbloqueación de la limitación de velocidad de 30 km.h-1 al circular en modo CB tras la señal "Alto" en el autobloque tras pulsar la tecla "PŘIV" (señal de llamada) puede conducir a la reducción del tiempo de viaje (por ejemplo, debido a una interrupción de tensión);
+◦la reducción del tiempo de viaje se puede realizar mediante la desbloqueación de la limitación de velocidad en la entrada a la est. Poříčany desde la est. Pečky a la señal de 120 km.h-1 desde la 2. TK a la 2. SK o en un tramo recto y visible en un sector ocupado;
+◦los maquinistas pulsan el botón "160" en el teclado ARR, porque es poco utilizado y no está gastado y desgastado por el uso, su respuesta es rápida. Por lo tanto, no es necesario pulsarlo repetidamente, por si no respondiera a la primera pulsación. El vehículo con el modo CB activo y el mapa de ruta no circulará más rápido que la velocidad máxima permitida de la HDV o la velocidad máxima permitida de la vía;
+◦si el maquinista crea una combinación inadecuada de botones ("BO" + "BO" + "160") que presuponga el incumplimiento de las condiciones de circulación según las condiciones de visibilidad (exceso de velocidad de 100 km.h-1 en la vía), aún puede cumplir con no superar la velocidad máxima permitida de 100 km.h-1 en la vía, por ejemplo:
+1) moviendo la palanca principal de conducción a la posición de inercia antes de alcanzar la velocidad de 100 km.h-1;
+2) en base a sus conocimientos prácticos y experiencia, puede saber que esta unidad no alcanzará una velocidad superior a 100 km.h-1;
+3) utilizando el OJV (optimizador de viaje del tren = regulador del tiempo de viaje), que es una función en el modo CB;
+4) limitando el esfuerzo de tracción relativo / la fuerza de tracción de la unidad 471.
+◦tras la aparición de MU en Český Brod del 14 de julio de 2020, la GŘ ČD emitió la medida del director O18 n.º 21/2020 de fecha 14 de agosto de 2020, que ordena que en una situación de este tipo (nota DI: señal "Alto" en la señalización del autobloque) se pulse únicamente el botón PŘIV, que permite la circulación del tren a una velocidad de 30 km.h-1 (en la HDV 471).
 ### 5) Presión de los despachadores sobre los maquinistas
-◦a veces los despachadores de CDP llaman a los maquinistas y les apremian a una circulación más rápida, porque detrás de ellos hay otro tren más rápido;
-◦a veces los despachadores de CDP presionan para que aceleren su actividad (por ejemplo, las maniobras antes de la salida del tren) o la circulación del tren, porque detrás de él circula otro tren más rápido;
-◦los despachadores de CDP comunicaban habitualmente a los maquinistas de trenes de pasajeros, al ser adelantados por un tren más rápido, que aceleraran el embarque y desembarque de los pasajeros, las maniobras antes de la salida del tren y, con el consentimiento para el movimiento, se acercaran al semáforo de salida para que el «tren de pasajeros» saliera rápidamente, no se detuviera y no retrasara en la salida;
-
+◦a veces los despachadores CDP llaman a los maquinistas y los apremian a una circulación más ágil, porque detrás de ellos hay otro tren más rápido;
+◦a veces los despachadores CDP presionan para que aceleren su actividad (por ejemplo, las maniobras antes de la salida del tren) o la circulación del tren, porque detrás de él circula otro tren más rápido;
+◦los despachadores CDP informaban habitualmente a los maquinistas de los trenes de pasajeros al ser adelantados por un tren más rápido, para que aceleraran el embarque y desembarque de los pasajeros, las maniobras antes de la salida del tren y, con el consentimiento para el cambio de vía, se acercaran a la señal de salida para que el "tren de pasajeros" saliera rápidamente, no se detuviera y no retrasara la salida;
 
 ## Página 36
+
 
 ◦en general, los despachadores de CDP presionan a los maquinistas para que no retrasen innecesariamente la circulación y los trenes más rápidos, lo que se redujo notablemente tras el accidente en Český Brod el 14. 7. 2020;
 ◦como problemáticos parecen a los maquinistas las puestas en marcha de los trenes desde el andén contra la señal «Alto» en el semáforo de salida, a lo que son incitados e incluso presionados por los despachadores de CDP Praha, debido a los adelantamientos por trenes más rápidos y a la aceleración de la circulación en la línea. Los despachadores de CDP no utilizan para este movimiento (acercamiento) hacia el semáforo de salida la formulación verbal vinculante o los requisitos establecidos para el movimiento por la norma SŽDC D1. Sin embargo, esta aceleración de la circulación en el orden de unos pocos segundos (aproximadamente 0,5 minutos) no tiene justificación.
@@ -1356,8 +1382,8 @@ que circulaba cerca del lugar del MU se concluyó:
 ◦el tren Nex 60051 en la 1. TK estaba marcado con las señales «Inicio de tren» y «Fin de tren»;
 ◦el tren Os 9359 en la 1. TK estaba marcado con las señales «Inicio de tren» y «Fin de tren».
 
-
 ## Página 37
+
 
 ### 3.2 Descripción fáctica del suceso
 ### 3.2.1 Secuencia de hechos que condujeron al suceso extraordinario
@@ -1385,6 +1411,7 @@ A las 20:57
    h   partió el tren Nex 60051 de la est. Praha-Malešice.
 
 ## Página 38
+
 
 A las 21:00:15 h
    registro (inicio de sesión) del tren Os 9359 en la red GSM-R. No se produjo ninguna comunicación posterior a través de GSM-R.
@@ -1417,8 +1444,8 @@ A las 21:27:
  56
    h   el jefe de estación de PPV Kolín informó a través de GSM-R al maquinista del tren Lv 57559, que se aproximaba a la est. Český Brod desde la est. Úvaly por la 0. TK, de la avería en la línea de contacto en la est. Český Brod y de la señal no anunciada «Prepárese para bajar el pantógrafo» en la entrada a la est. Český Brod.
 
-
 ## Página 39
+
 
 ### Transcripción fonética de las grabaciones de sonido seleccionadas del dispositivo ReDat relacionadas con el suceso del accidente:
 | Archivo: 2020 _07 _14 _21 -21 -27 -56 _2 .18 _1073 _LABEL _KOLÍN _DT _PPV _V -U .wav |  |
@@ -1452,58 +1479,44 @@ A las 21:34:36 h el tren Os 9359 circulaba a una velocidad de 8 km.h-1; el maqui
 A las 21:34:46 h la cabeza del tren Os 9359, a una velocidad de 32 km.h-1, pasó la señal AB 1-3796; en la NO se apagó la luz roja y a partir de ese momento ya no se transmitió el código de la señal. (967 m antes de la UM).
 A las 21:34:54 h a una velocidad de 54 km.h-1 el maquinista del tren Os 9359 atendió el botón de vigilancia (872 m antes de la UM).
 
-
 ## Página 40
 
-A las 
- 21:34:5
- 6 h
-   según la indicación de TZZ, el final del tren Os 9359 pasó la última señal AB 1-3796 (con la señal «Alto») en la 1. TK antes de la señal de entrada 1S a la est. Český Brod, y todo el tren entró en el bloque 1T02, ocupado por el tren Nex 60051 (en la señal de entrada 1S a la est. Český Brod había la señal «Alto»).
-A las 21:3
- 5 h
-   el tren Nex 60051 se puso en marcha a una velocidad de 2 – 3 km.h-1; en la señal 1S de la est. Český Brod había la señal «Alto».
-A las 21:35:11
-   h   a una velocidad de 87 km.h-1 el maquinista del tren Os 9359 atendió el botón de vigilancia (535 m antes de la UM).
-A las 21:3
- 5  : 17
-   h   con la entrada del tren Os 9359 en una curva a la derecha a una velocidad de 87 km.h-1, las condiciones de visibilidad para el maquinista se redujeron significativamente, pero el maquinista no ajustó la velocidad (véase el punto 4.1.1 de esta ZZ).
-A las 21:3
- 5  : 18
-   h   se produjo un descenso de la velocidad a 86 km.h-1; simultáneamente, el modo CB del tren Os 9359 redujo la presión en el HP a 4,38 bar (367 m antes de la UM).
-A las 21:3
- 5  : 27
-   h   a una velocidad de 78 km.h-1, según la verificación de visibilidad, era posible ver (la señal) «Fin de tren» del Nex 60051 (166 m antes de la UM).
-A las 21:3
- 5  : 29
-   h   a una velocidad de 75 km.h-1 el maquinista del tren Os 9359 atendió el botón de vigilancia (118 m antes de la UM).
-A las 
- 21:3
- 5  : 32
-   h   a una velocidad de 71 km.h-1 el modo CB del tren Os 9359 redujo la presión en el HP a 4,17 bar (57 m antes de la UM).
-A las 21:35:
- 35
-   h   se produjo la UM; el tren Os 9359, a una velocidad de 66 km.h-1, chocó contra el tren Nex 60051.
-A las 21:3
- 5 h   el tren Nex 60051 circulaba antes del impacto a una velocidad de 2 – 3 km.h-1 hacia la señal 1S de la est. Český Brod; se registró un salto y un aumento de la línea del registrador de velocidad, se produjo la UM.
-### 3.2.2 Secuencia de hechos desde la producción de la situación excepcional hasta la finalización de las acciones de los servicios de emergencia
-## 14.
-##   7.
-##    2020
-21:35:35 h
-producción de la UM;
-21:35:54 h
-según la indicación de SZZ, la cabeza del tren R 972 (con destino a Praga) pasó la señal L2 (junto al andén 2 de la est. Český Brod);
-21:36:10 h
-según el registro de SZZ, el jefe de estación de PPV Kolín introdujo la orden de establecimiento de la vía para el tren Nex 60051;
-21:36:19 h hasta
-se estaba produciendo una conversación (inicio de la comunicación a las 21:36:20 h), en la que el maquinista
-21:37:25 h
-del tren Nex 60051 comunicó a través de GSM-R al jefe de estación de PPV Kolín la producción de la UM, solicitó la activación de la IZS y la anulación de la vía establecida para el tren Nex 60051;
-21:36:25 h
-según la indicación de TZZ, la cabeza del tren R 972 (circulando en dirección a Praga) pasó la señal de entrada 2S para el sentido de circulación opuesto (a la altura de la señal 1S) y el tren entró en la 2. TK dirección Úvaly;
+Ve 21:34:56 h dle indikace TZZ konec vlaku Os 9359 minul poslední návěstidlo AB 1-3796 (s návěstí „Stůj“) v 1. TK před vjezdovým návěstidlem 1S do žst. Český Brod a celý vlak vjel do oddílu 1T02 obsazeného vlakem Nex 60051 (na vjezdovém návěstidle 1S do žst. Český Brod byla návěst „Stůj“).
 
+Ve 21:35 h se vlak Nex 60051 rozjel na rychlost 2 – 3 km.h-1, na návěstidle 1S žst. Český Brod byla návěst „Stůj“.
+
+Ve 21:35:11 h v rychlosti 87 km.h-1 strojvedoucí vlaku Os 9359 obsloužil tlačítko bdělosti (535 m před MU).
+
+Ve 21:35:17 h vjezdem vlaku Os 9359 do pravostranného oblouku rychlostí 87 km.h-1 se rozhledové poměry pro strojvedoucího významně snížily, strojvedoucí však rychlost neupravil (viz bod 4.1.1 této ZZ).
+
+Ve 21:35:18 h došlo k poklesu rychlosti na 86 km.h-1, současně režim CB vlaku Os 9359 snížil tlak v HP na 4,38 bar (367 m před MU).
+
+Ve 21:35:27 h v rychlosti 78 km.h-1 bylo možné dle ověření viditelnosti vidět (návěst) „Konec vlaku“ Nex 60051 (166 m před MU).
+
+Ve 21:35:29 h v rychlosti 75 km.h-1 strojvedoucí vlaku Os 9359 obsloužil tlačítko bdělosti (118 m před MU).
+
+Ve 21:35:32 h v rychlosti 71 km.h-1 režim CB vlaku Os 9359 snížil tlak v HP na 4,17 bar, (57 m před MU).
+
+Ve 21:35:35 h vznik MU, vlak Os 9359 v rychlosti 66 km.h-1 narazil do vlaku Nex 60051.
+
+Ve 21:35 h vlak Nex 60051 jel před nárazem rychlostí 2 – 3 km.h-1 k návěstidlu 1S žst. Český Brod, bylo registrováno poskočení a zesílení čáry pisátka registrace rychlosti, vznik MU.
+
+### 3.2.2 Sled skutečností od vzniku mimořádné události do ukončení akcí záchranných služeb
+
+## 14. 7. 2020
+
+21:35:35 h vznik MU;
+
+21:35:54 h dle indikace SZZ čelo vlaku R 972 (do Prahy) minulo návěstidlo L2 (u 2. nástupiště žst. Český Brod);
+
+21:36:10 h dle záznamu SZZ výpravčí PPV Kolín zadal stavění vlakové cesty pro vlak Nex 60051;
+
+21:36:19 h až 21:37:25 h probíhal hovor (ve 21:36:20 h začátek komunikace), kdy strojvedoucí vlaku Nex 60051 přes GSM-R oznámil výpravčímu PPV Kolín vznik MU, požádal o aktivaci IZS a zrušení vlakové cesty postavené pro vlak Nex 60051;
+
+21:36:25 h dle indikace TZZ čelo vlaku R 972 (jedoucí směrem do Prahy) minulo vjezdové návěstidlo 2S pro opačný směr jízdy (v úrovni návěstidla 1S) a vlak vjel na 2. TK směr Úvaly;
 
 ## Página 41
+
 
 21:36:29 h
 según la indicación de TZZ, el final del tren R 972 pasó la señal de entrada 2S para el sentido de circulación opuesto y todo el tren entró en la 2. TK dirección Úvaly. El maquinista del tren R 972, por tanto, pasó por el lugar de producción de la UM sin duda alguna ya después de la colisión; no obstante, no comunicó la UM a nadie. La investigación llevada a cabo llevó a la DI a la conclusión de que, al pasar junto al lugar de la colisión, el maquinista no tuvo por qué haberse percatado de la misma, ya que su visión del lugar de la colisión estaba limitada por la posición del tren Lv 57559 en la 0. TK, véase la Fig. n.º 4. El tren R 972 circulaba a una velocidad de unos 120 km.h-1, por lo que su maquinista tuvo a continuación unos 1,8 segundos de visión del lugar de la colisión, si miraba justo a la izquierda de la 2. TK;
@@ -1549,36 +1562,37 @@ reanudación completa de la explotación (explotación reanudada también en la 
 
 ## Página 42
 
-El plan de emergencias (IZS) fue activado dada la naturaleza de la emergencia (MU). El plan de emergencias fue activado a las 21:37 h, es decir, 2 minutos después de la creación de la emergencia (MU), por la patrulla de la Policía Municipal (MP) de Český Brod.
-En el lugar de la emergencia (MU) intervinieron los siguientes servicios del sistema de emergencias (IZS):
-MP Český Brod;
+El Plan de Servicios de Emergencia (IZS) se activó dada la naturaleza del accidente ferroviario (MU). El Plan de Servicios de Emergencia (IZS) fue activado a las 21:37 h, es decir, 2 minutos después de la producción del accidente ferroviario (MU), por la patrulla de la Policía Municipal (MP) de Český Brod.
+En el lugar del accidente ferroviario (MU) intervinieron los siguientes servicios del Servicio de Emergencia (IZS):
+Policía Municipal (MP) Český Brod;
 •
 Policía de la República Checa (Policie ČR);
 •
-Servicio de emergencias médicas (ZZS) de la Región de Bohemia Central y de la ciudad de Praga;
+Servicio de Emergencia Sanitaria (ZZS) de la Región de Bohemia Central y de la ciudad de Praga;
 •
-Servicio aéreo de rescate, base de Praga y base de České Budějovice;
+Servicio Aéreo de Rescate, base de Praga y base de České Budějovice;
 •
-Servicio aéreo de la Policía de la República Checa;
+Servicio Aéreo de la Policía de la República Checa;
 •
-Bomberos (HZS) de la Administración de Infraestructura Ferroviaria (Správa železnic), unidades de intervención JPO de Praga y Nymburk;
+Bomberos (HZS) de la Administración de Infraestructura Ferroviaria (Správy železnic), unidades de respuesta de Praga y Nymburk;
 •
-unidades de bomberos de la República Checa (HZS ČR);
+unidades de Bomberos de la República Checa (HZS ČR);
 •
 unidades de cuerpos de bomberos voluntarios.
 •
-### 4 ANÁLISIS DEL SUCESO
+
+### 4 ANÁLISIS DEL ACCIDENTE
 ### 4.1 Tareas y obligaciones
 ### 4.1.1 Transportistas y gestores de infraestructura
 ### Transportista ČD
-El transportista está obligado a garantizar que el maquinista conduzca el vehículo ferroviario (DV) únicamente desde la posición desde la que exista la mejor visibilidad, normalmente desde la cabina delantera del maquinista en el sentido de la marcha, que desde la cabina de mando del vehículo ferroviario observe la vía y las señales, que actúe conforme a los hechos constatados y que durante la marcha no supere la velocidad máxima permitida establecida en el horario de circulación o la velocidad limitada ordenada. Ante la señal de bloqueo AB con la indicación «Alto» («Stůj»), el maquinista debe detenerse de acuerdo con la normativa legal y reglamentaria interna vigente y, a continuación, puede continuar la marcha hacia la señal siguiente según las condiciones de visibilidad, a una velocidad máxima de 100 km·h-1, pero simultáneamente a una velocidad tal que pueda detenerse en la distancia a la que el maquinista ve, debiendo el maquinista detener el tren antes de vehículos detenidos o que circulen en el mismo sentido en la misma vía de circulación.
+El transportista está obligado a garantizar que el maquinista conduzca el vehículo ferroviario (DV) únicamente desde la posición desde la que exista la mejor visibilidad, normalmente desde la cabina delantera del maquinista en el sentido de la marcha, que desde la cabina de mando del vehículo ferroviario (DV) observe la vía y las señales, que actúe conforme a los hechos constatados y que durante la marcha no supere la velocidad máxima permitida establecida en el horario de circulación o la velocidad limitada ordenada. Ante la señal de bloqueo AB con la indicación «Alto» («Stůj»), el maquinista debe, de acuerdo con la normativa legal y reglamentaria interna vigente, detenerse y, a continuación, puede continuar la marcha hacia la señal siguiente según las condiciones de visibilidad, a una velocidad máxima de 100 km·h-1, pero simultáneamente a una velocidad no superior a la que le permita detenerse en la distancia a la que el maquinista ve, debiendo el maquinista detener el tren antes de vehículos detenidos o que circulen en el mismo sentido en la misma vía de circulación.
 
-El maquinista del tren Os 9359 conducía el vehículo ferroviario (DV) desde la posición desde la que existía la mejor visibilidad. Ante la última señal de bloqueo AB 1-3796 en el km 379,480 con la indicación «Alto» («Stůj») (de significado permisivo) se detuvo, introdujo en el teclado del AVV las instrucciones para el modo CB y a continuación se puso en marcha.
-Concretamente, el maquinista del tren Os 9359 pulsó en el teclado el botón PŘIV (señal de llamada), con lo que en el modo CB se estableció el indicador «Velocidad 30 km·h-1 y advertencia repetida». Esta operación fue una reacción totalmente correcta ante la señal AB 1-3796 (km 379,480) con la indicación «Alto» («Stůj»). No obstante, a continuación, el maquinista del tren Os 9359, antes incluso de pasar dicha señal con la indicación «Alto» («Stůj»), pulsó en el teclado el botón BO (sin limitación) y el botón 160 (selección de la velocidad de 160 km·h-1). Posteriormente, volvió a pulsar el botón BO 2 veces más. Con el uso repetido del botón BO se anuló la limitación de velocidad a 30 km·h-1. En cuanto a la última operación del teclado AVV por parte del maquinista del tren Os 9359, no es evidente si pudo tratarse de una operación consciente e intencionada o ya de una operación rutinaria y frecuentemente repetida (mal hábito). Debido a la longitud del bloque, durante la marcha hacia la señal siguiente no era posible que el tren superase la velocidad máxima permitida de 100 km·h-1; esta experiencia también pudo influir en la actuación del maquinista del tren Os 9359.
-Durante la marcha siguió la operación repetida del botón de vigilancia, sin que sea posible demostrar desde cuándo y en qué medida pudo manifestarse una indisposición sanitaria repentina (un evento cardíaco
-
+El maquinista del tren Os 9359 condujo el vehículo ferroviario (DV) desde la posición desde la que existía la mejor visibilidad. Ante la última señal de bloqueo AB 1-3796 en el km 379,480 con la indicación «Alto» («Stůj») (de significado permisivo) se detuvo, introdujo en el teclado del AVV las instrucciones para el modo CB y a continuación se puso en marcha.
+Concretamente, el maquinista del tren Os 9359 pulsó en el teclado el botón PŘIV (señal de llamada), con lo que en el modo CB se estableció el carácter «Velocidad 30 km·h-1 y aviso repetido». Esta maniobra fue una reacción totalmente correcta ante la señal AB 1-3796 (km 379,480) con la indicación «Alto» («Stůj»). No obstante, a continuación, el maquinista del tren Os 9359, antes incluso de pasar dicha señal con la indicación «Alto» («Stůj»), pulsó en el teclado el botón BO (sin limitación) y el botón 160 (selección de velocidad de 160 km·h-1). Posteriormente, pulsó el botón BO otras 2 veces. Con el uso repetido del botón BO se anuló la limitación de velocidad a 30 km·h-1. En cuanto a la última operación del teclado AVV por parte del maquinista del tren Os 9359, no es evidente si pudo tratarse de una operación consciente e intencionada o ya de una operación rutinaria y frecuentemente repetida (mal hábito). Debido a la longitud del sector, durante la marcha hacia la señal siguiente no era posible que el tren superase la velocidad máxima permitida de 100 km·h-1; esta experiencia también pudo influir en la actuación del maquinista del tren Os 9359.
+Durante la marcha siguió la operación repetida del botón de vigilia, sin que sea posible demostrar desde cuándo y en qué medida pudo manifestarse la indisposición médica repentina (repentina cardíaca
 
 ## Página 43
+
 
 repentino) con una influencia repentina posible en la capacidad de percepción y actuación del maquinista (para más detalles sobre la indisposición, véase el punto 4.3.1 de la presente ZZ). La marcha posterior del tren, incluida la frenada, fue controlada únicamente por el modo CB hasta la colisión con el final del tren de mercancías Nex 60051 en el km 378,501. El modo CB frenaba el tren de forma que se detuviese antes de la señal de entrada 1S de la estación de Český Brod en el km 378,108. Una descripción más detallada del tiempo y del orden de las operaciones se indica en los puntos 3.1.7 y 3.2.1 de la presente ZZ.
 Por tanto, el maquinista, mediante la operación de los elementos de control, puso el tren en un estado inicial en el que podía circular a una velocidad superior a los 30 km·h-1 establecidos automáticamente por el modo CB tras el uso del botón PŘIV (señales de llamada). Esto por sí solo no tendría por qué haber significado la creación de la emergencia (MU), si el maquinista hubiese corregido a continuación dicha operación, p. ej., reduciendo oportunamente la velocidad. Dada la visibilidad en la curva a la derecha, que fue constatada durante la verificación de la visibilidad, y la característica del efecto frenante de las unidades de la serie 471, se calculó que en la curva a la derecha en cuestión (es decir, aproximadamente desde el km 378,9) el tren debería haber circulado a una velocidad máxima de aproximadamente 60 km·h-1 para que, teniendo en cuenta el tiempo de reacción del maquinista (1,34 s)1, la respuesta de los frenos (1 s)2 y la puesta en marcha del efecto frenante (2 s)2, con frenado de acción rápida (desaceleración de frenado de 1,25 m·s-2 calculada según el Protocolo de la prueba de circulación de la unidad 471.075-2) se detuviese antes de otro tren en la vía a 166 m (longitud del campo de visibilidad constatada durante la verificación de la visibilidad) o menos. Sin embargo, en la realidad, en la curva en cuestión (es decir, aproximadamente desde el km 378,9) el tren circulaba a una velocidad de 87 km·h-1, y por tanto no se cumplió la marcha según las condiciones de visibilidad en el sentido de los artículos 65 y 66 de la norma SŽDC D1.
@@ -1591,8 +1605,8 @@ BRADÁČ, A., KREJČÍŘ, P., LUKAŠÍK, L., OŠLEJŠEK, J., PLCH, J.: Soudní i
 2
 En esta situación hipotética aún no se habría producido el frenado automático por el modo CB, porque el modo CB en el lugar de la colisión redujo realmente la velocidad del tren a unos 66 km·h-1, por lo que no existe motivo para que el modo CB frene un tren que circula a 60 km·h-1 ya a una distancia de 166 m antes del lugar de la colisión.
 
-
 ## Página 44
+
 
 En respuesta a los hechos constatados, la Inspección Ferroviaria (Drážní inspekce) procedió a emitir las recomendaciones de seguridad indicadas en el punto 6 de la presente ZZ, consistentes en la limitación de velocidad durante la marcha según las condiciones de visibilidad de modo que no se permitiese superar la velocidad de 40 km·h-1 si en la vía con transmisión de código del freno automático de tren (transmisión de señales de los señales principales o de señales de las señales de aproximación independientes) no se garantiza su transmisión al repetidor de señal del vehículo ferroviario de mando.
 El límite superior de velocidad establecido simultáneamente durante la marcha según las condiciones de visibilidad asciende a 100 km·h-1, lo que sin embargo no significa que sea necesario utilizar necesariamente siempre dicho límite superior. Por el contrario, la velocidad debe adaptarse siempre precisamente a las condiciones de visibilidad, de modo que el maquinista sea capaz de detener el tren o la maniobra antes de vehículos detenidos o que circulen en el mismo sentido en la misma vía de circulación y, en la medida de lo posible, también antes de otro obstáculo que amenace su marcha, incluidos los vehículos que circulen en sentido contrario. No obstante, la situación de ausencia de código VZ en una vía codificada debe seguir percibiéndose con un grado más de gravedad, ya que en tal situación el maquinista debe presuponer en la vía de circulación vehículos o, en su caso, cualquier otro obstáculo.
@@ -1613,6 +1627,7 @@ El transportista está, entre otras obligaciones, obligado a garantizar que en l
 Para el tren Os 9359 (y también en los trenes anteriores), en los sistemas de información de la Administración de Infraestructura Ferroviaria (Správa železnic) figuraba como contacto con el maquinista: GSM-R para el contacto básico y un número de teléfono incorrecto para el contacto de emergencia (el número del teléfono móvil profesional del maquinista). El maquinista del tren Os 9359 olvidó ese día el teléfono móvil profesional en Pardubice, y por tanto no era posible llamarle en él. La Inspección Ferroviaria, en el marco de la investigación
 
 ## Página 45
+
 
 no comprobaba si el maquinista había informado a un empleado responsable del transportista ČD sobre esta situación, es decir, si esta situación era conocida por dicho empleado; sin embargo, es indudable que la comunicación de emergencia en el tren Os 9359 no estaba operativa (correcta), lo que constituye una falta general por parte del transportista, quien, según el artículo 20.2 de la norma SŽDC Is10, tiene establecido hacer constar en el mensaje "Tren preparado" la comunicación básica y la de emergencia. Según el artículo 20.8 de la norma SŽDC Is10, el transportista es responsable de la corrección material del mensaje Tren preparado. Además, el transportista ČD asignó al tren Os 9359 (Praha Masarykovo nádraží – Řečany nad Labem) DV cuyos medios técnicos no estaban conectados correctamente para garantizar, sobre la base de la orden emitida en la red de radio GSM-R, la realización de la parada automática del tren, a pesar de que en todo su recorrido existía comunicación básica de radio en la red GSM-R, con lo que incumplió la disposición del § 71 apartado 5 letra a) del decreto nº 173/1995 Sb.
 ### Hallazgos:
@@ -1636,8 +1651,8 @@ art. 20.8 de la normativa interna SŽDC Is10:
 ### con la aparición de la MU.
 El transportista ČDC asignó al tren Nex 60051 (Praha-Malešice – Ostrava hl. n.) un HDV cuyos medios técnicos no estaban conectados correctamente para garantizar, sobre la base de la orden emitida en la red de radio GSM-R, la realización de la parada automática del tren, a pesar de que en todo su
 
-
 ## Página 46
+
 
 recorrido existía comunicación básica de radio en la red GSM-R, con lo que incumplió la disposición del § 71 apartado 5 letra a) del decreto nº 173/1995 Sb.;
 ### Hallazgos:
@@ -1660,8 +1675,8 @@ El jefe de estación PPV Kolín, en contra del art. 3662 SŽDC D1, permitió la 
 Por las faltas mencionadas anteriormente se incumplieron las obligaciones generales del explotador de la línea SŽ establecidas en la disposición del § 22 apartado 1 letra a) de la ley nº 266/1994 Sb.
 La deficiencia mencionada anteriormente respecto a la información a los maquinistas mediante órdenes escritas fue registrada 18 veces el 14. 7. 2020 durante la gestión desde CDP Praha de 19:00 a 21:13 h por el dispositivo de registro, y durante la gestión desde PPV Kolín fue registrada un total de 4 veces de 21:13 a 21:35 h (incluyendo los trenes Nex 60051 y Lv 57559). La excepción fue la información al Pv mediante orden al maquinista del tren Ex 517 (Pendolino). Los artículos 3247, 3281 letra b), 3438, 3659 y 3660 letra c) SŽDC D1 fueron también infringidos por los maquinistas de los trenes en cuestión, quienes entraron en la est. Český Brod sin haber sido debidamente informados mediante una orden escrita. Con ello se incumplieron las obligaciones generales de estos transportistas establecidas en la disposición del § 35 apartado 1 letra a) y g) de la ley
 
-
 ## Página 47
+
 
 nº 266/1994 Sb. Estos maquinistas no señalaron las faltas de las personas que gestionan la explotación en el tramo en cuestión y se conformaron únicamente con la información sobre la ausencia de señales con la señal "Prepárese para bajar el pantógrafo". No puede, sin embargo, obviarse la diferencia de que las obligaciones en cuestión están impuestas a las personas que gestionan el transporte ferroviario, y estas personas tienen por tanto un papel activo en su cumplimiento, mientras que los maquinistas tienen únicamente el conocimiento de las obligaciones en cuestión, y por tanto su papel es únicamente pasivo, cuando toleran el incumplimiento de estas obligaciones.
 Los transportistas afectados fueron advertidos por escrito por parte de la Inspección Ferroviaria sobre el incumplimiento de las normas por parte de sus empleados.
@@ -1693,8 +1708,8 @@ art. 3438 de la normativa interna SŽDC D1:
 •
 "Si no es posible colocar la señal Prepárese para cortar la corriente o Prepárese para bajar el pantógrafo (ni siquiera complementada con la señal Distancia acortada), esta circunstancia debe hacerse constar en el TTP o los maquinistas de los trenes (PMD) deben ser informados mediante orden escrita;";
 
-
 ## Página 48
+
 
 art. 3659 de la normativa interna SŽDC D1:
 •
@@ -1724,6 +1739,7 @@ La función de la Agencia Ferroviaria de la Unión Europea es, además de garant
 
 ## Página 49
 
+
 de revocar las autorizaciones que haya emitido. La Agencia evalúa además los proyectos de normativa nacional, etc.
 En la investigación no se detectó incumplimiento de las funciones y obligaciones del organismo nacional de seguridad y de la Agencia Ferroviaria de la Unión Europea.
 ### 4.1.5 Organismos notificados, organismos designados y organismos de evaluación de riesgos
@@ -1742,8 +1758,8 @@ En la investigación no se detectaron factores relacionados con los fabricantes 
 ### 4.2.4 Factores o consecuencias derivados del mantenimiento y la modificación del material rodante o de los equipos técnicos
 En la investigación no se detectaron factores derivados del mantenimiento y la modificación del material rodante o de los equipos técnicos.
 
-
 ## Página 50
+
 
 ### 4.2.5 Factores o consecuencias relacionados con el organismo responsable del mantenimiento del material rodante, los talleres de mantenimiento y otros prestadores de servicios de mantenimiento
 En la investigación no se detectaron factores relacionados con el organismo responsable del mantenimiento del material rodante, los talleres de mantenimiento y otros prestadores de servicios de mantenimiento.
@@ -1762,8 +1778,8 @@ En virtud del Informe Pericial del ámbito de la sanidad, rama de medicina foren
 2. «… se realizó un examen inmunohistoquímico del miocardio…, desde el punto de vista de la medicina forense cabe admitir que al accidente pudo haber precedido una súbita indisposición de salud del perjudicado (un episodio cardíaco súbito) con una posible influencia súbita en la capacidad de percepción y actuación del mencionado.»;
 3. a petición de la DI, el autor del informe pericial añadió la comunicación: «que se trata claramente de un episodio agudo súbito, excluyendo de forma inequívoca la acción a largo plazo de alguna enfermedad, ya sea tratada o no tratada»;
 
-
 ## Página 51
+
 
 4. el resultado del examen toxicológico para la presencia de alcohol (etanol) u otras sustancias psicotrópicas que afectan a la conducción de vehículos fue negativo.
 La actuación del maquinista del tren Os 9359 al manipular los elementos de control (véase el punto 4.1.1 de la presente II) corresponde a los síntomas generalmente descritos de un episodio cardíaco, como pueden ser, por ejemplo, mareos, náuseas, dificultad respiratoria y, en los casos más graves, alteración de la conciencia, que puede ser síntoma de parada cardíaca. A veces un episodio cardíaco puede manifestarse incluso como muerte súbita, sin que la precedieran ningún tipo de síntomas de aviso.
@@ -1790,8 +1806,8 @@ La dedicación temporal de algunas operaciones según la comunicación de los ma
 4) acoplamiento de convoyes de unidades de la serie 471 aprox. 2 – 3 minutos;
 5) ÚZB incluido ZBHV dura 10 minutos.
 
-
 ## Página 52
+
 
 Nombre de la acción
 Tiempo según
@@ -1913,14 +1929,13 @@ Para evaluar correctamente la dedicación temporal de las maniobras es necesario
 
 ## Página 53
 
-De sus comunicaciones se puede deducir que el tiempo previsto de maniobra de retorno de Os 9349 / Os 9354 (19:14 /19:20 h) en la est. Kolín, de 6 minutos de duración (en un caso incluida la separación de composiciones de las unidades de la serie 471), es bastante corto y, en caso de complicaciones, el retraso se traslada al tren de retorno.
-DI realizó una verificación de los hechos el 1. 2. 2021 en el retorno del tren Os 9333 / Os 9338; el tiempo de retorno (sin separación de composiciones) fue de 8 minutos y 54 segundos.
-DI realizó una verificación de los hechos el 1. 2. 2021 en el retorno del tren Os 9349 / Os 9354; el tiempo de retorno (incluida la separación de composiciones) fue de 8 minutos 28 segundos (incluido un pequeño problema con las puertas). Sin este problema, el tiempo de retorno habría sido de 7 minutos y 48 segundos.
-En general, según las declaraciones de los maquinistas, la preparación del HDV serie 471 activo para la salida del tren, incluido el traslado al segundo puesto de conducción, lleva 4 – 6 min si todo transcurre sin problemas. Por tanto, es evidente que el margen para la posible eliminación del retraso es mínimo y, en caso de problemas, no es realizable completar la maniobra de retorno a tiempo.
-DI obtuvo datos sobre la llegada del tren Os 9349 a la est. Kolín y la salida del tren Os 9354 de Kolín hacia Praga (tras la previa separación de composiciones) desde julio de 2020 hasta enero de 2021. Seleccionó una media de 10 muestras al mes. Se trataba de días laborables. Se trata de un análisis de datos registrados por el módulo GPS interno sobre la posición y velocidad del vehículo en el momento dado.
-El análisis de los datos GPS confirmó que los datos de velocidad y posición sobre el fondo cartográfico en los momentos indicados correspondían a la realidad, o bien las desviaciones eran despreciables.
-
-| n.º | Duración de la maniobra | Frecuencia | Aumento del retraso de Os9354 respecto a Os9349 | % |
+De sus comunicaciones se puede deducir que el tiempo previsto de maniobra de retorno de los trenes Os 9349 / Os 9354 (19:14 /19:20 h) en la estación de Kolín, de 6 minutos de duración (en un caso incluida la separación de convoyes de las unidades de la serie 471), es relativamente corto y, en caso de complicaciones, el retraso se traslada al tren de retorno.
+DI realizó una verificación in situ el 1. 2. 2021 en el retorno del tren Os 9333 / Os 9338, el tiempo de retorno (sin separación de convoyes) fue de 8 minutos y 54 segundos.
+DI realizó una verificación in situ el 1. 2. 2021 en el retorno del tren Os 9349 / Os 9354, el tiempo de retorno (incluida la separación de convoyes) fue de 8 minutos 28 segundos (incluido un pequeño problema con las puertas). Sin este problema, el tiempo de retorno habría sido de 7 minutos y 48 segundos.
+En general, según las declaraciones de los maquinistas, la preparación del material rodante activo de la serie 471 para la salida del tren, incluido el traslado a la segunda cabina, lleva 4 – 6 min, si todo transcurre sin problemas. Por tanto, es evidente que el margen para una eventual eliminación del retraso es mínimo y, en caso de problemas, no es posible realizar el retorno a tiempo.
+DI obtuvo datos sobre la llegada del tren Os 9349 a la estación de Kolín y la salida del tren Os 9354 de Kolín a Praga (tras la previa separación de convoyes) desde julio de 2020 hasta enero de 2021. Se seleccionaron, de media, 10 muestras al mes. Se trataba de días laborables. Se trata de un análisis de datos registrados por el módulo GPS interno sobre la posición y velocidad del vehículo en el momento dado.
+El análisis de los datos GPS confirmó que los datos de velocidad y posición sobre la base cartográfica en los momentos indicados correspondían a la realidad, o bien las desviaciones eran despreciables.
+| n.º | Duración de la retorno | Frecuencia | Incremento del retraso del Os 9354 respecto al Os 9349 | % |
 | 1 . | 6min | 1 | 0min | 132% , |
 | 2 . | 7min | 13 | 1min | 1711% , |
 | 3 . | 8min | 16 | 2min | 2105% , |
@@ -1938,11 +1953,11 @@ El análisis de los datos GPS confirmó que los datos de velocidad y posición s
 | 15 . | 24min | 1 | 18min | 132% , |
 | 16 . | 25min | 1 | 19min | 132% , |
 |  | Número de muestras | 76 |  | 10000% , |
-| Tab n.º 6: Tabla de la duración real de la maniobra de retorno de Os9349/Os9354 con separación de composiciones en la est. Kolín. Fuente de datos: Ropid, elaboración DI. |  |  |  |  |
-
-De la tabla n.º 6 anterior se deduce que, de la muestra indicada de 76 maniobras de retorno de Os 9349 / Os 9354 (con separación de composiciones 2 x 471) en la est. Kolín, ningún tren logró completar la maniobra en menos de 6 minutos; 1 tren (es decir, 1,32 %) logró completarla en 6 minutos (aumento del retraso de 0 minutos); 31 trenes (es decir, 39,48 %) lograron completarla en 6 a 8 minutos (aumento del retraso de hasta 2 minutos); 20 trenes (es decir, 26,31 %)
+| Tab n.º 6: Tabla de la duración real del retorno de Os 9349/Os 9354 con separación de convoyes en la estación de Kolín. Fuente de datos: Ropid, elaboración: DI. |  |  |  |  |
+De la tabla n.º 6 anterior se deduce que, de la muestra indicada de 76 retornos de Os 9349 / Os 9354 (con separación de convoyes 2 x 471) en la estación de Kolín, ningún tren logró realizar el retorno en menos de 6 minutos, 1 tren (es decir, 1,32 %) logró realizar el retorno en 6 minutos (incremento del retraso de 0 minutos), 31 trenes (es decir, 39,48 %) lograron realizar el retorno en 6 a 8 minutos (incremento del retraso de hasta 2 minutos), 20 trenes (es decir, 26,31 %)
 
 ## Página 54
+
 
 lograron completarla en 9 a 11 minutos (aumento del retraso de 3 a 5 minutos); 26 trenes (es decir, 34,21 %) lograron completarla en 12 a 25 minutos (aumento del retraso de 6 a 19 minutos).
 Aunque la tabla está afectada por el error de que parte del retraso pudo deberse no solo a la maniobra de retorno de Os 9349 / Os 9354, sino también a otros motivos operativos (p. ej., espera de enlace, adelantamiento por otros trenes, etc.), lo absolutamente fundamental es que, durante la maniobra de retorno de los trenes Os 9349/ Os 9354 en la est. Kolín, no se produjo una reducción del retraso del tren anterior ya retrasado.
@@ -1957,8 +1972,8 @@ b) PDOJ
 Al trabajo del maquinista puede aplicársele la excepción conforme al 2.º párrafo del § 88 apartado 1 de la ley n.º 262/2006 Sb., ya que dicho párrafo, en lo que respecta a la definición de los trabajos que no pueden ser interrumpidos, es indeterminado. Por ello, también el trabajo del maquinista pudo considerarse como un trabajo que no puede ser interrumpido, y por tanto puede aceptarse el consumo del PDOJ en lugar de las pausas para comer y descanso.
 El plan indicado de distribución de la realización de actividades y de consumo del PDOJ estaba en consonancia con el artículo 4 del Convenio Colectivo Empresarial de ČD para el año 2020.
 
-
 ## Página 55
+
 
 c) consumo hipotético de pausas
 El plan indicado de distribución de la realización de actividades habría permitido hipotéticamente consumir una pausa en lugar del PDOJ, siempre que se garantizara adecuadamente la DV, lo cual, en el caso de la composición de unidades eléctricas de la serie 471, sería teóricamente realizable.
@@ -1971,8 +1986,8 @@ En la investigación no se constataron factores relacionados con el contenido de
 ### Régimen CB del sistema AVV
 Según el Manual de operación del AVV para las unidades de la serie 471, el régimen CB (si el HDV está dotado de él) es capaz, cumpliendo las condiciones establecidas (mediante un mapa con datos sobre la línea y el horario de circulación del tren), de garantizar la conducción automática del tren, de modo que garantiza: el respeto de la velocidad de línea, las señales de los señales ferroviarios y la frenada automática de objetivo con el fin de reducir la velocidad antes del punto donde está reducida (circulaciones lentas a largo plazo), la parada antes de un señal ferroviario o en el punto de parada (estación, parada con una precisión de 2 m) o con base en una orden del maquinista. Para garantizar estas funciones, la línea correspondiente debe estar equipada con puntos de información magnéticos de línea, que permiten, al pasar el tren por encima de dicho punto, determinar la posición instantánea del tren en la línea.
 
-
 ## Página 56
+
 
 PŘIV – botón de señales de llamada
 BO – botón Sin restricción (ajuste de la señal que no restringe la velocidad, es decir, la señal de autorización de un solo color). Pulsando la tecla BO se sustituye la señal existente y, con ello, se anulan todas las restricciones de velocidad que de ella se deriven en el régimen CB.
@@ -2000,6 +2015,7 @@ Según las declaraciones de los maquinistas de las unidades de la serie 471 y de
 del teclado (véase la Fig. n.º 13 del anexo), de modo que el botón puede operarse de forma estereotipada y sin una gran concentración en el teclado, con lo que, sin embargo, puede contribuir a la pérdida de concentración del maquinista (rutina, mal hábito). Otro motivo de este comportamiento puede ser el más bajo
 
 ## Página 57
+
 
 desgaste de este botón en comparación con otros botones y la respuesta fiable tras su primera pulsación, sin necesidad de operar el botón de selección de velocidad repetidamente si el botón está desgastado (gastado) y no responde de inmediato.
  -1   poco antes de la aparición de la MU, sí provocó
@@ -2038,32 +2054,29 @@ En los procedimientos, métodos, contenido y resultados de las actividades de ev
 riesgos y seguimiento, relacionados con las circunstancias de la aparición de la MU en
 cuestión, no se determinaron deficiencias.
 
-
 ## Página 58
 
-### 4.4.3 Sistema de garantía de seguridad de los transportistas y gestores de infraestructura implicados
-En el sistema de garantía de seguridad adoptado por el gestor de infraestructura SŽ y por los transportistas ČD y ČDC, relacionado con las circunstancias de la aparición de la MU en cuestión, no se determinaron deficiencias.
-### 4.4.4 Sistema de gestión de los sujetos responsables del mantenimiento de los vehículos ferroviarios
-y de los talleres de mantenimiento
-El sistema de gestión de los sujetos responsables del mantenimiento de los vehículos ferroviarios y de los talleres de mantenimiento no guardaba relación con la aparición de la MU.
+### 4.4.3 Sistema de garantía de la seguridad de los transportistas y gestores de infraestructura participantes
+En el sistema de garantía de la seguridad adoptado por el gestor de infraestructura SŽ y los transportistas ČD y ČDC, relacionado con las circunstancias del origen de la MIE en cuestión, no se detectaron deficiencias.
+### 4.4.4 Sistema de gestión de los sujetos responsables del mantenimiento del material rodante ferroviario y de los talleres de mantenimiento
+El sistema de gestión de los sujetos responsables del mantenimiento del material rodante ferroviario y de los talleres de mantenimiento no guardaba relación con el origen de la MIE.
 ### 4.4.5 Resultados de la supervisión realizada por las autoridades nacionales de seguridad
-Atendiendo a los factores determinados y a las circunstancias de la aparición de la MU, la supervisión de la autoridad de seguridad no guardaba relación con la MU en cuestión.
+Atendiendo a los factores y circunstancias detectados del origen de la MIE, la supervisión de la autoridad de seguridad no guardaba relación con la MIE en cuestión.
 La Inspección Ferroviaria solicitó al DÚ el envío de la siguiente información:
-1. envío de todas las medidas que el DÚ ya hubiera adoptado o tomado en relación con la anomalía arriba indicada;
-2. número y resultado de las inspecciones estatales en materia de ferrocarriles realizadas por el DÚ en el marco de la actividad de control centrada en el trabajo de los maquinistas del transportista ČD y en las condiciones en que trabajan, en el período comprendido entre el 1. 1. 2017 y el 14. 7. 2020.
-3. envío de una comunicación sobre si el maquinista del tren Os 9359 es titular de un certificado complementario de maquinista de otro transportista distinto de ČD y, en caso afirmativo, de cuáles.
-De la respuesta del DÚ a las consultas de la DI, entre otras cosas, se desprende que:
-1. la conclusión fundamental del análisis de la tasa de errores de los transportistas (sobre la base de la Evaluación de las causas y circunstancias de las apariciones de MU enviadas por los transportistas al DÚ) es que no se encontró un denominador común para las distintas categorías de MU en caso de fallo del factor humano – el maquinista. Se confirmó que se trata de un fallo individual fortuito de una persona, sin dependencia directa con la serie y el tipo de vehículo empleado, el lugar de aparición de la MU, la situación operativa actual, la edad o la experiencia del maquinista;
-2. en el período comprendido entre el 1. 1. 2017 y el 14. 7. 2020, el DÚ realizó 36 inspecciones estatales centradas en la actividad del maquinista del transportista ČD. No se determinó ninguna falta grave por parte del maquinista;
-3. en el registro de certificados de maquinistas de los transportistas no se localizó que el maquinista del Os 9359 tuviera emitido otro certificado distinto del del transportista ČD.
-### 4.4.6 Aprobaciones, certificados e informes de evaluación emitidos por la agencia, las autoridades nacionales
-de seguridad u otros sujetos de evaluación de la conformidad
-El gestor de infraestructura SŽ explotó la infraestructura con base en la autorización administrativa vigente y el certificado de seguridad del gestor de infraestructura. Los transportistas ČD y ČDC explotaron el transporte ferroviario con base en la licencia vigente y el certificado del transportista.
+1. Envío de todas las medidas que el DÚ ya haya adoptado o realizado en relación con la excepcionalidad arriba mencionada;
+2. Número y resultado de las inspecciones estatales en materia de ferrocarriles realizadas por el DÚ en el marco de la actividad de control centrada en el trabajo de los maquinistas del transportista ČD y en las condiciones en las que trabajan, en el período comprendido entre el 1. 1. 2017 y el 14. 7. 2020.
+3. Envío de una comunicación sobre si el maquinista del tren Os 9359 es titular de un certificado complementario de maquinista de otro transportista distinto de ČD y, en caso afirmativo, de cuáles.
+De la respuesta del DÚ a las consultas de la DI, entre otros, se desprende que:
+1. La conclusión fundamental del análisis de la tasa de errores de los transportistas (sobre la base de la Evaluación de las causas y circunstancias del origen de las MIE enviadas por los transportistas al DÚ) es que no se encontró un denominador común para las distintas categorías de MIE en caso de fallo del factor humano – el maquinista. Se confirmó que se trata de un fallo individual aleatorio de una persona, sin dependencia directa de la serie y tipo de material rodante empleado, del lugar de origen de la MIE, de la situación operativa actual, de la edad o de la experiencia del maquinista;
+2. En el período comprendido entre el 1. 1. 2017 y el 14. 7. 2020, el DÚ realizó 36 inspecciones estatales centradas en la actividad del maquinista del transportista ČD. No se detectaron fallos graves por parte del maquinista;
+3. Del registro de certificados de maquinistas de los transportistas no se pudo constatar que el maquinista del Os 9359 tuviera emitido un certificado distinto del del transportista ČD.
+### 4.4.6 Aprobaciones, certificados e informes de evaluación emitidos por la agencia, las autoridades nacionales de seguridad u otros sujetos de evaluación de la conformidad
+El gestor de infraestructura SŽ explotó la infraestructura ferroviaria al amparo de la autorización administrativa vigente y del certificado de seguridad del gestor de infraestructura. Los transportistas ČD y ČDC explotaron el transporte ferroviario al amparo de la licencia vigente y del certificado del transportista.
 ### 4.4.7 Otros factores sistémicos
-En la investigación no se determinaron otros factores sistémicos.
-
+En la investigación no se detectaron otros factores sistémicos.
 
 ## Página 59
+
 
 ### 4.5 Sucesos anteriores de naturaleza similar
 La DI, en el período comprendido entre el 1. 1. 2008 y la fecha de aparición de la MU en cuestión en la infraestructura ferroviaria, categoría nacional, investigó un total de 7 MU de carácter similar, en las que, como consecuencia del incumplimiento de las condiciones para la circulación según las condiciones de visibilidad al circular en un compartimento ocupado AB (con una circulación no autorizada previa, en su caso), se produjo la colisión de un tren con otro tren detenido o circulando en el mismo sentido.
@@ -2075,8 +2088,8 @@ La DI, en el período comprendido entre el 1. 1. 2008 y la fecha de aparición d
 • del 20. 7. 2018 entre las estaciones de Chrást u Plzně y Plzeň hlavní nádraží, en la que se produjo la colisión del tren Sv 21920 (a una velocidad de 19 km.h-1) con el final del tren detenido Nex 61400. La causa inmediata fue la no detención del tren Sv 21920 antes del final del tren Nex 61400 al circular según las condiciones de visibilidad en la sección de vía ocupada de bloqueo automático. No se emitió BD.
 • del 20. 11. 2018 entre la desviación de Chotěbuz y la estación de Český Těšín, en la que se produjo la colisión del tren Nex 49745 (a una velocidad de 19 km.h-1) con el final del tren detenido Nex 49735. La causa inmediata fue el no respeto de la señal «Alto» de la señal principal (de sección)
 
-
 ## Página 60
+
 
 de bloqueo automático 1-3218 de la vía de tráfico n.º 1 desviación Chotěbuz – Český Těšín por parte del maquinista del tren Nex 49745. No se emitió BD.
 Con base en los resultados de la investigación de las MU en cuestión, la Inspección Ferroviaria no emitió ninguna recomendación de seguridad relacionada con la causa inmediata de esta MU investigada.
@@ -2108,6 +2121,7 @@ El transportista ČD emitió, tras la aparición de la MU, las siguientes medida
 
 ## Página 61
 
+
 a) señal de bloque automático – pulsa el/los botón(es) „PŘIV", que permite(n) la continuación de la marcha a una velocidad máx. de 30 km/h (40 km/h (nota DI: p. ej. para locomotoras de las series 380, 440, 640, 650, 660, 661, 662));
 b) señal de bloque automático de sección (secciones) – pulsa el/los botón(es) „PŘIV", que permite(n) la continuación de la marcha a una velocidad máx. de 30 km/h (40 km/h); “
 La causa, las circunstancias de la aparición de la ME y la responsabilidad por su aparición, incluida la emisión de instrucciones,
@@ -2128,8 +2142,8 @@ la causa, las circunstancias de la aparición del accidente grave y la responsab
 apariciones similares, se incluirán para su discusión en la próxima reunión mensual ordinaria de los inspectores de material rodante;
 con el fin de aumentar la prevención, se llevará a cabo la formación de los empleados para la descarga de datos de los equipos de diagnóstico de los vehículos ferroviarios, posteriormente se aumentará la frecuencia de descarga de datos y su posterior verificación, especialmente de los datos sobre la operación de
 
-
 ## Página 62
+
 
 los equipos AVV en modo CB, con especial atención a la operación incorrecta de los vehículos ferroviarios.
 El operador ferroviario ČDC no adoptó ninguna medida.
@@ -2164,32 +2178,26 @@ En el operador ferroviario ČDC:
 emplear la locomotora del tren n.º 60051, que sobre la base de la orden emitida en la red de radio GSM-R no garantizaría la parada automática del tren.
 •
 
-
 ## Página 63
 
 ### 6 RECOMENDACIONES DE SEGURIDAD
-La Inspección Ferroviaria, con base en lo dispuesto en el § 53e apartado 1 de la Ley n.º 266/1994 Sb., recomienda, en aras de la prevención de sucesos extraordinarios:
+La Inspección Ferroviaria, en virtud de lo dispuesto en el apartado 1 del artículo 53e de la Ley núm. 266/1994 Sb., recomienda, con miras a la prevención de sucesos extraordinarios:
 Al Ministerio de Transporte:
-iniciar la modificación de las disposiciones del Decreto n.º 173/1995 Sb. de modo que, durante la circulación según las condiciones de visibilidad, no se permita superar la velocidad de 40 km.h-1 si en la línea equipada con el dispositivo para la transmisión de información de las señales principales y de preseñales al vehículo ferroviario principal no se garantiza su transmisión (en el repetidor de señales del vehículo ferroviario principal no se enciende ninguna luz, o solo se enciende la luz azul).
-•
-Al Organismo Ferroviario:
-garantizar que, hasta la modificación de las disposiciones del Decreto n.º 173/1995 Sb., se establezca mediante una norma interna del gestor de la infraestructura y del transportista la obligación de no superar, durante la circulación según las condiciones de visibilidad, la velocidad de 40 km.h-1 si en la línea equipada con el dispositivo para la transmisión de información de las señales principales y de preseñales al vehículo ferroviario principal no se garantiza su transmisión (en el repetidor de señales del vehículo ferroviario principal no se enciende ninguna luz, o solo se enciende la luz azul);
-•
-garantizar que a los transportistas se les establezca, para todos los vehículos susceptibles de consideración (p. ej. equipados con AVV), la obligación de asegurar técnicamente que, durante la circulación según las condiciones de visibilidad, no sea posible superar la velocidad de 40 km.h-1 si en la línea equipada con el dispositivo para la transmisión de información de las señales principales y de preseñales al vehículo ferroviario principal no se garantiza su transmisión (en el repetidor de señales del vehículo ferroviario principal no se enciende ninguna luz, o solo se enciende la luz azul);
-•
-garantizar que a los transportistas se les establezca la obligación de tener definidos en su norma interna los distintos tiempos tecnológicos, a partir de los cuales se determinen los tiempos mínimos vinculantes para los giros de las composiciones de los trenes de transporte de pasajeros con la reserva correspondiente.
-•
-
+iniciar la modificación de las disposiciones del decreto núm. 173/1995 Sb. de modo que, en la conducción según las condiciones de visibilidad, no se permita superar la velocidad de 40 km·h-1 cuando, en una vía equipada con dispositivo de transmisión de información de las señales principales y de las señales de aviso a la unidad tractora principal, no se garantice dicha transmisión (en el repetidor de señales de la unidad tractora principal no se enciende ninguna luz, o solo se enciende la luz azul).
+A la Autoridad Ferroviaria:
+garantizar que, hasta la modificación de las disposiciones del decreto núm. 173/1995 Sb., el reglamento interno del gestor de infraestructura y del operador ferroviario establezca la obligación de no superar, en la conducción según las condiciones de visibilidad, la velocidad de 40 km·h-1 cuando, en una vía equipada con dispositivo de transmisión de información de las señales principales y de las señales de aviso a la unidad tractora principal, no se garantice dicha transmisión (en el repetidor de señales de la unidad tractora principal no se enciende ninguna luz, o solo se enciende la luz azul);
+garantizar que, para todos los vehículos que se consideren pertinentes (p. ej., equipados con AVV), se imponga a los operadores ferroviarios la obligación de garantizar técnicamente que, en la conducción según las condiciones de visibilidad, no sea posible superar la velocidad de 40 km·h-1 cuando, en una vía equipada con dispositivo de transmisión de información de las señales principales y de las señales de aviso a la unidad tractora principal, no se garantice dicha transmisión (en el repetidor de señales de la unidad tractora principal no se enciende ninguna luz, o solo se enciende la luz azul);
+garantizar que se imponga a los operadores ferroviarios la obligación de tener definidos en su reglamento interno los distintos tiempos tecnológicos, a partir de los cuales se determinen los tiempos mínimos vinculantes para las maniobras de las formaciones de trenes de transporte de pasajeros, con la reserva correspondiente.
 ### RECOMENDACIONES DE SEGURIDAD
 Dirigidas al Ministerio de Transporte de la República Checa:
-recomendamos que el Ministerio de Transporte inicie la modificación de las disposiciones del Decreto n.º 173/1995 Sb., Reglamento de Circulación Ferroviaria, de modo que no se permita superar la velocidad de 40 km/h durante la circulación según las condiciones de visibilidad si no se garantiza la transmisión de información de las señales principales y de preseñales al vehículo ferroviario principal en la línea (no se enciende ninguna luz en la señalización en cabina del vehículo ferroviario principal, o solo se enciende la luz azul).
+recomendamos que el Ministerio de Transporte inicie la modificación de las disposiciones del
 •
-Dirigidas al Organismo Nacional de Seguridad Ferroviaria (NSA):
-recomendamos que el NSA garantice que la norma interna de los gestores de la infraestructura y de los operadores ferroviarios establezca la obligación de no superar la velocidad de 40 km/h durante la circulación según las condiciones de visibilidad si no se garantiza la transmisión de información de las señales principales y de preseñales al vehículo ferroviario principal en la línea (no se enciende ninguna luz en la señalización en cabina del vehículo ferroviario principal, o solo se enciende la luz azul) hasta que se modifique el Decreto n.º 173/1995 Sb., Reglamento de Circulación Ferroviaria;
-•
-
+decreto núm. 173/1995 Sb., Reglamento de Circulación Ferroviaria, de modo que no se permita superar la velocidad de 40 km/h en la conducción según las condiciones de visibilidad en una vía amplia cuando no se garantice la transmisión de información de las señales principales y de las señales de aviso a la unidad tractora principal en la vía (no se enciende ninguna luz en la señalización de cabina de la unidad tractora principal, o solo se enciende la luz azul).
+Dirigidas a la Autoridad Nacional de Seguridad de la República Checa (la ANS):
+recomendamos que la ANS garantice que el reglamento interno de los gestores de infraestructura y de los operadores ferroviarios establezca la obligación de no superar la velocidad de 40 km/h en la conducción según las condiciones de visibilidad cuando no se garantice la transmisión de información de las señales principales y de las señales de aviso a la unidad tractora principal en la vía (no se enciende ninguna luz en la señalización de cabina de la unidad tractora principal, o solo se enciende la luz azul) hasta que se modifique el decreto núm. 173/1995 Sb., Reglamento de Circulación Ferroviaria;
 
 ## Página 64
+
 
 recomendamos que el NSA garantice que a los operadores ferroviarios se les imponga la obligación de asegurar técnicamente todos sus vehículos ferroviarios susceptibles de consideración (p. ej. equipados con el sistema AVV) de modo que, durante la circulación según las condiciones de visibilidad, no sea posible superar la velocidad de 40 km/h si no se garantiza la transmisión de información de las señales principales y de preseñales al vehículo ferroviario principal en la línea (no se enciende ninguna luz en la señalización en cabina del vehículo ferroviario principal, o solo se enciende la luz azul);
 recomendamos que el NSA garantice que se imponga a los operadores ferroviarios la obligación de tener definidos en sus normas internas los distintos tiempos tecnológicos, a partir de los cuales se determinen los tiempos mínimos para los giros de los trenes de pasajeros con la reserva correspondiente.
@@ -2204,8 +2212,8 @@ de la Inspección Territorial de Bohemia
 Ing. Petr Mencl v. r.
 director de la Inspección Territorial de Bohemia
 
-
 ## Página 65
+
 
 ### ANEXOS
 Fig. n.º 2: Vista del lugar de la ME
@@ -2213,31 +2221,30 @@ Fig. n.º 2: Vista del lugar de la ME
 Fig. n.º 3: Vista del lugar de la ME
             Fuente: DI
 
-
 ## Página 66
+
 
 Fig. n.º 4: Vista del lugar de la ME y de la posición de la DV
              Fuente: PČR
 Fig. n.º 5: Vista del tren Nex 60051 en el 1. TK y del tren Lv 57559 en el 0. TK  Fuente: PČR
 
-
 ## Página 67
 
-Fig. n.º 6: Vista del estado de la DV tras la ME 
-            Fuente: irozhlas.cz 
-Fig. n.º 7: Vista del frente del tren Os 9359 tras el desgarro de la DV
+Fig. n.º 6: Vista del estado del DV tras el MU
+            Fuente: irozhlas.cz
+Fig. n.º 7: Vista de la cabeza del tren Os 9359 tras la rotura del DV
          Fuente: DI
 
-
 ## Página 68
+
 
 Fig. n.º 8: Vista de la posición del maquinista del tren Os 9359
            Fuente: DI
 Fig. n.º 9: Vista de la posición del maquinista del tren Os 9359
             Fuente: DI
 
-
 ## Página 69
+
 
 Fig. n.º 10: Captura de la SZZ de la estación de Český Brod a las 21:36:35 h del día 14 de 7 de 2020
                             Fuente de datos: SŽ, edición DI
@@ -2245,8 +2252,8 @@ Fig. n.º 11: Captura del visor del archivo TZZ entre las estaciones de Úvaly y
 14 de 7 de 2020, cuando según la indicación del TZZ se produjo la encendida de la señal que permite la circulación en la señal de entrada 1S a la estación de Český Brod en la vía 1 a la derecha
                            Fuente de datos: SŽ, edición DI
 
-
 ## Página 70
+
 
 Fig. n.º 12: Vista de la posición de la unidad de la serie 471 antes del inicio de la verificación de la visibilidad del lugar (del final del tren Nex 60051) en el tramo Úvaly – Český Brod el 17 de 7 de 2020       
                             Fuente: DI
@@ -2255,8 +2262,8 @@ Fig. n.º 13: Vista detallada del teclado AVV de la unidad de la serie 471
 Fig. n.º 14: Mapa del trazado de la línea ferroviaria en el tramo Úvaly – Český Brod
                  Fuente: Mapy.cz
 
-
 ## Página 71
+
 
 Fig. n.º 15: Vista desde la posición del maquinista de la última señal AB 1-3796
 en el km 379,480 en el 1. TK durante la verificación de la visibilidad del lugar (del final del tren Nex 60051) en el tramo

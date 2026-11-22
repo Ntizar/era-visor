@@ -12,8 +12,8 @@ tokens_in: 38657
 tokens_out: 24927
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-verificacion: revisar
-avisos: ["página 7: ratio 1.80", "página 17: ratio 1.92", "página 33: ratio 1.66"]
+verificacion: ok
+notas_cifras: ["página 7: original bilingüe: se compara contra el idioma principal (HR)", "página 10: original bilingüe: se compara contra el idioma principal (HR)", "página 17: original bilingüe: se compara contra el idioma principal (HR); ratio 2.13", "página 23: cifras cortas: 1/18", "página 30: cifras cortas: 1/42", "página 31: original bilingüe: se compara contra el idioma principal (HR)"]
 ---
 
 ## Página 1
@@ -203,37 +203,47 @@ SMS
 
 ## Página 7
 
-### 1. RESUMEN 
-El 16 de octubre de 2020, a las 21:10 horas, durante la circulación del tren de pasajeros número 6016 por la vía 
-señalada como R202 en el PK 072+600, cerca de la estación de Našice, se produjo un incendio en un conjunto motor diésel 
-de la serie 7121-101. En el momento del incendio, el tren contaba con un número de pasajeros y personal de tren, no resultando 
-herido ninguno de los mencionados, mientras que el conjunto motor diésel quedó completamente consumido por el fuego.  
-El factor causal del accidente en cuestión es una avería en las instalaciones eléctricas del conjunto motor diésel de pasajeros 
-de la serie 7121 (capítulo 4.3.1.). 
+### 1. Resumen 
+El 16 de octubre de 2020 a las 21:10 horas, durante la circulación del tren de pasajeros número 6016 por la línea 
+de denominación R202 en el PK 072+600, a poca distancia de la estación de Našice, se produjo un incendio en la unidad 
+motriz diésel de la serie 7121-101. En el momento de producirse el incendio, el tren contaba con un número determinado 
+de pasajeros y de personal de a bordo, ninguno de los mencionados resultó herido, mientras que la unidad motriz diésel 
+quedó completamente calcinada.  
+El factor causal del accidente en cuestión es una avería en las instalaciones eléctricas de la unidad motriz diésel 
+de pasajeros de la serie 7121 (capítulo 4.3.1.). 
 Factores contribuyentes:  
 - 
-el período de explotación de los conjuntos motores de la serie 7121 (capítulo 3.1.7.). 
+el periodo de explotación de las unidades motrices de la serie 7121 (capítulo 3.1.7.). 
 Factores sistémicos:  
 - 
-la no identificación de la causa de la pérdida de aceite hidrostático por parte del mantenedor competente (capítulo 
+no identificación de la causa de la pérdida de aceite hidrostático por parte del mantenedor competente (capítulo 
 3.1.9. y 4.2.5.), 
 - 
-la no subsanación de la avería que provoca la pérdida de aceite hidrostático por parte del mantenedor competente (capítulo 3.1.9. y 4.2.5.), 
+no eliminación de la avería como consecuencia de la cual se produce la pérdida de aceite hidrostático por parte del 
+mantenedor competente (capítulo 3.1.9. y 4.2.5.), 
 - 
-la no realización de pruebas de la instalación eléctrica del vehículo con cámara termográfica por parte del mantenedor competente «recomendación de seguridad SP 2/15, emitida el 18.05.2015» (capítulo 3.1.9. y 4.2.5.), 
+no inspección de la instalación eléctrica del vehículo con cámara termográfica por parte del mantenedor competente 
+„recomendación de seguridad SP 2/15, emitida el 18.05.2015“ (capítulo 3.1.9. y 4.2.5.), 
 - 
-la falta de reacción de los servicios competentes de mantenimiento de vehículos del transportista implicado en relación con el análisis de las averías frecuentes (capítulo 3.1.9. y 4.2.4.). 
+no reacción de los servicios competentes de mantenimiento del vehículo del transportista implicado en relación con el 
+análisis de las averías frecuentes (capítulo 3.1.9. y 4.2.4.). 
 ### Recomendaciones de seguridad 
-La Agencia para la Investigación de Accidentes en el Tráfico Aéreo, Marítimo y Ferroviario, con base en la investigación llevada a cabo de este accidente, con el fin de aumentar la seguridad del sistema ferroviario, emite a la Agencia de Seguridad del Tráfico Ferroviario las siguientes recomendaciones de seguridad:  
-AIN/06-SR-07/2021: El transportista ferroviario implicado debería emprender acciones en relación con la instalación de detectores de incendio en el compartimento del motor y del transmisión hidrostática, en los conjuntos de las series 7121 y 7122. 
-AIN/06-SR-08/2021: El transportista ferroviario implicado debería, en el siguiente proceso de reparación periódica de los conjuntos de las series 7121 y 7122, emprender procedimientos en relación con la instalación de un sistema automático de extinción de incendios. 
-### RESUMEN 
-El 16 de octubre de 2020, a las 21:10, durante la circulación del tren de pasajeros número 6016 por la línea marcada 
-R202 en el PK 072+600 cerca de la estación de Našice, se produjo un incendio en un conjunto motor diésel de la serie 7121-101. 
-En el momento del incendio, había un número de pasajeros y personal de tren a bordo, ninguno de ellos resultó 
-herido, mientras que el conjunto motor diésel quedó completamente quemado. 
-El factor causal del accidente en cuestión es una avería en las instalaciones eléctricas del conjunto motor diésel de pasajeros 
-de la serie 7121 (Capítulo 4.3.1).
+La Agencia de Investigación de Accidentes en el Tráfico Aéreo, Marítimo y Ferroviario, con base en la investigación 
+realizada sobre este accidente, con el fin de aumentar la seguridad del sistema ferroviario, emite a la Agencia de 
+Seguridad del Tráfico Ferroviario las siguientes recomendaciones de seguridad:  
+AIN/06-SR-07/2021: El transportista ferroviario implicado debería adoptar medidas en relación con la instalación de 
+detectores de incendios en el compartimento del motor y del transmisor hidrostático, en las unidades de las series 7121 
+y 7122. 
+AIN/06-SR-08/2021: El transportista ferroviario implicado debería, en el siguiente proceso de reparación ordinaria 
+en las unidades de las series 7121 y 7122, adoptar procedimientos en relación con la instalación de un sistema 
+automático de extinción de incendios. 
+### SUMMARY 
+On October 16, 2020, at 9:10 pm, during the traffic of passenger train number 6016 on the line marked 
+R202 at KM 072+600 near the station Našice, a fire broke out on a diesel engine set of series 7121-101. 
+At the time of the fire, there were a number of passengers and train staff on board, none of them were 
+injured, while the diesel engine set was completely burnt. 
+The causal factor of the accident in question is a fault in the electrical installations on the passenger 
+diesel engine set of series 7121 (Chapter 4.3.1).
 
 ## Página 8
 
@@ -463,15 +473,11 @@ La interrupción del tráfico de trenes en el tramo de vía identificado como R2
 
 ## Página 17
 
-### 3.2.3. Inspección del tren incendiado
-
-Al llegar a la estación de Našice, los investigadores de la AIN encontraron en una vía lateral la segunda parte del tren incendiado, número de tren 6016, matrícula 7121-102 (Imagen 5.), parte del tren sobre la que se extendió el incendio desde la primera parte del tren donde se produjo el origen del fuego.
-
-Imagen 5. Tren diésel incendiado de la serie 7121-102 en la estación de Našice (Fuente de la imagen: AIN)
-
-Esta quedó completamente destruida debido a la propagación del incendio originado en la primera parte del tren, matrícula 7121-101, si bien el fuego dañó de manera más significativa la parte situada junto a la unión de ambos trenes en dirección a la cabina de conducción B. Debido a las altas temperaturas generadas durante el incendio, se produjo también la deformación de la propia estructura de dicha parte del tren, especialmente en la zona central, debajo de la cual se encuentra el depósito de combustible de 790 litros. En la propia cabina de conducción B son visibles daños causados por el fuego, aunque no de una intensidad comparable a la de la cara opuesta o a la zona central del tren.
-
-La primera parte del tren, matrícula 7121-101, sobre la que se produjo el incendio inicial, fue encontrada en la vía abierta, identificada como R202, en el PK 072+600 (Imagen 6.).
+### 3.2.3. Inspección del material rodante calcinado
+Al llegar a la estación de Našice, los investigadores de la AIN encontraron en la vía secundaria la segunda parte del material rodante calcinado del tren n.º 6016 con la marca 7121-102 (Imagen 5), parte del material rodante a la que se extendió el incendio desde la primera parte del material rodante, donde se originó el incendio.
+Imagen 5. Material rodante diésel-motor calcinado de la serie 7121-102 en la estación de Našice (Fuente de la imagen: AIN)
+Esta quedó completamente destruida como consecuencia de la propagación del incendio originado en la primera parte del material rodante con la marca 7121-101, habiendo calcinado el fuego en mayor medida la parte del lado de la unión de los dos conjuntos de material rodante en dirección a la cabina de conducción B. Debido a la generación de altas temperaturas durante el incendio, se produjo también la deformación de la propia estructura de la parte indicada del material rodante, y especialmente en la parte central, bajo la que se encuentra el depósito de combustible con un volumen de 790 litros. En la propia cabina de conducción B son visibles daños por incendio, sin embargo, ni de lejos con la misma intensidad que en el lado opuesto o en la parte central del material rodante.
+La primera parte del material rodante con la marca 7121-101, en la que se originó el incendio inicial, fue encontrada en la vía abierta con la marca R202 en el PK 072+600 (Imagen 6).
 
 ## Página 18
 
@@ -799,10 +805,10 @@ Además, las empresas mencionadas anteriormente acordaron las siguientes activid
 ### 5.3. Observaciones adicionales  
 No tenemos más consideraciones. 
 ### 6. RECOMENDACIONES DE SEGURIDAD 
-La Agencia para la Investigación de Accidentes en el Tráfico Aéreo, Marítimo y Ferroviario, con base en la investigación llevada a cabo de este accidente, con el fin de aumentar la seguridad del sistema ferroviario, emite a la Agencia de Seguridad Ferroviaria las siguientes recomendaciones de seguridad:  
-AIN/06-SR-07/2021: La empresa ferroviaria implicada debería tomar medidas en relación con la instalación de detectores de incendio en el compartimento del motor y en la transmisión hidrostática, en los trenes de las series 7121 y 7122. 
-AIN/06-SR-08/2021: La empresa ferroviaria implicada debería realizar los procedimientos pertinentes para la instalación de un sistema automático de extinción de incendios en el siguiente proceso de reparación periódica de los trenes de las series 7121 y 7122. 
+La Agencia de Investigación de Accidentes de Tráfico Aéreo, Marítimo y Ferroviario, con base en la investigación realizada de este accidente, con el fin de aumentar la seguridad del sistema ferroviario, emite a la Agencia de Seguridad del Tráfico Ferroviario las siguientes recomendaciones de seguridad:  
+AIN/06-SR-07/2021: El ferroviario implicado debería adoptar acciones en relación con la instalación de un detector de incendios en el compartimento del motor y un transmisor hidrostático en las unidades de las series 7121 y 7122. 
+AIN/06-SR-08/2021: El ferroviario implicado debería, en el siguiente proceso de reparación ordinaria en las unidades de las series 7121 y 7122, adoptar procedimientos en relación con la instalación de un sistema automático de extinción de incendios. 
 ### RECOMENDACIONES DE SEGURIDAD 
-La Agencia para la Investigación de Accidentes en el Tráfico Aéreo, Marítimo y Ferroviario, con base en la investigación llevada a cabo de este accidente, con el fin de aumentar la seguridad del sistema ferroviario, emite a la Agencia de Seguridad Ferroviaria las siguientes recomendaciones de seguridad: 
-AIN/06-SR-07/2021: La empresa ferroviaria implicada debería tomar medidas en relación con la instalación de un detector de incendio en el compartimento del motor y en la transmisión hidrostática, en los trenes de las series 7121 y 7122. 
-AIN/06-SR-08/2021: La empresa ferroviaria implicada debería realizar los procedimientos pertinentes para la instalación de un sistema automático de extinción de incendios en el siguiente proceso de reparación periódica de los trenes de las series 7121 y 7122.
+La Agencia de Investigación de Accidentes de Tráfico Aéreo, Marítimo y Ferroviario, con base en la investigación realizada de este accidente, con el fin de aumentar la seguridad del sistema ferroviario, emite las siguientes recomendaciones de seguridad a la Agencia de Seguridad del Tráfico Ferroviario: 
+AIN/06-SR-07/2021: El ferroviario implicado debería adoptar acciones en relación con la instalación de un detector de incendios en el compartimento del motor y un transmisor hidrostático en las unidades de las series 7121 y 7122. 
+AIN/06-SR-08/2021: El ferroviario implicado debería adoptar medidas para instalar un sistema automático de extinción de incendios en el siguiente proceso de reparación ordinaria en las unidades de las series 7121 y 7122.

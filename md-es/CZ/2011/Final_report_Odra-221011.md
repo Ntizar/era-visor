@@ -10,13 +10,14 @@ chars: 133867
 ratio_longitud: 1.23
 tokens_in: 86067
 tokens_out: 57900
-verificacion: revisar
-notas_cifras: ["bloque 2: original bilingüe: se compara contra el idioma principal (CS)", "bloque 4: original bilingüe: se compara contra el idioma principal (CS)", "bloque 5: cifras largas: 1/80", "bloque 6: original bilingüe: se compara contra el idioma principal (CS)", "bloque 7: original bilingüe: se compara contra el idioma principal (CS)", "bloque 8: original bilingüe: se compara contra el idioma principal (PT)"]
-avisos: ["bloque 4: ratio 1.99", "bloque 6: ratio 1.73", "bloque 8: ratio 1.80", "bloque 14: ratio 1.74", "bloque 16: ratio 1.82"]
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 6: original bilingüe: se compara contra el idioma principal (EN)", "página 7: original bilingüe: se compara contra el idioma principal (PT)", "página 8: original bilingüe: se compara contra el idioma principal (CS)", "página 13: original bilingüe: se compara contra el idioma principal (PL)", "página 15: original bilingüe: se compara contra el idioma principal (PT); ratio 2.21"]
 ---
+
 ## Página 1
+
 
 Inspección Ferroviaria
 República Checa
@@ -43,11 +44,12 @@ ID:   75009561
 http://www.dicr.cz
 tel.: (+420) 224 805 514
 
-
 ## Página 2
 
 
+
 ## Página 3
+
 
 # RESUMEN
 Gravedad:                  accidente grave.
@@ -78,8 +80,8 @@ información para pasajeros y envío de SMS).
 Causa raíz:
 ninguna.
 
-
 ## Página 4
+
 
 Recomendaciones:
 1) Dirigidas al gestor de infraestructura Správa železniční dopravní cesty, s. o.:
@@ -97,13 +99,13 @@ infraestructura esté preparada.
 • se recomienda adoptar las medidas propias necesarias para forzar la implementación de las 
 recomendaciones anteriores.
 
-
 ## Página 5
+
 
 Este informe final es público y todos los documentos y hechos están respaldados por el expediente de investigación.
 
-
 ## Página 6
+
 
 # Índice
  Resumen .............................................................................................................................3
@@ -144,6 +146,7 @@ relación contractual ..........................................................
 
 ## Página 7
 
+
 3.1.2 Otras personas .........................................................................................................26
 3.2 Sistema de garantía de la seguridad ...............................................................................26
 3.2.1 Organización marco y forma en que se emiten y aplican las instrucciones .......26
@@ -173,10 +176,10 @@ aplicación ....................................................................
 4.1.1 Descripción definitiva del suceso excepcional basada en los hechos constatados en el punto 3 
 ............................................................................................................................41
 4.2 Análisis ......................................................................................................................42
-4.2.1 Evaluación de los hechos constatados de acuerdo con el punto 3 y formulación de conclusiones sobre la causa 
-
+4.2.1 Evaluación de los hechos constatados de acuerdo con el punto 3 y formulación de conclusiones sobre la causa
 
 ## Página 8
+
 
 del suceso excepcional y la actuación de los servicios de emergencia ..........................................42
 4.3 Conclusiones .......................................................................................................................44
@@ -195,10 +198,12 @@ del suceso excepcional y la actuación de los servicios de emergencia ..........
  Fig. n.º 8: Planos de tipo de la unidad eléctrica de dos pisos de tipo de fábrica 1 Ev . .48
  fuente: ŠKODA VAGONKA, a. s. .....................................................................................48
 
-
 ## Página 9
 
+
+
 ## Página 10
+
 
 ## Lista de siglas y símbolos utilizados
 ARR  
@@ -295,14 +300,14 @@ Inspección Territorial
 VEZO
 unidad de visualización de gran superficie
 
-
 ## Página 11
+
 
 |  | Informe sobre los resultados de la investigación de las causas y circunstancias de la incidencia excepcional |
 | VI VNPN výh . VZ ZZ žst . | inspector superior sistema Aviso antes de la permisión de paso señal de entrada desvío bloqueador de tren instalación de seguridad estación ferroviaria |
 
-
 ## Página 12
+
 
 ## 1 RESUMEN
 Clasificación del incidente:
@@ -346,8 +351,8 @@ documentos anteriores "Emisión de recomendación de seguridad", ref.
 6-538/2009/DI-1, de 18. 03. 2010, y ref. 739/2010/DI, de 
 15. 12. 2010;
 
-
 ## Página 13
+
 
 2) al operador de la vía, en las líneas donde a largo plazo no se vaya a implantar el 
 bloqueador de trenes europeo "European Train Control System", instalar el dispositivo 
@@ -360,10 +365,10 @@ Train Control System" de modo que, al entrar en servicio el sistema en las líne
 correspondientes, el material rodante ferroviario en explotación pueda aprovechar 
 plenamente todas las funcionalidades de dicho bloqueador;
 4) a la Oficina Ferroviaria, la adopción de una medida propia encaminada a garantizar la 
-realización de las recomendaciones de seguridad anteriores. 
-
+realización de las recomendaciones de seguridad anteriores.
 
 ## Página 14
+
 
 ## 2 DATOS RELATIVOS A LA INCIDENCIA EXCEPCIONAL
 ## 2.1
@@ -393,25 +398,58 @@ tren continuó circulando de forma no autorizada más allá del nivel de la señ
 
 ## Página 15
 
-(de entrada) 2VL sobre la vía n.º 202 de la estación de Odra a través de los desvíos n.º 201 y 202. Tras pasar por el desvío n.º 202, que estaba dispuesto para la circulación en sentido contrario a la aguja hacia la derecha en la vía muerta de apartadero n.º 204a, el tren Os 3428 continuó su marcha por la vía muerta de apartadero n.º 204a. La vía muerta de apartadero n.º 204a se había establecido para evitar la entrada no deseada de DV en la ruta de tren o, en su caso, en la ruta de maniobras, y por ello también, como consecuencia de la circulación no autorizada del tren Os 3428 más allá del nivel de la señal principal (de entrada) 2VL, no se produjo la entrada en la ruta de circulación dispuesta para el tren en sentido contrario Os 3429, y con ello la afectación de la actividad del SZZ. Al final de la vía muerta de apartadero n.º 204a, el DV de cabeza del tren Os 3428 chocó en el km 37,724 contra el tope de tierra, que perforó. A continuación, el tren, ya en estado descarrilado, continuó por inercia su marcha por la explanada del cuerpo de la infraestructura ferroviaria, donde el DV de cabeza chocó por el lado del terraplén contra el tope de tierra de la vía muerta de apartadero n.º 204b. Este fue, por el impacto, al igual que el tope de la vía muerta de apartadero n.º 204a, totalmente destruido. Posteriormente, el DV de cabeza del tren Os 3428 chocó contra el mástil de iluminación n.º 7 y se detuvo en la explanada del cuerpo de la infraestructura ferroviaria en el km 37,811.
-En la posición final tras la producción de la MU, el frente del tren Os 3428 se encontraba en la explanada del cuerpo de la infraestructura ferroviaria en el km 37,811, a la derecha de la vía muerta de apartadero n.º 204b, a una distancia de 87 m por detrás del nivel del tope destruido de la vía muerta de apartadero n.º 204a y a 8,5 m del eje de la vía n.º 202. El mástil de iluminación n.º 7, que se rompió a una altura de 1,1 m desde la base, quedó apoyado contra el frente del DV de cabeza, y ello en el nivel de su amortiguador derecho. El frente trasero del tren Os 3428 se encontraba en la explanada del cuerpo de la infraestructura ferroviaria a la derecha de la vía muerta de apartadero n.º 204b, a una distancia de 7,8 m por detrás del nivel del tope destruido de la vía muerta de apartadero n.º 204a y a 5,3 m del eje de la vía n.º 202.
-### Fig. n.º 2: Tren Os 3428, compuesto por una unidad eléctrica de dos pisos de tipo de fábrica 1 Ev, en la posición final tras la MU
-La destrucción de la caja de baterías DV 95 54 5 971 025-2, dañada como consecuencia del suceso, provocó un cortocircuito y la pérdida de alimentación de la red a bordo de todos los DV del tren Os 3428. Estos hechos causaron la interrupción de la alimentación de todos los equipos eléctricos de los DV, y por ello
-
+(de entrada) de la señal 2VL por la vía n.º 202, enlace Odra, a través de los desvíos n.º 201 y 202. Tras pasar por el desvío n.º 202, que estaba dispuesto para la circulación en sentido contrario a la aguja hacia la derecha en la vía muerta de derrota n.º 204a, el tren Os 3428 continuó su marcha por la vía muerta de derrota n.º 204a. La vía muerta de derrota n.º 204a estaba establecida para evitar la entrada no deseada de locomotoras de maniobras en la vía de tren o, en su caso, en la vía de maniobras, y por ello también, como consecuencia de la circulación no autorizada del tren Os 3428 más allá del nivel de la señal principal (de entrada) 2VL, no se produjo la entrada en la vía de circulación dispuesta para la circulación del tren en sentido contrario Os 3429, y con ello la afectación de la actividad del SZZ. Al final de la vía muerta de derrota n.º 204a, la locomotora de maniobras del tren Os 3428 impactó en el punto kilométrico 37,724 contra el topador de tierra, que perforó. A continuación, el tren, ya en estado de descarrilamiento, continuó por inercia su marcha por el plano del cuerpo de la infraestructura ferroviaria, donde la locomotora de maniobras impactó por el lado del terraplén contra el topador de tierra de la vía muerta de derrota n.º 204b. Este fue, por el impacto, al igual que el topador de la vía muerta de derrota n.º 204a, completamente destruido. Posteriormente, la locomotora de maniobras del tren Os 3428 impactó contra el mástil de iluminación n.º 7 y se detuvo en el plano del cuerpo de la infraestructura ferroviaria en el punto kilométrico 37,811.
+En la posición final tras la producción del accidente, el frente del tren Os 3428 se encontraba en el plano del cuerpo de la infraestructura ferroviaria en el punto kilométrico 37,811, a la derecha de la vía muerta de derrota n.º 204b, a una distancia de 87 m más allá del nivel del topador destruido de la vía muerta de derrota n.º 204a y a 8,5 m del eje de la vía n.º 202. El mástil de iluminación n.º 7, que se quebró a una altura de 1,1 m desde la base, quedó apoyado contra el frente de la locomotora de maniobras, y ello en el nivel de su enganche derecho. El extremo trasero del tren Os 3428 se encontraba en el plano del cuerpo de la infraestructura ferroviaria a la derecha de la vía muerta de derrota n.º 204b, a una distancia de 7,8 m más allá del nivel del topador destruido de la vía muerta de derrota n.º 204a y a 5,3 m del eje de la vía n.º 202.
+### Fig. n.º 2: Tren Os 3428, compuesto por una unidad eléctrica de dos plantas de tipo de fábrica 1 Ev, en la posición final tras el accidente
+Por la destrucción de la caja de baterías de la locomotora de maniobras 95 54 5 971 025-2, dañada como consecuencia del suceso, se produjo un cortocircuito y la interrupción del suministro a la red a bordo de todas las locomotoras de maniobras del tren Os 3428. Estos hechos causaron la interrupción del suministro a todos los equipos eléctricos de las locomotoras de maniobras, y por ello
 
 ## Página 16
 
-el tren descarrilado no estaba iluminado ni señalizado en sus frentes con las señales correspondentes.
-La composición no iluminada y no señalizada del tren Os 3428 fue observada por la persona que conduce el vehículo ferroviario (en adelante, maquinista) del tren en sentido contrario Os 3429 al pasar por la estación de Odra.
-Además de los daños ya descritos anteriormente, producidos en las instalaciones de la infraestructura de la vía por la circulación no autorizada del tren Os 3428 más allá de la señal principal (de entrada) 2VL, se produjo, como consecuencia de la circulación del HDV 97 54 9 471 025-7 con el pantógrafo levantado por la vía muerta de apartadero n.º 204a y por la explanada del cuerpo de la infraestructura ferroviaria a lo largo de la vía muerta de apartadero n.º 204b, la rotura de los cables de dirección sobre las vías muertas de apartadero n.º 204a y 204b, entre los soportes de tracción n.º 93 – 94 y n.º 95 – 96, lo que tuvo como resultado el tendido del hilo de contacto sobre la vía n.º 202.
-La señal principal (de entrada) 2VL de la estación de Odra está situada a la derecha de la vía de circulación n.º 2 en el km 37,268. Tras la producción de la MU, la señal mostró la indicación «Alto». La óptica de la luz roja estaba limpia. Las señales de la señal principal (de entrada) 2VL son visibles desde el DV de cabeza, en el sentido de circulación DV desde la estación de Ostrava-Vítkovice, a una distancia de 220 m.
-Como consecuencia de la MU resultaron lesionadas un total de 7 personas, de las cuales 2 fueron atendidas en el lugar y 5 fueron atendidas tras su traslado a centros sanitarios (Hospital Universitario de Ostrava, Hospital Municipal de Ostrava). Dado que el lugar de producción de la MU se encuentra en un terreno muy difícilmente accesible para la técnica de carretera del IZS, para el traslado de todas las personas que viajaban en el tren Os 3428 desde la estación de Odra, incluidas las personas que resultaron lesionadas, se despachó desde la estación de Ostrava-Vítkovice el llamado «Tren de Rescate». La circulación del «Tren de Rescate», compuesto por la composición DV del tren Os 2840, fue acordada por el OŘDD de la estación de Ostrava-Vítkovice con el OŘDD del CDP Přerov en forma de PMD el 22. 10. 2011 a las 20:40 h y autorizada por la vía de circulación n.º 1 en dirección a la estación de Odra, hasta el km 37,748. El PMD partió de la estación de Ostrava Vítkovice a las 20:43 h. Tras la llegada del PMD a la estación de Odra y el embarque de las personas que viajaban en el tren Os 3428, el OŘDD decidió continuar la circulación del PMD hasta la estación de Polanka nad Odrou, desde donde la composición partió posteriormente como especial Os 10190 hacia la estación de Ostrava-Svinov, donde se dispusieron vehículos sanitarios de carretera para el traslado de los pasajeros heridos a los centros sanitarios.
+El tren descarrilado no estaba iluminado ni señalizado en sus extremos con las señales correspondientes. 
+La composición no iluminada y no señalizada del tren Os 3428 fue observada durante su paso por la estación de 
+Odra por la persona que conducía el vehículo ferroviario (en adelante, maquinista) del tren en sentido contrario Os 3429.
+Además de los daños ya descritos anteriormente, producidos en las instalaciones de la infraestructura ferroviaria 
+por la circulación no autorizada del tren Os 3428 más allá de la señal principal (de entrada) 2VL, se produjo, como 
+consecuencia de la circulación del HDV 97 54 9 471 025-7 con el colector de corriente levantado por la vía muerta 
+de maniobras n.º 204a y por la explanada del cuerpo de la plataforma ferroviaria a lo largo de la vía muerta de 
+maniobras n.º 204b, la rotura de los cables de dirección sobre las vías muertas de maniobras n.º 204a y 204b, 
+entre los soportes de tracción n.º 93 – 94 y n.º 95 – 96, lo que tuvo como resultado el tendido de la catenaria 
+sobre la vía n.º 202.
+La señal principal (de entrada) 2VL de la estación de Odra está situada a la derecha de la vía principal n.º 2 
+en el km 37,268. Tras la producción del accidente, la señal mostró la indicación «Alto». El óptico 
+de la luz roja estaba limpio. Las señales de la señal principal (de entrada) 2VL son visibles 
+desde la cabina del DV en el sentido de circulación del DV desde la estación Ostrava-Vítkovice a una distancia 
+de 220 m.  
+Como consecuencia del accidente, resultaron lesionadas un total de 7 personas, de las cuales 2 fueron atendidas 
+en el lugar y 5 fueron atendidas tras su traslado a centros sanitarios (Hospital Universitario de Ostrava, 
+Hospital Municipal de Ostrava). Dado que el lugar donde se produjo el accidente se encuentra en un terreno 
+muy difícilmente accesible para los vehículos terrestres de emergencia del sistema de emergencia, se dispuso, 
+para el traslado de todas las personas que viajaban en el tren Os 3428 desde la estación de Odra, incluidas las 
+personas que resultaron lesionadas, desde la estación Ostrava-Vítkovice, el llamado «Tren de Rescate». La circulación 
+del «Tren de Rescate», compuesto por la composición DV del tren Os 2840, fue acordada por el Jefe de Circulación 
+de la estación Ostrava-Vítkovice con el Jefe de Circulación del Centro de Circulación de Přerov mediante 
+orden de trabajo (PMD) el 22. 10. 2011 a las 20:40 h y autorizada por la vía principal n.º 1 en dirección a la estación 
+de Odra, hasta el km 37,748. El PMD partió de la estación Ostrava Vítkovice 
+a las 20:43 h. Tras la llegada del PMD a la estación de Odra y el embarque de las personas que viajaban en el tren Os 3428, 
+el Jefe de Circulación decidió continuar la circulación del PMD hasta la estación de Polanka nad Odrou, desde donde 
+la composición partió posteriormente como especial Os 10190 hacia la estación Ostrava-Svinov, donde se dispusieron 
+vehículos terrestres de ambulancia para el traslado de los pasajeros heridos a los centros sanitarios.
 2.1.3 Decisión de iniciar la investigación de las causas y circunstancias de la producción, composición del equipo de personas cualificadas y método de dirección de la investigación de las causas y circunstancias de la producción
-La producción de la MU fue notificada por teléfono al COP DI del operador de la vía y del transportista el 22. 10. 2011 a las 19:53 h, es decir, 26 minutos y 7 segundos después de la producción de la MU, por un empleado de SŽDC, s. o., OMU ÚP Ostrava. El empleado del COP DI, sobre la base de los hechos notificados, decidió desplazarse e iniciar en el lugar la investigación de las causas y circunstancias de la producción de la MU. La actividad en el lugar de la MU la realizó la DI con la composición de dos inspectores superiores del ÚI Ostrava y un inspector superior del ÚI Brno.
-El consentimiento para iniciar los trabajos de limpieza fue otorgado por la DI el 22. 10. 2011 a las 21:57 h, es decir, 2 horas, 31 minutos y 7 segundos después de la producción de la MU.
-La posterior investigación de las causas y circunstancias de la producción de la MU fue encomendada, en el marco de la DI, al ÚI Ostrava. La propia investigación de las causas y circunstancias de la producción de la MU se realizó de conformidad con el § 53b de la ley n.º 266/1994 Sb., de ferrocarriles, en su versión vigente (en adelante, ley n.º 266/1994 Sb.), y el § 11 del decreto n.º 376/2006 Sb., sobre el sistema de seguridad de la explotación del ferrocarril y del transporte ferroviario y los procedimientos en caso de producción de sucesos excepcionales en los ferrocarriles, en su versión vigente (en adelante, decreto n.º 376/2006 Sb.).
+La producción del accidente fue notificada por teléfono al Centro de Operaciones de Información (COP DI) del gestor de la infraestructura y del transportista el 
+22. 10. 2011 a las 19:53 h, es decir, 26 minutos y 7 segundos después de la producción del accidente, por un empleado de SŽDC, 
+s. o., OMU ÚP Ostrava. El empleado del COP DI, sobre la base de los hechos notificados, 
+decidió desplazarse e iniciar en el lugar la investigación de las causas y circunstancias de la producción del accidente. La actividad en el lugar del accidente fue realizada por la DI con la composición de dos inspectores superiores de la ÚI Ostrava y un inspector superior de la ÚI Brno. 
+El consentimiento para iniciar los trabajos de limpieza fue otorgado por la DI el 22. 10. 2011 a las 21:57 h, 
+es decir, 2 horas, 31 minutos y 7 segundos después de la producción del accidente.
+La posterior investigación de las causas y circunstancias de la producción del accidente fue encomendada, en el marco de la DI, 
+a la ÚI Ostrava. La propia investigación de las causas y circunstancias de la producción del accidente fue realizada de conformidad 
+con el § 53b de la ley n.º 266/1994 Sb., de ferrocarriles, en su versión vigente (en adelante, la ley 
+n.º 266/1994 Sb.), y el § 11 del decreto n.º 376/2006 Sb., sobre el sistema de seguridad de la explotación 
+ferroviaria y del transporte ferroviario y los procedimientos en caso de producción de sucesos excepcionales en las vías 
+ferroviarias, en su versión vigente (en adelante, el decreto n.º 376/2006 Sb.).
 
 ## Página 17
+
 
 ## 2.2
 ### Circunstancias del suceso ferroviario
@@ -458,8 +496,8 @@ Todos los DV participantes en el SU tenían, en el momento de producirse el SU, 
 La velocidad del tren Os 3428 entre las estaciones Ostrava-Vítkovice y la parada Odra, es decir, en el lugar de producción del SU, estaba fijada por el SJŘ en el valor v = 80 km·h-1.
 En el momento de producirse el SU viajaban en el tren un total de 49 personas, de las cuales 2 eran empleados del transportista [el maquinista y la persona encargada de impartir instrucciones y órdenes – el jefe de acompañamiento del tren (en adelante jefe de tren)].
 
-
 ## Página 18
+
 
 ### 2.2.3 Descripción de los componentes de la vía de circulación de la infraestructura, del sistema de señalización (es decir, en particular el estado de los raíles, desvíos, aparatos de enclavamiento, señales y del dispositivo de seguridad del tren)
 La parada Odra está equipada con un SZZ de 3.ª categoría, un aparato de enclavamiento electrónico tipo ESA 11, operado a distancia mediante JOP desde el CDP Přerov. La tecnología del SZZ de la parada Odra está situada en la desvía Polanka nad Odrou. El SZZ está equipado, con excepción de las vías muertas de rebaje n.º 204a y n.º 204b, con secciones de vía (KO) con elementos indicativos. Dado que las vías muertas de rebaje n.º 204a y n.º 204b se establecieron primariamente como un dispositivo de protección destinado a evitar la entrada no deseada de DV en la vía de circulación (de tren, o en su caso de maniobra), estas vías no están equipadas con ningún dispositivo que evalúe la presencia de DV en la sección correspondiente o su paso por el punto de control (por ejemplo, KO, contador de ejes).
@@ -472,104 +510,84 @@ La vía n.º 2 entre las estaciones Ostrava-Vítkovice y la parada Odra, en el s
 ## Página 19
 
 desvío n.º 205 de tipo JS49 1:14-760 Pl d, que en pareja con el desvío n.º 204 de tipo JS49 
-1:14-760 Pl d, insertado en la vía n.º 201 de la estación de enlace Odra desde el km 37,705 hasta el km 37,759, forma 
-un simple enlace de vías entre las vías n.º 202 y n.º 201. El enlace de vías permite la circulación de trenes 
-en dirección desde la est. Ostrava-Vítkovice hasta la est. Ostrava-Svinov y viceversa. En la vía n.º 202 desde el km 
-37,843 = 0,280 hasta el km 37,868 = 0,305 está insertado el desvío n.º 206 de tipo JS49 1:7,5-190 Ll d, 
-que permite la circulación de DV en dirección secundaria hacia la vía muerta de maniobra n.º 204b de la estación de enlace Odra, 
-con longitud útil de 62 m y terminada en tope de tierra. En la vía n.º 1 de la línea de la estación de enlace Odra – 
-est. Ostrava-Svinov en el km 37,868 = 0,305 hasta el km 0,512, es decir, hasta el nivel de la señal principal 
-(de entrada) OS, la vía se desarrolla en dirección recta, con una pendiente de 3,80 ‰.
-El balasto de la vía principal n.º 2 entre la est. Ostrava-Vítkovice y la estación de enlace Odra hasta 
-el km 37,268, es decir, hasta el nivel de la señal principal (de entrada) 2VL, en el sentido de circulación del tren Os 3428 
-hacia la est. Ostrava-Svinov, está formado por carriles de tipo S 49 sobre traviesas transversales de hormigón 
-de tipo SB6. Los carriles de tipo S 49 están fijados a las traviesas de hormigón 
-mediante placas de asiento nerviadas S 4, abrazaderas de tipo ŽS 4 y tornillos R 1. Desde el km 37,268 
-hasta el km 37,563 = 0,000 el balasto de la vía n.º 2 está formado por carriles de tipo T sobre traviesas transversales 
-de hormigón de tipo SB 6. Los carriles de tipo T están fijados a las traviesas de hormigón 
-mediante placas de asiento nerviadas S 4, abrazaderas de tipo ŽS 4 y tornillos R 1. El balasto 
-de la vía n.º 202 en la estación de enlace Odra entre los desvíos n.º 202 y n.º 205 y el balasto de las vías n.º 204a 
-y n.º 204b está formado por carriles de tipo S 49 sobre traviesas de madera. Los carriles de tipo S 49 
-están fijados a las traviesas de madera mediante placas de asiento nerviadas S 4, abrazaderas 
+1:14-760 Pl d, insertado en la vía n.º 201 de la estación de Odra desde el pk 37,705 hasta el pk 37,759, forma 
+un enlace simple de vías entre las vías n.º 202 y n.º 201. El enlace de vías permite la circulación de trenes 
+en dirección desde la est. Ostrava-Vítkovice hacia la est. Ostrava-Svinov y viceversa. En la vía n.º 202 desde el pk 37,843 = 0,280 hasta el pk 37,868 = 0,305 está insertado el desvío n.º 206 de tipo JS49 1:7,5-190 Ll d, 
+que permite la circulación de DV en dirección secundaria hacia la vía muerta de contravía n.º 204b de la estación de Odra, 
+con longitud útil de 62 m y terminada en tope de tierra. En la vía n.º 1 de la línea de la estación de Odra – 
+est. Ostrava-Svinov en el pk 37,868 = 0,305 hasta el pk 0,512, es decir, hasta el nivel de la señal principal (de entrada) 
+OS, la vía se desarrolla en línea recta, con una pendiente de 3,80 ‰.
+El lecho de la vía de la vía principal n.º 2 entre la est. Ostrava-Vítkovice y la estación de Odra está 
+hasta el pk 37,268, es decir, hasta el nivel de la señal principal (de entrada) 2VL, en el sentido de circulación del tren Os 3428 hacia la est. Ostrava-Svinov, formado por raíles de tipo S 49 sobre traviesas transversales de hormigón 
+de tipo SB6. Los raíles de tipo S 49 están unidos a las traviesas de hormigón 
+mediante placas base nervuradas S 4, abrazaderas de tipo ŽS 4 y tornillos R 1. Desde el pk 37,268 
+hasta el pk 37,563 = 0,000, el lecho de la vía n.º 2 está formado por raíles de tipo T sobre traviesas transversales 
+de hormigón de tipo SB 6. Los raíles de tipo T están unidos a las traviesas de hormigón 
+mediante placas base nervuradas S 4, abrazaderas de tipo ŽS 4 y tornillos R 1. El lecho de la vía 
+de la vía n.º 202 en la estación de Odra entre los desvíos n.º 202 y n.º 205 y el lecho de las vías n.º 204a 
+y n.º 204b está formado por raíles de tipo S 49 sobre traviesas de madera. Los raíles de tipo S 49 
+están unidos a las traviesas de madera mediante placas base nervuradas S 4, abrazaderas 
 de tipo ŽS 4 y tornillos R 1. 
-La cama de balasto en la vía principal n.º 2 entre la est. Ostrava-Vítkovice y la estación de enlace Odra 
-y en las vías de la estación de enlace Odra está formada por árido natural triturado de fracción 32-63 mm.
-Todas las vías, incluidos los enlaces de vías de la estación de enlace Odra, con excepción de las vías muertas de maniobra 
+El balasto en la vía principal n.º 2 entre la est. Ostrava-Vítkovice y la estación de Odra 
+y en las vías de la estación de Odra está formado por árido natural triturado de fracción 32-63 mm.
+Todas las vías, incluidos los enlaces de vías de la estación de Odra, con la excepción de las vías muertas de contravía 
 n.º 204a y 204b, están electrificadas con sistema de corriente continua de 3 kV.
-La velocidad de línea en el lugar de producción de la MU, según la documentación del gestor de la infraestructura, 
+La velocidad de la línea en el lugar de producción de la MU, según la documentación del gestor de la infraestructura ferroviaria, 
 contenida en las Tablas de condiciones de línea «TTP 301 D, Tabla 6», en la redacción de la Modificación n.º 56, 
 vigorosa desde el 01. 04. 2011, está fijada en el valor v = 80 km·h-1. La distancia de frenado 
 en el tramo de línea en cuestión está fijada en 1 000 m.
 ### 2.2.4 Uso de medios de comunicación
-Durante la circulación del tren Os 3428 entre la señal principal (de sección) 357 y la señal principal 
-(de entrada) 2VL de la estación de enlace Odra, o durante la circulación más allá del nivel de esta señal principal 
-(de entrada), el maquinista del tren Os 3428 utilizó el teléfono móvil de servicio para 
-enviar un mensaje SMS de texto de carácter privado, que no guardaba relación con el desempeño 
+Durante la circulación del tren Os 3428 entre la señal principal (de sección) 357 y la señal 
+principal (de entrada) 2VL de la estación de Odra, o durante la circulación más allá del nivel de esta señal 
+principal (de entrada), el maquinista del tren Os 3428 utilizó el teléfono móvil de servicio 
+para enviar un mensaje de texto SMS de carácter privado, que no guardaba relación con el cumplimiento 
 de las obligaciones laborales del maquinista.
 El jefe de tren del tren Os 3428, para comunicar la producción de la MU al puesto de comunicación, utilizó 
 el teléfono móvil de servicio, mediante el cual estableció una conexión telefónica con el jefe de estación 
-de la est. Ostrava-Svinov, al que informó de la situación producida del tren Os 3428 en la estación de enlace Odra.
-El maquinista del tren Os 3429, al pasar por la estación de enlace Odra, observó una unidad 
-eléctrica de dos pisos, sin iluminar y sin señalizar, de tipo de fábrica 1 Ev. Dado que esta 
-situación no le pareció estándar, intentó mediante el radioteléfono del vehículo 
-y posteriormente también con el teléfono móvil de servicio establecer contacto con el OŘDD de la est. Ostrava-Svinov 
-y Ostrava-Vítkovice. La conexión con los OŘDD llamados no le fue posible realizarla, tras pasar por la estación de enlace Odra, 
-debido a la cobertura insuficiente de las señales de las redes móviles. Dado el tiempo de recorrido 
+de la est. Ostrava-Svinov, al que informó de la situación producida del tren Os 3428 en la estación de Odra.
+El maquinista del tren Os 3429, al pasar por la estación de Odra, observó una unidad eléctrica de dos plantas 
+de fábrica tipo 1 Ev, sin iluminar y sin señalizar. Dado que esta situación no le parecía estándar, 
+intentó, mediante la radio del vehículo y posteriormente también con el teléfono móvil de servicio, establecer contacto con el OŘDD de la est. Ostrava-Svinov 
+y Ostrava-Vítkovice. La conexión con los OŘDD llamados no le fue posible realizarla, debido a la cobertura 
+insuficiente de las señales de las redes móviles, tras pasar por la estación de Odra. Dado el tiempo de recorrido 
 hasta la estación, donde se encuentra el puesto de comunicación, es decir, la est. Ostrava-Vítkovice, el maquinista 
-del tren Os 3429 decidió continuar con la circulación. Inmediatamente tras la llegada del tren a la est. 
-Ostrava-Vítkovice y comprobar que la unidad eléctrica de dos pisos, sin iluminar y sin señalizar, 
-
+del tren Os 3429 decidió continuar con la circulación. Inmediatamente después de la llegada del tren a la est. 
+Ostrava-Vítkovice y de comprobar que la unidad eléctrica de dos plantas sin iluminar y sin señalizar
 
 ## Página 20
 
-estacionada en la estación de enlace Odra era el material del tren Os 3428, comunicó personalmente la producción de la MU 
-en la oficina de tráfico del OŘDD.
-No se utilizaron otros medios de comunicación en relación con la producción de la MU.
+estacionada en la desviación Odra, como tren del tren Os 3428, comunicó personalmente la aparición de la MU en la oficina de tráfico OŘDD.
+No se utilizaron otros medios de comunicación en relación con la aparición de la MU.
 ### 2.2.5 Trabajos realizados en el lugar del suceso excepcional y en sus proximidades
-En el lugar de la MU no se realizaron, inmediatamente antes de su producción, por parte del propietario de la infraestructura ni 
-por parte del gestor de la infraestructura, trabajos de reparación o de mantenimiento en el superestructura, 
-subestructura, línea de contacto y aparatos de señalización, ni otros trabajos en la 
-explotación de la infraestructura que tuvieran relación causal con la producción de la MU en cuestión.
-### 2.2.6 Activación del plan para el caso de suceso excepcional en la infraestructura y secuencia de hechos
-Para la comunicación de la MU en la infraestructura, el gestor de la infraestructura SŽDC, s. o., ha emitido la norma interna 
-SŽDC Dp 17 (provisional) «Norma para la comunicación e investigación de sucesos excepcionales», 
-n.º de expediente 22957/08-OKS, de fecha 27. 06. 2008, en vigor desde el 01. 07. 2008, en la redacción vigente. 
-Secuencia de hechos:
-a las 19:28:48 h comunicó la producción de la MU el jefe de tren del tren Os 3428, mediante 
+En el lugar de la MU, inmediatamente antes de su aparición, ni el propietario de la vía ni el explotador de la vía realizaron trabajos de reparación o mantenimiento en el balasto, la subestructura, la línea de contacto y el dispositivo de señalización, ni otros trabajos en la explotación de la vía que tuvieran relación causal con la aparición de la MU en cuestión.
+### 2.2.6 Activación del plan para el caso de suceso excepcional en la vía y secuencia de acontecimientos
+Para la comunicación de MU en la vía, el explotador de la vía SŽDC, s. o., ha emitido la normativa interna SŽDC Dp 17 (provisional) "Normativa para la comunicación e investigación de sucesos excepcionales", ref. 22957/08-OKS, de fecha 27. 06. 2008, en vigor desde el 01. 07. 2008, en su versión vigente.
+Secuencia de acontecimientos:
+a las 19:28:48 h, el jefe de tren del tren Os 3428 comunicó la aparición de la MU, mediante
 •
-el teléfono móvil de servicio, al OŘDD de la est. Ostrava-Svinov;
-a las 19:29:10 h el maquinista del tren Os 3429 observó una unidad eléctrica de dos pisos, 
+el teléfono móvil profesional, al OŘDD en la est. Ostrava-Svinov;
+a las 19:29:10 h, el maquinista del tren Os 3429 observó una unidad eléctrica de dos pisos sin iluminar y sin señalizar
 •
-sin iluminar y sin señalizar, estacionada en la estación de enlace Odra;
-a las 19:32 h se detuvo el tren Os 3429 en la est. Ostrava-Vítkovice;
+estacionada en la desviación Odra;
+a las 19:32 h, el tren Os 3429 se detuvo en la est. Ostrava-Vítkovice;
 •
-hacia las 19:33 h el maquinista del tren Os 3429 comunicó personalmente la producción de la MU en la estación de enlace Odra 
+hacia las 19:33 h, el maquinista del tren Os 3429 comunicó personalmente la aparición de la MU en la desviación Odra
 •
-en la oficina de tráfico (puesto de comunicación) de la est. Ostrava-Vítkovice del OŘDD de dicha estación, 
-que a continuación actuó de conformidad con el HORARIO DE COMUNICACIONES;
-a las 19:33:41 el jefe de tren del tren Os 3428, mediante el teléfono móvil de 
+en la oficina de tráfico (puesto de comunicación) de la est. Ostrava-Vítkovice OŘDD de dicha estación, que a continuación actuó de conformidad con el HORARIO DE COMUNICACIONES;
+a las 19:33:41, el jefe de tren del tren Os 3428, mediante el teléfono móvil profesional,
 •
-servicio, precisó al OŘDD de la est. Ostrava-Svinov las consecuencias de la MU, que a continuación 
-actuó de conformidad con el HORARIO DE COMUNICACIONES;
-a las 19:53 h un empleado de SŽDC, s. o., OMU ÚP Ostrava, comunicó la producción de la MU al COP 
+precisó al OŘDD de la est. Ostrava-Svinov las consecuencias de la MU, que a continuación actuó de conformidad con el HORARIO DE COMUNICACIONES;
+a las 19:53 h, un empleado de SŽDC, s. o., OMU ÚP Ostrava, comunicó la aparición de la MU en el COP
 •
 DI.
-En virtud del contrato «Contrato de colaboración en la investigación de sucesos excepcionales 
-en el transporte ferroviario y de accidentes laborales mortales y graves», celebrado el 31. 08. 2011 
-entre SŽDC, s. o., y ČD, a. s., en vigor desde el 01. 09. 2011, la producción de la MU en el COP DI 
-fue comunicada conjuntamente por el gestor de la infraestructura y el transportista por un empleado de SŽDC, s. o., OMU 
-ÚP Ostrava, persona designada en el sentido del § 9 apart. 1 del decreto n.º 376/2006 Sb. para 
-la determinación de las causas y circunstancias de la producción de la MU.
-Al lugar de la MU acudieron las personas profesionalmente competentes del gestor de la infraestructura 
-y del transportista, y el VI DI. En el lugar de la MU estaban presentes también los directivos 
-de las distintas unidades organizativas del gestor de la infraestructura y del transportista. Con la participación del VI DI se realizó 
-la inspección comisionada del lugar de la MU, incluida la elaboración del acta.
-El transporte ferroviario fue interrumpido desde el 22. 10. 2011 (19:27 h) hasta el 23. 10. 2011 (00:20 h), 
-es decir, durante 293 minutos. Con el fin de eliminar las consecuencias de la MU, el transporte ferroviario fue 
-además interrumpido los días 23 y 24. 10. 2011, en el horario desde las 09:40 h del primer día hasta las 02:00 h del día 
-siguiente, es decir, 980 minutos.
+En virtud del contrato "Contrato de colaboración en la investigación de sucesos excepcionales en el transporte ferroviario y de accidentes laborales mortales y graves", celebrado el 31. 08. 2011 entre SŽDC, s. o., y ČD, a. s., en vigor desde el 01. 09. 2011, la aparición de la MU en el COP DI fue comunicada conjuntamente por el explotador de la vía y el transportista por un empleado de SŽDC, s. o., OMU ÚP Ostrava, persona designada en el sentido del § 9 apart. 1 del decreto núm. 376/2006 Sb. para la determinación de las causas y circunstancias de la aparición de la MU.
+Al lugar de la MU acudieron las personas cualificadas del explotador de la vía
+y del transportista y el VI DI. En el lugar de la MU estaban presentes también los directivos de las distintas unidades organizativas del explotador de la vía y del transportista. Con la participación del VI DI se realizó la inspección comisionada del lugar de la MU, incluida la elaboración del acta.
+El tráfico ferroviario fue interrumpido desde el 22. 10. 2011 (19:27 h) hasta el 23. 10. 2011 (00:20 h),
+es decir, durante 293 minutos. Con el fin de eliminar las consecuencias de la MU, el tráfico ferroviario fue interrumpido además los días 23 y 24. 10. 2011, en el periodo desde las 09:40 h del primer día hasta las 02:00 h del día siguiente, es decir, 980 minutos.
 
 ## Página 21
+
 
 ### 2.2.7 Activación del plan del sistema integrado de emergencia, de la policía y del servicio de emergencias sanitarias y secuencia de acontecimientos
 El IZS fue activado inmediatamente después de la aparición del MU por uno de los pasajeros del tren Os 3428 y, a continuación, también por el OŘDD de la estación de Ostrava-Svinov. En el lugar del MU intervinieron las unidades de la PČR de la Dirección Municipal de Ostrava, del Departamento Territorial del Servicio de Policía Criminal e Investigación, del HZS de SŽDC, s. o., Unidad de Protección Contra Incendios (3 vehículos de bomberos), del HZS de la Región de Moravia y Silesia, Ostrava-Fifejdy est. 2 (1 vehículo de bomberos), del HZS de la Región de Moravia y Silesia, Ostrava-Poruba est. 3 (1 vehículo de bomberos), del HZS de la Región de Moravia y Silesia, Ostrava-Přívoz est. 6 (1 vehículo de bomberos), del HZS de la Región de Moravia y Silesia, Ostrava CS 1 (1 vehículo de bomberos), del Centro Territorial de Servicios de Emergencia de la Región de Moravia y Silesia (3 ambulancias) y de Transporte de Heridos, Enfermos y Parturientas (3 ambulancias).
@@ -608,8 +626,9 @@ En el medio ambiente no se produjo daño.
 Temperatura del aire + 9 oC, período nocturno, calma, visibilidad no reducida por influencias meteorológicas;
 •
 
-
 ## Página 22
+
+
 Coordenadas GPS del lugar del MU: 49°47'42.2654''N, 18°13'8.1049''E.
 •
 El Odb. Odra se encuentra en el término municipal de Ostrava, en la frontera de las reservas naturales Rezavka y Polanecký les. Estas reservas están formadas por un bosque de ribera en torno al brazo muerto del río Odra y por extensas cañaverales del estanque Vrbenského, que junto con el cauce del río Odra y un canal permanentemente alimentado constituyen un terreno inaccesible para la llegada de vehículos del IZS.
@@ -625,10 +644,11 @@ Maquinista del tren Os 3428
 y del Acta de Interrogatorio del Imputado se desprende, entre otros datos:
 el 22. 10. 2011 a las 07:00 h en DKV Olomouc, PP Opava, al incorporarse al servicio 
 ◦
-se presentó al jefe de taller, quien le informó de una incidencia consistente en el cambio de 
-
+se presentó al jefe de taller, quien le informó de una incidencia consistente en el cambio de
 
 ## Página 23
+
+
 hora de incorporación al turno (desplazado de las 07:20 h a las 08:02 h) y en el transcurso modificado del turno, provocado por una interrupción no prevista entre la estación de Děhylov y Ostrava-Třebovice;
 para el viaje de servicio en el tramo Opava východ – Děhylov utilizó el tren designado Os 3409, 
 ◦
@@ -683,58 +703,39 @@ maquinista y comenzó a cumplir sus obligaciones laborales, consistentes princip
 
 ## Página 24
 
-durante la circulación del tren Os 3428 en el tramo Český Těšín – emp. Odra no observó
+durante la circulación del tren Os 3428 en el tramo Český Těšín – desvío Odra no observó
 ◦
 ninguna anomalía;
-en conversaciones con el maquinista del tren Os 3428, realizadas antes de la aparición de la MU, 
+en las conversaciones mantenidas con el maquinista del tren Os 3428, realizadas antes de la aparición del MU, este no mostró signos de fatiga, influencia de sustancias estupefacientes ni indisposición de salud;
 ◦
-este no mostró signos de fatiga, influencia de sustancias estupefacientes ni indisposición de salud;
-en el momento de la salida del tren de la est. Ostrava-Vítkovice se encontraba en el DV inserto;
+en el momento de la salida del tren de la est. Ostrava-Vítkovice se encontraba en el DV insertado;
 ◦
-tras la salida de la est. Ostrava-Vítkovice pasó al HDV, donde realizó la comprobación de los 
+tras la salida de la est. Ostrava-Vítkovice pasó al HDV, donde realizó la comprobación de los documentos de viaje de 4 o 5 pasajeros. Tras el desvío Odra no registró ninguna frenada de la composición del tren Os 3428;
+en el desvío Odra la composición tuvo un funcionamiento no estándar, causado por la circulación del tren a través del desvío n.º 202 contra la aguja en dirección lateral derecha hacia la vía muerta de derrota n.º 204a y el posterior impacto contra el topador de tierra y el descarrilamiento. Antes incluso de la parada del tren se apagó la iluminación del interior;
+tras la parada del tren se dirigió a comprobar las consecuencias del MU (daños a la salud de los pasajeros) y, a la vez, a través del teléfono móvil de servicio informó de la situación ocurrida a la OŘDD de la est. Ostrava-Svinov;
 ◦
-documentos de viaje de 4 o 5 pasajeros. Tras el emp. Odra no registró ninguna frenada de la composición del tren Os 3428;
-en el emp. Odra la composición tuvo un comportamiento no estándar, causado por la circulación del tren por 
-◦
-el desvío n.º 202 en aguja contra punta en el sentido secundario hacia la derecha a la vía muerta de derrota n.º 204a y el posterior choque contra el topador de tierra y el descarrilamiento. Antes incluso de la detención del tren se apagó la iluminación del interior;
-tras la detención del tren se dirigió a comprobar las consecuencias de la MU (daños a la salud de los pasajeros) 
-◦
-y, al mismo tiempo, informó de la situación ocurrida a la OŘDD de la est. Ostrava-Svinov a través del teléfono móvil profesional;
-al llegar al DV de mando comprobó que las puertas de la cabina del maquinista estaban 
-◦
-abiertas y que un pasajero ya estaba prestando primeros auxilios al maquinista.
+al llegar al DV de mando comprobó que las puertas de la cabina del maquinista estaban abiertas y que alguien de entre los pasajeros ya estaba prestando primeros auxilios al maquinista.
 Maquinista del tren Os 3429
-  – del Acta con el empleado se desprende, entre otras cosas:
+  – del Acta con el empleado, entre otros, se deduce:
 •
-de la est. Ostrava-Svinov partió con el tren Os 3429 tras la expedición regular del tren con unos 
+de la est. Ostrava-Svinov partió con el tren Os 3429 tras la expedición regular del tren con unos 3 minutos de retraso;
 ◦
-3 minutos de retraso;
-al pasar por el emp. Odra, concretamente a la salida de la curva a la izquierda, vislumbró 
+al pasar por el desvío Odra, concretamente a la salida de la curva izquierda, vislumbró a su izquierda, en el sentido de circulación de su tren, una unidad eléctrica de dos pisos sin iluminar y sin señalizar, sin observar ningún movimiento de personas. Al tratarse de una situación no estándar, comenzó a reducir la velocidad del tren Os 3429. Posteriormente intentó establecer, a través del TRS y el teléfono móvil de servicio, comunicación con la OŘDD de la est. Ostrava-Svinov o Ostrava-Vítkovice. No le fue posible establecer la comunicación con la OŘDD de la est. Ostrava-Svinov o Ostrava-Vítkovice, debido a la cobertura de las redes móviles, muy deficiente, casi nula;
 ◦
-a la izquierda en el sentido de circulación de su tren una unidad eléctrica de dos pisos sin iluminar y sin señalizar, sin observar ningún movimiento de personas. 
-Al tratarse de una situación no estándar, comenzó a reducir la velocidad del tren Os 3429. Posteriormente intentó establecer, a través del TRS y el teléfono móvil profesional, comunicación con la OŘDD de la est. Ostrava-Svinov o Ostrava-Vítkovice. No le fue posible establecer comunicación con la OŘDD de la est. Ostrava-Svinov o Ostrava-Vítkovice debido a la muy mala, casi nula, cobertura de las redes móviles;
-tras evaluar la situación ocurrida, decidió continuar con el tren hasta la estación más cercana, 
+tras evaluar la situación ocurrida, decidió continuar con el tren hasta la estación más próxima, que era la est. Ostrava-Vítkovice, e informar allí personalmente a la OŘDD de dicha estación sobre el estado detectado en el desvío Odra;
 ◦
-que era la est. Ostrava-Vítkovice, e informar allí personalmente a la OŘDD de esta estación del estado detectado en el emp. Odra;
-tras la llegada a la est. Ostrava-Vítkovice se presentó inmediatamente en la oficina de tráfico 
-◦
-e informó a la OŘDD de su hallazgo en el emp. Odra, preguntándole la OŘDD qué había ocurrido realmente en el emp. Odra. La OŘDD no tenía ningún conocimiento previo de la situación surgida en el emp. Odra.
+a su llegada a la est. Ostrava-Vítkovice se presentó inmediatamente en la oficina de tráfico y comunicó a la OŘDD su hallazgo en el desvío Odra, preguntándole la OŘDD qué había ocurrido realmente en el desvío Odra. La OŘDD no tenía ningún conocimiento previo de la situación surgida en el desvío Odra.
 OŘDD de la est. Ostrava-Vítkovice
-  – del Acta con el empleado se desprende, entre otras cosas:
+  – del Acta con el empleado, entre otros, se deduce:
 •
-incorporó su turno el 22. 10. 2011 a las 17:40 h y el turno transcurrió hasta aprox. las 19:30 h 
+incorporó su turno el 22. 10. 2011 a las 17:40 h y el turno transcurrió hasta aproximadamente las 19:30 h sin anomalías ni averías del ZZ;
 ◦
-sin anomalías ni averías del ZZ;
-a aprox. las 19:30 h le llamó por teléfono profesional la OŘDD n.º 1 CDP Přerov 
+a las aprox. 19:30 h le llamó por teléfono de servicio la OŘDD n.º 1 CDP Přerov y le preguntó si el tren Os 3428 había salido realmente de la est. Ostrava-Vítkovice. Mirando la placa indicadora del SZZ de relés, comprobó que los elementos indicadores del ZZ, los traslúcidos de los tramos de vía, no indican la presencia del DV. Por ello comunicó a la OŘDD n.º 1 CDP Přerov que el tren Os 3428 había salido realmente de la est. Ostrava-Vítkovice;
 ◦
-y le preguntó si el tren Os 3428 había salido realmente de la est. Ostrava-Vítkovice. 
-Mirando el panel indicador del SZZ de relés comprobó que los elementos indicadores del ZZ, los transparencias de los tramos de vía, no indican la presencia del DV. Por ello comunicó a la OŘDD n.º 1 CDP Přerov que el tren Os 3428 había salido realmente de la est. Ostrava-Vítkovice;
-a las 19:32 h detuvo en la vía de estación n.º 1 el tren Os 3429. Posteriormente se presentó 
-◦
-en la oficina de tráfico el maquinista del tren Os 3429 y le informó verbalmente de su hallazgo, que en el emp. Odra hay una unidad eléctrica de dos pisos sin iluminar y sin señalizar;
-
+a las 19:32 h detuvo en la vía de estación n.º 1 el tren Os 3429. Posteriormente, el maquinista del tren Os 3429 se presentó en la oficina de tráfico y le informó verbalmente de su hallazgo, que en el desvío Odra hay una unidad eléctrica de dos pisos sin iluminar y sin señalizar;
 
 ## Página 25
+
 
 posteriormente activó el IZS con el teléfono profesional y, a continuación, comunicó este hecho 
 ◦
@@ -787,54 +788,38 @@ la información sobre la aparición de la MU en el emp. Odra.
 
 ### 3.1.2 Otras personas
 Pasajeros
-  – Del Registro Oficial de la declaración de explicaciones prestada, entre otros, se desprende:
+  – del Registro Oficial de la declaración de explicaciones prestadas se desprende, entre otros datos:
 •
-abordó el tren Os 3428 junto con su esposa en la est. Ostrava-Kunčice 
+el pasajero subió al tren Os 3428 junto con su esposa en la est. Ostrava-Kunčice 
 ◦
-y a continuación se sentaron en el DV de mando en los asientos situados en el entresuelo del lado 
-del puesto de conducción del maquinista;
-tras la salida de la est. Ostrava-Vítkovice, la circulación hasta la parada Odra 
+y posteriormente se sentaron en el DV de mando, en los asientos situados en el entresuelo del lado de la cabina del maquinista;
+desde la salida de la est. Ostrava-Vítkovice la marcha se desarrolló de forma 
 ◦
-transcurrió de forma estándar, sin que registrara ninguna frenada del tren;
-tras entrar en la parada Odra, registró un funcionamiento anómalo del convoy, causado 
+estándar hasta la parada Odra, sin que registrara ninguna frenada del tren;
+al entrar en la parada Odra registró un funcionamiento anormal del tren, 
 ◦
-por el suceso accidentológico. Antes incluso de la detención del tren, oyó uno tras otro dos fuertes 
-golpes (el impacto del DV contra los topes de retención de las vías de desvío nº 204a y nº 204b) 
-y también se apagó la iluminación del interior;
-tras la detención del tren, observó las puertas abiertas del puesto de conducción del maquinista y oyó 
+causado por el suceso accidentado. Antes de que el tren se detuviera oyó, uno tras otro, dos fuertes golpes (el choque del DV contra los topes de frenado de las vías de apartadero nº 204a y nº 204b) y también se apagó la iluminación del interior;
+tras la detención del tren observó las puertas abiertas hacia la cabina del 
 ◦
-los quejidos del maquinista herido. A continuación vio al jefe de tren recorrer 
-el convoy del tren Os 3428 con una linterna en la mano;
-junto con otros pasajeros del tren Os 3428, se bajó y esperó la llegada 
+maquinista y oyó los quejidos del maquinista herido. A continuación vio al jefe de tren recorrer el tren Os 3428 con una linterna en la mano;
+junto con otros pasajeros del tren Os 3428 descendió y esperó la llegada 
 ◦
 de los servicios de rescate.
 ## 3.2
 ### Sistema de garantía de la seguridad
 ### 3.2.1 Organización marco y forma en que se emiten y ejecutan las instrucciones
-El gestor de la infraestructura y el transportista disponen de un sistema de garantía de la seguridad.
-En los sistemas de garantía de la seguridad adoptados por el gestor de la infraestructura y el transportista 
-relativos a las circunstancias de producción de esta concreta MU, no se detectaron deficiencias.
-### 3.2.2 Requisitos aplicables al personal del gestor de la infraestructura y del transportista y su 
-cumplimiento
- La aptitud médica de las personas que realizan la explotación de la infraestructura y del transporte ferroviario se 
-evalúa en el sentido de lo dispuesto en el artículo 101/1995 Sb., por el que se aprueba el Reglamento de 
-aptitud médica y profesional de las personas para la explotación de la infraestructura y del transporte ferroviario, en su 
-vigente redacción.
-Los requisitos de aptitud profesional de las personas que realizan la explotación de la infraestructura, incluido el 
-modo de adquisición y de exigencia de la misma, los establece la norma interna de SŽDC, s. o., Zam1 
-(provisional) «Reglamento sobre la aptitud profesional de los empleados», ref. 23 138/08-OKS, de fecha 
-30. 06. 2008, en vigor desde el 01. 07. 2008, en su vigente redacción.
-Los requisitos de aptitud profesional de las personas que realizan el transporte ferroviario, incluido el 
-modo de adquisición y de exigencia de la misma, los establece la norma interna de ČD, a. s., Ok2 
-«REGLAMENTO DE FORMACIÓN Y EXAMEN DE LOS FERROCARRILES CHECOS, a. s.», ref. 55 713/2009 – O10, de 
-fecha 25. 03. 2009, en vigor desde el 01. 04. 2009, en su vigente redacción.
+El gestor de la infraestructura y el transportista cuentan con un sistema de garantía de la seguridad establecido.
+En los sistemas de garantía de la seguridad establecidos por el gestor de la infraestructura y el transportista, relativos a las circunstancias de producción de esta concreta MU, no se detectaron deficiencias.
+### 3.2.2 Requisitos aplicables al personal del gestor de la infraestructura y del transportista y su cumplimiento
+ La aptitud médica de las personas que realizan la gestión de la infraestructura y el transporte ferroviario se evalúa en el sentido de lo dispuesto en el artículo 101/1995 Sb., por el que se aprueba el Reglamento sobre la aptitud médica y profesional de las personas para la gestión de la infraestructura y el transporte ferroviario, en su versión vigente.
+Los requisitos de aptitud profesional de las personas que realizan la gestión de la infraestructura, incluido el modo de adquisición y cumplimiento de la misma, los establece la norma interna de SŽDC, s. o., Zam1 (provisional) "Reglamento sobre la aptitud profesional de los empleados", ref. 23 138/08-OKS, de fecha 30. 06. 2008, en vigor a partir del 01. 07. 2008, en su versión vigente.
+Los requisitos de aptitud profesional de las personas que realizan el transporte ferroviario, incluido el modo de adquisición y cumplimiento de la misma, los establece la norma interna de ČD, a. s., Ok2 "REGLAMENTO DE FORMACIÓN Y EXAMEN DE LOS FERROCARRILES CHECOS, a. s.", ref. 55 713/2009 – O10, de fecha 25. 03. 2009, en vigor a partir del 01. 04. 2009, en su versión vigente.
 La condición de aptitud para la conducción de un vehículo ferroviario la establece el § 45 de la ley 
 nº 266/1994 Sb.
-En el momento de producción de la MU en cuestión, todos los empleados implicados del gestor de 
-la infraestructura y del transportista eran profesionalmente aptos para el desempeño de la función que ocupaban.
-
+En el momento de producción de la MU en cuestión, todos los empleados implicados del gestor de la infraestructura y del transportista eran profesionalmente aptos para el desempeño de la función que desempeñaban.
 
 ## Página 27
+
 
 ### 3.2.3 Procedimiento de control interno de la seguridad y sus resultados
 La realización de revisiones periódicas y del mantenimiento de la instalación de comunicaciones y de la ZZ en las condiciones 
@@ -890,6 +875,7 @@ El control interno del cumplimiento de las normas de explotación del transporte
 
 ## Página 28
 
+
 el desempeño del servicio de los empleados en la función de maquinistas se realiza, en las condiciones del operador, de acuerdo con la norma interna de ČD V 3 «REGLAMENTO para la actividad de los inspectores de circulación», de fecha 06. 05. 1998, en vigor desde el 24. 05. 1998, n. ref. 56 274/98-18, en su versión vigente, de forma aleatoria. En el ámbito de competencia de DKV Olomouc, las demás condiciones de la actividad de inspección las regula la directriz «Sistema de control interno en DKV Olomouc». El operador lleva un registro general del número de inspecciones realizadas a cada empleado, incluidas las deficiencias detectadas. De la documentación del operador se desprende que las deficiencias detectadas en el desempeño del servicio de los empleados en la función de maquinistas son analizadas y subsanadas por el operador.
 La última inspección al maquinista del tren Os 3428, centrada en el cumplimiento de las normas internas del operador en el desempeño de la función de maquinista, fue realizada por el operador de conformidad con los procedimientos tecnológicos unificados del operador el 03. 10. 2011. En la inspección realizada no se detectaron deficiencias.
 En el procedimiento de control interno de seguridad no se detectaron deficiencias.
@@ -908,8 +894,8 @@ En la investigación del MU se constató la infracción de las siguientes normas
 § 35 apartado 1 letra a) de la Ley n.º 266/1994 Sb., donde se indica: «El operador está
 •
 
-
 ## Página 29
+
 
 obligado a explotar el transporte ferroviario de acuerdo con las reglas de explotación del transporte ferroviario, la licencia vigente y el contrato celebrado con el explotador de la vía sobre la explotación del transporte ferroviario en la vía»;
 § 35 apartado 1 letra g) de la Ley n.º 266/1994 Sb., donde se indica: «El operador está
@@ -942,46 +928,47 @@ Los circuitos eléctricos SZZ en la vía de Polanka nad Odrou (incluida la parad
 
 ## Página 30
 
-### nebo error) del conductor, que se manifiesta como circulación no autorizada del DV más allá de la señal principal que prohíbe la circulación del DV, el SZZ no permite una intervención activa (parada de emergencia del DV) en la conducción del tren.
-Tras la inspección del SZZ de la estación de enlace Polanka nad Odrou (incl. parada de Odra), tipo ESA 11, durante el examen del lugar de origen del MU en la estación de enlace Polanka nad Odrou, se constató que en el momento del origen del MU estaban en funcionamiento los TPC 3 y 4, versión SW 108cd14e. La diferencia entre la hora registrada y la hora real era de +3 segundos. Del análisis del archivo de datos descargado, tras aplicar la corrección horaria, del TPC 3 se constató:
-• a las 19:00:56 h, inicio de la establecimiento de la ruta desde la señal principal (de entrada) 2VL
-  parada de Odra hacia 3bK-O para el tren Pn 60846 (desde la vía de tráfico n.º 2 de la estación Ostrava-Vítkovice hacia la estación de enlace Polanka nad Odrou);
-• a las 19:01:15 h, en la señal principal (de entrada) 2VL de la parada de Odra se encendió la señal
-  «Aviso» que autoriza la circulación del tren Pn 60846;
-• a las 19:06:51 h, en la señal principal (de entrada) 2VL de la parada de Odra se encendió la señal
+### nebo omylu) del maquinista, que se manifiesta como una circulación no autorizada de DV tras la señal principal que prohíbe la circulación de DV, el SZZ no permite una intervención activa (parada de emergencia de DV) en la conducción del tren.
+Tras la verificación del SZZ de la vía de clasificación Polanka nad Odrou (incl. parada Odra), tipo ESA 11, al examinar el lugar de origen del MU en la vía de clasificación Polanka nad Odrou, se constató que en el momento del origen del MU estaban en funcionamiento los TPC 3 y 4, versión SW 108cd14e. La diferencia entre el tiempo registrado y el tiempo real era de +3 segundos. Del análisis del archivo de datos descargado, tras aplicar la corrección temporal, en el TPC 3 se constató lo siguiente:
+• v 19:00:56 h, inicio de la establecimiento de la ruta desde la señal principal (de entrada) 2VL
+• de la parada Odra hacia 3bK-O para el tren Pn 60846 (desde la vía de tráfico n.º 2 de la est. Ostrava-Vítkovice hacia la vía de clasificación Polanka nad Odrou);
+• v 19:01:15 h, en la señal principal (de entrada) 2VL de la parada Odra se encendió la señal
+• «Aviso» que autorizaba la circulación del tren Pn 60846;
+• v 19:06:51 h, en la señal principal (de entrada) 2VL de la parada Odra se encendió la señal
 ### «Alto» (la cabeza del tren Pn 60846 pasó junto a la señal). Desde ese momento y hasta el
-### origen del MU, en la señal principal (de entrada) 2VL se registra permanentemente el
-encendido de la luz roja, es decir, la señal «Alto»;
-• a las 19:20:52 h, inicio de la establecimiento de la ruta desde la señal principal (de entrada) OS
-  parada de Odra hacia 1T1V_L para el tren Os 3429 (desde la vía de tráfico de la estación Ostrava-Svinov hacia la vía de tráfico n.º 1 de la estación Ostrava-Vítkovice);
-• a las 19:20:55 h, inicio del cambio de la aguja n.º 202 de la posición «+» a la posición «-»;
-• a las 19:21:02 h finalizado el cambio de la aguja n.º 202 de la posición «+» a «-» (desvío),
-  aguja cambiada a la posición «-»;
-• a las 19:21:03 h, visualización de información en el monitor JOP DOZ: «3428» blanco, «24»
-  turquesa (salida prevista del tren Os 3428 de la estación Ostrava-Vítkovice);
-• a las 19:21:10 h, la ruta para el tren Os 3429 desde la señal principal (de entrada) OS
-  hacia la vía de tráfico n.º 1 de la estación Ostrava-Vítkovice quedó establecida (la señal principal OS indicaba la señal que autoriza la circulación del tren);
-• a las 19:24:34 h, tramo 2T2V_L ocupado por el tren Os 3428 (el tren Os 3428 ocupó el KO
-  tras la señal de salida L 2 de la estación Ostrava-Vítkovice);
-• a las 19:24:34 h, visualización de información en el monitor JOP DOZ: «24» – blanco (el tren Os 3428
-  salió de la estación Ostrava-Vítkovice);
-• a las 19:24:46 h visualización de información en el monitor JOP DOZ: «3429» verde, «25»
-  turquesa (salida prevista del tren Os 3429 de la estación Ostrava-Svinov);
-• a las 19:24:47 h, visualización de información en el monitor JOP DOZ: «3429» blanco (traspaso
-  del número del tren Os 3429 al tramo parada de Odra – Ostrava-Vítkovice, es decir, que se había establecido la ruta en la parada de Odra para este tren);
-• a las 19:25:44 h, tramo 2T1V_L ocupado por el tren Os 3428 [el tren Os 3428 ocupó
-  el sector espacial delante de la señal principal (de entrada) 2VL de la parada de Odra];
-• a las 19:25:49 h, tramo 2T2V_L liberado [el tren Os 3428 entró íntegramente en el sector espacial
-  delante de la señal principal (de entrada) 2VL de la parada de Odra];
-• a las 19:26:28 h, tramo OSPP ocupado (el tren Os 3429 salió de la estación Ostrava-Svinov);
-• a las 19:26:28 h, visualización de información en el monitor JOP DOZ: «26» – blanco (el tren Os 3429
-  salió de la estación Ostrava-Svinov);
-### a las 19:26:53 h, KO 2VLK ocupado (el tren Os 3428 ocupó el circuito de vía tras
-• la señal principal (de entrada) 2VL de la parada de Odra – origen del MU);
-• a las 19:26:58 h, tramo 2T1V_L liberado (el tren Os 3428 entró íntegramente tras la señal principal (de entrada)
-
+### origen del MU, en la señal principal (de entrada) 2VL se registra permanentemente
+el encendido de la luz roja, es decir, la señal «Alto»;
+• v 19:20:52 h, inicio de la establecimiento de la ruta desde la señal principal (de entrada) OS
+• de la parada Odra hacia 1T1V_L para el tren Os 3429 (desde la vía de tráfico de la est. Ostrava-Svinov hacia la vía de tráfico n.º 1 de la est. Ostrava-Vítkovice);
+• v 19:20:55 h, inicio del cambio de la aguja n.º 202 de la posición «+» a la posición «-»;
+• v 19:21:02 h finalizado el cambio de la aguja n.º 202 de la posición «+» a «-» (desvío),
+• aguja cambiada a la posición «-»;
+• v 19:21:03 h, visualización de información en el monitor JOP DOZ: «3428» blanco, «24»
+• turquesa (salida prevista del tren Os 3428 de la est. Ostrava-Vítkovice);
+• v 19:21:10 h, la ruta para el tren Os 3429 desde la señal principal (de entrada) OS
+• hacia la vía de tráfico n.º 1 de la est. Ostrava-Vítkovice quedó establecida (la señal principal OS indicaba la señal que autorizaba la circulación del tren);
+• v 19:24:34 h, el tramo 2T2V_L ocupado por el tren Os 3428 (el tren Os 3428 ocupó el KO
+• tras la señal de salida L 2 de la est. Ostrava-Vítkovice);
+• v 19:24:34 h, visualización de información en el monitor JOP DOZ: «24» – blanco (el tren Os 3428
+• salió de la est. Ostrava-Vítkovice);
+• v 19:24:46 h visualización de información en el monitor JOP DOZ: «3429» verde, «25»
+• turquesa (salida prevista del tren Os 3429 de la est. Ostrava-Svinov);
+• v 19:24:47 h, visualización de información en el monitor JOP DOZ: «3429» blanco (transmisión del número
+• del tren Os 3429 al tramo parada Odra – Ostrava-Vítkovice, es decir, que se había establecido
+la ruta en la parada Odra para este tren);
+• v 19:25:44 h, el tramo 2T1V_L ocupado por el tren Os 3428 [el tren Os 3428 ocupó
+• el sector espacial delante de la señal principal (de entrada) 2VL de la parada Odra];
+• v 19:25:49 h, el tramo 2T2V_L liberado [el tren Os 3428 entró íntegramente en el sector espacial
+• delante de la señal principal (de entrada) 2VL de la parada Odra];
+• v 19:26:28 h, el tramo OSPP ocupado (el tren Os 3429 salió de la est. Ostrava-Svinov);
+• v 19:26:28 h, visualización de información en el monitor JOP DOZ: «26» – blanco (el tren Os 3429
+• salió de la est. Ostrava-Svinov);
+### v 19:26:53 h, el KO 2VLK ocupado (el tren Os 3428 ocupó el circuito de vía tras
+• la señal principal (de entrada) 2VL de la parada Odra – origen del MU);
+• v 19:26:58 h, el tramo 2T1V_L liberado (el tren Os 3428 entró íntegramente tras la señal principal (de entrada)
 
 ## Página 31
+
 
 2VL de la parada de Odra);
 • a las 19:27:06 h, KO V201 ocupado por el tren Os 3428;
@@ -1030,6 +1017,7 @@ están equipados con:
 
 ## Página 32
 
+
 ### 3.4.2 Componentes de la vía
 Para garantizar la operatividad de la vía y la seguridad del transporte ferroviario, el gestor de la vía realizó, antes de la aparición de la MU, inspecciones y mediciones de las obras ferroviarias de conformidad con el § 26, apartado 1, del decreto n.º 177/1995 Sb., por el que se aprueba el reglamento de construcción y técnica de las vías, en su redacción vigente.
 Los componentes de la vía no guardaban relación causal ni fuera de relación causal con la aparición de la MU.
@@ -1043,8 +1031,8 @@ El MR de tipo «Coche de mando de dos pisos 3kV cc 301 1435 2'2'», 971.025-2, c
 La última TK periódica del MR 071.025-1 se realizó de conformidad con el anexo n.º 6 del decreto n.º 173/1995 Sb., el 24. 01. 2011, por una persona cualificada del transportista. La TK periódica era válida hasta el 24. 07. 2012.
 El MR de tipo «Coche eléctrico de dos pisos 3kV cc 205 1435 Bo'Bo'2000 kW», 471.025-7, contaba con un PZ válido, expedido por la DÚ Praga de conformidad con el § 43 de la ley n.º 266/1994 Sb., con el n.º de reg. PZ 11041/06-V.05, el 14. 12. 2006. La última TK periódica del MR se realizó de conformidad con el anexo n.º 6 del decreto n.º 173/1995 Sb., el 24. 07. 2011, por una persona cualificada del transportista. La TK periódica era válida hasta el 24. 01. 2012.
 
-
 ## Página 33
+
 
 De conformidad con el § 9, apartado 4, del decreto n.º 173/1995 Sb., el MR de la unidad eléctrica de dos pisos tipo 1 Ev (971.025-2 + 071.025-1 + 471.025-7) estaba equipado con la parte móvil del VZ de tipo LS 90. El VZ, ante una reacción oportuna del maquinista (mediante la pulsación del botón de vigilancia) a la actuación del dispositivo que la requiere, no permite, en caso de error (fallo o
 ### equivocación) del maquinista, una intervención activa en la conducción del tren (parada de emergencia del MR).
@@ -1085,6 +1073,7 @@ a las 19:26:28 h, con v = 80 km·h-1, registro del apagado de la luz azul en el
 •
 
 ## Página 34
+
 
 repetidores por registro permanente de la luz roja en el repetidor de señal;
 a las 19:26:40 h con v = 80 km·h-1, registro de la extinción de la luz roja en el repetidor de
@@ -1153,89 +1142,90 @@ verificación del correcto funcionamiento de las distintas válvulas del freno D
 estado de prueba del taller de reparación de DV;
 visualización de los distintos mensajes de diagnóstico (avisos de error) del conjunto VM 42
 
-
 ## Página 35
 
-de los ordenadores de a DV 971.025-2 (VP 971 – VM 42, n.º de serie 12626 136396003),
-071.025-1 (VP 071 – VS VC 32, n.º de serie 17577 135861001) y 471.025-7 (VP 471 – VM
-42, n.º de serie 12936 12936004). Debido a la imposibilidad de alimentar los ordenadores
-de a de las DV objeto de estudio, para la visualización de los mensajes de diagnóstico se
-utilizó la pantalla de la DV 971.024-5, que fue estacionada para este fin. Del análisis de los
-mensajes de diagnóstico no se registró ninguna avería que influyera en la producción del MU;
-realización de la verificación del correcto funcionamiento de la parte móvil del VZ LS 90 y
-•
-de la visualización de las luces en el repetidor de señal del VZ, así como la comprobación
-del cableado entre la caja del VZ y el repetidor de señal;
-realización de la verificación del funcionamiento del transductor de presión P121.F, n.º de
-•
-serie 308/06. Se comprobó el circuito entre el transductor de presión P 121.F y la bañera
-del velocímetro.
-Durante la inspección comisionada no se detectaron averías en la DV que influyeran en la
-producción del MU.
-La funcionalidad del dispositivo de registro, del velocímetro electrónico RE1xx, n.º de serie
-UCT 6010, fue verificada en presencia del DI por una persona autorizada (notificada) – el
-fabricante del dispositivo, que es la empresa UniControls – Tramex, s. r. o. Por este motivo se
-extrajo de la DV 971.025-2 la unidad electrónica RJE121.E del velocímetro electrónico
-RE1xx, n.º de serie UCT 6010. De la verificación de la funcionalidad del dispositivo objeto
-de estudio no se detectaron deficiencias, véase el documento «Acta de control estacionario
-del velocímetro electrónico RE1xx fuera de los circuitos del vehículo ferroviario».
+ordenadores de a bordo DV 971.025-2 (VP 971 – VM 42, n.º de serie 12626 136396003), 
+071.025-1 (VP 071 – VS VC 32, n.º de serie 17577 135861001) y 471.025-7 (VP 471 – VM 
+42, n.º de serie 12936 12936004). Debido a la imposibilidad de alimentar los ordenadores 
+de a bordo de los DV mencionados, para la visualización de los mensajes de diagnóstico se 
+utilizó la pantalla DV 971.024-5, que fue suministrada para este fin. Del análisis de los 
+mensajes de diagnóstico no se registró ninguna avería con influencia en la aparición de la 
+MU;
+• se realizó la verificación del correcto funcionamiento de la parte móvil del VZ LS 90 y de 
+la visualización de las luces en el repetidor de señales del VZ, así como la comprobación 
+del cableado entre la caja del VZ y el repetidor de señales;
+• se realizó la verificación del funcionamiento del transductor de presión P121.F, n.º de 
+serie 308/06. Se comprobó el circuito entre el transductor de presión P 121.F y la cuba del 
+velocímetro.
+Durante la inspección de comisión no se detectaron averías en los DV con influencia en la 
+aparición de la MU.
+El funcionamiento del dispositivo de registro, velocímetro electrónico RE1xx, n.º de serie 
+UCT 6010, fue verificado en presencia del DI por una persona autorizada (notificada) – el 
+fabricante del dispositivo, que es la empresa UniControls – Tramex, s. r. o. Por este motivo, 
+del DV 971.025-2 se extrajo la unidad de electrónica RJE121.E del velocímetro electrónico 
+RE1xx, n.º de serie UCT 6010. De la verificación del funcionamiento del dispositivo 
+mencionado no se detectaron deficiencias, véase el documento «Protocolo de control 
+estático del velocímetro electrónico RE1xx fuera de los circuitos del vehículo ferroviario».
 No se detectaron deficiencias.
 ## 3.5
 ### Documentación del sistema de explotación
-### 3.5.1 Medidas adoptadas por los empleados del gestor de la infraestructura y del
-transportista en lo que respecta a la conducción, señalización y seguridad del tráfico
-En el momento de producirse el MU, el TZZ del tramo entre la est. Ostrava-Vítkovice – emp.
-Odra y el SZZ del emp. Odra se encontraba en estado operativo y presentaba un funcionamiento
-correcto.
-Antes de producirse el MU, la OŘDD n.º 1 CDP Přerov realizó la preparación de la vía de
-circulación (de tren) para el tren Os 3429 (Ostrava-Svinov – emp. Odra – Ostrava-Vítkovice).
-A las 19:21:10 h, mediante la operación normal del SZZ del emp. Odra, a través del JOP DOZ,
-se estableció la vía de circulación para el tren Os 3429 desde la señal principal (de entrada)
-OS, pasando por el emp. Odra hacia la vía de tráfico n.º 1 hasta la est. Ostrava-Vítkovice.
-La circulación del tren Os 3429 a través del emp. Odra estaba permitida, de conformidad con
-el § 15 apartados 1 y 2 del decreto n.º 173/1995 Sb., por la señal «Vía libre» indicada por la
-señal principal (de entrada) OS. Dado que la OŘDD n.º 1 CDP Přerov tuvo que ausentarse de
-la sala n.º 2 CDP Přerov, la OŘDD n.º 2 CDP Přerov dio la instrucción para la operación del
-ZZ, consistente en la preparación de la vía de circulación (de tren) y el establecimiento de la
-vía de circulación (de tren) para el tren Os 3428 (Ostrava-Vítkovice – emp. Odra – Ostrava-
-Svinov), con la condición de que la instrucción debía cumplirse únicamente después del paso
-del tren Os 3429 a través del emp. Odra. La entrada no deseada de la DV en la vía de
-circulación (de tren) del tren Os 3429 quedó garantizada por la actuación del SZZ del emp.
-Odra. La señal principal (de entrada) 2VL indicaba la señal «Alto» y el desvío n.º 202 fue
-despachado para la circulación en aguja, en el sentido secundario hacia la derecha, es decir,
-hacia la vía muerta de apartadero n.º 204a. La circulación del tren Os 3428 desde la est.
-Ostrava-Vítkovice hasta la señal principal (de entrada) 2VL del emp. Odra y la circulación
-más allá de esta señal principal por parte de la OŘDD n.º 2 CDP Přerov en el VEZO DOZ
+### 3.5.1 Medidas adoptadas por el personal del gestor de la infraestructura y del 
+transportista en materia de conducción, señalización y seguridad del tráfico
+En el momento de la aparición de la MU, el TZZ del tramo entre estaciones žst. Ostrava-
+Vítkovice – odb. Odra y el SZZ de odb. Odra se encontraban en estado operativo y 
+presentaban un funcionamiento correcto.
+En el momento previo a la aparición de la MU, la OŘDD n.º 1 CDP Přerov realizó la 
+preparación de la vía de circulación (de tren) para el tren Os 3429 (Ostrava-Svinov – odb. 
+Odra – Ostrava-Vítkovice). A las 19:21:10 h, mediante la operación normal del SZZ de odb. 
+Odra, a través del JOP DOZ, se estableció la vía de circulación para el tren Os 3429 desde la 
+señal principal (de entrada) OS, pasando por odb. Odra hasta la vía principal n.º 1 de la 
+estación Ostrava-Vítkovice. La circulación del tren Os 3429 a través de odb. Odra estaba 
+permitida, de conformidad con el § 15 apartados 1 y 2 del decreto n.º 173/1995 Sb., por la 
+señal «Vía libre» indicada por la señal principal (de entrada) OS. Dado que la OŘDD n.º 1 
+CDP Přerov tuvo que ausentarse de la sala n.º 2 CDP Přerov, la OŘDD n.º 2 CDP Přerov 
+dio la instrucción para la operación del ZZ, consistente en la preparación de la vía de 
+circulación (de tren) y el establecimiento de la vía de circulación (de tren) para el tren Os 
+3428 (Ostrava-Vítkovice – odb. Odra – Ostrava-Svinov), con la condición de que la instrucción 
+debía cumplirse únicamente después del paso del tren Os 3429 por odb. Odra. La entrada 
+indeseada del DV en la vía de circulación (de tren) del tren Os 3429 quedó garantizada por la 
+acción del SZZ de odb. Odra. La señal principal (de entrada) 2VL indicó la señal «Alto» y el 
+desvío n.º 202 fue dispuesto para la circulación en sentido contrario a la aguja por el ramal 
+secundario hacia la derecha, es decir, hacia la vía muerta de apartadero n.º 204a. La 
+circulación del tren Os 3428 desde la estación Ostrava-Vítkovice hasta la señal principal (de 
+entrada) 2VL de odb. Odra y la circulación más allá de esta señal principal fueron seguidas 
+por la OŘDD n.º 2 CDP Přerov en el VEZO DOZ
 
 ## Página 36
 
-no registró, y ello a pesar de que el SZZ, al ocupar el KO adyacente a la señal principal (de entrada) 2 VL con el tren Os 3428, había advertido a la OŘDD n.º 2 CDP Přerov de la circulación del tren mencionado mediante la señal acústica «Předhláška». Esta señal acústica se apagó automáticamente tras la entrada no autorizada de todo el tren Os 3428 más allá del nivel de la señal principal (de entrada) 2VL de la est. Odra, momento en el que el tren liberó el KO adyacente a la señal principal (de entrada) 2 VL. Tras el paso del tren Os 3429 por la est. Odra, la OŘDD n.º 2 CDP Přerov, conforme a la instrucción dada por la OŘDD n.º 1 CDP Přerov, preparó la vía de circulación (de tren) y a las 19:30:07 h fue establecida, por la operación normal del SZZ de la est. Odra, mediante el JOP DOZ, la vía de circulación para el tren Os 3428 desde la señal principal (de entrada) 2VL a través de la est. Odra hasta la vía de trayecto de la est. Ostrava-Svinov. El establecimiento de la vía de circulación (de tren) para el tren Os 3428 por la operación normal del SZZ de la est. Odra por parte de la OŘDD n.º 2 CDP Přerov fue posible gracias a la ausencia de funcionalidad del EZŠ del SZZ mencionado.
-### Fig. n.º 4: Estado de los elementos indicadores del SZZ 
-### Fig. n.º 5: Estado de los elementos indicadores del SZZ 
-de la est. Odra, mostrando la presencia del tren 
-de la est. Odra, mostrando la presencia del tren 
-Os 3428 en el KO delante de la señal principal (de entrada) 
-Os 3428 en el KO detrás de la señal principal (de entrada) 
-2VL – estado inmediatamente 
-2VL – estado inmediatamente 
+no lo registró, y ello a pesar de que el SZZ, al ocupar el KO adyacente a la señal principal (de entrada) 2 VL con el tren Os 3428, había avisado a OŘDD n.º 2 CDP Přerov de la circulación del tren en cuestión mediante la señal acústica «Předhláška». Esta señal acústica se apagó automáticamente tras la entrada no autorizada de todo el tren Os 3428 más allá del nivel de la señal principal (de entrada) 2VL de la est. Odra, momento en que el tren liberó el KO adyacente a la señal principal (de entrada) 2 VL. Tras el paso del tren Os 3429 por la est. Odra, OŘDD n.º 2 CDP Přerov, conforme a la instrucción dada por OŘDD n.º 1 CDP Přerov, preparó la vía de circulación (de tren) y a las 19:30:07 h fue establecida, por la operación normal del SZZ de la est. Odra, mediante JOP DOZ, la vía de circulación para el tren Os 3428 desde la señal principal (de entrada) 2VL a través de la est. Odra hasta la vía de trayecto hacia la est. Ostrava-Svinov. El establecimiento de la vía de circulación (de tren) para el tren Os 3428 por la operación normal del SZZ de la est. Odra por parte de OŘDD n.º 2 CDP Přerov fue posible gracias a la ausencia de funcionalidad del EZŠ del SZZ en cuestión.
+### Fig. n.º 4: Estado de los elementos indicadores del SZZ
+### Fig. n.º 5: Estado de los elementos indicadores del SZZ
+de la est. Odra, mostrando la presencia del tren
+de la est. Odra, mostrando la presencia del tren
+Os 3428 en el KO delante de la señal principal (de entrada)
+Os 3428 en el KO detrás de la señal principal (de entrada)
+2VL – estado inmediatamente
+2VL – estado inmediatamente
 antes de la aparición de la MU
 tras la aparición de la MU
-Durante la circulación del tren Os 3428 desde la est. Ostrava-Vítkovice hacia la señal principal (de entrada) de la est. Odra y su paso más allá de esta señal principal, la OŘDD n.º 2 CDP Přerov se dedicó principalmente a organizar y dirigir el tráfico ferroviario en el tramo de la bif. Polanka nad Odrou – est. Polom, y por ello no registró la circulación de dicho tren en el VEZO DOZ, aunque estuviera indicada por los elementos ZZ (véanse las figs. 4 y 5). Al ejecutar las operaciones de tráfico relacionadas con la garantía de la circulación del tren Os 3428, la presencia del DV del tren Os 3428 en el tramo entre estaciones est. Ostrava-Vítkovice – Odb. Odra ni en la est. Odra fue indicada por los elementos indicadores del VEZO DOP. En ese momento, el DV del tren Os 3428 ya se encontraba descarrilado sobre la planicie del cuerpo de la infraestructura ferroviaria inferior, detrás del topón de la vía muerta de apartadero n.º 204a. Por este motivo, según su declaración, consideró que el tren probablemente se encontraba en la cabecera o en el extremo de la est. Ostrava-Vítkovice y que, por tanto, saldría más tarde de la est. Ostrava-Vítkovice. Tras el establecimiento de la vía de circulación mencionada para el tren Os 3428, la OŘDD n.º 2 CDP Přerov recibió, por teléfono de servicio, de la OŘDD Ostrava-Svinov la información sobre la aparición de la MU en la est. Odra. Tras el regreso de la OŘDD n.º 1 CDP Přerov a la sala n.º 2 CDP
-
+Durante la circulación del tren Os 3428 desde la est. Ostrava-Vítkovice hacia la señal principal (de entrada) de la est. Odra y su circulación más allá de esta señal principal, OŘDD n.º 2 CDP Přerov se dedicó principalmente a organizar y dirigir el tráfico ferroviario en el tramo de la bif. Polanka nad Odrou – est. Polom, y por ello no registró la circulación de dicho tren en el VEZO DOZ, aunque esta fuera indicada por los elementos del ZZ (véanse las figs. 4 y 5). Durante la realización de las operaciones de tráfico relacionadas con la garantía de la circulación del tren Os 3428, la presencia del DV del tren Os 3428 en el tramo entre estaciones Ostrava-Vítkovice – Odb. Odra ni en la est. Odra fue indicada por los elementos indicadores del VEZO DOP. En ese momento, el DV del tren Os 3428 ya se encontraba en estado descarrilado sobre la planicie del cuerpo de la infraestructura ferroviaria inferior, detrás del topón de retención de la vía muerta de desvío n.º 204a. Por este motivo, según su declaración, consideró que el tren probablemente se encontraba en la cabecera o en el extremo de la est. Ostrava-Vítkovice y que, por tanto, saldría de la est. Ostrava-Vítkovice más tarde. Tras el establecimiento de la vía de circulación en cuestión para el tren Os 3428, OŘDD n.º 2 CDP Přerov recibió, mediante el teléfono de servicio, de OŘDD Ostrava-Svinov la información sobre la aparición de la MU en la est. Odra. Tras el regreso de OŘDD n.º 1 CDP Přerov a la sala n.º 2 CDP
 
 ## Página 37
 
-Přerov, la OŘDD n.º 2 CDP Přerov le trasladó la información sobre la aparición de la MU en la est. Odra. A las 19:37:10 h, la OŘDD n.º 1 CDP Přerov anuló, mediante el JOP DOZ, la vía de circulación (de tren) establecida por la OŘDD n.º 2 CDP Přerov a través de la est. Odra para el tren Os 3428, con el fin de evitar una posible circulación del DV.
-Por parte del gestor de la infraestructura no se detectaron deficiencias.
-La entrada del tren Os 3428 en la est. Odra fue prohibida por la acción del SZZ mediante la señal «Stůj» (Alto), indicada con luz roja, de la señal principal (de entrada) 2VL. A esta señal, el maquinista del tren Os 3428 fue advertido mediante la señal «Výstraha» (Aviso), indicada con luz amarilla, de la señal principal (de sección) del bloque automático 357. Esta señal está equipada con la señal fija «Stanoviště oddílového návěstidla» (Puesto de la señal de sección), que advertía al maquinista de que la señal principal (de sección) del bloque automático 357 es la preseñal de la señal de entrada. Sobre las señales de las señales principales 357 y 2VL, el maquinista del tren Os 3428 fue informado en el puesto del maquinista con luz amarilla y, tras pasar la señal principal (de sección) del bloque automático 357, con luz roja del repetidor de señales de la parte móvil del VZ. La señal «Výstraha» (Aviso), indicada por la señal principal (de sección) del bloque automático 357 y transmitida al puesto del maquinista, fue detectada por el maquinista del tren Os 3428, pero no actuó conforme a dicha señal. Al circular hacia la señal principal (de entrada) 2VL de la est. Odra, no ajustó en modo alguno la velocidad de circulación del tren, a pesar de que también fue informado con luz roja del repetidor de señales de la señal «Stůj» (Alto), indicada por la señal principal (de entrada) 2VL de la est. Odra, y de que la parte móvil del VZ exigía una reacción oportuna del maquinista, consistente en la pulsación del botón de vigilancia. El hallazgo mencionado constituye, en relación con lo dispuesto en el art. 90 y el art. 91, letra a), de la norma interna de ČD V 2 y en el § 35, apartado 1, letra f), del decreto n.º 173/1995 Sb., un incumplimiento
-### del § 35, apartado 1, letra a), de la ley n.º 266/1994 Sb.
-Dado que el maquinista reaccionó oportunamente a la acción de la parte móvil del VZ mediante la pulsación repetida del botón de vigilancia (4 veces), la parte móvil del VZ, conforme al § 9, apartado 4, del decreto n.º 173/1995 Sb., no garantizó la parada del tren. La señal «Stůj» (Alto), indicada por la señal principal (de entrada) 2VL de la est. Odra, visible desde una distancia de 220 m y transmitida al puesto del maquinista, no fue detectada por el maquinista del tren Os 3428 y el tren no se detuvo de forma segura antes del lugar señalizado. El hallazgo mencionado constituye, en relación con lo dispuesto en el art. 120 de la norma interna de SŽDC (ČD) D1, los arts. 23, letra c), 90 y 91, letra a), de la norma interna de ČD V 2 y el § 35, apartado 1, letras f)
-### y m), del decreto n.º 173/1995 Sb., un incumplimiento del § 35, apartado 1, letras a) y g), de la ley
+Přerov mu OŘDD č. 2 CDP Přerov le informó de la aparición de MU en la estación de clasificación Odra. A las 19:37:10 h, OŘDD č. 1 CDP Přerov anuló, a través de JOP DOZ, la vía de circulación (de tren) establecida por OŘDD č. 2 CDP Přerov a través de la estación de clasificación Odra para el tren Os 3428, con el fin de evitar una posible circulación de DV.
+Por parte del gestor de la vía no se detectaron deficiencias.
+La entrada del tren Os 3428 en la estación de clasificación Odra fue prohibida por la actuación de SZZ mediante la señal «Alto», señalizada con luz roja, de la señal principal (de entrada) 2VL. El maquinista del tren Os 3428 fue advertido de esta señal mediante la señal «Aviso», señalizada con luz amarilla, de la señal principal (de sección) del bloque automático 357. Esta señal está equipada con la señal fija «Emplazamiento de la señal de sección», que advertía al maquinista de que la señal principal (de sección) del bloque automático 357 es la señal previa de la señal de entrada. El maquinista del tren Os 3428 fue informado de las señales de las señales principales 357 y 2VL en el puesto del maquinista mediante luz amarilla y, tras pasar la señal principal (de sección) del bloque automático 357, mediante luz roja del repetidor de señales de la parte móvil del VZ.
+La señal «Aviso», señalizada por la señal principal (de sección) del bloque automático 357 y transmitida al puesto del maquinista, fue detectada por el maquinista del tren Os 3428, pero no actuó conforme a dicha señal. Al circular hacia la señal principal (de entrada) 2VL de la estación de clasificación Odra, no ajustó en modo alguno la velocidad de circulación del tren, a pesar del hecho de que también mediante luz roja del repetidor de señales fue informado de la señal «Alto», señalizada por la señal principal (de entrada) 2VL de la estación de clasificación Odra, y la parte móvil del VZ exigía una reacción oportuna del maquinista, consistente en la manipulación del botón de vigilancia. Dicha constatación, en relación con lo dispuesto en el art. 90 y el art. 91 apartado a) de la normativa interna de ČD V 2 y en el § 35 apartado 1 letra f) del decreto n.º 173/1995 Sb., constituye un incumplimiento
+### del § 35 apartado 1 letra a) de la ley n.º 266/1994 Sb.
+Dado que el maquinista reaccionó oportunamente a la actuación de la parte móvil del VZ mediante la manipulación repetida del botón de vigilancia (4 veces), la parte móvil del VZ, de conformidad con el § 9 apartado 4 del decreto n.º 173/1995 Sb., no aseguró la parada del tren. La señal «Alto», señalizada por la señal principal (de entrada) 2VL de la estación de clasificación Odra, visible desde una distancia de 220 m y transmitida al puesto del maquinista, no fue detectada por el maquinista del tren Os 3428 y el tren no se detuvo de forma segura antes del lugar señalizado. Dicha constatación, en relación con lo dispuesto en el art. 120 de la normativa interna de SŽDC (ČD) D1, el art. 23 letra c), el art. 90 y el art. 91 letra a) de la normativa interna de ČD V 2 y el § 35 apartado 1 letra f)
+### y m) del decreto n.º 173/1995 Sb., constituye un incumplimiento del § 35 apartado 1 letra a) y g) de la ley
 ### n.º 266/1994 Sb.
-El maquinista continuó circulando de forma no autorizada con el tren más allá de la señal principal (de entrada) 2VL de la est. Odra. Tras pasar la señal principal (de entrada) 2VL de la est. Odra, se apagó la luz roja del repetidor de señales y, al no haberse establecido para el tren Os 3428 una vía de circulación más allá de la señal principal (de entrada) 2VL de la est. Odra, no se transmitieron al DV delantero las informaciones sobre la señal de la siguiente señal principal, y no se encendió ninguna luz en el repetidor de señales. A este estado, la parte móvil del VZ reaccionó solicitando una reacción oportuna del maquinista, quien respondió pulsando el botón de vigilancia. Dado que la parte móvil del VZ tipo LS 90 no permite una intervención activa en la conducción del tren (parada de emergencia del DV) en caso de fallo (error u omisión) del maquinista ante su reacción oportuna (pulsación del botón de vigilancia) a la acción del dispositivo, no se produjo una intervención activa en la conducción del tren ni la subsiguiente parada de emergencia del tren Os 3428.
-El maquinista, durante la circulación del tren Os 3428 entre la est. Ostrava-Vítkovice y la est. Odra, según su declaración, aproximadamente a la altura de la señal principal (de sección) del bloque automático 357, comenzó a preparar el sistema de información del DV para el aviso de la interrupción entre la est. Ostrava-Svinov y Děhylov. La operación y el funcionamiento del sistema de información del DV no es un dispositivo de registro del DV, salvo
+El maquinista continuó circulando indebidamente con el tren más allá de la señal principal (de entrada) 2VL de la estación de clasificación Odra. Tras pasar la señal principal (de entrada) 2VL de la estación de clasificación Odra, se apagó la luz roja en el repetidor de señales y, al no haberse establecido para el tren Os 3428 una vía de circulación más allá de la señal principal (de entrada) 2VL de la estación de clasificación Odra, no se transmitieron al DV que circulaba en cabeza la información sobre la señal de la siguiente señal principal, y en el repetidor de señales no brillaba ninguna luz. Ante esta situación, la parte móvil del VZ reaccionó solicitando una reacción oportuna del maquinista, quien reaccionó mediante la manipulación del botón de vigilancia. Dado que la parte móvil del VZ de tipo LS 90 no permite una intervención activa en la conducción del tren (parada de emergencia del DV) en caso de fallo (error u omisión) del maquinista ante su reacción oportuna (manipulación del botón de vigilancia) a la actuación del dispositivo, no se produjo una intervención activa en la conducción del tren ni la posterior parada de emergencia del tren Os 3428.
+El maquinista, durante la circulación del tren Os 3428 entre la est. Ostrava-Vítkovice y la estación de clasificación Odra, según su declaración, aproximadamente a la altura de la señal principal (de sección) del bloque automático 357, comenzó a preparar el sistema informativo del DV para la anunciación de una interrupción entre la est. Ostrava-Svinov y Děhylov.
+La manipulación y la actuación del sistema informativo del DV no es un dispositivo registrador del DV, salvo
 
 ## Página 38
+
 
 de estados de protección, se registran. En el momento en que el tren Os 3428 se encontraba en el tramo entre las señales principales 357 y 2VL, el maquinista atendía su teléfono móvil de servicio enviando un mensaje SMS de carácter privado. El maquinista del tren Os 3428 priorizó ambas actividades mencionadas anteriormente sobre la observación de la vía desde la cabina de mando y la actuación según los hechos constatados, véase el punto 4.2.1.
 ### 3.5.2 Intercambio de comunicaciones verbales en relación con el suceso excepcional, incluidos los registros del dispositivo de registro
@@ -1261,8 +1251,8 @@ OŘDD n.º 2 CDP Přerov: entró en turno según el horario del turno de servici
 22 de 10 de 2011 a las 17:50 h, tuvo un descanso previo al turno de 24 h.
 Los empleadores garantizaron la pausa en el trabajo y las condiciones para el descanso previo al turno de conformidad con las disposiciones de los §§ 88 y 90 de la ley n.º 262/2006 Sb., Código del Trabajo, en su versión vigente.
 
-
 ## Página 39
+
 
 3.6.2 Estado de salud y situación personal que influyeron en el suceso excepcional, incluido el estrés físico o psicológico
 Los empleados del gestor de la vía y del transportista, participantes en el SE, se encontraban en el momento de la ocurrencia del SE en condiciones de salud aptas para el desempeño de la función que desempeñaban. La investigación no constató que la situación personal o el estado psicológico de las personas participantes en el SE hubieran influido en la ocurrencia del SE.
@@ -1299,30 +1289,68 @@ dispositivos técnicos de parada de emergencia de trenes cuya seguridad se vea a
 
 ## Página 40
 
-recomendaciones a los transportistas ČD, a. s. y ČD Cargo, a. s.:
+recomendaciones a los transportistas ČD, a. s. y ČD Cargo, a. s.: 
 •
-aceleración de los trabajos para la implantación y equipamiento de la DV con la parte móvil de ETCS, de modo que, cuando el sistema entre en servicio en la vía correspondiente, la DV explotada pueda aprovechar plenamente todas las funcionalidades de ETCS.
-Hasta la fecha de emisión de este Informe sobre los resultados de la investigación de las causas y circunstancias de la aparición de la MU, ni el explotador de la vía SŽDC, s. o. ni el transportista ČD, a. s. han adoptado, sobre la base de las recomendaciones de seguridad DI arriba mencionadas, las medidas propias correspondientes para prevenir la MU, véanse los puntos 3.4.1 y 3.4.4.
+aceleración de los trabajos para la implantación y equipamiento de la DV con la parte móvil de ETCS, de modo que, cuando el sistema entre en servicio en la vía correspondiente, la DV explotada pueda aprovechar plenamente todas las funcionalidades del ETCS.
+Hasta la fecha de emisión de este Informe de resultados de la investigación de las causas y circunstancias de la aparición de la MU, ni el explotador de la vía SŽDC, s. o. ni el transportista ČD, a. s. han adoptado, sobre la base de las recomendaciones de seguridad DI arriba mencionadas, las medidas propias correspondientes para prevenir la MU, véanse los puntos 3.4.1 y 3.4.4.
 ## 4 ANÁLISIS Y CONCLUSIONES
 ## 4.1
 ### Descripción final del suceso excepcional
 ### 4.1.1 Descripción final del suceso excepcional basada en los hechos establecidos en el punto 3
-En el momento anterior a la aparición de la MU, a las 19:21:10 h, la SZZ de la estación de enlace Odra, mediante el JOP DOZ, estableció la ruta para el tren Os 3429 desde la señal principal (de entrada) OS, pasando por la estación de enlace Odra hasta la vía principal n.º 1 de la est. Ostrava-Vítkovice. La circulación del tren Os 3429 por la estación de enlace Odra estaba permitida por la señal «Libre» emitida por la señal principal (de entrada) OS. La entrada no deseada de la DV en la ruta del tren Os 3429 fue provocada por la actuación de la SZZ de la estación de enlace Odra. La señal principal (de entrada) 2VL mostraba la señal «Alto» y el desvío n.º 202 estaba dispuesto para la circulación en sentido contrario a la aguja en el ramal lateral a la derecha, es decir, hacia la vía muerta de retorno n.º 204a.
-A las 19:24:12 h partió el tren Os 3428 de la est. Ostrava-Vítkovice hacia el tramo intermedio Ostrava Vítkovice – estación de enlace Odra por la vía principal n.º 2. La salida del tren de la est. Ostrava-Vítkovice fue autorizada por el OŘDD mediante la operación normal de la SZZ de la est. Ostrava-Vítkovice. Tras la salida de la est. Ostrava-Vítkovice, el tren Os 3428 continuó su marcha por la vía principal n.º 2 y a las 19:25:46 h pasó junto a la señal principal (de sección) del bloque automático 357, situada en el km 35,750, que mostraba la señal luminosa «Aviso». Esta señal está equipada con la señal fija «Posición de la señal de sección», que informaba al maquinista de que la señal principal (de sección) del bloque automático 357 es la preseñal de la señal de entrada. La entrada del tren Os 3428 en la estación de enlace Odra estaba prohibida por la actuación de la SZZ con la señal «Alto», emitida con luz roja, de la señal principal (de entrada) 2VL. Sobre las señales de las señales principales 357 y 2VL, el maquinista del tren Os 3428 fue informado en el puesto de conducción con luz amarilla y, tras pasar la señal principal (de sección) del bloque automático 357, con luz roja del repetidor de señales de la parte móvil del VZ.
-La señal «Aviso», emitida por la señal principal (de sección) del bloque automático 357 y transmitida al puesto de conducción, fue percibida por el maquinista del tren Os 3428, pero no actuó conforme a dicha señal. Al circular hacia la señal principal (de entrada) 2VL de la estación de enlace Odra, no ajustó en modo alguno la velocidad de circulación del tren, a pesar del hecho de que también con luz roja del repetidor de señales fue informado de la señal «Alto», emitida por la señal (principal) de entrada 2VL de la estación de enlace Odra, y la parte móvil del VZ LS 90 exigía una reacción oportuna del maquinista, consistente en la pulsación del botón de vigilancia. Dado que el maquinista reaccionó a tiempo a la actuación de la parte móvil del VZ
-
+En el momento anterior a la aparición de la MU, a las 19:21:10 h, se estableció por la explotación normal de la SZZ de la estación de enlace Odra, a través del JOP DOZ, el itinerario para el tren Os 3429 desde la señal principal (de entrada) OS, pasando por la estación de enlace Odra hasta la vía principal n.º 1 de la estación Ostrava-Vítkovice. La circulación del tren Os 3429 por la estación de enlace Odra estaba permitida por la señal «Libre» emitida por la señal principal (de entrada) OS. La entrada no deseada de la DV en el itinerario (de tren) del tren Os 3429 fue provocada por la actuación de la SZZ de la estación de enlace Odra. La señal principal (de entrada) 2VL emitió la señal «Alto» y el desvío n.º 202 fue dispuesto para la circulación en sentido contrario a la aguja en el ramal lateral a la derecha, es decir, hacia la vía muerta de apartadero n.º 204a.
+A las 19:24:12 h partió el tren Os 3428 de la estación Ostrava-Vítkovice hacia el tramo intermedio Ostrava Vítkovice – estación de enlace Odra por la vía principal n.º 2. La salida del tren de la estación Ostrava-Vítkovice estaba permitida por el OŘDD mediante la explotación normal de la SZZ de la estación Ostrava-Vítkovice. Tras la salida de la estación Ostrava-Vítkovice, el tren Os 3428 continuó su marcha por la vía principal n.º 2 y a las 19:25:46 h pasó junto a la señal principal (de sección) del bloque automático 357, situada en el km 35,750, que emitía la señal luminosa «Aviso». Esta señal está equipada con la señal fija «Puesto de la señal de sección», que informaba al maquinista de que la señal principal (de sección) del bloque automático 357 es la preseñal de la señal de entrada. La entrada del tren Os 3428 en la estación de enlace Odra estaba prohibida por la actuación de la SZZ con la señal «Alto», emitida con luz roja por la señal principal (de entrada) 2VL. Sobre las señales de las señales principales 357 y 2VL, el maquinista del tren Os 3428 fue informado en el puesto del maquinista con luz amarilla y, tras pasar la señal principal (de sección) del bloque automático 357, con luz roja del repetidor de señales de la parte móvil del VZ.
+La señal «Aviso», emitida por la señal principal (de sección) del bloque automático 357 y transmitida al puesto del maquinista, fue percibida por el maquinista del tren Os 3428, pero no actuó en consecuencia con dicha señal. Al circular hacia la señal principal (de entrada) 2VL de la estación de enlace Odra, no ajustó de ninguna manera la velocidad de circulación del tren, a pesar de que también con luz roja del repetidor de señales había sido informado de la señal «Alto», emitida por la señal (principal) de entrada 2VL de la estación de enlace Odra, y la parte móvil del VZ LS 90 exigía una reacción oportuna del maquinista, consistente en la manipulación del botón de vigilancia. Dado que el maquinista reaccionó a tiempo a la actuación de la parte móvil del VZ
 
 ## Página 41
 
-con la pulsación repetida del botón de vigilancia (4x), la parte móvil del VZ no aseguró la parada del tren. Simultáneamente, según su declaración, estaba realizando la operación del sistema de información de la DV, consistente en la preparación del sistema de información de la DV para el aviso de una interrupción entre la est. Ostrava-Svinov y Děhylov, y desde el teléfono móvil profesional enviaba un SMS de carácter privado. La señal «Alto», emitida por la señal principal (de entrada) 2VL de la estación de enlace Odra, visible desde una distancia de 220 m y transmitida al puesto de conducción, no fue percibida ni respetada por el maquinista del tren Os 3428, y por lo tanto el tren no se detuvo con seguridad antes del punto señalizado. El maquinista continuó circulando indebidamente con el tren más allá de la señal principal (de entrada) 2VL de la estación de enlace Odra. Tras pasar la señal principal (de entrada) 2VL de la estación de enlace Odra, se apagó la luz roja en el repetidor de señales y, como no se había establecido la ruta para el tren Os 3428 más allá de la señal principal (de entrada) 2VL de la estación de enlace Odra, no se transmitían a la DV que circulaba en cabeza la información sobre la señal de la siguiente señal principal, y en el repetidor de señales no brillaba ninguna luz. Ante esta situación, la parte móvil del VZ reaccionó solicitando una reacción oportuna del maquinista, quien reaccionó con la pulsación del botón de vigilancia. Dado que la parte móvil del VZ tipo LS 90 no permite una intervención activa en la conducción del tren (parada de emergencia de la DV) en caso de fallo (error u omisión) del maquinista en la reacción oportuna del maquinista (pulsación del botón de vigilancia) a la actuación del dispositivo, tampoco en este caso se produjo una intervención activa en la conducción del tren ni la subsiguiente parada de emergencia del tren Os 3428. El maquinista continuó circulando indebidamente con el tren Os 3428 por la vía n.º 202 a través de los desvíos n.º 201 y 202. Tras pasar el desvío n.º 202, que estaba dispuesto para la circulación en sentido contrario a la aguja en el ramal lateral a la derecha, el tren Os 3428 continuó, sin haber descarrilado, su marcha por la vía muerta de retorno n.º 204a. A las 19:27:14 h, a una velocidad de v = 80 km·h-1, en el extremo de la vía muerta de retorno n.º 204a, la DV que circulaba en cabeza del tren Os 3428 impactó en el km 37,724 contra el tope de tierra, que perforó, y a continuación el tren continuó su marcha, ya descarrilado, por la plataforma del cuerpo del ferrocarril. Por la dinámica del suceso, el tren continuó circulando por inercia, impactando por el lado del terraplén contra el tope de tierra de la vía muerta de retorno n.º 204b, que fue destruido por completo por el impacto, al igual que el tope de la vía muerta de retorno n.º 204a. Posteriormente, el tren Os 3428 impactó contra el poste de iluminación n.º 7. En la posición final tras la aparición de la MU, el frente del tren Os 3428 se encontraba en el km 37,811, a la derecha de la vía muerta de retorno n.º 204b, en la plataforma del cuerpo del ferrocarril.
-Como consecuencia de la MU, resultaron lesionadas un total de 7 personas, de las cuales 2 fueron atendidas en el lugar y 5 fueron atendidas tras ser trasladadas a centros sanitarios (Hospital Universitario de Ostrava, Hospital Municipal de Ostrava).
+opakovanou obsluhou tlačítka bdělosti (4x), mobilní část VZ nezajistila zastavení vlaku.
+Současně dle svého vyjádření prováděl obsluhu informačního systému DV, spočívající
+v připravě informačního systému DV k hlášení o výluce mezi žst. Ostrava-Svinov a Děhylov,
+a ze služebního mobilního telefonu odesílal textovou SMS soukromého charakteru. Návěst
+„Stůj“, návěstěnou hlavním (vjezdovým) návěstidlem 2VL odb. Odra, viditelnou ze
+vzdálenosti 220 m a přenášenou na stanoviště strojvedoucího strojvedoucí vlaku Os 3428
+nezjistil a nerespektoval, a proto vlak před návěstěným místem bezpečně nezastavil.
+Strojvedoucí s vlakem pokračoval nedovoleně v jízdě za hlavní (vjezdové) návěstidlo 2VL odb.
+Odra. Po minutí hlavního (vjezdového) návěstidla 2VL odb. Odra zhaslo na návěstním
+opakovači červené světlo, a protože nebyla za hlavní (vjezdové) návěstidlo 2VL odb. Odra pro
+vlak Os 3428 postavena jízdní cesta, nebyly informace o návěsti následujícího hlavního
+návěstidla na vedoucí DV přenášeny, na návěstním opakovači nesvítila žádná světla. Na tento
+stav mobilní část VZ reagovala vyžádáním včasné reakce strojvedoucího, který reagoval
+obsluhou tlačítka bdělosti. Protože mobilní část VZ typu LS 90 aktivní zásah do řízení vlaku
+(nouzové zastavení DV), v případě pochybení (selhání nebo omylu) strojvedoucího při včasné
+reakci strojvedoucího (obsluze tlačítkem bdělosti) na činnost zařízení neumožňuje, k aktivnímu
+zásahu do řízení vlaku a následnému nouzovému zastavení vlaku Os 3428 ani v tomto případě
+nedošlo. Strojvedoucí s vlakem Os 3428 nedovoleně pokračoval v jízdě po koleji č. 202 přes
+výhybky č. 201 a 202. Po průjezdu výhybkou č. 202, která byla přestavena pro jízdu proti hrotu
+vedlejším směrem doprava, pokračoval vlak Os 3428 v nevykolejeném stavu v jízdě po
+odvratné kusé koleji č. 204a. V 19:27:14 h při rychlosti v = 80 km·h-1 na konci odvratné kusé
+koleje č. 204a vedoucí DV vlaku Os 3428 narazilo v km 37,724 do zemního zarážedla, které
+prorazilo, a následně vlak pokračoval v jízdě, již ve vykolejeném stavu, po pláni tělesa
+železničního spodku. Dynamikou nehodového děje pokračoval vlak jízdou setrvačností,
+přičemž narazil ze strany nasypaného valu do zemního zarážedla odvratné kusé koleje č. 204b,
+které bylo nárazem, podobně jako zarážedlo odvratné kusé koleje č. 204a, zcela zničeno.
+Následně vlak Os 3428 narazil do stožáru osvětlení č. 7. V konečném postavení po vzniku MU
+se čelo vlaku Os 3428 nacházelo v km 37,811, vpravo od odvratné kusé koleje č. 204b, na
+pláni tělesa železničního spodku.
+Následkem MU utrpělo újmu na zdraví celkem 7 osob, z nichž 2 byly ošetřeny na
+místě a 5 bylo ošetřeno po převozu do zdravotnických zařízení (Fakultní nemocnice
+Ostrava, Městská nemocnice Ostrava).
 ## 4.2
-### Análisis
-### 4.2.1 Evaluación de los hechos establecidos según el punto 3 y formulación de conclusiones sobre la causa del suceso excepcional y la actuación de los servicios de rescate
-La entrada del tren Os 3428 en la estación de enlace Odra estaba prohibida por la actuación de la SZZ con la señal «Alto», emitida con luz roja, de la señal principal (de entrada) 2VL. De esta señal fue advertido el maquinista del tren Os 3428 mediante la señal «Aviso», emitida con luz amarilla, de la señal principal (de sección) del bloque automático 357, que está equipada con la señal fija «Posición de la señal de sección». Sobre las señales de las señales principales 357 y 2VL, el maquinista del tren Os 3428 fue informado en el puesto de conducción con luz amarilla y, tras pasar la señal principal (de sección) del bloque automático 357, con luz roja del repetidor de señales de la parte móvil del VZ.
-La SZZ de la estación de enlace Odra, de conformidad con las condiciones de explotación establecidas y las vigentes
+### Rozbor
+### 4.2.1 Zhodnocení zjištěných skutečností podle bodu 3 a uvedení závěrů o příčině
+mimořádné události a činnosti záchranných služeb
+Vjezd vlaku Os 3428 na odb. Odra byl činností SZZ zakázán návěstí „Stůj“, návěstěnou
+červeným světlem, hlavního (vjezdového) návěstidla 2VL. Na tuto návěst byl strojvedoucí vlaku
+Os 3428 upozorněn návěstí „Výstraha“, návěstěnou světlem žluté barvy, hlavního (oddílového)
+návěstidla automatického bloku 357, které je osazeno neproměnnou návěstí „Stanoviště
+oddílového návěstidla“. O návěstech hlavních návěstidel 357 a 2VL byl strojvedoucí
+vlaku Os 3428 informován na stanovišti strojvedoucího žlutým a po minutí hlavního
+(oddílového) návěstidla automatického bloku 357 červeným světlem návěstního
+opakovače mobilní části VZ.
+SZZ odb. Odra v souladu s určenými provozními podmínkami a platnými
 
 ## Página 42
+
 
 los preceptos legales garantizaba con su función la explotación segura de la vía y del transporte ferroviario y, además, facilitaba la gestión del transporte ferroviario y eliminaba la influencia de la negligencia (error o fallo) del factor humano, OŘDD. El SZZ de la sección Odra prohibía la circulación del tren Os 3428 más allá de la señal principal (de entrada) 2VL, pero, de acuerdo con los preceptos legales vigentes y las condiciones de explotación para las que está destinado, ningún medio técnico de seguridad impedía la circulación no autorizada del tren Os 3428 más allá de la señal principal (de entrada) 2VL ni advertía de la situación OŘDD n.º 2, con la excepción de la señalización óptica de corta duración de la ocupación de los enclavamientos de las agujas n.º 201 y 202, causada por la circulación del tren en cuestión. Dado que la vía muerta de maniobra n.º 204a no está equipada con enclavamiento ni con contador de ejes, y el SZZ de la sección Odra tampoco está equipado con la funcionalidad EZŠ, el tren Os 3428 desapareció del sistema del SZZ de la sección Odra y de la supervisión del OŘDD. Por ello, el SZZ de la sección Odra permitió posteriormente al OŘDD n.º 2, y esto ya después de la aparición del MU, establecer la ruta (de tren) para un tren imaginario (Os 3428), circulando desde la señal principal (de entrada) 2VL a través de la sección Odra hasta la vía de línea hacia la est. Ostrava-Svinov.
 
@@ -1332,8 +1360,8 @@ El transportista, en relación con lo dispuesto en el art. 120 de la norma inter
 
 En el momento de la aparición del MU, la circulación del tren Os 3428 se realizaba en régimen ARR. En el estado técnico del DV y de la infraestructura de la vía no se detectaron deficiencias que guardaran relación causal con la aparición del MU o que contribuyeran a la aparición del MU. La aparición del MU fue causada por el comportamiento del factor humano, el maquinista. De la verificación de la idoneidad profesional y sanitaria del maquinista no se detectaron deficiencias, ni se detectó inmadurez profesional. El maquinista desempeñaba la función laboral en cuestión desde el año 1994. Durante la circulación del tren Os 3428 desde la señal principal (de sección) del bloque automático 357 hasta la señal principal (de entrada) 2VL de la sección Odra, el comportamiento del maquinista, la observación de la vía y de las señales y la actuación conforme a los hechos constatados se vieron negativamente influenciados por la manipulación del sistema de información del DV, consistente en la preparación del sistema de información del DV para el aviso de una interrupción entre las est. Ostrava-Svinov y Děhylov. Asimismo, el comportamiento del maquinista durante la circulación del tren Os 3428 hacia o más allá de la señal principal (de entrada) 2VL de la sección Odra se vio negativamente influenciado por la manipulación del teléfono móvil de servicio, desde el cual el maquinista envió a las 19:26 h un mensaje de texto SMS de carácter privado. De lo anterior se desprende que el comportamiento del maquinista se vio influenciado por un error inconsciente o una serie de errores inconscientes, derivados de la falta de atención y concentración, causados por la priorización de la manipulación del sistema de información del DV y del envío de un mensaje de texto SMS de carácter privado
 
-
 ## Página 43
+
 
 desde el teléfono móvil de servicio, por encima de la observación de la vía desde la cabina del DV y de la actuación conforme a los hechos constatados.
 
@@ -1360,6 +1388,7 @@ El gestor de la vía férrea, categoría nacional, Český Těšín – Polanka 
 
 ## Página 44
 
+
 la parte (tramo) objeto de la cuestión de la red ferroviaria de ámbito estatal según la autorización administrativa, en el sentido de que la autorización administrativa, expedida por la DÚ el 29. 05. 2008, con el n.º de expediente 3-4277/07-DÚ/Le-DÚ/O-Sl, n.º de registro ÚP/2008/9002, estaba afectada por un defecto en la parte dispositiva. El defecto consistía en la omisión de la parte (tramo) objeto de la cuestión de la red ferroviaria de ámbito estatal.
 Dicha deficiencia fue subsanada mediante la expedición del documento «ROZHODNUTÍ» (Resolución), expedido por la DÚ el 05. 03. 2012, con el n.º de expediente DUCR-13183/12/Le, n.º de registro ÚP/2008/9002.
 ## 5 MEDIDAS ADOPTADAS
@@ -1377,6 +1406,7 @@ De conformidad con lo dispuesto en el § 53b apartado 5 de la Ley n.º 266/1994 
 De conformidad con lo dispuesto en el § 53b apartado 5 de la Ley n.º 266/1994 Sb., la Inspección Ferroviaria recomienda al transportista České dráhy, a. s.:
 
 ## Página 45
+
 
 • acelerar los trabajos para la implantación y equipamiento de los materiales rodantes con la parte móvil del ETCS, de modo que, cuando el sistema entre en servicio en el tramo correspondiente, los materiales rodantes explotados puedan aprovechar plenamente todas las funcionalidades de dicho sistema de seguridad.
 
@@ -1398,11 +1428,13 @@ Inspección Territorial de Ostrava
 
 ## Página 46
 
+
 ## 7 ANEXOS
 ### Fig. n.º 6: Tren Os 3428, compuesto por una unidad eléctrica de dos plantas de tipo de fábrica 1 Ev, en su posición final tras el MU [vista desde la dirección de la señal principal (de entrada) 2VL]
 ### Fig. n.º 7: Imagen documentando la vía de la estación de Odra (agujas n.º 201, 202 y 203, vías n.º 201, 202 y 204a)
 
 ## Página 47
+
 
 ### Fig. n.º 8: Planos de tipo de la unidad eléctrica de dos plantas de tipo de fábrica 1 Ev
 fuente: ŠKODA VAGONKA, a. s.

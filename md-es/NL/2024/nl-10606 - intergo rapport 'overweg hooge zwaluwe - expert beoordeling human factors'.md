@@ -10,25 +10,26 @@ chars: 66837
 ratio_longitud: 1.10
 tokens_in: 24222
 tokens_out: 16661
-verificacion: revisar
 fecha_proceso: 2026-11-18
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-avisos: ["página 12: ratio 1.63", "página 33: ratio 1.74"]
-notas_cifras: ["página 6: cifras cortas: 2/11", "página 7: cifras cortas: 1/15", "página 11: original bilingüe: se compara contra el idioma principal (NL)", "página 17: cifras cortas: 1/5", "página 18: cifras cortas: 4/11", "página 20: cifras cortas: 3/18"]
+verificacion: ok
+notas_cifras: ["página 6: cifras cortas: 2/11", "página 7: cifras cortas: 1/15", "página 11: original bilingüe: se compara contra el idioma principal (NL)", "página 12: cifras cortas: 51/84; ratio 2.70", "página 17: cifras cortas: 1/5", "página 18: cifras cortas: 4/11"]
 ---
+
 ## Página 1
+
 
 Paso a nivel Hooge Zwaluwe – evaluación experta de factores humanos
 
-
 ## Página 2
+
 
 ### © 2025 Intergo B.V.
 Ninguna parte de esta publicación puede ser reproducida y/o divulgada mediante impresión, fotocopia, microfilm o cualquier otro medio, sin el consentimiento previo de Intergo. Se permite la consulta de esta publicación por parte de las partes directamente interesadas.
 Si este informe fue emitido por encargo, se hace referencia para los derechos y obligaciones del comitente y del contratista a las Condiciones Generales de Suministro y Venta de Intergo B.V., o al correspondiente acuerdo celebrado entre las partes en dicha materia.
 
-
 ## Página 3
+
 
 ### Ficha técnica
 Título
@@ -57,8 +58,8 @@ Número de páginas
 | 04 . | 010725 . . | Borrador | Revisión posterior OVV |
 | 10 . | 290925 . . | Definitivo | Respuesta posterior OVV |
 
-
 ## Página 4
+
 
 ## Índice 
 ## 16 
@@ -97,10 +98,10 @@ Número de páginas
 13 
 ### 4.2 ¿Qué factores contribuyeron a ello? 
 ### 5. Referencias 
-## 15 
-
+## 15
 
 ## Página 5
+
 
 ## 1.  Introducción 
 El Consejo de Investigación ha formulado dos preguntas de investigación para el estudio a realizar.  
@@ -147,6 +148,7 @@ A petición del Consejo de Investigación, el análisis se centra en un usuario 
 
 ## Página 6
 
+
 ## 2. Enfoque
 ha indicado que el análisis se centra en la dirección de circulación en la que se produjo el accidente. El Consejo de Investigación ha limitado a Intergo la formulación de la pregunta relativa al usuario de la vía. El tren con maquinista no forma parte del alcance de la pregunta dirigida a Intergo.
 ### 2.1 Interpretación de la pregunta de investigación
@@ -171,6 +173,7 @@ El procesamiento de las cuatro señales mencionadas, junto con las acciones rela
 
 ## Página 7
 
+
 ### Percepción de señales por un usuario de la vía
 Para evaluar la eficacia de las señales para el usuario de la vía, se ha utilizado el modelo de 7 pasos para la percepción de señales. La Figura 1 muestra el modelo. El modelo consta de tres componentes, cada uno de los cuales incluye diferentes constructos de factores humanos. En el anexo A se ofrece una explicación más detallada.
 
@@ -194,6 +197,7 @@ Para poder evaluar la situación, se realizó una inspección in situ del lugar 
 
 ## Página 8
 
+
 ## 3. Análisis de factores humanos del paso a nivel Zanddijk
 ### 3.1 Descripción de la situación
 En el paso a nivel en cuestión, el usuario de la vía recibe cuatro señales visuales diferentes que se vuelven relevantes en un orden temporal determinado:
@@ -213,6 +217,7 @@ Figura 2 Aproximación al paso a nivel a diversas distancias
 Figura 2A - Aproximación al paso a nivel, distancia aproximada 110 metros
 
 ## Página 9
+
 
 ### 3.2 Percepción de señales por un usuario de la vía
 La Figura 6 en la página 12 muestra las señales visuales que dan lugar a tareas para un usuario de la vía de un vehículo de carretera. La figura tiene como objetivo ilustrar; son posibles varios órdenes en los que un usuario de la vía puede percibir y procesar las señales y ejecutar acciones. La figura se basa, señal por señal, en el análisis de las cuatro señales diferenciadas según el modelo de 7 pasos de percepción de señales (véase Anexo C).
@@ -240,8 +245,8 @@ usuario de la vía debe, para su propia seguridad al cruzar el paso a nivel, ver
 proceder de dos direcciones.
 si se acerca un tren o no.
 
-
 ## Página 10
+
 
 pueden producirse conflictos cuando se solicita simultáneamente el mismo recurso. En términos populares, esto significa que un ser humano solo puede mirar a un
 ### 3.3 Carga de trabajo de un usuario de la vía
@@ -285,8 +290,8 @@ puntos de carga de trabajo se muestra como suma al pie de la figura;
 • Conforme a la Teoría de Recursos Múltiples (2), la capacidad de los diversos
 recursos (visual, auditivo, cognitivo, psicomotor) no es ilimitada y
 
-
 ## Página 11
+
 
 ### Situación de tráfico en el paso a nivel Zanddijk, Hooge Zwaluwe
 sin vigilancia
@@ -303,27 +308,63 @@ Figura 5 Señales y, con ellas, procesos de tratamiento de información que se p
 
 ## Página 12
 
-| Tiempo y señal | Tipo de tarea | Posición del paso a nivel | Ver visualmente el tablero |
-| :--- | :--- | :--- | :--- |
-| **Tablero de advertencia**<br>Reconocer el paso a nivel<br>Sin reacción | Cognitivo | 1 | 1 | Buscar |
-| **Psicomotor**<br>Desarrollo de la vía<br>Vehículo en sentido contrario | Visual | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | Ver |
-| | Cognitivo | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | Buscar/ver<br>Estrechamiento de la vía + curva + pos. vehículo en sentido contrario<br>No esperado<br>Pensar en vehículos en sentido contrario |
-| | Psicomotor | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | Frenar, desacelerar<br>Entrar en la trayectoria<br>Desacelerar<br>Entrar en la trayectoria<br>Barreras de choque<br>Vehículo en sentido contrario |
-| **Paso a nivel**<br>Ceder el paso<br>Desviarse / entrar en la trayectoria<br>Frenar / entrar en la trayectoria | Visual | 1 | 1 | 1 | 1 | 1 | 1 | Ver |
-| | Cognitivo | 1 | 1 | 1 | 1 | 1 | Pensar<br>Pensar |
-| | Psicomotor | 1 | 1 | 1 | 1 | 1 | Desviarse / entrar en la trayectoria<br>Frenar / entrar en la trayectoria |
-| **Visibilidad libre a la izquierda**<br>Tren - izquierda<br>Elegir dónde mirar mejor<br>Girar la cabeza | Visual | 1 | 1 | Ver |
-| | Cognitivo | 1 | 1 | Elegir dónde mirar mejor |
-| | Psicomotor | 1 | 1 | Girar la cabeza |
-| **Obstrucción visual a la derecha**<br>Ver a la derecha<br>Tren - derecha<br>Elegir dónde mirar mejor<br>Girar la cabeza | Visual | 1 | 1 | 1 | 1 | 1 | 1 | Ver a la derecha |
-| | Cognitivo | 1 | 1 | 1 | 1 | 1 | 1 | Buscar<br>Elegir dónde mirar mejor |
-| | Psicomotor | 1 | 1 | 1 | 1 | 1 | 1 | 1 | Girar la cabeza |
-| **Carga**<br>V+C+P | | 0 | 3 | 4 | 3 | 5 | 10 | 10 | 10 | 9 | 9 | 9 | 10 | 10 | 9 | 6 | 3 | 0 |
+| Tijd en Signaal | Taak-type | positie overweg | Visueel | bord zien | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| | | | | zoeken | | | | | | | | | | | | | | | |
+| | | | | Voorwaarschuwingsbord herkennen | | | | | | | | | | | | | | | |
+| | | | | bord geen reactie | | | | | | | | | | | | | | | |
+| | | | | overweg | | | | | | | | | | | | | | | |
+| | | | | overweg | | | | | | | | | | | | | | | |
+| | | | | als verwacht | | | | | | | | | | | | | | | |
+| | | | | onbewaakt | | | | | | | | | | | | | | | |
+| | | | | bedenken | | | | | | | | | | | | | | | |
+| | | | | wegverloop | | | | | | | | | | | | | | | |
+| | | | | tegenligger | | | | | | | | | | | | | | | |
+| | | | | zien | | | | | | | | | | | | | | | |
+| | | | | zoeken/zien | | | | | | | | | | | | | | | |
+| | | | | Wegversmalling + bocht + evt. tegenligger | | | | | | | | | | | | | | | |
+| | | | | geen denk aan | | | | | | | | | | | | | | | |
+| | | | | versmalling | | | | | | | | | | | | | | | |
+| | | | | remmen, | | | | | | | | | | | | | | | |
+| | | | | verwacht | | | | | | | | | | | | | | | |
+| | | | | tegenliggers | | | | | | | | | | | | | | | |
+| | | | | afremmen | | | | | | | | | | | | | | | |
+| | | | | insturen | | | | | | | | | | | | | | | |
+| | | | | afremmen | | | | | | | | | | | | | | | |
+| | | | | insturen | | | | | | | | | | | | | | | |
+| | | | | schrikhekken | | | | | | | | | | | | | | | |
+| | | | | tegenligger | | | | | | | | | | | | | | | |
+| | | | | zien | | | | | | | | | | | | | | | |
+| | | | | zoeken/zien | | | | | | | | | | | | | | | |
+| | | | | reactie | | | | | | | | | | | | | | | |
+| | | | | voorrang | | | | | | | | | | | | | | | |
+| | | | | bedenken | | | | | | | | | | | | | | | |
+| | | | | bedenken | | | | | | | | | | | | | | | |
+| | | | | uitwijken/ | | | | | | | | | | | | | | | |
+| | | | | insturen | | | | | | | | | | | | | | | |
+| | | | | remmen/ | | | | | | | | | | | | | | | |
+| | | | | insturen | | | | | | | | | | | | | | | |
+| | | | | vrij zicht links | | | | | | | | | | | | | | | |
+| | | | | zien | | | | | | | | | | | | | | | |
+| | | | | keuze waar | | | | | | | | | | | | | | | |
+| | | | | het best te | | | | | | | | | | | | | | | |
+| | | | | kijken | | | | | | | | | | | | | | | |
+| | | | | hoofd draaien | | | | | | | | | | | | | | | |
+| | | | | zichthinder | | | | | | | | | | | | | | | |
+| | | | | rechts zien | | | | | | | | | | | | | | | |
+| | | | | zoeken | | | | | | | | | | | | | | | |
+| | | | | keuze waar | | | | | | | | | | | | | | | |
+| | | | | het best te | | | | | | | | | | | | | | | |
+| | | | | kijken | | | | | | | | | | | | | | | |
+| | | | | hoofd draaien | | | | | | | | | | | | | | | |
+| | | | | Belasting | | | | | | | | | | | | | | | |
+| | | | | V+C+P | | | | | | | | | | | | | | | |
+| | | | | 0 | 3 | 4 | 3 | 5 | 10 | 10 | 10 | 9 | 9 | 9 | 10 | 10 | 9 | 6 | 3 | 0 |
 
-Figura 6 Representación gráfica de la carga de trabajo de un usuario de la vía.
-
+Figuur 6 Grafische weergave van de werkbelasting van een weggebruiker.
 
 ## Página 13
+
 
 ## 4. Respuesta a la pregunta de investigación 
 Para este estudio se aplica la siguiente pregunta de investigación: 
@@ -352,6 +393,7 @@ El análisis mediante el modelo de 7 pasos de la percepción de señales muestra
 
 ## Página 14
 
+
 del usuario de la vía y la notoriedad del estrechamiento de la calzada, del paso a nivel y del
 tren.
 El tiempo para tomar decisiones sobre el control de la velocidad y la dirección de un vehículo, así como para buscar un tren que se aproxime o no, es breve.
@@ -369,6 +411,7 @@ El tiempo limitado disponible en la dirección de circulación investigada para 
 La posibilidad de vehículos en sentido contrario funciona como distracción durante toda la aproximación y el paso por el cruce en la percepción y el procesamiento de las señales.
 
 ## Página 15
+
 
 ## 5. Referencias
 8) Reason, J.T., 1990.
@@ -403,6 +446,7 @@ events. Perception 1999; 28(9):1059-74.
 
 ## Página 16
 
+
 ## Anexo A – Modelo de 7 pasos de la percepción de señales
 ### Estar atento a tiempo del usuario de la vía
 1) Alerta: ¿Está el usuario de la vía en un estado activado o alerta?
@@ -430,6 +474,7 @@ Figura 7. El modelo de 7 pasos para la percepción de señales (Intergo)
 
 ## Página 17
 
+
 ## Anexo B – Carga de trabajo de un usuario de la vía
 ### Carga de trabajo de un usuario de la vía
 El modelo de siete pasos para la observación de señales no aborda la actuación efectiva que sigue a la fase en la que una señal debe ser comprendida correctamente. La actuación efectiva se refiere a la conducción de un vehículo por carretera, para lo cual deben regularse la velocidad y el sentido de marcha. Esto también requiere un flujo de procesamiento de información seguido de una actuación.
@@ -442,8 +487,8 @@ Los cuatro canales de procesamiento son también la base del modelo VACP (1). El
 • Psicomotor – la ejecución y el control de maniobras o acciones.
 La dificultad de las tareas visuales, cognitivas y psicomotrices puede indicarse por tarea mediante una puntuación de 1 (3). Dicha puntuación indica que el canal de procesamiento correspondiente está ocupado en ese momento.
 
-
 ## Página 18
+
 
 ## Anexo C - Aplicación del modelo de siete pasos al paso a nivel Zanddijk
 ### Señales para el conductor del camión
@@ -469,15 +514,15 @@ El análisis utiliza el modelo de siete pasos para la observación de señales. 
 • Percibir (generalmente ver)
 • Comprender
 
-
 ## Página 19
+
 
 ### A) El estrechamiento de la calzada (con curva detrás y eventualmente vehículos en sentido contrario)
 La carretera tiene una anchura de aproximadamente 5,4 m, pero a la altura del paso a nivel la anchura de la calzada es de aproximadamente 3,6 m. Se trata aquí de un llamado «cuello de botella». La anchura se midió entre las líneas de demarcación. En el propio paso a nivel, esto es más crítico para el usuario de la vía porque hay barreras automáticas y pueden tocarse con el vehículo. Tocar ocasionalmente fuera de la calzada y en el arcén en el estrechamiento ocurre con regularidad, como se puede observar en el arcén, pero no tiene consecuencias para el usuario de la vía.
 Figura 8 Punto donde se reconoce el estrechamiento de la calzada
 
-
 ## Página 20
+
 
 ### Estrechamiento de la calzada y curva – aplicación del modelo de siete pasos
 | Paso | Descripción | Hallazgos | Observaciones |
@@ -487,8 +532,8 @@ Figura 8 Punto donde se reconoce el estrechamiento de la calzada
 | 3 | Distracción | La posición del sol en el momento del incidente era: aproximadamente 30 grados a la derecha del sentido de circulación y bajo un ángulo vertical de 46 grados¹). Pueden haber habido vehículos en sentido contrario. | El sol intenso detrás de los árboles, con posible efecto parpadeante, y los vehículos en sentido contrario pueden ser distractores. Hay una media de unos 850 vehículos diarios (desde bicicletas hasta remolques), por lo que la probabilidad de un vehículo en sentido contrario es real. |
 ¹ https://www.suncalc.org/#/51.689,4.7651,16/2024.08.28/14:33/1/3 consultado el 8 de mayo de 2025
 
-
 ## Página 21
+
 
 ### Estrechamiento de la calzada y curva – aplicación del modelo de siete pasos
 | Estrechamiento de la calzada y curva – aplicación del modelo de siete pasos | | | |
@@ -499,6 +544,7 @@ Figura 8 Punto donde se reconoce el estrechamiento de la calzada
 | 6 | Identificación | El estrechamiento es claramente un obstáculo para el usuario de la vía. | El arcén dañado muestra que el estrechamiento de la calzada no ofrece un paso lógico o fácil. Un vehículo alto puede tocar la cruz de San Andrés, y esto ocurre en la práctica (véase la foto de la cruz de San Andrés doblada tomada durante la inspección). |
 
 ## Página 22
+
 
 ### Estrechamiento de la vía y curva – aplicación del modelo de 7 pasos
 ### Paso
@@ -512,8 +558,8 @@ El usuario de la vía estará siempre atento a los vehículos que circulan en se
 Figura 9 La señal de aviso en el paso a nivel
 La señal de aviso J11 está colocada sobre un fondo amarillo intenso con franjas rojas y blancas debajo. Sobre la superficie amarilla se ha colocado una placa complementaria con la inscripción «paso a nivel sin barreras».
 
-
 ## Página 23
+
 
 La señal individual del RVV con código J11 no tiene esto.
 Se ha optado por el fondo amarillo para la señal con el fin de aumentar su visibilidad.
@@ -536,8 +582,8 @@ Alguien puede tener prisa, estar cansado, pasar diariamente o solo una vez al me
 |  |  |  | Por lo tanto, la posibilidad de encontrar un tren en el paso a nivel es pequeña. |  |  |
 |  |  |  | En una vía así, una expectativa correcta sobre la presencia de un paso a nivel parece menos obvia; dejar abierta una expectativa correcta sobre un tren que pasa por ese paso a nivel sin barreras. |  |  |
 
-
 ## Página 24
+
 
 ### Señal de aviso de paso a nivel – aplicación del modelo de 7 pasos
 ### Paso
@@ -562,8 +608,8 @@ Llamatividad
 Identificación
 Está claro que esta señal debe ser para este usuario de la vía.
 
-
 ## Página 25
+
 
 ### Señal de aviso de paso a nivel – aplicación del modelo de 7 pasos
 ### Paso
@@ -586,22 +632,26 @@ El triángulo de visibilidad requerido también es aplicable a este paso a nivel
 
 ## Página 26
 
+
 Desde el norte (dirección de marcha del incidente), la ventana panorámica ofrece visibilidad hacia la izquierda, pero hacia la derecha esta visión está limitada debido a importantes interrupciones causadas por una hilera de árboles. Dicha hilera genera, al aproximarse a cierta velocidad (el límite máximo local es de 60 km/h), una especie de muro visual de árboles a lo largo de la vía que bloquea más o menos la visibilidad hacia la derecha (Figura 10). El último árbol de la hilera se encuentra a menos de 11 metros del paso a nivel. Por tanto, solo a menos de 11 metros del paso a nivel existe visibilidad libre hacia la derecha (Figura 7).
 Tanto para la ventana panorámica como para la ventana de visión, los setos a lo largo de la vía ferroviaria, aunque no en toda la longitud de la ventana de visión, obstruyen la vista sobre la vía. La visibilidad se establece solo en el último momento, a menos de 11 metros antes del paso a nivel, es decir, menos de lo prescrito para la ventana de visión. Un estudio de líneas de visión muestra que, en cualquier caso, hay un árbol en la línea de visión. Para tener buena visibilidad en esta situación desde Zanddijk, es necesario detenerse (casi) por completo a poca distancia antes del paso a nivel. En una carretera rural continua con límite de 60 km/h y sin una expectativa clara de un tren, esto es improbable. A una velocidad de 40 km/u (11 m/s), desde los 11 metros antes del paso a nivel, se dispone de 1 segundo para mirar si hay un posible tren.
 Figura 10   Fila de árboles en el lado derecho de la vía  
 Figura 11   Visibilidad hacia la derecha, justo antes del paso a nivel 
-Simultáneamente con el paso a nivel, se hace visible el trazado de la vía con curva inmediatamente después del paso a nivel (aproximación desde la dirección de marcha del incidente). Esto no es una señal nueva, sino una adición a la señal de estrechamiento de la calzada, mediante la cual el usuario de la vía debe tener en cuenta la presencia de posibles vehículos contrarios en la curva al determinar la forma de cruzar el paso a nivel (incorporación, determinación de la velocidad). 
+Simultáneamente con el paso a nivel, se hace visible el trazado de la vía con curva inmediatamente después del paso a nivel (aproximación desde la dirección de marcha del incidente). Esto no es una señal nueva, sino una adición a la señal de estrechamiento de la calzada, mediante la cual el usuario de la vía debe tener en cuenta la presencia de posibles vehículos contrarios en la curva al determinar la forma de cruzar el paso a nivel (incorporación, determinación de la velocidad).
 
 ## Página 27
 
+
 Figura 12 Izquierda: la vista hacia la derecha a unos 50 metros antes del paso a nivel, entre los árboles a lo largo de la vía. Los setos junto a la vía ferroviaria obstaculizan la visibilidad y también la hilera de árboles entra en la línea de visión. Derecha: la misma vista a unos 10 metros antes del paso a nivel, es decir, justo dentro de la ventana. El árbol que obstaculiza la visibilidad aún es apenas visible a la derecha en la foto.  
-Figura 13 Vista del paso a nivel. Las señales del paso a nivel a la izquierda destacan mal contra el fondo oscuro con setos. Dependiendo del punto de vista, las señales del paso a nivel a la derecha también pueden destacar mal contra el fondo con árboles en el horizonte. 
+Figura 13 Vista del paso a nivel. Las señales del paso a nivel a la izquierda destacan mal contra el fondo oscuro con setos. Dependiendo del punto de vista, las señales del paso a nivel a la derecha también pueden destacar mal contra el fondo con árboles en el horizonte.
 
 ## Página 28
 
-Figura 14 El mayor estrechamiento causado por el paso a nivel. Las señales del paso a nivel destacan mal contra el fondo oscuro.  
+
+Figura 14 El mayor estrechamiento causado por el paso a nivel. Las señales del paso a nivel destacan mal contra el fondo oscuro.
 
 ## Página 29
+
 
 ### Paso a nivel con Cruz de San Andrés y barreras automáticas – aplicación modelo de 7 pasos 
 ### Paso 
@@ -615,10 +665,10 @@ La mayoría de los pasos a nivel están equipados con señales de advertencia vi
 Si el paso a nivel no se espera basándose en la señal de aviso o en experiencias previas, ver el paso a nivel puede conducir a un efecto de «susto y sorpresa» (4)². El usuario de la vía no está entonces alerta ni preparado para una acción. Consecuencia del efecto mencionado es una fuerte limitación de la capacidad cognitiva. Esta sigue directamente a la percepción de las características del paso a nivel, posiblemente reforzada por un vehículo contrario que se aproxima o un ciclista que sobrepasa. 
 à Hay bastante tráfico sobre el paso a nivel. Por lo tanto, parece realista que se deba contar con un vehículo contrario. 
 à El estrechamiento de la calzada crea un cuello de botella que puede distraer la atención del usuario de la vía o dificultarle seguir las indicaciones correspondientes al cruce del paso a nivel sin vigilancia.  
-2 Más precisamente, aquí parece tratarse de una «sorpresa»: un estímulo que cae fuera de los marcos mentales conocidos emocional o cognitivamente.  
-
+2 Más precisamente, aquí parece tratarse de una «sorpresa»: un estímulo que cae fuera de los marcos mentales conocidos emocional o cognitivamente.
 
 ## Página 30
+
 
 ### Paso a nivel con Cruz de San Andrés y barreras automáticas – aplicación modelo de 7 pasos 
 ### Paso 
@@ -633,6 +683,7 @@ La vía ferroviaria en este tramo no está dotada de catenaria que pueda relacio
 3 La inmersión completa en una tarea mientras otra tarea debería tener una prioridad más alta en ese momento, se denomina también «bloqueo cognitivo». El bloqueo cognitivo se describe como una fijación en una subtarea sin supervisar la evolución de la situación o la tarea en su conjunto. El bloqueo cognitivo ha sido ampliamente descrito en la literatura en términos de procesos cognitivos. Véase [9)].
 
 ## Página 31
+
 
 ### Paso a nivel con Cruz de San Andrés y barreras disuasorias – aplicación del modelo de 7 pasos 
 ### Paso 
@@ -659,10 +710,10 @@ protección activa.
 La vía es visiblemente de mala calidad: arcenes, ondulaciones en el 
 pavimento del paso a nivel. Esto constituye una distracción al observar 
 y cruzar el paso a nivel. 
-El estrechamiento de la vía en el paso a nivel exige mucha atención por varias razones y, por tanto, distrae respecto al manejo del paso a nivel sin protección activa. 
-
+El estrechamiento de la vía en el paso a nivel exige mucha atención por varias razones y, por tanto, distrae respecto al manejo del paso a nivel sin protección activa.
 
 ## Página 32
+
 
 ### Paso a nivel con Cruz de San Andrés y barreras disuasorias – aplicación del modelo de 7 pasos 
 ### Paso 
@@ -711,23 +762,22 @@ precisamente en el lugar donde el conductor presta atención
 del paso a nivel; 
 para cruzar el estrechamiento de la vía. 
 • No hay señales activas visuales o auditivas de advertencia que 
-puedan aumentar la notoriedad del paso a nivel. 
-
+puedan aumentar la notoriedad del paso a nivel.
 
 ## Página 33
 
-### Paso a nivel con Cruz de San Andrés y barreras disuasorias – aplicación del modelo de 7 pasos 
-| Paso a nivel con Cruz de San Andrés y barreras disuasorias – aplicación del modelo de 7 pasos |  |  |  |
+### Paso de cruce con cruz de San Andrés y vallados – aplicación del modelo de 7 pasos
+| Paso de cruce con cruz de San Andrés y vallados – aplicación del modelo de 7 pasos |  |  |  |
 | Paso | Descripción | Hallazgos | Observación |
-| 6 | Identificación | Está claro aquí que se aproxima un paso a nivel para el usuario de la carretera | El paso a nivel es claramente reconocible como obstáculo a unos 50 metros |
-| 7 | Interpretación | El usuario de la carretera debe ahora mirar a izquierda-derecha y buscar un tren Al mismo tiempo esto significa posiblemente maniobrar en el paso a nivel . desviarse para un vehículo en sentido contrario hacia adelante recto Estos , . procesos y direcciones de mirada (!) deben alternarse y el usuario de la carretera debe preparar eso e iniciarlos . Buscar un tren no es intuitivo porque por un lado los pasos a nivel sin protección activa son raros y por otro lado en este tramo de vía circulan muy pocos trenes, por lo que puede hablarse de una situación peligrosa . Buscar un tren cuesta muchos movimientos oculares Estos son . los llamados movimientos oculares costosos (5) y el cerebro determina ahora si el esfuerzo vale la pena para ver el mismo tren Un vehículo en sentido contrario . por el contrario es visible mirando hacia adelante y una colisión con el vehículo en sentido contrario es directamente derivable . | à Hay tan poco tiempo de visión en el punto en que se obtiene una buena vista hacia la derecha aproximadamente 1 segundo hasta pasar el , paso a nivel a una velocidad de 40 km/h . à Considerar estas expectativas considerar una acción posible (¡mirar!) cuesta tiempo Durante algunos . recorridos indicativos durante la inspección del paso a nivel resulta que efectivamente es un tiempo muy ajustado para decidir mirar y eventualmente desviarse , para un vehículo en sentido contrario . |
-### D) El tren que se aproxima: locomotora y vagones 
-Aunque el tren no es una 'señal' fija que forme parte de la infraestructura vial, en un Paso a Nivel Sin Protección Activa el tren debe considerarse como señal, porque el usuario de la carretera debe realizar una estimación basada en su propia observación sobre si se aproxima o no un tren, y si es seguro o no cruzar. Esta estimación concierne: 
-• ¿Hay o no hay un tren con el que se deba contar? 
-• Y si lo hay, ¿la distancia al tren y la velocidad del tren son tales que, dada la velocidad propia, se puede o no cruzar de forma segura. 
-
+| 6 | Identificación | Está aquí claramente que se aproxima un paso de cruce para el usuario de la vía | El paso de cruce es claramente reconocible como obstáculo a unos 50 metros |
+| 7 | Interpretación | El usuario de la vía debe ahora mirar a izquierda y derecha y buscar un tren. Simultáneamente, esto significa posiblemente esquivar a un vehículo en sentido contrario dirección recta hacia delante. Estos procesos y direcciones de mirada (!) deben alternarse y el usuario de la vía debe prepararlos y ponerlos en marcha. La búsqueda de un tren no está a la mano porque, por un lado, un paso de cruce sin vigilancia ocurre raramente y, por otro lado, en este tramo de vía circulan muy pocos trenes y, por tanto, puede haber una situación peligrosa. La búsqueda de un tren cuesta muchos movimientos oculares. Estos son los llamados movimientos oculares costosos(5) y los cerebros determinan ahora si el tren raro merece la pena el esfuerzo. Un vehículo en sentido contrario, en cambio, es visible mirando hacia delante y una colisión con el vehículo en sentido contrario es directamente atribuible. | àHay muy poco tiempo de mirada en el punto en que se obtiene buena visión hacia la derecha, aproximadamente 1 segundo hasta pasar el paso de cruce a una velocidad de 40 km/h. àEl pensar en estas expectativas, el pensar en una posible acción (¡mirar!) cuesta tiempo. Durante una serie de viajes de investigación indicativos durante la inspección del paso de cruce se observa que esto es efectivamente un tiempo más ajustado para decidir mirar y eventualmente esquivar a un vehículo en sentido contrario. |
+### D) El tren que se aproxima: locomotora y vagones
+Aunque el tren no es una «señal» fija que forme parte de la configuración de la vía, en un Paso de Cruce sin Protección Activa el tren sí debe ser considerado como señal, porque el usuario de la vía, en función de su propia observación de si se aproxima o no un tren, debe hacer una estimación de si es o no seguro cruzar. Esta estimación se refiere a:
+• ¿Hay o no un tren del que deba tenerse en cuenta?
+• Y si lo hay, ¿la distancia hasta el tren y la velocidad del tren son tales que, vista la propia velocidad, se puede cruzar o no con seguridad.
 
 ## Página 34
+
 
 Figura 15    Fotografía aérea del tren  
 El tren consistía en una locomotora roja con varios vagones de color marrón óxido. Contra un fondo de vegetación, eso puede verse así: 
@@ -735,14 +785,15 @@ Figura 16    Impresión artística de un tren largo con vagones de color marrón
 
 ## Página 35
 
+
 ### Tren que se aproxima – aplicación del modelo de 7 pasos 
 | Tren que se aproxima – |  | Modelo de 7 pasos |  |
 | Paso | Descripción | Hallazgos | Observación |
 | 1 | Alerta | Véase A B C. El usuario de la vía puede observar el cruce relajadamente y cruzar sobre la base de una expectativa previa (A B C) o, por el contrario, iniciar una reacción de pánico mirando y frenando. La alerta del usuario de la vía dependerá fuertemente de la forma de percibir e interpretar las señales previas. La distancia entre las cruces de San Andrés y las barreras automáticas y el PVR/vía es (muy) corta. Esto significa que los 7 pasos para la señal C – Cruz de San Andrés y barreras automáticas y la señal D – tren que se aproxima deben completarse en paralelo/simultáneamente, lo que aumenta la probabilidad de que no completar correctamente o de forma incompleta los 7 pasos para la señal C influya en si se completan o no de forma completa o correcta los 7 pasos para la señal D. El cruce es un paso a nivel sin protección: |  |
-• No existen señales de advertencia visuales ni auditivas activas que puedan aumentar la alerta del usuario de la vía. 
-
+• No existen señales de advertencia visuales ni auditivas activas que puedan aumentar la alerta del usuario de la vía.
 
 ## Página 36
+
 
 ### Tren que se aproxima – aplicación del modelo de 7 pasos 
 ### Paso 
@@ -775,10 +826,10 @@ Los árboles tenían hojas en el momento del incidente. Desde
 una posición de asiento más alta en un camión, esto genera más obstrucción visual al mirar hacia la derecha. 
 Hay dos tipos de obstrucción visual: 
 • Los árboles forman una ‘pared visual’ que oculta la línea ferroviaria a la vista y, por tanto, también el tren. 
-• Los setos a lo largo de la vía pueden ocultar a la vista un eventual tren. Sí hay visibilidad de la vía. 
-
+• Los setos a lo largo de la vía pueden ocultar a la vista un eventual tren. Sí hay visibilidad de la vía.
 
 ## Página 37
+
 
 ### Tren que se aproxima – aplicación del modelo de 7 pasos 
 ### Paso 
@@ -794,14 +845,15 @@ El camión circulaba por el paso a nivel en el momento del incidente a unos 40 k
 
 ## Página 38
 
+
 ### Tren que se aproxima – aplicación del modelo de 7 pasos
 | Aplicación tren que se aproxima – |  | Modelo de 7 pasos |  |
 | Paso | Descripción | Hallazgos | Observaciones |
 | 7 | Interpretación | En combinación con un bloqueo cognitivo (véase B Overweg), la interpretación de que llega un tren se ve limitada por el reducido número de movimientos en dirección a los trenes derivados por un interlocutor y el estrecho paso, lo que requiere tiempo. De hecho, no se trata de dos señales: si es un tren por la izquierda o un tren por la derecha. La evaluación de tener una línea de visión despejada es parte de la búsqueda de un tren. Si resulta que hay obstrucción visual debido a vegetación u otra razón que bloquee la línea de visión, puede ser necesario realizar una nueva «acción de búsqueda» de un tren, posiblemente precedida por una comprobación del otro lado. Esto consume tiempo y atención. Puede darse el caso de actuar según una regla desaconsejable (8): una regla aparentemente lógica que no siempre funciona o solo bajo ciertas condiciones. En este caso, mirar solo donde hay obstrucción visual, asumiendo que en un campo de visión libre se verá todo. Esto conduce a una nueva búsqueda de un tren, ahora en el [lado] derecho con la línea de visión obstruida. Un usuario de la vía está ahora alerta, pero busca incorrectamente. Al «seguir» esta regla, el usuario de la vía utiliza su capacidad de forma desfavorable para las señales de tráfico. |  |
 4 Polderblindheid o también hipnosis de autopista es una forma de disminución de la atención en el tráfico causada por la ausencia de estímulos externos. Se encuentra una descripción en Wikipedia. Los fenómenos subyacentes como la activación son más complejos y quedan fuera del alcance de este informe.
 
-
 ## Página 39
+
 
 Snouckaertlaan 42, 
 3811 MB Amersfoort 

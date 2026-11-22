@@ -10,13 +10,14 @@ chars: 200148
 ratio_longitud: 1.28
 tokens_in: 94427
 tokens_out: 70985
-verificacion: revisar
-notas_cifras: ["bloque 1: original bilingüe: se compara contra el idioma principal (EN)", "bloque 2: original bilingüe: se compara contra el idioma principal (CS)", "bloque 3: original bilingüe: se compara contra el idioma principal (CS); cifras cortas: 2/71", "bloque 6: cifras cortas: 5/106", "bloque 8: original bilingüe: se compara contra el idioma principal (CS); cifras cortas: 1/73", "bloque 9: original bilingüe: se compara contra el idioma principal (CS); cifras largas: 2/52"]
-avisos: ["bloque 8: ratio 1.74", "bloque 9: ratio 1.90", "bloque 12: ratio 1.78", "bloque 21: ratio 2.03"]
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (PT)", "página 5: original bilingüe: se compara contra el idioma principal (EN)", "página 6: original bilingüe: se compara contra el idioma principal (CS)", "página 7: original bilingüe: se compara contra el idioma principal (CS)", "página 9: original bilingüe: se compara contra el idioma principal (CS); cifras cortas: 2/48", "página 10: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 Inspección Ferroviaria
 República Checa
@@ -40,11 +41,12 @@ NIF: 75009561
 http://www.dicr.cz
 fax: (+420) 224 805 428
 
-
 ## Página 2
 
 
+
 ## Página 3
+
 
 # RESUMEN
 Gravedad:
@@ -79,11 +81,12 @@ Causa raíz:
 no investigada
 Recomendaciones: no emitidas
 
-
 ## Página 4
 
 
+
 ## Página 5
+
 
 # Índice
  Resumen .........................................................................................................................3
@@ -117,6 +120,7 @@ incluidas las personas en relación contractual ................................
 
 ## Página 6
 
+
 3.1.2 Otras personas .........................................................................................................21
 3.2 Sistema de garantía de la seguridad ...............................................................................22
 3.2.1 Estructura marco y forma en que se emiten y ejecutan las instrucciones .......22
@@ -146,8 +150,8 @@ incluidas las personas en relación contractual ................................
 ............................................................................................................................40
 4.2 Análisis ......................................................................................................................42
 
-
 ## Página 7
+
 
 4.2.1 Evaluación de los hechos constatados según el punto 3 y presentación de conclusiones sobre las causas del incidente y la actuación de los servicios de rescate ..........................................42
 4.3 Conclusiones .......................................................................................................................50
@@ -172,6 +176,7 @@ incluidas las personas en relación contractual ................................
 
 ## Página 8
 
+
 ## 1 RESUMEN
 Grupo de acontecimiento: accidente grave.
 Ocurrido el: 22.02.2008, a las 11:40:00 h.
@@ -188,8 +193,8 @@ Causas fundamentales: falta de garantía de la capacidad portante suficiente del
 Causas en el sistema de seguridad: no se detectaron.
 Recomendaciones de seguridad: no se emitieron por la Inspección Ferroviaria.
 
-
 ## Página 9
+
 
 ## 2 DATOS RELATIVOS AL INCIDENTE EXTRAORDINARIO
 ### 2.1 Incidente extraordinario
@@ -201,15 +206,15 @@ Durante la circulación del tren Nex 1.nsl 47315 en la curva derecha de la vía 
 
 ## Página 10
 
-En el momento del descarrilamiento del tren Nex 1.nsl 47315, circulaba por la vía de estación adyacente n.º 2, en sentido contrario, el tren EC 108 por la estación de Lukavice na Moravě. La grava del balasto ferroviario, proyectada por los vehículos descarrilados del tren Nex 1.nsl 47315, impactó en el frontal y el lado izquierdo de la parte delantera del tren EC 108. El maquinista del tren EC 108 reaccionó ante la situación producida aplicando el freno de emergencia y protegiéndose detrás del panel de control en la cabina del maquinista. El frontal del tren EC 108 se detuvo en el apeadero de Zábřeh de la estación de Lukavice na Moravá, en el pk 46,526. El cristal del faro y el cristal de la ventana frontal izquierda de la cabina del maquinista (HDV) resultaron rotos debido a la grava del balasto ferroviario proyectada por los vehículos descarrilados. El maquinista no resultó herido.
-Un estudiante de la Universidad Técnica Checa de Praga (en adelante, ČVUT Praga) fue testigo del descarrilamiento de ambos vehículos del tren Nex 1.nsl 47315, quien en el momento de la aparición del incidente cruzaba la vía férrea por un puente viaducto, situado en el pk 46,802 sobre el apeadero de Zábřeh de la estación de Lukavice na Moravá.
-El aparecimiento del incidente fue comunicado por el despachador de la estación de Lukavice na Moravá.
-El Sistema Integrado de Salvamento (en adelante, IZS) no fue activado, en consideración a las consecuencias derivadas del incidente. No se produjeron lesiones personales ni fugas de sustancias peligrosas.
-Para la eliminación de las consecuencias del incidente se desplegó el Servicio de Bomberos y Salvamento (en adelante, HZS) de Olomouc.
-Tras la inspección del vehículo dañado 162.057-4 que circulaba a la cabeza del tren EC 108 y tras obtener el consentimiento de las personas encargadas de determinar las causas y las circunstancias del incidente, el tren EC 108 partió a velocidad reducida hacia la estación adyacente de Zábřeh na Moravě, donde se sustituyó el vehículo dañado y el tren continuó su viaje hacia la estación de destino Praga hl. n. con un vehículo de sustitución.
-Mediante la inspección del lugar del incidente, la primera huella del descarrilamiento, es decir, el punto «0», fue determinada comisionadamente en el pk 45,892, en el lugar donde la superficie de rodadura de la rueda derecha del tercer bogie del vehículo de la serie Laaers n.º 23 87 436 3643-9 abandonó la cabeza del riel derecho de la vía de línea n.º 1 sin dejar huella de escalada del rodillo sobre la cabeza del riel. El rodillo derecho saltó sobre la cabeza del riel derecho, donde dejó una marca por el rodamiento sobre la cabeza del riel del carril derecho. A una distancia de 11,00 m, la rueda derecha descendió hacia la derecha (exterior) del carril derecho de la vía de línea n.º 1.
+En el momento de la rotura del tren Nex 1.nsl 47315, circulaba por la estación de Lukavice na Moravě, por la vía lateral de estación n.º 2, en sentido contrario, el tren EC 108. La balastro del balasto de la vía, expulsado por los TDV descarrilados del tren Nex 1.nsl 47315, impactó en el frontal y el flanco izquierdo de la parte delantera del tren EC 108. El maquinista del tren EC 108 reaccionó a la situación producida aplicando frenado de acción rápida y refugiándose detrás del pupitre de mando en la cabina del maquinista. El frontal del tren EC 108 se detuvo en el extremo de Zábřeh de la estación de Lukavice na Moravě, en el km 46,526. El balasto de la vía expulsado por los TDV descarrilados rompió el cristal del foco y el cristal de la ventana frontal izquierda del HDV. El maquinista no resultó herido. Testigo del descarrilamiento de ambos TDV del tren Nex 1.nsl 47315 fue un estudiante de la Universidad Técnica Checa de Praga (en adelante, ČVUT Praha), que en el momento de la producción del MU cruzaba la vía ferroviaria por un paso superior carretero, situado en el km 46,802 sobre el extremo de Zábřeh de la estación de Lukavice na Moravě.
+La producción del MU fue comunicada por el jefe de estación de la estación de Lukavice na Moravě.
+El Sistema Integrado de Emergencias (en adelante, IZS), en consideración a las consecuencias producidas por el MU, no fue activado. No se produjeron heridos ni fugas de sustancias peligrosas.
+Para la eliminación de las consecuencias del MU fue movilizado el Servicio de Bomberos y Salvamento (en adelante, HZS) de Olomouc.
+Tras la inspección realizada al HDV 162.057-4 que circulaba en cabeza del tren EC 108 y tras la obtención del consentimiento de las personas que determinaban las causas y circunstancias de la producción del MU, el tren EC 108 partió a velocidad reducida hacia la estación adyacente de Zábřeh na Moravě, donde el HDV dañado fue sustituido y el tren continuó su marcha hacia la estación de destino de Praha hl. n. con un HDV de sustitución.
+Mediante el levantamiento del lugar de producción del MU, la primera huella de descarrilamiento, es decir, el punto "0", fue determinada comisionalmente en el km 45,892, en el punto donde la superficie de rodadura de la rueda derecha del tercer bogie del TDV de la serie Laaers n.º 23 87 436 3643-9 abandonó el canto de la vía derecha del carril derecho de la vía principal n.º 1 sin dejar huella de trepado del labio en el canto de la vía. El labio derecho saltó sobre el canto de la vía derecha, donde dejó una marca de presión por la rodadura sobre el canto de la vía derecha del carril derecho. A una distancia de 11,00 m, la rueda derecha descendió hacia la derecha (hacia fuera) del carril derecho
 
 ## Página 11
+
 
 La rueda izquierda de este bogie descendió de la cabeza del riel del carril izquierdo hacia la derecha, en dirección al eje de la vía de línea n.º 1, a una distancia de 10,65 m del punto «0». Las huellas del descarrilamiento de ambas ruedas del bogie continuaron en la dirección de circulación del tren Nex 1.nsl 47315 hacia la estación de Lukavice na Moravá, dejando marcas de las ruedas sobre los pernos de sujeción. Cerca del punto «0» se detectó un lecho de grava fuertemente embarrado, con influencia sobre la posición geométrica de la vía (en adelante, GPK), entre los puntos de medición «9» y «4», es decir, en una longitud de 5,00 m, bajo el carril derecho. La contaminación del lecho de grava se extendía hasta la parte central de la vía hacia el carril izquierdo. Se detectó otro embarramiento del lecho de la vía en el lugar del punto «-6», en dirección al punto «-9», es decir, en una longitud de aproximadamente 3,00 m. La adherencia y la integridad de los elementos de fijación en el lugar del punto «0» eran buenas, es decir, los rieles del carril derecho y del carril izquierdo estaban correctamente fijados a las traviesas de hormigón SB8 mediante abrazaderas ŽS3, pernos de abrazadera y espirales R1.
 En consideración al fuertemente embarrado lecho de la vía bajo el carril derecho, además de la medición básica de los parámetros del balasto ferroviario, es decir, el cambio de ancho de la vía, la posición altimétrica mutua de los carriles y la flecha sobre la cuerda de 10 m, medida en intervalos de 1,00 m, tanto 30 m antes como 10 m después del punto «0», se realizó también una medición bajo carga estática, provocada por el eje delantero del vehículo ferroviario especial (en adelante, SDV) de la serie MPV 22 – 01 en los puntos de medición «0» a «10». No se detectaron defectos en la suspensión del conjunto del tren Nex 1.nsl 47315.
@@ -230,6 +235,7 @@ persona que dirige el vehículo ferroviario (en adelante, maquinista) del tren N
 ●
 
 ## Página 12
+
 
 jefe de tren del tren EC 108, empleado de Českých drah, a. s. (en lo sucesivo, ČD, a. s.), Depósito
 ●
@@ -262,6 +268,7 @@ Fig. 1 TDV Laaers 23 87 436 3643-9
 
 ## Página 13
 
+
 Laaers 43 87 427 2699-7, acoplado como el 21. TDV detrás de la locomotora principal. El titular y explotador es
 –
 la empresa GEFCO 71-81, rue des LILAS D'ESPAGNE 92402, COURBEVOIE. El TDV fue
@@ -287,6 +294,7 @@ Desde el pk 46,277 hasta el pk 46,388 discurría por un tramo recto, desde el pk
 
 ## Página 14
 
+
 transición, continuando en dirección recta hasta el pk 47,143. La vía continúa con una curva a la izquierda, compuesta por radios de r = 2 050 m y r = 2 500 m con peralte p = 50 mm y una transición de longitud 80 m.
 La pendiente de la línea en dirección del kilometraje hacia la estación de Lukavice na Moravě en la vía de línea nº 1 y en la vía de estación nº 1 desciende -3,52 ‰ hasta el pk 46,166. Desde el pk 46,166 hasta el pk 46,460 desciende -2,41 ‰.
 Desde el pk 46,460 hasta el pk 46,871 desciende -1,04 ‰ y a continuación, desde el pk 46,871 asciende +2,97 ‰ y desde el pk 47,240 asciende +1,41 ‰.
@@ -304,35 +312,26 @@ La estación de Lukavice na Moravá está equipada con un dispositivo de segurid
 
 ## Página 15
 
-La vía férrea, Přerov – Česká Třebová, está cubierta por la señal «Vf» del sistema de radio de vía (denominado en lo sucesivo, SRV), un sistema de islas que permite, en el canal combinado de la banda n.º 65, la comunicación entre el despachador, los jefes de estación de las estaciones adyacentes y los maquinistas de los trenes de pasajeros (HDV) equipados con la parte móvil del SRV. A tenor de la DECISIÓN DEL PARLAMENTO EUROPEO Y DEL CONSEJO n.º 679/2006/CE, se trata de un equipo de clase «B». Las islas de la red SRV constituyen las estaciones base de radio situadas en las distintas estaciones (žst.).
-
-### 2.2.4 Utilización de los medios de comunicación
-
-En relación con el incidente en cuestión (MU), en la estación de Lukavice na Moravě estaban disponibles los siguientes medios de comunicación: el equipo telefónico ITZ HICOM Siemens KEY POINT con central de difusión, que permite la conexión:
-
-- de vía, para la conexión telefónica directa con los jefes de estación de las estaciones adyacentes;
-- de despacho de trenes, para la conexión directa con el despachador de trenes del Centro Regional de Operaciones de Ostrava;
-- de despachador eléctrico, para la conexión directa con el despachador eléctrico de la Dirección de Electrotécnica y Energía de Přerov (SDC);
-- de llamada, para la conexión directa desde las señales de entrada 1L, 2L y 1S, 2S;
-- de la red telefónica pública, conectada mediante el prefijo de llamada «0»;
-- de redes de radio:
-    - Red de radio despachador (SRD), que forma parte del SRV de sistema de islas y permite, en el canal combinado de la banda n.º 65, la señal «Vf» 467,950 MHz, la comunicación entre el despachador, los jefes de estación de las estaciones adyacentes y los maquinistas de los trenes de pasajeros (HDV) equipados con la parte móvil del SRV;
-    - Red de radio tecnológica STE, destinada a la organización del tráfico ferroviario en el ámbito de la estación de Lukavice na Moravé, que funciona con la señal «Vf» 157,575 MHz;
-    - Red de radio para trenes de maniobras (SMV), destinada a la organización del tráfico ferroviario durante el desvío de trenes de mercancías en el ámbito de la estación de Lukavice na Moravé, que funciona con las señales «Vf» 157,450 MHz y 158,375 MHz.
-
-El tren Nex 1.nsl. 47315, HDV163.003-7, estaba equipado con la parte móvil del SRV, una radio de vehículo VS47 y un adaptador de locomotora XX48.
-El tren EC 108, HDV 162.057-4, estaba equipado con la parte móvil del SRV, una radio de vehículo VS47 y un adaptador de locomotora XX48.
-
-### 2.2.5 Trabajos realizados en el lugar del incidente y en sus inmediaciones
-
-En el lugar del incidente (MU), inmediatamente antes de su ocurrencia, el administrador de la infraestructura ČD, a. s., no realizaba ningún trabajo relacionado con la causa del incidente. Los últimos trabajos de mantenimiento en la balasto de la vía de vía n.º 1 de Zábřeh na Moravě – Lukavice na Moravé se realizaron el 21.01.2008.
-Los empleados del administrador de la infraestructura realizaban la corrección direccional y de nivel de la vía, con corrección del perfil de la cama de la vía, añadiendo grava de la fracción 32 - 64 mm. Los trabajos fueron ordenados por el responsable del centro de operaciones del distrito de vía (denominado en lo sucesivo, PS TO) de Zábřeh na Moravé, basándose en las deficiencias detectadas mediante la circulación del vehículo de medición (denominado en lo sucesivo, MV1) el 27.11.2007. En el documento «Informe diario de las actividades de los empleados del PS TO de Zábřeh na Moravé» del 21.01.2008 se indica el número de actividad R109 con la descripción «Eliminación de la deficiencia GPK tras el MV en el pk 45,895 – 45,905. La eliminación de la deficiencia la realizaron tres empleados del centro de operaciones mencionado bajo la supervisión del capataz.
-
-El día de la ocurrencia del incidente, el administrador de la infraestructura aseguraba en el tramo de vía afectado una actividad de control, una inspección, realizada por un montador de vía – inspector, empleado del PS TO de Zábřeh na Moravé.
-La inspección de la vía se inició en la estación de Zábřeh na Moravé en la vía de vía n.º 2 y, simultáneamente, se inspeccionó visualmente la vía de vía n.º 1. Además de la inspección habitual, durante la inspección se prestó
-
+La vía férrea, Přerov – Česká Třebová, está cubierta por la señal "Vf" del sistema de radio vía (en adelante TRS), sistema de islas que permite en el canal combinado de la banda n.º 65 la conexión entre el despachador, los jefes de estación de las estaciones adyacentes y los maquinistas en los HDV equipados con la parte móvil del TRS. En el sentido del Reglamento (CE) n.º 679/2006 del PARLAMENTO EUROPEO Y DEL CONSEJO, se trata de un equipo de clase "B". Las islas de la red TRS las forman las estaciones de radio base situadas en las distintas estaciones.
+### 2.2.4 Uso de los medios de comunicación
+En relación con la MU en cuestión, en la estación Lukavice na Moravě estaban disponibles los siguientes medios de comunicación: el equipo telefónico ITZ HICOM Siemens KEY POINT con centralita de megafonía, que permite la conexión:
+– línea vía para la conexión telefónica directa con los jefes de estación de las estaciones vecinas;
+– despacho ferroviario para la conexión directa con el despachador de trenes del Centro Regional de Explotación Ostrava;
+– despacho eléctrico para la conexión directa con el despachador eléctrico del SDC de la Dirección de Electrotécnica y Energía Přerov;
+– llamada para la conexión directa desde las señales de entrada 1L, 2L y 1S, 2S;
+– red telefónica pública, conectada mediante la señal de llamada "0";
+– redes de radio:
+– Red de radio despacho (SRD), que forma parte del TRS sistema de islas que permite en el canal combinado de la banda n.º 65, señal "Vf" 467,950 MHz, la conexión entre el despachador, los jefes de estación de las estaciones adyacentes y los maquinistas en los HDV equipados con la parte móvil del TRS;
+– Red tecnológica de radio STE, que sirve para organizar el tráfico ferroviario en el ámbito de la estación Lukavice na Moravě, funcionando en la señal "Vf" 157,575 MHz;
+– Red de radio para trenes de maniobras (SMV), que sirve para organizar el tráfico ferroviario en la maniobra de trenes de mercancías en el ámbito de la estación Lukavice na Moravě, funcionando en la señal "Vf" 157,450 MHz y 158,375 MHz.
+El HDV 163.003-7 del tren Nex 1.nsl. 47315 estaba equipado con la parte móvil del TRS, la radio de a bordo VS47 y el adaptador de locomotora XX48.
+El HDV 162.057-4 del tren EC 108 estaba equipado con la parte móvil del TRS, la radio de a bordo VS47 y el adaptador de locomotora XX48.
+### 2.2.5 Trabajos realizados en el lugar del suceso excepcional y en sus inmediaciones
+En el lugar del suceso excepcional, inmediatamente antes de la producción del mismo, no se estaban realizando por parte del operador ferroviario ČD, a. s., trabajos relacionados con la producción del suceso excepcional. Los últimos trabajos de mantenimiento en la superestructura de la vía n.º 1 Zábřeh na Moravě – Lukavice na Moravě se realizaron el 21. 01. 2008. Los empleados del operador ferroviario realizaron la regulación en planta y en altura de la vía con la regulación del perfil del lecho de la vía y con la adición de balasto de fracción 32 - 64 mm. El trabajo fue ordenado por el jefe del centro de explotación del sector vía (en adelante PS TO) de Zábřeh na Moravě con base en las averías detectadas por la circulación del vagón de medición (en adelante MV1) el 27. 11. 2007. En el documento "Parte diario de rendimientos de los empleados del PS TO Zábřeh na Moravě" de fecha 21. 01. 2008 consta el número de rendimiento R109 con la descripción "Eliminación de la avería GPK tras el MV en el km 45,895 – 45,905. La eliminación de la avería la realizaron tres empleados del citado centro de explotación bajo la dirección del capataz.
+El día de la producción del suceso excepcional, el operador ferroviario aseguraba en el tramo de vía afectado la actividad de control, la inspección, a cargo del montador de vía – inspector de vía, empleado del PS TO Zábřeh na Moravě. La inspección de la vía se inició en la estación Zábřeh na Moravě en la vía n.º 2 y simultáneamente se comprobaba visualmente también la vía n.º 1. Además de la revisión habitual, durante la inspección se prestó atención a
 
 ## Página 16
+
 
 atención también al estado de las deficiencias registradas en los ensayos no destructivos, roturas de rieles, placas de unión de rieles y al apriete de los elementos de fijación. No se realizó la medición del ancho de la vía y de la elevación. En el lugar de ocurrencia del incidente se realizó un control del estado de las fijaciones y de las juntas de rieles de la placa de unión de rieles en la vía de vía n.º 2 en el pk 45,898. En el tramo mencionado se inspeccionó también el estado de la vía de vía n.º 1 en el lugar de la cama de la vía contaminada bajo el riel derecho. No se detectaron mediante dicha inspección deficiencias que pusieran en peligro inmediato la seguridad de la explotación ferroviaria y del tráfico ferroviario, véase el registro realizado por el montador de vía, inspector, en el «CUADERNO DE SERVICIO DEL PS TO DE ZÁBŘEH NA MORAVÉ» el 22.02.2008.
 
@@ -362,23 +361,25 @@ No se produjeron daños a la salud de los empleados del administrador de la infr
 
 ## Página 17
 
-### 2.3.2 En las mercancías transportadas, equipajes y demás bienes
-No se produjeron daños en las mercancías transportadas ni en otros bienes, ni tampoco hubo fugas de sustancias peligrosas.
-### 2.3.3 En los vehículos ferroviarios, en las partes de la vía y en el medio ambiente
-El daño sufrido por el vehículo ferroviario descarrilado Laaers n.º 23 87 436 3643-9, incluido en el tren Nex 1.nsl 47315, fue estimado por el transportista en aproximadamente 440.000,- Kč, véase el acta «Hallazgos comisionales del estado técnico de los vehículos ferroviarios o de otros equipos», de fecha 11.03.2008. A la fecha de emisión del Informe sobre los resultados de la investigación de las causas y circunstancias de la aparición del accidente, el transportista ČD Cargo, a. s., no había cuantificado el importe real del daño sufrido por el vehículo ferroviario.
-En el documento «Hallazgos comisionales del estado técnico de los vehículos ferroviarios o de otros equipos ferroviarios», de fecha 11.03.2008, relativo al vehículo ferroviario 23 87 436 3643-9, se indica en las conclusiones que para una evaluación completa del estado técnico del vagón es necesario realizar un pesaje de los muelles en un centro certificado.
-El daño sufrido por el vehículo ferroviario descarrilado Laaers n.º 43 87 427 2699-7, incluido en el tren Nex 1.nsl 47315, fue estimado por el transportista en aproximadamente 160.000,- Kč, véase el acta «Hallazgos comisionales del estado técnico de los vehículos ferroviarios o de otros equipos», de fecha 11.03.2008. A la fecha de emisión del Informe sobre los resultados de la investigación de las causas y circunstancias de la aparición del accidente, el transportista ČD Cargo, a. s., no había cuantificado el importe real del daño sufrido por el vehículo ferroviario.
-El daño sufrido por el vehículo de tracción HDV 162.057-4, que circulaba a la cabeza del tren EC 108 «Comenius», causado por la proyección de balasto procedente de la cama de balasto por los vehículos ferroviarios descarrilados del tren Nex 1.nsl 47315, fue cuantificado en 52.906,- Kč.
-### El daño sufrido por las partes de la vía fue cuantificado por el gestor de la infraestructura en 8.796.821,04 Kč.
-Como consecuencia del accidente se produjeron daños en el material de fijación menor a lo largo de toda la longitud de circulación de los vehículos ferroviarios descarrilados del tren Nex 1.nsl 47315, en 22 zapatas deslizantes con fijación flexible en los puntos de cruce n.º 10, n.º 11 y n.º 15, en 1.111 traviesas transversales de hormigón en la vía de línea n.º 1 y en las vías de estación n.º 1 y 3, en 94,90 m de traviesas de hormigón para puntos de cruce, en una junta adhesiva aislada LIS UIC 60 de 4 m de longitud y en una aguja de corazón 1:12-500 derecha UIC.
-### El daño total constatado como consecuencia del accidente asciende a 9.449.727,04 Kč.
-Como daño secundario se produjo la interrupción total del tráfico ferroviario desde las 11:36 h hasta las 20:50 h del día 22.02.2008, es decir, 494 minutos. Hasta las 20:50 h del día 23.02.2008, el grupo de vías impar de la estación de Lukavice na Moravě estuvo excluido del servicio. Se retrasaron 3 trenes de transporte de viajeros de la categoría R + 54 min. y 9 trenes de la categoría Os + 303 min.
+### 2.3.2 Sobre las cosas transportadas, el equipaje y otros bienes
+No se produjo daño en las cosas transportadas ni en otros bienes, tampoco hubo fuga de sustancias peligrosas.
+### 2.3.3 Sobre el material rodante, los componentes de la vía y el medio ambiente
+El daño en el TDV desviado Laaers n.º 23 87 436 3643-9, incluido en el tren Nex 1.nsl 47315, fue estimado por el transportista en unos 440.000,- Kč, véase el acta "Determinación comisionada del estado técnico del material rodante u otros dispositivos", de fecha 11. 03. 2008. A la fecha de emisión del Informe sobre los resultados de la investigación de las causas y circunstancias de la aparición del MU, el transportista ČD Cargo, a. s., no había cuantificado el importe real del daño sufrido por el TDV.
+En el documento "Determinación comisionada del estado técnico del material rodante u otros dispositivos ferroviarios", de fecha 11. 03. 2008, TDV 23 87 436 3643-9, en la conclusión se indica que para una evaluación completa del estado técnico del vagón es necesario realizar la pesada de los largueros en un centro de trabajo certificado.
+El daño en el TDV desviado Laaers n.º 43 87 427 2699-7, incluido en el tren Nex 1.nsl 47315, fue estimado por el transportista en unos 160.000,- Kč, véase el acta "Determinación comisionada del estado técnico del material rodante u otros dispositivos", de fecha 11. 03. 2008. A la fecha de emisión del Informe sobre los resultados de la investigación de las causas y circunstancias de la aparición del MU, el transportista ČD Cargo, a. s., no había cuantificado el importe real del daño sufrido por el TDV.
+El daño en el HDV 162.057-4, que circulaba en la cabeza del tren EC 108 "Comenius", dañado por el balasto expulsado por los TDV desviados del tren Nex 1.nsl 47315 desde el lecho de balasto, fue cuantificado en la cantidad de
+### 52.906,- Kč.
+### El daño en los componentes de la vía fue cuantificado por el gestor de la infraestructura en la cantidad de
+### 8.796.821,04 Kč.
+Como consecuencia del MU se produjo daño en el material de fijación menor a lo largo de todo el recorrido de los TDV desviados del tren Nex 1.nsl 47315, 27 soportes deslizantes con fijación elástica en los desvíos n.º 10, n.º 11 y n.º 15, daño en 1.111 traviesas de hormigón transversales en la vía de circulación n.º 1 y en la vía de estación n.º 1 y 3, 94,90 m de traviesas de hormigón para desvío, empalme aislado encolado LIS UIC 60 de 4 m de longitud y corazón de aguja 1:12-500 derecha UIC.
+### El daño total detectado derivado del MU asciende a 9.449.727,04 Kč.
+El daño secundario es la interrupción total del tráfico ferroviario desde las 11:36 h hasta las 20:50 h del día 22. 02. 2008, es decir, 494 minutos. Hasta las 20:50 h del día 23. 02. 2008 quedó excluida de la explotación el grupo de vías impares de la est. Lukavice na Moravě. Se retrasaron 3 trenes de transporte de personas categoría R + 54 min. y 9 trenes categoría Os + 303 min.
 ### 2.4 Circunstancias externas
 ### 2.4.1 Condiciones meteorológicas y datos geográficos
-Temperatura del aire +7º C, hora del día, semidespejado, visibilidad (superior a 100 m) no afectada por la situación meteorológica.
-
+Temperatura del aire +7º C, período diurno, parcialmente nublado, visibilidad (por encima de 100 m) no influenciada por la situación meteorológica.
 
 ## Página 18
+
 
 ## 3 REGISTRO DE LAS EXPLICACIONES PRESTADAS
 ### 3.1 Resumen de las explicaciones prestadas
@@ -411,105 +412,57 @@ piedras voladoras detrás del panel de control del HDV. Las piedras voladoras ro
 
 ## Página 19
 
-tras la causa y con el consentimiento de los órganos investigadores, el maquinista continuó la marcha con el tren a velocidad reducida hasta la estación de Zábřeh na Moravě, donde el vehículo de tracción (HDV) dañado fue apartada y sustituido por un nuevo HDV. Con el tren EC 108, continuó la marcha hasta la estación de destino.
-Del documento "Acta con el empleado", elaborado por el administrador de la infraestructura ČD, a. s., con el responsable del centro de explotación (en adelante, VPS) del distrito de línea (en adelante, TO) de Zábřeh na Moravá, de fecha 27. 02. 2008, se desprende, entre otras cosas:
-la medición y el control del estado de la infraestructura ferroviaria, en el ámbito de competencia del TO Zábřeh na Moravá,
-–
-los llevan a cabo los empleados en las funciones de VPS, maestro principal, maestro y tres empleados en la función de montador de vía, de conformidad con la Directiva Organizativa n.º 300/52 "Controles establecidos de las vías en el ámbito de la SDC Olomouc", incluidos los anexos (2x) y la orden n.º 17/2007 emitida por el director principal (en adelante, VP) de la SDC Olomouc para la realización de controles preventivos y medidas operativas extraordinarias, de fecha 07. 12. 2007, según la cual se realiza el control de la vía mediante inspección a pie 2 veces por semana;
-con el primer viaje del vagón de medición para el superestructura ferroviaria con medición continua de la vía bajo
-–
-carga (en adelante, MV1) del 20. 03. 2007 entre las estaciones de Zábřeh na Moravá – Lukavice na Moravá, en la vía de línea n.º 1, se detectaron defectos con un grado de urgencia de reparación n.º 3, con fecha límite de reparación el 31. 05. 2007. Se trataba de un defecto en la altura del carril derecho de la vía de línea n.º 1, identificado como "VP 03-19". El maestro del centro de explotación (en adelante, PS) del TO Zábřeh na Moravá reparó este defecto el 23. 04. 2007. La reparación del defecto por parte del maestro del PS del TO Zábřeh na Moravá fue comunicada al VPS del TO Zábřeh na Moravá mediante un informe diario incluido en el formulario "Informe diario" del 23. 04.
-### 2007. El VPS del TO Zábřeh na Moravá controló personalmente la reparación del defecto mediante un viaje de control en el último tren de servicio diario (TDV) R 709 del 07. 05. 2007. No se adoptaron otras medidas respecto a este defecto;
-el 18. 07. 2007 se realizó el segundo viaje del vagón de medición MV1 en la vía de línea n.º 1 entre
-–
-las estaciones de Zábřeh na Moravá – Lukavice na Moravá. Entre otras cosas, se detectaron defectos entre el pk 45,894 y el 45,937, con la identificación del peor defecto en el pk 45,894, y con un grado de urgencia de reparación n.º 3. La fecha límite para la reparación del defecto se estableció hasta el 31. 08. 2007.
-Se trataba de un defecto en la altura del carril derecho de la vía de línea n.º 1, identificado como defecto "VP 03-17". El maestro del PS del TO Zábřeh na Moravá reparó este defecto el 29. 08. 2007.
-La reparación del defecto por parte del maestro del PS del TO Zábřeh na Moravá fue comunicada al VPS mediante un informe diario.
-### El VPS del TO Zábřeh na Moravá controló la reparación del defecto mediante un viaje de control
-en el último tren de servicio diario (TDV) R 709 del 07. 09. 2007. No se adoptaron otras medidas respecto a este defecto;
-el 27. 11. 2007 se realizó el tercer viaje del vagón de medición MV1 entre las estaciones de Zábřeh na
-–
-Moravá – Lukavice na Moravá. Entre otras cosas, se detectaron defectos entre el pk 45,751 y el 45,936,
-es decir, también en las inmediaciones del lugar de origen del accidente:
-- pk 45,894 con un grado de urgencia de reparación n.º 2 y fecha límite de reparación el 31. 01.
-2008. Se trataba de un defecto en dirección vertical de la vía de línea n.º 1 ZKS (deformación de la vía)
-identificado como "ZKS 02/158:892/02.9/01.5";
-- pk 45,894 con un grado de urgencia de reparación n.º 3 y fecha límite de reparación el 31. 01.
-2008. Se trataba de un defecto en la altura del carril derecho de la vía de línea n.º 1
-identificado como "VP 03-19!";
-- pk 45,898 con un grado de urgencia de reparación n.º 3 y fecha límite de reparación el 31. 01.
-2008. Se trataba de un defecto en la altura del carril derecho de la vía de línea n.º 1
-identificado como "VP 02+13:";
-los defectos en el pk 45,894 fueron reparados por los empleados del TO Zábřeh na Moravá el 13. 12. 2007,
-–
-mediante hincado manual con suministro de balasto procedente de la cama de vía adyacente. La reparación del defecto fue comunicada por el maestro del TO Zábřeh na Moravá mediante un informe diario al VPS del TO Zábřeh na Moravá.
-### El VPS controló personalmente la reparación del defecto mediante una inspección a pie de la vía el 28. 12. 2007. No se adoptaron otras medidas respecto a este defecto;
-
+de las causas y del consentimiento otorgado por los órganos investigadores de la MU, el maquinista continuó la marcha del tren con velocidad reducida hasta la estación de Zábřeh na Moravě, donde el material rodante dañado fue apartado y sustituido por nuevo material rodante. Con el tren EC 108 continuó después la marcha hasta la estación de destino.
+Del documento "Acta con el empleado", elaborado por el explotador ferroviario ČD, a. s., con el jefe del centro de explotación (en adelante VPS) del sector de vía (en adelante TO) de Zábřeh na Moravě, de fecha 27. 02. 2008, entre otros se desprende:
+– la medición y la comprobación de la construcción de la vía férrea, en el ámbito de actuación del TO de Zábřeh na Moravě, la realizan los empleados con la función de VPS, el capataz principal, el capataz y tres empleados con la función de montador de vías, de acuerdo con la Directiva Organizativa n.º 300/52 "Comprobaciones establecidas de vías en el ámbito del SDC Olomouc", con sus anexos (2x) y la orden n.º 17/2007 emitida por el jefe superior (en adelante VP) del SDC Olomouc para la realización de comprobaciones preventivas y medidas operativas extraordinarias, de fecha 07. 12. 2007, según la cual se realiza la comprobación de la vía mediante recorrido a pie 2 veces por semana;
+– con la primera circulación del vagón de medición para la superestructura ferroviaria con medición continua de la vía bajo carga (en adelante MV1) de fecha 20. 03. 2007 entre la estación de Zábřeh na Moravě – la estación de Lukavice na Moravě, en la vía de circulación n.º 1, se detectaron en el pk 45,890 hasta 45,925 defectos con grado de urgencia de eliminación n.º 3, con plazo de eliminación hasta el 31. 05. 2007. Se trataba de un defecto en la altura del carril derecho de la vía de circulación n.º 1 denominado "VP 03-19". El capataz del centro de explotación (en adelante PS) del TO de Zábřeh na Moravě eliminó este defecto el 23. 04. 2007. La eliminación del defecto la comunicó el capataz del PS del TO de Zábřeh na Moravě al VPS del TO de Zábřeh na Moravě mediante el parte diario indicado en el impreso "Parte diario" de fecha 23. 04.
+### 2007. La eliminación del defecto la verificó personalmente el VPS del TO de Zábřeh na Moravě mediante una circulación de comprobación en el último TDV del tren R 709 el 07. 05. 2007. No adoptó ninguna medida adicional respecto a este defecto;
+– el 18. 07. 2007 se realizó la segunda circulación del vagón de medición MV1 en la vía de circulación n.º 1 entre la estación de Zábřeh na Moravě – la estación de Lukavice na Moravě. Entre otros, se detectaron defectos en el pk 45,894 hasta 45,937, con la designación del peor defecto en el pk 45,894, y con grado de urgencia de eliminación n.º 3. El plazo de eliminación del defecto se fijó hasta el 31. 08. 2007. Se trataba de un defecto en la altura del carril derecho de la vía de circulación n.º 1 con la designación de defecto "VP 03-17". El capataz del PS del TO de Zábřeh na Moravě eliminó este defecto el 29. 08. 2007. La eliminación del defecto la comunicó el capataz del PS del TO de Zábřeh na Moravě al VPS mediante el parte diario.
+### La eliminación del defecto la verificó el VPS del TO de Zábřeh na Moravě mediante una circulación de comprobación en el último TDV del tren R 709 el 07. 09. 2007. No se adoptaron medidas adicionales respecto a este defecto;
+– el 27. 11. 2007 se realizó la tercera circulación del vagón de medición MV1 entre las estaciones de Zábřeh na
+Moravě – Lukavice na Moravě. Entre otros, se detectaron defectos en el pk 45,751 hasta 45,936, es decir, también en las inmediaciones del lugar de origen de la MU:
+- pk 45,894 con grado de urgencia de eliminación n.º 2 y plazo de eliminación hasta el 31. 01.
+2008. Se trataba de un defecto en la dirección vertical de la vía de circulación n.º 1 ZKS (deformación de la vía) denominado "ZKS 02/158:892/02.9/01.5";
+- pk 45,894 con grado de urgencia de eliminación n.º 3 y plazo de eliminación hasta el 31. 01.
+2008. Se trataba de un defecto en la altura del carril derecho de la vía de circulación n.º 1
+denominado "VP 03-19!";
+- pk 45,898 con grado de urgencia de eliminación n.º 3 y plazo de eliminación hasta el 31. 01.
+2008. Se trataba de un defecto en la altura del carril derecho de la vía de circulación n.º 1
+denominado "VP 02+13:";
+– los defectos en el pk 45,894 fueron eliminados por los empleados del TO de Zábřeh na Moravě el 13. 12. 2007,
+mediante apuntalado manual con la aportación de balasto procedente del lecho de vía adyacente. La eliminación del defecto la comunicó el capataz del TO de Zábřeh na Moravě mediante el parte diario al VPS del TO de Zábřeh na Moravě.
+### La eliminación del defecto la verificó personalmente el VPS mediante recorrido a pie de la vía el 28. 12. 2007. No se adoptaron medidas adicionales respecto a este defecto;
 
 ## Página 20
 
-el defecto en el pk 45,898 fue reparado por los empleados del TO Zábřeh na Moravá el 21. 01. 2008,
-–
-mediante hincado manual con suministro de balasto procedente de la cama de vía adyacente. La reparación del defecto fue comunicada por el maestro de vía mediante un informe diario al VPS del TO Zábřeh na Moravá. El VPS controló la reparación del defecto n.º 3 mediante un viaje de control en el último tren de servicio diario (TDV) Ex 141 del 11. 02. 2008, durante el cual también realizó la renovación del conocimiento de las vías Zábřeh na Moravá – Olomouc. La fecha de realización del viaje de control figura en la Tarjeta de conocimiento de las vías del VPS. No se adoptaron otras medidas respecto a este defecto;
-el tramo de línea Zábřeh na Moravá – Lukavice na Moravá fue inspeccionado por los empleados del TO Zábřeh na
-–
-Moravá mediante inspección a pie:
-el 21. 01. 2008 por el maestro principal de vías en dirección de Lukavice na Moravá – Zábřeh na
-•
-Moravá;
-el 23. 01. 2008 por el montador de vía en dirección de Lukavice na Moravá – Zábřeh na
-•
-Moravá;
-el 01. 02. 2008 por el maestro principal de vías en dirección de Lukavice na Moravá – Zábřeh na
-•
-Moravá;
-el 07. 02. 2008 por el montador de vía en dirección de Lukavice na Moravá – Zábřeh na
-•
-Moravá;
-el 08. 02. 2008 por el maestro principal de vías en dirección de Zábřeh na Moravá – Lukavice na
-•
-Moravá;
-el 11. 02. 2008 por el maestro principal de vías en dirección de Lukavice na Moravá – Zábřeh na
-•
-Moravá;
-el 18. 02. 2008 por el montador de vía en dirección de Lukavice na Moravá – Zábřeh na
-•
-Moravá;
-el 22. 02. 2008 por el montador de vía en dirección de Lukavice na Moravá – Zábřeh na
-•
-Moravá.
-El empleado que realiza el control debe anotar los defectos detectados en su cuaderno de servicio y comunicarlos al VPS del TO Zábřeh na Moravá. El VPS realizará un control de los defectos in situ y establecerá la fecha de reparación según la gravedad. Mediante el control de la vía realizado en las fechas indicadas, los empleados del TO Zábřeh na Moravá no detectaron defectos en el superestructura ni en el subestructura ferroviarios;
-el VPS del TO Zábřeh na Moravá en el tramo de línea Zábřeh na Moravá – Lukavice na Moravá realizó
-–
-viajes de control:
-el 05. 02. 2008 en el último tren de servicio diario (TDV) Os 3705;
-•
-el 06. 02. 2008 en el último tren de servicio diario (TDV) Os 3705;
-•
-el 07. 02. 2008 en el último tren de servicio diario (TDV) Os 3705;
-•
-el 08. 02. 2008 en el último tren de servicio diario (TDV) Os 3705;
-•
-el 11. 02. 2008 en el último tren de servicio diario (TDV) Ex 141;
-•
-el 12. 02. 2008 en el último tren de servicio diario (TDV) Os 3705;
-•
-el 13. 02. 2008 en el último tren de servicio diario (TDV) Os 3705;
-•
-el 14. 02. 2008 en el último tren de servicio diario (TDV) Os 3705;
-•
-el 15. 02. 2008 en el último tren de servicio diario (TDV) Os 3705;
-•
-el 18. 02. 2008 en el último tren de servicio diario (TDV) Os 3705;
-•
-el 22. 02. 2008 en el último tren de servicio diario (TDV) Ex 141.
-•
-El VPS del TO Zábřeh na Moravá no registró un deterioro significativo del GPK durante los viajes mencionados.
-–
-Preveía la eliminación del balasto sucio y embarrado en las interrupciones de servicio de esta vía durante la construcción del corredor los días 25. – 27. 02. 2008. La aparición de defectos que se repetían con frecuencia se vio favorecida significativamente por el extenso embarramiento del balasto, que los empleados no lograron eliminar durante el año anterior. El VPS no adoptó medidas para reducir la velocidad debido a que ya se estaba trabajando en la reparación de los defectos desde mediados de diciembre y sus frecuentes viajes en tren, así como dos inspecciones a pie en enero, no demostraron un empeoramiento del estado.
-Del documento "Acta con el empleado", elaborado por el administrador de la infraestructura ČD, a. s., con el maestro principal del PS del TO Zábřeh na Moravá, de fecha 12. 03. 2008, en Olomouc, se desprende, entre otras cosas:
+La anomalía en el punto kilométrico 45,898 fue eliminada por los empleados de la TO Zábřeh na Moravě el 21. 01. 2008, mediante el apuntalamiento manual con la aportación de balasto procedente del lecho de vía adyacente. La eliminación de la anomalía fue comunicada por el jefe de sección en forma de parte diario a la VPS TO Zábřeh na Moravě. La eliminación de la anomalía n.º 3 fue verificada mediante una inspección en el último TDV del tren Ex 141 el 11. 02. 2008, durante la cual se procedió simultáneamente a la renovación del reconocimiento de la línea Zábřeh na Moravě – Olomouc. La fecha de realización de la inspección consta en la Ficha de reconocimiento de la línea de la VPS. No se adoptaron otras medidas respecto a esta anomalía;
+– el tramo de línea Zábřeh na Moravě – Lukavice na Moravě fue inspeccionado por los empleados de la TO Zábřeh na Moravě mediante recorrido a pie:
+• el 21. 01. 2008 por el jefe superior de sección en el sentido Lukavice na Moravě – Zábřeh na Moravě;
+• el 23. 01. 2008 por el montador de vía en el sentido Lukavice na Moravě – Zábřeh na Moravě;
+• el 01. 02. 2008 por el jefe superior de sección en el sentido Lukavice na Moravě – Zábřeh na Moravě;
+• el 07. 02. 2008 por el montador de vía en el sentido Lukavice na Moravě – Zábřeh na Moravě;
+• el 08. 02. 2008 por el jefe superior de sección en el sentido Zábřeh na Moravě – Lukavice na Moravě;
+• el 11. 02. 2008 por el jefe superior de sección en el sentido Lukavice na Moravě – Zábřeh na Moravě;
+• el 18. 02. 2008 por el montador de vía en el sentido Lukavice na Moravě – Zábřeh na Moravě;
+• el 22. 02. 2008 por el montador de vía en el sentido Lukavice na Moravě – Zábřeh na Moravě.
+Las anomalías detectadas deben ser anotadas por el empleado inspector en su libreta de servicio y comunicadas a la VPS TO Zábřeh na Moravě. La VPS verificará las anomalías en el propio lugar y fijará el plazo de eliminación según la gravedad. Mediante la inspección de la vía en los días indicados, los empleados de la TO Zábřeh na Moravě no detectaron anomalías en la superestructura e infraestructura de la vía;
+– la VPS TO Zábřeh na Moravě realizó inspecciones en el tramo de línea Zábřeh na Moravě – Lukavice na Moravě:
+• el 05. 02. 2008 en el último TDV del tren Os 3705;
+• el 06. 02. 2008 en el último TDV del tren Os 3705;
+• el 07. 02. 2008 en el último TDV del tren Os 3705;
+• el 08. 02. 2008 en el último TDV del tren Os 3705;
+• el 11. 02. 2008 en el último TDV del tren Ex 141;
+• el 12. 02. 2008 en el último TDV del tren Os 3705;
+• el 13. 02. 2008 en el último TDV del tren Os 3705;
+• el 14. 02. 2008 en el último TDV del tren Os 3705;
+• el 15. 02. 2008 en el último TDV del tren Os 3705;
+• el 18. 02. 2008 en el último TDV del tren Os 3705;
+• el 22. 02. 2008 en el último TDV del tren Ex 141.
+– La VPS TO Zábřeh na Moravě no registró durante dichas inspecciones una deterioración significativa de la GPK. Preveía la eliminación del lecho de vía contaminado y encharcado en las interrupciones de circulación de esta vía durante la construcción del corredor los días 25. – 27. 02. 2008. El extenso encharcamiento del lecho de vía, que los empleados no lograron eliminar durante el año anterior, contribuyó de forma significativa a la aparición de anomalías de repetición frecuente. La VPS no adoptó medidas de reducción de velocidad por el motivo de que en la eliminación de anomalías se venía trabajando desde mediados de diciembre y sus frecuentes inspecciones en tren, así como dos recorridos a pie en enero, no demostraron un estado en deterioro.
+Del documento "Acta con el empleado", elaborado por el gestor de la vía ČD, a. s., con el jefe superior de la PS TO Zábřeh na Moravě, el 12. 03. 2008, en Olomouc, entre otros extremos se desprende:
 
 ## Página 21
+
 
 en el tramo de vía Zábřeh na Moravě – Lukavice na Moravé, el maestro superior de PS TO – Zábřeh na Moravé realizó el control de la vía mediante inspección a pie, los días 21.01.2008, 01.02.2008, 08.02.2008 y 11.02.2008. Durante estas inspecciones no detectó defectos que pusieran en peligro la seguridad del tráfico ferroviario ni defectos que requirieran una intervención inmediata o acelerada.
 Del documento "Acta con el empleado", elaborado por el administrador de la infraestructura CD, a. s., con el maestro de PS TO Zábřeh na Moravé, el 12.03.2008, en Olomouc, se desprende, entre otras cosas:
@@ -534,8 +487,8 @@ el 22.02.2008, aproximadamente desde las 8:00 h, el estudiante de la ČVUT de Pr
 –
 y Lukavice na Moravé, con el objetivo de realizar fotografías de los municipios y de los tramos de vía individuales con el fin de elaborar su trabajo de fin de grado;
 
-
 ## Página 22
+
 
 aproximadamente antes de las 12:00 h, el testigo cruzaba el puente sobre la vía entre los municipios de Zvole y Lukavice na
 –
@@ -577,6 +530,7 @@ aprobada el 23.05.2001, bajo el nº de ref.: 55571/2001, con efecto desde el 01.
 
 ## Página 23
 
+
 referencia a la acta o al documento donde se encuentran recogidas las obligaciones), la función y la firma del empleado que realizó el control.“;
 reglamento interno de ČD S2/3 «Reglamento sobre la organización y realización de las inspecciones de las líneas de los Ferrocarriles Checos», 
 –
@@ -604,8 +558,8 @@ reglamento interno de ČD S3 «Balasto», aprobado el 06. 06. 2002, con el núme
 57 585/2002 - O13, con efecto desde el 01. 01. 2003, en su versión vigente, PRIMERA PARTE, DISPOSICIONES BÁSICAS, artículo 7, donde se indica:
 «Los valores límite de las desviaciones de los parámetros geométricos de la vía en la recepción de los trabajos y las desviaciones de explotación y límite de los parámetros geométricos para la vía de ancho normal se indican en la norma ČSN 73 6360-2.»;
 
-
 ## Página 24
+
 
 reglamento interno de ČD S3 «Balasto», aprobado el 06. 06. 2002, con el número de expediente: 
 –
@@ -650,52 +604,37 @@ VIAJE DE CONTROL – jefe de la administración de las vías 1 x 6 meses.
 
 ## Página 25
 
-                                 – jefe de la unidad operativa 1 x mensual.
-INSPECCIÓN COMPLETA DE LA LÍNEA – jefe de la unidad operativa y maestro jefe de vía, todas 
-                         las vías 1 x anual – hasta el 30. 04.
-CONTROL NO DESTRUCTIVO DE LAS VÍAS E INSPECCIÓN VISUAL DE SUS SOLDADURAS – 
-                        lo establece el reglamento ČD S 3/4 (6 meses)“;
-„Orden del maestro jefe de estación n.º 17/2007 para la realización de controles preventivos y 
+– jefe de unidad de explotación 1 x mes.
+REVISIÓN COMPLETA DE LA VÍA – jefe de unidad de explotación y jefe de vía superior, todas las 
+                         vías 1 x anual – hasta el 30. 04.
+INSPECCIÓN NO DESTRUCTIVA DE LOS CARRILES Y REVISIÓN VISUAL DE SUS SOLDADURAS – 
+                        lo establece la normativa ČD S 3/4 (6 meses)“;
+„Orden del jefe de estación nº 17/2007 para la realización de inspecciones preventivas y medidas 
 –
-medidas operativas extraordinarias“, de fecha 17. 12. 2007, emitida por el maestro jefe de estación de la SDC Olomouc, donde 
+extraordinarias de explotación“, de fecha 17. 12. 2007, emitida por el jefe de estación de SDC Olomouc, donde 
 en el punto 1 se indica:
-„Realizar un control preventivo extraordinario en los tramos:
-Zábřeh na Moravě – Lukavice na Moravá               pk 42,511-46,626
+„Realizar una inspección preventiva extraordinaria en los tramos:
+Zábřeh na Moravě – Lukavice na Moravě               km 42,511-46,626
 …..“;
-„Orden del maestro jefe de estación n.º 17/2007 para la realización de controles preventivos y medidas 
+Orden del jefe de estación nº 17/2007 para la realización de inspecciones preventivas y medidas 
 –
-operativas extraordinarias“, de fecha 17. 12. 2007, emitida por el maestro jefe de estación de la SDC Olomouc, donde 
+extraordinarias de explotación“, de fecha 17. 12. 2007, emitida por el jefe de estación de SDC Olomouc, donde 
 en el punto 2 se indica:
-„Realizar dos veces por semana el control del tramo según el punto 1 por el inspector de vía
+„Realizar dos veces por semana la inspección del tramo según el punto 1 por parte del inspector de vía ST
 …....“.
-El paso del tren Nex 1.nsl 47315 por la estación de Lukavice na Moravě por la vía de estación n.º 1 fue autorizado mediante la señal 
-«Libre» de la señal de entrada 1S y de la señal de salida S1.
-El maquinista del tren Nex 1.nsl 47315 fue informado en la estación de Česká Třebová, en virtud del artículo 68 apartado 3 del Decreto 
-n.º 173/1995 Sb., de manera fehaciente sobre los cambios inmediatos en los parámetros constructivo-técnicos de las construcciones 
-de la línea y de las construcciones en la línea, que tienen una influencia directa en la seguridad y la fluidez del transporte ferroviario, 
-mediante el documento «ORDEN GENERAL para el tren n.º 147315» n.º 0000800-841, de fecha 21. 02. 
-2008. Ni el contenido de la Orden General ni ningún otro documento limitaron la velocidad máxima permitida del tren para el maquinista 
-entre las estaciones de Zábřeh na Moravě y Lukavice na Moravě, ni tampoco en el ámbito de la estación de Lukavice na Moravě.
-El paso del tren EC 108 por la estación de Lukavice na Moravě por la vía de estación n.º 2 fue autorizado mediante la señal 
-«Libre» de la señal de entrada 2L y de la señal de salida L2.
-El maquinista del tren EC 108 fue informado en la estación de Bohumín, en virtud del artículo 68 apartado 3 del Decreto 
-n.º 173/1995 Sb., de manera fehaciente sobre los cambios inmediatos en los parámetros constructivo-técnicos de las construcciones 
-de la línea y de las construcciones en la línea, que tienen una influencia directa en la seguridad y la fluidez del transporte ferroviario, 
-mediante el documento «ORDEN GENERAL para el tren n.º 108» n.º 0000328-982, de fecha 22. 02. 2008. 
-Ni el contenido de la Orden General ni ningún otro documento limitaron la velocidad máxima permitida del tren para el maquinista en el ámbito 
-de la estación de Lukavice na Moravě, ni tampoco entre las estaciones de Lukavice na Moravě y Zábřeh na Moravě.
-### 3.2.2 Requisitos para los empleados del administrador de la infraestructura y del transportista y su 
-cumplimiento
-Los requisitos de cualificación profesional de los empleados de ČD, a. s., incluido el modo de hacerlos cumplir, 
-los estableció el reglamento interno del administrador de la infraestructura y del transporte ferroviario «ČD Ok 2 REGLAMENTO DE FORMACIÓN Y EXÁMENES DE LOS FERROCARRILES CHECOS, a. s.», aprobado el 07. 12. 2005, con el número de registro: 61773/05-O10, con eficacia desde 
-el 01. 01. 2006, en su versión vigente.
-La condición de aptitud para la conducción de vehículos ferroviarios se regula en el artículo 45 de la Ley n.º 266/1994 Sb.
-El maquinista del tren Nex 1. nsl. 47315 es titular de un «Certificado de aptitud para la conducción de vehículos ferroviarios» válido, 
-n.º de registro 501185, emitido por la Oficina de Ferrocarriles de Praga, el 25. 01. 2007, para el tipo de vehículo E1 
-y E3, en la línea ferroviaria, categoría C.
-
+El paso del tren Nex 1.nsl 47315 por la estación Lukavice na Moravě por la vía de estación nº 1 estuvo autorizado por la señal „Libre“ de la señal de entrada 1S y de la señal de salida S1.
+El maquinista del tren Nex 1.nsl 47315 fue informado en la estación Česká Třebová, en el sentido del § 68 apartado 3 del decreto nº 173/1995 Sb., de manera comprobable de los cambios inmediatos de los parámetros técnicos de construcción de las obras ferroviarias y de las obras en la vía que tienen una influencia directa en la seguridad y la fluidez del transporte ferroviario, mediante el documento „ORDEN GENERAL para el tren nº 147315“ nº 0000800-841, de fecha 21. 02. 
+2008. Ni el contenido de la Orden General ni ningún otro documento limitaron al maquinista la velocidad máxima permitida del tren entre las estaciones Zábřeh na Moravě y Lukavice na Moravě, ni en el ámbito de la estación Lukavice na Moravě.
+El paso del tren EC 108 por la estación Lukavice na Moravě por la vía de estación nº 2 estuvo autorizado por la señal „Libre“ de la señal de entrada 2L y de la señal de salida L2.
+El maquinista del tren EC 108 fue informado en la estación Bohumín en el sentido del § 68 apartado 3 del decreto nº 173/1995 Sb. de manera comprobable de los cambios inmediatos de los parámetros técnicos de construcción de las obras ferroviarias y de las obras en la vía que tienen una influencia directa en la seguridad y la fluidez del transporte ferroviario, mediante el documento „ORDEN GENERAL para el tren nº 108“ nº 0000328-982, de fecha 22. 02. 2008. 
+Ni el contenido de la Orden General ni ningún otro documento limitaron al maquinista la velocidad máxima permitida del tren en el ámbito de la estación Lukavice na Moravě, ni entre las estaciones Lukavice na Moravě y Zábřeh na Moravě.
+### 3.2.2 Requisitos para los empleados del gestor de la vía y del transportista y su aplicación
+Los requisitos de cualificación profesional de los empleados de ČD, a. s., incluida la forma de su aplicación, fueron establecidos por la normativa interna del gestor de la vía y del transporte ferroviario „ČD Ok 2 REGLAMENTO DE FORMACIÓN Y EXAMEN DE LOS FERROCARRILES CHECOS, a. s.“, aprobada el 07. 12. 2005, con el nº de expediente: 61773/05-O10, en vigor desde el 01. 01. 2006, en su versión vigente.
+La condición de aptitud para la conducción de vehículos ferroviarios la regula el § 45 de la ley nº 266/1994 Sb.
+El maquinista del tren Nex 1. nsl. 47315 es titular de un „Certificado de aptitud para la conducción de vehículos ferroviarios“ válido, nº de referencia 501185, emitido por la Autoridad Ferroviaria de Praga, el 25. 01. 2007, para los tipos de vehículo E1 y E3, en la vía ferroviaria, categoría C.
 
 ## Página 26
+
 
 El maquinista del tren EC 108 es titular de un Certificado de aptitud para la conducción de vehículos ferroviarios válido, 
 n.º de registro 009301, emitido por la Oficina de Ferrocarriles de Praga, el 15. 05. 1996, para el tipo de vehículo ME, E, ES, en la 
@@ -745,6 +684,7 @@ al montador de vía-inspector de línea de la Dirección de Líneas Olomouc la r
 
 ## Página 27
 
+
 en el tramo Zábřeh na Moravě – Lukavice na Moravé, en un intervalo de 2 veces por semana, no acreditó la realización de la inspección de la vía mediante patrullaje en la semana comprendida entre el 11.02.2008 y el 17.02.2008. Para la semana indicada, el administrador de la infraestructura ferroviaria acreditó la realización de la inspección de la vía mediante patrullaje únicamente el día 11.02.2008 (la siguiente inspección de la vía mediante patrullaje se realizó el 18.02.2008 y el 22.02.2008).
 ### El hallazgo mencionado, en relación con el artículo 54 del reglamento interno de ČD S 3 «Superestructura ferroviaria» y el punto 2 de la «Orden del director regional n.º 17/2007 para la realización de controles preventivos y medidas operativas extraordinarias», de fecha 07.12.2007, que forma parte del sistema de garantía de la seguridad de la explotación de las líneas de categoría nacional y regional, constituye el incumplimiento de lo dispuesto en el apartado 1, letra a), y el apartado 2, letra d), del artículo 22 de la ley n.º 266/1994 Coll., sobre ferrocarriles, en su redacción posterior;
 según el cuadro «Resumen impreso de defectos locales y evaluación por tramo», en el lugar del incidente (MU) —
@@ -760,6 +700,7 @@ del «Acta de la inspección integral de la vía y de las estaciones ferroviaria
 2007», de fecha 30.04.2007, se desprende que la inspección integral de la vía y de las estaciones ferroviarias en el ámbito de la Dirección de Tramo Zábřeh na Moravé fue realizada por el administrador de la infraestructura ferroviaria durante los meses de marzo y abril de 2007. En el apartado A. Superestructura ferroviaria, en el punto 1. Estado del GPK y del GPV, letra a), se indica que en la vía principal n.º 1, entre los km 45,300 y 46,400, es decir, también en el lugar de producción del incidente (MU) en el km 45,892, se presenta balasto de vía embarrado sin mayor especificación del defecto detectado. En la letra b) se indica, entre otras cosas, «reparar el GPK y prestar mayor atención a los joints hundidos en las juntas de soldadura y en las IS en las vías n.º 1 y n.º 2 de Zábřeh na Moravé – Lukavice na Moravé y a los defectos». La Dirección de Tramo Zábřeh na Moravé eliminó los defectos de la superestructura ferroviaria indicados en
 
 ## Página 28
+
 
 los días 17.05.2007 y posteriormente el 10.07.2007, mediante la limpieza manual del balasto de la vía sin eliminar la causa de la suciedad y el embarrado del balasto. La eliminación de la avería queda registrada con la firma del Jefe de Estación de Zábřeh na Moravě en el «Acta de la inspección integral de la línea y de las estaciones ferroviarias en el ámbito de la Estación de Zábřeh – año 2007» y en el «Extracto impreso del recorrido del vehículo de medición MV1».
 
@@ -795,8 +736,8 @@ El tren EC 108 fue explotado por el transportista en virtud de la LICENCIA PARA 
 - la ley n.º 266/1994 Coll., sobre ferrocarriles, en su versión posterior;
 - el decreto n.º 100/1995 Coll., por el que se establecen las condiciones para la explotación, la construcción y la fabricación de determinados equipos técnicos y su concreción (Reglamento de equipos técnicos determinados),
 
-
 ## Página 29
+
 
 en su versión posterior (en adelante, decreto n.º 100/1995 Coll.);
 - el decreto n.º 101/1995 Coll., Reglamento sobre la aptitud sanitaria y profesional de las personas durante la explotación de la vía y del transporte ferroviario, en su versión posterior;
@@ -826,6 +767,7 @@ Para determinar las causas y las circunstancias de la producción de este IM se 
 - la norma ČSD T 122 «MANTENIMIENTO DE LOS EQUIPOS MECÁNICOS Y ELECTROMECÁNICOS DE SEGURIDAD», aprobada el 21.02.1977, bajo el número de registro: 8185/77-14;
 
 ## Página 30
+
 
 el reglamento ČD V2 «REGOLAMENTO para las tripulaciones de locomotoras», aprobado el 08.01.1998, bajo el nº de expediente: 
 ●
@@ -877,10 +819,10 @@ el autobloqueo electrónico ABE-1, un dispositivo de seguridad de línea de cate
 con transmisión del código del dispositivo de seguridad del tren. 
 El centro de control del Despacho Eléctrico de Přerov está equipado con un dispositivo de registro electrónico de tipo 
 RTis, nº de registro AY11700584 y AY11700588. El dispositivo en formato electrónico registra las 
-órdenes y las señales de retroalimentación de los elementos y dispositivos de baja y alta tensión del sector energético correspondiente. 
-
+órdenes y las señales de retroalimentación de los elementos y dispositivos de baja y alta tensión del sector energético correspondiente.
 
 ## Página 31
+
 
 El centro está además equipado con un dispositivo de registro de tipo ReDat, nº de registro 012107, que registra automáticamente 
 todas las llamadas telefónicas en el centro.
@@ -939,6 +881,7 @@ un cambio de la indicación que permite la circulación a la indicación «Alto�
 
 ## Página 32
 
+
 v 11:36:34 h se indica una avería en el semáforo de salida L3 (como consecuencia del suceso accidentado, 
 –
 el semáforo L3 fue arrancado);
@@ -994,8 +937,8 @@ desnivel proyectado p = 61 mm, véase la siguiente tabla:
 | +4 | 76 | 70 | +4 | - | +2 | - |
 | +3 | 68 | 66 | - | - | - | - |
 
-
 ## Página 33
+
 
 | +2 | 65 | 64 | - | - | - | - |
 | +1 | 69 | 66 | - | - | - | - |
@@ -1046,6 +989,7 @@ límite IAL «límite de intervención inmediata» es +RK = 35 mm, -RK = - 9 mm.
 medidas de RK oscilan entre + 3 mm y - 3 mm, lo cual no constituye una superación de las desviaciones
 
 ## Página 34
+
 
 desviación IL ni las desviaciones operativas límite IAL. 
 Cambio del ancho de vía a 2 m de longitud de vía (deformación del ancho) ZR - para la 
@@ -1099,6 +1043,7 @@ se alcanzó entre los puntos de medición 5 y 3 en la base de medición 2,0 m el
 
 ## Página 35
 
+
 ∆p = 14 mm, no se superó su límite;
 para la evaluación de la contrapendiente de la curva según el art. 7.4.2 de la norma ČSN 73 6360-2, las desviaciones operativas y las desviaciones operativas límite
 –
@@ -1137,8 +1082,8 @@ estación de radio base TRS situada en la sala de tráfico de la estación de Lu
 ●
 utilizada por el despachador de la estación de Lukavice na Moravé para comunicarse con el maquinista del tren Nex 1. nsl 47315 tras la parada de emergencia del tren en la estación de Lukavice na Moravé en la vía de estación n.º 1 y para comunicarse con el maquinista del tren EC 108 tras la parada de emergencia en el cabezal de Zábřeh como consecuencia de la colisión con grava arrojada por los TDV descarrilados del tren Nex 1.nsl 47315.
 
-
 ## Página 36
+
 
 ### 3.4.4 Vehículos ferroviarios, incluidos los dispositivos de registro automático de datos
 El HDV de tipo 71E1, serie 163.003-7, que circulaba a la cabeza del tren Nex 1.nsl 47315, dispone de un CERTIFICADO DE APTITUD DEL VEHÍCULO FERROVIARIO válido, núm. de registro PZ 1455/97-V.01, emitido por la Oficina Ferroviaria el 13. 06. 2000. La última inspección técnica periódica antes de la aparición de la IU se realizó, de conformidad con el § 44, apartado 1 de la ley n.º 266/1994 Coll., el 01. 10. 2007, con validez hasta el 01. 04. 2008.
@@ -1163,6 +1108,7 @@ En noviembre de 2008, el titular del TDV Laaers 23 87 436 3643-9, la empresa TOU
 Chez, TOUAX SA, 5, rue Bellini, 92800 Puteaux la Defeuse, remitió la documentación técnica requerida de los muelles parabólicos del TDV en cuestión. El 26. 11. 2008, el transportista ČD
 
 ## Página 37
+
 
 Cargo, a. s., Centro de reparación de vehículos ferroviarios de Ústí nad Labem, se realizó la prueba de flexibilidad de los muelles parabólicos en un banco de ensayo de muelles y resortes calibrado, por el laboratorio de calibración acreditado n.º 2230 – del Instituto Checo de Acreditación, o. p. s., Centro de Servicios de Calibración C/230 AKL ZÁLEŠÁK, s. r. o., en presencia del titular del vehículo ferroviario (TDV), la empresa TOUAX, Tour Arabi – 5, FRANCIA, transportista ČD Cargo a. s., y del Dr. La prueba de flexibilidad de los muelles se realizó de acuerdo con el Reglamento UIC 821, 6.ª edición, noviembre de 2003, apartados: 2.2.2.2, 4.3.4.13 y 4.3.4.14, y con el reglamento del transportista ČD V 22/1 «Reglamento para el mantenimiento y las reparaciones de la suspensión de los vehículos ferroviarios, parte I. Muelles de los vagones de mercancías», aprobado con el número de registro: 58 804/2006-O12, el 07. 07. 2006, en su versión vigente. A partir de las mediciones se elaboró el documento «Acta comisionada de pesaje de los muelles del vehículo ferroviario Laaers 23 87 436 3643-9 „P“ participante en el incidente extraordinario del 22. 02. 2008 entre las estaciones de Zábřeh na Moravě y Lukavice na Moravě», n.º de registro: 1-2474/2008/DI, del 29. 12. 2008, del cual forman parte 8x «INFORME DE PRUEBA DE FLEXIBILIDAD DEL MUELLE» de los muelles números 1108/0319 a 1108/0326 y la Hoja de Calibración n.º: 1077-08. En las conclusiones del Acta comisionada se indica: «... La evaluación de las mediciones de control se realizará, a petición de ČD Cargo, a. s., en la Universidad de Pardubice - Facultad de Transporte Jan Perner.»
 
@@ -1191,70 +1137,48 @@ La locomotora (HDV) 163.003-7, que circula a la cabeza del tren de mercancías N
 
 ## Página 38
 
-quedó registrada en la cinta registradora de velocidad con capa de carbón de tipo KAPS-COMM – Český Krumlov. De la evaluación de los datos registrados, véase el documento «Evaluación de la cinta registradora de velocidad del tren Nex 1.nsl 47315 del 22 de febrero de 2008 hasta la MU del grupo «B2» entre las estaciones de Zábřeh na Moravě – Lukavice na Morav», n.º de ref.: 70 102/08-018-RI3, de fecha 27.03.2008, se desprende:
-la locomotora (HDV) circulaba hacia adelante por delante de la cabina del maquinista I, estaba controlada desde la cabina del maquinista I;
+fue registrada en la banda registradora de velocidad con capa de carbono tipo KAPS-COMM – Český Krumlov. De la evaluación de los datos registrados, véase el documento „Posouzení rychloměrového proužku od vlaku Nex 1.nsl 47315 ze dne 22. února 2008 k MU skupiny „B2“ mezi ŽST Zábřeh na Moravě – Lukavice na Moravě“, n.º de referencia: 70 102/08-018-RI3, de fecha 27. 03. 2008, se concluye:
+La locomotora se desplazaba hacia delante con el puesto de conducción I, estaba controlada desde el puesto de conducción I;
 –
-el paso del tren por la estación de Zábřeh na Moravá se registró a las 11:33 h, a una velocidad de 33 km/h;
+el paso del tren por la estación Zábřeh na Moravě está registrado a las 11:33 h, a una velocidad de 33 km.h-1;
 –
-a partir de una velocidad de 33 km/h se produce un aumento progresivo de la velocidad hasta alcanzar un valor de 93 km/h;
+a partir de una velocidad de 33 km.h-1, se produce un aumento gradual de la velocidad hasta el valor de 93 km.h-1;
 –
-en el punto de origen de la MU, es decir, en el pk 45,892, la locomotora (HDV) del tren Nex 1.nsl 47315 pasó a las 11:37 h,
+en el punto de origen del accidente, es decir, en el pk 45,892, la locomotora del tren Nex 1.nsl 47315 pasó a las 11:37 h,
 –
-a una velocidad de 93 km/h;
-se produce una disminución progresiva de la velocidad mediante frenado en la vía durante aproximadamente 1160 m, con lo que la velocidad
+a una velocidad de 93 km.h-1;
+seguidamente se produce una disminución gradual de la velocidad mediante una marcha de frenado en una distancia de aproximadamente 1160 m, cuando la velocidad
 –
-descendió hasta un valor de 92 km/h, tras lo cual se produce una nueva disminución progresiva de la velocidad en la vía durante aproximadamente 130 m hasta un valor de 89 km/h;
-a partir de una velocidad de 89 km/h se registra una brusca disminución de la velocidad hasta la detención, en un tramo de vía de aproximadamente
+descendió al valor de 92 km.h-1, tras lo cual se produce una nueva disminución gradual de la velocidad en una distancia de aproximadamente 130 m hasta el valor de 89 km.h-1;
+a partir de una velocidad de 89 km.h-1 se registra un descenso brusco de la velocidad hasta la parada, en una distancia de
 –
-730 m;
-la velocidad máxima permitida en el tramo Zábřeh na Moravá – Lukavice na Moravá y en la estación de
+aproximadamente 730 m;
+la velocidad máxima permitida en el tramo Zábřeh na Moravě – Lukavice na Moravě y en la estación
 –
-Lukavice na Moravá no fue superada por el tren Nex 1.nsl 47315;
-al inicio del frenado en la vía, la locomotora (HDV) se encontraba a 12 m del punto de origen de la MU. Posteriormente,
+Lukavice na Moravě no fue superada por el tren Nex 1.nsl 47315;
+al inicio de la marcha de frenado, la locomotora se encontraba a 12 m del punto de origen del accidente. Posteriormente,
 –
-el vehículo descarrilado Laaers 23 87 436 3643-9 se encontraba en ese momento a 407 m por delante del punto de origen de la MU;
-la parte móvil del sistema de protección de trenes estaba en funcionamiento y fue manejada correctamente por el maquinista.
+el coche descarrilado Laaers 23 87 436 3643-9 se encontraba en ese momento a 407 m del punto de origen del accidente;
+la parte móvil del freno automático de tren estaba en funcionamiento y era debidamente manejada por el maquinista.
+La locomotora 162.057-4 que circulaba a la cabeza del tren EC 108 está, en el sentido del decreto n.º 173/1995 Sb., anexo n.º 3, parte II, apartado 5., equipada con el dispositivo registrador ELECTRÓNICO DE VELOCIDAD SERIE LT, n.º de registro 1328. La circulación del tren EC 108 está registrada bajo el número de transmisión 004654.0340. De la evaluación de los datos registrados, véase el documento „Rozbití čelního skla na HDV v žst. Lukavice na Moravě“, de fecha 27. 02. 2008, se concluye:
+La locomotora se desplazaba hacia delante con el puesto de conducción II, estaba controlada desde el puesto de conducción II;
 –
-La locomotora (HDV) 162.057-4 que circula a la cabeza del tren EC 108 está, en virtud del Decreto n.º 173/1995 Coll., anexo n.º 3,
-parte II, apartado 5., equipada con un dispositivo de registro ELEKTRONICKÁ RYCHLOMĚROVÁ
-SOUPRAVA ŘADY LT, n.º de registro 1328. La circulación del tren EC 108 está registrada bajo el número de transmisión
-004654.0340. De la evaluación de los datos registrados, véase el documento «Rotura del parabrisas delantero de la locomotora
-en la estación de Lukavice na Moravá», de fecha 27.02.2008, se desprende:
-la locomotora (HDV) circulaba hacia adelante por delante de la cabina del maquinista II, estaba controlada desde la cabina del maquinista II;
+el tren EC 108 circulaba por la estación Lukavice na Moravě a una velocidad de 100 km.h-1. A esta velocidad, a las
 –
-el tren EC 108 circulaba por la estación de Lukavice na Moravá a una velocidad de 100 km/h. A dicha velocidad,
-–
-a las 11:38:33 h se registró una brusca disminución de la presión de aire en la tubería del freno automático continuo hasta un valor de 3 bar, como consecuencia de la aplicación del freno de emergencia por parte del maquinista;
-en un tramo de vía de 462 m se produce una brusca disminución de la velocidad hasta la detención. El tren EC 108 se detuvo
+11:38:33 h se registra una caída brusca de la presión del aire en la tubería del freno automático continuo de aire hasta el valor de 3 bar, como consecuencia de la aplicación del frenado de emergencia por parte del maquinista;
+en una distancia de 462 m se produce un descenso brusco de la velocidad hasta la parada. El tren EC 108 se detuvo
 –
 a las 11:39:01 h;
-la velocidad máxima permitida del tren EC 108 no fue superada en la estación de Lukavice na Moravá;
+la velocidad máxima permitida del tren EC 108 no fue superada en la estación Lukavice na Moravě;
 –
-la parte móvil del sistema de protección de trenes estaba en funcionamiento y fue manejada correctamente por el maquinista.
+la parte móvil del freno automático de tren estaba en funcionamiento y era debidamente manejada por el maquinista.
 –
-La locomotora (HDV) 162.057-4 que circula a la cabeza del tren EC 108 está, en virtud del Decreto n.º 173/1995 Coll., anexo n.º 3,
-parte II, apartado 5., equipada con un dispositivo de registro ELEKTRONICKÁ RYCHLOMĚROVÁ
-SOUPRAVA ŘADY LT, n.º de registro 1328. La circulación del tren EC 108 está registrada bajo el número de transmisión
-004654.0340. De la evaluación de los datos registrados, véase el documento «Rotura del parabrisas delantero de la locomotora
-en la estación de Lukavice na Moravá», de fecha 27.02.2008, se desprende:
-la locomotora (HDV) circulaba hacia adelante por delante de la cabina del maquinista II, estaba controlada desde la cabina del maquinista II;
-–
-el tren EC 108 circulaba por la estación de Lukavice na Moravá a una velocidad de 100 km/h. A dicha velocidad,
-–
-a las 11:38:33 h se registró una brusca disminución de la presión de aire en la tubería del freno automático continuo hasta un valor de 3 bar, como consecuencia de la aplicación del freno de emergencia por parte del maquinista;
-en un tramo de vía de 462 m se produce una brusca disminución de la velocidad hasta la detención. El tren EC 108 se detuvo
-–
-a las 11:39:01 h;
-la velocidad máxima permitida del tren EC 108 no fue superada en la estación de Lukavice na Moravá;
-–
-la parte móvil del sistema de protección de trenes estaba en funcionamiento y fue manejada correctamente por el maquinista.
-–
-### 3.5 Documentación del sistema de explotación
-### 3.5.1 Medidas adoptadas por el personal del gestor de infraestructura y del transportista, en lo que respecta a la
-conducción, la señalización y la protección del tráfico
-La vía de tren para el tren Nex 1.nsl 47315 fue establecida por una persona cualificada del gestor de infraestructura, el despachador de tráfico de la estación de Lukavice na Moravá, mediante la operación normal del dispositivo de protección de estación ESA 11, en dirección desde la estación de Zábřeh na Moravá desde la vía de línea 1 de Zábřeh na Moravá – Lukavice na Moravá, hasta la vía de estación 1 de la estación de Lukavice na Moravá y hasta la vía de línea 1 de Lukavice na Moravá – Mohelnice. La circulación del tren Nex 1.nsl 47315 fue autorizada mediante la señal «Vía libre» de las señales de entrada y salida 1S y S1, que autorizaba la circulación del tren a la velocidad máxima permitida.
+### 3.5 Documentación sobre el sistema operativo
+### 3.5.1 Medidas adoptadas por los empleados del gestor de la infraestructura y del transportista en lo que respecta a la conducción, señalización y protección del tráfico
+La ruta ferroviaria para el tren Nex 1.nsl 47315 fue establecida por una persona cualificada del gestor de la infraestructura, el jefe de maniobras de despacho de la estación Lukavice na Moravě, mediante la operación normal del equipo de enclavamiento de la estación ESA 11, en el sentido desde la estación Zábřeh na Moravě desde la vía principal 1 Zábřeh na Moravě – Lukavice na Moravě, hasta la vía principal 1 de la estación Lukavice na Moravě y hasta la vía principal 1 Lukavice na Moravě – Mohelnice. La circulación del tren Nex 1.nsl 47315 fue autorizada por la señal „Volno“ (Libre) de las señales de entrada y salida 1S y S1, que permiten la circulación del tren a la velocidad máxima permitida.
 
 ## Página 39
+
 
 La vía de tren para el tren EC 108 fue establecida por una persona cualificada del gestor de infraestructura, el despachador de tráfico de la estación de Lukavice na Moravá, mediante la operación normal del dispositivo de protección de estación ESA 11, en dirección desde la estación de Mohelnice desde la vía de línea 2 de Mohelnice – Lukavice na Moravá,
 hasta la vía de estación 2 de la estación de Lukavice na Moravá y hasta la vía de línea 2 de Lukavice na Moravá – Zábřeh
@@ -1293,42 +1217,39 @@ en su versión posterior.
 
 ## Página 40
 
-3.6.2 Estado de salud y situación personal que influyeron en el incidente extraordinario, 
-incluido el estrés físico o psicológico
-La aptitud sanitaria de los empleados del gestor de la infraestructura y del transportista fue evaluada en el momento de la producción del incidente extraordinario (IU) conforme a lo dispuesto en el Decreto n.º 101/1995 Coll. (en lo sucesivo, «Decreto n.º 101/1995 Coll.»), 
-por el que se aprueba el Reglamento sobre la aptitud sanitaria y profesional de las personas que intervienen en la explotación de la vía férrea y del transporte ferroviario, en su versión modificada y actualizada por disposiciones posteriores.
-En el momento de la producción del incidente extraordinario de que se trata, todos los empleados del gestor de la infraestructura y de ambos transportistas participantes en el IU disponían de un informe válido sobre su aptitud sanitaria. Los registros escritos forman parte del expediente.
-No se detectaron estados de salud ni situaciones personales que pudieran influir en el IU, incluido el estrés físico y psicológico de las personas participantes en el IU.
-Se realizó una prueba de aliento orientativa para detectar la ingesta de alcohol a los maquinistas del tren Nex 1.nsl 47315 y del EC 108, así como al despachador de la estación de Lukavice na Moravě, por parte de la Policía de la República Checa (PČR), con resultado negativo.
-3.6.3 Disposición del equipamiento del puesto de control o del vehículo, que influye en su 
-manejo y uso
-Las cabinas de los locomotores HDV de las series 162 y 163 están diseñadas ergonómicamente de manera que el maquinista dispone de una visión despejada no solo de los elementos y dispositivos de control, comprobación y señalización situados en el panel de control del maquinista y en el panel de señalización situado sobre la ventanilla frontal derecha, sino también hacia el frente y oblicuamente hacia los lados de la locomotora HDV.
-La investigación no reveló ningún elemento que obstaculizara la visión frontal de la locomotora HDV del tren EC 108 y del tren Nex 1.nsl 47315, ni que dificultara la visión general de la posición y el estado de los elementos y dispositivos de control, comprobación y señalización situados en la cabina del maquinista.
-### 3.7 Incidentes extraordinarios anteriores de carácter similar
-El Instituto (DI) registra incidentes extraordinarios anteriores de carácter similar:
-IU del 06.03.2007 a las 15:15 h en la estación de Hranice Město, cuando en la vía férrea, de categoría 
-–
-nacional, entre Horní Lideč st. hr. y Hranice na Moravě, en la estación de Hranice na Moravě město, en el punto kilométrico (km) 4,175, en el desvío n.º 5, descarriló el tren Pn 67113. La causa inmediata del IU fue la circulación de material rodante por una ruta de circulación con defectos en el sistema de protección de tren (GPK).
-## 4 ANÁLISIS Y CONCLUSIONES
-### 4.1 Descripción definitiva del incidente extraordinario
-### 4.1.1 Descripción definitiva del incidente extraordinario basada en los hechos constatados 
-en el punto 3
-A las 11:36:24 h, el despachador de tráfico de la estación de Lukavice na Moravé estableció una ruta de circulación para el paso del tren Nex 1.nsl 47315 desde la vía principal 1 de Zábřeh na Moravě a Lukavice na Moravě por la vía de estación n.º 1, y posteriormente hacia la vía principal 1 de Lukavice na Moravě a Mohelnice. Se autorizó la circulación del tren mediante la señal «Volno» (Libre) de la señal de entrada 1S y de la señal de salida S1. Simultáneamente, el despachador de tráfico de la estación de Lukavice na Moravé estableció una ruta de circulación para el paso del tren EC 108 desde la vía principal 2 de Mohelnice a Lukavice na Moravé por la vía de estación n.º 2 de la estación de Lukavice na Moravé, y posteriormente hacia la vía principal 2 de Lukavice na Moravé a Zábřeh na Moravé. Se autorizó la circulación del tren EC 108 mediante la señal «Volno» (Libre) de la señal de entrada 2L y de la señal de salida L2.  
-Durante la circulación del tren Nex 1.nsl 47315 en una curva a la derecha de la vía principal 1, entre las estaciones de Zábřeh na Moravé y Lukavice na Moravé, en el km 45,892, a una velocidad de 93 km/h, descarriló el vehículo ferroviario (TDV) de la serie Laaers n.º 23 87 436 3643-9 con su tercera rueda por la derecha en sentido de circulación. El TDV estaba compuesto como el 20.º TDV detrás de la locomotora (HDV). Dado que, como consecuencia del descarrilamiento, no se produjo el desacoplamiento del tren, el tren con el TDV descarrilado continuó su marcha hasta la estación de Lukavice na Moravé, donde, en el apeo de Zábřeh, en los desvíos n.º 11 y 10, circulados en dirección recta y en dirección contraria a la punta de aguja, en el km 46,806, el TDV de la serie Laaers n.º 23 87 436 3643-9, ya descarrilado con su tercera rueda, descarriló también con su segunda y cuarta ruedas por la derecha en sentido de circulación y, al circular por la vía de estación n.º 1 de la estación de Lukavice na Moravé, también con su primera rueda por la izquierda. Como consecuencia del descarrilamiento de dicho TDV, se produjo el descarrilamiento de otro TDV de la serie Laaers n.º 43 87 427 2699-7 en el desvío n.º 10, con su rueda delantera por la derecha en sentido de circulación, compuesto como el 21.º TDV detrás de la locomotora (HDV). Como resultado del suceso accidentológico, se arrancó la señal de salida L3, situada en sentido de circulación del tren Nex 1.nsl 47315 a la derecha entre las vías de estación n.º 1 y n.º 3, lo que provocó el desgarro del tren. El maquinista no observó ninguna alteración en el comportamiento del tren hasta el momento del desgarro, que se manifestó mediante la caída de presión en la tubería principal del freno automático continuo y mediante la iluminación de la luz de señalización de flujo de aire elevado en la cabina del maquinista. La parte delantera de la locomotora (HDV) se detuvo en el apeo de Mohelnice de la estación de Lukavice na Moravé, en el km 47,900. El extremo de la parte delantera del tren se encontraba en el km 47,481. El inicio de la parte trasera desprendida del tren se detuvo en el km 47,245, es decir, entre ambas partes del tren se formó un hueco de 236 m de longitud. El maquinista del tren Nex 1.nsl 47315 fue informado del incidente extraordinario (IU) por el despachador de la estación de Lukavice na Moravé a través de la radio de a bordo VS 47.
-En el momento del desgarro del tren Nex 1.nsl 47315, el tren EC 108 circulaba por la vía de estación adyacente n.º 2 en sentido contrario por la estación de Lukavice na Moravé. La grava del balasto ferroviario, proyectada por los TDV descarrilados del tren Nex 1.nsl 47315, impactó contra la parte frontal y el lado izquierdo de la parte delantera del tren EC 108. El maquinista del tren EC 108 reaccionó ante la situación surgida aplicando el freno de emergencia y protegiéndose detrás del panel de control en la cabina del maquinista. La parte delantera del tren se detuvo en el apeo de Zábřeh de la estación de Lukavice na Moravé, en el km 46,526. La grava del balasto ferroviario proyectada rompió el cristal del faro y el cristal de la ventanilla frontal izquierda de la locomotora (HDV) del tren EC 108. El maquinista no resultó herido. 
-Un estudiante de la Universidad Técnica Checa (ČVUT) de Praga fue testigo del descarrilamiento de ambos TDV del tren Nex 1.nsl 47315, ya que en el momento de la producción del IU cruzaba la vía férrea mediante un paso superior peatonal, situado en el km 46,802 sobre el apeo de Zábřeh de la estación de Lukavice na Moravé.
-El despachador de la estación de Lukavice na Moravé notificó la producción del IU.
-Los Servicios de Intervención de Emergencia (IZS) no se activaron debido a las consecuencias del IU. No se produjeron lesiones personales ni fugas de sustancias peligrosas. 
-El daño total causado al material rodante del transportista ČD Cargo, a. s., asciende a 600.000,- Kč. A la fecha de emisión del Informe sobre los resultados de la investigación de las causas y circunstancias de la producción del incidente extraordinario, el transportista ČD Cargo, a. s., no había cuantificado el importe real del daño causado a los TDV Laaers 23 87 436 3643-9 y Laaers 43 87 427 2699-7.  
-El daño total causado al material rodante del transportista ČD, a. s., asciende a 52.906,- Kč.  
-El daño total causado a las instalaciones del gestor de la infraestructura ČD, a. s./SŽDC, s. o., asciende a 8.796.821,04 Kč. 
-No se produjeron daños en la propiedad de las mercancías transportadas.
-El daño total constatado a la fecha de emisión del Informe sobre los resultados de la investigación de las causas y circunstancias de la producción del 
-### incidente extraordinario asciende a 9.449.727,04 Kč.
+3.6.2 Estado de salud y situación personal que influyeron en el suceso ferroviario, incluido el estrés físico o psicológico
+La aptitud médica de los empleados del gestor de la infraestructura y de los transportistas fue evaluada en el momento de la producción del suceso ferroviario en el sentido de lo dispuesto en la disposición nº 101/1995 Sb. (en adelante, disposición nº 100/1995 Sb.¹), por la que se dicta el Reglamento sobre la aptitud médica y profesional de las personas para la explotación de la infraestructura y del transporte ferroviario, en su redacción vigente.
+En el momento de la producción del citado suceso ferroviario, todos los empleados del gestor de la infraestructura y de ambos transportistas implicados en el suceso ferroviario disponían de un dictamen válido de aptitud médica. Los registros escritos forman parte del expediente.
+No se detectó ningún estado de salud ni situación personal que pudiera influir en el suceso ferroviario, incluido el estrés físico y psicológico de las personas implicadas en el suceso ferroviario.
+La prueba de alcoholemia de orientación a los conductores de los trenes Nex 1.nsl 47315 y EC 108 y al jefe de estación de la estación de Lukavice na Moravě, sobre el consumo de alcohol, fue realizada por la Policía (PČR) con el resultado: negativo.
+3.6.3 Disposición del equipamiento del puesto de mando o del vehículo que influye en su manejo y uso
+Las cabinas de conducción de las locomotoras de las series 162 y 163 están dispuestas ergonómicamente de modo que el conductor tiene una visión no obstaculizada no solo de los elementos y dispositivos de mando, control y señalización situados en la consola de mando del conductor y en el panel de señalización sobre el ventanal frontal derecho, sino también hacia delante y en diagonal a los lados de la locomotora.
+La investigación no detectó nada que obstaculizara la visión hacia delante de la locomotora ni la visión general de la posición y el estado de los elementos y dispositivos de mando, control y señalización situados en la cabina de conducción a los conductores de los trenes EC 108 y Nex 1.nsl 47315.
+### 3.7 Sucesos ferroviarios anteriores de carácter similar
+El DI registra sucesos ferroviarios anteriores de carácter similar:
+Suceso ferroviario del 06. 03. 2007 a las 15:15 h en la estación de Hranice Město, cuando en la vía férrea, categoría – estatal, Horní Lideč st. hr. – Hranice na Moravě, en la estación de Hranice na Moravě město, en el desvío nº 5, en el km 4,175, descarriló el tren Pn 67113. La causa inmediata del suceso ferroviario fue la circulación de vehículos ferroviarios por la vía con anomalías en el GPK.
+## 4 ANÁLISIS Y CONCLUSIONS
+### 4.1 Descripción final del suceso ferroviario
+### 4.1.1 Descripción final del suceso ferroviario basada en los hechos establecidos en el punto 3
+A las 11:36:24 h, el jefe de estación de enlace de la estación de Lukavice na Moravě estableció la ruta de tren para el paso del tren Nex 1.nsl 47315 desde la vía principal nº 1 Zábřeh na Moravě – Lukavice na Moravě por la vía de estación nº 1, y a continuación a la vía principal nº 1 Lukavice na Moravě – Mohelnice. La circulación del tren fue
 
 ## Página 41
 
+autorizada la señal «Vía libre» de la señal de entrada 1S y de la señal de salida S1. Simultáneamente, el jefe de maniobras de la estación de Lukavice na Moravě estableció una ruta de tren para el paso del tren EC 108 desde la vía principal n.º 2 Mohelnice – Lukavice na Moravě por la vía de estación n.º 2 de la estación de Lukavice na Moravě y, a continuación, a la vía principal n.º 2 Lukavice na Moravě – Zábřeh na Moravě. La circulación del tren EC 108 fue autorizada por la señal «Vía libre» de la señal de entrada 2L y de la señal de salida L2.
+Durante la circulación del tren Nex 1.nsl 47315, en un arco a la derecha de la vía principal n.º 1, entre la estación de Zábřeh na Moravě y Lukavice na Moravě, en el km 45,892, a una velocidad de 93 km·h-1, descarriló el vehículo de servicio TDV de la serie Laaers n.º 23 87 436 3643-9 por el tercer eje a la derecha en el sentido de circulación. El TDV estaba enganchado como el 20.º TDV tras el HDV. Debido a que, como consecuencia del descarrilamiento, no se produjo la separación de la composición del tren, el tren con el TDV descarrilado continuó su marcha hasta la estación de Lukavice na Moravě, donde, en el extremo de Zábřeh, en los desvíos n.º 11 y 10, circulados en sentido recto a favor y en contra de la aguja, en el km 46,806, ya con el tercer eje descarrilado, el TDV de la serie Laaers n.º 23 87 436 3643-9 descarriló el segundo y el cuarto eje a la derecha en el sentido de circulación y, al circular por la vía de estación n.º 1 de la estación de Lukavice na Moravě, también el primer eje a la izquierda. Como consecuencia del descarrilamiento del mencionado TDV, se produjo en el desvío n.º 10 el descarrilamiento de otro TDV de la serie Laaers n.º 43 87 427 2699-7, por el eje delantero a la derecha en el sentido de circulación, enganchado como el 21.º TDV tras el HDV. Como consecuencia del suceso se produjo el arrancamiento de la señal de salida L3, situada en el sentido de circulación del tren Nex 1.nsl. 47315 a la derecha entre las vías de estación n.º 1 y n.º 3, lo que tuvo como resultado la rotura de la composición del tren. Hasta el momento de la rotura del tren, que se manifestó por una caída de la presión del aire en la tubería principal del freno automático continuo de aire y por la encendida de la luz de señalización de aumento de caudal de aire en la cabina del maquinista, el maquinista no observó ningún cambio en la marcha del tren. El frontal del HDV se detuvo en el extremo de Mohelnice de la estación de Lukavice na Moravě, en el km 47,900. El extremo de la parte delantera del tren se encontraba en el km 47,481. El comienzo de la parte trasera desprendida del tren se detuvo en el km 47,245, es decir, entre ambas partes del tren se creó un hueco de 236 m de longitud. Sobre la producción de la MU, el maquinista del tren Nex 1.nsl. 47315 fue informado por el jefe de maniobras de la estación de Lukavice na Moravě a través de la estación de radio de a bordo VS 47.
+En el momento de la rotura del tren Nex 1.nsl. 47315, circulaba por la estación de Lukavice na Moravě, por la vía de estación contigua n.º 2, en sentido contrario, el tren EC 108. La balasta del balasto de la vía, expulsada por los TDV descarrilados del tren Nex 1.nsl. 47315, impactó en el frontal y en el flanco izquierdo de la parte delantera del tren EC 108. El maquinista del tren EC 108 reaccionó a la situación producida aplicando el frenado de acción rápida y refugiándose detrás de la pupitre de mando en la cabina del maquinista. El frontal del tren se detuvo en el extremo de Zábřeh de la estación de Lukavice na Moravě, en el km 46,526. La balasta expulsada rompió el cristal del proyector y el cristal de la ventana frontal izquierda del HDV del tren EC 108. El maquinista no resultó herido.
+Testigo del descarrilamiento de ambos TDV del tren Nex 1.nsl 47315 fue un estudiante de la ČVUT de Praga, que en el momento de la producción de la MU cruzaba la vía férrea por un paso superior carretero, situado en el km 46,802 sobre el extremo de Zábřeh de la estación de Lukavice na Moravě.
+La producción de la MU fue comunicada por el jefe de maniobras de la estación de Lukavice na Moravě.
+El IZS, atendiendo a las consecuencias derivadas de la MU, no fue activado. No se produjeron lesiones en personas ni fugas de sustancias peligrosas.
+El daño total causado en los vehículos ferroviarios del transportista ČD Cargo, a. s., asciende a 600.000,- Kč. A la fecha de publicación del Informe sobre los resultados de la investigación de las causas y circunstancias de la producción del suceso extraordinario, el transportista ČD Cargo, a. s., no había cuantificado el importe real del daño causado en los TDV Laaers 23 87 436 3643-9 y Laaers 43 87 427 2699-7.
+El daño total causado en el vehículo ferroviario del transportista ČD, a. s., asciende a 52. 906,- Kč.
+El daño total en las instalaciones del explotador de la vía ČD, a. s./SŽDC, s. o., asciende a 8.796.821,04 Kč.
+No se produjo daño en la propiedad de las mercancías transportadas.
+El daño total estimado a la fecha de publicación del Informe sobre los resultados de la investigación de las causas y circunstancias de la producción
+### del suceso extraordinario asciende a 9.449.727,04 Kč.
+
 ## Página 42
+
 
 ### 4.2 Análisis
 ### 4.2.1 Evaluación de los hechos constatados según el punto 3 y exposición de las conclusiones sobre la causa del incidente extraordinario y la actuación de los servicios de rescate
@@ -1364,8 +1285,8 @@ p = 61 mm, véase la siguiente tabla:
 | +9 | 78 | 68 | +6 | - | +4 | - |
 | +8 | 83 | 71 | +11 | - | +9 | - |
 
-
 ## Página 43
+
 
 | +7 | 86 | 72 | +14 | 0 | +12 | - |
 | +6 | 85 | 73 | +13 | +1 | +11 | - |
@@ -1411,6 +1332,7 @@ Moravé», ref.: 1-2477/2008/DI, del 29.12.2008, que evalúa el estado del balas
 IU y las mediciones realizadas en el lugar de producción del IU, es decir, 30 m antes del lugar del descarrilamiento y 10 m después del lugar
 
 ## Página 44
+
 
 descarrilamiento, del que se deduce:
 las magnitudes medidas RK se han comparado con las magnitudes de las desviaciones operativas y los límites
@@ -1458,6 +1380,7 @@ distancia de 9 m fue de 25 mm.
 
 ## Página 45
 
+
 las bases de medición fueron seleccionadas de acuerdo con los principios de evaluación mediante vehículos de medición, en el sentido del reglamento interno del operador ferroviario ČD SR 103/4 (S). En el presente caso, en esta evaluación se alcanzó entre los puntos de medición 5 y 3 en la base de medición 2,0 m el valor límite de ∆p = 14 mm, pero no se superó;
 mediante la evaluación del contrapeso de la curva según el artículo 7.4.2 de la norma ČSN 73 6360-2 se constata que el estado
 –
@@ -1479,6 +1402,7 @@ En el lugar de aparición del incidente (MU), durante la inspección del firme y
 
 ## Página 46
 
+
 En el lugar de origen de la MU, en el informe impreso «Informe impreso de averías locales y evaluación de tramo» correspondiente a la última medición continua del balasto bajo carga antes de la aparición de la MU, realizada el 27.11.2007, en la vía de línea n.º 1 Zabřeh na Moravě – Lukavice na Moravě, se indican las siguientes averías en el plano vertical de la vía – deformación de la vía:
 
 - km 45,894 con grado de urgencia de reparación n.º 2 y plazo de reparación hasta el 31.01.2008. Se trataba de una avería en el plano vertical de la vía de línea n.º 1 ZKS (deformación de la vía) identificada como «ZKS 02/158:892/02.9/01.5»;
@@ -1498,23 +1422,23 @@ El administrador de la infraestructura ČD, a. s., en relación con sus procedim
 
 ## Página 47
 
-inspección de la línea Zábřeh na Moravě – Lukavice na Moravě mediante una inspección a pie únicamente 1 vez, y ello el día 
+inspección de la vía Zábřeh na Moravě – Lukavice na Moravě mediante recorrido a pie solo 1 vez, y ello el día 
 ## 11. 02. 2008.
-En razón de las causas y circunstancias de la aparición del SU, no puede considerarse el hallazgo mencionado en relación causal con la aparición del SU en cuestión.
-El dispositivo electrónico de seguridad de estación ESA 11 de la estación de Lukavice na Moravě, cuyos circuitos eléctricos cumplen la función de garantía directa de la seguridad del transporte ferroviario, fue explotado por el explotador de la vía ČD, a. s., en el sentido del apartado 1 letra f) del artículo 22 de la ley n.º 266/1994 Sb., con un certificado de aptitud válido y en un estado técnico que correspondía a la aptitud aprobada, véase «CERTIFICADO DE APTITUD DE UN EQUIPO TÉCNICO DETERMINADO» núm. de registro PZ 0809/08-E.41 y el documento «Acta de inspección del dispositivo de seguridad de estación en la estación de Lukavice 22. 02. 2008», núm. de referencia: 1-628/2008/DI, de fecha 16. 03. 2008.
-La vía de tren para el tren Nex 1.nsl 47315 fue establecida por el despachador de tráfico mediante la operación normal del dispositivo de seguridad de estación de la estación de Lukavice na Moravě desde la vía de línea n.º 1 Zábřeh na Moravě – Lukavice na Moravé hacia la vía de estación n.º 1 y posteriormente hacia la vía de línea n.º 1 Lukavice na Moravě – Mohelnice.
-La vía de tren para el tren EC 108 fue establecida por el despachador de tráfico mediante la operación normal del dispositivo de seguridad de estación de la estación de Lukavice na Moravě desde la vía de línea n.º 2 Mohelnice – Lukavice na Moravě hacia la vía de estación n.º 2 y posteriormente hacia la vía de línea n.º 2 Lukavice na Moravě – Zábřeh na Moravě, véase el documento «Acta de inspección del dispositivo de seguridad de estación en la estación de Lukavice 22. 02. 2008», núm. de referencia: 1-628/2008/DI, de fecha 16. 03. 2008.
-La circulación del tren Nex 1.nsl 47315 y del EC 108 hacia y desde la estación de Lukavice na Moravé fue permitida de conformidad con el artículo 15 del decreto n.º 173/1995 Sb. 
-El explotador de la vía, en el sentido del apartado 1 letra c) del artículo 22 de la ley n.º 266/1994 Sb., garantizó que las personas que realizan la explotación de la vía estuvieran médica y técnicamente aptas, véase el documento sobre la aptitud médica y técnica para el trabajo núm. de referencia: 1-2476/2008/DI, de fecha 29. 12. 2008.
-El transportista ČD Cargo, a. s., en el sentido del apartado 1 letra f) del artículo 35 de la ley n.º 266/1994 Sb., garantizó que las personas que realizan el transporte ferroviario, durante la explotación del tren Nex 1.nsl 47315, estuvieran médica y técnicamente aptas, véase los documentos sobre la aptitud médica y técnica para el trabajo, núm. de referencia: 1-2477/2008/DI, de fecha 29. 12. 2008.
-El transportista ČD, a. s., en el sentido del apartado 1 letra f) del artículo 35 de la ley n.º 266/1994 Sb., garantizó que las personas que realizan el transporte ferroviario, durante la explotación del tren EC 108, estuvieran médica y técnicamente aptas, véase los documentos sobre la aptitud médica y técnica para el trabajo, núm. de referencia: 1-2478/2008/DI, de fecha 29. 12. 2008.
-La locomotora eléctrica HDV de la serie 163.003-7, que circulaba a la cabeza del tren Nex 1.nsl 47315, fue explotada por el transportista ČD Cargo, a. s., de conformidad con el apartado 1 letra d) del artículo 35 de la ley n.º 266/1994 Sb. 
-La locomotora eléctrica HDV de la serie 162.057-4, que circulaba a la cabeza del tren EC 108, fue explotada por el transportista ČD, a. s., de conformidad con el apartado 1 letra d) del artículo 35 de la ley n.º 266/1994 Sb. 
-El tren Nex 1.nsl 47315, en el tramo Zábřeh na Moravě – Lukavice na Moravě y en la estación de Lukavice na Moravé, no superó la velocidad máxima permitida de 95 km/h, véase el documento «Evaluación de la banda de velocímetro del tren Nex 1.nsl 47315 de fecha 22 de febrero de 2008 relativa al SU de grupo «B2» entre la estación de Zábřeh na Moravě y la estación de Lukavice na Moravé», núm. de referencia: 70 102/08-018-RI3, de fecha 27. 03. 2008. 
-El transportista ČD Cargo, a. s., en el sentido del apartado 1 letra i) del decreto n.º 173/1995 Sb., garantizó que el tren Nex 1.nsl 47315 en el tramo supervisado no superara la velocidad máxima permitida, establecida por el horario de circulación o impuesta como velocidad limitada. En el momento de la aparición del SU, el tren Nex 1.nsl 47315 circulaba en modo de aceleración. El modo de conducción «aceleración» fue seleccionado por el maquinista a 407 m antes de la aparición del SU, véase el documento «Determinación de la posición km del dispositivo de control de tren Laaers 23 87 436 3643-9 al inicio de la conducción en modo de aceleración», núm. de referencia: 1-2179/2008/DI, de fecha 29. 12. 2008.
-
+Dadas las causas y circunstancias de la aparición del MU, la constatación indicada no puede valorarse en relación causal con la aparición del citado MU.
+El dispositivo electrónico de enclavamiento estacional ESA 11 de la est. Lukavice na Moravě, cuyos circuitos eléctricos desempeñan la función de garantía directa de la seguridad del transporte ferroviario, fue explotado por el explotador de la vía ČD, a. s., en el sentido del § 22 apartado 1 letra f) de la Ley núm. 266/1994 Sb., con un certificado de aptitud vigente y en un estado técnico que correspondía a la aptitud aprobada, véase «CERTIFICADO DE APTITUD DEL EQUIPO TÉCNICO DESIGNADO» n.º ref. PZ 0809/08-E.41 y el documento «Acta de inspección del SZZ en la est. Lukavice 22. 02. 2008», n.º de expediente: 1-628/2008/DI, de fecha 16. 03. 2008.
+La ruta de tren para el tren Nex 1.nsl 47315 fue establecida por el jefe de maniobras mediante la operación normal del dispositivo de enclavamiento estacional de la est. Lukavice na Moravě desde la vía principal núm. 1 Zábřeh na Moravě – Lukavice na Moravě a la vía estacional núm. 1 y, a continuación, a la vía principal núm. 1 Lukavice na Moravě – Mohelnice.
+La ruta de tren para el tren EC 108 fue establecida por el jefe de maniobras mediante la operación normal del dispositivo de enclavamiento estacional de la est. Lukavice na Moravě desde la vía principal núm. 2 Mohelnce – Lukavice na Moravě a la vía estacional núm. 2 y, a continuación, a la vía principal núm. 2 Lukavice na Moravě – Zábřeh na Moravě, véase el documento «Acta de inspección del SZZ en la est. Lukavice 22. 02. 2008», n.º de expediente: 1-628/2008/DI, de fecha 16. 03. 2008.
+La circulación de los trenes Nex 1.nsl 47315 y EC 108 hacia y desde la est. Lukavice na Moravě fue autorizada de conformidad con el § 15 del decreto núm. 173/1995 Sb.
+El explotador de la vía, en el sentido del § 22 apartado 1 letra c) de la Ley núm. 266/1994 Sb., garantizó que las personas que realizan la explotación de la vía estuvieran aptas desde el punto de vista médico y profesional, véase el documento de aptitud médica y profesional para el trabajo n.º de expediente: 1-2476/2008/DI, de fecha 29. 12. 2008.
+El transportista ČD Cargo, a. s., en el sentido del § 35 apartado 1 letra f) de la Ley núm. 266/1994 Sb., garantizó que las personas que realizan el transporte ferroviario, en la explotación del tren Nex 1.nsl 47315, estuvieran aptas desde el punto de vista médico y profesional, véanse los documentos de aptitud médica y profesional para el trabajo, n.º de expediente: 1-2477/2008/DI, de fecha 29. 12. 2008.
+El transportista ČD, a. s., en el sentido del § 35 apartado 1 letra f) de la Ley núm. 266/1994 Sb., garantizó que las personas que realizan el transporte ferroviario, en la explotación del tren EC 108, estuvieran aptas desde el punto de vista médico y profesional, véanse los documentos de aptitud médica y profesional para el trabajo, n.º de expediente: 1-2478/2008/DI, de fecha 29. 12. 2008.
+La locomotora de la serie 163.003-7, que circulaba a la cabeza del tren Nex 1.nsl 47315, fue explotada por el transportista ČD Cargo, a. s., de conformidad con el § 35 apartado 1 letra d) de la Ley núm. 266/1994 Sb.
+La locomotora de la serie 162.057-4, que circulaba a la cabeza del tren EC 108, fue explotada por el transportista ČD, a. s., de conformidad con el § 35 apartado 1 letra d) de la Ley núm. 266/1994 Sb.
+El tren Nex 1.nsl 47315 no superó la velocidad máxima permitida de 95 km.h-1 en el tramo Zábřeh na Moravě – Lukavice na Moravě ni en la est. Lukavice na Moravě, véase el documento «Evaluación de la banda registradora de velocidad del tren Nex 1.nsl 47315 de fecha 22 de febrero de 2008 relativa al MU del grupo "B2" entre las estaciones Zábřeh na Moravě – Lukavice na Moravě», n.º de expediente: 70 102/08-018-RI3, de fecha 27. 03. 2008.
+El transportista ČD Cargo, a. s., en el sentido del § 35 apartado 1 letra i) del decreto núm. 173/1995 Sb., garantizó que el tren Nex 1.nsl 47315 no superara en el tramo monitorizado la velocidad máxima permitida, establecida en el horario de circulación o impuesta como velocidad limitada. En el momento de la aparición del MU, el tren Nex 1.nsl 47315 circulaba por inercia. El modo de conducción «por inercia» fue seleccionado por el maquinista 407 m antes de la aparición del MU, véase el documento «Determinación del punto kilométrico de posición del TDV Laaers 23 87 436 3643-9 al inicio de la circulación por inercia», n.º de expediente: 1-2179/2008/DI, de fecha 29. 12. 2008.
 
 ## Página 48
+
 
 El tren EC 108, durante el paso por la estación de Lukavice na Moravé, no superó la velocidad máxima permitida de 100 km/h, véase el documento «Rotura del parabrisas en la locomotora eléctrica en la estación de Lukavice na Moravé» de fecha 27. 02. 2008, núm. de referencia: 1-2475/2008/DI, de fecha 29. 12. 2008.
 El transportista ČD, a. s., en el sentido del apartado 1 letra i) del decreto n.º 173/1995 Sb., garantizó que el tren EC 108 en el tramo supervisado no superara la velocidad máxima permitida, establecida por el horario de circulación o impuesta como velocidad limitada. 
@@ -1545,6 +1469,7 @@ Teniendo en cuenta:
 - la calidad de los muelles de fábrica (altura H20)
 
 ## Página 49
+
 
 ### - la constatación de que el vagón Laaers n.º 23 87 436 3643-9 „P“ no estaba cargado en el momento del accidente (MU),
 constatamos que los resortes parabólicos mencionados no fueron la causa inicial del incidente extraordinario
@@ -1591,8 +1516,8 @@ consecuencia la pérdida de la fuerza vertical de la rueda derecha del tercer ej
 con su posterior salto sobre el vértice del carril derecho en el lugar
 ### de origen del MU.
 
-
 ## Página 50
+
 
 ### 4.3 Conclusiones
 4.3.1 Causas inmediatas del incidente extraordinario, incluidos los factores que contribuyeron a él y
@@ -1636,6 +1561,7 @@ no fueron detectadas por el Instituto de Investigación (DI) durante la determin
 
 ## Página 51
 
+
 ### 4.4 Hallazgos complementarios
 ### 4.4.1 Deficiencias y omisiones detectadas durante la investigación de las causas y las circunstancias de la aparición del incidente grave, que no son, sin embargo, relevantes para las conclusiones sobre las causas
 
@@ -1661,8 +1587,8 @@ ordenó una revisión y verificación extraordinarias en la TO Zábřeh na Morav
 
 Ninguno de los transportistas adoptó medidas para la prevención de IG.
 
-
 ## Página 52
+
 
 ## 6 RECOMENDACIONES DE SEGURIDAD
 
@@ -1677,8 +1603,8 @@ director
 De la Inspección Territorial de Ostrava
 De la Inspección Territorial de Ostrava
 
-
 ## Página 53
+
 
 ## 7 ANEXOS
 ### Documentación fotográfica
@@ -1686,18 +1612,17 @@ De la Inspección Territorial de Ostrava
 Foto 1: Vista del lugar de detención del 20. TDV
 Foto 2: Vista del lugar de detención del 21. TDV
 
-
 ## Página 54
+
 
 Foto 3: Vista de la vía de estación nº 1 dañada en la estación de Lukavice na Moravě
 
-
 ## Página 55
 
-Foto 4: Vista del balasto de las vías contaminado y embarrado en la vía de línea nº 1
-entre las estaciones de Zábřeh na Moravě y Lukavice na Moravě
-
+Foto 4: Vista del lecho de la vía contaminado y embarrado en la vía principal n.º 1 
+entre la est. Zábřeh na Moravě - la est. Lukavice na Moravě
 
 ## Página 56
+
 
 Foto 5: Vista del lugar del primer frenado tras el descarrilamiento en el carril derecho

@@ -10,13 +10,14 @@ chars: 82709
 ratio_longitud: 1.24
 tokens_in: 50758
 tokens_out: 33617
-verificacion: revisar
-notas_cifras: ["bloque 2: original bilingüe: se compara contra el idioma principal (CS)", "bloque 3: original bilingüe: se compara contra el idioma principal (CS)", "bloque 5: cifras largas: 1/15", "bloque 6: original bilingüe: se compara contra el idioma principal (CS)", "bloque 8: original bilingüe: se compara contra el idioma principal (CS)", "bloque 9: original bilingüe: se compara contra el idioma principal (CS)"]
-avisos: ["bloque 6: ratio 1.72", "bloque 9: ratio 1.69", "bloque 12: ratio 1.75"]
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (HR)", "página 5: original bilingüe: se compara contra el idioma principal (EN)", "página 6: original bilingüe: se compara contra el idioma principal (CS)", "página 7: original bilingüe: se compara contra el idioma principal (PL)", "página 9: original bilingüe: se compara contra el idioma principal (CS)", "página 10: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 Inspección Ferroviaria
 República Checa
@@ -41,11 +42,12 @@ CIF:   75009561
 http://www.dicr.cz
 fax: (+420) 224 805 428
 
-
 ## Página 2
 
 
+
 ## Página 3
+
 
 # RESUMEN
 Grado:
@@ -84,11 +86,12 @@ Dirigidas a la Autoridad Nacional de Seguridad (Drážní úřad):
 seguridad cada vez que comunique cualquier cambio en los parámetros relevantes
 para el proceso de certificación de seguridad.
 
-
 ## Página 4
 
 
+
 ## Página 5
+
 
 # Índice
  Resumen .............................................................................................................................3
@@ -132,6 +135,7 @@ relación contractual ..........................................................
 
 ## Página 6
 
+
 3.1.2 Otras personas .........................................................................................................14
 3.2 Sistema de garantía de la seguridad ...............................................................................15
 3.2.1 Organización marco y forma en que se emiten y aplican las instrucciones .......15
@@ -162,8 +166,8 @@ cumplimiento ...................................................................
 ............................................................................................................................23
 4.2 Examen ......................................................................................24
 
-
 ## Página 7
+
 
 4.2.1 Evaluación de los hechos establecidos según el punto 3 y formulación de conclusiones sobre la causa del suceso excepcional y la actuación de los servicios de emergencia ..........................................24
 4.3 Conclusiones .......................................................................................28
@@ -181,6 +185,7 @@ cumplimiento ...................................................................
  Foto 2: Vista del vehículo ferroviario remolcado tras el incendio ......................................................31
 
 ## Página 8
+
 
 ## 1 RESUMEN
 Clasificación del suceso:
@@ -207,39 +212,78 @@ Establecer medidas eficaces que impidan tolerar u ordenar el incumplimiento del 
 Al Drážní úřad (Oficina Ferroviaria):
 Adoptar sus propias medidas consistentes en verificar si el transportista cumple en todos los aspectos las condiciones de seguridad en la explotación del transporte ferroviario, no solo al presentar la solicitud de emisión del Certificado al transportista, sino también tras las posibles modificaciones posteriores de los datos que presentó al solicitar la emisión del Certificado al transportista.
 
-
 ## Página 9
 
 ## 2 DATOS RELATIVOS AL SUCESO EXTRAORDINARIO
 ### 2.1 Suceso extraordinario
 ### 2.1.1 Fecha, hora exacta y lugar del suceso extraordinario
-El suceso extraordinario (en adelante SE) se produjo el día 30 de julio de 2008 a las 22:29 horas en la línea ferroviaria de ámbito nacional Plzeň hl. n. – Cheb (línea 713B), entre la estación de ferrocarril (en adelante est.) Pňovany y la est. Vranov u Stříbra, en el pk 374,100.
-### 2.1.2 Descripción del suceso extraordinario y del lugar del accidente, incluida la actuación del sistema integrado de emergencias y del servicio de rescate
-El lugar del SE se encuentra en el ámbito del Centro Regional de Explotación (en adelante RCP) Plzeň, ámbito de la estación ferroviaria de enlace (en adelante užst.) Plzeň, en el tramo de vía única de la línea ferroviaria de ámbito nacional electrificada Plzeň hl. n. – Cheb.
-Durante la circulación del tren R 766, antes de la est. Pňovany, los agentes de la Policía de la República Checa (en adelante PČR), que escoltaban el tren, observaron llamas procedentes del bogie de la locomotora (en adelante HDV). Comunicaron este hecho al jefe de tren de pasajeros, quien llamó por teléfono móvil al despachante de la línea Plzeň – Cheb con dispositivo de señalización controlado a distancia (en adelante DOZ) Plzeň. El despachante DOZ ordenó, mediante estación de radio del sistema de radio de vía (en adelante TRS), a la persona que conducía el vehículo ferroviario (en adelante maquinista) la detención inmediata del tren debido al incendio de la HDV. Tras la detención del tren en el pk 374,100, el maquinista, en colaboración con el jefe de tren y los agentes de la PČR, comenzó a extinguir el incendio; sin embargo, no lograron localizarlo. El incendio se extendió progresivamente también al primer vehículo ferroviario remolcado (en adelante TDV) situado tras la HDV. Por motivos de seguridad, unos 20 pasajeros fueron trasladados al último TDV.
-En el lugar del SE actuaron los servicios del sistema integrado de emergencias (en adelante IZS) – Cuerpo de Bomberos y Rescate de la Región de Plzeň – estaciones Stříbro y Nýřany, Servicio de Bomberos y Rescate de la Správa železniční dopravní cesty, organización estatal (en adelante SŽDC, s. o.) Plzeň, Cuerpo de Bomberos Voluntarios de Pňovany y la sección de distrito de la PČR Město Touškov. El servicio de emergencias sanitarias no intervino.
-2.1.3 Decisión de iniciar la investigación de las causas y circunstancias de su origen, composición del equipo de personas cualificadas y forma de dirigir la investigación de las causas y circunstancias de su origen
-El origen del SE fue comunicado a la Inspección Ferroviaria en el Centro Central de Notificaciones de Praga (en adelante COP) por un empleado del transportista, que es ČD, a. s., el día 31 de julio a las 00:51 h. A las 00:52 h, el empleado del COP, sobre la base de los hechos comunicados, decidió el desplazamiento y el inicio de la investigación de las causas y circunstancias de la aparición del SE. Al lugar del SE fue enviada la inspectora principal de la Inspección Ferroviaria de la Inspección Territorial de Plzeň. Por parte del transportista ČD, a. s. y del explotante de la línea SŽDC, s. o., sobre la base del Contrato de colaboración en la investigación de sucesos extraordinarios en el transporte ferroviario y de accidentes de trabajo mortales y graves de fecha 30 de junio de 2008, la investigación de las causas y circunstancias de la aparición del SE fue encomendada al inspector principal
-
+El suceso extraordinario (en adelante SE) tuvo lugar el día 30 de julio de 2008 a las 22:29 horas 
+en la línea ferroviaria de ámbito nacional Plzeň hl. n. – Cheb (trazado 713B), entre la estación 
+de ferrocarril (en adelante est.) Pňovany y la est. Vranov u Stříbra, en el km 374,100.
+### 2.1.2 Descripción del suceso extraordinario y del lugar del accidente, incluida la 
+actuación del sistema integrado de emergencias y del servicio de rescate
+El lugar del SE se encuentra en el ámbito del Centro Regional de Explotación (en adelante RCP) 
+Plzeň, ámbito de la estación ferroviaria de enlace (en adelante est. enlace) Plzeň, en un tramo 
+de vía única de la línea ferroviaria de ámbito nacional electrificada Plzeň hl. n. – Cheb.
+Durante la circulación del tren R 766, antes de la est. Pňovany, los miembros de la Policía de 
+la República Checa (en adelante PČR), que escoltaban el tren, observaron llamas procedentes 
+del bogie de la locomotora de tracción ferroviaria (en adelante HDV). Comunicaron este hecho 
+al jefe de tren de pasajeros, que llamó por teléfono móvil al despachante de la línea 
+Plzeň – Cheb con instalación de señalización controlada a distancia (en adelante DOZ) Plzeň. 
+El despachante DOZ ordenó, mediante el equipo de radio del sistema de radio de vía (en adelante 
+TRS), a la persona que conduce la locomotora (en adelante maquinista) la detención inmediata 
+del tren por incendio de la HDV. Tras la detención del tren en el km 374,100, el maquinista 
+comenzó, en colaboración con el jefe de tren y los miembros de la PČR, a extinguir el incendio; 
+sin embargo, no lograron localizarlo. El incendio se extendió progresivamente también al 
+primer vagón de tracción (en adelante TDV) acoplado a la HDV. Por motivos de seguridad, 
+aproximadamente 20 pasajeros fueron trasladados al último TDV.
+En el lugar del SE actuaron los servicios del sistema integrado de emergencias (en adelante IZS) – 
+Cuerpo de Bomberos y Rescate de la Región de Plzeň – estaciones Stříbro y Nýřany, Servicio 
+de Bomberos y Rescate de la Administración de la Vía Ferroviaria de Transporte, organización 
+estatal (en adelante SŽDC, s. o.) Plzeň, Cuerpo de Bomberos Voluntarios de Pňovany y la 
+sección de la PČR de Město Touškov. El Servicio de Emergencias Sanitarias no actuó.
+2.1.3 Decisión de iniciar la investigación de las causas y circunstancias de su producción, 
+composición del equipo de personas cualificadas y forma de dirigir la investigación de las 
+causas y circunstancias de su producción
+La producción del SE fue comunicada a la Inspección Ferroviaria en el Centro Central de 
+Comunicación de Praga (en adelante COP) por un empleado del transportista, que es ČD, a. s., 
+el día 31 de julio a las 00:51 h. A las 00:52 h, el empleado del COP, sobre la base de los 
+hechos comunicados, decidió el desplazamiento y el inicio de la investigación de las causas y 
+circunstancias de la producción del SE. Al lugar del SE fue enviada la inspectora principal de 
+la Inspección Ferroviaria de la Inspección Territorial de Plzeň. Por parte del transportista 
+ČD, a. s. y del explotador de la vía SŽDC, s. o., sobre la base del Contrato de Colaboración 
+en la Investigación de Sucesos Extraordinarios en el Transporte Ferroviario y de Accidentes 
+de Trabajo Mortales y Graves de fecha 30 de junio de 2008, fue encomendada la investigación 
+de las causas y circunstancias de la producción del SE a la inspectora principal
 
 ## Página 10
 
-del Instituto Regional de Seguridad del Transporte Ferroviario de Plzeň – persona cualificada designada.
-La propia investigación de las causas y circunstancias de la aparición del SE se realizó de conformidad con el § 53, letra b) de la Ley n.º 266/1994 Sb., de ferrocarriles, en su redacción vigente (en adelante Ley n.º 266/1994 Sb.) y con los §§ 11 y 12 del Decreto n.º 376/2006 Sb., sobre el sistema de seguridad de la explotación de la línea y del transporte ferroviario y los procedimientos en caso de sucesos extraordinarios en las líneas (en adelante Decreto n.º 376/2006 Sb.).
-### 2.2 Circunstancias del suceso extraordinario
-### 2.2.1 Empleados intervinientes del explotante de la línea y del transportista, personas en relación contractual y demás intervinientes y testigos
-Empleados intervinientes del explotante de la línea y del transportista:
-● maquinista del tren R 766, empleado de ČD, a. s., Depósito de vehículos sobre raíles (en adelante DKV) Plzeň, Unidad Operativa (en adelante PJ) Plzeň;
-● jefe de tren de pasajeros del tren R 766, empleado de ČD, a. s., Acompañamiento de trenes de pasajeros – Centro Regional de Acompañamiento de Trenes de Karlovy Vary, Estación de adscripción de las dotaciones de tren Cheb;
-● persona que dirige el tráfico ferroviario (en adelante jefe de estación) de la est. Pňovany, užst. Plzeň, empleado del operador de explotación de la línea ČD, a. s., que sobre la base del CONTRATO DE EXPLOTACIÓN DE LA LÍNEA, celebrado entre SŽDC, s. o. y ČD, a. s., el 30. 06. 2008 con efectos desde el 01. 07. 2008, realiza para el explotante de la línea SŽDC, s. o., la explotación de los dispositivos de la vía férrea, la organización del transporte ferroviario y la dirección de la explotación en la vía férrea;
-● despachante DOZ, empleado del operador de explotación de la línea ČD, a. s., que sobre la base del CONTRATO DE EXPLOTACIÓN DE LA LÍNEA, celebrado entre SŽDC, s. o. y ČD, a. s., el 30. 06. 2008 con efectos desde el 01. 07. 2008, realiza para el explotante de la línea SŽDC, s. o., la explotación de los dispositivos de la vía férrea, la organización del transporte ferroviario y la dirección de la explotación en la vía férrea.
-Demás intervinientes:
-● agentes de la PČR que escoltaban el tren R 766.
+inspector del Instituto Regional de Seguridad del Transporte Ferroviario de Plzeň – persona autorizada competente. 
+La propia investigación de las causas y circunstancias de la ocurrencia de la UE se llevó a cabo de conformidad con el § 53, letra b), de la Ley nº 266/1994 Sb., de ferrocarriles, en su versión vigente (en adelante, la Ley nº 266/1994 Sb.) 
+y el § 11 y el § 12 del Decreto nº 376/2006 Sb., sobre el sistema de seguridad de la explotación del ferrocarril y del transporte ferroviario y los procedimientos en caso de ocurrencia de sucesos excepcionales en los ferrocarriles (en adelante, 
+el Decreto nº 376/2006 Sb.).
+### 2.2 Circunstancias del suceso excepcional
+### 2.2.1 Empleados participantes del explotador del ferrocarril y del transportista, personas en relación contractual y demás participantes y testigos
+Empleados participantes del explotador del ferrocarril y del transportista:
+● maquinista del tren R 766, empleado de ČD, a. s., Depósito de material rodante (en adelante, 
+DKV) de Plzeň, Unidad Operativa (en adelante, PJ) de Plzeň;
+● jefe de tren de pasajeros del tren R 766, empleado de ČD, a. s., Acompañamiento de trenes de pasajeros – Centro Regional de Acompañamiento de Trenes de Karlovy Vary, 
+Estación de origen de las dotaciones de tren Cheb;
+● persona que dirige el transporte ferroviario (en adelante, jefe de estación) de la est. Pňovany, est. aux. Plzeň, empleado del operador de explotación del ferrocarril ČD, a. s., que con base en el CONTRATO DE EXPLOTACIÓN DEL FERROCARRIL, celebrado entre SŽDC, s. o., y ČD, a. s., el 30. 06. 2008 
+con efectos desde el 01. 07. 2008, realiza para el explotador del ferrocarril SŽDC, s. o., la explotación de las instalaciones de la vía férrea, la organización del transporte ferroviario y la dirección de la circulación en la vía férrea;
+● despachador DOZ, empleado del operador de explotación del ferrocarril ČD, a. s., que con base en el CONTRATO DE EXPLOTACIÓN DEL FERROCARRIL, celebrado entre SŽDC, s. o., y ČD, a. s., el 30. 
+06. 2008 con efectos desde el 01. 07. 2008, realiza para el explotador del ferrocarril SŽDC, s. o., 
+la explotación de las instalaciones de la vía férrea, la organización del transporte ferroviario y la dirección de la circulación en la vía férrea.
+Demás participantes:
+● agentes de la PČR que acompañaban al tren R 766.
 2.2.2 Trenes y su composición, incluidos los números de registro de los distintos vehículos ferroviarios
-La estación de origen del tren R 766 era, debido a la intervención en la est. Praha-Smíchov, y la estación de destino la est. Cheb.
-El tren estaba compuesto por la HDV 242.264-0 del DKV Plzeň y 8 TDV de pasajeros (TDV de serie y n.º de inventario B 51 54 20-41 754-2, TDV de serie y n.º de inventario B 51 54 20-41 786-4, TDV de serie y n.º de inventario B 51 54 20-41 698-1, TDV de serie y n.º de inventario B 51 54 20-41 676-7, TDV de serie y n.º de inventario B 51 54 20-41 788-0, TDV de serie y n.º de inventario Ds 50 54 95-40 039-0, TDV de serie y n.º de inventario Bdbmsee 50 54 82-70 041-4 y TDV de serie y n.º de inventario A 51 54 19-41 092-0). El tren tenía una longitud de 216 metros, 36 ejes, tráfico
+La est. de origen del tren R 766 fue, debido a la interrupción de la est. Praha-Smíchov, y la est. de destino Cheb. 
+El tren estaba compuesto por la HDV 242.264-0 del DKV Plzeň y 8 TDV de pasajeros (TDV de serie y n.º de ev. B 51 54 20-41 754-2, TDV de serie y n.º de ev. B 51 54 20-41 786-4, TDV de serie y n.º de ev. B 51 54 20-41 698-1, TDV de serie y n.º de ev. B 51 54 20-41 676-7, TDV de serie y n.º de ev. B 51 54 20-41 788-0, 
+TDV de serie y n.º de ev. Ds 50 54 95-40 039-0, TDV de serie y n.º de ev. Bdbmsee 50 54 82-70 041-4 y 
+TDV de serie y n.º de ev. A  51 54 19-41 092-0). El tren tenía una longitud de 216 metros, 36 ejes, tráfico
 
 ## Página 11
+
 
 peso 358 toneladas, peso total 442 toneladas, normativo de porcentajes de frenado necesarios 78, porcentajes de frenado reales 117.
 El propietario de todos los vehículos ferroviarios es ČD, a. s.
@@ -258,8 +302,8 @@ estación de radio base TRS, situada en el puesto de mando DOZ, operando
 ●
 en la frecuencia 467,875 MHz, utilizada por el despachador DOZ en la comunicación con el maquinista del tren R 766;
 
-
 ## Página 12
+
 
 estación de radio de vehículo TRS del tipo Lokomotivní souprava VS47, situada en la HDV
 ●
@@ -283,8 +327,8 @@ puesto de conducción n.º 2 del maquinista completamente calcinado, incluido el
 cableado y demás componentes de toda la sala de máquinas afectados térmicamente;
 ●
 
-
 ## Página 13
+
 
 pararrayos de techo defectuoso;
 ●
@@ -331,6 +375,7 @@ En el momento de la ocurrencia del MU era de noche, +25 °C, despejado, calma.
 
 ## Página 14
 
+
 ## 3 RESUMEN DE LAS EXPLICACIONES FACILITADAS
 ### 3.1 Resumen de las explicaciones facilitadas (sujeto a la protección de la identidad de las personas)
 ### 3.1.1 Empleados del gestor de la infraestructura y del transportista, incluidas personas en relación contractual
@@ -342,8 +387,8 @@ estación de Pňovany llamó el despachador de DOZ mediante TRS, informando de q
 ### 3.1.2 Otras personas
 No se solicitaron explicaciones a otras personas.
 
-
 ## Página 15
+
 
 ### 3.2 Sistema de garantía de la seguridad
 ### 3.2.1 Organización marco y forma en que se emiten y ejecutan las instrucciones
@@ -374,8 +419,8 @@ norma interna ČD V 25 «NORMA PARA LA ORGANIZACIÓN DEL MANTENIMIENTO DE LAS UN
 ### norma interna ČD V 25, donde en el art. 16 se indica:
 ●
 
-
 ## Página 16
+
 
 «Los valores normativos de recorrido de las ŽKV hasta la atención operativa, las inspecciones periódicas y las reparaciones periódicas se indican en el anexo n.º 1.»
 ### norma interna ČD V 25, donde en el anexo n.º 1 se indica:
@@ -404,24 +449,51 @@ Los valores indicados se expresan en miles de kilómetros locomotora (lokkm). El
 
 ## Página 17
 
-| Pequeña revisión periódica | M | 17 000 22000 km – |
-| Gran revisión periódica | V | 119 000 154 000 km – |
+| Revisión periódica menor | M | 17 000 22000 km – |
+| Revisión periódica mayor | V | 119 000 154 000 km – |
 | Reparación media reducida (según el reglamento ČD V2 5 reparación periódica de ajuste EVY) | SR | 238 000 308 000 km – |
 | Reparación media (según el reglamento ČD V25 reparación periódica principal EH) | S | 476 000 616 000 km – |
 | Reparación general | G | 1 904 000 2 464 000 km – |
-### 3.2.2 Requisitos para los empleados del gestor de la infraestructura y del transportista y su cumplimiento
-La aptitud médica de los empleados del gestor de la infraestructura y del transportista se evalúa de acuerdo con la disposición n.º 101/1995 Sb., por la que se dicta el Reglamento sobre la aptitud médica y profesional de las personas para la explotación de la infraestructura y del transporte ferroviario, en su versión vigente (en adelante, solo disposición n.º 101/1995 Sb.).
-Los requisitos de aptitud profesional de las personas implicadas en la explotación de la infraestructura y del transporte ferroviario, incluido el modo de su cumplimiento, los establece, de acuerdo con el § 35 apartado 1 letra b) de la ley n.º 266/1994 Sb., el reglamento interno del gestor de la infraestructura «SŽDC Zam1 (provisorio) Reglamento sobre la aptitud profesional de los empleados de la Administración de la Infraestructura de Transporte Ferroviario, organización estatal» y el reglamento interno del transportista «ČD Ok 2 REGLAMENTO DE FORMACIÓN Y EXAMEN DE LOS FERROCARRILES CHECOS, a. s.», en su versión vigente.
-Según la documentación del gestor de la infraestructura y del transportista, en el momento de la ocurrencia del MU todos los empleados implicados disponían de un informe válido de aptitud médica y estaban profesionalmente capacitados para el desempeño de su actividad laboral.
-La condición de aptitud para la conducción de un vehículo ferroviario la establece el § 45 de la ley n.º 266/1994 Sb. El maquinista es titular de un «Certificado de aptitud para la conducción de un vehículo ferroviario» válido, n.º ev. 502337, expedido por la Autoridad Ferroviaria de Praga el 31. 07. 2007, para la clase de vehículo de tracción E1, E2, E3 en la red de ámbito estatal.
+### 3.2.2 Requisitos para los empleados del gestor de la vía y del transportista y su
+cumplimiento
+La aptitud médica de los empleados del gestor de la vía y del transportista se evalúa de
+conformidad con el decreto n.º 101/1995 Sb., por el que se aprueba el Reglamento sobre
+la aptitud médica y profesional de las personas para la explotación de la vía y el
+transporte ferroviario, en su versión vigente (en adelante, decreto n.º 101/1995 Sb.).
+Los requisitos de aptitud profesional de las personas involucradas en la explotación de la
+vía y el transporte ferroviario, incluido el modo de su cumplimiento, los establece, de
+conformidad con el § 35 apartado 1 letra b) de la ley n.º 266/1994 Sb., el reglamento
+interno del gestor de la vía "SŽDC Zam1 (provisional) Reglamento sobre la aptitud
+profesional de los empleados de la Administración de la Infraestructura Ferroviaria de
+Transporte, organización estatal" y el reglamento interno del transportista "ČD Ok 2
+REGLAMENTO DE FORMACIÓN Y EXAMEN DE LOS FERROCARRILES CHECOS, a. s.",
+en su versión vigente.
+Según la documentación del gestor de la vía y del transportista, en el momento del
+ocurrimiento del MU todos los empleados implicados disponían de un dictamen válido de
+aptitud médica y estaban cualificados profesionalmente para el desempeño de su actividad
+laboral.
+La condición de aptitud para la conducción de un vehículo ferroviario la establece el § 45
+de la ley n.º 266/1994 Sb. El maquinista es titular del "Certificado de aptitud para la
+conducción de un vehículo ferroviario" válido, n.º de expediente 502337, emitido por la
+Autoridad Ferroviaria de Praga el 31. 07. 2007, para la clase de vehículo de tracción E1,
+E2, E3 en la vía de ámbito nacional.
 ### 3.2.3 Procedimiento de control interno de seguridad y sus resultados
-Antes de la ocurrencia del MU, en la HDV 242.264-0, en el sentido del anexo n.º 1 del reglamento interno ČD V 25, se realizaron las siguientes revisiones y reparaciones periódicas:
-### Revisión periódica pequeña (EM) – norma de recorrido 17 000 – 26 000 km. En la HDV 242.264-0, antes de la ocurrencia del MU, realizada el 30. 04. 2008 tras haber recorrido 44 325 km. La HDV, desde la última revisión periódica pequeña realizada el 30. 04. 2008 hasta la ocurrencia del MU, recorrió 25 030 km.  
-Revisión periódica grande (EV) – norma de recorrido 180 000 km. En la HDV 242.264-0, antes de la ocurrencia del MU, realizada el 14. 10. 2002 tras haber recorrido 260 560 km. 
-### Reparación periódica de ajuste (EVY) – norma de recorrido 550 000 km. En la HDV 242.264-0, antes de la ocurrencia del MU, realizada el 06. 09. 1999 tras haber recorrido 508 757 km. La HDV, desde la última reparación periódica de ajuste, realizada el 06. 09. 1999, hasta la ocurrencia del MU, recorrió 758 057 km. 
-
+Antes del ocurrimiento del MU, en el HDV 242.264-0, en el sentido del anexo n.º 1 del
+reglamento interno ČD V 25, se realizaron las siguientes revisiones periódicas y
+reparaciones:
+### Revisión periódica menor (EM) – norma de recorrido 17 000 – 26 000 km. En el HDV
+### 242.264-0, antes del ocurrimiento del MU, realizada el 30. 04. 2008 tras haber recorrido
+44 325 km. El HDV, desde la última revisión periódica menor realizada el 30. 04. 2008
+hasta el ocurrimiento del MU, recorrió 25 030 km.
+Revisión periódica mayor (EV) – norma de recorrido 180 000 km. En el HDV 242.264-0
+### antes del ocurrimiento del MU, realizada el 14. 10. 2002 tras haber recorrido 260 560 km.
+### Reparación periódica de ajuste (EVY) – norma de recorrido 550 000 km. En el HDV
+### 242.264-0 antes del ocurrimiento del MU, realizada el 06. 09. 1999 tras haber recorrido
+508 757 km. El HDV, desde la última reparación periódica de ajuste, realizada el
+06. 09. 1999, hasta el ocurrimiento del MU, recorrió 758 057 km.
 
 ## Página 18
+
 
 Reparación periódica principal (EH) – norma de recorrido 1 100 000 km. En la HDV 242.264-0, antes de la ocurrencia del MU, realizada en diciembre de 1987 tras haber recorrido 858 710 km. La HDV, desde la última reparación periódica principal realizada en diciembre de 1987 hasta la ocurrencia del MU, recorrió 1 836 364 km.
 ### 3.2.4 Interfaz entre los distintos sujetos implicados y los componentes de la vía
@@ -457,6 +529,7 @@ norma interna SŽDC (ČD) D1 REGLAMENTO PARA LA UTILIZACIÓN DE SEÑALES EN LA O
 ●
 
 ## Página 19
+
 
 norma interna SŽDC (ČD) D2  REGLAMENTO PARA LA ORGANIZACIÓN Y EXPLOTACIÓN
 ●
@@ -513,8 +586,8 @@ cumplimiento del horario de circulación de trenes;
 estación de radio base TRS;
 ●
 
-
 ## Página 20
+
 
 terminal para el dispositivo de comunicaciones IP TouchCall, en el que está integrada la
 ●
@@ -570,6 +643,7 @@ cintas de los circuitos de potencia y
 
 ## Página 21
 
+
 los conductores de los circuitos de mando y de los circuitos de máquinas auxiliares son de cobre. La instalación de alta tensión y la de baja tensión se encuentran situadas separadamente. En los puntos de ramificación de los conductores se encuentra situada una borna intermedia para la conexión de los cables de fuerza TM. La borna intermedia está compuesta por cuatro bornas, un lecho de madera, una tapa y cuatro conductores con designación de tipo CBAU 240/800 V. La conexión de las bornas con los conductores se realiza mediante soldadura (soldadura de plata).
 HDV 242.264-0 fue fabricado en el año 1981, número de fabricación 7610, fabricante ŠKODA Plzeň. La prueba técnico-de seguridad se realizó el día 13. 11. 1981 en la línea Brno – Břeclav. El HDV dispone, en el sentido del § 43 de la ley núm. 266/1994 Sb., de un «Certificado de idoneidad» vigente, expedido por la Autoridad Ferroviaria de Praga el día 07. 06. 2000 con el n.º de registro PZ 6965/00-V.02. La última revisión técnica periódica del HDV se realizó en el ámbito del anexo núm. 6 del decreto núm. 173/1995 Sb. el día 14. 07. 2008 con el resultado «El vehículo cumple las condiciones de explotación en las vías», la penúltima inspección técnica se realizó el día 14. 01. 2008.
 La instalación eléctrica del HDV 242.264-0 dispone de un «Certificado de idoneidad» vigente, n.º de registro PZ 0895/97-E.29, de fecha 05. 06. 1997, la última revisión periódica se realizó el día 20. 04. 2004, la penúltima revisión periódica se realizó el día 19. 10. 1999.
@@ -594,8 +668,8 @@ La dirección, la señalización y la protección del tráfico no tuvieron ningu
 ### 3.5.2 Intercambio de comunicaciones verbales en relación con el suceso excepcional, incluidos los documentos del dispositivo registrador
 El intercambio de comunicaciones verbales, efectuado por los empleados del explotador de la vía y del transportista en relación con el MU, condujo a la aseguración del lugar del MU, a la notificación de la producción del MU, a la llamada de los servicios de emergencia (IZS) y a la adopción de medidas sustitutivas en relación con las excepcionalidades producidas en la explotación posterior de la vía y del transporte ferroviario. La comunicación entre los empleados del explotador de la vía y del transportista, implicados en la producción del MU, fue en el lugar del MU por una parte directa – oral
 
-
 ## Página 22
+
 
 (maquinista + jefe de tren), y por otra mediante medios de comunicación (jefe de tren + despachador DOZ y despachador DOZ + maquinista).
 Como primera comunicación verificable en relación con el MU puede considerarse la notificación de llamas que salían del bogí trasero del HDV, realizada por el jefe de tren del R 766 al despachador DOZ de Plzeň por teléfono móvil a las 22:29 h. La comunicación entre el jefe de tren, el despachador y el maquinista queda documentada mediante el dispositivo registrador
@@ -622,6 +696,7 @@ La disposición del equipamiento del puesto de mando y del vehículo no guardó 
 
 ## Página 23
 
+
 ### 3.7 Incidentes anteriores de carácter similar
 En respuesta a la solicitud de la Inspección Ferroviaria de fecha 30. 10. 2008, ref. 4-233/2008/DI, el explotador de la vía, SŽDC, s. o., a través del Servicio de Bomberos y Rescate, en el documento ref. 2810/08-HZS/ de fecha 14. 11. 2008, presentó un resumen de los incendios de locomotoras de la serie 242 durante un período de 5 años:
 Desde el año 2004 hasta el año 2008 (a fecha 14. 11. 2008) se produjeron 29 incendios en locomotoras de la serie 242.
@@ -639,22 +714,22 @@ El lugar del incidente se encuentra en el ámbito RCP Plzeň, ámbito de la est.
 Durante la circulación del tren R 766, antes de la est. Pňovany, los agentes de la PČR, que acompañaban el tren, observaron llamas procedentes del bogie de la locomotora. Comunicaron este hecho al jefe de tren de pasajeros, quien llamó por teléfono móvil al despachador de la línea DOZ Plzeň – Cheb. El despachador DOZ, mediante la estación de radio TRS, ordenó al maquinista la parada inmediata del tren debido a un incendio en la locomotora. Tras la parada del tren en el km 374,100, el maquinista, en colaboración con el jefe de tren y los agentes de la PČR, comenzó a extinguir el incendio; sin embargo, no lograron localizarlo. El incendio se propagó progresivamente también al primer coche de viajeros tras la locomotora. Por motivos de seguridad, se trasladó a unos 20 pasajeros al último coche de viajeros.
 En la inspección colegiada, celebrada el día 06. 08. 2008 en el DKV Plzeň, se señaló como foco del incendio el espacio bajo la caja de la locomotora en la parte izquierda desde la perspectiva del puesto de conducción 2 calcinado. Este espacio presentaba trazas de combustión con llama. En este espacio se encuentra el cuadro de bornes intermedio de la TM 4, compuesto por cuatro bornes, una base de madera, una tapa y cuatro conductores. La unión de los bornes con los conductores se realizó mediante soldadura con estaño de plata. Al desmontar el cuadro de bornes se constató que se había producido el aflojamiento del conductor de fuerza de la TM y, como consecuencia, la formación de un arco eléctrico entre el conductor y el borne. Al producirse el arco eléctrico, las temperaturas pueden alcanzar valores de hasta 4 000 ºC. Esta temperatura es suficiente como energía de ignición para la combustión de suciedades y componentes combustibles de la locomotora.
 
-
 ## Página 24
 
-La Inspección Ferroviaria no es el órgano de investigación en materia de evaluación de la producción de incendios ni de protección contra incendios en general; se adhiere a esta evaluación técnica y en el procedimiento posterior parte de la misma.
-En el incidente no se produjeron daños a la salud de las personas implicadas ni daños al medio ambiente. Se produjeron daños en la locomotora, en el primer coche de viajeros acoplado tras la locomotora y en instalaciones de infraestructura.
+La Inspección Ferroviaria no es el organismo de investigación en materia de evaluación del origen de los incendios ni de protección contra incendios en general; se adhiere a esta evaluación técnica y en el procedimiento posterior parte de la misma.
+En el accidente no se produjeron daños a la salud de las personas implicadas ni daños al medio ambiente. Se produjeron daños en la locomotora, en el primer vagón de viajeros acoplado tras la locomotora y en instalaciones de la infraestructura.
 ### 4.2 Análisis
-### 4.2.1 Evaluación de los hechos constatados según el punto 3 y exposición de las conclusiones sobre la causa del incidente y la actuación de los servicios de rescate
-El manual de mantenimiento emitido por el fabricante Škoda Plzeň establece la norma de recorrido kilométrico para la realización de la inspección periódica pequeña M 17 000 – 22 000 km, para la realización de la inspección periódica grande V 119 000 – 154 000 km, para la realización de la reparación media reducida SR (según el reglamento interno de ČD V 25, reparación periódica de ajuste EVY) 238 000 – 308 000 km, para la realización de la reparación media S (según el reglamento interno de ČD V 25, reparación periódica principal EH) 476 000 – 616 000 km y para la realización de la reparación general G 1 904 000 – 2 464 000 km.
-### Los procedimientos tecnológicos unificados del explotador contenidos en el reglamento interno de ČD V 25 en el anexo n.º 1 establecen la norma de recorrido kilométrico para la inspección periódica EM 17 000 – 26 000 km, para la inspección periódica EV 180 000 km, para la reparación periódica EVY 550 000 km, para la reparación periódica EH 1 100 000 km y para la reparación periódica EG no se establece en el reglamento norma de recorrido kilométrico.
-En respuesta a la solicitud de la Inspección Ferroviaria de fecha 20. 10. 2008, ref. 4-219/2008/DI, el explotador en el documento ref. 2174/2008-O 12/2 de fecha 07. 11. 2008, indicó:
-«La obligación de cumplir los recorridos kilométricos para la realización del mantenimiento periódico de los vehículos establecidos por el fabricante de los vehículos forma parte de la determinación de las Especificaciones Técnicas de Interoperabilidad (TSI) para vehículos convencionales, que aún no han entrado en vigor. Hasta esa fecha, la necesidad de cumplir los recorridos kilométricos establecidos por el fabricante de los vehículos para el mantenimiento periódico no está regulada legislativamente. Por este motivo, el explotador, el día 01. 10. 2000, en base a sus experiencias con la explotación y el mantenimiento de vehículos de esta serie, estableció en su ámbito de competencia los recorridos kilométricos para su realización, mediante el anexo n.º 1 del reglamento interno de ČD V25.»
-Los procedimientos tecnológicos unificados del explotador contenidos en el reglamento interno de ČD V 25 en el anexo n.º 1 establecen la norma de recorrido kilométrico para la inspección periódica EM 17 000 – 26 000 km.
-La medida del director del Departamento de Material Rodante «Medida del director del departamento de material rodante sobre el anexo n.º 1 del reglamento ČD V25», ref. 05-12/2-2845 de fecha 21. 10. 2005, aumenta las normas de recorridos km para la instalación adicional de ŽKV en la inspección de seguridad, el mantenimiento operativo y las inspecciones periódicas. Para la serie de locomotoras 242 se aumentó la norma de recorrido hasta la inspección periódica EM a 38 000 – 42 000 km.
-La medida del director del Departamento de Material Rodante «Realización de inspecciones Bp, O y M de series seleccionadas de material rodante», ref. 05-12/2-3492, de fecha 15. 12. 2005, autoriza, en el ámbito de competencia de los jefes superiores en sus DKV, a decidir en casos justificados sobre el desplazamiento del límite superior de km
+### 4.2.1 Evaluación de los hechos constatados de acuerdo con el punto 3 y exposición de las conclusiones sobre la causa del suceso excepcional y la actuación de los servicios de emergencia
+El manual de mantenimiento emitido por el fabricante Škoda Plzeň establece la norma de recorrido kilométrico para la realización de la revisión periódica pequeña M 17 000 – 22 000 km, para la realización de la revisión periódica grande V 119 000 – 154 000 km, para la realización de la reparación media reducida SR (según la norma interna de ČD V 25, reparación periódica de ajuste EVY) 238 000 – 308 000 km, para la realización de la reparación media S (según la norma interna de ČD V 25, reparación periódica principal EH) 476 000 – 616 000 km y para la realización de la reparación general G 1 904 000 – 2 464 000 km.
+### Los procedimientos tecnológicos uniformes del transportista contenidos en la norma interna de ČD V 25 en el anexo n.º 1 establecen la norma de recorrido kilométrico para la revisión periódica EM 17 000 – 26 000 km, para la revisión periódica EV 180 000 km, para la reparación periódica EVY 550 000 km, para la reparación periódica EH 1 100 000 km y para la reparación periódica EG no está establecida por la norma una norma de recorrido kilométrico.
+En respuesta a la Solicitud de la Inspección Ferroviaria de fecha 20. 10. 2008, ref. 4-219/2008/DI, el transportista en el documento ref. 2174/2008-O 12/2 de fecha 07. 11. 2008, indicó:
+«La obligación de cumplir los recorridos kilométricos para la realización del mantenimiento periódico de los vehículos establecidos por el fabricante de los vehículos es parte de la determinación de las Especificaciones Técnicas de Interoperabilidad (TSI) para vehículos convencionales, que aún no han entrado en vigor. Hasta esa fecha, la necesidad de cumplir los recorridos kilométricos establecidos por el fabricante de los vehículos para el mantenimiento periódico no está regulada legislativamente. Por este motivo, el operador, el 01. 10. 2000, sobre la base de sus experiencias con la explotación y el mantenimiento de los vehículos de esta serie, estableció dentro de su competencia los recorridos kilométricos para su realización, mediante el anexo n.º 1 de la norma interna de ČD V25.»
+Los procedimientos tecnológicos uniformes del transportista contenidos en la norma interna de ČD V 25 en el anexo n.º 1 establecen la norma de recorrido kilométrico para la revisión periódica EM 17 000 – 26 000 km.
+La medida del director del Departamento de Material Rodante «Medida del director del Departamento de Material Rodante sobre el anexo n.º 1 de la norma ČD V25», ref. 05-12/2-2845 de fecha 21. 10. 2005, aumenta las normas de recorrido kilométrico para la instalación adicional de ŽKV en la revisión de seguridad, el mantenimiento operativo y las revisiones periódicas. Para la serie de locomotoras 242 se aumentó la norma de recorrido hasta la revisión periódica EM a 38 000 – 42 000 km.
+La medida del director del Departamento de Material Rodante «Realización de revisiones Bp, O y M de series seleccionadas de material rodante», ref. 05-12/2-3492, de fecha 15. 12. 2005, permite a los jefes de estación, dentro de su competencia en sus DKV, decidir en casos justificados sobre el desplazamiento del límite superior de km
 
 ## Página 25
+
 
 recorridos hasta Bp, O y M revisiones hasta 1,5 veces su valor. Esta decisión no exime a DKV de la responsabilidad por el estado técnico de los vehículos.
 El jefe superior de DKV Plzeň, con efectividad desde el 15. 01. 2006, mediante Orden n.º 004/2006, de conformidad con la medida n.º de ref. 05.12/2-3492 de fecha 15. 12. 2005, estableció el límite superior de los km recorridos hasta las revisiones O y M en determinadas series de HV de forma diferente a los recorridos establecidos por la medida n.º de ref. 05-12/2-2845 de fecha 21. 10. 2005, sin que por esta medida DKV Plzeň quede exenta de la responsabilidad por el estado técnico de los vehículos con los km recorridos modificados según esta orden. Para
@@ -674,8 +749,8 @@ DKV Plzeň, de conformidad con el art. 22 de la norma interna ČD V 25, planteó
 A la Solicitud de la Inspección Ferroviaria de fecha 20. 10. 2008, n.º de ref. 4-219/2008/DI, el transportista en el documento n.º de ref. 2174/2008-O 12/2 de fecha 07. 11. 2008 indicó:
 «DKV Plzeň planteó en los años 2003 y 2005, de acuerdo con el art. 22 de la norma ČD V25, la solicitud de inclusión de la locomotora 242.264-0 en la reparación periódica. Las locomotoras de la serie 242 estaban en este periodo adscritas en dos DKV, a saber DKV Plzeň y DKV Brno. Tras la resumen de todas las solicitudes de inclusión de ŽKV en reparaciones periódicas de grados superiores, realizado en el Departamento de material rodante de la DG de ČD, y la posterior discusión de los representantes de O 12 con los representantes de DKV, se incluyeron en las reparaciones periódicas locomotoras de la serie 242 cuya explotación posterior sin la realización de la
 
-
 ## Página 26
+
 
 reparación estaba en contradicción con el § 34, apartado 1, letra a) del decreto n.º 173/1995 Sb. En la locomotora 242.264-0, la inclusión, en base a su estado técnico actual, de conformidad con todas las disposiciones de los arts. 20 y 22 de la norma ČD V25 y del § 34, apartado 1, letra a) del decreto n.º 173/1995 Sb., se aplazó. El resumen del número de locomotoras de tracción 20 incluidas en reparaciones periódicas de grados superiores en cada uno de los años se indica en la siguiente tabla. ...»
 El antiguo Ministerio Federal de Transporte, mediante carta del director del Departamento de gestión de locomotoras «Reconstrucción del suministro desde el armario al TM de las locomotoras eléctricas de la serie S 489.0 – reconstrucción n.º 7024», n.º de ref. 13 308/77-12 de fecha 31. 05. 1977, ordenó la realización de la reconstrucción (eliminación) del bornier intermedio del TM de las locomotoras eléctricas de las series 230 (S 489.0). Como motivo indicó: «El bornier del TM en las locomotoras eléctricas de la serie S 489.0 es una causa frecuente de cambio del estado de aislamiento del cableado. La causa radica en la contaminación del bornier por polvo y virutas metálicas del cojinete y, en base a ello, se produce un cortacircuito en el bornier y, con ello, la incapacidad de las locomotoras. ...»
@@ -689,6 +764,7 @@ A la Solicitud de la Inspección Ferroviaria de fecha 20. 10. 2008, n.º de ref.
 «La propensión al incendio de los ŽKV se evalúa con una periodicidad semestral, adoptándose las medidas según sea necesario. La modificación aprobada del estado aprobado n.º 7024 consistente en la eliminación del bornier intermedio del motor de tracción se realiza siempre en caso de reparación periódica en un transportista externo, o bien en la sociedad filial DPOV, a. s. La locomotora 242.264-0 tuvo la última reparación periódica EVy realizada en el plazo del 6. 9. 1999 – 5. 11. 1999. Dado que esta reparación se realizó en DKV Plzeň, la modificación aprobada del estado aprobado n.º 7024 no se llevó a cabo en el vehículo. Actualmente se está realizando la verificación del registro de la modificación realizada y del estado de los vehículos con el fin de adoptar las medidas posteriores conducentes a la máxima aceleración de la realización de la reconstrucción en los vehículos restantes.»
 
 ## Página 27
+
 
 ### Reglamento de mantenimiento emitido por el fabricante Škoda Plzeň, en el Subgrupo 8.5 Cableado 
 ### con accesorios, 8.5.2. Cableado de circuitos de AT y MT indica:
@@ -743,10 +819,10 @@ material rodante ferroviario y, además, acreditó ante la autoridad administrat
 correspondiente – la Autoridad Ferroviaria – en la solicitud del Certificado del Transportista 
 (§ 34h apartado 3 letra d) de la Ley núm. 266/1994 Sb.), que había emitido normativas 
 internas para la explotación del transporte ferroviario, para la explotación del material 
-rodante ferroviario, 
-
+rodante ferroviario,
 
 ## Página 28
+
 
 para la explotación de instalaciones técnicas designadas, no cumplió sus disposiciones, ya que 
 no respetó el texto del art. 22 de la normativa interna de ČD V 25, es decir, que «al decidir 
@@ -793,37 +869,42 @@ material rodante ferroviario, sobre cuya base se emitió el Certificado del Tran
 ## Página 29
 
 ### 4.4 Hallazgos complementarios
-### 4.4.1 Deficiencias y omisiones detectadas durante la investigación de las causas y circunstancias del origen del suceso ferroviario, que sin embargo no son relevantes para las conclusiones sobre las causas
-Las deficiencias y omisiones durante la investigación de las causas y circunstancias del origen del suceso ferroviario, que sin embargo no son relevantes para las conclusiones sobre las causas, no fueron detectadas por la Inspección Ferroviaria.
+### 4.4.1 Deficiencias y omisiones detectadas durante la investigación de las causas y circunstancias del origen del suceso extraordinario, que sin embargo no son relevantes para las conclusiones sobre las causas
+Deficiencias y omisiones durante la investigación de las causas y circunstancias del origen del SE, que sin embargo no son relevantes para las conclusiones sobre las causas, no fueron detectadas por la Inspección Ferroviaria.
 ## 5 MEDIDAS ADOPTADAS
-### 5.1 Lista de medidas que ya se han tomado o adoptado como consecuencia del suceso ferroviario
-Las medidas relativas al suceso ferroviario en cuestión fueron adoptadas por el transportista ČD, a. s. y figuran en la "Evaluación de las causas y circunstancias del origen del suceso ferroviario – Accidente", ref. 70503/08-O18-RIBŽD-5, de fecha 12. 09. 2008. Se trata de las siguientes medidas:
-1. La causa y las circunstancias del origen del suceso ferroviario serán puestas en conocimiento de manera demostrable de todos los empleados de DKV Plzeň que participan en la explotación de vehículos ferroviarios de tracción de la serie 242, en un plazo hasta el 30. 09. 2008.
-2. DKV Plzeň realizará inspecciones visuales de los bornes intermedios de las locomotoras eléctricas para las que aún no se haya realizado el cambio aprobado del estado aprobado (en adelante ZSS) nº 7024, en un plazo hasta el 31. 10. 2008.
-3. Sobre la base de la medida del jefe de reparaciones de DKV Plzeň, se realizarán inspecciones detalladas de los bornes intermedios hasta la fecha de ejecución de la modificación conforme a la ZSS aprobada. Se realizarán mediante el amarre en las inspecciones periódicas de EM, en un plazo hasta la fecha de ejecución de la modificación conforme a la ZSS aprobada nº 7024.
+### 5.1 Lista de medidas que ya se han tomado o adoptado como consecuencia del suceso extraordinario
+Las medidas relativas al SE en cuestión fueron adoptadas por el transportista ČD, a. s., y se recogen en la «Evaluación de las causas y circunstancias del origen del suceso extraordinario – Accidente», ref. 70503/08-O18-RIBŽD-5, de fecha 12. 09. 2008. Se trata de las siguientes medidas:
+1. Las causas y circunstancias del origen del SE serán puestas en conocimiento de todos los empleados de DKV Plzeň que participan en la explotación de vehículos ferroviarios de tracción de la serie 242, en el plazo hasta el 30. 09. 2008.
+2. DKV Plzeň realizará inspecciones visuales de los entreplatinos de las locomotoras eléctricas para las que aún no se haya realizado el cambio aprobado del estado aprobado (en adelante ZSS) n.º 7024, en el plazo hasta el 31. 10. 2008.
+3. Sobre la base de la medida del responsable de reparaciones de DKV Plzeň, se realizarán inspecciones detalladas de los entreplatinos hasta la ejecución de la modificación conforme a la ZSS aprobada. Se realiza mediante atado durante las inspecciones periódicas de EM, en el plazo hasta la ejecución de la modificación conforme a la ZSS aprobada n.º 7024.
 DKV Plzeň es responsable del cumplimiento de todas las medidas adoptadas.
 ## 6 RECOMENDACIONES DE SEGURIDAD
-La Inspección Ferroviaria, como autoridad administrativa competente en la materia según lo dispuesto en el § 53b apartado 5 de la Ley nº 266/1994 Sb., de ferrocarriles, en su redacción vigente, sobre la base del resultado de la investigación de las causas y circunstancias del origen del suceso ferroviario, recomienda:
+La Inspección Ferroviaria, como autoridad administrativa competente en la materia de acuerdo con lo dispuesto en el apartado 5 del § 53b de la Ley n.º 266/1994 Sb., de ferrocarriles, en su redacción vigente, sobre la base del resultado de la investigación de las causas y circunstancias del origen del suceso extraordinario, recomienda:
 A ČD, a. s., como transportista:
-adoptar medidas eficaces consistentes en la armonización de las normas internas y órdenes para la organización del mantenimiento de ŽKV con la legislación vigente (recomendaciones de los fabricantes de ŽKV) en interés de la explotación segura del transporte ferroviario;
+adoptar medidas eficaces consistentes en la armonización de las normas y órdenes internas para la organización del mantenimiento de los VFC con la legislación vigente (recomendaciones de los fabricantes de VFC) en interés de la explotación segura del transporte ferroviario;
 ●
-establecer medidas eficaces para evitar la tolerancia o la ordenación del incumplimiento del marco normativo.
-●
-Al Úřad Drážní, como organismo de seguridad y regulación para la explotación de ferrocarriles y del transporte ferroviario:
-adoptar sus propias medidas consistentes en verificar si el transportista cumple en todos los aspectos las condiciones de seguridad de la explotación del transporte ferroviario, no solo al presentar la solicitud para la expedición del Certificado de transportista, sino también tras las posibles modificaciones posteriores de los datos que presentó al solicitar la expedición del Certificado de transportista.
-●
-En Plzeň, a 18 de diciembre de 2008
-Ing. Klára Majdlová, firma
-Ing. Petr Mencl, firma
-Inspectora jefe
-Director
-Del Územní inspektorátu Plzeň
-Del Územní inspektorátu Plzeň
-
 
 ## Página 30
 
+establecer medidas eficaces que impidan el sufrimiento o la ordenación de infracciones
+●
+del marco normativo.
+
+Al Órgano Ferroviario, en su condición de autoridad de seguridad y regulación de la explotación de las infraestructuras ferroviarias y del transporte ferroviario:
+adoptar sus propias medidas consistentes en verificar si el operador cumple en todos
+●
+los aspectos las condiciones de seguridad de la explotación del transporte ferroviario, no solo al presentar la solicitud de expedición del Certificado de operador, sino también tras las posibles modificaciones posteriores de los datos que presentó al solicitar la expedición del Certificado de operador.
+
+En Plzeň, a 18 de diciembre de 2008
+Ing. Klára Majdlová, s. f.
+Ing. Petr Mencl, s. f.
+inspectora jefe
+director
+De la Inspección Territorial de Plzeň
+De la Inspección Territorial de Plzeň
+
 ## Página 31
+
 
 ## 7 ANEXOS
 Foto 1: Vista del vehículo ferroviario de tracción tras el incendio

@@ -10,13 +10,14 @@ chars: 37128
 ratio_longitud: 1.10
 tokens_in: 14841
 tokens_out: 11105
-verificacion: revisar
-notas_cifras: ["bloque 2: cifras cortas: 7/81", "bloque 4: cifras cortas: 1/64"]
-avisos: ["bloque 4: marcadores de página: 5 vs 4"]
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 6: cifras cortas: 2/22", "página 8: cifras cortas: 1/10", "página 10: cifras cortas: 4/15"]
 ---
+
 ## Página 1
+
 
 Centro de Investigación
 de la Oficina Federal de Investigación de Accidentes Ferroviarios
@@ -32,17 +33,17 @@ Suceso peligroso en el tráfico ferroviario
 | Vía: | 1 |
 | Kilometraje: | 11 214 , |
 
-
 ## Página 2
+
 
 ## Publicado por: 
 Ministerio Federal de Transporte, Construcción y Desarrollo Urbano,
 Oficina Federal de Investigación de Accidentes Ferroviarios  
 Robert-Schuman-Platz 1 
-53175 Bonn 
-
+53175 Bonn
 
 ## Página 3
+
 
 # Índice: 
 ### Página 
@@ -99,10 +100,10 @@ Interpretación de las huellas del accidente ...................................
 ## 5 
 Evaluación y conclusiones ............................................................. 26 
 ## 6 
-Medidas adoptadas hasta la fecha ......................................................................... 27 
-
+Medidas adoptadas hasta la fecha ......................................................................... 27
 
 ## Página 4
+
 
 # Índice de ilustraciones: 
 Ilustr. 1: Fotografías en el lugar del accidente ..................................................................................... 7 
@@ -124,10 +125,10 @@ Ilustr. 13: Evolución de la marcha – plano de vías KSB, kilometraje Agilizac
 Ilustr. 14: Imagen de la mesa de mando de Berlín-Tegel al llegar la EUB .............................................. 23 
 Ilustr. 16: Fotografías en el lugar del accidente, canalización de cables destruida ............................................. 24 
 Ilustr. 17: Imagen procedente de la sala de relés de Berlín-Tegel .......................................................... 25 
-Ilustr. 18: Fotografías en el lugar del accidente, agilización 74 .............................................................. 26 
-
+Ilustr. 18: Fotografías en el lugar del accidente, agilización 74 .............................................................. 26
 
 ## Página 5
+
 
 # Índice de abreviaturas 
 AEG 
@@ -171,6 +172,7 @@ Sistema de gestión de la seguridad
 
 ## Página 6
 
+
 # 1 
 # Resumen 
 ## 1.1 Breve descripción del suceso 
@@ -180,16 +182,16 @@ Los dos vagones situados en el centro del tren descarrilaron en el punto kilomé
 Seis personas resultaron ligeramente heridas a causa del descarrilamiento y fueron ingresadas en hospitales para su posterior examen. 
 De los seis vagones que componían el tren, descarrilaron los vagones 3 y 4 y se dañó la superestructura en la zona del descarrilamiento. 
 ## 1.3 Causas 
-La causa del descarrilamiento en la vía 1 de la estación de Tegel fue el cambio de posición del punto de cruce 74 bajo el tren de cercanías S25068. 
-
+La causa del descarrilamiento en la vía 1 de la estación de Tegel fue el cambio de posición del punto de cruce 74 bajo el tren de cercanías S25068.
 
 ## Página 7
 
-Fig. 1: Fotografías en el lugar del accidente 
-Fuente: S-Bahn Berlin 
 
+Fig. 1: Fotografías en el lugar del accidente 
+Fuente: S-Bahn Berlin
 
 ## Página 8
+
 
 # 2 
 # Preámbulo 
@@ -200,10 +202,10 @@ La dirección del Organismo Federal de Investigación de Accidentes Ferroviarios
 Más detalles al respecto se pueden consultar en Internet en >> www.eisenbahn-unfalluntersuchung.de <<. 
 ## 2.2 Objetivo de la investigación de accidentes ferroviarios 
 El objetivo y la finalidad de las investigaciones es aclarar las causas de los sucesos peligrosos y derivar de ello indicaciones para la mejora de la seguridad. Las investigaciones del EUB no tienen como objetivo determinar la existencia de culpa ni aclarar cuestiones de responsabilidad u otras reclamaciones de derecho civil, y se llevan a cabo de forma independiente de cualquier investigación judicial. 
-La investigación comprende la recopilación y evaluación de información, la elaboración de conclusiones, incluida la determinación de las causas, y, en su caso, la emisión de recomendaciones de seguridad. Las propuestas del organismo de investigación para la prevención de accidentes y la mejora de la seguridad en el tráfico ferroviario se comunican a la autoridad de seguridad y, si fuera necesario, a otros órganos y autoridades o a otros Estados miembros de la UE en forma de recomendaciones de seguridad. 
-
+La investigación comprende la recopilación y evaluación de información, la elaboración de conclusiones, incluida la determinación de las causas, y, en su caso, la emisión de recomendaciones de seguridad. Las propuestas del organismo de investigación para la prevención de accidentes y la mejora de la seguridad en el tráfico ferroviario se comunican a la autoridad de seguridad y, si fuera necesario, a otros órganos y autoridades o a otros Estados miembros de la UE en forma de recomendaciones de seguridad.
 
 ## Página 9
+
 
 ## 2.3 Colaboradores 
 En el marco de la determinación de los hechos y la investigación de las causas, se involucró a las siguientes entidades externas: 
@@ -219,10 +221,10 @@ Inspección Federal de Policía de Berlín, Técnica Criminalística / Servicio 
 ## 3.1 Desarrollo 
 Debido a una caída de rayo el día anterior al suceso, se produjeron perturbaciones en el sistema de liberación de vía y en el sistema de protección de pasos a nivel en la calle Gorkistraße, por lo que el tren S 25068 (línea S 25) salió de la vía 1 de la estación de Berlín-Tegel hacia la estación de Hennigsdorf, bajo la señal Zs 1 y con la orden 8 para la protección del paso a nivel Po 5. Tras circular por el punto de cruce 74 con los dos primeros vagones, el punto de cruce 74 cambió completamente a la posición izquierda bajo el tren en movimiento, desviando los vehículos siguientes hacia la vía muerta del Ferrocarril Niederbarnim. Como consecuencia, descarrilaron el 3.º y el 4.º vagón del tren con todas sus ruedas, y el 3.º vagón quedó en posición inclinada. El maquinista emitió una llamada de emergencia. 
 Fig. 2: Plano general de Berlín-Tegel,  
-Fuente: Atlas de líneas de S-Bahn Berlin GmbH, editado por EUB 
-
+Fuente: Atlas de líneas de S-Bahn Berlin GmbH, editado por EUB
 
 ## Página 10
+
 
 ## 3.2 Víctimas mortales, heridos y daños materiales 
 No se registraron víctimas mortales. Seis viajeros resultaron ligeramente heridos a causa del descarrilamiento. 
@@ -242,10 +244,10 @@ A pesar de la solicitud de la Policía Federal, ninguno de los dos empleados fer
 En sus posteriores declaraciones ante el «Representante Permanente del Director de Operaciones Ferroviarias» (EBL), ambos siguieron sin hacer declaraciones sobre el desarrollo del suceso y sus actuaciones operativas inmediatas. 
 El maquinista del tren de cercanías S-Bahn 25068 hizo las siguientes declaraciones, en esencia, sobre el desarrollo de los hechos en su declaración: 
 La jefa de tráfico en periodo de formación le habría llamado para dictarle la orden. 
-Luego tuvo que volver atrás debido a una persona incapacitada. Después partió hacia la señal Zs 1, se detuvo antes del paso a nivel. Dijo haber visto a dos compañeros en la vía. Entonces hubo «tambaleos» al pasar por el punto de cruce 74 y en el punto de cruce 76 se levantó el tercer riel. 
-
+Luego tuvo que volver atrás debido a una persona incapacitada. Después partió hacia la señal Zs 1, se detuvo antes del paso a nivel. Dijo haber visto a dos compañeros en la vía. Entonces hubo «tambaleos» al pasar por el punto de cruce 74 y en el punto de cruce 76 se levantó el tercer riel.
 
 ## Página 11
+
 
 ## 4.2 Gestión de emergencias 
 Según el § 4 apartado 3 de la Ley General de Ferrocarriles (AEG), las empresas ferroviarias tienen la obligación de colaborar en las medidas de protección contra incendios y de asistencia técnica. En un acuerdo entre los ministerios del Interior de los Länder y la DB AG se llegó a un entendimiento sobre el procedimiento. Para DB Netz AG son aplicables las correspondientes leyes de protección contra incendios y catástrofes de los Länder. La gestión de emergencias de DB AG se describe y regula más detalladamente en la Directriz (Ril) 123. 
@@ -259,6 +261,7 @@ Fuente: Directriz local Berlín-Tegel - Anexo 1, editado por EUB
 
 ## Página 12
 
+
 Fig. 4: Extracto de la Directiva Local Berlín-Tegel, Disposiciones locales relativas a la Ril 408.01 
 Fuente: S-Bahn Berlin GmbH, elaborado por EUB 
 ## 4.4 Investigación de la tecnología de mando y seguridad 
@@ -268,10 +271,10 @@ En la estación de Berlín-Tegel se encuentra un sistema de conmutación de vía
 El sistema de conmutación de vías y las instalaciones de LST de la estación de Berlín Tegel fueron construidos en 1987. Existe un sistema de detección de vía libre continuo. La detección de vía libre de la estación se realiza mediante contadores de ejes (AZ S 70).  
 Además, como bloqueo de línea se dispone de un bloqueo automático – SB60 –. Se trata de una ejecución estándar del tipo de bloqueo por contador de ejes.  
 Todos los puntos de aguja están equipados con accionamientos eléctricos de puntos de aguja S700. 
-Las señales existentes en la estación de Tegel son señales luminosas, tanto como señales principales como de maniobra.  
-
+Las señales existentes en la estación de Tegel son señales luminosas, tanto como señales principales como de maniobra.
 
 ## Página 13
+
 
 En la estación se dispone de control de trenes, en forma de PZB para los trenes de Deutsche Bahn AG, y de topes de línea mecánicos en todas las señales principales y de maniobra para los trenes de S-Bahn de Berlín. 
 En 1998 se llevó a cabo una ampliación de la instalación en el marco de la ampliación de la línea de S-Bahn hacia Hennigsdorf. Los puntos de conteo del tipo ZP 70 existentes hasta la ampliación fueron sustituidos por puntos de conteo del tipo ZP 43 o instalados en la «nueva cabeza norte» (dir. Hennigsdorf). 
@@ -281,10 +284,10 @@ El 20.08.2012, a las 16.00, se produjo una avería en las instalaciones de segur
 El coordinador de red de S-Bahn comunicó a las 16.13 horas a la autoridad responsable de la gestión de averías de DB Netz AG (EVzS) que, tras la caída de un rayo, todas las secciones de detección de vía libre en la estación de Tegel en dirección a Heiligensee estaban averiadas. Esta comunicación fue registrada por la jefa de maniobras en el libro de trabajo y de averías del sistema de conmutación de vías Tegel a las 16.20 horas con el número de registro 49. 
 Todas las secciones de detección de vía libre al norte de las vías de andén estaban averiadas. Todas las vías, incluidas las vías libres, se iluminaban en rojo y, por tanto, se indicaban como «ocupadas».  
 A las 17.10 horas, un empleado de DB Netz AG (especialista en LST) registró en el libro de trabajo del sistema de conmutación de vías Tgl: «Reparación de la señal Sig Vt, sección de puntos de aguja 72, 73, 74, 75, 76, 1 VI, StHI, «R» sí vía Tgl-Hls-Tgl, firma». El conocimiento por parte del jefe de maniobras se produjo a las 17.12 horas. 
-Los procedimientos de actuación prescritos para estas situaciones están establecidos en las «Disposiciones locales relativas a la Ril. 408.06 – Trenes en circulación; Irregularidades en instalaciones técnicas» en la página 25, bajo la inspección de la vía en caso de avería o trabajos en el sistema de detección de vía libre. 
-
+Los procedimientos de actuación prescritos para estas situaciones están establecidos en las «Disposiciones locales relativas a la Ril. 408.06 – Trenes en circulación; Irregularidades en instalaciones técnicas» en la página 25, bajo la inspección de la vía en caso de avería o trabajos en el sistema de detección de vía libre.
 
 ## Página 14
+
 
 Mediante la anotación en el libro de trabajo se estableció el procedimiento y se dio a conocer; se ha producido el conocimiento por parte del jefe de maniobras de servicio. Por lo tanto, era aplicable la comprobación de liberación temporal para la vía de línea Berlín-Tegel – Berlín-Heiligensee (BTG-BHLS), que debía documentarse mediante la comunicación de retorno de los trenes. Las comunicaciones de retorno quedaron registradas en el libro de comunicación de trenes. La reparación de la avería no estaba aún completada en el momento del accidente.  
 El 21.08.2012, aproximadamente a las 05:15 horas, se produjo una avería en la instalación de seguridad del paso a nivel Gorkistraße (Po 5) de la estación de Tegel (las barreras permanecieron cerradas tras el paso de un tren), que fue comunicada por el jefe de maniobras a la EVzS y registrada en el libro de trabajo y de averías. La reparación de la avería comenzó el 21.08.2013 a las 06.10 horas, lo cual fue comunicado a la jefa de maniobras. La comunicación queda registrada en el libro de trabajo y de averías. La reparación de la avería tampoco estaba completada en el momento del accidente.  
@@ -299,6 +302,7 @@ En el sistema de conmutación de vías de Berlín-Tegel se encontraban, en el mo
 
 ## Página 15
 
+
 Jefe de tráfico, asignado al turno de mañana (06.00 a 14.00 horas) y una jefa de tráfico en periodo de formación, a quien se le había encomendado el turno de formación el día anterior.
 Al jefe de tráfico del puesto de señales de Berlín-Tegel se le facilita el reglamento necesario para la ejecución correcta del trabajo en el puesto de señales. Esto incluye especialmente la Directiva 408.01-09 (Circulación de trenes y maniobras), así como las Directivas Locales correspondientes para el personal de las instalaciones de explotación, que contienen disposiciones adicionales en relación con la estación de Berlín-Tegel. Estas se encontraban disponibles en el puesto de señales y se actualizaban mediante avisos cuando era necesario.
 Los siguientes subcapítulos contienen información sobre cualificación, aptitud y supervisión, así como sobre las operaciones relacionadas con el descarrilamiento del tren.
@@ -311,6 +315,7 @@ El turno de formación debería servir para mantener el derecho a ejercer el ser
 Como consecuencia de las averías en las instalaciones de señalización del puesto de señales, para el manejo de las instalaciones se aplicaban las disposiciones de la Directiva Local para el caso de avería. Para el tren S 25068 en cuestión y para los trenes anteriores desde que se produjo la avería a través de la vía 1, debido a la avería en la instalación de detección de ocupación de vías, se debía entrar y salir mediante la señal de sustitución Zs 1.
 
 ## Página 16
+
 
 Además, para el paso a nivel averiado de Gorkistraße era necesario el permiso 8.
 El manejo de las señales de sustitución, así como la disolución de las vías de circulación a través de esta zona como requisito previo para el cambio de las agujas, deben estar documentados. Sin embargo, una verificación tras el accidente al llegar no mostró coincidencia con la documentación. Por lo tanto, no fue posible asignar claramente las operaciones de manejo a las circulaciones de trenes. A partir de los datos de horarios disponibles y de otras documentaciones, el responsable correspondiente de S-Bahn Berlin GmbH debía elaborar, en coordinación con la Policía Federal, un procedimiento adecuado.
@@ -327,20 +332,27 @@ Fuente: Inspección de la Policía Federal Berlín Hbf, editado por EUB
 
 ## Página 17
 
-Fig. 7: Extracto del libro de llamadas telefónicas de Berlín-Tegel, prueba de los permisos concedidos
-Fuente: Inspección de la Policía Federal Berlín Hbf, editado por EUB
-## 4.5.1.3 Maquinista del tren S 25068
-Las operaciones del maquinista se documentan mediante la evaluación del recorrido del tren.
-## 4.6 Investigación de vehículos
-## 4.6.1 Evaluación del recorrido del tren
-El tren de S-Bahn descarrilado, tren n.º S 25068, de la línea S 25, era un vehículo de la serie 481, n.º de vehículo 481039, equipado con radio de tren analógica. Según la Parte B del cuaderno de velocidades, Directivas Locales relativas a la Dir. 408.01 – 09 para el personal de trenes (VzG S-Bahn), la velocidad máxima permitida en la zona de la parada de Tegel (hasta el km 11,35 detrás de la aguja 76) es de 80 km/h. Dado que en el momento del descarrilamiento se debía circular con la señal de sustitución Zs 1, la velocidad máxima permitida según el libro de señales en la zona era de 40 km/h hasta inmediatamente después de la zona de agujas.
+Se había conmutado el desvío 74. Para ello, la ruta de tren ya debía haberse liberado hasta el desvío 74 inclusive. Esta es la condición previa que debe cumplirse para posibilitar la maniobra de conmutación en el desvío 74.
+Fig. 6: Extracto del libro de registro de trenes de Berlin-Tegel
+Fuente: Inspección Federal de Policía de la estación central de Berlín, elaborado por EUB
 
 ## Página 18
 
-Fig. 8: Extracto de la Parte B del cuaderno de velocidades, Directivas Locales relativas a la Dir. 408.01 – 09 para el personal de trenes
+Fig. 7: Extracto del libro de teléfonos de Berlín-Tegel, acreditación de las órdenes emitidas 
+Fuente: Inspección Federal de Policía de Berlín Hbf, elaborado por EUB 
+## 4.5.1.3 Maquinista S 25068 
+Las actuaciones operativas del maquinista quedan documentadas mediante la evaluación del recorrido del tren. 
+## 4.6 Examen de los vehículos 
+## 4.6.1 Evaluación del recorrido del tren 
+El tren de cercanías descarrilado, tren n.º S 25068, de la línea S 25, se trataba de un vehículo de la serie 481, n.º de vehículo 481039, equipado con radio de tren analógica. Conforme a la Parte B, Libro de velocidades, Directrices locales para la Ril 408.01 – 09 para el personal de tren (VzG S-Bahn), la velocidad máxima autorizada en la zona de la parada de Tegel (hasta km 11,35 detrás del desvío 76) es de 80 km/h. Dado que en el momento del descarrilamiento había que circular con señal de sustitución Zs 1, la velocidad máxima permitida en dicha zona era de 40 km/h hasta inmediatamente detrás de la zona de desvíos.
+
+## Página 19
+
+Fig. 8: Extracto del Libro de Velocidades de la Parte B, Directrices locales para la Ril 408.01 – 09 para el personal de tren
 Fuente: S-Bahn GmbH
 
 ## Página 20
+
 
 Desvío 74
 Aparto
@@ -352,6 +364,7 @@ La evaluación de la evolución de la marcha se basa en la kilometraje reglament
 
 ## Página 21
 
+
 Fig. 10: Evolución de la marcha – Plano de vías KSB, N.º de vehículo: 481039;
 Fuente: S-Bahn GmbH
 Fig. 11: Evolución de la marcha – Plano de vías KSB, Kilometraje Señal S km 10,941;
@@ -359,12 +372,14 @@ Fuente: S-Bahn GmbH
 
 ## Página 22
 
+
 Fig. 12: Evolución de la marcha – Extracto del Atlas de la línea, N.º de vehículo: 481039;
 Fuente: S-Bahn GmbH
 Fig. 13: Evolución de la marcha – Plano de vías KSB, Kilometraje Desvío 74 km 11,224;
 Fuente: S-Bahn GmbH
 
 ## Página 23
+
 
 Las imprecisiones en el registro pueden haber ocurrido después del descarrilamiento de la unidad de vehículos con el N.º: 481355, que se encontraba en el centro del tren, debido a un "patineo" de los ejes de tracción de la unidad de vehículos líder, ya que, como consecuencia del descarrilamiento, la unidad de vehículos central se colocó transversalmente a la vía y, por tanto, ofreció una resistencia considerable en el transcurso posterior.
 ## 4.7 Interpretación de las huellas del accidente
@@ -374,6 +389,7 @@ En la mesa de control, la vía 1 estaba iluminada en rojo. Las señales de bloqu
 Fig. 14: Imagen de la mesa de control de Berlín-Tegel al llegar EUB
 
 ## Página 24
+
 
 Fig. 15: Fotografías en la escena del accidente, canalización de cables destruida
 Fuente: BPol
@@ -386,6 +402,7 @@ En el libro de avisos de trenes, en la columna Llegada/Salida (Anulación) para 
 
 ## Página 25
 
+
 
 En el libro de trabajo y perturbaciones falta la toma de conocimiento por parte del Fdl del turno de madrugada de la perturbación n.º 49 (rayo) y de la eliminación continua de la misma.
 La investigación se continuó en la sala de relés del centro de maniobras. Aquí y en el paso a nivel se trabajaba en la eliminación de la perturbación.
@@ -394,6 +411,7 @@ Fig. 16: Fotografía desde la sala de relés de Berlín-Tegel
 Dado que una intervención desde la sala de relés en el servicio en curso era totalmente posible, era importante determinar qué instalaciones estaban afectadas directamente y si existía la necesidad de incluir otros grupos de seguridad de circulación distintos a los grupos afectados. Según la anotación en el libro de trabajo, únicamente se habían abierto las cubiertas de los contadores de ejes y no había indicios ni rastros visibles (en forma de intervenciones visibles
 
 ## Página 26
+
 
 mediante herramientas/ayudas) en otros grupos de relés, en particular del desvío 74. Además, el director de distrito LST explicó por escrito que, en el momento del descarrilamiento, no había nadie en la sala de relés y que esta estaba cerrada.
 Se demostró de manera comprensible que era posible establecer la vía hasta la fijación de la misma y que únicamente la perturbación del paso a nivel impedía la posición de señal de circulación.
@@ -406,6 +424,7 @@ El desvío 74 fue atravesado por la punta y conmutado bajo el tren en movimiento
 Dado que la circulación del tren no se realizó bajo señalización, sino bajo señalización sustitutoria – Zs1 –, debido a la perturbación de la instalación de liberación de vía, era necesaria la participación del Fdl para la disolución del tren. La situación encontrada, en particular la iluminación en la mesa de control, lo demuestran. Se trata de maniobras de teclas obligatorias de registro que no fueron documentadas.
 
 ## Página 27
+
 
 El procedimiento en caso de avería está establecido en la directriz local, la cual se encontraba disponible con todas las correcciones vigentes.
 Dado que la comprobación visual directa de la liberación de la vía 1 y de los puntos de aguja para la ruta de circulación establecida para el tren S 25068 no era posible, debe esperarse la confirmación del tren para llevar a cabo la comprobación indirecta de la ruta.

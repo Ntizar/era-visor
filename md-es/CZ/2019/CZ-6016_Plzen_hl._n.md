@@ -10,13 +10,14 @@ chars: 118515
 ratio_longitud: 1.29
 tokens_in: 62602
 tokens_out: 46832
-verificacion: revisar
-notas_cifras: ["bloque 3: cifras cortas: 5/134", "bloque 4: original bilingüe: se compara contra el idioma principal (CS)", "bloque 6: original bilingüe: se compara contra el idioma principal (CS)", "bloque 7: original bilingüe: se compara contra el idioma principal (CS)"]
-avisos: ["bloque 4: ratio 1.67", "bloque 7: ratio 1.71"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 6: original bilingüe: se compara contra el idioma principal (EN)", "página 7: original bilingüe: se compara contra el idioma principal (PT)", "página 17: cifras cortas: 2/21", "página 18: cifras cortas: 3/23", "página 21: original bilingüe: se compara contra el idioma principal (CS)", "página 22: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -41,13 +42,13 @@ IČ:   75009561
 mail@dicr.cz
 tel.: +420 736 521 003
 
-
 ## Página 2
+
 
 El presente informe final es público y todos los hechos en él expuestos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ### 1 RESUMEN
         Fuente: DI
@@ -75,8 +76,8 @@ al circular según
 •
 las condiciones de visibilidad.
 
-
 ## Página 4
+
 
 Factores contribuyentes:
 puesta en movimiento no autorizada de la maniobra de maniobras sin la instrucción
@@ -103,8 +104,8 @@ Recomendaciones de seguridad:
 no fue emitida por la Inspección Ferroviaria.
 •
 
-
 ## Página 5
+
 
 ### SUMMARY
 Grade: 
@@ -151,8 +152,8 @@ none.
 Recommendation:
 none.
 
-
 ## Página 6
+
 
 # Índice
 1 RESUMEN........................................................................................................................3
@@ -212,6 +213,7 @@ automática
 
 ## Página 7
 
+
 registro de datos.....................................................................................................31
 3.4.2 Componentes de la vía....................................................................................32
 3.4.3 Dispositivos de comunicación e información.........................................................32
@@ -249,8 +251,8 @@ sobre las causas................................................................
 .........................................................................................................................................45
 6 RECOMENDACIONES DE SEGURIDAD.....................................................................................45
 
-
 ## Página 8
+
 
 ### Lista de siglas y símbolos utilizados
 CDP
@@ -321,8 +323,8 @@ Informe final sobre los resultados de la investigación del suceso ferroviario
 žst.
 estación de ferrocarril
 
-
 ## Página 9
+
 
 ### Lista de siglas de los reglamentos legales, normas y reglamentos internos
 utilizados
@@ -373,8 +375,8 @@ en el momento de producirse el suceso ferroviario
 SŽDC (ČD) Z1
 reglamento interno del gestor de la infraestructura SŽDC, «SŽDC (ČD)
 
-
 ## Página 10
+
 
 Z1 Reglamento para la operación de las instalaciones de seguridad de estación y de vía
 |  |  |  | Z1 Reglamento para la operación de las instalaciones de seguridad de estación y de vía |  |  |  |
@@ -395,8 +397,8 @@ Z1 Reglamento para la operación de las instalaciones de seguridad de estación 
 |  |  |  | 60796/97 -O18 con efectos desde el 22 4 1998 en la redacción , . . , |  |  |  |
 |  |  |  | vigente en el momento de producirse el suceso ferroviario |  |  |  |
 
-
 ## Página 11
+
 
 ### 2 DATOS RELATIVOS AL SUCESO FERROVIARIO
 ### 2.1 Suceso ferroviario
@@ -419,8 +421,8 @@ Fig. 1: Vista del frente del tren Služ 55862 tras la producción del SU        
 del sistema integrado de emergencias y del servicio de emergencia
 El 8. 7. 2019 a las 7.00 h, durante la maniobra de una unidad de maniobras, compuesta por una locomotora circulando de forma independiente, por la SK núm. 921, se produjo una colisión con el último TDV del tren Služ 55862, detenido delante del nivel de la señal principal (de vía) Lc921 (en adelante, señal de vía Lc921) de la est. Plzeň hlavní nádraží, distrito de la estación de viajeros.
 
-
 ## Página 12
+
 
 ### Señal Lc921
 ## Lugar del SU
@@ -461,6 +463,7 @@ del examen de la cabina del maquinista (SHV 484.009-4) se constató:
 
 ## Página 13
 
+
 tubería con un valor de 5 bares y en el depósito de aire principal con un valor de 7,8 bares;
 ➢la palanca de dirección estaba en la posición «hacia delante»;
 ➢la manija del conmutador de maniobras estaba en la posición «0»;
@@ -485,8 +488,8 @@ DV n.º 83 54 4623 494-9:
 ➢el DV tenía dañados ambos topes traseros;
 ➢el extremo trasero del DV se encontraba en el pk 348,433;
 
-
 ## Página 14
+
 
 Fig. n.º 4: Eje 1 descarrilado del bogie delantero  Fuente: DI
 Fig. n.º 5: Eje 1 descarrilado del bogie trasero    Fuente: DI
@@ -503,8 +506,8 @@ correctamente señalizado con la señal «Fin de tren», es decir, con dos placa
 rectangulares terminales de ejecución viaflex, que eran claramente visibles,
 sin daños y sin suciedad.
 
-
 ## Página 15
+
 
 Fig. n.º 6: Bogie delantero «a» descarrilado
        Fuente: DI
@@ -529,8 +532,8 @@ sentido de marcha del grupo de maniobras), donde se encontraba ubicado el
 velocímetro indicador mecánico Laboratorní přístroje Praha tipo 662A504,
 n.º de fab. 88206;
 
-
 ## Página 16
+
 
 tras la inspección del puesto principal del conductor se constató:
 •
@@ -577,8 +580,8 @@ maniobras desde la SK n.º 204 hasta el pk 348,415 en la SK n.º 921, es decir, 
 lugar de origen de la MU, no se detectaron signos visibles de daños en la
 superestructura ferroviaria;
 
-
 ## Página 17
+
 
 como consecuencia del descarrilamiento de los DV, se produjeron daños en 10 traviesas de hormigón.
 •
@@ -613,8 +616,8 @@ MU comunicada al COP del DI:
 | Forma de comunicación: | telefónicamente . |
 | Comunicado por la persona autorizada en nombre de: | el explotador de la vía (SŽDC) y ambos transportistas (TSS |
 
-
 ## Página 18
+
 
 y ČD).
 Consentimiento del DI para la liberación de la vía:
@@ -641,8 +644,8 @@ conductor del tren Služ 55862, empleado de la TSS, centro de Starý Plzenec;
 •
 jefe de servicio del tren (en adelante, jefe de tren) del tren Služ 55862, empleado de la TSS,
 
-
 ## Página 19
+
 
 centro de Starý Plzenec.
 Transportista (ČD):
@@ -688,6 +691,7 @@ grupo de maniobras del transportista ČD;
 
 ## Página 20
 
+
 el tramo de maniobras estaba compuesto por una locomotora propia;
 •
 en el caso de MU, el material rodante dañado se resalta en amarillo.
@@ -705,51 +709,55 @@ La velocidad máxima permitida para los trenes en la SK n.º 204, 206 y 921, es 
 7.01 h el maquinista del tren Služ 55862 comunicó a través del SRD (TRS) la aparición de la MU
 •
 
-
 ## Página 21
 
-al jefe de estación panelista 1 de la est. Plzeň hlavní nádraží;
+al jefe de maniobras panelista 1 est. Plzeň hlavní nádraží;
+7.01 h el jefe de maniobras panelista 1 est. Plzeň hlavní nádraží recibió la notificación de la aparición de la MU por parte del
 •
-7.01 h el jefe de estación panelista 1 de la est. Plzeň hlavní nádraží recibió la comunicación de la aparición de la MU por parte del maquinista del tren Služ 55862 y la comunicó según el Ohlašovací rozvrh (cuadro de comunicaciones).
-La comunicación entre el maquinista del tren Služ 55862 y el jefe de estación panelista 1 de la est. Plzeň hlavní nádraží fue grabada.
-### 2.2.5 Trabajos realizados en el lugar y en sus alrededores
-En el lugar de la MU, inmediatamente antes de su aparición, no se estaban realizando por parte del propietario, del gestor de la vía ni de otras personas ninguna clase de trabajos de reparación o de mantenimiento. El tráfico en el lugar de la MU y sus alrededores se desarrollaba en régimen normal.
-### 2.2.6 Activación del plan para casos de incidente excepcional en la vía y procedimientos consecutivos
+maquinista del tren Služ 55862 y la comunicó conforme al Calendario de Comunicaciones.
+La comunicación entre el maquinista del tren Služ 55862 y el jefe de maniobras panelista 1 est. Plzeň hlavní nádraží fue registrada.
+### 2.2.5 Trabajos realizados en el lugar y en sus inmediaciones
+En el lugar de la MU no se estaban realizando, inmediatamente antes de su aparición, por parte del propietario, del gestor de la vía ni de otras personas, trabajos de reparación o de mantenimiento. La circulación en el lugar de la MU y sus alrededores se desarrollaba en régimen normal.
+### 2.2.6 Activación del plan para casos de incidente excepcional en la vía y procedimientos conexos
 7.01 h –
-comunicación de la aparición de la MU por el maquinista del tren Služ 55862 al jefe de estación panelista 1 de la est. Plzeň hlavní nádraží;
+notificación de la aparición de la MU por el maquinista del tren Služ 55862 al jefe de maniobras panelista 1 est. Plzeň hlavní nádraží;
 •
 7.08 h –
-comunicación de la aparición de la MU por el jefe de estación de tráfico de la est. Plzeň hlavní nádraží al CDP Praha – OŘP para el área de Praga;
+notificación de la aparición de la MU por el jefe de maniobras de despacho est. Plzeň hlavní nádraží al
 •
+CDP Praha – OŘP para el área de Praga;
 7.12 h –
-comunicación de la aparición de la MU por el inspector de explotación de la est. Plzeň hlavní nádraží al IZS;
+notificación de la aparición de la MU por el supervisor de circulación est. Plzeň hlavní nádraží al IZS;
 •
 7.20 h –
-comunicación de la aparición de la MU por el jefe de despacho del CDP Praha – OŘP para el área de Praga al O18 SŽDC;
+notificación de la aparición de la MU por el jefe de despachador CDP Praha – OŘP para
 •
+el área de Praga al O18 SŽDC;
 7.51 h –
-notificación de la aparición de la MU por la persona autorizada del O18 SŽDC al COP DI, con el que se dio, sobre la base de los hechos comunicados, el consentimiento para la liberación de la vía;
+comunicación de la aparición de la MU por la persona autorizada del O18 SŽDC al COP DI, mediante la cual se concedió, sobre la base de los hechos comunicados, la autorización para liberar la vía;
 •
 8.34 h –
-notificación del cambio de las condiciones de maniobra en el tren por parte del transportista TSS por la persona autorizada del O18 SŽDC al COP DI y anulación del consentimiento para la liberación de la vía;
+comunicación del cambio de las condiciones de maniobra en el tren por parte del operador TSS
 •
+por la persona autorizada del O18 SŽDC al COP DI y la anulación de la autorización para liberar la vía;
 8.57 h –
-inspección del lugar de la aparición de la MU por empleados de DI, SŽDC, TSS y ČD;
+inspección del lugar de aparición de la MU por empleados de DI, SŽDC, TSS y ČD;
 •
 9.15 h –
-concesión del consentimiento para la liberación de la vía por el inspector de DI presente;
+concesión de la autorización para liberar la vía por el inspector de DI presente;
 •
-13.15 h – entrada en vía del material rodante dañado;
+13.15 h – acoplamiento del DV;
 •
-16.00 h – reanudación del tráfico – en la SK n.º 921 en el km 348,410 hasta 348,470 establecimiento de una limitación transitoria de la velocidad de línea a 10 km·h-1;
+16.00 h – reanudación de la circulación – en la SK n.º 921 en el km 348,410 hasta 348,470 se estableció
 •
-3. 9. 2019 a las 9.00 h – reanudación completa del tráfico sin limitaciones.
+una limitación transitoria de la velocidad de la vía a 10 km·h-1;
+3. 9. 2019 a las 9.00 h – reanudación completa de la circulación sin limitaciones.
 •
-### 2.2.7 Activación del plan del sistema integrado de emergencias, de los servicios de emergencia policiales y sanitarios y de los procedimientos consecutivos
-El plan IZS fue activado dada la naturaleza de la MU. El plan IZS fue activado a las 7.12 h, es decir, 12 minutos después de la aparición de la MU, por el inspector de explotación de la est. Plzeň hlavní nádraží.
-
+### 2.2.7 Activación del plan del sistema integrado de emergencia, de los servicios de emergencia policiales y sanitarios y procedimientos conexos
+El plan IZS fue activado dada la naturaleza de la MU. El plan IZS fue activado a las 7.12 h, es decir, 12 minutos después de la aparición de la MU, por el supervisor de circulación est. Plzeň hlavní nádraží.
 
 ## Página 22
+
 
 En el lugar de la MU intervinieron los siguientes componentes del IZS:
 Servicio de Bomberos de Emergencias SŽDC, Unidad de Protección contra Incendios de Plzeň.
@@ -782,78 +790,117 @@ Datos geográficos:
 La SK n.º 921 en el sentido de marcha del tramo de maniobras discurre
 por una curva a la izquierda de radio 215 m.
 
-
 ## Página 23
 
 ### 3 REGISTRO DE LA INVESTIGACIÓN Y DE LAS EXPLICACIONES PRESENTADAS
 ### 3.1 Resumen de las explicaciones presentadas (sujeto a protección de la identidad de las personas)
-3.1.1 Empleados del gestor de la vía y del transportista, incluidas personas en relación contractual
+### 3.1.1 Empleados del gestor de la infraestructura y del transportista, incluidas personas en relación contractual
 jefe de estación panelista 1
-  de la est. Plzeň hlavní nádraží – del Acta con el empleado se desprende, entre otras cosas:
+  est. Plzeň hlavní nádraží – del Acta con el empleado se desprende, entre
 •
-◦el 8. 7. 2019 desempeñaba el servicio como panelista 1 de St Triangl en la est. Plzeň hlavní nádraží;
-◦desde el inicio del turno fue estableciendo progresivamente las rutas de maniobra según las peticiones de los jefes de maniobra de la 1.ª y 2.ª reserva de maniobras – apartado de composiciones, acoplamiento de vagones a las composiciones y despeje de las composiciones de las vías junto a los andenes;
-◦comunicaba con el jefe de maniobra de la 1.ª reserva de maniobras del transportista ČD mediante radio en simplex canal n.º 30 y con el jefe de maniobra de la 2.ª reserva de maniobras del transportista ČD en simplex canal n.º 19;
-◦la comunicación se realizaba desde las radios base destinadas a la comunicación con la 1.ª reserva de maniobras a través de la red STE 7 y para la comunicación con la 2.ª reserva de maniobras a través de la red STE 8;
-◦desde el inicio del turno fue estableciendo progresivamente las rutas de maniobra según las peticiones de los jefes de maniobra de la 1.ª y 2.ª reserva de maniobras – apartado de composiciones, acoplamiento de vagones a las composiciones, despeje de las composiciones de las vías junto a los andenes;
-◦el desempeño del servicio transcurrió sin incidencias hasta el momento en que necesitó liberar la vía n.º 921 para el paso del tren Služ 55862 del transportista TSS;
-◦al jefe de maniobra de la 1.ª reserva le dijo que se fuera a la SK n.º 204 para el paso del tren Služ 55862;
-◦el tren Služ 55862 pasó desde la est. Plzeň-Koterov por la SK n.º 206 a la SK n.º 921, donde se detuvo junto a la señal de camino Lc921;
-◦a continuación no pudo establecer la ruta de tren para el tren Služ 55862, porque en la est. Plzeň hlavní nádraží entraba el tren Ex 362;
-◦simultáneamente, para la maniobra desde la SK n.º 204 a la SK n.º 921, encendió en la señal de camino Lc204 la señal „Posun dovolen“ (maniobra permitida);
-◦al maquinista de la 1.ª reserva de maniobras no le dijo nada por radio, habló únicamente con el jefe de maniobra de la 2.ª reserva de maniobras, a quien le dijo: „Na desátou a kudy to půjde.“ (a la décima y por donde se pueda);
-◦a continuación, aproximadamente a las 7 h, oyó una explosión y el maquinista del tren Služ 55862 comunicó que se había producido un incidente excepcional;
-◦a la pregunta de cómo era posible que el maquinista de la 1.ª reserva de maniobras hubiera oído en la radio una instrucción para la 2.ª reserva de maniobras, respondió que probablemente pulsó por error el botón para la 1.ª reserva de maniobras en lugar del de la 2.ª reserva de maniobras;
+otras cosas:
+◦el 8 de julio de 2019 desempeñó servicio como panelista 1 St Triangl en la est. Plzeň hlavní
+nádraží;
+◦desde el inicio del turno fue estableciendo progresivamente itinerarios de maniobra según las
+peticiones de los jefes de maniobra de la 1.ª y 2.ª reserva de maniobras – apartamiento de
+composiciones, acoplamiento de vagones a las composiciones y despeje de composiciones de las
+vías adyacentes a los andenes;
+◦comunicó con el jefe de maniobra de la 1.ª reserva de maniobras del transportista ČD
+mediante estación de radio en simplex canal n.º 30 y con el jefe de maniobra de la 2.ª reserva
+de maniobras del transportista ČD en simplex canal n.º 19;
+◦la comunicación se realizaba desde estaciones de radio base destinadas a la comunicación con
+la 1.ª reserva de maniobras por la red STE 7 y para la comunicación con la 2.ª reserva de
+maniobras por la red STE 8;
+◦desde el inicio del turno fue estableciendo progresivamente itinerarios de maniobra según las
+peticiones de los jefes de maniobra de la 1.ª y 2.ª reserva de maniobras – apartamiento de
+composiciones, acoplamiento de vagones a las composiciones, despeje de composiciones de las
+vías adyacentes a los andenes;
+◦el desempeño del servicio transcurrió sin incidencias hasta el momento en que necesitó liberar
+la vía n.º 921 para el paso del tren Služ 55862 del transportista TSS;
+◦al jefe de maniobra de la 1.ª reserva le dijo que se desplazara a la SK n.º 204 para el paso
+del tren Služ 55862;
+◦el tren Služ 55862 pasó desde la est. Plzeň-Koterov por la SK n.º 206 hasta la SK n.º 921,
+donde se detuvo ante la señal de itinerario Lc921;
+◦a continuación no pudo establecer el itinerario de tren para el tren Služ 55862, ya que
+estaba entrando en la est. Plzeň hlavní nádraží el tren Ex 362;
+◦asimismo, para la maniobra desde la SK n.º 204 hasta la SK n.º 921 encendió en la señal de
+itinerario Lc204 la señal «Maniobra permitida»;
+◦al maquinista de la 1.ª reserva de maniobras no le dijo nada por la estación de radio, solo
+habló con el jefe de maniobra de la 2.ª reserva de maniobras, al que le dijo: «A la décima y
+por donde se pueda.»;
+◦a continuación, aproximadamente a las 7 h, oyó un estruendo y el maquinista del tren
+Služ 55862 comunicó que se había producido un suceso excepcional;
+◦a la pregunta de cómo era posible que el maquinista de la 1.ª reserva de maniobras hubiera
+oído en la estación de radio una instrucción para la 2.ª reserva de maniobras, respondió que
+probablemente había pulsado por error el botón para la 1.ª reserva de maniobras en lugar del
+de la 2.ª reserva de maniobras;
   ojefe del tren Služ 55862
 str
   – del Acta con el empleado se desprende, entre otras cosas:
 •
-◦el 8. 7. 2019 conducía el tren Služ 55862 desde la est. Starý Plzenec hasta la est. Přeštice;
-◦la marcha transcurrió sin incidencias hasta la est. Plzeň hlavní nádraží en la SK n.º 921 hasta la señal de camino Lc921, en la que lucía la señal „Stůj“ (deténgase);
-◦se detuvieron con el tren Služ 55862 a unos 10 m antes de la señal de camino Lc921;
-◦durante todo el tiempo que permanecieron en la est. Plzeň hlavní nádraží no se comunicaron en absoluto con el jefe de estación y esperaron la señal que autoriza la marcha;
-
+◦el 8 de julio de 2019 condujo el tren Služ 55862 desde la est. Starý Plzenec hasta la est.
+Přeštice;
+◦la circulación transcurrió sin incidencias hasta la est. Plzeň hlavní nádraží en la SK n.º 921
+hasta la señal de itinerario Lc921, en la que lucía la señal «Alto»;
+◦se detuvieron con el tren Služ 55862 a unos 10 m antes de la señal de itinerario Lc921;
+◦durante todo el tiempo que permanecieron en la est. Plzeň hlavní nádraží, no se comunicaron
+en absoluto con el jefe de estación y esperaron la señal que autoriza la circulación;
 
 ## Página 24
 
-◦permanecieron parados aproximadamente 5 minutos, cuando de pronto sintieron un golpe violento por detrás;
+◦estuvieron aproximadamente 5 minutos, cuando de repente sintieron un golpe violento por detrás;
 ◦antes no habían oído ninguna señal de aviso ni la bocina de la locomotora;
-◦el jefe de tren del tren Služ 55862 salió a ver qué había ocurrido y él, mientras tanto, llamó por la radio TRS a St Triangl y comunicó el incidente excepcional;
+◦el jefe de tren del tren Služ 55862 salió a ver qué había ocurrido, mientras él, mediante
+el radioteléfono TRS, llamó a St Triangl y comunicó una incidencia extraordinaria;
 jefe de tren del tren Služ 55862
-  – del Acta con el empleado se desprende, entre otras cosas:
+  – del Registro con el empleado se desprende, entre otros datos:
 •
-◦el 8. 7. 2019 viajaba como jefe de tren del tren Služ 55862 desde la est. Starý Plzenec hasta la est. Přeštice;
-◦la marcha transcurrió sin incidencias hasta la est. Plzeň hlavní nádraží en la SK n.º 921 hasta la señal de camino Lc921, en la que lucía la señal „Stůj“ (deténgase);
+◦el 8. 7. 2019 actuaba como jefe de tren del tren Služ 55862 desde la est. Starý Plzenec hasta la est.
+Přeštice;
+◦la circulación transcurrió sin incidencias hasta la est. Plzeň hlavní nádraží en el SK n.º 921
+hasta la señal de camino Lc921, en la que se mostraba la señal «Alto»;
 ◦se detuvieron con el tren Služ 55862 a unos 10 m antes de la señal de camino Lc921;
-◦durante todo el tiempo que permanecieron en la est. Plzeň hlavní nádraží no se comunicaron en absoluto con el jefe de estación y esperaron la señal que autoriza la marcha;
-◦permanecieron parados aproximadamente 5 minutos, cuando de pronto sintieron un golpe violento por detrás;
+◦durante todo el tiempo que estuvieron detenidos en la est. Plzeň hlavní nádraží, no se comunicaron en absoluto
+con el jefe de estación y esperaban la señal que autoriza la circulación;
+◦estuvieron aproximadamente 5 minutos, cuando de repente sintieron un golpe violento por detrás;
 ◦antes no habían oído ninguna señal de aviso ni la bocina de la locomotora;
-◦inmediatamente salió a ver qué había ocurrido;
-◦vio dos material rodante dañado descarrilado y detrás la locomotora que había chocado contra ellos;
-◦fue hasta el maquinista de la locomotora para comprobar que no le había pasado nada;
-◦tras constatar que nadie estaba herido, fue a comunicar estos hechos al maquinista del tren Služ 55862, que se estaba comunicando con el jefe de estación de St Triangl según la obligación de comunicar;
-maquinista del tramo de maniobras
-  – del Acta con el empleado se desprende, entre otras cosas:
+◦inmediatamente salió para comprobar qué había ocurrido;
+◦vio dos DV descarriladas y detrás la HDV que había chocado contra ellas;
+◦se dirigió al maquinista de la HDV para comprobar que no le había ocurrido nada;
+◦tras comprobar que nadie estaba herido, fue a comunicar estos hechos al maquinista
+del tren Služ 55862, que se comunicaba con el jefe de estación St Triangl conforme a la obligación
+de comunicar;
+maquinista de la unidad de maniobras
+  – del Registro con el empleado se desprende, entre otros datos:
 •
-◦el 8. 7. 2019 desempeñaba el servicio como maquinista de la 1.ª reserva de maniobras en la est. Plzeň hlavní nádraží;
-◦durante todo el desempeño del servicio se comunicó con el jefe de estación de St Triangl mediante radio en simplex canal n.º 30;
-◦por la mañana recibió la autorización para maniobras y repartía vagones en las composiciones de los trenes;
-◦aproximadamente a las 6.50 h estaba en la SK n.º 921 y esperaba la llegada del tren rápido desde Domažlice para apartar de él 1 vagón;
-◦se puso en contacto con él el jefe de estación de St Triangl y quería que se desplazara a la SK n.º 204 para liberar la SK n.º 921 para el tren Služ 55862;
-◦así pues, salió hacia la SK n.º 204 más allá de la señal Lc204 y allí esperó;
-◦aproximadamente a los 3 – 5 minutos pasó la TSS con el tren de servicio y unos 30 segundos después se encendió en la señal Lc204 la señal „Posun dovolen“ (maniobra permitida);
-◦acto seguido se puso en contacto el jefe de estación de St Triangl y dijo: „Pojeď na desátou, postaveno.“ (ve a la décima, establecido.);
-◦puso el tramo de maniobras en movimiento y se dirigió hacia la SK n.º 10;
-◦circulaba por una curva a la izquierda y manejaba la locomotora desde el 1.º puesto de conducción del lado derecho;
-◦debido a la señal Lc921, donde esperaba la señal „Stůj“ (deténgase), se pasó al lado izquierdo y vio los vagones estacionados delante de él;
-◦actuó inmediatamente el freno, pero debido a la corta distancia no logró detener el tramo de maniobras y se produjo el choque a una velocidad de aprox. 15 km·h-1;
+◦el 8. 7. 2019 prestaba servicio como maquinista de la 1.ª reserva de maniobras
+en la est. Plzeň hlavní nádraží;
+◦durante todo el tiempo de prestación del servicio se comunicó con el jefe de estación St Triangl mediante
+el radioteléfono en simplex, canal n.º 30;
+◦por la mañana recibió autorización para las maniobras y distribuía vagones en los conjuntos de los trenes;
+◦aproximadamente a las 6.50 h se encontraba en el SK n.º 921 y esperaba la llegada del expreso desde Domažlice para
+apartar de él 1 vagón;
+◦le llamó el jefe de estación St Triangl y quiso que se desplazara al SK n.º 204 para liberar
+el SK n.º 921 para el tren Služ 55862;
+◦por lo tanto, salió al SK n.º 204 más allá de la señal Lc204 y allí esperó;
+◦aproximadamente a los 3 – 5 minutos pasó la TSS con el tren de servicio y unos
+30 segundos después se encendió en la señal Lc204 la señal «Maniobra permitida»;
+◦acto seguido habló el jefe de estación St Triangl y dijo: «Vete a la décima, colocada.»;
+◦puso la unidad de maniobras en movimiento y se dirigió hacia el SK n.º 10;
+◦circulaba por una curva a la izquierda y manejaba la HDV desde el 1.º puesto, por el lado derecho;
+◦debido a la señal Lc921, donde esperaba la señal «Alto», se pasó al lado izquierdo
+y vio los vagones detenidos delante de él;
+◦accionó inmediatamente el freno, pero por la corta distancia no logró detener
+la unidad de maniobras y se produjo el choque a una velocidad de aprox. 15 km·h-1;
 ◦comprobó el alcance de los daños y cumplió la obligación de comunicar;
-maquinista del tramo de maniobras
-  – del Registro de la explicación presentada al DI se desprende, entre otras cosas:
+maquinista de la unidad de maniobras
+  – del Registro de explicaciones prestadas por el DI se desprende, entre otros datos:
 •
-◦trabaja habitualmente en la 1.ª reserva de maniobras de la est. Plzeň hlavní nádraží y el turno le viene bien;
+◦trabaja habitualmente en la 1.ª reserva de maniobras en la est. Plzeň hlavní nádraží y el turno
+le conviene;
 
 ## Página 25
+
 
 ◦el trabajo de la 1.ª reserva de maniobras es periódico, en términos generales sabe qué se hace, y el jefe de maniobras le informa siempre del próximo trabajo;
 ◦estaba demostradamente familiarizado con las condiciones locales y el Reglamento de Circulación de la estación Plzeň hlavní nádraží, la última familiarización tuvo lugar el día 9. 11. 2018;
@@ -883,53 +930,52 @@ jefe de maniobras de la unidad de maniobras
 ◦la maniobra debía ser la siguiente – a las 6.40 h añadir un vagón al tren R 757;
 ◦además informó por radio al maquinista de la 1.ª reserva de maniobras y a St Triangl
 
-
 ## Página 26
 
-de otra maniobra prevista – tras la llegada del tren Ex 362 desenganchar el último vagón y sobre él debía entrar la 1.ª reserva de maniobras desde St Triangl;
-◦en ese momento estaba en el andén n.º 2 de la estación Plzeň hlavní nádraží y esperaba la llegada del tren Ex 362;
-◦tras su llegada desengancho el último vagón y esperó la llegada de la 1.ª reserva de maniobras;
-◦posteriormente le comunicaron tanto el jefe de estación St Triangl como el maquinista de la 1.ª reserva de maniobras lo que había ocurrido;
-◦después de haber informado al jefe de estación St Triangl de la maniobra prevista, solo se oyó en la estación de radio la información de que era necesario desviar la 1.ª reserva de maniobras a las «vías de Lobezské» para que pudiera pasar el tren del operador TSS;
-◦no dio al maquinista de la 1.ª reserva de maniobras el consentimiento para la maniobra de la vía SK n.º 921 a la vía SK n.º 204;
-◦tampoco dio al maquinista de la 1.ª reserva de maniobras el consentimiento para la maniobra de la vía SK n.º 204 a la vía SK n.º 921;
+o otro movimiento previsto – tras la llegada del tren Ex 362, desenganchar el último vagón y sobre este debía acoplarse la 1.ª reserva de maniobras desde St Triangl;
+◦en ese momento estaba en el andén 2.º de la est. Plzeň hlavní nádraží y esperaba la llegada del tren Ex 362;
+◦tras su llegada, desenganchó el último vagón y esperó la llegada de la 1.ª reserva de maniobras;
+◦posteriormente, el jefe de estación de St Triangl y el maquinista de la 1.ª reserva de maniobras le comunicaron lo ocurrido;
+◦después de informar al jefe de estación de St Triangl del movimiento previsto, solo se escuchó en la radio la información de que era necesario apartar la 1.ª reserva de maniobras a las «vías de Lobez» para que pudiera pasar el tren del operador TSS;
+◦no dio al maquinista de la 1.ª reserva de maniobras el consentimiento para el movimiento desde la SK n.º 921 a la SK n.º 204;
+◦tampoco dio al maquinista de la 1.ª reserva de maniobras el consentimiento para el movimiento desde la SK n.º 204 a la SK n.º 921;
 jefe de maniobras de la unidad de maniobras
-  – del Registro de la declaración prestada ante el DI se desprende, entre otras cosas:
+  – de la Declaración de explicaciones presentada por el DI, entre otros
 •
-◦tiene amplia experiencia con las maniobras en el ámbito de la estación Plzeň hlavní nádraží, concretamente en el ámbito de la estación de pasajeros, alternando regularmente la 1.ª y la 2.ª reserva de maniobras;
-◦para el desempeño del turno tiene impresa la tecnología de trabajo de la 1.ª y 2.ª reserva de maniobras para el jefe de maniobras y los maniobristas, de los posibles cambios y anomalías le informa el capataz superior en el turno diurno y el capataz de vagones en el turno nocturno;
-◦además, en cada turno antes de su comienzo reciben los números de vía impresos con los vagones indicados que se encuentran en la estación, incluida la indicación de series y números de todos los vagones, así como las series de vagones para añadir y quitar de/en los trenes, incluidas las maniobras extraordinarias en la estación;
-◦la maniobra la acuerda él, como jefe de maniobras, con el jefe de estación y, como se comunican mediante estaciones de radio en el mismo canal, informa con ello simultáneamente también al maquinista de la maniobra prevista y acordada;
-◦posteriormente el jefe de estación le otorga la autorización para la maniobra y el consentimiento para la maniobra y él a continuación da al maquinista la orden – consentimiento para la maniobra;
-◦el día 8. 7. 2019 aproximadamente a las 6.40 h añadía 1 vagón al tren R 757 y después debía quitar 1 vagón del tren Ex 362;
-◦la adición del vagón al tren R 757 se realizó en la vía SK n.º 1b, después la 1.ª reserva de maniobras se marchó a la vía SK n.º 921 y él mientras tanto permaneció en el andén n.º 2, donde esperaba la llegada del tren Ex 362;
-◦informó al jefe de estación de la maniobra prevista, es decir, desenganchar un vagón del tren Ex 362 con la 1.ª reserva de maniobras desde St Triangl, y el jefe de estación confirmó su petición;
-◦no hubo problemas con el funcionamiento de las estaciones de radio el día 8. 7. 2019;
-◦durante el turno del día 8. 7. 2019 hasta la aparición del MU, la maniobra con la cuadrilla de maniobras no se convirtió en maniobra sin cuadrilla de maniobras;
-◦antes de llevar la unidad de maniobras de la vía SK n.º 921 a la vía SK n.º 204 y después de la vía SK n.º 204 a la vía SK n.º 921 no dio al maquinista ninguna orden, ni le dio tampoco el consentimiento para la maniobra;
-◦en el momento de la circulación de la unidad de maniobras de la vía SK n.º 921 a la vía SK n.º 204 y posteriormente de la vía SK n.º 204 a la vía SK n.º 921 estaba en el andén n.º 2, donde, como ya ha indicado, esperaba la llegada del tren Ex 362.
-
+se desprende:
+◦tiene amplia experiencia en el ámbito de la est. Plzeň hlavní nádraží, concretamente en el ámbito de la estación de pasajeros, y sustituye regularmente a la 1.ª y 2.ª reserva de maniobras;
+◦para el desempeño del turno tiene impresa la tecnología de trabajo de la 1.ª y 2.ª reserva de maniobras para el jefe de maniobras y el maniobrador, y de los posibles cambios y anomalías le informa el sargento superior de turno diurno y el sargento de vagones de turno nocturno;
+◦además, en cada turno, antes de su comienzo, reciben los números de vías impresas con los vagones que se encuentran en la estación, incluida la indicación de series y números de todos los vagones, así como las series de vagones para añadir y retirar de/en los trenes, incluidas las maniobras extraordinarias en la estación;
+◦el movimiento lo acuerda él, como jefe de maniobras, con el jefe de estación, y como se comunican mediante radios en el mismo canal, informa con ello simultáneamente también al maquinista del movimiento previsto y acordado;
+◦posteriormente, el jefe de estación le concede la autorización para el movimiento y el consentimiento para el movimiento, y él a continuación da al maquinista la instrucción – consentimiento para el movimiento;
+◦el 8. 7. 2019, aproximadamente a las 6.40 h, añadió 1 vagón al tren R 757 y después debía retirar 1 vagón del tren Ex 362;
+◦la adición del vagón al tren R 757 se realizó en la SK n.º 1b, tras lo cual la 1.ª reserva de maniobras partió hacia la SK n.º 921 y él mientras permaneció en el andén 2.º, donde esperaba la llegada del tren Ex 362;
+◦informó al jefe de estación del movimiento previsto, es decir, desenganchar un vagón del tren Ex 362 mediante la 1.ª reserva de maniobras desde St Triangl, y el jefe de estación confirmó su solicitud;
+◦el 8. 7. 2019 no hubo problemas con el funcionamiento de las radios;
+◦durante el turno del 8. 7. 2019 y hasta la ocurrencia de la MU, el movimiento con cuadrilla de maniobras no se convirtió en movimiento sin cuadrilla de maniobras;
+◦antes de llevar la unidad de maniobras desde la SK n.º 921 a la SK n.º 204 y posteriormente desde la SK n.º 204 a la SK n.º 921, no dio al maquinista ninguna instrucción, ni le dio tampoco el consentimiento para el movimiento;
+◦en el momento de la circulación de la unidad de maniobras desde la SK n.º 921 a la SK n.º 204 y a continuación desde la SK n.º 204 a la SK n.º 921, estaba en el andén 2.º, donde, como ya indicó, esperaba la llegada del tren Ex 362.
 
 ## Página 27
 
 ### 3.1.2 Otros testigos
-Otras personas no prestaron declaración sobre las causas y circunstancias de la aparición de este MU.
+Otras personas no aportaron explicaciones sobre las causas y circunstancias del origen de este MU.
 ### 3.2 Sistema de garantía de la seguridad
-### 3.2.1 Organización general y forma de emisión y ejecución de las órdenes
-El explotador de la vía y los operadores cuentan con un sistema de garantía de la seguridad adoptado en virtud de las disposiciones de la ley n.º 266/1994 Sb.
-En el sistema de garantía de la seguridad de la explotación de la vía adoptado por el explotador de la vía SŽDC, relacionado con las circunstancias de la aparición del MU en cuestión, no se detectó deficiencia alguna.
-En el sistema de garantía de la seguridad de la explotación del transporte ferroviario adoptado por el operador TSS, relacionado con las circunstancias de la aparición del MU en cuestión, no se detectó deficiencia alguna.
-En el sistema de garantía de la seguridad de la explotación del transporte ferroviario adoptado por el operador ČD, relacionado con las circunstancias de la aparición del MU en cuestión, no se detectó deficiencia alguna.
-### 3.2.2 Requisitos para el personal del explotador de la vía y de los operadores y aplicación de dichos requisitos
-Los requisitos para el personal del explotador de la vía y de los operadores, en particular los requisitos de idoneidad profesional y sanitaria, están establecidos por la ley n.º 266/1994 Sb., el decreto n.º 173/1995 Sb., el decreto n.º 101/1995 Sb., el decreto n.º 16/2012 Sb. y las normas internas del explotador de la vía y de los operadores.
-En el momento de la aparición del MU en cuestión, la persona del explotador de la vía SŽDC (jefe de estación panelista 1 de la estación Plzeň hlavní nádraží) que participó en el MU desempeñando actividades en la explotación de la vía era profesionalmente idónea para el ejercicio de la función que desempeñaba.
-En el momento de la aparición del MU en cuestión, todas las personas del operador TSS (maquinista y jefe de tren del tren Služ 55862) que participaron en el MU desempeñando actividades en la explotación del transporte ferroviario eran profesionalmente idóneas para el ejercicio de la función que desempeñaban.
-En el momento de la aparición del MU en cuestión, todas las personas del operador ČD (jefe de maniobras y maquinista de la unidad de maniobras) que participaron en el MU desempeñando actividades en la explotación del transporte ferroviario eran profesionalmente idóneas para el ejercicio de la función que desempeñaban.
-### 3.2.3 Procedimientos de control interno de la seguridad y de auditoría y sus resultados
-El explotador de la vía SŽDC cuenta con un sistema de control de la seguridad de la explotación de la vía. La actividad de control la realizan empleados autorizados con derecho a la actividad de control
-
+### 3.2.1 Organización marco y forma de emisión y ejecución de instrucciones
+El gestor de la infraestructura y los transportistas cuentan con un sistema de garantía de la seguridad adoptado en virtud de lo dispuesto en la Ley n.º 266/1994 Sb.
+En el sistema de garantía de la seguridad de la explotación de la infraestructura adoptado por el gestor de la infraestructura SŽDC, relacionado con las circunstancias del origen del MU en cuestión, no se detectó ninguna deficiencia.
+En el sistema de garantía de la seguridad de la explotación del transporte ferroviario adoptado por el transportista TSS, relacionado con las circunstancias del origen del MU en cuestión, no se detectó ninguna deficiencia.
+En el sistema de garantía de la seguridad de la explotación del transporte ferroviario adoptado por el transportista ČD, relacionado con las circunstancias del origen del MU en cuestión, no se detectó ninguna deficiencia.
+### 3.2.2 Requisitos para el personal del gestor de la infraestructura y de los transportistas y aplicación de dichos requisitos
+Los requisitos para el personal del gestor de la infraestructura y de los transportistas, en particular los requisitos de idoneidad profesional y sanitaria, están establecidos por la Ley n.º 266/1994 Sb., por el decreto n.º 173/1995 Sb., por el decreto n.º 101/1995 Sb., por el decreto n.º 16/2012 Sb. y por las normas internas del gestor de la infraestructura y de los transportistas.
+En el momento del origen del MU en cuestión, la persona del gestor de la infraestructura SŽDC (jefe de maniobras, panelista 1, estación Plzeň hlavní nádraží) que participó en el MU desempeñando actividades en la explotación de la infraestructura era profesionalmente idónea para el desempeño de la función que ocupaba.
+En el momento del origen del MU en cuestión, todas las personas del transportista TSS (maquinista y jefe de tren del tren Služ 55862) que participaron en el MU desempeñando actividades en la explotación del transporte ferroviario eran profesionalmente idóneas para el desempeño de la función que ocupaban.
+En el momento del origen del MU en cuestión, todas las personas del transportista ČD (jefe de maniobras y maquinista de la unidad de maniobras) que participaron en el MU desempeñando actividades en la explotación del transporte ferroviario eran profesionalmente idóneas para el desempeño de la función que ocupaban.
+### 3.2.3 Procedimientos de control interno de seguridad y de auditoría y sus resultados
+El gestor de la infraestructura SŽDC cuenta con un sistema de control de seguridad de la explotación de la infraestructura. La actividad de control es realizada por empleados autorizados debidamente habilitados para el control
 
 ## Página 28
+
 
 .
 El jefe de estación panelista 1 de la estación Plzeň hlavní nádraží fue controlado en el período del 1. 10. 2018 al 8. 7. 2019 los días 6. 10. 2018, 18. 11. 2018, 22. 1. 2019, 23. 3. 2019 y 16. 4. 2019 con enfoque en el desempeño directo del servicio de tráfico, cada vez incluida la comprobación de consumo de alcohol. El explotador de la vía evaluó todas las comprobaciones realizadas como desempeño del servicio sin incidencias.
@@ -945,6 +991,7 @@ El propietario de la vía ferroviaria, categoría nacional, České Budějovice 
 El explotador de la vía ferroviaria, categoría nacional, České Budějovice – Plzeň
 
 ## Página 29
+
 
 hl. n., era SŽDC.
 El transportista del tren Služ 55862 era TSS, con sede en Na Valše 676/18, Ostrava –
@@ -988,8 +1035,8 @@ que conduce el vehículo ferroviario, durante la maniobra, adapte la velocidad d
 circulación a la circulación según las condiciones de visibilidad, de modo que se
 garantice la seguridad de la maniobra, ...».
 
-
 ## Página 30
+
 
 3.3.2 Otras normas, por ejemplo, el reglamento de explotación, el reglamento
 laboral, las normas de mantenimiento, las normas técnicas aplicables y otras
@@ -1050,8 +1097,8 @@ empujada) puede ver, como máximo a una velocidad de 100 km/h, sin que en
 ningún caso se supere la velocidad máxima autorizada del tren o, en su caso, la
 velocidad de la maniobra, establecida por esta norma. ...»;
 
-
 ## Página 31
+
 
 art. 58, norma interna del gestor de la infraestructura, SŽDC (ČD) Z1:
 •
@@ -1110,8 +1157,8 @@ principal (de entrada) 2KL se muestra la señal que autoriza la circulación del
 vía TK n.º 2 a la vía SK n.º 921 a través de la vía SK n.º 206. Vía SK n.º 204
 ocupada por la maniobra;
 
-
 ## Página 32
+
 
 6.55.55 h – ocupación del tramo de vía de los desvíos n.º 202b, 203, 205 y la vía SK
 •
@@ -1161,8 +1208,8 @@ No se detectaron deficiencias.
 El uso de los dispositivos de comunicación, transmisión e información no guardaba
 relación con
 
-
 ## Página 33
+
 
 la producción del accidente ferroviario.
 ### 3.4.4 Vehículos ferroviarios, incluidos los dispositivos de registro automático de datos
@@ -1210,6 +1257,7 @@ hasta el valor de 22 km·h-1.
 
 ## Página 34
 
+
 7.00 h – a continuación se desplaza el lápiz de velocidad a la derecha 1 mm y posteriormente se produce una caída perpendicular de la velocidad hasta la parada completa – probable producción de MU, es decir, momento de la colisión y frenado del HDV contra el TDV.
 Nota: la diferencia entre el tiempo registrado y el tiempo real fue de + 8 min.
 Se detectó una deficiencia.
@@ -1234,97 +1282,110 @@ Entre el jefe de maniobras de la 1.ª reserva de maniobras y el maquinista de la
 
 El lugar de la MU fue asegurado por la persona competente designada de la empresa explotadora de la infraestructura y del transportista, de conformidad con el decreto n.º 376/2006 Sb.
 
-
 ## Página 35
 
 ### 3.6 Condiciones laborales, sanitarias y de explotación
-
-### 3.6.1 Jornada laboral del personal de la empresa explotadora de la infraestructura y del transportista que participó en el suceso excepcional
-
-• Jefe de estación panelista 1 de la est. Plzeň hlavní nádraží, en turno del día 8. 7. 2019 desde las 5.45 h, descanso previo al turno de 47.45 h; no se produjo la obligación de disfrutar de la pausa legal de comida y descanso por parte del empleado en relación con la hora de inicio del turno y la producción de la MU;
-• Maquinista del tren Služ 55862, en turno del día 8. 7. 2019 desde las 6.00 h, descanso previo al turno de 108 h; no se produjo la obligación de disfrutar de la pausa legal de comida y descanso por parte del empleado en relación con la hora de inicio del turno y la producción de la MU;
-• Jefe de tren del tren Služ 55862, en turno del día 8. 7. 2019 desde las 6.00 h, descanso previo al turno de 132 h; no se produjo la obligación de disfrutar de la pausa legal de comida y descanso por parte del empleado en relación con la hora de inicio del turno y la producción de la MU;
-• Maquinista de la maniobra de maniobras, en turno del día 8. 7. 2019 desde las 5.40 h, descanso previo al turno de 71.25 h; no se produjo la obligación de disfrutar de la pausa legal de comida y descanso por parte del empleado en relación con la hora de inicio del turno y la producción de la MU;
-• Jefe de maniobras de la maniobra de maniobras, en turno del día 8. 7. 2019 desde las 6.00 h, descanso previo al turno de 12 h; no se produjo la obligación de disfrutar de la pausa legal de comida y descanso por parte del empleado en relación con la hora de inicio del turno y la producción de la MU.
-
-Los empleadores garantizaron las condiciones para el descanso previo al turno, de conformidad con la ley n.º 262/2006 Sb., o con el decreto gubernamental n.º 589/2006 Sb., por el que se establece la regulación diferenciada de la jornada laboral y del tiempo de descanso de los empleados en el transporte.
-
-3.6.2 Estado de salud y situación personal que tuvieron incidencia en el suceso excepcional, incluido el estrés físico o psicológico
-
-El personal participante de la empresa explotadora de la infraestructura y de los transportistas se encontraba, en el momento de la producción de la MU, en condiciones de salud aptas para el desempeño de la función que ocupaban.
-
-El personal de la empresa explotadora de la infraestructura y de los transportistas se sometía a exámenes médicos periódicos de conformidad con la disposición del decreto n.º 101/1995 Sb.
-
-La investigación del factor humano incluyó, entre otros aspectos, la evaluación de todas las influencias que pudieran afectar a los empleados participantes y que pudieran tener, en su caso, incidencia en la producción de la MU. Se trata, en particular, además de la evaluación del estado de salud y de la situación personal, de la capacidad de procesar información, de un posible estrés físico y psicológico, así como de la evaluación de la experiencia, los conocimientos, la antigüedad y la carga laboral.
-
-No se detectaron condiciones de salud y situaciones personales que pudieran tener incidencia en la producción de la MU, incluido el estrés físico y psicológico.
-
+### 3.6.1 Jornada laboral de los empleados del gestor de la infraestructura y del
+transportista que fueron participantes en el suceso excepcional
+• Jefe de estación panelista 1 est. Plzeň hlavní nádraží, en la jornada del 8. 7. 2019
+desde las 5.45 h, descanso previo a la jornada de 47.45 h; la obligación de disfrutar
+del descanso legal para la comida y el ocio no se produjo en el empleado en
+relación con la hora de inicio de la jornada y la ocurrencia del SE;
+• Maquinista del tren Služ 55862, en la jornada del 8. 7. 2019 desde las 6.00 h,
+descanso previo a la jornada de 108 h; la obligación de disfrutar del descanso legal
+para la comida y el ocio no se produjo en el empleado en relación con la hora de
+inicio de la jornada y la ocurrencia del SE;
+• Jefe de tren del tren Služ 55862, en la jornada del 8. 7. 2019 desde las 6.00 h,
+descanso previo a la jornada de 132 h; la obligación de disfrutar del descanso legal
+para la comida y el ocio no se produjo en el empleado en relación con la hora de
+inicio de la jornada y la ocurrencia del SE;
+• Maquinista de la unidad de maniobras, en la jornada del 8. 7. 2019 desde las
+5.40 h, descanso previo a la jornada de 71.25 h; la obligación de disfrutar del
+descanso legal para la comida y el ocio no se produjo en el empleado en relación
+con la hora de inicio de la jornada y la ocurrencia del SE;
+• Jefe de maniobras de la unidad de maniobras, en la jornada del 8. 7. 2019 desde
+las 6.00 h, descanso previo a la jornada de 12 h; la obligación de disfrutar del
+descanso legal para la comida y el ocio no se produjo en el empleado en relación
+con la hora de inicio de la jornada y la ocurrencia del SE.
+Los empleadores garantizaron las condiciones para el descanso previo a la jornada,
+de conformidad con la ley núm. 262/2006 Sb., o bien con el decreto gubernamental
+núm. 589/2006 Sb., por el que se establece la regulación diferenciada de la jornada
+laboral y del tiempo de descanso de los empleados en el transporte.
+3.6.2 Estado de salud y situación personal que tuvieron incidencia en el suceso
+excepcional, incluido el estrés físico o psicológico
+Los empleados participantes del gestor de la infraestructura y de los transportistas
+se encontraban, en el momento de la ocurrencia del SE, aptos para el desempeño de
+la función que desempeñaban.
+Los empleados del gestor de la infraestructura y de los transportistas se sometían a
+reconocimientos médicos periódicos de conformidad con lo dispuesto en la
+resolución núm. 101/1995 Sb.
+La investigación del factor humano incluyó, entre otros aspectos, la evaluación de
+todas las influencias que pudieron actuar sobre los empleados participantes y que
+pudieron tener, en su caso, incidencia en la ocurrencia del SE. Se trata, en
+particular, además de la evaluación del estado de salud y de la situación personal,
+de la capacidad de procesar información, de un posible estrés físico y psicológico,
+así como de la evaluación de la experiencia, los conocimientos, la duración de la
+práctica y la carga laboral.
+No se detectaron estados de salud ni situaciones personales que pudieran tener
+incidencia en la ocurrencia del SE, incluido el estrés físico y psicológico.
 
 ## Página 36
 
-3.6.3 Disposición del equipamiento del puesto de mando o del vehículo ferroviario que influye en su conducción y uso
-
-La disposición y el equipamiento del puesto de trabajo del personal de la empresa explotadora de la infraestructura SŽDC y del transportista TSS no guardaron relación con la producción de la MU.
-
-La disposición y el equipamiento del puesto de trabajo del maquinista de la maniobra de maniobras del transportista ČD tuvieron una influencia contribuyente en la producción de la MU (véase el punto 4.2.1 de esta ZZ).
-
-### 3.7 Sucesos excepcionales anteriores de carácter similar
-
-La DI investigó las causas y circunstancias en el período comprendido entre el 1. 1. 2013 y la fecha de producción del citado suceso excepcional en las vías ferroviarias, categoría estatal y regional, en un total de 4 sucesos excepcionales similares, en los que se produjo una colisión de una maniobra de maniobras con DV estacionados y un posterior descarrilamiento. Concretamente, se trató de los siguientes sucesos excepcionales:
-
-• Del día 10. 2. 2013 en la est. Praha-Běchovice, en el que se produjo una colisión de una maniobra de maniobras (2x HDV) con DV estacionados con posterior descarrilamiento. La causa inmediata fue el incumplimiento de la condición de circulación según las condiciones de visibilidad por parte de la maniobra de maniobras. La causa fundamental fue el incumplimiento de los procedimientos tecnológicos para las maniobras establecidos en la normativa interna de la empresa explotadora de la infraestructura y del transportista, por parte del empleado del transportista que dirigía la maniobra;
-
-• Del día 12. 4. 2014 en la est. Praha-Libeň, en el que se produjo una colisión de una maniobra de maniobras (HDV) con un HDV estacionado con posterior descarrilamiento. La causa inmediata fue el incumplimiento de las condiciones establecidas para la circulación de la maniobra de maniobras según las condiciones de visibilidad por parte de la persona que dirigía el HDV. Los factores contribuyentes fueron la realización de la maniobra por parte del empleado que dirigía la maniobra (la persona que dirigía el HDV) sin autorización para la maniobra y la falta de dedicación completa a la conducción del HDV por parte de la persona que dirigía el HDV. La causa fundamental fue el incumplimiento de los procedimientos tecnológicos de la empresa explotadora de la infraestructura y del transportista para las actividades de realización de maniobras por parte del empleado que dirigía la maniobra (la persona que dirigía el HDV);
-
-• Del día 3. 11. 2015 en la est. Česká Třebová, en el que se produjo una colisión de una maniobra de maniobras (2x HDV) con el DV de la maniobra de maniobras estacionada con posterior descarrilamiento. La causa inmediata fue el incumplimiento de las condiciones de circulación según las condiciones de visibilidad durante la maniobra realizada. El factor contribuyente fue la no liberación de la vía de maniobra antes de la señal Lc 403 por la maniobra de maniobras anterior, estacionada antes de la señal Se 239 en posición «Maniobra prohibida». La causa fundamental fue el incumplimiento de los procedimientos tecnológicos para las maniobras establecidos en la normativa interna de la empresa explotadora de la infraestructura, por parte del transportista;
-
-• Del día 21. 9. 2018 a las 21.34 h en la est. České Budějovice, en el que se produjo una colisión de una maniobra de maniobras (HDV) con una composición de DV estacionada con posterior descarrilamiento. La causa inmediata de la producción de la MU fue la forma de conducción del maquinista, tras poner el HDV en movimiento, en la que no se cumplieron las condiciones de circulación según las condiciones de visibilidad. La causa fundamental fue el incumplimiento de los procedimientos tecnológicos de la empresa explotadora de la infraestructura y del transportista para la conducción del vehículo ferroviario de tracción por parte del maquinista durante las maniobras.
-
+3.6.3 Disposición del equipo del puesto de mando o del vehículo ferroviario que influye en su conducción y utilización
+La disposición y el equipo del puesto de trabajo de los empleados del gestor de la infraestructura SŽDC y del transportista TSS no guardaban relación con la producción de la MU.
+La disposición y el equipo del puesto de trabajo del maquinista de la unidad de maniobras del transportista ČD tuvieron una influencia contribuyente en la producción de la MU (véase el punto 4.2.1 de la presente ZZ).
+### 3.7 Sucesos anteriores de carácter similar
+DI investigó las causas y circunstancias en el período comprendido entre el 1. 1. 2013 y la fecha de producción de la MU en cuestión, en las vías ferroviarias, categoría nacional y regional, en un total de 4 MU similares, en los que se produjo una colisión de una unidad de maniobras con DV estacionados y el posterior descarrilamiento. Concretamente, se trataba de los siguientes sucesos:
+• del 10. 2. 2013 en la est. Praha-Běchovice, en el que se produjo la colisión de una unidad de maniobras (2x HDV) con DV estacionados, con el posterior descarrilamiento. La causa inmediata fue el incumplimiento de la condición de marcha según las condiciones de visibilidad por parte de la unidad de maniobras. La causa fundamental fue el incumplimiento de los procedimientos tecnológicos para las maniobras, establecidos en la normativa interna del gestor de la infraestructura y del transportista, por parte del empleado del transportista que dirigía las maniobras;
+• del 12. 4. 2014 en la est. Praha-Libeň, en el que se produjo la colisión de una unidad de maniobras (HDV) con un HDV estacionado, con el posterior descarrilamiento. La causa inmediata fue el incumplimiento de las condiciones establecidas para la marcha de la unidad de maniobras según las condiciones de visibilidad por parte de la persona que dirigía el HDV. Los factores contribuyentes fueron la realización de las maniobras por el empleado que dirigía las maniobras (la persona que dirigía el HDV) sin autorización para las maniobras y la falta de dedicación plena a la conducción del HDV por parte de la persona que dirigía el HDV. La causa fundamental fue el incumplimiento de los procedimientos tecnológicos del gestor de la infraestructura y del transportista para las actividades de realización de maniobras por el empleado que dirigía las maniobras (la persona que dirigía el HDV);
+• del 3. 11. 2015 en la est. Česká Třebová, en el que se produjo la colisión de una unidad de maniobras (2x HDV) con el DV de la unidad de maniobras estacionada, con el posterior descarrilamiento. La causa inmediata fue el incumplimiento de las condiciones de marcha según las condiciones de visibilidad durante la maniobra realizada. El factor contribuyente fue la no liberación de la vía de maniobras antes de la señal Lc 403 por la unidad de maniobras anterior, estacionada antes de la señal Se 239 en posición «Maniobras prohibidas». La causa fundamental fue el incumplimiento de los procedimientos tecnológicos para las maniobras, establecidos en la normativa interna del gestor de la infraestructura, por parte del transportista;
+• del 21. 9. 2018 a las 21.34 h en la est. České Budějovice, en el que se produjo la colisión de una unidad de maniobras (HDV) con una composición de DV estacionada, con el posterior descarrilamiento. La causa inmediata de la producción de la MU fue la forma de conducción del maquinista, tras poner el HDV en movimiento, en la que no se cumplieron las condiciones de marcha según las condiciones de visibilidad. La causa fundamental fue el incumplimiento de los procedimientos tecnológicos del gestor de la infraestructura y del transportista para la conducción del vehículo ferroviario de tracción por el maquinista durante las maniobras.
 
 ## Página 37
 
-Atendiendo a las causas y circunstancias de producción de los citados sucesos excepcionales, la Inspección Ferroviaria no emitió ninguna recomendación de seguridad en ninguno de los casos.
+Teniendo en cuenta las causas y circunstancias de la aparición de los sucesos extraordinarios indicados, la Inspección Ferroviaria no emitió ninguna recomendación de seguridad en ninguno de los casos.
 
-## 4 ANÁLISIS Y CONCLUSIONS
+### 4 ANÁLISIS Y CONCLUSIONES
 
-### 4.1 Descripción final del suceso excepcional
+### 4.1 Descripción final del suceso extraordinario
 
-### 4.1.1 Elaboración de las conclusiones sobre el suceso excepcional basadas en los hechos establecidos en el punto 3
+### 4.1.1 Elaboración de las conclusiones sobre el suceso extraordinario basadas en los hechos
+determinados en el punto 3
 
-El día 8. 7. 2019 a las 6.48 h se estaba realizando en la est. Plzeň hlavní nádraží una maniobra de la 1.ª reserva de maniobras del transportista ČD desde la SK n.º 1b a la SK n.º 921. La reserva de maniobras, que estaba formada por un HDV independiente, debía esperar en la SK n.º 921 la llegada del tren Ex 362 y posteriormente estacionar 1 vagón del mismo. La maniobra era acordada por el jefe de maniobras de la 1.ª reserva de maniobras con el jefe de estación panelista 1 de la est. Plzeň hlavní nádraží, quien está permanentemente designado para acordar las maniobras.
+El 8 de julio de 2019 a las 6.48 h se estaba realizando en la estación de Plzeň hlavní nádraží una maniobra
+con el 1.º equipo de maniobras del transportista ČD desde la vía de clasificación n.º 1b a la vía de clasificación n.º 921. El equipo de maniobras, que estaba formado por una locomotora independiente (HDV), debía esperar en la vía de clasificación n.º 921 la llegada del tren Ex 362 y a continuación desenganchar de él 1 vagón. La maniobra la concertaba con el jefe de maniobras panelista 1 de la estación de Plzeň hlavní nádraží el jefe del 1.º equipo de maniobras, quien está permanentemente encargado de concertar las maniobras.
 
-A las 6.48.00 h, el jefe de estación panelista 1 de la est. Plzeň hlavní nádraží estableció la vía de maniobra desde la señal de vía Sc1b hasta la SK n.º 921. En la señal de vía Sc1b lucía la señal «Maniobra permitida». A las 6.48.30 h se produjo la ocupación de los circuitos de vía de los desvíos n.º 24a y 22a por la circulación de la maniobra de maniobras por la vía de maniobra establecida hasta la SK n.º 921, donde se detuvo.
+A las 6.48.00 h el jefe de maniobras panelista 1 de la estación de Plzeň hlavní nádraží estableció la ruta de maniobra desde la señal de camino Sc1b a la vía de clasificación n.º 921. En la señal de camino Sc1b lucía la señal "Posun dovolen" (Maniobra permitida). A las 6.48.30 h se produjo la ocupación de los circuitos de vía de los desvíos n.º 24a y 22a por la circulación del tramo de maniobras por la ruta de maniobra establecida a la vía de clasificación n.º 921, donde se detuvo.
 
-Dado que el jefe de estación necesitaba liberar la SK n.º 921 para el paso del tren Služ 55862 del transportista TSS, comunicó a las 6.48.47 h a través de la estación de radio, según su declaración, al jefe de maniobras de la 1.ª reserva de maniobras este hecho y la necesidad de que la 1.ª reserva de maniobras se desplazara a la SK n.º 204. A continuación, el jefe de estación estableció a las 6.49.30 h mediante el mando normal del SZZ la vía de maniobra desde la señal de vía Sc921 hasta la SK n.º 204 para la 1.ª reserva de maniobras. En la señal de vía Sc921 lucía la señal «Maniobra permitida». A las 6.50.50 h se produjo la ocupación de los circuitos de vía de los desvíos n.º 217, 216 y 213 por la circulación de la maniobra de maniobras desde la SK n.º 921 hasta la SK n.º 204, que forma parte del 15.º circuito de maniobras (vías de estacionamiento «Lobezské koleje»). Todos los desvíos en la vía de maniobra establecida, es decir, los desvíos n.º 217, 216 y 213, son desvíos operados centralmente por el jefe de estación desde el JOP en St Triangl. La autorización para la maniobra en este circuito de maniobras la da el jefe de estación panelista 1 de la est. Plzeň hlavní nádraží.
+Como el jefe de maniobras necesitaba liberar la vía de clasificación n.º 921 para el paso del tren Služ 55862 del transportista TSS, comunicó a las 6.48.47 h, por medio de la estación de radio, según su declaración, al jefe del 1.º equipo de maniobras este hecho y la necesidad de que el 1.º equipo de maniobras se desplazara a la vía de clasificación n.º 204. A continuación, el jefe de maniobras estableció a las 6.49.30 h, con el funcionamiento normal del SZZ, la ruta de maniobra desde la señal de camino Sc921 a la vía de clasificación n.º 204 para el 1.º equipo de maniobras. En la señal de camino Sc921 lucía la señal "Posun dovolen" (Maniobra permitida). A las 6.50.50 h se produjo la ocupación de los circuitos de vía de los desvíos n.º 217, 216 y 213 por la circulación del tramo de maniobras desde la vía de clasificación n.º 921 a la vía de clasificación n.º 204, que forma parte del 15.º sector de maniobras (vías de apartado "Lobezské koleje"). Todos los desvíos en la ruta de maniobra establecida, es decir, los desvíos n.º 217, 216 y 213, son desvíos operados centralmente por el jefe de maniobras desde el JOP en St Triangl. El permiso para la maniobra en este sector de maniobras lo da el jefe de maniobras panelista 1 de la estación de Plzeň hlavní nádraží.
 
-A las 6.50.50 h, el jefe de estación comenzó a establecer la vía de tren desde la señal de entrada 2KL a través de la SK n.º 206 hasta la SK n.º 921 para el tren Služ 55862. A las 6.55.55 h se produjo la ocupación de los circuitos de vía de los desvíos n.º 202b, 203 y 205 por la circulación del tren Služ 55862 en la SK n.º 206 y, posteriormente, a las 6.57.06 h, la ocupación de los circuitos de vía de los desvíos n.º 213, 216 y 217 por su circulación posterior en la SK n.º 921, donde se detuvo ante la señal de vía Lc921 con la señal «Alto». El jefe de estación, según su declaración, no estableció ninguna vía de tren adicional, porque el tren Ex 362 estaba entrando en la est. Plzeň hlavní nádraží en la SK n.º 4.
+A las 6.50.50 h el jefe de maniobras comenzó a establecer la ruta de tren desde la señal de entrada 2KL a través de la vía de clasificación n.º 206 a la vía de clasificación n.º 921 para el tren Služ 55862. A las 6.55.55 h se produjo la ocupación de los circuitos de vía de los desvíos n.º 202b, 203 y 205 por la circulación del tren Služ 55862 en la vía de clasificación n.º 206 y, a continuación, a las 6.57.06 h, la ocupación de los circuitos de vía de los desvíos n.º 213, 216 y 217 por su circulación posterior en la vía de clasificación n.º 921, donde se detuvo junto a la señal de camino Lc921 con la señal "Stůj" (Alto). El jefe de maniobras, según su declaración, no estableció ninguna ruta de tren adicional, porque en la estación de Plzeň hlavní nádraží en la vía de clasificación n.º 4 entraba el tren Ex 362.
 
-A continuación, el jefe de estación estableció a las 6.57.48 h la vía de maniobra desde la señal de vía Lc204 hasta la SK n.º 921 para la 1.ª reserva de maniobras. En la señal de vía Lc204 lucía la señal «Maniobra permitida». Posteriormente, el maquinista de la 1.ª reserva de maniobras puso la maniobra de maniobras en movimiento. A las 6.58.16 h se produjo la ocupación de los circuitos de vía de los desvíos n.º 213, 216 y 217 por la circulación de la maniobra de maniobras desde la SK n.º 204 y la extinción de la señal «Maniobra permitida» en la señal de vía Lc204. A las 6.58.45 h se produjo la liberación de los circuitos de vía de los desvíos n.º 213, 216 y 217, cuando la maniobra de maniobras entró en la SK n.º 921.
+A continuación, el jefe de maniobras estableció a las 6.57.48 h la ruta de maniobra desde la señal de camino Lc204 a la vía de clasificación n.º 921 para el 1.º equipo de maniobras. En la señal de camino Lc204 lucía la señal "Posun dovolen" (Maniobra permitida). A continuación, el maquinista del 1.º equipo de maniobras puso el tramo de maniobras en movimiento. A las 6.58.16 h se produjo la ocupación de los circuitos de vía de los desvíos n.º 213, 216 y 217 por la circulación del tramo de maniobras desde la vía de clasificación n.º 204 y el apagado de la señal "Posun dovolen" (Maniobra permitida) en la señal de camino Lc204. A las 6.58.45 h se produjo la liberación de los circuitos de vía de los desvíos n.º 213, 216 y 217, cuando el tramo de maniobras entró en la vía de clasificación n.º 921.
 
-Durante la circulación por una curva a la izquierda por la SK n.º 921, el maquinista, según su declaración, debido a la visibilidad considerablemente limitada desde su puesto en el lado derecho del HDV, circulando con un largo morro por delante, pasó al lado izquierdo para comprobar la señal en la señal de vía
+Durante la circulación por una curva a la izquierda por la vía de clasificación n.º 921, cuando el maquinista, según su declaración, debido a la visibilidad considerablemente limitada desde su puesto en el lado derecho de la HDV, circulando con un largo morro por delante, pasó al lado izquierdo para comprobar la señal en la señal de camino
 
 ## Página 38
 
-señal Lc921, vio en la señal Lc921 la indicación «Alto» y, además, que la SK n.º 921 estaba ocupada por vehículos ferroviarios. Ante la situación creada reaccionó aplicando de inmediato el frenado. Dada la velocidad de circulación de la unidad de maniobras y la corta distancia hasta el extremo posterior del último TDV del tren Služ 55862, ya no era posible detenerse con seguridad por delante de los DV estacionados (extremo del tren) y se produjo una colisión con el TDV situado al final del tren estacionado Služ 55862.
-Como consecuencia de la colisión, se descarrilaron el 2.º y el 3.º TDV del tren Služ 55862. No se produjeron lesiones personales en ninguno de los empleados implicados. En la inspección pericial se estimó el daño en los TDV del transportista TSS en 181 400,- Kč, y en los HDV del transportista ČD en 11 780,- Kč. El daño en la infraestructura se estimó en 100 000,- Kč y, además, el daño en el instrumento de nivelación transportado en el TDV del transportista TSS en 5 000,- Kč.
+señal Lc921, vio en la señal Lc921 la indicación «Alto» y además que la vía SK n.º 921 está ocupada por vehículos ferroviarios. Reaccionó a la situación surgida aplicando inmediatamente el frenado. Dada la velocidad de circulación de la fracción de maniobras y la corta distancia hasta el extremo trasero del último TDV del tren Služ 55862, ya no era posible detenerse con seguridad antes de los DV detenidos (extremo del tren) y se produjo una colisión con el TDV situado al final del tren detenido Služ 55862.
+Como consecuencia de la colisión, se descarrilaron el 2.º y el 3.º TDV del tren Služ 55862. No se produjeron lesiones en la salud de ninguno de los empleados implicados. Mediante inspección comisionada se estimó el daño en los TDV del transportista TSS en 181 400,- CZK, en los HDV del transportista ČD en 11 780,- CZK. El daño en la infraestructura se estimó en 100 000,- CZK y, además, el daño en el instrumento de nivelación transportado en el TDV del transportista TSS en 5 000,- CZK.
 ### 4.2 Análisis
-### 4.2.1 Evaluación de los hechos constatados en el punto 3 y formulación de conclusiones sobre la causa del suceso excepcional y la actuación de los servicios de emergencia
-En la normativa interna del gestor de la infraestructura SŽDC D1, la autorización para maniobras se define como el conjunto de información necesaria para la realización segura de maniobras. Según los arts. 1692 y 1709 de la normativa interna SŽDC D1, el jefe de estación puede dar autorización para maniobras tanto en las vías destinadas a la circulación de trenes como en las demás vías, siempre que conozca el transportista que realizará la maniobra, la tecnología de maniobra requerida por el transportista y la tracción (es decir, eléctrica, diésel o vapor) de todos los vehículos motrices activos integrados en la unidad de maniobras.
-El empleado que dirige la maniobra o el jefe de cuadrilla de maniobras, si está encargado de acordar la maniobra, debe, según el art. 1744 de la normativa interna SŽDC D1, informar al jefe de estación, con antelación suficiente antes del inicio de la maniobra, de la tecnología de maniobra requerida.
-La maniobra de la 1.ª reserva de maniobras del transportista ČD se realizaba con una cuadrilla de maniobras formada únicamente por el jefe de maniobras (este empleado, sin embargo, en el momento de la circulación de la unidad de maniobras inmediatamente anterior a la producción del suceso excepcional, se encontraba fuera del campo de visión de la unidad de maniobras). En relación con el art. 1664 de la normativa interna del gestor de la infraestructura SŽDC D1, el transportista tiene establecido en el art. 72 de la normativa interna ČD D2 que el jefe de cuadrilla de maniobras está permanentemente encargado de las funciones previstas en los arts. 1744, 1745 y 1749 de la normativa interna del gestor de la infraestructura SŽDC D1.
-Entre otras funciones, el jefe de cuadrilla de maniobras está permanentemente encargado de acordar la maniobra; asimismo, en la ayuda tecnológica GVD del gestor de la infraestructura SŽDC PPVDS para la estación Plzeň hlavní nádraží, de conformidad con el art. 1664 de la normativa interna del gestor de la infraestructura SŽDC D1 y a petición del transportista ČD, se indica que, en las maniobras con cuadrilla de maniobras, el jefe de cuadrilla de maniobras está permanentemente encargado de acordar la maniobra en nombre del maquinista.
-Según la conversación registrada en el dispositivo de registro ReDat 3, el jefe de maniobras informó a las 6.44.53 h al jefe de estación panelista 1 de la estación Plzeň hlavní nádraží de la tecnología de maniobra requerida de la siguiente manera:
+### 4.2.1 Evaluación de los hechos constatados en el punto 3 y exposición de las conclusiones sobre la causa del suceso excepcional y la actuación de los servicios de emergencia
+En la norma interna del gestor de la infraestructura SŽDC D1, la autorización para maniobras se define como el conjunto de información necesaria para la realización segura de maniobras. Según los arts. 1692 y 1709 de la norma interna SŽDC D1, el jefe de estación puede dar autorización para maniobras tanto en las vías destinadas a la circulación de trenes como en las demás vías, únicamente cuando conozca el transportista que realizará la maniobra, la tecnología de maniobra requerida por el transportista y la tracción (es decir, eléctrica, diésel, vapor) de todos los vehículos motrices activos incluidos en la fracción de maniobras.
+El empleado que dirige la maniobra o el jefe de cuadrilla de maniobras, si está encargado de acordar la maniobra, debe, según el art. 1744 de la norma interna SŽDC D1, informar al jefe de estación sobre la tecnología de maniobra requerida con antelación suficiente antes del inicio de la maniobra.
+La maniobra de la 1.ª reserva de maniobras del transportista ČD se realizaba con una cuadrilla de maniobras formada únicamente por el jefe de maniobras (este empleado, sin embargo, en el momento de la circulación de la fracción de maniobras inmediatamente antes de la producción del SU se encontraba fuera del campo de visión de la fracción de maniobras). En relación con el art. 1664 de la norma interna del gestor de la infraestructura SŽDC D1, el transportista tiene establecido en el art. 72 de la norma interna ČD D2 que el jefe de cuadrilla de maniobras está permanentemente encargado de las actividades conforme a los arts. 1744, 1745 y 1749 de la norma interna del gestor de la infraestructura SŽDC D1. Entre otras cosas, el jefe de cuadrilla de maniobras está permanentemente encargado de acordar la maniobra; asimismo, en la ayuda tecnológica GVD del gestor de la infraestructura SŽDC PPVDS para la est. Plzeň hlavní nádraží, conforme al art. 1664 de la norma interna del gestor de la infraestructura SŽDC D1 y a petición del transportista ČD, se indica que, en las maniobras con cuadrilla de maniobras, el jefe de cuadrilla de maniobras está permanentemente encargado de acordar la maniobra en nombre del maquinista.
+Según la conversación registrada en el dispositivo de registro ReDat 3, el jefe de maniobras informó a las 6.44.53 h al jefe de estación panelista 1 de la est. Plzeň hlavní nádraží sobre la tecnología de maniobra requerida de la siguiente manera:
 Jefe de maniobras: «¿Y Tomáš, Triángulo?»
 •
-Jefe de estación: «¿Eh, Stando?»
+Jefe de estación: «¿Qué, Stando?»
 •
-Jefe de maniobras: «Voy a retirar con la reserva hacia Furťák desde Praga, desde el Triángulo.»
+Jefe de maniobras: «Con la reserva hacia Furťák desde Praga, desde el Triángulo, voy a ir reduciendo.»
 •
-Jefe de estación: «Hacia Furťáčka, de acuerdo.»
+Jefe de estación: «Hacia Furťáček, de acuerdo.»
 •
-
 
 ## Página 39
+
 
 La comunicación del jefe de estación: «Hacia Furťáčka, de acuerdo.» fue considerada tanto por el jefe de estación panelista 1 de la estación Plzeň hlavní nádraží como por el jefe de maniobras como una autorización para la maniobra.
 A la vista de la comunicación anteriormente descrita, puede constatarse que el jefe de estación panelista 1 de la estación Plzeň hlavní nádraží no concedió la autorización para la maniobra de conformidad con el art. 1692 de la normativa interna SŽDC D1. Este hecho no tuvo ninguna influencia en la producción de este suceso excepcional ni en la magnitud de sus consecuencias.
@@ -1337,8 +1398,8 @@ El maquinista puso la unidad de maniobras en marcha, según su declaración, sob
 Posteriormente, a las 6.57.48 h, el jefe de estación estableció la ruta de maniobras desde la señal de ruta Lc204 hasta la SK n.º 921 para la 1.ª reserva de maniobras. Aunque esta maniobra no fue debidamente acordada y el jefe de estación no concedió la autorización para la maniobra desde la SK n.º 204 hasta la SK n.º 921, en contradicción con los arts. 58 y 73 apartado c) de la normativa interna del gestor de la infraestructura SŽDC (ČD) Z1, iluminó en la señal de ruta Lc204 la indicación «Maniobra autorizada».
 El maquinista tenía conocimiento demostrado de las circunstancias locales de la estación Plzeň hlavní nádraží y, según su declaración, trabaja habitualmente con la 1.ª reserva de maniobras; el trabajo es periódico, conoce de forma general lo que se hace y el jefe de maniobras le informa siempre del próximo trabajo. Sobre la base de la experiencia práctica, de la información del jefe de maniobras de que la 1.ª reserva de maniobras retiraría 1 vagón del tren Ex 362 tras su llegada, y del conocimiento de las circunstancias locales, el maquinista debió haberse percatado de que la instrucción del jefe de estación que escuchó en la radio no estaba destinada
 
-
 ## Página 40
+
 
 a la 1.ª reserva de maniobras (véase la fig. n.º 8) y, además, especialmente sobre la base del conocimiento de los procedimientos tecnológicos en la maniobra realizada con cuadrilla de maniobras, debió haber esperado la instrucción de inicio de la maniobra dada por el jefe de maniobras.
 Durante la maniobra de la 1.ª reserva de maniobras, en el ámbito del jefe de estación panelista 1 de la estación Plzeň hlavní nádraží se estaba realizando también la maniobra de la 2.ª reserva de maniobras. La comunicación entre el jefe de estación panelista 1 de la estación Plzeň hlavní nádraží y el jefe de maniobras de la 1.ª reserva de maniobras transcurría en la red STE 7 en el canal simplex n.º 30, y con el jefe de maniobras de la 2.ª reserva de maniobras en la red STE 8 en el canal simplex n.º 19.
@@ -1352,8 +1413,8 @@ Fig. n.º 8: Esquema de la vía – establecida la ruta de tren para el tren Ex 
 Según la normativa interna SŽDC (ČD) Z11, el funcionamiento simplex es un modo de comunicación radio en el que las conversaciones entre los participantes solo pueden tener lugar de forma alternativa, siempre en una dirección. En una red simplex, la estación de radio en este caso puede recibir mensajes o solo transmitirlos. En una red simplex, en un momento dado solo puede transmitir 1 participante y todos lo escuchan. La indicación de llamada sirve para identificar a los participantes de la red radio al establecer la conexión por voz y durante la conexión de conversación. Según el art. 2 del Anexo 3 de la normativa interna del gestor de la infraestructura SŽDC (ČD) Z11, con referencia a los arts. 9.23.2 y 6.5 del Reglamento de explotación de las redes radio locales PO Plzeň, para fines de identificación es posible utilizar como indicación de llamada las funciones de servicio o los puestos de los operadores.
 La identificación inequívoca e inconfundible de los participantes en la comunicación es importante especialmente, como en el caso de este suceso excepcional, en el que en el ámbito del jefe de estación panelista 1 de la estación Plzeň hlavní nádraží se estaban realizando simultáneamente las maniobras de la 1.ª y de la 2.ª reserva de maniobras y por parte del jefe de estación puede producirse un error en el manejo de la estación de radio. La instrucción dada en la red STE 7 en el canal simplex n.º 30 «Correcto al 10 y después, por donde se pueda.», según la declaración del jefe de estación, no estaba destinada a la 1.ª reserva de maniobras, sino a la 2.ª reserva de maniobras. A la pregunta de cómo era posible que el maquinista de la 1.ª reserva de maniobras hubiera escuchado en la radio la instrucción para la 2.ª reserva de maniobras, el jefe de estación manifestó: «Supongo que pulsé por error el botón para la 1.ª reserva en lugar del de la 2.ª reserva.»
 
-
 ## Página 41
+
 
 Dado que se trataba de una maniobra con cuadrilla de maniobras, aunque el jefe de maniobras en el momento de la circulación de la unidad de maniobras inmediatamente anterior a la producción del suceso excepcional se encontraba fuera del campo de visión de la unidad de maniobras, el jefe de estación transmite, según el art. 1715 de la normativa interna SŽDC D1, el consentimiento para la maniobra al maquinista a través del jefe de maniobras. Con la instrucción de poner la unidad de maniobras en marcha, el jefe de maniobras da al maquinista la información de que se ha dado el consentimiento para la maniobra en la ruta de maniobras correspondiente y por parte del jefe de maniobras se garantiza que se cumplen todas las condiciones para poner la unidad de maniobras en marcha, incluida la garantía de seguridad para el inicio de la maniobra. Además, según el art. 1752 de la normativa interna SŽDC D1, el maquinista solo puede poner la unidad de maniobras en marcha tras la instrucción correspondiente, en este caso la instrucción del jefe de maniobras.
 A pesar de los hechos anteriormente descritos, el maquinista, sin haber recibido del jefe de maniobras la instrucción de circulación, puso la unidad de maniobras en marcha.
@@ -1362,8 +1423,8 @@ Fig. n.º 9: Visión del maquinista desde el puesto de conducción por el lado d
        Fuente: DI
 La unidad de maniobras estaba formada por un HDV circulando de forma autónoma. Se trataba de un HDV de la serie 742 y, en la circulación desde la SK n.º 204 en dirección a la SK n.º 921, el HDV circulaba con el morro largo por delante. Dadas las condiciones de alineación, en las que la SK n.º 921 discurre en una curva a la izquierda de radio 215 m, el morro largo de este HDV, al ser conducido desde el puesto principal
 
-
 ## Página 42
+
 
 derecho en el sentido de la circulación, limita la visión de la vía del maquinista (véanse las figs. n.º 9 y 10).
 El maquinista, según su declaración, conducía el HDV por el lado derecho en el sentido de la circulación, desde el cual la visión de la vía en una curva a la izquierda está considerablemente limitada debido al morro largo del HDV.
@@ -1379,6 +1440,7 @@ De lo anterior se desprende que la colisión de la unidad de maniobras con el tr
 
 ## Página 43
 
+
 del maquinista, sin embargo, no es posible determinar objetivamente el alcance de las consecuencias de la colisión a una velocidad menor.
 En base a la verificación comisionada de la función de la SZZ se constató que en el momento de producirse el MU la SZZ se encontraba en estado sin averías y las vías de maniobra para la 1.ª reserva de maniobras se habían establecido con la operación normal. De la documentación presentada era evidente que la SZZ era revisada y mantenida regularmente. El estado de la SZZ no guardaba relación causal con la producción del MU.
 El empleado participante de la empresa ferroviaria ČD, el maquinista, de acuerdo con el dictamen médico presentado sobre su aptitud física para el trabajo en el momento de producirse el MU, estaba físicamente apto para el desempeño de su función. Según su propia declaración, al incorporarse a su turno el día 8. 7. 2019 estaba debidamente descansado, se sentía sano y no estaba bajo ningún estrés psicológico.
@@ -1388,8 +1450,8 @@ La Inspección Ferroviaria, mediante la investigación, constató que el maquini
 La Inspección Ferroviaria, en la investigación de este MU, constató que aunque la maniobra de la 1.ª reserva de maniobras de la empresa ČD se realizaba con una cuadrilla de maniobras formada por el jefe de maniobras, dicho empleado se encontraba durante el desplazamiento de la unidad de maniobras desde la SK n.º 921 a la SK n.º 204 y posteriormente desde la SK n.º 204 a la SK n.º 921 fuera del alcance visual de la unidad de maniobras, concretamente en el andén n.º 2, donde según su propia declaración esperaba la llegada del tren Ex 362. El reglamento interno SŽDC D1 establece para el jefe de maniobras un conjunto de obligaciones, especialmente en relación con la garantía de seguridad de la maniobra realizada. En el caso de que el jefe de maniobras se encuentre fuera del alcance visual de la unidad de maniobras, lógicamente no es capaz de cumplir estas obligaciones. Aunque los procedimientos tecnológicos, cuyo conocimiento es parte inseparable del cumplimiento de sus tareas laborales, se lo establecen, esta forma elegida de maniobra, en relación con los principios generales y los hábitos adquiridos para garantizar la seguridad del transporte ferroviario, constituye una utilización absoluta de dichos principios de la práctica de explotación por parte del empleado en cuestión.
 La Inspección Ferroviaria, en virtud de las competencias encomendadas por la ley n.º 266/1994 Sb., no emite recomendaciones de seguridad, sin embargo considera necesario señalar que es necesario centrarse en el cumplimiento riguroso y la verificación del cumplimiento de las obligaciones establecidas a los distintos empleados del gestor de la vía SŽDC y de la empresa ferroviaria ČD para las maniobras. Las infracciones de las disposiciones de los reglamentos vigentes, tanto en relación causal con la producción del MU como fuera de relación causal con la producción del MU, detectadas en la investigación de este MU, es necesario utilizarlas, ya sea para la formación en el marco de las formaciones periódicas o en la actividad de verificación, y así evitar la creación de riesgos de producción de MU y su repetición análoga.
 
-
 ## Página 44
+
 
 ### 4.3 Conclusiones
 4.3.1 Causas directas e inmediatas del suceso excepcional, incluidos los factores que contribuyeron al mismo y que estuvieron relacionados con la actuación de las personas participantes o con el estado de los vehículos ferroviarios o de las instalaciones técnicas
@@ -1410,8 +1472,8 @@ En el gestor de la vía SŽDC:
 • en relación con la disposición del art. 1692 del reglamento interno SŽDC D1, en el sentido del § 22 apartado 1 letra a) de la ley n.º 266/1994 Sb., cuando el jefe de estación panelista 1 de la est. Plzeň hlavní nádraží no concedió la autorización para la maniobra al jefe de maniobras de la empresa ČD de acuerdo con la disposición anteriormente mencionada del reglamento interno SŽDC D1;
 • en relación con la disposición del art. 2 del Anexo 3 del reglamento interno SŽDC ČD) Z11, art. 9.23.2 y 6.5 del Reglamento de Explotación MRS, en el sentido del § 22 apartado 1 letra a) de la ley n.º 266/1994 Sb., cuando el jefe de estación panelista 1 de la est. Plzeň hlavní nádraží en la comunicación
 
-
 ## Página 45
+
 
 mediante estación de radio durante la maniobra no utilizaba, por motivo de la identificación inequívoca de la indicación de llamada, respectivamente de la función (adscripción laboral) de los operadores.
 En la empresa ferroviaria ČD:

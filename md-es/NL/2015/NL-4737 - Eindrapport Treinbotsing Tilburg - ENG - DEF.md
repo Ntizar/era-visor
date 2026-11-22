@@ -10,13 +10,14 @@ chars: 248791
 ratio_longitud: 1.06
 tokens_in: 84277
 tokens_out: 66136
-verificacion: revisar
 fecha_proceso: 2026-11-18
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-avisos: ["página 11: ratio 0.16", "página 15: ratio 0.48", "página 36: ratio 0.59", "página 49: ratio 0.43", "página 63: ratio 0.73", "página 68: cifras largas: faltan 3/6 (50%)"]
-notas_cifras: ["página 9: cifras cortas: 6/27", "página 10: cifras cortas: 6/8", "página 12: cifras cortas: 6/14", "página 13: cifras cortas: 7/29", "página 14: cifras cortas: 1/8", "página 16: cifras cortas: 2/18"]
+verificacion: ok
+notas_cifras: ["página 9: cifras cortas: 6/27", "página 10: cifras cortas: 6/8", "página 11: ratio 0.53", "página 12: cifras cortas: 6/14", "página 13: cifras cortas: 7/29", "página 14: cifras cortas: 1/8"]
 ---
+
 ## Página 1
+
 
 Índice
 CONSEJO DE SEGURIDAD
@@ -44,8 +45,8 @@ Conclusiones
 Recomendaciones
 Apéndice
 
-
 ## Página 2
+
 
 Resumen y
 consideración
@@ -74,8 +75,8 @@ Todos los informes también están disponibles en el sitio web del Consejo de Se
 Apéndice
 Foto de portada: Consejo de Seguridad de los Países Bajos
 
-
 ## Página 3
+
 
 ### Consejo de Seguridad de los Países Bajos
 Cuando ocurren accidentes o catástrofes, el Consejo de Seguridad de los Países Bajos investiga cómo fue
@@ -124,8 +125,8 @@ Recomendaciones
 Apéndice
 NB: Este informe se publica en idiomas neerlandés e inglés. Si existe una diferencia de interpretación entre las versiones neerlandesa e inglesa, prevalecerá el texto neerlandés.
 
-
 ## Página 4
+
 
 Resumen y
 consideración
@@ -176,6 +177,7 @@ Recomendaciones
 Apéndice
 
 ## Página 5
+
 
 ## ANEXO
 ### Anexo A.	
@@ -232,8 +234,8 @@ F.4	 Resumen de los trenes de NS Reizigers......................................
 Recomendaciones
 Anexo
 
-
 ## Página 6
+
 
 ## RESUMEN Y CONSIDERACIONES
 Resumen y 
@@ -262,6 +264,7 @@ Recomendaciones
 Anexo
 
 ## Página 7
+
 
 Medidas disponibles no utilizadas
 La investigación reveló además que existían medidas disponibles para limitar el riesgo de fuga de mercancías peligrosas tras una colisión por alcance, pero que dichas medidas no fueron
@@ -301,8 +304,8 @@ cisterna. En los últimos años, al establecerse la Ley de Red Básica, también
 Apéndice
 La investigación sobre la colisión de trenes en Tilburg deja claro que, en la práctica operativa, por razones logísticas y comerciales, se toman decisiones operativas que reducen el efecto de las medidas de seguridad adoptadas. Como consecuencia, en este accidente, surgieron riesgos que habían sido reconocidos previamente, y para los cuales sí se habían tomado medidas.
 
-
 ## Página 8
+
 
 La introducción de una parada intermedia en una vía secundaria redujo la protección adicional contra el paso de señales en rojo gracias al sistema automático de protección de trenes ATB - Versión Mejorada en las vías principales, y el uso de un tipo antiguo de tren de pasajeros con mala compatibilidad en caso de colisión redujo el efecto de los topes de absorción de impactos del vagón cisterna embestido.
 Resumen y
@@ -337,6 +340,7 @@ Apéndice
 
 ## Página 9
 
+
 Responsabilidad de las empresas químicas en la cadena
 2a.	 Las empresas químicas implicadas como expedidores de mercancías peligrosas en el tren de pasajeros que colisionó con el tren de mercancías (SABIC, DSM y OCI): 1
 Cumplir su responsabilidad en la cadena exigiendo a las empresas ferroviarias que, en el control operativo de los trenes de mercancías que transportan mercancías peligrosas, no se tomen decisiones que incrementen el riesgo. Incluir esta exigencia en los contratos de transporte y supervisar su cumplimiento.
@@ -362,8 +366,8 @@ Esta recomendación está relacionada con la recomendación 6 del informe public
 4	
 Mediante Orden de 26 de noviembre de 2015 (Boletín Oficial de Actos y Decretos 2015, 470), el Decreto del Consejo de Seguridad de los Países Bajos (en relación con la aplicación adicional de la Directiva UE 2004/49/CE) fue debidamente revisado.
 
-
 ## Página 10
+
 
 informará debidamente al Consejo. Para las otras recomendaciones (3a y 3b), de conformidad con la misma Orden, el Consejo será informado directamente sobre el cumplimiento por parte del Secretario de Estado de Infraestructura y Medio Ambiente. En ambos casos, se aplica un plazo máximo de respuesta de seis meses tras la publicación del informe.
 
@@ -372,15 +376,32 @@ M. Visser
 Presidente, Consejo de Seguridad de los Países Bajos	
 Secretario General
 
-
 ## Página 11
 
-## 1 INTRODUCCIÓN
-1.1	 Investigación12
-1.2	 Partes implicadas13
-
+## 1  INTRODUCCIÓN
+Resumen y
+consideración
+1.1	 Investigación12
+1.2	 Partes implicadas13
+1
+Introducción
+2
+El accidente
+3
+Transporte de
+mercancías
+peligrosas por
+ferrocarril
+4
+Análisis
+5
+Conclusiones
+6
+Recomendaciones
+Anexo
 
 ## Página 12
+
 
 ## 1 INTRODUCCIÓN 
 El 6 de marzo de 2015, un tren de pasajeros colisionó por detrás con un tren de mercancías que transportaba mercancías peligrosas, en Tilburg. Varios pasajeros del tren de pasajeros sufrieron heridas leves. Se produjo una fuga en un vagón cisterna cargado con más de 50 toneladas de gas inflamable (butadieno). La fuga permaneció limitada y no se produjo incendio. Varios agentes de policía se sintieron brevemente indispuestos tras inhalar el gas escapado. 
@@ -394,6 +415,7 @@ Este informe se centra en las siguientes preguntas:
 2.	 ¿Cómo se causó una fuga en un vagón cisterna tras la colisión?
 
 ## Página 13
+
 
 Al investigar la ocurrencia de la colisión, la Junta ha optado por centrarse específicamente en el hecho de que un tren de mercancías que transportaba mercancías peligrosas estuvo implicado. La idea subyacente es que la Junta ya ha llevado a cabo investigaciones en varias ocasiones sobre los aspectos generales de (la prevención de) las colisiones entre trenes.⁵ Dichos aspectos generales y el seguimiento de las recomendaciones emitidas en el pasado por la Junta fueron tratados en las investigaciones realizadas por la Inspección del Medio Humano y Transportes (ILT) sobre el accidente en Tilburgo.⁶ Las empresas ferroviarias implicadas en la colisión de trenes en Tilburgo (ProRail, NS Reizigers y DB Schenker) también han investigado este accidente. Los hallazgos de estas investigaciones se resumen en el anexo C.
 1
@@ -428,8 +450,8 @@ El RID utiliza los términos «llenador» (la parte que llena el vagón cisterna
 10	
 Estas son: DSM Acrylonitrile B.V., OCI Nitrogen B.V. y SABIC Petrochemicals B.V. (DSM, OCI y SABIC, respectivamente, en este informe). DSM Acrylonitrile B.V. cambió su nombre a AnQore B.V. el 1-12-2015.
 
-
 ## Página 14
+
 
 Resumen y 
 consideración
@@ -454,25 +476,23 @@ Anexo
 11	
 La red ferroviaria nacional comprende una sección básica (en la cual NS Reizigers es responsable del transporte) y líneas regionales (en las cuales operan otros transportistas de pasajeros como Arriva, Veolia, etc.).
 
-
 ## Página 15
 
-## 2 EL ACCIDENTE
-Resumen y 
+## 2  EL ACCIDENTE
+Resumen y
 consideración
-2.1	 La colisión 16
-2.2	 Las consecuencias del accidente21
+2.1	 La colisión 16
+2.2	 Las consecuencias del accidente21
 1
-2.3	 La fuga del vagón cisterna21
+2.3	 La fuga del vagón cisterna21
 Introducción
-2.4	 Conclusiones parciales24
+2.4	 Conclusiones parciales24
 2
 El accidente
 3
-Transporte de 
-mercancías 
-peligrosas por 
-ferrocarril
+Transporte de mercancías
+peligrosas
+por ferrocarril
 4
 Análisis
 5
@@ -482,6 +502,7 @@ Recomendaciones
 Anexo
 
 ## Página 16
+
 
 ## 2 EL ACCIDENTE
 Resumen y consideración
@@ -528,8 +549,8 @@ En el día en cuestión, el servicio del tren de mercancías difería del inclui
 Anexo
 12	Para el tráfico ferroviario en la red principal, se elabora cada año un horario base (plan anual). El horario incluye el origen y destino, la ruta y la línea temporal para todos los servicios regulares. El plan anual, elaborado por ProRail, se basa en los requisitos de transporte de las empresas ferroviarias de pasajeros y mercancías.
 
-
 ## Página 17
+
 
 Tilburg. El cambio en la hora de salida se realizó para crear más tiempo para comparar y preparar el tren para su partida. La parada intermedia se introdujo para permitir que el maquinista fuera relevado por el maquinista de otro tren de mercancías durante el trayecto. El propósito de este relevo era evitar que el maquinista superara su tiempo máximo de jornada para ese día. La solicitud de los cambios requeridos en el servicio fue presentada por DB Schenker al control de tráfico de ProRail mediante una llamada solicitud de reprogramación.¹³ Los empleados implicados aceptaron las alteraciones solicitadas y las procesaron en el horario operativo (plan diario).¹⁴
 1
@@ -572,6 +593,7 @@ mercancías peligrosas por ferrocarril
 15	Los dos desvíos en cuestión (W87A/85 y W87B) están vinculados entre sí, lo que significa que el desvío no puede liberarse mientras uno de los dos tenga el estado ocupado.
 
 ## Página 18
+
 
 No obstante, el maquinista del tren de pasajeros no percibió la señal en rojo y, como consecuencia, no frenó al aproximarse a dicha señal. Dado que la señal no está equipada con un sistema de protección automática de trenes ATB - Versión Mejorada,16 no se inició ningún frenado automático.17 La consecuencia final fue que el tren de pasajeros fue guiado hacia la vía secundaria en la que el tren de mercancías seguía detenido (véase la figura 4) a través del cambio de aguja que aún estaba en posición desviada. El maquinista del tren de pasajeros comenzó a frenar en el último momento, pero esto tuvo poco efecto. Debido a la distancia restante limitada, la velocidad del tren de pasajeros al inicio de la colisión era casi idéntica a la velocidad original de aproximación, es decir, aproximadamente 45 km/h.18
 1
@@ -627,8 +649,8 @@ Si la señal hubiera estado equipada con ATB - Versión Mejorada, durante los ú
 18	
 La forma en que se determina la velocidad se explica en el anexo B3.
 
-
 ## Página 19
+
 
 Resumen y
 consideraciones
@@ -656,8 +678,8 @@ Conclusiones
 Recomendaciones
 Anexos
 
-
 ## Página 20
+
 
 Resumen y
 consideraciones
@@ -685,8 +707,8 @@ El análisis de los archivos ARR reveló que en el tren de pasajeros y en la loc
 21	
 Véase el análisis de la colisión en el anexo B4.
 
-
 ## Página 21
+
 
 ## 2.2	
 ### Las consecuencias del accidente
@@ -726,6 +748,7 @@ En este informe, se utiliza el término «tapa del registro» para referirse al 
 
 ## Página 22
 
+
 para permitir el acceso al tanque durante la inspección periódica del interior.²⁶ En los vagones cisterna de este tipo, la tapa del pozo de visita consiste en un panel redondo de acero grueso que se atornilla contra una brida de acero anular, con fijaciones por pernos, y que está soldada ligeramente por debajo del
 Resumen y
 centro en la pared frontal (véase la figura 8). El sellado efectivo se logra mediante un anillo de estanqueidad de plástico
@@ -755,8 +778,8 @@ Apéndice
 Véase también RID 6.8.2.4.2.
 27	 Los vagones cisterna suelen tener un tanque cilíndrico con extremos convexos. Ambos extremos se denominan paredes frontales.
 
-
 ## Página 23
+
 
 pared del tanque
 Resumen y
@@ -796,8 +819,8 @@ en retirar el material rodante en cuestión y reabrir la ubicación del accident
 Apéndice
 28	 El par de apriete de una fijación por perno es la medida de intensidad (fuerza) con la que se aprietan los pernos.
 
-
 ## Página 24
+
 
 Resumen y
 consideración
@@ -827,8 +850,8 @@ envolvente del tanque. La magnitud de la fuga permaneció limitada.
 Recomendaciones
 Apéndice
 
-
 ## Página 25
+
 
 ## 3 TRANSPORTE DE MERCANCÍAS PELIGROSAS POR FERROCARRIL
 Resumen y
@@ -855,6 +878,7 @@ Recomendaciones
 Apéndice
 
 ## Página 26
+
 
 ## 3 TRANSPORTE DE MERCANCÍAS PELIGROSAS POR FERROCARRIL
 Resumen y consideración
@@ -887,8 +911,8 @@ Estos porcentajes se basan en estimaciones de Statistics Netherlands (Oficina Ce
 31	
 El RID neerlandés utiliza el término «vagón depósito» (*reservoir wagon*).
 
-
 ## Página 27
+
 
 Resumen y consideración
 1
@@ -911,8 +935,8 @@ Apéndice
 32	
 Uno de los principales proyectos ferroviarios en los Países Bajos y parte del Programa Ferroviario de Alta Frecuencia (PHS) implica la construcción de una curva suroeste en Meteren que podría hacer posible un enlace directo entre la Betuweroute (hacia Kijfhoek) y la vía férrea de Utrecht a 's-Hertogenbosch. Una vez finalizada esta curva, el volumen de transporte de mercancías a través de Tilburgo se reducirá.
 
-
 ## Página 28
+
 
 La colisión en Tilburgo tuvo lugar entre las estaciones de Tilburgo y Tilburgo-Universidad, una sección de vía que forma parte de la Brabantroute. La tabla de la figura 13 muestra cuántos equivalentes de vagón cisterna (KWE)³³ por categoría de sustancia han sido transportados a lo largo de esta sección de la Brabantroute durante los últimos años.
 Resumen y consideración
@@ -1024,6 +1048,7 @@ Durante el transporte de mercancías peligrosas por ferrocarril, el tamaño de l
 
 ## Página 29
 
+
 ## 3.3	
 ### Legislación y reglamentación
 El transporte de mercancías peligrosas por ferrocarril está sujeto a la Ley sobre el Transporte de Mercancías Peligrosas (Wvgs), que incluye el Decreto sobre el Transporte de Mercancías Peligrosas (Bvgs), el Reglamento Ministerial sobre el Transporte de Mercancías Peligrosas por Ferrocarril (VSG) y el Reglamento Ministerial sobre la Red Básica.
@@ -1073,8 +1098,8 @@ Véase también las notas explicativas en el apéndice E1.
 37	
 Un dispositivo antiescalonamiento es un mecanismo cuyo propósito es evitar que un vehículo suba por encima de otro (también conocido como superación del tope) en caso de colisión. Una pantalla protectora es un panel vertical que se coloca delante de la pared frontal de una cisterna para evitar que la pared de la cisterna sea penetrada por un objeto punzante en caso de accidente. Véase también las notas explicativas en el apéndice E2.
 
-
 ## Página 30
+
 
 Si un vagón cisterna debe estar equipado con estos sistemas dependerá de la categoría de mercancías peligrosas que se transporten y del año de construcción del vagón cisterna (véase la figura 41 en el apéndice D). 
 Resumen y 
@@ -1108,6 +1133,7 @@ La Ley sobre la Red Básica (Boletín Oficial de Leyes y Decretos 307, 2013) inc
 
 ## Página 31
 
+
 b.	 Medidas
 Las partes implicadas (gobierno central, provincias, municipios, industria química, las empresas ferroviarias y ProRail como gestor de la infraestructura ferroviaria) se consultaron durante varios años sobre las medidas para mejorar la seguridad externa. En términos generales, esto dio lugar a las siguientes medidas:
 ––
@@ -1135,8 +1161,8 @@ El convenio exige que los trenes de mercancías con mercancías peligrosas se fo
 42	
 A pesar de las otras medidas, en esas dos ciudades, a lo largo de ciertos tramos de vía, el riesgo social calculado sigue siendo mayor que el valor orientativo aplicable. Por esa razón, el Ministerio de Infraestructura y Medio Ambiente acordó medidas adicionales con ambos municipios a finales de 2014. Las medidas se refieren específicamente a la alteración y/o remediación de los cambios de vía en los tramos pertinentes de la Brabantroute.
 
-
 ## Página 32
+
 
 diversas líneas ferroviarias, y también determinan las zonas de seguridad que los municipios y las provincias deben tener en cuenta en los planes de zonificación, permisos de construcción, etc.⁴³
 Resumen y
@@ -1166,6 +1192,7 @@ Anexo
 Esto se desarrolla más ampliamente en la Orden sobre Seguridad Externa de las Rutas de Transporte.
 
 ## Página 33
+
 
 Colisión
 Consecuencias
@@ -1244,8 +1271,8 @@ Conclusiones
 Recomendaciones
 Apéndice
 
-
 ## Página 34
+
 
 Colisión
 Consecuencias
@@ -1351,6 +1378,7 @@ Informe de investigación de seguridad ‘Descarrilamiento de un tren de mercanc
 
 ## Página 35
 
+
 los vagones sufrieron una fuga, lo que provocó un incendio importante acompañado de varias explosiones.
 Tras el accidente, el acrilonitrilo y los productos de descomposición (incluido el ácido cianhídrico) que se generaron durante la extinción del incendio, se extendieron por la zona urbana adyacente a través del sistema de alcantarillado. Es probable que una persona falleciera como resultado.47
 Resumen y consideración
@@ -1376,31 +1404,33 @@ Apéndice
 47	
 La causa de la muerte nunca fue anunciada - según pudimos determinar.
 
-
 ## Página 36
 
-## 4 ANÁLISIS
-Resumen y consideración
-4.1	 Planteamiento del problema37
-4.2	 Involucramiento de un tren que transportaba mercancías peligrosas38
+## 4   ANÁLISIS
+Resumen y
+consideración
+4.1	 Planteamiento del problema37
+4.2	 Involucramiento de un tren que transporta mercancías peligrosas38
 1
+4.3	 Producción de una fuga en el vagón cisterna41
 Introducción
-4.3	 Ocurrencia de una fuga en el vagón cisterna41
-4.4	 Factores subyacentes45
+4.4	 Factores subyacentes45
 2
 El accidente
 3
-Transporte de mercancías peligrosas por ferrocarril
+Transporte de
+mercancías
+peligrosas por ferrocarril
 4
 Análisis
 5
 Conclusiones
 6
 Recomendaciones
-Apéndice
-
+Anexo
 
 ## Página 37
+
 
 ## 4 ANÁLISIS
 Resumen y consideración
@@ -1426,6 +1456,7 @@ Apéndice
 El tamaño de las fuerzas de colisión, además de depender de la masa y velocidad del tren de pasajeros, también dependía de la fuerza necesaria para empujar hacia adelante el vagón cisterna trasero. Los factores determinantes para esa fuerza incluyen el nivel de carga de los vagones, y si los vagones estaban o no frenados.
 
 ## Página 38
+
 
 ## 4.2	
 ### Involucración de un tren que transportaba mercancías peligrosas
@@ -1476,6 +1507,7 @@ El servicio de maniobras de Chemelot es parte de DB Schenker. La empresa es resp
 
 ## Página 39
 
+
 sobre la base de los cuales se establecen los límites de riesgo y los límites de transporte de la Red Ferroviaria Básica.50 En este contexto, también puede mencionarse el proyecto Drechtsteden, en el que se han modificado/eliminado una serie de cambios de vía en Dordrecht y Zwijndrecht, con
 Resumen y
 el fin de reducir aún más los riesgos externos, que en estas ubicaciones siguen superando los
@@ -1510,6 +1542,7 @@ Por el momento, para mantener el horario (sin conflictos) en la medida de lo pos
 
 ## Página 40
 
+
 la cuestión está vinculada al cambio de vía que debía atravesar el tren de pasajeros. Como consecuencia, el cambio de vía para el tren de pasajeros aún no podía situarse en la posición correcta cuando el tren se aproximaba, y la señal de entrada permaneció en rojo.
 Resumen y consideración
 La longitud total del tren de mercancías era de 624 metros y la vía apartadera en cuestión era apta para una longitud máxima de tren de 585 metros. El hecho de que el regulador de tráfico ferroviario optara nonetheless por esta vía apartadera se debió a que la empresa ferroviaria había notificado un valor de 567 metros para la longitud del tren al solicitar la parada intermedia. 
@@ -1537,6 +1570,7 @@ ISVL significa Sistema de Información de Control de Tráfico. A través de este
 Se exige a las empresas ferroviarias que operan trenes con mercancías peligrosas que faciliten información a ProRail sobre la composición del tren y las mercancías que transporta (mediante la llamada lista de vagones) como máximo cinco minutos antes de la salida del tren (información detallada). Esta información se introduce/almacena en el sistema OVGS (Transporte Online de Mercancías Peligrosas). El OVGS está destinado principalmente a proporcionar información a los servicios de emergencia sobre la composición/naturaleza de las mercancías en los trenes que transportan mercancías peligrosas, en caso de accidente.
 
 ## Página 41
+
 
 Sobre la base de sus propias investigaciones, tanto DB Schenker como ProRail han decidido vincular los dos sistemas (ISVL y OVGS) (véase también C1-2), en la medida de lo posible.
 Resumen y
@@ -1575,6 +1609,7 @@ El RID también exige que los vagones que contienen sustancias explosivas especi
 
 ## Página 42
 
+
 de este tipo «libre de BLEVE en caliente».<sup>56, 57</sup> Este convenio, que se aplica al transporte ferroviario neerlandés, exige que un tren de mercancías que transporta mercancías peligrosas esté compuesto de tal manera que en ningún momento un vagón cisterna que contenga líquidos inflamables (por ejemplo, petróleo) esté acoplado a un vagón cisterna que contenga un gas inflamable (por ejemplo, GLP o butadieno). En la actualidad, este convenio se cumple generalmente.<sup>58</sup> La normativa no tiene como objetivo prevenir la aparición de fugas en los vagones cisterna, sino limitar las consecuencias si un vagón cisterna que contiene combustible líquido sufre una fuga.
 El riesgo de escape de una sustancia peligrosa como consecuencia de una colisión trasera puede limitarse asegurando que no se transporte ninguna sustancia peligrosa en el último vagón de un tren de mercancías. En la práctica, esto se puede lograr acoplando al final del tren un vagón «vacío y limpio» o un vagón cargado<sup>59</sup> con otras mercancías que no sean mercancías peligrosas. Si esto no es posible, podría añadirse un vagón adicional (parachoques).
 
@@ -1595,6 +1630,7 @@ En los requisitos de admisión actualmente aplicables para los trenes de pasajer
 
 ## Página 43
 
+
 compatibilidad en caso de colisiones entre trenes de pasajeros y otros trenes de pasajeros, pero también con vagones de mercancías/vagones cisterna. Para cumplir estos requisitos, los trenes de pasajeros están equipados con absorbedores de impactos en la parte delantera, en los puntos donde se encuentran los topes (de choque) en el material rodante de mercancías (véanse también las notas explicativas en el anexo F3). En caso de colisión con un vagón de mercancías, los topes (de choque) de los trenes que colisionan entrarán en contacto entre sí. Estos requisitos se introdujeron en 2011 y solo se aplican a los trenes de pasajeros admitidos después de esa fecha.
 Según la planificación original (el plan anual), los trenes del tipo DDZ debían desplegarse en la ruta entre Eindhoven y Tilburg-University. En el marco de una reasignación de los diversos tipos de trenes, NS Reizigers decidió en una etapa posterior que el servicio de trenes en cuestión fuera realizado por trenes Mat’64. Al tomar dicha decisión, solo se tuvieron en cuenta cuestiones logísticas, como el número de plazas de pie y sentadas, la velocidad máxima y la capacidad de aceleración y frenado. El hecho de que los trenes Mat’64 tengan una peor compatibilidad de colisión con los vagones cisterna que los trenes DDZ, que están equipados con topes, no se consideró en el proceso de toma de decisiones.
 En respuesta a las preguntas formuladas, NS Reizigers ha anunciado que las unidades múltiples restantes (aproximadamente cuarenta) del tipo Mat’64 deben ser retiradas del servicio en 2016. Sin embargo, un inventario aproximado de la flota de trenes de NS Reizigers (véase el anexo F4) revela que una gran proporción de los otros trenes de NS también demuestran solo una compatibilidad de colisión pobre a justa con respecto a los vagones cisterna. Hasta la fecha, NS Reizigers no ha considerado la compatibilidad de colisión en el proceso de toma de decisiones sobre el despliegue de su material rodante en líneas por las que se transportan mercancías peligrosas. En respuesta al accidente en Tilburg, la empresa ha anunciado ahora que llevará a cabo una nueva evaluación de riesgos.
@@ -1602,8 +1638,8 @@ Los vagones cisterna utilizados para el transporte de gases inflamables deben es
 Anexo
 62	Para los vagones cisterna construidos después de 2007, los topes de choque son obligatorios. El cargador en este caso (SABIC) utiliza exclusivamente vagones cisterna equipados con topes de choque (incluidos aquellos construidos antes de 2007).
 
-
 ## Página 44
+
 
 4.3.3	Tapa de registro en vagón cisterna
 En el caso de esta colisión, hasta cierto punto, la tapa de registro en el casco de la cisterna representó un «eslabón débil»; si no hubiera habido una tapa de registro en esta ubicación precisa en la pared final, es improbable que se hubiera producido una fuga como resultado de esta colisión. Esto plantea la pregunta de hasta qué punto una posición o construcción diferente de la tapa de registro podría resultar en una seguridad mejorada.
@@ -1616,6 +1652,7 @@ Basado en estas consideraciones, se puede concluir que no surgen posibilidades c
 
 ## Página 45
 
+
 ## 4.4	
 ### Factores subyacentes
 Los apartados 4.2 y 4.3 describen los factores que influyeron en la implicación de mercancías peligrosas en el accidente de Tilburgo, y la consiguiente fuga del vagón cisterna. Los hallazgos significan efectivamente que, en tres aspectos, se tomaron decisiones a nivel operativo que incrementaron el nivel de riesgo:
@@ -1627,10 +1664,10 @@ Estas decisiones se analizan con mayor detalle a continuación.
 En lo relativo a la circulación del tren de mercancías con carga peligrosa, se realizaron los siguientes cambios durante la fase operativa:
 •	 El proceso de composición y preparación del tren de mercancías para la salida tardó más de lo previsto, como resultado de lo cual el tren no estaba listo en la hora de salida original. Por esa razón, la empresa ferroviaria retrasó la hora de salida en varias ocasiones. Finalmente, el tren partió aproximadamente tres horas después. 
 •	 Durante la circulación, en consulta con el control de tráfico de trenes de ProRail, la empresa ferroviaria instigó una parada intermedia en el patio de Mercancías de Tilburgo para realizar un cambio de maquinista. La necesidad de este cambio estaba directamente relacionada con el retraso en la hora de salida. 
-Como consecuencia de estos cambios, dos trenes de mercancías (ambos transportando vagones cisterna con mercancías peligrosas) debieron pasar varios desvíos divergentes y, posteriormente, terminaron en vías que no estaban cubiertas por el sistema automático de protección de trenes ATB - Versión Mejorada. Como consecuencia, existía un mayor riesgo de descarrilamiento o colisión. 
-
+Como consecuencia de estos cambios, dos trenes de mercancías (ambos transportando vagones cisterna con mercancías peligrosas) debieron pasar varios desvíos divergentes y, posteriormente, terminaron en vías que no estaban cubiertas por el sistema automático de protección de trenes ATB - Versión Mejorada. Como consecuencia, existía un mayor riesgo de descarrilamiento o colisión.
 
 ## Página 46
+
 
 Para los trenes lentos en la ruta en cuestión (Eindhoven/Tilburgo-Universidad), según el plan anual, se debían desplegar trenes de pasajeros del tipo DDZ. La empresa ferroviaria (NS Reizigers) decidió en una etapa posterior desplegar el tipo de tren Mat’64 para las circulaciones en cuestión. Sin embargo, los trenes del tipo Mat’64, a diferencia de los trenes DDZ, no tienen topes y, como consecuencia, tienen una peor compatibilidad de choque respecto al material rodante de mercancías (incluidos los vagones cisterna). Como consecuencia de este hecho, era mayor el riesgo de que, en caso de colisión con un vagón cisterna, se produjera una fuga. 
 La investigación deja claro que, cuando se trató de reprogramar la circulación del tren de mercancías y desplegar otro tipo de tren de pasajeros, al tomar las decisiones operativas solo se tuvieron en cuenta argumentos logísticos y comerciales (despliegue optimizado de material rodante y personal). La Junta señalaría a este respecto que las decisiones en sí mismas no contravienen la normativa, pero sí generaron riesgos para la seguridad: esto se aplica tanto al retraso de la hora de salida del tren de mercancías, como a la instigación de un cambio de maquinista en el patio de Mercancías de Tilburgo y al despliegue de trenes Mat’64 en la Brabantroute. 
@@ -1646,6 +1683,7 @@ Esta conclusión se refiere tanto a las empresas ferroviarias en cuestión (DB S
 Los capítulos 1.3 y 1.8.3 del RID describen las condiciones aplicables al personal de las empresas involucradas en el transporte de mercancías peligrosas por ferrocarril.
 
 ## Página 47
+
 
 El Consejo ha identificado las siguientes explicaciones sobre por qué las empresas en cuestión adoptaron las decisiones operativas descritas anteriormente que condujeron a un aumento del riesgo.
 Resumen y
@@ -1692,6 +1730,7 @@ Que una empresa esté o no sujeta al régimen BRZO depende de la respuesta a la 
 
 ## Página 48
 
+
 El hecho de que las empresas químicas/los cargadores sean conjuntamente responsables de la seguridad durante el transporte de sus mercancías peligrosas se aplica, por supuesto, también al transporte de esas mismas sustancias por carretera y vía fluvial. Para esos modos de transporte, los cisternas y buques en cuestión suelen utilizarse exclusivamente para el transporte de mercancías peligrosas, y la empresa de transporte está especializada en el transporte de mercancías peligrosas. En lo que respecta al transporte de mercancías peligrosas por ferrocarril, se utilizan vagones específicos (vagones cisterna y contenedores cisterna), pero durante el transporte efectivo, a menudo forman parte de un tren de mercancías mixto operado por una empresa ferroviaria que, aunque autorizada para transportar estas sustancias, no es especialista en dicha actividad. En este contexto, es particularmente importante que las empresas químicas implicadas en el transporte de mercancías peligrosas por ferrocarril ejerzan su influencia en el seguimiento de la seguridad de las operaciones de transporte. A este respecto, la Junta observa similitudes con los hallazgos de sus investigaciones anteriores sobre el incendio en Chemie-Pack en Moerdijk (2011) y la seguridad de las terminales de Odfjell en Rotterdam (2002-2012).66 En el informe sobre el incendio en Chemie-Pack, la Junta de Seguridad concluyó que los proveedores y clientes de mercancías peligrosas deben imponer requisitos sobre el nivel de seguridad proporcionado por las empresas con las que hacen negocios. En respuesta, las organizaciones sectoriales pertinentes67 elaboraron el programa de acción Safety First, centrado en mejorar la cultura de seguridad de las empresas que trabajan con grandes volúmenes de sustancias peligrosas.68 Uno de los cuatro pilares de dicho programa es «asumir la responsabilidad de la cadena».69 En el informe sobre la seguridad de las terminales de Odfjell, la Junta concluyó que el sector químico debe especificar con precisión qué significa la cooperación en la cadena y cómo las empresas pueden cumplir mejor su responsabilidad respecto a la cadena. En respuesta al informe de Odfjell, las organizaciones sectoriales en cuestión ampliaron aún más el programa de acción Safety First, en particular en lo relativo a la transferencia (carga/descarga) y almacenamiento (externo) de mercancías peligrosas. La secuencia de acontecimientos del accidente en Tilburg deja claro que la elaboración/práctica cumplimiento de la responsabilidad de la cadena dentro del sector químico también debe ampliarse en lo relativo al transporte de sus mercancías peligrosas.70
 
 66	
@@ -1703,23 +1742,24 @@ Véase www.veiligheid-voorop.nl.
 69	
 Los otros tres pilares del programa de acciones son: «implicación de la dirección», «mejora de los sistemas de gestión de la seguridad» y «participación en redes de seguridad». 
 70	
-En lo relativo a la responsabilidad de la cadena, el programa de acción Safety First se ha centrado hasta la fecha principalmente en los proveedores, los mandantes y los clientes, respectivamente. 
+En lo relativo a la responsabilidad de la cadena, el programa de acción Safety First se ha centrado hasta la fecha principalmente en los proveedores, los mandantes y los clientes, respectivamente.
 
 ## Página 49
 
-## 5 CONCLUSIONES
-Resumen y consideración
-5.1	 El accidente50
-5.2	 Problemas de seguridad50
+## 5  CONCLUSIONES
+Resumen y
+consideración
+5.1	 El accidente................................................................................50
+5.2	 Problemas de seguridad................................................................50
 1
-5.3	 Factores subyacentes51
+5.3	 Factores subyacentes...................................................................51
 Introducción
-5.4	 Conclusión final52
+5.4	 Conclusión final.........................................................................52
 2
 El accidente
 3
-Transporte de 
-mercancías 
+Transporte de
+mercancías
 peligrosas por ferrocarril
 4
 Análisis
@@ -1729,8 +1769,8 @@ Conclusiones
 Recomendaciones
 Anexo
 
-
 ## Página 50
+
 
 ## 5 CONCLUSIONES
 Resumen y consideración
@@ -1749,6 +1789,7 @@ a.	 Involucración de un tren de mercancías que transportaba mercancías peligr
 En lo relativo a la involucración de mercancías peligrosas en la colisión de trenes en Tilburg, es importante señalar que el tren de mercancías fue guiado desde la vía principal hacia una vía secundaria. Esto fue resultado de una parada intermedia realizada para permitir un cambio de maquinista (a solicitud de la empresa ferroviaria). Para los fines de dicha parada, el tren fue guiado hacia una vía secundaria (demasiado corta), como consecuencia de la notificación incorrecta de la longitud del tren en el sistema de notificación en línea (ISVL). Como consecuencia, el último vagón mantuvo ocupado un desvío, lo que a su vez llevó a que la señal destinada al tren de pasajeros permaneciera en rojo. El maquinista del tren de pasajeros no detuvo el tren ante la señal en rojo. Dado que la señal no estaba protegida con el sistema automático de protección de trenes ATB - Versión Mejorada, no hubo ninguna intervención automática de frenado.
 
 ## Página 51
+
 
 Es relativamente frecuente que los trenes de mercancías realicen paradas intermedias. No obstante, esta reprogramación puede generar riesgos adicionales para la seguridad. Como fue el caso del accidente en Tilburg, dichos riesgos se relacionan con el hecho de que el tren acaba en una vía no cubierta por el sistema de protección automática de trenes ATB - Versión Mejorada, y con el paso por agujas (de desvío). Tanto en el caso de la solicitud de una parada intermedia por parte de la empresa ferroviaria, como en la aceptación e implementación de dicha solicitud por parte de ProRail, estos riesgos adicionales no fueron tenidos en cuenta. Lo mismo aplica a la reprogramación de trenes de mercancías que transportan mercancías peligrosas, donde además de los riesgos al tráfico de trenes, existen también riesgos externos.
 1
@@ -1776,8 +1817,8 @@ Los asuntos mencionados anteriormente que contribuyeron a la implicación del va
 Apéndice
 •	 Al dirigir dos trenes de mercancías que contenían vagones cisterna llenos/sin limpiar hacia vías apartadas, se neutralizó el efecto de los sistemas de protección automática de trenes ATB - Versión Mejorada que estaban instalados en las señales de las vías principales de la ruta Brabant.
 
-
 ## Página 52
+
 
 Además, los trenes tenían que pasar por varios juegos de agujas de desvío, lo cual representaba en sí mismo un mayor riesgo de descarrilamiento y colisión.
 •	 Al desplegar trenes de pasajeros con baja compatibilidad de choque en esta ruta específica, los topes de choque del vagón cisterna impactado resultaron ineficaces, dando lugar a una fuga.
@@ -1790,6 +1831,7 @@ También ha quedado claro que la seguridad del transporte de mercancías peligro
 Dada la potencial gravedad de los accidentes ferroviarios que implican mercancías peligrosas, ambas cuestiones deben abordarse con urgencia. La responsabilidad de estas acciones recae en las empresas ferroviarias involucradas, el gestor de infraestructura ferroviaria (ProRail) y las empresas químicas que encargan el transporte de mercancías peligrosas.
 
 ## Página 53
+
 
 ## 6 RECOMENDACIONES
 Resumen y consideración
@@ -1831,8 +1873,8 @@ Se contactó con las siguientes entidades: SABIC Petrochemicals B.V., AnQore B.V
 72	
 VNO-NCW, Asociación de la Industria Química de los Países Bajos (VNCI), Asociación de la Industria Petrolera de los Países Bajos (VNPI), Asociación de Comerciantes de Productos Químicos (VHCP) y la Asociación de Empresas Independientes de Almacenamiento en Tanques (VOTOB).
 
-
 ## Página 54
+
 
 4.	
 La empresa ferroviaria del tren de pasajeros implicado en el accidente (NS Reizigers):
@@ -1861,6 +1903,7 @@ Esta recomendación está en consonancia con la recomendación 6 del informe pub
 Mediante Decreto de 26 de noviembre de 2015 (Boletín Oficial de Leyes y Decretos 2015, 470), el Decreto de la Junta de Seguridad de los Países Bajos (en relación con la implementación adicional de la Directiva UE 2004/49/CE) fue debidamente revisado.
 
 ## Página 55
+
 
 ## APÉNDICE
 A
@@ -1925,8 +1968,8 @@ F.4	 Resumen de los trenes NS Reizigers........................................
 ### Apéndice G.	
 ### Accidentes ferroviarios con mercancías peligrosas .....................................104
 
-
 ## Página 56
+
 
 ## Apéndice A
 A
@@ -1988,6 +2031,7 @@ una explicación de por qué la Junta decidió no hacerlo. Estos comentarios y l
 
 ## Página 57
 
+
 ## A.3	
 ### Comité de orientación
 Para esta investigación, la Junta de Seguridad de los Países Bajos designó un comité de orientación. Este 
@@ -2046,8 +2090,8 @@ En la investigación, se hizo uso adicional de la experiencia de los siguientes 
 C.N. Smit (Arcadis Nederland), R. Knuvers (Lucros Railway Engineering) y 
 W.A.M. van der Marel, W. Plantagie y P.K. Wiersma (DEKRA Rail).
 
-
 ## Página 58
+
 
 ## Anexo B
 A
@@ -2093,8 +2137,8 @@ Accidentes ferroviarios
 con mercancías 
 peligrosas
 
-
 ## Página 59
+
 
 b. Tren de carga
 El tren de carga consistía en una locomotora y 35 vagones y era operado por DB Schenker. De los 35 vagones, siete estaban cargados. De esos siete, en seis casos la carga 
@@ -2306,6 +2350,7 @@ Lleno
 
 ## Página 60
 
+
 N.º de serie del vagón
 Referencia de carga
 Tipo
@@ -2365,6 +2410,7 @@ Accidentes ferroviarios con mercancías peligrosas
 
 ## Página 61
 
+
 Tilburg-University). La ruta del tren de mercancías fue ajustada debidamente: el cambio implicaba que, entre las estaciones de Tilburg y Tilburg-University, el tren de mercancías no permanecería en la vía principal (921), sino que sería guiado hacia una de las vías laterales A (912-B) en el patio de Tilburg-Goods (véase la figura 20). El tren de mercancías llegó a esa vía a las 16:34 horas. El otro tren de mercancías (viajando hacia Sittard, que había salido temprano desde Kijfhoek) había llegado a Tilburg aproximadamente un cuarto de hora antes (alrededor de las 16:17 horas) viajando desde la dirección opuesta, y había sido colocado en la vía 913 (véase la figura 21).
 B
 Hallazgos técnicos
@@ -2397,6 +2443,7 @@ El maquinista del tren de pasajeros no registró (conscientemente) la señal en 
 76 Era una práctica estructural que los trenes de pasajeros «salieran en amarillo». Esto se debía a que la siguiente señal (señal 96 en la vía 911-C) solo se liberaba de su posición de parada cuando el tren en cuestión había pasado un punto de disparo situado relativamente cerca de esa señal.
 
 ## Página 62
+
 
 Dado que la señal no estaba equipada con el sistema de protección automática del tren ATB - Versión Mejorada,77 no se produjo ninguna intervención de frenado automático. La consecuencia final fue que el tren de pasajeros, a través del desvío 87B que aún no había sido cambiado a la posición correcta, y del desvío 87A/85, fue guiado hacia la vía secundaria 912-B (véase la figura 21). Como se explicó anteriormente, dicha vía estaba ocupada por el tren de mercancías. El maquinista del tren de pasajeros activó su freno en el último momento, pero debido a la distancia limitada, esto no fue suficiente para evitar una colisión con el tren de mercancías.
 
@@ -2446,7 +2493,6 @@ Un análisis de los daños en los vehículos muestra que la colisión consistió
 77	
 La señal 96 ha sido ahora equipada con un sistema de protección automática del tren ATB - Versión Mejorada.
 
-
 ## Página 63
 
 Vista lateral
@@ -2455,25 +2501,45 @@ Vagón cisterna
 Tren de pasajeros
 Vagón cisterna
 Tren de pasajeros
-tope de choque
-enganche
+amortiguador de choque
+acoplamiento
 automático
-tope de choque
-enganche
+A
+Justificación de la
+investigación
+amortiguador de choque
+acoplamiento
 automático
-enganche de remolque
-enganche de remolque
-
+acoplamiento de remolque
+acoplamiento de remolque
+B
+Hallazgos técnicos
 ### 1
-
+C
+Otras
+investigaciones
+sobre el tren
+D
 ### 2
-
+Legislación y
+normativa
+E
+Protección contra
 ### 3
-
-Figura 22: En términos generales, la colisión consistió en tres fases, en las que la parte frontal del tren de pasajeros primero colisionó con el enganche de remolque (1), luego con los topes (2) y finalmente con la cisterna del último vagón cisterna (3).
-
+choque en los
+vagones cisterna
+F
+Compatibilidad de
+choque de los
+Figura 22: En términos generales, la colisión constó de tres fases, en las que el frontal del tren de pasajeros
+trenes de pasajeros
+primero chocó con el acoplamiento de remolque (1), después con los amortiguadores de choque (2) y finalmente con el depósito del vagón cisterna más trasero (3).
+G
+Accidentes ferroviarios
+con mercancías peligrosas
 
 ## Página 64
+
 
 Figura 23: Estas fotografías muestran que la nariz del tren de pasajeros se había encaramado y pasado por encima de los topes del vagón cisterna, antes de colisionar con la pared trasera de la cisterna. (Fotos: policía)
 
@@ -2481,8 +2547,8 @@ Basándose en el análisis de los archivos de ARR, las posiciones finales y los 
 •	 Como resultado de la colisión, el último vagón cisterna fue empujado hacia adelante una distancia de varios metros (probablemente unos cuatro metros). El movimiento de empuje hacia adelante se transmitió a lo largo de la longitud del tren de mercancías; finalmente, la locomotora, situada a unos seiscientos metros más lejos, también fue empujada hacia adelante varios metros.
 •	 El periodo de colisión durante el cual se produjeron los daños probablemente duró entre medio segundo y un segundo. Posteriormente, probablemente transcurrieron unos ocho segundos hasta que la sección frontal del tren de mercancías se detuvo por completo.
 
-
 ## Página 65
+
 
 •	 Al inicio de la colisión, la energía cinética del tren de pasajeros era de aproximadamente 13½ MJ. La gran mayoría de esa energía (aproximadamente 10½ MJ) se convirtió en deformaciones del último vagón cisterna y del propio tren de pasajeros, así como en la compresión y extensión de los topes/ganchos entre los vagones de mercancías. El resto de la energía cinética original (aprox. 3 MJ) se convirtió durante el curso de este movimiento en fricción (debido a que el sistema de frenado del tren de pasajeros y de la locomotora estaba activo).
 
@@ -2495,6 +2561,7 @@ b. Daños en el material rodante y en la infraestructura ferroviaria
 En el tren de pasajeros, la mayor parte de los daños se produjeron en el extremo frontal de la primera unidad múltiple y en el enganche entre las dos unidades múltiples. Los daños en el extremo frontal (véase la fotografía de la izquierda en la figura 24) afectaron principalmente al enganche automático, a la barra de tracción y a su fijación. Los daños en la sección central del tren (véase la fotografía de la derecha en la figura 24) afectaron sobre todo a las piezas del enganche que unían las dos unidades múltiples.
 
 ## Página 66
+
 
 A
 Justificación de la investigación
@@ -2521,8 +2588,8 @@ Los vagones y la locomotora fueron inspeccionados visualmente para detectar dañ
 79	
 No se observaron daños en el otro lado del vagón cisterna (situado en la parte «delantera» durante la colisión). Lo mismo ocurrió con los topes de amortiguación situados en ese lado.
 
-
 ## Página 67
+
 
 A
 Justificación de la investigación
@@ -2551,52 +2618,68 @@ Investigaciones realizadas
 
 El vagón cisterna es del tipo Zagns, con número de registro 33 80 7809 737-9, para el cual GATX está registrado como ECM (Entidad responsable del mantenimiento). En el marco de esta investigación, entre otros documentos, se consultaron los siguientes en los expedientes de tanques de GATX: certificado de inspección inicial fechado el 07-09-2004, certificado de inspección periódica fechado el 16-04-2012, planos (expediente GATX 7299).
 
-
 ## Página 68
 
+de esta investigación, entre otros, se consultaron los siguientes documentos en los expedientes de tanques de GATX: certificado de inspección inicial fechado el 07-09-2004, certificado de inspección periódica fechado el 16-04-2012, planos (expediente GATX 7299).
 A
-Justificación de la investigación
+Justificación de
+la investigación
 B
 Hallazgos técnicos
 C
-Otras investigaciones sobre el tren
+Otras
+investigaciones
+sobre el tren
+Figura 26: El panel de información en el vagón cisterna embestido. (Fotografía: Dutch Safety Board)
+La investigación del vagón cisterna consistió en cinco subinvestigaciones, como se describe
 D
-Legislación y normativa
+a continuación. La primera parte (la inspección visual y el escaneo láser 3D) se llevó a cabo el 11-03-
+Legislación y
+reglamentación
+2015 en Vlissingen; las restantes subinvestigaciones se llevaron a cabo el 06-05-2015 en
+Geleen. Para registrar los hallazgos, las (18) conexiones de tornillos de la tapa de la boca de
+hombre se numeraron del 1 al 18, de acuerdo con la fotografía de la derecha de la figura 27.
 E
-Protección contra colisiones en vagones cisterna
-F
-Compatibilidad de colisión de los trenes de pasajeros
-G
-Accidentes ferroviarios con mercancías peligrosas
-
-Figura 26: El panel de información del vagón cisterna alcanzado. (Foto: Junta de Seguridad de los Países Bajos)
-
-La investigación del vagón cisterna constó de cinco subinvestigaciones, descritas a continuación. La primera sección (la inspección visual y el escaneo láser 3D) se realizó el 11-03-2015 en Vlissingen; las restantes subinvestigaciones se realizaron el 06-05-2015 en Geleen. Para registrar los hallazgos, las (18) conexiones por tornillos en la tapa del pozo de visita se numeraron del 1 al 18, de acuerdo con la fotografía de la derecha en la figura 27.
-
+Protección
+contra choques
+en vagones
+cisterna
 2
 1
 3
 18
 4
+F
 17
+Compatibilidad
 5
 16
+en colisiones
+de los trenes
 6
 15
+de pasajeros
 7
 14
 13
 8
+G
 9
+Accidentes
+ferroviarios
 12
 10
 11
-
-Figura 27: La fotografía de la izquierda fue tomada durante la inspección realizada el 06-05-2015 en Geleen. La fotografía de la derecha muestra la numeración de las conexiones por tornillos en la tapa del pozo de visita (del 1 al 18) a efectos de informe. (Fotos: Junta de Seguridad de los Países Bajos)
-
-Durante la primera parte de la inspección en Vlissingen, y las inspecciones posteriores en Geleen, el tanque fue enjuagado con nitrógeno, con el fin de reducir la concentración de
+con mercancías
+peligrosas
+Figura 27: La fotografía de la izquierda se tomó durante la inspección realizada el 06-05-2015 en Geleen.
+La fotografía de la derecha muestra la numeración de las conexiones de tornillos de la boca de
+hombre (del 1 al 18) a efectos de la notificación. (Fotografías: Dutch Safety Board)
+Durante la primera parte de la inspección en Vlissingen, y las inspecciones posteriores en
+Geleen, el tanque se aclaró con nitrógeno, con el fin de reducir la concentración de
 
 ## Página 69
+
 
 butadieno, de modo que el vagón cisterna pudiera abrirse con seguridad. Como resultado de la sobrepresión generada durante el enjuague, que pudo haber alcanzado aproximadamente 4 Bar, la deformación (abolladura) causada en la pared trasera por la colisión fue parcialmente «forzada hacia fuera». Como resultado, la profundidad de la deformación, que era originalmente de aprox. 0,35 m, se redujo aproximadamente a la mitad.
 A
@@ -2625,8 +2708,8 @@ En la pared final trasera, se comprobó el casco de la cisterna en busca de indi
 G
 Accidentes ferroviarios con mercancías peligrosas
 
-
 ## Página 70
+
 
 B2.2	Hallazgos
 1. Observaciones visuales
@@ -2647,8 +2730,8 @@ Figura 28: Estas fotografías muestran los daños en el vagón cisterna. (Fotos:
 G
 Accidentes ferroviarios con mercancías peligrosas
 
-
 ## Página 71
+
 
 A
 Justificación de la investigación
@@ -2667,8 +2750,8 @@ G
 Accidentes ferroviarios con mercancías peligrosas
 Figura 30: Los topes de impacto en el lado del vagón cisterna no embestido no mostraron deformación permanente. (Foto: Consejo de Seguridad de Países Bajos)
 
-
 ## Página 72
+
 
 2. Pruebas de fugas
 Durante tanto la primera como la segunda prueba de fugas, la única fuga observada fue a lo largo del sello de la tapa de acceso.
@@ -2800,6 +2883,7 @@ Figura 31: Figura 31: Esta tabla ofrece una visión general de los hallazgos dur
 
 ## Página 73
 
+
 4. Juntas y superficies de contacto
 La junta instalada (véase la figura 32) era de color verde y llevaba las marcas: 3820 VP401 KTW WrC. El espesor oscilaba entre 2,45 y 2,82 mm. La anchura estaba entre 13,35 y 13,85 mm. La junta, que era del tipo prescrito, no presentaba desviaciones que pudieran explicar la aparición de la fuga.
 Justificación de la investigación
@@ -2814,8 +2898,8 @@ Compatibilidad de colisión de trenes de pasajeros
 Accidentes ferroviarios con mercancías peligrosas
 Figura 33: Estas fotografías muestran los rastros de fuga de color óxido, que quedaron visibles tras retirar la tapa del registro. La fotografía de la izquierda y la fotografía central muestran el exterior de la brida (incluida la junta), mientras que la fotografía de la derecha muestra el interior (Fotos: Consejo de Seguridad de los Países Bajos)
 
-
 ## Página 74
+
 
 5. Espesor de pared e investigación de grietas
 Cerca de la tapa del registro, el espesor de pared de la pared final (incluida la capa de pintura) ascendía a 10,3 mm.
@@ -2827,6 +2911,7 @@ B.3 Análisis de archivos ARR
 Para una indicación precisa de la velocidad de colisión, se analizaron los archivos del Registro Automático de Marcha (ARR) de ambos trenes. Los hallazgos más importantes se enumeran a continuación.
 
 ## Página 75
+
 
 B3.1	
 Tren de pasajeros
@@ -2865,8 +2950,8 @@ peligrosas
 b.	 Como resultado de la colisión, la locomotora fue empujada hacia adelante una distancia de al menos aproximadamente 3 metros, y posiblemente unos 5 metros.
 c.	 El freno directo de la locomotora se aplicó aproximadamente 3 minutos antes de la colisión (cuando el tren se detuvo). El freno indirecto (con ventilación de la tubería general) se accionó aproximadamente en el mismo momento en que la locomotora volvió a moverse (como consecuencia de la colisión); en los dos segundos siguientes, la presión en la tubería general descendió de 4,9 a 4,3 Bar.
 
-
 ## Página 76
+
 
 ## B.4	
 ### Análisis de la colisión
@@ -2895,6 +2980,7 @@ Esta reconstrucción del curso de la colisión se confirma por los daños corres
 
 ## Página 77
 
+
 A
 Justificación de la investigación
 B
@@ -2914,8 +3000,8 @@ El modelo de cálculo (véase a), los puntos de partida esenciales (véase b) y 
 a. Modelo de cálculo
 El modelo de cálculo utilizado, reproducido en forma de diagrama en la figura 37, consiste en una serie de masas acopladas. Los acoplamientos entre las masas toman la forma de elementos de fuerza, cuya fuerza (en función del tiempo) depende de la posición relativa (Δx) y la velocidad relativa (Δv); los elementos de fuerza consisten en un muelle conectado en paralelo (con la constante de rigidez C) y un amortiguador (con la constante de amortiguación K). La influencia de las fuerzas de frenado se tiene en cuenta indicando para cada masa si se aplicó o no una fuerza de frenado. El modelo de cálculo se implementó en el software informático BODYSIM (escrito en MATLAB versión 2007b).
 
-
 ## Página 78
+
 
 A
 Justificación de la investigación
@@ -3026,8 +3112,8 @@ KE38
 KE39
 Figura 38: Visión general esquemática del modelo de cálculo en la que se indican los coches/vagones, junto con la numeración de los elementos de acoplamiento (KE). Los vagones coloreados están cargados, los demás están vacíos.
 
-
 ## Página 79
+
 
 Se tomaron los siguientes puntos de partida para los diversos elementos/acoplamientos:
 •	 El tren de pasajeros consta de cuatro coches con una masa de 43 toneladas por coche. Para las masas de los vagones individuales, se tomaron los valores de la lista de vagones (como se indica en la figura 18). Se asumió una masa de 82 toneladas para la locomotora.
@@ -3064,6 +3150,7 @@ vagón cisterna/vagón cisterna
 Figura 39: Este gráfico muestra las curvas de deformación (diagramas fuerza/recorrido) empleadas en la simulación del cálculo de los movimientos para los diversos elementos de acoplamiento.
 
 ## Página 80
+
 
 c. Resultados
 La colisión reconstruida (véanse los gráficos de la figura 40) se resume, en términos generales, en lo siguiente:
@@ -3131,8 +3218,8 @@ Accidentes ferroviarios
 con mercancías 
 peligrosas
 
-
 ## Página 81
+
 
 Distancia recorrida en función del tiempo [x = f(t)]
 7,0
@@ -3202,8 +3289,8 @@ peligrosas
 •	 El resto de la energía cinética (2,8 MJ o más del 21%) se convirtió en fricción entre las 
 ruedas frenadas (del tren de pasajeros y de la locomotora) y los raíles.
 
-
 ## Página 82
+
 
 Disipación de energía por elemento de acoplamiento como 
 porcentaje de la energía total disipada 
@@ -3258,8 +3345,8 @@ Accidentes ferroviarios
 con mercancías 
 peligrosas
 
-
 ## Página 83
+
 
 ## Anexo C
 A
@@ -3321,6 +3408,7 @@ colisión de trenes del 6 de marzo de 2015 en el municipio de Tilburg (fecha 05-
 
 ## Página 84
 
+
 A pesar de las recomendaciones previas del Consejo de Seguridad de los Países Bajos y de la Inspección de Vivienda, Espacio Vital y Transporte (ILT), la política de ProRail no estaba orientada a modificar situaciones como la de Tilburgo (con una ‘salida en amarillo’ estructural).
 A
 Justificación de 
@@ -3362,10 +3450,10 @@ Accidentes ferroviarios
 61080) de la estación de clasificación. La ejecución de esta instrucción sufrió un retraso de varias horas 
 con mercancías 
 peligrosas
-porque el regulador de tráfico ferroviario (Trdl) - conforme a los reglamentos para situaciones normales - asumió que la ruta en cuestión no podía liberarse porque los dos trenes estaban en vías que previamente habían sido sacadas de servicio (BD) por el Líder de Protección Laboral (LWB). Los reglamentos no contemplan una situación en la que, en caso de catástrofe, el oficial de guardia Rail (OvD-Rail) (en nombre del Jefe del COPI o del alcalde) deba poder ordenar al regulador de tráfico ferroviario emprender ciertas acciones que normalmente estarían prohibidas. Esto podría conducir, por ejemplo, a una situación en caso de incendio en un vagón cisterna con fuga, a que el fuego pudiera propagarse a otros vagones que contienen mercancías peligrosas. 
-
+porque el regulador de tráfico ferroviario (Trdl) - conforme a los reglamentos para situaciones normales - asumió que la ruta en cuestión no podía liberarse porque los dos trenes estaban en vías que previamente habían sido sacadas de servicio (BD) por el Líder de Protección Laboral (LWB). Los reglamentos no contemplan una situación en la que, en caso de catástrofe, el oficial de guardia Rail (OvD-Rail) (en nombre del Jefe del COPI o del alcalde) deba poder ordenar al regulador de tráfico ferroviario emprender ciertas acciones que normalmente estarían prohibidas. Esto podría conducir, por ejemplo, a una situación en caso de incendio en un vagón cisterna con fuga, a que el fuego pudiera propagarse a otros vagones que contienen mercancías peligrosas.
 
 ## Página 85
+
 
 C.1.2 Medidas previstas y/o adoptadas
 Cuando fueron interrogadas, las empresas implicadas indicaron que, sobre la base del accidente en 
@@ -3423,6 +3511,7 @@ ProRail investigará hasta qué punto se pueden lograr mejoras de seguridad inst
 
 ## Página 86
 
+
 7.	 Lectura automática/en tiempo real de ARR y DRR:
 a.	 ProRail y DB Schenker desarrollarán un sistema para la lectura y almacenamiento automáticos/en tiempo real de los datos ARR y DRR.
 A
@@ -3479,8 +3568,8 @@ la elaboración de planes sin conflictos y la mejora de la cultura de seguridad 
 ––
 controladores de tráfico de trenes y controladores de tráfico;
 
-
 ## Página 87
+
 
 la introducción de herramientas de software como DONNA node (para identificar conflictos de planificación 
 ––
@@ -3540,10 +3629,10 @@ Accidentes ferroviarios
 con mercancías Ley de Ferrocarriles.
 peligrosas
 81	
-La ILT identifica una infracción si se observa que existen situaciones o acciones contrarias a la legislación. Se considera que existe una carencia si se observa que no se cumple un requisito/expectativa establecido en la normativa interna de la empresa o en un documento subyacente. La ILT considera relevante esta distinción, porque las infracciones pueden estar sujetas a sanciones (como imponer una penalización, utilizar la ejecución administrativa o imponer una multa administrativa), mientras que no es posible aplicar medidas coercitivas respecto a las carencias. 
-
+La ILT identifica una infracción si se observa que existen situaciones o acciones contrarias a la legislación. Se considera que existe una carencia si se observa que no se cumple un requisito/expectativa establecido en la normativa interna de la empresa o en un documento subyacente. La ILT considera relevante esta distinción, porque las infracciones pueden estar sujetas a sanciones (como imponer una penalización, utilizar la ejecución administrativa o imponer una multa administrativa), mientras que no es posible aplicar medidas coercitivas respecto a las carencias.
 
 ## Página 88
+
 
 •	 Al permitir que el tren de mercancías partiera sin que los datos correctos sobre la longitud del tren estuvieran disponibles en el sistema ISVL previsto a tal efecto, DB Schenker violó 
 el artículo 4, apartado 2, letra b) de la Orden de Transporte Ferroviario.
@@ -3576,6 +3665,7 @@ peligrosas
 
 ## Página 89
 
+
 ## Anexo D
 A
 Justificación de la investigación
@@ -3600,8 +3690,8 @@ Accidentes ferroviarios con mercancías peligrosas
 ### •	 Vehículos ferroviarios: 
 Los vehículos ferroviarios deben estar provistos de una declaración de inspección CE o un certificado de aprobación (emitido sobre la base del Tratado COTIF) y un certificado de explotación. Los vehículos ferroviarios también deben cumplir (y seguir cumpliendo) con ciertas especificaciones técnicas establecidas en relación con la seguridad, la compatibilidad con la infraestructura y la interoperabilidad, etc. Estos requisitos están establecidos en las Especificaciones Técnicas de Interoperabilidad (TSI).
 
-
 ## Página 90
+
 
 ### •	 Infraestructura: 
 El deber de diligencia para la construcción, gestión y mantenimiento ha sido encomendado al Ministro de Infraestructura y Medio Ambiente. Para el trazado, el equipamiento y las características técnicas, se especifica cierto nivel de calidad básica. El Ministro de Infraestructura y Medio Ambiente debe otorgar una concesión para la gestión de la infraestructura. Dicha gestión incluye la responsabilidad sobre la calidad, la fiabilidad y la disponibilidad, así como la distribución de la capacidad y el control del tráfico. La concesión de gestión contiene estándares de rendimiento que exigen que los riesgos de seguridad del uso y la gestión de la red ferroviaria sean analizados y gestionados suficientemente.
@@ -3624,6 +3714,7 @@ Accidentes ferroviarios con mercancías peligrosas
 Los requisitos sobre los vagones cisterna dependen de la categoría de sustancia peligrosa que puede transportarse, y de la antigüedad del vagón cisterna (cabe señalar que el RID se revisa/endurece cada dos años). En cuanto a la seguridad estructural de un vagón cisterna, los requisitos se refieren en particular a la presencia de topes de choque, dispositivos antitrepa y escudos protectores/paredes traseras reforzadas. El propósito de los topes de choque es absorber energía en caso de colisión, evitando así la deformación/daño del tanque. El propósito de un dispositivo antitrepa o escudo protector/
 
 ## Página 91
+
 
 pared trasera reforzada<sup>82</sup> tiene como objetivo limitar el riesgo de que el tanque sufra un impacto directo durante una colisión y, como consecuencia, experimente una fuga. La obligación de equipar un vagón cisterna con este sistema depende de la categoría de sustancia peligrosa transportada y del año de construcción del vagón cisterna (véase la figura 42 y el anexo E).
 Justificación de la investigación
@@ -3691,6 +3782,7 @@ Accidentes ferroviarios con mercancías peligrosas
 
 ## Página 92
 
+
 En cuanto a las tapas de los registros, se han formulado regulaciones en una norma europea (DIN - EN 12561-6) que rige la ubicación, las dimensiones y el diseño de la tapa del registro. Esta norma no es una obligación (legal), pero generalmente se cumple. En este contexto, existe efectivamente solo un requisito legal, que especifica que en los vagones cisterna para líquidos y gases tóxicos, la tapa del registro debe estar situada por encima del nivel del líquido.
 ### D.3 Circular sobre estándares de riesgo para el transporte de mercancías peligrosas o la Ley básica de redes
 Justificación de la investigación
@@ -3698,6 +3790,7 @@ La política gubernamental para restringir/gestionar los riesgos ambientales der
 Para cada línea ferroviaria, se determina qué mercancías peligrosas y en qué cantidades están permitidas para ser transportadas. Véase la Orden Ministerial sobre la Red Básica publicada en el Boletín Oficial del Gobierno de los Países Bajos el 28 de marzo de 2014. Las cifras especificadas se relacionan con el nivel esperado de transporte en 2020. En cuanto a la naturaleza de las sustancias, se utiliza la categorización de la figura 43. Para limitar el volumen de mercancías peligrosas por línea ferroviaria se utiliza el término equivalente de vagón cisterna (KWE), donde 1 KWE representa un vagón cisterna (independientemente del tipo de sustancia) con mercancías peligrosas, o dos contenedores-cisterna para una sustancia inflamable o tres contenedores-cisterna para una sustancia tóxica.
 
 ## Página 93
+
 
 categorización
 (sustancias de ejemplo)
@@ -3739,6 +3832,7 @@ Accidentes ferroviarios con mercancías peligrosas
 
 ## Página 94
 
+
 ## Anexo E
 A
 Justificación de la investigación
@@ -3759,8 +3853,8 @@ Compatibilidad de colisión con trenes de pasajeros
 G
 Accidentes ferroviarios con mercancías peligrosas
 
-
 ## Página 95
+
 
 A
 Justificación de la investigación
@@ -3784,8 +3878,8 @@ G
 Accidentes ferroviarios con mercancías peligrosas
 Se han desarrollado varios sistemas diferentes. Su característica común es que, esencialmente, consisten en una estructura de retención montada encima/debajo de los topes (véase la figura 45). El propósito de estas estructuras de retención es detener el sobrepaso de topes cuando comienza. El RID especifica que la estructura de retención debe resistir fuerzas verticales (hacia arriba y hacia abajo) de 150 kN. Las estructuras también deben fabricarse de tal manera que no representen un obstáculo para el uso normal de los vagones (incluidas las curvas cerradas), y que no aumente el riesgo de penetrar en la base de la cisterna como resultado de un impacto.
 
-
 ## Página 96
+
 
 A
 Justificación de la investigación
@@ -3808,6 +3902,7 @@ Accidentes ferroviarios con mercancías peligrosas
 Figura 46: Estas fotografías muestran dos ejemplos de pantallas protectoras. (Fotos: SABIC)
 
 ## Página 97
+
 
 ## E.3	
 ### Desarrollo de la normativa
@@ -3857,8 +3952,8 @@ Inf. 1 de la 11ª reunión del WG del RID {Reunión del RID en Berna} (mayo de 2
 86	
 Ref. OTIF/RID/CE/GTP/2012/8 {Reunión del RID en Riga} (noviembre de 2012).
 
-
 ## Página 98
+
 
 etanol (que no estaba equipado con topes de choque) estuvo involucrado en una colisión con otros vagones cisterna que resultó en una fuga y un incendio importante. En 2013, los Países Bajos presentaron una propuesta adicional elaborada (incluyendo un análisis coste/beneficio).87 La discusión de esta propuesta aún no ha concluido, pero parece que, por el momento, para la mayoría de los Estados miembros «los costes» suponen un obstáculo, y la introducción rápida de este requisito ampliado no es probable. 
 Requisitos sobre la composición de trenes que transportan mercancías peligrosas
@@ -3896,6 +3991,7 @@ OTIF/RID/CE/GTP/2012/2 {Reunión del RID en Riga} (noviembre de 2012).
 
 ## Página 99
 
+
 ## Anexo F
 A
 Justificación de la investigación
@@ -3919,9 +4015,10 @@ G
 Accidentes ferroviarios con mercancías peligrosas
 ## F.2	
 ### Trenes Mat’64
-El tren de viajeros implicado en el accidente en Tilburg era del tipo Mat’64. Los frentes de los trenes de ese tipo, diseñados y adquiridos hace más de cincuenta años (alrededor de 1964), 
+El tren de viajeros implicado en el accidente en Tilburg era del tipo Mat’64. Los frentes de los trenes de ese tipo, diseñados y adquiridos hace más de cincuenta años (alrededor de 1964),
 
 ## Página 100
+
 
 no están equipados con absorbedores de impacto ni con un deflector de obstáculos⁹² como es el caso con los trenes modernos. Como consecuencia, en los trenes de este tipo, la parte del vehículo debajo del suelo de la cabina no ofrece ninguna resistencia particular en el evento de una colisión. Como se explica además en el párrafo 4.4, esta característica significó que en el accidente en Tilburg, el frente del tren de viajeros se elevó (trepó) durante la colisión y como resultado terminó contra el tanque en el vagón trasero del tren de mercancías.
 A
@@ -3945,6 +4042,7 @@ Accidentes ferroviarios con mercancías peligrosas
 
 ## Página 101
 
+
 ## F.3	
 ### Trenes de pasajeros modernos
 Desde el período en que se adquirieron las unidades múltiples Mat’64, tanto los requisitos como los procedimientos de admisión para nuevos trenes han cambiado fundamentalmente.94 Hasta aproximadamente 1998, la admisión estaba delegada íntegramente a la entonces (aún no dividida) NS, y los requisitos técnicos de admisión consistían en regulaciones internas de la NS. En ese período, era práctica habitual que las compañías ferroviarias nacionales (como la NS) diseñaran sus propios trenes. Hasta aproximadamente la década de 1970, la visión sobre la seguridad en caso de colisión implicaba efectivamente que los coches debían construirse lo más sólidos posible, con el fin de prevenir deformaciones graves en caso de colisión.
@@ -3956,8 +4054,8 @@ Para cumplir con estos requisitos de seguridad en caso de colisión, los nuevos 
 95	Sobre todo, la ETI «Locomotoras y trenes de pasajeros» y las normas EN 12663-1 (Requisitos estructurales de las carrocerías de vehículos ferroviarios) y 15227+A1 (Requisitos de resistencia a impactos para carrocerías de vehículos ferroviarios) son relevantes para la seguridad en caso de colisión de los trenes de pasajeros. Estas fueron introducidas en 2011, 2010 y 2008, respectivamente.
 96	Que sepamos, aún no se han realizado pruebas específicas de colisión, ni ha ocurrido ninguna colisión real en la práctica entre un vagón cisterna y un tren de pasajeros moderno.
 
-
 ## Página 102
+
 
 Figura 48: Ambas fotografías muestran un tren de pasajeros moderno equipado en los extremos frontales con absorbedores de impactos. En el tren de la foto de la izquierda, los absorbedores de impactos son visibles (a ambos lados del acoplador automático). La fotografía de la derecha muestra un tren del tipo SLT operado por NS Reizigers: si se retira la sección inferior del panel frontal, se hacen visibles los dos absorbedores de impactos y el deflector de obstáculos. (Fotos: izquierda = Roel Hemkes, derecha = Junta de Seguridad Holandesa)
 
@@ -3966,10 +4064,10 @@ Figura 48: Ambas fotografías muestran un tren de pasajeros moderno equipado en 
 La tabla siguiente ofrece una visión general de los trenes de pasajeros operados por NS Reizigers en 2015, divididos en trenes con buena/razonable y pobre/mala compatibilidad de colisión respecto al material de mercancías. Esta es una evaluación global basada en la forma/construcción de los frentes de los trenes, asumiendo que la presencia de topes (de choque) proporciona una compatibilidad de colisión buena/razonable, mientras que la ausencia de estos dispositivos resulta en una compatibilidad de colisión pobre/mala.97
 Este inventario global de la flota total de trenes de NS Reizigers revela que aproximadamente 1/3 de los trenes tienen una compatibilidad de colisión razonable a buena respecto al material rodante de mercancías (incluidos los vagones cisterna). De los aproximadamente 2/3 de los trenes con compatibilidad pobre a mala, se espera que una gran proporción siga prestando servicio durante un período considerable de tiempo (15 a 30 años). 
 
-97	Cuando se le preguntó, NS Reizigers declaró que no tenía conocimiento del grado en que los diferentes tipos de trenes tienen tendencia al cabalgamiento en caso de colisión con un vagón cisterna. 
-
+97	Cuando se le preguntó, NS Reizigers declaró que no tenía conocimiento del grado en que los diferentes tipos de trenes tienen tendencia al cabalgamiento en caso de colisión con un vagón cisterna.
 
 ## Página 103
+
 
 compatibilidad de colisión pobre/mala
 compatibilidad de colisión razonable/buena
@@ -4059,6 +4157,7 @@ número total = 222, cuota de flota = 32%
 Figura 49: Visión general de la compatibilidad de colisión de la flota de trenes de NS Reizigers. (Fotos: NS Reizigers)
 
 ## Página 104
+
 
 ## Anexo G
 A
@@ -4190,8 +4289,8 @@ TOTAL
 10
 Figura 50: Resumen de accidentes ferroviarios con mercancías peligrosas en 2011-2012. Fuente: «Railway safety performance in the European Union - 2014» (Agencia Ferroviaria Europea).
 
-
 ## Página 105
+
 
 Los datos de esta tabla fueron proporcionados por la Agencia Ferroviaria Europea (ERA) y representan las estadísticas formales de la UE basadas en la obligación derivada de la Directiva sobre Seguridad Ferroviaria (2014/88/EU) de notificar determinados accidentes ferroviarios que involucren mercancías peligrosas. Los criterios para la notificación aparecen en el artículo 1.8.5 del RID. La obligación de notificación se aplica generalmente a los accidentes en los que al menos una cierta cantidad de sustancia peligrosa escapó (o hubo riesgo de dicho escape) y/o se produjeron lesiones personales o daños al material rodante o al medio ambiente, relacionados directamente con las mercancías peligrosas transportadas.
 A
@@ -4209,8 +4308,8 @@ Compatibilidad de colisión de trenes de pasajeros
 G
 Accidentes ferroviarios con mercancías peligrosas
 
-
 ## Página 106
+
 
 Dirección de visita 
 Anna van Saksenlaan 50   

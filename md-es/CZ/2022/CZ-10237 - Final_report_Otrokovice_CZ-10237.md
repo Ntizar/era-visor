@@ -10,13 +10,14 @@ chars: 275061
 ratio_longitud: 1.25
 tokens_in: 128035
 tokens_out: 93032
-verificacion: revisar
-notas_cifras: ["bloque 4: original bilingüe: se compara contra el idioma principal (CS); cifras cortas: 2/93", "bloque 6: original bilingüe: se compara contra el idioma principal (CS)", "bloque 8: cifras largas: 1/41", "bloque 10: cifras cortas: 1/174", "bloque 11: cifras cortas: 2/124", "bloque 13: original bilingüe: se compara contra el idioma principal (CS)"]
-avisos: ["bloque 13: ratio 1.66"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 3: original bilingüe: se compara contra el idioma principal (ES)", "página 4: original bilingüe: se compara contra el idioma principal (CS)", "página 5: original bilingüe: se compara contra el idioma principal (CS)", "página 8: original bilingüe: se compara contra el idioma principal (CS)", "página 9: original bilingüe: se compara contra el idioma principal (CS)", "página 10: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -43,13 +44,13 @@ IČ: 75009561
 mail@dicr.cz
 tel.: +420 736 521 003
 
-
 ## Página 2
+
 
 Este informe final es público y todos los hechos en él expuestos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ## 1 RESUMEN
 Fuente: Cuerpo de Bomberos y Salvamento de la Región de Zlín
@@ -78,8 +79,8 @@ de circulación obligatoria con el pantógrafo bajado, causada por el incumplimi
 dispositivo de señalización portátil para operación eléctrica, que indicaba la señal «Baje el 
 pantógrafo».
 
-
 ## Página 4
+
 
 Causa del incendio posterior en equipos de infraestructura ferroviaria:
 •
@@ -134,8 +135,8 @@ móvil del ETCS y su posterior procesamiento y uso (por ejemplo, avisos mediante
 de texto en la unidad de visualización y control de la parte móvil del ETCS y medidas 
 similares).
 
-
 ## Página 5
+
 
 Drážní inspekce no emite más recomendaciones de seguridad, no obstante considera necesario 
 advertir sobre la conveniencia de no utilizar, en la colocación horizontal (sujeción) de los 
@@ -146,10 +147,10 @@ colocación del conjunto en el que incluso el conjunto de cortacircuitos colgado
 perfil de rodadura de la vía, de modo que se minimice el riesgo de penetración de tensión desde 
 la línea de contacto a los circuitos del equipo de enclavamiento, independientemente del 
 funcionamiento de los interruptores rápidos, a través de los cuales se alimentan los tramos de 
-línea de contacto adyacentes al tramo o tramos con alimentación desconectada. 
-
+línea de contacto adyacentes al tramo o tramos con alimentación desconectada.
 
 ## Página 6
+
 
 ## SUMMARY
 7th June 2022, 17:19 (15:19 GMT).
@@ -200,8 +201,8 @@ connection with the monotonous work of driving a rail vehicle and the physiologi
 processes of human biorhythms are the same for the behavior of all employees (the 
 train drivers).
 
-
 ## Página 7
+
 
 Addressed to the Czech National Safety Authority (NSA):
 •
@@ -222,6 +223,7 @@ electric operation, including portable signal devices, from trackside to mobile 
 of the ETCS and their subsequent processing and application.
 
 ## Página 8
+
 
 ### Índice
 1 RESUMEN.......................................................................................................................3
@@ -263,8 +265,8 @@ SUMMARY.........................................................................
 4.2 Vehículos ferroviarios e instalaciones técnicas..........................................................65
 4.2.1 Factores o consecuencias derivados del diseño de los vehículos ferroviarios, de la infraestructura ferroviaria o de las instalaciones técnicas....................................................................65
 
-
 ## Página 9
+
 
 4.2.2 Factores o consecuencias derivados de la instalación y de la puesta en servicio de los vehículos ferroviarios, de la infraestructura ferroviaria o de las instalaciones técnicas.....................................65
 4.2.3 Factores o consecuencias relacionados con los fabricantes de vehículos ferroviarios u otros proveedores de productos ferroviarios...........................................................................65
@@ -294,8 +296,8 @@ SUMMARY.........................................................................
 6 RECOMENDACIONES DE SEGURIDAD...................................................................................83
 ANEXOS............................................................................................................................86
 
-
 ## Página 10
+
 
 ### Lista de siglas y símbolos utilizados
 AB
@@ -385,8 +387,8 @@ aparato de enclavamiento de trazado
 UTZ
 dispositivo técnico designado
 
-
 ## Página 11
+
 
 ÚO
 seccionador de sección
@@ -398,6 +400,7 @@ Informe final sobre los resultados de la investigación del suceso extraordinari
 estación de ferrocarril
 
 ## Página 12
+
 
 ### Lista de abreviaturas de disposiciones legales, normas y reglamentos internos utilizados
 Reglamento de la Comisión (UE) 2018/762 REGLAMENTO DE LA COMISIÓN DELEGADA (UE) 
@@ -449,8 +452,8 @@ reglamento interno del gestor de la infraestructura SŽ, «SŽDC D1
 Reglamento de circulación y de señales», en la versión vigente 
 en el momento de la creación de la MU
 
-
 ## Página 13
+
 
 reglamento interno SŽDC E6 
 reglamento interno del gestor de la infraestructura SŽ «SŽDC E6 
@@ -474,55 +477,35 @@ reglamento interno PKPCI Vp22
 reglamento interno del transportista PKPCI, «Vp22 Explotación 
 del transporte ferroviario», en la versión vigente en el momento de la creación de la MU
 
-
 ## Página 14
 
-## 2 INVESTIGACIÓN Y SU CONTEXTO
+## 2 INVESTIGACIÓN Y SUS RELACIONES
 ### 2.1 Decisión de iniciar la investigación
-La DI decidió iniciar la investigación de la MU en cuestión el 9 de 6 de 2022.
+El DI decidió iniciar la investigación de la MU en cuestión el 9 de junio de 2022.
 ### 2.2 Fundamentación de la decisión de iniciar la investigación
-La DI decidió investigar la MU en cuestión sobre la base de su gravedad, repetitividad y de los impactos 
-de la MU sobre el gestor de la infraestructura y el transportista, y sobre la base de la competencia derivada del § 53b 
-de la ley n.º 266/1994 Sb., tras recibir la información en el marco de la aclaración de la 
-notificación original de la creación de la MU sobre el aumento significativo de la estimación inicial de los 
-daños en la infraestructura ferroviaria, véase el punto 2.3 de la presente ZZ. 
+El DI decidió investigar la MU en cuestión sobre la base de su gravedad, repetitividad y de los impactos de la MU en el gestor de la infraestructura ferroviaria y el transportista, y sobre la base de la facultad derivada del § 53b de la Ley núm. 266/1994 Sb., y ello tras recibir la información en el marco de la aclaración de la notificación original de la MU, relativa al aumento significativo de la estimación inicial de los daños a la infraestructura ferroviaria, véase el punto 2.3 de la presente ZZ.
 ### 2.3 Alcance y limitaciones de la investigación, incluida la fundamentación correspondiente
-La DI, en el marco de la investigación de la MU en cuestión, se enfrentó a limitaciones derivadas del hecho de 
-que no participó en la investigación inicial en el lugar de la creación de la MU, lo que sin embargo no influyó negativamente en el 
-método y los procedimientos de investigación de esta MU.
-La creación de la MU fue notificada a la DI por la persona autorizada en representación del gestor de la infraestructura SŽ y del transportista 
-PKPCI el 7 de 6 de 2022 a las 17:37 h como daño al colector y a la línea de contacto durante la circulación del tren Nex 53742, 
-en el extremo de Napajedla de la estación de Otrokovice en el km 154,310, en la que no debía producirse ningún daño a la salud de las personas, 
-se debía producir un daño de unos 50 000 Kč y el transporte ferroviario debía verse 
-limitado a unas 3 h. Sobre la base de los hechos notificados, el inspector COP de la DI el mismo 
-día a las 17:39 h concedió al notificante el permiso para liberar la vía. El mismo día a las 21:24 h, la notificación 
-inicial de la MU fue completada por el notificante con la aclaración del lugar de la creación de la MU en el km 154,109, 
-con el aumento de la estimación inicial del daño causado a 20 200 000 Kč y con la introducción de corriente en 
-la SZZ de la estación de Otrokovice y Tlumačov y en la TZZ TÚ Otrokovice – Tlumačov. Durante la investigación 
-de la MU en cuestión, la estimación del daño fue aumentada por el gestor de la infraestructura 
-hasta 45 635 222 Kč.
+El DI, en el marco de la investigación de la MU en cuestión, se enfrentó a limitaciones derivadas del hecho de que no participó en la investigación inicial en el lugar de la MU, las cuales, sin embargo, no influyeron negativamente en el modo y los procedimientos de investigación de dicha MU.
+La MU fue notificada al DI por la persona autorizada en nombre del gestor de la infraestructura ferroviaria SŽ y del transportista PKPCI el 7 de junio de 2022 a las 17:37 h como daño al colector y a la TV durante la circulación del tren Nex 53742, y ello en el extremo de Napajedela de la estación de Otrokovice en el km 154,310, en la que no debieron producirse lesiones personales, se estimó que el daño ascendería a unos 50 000 CZK y que el tráfico ferroviario debería restringirse durante unas 3 h. Sobre la base de los hechos notificados, el inspector COP DI concedió al notificante, el mismo día a las 17:39 h, la autorización para liberar la vía. El mismo día, a las 21:24 h, la notificación inicial de la MU fue completada por el notificante con la aclaración del lugar de la MU en el km 154,109, el aumento de la estimación inicial del daño producido a 20 200 000 CZK y la introducción de corriente en la SZZ de la estación de Otrokovice y Tlumačov y en la TZZ TÚ Otrokovice – Tlumačov. Durante la investigación de la citada MU, la estimación del daño fue aumentada por el gestor de la infraestructura ferroviaria hasta 45 635 222 CZK.
 ### 2.4 Descripción resumida de las capacidades y funciones técnicas del equipo de investigación
-Investigación de la DI en el lugar de la MU:
-La DI no participó en la investigación en el lugar de la MU. 
-Formación del equipo de investigación:
-no fue necesario formarlo.
+Investigación del DI en el lugar de la MU:
+El DI no participó en la investigación en el lugar de la MU.
+Constitución del equipo de investigación:
+no fue necesario constituirlo.
 Colaboración externa:
-fue utilizada, con la VŠB-TU Ostrava, Facultad de 
-Ingeniería Eléctrica e Informática, que elaboró el 
-documento: «Informe sobre los fenómenos eléctricos producidos 
-en el suceso excepcional del 7.6.2022 en la estación 
-ferroviaria de Otrokovice», con fecha de elaboración del 22 de 5 de 
-2023 (en adelante, Informe VŠB-TU Ostrava).
-2.5 Comunicación y consultas durante la investigación con las personas o entidades 
+se utilizó, con la VŠB-TU Ostrava, Facultad de
+Ingeniería Eléctrica e Informática, que elaboró el
+documento: "Informe sobre los fenómenos eléctricos
+producidos durante la incidencia del 7.6.2022 en la
+estación de ferrocarril de Otrokovice", con fecha de
+elaboración del 22 de mayo de 2023 (en adelante,
+Informe VŠB-TU Ostrava).
+2.5 Comunicación y consultas durante la investigación con las personas o entidades
 que participaron en el suceso en cuestión
-En la investigación de las causas y circunstancias de la creación de la MU, la DI se basó en sus propios conocimientos, hallazgos 
-y en su propia documentación fotográfica realizada tras el inicio de su propia 
-investigación. Durante la investigación, la DI 
-solicitó la documentación necesaria al gestor de la infraestructura SŽ y al transportista PKPCI 
-e inició la colaboración con la VŠB-TU Ostrava, Facultad de Ingeniería Eléctrica e Informática. 
-
+En la investigación de las causas y circunstancias de la MU, el DI partió de sus propios conocimientos, hallazgos y de su propia documentación fotográfica realizada tras el inicio de su propia investigación. Durante la investigación, el DI solicitó la documentación necesaria al gestor de la infraestructura ferroviaria SŽ y al transportista PKPCI e inició la colaboración con la VŠB-TU Ostrava, Facultad de Ingeniería Eléctrica e Informática.
 
 ## Página 15
+
 
 La investigación de las causas y circunstancias de la creación de la MU se realizó de acuerdo con la ley n.º 266/1994 Sb. 
 y el decreto n.º 376/2006 Sb.
@@ -570,8 +553,8 @@ se inició ninguna comunicación ni colaboración.
 Todas las circunstancias esenciales detectadas relativas al desarrollo de la investigación de la MU en cuestión ya 
 han sido indicadas anteriormente.
 
-
 ## Página 16
+
 
 ## 3 DESCRIPCIÓN DEL SUCESO
 ### 3.1 Descripción e información básica
@@ -619,8 +602,8 @@ y en los tramos adyacentes se estaba llevando a cabo una interrupción planifica
 •
 vías SK n.º 1, 3 y 3a de la estación de Otrokovice,
 
-
 ## Página 17
+
 
 •
 parte de la SK del extremo de Tlumačov y la SK del extremo de Otrokovice, que es 
@@ -658,33 +641,36 @@ realización de la interrupción indicada, estaba alimentada en un solo sentido,
 
 ## Página 18
 
-conmutadores rápidos RN y N2. La tensión de catenaria sobre las vías impares y pares de las líneas y estaciones quedó interconectada individualmente a través de los conmutadores ÚO en la estación Staré Město u Uherského Hradiště, Huštěnovice y Napajedla para mejorar las condiciones de tensión y la capacidad de transmisión de la catenaria debido a la ausencia de alimentación favorable desde el PTNS Otrokovice.
+seccionadores rápidos RN y N2. La TV sobre las vías impares y pares de líneas y estaciones quedó interconectada mediante los distintos ÚO en la est. Staré Město u Uherského Hradiště, Huštěnovice y Napajedla para mejorar las condiciones de tensión y la capacidad de transmisión de la TV debido a la ausencia de alimentación inversa desde PTNS Otrokovice.
 
-En el marco de la interrupción de servicio antes mencionada, se realizaron, entre otras, acciones para garantizar la seguridad y la protección de la salud de las personas en las actividades y el desplazamiento en el puesto de trabajo, conforme, entre otros, a las órdenes "B" n.º 000033 y 000034 emitidas. Se prohibieron las entradas de locomotoras eléctricas (HDV) con pantógrafo levantado al grupo de vías impares de la estación Otrokovice y a la TK n.º 1 Otrokovice – Tlumačov, y simultáneamente se colocaron señales portátiles para la circulación eléctrica, ver más abajo. Posteriormente, en:
-◦la estación Otrokovice se desactivaron (desconectaron):
-▪el ÚO 411 y 23A situados en el extremo de Napajedla, ver más arriba (el ÚO 412 fue activado),
-▪el ÚO 13B de interconexión de la catenaria del grupo de vías impar y par,
-▪el ÚO N112 situado en el extremo de Tlumačov, destinado a la (favorable) alimentación de la catenaria del grupo de vías par desde el PTNS Otrokovice,
-▪el ÚO N102 destinado a la (favorable) alimentación de la catenaria en el lugar de las nuevas divisiones mecánicas/eléctricas creadas en el extremo de Tlumačov y a la (favorable) alimentación de la catenaria sobre la TK n.º 2 Tlumačov – Otrokovice desde el PTNS Otrokovice,
-▪el ÚO 3B situado en el extremo de Tlumačov, destinado a la interconexión de la catenaria sobre la TK n.º 1 Otrokovice – Tlumačov y la TK n.º 2 Tlumačov – Otrokovice,
-◦en el PTNS Otrokovice se desactivaron (desconectaron) el ÚO N212, el ÚO N202, el ÚO N211, el ÚO N201,
-◦en la estación Tlumačov se desactivó (desconectó):
-▪el ÚO 411 situado en el extremo de Otrokovice en la división mecánica/eléctrica sobre la SK, que es la continuación de la TK n.º 1 Otrokovice – Tlumačov;
+En el marco de la interrupción antes mencionada se realizaron, entre otras, actuaciones para garantizar la seguridad y la protección de la salud de las personas en las actividades y el desplazamiento en el puesto de trabajo, conforme, entre otros, a las órdenes "B" n.º 000033 y 000034 emitidas. Se prohibieron las entradas de locomotoras eléctricas HDV con pantógrafo elevado al grupo de vías impar de la est. Otrokovice y a la TK n.º 1 Otrokovice – Tlumačov, y simultáneamente se instalaron señales provisionales para la circulación eléctrica, véase más abajo. Posteriormente, en:
+
+◦est. Otrokovice se desconectaron (fueron apagados):
+▪ÚO 411 y 23A situados en el extremo de Napajedla, véase más arriba (el ÚO 412 fue encendido),
+▪ÚO 13B de interconexión de la TV de los grupos de vías impar y par,
+▪ÚO N112 situado en el extremo de Tlumačov, destinado a la alimentación (inversa) de la TV del grupo de vías par desde PTNS Otrokovice,
+▪ÚO N102 destinado a la alimentación (inversa) de la TV en el lugar de los nuevos separadores mecánicos/eléctricos en el extremo de Tlumačov y a la alimentación (inversa) de la TV sobre la TK n.º 2 Tlumačov – Otrokovice desde PTNS Otrokovice,
+▪ÚO 3B situado en el extremo de Tlumačov, destinado a la interconexión de la TV sobre la TK n.º 1 Otrokovice – Tlumačov y la TK n.º 2 Tlumačov – Otrokovice,
+◦PTNS Otrokovice se desconectaron (fueron apagados) el ÚO N212, el ÚO N202, el ÚO N211, el ÚO N201,
+◦est. Tlumačov se desconectó (fue apagado):
+▪ÚO 411 situado en el extremo de Otrokovice en el separador mecánico/eléctrico sobre la SK, que es la continuación de la TK n.º 1 Otrokovice – Tlumačov;
 •
-los juegos de puesta a tierra se conectaron de conformidad con la TNŽ 34 3109 desde todos los lugares (lados) de posible alimentación y se colocaron (amarraron) en las señales principales de modo que no invadieran el perfil de paso, ver también el punto 4.2.6 de esta ZZ, y concretamente en:
-◦la señal de salida L3a de la estación Otrokovice, en el km 154,620. El borne de sujeción automática del conductor del juego de puesta a tierra se conectó al conductor de catenaria sobre la SK n.º 3a. La barra de puesta a tierra se colocó horizontalmente conectándola al conductor de catenaria y en el extremo opuesto fijando la barra de aislamiento al mástil de la señal en la zona de la parte trasera del conjunto de faros de señalización. El cable de puesta a tierra se llevó hasta el mástil de la señal, en el que quedó suspendido y se condujo hasta el transformador de contacto 3aKN (tipo DT 075 E, número de serie B2000849) en la SK n.º 3a. El cable de puesta a tierra se conectó al transformador de contacto mediante una unión roscada en su centro,
-◦la señal de sección AB 1-1564 TÚ Otrokovice – Tlumačov, situada a la derecha de la vía del extremo de Tlumačov, que es la continuación de la TK n.º 1 Otrokovice – Tlumačov, en el km 156,457. El borne de sujeción automática del conductor del juego de puesta a tierra se conectó al conductor de catenaria sobre la parte de la SK que es la continuación de la TK n.º 1 Otrokovice – Tlumačov, y sobre la TK n.º 1 Otrokovice – Tlumačov. La barra de puesta a tierra se colocó horizontalmente conectándola al conductor de catenaria y en el extremo opuesto fijando la barra de aislamiento al mástil de la señal en la zona de la parte trasera del conjunto
+los juegos de cortocircuito fueron conectados, de conformidad con TNŽ 34 3109, desde todos los puntos (lados) de posible alimentación y fueron colocados (amarrados) en las señales principales de modo que no invadieran el perfil de circulación, véase también el punto 4.2.6 de esta ZZ, a saber:
 
+◦en la señal de salida L3a de la est. Otrokovice, en el km 154,620. El borne de sujeción automática del conductor del juego de cortocircuito fue conectado al conductor de catenaria sobre la SK n.º 3a. La barra de cortocircuito se colocó horizontalmente mediante su conexión al conductor de catenaria y, en el extremo opuesto, mediante la fijación de la barra aislante al mástil de la señal en la zona de la parte posterior del conjunto de luminarias de señalización. El cable de cortocircuito se llevó hasta el mástil de la señal, donde quedó suspendido y conducido hasta el transformador de contacto 3aKN (tipo DT 075 E, n.º de serie B2000849) en la SK n.º 3a. Al transformador de contacto se conectó el cable de cortocircuito mediante unión roscada en su centro,
+
+◦en la señal de sección AB 1-1564 TÚ Otrokovice – Tlumačov, situada a la derecha de la vía del extremo de Tlumačov, que es la continuación de la TK n.º 1 Otrokovice – Tlumačov, en el km 156,457. El borne de sujeción automática del conductor del juego de cortocircuito fue conectado al conductor de catenaria sobre la parte de la SK que es la continuación de la TK n.º 1 Otrokovice – Tlumačov, y sobre la TK n.º 1 Otrokovice – Tlumačov. La barra de cortocircuito se colocó horizontalmente mediante su conexión al conductor de catenaria y, en el extremo opuesto, mediante la fijación de la barra aislante al mástil de la señal en la zona de la parte posterior del conjunto
 
 ## Página 19
+
 
 de faros de señalización, el cable de puesta a tierra se llevó hasta el mástil de la señal, en el que quedó suspendido y se condujo hasta el transformador de contacto 1TU4N (tipo DT 075 E, número de serie B2100159) en la TK n.º 1. El cable de puesta a tierra se conectó al transformador de contacto mediante una unión roscada en su centro,
 ◦la señal de entrada 1S de la estación Tlumačov, en el km 160,320. El borne de sujeción automática del conductor del juego de puesta a tierra se conectó al conductor de catenaria sobre la TK n.º 1 Otrokovice – Tlumačov y sobre la parte de la SK que es la continuación de la TK n.º 1 Otrokovice – Tlumačov. La barra de puesta a tierra se colocó horizontalmente conectándola al conductor de catenaria y en el extremo opuesto fijando la barra de aislamiento al mástil de la señal en la zona de la parte trasera del conjunto de faros de señalización, el cable de puesta a tierra se llevó hasta el mástil de la señal, en el que quedó suspendido y se condujo hasta el transformador de contacto 1SKN (tipo DT 075 E, número de serie B2101131) en la SK, que es la continuación de la TK n.º 1 Otrokovice – Tlumačov. El cable de puesta a tierra se conectó al transformador de contacto mediante una unión roscada en su centro.
 Fig. n.º 2: Esquema de la ubicación de los juegos de puesta a tierra en las señales principales de la estación Otrokovice, en el TÚ Otrokovice – Tlumačov y en la estación Tlumačov (resaltado en verde)
 Fuente: DI utilizando base cartográfica: www.mapy.cz
 
-
 ## Página 20
+
 
 •
 las señales portátiles para la circulación eléctrica se situaron en el sentido de circulación del tren Nex 53742 con las señales:
@@ -707,8 +693,8 @@ Nota DI: la derivadora, incluida la conexión conductora formada por un conducto
 ▪30 unidades de pesas del anclaje móvil del cable portante del TP n.º 71,
 ▪el cable portante Cu120, las derivaciones de alimentación del desconectador 23A con accionamiento eléctrico controlado localmente y el tramo de anclaje Bz70 de 30 m de longitud,
 
-
 ## Página 21
+
 
 Fig. n.º 3: Vista del juego de puesta a tierra colocado en el mástil de la señal de salida L3a de la estación Otrokovice y de su cable de puesta a tierra quemado
                                                    Fuente: SŽ
@@ -719,8 +705,8 @@ Fig. n.º 4: Vista de la conexión del cable del juego de puesta a tierra con el
 Fig. n.º 5: Vista del armario de distribución dañado de la señal de sección AB 1-1564 (imagen izquierda) y de la derivadora dañada y la conexión conductora con el raíl quemada (imagen derecha)
                            Fuente: DI
 
-
 ## Página 22
+
 
 ▪la señal de sección AB 1-1564 TÚ Otrokovice – Tlumačov, incluidos los armarios de distribución, la derivadora y la conexión conductora con el raíl, y el juego de puesta a tierra colocado en ella, cuyo cable de puesta a tierra quedó parcialmente fundido al mástil de la señal, ver Fig. n.º 5 de esta ZZ,
 ◦en el TÚ Otrokovice – Tlumačov:
@@ -742,8 +728,8 @@ en la cabina de conducción delantera, en el momento de la producción de la MU,
 •
 al maquinista del tren Nex 53742 (maquinista en formación) se le informó antes de la circulación de manera comprobable por escrito mediante la orden "ORDEN ESCRITA GENERAL para el tren 53742", n.º 0000023-472, de fecha 7 de junio de 2022, emitida en la estación "Břeclav PBa Jih" para la ruta Břeclav, zona de la aproximación – Přerov (denominada en adelante también Orden Escrita), que para el tramo Nedakonice – Říkovice contenía el texto: "Vigencia desde el 05.06.2022 08:15 hasta el
 
-
 ## Página 23
+
 
 09.06.2022 17:00. En la circulación desde Nedakonice hasta Říkovice se ordena circular con potencia reducida. En la estación Otrokovice, en la entrada y circulación por las vías impares, circule por la sección sin tensión con los pantógrafos bajados.";
 •
@@ -770,6 +756,7 @@ No se produjo daño en el material rodante, el medio ambiente, las cosas transpo
 Como consecuencia de la producción de la MU, se interrumpió la circulación en la estación Otrokovice y en los TÚ adyacentes el día 7 de junio de 2022 desde las 17:19 h hasta las 22:26 h. Como resultado de la interrupción de la circulación, se retrasaron 21 trenes de transporte de pasajeros en 841 min y se canceló 15 trenes de transporte de pasajeros en parte de su recorrido. Asimismo, se retrasaron 6 trenes de transporte de mercancías en 1 844 min.
 
 ## Página 24
+
 
 Los trenes de transporte de viajeros fueron sustituidos, durante el periodo en que no se prestaba servicio ferroviario, por un servicio de autobús de sustitución.
 Tras la reanudación del servicio, la organización y la dirección del tráfico ferroviario en las estaciones de Otrokovice y Tlumačov se transfirieron a mando local. Debido a la avería del AEV de las estaciones de Otrokovice y Tlumačov, los desvíos se colocaron en posición recta y, para controlar y asegurar de forma emergente su posición correcta, se utilizaron cerraduras de cambio portátiles. La circulación de los trenes se aseguró mediante comunicación telefónica, estando su marcha asegurada en los tramos intermedios, en concreto en:
@@ -801,8 +788,8 @@ El propietario de la vía ferroviaria, categoría nacional, Přerov – Břeclav
 El transportista del tren Nex 53742 era PKPCI, con domicilio en Betonářská 580/14, Muglinov, CP 712 00, Ostrava.
 El tráfico ferroviario se prestaba en virtud de un contrato celebrado entre el gestor de la vía SŽ y el transportista PKPCI el día 12. 7. 2019, con efectos desde el 23. 7. 2019.
 
-
 ## Página 25
+
 
 ### 3.1.7 Descripción de los vehículos ferroviarios y de sus composiciones, incluidos los números de registro
 Tren:
@@ -896,8 +883,8 @@ el propietario y titular del HDV 193.755-6 era la empresa European Locomotive Le
 
 El HDV 193.755-6 es una locomotora modular multisistema de cuatro ejes (15 kV/16,7 Hz, 25 kV/50 Hz y 3 kV), tipo X4-E-lok-AB (Vectron MS), variante A17, con una potencia de 6 400 kW y una velocidad máxima de construcción/explotación de 200/160 km·h-1. El HDV es de carrocería de caja con dos cabinas frontales de conductor. La construcción de las cabinas y la disposición de los elementos de mando e indicación en la pupitre de mando del puesto del conductor permiten al conductor conducir el HDV, observar sin obstrucciones la vía y las señales, tanto sentado como de pie.
 
-
 ## Página 26
+
 
 El HDV 193.755-6 estaba equipado, en el momento de producirse la MU, con un dispositivo de registro automático de datos del fabricante Alstom Belgium SA, PO 66392000, cuyo módulo de memoria tenía el ID 1918. De los datos registrados sobre la marcha del tren Nex 53742, tras tener en cuenta la desviación temporal respecto a la hora registrada por los ordenadores tecnológicos del AEV de la estación de Otrokovice, que se determinó como hora de referencia para las necesidades de la investigación de la presente MU, y tras redondear los parámetros de tiempo a segundos completos, la velocidad a 1/10 de km·h1 y la distancia a metros completos, se desprende, entre otros, que:
 •
@@ -926,8 +913,8 @@ la parte móvil del protector de tren estaba activada y fue operada correctament
 •
 no se superó la velocidad máxima permitida en el tramo examinado.
 
-
 ## Página 27
+
 
 ### 3.1.8 Descripción de las partes correspondientes de la infraestructura y del sistema de seguridad
 El superestructura de la TK n.º 1 Napajedla – Otrokovice (desde el km 152,426) y de su continuación en el cabecera de Napajedla de la estación de Otrokovice estaba formada por traviesas de ancho estándar de perfil UIC 60, colocadas en la vía en el año 1999, soldadas en vía continua, fijadas a traviesas de hormigón B91S mediante grapas elásticas Fastclip. El balasto estaba formado por piedra de cantera limpia de fracción 31,5/63 mm.
@@ -948,55 +935,79 @@ a las 16:52:47 h
 
 ## Página 28
 
-úkony) para la circulación del tren Pn 53818 desde la TK n.º 2 Otrokovice – Napajedla 
-hasta la SK n.º 6 desde la señal de entrada 2S a través de los desvíos n.º 39, 35 
-y 34, hacia la SK n.º 4a y posteriormente a través de los desvíos n.º 31, 30 y 29;
+úkony) pro jízdu vlaku Pn 53818 z TK č. 2 Otrokovice – Napajedla 
+na SK č. 6 od vjezdového návěstidla 2S přes výhybky č. 39, 35 
+a 34, na SK č. 4a a dále přes výhybky č. 31, 30 a 29;
 •
-a las 16:53:01 h
-tras el cierre de la ruta (de tren) (en lo sucesivo, ruta de tren) realizado por la acción automática del SZZ, se estableció la ruta de tren desde la TK n.º 2 Otrokovice – Napajedla desde la señal de entrada 2S hacia la SK n.º 6. La señal de entrada 2S comenzó a indicar la señal «Velocidad 40 km/h y aviso»;
+v 16:53:01 h
+po automatickou činností SZZ provedeném závěru jízdní (vlakové) 
+cesty (dále jen vlaková cesta) byla postavena vlaková cesta z TK 
+č. 2 Otrokovice – Napajedla od vjezdového návěstidla 2S na SK 
+č. 6. Vjezdové návěstidlo 2S začalo návěstit návěst „Rychlost 
+40 km/h a výstraha“;
 •
-a las 16:59:57 h
-el frente del tren Pn 53818 pasó la señal de entrada 2S;
+v 16:59:57 h
+přední čelo vlaku Pn 53818 minulo vjezdové návěstidlo 2S;
 •
-a las 17:00:31 h
-el personal del SZZ introdujo las órdenes para la circulación del tren Os 14232 desde la TK Zlín-Malenovice – Otrokovice hacia la SK n.º 3, en la que se había establecido una vía en obras, desde la señal de entrada MS a través de la SK n.º 7b y los desvíos n.º 24, 23 y 22;
+v 17:00:31 h
+obsluhou SZZ zadány úkony pro jízdu vlaku Os 14232 z TK 
+Zlín-Malenovice – Otrokovice na SK č. 3, na níž byla nastavena 
+kolejová výluka, od vjezdového návěstidla MS přes SK č. 7b 
+a výhybky č. 24, 23 a 22;
 •
-a las 17:00:42 h
-tras el cierre de la ruta de tren realizado por la acción automática del SZZ, se estableció la ruta de tren desde la TK Zlín-Malenovice – Otrokovice desde la señal de entrada MS hacia la SK n.º 3. La señal de entrada MS comenzó a indicar la señal «Velocidad 40 km/h y aviso»;
+v 17:00:42 h
+po automatickou činností SZZ provedeném závěru vlakové cesty 
+byla postavena vlaková cesta z TK Zlín-Malenovice – Otrokovice 
+od vjezdového návěstidla MS na SK č. 3. Vjezdové návěstidlo MS 
+začalo návěstit návěst „Rychlost 40 km/h a výstraha“;
 •
-a las 17:02:13 h
-el tren Pn 53818 entró íntegramente en la SK n.º 6;
+v 17:02:13 h
+vlak Pn 53818 vjel celý na SK č. 6;
 •
-a las 17:08:36 h
-el frente del tren Os 14232 pasó la señal de entrada MS;
+v 17:08:36 h
+přední čelo vlaku Os 14232 minulo vjezdové návěstidlo MS;
 •
-a las 17:09:34 h
-el tren Os 14232 entró en la SK n.º 3, en la que se había establecido una vía en obras.
-6 s después (a las 17:09:40 h) el tren liberó el extremo malenovice-napajedla de la estación de Otrokovice e entró íntegramente en la SK n.º 3;
+v 17:09:34 h
+vlak Os 14232 vjel na SK č. 3, na níž byla nastavena kolejová 
+výluka.
+O 6 s později (v 17:09:40 h) vlak uvolnil malenovicko-napajedelské 
+zhlaví žst. Otrokovice a vjel celý na SK č. 3;
 •
-a las 17:11:46 h
-el personal del SZZ introdujo las órdenes para la circulación del tren Os 14232 desde la SK n.º 3, en la que se había establecido una vía en obras, hacia la TK n.º 2 Tlumačov – Otrokovice, desde la señal de salida S3 a través de los desvíos n.º 12, 9, 7, 5, 4 y 3;
+v 17:11:46 h
+obsluhou SZZ zadány úkony pro jízdu vlaku Os 14232 ze SK č. 3, 
+na níž byla nastavena kolejová výluka, na TK č. 2 Tlumačov – 
+Otrokovice, a to od odjezdového návěstidla S3 přes výhybky č. 12, 
+9, 7, 5, 4 a 3;
 •
-a las 17:12:00 h
-tras el cierre de la ruta de tren realizado por la acción automática del SZZ, se estableció la ruta de tren desde la SK n.º 3 desde la señal de salida S3 hacia la TK n.º 2 Tlumačov – Otrokovice. La señal de salida S3 comenzó a indicar la señal «Velocidad 60 km/h y libre»;
+v 17:12:00 h
+po automatickou činností SZZ provedeném závěru vlakové cesty 
+byla postavena vlaková cesta ze SK č. 3 od odjezdového 
+návěstidla S3 na TK č. 2 Tlumačov – Otrokovice. Odjezdové 
+návěstidlo S3 začalo návěstit návěst „Rychlost 60 km/h a volno“;
 •
-a las 17:13:07 h
-el frente del tren Os 14232 pasó la señal de salida S3;
+v 17:13:07 h
+přední čelo vlaku Os 14232 minulo odjezdové návěstidlo S3;
 •
-a las 17:14:03 h
-el personal normal del SZZ introdujo las órdenes para la circulación del tren Nex 53742 desde la TK n.º 1 Napajedla – Otrokovice hacia la SK n.º 2 desde la señal de entrada 1S a través de los desvíos n.º 38, 37, 35 y 34;
+v 17:14:03 h
+normální obsluhou SZZ zadány úkony pro jízdu vlaku Nex 53742 
+z TK č. 1 Napajedla – Otrokovice na SK č. 2 od vjezdového 
+návěstidla 1S přes výhybky č. 38, 37, 35 a 34;
 •
-a las 17:14:17 h
-tras el cierre de la ruta de tren realizado por la acción automática del SZZ, se estableció la ruta de tren desde la TK n.º 1 Napajedla – Otrokovice desde la señal de entrada 1S hacia la SK n.º 2. La señal de entrada 1S comenzó a indicar la señal «Velocidad 60 km/h y aviso»;
+v 17:14:17 h
+po automatickou činností SZZ provedeném závěru vlakové cesty 
+postavena vlaková cesta z TK č. 1 Napajedla – Otrokovice od 
+vjezdového návěstidla 1S na SK č. 2. Vjezdové návěstidlo 1S 
+začalo návěstit návěst „Rychlost 60 km/h a výstraha“;
 •
-a las 17:14:21 h
-el tren Os 14232 entró íntegramente en la TK n.º 2 Tlumačov – Otrokovice;
+v 17:14:21 h
+vlak Os 14232 vjel celý na TK č. 2 Tlumačov – Otrokovice;
 •
-a las 17:14:27 h
-el personal normal del SZZ introdujo las órdenes para la circulación del tren Pn 53818 desde la SK n.º 6 hacia la TK n.º 2 Tlumačov – Otrokovice, desde la señal de salida
-
+v 17:14:27 h
+normální obsluhou SZZ zadány úkony pro jízdu vlaku Pn 53818 ze 
+SK č. 6 na TK č. 2 Tlumačov – Otrokovice, a to od odjezdového
 
 ## Página 29
+
 
 S6 a través de los desvíos n.º 13, 11, 10, 6, 5, 4 y 3;
 •
@@ -1043,8 +1054,8 @@ el símbolo de autorización de vía de la TK n.º 2 Tlumačov – Otrokovice, c
  1 . 
 Nota DI mencionada arriba
 
-
 ## Página 30
+
 
 3 s después (a las 17:22:24 h) se indicó, mediante flechas en ambos sentidos, la pérdida de control del estado de la autorización de vía;
 •
@@ -1088,8 +1099,8 @@ de las KÚ restantes de la TK n.º 2 Otrokovice – Napajedla, es decir, las KÚ
 •
 el símbolo de autorización de vía de la TK n.º 2 Otrokovice – Napajedla, concedido en el sentido de circulación DV Otrokovice → Napajedla, cambió del color gris (el tramo entre estaciones estaba libre) al color violeta oscuro (interrupción total de comunicación) y asimismo se produjo un cambio en el estado de la autorización de vía, indicándose mediante flechas en ambos sentidos la pérdida de control del estado de la autorización de vía
 
-
 ## Página 31
+
 
 ,
 •
@@ -1124,6 +1135,7 @@ De los datos registrados se deduce además que:
 
 ## Página 32
 
+
 de dos conjuntos de cortacircuitos, señalizaba permanentemente la señal «Alto»;
 ▪SK n.º 1, 3 y 3a indicadas con fondo marrón, es decir, con establecimiento de anuncio de vía en vía;
 ▪TK n.º 1 Otrokovice – Tlumačov indicada en color azul, es decir, establecimiento de prohibición de salida a la vía, siendo KÚ 1T4_L, es decir, KO entre las señales de sección AB 1-1575 y AB 1-1564, indicado con fondo marrón, es decir, con establecimiento de anuncio de vía en vía;
@@ -1151,8 +1163,8 @@ Como consecuencia del establecimiento del itinerio de salida para el tren Pn 538
 a las 17:21:20 h
 el frente del tren Pn 53818 pasó la señal de entrada 2S y el tren entró en la cabecera de Otrokovice;
 
-
 ## Página 33
+
 
 •
 a las 17:21:35 h
@@ -1185,8 +1197,8 @@ a las 17:19:53 h para la entrada del tren Pn 53818 desde TK n.º 2 Tlumačov –
 a las 17:21:50 h
 los símbolos de la señal de agrupamiento Se13 y de la señal de salida L2 fueron rellenados con color de fondo violeta oscuro, indicando la interrupción total de la comunicación;
 
-
 ## Página 34
+
 
 •
 a las 17:21:51 h
@@ -1207,8 +1219,8 @@ El SZZ de la est. de Tlumačov presentaba funcionamiento normal en el momento de
 La TV del sistema de tracción de corriente continua con alimentación de 3 kV estaba totalmente compensada en la est. de Otrokovice, en el TÚ Otrokovice – Tlumačov y en la est. de Tlumačov (el cable portante y el hilo de catenaria se tensaban por separado), según el montaje tipo «J» con elementos tipológicos, en el que el hilo de catenaria estaba suspendido mediante ganchos, los llamados tirantes, de distinta longitud sobre el cable portante – se trataba de un tendido de cadena. La base del montaje de la TV de las SK principales de las est. de Otrokovice y Tlumačov, incl. los tramos de anclaje adyacentes de TK, estaba formada por conductores – hilos de catenaria de sección 150 mm 2 Cu, cables portantes y tendidos de refuerzo (para reducir las pérdidas eléctricas en la TV), descuelgues y puentes, incl. tendidos de alimentación de entrada, divisiones mecánicas/eléctricas y ÚO de los distintos tramos de anclaje. Los hilos de catenaria estaban suspendidos a una altura constante sobre la vía, es decir, a una distancia perpendicular entre la superficie inferior de rodadura del hilo de catenaria y el plano definido por las cabezas de los raíles, de 5,6 m (excepto en los espacios de los pasos a nivel de la est. de Tlumačov P8169 y P8170, donde los hilos de catenaria estaban suspendidos a una altura de 5,75 m). Para evitar desplazamientos mutuos no deseados del cable portante y del hilo de catenaria en sentido longitudinal, los tramos de anclaje de las SK principales de las est. de Otrokovice y Tlumačov y de las TK de los TÚ adyacentes estaban dotados de anclajes – puntos fijos.
 La conducción de la corriente de tracción de retorno de vuelta a la TNS de Nedakonice estaba formada por los raíles de las SK y TK, las partes de raíl de las agujas, los transformadores de enlace y el tendido de retorno de cable complementario y el tendido de interconexión con la TNS. El tendido de retorno de tracción estaba eléctricamente separado respecto a tierra. Para una distribución uniforme de la corriente de retorno, los distintos elementos de su recorrido estaban interconectados entre sí, incluso entre los raíles de la vía 1.ª y 2.ª mediante una conexión por cable de los centros de los transformadores de enlace en el lugar de los últimos enlaces aislados KO antes de los enlaces aislados KO correspondientes a las señales de entrada, en este caso concreto 1S y 2S
 
-
 ## Página 35
+
 
 de la est. de Otrokovice y 1S y 2S de la est. de Tlumačov, y de los centros de los transformadores de enlace en el lugar de los enlaces aislados junto a las señales de agrupamiento Se9 y Se7 de la est. de Otrokovice, ver Fig. n.º 8 de esta ZZ. La conducción de la corriente de tracción de retorno, con la excepción de la parte de la cabecera de Napajedla desde el enlace aislado tras el extremo de la aguja n.º 33, SK n.º 3a, 3, 5c, 5b, 5 y 7 de la est. de Otrokovice, se realizaba por el camino más corto hasta la TNS de Nedakonice. El motivo de no conducir la corriente de tracción de retorno desde el enlace aislado tras el extremo de la aguja n.º 33, SK n.º 3a, 3, 5c, 5b, 5 y 7, por el camino más corto de vuelta a la TNS, fue la exclusión de la PTNS de Otrokovice en el marco del anuncio de tensión en vía realizado conforme a ROV 13150, ver punto 3.1.3 de esta ZZ, siendo la corriente de retorno de las vías mencionadas de la est. de Otrokovice conducida a través de la interconexión en la aguja n.º 9 en la cabecera de Tlumačov.
 Fig. n.º 8: Esquema de la colocación en vía de los conjuntos de cortacircuitos y de la conducción del circuito de retorno de tracción en la est. de Otrokovice y en el TÚ Otrokovice – Tlumačov.
@@ -1223,6 +1235,7 @@ En el montaje de TV, dicha división fue señalizada por el explotador de la ví
 
 ## Página 36
 
+
 La división eléctrica fue identificada por el gestor de la infraestructura ferroviaria en el conjunto TV como ÚO 412 [en el momento de la aparición del MU conectado (acoplado)]. El tramo de anclaje adyacente TK n.º 2 estaba anclado en la estación de Otrokovice al TP n.º 72, mediante anclaje móvil. El tramo de anclaje SK, que es la continuación de TK n.º 2 (la parte desde la división mecánica/eléctrica hasta la aguja extrema n.º 39), respectivamente la continuación de SK n.º 2, estaba anclado en el extremo de Napajedla al TP n.º 78, mediante anclaje móvil,
 ◦TK n.º 1 Otrokovice – Tlumačov, se situaba entre el TP n.º 5 y el 3.
 En el conjunto TV, la división en cuestión fue identificada por el gestor de la infraestructura ferroviaria como ÚO 401 [en el momento de la aparición del MU conectado (acoplado)]. El tramo de anclaje adyacente formaba parte de una nueva división mecánica/eléctrica con campo neutro establecida por el gestor de la infraestructura ferroviaria en relación con la preparación de la infraestructura ferroviaria para la conversión del sistema de tensión de 3 kV CC a 25 kV 50 Hz CA. Este tramo estaba anclado al TP n.º 7 mediante anclaje móvil, atravesando la división ÚO 401 anteriormente mencionada y la división mecánica/eléctrica subsiguiente identificada por el gestor de la infraestructura ferroviaria como ÚO NP21 y ÚO NP1, encontrándose el propio intercambio de conjuntos (tramos de anclaje) también en el extremo de Tlumačov, entre el TP n.º 147 y el 141. Este tramo de anclaje estaba anclado en el lado de Tlumačov al TP n.º 139 mediante anclaje móvil. El siguiente tramo de anclaje TK n.º 1 Otrokovice – Tlumačov estaba anclado en la estación de Otrokovice al TP n.º 149A mediante anclaje móvil y en la vía en llano al TP n.º 107 también mediante anclaje móvil,
@@ -1234,8 +1247,8 @@ estación de Tlumačov situada en el extremo de Otrokovice y en el extremo de Hu
 En el conjunto TV, la división en cuestión fue identificada por el gestor de la infraestructura ferroviaria como ÚO 411 [en el momento de la aparición del MU desconectado (desacoplado)]. El tramo de anclaje adyacente TK n.º 1 estaba anclado en la estación de Tlumačov al TP n.º 59, mediante anclaje móvil. El tramo de anclaje SK, que es la continuación de TK n.º 1 Otrokovice – Tlumačov (la parte desde la división mecánica/eléctrica hasta la aguja extrema n.º 18), respectivamente la continuación de SK n.º 1 en el extremo de Otrokovice y la parte adyacente de SK n.º 1, estaba anclado en el extremo de Otrokovice al TP n.º 65, también mediante anclaje móvil,
 ◦TK n.º 2 Tlumačov – Otrokovice, se situaba entre el TP n.º 64 y el 62.
 
-
 ## Página 37
+
 
 La división eléctrica fue identificada por el gestor de la infraestructura ferroviaria en el conjunto TV como ÚO 412 [en el momento de la aparición del MU conectado (acoplado)]. El tramo de anclaje adyacente TK n.º 2 estaba anclado en la estación de Tlumačov al TP n.º 60, mediante anclaje móvil. El tramo de anclaje SK, que es la continuación de TK n.º 2 (la parte desde la división mecánica/eléctrica hasta la aguja extrema n.º 17), respectivamente la continuación de SK n.º 2, estaba anclado en el extremo de Otrokovice al TP n.º 66, mediante anclaje móvil.
 El TV de la estación de Otrokovice sobre la vía del extremo de Napajedla, que es la continuación de TK n.º 1 Napajedla – Otrokovice (la parte desde la división mecánica/eléctrica ÚO 411 hasta la aguja extrema n.º 38), SK, que es la continuación de SK n.º 1 en el extremo de Napajedla, SK n.º 1, SK, que es la continuación de SK n.º 1 en el extremo de Tlumačov, y la vía del extremo de Tlumačov, que es la continuación de TK n.º 1 Otrokovice – Tlumačov (la parte desde la aguja extrema n.º 1 hasta la división mecánica/eléctrica ÚO 401), estaba (excepto los conjuntos subsiguientes – tramos de anclaje de los enlaces de vía) formado por 2 conjuntos (tramos de anclaje) anclados entre:
@@ -1251,43 +1264,48 @@ TP n.º 46 y 2, mediante anclaje móvil por ambos lados, con un punto fijo forma
 El TV de la estación de Otrokovice sobre el enlace de vía de las agujas n.º 37 y 35 en el extremo de Napajedla, es decir, en el espacio de la parada extraordinaria del tren Nex 53742, estaba formado por un conjunto (tramo de anclaje) anclado entre el TP n.º 65A y el 60, mediante anclaje móvil en el lado del TP n.º 65A y anclaje fijo en el lado del TP n.º 60.
 La TNS Nedakonice, situada en el km 131,945, en el momento de la aparición del MU servía para alimentar el TV de 3 kV CC en el tramo de Nedakonice a Otrokovice (incluido). La TNS era controlada a distancia desde el centro de despacho eléctrico de Přerov. En la TNS se encontraban, entre otros, interruptores rápidos tipo N1 – interruptores de potencia de contacto monopolares para corrientes CC. Los interruptores rápidos estaban destinados a aplicaciones en lugares donde altas corrientes y tensiones requerían una desconexión rápida y fiable. Los interruptores rápidos al desconectar crean un arco eléctrico, que es posteriormente desionizado y extinguido en las cámaras de extinción. Los interruptores rápidos estaban equipados con un disparador electromagnético de sobrecorriente, cuya función no dependía temporalmente de la pendiente de aumento de la corriente, o bien era posible controlar los interruptores rápidos en cuestión con un disparador por subtensión (pérdida de tensión) y un disparador de desconexión (desconexión por imán). Los interruptores rápidos en la TNS Nedakonice tenían la designación de tipo N y grado de desarrollo 1, el circuito principal de corriente era de ejecución longitudinal, con una designación para una corriente nominal de 2 000 A y para una tensión nominal de 3 000 V, eran accionados por
 
-
 ## Página 38
 
-motor eléctrico. El disparador del interruptor rápido RN estaba ajustado a 2 100 A y el disparador del interruptor rápido N2 a 2 050 A, ver puntos 4.1.1 y 4.2.6 de esta ZZ.
-Del análisis de los datos registrados por el sistema de control local de la TNS Nedakonice y del análisis de los datos registrados por el sistema de control automatizado – el registro operativo de actividades en el puesto de trabajo del despachador eléctrico ED1, que contenía los estados de los equipos de tracción eléctrica, las órdenes (operaciones) y los cambios manuales realizados por el empleado responsable en el circuito bajo su control, incluyendo, entre otros, las estaciones de Otrokovice y Tlumačov y los TR Napajedla – Otrokovice y Otrokovice – Tlumačov, en combinación con las gráficas (trazas) del consumo de corriente en la TNS Nedakonice, tras tener en cuenta la corrección de la hora respecto de la hora registrada por el dispositivo de registro situado en la locomotora del tren Nex 53742, y tras su corrección respecto de la hora registrada por el SZZ de la estación de Otrokovice, que se estableció como hora de referencia para las necesidades de la investigación del MU en cuestión, se desprende, entre otros, que:
+electromotor. El disparo del seccionador rápido RN estaba ajustado a 2 100 A y el disparo del seccionador rápido N2 a 2 050 A, véanse los puntos 4.1.1 y 4.2.6 de la presente ZZ.
+Del análisis de los datos registrados por el sistema de mando local TNS Nedakonice y del análisis de los datos registrados por el sistema de mando automatizado – registro operativo de actividades en el puesto de trabajo del despachador eléctrico ED1, que contenía los estados de los equipos de tracción eléctrica, las órdenes (operaciones) y los cambios manuales realizados por el empleado responsable en el circuito bajo su mando, incluyendo, entre otros, las estaciones de Otrokovice y Tlumačov y la línea de tracción Napajedla – Otrokovice y Otrokovice – Tlumačov, en combinación con las gráficas (evoluciones) del consumo de corriente en TNS Nedakonice, tras tener en cuenta la corrección de la hora respecto de la hora registrada por el dispositivo de registro situado en la locomotora del tren Nex 53742 implicada, y ello tras su corrección respecto de la hora registrada por el SZZ de la estación de Otrokovice, que se estableció como hora de referencia para las necesidades de la investigación de la presente MU, entre otros, se concluye que:
 •
 a las 17:19:23 h
-### aparición del MU (daño al TV) – en el espacio de la división mecánica/eléctrica ÚO 411 de la estación de Otrokovice, la patilla del pantógrafo levantado de la locomotora del tren Nex 53742 conectó el tramo de anclaje TK n.º 1 Napajedla – Otrokovice alimentado con el tramo de anclaje de la parte del extremo de Napajedla del TV desconectado y asegurado (cortocircuitado) con barras de cortocircuito colgadas (continuación de SK n.º 1 en el extremo de Napajedla y la parte adyacente de SK n.º 1).
-La protección de sobrecorriente de la TNS Nedakonice no actuó. En el
-### interruptor rápido RN circuló una corriente de cortocircuito de hasta aprox. 1 430 A, en el interruptor rápido N2 circuló una corriente de aprox. 1 380 A (en total aprox. 2 810 A), habiendo caído la tensión en el TV a aprox. 2 950 V;
+### se produjo la MU (daño a la TV) – en el espacio de separación mecánico/eléctrico ÚO 411 de la estación de Otrokovice, el patín del pantógrafo elevado de la locomotora del tren Nex 53742 puso en contacto el tramo de alimentación TK n.º 1 Napajedla – Otrokovice, alimentado, con el tramo de alimentación de la parte TV de la cabecera de Napajedla, desconectado y asegurado (cortocircuitado) con barras de cortocircuito suspendidas (desde la separación mecánico/eléctrica ÚO 411), la continuación de SK n.º 1 en la cabecera de Napajedla y la parte adyacente de SK n.º 1.
+La protección contra sobrecorriente de TNS Nedakonice no actuó. En el
+### seccionador rápido RN circuló una corriente de cortocircuito de hasta ca. 1 430 A, en el seccionador rápido N2 circuló una corriente de ca. 1 380 A (en total ca. 2 810 A), mientras que el voltaje en la TV descendió a ca. 2 950 V;
 •
 a las 17:20:33 h
-en la TNS Nedakonice se registró el inicio de la señalización de potencia del transformador T102, que señalizaba el 105 % de potencia. El primer nivel de protección no desconectó, sino que solo señalizó.
+en TNS Nedakonice se registró el inicio de la señalización de potencia del transformador T102, que señalizaba el 105 % de potencia. El primer nivel de protección no desconectó, sino que únicamente señalizó.
 49 s después (a las 17:21:22 h) se registró el fin de la señalización;
 •
 a las 17:28:27 h
 el despachador eléctrico ED1, para delimitar el lugar del cortocircuito mediante la manipulación
-### de los elementos de control, introdujo la orden de desconexión del interruptor rápido N2 de la TNS Nedakonice – orden «VYP START».
-Al mismo tiempo se desconectó el interruptor rápido N2;
+### de los elementos de mando, introdujo la orden de desconexión del seccionador rápido N2 de TNS Nedakonice – orden «VYP START».
+Al mismo tiempo se desconectó el seccionador rápido N2;
 •
 a las 17:28:35 h
 el despachador eléctrico ED1, para delimitar el lugar del cortocircuito mediante la manipulación
-### de los elementos de control, introdujo la orden de desconexión del interruptor rápido RN de la TNS Nedakonice – orden «VYP START».
-Al mismo tiempo se desconectó el interruptor rápido RN;
+### de los elementos de mando, introdujo la orden de desconexión del seccionador rápido RN de TNS Nedakonice – orden «VYP START».
+Al mismo tiempo se desconectó el seccionador rápido RN;
 •
 a las 17:28:46 h
-el despachador eléctrico ED1, para delimitar el lugar del cortocircuito mediante la manipulación de los elementos de control, introdujo la orden de desconexión del ÚO 412 de la estación de Otrokovice – orden «VYP START».
+el despachador eléctrico ED1, para delimitar el lugar del cortocircuito mediante la manipulación
+de los elementos de mando, introdujo la orden de desconexión del ÚO 412 de la estación de Otrokovice –
+orden «VYP START».
 7 s después (a las 17:28:53 h) se desconectó dicho seccionador;
 •
 a las 17:29:22 h
-el despachador eléctrico ED1, para delimitar el lugar del cortocircuito mediante la manipulación de los elementos de control, introdujo la orden de desconexión del ÚO 401 de la estación de Napajedla – orden «VYP START».
+el despachador eléctrico ED1, para delimitar el lugar del cortocircuito mediante la manipulación
+de los elementos de mando, introdujo la orden de desconexión del ÚO 401 de la estación de Napajedla –
+orden «VYP START».
 7 s después (a las 17:29:29 h) se desconectó dicho seccionador;
 •
 a las 17:29:30 h
-el despachador eléctrico ED1, para delimitar el lugar del cortocircuito mediante la manipulación de los elementos de control, introdujo la orden de desconexión del ÚO 402 de la estación de Napajedla –
+el despachador eléctrico ED1, para delimitar el lugar del cortocircuito mediante la manipulación
+de los elementos de mando, introdujo la orden de desconexión del ÚO 402 de la estación de Napajedla –
 
 ## Página 39
+
 
 orden «VYP START».
 7 s después (a las 17:29:37 h) se abrió dicho seccionador;
@@ -1327,8 +1345,8 @@ suministro de las vías impares y pares mediante los seccionadores rápidos RN y
 •
 suministro de las vías impares y pares mediante los seccionadores rápidos RN y N2, ver arriba, con interconexión transversal de las vías impares y pares mediante seccionadores de tramo en las cabeceras de las est. intermedias y, simultáneamente, con un seccionador de tramo en la cabecera de Napajedla de la est. Otrokovice (en el momento de la aparición de la MU, el ÚO 23A estaba abierto (desconectado)).
 
-
 ## Página 40
+
 
 Para la realización del cortocircuito se utilizó el cortocircuidor QZR 25.10/3.PH.3.2.FE.0/1, el analizador Dewetron DEWE-3201 y el sensor de corriente LEM LT 4000-T (en adelante también instrumental de medición móvil).
 La velocidad de muestreo del analizador era de 50 kS/s, suficiente para el registro detallado del fenómeno transitorio. Se realizaron un total de tres pruebas:
@@ -1354,8 +1372,8 @@ despachador
 ◦a las 17:39 h el jefe de maniobras de guardia de la est. Otrokovice le informó de un incendio en las dependencias del enlace de enclavamiento situadas en el edificio de estación,
 ◦a las 18:26 h fue informado de un incendio en las dependencias del edificio de estación de la est. Tlumačov,
 
-
 ## Página 41
+
 
 ◦colaboró con el HZS y el jefe de maniobras de guardia de la est. Otrokovice en la actualización de la información sobre los incendios producidos;
 •
@@ -1377,8 +1395,8 @@ maquinista del tren Nex 53742
 ◦la marcha del tren Nex 53742 hasta la señal de entrada 1S de la est. Otrokovice, que indicaba la señal «Velocidad 60 km/h y aviso», transcurrió sin anomalías,
 ◦en el momento en que el tren Nex 53742 se aproximaba a la señal de entrada 1S de la est. Otrokovice, se giró un instante para sacar de la mochila una bebida y un tentempié. El HDV del tren 53742 comenzó a indicar una avería con la apertura simultánea del interruptor principal,
 
-
 ## Página 42
+
 
 ◦se percató inmediatamente de que el HDV se encontraba en el lugar donde debía haberse realizado la marcha con los pantógrafos bajados, lo cual no habían hecho. A continuación instó al maquinista en formación a que detuviera el tren de inmediato. El maquinista en formación reaccionó aplicando el frenado de acción rápida,
 ◦miró por la ventana lateral de la cabina del maquinista, al oír el sonido del hilo de catenaria rozando por el HDV. Mientras tanto, el maquinista en formación contactó con el despachador jefe 1A CDP Přerov para comunicarle la aparición de la MU – daño en la TV,
@@ -1399,47 +1417,47 @@ maquinista en formación (conductor del tren Nex 53742)
 
 ## Página 43
 
-◦tras detener la HDV en el espacio de la aguja n.º 35, comunicó al despachador rector 1A CDP Přerov la aparición de un MU – daño en la TV. A continuación vio subir fuego y humo desde el espacio de la señal de salida válida para la dirección opuesta.
-Nota DI: se trataba de la señal de salida L3a de la estación Otrokovice,
-◦el extremo de Napajedel y el extremo de la estación Otrokovice los recorría por primera vez durante la realización de la interrupción de tensión de la TV.
-El espacio SK de la estación Otrokovice estaba monitorizado por un sistema de cámaras con grabación. Del análisis de estas grabaciones se desprende, entre otros, que:
+◦tras detener el HDV en el espacio de la aguja n.º 35, comunicó al despachador director 1A CDP Přerov la aparición de un MU – daños en el TV. A continuación vio subir humo y fuego desde el espacio de la señal de salida válida para la dirección opuesta.
+Nota DI: se trataba de la señal de salida L3a de la est. Otrokovice,
+◦el cabezal de Napajedel y el cabezal de la est. Otrokovice los recorrió por primera vez durante la realización de la interrupción de tensión del TV.
+El espacio SK de la est. Otrokovice estaba monitorizado por un sistema de cámaras con grabación. Del análisis de estas grabaciones se desprende, entre otros, que:
 •
 a las 17:01:44 h
-en el SK n.º 6, procedente de la dirección de Napajedel, entraba el tren Pn 53818 encabezado por la HDV de tracción eléctrica.
+entraba en el SK n.º 6 procedente de Napajedel el tren Pn 53818 con un HDV de tracción eléctrica en cabeza.
 118 s después (a las 17:03:42 h) el tren se detuvo en el SK n.º 6;
 •
 a las 17:09:25 h
-en el SK n.º 3, procedente de la dirección de Zlín-Malenovice, entraba el tren Os 14232 formado por una unidad automotora de la serie 814.
+entraba en el SK n.º 3 procedente de Zlín-Malenovice el tren Os 14232 formado por una unidad motorizada de la serie 814.
 32 s después (a las 17:09:57 h) el tren se detuvo en el SK n.º 3;
 •
 a las 17:12:32 h
-del SK n.º 3 partía el tren Os 14232 en dirección a Tlumačov.
-Nota DI: el sistema de cámaras no registró la puesta en marcha del tren, ya que dicho tren estaba cubierto en el encuadre del sistema de cámaras por la DV del tren Os 4232;
+partía del SK n.º 3 el tren Os 14232 en dirección a Tlumačov.
+Nota DI: el sistema de cámaras no registró la puesta en marcha del tren, ya que dicho tren estaba cubierto en el encuadre del sistema de cámaras por el DV del tren Os 4232;
 •
 a las 17:14:57 h
 el tren Pn 53818 en el SK n.º 6 fue puesto en marcha en dirección a Tlumačov;
 •
 a las 17:20:04 h
-el primer destello del incendio que se estaba originando en el espacio del extremo de Napajedel, cuando a partir de las grabaciones de las cámaras no era posible determinar de forma inequívoca el lugar del incendio.
+primer destello del incendio en desarrollo en el espacio del cabezal de Napajedel, sin que fuera posible determinar de forma inequívoca a partir de las grabaciones de las cámaras el lugar del incendio.
 Nota DI: se trataba del incendio del cable de cortocircuito del equipo de cortocircuito situado en el mástil de la señal de salida L3a y de la canalización del transformador de enlace en el SK n.º 3a, véase el punto 3.1.3 de esta ZZ;
 •
 a las 17:27:17 h
 el jefe de estación de guardia salió corriendo del DK al andén n.º 1.
-El espacio SK de la estación Tlumačov estaba monitorizado por un sistema de cámaras con grabación. Del análisis de estas grabaciones, que fueron facilitadas a la DI en el marco de la investigación, se desprende, entre otros, que:
+El espacio SK de la est. Tlumačov estaba monitorizado por un sistema de cámaras con grabación. Del análisis de estas grabaciones, que fueron facilitadas a la DI en el marco de la investigación, se desprende, entre otros, que:
 •
 a las 17:21:58 h
-en el SK n.º 2, procedente de la dirección de Otrokovice, entraba el tren Pn 53818 encabezado por la HDV de tracción eléctrica.
+entraba en el SK n.º 2 procedente de Otrokovice el tren Pn 53818 con un HDV de tracción eléctrica en cabeza.
 28 s después (a las 17:22:26 h) el tren se detuvo en el SK n.º 2;
 •
 a las 17:22:04 h
-del edificio de estación comenzó a subir humo.
-Los medios de comunicación se utilizaron en relación con el MU en cuestión únicamente después de su aparición, cuando la comunicación fue registrada por el dispositivo de grabación ReDat situado en el CDP Přerov. Para las necesidades de la investigación del MU en cuestión se examinaron las siguientes grabaciones relevantes de comunicación, cuando el 7 de junio de 2022:
+comenzó a subir humo desde el edificio de estación.
+Los medios de comunicación se utilizaron en relación con el MU en cuestión solo después de su aparición, cuando la comunicación fue registrada por el dispositivo de grabación ReDat situado en el CDP Přerov. Para las necesidades de la investigación del MU en cuestión se examinaron las siguientes grabaciones de comunicación relevantes, el día 7 de junio de 2022:
 •
-a las 17:20:39 h se inició la comunicación entre el despachador rector 1A CDP Přerov y el maquinista en formación del tren Nex 53742:
-despachador rector 1A CDP «CDP, recibo.»
-
+a las 17:20:39 h se inició la comunicación entre el despachador director 1A CDP Přerov y el maquinista en formación del tren Nex 53742:
+despachador director 1A CDP «CDP recepción.»
 
 ## Página 44
+
 
 Přerov
 maquinista en formación «Aa, 53742 en Otrokovice, catenaria desprendida, tenemos desprendi…, hemos desprendido la catenaria.»
@@ -1504,8 +1522,8 @@ despachador eléctrico ED1
 «Para saber qué tengo que hacer.»
 despachador rector 1A CDP «Está en la encrucijada.»
 
-
 ## Página 45
+
 
 Přerov
 despachador eléctrico ED1
@@ -1573,8 +1591,8 @@ maquinista del tren
 «Sí, mercancías.»
 Nex 53742
 
-
 ## Página 46
+
 
 despachador eléctrico ED1
 «Mercancías. Escuche, ¿dónde está parado? Necesito 
@@ -1647,8 +1665,8 @@ con ella.»
 despachador eléctrico ED1
 «Ajá.»
 
-
 ## Página 47
+
 
 maquinista del tren 
 «O sea, yo ahí, yo ahí hacia atrás … .»
@@ -1711,8 +1729,8 @@ despachador rector 1A CDP
 Přerov
 ¿Sí?»
 
-
 ## Página 48
+
 
 despachador eléctrico ED1
 «Bajo el número 28. Vale. Oye, no sé cuánto tardará en 
@@ -1778,6 +1796,7 @@ despachador rector 1A CDP «Él probablemente no entró. Él dijo que lo frenar�
 
 ## Página 49
 
+
 Přerov
 allí, está allí."
 electrodespachador ED1
@@ -1834,8 +1853,8 @@ y la PTNS Otrokovice se alimentó, debido a la realización de la citada interru
 desde la TNS Nedakonice en paralelo a través de los conmutadores rápidos RN (alimentación de TV sobre las vías impares)
 y N2 (alimentación sobre las vías pares), de modo que la TV sobre las vías impares y pares de las líneas y estaciones
 
-
 ## Página 50
+
 
 estaba interconectada mutuamente a través de los distintos ÚO en las est. Staré Město u Uherského Hradiště,
 Huštěnovice y Napajedla. El motivo era la ausencia de alimentación desde la PTNS Otrokovice y la mejora de las condiciones de tensión requeridas y de la capacidad de transporte de la TV.
@@ -1862,8 +1881,8 @@ a una velocidad de 56 km·h-1, continuando su circulación con el pantógrafo de
 y el simultáneo corte del interruptor principal del HDV 193.755-6.
 El maquinista del tren Nex 53742 se percató de su falta de atención en la supervisión del maquinista en formación únicamente a raíz de la indicación de pérdida de tensión de tracción. La orden de bajar el pantógrafo se dio mediante la manipulación del conmutador de mando de los pantógrafos a las 17:19:28 h, es decir, 5 s después del origen del
 
-
 ## Página 51
+
 
 SU, en el lugar de la circulación ordenada con el pantógrafo bajado. El tren se detuvo a las 17:19:52 h con su frente en la extremidad de Napajedla de la est. Otrokovice, a 308 m del lugar de origen del SU, como consecuencia de la frenada de acción rápida iniciada tras el origen del SU por el maquinista en formación.
 Durante el paso del HDV 193.755-6 del tren Nex 53742 por el lugar de intercambio de los tramos de anclaje
@@ -1881,6 +1900,7 @@ a las 17:28:27 h y 17:28:35 h dio la orden de corte de los conmutadores rápidos
 Nedakonice. Los conmutadores rápidos de la TNS Nedakonice no reaccionaron a la corriente de cortocircuito que fluía desde las 17:19:23 h. Debido al paso de esta corriente durante varios minutos por los aparatos de corte (tres en total, ver punto 3.1.3 de esta ZZ), se produjo su daño y destrucción
 
 ## Página 52
+
 
 a la penetración de tensión en el mástil de la señal de bloque AB 1-1564 en la cabecera de Tlumačov de la est. Otrokovice y en el mástil de la señal de entrada 1S de la est. Tlumačov, en los que estaban suspendidos y conectados a los correspondientes transformadores de enlace los cables de cortocircuito de los conjuntos de cortocircuito. A continuación, parte de la corriente de cortocircuito comenzó a fluir hacia los circuitos de los aparatos de enclavamiento, causando con ello su devastación extensa, véase también el punto 4.2.6 de la presente ZZ.
 Los ordenadores tecnológicos de SZZ de las est. Otrokovice y Tlumačov registraron a las 17:19:30 h, es decir, 7 s después del origen de la MU, el 1.er estado no estándar de SZZ, y ello en la est. Otrokovice, donde se ocupó el CU 2SK, que no formaba parte de ninguna ruta de circulación establecida (su ocupación no fue causada por la presencia de DV). 8 s más tarde (a las 17:20:04 h), el sistema de cámaras de la est. Otrokovice registró el comienzo del incendio que se estaba originando en la zona de la cabecera de Napajedla, donde comenzó a arder el cable de cortocircuito del conjunto de cortocircuito (colocado en el mástil de la señal de salida L3a) y la canalización del transformador de enlace 3aKN en el SK n.º 3a. Otros estados no estándar de los aparatos de enclavamiento fueron registrados a partir de las 17:21:35 h en la est. Tlumačov y a partir de las 17:22:33 h en la est. Otrokovice, véase el punto 3.1.8 de la presente ZZ.
@@ -1911,8 +1931,8 @@ comienzo de la comunicación entre el despachador eléctrico ED1 y el maquinista
 el despachador de circulación 1A CDP Přerov comunicó el origen de la MU conforme al horario de comunicación de la sala n.º 1 CDP Přerov al HZS SŽ.
 Al mismo tiempo, el despachador eléctrico ED1, tras delimitar el lugar del cortocircuito, abrió los interruptores rápidos RN y N2 en TNS Nedakonice, es decir, cortó el suministro de TV en el tramo Nedakonice – Otrokovice, y abrió el ÚO 412 en la est. Otrokovice, véase el punto 3.1.8 de la presente ZZ;
 
-
 ## Página 53
+
 
 •
 17:29 h
@@ -1959,8 +1979,8 @@ restablecimiento del aseguramiento de la circulación de trenes por la acción d
 14:25 h
 restablecimiento del aseguramiento de la circulación de trenes por la acción del TZZ en ambas TK entre las est. Napajedla y Otrokovice;
 
-
 ## Página 54
+
 
 31. 8. 2022
 •
@@ -1988,8 +2008,8 @@ De los cambios inmediatos en los parámetros constructivo-técnicos de las obras
 El explotador ferroviario está además facultado para impartir a los transportistas, al organizar el transporte ferroviario, instrucciones para garantizar un transporte ferroviario fluido y seguro. Las instrucciones impartidas durante la dirección de la circulación deben ser breves y comprensibles y no deben poner en peligro la seguridad del transporte ferroviario.
 El maquinista del tren Nex 53742 fue informado antes de la circulación hacia la est. Otrokovice de los cambios en los parámetros constructivo-técnicos de las obras ferroviarias y de las obras en la vía mediante la orden escrita «ORDEN GENERAL para el tren 53742», n.º 0000023-472, que contenía el texto: «Vigencia desde el 05.06.2022 08:15 hasta el 09.06.2022 17:00. En la circulación desde Nedakonice hasta Říkovice se ordena la Circulación con potencia reducida. En la estación Otrokovice, en la entrada y circulación por las vías impares, circule por el tramo sin tensión con los pantógrafos recogidos». Esta orden escrita fue emitida para el tren Nex 53742, que circulaba desde la est. Břeclav, distrito de la estación, hasta la est. Bohumín, distrito
 
-
 ## Página 55
+
 
 Bohumín-Vrbice. La redacción y la información comprobable al maquinista del tren Nex 53742 sobre el contenido de la orden escrita en cuestión fueron realizadas por el explotador ferroviario antes de la salida del tren en cuestión desde Břeclav, es decir, el maquinista del tren Nex 53742 (maquinista en formación) fue informado de forma comprobable (mediante orden escrita) sobre la intervención de instalaciones de tracción eléctrica que tenía influencia en su trabajo – en la entrada y circulación en la est. Otrokovice.
 La persona que dirige el transporte ferroviario (en adelante también despachador de circulación 1A CDP Přerov) estaba obligada, al organizar y dirigir el transporte ferroviario, entre otros, a respetar el modo y las condiciones para la explotación de la vía, la dirección del transporte ferroviario, el seguimiento de la DV, el seguimiento de la permeabilidad de la vía de circulación, la dirección operativa del transporte ferroviario y, en la explotación de la vía para la dirección del transporte ferroviario, a utilizar las dependencias derivadas de la acción del SZZ y del TZZ explotados. En las actividades relacionadas con la explotación del SZZ y del TZZ debía respetar siempre también el conjunto de maniobras de circulación y de procedimientos de trabajo establecidos por las normas internas del explotador ferroviario. El despachador de circulación 1A CDP Přerov no podía permitir la entrada (salida) de trenes (PMD) con HDV eléctrico hacia/desde el área por él dirigida (estaciones con DOZ y tramos adyacentes de la línea) afectada por la intervención de TV, hasta que recibiera el mensaje de que los maquinistas de dichos trenes (PMD) han sido o serán informados, o hasta que él mismo les informe. Si las conversaciones no son registradas por un dispositivo de registro, el jefe de estación, es decir, el despachador de circulación 1A CDP Přerov que las haya recibido, debe documentar estos mensajes en el Libro de Registro Telefónico.
@@ -2003,28 +2023,70 @@ Nota DI: se trataba del 3.er día de ejecución de la intervención;
 ## Página 56
 
 •
-partía de la información oral (informe) que le fue transmitida al entregar el servicio, cuando asumió la dirección del tráfico ferroviario del despachante de línea CDP Přerov, que cumplía el turno nocturno del 6 al 7. 6. 2022 en el mismo puesto de trabajo, que debía contener la confirmación de que los trenes están siendo informados.
-Dicho hallazgo no puede valorarse en relación causal con la aparición de la MU, porque la verificación de si el maquinista está informado de la circulación con pantógrafos recogidos no sirve para advertir al maquinista de la información que le fue proporcionada sobre la circulación con pantógrafos recogidos antes de la salida, sino para verificar a la persona que dirige el tráfico ferroviario, si se han facilitado al maquinista la información necesaria y si puede permitir la entrada (salida) de trenes (PMD) con material rodante eléctrico.
+partía de la información oral (informe) que le fue transmitida al entregar el servicio, cuando 
+asumió la dirección del tráfico ferroviario del despachador de vía CDP Přerov, 
+que prestaba el turno nocturno del 6 al 7 de junio de 2022 en el mismo puesto de trabajo, 
+que debía contener la confirmación de que los trenes eran avisados. 
+Dicho hallazgo no puede valorarse en relación causal con la aparición de la MU, porque la 
+verificación de si el maquinista está avisado de la circulación con pantógrafos bajados no 
+sirve para advertir al maquinista de la información que le fue proporcionada sobre la 
+circulación con pantógrafos bajados antes de la salida, sino para verificar a la persona que 
+dirige el tráfico ferroviario, si se proporcionaron al maquinista la información necesaria y 
+si puede permitir la entrada (salida) de trenes (PMD) con vehículo de tracción eléctrico.
 ### Hallazgos:
-En la investigación se constató la infracción de la normativa legal y de la norma interna relativa a las funciones
-### y obligaciones del operador de la vía SŽ, fuera de la relación causal con la aparición de la MU:
+En la investigación se constató la infracción de la normativa legal y de la norma interna 
+relativa a las funciones y obligaciones del gestor de la vía SŽ, fuera de la relación causal 
+con la aparición de la MU:
 •
 § 22 apartado 1 letra a) de la Ley núm. 266/1994 Sb.:
-"El operador de la vía está obligado a explotar la vía para las necesidades del tráfico ferroviario fluido y seguro de acuerdo con las reglas de explotación de la vía y la autorización administrativa";
+"El gestor de la vía está obligado a explotar la vía para las necesidades del tráfico 
+ferroviario fluido y seguro de acuerdo con las reglas de explotación de la vía y la 
+autorización oficial";
 •
-art. 3662 de la norma interna SŽDC D1:
-"El jefe de estación no puede permitir la entrada (salida) de trenes (PMD) con material rodante eléctrico de tracción, hasta que haya recibido el informe de que los maquinistas de dichos trenes (PMD) están o serán informados, o hasta que él mismo los informe. Si las comunicaciones no son registradas por el dispositivo de registro, el jefe de estación que haya recibido dicho informe debe documentarlo en el Libro Telefónico."
-De los datos de actividad de la SZZ de la estación de Otrokovice, registrados por el ordenador tecnológico 3, se deduce que en el elemento (unidad) SK núm. 3 mostrado en el esquema de vías se había establecido una exclusión de vía. A pesar de la exclusión en curso según ROV 13150, fases B y B1, y de la exclusión de vía SK núm. 3 establecida en la SZZ de la estación de Otrokovice, el despachante director 1A del CDP Přerov no realizó las actuaciones para interrumpir la exclusión (documentación de la interrupción de la exclusión) y permitió el 7. 6. 2022 la circulación de trenes por la mencionada SK. En el caso concreto se trataba de la circulación de los trenes:
+artículo 3662 de la norma interna SŽDC D1:
+"El jefe de estación no puede permitir la entrada (salida) de trenes (PMD) con vehículo 
+de tracción eléctrico, hasta que no haya recibido el aviso de que los maquinistas de 
+dichos trenes (PMD) han sido o serán avisados, o hasta que él mismo no los avise. Si las 
+comunicaciones no son registradas por un dispositivo de registro, el jefe de estación que 
+recibió dicho aviso debe documentarlo en el Libro Telefónico.".
+De los datos de actividad de la SZZ de la estación de Otrokovice, registrados por el 
+ordenador tecnológico 3, se deduce que en el elemento (unidad) SK núm. 3 mostrado en el 
+esquema de vías se había establecido una vía excluida. A pesar de la exclusión en curso 
+según el ROV 13150, fases B y B1, y de la vía excluida SK núm. 3 establecida en la SZZ de 
+la estación de Otrokovice, el despachador director 1A del CDP Přerov no realizó las 
+actuaciones para interrumpir la exclusión (documentación de la interrupción de la 
+exclusión) y permitió el 7 de junio de 2022 la circulación de trenes por la citada SK. En 
+dicho caso se trataba de las circulaciones de los trenes:
 •
-Os 14220 desde TK Zlín-Malenovice – Otrokovice hasta SK núm. 3 de la estación de Otrokovice y, posteriormente, tras su parada y renumeración como tren Os 14259, su salida desde SK núm. 3 de vuelta a TK Zlín-Malenovice – Otrokovice,
+Os 14220 desde la TK Zlín-Malenovice – Otrokovice hasta la SK núm. 3 de la estación de 
+Otrokovice y, posteriormente, tras su parada y renumeración como tren Os 14259, su 
+salida desde la SK núm. 3 de vuelta a la TK Zlín-Malenovice – Otrokovice,
 •
-Os 14267 desde TK núm. 2 Tlumačov – Otrokovice hasta SK núm. 3 de la estación de Otrokovice y, posteriormente, la salida de dicho tren desde SK núm. 3 hacia TK Zlín-Malenovice – Otrokovice,
+Os 14267 desde la TK núm. 2 Tlumačov – Otrokovice hasta la SK núm. 3 de la estación de 
+Otrokovice y, posteriormente, la salida de dicho tren desde la SK núm. 3 hacia la TK 
+Zlín-Malenovice – Otrokovice,
 •
-Os 14232 desde TK Zlín-Malenovice – Otrokovice hasta SK núm. 3 de la estación de Otrokovice y, posteriormente, la salida de dicho tren desde SK núm. 3 hacia TK núm. 2 Tlumačov – Otrokovice.
-Según la declaración del operador de la vía, la circulación de los trenes mencionados anteriormente por la SK núm. 3 excluida y la parte correspondiente del extremo de Tlumačov excluido de la estación de Otrokovice fue permitida por el despachante director 1A del CDP Přerov sobre la base de su comunicación con OZOV, siendo que dichas comunicaciones se realizaban a través de un dispositivo de comunicación no grabado. El despachante director 1A del CDP Přerov no llevaba registro alguno de dicha comunicación. Tampoco realizó en ninguna documentación ferroviaria el registro de la interrupción de la exclusión ROV 13150, fases B y B1, relativa a la autorización de la circulación de trenes hacia/desde SK núm. 3. La circulación de los trenes debía estar asegurada, según ROV 13150, desde la dirección de la estación de Tlumačov hasta la estación de Zlín-Malenovice y de vuelta como maniobra con las formaciones de los trenes a través del extremo de Napajedla de la estación de Otrokovice, siendo que las vías de entrada y salida hacia/desde la dirección de Zlín-Malenovice debían ser las SK núm. 5 y 5b, porque según ROV núm. 13150, fases B y B1, no era posible en la estación de Otrokovice la circulación de trenes hacia/desde SK núm. 1, 3 y 3a.
-
+Os 14232 desde la TK Zlín-Malenovice – Otrokovice hasta la SK núm. 3 de la estación de 
+Otrokovice y, posteriormente, la salida de dicho tren desde la SK núm. 3 hacia la TK 
+núm. 2 Tlumačov – Otrokovice.
+Según la declaración del gestor de la vía, las circulaciones de los trenes anteriormente 
+mencionados por la SK núm. 3 excluida y la parte correspondiente del extremo de 
+Tlumačov excluido de la estación de Otrokovice fueron permitidas por el despachador 
+director 1A del CDP Přerov sobre la base de su comunicación con el OZOV, si bien dichas 
+comunicaciones se realizaban a través de un dispositivo de comunicación no grabado. El 
+despachador director 1A del CDP Přerov no llevaba registro alguno de dicha comunicación. 
+Tampoco realizó en ninguna documentación ferroviaria registro alguno de la interrupción 
+del ROV 13150, fases B y B1, relativa a la autorización de la circulación de trenes hacia/desde 
+la SK núm. 3. Las circulaciones de los trenes debían haberse asegurado, según el ROV 13150, 
+desde la dirección de la estación de Tlumačov hacia la estación de Zlín-Malenovice y de 
+vuelta como maniobras con los conjuntos de trenes a través del extremo de Napajedla de la 
+estación de Otrokovice, siendo las vías de entrada y de salida hacia/desde la dirección de 
+Zlín-Malenovice las SK núm. 5 y 5b, ya que según el ROV núm. 13150, fases B y B1, no era 
+posible en la estación de Otrokovice la circulación de trenes hacia/desde la SK núm. 1, 3 y 
+3a.
 
 ## Página 57
+
 
 Dicho hallazgo no puede valorarse en relación causal con la aparición de la MU, porque la circulación de los trenes mencionados anteriormente no tuvo ninguna influencia en la aparición de la MU en cuestión.
 ### Hallazgos:
@@ -2057,21 +2119,21 @@ punto núm. 6 de las Medidas Provisionales, Ferroviarias y de Transporte del ROV
 "…, los trenes desde la dirección de Tlumačov hacia Zlín y de vuelta deben ser reubicados a través del extremo de Napajedla. No es posible la circulación hacia/desde las vías de estación 1., 3. y 3a en el ámbito ferroviario de Otrokovice. ... .".
 El despachante eléctrico, es decir, también el despachante eléctrico ED1, en la gestión operativa de la explotación de las instalaciones eléctricas para garantizar la operatividad del camino ferroviario de transporte en el área de gestión definida, en el sentido de la normativa legal y de las disposiciones correspondientes de las normas internas del operador de la vía SŽ, es en el ámbito territorial de su competencia directamente superior a todos los empleados de explotación que aseguran la explotación, el servicio, el mantenimiento y la seguridad de las instalaciones eléctricas. En el marco del servicio, entre otras obligaciones, debe vigilar continuamente la situación de explotación y energética y, sobre la base de los informes de averías y fallos en las instalaciones de tracción eléctrica, en conexión con el conocimiento y el análisis del estado, gestionar operativamente las actividades en las instalaciones bajo su dirección. En caso de anomalías en el suministro eléctrico de TV en líneas electrificadas, averías, caídas de energía, condiciones atmosféricas adversas
 
-
 ## Página 58
 
-etc., asegura oportunamente las medidas necesarias y acuerda la implantación de exclusiones no previstas y la colocación de las señales correspondientes para la circulación eléctrica, siendo responsable de la delimitación de las averías en todas las instalaciones bajo su dirección.
-En caso de averías, informa según la norma interna SŽDC E6 al jefe de estación, es decir, a la persona que dirige el tráfico ferroviario en el lugar correspondiente de la vía, mediante orden de despacho sobre los posibles cambios en la TV (por ejemplo, sobre desvíos no circulables eléctricamente u otros lugares que deben ser recorridos con el pantógrafo recogido), acordando con dichas personas las condiciones para la circulación de DV de tracción eléctrica y otras medidas ferroviarias necesarias, de las que informa a todos los puestos de gestión de la explotación correspondientes en el camino de transporte. En caso de averías de TV que pongan en peligro la seguridad de las personas o la explotación ferroviaria, o en caso de que exista riesgo de aumento del alcance de la avería o del daño, el despachante eléctrico asegura sin demora su delimitación y eliminación.
-La fusión del hilo de catenaria y el daño en la TV en el extremo de Napajedla de la estación de Otrokovice fue, en el sentido de la norma interna SŽDC E6, una avería, es decir, un estado de la instalación que provoca la no operatividad de la instalación correspondiente o de su parte.
-La propia norma interna SŽDC E6 no define el término "jefe de estación", por lo que es necesario partir de la definición de dicho término indicada en las demás normas internas vigentes de SŽ, que deberían, dentro del sistema establecido de garantía de seguridad, constituir un conjunto uniforme.
-Desde la perspectiva del despachante eléctrico, la norma interna más cercana a esta problemática es SŽDC E10, que también regula la organización del mantenimiento de la TV y que en el art. 47 letra c) establece el procedimiento de trabajos para la eliminación de una avería de TV de considerable alcance, en el que, entre otras cosas, indica que se procede sobre la base de la decisión del empleado responsable de la Administración de Electrotécnica y Energía y del despachante eléctrico "… (previa conformidad del empleado que dirige el tráfico ferroviario, por ejemplo, el jefe de estación, el despachante de explotación) ...". La propia norma interna tampoco define el término "jefe de estación" o "despachante de explotación", en cualquier caso, clasifica incorrectamente al "despachante de explotación" bajo la persona que dirige el tráfico ferroviario, lo que lleva a la ambigüedad de los términos y a la orientación incorrecta de los destinatarios de dichas disposiciones.
-La norma interna SŽDC D1, por su parte, ya define el término "jefe de estación" como denominación común para los empleados con cualificación profesional para organizar y dirigir el tráfico ferroviario. A este grupo de empleados pertenecen también el despachante de línea y el jefe de estación DOZ. Por el contrario, la norma interna SŽDC D1 define el término "Despachante de explotación" como empleado del aparato de despacho de SŽ para la gestión operativa de la explotación.
-La DI ya en 2021 señaló el hecho (ZZ ref. núm.: 6-1965/2020/DI, colisión del tren Ex 1251 con un componente suelto (componente) de la línea de tracción en la estación ferroviaria de Prosenice), que los procedimientos tecnológicos de SŽ contenidos en la norma interna SŽDC E6 remiten a los procedimientos contenidos en la norma interna SŽDC (ČD) D2, que fue derogada por el operador de la vía SŽ a fecha 1. 7. 2013. Lo mismo puede afirmarse de la norma interna SŽDC E10, ya que los procedimientos tecnológicos contenidos en dicha norma no están actualizados y algunas de sus partes, sin medida adicional, entran en conflicto con otras normas internas vigentes de SŽ.
-De lo anterior se deduce que el sistema de seguridad del operador de la vía implantado por el operador de la vía SŽ, contenido en las normas internas SŽDC E6 y SŽDC E10, presentaba deficiencias en el sentido de que la obligación, la responsabilidad y la competencia:
+en condiciones, etc., garantiza oportunamente las medidas necesarias y delibera la implantación de interrupciones no previstas y la colocación de las señales correspondientes para la explotación eléctrica, siendo responsable de la delimitación de averías en todos los dispositivos que tiene bajo su control.
+En caso de averías, informa según la norma interna SŽDC E6 al jefe de estación, es decir, a la persona que dirige el tráfico ferroviario en el lugar dado de la vía, mediante orden de despacho sobre los posibles cambios en la TV (por ejemplo, sobre desvíos no transitables eléctricamente u otros lugares que deben recorrerse con el pantógrafo recogido), acordando con dichas personas las condiciones para las circulaciones DV de tracción eléctrica y otras medidas de tráfico necesarias, de las que informa a todos los puestos de trabajo correspondientes de dirección de la explotación en la vía de circulación. En caso de averías de TV que pongan en peligro la seguridad de las personas o la explotación ferroviaria, o en caso de que exista riesgo de aumento del alcance de la avería o del daño, el despachador eléctrico garantiza de inmediato su delimitación y eliminación.
+La fusión del hilo de catenaria y la avería de TV en el extremo de alimentación de la estación de Otrokovice fue, en el sentido de la norma interna SŽDC E6, una avería, es decir, un estado del dispositivo que provoca la no aptitud para el servicio del dispositivo correspondiente o de su parte.
+La propia norma interna SŽDC E6 no define el término «jefe de estación», por lo que es necesario partir de la definición de este término indicada en las demás normas internas vigentes de SŽ, que, dentro del sistema establecido de garantía de la seguridad, deberían constituir un conjunto uniforme.
+Desde el punto de vista del despachador eléctrico, la norma interna SŽDC E10 es la más cercana a la cuestión planteada, la cual regula también la organización del mantenimiento de la TV y que en el art. 47. apartado c) establece el procedimiento de trabajos para la eliminación de una avería de TV de considerable alcance, en el que, entre otros, indica que se actúa sobre la base de la decisión del empleado responsable de la Dirección de Electrotecnía y Energía y del despachador eléctrico «… (previa conformidad del empleado que dirige el tráfico ferroviario, por ejemplo, el jefe de estación, el despachador de explotación) …». La propia norma interna no define de nuevo el término «jefe de estación» ni «despachador de explotación», en cualquier caso clasifica incorrectamente al «despachador de explotación» bajo la persona que dirige el tráfico ferroviario, lo que lleva a una ambigüedad de los términos y a una orientación incorrecta de los destinatarios de las disposiciones dadas.
+La norma interna SŽDC D1 define ya el término «jefe de estación» como denominación común para los empleados con cualificación profesional para organizar y dirigir el tráfico ferroviario. A este grupo de empleados pertenece también el despachador de línea y el jefe de estación DOZ. Por el contrario, la norma interna SŽDC D1 define el término «Despachador de explotación» como empleado del aparato de despacho de SŽ para la dirección operativa de la explotación.
+DI ya en 2021 llamó la atención sobre el hecho (ZZ n.º de ref.: 6-1965/2020/DI, colisión del tren Ex 1251 con un componente suelto (componente) de la línea de tracción en la estación de ferrocarril Prosenice) de que los procedimientos tecnológicos de SŽ contenidos en la norma interna SŽDC E6 remiten a procedimientos contenidos en la norma interna SŽDC (ČD) D2, que fue derogada por el operador de la vía SŽ a la fecha del 1. 7. 2013. Lo mismo puede constatarse respecto de la norma interna SŽDC E10, ya que los procedimientos tecnológicos contenidos en dicha norma no están actualizados y algunas de sus partes, sin medida adicional, entran en conflicto con otras normas internas vigentes de SŽ.
+De lo anterior se deduce que el sistema de seguridad del operador de la vía, implantado por el operador de la vía SŽ y contenido en las normas internas SŽDC E6 y SŽDC E10, presentaba deficiencias en el sentido de que la obligación, la responsabilidad y la competencia:
 •
-impuesta al empleado que dirige el tráfico ferroviario en la eliminación de averías durante exclusiones no previstas, fue impuesta también al despachante de explotación, quien es un empleado del operador de la vía que participa en la gestión operativa de la explotación, y no en la dirección del tráfico ferroviario en el ejercicio directo del servicio ferroviario, es decir, no tiene las competencias de la persona que dirige el tráfico ferroviario (por ejemplo, el jefe de estación, el despachante de línea);
+impuesta al empleado que dirige el tráfico ferroviario en la eliminación de averías durante interrupciones no previstas, fue impuesta también al despachador de explotación, quien es un empleado del operador de la vía que participa en la dirección operativa de la explotación, y no en la dirección del tráfico ferroviario en la ejecución directa del servicio de tráfico, es decir, no posee las competencias de la persona que dirige el tráfico ferroviario (por ejemplo, el jefe de estación, el despachador de línea);
 
 ## Página 59
+
 
 •
 en la cobertura de un tramo no transitable, en la colocación de señales para la explotación eléctrica, en las interrupciones de vía no previstas, en las interrupciones de tensión, etc., se establece una referencia al procedimiento en la normativa interna derogada de SŽDC (ČD) D2, lo que da como resultado que los empleados delegados que desempeñan un papel influyente en la seguridad no puedan ser competentes en cuanto a las tareas relacionadas con la seguridad que recaen dentro de sus obligaciones.
@@ -2097,8 +2159,8 @@ punto 2.3.3 del ANEXO I del Reglamento de la Comisión (UE) 2018/762:
 La TV de las líneas electrificadas es, de acuerdo con el § 5 apartados 1 y 5 de la Ley núm. 266/1994 Sb., una obra de la infraestructura; de acuerdo con el § 9 letra g) del Decreto núm. 177/1995 Sb., una parte de la infraestructura; y de acuerdo con el § 1 apartado 4 letra d) del Decreto núm. 100/1995 Sb., también un UTZ eléctrico. El gestor de la infraestructura SŽ está obligado a explotar el UTZ solo con un certificado de aptitud vigente y en un estado técnico que corresponda a la aptitud aprobada, debiendo las obras de la infraestructura cumplir las condiciones técnicas y los requisitos de seguridad de la explotación de la infraestructura y del transporte ferroviario.
 La TV en TK núm. 1 Napajedla – Otrokovice y en TK núm. 2 Otrokovice – Napajedla tenía, en el momento de la aparición de la MU, un certificado de aptitud del UTZ vigente, habiéndose realizado la última revisión en los días 2 y 3 de 5 de 2017, con una vigencia de 6 años.
 
-
 ## Página 60
+
 
 La TV en la est. de Otrokovice tenía, en el momento de la aparición de la MU, un certificado de aptitud del UTZ vigente, habiéndose realizado la última revisión en los días 12 a 14 de 7 de 2017, con una vigencia de 6 años.
 La TV en TK núm. 1 Otrokovice – Tlumačov y en TK núm. 2 Tlumačov – Otrokovice tenía, en el momento de la aparición de la MU, certificados de aptitud del UTZ vigentes, habiéndose realizado la última revisión en los días 14 de 8 a 1 de 9 de 2018, con una vigencia de 6 años.
@@ -2117,8 +2179,8 @@ El tramo de TV de Nedakonice a Otrokovice estaba, en el momento de la aparición
 Los parámetros de corte de los seccionadores rápidos en la TNS Nedakonice eran ajustados (verificados) por el gestor de la infraestructura SŽ en los intervalos establecidos, habiéndose realizado el último ajuste de los seccionadores rápidos antes de la aparición de la MU el día 23 de 3 de 2022, de modo que en el seccionador rápido RN se ajustó el valor de corte (valor de actuación) de 2 100 A y en el seccionador rápido N2 se ajustó el valor de corte (valor de actuación) de 2 050 A, véase el punto 4.2.6 de esta ZZ.
 El dispositivo de enclavamiento es, de acuerdo con el § 5 apartados 1 y 5 de la Ley núm. 266/1994 Sb., una obra en la infraestructura que amplía, completa, modifica o asegura la infraestructura; de acuerdo con el § 9 letra g) del Decreto núm. 177/1995 Sb., una parte de la infraestructura; y de acuerdo con el § 1 apartado 4 letra k) del Decreto núm. 100/1995 Sb., también un UTZ eléctrico.
 
-
 ## Página 61
+
 
 La TZZ del TÚ Napajedla – Otrokovice tenía, en el momento de la aparición, un certificado de aptitud del UTZ vigente, habiéndose realizado la última revisión el día 10 de 8 de 2020, con una vigencia de 5 años. La última inspección y prueba de la TZZ del TÚ Napajedla – Otrokovice, del autobloque electrónico de tres indicaciones – tipo ABE-1, se realizó el día 7 de 9 de 2020, y la inspección y prueba subsiguientes debían realizarse antes del 6 de 9 de 2025.
 La SZZ de la est. de Otrokovice tenía, en el momento de la aparición de la MU en cuestión, un certificado de aptitud del UTZ vigente, habiéndose realizado la última revisión en los días 8 a 14 de 1 de 2019, con una vigencia de 5 años. La última inspección y prueba de la SZZ de la est. de Otrokovice, del enclavamiento electrónico ESA 11, se realizó el día 1 de 11 de 2019, y la inspección y prueba subsiguientes debían realizarse antes del 31 de 10 de 2024.
@@ -2129,6 +2191,7 @@ El transportista estaba obligado a explotar el transporte ferroviario de acuerdo
 El maquinista estaba, al conducir el tren (DV), entre otras cosas, obligado a conducir el DV únicamente desde la posición desde la que se tenía la mejor visibilidad, por lo general desde la cabina delantera del maquinista en el sentido de la marcha; al frente del DV, observar la línea y las señales, y en las líneas electrificadas también la TV, y actuar según los hechos constatados. En marcha no debía superar la velocidad máxima permitida establecida en el horario de circulación, ni la velocidad limitada ordenada, debiendo garantizar las condiciones (si podía influir en ellas) para que pudiera percibir las señales y regirse por ellas. Sobre la base de la información contenida en la Orden Escrita de Interrupción de instalaciones de tracción eléctrica, que tenían influencia en el trabajo
 
 ## Página 62
+
 
 del maquinista de HDV eléctrico, que le fueron proporcionadas antes de la salida, en relación con la señal «Prepárese para bajar el colector», emitida por el semáforo portátil para tracción eléctrica, que al maquinista de HDV eléctrico le precedió la señal que ordena la circulación con el colector bajado, debió elegir tal manera de circular y accionar el elemento de control correspondiente del DV para bajar el colector, de modo que, a partir como máximo del nivel del semáforo portátil para tracción eléctrica con la señal «Baje el colector», «Vía en sentido directo sin línea de tracción», «Vía en sentido a la derecha sin línea de tracción» o «Vía en sentido a la izquierda sin línea de tracción», realizara la circulación con el colector bajado.
 Según las disposiciones del reglamento interno PKPCI Vp22, el maquinista estaba además obligado a dirigir el trabajo de los empleados que le fueron asignados para la formación, supervisarlos, ampliar sus conocimientos profesionales, habilidades y hábitos de trabajo seguros necesarios para el desempeño del servicio en el DV, siendo responsable de las actividades realizadas por el maquinista en formación que tenía bajo su supervisión, véase también el punto 4.3.1 de la presente ZZ.
@@ -2141,8 +2204,8 @@ El maquinista del tren Nex 53742 se encontraba durante la circulación del tren 
 •
 ### la Orden escrita proporcionada antes de la salida sobre cambios temporales de los parámetros constructivos y técnicos de las obras de vía y de las obras sobre la vía, que tienen una influencia directa en la seguridad y la fluidez del tráfico ferroviario, fue informado de la interrupción de los equipos de tracción eléctrica, que influye en el trabajo del maquinista de HDV eléctrico,
 
-
 ## Página 63
+
 
 •
 la instrucción dada por el semáforo portátil para tracción eléctrica con la señal
@@ -2174,8 +2237,8 @@ art. 215 letra s) del reglamento interno PKPCI Vp22:
 «El maquinista está obligado durante el turno a dirigir el trabajo de los empleados que le hayan sido asignados para la formación, supervisarlos, ampliar sus conocimientos profesionales, habilidades y hábitos de trabajo seguros necesarios para el desempeño de la actividad de maquinista.».
 Todas las instrucciones dadas (concedidas) en el servicio de tráfico deben ser breves y comprensibles, a fin de excluir cualquier malentendido. El maquinista del tren Pn 53818 del transportista LRL, en la comunicación mediante el equipo de telecomunicaciones con el despachador director 1A CDP Přerov, mantenía las conversaciones en lengua eslovaca, véase el punto 3.1.9 de la presente ZZ. Pese a que la similitud del eslovaco
 
-
 ## Página 64
+
 
 con el checo es indudable y que históricamente las lenguas son afines, no puede utilizarse la lengua eslovaca, según los procedimientos tecnológicos del gestor de la vía SŽ, en el servicio de tráfico.
 El hallazgo descrito no puede valorarse en relación causal con la aparición del MU, porque la comunicación en cuestión no guardaba relación con el MU en cuestión y se produjo después de su aparición, momento en el que ninguna de las partes comunicantes tenía dudas sobre su contenido.
@@ -2195,8 +2258,8 @@ En la investigación no se constató el incumplimiento de las funciones y obliga
 La autoridad nacional de seguridad es el DÚ, que según la ley n.º 266/1994 Sb. es la autoridad administrativa dependiente del Ministerio de Transporte. Su función es, en particular, el ejercicio de la supervisión estatal en materia de vías y en materia de la autoridad de construcción, el ejercicio de la autoridad de construcción especial para las obras de vía y las obras sobre la vía, la aprobación de vehículos ferroviarios nuevos y modernizados y de equipos técnicos designados, y la tramitación de infracciones. Es obligación del DÚ comunicar al DI, en el plazo de 12 meses desde la fecha de publicación del informe final que contenga las recomendaciones de seguridad dirigidas a él, qué medida ha adoptado en relación con dicha recomendación de seguridad, y efectúa esta comunicación de forma regular, al menos una vez al año, hasta la adopción de las medidas correspondientes.
 La función de la Agencia Ferroviaria de la Unión Europea es, además de garantizar, en el marco de sus competencias, que se mantenga en general y, en la medida de lo posible, se aumente de forma sistemática la seguridad de los ferrocarriles, entre otras, la emisión, renovación, suspensión y modificación de certificados únicos de seguridad, la limitación de su vigencia o su anulación, en cuestión en la que coopera con las autoridades nacionales de seguridad; asimismo, emite autorizaciones para la puesta en el mercado de vehículos ferroviarios y de tipos de vehículos, y está facultada para renovar, modificar, suspender o anular las autorizaciones que haya emitido. La Agencia evalúa además los proyectos de normativa nacional, etc.
 
-
 ## Página 65
+
 
 En la investigación no se constató el incumplimiento de las funciones y obligaciones de la autoridad nacional de seguridad y de la Agencia Ferroviaria de la Unión Europea.
 ### 4.1.5 Entidades notificadas, entidades designadas y entidades dedicadas a la evaluación de riesgos
@@ -2219,6 +2282,7 @@ En la investigación no se constataron factores relacionados con la entidad resp
 
 ## Página 66
 
+
 4.2.6 Otros factores o consecuencias que se consideran relevantes a efectos de la investigación
 En la investigación se identificó un factor relacionado con la infraestructura ferroviaria, en relación con las instalaciones técnicas – la ubicación de los equipos de puesta a tierra en las estaciones de Otrokovice y Tlumačov, véase el punto 3.1.3 de la presente IIA.
 En caso de conexión indebida de un tramo desenergizado con un tramo de la catenaria bajo tensión (colector de la locomotora de tracción eléctrica, etc.), se produce en dicho lugar, debido al cortocircuito generado de diversa intensidad y al arco eléctrico asociado, daños en la catenaria (colectores de la catenaria, etc.), así como en otros equipos o incluso un riesgo para las personas que trabajan en la catenaria y en sus proximidades, ya que en el tramo desenergizado de la catenaria se introduce (arrastra) una tensión indebida.
@@ -2232,8 +2296,8 @@ Desde el punto de vista del equipo de puesta a tierra, el término «conectar» 
 La ubicación del equipo de puesta a tierra no está definida explícitamente en la TNŽ 34 3109 ni en otras normas, pero en general bajo este término se entiende la posición propia del equipo de puesta a tierra. Su ubicación se realiza mediante suspensión, cuando el equipo de puesta a tierra se cuelga verticalmente del conductor de la catenaria, o mediante amarre, y se fija horizontalmente para que no invada el perfil de paso. En la práctica, la ubicación de los equipos de puesta a tierra se realiza en función de las condiciones y costumbres locales. Para la fijación horizontal del equipo de puesta a tierra se utilizan elementos adecuados de la infraestructura de la vía – mástiles de señalización, postes de telecomunicaciones adecuados, etc., a los que se fija el extremo del poste aislante del equipo de puesta a tierra. Los mástiles de señalización se utilizan para la ubicación de los equipos de puesta a tierra debido a la facilidad para subir al señal mediante los peldaños de su mástil.
 En el caso de la MU en cuestión se utilizaron 3 equipos de puesta a tierra «UTTV 25», tipo 152 025 (destinados a su uso en catenaria de sistemas de tensión continua y alterna hasta 27,5 kV), que fueron registrados por el gestor de la infraestructura con los números de registro 4, 15 y 17. La última prueba periódica de estos equipos de puesta a tierra se realizó, de conformidad con la ČSN EN 61230 ED.2, el día 13. 3. 2020, con una validez máxima de 5 años para cables de uso exterior. Los citados equipos de puesta a tierra
 
-
 ## Página 67
+
 
 se ubicaron horizontalmente conectándolos al conductor de catenaria y, en el extremo opuesto, fijando el poste aislante al mástil de la señal de salida L3a de la estación de Otrokovice, al mástil de la señal de sección AB 1-1564 TÚ Otrokovice – Tlumačov y al mástil de la señal de entrada 1S de la estación de Tlumačov, siendo los cables de los equipos de puesta a tierra conducidos desde los postes de puesta a tierra hacia los mástiles de señalización, donde estaban suspendidos, y derivados hacia los centros de los transformadores de enlace, a los que se conectaban mediante unión roscada en sus centros, véanse los puntos 3.1.3 y 6 de la presente IIA y los indicados a continuación.
 En el marco de la investigación de la MU en cuestión, la DI abordó también la cuestión de la corriente de cortocircuito y la (no) actuación de los interruptores rápidos RN y N2 en la TNS Nedakonice, así como las pruebas de cortocircuito relacionadas descritas en la conclusión del punto 3.1.8 de la presente IIA.
@@ -2244,8 +2308,8 @@ La corriente de cortocircuito registrada por el sistema de control local de la T
 Fig. n.º 9: Registro de corrientes y tensión en la salida de la TNS Nedakonice durante la MU, donde la curva roja y amarilla muestra la evolución de la tensión y la curva verde y azul muestra la evolución de la corriente.
            Fuente: SŽ
 
-
 ## Página 68
+
 
 La tensión del arco eléctrico depende de su longitud y de la magnitud de la corriente. Según las relaciones indicadas en el libro «Elektrické přístroje», de O. Havelka et al. (SNTL/ALFA 1985), estas pueden expresarse mediante la ecuación:
 −3
@@ -2313,6 +2377,7 @@ Arco de 1 m, con cables de refuerzo, con hilo de catenaria sin desgaste.
 3 984
 
 ## Página 69
+
 
 Arco de 1 m, sin cables de refuerzo, con hilo de catenaria sin desgaste.
 2 831
@@ -2385,8 +2450,8 @@ en el circuito, el voltaje en el mismo era pequeño en relación con el voltaje 
 por el sistema de control local), o bien el arco eléctrico no aparecía en el circuito en 
 determinados momentos y se producía un cortocircuito perfecto (conexión metálica).
 
-
 ## Página 70
+
 
 En la Tabla n.º 2 que se indica a continuación se presentan los resultados de las distintas 
 variantes de cálculo de la corriente en la prueba de cortocircuito y la comparación con los 
@@ -2460,8 +2525,8 @@ penetración de las corrientes de cortocircuito en la cableado del equipo de enc
 y su posterior devastación. Los conjuntos de cortocircuito se situaron en los semáforos 
 principales:
 
-
 ## Página 71
+
 
 •
 semáforo de salida L3a de la est. Otrokovice, en el km 154,620,
@@ -2507,6 +2572,7 @@ cortocircuito, contenidas en la Tabla n.º 3 que se indica a continuación.
 
 ## Página 72
 
+
 Tabla n.º 3. Distribución calculada de la corriente de cortocircuito entre los distintos puestos de cortocircuito.
 
 | Estado de los puestos de cortocircuito | en la señal de salida L3a | en la señal de sección AB | en la señal de entrada 1S | durante el cortocircuito |
@@ -2533,8 +2599,8 @@ Tabla n.º 4. Tensión del primer puesto de cortocircuito frente a tierra lejana
 
 El cálculo es orientativo, no obstante de él se desprende que la tensión que penetró en la estructura de acero de los mástiles de las señales fue como máximo de unos 200 V. Los cables utilizados en las distribuciones TZZ eran del tipo TCEKPFLEY. Estos cables tienen, según los datos del fabricante, una tensión nominal de 380 V (valor eficaz de la tensión alterna), por lo que la tensión de unos 200 V que penetró en los mástiles de las señales no debería en ningún caso perforar su aislamiento.
 
-
 ## Página 73
+
 
 El cálculo anterior parte de la situación en la que el puesto de cortocircuito está conectado a raíl. Sin embargo, durante el MU se produjo finalmente la fusión de los puestos de cortocircuito. Aquí podían presentarse básicamente dos situaciones:
 
@@ -2549,8 +2615,8 @@ Después del MU se realizaron en presencia del DI tres ensayos de cortocircuito 
 
 El equipo (aparato) de medición móvil en el puesto de cortocircuito registró durante el 2.º ensayo de cortocircuito el valor de corriente de cortocircuito estacionaria de 3 500 A, el sistema de mando local TNS
 
-
 ## Página 74
+
 
 Nedakonice registró 2 750 A, lo que supone una desviación de aproximadamente el 27 %. Como ya se ha indicado más arriba, al menos uno de los sistemas no medía correctamente.
 
@@ -2586,6 +2652,7 @@ El DI, en el marco de la investigación de las características humanas e indivi
 
 ## Página 75
 
+
 El operador ferroviario está, entre otros, obligado a garantizar que los DV en la red ferroviaria estatal y regional sean conducidos por personas que posean una licencia de maquinista válida y un certificado de maquinista válido, y que el transporte ferroviario sea realizado por personas que estén sanas y sean profesionalmente competentes, que al realizar el transporte ferroviario se ajusten a las instrucciones del operador de la infraestructura impartidas al organizar el transporte ferroviario. Una persona sin licencia de maquinista válida solo podrá conducir DV en las mencionadas redes bajo la supervisión de una persona que sea titular de un certificado de maquinista válido para dicha red o su parte, el tipo de vehículo y su modo de uso, y exclusivamente en el caso de formación en conducción o de un examen de conducción de DV.
 El maquinista en formación (que condujo el HDV del tren Nex 53742 en el marco de la formación en conducción) era titular de una licencia de maquinista válida y de un certificado de maquinista válido. Sin embargo, el certificado de maquinista no era válido para la red y el tipo de vehículo en cuestión – HDV de la serie 193.7 – y su modo de uso. Por ello, durante la conducción – formación en conducción –, fue supervisado por el maquinista del tren Nex 53742, que era titular de una licencia de maquinista válida y de un certificado de maquinista válido para la red y el tipo de vehículo en cuestión y su modo de uso.
 En la investigación de las características humanas e individuales, no se detectaron factores relacionados con la formación profesional de los empleados del operador de la infraestructura SŽ y del operador ferroviario PKPCI participantes en el accidente ferroviario (MU). En ninguno de los empleados del operador de la infraestructura SŽ y del operador ferroviario PKPCI participantes en el MU se detectaron factores relacionados con su estado de salud y situación personal, incl. el estrés físico y psicológico.
@@ -2596,26 +2663,25 @@ De la documentación del operador ferroviario PKPCI, en combinación con la info
 •
 En mayo de 2022 trabajó un total de 9 turnos – la jornada laboral (tiempo de trabajo) planificada del maquinista, incl. la conducción del HDV, fue planificada por el operador ferroviario de modo que no superara las 12 h. El tiempo de trabajo real se situó, a excepción de los turnos indicados a continuación, entre 12 y 13 h:
 ◦El 14 de mayo de 2022
-  tenía acordado (planificado) el inicio de la prestación de servicios (turno) a las 19:00 h y el final acordado (planificado) de la prestación de servicios (turno) al día siguiente 
-
+  tenía acordado (planificado) el inicio de la prestación de servicios (turno) a las 19:00 h y el final acordado (planificado) de la prestación de servicios (turno) al día siguiente
 
 ## Página 76
 
-a las 7:00 h en el lugar de Ostrava. La jornada laboral (tiempo de trabajo) del maquinista debía ser de 12 h. El inicio real de la prestación de servicios (turno) fue a las 18:30 h y el final real de la prestación de servicios (turno) fue al día siguiente a las 9:00 h. Durante dicha prestación de servicios, el maquinista realizó un viaje de servicio en el tramo Ostrava hl. n. – Břeclav, desde donde, en el tramo Břeclav, obvod přednádraží – Ostrava-Kunčice, en el horario comprendido entre las 5:12 h y las 8:03 h, condujo el HDV del tren Nex 47502; en otras palabras, el maquinista condujo el HDV durante 13 h 33 min desde el inicio de la prestación de servicios. Desde la estación Ostrava-Kunčice realizó un viaje de servicio (traslado en automóvil) hasta Ostrava, donde finalizó la prestación de servicios (turno) tras haber trabajado 14,5 h,
-◦El 22 de mayo de 2022
-  tenía acordado (planificado) el inicio de la prestación de servicios (turno) a las 11 h y el final acordado (planificado) de la prestación de servicios (turno) el mismo día a las 23:00 h en el lugar de Ostrava. La jornada laboral (tiempo de trabajo) del maquinista debía ser de 12 h. El inicio real de la prestación de servicios (turno) fue a las 10:30 h y el final real de la prestación de servicios (turno) fue al día siguiente a las 2:00 h. Durante dicha prestación de servicios (turno), el maquinista realizó un viaje de servicio desde Ostrava hl. n. hasta Kúty (República Eslovaca), donde entre las 14:00 h y las 23:00 h estuvo preparado para la prestación de servicios según las instrucciones del empleador, y posteriormente regresó en un viaje de servicio en el tramo Kúty – Ostrava hl. n. y finalizó la prestación de servicios (turno) tras haber trabajado 15,5 h (incl. horas extras);
+v 7:00 h en el lugar de Ostrava. La duración de la jornada (tiempo de trabajo) del maquinista debía ser de 12 h. El inicio real de la jornada (turno) fue a las 18:30 h y el final real de la jornada (turno) fue al día siguiente a las 9:00 h. Durante la jornada indicada, el maquinista realizó un viaje de servicio en el tramo Ostrava hl. n. – Břeclav, desde donde, en el tramo Břeclav, obvod přednádraží – Ostrava-Kunčice, en el horario de 5:12 h a 8:03 h, condujo el HDV del tren Nex 47502, es decir, el maquinista condujo el HDV durante 13 h 33 min desde el inicio de la jornada. Desde la est. Ostrava-Kunčice realizó un viaje de servicio (traslado en automóvil) hasta Ostrava, donde finalizó la jornada (turno) tras haber trabajado 14,5 h,
+◦el 22. 5. 2022
+  tenía acordado (planificado) el inicio de la jornada (turno) a las 11 h y el final acordado (planificado) de la jornada (turno) del mismo día a las 23:00 h en el lugar de Ostrava. La duración de la jornada (tiempo de trabajo) del maquinista debía ser de 12 h. El inicio real de la jornada (turno) fue a las 10:30 h y el final real de la jornada (turno) fue al día siguiente a las 2:00 h. Durante la jornada (turno) indicada, el maquinista realizó un viaje de servicio desde Ostrava hl. n. hasta Kúty (República Eslovaca), donde en el horario de 14:00 h a 23:00 h estuvo preparado para la jornada de acuerdo con la instrucción del empleador, y posteriormente regresó en un viaje de servicio en el tramo Kúty – Ostrava hl. n. y finalizó la jornada (turno) tras haber trabajado 15,5 h (incl. trabajo extraordinario);
 •
-En junio de 2022, tras el turno en el que se produjo el MU en cuestión, trabajó un total de 3 turnos – la jornada laboral (tiempo de trabajo) planificada del maquinista, incl. la conducción del HDV, fue planificada por el operador ferroviario de la misma manera que en mayo, de modo que las jornadas laborales (turnos) planificadas no superaran las 12 h. El tiempo de trabajo real se situó, a excepción de la prestación de servicios (turno) indicada a continuación, que precedió al turno
-### en el que se produjo el MU, entre 12,5 y 13 h:
-◦El 3 de junio de 2022
-  tenía acordado (planificado) el inicio de la prestación de servicios (turno) a las 22:00 h (tras un descanso en cama de 15 h proporcionado por el operador ferroviario en Děčín) y el final acordado (planificado) de la prestación de servicios (turno) al día siguiente a las 10:00 h en el lugar de Ostrava. La jornada laboral (tiempo de trabajo) del maquinista debía ser de 12 h. El inicio real de la prestación de servicios (turno) fue a las 22:00 h y el final real de la prestación de servicios (turno) fue al día siguiente a las 15:00 h. Durante dicha prestación de servicios (turno), el maquinista realizó un viaje de servicio en el tramo Děčín – Kralupy nad Vltavou, desde donde, en el tramo Kralupy nad Vltavou – Prosenice, en el horario comprendido entre las 0:23 h y las 11:13 h del 4 de junio de 2022, condujo el HDV del tren Pn 52049; en otras palabras, el maquinista condujo el HDV durante 13 h 13 min desde el inicio de la prestación de servicios (turno). Desde la estación Prosenice realizó
-### un viaje de servicio hasta Ostrava, donde finalizó la prestación de servicios (turno) tras haber trabajado 17 h 
-(incl. horas extras); 
+en junio de 2022, tras el turno en el que se produjo la creación de la MU, trabajó un total de 3 turnos – la jornada planificada (tiempo de trabajo) del maquinista, incl. la conducción del HDV, fue planificada por el transportista de la misma manera que en mayo, de modo que las jornadas planificadas (turnos) no superaran las 12 h. La jornada real (tiempo de trabajo) se situó, excepto la jornada (turno) indicada a continuación, que precedió al turno
+### en el que se produjo la creación de la MU, en el intervalo de 12,5 a 13 h:
+◦el 3. 6. 2022
+  tenía acordado (planificado) el inicio de la jornada (turno) a las 22:00 h (tras un descenso en cama proporcionado por el transportista de 15 h de duración en Děčín) y el final acordado (planificado) de la jornada (turno) al día siguiente a las 10:00 h en el lugar de Ostrava. La duración de la jornada (tiempo de trabajo) del maquinista debía ser de 12 h. El inicio real de la jornada (turno) fue a las 22:00 h y el final real de la jornada (turno) fue al día siguiente a las 15:00 h. Durante la jornada (turno) indicada, el maquinista realizó un viaje de servicio en el tramo Děčín – Kralupy nad Vltavou, desde donde, en el tramo Kralupy nad Vltavou – Prosenice, en el horario de 0:23 h a 11:13 h del 4. 6. 2022, condujo el HDV del tren Pn 52049, es decir, el maquinista condujo el HDV durante 13 h 13 min desde el inicio de la jornada (turno). Desde la est. Prosenice realizó
+### un viaje de servicio hasta Ostrava, donde finalizó la jornada (turno) tras haber trabajado 17 h
+(incl. trabajo extraordinario);
 •
-En el marco del turno en el que se produjo el MU el 7 de junio de 2022, el maquinista tenía acordado (planificado y real) el inicio de la prestación de servicios (turno) a las 7:00 h y el final acordado (planificado) de la prestación de servicios (turno) el mismo día a las 19:00 h en Ostrava. La jornada laboral (tiempo de trabajo) del maquinista debía ser de 12 h, de las cuales, hasta el momento de la ocurrencia del MU, se cumplieron 10 h y 19 min. El maquinista disfrutó de los tiempos de descanso operativo (PDOJ) en momentos adecuados durante las estancias de los trenes en las estaciones. Durante dicha prestación de servicios (turno), el maquinista condujo el HDV de los trenes Pn 69230 en el tramo Ostrava hl. n., obvod pravé nádraží – Přerov, obvod přednádraží, en el horario comprendido entre las 9:26 h y las 10:54 h; Lv 53617 en el tramo Přerov, obvod přednádraží – Břeclav, obvod přednádraží, en el horario comprendido entre las 12:27 h y las 13:57 h; Lv 79001 en el tramo Břeclav, obvod přednádraží – Kúty (República Eslovaca), en el horario comprendido entre las 13:57 
-
+dentro del turno en el que se produjo la creación de la MU el 7. 6. 2022, el maquinista tenía acordado (planificado y real) el inicio de la jornada (turno) a las 7:00 h y el final acordado (planificado) de la jornada (turno) del mismo día a las 19:00 h en Ostrava. La duración de la jornada (tiempo de trabajo) del maquinista debía ser de 12 h, de la cual, hasta el momento de la creación de la MU, ascendió a 10 h y 19 min. El maquinista disfrutó del PDOJ en momentos adecuados durante las estancias de los trenes en las estaciones. Durante la jornada (turno) indicada, el maquinista condujo el HDV de los trenes Pn 69230 en el tramo Ostrava hl. n., obvod pravé nádraží – Přerov, obvod přednádraží, en el horario de 9:26 h a 10:54 h, Lv 53617 en el tramo Přerov, obvod přednádraží – Břeclav, obvod přednádraží, en el horario de 12:27 h a 13:57 h, Lv 79001 en el tramo Břeclav, obvod přednádraží – Kúty (República Eslovaca), en el horario de 13:57
 
 ## Página 77
+
 
 h y las 14:15 h; Pn 47742 en el tramo Kúty – Břeclav, obvod přednádraží, en el horario comprendido entre las 15:20 h y las 15:54 h; y Nex 53742 en el tramo Břeclav, obvod přednádraží – Otrokovice, a partir de las 15:56 h. En los trenes Pn 47742 y Nex 53742, el maquinista supervisó la conducción – formación en conducción del maquinista en formación.
 •
@@ -2635,6 +2701,7 @@ Otra situación se da en la regulación del descanso ininterrumpido entre dos tu
 
 ## Página 78
 
+
 por un período de al menos 6 h. El descanso ininterrumpido entre dos turnos puede acortarse con la condición de que el descanso siguiente se prolongue por el tiempo de acortamiento de dicho descanso. Por el contrario, según el § 15b del mismo reglamento, el empleador distribuirá la jornada laboral del empleado de transporte ferroviario internacional de modo que el empleado de transporte ferroviario internacional tenga entre el final de un turno y el comienzo del turno siguiente un descanso ininterrumpido durante 24 h consecutivas de al menos 12 h de duración en el lugar de residencia o al menos 8 h en otro lugar, con la condición de que el descanso siguiente se conceda en el lugar de residencia con una duración de 12 h. El descanso ininterrumpido entre dos turnos de 12 h de duración en el lugar de residencia puede acortarse a este empleado como máximo una vez por semana hasta 9 h durante 24 h consecutivas, con la condición de que el descanso siguiente en el lugar de residencia se prolongue por el tiempo de acortamiento de dicho descanso. Dicho descanso acortado, sin embargo, no puede seguir a un descanso de al menos 8 h en otro lugar. Según el § 15c del mismo reglamento, el empleador distribuirá la jornada laboral del empleado de transporte ferroviario internacional de modo que tenga un descanso ininterrumpido durante cada período de siete días naturales consecutivos en un período de 52 semanas consecutivas:
 a) en un número de al menos 12 descansos ininterrumpidos, cada uno de al menos 60 h de duración,
 b) en un número de al menos 12 descansos ininterrumpidos, cada uno de al menos 60 h de duración, de modo que abarque el sábado y el domingo,
@@ -2643,6 +2710,7 @@ Aún prevalece una situación más heterogénea en la regulación del tiempo de 
 Del análisis expuesto se desprende el doble enfoque del decreto gubernamental nº 589/2006 Sb. respecto a la regulación del descanso ininterrumpido entre dos turnos y a la regulación del tiempo de conducción del DV, en función de si se trata o no de un empleado (maquinista) de transporte ferroviario internacional, a pesar de que los riesgos de la influencia de la fatiga, en combinación con el trabajo monótono en la conducción del DV y los procesos fisiológicos de los biorritmos humanos, son los mismos para el comportamiento de todos los empleados (maquinistas). A este respecto, no puede dejar de mencionarse que el mencionado doble enfoque del decreto gubernamental puede acarrear no pocas complicaciones también a los empleadores, que al planificar la distribución de las jornadas laborales (turnos) deben distinguir, para cada empleado (maquinista), si se trata o no de un empleado (maquinista) de transporte ferroviario internacional, véase el punto 6 de esta ZZ. En relación con la MU objeto de estudio no se detectaron factores relacionados con el contenido del trabajo o la jornada laboral de los empleados. En la investigación no se constató, en los empleados implicados, el incumplimiento de las condiciones de descanso antes del turno ni la utilización de la pausa para la comida y el descanso, respectivamente PDOJ.
 
 ## Página 79
+
 
 ### 4.3.3 Factores organizativos y tareas
 En la investigación no se detectaron factores relacionados con la organización del trabajo o con las tareas laborales.
@@ -2667,6 +2735,7 @@ El gestor de infraestructura explotó la infraestructura con base en la autoriza
 
 ## Página 80
 
+
 ### 4.4.7 Otros factores sistémicos
 En la investigación no se detectaron otros factores sistémicos.
 ### 4.5 Sucesos anteriores de naturaleza similar
@@ -2683,26 +2752,27 @@ La DI, atendiendo a las causas y circunstancias detectadas del origen de la MU e
 ◦Al Drážní úřad (Oficina Ferroviaria):
 ▪que, en el marco de su actividad, garantice mediante herramientas adecuadas la minimización de los casos en que, por parte de los gestores de infraestructuras ferroviarias de categoría nacional
 
-
 ## Página 81
 
-y regional, se ordene la recogida de los colectores de los vehículos ferroviarios mediante señales portátiles para la explotación eléctrica, especialmente en las obras (reconstrucciones, modernizaciones) realizadas en las infraestructuras, donde dicha minimización debería tenerse ya en cuenta en el marco de la preparación de la obra en cuestión y de los procedimientos constructivos concretos. Para este fin, utilizar entonces medidas tanto puramente administrativas como técnicas – por ejemplo, mediante la inserción (inserción temporal) de seccionadores en la composición de la línea de contacto en lugares adecuados de las agujas de las cabezas de maniobras, es decir, en el espacio entre la aguja del enlace de vía y la primera aguja de la siguiente bifurcación que no esté conectada al enlace de vía (y viceversa);
-▪que, dada la constante evolución relacionada con la construcción y explotación del ETCS en la República Checa, por parte de los gestores de infraestructura competentes se verifiquen y apliquen en el futuro las posibilidades disponibles de dicho sistema en relación con la prevención del origen de MU relacionadas con el no respeto de las señales para la explotación eléctrica, es decir, principalmente las posibilidades de transmisión de información sobre las señales para la explotación eléctrica, incluidas las portátiles, desde la línea a la parte móvil del ETCS y su posterior procesamiento y uso (por ejemplo, avisos mediante mensajes de texto en la unidad de visualización y mando de la parte móvil del ETCS y medidas similares).
-◦Al Ministerio de Transporte en colaboración con el Drážní úřad (Oficina Ferroviaria):
-▪que el decreto nº 173/1995 Sb., relativo a las señales para la explotación eléctrica, sea revisado de forma integral y adecuadamente modificado (por ejemplo, con base en los hallazgos de esta ZZ y en los hallazgos de los propios gestores de infraestructura y explotadores de transporte ferroviario), principalmente en relación con las señales portátiles para la explotación eléctrica, de modo que en la explotación se utilicen únicamente señales portátiles para la explotación eléctrica de color azul con borde naranja.
-A la fecha de finalización de la investigación de la MU objeto de estudio en la est. Otrokovice, la DI no recibió del Ministerio de Transporte de la República Checa ni del DÚ comunicación alguna sobre las medidas adoptadas en relación con la recomendación de seguridad emitida atendiendo a las causas y circunstancias detectadas del origen de la MU en la est. Třinec. El motivo es el hecho de que la ZZ sobre la MU de Třinec, del 5. 6. 2021, fue publicada por la DI el 7. 8. 2022, sin que hubiera transcurrido el plazo de 12 meses desde la fecha de publicación, véase también el punto 4.1.4 de esta ZZ.
+a regional, se ordenó el retraimiento de los colectores de los vehículos ferroviarios mediante señales portátiles para el tráfico eléctrico, y en particular en las obras (reconstrucciones, modernizaciones) realizadas en las vías, donde dicha minimización debería tenerse ya en cuenta en el marco de la preparación de la obra concreta y de los procedimientos constructivos específicos. Para este fin, se utilizarán medidas tanto puramente administrativas como técnicas – p. ej. mediante la inserción (inserción temporal) de seccionadores en la composición de la catenaria en lugares adecuados de los extremos de las estaciones de maniobras, es decir, en el espacio entre la aguja del enlace de vía y la primera aguja de la siguiente bifurcación que no esté conectada al enlace de vía (y viceversa);
+▪a fin de que, dada la constante evolución relacionada con la construcción y explotación del ETCS en la República Checa, los respectivos gestores de infraestructura verifiquen y apliquen en el futuro las posibilidades disponibles de este sistema en relación con la prevención de la aparición de MU relacionadas con el incumplimiento de las señales para el tráfico eléctrico, es decir, principalmente las posibilidades de transmisión de información sobre las señales para el tráfico eléctrico, incluidas las portátiles, de la parte fija a la parte móvil del ETCS y su posterior procesamiento y uso (por ejemplo, avisos mediante mensajes de texto en la unidad de visualización y mando de la parte móvil del ETCS y medidas similares).
+◦Al Ministerio de Transportes, en colaboración con la Oficina Ferroviaria:
+▪para que el decreto n.º 173/1995 Sb., relativo a las señales para el tráfico eléctrico, sea revisado íntegramente y adecuadamente modificado (por ejemplo, sobre la base de los hallazgos de la presente ZZ y de los hallazgos de los propios gestores de infraestructura y de los gestores de transporte ferroviario), y en particular en relación con las señales portátiles para el tráfico eléctrico, de modo que en la explotación solo se utilicen señales portátiles para el tráfico eléctrico de color azul con borde naranja.
+
+A la fecha de finalización de la investigación, la DI no ha recibido del Ministerio de Transportes de la República Checa ni de la DÚ comunicación alguna sobre qué medidas han adoptado en relación con la recomendación de seguridad emitida a la vista de las causas y circunstancias de la aparición de la MU en la estación de Třinec. El motivo es que la ZZ sobre la MU de Třinec, de fecha 5. 6. 2021, fue publicada por la DI el 7. 8. 2022, sin que haya transcurrido el plazo de 12 meses desde la fecha de publicación, véase también el punto 4.1.4 de la presente ZZ.
 ## 5 CONCLUSIONES
 ### 5.1 Resumen del análisis y conclusiones relativas a las causas del suceso
-Causa inmediata del suceso excepcional:
+Causa inmediata del suceso extraordinario:
 •
-la circulación de la locomotora del tren Nex 53742 con el colector elevado en el lugar de circulación ordenada con el colector recogido, causada por el no respeto de la señal portátil para la explotación eléctrica que indicaba la señal «Recoger el colector».
-Causa del incendio posterior de los equipos de la infraestructura:
+la circulación de la locomotora del tren Nex 53742 con el colector levantado en el punto donde se ordenaba circular con el colector retraído, causada por el incumplimiento de la señal portátil para el tráfico eléctrico que indicaba la señal «Retraiga el colector».
+Causa del incendio posterior de la infraestructura ferroviaria:
 •
-la no desconexión de los seccionadores rápidos en la subestación de alimentación de tracción Nedakonice, influenciada por un valor de ajuste de su actuación (valor de la corriente de corte) demasiado alto.
-No se detectó ningún factor contribuyente por parte de la Inspección Ferroviaria.
-No se detectó ninguna causa sistémica por parte de la Inspección Ferroviaria.
+la no desconexión de los interruptores rápidos en la subestación de tracción de Nedakonice, influenciada por un valor de ajuste de su actuación (valores de la corriente de corte) demasiado alto.
+No se ha detectado ningún factor contribuyente por parte de la Inspección Ferroviaria.
+No se ha detectado ninguna causa sistémica por parte de la Inspección Ferroviaria.
 
 ## Página 82
+
 
 ### Resumen del análisis y de las conclusiones respecto a las causas del
 ocurrido
@@ -2747,8 +2817,8 @@ el despachador gestor 1A CDP Přerov:
 mediante órdenes escritas que contenían la instrucción de circular con los colectores de corriente
 descendidos al entrar en la estación de Otrokovice
 
-
 ## Página 83
+
 
 y de circular por el grupo de vías impar, incluido el mensaje de instrucción del tren Nex 53742,
 ◦ante una ocupación de vía en curso, entre otras la vía n.º 3 y la parte correspondiente de la
@@ -2794,8 +2864,8 @@ empleados en el transporte, en su redacción vigente, o de otra norma jurídica,
 diferentes entre los empleados del transporte ferroviario y los empleados del transporte ferroviario
 internacional establecidas por el mencionado reglamento gubernamental contenidas en:
 
-
 ## Página 84
+
 
 ◦§ 14, § 15b y § 15c de este reglamento, que establecen el período de descanso,
 ◦§ 3 letra f) y § 15e de este reglamento, que establecen los tiempos de conducción de vehículos
@@ -2844,8 +2914,8 @@ jornada laboral y de los períodos de descanso de los empleados en el transporte
 condiciones diferentes entre los empleados del transporte ferroviario y los empleados del transporte
 ferroviario internacional contenidas en:
 
-
 ## Página 85
+
 
 ◦§ 14, § 15b y § 15c de este reglamento, que establecen el período de descanso,
 ◦§ 3 letra f) y § 15e de este reglamento, que establecen los tiempos de conducción de vehículos
@@ -2878,8 +2948,8 @@ inspector
 De la Inspección Territorial de Ostrava
 De la Inspección Territorial de Ostrava
 
-
 ## Página 86
+
 
 ## ANEXOS
 Fig. n.º 11: Vista de la señal de salida L3a en llamas de la estación de Otrokovice. La imagen en
@@ -2891,8 +2961,8 @@ La imagen en recorte documenta el estado tras la
 intervención del HZS.
           Fuente: HZS del Kraje de Zlín
 
-
 ## Página 87
+
 
 Fig. n.º 13: Vista de la señal de sección AB 1-1564 TÚ Otrokovice –
 Tlumačov. La imagen superior en recorte documenta la colocación de la
@@ -2901,8 +2971,8 @@ señal, y la imagen inferior en recorte documenta las huellas de fusión del cab
 composición de cortacircuitos al peldaño del mástil de la señal.
        Fuente: DI y HZS del Kraje de Zlín
 
-
 ## Página 88
+
 
 Fig. n.º 14: Vista de la señal de entrada 1S de la estación de Tlumačov. La imagen izquierda en
 recorte documenta las huellas de fusión del cable de cortacircuitos de la composición de
@@ -2916,8 +2986,8 @@ de la señal portátil para explotación eléctrica con la señal «Prepárese p
 corriente» colocada en el km 153,100.
   Fuente: SŽ
 
-
 ## Página 89
+
 
 Fig. n.º 16: Vista de la parte arrancada de la TV en el espacio TP n.º 73 sobre los raíles de ambas
 vías de la cabecera de Napajedla de la estación de Otrokovice

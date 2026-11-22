@@ -10,13 +10,14 @@ chars: 103502
 ratio_longitud: 1.31
 tokens_in: 47731
 tokens_out: 34099
-verificacion: revisar
-notas_cifras: ["bloque 1: original bilingüe: se compara contra el idioma principal (PT)", "bloque 2: original bilingüe: se compara contra el idioma principal (CS)", "bloque 3: cifras cortas: 1/93", "bloque 4: cifras cortas: 2/108", "bloque 5: original bilingüe: se compara contra el idioma principal (PT)", "bloque 6: original bilingüe: se compara contra el idioma principal (CS); cifras cortas: 5/28"]
-avisos: ["bloque 5: ratio 1.76", "bloque 8: ratio 1.83", "bloque 11: ratio 1.65"]
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 5: original bilingüe: se compara contra el idioma principal (EN)", "página 6: original bilingüe: se compara contra el idioma principal (CS)", "página 7: original bilingüe: se compara contra el idioma principal (CS)", "página 9: cifras cortas: 1/45", "página 11: cifras cortas: 2/70", "página 12: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 Inspección Ferroviaria
 República Checa
@@ -42,11 +43,12 @@ NIF: 75009561
 http://www.dicr.cz
 fax: (+420) 224 805 428
 
-
 ## Página 2
 
 
+
 ## Página 3
+
 
 # RESUMEN
 28 de julio de 2006, 13:18 (11:18 GMT)
@@ -67,11 +69,12 @@ Causa raíz:
 no investigada
 Recomendación: no emitida
 
-
 ## Página 4
 
 
+
 ## Página 5
+
 
 # Índice
  Resumen .............................................................................................................................3
@@ -105,6 +108,7 @@ incluidas las personas en relación contractual ................................
 
 ## Página 6
 
+
 relación ...............................................................................................................14
 3.1.2 Otras personas .........................................................................................................16
 3.2 Sistema de garantía de la seguridad ...............................................................................17
@@ -134,8 +138,8 @@ relación ......................................................................
 4.1.1 Descripción final del incidente basada en los hechos constatados en el punto 3 
 ............................................................................................................................24
 
-
 ## Página 7
+
 
 4.2 Análisis ......................................................................................................................25
 4.2.1 Evaluación de los hechos constatados según el punto 3 y presentación de conclusiones sobre las causas del incidente y la actuación de los servicios de emergencia ..........................................25
@@ -153,6 +157,7 @@ relación ......................................................................
 
 ## Página 8
 
+
 ## 1 RESUMEN
 El 28 de julio de 2006 a las 13:18 h se produjo un incidente extraordinario en el transporte ferroviario a tenor del artículo 49 de la ley n.º 266/1994 Coll., sobre vías férreas, en su versión vigente (en lo sucesivo, IE), cuando en la línea ferroviaria de vía única de ámbito nacional Prerov - Brno hl. n. en el pk 87,150 (línea 315A) descarrilaron tres vehículos ferroviarios remolcados (en lo sucesivo, VFR) destinados al transporte de pasajeros del tren regional Os 4031.
 En el IE no se produjeron lesiones a la salud de los pasajeros ni de los empleados de la empresa operadora de la infraestructura ferroviaria y del transporte ferroviario České dráhy, a. s. (en lo sucesivo, ČD, a. s.).
@@ -162,8 +167,8 @@ La línea ferroviaria de vía única de ámbito nacional Prerov - Brno hl. n. es
 La circulación de los vehículos ferroviarios por la deformación direccional y vertical de la vía de la línea provocó el descarrilamiento de tres vehículos ferroviarios remolcados (en lo sucesivo, VFR) y la ruptura del tren regional Os 4031 detrás del vehículo ferroviario motor (en lo sucesivo, VFM). Los daños a los VFR se cuantificaron en 328 518,- Kč (empresa ČD, a. s.). Los daños al balasto de la vía provocados por la deformación direccional y vertical de la vía y por la circulación de los VFR descarrilados se cuantificaron en 79 600,47 Kč (empresa SŽDC, s. o.).
 ### Los daños totales a las instalaciones de ČD, a. s. y SŽDC, s. o. ascienden a 408 118,47 Kč.
 
-
 ## Página 9
+
 
 No se emitió ninguna recomendación de seguridad por parte de la Inspección Ferroviaria (en lo sucesivo, IF).
 ## 2 DATOS RELATIVOS AL INCIDENTE EXTRAORDINARIO
@@ -180,6 +185,7 @@ La primera huella de descarrilamiento de los vehículos ferroviarios para el tra
 El inicio de la transición a la curva (IT) se encuentra en el pk 87,120, el final de la transición y el inicio de la curva (IT=IC) en el pk 87,232, el final de la curva y el inicio de la transición (FC=IT) en el pk 87,791 y el final de la transición (FT) en el pk 87,903. El balasto de la vía está compuesto por rieles de perfil S49, que están fijados a las traviesas de hormigón SB5 mediante
 
 ## Página 10
+
 
 placas base de tipo viga T5, abrazaderas T5-0/4, T6-12/16 y espirales S2, distribución de las traviesas "d" (611 mm). Las vías están soldadas formando vía continua (en adelante, VC). En el punto de la primera huella de descarrilamiento de los vehículos ferroviarios (punto "0"), la VC fue instalada en 1995 con una temperatura de sujeción de +23 ºC, según se desprende del registro en la documentación técnica "Vista esquemática de la vía continua". En el tramo afectado hasta el pk 87,100, la vía discurre con una pendiente longitudinal de 0‰. A continuación, en dirección hacia la estación de Přerov, la vía asciende con una pendiente longitudinal de +1,20‰.
 
@@ -208,8 +214,8 @@ Conductor del tren HDV del tren Os 4031;
 acompañante del tren Os 4031;
 ●
 
-
 ## Página 11
+
 
 jefe del centro de operaciones TO Přerov - jih;
 ●
@@ -248,59 +254,65 @@ No se realizaron trabajos de reparación ni de mantenimiento en el lugar ni en l
 
 ## Página 12
 
-Přerov, que precedió a la circulación del tren Os 4030 en dirección Přerov – Věžky con el cruce de los trenes 
-Os 4031 y Os 4031 en la estación de Věžky.
-### 2.2.6 Activación del plan de emergencia en la vía y secuencia de los acontecimientos
-El maquinista HDV 363.056-3 y el despachador de la estación de Přerov actuaron conforme a la norma interna de ČD 
-D17 Norma para la notificación e investigación de incidentes, ref. 70778/2006, de fecha 31. 10. 
-2006, SEGUNDA PARTE NOTIFICACIÓN DE INCIDENTES Capítulo I «Obligación de notificación» artículos 42 y 46.
-El maquinista HDV del tren Os 4031 comunicó a las 13:18 h al despachador de la estación de Přerov la aparición de un incidente mediante el dispositivo TRS. El despachador actuó conforme al PLAN DE NOTIFICACIÓN del operador de la infraestructura ferroviaria y del transporte ferroviario. El despachador notificó la aparición del incidente al jefe de turno del RCP Ostrava, a la PČR OŽP Přerov, a los HZS Přerov, a la guardia de accidentes de la estación de Přerov, al despachador eléctrico de SDC Olomouc y al despachador de cargas de la estación de Přerov. El inspector superior del RIBŽD Brno (persona autorizada, a efectos de los artículos 5 y 6 del Decreto n.º 361/2001 Coll., para determinar las causas y las circunstancias de la aparición de un incidente) notificó la aparición del incidente en la oficina de notificación del DI Praha a las 13:48 h. La oficina central de notificación del DI notificó la aparición del incidente al ÚI Ostrava a las 13:55 h. El incidente fue notificado a la Inspección Ferroviaria conforme al Decreto n.º 361/2001 Coll., sin demora tras la constatación de los hechos.
-### 2.2.7 Activación del plan del sistema integrado de rescate, la policía y los servicios de rescate sanitario y secuencia de los acontecimientos
-El operador de la infraestructura ferroviaria notificó el incidente al sistema integrado de rescate conforme al Decreto n.º 361/2001 Coll. sin demora tras la constatación de los hechos, a través del despachador de la estación de Přerov.
-En el lugar del incidente intervinieron el Servicio de Bomberos y Rescate de ČD, a. s., Přerov, el Servicio de Bomberos y Rescate de ČD, a. s., Brno y la Policía de la República Checa, Departamento de Policía Ferroviaria de Přerov. 
-### 2.3 Muertes, lesiones y daños materiales
-2.3.1 En viajeros y terceros, empleados del operador de la infraestructura ferroviaria y del transportista, 
-incluidas las personas en relación contractual
-No se produjeron lesiones a la salud de los viajeros ni de los empleados del operador de la infraestructura ferroviaria y del transportista durante el incidente. 
-### 2.3.2 En las mercancías transportadas, equipajes y otros bienes
-No se produjeron daños en las mercancías transportadas, equipajes ni otros bienes.
-### 2.3.3 En los vehículos ferroviarios, en las partes de la vía de circulación y en el medio ambiente
-Mediante la inspección del HDV serie 363.056-3 llevada a cabo el 28. 7. 2006 en el lugar de aparición del incidente no se detectaron daños.
-Mediante la inspección comisionada de los vehículos ferroviarios remolcados llevada a cabo el 3. 8. 2006 (dispositivo de ČD, 
-a. s.) se detectó:
-el vehículo ferroviario Bt 50 54 21-19 072-7 - dañado el puente de transición, el cableado 
+Přerov, precedida por la circulación del tren Os 4030 en dirección Přerov – Věžky con cruce de los trenes Os 4031 y Os 4031 en la est. Věžky.
+### 2.2.6 Activación del plan para el caso de incidente excepcional en la vía y secuencia de acontecimientos
+El maquinista del HDV 363.056-3 y el jefe de estación de la est. Přerov actuaron conforme a la norma interna de ČD D17 Norma para la notificación e investigación de incidentes excepcionales, ref. 70778/2006, de fecha 31. 10. 2006, PARTE SEGUNDA NOTIFICACIÓN DE INCIDENTES EXCEPCIONALES Capítulo I «Obligación de notificación» arts. 42 y 46.
+El maquinista del HDV del tren Os 4031 notificó a las 13:18 h la aparición del IE al jefe de estación de la est. Přerov mediante el dispositivo TRS. El jefe de estación actuó conforme al CUADRO DE NOTIFICACIÓN del operador de la vía y del transporte ferroviario. La aparición del IE fue notificada al jefe de turno de RCP Ostrava, PČR OŽP Přerov, HZS Přerov, al servicio de emergencias por accidentes de la est. Přerov, al electrodespachador de SDC Olomouc y al jefe de estación de carga de la est. Přerov. El inspector superior de RIBŽD Brno (persona en el sentido de los §§ 5 y 6 del decreto 361/2001 Sb. encargada de determinar las causas y circunstancias de la aparición del IE) notificó la aparición del IE al puesto de notificación de DI Praga a las 13:48 h. El puesto central de notificación de DI notificó a las 13:55 h la aparición del IE a ÚI Ostrava. El IE fue notificado a la Inspección Ferroviaria en el sentido del decreto 361/2001 Sb., sin demora innecesaria tras la constatación de los hechos.
+### 2.2.7 Activación del plan del sistema integrado de emergencias, policía y servicio médico de emergencias y secuencia de acontecimientos
+El IE fue notificado por el operador de la vía al sistema integrado de emergencias en el sentido del decreto 361/2001 Sb. sin demora innecesaria tras la constatación de los hechos por el jefe de estación de la est. Přerov.
+En el lugar del IE intervinieron el Servicio de Bomberos y Rescate de ČD, a. s., Přerov, el Servicio de Bomberos y Rescate de ČD, a. s., Brno y la Policía de la República Checa, Departamento de Policía Ferroviaria de Přerov.
+### 2.3 Fallecimientos, lesiones y daños materiales
+2.3.1 En pasajeros y terceros personas, empleados del operador de la vía y del transportista, incluidas personas en relación contractual
+No se produjeron daños a la salud en pasajeros ni en empleados del operador de la vía y del transportista durante el IE.
+### 2.3.2 En objetos transportados, equipaje y otros bienes
+No se produjeron daños en los objetos transportados, el equipaje ni otros bienes.
+### 2.3.3 En vehículos ferroviarios, componentes de la vía de circulación y en el medio ambiente
+La inspección del HDV de la serie 363.056-3 realizada el 28. 7. 2006 en el lugar de aparición del IE no detectó daños.
+La inspección comisionada de los vehículos ferroviarios remolcados realizada el 3. 8. 2006 (instalaciones de ČD, a. s.) detectó:
+el vehículo ferroviario Bt 50 54 21-19 072-7 - dañado el puente de paso, el cableado del
 ●
-de la perilla de acoplamiento, la perilla de acoplamiento y el gancho de tracción doblado, dañado el poste de esquina izquierdo, incluida la pintura, el acoplamiento térmico VSET8, la parte central de baquelita (2 uds.), en el tercer y cuarto 
+destornillador, el destornillador y el gancho de tracción doblado, el poste de esquina izquierdo incluida la pintura dañado, el acoplamiento de calefacción VSET8, la pieza central de umakart (2 uds.), en el tercero y cuarto
 
 ## Página 13
 
-eje doble dañadas las superficies de rodadura y desgastado el borde de la rueda, dañado el soporte 
-del anillo de goma, fuga en el sistema de agua.
-El daño en el TDV se cuantificó en 43 500,- Kč.
-el vehículo ferroviario Bdt 50 54 21-08 355-9 - deformado el ángulo derecho del marco del puente de 
+doble bogie dañadas las caras rodantes y el labio rebajado, dañada la carcasa del anillo de caucho, el sistema de agua está goteando.
+El daño al material rodante se fijó en 43 500,- Kč.
+● material rodante Bdt 50 54 21-08 355-9 - deformada la esquina derecha del bastidor del paso
 ●
-transición, dañada la parte derecha de la cara de la caja, el poste de esquina derecho, dañada la perilla de acoplamiento, dañada la superficie de rodadura de dos ejes dobles, doblado el soporte del amortiguador en el lado izquierdo, dañado el amortiguador en el lado izquierdo, deformada la consola de la barra flexible del brazo oscilante del bogie.
-El daño en el TDV se cuantificó en 32 850,- Kč.
-el vehículo ferroviario Bdt  50 54 21-08 290-9 - dañado el puente de transición en ambos 
-●
-lados, dañada la perilla de acoplamiento, dañadas las superficies de rodadura de todos los ejes dobles en los bogies "a" y "b", dañado el cable y el conector de antideslizamiento en el bogie "b", deformada la barra transversal (conexión del soporte del resorte del brazo oscilante). 
-El daño en el TDV se cuantificó en 252 168,- Kč.
-### El daño total en las instalaciones de ČD, a. s. se cuantificó en 328 518,- Kč.
-Durante el descarrilamiento de los vehículos ferroviarios se produjeron deformaciones direccional y vertical de la red de vías, daños en el pequeño material de vía y en las traviesas de hormigón en las instalaciones de SŽDC Praha bajo la gestión de ČD, a. s., SDC Olomouc (superestructura ferroviaria). En el plan empresarial de SDC Olomouc para el año 
-2006 estaba prevista una reparación media pesada de la vía de la línea Přerov - Věžky desde el pk 87,120 hasta el 
-pk 87,903 financiada con los fondos de la actividad principal de SDC. 
-El daño en la superestructura ferroviaria, en las instalaciones de SŽDC, s. o., Praha (excluidos los gastos incurridos 
-### para la reparación media pesada de la vía de la línea) se cuantificó en 79 600,47 Kč.
-### El daño total en las instalaciones de ČD, a. s. y SŽDC, s. o., Praha asciende a 408 118,47 Kč.
-El daño secundario causado por el incidente se produjo en ČD, a. s. por el despliegue de medios auxiliares de recuperación de vías por un importe de 47 139,00 Kč y por los retrasos de los trenes de transporte de viajeros por un importe de 25 461,50 
-Kč. El transporte ferroviario se interrumpió en el tramo entre la estación de Přerov y la estación de Věžky el 28. 7. 2006 a las 
-13:18 h hasta el 29. 7. 2006 a las 13:20 h, es decir, 1 442 min. Se retrasaron 16 trenes para el transporte de viajeros de categoría R (expreso) + 1 065 min y 14 trenes Os +533 min. Los trenes de transporte de viajeros Os 4034 en el tramo de línea Přerov - Vyškov y Os 4025 Vyškov - Přerov fueron cancelados; los demás trenes de viajeros fueron sustituidos el 28 y 29. 7. 2007 por autobuses de tres transportistas. Los expresos se desviaron por rutas alternativas.
-El servicio en dicho tramo se reanudó el 29. 3. 2006 a las 13:20 h.
-### 2.4 Condiciones externas
+intermedio, dañado el lado derecho de la cara frontal del cuerpo, el poste de esquina derecho, dañado el
+tornillo de sujeción, dañadas las caras rodantes de dos bogies, el soporte del amortiguador en el lado izquierdo
+doblado, el amortiguador del lado izquierdo dañado, la consola de la biela flexible del balancín del bogie
+deformada.
+El daño al material rodante se fijó en 32 850,- Kč.
+● material rodante Bdt 50 54 21-08 290-9 - dañado el paso intermedio en ambos
+lados, tornillo de sujeción dañado, en los bogies "a" y "b" dañadas las caras rodantes
+de todos los bogies, en el bogie "b" dañado el cable y el conector antideslizamiento, la atadura
+transversal (conexión del soporte de suspensión del balancín) deformada.
+El daño al material rodante se fijó en 252 168,- Kč.
+### El daño total a las instalaciones de ČD, a. s. se fijó en 328 518,- Kč.
+Con el descarrilamiento de los vehículos ferroviarios se produjo en las instalaciones de SŽDC Praha bajo la gestión de ČD, a. s., SDC
+Olomouc (superestructura ferroviaria) una deformación en planta y en alzado del piso de vía, daños en
+el material menor de vía y en las traviesas de hormigón. En el plan de empresa de SDC Olomouc para el año
+2006 estaba prevista una reparación media mayor de la vía de tramo Přerov - Věžky desde km 87,120 hasta
+km 87,903 financiada con fondos de la actividad principal de SDC.
+El daño en la superestructura ferroviaria, en las instalaciones de SŽDC, s. o., Praha (excepto los costos incurridos
+### en la reparación media mayor de la vía de tramo) se cifró en 79 600,47 Kč.
+### El daño total a las instalaciones de ČD, a. s. y SŽDC, s. o., Praha asciende a 408 118,47 Kč.
+El daño secundario causado por MU se originó en ČD, a. s. por la utilización de medios auxiliares de enganche a vía
+por importe de 47 139,00 Kč y por los retrasos de trenes de transporte de pasajeros por importe de 25 461,50
+Kč. El tráfico ferroviario en el tramo entre la est. Přerov y la est. Věžky fue interrumpido el 28. 7. 2006 a
+las 13:18 h hasta el 29. 7. 2006 a las 13:20 h, es decir, 1 442 min. Se retrasaron 16 trenes para el
+transporte de pasajeros de categoría R (expreso) + 1 065 min. y 14 trenes Os +533 min. Los trenes de
+transporte de pasajeros Os 4034 en el tramo de tramo Přerov - Vyškov y Os 4025 Vyškov - Přerov fueron
+cancelados, los demás trenes de pasajeros fueron sustituidos los días 28 y 29. 7. 2007 por autobuses de tres
+operadores. Los expresos fueron conducidos por rutas desviadas.
+El servicio en el tramo indicado fue restablecido el 29. 3. 2006 a las 13:20 h.
+### 2.4 Circunstancias externas
 ### 2.4.1 Condiciones meteorológicas y datos geográficos
-Clima: + 38º C, calma, despejado, visibilidad superior a 100 m.
+El tiempo: + 38º C, calma, despejado, visibilidad superior a 100 m.
 
 ## Página 14
+
 
 ## 3 REGISTRO DE LAS EXPLICACIONES PRESTADAS
 ### 3.1 Resumen de las explicaciones prestadas (sujetas a la protección de la identidad de las personas) y de la investigación técnica de las causas de la incidencia extraordinaria
@@ -312,12 +324,14 @@ En el lugar, a petición de los agentes de policía, me sometí a una prueba de 
 
 ## Página 15
 
+
 sección hasta la estación de Přerov. El trayecto transcurrió sin incidencias ni acontecimientos extraordinarios hasta la estación de Věžky. En esta estación permanecimos un momento detenidos esperando el cruce con un tren que circulaba en sentido contrario, que era el tren 4030. Posteriormente, otorgué la autorización al jefe de estación para la salida y este nos despachó. Tras la salida de la estación, realicé el control de los pasajeros, que iban en este tren aproximadamente 45. Me encontraba en el primer vagón detrás de la locomotora cuando percibí un violento tirón de los vagones y de la máquina, y escuché un fuerte golpe, como si el conjunto se hubiera desgajado y me pareció que el primer vagón iba a volcar hacia el terraplén. El tren se detuvo y bajé a ver qué había ocurrido. La gente comenzó a bajar del tren y, al ver lo que había sucedido, dijeron que iban a la localidad de Lověšice para coger el autobús. Tras la detención del tren, entre los pasajeros comprobé si había algún herido, pero me informaron que no era así. Informé al maquinista de que no había heridos, y este me dijo que había comunicado el suceso como un accidente a la centrala de tráfico de Přerov. Yo llamé al cuartel (centro de control de trenes) y les indiqué lo ocurrido. Me dijeron que debía permanecer en el conjunto y esperar la llegada de los órganos investigadores.
 ..... Se me realizó una prueba de aliento para detectar la presencia de alcohol en el aire espirado con un aparato DRÄGER, con resultado negativo, por parte de la policía de la OŽP de Přerov. ..... En lo que respecta a las averías técnicas evidentes del conjunto del tren, diría que realicé la comprobación del sistema de frenos antes de la salida de Vyškov, pero no detecté ninguna avería. .....".
 ### El responsable del centro de tráfico TO Přerov - sur en el "Acta con el empleado" redactada por ČD, a. s., RIBŽD Brno el 7.9.2006 indica: "En respuesta a la pregunta sobre qué trabajos se realizaron en el periodo anterior en el tramo indicado, manifiesto que en marzo de 2006, más concretamente el 20.3.2006, se realizó el balastoado mecánico de las traviesas en la curva de la vía principal del tramo Přerov - Věžky desde el pk 88,100 hasta el 87,000. La regulación del balasto se realizó con la máquina PUŠL. La curva, tras el balastoado, estaba en orden en cuanto a alineación y nivel. El 27.6.2006 me llamó el jefe de la Dirección de Vías, ing. Pospíšil, indicando que estaba de guardia y que el despachador eléctrico le había comunicado, probablemente a través del maquinista, que en el tramo Přerov - Věžky en el pk 87,585 había una avería de alineación. Le dije que mi adjunto, el Sr. Keler, realizaba una prueba de control de temperatura en el tramo Přerov - Nezamyslice - Prostějov. Le pasé el móvil al jefe y este se puso en contacto con él y, cuando regresó de Nezamyslice, se dirigió al lugar de la avería de alineación. Detectaron una desviación de alineación y se estableció inmediatamente una velocidad de 10 km/h. Se acudió a la guardia de vía para colocar la señalización de circulación lenta. Por lo que sé, ese día no se realizó ninguna reparación. Al día siguiente, es decir, el 28.6.2006, con los empleados realizamos el corte de ambos carriles en el pk 87,585, aflojamos los sujetadores a 50 metros a cada lado para reducir la tensión en la vía. Los carriles los cortamos con soplete en una longitud de aproximadamente 2,5 - 3 cm. Posteriormente, con una taladradora realizamos los orificios para los pernos de unión y unimos los carriles. Durante la realización de estos trabajos, la temperatura de los carriles era de 20 grados Celsius, tal como se indica en el pasaporte de la vía. Tras esta reparación, la circulación lenta se elevó a 50 km/h a las 11.00 horas y se mantuvo hasta el 14.7.2006, momento en el que la velocidad volvió a 80 km/h. En respuesta a la pregunta, indico que la temperatura de sujeción en el tramo indicado es de 23 grados Celsius, y el apriete de los carriles tras el corte realizado se llevó a cabo a una temperatura de 20 grados Celsius. El lugar indicado con la avería de alineación fue vigilado tanto por el inspector de vía como, debido a que este lugar está incluido en las denominadas zonas críticas en mi sector. En respuesta a la pregunta de por qué no se respetó el artículo 201 del reglamento S 3/2 tras el corte realizado, indico que la soldadura se realizaría en el mes de agosto o septiembre, lo cual considero suficiente desde el punto de vista temporal.
 En respuesta a la pregunta sobre cuál considero que fue la causa de la salida de vía del 28.7.2006, indico que la salida de vía de la vía en el pk 87,150 se produjo probablemente debido a la concurrencia de varios factores adversos, como fueron las temperaturas extremadamente bajas en el periodo invernal, además las temperaturas extremadamente altas en el periodo estival en los meses de junio y julio, además la antigüedad de la ballastada de vía, que tiene 35 años desde su renovación, y, no menos importante, el frenado del tren descarrilado en el lugar del accidente.
 
 ## Página 16
+
 
 ¿Desea añadir algo más al caso mencionado?
 No, no tengo nada que añadir.
@@ -357,25 +371,19 @@ Consiento el tenor del acta.".
 ### 3.1.2 Otras personas
 Otras personas no prestaron su testimonio respecto al incidente de accidente (MU).
 
-
 ## Página 17
 
-### 3.2 Sistema de garantía de seguridad
-### 3.2.1 Organización marco y forma en que se dictan y ejecutan las órdenes
-La seguridad y la puntualidad del transporte ferroviario dependen, entre otros factores, del estado técnico
-y de mantenimiento de la obra civil y de las construcciones en la vía. El mantenimiento y el estado adecuado del firme ferroviario, la subestructura y las construcciones en la vía los garantiza la rama de servicio de administración de vía del titular de la infraestructura en el sentido de lo dispuesto en el artículo 22 de la Ley n.º 266/1994 Coll., los apartados 1 a 17 del artículo 25, el apartado 1) a 4 del artículo 26 y el Anexo n.º 1 punto 1 del Decreto n.º 177/1995 Coll., las normas ČSN 73 6360 Disposición constructiva y geométrica de la vía de las vías férreas y su posición espacial Parte 2: Construcción y recepción, explotación y mantenimiento. El titular de la infraestructura a nivel nacional Přerov - Brno hl. n. en el tramo de vía Přerov - Věžky garantiza la realización de mediciones e inspecciones por parte de empleados cualificados de ČD, a. s., SDC Olomouc de la Dirección de Vías Olomouc.
-### 3.2.2 Requisitos para los empleados del titular de la infraestructura y del transportista y su cumplimiento
-La aptitud sanitaria y profesional de los empleados del titular de la infraestructura y del transportista se rige por las
-disposiciones del Decreto n.º 101/1995 Coll., por el que se aprueba el Reglamento para la aptitud sanitaria y profesional de las personas en la explotación de la vía y del transporte ferroviario (en lo sucesivo, Decreto n.º 101/1995 Coll.).
-El maquinista del tren de pasajeros Os 4031 del HDV realizó la última revisión médica periódica el 5 de enero de 2006 con una validez de 1 año, el responsable del centro de explotación TO Přerov - jih el 16 de mayo de 2006 con una validez de 3 años, el maestro principal del centro de explotación TO Přerov - jih el 10 de julio de 2006 con una validez de 3 años, el trabajador de vía - inspector de línea TO Přerov - jih el 11 de julio de 2006 con una validez de 1 año,
-Los requisitos de aptitud profesional de los empleados del titular de la infraestructura los establece el reglamento interno
-ČD Ok 2 "REGULAMENTO DE FORMACIÓN Y EXÁMENES DE LOS FERROCARRILES CHECOS, a. s." aprobado
-mediante decisión del director general de Českých drah, a. s., el 19 de septiembre de 2006 bajo el n.º de expediente
-60442/2006-O10, con efecto desde el 1 de octubre de 2006. Para las personas que dirigen una máquina ferroviaria se establece mediante reglamento interno el examen profesional número "V-08/ maquinista", para los empleados directivos de las unidades de explotación el examen profesional "K-06/ maestro principal", para los maestros principales de las unidades de explotación el examen profesional "K-06/ maestro principal" y para los trabajadores de vía -
-inspectores de línea el examen profesional "K-03 / trabajador de vía inspector de línea".
-El maquinista del tren de pasajeros Os 4031 del HDV posee un "Certificado de aptitud para la conducción de vehículos ferroviarios n.º de registro 000599 emitido por la Oficina Ferroviaria de Praga el 29 de septiembre de 1995 para la conducción de vehículos ferroviarios MM, MH, ME, MK, E y ES. La última verificación de conocimientos en el ámbito del examen V-08 maquinista la realizó el 26 de abril de 2002. El conocimiento de las condiciones de la vía por parte de la persona que dirige el vehículo ferroviario se impone al titular del transporte ferroviario conforme al apartado 1 letra a) del artículo 35 del Decreto n.º 173/1995 Coll., por el que se aprueba el reglamento de circulación de las vías (en lo sucesivo, Decreto n.º 173/1995 Coll.). La forma de conocer las condiciones de la vía y locales por parte de los maquinistas durante el día y la noche la establecen los reglamentos ČD V1, ČD V2, ČD D2. El maquinista del HDV es una persona profesionalmente cualificada, con un conocimiento válido para la vía mencionada. El responsable del centro de explotación TO Přerov – jih, la última verificación de conocimientos en el ámbito del examen K-06 maestro principal de vías - maestro de vía la realizó el 11 de diciembre de 2001 y el 6 de septiembre de 2006 (conforme al reglamento Ok2 "Reglamento de formación y exámenes de Českých drah, a. s." el examen profesional se renueva en un intervalo quinquenal).
+### 3.2 Sistema de garantía de la seguridad
+### 3.2.1 Organización marco y forma en que se emiten y ejecutan las instrucciones
+La seguridad y la regularidad del transporte ferroviario dependen, entre otros factores, del estado técnico y de mantenimiento de la infraestructura ferroviaria y de las construcciones sobre la vía. El servicio del ramo de la explotación de la vía del explotador de la infraestructura garantiza el mantenimiento y el buen estado del balasto, el subsuelo y las construcciones sobre la vía, en el sentido y en virtud de lo dispuesto en el § 22 de la Ley núm. 266/1994 Sb., § 25 apartados 1 a 17, § 26 apartado 1) a apartado 4 y Anexo núm. 1 artículo 1 del decreto núm. 177/1995 Sb., norma ČSN 73 6360 Diseño constructivo y geométrico de la vía de las líneas ferroviarias y su posición espacial Parte 2: Construcción y recepción, explotación y mantenimiento. El explotador de la infraestructura de ámbito nacional Přerov - Brno hl. n. en el tramo de línea Přerov - Věžky garantiza la realización de mediciones e inspecciones por parte de empleados de ČD, a. s., SDC Olomouc Správy tratí Olomouc cualificados profesionalmente.
+### 3.2.2 Requisitos aplicables a los empleados del explotador de la infraestructura y del transportista y su cumplimiento
+La aptitud médica y profesional de los empleados del explotador y del transportista se rige por las disposiciones del decreto núm. 101/1995 Sb., por el que se aprueba el Reglamento de aptitud médica y profesional de las personas para la explotación de la infraestructura y del transporte ferroviario (en adelante, decreto núm. 101/1995 Sb.).
+El maquinista del HDV del tren Os 4031 superó la última revisión médica periódica el día 5. 1. 2006 con una validez de 1 año, el jefe del centro de explotación TO Přerov - jih el día 16. 5. 2006 con una validez de 3 años, el capataz principal del centro de explotación TO Přerov - jih el día 10. 7. 2006 con una validez de 3 años, el obrero de vía - vigilante de vía TO Přerov - jih el día 11. 7. 2006 con una validez de 1 año,
+Los requisitos de aptitud profesional de los empleados del explotador los establece la normativa interna ČD Ok 2 «REGLAMENTO DE FORMACIÓN Y EXAMEN DE LOS FERROCARRILES CHECOS, a. s.», aprobada por decisión del director general de České dráhy, a. s., el día 19. 9. 2006 con el número de expediente 60442/2006-O10, en vigor a partir del 1 de octubre de 2006. Para las personas que conducen vehículos ferroviarios de tracción, la normativa interna establece el examen profesional número «V-08/ maquinista», para los jefes de las unidades de explotación el examen profesional «K-06/capataz principal», para los capataces principales de las unidades de explotación el examen profesional «K-06/ capataz principal» y para los obreros de vía - vigilantes de vía el examen profesional «K-03 / obrero de vía vigilante de vía».
+El maquinista del HDV del tren Os 4031 posee el «Certificado de aptitud para la conducción de vehículos ferroviarios» válido, núm. de registro 000599, expedido por la Autoridad Ferroviaria de Praga el día 29. 9. 1995 para la conducción de vehículos ferroviarios MM, MH, ME, MK, E y ES. La última verificación de conocimientos en el ámbito del examen V-08 maquinista la superó el día 26. 4. 2002. La familiarización de la persona que conduce el vehículo ferroviario con las condiciones de la vía en las líneas y en las instalaciones la impone al explotador del transporte ferroviario el § 35 apartado 1 letra a) del decreto núm. 173/1995 Sb., por el que se aprueba el Reglamento de circulación de las vías férreas (en adelante, decreto núm. 173/1995 Sb.). La forma de adquirir conocimiento de las condiciones de la vía y del entorno por parte de los maquinistas durante el día y la noche la establecen las normativas ČD V1, ČD V2, ČD D2. El maquinista del HDV es una persona cualificada profesionalmente, con el reconocimiento válido para la línea indicada. El jefe del centro de explotación TO Přerov – jih superó la última verificación de conocimientos en el ámbito del examen K-06 capataz principal de líneas - jefe de vía el día 11. 12. 2001 y el día 6. 9. 2006 (según la normativa Ok2 «Reglamento de formación y examen de los Ferrocarriles Checos, a. s.», el examen profesional se renueva en un intervalo de cinco años).
 
 ## Página 18
+
 
 Vrchní mistr de la unidad operativa TO Přerov – sur, última verificación de conocimientos en el ámbito del examen K-06 vrchní mistr de vía – maestro de vía, realizada el 22 de mayo de 2006. Trabajador de vía – inspector de la unidad operativa TO Přerov – sur, última verificación de conocimientos en el ámbito del examen K-03 cabo (personal de mantenimiento y reparación de vías), realizada el 10 de abril de 2002.
 
@@ -395,6 +403,7 @@ El explotador aportó los registros y actas de las actividades de control y vigi
 
 ## Página 19
 
+
 (sheling), no se adoptaron medidas;
 - La realización del seguimiento del tramo está asegurada por un trabajador de vía - inspector, 3 veces por semana, y por el responsable del centro de explotación, 2 veces al mes. Las copias del cuaderno de servicio del inspector de TO Přerov jih y las transcripciones de las anotaciones en el libro "Libro de controles y actividades del responsable de TO Přerov jih" acreditan la realización de las inspecciones en el intervalo de tiempo establecido según el Anexo n.º 1 del Decreto n.º 177/1995 Sb. y la "ORDEN ORGANIZATIVA n.º 300/52 - Controles establecidos de las vías de ČD en el ámbito de SDC Olomouc" y la modificación "Modificación n.º 1" ref. 130/05-OP de fecha 26 de enero de 2005;
 - La medición continua del balasto de vía realizada por el vehículo de medición (MV1) el 14 de mayo de 2005, el 29 de septiembre de 2005 y el 30 de marzo de 2006. En relación con las anomalías en la anchura de vía, que figuran en el impreso extraído del último recorrido del vehículo de medición entre el km 87,085 y el km 87,840, el representante responsable de ST Olomouc no fijó fecha para su eliminación. En el informe de SDC Olomouc ref. 2174/06-OP de fecha 16 de febrero de 2007 se indica que las anomalías en la anchura de vía ya se habían repetido en el recorrido anterior del vehículo de medición y que su eliminación estaba preparada en el plan de trabajos de reparación para el año 2006, por lo que se ordenó al responsable del centro de explotación realizar un control y medición de la anchura, con evaluación de la posible eliminación de las anomalías. Esta inspección extraordinaria se realizó el 3 de abril de 2006 y el 3 de agosto de 2006. El extracto de los valores medidos en la anchura se incluye en los anexos n.º 1 y 1a. La medición manual con la cinta de anchura confirmó la aparición de anomalías en la anchura de vía, que figuran en el impreso extraído del recorrido del vehículo de medición. A partir de la evaluación del estado de las traviesas, la anchura medida y teniendo en cuenta la próxima reparación planificada de la vía, el responsable del centro de explotación decidió continuar con el mayor control en el tramo de vía vigilado. No adoptó otras medidas;
@@ -404,8 +413,8 @@ El explotador aportó los registros y actas de las actividades de control y vigi
 ### 2. Přerov - Věžky - km 87,100 - 87,700 traviesas defectuosas
    El explotador indica en el escrito ref. 2174/06-OP de fecha 16 de febrero de 2007 que el seguimiento del tramo está asegurado por el inspector (3 veces por semana - lunes, miércoles, viernes) y 2 veces al mes por el responsable del centro de explotación. El responsable del centro de explotación registra su control en el "Libro de controles y actividades del responsable de TO" bajo el punto 1c. Esta anotación se incluye en los anexos n.º 2 y 2a. El explotador indica además que el estado de la anchura se estabilizó y se controló de forma continua. Las anomalías en la anchura fueron causadas por el hundimiento de las cuñas de madera y el desgaste lateral del riel en la curva. Según el explotador, el estado de las traviesas y la anchura no tuvieron influencia en la aparición del incidente extraordinario en cuestión.
 
-
 ## Página 20
+
 
 ### 3.2.4 Interfaces entre las distintas partes implicadas y las componentes de la ruta de circulación
 El propietario de la vía férrea nacional Přerov - Brno hl. n. es Správa železniční dopravní cesty con domicilio en Prvního pluku 367/5, Praga 8, código postal 186 00.
@@ -466,6 +475,7 @@ norma interna ČD OK 2 Reglamento de formación y pruebas de České dráhy, a.s
 
 ## Página 21
 
+
 ### 3.4 Actividad de los vehículos ferroviarios y de los dispositivos técnicos
 ### 3.4.1 Sistema de conducción, señalización y protección, incluidos los dispositivos de grabación automática de datos
 La estación de Věžky está equipada con un dispositivo de protección de estación de la 2.ª categoría, tipo 14, y con un sistema de señales de velocidad mediante señales luminosas. El control del funcionamiento del dispositivo de protección de pasos a nivel se realiza en la sala 9 de la estación de Přerov. El dispositivo de protección de pasos a nivel (PZZ) presentaba un estado sin averías tanto antes como después del accidente (MU).
@@ -479,23 +489,23 @@ La línea Přerov - Brno hl. n. está equipada con radioenlace, red de trenes de
 El jefe de estación de la estación de Věžky y el de la estación de Přerov se transmiten la información sobre las circulaciones de los trenes por teléfono mediante la forma de salida prevista. La notificación de la salida prevista se realiza como una comunicación telefónica independiente a través del enlace de vía, y la registran tanto quien la emite como quien la recibe, indicando la hora exacta. Los jefes de estación la anotan en el diario de circulación.
 La SRD - TRS establece un enlace de radio entre los maquinistas de las unidades motrices (HDV) y el personal de la gestión directa del tráfico (despachador o jefe de estación). La grabación digital de audio REDAT se encuentra en la estación de Kojetín.
 
-
 ## Página 22
 
-### 3.4.4 Vehículos ferroviarios, incluidos los dispositivos de grabación automática de datos
-La unidad motriz (HDV) 363.056-3 está equipada, conforme al Decreto n.º 173/1995 Coll., Anexo n.º 3, parte II, apartado 5, con un dispositivo de registro mediante un tacógrafo electrónico LT n.º 4001, con un rango de medición de velocidad de 150 km/h.
-Evaluación de los datos grabados por el tacógrafo electrónico instalado en la HDV de la serie 363.056-3:
-El tren Os 4031 salió de la estación de Věžky a las 13:29:04 h. En la grabación electrónica del recorrido de la HDV se registra una aceleración continua del tren hasta alcanzar una velocidad de 40 km/h, seguida de un aumento progresivo hasta una velocidad de 93 km/h. Tras alcanzar esta velocidad, se produce una circulación con desaceleración a lo largo de 1900 metros de vía, reduciendo la velocidad a 80 km/h. Desde esta velocidad, se produce una fuerte disminución de la velocidad hasta la parada completa de la HDV a las 13:31:50 h. La distancia de frenado utilizando el freno rápido del tren es de 177 m. No se superó la velocidad establecida de 80 km/h en el lugar de producción del accidente. La parte frontal de la HDV se detuvo a unos 145 m de la primera huella tras el descarrilamiento del vehículo de tracción (THV). La velocidad del tren en el lugar del descarrilamiento fue de 71 km/h. El dispositivo de protección del tren estaba activado durante toda la circulación del tren y era manejado periódicamente por el maquinista.
-### 3.5 Documentación sobre el sistema de explotación
-### 3.5.1 Medidas adoptadas por el personal del concesionario de la infraestructura y del transportista, en lo que respecta a la conducción, señalización y protección del tráfico
-El tren Os 4031 salió de la estación de Věžky a las 13:29 h tras la expedición por parte del jefe de estación de Věžky. Antes de realizar la expedición del tren en cuestión, el jefe de estación de Věžky transmitió mediante el teléfono de vía la salida prevista del tren Os 4031 al jefe de estación de Přerov y, a continuación, operó el dispositivo de protección de estación conforme a las normas tecnológicas del concesionario de la infraestructura.
-### 3.5.2 Intercambio de comunicaciones verbales en relación con el incidente excepcional, incluidos los documentos procedentes del dispositivo de grabación
-Se considera que la primera comunicación demostrada en relación con el accidente es la notificación del descarrilamiento de los vehículos ferroviarios por parte del maquinista del tren Os 4031 al jefe de estación de Přerov a través de la radio TRS. Otra comunicación verbal fue la notificación de la producción del accidente por parte del jefe de estación de Přerov a los Servicios de Intervención de Emergencia (IZS).
-Las comunicaciones verbales mencionadas se derivan de las declaraciones explicativas presentadas por el personal participante, indicadas en el artículo 3.1.1.
-### 3.5.3 Medidas adoptadas para la protección y seguridad del lugar del incidente excepcional
-Las medidas de protección y seguridad del lugar del accidente se aseguraron, hasta la llegada de la persona autorizada y técnicamente cualificada del concesionario de la infraestructura y del transporte ferroviario (en adelante, persona autorizada), por el maquinista del tren Os 4031. Tras la llegada de la persona autorizada, se adoptaron las medidas de protección y seguridad del lugar del accidente en coordinación con los órganos competentes en el procedimiento penal.
+### 3.4.4 Material rodante, incluido el dispositivo de registro automático de datos
+El HDV 363.056-3, en el sentido del decreto n.º 173/1995 Sb., Anexo n.º 3, parte II, apartado 5, está equipado con un dispositivo de registro electrónico del conjunto de velocímetro LT n.º 4001 con un rango de medición de velocidad de 150 km/h.
+Evaluación de los datos registrados por el velocímetro electrónico instalado en el HDV de la serie 363.056-3:
+El tren Os 4031 partió de la est. Věžky a las 13:29:04 h. En el registro electrónico de la marcha del HDV consta una puesta en marcha fluida del tren hasta una velocidad de 40 km/h, y un aumento posterior hasta una velocidad de 93 km/h. Tras alcanzar esta velocidad, sigue una marcha por inercia en un tramo de 1900 metros con una reducción de la velocidad a 80 km/h. A partir de esta velocidad se produce un descenso brusco de la velocidad hasta la parada completa del HDV a las 13:31:50 h. La distancia de frenado con el uso del frenado de acción rápida del tren es de 177 m. No se produjo el exceso de la velocidad establecida de 80 km/h en el lugar de origen del MU. El morro del HDV se detuvo a unos 145 m de la primera huella tras el descarrilamiento del THV. La velocidad del tren en el lugar del descarrilamiento fue de 71 km/h. El protector de trenes estuvo activado durante toda la marcha del tren y fue operado periódicamente por el maquinista.
+### 3.5 Documentación del sistema de explotación
+### 3.5.1 Medidas adoptadas por los empleados del gestor de la infraestructura y del transportista en lo que respecta a la conducción, señalización y protección de la circulación
+El tren Os 4031 partió de la est. Věžky a las 13:29 h tras la autorización de salida dada por el jefe de estación de la est. Věžky. El jefe de estación de la est. Věžky, antes de efectuar la autorización de salida del tren en cuestión, comunicó mediante la conexión telefónica de línea la salida prevista del tren Os 4031 al jefe de estación de la est. Přerov y, a continuación, realizó la operación del dispositivo de enclavamiento de estación de acuerdo con las normas tecnológicas del gestor de la infraestructura.
+### 3.5.2 Intercambio de comunicaciones verbales en relación con el suceso excepcional, incluidas las pruebas del dispositivo de registro
+Como primera comunicación acreditada en relación con el MU puede considerarse la notificación del descarrilamiento del material rodante por parte del maquinista del tren Os 4031 al jefe de estación de la est. Přerov a través de la estación de radio TRS. Otra comunicación verbal fue la notificación de la aparición del MU por parte del jefe de estación de la est. Přerov al IZS.
+Las comunicaciones verbales mencionadas se deducen de las actas de las explicaciones prestadas por los empleados implicados, indicadas en el artículo 3.1.1.
+### 3.5.3 Medidas adoptadas para la protección y aseguramiento del lugar del suceso excepcional
+Las medidas de protección y aseguramiento del lugar del MU fueron garantizadas por el maquinista del tren Os 4031 hasta la llegada de la persona autorizada, competente del gestor de de la infraestructura y del transporte ferroviario (en adelante, persona autorizada). Tras la llegada de la persona autorizada, las medidas de protección y aseguramiento del lugar del MU se adoptaron en colaboración con las autoridades actuantes en el procedimiento penal.
 
 ## Página 23
+
 
 ### 3.6 Condiciones laborales, sanitarias y de explotación
 ### 3.6.1 Tiempo de trabajo del personal del administrador de la infraestructura y del transportista que fueron parte en el incidente
@@ -510,20 +520,51 @@ El tren Os 4031 fue conducido por la locomotora motriz (HDV) serie 363.056-3. El
 En el tramo de vía indicado entre las estaciones de clasificación (dopravy) de Přerov - Věžky no se registraron incidentes extraordinarios de carácter similar.
 El 27 de junio de 2006, el maquinista de la locomotora motriz (HDV) informó de una deformación direccional, la cual fue monitorizada y subsanada por el personal de ČD, a. s., Administración de Vías Olomouc. En el lugar de la deformación direccional se estableció una reducción de la velocidad de vía y se procedió a la sección de las barras de carril en el punto kilométrico (BK) km 87,550, es decir, a 400 m del lugar del descarrilamiento en dirección a la estación de Přerov. La ejecución de las medidas para garantizar la seguridad de la explotación se desprende del registro en el "Cuadro resumen de la vía continua" y del mensaje de correo electrónico elaborado por el jefe de ČD, a. s., Administración de Vías Olomouc, con fecha 27 de junio de 2006.
 
-
 ## Página 24
 
 ## 4 ANÁLISIS Y CONCLUSIONES
-### 4.1 Descripción final del incidente extraordinario
-### 4.1.1 Descripción final del incidente extraordinario basada en los hechos constatados en el punto 3
-El 28 de julio de 2007 a las 13:18 h se produjo un incidente extraordinario en el transporte ferroviario a los efectos del artículo 49 de la ley n.º 266/1994 Coll., sobre vías férreas, en su versión vigente, cuando, durante la circulación del tren Os 4031 en el punto kilométrico (PK) 87,150 entre las estaciones de Přerov y Věžky, descarrilaron tres vehículos ferroviarios remolcados debido a una deformación direccional y vertical de las barras de carril del balasto de la vía.
-La circulación del tren Os 4031 hasta que el maquinista detectó que la vía presentaba una deformación direccional tras el paso a nivel en el PK 87,087, se desarrolló sin incidentes. El maquinista inició inmediatamente la reducción de la velocidad del tren mediante el uso del freno continuo. Al entrar en la deformación direccional, el maquinista percibió una vibración del tren y, por ello, aplicó inmediatamente el freno de emergencia hasta la parada completa del conjunto. Del análisis de las grabaciones del tacógrafo se desprende que el frenado se aplicó en el PK 87,118, es decir, a 32 m antes de la primera huella del descarrilamiento de los vehículos ferroviarios, a una velocidad del tren de 80 km/h. La locomotora motriz 363.056-3 atravesó la deformación direccional y su parte delantera se detuvo en el PK 87,295, es decir, a 145 m después de la primera huella del descarrilamiento. Los vehículos ferroviarios remolcados Bt 50 54 21-19 072-7, Bdt 50 54 21-08 280-9 y Bdt 50 54 21-08 355-9 se detuvieron descarrilados, separados de la locomotora motriz, en el PK 87,258, es decir, a 37 m detrás de la parte delantera de la locomotora motriz y a 108 m del punto "0". El primer vehículo remolcado (TDV), situado como primero detrás de la locomotora motriz, descarriló con ambos bogies y todos sus ejes hacia la izquierda en la dirección de circulación; el segundo bogie no descarriló. El segundo vehículo remolcado descarriló con ambos bogies y todos sus ejes, el primer bogie hacia la derecha y el segundo bogie hacia la izquierda. El tercer vehículo remolcado descarriló con el primer bogie y todos sus ejes hacia la derecha; el bogie trasero no descarriló.
-Tras la parada del tren, el maquinista de la locomotora motriz serie 363.056-3 realizó las medidas para garantizar la seguridad de la locomotora motriz y, tras constatar la magnitud del descarrilamiento y tras conversar con el jefe del acompañamiento del tren, quien le informó de que no se habían producido heridos entre los viajeros, notificó a la persona que controlaba el tráfico ferroviario en la estación de Přerov la ocurrencia del incidente extraordinario.
-La circulación de los trenes entre las estaciones de Věžky y Přerov está asegurada por el dispositivo de seguridad de vía de la 3.ª categoría: semáforo automático (AH 88) sin semáforos de sección. La libertad y la ocupación de la sección intermedia se controlan mediante tramos aislados continuos (circuitos de vía).
-La primera huella del descarrilamiento se determinó comisionadamente en el PK 87,150. En este lugar se detectó la primera huella del ascenso de las ruedas del primer eje del primer bogie del vehículo remolcado (TDV) situado como segundo detrás de la locomotora motriz sobre la cabeza del carril. El hundimiento de las ruedas se produjo hacia la derecha en la dirección de circulación del tren hacia la estación de Přerov, en el exterior de la curva izquierda. Se detectaron huellas del descarrilamiento con marcas de las ruedas en las fijaciones, las traviesas de hormigón y en el balasto hasta el lugar de detención de los vehículos remolcados.
-No se produjeron daños materiales en la locomotora motriz 363.056-3; en el vehículo ferroviario remolcado Bt 50 54 21 - 19 072-7 se determinó comisionadamente un daño por valor de 43 500,- Kč; en el Bdt 50 54 21 - 08 290-9 se determinó comisionadamente un daño por valor de 252.168,- Kč; en el Bdt 50 54 21 - 08 355-9 se determinó comisionadamente un daño por valor de 32 850,- Kč; el daño total en las instalaciones
+### 4.1 Descripción final del suceso ferroviario
+### 4.1.1 Descripción final del suceso ferroviario basada en los hechos constatados 
+en el punto 3
+El 28 de julio de 2007 a las 13:18 h se produjo un SUF en el transporte ferroviario en el sentido del § 49 de la Ley 
+n.º 266/1994 Sb., de ferrocarriles, en su redacción vigente, cuando durante la marcha del tren Os 4031 en el pk 87,150 entre 
+la est. de Přerov y la est. de Věžky descarrilaron tres vehículos ferroviarios remolcados por una deformación en planta y en altura de las bandas de riel del superestructura ferroviaria. 
+La marcha del tren Os 4031 hasta el momento en que el maquinista detectó que, tras el paso a nivel en el pk 
+87,087, el carril estaba deformado en planta, transcurrió sin anomalías. El maquinista inició inmediatamente la 
+reducción de la velocidad del tren mediante el freno continuo. Al alcanzar la deformación en planta, el maquinista 
+percibió una vibración del tren y, por tanto, aplicó de inmediato el frenado de acción rápida hasta la 
+parada completa de la composición. Del análisis de los registros del tacógrafo se desprende que el frenado se 
+inició en el pk 87,118, es decir, 32 m antes de la primera huella tras el descarrilamiento de los vehículos ferroviarios, con 
+una velocidad del tren de 80 km/h. El vehículo ferroviario motriz 363.056-3 atravesó la deformación en planta y su morro 
+se detuvo en el pk 87,295, es decir, 145 m después de la primera huella de descarrilamiento. Los vehículos ferroviarios remolcados Bt 50 
+54 21-19 072-7, Bdt 50 54 21-08 280-9 y Bdt 50 54 21-08 355-9, en estado de descarrilamiento, 
+se detuvieron desprendidos del vehículo ferroviario motriz en el pk 87,258, es decir, 37 m 
+detrás del morro del HFM y 108 m después del punto "0". El primer VFR, acoplado como primero detrás del HFM, descarriló con el primer 
+bastidor con ambos ejes a la izquierda en el sentido de la marcha, el segundo bastidor no descarriló; el segundo VFR descarriló 
+con ambos bastidores en todos los ejes, con el primer bastidor a la derecha y el segundo bastidor 
+a la izquierda; el tercer VFR descarriló con el primer bastidor en todos los ejes a la derecha, el bastidor trasero 
+no descarriló.
+Tras la parada del tren, el maquinista del HFM de la serie 363.056-3 adoptó las medidas para 
+asegurar el HFM y, tras constatar el alcance del descarrilamiento y tras conversar con el jefe de 
+la escolta del tren, que le comunicó que no se habían producido lesiones en los pasajeros, 
+notificó a la persona que dirige el transporte ferroviario en la est. de Přerov la producción del SUF.
+La marcha de los trenes entre la est. de Věžky – la est. de Přerov está protegida por un 
+dispositivo de enclavamiento de vía de 3.ª categoría – barrera automática AH 88 sin señales de 
+sección. La libertad y la ocupación de la sección entre estaciones se controla mediante tramos 
+aislados continuos (circuitos de vía).
+La primera huella tras el descarrilamiento fue determinada por comisión en el pk 87,150. En este lugar se 
+constató la primera huella tras el trepado de los flancos de la rueda del primer eje del primer bastidor del VFR 
+acoplado como segundo detrás del HFM sobre la cabeza del riel. El hundimiento de las ruedas se produjo a la derecha en el 
+sentido de la marcha del tren hacia la est. de Přerov, en el exterior de la curva izquierda. Las huellas tras el descarrilamiento con las marcas de las ruedas en los 
+elementos de sujeción, en las traviesas de hormigón y en el balasto se constataron 
+hasta el lugar de parada del VFR. 
+No se produjo daño material en el vehículo ferroviario motriz 363.056-3; en el vehículo ferroviario 
+remolcado Bt 50 54 21 - 19 072-7, daño determinado por comisión por importe de 43 500,- CZK; Bdt 50 54 
+21 - 08 290-9, daño determinado por comisión por importe de 252.168,- CZK; en el Bdt 50 54 21 - 08 
+355-9, daño determinado por comisión por importe de 32 850,- CZK; daño total en el equipamiento
 
 ## Página 25
+
 
 De České dráhy, a. s., asciende a 328 518,- Kč. En las instalaciones de SŽDC Praha bajo la gestión de ČD, a. s., SDC Olomouc (en el balasto ferroviario) se produjo un daño por un importe total de 79 600,47 Kč. El daño total causado como consecuencia de la aparición de la IU se cuantificó en 406 118,47 Kč.
 ### 4.2 Análisis
@@ -534,8 +575,8 @@ Mediante la evaluación de los datos registrados por el dispositivo de registro 
 Mediante la medición de las variables del balasto ferroviario determinadas tras la aparición de la IU, 30 m antes y 10 m después del primer rastro de descarrilamiento, con una separación de 1 m, se constató el superación de las desviaciones operativas y límite de las variables del ancho de vía, el desnivel de las cabezas de los carriles y la posición direccional de la vía. Las variables medidas no se evaluaron en relación causal con la aparición de la IU. La circulación del tren y el posterior descarrilamiento influyeron en la deformación direccional y vertical inicial, tanto por la circulación de los vagones descarrilados como por la pérdida de rigidez de la estructura de la vía. La medición de las variables del balasto ferroviario se realizó de conformidad con lo dispuesto en la norma interna del explotador ČD D17 y sirve únicamente para determinar el estado del balasto ferroviario tras la aparición de la IU. La mayor desviación direccional respecto al eje proyectado de la vía se midió en el punto -2, es decir, a 2,00 m del primer rastro de descarrilamiento del vehículo descarrilado (TDV); en este lugar se midió una deformación direccional de 57 cm en dirección de circulación hacia la derecha del eje de la vía.
 En el lugar de la IU intervinieron el Servicio de Bomberos y Rescate de ČD, a. s., Brno, y el Servicio de Bomberos y Rescate de ČD, a. s., Přerov, así como la Policía de la República Checa, departamento de policía ferroviaria de Přerov. La Inspección Ferroviaria no tuvo observaciones sobre la actividad del sistema integrado de rescate. La Inspección Ferroviaria, al investigar las causas y las circunstancias de la aparición de la IU, no constató ninguna omisión de las obligaciones del transportista establecidas por la legislación para garantizar la explotación segura de la vía y del transporte ferroviario.
 
-
 ## Página 26
+
 
 La Inspección Ferroviaria, al investigar las causas y las circunstancias de la aparición de la IU, ejerció la supervisión estatal en materia de ferrocarriles, centrándose en el cumplimiento de las obligaciones del explotador de la vía.
 La supervisión estatal en materia de ferrocarriles se ejerció el 2 de agosto de 2006 en ČD, a. s., SDC Olomouc, Distrito de vía Přerov jih. En el acta "ACTA sobre el ejercicio de la supervisión estatal en materia de ferrocarriles", nº ref. 1-656/2006/DI-1, se indica que los documentos proporcionados y mencionados en esta acta serán evaluados por la Inspección Ferroviaria de forma independiente. En el marco del ejercicio de la supervisión estatal se realizó una inspección in situ de las vías en el pk 87,000 hasta el pk 87,600 y no se constató ninguna omisión de las obligaciones del explotador establecidas por la legislación para garantizar la explotación segura de la vía y del transporte ferroviario tras la aparición de la IU.
@@ -551,30 +592,23 @@ Sobre la base de las medidas adoptadas, la Inspección Ferroviaria ejerció el 4
 
 ## Página 27
 
-el 2 de mayo de 2007.
-La Inspección Ferroviaria, en el ejercicio de la supervisión estatal adicional en materia de ferrocarriles, el 31 de mayo de 2007 constató que la persona autorizada había garantizado la eliminación de las deficiencias:
-mediante la ampliación del expediente de la IU (Incidente Único) gestionado por ČD, a. s., RIBŽD Brno con documentación fotográfica
+del 2. 5. 2007.
+La Inspección Ferroviaria, mediante la realización de una posterior supervisión estatal en materia de ferrocarriles el 31. 5. 2007, constató que la persona designada había garantizado la eliminación de las deficiencias:
+mediante la incorporación al expediente de MU llevado en ČD, a. s., RIBŽD Brno de la documentación fotográfica
 –
-y grabaciones de vídeo que documentan el estado de la balastación y el perfil del lecho de balasto antes y después del lugar de producción del incidente extraordinario.
-mediante la ampliación de la «Evaluación de las causas y circunstancias de la aparición del incidente extraordinario de grupo C», ref. 70599/06-O18-RI2, de fecha 3 de mayo de 2007, en el punto e) de la parte de fundamentación, sobre la cita del artículo 158 del reglamento ČD S 3/2, cita: «Las temperaturas admisibles de los rieles para trabajos de reparación y mantenimiento que reducen la estabilidad de la vía sin juntas son: hasta 10 °C por encima de la temperatura de fijación, como máximo hasta +33 °C»
-–
-y sobre el contenido de la infracción de la norma ČSN 73 6360-2, cita: «El 30 de marzo de 2006 se realizó la medición de los parámetros geométricos de la vía con un vehículo de medición. Los valores medidos …. . El superamiento de las desviaciones operativas límite del ancho de vía (RK) no está en consonancia con lo dispuesto en la norma ČSN 73 6360-2, artículos 7.1.2 y 7.1.3. Los hechos constatados están en relación causal con la aparición del incidente extraordinario.»
-
-El explotador de la vía y del tráfico ferroviario, en las «Medidas para la eliminación de las deficiencias constatadas mediante el ejercicio de la supervisión estatal realizada por la Inspección Ferroviaria en materia de ferrocarriles» ref. 104/2007-O18, Sn, de fecha 2 de mayo de 2007, constata que no puede determinarse de manera inequívoca la responsabilidad de una persona (personas) concreta por la aparición del incidente extraordinario debido al número de personas que, durante el periodo observado, no cumplieron las disposiciones anteriores del reglamento interno ČD S3/2 y de la norma ČSN 72 6360-2 según la «Evaluación de las causas y circunstancias de la aparición del incidente extraordinario de grupo C». El explotador indica además en las medidas que: «Los tramos de vía sin juntas (BK), construidos de acuerdo con las disposiciones anteriormente vigentes, incluidas las agujas soldadas, pueden permanecer sin cambios hasta la próxima reconstrucción de la vía o el reemplazo de los rieles, ….» No se ha realizado ninguna reconstrucción o reemplazo de rieles desde la construcción de la vía sin juntas en el lugar de la IU, véase la carta de SDC Olomouc ref. 2431/07-OP de fecha 23 de abril de 2007.
-
-En la «Resolución de la Policía de la República Checa» ČTS: ORPR – 1096/Z – TČ – 2006 de fecha 27 de septiembre de 2006 se constata que no se había demostrado la responsabilidad directa de los empleados de SDC Olomouc.
-
+y de la grabación en vídeo que documenta el estado del balasto y el perfil del lecho de balasto antes y después del lugar de origen del suceso ferroviario.
+mediante la incorporación al "Evaluación de las causas y circunstancias de la ocurrencia del suceso ferroviario del grupo C", n.º de ref. 70599/06-O18-RI2, de fecha 3. 5. 2007, en el punto e) de la parte de justificación sobre la cita del artículo 158 de la norma interna de ČD S 3/2, cita: "Las temperaturas admisibles de los raíles para trabajos de reparación y mantenimiento que reducen la estabilidad de la vía son: hasta 10 °C por encima de la temperatura de fijación, como máximo hasta +33 °C"
+y sobre la redacción de la infracción de ČSN 73 6360-2, cita: "El 30. 3. 2006 se realizó una medición de los parámetros geométricos de la vía con el vehículo de medición. Los valores medidos …. . El exceso de las desviaciones operativas límite del ancho de vía (RK) no se ajusta a lo dispuesto en la ČSN 73 6360-2, artículos 7.1.2 y 7.1.3. Los hechos constatados guardan relación causal con la ocurrencia del suceso ferroviario."
+El explotador del ferrocarril y del transporte ferroviario en la "Medida para la eliminación de las deficiencias constatadas mediante la realización de la supervisión estatal por la Inspección Ferroviaria en materia de ferrocarriles" n.º de ref. 104/2007-O18, Sn, de fecha 2. 5. 2007, constata que la responsabilidad de la persona (personas) concreta por la ocurrencia del suceso ferroviario no puede determinarse de manera inequívoca, atendiendo al número de personas que, en el periodo observado, no cumplieron las disposiciones antedichas de la norma interna de ČD S3/2 y de la norma ČSN 72 6360-2 según la "Evaluación de las causas y circunstancias de la ocurrencia del suceso ferroviario del grupo C". El explotador indica asimismo en la medida que: "Los tramos de vía, establecidos conforme a las disposiciones anteriormente vigentes, incluidos los desvíos soldados, pueden mantenerse sin cambios hasta la próxima reconstrucción de la vía o sustitución de raíles, …." No se ha realizado ninguna reconstrucción ni sustitución de raíles desde la fecha de establecimiento de la vía en el lugar de la MU, véase el oficio de SDC Olomouc n.º de ref. 2431/07-OP de fecha 23. 4. 2007.
+En la "Resolución de la Policía de la República Checa" ČTS: ORPR – 1096/Z – TČ – 2006 de fecha 27 de septiembre de 2006 se constata que no se ha acreditado la responsabilidad directa de los empleados de SDC Olomouc.
 ### 4.3 Conclusiones
-
-4.3.1 Causas inmediatas del incidente extraordinario, incluidos los factores que contribuyeron a él y que estaban relacionados con la actuación de las personas implicadas o con el estado de los vehículos ferroviarios o de los equipos técnicos
-
-La causa inmediata de la aparición de la IU fue la circulación de los vehículos ferroviarios del tren Os 4031 por una vía deformada direccional y verticalmente, causada por la pérdida de resistencias transversales y longitudinales y la pérdida de rigidez estructural de la estructura de la vía en la vía sin juntas.
-
-El componente técnico cualificado del explotador de la vía, responsable de garantizar la aptitud para el servicio de la vía, es decir, el estado técnico de la vía principal Přerov - Brno hl.n., que es ČD, a. s., SDC Olomouc, no garantizó la circulación segura y fluida de la vía de conformidad con las disposiciones de ejecución de la ley n.º 266/1994 Coll., sobre ferrocarriles, y con las disposiciones del explotador.
-
-En relación con las anomalías en el ancho de vía, que se indican en el extracto impreso del último viaje del vehículo de medición entre el pk 87,085 y el pk 87,840, el representante responsable de ČD, a.s. SDC Olomouc no estableció
+4.3.1 Causas inmediatas del suceso ferroviario, incluidos los factores que contribuyeron al mismo y que se relacionaron con la actuación de las personas implicadas o con el estado de los vehículos ferroviarios o de las instalaciones técnicas
+La causa inmediata de la ocurrencia de la MU fue la circulación de los vehículos ferroviarios del tren Os 4031 por una vía deformada en sentido horizontal y vertical, provocada por la pérdida de resistencias transversales y longitudinales y por la pérdida de rigidez del bastidor de la vía en la vía sin juntas.
+El componente técnico cualificado del explotador del ferrocarril responsable de garantizar la aptitud para la explotación del ferrocarril, es decir, el estado técnico del ferrocarril de ámbito nacional Přerov - Brno hl.n., que es ČD, a. s., SDC Olomouc, no garantizó la explotación segura y fluida del ferrocarril de conformidad con las normas de aplicación de la Ley n.º 266/1994 Sb., de ferrocarriles, y con las normas del explotador.
+En cuanto a los defectos en el ancho de vía que figuran en la impresión de la última circulación del vehículo de medición en el km 87,085 hasta el km 87,840, no fue el representante responsable de ČD, a. s. SDC Olomouc el que
 
 ## Página 28
+
 
 una fecha límite para la eliminación de las mismas en la evaluación. En la respuesta de SDC Olomouc ref. 2174/06-OP de fecha 16 de febrero de 2007 se indica que las anomalías en el ancho de vía ya se habían repetido en el viaje anterior del vehículo de medición y su eliminación estaba preparada en el plan de trabajos de reparación para el año 2006. Por esta razón, se ordenó en el tramo afectado de la línea un control y la medición del ancho de vía por parte del centro de explotación con la evaluación de la posible eliminación de las anomalías. Este control extraordinario se realizó el 3 de abril de 2006 y el 3 de agosto de 2006. La medición manual con un calibrador de ancho confirmó la aparición de las anomalías en el ancho de vía, que se indican en el extracto impreso del viaje del vehículo de medición. A partir de la evaluación del estado de las traviesas, del ancho de vía medido y debido a la próxima reparación planificada de la vía, el centro de explotación decidió continuar con el control intensificado en el tramo de la línea observado. No adoptó otras medidas;
 
@@ -600,6 +634,7 @@ No se detectaron.
 
 ## Página 29
 
+
 ### 4.4 Hallazgos complementarios
 ### 4.4.1 Deficiencias y omisiones detectadas durante la investigación de las causas y las circunstancias de la aparición del incidente grave, que no son, sin embargo, relevantes para las conclusiones sobre las causas
 
@@ -616,8 +651,8 @@ Las medidas relativas al incidente grave (MU) en cuestión fueron adoptadas por 
 4. Antes del período crítico comprendido entre junio y septiembre, se debe emitir una orden de circulación para un mayor control de la vía soldada (BK) en los tramos en los que exista un riesgo elevado de pandeo de la vía.
 5. Durante el período de temperaturas extremadamente altas, definidas como aquellas en las que la temperatura de los raíles supera los 45 °C a las 13:00 h CET (a las 14:00 h CEST), se ordena realizar en estos tramos identificados, durante las horas de la tarde y de la noche, una circulación lenta temporal y limitada en el tiempo, con una velocidad comprendida entre 30 y 50 km/h (según las condiciones locales).
 
-
 ## Página 30
+
 
 České dráhy, a. s., Dirección General (GŘ) de Praga emitió la Nota Informativa n.º 1/2007 relativa al incidente grave de ČD: descarrilamiento de tres vehículos ferroviarios durante la circulación del tren de viajeros regional (Os) 4031 el 28 de julio de 2006 a las 13:18 h entre las estaciones de Věžky y Přerov, en el punto kilométrico 87,150, en el que se indica: «... De la documentación presentada a SDC Olomouc se desprende que en el lugar donde se produjo el incidente grave se realizaron trabajos de mantenimiento y reparación en mayo y junio de 2006. Según la información facilitada por SDC Olomouc, los trabajos se realizaron en las primeras horas de la mañana. Sin embargo, la documentación presentada no confirma esta afirmación. En el registro de medición de la temperatura de los raíles se indican temperaturas que superan la temperatura admisible de los raíles para estos trabajos. 
 Los procedimientos tecnológicos de las obras de reparación realizadas en junio de 2006 en la vía soldada de la curva adyacente no se registraron en el parte diario. De la documentación presentada se demuestra que los resultados de las inspecciones y mediciones establecidas de la vía férrea no se utilizaron para la preparación y organización de las obras de reparación a plena escala. No se garantizaron las medidas para la seguridad del transporte ferroviario y la seguridad de las personas. No se actuó de conformidad con el reglamento interno de ČD S3/2 - Vía soldada, capítulo IV, Mantenimiento de la vía soldada, artículo 158, y con la norma ČSN 73 6360-2 - Disposición constructiva y geométrica de la vía de los ferrocarriles y su posición espacial.
@@ -633,14 +668,13 @@ Director
 Inspección Regional de Ostrava
 De la Inspección Regional de Ostrava
 
-
 ## Página 31
+
 
 ## 7 ANEXOS
 
 Vista general del lugar del incidente grave en dirección a la estación de Věžky (en contra de la circulación del tren Os 4031).
 
-
 ## Página 32
 
-Vista de los vehículos ferroviarios descarrilados Bt 50 54 21-19 072-7a y de la locomotora HDV serie 363.056-3 (dirección de circulación del tren Os 4031 hacia la estación de Přerov).
+Vista del TDV descarrilado Bt 50 54 21-19 072-7a HDV de la serie 363.056-3 (sentido de marcha del Os 4031 hacia la est. Přerov

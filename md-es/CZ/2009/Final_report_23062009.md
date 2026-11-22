@@ -10,13 +10,14 @@ chars: 138719
 ratio_longitud: 1.27
 tokens_in: 81861
 tokens_out: 55515
-verificacion: revisar
-notas_cifras: ["bloque 2: original bilingüe: se compara contra el idioma principal (PT)", "bloque 6: original bilingüe: se compara contra el idioma principal (CS)", "bloque 10: original bilingüe: se compara contra el idioma principal (CS)", "bloque 11: original bilingüe: se compara contra el idioma principal (CS)", "bloque 17: original bilingüe: se compara contra el idioma principal (CS)", "bloque 21: original bilingüe: se compara contra el idioma principal (CS)"]
-avisos: ["bloque 6: ratio 1.76", "bloque 10: ratio 1.95", "bloque 11: ratio 1.72", "bloque 17: ratio 1.66", "bloque 21: ratio 1.98"]
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 3: original bilingüe: se compara contra el idioma principal (EN)", "página 4: original bilingüe: se compara contra el idioma principal (EN)", "página 5: original bilingüe: se compara contra el idioma principal (EN)", "página 6: original bilingüe: se compara contra el idioma principal (PT)", "página 7: original bilingüe: se compara contra el idioma principal (PT)"]
 ---
+
 ## Página 1
+
 
 Inspección Ferroviaria
 República Checa
@@ -41,11 +42,12 @@ CIF:   75009561
 http://www.dicr.cz
 fax: (+420) 224 805 428
 
-
 ## Página 2
 
 
+
 ## Página 3
+
 
 # RESUMEN
 Grado:
@@ -76,8 +78,8 @@ Causa raíz:
 organización del trabajo y SGSS (no se exigía la comprobación de la configuración 
 de la tarjeta)
 
-
 ## Página 4
+
 
 Recomendaciones:
 1) Dirigidas a České dráhy, a. s., y a todas las empresas ferroviarias que operan 
@@ -103,8 +105,8 @@ por parte de todas las empresas ferroviarias que operan locomotoras
 eléctricas "Skoda" tipos: 69E1, 69E2, 69E3, 69E4, 69E5, 71E1, 
 71E2, 71E3, 98E1 y 99E1 en la República Checa.
 
-
 ## Página 5
+
 
 # Índice
  Resumen .........................................................................................................................3
@@ -147,6 +149,7 @@ en relación contractual .......................................................
 
 ## Página 6
 
+
 3.1.2 Otras personas .........................................................................................................17
 3.2 Sistema de garantía de la seguridad ........................................................................17
 3.2.1 Organización marco y forma en que se emiten y ejecutan las instrucciones .......17
@@ -179,6 +182,7 @@ aplicación ....................................................................
 
 ## Página 7
 
+
 4.2.1 Evaluación de los hechos establecidos según el punto 3 y formulación de conclusiones sobre la causa del suceso excepcional y la actuación de los servicios de emergencia ..........................................34
 4.3 Conclusiones ...............................................................................................................37
 4.3.1 Causas inmediatas del suceso excepcional, incluidos los factores que contribuyeron al mismo y que estuvieron relacionados con la actuación de las personas implicadas o con el estado de los vehículos ferroviarios o de las instalaciones técnicas ....................................................................37
@@ -199,6 +203,7 @@ aplicación ....................................................................
 
 ## Página 8
 
+
 ## 1 RESUMEN
 Grupo del suceso: accidente
 Origen del suceso: 23/06/2009, 04:31:32 h.
@@ -216,20 +221,29 @@ Causa en el sistema de garantía de la seguridad: no se garantizó la organizaci
 Recomendación de seguridad:
 La Inspección Ferroviaria, como autoridad competente en virtud de lo dispuesto en el § 53b, apartado 5, de la Ley n.º 266/1994 Sb., de ferrocarriles, en la redacción de las disposiciones posteriores, sobre la base de los resultados de la investigación de las causas y circunstancias de la producción del suceso excepcional, para reducir la probabilidad de la producción de sucesos excepcionales similares, recomienda al transportista České dráhy, a. s., y a todos los demás transportistas que utilicen, en la explotación del transporte ferroviario, locomotoras de las series 162, 163, 362 y 363:
 
-
 ## Página 9
 
-1. incorporar al sistema de niveles de mantenimiento inferiores de las locomotoras de las series 162, 163, 362 y 363 la comprobación periódica de la posición correcta de las tarjetas en la Unidad de Control Central, es decir, también de la tarjeta de control A0311, situada en la Unidad de Control Central en la posición a la derecha de la tarjeta A6102 y a la izquierda de la tarjeta de diagnóstico A0301;
+1. incorporar en el sistema de niveles de mantenimiento inferiores de los vehículos ferroviarios de tracción de las series 162, 163, 362 y 363 
+una comprobación periódica de la posición correcta de las tarjetas en la Unidad de Control Central, es decir, también de la tarjeta de control A0311, situada en la Unidad de Control Central en la posición a la derecha de la tarjeta A6102 
+y a la izquierda de la tarjeta de diagnóstico A0301; 
 2.
-garantizar en la Unidad de Control Central de las locomotoras de las series 162, 163, 362 y 363 la posición de la tarjeta de control A0311 frente a manipulaciones no deseadas por persona no autorizada;
+en la Unidad de Control Central de los vehículos ferroviarios de tracción de las series 162, 163, 362 y 363, garantizar la 
+posición de la tarjeta de control A0311 frente a manipulaciones no deseadas por personas no autorizadas; 
 3.
-garantizar en las locomotoras de las series 162, 163, 362 y 363 los campos de conectores de los pupitres de mando en las posiciones de conducción del maquinista (conectores XK 21 a XK 36) frente a la entrada de agua y suciedad;
+en los vehículos ferroviarios de tracción de las series 162, 163, 362 y 363, proteger los campos de conectores de los puestos de mando 
+en las cabinas del maquinista (conectores XK 21 a XK 36) contra la entrada de agua 
+y suciedad; 
 4.
-incorporar al sistema de formación periódica de los maquinistas un contenido centrado en la resolución de situaciones críticas que se manifiesten mediante un comportamiento no estándar de la locomotora, incluida la resolución de la situación en que la locomotora aplique tracción de forma voluntaria, no deseada por el maquinista.
-La Inspección Ferroviaria recomienda asimismo a la Oficina Ferroviaria la adopción de una medida propia encaminada a garantizar la realización de la recomendación de seguridad anteriormente indicada también en otros transportistas de la República Checa que utilicen, en la explotación del transporte ferroviario, locomotoras de las series 162, 163, 362 y 363.
-
+incorporar en el sistema de formación periódica de los maquinistas un contenido centrado en la resolución de 
+situaciones de crisis que se manifiesten mediante un comportamiento no estándar del vehículo ferroviario de tracción, 
+incluida la resolución de la situación en la que el vehículo ferroviario de tracción aplique tracción de forma arbitraria, no por voluntad del maquinista. 
+La Inspección Ferroviaria recomienda simultáneamente a la Oficina Ferroviaria la adopción de una medida propia, encaminada 
+a garantizar la realización de la recomendación de seguridad anteriormente mencionada también en otros operadores en la República Checa 
+que utilicen, para la explotación del transporte ferroviario, vehículos ferroviarios de tracción de las series 162, 163, 362 
+y 363.
 
 ## Página 10
+
 
 ## 2 DATOS RELATIVOS AL SUCESO EXCEPCIONAL
 ### 2.1 Suceso excepcional
@@ -254,6 +268,7 @@ interruptor de regulación de emergencia de la marcha S196 en la posición «0»
 –
 
 ## Página 11
+
 
 conmutador del interruptor principal y conmutador del sistema S126 en posición „~“;
 –
@@ -349,50 +364,47 @@ la llave 971/4 del equipo de areneado abierta;
 las llaves 969/7 y 969/8 delante y detrás del freno controlado eléctricamente abiertas;
 –
 
-
 ## Página 12
 
-las llaves (las llamadas „vagón / locomotora“) 973/8 en posición „cerrado“ / 973/5 en posición „abierto“,
+kohouty (llamados «vagón / locomotora») 973/8 en posición «cerrado» / 973/5 en posición «abierto», 
 –
-el depósito de aire de suministro 907 (150 l) alimentado desde la tubería de suministro.
-el interruptor del freno electrodinámico S207 en posición „encendido“.
+depósito de aire de suministro 907 (150 l) alimentado desde la tubería de suministro.
+interruptor del freno electrodinámico S207 en posición «on».
 –
-El HDV 362.171-1 tenía, en el lado del puesto de conducción del maquinista II, la cabina deformada, ambos
-amortiguadores, el frontal del bastidor, ambos limpiaparabrisas dañados, el sensor de la parte móvil del
-protector de tren, el acoplamiento de calefacción incluida la instalación eléctrica, las mangueras de
-conexión de las tuberías de aire. En la sala de máquinas se había desprendido la cámara de extinción del
-interruptor principal de corriente continua, se habían soltado los condensadores y los armarios de los
-inversores de pulsos.
-De la composición estacionada del tren R 672 se dañaron 4 TDV:
-B 51 54 20-41 843-3, con el bastidor del TDV roto, la caja deformada hasta el nivel
+El HDV 362.171-1 tenía, en el lado de la cabina del maquinista II, la cabina deformada, ambos amortiguadores, el frontal del bastidor, ambos limpiaparabrisas dañados, el sensor de la parte móvil del protector de seguridad de tren, el acoplamiento de calefacción incluida la instalación eléctrica, las mangueras de conexión de las tuberías de aire. En la sala de máquinas se arrancó la cámara de extinción del interruptor principal de corriente continua, se soltaron los condensadores y las carcasas de los convertidores de impulsos.
+De la composición apartada del tren R 672 se dañaron 4 TDV:
+B 51 54 20-41 843-3, con el bastidor del TDV roto, la caja deformada hasta el nivel 
 –
 del primer compartimento;
-B 51 54 20-41 842-5, B 51 54 20-41 912-6 y Bdbmsee 51 54 82-70 058-7, con el interior
+B 51 54 20-41 842-5, B 51 54 20-41 912-6 y Bdbmsee 51 54 82-70 058-7, con el interior 
 –
 del TDV dañado.
 No se produjo daño en los equipos de las instalaciones de infraestructura.
-En el lugar del accidente intervinieron los siguientes componentes del sistema integrado de emergencia (en adelante IZS):
-Cuerpo de Bomberos y Salvamento de la Administración de la Vía Ferroviaria de Transporte, s. o.,
+En el lugar del MU intervinieron los siguientes componentes del sistema integrado de rescate (en adelante IZS):
+Cuerpo de Bomberos y Rescate de la Administración de la Vía de Transporte Ferroviario, s. o., Unidad de Protección contra Incendios 
 –
-Unidad de Protección Contra Incendios Brno;
+Brno;
 Policía de la República Checa – Departamento de Policía Ferroviaria (en adelante OŽP) Brno.
 –
-2.1.3 Decisión de iniciar la investigación de las causas y circunstancias de la ocurrencia, composición del equipo de personas cualificadas y forma de dirigir la investigación de las causas y circunstancias de la ocurrencia
-La ocurrencia del accidente fue notificada a la Inspección Ferroviaria (en adelante DI) en el Punto Central de Notificación de Praga (en adelante COP) a las 05:19 h, es decir, 48 minutos después de la ocurrencia del accidente, por un empleado del operador del transporte ferroviario y por mandato también en nombre del operador de la vía. El empleado del COP, sobre la base de los hechos notificados, decidió el desplazamiento y el inicio de la investigación de las causas y circunstancias de la ocurrencia del accidente en el lugar. La DI inició la actividad en el lugar del accidente a las 05:45 h, con la composición del inspector jefe de la Inspección Territorial de Brno.
-La posterior investigación de las causas y circunstancias de la ocurrencia del accidente fue encomendada a la Inspección Territorial de Brno.
-La propia investigación de las causas y circunstancias de la ocurrencia del accidente se realizó de conformidad con el § 53b de la Ley núm. 266/1994 Sb., de vías férreas, en su redacción vigente (en adelante Ley núm. 266/1994 Sb.), y el § 11 del Decreto núm. 376/2006 Sb., sobre el sistema de seguridad de la explotación de la vía y del transporte ferroviario y los procedimientos en caso de ocurrencia de sucesos excepcionales en las vías férreas (en adelante Decreto núm. 376/2006 Sb.).
-### 2.2 Circunstancias del suceso excepcional
+2.1.3 Decisión de iniciar la investigación de las causas y circunstancias de la ocurrencia, composición del equipo de personas cualificadas y método de dirección de la investigación de las causas y circunstancias de la ocurrencia
+La ocurrencia del MU fue comunicada a la Inspección Ferroviaria (en adelante DI) en el Centro Central de Notificación de Praga (en adelante COP) a las 05:19 h, es decir, 48 minutos después de la ocurrencia del MU, por un empleado del operador del transporte ferroviario y por mandato también en nombre del operador de la vía. El empleado del COP, sobre la base de los hechos comunicados, decidió el desplazamiento y el inicio de la investigación de las causas y circunstancias de la ocurrencia del MU en el lugar. La DI inició la actividad en el lugar del MU a las 05:45 h, con la composición del inspector jefe del Inspectorado Territorial de Brno. 
+La posterior investigación de las causas y circunstancias de la ocurrencia del MU fue encomendada al Inspectorado Territorial de Brno. 
+La propia investigación de las causas y circunstancias de la ocurrencia del MU se realizó de conformidad con el § 53b de la ley 
+n.º 266/1994 Sb., de vías, en la redacción de las disposiciones posteriores (en adelante ley n.º 266/1994 Sb.), y el § 11 
+del decreto n.º 376/2006 Sb., sobre el sistema de seguridad de la explotación de la vía y del transporte ferroviario 
+y los procedimientos en caso de ocurrencia de acontecimientos excepcionales en las vías (en adelante decreto n.º 376/2006 Sb.). 
+### 2.2 Circunstancias del acontecimiento excepcional
 ### 2.2.1 Empleados participantes del operador de la vía y del transportista, personas en relación contractual y otros participantes y testigos
 Empleados participantes del operador de la vía y del transportista:
-maquinista del HDV 362.171-1, empleado de České dráhy, a. s. (en adelante ČD, a. s.), Depósito
+maquinista del HDV 362.171-1, empleado de České dráhy, a. s. (en adelante ČD, a. s.), Depósito 
 –
 de Material Rodante (en adelante DKV) Brno.
 Testigos:
-señalero del aparato de enclavamiento St. 2, est. Brno hl. n., empleado de ČD, a. s., Distrito
+señalero de la estación de enclavamiento St. 2, est. Brno hl. n., empleado de ČD, a. s., Distrito Operativo Brno.
 –
-Operativo Brno.
 
 ## Página 13
+
 
 2.2.2 Trenes y su composición, incluidos los números de registro de los vehículos ferroviarios individuales
 La maniobra estaba formada por un HDV (vehículo de tracción) circulando de forma independiente, tipo 69 Er, serie 362.171-1, propiedad de ČD, a. s., asignado al inventario de DKV Brno. El HDV era conducido desde la cabina del maquinista II, el HDV tenía 4 ejes, una longitud de 16,8 m y un peso de 87 t. Estaba frenado por el método de frenado I, en el modo de frenado P.
@@ -437,6 +449,7 @@ pendiente -3,25 ‰.
 
 ## Página 14
 
+
 ### 2.2.4 Uso de los medios de comunicación
 Los puestos de trabajo del jefe de estación de la estación principal y de los enclavamientos St. 2, St. 4 y St. 5 de la est. Brno hl. n. están equipados con los siguientes medios de comunicación:
 conmutador telefónico INOMA;
@@ -471,6 +484,7 @@ Policía de la República Checa – OŽP (Departamento de Policía Ferroviaria) 
 
 ## Página 15
 
+
 ### 2.3 Muertos, heridos y daños materiales
 2.3.1 En cuanto a pasajeros y terceras personas, empleados del gestor de la infraestructura y del transportista, incluidas personas en relación contractual
 En el MU no se produjo ningún daño a la salud de personas.
@@ -498,65 +512,28 @@ En el MU no se produjo ninguna fuga de mercancías peligrosas.
 Tiempo: temperatura del aire +19ºC, despejado, calma, período nocturno, la visibilidad superior a 100 m no se vio reducida por influencias meteorológicas.
 Coordenadas GPS Loc: 49°10'51.405"N, 16°36'28.648"E.
 
-
 ## Página 16
 
-## 3 REGISTRO DE LAS EXPLICACIONES PRESENTADAS
-### 3.1 Resumen de las explicaciones presentadas
+## 3 RESUMEN DE LAS EXPLICACIONES FACILITADAS
+### 3.1 Resumen de las explicaciones facilitadas
 ### 3.1.1 Empleados del gestor de la infraestructura y del transportista, incluidas personas en relación contractual
-Del documento "Acta con el empleado" elaborado por RIBŽD en Brno el 23. 06. 2009 de 7:15 h
-a 7:30 h y el 10. 08. 2009 de 10:50 h a 11:49 h, con el maquinista de la HDV 362.171-1, entre
-otros, se deduce:
-antes de poner la HDV en movimiento, el maquinista fue informado por el señalero 1 St. 5, a
-–
-través de la comunicación radiotelefónica, sobre el procedimiento de los trabajos durante la maniobra;
-ante la señal "Maniobra permitida" en la señal Sc2, el maquinista inició la maniobra desde la
-–
-segunda vía de estación en dirección a la estación de apartadero B;
-delante de la señal de agrupamiento Se24, el maquinista fue informado por el señalero St. 2 a
-–
-través de la comunicación radiotelefónica sobre la entrada en la vía de estación ocupada nº 512
-y sobre el consentimiento para acoplar la HDV al tren R 672;
-al entrar en la vía nº 512 se produjo un aumento arbitrario de la tracción de la HDV y un aumento
-–
-de la velocidad, sin que el maquinista, mediante el mando de la palanca de control del cilindro
-de marcha del controlador S104.B, introdujera la tracción mediante el desplazamiento del
-cilindro de marcha del controlador S104.B a la posición "NP" (arriba despacio) o "NR" (arriba
-rápido);
-en el acta del 10. 08. 2009 el maquinista indicó la hipótesis de que la introducción automática
-–
-de la potencia de la locomotora se produjo en el momento en que seleccionó con el cilindro de
-marcha del controlador S104.B la posición "NP" (arriba despacio).
-Nota.: en el registro del velocímetro electrónico, en el momento de la introducción automática
-de la tracción, se registra la continuación de la frenada con el freno de mando directo, lo que
-refuta la hipótesis del maquinista;
-ante la situación surgida, el maquinista reaccionó desplazando el cilindro de marcha del
-–
-controlador S104.B a la posición "DR" (abajo rápido), utilizando el freno de mando directo y
-posteriormente aplicando el freno rápido;
-la HDV no reaccionó a la orden de reducción rápida de la tracción, la potencia se detuvo solo
-–
-tras el impacto con el tren de vagones aparcado;
-durante todo el trayecto el conmutador de modo de conducción S112 estuvo en la posición "R"
-–
-(manual);
-en el momento de la introducción arbitraria de potencia, el maquinista no encendió ningún otro
-–
-consumidor. En funcionamiento estaban solo los accesorios auxiliares trabajando en el modo
-"A" (automático).
-Del documento "Registro oficial de la explicación presentada" elaborado por ČD, a. s.,
-Provozní obvod Brno, el 23. 06. 2009 de 05:50 h a 06:20 h, con el señalero St 2 de la estación
-Brno hl. n., estación de apartadero B, entre otros, se deduce:
-tras la recepción de la locomotora por el señalero St. 4 por la vía 4a en la vía 512 de la
-–
-estación de apartadero B, el señalero St. 2 informó al maquinista de esta locomotora de que
-circulaba hacia la vía ocupada 512, al tren R 672, y de que podía acoplarse a este tren. El
-maquinista confirmó la recepción de este aviso;
-el señalero siguió la circulación de la HDV por la vía 512, y no consideró que su velocidad fuera
-–
-superior a la habitual.
+Del documento "Acta con empleado" elaborado por RIBŽD en Brno el 23. 06. 2009 de 7:15 h a 7:30 h y el 10. 08. 2009 de 10:50 h a 11:49 h, con el maquinista de HDV 362.171-1, entre otros, se desprende:
+– antes de poner el HDV en movimiento, el maquinista fue informado por el señalero 1 St. 5, a través de la conexión radiotelefónica, sobre el procedimiento de las maniobras;
+– ante la señal "Maniobras permitidas" en la señal Sc2, el maquinista inició la maniobra desde la vía de estación número 2 en dirección a la estación de apartadero B;
+– antes de la señal de agrupamiento Se24, el maquinista fue informado por el señalero St. 2 a través de la conexión radiotelefónica sobre la entrada en la vía de estación ocupada número 512 y sobre el permiso para enganchar el HDV al tren R 672;
+– al entrar en la vía número 512 se produjo un aumento arbitrario de la tracción del HDV y un aumento de la velocidad, sin que el maquinista, mediante el manejo de la palanca de mando del cilindro de marcha del controlador S104.B, introdujera la tracción con el cambio del cilindro de marcha del controlador S104.B a la posición "NP" (arriba despacio) o "NR" (arriba rápido);
+– en el acta del 10. 08. 2009, el maquinista indicó la suposición de que la introducción automática de la potencia de la locomotora se produjo en el momento en que seleccionó con el cilindro de marcha del controlador S104.B la posición "NP" (arriba despacio).
+Nota.: en el registro del velocímetro electrónico, en el momento de la introducción automática de la tracción, se registra la continuación de la frenada con el freno directo, lo que refuta la suposición del maquinista;
+– ante la situación surgida, el maquinista reaccionó cambiando el cilindro de marcha del controlador S104.B a la posición "DR" (abajo rápido), utilizando el freno directo y, a continuación, aplicando el freno rápido;
+– el HDV no reaccionó a la orden de reducción rápida de la tracción, la potencia se estabilizó solo tras el impacto con la composición de vagones estacionada;
+– durante todo el trayecto, el conmutador de modo de conducción S112 estuvo en la posición "R" (manual);
+– en el momento de la introducción arbitraria de potencia, el maquinista no encendió ningún otro consumidor. En funcionamiento estaban solo los accesorios auxiliares trabajando en modo "A" (automático).
+Del documento "Registro oficial de la explicación facilitada" elaborado por ČD, a. s., Distrito Operativo Brno, el 23. 06. 2009 de 05:50 h a 06:20 h, con el señalero St 2 de la est. Brno hl. n., estación de apartadero B, entre otros, se desprende:
+– tras la recepción de la locomotora por el señalero St. 4 por la vía 4a en la vía 512 de la estación de apartadero B, el señalero St. 2 informó al maquinista de esta locomotora de que circulaba hacia la vía ocupada 512, a la composición del tren R 672, y de que podía engancharse a esta composición. El maquinista confirmó la recepción de este aviso;
+– el señalero siguió la circulación del HDV por la vía 512, y no consideró que su velocidad fuera superior a la habitual.
 
 ## Página 17
+
 
 ### 3.1.2 Otras personas
 No se ha facilitado explicación por parte de otras personas. Otras personas no fueron participantes del MU ni testigos del MU.
@@ -576,6 +553,7 @@ Reglamento de estación de la est. Brno hl. n., n.º de expediente: 2682/06, apr
 «En la estación está permitida la maniobra sin cuadrilla de maniobras de las unidades de tracción aisladas o acopladas y la maniobra regular sin cuadrilla de maniobras de los conjuntos remolcados de trenes de transporte de viajeros. Al maquinista
 
 ## Página 18
+
 
 o procedimientos, forma de realización de las maniobras y de las excepcionalidades informará el jefe de estación directamente o a través del operador de señales, o en su caso de la cuadrilla de maniobras.“
 Reglamento interno «ČD V 25 REGLAMENTO PARA LA ORGANIZACIÓN DEL MANTENIMIENTO DE LOS VEHÍCULOS MOTRICES ELÉCTRICOS Y DIÉSEL, DE LOS VEHÍCULOS DE PASAJEROS, DE LOS COCHES DE REFUERZO, DE LOS REMOLQUES Y DE LOS COCHES DE MANDO», en la versión de la modificación n.º 2, aprobada el 20. 09. 2000, con referencia n.º: 59.213/00-O12, en vigor desde el 01. 10. 2000 (en adelante, reglamento ČD V 25). En el sentido del reglamento, el mantenimiento de los HDV 362 y 363 se divide en mantenimiento preventivo, reparaciones no planificadas y realización de modificaciones de construcción.
@@ -618,15 +596,32 @@ Documento del Departamento de Reparaciones de DKV Brno «Inspección planificada
 
 ## Página 19
 
-Documento del Departamento de Reparaciones de DKV Brno «Medida del jefe del Departamento de Reparaciones n.º 01/32/09», de fecha 02. 01. 2009, que contiene la descripción y el alcance de los trabajos en cada uno de los ciclos de mantenimiento – la atención operativa y la revisión periódica menor. La descripción y el alcance de los trabajos se basan en el Reglamento de Mantenimiento del fabricante.
-Anexo a la Medida del jefe del Departamento de Reparaciones n.º 01/32/09, de fecha 02. 01. 2009 «Alcance EO – locomotoras series 362, 363», que de acuerdo con el reglamento de mantenimiento del fabricante establece el alcance de las actividades de control y de mantenimiento en la atención operativa. La comprobación de las posiciones de las tarjetas en la CRC no es prescrita por este anexo.
-Anexo a la Medida del jefe del Departamento de Reparaciones n.º 01/32/09, de fecha 02. 01. 2009 «Alcance EM – locomotoras series 362, 363», que de acuerdo con el reglamento de mantenimiento del fabricante establece el alcance de las actividades de control y de mantenimiento en la revisión periódica menor. La comprobación de las posiciones de las tarjetas en la CRC no es prescrita por este anexo.
-Documentación del fabricante «DESCRIPCIÓN DE LOS APARATOS ELÉCTRICOS «E» - I. LOCOMOTORAS ELÉCTRICAS DE DOS SISTEMAS DE CORRIENTE Es 499.1 148 – 182 ČSD», n.º DS-166-P, en la que se indica la disposición de las tarjetas en la CRC, es decir, también la posición de la tarjeta de control A0311, situada a la izquierda de la tarjeta A6102 y a la derecha de la tarjeta de diagnóstico A0301, véase la figura de la disposición de las tarjetas en la CRC:
-posición de la tarjeta de control A0311
-### 3.2.2 Requisitos para los empleados del gestor de la infraestructura y del transportista y su aplicación
-Los requisitos de cualificación profesional de los empleados de SŽDC, s. o., incluida la forma de su aplicación, los establece el reglamento interno del gestor de la infraestructura SŽDC Zam1 «Reglamento sobre la cualificación profesional de los empleados de la Administración de la Vía de Transporte Ferroviario, organización estatal», aprobado el 30. 06. 2008, con referencia n.º: 23138/08-OKS, en la versión vigente.
+Documento de la Sección de reparaciones DKV Brno «Medida del jefe de la sección de reparaciones n.º 01/32/09», de fecha 02. 01. 
+2009, que contiene la descripción y el alcance de los trabajos en los distintos ciclos de mantenimiento – la atención en servicio y la 
+revisión periódica menor. La descripción y el alcance de los trabajos se basan en el Reglamento de mantenimiento del fabricante.
+Anexo a la Medida del jefe de la sección de reparaciones n.º 01/32/09, de fecha 02. 01. 2009 «Alcance EO – locomotoras de la serie 
+362, 363», que de acuerdo con el reglamento de mantenimiento del fabricante establece el alcance de las actividades de inspección 
+y mantenimiento durante la atención en servicio. La comprobación de las posiciones de las tarjetas en el CRC no está prescrita 
+por este anexo.
+Anexo a la Medida del jefe de la sección de reparaciones n.º 01/32/09, de fecha 02. 01. 2009 «Alcance EM – locomotoras de la serie 
+362, 363», que de acuerdo con el reglamento de mantenimiento del fabricante establece el alcance de las actividades de inspección 
+y mantenimiento durante la revisión periódica menor. La comprobación de las posiciones de las tarjetas en el CRC no está prescrita 
+por este anexo.
+Documentación del fabricante «DESCRIPCIÓN DE LOS APARATOS ELÉCTRICOS "E" - I. LOCOMOTORAS ELÉCTRICAS DE DOS SISTEMAS 
+Es 499.1 148 – 182 ČSD», n.º DS-166-P, donde se indica la disposición de las tarjetas en el CRC, 
+es decir, también la posición de la tarjeta de control A0311, situada a la izquierda de la tarjeta A6102 y a la derecha de la tarjeta 
+de diagnóstico A0301, véase la figura de la disposición de las tarjetas en el CRC:
+posición de la tarjeta de control A0311 
+### 3.2.2 Requisitos para los empleados del gestor de la infraestructura y del transportista y su 
+aplicación
+Los requisitos de cualificación profesional de los empleados de SŽDC, s. o., incluido el modo de 
+su aplicación, los establece la normativa interna del gestor de la infraestructura SŽDC Zam1 «Reglamento sobre la cualificación 
+profesional de los empleados de la Administración de la Infraestructura Ferroviaria de Transporte, organización estatal», aprobado 
+el día 
+30. 06. 2008, con el n.º de expediente: 23138/08-OKS, en su versión vigente.
 
 ## Página 20
+
 
 Los requisitos de competencia profesional de los empleados de ČD, a. s., incluido el modo de hacerla valer, los establece la normativa interna del transportista "ČD Ok 2 ORDEN DE FORMACIÓN Y EXAMEN DE LOS FERROCARRILES CHECOS, a. s.", aprobada el 25. 03. 2009, con el n.º de expediente: 55713/2009-O10, en vigor desde el 01. 04. 2009, en su versión vigente.
 La condición de aptitud para conducir un vehículo ferroviario la establece el § 45 de la Ley n.º 266/1994 Sb.
@@ -640,6 +635,7 @@ Los empleados que realizan actividades en los dispositivos técnicos eléctricos
 En virtud de lo anterior, el mantenimiento de los circuitos y dispositivos situados en el puesto de conducción I, en el armario de electrónica, es decir, el mantenimiento del CRC de los HDV series 362 y 363, incluida la manipulación de las tarjetas electrónicas, solo pueden realizarlo electromecánicos y mecánicos de dispositivos electrónicos. Todas las demás personas mencionadas anteriormente con la cualificación electrotécnica correspondiente realizan únicamente actividades de inspección y control, t. j. no manipulan ellas mismas las tarjetas del CRC.
 
 ## Página 21
+
 
 ### 3.2.3 Procedimiento del control interno de seguridad y sus resultados
 En el marco de la investigación de las causas y circunstancias del origen de MU en el transporte ferroviario, se realizó, en los días 24 a 25. 08. 2009, en el transportista ČD, a. s., en DKV Brno, una supervisión estatal en materia de ferrocarriles, durante la cual se constataron los hechos que se indican a continuación, que figuran en el documento „PROTOKOL o výkonu státního dozoru ve věcech drah“ (Acta de la realización de la supervisión estatal en materia de ferrocarriles), n.º de referencia: 7-1191/2009/DI-1, de fecha 25. 08. 2009, que forma parte integrante del expediente de MU.
@@ -672,7 +668,6 @@ Resumen de las intervenciones de mantenimiento planificadas realizadas en HDV 36
 | 02 02 2009 / 9130 . . |  |  |
 | 09 02 2009 / 6430 . . |  |  |
 
-
 ## Página 22
 
 | 23 02 2009 / 8820 . . |  |
@@ -686,107 +681,110 @@ Resumen de las intervenciones de mantenimiento planificadas realizadas en HDV 36
 | 30 05 2009 / 7700 . . |  |
 | 09 06 2009 / 6280 . . |  |
 | 21 06 2009 / 8480 . . |  |
-Dado que el transportista no realiza revisiones periódicas mayores „V“ en HDV de las series 362 y 363, en las condiciones de DKV Brno, salvo algunas labores prescritas por otros documentos, tampoco realiza el resto de trabajos de control y de mantenimiento establecidos en la norma de mantenimiento del fabricante para la revisión periódica mayor „V“. El control de las posiciones de las tarjetas en CRC no está, en relación con el art. 24 de la norma ČD V 25, incluido entre las piezas y conjuntos que, según el transportista, tienen una influencia directa en la seguridad del transporte. Por lo tanto, el control de las posiciones de las tarjetas CRC, es decir, también de la tarjeta de control A0311, no fue prescrito por el transportista en la atención operativa „EO“ ni en la revisión periódica menor „EM“, en las condiciones de DKV Brno, hasta la fecha de emisión de „Opatření vedoucího oprav DKV Brno“ (Medida del jefe de reparaciones de DKV Brno), n.º OVÚ 4/32/09, de fecha 14. 08. 2009, y por consiguiente tampoco fue controlado.
-Dicho estado lo acredita también la constatación de DI, realizada durante la supervisión estatal en materia de ferrocarriles en los días 13 y 14. 08. 2009 en el transportista ČD, a. s., centrada en garantizar el uso de HDV de las series 362 y 363 en la explotación del transporte ferroviario en un estado técnico que corresponda a la aptitud aprobada, en el sentido del § 35 apartado 1 letra d) de la Ley n.º 266/1994 Sb., de conformidad con la documentación del fabricante „POPIS EL. PŘÍSTROJŮ „E“ 
-- I. ELEKTRICKÉ DVOUPROUDOVÉ LOKOMOTIVY Es  499.1 148 – 182 ČSD“ (Descripción de los aparatos eléctricos „E“ - I. Locomotoras eléctricas de doble corriente Es 499.1 148 – 182 ČSD), n.º DS-166-P, véase Registro de la realización de la supervisión estatal en materia de ferrocarriles, de fecha 14. 08. 2009, n.º de referencia: 7-1190/2009/DI, cuando en:
-HDV 363.110-8 (el 13. 08. 2009, tren R 684) la tarjeta de control A0311 se encontraba en la posición 
+Dado que el operador no realiza en las condiciones del DKV Brno las revisiones periódicas grandes «V» a los HDV de las series 362 y 363, con excepción de algunos trabajos prescritos por otros documentos, tampoco realiza el resto de trabajos de control y mantenimiento establecidos en el manual de mantenimiento del fabricante para la revisión periódica grande «V». La comprobación de las posiciones de las tarjetas en el CRC no está, en relación con el art. 24 de la norma ČD V 25, incluida entre las piezas y nodos que, según el operador, tienen una influencia directa en la seguridad del transporte. Por tanto, la comprobación de las posiciones de las tarjetas CRC, es decir, también de la tarjeta de control A0311, no fue prescrita por el operador en el mantenimiento operativo «EO» ni en la revisión periódica pequeña «EM», en las condiciones del DKV Brno, hasta la fecha de emisión de la «Medida del jefe de reparaciones del DKV Brno», n.º OVÚ 4/32/09, de 14. 08. 2009, y en consecuencia tampoco fue comprobada.
+El estado descrito lo acredita también la constatación del DI, realizada durante el ejercicio de la supervisión estatal en materia de ferrocarriles los días 13 y 14. 08. 2009 en el operador ČD, a. s., centrada en la garantía del uso de los HDV de las series 362 y 363 en la explotación del transporte ferroviario en un estado técnico que corresponde a la aptitud aprobada, en el sentido del § 35 apart. 1 letra d) de la Ley n.º 266/1994 Sb., de conformidad con la documentación del fabricante «DESCRIPCIÓN DE LOS APARATOS ELÉCTRICOS «E» - I. LOCOMOTORAS ELÉCTRICAS DE DOS SISTEMAS Es 499.1 148 – 182 ČSD», n.º DS-166-P, véase Registro del ejercicio de la supervisión estatal en materia de ferrocarriles, de 14. 08. 2009, n.º de expediente: 7-1190/2009/DI, cuando en:
+HDV 363.110-8 (el 13. 08. 2009, tren R 684) la tarjeta de control A0311 se encontraba en la posición
 –
-de la tarjeta de diagnóstico A0301, es decir, en una posición que no está equipada con conectores en la parte posterior – posición ciega. La tarjeta de diagnóstico A0301 se encontraba en la posición de la tarjeta de control A0311, a la derecha de la tarjeta A6102;
-HDV 362.123-2 (el 13. 08. 2009, tren R 738) la tarjeta de control A0311 se encontraba en la posición 
+de la tarjeta de diagnóstico A0301, es decir, en la posición que no está equipada con conectores en la parte trasera – posición ciega. La tarjeta de diagnóstico A0301 se encontraba en la posición de la tarjeta de control A0311, a la derecha de la tarjeta
+A6102;
+HDV 362.123-2 (el 13. 08. 2009, tren R 738) la tarjeta de control A0311 se encontraba en la posición
 –
-de la tarjeta de diagnóstico A0301, es decir, en una posición que no está equipada con conectores en la parte posterior – posición ciega. La tarjeta de diagnóstico A0301 se encontraba en la posición de la tarjeta de control A0311, a la derecha de la tarjeta A6102;
-HDV 362.173-7 (el 13. 08. 2009, tren R 675) la tarjeta de control A0311 se encontraba en la posición 
+de la tarjeta de diagnóstico A0301, es decir, en la posición que no está equipada con conectores en la parte trasera – posición ciega. La tarjeta de diagnóstico A0301 se encontraba en la posición de la tarjeta de control A0311, a la derecha de la tarjeta
+A6102;
+HDV 362.173-7 (el 13. 08. 2009, tren R 675) la tarjeta de control A0311 se encontraba en la posición
 –
-de la tarjeta de diagnóstico A0301, es decir, en una posición que no está equipada con conectores en la parte posterior – posición ciega. La tarjeta de diagnóstico A0301 se encontraba en la posición de la tarjeta de control A0311, a la derecha de la tarjeta A6102;
-HDV 363.164-6 (el 13. 08. 2009, tren R 832) la tarjeta de control A0311 se encontraba en la posición 
+de la tarjeta de diagnóstico A0301, es decir, en la posición que no está equipada con conectores en la parte trasera – posición ciega. La tarjeta de diagnóstico A0301 se encontraba en la posición de la tarjeta de control A0311, a la derecha de la tarjeta
+A6102;
+HDV 363.164-6 (el 13. 08. 2009, tren R 832) la tarjeta de control A0311 se encontraba en la posición
 –
-de la tarjeta de diagnóstico A0301, en una posición que no está equipada con conectores en la parte posterior – posición ciega. La tarjeta de diagnóstico A0301 se encontraba en la posición de la tarjeta de control A0311, a la derecha de la tarjeta A6102;
-HDV 363.024-1 (el 13. 08. 2009, tren R 673) CRC no estaba equipado con la tarjeta de control. En la 
+de la tarjeta de diagnóstico A0301, en la posición que no está equipada con conectores en la parte trasera – posición ciega. La tarjeta de diagnóstico A0301 se encontraba en la posición de la tarjeta de control A0311, a la derecha de la tarjeta
+A6102;
+HDV 363.024-1 (el 13. 08. 2009, tren R 673) el CRC no estaba equipado con una tarjeta de control. En
 –
-posición de la tarjeta de control A0311, a la derecha de la tarjeta A6102, se encontraba la tarjeta de diagnóstico A0301;
+la posición de la tarjeta de control A0311, a la derecha de la tarjeta A6102, se encontraba la tarjeta de diagnóstico A0301;
 
 ## Página 23
 
 HDV 362.175-2 (el 13. 08. 2009, tren R 933) la tarjeta de control A0311 se encontraba en la posición 
 –
-de la tarjeta de diagnóstico A0301, es decir, en una posición que no está dotada de conectores en la parte trasera – posición ciega. La tarjeta de diagnóstico A0301 se encontraba en la posición de la tarjeta de control A0311, a la derecha de la tarjeta A6102;
+de la tarjeta de diagnóstico A0301, es decir, en una posición que no está equipada con conectores en la parte trasera – posición ciega. La tarjeta de diagnóstico A0301 se encontraba en la posición de la tarjeta de control A0311, a la derecha de la tarjeta A6102;
 HDV 363.017-5 (el 13. 08. 2009) la tarjeta de control A0311 se encontraba en la posición 
 –
-de la tarjeta de diagnóstico A0301, es decir, en una posición que no está dotada de conectores en la parte trasera – posición ciega. La tarjeta de diagnóstico A0301 se encontraba en la posición de la tarjeta de control A0311, a la derecha de la tarjeta A6102;
-HDV 362.124-0 (el 14. 08. 2009, tren R 674) el CRC no estaba dotado de tarjeta de control. En la 
+de la tarjeta de diagnóstico A0301, es decir, en una posición que no está equipada con conectores en la parte trasera – posición ciega. La tarjeta de diagnóstico A0301 se encontraba en la posición de la tarjeta de control A0311, a la derecha de la tarjeta A6102;
+HDV 362.124-0 (el 14. 08. 2009, tren R 674) el CRC no estaba equipado con la tarjeta de control. En la 
 –
 posición de la tarjeta de control A0311, a la derecha de la tarjeta A6102, se encontraba la tarjeta de diagnóstico A0301;
 HDV 362.161-2 (el 14. 08. 2009, tren R 681) la tarjeta de control A0311 se encontraba en la posición 
 –
-de la tarjeta de diagnóstico A0301, es decir, en una posición que no está dotada de conectores en la parte trasera – posición ciega. La tarjeta de diagnóstico A0301 se encontraba en la posición de la tarjeta de control A0311, a la derecha de la tarjeta A6102;
+de la tarjeta de diagnóstico A0301, es decir, en una posición que no está equipada con conectores en la parte trasera – posición ciega. La tarjeta de diagnóstico A0301 se encontraba en la posición de la tarjeta de control A0311, a la derecha de la tarjeta A6102;
 HDV 363.033-2 (el 14. 08. 2009, tren Sp 1975) la tarjeta de control A0311 se encontraba en la 
 –
-posición de la tarjeta de diagnóstico A0301, es decir, en una posición que no está dotada de conectores en la parte trasera – posición ciega. La tarjeta de diagnóstico A0301 se encontraba en la posición de la tarjeta de control A0311, a la derecha de la tarjeta A6102.
-Para la eliminación de la avería indicada, el transportista ČD, a. s., DI fue requerido mediante la Requerimiento para la eliminación de las deficiencias detectadas, n.º de expediente: 7-1190/2009/DI-1, de fecha 14. 08. 2009.  
-El transportista, en las condiciones de DKV Brno hasta la fecha de emisión de la «Medida del jefe de reparaciones de DKV Brno», n.º OVÚ 4/32/09, de fecha 14. 08. 2009, como respuesta al Requerimiento para la eliminación de la avería detectada, n.º de expediente: 7-1190/2009/DI-1, de fecha 14. 08. 2009, no garantizó organizativamente el mantenimiento de las locomotoras de tracción ferroviaria de las series 362 y 363, que habría garantizado que la tarjeta de control A0311 estuviera en el CRC en la posición correcta, es decir, en la posición a la derecha de la tarjeta A6102 y a la izquierda de la tarjeta de diagnóstico A0301. Medidas organizativas y tecnológicas del transportista permitieron la aparición de una situación en la que, ante el estado transitorio del CRC producido por cualquier interferencia accidental o corte de suministro de breve duración (aproximadamente hasta 300 ms), en el que en el contador CRC de seis dígitos, reversible, se produce una lectura aleatoria, arbitraria, de la tracción proporcional al valor 0 – 63 en decimal, correspondiente al valor 0 – 100 % de tracción, el convertidor D/A convierte los bits del contador en una tensión de salida de 0 – 10 V, que el elemento de rampa con pendiente de aumento de 8 s igualará, la señal de salida «Wi», conducida al regulador de tracción EDYN 22, 
-### mediante la tarjeta de control A0311 en el CRC, no será desconectada. 
-La garantía organizativa de las revisiones técnicas periódicas está regulada por el transportista en la parte quinta de la norma interna de ČD V 25. El contenido de la revisión técnica periódica figura en la norma interna de ČD V 25, de conformidad con el anexo n.º 6 del decreto n.º 173/1995 Sb., por el que se aprueba el reglamento de circulación ferroviaria, en su redacción vigente (en adelante, decreto n.º 173/1995 Sb.), y con el contenido del anexo n.º 19. Las revisiones técnicas de las locomotoras de tracción de las series 362 y 363 las realiza una persona cualificada del transportista, que dispone tanto de la documentación original del tipo homogéneo de vehículo ferroviario como de la documentación vigente, incluidas las condiciones técnicas elaboradas. Para la revisión técnica de la HDV 362.171-1 son las «CONDICIONES TÉCNICAS TP 10-28/2077/87», según la modificación según el adendo n.º 1 y 2, incluidas las modificaciones n.º 1026, 1077, 1099, 1101, 1115, 1116, 1119, 1120, 1126, 1143, 1145, 1146, 1148, 1150, 1151, 
+posición de la tarjeta de diagnóstico A0301, es decir, en una posición que no está equipada con conectores en la parte trasera – posición ciega. La tarjeta de diagnóstico A0301 se encontraba en la posición de la tarjeta de control A0311, a la derecha de la tarjeta A6102.
+Para la eliminación de la avería indicada, el transportista ČD, a. s., DI fue requerido mediante la Requerimiento para la eliminación de las deficiencias detectadas, ref. n.º: 7-1190/2009/DI-1, de fecha 14. 08. 2009.
+El transportista, en las condiciones de DKV Brno hasta la fecha de emisión de la «Medida del jefe de reparaciones de DKV Brno», n.º OVÚ 4/32/09, de fecha 14. 08. 2009, como respuesta al Requerimiento para la eliminación de la avería detectada, ref. n.º: 7-1190/2009/DI-1, de fecha 14. 08. 2009, no garantizó organizativamente el mantenimiento de los vehículos ferroviarios motrices de las series 362 y 363, que habría asegurado que la tarjeta de control A0311 estuviera en el CRC en la posición correcta, es decir, en la posición a la derecha de la tarjeta A6102 y a la izquierda de la tarjeta de diagnóstico A0301. Mediante medidas organizativas y tecnológicas del transportista se permitió la aparición de una situación en la que, ante el estado transitorio del CRC producido como consecuencia de cualquier interferencia accidental o interrupción breve del suministro de energía (aproximadamente hasta 300 ms), en el contador CRC de seis dígitos, reversible, se produce una lectura aleatoria y arbitraria de la tracción proporcional al valor 0 – 63 en decimal, correspondiente al valor 0 – 100 % de tracción, el convertidor D/A convierte los bits del contador en una tensión de salida de 0 – 10 V, que el elemento de rampa con pendiente de aumento de 8 s iguala, la señal de salida «Wi», conducida al regulador de tracción EDYN 22, 
+### mediante la tarjeta de control A0311 en el CRC, no se desconecta.
+La garantía organizativa de las revisiones técnicas periódicas está regulada por el transportista en la parte quinta de la norma interna ČD V 25. El contenido de la revisión técnica periódica figura en la norma interna ČD V 25, de conformidad con el anexo n.º 6 del decreto n.º 173/1995 Sb., por el que se aprueba el reglamento de circulación ferroviaria, en su redacción vigente (en adelante, decreto n.º 173/1995 Sb.), y con el contenido del anexo n.º 19. Las revisiones técnicas de los HDV de las series 362 y 363 las realiza una persona cualificada del transportista, que dispone tanto de la documentación original del tipo homogéneo de vehículo ferroviario como de la documentación vigente, incluidas las condiciones técnicas elaboradas. Para la revisión técnica del HDV 362.171-1 son las «CONDICIONES TÉCNICAS TP 10-28/2077/87», según la modificación mediante el adicional n.º 1 y 2, incluidas las modificaciones n.º 1026, 1077, 1099, 1101, 1115, 1116, 1119, 1120, 1126, 1143, 1145, 1146, 1148, 1150, 1151, 
 1162, 1173, 1176, 1177 y 1178.
-Las revisiones técnicas periódicas de la HDV 362.171-1 fueron realizadas por el transportista en los intervalos semestrales periódicos establecidos por el anexo 5 del decreto n.º 173/1995 Sb. y por la norma interna de ČD V 25. El contenido de la revisión técnica periódica está establecido por el anexo n.º 19.
-La última revisión técnica periódica de la HDV 362.171-1 fue realizada por el transportista el 20. 03. 2009 
+Las revisiones técnicas periódicas del HDV 362.171-1 fueron realizadas por el transportista en los intervalos semestrales periódicos establecidos por el anexo 5 del decreto n.º 173/1995 Sb. y por la norma interna ČD V 25. El contenido de la revisión técnica periódica está establecido por el anexo n.º 19.
+La última revisión técnica periódica del HDV 362.171-1 fue realizada por el transportista el 20. 03. 2009 
 en DKV Brno.
-
 
 ## Página 24
 
-### 3.2.4 Interfaz entre los distintos sujetos implicados y los componentes de la vía de circulación
-El propietario y explotador de la vía ferroviaria, categoría nacional, Lanžhot st. hr. – Brno hl. n., 
-andén de maniobras B, es SŽDC, s. o., con domicilio: Dlážděná 1003/7, Praha 1 - Nové Město, CP 110 
-00, en virtud de la Autorización Administrativa emitida por la Autoridad Ferroviaria de Praga el 29. 05. 2008, bajo el n.º de expediente: 3 
-- 4277/07-DÚ/Le-DÚ/O-Sl (n.º ev. ÚP/2008/9002).
+### 3.2.4 Interfaz entre los distintos sujetos participantes y los componentes de la vía de tráfico
+El propietario y explotador de la vía ferroviaria, categoría de ámbito nacional, Lanžhot st. hr. – Brno hl. n., 
+patio de maniobras B, es SŽDC, s. o., con domicilio: Dlážděná 1003/7, Praha 1 - Nové Město, CP 110 
+00, en virtud de la Autorización administrativa expedida por la Autoridad Ferroviaria de Praga el 29. 05. 2008, con el n.º de expediente: 3 
+- 4277/07-DÚ/Le-DÚ/O-Sl (n.º de registro ÚP/2008/9002).
 El transportista es ČD, a. s., con domicilio: Nábřeží L. Svobody 1222, Praha 1, CP 110 15, en virtud de 
-la Licencia de explotador del transporte ferroviario n.º de expediente: 1-157/96-DÚ/O-Bp, n.º ev.: L/1996/5000, concedida 
-por la Autoridad Ferroviaria de Praga el 21. 05. 1996, a la persona jurídica ČD, a. s., y del contrato «CONTRATO número 
-001/05 sobre acceso a la vía de circulación ferroviaria de la vía nacional y de las vías regionales en propiedad 
-del Estado», en su redacción vigente, celebrado entre las partes contratantes, SŽDC, s. o., y ČD, a. s., el 
-31. 10. 2005, y del contrato «CONTRATO número 001/08 sobre explotación del transporte ferroviario en la vía de 
-circulación ferroviaria de la vía nacional y de las vías regionales en propiedad de la República 
-Checa», en su redacción vigente, celebrado entre las partes contratantes, SŽDC, s. o., y ČD, a. s., el 01. 07. 2008, con vigencia 
-desde el 01. 07. 2008.
+la Licencia de explotador del transporte ferroviario n.º de expediente: 1-157/96-DÚ/O-Bp, n.º de registro: L/1996/5000, concedida 
+por la Autoridad Ferroviaria de Praga el 21. 05. 1996, a la persona jurídica ČD, a. s., y del contrato «SMLOUVA číslo 
+001/05 o přístupu na železniční dopravní cestu celostátní dráhy a regionálních dráh ve vlastnictví 
+státu» (Contrato n.º 001/05 de acceso a la vía de tráfico ferroviaria de la vía de ámbito nacional y de las vías regionales en propiedad 
+del Estado), en su versión vigente, celebrado entre las partes contratantes, SŽDC, s. o., y ČD, a. s., el 
+31. 10. 2005, y del contrato «SMLOUVA číslo 001/08 o provozování drážní dopravy na železniční 
+dopravní cestě celostátní dráhy a regionálních dráh ve vlastnictví České republiky» (Contrato n.º 001/08 de explotación del transporte ferroviario en la vía de tráfico ferroviaria de la vía de ámbito nacional y de las vías regionales en propiedad de la República Checa), en su versión vigente, celebrado entre las partes contratantes, SŽDC, s. o., y ČD, a. s., el 01. 07. 2008, con vigencia 
+a partir del 01. 07. 2008.
 ### 3.3 Regulación jurídica y de otro tipo
-### 3.3.1 Normativa jurídica comunitaria y nacional aplicable
-ley n.º 266/1994 Sb., de vías, en su redacción vigente;
+### 3.3.1 Normativa comunitaria y nacional aplicable
+ley n.º 266/1994 Sb., de vías, en su versión consolidada;
 –
 decreto n.º 100/1995 Sb., por el que se establecen las condiciones para la explotación, construcción y fabricación 
 –
-de instalaciones técnicas designadas y su concreción (Reglamento de instalaciones técnicas designadas), 
-en su redacción vigente;
+de dispositivos técnicos designados y su concreción (Reglamento de dispositivos técnicos designados), 
+en su versión consolidada;
 decreto n.º 101/1995 Sb., por el que se aprueba el Reglamento de aptitud sanitaria y profesional 
 –
-de las personas para la explotación de la vía y del transporte ferroviario, en su redacción vigente;
-decreto n.º 173/1995 Sb., por el que se aprueba el reglamento de circulación ferroviaria, en su redacción 
+de las personas para la explotación de la vía y del transporte ferroviario, en su versión consolidada;
+decreto n.º 173/1995 Sb., por el que se aprueba el reglamento de circulación de las vías, en su versión 
 –
-vigente;
-decreto n.º 177/1995 Sb., por el que se aprueba el reglamento de construcción y técnico de las vías, en su redacción 
+consolidada;
+decreto n.º 177/1995 Sb., por el que se aprueba el reglamento de construcción y técnica de las vías, en su 
 –
-vigente;
+versión consolidada;
 decreto n.º 376/2006 Sb., sobre el sistema de seguridad de la explotación de la vía y del transporte ferroviario 
 –
-y los procedimientos en caso de ocurrencia de sucesos excepcionales en las vías;
-ley n.º 262/2006 Sb., Código del Trabajo, en su redacción vigente.
+y los procedimientos en caso de sucesos excepcionales en las vías;
+ley n.º 262/2006 Sb., Código del Trabajo, en su versión consolidada.
 –
-3.3.2 Otras normas, p. ej. reglamento de explotación, reglamento laboral, normas de mantenimiento, 
+3.3.2 Otras normas, p. ej., reglamento de explotación, reglamento de trabajo, normas de mantenimiento, 
 normas técnicas vigentes y otras normas internas
-norma interna de ČD D1 «NORMA PARA EL USO DE SEÑALES EN LA ORGANIZACIÓN 
+norma interna ČD D1 «PŘEDPIS PRO POUŽÍVÁNÍ NÁVĚSTÍ PŘI ORGANIZOVÁNÍ 
 –
-Y EXPLOTACIÓN DEL TRANSPORTE FERROVIARIO», aprobada el 15. 04. 1997, bajo el n.º de expediente: 55216/97-
-O11, en su redacción vigente;
-norma interna de ČD D2 «NORMA PARA LA ORGANIZACIÓN Y EXPLOTACIÓN DEL TRANSPORTE 
+A PROVOZOVÁNÍ DRÁŽNÍ DOPRAVY» (Norma para el uso de las señales en la organización 
+y explotación del transporte ferroviario), aprobada el 15. 04. 1997, con el n.º de expediente: 55216/97-
+O11, en su versión vigente;
+norma interna ČD D2 «PŘEDPIS PRO ORGANIZOVÁNÍ A PROVOZOVÁNÍ DRÁŽNÍ 
 –
-FERROVIARIO», aprobada el 13. 03. 1997, bajo el n.º de expediente: 55079/97-O11, en su redacción vigente;
-norma interna de ČD D 15 «Norma para la actividad de control en la organización y explotación 
+DOPRAVY» (Norma para la organización y explotación del transporte ferroviario), aprobada el 13. 03. 1997, con el n.º de expediente: 55079/97-O11, en su versión vigente;
+norma interna ČD D 15 «Předpis pro kontrolní činnost při organizování a provozování 
 –
-del transporte ferroviario», aprobada el 28. 02. 2000, bajo el n.º de expediente: 60 949/99-O11, en su redacción vigente;
-norma interna de ČD D 17 «NORMA para la notificación e investigación de sucesos excepcionales», aprobada 
-–
-el 31. 10. 2006, bajo el n.º de expediente: 70 778/2006, en su redacción vigente;
+drážní dopravy» (Norma para la actividad de control en la organización y explotación del transporte ferroviario), aprobada el 28. 02. 2000, con el n.º de expediente: 60 949/99-O11, en su versión vigente;
+norma interna ČD D 17 «PŘEDPIS pro hlášení a šetření mimořádných událostí» (Norma para la notificación e investigación de sucesos excepcionales), aprobada 
+el 31. 10. 2006, con el n.º de expediente: 70 778/2006, en su versión vigente;
 
 ## Página 25
+
 
 reglamento interno de ČD Ok 2 «ORDEN DE FORMACIÓN Y EXÁMENES DE LOS FERROCARRILES CHECOS, a. s.»,
 –
@@ -836,8 +834,8 @@ ELÉCTRICAS DE DOS SISTEMAS DE CORRIENTE Es 499.1 148 – 182 ČSD», n.º DS-16
 La est. de Brno estación central está equipada con un aparato de enclavamiento de estación de 2.ª categoría. Se trata de un aparato de enclavamiento electromecánico con señales principales luminosas dependientes, desvíoadores electromotores y circuitos de vía. El aparato se sirve desde la oficina de tráfico, desde el puesto del jefe de estación del andén, desde las cabinas de enclavamiento St. 4, St. 5, St. 6, y asimismo desde las cabinas PSt. 1, PSt. 2, St. 2, St. 3, con enlace a St. 4.
 El acuerdo para la maniobra hacia el sector de maniobras contiguo se realiza mediante oferta y aceptación. La maniobra desde el sector de maniobras del operador de la cabina St. 4 hacia el sector de maniobras del operador 1 de St. 5 y viceversa
 
-
 ## Página 26
+
 
 la acuerda el jefe de estación del andén. La ruta de maniobra para la circulación de la HDV se estableció con el funcionamiento normal del aparato de enclavamiento de las cabinas, esto es, desde la vía de estación n.º 2 hacia la vía de estación 4a desde la cabina St. 5. Circulación por la vía 4a desde la cabina St. 4 y circulación en el sector de la estación de apartadero B desde la cabina St. 2.
 El maquinista fue informado, antes de poner la HDV en movimiento y durante la maniobra, sobre el desarrollo de los trabajos de maniobra mediante enlace radiotelefónico. Las instrucciones para la circulación de la HDV que circula por sí sola sin cuadrilla de maniobra eran dadas al maquinista por el explotador de la vía mediante señales de los señales fijas Sc2, Se24 y Se52. La actividad del aparato de enclavamiento de estación no queda registrada por un dispositivo registrador.
@@ -864,6 +862,7 @@ La HDV circulaba hacia delante desde el puesto del maquinista II, y era manejada
 –
 
 ## Página 27
+
 
 El HDV inició la maniobra de maniobras desde la 2.ª vía de la estación del recinto de la estación de pasajeros a las 04:28:50 h;
 –
@@ -898,19 +897,17 @@ fase I. – comprobación y verificación de la función de los circuitos del re
 atención a los circuitos de medida y a los circuitos del contactor de excitación K40.
 En el circuito de medida del regulador EDYN 22 no se detectaron anomalías. En el circuito del contactor de excitación K40 se detectó al principio una anomalía: el contactor de excitación K40 estaba permanentemente accionado. La señal «E1» al regulador EDYN 22 se generaba de forma permanente, aunque el regulador EDYN 22 no generaba la señal «E0». La comprobación reveló que el conductor n.º 281 a la base del transistor V150 del contactor K40 estaba conductivamente conectado en el haz de cables de la cabina del maquinista II con otro conductor que estaba bajo tensión. Tras eliminar esta conexión conductiva no deseada, el contactor de excitación K40 funcionó sin anomalías. La coordinación de los contactos de potencia y auxiliares estaba correcta, el contactor fue ajustado. Los ángulos de quemado del contactor K40 estaban quemados adecuadamente;
 
-
 ## Página 28
 
-fase II. – comprobación y verificación de la función de los circuitos del CRC, cuando en la posición de la tarjeta de
-–
-control A0311 se encontraba la tarjeta de diagnóstico A0301. La tarjeta de control A0311 se encontraba en una posición inactiva, en la posición de la tarjeta de diagnóstico A0301, es decir, la tarjeta de control A0311 no estaba en funcionamiento.
-El CRC estaba plenamente funcional, incluida la colaboración con el regulador de tracción EDYN 22. Mediante la simulación de la caída de la tensión de alimentación del CRC, a través del relé auxiliar de alimentación de la red 115 V/400 Hz K113, se provocaba un estado transitorio en el que, por efecto de cualquier interferencia o de una caída breve de la alimentación (aproximadamente hasta 300 ms), en el contador de seis dígitos, reversible, del CRC podía producirse una carga aleatoria de la tracción proporcional al valor 0 – 63 en decimal, correspondiente al valor 0 – 100 % de tracción. El convertidor D/A convierte entonces los bits del contador en una tensión de salida 0 – 10 V, que es igualada por el miembro de rampa con una pendiente de rampa de 8 s.
-En la prueba del CRC, sin una orden legal de tracción proporcional por parte del controlador mediante las señales «NP» o «NR», el CRC mostraba repetidamente una transición desde el estado intermedio a valores aleatorios de tracción proporcional creciente desde 0 hasta +100 %, y generaba al regulador de tracción EDYN 22 una orden legal de marcha – tracción. El voltímetro de indicación de la tracción deseada en la tarjeta A6102 y el voltímetro – indicador de tracción P113 en el pupitre de mando de la cabina del maquinista I indicaban el mismo valor de tracción. El valor de la señal de salida «Wi» 1 – 10 V fue igualado por el miembro de rampa con una pendiente de rampa de 8 s, es decir, el aumento del valor de tracción correspondía a la orden del controlador «NR». En el valor de 1 – 10 V (correspondiente al 10 al 100 % de la tracción deseada) la señal «Wi» se mantuvo hasta la pérdida de la señal «DN» y la llegada de la señal «DP» o «DR» desde el cilindro de marcha del controlador S103.B.
-En la situación en que el contador del CRC, al transicionar desde el estado intermedio, generaba aleatoriamente un valor correspondiente hasta el 100 % de tracción, que era igualado por el miembro de rampa, y mediante el cilindro de marcha del controlador S103.B se conducía al CRC la señal «DP» o «DR», el CRC continuaba generando la señal «Wi» creciente para el regulador de tracción EDYN 22, con una pendiente de rampa de 8 s, hasta que el valor de la señal del convertidor D/A de los contadores se igualaba con el valor del miembro de rampa. El valor de tracción (+) alcanzado dependía del momento en que, por reacción del operador, se conducía al regulador EDYN 22, mediante el cilindro de marcha del controlador S103.B, la señal «DP» o «DR». Tras igualar el valor generado de la salida del convertidor D/A del CRC con el valor del miembro de rampa, la señal de salida del miembro de rampa (señal «Wi») comenzó a descender, con una pendiente de descenso de 8 s (16 s).
-El tiempo que transcurre desde el momento en que el contador del CRC, al transicionar desde el estado intermedio, comienza arbitrariamente a cargar y el CRC comienza a generar la solicitud de marcha – tracción, que alcanza el +100 %, hasta el posterior descenso del valor de tracción al 0 %, como consecuencia de la conducción de la señal «DR» desde el cilindro de marcha del controlador S103.B, es de 16 s.
-El tiempo que transcurre desde el momento en que el contador del CRC, al transicionar desde el estado intermedio, comienza arbitrariamente a
+fase II. – verificación y comprobación de la función de los circuitos CRC, cuando en la posición de la tarjeta de control A0311 se encontraba la tarjeta de diagnóstico A0301. La tarjeta de control A0311 se encontraba en una posición inactiva, en la posición de la tarjeta de diagnóstico A0301, es decir, la tarjeta de control A0311 no estaba en funcionamiento.
+CRC estaba plenamente funcional, incluida la colaboración con el regulador de tracción EDYN 22. Mediante la simulación de la caída de la tensión de alimentación del CRC, a través del relé auxiliar de alimentación de la red 115 V/400 Hz K113, se provocaba un estado transitorio, en el que, por influencia de cualquier interferencia o interrupción breve del suministro (aproximadamente hasta 300 ms), podía producirse en el contador CRC de seis décimas, reversible, una carga aleatoria de la tracción proporcional al valor 0 – 63 en decimal, correspondiente al valor 0 – 100 % de tracción. El convertidor D/A convierte entonces los bits del contador en una tensión de salida de 0 – 10 V, que es igualada por el elemento de rampa con una pendiente de aumento de 8 s.
+En la prueba del CRC, sin una orden legal de tracción proporcional por parte del controlador maestro mediante la señal "NP" o "NR", el CRC mostraba repetidamente una transición desde el estado intermedio a valores aleatorios de tracción proporcional creciente desde 0 hasta +100 %, y generaba en el regulador de tracción EDYN 22 una orden legal de marcha – tracción. El voltímetro de indicación de la tracción requerida en la tarjeta A6102 y el voltímetro – indicador de tracción P113 en el pupitre de control de la cabina de conducción I indicaban el mismo valor de tracción. El valor de la señal de salida "Wi" de 1 – 10 V era igualado por el elemento de rampa con una pendiente de aumento de 8 s, es decir, el aumento del valor de tracción correspondía a la orden del controlador maestro "NR". En el valor de 1 – 10 V (correspondiente al 10 al 100 % de la tracción requerida) la señal "Wi" se mantenía hasta la pérdida de la señal "DN" y la llegada de la señal "DP" o "DR" desde el cilindro de mando del controlador maestro S103.B.
+En la situación en que el contador CRC, al transicionar desde el estado intermedio, generaba aleatoriamente un valor correspondiente hasta el 100 % de tracción, que era igualado por el elemento de rampa, y desde el cilindro de mando del controlador maestro S103.B se introducía en el CRC la señal "DP" o "DR", el CRC continuaba generando la señal "Wi" creciente para el regulador de tracción EDYN 22, con una pendiente de aumento de 8 s, hasta que se igualaba el valor de la señal del convertidor D/A de los contadores con la señal del elemento de rampa. El valor de tracción (+) alcanzado dependía del momento en que, por reacción del operador, se introducía en el regulador EDYN 22, a través del cilindro de mando del controlador maestro S103.B, la señal "DP" o "DR". Tras igualar el valor generado de la salida del convertidor D/A del CRC con el valor del elemento de rampa, la señal de salida del elemento de rampa (señal "Wi") comenzaba a descender, con una pendiente de descenso de 8 s (16 s).
+El tiempo que transcurre desde el momento en que el contador CRC, al transicionar desde el estado intermedio, comienza arbitrariamente a cargar y el CRC comienza a generar la solicitud de marcha – tracción, que alcanza el +100 %, hasta el posterior descenso del valor de tracción al 0 %, como consecuencia de la introducción de la señal "DR" desde el cilindro de mando del controlador maestro S103.B, es de 16 s.
+El tiempo que transcurre desde el momento en que el contador CRC, al transicionar desde el estado intermedio, comienza arbitrariamente a cargar
 
 ## Página 29
+
 
 se carga y la CRC comienza a generar la solicitud de marcha – tracción, y cuando por la reacción del personal, aún durante el aumento (+) de tracción, del cilindro de marcha del controlador S103.B se introduce la señal «DR» («DN» = 0), está plenamente influenciada por la velocidad de reacción del personal y es menor de 16 s;
 fase III. – verificación y comprobación de la función de los circuitos CRC, cuando las tarjetas de control A0311 estaban en la posición correcta, a la derecha de la tarjeta A6102, es decir, la tarjeta de control A0311 estaba en funcionamiento.
@@ -920,8 +917,8 @@ En los circuitos relacionados ya durante la inspección de recepción del HDV se
 fase IV. – inspección del campo de conectores de la cabina de conducción del maquinista II, con los conectores XK21 hasta XK36.
 Mediante la inspección de los circuitos del pupitre de la cabina de conducción del maquinista II se detectó una fuerte corrosión
 
-
 ## Página 30
+
 
 en el campo de conectores de los conectores XK21, XK24, XK25, XK26, XK29 y XK30. La corrosión más intensa estaba en los conectores XK21, XK24, XK25 y XK26. Los conectores están en el HDV orientados hacia abajo. La corrosión entre los pines no se produjo de una vez, sino por la acción prolongada del líquido filtrado (agua de lluvia que se ha colado a través de la junta defectuosa del parabrisas bajo la lluvia, en el lavado, etc., o agua derramada por los maquinistas, por ejemplo, al cocinar y preparar café, té, durante la prestación de servicio en el HDV). Los valores de las resistencias de transición, en la verificación del estado técnico del HDV, no fueron medidos, porque los conectores estaban almacenados en estado seco, en la nave cubierta del DKV, a una temperatura por encima de +22 °C, es decir, en condiciones completamente distintas de las condiciones en el momento de producirse el MU, cuando llovía. Los valores de las resistencias de transición entre los pines de un conector secado serían notablemente mayores que con un conector húmedo – la medición no tendría capacidad representativa.
 Un hallazgo fundamental es también el hecho de que por el conector XK24 fuertemente corroído pasa el conductor n.º 987, el conductor de la señal «Wi» introducido a través de los contactos del relé K124 en el indicador de tracción P113 (P114 desmontado).
@@ -935,6 +932,7 @@ Con el fin de determinar el transcurso del aumento del valor de la asignación d
 Dado que el valor de aceleración del HDV 362.171-1, tras la carga arbitraria, aleatoria, de tracción – marcha, no era constante, sino que crecía aproximadamente de forma lineal, y tras alcanzar el máximo también disminuía por efecto del freno neumático, la causa de la carga arbitraria, aleatoria, de tracción – marcha con la señal «Wi», introducida en el regulador de tracción EDYN 22, es la posición incorrecta de la tarjeta de control A0311. Esta, tras la carga arbitraria, aleatoria, de la tracción proporcional en el contador de seis décadas, reversible, de la CRC, que fue convertido por el convertidor A/D en una tensión de salida 0 – 10 V e igualado por el elemento de aumento, no desconectó la señal «Wi» introducida desde la salida de la CRC en el regulador de tracción EDYN 22, porque al insertar la tarjeta de control A0311 en la posición incorrecta, ciega, la tarjeta de control fue puesta fuera de servicio.
 
 ## Página 31
+
 
 ### 3.5 Documentación sobre el sistema de explotación
 ### 3.5.1 Medidas adoptadas por los empleados del gestor de la infraestructura y del transportista en lo que respecta a la conducción, señalización y seguridad del tráfico
@@ -950,6 +948,7 @@ Operador de señalización St. 2: entró en servicio según el horario del turno
 
 ## Página 32
 
+
 3.6.2 Estado de salud y situación personal que influyeron en el suceso excepcional, incluido el estrés físico o psicológico
 La aptitud para el servicio de los empleados del gestor de la infraestructura y del transportista se evalúa en el sentido de lo dispuesto en la disposición nº 101/1995 Sb., por la que se aprueba el Reglamento sobre la aptitud para el servicio y la aptitud profesional de las personas para la explotación de la infraestructura y del transporte ferroviario, en su redacción vigente (en adelante, disposición nº 101/1995 Sb.)
 En el momento de producirse el suceso excepcional (MU) en cuestión, todos los empleados del gestor de la infraestructura y del transportista implicados en el MU contaban con un dictamen válido de aptitud para el servicio. Los registros escritos forman parte del expediente.
@@ -958,6 +957,7 @@ En la producción del MU influyó el estrés físico y psicológico del maquinis
 De la verificación del contenido y la orientación de las formaciones periódicas de maquinistas realizadas en las condiciones del transportista ČD, a. s., DKV Brno, en el período comprendido entre el 01. 01. 2008 y el 24. 06. 2009, se desprende que el contenido de dichas formaciones no incluyó, en ningún caso, preparación teórica o práctica de los maquinistas orientada a la resolución de situaciones de crisis, es decir, tampoco a la situación de activación imprevista e inesperada de la locomotora en servicio de forma arbitraria, que para el maquinista resulta por regla general inesperada y sorprendente. Sobre todo, sin embargo, desde el punto de vista del conocimiento de los esquemas de circuitos de la locomotora, resulta para el maquinista totalmente incomprensible y, en la situación en que la locomotora se aproxima a vehículos ferroviarios detenidos, fuertemente estresante. De los datos registrados por el dispositivo de registro de la locomotora 362.171-1 se desprende que desde el momento de la activación espontánea de la locomotora en servicio hasta la producción del MU transcurrieron 11 s. Este tiempo es suficiente para un maquinista competente, formado periódicamente y preparado sistemáticamente para resolver la situación de crisis descrita, que le permite reaccionar de manera adecuada, es decir, tras evaluar la situación, con la mano izquierda en el pupitre de mando de la locomotora, pulsar el botón de apagado del interruptor principal S124 para desconectar la tracción, con la mano derecha frenar de forma directa con el freno DAKO-BP (el efecto de frenado del freno neumático es a velocidades inferiores a 30 km.h-1 similar o superior al del freno electrodinámico, que queda fuera de servicio por el frenado de acción directa con la posterior entrada de la señal «BL» en el CRC) y, con la manija de mando del controlador del freno automático continuo de aire DAKO-OBE 1, aplicar el frenado de acción rápida. El transportista, en el marco de su sistema de formación periódica, en el sentido del § 35 apartado 1 letra b) de la ley nº 266/1994 Sb., formó periódicamente al maquinista de la locomotora 362.171-1, véanse los Documentos de formación, ref. nº 2-693/2009/DI, de fecha 12. 10. 2009. Sin embargo, el contenido de la formación no le preparó ni le formó periódicamente para resolver la situación de crisis en cuestión, acompañada de estrés y de pánico. En la situación de estrés producida
 
 ## Página 33
+
 
 en la situación, el maquinista solo introdujo en la CRC, mediante la palanca de mando del cilindro de control del controlador S104.B, la petición de descenso rápido de potencia y atendió el equipo de freno HDV. No realizó el desenganche de la tracción, es decir, no apagó el interruptor principal con el botón de apagado S124.
 3.6.3 Disposición del equipamiento del puesto de mando o del vehículo que influye en su
@@ -973,24 +973,24 @@ DI no registra ningún SE de carácter similar.
 en el punto 3
 El maquinista del HDV 362.171-1 circulando solo, sin cuadrilla de maniobras, se encontraba en la est. Brno hl. n., en el ámbito de la estación de viajeros, y antes de ponerse en movimiento fue informado por el señalero de la estación de enlace St. 5 sobre el procedimiento de los trabajos de maniobra, con el indicio de que maniobraría desde la vía de estación n.º 2 por la vía n.º 4a hacia la estación de apartadero B. Tras recibir la instrucción dada por la señal «Maniobra permitida» de la señal principal Sc2, el maquinista puso el HDV en movimiento. Antes del nivel de la señal de agrupamiento Se24, fue advertido por el señalero St. 2 de la est. Brno hl. n. de que circulaba hacia la vía ocupada n.º 512. Al entrar en la vía n.º 512 a la hora 04:31:21 h, durante la frenada de acción directa se produjo una aplicación arbitraria de tracción del HDV y un aumento de la velocidad, sin que el maquinista hubiera introducido potencia del HDV mediante la palanca de mando del cilindro de control del controlador S104B. Ante la situación producida, el maquinista reaccionó introduciendo una reducción rápida de tracción, mediante el paso de la palanca de mando del cilindro de control del controlador S104B a la posición «DR» (abajo rápido) y el aumento de la presión en los cilindros de freno de la frenada de acción directa, mediante el paso del freno de acción directa DAKO-BP a la posición de frenado. Sin embargo, no accionó, no pulsó el botón de apagado del interruptor principal S124, es decir, no desenganchó la tracción. Bajo el efecto de la fuerza de tracción en combinación con la gran potencia específica del HDV, este continuó aumentando su velocidad. A la hora 04:31:26 h, a una velocidad de 30 km.h-1, el maquinista con la palanca de mando
 
-
 ## Página 34
 
-del freno de la frenada automática neumática continua DAKO-OBE1 introdujo la frenada de acción rápida. Sin embargo, la velocidad siguió aumentando durante los 2 s siguientes. Tras alcanzar la velocidad de 37 km.h-1, a la hora 04:31:28 h, a una distancia de 41 m antes de la composición detenida del tren R 672, la velocidad del HDV comenzó a descender por efecto del freno neumático y de la disminución del valor de tracción. Sin embargo, el HDV ya no pudo detenerse antes de la composición detenida, situada en la vía de estación n.º 512. A una velocidad de 32 km.h-1, a las 04:31:32 h, el HDV chocó contra el TDV de la composición detenida del tren R 672.
-Como consecuencia de la colisión no hubo ninguna persona fallecida ni herida. Ningún vehículo ferroviario descarriló. No se produjo ninguna fuga de mercancías peligrosas. Se dañaron el HDV 362.171-1 y 4 TDV de la composición detenida del tren R 672. El transportista cifró el daño total causado en los vehículos ferroviarios dañados en 3.280.053,- Kč. En los componentes de la vía de circulación –superestructura ferroviaria, infraestructura y equipo de enclavamiento de la estación Brno hl. n.– no se causó ningún daño.
-DI no tiene ninguna objeción sobre la actuación de los servicios del IZS.
+el controlador del freno de vacío continuo automático DAKO-OBE1 activó el frenado de acción rápida. Sin embargo, la velocidad siguió aumentando durante los 2 segundos siguientes. Al alcanzar la velocidad de 37 km.h-1, a las 04:31:28 h, a una distancia de 41 m por delante de la composición detenida del tren R 672, la velocidad del HDV comenzó a descender por efecto del freno neumático y de la disminución del valor de tracción. Sin embargo, delante de la composición detenida, situada en la vía de estación n.º 512, el HDV ya no podía detenerse. A una velocidad de 32 km.h-1, a las 04:31:32 h, el HDV chocó contra el TDV de la composición estacionada del tren R 672.
+Como consecuencia de la colisión, no hubo ninguna persona fallecida ni herida. Ningún vehículo ferroviario descarriló. No se produjo ninguna fuga de mercancías peligrosas. Se dañaron el HDV 362.171-1 y 4 TDV de la composición estacionada del tren R 672. El transportista cifró el daño total causado en los vehículos ferroviarios dañados en 3.280.053,- Kč. No se causó daño en los componentes de la vía de circulación – superestructura, subestructura y aparato de señalización de la estación Brno hl. n.
+El DI no tiene ninguna objeción con respecto a la actuación de los servicios del IZS.
 ### 4.2 Análisis
-### 4.2.1 Evaluación de los hechos constatados según el punto 3 y enunciación de las conclusiones sobre la causa del suceso excepcional y la actuación de los servicios de rescate
-La ruta de maniobra para el HDV 362.171-1 circulando solo, sin cuadrilla de maniobras, fue, de conformidad con el § 22 apart. 1 letra a) de la ley n.º 266/1994 Sb., establecida por el personal normal del SZZ de la est. Brno hl. n. y permitida por la señal «Maniobra permitida» de la señal principal Sc2 y de las señales de agrupamiento Se52, Se24, S4a.
-El transportista ČD, a. s., de conformidad con el § 35 apart. 1 letras e), h) e i) del decreto n.º 173/1995 Sb., aseguró que el maquinista, maniobrando el HDV 362.171-1 circulando solo, sin cuadrilla de maniobras:
-– condujera el HDV desde el puesto de conducción del maquinista, es decir, desde el puesto desde el que tenía en el sentido de la marcha la mejor visibilidad;
-– pusiera el HDV en movimiento en la dirección establecida a la señal «Maniobra permitida» de la señal principal Sc2, situada a la derecha de la vía de estación 2a, previa información sobre el modo y el destino de la marcha;
+### 4.2.1 Evaluación de los hechos constatados de acuerdo con el punto 3 y exposición de las conclusiones sobre la causa del suceso excepcional y la actuación de los servicios de rescate
+La vía de maniobras para el HDV 362.171-1 circulando de forma independiente sin cuadrilla de maniobras fue, de conformidad con el § 22 apartado 1 letra a) de la Ley n.º 266/1994 Sb., dispuesta por el personal normal del SZZ de la estación Brno hl. n. y autorizada con la señal «Posun dovolen» (Maniobras permitidas) de la señal principal Sc2 y de las señales de agrupamiento Se52, Se24, S4a.
+El transportista ČD, a. s., de conformidad con el § 35 apartado 1 letras e), h) e i) del decreto n.º 173/1995 Sb., garantizó que el maquinista, maniobrando el HDV 362.171-1 circulando de forma independiente sin cuadrilla de maniobras:
+– condujera el HDV desde la cabina delantera del maquinista, es decir, desde la cabina desde la que tenía la mejor visibilidad en la dirección de la marcha;
+– hiciera arrancar el HDV en la dirección establecida con la señal «Posun dovolen» (Maniobras permitidas) de la señal principal Sc2, situada a la derecha de la vía de estación 2a, previa notificación del modo y el destino de la marcha;
 – no superara la velocidad máxima permitida.
-El transportista ČD, a. s., en el sentido del § 35 apart. 1 letra g) del decreto n.º 173/1995 Sb., aseguró que el maquinista, maniobrando el HDV 362.171-1 circulando solo, sin cuadrilla de maniobras, adaptara la velocidad de marcha a la visibilidad existente, de modo que se garantizara la seguridad de la maniobra.
-Al entrar en la vía ocupada n.º 512, el maquinista ajustó a tiempo y a distancia suficiente la velocidad de marcha del HDV con el freno de acción directa hasta 20 km.h-1, según la extracción textual de los datos registrados por el dispositivo de registro del HDV 362.171-1, n.º ref.: 2-252/09/DI, de fecha 26. 06. 2009.
-Cuando el HDV se encontraba a una distancia de 92 m antes de la composición detenida del tren R 672, es decir, 11 s antes de la colisión, se produjo, no por voluntad del maquinista, una aplicación arbitraria de tracción del HDV, con el resultado de un aumento de la aceleración positiva y, con ello, de la velocidad de marcha del HDV. Ante la aplicación arbitraria e imprevista del HDV a potencia (aumento de tracción), el maquinista reaccionó introduciendo una reducción rápida de tracción mediante el paso de la palanca de mando del cilindro de control del controlador S104.B a la posición «DR» (abajo rápido). A esta maniobra el HDV no respondió desde el punto de vista del maquinista y continuó comportándose de forma totalmente ilógica. El siguiente paso lógico del maquinista habría sido el desenganche de la tracción, apagando el interruptor principal, pulsando el botón de apagado del interruptor principal S124. Con esta maniobra habría finalizado el aumento de tracción y, con ello, el aumento del valor de aceleración y de las velocidades de marcha del HDV. Bajo el efecto de la situación de estrés producida, agravada por la composición del tren R 672 que se «acercaba» rápidamente, detenida en la vía de estación n.º 512, el maquinista
+El transportista ČD, a. s., en el sentido del § 35 apartado 1 letra g) del decreto n.º 173/1995 Sb., garantizó que el maquinista, maniobrando el HDV 362.171-1 circulando de forma independiente sin cuadrilla de maniobras, adaptara la velocidad de marcha a la visibilidad disponible, de modo que se garantizara la seguridad de las maniobras.
+Al entrar en la vía ocupada n.º 512, el maquinista ajustó a tiempo y a distancia suficiente la velocidad de marcha del HDV hasta 20 km.h-1 mediante el freno de acción directa, véase la extracción textual de los datos registrados por el dispositivo registrador del HDV 362.171-1, n.º de expediente: 2-252/09/DI, de fecha 26. 06. 2009.
+Cuando el HDV se encontraba a una distancia de 92 m por delante de la composición detenida del tren R 672, es decir, 11 s antes de la colisión, se produjo, no por voluntad del maquinista, una aplicación arbitraria de tracción del HDV, que tuvo como consecuencia el aumento de la aceleración positiva y, con ello, de la velocidad de marcha del HDV. Ante la aplicación arbitraria e imprevista del HDV en servicio (aumento de tracción), el maquinista reaccionó ordenando una reducción rápida de la tracción mediante el desplazamiento de la palanca de mando del cilindro de marcha del controlador S104.B a la posición «DR» (abajo rápido). A esta maniobra, el HDV no respondió desde el punto de vista del maquinista y continuó comportándose de forma totalmente ilógica. El siguiente paso lógico del maquinista habría sido desconectar la tracción, mediante la apertura del interruptor principal, pulsando el botón de apagado del interruptor principal S124. Con esta maniobra habría de ponerse fin al aumento de la tracción y, con ello, al aumento del valor de aceleración y de las velocidades de marcha del HDV. Debido a la situación de estrés producida, agravada por la composición del tren R 672 que se «acercaba» rápidamente, detenida en la vía de estación n.º 512, el maquinista
 
 ## Página 35
+
 
 en el tiempo de reacción correspondiente de aproximadamente 4 a 5 s (1 acción = 1 s) no accionó el botón de desconexión del interruptor principal S124, es decir, no desconectó el interruptor principal y no desacopló la tracción. Únicamente frenó de forma refleja con el freno neumático de acción directa y a continuación aplicó el frenado de acción rápida. Este paso del maquinista resultó ineficaz. La aceleración se redujo, pero hasta el momento en que se redujo la tracción del HDV mantuvo un valor positivo, es decir, el HDV seguía acelerando y aumentando su velocidad. El HDV de la serie 362 tiene una gran potencia específica por unidad de masa (potencia de 3060 kW/87 t) y un efecto de frenado relativamente pequeño del freno neumático (en el modo de frenado P 44 t). La colisión ya no podía evitarse.
 Del contenido y la orientación de las formaciones periódicas de los maquinistas realizadas en las condiciones del transportista ČD, a. s., DKV Brno, en el período desde el 01. 01. 2008 hasta el 24. 06. 2009, se desprende que el contenido de la formación periódica no incluyó en ningún caso la preparación de los maquinistas orientada a la resolución de situaciones de crisis, es decir, también a la situación de una puesta en servicio repentina e inesperada y arbitraria del HDV, que es inesperada y sorprendente para el maquinista. Sin embargo, principalmente desde el punto de vista del conocimiento de los esquemas de circuitos del HDV, es para el maquinista totalmente incomprensible, ilógica y, en la situación en la que el HDV se aproxima a los vehículos ferroviarios detenidos, fuertemente estresante. De los datos registrados por el dispositivo de registro del HDV 362.171-1 se desprende que desde el momento de la puesta en servicio espontánea del HDV hasta la aparición de la MU transcurrieron 11 s. Este tiempo es suficiente para un maquinista competente, formado periódicamente y preparado sistemáticamente para resolver la situación de crisis descrita, permitiéndole reaccionar de la manera correspondiente, es decir, tras evaluar la situación, con la mano izquierda en el pupitre de mando del HDV, pulsando el botón de desconexión del interruptor principal S124, desacoplar la tracción, con la mano derecha con el freno DAKO-BP frenar de acción directa (el efecto de frenado del freno neumático es a velocidades inferiores a 30 km.h-1 similar o superior al efecto del freno electrodinámico, que queda fuera de servicio por el frenado de acción directa con la posterior introducción de la señal «BL» en el CRC) y con la palanca de mando del regulador del freno automático continuo de aire DAKO-OBE 1 aplicar el frenado de acción rápida.
@@ -1003,6 +1003,7 @@ En la V – revisión periódica mayor, la documentación del fabricante prescri
 La revisión periódica V fue suspendida por el transportista a partir del año 2005 sobre la base del documento «Realización de revisiones periódicas mayores en los HKV en el año 2005», ref. 3391/04-O12/2 – Ca, de fecha 17. 12. 2004, y hasta el momento de la aparición de la MU no fue realizada en el HDV, es decir, tampoco en el HDV 362.171-1, por el transportista ČD, a. s.,
 
 ## Página 36
+
 
 en las condiciones de DKV Brno, se llevaba a cabo.
 El transportista ČD, a. s., en el sentido del § 35 apartado 1 letra a) de la ley nº 266/1994 Sb., mediante sus medidas organizativas y tecnológicas en el sistema de mantenimiento de HDV de las series 362 y 363, no garantizó la explotación segura del transporte ferroviario al no comprobarse en la CRC, durante el mantenimiento regular de los niveles inferiores de mantenimiento de las series de HDV mencionadas, la posición correcta de las tarjetas, de modo que la tarjeta de control A0311
@@ -1025,6 +1026,7 @@ con la filtración prolongada de agua en el bloque de conectores del pupitre de 
 
 ## Página 37
 
+
 ### La causa de la aplicación arbitraria, accidental de la tracción – la conducción de la señal "Wi", introducida en el regulador de tracción EDYN 22, fue la posición incorrecta de la tarjeta de control A0311, es decir, el uso por parte del operador ferroviario, durante la explotación del transporte ferroviario, de un HDV en un estado técnico que no correspondía a la aptitud aprobada. Tras la carga arbitraria, accidental de la tracción proporcional en el contador CRC de seis décadas, reversible, que fue convertido por el convertidor D/A en una tensión de salida de 0 – 10 V y compensado por el elemento de incremento, la tarjeta de control A0311 no pudo desconectar la señal "Wi" introducida desde la salida del CRC al regulador de tracción EDYN 22.
 La filtración prolongada de agua sobre el campo de conectores del pupitre de control de la cabina de conducción II, con el resultado de la aparición y propagación de la corrosión en los conectores XK21, XK24, XK25, XK26, XK29 y XK30, no puede, en vista de los hallazgos anteriores, valorarse en relación causal con la aparición de la MU.
 ### 4.3 Conclusiones
@@ -1037,8 +1039,8 @@ El operador, ČD, a. s., mediante el sistema de medidas organizativas y tecnoló
 La causa fundamental de la MU fue el uso del HDV 362.171-1 con la tarjeta de control A0311 en el CRC en una posición incorrecta.
 El operador ČD, a. s., en el sentido del § 35 apartado 1 letra d) de la Ley n.º 266/1994 Sb., no garantizó, durante la explotación del transporte ferroviario, el uso del HDV 362.171-1 en un estado técnico que correspondiera a la aptitud aprobada, al usar el HDV 362.171-1 con la tarjeta de control A0311 en la posición de la tarjeta de diagnóstico A0301, es decir, con la tarjeta de control A0311 en una posición incorrecta, donde la tarjeta de control A0311 quedaba fuera de servicio. Esta no podía, ante una aplicación arbitraria, accidental en los contadores CRC y la posterior integración mediante el elemento de incremento de la señal de salida "Wi", con un valor de tensión creciente de 0 a 10 V, con una pendiente de incremento de 8 s, conducida al regulador de tracción EDYN 22, desconectar la señal "Wi".
 
-
 ## Página 38
+
 
 ### 4.3.3 Causas derivadas del marco normativo y del uso del sistema de garantía de la seguridad
 La causa derivada del marco normativo y del uso del sistema de garantía de la seguridad es la falta de garantía en la organización del mantenimiento de los HDV de las series 362 (363) de modo que el sistema de mantenimiento preventivo de los niveles inferiores de mantenimiento incluyera también la comprobación de la posición correcta de la tarjeta de control A0311 en el CRC.
@@ -1064,41 +1066,41 @@ ante la detección de corrosión de los contactos del campo de conectores del pu
 
 ## Página 39
 
-La verificación de la posición correcta de la tarjeta de control A0311 y de la tarjeta de diagnóstico A0301 la incorporará el transportista como parte del mantenimiento operativo O y de la pequeña revisión periódica M. La verificación del funcionamiento correcto del interruptor de presión S513 la incorporará el transportista en el contenido de cada tercera pequeña revisión periódica M. El plazo de ejecución de estas medidas en las locomotoras de las series 162, 163, 263, 362 y 363 es de 12 meses desde su emisión.
+La verificación de la posición correcta de la tarjeta de control A0311 y de la tarjeta de diagnóstico A0301 la incorporará el transportista como parte del mantenimiento operativo O y de la pequeña revisión periódica M. La verificación del funcionamiento correcto del interruptor de presión S513 la incorporará el transportista al contenido de cada tercera pequeña revisión periódica M. El plazo de ejecución de estas medidas en las locomotoras de las series 162, 163, 263, 362 y 363 es de 12 meses desde su emisión.
 Junto con lo anterior, se acreditará que todo el personal de servicio ha sido informado de la prohibición de manipular la tarjeta de control A0311 y la tarjeta de diagnóstico A0301.
-## 6  RECOMENDACIONES DE SEGURIDAD
-La Inspección Ferroviaria, como autoridad competente en la materia según lo dispuesto en el apartado 5 del artículo 53b de la Ley núm. 266/1994 Sb., sobre la base de los resultados de la investigación de las causas y circunstancias del suceso ferroviario (MU), para reducir la probabilidad de que se produzcan sucesos ferroviarios similares, recomienda al transportista České dráhy, a. s., y a todos los demás transportistas que utilicen, en la explotación del transporte ferroviario, locomotoras de las series 162, 163, 362 y 363:
+## 6 RECOMENDACIONES DE SEGURIDAD
+La Inspección Ferroviaria, como autoridad competente en la materia según lo dispuesto en el § 53b apartado 5 de la Ley núm. 266/1994 Sb., sobre la base de los resultados de la investigación de las causas y circunstancias del accidente ferroviario (MU), para reducir la probabilidad de que se produzcan accidentes ferroviarios similares, recomienda al transportista České dráhy, a. s., y a todos los demás transportistas que utilicen, en la explotación del transporte ferroviario, locomotoras de las series 162, 163, 362 y 363:
 1.
 incorporar al sistema de niveles de mantenimiento inferiores de las locomotoras de las series 162, 163, 362 y 363 la verificación periódica de la posición correcta de las tarjetas en la CRC, es decir, también de la tarjeta de control A0311, situada en la CRC en la posición a la derecha de la tarjeta A6102 y a la izquierda de la tarjeta de diagnóstico A0301;
 2.
-en la CRC de las locomotoras de las series 162, 163, 362 y 363, garantizar la posición de la tarjeta de control A0311 frente a manipulaciones no deseadas por personas no autorizadas;
+en la CRC de las locomotoras de las series 162, 163, 362 y 363, garantizar la posición de la tarjeta de control A0311 frente a la manipulación no deseada por persona no autorizada;
 3.
-en las locomotoras de las series 162, 163, 362 y 363, proteger los campos de conectores de los puestos de mando en las cabinas del maquinista (conectores XK 21 a XK 36) contra la entrada de agua y suciedad;
+en las locomotoras de las series 162, 163, 362 y 363, proteger los campos de conectores de los pupitres de mando en las posiciones del conductor de locomotora (conectores XK 21 a XK 36) contra la entrada de agua y suciedad;
 4.
-incorporar al sistema de formación periódica de los maquinistas un contenido centrado en la resolución de situaciones de crisis que se manifiesten mediante un comportamiento no estándar de la locomotora, incluida la resolución de la situación en la que la locomotora aplique tracción de forma arbitraria, no por voluntad del maquinista.
-La Inspección Ferroviaria recomienda asimismo a la Autoridad Ferroviaria la adopción de una medida propia encaminada a garantizar la ejecución de la recomendación de seguridad anteriormente mencionada también en otros operadores de transporte ferroviario en la República Checa que utilicen, en la explotación del transporte ferroviario, locomotoras de las series 162, 163, 362 y 363.
+incorporar al sistema de formación periódica de los conductores de locomotora un contenido centrado en la resolución de situaciones de crisis que se manifiesten mediante un comportamiento no estándar de la locomotora, incluida la resolución de la situación en que la locomotora aplique tracción de forma arbitraria, no por voluntad del conductor de locomotora.
+La Inspección Ferroviaria recomienda asimismo a la Autoridad Ferroviaria la adopción de una medida propia encaminada a garantizar la ejecución de la recomendación de seguridad anterior también en otros operadores de transporte ferroviario en la República Checa que utilicen, en la explotación del transporte ferroviario, locomotoras de las series 162, 163, 362 y 363.
 En Brno, a 16. 03. 2010
 Ing. Petr Maikranz
 Ing. Stanislav Handl
 Inspector jefe
 Director
-de la Inspección Territorial de Brno, s. f.
-de la Inspección Territorial de Brno, s. f.
-
+De la Inspección Territorial de Brno, s. f.
+De la Inspección Territorial de Brno, s. f.
 
 ## Página 40
+
 
 ## 7  ANEXOS
 ### 7.1 Documentación fotográfica del lugar del suceso ferroviario
 Foto 1: Vista del frontal trasero de la locomotora 362.171-1 en el sentido de la marcha
 Foto 2: Vista del lugar de la colisión, vista desde la vía n.º 511
 
-
 ## Página 41
+
 
 Foto 3: Vista de la destrucción de la cabina II de la locomotora 362.171-1 y del frontal del vagón de viajeros 51 54 20-41 843-3 desde la vía n.º 511
 
-
 ## Página 42
+
 
 ### 7.2 Plano del lugar del suceso ferroviario

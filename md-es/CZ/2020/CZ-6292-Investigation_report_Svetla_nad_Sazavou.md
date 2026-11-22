@@ -10,13 +10,14 @@ chars: 81679
 ratio_longitud: 1.26
 tokens_in: 37604
 tokens_out: 38601
-verificacion: revisar
-notas_cifras: ["bloque 4: cifras cortas: 1/136", "bloque 7: cifras cortas: 2/19"]
-avisos: ["bloque 7: marcadores de página: 3 vs 2"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 3: original bilingüe: se compara contra el idioma principal (CS)", "página 4: original bilingüe: se compara contra el idioma principal (CS)", "página 7: original bilingüe: se compara contra el idioma principal (CS)", "página 8: original bilingüe: se compara contra el idioma principal (CS)", "página 11: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -46,13 +47,13 @@ IČ: 75009561
 mail@dicr.cz
 tel.: +420 736 521 003
 
-
 ## Página 2
+
 
 El presente informe final es público y todos los hechos en él expuestos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ### 1 RESUMEN
 Fuente: Drážní inspekce
@@ -83,51 +84,24 @@ involuntario o erróneo del botón en el pupitre de control del aparato de encla
 de estación, de modo que no pueda permitirse la circulación de vehículos ferroviarios
 en la vía excluida;
 
-
 ## Página 4
 
-distraer la atención del jefe de estación de la estación de ferrocarril Světlá nad Sázavou de
+desvío de la atención del jefe de estación de la estación de ferrocarril Světlá nad Sázavou de
 •
-la realización de las operaciones de tráfico relacionadas con la seguridad de las
-circulaciones de trenes, debido al intento de atender simultáneamente las
-peticiones del maquinista del transportista externo que se encontraba en la
-sala de despacho;
-ausencia de un medio técnico en la tecnología del aparato de enclavamiento de
-•
-estación operado, de tipo relé, que hubiera impedido el fallo del operador,
-mencionado en relación causal con la aparición del incidente extraordinario.
-Un factor contribuyente a la continuación del accidente fue:
-no colocación de la señal portátil «Alto» que sirve para proteger la vía excluida en el
-•
-límite de aproximación de la vía principal de circulación 2 de la estación de ferrocarril Světlá nad Sázavou.
-No se ha detectado ninguna causa sistémica por parte de la Drážní inspekce.
+la realización de las operaciones de tráfico relacionadas con la garantía de la circulación de los trenes, debido al intento de resolver simultáneamente las peticiones del maquinista del operador externo que se encontraba en la oficina de tráfico;
+ausencia de un medio técnico en la tecnología del dispositivo de enclavamiento estacional de tipo relé en explotación que hubiera impedido el fallo de servicio, indicado en relación causal con la aparición del suceso excepcional.
+Un factor que contribuyó a la continuación del suceso del accidente fue:
+no colocación de la señal portátil «Alto» destinada a la protección de la vía excluida en el extremo de la vía 2 de la estación de ferrocarril Světlá nad Sázavou.
+La causa sistémica no fue determinada por la Inspección Ferroviaria.
 Recomendaciones de seguridad:
-La Drážní inspekce, con base en lo dispuesto en el § 53e apartado 1 de la ley n.º 266/1994 Sb.,
-recomienda, atendiendo a la repetición del incidente extraordinario por las mismas causas
-y a la prevención de incidentes extraordinarios del mismo tipo de accidente:
-Al Drážní úřad:
-iniciar con el gestor de la infraestructura Správa železnic, státní organizace, la realización de un
-•
-debate experto y un análisis de las posibilidades de efectuar, durante la duración de la
-interrupción de circulación, una modificación de los aparatos de enclavamiento de
-estación o de línea (excepto los aparatos de enclavamiento de estación y de línea de
-tipo electrónico, que funcionan sobre la base de un sistema informático cerrado), que
-impida al empleado operador en la estación con la autorización de circulación en la vía
-principal de circulación excluida establecer las señales permisivas para las
-circulaciones de trenes en las señales de salida. La solución adecuadamente elegida
-deberá después incorporarse en las partes pertinentes de las órdenes de interrupción de
-circulación, con el requisito de realizar una anotación en la documentación pertinente
-del gestor de la infraestructura sobre la introducción de la modificación y, posteriormente,
-sobre la reinspección del correcto funcionamiento tras la devolución del aparato a su
-estado original al finalizar la interrupción de circulación;
-dado que la protección del lugar excluido con la señal portátil «Alto» es un
-•
-elemento de seguridad significativo, completar en los procedimientos tecnológicos de
-los gestores de infraestructura la obligación de proteger el lugar excluido
-inmediatamente después del inicio de la interrupción de circulación. 
+La Inspección Ferroviaria, en virtud de lo dispuesto en el § 53e apartado 1 de la Ley núm. 266/1994 Sb., recomienda, atendiendo al suceso excepcional recurrente por las mismas causas y a la prevención de sucesos excepcionales del mismo suceso del accidente:
 
+Al Organismo Ferroviario:
+iniciar con el operador de la vía Správy železnic, organización estatal, la realización de un debate especializado y un análisis de las posibilidades de realizar, durante el periodo de interrupción, una modificación de los dispositivos de enclavamiento estacionales o de línea (excluyendo los dispositivos de enclavamiento estacionales y de línea de tipo electrónico, que funcionan sobre la base de un sistema informático cerrado) que impida al empleado de servicio en la estación con la autorización de línea concedida para la vía excluida colocar las señales autorizativas para la circulación de trenes en las señales de salida. La solución adecuadamente elegida deberá incorporarse posteriormente a las partes pertinentes de las órdenes de interrupción, con la exigencia de realizar una anotación en la documentación correspondiente del operador de la vía sobre la introducción de la modificación y, posteriormente, sobre la verificación del correcto funcionamiento tras la devolución del dispositivo a su estado original al finalizar la interrupción;
+dado que la protección del punto excluido con la señal portátil «Alto» es un elemento de seguridad significativo, completar en los procedimientos tecnológicos de los operadores de vías la obligación de proteger el punto excluido inmediatamente después del inicio de la interrupción.
 
 ## Página 5
+
 
 ### RESUMEN
 Fecha y hora:      29 de junio de 2020, 8:24 (6:24 GMT).
@@ -185,8 +159,8 @@ las posibilidades de cómo modificar los aparatos de enclavamiento de estación 
 seguridad y señalización de línea (excepto el tipo electrónico de los aparatos de enclavamiento de
 estación o los aparatos de seguridad y señalización de
 
-
 ## Página 6
+
 
 línea que funcionan sobre la base de un sistema informático cerrado) cuando hay una
 ocupación de vía; esta modificación impedirá a los jefes de estación con la autorización de
@@ -206,6 +180,7 @@ ocupación de vía, debido al hecho de que la protección del lugar excluido con
 dispositivo de señal portátil «Alto» es un elemento de seguridad importante.
 
 ## Página 7
+
 
 # Índice
 1. RESUMEN.......................................................................................................................3
@@ -247,8 +222,8 @@ SUMMARY.........................................................................
 4.2 Vehículos ferroviarios e instalaciones técnicas...........................................................23
 4.2.1 Factores o consecuencias derivados del diseño de los vehículos ferroviarios, de la infraestructura ferroviaria o de las instalaciones técnicas.....................................................................23
 
-
 ## Página 8
+
 
 4.2.2 Factores o consecuencias derivados de la instalación y puesta en servicio de los vehículos ferroviarios, de la infraestructura ferroviaria o de las instalaciones técnicas......................................23
 4.2.3 Factores o consecuencias relacionados con los fabricantes de vehículos ferroviarios u otros proveedores de productos ferroviarios............................................................................24
@@ -278,8 +253,8 @@ SUMMARY.........................................................................
 6. RECOMENDACIONES DE SEGURIDAD....................................................................................28
 ANEXOS..............................................................................................................................30
 
-
 ## Página 9
+
 
 ### Lista de siglas y símbolos utilizados
 AB
@@ -335,8 +310,8 @@ Informe Final sobre los resultados de la investigación del suceso extraordinari
 žst.
 estación de ferrocarril
 
-
 ## Página 10
+
 
 ### Lista de siglas de la legislación, normas y reglamentos internos utilizados
 ley núm. 266/1994 Sb.
@@ -349,6 +324,7 @@ reglamento SŽDC D1
 reglamento interno del gestor de la infraestructura SŽ, «SŽDC D1 Reglamento de explotación y de señalización», en la redacción vigente en el momento de la producción del suceso extraordinario
 
 ## Página 11
+
 
 ### 2 INVESTIGACIÓN Y SUS CONTEXTO
 ### 2.1 Decisión de iniciar la investigación
@@ -396,8 +372,8 @@ desarrollo de la investigación o en sus conclusiones.
 Durante la investigación del MU objeto de estudio, ni por parte de DI ni por parte de los
 órganos judiciales se inició ninguna comunicación ni colaboración.
 
-
 ## Página 12
+
 
 ### 2.10 Cualquier otra información relevante para la investigación
 Todas las circunstancias esenciales relativas al desarrollo de la investigación del MU objeto de
@@ -452,8 +428,8 @@ averiadas en el momento del origen del MU. Durante la circulación no asegurada,
 pasó por los pasos a nivel P3690 (pk 240,276) y P3691 (pk 241,065), en los que la PZZ
 estaba en servicio en el momento de su paso. El paso a nivel afectado por la exclusión
 
-
 ## Página 13
+
 
 P3692 en el pk 241,537, con la PZZ desconectada para la 2. TK, no lo cruzó el tren R 988;
 la cabeza del tren se detuvo a 276 m antes de dicho paso a nivel;
@@ -478,8 +454,8 @@ composición del tren R 988. El tren tenía una longitud total de 164 m, 28 ejes
 352 t, un porcentaje de frenado necesario del 114 %, un porcentaje de frenado real del
 115 %, y estaba frenado por el método de frenado I en el modo de frenado R. En el HDV, DI
 
-
 ## Página 14
+
 
 documentó la documentación del tren, los documentos del maquinista, el estado de los
 elementos de mando y control en el puesto de mando núm. 1 y el estado del registrador de
@@ -536,8 +512,8 @@ Otras personas, testigos:
 maquinista del MVTV2.2 003, empleado de SŽ;
 •
 
-
 ## Página 15
+
 
 OZOV en la exclusión conforme a ROV 33147, etapa B., empleado de SŽ;
 •
@@ -592,6 +568,7 @@ maniobras líder núm. P1.
 
 ## Página 16
 
+
 ### 3.1.8 Descripción de las partes pertinentes de la infraestructura y del sistema de señalización
 En el punto del MU, en el sentido de circulación del tren, la vía procedente de la est. Světlá en sentido directo transcurre a nivel del terreno circundante sin pendiente y continúa a continuación mediante un arco a la derecha en trinchera. Se trata de una vía doble electrificada con una velocidad máxima permitida en el punto del MU de 80 km.h-1, protegida en la est. Světlá por un SZZ de 3.ª categoría de tipo relé con señales luminosas (la señal de salida L2 es de mástil, de cinco luces, marcada con bandas rojas y blancas de distinta longitud). La punta de la aguja de enclavamiento n.º 26 para la circulación por la 1.ª o la 2.ª TK se encuentra en el km 240,114. La circulación del tren hasta el punto de detención en el km 241,261 se realizó en el tramo entre la est. Světlá y la est. Leština. La vía en el tramo anteriormente mencionado está protegida por un TZZ de tipo AB bidireccional de tres indicaciones. Durante la circulación no protegida del tren en este tramo se produjo el paso por el ŽP P3690 en el km 240,276 y el P3691 en el km 241,065. La advertencia luminosa, emitida mediante dos luces rojas intermitentes alternas de la señal PZZ, y la advertencia acústica de dichos PZZ estaban en funcionamiento. Los SZZ, TZZ y PZZ mencionados anteriormente no presentaban ninguna avería en el momento de la circulación del tren R 988.
 ### 3.1.9 Cualquier otra información relevante a efectos de la descripción del suceso y de la información básica
@@ -618,8 +595,8 @@ jefe de estación de la
 ◦requirió al maquinista de IDS Cargo a que esperara, ya que cumplía otras obligaciones de tráfico;
 ◦tras la entrada del tren Os 14866 en la 3.ª SK, estableció la vía de entrada para el tren Os 14867 en la 7.ª SK;
 
-
 ## Página 17
+
 
 ◦mientras tanto, volvía a consultar para el maquinista del transportista IDS Cargo en la aplicación «Kazas» cómo estaban las vías de maniobras en la est. Světlá y en la est. Ledeč nad Sázavou, y a continuación comprobó que no tenían autorizada la carga;
 ◦hacia las 8:12 h partieron ambos trenes de cercanías y el maquinista de IDS Cargo, tras la conversación telefónica mantenida con él, volvió a exigirle el permiso para la carga de vagones;
@@ -656,8 +633,8 @@ jefe de estación de la
 ### 3.2.1 Secuencia de hechos que condujeron al suceso extraordinario
 El 29 de junio de 2020 a las 7:50 h se inició entre la est. Světlá y Leština la exclusión conforme a la ROV n.º 33147, fase B. Se excluyó la 2.ª TK y la TV sobre dicha vía. Durante el tiempo de la exclusión, el tráfico ferroviario debía conducirse bidireccionalmente por la 1.ª TK en servicio entre las estaciones
 
-
 ## Página 18
+
 
 anteriormente mencionadas. Tras el inicio de la exclusión en la est. Leština, comenzó a entrar en la 2.ª TK excluida el DV formado por cinco grupos de vehículos de trabajo. Para las necesidades de la investigación del MU, se analiza a continuación el movimiento de la composición señalada en el listado del DV para la exclusión de la 2.ª TK como «P1».
 Actividad del jefe de estación inmediatamente antes del origen del MU:
@@ -667,8 +644,8 @@ El gestor de la infraestructura establece en la normativa interna SŽDC D1, en e
 Fig. n.º 2: Pupitre de control del SZZ en la est. Světlá
  Fuente: DI
 
-
 ## Página 19
+
 
 Estado del SZZ y del TZZ, incluida la colocación del DV en la 2.ª TK excluida:
 El SZZ en la est. Světlá no se vio afectado por la exclusión y estaba plenamente operativo. El jefe de estación podía utilizar todos los elementos de control en el pupitre de control y establecer y proteger plenamente las vías de tren y de maniobras en el extremo de salida y en el extremo de entrada de la estación en dirección a la est. Leština. En la vía excluida había también un TZZ plenamente operativo y el jefe de estación en la est. Světlá tenía concedido el consentimiento de tramo para las circulaciones hacia la 2.ª TK excluida.
@@ -682,6 +659,7 @@ La distancia total entre el frente del HDV del tren R 988 y el frente de la comp
 | • 8:24 h | el tren R 988 pasó junto a la señal de salida L2 con indicación «Vía libre»; « |
 
 ## Página 20
+
 
 | • 8:27 h | el maquinista del tren R 988 comunicó al jefe de estación de la est. Světlá la pérdida de tensión en la TV. en la 2. TK. El jefe de estación le informó de que se había despachado erróneamente a la vía de servicio excluida . . , vía de vía; |
 | • 8:28 h | el jefe de estación de la est. Světlá comunicó la aparición de la MU al servicio de emergencia de accidentes de SŽ PO . , Jihlava; |
@@ -698,8 +676,8 @@ El gestor de la infraestructura ferroviaria, a la hora de planificar las interru
 El transportista está obligado a garantizar que el maquinista conduzca el DV únicamente desde la posición desde la que se tenga la mejor visibilidad, normalmente desde la cabina delantera del maquinista en el sentido de la marcha, que desde la cabina del DV observe la vía y las señales y actúe conforme a los hechos constatados y que durante la marcha no supere la velocidad máxima permitida, establecida en el horario de circulación o impuesta por una velocidad limitada.
 El maquinista del tren R 988, durante la marcha desde la est. Světlá hacia la 2. TK excluida, actuó conforme a las normas para la explotación del transporte ferroviario y según las instrucciones del gestor de la infraestructura ferroviaria.
 
-
 ## Página 21
+
 
 ### Hallazgos:
 En la investigación se constató la infracción de normas legales y de normas internas relativas a las tareas y obligaciones del gestor de la infraestructura ferroviaria, en relación causal con la aparición de la MU:
@@ -728,8 +706,8 @@ artículo 3641 de la norma SŽDC D1:
 "Durante el período de interrupción de servicio, el jefe de estación debe garantizar, mediante un dispositivo de aviso, que no pueda permitirse la circulación de vehículos sobre la vía excluida. Si se excluye una vía de vía y una estación tiene recibido el consentimiento de vía, basta con que este dispositivo lo establezca el jefe de estación en la estación con el consentimiento de vía recibido; en caso contrario, este dispositivo debe establecerlo el jefe de estación de ambas estaciones adyacentes.".
 En la est. Světlá nad Sázavou, aún 34 min. después del inicio de la interrupción de servicio, con la circulación no protegida del tren R 988, no se había realizado la cobertura de la 2. TK excluida mediante la señal portátil "Alto", que debía colocarse antes de la sección eléctrica de la TV en el sentido de salida de la estación (hasta la aparición de la MU y el paso del tren R 988 por el punto sin la señal "Alto" colocada, esta seguía tumbada boca abajo).
 
-
 ## Página 22
+
 
 ### Hallazgos:
 En la investigación se constató la infracción de normas legales y de una norma interna relativas a las tareas y obligaciones del gestor de la infraestructura ferroviaria, que contribuyó a la continuación del proceso del accidente –permitió que el tren R 988 continuara su marcha hacia la vía de vía excluida:
@@ -751,8 +729,8 @@ En la investigación no se constató infracción de las tareas y obligaciones de
 ### 4.1.3 Fabricantes de vehículos ferroviarios u otros proveedores de instalaciones ferroviarias
 En la investigación no se constató infracción de las tareas y obligaciones de los fabricantes de vehículos ferroviarios ni de otros proveedores de productos ferroviarios.
 
-
 ## Página 23
+
 
 ### 4.1.4 Autoridades nacionales de seguridad y Agencia de la Unión Europea para el Ferrocarril
 La autoridad nacional de seguridad es la Oficina Ferroviaria, que de acuerdo con la Ley núm. 266/1994 Sb. es una autoridad administrativa dependiente del Ministerio de Transporte. Su función es, en particular, el ejercicio de la supervisión estatal en materia de infraestructura ferroviaria y en materia de autoridad de construcción, el ejercicio de la autoridad de construcción especial para obras de infraestructura ferroviaria y obras en la infraestructura ferroviaria, la aprobación de vehículos ferroviarios nuevos y modernizados y de dispositivos técnicos designados, y la tramitación de infracciones. La Oficina Ferroviaria tiene la obligación de comunicar, en un plazo de 12 meses desde la fecha de publicación del informe final que contenga las recomendaciones de seguridad dirigidas a la misma, a la Inspección Ferroviaria qué medida ha adoptado en relación con dicha recomendación de seguridad.
@@ -772,6 +750,7 @@ En la investigación no se constataron factores derivados de la instalación y p
 
 ## Página 24
 
+
 ### 4.2.3 Factores o consecuencias relacionados con los fabricantes de material rodante u otro proveedor de productos ferroviarios
 En la investigación no se detectaron factores relacionados con los fabricantes de material rodante u otro proveedor de productos ferroviarios.
 ### 4.2.4 Factores o consecuencias derivados del mantenimiento y la modificación del material rodante o de instalaciones técnicas
@@ -788,8 +767,8 @@ En la investigación no se detectaron factores relacionados con el contenido del
 ### 4.3.3 Factores organizativos y tareas
 En la investigación se detectaron factores relacionados con la organización del trabajo del jefe de estación en el momento de la realización de las operaciones de tráfico asociadas a la circulación de trenes de transporte de pasajeros, incluido el tren R 988. En el mencionado periodo se impusieron simultáneamente al jefe de estación requerimientos por parte del maquinista de un transportista externo, presente físicamente en la DK. Estos se referían a la descarga de vagones ferroviarios y a la ocupación de las vías de maniobras. El jefe de estación, en su declaración de explicaciones, menciona varias veces a este maquinista, quien le planteaba requerimientos para su resolución en el periodo inmediatamente anterior al MU. Asimismo, indica que, a pesar de su actitud de rechazo, en el momento de la resolución de la situación de tráfico, simultáneamente con el cumplimiento de las operaciones de tráfico, atendió los requerimientos de este maquinista. Del texto de la declaración de explicaciones en el capítulo 3.1.9 se puede deducir el intento del jefe de estación de señalar el hecho de que, inmediatamente antes del MU, fue distraído por requerimientos para la realización de tareas que desviaban su atención de la realización de la actividad prioritaria de organización y aseguramiento de la circulación de trenes de transporte de pasajeros. Sin embargo, en la organización del trabajo, el jefe de estación debe otorgar prioridad en primer lugar a la organización segura de
 
-
 ## Página 25
+
 
 la circulación ferroviaria y eliminar siempre de forma decidida los factores perturbadores que afectan a esta actividad.
 El OZOV en la est. Světlá nad Sázavou no garantizó, aún 34 min después del inicio de la vía libre, un elemento de seguridad importante: la cobertura de la 2. TK excluida mediante la señal portátil «Alto», que debía situarse antes de la seccionadora de la TV en dirección desde la estación. Durante más de media hora desde el inicio de la vía libre, hasta la aparición del MU y el paso del tren R 988 por el lugar donde debía instalarse esta señal, esta seguía tendida en el espacio del zanja, boca abajo. La declaración del OZOV de que, de no haberse producido el MU, habría llegado con el tren de trabajo n.º P1 a la est. Světlá, allí habría colocado el disco rojo y habría regresado al puesto de trabajo, desde el punto de vista de la garantía de la seguridad no puede sostenerse, porque en el camino cumplieron aún otras tareas (en el momento de la aparición del MU seguían a más de 6 km de distancia). Con tal procedimiento y actitud puede ocurrir perfectamente que la vía excluida permanezca sin cobertura por un lado durante una hora o incluso más; esta es una situación totalmente inaceptible, especialmente teniendo en cuenta que en algunos casos puede tratarse, en esencia, del último elemento de seguridad ante una eventual circulación no asegurada de vehículos sobre la vía excluida. Por ello es absolutamente necesario que las señales portátiles «Alto» que cubren el lugar excluido se instalen siempre inmediatamente después del inicio de la vía libre. En la norma SŽDC D1, en el art. 3721, se indica: «En caso de vía libre prevista, el OZOV es responsable de la cobertura del lugar excluido, salvo que el VR designe para ello a otro empleado», es decir, el OZOV tiene establecida esta obligación y responsabilidad, pero el elemento de seguridad que falta parece ser la posibilidad de una interpretación libre desde el punto de vista de qué margen temporal tiene realmente para ello (o no tiene) y hasta cuándo debe realmente cubrir la vía excluida; véanse las conclusiones del DI tras la aparición del MU. Tal situación, desde el punto de vista de la garantía de la seguridad de las personas y los mecanismos que trabajan en la vía excluida, es indeseable; esta importante obligación debe cumplirse de forma inmediata.
@@ -805,31 +784,30 @@ En los procedimientos, métodos, contenido y resultados de las actividades de ev
 ### 4.4.3 Sistema de garantía de la seguridad de los transportistas y gestores de infraestructura implicados
 En el sistema de garantía de la seguridad adoptado por el gestor de la infraestructura y el transportista, relacionado con las circunstancias de la aparición del mencionado MU, no se detectaron deficiencias.
 
-
 ## Página 26
 
-### 4.4.4 Sistema de gestión de los sujetos responsables del mantenimiento del material rodante y de los talleres de mantenimiento
-El sistema de gestión de los sujetos responsables del mantenimiento del material rodante y de los talleres de mantenimiento no guardaba relación con la aparición del MU.
+### 4.4.4 Sistema de gestión de los sujetos responsables del mantenimiento de los vehículos ferroviarios y de los talleres de mantenimiento
+El sistema de gestión de los sujetos responsables del mantenimiento de los vehículos ferroviarios y de los talleres de mantenimiento no guardaba relación con la aparición del SU.
 ### 4.4.5 Resultados de la supervisión realizada por las autoridades nacionales de seguridad
-Atendiendo a los factores detectados y a las circunstancias de la aparición del MU, la supervisión de la autoridad de seguridad no guarda relación con el mencionado MU.
-### 4.4.6 Aprobaciones, certificados y dictámenes de evaluación emitidos por la agencia, las autoridades nacionales de seguridad u otros sujetos de evaluación de la conformidad
-El gestor de la infraestructura explotó la infraestructura al amparo de la autorización administrativa vigente y del certificado de seguridad del gestor de la infraestructura. El transportista explotó el transporte ferroviario al amparo de la licencia vigente y del certificado del transportista.
+Atendiendo a los factores y circunstancias apreciados en la aparición del SU, la supervisión de la autoridad de seguridad no guarda relación con el SU en cuestión.
+### 4.4.6 Aprobaciones, certificados y dictámenes de evaluación emitidos por la agencia, las autoridades nacionales de seguridad u otros organismos de evaluación de la conformidad
+El gestor de la infraestructura explotaba la infraestructura en virtud de una autorización administrativa vigente y de un certificado de seguridad del gestor de la infraestructura. El operador ferroviario explotaba el transporte ferroviario en virtud de una licencia vigente y de un certificado del operador.
 ### 4.4.7 Otros factores sistémicos
-En la investigación no se detectaron otros factores sistémicos.
+En la investigación no se apreciaron otros factores sistémicos.
 ### 4.5 Sucesos anteriores de naturaleza similar
-El DI registra, en el periodo comprendido entre el 1. 1. 2013 y la aparición del mencionado MU en las vías ferroviarias, de categoría nacional y regional, un total de 5 MU de carácter similar:
-• del 22. 9. 2015, cuando se produjo la circulación no asegurada del tren Os 12111 sobre la parte excluida de la vía en la est. Praha-Holešovice. La causa inmediata de la aparición del MU fue la incorrecta establecimiento de la vía de tren por el jefe de estación;
-• del 28. 9. 2015, cuando se produjo en la est. Záboří nad Labem la entrada del tren Pn 347307 en la 5. SK excluida tanto en vía como en tracción. La causa inmediata de la aparición del MU fue la incorrecta operación del SZZ;
-• del 14. 12. 2018, cuando se produjo la circulación no asegurada del tren Pn 62228 sobre la vía excluida con el consiguiente descarrilamiento en la est. Nymburk hl. n. en el ámbito de la estación de clasificación. Este MU está siendo investigado por el DI;
-• del 9. 1. 2019, cuando se produjo la circulación no asegurada y la posterior circulación no autorizada del tren Os 5935 sobre la 1. TK excluida desde la estación de ferrocarril Leština u Světlé en dirección a la estación de ferrocarril Světlá nad Sázavou. La causa inmediata de la aparición del MU fue el establecimiento de la vía de tren para el tren Os 5935 desde la estación de ferrocarril Leština u Světlé en dirección a la estación de ferrocarril Světlá nad Sázavou sobre la 1. TK excluida;
-• del 17. 6. 2020, cuando se produjo la circulación no asegurada del tren R 1116 sobre la 2. TK excluida en la est. Prosenice. La causa inmediata de la aparición del MU fue la cancelación prematura de los enclavamientos de emergencia en la vía de tren establecida del tren R 1116 y el cambio de la aguja n.º 26 a la 2. TK excluida en la est. Prosenice.
+El DI registra, en el período comprendido entre el 1 de enero de 2013 y la fecha de aparición del SU en cuestión en las vías ferroviarias, categoría nacional y regional, un total de 5 SU de carácter similar:
+• del 22 de septiembre de 2015, en que se produjo la circulación no protegida del tren Os 12111 sobre una vía excluida en la est. Praha-Holešovice. La causa inmediata de la aparición del SU fue la colocación incorrecta de la ruta de tren por parte del jefe de estación;
+• del 28 de septiembre de 2015, en que se produjo en la est. Záboří nad Labem la entrada del tren Pn 347307 en la 5. SK excluida tanto en vía como en tracción. La causa inmediata de la aparición del SU fue la manipulación incorrecta del SZZ;
+• del 14 de diciembre de 2018, en que se produjo la circulación no protegida del tren Pn 62228 sobre una vía excluida, con el consiguiente descarrilamiento en la est. Nymburk hl. n. en el ámbito de la estación de clasificación. Este SU está siendo investigado por el DI;
+• del 9 de enero de 2019, en que se produjo la circulación no protegida y la posterior circulación no autorizada del tren Os 5935 sobre la 1. TK excluida desde la estación Leština u Světlé en dirección a la estación Světlá nad Sázavou. La causa inmediata de la aparición del SU fue la colocación de la ruta de tren para el tren Os 5935 desde la estación Leština u Světlé en dirección a la estación Světlá nad Sázavou sobre la 1. TK excluida;
+• del 17 de junio de 2020, en que se produjo la circulación no protegida del tren R 1116 sobre la 2. TK excluida en la est. Prosenice. La causa inmediata de la aparición del SU fue la anulación prematura de los cierres de emergencia en la ruta de tren colocada del tren R 1116 y el cambio de la aguja n.º 26 a la 2. TK excluida en la est. Prosenice.
 ### 5 CONCLUSIONES
 ### 5.1 Resumen del análisis y conclusiones relativas a las causas del suceso
-La causa inmediata del suceso extraordinario fue:
-• el establecimiento de la vía de tren para el tren R 988 y su salida desde la estación de ferrocarril Světlá nad Sázavou en dirección a la estación de ferrocarril Leština u Světlé sobre la 2. vía de tráfico excluida.
-
+La causa inmediata del suceso excepcional fue:
+• la colocación de la ruta de tren para el tren R 988 y su salida desde la estación Světlá nad Sázavou en dirección a la estación Leština u Světlé sobre la 2. vía de vía excluida.
 
 ## Página 27
+
 
 Los factores contribuyentes al suceso extraordinario fueron:
 • la incorrecta ubicación del dispositivo mecánico que impide la pulsación o el tirón involuntario o erróneo del botón en el pupitre de control del aparato de enclavamiento de estación, de modo que no pudiera autorizarse la circulación de material rodante sobre la vía excluida;
@@ -853,44 +831,49 @@ Systemic factor: none.
 
 ### 5.2 Medidas adoptadas para prevenir sucesos excepcionales
 El gestor de la infraestructura SŽ adoptó, tras la producción del SU, las siguientes medidas:
-• el despachador fue privado de la competencia profesional para el desempeño de la función hasta que supere el examen profesional D-07;
-• el 13 de octubre de 2020 se emitió una hoja informativa del jefe del circuito de explotación Jihlava para los empleados con la función de despachador en el ámbito de la Oficina Regional Brno – su contenido son las informaciones sobre la causa determinada de la producción del SU determinada por el gestor de la infraestructura, la necesidad de máxima concentración del despachador en la realización de las operaciones de tráfico y la posibilidad de expulsar al empleado del operador ferroviario de la sala de despacho durante el tiempo en que se realicen – las peticiones del empleado del operador ferroviario se resolverán entonces posteriormente, tras la realización de las operaciones de tráfico.
+• El jefe de estación fue privado de la competencia profesional para el desempeño de la función hasta que supere el examen profesional D-07;
+• El 13 de octubre de 2020 se emitió la hoja informativa del jefe del circuito de explotación Jihlava para los empleados con la función de jefe de estación en el ámbito de la OŘ Brno – su contenido son las informaciones sobre la causa determinada del SU, determinada por el gestor de la infraestructura, la necesidad de máxima concentración del jefe de estación en la realización de las operaciones de tráfico y la posibilidad de expulsar al empleado del operador ferroviario de la sala de tráfico durante el tiempo en que se realicen – las peticiones del empleado del operador ferroviario se resolverán entonces posteriormente, tras la realización de las operaciones de tráfico.
 El operador ferroviario ČD no adoptó ni emitió ninguna medida.
-
-### Medidas adoptadas desde la producción
-El gestor de la infraestructura SŽ adoptó la siguiente medida tras la producción:
-• El despachador ha sido privado de la competencia profesional para el desempeño de la función hasta que supere el examen profesional D-07";
-• La hoja informativa del jefe del circuito de explotación Jihlava para los empleados con la función de despachador fue emitida el 13 de octubre de 2020 – el contenido de esta hoja incluye informaciones sobre la causa del SU determinada por el gestor de la infraestructura, enfatiza que el despachador debe estar máximamente concentrado en la realización de las operaciones de tráfico y hace referencia a la posibilidad del despachador de expulsar al empleado del operador ferroviario de la sala de despacho cuando el despachador esté realizando las operaciones de tráfico – lo que significa que las peticiones del empleado del operador ferroviario se resolverán tras la realización de las operaciones de tráfico.
+### Medidas adoptadas desde la producción del suceso
+El gestor de la infraestructura SŽ adoptó la siguiente medida tras la producción del suceso:
+• El jefe de estación fue privado de la competencia profesional para el desempeño de la función hasta que supere el examen profesional D-07;
+• La hoja informativa del jefe del circuito de explotación Jihlava para los empleados con la función de jefe de estación se emitió el 13 de octubre de 2020 – el contenido de esta hoja incluye las informaciones sobre la causa del suceso determinada por el gestor de la infraestructura, subraya que el jefe de estación debe estar máximamente concentrado en la realización de las operaciones de tráfico y hace referencia a la posibilidad del jefe de estación de expulsar al empleado del operador ferroviario de la sala del jefe de estación cuando el jefe de estación esté realizando las operaciones de tráfico – lo que significa que las peticiones del empleado del operador ferroviario se resolverán después de la realización de las operaciones de tráfico.
 El operador ferroviario ČD no adoptó ninguna medida.
-
 ### 5.3 Observaciones complementarias
 En el gestor de la infraestructura SŽ:
-• ubicación del señal móvil con la señal „Alto" en la estación Leština u Světlé a una altura incorrecta sobre la cabeza del carril.
-
-### Observaciones adicionales
+• Ubicación de la señal móvil con la señal «Alto» en la estación de Leština u Světlé a una altura incorrecta por encima de la cabeza del carril.
+### Observaciones complementarias
 En el gestor de la infraestructura SŽ:
-• el dispositivo de señal móvil con la señal „Alto" en la estación Leština u Světlé estaba ubicado a una altura incorrecta sobre la cabeza del carril.
-
+• La señal móvil con la señal «Alto» en la estación de Leština u Světlé estaba ubicada a una altura incorrecta por encima de la cabeza del carril.
 ### 6 RECOMENDACIONES DE SEGURIDAD
-La Inspección Ferroviaria, en virtud de lo dispuesto en el § 53e apartado 1 de la Ley núm. 266/1994 Sb., recomienda, en relación con la prevención de sucesos excepcionales:
-A la Autoridad Ferroviaria:
-• iniciar con el gestor de la infraestructura Správy železnic, státní organizace, una discusión experta y un análisis de las posibilidades de realizar, durante el tiempo de la intervención, una modificación de las instalaciones de enclavamiento de estación o de línea (excluidas las instalaciones de enclavamiento de estación y de línea de tipo electrónico, que funcionan sobre la base de un sistema informático cerrado) que impida al empleado operador en la estación con la autorización de línea concedida a la vía de exclusión colocar las señales autorizadoras para la circulación de trenes en las señales de salida. La solución adecuadamente elegida se incorporará entonces en las partes pertinentes de las órdenes de intervención, con el requisito de realizar un registro en la documentación pertinente del gestor de la infraestructura sobre la introducción de la modificación y, posteriormente, sobre la verificación del correcto funcionamiento tras el restablecimiento del dispositivo a su estado original al finalizar la intervención;
-• dado que la protección del punto excluido con la señal móvil „Alto" es un elemento de seguridad significativo, completar en los procedimientos tecnológicos de los gestores de la infraestructura la obligación de proteger el punto excluido inmediatamente tras el inicio de la intervención.
+La Inspección Ferroviaria, con base en lo dispuesto en el artículo 53e, apartado 1, de la Ley n.º 266/1994 Sb., recomienda, en vista de la prevención de sucesos excepcionales:
+Al Organismo Ferroviario:
+• Iniciar en el gestor de la infraestructura Správy železnic, organización estatal, la realización de un debate profesional y un análisis de las posibilidades de efectuar, durante el tiempo de la interrupción, una modificación de las instalaciones de seguridad de estación o de línea (excepto las instalaciones de seguridad de estación y de línea
 
+## Página 29
+
+de tipo electrónico, que funcionan sobre la base de un sistema informático cerrado), que impidan al empleado de servicio en la estación con la autorización de línea concedida para la vía de tráfico excluida la colocación de señales autorizativas para la circulación de trenes en las señales de salida. La solución adecuadamente elegida debe incorporarse a continuación en las partes pertinentes de las órdenes de ocupación, con el requisito de realizar una anotación en la documentación correspondiente del gestor de la infraestructura sobre la introducción de la modificación y, posteriormente, sobre la verificación del correcto funcionamiento tras el restablecimiento del equipo a su estado original al finalizar la ocupación;
+dado que la protección del punto excluido con la señal portátil «Alto» es un
+•
+elemento de seguridad significativo, completar en los procedimientos tecnológicos de los gestores de la infraestructura la obligación de proteger el punto excluido inmediatamente después del inicio de la ocupación.
 ### RECOMENDACIONES DE SEGURIDAD
 Dirigidas a la Autoridad Nacional de Seguridad Checa (la NSA):
-• iniciar una discusión experta con el gestor de la infraestructura que dé como resultado un análisis de las posibilidades de modificar las instalaciones de enclavamiento de estación o las instalaciones de seguridad y señalización de línea (excepto las instalaciones de enclavamiento de estación o de seguridad y señalización de línea de tipo electrónico que funcionan sobre la base de un sistema informático cerrado) cuando haya una ocupación de vía; esta modificación impedirá que los despachadores con la autorización de línea concedida a la vía de exclusión coloquen las señales autorizadoras para la circulación de trenes en los dispositivos de señal principal. A continuación, la solución adecuadamente elegida se incorporará en las partes pertinentes de las órdenes de ocupación y se registrará en la documentación pertinente del gestor de la infraestructura. Tras el restablecimiento de la instalación de enclavamiento de estación a buen funcionamiento cuando finalice la ocupación de vía, el registro sobre la verificación del correcto funcionamiento deberá realizarse también en la documentación pertinente del gestor de la infraestructura;
-• completar la obligación prescrita en los procedimientos tecnológicos de los gestores de la infraestructura de modo que la obligación de proteger el punto excluido con el dispositivo de señal móvil „Alto" deba cumplirse inmediatamente cuando comience la ocupación de vía, dado que la protección del punto excluido con el dispositivo de señal móvil „Alto" es un elemento de seguridad importante.
-
+iniciar una discusión experta con el gestor de la infraestructura, que debería
+•
+dar lugar al análisis de las posibilidades de modificar los aparatos de enclavamiento de estación o los aparatos de seguridad y señalización de línea (excepto los aparatos de enclavamiento de estación o los aparatos de seguridad y señalización de línea de tipo electrónico que funcionan sobre la base de un sistema informático cerrado) cuando existe una ocupación de vía; esta modificación impedirá a los despachadores de estación con la autorización de línea concedida para la vía de tráfico excluida colocar las señales autorizativas para la circulación de trenes en los aparatos de señales principales. A continuación, la solución adecuadamente elegida debe incorporarse en las partes pertinentes de las órdenes de ocupación y debe anotarse en la documentación correspondiente del gestor de la infraestructura. Tras el restablecimiento del aparato de enclavamiento de estación a buen funcionamiento cuando finaliza la ocupación de vía, debe realizarse también en la documentación correspondiente del gestor de la infraestructura la anotación sobre la verificación del correcto funcionamiento;
+modificar la obligación prescrita en los procedimientos tecnológicos de los gestores
+•
+de la infraestructura de modo que la obligación de proteger el punto excluido con el aparato de señal portátil «Alto» debe cumplirse inmediatamente cuando comienza la ocupación de vía, dado que la protección del punto excluido con el aparato de señal portátil «Alto» es un elemento de seguridad significativo.
 En Brno, a 22 de febrero de 2021
 Libor Bruzl v. r.
 Bc. Josef Dvořák v. r.
-Inspector
-Director
-Oficina Regional de Brno
-Oficina Regional de Brno
+inspector
+director
+de la Inspección Territorial de Brno
+de la Inspección Territorial de Brno
 
 ## Página 30
+
 
 ### ANEXOS
 Fig. núm. 3: Señal L2 en la estación Světlá

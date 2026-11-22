@@ -10,13 +10,14 @@ chars: 138100
 ratio_longitud: 1.26
 tokens_in: 69825
 tokens_out: 46667
-verificacion: revisar
-notas_cifras: ["bloque 1: cifras cortas: 2/107", "bloque 2: original bilingüe: se compara contra el idioma principal (CS)", "bloque 3: original bilingüe: se compara contra el idioma principal (CS)", "bloque 4: original bilingüe: se compara contra el idioma principal (CS)", "bloque 5: original bilingüe: se compara contra el idioma principal (CS)", "bloque 14: original bilingüe: se compara contra el idioma principal (CS)"]
-avisos: ["bloque 4: ratio 1.81"]
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 3: cifras cortas: 2/12", "página 5: original bilingüe: se compara contra el idioma principal (EN)", "página 6: original bilingüe: se compara contra el idioma principal (PT)", "página 8: original bilingüe: se compara contra el idioma principal (PT)", "página 10: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 Inspección Ferroviaria
 República Checa
@@ -43,11 +44,12 @@ IČO:   75009561
 http://www.dicr.cz
 fax: (+420) 224 805 428
 
-
 ## Página 2
 
 
+
 ## Página 3
+
 
 # RESUMEN
 Grado:
@@ -90,11 +92,12 @@ Se recomienda exigir la implementación de la recomendación anterior
 por parte de todos los gestores de infraestructura ferroviaria que operen
 líneas ferroviarias regionales.
 
-
 ## Página 4
 
 
+
 ## Página 5
+
 
 # Índice
  Resumen .............................................................................................................................3
@@ -130,6 +133,7 @@ contractual ....................................................................
 
 ## Página 6
 
+
 3.1.2 Otras personas .........................................................................................................14
 3.2 Sistema de garantía de la seguridad ...............................................................................14
 3.2.1 Organización marco y forma en que se emiten y aplican las instrucciones .......14
@@ -160,8 +164,8 @@ aplicación ....................................................................
 ............................................................................................................................29
 4.2 Análisis ......................................................................................................................30
 
-
 ## Página 7
+
 
 4.2.1 Evaluación de los hechos establecidos según el punto 3 y formulación de conclusiones sobre la causa del suceso excepcional y la actuación de los servicios de emergencia ..........................................30
 4.3 Conclusiones .......................................................................................................................36
@@ -179,6 +183,7 @@ aplicación ....................................................................
  Fig. n.º 2 Vista del torso de partes del remolque tras el suceso excepcional (Foto RIBŽD Praha) ......39
 
 ## Página 8
+
 
 ## 1 RESUMEN
 Grupo del suceso: accidente.
@@ -198,8 +203,8 @@ La Inspección Ferroviaria, como autoridad competente en virtud de lo dispuesto 
 La recomendación de seguridad fue remitida al explotador de la infraestructura, que hasta el 30/06/2008 fue České dráhy, a. s., y desde el 01/07/2008 es Správa železniční dopravní cesty, s. o., con el ref. 5-236/2008/DI.
 La Inspección Ferroviaria recomienda asimismo a la autoridad administrativa competente, que es el Drážní úřad, la adopción de una medida propia encaminada a garantizar la aplicación de la recomendación de seguridad anteriormente mencionada también en otros explotadores de ferrocarriles, categoría de ferrocarril regional, en la República Checa.
 
-
 ## Página 9
+
 
 ## 2 DATOS RELATIVOS AL SUECO EXTRAORDINARIO
 ### 2.1 Suceso extraordinario
@@ -212,26 +217,21 @@ Desde el nivel de la señal de advertencia con la indicación «Pískejte» (Pit
 
 ## Página 10
 
-El maquinista del tren Os 3610 comunicó el suceso de la MU inmediatamente después de que este se produjera a la persona que dirige el tráfico ferroviario en la est. Ostružná (en adelante, el jefe de estación), por medio de la estación de radio del vehículo. El Sistema Integrado de Emergencias (en adelante, IZS) fue activado por el jefe de estación de la est. Ostružná. En el lugar de la MU actuaron el Servicio de Bomberos y Rescate del operador de la infraestructura ferroviaria Správa železniční dopravní cesty, organización estatal, Olomouc, y la Policía de la República Checa – Inspección de Tráfico de Jeseník – Grupo de accidentes de tráfico.
+El maquinista del tren Os 3610 comunicó el suceso de la MU inmediatamente después de que esta se produjera a la persona que dirige el tráfico ferroviario en la est. Ostružná (en adelante, el jefe de estación) por medio de la estación de radio del vehículo. El Sistema Integrado de Emergencias (en adelante, IZS) fue activado por el jefe de estación de Ostružná. En el lugar de la MU actuaron el Servicio de Bomberos y Rescate del operador de la infraestructura Správa železniční dopravní cesty, organización estatal, Olomouc, y la Policía de la República Checa – Inspección de Tráfico de Jeseník – Grupo de accidentes de tráfico.
 2.1.3 Decisión de iniciar la investigación de las causas y circunstancias del suceso, composición del equipo de personas cualificadas y método de dirección de la investigación de las causas y circunstancias del suceso
-El suceso de la MU fue comunicado a la Inspección Ferroviaria (en adelante, DI) en el Centro Central de Notificaciones de Praga (en adelante, COP) por parte del operador de la infraestructura ferroviaria y del operador del transporte ferroviario el día 23. 11. 2008 a las 12:24 h, es decir, 47 min después del suceso de la MU, por el inspector superior de České dráhy, a. s., de la Inspección Regional de Seguridad del Transporte Ferroviario (en adelante, RIBŽD) Praga, centro de trabajo Česká Třebová.
-En la MU no se produjeron daños a la salud ni daños considerables. El empleado del COP, sobre la base de los hechos comunicados, concedió inmediatamente al operador de la infraestructura ferroviaria y al transportista el permiso para iniciar los trabajos de limpieza. La DI no se desplazó al lugar del suceso de la MU para investigar las causas y circunstancias del suceso.
-El día 05. 12. 2008 la DI, en el sentido de lo dispuesto en el § 11 apartado 2 del decreto núm. 376/2006 Sb., sobre el sistema de seguridad de la explotación de la infraestructura ferroviaria y del transporte ferroviario y los procedimientos en caso de sucesos excepcionales en las vías férreas (en adelante, decreto núm. 376/2006 Sb.), decidió iniciar la investigación de las causas y circunstancias del suceso de la MU en cuestión. El motivo de esta decisión fue el hecho de que la MU en cuestión pertenece a la serie de MU significativas para todo el sistema de explotación de la infraestructura ferroviaria de categoría nacional, al haberse producido la MU en un PAF (paso a nivel), obra de la infraestructura ferroviaria que, en el sentido de lo dispuesto en el § 88 apartado 2 del decreto núm. 177/1995 Sb., por el que se dicta el reglamento de construcción y técnico de las vías férreas, en su redacción vigente (en adelante, decreto núm. 177/1995 Sb.), fue construida y puesta en servicio según la normativa anterior y que puede explotarse hasta la próxima reconstrucción o modernización. La investigación de las causas y circunstancias del suceso de la MU fue encomendada a la Inspección Territorial de Ostrava. La investigación de las causas y circunstancias del suceso de la MU fue realizada por la DI en el sentido de lo dispuesto en el § 53b de la ley núm. 266/1994 Sb., sobre vías férreas, en su redacción vigente (en adelante, ley núm. 266/1994 Sb.), y en los §§ 11 y 12 del decreto núm. 376/2006 Sb.
+El suceso de la MU fue comunicado a la Inspección Ferroviaria (en adelante, DI) en el Centro Central de Notificaciones de Praga (en adelante, COP) como operador de la infraestructura y operador del transporte ferroviario el día 23. 11. 2008 a las 12:24 h, es decir, 47 min después de que se produjera la MU, por el inspector superior de České dráhy, a. s., de la Inspección Regional de Seguridad del Transporte Ferroviario (en adelante, RIBŽD) Praga, centro de trabajo Česká Třebová.
+En la MU no se produjeron daños a la salud ni daños considerables. El empleado del COP, sobre la base de los hechos comunicados, concedió de inmediato al operador de la infraestructura y al transportista el permiso para iniciar los trabajos de despeje. La DI no se desplazó al lugar de la MU para investigar las causas y circunstancias de su producción.
+El día 05. 12. 2008 la DI, en el sentido de lo dispuesto en el apartado 2 del artículo 11 del decreto núm. 376/2006 Sb., sobre el sistema de seguridad de la explotación de la infraestructura y del transporte ferroviario y los procedimientos en caso de sucesos excepcionales en las vías férreas (en adelante, decreto núm. 376/2006 Sb.), decidió iniciar la investigación de las causas y circunstancias de la MU en cuestión. El motivo de esta decisión fue el hecho de que la MU en cuestión se incluye en la serie de MU significativas para todo el sistema de explotación de la infraestructura de categoría nacional, al haberse producido la MU en la Línea férrea, obra de la vía férrea que, en el sentido de lo dispuesto en el apartado 2 del artículo 88 del decreto núm. 177/1995 Sb., por el que se aprueba el reglamento de construcción y técnico de las vías férreas, en su redacción vigente (en adelante, decreto núm. 177/1995 Sb.), fue construida y puesta en servicio de acuerdo con la normativa anterior y que puede explotarse hasta la próxima reconstrucción o modernización. La investigación de las causas y circunstancias de la MU fue encomendada a la Inspección Territorial de Ostrava. La investigación de las causas y circunstancias de la MU fue realizada por la DI en el sentido de lo dispuesto en el artículo 53b de la ley núm. 266/1994 Sb., sobre vías férreas, en su redacción vigente (en adelante, ley núm. 266/1994 Sb.), y en los artículos 11 y 12 del decreto núm. 376/2006 Sb.
 ### 2.2 Circunstancias del suceso excepcional
-### 2.2.1 Empleados participantes del operador de la infraestructura ferroviaria y del transportista, personas en relación contractual y otros participantes y testigos
-Empleados participantes del operador de la infraestructura ferroviaria y del transportista:
-maquinista del tren Os 3610, empleado del transportista České dráhy, a. s., Depósito de
-●
-vehículos sobre raíles (en adelante, DKV) Olomouc;
-jefe de la escolta del tren Os 3610, empleado del transportista České dráhy, a. s., Centro
-●
-Regional de escolta de trenes Olomouc.
+### 2.2.1 Empleados participantes del operador de la infraestructura y del transportista, personas en relación contractual y otros participantes y testigos
+Empleados participantes del operador de la infraestructura y del transportista:
+● maquinista del tren Os 3610, empleado del transportista České dráhy, a. s., Depósito de vehículos sobre raíles (en adelante, DKV) Olomouc;
+● jefe de acompañamiento del tren Os 3610, empleado del transportista České dráhy, a. s., Centro Regional de Acompañamiento de Trenes Olomouc.
 Otros participantes:
-conductor del vehículo automóvil LADA NIVA SPECIÁL PRAKTIK.
-●
-
+● conductor del vehículo de motor por carretera LADA NIVA SPECIÁL PRAKTIK.
 
 ## Página 11
+
 
 2.2.2 Trenes y su composición, incluidos los números de registro de los distintos vehículos ferroviarios
 El tren Os 3610 estaba destinado al transporte de pasajeros. La estación de origen del tren era la est. Jeseník y la de destino la est. Šumperk.
@@ -246,6 +246,7 @@ La velocidad general en la vía general entre la est. Horní Lipová y la est. O
 El PAF permite en el km 20,285 el cruce de la vía ferroviaria de categoría nacional, Mikulovice frontera de est. – Hanušovice, con una carretera de servicio, a nivel de la vía. La carretera cruza la vía ferroviaria en un ángulo de 45°. La superficie de la calzada del paso a nivel está formada por resina asfáltica con transición a superficie asfáltica en la continuación de la carretera de servicio. La carretera en el sentido de la circulación del vehículo automóvil desde la carretera estatal de clase II núm. 369 hasta el nivel del PAF discurre en una curva ligeramente a la izquierda, con una pendiente longitudinal del 0 %. Tras el PAF, la carretera asciende con una pendiente longitudinal del +2 %. La anchura libre de la carretera es de 6,4 m. La velocidad máxima de los vehículos por el PAF, en el sentido de lo dispuesto en el § 28 apartado 3 de la ley núm. 361/2000 Sb., sobre la circulación en las carreteras, en su redacción vigente, es de 30 km.h-1. El PAF está señalizado y protegido únicamente con una cruz de advertencia, con la señal vertical A 32a – «Cruz de advertencia para paso a nivel de vía única», que es para
 
 ## Página 12
+
 
 mejora de la visibilidad de la señal de tráfico colocada sobre un soporte fluorescente amarillo-verde retroreflectante. 
 Antes del PFE, a ambos lados del PFE a la derecha en la vía pública, se encuentran colocadas señales de tráfico verticales 
@@ -288,8 +289,8 @@ Praga, centro de trabajo Česká Třebová, es decir, por la persona designada, 
 n.º 376/2006 Sb. para la determinación de las causas y circunstancias de la producción del MU, a las 12:24 h, 
 es decir, 47 minutos después de la producción del MU.
 
-
 ## Página 13
+
 
 ### 2.2.7 Activación del plan del sistema integrado de emergencia, policía y servicio 
 médico de emergencia y secuencia de acontecimientos
@@ -324,23 +325,23 @@ El lugar del MU se encuentra en el término municipal de Ramzová, coordenadas G
 
 ## Página 14
 
-## 3 RESUMEN DE LAS EXPLICACIONES FACILITADAS
-### 3.1 Resumen de las explicaciones facilitadas
-### 3.1.1 Personal del gestor de la infraestructura y del transportista, incluidas personas en relación contractual
+## 3 REGISTRO DE EXPLICACIONES PRESENTADAS
+### 3.1 Resumen de las explicaciones presentadas
+### 3.1.1 Empleados del gestor de la vía y del transportista, incluidas personas en relación contractual
 Maquinista del tren Os 3610:
 En el documento «Acta con el empleado», elaborado por el transportista el 24. 11. 2008 en DKV Olomouc, Centro de explotación Šumperk, se indica, entre otras cosas:
-«... Estaba entrando con el tren en la parada Ramzová; desde la señal con la indicación «Pite» dí repetidamente la señal de «atención». Debido a la intensa nevada, la visibilidad estaba considerablemente reducida. Justo antes del paso a nivel en el pk 20,285 vi entrar desde la izquierda en dicho paso a nivel un vehículo de motor. Inmediatamente apliqué el frenado de emergencia. No logré detener el tren y se produjo un impacto en el remolque que estaba enganchado a dicho automóvil. Inmediatamente informé por radio al jefe de estación de la est. Ostružná...».
+«... Entraba con el tren en la parada Ramzová; desde la señal con la indicación «Pitido» daba repetidamente la señal de «atención». Debido a la intensa nevada, la visibilidad estaba notablemente reducida. Justo antes del paso a nivel en el km 20,285 vi entrar por la izquierda en este paso a nivel un vehículo de turismo. Inmediatamente apliqué el frenado de emergencia. No logré detener el tren y se produjo un impacto en el remolque que estaba acoplado a este automóvil. Inmediatamente informé por radio al jefe de estación de la est. Ostružná...».
 ### 3.1.2 Otras personas
-Conductor del vehículo de motor de carretera LADA NIVA:
-Del documento «REGISTRO OFICIAL de la explicación facilitada», elaborado por la Policía de la República Checa el 23. 11. 2008, se desprende, entre otras cosas:
-En el momento de producirse el MU, en la vía pública había una capa de nieve compactada. Nevaba intensamente y soplaba un viento lateral. El vehículo de motor de carretera circulaba a una velocidad de aprox. 15-20 km.h-1. Antes de entrar en el PNV, el conductor miró a ambos lados y continuó la marcha. La ulterior marcha se describe en el documento: «... cuando con el vehículo de motor tenía la parte trasera ya al otro lado de la vía, oyó una bocinada y, tras un breve instante, un impacto en la parte trasera del remolque...».
+Conductor del vehículo de motor por carretera LADA NIVA:
+Del documento «REGISTRO OFICIAL de la explicación presentada», elaborado por la Policía de la República Checa el 23. 11. 2008, se desprende, entre otras cosas:
+En el momento de producirse el MU, en la vía pública había una capa de nieve compactada. Nevaba intensamente y soplaba viento lateral. El vehículo de motor por carretera circulaba a una velocidad de aprox. 15-20 km.h-1. Antes de entrar en el PdN, el conductor miró a ambos lados y continuó la marcha. La posterior evolución de la conducción se describe en el documento: «... cuando el vehículo de turismo estaba con la parte trasera detrás de la vía, oyó el claxon y, tras un breve instante, un impacto en la parte trasera del remolque...».
 ### 3.2 Sistema de garantía de la seguridad
 ### 3.2.1 Organización marco y forma en que se emiten y ejecutan las instrucciones
-La circulación de trenes entre la est. Horní Lipová y la est. Ostružná está asegurada por un bloqueo semiautomático de relés de 2.ª categoría. Los trenes se despachan en ambos sentidos en el intervalo entre estaciones.
-La instrucción del gestor de la infraestructura se dio de conformidad con lo dispuesto en el § 22 apart. 3 letra b) de la ley núm. 266/1994 Sb. para advertir a los usuarios de la vía pública mediante la señal vertical A 32a «Cruz de aviso para paso a nivel de vía única», colocada a ambos lados delante del PNV a la derecha de la vía pública, la cual, para mejorar la visibilidad de la señal de tráfico, está colocada sobre un fondo fluorescente amarillo-verde retroreflectante. A esta instrucción del gestor de la infraestructura precedieron instrucciones a los usuarios de la vía pública dadas mediante las señales verticales A 31a, A 31b y A 31c «Placa de señalización (240 m, 160 m y 80 m) con tratamiento reflectante» y A 30 «Paso a nivel sin barreras», colocada sobre la señal de tráfico A 31a, también con tratamiento reflectante. En el sentido de marcha del vehículo de motor de carretera marca LADA NIVA SPECIÁL PRAKTIK, las señales verticales A 31a y A 31b
-
+La circulación de trenes entre la est. Horní Lipová y la est. Ostružná está protegida por un bloqueo semiautomático de relés de 2.ª categoría. Los trenes se expiden en ambos sentidos en el intervalo entre estaciones.
+La instrucción del gestor de la vía se dio de conformidad con lo dispuesto en el § 22 apart. 3 letra b) de la ley núm. 266/1994 Sb. para advertir a los usuarios de la vía pública mediante la señalización vertical A 32a «Cruz de advertencia para paso a nivel de vía única», colocada a ambos lados antes del PdN a la derecha de la vía pública, que está montada sobre un fondo fluorescente amarillo-verde retroreflectante para mejorar la visibilidad de la señalización. A esta instrucción del gestor de la vía precedieron instrucciones a los usuarios de la vía pública dadas mediante las señales verticales A 31a, A 31b y A 31c «Placa indicadora (240 m, 160 m y 80 m) con tratamiento reflectante» y A 30 «Paso a nivel sin barreras», colocada sobre la señalización A 31a, también con tratamiento reflectante. En el sentido de marcha del vehículo de motor por carretera marca LADA NIVA SPECIÁL PRAKTIK, las señales verticales A 31a y A 31b
 
 ## Página 15
+
 
 colocadas a la derecha de la vía pública, carretera de 2.ª clase núm. 369, se completaron con el panel adicional E 7b «Flecha direccional».
 El maquinista del tren Os 3610, durante la circulación en el tramo de línea objeto de estudio, se guió por las instrucciones —señales y hechos que observaba desde su puesto de mando, situado en la cabeza del tren, en el lado derecho del HDV 831.234-0—. A la producción del MU precedió la instrucción del gestor de la infraestructura dada al maquinista del tren Os 3610 mediante una señal de aviso fija con la indicación «Pite». La señal estaba colocada en el pk 20,540, es decir, 255 m antes del PNV en el pk 20,285.
@@ -357,6 +358,7 @@ normativa interna SŽDC (ČD) D1 «NORMA PARA EL USO DE SEÑALES EN LA ORGANIZAC
 normativa interna SŽDC (ČD) D2 «NORMA PARA LA ORGANIZACIÓN Y EXPLOTACIÓN DEL TRANSPORTE FERROVIARIO», aprobada por decisión del director general de los Ferrocarriles Checos el 13. 03. 1997, ref. núm.: 55079/97-O11, en su versión vigente, que fue asumida por el gestor de la infraestructura SŽDC, s. o., en el sentido del BOLETÍN DE TRANSPORTE Y TARIFAS núm. 29-30, de 16. 07. 2008, art. 853, donde se indica, entre otras cosas
 
 ## Página 16
+
 
 indicado:
 ### „Por parte de la vía, para la advertencia a los usuarios de las vías de comunicación terrestre se utilizará alguno de los siguientes métodos:
@@ -393,8 +395,8 @@ reglamento interno de SŽDC (ČD) S2/3 „Organización y realización de inspec
 –
 aprobado por decisión del director general de los Ferrocarriles Checos de fecha 09. 12. 2002, n. ref.: 57775/2002-
 
-
 ## Página 17
+
 
 O13, en su versión vigente, que fue asumido por el operador de la vía SŽDC, s. o., en el sentido del BOLETÍN DE TRANSPORTE Y TARIFAS n.º 29-30, de 16. 07. 2008, art. 106 letra c), donde, entre otras cosas, se indica:
 „El resultado de la evaluación integral del estado de las vías es:
@@ -428,6 +430,7 @@ reglamento interno de ČSD S 4/3 „REGLAMENTO PARA LA GESTIÓN Y MANTENIMIENTO 
 –
 
 ## Página 18
+
 
 DE PASOS A NIVEL Y PASOS PEATONALES", aprobado por el subsecretario del Ministerio de Transporte de la ČSSR el 28. 02. 1985, con el n.º de expediente: 15.488/84-13, en vigor desde el 01. 09. 1987, en su versión vigente, Capítulo VI DISPOSICIONES TRANSITORIAS, art. 68, donde se establece:
 
@@ -469,6 +472,7 @@ norma interna de los ČSD S 4/3 "NORMA PARA LA GESTIÓN Y MANTENIMIENTO DE PASOS
 
 ## Página 19
 
+
 que se acerca al paso a nivel con la suficiente antelación para que pueda detener el vehículo motor de forma fiable antes del paso a nivel.";
 reglamento interno de ČSD S 4/3 «REGLAMENTO PARA LA GESTIÓN Y MANTENIMIENTO DE LOS PASOS A NIVEL Y PASOS PEATONALES DE FERROCARRIL», aprobado por el subsecretario del Ministerio de Transportes de ČSSR el 28. 02. 1985, con el n.º de expediente: 15.488/84-13, en vigor desde el 01. 09. 1987, en su versión vigente, Capítulo VI DISPOSICIONES TRANSITORIAS, art. 74, donde se indica, entre otras cosas:
 «Los valores de las longitudes de visibilidad Lm … … se calculan mediante la fórmula Lm=(2B/Vm + 1).Vž, donde B es la distancia de frenado del vehículo motor por carretera en m, Vm es la velocidad del vehículo motor por carretera en m/s, Vž es la velocidad de la vía en el tramo adyacente de la línea en m/s, 1 es el tiempo adicional para aumentar la seguridad en segundos.»;
@@ -493,6 +497,7 @@ desfavorables, si desde cualquier punto de la vía de comunicación terrestre de
 hasta el paso a nivel se mantiene una visión ininterrumpida del paso a nivel y de ambos tramos adyacentes de la vía al menos en la mitad de las longitudes de visibilidad prescritas para los vehículos motor por carretera Lm/2 y si a la vez se garantiza una visión ininterrumpida desde el nivel de la cruz de señalización hacia la vía en ambas direcciones en la mitad de las longitudes para vehículos lentos Lp/2;
 
 ## Página 20
+
 
 deficiente, si desde cualquier punto de la vía pública se mantiene, al menos desde la mitad de la
 •
@@ -563,8 +568,8 @@ la disposición del § 28 apartado 3 de la Ley n.º 361/2000 Sb., sobre la circu
 –
 públicas, en su
 
-
 ## Página 21
+
 
 versión consolidada:
 «A una distancia de 50 m antes de un paso a nivel ferroviario y durante su cruce, el conductor
@@ -626,6 +631,7 @@ evidente que el PPN en el km 20,285 fue, conforme al § 88 apartado 2
 
 ## Página 22
 
+
 decretos n.º 177/1995 Sb., se ha creado y puesto en servicio según las normativas vigentes hasta la fecha y es posible explotarlo hasta la próxima reconstrucción o modernización.
 En relación con la disposición del § 4 apartado 7 del decreto n.º 177/1995 Sb. y el artículo 1.1 de la norma ČSN 73 6380 Ferrocarriles a nivel y pasos peatonales, en la redacción de la modificación Z1, de mayo de 2008, el cruce ferroviario en cuestión puede mantenerse en servicio si cumple con las normas y reglamentos vigentes en el momento de su construcción o reconstrucción. El explotador de la vía verifica el estado de la señalización y la protección del cruce ferroviario según el reglamento interno ČSD S 4/3 "REGLAMENTO PARA LA GESTIÓN Y MANTENIMIENTO DE CRUCES FERROVIARIOS Y PASOS PEATONALES", aprobado por el subsecretario del Ministerio de Transporte de la ČSSR el 28. 02. 1985, con el n.º de expediente: 15.488/84-13, en vigor desde el 01. 09. 1987, en su redacción vigente. En el sentido del documento "Hoja n.º 1 – Datos generales sobre el cruce", de fecha 12. 01. 2009, n.º de expediente: 1-104/2009/DI, artículos 8, 68, 69 y 81 letra c) del reglamento interno ČSD S 4/3 "REGLAMENTO PARA LA GESTIÓN Y MANTENIMIENTO DE CRUCES FERROVIARIOS
 ### Y PASOS PEATONALES", en su redacción vigente, las condiciones de visibilidad en el cruce ferroviario en el km 20,285
@@ -645,8 +651,8 @@ Longitud de visibilidad para el vehículo de carretera Lm
 | dirección Ostružná (Vž= 20 km h-1) . | 26 m | > 26 m |
 | dirección Horní Lipová (Vž= 40 km h-1) . | 52 m | > 52 m |
 
-
 ## Página 23
+
 
 La distancia de la cruz de advertencia al eje de la vía se determinó en 4 m.
 Durante la inspección de supervisión estatal en materia de ferrocarriles, en el sentido del reglamento interno del explotador de la vía ČSD S 4/3 "REGLAMENTO PARA LA GESTIÓN Y MANTENIMIENTO DE CRUCES FERROVIARIOS Y PASOS PEATONALES", en su redacción vigente, se determinó mediante cálculo el tiempo necesario para cruzar la zona peligrosa del cruce ferroviario con el vehículo de carretera más largo admitido a la circulación en las carreteras, y el tiempo en que el vehículo ferroviario recorre (con una velocidad máxima de la vía de 40 km.h-1) la distancia de la longitud de visibilidad Lp determinada antes del cruce ferroviario:
@@ -682,6 +688,7 @@ El propietario y explotador de la vía ferroviaria, categoría nacional, Mikulov
 El explotador del transporte ferroviario son los Ferrocarriles Checos, a. s., con domicilio en Nábřeží L. Svobody 1222 Praha 1, CP 110 15, en base a la Licencia de explotador del transporte ferroviario n.º de expediente 1–157/96-DÚ/O-Bp, n.º ev.: L/1996/5000 concedida por la Autoridad Ferroviaria de Praga el 21. 05. 1996 a la persona jurídica – transportista, con la denominación comercial "Ferrocarriles Checos, a. s.".
 
 ## Página 24
+
 
 ### 3.3 Regulación jurídica y otra normativa
 ### 3.3.1 Normativa comunitaria y nacional aplicable
@@ -753,8 +760,8 @@ norma técnica checa ICS 93.100, ČSN 73 6380 «Pasos a nivel y pasos peatonales
 ●
 ferroviarios», en su redacción de la modificación Z1, de mayo de 2008.
 
-
 ## Página 25
+
 
 ### 3.4 Funcionamiento de los vehículos ferroviarios y de las instalaciones técnicas
 ### 3.4.1 Sistema de mando, señalización y seguridad, incluidos los dispositivos de 
@@ -813,6 +820,7 @@ red telefónica pública;
 
 ## Página 26
 
+
 red local de radio (frecuencias 157,450 MHz y 158,375 MHz). Las estaciones de radio portátiles están
 –
 ubicadas en el puesto de trabajo del jefe de estación;
@@ -845,8 +853,8 @@ Del peritaje colegiado del estado técnico del HDV 831.234-0 del día 24. 11. 20
 El tren Os 3610 partió de la est. Horní Lipová tras la expedición del tren, realizada por el jefe de estación con la señal de salida (con la orden de expedición). A la expedición del tren Os 3610 precedió la comunicación de la salida prevista del tren por el jefe de estación de Horní Lipová al jefe de estación de Ostružná, con la posterior establecimiento de la vía de tren y el cambio de la señal del semáforo de salida grupal «LH» de la est. Horní Lipová a la señal que permite la circulación del tren.
 Desde el nivel de la señal de advertencia con la indicación «Pískejte!», que se encuentra en el sentido de circulación del tren Os 3610 en el km 20,540, es decir, 255 metros antes de la ŽP, daba el maquinista, según su declaración, repetidamente
 
-
 ## Página 27
+
 
 la señal sonora «Pozor» con la bocina de la locomotora. Esta instrucción dada por el empleado del transportista estaba destinada a advertir a las personas de que se acercaba un tren a la ŽP.
 ### 3.5.2 Intercambio de comunicaciones verbales en relación con el suceso, incluidos los documentos del dispositivo de registro
@@ -863,6 +871,7 @@ No se constató el estado de salud y la situación personal que pudieran haber i
 
 ## Página 28
 
+
 3.6.3 Disposición del equipamiento del puesto de conducción o del vehículo que influye en su
 control y uso
 El maquinista, durante la circulación del tren Os 3610, observaba la vía y las señales desde el lado derecho del puesto de conducción 1, el delantero en el sentido de la marcha.
@@ -875,8 +884,8 @@ Por ello, el DI, de conformidad con lo dispuesto en el § 53b apartado 5 de la L
 1) poner de forma inmediata en consonancia la norma interna ČSD S 4/3 «NORMA PARA LA GESTIÓN Y MANTENIMIENTO DE LOS PASOS A NIVEL Y PASOS PEATONALES», en su versión vigente, con la ČSN 73 6380 Pasos a nivel y pasos peatonales, en su versión vigente;
 2) verificar las condiciones reales de visibilidad en todos los pasos a nivel en los que hasta la fecha se hubiera aplicado, con base en la norma interna ČSD S 4/3 «NORMA PARA LA GESTIÓN Y MANTENIMIENTO DE LOS PASOS A NIVEL Y PASOS PEATONALES», en su versión vigente, la reducción de las longitudes de visibilidad a ½, y poner dichos pasos a nivel en consonancia con la ČSN 73 6380 Pasos a nivel y pasos peatonales, en su versión vigente.
 
-
 ## Página 29
+
 
 ## 4 ANÁLISIS Y CONCLUSIONS
 ### 4.1 Descripción final del incidente
@@ -887,6 +896,7 @@ La estación de origen del tren Os 3610 era Jeseník y la de destino Šumperk. E
 Como consecuencia del incidente no se produjeron daños personales ni fugas de sustancias ecológicamente peligrosas.
 
 ## Página 30
+
 
 ### 4.2 Análisis
 ### 4.2.1 Evaluación de los hechos constatados de acuerdo con el punto 3 y enunciación de las conclusiones sobre la causa del suceso excepcional y la actuación de los servicios de rescate
@@ -902,6 +912,7 @@ El suceso excepcional se produjo en un paso a nivel, obra de la vía, que en el 
 
 ## Página 31
 
+
 Según el explotador de la vía, la construcción de la vía, el PC en el pk 20,285 de la vía férrea, categoría estatal, Mikulovice st. hr. – Hanušovice, fue adquirida el 31. 12. 1899, véase el documento „List. č. 1 – Souhrnné údaje o přejezdu“, de fecha 12. 01. 2009, n.º ref.: 1-104/2009/DI. A pesar de que el explotador de la vía no aportó, en el procedimiento de construcción y con anterioridad a la entrada en vigor del decreto 177/1995 Sb., la documentación de proyecto verificada para la citada construcción de vía, en el sentido del § 88 apartado 1 del decreto 177/1995 Sb., es evidente que el PC en el pk 20,285 fue, en el sentido del § 88 apartado 2 del decreto 177/1995 Sb., adquirido y puesto en servicio conforme a la normativa hasta entonces vigente, y es posible explotarlo hasta la próxima reconstrucción o modernización.
 En relación con lo dispuesto en el § 4 apartado 7 del decreto 177/1995 Sb. y en el art. 1.1 de la norma ČSN 73 6380 „Železniční přejezdy a přechody“ (Pasos a nivel y pasos peatonales ferroviarios), en su redacción de la modificación Z1, de mayo de 2008, el citado PC podrá mantenerse en explotación si cumple las normas y reglamentos vigentes en el momento de su creación o reconstrucción. El explotador de la vía verifica el estado de la señalización y la protección del PC conforme al reglamento interno ČSD S 4/3 „PŘEDPIS PRO SPRÁVU A UDRŽOVÁNÍ ŽELEZNIČNÍCH PŘEJEZDŮ A PŘECHODŮ“ (Reglamento para la gestión y el mantenimiento de los pasos a nivel y pasos peatonales ferroviarios), aprobado por el viceministro de Transportes de la ČSSR el 28. 02. 1985 bajo el n.º ref.: 15.488/84-13, con efectos desde el 01. 09. 1987, en su redacción vigente. En el sentido del documento del explotador de la vía „List. č. 1 – Souhrnné údaje o přejezdu“, de fecha 12. 01. 2009, n.º ref.: 1-104/2009/DI, art. 8, art. 68, art. 69 y art. 81 letra c) del reglamento interno ČSD S 4/3 „PŘEDPIS PRO SPRÁVU
 ### A UDRŽOVÁNÍ ŽELEZNIČNÍCH PŘEJEZDŮ A PŘECHODŮ“, en su redacción vigente, las condiciones de visibilidad en el PC en el pk 20,285 se clasifican como desfavorables (vía de carretera de tercer grupo y de cuarto grupo), es decir, las longitudes de visibilidad están garantizadas al menos en ½ de la longitud de visibilidad prescrita. El art. 26 del reglamento interno ČSD S 4/3 „PŘEDPIS PRO SPRÁVU A UDRŽOVÁNÍ
@@ -915,8 +926,8 @@ Longitud de visibilidad para el vehículo de carretera más lento Lp
 | Ostružná (Vž= 20 km h-1) . | 131 m | > 131 m |
 | sentido Horní Lipová (Vž= 40 km h-1) . | 261 m | 170 m |
 
-
 ## Página 32
+
 
 Longitud de visibilidad para el vehículo de carretera Lm
 | sentido (vía velocidad) . | Grandezas prescritas Lm: | Grandezas determinadas: |
@@ -966,6 +977,7 @@ longitud dp
 es desde el nivel de la cruz de advertencia situada a 4 m en el sentido de circulación de los vehículos de carretera hasta el límite de la zona de peligro en el lado opuesto del PC 6,5 m. La longitud se calculó para un ángulo de cruce de 45°
 
 ## Página 33
+
 
 del patrón:
 (4,0 m + 2,5 m) / sen 45° = 9,19 m;
@@ -1047,6 +1059,7 @@ ininterrumpida de
 
 ## Página 34
 
+
 la visibilidad de la vía para los usuarios de la carretera pone en peligro de manera sin precedentes, en el punto de cruce de la vía férrea con la carretera a nivel de las vías, la explotación segura del transporte ferroviario y no garantiza la seguridad de los usuarios de la carretera. Incluso en la situación en que un usuario de la carretera en un PFE de este tipo atienda las instrucciones del gestor de la infraestructura para garantizar la seguridad propia y la de otras personas, es decir, compruebe mediante la visibilidad permitida por el gestor de la infraestructura si se aproxima un vehículo ferroviario al PFE, para los vehículos de carretera más largos existe un riesgo real de que se produzca un SU, al no poder el vehículo de carretera abandonar a tiempo la franja de peligro del PFE. El vehículo ferroviario que se aproxima embiste el lateral del vehículo de carretero. La situación descrita persiste desde la entrada en vigor de la norma interna de ČSD S 4/3 «REGLAMENTO PARA LA GESTIÓN Y MANTENIMIENTO DE LOS PASOS A NIVEL Y PASOS PEATONALES FERROVIARIOS», aprobada por el subsecretario del Ministerio de Transportes de la ČSSR el 28. 02. 1985 con el n.º de expediente: 15.488/84-13, con efectos desde el 01. 09. 1987, en su versión vigente.
 ### El gestor de la infraestructura, en relación con lo dispuesto en el art. 8 y el capítulo VI. DISPOSICIONES TRANSITORIAS de la norma interna de ČSD S 4/3 «REGLAMENTO PARA LA GESTIÓN Y MANTENIMIENTO DE LOS PASOS A NIVEL Y PASOS PEATONALES FERROVIARIOS», aprobada por el subsecretario del Ministerio de Transportes de la ČSSR el 28. 02. 1985 con el n.º de expediente: 15.488/84-13, con efectos desde el 01. 09. 1987, en su versión vigente, de conformidad con el § 22 apartado 1 letra a) de la Ley n.º 266/1994 Sb., no garantizó la explotación de la infraestructura para las necesidades de un transporte ferroviario fluido y seguro de acuerdo con las reglas para la explotación de la infraestructura y la autorización administrativa, al permitir que el sistema de garantía de la seguridad de la explotación de la infraestructura permitiera
 ### y siga permitiendo al gestor de la infraestructura garantizar las longitudes de visibilidad en los PFE únicamente para ½ de las longitudes de visibilidad prescritas. Crea así el presupuesto para que se produzca una situación en la que un vehículo de motor de carretera más largo, que no supere en longitud propia los 22 m, no logre abandonar a tiempo la franja de peligro del PFE
@@ -1059,6 +1072,7 @@ No obstante, el gestor de la infraestructura, de conformidad con el § 53b apart
 La circulación del tren Os 3610 entre la est. de Horní Lipová – la est. de Ostružná se encontraba protegida mediante comunicación telefónica de conformidad con lo dispuesto en el § 15 apartado 6 del Decreto n.º 173/1995 Sb.
 
 ## Página 35
+
 
 El frente del tren Os 3610 fue debidamente señalizado tras la aparición de la MU con la señal "Inicio de tren" y la cola del tren señalizada con la señal "Fin de tren", de conformidad con lo dispuesto en el § 39 del decreto n.º 173/1995 Sb. Si el tren Os 3610 estaba señalizado de esta manera también en el periodo anterior a la aparición de la MU no pudo probarse de forma concluyente en la investigación de las causas y circunstancias de la aparición de la MU, no obstante, cabe suponer que sí.
 El HDV 831.234-0 fue utilizado por el transportista, de conformidad con lo dispuesto en el § 35 apartado 1 letra d) de la ley n.º 266/1994 Sb., con un certificado de aptitud vigente, véase el punto 2.2.2, y en un estado técnico que corresponde a la aptitud aprobada, véase el punto 3.4.4.
@@ -1105,42 +1119,21 @@ causal con la aparición de la MU ningún incumplimiento de las obligaciones del
 transporte ferroviario, establecidas por las disposiciones legales para garantizar la explotación segura de la
 vía y del transporte ferroviario.
 
-
 ## Página 36
 
-En el lugar de la MU actuó el Servicio de Bomberos y Rescate del operador de la vía SŽDC, s.o., Olomouc,
-y la Policía de la República Checa – Inspección de Tráfico de Jeseník – Grupo de Accidentes de Tráfico.
+En el lugar del accidente intervinieron el Servicio de Bomberos y Rescate del gestor de la vía SŽDC, s. o., Olomouc, y la Policía de la República Checa – Inspección de Tráfico de Jeseník – Grupo de accidentes de tráfico.
 ### 4.3 Conclusiones
-4.3.1 Causas inmediatas del evento extraordinario, incluidos los factores que contribuyeron al mismo
-y que estuvieron relacionados con la actuación de las personas implicadas o con el estado de los
-vehículos ferroviarios o de las instalaciones técnicas
-La causa inmediata de la MU fue la entrada no autorizada de un vehículo a motor por carretera en el PdC en el
-momento en que se aproximaba al PdC un vehículo ferroviario, el tren Os 3610.
-El factor que contribuyó a la causa inmediata de la MU fueron las condiciones meteorológicas, cuando tanto el
-maquinista del tren Os 3610 en el documento "Acta con el empleado" elaborado por el transportista el
-24. 11. 2008, en DKV Olomouc, Centro de Explotación Šumperk, como el conductor del vehículo a motor por
-carretera en el documento "REGISTRO OFICIAL de la declaración prestada", elaborado por la Policía de la
-República Checa el 23. 11. 2008, indicaron de forma coincidente que en el momento de la aparición de la MU
-nevaba intensamente. El grado de reducción de la visibilidad a causa de la nevada no fue concretado de forma
-más detallada en el lugar de la aparición de la MU por las personas encargadas de investigar las causas y
-circunstancias de la aparición de la MU, porque antes de la llegada de dichas personas al lugar de la aparición
-de la MU las condiciones meteorológicas cambiaron, la nevada cesó. Por ello no es posible determinar el grado
-de este factor, que contribuyó a la causa inmediata de la MU.
-El conductor del tren que se encontraba en el PdC en el km 20,285 de la vía ferroviaria, categoría nacional,
-Mikulovice est. fr. – Hanušovice, en el sentido de lo dispuesto en el § 6 apartado 3 de la ley n.º 266/1994 Sb.
-no priorizó el transporte ferroviario sobre el tráfico en la vía pública y, en el sentido del § 22 apartado 4 de
-la ley n.º 266/1994 Sb., descuidó su seguridad y descuidó la instrucción del operador de la vía para garantizar la
-seguridad de las personas y la seguridad de la explotación de la vía y del transporte ferroviario al entrar en el
-PdC en el momento en que se aproximaba al PdC el tren Os 3610 que se encontraba en el lugar donde para el
-conductor del tren estaba garantizada la visión ininterrumpida a la vía.
+4.3.1 Causas inmediatas del accidente, incluidos los factores que contribuyeron al mismo y que estuvieron relacionados con la actuación de las personas implicadas o con el estado de los vehículos ferroviarios o de las instalaciones técnicas
+La causa inmediata del accidente fue la entrada no autorizada de un vehículo de motor por carretera en el paso a nivel en el momento en que se aproximaba al paso a nivel un vehículo ferroviario, el tren Os 3610.
+El factor que contribuyó a la causa inmediata del accidente fueron las condiciones meteorológicas, en las que tanto el maquinista del tren Os 3610, en el documento „Zápis se zaměstnancem“ (Acta con el empleado) elaborado por el transportista el 24. 11. 2008, en DKV Olomouc, Centro de explotación Šumperk, como el conductor del vehículo de motor por carretera, en el documento „ÚŘEDNÍ ZÁZNAM o podaném vysvětlení“ (REGISTRO OFICIAL de la declaración prestada), elaborado por la Policía de la República Checa el 23. 11. 2008, indicaron de forma coincidente que en el momento de producirse el accidente nevaba intensamente. El grado de reducción de la visibilidad debido a la nevada no fue concretado de manera más precisa en el lugar del accidente por las personas encargadas de determinar las causas y circunstancias del accidente, porque antes de la llegada de dichas personas al lugar del accidente las condiciones meteorológicas habían cambiado y la nevada había cesado. Por ello no es posible determinar la magnitud de este factor que contribuyó a la causa inmediata del accidente.
+El conductor del tren que se encontraba en el paso a nivel en el p. k. 20,285 de la vía ferroviaria, categoría de ámbito nacional, Mikulovice st. hr. – Hanušovice, en virtud de lo dispuesto en el § 6 apartado 3 de la Ley núm. 266/1994 Sb., no dio prioridad al transporte ferroviario sobre la circulación en la vía pública y, en virtud del § 22 apartado 4 de la Ley núm. 266/1994 Sb., no atendió a su propia seguridad ni cumplió la instrucción del gestor de la vía relativa a garantizar la seguridad de las personas y la seguridad de la explotación de la vía y del transporte ferroviario, al entrar en el paso a nivel en el momento en que se aproximaba al paso a nivel el tren Os 3610, que se encontraba en el lugar donde para el conductor del tren se había garantizado una visión libre e ininterrumpida de la vía.
 ### 4.3.2 Causas fundamentales relacionadas con la cualificación, los procedimientos y el mantenimiento
-Las causas fundamentales relacionadas con la cualificación, los procedimientos y el mantenimiento no fueron
-constatadas por la DI.
-### 4.3.3 Causas que se deben al marco normativo y al uso del sistema de garantía de la seguridad
-Las causas que se deben al marco normativo y al uso del sistema de garantía de la seguridad no fueron
-constatadas por la DI.
+No fueron detectadas por la DI causas fundamentales relacionadas con la cualificación, los procedimientos y el mantenimiento.
+### 4.3.3 Causas derivadas del marco normativo y del uso del sistema de garantía de la seguridad
+No fueron detectadas por la DI causas derivadas del marco normativo y del uso del sistema de garantía de la seguridad.
 
 ## Página 37
+
 
 ### 4.4 Hallazgos complementarios
 ### 4.4.1 Deficiencias y omisiones detectadas durante la investigación de las causas y circunstancias del origen del suceso ferroviario, que sin embargo no son significativas para las conclusiones sobre las causas
@@ -1150,8 +1143,8 @@ El explotador de la infraestructura, en relación con lo dispuesto en el artícu
 El explotador de la infraestructura, en el sentido del § 53b apartado 5 de la Ley núm. 266/1994 Sb. y del § 13 apartado 1 del decreto núm. 376/2006 Sb., no atendió a la recomendación del DI. La recomendación de seguridad fue adoptada por el DI en el «Informe sobre los resultados de la investigación de las causas y circunstancias del origen del suceso ferroviario», n.º de expediente: 2-1529/2007/DI, de fecha 25. 05. 2008. Al explotador de la infraestructura, que hasta el 30. 06. 2008 fueron los ČD, a. s., y desde el 01. 07. 2008 es el SŽDC, s. o., se le remitió la recomendación de seguridad bajo el n.º de expediente: 5-36/2008/DI, de fecha 25. 05. 2008. El explotador de la infraestructura no adoptó las medidas propias correspondientes para prevenir sucesos ferroviarios y garantizar la explotación segura de la infraestructura y del transporte ferroviario en los PFE en los que aplica la reducción de las longitudes de visibilidad a ½, véanse los puntos 3.7 y 4.2. La reducción de las longitudes de visibilidad a ½ se sigue aplicando.
 El explotador del transporte ferroviario, en el sentido del § 9 apartado 4 letra c) del decreto núm. 376/2006 Sb. y del § 35 apartado 1 de la Ley núm. 266/1994 Sb., en relación con lo dispuesto en el § 33 apartado 2 del decreto núm. 173/1995 Sb. y en el Anexo núm. 12 de la norma ČD D 17 «NORMA para la notificación e investigación de sucesos ferroviarios», aprobada por decisión del director general de los Ferrocarriles Checos el 31. 10. 2006, n.º de expediente: 70 778/2006, en su versión vigente, no garantizó que, tras la extracción de la tira registradora del velocímetro registrador, la tira registradora permaneciera en el rollo. La tira registradora fue plegada y posteriormente anotada con las anotaciones necesarias relacionadas con la manipulación de la tira registradora tras el suceso ferroviario. La anotación de la tira registradora, como consecuencia de la impresión, dio lugar a la superposición parcial de las magnitudes registradas, véase el «ACTA de la actuación de la supervisión estatal en materia de ferrocarriles», n.º de expediente: 1-149/2009/DI-2, de fecha 21. 01. 2009.
 
-
 ## Página 38
+
 
 ## 5 MEDIDAS ADOPTADAS
 ### 5.1 Lista de medidas que ya han sido tomadas o adoptadas como consecuencia del suceso ferroviario
@@ -1168,10 +1161,9 @@ Director
 Inspectorado Territorial de Ostrava
 Inspectorado Territorial de Ostrava
 
-
 ## Página 39
 
 ## 7 ANEXOS
-Fig. núm. 1 Vista del paso a nivel en el pk 20,285 en el sentido de circulación del vehículo rodado a motor LADA NIVA SPECIÁL PRAKTIK (foto Policía ČR)
+Fig. n.º 1 Vista del paso a nivel en el pk 20,285 en el sentido de circulación del vehículo automóvil LADA NIVA SPECIÁL PRAKTIK (foto Policía ČR)
 Documentación fotográfica:
-Fig. núm. 2 Vista del torso de las partes del remolque tras el suceso ferroviario (Foto RIBŽD Praga)
+Fig. n.º 2 Vista del resto de partes del remolque tras el MU (Foto RIBŽD Praga)

@@ -10,13 +10,14 @@ chars: 107634
 ratio_longitud: 1.25
 tokens_in: 52074
 tokens_out: 38046
-verificacion: revisar
-notas_cifras: ["bloque 2: original bilingüe: se compara contra el idioma principal (PT)", "bloque 3: original bilingüe: se compara contra el idioma principal (CS)", "bloque 8: original bilingüe: se compara contra el idioma principal (CS)", "bloque 9: original bilingüe: se compara contra el idioma principal (PT)"]
-avisos: ["bloque 8: ratio 1.76"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 3: original bilingüe: se compara contra el idioma principal (EN)", "página 6: original bilingüe: se compara contra el idioma principal (EN)", "página 7: original bilingüe: se compara contra el idioma principal (PT)", "página 9: original bilingüe: se compara contra el idioma principal (CS)", "página 11: original bilingüe: se compara contra el idioma principal (CS)", "página 13: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -41,13 +42,13 @@ IČ:   75009561
 mail@dicr.cz
 tel.: +420 736 521 003
 
-
 ## Página 2
+
 
 El presente informe final es público y todos los hechos en él expuestos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ## 1 RESUMEN
 Fuente: Výzkumný Ústav Železniční, a. s.
@@ -79,8 +80,8 @@ Factor contribuyente:
 no fue detectado por la Inspección Ferroviaria.
 •
 
-
 ## Página 4
+
 
 Causa fundamental:
 descuido del jefe de maniobras al estacionar la unidad eléctrica ETR521
@@ -93,8 +94,8 @@ Recomendaciones de seguridad:
 no fueron emitidas por la Inspección Ferroviaria.
 •
 
-
 ## Página 5
+
 
 ## SUMMARY
 Grade:
@@ -135,8 +136,8 @@ Root cause:
 none.
 Recommendation:   not issued.
 
-
 ## Página 6
+
 
 # Índice
 1 RESUMEN........................................................................................................................3
@@ -188,6 +189,7 @@ técnicas aplicables y otras normas internas....................................
 
 ## Página 7
 
+
 registro de datos.....................................................................................................25
 3.4.2 Componentes de la vía....................................................................................25
 3.4.3 Dispositivos de comunicación e información.........................................................25
@@ -230,15 +232,15 @@ ferroviario.....................................................................
 6 RECOMENDACIONES DE SEGURIDAD.....................................................................................37
 7 ANEXOS..........................................................................................................................38
 
-
 ## Página 8
+
 
 ## Lista de siglas y símbolos utilizados
 |  | Lista de siglas y símbolos utilizados |
 | COP ČDC a s , . . DK DI DÚ DV HDV IZS KV MOK MU PJ RDST SZZ ÚI VÚŽ a s , . . VZO ZC ZV ZZ ŽZO | Centro Central de Notificaciones ČD Cargo a s , . . oficina de tráfico Inspección Ferroviaria Autoridad Ferroviaria material rodante material rodante , locomotora de tracción sistema integrado de emergencias extremo de aguja Maniobras y vías de estacionamiento suceso ferroviario Unidad Operativa radioteléfono dispositivo de enclavamiento de estación Ú Inspección Territorial Instituto de Investigación Ž Ferroviario a s , . . gran circuito de pruebas Centro de Pruebas inicio de aguja Informe Final sobre los resultados de la investigación del suceso ferroviario Ž circuito de pruebas ferroviario |
 
-
 ## Página 9
+
 
 ## Lista de siglas de las disposiciones legales, normas y normas internas
 utilizadas
@@ -298,8 +300,8 @@ CIRCUNSTANCIAS DE PRODUCCIÓN DEL SUCESO FERROVIARIO
 EN LA EXPLOTACIÓN DE LA VÍA DE PRUEBAS Y DEL TRANSPORTE
 FERROVIARIO EN LA VÍA DE PRUEBAS», aprobado el 6. 11. 2017,
 
-
 ## Página 10
+
 
 en vigor desde el 1. 12. 2017, en la redacción vigorosa en el
 momento de producirse el SF
@@ -317,8 +319,8 @@ Aseguramiento de los vehículos contra el desplazamiento en ZC Velim»,
 aprobado el 20. 4. 2017, en vigor desde el mismo día, en la
 redacción vigorosa en el momento de producirse el SF
 
-
 ## Página 11
+
 
 ## 2 DATOS RELATIVOS AL SUCESO FERROVIARIO
 ### 2.1 Suceso ferroviario
@@ -353,8 +355,8 @@ unidad inactiva ETR521 fue desacoplada de la locomotora de tracción.
 En este lugar permaneció estacionada en el llamado «estado maniobrable». A
 continuación, partió
 
-
 ## Página 12
+
 
 el tramo de maniobra, formado por la locomotora de tracción 794.001-8 circulando
 autónomamente, de la vía n.º 3 más allá de la aguja n.º 11, es decir, en dirección a Praga,
@@ -394,6 +396,7 @@ las vías n.º 3 y 5, donde comienza la intersección de los gálibos de las ví
 
 ## Página 13
 
+
 que no debe superar el DV, para que no se vea amenazada la circulación del DV por la vía adyacente en el km 0,72167 (distancia del lugar de la colisión 9,93 m);
 en la vía n.º 3 del ámbito MOK, la unidad ETR521 estacionada. En el bastidor
 •
@@ -424,8 +427,8 @@ telefónica.
 Comunicado por la persona autorizada en nombre de:
 el operador de la vía de pruebas y del ensayo
 
-
 ## Página 14
+
 
 del DV (en lo sucesivo también operador) VÚŽ, a. s.
 Autorización de DI para la liberación de la vía:
@@ -464,8 +467,8 @@ el operador (VÚŽ, a. s.):
 el maquinista del HDV 794.001-8, empleado de ČDC, a. s., PJ České Budějovice,
 que ejercía, en virtud de la relación contractual entre VÚŽ, a. s. y ČDC, a. s., actividades en
 
-
 ## Página 15
+
 
 el ámbito de la explotación del transporte ferroviario;
 •
@@ -498,8 +501,8 @@ el DV se encontraba en el momento de la producción del accidente estacionado en
 2.2.3 Descripción de las partes de la vía y del sistema de señalización (es decir, en particular el estado de la vía, los desvíos, los aparatos de vía, las señales y el dispositivo de seguridad ferroviaria)
 La vía n.º 3 MOK de la vía de pruebas de la ŽZO Cerhenice se sitúa en el km 0,097 (ZV n.º 7) hasta el 0,859 (ZV n.º 12), cuya parte integrante es, entre otros, el desvío n.º 11. La longitud útil de 587 m viene delimitada por la posición de los hitos, que son señales fijas invariables, que establecen el límite que no debe sobrepasar el DV para que no se vea amenazada la circulación del DV por la vía adyacente. En el lado noroeste (en dirección a Praga) entre la SK n.º 3 y la n.º 5, el hito se sitúa en el km 0,72167. La superestructura de la vía n.º 3 en el lugar de producción del accidente está formada por carril de perfil T con fijación rígida de los carriles a las traviesas mediante soportes de carril prefabricados de hormigón tipo SB 5 con reparto «c», es decir, con separación de las traviesas en el campo de vía de 674,5 mm. La superestructura de la SK n.º 3 se incorporó al campo de vías en el año 1970
 
-
 ## Página 16
+
 
 como material nuevo. La vía n.º 3, en la dirección de la circulación no asegurada (espontánea) de la unidad eléctrica ETR521 estacionada, transcurre a nivel del terreno circundante en dirección recta con una pendiente del 1,4 ‰. El campo de vías del ámbito MOK está parcialmente iluminado con luminarias (lámparas del mástil de iluminación o de la torre de iluminación), sin embargo, en el lugar de producción del accidente, es decir, en el lugar de estacionamiento del DV de cabeza "DM2" de la unidad eléctrica, no está iluminado por ninguna fuente estacionaria.
 El desvío simple a la izquierda n.º 11 MOK de la vía de pruebas de la ŽZO Cerhenice, situado en el km 0,765, con una longitud de 28,836 m, es de tipo JT 7º L-1 con enganche de gancho, con fijación rígida de los carriles a las traviesas mediante soportes de carril comunes e independientes de madera. El desvío no está dotado de un cierre de cambio mecánico y se acciona manualmente directamente por el empleado mediante la manivela del contrapeso del cambio. La posición básica del desvío es en dirección recta, es decir, en la posición para la circulación desde/hacia las vías n.º 5.
@@ -513,8 +516,8 @@ En el lugar del accidente no se realizaron, inmediatamente antes de su producci�
 El plan para el caso de accidente fue activado por el jefe de maniobras mediante comunicación oral de la producción del accidente al despachador ZC en un momento no determinable con precisión, pero demostrablemente después de la realización de cambios irreversibles en el lugar del accidente (véanse los puntos 2.1.3, 3.4.4 y 4.4.1 de la presente ZZ). Fue finalizado el 16. 11. 2018 a las 12.48 h con la comunicación de la producción del accidente al COP DI.
 Dada la inexistencia de cualquier registro de la comunicación de la producción del accidente al puesto de comunicación del operador VÚŽ, a. s. y de la activación del plan para el caso de accidente, no es posible concretar de ningún modo el tiempo de las distintas actuaciones durante la comunicación de la producción del accidente, ni por parte del comunicante, es decir, el jefe de
 
-
 ## Página 17
+
 
 maniobras, ni del empleado que recibió dicha comunicación, es decir, el despachador ZC, ni de otras personas.
 ### 2.2.7 Activación del plan del sistema integrado de emergencia, de los servicios de emergencia policiales y sanitarios y procedimientos conexos
@@ -557,50 +560,85 @@ Maquinista del HDV 794.001-8
 ## Página 18
 
 del empleador del maquinista, la sociedad ČDC, a. s., entre otros, se desprende:
-◦el 15. 11. 2018 entró en turno en la vía de ensayo ŽZO Cerhenice y durante todo el turno condujo el HDV 794.001-8;
-◦durante el turno, según las instrucciones impartidas por la persona que dirige las maniobras, es decir, el jefe de maniobras, en forma de maniobra de empuje y tracción, colocó la unidad eléctrica ETR521 en la vía n.º 3 del sector MOK, que en el momento de la maniobra realizada ya estaba ocupada por otros DV estacionados;
-◦detuvo la sección de maniobra empujada en la vía n.º 3 de manera que la cabina del maquinista del HDV se encontraba a la altura del punto de balanza de la aguja n.º 11, es decir, el punto de balanza entre las vías n.º 3 y 5;
+◦el 15. 11. 2018 se incorporó al turno en la vía de pruebas ŽZO Cerhenice y durante todo el turno condujo el HDV 794.001-8;
+◦durante el turno, según las instrucciones impartidas por la persona que dirige las maniobras, es decir, el jefe de maniobras, en forma de maniobra por empuje y tracción, colocó la unidad eléctrica ETR521 en la vía n.º 3 del sector MOK, que en el momento de la maniobra realizada ya estaba ocupada por otros DV estacionados;
+◦detuvo la sección de maniobra empujada en la vía n.º 3 de modo que la cabina del maquinista del HDV se encontraba a la altura del punto de referencia de la aguja n.º 11, es decir, el punto de referencia entre las vías n.º 3 y 5;
 ◦a continuación, el jefe de maniobras desenganchó la unidad eléctrica ETR521 del HDV e impartió al maquinista la instrucción de circular por la vía n.º 3 en dirección a Praga más allá de la aguja n.º 11;
-◦tras detenerse más allá de la parte conmutable de la aguja n.º 11 en la vía n.º 3 entre las agujas n.º 11 y 12, el jefe de maniobras llegó desde la unidad eléctrica ETR521 estacionada hasta dicha aguja, la cual colocó en la posición hacia la vía n.º 5 del sector MOK;
-◦tras colocar la aguja n.º 11, el jefe de maniobras llegó al HDV, subió a su escalón frontal derecho en la dirección del movimiento de maniobra previsto hacia la vía n.º 5 y solicitó al despachador ZC el consentimiento para la maniobra;
-◦en cuanto el despachador ZC concedió al jefe de maniobras el consentimiento para la maniobra, recibió del jefe de maniobras la instrucción de poner el HDV en movimiento;
-◦de acuerdo con la instrucción dada por el jefe de maniobras, puso el HDV en movimiento a través de la aguja n.º 11 hacia la vía n.º 5 y durante la marcha detectó que en el itinerario se encontraba la unidad eléctrica ETR521. Detectó la situación sobre una distancia muy corta y, por tanto, no pudo evitar la colisión del DV;
+◦tras detenerse tras la parte maniobrable de la aguja n.º 11 en la vía n.º 3 entre las agujas n.º 11 y 12, el jefe de maniobras llegó desde la unidad eléctrica ETR521 estacionada hasta dicha aguja, la cual colocó en la posición hacia la vía n.º 5 del sector MOK;
+◦tras colocar la aguja n.º 11, el jefe de maniobras llegó al HDV, subió a su escalón delantero derecho en el sentido del movimiento de maniobra previsto hacia la vía n.º 5 y solicitó al despachador del ZC el consentimiento para la maniobra;
+◦en cuanto el despachador del ZC concedió al jefe de maniobras el consentimiento para la maniobra, recibió del jefe de maniobras la instrucción de poner el HDV en movimiento;
+◦de acuerdo con la instrucción dada por el jefe de maniobras, puso el HDV en movimiento hacia la vía n.º 5 a través de la aguja n.º 11 y durante la marcha detectó que en el itinerario se encontraba la unidad eléctrica ETR521. Detectó la situación producida a muy corta distancia y, por lo tanto, no pudo evitar la colisión del DV;
 ◦tras la colisión del HDV con la unidad eléctrica ETR521, abandonó la cabina del maquinista y junto con el jefe de maniobras se dirigió al lugar de la colisión. Allí ya se encontraban empleados de la empresa Hitachi Rail Italy, S. p. A., es decir, el fabricante de la unidad, que estaban realizando documentación fotográfica de sus daños tras la colisión con el HDV 794.001-8;
-◦con los empleados de la empresa Hitachi Rail Italy, S. p. A. se comunicó exclusivamente el jefe de maniobras, y tras finalizar su conversación recibió del jefe de maniobras la información de que los empleados de la empresa Hitachi Rail Italy, S. p. A. tienen la necesidad de fotografiar la unidad dañada y, por tanto, será necesario salir del lugar de la colisión, es decir, del DV de cabeza "DM2", en dirección a la aguja n.º 11;
+◦únicamente el jefe de maniobras se comunicó con los empleados de la empresa Hitachi Rail Italy, S. p. A., tras lo cual, al finalizar su conversación, recibió del jefe de maniobras la información de que los empleados de la empresa Hitachi Rail Italy, S. p. A. necesitan fotografiar la unidad dañada y que, por lo tanto, será necesario salir del lugar de la colisión, es decir, del DV de cabeza "DM2", en dirección a la aguja n.º 11;
 ### ◦por la razón anteriormente indicada, puso el HDV en movimiento en dirección a la aguja
-n.º 11. En ese momento no se percató de que, con la manipulación de los elementos de control del HDV, el movimiento del HDV y la posterior colocación de la unidad eléctrica ETR521, realizaría en el lugar de la MU cambios irreversibles en el estado original;
+n.º 11. En ese momento no se percató de que, al manipular los elementos de control del HDV, con el movimiento del HDV y con la posterior colocación de la unidad eléctrica ETR521, realizaría en el lugar de la MU cambios irreversibles en el estado original;
 ◦tras fotografiar los empleados de la empresa Hitachi Rail Italy, S. p. A. la unidad eléctrica ETR521 dañada, uno de ellos decidió que era necesario volver a estacionar la unidad en la vía n.º 3 del sector MOK;
 ### ◦tras realizar la maniobra y volver a estacionar la unidad eléctrica ETR521
 ### en la vía n.º 3 y desengancharla del HDV, se desplazó con el HDV por la vía n.º 3 más allá de la aguja n.º 11
-y tras colocarla hacia la vía n.º 5, se detuvo en las cercanías del DK;
-### ◦tras detenerse en las cercanías del DK, el jefe de maniobras se dirigió al DK, donde comunicó al despachador ZC el origen de la MU;
-
+y tras colocarla en la vía n.º 5, se detuvo en las proximidades del DK;
+### ◦tras detenerse en las proximidades del DK, el jefe de maniobras se dirigió al DK, donde comunicó al despachador del ZC el origen de la MU;
 
 ## Página 19
 
-◦posteriormente continuó en el turno, es decir, en la conducción del HDV 794.001-8.
+◦dále continuó en el turno, es decir, en la conducción del HDV 794.001-8.
 Jefe de maniobras
-  – del Acta con el empleado, elaborada por el empleador
+  – del Registro con el empleado, elaborado por el empleador
 •
 del jefe de maniobras de la sociedad ČDC, a. s., entre otros, se desprende:
-◦el 15. 11. 2018 entró en turno en la vía de ensayo ŽZO Cerhenice. Parte del turno la desempeñó en la función de maquinista, cuando en el VZO condujo la unidad eléctrica ETR521 durante las pruebas de marcha, y parte del turno en la función de jefe de maniobras, cuando dirigió y organizó la maniobra realizada por el HDV 794.001-8;
-◦el propósito de dicha maniobra era, entre otros, estacionar la unidad eléctrica ETR521, tras las pruebas de marcha realizadas, desde la vía del VZO en la vía n.º 3 del sector MOK;
-◦la unidad estacionada, con un peso de 250 t, aseguró en la vía n.º 3 del sector MOK, que tiene una pendiente de 1,48 ‰, contra el desplazamiento mediante la colocación de topes con bridas, y ello bajo la rueda izquierda del 2.º eje desde la dirección de Kolín y bajo la rueda izquierda del 4.º eje desde la dirección de Praga. No pudo colocar el tope bajo la rueda izquierda del 3.er eje, ya que lo impedía una manguera no especificada más allá, que era un componente del DV. Ambos topes utilizados estaban provistos de pintura amarilla y no presentaban ningún daño en la lengüeta (superficie de rodadura);
-◦desenganchó la unidad eléctrica ETR521 del HDV 794.001-8, y para poder ver el acoplamiento tuvo que iluminarse con una luz, ya que en el lugar de la maniobra no existe ninguna iluminación artificial;
-◦la unidad eléctrica ETR521 quedó detenida con el frente del DV de cabeza "DM2" a una distancia de 5 m del punto de balanza entre las vías n.º 3 y 5;
-◦tras desacoplar el DV, dio al maquinista la instrucción de circular con el HDV autónomo por la vía n.º 3 más allá de la aguja n.º 11;
-◦se dirigió a la aguja n.º 11, la cual colocó para la circulación del HDV 794.001-8 hacia la vía n.º 5. Tras colocar la aguja, se dirigió al HDV detenido, subió al escalón derecho del frontal del HDV en la dirección de circulación hacia la vía n.º 5 y mediante RDST informó al despachador ZC de la maniobra prevista por la vía n.º 5 hacia el DK. El despachador ZC le concedió a continuación la autorización y el consentimiento para la maniobra por la vía n.º 5 hacia el DK, de lo que informó al maquinista del HDV 794.001-8, quien a continuación, sobre la base de la instrucción impartida por él, puso la locomotora en movimiento en dirección a la vía n.º 5;
-◦tras la salida del HDV, observó a corta distancia la unidad eléctrica ETR521 circulando en sentido contrario, que previamente había estacionado en la vía n.º 3. No llegó a tiempo a informar al maquinista de la situación peligrosa surgida – no impartió ninguna instrucción;
-◦se produjo la colisión de los DV circulando en sentido contrario, durante la cual se golpeó con el pasamanos y posteriormente cayó a la vía;
-◦durante la inspección del lugar de la colisión de la MU, que realizó junto con el maquinista, constató:
-### ▪entre los cantos de la vía bajo el 2.º DV de la unidad, un tope caído, que
-### durante el estacionamiento había colocado originalmente bajo la rueda izquierda del 4.º eje desde la dirección de Praga.
-El tope yacía de lado, horizontalmente a lo largo del canto izquierdo de la vía (en la dirección del movimiento no asegurado de la unidad) y a una distancia de aprox. 20 cm de dicho canto de la vía,
-▪sobre el riel izquierdo, el tope que originalmente estaba bajo la rueda izquierda del 2.º eje desde la dirección de Kolín;
-◦al lugar de la colisión del DV acudieron también, tras la colisión, los empleados que el día 15. 11. 2019 participaron en las pruebas de marcha de la unidad eléctrica ETR521, y fotografiaron la unidad dañada
-
+◦el 15. 11. 2018 se incorporó al turno en la vía de ensayo ŽZO Cerhenice. Parte
+del turno la desempeñó en la función de maquinista, cuando en la VZO condujo
+la unidad eléctrica ETR521 en las pruebas de circulación, y parte del turno en la
+función de jefe de maniobras, cuando condujo y organizó la maniobra realizada
+con el HDV 794.001-8;
+◦el propósito de dicha maniobra era, entre otros, el apartamiento de la unidad
+eléctrica ETR521, tras las pruebas de circulación realizadas, de la vía de la VZO
+a la vía n.º 3 del sector MOK;
+◦la unidad apartada, con un peso de 250 t, la aseguró contra el desplazamiento
+en la vía n.º 3 del sector MOK, que tiene una pendiente de 1,48 ‰, mediante el
+calzado con topes con bridas, y ello bajo la rueda izquierda del eje n.º 2 en el
+sentido desde Kolín y bajo la rueda izquierda del eje n.º 4 en el sentido desde
+Praga. No pudo calzar la rueda izquierda del eje n.º 3, porque lo impedía una
+manguera no especificada más detalladamente, que era un componente del DV.
+Ambos topes utilizados estaban provistos de pintura amarilla y no presentaban
+ningún daño en la lengüeta (superficie de rodadura);
+◦desacopló la unidad eléctrica ETR521 del HDV 794.001-8, por lo que para ver
+el mecanismo de tracción tuvo que iluminarse con una luz, porque en el lugar de
+la maniobra no existe ninguna iluminación artificial;
+◦la unidad eléctrica ETR521 quedó detenida con el extremo del DV principal
+«DM2» a una distancia de 5 m antes del separador de vías entre las vías n.º 3 y 5;
+◦tras desacoplar el DV, dio al maquinista la instrucción de circular con el HDV
+por separado por la vía n.º 3 hasta la aguja n.º 11;
+◦se dirigió a la aguja n.º 11, que dispuso para la circulación del HDV 794.001-8
+a la vía n.º 5. Tras disponer la aguja, se dirigió al HDV detenido, subió al
+escalón derecho del extremo frontal del HDV en el sentido de circulación hacia
+la vía n.º 5 y por RDST informó al despachador del ZC de la maniobra prevista
+por la vía n.º 5 hacia el DK. El despachador del ZC le concedió a continuación
+el permiso y el consentimiento para la maniobra hacia la vía n.º 5 hacia el DK,
+de lo que informó al maquinista del HDV 794.001-8, quien a continuación, con
+base en la instrucción por él dada, puso la locomotora en movimiento en
+dirección a la vía n.º 5;
+◦tras la puesta en marcha del HDV, observó a corta distancia la unidad eléctrica
+ETR521 circulando en sentido contrario, que previamente había apartado en la
+vía n.º 3. No llegó a tiempo a informar al maquinista de la situación peligrosa
+surgida – no dio ninguna instrucción;
+◦seguidamente se produjo la colisión de los DV circulando en sentido contrario,
+en la que se golpeó con el pasamanos y posteriormente cayó a la vía;
+◦en la inspección del lugar de la colisión por el MU, que realizó junto con el
+maquinista, constató:
+### ▪entre los carriles bajo el 2.º DV de la unidad, el topo caído, que al
+### apartar había colocado originalmente bajo la rueda izquierda del eje n.º 4
+### en el sentido desde Praga.
+El topo yacía de lado, horizontalmente a lo largo del carril izquierdo (en el
+sentido de la circulación no asegurada de la unidad) y a una distancia de
+aproximadamente 20 cm de dicho carril,
+▪en el carril izquierdo, el topo que originalmente estaba bajo la rueda
+izquierda del eje n.º 2 en el sentido desde Kolín;
+◦al lugar, tras la colisión de los DV, acudieron también los empleados que el
+15. 11. 2019 participaron en las pruebas de circulación de la unidad eléctrica
+ETR521, y el dañado
 
 ## Página 20
+
 
 ;
 ◦del jefe de los empleados que el día 15. 11. 2019 participaron en las pruebas de marcha de la unidad eléctrica ETR521, recibió la instrucción de liberar la unidad, y antes incluso de realizar el viaje de vuelta del HDV más allá de la aguja n.º 11, aseguró la unidad contra el desplazamiento con el tope caído (sin especificar el lugar de calzado);
@@ -630,8 +668,8 @@ del despachador ZC de la sociedad ČDC, a. s., entre otros, se desprende:
 ### información sobre el origen de los daños, es decir, sobre la colisión del HDV
 ### en cuestión con la unidad eléctrica ETR521. Hasta este momento, es decir, hasta aprox. las 23 h, no sabía de ninguna
 
-
 ## Página 21
+
 
 MU originada en la vía de ensayo ŽZO Cerhenice;
 ◦tiene conocimiento de que el origen de la MU debe comunicarse al director de explotación de los ensayos, pero como tenía la información de que dicha persona en ese momento se encontraba fuera del territorio de la República Checa, intentó informar telefónicamente del origen de la MU al jefe de explotación de ŽZO Cerhenice. No logró establecer la conexión telefónica con el jefe de explotación de ŽZO Cerhenice y, por tanto, le informó del origen de la MU únicamente por la mañana del día 16. 11. 2019 tras su llegada al trabajo.
@@ -652,6 +690,7 @@ Intentó mover el tope colocado bajo la rueda izquierda del 3.er eje desde la di
 ### de maniobra de empuje, trasladaron la unidad eléctrica ETR521 a la vía n.º 3 "más allá del límite de la aguja n.º 11".
 
 ## Página 22
+
 
 ### 3.2 Sistema de garantía de la seguridad
 ### 3.2.1 Organización marco y forma de emisión y ejecución de instrucciones
@@ -701,8 +740,8 @@ freno para asegurar el DV contra el desplazamiento, no pudiendo utilizarse el fr
 el freno magnético con imán permanente ni el freno de mano, a fin de que en caso de necesidad de maniobra
 con el DV no sea necesario el acceso al DV estacionado y la operación de sus elementos de mando.
 
-
 ## Página 23
+
 
 Durante la parada del elemento de maniobra y el estacionamiento de DV debe mantenerse la libertad de los
 topes – en las locomotoras responde de la libertad el maquinista que estacionó la locomotora, en los demás DV
@@ -746,8 +785,8 @@ vía de ensayo ŽZO Cerhenice en el año 2018 un control, al jefe de maniobras, 
 persona desempeñaba el trabajo de maquinista en un ensayo en circulación. En el control realizado se
 constató una anomalía, consistente en no emitir la señal sonora «Pozor» (Atención) con un sonido largo del silbato
 
-
 ## Página 24
+
 
 o de la bocina de la locomotora del DV que circulaba en el VZO.
 Para garantizar la operatividad de la vía y la seguridad del transporte ferroviario en la
@@ -787,8 +826,8 @@ En la investigación se constató una infracción de las normativas internas en 
   «… Los vehículos ferroviarios de los clientes de VUZ (locomotoras, unidades, vagones) se estacionan
   normalmente en estado maniobrable. Los vehículos ferroviarios estacionados deben estar fiablemente
 
-
 ## Página 25
+
 
 asegurados contra el desplazamiento calzando con dos topes metálicos por ambos lados de la pendiente. …
   Del aseguramiento de los vehículos ferroviarios contra el desplazamiento responde el jefe de maniobras … ¡Dediquen
@@ -827,117 +866,124 @@ ETR521 «HITACHI Caravaggio» el 15. 11. 2018, entre otros, se desprende:
 
 ## Página 26
 
-ve 22.17.29 h a una velocidad de 4 km·h-1 se accionó el mando del freno directo del HDV para
+a las 22.17.29 h, a una velocidad de 4 km·h-1, se accionó el mando del freno directo HDV para
 •
-frenar. A continuación se produce un descenso gradual de la velocidad hasta la parada
-completa;
-ve 22.17.41 h el HDV, empujando la unidad ETR521, se detuvo en la vía n.º 3.
+frenar. A continuación se produce un descenso gradual de la velocidad hasta la
+parada completa;
+a las 22.17.41 h el HDV, que empujaba la unidad ETR521, se detuvo en la vía n.º 3.
 •
-Desde la última puesta en marcha, la unidad de maniobras empujada recorrió una
-distancia de 197 m. La velocidad máxima alcanzada fue de 6 km·h-1;
-ve 22.19.48 h tras accionar el mando del freno directo del HDV para desfrenar, comenzó a
+Desde el último arranque, la parte de maniobra empujada recorrió una distancia
+de 197 m. La velocidad máxima alcanzada fue de 6 km·h-1;
+a las 22.19.48 h, tras accionar el mando del freno directo HDV para desfrenar, comenzó
 •
-descender la presión en los cilindros de freno – al descender posteriormente la presión por
-debajo de 0,3 bar, el HDV quedó desfrenado. Al mismo tiempo, mediante la palanca de
-sentido de marcha del HDV, el conmutador de sentido de marcha se puso en la posición «Atrás»;
-### ve 22.19.55 h tras desenganchar la unidad ETR521 en la vía n.º 3, mediante el accionamiento
+a descender la presión en los cilindros de freno – con la posterior caída de la
+presión por debajo de 0,3 bar, el HDV quedó desfrenado. Al mismo tiempo, mediante
+la palanca de dirección del HDV, el conmutador de dirección se puso en la posición «Atrás»;
+### a las 22.19.55 h, tras desenganchar la unidad ETR521 en la vía n.º 3, mediante el
 •
-de la palanca de conducción, se puso el HDV en movimiento en sentido inverso, es decir, en el
-sentido de circulación por la vía n.º 3 más allá de las puntas de las agujas del desvío n.º 11.
-La circulación se realizó en forma de maniobra con el HDV aislado.
-Este momento se considera a la vez como el momento de producción de la MU,
+mando de la palanca de marcha se puso el HDV en movimiento hacia atrás, es decir,
+en el sentido de circulación por la vía n.º 3 más allá de las puntas de la aguja del
+desvío n.º 11. La maniobra se realizó en forma de maniobra de HDV aislado.
+Este momento se considera a la vez como el momento de origen de la MU,
 ### es decir, de la circulación no asegurada de la unidad eléctrica ETR521 (puesta en
 movimiento espontánea) por la vía n.º 3 en dirección al desvío n.º 11;
-ve 22.20.12 h a una velocidad de 11 km·h-1 se accionó el mando del freno directo del HDV
+a las 22.20.12 h, a una velocidad de 11 km·h-1, se accionó el mando del freno directo HDV
 •
-para frenar. A continuación se produce un descenso gradual de la velocidad hasta la parada
-completa;
-ve 22.20.22 h el HDV, tras recorrer una distancia de 48 m, se detuvo en la vía n.º 3 antes de
+para frenar. A continuación se produce un descenso gradual de la velocidad hasta la
+parada completa;
+a las 22.20.22 h el HDV, tras recorrer una distancia de 48 m, se detuvo en la vía n.º 3
 •
-las puntas de las agujas del desvío n.º 11. La velocidad máxima alcanzada fue de 11 km·h-1;
-ve 22.20.24 h mediante la palanca de sentido de marcha del HDV, el conmutador de sentido de
+antes de las puntas de la aguja del desvío n.º 11. La velocidad máxima alcanzada
+fue de 11 km·h-1;
+a las 22.20.24 h, mediante la palanca de dirección del HDV, el conmutador de dirección
 •
-marcha se puso en la posición «Adelante»;
-ve 22.20.42 h tras accionar el mando del freno directo del HDV para desfrenar, comenzó a
+se puso en la posición «Adelante»;
+a las 22.20.42 h, tras accionar el mando del freno directo HDV para desfrenar, comenzó
 •
-descender la presión en los cilindros de freno – al descender posteriormente la presión por
-debajo de 0,3 bar, el HDV quedó desfrenado;
-ve 22.20.47 h mediante el accionamiento de la palanca de conducción, se puso el HDV en
+a descender la presión en los cilindros de freno – con la posterior caída de la
+presión por debajo de 0,3 bar, el HDV quedó desfrenado;
+a las 22.20.47 h, mediante el mando de la palanca de marcha, se puso el HDV en movimiento
 •
-movimiento en sentido de avance, es decir, en el sentido de circulación desde la vía n.º 3 a
-través del desvío n.º 11 hacia la vía n.º 5. La circulación de la unidad de maniobras se
-realizó hacia delante con un largo arranque en forma de maniobra con el HDV aislado;
-### ve 22.20.59 h colisión del HDV con la unidad ETR521 (circulando espontáneamente desde
+hacia adelante, es decir, en el sentido de circulación desde la vía n.º 3 a través del
+desvío n.º 11 hacia la vía n.º 5. La maniobra DV se realizó hacia adelante con
+largo arranque en forma de maniobra de HDV aislado;
+### a las 22.20.59 h, colisión del HDV con la unidad ETR521 (que circulaba espontáneamente
 •
-el lugar de estacionamiento, es decir, desde la vía n.º 3) en la vía n.º 5 a una velocidad de
-13 km·h-1. A continuación se produce un descenso brusco de la velocidad hasta el valor de
-1 km·h-1, sin que se activara ningún dispositivo de freno de la locomotora. El HDV
-recorrió una distancia de 31 m desde el último arranque;
-ve 22.21.00 h a una velocidad de 1 km·h-1, a 2 m del lugar de la colisión de la unidad de
+desde el lugar de estacionamiento, es decir, desde la vía n.º 3) en la vía n.º 5
+a una velocidad de 13 km·h-1.
+### A continuación se produce un descenso brusco de la velocidad hasta el valor de
+### 1 km·h-1, sin que se activara ningún dispositivo de freno de la locomotora. El
+HDV recorrió una distancia de 31 m desde el último arranque;
+a las 22.21.00 h, a una velocidad de 1 km·h-1, a 2 m del lugar de la colisión DV, se
 •
-maniobras, se registra un aumento de la presión en los cilindros de freno del HDV,
-provocado por el accionamiento del mando del freno directo del HDV para frenar. La
-presión en el conducto principal tenía un valor constante de 4,9 bar. 1 s después, el HDV
-se detuvo tras la colisión con la unidad ETR521. Desde el último arranque del HDV antes
-de las puntas de las agujas del desvío n.º 11 se recorrió en total una distancia de 33 m,
-es decir, 2 m, más allá del lugar de la colisión de la unidad de maniobras;
-
+registra un aumento de la presión en los cilindros de freno del HDV, provocado por
+el accionamiento del mando del freno directo HDV para frenar. La presión en el
+conducto principal tenía un valor constante de 4,9 bar. 1 s después, el HDV se
+detuvo tras la colisión con la unidad ETR521. Desde el último arranque del HDV
+antes de las puntas de la aguja del desvío n.º 11 se recorrió en total una distancia
+de 33 m, es decir, 2 m más allá del lugar de la colisión DV;
 
 ## Página 27
 
-ve 22.24.26 h primera manipulación del elemento de mando del HDV tras la colisión de la
+ve 22.24.26 h primera manipulación del mando de HDV tras la colisión con DV –
 •
-unidad de maniobras – puesta del mando del freno automático del HDV en la posición «R»
-(frenado de acción rápida), la presión en el conducto principal comenzó a descender
-bruscamente desde el valor de 5 bar hasta 1 bar. 10 s después se registra una presión en
-el conducto principal de 0 bar. El HDV permanecía en el lugar de la parada final tras la
-colisión de la unidad de maniobras;
-### ve 22.28.19 h manipulación de la palanca de sentido de marcha del HDV, el conmutador de
+paso del mando del freno automático de HDV a la posición «R»
+(frenado de acción rápida), la presión en el conducto principal comenzó
+a descender bruscamente desde el valor de 5 bar hasta 1 bar. A los 10 s
+se registra una presión en el conducto principal de 0 bar. HDV se
+encontraba detenido en el punto de detención final tras la colisión
+con DV;
+### ve 22.28.19 h se manipuló la palanca de sentido de HDV, el conmutador de
 •
-sentido de marcha se puso en la posición «0» y en el mismo segundo se volvió a poner en la
-posición «Adelante» mediante una nueva manipulación de la palanca de sentido de marcha.
-El HDV no se puso en movimiento;
-### ve 22.28.27 h manipulación del mando del freno automático del HDV, que se puso
+sentido se accionó a la posición «0» y en el mismo segundo se volvió
+a accionar mediante una manipulación repetida de la palanca de sentido
+a la posición «Avante». HDV no fue puesto en movimiento;
+### ve 22.28.27 h se manipuló el mando del freno automático de HDV, que fue
 •
-de la posición «R» (frenado de acción rápida) a la posición «O» (desfrenado de servicio).
-La presión en el conducto principal comenzó a aumentar desde el valor de 0 bar hasta
-4,9 bar. 17 s después se alcanzó en el conducto principal una presión de 4,9 bar. El HDV
-se encontraba todavía en el lugar de la parada final tras la colisión de la unidad de
-maniobras;
-### ve 22.28.35 h manipulación de la palanca de sentido de marcha del HDV, el conmutador de
+puesto de la posición «R» (frenado de acción rápida) a la posición «O»
+(desfrenado en servicio). La presión en el conducto principal comenzó
+a aumentar desde el valor de 0 bar hasta 4,9 bar. A los 17 s se
+alcanzó en el conducto principal una presión de 4,9 bar. HDV seguía
+situado en el punto de detención final tras la colisión con DV;
+### ve 22.28.35 h se manipuló la palanca de sentido de HDV, el conmutador de
 •
-sentido de marcha se puso en la posición «0» y en el mismo segundo se volvió a poner en la
-posición «Atrás» mediante una nueva manipulación. El HDV no se puso en movimiento;
-ve 22.28.47 h como consecuencia de la manipulación del mando del freno directo del HDV para
+sentido se accionó a la posición «0» y en el mismo segundo se volvió
+a accionar mediante una manipulación repetida a la posición «Atrás».
+HDV no fue puesto en movimiento;
+ve 22.28.47 h como consecuencia de la manipulación del mando del freno
 •
-desfrenar, comenzó a descender la presión en los cilindros de freno – al descender
-posteriormente la presión por debajo de 0,3 bar, el HDV quedó desfrenado;
-### ve 22.29.13 h cambio del lugar de la posición final del HDV tras la MU – mediante la
+directo de HDV para desfrenar, la presión en los cilindros de freno
+comenzó a descender – con el posterior descenso de la presión por
+debajo de 0,3 bar, HDV quedó desfrenado;
+### ve 22.29.13 h cambio del punto de detención final de HDV tras la MU – con
 •
-manipulación de la palanca de conducción se puso el HDV en movimiento en sentido
-inverso, es decir, en el sentido de circulación hacia el desvío n.º 11 – el HDV recorrió una
-distancia de 2 m, la velocidad máxima alcanzada fue de 3 km·h-1. La circulación se realizó
-en forma de maniobra con el HDV aislado;
-### ve 22.29.15 h manipulación del mando del freno directo del HDV para
+la manipulación de la palanca de marcha, HDV fue puesto en movimiento
+en sentido hacia atrás, es decir, en el sentido de circulación hacia
+el desvío n.º 11 – HDV recorrió una distancia de 2 m, la velocidad
+máxima alcanzada fue de 3 km·h-1. La circulación se realizó en forma
+de maniobra de HDV en solitario;
+### ve 22.29.15 h se manipuló el mando del freno directo de HDV para frenar, a
 •
-frenar, 2 s después el HDV se detuvo antes del KV n.º 11;
-ve 22.30.52 h como consecuencia de la manipulación del mando del freno directo del HDV para
+los 2 s HDV se detuvo delante del KV n.º 11;
+ve 22.30.52 h como consecuencia de la manipulación del mando del freno
 •
-desfrenar, comenzó a descender la presión en los cilindros de freno – al descender
-posteriormente la presión por debajo de 0,3 bar, el HDV quedó desfrenado;
-### ve 22.30.58 h mediante la manipulación de la palanca de conducción se puso el HDV en
+directo de HDV para desfrenar, la presión en los cilindros de freno
+comenzó a descender – con el posterior descenso de la presión por
+debajo de 0,3 bar, HDV quedó desfrenado;
+### ve 22.30.58 h con la manipulación de la palanca de marcha, HDV fue puesto en
 •
-movimiento en sentido inverso, es decir, en el sentido de circulación hacia el desvío n.º 11
-antes de su comienzo. Posteriormente el HDV recorrió una distancia de 29 m, la velocidad
-máxima alcanzada fue de 8 km·h-1. La circulación se realizó en forma de maniobra con el
-HDV aislado;
-### ve 22.31.08 h manipulación del mando del freno directo del HDV para frenar.
+movimiento en sentido hacia atrás, es decir, en el sentido de
+circulación hacia el desvío n.º 11 antes de su comienzo. HDV recorrió
+posteriormente una distancia de 29 m, la velocidad máxima alcanzada
+fue de 8 km·h-1. La circulación se realizó en forma de maniobra de
+HDV en solitario;
+### ve 22.31.08 h manipulación del mando del freno directo de HDV para frenar.
 •
-9 s después el HDV se detuvo en la vía n.º 3 antes de las puntas de las agujas del desvío
-n.º 11;
-
+A los 9 s HDV se detuvo en la vía n.º 3 delante de las puntas de la
+aguja del desvío n.º 11;
 
 ## Página 28
+
 
 ### ve 22.31.18 h manipulación de la palanca de sentido de marcha del HDV, el conmutador de
 •
@@ -996,8 +1042,8 @@ movimiento en sentido inverso, es decir, en el sentido de circulación desde el 
 más allá de las puntas de sus agujas. La circulación se realizó en forma de maniobra con el
 HDV aislado;
 
-
 ## Página 29
+
 
 ### ve 22.39.57 h manipulación del mando del freno directo del HDV para
 •
@@ -1058,6 +1104,7 @@ en movimiento del HDV 794.001-8 que se alejaba en la vía n.º 3
 
 ## Página 30
 
+
 hasta el momento de la colisión de DV) se había realizado un movimiento en la vía de 16,3 m, con una aceleración teórica de 0,0079 m·s-2, mientras que en el nivel del topón entre las vías n.º 3 y 5 la unidad eléctrica se movía a una velocidad de 0,32 m·s-1 (1,14 km·h-1) y en el momento de la colisión a una velocidad de 0,51 m·s-1 (1,83 km·h-1).
 No se detectó deficiencia.
 ### 3.5 Documentación sobre el sistema de explotación
@@ -1067,8 +1114,8 @@ Se detectaron deficiencias.
 Hallazgos:
 • el jefe de maniobras no aseguró contra el arrastre la unidad eléctrica ETR521 estacionada en el llamado estado maniobrable, mediante la colocación de dos topes metálicos colocados en sentido contrario a ambos lados del raíl de los ejes de un bogie extremo, en un lado visible, lo que tuvo como consecuencia la marcha no asegurada (espontánea) de la unidad por la vía n.º 3 en dirección a la aguja n.º 11 y la posterior colisión con la unidad de maniobras que circulaba en sentido contrario, formada por el HDV 794.001-8 circulando por sí solo (véanse los puntos 2.1.3, 3.4.1, 4.1.1 y 4.1.2 de esta ZZ);
 
-
 ## Página 31
+
 
 • el jefe de maniobras, que circulaba en el estribo derecho adyacente al frontal del morro largo (capó delantero) del HDV 794.001-8 al circular por la vía n.º 3 desde el espacio situado delante de la ZV n.º 11 en dirección a la vía n.º 5 del sector MOK (tras el previo estacionamiento de la unidad eléctrica ETR521 en la vía n.º 3), sin demora innecesaria hasta el momento de la colisión ante el obstáculo surgido repentinamente – la unidad ETR521 circulando en sentido contrario sin asegurar, que en el momento de la puesta en marcha de la unidad de maniobras ya se encontraba a 4,35 m del topón entre las vías n.º 3 y 5, es decir, en la vía de circulación común, no dio al maquinista ninguna orden para detener la unidad de maniobras (HDV), con lo que incumplió la obligación consistente en asegurar la adopción de las medidas que hubieran impedido y evitado la colisión de DV, o bien reducido las consecuencias de la colisión inevitable.
 Dado que dar la orden al maquinista para detener el HDV 794.001-8 en la vía de circulación común con la unidad eléctrica ETR521 no habría impedido la colisión de DV, este hecho no puede valorarse en su relación causal. Sin embargo, dar la orden para detener el HDV habría tenido influencia, ante la reacción inmediata del maquinista a la orden dada, en el alcance y la cuantía del daño ocasionado (véanse los puntos 2.1.3, 3.4.4, 4.1.1 y 4.1.2 de esta ZZ).
@@ -1082,8 +1129,8 @@ En relación con la excepcionalidad no se produjo comunicación verbal que hubie
 ### 3.6.1 Jornada laboral de los empleados de la empresa explotadora de la vía y del transportista que fueron participantes en la excepcionalidad
 • El maquinista del HDV 794.001-8, en la jornada del día 15. 11. 2018 desde las 12.45 h, descanso previo a la jornada de 14 h 45 min. Durante la jornada, la pausa para la comida y el descanso se disfrutó de 16.22 h a 16.38 h y de 16.47 h a 17.14 h.
 
-
 ## Página 32
+
 
 • El jefe de maniobras, en la jornada del día 15. 11. 2018 desde las 13.00 h, descanso previo a la jornada de 6 h. Durante la jornada, la pausa para la comida y el descanso se disfrutó de forma continuada en el tramo de la jornada en el que conducía, en el marco de la prueba de circulación en VZO, la unidad eléctrica ETR521. No fue posible concretar los horarios exactos de disfrute de la pausa, porque la empresa Hitachi Rail Italy, S. p. A., en el momento en que el DI inició la investigación de la excepcionalidad, ya no disponía de los registros (datos de circulación) de las pruebas de circulación realizadas.
 El empleador garantizó las condiciones para el descanso previo a la jornada y durante la jornada de conformidad con la Ley n.º 262/2006 Sb., o bien con el Decreto gubernamental n.º 589/2006 Sb., por el que se establece la regulación diferenciada de la jornada laboral y del tiempo de descanso de los empleados en el transporte.
@@ -1103,27 +1150,71 @@ No es desde luego irrelevante que el empleado que actuó, en el desempeño de su
 ### 4.1 Descripción final del suceso ferroviario
 ### 4.1.1 Elaboración de las conclusiones sobre el suceso ferroviario basadas en los hechos
 establecidos en el punto 3
-El 15 de 11 de 2018 se realizaron en la vía VZO de la vía de ensayo ŽZO Cerhenice pruebas de conducción con la unidad eléctrica de cinco coches de dos pisos ETR521 «HITACHI Caravaggio». Tras finalizar las pruebas de conducción, la unidad debía ser estacionada, de acuerdo con el calendario (plan), en la vía n.º 3 del sector MOK de la vía de ensayo ŽZO. El estacionamiento de la unidad eléctrica ya inactiva fue realizado por el HDV 794.001-8 mediante maniobras de empuje y tracción, y finalizado a las 22.17.41 h en la vía n.º 3. En esta vía, la unidad inactiva ETR521 fue desenganchada del HDV y debía permanecer estacionada, en el llamado estado maniobrable, asegurada contra el desplazamiento mediante la colocación de dos topes metálicos colocados en sentidos opuestos a ambos lados de la pendiente en los ejes de un bogie extremo, en un lado visible. A las 22.19.55 h partió el tramo de maniobra, formado por el HDV 794.001-8 circulando independientemente por la vía n.º 3 más allá de las puntas de la aguja n.º 11, es decir, en dirección a Praga, donde se detuvo a las 22.20.22 h.
-En el momento de poner el HDV 794.001-8 en movimiento en la vía n.º 3, es decir, a las 22.19.55 h, cuando el HDV se separó de la unidad eléctrica ya desenganchada, que debido a las condiciones de pendiente de la vía n.º 3 (descenso de 1,4 ‰) había sido empujada (presionada) por su enganche contra el enganche del HDV que se alejaba, la unidad inactiva y no controlada ETR521 se puso por sí misma en movimiento en el sentido de la pendiente de la vía, movimiento que, para los fines de la investigación del presente suceso ferroviario, fue considerado como un movimiento rectilíneo uniformemente acelerado.
-Tras la maniobra de la aguja n.º 11 a la posición para la circulación del HDV 794.001-8 en sentido contrario hacia la vía n.º 5, el jefe de maniobras dio al maquinista la instrucción de circular por la vía n.º 3 desde el espacio delante del ZV n.º 11 en dirección a la vía n.º 5 del sector MOK. Posteriormente, a las 22.20.47 h, el maquinista del HDV puso el mismo en movimiento en dirección a Kolín (a Velim), momento en el que la unidad que circulaba por sí misma ya se encontraba en movimiento no asegurado y ya estaba a 4,35 m del límite de vía entre las vías n.º 3 y 5, es decir, en la vía compartida. El momento en que el jefe de maniobras dio la instrucción de poner el HDV en movimiento no fue posible determinarlo de forma comprobable, debido a la ausencia de un dispositivo de registro que registrara los acontecimientos en el espacio del sector MOK, la aguja n.º 11. Por lo tanto, no fue posible determinar si esta instrucción del jefe de maniobras dada al maquinista del HDV fue dada en el momento en que la unidad eléctrica que circulaba sin asegurar se encontraba antes o después del nivel del límite de vía entre las vías n.º 3 y 5.
-Tras el paso del HDV 794.001-8 por la aguja n.º 11, momento en el que el jefe de maniobras se encontraba en el estribo derecho en el lado del larguero frontal de la locomotora, a las 22.20.59 h en el km 0,73160 a una velocidad de 13 km·h-1 se produjo la colisión del HDV 794.001-8 con la unidad inactiva y no controlada ETR521 que circulaba en sentido contrario sin asegurar (por sí misma, indebidamente), la cual en el momento de la colisión alcanzó la velocidad teórica máxima de 1,83 km·h-1, mientras que hasta el momento de la colisión el jefe de maniobras no dio al maquinista ninguna instrucción para detener el HDV y el maquinista del HDV, teniendo la obligación de cumplir las condiciones de circulación según las condiciones de visibilidad, no activó ningún dispositivo de freno de la locomotora. 2 s después, es decir, a las 22.21.01 h y a 2 m del lugar de la colisión, el HDV 794.001-8 se detuvo, por efecto del freno de acción directa.
-Con la colisión se dañaron el HDV 794.001-8 y el DV de cabeza «DM2» de la unidad eléctrica ETR521, no se produjeron daños en otros DV de la unidad. Ningún DV se descarriló como consecuencia del suceso ferroviario y no se produjeron daños personales. El daño total se estimó en 5 498 790 Kč, pudiendo alcanzar hasta 70 498 790 Kč (véanse los puntos 2.1.2 y 2.3.3 de la presente ZZ).
-
+El 15 de 11 de 2018 se realizaron en la vía VZO de la vía de ensayo ŽZO Cerhenice
+ensayos de circulación con la unidad eléctrica de cinco coches de dos pisos ETR521 «HITACHI
+Caravaggio». Tras finalizar los ensayos de circulación, de acuerdo con el calendario
+(plan), la unidad debía ser estacionada en la vía n.º 3 del sector MOK de la vía de ensayo ŽZO.
+El estacionamiento de la unidad eléctrica ya inactiva fue realizado por el HDV 794.001-8
+mediante maniobras de empuje y tracción, y finalizado a las 22.17.41 h en la vía n.º 3.
+En esta vía, la unidad inactiva ETR521 fue desenganchada del HDV y debía permanecer
+estacionada, en el llamado estado maniobrable, asegurada contra la marcha espontánea
+mediante la colocación de dos topes metálicos colocados en sentido contrario a ambos
+lados de la pendiente en los ejes de un bogie extremo, en un lado visible. A las
+22.19.55 h partió el tramo de maniobras, formado por el HDV 794.001-8 circulando
+autónomamente por la vía n.º 3 más allá de las puntas de la aguja n.º 11, es decir, en
+dirección a Praga, donde a las 22.20.22 h se detuvo.
+En el momento de poner el HDV 794.001-8 en movimiento en la vía n.º 3, es decir, a las
+22.19.55 h, cuando el HDV se separó de la unidad eléctrica ya desenganchada, que debido
+a las condiciones de pendiente de la vía n.º 3 (descenso de 1,4 ‰), había sido empujada
+(sobrepresionada) con su enganche contra el enganche del HDV que se alejaba, la unidad
+inactiva y no controlada ETR521 se puso espontáneamente en movimiento en el sentido
+de la pendiente de la vía, movimiento que a efectos de la investigación del presente SU
+fue considerado como movimiento rectilíneo uniformemente acelerado.
+Tras la maniobra de la aguja n.º 11 a la posición para la circulación del HDV 794.001-8
+en sentido contrario hacia la vía n.º 5, el jefe de maniobras dio al maquinista la instrucción
+de circular por la vía n.º 3 desde el espacio delante del ZV n.º 11 en dirección a la vía
+n.º 5 del sector MOK. Posteriormente, a las 22.20.47 h, el maquinista puso el HDV
+en movimiento en dirección a Kolín (hacia Velim), momento en el que la unidad que circulaba
+espontáneamente ya se encontraba en movimiento no asegurado y ya estaba a 4,35 m
+del topador entre las vías n.º 3 y 5, es decir, en la vía de circulación común. La hora en
+que el jefe de maniobras dio la instrucción de poner el HDV en movimiento no fue posible
+determinar de forma demostrable debido a la ausencia de un dispositivo de registro que
+registrara los acontecimientos en el espacio del sector MOK, la aguja n.º 11. Por lo tanto,
+no fue posible determinar si esta instrucción del jefe de maniobras dada al maquinista del
+HDV fue dada en el momento en que la unidad eléctrica que circulaba sin asegurar se
+encontraba antes o después del nivel del topador entre las vías n.º 3 y 5.
+Tras el paso del HDV 794.001-8 por la aguja n.º 11, cuando el jefe de maniobras se
+encontraba en el estribo derecho del lado del morro largo de la locomotora, a las 22.20.59 h
+en el km 0,73160 a una velocidad de 13 km·h-1 se produjo la colisión del HDV 794.001-8
+con la unidad ETR521 inactiva y no controlada que circulaba en sentido contrario sin
+asegurar (espontáneamente, indebidamente), la cual en el momento de la colisión alcanzó
+la velocidad teórica máxima de 1,83 km·h-1, mientras que hasta el momento de la colisión
+el jefe de maniobras no dio al maquinista ninguna instrucción para detener el HDV y el
+maquinista del HDV, teniendo la obligación de cumplir las condiciones de circulación
+según las condiciones de visibilidad, no activó ningún dispositivo de freno de la locomotora.
+2 s después, es decir, a las 22.21.01 h, y a 2 m del lugar de la colisión, el HDV 794.001-8
+se detuvo, y ello por efecto del freno de mando directo.
+Con la colisión se dañaron el HDV 794.001-8 y el DV de cabeza «DM2» de la unidad
+eléctrica ETR521, no se produjeron daños en otros DV de la unidad. Ningún DV se
+descarriló como consecuencia del SU y no se produjeron daños personales. El daño total
+fue estimado en 5 498 790 Kč, pudiendo alcanzar hasta 70 498 790 Kč (véanse los puntos
+2.1.2 y 2.3.3 de la presente ZZ).
 
 ## Página 34
 
 ### 4.2 Análisis
-### 4.2.1 Evaluación de los hechos establecidos en el punto 3 y exposición de las conclusiones sobre la causa del suceso ferroviario y la actuación de los servicios de rescate
-El operador VÚŽ, a. s., realizó el 4 de 1 de 2019, es decir, en el periodo anterior a la iniciación de la investigación de las causas y circunstancias de este suceso ferroviario por parte de la Inspección Ferroviaria, un ensayo de verificación, con el objetivo de comprobar prácticamente las condiciones de aseguramiento fiable de la unidad eléctrica ETR521, estacionada en el llamado estado maniobrable, contra el desplazamiento mediante topes de doble brida. En el ensayo de verificación se utilizaron los DV implicados en el suceso ferroviario en cuestión, es decir, el HDV 794.001-8 y la unidad eléctrica ETR521 «HITACHI Caravaggio», colocando primero los DV conectados en una posición en la que el HDV que empujaba quedaba con la cabina al nivel del límite de vía de la aguja n.º 11 (límite de vía entre las vías n.º 3 y 5) y toda la unidad empujada se encontraba en la vía n.º 3 del sector MOK. Con ello se reprodujo el estado y se definieron los lugares de la última detención del tramo de maniobra empujado y del estacionamiento real de la unidad eléctrica ETR521 el 15 de 11 de 2018.
-El aseguramiento de la unidad eléctrica ETR521, estacionada en el llamado estado maniobrable, contra el desplazamiento mediante topes de doble brida se realizó en las siguientes variantes:
-1. bajo la rueda izquierda del eje 1.º del bogie frontal del DV de cabeza «DM2» se colocó 1 tope desde la dirección de Kolín (de Velim) y bajo la rueda izquierda del eje 2.º del bogie frontal del mismo DV de cabeza se colocó también 1 tope desde la dirección de Praga. Posteriormente se soltó el freno del HDV 794.001-8 y a continuación todos los DV se movieron en el sentido de la pendiente de 1,4 ‰ unos 3 cm en dirección a Praga, momento en el que la rueda izquierda del eje 2.º del bogie frontal se enclavó contra la lengua del tope y todos los DV se detuvieron. La rueda del eje 2.º del bogie frontal del DV de cabeza «DM2» no subió sobre el tope, el tope no tendió a desplazarse ni a salirse;
-2. bajo la rueda izquierda del eje 1.º del bogie frontal del DV de cabeza «DM2» se colocó 1 tope desde la dirección de Kolín (de Velim) y sobre la banda izquierda del carril a una distancia de unos 20 cm de la rueda izquierda del eje 2.º del bogie frontal del mismo DV de cabeza se colocó también 1 tope desde la dirección de Praga. Posteriormente se soltó el freno del HDV 794.001-8 y a continuación todos los DV se pusieron en movimiento en el sentido de la pendiente de 1,4 ‰ en dirección a Praga. Tras el contacto de la rueda izquierda del eje 2.º del bogie frontal con el tope y la subida de la rueda sobre su lengua, el tope sobre el carril fue desplazado por la acción de la fuerza de inercia unos 5 cm y todos los DV se detuvieron. El tope no tendió a salirse.
-### Fig. n.º 3: Boceto de la realización del ensayo de verificación.
+### 4.2.1 Evaluación de los hechos constatados en el punto 3 y exposición de las conclusiones sobre la causa del
+suceso excepcional y la actuación de los servicios de emergencia
+El operador VÚŽ, a. s., realizó el día 4. 1. 2019, es decir, en el periodo anterior al inicio de la investigación de las causas y circunstancias de este SE por parte de la Inspección Ferroviaria, una prueba de verificación, cuyo objetivo era la comprobación práctica de las condiciones de aseguramiento fiable de la unidad eléctrica ETR521, estacionada en el llamado estado maniobrable, frente a la deriva mediante topes de doble brida. En la prueba de verificación se utilizó la LV participante en el SE objeto de investigación, es decir, la HDV 794.001-8 y la unidad eléctrica ETR521 «HITACHI Caravaggio», habiendo colocado primero la LV acoplada en la posición en la que la HDV que empujaba quedaba con la cabina a la altura del punto de cruce de la aguja n.º 11 (el punto de cruce entre las vías n.º 3 y 5) y toda la unidad empujada se encontraba en la vía n.º 3 del perímetro MOK. Con ello se reprodujo el estado y se definieron los lugares de la última parada de la sección de maniobra empujada y del estacionamiento real de la unidad eléctrica ETR521 el día 15. 11. 2018.
+El aseguramiento de la unidad eléctrica ETR521, estacionada en el llamado estado maniobrable, frente a la deriva mediante topes de doble brida se realizó en las siguientes variantes:
+1. bajo la rueda izquierda del eje 1 del bogie delantero de la LV cabecera «DM2» se colocó 1 tope desde la dirección de Kolín (desde Velimi) y bajo la rueda izquierda del eje 2 del bogie delantero de la misma LV cabecera se colocó también 1 tope desde la dirección de Praga. A continuación se desfrenó la HDV 794.001-8 y, posteriormente, toda la LV se movió en la dirección de la pendiente de 1,4 ‰ unos 3 cm hacia Praga, habiéndose bloqueado la rueda izquierda del eje 2 del bogie delantero contra la lengua del tope y deteniéndose toda la LV. La rueda del eje 2 del bogie delantero de la LV cabecera «DM2» no subió sobre el tope, y el tope no presentó tendencia a desplazarse ni a salirse;
+2. bajo la rueda izquierda del eje 1 del bogie delantero de la LV cabecera «DM2» se colocó 1 tope desde la dirección de Kolín (desde Velimi) y sobre la banda izquierda del carril, a una distancia de unos 20 cm de la rueda izquierda del eje 2 del bogie delantero de la misma LV cabecera, se colocó también 1 tope desde la dirección de Praga. A continuación se desfrenó la HDV 794.001-8 y, posteriormente, toda la LV se puso en movimiento en la dirección de la pendiente de 1,4 ‰ hacia Praga. Tras el contacto de la rueda izquierda del eje 2 del bogie delantero con el tope y la subida de la rueda sobre su lengua, el tope sobre el carril fue desplazado por la acción de la fuerza de inercia unos 5 cm y toda la LV se detuvo. El tope no presentó tendencia a salirse.
+### Fig. n.º 3: Esquema de la realización de la prueba de verificación.
                             Fuente: VÚŽ, a. s.
-El ensayo de verificación demostró de forma inequívoca que un tope colocado bajo la rueda de un DV en el sentido de la pendiente, es decir, desde la dirección de Praga, es una medida suficiente para el aseguramiento fiable de
-
+La prueba de verificación demostró de manera inequívoca que un tope colocado bajo la rueda de la LV en la dirección de la pendiente, es decir, desde la dirección de Praga, constituye una medida suficiente para el aseguramiento fiable
 
 ## Página 35
+
 
 los DV estacionados en el llamado estado maniobrable contra el desplazamiento en el sentido de la pendiente, y que el jefe de maniobras no aseguró de la forma establecida la unidad eléctrica ETR521 estacionada contra el desplazamiento.
 El operador VÚŽ, a. s., de acuerdo con el § 60 art. 319 de la norma interna VÚŽ ZD 1, el § 35 art. 91 letra a) de la norma interna VÚŽ ZD 6 y la norma interna Orden n.º 3/2017, no operó la vía de ensayo de acuerdo con el sistema de normas internas creado que garantiza la operación segura de la vía y del transporte ferroviario en las condiciones establecidas por la DÚ en la decisión de emisión de la autorización oficial, al no asegurar el jefe de maniobras la unidad eléctrica ETR521 estacionada en el llamado estado maniobrable contra el desplazamiento mediante la colocación de dos topes metálicos en sentidos opuestos a ambos lados de la pendiente en los ejes de un bogie extremo, en un lado visible, lo que tuvo como consecuencia el desplazamiento no asegurado (espontáneo) de la unidad por la vía n.º 3 en el sentido de la pendiente hacia la aguja n.º 11 y la posterior colisión con el tramo de maniobra que circulaba en sentido contrario, formado por el HDV 794.001-8 circulando independientemente.
@@ -1139,18 +1230,23 @@ La causa fundamental del suceso ferroviario fue:
 ### 4.3.3 Causas originadas en el marco legal y en el uso del sistema de garantía de seguridad
 La causa del suceso ferroviario originada en el marco legal y en el uso del sistema de garantía de seguridad no fue detectada por la Inspección Ferroviaria.
 
-
 ## Página 36
 
 ### 4.4 Hallazgos complementarios
-4.4.1 Deficiencias y omisiones detectadas durante la investigación que no se refieren a las conclusiones sobre las causas
+4.4.1 Deficiencias e omisiones detectadas durante la investigación que no se relacionan con las conclusiones sobre las causas
 El operador VÚŽ, a. s.:
-• de acuerdo con el § 1 art. 15, el § 8 art. 91 letra i) y el § 17 art. 127 letra c) de la norma interna VÚŽ ZD 1 y el § 36 art. 98 de la norma interna VÚŽ ZD 6, no operó la vía de ensayo de acuerdo con el sistema de normas internas creado que garantiza la operación segura de la vía y del transporte ferroviario en las condiciones establecidas por la DÚ en la decisión de emisión de la autorización oficial, al:
-◦el jefe de maniobras, circulando en el estribo derecho adyacente al larguero frontal (capó frontal) del HDV 794.001-8 durante la circulación por la vía n.º 3 desde el espacio delante del ZV n.º 11 en dirección a la vía n.º 5 del sector MOK (tras el previo estacionamiento de la unidad eléctrica ETR521 en la vía n.º 3), no dio al maquinista ninguna instrucción para detener el tramo de maniobra (HDV) sin demora innecesaria hasta el momento de la colisión con el obstáculo surgido repentinamente (la unidad eléctrica ETR521 que circulaba en sentido contrario sin asegurar), incumpliendo así la obligación consistente en asegurar la adopción de medidas que hubieran impedido y evitado la colisión de los DV, o bien reducido las consecuencias de la colisión inevitable,
-◦el maquinista del tramo de maniobra, formado por el HDV 794.001-8 circulando independientemente, no cumplió las condiciones establecidas para la circulación según las condiciones de visibilidad, ya que durante la circulación por la vía n.º 3 desde el espacio delante del ZV n.º 11 en dirección a la vía n.º 5 del sector MOK (tras el previo estacionamiento de la unidad eléctrica ETR521 en la vía n.º 3) no utilizó hasta el momento de la colisión con el obstáculo surgido repentinamente (la unidad eléctrica ETR521 que circulaba en sentido contrario sin asegurar) ningún medio disponible para detener el tramo de maniobra (HDV), o bien para reducir las consecuencias de la colisión inevitable de los DV;
-• en relación con las disposiciones del § 8 art. 91 letra l) y art. 92 letra b) de la norma interna VÚŽ ZD 1, art. 8 letras a), b), c), art. 39 y art. 45 de la norma interna VÚŽ ZD 5 y el § 9 apartado 3 del decreto n.º 376/2006 Sb., de acuerdo con el § 49 apartado 3 letras a) y b) de la ley n.º 266/1994 Sb., no notificó sin demora el suceso ferroviario a la Inspección Ferroviaria ni aseguró el lugar del suceso ferroviario, al manipular el maquinista, tras la detención del tramo de maniobra en la posición final tras la colisión con la unidad eléctrica ETR521, en el tiempo desde las 22.28.19 h, con los elementos de mando del HDV 794.001-8 (con la palanca de dirección, con el mando del freno automático, con la palanca de marcha) y posteriormente a las 22.29.13 h, según la instrucción dada por el jefe de maniobras, puso el HDV en movimiento, alterando así la posición final del HDV y, posteriormente, también la de la unidad eléctrica ETR521 tras el suceso ferroviario. Dichas modificaciones inadmisibles del estado original en el lugar del suceso ferroviario se realizaron a pesar de que en el lugar del suceso ferroviario no se estaban realizando labores de rescate y el empleado de la DI no dio su consentimiento para su realización.
+según el § 1 art. 15, § 8 art. 91 letra i) y § 17 art. 127 letra c) del reglamento interno VÚŽ ZD 1
+•
+y el § 36 art. 98 del reglamento interno VÚŽ ZD 6, no explotó la vía de pruebas conforme al sistema de reglamentos internos establecido que garantiza la explotación segura de la vía y del transporte ferroviario en las condiciones fijadas por el DÚ en la decisión de expedición de la autorización oficial, al:
+◦el jefe de maniobras, que circulaba en el estribo derecho adyacente al frontal del morro largo (capó delantero) del HDV 794.001-8 durante la circulación por la vía n.º 3 desde el espacio situado delante del ZV n.º 11 hacia la vía n.º 5 del recinto MOK (tras haber estacionado previamente la unidad eléctrica ETR521 en la vía n.º 3), no dio al maquinista ninguna instrucción para detener el elemento de maniobras (HDV) sin demora innecesaria hasta el momento de la colisión contra el obstáculo surgido repentinamente (la unidad eléctrica ETR521 que circulaba en sentido contrario sin asegurar), con lo que incumplió la obligación consistente en asegurar la adopción de las medidas que hubieran evitado y prevenido la colisión de DV, o bien reducido las consecuencias de la colisión inevitable,
+◦el maquinista del elemento de maniobras, constituido por el HDV 794.001-8 circulando de forma independiente, no cumplió las condiciones fijadas para la circulación según las condiciones de visibilidad, ya que durante la circulación por la vía n.º 3 desde el espacio situado delante del ZV n.º 11 hacia la vía n.º 5 del recinto MOK (tras haber estacionado previamente la unidad eléctrica ETR521 en la vía n.º 3) no utilizó, hasta el momento de la colisión contra el obstáculo surgido repentinamente (la unidad eléctrica ETR521 que circulaba en sentido contrario sin asegurar), ningún medio disponible para detener el elemento de maniobras (HDV) o bien para reducir las consecuencias de la colisión inevitable de DV;
+en relación con las disposiciones del § 8 art. 91 letra l) y art. 92 letra b) del reglamento interno VÚŽ
+•
+ZD 1, art. 8 letras a), b), c), art. 39 y art. 45 del reglamento interno VÚŽ ZD 5 y § 9 apartado 3 del decreto n.º 376/2006 Sb., según el § 49 apartado 3 letras a) y b) de la ley n.º 266/1994 Sb., no notificó inmediatamente el MU a la Inspección Ferroviaria ni aseguró el lugar del MU, en la medida en que el maquinista, tras detener el elemento de maniobras en la posición final tras la colisión con la unidad eléctrica ETR521, en el intervalo de tiempo desde las 22.28.19 h, manipuló los elementos de mando del HDV 794.001-8 (la palanca de dirección, el mando del freno automático, la palanca de marcha) y, posteriormente, a las 22.29.13 h, según la instrucción dada por el jefe de maniobras, puso el HDV en movimiento y alteró así la posición final del HDV y, posteriormente, también la de la unidad eléctrica ETR521 tras el MU.
+Dichas modificaciones inadmisibles del estado original en el lugar del MU se realizaron a pesar de que en el lugar del MU no se estaban realizando trabajos de salvamento y el empleado de la DI no había dado su consentimiento para su realización.
 
 ## Página 37
+
 
 ## 5 MEDIDOS ADOPTADOS
 ### 5.1 Lista de medidas que ya se han tomado o adoptado como consecuencia del suceso ferroviario
@@ -1173,8 +1269,8 @@ inspector
 De la Inspección Territorial de Ostrava
 De la Inspección Territorial de Ostrava
 
-
 ## Página 38
+
 
 ## 7 ANEXOS
 ### Fig. n.º 4, 5: Detalles de los daños en la carrocería del DV de cabeza «DM2»

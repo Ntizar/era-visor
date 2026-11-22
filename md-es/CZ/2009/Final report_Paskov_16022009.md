@@ -10,13 +10,14 @@ chars: 199995
 ratio_longitud: 1.23
 tokens_in: 118567
 tokens_out: 76570
-verificacion: revisar
-notas_cifras: ["bloque 2: original bilingüe: se compara contra el idioma principal (CS)", "bloque 3: original bilingüe: se compara contra el idioma principal (CS)", "bloque 5: original bilingüe: se compara contra el idioma principal (CS)", "bloque 6: original bilingüe: se compara contra el idioma principal (CS)", "bloque 7: original bilingüe: se compara contra el idioma principal (CS)", "bloque 9: original bilingüe: se compara contra el idioma principal (PT)"]
-avisos: ["bloque 3: ratio 1.79", "bloque 6: ratio 1.92", "bloque 10: ratio 1.66", "bloque 11: ratio 1.67", "bloque 23: ratio 1.79", "bloque 24: ratio 2.16"]
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (PT)", "página 5: original bilingüe: se compara contra el idioma principal (EN)", "página 6: original bilingüe: se compara contra el idioma principal (PT)", "página 7: original bilingüe: se compara contra el idioma principal (CS)", "página 8: original bilingüe: se compara contra el idioma principal (CS)", "página 10: original bilingüe: se compara contra el idioma principal (CS); ratio 2.08"]
 ---
+
 ## Página 1
+
 
 Inspección Ferroviaria
 República Checa
@@ -41,11 +42,12 @@ CIF:   75009561
 http://www.dicr.cz
 fax: (+420) 224 805 428
 
-
 ## Página 2
 
 
+
 ## Página 3
+
 
 # RESUMEN
 Gravedad:
@@ -99,11 +101,12 @@ Se recomienda adoptar una medida propia que fuerce la implementación de
 ●
 la recomendación anterior.
 
-
 ## Página 4
 
 
+
 ## Página 5
+
 
 # Índice
  Resumen .........................................................................................................................3
@@ -138,6 +141,7 @@ contractual ....................................................................
 
 ## Página 6
 
+
 3.1.2 Otras personas .........................................................................................................23
 3.2 Sistema de garantía de la seguridad ...............................................................................23
 3.2.1 Organización marco y forma en que se emiten y aplican las instrucciones .......23
@@ -168,8 +172,8 @@ aplicación ....................................................................
 ............................................................................................................................41
 4.2 Examen ......................................................................................................................43
 
-
 ## Página 7
+
 
 4.2.1 Evaluación de los hechos establecidos según el punto 3 y formulación de conclusiones sobre la causa del suceso ferroviario y la actuación de los servicios de emergencia ..........................................43
 4.3 Conclusiones .......................................................................................................................51
@@ -190,6 +194,7 @@ aplicación ....................................................................
  7.2 Plano de la est. Paskov ..................................................................................................56
 
 ## Página 8
+
 
 ## 1 RESUMEN
 Grupo de suceso: accidente grave.
@@ -217,8 +222,8 @@ acelerar los trabajos de implantación y equipamiento de las locomotoras con la 
 el sistema en servicio en la línea correspondiente, las locomotoras en explotación puedan aprovechar plenamente todas
 las funcionalidades del ETCS;
 
-
 ## Página 9
+
 
 hasta la implantación del ETCS en servicio en las estaciones, donde se permita la expedición de trenes con transporte de
 –
@@ -227,20 +232,55 @@ en la indicación que autoriza la circulación, incluida la indicación de llama
 procedimientos tecnológicos uniformes de expedición y salida de tren. Con la modificación de los procedimientos, evitar los errores y fallos de los maquinistas una vez puesto el tren en movimiento, es decir, que el maquinista se ajuste a las instrucciones del operador de la infraestructura impartidas al organizar el transporte ferroviario y, en la situación en que la circulación del tren no esté autorizada por la indicación de la señal principal correspondiente, detenga el tren de forma segura antes de dicha señal.
 La Inspección Ferroviaria recomienda asimismo a la autoridad administrativa, que es la Oficina Ferroviaria, la adopción de una medida propia encaminada a garantizar la realización de la recomendación de seguridad anteriormente mencionada.
 
-
 ## Página 10
 
-## 2 DATOS RELATIVOS AL SUECO EXTRAORDINARIO
+## 2 DATOS RELATIVOS AL SUCESO EXTRAORDINARIO
 ### 2.1 Suceso extraordinario
 ### 2.1.1 Fecha, hora exacta y lugar del suceso extraordinario
-Se produjo un suceso extraordinario en el transporte ferroviario – accidente grave (en adelante, SE) el día 16/02/2009 a las 09:08 h, en el ferrocarril, categoría nacional, Ostrava hl. n. – Valašské Meziříčí (línea 302A), entre las estaciones de ferrocarril (en adelante, est.) de Vratimov y Paskov, pk 13,459, coordenadas GPS: 49,7441° N, 18,2978° E.
-### 2.1.2 Descripción del suceso extraordinario y del lugar del accidente, incluida la actuación del sistema integrado de emergencias y del servicio de rescate
-La estación de origen del tren Os 3101 fue la est. Kojetín, y la estación de destino la est. Ostrava hl. n. El tren llegó a la est. Paskov con un retraso de 28 min respecto a su llegada programada. El motivo del retraso del tren fue la exclusión de una locomotora (en adelante, TDV) del tren por una avería técnica en la est. Frýdlant nad Ostravicí. El transportista del tren Os 3101 fue České dráhy, a. s. (en adelante, ČD, a. s.).
-La estación de origen del tren Os 3116 fue la est. Ostrava hl. n., y la estación de destino la est. Frenštát pod Radhoštěm.
-El transportista del tren Os 3116 fue ČD, a. s.
-La salida prevista del tren Os 3101 de la est. Lískovec u Frýdku hacia la est. Paskov fue indicada a través del diario de circulación electrónico (en adelante, EDD) por la persona que dirige el tráfico ferroviario (en adelante, jefe de estación) de la est. Lískovec u Frýdku, con el condicionante de que el tren Os 3101 saldría de la est. Lískovec u Frýdku a las 09:02 h; la salida real del tren Os 3101 de la est. Lískovec u Frýdku fue a las 09:01 h (retrasado 29 min). La salida prevista del tren Os 3116 de la est. Vratimov hacia la est. Paskov fue indicada en el EDD por el jefe de estación de la est. Vratimov, con el condicionante de que el tren Os 3116 saldría de la est. Vratimov a las 09:03 h. Debido a la situación de circulación surgida, el jefe de estación de la est. Paskov planificó un cruce extraordinario de los trenes Os 3101 y Os 3116 en su estación, de modo que el tren Os 3101 entrara en la vía de estación n.º 1, donde esperaría la llegada del tren Os 3116, el cual tenía establecida la ruta de tren hacia la vía de estación n.º 2. Dado que la persona que conducía la locomotora (en adelante, maquinista) del tren Os 3101 no veía desde su parada en la zona de embarque y desembarque de viajeros en la vía de estación n.º 1 de la est. Paskov la indicación de la señal de salida S1, tras finalizar el embarque y desembarque de viajeros y realizar las actuaciones establecidas por la tripulación del tren antes de poner el tren en movimiento, puso el tren en movimiento en dirección a la señal de salida S1, que indicaba «Alto». Antes de la señal de salida S1, el maquinista del tren Os 3101 debía esperar la expedición del tren mediante la colocación de la señal de salida S1 en la indicación que autoriza la circulación del tren (tras la entrada del tren en sentido contrario Os 3116 en la vía de estación n.º 2 de la est. Paskov). El maquinista del tren Os 3101, tras poner el tren en movimiento, aumentó progresivamente la velocidad del tren. Ante la señal de salida S1 con la indicación «Alto» no se detuvo y continuó la circulación en dirección a la est. Vratimov, con lo que se produjo el forzamiento de la aguja n.º 1 en la ruta de tren establecida para el tren en sentido contrario Os 3116, cuya entrada en la est. Paskov, en el sentido desde la est. Vratimov, estaba autorizada por la indicación «Velocidad 40 km.h-1 y aviso» de la señal de entrada L. Tras la ocupación del circuito de vía V1 y el forzamiento de la aguja n.º 1 por el tren Os 3101, en la señal de entrada L de la est. Paskov, para la circulación del tren en sentido contrario Os 3116, la indicación que autorizaba la circulación «Velocidad 40 km.h-1 y aviso» cambió a la indicación que prohíbe la circulación «Alto». El tren Os 3116 se encontraba en ese momento en el tramo anterior a la señal de entrada L de la est. Paskov. Ante el cambio repentino de la indicación de la señal de entrada L, el maquinista en formación, supervisado por el maquinista del tren Os 3116, reaccionó aplicando el frenado de emergencia. Por efecto del frenado de emergencia, el tren Os 3116 se detuvo antes de la altura de la señal de entrada L, concretamente en el pk 13,459.
+El suceso extraordinario en el tráfico ferroviario –accidente grave (en adelante, SE)– tuvo lugar el 16. 02. 
+2009 a las 09:08 h, en la vía ferroviaria, categoría nacional, Ostrava hl. n. – Valašské Meziříčí (línea 
+302A), entre las estaciones ferroviarias (en adelante, est.) Vratimov y Paskov, pk 13,459, coordenadas GPS: 
+49,7441° N, 18,2978° E.
+### 2.1.2 Descripción del suceso extraordinario y del lugar del accidente, incluida la actividad del sistema 
+integrado de emergencia y del servicio de rescate
+La estación de origen del tren Os 3101 era la est. Kojetín, y la estación de destino la est. Ostrava hl. n. El tren 
+llegaba a la est. Paskov con 28 min de retraso respecto a su llegada regular. El motivo del 
+retraso del tren fue la exclusión de un vehículo ferroviario remolcado (en adelante, VFR) del tren por 
+avería técnica en la est. Frýdlant nad Ostravicí. El operador del tren Os 3101 eran České dráhy, a. s. 
+(en adelante, ČD, a. s.).
+La estación de origen del tren Os 3116 era la est. Ostrava hl. n., y la estación de destino la est. Frenštát pod Radhoštěm.
+El operador del tren Os 3116 eran ČD, a. s.
+La salida prevista del tren Os 3101 de la est. Lískovec u Frýdku hacia la est. Paskov fue indicada 
+a través del diario de circulación electrónico (en adelante, EDD) por la persona que dirige el tráfico ferroviario 
+(en adelante, jefe de estación) de la est. Lískovec u Frýdku, con el indicio de que el tren Os 3101 saldría de la est. Lískovec u Frýdku 
+a las 09:02 h; la salida real del tren Os 3101 de la est. Lískovec u Frýdku fue a las 09:01 h (retrasado 
+29 min). La salida prevista del tren Os 3116 de la est. Vratimov hacia la est. Paskov fue indicada en el EDD 
+por el jefe de estación de la est. Vratimov, con el indicio de que el tren Os 3116 saldría de la est. Vratimov a las 09:03 h. Debido a la situación 
+circulatoria surgida, el jefe de estación de la est. Paskov planificó un cruce extraordinario de los trenes Os 3101 y Os 3116 
+en su estación, de modo que el tren Os 3101 entraría en la vía de estación n.º 1, donde esperaría la llegada del tren Os 3116, 
+que tenía establecida la ruta de tren hacia la vía de estación n.º 2. Como la persona que dirige el vehículo ferroviario 
+(en adelante, maquinista) del tren Os 3101 no veía, desde el lugar de parada en la zona de 
+bajada y subida de pasajeros en la vía de estación n.º 1 de la est. Paskov, la señal del semáforo de salida S1, tras finalizar 
+la bajada y subida de pasajeros y realizar las operaciones prescritas por el acompañamiento del tren antes de poner 
+el tren en marcha, puso el tren en marcha en dirección al semáforo de salida S1, que 
+mostraba la señal «Alto». Ante el semáforo de salida S1, el maquinista del tren Os 3101 debía 
+esperar la expedición del tren mediante la colocación del semáforo de salida S1 en la señal 
+que permite la circulación del tren (tras la entrada del tren contrario Os 3116 en la vía de estación n.º 2 de la est. Paskov). El maquinista del tren Os 3101, tras 
+poner el tren en marcha, aumentaba progresivamente la velocidad del tren. Ante el semáforo de salida S1 
+con la señal «Alto» no se detuvo y continuó la marcha en dirección a la est. Vratimov, con lo que se produjo 
+el cambio forzado del desvío n.º 1 en la ruta de tren establecida para el tren contrario Os 3116, 
+cuya entrada en la est. Paskov, en sentido desde la est. Vratimov, estaba permitida por la señal «Velocidad 40 km.h-1 
+y aviso» del semáforo de entrada L. Tras la ocupación del circuito de vía V1 y el cambio forzado 
+del desvío n.º 1 por el tren Os 3101, en el semáforo de entrada L de la est. Paskov, para la circulación del tren contrario Os 3116, 
+la señal que permitía la circulación «Velocidad 40 km.h-1 y aviso» cambió a la señal que prohíbe 
+la circulación «Alto». El tren Os 3116 se encontraba en ese momento en la zona anterior al semáforo de entrada L de la est. 
+Paskov. Ante el cambio repentino de la señal del semáforo de entrada L, el maquinista en formación, 
+al que supervisaba el maquinista del tren Os 3116, reaccionó mediante la aplicación del frenado de emergencia. 
+Por efecto del frenado de emergencia, el tren Os 3116 se detuvo aún antes del nivel del semáforo de entrada L, 
+es decir, en el pk 13,459.
 
 ## Página 11
+
 
 Debido a las condiciones de enlace del extremo de Vratimov de la estación de Paskov, un arco a la derecha, el maquinista del tren Os 3101 vio el tren en sentido contrario Os 3116 solo después de que este se detuviera antes de la señal de entrada L. El maquinista del tren Os 3101 reaccionó a la situación surgida aplicando frenado de acción rápida. Debido a la corta distancia, no fue posible evitar la colisión. En el km 13,459, el tren Os 3101 chocó contra el tren Os 3116, que ya estaba detenido.
 
@@ -278,6 +318,7 @@ Como consecuencia del MU, ningún TDV del tren Os 3116, destinado al transporte 
 
 ## Página 12
 
+
 Del examen de las partes de la infraestructura de la vía tras el AE se constató:
 Como consecuencia del AE no se vio alterada la posición geométrica de la vía de vía única Vratimov – Paskov. El lecho de balasto no se vio contaminado. La señal de entrada L de la est. Paskov, para el sentido desde la est. Vratimov, se encuentra en el km 13,475. En la est. Paskov los desvíos n.º 7 y n.º 5 se encontraban cambiados en la posición en la que los elementos indicadores (luces) de la posición de los desvíos n.º 7 y n.º 5 en el panel indicador del aparato de enclavamiento de estación (en adelante SZZ) de la est. Paskov indicaban la posición «+», es decir, para la circulación por el itinerario directo, y por tanto no resultaron dañados de ninguna forma por la circulación del tren Os 3101. El desvío n.º 1 formaba parte del itinerario de tren establecido para el tren Os 3116 y por este motivo se encontraba cambiado en la posición en la que el elemento indicador (luz) de la posición del desvío n.º 1 en el panel indicador del SZZ de la est. Paskov indicaba la posición «–», es decir, para la circulación por el itinerario lateral, por el que se efectuó la circulación del tren Os 3101 con el cambio forzado de la parte móvil del desvío n.º 1 por las ruedas del HDV del tren en cuestión. Del examen del carril de vía directa izquierdo del desvío n.º 1 no se detectó ningún daño.
 Todas las señales principales de la est. Paskov en el momento del examen tras el AE indicaban la señal «Alto».
@@ -309,8 +350,8 @@ Departamento de Distrito de la PČR Brušperk.
 La ocurrencia del AE fue comunicada por el DI al Puesto Central de Notificación de Praga (en adelante COP) a las 09:30 h, es decir, 22 min. después de la ocurrencia del AE, por el inspector jefe de ČD, a. s., de la Inspección Regional de Seguridad del Transporte Ferroviario (en adelante RIBŽD) de Ostrava en representación del gestor de la vía y del transportista. El empleado del COP, sobre la base de los hechos comunicados, decidió el desplazamiento y el inicio de la investigación de las causas y circunstancias de la ocurrencia del AE. El DI inició la actividad en el lugar del AE a las 10:15 h con una composición de 3 inspectores jefes. La posterior investigación de las causas y circunstancias de la ocurrencia del AE fue encomendada a la Inspección Territorial de Ostrava. La investigación de las causas y circunstancias de la ocurrencia del AE se llevó a cabo de conformidad con el § 53b de la ley n.º 266/1994 Sb., de vías, en su redacción vigente (en adelante ley n.º 266/1994 Sb.), y el § 11 del decreto n.º 376/2006 Sb.
 Como consultor externo en la investigación de las causas y circunstancias de la ocurrencia del AE actuó la Universidad Técnica de Minas – Universidad Técnica de Ostrava, Facultad de Ingeniería Mecánica, Instituto de Transporte.
 
-
 ## Página 13
+
 
 ### 2.2 Circunstancias del acontecimiento excepcional
 ### 2.2.1 Empleados participantes del gestor de la vía y del transportista, personas en relación contractual y demás participantes y testigos
@@ -338,57 +379,57 @@ Frýdlant nad Ostravicí – lugar de ocurrencia del AE: frenado por el I. méto
 ## Página 14
 
 La estación de origen del tren Os 3116 era la est. Ostrava hl. n., y la estación de destino la est. Frenštát pod Radhoštěm.
-El tren estaba destinado al transporte de pasajeros, y en todo su trayecto fue operado bajo licencia del operador
-ČD, a. s. El tren estaba compuesto por la HDV 754.040-4, registrada en el estado de inventario DKV Olomouc, propiedad de
+El tren estaba destinado al transporte de pasajeros, y en todo su recorrido fue operado bajo la licencia del operador
+ČD, a. s. El tren estaba compuesto por la HDV 754.040-4, registrada en la situación registral DKV Olomouc, propietaria
 ČD, a. s., y por los cuatro TDV indicados a continuación, destinados al transporte de pasajeros:
 1.
-50 54 21-08 281-7 Bdt, propietario ČD, a. s., revisión técnica ordinaria hasta el 26. 08. 2009;
-50 54 20-19 321-9 Bdt262, propietario ČD, a. s., revisión técnica ordinaria hasta el 21. 06. 2009;
+50 54 21-08 281-7 Bdt, propietario ČD, a. s., revisión técnica periódica (TK) hasta el 26. 08. 2009;
+50 54 20-19 321-9 Bdt262, propietario ČD, a. s., revisión técnica periódica (TK) hasta el 21. 06. 2009;
 2.
 3.
-50 54 21-08 358-3 Bdt, propietario ČD, a. s., revisión técnica ordinaria hasta el 03. 09. 2009;
+50 54 21-08 358-3 Bdt, propietario ČD, a. s., revisión técnica periódica (TK) hasta el 03. 09. 2009;
 4.
-50 54 21-08 271-8 Bdt, propietario ČD, a. s., revisión técnica ordinaria hasta el 18.02. 2010.
-Según el SJŘ 302 «osobní», para el tren Os 3116 en todo el trayecto se establece el I.º método de frenado, régimen de frenado
+50 54 21-08 271-8 Bdt, propietario ČD, a. s., revisión técnica periódica (TK) hasta el 18.02. 2010.
+Según el SJŘ 302 «osobní», para el tren Os 3116 en todo su recorrido se establece el I.º método de frenado, régimen de frenado
 «R», normativo de porcentajes de frenado necesarios 85.
 El tren Os 3116, en el tramo Ostrava hl. n. – lugar de origen del MU, fue frenado con el I.º método de frenado, en el régimen
-de frenado «R». El peso del tren era de 243 t, el peso de frenado de 259 t, el porcentaje real de frenado
-106, número de ejes 20.
-Para el tren Os 3116, en el Informe Internacional de frenado y tren se indicó un dato incorrecto sobre el peso de frenado
-de la HDV 754.040-4, a saber, 43 t en lugar de 50 t, y por tanto un dato incorrecto sobre el peso de frenado del tren de 252 t en lugar de
-259 t y un dato incorrecto sobre el cálculo del porcentaje real de frenado de 103 en lugar de 106. Antes
-de la salida del tren Os 3116, el maquinista se familiarizó con todos los datos indicados en el Informe Internacional
-de frenado y tren. La indicación del peso de frenado incorrecto de la HDV 754.040-4 de 43 t en lugar de 50 t, y por tanto
-el peso de frenado del tren indicado incorrectamente y el porcentaje real de frenado indicado incorrectamente,
-no los detectó.
-Para la eliminación de la deficiencia indicada, al operador ČD, a. s., se le requirió mediante el documento «REQUERIMIENTO
+de frenado «R». El peso del tren era de 243 t, el peso frenante de 259 t, el porcentaje real de frenado de 106, el número
+de ejes 20.
+Para el tren Os 3116, en la Comunicación Internacional de Frenado y del Tren se hizo constar un dato incorrecto sobre el peso
+frenante de la HDV 754.040-4, a saber, 43 t en lugar de 50 t, y por tanto un dato incorrecto sobre el peso frenante del tren
+de 252 t en lugar de 259 t y un dato incorrecto sobre el cálculo del porcentaje real de frenado de 103 en lugar de 106. Antes
+de la salida del tren Os 3116, el maquinista se familiarizó con todos los datos indicados en la Comunicación Internacional de
+Frenado y del Tren. No detectó la indicación del peso frenante incorrecto de la HDV 754.040-4 de 43 t en lugar de 50 t, y
+por tanto el peso frenante del tren indicado incorrectamente y el porcentaje real de frenado indicado incorrectamente.
+Para la eliminación de la deficiencia indicada, se requirió al operador ČD, a. s., mediante el documento «REQUERIMIENTO
 para la eliminación de las deficiencias detectadas», n.º de expediente: 1-495/2009/DI, de fecha 03. 03. 2009.
 ### 2.2.3 Descripción de los componentes de la vía de circulación de la línea, del sistema de señalización (es decir, en particular
-el estado de las vías, agujas, enclavamientos, señales y del dispositivo de seguridad del tren)
+el estado de los raíles, las agujas, los aparatos de enclavamiento, los señales y el equipo de seguridad del tren)
 La est. Paskov se encuentra en la línea de vía única, no electrificada Ostrava hl. n. – Valašské Meziříčí,
-que en el tramo Ostrava hl. n. – Vratimov es de doble vía. En la est. Paskov hay cuatro vías de circulación
-destinadas a la circulación de trenes desde/hacia la est. Lískovec u Frýdku y la est. Vratimov. El tren Os 3101 entraba en la
-vía de estación n.º 1 en el sentido desde la est. Lískovec u Frýdku. La vía de estación n.º 1 está dividida por la señal de
-tramo Sc1, situada en el km 14,686, aún antes del punto regular de
-subida y bajada de pasajeros (en adelante, andén), en dos tramos, denominados vía de estación n.º 1a y n.º 1.
-Entre las vías de estación n.º 1 y n.º 2 se encuentra un andén central, junto al cual en el km 14,450, es decir, 556 m
-antes del nivel de la señal de salida S1 y 18 m antes del paso a nivel de servicio, a nivel, en el nivel de
-la oficina de circulación, se detuvo el tren Os 3101. La vía de estación n.º 1, en el sentido de circulación del tren Os 3101,
-tras el andén central en el km 14,378, es decir, 484 m antes del nivel de la señal de salida S1, pasa
-a una curva a izquierda de radio r = 600 m con sobreelevación p = 65 mm. En el km 13,964, es decir, 70 m
+que en el tramo Ostrava hl. n. – Vratimov es de doble vía. En la est. Paskov hay cuatro vías de
+circulación destinadas a la circulación de trenes desde/hacia la est. Lískovec u Frýdku y la est. Vratimov. El tren Os 3101 entraba
+en la vía de estación n.º 1 en el sentido de procedencia de la est. Lískovec u Frýdku. La vía de estación n.º 1 está dividida por la
+señal de vía Sc1, que está situada en el km 14,686, aún antes del lugar regular de embarque y desembarque de pasajeros (en
+adelante, andén), en dos tramos, denominados vía de estación n.º 1a y n.º 1.
+Entre la vía de estación n.º 1 y la n.º 2 se encuentra un andén central, junto al cual en el km 14,450, es decir, 556 m
+antes del nivel de la señal de salida S1 y 18 m antes del paso a nivel de servicio, a nivel, en la altura de la oficina de
+circulación, se detuvo el tren Os 3101. La vía de estación n.º 1, en el sentido de circulación del tren Os 3101,
+detrás del andén central en el km 14,378, es decir, 484 m antes del nivel de la señal de salida S1, pasa
+a una curva a izquierda de radio r = 600 m con acantilamiento p = 65 mm. En el km 13,964, es decir, 70 m
 antes del nivel de la señal de salida S1, termina la curva a izquierda y comienza un tramo recto de vía.
-En el km 13,894, a la derecha justo junto a la vía de estación, se encuentra la señal de salida S1, válida solo para
+En el km 13,894, a la derecha justo junto a la vía de estación, está situada la señal de salida S1, válida solo para
 la vía de estación n.º 1.
 Desde el km 13,964, la vía en el sentido de circulación del tren Os 3101 se conduce en línea recta por la punta a través de
 la aguja n.º 7, en línea recta contra la punta a través de la aguja n.º 5 y en línea recta por la punta a través de
-la aguja n.º 1 y hasta el km 13,485, es decir, 26 m antes del lugar de la colisión, en línea recta. En el km 13,580
-cruza la vía ferroviaria a nivel de la vía una carretera terrestre de uso particular. El cruce está señalizado
-con cruces de aviso y protegido por el dispositivo de protección de cruce (en adelante, PZZ) PZS 3SBI,
+la aguja n.º 1 y posteriormente hasta el km 13,485, es decir, 26 m antes del lugar de la colisión, en línea recta. En el km 13,580
+cruza la vía ferroviaria a nivel de la vía una carretera terrestre de servicio. El cruce está señalizado
+con cruces de aviso y protegido por el equipo de protección de paso a nivel (en adelante, PZZ) PZS 3SBI,
 tipo AŽD 71. Desde el km 13,485, la vía hasta el nivel de la señal de entrada L, situada en el km
-13,475, se conduce en una curva a derecha de radio r = 450 m, con sobreelevación p = 104 mm.
-La información sobre las señales de los principales señales no se transmite al vehículo ferroviario de mando en el ámbito de la est. Paskov.
+13,475, se conduce en una curva a derecha de radio r = 450 m, con acantilamiento p = 104 mm.
+La información sobre las señales de los señales principales no se transmite al vehículo ferroviario de mando en el ámbito de la est. Paskov.
 
 ## Página 15
+
 
 La vía férrea en el lugar de producción del siniestro (MU) se encuentra, en el sentido de circulación del tren Os 3101, en un arco a la derecha de radio r = 450 m, con sobreelevación p = 104 mm y pendiente (descenso) de -6,37 ‰. Los tramos de riel están formados por raíles de tipo S49 sobre traviesas de madera, con fijación sobre placas base nervuradas tipo S4.
 La información sobre las señales de los principales señales y de preseñales no se transmite al vehículo ferroviario principal en la vía férrea entre la est. Paskov y la est. Vratimov.
@@ -400,8 +441,8 @@ La velocidad de vía entre la est. Vratimov y la est. Paskov es, en ambos sentid
 La velocidad fijada para el tren Os 3101 entre la est. Paskov y la est. Vratimov, es decir, también en el lugar de producción del MU, fue fijada por el SJŘ 302 en el valor v = 80 km.h-1.
 La velocidad fijada para el tren Os 3116 entre la est. Vratimov y la est. Paskov, es decir, también en el lugar de producción del MU, fue fijada por el SJŘ 302 en el valor v = 80 km.h-1.
 
-
 ## Página 16
+
 
 ### 2.2.4 Uso de los medios de comunicación
 La est. Paskov está equipada con los siguientes medios de comunicación:
@@ -462,6 +503,7 @@ Para el caso de notificación de la producción de un MU en las vías, el operad
 
 ## Página 17
 
+
 Paskov actuó conforme al reglamento Dp 17, parte «SEGUNDA PARTE COMUNICACIÓN DE SUCESOS EXTRAORDINARIOS», Capítulo I «Obligación de comunicar», arts. 42 y 46. El jefe de estación actuó asimismo conforme al CUADRO DE COMUNICACIONES del explotador ferroviario elaborado para la est. Paskov. La creación del SE fue comunicada al jefe de turno del Centro Regional de Explotación Ostrava y al SIU.
 
 Secuencia de acontecimientos:
@@ -492,6 +534,7 @@ Secuencia de acontecimientos tras la activación del plan SIU:
 – 10:05 h el HZS de la empresa Biocel Paskov a. s. fue enviado de vuelta a su base;
 
 ## Página 18
+
 
 – 10:15 h traslado del último herido por el servicio de emergencias médicas;
 – 10:17 h se informó al OIS sobre el número de personas heridas;
@@ -532,6 +575,7 @@ Daños materiales producidos por el SE en los vehículos ferroviarios del tren O
 
 ## Página 19
 
+
 de las causas y circunstancias de la producción del suceso extraordinario, no fue finalizada, el transportista no cuantificó el importe real del daño;
 TDV 50 54 24-29 108-4 Btax (010.274-9): la estimación pericial del daño según el transportista asciende a –250.000,- CZK, véase «Acta de la inspección pericial del estado técnico del vehículo ferroviario u otras instalaciones ferroviarias». Dado que la reparación propia de la HDV no había sido finalizada a la fecha de emisión de la Información sobre los resultados de la investigación de las causas y circunstancias de la producción del suceso extraordinario, el transportista no cuantificó el importe real del daño;
 TDV 50 54 24-29 287-6 Btax (010.295-4): la estimación pericial del daño según el transportista asciende a –150.000,- CZK, véase «Acta de la inspección pericial del estado técnico del vehículo ferroviario u otras instalaciones ferroviarias». Dado que la reparación propia de la HDV no había sido finalizada a la fecha de emisión de la Información sobre los resultados de la investigación de las causas y circunstancias de la producción del suceso extraordinario, el transportista no cuantificó el importe real del daño.
@@ -550,8 +594,8 @@ En los componentes de la vía de circulación –superestructura e infraestructu
 El daño total en la infraestructura ferroviaria, es decir, en la infraestructura y superestructura de la vía del explotador ferroviario, asciende a 51.507,61 CZK.
 No se produjo catástrofe ecológica en el suceso extraordinario, no se ocasionó daño medioambiental.
 
-
 ## Página 20
+
 
 ### 2.4 Circunstancias externas
 ### 2.4.1 Condiciones meteorológicas y datos geográficos
@@ -575,87 +619,68 @@ En relación con la investigación de las causas y circunstancias de la producci
 
 ## Página 21
 
-„Acta con el empleado“ elaborada por el transportista, en Valašské Meziříčí el 17. 02. 2009 
+„Zápis se zaměstnancem“ (Acta con el empleado) elaborado por el transportista, en Valašské Meziříčí el 17. 02. 2009 
 –
 a partir de las 14:00 h, con el jefe de tren del tren Os 3116;
-„Registro oficial de la declaración prestada“ elaborada por la PČR, en Frýdek-Místek el 26. 02. 
+„Úřední záznam o podaném vysvětlení“ (Registro oficial de la declaración prestada) elaborado por la PČR, en Frýdek-Místek el 26. 02. 
 –
 2009 a partir de las 09:00 h, con el jefe de tren del tren Os 3116.
-De las declaraciones prestadas en el MU por los empleados participantes del operador de la vía y del transportista, a excepción del maquinista del tren Os 3101, que tras ser instruido sobre las disposiciones legales de la ley nº 141/1961 Sb., sobre el procedimiento penal (Ley de Enjuiciamiento Penal), en su redacción vigente, ejerció su derecho a no declarar, se desprende:
-en el momento de producirse el MU y en el momento anterior al MU, el SZZ de la estación de Paskov y el TZZ en los tramos de vía adyacentes, incluidos los dispositivos de seguridad de los pasos a nivel, se encontraban en estado operativo, no se registró ninguna avería;
-el jefe de estación de la estación de Paskov recibió a través del EDD desde la estación vecina de Lískovec u Frýdku 
+De las declaraciones prestadas ante la MU por los empleados participantes del gestor de la vía y del transportista, excepto el maquinista del tren Os 3101, que tras ser instruido sobre las disposiciones legales de la ley nº 141/1961 Sb., de procedimiento penal (Ley de Enjuiciamiento Criminal), en la redacción de las disposiciones posteriores, ejerció su derecho a no declarar, se desprende:
+en el momento de producirse la MU y en el momento anterior a producirse la MU, el SZZ de la estación de Paskov y el TZZ en los tramos de vía adyacentes, incluidos los aparatos de enclavamiento de los pasos a nivel, se encontraban en estado operativo, no se registró ninguna avería;
+el jefe de estación de Paskov recibió a través del EDD desde la estación adyacente de Lískovec u Frýdku 
 –
-la salida prevista del tren Os 3101 con hora de salida a las 09:02 h. Posteriormente recibió la hora real de salida del tren Os 3101 con hora de salida a las 09:01 h. Simultáneamente, a través del EDD, recibió desde la estación vecina de Vratimov la salida prevista del tren Os 3116 con hora de salida a las 09:03 h. De la situación de tráfico surgida se desprendió la necesidad de cruzar los mencionados trenes en la estación de Paskov;
+la salida prevista del tren Os 3101 con hora de salida a las 09:02 h. Posteriormente recibió la hora real de salida del tren Os 3101 con hora de salida a las 09:01 h. Simultáneamente, a través del EDD, recibió desde la estación adyacente de Vratimov la salida prevista del tren Os 3116 con hora de salida a las 09:03 h. De la situación de tráfico surgida se derivó la necesidad de cruzar los mencionados trenes en la estación de Paskov;
 la preparación y establecimiento de la vía de entrada para el tren Os 3101 en la vía de estación nº 1 
 –
-y de la vía de entrada para el tren Os 3116 en la vía de estación nº 2, lo realizó el jefe de estación de la estación de Paskov con la operación normal del SZZ;
-la entrada del tren Os 3101 en la estación de Paskov fue permitida por la señal del semáforo de entrada S „Velocidad 
+y de la vía de entrada para el tren Os 3116 en la vía de estación nº 2, la realizó el jefe de estación de Paskov con la operación normal del SZZ;
+la entrada del tren Os 3101 en la estación de Paskov se autorizó con la señal del semáforo de entrada S „Rychlost 
 –
-40 km.h-1 y aviso“;
-la llegada del tren Os 3101 la esperaba el jefe de estación de la estación de Paskov delante de la sala de tráfico. En el puesto del maquinista de la HDV, el jefe de estación registró solo a una persona, según la declaración del jefe de estación, probablemente el maquinista;
-tras la detención del tren Os 3101 en la zona de embarque y desembarque de pasajeros en la estación de Paskov, el 
-–
-jefe de estación regresó a la sala de tráfico para tomar la medida de tráfico para la posterior salida del tren Os 3116 desde la estación de Paskov hacia Lískovec u Frýdku. Concretamente, se trataba de la introducción de la salida prevista a través del EDD;
-el jefe de estación de la estación de Paskov no anotó en el EDD la llegada del tren Os 3101 a la 1.ª vía de estación, este 
-–
-acto quería realizarlo simultáneamente con el registro de la llegada del tren Os 3116 a la 2.ª vía de estación y con la introducción simultánea de la hora de salida prevista del tren Os 3101 hacia Vratimov;
-el jefe de estación de la estación de Paskov registró la puesta en marcha del tren Os 3101, desde la zona de embarque y desembarque de pasajeros en dirección al semáforo de salida S1 con la señal „Alto”. 
-–
-Como no era necesario que el tren permaneciera detenido en la zona de embarque y desembarque de pasajeros, el jefe de estación no prestó atención a este hecho. Los maquinistas de los trenes detenidos en la zona de embarque y desembarque de pasajeros en la estación de Paskov antes de salir en dirección a Vratimov no ven el semáforo de salida S1, es decir, no pueden comprobar con seguridad si el semáforo de salida S 1 permite la salida, y por ello es completamente habitual en estas situaciones que pongan en marcha los trenes en dirección al semáforo de salida S1. El jefe de estación suponía que el maquinista se detendría delante del semáforo de salida S1;
+40 km.h-1 a výstraha“ (Velocidad 40 km.h-1 y aviso);
+la llegada del tren Os 3101 la esperaba el jefe de estación de Paskov delante de la oficina de tráfico. En el puesto del maquinista de la HDV, el jefe de estación registró únicamente a una persona, según la declaración del jefe de estación, presumiblemente el maquinista;
+tras la parada del tren Os 3101 en la zona de subida y bajada de pasajeros en la estación de Paskov, el jefe de estación se dirigió de vuelta a la oficina de tráfico para adoptar la medida de tráfico para la salida posterior del tren Os 3116 desde la estación de Paskov hacia Lískovec u Frýdku. Concretamente, se trataba de introducir la salida prevista a través del EDD;
+en el EDD, el jefe de estación de Paskov no anotó la llegada del tren Os 3101 a la vía de estación nº 1, esta operación quería realizarla simultáneamente con la anotación de la llegada del tren Os 3116 a la vía de estación nº 2 
+y la introducción simultánea de la hora de salida prevista del tren Os 3101 hacia Vratimov;
+el jefe de estación de Paskov registró la puesta en marcha del tren Os 3101, desde la zona de subida y bajada de pasajeros hacia el semáforo de salida S1 con la señal „Stůj” (Alto). Como no era necesario que el tren permaneciera detenido en la zona de subida y bajada de pasajeros, el jefe de estación no prestó atención a este hecho. Los maquinistas de los trenes detenidos en la zona de subida y bajada de pasajeros en la estación de Paskov antes de salir en dirección a Vratimov no ven el semáforo de salida S1, es decir, no pueden comprobar de forma segura si el semáforo de salida S 1 autoriza la salida, y por ello, de forma totalmente habitual en estas situaciones, ponen en marcha los trenes en dirección al semáforo de salida S1. El jefe de estación suponía que el maquinista se detendría delante del semáforo de salida S1;
 tras la ocupación del circuito de vía delante del semáforo de entrada L, es decir, desde la estación de Vratimov, por el tren 
 –
-Os 3116, el jefe de estación de la estación de Paskov tenía la intención de esperar la llegada de dicho tren. En ese momento sonó en el panel de control del RZZ de la estación de Paskov la campana de seccionamiento. El jefe de estación primero creyó que se había producido una avería en la aguja nº 1 durante la circulación del tren Os 3116. Por ello, el jefe de estación a través de la estación de radio base del sistema TRS intentó primero comunicarse con el maquinista del tren Os 3101, que en ese momento, según su opinión, ya podía ver la aguja nº 1, pero no fue posible establecer la comunicación. Por este motivo, intentó establecer la comunicación con
+Os 3116, el jefe de estación de Paskov tenía la intención de esperar la llegada de dicho tren. En ese momento sonó en el panel de control del RZZ de la estación de Paskov el timbre de sección. El jefe de estación primero supuso que se había producido una avería en el desvío nº 1 durante la circulación del tren Os 3116. Por ello, el jefe de estación a través de la estación de radio base del sistema TRS intentó primero comunicarse con el maquinista del tren Os 3101, que en ese momento, según su opinión, ya podía ver el desvío nº 1, pero no fue posible establecer la comunicación. Por este motivo, intentó establecer la comunicación con
 
 ## Página 22
 
 con el maquinista del tren Os 3116, pero tampoco con el maquinista del tren Os 3116 se logró establecer esta comunicación;
-a continuación, al mirar el panel SZZ, el jefe de estación de la est. Paskov comprobó que probablemente se había producido una circulación
+posteriormente, al mirar el panel SZZ, el jefe de estación de la est. Paskov comprobó que probablemente se había producido una circulación
 –
-del tren Os 3101 más allá de la señal de salida S1 con la indicación «Alto», de lo que dedujo que el tren Os 3101 había entrado indebidamente en la vía de circulación del tren entrante Os 3116. En ese momento, el jefe de estación de la est. Paskov fue informado por el jefe de estación de la est. Frýdek-Místek de la aparición de un MU (incidente ferroviario), la colisión de los trenes mencionados, de la que el jefe de estación de la est. Frýdek-Místek fue informado por la jefa de tren del tren Os 3116 mediante teléfono móvil;
+del tren Os 3101 más allá de la señal de salida S1 con la indicación «Alto», de lo que dedujo que el tren Os 3101 había entrado indebidamente en la vía de circulación del tren entrante Os 3116. En ese momento, el jefe de estación de la est. Paskov fue informado por el jefe de estación de la est. Frýdek-Místek de la aparición de un MU, la colisión de los trenes mencionados, que el jefe de estación de la est. Frýdek-Místek le comunicó al jefe de estación de la est. Paskov a través de un teléfono móvil;
 la orden «Parada general» no fue utilizada por el jefe de estación de la est. Paskov;
 –
-el tren Os 3101 tuvo un retraso de aprox. 29 min. debido a la exclusión del TDV 50 54 24-29 124-1
+el tren Os 3101 se retrasó unos 29 min debido a la exclusión del TDV 50 54 24-29 124-1
 –
-(010.374-7) Btax en la est. Frýdlant nad Ostravicí por avería en el cierre centralizado de las puertas;
+(010.374-7) Btax en la est. Frýdlant nad Ostravicí por avería del cierre centralizado de puertas;
 en la estación de radio del vehículo HDV 842.019-2 VS47 se había seleccionado el canal 60 antes de la aparición del MU.
 –
 La estación de radio del vehículo no presentaba avería;
-el tren Os 3101 fue puesto en
+el tren Os 3101 fue puesto en marcha desde la zona de subida y bajada de pasajeros de la est. Paskov en dirección a la señal de salida S1 de la manera habitual, por la instrucción «Autorización para la salida» dada por la jefa de a bordo del tren Os 3101 con la mano (complementada verbalmente). La jefa de a bordo se encontraba en la puerta del compartimento de servicio, situado en el HDV 842.019-2 inmediatamente detrás del puesto del maquinista, desde el que se conducía el tren Os 3101;
+durante la permanencia del tren Os 3101 en la est. Paskov, la jefa de a bordo del tren Os 3101 no fue informada
 –
-movimiento desde la zona de subida y bajada de pasajeros de la est. Paskov en dirección a la señal de salida S1 de la manera habitual, por la instrucción «Permiso de salida» dada por la jefa de tren del tren Os 3101 a mano (completada verbalmente). La jefa de tren se encontraba en la puerta del compartimento de servicio, situado en el HDV 842.019-2 inmediatamente detrás del puesto de conducción, desde el que se conducía el tren Os 3101;
-durante la permanencia del tren Os 3101 en la est. Paskov, la jefa de tren del tren Os 3101 no fue informada
-–
-de ninguna incidencia relativa al tren Os 3101. Tampoco escuchó que el maquinista hubiera recibido alguna información sobre incidencias;
+de ninguna incidencia relacionada con el tren Os 3101. Tampoco escuchó que el maquinista hubiera recibido alguna información sobre incidencias;
 la salida del tren Os 3101 desde la zona de subida y bajada de pasajeros fue observada por el maquinista
 –
-desde la ventanilla lateral izquierda del HDV;
-tras la puesta en movimiento del tren Os 3101, la jefa de tren del tren Os 3101 comenzó en el compartimento de servicio
-–
-a procesar la correspondencia de servicio que había recibido en la est. Paskov. Poco después entró en el compartimento de servicio el revisor del tren para refrescarse;
-la situación delante del tren no fue observada por la jefa de tren del tren Os 3101 durante la circulación del tren hacia la señal de salida
-–
-de la est. Paskov S1, no forma parte de las obligaciones de la tripulación del tren;
-cuál era la indicación de la señal de salida S1 no lo saben ni la jefa de tren ni el revisor del tren Os 3101;
-–
-en la continuación de la circulación del tren, a través de la puerta abierta entre el compartimento de servicio y el puesto de conducción
-–
-del HDV 842.019-2, la jefa de tren vislumbró repentinamente al maquinista, levantándose de la consola de mando del HDV y «gritando» que huyeran. El maquinista activó el frenado de emergencia y salió corriendo al compartimento de servicio. Como consecuencia del frenado intenso, el tren reducía notablemente la velocidad;
+desde la ventana lateral izquierda del HDV;
+una vez puesto en marcha el tren Os 3101, la jefa de a bordo del tren Os 3101 comenzó a procesar en el compartimento de servicio los envíos de servicio que había recibido en la est. Paskov. Poco después entró en el compartimento de servicio el revisor del tren para refrescarse;
+la situación delante del tren, la jefa de a bordo del tren Os 3101 no la vigiló durante la circulación del tren hacia la señal de salida de la est. Paskov S1, no forma parte de las obligaciones del personal del tren;
+cuál era la indicación de la señal de salida S1, ni la jefa de a bordo ni el revisor del tren Os 3101 lo saben;
+en la posterior circulación del tren, a través de la puerta abierta entre el compartimento de servicio y el puesto del maquinista del HDV 842.019-2, la jefa de a bordo vislumbró de repente al maquinista levantarse del pupitre de mando del HDV y «gritar» que huyeran. El maquinista activó el frenado de emergencia y salió al compartimento de servicio. Como consecuencia del frenado intenso, el tren reducía notablemente la velocidad;
 en el momento de la colisión, el maquinista del tren Os 3101 se encontraba en el compartimento de servicio;
 –
-según la opinión de la jefa de tren del tren Os 3101, el maquinista estaba descansado y no mostraba signos de influencia del alcohol, de medicamentos ni de fatiga. Por el contrario, actuaba de manera reflexiva y responsable;
+según la opinión de la jefa de a bordo del tren Os 3101, el maquinista estaba descansado y no presentaba signos de influencia del alcohol, medicamentos ni fatiga. Por el contrario, actuaba de manera prudente y responsable;
 el HDV 754.040-4 del tren Os 3116, hasta el momento de la aparición del MU, fue conducido por una persona, maquinista, sin certificado de aptitud, que realizaba instrucción en conducción, supervisada por el maquinista del tren Os 3116;
 la visibilidad en el momento de la aparición del MU no estaba reducida por influencias meteorológicas;
-–
-desde la est. Vratimov el tren Os 3116 partió sin incidencias, la circulación del tren fue permitida por las indicaciones de las señales principales que autorizaban la circulación del tren;
-la entrada del tren Os 3116 en la est. Paskov fue permitida por la indicación «Velocidad 40 km.h-1 y aviso»
-–
-de la señal de entrada L;
-durante la circulación del tren Os 3116 hacia la señal de entrada L de la est. Paskov, el maquinista en
-–
-instrucción, bajo la supervisión del maquinista del tren Os 3116, ajustaba la velocidad del tren mediante el frenado para que no superara la velocidad de 40 km.h-1 indicada por la señal de entrada L de la est. Paskov;
-
+desde la est. Vratimov el tren Os 3116 partió sin incidencias, la circulación del tren estaba autorizada por las indicaciones de las señales principales que autorizaban la circulación del tren;
+la entrada del tren Os 3116 en la est. Paskov estaba autorizada por la indicación «Velocidad 40 km.h-1 y aviso» de la señal de entrada L;
+durante la circulación del tren Os 3116 hacia la señal de entrada L de la est. Paskov, el maquinista en instrucción, bajo la supervisión del maquinista del tren Os 3116, ajustaba la velocidad del tren mediante el frenado para que no excediera la velocidad de 40 km.h-1 indicada por la señal de entrada L de la est. Paskov;
 
 ## Página 23
+
 
 sobre las indicaciones de las señales principales y sus preseñales, el maquinista del tren Os 3116 y
 –
@@ -701,6 +726,7 @@ en relación con el MU mencionado está establecida por los procedimientos tecno
 
 ## Página 24
 
+
 Reglamento interno SŽDC (ČD) D1 «REGLAMENTO PARA LA UTILIZACIÓN DE SEÑALES EN LA ORGANIZACIÓN Y EXPLOTACIÓN DEL TRANSPORTE FERROVIARIO», aprobado el 15. 04. 1997, bajo el n.º de expediente: 55216/97-O11, en su versión vigente, que fue asumido por el explotador de la infraestructura SŽDC, s. o., en el sentido del BOLETÍN DE TRANSPORTE Y TARIFAS n.º 29-30, de 16. 07. 2008 [en adelante reglamento SŽDC (ČD) D1], art. 7, donde se indica, entre otras cosas:
 
 «Las señales indicadas en el reglamento ČD D1 son aplicables a la organización y explotación del transporte ferroviario, con excepción de la organización del movimiento de vehículos en la vía excluida.»
@@ -741,6 +767,7 @@ Si las disposiciones de este reglamento prescriben, en la organización y explot
 
 ## Página 25
 
+
 Reglamento interno de SŽDC (ČD) D2, art. 28, donde se indica:
 
 „La seguridad del transporte ferroviario consiste en su regularidad, en el conocimiento y el cumplimiento estricto de los reglamentos internos de SŽDC, así como de otras medidas relativas a la explotación, por parte de todas las personas implicadas. Estas deben ser siempre conscientes de que incluso una infracción aparentemente trivial de las disposiciones de dichos reglamentos o de las medidas dictadas puede poner en peligro la seguridad de las personas y de la explotación y causar daños materiales considerables, y deben por tanto velar siempre por su cumplimiento exacto y escrupuloso."
@@ -773,6 +800,7 @@ f) en el caso de que sea necesario que el tren permanezca detenido en la zona de
 
 ## Página 26
 
+
 - debe informar oportunamente al maquinista sobre la obligación o la prórroga de la permanencia en la estación; si no es posible, debe asegurar la señalización del lugar de detención del tren con la señal portátil «Alto»,
 - una vez desaparecido el motivo de la retención del tren, efectuará su despacho de acuerdo con el art. 497c). Si el jefe de estación prevé o detecta que el maquinista no puede ver con la vista la señal correspondiente de la señal principal, debe informar al maquinista de que la señal principal se ha puesto en la posición que permite la circulación. La instrucción dada por megafonía no debe ser repetida por el maquinista.»
 Reglamento interno de SŽDC (ČD) D2, art. 516, donde se indica, entre otras cosas:
@@ -791,8 +819,8 @@ La señal «Autorización para la salida» solo pueden darla los miembros de la 
 Reglamento interno de ČD V2 «REGLAMENTO para las tripulaciones de locomotora», aprobado el 08. 01.1998, con el n.º de expediente: 60 796/97-O18, en su versión vigente (en adelante, reglamento ČD V2), art. 5, donde se indica:
 «La tripulación de locomotora, es decir, uno o dos maquinistas o un maquinista y un ayudante de maquinista, actúa en el servicio de acuerdo con las disposiciones de los reglamentos y órdenes vigentes de sus superiores. El superior
 
-
 ## Página 27
+
 
 es el empleado que dirige, organiza y controla de forma permanente o transitoria el trabajo de la tripulación de locomotora y es responsable de su trabajo.
 El superior inmediato (el superior funcionalmente más próximo) del maquinista es el jefe de taller del DKV de adscripción; los superiores directos (los superiores a los que el maquinista está subordinado en el marco de su actividad laboral) son los inspectores de tracción de cualquier DKV, los técnicos de explotación de los vehículos sobre raíles y sus superiores jerárquicos del DKV de adscripción, así como los empleados que dirigen el transporte ferroviario.»
@@ -815,25 +843,40 @@ REGLAMENTO DE ESTACIÓN DE LA ESTACIÓN FERROVIARIA DE PASKOV, art. 79, donde se
 
 ## Página 28
 
-### 3.2.2 Requisitos de los empleados del gestor de la vía y del transportista y su aplicación
-La aptitud médica de los empleados del gestor de la vía y del transportista se evalúa en el sentido de lo dispuesto en la disposición nº 101/1995 Sb., por la que se aprueba el Reglamento de aptitud médica y profesional de las personas para la explotación de la vía y del transporte ferroviario, en su redacción vigente.
-Los requisitos de aptitud profesional de los empleados de SŽDC, s. o., incluido el modo de su aplicación, están establecidos por la norma interna del gestor de la vía SŽDC Zam1 «Reglamento sobre la aptitud profesional de los empleados de la Administración de la Infraestructura Ferroviaria, organización estatal», aprobado el 30. 06. 2008, con referencia nº: 23138/08-OKS, en vigor desde el 01. 07. 2008, en su redacción vigente.
-Los requisitos de aptitud profesional de los empleados de ČD, a. s., incluido el modo de su aplicación, están establecidos por la norma interna del transportista «ČD Ok 2 REGLAMENTO DE FORMACIÓN Y EXÁMENES DE LOS FERROCARRILES CHECOS, a. s.», aprobado el 07. 12. 2005, con referencia nº: 61773/05-O10, en vigor desde el 01. 01. 2006, en su redacción vigente. En el caso del transportista ČD, a. s., la organización de la formación y de los exámenes se especifica además mediante la medida «Medida del director del departamento de recursos humanos y del director del departamento de tecnología y organización del transporte sobre la organización de la formación y de los exámenes en ČD, a. s.», emitida el 25. 06. 2008, con referencia nº: 1620/2008 ŘTOD-O13/22, en vigor desde el 01. 07. 2008. La medida en cuestión es válida hasta la aprobación de la norma interna que sustituya al reglamento ČD Ok 2.
+### 3.2.2 Requisitos de los empleados del gestor de la infraestructura y del transportista y su aplicación
+La aptitud médica de los empleados del gestor de la infraestructura y del transportista se evalúa en el sentido de lo dispuesto en la disposición nº 101/1995 Sb., por la que se aprueba el Reglamento sobre la aptitud médica y profesional de las personas para la explotación de la infraestructura y del transporte ferroviario, en su redacción vigente.
+Los requisitos de aptitud profesional de los empleados de SŽDC, s. o., incluido el modo de su aplicación, están establecidos por la norma interna del gestor de la infraestructura SŽDC Zam1 «Reglamento sobre la aptitud profesional de los empleados de la Administración de la Infraestructura Ferroviaria, organización estatal», aprobado el 30. 06. 2008, con el nº de expediente: 23138/08-OKS, en vigor desde el 01. 07. 2008, en su redacción vigente.
+Los requisitos de aptitud profesional de los empleados de ČD, a. s., incluido el modo de su aplicación, están establecidos por la norma interna del transportista «ČD Ok 2 REGLAMENTO DE FORMACIÓN Y EXAMEN DE LOS FERROCARRILES CHECOS, a. s.», aprobado el 07. 12. 2005, con el nº de expediente: 61773/05-O10, en vigor desde el 01. 01. 2006, en su redacción vigente. En el caso del transportista ČD, a. s., la organización de la formación y de los exámenes se especifica además mediante la medida «Medida del director del departamento de recursos humanos y del director del departamento de tecnología y organización del transporte sobre la organización de la formación y de los exámenes en ČD, a. s.», emitida el 25. 06. 2008, con el nº de expediente: 1620/2008 ŘTOD-O13/22, en vigor desde el 01. 07. 2008. La medida en cuestión es válida hasta la aprobación de la norma interna que sustituya al reglamento ČD Ok 2.
 La condición de aptitud para la conducción de un vehículo ferroviario la establece el § 45 de la ley nº 266/1994 Sb.
-El maquinista del tren Os 3101 es titular de un «Certificado de aptitud» válido para la conducción de vehículos ferroviarios, nº ev. 503829, para el tipo de vehículo de tracción M, categoría de ferrocarril «C», expedido por la Autoridad Ferroviaria de Praga, el 27. 03. 2008, con validez hasta el 27. 03. 2018.
-El maquinista del tren Os 3116 es titular de un «Certificado de aptitud» válido para la conducción de vehículos ferroviarios, nº ev. 503824, para el tipo de vehículo de tracción M, categoría de ferrocarril «C», expedido por la Autoridad Ferroviaria de Praga, el 19. 03. 2008, con validez hasta el 19. 03. 2018.
-En el momento de producirse el accidente ferroviario en cuestión, todos los empleados del gestor de la vía y del transportista implicados en el accidente ferroviario eran profesionalmente aptos para el desempeño de la función que ocupaban. Los documentos que acreditan la aptitud profesional de todas las personas implicadas forman parte del expediente del accidente ferroviario.
-### 3.2.3 Procedimiento de control interno de seguridad y sus resultados
-Para garantizar la explotabilidad de la vía y la seguridad del transporte ferroviario, antes de producirse el accidente ferroviario, el gestor de la vía, en el sentido del § 26 apartado 2 de la disposición nº 177/1995 Sb., por la que se aprueba el reglamento de construcción y técnico de las vías, en su redacción vigente (en adelante, disposición nº 177/1995 Sb.), realizó las siguientes inspecciones y mediciones de las obras de las vías:
-- inspección de la línea: realizada el 16. 02. 2009 entre las 07:45 h y las 08:45 h, véase el Libro de servicio del jefe de línea, de la Administración de Líneas de Český Těšín;
-- viaje de control en HDV: realizado el 16. 02. 2009, véase la anotación en el libro «LIBRO DE CONTROLES Y ACTIVIDADES DEL RESPONSABLE DE LA UNIDAD OPERATIVA DE TRÁFICO FRÝDEK-MÍSTEK»;
-- medición de la anchura de vía, de la posición relativa en altura y de la pendiente de las bandas de carriles de las vías y de los desvíos, incluida la medición de la dirección con un dispositivo de registro continuo: realizada el 15. 10. 2008, véase la impresión y el gráfico de la lista de defectos del recorrido del vehículo medidor por la vía Paskov – Vratimov;
-- inspección de los desvíos: realizada el 03. 02. 2009, véase la anotación en el libro nº 3 de la est. Paskov – Libro de incidencias (inspecciones);
-- inspección integral de la línea: realizada entre el 14. y el 20. 04. 2008, véase la anotación «Inspecciones integrales de líneas en el ámbito de la Unidad Operativa de la sección de línea Frýdek-Místek»;
-- inspección de los aparatos de comunicación y de seguridad: realizada el 03. 02. 2009, véase la anotación «Registro de averías de los aparatos de comunicación y de seguridad» de la est. Paskov;
-
+El maquinista del tren Os 3101 es titular de un «Certificado de aptitud» válido para la conducción de vehículos ferroviarios, nº de registro 503829, para el tipo de vehículo de tracción M, categoría de ferrocarril «C», emitido por la Autoridad Ferroviaria de Praga, el 27. 03. 2008, con validez hasta el 27. 03. 2018.
+El maquinista del tren Os 3116 es titular de un «Certificado de aptitud» válido para la conducción de vehículos ferroviarios, nº de registro 503824, para el tipo de vehículo de tracción M, categoría de ferrocarril «C», emitido por la Autoridad Ferroviaria de Praga, el 19. 03. 2008, con validez hasta el 19. 03. 2018.
+En el momento de producirse el accidente ferroviario en cuestión, todos los empleados del gestor de la infraestructura y del transportista participantes en el accidente ferroviario eran profesionalmente aptos para el desempeño de la función que ocupaban. Los documentos que acreditan la aptitud profesional de todas las personas participantes forman parte del expediente del accidente ferroviario.
+### 3.2.3 Procedimiento de la auditoría interna de seguridad y sus resultados
+Para garantizar la explotabilidad de la infraestructura y la seguridad del transporte ferroviario, antes de producirse el accidente ferroviario, el gestor de la infraestructura, en el sentido del § 26 apartado 2 de la disposición nº 177/1995 Sb., por la que se aprueba el reglamento de construcción y técnico de las infraestructuras ferroviarias, en su redacción vigente (en adelante, disposición nº 177/1995 Sb.), realizó las siguientes inspecciones y mediciones de las obras de las infraestructuras ferroviarias:
+recorrido de la vía: realizado el 16. 02. 2009 entre las 07:45 h y las 08:45 h, véase el Libro de
+•
+servicio del jefe de vía, de la Administración de Vías de Český Těšín;
+viaje de control en HDV: realizado el 16. 02. 2009, véase la anotación en el libro «LIBRO DE
+•
+CONTROLES Y ACTIVIDADES DEL RESPONSABLE DE LA UNIDAD OPERATIVA DE FRÝDEK-MÍSTEK»;
+medición de la anchura de vía, de la posición relativa en altura y de la pendiente de las bandas
+•
+de riel de las vías y de los desvíos, incluida la medición de la dirección con un dispositivo de
+registro continuo: realizada el 15. 10. 2008, véase la impresión y la representación gráfica de
+los defectos del recorrido del vehículo de medición por la vía Paskov – Vratimov;
+inspección de los desvíos: realizada el 03. 02. 2009, véase la anotación en el libro nº 3 de la
+•
+est. Paskov – Libro de incidencias (inspecciones);
+inspección integral de la vía: realizada entre el 14. – 20. 04. 2008, véase la anotación «Inspecciones
+•
+integrales de vías en el ámbito de la Unidad Operativa del sector de vías Frýdek-Místek»;
+inspección de los aparatos de enlace y de los aparatos de seguridad: realizada el 03. 02. 2009,
+•
+véase la anotación «Registro de averías de los aparatos de enlace y de los aparatos de seguridad»
+de la est. Paskov;
 
 ## Página 29
+
 
 - inspección integral del PZZ PZS AŽD 71 en el km 13,580 entre la est. Vratimov y la est. Paskov (inspección quinquenal): realizada el 07. 05. 2004; véase «ACTA de la inspección técnica quinquenal», con referencia nº: 902/2004/SSZT;
 - inspección integral del SZZ RZZ AŽD 71 en la est. Paskov (inspección quinquenal): realizada el 23. 04. y el 30. 05. 2004; véase «ACTA de la inspección técnica quinquenal», con referencia nº: 862/2004/SSZT.
@@ -852,6 +895,7 @@ El operador del transporte ferroviario es ČD, a. s., con domicilio en Nábřež
 - disposición nº 100/1995 Sb., por la que se establecen las condiciones para la explotación, la construcción y la fabricación de dispositivos técnicos designados y su concreción (Reglamento de dispositivos técnicos designados), en su redacción vigente;
 
 ## Página 30
+
 
 Decreto n.º 101/1995 Sb., por el que se aprueba la Ordenanza sobre la aptitud médica y profesional de las personas para la explotación de la vía y del transporte ferroviario, en su versión vigente;
 •
@@ -889,8 +933,8 @@ Norma interna SŽDC Dp 17 – 1 «Reglamento de ejecución de la norma para la n
 •
 Norma interna SŽDC Zam1 «Norma sobre la aptitud profesional de los empleados de la Administración de la Infraestructura Ferroviaria, organización estatal», aprobada el 30. 06. 2008, con el n.º de expediente: 23138/08-OKS, en vigor desde el 01. 07. 2008, en su versión vigente;
 
-
 ## Página 31
+
 
 •
 Norma interna SŽDC (ČD) Z 1 «NORMA PARA EL SERVICIO DE LOS DISPOSITIVOS DE SEÑALIZACIÓN DE ESTACIÓN Y DE TRAMO», aprobada el 26. 03. 2007, con el n.º de expediente: 56 704/2007, en su versión vigente, que fue asumida por el explotador de la vía SŽDC, s. o., en el sentido del BOLETÍN DE TRANSPORTE Y TARIFAS n.º 29-30, de 16. 07. 2008;
@@ -915,6 +959,7 @@ En el momento de producirse el SU, el SZZ de la est. Paskov se encontraba en est
 
 ## Página 32
 
+
 El tramo entre estaciones Paskov – Lískovec u Frýdku está formado por dos secciones espaciales, equipado con TZZ de 3.ª categoría según TNŽ 34 2620 con enclavamiento automático tipo AH 83. Los elementos de control y mando para la concesión del permiso de vía se encuentran situados en la est. Paskov y en la est. Lískovec u Frýdku.
 El tramo entre estaciones Vratimov – Paskov está formado por dos secciones espaciales, equipado con TZZ de 3.ª categoría según TNŽ 34 2620 con enclavamiento automático tipo AH 83. Los elementos de control y mando para la concesión del permiso de vía se encuentran situados en la est. Paskov y en la est. Vratimov. La comunicación de las salidas previstas en los tramos indicados se realiza mediante EDD.
 La TZZ del tramo entre estaciones Paskov – Vratimov no está equipada con dispositivo para el registro automático de datos. Se registra automáticamente únicamente la concesión del permiso de vía para la circulación de trenes, mediante el dispositivo de registro SZZ de la est. Vratimov.
@@ -928,6 +973,7 @@ Entre las vías de estación n.º 1 y 2 se encuentra el andén central, junto al
 El 20. 03. 2009, la DI, en presencia del operador ČD, a. s., realizó en la est. Paskov la verificación de la visibilidad de la señal «Alto» de la señal de salida S1 desde la cabina del maquinista de la HDV serie 842, que circulaba hacia la señal por la vía de estación n.º 1. La visibilidad directa de la señal «Alto» de la señal de salida S1, atendiendo a las condiciones de alineación, se determinó en 333,55 m, la distancia en el eje de la vía de estación n.º 1 se determinó en 338 m, véase «ACTA de la realización de la verificación de visibilidad», n.º ref.: 1-576/2009/DI-1, de fecha 20. 03. 2009, que forma parte del expediente de la MU. La distancia de 338 m a una velocidad de 40 km.h-1 (velocidad máxima permitida del tren Os 3101 al circular hacia la señal de salida S1, cuando el maquinista no podía comprobar con la vista de forma segura si la señal de salida S1 permitía la salida del tren) la recorre el vehículo ferroviario en 30,4 s. La distancia de 338 m a una velocidad de línea de 80 km.h-1 (velocidad máxima permitida del tren Os 3101 al circular hacia la señal de salida S1 en la situación en la que el maquinista podría comprobar de forma segura que la señal de salida S1 permite la salida del tren, p. ej., por la señal del señal principal anterior Sc1) la recorre el vehículo ferroviario en 15,2 s.
 
 ## Página 33
+
 
 De lo anterior se desprende que la visibilidad de la señal «Alto» de la señal de salida S1 de la est. Paskov era conforme al § 7 apartado 1 del decreto nº 173/1995 Sb. Desde la locomotora de la serie 842 detenida, la visibilidad de la señal «Alto» de la señal de salida S1 de la est. Paskov era mayor que la distancia mínima establecida de 100 m y, desde la locomotora de la serie 842 circulando a la velocidad máxima permitida, mayor que el tiempo de visibilidad establecido de 12 s.
 El enclavamiento automático del paso a nivel en el pk 13,580, situado en la cabecera de Vratimov de la est. Paskov, tipo AŽD 71, clase PZS 3SBI según la ČSN 34 2650, dispone del CERTIFICADO DE IDONEIDAD DEL EQUIPO TÉCNICO ESPECÍFICO, n.º de registro PZ 1620/96-E.42, expedido por la Autoridad Ferroviaria el 02. 04. 1996, con vigencia prorrogada hasta el 10. 05. 2009.
@@ -973,8 +1019,8 @@ EDD de la est. Vratimov, est. Paskov y est. Lískovec u Frýdku, utilizado para 
 •
 salidas previstas de los trenes Os 3101 y Os 3116;
 
-
 ## Página 34
+
 
 estación base de radio ZR 47 TRS (n.º de serie 405) situada en la oficina de tráfico de la est. Paskov,
 •
@@ -1046,6 +1092,7 @@ salida S1 desde la cabina del maquinista del tren Os 3101, habría sido de 101 m
 
 ## Página 35
 
+
 la parte móvil del protector de trenes estaba encendida durante la circulación del tren Os 3101 y fue
 •
 operada correctamente por el maquinista con el botón de vigilancia durante todo el trayecto.
@@ -1108,6 +1155,7 @@ salida prevista del tren Os 3116 de la est. Vratimov a las 09:03 h.
 
 ## Página 36
 
+
 El jefe de estación de la est. Paskov, tras recibir la salida prevista del tren Os 3101 de la est. Lískovec u Frýdku, realizó mediante el funcionamiento normal del SZZ la preparación y el establecimiento del itinerario para el tren Os 3101 en la vía de estación n.º 1, es decir, mediante la observación de las ventanas indicadoras de la vía de estación n.º 1 comprobó la libertad de la vía de estación n.º 1, determinó el inicio del itinerario, pulsó el botón de retorno de tres posiciones inicial del itinerario situado en el panel indicador del SZZ junto a la lámpara indicadora de la señal de entrada S, donde comenzaba la vía de tren. Determinó el final del itinerario, pulsó el botón de retorno de tres posiciones final del itinerario, situado en la vía de estación n.º 1 del panel indicador del SZZ. Mediante el funcionamiento del SZZ se produjo el cambio de agujas, el bloqueo del itinerario en la vía de estación n.º 1, la encendida de la señal «Libre» (luz verde) en la señal de entrada S y de la señal «Aviso» (luz amarilla) en la señal en ruta Sc1, permitiendo la circulación del tren Os 3101 hasta el nivel de la señal de salida S1 con la señal «Alto» (luz roja).
 
 El jefe de estación de la est. Paskov, tras recibir la salida prevista del tren Os 3116 de la est. Vratimov, realizó mediante el funcionamiento normal del SZZ la preparación y el establecimiento del itinerario para el tren Os 3116 en la vía de estación n.º 2, es decir, mediante la observación de las ventanas indicadoras de la vía de estación n.º 2 comprobó la libertad de la vía de estación n.º 2, determinó el inicio del itinerario, pulsó el botón de retorno de tres posiciones inicial del itinerario situado en el panel indicador del SZZ junto a la lámpara indicadora de la señal de entrada L, donde comenzaba la vía de tren. Determinó el final del itinerario, pulsó el botón de retorno de tres posiciones final del itinerario, situado en la vía de estación n.º 2 del panel indicador del SZZ. Mediante el funcionamiento del SZZ se produjo el cambio de agujas, el bloqueo del itinerario en la vía de estación n.º 2 y la encendida de la señal «Velocidad 40 km.h-1 y aviso» (luz amarilla, sobre ella luz amarilla) en la señal de entrada L, permitiendo la circulación del tren Os 3116 hasta el nivel de la señal de salida L2 con la señal «Alto» (luz roja).
@@ -1125,21 +1173,21 @@ En el art. 505 de la norma interna SŽDC (ČD) D2 se indica, bajo la letra e):
 
 ## Página 37
 
-de modo que pueda detenerse con seguridad antes de la señal «Alto» de la señal principal. El maquinista solo puede aumentar la velocidad cuando haya comprobado con seguridad que la señal principal correspondiente permite la salida del tren a mayor velocidad.”
-En este sentido, si antes de la salida del tren el maquinista no puede comprobar con la vista si la señal principal correspondiente permite la salida, y tampoco lo ha comprobado a partir de la señal de aproximación independiente (señal de aproximación repetidora), ni a partir de la señal de la señal principal anterior, que es la señal de aproximación de la señal principal correspondiente, queda a criterio del maquinista, antes de poner el tren en marcha, consultar al jefe de estación, si tiene esta posibilidad, si la señal principal correspondiente permite la salida, véase el documento «Gestorský výklad», n.º de expediente: 1-690/2009/DI, de fecha 23. 03. 2009. El maquinista del tren Os 3101, el día 16. 02. 2009, en la est. de Paskov, no utilizó la posibilidad de consultar al jefe de estación de Paskov a través del TRS si la señal de salida S1 permite la salida, véase el punto 3.5.2.
+de modo que pueda detenerse con seguridad antes de la señal «Alto» de la señal principal. El conductor puede aumentar la velocidad solo cuando haya comprobado con seguridad que la señal principal correspondiente permite la salida del tren a mayor velocidad."
+En el sentido de lo anterior, si antes de la salida del tren el conductor no puede comprobar con la vista si la señal principal correspondiente permite la salida, y tampoco lo ha comprobado a partir de la señal de aproximación independiente (señal de aproximación repetidora), ni a partir de la señal de la señal principal anterior, que es la señal de aproximación de la señal principal correspondiente, queda a criterio del conductor consultar al jefe de estación, si tiene esta posibilidad, si la señal principal correspondiente permite la salida, véase el documento «Gestorský výklad», n.º de expediente: 1-690/2009/DI, de fecha 23. 03. 2009. El conductor del tren Os 3101, el día 16. 02. 2009, en la estación de Paskov, no utilizó la posibilidad de consultar al jefe de estación de Paskov a través del TRS si la señal de salida S1 permite la salida, véase el punto 3.5.2.
 ### 3.5.2 Intercambio de comunicaciones verbales en relación con el suceso excepcional, incluidas las pruebas del dispositivo de registro
-El análisis de los datos registrados y archivados por el dispositivo de registro digital universal ReDat 3, n.º de fabricación 052 (tipo 110-2A000X0X), situado en la est. de Paskov, véase el documento «Rozbor ze záznamového zařízení ReDat v ŽST Paskov», n.º de expediente: 1-462/2009/DI, de fecha 26. 02. 2009, contiene únicamente el intercambio de información entre los jefes de estación de Paskov y de Vratimov sobre la situación de tráfico anterior a la aparición del SE, incluida la registración de la conexión no efectuada a través del TRS con el maquinista del tren Os 3101 y, posteriormente, también con el maquinista del tren Os 3116.
-Del análisis de los datos registrados y archivados por el dispositivo de registro digital universal ReDat, situado en las estaciones de Kojetín y Valašské Meziříčí, se desprende que la estación de radio de vehículo VS47, instalada en el HDV 842.019-2 del tren Os 3101, estuvo funcional y fue operada por el maquinista de conformidad con los procedimientos tecnológicos del gestor de la vía contenidos en la normativa interna de SŽDC (ČD) Z11 «PŘEDPIS PRO OBSLUHU RÁDIOVÝCH ZAŘÍZENÍ», aprobada el día 16. 11. 2000, bajo el n.º de expediente: 55962/2000-O11, con efectos desde el 01. 04. 2001, que fue asumida por el gestor de la vía SŽDC, s. o., en el sentido del BOLETÍN DE TRANSPORTE Y TARIFAS n.º 29-30, de 16. 07. 2008.
+El análisis de los datos registrados y archivados por el dispositivo de registro digital universal ReDat 3, n.º de fabricación 052 (tipo 110-2A000X0X), situado en la estación de Paskov, véase el documento «Rozbor ze záznamového zařízení ReDat v ŽST Paskov», n.º de expediente: 1-462/2009/DI, de fecha 26. 02. 2009, contiene únicamente el intercambio de información entre los jefes de estación de Paskov y de Vratimov sobre la situación de tráfico anterior a la aparición del SE, incluida la registración de la comunicación no efectuada a través del TRS con el conductor del tren Os 3101 y, posteriormente, también con el conductor del tren Os 3116.
+Del análisis de los datos registrados y archivados por el dispositivo de registro digital universal ReDat, situado en las estaciones de Kojetín y Valašské Meziříčí, se desprende que la estación de radio de vehículo VS47, situada en la HDV 842.019-2 del tren Os 3101, estaba funcional y era operada por el conductor de conformidad con los procedimientos tecnológicos del gestor de la infraestructura contenidos en la norma interna de SŽDC (ČD) Z11 «PŘEDPIS PRO OBSLUHU RÁDIOVÝCH ZAŘÍZENÍ», aprobada el día 16. 11. 2000, bajo el n.º de expediente: 55962/2000-O11, con efectos desde el 01. 04. 2001, que fue asumida por el gestor de la infraestructura SŽDC, s. o., en el sentido del BOLETÍN DE TRANSPORTE Y TARIFAS n.º 29-30, de 16. 07. 2008.
 Los documentos que contienen el texto completo de las transcripciones de las conversaciones de los dispositivos de registro forman parte del expediente del SE.
 ### 3.5.3 Medidas adoptadas para la protección y la seguridad del lugar del suceso excepcional
-La protección y la seguridad del lugar de aparición del SE se garantizó en colaboración con la PČR y demás servicios del IZS de conformidad con el § 9 del decreto n.º 376/2006 Sb., mediante personas designadas por el gestor de la vía y el transportista.
+La protección y la seguridad del lugar de aparición del SE se garantizó en colaboración con la PČR y demás servicios del IZS de conformidad con el § 9 del decreto n.º 376/2006 Sb., mediante personas designadas por el gestor de la infraestructura y el operador ferroviario.
 ### 3.6 Condiciones laborales, sanitarias y de explotación
-### 3.6.1 Jornada laboral de los empleados del gestor de la vía y del transportista que participaron en el suceso
-Maquinista del tren Os 3101: comenzó el turno según el horario del servicio por turnos el día 16. 02. 2009 a las 06:35 h. El descanso previo al turno fue conforme al § 90 de la ley n.º 262/2006 Sb., Código del Trabajo, en su redacción vigente.
-Maquinista del tren Os 3116: comenzó el turno según el horario del servicio por turnos el día 15. 02. 2009 a las 22:27 h, con interrupción de la jornada laboral desde las 23:47 h hasta las 02:45 h del día 16. 02. 2009. El descanso previo al turno fue conforme al § 90 de la ley n.º 262/2006 Sb., Código del Trabajo, en su redacción vigente.
-
+### 3.6.1 Jornada laboral de los empleados del gestor de la infraestructura y del operador ferroviario que participaron en el suceso
+Conductor del tren Os 3101: comenzó la turno según el horario del servicio por turnos el día 16. 02. 2009 a las 06:35 h. El descanso antes del turno fue conforme al § 90 de la ley n.º 262/2006 Sb., Código del Trabajo, en la redacción de las normas posteriores.
+Conductor del tren Os 3116: comenzó la turno según el horario del servicio por turnos el día 15. 02. 2009 a las 22:27 h, con interrupción de la jornada laboral desde las 23:47 h hasta las 02:45 h del día 16. 02. 2009. El descanso antes del turno fue conforme al § 90 de la ley n.º 262/2006 Sb., Código del Trabajo, en la redacción de las normas posteriores.
 
 ## Página 38
+
 
 Jefe de estación de Paskov: comenzó el turno según el horario del servicio por turnos el día 16. 02. 2009 a las 05:48 h. El descanso previo al turno fue conforme al § 90 de la ley n.º 262/2006 Sb., Código del Trabajo, en su redacción vigente.
 Jefa de estación de Vratimov: comenzó el turno según el horario del servicio por turnos el día 16. 02. 2009 a las 05:36 h. El descanso previo al turno fue conforme al § 90 de la ley n.º 262/2006 Sb., Código del Trabajo, en su redacción vigente.
@@ -1162,6 +1210,7 @@ Al maquinista del tren Os 3101 se le practicó un análisis de sangre para deter
 
 ## Página 39
 
+
 3.6.3 Disposición del puesto de conducción o del vehículo que influye en su 
 manejo y uso
 El maquinista del tren Os 3101 y el maquinista en formación del tren Os 3116 observaban la vía y las señales desde el lado derecho del puesto de conducción delantero en el sentido de la marcha. El maquinista del tren Os 3116, que en el momento de la producción de la MU no conducía el MDV del tren Os 3116, observaba la vía y las señales desde el lado izquierdo del puesto de conducción delantero en el sentido de la marcha.
@@ -1179,8 +1228,8 @@ La Inspección Ferroviaria, en el período comprendido entre el 01. 01. 2005 y l
 | 3. | 06. 06. 2006 11:34 h | est. Plešnice, señal de salida S1, tren Os 7335 | NO | NO |
 | 4. | 09. 09. 2006 19:41 h | est. Děčín hl. n., señal de salida S101, tren Os 2327 | SÍ | SÍ |
 
-
 ## Página 40
+
 
 Visibilidad de la indicación 
 Transmisión de la información 
@@ -1319,8 +1368,8 @@ SÍ
 L10, tren Os 13300
 05:14 h
 
-
 ## Página 41
+
 
 | N.º | Fecha y hora de producción de la MU | Estación, señal principal vencida, tren | Transmisión de la información sobre la indicación de la señal principal al MDV de cabeza | Visibilidad de la indicación de la señal principal desde el MDV de cabeza desde la zona de acceso y salida de viajeros |
 | 8. | 01. 07. 2009 12:40 h | est. Mstětice, señal de salida L2, tren Os 2222 | NO | NO |
@@ -1341,33 +1390,42 @@ La estación de origen del tren Os 3116 fue la est. Ostrava hl. n., y la estaci�
 
 ## Página 42
 
-El tren fue transportado en toda su trayectoria bajo la licencia del transportista ČD, a. s. El tren estaba compuesto por la HDV 754.040-4 circulando con el puesto de conducción 1 por delante y cuatro TDV de las series Bdt, Bdt262.
-El tren Os 3116 iba acompañado de personas designadas como competentes, a saber: el conductor, el conductor en formación bajo la supervisión del conductor del tren Os 3116 y el jefe de tren de transporte de pasajeros.
-La salida prevista del tren Os 3101 de la est. Lískovec u Frýdku a la est. Paskov fue facilitada mediante el EDD por el jefe de estación de la est. Lískovec u Frýdku, con el indicativo de que el tren Os 3101 saldría de la est. Lískovec u Frýdku a las 09:02 h; la salida real del tren Os 3101 de la est. Lískovec u Frýdku fue a las 09:01 h (retrasado 29 min). La salida prevista del tren Os 3116 de la est. Vratimov a la est. Paskov fue facilitada mediante el diario de circulación electrónico por el jefe de estación de la est. Vratimov, con el indicativo de que el tren Os 3116 saldría de la est. Vratimov a las 09:03 h. Debido a la situación de circulación surgida, el jefe de estación de la est. Paskov planificó un cruce excepcional de los trenes Os 3101 y Os 3116 en la est. Paskov, con el indicativo de que el tren Os 3101 entraría en la vía de estación n.º 1, donde esperaría la llegada del tren Os 3116, que tenía establecido el itinerario de tren hacia la vía de estación n.º 2. Como el conductor del tren Os 3101, desde el lugar de parada en la zona de ascenso y descenso de pasajeros situada en la vía de estación n.º 1 de la est. Paskov, no veía la señal del semáforo de salida S1 y no era necesario que el tren permaneciera detenido en la zona de ascenso y descenso de pasajeros tras finalizar el ascenso y descenso de pasajeros, tras realizar las operaciones establecidas puso el tren Os 3101 en movimiento en dirección al semáforo de salida S1, que indicaba la señal «Alto», dada por luz roja. En el sentido de los procedimientos tecnológicos uniformes del operador de la vía, el conductor del tren Os 3101 podía poner el tren en movimiento a una velocidad máxima de 40 km.h-1, debiendo ajustar la velocidad de circulación de manera que pudiera detenerse con seguridad antes del semáforo de salida S1, donde debía esperar la expedición del tren mediante la colocación del semáforo de salida S1 en la señal que permite la circulación del tren (tras la entrada del tren en sentido contrario Os 3116 en la vía de estación n.º 2 de la est. Paskov). Velocidades superiores a 40 km.h-1 podía aumentarlas el conductor del tren Os 3101, en el sentido de los procedimientos tecnológicos uniformes, solo cuando hubiera comprobado con seguridad que el semáforo de salida S1 permite la salida del tren. El conductor del tren Os 3101, tras poner el tren en movimiento en la vía de estación n.º 1, aumentaba gradualmente su velocidad. La velocidad de 40 km.h-1 fue alcanzada por el tren Os 3101 en el km 14,305, tras recorrer 145 m, en el lugar donde el conductor no podía comprobar con seguridad si el semáforo de salida S1 permite la salida. La velocidad del tren continuó aumentando de forma gradual. En el km 14,232, es decir, en el lugar desde el cual el conductor podía comprobar con seguridad desde el puesto de conducción de la HDV de la serie 842 en la cabeza del tren Os 3101 la señal del semáforo de salida S1 de la est. Paskov, la velocidad del tren Os 3116 era de 44,6 km.h-1. Con la aplicación del frenado de acción rápida, en el lugar de visibilidad de la señal «Alto» del semáforo de salida S1 desde el puesto de conducción de la HDV del tren Os 3101, la distancia de frenado teórica del tren habría sido de 101 m, es decir, el tren Os 3101 se habría detenido aún antes del nivel del semáforo de salida S1 en el km 14,131. Sin embargo, el tren Os 3101 continuó aumentando gradualmente la velocidad. No se detuvo ante el semáforo de salida S1 con la señal «Alto» y continuó su marcha en dirección a la est. Vratimov, con lo que se produjo el cambio forzoso del desvío n.º 1 en el itinerario de tren establecido para el tren en sentido contrario Os 3116, cuya entrada en la est. Paskov estaba permitida, en la dirección del permiso de vía concedido desde la est. Vratimov, por la señal «Velocidad 40 km.h-1 y aviso» del semáforo de entrada L. Tras la ocupación del circuito de vía V1 y el cambio forzoso del desvío n.º 1 por el tren Os 3101, como consecuencia del funcionamiento correcto del SZZ de la est. Paskov, en el semáforo de entrada L de la est. Paskov, para la circulación del tren en sentido contrario Os 3116, la señal que permite la circulación del tren «Velocidad 40 km.h-1 y aviso» cambió a la señal que prohíbe la circulación «Alto». El tren Os 3116 se encontraba en ese momento en la zona situada antes del semáforo de entrada L de la est. Paskov. Ante el cambio repentino de la señal del semáforo de entrada L, el conductor en formación, supervisado por el conductor del tren Os 3116, reaccionó aplicando el frenado de acción rápida. Por efecto del frenado de acción rápida, el tren Os 3116 se detuvo en el km 13,459, es decir, 9 m antes del nivel del semáforo de entrada L. Debido a las condiciones de alineación de la cabecera de Vratimov de la est. Paskov, en curva a la derecha, el conductor del tren Os 3101 vio al tren en sentido contrario Os 3116 solo en el momento en que este se detuvo antes del semáforo de entrada L. El conductor del tren Os 3101 reaccionó ante la situación surgida aplicando el frenado de acción rápida. Debido a la corta distancia, e incluso con el frenado de acción rápida aplicado, cuyo valor medio de deceleración fue de -1,33 m.s-2, ya no fue posible evitar la colisión de los trenes. El tren Os 3101 impactó contra el tren detenido Os 3116 a una velocidad de 41,7 km.h-1. Por la dinámica del suceso, el tren detenido, frenado mediante el freno automático de vacío continuo,
+El tren fue transportado a lo largo de toda su trayectoria bajo la licencia del transportista ČD, a. s. El tren estaba compuesto por la HDV 754.040-4 circulando con el puesto de conducción 1 por delante y cuatro TDV de las series Bdt, Bdt262.
+El tren Os 3116 iba acompañado por personas expertas designadas, a saber: el maquinista, el maquinista en formación bajo la supervisión del maquinista del tren Os 3116 y el jefe de tren de transporte de pasajeros.
+La salida prevista del tren Os 3101 de la est. Lískovec u Frýdku a la est. Paskov fue dada a través del EDD por el jefe de estación de la est. Lískovec u Frýdku, con el condicionamiento de que el tren Os 3101 saldría de la est. Lískovec u Frýdku a las 09:02 h; la salida real del tren Os 3101 de la est. Lískovec u Frýdku fue a las 09:01 h (retrasado 29 min). La salida prevista del tren Os 3116 de la est. Vratimov a la est. Paskov fue dada a través del diario de circulación electrónico por el jefe de estación de la est. Vratimov, con el condicionamiento de que el tren Os 3116 saldría de la est. Vratimov a las 09:03 h. Debido a la situación de circulación surgida, el jefe de estación de la est. Paskov planificó un cruce excepcional de los trenes Os 3101 y Os 3116 en la est. Paskov, con el condicionamiento de que el tren Os 3101 entraría en la vía de estación n.º 1, donde esperaría la llegada del tren Os 3116, el cual tenía establecida la ruta de tren hacia la vía de estación n.º 2.
+Dado que el maquinista del tren Os 3101, desde el lugar de parada en la zona de embarque y desembarque de pasajeros situada en la vía de estación n.º 1 de la est. Paskov, no veía la señal del semáforo de salida S1 y no era necesario que el tren permaneciera detenido en la zona de embarque y desembarque de pasajeros una vez finalizado el embarque y desembarque de pasajeros, puso el tren Os 3101 en movimiento en dirección al semáforo de salida S1 tras la realización de las operaciones establecidas, el cual indicaba la señal «Alto», dada por luz roja.
+En el sentido de los procedimientos tecnológicos uniformes del gestor de la vía, el maquinista del tren Os 3101 podía poner el tren en movimiento a una velocidad máxima de 40 km.h-1, debiendo ajustar la velocidad de circulación de manera que pudiera detenerse con seguridad antes del semáforo de salida S1, donde debía esperar la expedición del tren mediante la colocación del semáforo de salida S1 en la señal que permite la circulación del tren (tras la entrada del tren en sentido contrario Os 3116 en la vía de estación n.º 2 de la est. Paskov). Una velocidad superior a 40 km.h-1 podía el maquinista del tren Os 3101 aumentarla, en el sentido de los procedimientos tecnológicos uniformes, solo cuando hubiera comprobado con seguridad que el semáforo de salida S1 permite la salida del tren. El maquinista del tren Os 3101, tras poner el tren en movimiento en la vía de estación n.º 1, aumentó su velocidad de forma continua. La velocidad de 40 km.h-1 fue alcanzada por el tren Os 3101 en el km 14,305, tras recorrer 145 m, en el lugar donde el maquinista no podía comprobar con seguridad si el semáforo de salida S1 permite la salida. La velocidad del tren continuó aumentando de forma continua. En el km 14,232, es decir, en el lugar desde el cual el maquinista podía comprobar con seguridad desde el puesto de conducción de la HDV de la serie 842 en cabeza del tren Os 3101 la indicación del semáforo de salida S1 de la est. Paskov, la velocidad del tren Os 3101 era de 44,6 km.h-1. Con la aplicación del frenado de acción rápida, en el lugar de visibilidad de la señal «Alto» del semáforo de salida S1 desde el puesto de conducción de la HDV del tren Os 3101, la distancia de frenado teórica del tren habría sido de 101 m, es decir, el tren Os 3101 se habría detenido aún antes del nivel del semáforo de salida S1 en el km 14,131. Sin embargo, el tren Os 3101 continuó aumentando la velocidad de forma continua. No se detuvo ante el semáforo de salida S1 con la señal «Alto» y continuó su marcha en dirección a la est. Vratimov, con lo que se produjo el cambio forzado del desvío n.º 1 en la ruta de circulación establecida para el tren en sentido contrario Os 3116, cuya entrada en la est. Paskov estaba permitida, en el sentido del permiso de vía concedido desde la est. Vratimov, por la señal «Velocidad 40 km.h-1 y aviso» del semáforo de entrada L. Tras la ocupación del circuito de vía V1 y el cambio forzado del desvío n.º 1 por el tren Os 3101, como consecuencia del funcionamiento correcto del SZZ de la est. Paskov, en el semáforo de entrada L de la est. Paskov, para la circulación del tren en sentido contrario Os 3116, la señal que permite la circulación del tren «Velocidad 40 km.h-1 y aviso» cambió a la señal que prohíbe la circulación «Alto». El tren Os 3116 se encontraba en ese momento en la zona anterior al semáforo de entrada L de la est. Paskov. Ante el cambio repentino de la indicación del semáforo de entrada L, el maquinista en formación, bajo la supervisión del maquinista del tren Os 3116, reaccionó aplicando el frenado de acción rápida. Por efecto del frenado de acción rápida, el tren Os 3116 se detuvo en el km 13,459, es decir, 9 m antes del nivel del semáforo de entrada L. Debido a las condiciones de alineación de la cabecera de Vratimov de la est. Paskov, de curva a la derecha, el maquinista del tren Os 3101 vio el tren en sentido contrario Os 3116 solo en el momento de su detención antes del semáforo de entrada L. El maquinista del tren Os 3101 reaccionó ante la situación surgida aplicando el frenado de acción rápida. Debido a la corta distancia, incluso con el frenado de acción rápida aplicado, cuyo valor medio de deceleración fue de -1,33 m.s-2, ya no era posible evitar la colisión de los trenes. El tren Os 3101 impactó contra el tren Os 3116 detenido a una velocidad de 41,7 km.h-1.
+Por la dinámica del suceso del accidente, el tren detenido, frenado por el freno automático de vacío continuo,
 
 ## Página 43
 
 Os 3116 se desplazó 9 m hacia atrás. El frente del tren Os 3116 se encontraba tras el MU en el pk 13,450. Como consecuencia de la colisión de los trenes Os 3101 y Os 3116 se produjo el descarrilamiento del bogí delantero del HDV 842.019-2 del tren Os 3101, la destrucción de las partes frontales del HDV 842.019-2 y del HDV 754.040-0 del tren Os 3116, y el daño a ambos TDV de la serie Btax del tren Os 3101. Como consecuencia del MU resultaron heridas un total de 11 personas. De este número, resultaron heridos 4 empleados del transportista y 7 personas – pasajeros del tren Os 3101. Otras 46 personas fueron atendidas tras el MU. No se produjo ninguna catástrofe ecológica.
 ### 4.2 Análisis
 ### 4.2.1 Evaluación de los hechos constatados de acuerdo con el punto 3 y exposición de las conclusiones sobre la causa del suceso excepcional y la actuación de los servicios de rescate
-Para garantizar la operatividad de la vía y la seguridad del transporte ferroviario, el explotador de la vía realizaba inspecciones y mediciones periódicas de las obras de la vía en el sentido del § 26, apartado 1, del decreto n.º 177/1995 Sb., indicadas en los documentos:
-•	„SLUŽEBNÍ KNÍŽKA” (Libro de servicio) del jefe de vía, Správy tratí Český Těšín, n.º de expediente: 1-700/2009/DI de fecha 25. 03. 2009;
-•	„KNIHA KONTROL A ČINNOSTÍ VPS TO FRÝDEK-MÍSTEK” (Libro de controles y actividades del Puesto de Señalización y Telecomunicaciones de Frýdek-Místek), n.º de expediente: 1-699/2009/DI de fecha 25. 03. 2009;
-•	extracto impreso y gráfico de defectos de la circulación del vagón de medición por la vía Paskov - Vratimov, n.º de expediente: 1-701/2009/DI de fecha 25. 03. 2009 y n.º de expediente: 1-702/2009/DI de fecha 25. 03. 2009;
-•	„Kniha přehlídek 3.” (Libro de inspecciones 3.), n.º de expediente: 1-698/2009/DI de fecha 25. 03. 2009;
-•	„Komplexní prohlídky tratí v obvodu PS TO Frýdek-Místek” (Inspecciones integrales de vías en el ámbito del Puesto de Señalización y Telecomunicaciones de Frýdek-Místek), n.º de expediente: 1-704/2009/DI de fecha 25. 03. 2009.
-•	„Záznamník poruch sdělovacího a zabezpečovacího zařízení” (Registro de averías de los aparatos de telecomunicación y seguridad) de la est. Paskov, n.º de expediente: 1-681/2009/DI de fecha 19. 03. 2009;
-•	„Záznamník poruch sdělovacího a zabezpečovacího zařízení” (Registro de averías de los aparatos de telecomunicación y seguridad) de la est. Vratimov, n.º de expediente: 1-683/2009/DI de fecha 19. 03. 2009;
-•	„Záznamník poruch sdělovacího a zabezpečovacího zařízení” (Registro de averías de los aparatos de telecomunicación y seguridad) del PZS pk 13,580, n.º de expediente: 1-684/2009/DI de fecha 19. 03. 2009;
-•	„Plán údržby Rok: 2008” (Plan de mantenimiento Año: 2008) y „Plán údržby Rok: 2009” (Plan de mantenimiento Año: 2009) del SZZ de la est. Paskov, n.º de expediente: 1-687/2009/DI de fecha 19. 03. 2009 y n.º de expediente: 1-688/2009/DI de fecha 19. 03. 2009;
-•	„Zápis z pětileté technické prohlídky staničního zabezpečovacího zařízení RZZ AŽD 71 v žst. Paskov provedené dle vyhl. č.177/95 Sb.” (Acta de la inspección técnica quinquenal del aparato de seguridad de estación RZZ AŽD 71 en la est. Paskov realizada según el decreto n.º 177/95 Sb.), n.º de expediente: 1-686/2009/DI de fecha 19. 03. 2009;
-•	„Zápis z pětileté technické prohlídky přejezdového zabezpečovacího zařízení PZS AŽD 71 v žst. Paskov, km 13,580 trati Ostrava – Kojetín” (Acta de la inspección técnica quinquenal del aparato de seguridad de paso a nivel PZS AŽD 71 en la est. Paskov, pk 13,580 de la vía Ostrava – Kojetín), n.º de expediente: 1-685/2009/DI de fecha 19. 03. 2009.
+Para garantizar la operatividad de la vía y la seguridad del transporte ferroviario, el explotador de la vía realizaba inspecciones y mediciones periódicas de las obras ferroviarias en el sentido del § 26 apartado 1 del decreto nº 177/1995 Sb., indicadas en los documentos:
+
+• «SLUŽEBNÍ KNÍŽKA» (Libro de servicio) del jefe de línea, Správy tratí Český Těšín, ref.: 1-700/2009/DI de fecha 25. 03. 2009;
+• «KNIHA KONTROL A ČINNOSTÍ VPS TO FRÝDEK-MÍSTEK» (Libro de controles y actividades VPS TO FRÝDEK-MÍSTEK), ref.: 1-699/2009/DI de fecha 25. 03. 2009;
+• listado impreso y gráfico de anomalías de la circulación del vehículo de medición por la vía Paskov - Vratimov, ref.: 1-701/2009/DI de fecha 25. 03. 2009 y ref.: 1-702/2009/DI de fecha 25. 03. 2009;
+• «Kniha přehlídek 3.» (Libro de inspecciones 3.º), ref.: 1-698/2009/DI de fecha 25. 03. 2009;
+• «Komplexní prohlídky tratí v obvodu PS TO Frýdek-Místek» (Inspecciones integrales de líneas en el ámbito PS TO Frýdek-Místek), ref.: 1-704/2009/DI de fecha 25. 03. 2009.
+• «Záznamník poruch sdělovacího a zabezpečovacího zařízení» (Registro de averías del equipo de comunicación y seguridad) de la est. Paskov, ref.: 1-681/2009/DI de fecha 19. 03. 2009;
+• «Záznamník poruch sdělovacího a zabezpečovacího zařízení» (Registro de averías del equipo de comunicación y seguridad) de la est. Vratimov, ref.: 1-683/2009/DI de fecha 19. 03. 2009;
+• «Záznamník poruch sdělovacího a zabezpečovacího zařízení» (Registro de averías del equipo de comunicación y seguridad) del PZS pk 13,580, ref.: 1-684/2009/DI de fecha 19. 03. 2009;
+• «Plán údržby Rok: 2008» (Plan de mantenimiento Año: 2008) y «Plán údržby Rok: 2009» (Plan de mantenimiento Año: 2009) del SZZ de la est. Paskov, ref.: 1-687/2009/DI de fecha 19. 03. 2009 y ref.: 1-688/2009/DI de fecha 19. 03. 2009;
+• «Zápis z pětileté technické prohlídky staničního zabezpečovacího zařízení RZZ AŽD 71 v žst. Paskov provedené dle vyhl. č.177/95 Sb.» (Acta de la inspección técnica quinquenal del equipo de seguridad de estación RZZ AŽD 71 en la est. Paskov realizada según el decreto nº 177/95 Sb.), ref.: 1-686/2009/DI de fecha 19. 03. 2009;
+• «Zápis z pětileté technické prohlídky přejezdového zabezpečovacího zařízení PZS AŽD 71 v žst. Paskov, km 13,580 trati Ostrava – Kojetín» (Acta de la inspección técnica quinquenal del equipo de seguridad de paso a nivel PZS AŽD 71 en la est. Paskov, pk 13,580 de la línea Ostrava – Kojetín), ref.: 1-685/2009/DI de fecha 19. 03. 2009.
+
 Los documentos indicados forman parte del expediente del MU.
-El jefe de estación de la est. Paskov, tras recibir la salida prevista del tren Os 3101 de la est. Lískovec u Frýdku, realizó con la operación normal del SZZ la preparación y el establecimiento de la vía de circulación para el tren Os 3101 en la vía de estación n.º 1. Mediante la operación del SZZ se cambiaron los desvíos, se cerró el bloqueo de la vía de circulación en la vía de estación n.º 1. La circulación del tren Os 3101 en la est. Paskov estaba permitida por la señal „Volno” (Libre) de la señal de entrada S y por la señal „Výstraha” (Aviso) de la señal de vía Sc1, hasta el nivel de la señal de salida S1 con la señal „Stůj” (Alto).
-El jefe de estación de la est. Paskov, tras recibir la salida prevista del tren Os 3116 de la est. Vratimov, realizó con la operación normal del SZZ la preparación y el establecimiento de la vía de circulación para el tren Os 3116 en la vía de estación n.º 2. La circulación del tren Os 3116 en la est. Paskov estaba permitida por la señal „Rychlost 40 km.h-1 a výstraha” (Velocidad 40 km.h-1 y aviso) de la señal de entrada L, hasta el nivel de la señal de salida L2 con la señal „Stůj” (Alto).
+
+El jefe de estación de la est. Paskov, tras recibir la salida prevista del tren Os 3101 de la est. Lískovec u Frýdku, realizó mediante la operación normal del SZZ la preparación y el establecimiento de la vía de circulación para el tren Os 3101 en la vía de estación nº 1. Mediante la operación del SZZ se cambiaron los desvíos, se cerró el enclavamiento de la vía de circulación en la vía de estación nº 1. La circulación del tren Os 3101 en la est. Paskov fue autorizada con la señal «Libre» de la señal de entrada S y con la señal «Aviso» de la señal de trayecto Sc1, hasta el nivel de la señal de salida S1 con la señal «Alto».
+
+El jefe de estación de la est. Paskov, tras recibir la salida prevista del tren Os 3116 de la est. Vratimov, realizó mediante la operación normal del SZZ la preparación y el establecimiento de la vía de circulación para el tren Os 3116 en la vía de estación nº 2. La circulación del tren Os 3116 en la est. Paskov fue autorizada con la señal «Velocidad 40 km.h-1 y aviso» de la señal de entrada L, hasta el nivel de la señal de salida L2 con la señal «Alto».
+
 En el momento de producirse el MU, el TZZ del tramo Vratimov – Paskov y el SZZ de las est. Paskov y Vratimov
 
 ## Página 44
+
 
 en estado operativo y no se registró ninguna avería. De los datos registrados por los ordenadores tecnológicos y de entrada ESA 11 de la estación de Vratimov, véase «Análisis del registro del archivo TPC 3 SZZ ESA 11 en la estación de Vratimov de fecha 16. 2. 2009», ref. 1-498/2009/DI, de fecha 03. 03. 2009, se deduce que en el momento de producirse el SU (suceso ferroviario), es decir, en el momento de la circulación del tren Os 3116 desde la estación de Vratimov hasta la estación de Paskov, la vía
 ###  se concedió el permiso de vía para la circulación de trenes desde la estación de Vratimov hasta la estación de Paskov
@@ -1384,6 +1442,7 @@ En el art. 505 de la norma interna SŽDC (ČD) D2, se indica bajo la letra e):
 principal correspondiente autoriza la salida, y tampoco lo ha comprobado mediante la señal de la aproximación independiente (aproximación de repetición), mediante la señal de las aproximaciones anteriores a la señal principal, que es la aproximación de la señal principal correspondiente, o mediante consulta al jefe de estación, tras realizar las actuaciones de conformidad con la norma del transportista (para el procedimiento de acompañamiento del tren antes de poner el tren en movimiento) indicará
 
 ## Página 45
+
 
 ### el tren a una velocidad máxima de 40 km/h. Sin embargo, el maquinista debe ajustar la velocidad de circulación del tren de modo que pueda detenerse con seguridad antes de la señal «Alto» del semáforo principal. El maquinista solo puede aumentar la velocidad cuando haya comprobado con seguridad que el semáforo principal correspondiente permite la salida del tren a una velocidad superior.»
 
@@ -1407,6 +1466,7 @@ tras la salida desde el último lugar de detención en el km 14,450, la velocida
 •
 
 ## Página 46
+
 
 ### Os 3101, alcanzada en la vía 145 m, en el pk 14,305, es decir, en el punto donde el maquinista
 ### ya no podía comprobar visualmente con seguridad si la señal de salida S1 autoriza
@@ -1479,6 +1539,7 @@ punto desde el cual el maquinista podía
 
 ## Página 47
 
+
 pudiendo constatar con seguridad que la señal de salida S1 indicaba «Alto», no permitiendo la salida del tren, no actuó conforme a los hechos constatados, continuó aumentando la velocidad con el tren Os 3101 y no se detuvo con seguridad antes de la señal «Alto» de la señal de salida S1 de la est. de Paskov.
 DI realizó un análisis de las MU registradas análogas del transportista ČD, a. s., en el período desde el 01. 01. 2005 hasta la fecha de emisión del Informe sobre los resultados de la investigación de las causas y circunstancias de la aparición del suceso excepcional, ocurridos en est., en los que se permite la expedición de trenes con transporte de pasajeros que permanecen (regular o excepcionalmente) en la zona de subida y bajada de pasajeros, mediante la colocación de la señal principal en la señal que permite la circulación, en el sentido de los arts. 502 y 505 de la norma interna de SŽDC (ČD) D2, con el siguiente hallazgo:
 - en el año 2005 se registran en DI las siguientes 
@@ -1525,6 +1586,7 @@ L3 se transmitía a la locomotora de mando, la señal «Alto» era visible desde
 arranque, desde la locomotora de mando. El tren estaba dotado de personal de tren;
 
 ## Página 48
+
 
 ### - el 12. 10. 2007, en la est. Mladá Boleslav město, por el maquinista del tren Os 16433 
 ### no se respetó la señal «Alto» del semáforo de vía Lc1b y del semáforo de salida 
@@ -1580,6 +1642,7 @@ S12 no fue transmitida a la locomotora de cabeza, la señal «Alto» era visible
 arranque, desde la locomotora de cabeza. El tren no estaba dotado de tripulación de tren;
 
 ## Página 49
+
 
 ### - el 16. 04. 2009, en la est. Brno-Horní Heršpice, por el maquinista del tren Os 4818 
 ### no se respetó la señal «Alto» de la señal de salida S3. La información sobre la señal 
@@ -1640,53 +1703,22 @@ instrucciones del explotador de la vía, no respetaron la señal «Alto» de la 
 (de salida, de vía) y continuaron indebidamente la marcha más allá de esta señal.
 Para prevenir la producción de las MU indicadas, el transportista ČD, a. s., adoptó 
 medidas consistentes en la suspensión de la aptitud profesional de los maquinistas 
-responsables de la producción de las MU objeto de estudio, incluida la sanción 
+responsables de la producción de las MU objeto de estudio, incluida la sanción
 
 ## Página 50
 
-económica, en la información de los empleados sobre las conclusiones de la investigación 
-de cada una de las MU en el marco de la formación obligatoria de los empleados y en la 
-inclusión de la cuestión de la expedición de trenes en el contenido de la formación 
-obligatoria de los maquinistas, véase «Solicitud de información sobre el suceso 
-extraordinario», n.º de expediente: 1-1222/2009/DI, de fecha 05. 06. 2009. No adoptó 
-### ninguna otra medida eficaz y sistémica para prevenir la producción de MU similares, 
-en las que se produce un error o fallo repetido del factor humano, el maquinista de un 
-tren con transporte de pasajeros, y que perfeccionaran el sistema de seguridad.
-El transportista adoptó medidas para prevenir las MU similares anteriormente 
-mencionadas, pero en el sentido del § 13 
-### apartado 1 del decreto n.º 376/2006 Sb., no adoptó la medida correspondiente, 
-porque la producción de MU similares, y con tendencia creciente, continuaba produciéndose.
-Para el tren Os 3116, el 16. 02. 2009, en el Informe Internacional de Frenado y Tren, 
-n.º de expediente: 1-386/2009/DI, de fecha 18. 02. 2009, se indicó un dato incorrecto 
-sobre la masa frenante de la HDV 754.040-4 de 43 t en lugar de 50 t, y por tanto un dato 
-incorrecto sobre la masa frenante del tren de 252 t en lugar de 259 t y un dato incorrecto 
-sobre el cálculo del porcentaje real de frenado de 103 en lugar de 106. Antes de la 
-salida del tren Os 3116, el maquinista se familiarizó con todos los datos indicados en el 
-Informe Internacional de Frenado y Tren. No detectó la indicación de la masa frenante 
-incorrecta de la HDV 754.040-4 de 43 t en lugar de 50 t, y por tanto la indicación 
-incorrecta de la masa frenante del tren y del porcentaje real de frenado incorrectamente 
-indicado.
-El transportista ČD, a. s., en relación con lo dispuesto en el art. 244 de la norma interna 
-de ČD V 15/I, en el sentido de lo dispuesto en el § 37 apartado 4 del decreto n.º 
-173/1995 Sb., por el que se aprueba el Reglamento de Circulación Ferroviaria, en la 
-redacción de las normas posteriores, y de lo dispuesto en el § 35 apartado 1 letra a) de la 
-ley n.º 266/1994 Sb., no garantizó la explotación del transporte ferroviario de acuerdo con 
-las reglas de explotación del transporte ferroviario, la licencia vigente y el contrato 
-celebrado con el explotador de la vía sobre la explotación del transporte ferroviario en la 
-vía, al no garantizar en el «Informe Internacional de Frenado y Tren» para el tren Os 3116 
-la indicación y el cómputo de la masa frenante correcta de 50 t de la HDV 754.040-4 en 
-la modificación de los valores para la determinación del porcentaje real de frenado del 
-tren. La indicación y el cómputo de la masa frenante incorrecta de la HDV tuvo como 
-### consecuencia el cálculo incorrecto de la masa frenante y el cálculo incorrecto del 
-porcentaje real de frenado del tren.
-A pesar de las circunstancias anteriormente constatadas, el porcentaje real de frenado 
-fue superior al porcentaje de frenado requerido indicado en el horario para el tramo 
-concreto y para el tren concreto. El tren se frenó de modo que su efecto de frenado 
-garantizó la detención segura del tren en la distancia de frenado.
-Dadas las causas y circunstancias de la producción de la MU, la constatación indicada no 
-puede valorarse en relación causal con la producción de la MU objeto de estudio.
+sanciones, en la información a los empleados sobre las conclusiones de la investigación de cada MU en el marco de la formación obligatoria de los empleados y en la inclusión de la materia de la conducción de trenes en el contenido de la formación obligatoria de los maquinistas, véase "Solicitud de información sobre el suceso excepcional", ref. 1-1222/2009/DI, de 05. 06. 2009. Ninguna otra
+### medida eficaz y sistémica para prevenir la aparición de MU similares, cuando se produce un error o fallo humano repetido del maquinista de un tren con transporte de pasajeros, y que perfeccionara el sistema de seguridad, fue adoptada por el transportista.
+El transportista adoptó medidas para prevenir las MU similares anteriores, pero en el sentido del § 13
+apartado 1 del decreto n.º 376/2006 Sb., no adoptó la medida correspondiente, porque la aparición
+### de MU similares, y con tendencia creciente, continuaba produciéndose.
+Para el tren Os 3116, del 16. 02. 2009, en el Informe Internacional de frenado y tren, ref. 1-386/2009/DI, de 18. 02. 2009, se indicó un dato incorrecto sobre la masa de frenado del HDV 754.040-4 de 43 t en lugar de 50 t, y por tanto un dato incorrecto sobre la masa de frenado del tren de 252 t en lugar de 259 t y un dato incorrecto sobre el cálculo del porcentaje real de frenado de 103 en lugar de 106. Antes de la salida del tren Os 3116, el maquinista se familiarizó con todos los datos indicados en el Informe Internacional de frenado y tren. No detectó la indicación de la masa de frenado incorrecta del HDV 754.040-4 de 43 t en lugar de 50 t, y por tanto la masa de frenado del tren indicada incorrectamente y el porcentaje real de frenado indicado incorrectamente.
+El transportista ČD, a. s., en relación con lo dispuesto en el art. 244 de la normativa interna ČD V 15/I, en el sentido de lo dispuesto en el § 37 apartado 4 del decreto n.º 173/1995 Sb., por el que se aprueba el reglamento de circulación ferroviaria, en la redacción de las normativas posteriores, y de lo dispuesto en el § 35 apartado 1 letra a) de la ley n.º 266/1994 Sb., no garantizó la explotación del transporte ferroviario de acuerdo con las reglas de explotación del transporte ferroviario, la licencia vigente y el contrato celebrado con el explotador de la infraestructura sobre la explotación del transporte ferroviario en la infraestructura, al no garantizar en el "Informe Internacional de frenado y tren" para el tren Os 3116 la indicación y el cómputo de la masa de frenado correcta de 50 t del HDV 754.040-4 al cambiar los valores para determinar el porcentaje real de frenado del tren. La indicación y el cómputo de la masa de frenado incorrecta del HDV tuvo como resultado el cálculo incorrecto de la masa de frenado y el cálculo incorrecto del porcentaje real de frenado del tren.
+A pesar de las circunstancias anteriormente constatadas, el porcentaje real de frenado fue superior al porcentaje de frenado requerido indicado en el horario para el tramo de vía concreto y para el tren concreto. El tren fue frenado de tal manera que su efecto de frenado garantizó la detención segura del tren en la distancia de frenado.
+Debido a las causas y circunstancias de la aparición de la MU, la constatación indicada no puede valorarse en relación causal con la aparición de la MU en cuestión.
 
 ## Página 51
+
 
 ### 4.3 Conclusiones
 4.3.1 Causas inmediatas del suceso ferroviario, incluidos los factores que contribuyeron al mismo y que estuvieron relacionados con la actuación de las personas implicadas o con el estado del material rodante o de las instalaciones técnicas
@@ -1700,8 +1732,8 @@ En el DI, en el periodo desde el 01. 01. 2005 hasta la aparición del SF en cues
 ### 4.3.3 Causas debidas al marco normativo y al uso del sistema de garantía de la seguridad
 Las causas debidas al marco normativo y al uso del sistema de garantía de la seguridad no fueron detectadas por el DI.
 
-
 ## Página 52
+
 
 ### 4.4 Hallazgos complementarios
 ### 4.4.1 Deficiencias y omisiones detectadas durante la investigación de las causas y circunstancias de la aparición del suceso ferroviario, que sin embargo no son significativas para las conclusiones sobre las causas
@@ -1718,6 +1750,7 @@ el director de la Sección de Material Rodante ordenó a los jefes superiores de
 el jefe superior de DKV Olomouc ordenó, en la formación periódica de las tripulaciones de locomotora, formar sobre el desarrollo, la aparición y la infracción de las disposiciones normativas durante la aparición del SF en cuestión.
 
 ## Página 53
+
 
 ## 6 RECOMENDACIONES DE SEGURIDAD
 La Inspección Ferroviaria, como órgano competente en la materia según lo dispuesto en el § 53b apartado 5 de la Ley núm. 266/1994 Sb., sobre la base de los resultados de la investigación de las causas y circunstancias del suceso ferroviario, a fin de reducir la probabilidad de que se produzcan sucesos ferroviarios similares, recomienda al operador ferroviario SŽDC, s. o.:
@@ -1753,20 +1786,19 @@ inspector superior
 De la Inspección Territorial de Ostrava
 De la Inspección Territorial de Ostrava
 
-
 ## Página 54
+
 
 ## 7 ANEXOS
 ### 7.1 Documentación fotográfica del lugar del suceso ferroviario
 Foto 1: Vista del lugar de la colisión del tren Os 3101 con el tren Os 3116
 
-
 ## Página 55
 
-Foto 2: Vista del panel indicador del dispositivo de enclavamiento de relés AŽD71 en la estación de Paskov
-Foto 3: Vista desde el compartimento de servicio hacia la cabina de mando del tren Os 3101 tras la producción del suceso ferroviario
-
+Foto 2: Vista de la placa indicadora del aparato de enclavamiento de relés AŽD71 en la est. de Paskov
+Foto 3: Vista desde el compartimento de servicio hacia la posición del conductor del tren Os 3101 tras la aparición de MU
 
 ## Página 56
+
 
 ### 7.2 Plano de la estación de Paskov

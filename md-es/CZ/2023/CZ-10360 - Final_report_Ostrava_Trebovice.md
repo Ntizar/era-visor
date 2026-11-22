@@ -10,13 +10,14 @@ chars: 149888
 ratio_longitud: 1.25
 tokens_in: 76030
 tokens_out: 54567
-verificacion: revisar
-notas_cifras: ["bloque 1: original bilingüe: se compara contra el idioma principal (EN)", "bloque 6: cifras largas: 1/66", "bloque 11: original bilingüe: se compara contra el idioma principal (CS)"]
-avisos: ["bloque 11: ratio 1.69"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 3: original bilingüe: se compara contra el idioma principal (CS)", "página 5: original bilingüe: se compara contra el idioma principal (CS)", "página 6: original bilingüe: se compara contra el idioma principal (CS)", "página 9: original bilingüe: se compara contra el idioma principal (CS)", "página 12: original bilingüe: se compara contra el idioma principal (CS)", "página 13: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 Oficina de Inspección de Seguridad Ferroviaria
 Informe final sobre los resultados de la investigación del suceso ferroviario
@@ -38,13 +39,13 @@ IČ: 75009561
 mail@dicr.cz
 tel.: +420 736 521 003
 
-
 ## Página 2
+
 
 El presente informe final es público y todos los hechos en él expuestos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ## 1 Resumen
 Fuente: Drážní inspekce
@@ -75,8 +76,8 @@ No fue detectado por la Drážní inspekce ningún factor contribuyente.
 No fue detectada por la Drážní inspekce ninguna causa sistémica.
 No fue emitida por la Drážní inspekce ninguna recomendación de seguridad.
 
-
 ## Página 4
+
 
 ## SUMMARY
 21st January 2023, 10:08 (9:08 GMT).
@@ -110,8 +111,8 @@ Systemic factor:
 none.
 Recommendation: not issued.
 
-
 ## Página 5
+
 
 # Índice
 1 Resumen........................................................................................................................3
@@ -153,8 +154,8 @@ SUMMARY.........................................................................
 4.2 Vehículos ferroviarios e instalaciones técnicas..........................................................................45
 4.2.1 Factores o consecuencias derivados del diseño de los vehículos ferroviarios, de la infraestructura ferroviaria o de las instalaciones técnicas....................................................................45
 
-
 ## Página 6
+
 
 4.2.2 Factores o consecuencias derivados de la instalación y de la puesta en servicio de los vehículos ferroviarios, de la infraestructura ferroviaria o de las instalaciones técnicas.....................................45
 4.2.3 Factores o consecuencias relacionados con los fabricantes de vehículos ferroviarios o con otros proveedores de productos ferroviarios...........................................................................46
@@ -186,6 +187,7 @@ y de los talleres de mantenimiento..............................................
 ANEXOS............................................................................................................................51
 
 ## Página 7
+
 
 ### Lista de abreviaturas y símbolos utilizados
 AH
@@ -276,8 +278,8 @@ SŽ
 Správa železnic, organización estatal (antes del 1. 1. 2020 Správa železniční
 dopravní cesty, organización estatal – SŽDC)
 
-
 ## Página 8
+
 
 TK
 carril de vía
@@ -300,8 +302,8 @@ paso a nivel ferroviario
 žst.
 estación ferroviaria
 
-
 ## Página 9
+
 
 ### Lista de abreviaturas de la legislación, normas y normativa interna utilizadas
 ley n.º 13/1997 Sb.
@@ -356,16 +358,16 @@ normativa interna SŽ S4/4
 normativa interna del explotador ferroviario SŽ, «SŽ S4/4
 Pasos a nivel ferroviarios», en la redacción vigente en el momento de la aparición del MU
 
-
 ## Página 10
+
 
 TP 65
 condiciones técnicas TP 65 «Principios para la señalización
 en vías públicas», en la redacción vigente en el momento de
 la aparición del MU
 
-
 ## Página 11
+
 
 ## 2 INVESTIGACIÓN Y SUS RELACIONES
 ### 2.1 Decisión sobre el inicio de la investigación
@@ -406,8 +408,8 @@ y el decreto n.º 376/2006 Sb.
 El nivel de colaboración con los representantes de las entidades participantes en el MU fue estándar;
 la información requerida para la investigación de las causas y circunstancias de la aparición del MU fue facilitada a DI.
 
-
 ## Página 12
+
 
 ### 2.7 Descripción de la investigación, métodos y técnicas utilizados para acreditar los hechos
 y los hallazgos indicados en el informe
@@ -460,8 +462,8 @@ Fecha:
 Hora:
 10:08 h.
 
-
 ## Página 13
+
 
 Lugar:
 ferrocarril, categoría nacional, Ostrava-Svinov – Opava
@@ -511,30 +513,35 @@ al recinto de la empresa Porfix, que en el sentido de circulación hacia el ŽP 
 
 Fig. n.º 1: Esquema del lugar de origen del MU
 Fuente: DI con utilización de base cartográfica https://mapy.cz/
-En el sentido de circulación del VU, el PFE P7724 estaba señalizado con señales de tráfico verticales de advertencia
-A 32a «Cruz de advertencia para paso a nivel de vía única» (en adelante, también cruz de advertencia)
-en un número de 2 unidades, colocadas en el mástil de semáforos a la derecha, junto al borde derecho de la
-vía terrestre. En el mástil de semáforos, bajo las cruces de advertencia, estaban colocadas dos cajas luminosas de semáforos (en adelante, solo semáforos) PZZ, complementadas con la placa «ATENCIÓN TREN», que estaban orientadas junto con las cruces de advertencia de manera que fueran visibles tanto para los conductores que se acercaban al PFE desde la derecha desde el edificio de la SŠSD, como para los conductores que se acercaban al PFE en dirección directa desde la Central Térmica de Třebovice.
-Desde el sentido de circulación de los vehículos que se acercaban al PFE desde el sentido contrario, es decir, desde el Parque de Třebovice, el PFE P7724 estaba señalizado con una señal de tráfico vertical de advertencia A 32a «Cruz de advertencia para paso a nivel de vía única», colocada junto al borde derecho de la vía terrestre. En el
-
+En el sentido de circulación de la OA, el P7724 de la FdV fue señalizado con señales de tráfico verticales de advertencia 
+A 32a «Cruz de advertencia para paso a nivel de vía única» (en adelante también cruz de advertencia) 
+en cantidad de 2 unidades, colocadas en el mástil de señales de advertencia a la derecha, junto al borde derecho de la vía 
+terrestre. En el mástil de señales de advertencia, bajo las cruces de advertencia, se encontraban colocadas dos cajas luminosas de señales de advertencia (en adelante solo señales de advertencia) PZZ, complementadas con la placa «ATENCIÓN TREN», que estaban orientadas junto con las cruces de advertencia de manera que fueran visibles tanto para los conductores que se acercan a la FdV desde la derecha procedentes del edificio SŠSD, como para los conductores que se acercan a la FdV en dirección directa desde la Central Térmica de Třebovice. 
+Desde el sentido de circulación de los vehículos que se acercan a la FdV desde el sentido opuesto, es decir, desde el Parque de Třebovice, el P7724 de la FdV fue señalizado con una señal de tráfico vertical de advertencia A 32a «Cruz de advertencia para paso a nivel de vía única», colocada junto al borde derecho de la vía terrestre. En
 
 ## Página 15
 
-mástil del semáforo, bajo la cruz de advertencia, estaba colocado un semáforo PZZ, complementado con la placa «ATENCIÓN TREN». El semáforo estaba orientado con el mismo ángulo que la cruz de advertencia.
-La inspección del lugar de origen del MU se realizó primero en el sentido de circulación del tren R 843, desde el lugar de la colisión en el PFE P7724 hasta el lugar de la posición final del frontal delantero del vehículo ferroviario de cabeza – VDF CZ-ČD 50 54 80-29 009-5 Bftn791 (en adelante también 80-29 009-5) en el km 263,580, es decir, el lugar de parada del frontal delantero del tren tras el MU.
-En la inspección del PFE P7724 se inspeccionó la calzada del paso a nivel y los tramos de vía terrestre adyacentes a dicho PFE, incl. la señalización de tráfico antes del PFE, la señalización y la protección del PFE y los elementos PZZ del PFE; se midieron las longitudes de visibilidad, otros parámetros determinantes del PFE y la distancia del lugar de inicio de la visión ininterrumpida al PFE desde el VD circulando en el sentido de circulación del tren R 843, es decir, en el sentido desde el edificio de la estación de Ostrava-Třebovice. Posteriormente se realizó la inspección del CD en el edificio del enclavamiento central de la estación de Ostrava-Svinov, de los elementos internos y externos del SZZ de la estación de Ostrava-Třebovice.
-De la inspección del lugar del MU se constató, entre otros:
-El tren R 843 impactó en la parte lateral derecha del VU de color negro, marca Seat Altea 4 Freetrack, como consecuencia de lo cual el VU fue lanzado (desplazado) fuera del espacio del PFE a un lugar junto al terraplén ferroviario a la derecha en el sentido de circulación del tren, véase Fig. n.º 1 de esta ZZ. El VU quedó fuertemente dañado como consecuencia de la colisión – especialmente su parte lateral derecha, en la que impactó con su frontal delantero el VDF del tren R 843, mientras que las puertas traseras derechas del VU quedaron tras la colisión encastradas en el amortiguador derecho del VDF. La esquina frontal derecha del VU se encontraba en la posición final tras la origen del MU a una distancia de aprox. 6,4 m del carril derecho y aprox. 17 m detrás del lugar de la colisión. El VU estaba girado a una posición casi paralela al eje de la vía y con su parte frontal orientada en el sentido contrario a la circulación del tren R 843.
-Las huellas visibles de la trayectoria de movimiento del VU en la nieve comenzaban a una distancia de aprox. 11 m detrás del lugar de la colisión en el sentido de circulación del tren y eran apreciables hasta el lugar de la posición final del VU tras la origen del MU. Los fragmentos del VU se encontraban en el sentido de circulación del tren, desde el lugar de la colisión hasta el lugar de parada del tren, si bien la principal dispersión de fragmentos se encontraba entre el lugar de la colisión y hasta la distancia de 115 m en el sentido de circulación del tren R 843. En el MU no se produjo la fuga de sustancias ecológicamente peligrosas del VU.
-En las cuatro ruedas del VU estaban montadas neumáticos de invierno de dimensiones 225/50 R17.
-La profundidad de la banda de rodadura en las principales ranuras de la banda de rodadura cumplía el límite establecido, es decir, era mayor que 4 mm. El VU tenía en la matrícula trasera pegada una etiqueta de control de la inspección técnica de idoneidad del vehículo terrestre con la indicación del mes y año de la próxima inspección técnica periódica del vehículo terrestre, de la que se deducía que el VU tenía una inspección técnica válida.
-De la inspección de la infraestructura se constató, entre otros:
-•
-El PFE P7724 en el km 263,911 era de vía única, con un ancho de 7,4 m y una longitud Dp de 7,84 m, con un ángulo de cruce de la vía con la vía terrestre de 56°. La mayor pendiente de la vía terrestre en el sentido de circulación del VU hacia el PFE tenía, según la medición de DI, un valor de 5°, es decir, 8,75 %, véase Fig. n.º 8 de esta ZZ. La longitud de visibilidad mínima prescrita para la parada Dz antes del PFE era, entre otros, atendiendo a la pendiente de las vías terrestres adyacentes al PFE, según la tabla A.3 del anexo A,
-ČSN 73 6380, 30 m (según la documentación del operador de la vía SŽ, 35 m). Las cruces de advertencia, respectivamente los semáforos colocados antes del PFE, eran visibles desde las vías de acceso al PFE a una distancia mayor que la longitud de visibilidad para la parada Dz = 30 m, y ello desde el sentido de circulación del VU por la calle 5. května desde el edificio de la SŠSD 70 m, cuando a la distancia de 52 m a 40 m la visión ininterrumpida se veía interrumpida por arbolado de crecimiento espontáneo
+del mástil del señalizador, bajo la cruz de advertencia, se había colocado un señalizador PZZ, complementado con la placa "ATENCIÓN TREN". El señalizador estaba orientado con el mismo ángulo que la cruz de advertencia.
 
+La inspección del lugar donde se produjo el MU se realizó primero en el sentido de circulación del tren R 843, desde el punto de colisión en el PdC P7724 hasta la posición final del frontal del vehículo ferroviario de cabeza – ŘDV CZ-ČD 50 54 80-29 009-5 Bftn791 (también en adelante 80-29 009-5) en el km 263,580, es decir, el lugar de parada del frontal del tren tras el MU.
+
+Durante la inspección del PdC P7724 se inspeccionó la calzada del paso a nivel y los tramos de vía pública adyacentes a dicho PdC, incl. la señalización vial antes del PdC, la señalización y la protección del PdC y los elementos PZZ del PdC; se midieron las longitudes de visibilidad, otros parámetros determinantes del PdC y la distancia del punto de inicio de la visibilidad ininterrumpida al PdC desde el DV circulando en el sentido de circulación del tren R 843, es decir, en el sentido desde el edificio de la estación de Ostrava-Třebovice. Posteriormente se realizó la inspección del DK en el edificio del enclavamiento central de la estación de Ostrava-Svinov, y de los elementos interiores y exteriores del SZZ de la estación de Ostrava-Třebovice.
+
+La inspección del lugar del MU arrojó, entre otros, los siguientes hallazgos:
+
+El tren R 843 impactó contra la parte lateral derecha de un OA de color negro, de marca Seat Altea 4 Freetrack, como consecuencia de lo cual el OA fue desplazado (empujado) fuera del área del PdC hasta un lugar junto al terraplén ferroviario a la derecha en el sentido de circulación del tren, véase la Fig. n.º 1 de esta ZZ. El OA quedó gravemente dañado como consecuencia de la colisión – especialmente su parte lateral derecha, contra la que impactó con su frontal el ŘDV del tren R 843, quedando las puertas traseras derechas del OA atrapadas tras la colisión en el parachoques derecho del ŘDV. La esquina delantera derecha del OA se encontraba en la posición final tras la producción del MU a una distancia de aprox. 6,4 m del carril derecho y aprox. 17 m detrás del punto de colisión. El OA estaba girado en una posición casi paralela al eje de la vía y con su parte delantera orientada en sentido contrario a la circulación del tren R 843.
+
+Las huellas visibles de la trayectoria de movimiento del OA en la nieve comenzaban a una distancia de aprox. 11 m detrás del punto de colisión en el sentido de circulación del tren y eran apreciables hasta el lugar de la posición final del OA tras la producción del MU. Los fragmentos del OA se encontraban en el sentido de circulación del tren, desde el punto de colisión hasta el lugar de parada del tren, encontrándose la principal dispersión de fragmentos entre el punto de colisión y hasta una distancia de 115 m en el sentido de circulación del tren R 843. Durante el MU no se produjo la fuga de sustancias ecológicamente peligrosas del OA.
+
+En las cuatro ruedas del OA estaban montadas neumáticos de invierno con la medida 225/50 R17. La profundidad del dibujo en los principales surcos del dibujo cumplía el límite establecido, es decir, era superior a 4 mm. El OA tenía en la matrícula trasera pegada la etiqueta de control de la inspección técnica de aptitud del vehículo de carretera, con indicación del mes y año de la próxima inspección técnica periódica del vehículo de carretera, de la que se desprendía que el OA tenía una inspección técnica vigente.
+
+La inspección de la infraestructura arrojó, entre otros, los siguientes hallazgos adicionales:
+
+•
+El PdC P7724 en el km 263,911 era de vía única, con una anchura de 7,4 m y una longitud Dp de 7,84 m, con un ángulo de cruce de la vía con la vía pública de 56°. La pendiente máxima de la vía pública en el sentido de circulación del OA hacia el PdC tenía, según las mediciones de DI, un valor de 5°, es decir, 8,75 %, véase la Fig. n.º 8 de esta ZZ. La longitud de visibilidad mínima prescrita para la parada Dz antes del PdC era, entre otros y atendiendo a la pendiente de las vías públicas adyacentes al PdC, según la tabla A.3 del anexo A de la ČSN 73 6380, de 30 m (según la documentación del operador de la vía SŽ, de 35 m). Las cruces de advertencia, respectivamente los señalizadores colocados antes del PdC, eran visibles desde las vías de acceso al PdC a una distancia superior a la longitud de visibilidad para la parada Dz = 30 m, y ello desde el sentido de circulación del OA por la calle 5. května desde el edificio de la SŠSD a 70 m, cuando a una distancia de 52 m a 40 m la visibilidad ininterrumpida se veía interrumpida por arbolado espontáneo
 
 ## Página 16
+
 
 y por la estructura celosía del poste de la línea eléctrica, véase Fig. n.º 2 y Fig. n.º 6 de esta ZZ;
 •
@@ -548,33 +555,53 @@ El superestructura de la vía de la cabeza de vías de Svinov estaba formada por
 •
 El PFE P7405 estaba protegido con PZS, sin barreras, categoría 3SBI, con señalización positiva con luz blanca, tipo PZZ-EA, con tres semáforos tipo AŽD 97-PV, con contadores de ejes tipo Frauscher AZF colocados en el km 262,705 y 265,000. En el sentido de circulación del VU estaban colocados antes del PFE en un mástil común a la derecha de la vía terrestre 2 semáforos, que no estaban señalizados con la letra con número de orden según el Anexo D, art. D.1.3 ČSN 34 2650 ed. 2 (Nota DI: los semáforos deberían haber estado señalizados «A1» y «A2»), véase el punto 4.1.1 de esta ZZ. En el sentido contrario a la circulación del VU estaba antes del PFE
 
-
 ## Página 17
 
-colocado un semáforo, al que correspondía la señalización con la letra «B» en la base del mástil.
-Las caras posteriores de todos los semáforos estaban dotadas de una película autoadhesiva con la señalización del PFE con código de identificación alfanumérico «P7724». Todos los semáforos estaban complementados con la placa «ATENCIÓN TREN»;
+colocado un señalizador, que correspondía a la designación con la letra „B“ en la base
+del mástil.
+Las caras traseras de todos los señalizadores estaban provistas de una película adhesiva con la designación
+ŽP con un código de identificación alfanumérico „P7724“. Todos los señalizadores estaban
+completados con la placa „ATENCIÓN TREN“;
 •
-Con la medición de la tensión en el cuadro de bornes en la base del mástil para el semáforo (PZZ con supervisión óptica del encendido de las luces del semáforo) se midieron, en presencia del inspector de DI, los siguientes valores de tensión eléctrica para las bombillas de doble filamento de las luces rojas de los semáforos:
-◦«A1»: 11,52 V y 11,23 V,
-◦«A2»: 11,37 V y 11,12 V,
-◦«B»:
+con la medición de la tensión en el bornier en la base del mástil para el señalizador (PZZ con supervisión óptica del encendido de las luces del señalizador), en presencia del inspector DI se midieron los
+siguientes valores de tensión eléctrica para las bombillas de doble filamento de las luces rojas
+de los señalizadores:
+◦„A1“: 11,52 V y 11,23 V,
+◦„A2“: 11,37 V y 11,12 V,
+◦„B“:
 11,79 V y 10,84 V.
-Nota DI: el margen permitido de valores de tensión eléctrica en la bombilla de las luces del semáforo de 10 V a 12 V, establecido en el art. 151 de la norma interna de ČD T 126, no fue superado;
+Nota DI: el margen permitido de valores de tensión eléctrica en la bombilla de las luces
+del señalizador de 10 V a 12 V, establecido en el art. 151 de la norma interna de ČD T 126, no fue
+superado;
 •
-Las cruces de advertencia con semáforos situados a la izquierda en el sentido de circulación del tren R 843, es decir, a la derecha en el sentido de circulación del VU hacia el PFE P7724, estaban antes del PFE colocadas en un mástil común a una distancia de 5,95 m del eje de la vía de la cabeza de vías de Svinov;
+las cruces de advertencia con señalizadores situados a la izquierda en el sentido de circulación del tren R 843, es decir, a la derecha en el sentido de circulación de OA hacia ŽP P7724, fueron situados antes de ŽP en un mástil común a una
+distancia de 5,95 m del eje de la vía de la cabecera de Svinov;
 •
-La cruz de advertencia con semáforo situado a la derecha en el sentido de circulación del tren R 843, es decir, a la derecha en el sentido de circulación de los vehículos que se acercaban al PFE desde el sentido del Parque de Třebovice, estaba antes del PFE colocada en el mástil del semáforo a una distancia de 5,65 m del eje de la vía de la cabeza de vías de Svinov;
+la cruz de advertencia con el señalizador situado a la derecha en el sentido de circulación del tren R 843,
+es decir, a la derecha en el sentido de circulación de los vehículos que llegan a ŽP desde la dirección del Parque de Třebovice, fue situada antes de ŽP en el mástil del señalizador a una distancia de 5,65 m del eje de la vía de la cabecera de Svinov;
 •
-La longitud de visibilidad para el conductor del vehículo terrestre más lento Lp para el caso de avería o desconexión del PZZ, y ello:
-◦En el sentido de circulación del VU y en el sentido de circulación del VD desde la estación de Ostrava-Třebovice hasta la estación de Ostrava-Svinov se midió a una distancia de 4 m del eje de la vía de la cabeza de vías de Svinov Lp = 223 m,
-◦En el sentido de circulación del VU y en el sentido de circulación del VD desde la estación de Ostrava-Svinov hasta la estación de Ostrava-Třebovice se midió a una distancia de 4 m del eje de la vía de la cabeza de vías de Svinov Lp = 315 m,
-◦En el sentido contrario a la circulación del VU, es decir, en el sentido desde el Parque de Třebovice, y en el sentido de circulación del VD desde la estación de Ostrava-Třebovice hasta la estación de Ostrava-Svinov se midió a una distancia de 4 m del eje de la vía de la cabeza de vías de Svinov Lp = 546 m,
-◦En el sentido contrario a la circulación del VU, es decir, en el sentido desde el Parque de Třebovice, y en el sentido de circulación del VD desde la estación de Ostrava-Svinov hasta la estación de Ostrava-Třebovice se midió a una distancia de 4 m del eje de la vía de la cabeza de vías de Svinov Lp = 326 m;
+la longitud de visibilidad para el conductor del vehículo rodado más lento Lp en caso de avería o desconexión de PZZ, a saber:
+◦en el sentido de circulación de OA y en el sentido de circulación de DV de la est. Ostrava-Třebovice a
+la est. Ostrava-Svinov, a una distancia de 4 m del eje de la vía de la cabecera de Svinov, se midió
+Lp = 223 m,
+◦en el sentido de circulación de OA y en el sentido de circulación de DV de la est. Ostrava-Svinov a la est. Ostrava-
+Třebovice, a una distancia de 4 m del eje de la vía de la cabecera de Svinov, se midió
+Lp = 315 m,
+◦en contra del sentido de circulación de OA, es decir, en la dirección desde el Parque de Třebovice, y en el sentido de circulación de DV
+de la est. Ostrava-Třebovice a la est. Ostrava-Svinov, a una distancia de 4 m del
+eje de la vía de la cabecera de Svinov, se midió Lp = 546 m,
+◦en contra del sentido de circulación de OA, es decir, en la dirección desde el Parque de Třebovice, y en el sentido de circulación de DV
+de la est. Ostrava-Svinov a la est. Ostrava-Třebovice, a una distancia de 4 m del
+eje de la vía de la cabecera de Svinov, se midió Lp = 326 m;
 •
-Las señales de tráfico verticales que advertían a los usuarios de la vía terrestre que circulaban hacia el PFE P7724 por la calle 5. května en el sentido desde el edificio de la SŠSD, es decir, en el sentido de circulación del VU en cuestión, de que se acercaban al PFE, estaban situadas en el lado derecho de dicha vía terrestre y se trataba de señales de tráfico de advertencia:
-◦A 31a «Señal indicadora (240 m)», complementada con una flecha direccional con la representación de una flecha a la derecha. Sobre esta señal de tráfico no estaba colocada la señal de tráfico de advertencia A 30 «Paso a nivel sin barreras», como exige el decreto n.º 294/2015 Sb y el art. 9.2.1.36 de las condiciones técnicas TP 65, véase el punto 4.1.7 de esta ZZ. La señal de tráfico estaba colocada en un poste a una distancia de 240 m antes del PFE.
+las señales verticales de tráfico, que advierten a los usuarios de la vía pública que circulan hacia ŽP
+P7724 por la calle 5. května en la dirección desde el edificio SŠSD, es decir, en el sentido de circulación del OA en cuestión, que se aproximan a ŽP, estaban situadas en el lado derecho de esta vía pública
+y se trataba de señales de tráfico de advertencia:
+◦A 31a „Señal indicadora (240 m)“, completada con una flecha direccional con la representación de una
+flecha a la derecha. Sobre esta señal de tráfico no estaba colocada la señal de tráfico de advertencia A 30 „Paso a nivel sin barreras“, como exige el decreto n.º 294/2015 Sb y el art. 9.2.1.36 de las condiciones técnicas TP 65, ver punto 4.1.7 de esta ZZ. La señal de tráfico estaba colocada en un poste a una distancia de 240 m antes de ŽP.
 
 ## Página 18
+
 
 Nota D
  I:   la flecha direccional con la representación de una flecha a la derecha se utilizó 
@@ -638,8 +665,8 @@ en la est. Ostrava-Třebovice desde la señal de entrada S, a través del desví
 en dirección recta contra la punta hacia la vía de clasificación n.º 1, pasando junto 
 a la señal de salida S1, a través del desvío n.º 1
 
-
 ## Página 19
+
 
 en dirección recta con la punta, a través del PFE P7724 hacia la vía principal Ostrava-
 Svinov – Ostrava-Třebovice;
@@ -700,8 +727,8 @@ en el lado de los frontales interiores de los DV;
 el tren en su posición final tras el SU se encontraba con el frontal delantero del 
 ŘDV 80-29 009-5 a una distancia de 331 m detrás del lugar del choque;
 
-
 ## Página 20
+
 
 •
 como consecuencia del SU no se produjo el descarrilamiento de los DV, ni la fuga 
@@ -758,8 +785,8 @@ actual y correcta del ŘDV es 50 54 80-29 009-5. El libro fue instalado en el Ř
 7. 12. 2022 y contenía, entre otros, información sobre la recepción del DV por el 
 maquinista
 
-
 ## Página 21
+
 
 del tren R 843 el 21. 1. 2023, y sobre la realización de la prueba de freno de la 
 locomotora en Olomouc finalizada a las 4:15 h del mismo día,
@@ -826,6 +853,7 @@ los equipos de la vía
 
 ## Página 22
 
+
 •
 medio ambiente
 0 CZK.
@@ -868,8 +896,8 @@ El propietario de la vía ferroviaria de categoría nacional, Ostrava-Svinov –
 El transportista del tren R 843 era ČD, con domicilio en Nábřeží L. Svobody 1222, Praha 1, CP 110 15.
 El transporte ferroviario se explotaba en virtud del contrato celebrado entre el explotador de la vía SŽ y el transportista ČD el 20. 1. 2020, con efectos desde el 23. 1. 2020.
 
-
 ## Página 23
+
 
 ### 3.1.7 Descripción de los vehículos ferroviarios y sus composiciones, incluidos los números de registro
 | Tren: | R843 | Composición del tren (en el sentido de la marcha): |  | Régimen de frenado: |
@@ -895,8 +923,8 @@ el estado real del tren R 843 comprobado en el lugar del MU correspondía a la d
 El VdR de la serie Bftn791, anteriormente también denominado, entre otros, VdR de la serie 943, es un coche de mando independiente para tracción independiente y está destinado a composiciones reversibles de trenes rápidos, semirrápidos y de pasajeros. La caja autoportante del coche es de ligera construcción soldada de acero, articulada mediante ejes giratorios con dos bogies del tipo 95 V con brazos oscilantes. Los bogies tienen suspensión primaria con muelles de acero y suspensión secundaria con muelles neumáticos de membrana. Los bogies están equipados con freno de disco con dos discos por cada eje y dispositivo antideslizante. El VdR está equipado con freno automático de aire DAKO-GP-A con sistema de frenado automático según la ocupación del coche, en el que el efecto de frenado se realiza mediante unidades de freno de disco. La caja del VdR se divide en planta en tres compartimentos para pasajeros, dos espacios de acceso de diferente tamaño entre ellos y la cabina del maquinista, situada en el frontal delantero del VdR. En el lado derecho de la cabina se encuentra la posición del maquinista, que corresponde a la posición del VdM de la serie 843 y que, junto con el sistema de control de microprocesador, permite la conducción de los vehículos motorizados de las series 843, respectivamente 842. Desde la posición del maquinista se puede controlar el freno automático DAKO-GP-A con la palanca principal de marcha, que mediante impulsos eléctricos controla el funcionamiento del freno dinámico del VdM y las válvulas electroneumáticas del freno controlado eléctricamente DAKO-BSE en el VdR. El mando del freno auxiliar, situado también en el panel de control de la posición del maquinista, controla eléctricamente el freno auxiliar (modo de emergencia del freno) del VdR. La construcción de las cabinas y la disposición de los elementos de control y de indicación permiten al maquinista conducir el VdM, observar sin obstrucciones la vía y las señales, tanto sentado como de pie. El frontal trasero del VdR (en el sentido de la marcha del tren) es transitable, los puentes de paso abatibles están cubiertos con tapones de goma.
 El VdP de la serie Btn753, anteriormente también denominado, entre otros, coche de remolque de la serie 043, es un DV de construcción similar al VdR de la serie Bftn791, cuya caja se divide en planta en tres compartimentos para pasajeros de igual tamaño y dos espacios de acceso de diferente tamaño entre ellos, siendo
 
-
 ## Página 24
+
 
 ambos frontales del coche transitables y, al igual que en el frontal trasero del VdR Bftn791, los puentes de paso abatibles están cubiertos con tapones de goma. Los bogies del tipo 95 V están equipados con freno de disco con dos discos por cada eje y dispositivo antideslizante. El VdP está equipado con freno automático de aire DAKO-GP-A con sistema de frenado automático según la ocupación del coche, en el que el efecto de frenado se realiza mediante unidades de freno de disco.
 El VdM de la serie 843 es un vehículo motorizado destinado a trenes rápidos ligeros, semirrápidos y de pasajeros compuestos por dicho vehículo motorizado y los DV enganchados a él (mutuamente conectados), entre ellos el VdP de la serie Btn753 y el VdR de la serie Bftn791. Se trata de un vehículo motorizado de cuatro ejes con dos conjuntos de tracción idénticos situados bajo el suelo del coche y transmisión eléctrica de potencia, cuya estructura principal es de ligera construcción autoportante. El VdM se divide en planta en dos compartimentos para pasajeros, dos espacios de acceso, un compartimento de servicio y dos cabinas transitables del maquinista en los frontales del coche, con la posición del maquinista situada en el lado derecho de la cabina. Los bogies de los tipos 8-832.0 y 8-832.1 son de construcción sin caja de batea con suspensión primaria con muelles de acero y suspensión secundaria con muelles neumáticos de membrana. Todos los ejes motrices están accionados por motores eléctricos de tracción, en las ruedas se encuentran siempre dos discos de freno de disco. El VdM está equipado, entre otros, con freno eléctrodinámico reostático, freno automático de aire DAKO-P, freno auxiliar, freno complementario (freno neumático controlado eléctricamente), que complementa el efecto de frenado del freno eléctrodinámico (en caso de fallo del freno eléctrodinámico sustituye plenamente su efecto, respectivamente sustituye el efecto del freno de estacionamiento cuando este es insuficiente o inexistente), freno de emergencia cuya trampilla es accionada por varillas del freno de emergencia, y freno de estacionamiento, así como dispositivo antideslizante.
@@ -912,8 +940,8 @@ a las 10:07:01 h
 el frontal delantero del tren cruzó el nivel de la señal de entrada S de la estación Ostrava-Třebovice. El tren, que circulaba a una velocidad de 58 km·h-1, se encontraba a 1 055 m de la señal de salida S1 y a 1 359 m del PZ P7724.
 El tren continuó su marcha a velocidad constante durante una distancia de 83 m, tras lo cual se produjo un aumento de velocidad mediante la aplicación de tracción del VdM 843.020-9 situado al final del tren;
 
-
 ## Página 25
+
 
 •
 a las 10:07:48 h
@@ -951,6 +979,7 @@ Según los registros del Registro de Averías del dispositivo de comunicación y
 
 ## Página 26
 
+
 est. Ostrava-Svinov, mostraba el SZZ en el momento de la producción del MU un funcionamiento normal, es decir, un estado sin averías.
 El ŽP P7724 en la est. Ostrava-Třebovice se estableció en enero de 1941, se dotó de un PZZ tipo PZZ-EA en el año 2005, cuando fue reconstruido en el marco de la obra "Electrificación del tramo de vía incl. PEÚ est. Ostrava Svinov – est. Opava východ". El ŽP P7724 en el momento de la producción del MU estaba protegido por un PZS electrónico, categoría PZS 3SBI según la ČSN 34 2650 ed. 2, tipo PZZ-EA, sin barreras de vía, con señal positiva, para el cual el DÚ emitió el día 24. 10. 2005 el Certificado de idoneidad de UTZ eléctrico, con vigencia por tiempo indefinido.
 El PZZ del ŽP P7724, con el funcionamiento correcto del SZZ, en función de la posición de los semáforos principales (de entrada y de salida), del semáforo de maniobras Se1, est. Ostrava-Třebovice, en la señal que permite la circulación de trenes, incl. la señal que permite las maniobras, se controlaba automáticamente con la circulación del DV mediante los contadores de ejes o, en su caso, también por la operación del SZZ. Los estados del PZZ (estado de alerta, estado de avería, estado sin anulación, estado de anulación, estado de advertencia) se mostraban en los monitores JOP del jefe de estación-despachante de Opava en la est. Ostrava-Svinov, y en los monitores JOP del puesto de respaldo en el enclavamiento central de la est. Opava východ.
@@ -961,8 +990,8 @@ Del análisis de los datos registrados el día 21. 1. 2023 por el ordenador tecn
 | • a las 10:01:23 h | mediante la operación normal del SZZ de la est. Ostrava-Třebovice se introdujeron las operaciones de la operación de tráfico (en adelante, operaciones) para la circulación del tren R 848 desde el TK Ostrava-Svinov Ostrava-Třebovice desde el semáforo de entrada L – est. Ostrava-Třebovice a través de los desvíos n.º 1 2 y 3 hasta la SK n.º 3; . , . , , . |
 | • a las 10:01:28 h | tras la comprobación de la ruta de tren realizada por el funcionamiento automático del SZZ, se estableció la ruta de tren desde el semáforo de entrada L est. Ostrava-Třebovice hasta la SK n.º 3 . . . O 1 s después (a las 10:01:29 h) el semáforo de entrada L comenzó a indicar la señal Velocidad 40 km/h y Advertencia"; " |
 
-
 ## Página 27
+
 
 •
 a las 10:01:32 h
@@ -1004,8 +1033,8 @@ mediante el funcionamiento del TZZ se cambió la autorización de tramo en el tr
 a las 10:06:19 h
 el tren R 848 liberó la cabeza de estación de Svinov de la est. Ostrava-Třebovice y entró íntegramente en la SK n.º 3;
 
-
 ## Página 28
+
 
 •
 a las 10:06:25 h
@@ -1043,8 +1072,8 @@ el tren R 843 entró en la est. Ostrava-Třebovice, es decir, superó el nivel d
 a las 10:07:06 h
 el tren R 843 liberó el TK Ostrava-Třebovice – Děhylov y entró íntegramente en la est. Ostrava-Třebovice en la vía de la cabeza de estación de Děhylov;
 
-
 ## Página 29
+
 
 •
 a las 10:07:24 h
@@ -1082,6 +1111,7 @@ El tiempo de aproximación del ŽP P7724, que según las disposiciones del punto
 
 ## Página 30
 
+
 Del análisis de los archivos de datos descargados se desprende que la APF ŽP P7724, que fue cerrada por la explotación SZZ, advirtió a los usuarios de la vía pública (vías públicas) con luz roja intermitente y señal sonora intermitente, hasta la llegada del frente del tren R 843 al ŽP, durante 103 s, es decir, durante un tiempo que fue conforme a la ČSN 34 2650 ed. 2.
 De lo anterior se desprende que el conductor del VU fue advertido a tiempo por la acción de la APF ŽP P7724, de acuerdo con la normativa legal aplicable, de que se aproximaba un tren a dicho ŽP.
 ### 3.1.9 Cualquier otra información relevante para los fines de la descripción del suceso y de la información básica
@@ -1109,8 +1139,8 @@ maquinista del tren R 843
   ◦con la operación de la palanca de vía inmediatamente activó el frenado de acción rápida,
   ◦a la pregunta relativa a la secuencia de circunstancias desde el momento en que vio detenerse al VU en el ŽP, entre otras, respondió que: "el vehículo permaneció tras entrar en el paso a nivel con su mitad frontal en este lugar y comenzó a moverse de forma espasmódica, tuve la sensación de que quería marcha atrás, esto no le resultó, no soy capaz de pronunciarme sobre por qué no le resultó y luego
 
-
 ## Página 31
+
 
 vi que sus ruedas delanteras estaban girando y después observé que comenzó a arrancar hacia adelante desde el paso a nivel y ya no le dio tiempo a marcharse,",
   ◦el VU no logró abandonar el ŽP a tiempo y siguió la colisión, cuando el frente del ŘDV chocó con la parte trasera derecha del VU,
@@ -1138,29 +1168,59 @@ Nota DI: se trataba del tren R 848,
   ◦se abrochó con el cinturón de seguridad y también le dijo a la otra persona menor de edad que se abrochara,
   ◦posteriormente quería arrancar desde la puerta en dirección al ŽP P7724, pero debido a la ubicación de la puerta – según sus palabras: "en una pequeña cuesta" – no consiguió arrancar con el VU sobre una superficie de calzada sin tratar y sin quitar la nieve, durante un momento le patinaban las ruedas.
 
-
 ## Página 32
 
-Nota DI: al salir de la puerta del recinto SŠSD, el VU aún no se encontraba en la vía pública de clase III n.º 17c que transcurre paralela a la vía hacia la intersección de tres ramas situada antes del ŽP P7724, sino en la vía de acceso al edificio SŠSD,
-  ◦tardó unos 5 minutos en conseguir arrancar con el VU.
-Nota DI: se trata de un dato subjetivo que no se corresponde con la realidad, porque entre la entrada del tren R 848 en la est. Ostrava-Třebovice (a las 10:05:36 h) y la producción del MU (a las 10:08:16 h) transcurrió un tiempo inferior a 3 min, ver puntos 3.1.7 y 3.1.8 de esta ZZ,
-  ◦el VU estaba equipado con tracción a las cuatro ruedas, sin embargo no se trataba de una tracción permanente a las cuatro ruedas, las ruedas delanteras eran las propulsadas principalmente, cuándo se acopla la tracción de las ruedas traseras, no lo sabe,
-  ◦en las cuatro ruedas estaban montadas neumáticos de invierno, en el eje delantero se montaron como nuevos en noviembre de 2022, los neumáticos de invierno del eje trasero eran de una fecha más antigua, sin embargo no estaban desgastados por debajo del límite establecido,
-  ◦tras conseguir arrancar, circulaba a una velocidad de unos 30 km·h-1, no recuerda la marcha concreta, el vehículo estaba equipado con una caja de cambios de seis velocidades con cambio manual de las marchas,
-  ◦circulaba junto a la vía férrea, que tenía a su derecha, en dirección al ŽP,
-  ◦la vía pública que va desde el recinto SŠSD en dirección al ŽP ya estaba despejada de nieve, pero no había sido tratada con material antideslizante,
-  ◦en la intersección antes del ŽP, a la que llegaba por la derecha, frenó un poco, aunque tenía prioridad de paso, porque allí los conductores que llegan desde la Central Térmica de Třebovice no ceden la prioridad de paso,
-  ◦cuando vio que no llegaba ningún vehículo desde la Central Térmica de Třebovice, aumentó la velocidad y giró a la derecha hacia el ŽP,
-  ◦en el ŽP (nota DI: en la calzada del paso a nivel del ŽP) había nieve derritida, barro,
-  ◦entró en el ŽP con las ruedas delanteras del VU, frenó un poco y como circulaba despacio, el VU se detuvo en el ŽP,
-  ◦como siempre miró a la vía, primero miró a la derecha y en ese instante vio que desde la dirección de Opava se aproximaba un tren – según su estimación aproximada el tren se encontraba "a una distancia de más o menos cerca de la casa del Molino de Třebovice", sin que diera la señal sonora "Cuidado".
-Nota DI: de los datos registrados por el RR instalado en el ŘDV del tren R 843 se desprende, entre otros, que la señal sonora "Cuidado" se dio desde una distancia de 122 m antes del ŽP (antes del nivel del edificio Molino de Třebovice), de forma ininterrumpida durante 3 s, finalizando a una distancia de 63 m antes del ŽP (aproximadamente en la parte central del edificio Molino de Třebovice),
-  ◦después, según sus propias palabras, "se despistó", pero no recuerda exactamente qué hacía. Cree que quería mover el VU hacia adelante, luego hacia atrás y después ya no sabe,
-  ◦no recuerda el impacto del tren en el VU, solo recuerda que el VU aparentemente giraba, porque aunque estaba sujeto con el cinturón de seguridad en el VU, sentía un movimiento no coordinado tanto de sus manos como de todo su cuerpo,
-  ◦después recuerda que cuando el VU se encontraba fuera de la vía y dejó de moverse, salió inmediatamente del VU – las puertas delanteras izquierdas del VU no se abrían con normalidad, así que las abrió a la fuerza desde dentro, salió corriendo del VU y comenzó a buscar a las personas menores de edad (acompañantes),
-
+Nota DI: al salir del recinto de la SŠSD, el OA aún no se encontraba en la vía de comunicación de clase III n.º 17c que discurre paralelamente a la vía férrea hasta la intersección de tres ramas situada delante del PPF P7724, sino en la vía de acceso al edificio de la SŠSD,
+◦le costó unos 5 minutos conseguir poner en marcha el OA.
+Nota DI: se trata de un dato subjetivo que no se corresponde con la realidad, 
+porque entre la entrada del tren R 848 en la est. Ostrava-Třebovice (a las 10:05:36 h) 
+y la aparición del MU (a las 10:08:16 h) transcurrió un tiempo inferior a 3 min, 
+véanse los puntos 3.1.7 
+y 3.1.8 de la presente ZZ,
+◦el OA estaba equipado con tracción a las cuatro ruedas, sin embargo no se trataba 
+de una tracción permanente a las cuatro ruedas, las ruedas delanteras eran las 
+propulsadas principalmente, desconoce cuándo se acopla la tracción de las ruedas traseras,
+◦en las cuatro ruedas se montaron neumáticos de invierno, en el eje delantero 
+se montaron como nuevos en noviembre de 2022, los neumáticos de invierno 
+del eje trasero eran de fecha más antigua, sin embargo no estaban desgastados 
+por debajo del límite establecido,
+◦una vez conseguido ponerse en marcha, circuló a una velocidad de unos 30 km·h-1, 
+no recuerda la marcha concreta, el vehículo estaba equipado con una caja de 
+cambios de seis velocidades con cambio manual de marchas,
+◦circulaba junto a la vía férrea, que tenía a su derecha, en dirección al PPF,
+◦la vía terrestre que va desde el recinto de la SŠSD hacia el PPF ya estaba 
+despejada de nieve, pero no se había tratado con material de esparcido,
+◦en la intersección delante del PPF, a la que llegaba por la derecha, frenó 
+ligeramente, pese a tener prioridad de paso, porque allí los conductores 
+que circulan desde la Central Třebovice no ceden el paso,
+◦cuando vio que no se acercaba ningún vehículo desde la Central Třebovice, 
+aumentó la velocidad y giró a la derecha hacia el PPF,
+◦en el PPF (nota DI: en la calzada de paso del PPF) había nieve derretida, barro,
+◦entró en el PPF con las ruedas delanteras del OA, frenó ligeramente y, 
+como circulaba despacio, el OA se detuvo en el PPF,
+◦como siempre miró a la vía, primero miró a la derecha y en ese momento vio 
+que se acercaba un tren en dirección desde Opava hacia el PPF – según su 
+estimación aproximada el tren se encontraba «a una distancia de más o menos 
+por la zona de la casa del Molino de Třebovice», sin que emitiera la señal 
+sonora «Pozor».
+Nota DI: de los datos registrados por el RR instalado en el ŘDV del tren R 843 
+se desprende, entre otros, que la señal sonora «Pozor» se emitía desde una 
+distancia de 122 m antes del PPF (delante del nivel del edificio Molino de Třebovice), 
+de forma continua durante 3 s, finalizando a una distancia de 63 m antes del PPF 
+(aproximadamente en la parte central del edificio Molino de Třebovice),
+◦después, según sus propias palabras, «se despistó», pero no recuerda qué 
+hacía exactamente. Cree que quería mover el OA hacia delante, luego hacia atrás 
+y después ya no sabe,
+◦no recuerda el impacto del tren contra el OA, solo recuerda que el OA 
+probablemente giraba, porque aunque estaba sujeto con el cinturón de seguridad 
+en el OA, sentía un movimiento no coordinado tanto de sus manos como de todo su cuerpo,
+◦después recuerda que, cuando el OA se encontraba fuera de la vía y dejó de 
+moverse, salió inmediatamente del OA – las puertas delanteras izquierdas del OA 
+no se abrían con normalidad, así que las abrió a la fuerza desde dentro, salió 
+del OA y empezó a buscar a las personas menores de edad (compañeros de viaje),
 
 ## Página 33
+
 
   ◦no sabe ni se percató de si miraba el avisador cuando se aproximaba al ŽP, ni tampoco se percató de haber oído la advertencia sonora de la APF.
 Nota DI: de los datos registrados por la SZZ de la est. Ostrava-Třebovice y por la APF ŽP P7724 se desprende, entre otros, que la APF comenzó a advertir a los usuarios de la vía pública con luz roja intermitente y señal sonora intermitente 103 s antes de la llegada del frente del tren R 843 al ŽP,
@@ -1189,6 +1249,7 @@ Nota DI: en realidad se trataba de un período de 3 s, ver punto 3.1.7 de esta Z
 
 ## Página 34
 
+
 ◦el propio choque del tren contra el OA lo percibió, según sus propias palabras, como un gran golpe y un salto del tren hacia arriba, cuando «la sobrina se tiró al asiento pensando que el tren había chocado contra algún árbol caído»,
 ◦el maquinista, tras detener el tren, salió de la cabina y dijo «lo atropellé o lo atropellé»,
 ◦considera que el tren empezó a frenar solo después de la colisión.
@@ -1211,8 +1272,8 @@ testigo 3, conductor de la composición de vehículo motor con remolque
 ◦el estado de la superficie de la calzada era muy deficiente; en el momento de su llegada y en el momento de la producción de la MU la calzada no estaba despejada ni esparcida.
 Nota DI: del registro de la cámara de a bordo facilitado por el conductor de la composición de vehículo motor con remolque se desprende, entre otros extremos, que la vía pública —la calle 5. května que atraviesa el ŽP P7724— estaba despejada con huellas evidentes de la circulación de vehículos de dos ruedas, véase también más abajo y el punto 4.1.7 de esta ZZ;
 
-
 ## Página 35
+
 
 •
 testigo 4, guardia de la portería de la empresa Porfix
@@ -1241,8 +1302,8 @@ Nota DI: se trataba del testigo 4 y del testigo 3,
 
 El espacio situado delante de la composición de vehículo motor con remolque conducida por el testigo 3 estaba monitorizado por una cámara de a bordo con registro, montada en el parabrisas del vehículo motor. Del análisis del registro, una vez tenida en cuenta la corrección de fecha y hora entre la fecha y hora reales y la fecha y hora registradas por la cámara de a bordo, se desprende, entre otros extremos:
 
-
 ## Página 36
+
 
 •
 a las 10:05:31 h
@@ -1264,8 +1325,8 @@ Porfix
 Fig. n.º 3: Registro de la cámara de a bordo a las 10:05:44 h (2 min 32 s antes de la producción de la MU), cuando el final del tren R 848 procedente de la est. Ostrava-Svinov se encontraba detrás del ŽP P7724 y la barrera estaba emitiendo la señal. La cabina de la composición se encontraba en la calle 5 května a una distancia de unos 39 m del ŽP. En la imagen se aprecia el despeje (palado) de la vía pública.
 Fuente: Registro de la cámara de a bordo del testigo 3
 
-
 ## Página 37
+
 
 ### 3.2 Descripción fáctica del suceso
 ### 3.2.1 Secuencia de hechos que condujeron a la excepción
@@ -1280,55 +1341,55 @@ De los datos registrados por el RR instalado en el ŘDV del tren R 843 se despre
 
 ## Página 38
 
-El morro delantero del tren (ŘDV) en la posición final tras el MU se encontraba a 331 m del punto de colisión, es decir, en el pk 263,580. La esquina delantera derecha de la OA en la posición final tras la aparición del MU se encontraba a una distancia de aprox. 6,4 m del carril derecho y aprox. 17 m detrás del punto de colisión.
-### 3.2.2 Secuencia de hechos desde la aparición del suceso extraordinario hasta la finalización de las acciones de los servicios de rescate
+El morro delantero del tren (ŘDV) se encontraba en su posición final tras la MU a 331 m del lugar del encuentro, es decir, en el pk 263,580. La esquina delantera derecha de la OA se encontraba en su posición final tras la producción de la MU a una distancia de aprox. 6,4 m del carril derecho y aprox. 17 m por detrás del lugar del encuentro.
+### 3.2.2 Secuencia de hechos desde la producción del suceso ferroviario hasta la finalización de las acciones de los servicios de rescate
 •
-10:08 h aparición del MU;
-el maquinista del tren R 843 comunicó la aparición del MU al jefe de estación-despachador de Opava;
+10:08 h producción de la MU;
+el maquinista del tren R 843 comunicó la producción de la MU al jefe de estación-despachante de Opava;
 •
-10:09 h el testigo 4, guardia de la portería de la empresa Porfix, comunicó la aparición del MU al número de emergencias 112;
+10:09 h el testigo 4, vigilante de la portería de la empresa Porfix, comunicó la producción de la MU al número de emergencias 112;
 •
-10:10 h el jefe de estación-despachador de Opava comunicó la aparición del MU al IZS;
+10:10 h el jefe de estación-despachante de Opava comunicó la producción de la MU al SIC;
 •
-10:16 h la primera patrulla de la PČR llegó al lugar de aparición del MU;
-el primer grupo de intervención de la HZS llegó al lugar de aparición del MU;
+10:16 h la primera patrulla de la PČR llegó al lugar de producción de la MU;
+el primer grupo de intervención de la HZS llegó al lugar de producción de la MU;
 •
 10:17 h
-comunicación de la aparición del MU por el jefe de despacho del CDP Přerov a la O18 SŽ;
+comunicación de la producción de la MU por el despachador jefe del CDP Přerov a la O18 SŽ;
 •
-10:20 h el primer grupo de intervención de la ZZS MSK llegó al lugar de aparición del MU;
-la persona autorizada de la O18 SŽ notificó la aparición del MU al COP DI como colisión del tren R 843 con una OA en el P7724 entre las estaciones Ostrava-Svinov y Ostrava-Třebovice, en la que resultó levemente herida 1 persona de la OA y se produjo un daño de aprox. 400 000 Kč;
+10:20 h el primer grupo de intervención de la ZZS MSK llegó al lugar de producción de la MU;
+la persona designada de la O18 SŽ notificó la producción de la MU al COP DI como encuentro del tren R 843 con una OA en la vía P7724 entre las estaciones Ostrava-Svinov y Ostrava-Třebovice, en el que se habría producido una lesión leve a 1 persona de la OA y un daño de aprox. 400 000 Kč;
 •
-10:21 h el empleado del COP DI, en base a los hechos comunicados, concedió la autorización para la liberación de la vía;
+10:21 h el empleado del COP DI, sobre la base de los hechos notificados, concedió el permiso para la liberación de la vía;
 •
-10:22 h la tripulación del LZS llegó al lugar de aparición del MU;
+10:22 h la tripulación de la LZS llegó al lugar de producción de la MU;
 •
 11:04 h
-el interventor de crisis de la PČR llegó al lugar de aparición del MU;
+el interventor de crisis de la PČR llegó al lugar de producción de la MU;
 •
 11:10 h
-la persona autorizada de la O18 SŽ actualizó la notificación de la aparición del MU al COP DI, en la que como consecuencia del MU 2 personas de la OA (compañeros de viaje) debían sufrir lesiones corporales con resultado de muerte;
+la persona designada de la O18 SŽ actualizó la notificación de la producción de la MU al COP DI, en la que, como consecuencia de la MU, 2 personas de la OA (acompañantes) habrían sufrido lesiones personales con resultado de muerte;
 •
 11:13 h
-llegada del vehículo bidireccional JPO HZS SŽ para la evacuación de los pasajeros;
+llegada del vehículo de doble ancho JPO HZS SŽ para la evacuación de los pasajeros;
 •
 11:42 h
-inicio de la inspección del lugar de aparición del MU por el inspector de DI;
+inicio de la inspección del lugar de producción de la MU por el inspector de DI;
 •
 12:47 h llegada del autobús de transporte de sustitución;
 •
-13:40 h el inspector de DI presente concedió la autorización para la liberación de la vía;
+13:40 h el inspector de DI presente concedió el permiso para la liberación de la vía;
 •
 14:10 h se reanudó la explotación del transporte ferroviario.
-El Plan IZS fue activado, atendiendo al carácter del MU, a las 10:09 h, es decir, 1 minuto después de la aparición del MU, por el testigo 4.
-En el lugar del MU intervinieron los siguientes cuerpos del IZS:
+El plan del SIC se activó, atendiendo a la naturaleza de la MU, a las 10:09 h, es decir, 1 minuto después de la producción de la MU, por el testigo 4.
+En el lugar de la MU intervinieron los siguientes componentes del SIC:
 •
 PČR, distrito Ostrava-Poruba 2, Jefatura Municipal de Policía de Ostrava;
 •
 PČR, departamento de servicio de patrulla, Jefatura Municipal de Policía de Ostrava;
 
-
 ## Página 39
+
 
 •
 PČR, inspectorado de tráfico, Jefatura Municipal de Policía de Ostrava;
@@ -1352,8 +1413,8 @@ El cruce de la vía con la carretera a nivel de los raíles debe estar señaliza
 Las señales de aviso en postes independientes, su construcción y ubicación, deben corresponder a la ČSN 73 6380 y la ČSN 34 2650 ed. 2 y deben estar complementadas con una placa con la advertencia «POZOR VLAK» (ATENCIÓN TREN). Para el conductor de un vehículo por carretera debe garantizarse la visibilidad de la señal de aviso a una distancia tal que el conductor pueda detenerse de forma fiable antes del paso a nivel, es decir, a la distancia de visibilidad para la detención de la Dz. Para el caso de avería o desconexión del PZZ debe garantizarse la distancia de visibilidad para el vehículo por carretera más lento Lp en el DV circulando a una velocidad de hasta 5 km·h-1, ver puntos 3.1.3 y 3.1.8 de la presente ZZ.
 El explotador de la vía de ámbito nacional está además, entre otras, obligado a realizar la construcción, modernización, mantenimiento y reparación de la vía que explota, de acuerdo con las condiciones técnicas y requisitos de dicha vía y las condiciones técnicas de su aptitud para la explotación y de su enlace con otras vías. El mantenimiento del P, según el art. 10 de la norma interna de la SŽ S4/4, constituye el conjunto de trabajos mediante los cuales los P y sus equipamientos se mantienen en un estado técnico, seguro y transitable adecuado en todas las condiciones meteorológicas y en las condiciones normales de tráfico, realizándose el mantenimiento de forma continua durante todo el año. Asimismo se indica que el propietario de la vía está obligado a mantener en buen estado la carretera que atraviesa el P:
 
-
 ## Página 40
+
 
 •
 protegidos únicamente con cruces de aviso o con PZS sin barreras de cierre hasta la distancia de 2,5 m del eje del raíl exterior,
@@ -1379,8 +1440,8 @@ art. 10 apartado 6 de la norma interna de la SŽ S4/4:
 «En la calzada del paso a nivel, cuyo espacio se describe y delimita en el artículo 10, apartado (5) de la presente norma, la eliminación de nieve y el salado de la calzada los realiza el propietario de la vía.».
 Según el art. D.1.3 del Anexo D de la ČSN 34 2650 ed. 2, las señales de aviso, si en el poste hay varias señales de aviso, o si se encuentra adyacente otro poste de señal de aviso (p. ej., para peatones), se marcan con la misma letra con el número de orden 1, 2.
 
-
 ## Página 41
+
 
 Las señales de aviso del P7724, situadas en un poste común a la derecha de la carretera en el sentido de circulación de la OA, es decir, en el sentido desde la Central Térmica de Třebovice, respectivamente el edificio de la SŠSD, no estaban marcadas con la letra y el número de orden.
 Dicho hallazgo no puede valorarse en relación causal con la aparición del MU, ya que lo anterior no tuvo ninguna influencia en la aparición del MU:
@@ -1403,6 +1464,7 @@ En la investigación no se constató infracción de las funciones y obligaciones
 En la investigación no se constató infracción de las funciones y obligaciones de los fabricantes de DV ni de otros proveedores de productos ferroviarios.
 
 ## Página 42
+
 
 ### 4.1.4 Órganos nacionales de seguridad y Agencia Ferroviaria de la Unión Europea
 El órgano nacional de seguridad es el DÚ, que de acuerdo con la Ley n.º 266/1994 Sb. 
@@ -1452,10 +1514,10 @@ tráfico y de otros accesorios, es decir, también la revisión y el mantenimien
 señales de tráfico verticales y horizontales.
 En la inspección de las vías de comunicación terrestre adyacentes a ŽP P7724 se detectó, 
 entre otras cosas, que sobre la señal de tráfico de advertencia A 31a «Placa indicadora 
-(240 m)», que estaba complementada 
-
+(240 m)», que estaba complementada
 
 ## Página 43
+
 
 con una flecha direccional con la imagen de una flecha a la derecha, no estaba colocada 
 la señal de tráfico de advertencia A 30 «Paso a nivel sin barreras», véase el punto 3.1.3 
@@ -1511,8 +1573,8 @@ anunció también una segunda salida de maquinaria, en el horario de 8:30 h a la
 del mismo día. Se emplearon, entre otros, 1 tractor grande y 4 tractores pequeños, y se 
 consumieron 2 500 kg de sal para esparcir, véase la Fig. n.º 4 de este informe final.
 
-
 ## Página 44
+
 
 Fig. n.º 4: Captura de pantalla de la aplicación ONI system que muestra los datos de las unidades GPS 
 de la maquinaria empleada, acreditando el despeje (desbroce), entre otras, también de las vías de 
@@ -1550,8 +1612,8 @@ adaptar la velocidad de circulación del vehículo a la naturaleza y al estado d
 del paso a nivel y asegurarse de si es posible entrar en el ŽP atendiendo a su estado y 
 si es posible continuar la marcha después de cruzarlo.
 
-
 ## Página 45
+
 
 Además, todo usuario del tráfico en las vías de comunicación terrestre está obligado a 
 comportarse de forma considerada y disciplinada, de modo que con su actuación no ponga 
@@ -1613,6 +1675,7 @@ servicio de DV, de la infraestructura ferroviaria o de las instalaciones técnic
 
 ## Página 46
 
+
 ### 4.2.3 Factores o consecuencias relacionados con los fabricantes de material rodante u otro proveedor de productos ferroviarios
 En la investigación no se detectaron factores relacionados con los fabricantes de MR ni con otros proveedores de productos ferroviarios.
 ### 4.2.4 Factores o consecuencias derivados del mantenimiento y la modificación del material rodante o de instalaciones técnicas
@@ -1633,29 +1696,28 @@ En la investigación no se detectaron factores relacionados con el entorno labor
 ### 4.3.5 Otro factor relevante a efectos de la investigación
 El conductor del turismo era, en el momento del suceso, titular de un permiso de conducir con vigencia hasta el 7. 11. 2023 y de una autorización de conducción para los grupos de vehículos AM, A1, B1, B, C1, C y T.
 
-
 ## Página 47
 
-Del extracto de la ficha de registro del conductor del vehículo en cuestión se desprende que, en la fecha del suceso, contaba con un total de 7 registros de infracciones en el periodo de abril de 2008 a enero de 2023, y su puntuación era de 2 puntos.
-En la sangre extraída al conductor del turismo, según el informe de resultados de la prueba toxicológica, no se confirmó la presencia de etanol (alcohol).
+Del extracto de la ficha de registro del conductor del vehículo automóvil en cuestión se desprende que, a la fecha de ocurrencia del MU, en el periodo de abril de 2008 a enero de 2023 tenía un total de 7 registros de infracciones y su puntuación en el sistema de puntos era de 2 puntos.
+En la sangre extraída al conductor del vehículo automóvil, según el informe de resultados del examen toxicológico, no se confirmó la presencia de etanol (alcohol).
 ### 4.4 Mecanismos de retroalimentación y mecanismos de control, incluida la gestión de riesgos y la garantía de seguridad, y procedimientos de seguimiento
 ### 4.4.1 Condiciones pertinentes del marco regulatorio
-Las condiciones pertinentes del marco regulatorio están establecidas en los Reglamentos de la Unión Europea, en la Ley n.º 266/1994 Sb. y en los reglamentos de desarrollo.
+Las condiciones pertinentes del marco regulatorio están establecidas en los Reglamentos de la Unión Europea, en la ley n.º 266/1994 Sb. y en los decretos de aplicación.
 4.4.2 Procedimientos, métodos, contenido y resultados de las actividades de evaluación de riesgos y seguimiento realizadas por cualquiera de los sujetos implicados
-En los procedimientos, métodos, contenido y resultados de las actividades de evaluación de riesgos y seguimiento relacionados con las circunstancias del suceso, no se detectaron deficiencias.
-### 4.4.3 Sistema de garantía de seguridad de los transportistas y gestores de la infraestructura implicados
-En el sistema de seguridad del gestor de la infraestructura y en el sistema de garantía de seguridad del transporte ferroviario del transportista, relacionados con las circunstancias del suceso, no se detectaron deficiencias.
-### 4.4.4 Sistema de gestión de los sujetos responsables del mantenimiento del material rodante y de los talleres de mantenimiento
-El sistema de gestión de los sujetos responsables del mantenimiento del MR y de los talleres de mantenimiento no guardaba relación con el suceso.
+En los procedimientos, métodos, contenido y resultados de las actividades de evaluación de riesgos y seguimiento relacionados con las circunstancias de ocurrencia del MU en cuestión, no se detectaron deficiencias.
+### 4.4.3 Sistema de garantía de seguridad de los transportistas y gestores de infraestructura implicados
+En el sistema de seguridad del gestor de la infraestructura y en el sistema de garantía de seguridad del transporte ferroviario del transportista, relacionados con las circunstancias de ocurrencia del MU en cuestión, no se detectaron deficiencias.
+### 4.4.4 Sistema de gestión de los sujetos responsables del mantenimiento de los vehículos ferroviarios y de los talleres de mantenimiento
+El sistema de gestión de los sujetos responsables del mantenimiento de los vehículos ferroviarios y de los talleres de mantenimiento no guardaba relación con la ocurrencia del MU.
 ### 4.4.5 Resultados de la supervisión realizada por las autoridades nacionales de seguridad
-Atendiendo a los factores y circunstancias detectados del suceso, la supervisión de la autoridad de seguridad no guarda relación con el suceso en cuestión.
-### 4.4.6 Aprobaciones, certificados e informes de evaluación emitidos por la Agencia, las autoridades nacionales de seguridad u otros sujetos de evaluación de la conformidad
-El gestor de la infraestructura explotaba la infraestructura al amparo de una autorización administrativa vigente y de un certificado de seguridad del gestor de la infraestructura. El transportista explotaba el transporte ferroviario al amparo de una licencia vigente y de un certificado del transportista.
+Atendiendo a los factores y circunstancias de ocurrencia del MU detectados, la supervisión de la autoridad de seguridad no guarda relación con el MU en cuestión.
+### 4.4.6 Aprobaciones, certificados e informes de evaluación emitidos por la agencia, las autoridades nacionales de seguridad u otros sujetos de evaluación de la conformidad
+El gestor de la infraestructura explotaba la infraestructura en virtud de una autorización administrativa vigente y de un certificado de seguridad del gestor de la infraestructura. El transportista explotaba el transporte ferroviario en virtud de una licencia vigente y de un certificado del transportista.
 ### 4.4.7 Otros factores sistémicos
 En la investigación no se detectaron otros factores sistémicos.
 
-
 ## Página 48
+
 
 ### 4.5 Sucesos anteriores de naturaleza similar
 La DI registra en las líneas de ámbito nacional y regional, en el periodo comprendido entre el 1. 1. 2008 y la fecha del suceso, 1 134 sucesos similares, en los que se produjo la colisión de material rodante con vehículos a motor de carretera en pasos a nivel protegidos por señales de paso sin barreras. En estos sucesos resultaron fallecidas 184 personas, 832 personas resultaron heridas y el daño causado ascendió a 677 054 620 Kč.
@@ -1671,8 +1733,8 @@ Atendiendo al suceso y sus consecuencias, la DI, mediante documento de fecha 6. 
 La DI recibió el 16. 3. 2023 respuesta del gestor de la infraestructura SŽ con información sobre el avance de la ejecución de la recomendación de seguridad de la DI en relación con el suceso anterior en el paso a nivel P7724 de fecha 16. 2. 2018. SŽ, en respuesta a la carta del director del DÚ de fecha 22. 5. 2018 mencionada anteriormente, elaboró el documento conceptual «Programa de mejora de la seguridad de los pasos a nivel 2020-2030», con el que determinó los criterios y el procedimiento para la elevación del grado de protección de los pasos a nivel, incl. las prioridades en función de la clase de vía, la siniestralidad y otros parámetros de seguridad en los pasos a nivel. Para los pasos a nivel situados en carreteras de clase I a III, SŽ estableció horizontes temporales para su protección total.
 SŽ propuso además al Ministerio de Transportes incluir la mejora de la seguridad en el paso a nivel P7724 en el plan de construcción de inversiones, cuando esta actuación inversora fue aprobada e incluida con el nombre «Complementación de barreras en el paso a nivel P7724 en el km 263,911 de la línea Ostrava-Svinov – Opava východ», pero sin indicación del año concreto de ejecución.
 
-
 ## Página 49
+
 
 ## 5 CONCLUSIONES
 ### 5.1 Resumen del análisis y conclusiones relativas a las causas del suceso
@@ -1702,8 +1764,8 @@ En el gestor de la vía local de clase III n.º 17c (con la denominación de cal
 •
 la señal de tráfico de advertencia A 31a «Návěstní deska (240 m)» estaba incorrectamente complementada con una flecha de dirección con la imagen de una flecha hacia la derecha;
 
-
 ## Página 50
+
 
 •
 sobre la señal de tráfico de advertencia A 31a «Návěstní deska (240 m)» no estaba colocada la señal de tráfico de advertencia A 30 «Železniční přejezd bez závor».
@@ -1730,8 +1792,8 @@ inspector
 Delegación Territorial de Ostrava
 Delegación Territorial de Ostrava
 
-
 ## Página 51
+
 
 ## ANEXOS
 cara trasera
@@ -1745,12 +1807,10 @@ Fuente: DI
 Fig. n.º 6: Vista del indicador en el sentido de circulación del turismo a una distancia de 65 m antes del paso a nivel P7724         
 Fuente: DI
 
-
 ## Página 52
 
-Paso inferior bajo la vía ferroviaria (vía de la cabeza de la estación Ostrava-Třebovice de Svinov)
-Fig. n.º 7: Señal de tráfico de advertencia A 31a «Návěstní deska (240 m)», incorrectamente complementada con una flecha de dirección con la imagen de una flecha hacia la derecha, situada a una distancia de 240 m antes del paso a nivel P7724; falta la señal de tráfico de advertencia A 30 «Železniční přejezd bez závor», que debía estar colocada sobre la señal de tráfico A 31a.
+Paso bajo la vía férrea (vía de la cabecera de la estación de Ostrava-Třebovice de Svinov)
+Fig. n.º 7: Señal de tráfico preventiva A 31a «Tablilla de señal (240 m)», incorrectamente complementada con una flecha de dirección con la representación de una flecha a la derecha, situada a una distancia de 240 m antes del PEV P7724; falta la señal de tráfico preventiva A 30 «Paso a nivel sin barreras», que debía haberse situado sobre la señal de tráfico A 31a.
 Fuente: DI
-
 
 ## Página 53

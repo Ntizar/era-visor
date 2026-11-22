@@ -10,13 +10,14 @@ chars: 115419
 ratio_longitud: 1.30
 tokens_in: 53333
 tokens_out: 37984
-verificacion: revisar
-notas_cifras: ["bloque 1: original bilingüe: se compara contra el idioma principal (PT)", "bloque 2: original bilingüe: se compara contra el idioma principal (CS)", "bloque 5: original bilingüe: se compara contra el idioma principal (CS)", "bloque 7: original bilingüe: se compara contra el idioma principal (CS)", "bloque 8: original bilingüe: se compara contra el idioma principal (CS)", "bloque 9: cifras cortas: 1/57"]
-avisos: ["bloque 5: ratio 1.73", "bloque 7: ratio 1.86", "bloque 8: ratio 1.69", "bloque 18: ratio 1.67"]
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 3: original bilingüe: se compara contra el idioma principal (CS)", "página 4: original bilingüe: se compara contra el idioma principal (PT)", "página 5: original bilingüe: se compara contra el idioma principal (CS)", "página 6: original bilingüe: se compara contra el idioma principal (CS)", "página 9: original bilingüe: se compara contra el idioma principal (CS)", "página 11: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 República Checa
 Inspección Ferroviaria
@@ -42,11 +43,12 @@ NIF: 75009561
 http://www.dicr.cz
 fax: (+420) 224 805 428
 
-
 ## Página 2
 
 
+
 ## Página 3
+
 
 ### RESUMEN
 Fecha y hora:
@@ -71,8 +73,8 @@ no emitida
 
 Vista del vehículo ferroviario remolcado Zaes 35 54 7986 858-8, situado en novena posición detrás de la locomotora del tren de mercancías Pn 67113, en estado descarrilado y dañado tras la detención en la vía de estación n.º 3 de la estación ferroviaria Hranice na Moravě město.
 
-
 ## Página 4
+
 
 # Índice
 Resumen..................................................................................................................3
@@ -125,6 +127,7 @@ señalización y la seguridad del tráfico......................................
 
 ## Página 5
 
+
 3.5.2 Intercambio de mensajes verbales en relación con el incidente, incluidos los documentos del dispositivo de grabación....................................................................................................................20
 3.5.3 Medidas adoptadas para la protección y aseguramiento del lugar del incidente..................................20
 3.6 Condiciones laborales, sanitarias y de explotación...................................................20
@@ -149,8 +152,8 @@ seguridad.......................................................................
 5 Medidas adoptadas....................................................................................................27
 5.1 Relación de las medidas que ya se han adoptado o tomado como consecuencia del incidente............27
 
-
 ## Página 6
+
 
 N.º de ref.: 6-020/2007-UI1
 ### Informe
@@ -178,6 +181,7 @@ město.
 
 ## Página 7
 
+
 En el apeadero de Hranice na Moravě město de la línea troncal (ŽST), en la vía de estación nº 1, en el punto kilométrico (pk) 4,156, está insertada una aguja de cruce completa nº 6ab de tipo "C-S49-1:9-190-pd", la cual fue insertada en la vía de estación nº 1 en el año 1980 como nueva. La aguja nº 6ab está apoyada sobre la estructura portante de hormigón armado del puente en el pk 4,158, con un lecho continuo de balasto. El puente en el pk 4,158 hace pasar la línea troncal sobre una vía local en el municipio de Hranice na Moravě.
 
 Para las maniobras del tren hacia la vía nº 3 y la vía nº 5, detrás de la aguja nº 6ab en el pk 4,174, está insertada una aguja curva bidireccional nº 5 de tipo "Obl-o-S49-1:7,5-363/400-Pp d", la cual fue insertada en la vía en el año 1980 como nueva y se acciona manualmente. El lecho de vía está compuesto por áridos naturales triturados de la fracción 32-63 mm.
@@ -199,6 +203,7 @@ Testigo del incidente fue el despachador de la estación de Hranice na Moravě m
 Se activó el Sistema Integrado de Rescate (en adelante, IZS). En el lugar del incidente intervinieron el Servicio de Bomberos y Rescate de ČD, a. s., con sede en Přerov, y la Policía de la República Checa, Departamento de Policía Ferroviaria de Hranice.
 
 ## Página 8
+
 
 El punto 0 fue determinado comisionadamente en el lugar de ascenso del borde exterior de la rueda derecha del primer eje del bogie delantero del noveno vagón de mercancías (TDV) sobre la cabeza del carril derecho curvado de la aguja de la vía de cruce n.º 5, a la altura del punto de enganche de la vía de cruce. El salto de la rueda derecha fuera del carril derecho curvado de la aguja fue constatado a una distancia de 7,60 m del punto 0. El salto de la rueda izquierda del primer eje fuera del carril izquierdo de la vía de cruce n.º 5 hacia el interior de la vía fue constatado a una distancia de 6,90 m del punto 0. Las huellas del descarrilamiento continuaron con marcas de presión sobre los elementos de fijación, las traviesas de madera y el lecho de la vía hasta el lugar de detención del vagón de mercancías (TDV) descarrilado. Sobre el carril derecho curvado de la aguja, a una distancia de 14,40 m del punto 0, se constataron huellas de ascenso de la rueda derecha del segundo eje en el sentido de marcha del bogie delantero del vagón de mercancías (TDV) descarrilado sobre la cabeza de la aguja, y el salto hacia el exterior a la derecha fue constatado a una distancia de 16,90 m del punto 0. Desde este lugar, las huellas del descarrilamiento continuaron con marcas de presión sobre los elementos de fijación hasta el lugar de detención de la rueda. En el carril izquierdo de la vía de estación n.º 3, a una distancia de 29,58 m del punto 0, en el sentido de marcha del tren, se constataron huellas de ascenso de la rueda izquierda, cuarto eje del vagón de mercancías (TDV) descarrilado, sobre la cabeza del carril y su salto hacia la izquierda fuera de la vía. Las huellas del descarrilamiento de la rueda continuaron con marcas de presión hasta el lugar de detención. A partir de las huellas dejadas en la vía se puede inferir que el descarrilamiento del cuarto eje del segundo bogie se produjo como consecuencia de un impacto y el salto de los pares de ruedas descarrilados del primer bogie sobre el carril izquierdo de la vía n.º 5. El vagón de mercancías (TDV) descarrilado, al circular por la vía, derribó un poste de iluminación en el pk 4,241. Como consecuencia del descarrilamiento del noveno vagón de mercancías (TDV), el tren se desgajó entre los coches clasificados como octavo y noveno detrás de la locomotora (HDV). Los vagones de mercancías (TDV) clasificados como octavo y décimo detrás de la locomotora (HDV) quedaron dañados en su posición final y no descarrilados.
 
@@ -226,23 +231,25 @@ Empleados del administrador de la infraestructura y del transportista participan
 
 ## Página 9
 
-### 2.2.2 Composición de los trenes y su ordenación, incluidos los números de registro de las distintas unidades de material rodante
-La estación de origen del tren Pn 67113 era la estación de Hranice na Moravě y la estación de destino, la de Valašské Meziříčí. El tren era remolcado por una locomotora eléctrica de la serie 130.028-4, propiedad de České dráhy, a. s., en el estado de registro de la oficina de Ostrava. La composición del tren estaba formada por veinte vagones de mercancías de la serie Zaes (vagones cisterna), que no estaban cargados. El tren tenía una longitud de 252 m, 84 ejes, una masa de 549 t, frenado por el segundo método, un porcentaje normativo de frenado necesario del 50 % y un porcentaje real de frenado del 95 %.
-La inspección técnica inicial del tren Pn 67113 se realizó en la estación de Hranice na Moravě.
-La locomotora eléctrica 130.028-4 dispone de un certificado de aptitud para el material rodante de vía férrea válido, emitido de conformidad con el artículo 43 de la ley n.º 266/1994 Coll., por la Oficina Ferroviaria de Praga bajo el número de registro PZ 6420/99-V.01, el 01. 06. 1999. La última inspección técnica periódica de la locomotora eléctrica la realizó el 12. 10. 2006 una persona cualificada del transportista, con el resultado: sin defectos.
-El propietario del vagón de mercancías de la serie Zaes 35 54 7986 955-2, situado como octavo vagón tras la locomotora eléctrica, es České dráhy, a. s. El arrendatario del vagón de mercancías es la sociedad SPEDI-TRANS, s. r. o. La última inspección técnica periódica del vagón de mercancías se realizó el 02. 07. 2002 (con validez hasta el 02. 07. 2008).
-El propietario del vagón de mercancías de la serie Zaes 35 54 7986 858-8, situado como noveno vagón tras la locomotora eléctrica, es České dráhy, a. s. El arrendatario del vagón de mercancías es la sociedad SPEDI-TRANS, s. r. o. La última inspección técnica periódica del vagón de mercancías se realizó el 19. 12. 2002 (con validez hasta el 19. 12. 2008).
-El propietario del vagón de mercancías de la serie Zaes 35 54 7986 289-6, situado como décimo vagón tras la locomotora eléctrica, es České dráhy, a. s. El arrendatario del vagón de mercancías es la sociedad SPEDI-TRANS, s. r. o. La última inspección técnica periódica del vagón de mercancías se realizó el 28. 12. 2005 (con validez hasta el 28. 12. 2011).
-Tras la producción del accidente, la cabeza del tren fue señalizada correctamente con la indicación «Inicio del tren», de conformidad con el artículo 39 del decreto n.º 173/1995 Coll., por el que se aprueba el reglamento de circulación de las vías férreas, en su versión posterior (en adelante, decreto n.º 173/1995 Coll.).
-### 2.2.3 Descripción de los componentes de la vía de circulación ferroviaria, del sistema de seguridad (es decir, en particular del estado de las vías, de los desvíos, de los cuadros de maniobras, de las señales y del dispositivo de seguridad de los trenes)
-La línea ferroviaria en el lugar de producción del accidente, en el pk 4,175, discurre por la vía principal hacia la vía de estación n.º 1 en un desvío de cruce completo n.º 6ab de tipo «C-S49-1:9-190-pd», situado en el pk 4,156, de longitud constructiva 33,230 m, en el ramal entre el desvío n.º 6ab y el desvío n.º 5, de una longitud de 5 m, en un desvío de curva bidireccional n.º 5 de tipo «Obl-o-S49-1:7,5-363/400-Pp d», situado en el pk 4,174, de longitud constructiva 25,222 m, y en la continuación hacia la vía de estación n.º 3 en una curva a la izquierda de radio R=400 m sin peralte. La circulación del tren Pn 67113 a través del desvío n.º 6ab se realizó en dirección de derecha a izquierda en una curva a la derecha de radio R=190 m y en el desvío n.º 5 en dirección de circulación hacia la vía n.º 3 a la izquierda en una curva a la izquierda de radio R=400 m.
-La pendiente de la línea antes y después del punto 0 es, desde el pk 4,090 en la dirección de circulación del tren Pn 67113, de descenso -2,91 ‰ y en la continuación, de descenso -0,94 ‰. El firme ferroviario está compuesto por rieles de perfil S49 sobre durmientes de madera dura. Los rieles están fijados a los durmientes mediante placas de base acanaladas S4, abrazaderas ŽS4 y tuercas R1. El balasto está formado por áridos naturales triturados de fracción 32-63 mm.
-La velocidad máxima en las vías de circulación n.º 1 y n.º 2 en la estación de Hranice na Moravě město es de 80 km/h, en la dirección de desvío hacia las vías de estación n.º 3, n.º 5 y n.º 4 es de 40 km/h. En el lugar de producción del accidente, la velocidad es de 40 km/h; la señal de entrada 1S está situada en la dirección de circulación del tren Pn 67113 en el pk 3,865, es decir, a 310 m antes del lugar de producción del accidente en el pk 4,175.
-El firme ferroviario en la estación de Hranice na Moravě město fue soldado tras la renovación llevada a cabo en 1991 y se instaló un sistema de bloqueo de vías (BK). Los desvíos n.º 6ab y n.º 5 no fueron soldados al sistema de bloqueo de vías.
-La estación ferroviaria de Hranice na Moravě město está equipada con un dispositivo de seguridad de los trenes (SZZ) de categoría 3, tipo ESA 11 (cuadro de maniobras electrónico), controlado por el operador de explotación (JOP) con el sistema de control remoto AŽD DOZ 1 con señales luminosas, circuitos de vía y conmutadores de vía centralizados equipados con actuadores electromecánicos y control de la posición de las agujas. El dispositivo de seguridad de los trenes permite el control remoto desde la estación de Hranice na Moravě. En el momento de la producción del accidente, el dispositivo de seguridad de los trenes estaba conmutado al control local por el jefe de estación JOP en la estación de Hranice na Moravě město.
-El tramo interstacional entre la estación de Hranice na Moravě y Hranice na Moravě město, incluida la estación de Hranice
+### 2.2.2 Trenes y su composición, incluidos los números de registro de los distintos vehículos ferroviarios
+La estación de origen del tren Pn 67113 era la estación Hranice na Moravě y la estación de destino Valašské Meziříčí.
+El tren estaba remolcado por la locomotora de la serie 130.028-4, propiedad de České dráhy, a. s., con situación de registro en el depósito DKV Ostrava. La composición del tren constaba de veinte vagones de la serie Zaes (vagones cisterna), que no estaban cargados. El tren tenía 252 m, 84 ejes, 549 t, frenado por el método II, norma de porcentajes de frenado necesarios 50, porcentajes de frenado reales 95.
+La inspección técnica inicial del tren Pn 67113 se realizó en la estación Hranice na Moravě.
+La locomotora 130.028-4 dispone de un Certificado de aptitud del vehículo ferroviario válido, emitido de conformidad con el § 43 de la ley núm. 266/1994 Sb., por la Oficina Ferroviaria de Praga con el núm. de registro PZ 6420/99-V.01, con fecha 01. 06. 1999. La última inspección técnica periódica de la locomotora la realizó el 12. 10. 2006 una persona cualificada del transportista, con el resultado: sin defectos.
+El propietario del vagón de la serie Zaes 35 54 7986 955-2, acoplado como octavo vagón tras la locomotora, es České dráhy, a. s. El arrendatario del vagón es la empresa SPEDI-TRANS, s. r. o. La última inspección técnica periódica del vagón se realizó el 02. 07. 2002 (con validez hasta el 02. 07. 2008).
+El propietario del vagón de la serie Zaes 35 54 7986 858-8, acoplado como noveno vagón tras la locomotora, es České dráhy, a. s. El arrendatario del vagón es la empresa SPEDI-TRANS, s. r. o. La última inspección técnica periódica del vagón se realizó el 19. 12. 2002 (con validez hasta el 19. 12. 2008).
+El propietario del vagón de la serie Zaes 35 54 7986 289-6, acoplado como décimo vagón tras la locomotora, es České dráhy, a. s. El arrendatario del vagón es la empresa SPEDI-TRANS, s. r. o. La última inspección técnica periódica del vagón se realizó el 28. 12. 2005 (con validez hasta el 28. 12. 2011).
+Tras la ocurrencia del accidente ferroviario, la cabeza del tren fue señalizada correctamente con la señal «Inicio de tren» de conformidad con el § 39 del decreto núm. 173/1995 Sb., por el que se aprueba el reglamento de circulación ferroviaria, en su versión vigente (en adelante, decreto núm. 173/1995 Sb.).
+### 2.2.3 Descripción de los componentes de la vía de circulación ferroviaria, del sistema de señalización (es decir, en particular el estado de las vías, desvíos, aparatos de cambio, señales y del dispositivo de seguridad del tren)
+La línea ferroviaria en el lugar de ocurrencia del accidente ferroviario en el km 4,175 discurre en la vía principal hacia la vía de estación núm. 1 en el desvío integral núm. 6ab de forma "C-S49-1:9-190-pd" situado en el km 4,156, longitud constructiva de 33,230 m, en el enlace entre el desvío núm. 6ab y el desvío núm. 5 de una longitud de 5 m, en el desvío curvo de doble vía núm. 5 de forma "Obl-o-S49-1:7,5-363/400-Pp d" situado en el km 4,174, longitud constructiva de 25,222 m, y en la continuación hacia la vía de estación núm. 3 en una curva izquierda de radio R=400 m sin peralte. La circulación del tren Pn 67113 por el desvío núm. 6ab se realizó en la dirección de derecha a derecha en una curva derecha de radio R=190 m y en el desvío núm. 5 en la dirección de circulación hacia la vía núm. 3 a la izquierda en una curva izquierda de radio R=400 m.
+La pendiente de la línea antes y después del punto 0 es, desde el km 4,090 en la dirección de circulación del tren Pn 67113, en descenso -2,91‰ y en la continuación en descenso -0,94‰. La superestructura ferroviaria está formada por carriles de forma S49 sobre traviesas de madera duras. Los carriles están fijados a las traviesas mediante placas de asiento nerviadas S4, abrazaderas ŽS4 y tornillos R1. El balasto está formado por árido natural triturado de fracción 32-63 mm.
+La velocidad máxima de la línea en las vías de circulación núm. 1 y núm. 2 en la estación Hranice na Moravě město es de 80 km/h, en la dirección de desvío hacia las vías de estación núm. 3, núm. 5 y núm. 4 es de 40 km/h. En el lugar de ocurrencia del accidente ferroviario la velocidad es de 40 km/h, la señal de entrada 1S está situada en la dirección de circulación del tren Pn 67113 en el km 3,865, es decir, 310 m antes del lugar de ocurrencia del accidente ferroviario en el km 4,175.
+La superestructura ferroviaria en la estación Hranice na Moravě město fue soldada tras la renovación realizada en 1991 y se estableció la continuidad de carril (BK). Los desvíos núm. 6ab y núm. 5 no fueron soldados a la BK.
+La estación ferroviaria Hranice na Moravě město está equipada con un sistema de enclavamiento electrónico (SZZ) de 3.ª categoría tipo ESA 11 (aparato de cambio electrónico) controlado por el JOP con el sistema de control remoto AŽD DOZ 1 con señales luminosas, circuitos de vía y desvíos maniobrados centralmente dotados de motores eléctricos de cambio y control de posición de las agujas. El SZZ permite el control remoto desde la estación Hranice na Moravě. En el momento de la ocurrencia del accidente ferroviario, el SZZ estaba conmutado a control local por el JOP en la estación Hranice na Moravě město.
+El tramo entre estaciones Hranice na Moravě – Hranice na Moravě město, incluida la estación Hranice
 
 ## Página 10
+
 
 en Moravia la ciudad está cubierta por la señal "Vf" del sistema de radio de vía TRS (en lo sucesivo, TRS) del sistema de isla, permitiendo en el canal combinado de la banda nº 65 la comunicación entre el despachador, los jefes de estación y los maquinistas en las locomotoras eléctricas (HDV) equipadas con la parte móvil del TRS.
 ### 2.2.4 Utilización de los medios de comunicación
@@ -258,50 +265,46 @@ En el lugar del incidente intervinieron la Unidad de Protección contra Incendio
 
 ## Página 11
 
-### 2.3 Muertes, lesiones y daños materiales
-2.3.1 En viajeros y terceros, empleados del gestor de la infraestructura y del transportista, 
-incluidas las personas en relación contractual
-No se produjeron daños a la salud de los empleados del gestor de la infraestructura y del transportista ni de otras personas durante el incidente grave (MU).
-### 2.3.2 En las mercancías transportadas, equipajes y otros bienes 
-El tren Pn 67113 transportaba vagones cisterna vacíos (TDV), vagones cisterna destinados al transporte de sustancias peligrosas - productos petrolíferos. No se produjeron daños en las mercancías transportadas ni en otros bienes.
-### 2.3.3 En los vehículos ferroviarios, en las partes de la vía y en el medio ambiente
-Mediante la inspección del vehículo motor de tracción (HDV) serie 130.028-4 llevada a cabo el 06.03.2007 en el lugar de producción del incidente grave (MU) no se detectaron daños.
-Mediante la inspección comisionada del vagón cisterna descarrilado (TDV) serie Zaes n.º 35 54 798 6858-8, situado como noveno vagón cisterna detrás del vehículo motor de tracción, llevada a cabo el 16.03.2007 en ČD, a. s., DKV Ostrava, se constató:
-- en sentido de circulación, larguero izquierdo doblado, muescas en todo el perímetro de las ruedas 1ª izquierda y 2ª izquierda del bogie «b» con una profundidad de 2 – 3 mm, tubería principal dañada, gancho izquierdo de sujeción de la separación interna del segundo par de ruedas roto, falta de la placa del amortiguador de la segunda rueda derecha del bogie «b», amortiguador del bogie y ambos soportes planos.
-El daño en el vagón cisterna (sin reparación del larguero) se estimó en 380 000,- Kč. A la fecha de emisión del Informe sobre la investigación de las causas y circunstancias del incidente grave, el vagón cisterna no había sido reparado;
-Mediante la inspección comisionada de los restantes vagones cisterna dañados llevada a cabo el 07.03.2007 en DKV Ostrava, Unidad Operativa Valašské Meziříčí, se constató:
-- vagón cisterna serie Zaes n.º 35 54 798 6955-2, situado como octavo vagón cisterna detrás del vehículo motor de tracción – amortiguador dañado 105A (destinado a su sustitución), pernos del amortiguador (4x) cortados durante el incidente grave. El daño en el vagón cisterna se cuantificó en 4 326,84 Kč;
-- vagón cisterna serie Zaes n.º 35 54 798 6289-6 situado como décimo vagón cisterna detrás del vehículo motor de tracción – amortiguador dañado 105A – doblado, destinado a su reparación. El daño en el vagón cisterna se cuantificó en 1 407,55 Kč.
-Durante el descarrilamiento del vagón cisterna se produjeron daños en el equipamiento de la Administración de la Circulación Ferroviaria, s. o. (en adelante, SŽDC, s. o.) bajo la gestión de la empresa České dráhy, a. s., de la Administración de la Vía (en adelante, SDC) Olomouc, en pequeñas piezas de vía y en las traviesas de madera en el punto de cruce n.º 5 y en la red de vías de la vía de estación n.º 3. Debido a la circulación del vagón cisterna en estado descarrilado, se derribó y deformó el poste de iluminación n.º 35 en el pk 4,241 y se dañaron las líneas de cable de los circuitos de vía. El daño en la infraestructura ferroviaria se cuantificó en 77 671,76 Kč. 
-El daño secundario causado por el incidente grave (MU) provocado a České dráhy, a. s. mediante el empleo de medios auxiliares de recuperación de vehículos descarrilados asciende a 64 766,- Kč. 
-### El daño total causado como consecuencia del incidente grave asciende a 463 403,15 Kč.
-El tráfico ferroviario se interrumpió en la vía de estación n.º 1 y n.º 3 de la estación de Hranice na Moravě město y en la vía de línea n.º 1 en el tramo entre la estación de Hranice na Moravě y la estación de Hranice na Moravě město desde las 15:15 h del 06.03.2007 hasta las 19:00 h del mismo día, es decir, 225 minutos. Se retrasaron 7 trenes para el transporte de viajeros de categoría R (tren rápido) + 15 min y 4 trenes de categoría Os + 56 min.
-No se produjo ninguna fuga de restos de productos petrolíferos contenidos en los depósitos vacíos de los vagones cisterna.
-### 2.4 Factores externos
+### 2.3 Muertos, heridos y daños materiales
+2.3.1 No se produjeron daños a la salud en los empleados del gestor de la infraestructura ferroviaria y del transportista ni en otras personas a causa del SU.
+### 2.3.2 En las cosas transportadas, el equipaje y otros bienes
+El tren Pn 67113 transportaba TDV vacíos, vagones cisterna destinados al transporte de sustancias peligrosas: productos petrolíferos. No se produjeron daños en las cosas transportadas ni en otros bienes.
+### 2.3.3 En los vehículos ferroviarios, los componentes de la vía de circulación y en el medio ambiente
+La inspección de la HDV serie 130.028-4 realizada el 06. 03. 2007 en el lugar de producción del SU no detectó daños.
+La inspección comisionada del TDV descarrilado serie Zaes n.º 35 54 798 6858-8, acoplado como noveno TDV tras la HDV, realizada el 16. 03. 2007 en ČD, a. s., DKV Ostrava, arrojó los siguientes resultados:
+- en el sentido de la marcha, larguero izquierdo doblado, muescas en todo el perímetro de los aros de la rueda 1 izquierda y 2 izquierda del bogie „b“ hasta una profundidad de 2 – 3 mm, tubería principal dañada, traba izquierda de la diagonal interna del segundo eje roto, ausente el plato del amortiguador de la segunda rueda derecha del bogie „b“, amortiguador del bogie y ambos colgadores planos.
+El daño en el TDV (sin reparación del larguero) se fijó en 380 000,- CZK. A la fecha de emisión del Informe de investigación de las causas y circunstancias de la producción del suceso ferroviario, el TDV no había sido reparado;
+La inspección comisionada de los TDV dañados restantes el 07. 03. 2007 en DKV Ostrava, Unidad Operativa Valašské Meziříčí, arrojó los siguientes resultados:
+- TDV serie Zaes n.º 35 54 798 6955-2, acoplado como octavo TDV tras la HDV – amortiguador 105A dañado (destinado a sustitución), tornillos del amortiguador (4x) cortados durante el SU. El daño en el TDV se cuantificó en 4 326,84 CZK;
+- TDV serie Zaes n.º 35 54 798 6289-6, acoplado como décimo TDV tras la HDV – amortiguador 105A dañado, doblado, destinado a reparación. El daño en el TDV se cuantificó en 1 407,55 CZK.
+Con el descarrilamiento del TDV se produjeron daños en los equipos de la Správa železniční dopravní cesty, s. o. (en adelante SŽDC, s. o.) bajo gestión de la sociedad České dráhy, a. s., Správa dopravní cesty (en adelante SDC) Olomouc, en el material menor de vía y en las traviesas de madera de la aguja n.º 5 y en la cama de la vía de estación n.º 3. La circulación del TDV en estado descarrilado provocó el vuelco y la deformación del mástil de iluminación n.º 35 en el pk 4,241 y daños en las rutas de cable de los circuitos de vía. El daño en la infraestructura ferroviaria se cuantificó en 77 671,76 CZK.
+El daño secundario causado por el SU a České dráhy, a. s. por la utilización de medios auxiliares de enganche a la vía asciende a 64 766,- CZK.
+### El daño total producido como consecuencia del SU asciende a 463 403,15 CZK.
+La circulación ferroviaria fue interrumpida en la vía de estación n.º 1 y n.º 3 de la estación Hranice na Moravě město y en la vía de tramo n.º 1 en el tramo entre la estación Hranice na Moravě y la estación Hranice na Moravě město desde las 15:15 h del 06. 03. 2007 hasta las 19:00 h del mismo día, es decir, 225 minutos. Se retrasaron 7 trenes de la categoría R (rápido) + 15 min. y 4 trenes de la categoría Os + 56 min.
+No se produjo fuga de restos de productos petrolíferos existentes en los depósitos vacíos de los TDV.
+### 2.4 Circunstancias externas
 ### 2.4.1 Condiciones meteorológicas y datos geográficos.
-Clima: temperatura del aire +10 ºC, despejado, calma, visibilidad superior a 100 m.
-El lugar del incidente grave se encuentra en el término municipal de Hranice na Moravě.
+Tiempo: temperatura del aire +10 ºC, despejado, calma, visibilidad superior a 100 m.
+El lugar del SU se encuentra en el término municipal de Hranice na Moravě.
 
 ## Página 12
 
-### 3 REGISTRO DE LAS EXPLICACIONES PRESTADAS
-### 3.1 Resumen de las explicaciones prestadas (sujetas a protección de la identidad de las personas) y del examen técnico de las causas de la incidencia extraordinaria
-### 3.1.1 Empleados del gestor de infraestructura y del transportista, incluidas las personas en relación contractual
-### El maquinista del tren Pn 67113, en el acta «Acta con el empleado» elaborada por České dráhy, a. s., DKV Ostrava el 06.03.2007, indicó, entre otras cosas:
-«El 06.03.2007 comencé mi turno a las 06:00 horas - dotación por turnos. El turno transcurrió sin incidencias hasta el tren 67113, momento en el que, a una velocidad de aproximadamente 25 km/h, al entrar en la estación de Hranice na Moravě - ciudad, sentí sacudidas del tren y simultáneamente se descarriló el 9.º vagón con un bogie tras la unidad motriz en la vía nº 3 - punto de desvío nº 5. Notifiqué el incidente al despachador de la estación, quien a su vez había llamado a los miembros de los Servicios de Intervención de Emergencia (IZS) y a los órganos de investigación de ČD. Realicé una prueba de detalko ante el jefe de la estación de Hranice na Moravá, Sr. Čajka, con resultado negativo. Desplacé la cinta del velocígrafo a las 15:20 horas y después de ......»
-
-### El despachador de la estación de Hranice na Moravě ciudad, en el acta elaborada por České dráhy, a. s., Estaciones de Nudo de Přerov el 08.03.2007, indicó, entre otras cosas:
-«Comencé mi turno a las 5:50 horas. El servicio transcurrió sin problemas. Aproximadamente a las 15:00 horas, me interesé por la circulación del EC 127, dado que antes de este tren había salido de Hranice na Moravě el tren Pn 67113. Al comprobar que no dispondría de un intervalo de seguimiento suficiente entre los trenes Pn 67113 y EC 127, modifiqué la entrada del tren 67113 a la tercera vía de estación. Cuando el tren Pn 67113 cruzó la señal de entrada, salí delante de la oficina de tráfico para observar el tren que entraba. Tras pasar unos 5 vagones junto a la oficina de tráfico, escuché un golpe extraño y vi el vagón descarrilado junto a la vía de maniobras nº 5. El tren comenzó a frenar de inmediato. .......»
-
-### El encargado de material rodante de las Estaciones de Nudo de Přerov, en el acta «Acta con el empleado» elaborada por České dráhy, a. s., Estaciones de Nudo de Přerov el 22.03.2007, indicó, entre otras cosas:
-«...... El turno transcurrió sin incidencias. Antes de las 14:00 horas, el despachador me llamó para informarme de que el tren Pn 67113 llegaría a la vía nº 11, sobre el cual debía realizar la inspección técnica inicial (VTP) y la prueba de continuidad. El tren llegó a las 14:03 horas y a las 14:05 horas inicié la VTP. Inspeccioné el tren desde la locomotora hacia el final del tren (dirección Hranice na Moravě ciudad). Durante la inspección no detecté ninguna avería técnica ni de carga en los vagones cisterna (identificados como transporte de mercancías peligrosas). Al llegar al final del tren, realicé la prueba de continuidad. ..... regresé a la vía nº 11, donde continué con la inspección por el otro lado del tren - realizaba la VTP. Tampoco detecté ninguna avería aquí. Aproximadamente a las 15:10 horas, finalicé la VTP en la vía nº 11 con el tren Pn 67113 e informé por radio al despachador de que la inspección estaba libre de averías y que el freno estaba aplicado. Lo mismo comunicé verbalmente al maquinista, durante la firma del Informe de frenado. .... »
-
-El jefe de la central operativa TO Hranice na Moravě, en el acta elaborada por České dráhy, a. s., RIBŽD Ostrava el 07.03.2007, indicó:
-«En relación con la incidencia extraordinaria (MU) - descarrilamiento de un vehículo ferroviario - clasificado como noveno vagón del tren Pn 67113 en el punto de desvío nº 5 de la estación de Hranice na Moravě - ciudad el 06.03.2007, manifiesto lo siguiente.
-Inmediatamente antes de la incidencia, el tren en cuestión circulaba por el punto de desvío nº 6ab (circulación de derecha a derecha) y posteriormente se descarriló en la parte de conmutación del punto de desvío nº 5, que estaba conmutado para la circulación hacia la izquierda a la vía nº 3 de estación.
-El punto de desvío nº 6ab es de tipo CS49 1:9-190 p, instalado originalmente en 1980 como nuevo. Está situado sobre una estructura de puente (cimentación impermeable) y, por ello, presenta problemas crónicos de embancamiento del balasto bajo este punto de desvío. En la última inspección cuatrimestral comisionada se ordenó la reparación del balasto embancado en el punto de desvío nº 6b, en la zona de la cruz simple, con plazo de eliminación para el 20.04.2007. Dado que el estado de embancamiento del balasto empeoraba también en la zona de la cruz simple del punto de desvío nº 6a, ordené a la cuadrilla del maestro, Sr. Kopecký, realizar al menos una limpieza parcial de las zonas fangosas mediante excavación manual de los espacios intertraviesas embancados hasta por debajo de las traviesas, con el fin de mejorar la
+### 3 REGISTRO DE EXPLICACIONES PRESENTADAS
+### 3.1 Resumen de las explicaciones presentadas (sujetas a protección de la identidad de las personas) y del peritaje sobre las causas de la aparición del suceso ferroviario
+### 3.1.1 Empleados del gestor de la vía y del transportista, incluidas personas en relación contractual
+### El maquinista del tren Pn 67113, en el acta "Acta con el empleado" elaborada por České dráhy, a. s., DKV Ostrava el 06. 03. 2007, entre otras cosas, indicó:
+"El 06. 03. 2007 entré a las 06,00 h en turno - dotación de turno. El turno transcurrió sin incidencias hasta el tren 67113, cuando al entrar en la est. Hranice n.M. - mío sentí, a una velocidad de unos 25 km/h, los golpes del tren y simultáneamente se produjo el descarrilamiento del 9.º coche con un bogie tras el vehículo motriz en la vía n.º 3 - aguja n.º 5. Fui a comunicar el suceso a la jefa de estación, que mientras tanto había llamado a los servicios de emergencia y a los órganos investigadores de ČD. Realicé la prueba de detección al jefe de estación Hranice n. M., p. Čajka, con resultado negativo. Desplacé la tira de registrador de velocidad en el registrador de velocidad a las 15.20 h y después ......"
+### La jefa de estación de ŽST Hranice na Moravě město, en el acta elaborada por České dráhy, a. s., ŽST nodal Přerov el 08. 03. 2007, entre otras cosas, indicó:
+"Entré a las 5.50 h en turno. El servicio transcurrió sin problemas. Sobre las 15:00 h me interesé por la circulación del EC 127, ya que antes de este tren salía de Hranice na Moravě el tren Pn 67113. Cuando comprobé que no dispondría de un intervalo de separación suficiente entre los trenes Pn 67113 y EC 127, modifiqué la entrada del tren 67113 a la tercera vía de estación. Cuando el tren Pn 67113 pasó el semáforo de entrada, salí del despacho de circulación para observar el tren que entraba. Después de que pasaran unos 5 coches junto al despacho de circulación, oí un ruido extraño y vi un coche descarrilado junto a la vía de maniobras n.º 5. El tren comenzó a frenar inmediatamente. ......."
+### El jefe de maniobras de la ŽST nodal Přerov, en el acta "Acta con el empleado" elaborada por České dráhy, a. s., ŽST nodal Přerov el 22. 03. 2007, entre otras cosas, indicó:
+"..... El turno transcurrió sin incidencias. Antes de las 14:00 h me llamó la jefa de estación para decirme que a la vía n.º 11 llegaría el tren Pn 67113, con el que debía realizar la inspección técnica inicial (VTP) y la prueba de continuidad. El tren llegó a las 14:03 h y a las 14:05 h comencé con la VTP. Inspeccioné el tren desde la locomotora hacia el final del tren (dirección Hranice na Moravě město). Durante la inspección no detecté ningún defecto técnico ni de carga en los vagones cisterna (señalizados como transporte de mercancías peligrosas). Al llegar al final del tren realicé la prueba de continuidad. ..... volví a la vía n.º 11, donde continué la inspección por el otro lado del tren - realizaba la VTP. Tampoco aquí detecté ningún defecto. Sobre las 15:10 h finalicé la VTP en la vía n.º 11 con el tren Pn 67113 y comuniqué por radio a la jefa de estación que la inspección está sin defectos y que la prueba de frenado está realizada. Lo mismo comuniqué verbalmente al maquinista, al firmar el Informe de frenado. .... "
+El jefe del centro de explotación TO Hranice na Moravě, en el acta elaborada por České dráhy, a. s., RIBŽD Ostrava el 07. 03. 2007, indicó:
+"En relación con la aparición del SU - descarrilamiento de un vehículo ferroviario - acoplado como noveno coche del tren Pn 67113 en la aguja n.º 5 de la ŽST Hranice na Moravě - město el 06. 03. 2007n, expongo.
+Justo antes de la aparición del SU, el tren en cuestión circulaba por la aguja n.º 6ab (circulación de derecha a derecha) y a continuación descarriló en la parte de cambio de la aguja n.º 5, que estaba dispuesta para la circulación de izquierda a la vía n.º 3 de estación.
+La aguja n.º 6ab es de tipo CS49 1:9-190 p, se insertó en 1980 como nueva. Está situada sobre una estructura de puente (firme impermeable) y por ello existen problemas persistentes de encharcamiento del lecho de balasto bajo esta aguja. En la última inspección trimestral por comisión se ordenó la reparación del lecho de balasto encharcado en la aguja n.º 6b, en la zona del corazón simple, con plazo de eliminación hasta el 20. 04. 2007. Dado que el estado de encharcamiento del lecho de balasto se agravaba también en la zona del corazón simple de la aguja n.º 6a, ordené al cuadrillo del capataz, el Sr. Kopecký, que realizara al menos una limpieza parcial de las zonas fangosas excavando manualmente los espacios entre traviesas encharcados por debajo del nivel de las traviesas, con el fin de mejorar
 
 ## Página 13
+
 
 drenaje. Los trabajos se iniciaron el 01.03.2007, lo cual puedo acreditar mediante el «Informe diario» del 01.03.2007. Estos trabajos fueron realizados por dos empleados bajo la supervisión de un capataz. Tras la excavación del lecho de grava encharcado en la zona de las agujas simples 6a y 6b, debido a las condiciones meteorológicas adversas (lluvia intensa), únicamente se procedió al relleno de grava detrás de las cabezas de las traviesas, dada la necesidad de esperar a que el agua se drenara y a que los espacios intertraviesas se secaran parcialmente. Se planificó que, tras la mejora del tiempo y el secado de los espacios intertraviesas, se realizaría el relleno del lecho de grava y el ajuste final de la GPK (geometría de la vía) de la aguja. Para el año 2007 está planificada la TSO (inspección técnica de seguridad) de las agujas n.º 6ab, 7 y 8 en la estación de Hranice na Moravě město. Respecto al estado de la aguja n.º 5, añado que se trata de una aguda curva tipo Obl J S49 1:7,5-190; 363/400 P p dř., que fue instalada como nueva en 1980. Esta aguja se encuentra en la vía n.º 3 de la estación, y el estado de dicha aguja es satisfactorio (esta aguja tiene un tráfico reducido).
 
@@ -333,6 +336,7 @@ El lunes 5.3, sin embargo, dos empleados de mi escuadrón me informaron de que a
 
 ## Página 14
 
+
 con uno de los empleados restantes de la brigada, que se encontraba en servicio, se aseguraban las obras de reparación en el punto de cruce n.º 3 A/B en la estación de Hranice na Moravě město. Al final del turno de trabajo, realicé una inspección visual de los puntos en curso de reparación en el punto de cruce 6 A/B. Comprobé que el estado no había cambiado, las bancadas bajo las traviesas permanecían intactas. También observé la deflexión de las traviesas durante el paso del tren. No detecté nada inusual ni peligroso. Esto me confirmó en la idea de que no era necesario reducir la velocidad y de que bastaba con completar la reparación el miércoles 07.03.2007. ......".
 ### 3.1.2 Otras personas
 No hubo otras personas implicadas en el accidente. Tampoco hubo otras personas testigos.
@@ -358,8 +362,8 @@ En el artículo 88 se establece:
 «88. Las inspecciones periódicas de los puntos de cruce en las estaciones ferroviarias, de conformidad con el artículo 26 del Decreto n.º 177/1995 Coll., las organizan y garantizan el SDC. .................
 ### Durante la inspección periódica de los puntos de cruce, de conformidad con el artículo 26 del Decreto n.º 177/1995 Coll., se realiza la inspección del estado de los puntos de cruce, las estructuras de los puntos de cruce ...... y los campos de conexión en las derivaciones de los puntos de cruce .... . Al mismo tiempo, se miden, prueban y evalúan las condiciones
 
-
 ## Página 15
+
 
 ### establecidas en el anexo n.º 6, parte B, del decreto n.º 177/1995 Coll., así como el desgaste y los defectos de las piezas, ........, el estado del lecho de la vía y el drenaje, .... .
 ### La evaluación de las mediciones de conformidad con los artículos 71, 72, 73 de la sección D forma parte de la inspección.»
@@ -381,6 +385,7 @@ El explotador aportó las anotaciones y actas de la actividad de inspección y v
 
 ## Página 16
 
+
 apoyo de vía de perfil S4. En el punto de cruce n.º 6ab y el n.º 5, la vía férrea se asienta sobre durmientes de madera con distribución conforme a las hojas de modelo de puntos de cruce. Esta estructura de vía férrea está en consonancia con la disposición de vía férrea para la vía de segunda clase establecida por el titular de la explotación en la norma ČD S 3 Vía férrea;
 - la realización del seguimiento del tramo la lleva a cabo una vez por semana un obrero de vía - inspector, y dos veces al mes el responsable del centro de explotación. Las copias del cuaderno de servicio del inspector del centro de explotación (TO) de Hranice na Moravě y las copias de las anotaciones en el libro "Libro de inspecciones y actividades del responsable del TO de Hranice na Moravé" acreditan la realización de las inspecciones en el intervalo de tiempo establecido conforme al anexo n.º 1 del decreto n.º 177/1995 Sb. y a la "ORDEN ORGANIZATIVA n.º 300/52 - Inspecciones establecidas de las vías de ČD en el ámbito de la Dirección de Tráfico de Olomouc (SDC Olomouc)" y a la modificación "Modificación n.º 1" ref. n.º 130/05-OP de fecha 26 de enero de 2005;
 - la última medición continua de la vía férrea se realizó con el vehículo de medición MV1 el 10.10.2006. Para las anomalías en dirección vertical (ZK1 y ZK2, no se detectaron ZK3), que figuran en el impreso extraído del último recorrido del vehículo de medición entre el punto kilométrico (pk) 4,100 y el pk 4,906, se establecieron plazos para su subsanación y las anomalías fueron subsanadas por el centro de explotación (TO) de Hranice na Moravé. Para las anomalías
@@ -400,6 +405,7 @@ El propietario de la vía férrea nacional de Horní Lideč st. hr. – Hranice 
 El titular de la explotación de la vía y del transporte ferroviario son České dráhy, a. s., con domicilio social en Nábřeží L. Svobody 1222, Praga 1, código postal 110 15, en virtud de la Autorización oficial emitida por la Oficina Ferroviaria de Praga el 6.5.1996, ref. n.º 1814/96-DÚ/O-Sl (n.º de registro ÚP/1996/1643) y de la Licencia de titular de transporte ferroviario ref. n.º 1 - 157/96-DÚ/O-Bp, n.º de registro: L/1996/5000, concedida por la Oficina Ferroviaria de Praga el 21 de mayo de 1996 a la persona jurídica - transportista con razón social "České dráhy, a. s.".
 
 ## Página 17
+
 
 ### 3.3 Marco jurídico y otras disposiciones
 ### 3.3.1 Normativa comunitaria y nacional aplicable
@@ -474,6 +480,7 @@ por decisión del vicdirector general para la infraestructura de transporte el 2
 
 ## Página 18
 
+
 ### Reglamento interno ČD V1 REGLAMENTO para la organización del tráfico en las dependencias de vehículos ferroviarios,
 –
 aprobado por decisión del director general de la División Comercial y de Operaciones de 20. 03. 
@@ -520,10 +527,10 @@ SB8 con distribución "d" y en el punto de aguja n.º 6ab y el punto de aguja n.
 con distribución según las hojas de modelo de los puntos de aguja. Los carriles están fijados a los durmientes 
 a través de placas base acanaladas S4 y placas base según las hojas de modelo de los puntos de aguja, 
 abrazaderas ŽS4 y espirales R1. 
-En el tramo de vía Hranice na Moravá - Hranice na Moravá město en la vía de vía n.º 1 hasta el pk 
-
+En el tramo de vía Hranice na Moravá - Hranice na Moravá město en la vía de vía n.º 1 hasta el pk
 
 ## Página 19
+
 
 4,137 y en la vía de estación n.º 3 desde el pk 4,250 hasta el pk 4,830 se ha instalado una vía soldada sin juntas, el punto de aguja 
 n.º 6ab no está soldado, el punto de aguja n.º 5 está soldado con juntas aisladas adhesivas incrustadas. 
@@ -569,42 +576,28 @@ del tren "Velocidad 40 km/h y precaución" del semáforo de entrada S1.
 
 ## Página 20
 
-### 3.5.2 Intercambio de comunicaciones verbales en relación con el incidente excepcional, incluidos los documentos del dispositivo de grabación
-
-Se considera que la primera comunicación verificada en relación con el incidente excepcional (IU) es la notificación del descarrilamiento de los vehículos ferroviarios realizada por el maquinista del tren Pn 67113 al jefe de estación de la Estación Ferroviaria de Hranice na Moravě město, inmediatamente después de la ocurrencia del incidente excepcional.
-
-La citada comunicación verbal se desprende de las declaraciones explicativas presentadas por los empleados participantes, mencionadas en el artículo 3.1.1.
-
-### 3.5.3 Medidas adoptadas para la protección y aseguramiento del lugar del incidente excepcional
-
-Las medidas de protección y aseguramiento del lugar del incidente excepcional fueron garantizadas por el jefe de estación de la Estación Ferroviaria de Hranice na Moravě město hasta la llegada de la persona autorizada y técnicamente competente del operador de infraestructura y del operador de transporte ferroviario (en adelante, las personas autorizadas). Tras la llegada de la persona autorizada, las medidas de protección y aseguramiento del lugar del incidente excepcional se adoptaron en coordinación con las autoridades competentes en el procedimiento penal.
-
+### 3.5.2 Intercambio de comunicaciones verbales en relación con el suceso ferroviario, incluidos los registros del dispositivo de grabación
+Como primera comunicación acreditada en relación con el SU se considera la notificación del descarrilamiento de los vehículos ferroviarios realizada por el maquinista del tren Pn 67113 al jefe de estación de ŽST Hranice na Moravě město inmediatamente después de la ocurrencia del SU.
+La mencionada comunicación verbal se desprende de las declaraciones registradas prestadas por los empleados implicados, indicadas en el artículo 3.1.1.
+### 3.5.3 Medidas adoptadas para la protección y aseguramiento del lugar del suceso ferroviario
+Las medidas de protección y aseguramiento del lugar del SU fueron garantizadas por el jefe de estación de ŽST Hranice na Moravě město hasta la llegada de la persona autorizada, competente técnicamente, del gestor de la infraestructura y del transporte ferroviario (en adelante, persona autorizada). Tras la llegada de la persona autorizada, las medidas de protección y aseguramiento del lugar del SU fueron adoptadas en colaboración con las autoridades actuantes en el procedimiento penal.
 ### 3.6 Condiciones laborales, sanitarias y de explotación
-
-### 3.6.1 Jornada laboral de los empleados del operador de infraestructura y del operador de transporte ferroviario que fueron participantes del incidente
-
-- El maquinista del tren Pn 67113 comenzó su turno según el calendario de servicios por turnos el 06.03.2007, a las 06:00 h. El descanso previo al turno fue conforme al artículo 90 de la Ley n.º 262/2006 Coll., Código del Trabajo, en la redacción de la Ley n.º 585/2006 Coll.;
-- La jefa de estación de la Estación Ferroviaria de Hranice na Moravě město comenzó su turno según el calendario de servicios por turnos el 06.03.2007, a las 06:00 h. El descanso previo al turno fue conforme al artículo 90 de la Ley n.º 262/2006 Coll., Código del Trabajo, en la redacción de la Ley n.º 585/2006 Coll.;
-- El maestro de vías, empleado de České dráhy, a. s., de la Estación Ferroviaria de Nodos Přerov, comenzó su turno según el calendario de servicios por turnos el 06.03.2007, a las 06:00 h. El descanso previo al turno fue conforme al artículo 90 de la Ley n.º 262/2006 Coll., Código del Trabajo, en la redacción de la Ley n.º 585/2006 Coll.;
-- El responsable del centro de operaciones TO Hranice na Moravě comenzó su turno diurno el 06.03.2007 a las 06:00 h. El descanso previo al turno fue conforme al artículo 90 de la Ley n.º 262/2006 Coll., Código del Trabajo, en la redacción de la Ley n.º 585/2006 Coll.;
-- El maestro de líneas del centro de operaciones TO Hranice na Moravě comenzó su turno diurno el 06.03.2007 a las 06:00 h. El descanso previo al turno fue conforme al artículo 90 de la Ley n.º 262/2006 Coll., Código del Trabajo, en la redacción de la Ley n.º 585/2006 Coll.
-
-### 3.6.2 Estado de salud y situación personal que influyeron en el incidente excepcional, incluido el estrés físico o psicológico
-
-No se detectaron estado de salud ni situaciones personales que influyeran en el incidente excepcional, incluido el estrés físico y psicológico de las personas participantes en el incidente excepcional.
-
-Se realizó una prueba de aliento orientativa al maquinista del tren Pn 67113 para detectar consumo de alcohol por parte de la Policía de la República Checa, Departamento de Hranice na Moravě, con resultado negativo.
-
-### 3.6.3 Disposición del equipamiento del puesto de control o del vehículo, que influye en su manejo y uso.
-
-La disposición del puesto de control y del vehículo no tuvo relación con la ocurrencia del incidente excepcional. Por esta razón, no fue objeto de verificación ni de evaluación.
-
-### 3.7 Incidentes excepcionales anteriores de carácter similar
-
-No está registrada por la Inspección Ferroviaria ninguna incidente excepcional de carácter similar por parte del operador de infraestructura, la sociedad České dráhy, a. s., en los años 2007 y 2006.
-
+### 3.6.1 Jornada laboral de los empleados del gestor de la infraestructura y del transportista que participaron en el suceso
+- el maquinista del tren Pn 67113 inició su turno según el horario del turno de servicio el 06. 03. 2007 a las 06:00 h. El descanso previo al turno fue conforme al § 90 de la ley núm. 262/2006 Sb., Código del Trabajo, en la redacción de la ley núm. 585/2006 Sb.;
+- la jefa de estación de ŽST Hranice na Moravě město inició su turno según el horario del turno de servicio el 06. 03. 2007 a las 06:00 h. El descanso previo al turno fue conforme al § 90 de la ley núm. 262/2006 Sb., Código del Trabajo, en la redacción de la ley núm. 585/2006 Sb.;
+- el jefe de tren, empleado de České dráhy, a. s., Uzlové ŽST Přerov, inició su turno según el horario del turno de servicio el 06. 03. 2007 a las 06:00 h. El descanso previo al turno fue conforme al § 90 de la ley núm. 262/2006 Sb., Código del Trabajo, en la redacción de la ley núm. 585/2006 Sb.;
+- el jefe del centro de explotación TO Hranice na Moravě inició su turno diario el 06. 03. 2007 a las 06:00 h. El descanso previo al turno fue conforme al § 90 de la ley núm. 262/2006 Sb., Código del Trabajo, en la redacción de la ley núm. 585/2006 Sb.;
+- el jefe de vías del centro de explotación TO Hranice na Moravě inició su turno diario el 06. 03. 2007 a las 06:00 h. El descanso previo al turno fue conforme al § 90 de la ley núm. 262/2006 Sb., Código del Trabajo, en la redacción de la ley núm. 585/2006 Sb.
+3.6.2 Estado de salud y situación personal que influyeron en el suceso ferroviario, incluido el estrés físico o psicológico
+No se han detectado estados de salud ni situaciones personales que pudieran haber influido en el SU, incluido el estrés físico y psicológico de las personas implicadas en el SU.
+La prueba de alcoholemia orientativa del maquinista del tren Pn 67113 fue realizada por la Policía de la República Checa, distrito de Hranice na Moravě, con resultado negativo.
+3.6.3 Disposición del equipamiento del puesto de mando o del vehículo que influye en su manejo y uso.
+La disposición del puesto de mando y del vehículo no guardaba relación con la ocurrencia del suceso ferroviario. Por este motivo no fue verificada ni evaluada.
+### 3.7 Sucesos ferroviarios anteriores de carácter similar
+No consta en los registros de la Inspección Ferroviaria ningún suceso ferroviario de carácter similar registrado por el gestor de la infraestructura de la sociedad České dráhy, a. s., en los años 2007 y 2006.
 
 ## Página 21
+
 
 ### 4 ANÁLISIS Y CONCLUSIONES
 
@@ -629,6 +622,7 @@ La locomotora HDV 130.028-4 no sufrió daños durante el incidente excepcional. 
 En el momento de la ocurrencia del incidente excepcional, el sistema de señalización y seguridad (SZZ) en la Estación Ferroviaria de Hranice na Moravě město estaba en funcionamiento. Este hecho está documentado mediante el acta de inspección del funcionamiento del sistema de señalización y seguridad tipo AŽD 71-A con JOP y con el sistema de control remoto AŽD DOZ 1. En el momento de la ocurrencia del incidente excepcional, el sistema de señalización y seguridad había sido transferido a la operación local en la Estación Ferroviaria de Hranice na Moravě město. La ruta de tren para el tren Pn 67113 fue establecida mediante la operación habitual del sistema de señalización y seguridad desde el puesto de la jefa de estación de la Estación Ferroviaria de Hranice na Moravě město, desde la vía de línea
 
 ## Página 22
+
 
 vías en dirección desde la estación de Hranice na Moravě a la vía de estación n.º 3 de la estación de Hranice na Moravě ciudad. El punto de maniobra n.º 5 está equipado con un simple candado de cambio y un candado de control de presión. No sufrió daños como consecuencia del accidente. Mediante el análisis de los datos descargados de los ordenadores tecnológicos y de mando de la instalación de seguridad SZZ ESA 11 en la estación de Hranice na Moravě ciudad, se demostró que la actividad del dispositivo de seguridad fue correcta y que el dispositivo funcionó sin averías.
 
@@ -661,8 +655,8 @@ de medición supera la desviación operativa límite establecida por la norma Č
 | 14 | 22 - | 6 |
 | 15 | 19 - |  |
 
-
 ## Página 23
+
 
 ### las magnitudes medidas de la elevación de la vía (en adelante, EV) para la franja de velocidad (en adelante
 –
@@ -707,6 +701,7 @@ balasto de grava encharcado de ocho espacios intertraviesas entre las bandas de 
 
 ## Página 24
 
+
 no se detectaron defectos en el control de la integridad y sujeción de los elementos de fijación del balasto;
 –
 mediante la medición del desgaste de la punta derecha curvada del punto de conmutación del desvío n.º 5 y del contra-riel derecho mediante la plantilla de medición para la evaluación del estado de las puntas de conmutación y contra-ríles PŠR-3 con plantilla 55, se determinó que en los puntos medidos en el lugar del primer rastro de descarrilamiento (puntos 0, -1, -2, -3) no se superó el ángulo límite de desgaste de 55° y la pendiente del borde rodante es adecuada;
@@ -734,6 +729,7 @@ Mediante la revisión del "Libro de incidencias (inspecciones)" de la unidad ope
 
 ## Página 25
 
+
 inspecciones comisionales periódicas de las agujas en la estación de Hranice na Moravě los días 23 y 24 de enero de 2007. En el acta de realización de la inspección, en presencia del jefe de la unidad operativa TO Hranice na Moravě, se ordenó en la zona de la cruz simple de la aguja n.º 6b la limpieza del balasto de grava embarrado y la reparación del valor límite excedido de la elevación de la vía mediante hincado manual, con plazo de eliminación para el 20 de abril de 2007. Para eliminar las desviaciones de PK excedentes de los LÍMITES OPERATIVOS y las desviaciones OPERATIVAS de PK en la aguja n.º 6ab en la parte n.º 6a y en la aguja n.º 5, el explotador de la vía no adoptó ninguna medida.
 El jefe de la unidad operativa TO Hranice na Moravë, en su explicación sobre la aparición del IE, indicó que el 2 de marzo de 2007, en las horas de la mañana, realizó un control de calidad y la aceptación de los trabajos en la aguja n.º 6ab. Durante el control ya no llovía. Tras la inspección visual, en la que comprobó que las tablas bajo las traviesas no estaban rotas, pero que los espacios intertraviesas aún no se habían secado, constató que la escuadra completaría la reparación y el acabado final del balasto de grava en la semana siguiente.
 ### No verificó el estado de la geometría de la vía mediante ninguna medición, ni ordenó ni realizó ningún otro control extraordinario hasta la aparición del IE. Consideró suficiente la inspección visual realizada el 2 de marzo de 2007.
@@ -744,8 +740,8 @@ La causa del incidente extraordinario fue la circulación de vehículos ferrovia
 En el lugar del IE intervinieron el Servicio de Bomberos y Rescate de los Ferrocarriles Checos, s. a., de Ostrava y Přerov, y la Policía de la República Checa, comisaría de distrito de Hranice na Moravě. El resto de componentes del Sistema Integrado de Rescate no intervinieron.
 La Inspección Ferroviaria, durante la investigación de las causas y circunstancias de la aparición del IE, no detectó ninguna negligencia de las obligaciones del transportista establecidas por la legislación para garantizar la explotación segura de la vía y del tráfico ferroviario.
 
-
 ## Página 26
+
 
 ### 4.3 Conclusiones
 ### 4.3.1 Causas inmediatas del incidente extraordinario, incluidos los factores que contribuyeron a él y que estaban relacionados con la actuación de las personas implicadas o con el estado de los vehículos ferroviarios o de los equipos técnicos
@@ -764,6 +760,7 @@ No se detectaron.
 La Inspección Ferroviaria no detectó deficiencias y omisiones en la investigación de las causas y circunstancias del IE por parte de la persona autorizada y profesionalmente cualificada del explotador de la vía y del tráfico ferroviario, que sin embargo no son relevantes para las conclusiones sobre las causas.
 
 ## Página 27
+
 
 ### 5 MEDIDAS ADOPTADAS
 ### 5.1 Relación de las medidas que ya se han adoptado o tomado como consecuencia del incidente extraordinario.
@@ -788,14 +785,13 @@ director de la Inspección Territorial
 Ostrava
 Ostrava
 
-
 ## Página 28
+
 
 ### 7 ANEXOS
 Vista del vehículo ferroviario remolcado Zaes 35 54 7986 858-8, situado como noveno en la composición del tren de mercancías Pn 67113, en estado descarrilado y dañado tras la detención en la vía de estación n.º 3 de la estación ferroviaria de Hranice na Moravě město.
 
-
 ## Página 29
 
-Vista del bogie delantero descarrilado del vehículo ferroviario Zaes 35 54 7986 858-8 y del mástil de iluminación eléctrica volcado entre la vía de estación n.º 3 y la n.º 5.
-Vista del punto 0 establecido comisionadamente: primera huella tras el descarrilamiento del vehículo Zaes 35 54 7986 858 en el punto kilométrico correspondiente al desvío n.º 5 de la estación de Hranice na Moravě město.
+Vista del bogie delantero descarrilado del TDV Zaes 35 54 7986 858-8 y del poste de iluminación eléctrica volcado entre la vía de estación n.º 3 y la n.º 5.
+Vista del punto 0 determinado por la comisión - la primera huella tras el descarrilamiento del coche Zaes 35 54 7986 858 en el desvío n.º 5 de la EST Hranice na Moravě město.

@@ -10,13 +10,14 @@ chars: 34046
 ratio_longitud: 1.06
 tokens_in: 16061
 tokens_out: 11814
-verificacion: revisar
-notas_cifras: ["bloque 2: cifras cortas: 1/110", "bloque 4: cifras largas: 1/96"]
-avisos: ["bloque 2: marcadores de página: 5 vs 4"]
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 17: cifras largas: 1/16"]
 ---
+
 ## Página 1
+
 
 Centro de Investigación
 de la Oficina Federal de Investigación de Accidentes Ferroviarios
@@ -31,17 +32,17 @@ Suceso peligroso en el servicio ferroviario
 | Número de vía: | 3600 |
 | Kilómetro: | 35 985 , |
 
-
 ## Página 2
+
 
 ## Publicado por: 
 Ministerio Federal de Transporte y Economía Digital
 Oficina Federal de Investigación de Accidentes Ferroviarios  
 Robert-Schuman-Platz 1 
-53175 Bonn 
-
+53175 Bonn
 
 ## Página 3
+
 
 # Índice: 
 ### Página 
@@ -94,18 +95,18 @@ Investigación de los vehículos ...............................................
 4.6.1 
 Datos sobre el tren ............................................................................................... 18 
 4.6.2 
-Vagón 2181 4361 075-4 ..................................................................................... 20 
-
+Vagón 2181 4361 075-4 ..................................................................................... 20
 
 ## Página 4
+
 
 4.7 
 Interpretación de las huellas del accidente ............................................................................ 23 
 ## 5 
-Evaluación y conclusiones ............................................................. 24 
-
+Evaluación y conclusiones ............................................................. 24
 
 ## Página 5
+
 
 # Índice de ilustraciones: 
 Ilustr. 1: Fotografía 4. Eje del rodillo del vagón 21 81 4361 075-4 .......................................... 9 
@@ -118,10 +119,10 @@ Ilustr. 7: Compilación de la composición del tren (los vagones descarrilados e
 Ilustr. 8: Compilación de datos de vehículos y ejes .............................................. 20 
 Ilustr. 9: Lado dañado del eje 86 646 ............................................................................ 21 
 Ilustr. 10: Tuerca de la ranura del lado opuesto con tornillo de seguridad arrancado ......................... 22 
-Ilustr. 11: Lugar del descarrilamiento en el km 35,985 .............................................................................. 23 
-
+Ilustr. 11: Lugar del descarrilamiento en el km 35,985 .............................................................................. 23
 
 ## Página 6
+
 
 # Índice de abreviaturas 
 AEG 
@@ -175,10 +176,10 @@ Ferrocarriles Federales Austríacos
 PZB 
 Control puntual de trenes 
 Ril 
-Directriz 
-
+Directriz
 
 ## Página 7
+
 
 SB 
 Autoridad de seguridad 
@@ -188,6 +189,7 @@ Autoridad de seguridad
 | VZG | Registro de velocidades autorizadas localmente |
 
 ## Página 8
+
 
 # 1 
 # Resumen 
@@ -200,16 +202,16 @@ Meerholz en el pk 35,985. En el pk 41,2 se cae un contenedor del 6.º vagón del
 Desde el lugar del descarrilamiento en el pk 35,985 hasta el pk 42,2 en la estación de Hailer-Meerholz, resultaron dañados el firme de la vía Langenselbold – Hailer-Meerholz, las instalaciones de la técnica de dirección y seguridad, así como las placas de paso a nivel de los pasos a nivel Niedermittlau en el pk 38,050 y Hailer-Meerholz en el pk 40,908. Además, los vagones descarrilados 6 y 7 sufrieron daños graves, y otros vehículos daños parciales. El contenedor que cayó del vagón 6, así como la carga que contenía, quedaron completamente destruidos. 
 ## 1.3 
 ## Causas 
-El descarrilamiento del Kt 41969 se debe a un daño en el cojinete de un eje del vagón en el cuarto eje del eje de rueda en sentido de marcha del vehículo 21 81 436 1 075-4 (Laagss). 
-
+El descarrilamiento del Kt 41969 se debe a un daño en el cojinete de un eje del vagón en el cuarto eje del eje de rueda en sentido de marcha del vehículo 21 81 436 1 075-4 (Laagss).
 
 ## Página 9
 
-Fig. 1: Fotografía del 4.º eje de rueda del vagón 21 81 436 1 075-4 
-Fuente: BPol 
 
+Fig. 1: Fotografía del 4.º eje de rueda del vagón 21 81 436 1 075-4 
+Fuente: BPol
 
 ## Página 10
+
 
 # 2 
 # Observaciones previas 
@@ -222,10 +224,10 @@ Más detalles al respecto se pueden consultar en Internet en >> www.eisenbahn-un
 ## 2.2 
 ## Objetivo de la investigación de accidentes ferroviarios 
 El objetivo y la finalidad de las investigaciones es aclarar las causas de los sucesos peligrosos y extraer de ello indicaciones para mejorar la seguridad. Las investigaciones del EUB no tienen como objetivo determinar la existencia de culpa ni aclarar cuestiones de responsabilidad u otras reclamaciones de derecho civil, y se llevan a cabo de forma independiente de cualquier investigación judicial. 
-La investigación comprende la recopilación y evaluación de información, la elaboración de conclusiones, incluida la determinación de las causas, y, en su caso, la emisión de recomendaciones de seguridad. Las propuestas del organismo de investigación para la prevención de accidentes y la mejora de la seguridad en el tráfico ferroviario se comunican a la autoridad de seguridad y, si es necesario, a otros organismos y autoridades u otros Estados miembros de la UE en forma de recomendaciones de seguridad. 
-
+La investigación comprende la recopilación y evaluación de información, la elaboración de conclusiones, incluida la determinación de las causas, y, en su caso, la emisión de recomendaciones de seguridad. Las propuestas del organismo de investigación para la prevención de accidentes y la mejora de la seguridad en el tráfico ferroviario se comunican a la autoridad de seguridad y, si es necesario, a otros organismos y autoridades u otros Estados miembros de la UE en forma de recomendaciones de seguridad.
 
 ## Página 11
+
 
 ## 2.3 
 ## Partes implicadas y colaboradoras 
@@ -263,7 +265,26 @@ Los daños materiales se componen de la siguiente manera:
 ## Condiciones meteorológicas 
 En el momento del suceso estaba lloviendo. Las condiciones de visibilidad eran buenas.
 
+## Página 12
+
+el conductor del vehículo, este emite una llamada de emergencia a través del GSM-R radio de tren. RB 15622 se detiene en Niedermittlau e IC 1558 en Gelnhausen. 
+Fig. 2: Plano de situación 
+Fuente: © GeoBasis-DE / BKG 2015 editado por EUB 
+## 3.2 
+## Fallecidos, heridos y daños materiales 
+No hubo personas heridas como consecuencia del suceso. 
+Los daños materiales se desglosan de la siguiente manera: 
+ 
+|  | Superestructura, instalaciones de señalización y de |  |  |
+|  | enclavamiento | aprox. | 2 920 000 00 € . . , |
+|  | Daños en el material rodante | aprox. | 38 000 00 € . , |
+|  | Costes de salvamento | aprox. | 17 096 00 € . , |
+## 3.3 
+## Condiciones meteorológicas 
+En el momento del suceso estaba lloviendo. La visibilidad era buena.
+
 ## Página 13
+
 
 # 4 
 # Acta de investigación 
@@ -275,10 +296,10 @@ Jefe de tren en Rotterdam Wallhaven Zuid
 Indicó que, en su turno de trabajo L-3121, realizó la inspección técnica de los vagones y la ejecución de una prueba de frenado completa del tren 41969. Durante su inspección técnica no detectó irregularidades en el tren. En el cojinete de rueda no le llamó la atención nada inusual. 
 ## 4.2 
 ## Gestión de emergencias 
-De conformidad con el apartado 3 del artículo 4 de la Ley General de Ferrocarriles (AEG), las empresas ferroviarias tienen la obligación de colaborar en las medidas de protección contra incendios y de asistencia técnica. En un acuerdo entre los ministerios del Interior de los Länder y la DB AG se llegó a un entendimiento sobre el procedimiento a seguir. Para DB Netz AG son aplicables las correspondientes leyes de protección contra incendios y catástrofes de los Länder. La gestión de emergencias de DB AG se describe y regula con mayor detalle en la Directriz (Ril) 123. 
-
+De conformidad con el apartado 3 del artículo 4 de la Ley General de Ferrocarriles (AEG), las empresas ferroviarias tienen la obligación de colaborar en las medidas de protección contra incendios y de asistencia técnica. En un acuerdo entre los ministerios del Interior de los Länder y la DB AG se llegó a un entendimiento sobre el procedimiento a seguir. Para DB Netz AG son aplicables las correspondientes leyes de protección contra incendios y catástrofes de los Länder. La gestión de emergencias de DB AG se describe y regula con mayor detalle en la Directriz (Ril) 123.
 
 ## Página 14
+
 
 De acuerdo con el concepto de rescate de la central de gestión de emergencias en el centro de control de Frankfurt/M, se notificó al gestor de emergencias local competente a las 16:18 horas. La llegada del gestor de emergencias (Nmg) está documentada a las 16:36 horas. Aproximadamente a las 16:22 horas se informó a la Policía Federal y a la EUB. Para las operaciones de recuperación se solicitaron los siguientes vehículos de asistencia técnica: 
 ### Solicitud por parte de Nflst 
@@ -331,10 +352,10 @@ Estación Hailer-Meerholz;
 22.01. / 4:25 horas 
 Vía 303 
 Fig. 4: Resumen de los periodos de clausura 
-No se detectaron irregularidades ni retrasos con respecto al inicio de las medidas de rescate. 
-
+No se detectaron irregularidades ni retrasos con respecto al inicio de las medidas de rescate.
 
 ## Página 15
+
 
 ## 4.3 
 ## Investigación de la infraestructura 
@@ -379,6 +400,7 @@ Constataciones en km
 
 ## Página 16
 
+
 |  |  | 41 060 y 41 773 , , |  |
 | 15 11 2011 . . | Inspección de los desvíos 301 y 306 en la estación de Hailer-Meerholz por parte del personal de la vía según encargo SAP | sin hallazgos |  |
 | 23 11 2011 . . | Recorrido de inspección de la vía por parte de ALV Vía según encargo SAP | sin hallazgos en el área del lugar del descarrilamiento |  |
@@ -397,8 +419,8 @@ Datos/Instalación
 195 en km 95,555
 197 en km 55,661a
 
-
 ## Página 17
+
 
 | Temperatura ambiente [°C] | +13 | +8 |
 | Temperatura izquierda [°C] | +38 | +445 , |
@@ -414,8 +436,8 @@ La gestión de la explotación en la línea VZG 3600 entre Langenselbold y Haile
 ## Conductor del tren Kt 41969
 La evaluación del registro electrónico de viajes (EFR) se realizó en la locomotora 185 352-2 de DB Schenker Rail Deutschland AG / Gestión de series Südwest. La locomotora está equipada con un dispositivo de seguridad de tren inductivo del tipo LZB80/180, sistema PZB 90. El almacenamiento de datos de la EFR se realizó en una DSK 20. En el panel de datos se habían introducido el tipo de frenado 4 y 80 centésimas de frenada. A las 15:36:32 horas (hora DSK), el Kt 41969 salió de la estación de Frankfurt/M Ost tras una parada de servicio con cambio de personal de la locomotora. A las 16:01:44 horas (hora DSK), a una velocidad de 75 km/h, se realizó la transferencia al modo de transmisión LZB. A una velocidad registrada de 98 km/h, aproximadamente a las 16:10:58 horas (hora DSK), el tren volvió a pasarse al
 
-
 ## Página 18
+
 
 modo PZB. A las 16:11:43 horas (hora DSK) se constató una caída de presión de la tubería principal de aire comprimido a una velocidad de 82 km/h. A continuación, el registro de viaje muestra una distancia de frenado del tren de 260 m en un periodo de 21 s. La parada del vehículo líder se registró a las 16:12:04 horas según la hora DSK. La velocidad máxima permitida del tren de 100 km/h se mantuvo durante la circulación en el área investigada.
 Fig. 6: Representación gráfica - EFR - Loco 185352
@@ -426,8 +448,8 @@ El conductor está en posesión de un cuaderno de licencia de conductor de locom
 ## Datos sobre el tren
 El tren 41969 se formó con una locomotora de cabeza de la serie 185 y 19 vagones cargados, así como 4 vagones vacíos. El tren, que no contenía mercancías peligrosas, tenía una longitud de 578 m y el peso del tren de vagones era de 1.391 t. Según la hoja de frenado de la estación de Neuss Gbf, se requerían 75 centésimas mínimas de frenada y se alcanzaron 87 centésimas mínimas de frenada.
 
-
 ## Página 19
+
 
 N.º de orden
 N.º de vagón
@@ -579,6 +601,7 @@ Fig. 7: Compilación del tren de vagones (los vagones descarrilados están sombr
 
 ## Página 20
 
+
 Debido a las huellas de descarrilamiento, se renunció a una investigación exhaustiva de todo el tren y el foco de la investigación se centró en el cuarto vagón que circulaba en sexta posición.
 ## 4.6.2 
 ## Vagón 2181 436 1 075-4 
@@ -593,30 +616,30 @@ Fig. 8: Recopilación de datos del vehículo y del eje
 Con la excepción del eje dañado, no se pudieron realizar otras constataciones causantes del descarrilamiento en el vagón, aparte de los daños secundarios provocados por el descarrilamiento. 
 Según el historial de ÖBB Technische Services GmbH en Knittelfeld del 02.02.2012, la última inspección antes del incidente se realizó el 12.12.2011 en el taller de ÖBB en Wels. 
 En dicha ocasión se sustituyeron 12 pastillas de freno y se realizó un engrase a demanda.  
-La última etapa de mantenimiento 3 para el eje 86 646 se documentó el 21.04.2009. Los procesos de reparación y montaje de la mecanización del eje se registran en Rail Cargo Austria AG en un sistema informático. Para ello, el responsable se identifica mediante un código de barras. Tras finalizar su actividad en el eje, se da de baja en el sistema informático para liberar la siguiente posición de procesamiento. El contenido de la lista de pedidos informáticos presentada para el mantenimiento 3 los días 15 y 16.04.2009 es coherente y verificable. El siguiente mantenimiento programado del eje estaba previsto para el 01.04.2022.  
-
+La última etapa de mantenimiento 3 para el eje 86 646 se documentó el 21.04.2009. Los procesos de reparación y montaje de la mecanización del eje se registran en Rail Cargo Austria AG en un sistema informático. Para ello, el responsable se identifica mediante un código de barras. Tras finalizar su actividad en el eje, se da de baja en el sistema informático para liberar la siguiente posición de procesamiento. El contenido de la lista de pedidos informáticos presentada para el mantenimiento 3 los días 15 y 16.04.2009 es coherente y verificable. El siguiente mantenimiento programado del eje estaba previsto para el 01.04.2022.
 
 ## Página 21
+
 
 Para aclarar la rotura del brazo del eje, el eje causante fue sometido a una investigación adicional. El encargo de investigación se transfirió a DB Systemtechnik; Departamento especializado Ejes en 32423 Minden. En resumen, las investigaciones realizadas arrojaron lo siguiente: 
 1. Investigaciones y evaluaciones del lado del cojinete A 
 En el lado del cojinete A (lado derecho de la dirección de marcha) se encuentra el lado dañado (rotura del brazo del eje) del eje. Se examinó el estado de los componentes del cojinete. Se constató específicamente que la tapa del cojinete y el cierre del cojinete (rosca de la tuerca de seguridad destruida o desgastada) estaban dañados. El anillo interior delantero seguía estando presente. El anillo interior trasero y el anillo laberíntico estaban fusionados con el brazo del eje. La rotura del brazo se encontraba a unos 170 mm del hombro del eje (el punto de fractura se situaba bajo el anillo interior delantero). 
 Fig. 9: Lado dañado del eje 86 646 
 Fuente: Informe DB Systemtechnik 12-17177-T.TVI22-054-004/V1.1 del 27.07.2012 
-La chapa de seguridad estaba presente y atornillada firmemente a la tuerca de seguridad. La jaula de poliamida y la grasa estaban completamente quemadas. Los anillos exteriores del rodamiento se conservaban aún en muy buen estado. Por consiguiente, a pesar de la destrucción del brazo del eje, puede descartarse un daño por fatiga debido a la evaluación de las pistas de rodadura en la zona de carga por parte del rodamiento o de los anillos exteriores. La rosca de la tuerca de seguridad estaba completamente desgastada. El desgaste completo de la rosca de la tuerca de seguridad permite concluir que, 
-
+La chapa de seguridad estaba presente y atornillada firmemente a la tuerca de seguridad. La jaula de poliamida y la grasa estaban completamente quemadas. Los anillos exteriores del rodamiento se conservaban aún en muy buen estado. Por consiguiente, a pesar de la destrucción del brazo del eje, puede descartarse un daño por fatiga debido a la evaluación de las pistas de rodadura en la zona de carga por parte del rodamiento o de los anillos exteriores. La rosca de la tuerca de seguridad estaba completamente desgastada. El desgaste completo de la rosca de la tuerca de seguridad permite concluir que,
 
 ## Página 22
+
 
 la tuerca de seguridad se había aflojado y el anillo interior delantero se había girado como consecuencia. Resulta llamativo que la tuerca de seguridad suelta seguía estando presente junto con la chapa de seguridad atornillada. Por consiguiente, no puede descartarse la pérdida de la precarga, lo que habría permitido el movimiento de la tuerca de seguridad dentro de las tolerancias de fabricación admisibles entre la ranura de arrastre en el extremo del brazo del eje y la chapa de seguridad.   
 2. Investigaciones y evaluaciones del lado del cojinete B 
 También se examinó el estado de los componentes del cojinete. No se constataron daños en la tapa del cojinete ni en el rodamiento. Se instaló una jaula de poliamida. En cuanto al engrase, la lubricación y la distribución de la grasa, aparentemente no había incidencias y se encontraba un estado de lubricación conforme a las condiciones. En el atornillado del cierre del eje se constató que la tuerca de seguridad solo estaba atornillada a mano y que un tornillo de seguridad estaba cortado. La medida de la holgura entre el anillo interior trasero y el anillo laberíntico mostraba un valor de > 0,15 mm. 
 Fig. 10: Tuerca de seguridad del lado opuesto con tornillo de seguridad cortado 
 Fuente: Informe DB Systemtechnik 12-17177-T.TVI22-054-004/V1.1 del 27.07.2012 
-La medición geométrica del diámetro del brazo del eje en el asiento del anillo interior delantero y trasero, así como del diámetro del agujero del anillo interior delantero y trasero, no presentaban anomalías. 
-
+La medición geométrica del diámetro del brazo del eje en el asiento del anillo interior delantero y trasero, así como del diámetro del agujero del anillo interior delantero y trasero, no presentaban anomalías.
 
 ## Página 23
+
 
 3. Investigaciones en los demás ejes presentes en el vagón 
 Adicionalmente, se realizaron investigaciones en los 3 ejes restantes (números de eje 107088, 308357 y 95639) del vagón causante descarrilado 21 81 4361 075-4. El foco de esta investigación se dirigió hacia el asentamiento firme del cierre del eje, garantizado por la tuerca de seguridad y una chapa de seguridad con dos tornillos de seguridad. La investigación arrojó que en los 3 ejes restantes del vagón todos los cierres del eje no presentaban hallazgos. 
@@ -629,6 +652,7 @@ Se asume que el cuarto eje del vagón, situado en sexta posición en el tren, de
 Posteriormente, se produjo el descarrilamiento del tercer eje y el descarrilamiento del primer bogie del vagón que seguía en la dirección de marcha. Durante el descarrilamiento, el
 
 ## Página 24
+
 
 los contenedores cargados en el sexto vagón, en el pk 41,2, hacia la izquierda del vagón. La cabeza del tren se detuvo en el pk 42,0.  
 # 5 

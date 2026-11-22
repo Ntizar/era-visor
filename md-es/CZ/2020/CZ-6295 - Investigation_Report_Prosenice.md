@@ -10,13 +10,14 @@ chars: 209177
 ratio_longitud: 1.25
 tokens_in: 111362
 tokens_out: 79774
-verificacion: revisar
-notas_cifras: ["bloque 4: cifras largas: 1/26; cifras cortas: 17/142", "bloque 6: original bilingüe: se compara contra el idioma principal (CS)", "bloque 9: cifras cortas: 4/131", "bloque 13: original bilingüe: se compara contra el idioma principal (CS)", "bloque 14: original bilingüe: se compara contra el idioma principal (CS)", "bloque 16: original bilingüe: se compara contra el idioma principal (CS)"]
-avisos: ["bloque 14: ratio 1.62", "bloque 16: ratio 1.65"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 5: original bilingüe: se compara contra el idioma principal (CS)", "página 6: original bilingüe: se compara contra el idioma principal (CS)", "página 10: original bilingüe: se compara contra el idioma principal (CS); ratio 2.01", "página 11: original bilingüe: se compara contra el idioma principal (CS)", "página 14: original bilingüe: se compara contra el idioma principal (CS)", "página 22: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -43,13 +44,13 @@ IČ: 75009561
 mail@dicr.cz
 tel.: +420 736 521 003
 
-
 ## Página 2
+
 
 El presente informe final es público y todos los hechos en él expuestos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ## 1 RESUMEN
 Fuente: Správa železnic, státní organizace
@@ -87,8 +88,8 @@ con catenaria inoperativa.
 No fue detectada ninguna causa sistémica por la Drážní inspekce.
 No fue emitida ninguna recomendación de seguridad por la Drážní inspekce.
 
-
 ## Página 4
+
 
 ## SUMMARY
 4th July 2020, 12:00 (10:00 GMT).
@@ -135,8 +136,8 @@ none.
 Recommendation:
 not issued.
 
-
 ## Página 5
+
 
 # Índice
 1 RESUMEN........................................................................................................................3
@@ -187,6 +188,7 @@ ferroviaria o de las instalaciones técnicas....................................
 
 ## Página 6
 
+
 4.2.2 Factores o consecuencias derivados de la instalación y puesta en servicio de vehículos ferroviarios, infraestructura ferroviaria o instalaciones técnicas......................................55
 4.2.3 Factores o consecuencias relacionados con los fabricantes de vehículos ferroviarios u otro proveedor de productos ferroviarios............................................................................55
 4.2.4 Factores o consecuencias derivados del mantenimiento y modificación de vehículos ferroviarios o instalaciones técnicas....................................................................................................55
@@ -216,8 +218,8 @@ y de los talleres de mantenimiento..............................................
 6 RECOMENDACIONES DE SEGURIDAD.....................................................................................62
 ANEXOS..............................................................................................................................64
 
-
 ## Página 7
+
 
 ### Lista de siglas y símbolos utilizados
 AB
@@ -303,8 +305,8 @@ Informe final sobre los resultados de la investigación del suceso extraordinari
 žst.
 estación de ferrocarril
 
-
 ## Página 8
+
 
 ### Lista de siglas de la legislación, normas y reglamentos internos utilizados
 ley núm. 266/1994 Sb.
@@ -352,8 +354,8 @@ reglamento interno del gestor de infraestructura SŽ «Reglamento de la estació
 de ferrocarril PROSENICE», en la redacción vigente 
 en el momento de la ocurrencia del SU
 
-
 ## Página 9
+
 
 ČSN 34 1530
 norma técnica ferroviaria «ČSN 34 1530 Instalaciones ferroviarias 
@@ -382,45 +384,51 @@ LE
 OPERATIVO-ORGANIZATIVO (LE-POP)», en la redacción vigente 
 en el momento de la ocurrencia del SU
 
-
 ## Página 10
 
-## 2 INVESTIGACIÓN Y SU CONTEXTO
+## 2 INVESTIGACIÓN Y SUS RELACIONES
 ### 2.1 Decisión de iniciar la investigación
-La DI decidió iniciar la investigación del SU objeto de estudio el 9. 7. 2020.
+El DI decidió iniciar la investigación de la MU en cuestión el 9 de 7 de 2020.
 ### 2.2 Fundamentación de la decisión de iniciar la investigación
-La DI decidió investigar el SU objeto de estudio a petición del transportista del tren Ex 1251, 
-es decir, de la empresa LE, de fecha 7. 7. 2020, recibida por la DI el 8. 7. 2020, en relación con su 
-gravedad, sucesión y el impacto del SU en el gestor de infraestructura y los transportistas.
-### 2.3 Alcance y limitaciones de la investigación, incluida la fundamentación correspondiente
-La DI, en el marco de la investigación del SU objeto de estudio, se enfrentó a limitaciones derivadas del hecho de 
-que no participó en la investigación inicial en el lugar de ocurrencia del SU, lo que sin embargo no afectó negativamente al 
-método y a los procedimientos de investigación del SU. Lo anterior influyó en la imposibilidad de que la DI pudiera profundizar en el 
-análisis y determinar las causas de la avería técnica – el defecto oculto del material del anclaje del cable de sustentación de la 
-catenaria, que provocó su rotura y que precedió a la circulación del tren Ex 1251 en la estación de Prosenice. 
-Dado que la DI no participó en la investigación inicial – inspección del lugar del SU –, no pudieron ser asegurados por los inspectores de la DI en el lugar del SU los extremos rotos del referido anclaje, y por ello la DI 
-decidió no examinarlos.
-### 2.4 Descripción resumida de las capacidades y funciones técnicas del equipo de investigación
-Investigación de la DI en el lugar del SU:
-La DI no participó en la investigación en el lugar del SU.
+El DI decidió investigar la MU en cuestión a petición del transportista del tren Ex 1251, 
+es decir, de la empresa LE, de fecha 7 de 7 de 2020, entregada al DI el 8 de 7 de 2020, en 
+relación con su gravedad, secuencia y con los efectos de la MU sobre el gestor de la 
+infraestructura y los transportistas.
+### 2.3 Alcance y limitaciones de la investigación, incluida la correspondiente fundamentación
+El DI, en el marco de la investigación de la MU en cuestión, se enfrentó a limitaciones 
+derivadas del hecho de que no participó en la investigación inicial en el lugar donde se 
+produjo la MU, lo que sin embargo no influyó negativamente en el modo y los procedimientos 
+de investigación de la MU. Lo anterior influyó en la imposibilidad de que el DI pudiera 
+profundizar en el estudio y averiguar las causas del defecto técnico – el defecto oculto del 
+material del travesaño de anclaje del cable portante del TV, que provocó su rotura y que 
+precedió a la circulación del tren Ex 1251 en la estación de Prosenice. Dado que el DI no 
+participó en la investigación inicial – inspección del lugar de la MU –, los extremos 
+arrancados del mencionado travesaño de anclaje no pudieron ser asegurados por los 
+inspectores del DI en el lugar de la MU, y por ello el DI decidió no examinarlos.
+### 2.4 Descripción resumida de las capacidades técnicas y funciones del equipo de investigación
+Investigación del DI en el lugar de la MU:
+El DI no participó en la investigación en el lugar de la MU.
 Constitución del equipo de investigación:
 no fue necesario constituirlo.
-Colaboración externa:
+Cooperación externa:
 no se utilizó.
 2.5. Comunicación y consultas durante la investigación con las personas o entidades 
-que participaron en el suceso
-En la investigación de las causas y circunstancias de la ocurrencia del SU, la DI se basó principalmente en sus propios conocimientos, 
-hallazgos y en su propia documentación fotográfica realizada tras el inicio de su propia investigación. Durante la 
-investigación, la DI solicitó a continuación la documentación realizada durante la investigación al gestor de infraestructura SŽ 
-y a los transportistas LE y ČD.
-La investigación de las causas y circunstancias de la ocurrencia del SU se realizó de acuerdo con la ley núm. 266/1994 Sb. 
+que participaron en el suceso en cuestión
+En la investigación de las causas y circunstancias de la aparición de la MU, el DI se 
+basó principalmente en sus propios conocimientos, hallazgos y en su propia documentación 
+fotográfica realizada tras el inicio de su propia investigación. Durante la investigación, 
+el DI solicitó posteriormente la documentación realizada durante la investigación al gestor 
+de la infraestructura SŽ y a los transportistas LE y ČD.
+La investigación de las causas y circunstancias de la aparición de la MU se realizó de 
+conformidad con la ley núm. 266/1994 Sb. 
 y el decreto núm. 376/2006 Sb.
-### 2.6 Descripción del nivel de colaboración ofrecido por las entidades implicadas
-El nivel de colaboración con los representantes de las entidades implicadas en el SU fue estándar; 
-la DI recibió la información requerida para la investigación de las causas y circunstancias de la ocurrencia del SU.
-
+### 2.6 Descripción del nivel de cooperación ofrecido por las entidades participantes
+El nivel de cooperación con los representantes de las entidades participantes en la MU 
+fue estándar; la información requerida para la investigación de las causas y circunstancias 
+de la aparición de la MU fue facilitada al DI.
 
 ## Página 11
+
 
 ### 2.7 Descripción de la investigación, los métodos y las técnicas utilizados para acreditar los hechos 
 y los hallazgos recogidos en el informe
@@ -473,6 +481,7 @@ Coordenadas GPS:
 
 ## Página 12
 
+
 ### 3.1.3 Descripción del lugar del suceso
 La estación de Prosenice se encuentra en ferrocategorías ferroviarias de categoría nacional, Prosenice – Přerov, Bohumín – Prosenice y Prosenice – Česká Třebová. Todas las líneas nacionales se encuentran en los tramos intermedios adyacentes, es decir, Prosenice – Přerov, Prosenice – Lipník nad Bečvou y Prosenice – enclavamiento Dluhonice, son de vía doble y están electrificadas (electrificadas) con sistema de tracción de corriente continua con alimentación de 3 kV.
 ### Fig. n.º 1: Esquema del lugar de origen del SU.
@@ -490,8 +499,8 @@ en el lugar del SU se detectó daño en las piezas (componentes) de la TV:
 •
 ◦el anclaje de tensión del cable portante roto en el punto de división mecánico/eléctrico de la ÚO 411,
 
-
 ## Página 13
+
 
 ◦daño en 30 soportes (colgadores) del hilo de catenaria, 1 soporte lateral y cable portante de
 sección 120 mm2 con una longitud de 50 m, en el sentido de circulación del tren Ex 1251 en el espacio
@@ -545,8 +554,8 @@ rehabilitación de los pórticos de TV y en la adaptación de TV en los tramos e
 SZZ de la estación de Prosenice relacionados con la inserción de los nuevos desvíos n.º 27X y 31X,
 incl. el enlace de vía de los mencionados desvíos y la adaptación de la geometría
 
-
 ## Página 14
+
 
 de la vía de la SK n.º 4, que se estaban llevando a cabo en el momento de la producción del SU según el ROV 13032 «Reconstrucción de la estación de Přerov – 2.ª obra», etapa A, y el ROV 13069 «Aumento de velocidad y reparación del dispositivo de señalización en la estación de Prosenice», etapa G. En los tramos de las líneas Prosenice – Přerov y Prosenice – enclavamiento Dluhonice se implantó un servicio de vía única, bidireccional, conducido por la TK n.º 1, respectivamente 2S (véase también el punto 3.1.8 de la presente ZZ). Los trenes circulaban por las mencionadas TK sin estar sujetos, con la excepción de los envíos de vehículos claramente definidos por el ROV 13032 con medida de carga excedida, a ninguna medida operativa y de circulación (limitación).
 ### 3.1.4 Fallecimientos, lesiones y daños materiales
@@ -589,8 +598,8 @@ SŽ;
 jefe de despacho CDP Přerov, empleado de SŽ.
 •
 
-
 ## Página 15
+
 
 Sujetos implicados:
 El propietario de la línea ferroviaria de categoría nacional Prosenice – Přerov era la República Checa. El derecho de administrar los bienes del Estado lo ejercía SŽ, con domicilio en Dlážděná 1003/7, Praga 1, CP 110 00, que era a la vez el operador de dicha línea.
@@ -639,8 +648,8 @@ repetidor de señales VZ se apagó el anillo amarillo. Durante la
 circulación posterior del tren, en el repetidor de señales VZ solo
 brillaba intermitentemente la luz azul;
 
-
 ## Página 16
+
 
 el maquinista, a una velocidad de 52 km·h-1, a una distancia de 285 m tras
 a las 11:00:35 h
@@ -699,6 +708,7 @@ modo de trabajo «Servicio», y durante la maniobra posterior se utilizó en el 
 
 ## Página 17
 
+
 Notas sobre el tren Ex 
   51:
 la estación de origen del tren era Praha hl. n., y la estación de destino era Karviná hl. n.;
@@ -737,8 +747,8 @@ y los parámetros de velocidad a km·h-1 completos, entre otros, se desprende qu
 | • a las 12:00:34 h | aparición de la MU – colisión del vehículo de la sección líder „B“ con la parte colgante del conjunto TV, lo que entre otros provocó un cortocircuito en el TV y la desconexión , . de los interruptores de alimentación del TV. El tren, circulando a una velocidad de 60 km·h-1, se encontraba . a una distancia de 136 m antes del punto de parada tras la aparición de la MU . En el mismo segundo y a la misma velocidad se registra la desconexión del interruptor principal provocada por la acción de la protección de subtensión de la DV tras la pérdida de tensión en el TV. El tren se encontraba 132 m antes del punto de parada . tras la aparición de la MU; |
 | • a las 12:00:36 h | el maquinista accionó la palanca de conducción a la posición de freno. El tren, circulando a una velocidad de 60 km·h-1, se encontraba a una distancia de 111 m antes del punto de parada tras la aparición de la MU; |
 
-
 ## Página 18
+
 
 a las 12:00:39 h
 se registra la bajada del colector del vehículo de la sección „D“ (colisión 
@@ -794,49 +804,29 @@ estaban provistos de anclajes, los llamados puntos fijos.
 La velocidad máxima de construcción del TV para la circulación de DV de construcción normal estaba, en el momento de la aparición de la MU, 
 fijada en 140 km·h-1.
 
-
 ## Página 19
 
-El TV de la vía general, es decir, el TK n.º 1 Přerov – Prosenice, el TK n.º 2 Prosenice – Přerov, el TK n.º 1S 
-Prosenice – enclavamiento de Dluhonice y el TK n.º 2S enclavamiento de Dluhonice – Prosenice, respectivamente, el TK n.º 1 
-Prosenice – Lipník nad Bečvou y el TK n.º 2 Lipník nad Bečvou – Prosenice, formaba 
-secciones eléctricas independientes, que estaban separadas de los conjuntos del TV de la est. de Prosenice 
-mediante deslindes mecánicos/eléctricos. Estos deslindes estaban situados en las cabeceras de Přerov, 
-Dluhonice y Lipník de la estación. El deslinde mecánico/eléctrico – el propio intercambio de 
-conjuntos (del tramo de anclaje) en las cabeceras de Přerov y Dluhonice se encontraba en el conjunto del TV 
-de las SK explotadas (véase el punto 3.1.3 de esta ZZ), que son la continuación de:
-TK n.º 1 Přerov – Prosenice, se encontraba entre los TP n.º 93/94 y los TP n.º 91/92. En el conjunto 
+La TV de la vía ancha, es decir, TK n.º 1 Přerov – Prosenice, TK n.º 2 Prosenice – Přerov, TK n.º 1S Prosenice – aguja de enlace Dluhonice y TK n.º 2S aguja de enlace Dluhonice – Prosenice, respectivamente TK n.º 1 Prosenice – Lipník nad Bečvou y TK n.º 2 Lipník nad Bečvou – Prosenice, constituían tramos eléctricos independientes, que estaban separados de los conjuntos de TV de la estación de Prosenice mediante secciones mecánicas/eléctricas. Dichas secciones estaban situadas en las entradas de Přerov, Dluhonice y Lipník de la estación. La sección mecánica/eléctrica – el propio cambio de conjuntos (tramo de anclaje) en las entradas de Přerov y Dluhonice en el conjunto de TV operado por SK (véase el punto 3.1.3 de la presente ZZ), que son la continuación:
+TK n.º 1 Přerov – Prosenice, se encontraba entre el TP n.º 93/94 y el TP n.º 91/92. En el conjunto
 •
-del TV, dicho deslinde fue identificado por el explotador de la vía como ÚO 411. El tramo de anclaje 
-adyacente del TK n.º 1 estaba anclado en la est. de Prosenice mediante un soporte lateral 
-y un aislador en la suspensión del pórtico portante entre los TP n.º 89 y 90 y 
-mediante los soportes de anclaje del hilo de catenaria y del cable portante a los TP n.º 87, y ello con un anclaje móvil. 
-El tramo de anclaje de la SK, que es la continuación del TK n.º 2S (parte 
-desde el deslinde mecánico/eléctrico hasta el cambio extremo n.º 30), respectivamente, la continuación de la SK 
-n.º 3a y 3 en la cabecera P/D, y la parte de la SK n.º 3, estaba anclado en la cabecera de Dluhonice 
-mediante los soportes de anclaje del hilo de catenaria y del cable portante a los TP n.º 95, 
-con un anclaje móvil. En el extremo opuesto, este tramo de anclaje 
-estaba anclado mediante soportes de anclaje a los TP n.º 53, 
-también de forma móvil.
-El TV de la est. de Prosenice sobre la SK de la cabecera de Přerov, que es la continuación del TK n.º 1 Přerov – 
-Prosenice (parte desde el deslinde mecánico/eléctrico hasta el cambio extremo n.º 29), la SK, que es la continuación de la SK 
-n.º 1 en la cabecera P/D, la SK n.º 1, la SK, que es la continuación de la SK n.º 1 en 
-la cabecera de Lipník, y la SK de la cabecera de Lipník, que es la continuación del TK n.º 1 Prosenice – 
-Lipník nad Bečvou (parte desde el cambio extremo n.º 1 hasta el deslinde mecánico/eléctrico), estaba 
-(excluidos los conjuntos conexos – los tramos de anclaje de los enlaces de vía) formado por 2 conjuntos 
-(tramos de anclaje) anclados entre:
-### los TP n.º 97 y 45, con anclaje móvil por ambos lados, con un punto fijo formado por 
+TV, la sección en cuestión fue designada por el gestor de la vía como ÚO 411. El tramo de anclaje adyacente del TK n.º 1 estaba anclado en la estación de Prosenice mediante un soporte lateral y un aislador en la suspensión del pórtico portante entre el TP n.º 89 y 90, y mediante los soportes de anclaje del hilo de contacto y del cable portante al TP n.º 87, con anclaje móvil. El tramo de anclaje de la SK, que es la continuación del TK n.º 1 Prosenice – Přerov (parte desde la sección mecánica/eléctrica hasta la aguja extrema n.º 29), respectivamente la continuación de la SK n.º 1 en la entrada P/D y la parte adyacente de la SK n.º 1, estaba anclado en la entrada de Přerov mediante un soporte lateral y un aislador en la suspensión del pórtico portante entre el TP n.º 95
+### y 96, y mediante los soportes de anclaje del hilo de contacto y del cable portante al TP
+### n.º 97, también con anclaje móvil. En el extremo opuesto, este tramo de anclaje
+estaba anclado mediante un soporte lateral y un aislador de la suspensión del pórtico portante entre el TP n.º 47 y 48, y mediante soportes de anclaje al TP n.º 45 de forma móvil, véase más abajo;
+TK n.º 2S aguja de enlace Dluhonice – Prosenice, se encontraba entre el TP n.º 93/94 y el TP
 •
-el anclaje al pórtico portante doble del TV entre los TP n.º 71 y 72, véase arriba;
-los TP n.º 55 y 1, con anclaje móvil por ambos lados, con un punto fijo formado por 
+n.º 91/92. Dicha sección eléctrica fue designada en el conjunto de TV por el gestor de la vía como ÚO 421. El tramo de anclaje adyacente del TK n.º 2S estaba anclado en la estación de Prosenice mediante los soportes de anclaje del hilo de contacto y del cable portante al TP n.º 89, con anclaje móvil. El tramo de anclaje de la SK, que es la continuación del TK n.º 2S (parte desde la sección mecánica/eléctrica hasta la aguja extrema n.º 30), respectivamente la continuación de la SK n.º 3a y 3 en la entrada P/D, y la parte de la SK n.º 3, estaba anclado en la entrada de Dluhonice mediante los soportes de anclaje del hilo de contacto y del cable portante al TP n.º 95, con anclaje móvil. En el extremo opuesto, este tramo de anclaje estaba anclado mediante soportes de anclaje al TP n.º 53, también de forma móvil.
+La TV de la estación de Prosenice sobre la SK de la entrada de Přerov, que es la continuación del TK n.º 1 Přerov – Prosenice (parte desde la sección mecánica/eléctrica hasta la aguja extrema n.º 29), la SK, que es la continuación de la SK n.º 1 en la entrada P/D, la SK n.º 1, la SK, que es la continuación de la SK n.º 1 en la entrada de Lipník, y la SK de la entrada de Lipník, que es la continuación del TK n.º 1 Prosenice – Lipník nad Bečvou (parte desde la aguja extrema n.º 1 hasta la sección mecánica/eléctrica), estaba formada (a excepción de los conjuntos consecutivos – tramos de anclaje de los enlaces de vía) por 2 conjuntos (tramos de anclaje) anclados entre:
+### TP n.º 97 y 45, con anclaje móvil por ambos lados, con un punto fijo formado por
 •
-el anclaje al pórtico portante doble del TV entre los TP n.º 29 y 30.
-El TV de la est. de Prosenice sobre la SK de la cabecera de Přerov, que es la continuación del TK n.º 2 Prosenice – 
-Přerov (parte desde el deslinde mecánico/eléctrico hasta el cambio extremo n.º 27), la SK, que es la continuación de la SK 
-n.º 2 en la cabecera P/D, la SK n.º 2, la SK, que es la continuación de la SK n.º 2 en 
-la cabecera de Lipník, y la SK de la cabecera de Lipník, que es la continuación del TK n.º 2 Lipník nad Bečvou
+el anclaje al doble pórtico portante de la TV entre el TP n.º 71 y 72, véase más arriba;
+TP n.º 55 y 1, con anclaje móvil por ambos lados, con un punto fijo formado por
+•
+el anclaje al doble pórtico portante de la TV entre el TP n.º 29 y 30.
+La TV de la estación de Prosenice sobre la SK de la entrada de Přerov, que es la continuación del TK n.º 2 Prosenice – Přerov (parte desde la sección mecánica/eléctrica hasta la aguja extrema n.º 27), la SK, que es la continuación de la SK n.º 2 en la entrada P/D, la SK n.º 2, la SK, que es la continuación de la SK n.º 2 en la entrada de Lipník, y la SK de la entrada de Lipník, que es la continuación del TK n.º 2 Lipník nad Bečvou
 
 ## Página 20
+
 
 – Prosenice (parte desde la aguja extrema n.º 2 hasta la división mecánica/eléctrica), estaba (excepto los conjuntos consecutivos – tramos anclados de juntas de vía) formado por 2 conjuntos (tramos anclados) anclados entre:
 • TP n.º 98 y 46, con anclaje móvil bilateral, con punto fijo formado por el anclaje a la doble viga portante TV entre TP n.º 71 y 72;
@@ -851,8 +841,8 @@ Del análisis de los datos registrados por el sistema de control automatizado �
 | • a las 11:00:34 h | en la estación de alimentación Prosenice se registró un cortocircuito en la TV sobre la TK n.º 1 Přerov – Prosenice y la SK del grupo de vía impar de la est. Prosenice; comenzó la apertura del interruptor N11. Simultáneamente se registró la apertura del interruptor S1 de la estación de corte Přerov; la TV sobre la TK n.º 1 Přerov – Prosenice y la SK del grupo de vía impar de la est. Prosenice dejó de estar alimentada; |
 | • a las 11:00:43 h | las protecciones de la estación de alimentación Prosenice dejaron de registrar el cortocircuito en la TV sobre la TK n.º 1 Přerov – Prosenice y la SK del grupo de vía impar de la est. Prosenice; |
 
-
 ## Página 21
+
 
 | • a las 11:00:48 h | las protecciones de la estación de corte Přerov dejaron de registrar la actuación de la protección de sobrecorriente de la TV sobre la TK n.º 1 Přerov – Prosenice y la SK del grupo de vía impar de la est. Prosenice; |
 | • a las 11:00:55 h | el despachador eléctrico, manipulando los elementos de control del interruptor N11 de la estación de alimentación Prosenice – con la orden „ZAP START“ – restableció, mediante la conexión del interruptor N11, la alimentación de la TV sobre la TK n.º 1 Přerov – Prosenice y la SK del grupo de vía impar de la est. Prosenice desde la estación de alimentación Prosenice; |
@@ -865,8 +855,8 @@ registrado por el sistema de control automatizado – el registro operativo del 
 | • a las 10:54:24 h | con la operación normal del SZZ se realizaron desde la JOP las operaciones para la circulación del tren Ex 116 desde la TK n.º 2 Lipník nad Bečvou – Prosenice desde la señal de entrada 2L a través de las agujas n.º 2, 3 y 6 hasta la SK n.º 2 de la est. Prosenice (hasta el nivel de la señal de salida); |
 | • a las 10:54:27 h | tras el cierre de la ruta (de tren) (en adelante, ruta de tren) realizado por la acción automática del SZZ, se estableció desde la señal de entrada 2L en la SK n.º 2 la ruta de tren para la circulación del tren Ex 116, es decir, para la entrada del tren en la est. Prosenice. La señal de entrada 2L comenzó a mostrar la señal „Aviso“; |
 
-
 ## Página 22
+
 
 | • a las 10:54:55 h | con la operación normal del SZZ se realizaron desde la JOP las operaciones para la circulación del tren Ex 116 desde la SK n.º 2 de la est. Prosenice hasta la TK n.º 2S desviadora Dluhonice – Prosenice desde la señal de salida L2 a través de las agujas n.º 24, 25, 26, 28, 29 y 30 hasta la TK n.º 2S, es decir, para la salida del tren de la est. Prosenice; |
 | • a las 10:54:59 h | tras el cierre de la ruta de tren realizado por la acción automática del SZZ, se estableció desde la señal de salida L2 la ruta de tren desde la SK n.º 2 hasta la TK n.º 2S para la circulación del tren Ex 116, es decir, para la salida del tren de la est. Prosenice. La señal de salida L2 comenzó a mostrar la señal „Velocidad 40 km/h y vía libre“; |
@@ -879,8 +869,8 @@ registrado por el sistema de control automatizado – el registro operativo del 
 Nota DI: • de los datos analizados ni de la indicación en el monitor del esquema de playa de vías de la est. Prosenice por el SZZ no se puede determinar el tiempo ni concretar el lugar de la parada del tren Ex 116, • hasta las 11:34:43 h el estado del SZZ en la cabecera P/D permaneció sin cambios, es decir, sin ninguna operación del SZZ desde la JOP CDP Přerov; |
 | • a las 11:06:12 h | el tren Ex 1251, circulando por la TK n.º 1 Přerov – Prosenice, ocupó la KO 1T1_S, es decir, entró en el tramo de vía delimitado por la señal principal (de tramo) (en adelante, señal principal) AB 1-1888 y la señal de entrada 1S de la est. Prosenice. 10 s después, es decir, a las 11:06:22 h, el tren liberó la KO anterior 1T2_S delimitada por las señales de tramo AB 1-1878 y 1-1888. |
 
-
 ## Página 23
+
 
 Nota DI: de los datos analizados ni de la indicación en el monitor del esquema de playa de vías de la est. Prosenice por el SZZ no se puede determinar, de acuerdo con la documentación técnica, el tiempo ni concretar el lugar de la parada del tren Ex 1251 antes de la señal de entrada 1S de la est. Prosenice;
 | • a las 11:30:25 h | con la operación normal del SZZ se realizaron desde la JOP las operaciones para la circulación del tren Ex 1112 desde la TK n.º 2 Lipník nad Bečvou – Prosenice desde la señal de entrada 2L a través de las agujas n.º 2, 3 y 6 hasta la SK n.º 2 de la est. Prosenice (hasta el nivel de la señal de salida L2); |
@@ -893,6 +883,7 @@ Nota DI: de los datos analizados ni de la indicación en el monitor del esquema 
 | • a las 11:40:10 h | con la operación del SZZ se realizaron desde la JOP las operaciones para el accionamiento de emergencia de las agujas n.º 29 y 30 a la posición para la circulación de trenes en línea recta, es decir, desde la TK n.º 2S desviadora Dluhonice – Prosenice hasta la SK n.º 3 y desde la TK n.º 1 Přerov – Prosenice hasta la SK n.º 1 (y en ambos casos también para la circulación de trenes en sentido contrario); |
 
 ## Página 24
+
 
 v 11:44:26 h
 • al despachador de la aguja Dluhonice se le concedió el consentimiento de vía en TK
@@ -946,63 +937,53 @@ es decir, a las 11:59:14 h, el tren entró en la SK n.º 3 y 12 s después,
 es decir, a las 11:59:26 h, liberó la vía D/P de la cabecera de la est. Prosenice y entró
 entero en la SK n.º 3;
 
-
 ## Página 25
 
 v 11:59:48 h
-### • con la operación normal de la SZZ se realizaron desde la JOP las acciones para la circulación
-### del tren Ex 1251 desde la TK n.º 1 Přerov – Prosenice desde la señal de
-### entrada 1S a través de las agujas n.º 29, 28, 23 y 22 hasta la SK n.º 1
-### est. Prosenice (hasta el nivel de la señal de salida S1);
+### con operación normal del SZZ se realizaron desde el JOP los actos para la circulación 
+•
+### del tren Ex 1251 desde el TK n.º 1 Přerov – Prosenice desde la señal de entrada 1S 
+### a través de los desvíos n.º 29, 28, 23 y 22 hasta el SK n.º 1 
+de la est. Prosenice (hasta el nivel de la señal de salida S1);
 v 11:59:51 h
-### • tras el cierre de la ruta de tren realizado por la acción automática de la SZZ,
-### desde la señal de entrada 1S hasta la SK n.º 1 se estableció la
-### ruta de tren para la circulación del tren Ex 1251, es decir, para la entrada del tren en la
-### est. Prosenice. La señal de entrada 1S comenzó a mostrar la señal
+### tras el cierre de la vía de tren realizado por la acción automática del SZZ, se 
+•
+### estableció desde la señal de entrada 1S en el SK n.º 1 la vía de tren 
+### para la circulación del tren Ex 1251, es decir, para la entrada del tren en 
+### la est. Prosenice. La señal de entrada 1S comenzó a emitir la señal 
 ### «Aviso».
-Al mismo tiempo, el frente del tren Ex 141 pasó la señal de
-salida S3 y el tren entró en la cabecera de Lipník de la est. Prosenice. 1 s
-después, por la acción automática de la SZZ, se cambió la señal de la señal de salida S3
-de la señal «Velocidad 100 km/h y vía libre» a la señal
-«Alto»;
+Al mismo tiempo, el extremo delantero del tren Ex 141 pasó la señal de salida S3 y el tren entró en el extremo de Lipník de la est. Prosenice. 1 s después, por la acción automática del SZZ, se cambió la señal de la señal de salida S3 de la señal «Velocidad 100 km/h y libre» a la señal «Alto»;
 a las 12:00:04 h
-• el tren Ex 141 liberó la SK n.º 3 y todas las DV de este tren se
-encontraban en la cabecera de Lipník de la est. Prosenice;
+el tren Ex 141 liberó el SK n.º 3 y todos los DV de este tren se 
+•
+encontraban en el extremo de Lipník de la est. Prosenice;
 a las 12:00:13 h
-• con la operación normal de la SZZ desde la JOP se realizaron las acciones para la circulación del tren
-Služ 56187 (MVTV desde OTV Grygov), es decir, del tren de servicio
-establecido para las necesidades del operador ferroviario SŽ, desde la TK n.º 2S
-aguja Dluhonice – Prosenice desde la señal de entrada 2DS
-a través de las agujas n.º 30, 19 y 18 hasta la SK n.º 3 est. Prosenice (hasta el nivel
-de la señal de salida S3);
+con operación normal del SZZ se realizaron desde el JOP los actos para la circulación del tren 
+•
+Služ 56187 (MVTV desde OTV Grygov), es decir, del tren de servicio establecido para las necesidades del explotador de la vía SŽ, desde el TK n.º 2S de la desviadora Dluhonice – Prosenice desde la señal de entrada 2DS a través de los desvíos n.º 30, 19 y 18 hasta el SK n.º 3 de la est. Prosenice (hasta el nivel de la señal de salida S3);
 a las 12:00:16 h
-• tras el cierre de la ruta de tren realizado por la acción automática de la SZZ,
-desde la señal de entrada 2DS hasta la SK n.º 3 se estableció la ruta de tren
-para la circulación del tren Služ 56187 (MVTV), es decir, para la entrada del tren en la
-est. Prosenice. 3 s después comenzó la señal de entrada 2DS
-a mostrar la señal «Aviso»;
+tras el cierre de la vía de tren realizado por la acción automática del SZZ, 
+•
+se estableció desde la señal de entrada 2DS en el SK n.º 3 la vía de tren para la circulación del tren Služ 56187 (MVTV), es decir, para la entrada del tren en la est. Prosenice. 3 s después, la señal de entrada 2DS comenzó a emitir la señal «Aviso»;
 a las 12:00:24 h
-• el tren Ex 141 liberó la cabecera de Lipník de la est. Prosenice. Todas las DV
-de este tren se encontraban en la cabecera de Lipník de esta est.;
+el tren Ex 141 liberó el extremo de Lipník de la est. Prosenice. Todos los DV 
+•
+de este tren se encontraban en el extremo de Lipník de esta est.;
 a las 12:00:27 h
-### • el frente del tren Ex 1251 pasó la señal de entrada 1S
-### est. Prosenice y el tren ocupó la KO 1SK, es decir, entró en la
-### cabecera de Přerov. 1 s después, por la acción automática de la SZZ, se cambió la
-señal de la señal de entrada 1S de la señal «Aviso» a la señal
-«Alto».
-Al mismo tiempo, el tren Ex 141 ocupó la KO 1T7_L, es decir, entró en el
-tramo de vía delimitado en el sentido de circulación del tren por la señal de
-entrada 1L est. Prosenice y la señal de tramo AB 1-1933. 15 s después, es decir, a las 12:00:42 h, liberó la cabecera de Lipník
-est. Prosenice y todas las DV de este tren se encontraban en la TK n.º 1
-Prosenice – Lipník nad Bečvou;
+### el extremo delantero del tren Ex 1251 pasó la señal de entrada 1S 
+•
+### de la est. Prosenice y el tren ocupó el KO 1SK, es decir, entró en el 
+### extremo de Přerov. 1 s después, por la acción automática del SZZ, se cambió la 
+señal de la señal de entrada 1S de la señal «Aviso» a la señal 
+«Alto». 
+Al mismo tiempo, el tren Ex 141 ocupó el KO 1T7_L, es decir, entró en el tramo de vía delimitado en el sentido de circulación del tren por la señal de entrada 1L de la est. Prosenice y la señal de tramo AB 1-1933. 15 s después, es decir, a las 12:00:42 h, liberó el extremo de Lipník de la est. Prosenice y todos los DV de este tren se encontraban en el TK n.º 1 Prosenice – Lipník nad Bečvou;
 a las 12:00:33 h
-• con la operación normal de la SZZ desde la JOP se realizaron las acciones para la circulación
-del tren Ex 1251 desde la SK n.º 1 est. Prosenice desde la señal de
-salida S1 a través de las agujas n.º 5, 4 y 1 hasta la TK n.º 1 Prosenice –
-Lipník nad Bečvou;
-
+con operación normal del SZZ se realizaron desde el JOP los actos para la circulación 
+•
+del tren Ex 1251 desde el SK n.º 1 de la est. Prosenice desde la señal de salida S1 a través de los desvíos n.º 5, 4 y 1 hasta el TK n.º 1 Prosenice – Lipník nad Bečvou;
 
 ## Página 26
+
 
 a las 12:01:35 h
 • tras el cierre de la ruta de tren realizado por la acción automática de la SZZ,
@@ -1054,8 +1035,8 @@ permaneció detenida hasta las 12:51:07 h;
 • la SZZ est. Prosenice mostraba en el momento de la aparición de la MU un funcionamiento normal,
 es decir, un estado sin averías.
 
-
 ## Página 27
+
 
 ### 3.1.9 Cualquier otra información relevante para los fines de la descripción del suceso y de la información
 ### básica
@@ -1104,6 +1085,7 @@ ser arrastrado hacia la TV. Que la avería de la TV está entre la 1.ª y la 3.�
 
 ## Página 28
 
+
 ninguna instrucción – no recibió las medidas necesarias para la circulación segura, aunque el ### despachador eléctrico fue informado directamente del descolgamiento del TC. Del despachador eléctrico recibió únicamente la información de la circulación del MVTV hacia Horní Lideč (nota DI: esta circulación debía realizarse, de conformidad con el SJŘ del tren Služ 56187, a través de la estación de Prosenice, sin tener en cuenta la situación surgida durante la circulación del tren Ex 116). Además, comunicó al despachador eléctrico que, para la reparación del TC y la posibilidad de restablecer la circulación de la HDV de tracción dependiente con los colectores elevados, era importante que el MVTV llegara a Prosenice lo antes posible. Incluso tras esta comunicación, no recibió del despachador eléctrico una instrucción que prohibiera la circulación de trenes a través de la estación de Prosenice hasta la llegada del MVTV. Por este motivo, no esperó la llegada de los empleados de OSPD, que habrían determinado la causa y el alcance de la impracticabilidad, incluida la posición del punto impracticable (nota DI: en este caso concreto, los empleados de SEE Olomouc);
 ◦a continuación, solicitó al maquinista del Ex 116 información sobre la posición exacta de la parada de la HDV que conducía y la verificación de si el desvío n.º 29 estaba ocupado por DV. Tras confirmarle el maquinista la libertad del desvío n.º 29, dispuso el par de desvíos n.º 29 y 30 en la posición «+» para permitir la circulación de trenes por la SK n.º 3 desde/hacia la TK n.º 2S enlazamiento Dluhonice – Prosenice;
 ◦por instrucción dada por el despachador operativo PD3, acordó con el maquinista del tren Ex 1112, que se encontraba en la SK n.º 2 de la estación de Prosenice, el retroceso de la composición del tren Ex 116 de vuelta a la SK n.º 2, ocupada por la DV del tren Ex 1112;
@@ -1115,26 +1097,25 @@ ninguna instrucción – no recibió las medidas necesarias para la circulación
 ### ◦posteriormente, mediante comunicación GSM-R, dio al maquinista del tren Ex 1251, que se encontraba parado durante unos 45 min en la TK n.º 1 Prosenice – Přerov antes de la señal de entrada 1S, la instrucción de circular con los colectores elevados al entrar en la estación de Prosenice, es decir, desde la señal de entrada 1S hasta la SK n.º 1 de la estación de Prosenice, y le informó del descolgamiento del TC. Posteriormente, para este tren, estableció la ruta de tren desde la TK n.º 1 hasta la SK n.º 1;
 ### ◦no instruyó a los maquinistas de los trenes Ex 141 y Ex 1251 mediante órdenes escritas que contuvieran toda la información sobre la posición kilométrica del punto impracticable en el momento
 
-
 ## Página 29
 
-en que no era posible circular por el tramo de TC no especificado en los extremos P/D de la estación de Prosenice con los colectores elevados sin desconectar el suministro del TC, porque tenía el punto de avería del TC especificado por el maquinista del tren Ex 116, es decir, sobre el desvío n.º 28, y la practicabilidad de la DV con los colectores elevados confirmada a través de los extremos P/D, y porque en la compleja situación de tráfico no se percató de que, aunque la instrucción se daba mediante un dispositivo de comunicación grabado, debía dictarse y ser transcrita por el maquinista en el Příkaz vlaku;
-◦tras el paso del tren Ex 1251 junto a la señal de entrada 1S de la estación de Prosenice, recibió del maquinista de este tren el aviso de la creación de una MU «que tras la señal de entrada embistió un conjunto de TC colgado, rompiendo el parabrisas frontal y el colector de la HDV y el TC»;
-◦la MU se produjo en un punto distanto de la vía respecto del punto sobre el cual había recibido del maquinista del tren Ex 116 la información de libertad y practicabilidad con los colectores elevados. El maquinista del tren Ex 116 no tenía ningún conocimiento de este otro punto de la vía;
-◦la creación de la MU la comunicó asimismo, de conformidad con el calendario de comunicaciones vigente, al CDP Přerov (sala n.º 2).
-despachador eléctrico
-  – Acta con el empleado y Registro de declaración de hechos relativos a la MU:
+cuando no era posible circular por un tramo de TV no especificado exactamente en el extremo P/D de la estación de Prosenice con los colectores levantados sin desconectar el suministro de la TV, porque tenía el lugar de la avería de la TV especificado por el maquinista del tren Ex 116, es decir, sobre el desvío n.º 28, y confirmada a través del extremo P/D la circulabilidad de la DV con los colectores recogidos, y porque en la compleja situación de tráfico no se dio cuenta de que, aunque la orden se daba a través del dispositivo de comunicación grabado, debía ser dictada y escrita por el maquinista como Orden de tren;
+◦tras pasar el tren Ex 1251 junto a la señal de entrada 1S de la estación de Prosenice, recibió del maquinista de este tren el aviso de la creación de la MU "que tras la señal de entrada embistió un conjunto de TV colgado, rompiendo el parabrisas frontal y el colector del HDV y la TV";
+◦la MU se originó en un lugar distanto de la vía, distinto del lugar sobre el que recibió del maquinista del tren Ex 116 la información de libre y circulable con los colectores recogidos. El maquinista del tren Ex 116 no tenía ningún conocimiento de este otro lugar de la vía;
+◦la creación de la MU la comunicó además conforme al horario de avisos vigente en el CDP Přerov (sala n.º 2).
+electrodespachador
+  – Acta con el empleado y Registro de la declaración prestada sobre la MU:
 •
-◦en la jornada diaria del 4. 7. 2020, al prestar servicio en el tramo Přerov (fuera) – Hranice na Moravě – Střelná – frontera estatal, se sentía descansado y sano y, hasta las 11:26 h, momento en que se inició la cadena de acontecimientos durante la resolución de la avería del TC, no se encontraba alterado por ningún motivo;
-◦a las 11:00:34 h registró la interrupción del suministro del TC en el tramo Prosenice – Přerov, habiéndose restablecido el suministro del TC a las 11:00:55 h y quedando a partir de entonces en condiciones normales;
-◦a las 11:02:12 h fue contactado por el despachador director 2B, que le informó del movimiento del TC sobre el desvío n.º 29 de la estación de Prosenice durante el paso del tren Ex 116. En esta conversación le comunicó que se había producido una interrupción del suministro del TC, que fue restablecido inmediatamente después;
-◦a continuación, informó y avisó a los trabajadores del MVTV de turno para el caso de una posible avería del TC en la estación de Prosenice;
-◦como no recibía del despachador director 2B información sobre la situación en la estación de Prosenice, le preguntó por el estado de la cuestión a las 11:26:23 h. El despachador director 2B le comunicó que en el lugar había un TC descolgado y varias «laniček» cortadas. El despachador director 2B no especificó más el alcance de la avería;
-◦el despachador director 2B no le requirió para la desconexión de la tensión en los extremos P/D de la estación de Prosenice, donde se encontraba el tren Ex 116 y cuyo maquinista había comunicado la oscilación del TC;
-◦de su posición profesional y de sus experiencias prácticas hasta la fecha, le consta que la avería, es decir, la inoperatividad de los equipos de tracción eléctrica que sea o pueda ser fuente de amenaza inmediata para la explotación segura de la vía y del tráfico ferroviario, puede ser causada, en caso de descolgamiento del hilo de contacto del TC de tipo chainette, por soportes dañados, hilo de contacto fundido, conductor de soporte roto o aflojado, topes de anclaje rotos o quemados, cables de dirección rotos o dañados, contrapesos de los sistemas de hilo de contacto dañados, postes y soportes de la línea de tracción dañados, aisladores dañados y quemados en el sistema de tracción, soportes laterales del sistema de línea de tracción dañados, seccionadores dañados. Cada elemento del sistema de hilo de contacto tiene una función determinada y su deterioro puede causar alguna avería o el deterioro del conjunto del TC;
-
+◦en la jornada del 4. 7. 2020 desempeñaba servicio en el tramo Přerov (fuera) – Hranice na Moravě – Střelná – frontera estatal, se sentía descansado y sano y hasta las 11:26 h, cuando se inició la cadena de acontecimientos al resolver la avería de la TV, no estaba alterado de ninguna manera ni por nada;
+◦a las 11:00:34 h registró la interrupción del suministro de la TV en el tramo Prosenice – Přerov, habiéndose restablecido el suministro de la TV a las 11:00:55 h y a continuación ya estaba en orden;
+◦a las 11:02:12 h fue contactado por el despachador director 2B, que le informó del movimiento de la TV sobre el desvío n.º 29 de la estación de Prosenice durante el paso del tren Ex 116. En esta conversación le comunicó que se había producido una interrupción del suministro de la TV, que sin embargo fue restablecida inmediatamente después;
+◦a continuación informó y avisó a los trabajadores del MVTV de turno para una posible avería de la TV en la estación de Prosenice;
+◦como no recibía del despachador director 2B información sobre la situación en la estación de Prosenice, le preguntó por el estado de las cosas a las 11:26:23 h. El despachador director 2B le comunicó que en el lugar hay una TV colgada y varias "cuerdas" cortadas. El despachador director 2B no especificó con mayor detalle el alcance de la avería;
+◦el despachador director 2B no le requirió para la desconexión de la tensión en el extremo P/D de la estación de Prosenice, donde se encontraba el tren Ex 116 y cuyo maquinista había comunicado la oscilación de la TV;
+◦desde su posición de competencia y de sus experiencias prácticas hasta la fecha, le es conocido que la avería, es decir, la no operatividad del equipo de tracción eléctrica que es o puede ser fuente de amenaza inmediata para la explotación segura de la vía y del transporte ferroviario, puede ser causada en caso de colgamiento del hilo de catenaria de la TV de cadena por soportes dañados, hilo de catenaria fundido, conductor de soporte arrancado o aflojado, topes de anclaje cortados o quemados, cables de dirección cortados o dañados, contrapesos dañados de los sistemas de catenaria, postes y soportes de la línea de tracción dañados, aisladores dañados y quemados en el sistema de tracción, soportes laterales dañados del sistema de línea de tracción, separadores dañados. Cada elemento del sistema de catenaria tiene una función determinada y su deterioro puede causar alguna avería o el deterioro del conjunto de la TV;
 
 ## Página 30
+
 
 ### ◦no acordó con el despachador director 2B las condiciones para la circulación de trenes de tracción eléctrica ni adoptó las demás medidas necesarias, consistentes en dar la instrucción para impedir la circulación de DV en el tramo de vía afectado por la incidencia, porque:
 ▪la interrupción del suministro del tramo de tracción es una situación operativa absolutamente habitual, que no tiene por qué significar una avería del TC. Si se produce el restablecimiento del suministro y el suministro del TC está en condiciones normales, no se adoptan más medidas. Propuso al despachador director 2B enviar inmediatamente al lugar de la avería un MVTV desde Grygov,
@@ -1152,6 +1133,7 @@ despachador eléctrico
 ### ◦a las 12:00:34 h registró la interrupción del suministro del TC en la estación de Prosenice, la TK n.º 1 Přerov – Prosenice y la TK n.º 2S enlazamiento Dluhonice – Prosenice;
 
 ## Página 31
+
 
 ◦a las 12:01:16 h el trabajador de la guardia de accidentes SEE Olomouc, que se encontraba en la est. Prosenice, comunicó que durante la salida del tren Ex 1251 se produjeron descargas en la TV en la cabecera de Přerov. Con base en esta información no realizó ninguna acción para restablecer el suministro de la TV;
 ◦a las 12:05:00 h informó al despachador director 2B del estado sin tensión de la TV y, a continuación, el despachador director 2B le comunicó la aparición de la MU;
@@ -1174,8 +1156,8 @@ maquinista del tren Ex 1251
 ◦reaccionó a su hallazgo accionando la palanca de conducción a la posición de freno y aplicando el frenado de acción rápida del tren;
 ◦tras la detención del tren, comunicó inmediatamente la aparición de la MU mediante GSM-R al operador de la vía SŽ – al despachador director 2B.
 
-
 ## Página 32
+
 
 Resumen de las explicaciones prestadas por los testigos:
 maquinista del tren Ex 116 
@@ -1193,35 +1175,34 @@ maquinista del tren Ex 116
 ◦a continuación, informó detalladamente al despachador director 2B, a su petición, sobre la posición del tren Ex 116 detenido y sobre el hecho de que la aguja n.º 29 está libre y puede ser accionada;
 ◦a la petición repetida del despachador director 2B, le repitió, según sus propias palabras, «que sobre la primera vía el caténario está unos centímetros más bajo y que algunos cables no están tensados. También añadí que desde la posición de la locomotora no se ve ningún cable roto, ningún cable colgante ni ningún cable en el suelo»;
 
-
 ## Página 33
 
-◦recibió del despachador director 2B la información de que el HDV del tren Ex 1112 (operador RJ) acoplaría al final del tren Ex 116 mediante maniobras y que, a continuación, el tren sería remolcado de vuelta a la SK n.º 2 de la est. Prosenice;
-◦en el momento en que el HDV del tren Ex 1112 fue acoplado al TDV de señalización del tren Ex 116, llegó a su HDV un empleado del operador de la vía SŽ, quien detectó una avería en la TV. El maquinista le mostró y detalló la avería visible en la TV;
-◦a continuación, el tren Ex 116 fue remolcado por el HDV del tren Ex 1112 de vuelta a la SK n.º 2. Durante la maniobra realizada, ambos pantógrafos del HDV estaban bajados.
+◦del despachador de maniobras 2B recibió la información de que al final del tren Ex 116 entraría mediante maniobra de rodadura el rodadura del tren Ex 1112 (operador RJ) y posteriormente el tren sería retirado de vuelta a la vía de maniobras n.º 2 de la est. Prosenice;
+◦en el momento en que la rodadura del tren Ex 1112 se acopló a la señalización de rodadura del tren Ex 116, se acercó a la rodadura que él manejaba un empleado del operador de la vía SŽ, que detectó una avería en la TV. El maquinista le señaló la avería visible en la TV y la especificó con más detalle;
+◦a continuación, el tren Ex 116 fue retirado con la rodadura del tren Ex 1112 de vuelta a la vía de maniobras n.º 2. Durante la maniobra realizada, ambos colectores de la rodadura estuvieron bajados.
 maquinista del tren Ex 141
   – Acta con el empleado:
 •
-◦detuvo el tren en la aguja Dluhonice antes de la señal de salida, que mostraba la señal «Alto»;
-◦tras un momento, fue informado mediante GSM-R por el jefe de maniobras de la aguja Dluhonice de la avería de la TV en la est. Prosenice, con la indicación de que el tren Ex 141 permanecería detenido en la aguja Dluhonice;
-◦tras transcurrir aproximadamente 20 min, recibió mediante GSM-R del jefe de maniobras de la aguja Dluhonice la información de que se le entregaría una orden escrita para la circulación del tren por la est. Prosenice con los pantógrafos bajados;
-◦a continuación, tras la entrega de la orden escrita y la establecimiento de la vía de circulación, puso el tren Ex 141 en movimiento en la aguja Dluhonice y partió con el tren por la TK n.º 2S en dirección a la est. Prosenice;
-◦de acuerdo con la instrucción contenida en la orden escrita de la aguja Dluhonice, bajó el pantógrafo del HDV durante la entrada del tren en la est. Prosenice;
-◦durante la circulación del tren por la TK n.º 2S aguja Dluhonice – Prosenice, ni por la SK de la cabecera de Dluhonice y la cabecera P/D, ni por la SK n.º 3 de la est. Prosenice, detectó ninguna avería en la TV;
-◦tras pasar por la est. Prosenice, levantó el pantógrafo del HDV y continuó la marcha en dirección a la est. Lipník nad Bečvou.
+◦detuvo el tren en la aguja Dluhonice antes de la señal de salida, que indicaba la señal «Alto»;
+◦tras un momento, fue informado por el encargado de la aguja Dluhonice mediante conexión GSM-R de la avería de la TV en la est. Prosenice, con el indicio de que el tren Ex 141 permanecería detenido en la aguja Dluhonice;
+◦tras transcurrir aprox. 20 min, recibió mediante conexión GSM-R del encargado de la aguja Dluhonice la información de que se le haría entrega de una orden escrita de circulación del tren por la est. Prosenice con los colectores bajados;
+◦a continuación, tras la entrega de la orden escrita y la establecimiento de la vía de tren, puso el tren Ex 141 en movimiento en la aguja Dluhonice y partió con el tren por la vía 2S en dirección a la est. Prosenice;
+◦de acuerdo con la instrucción contenida en la orden escrita de la aguja Dluhonice, bajó el colector de la rodadura al entrar el tren en la est. Prosenice;
+◦durante la circulación del tren por la vía 2S aguja Dluhonice – Prosenice, ni por la vía de maniobras de la cabecera de Dluhonice y la cabecera P/D, ni por la vía de maniobras n.º 3 de la est. Prosenice, detectó ninguna avería en la TV;
+◦tras pasar la est. Prosenice, levantó el colector de la rodadura y continuó la circulación en dirección a la est. Lipník nad Bečvou.
 ingeniero de transporte ferroviario SEE Olomouc
   – Acta con el empleado:
 •
-◦el 4. 7. 2020 desempeñaba la función de guardia de accidentes de SEE Olomouc;
-◦a las aproximadamente 11:35 h fue requerido por el despachador eléctrico para la comprobación de la TV en la est. Prosenice, donde se había producido una caída de suministro de la TV causada por un cortocircuito;
-◦a las 11:53 h llegó en vehículo de carretera a la estación de la est. Prosenice y, a continuación, se dirigió a pie a la cabecera P/D para comprobar el estado de la TV;
-◦junto al separador de TV n.º 12 se encontraba el tren Ex 116 y, mediante preguntas al maquinista, obtuvo información sobre la situación en la cabecera P/D de la est. Prosenice, quien le comunicó que durante la circulación del tren Ex 116 se había producido la oscilación de la TV sobre el HDV que él conducía;
-◦tras este hallazgo, continuó caminando por la vía y, con la vista, comprobó el estado de la TV. Mientras tanto, a una distancia de aproximadamente 400 m, registró en la TK n.º 1 Přerov – Prosenice la salida del tren Ex 1251, a lo que siguieron descargas eléctricas en la TV y en la SK, así como la oscilación de la TV;
-◦informó al despachador eléctrico de la situación creada y, a continuación, continuó caminando en dirección al lugar de la MU;
-◦tras llegar al lugar de la posición final del tren Ex 1251 tras la MU, comprobó la TV dañada, que se encontraba parcialmente bajo el DV frontal del tren, el parabrisas
-
+◦el 4 de julio de 2020 desempeñaba la función de guardia de accidentes de SEE Olomouc;
+◦a aprox. las 11:35 h fue requerido por el despachador eléctrico para la comprobación de la TV en la est. Prosenice, donde se produjo un corte de suministro de la TV causado por un cortocircuito;
+◦a las 11:53 h llegó en vehículo motorizado por carretera al edificio de mando de la est. Prosenice y a continuación se dirigió a pie a la cabecera P/D para comprobar el estado de la TV;
+◦en el separador de TV n.º 12 se encontraba el tren Ex 116 y, mediante preguntas al maquinista, se informó de la situación en la cabecera P/D de la est. Prosenice, quien le comunicó que durante la circulación del tren Ex 116 se había producido una oscilación de la TV sobre la rodadura que él manejaba;
+◦tras esta comprobación, continuó caminando por la vía y, mediante observación visual, comprobó el estado de la TV. A una distancia de aprox. 400 m registró en la vía 1 Přerov – Prosenice la salida del tren Ex 1251, a lo que siguieron descargas eléctricas en la TV y en la vía de maniobras, así como la oscilación de la TV;
+◦informó al despachador eléctrico de la situación producida y a continuación continuó caminando en dirección al lugar del MU;
+◦tras llegar al lugar de la posición final del tren Ex 1251 tras el MU, comprobó la TV dañada, que se encontraba parcialmente bajo el DV frontal del tren, dañada
 
 ## Página 34
+
 
 delantero del DV de la sección «B» dañado y el pantógrafo de la sección «D» dañado, cuya parte desprendida se encontraba en la vía.
 jefe de maniobras de la aguja Dluhonice
@@ -1248,6 +1229,7 @@ despachador operativo PD3
 
 ## Página 35
 
+
 dál dopravcům. El despachador de control 2B le comunicó que el maquinista de la locomotora del tren Ex 116 no había detectado ningún daño visible y que realizaría una inspección del material rodante tras el tren Ex 116;
 ◦hacia las 11:20 h recibió del despachador de control 2B la información de que no era posible la circulación posterior del tren Ex 116, porque no se podían levantar los pantógrafos de la locomotora de este tren sin que se produjera un daño en los pantógrafos de la locomotora y en el material rodante. A la vez, preguntó al despachador de control 2B si era posible el paso por la estación Prosenice – recibió la respuesta de que, dada la posición del tren Ex 116 detenido, no;
 ◦a continuación, con el fin de liberar la vía principal de la cabecera, contactó con el maquinista del tren Ex 116 y acordó con él las condiciones para retroceder el tren hasta la vía de maniobras n.º 2 de la estación Prosenice, lo que fue realizado posteriormente por la locomotora del tren Ex 1112;
@@ -1270,8 +1252,8 @@ explicaciones sobre la MU:
 ▪informó al despachador eléctrico de que se estaba retrocediendo el tren del Ex 116 hasta la vía de maniobras n.º 2 de la estación Prosenice mediante la locomotora del tren Ex 1112,
 ▪recibió la información de que no era posible la circulación de DV desde Prosenice hasta Přerov, pero no recuerda si habló de este hecho con alguien del personal de despacho o de la sala n.º 2,
 
-
 ## Página 36
+
 
 ▪las preguntas al despachador eléctrico las formuló con el fin de mapear la situación operativa actual en la estación Prosenice y entre la estación Prosenice y Přerov, para poder decidir y reaccionar adecuadamente en relación con las preguntas de los operadores de los trenes que se encontraban en esta zona,
 ▪no investigó la transmisión y recepción de instrucciones entre el despachador eléctrico y los despachadores de línea;
@@ -1288,8 +1270,8 @@ en la estación Prosenice – a su pregunta se le comunicó que el despachador e
 El despachador de control 2B en la jornada del 4 de julio de 2020, al prestar servicio de la infraestructura para la dirección del tráfico ferroviario en la estación Prosenice y en los tramos de línea adyacentes, utilizaba las dependencias derivadas de la actividad de la SZZ de la estación Prosenice y de las TZZ instaladas en los tramos de línea Lipník nad Bečvou – Prosenice, Prosenice – Přerov y Prosenice – aguja de enlace Dluhonice. Todos los sistemas de señalización utilizados se explotaban en régimen estándar con las limitaciones derivadas de las medidas sobre la SZZ y las TZZ para la realización de interrupciones continuas planificadas conforme a las ROV 13032 y 13069 (véanse los puntos 3.1.3 y 3.1.8 de la presente ZZ). La actividad de interrupción realizada tuvo una influencia negativa en la dirección del tráfico ferroviario, porque el tráfico ferroviario entre las estaciones Prosenice y Přerov, respectivamente Prosenice – aguja de enlace Dluhonice, se explotaba únicamente en vía única (por el TK n.º 1, respectivamente TK n.º 2S) y, por tanto, bidireccionalmente, lo que provocó una menor capacidad de los tramos de línea afectados y se reflejó desfavorablemente en la regularidad de la explotación del tráfico ferroviario, es decir, especialmente en los retrasos de los trenes de transporte de viajeros.
 El despachador eléctrico en la jornada del 4 de julio de 2020 ejercía (dirigía) desde el centro de despacho eléctrico, situado en el edificio operativo de SEE Olomouc en Přerov, las actividades relacionadas con el aseguramiento de un suministro energético fluido y para garantizar la seguridad y la operatividad en las actividades relacionadas con la explotación ferroviaria en líneas electrificadas en el ámbito de dirección, cuya parte eran los tramos de línea Lipník nad Bečvou – Prosenice, Prosenice – Přerov y Prosenice – aguja de enlace Dluhonice, incluida la estación Prosenice.
 
-
 ## Página 37
+
 
 El maquinista del tren Ex 116 entró en servicio el 4 de julio de 2020 a las 9:40 h y, conforme al horario de turnos planificado, condujo la locomotora del tren Ex 116 desde la estación Bohumín. El tren Ex 116 entró en la estación Prosenice a las 10:59:28 h y, en circulación por la vía de maniobras n.º 2, sobre la base de la señal «Velocidad 40 km/h y vía libre» emitida por la señal de salida L2, señalizada en su lado más corto con una placa indicadora rectangular de borde blanco y cifra blanca «5», el maquinista redujo con frenado operativo la velocidad del tren a 52 km·h-1, con la que entró en la vía principal de la cabecera,
 ### y como durante la circulación detectó una oscilación del material rodante, activó a las 11:00:32 h el frenado de acción rápida del tren.
@@ -1301,11 +1283,12 @@ A las 10:59:28 h entró el tren Ex 116 en la vía de maniobras n.º 2 de la esta
 
 ## Página 38
 
+
 ### (11:00:44 h) en el extremo P/D de esta estación, donde se detuvo de forma excepcional. Inmediatamente después, a las 11:01:18 h, recibió del maquinista del tren Ex 116 información sobre la oscilación del TV y, posteriormente, a las 11:02:12 h, informó de este hecho al electrodespachador, quien le comunicó que en la estación Prosenice hubo un corte temporal del suministro de TV por encima de la SK n.º 1, pero que en ese momento el suministro ya había sido restablecido y que el TV a la vista en el puesto de control del electrodespachador no mostraba (no indicaba) ningún defecto ni avería, siendo así que el electrodespachador no dio al despachador director 2B ninguna instrucción que constituyera la medida necesaria para la explotación segura. El motivo fue que el electrodespachador en ese momento aún no tenía indicios de la avería del TV que dieran motivo a medidas para la explotación segura. A las 11:04:42 h, el electrodespachador, mediante consulta telefónica, determinó la posición momentánea del MVTV de la OTV Grygov, que en ese momento se encontraba en la estación Olomouc hl. n., y planificó su regreso a la base en la estación Grygov. Tras la retirada del DV con grúa en la OTV Grygov, el MVTV debía continuar hacia la estación Horní Lideč. A las 11:08:04 h, el despachador director 2B preguntó al maquinista del tren Ex 116 por el estado de los colectores de su HDV y por el estado del TV a la vista desde el HDV. El maquinista le comunicó que ni el colector del HDV ni el TV mostraban ningún defecto a la vista. El despachador director 2B dio al maquinista la instrucción de continuar con la marcha del tren Ex 116 desde el extremo P/D hacia la TK n.º 2 enlazadora Dluhonice – Prosenice, sin embargo, el maquinista le informó de que no era posible determinar con la vista desde el HDV el estado del TV por detrás del tren, donde también podía encontrarse el defecto o la avería del TV. Por ello, el maquinista del tren Ex 116 se dirigió a realizar una inspección a pie alrededor del HDV. A las 11:08:11 h, se detuvo en la TK n.º 1 Přerov – Prosenice, por delante del nivel de la señal de entrada 1S, el tren Ex 1251 retrasado. Posteriormente, a las 11:16:04 h, el maquinista del tren Ex 116 comunicó al despachador director 2B el resultado de la inspección a pie realizada alrededor del HDV que conducía, cuando, por delante del punto de convergencia del conjunto (tramo de anclaje) del TV del enlace de vías por el que circulaba entre las agujas n.º 26 y 28 y del conjunto (tramo de anclaje) del TV de la SK, que es la continuación de la SK n.º 1 en el extremo P/D, el hilo de contacto del conjunto del TV de la SK, que es la continuación de la SK n.º 1 en el extremo P/D, se encontraba colgado, es decir, estaba por debajo del hilo de contacto del enlace de vías, y rozaba la esquina izquierda del limpiador del colector delantero. Como existía el riesgo de que el hilo colgado fuera arrastrado bajo el limpiador, el maquinista se negó a continuar con el tren en su marcha hacia la enlazadora Dluhonice. Asimismo, dio al despachador director 2B información de que algunos tirantes entre el cable portante y el hilo de contacto no estaban completamente tensos, de lo cual el despachador director 2B dedujo que se había producido un daño en el TV según su declaración: «… claro, ahí debe haber algún cable portante roto y tienes ahí un colgamiento…».
 A las 11:26:23 h, el electrodespachador preguntó al despachador director 2B por la situación en la estación Prosenice, quien le comunicó la información remitida desde el lugar por el maquinista del tren Ex 116, de que el TV en el extremo P/D estaba colgado y que, tras elevar el colector del HDV, existía el riesgo de arrancar el TV. El electrodespachador a continuación mencionó la marcha planificada del MVTV, que había sido establecida como tren hasta la estación Horní Lideč, es decir, también a través de la estación Prosenice, y finalizó la conversación sin dar al despachador director 2B ninguna instrucción que constituyera la medida necesaria para la explotación segura. El electrodespachador no dio esta instrucción a pesar de que, entre los participantes de la citada MU, es decir, el maquinista, el despachador director 2B y el electrodespachador, era el único que conocía la disposición del conjunto del TV en la estación Prosenice y las posibles causas del colgamiento del hilo de contacto. Posteriormente, a las 11:28:42 h, contactó con los empleados del MVTV, que ya se encontraban en la OTV Grygov, y les informó del colgamiento del TV en algún punto del espacio de las agujas n.º 26 y 29 de la estación Prosenice. Especificó a los empleados de la OTV Grygov la situación surgida con su declaración: «… en Prosenice, que supuestamente en algún lugar cerca de la aguja 29, en algún lugar entre la vía 1 y la 2 en dirección hacia aquí, hacia Přerov, y que supuestamente se habría roto algún cablecito y ahí hay un hilo de contacto colgado, ¿vale?, así que tendrán que ir allí…». A las 11:31:19 h, el electrodespachador informó al ingeniero de transporte ferroviario de la SEE Olomouc de la situación surgida en la estación Prosenice, quien el día
 
-
 ## Página 39
+
 
 4. 7. 2020 desempeñaba la función de guardia de accidentes de la SEE Olomouc, al que le comunicó: «… en Prosenice, en algún lugar del extremo de Přerov, allí pasaba un tren, le tembló el hilo de contacto por encima, yo aquí tuve un corte, supuestamente hay un hilo de contacto colgado…». Tras esta comunicación, el electrodespachador envió a la estación Prosenice, con el fin de comprobar el estado directamente en el lugar, al trabajador de guardia de accidentes de la SEE Olomouc. No adoptó ninguna otra medida necesaria para garantizar la explotación segura en la estación Prosenice, lo que tuvo como consecuencia, entre otras, no informar al despachador director 2B de la no aptitud para la explotación del TV en la parte de la estación Prosenice afectada por la avería (véase más arriba y también el punto 4.1.1 de esta ZZ).
 A las 11:34:30 h, el despachador director 2B recibió del maquinista la información de que el HDV del tren Ex 116 se encontraba en la aguja n.º 28 y que la aguja n.º 29, junto a la cual se encontraba físicamente el maquinista, no estaba ocupada por ningún DV. A continuación, el despachador director 2B atendió la SZZ de la estación Prosenice y realizó desde el JOP las operaciones para la anulación de emergencia del bloqueo de vía establecido desde la SK n.º 2 de la estación Prosenice hacia la TK n.º 2S enlazadora Dluhonice – Prosenice. Posteriormente, informó al maquinista del tren Ex 116 de que el tren Ex 116 sería retirado de vuelta a la SK n.º 2 mediante una maniobra de estacionamiento tirando del HDV desde el tren Ex 1112 (transportista RJ), el cual sería enganchado al TDV de señalización, es decir, al último TDV del tren Ex 116.
@@ -1317,17 +1300,17 @@ A las 11:53:21 h, el maquinista del HDV del tren Ex 1112 informó al despachador
 ## Página 40
 
 del tren Ex 141 la señal de entrada 2DS y el tren entró con los colectores recogidos en la estación de Prosenice.
-Entre las 11:58:34 h y las 11:59:13 h el tren Ex 141 continuó su marcha con los colectores recogidos a través de la P/D de la estación de Prosenice, a través de la SK n.º 3a de esta P/D, hacia la SK n.º 3, sin que su circulación se viera acompañada de ninguna otra anomalía.
-A las 11:59:13 h, es decir, después de que el tren Ex 141 hubiera pasado por el extremo de Dluhonice (continuación de la TK n.º 2S) y por la P/D de la estación de Prosenice, el despachador de circulación 2B informó al maquinista del tren Ex 1251 de su circulación desde la TK n.º 1 Přerov – Prosenice hacia la SK n.º 1 de la estación de Prosenice y, al mismo tiempo, le dio únicamente una instrucción verbal para la circulación anormal del tren con los colectores recogidos en la entrada de la estación de Prosenice, a partir de la aguja más alejada de su itinerario (aguja n.º 29
-### situada en el pk 190,386). Aunque en el caso de la circulación anormal de un tren con los colectores recogidos el jefe de estación debe, según los procedimientos tecnológicos del explotador de la vía SŽ, informar al maquinista mediante una orden escrita, el despachador de circulación 2B no ordenó al maquinista del tren Ex 1251, en esta anomalía, que redactara mediante el equipo de telecomunicaciones la orden «Orden de tren», es decir, que no le informó por escrito de dicho hecho (anomalía). Aunque el maquinista del tren Ex 1251 no fue informado de la circulación anormal del tren con los colectores recogidos de manera demostrable, aceptó esta instrucción del despachador de circulación 2B y estaba preparado para ejecutarla antes de entrar en la P/D.
-A las 11:59:45 h el despachador de circulación 2B realizó mediante el servicio normal de la SZZ desde el JOP las operaciones para la circulación del tren Ex 1251 desde la TK n.º 1 Přerov – Prosenice desde la señal de entrada 1S a través de las agujas de la P/D en dirección directa hacia la SK n.º 1 de la estación de Prosenice. 3 s después (11:59:48 h) la señal de entrada 1S comenzó a mostrar la señal «Aviso». En base a esta señal, a las 12:00:08 h el maquinista del tren Ex 1251 puso el tren en movimiento.
-A las 12:00:02 h el maquinista del tren Ex 116 comunicó al despachador de circulación 2B la preparación del tren para la salida de la estación de Prosenice. En ese momento, el ingeniero de transporte ferroviario de SEE Olomouc ya estaba realizando una ronda en la vía de la estación de Prosenice. Después de que el frente del tren Ex 1251
-### a las 12:00:24 h hubiera pasado el nivel de la señal de entrada 1S de la estación de Prosenice y el tren hubiera entrado en el extremo de Přerov, 10 s después (12:00:34 h) en el pk 190,058, delante del nivel de la estructura de soporte de la TV entre los TP n.º 93 y 94, es decir, en el punto de separación mecánico/eléctrico
-### definido por los TP n.º 97 y 87, se produjo el MU – colisión del tren con una pieza suelta del cable de soporte del conjunto TV (tramo de anclaje definido por los TP n.º 97 y 45).
-A las 12:01:16 h el despachador de circulación 2B recibió del maquinista del tren Pn 45064 la información de la pérdida de tensión en la TV sobre la TK n.º 1 Přerov – Prosenice. Se trataba de un tren de mercancías que desde la estación de Přerov entró en la TK n.º 1 detrás del tren Ex 1251 y a las 11:11:34 h ocupó el tramo de vía delimitado por las señales de bloque AB 1-1878 y 1-1888, es decir, el último tramo de vía libre detrás del tren Ex 1251, donde permaneció detenido. Al mismo tiempo, el ingeniero de transporte ferroviario de SEE Olomouc contactó con el despachador eléctrico, al que comunicó que, con la entrada del tren Ex 1251 desde la TK n.º 1 Přerov – Prosenice, se había producido un cortocircuito y descargas eléctricas en el conjunto TV en el extremo de la estación. Además, le informó de que se dirigiría al lugar donde había visto el cortocircuito y las descargas eléctricas, y que durante la ronda realizada a lo largo de la vía había detectado cables de suspensión sueltos de la TV sobre la SK n.º 1. A las 12:01:59 h el maquinista del tren Ex 1251 comunicó al despachador de circulación 2B la producción del MU, al que, entre otras cosas, le indicó que la TV no estaba hundida, pero que sus piezas invadían el perfil de paso de la SK por la que circulaba, así como la información de que la avería de la TV no estaba en la P/D, sino ya en el extremo de la estación de Prosenice. A las 12:05:00 h el despachador eléctrico contactó con el despachador de circulación 2B con el fin de determinar los motivos de la interrupción del suministro de la TV y la situación en la estación de Prosenice. Este le comunicó que el tren Ex 1251 había chocado con una pieza suelta (colgante) de la TV. El despachador de circulación 2B, ante la pregunta del despachador eléctrico sobre el motivo de la circulación del tren Ex 1251 desde la TK n.º 1 Přerov – Prosenice hacia la estación de Prosenice (literal de la pregunta del despachador eléctrico: «¿Por qué se movió?»), le comunicó que la circulación del tren
-
+Entre las 11:58:34 h y las 11:59:13 h el tren Ex 141 continuó su marcha con los colectores recogidos a través del extremo P/D de la estación de Prosenice, a través de la vía de enlace SK n.º 3a de dicho extremo, hacia la vía de enlace SK n.º 3, sin que su circulación se viera acompañada de otras anomalías.
+A las 11:59:13 h, es decir, en el momento posterior al paso del tren Ex 141 por el extremo de Dluhonice (continuación de la vía de enlace TK n.º 2S) y por el extremo P/D de la estación de Prosenice, el despachista de circulación 2B informó al maquinista del tren Ex 1251 de la circulación desde la vía de enlace TK n.º 1 Přerov – Prosenice hacia la vía de enlace SK n.º 1 de la estación de Prosenice y, al mismo tiempo, le dio únicamente una instrucción verbal para la circulación anormal del tren con los colectores recogidos en el extremo de entrada de la estación de Prosenice, a partir del desvío más alejado en su itinerario (desvío n.º 29
+### situado en el km 190,386). Aunque en el caso de la circulación anormal de un tren con los colectores recogidos el jefe de estación debe, según los procedimientos tecnológicos del gestor de la vía SŽ, informar al maquinista mediante una orden escrita, el despachista de circulación 2B no ordenó al maquinista del tren Ex 1251, en esta anomalía, la redacción de la orden Příkaz vlaku mediante el aparato de telecomunicaciones, es decir, que no le informó por escrito de dicho hecho (anomalía). Aunque el maquinista del tren Ex 1251 no fue informado de la circulación anormal del tren con los colectores recogidos de manera demostrable, aceptó esta instrucción del despachista de circulación 2B y estaba preparado para ejecutarla antes de entrar en el extremo P/D.
+A las 11:59:45 h el despachista de circulación 2B realizó mediante el servicio normal de SZZ desde JOP las operaciones para la circulación del tren Ex 1251 desde la vía de enlace TK n.º 1 Přerov – Prosenice desde la señal de entrada 1S a través de los desvíos del extremo P/D en dirección directa hacia la vía de enlace SK n.º 1 de la estación de Prosenice. 3 s después (11:59:48 h) la señal de entrada 1S comenzó a emitir la señal «Výstraha». En base a esta señal, a las 12:00:08 h el maquinista del tren Ex 1251 puso el tren en marcha.
+A las 12:00:02 h el maquinista del tren Ex 116 comunicó al despachista de circulación 2B la preparación del tren para la salida de la estación de Prosenice. En ese momento el ingeniero de transporte ferroviario SEE Olomouc ya estaba realizando una ronda en la vía de la estación de Prosenice. Después, cuando el frente del tren Ex 1251
+### a las 12:00:24 h superó el nivel de la señal de entrada 1S de la estación de Prosenice y el tren entró en el extremo de Přerov, 10 s después (12:00:34 h) en el km 190,058, delante del nivel de la puerta portante TV entre los puntos TP n.º 93 y 94, es decir, en el punto de separación mecánico/eléctrico
+### delimitado por los puntos TP n.º 97 y 87, se produjo el MU – colisión del tren con una pieza suelta del cable portante del conjunto TV (tramo de anclaje delimitado por los puntos TP n.º 97 y 45).
+A las 12:01:16 h el despachista de circulación 2B recibió del maquinista del tren Pn 45064 la información de la pérdida de tensión en la TV sobre la vía de enlace TK n.º 1 Přerov – Prosenice. Se trataba de un tren de mercancías que desde la estación de Přerov entró en la TK n.º 1 detrás del tren Ex 1251 y a las 11:11:34 h ocupó el tramo de vía delimitado por las señales de tramo AB 1-1878 y 1-1888, es decir, el último tramo de vía libre detrás del tren Ex 1251, donde permaneció detenido. Al mismo tiempo el ingeniero de transporte ferroviario SEE Olomouc contactó con el despachista eléctrico, al que comunicó que, con la entrada del tren Ex 1251 desde la vía de enlace TK n.º 1 Přerov – Prosenice, se había producido un cortocircuito y descargas eléctricas en el extremo de la estación sobre el conjunto TV. Asimismo le informó de que continuaría hacia el lugar donde había visto el cortocircuito y las descargas eléctricas, y de que durante la ronda realizada a lo largo de la comunicación había detectado cables de suspensión sueltos de la TV sobre la SK n.º 1. A las 12:01:59 h el maquinista del tren Ex 1251 comunicó al despachista de circulación 2B la producción del MU, al que, entre otras cosas, indicó que la TV no estaba colgada, pero que sus piezas invadían el perfil de circulación de la SK por la que circulaba, así como la información de que la avería de la TV no estaba en el extremo P/D, sino ya en el extremo de la estación de Prosenice. A las 12:05:00 h el despachista eléctrico contactó con el despachista de circulación 2B con el fin de averiguar los motivos de la interrupción del suministro de la TV y la situación en la estación de Prosenice. Este le comunicó que el tren Ex 1251 había chocado con un componente suelto (colgante) de la TV. El despachista de circulación 2B informó al despachista eléctrico, ante su pregunta sobre el motivo de la circulación del tren Ex 1251 desde la vía de enlace TK n.º 1 Přerov – Prosenice hacia la estación de Prosenice (texto literal de la pregunta del despachista eléctrico: «¿Por qué se movía?»), de que la circulación del tren
 
 ## Página 41
+
 
 Ex 1251 la autorizó en base a las informaciones facilitadas por el maquinista del tren Ex 116,
 ### y le recordó que también de él tenía la información de que SEE Olomouc, salvo la interrupción breve del suministro de la TV durante la circulación del tren Ex 116, no mostraba en el despacho eléctrico ninguna avería ni defecto de la TV en la estación de Prosenice. Después de que el despachador eléctrico hubiera recibido la información sobre la existencia de cables de suspensión sueltos y el hundimiento de la TV en la P/D, debía, en base a su competencia y a sus experiencias prácticas hasta la fecha, evaluar correctamente
@@ -1381,8 +1364,8 @@ comunicación inicial de la producción del MU por la persona autorizada del exp
 de la vía SŽ y del transportista LE al COP DI como colisión del tren Ex 1251 en
 el extremo de Přerov de la estación de Prosenice con una pieza de la TV, con una estimación
 
-
 ## Página 42
+
 
 inicial de daños de 1 mill. Kč. En base a los hechos comunicados, la DI, a través del empleado que recibe la comunicación de la producción del MU, dio su consentimiento para la liberación de la vía;
 16:00 h
@@ -1402,6 +1385,7 @@ En este punto es oportuno indicar que la TV de las líneas electrificadas es, se
 ### la liberación de piezas del cable de soporte de la TV, que entre los TP n.º 95/96 y 91/92 invadían (colgaban) fuera del espacio del hilo de contacto en el perfil de paso de la SK, que es continuación de la TK n.º 1 Prosenice – Přerov. Por esta vía con una TV inoperativa se autorizó posteriormente, a las 11:49:48 h, con la señal «Aviso» mostrada por la señal de entrada 1S de la estación de Prosenice, la circulación del tren Ex 1251.
 
 ## Página 43
+
 
 ### Hallazgo:
 La TV sobre la estación de Prosenice, que es la continuación de la TK n.º 1 Prosenice – Přerov, fue
@@ -1457,8 +1441,8 @@ manual de explotación y mantenimiento. Si el dispositivo eléctrico no cumple l
 técnicos o las condiciones de explotación según el proyecto o el manual de explotación y
 mantenimiento, se puede declarar no apto para el servicio".
 
-
 ## Página 44
+
 
 El jefe de despacho (vedoucí dispečer) es, en la gestión operativa de la explotación (explotación
 de la vía férrea y del tráfico ferroviario) en el sector asignado, en el sentido del § 22 apartado
@@ -1518,8 +1502,8 @@ señales de llamada), si la vía de tren está ocupada por el DV. Esta funcional
 utilizarse en el caso de que el SZZ correspondiente presente una actividad correcta. La vía de
 tren se considera, en el sentido del Decreto
 
-
 ## Página 45
+
 
 n.º 173/1995 Sb. y de la norma interna SŽDC D1, libre en el caso de que no esté ocupada por
 el DV.
@@ -1581,6 +1565,7 @@ en lengua checa.
 
 ## Página 46
 
+
 ### Hallazgos:
 En la investigación también se constató la infracción de la normativa legal y de las normas internas relativas a
 ### las funciones y obligaciones del gestor de la infraestructura SŽ, ajena a la relación causal con la aparición de la MU
@@ -1599,8 +1584,8 @@ El despachador de circulación 2B, en la comunicación mediante equipo de teleco
 •
 "Los cambios en las condiciones de circulación de los trenes, cuando no estén señalizados de forma unívoca por las señales correspondientes o señales maneras, los sucesos excepcionales en la explotación de la infraestructura y del tráfico ferroviario que puedan influir en la seguridad y regularidad de la circulación de los trenes, y las instrucciones relacionadas con ellos, deben comunicarse a la dotación del tren por escrito o mediante un equipo técnico con registro acreditado de la comunicación de ambas partes";
 
-
 ## Página 47
+
 
 § 68 apartado 3 del Decreto nº 173/1995 Sb.:
 •
@@ -1632,8 +1617,8 @@ Nota DI: la disposición del artículo mencionado es aplicable también a los ar
 ◦artículo 3324 de la norma interna SŽDC D1:
 "La orden de tren se redacta solo cuando por esta u otra norma se ordene la comunicación mediante orden escrita (V, Op, Z o V PMD). Es una orden escrita (con texto prediseñado) cuya redacción en caso de anomalías ordena el jefe de estación mediante equipo de telecomunicaciones al maquinista";
 
-
 ## Página 48
+
 
 artículo 3281 letra b) de la norma interna SŽDC D1:
 •
@@ -1655,19 +1640,15 @@ d) sobre la base de la comunicación y del registro de la aptitud de los compone
 
 ## Página 49
 
-El despachador eléctrico, en la dirección operativa del funcionamiento de las instalaciones eléctricas para garantizar la operabilidad del camino de tráfico ferroviario en el área de dirección definida, en el sentido del § 22 apartado 1 letra a) de la ley núm. 266/1994 Sb., § 22 letras a) y b) y § 25 apartado 13 del decreto núm. 177/1995 Sb. y de las disposiciones correspondientes de las normas internas del operador del camino SŽ, en el ámbito territorial de su competencia, es directamente superior a todos los empleados operativos que garantizan el funcionamiento, la explotación, el mantenimiento y la seguridad de las instalaciones eléctricas. En el marco del servicio, entre otros, está obligado a supervisar continuamente la situación operativa y energética y, sobre la base de los informes sobre averías y fallos en las instalaciones de tracción eléctrica, en conexión con el conocimiento y el análisis del estado, dirige operativamente las actividades en las instalaciones bajo su dirección. En caso de anomalías en el suministro eléctrico de la TV en líneas electrificadas, averías, caídas del suministro energético, condiciones atmosféricas adversas, etc., garantiza oportunamente las medidas necesarias y delibera la introducción de interrupciones no previstas y la colocación de las señales correspondientes para la circulación eléctrica, siendo responsable de la delimitación de las averías en todas las instalaciones bajo su dirección. En caso de averías, informa al jefe de estación, respectivamente a los despachadores de línea, es decir, a las personas que dirigen el tráfico ferroviario en el lugar dado en el camino, mediante orden de despacho sobre los posibles cambios en la TV (por ejemplo, sobre agujas no circulables eléctricamente u otros lugares que deben ser recorridos con el pantógrafo recogido), acordando con los jefes de estación las condiciones para las circulaciones DV de tracción eléctrica y otras medidas de tráfico necesarias, de las que informa a todos los puestos de trabajo correspondientes de dirección del tráfico en el camino de tráfico. En caso de averías de la TV que amenacen la seguridad de las personas o el tráfico ferroviario, o en caso de que exista riesgo de aumento del alcance de la avería o del daño, garantiza sin demora su delimitación y eliminación aprovechando la posibilidad de interrupción no prevista de vía y de interrupción de tensión. Para estos casos, el despachador eléctrico declara el estado de avería de la instalación eléctrica.
-
-El descolgamiento de la TV es una anomalía de tal carácter que con la posterior explotación del tráfico ferroviario en el lugar afectado – el tramo de anclaje – puede producirse un aumento del daño a la TV, respectivamente la aparición de una MU. El descolgamiento de la TV es siempre una desviación del estado aprobado de la instalación, causada por la rotura/liberación de los soportes de la línea de cadena, un fallo en la suspensión de la TV en el TP (portales portantes, etc.), la rotura del cable portante o del hilo de catenaria o de ambos de los mencionados, con la previsible afectación del perfil de circulación de la vía en explotación o un fallo en el dispositivo de tensado del conjunto de TV del tramo de anclaje dado, lo que tiene una influencia fundamental en la operabilidad del camino.
-
-### Hallazgos:
-En la investigación se constató también la infracción de normas legales y normas internas relativas a las funciones y obligaciones del operador del camino SŽ en relación causal con la aparición de la MU relacionada con la actividad del despachador eléctrico:
-
-El despachador eléctrico, sobre la base del informe sobre el descolgamiento de la TV en el extremo P/D de la est. Prosenice transmitido por el despachador director 2B el 4. 7. 2020 a las 11:02:12 h y posteriormente sobre el posible daño a la TV en dicho lugar durante la circulación de la HDV con el pantógrafo recogido transmitido el mismo día a las 11:26:23 h, no relacionó la información transmitida con las caídas de suministro anteriores y los cortocircuitos en la TV de la est. Prosenice, producidos en el período desde las 11:00:33 h hasta las 11:00:48 h (véase el punto 3.1.8 de esta ZZ).
-
-El despachador eléctrico, a pesar de su competencia profesional y conocimiento de las instalaciones bajo su dirección, en este caso concreto la disposición de la TV en la est. Prosenice, no tuvo en cuenta el hecho de que los subconjuntos de TV (tramos de anclaje) sobre el extremo P/D se extienden también sobre las SK, que son la continuación de las TK, es decir, sobre las cabeceras de Přerov, respectivamente de Dluhonice, sin considerar la posible causa más grave del descolgamiento de la TV, que amenazaba directamente la circulación segura del camino y del tráfico ferroviario. Se centró únicamente en la delimitación de la avería. La no adopción
-
+El despachador eléctrico, en la dirección operativa del funcionamiento de las instalaciones eléctricas para garantizar la operatividad del camino de tráfico ferroviario en el área de dirección definida, en el sentido del § 22 apartado 1 letra a) de la ley nº 266/1994 Sb., del § 22 letras a) y b) y del § 25 apartado 13 del decreto nº 177/1995 Sb. y de las disposiciones correspondientes de las normas internas del operador de la vía SŽ, en el ámbito territorial de su competencia, es directamente superior a todos los empleados operativos que garantizan el funcionamiento, la explotación, el mantenimiento y la seguridad de las instalaciones eléctricas. En el marco del servicio, entre otras obligaciones, debe vigilar continuamente la situación operativa y energética y, sobre la base de los informes sobre averías y fallos en las instalaciones de tracción eléctrica, en conexión con el conocimiento y el análisis del estado, dirige operativamente las actividades en las instalaciones bajo su dirección. En caso de anomalías en el suministro eléctrico de la TV en las líneas electrificadas, averías, cortes de suministro energético, condiciones atmosféricas adversas, etc., garantiza oportunamente las medidas necesarias y negocia la implantación de interrupciones no previstas y la colocación de las señales correspondientes para la circulación eléctrica, siendo responsable de la delimitación de las averías en todas las instalaciones bajo su dirección. En caso de averías, informa al jefe de estación, respectivamente a los despachadores de línea, es decir, a las personas que dirigen el tráfico ferroviario en el lugar dado de la vía, mediante orden de despacho sobre los posibles cambios en la TV (por ejemplo, sobre agujas no circulables eléctricamente u otros lugares que deben ser recorridos con el pantógrafo recogido), acordando con los jefes de estación las condiciones para las circulaciones DV de tracción eléctrica y otras medidas de tráfico necesarias, de las que informa a todos los puestos de dirección de tráfico correspondientes en el camino de tráfico. En caso de averías de la TV que amenacen la seguridad de las personas o el tráfico ferroviario, o en caso de que exista riesgo de ampliación del alcance de la avería o del daño, garantiza sin demora su delimitación y eliminación aprovechando la posibilidad de interrupción no prevista de vía y de interrupción de tensión. Para estos casos, el despachador eléctrico declara el estado de avería de la instalación eléctrica.
+La caída de la TV es una anomalía de tal carácter que con la continuación del tráfico ferroviario en el lugar afectado –el tramo anclado– puede producirse un aumento del daño a la TV, respectivamente la aparición de un MU. La caída de la TV es siempre una desviación del estado aprobado de la instalación, causada por la rotura/liberación de los soportes de la línea de cadenas, un defecto en la suspensión de la TV en el TP (portales portadores, etc.), la rotura del cable portador o del cable de contacto o de ambos de los mencionados, con la previsible afectación del perfil de circulación de la vía en servicio o un defecto en el dispositivo de tensado del conjunto de TV del tramo anclado correspondiente, lo que tiene una influencia fundamental en la operatividad de la vía.
+### Constatación:
+En la investigación también se constató una infracción de la normativa legal y de las normas internas, relativa a las tareas y obligaciones del operador de la vía SŽ en relación causal con la aparición de un MU relacionado con la actividad del despachador eléctrico:
+El despachador eléctrico, sobre la base del informe sobre la caída de la TV en el extremo P/D de la estación. Prosenice, transmitido por el despachador director 2B el 4 de julio de 2020 a las 11:02:12 h, y posteriormente sobre el posible daño a la TV en dicho lugar durante la circulación de la HDV con el pantógrafo levantado, transmitido el mismo día a las 11:26:23 h, no relacionó la información recibida con los cortes de suministro anteriores y los cortocircuitos en la TV de la estación. Prosenice, producidos en el período comprendido entre las 11:00:33 h y las 11:00:48 h (véase el punto 3.1.8 de la presente ZZ).
+El despachador eléctrico, a pesar de su competencia profesional y de su conocimiento de las instalaciones bajo su dirección, en este caso concreto la disposición de la TV en la estación. Prosenice, no tuvo en cuenta el hecho de que los subconjuntos de TV (tramos anclados) sobre el extremo P/D se extienden también sobre las SK, que son la continuación de las TK, es decir, sobre las cabeceras de Přerov, respectivamente Dluhonice, sin considerar la posible causa más grave de la caída de la TV, que amenazaba directamente la circulación segura de la vía y del tráfico ferroviario. Se centró únicamente en la delimitación de la avería. La no aceptación
 
 ## Página 50
+
 
 de las medidas necesarias para la circulación segura DV en las SK (cabeceras) de la est. Prosenice, que es la continuación de la TK núm. 1 Přerov – Prosenice, consistente en la no introducción de la interrupción de tensión no prevista de la TV, y/o también de la interrupción no prevista de la SK, y en la no información al despachador director 2B de la no operabilidad de la TV, especialmente en la parte sur de la est. Prosenice, tuvo como consecuencia la posibilidad de la circulación del tren Ex 1251 hacia un lugar en el camino que no era operable.
 
@@ -1697,8 +1678,8 @@ artículo 92 de la norma interna SŽDC E6:
 •
 "En caso de anomalías en el suministro eléctrico de la línea de tracción en la línea electrificada, ..., averías, caídas del suministro energético, ... etc., el despachador eléctrico en el servicio garantiza oportunamente las medidas necesarias, por ejemplo, el cambio de la configuración de las protecciones, la apertura de los seccionadores de tramo, la colocación de señales para la circulación eléctrica (en las interrupciones planificadas responde el representante responsable del solicitante de la interrupción (en adelante OZOV) según la norma SŽDC (ČD) D2 artículo 960), ...";
 
-
 ## Página 51
+
 
 artículo 106 de la norma interna SŽDC E6:
 •
@@ -1721,6 +1702,7 @@ En la investigación se constató la infracción de normas legales y normas inte
 El maquinista del tren Ex 116, durante la circulación en el área de agujas adyacente a la señal de salida L2 de la est. Prosenice, que señalizaba la señal "Velocidad 40 km/h y libre" y que estaba marcada
 
 ## Página 52
+
 
 indicador con el número 5, alcanzó una velocidad de hasta 52 km·h-1, lo que supone una superación de la velocidad máxima permitida de 50 km·h-1 en 2 km·h-1.
 § 35 apartado 1 letra a) de la Ley núm. 266/1994 Sb.:
@@ -1750,8 +1732,8 @@ En el caso de esta MU concreta, es necesario relacionar las disposiciones anteri
 Durante la investigación se constató la infracción de disposiciones legales y normativas internas, relativas a las funciones y obligaciones del transportista LE, ajena a la relación causal con la aparición de la MU:
 El maquinista del tren Ex 1251 no redactó, antes de entrar en la estación de Prosenice, en el momento en que el tren estaba detenido en el TK núm. 1 Přerov – Prosenice antes de la señal de entrada 1S de la estación de Prosenice, la orden Pv que contuviera la instrucción emitida por el despachador de circulación 2B mediante el dispositivo de telecomunicaciones, de circular con los pantógrafos recogidos. Aunque el despachador de circulación 2B no ordenó al maquinista del tren Ex 1251 la redacción de la orden Pv, el maquinista debió plantear una objeción en este asunto (solicitar la redacción de la orden Pv), ya que se trataba de una avería del equipo de tracción eléctrica (TV) que repercutía en su trabajo, es decir, de una incidencia relacionada con la explotación de la vía, de la que los miembros de la dotación del tren son informados mediante una orden escrita. Esto tuvo como consecuencia
 
-
 ## Página 53
+
 
 no redactar la orden Pv, no anotar los datos comunicados por el despachador de circulación 2B en los lugares designados de la orden Pv y, posteriormente, no leer el contenido de la orden en el dispositivo de telecomunicaciones y no comunicar el apellido del maquinista del tren Ex 1251 al despachador de circulación 2B.
 Nota DI: lo anterior no puede valorarse en relación causal, ya que la marcha del tren Ex 1251 con los pantógrafos recogidos debía realizarse hasta la P/D de la cabecera de la estación de Prosenice, pero el lugar de la avería de la TV (componentes sueltos del cable portador del conjunto de la TV) se encontraba ya en la cabecera de Přerov de la estación de Prosenice, es decir, en un lugar más próximo a la señal de entrada 1S de la estación de Prosenice (véase el punto 3.2.1 de esta ZZ).
@@ -1781,8 +1763,8 @@ En el caso de esta MU concreta, es necesario relacionar la disposición anterior
 «De la instrucción dada responde quien la ha dado, de su ejecución responde quien debe llevarla a cabo. Si la ejecución de la instrucción contradijera las disposiciones de las normas, el empleado que deba ejecutar la instrucción debe formular objeciones de inmediato. …»,
 ◦art. 3247 de la normativa interna SŽDC D1:
 
-
 ## Página 54
+
 
 «De las incidencias relacionadas con la explotación de la vía se informa a los miembros de la dotación del tren mediante una orden escrita. …»,
 ◦art. 3281 letra b) de la normativa interna SŽDC D1:
@@ -1800,8 +1782,8 @@ La autoridad nacional de seguridad es el DÚ, que de acuerdo con la Ley núm. 26
 La función de la Agencia Ferroviaria de la Unión Europea es, además de garantizar, en el marco de sus competencias, que se mantenga y, en la medida de lo posible, se aumente de forma sistemática la seguridad de los ferrocarriles, entre otras, la emisión, renovación, suspensión y modificación de los certificados únicos de seguridad, la limitación de su vigencia o su cancelación, en cuestión en la que colabora con las autoridades nacionales de seguridad; asimismo, emite autorizaciones para la comercialización de vehículos ferroviarios y de tipos de vehículos y está facultada para renovar, modificar, suspender o cancelar las autorizaciones que haya emitido. La Agencia evalúa asimismo los proyectos de normativa nacional, etc.
 Durante la investigación no se constató infracción de las funciones y obligaciones de la autoridad nacional de seguridad y de la Agencia Ferroviaria de la Unión Europea.
 
-
 ## Página 55
+
 
 ### 4.1.5 Entidades notificadas, entidades designadas y entidades dedicadas a la evaluación de riesgos
 Durante la investigación no se constató infracción de las funciones y obligaciones de las entidades notificadas, de las entidades designadas y de las entidades dedicadas a la evaluación de riesgos.
@@ -1826,6 +1808,7 @@ el día 30. 3. 2020, en el horario de 8:59:33 h a 9:09:48 h, realizó con una ve
 en el intervalo de 37 a 119 km·h-1 la inspección y medición de la TV sobre el TK núm. 2S de la aguja de enlace Dluhonice – Prosenice, el SK núm. 3 de la estación de Prosenice y el TK núm. 1 Prosenice – Lipník nad Bečvou, y en el horario de 14:09:11 h a 14:19:40 h realizó con una velocidad del tren en el intervalo de 48 a
 
 ## Página 56
+
 
 122 km·h-1 inspección y medición de la TV sobre TK n.º 2 Lipník nad Bečvou, SK n.º 2 
 est. Prosenice y TK n.º 2 Prosenice – Přerov;
@@ -1872,8 +1855,8 @@ durante el turno.
 En la investigación no se detectaron factores relacionados con la organización del 
 trabajo o las tareas laborales.
 
-
 ## Página 57
+
 
 ### 4.3.4 Factores relacionados con el entorno laboral
 En la investigación no se detectaron factores relacionados con el entorno laboral.
@@ -1921,8 +1904,8 @@ En el sistema de garantía de la seguridad adoptado por el transportista LE rela
 con las circunstancias del origen de la MU objeto de estudio, no se detectaron 
 deficiencias.
 
-
 ## Página 58
+
 
 ### 4.4.4 Sistema de gestión de los sujetos responsables del mantenimiento de los 
 vehículos ferroviarios y de los talleres de mantenimiento
@@ -1966,8 +1949,8 @@ ferroviarios en la vía de estación de la cabecera de la est. Prosenice, que es
 continuación de la vía de tráfico n.º 1 Přerov – Prosenice, y la autorización de la 
 circulación del tren Ex 1251 por un punto con el hilo de contacto inoperativo.
 
-
 ## Página 59
+
 
 Un factor contribuyente del suceso extraordinario fue:
 la no consideración de una posible causa más grave de la avería del hilo de contacto – 
@@ -2020,6 +2003,7 @@ emitió ninguna medida.
 
 ## Página 60
 
+
 El operador ferroviario ČD, que no era parte en la citada MU, no adoptó ni emitió ninguna medida.
 ### Medidas adoptadas desde la ocurrencia
 El gestor de infraestructura SŽ adoptó la siguiente medida tras la ocurrencia:
@@ -2048,8 +2032,8 @@ no solicitud de la redacción de una orden escrita Pv tras recibir la instrucci�
 •
 de control 2B dada mediante equipo de telecomunicaciones para el paso del tren Ex 1251 de tracción eléctrica por los extremos P/D de la estación de Prosenice con los colectores recogidos.
 
-
 ## Página 61
+
 
 En el operador ČD:
 superación de la velocidad máxima permitida de 50 km·h-1 en hasta 2 km·h-1 durante el paso del tren Ex 116
@@ -2074,8 +2058,8 @@ En el operador ČD:
 superación de la velocidad máxima permitida de 50 km/h en hasta 2 km/h durante el paso del tren n.º 116 en el ámbito de los desvíos adyacentes a la señal L2 con la señal «Velocidad 40 km/h y libre», que estaba marcada con una placa indicadora con el número 5.
 •
 
-
 ## Página 62
+
 
 ## 6 RECOMENDACIONES DE SEGURIDAD
 Atendiendo a las causas y circunstancias determinadas de la ocurrencia de la anomalía, la Inspección Ferroviaria no emite recomendaciones de seguridad, puesto que no se han constatado datos que justificasen la emisión de una recomendación de seguridad en el marco de la prevención de la ocurrencia de anomalías.
@@ -2089,23 +2073,23 @@ inspector
 De la Inspección Territorial de Ostrava
 De la Inspección Territorial de Ostrava
 
-
 ## Página 63
+
 
 ## ANEXOS
 ### Fig. n.º 2, 3: Imágenes de la grabación de vídeo realizadas por el sistema Axis inmediatamente antes de la 1.ª y 2.ª colisión con piezas sueltas de la TV en el extremo de la estación de Prosenice.
 Fuente: LE
 
-
 ## Página 64
+
 
 ### Fig. n.º 4: Imagen de la grabación de vídeo realizada por el sistema Axis inmediatamente antes de la 3.ª colisión con otra pieza suelta de la TV en el extremo de la estación de Prosenice.
 Fuente: LE
 ### Fig. n.º 5: Detalle de los daños en el parabrisas frontal de la sección «B» causados por la 2.ª colisión del tren Ex 1251 con una pieza suelta de la TV (en el recorte, vista desde la cabina del DV).
                            Fuente: SŽ
 
-
 ## Página 65
+
 
 ### Fig. n.º 6: El torso del brazo superior del colector del DV de la sección «D», arrancado como consecuencia de la colisión del DV con piezas sueltas de la TV, se encontraba tras la ocurrencia de la MU en la vía del extremo de Přerov en el km 190,050.
 Fuente: SŽ

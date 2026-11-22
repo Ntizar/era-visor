@@ -10,12 +10,14 @@ chars: 50511
 ratio_longitud: 1.05
 tokens_in: 17300
 tokens_out: 12912
-verificacion: revisar
 fecha_proceso: 2026-11-18
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-avisos: ["página 6: ratio 1.63"]
+verificacion: ok
+notas_cifras: ["página 6: original bilingüe: se compara contra el idioma principal (EN)"]
 ---
+
 ## Página 1
+
 
 DESCARRILAMIENTO DEL TREN 58295  
 el 23 de mayo de 2011 
@@ -38,6 +40,7 @@ Página web:
 http://versa.bmvit.gv.at
 
 ## Página 2
+
 
 ### Índice 
 Página 
@@ -112,6 +115,7 @@ Anexo: Informes recibidos dentro del plazo .....................................
 
 ## Página 3
 
+
 ### Índice de figuras
 Página 
 Figura 1     Esquema de las líneas ferroviarias de Austria ........................................................................................................ 7 
@@ -165,6 +169,7 @@ EisbBBV
 Reglamento de Construcción y Explotación Ferroviaria, BGBl. II, n.º 398/2008
 
 ## Página 4
+
 
 ### Índice de normativas del IM/RU 
 DV B12  
@@ -251,10 +256,10 @@ Investigación in situ el 23 de mayo de 2011
 Evaluación de la documentación recibida: 
  
 Expediente de investigación del IM recibido el 24 de agosto de 2011 
-Las posibles consultas adicionales fueron respondidas hasta el 19 de septiembre de 2011. 
-
+Las posibles consultas adicionales fueron respondidas hasta el 19 de septiembre de 2011.
 
 ## Página 5
+
 
 ### Observaciones preliminares 
 La investigación se llevó a cabo conforme a las disposiciones del artículo 19, apartado 1, de la Directiva UE 2004/49/CE, en relación con las disposiciones del § 2, apartado 4, UUG. La investigación por parte de la UUB se realizó in situ. 
@@ -272,16 +277,15 @@ Este informe de investigación se dirige a:
 | BMWFJ Clusterbibliothek - | Centro Europeo de Documentación |
 | BundesministeriumfürVerkehr InnovationundTechnologie , | Autoridad |
 
-
 ## Página 6
 
-### 1. Resumen 
-El 23 de mayo de 2011, a las 04:46 horas, durante el paso autorizado por señal del tren Z 58295 (recorrido desde la estación Bf Linz Voest-Alpine hasta la estación Bf Götzendorf), en la estación Bf Gramatneusiedl, en el ámbito de una obra para la construcción de un paso inferior en sustitución del paso a nivel EK km 19,727, se produjo un descarrilamiento. 
-En el tren Z 58295 descarrilaron los vagones 7 a 11 y 13 a 18. Una separación del tren entre el 6.º y el 7.º vagón provocó un frenado de emergencia. La locomotora tractora del tren Z 58295 quedó detenida en el km 20,300.  
-La causa fue un asentamiento geomecánico del sublecho en el ámbito de las tablestacas hincadas y el incumplimiento de la velocidad reducida prescrita mediante orden. No estaban instaladas señales de marcha lenta. 
-Se produjeron daños materiales significativos en la infraestructura y en los vagones descarrilados, así como una interrupción prolongada de la línea debido al descarrilamiento. 
-No hubo personas fallecidas ni heridas. 
-### Summary 
+### 1. Resumen
+El 23 de mayo de 2011, a las 04:46, se produjo, durante la circulación con señalización en condiciones de servicio del Z 58295 (recorrido del Bf Linz Voest-Alpine al Bf Götzendorf), en el Bf Gramatneusiedl, en el ámbito de una obra para la construcción de un paso inferior en sustitución del EK km 19,727, un descarrilamiento.
+En el Z 58295 descarrilaron los coches 7 a 11 y 13 a 18. Una separación de tren entre los coches 6 y 7 provocó una frenada de emergencia. El Tfz a la cabeza del Z 58295 se detuvo en el km 20,300.
+La causa fue un asentamiento mecánico del terreno del subsuelo en el ámbito de las pantallas enterradas y el incumplimiento de la velocidad reducida prescrita mediante orden. No se instalaron señales de velocidad reducida.
+Se produjeron daños materiales considerables en la infraestructura y en los coches descarrilados, así como una interrupción prolongada de la línea a causa del descarrilamiento.
+No hubo personas fallecidas ni heridas.
+### Summary
 On May 23, 2011, at 04:46, during the signal standard compartible transit of train 
 58295 (train route station Linz Voest-Alpine to station Götzendorf) in station gramat-
 neusiedl, in the area of the construction of an underpass instead of level crossing   
@@ -294,10 +298,10 @@ and non-compliance of the prescribed command of reduced speed. Speed limitation
 signs were not installed. 
 There was considerable material damage to the infrastructure and the derailed wa-
 gons and a longer disruption of the line by the derailment. There were no persons   
-killed or injured. 
-
+killed or injured.
 
 ## Página 7
+
 
 ### 2. Datos generales  
 2.1. 
@@ -327,6 +331,7 @@ HU). La estación Bf Gramatneusiedl está equipada, en cuanto a sistemas de segu
 
 ## Página 8
 
+
 La catenaria funciona con una tensión nominal de 15 kV y una frecuencia de 
 16,7 Hz. 
 La gestión operativa se realiza conforme a las disposiciones y directrices de los 
@@ -351,10 +356,10 @@ Freno porcentual requerido 66 %
 *   frenado continuo y suficiente 
 
 Todos los vagones de mercancías poseen un registro válido en el Registro Austriaco 
-de Vehículos Ferroviarios. 
-
+de Vehículos Ferroviarios.
 
 ## Página 9
+
 
 2.7. 
 Velocidades permitidas 
@@ -365,20 +370,20 @@ Figura 3     Extracto del VzG Línea 11801 - Fuente IM
 La velocidad localmente permitida en el tramo afectado era de 
 140 km/h según el VzG del IM. 
 2.7.2. Extracto del Horario de Conducción ÖBB Heft 701 
-Figura 4     Extracto del Horario de Conducción Heft 701 – Fuente IM 
-
+Figura 4     Extracto del Horario de Conducción Heft 701 – Fuente IM
 
 ## Página 10
+
 
 Lugar del descarrilamiento 
 Figura 5     Extracto del Horario de Conducción Heft 701 - Modelo 4791 – Fuente IM 
 La velocidad permitida según el extracto del Horario de Conducción Heft 701 del IM, 
 Modelo 4791, era de 100 km/h. 
 2.7.3. Restricción de velocidad mediante La 
-Figura 6     Portada La Número 10/2011 Este Parte 2/3 - Fuente IM 
-
+Figura 6     Portada La Número 10/2011 Este Parte 2/3 - Fuente IM
 
 ## Página 11
+
 
 Figura 7     Extracto La Número 10/2011 Este Parte 2/3 - Fuente IM 
 En el tramo afectado no existía ninguna anotación relativa a una 
@@ -386,10 +391,10 @@ restricción de la velocidad.
 2.7.4. Restricción de velocidad mediante Betra 
 Figura 8     Extracto Betra 65586 del IM 
 Según el Betra 65586, no había indicación alguna de una restricción de la 
-velocidad. 
-
+velocidad.
 
 ## Página 12
+
 
 2.7.5. Restricción de velocidad mediante órdenes escritas 
 Figura 9     Orden A refrendada para Z 58295 - Fuente IM 
@@ -403,10 +408,10 @@ Nota UUB: AS km 19,587 hasta ES del sentido contrario km 20,125
 El paso por la Estación Gramatneusiedl estaba señalizado como "vía libre" en 
 el ES „A“ y en el AS „R2“. 
 No se habían instalado señales de marcha lenta. No se había realizado una protección 
-técnica del punto de marcha lenta. 
-
+técnica del punto de marcha lenta.
 
 ## Página 13
+
 
 ### 3. Descripción del incidente 
 Como consecuencia de trabajos de construcción cerca de la vía para la instalación de un 
@@ -424,23 +429,23 @@ en el km 20,130 se produjo una separación del tren entre el 6º y el 7º vagón
 HLL). Esto provocó un frenado de emergencia. 
 El Z 58295 detuvo su marcha con la cabecera del tren en el km 20,300. 
 ### Sentido de circulación Z 58295 
-Figura 10   Visión general de las consecuencias del descarrilamiento - Fuente Tren de rescate ÖBB 
-
+Figura 10   Visión general de las consecuencias del descarrilamiento - Fuente Tren de rescate ÖBB
 
 ## Página 14
 
-Figura 11   Visión general de las consecuencias del descarrilamiento – Vagones 7º al 20º - Fuente Tren de rescate ÖBB 
-Figura 12   Visión general de las consecuencias del descarrilamiento – Cola del tren - Fuente RU 
 
+Figura 11   Visión general de las consecuencias del descarrilamiento – Vagones 7º al 20º - Fuente Tren de rescate ÖBB 
+Figura 12   Visión general de las consecuencias del descarrilamiento – Cola del tren - Fuente RU
 
 ## Página 15
 
+
 Figura 13   Vista detallada 1 de los vagones descarrilados 
 Figura 14   Vista detallada 2 de los vagones descarrilados 
-Figura 15   Vista detallada 3 de los vagones descarrilados 
-
+Figura 15   Vista detallada 3 de los vagones descarrilados
 
 ## Página 16
+
 
 ### 4. Personas heridas, daños materiales e interrupciones de la explotación 
 4.1. 
@@ -493,10 +498,10 @@ Interrupción de la línea entre Gramatneusiedl y Götzendorf así como entre
 Gramatneusiedl y Mitterndorf-Moosbrunn hasta el 24 de mayo de 2011, 15:00 horas.  
 Se produjeron importantes retrasos de trenes y supresiones en el tráfico de larga distancia 
 de pasajeros, cercanías y mercancías. 
-Instauración de un servicio sustitutivo por carretera. 
-
+Instauración de un servicio sustitutivo por carretera.
 
 ## Página 17
+
 
 ### 5. Partes implicadas, contratistas y testigos 
 *   IM ÖBB-Infrastruktur AG 
@@ -516,16 +521,17 @@ vagón ha pasado el AS del sentido contrario, vuelve a acelerar. La cota de la v
 antes de la EK km 19,727 se recorre a aprox. 78 km/h. Aproximadamente 410 m más 
 adelante se registra un frenado de emergencia debido a la separación del tren; el 
 Z 58295 se detiene tras aprox. 185 m en el km 20,3 (representación gráfica distorsionada). 
-La hora registrada corresponde a MEZ (=“hora de invierno“). 
-
+La hora registrada corresponde a MEZ (=“hora de invierno“).
 
 ## Página 18
+
 
 6.2. 
 Análisis del registrador 
 Figura 18   Análisis espacial del registrador
 
 ## Página 19
+
 
 De la figura anterior se puede deducir lo siguiente para el trayecto del tren Z 58295:
 *   En la ubicación de la señal de entrada (ES) „A“ (señal de avance AVS „r“) se accionó la tecla „Vigilancia“.
@@ -539,6 +545,7 @@ De la figura anterior se puede deducir lo siguiente para el trayecto del tren Z 
 En el turno de servicio del 22/23 de mayo de 2011, el tren Z 58295 fue conducido desde la estación Bf Voest Alpine Linz. Al recibir los documentos del tren, se asumieron simultáneamente una orden A con una prescripción de desvío y dos tramos de marcha lenta. Sin incidentes especiales, se alcanzó la estación Bf Gramatneusiedl, donde, según la orden A, la velocidad del tren Z 58295 debía reducirse a 60 km/h. La orden fue leída incorrectamente, por lo que la velocidad del tren Z 58295 ya se redujo en la ES (y no, como estaba prescrito en la orden, entre la AS y la ES de la dirección opuesta). Tras el supuesto final del tramo de marcha lenta, las locomotoras se aceleraron lentamente para evitar una separación del tren. De repente, se notó un tirón en la composición del tren y se produjo un frenado de emergencia.
 
 ## Página 20
+
 
 6.4. Extracto del registro de vía
 Las indicaciones horarias corresponden a la hora del sistema = MESZ (Hora Central Europea de Verano)
@@ -562,6 +569,7 @@ Figura 22 Extracto del registro de vía 04:45:03 h - Fuente IM
 
 ## Página 21
 
+
 6.5. Impresora de enclavamiento Bf Gramatneusiedl
 Figura 23 Extracto de la impresora de enclavamiento Bf Gramatneusiedl - Fuente IM
 Las indicaciones horarias corresponden a la hora del sistema = MESZ
@@ -573,6 +581,7 @@ De ello se pueden reconocer las siguientes acciones del operador de señales y a
 *   04:44:24 „W62 Detectores de colisión“ el tren Z 58295, ya descarrilado, ocupó y dañó la aguja 62
 
 ## Página 22
+
 
 6.6. Trayectoria
 El domingo 22 de mayo de 2011, a las 06:22 h, se realizó la primera comunicación respecto a una „situación irregular de la vía“ en la vía 2 por parte del tren Z 463.
@@ -590,6 +599,7 @@ El lugar del descarrilamiento se encuentra en una curva de transición (longitud
 
 ## Página 23
 
+
 ### Dirección de marcha del tren Z 58295
 Figura 25 Vista del lugar del descarrilamiento antes del EK km 19,727 contra la dirección de marcha
 ### Dirección de marcha del tren Z 58295
@@ -598,6 +608,7 @@ Figura 26 Vista del lugar del descarrilamiento antes del EK km 19,727 en la dire
 Como consecuencia de la instalación de muros de tablestacas, se produjeron asentamientos geotécnicos que provocaron un hundimiento de la vía (Sutte). Esto dio lugar a un error de torsión en la vía.
 
 ## Página 24
+
 
 Los datos de la situación de la vía registrados mediante medición manual después del accidente están disponibles para la UUB y se reproducen parcialmente en la siguiente figura:
      Ancho de vía                     Peralte                          Punto de medición
@@ -610,6 +621,7 @@ Figura 29 Hundimiento de la vía carril derecho - Fuente RU
 
 ## Página 25
 
+
 6.7. 
 Normativa sobre defectos en la vía 
 DV B12 «Tratamiento de defectos en los raíles» (Extracto) 
@@ -620,10 +632,10 @@ Punto 2.5 - Sin embargo, si el empleado fiable enviado observa algún daño, el 
 Punto 2.6 - La supresión de la velocidad máxima de 10 km/h o la declaración de intransitabilidad solo puede ser realizada por un empleado examinado según el Pto. 2.1. 
 Punto 4.3 - Solo cuando las medidas para hacer transitable provisionalmente el tramo a 60 km/h requirieran un tiempo excesivo incompatible con la gestión del tráfico de trenes, se podrán tomar medidas que permitan transitar el punto dañado, en principio, a una velocidad mínima de 10 km/h. 
 No obstante, deben iniciarse posteriormente las medidas correspondientes para poder circular a 60 km/h en vías de línea, vías principales continuas y vías intermedias de apartadero de las líneas de categoría S y 1, a más tardar 6 horas después de detectar el daño, y en todas las demás vías, a más tardar 24 horas después de detectar el daño. Para casos excepcionales especiales, véase el Punto 4.5. 
-Punto 4.5 - Para la reparación completa de los puntos dañados se aplican los plazos indicados a continuación. Estos solo pueden superarse en casos excepcionales, por ejemplo, si no se pueden entregar a tiempo desvíos, cruces o instalaciones especiales, o si los equipos de soldadura no están disponibles puntualmente. 
-
+Punto 4.5 - Para la reparación completa de los puntos dañados se aplican los plazos indicados a continuación. Estos solo pueden superarse en casos excepcionales, por ejemplo, si no se pueden entregar a tiempo desvíos, cruces o instalaciones especiales, o si los equipos de soldadura no están disponibles puntualmente.
 
 ## Página 26
+
 
 Figura 30   Tabla "Plazos para la reparación de puntos dañados" - Fuente IM 
 6.8. 
@@ -641,10 +653,10 @@ Apartado 3 La señal de aviso se sitúa
 Por regla general, a 700 m, 
 - 
 Con una velocidad local permitida desde 100 km/h, a 1000 m 
-Antes de la señal de inicio. Si la distancia de instalación difiere excepcionalmente de la norma, se hará referencia a ello en la orden escrita (la). 
-
+Antes de la señal de inicio. Si la distancia de instalación difiere excepcionalmente de la norma, se hará referencia a ello en la orden escrita (la).
 
 ## Página 27
+
 
 6.8.3. DV S61 (Extracto) 
 § 1 - Conceptos y denominaciones, Apartado 1: 
@@ -671,10 +683,10 @@ b) una placa de cruce, permanentemente
 d) un indicador anticipado de velocidad en semáforos principales al iluminarse un código numérico 1 a 6,5 
 e) AT con los códigos numéricos 1 - 6,5, permanentemente 
 f) LF con los códigos numéricos 1 - 6,5, permanentemente 
-g) repetidores de señal con puntos luminosos amarillos en posición –SEÑAL PRINCIPAL INDICA PARADA–. 
-
+g) repetidores de señal con puntos luminosos amarillos en posición –SEÑAL PRINCIPAL INDICA PARADA–.
 
 ## Página 28
+
 
 AB 2 En puestos de mando donde se ordenen limitaciones de velocidad por razones de seguridad técnica (por ejemplo, anulación de la dependencia de señales), los GM 1000 Hz de los semáforos de aviso independientes deben activarse temporalmente de forma permanente, si está previsto en la Betra. En trabajos que duren más de 12 horas, los GM 1000 Hz deben activarse de forma permanente en todo caso. En semáforos de aviso situados en la ubicación de semáforos principales, deben instalarse temporalmente GM 1000 Hz propios activados de forma permanente. Este procedimiento debe aplicarse por regla general en todas las limitaciones de velocidad planificadas o incluidas en la La por razones de seguridad técnica. 
 Apartado 5: 
@@ -689,6 +701,7 @@ Figura 31   Instrucción de la dirección de operaciones de 20 de febrero de 200
 
 ## Página 29
 
+
 6.9.2. Instrucción del responsable técnico de vía del IM de 17 de marzo de 2006 (extracto)
 Figura 32   Instrucción del responsable técnico de vía de 17 de marzo de 2006 (ex-
 tracto 1) – Fuente: IM
@@ -698,8 +711,8 @@ Figura 33   Instrucción del responsable técnico de vía de 17 de marzo de 2006
 tracto 2) – Fuente: IM
 La segunda frase del primer párrafo dice: «Independientemente de la protección técnica, las señales de velocidad reducida deben instalarse inmediatamente tras la disposición de la La».
 
-
 ## Página 30
+
 
 6.9.3. Instrucción de la dirección de operaciones del IM de 25 de septiembre de 2009
 Figura 34   Instrucción de la dirección de operaciones de 25 de septiembre de 2009 - Fuente: IM
@@ -715,8 +728,8 @@ En caso de aparición imprevista, hasta la instalación de las señales es sufic
 Señalización
 La instalación de las señales de velocidad reducida no se había realizado aún conforme a la instrucción en el momento del descarrilamiento (sin demora, a más tardar el siguiente día laborable).
 
-
 ## Página 31
+
 
 7.4.
 Infraestructura
@@ -728,8 +741,8 @@ Debido a la aceleración del tren Z 58295 en la zona del tramo de velocidad redu
 ### 8. Medidas adoptadas por el IM
 Figura 35   Información técnica sobre seguridad de 30 de mayo de 2011 - Fuente: IM
 
-
 ## Página 32
+
 
 Figura 36   Medidas inmediatas – Fuente: IM
 La UUB no dispone de información sobre el momento de inicio de la medida inmediata ni sobre sus resultados.
@@ -744,8 +757,8 @@ Conforme a la normativa, las señales de velocidad reducida aún no estaban inst
 ### 11. Informes considerados
 Véase anexo.
 
-
 ## Página 33
+
 
 ### 12. Recomendaciones de seguridad
 | Punto Número de expediente anual | Recomendaciones de seguridad (causales del accidente) | Dirigidas a |
@@ -762,8 +775,8 @@ Peter Urbanek fdo.
 Anexo:
 Informes recibidos en plazo
 
-
 ## Página 34
+
 
 ### Anexo informes recibidos en plazo
 Litera
@@ -777,8 +790,8 @@ e)
 f)
 g)
 
-
 ## Página 35
+
 
 ### y su consideración
 | Litera | Observación |
@@ -790,8 +803,8 @@ g)
 | f) | considerada |
 | g) | considerada |
 
-
 ## Página 36
+
 
 Informe del BMVIT recibido el 7 de noviembre de 2011 (continuación):
 h)
@@ -808,8 +821,8 @@ r)
 s)
 t)
 
-
 ## Página 37
+
 
 | Litera | Observación |
 | h) | considerada |
@@ -826,15 +839,15 @@ t)
 | s) | - |
 | t) | considerada |
 
-
 ## Página 38
+
 
 Informe del BMVIT recibido el 7 de noviembre de 2011 (continuación):
 u)
 v)
 
-
 ## Página 39
+
 
 | Litera | Observación |
 | u) | - |

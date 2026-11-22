@@ -11,9 +11,9 @@ ratio_longitud: 1.18
 tokens_in: 31162
 tokens_out: 17766
 verificacion: ok
-notas_cifras: ["bloque 4: cifras cortas: 1/64", "bloque 6: cifras cortas: 3/43", "bloque 7: cifras largas: 3/21", "bloque 11: cifras cortas: 1/35", "bloque 12: cifras cortas: 1/48"]
 fecha_proceso: 2026-11-19
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+notas_cifras: ["página 8: cifras cortas: 1/35", "página 12: cifras cortas: 3/23", "página 14: cifras largas: 3/18", "página 24: cifras cortas: 1/15", "página 25: cifras cortas: 1/25"]
 ---
 ## Página 1
 

@@ -10,13 +10,14 @@ chars: 62402
 ratio_longitud: 1.22
 tokens_in: 32675
 tokens_out: 21288
-verificacion: revisar
-notas_cifras: ["bloque 1: original bilingüe: se compara contra el idioma principal (EN)", "bloque 2: original bilingüe: se compara contra el idioma principal (CS)", "bloque 4: original bilingüe: se compara contra el idioma principal (CS)", "bloque 6: original bilingüe: se compara contra el idioma principal (CS)"]
-avisos: ["bloque 4: ratio 1.61"]
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (CS)", "página 4: original bilingüe: se compara contra el idioma principal (EN)", "página 5: original bilingüe: se compara contra el idioma principal (PT)", "página 7: original bilingüe: se compara contra el idioma principal (CS)", "página 10: original bilingüe: se compara contra el idioma principal (CS)", "página 11: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 Inspección Ferroviaria
 República Checa
@@ -42,11 +43,12 @@ NIF:   75009561
 http://www.dicr.cz
 fax: (+420) 224 805 428
 
-
 ## Página 2
 
 
+
 ## Página 3
+
 
 # RESUMEN
 Grado:
@@ -77,8 +79,8 @@ Causa raíz:
 ninguna
 Recomendaciones: no emitidas
 
-
 ## Página 4
+
 
 # Índice
  Resumen .........................................................................................................................3
@@ -121,6 +123,7 @@ relación contractual ..........................................................
 
 ## Página 5
 
+
 3.1.2 Otras personas .........................................................................................................13
 3.2 3Sistema de garantía de la seguridad ........................................................................13
 3.2.1 Organización marco y forma en que se emiten y aplican las instrucciones .......13
@@ -150,10 +153,10 @@ aplicación ....................................................................
 4.1.1 Descripción definitiva del suceso excepcional basada en los hechos constatados en el punto 3 
 ............................................................................................................................22
 4.2 Análisis ......................................................................................................................23
-4.2.1 Evaluación de los hechos constatados de acuerdo con el punto 3 y exposición de las conclusiones sobre la causa 
-
+4.2.1 Evaluación de los hechos constatados de acuerdo con el punto 3 y exposición de las conclusiones sobre la causa
 
 ## Página 6
+
 
 del suceso excepcional y la actuación de los servicios de emergencia ..........................................23
 4.3 Conclusiones .......................................................................................................................23
@@ -176,6 +179,7 @@ Kolín .........................................................................
  Foto 6: Señal PZZ a la derecha en el sentido de marcha de la NA ........................................................28
 
 ## Página 7
+
 
 ## 1 RESUMEN
 Clasificación del suceso:
@@ -204,8 +208,8 @@ Causas fundamentales:
 Causas en el sistema de seguridad:  no determinadas
 Recomendaciones de seguridad:  no se emitieron
 
-
 ## Página 8
+
 
 ## 2 DATOS RELATIVOS AL SUCESO EXTRAORDINARIO
 ## 2.1
@@ -225,10 +229,10 @@ detenidos delante del paso a nivel, no reaccionó a la señal de aviso del PZZ e
 desde el lado derecho en el sentido de circulación del tren en el paso a nivel. El maquinista 
 aplicó inmediatamente el frenado de acción rápida, pero por la corta distancia no logró 
 detenerse. Se produjo la colisión con el NA, que impactó en la parte frontal del lado derecho 
-de la locomotora motriz principal (en adelante HDV) del tren. El NA fue desplazado desde 
-
+de la locomotora motriz principal (en adelante HDV) del tren. El NA fue desplazado desde
 
 ## Página 9
+
 
 el paso a nivel entre la vía de apartadero y la vía de línea transitable en el sentido de 
 circulación del tren. El HDV principal descarriló y fue desplazado fuera de la vía de línea 
@@ -258,10 +262,10 @@ fue encomendada por la DI al inspector superior de la Inspección Territorial de
 adelante VI DI). Sobre la base de los hechos constatados no fue necesario constituir un 
 equipo del VI DI. La forma de proceder se estableció de forma operativa según el 
 desarrollo de la investigación, incluido el uso de consultas con otras personas cualificadas 
-de la DI. En la investigación la DI 
-
+de la DI. En la investigación la DI
 
 ## Página 10
+
 
 partió de sus propios conocimientos y hallazgos, de su propia documentación fotográfica y 
 asimismo de la documentación solicitada elaborada durante la investigación por el 
@@ -311,26 +315,26 @@ expediente del SE.
 ## Página 11
 
 ### 2.2.4 Uso de medios de comunicación
-El jefe de tren del tren Os 22200 utilizó el teléfono móvil para comunicar la MU al jefe de estación de la estación de Kolín.
-### 2.2.5 Trabajos realizados en el lugar de la excepción y en sus inmediaciones
+El jefe de tren del tren Os 22200 utilizó un teléfono móvil para comunicar la MU al jefe de estación de la estación de Kolín.
+### 2.2.5 Trabajos realizados en el lugar del suceso excepcional y en sus alrededores
 En el lugar de la MU en la vía y en la carretera del paso a nivel ferroviario no se realizaban trabajos inmediatamente antes de la producción de la MU.
-### 2.2.6 Activación del plan para el caso de excepción en la vía y secuencia de acontecimientos
-La producción de la MU fue comunicada al jefe de estación de la estación de Kolín por el jefe de tren del tren Os 22200. El jefe de estación de la estación de Kolín cumplió las demás obligaciones de conformidad con el procedimiento en caso de producción de una MU en el transporte ferroviario en el sentido del § 7 del decreto n.º 376/2006 Sb., sobre el sistema de seguridad de la explotación de la vía y del transporte ferroviario y los procedimientos en caso de producción de excepciones en las vías (en adelante, decreto n.º 376).
-La MU fue notificada al COP DI a las 04:38 horas. Al lugar de la MU acudieron las personas cualificadas del explotador de la vía, del transportista y el VI DI. En el lugar de la MU estaban presentes también los jefes de empleados de las distintas ramas organizativas del explotador de la vía y del transportista. Con la participación del VI DI se realizó la inspección comisionada del lugar de la MU, incluida la elaboración del acta.
-Tras la inspección del lugar de producción de la MU por la Policía ČR, los empleados de la Inspección Regional de Seguridad del Transporte Ferroviario (en adelante, RIBŽD) de Praga y el VI DI presente, se concedió al DI a las 07:19 horas del 29. 1. 2010 el permiso para iniciar los trabajos de limpieza.
-El transporte ferroviario entre la estación de Kolín y la estación de Ratboř fue interrumpido desde las 04:15 horas. Tras la finalización de los trabajos de enganche y de limpieza, se reanudó la explotación de la vía a las 12:05 horas.
-### 2.2.7 Activación del plan del sistema integrado de emergencias, policía y servicio médico de emergencias y secuencia de acontecimientos
-El plan del sistema integrado de emergencias fue activado simultáneamente con la notificación de la producción de esta MU a los órganos de investigación, de acuerdo con el § 7 del decreto n.º 376. Al lugar de producción de la MU acudieron sucesivamente el Servicio Médico Rápido de Emergencias (en adelante, RZZS), el Cuerpo de Bomberos (en adelante, HZS) de SŽDC, s. o. – Unidad de Protección contra Incendios (en adelante, JPO) de Kolín y la Policía ČR. El conductor del NA fue atendido por el RZZS de Kolín.
-La MU es investigada por la Policía ČR, Dirección Regional del Kraje de Bohemia Central, Grupo de Policía Criminal e Investigación de Kolín, con el n.º de expediente: KRPS-2942/TČ-2010-010471.
+### 2.2.6 Activación del plan para el caso de suceso excepcional en la vía y secuencia de acontecimientos
+La producción de la MU fue comunicada al jefe de estación de la estación de Kolín por el jefe de tren del tren Os 22200. El jefe de estación de la estación de Kolín cumplió las demás obligaciones de conformidad con el procedimiento ante la producción de una MU en el transporte ferroviario en el sentido del § 7 del decreto nº 376/2006 Sb., sobre el sistema de seguridad de la explotación de la vía y del transporte ferroviario y los procedimientos ante la producción de sucesos excepcionales en las vías (en lo sucesivo, decreto nº 376).
+En el COP DI se comunicó la MU a las 04:38 horas. Al lugar de la MU acudieron las personas cualificadas del explotador de la vía, del transportista y del VI DI. En el lugar de la MU estaban presentes también los directivos de las distintas divisiones organizativas del explotador de la vía y del transportista. Con la participación del VI DI se realizó la inspección conjunta del lugar de la MU, incluida la elaboración del acta.
+Tras la inspección del lugar de la producción de la MU por parte de la Policía ČR, de los empleados de la Inspección Regional de Seguridad del Transporte Ferroviario (en lo sucesivo, RIBŽD) de Praga y del VI DI presente, se concedió al DI a las 07:19 horas del 29. 1. 2010 el permiso para iniciar los trabajos de despeje.
+El transporte ferroviario entre la estación de Kolín y la estación de Ratboř quedó interrumpido desde las 04:15 horas. Tras la finalización de los trabajos de realineación y despeje, se reanudó la explotación de la vía a las 12:05 horas.
+### 2.2.7 Activación del plan del sistema integrado de emergencias, de la policía y del servicio de emergencias médicas y secuencia de acontecimientos
+El plan del sistema integrado de emergencias fue activado simultáneamente con la comunicación de la producción de esta MU a los órganos de investigación, de acuerdo con el § 7 del decreto nº 376. Al lugar de la producción de la MU acudieron progresivamente el Servicio Rápido de Emergencias Médicas (en lo sucesivo, RZZS), el Cuerpo de Bomberos y Salvamento (en lo sucesivo, HZS) de SŽDC, s. o. – Unidad de Protección contra Incendios (en lo sucesivo, JPO) de Kolín y la Policía ČR. El conductor del NA fue atendido por el RZZS de Kolín.
+La MU es investigada por la Policía ČR, Dirección Regional del Kraje de Bohemia Central, Grupo de Policía Criminal e Investigación de Kolín, con el nº de expediente: KRPS-2942/TČ-2010-010471.
 ## 2.3
 ### Fallecimientos, lesiones y daños materiales
-2.3.1 En los pasajeros y terceras personas, empleados del explotador de la vía y del transportista, incluidas personas en relación contractual
-En la MU no falleció nadie, el conductor del NA sufrió una lesión leve.
-### 2.3.2 En las cosas transportadas, equipajes y otros bienes
-En el NA SCANIA P 114LB4X2LB con remolque KASSBOHRER Supertrans APT-012 y en el OA transportado se cuantificó un daño total de 1 200 000,- Kč.
-
+2.3.1 En cuanto a pasajeros y terceras personas, empleados del explotador de la vía y del transportista, incluidas personas en relación contractual
+En la MU no falleció nadie; el conductor del NA sufrió una lesión leve.
+### 2.3.2 En cuanto a las mercancías transportadas, el equipaje y otros bienes
+En el NA SCANIA P 114LB4X2LB con remolque KASSBOHRER Supertrans APT-012 y en los vehículos de motor transportados se cuantificó un daño total por importe de 1 200 000,- Kč.
 
 ## Página 12
+
 
 ### 2.3.3 En los vehículos ferroviarios, componentes de la vía de tráfico y en el medio ambiente
 El HDV de mando dañado descarrilado de la serie 810.616-6 (propietario ČD, a. s.) – en la determinación comisionada del estado técnico en DKV Praga, centro de explotación (en adelante, PS) de Kolín, se cuantificó un daño total de 3 500 000,- Kč.
@@ -362,8 +366,8 @@ tras detenerme, fui a comprobar el estado del tren y de los pasajeros;
 el jefe de tren llamó al RZS y comunicó el suceso al jefe de estación de la estación de Kolín;
 ●
 
-
 ## Página 13
+
 
 durante la marcha me di cuenta de que los semáforos estaban en funcionamiento – en aviso.
 ●
@@ -394,6 +398,7 @@ a) explotar la vía para las necesidades del transporte ferroviario fluido y seg
 
 ## Página 14
 
+
 b) emitir, con fecha de inicio de la explotación de la vía, el reglamento interno de explotación de la vía y de idoneidad profesional y conocimientos de las personas que garantizan la explotación de la vía y de su método de verificación, incluido el sistema de formación periódica,
 c) garantizar que la explotación de la vía la realicen personas que estén sanas y sean profesionalmente idóneas.
 - no se han detectado deficiencias
@@ -415,8 +420,8 @@ B1) ČSN 73 6380:
 (2) Cl. 6.2.2 El señal se coloca en un poste independiente en el borde derecho de la carretera, fuera de su ancho libre, de modo que ninguna parte del señal esté a menos de 4 m del eje del raíl extremo. En los aparatos de enclavamiento de paso a nivel luminosos con barreras, el señal, si está en un poste independiente, se coloca siempre delante del soporte de la barrera. Si las condiciones locales lo requieren (por ejemplo, alta frecuencia de peatones, tráfico rodado, condiciones de garantía de visibilidad), se coloca un señal adicional también en el borde izquierdo de la carretera.
 (3) Cl. 6.2.3 Todas las luces del señal deben estar colocadas de modo que su luz no interfiera
 
-
 ## Página 15
+
 
 en la circulación del vehículo ferroviario.
 (4) Cl. 6.2.4 En el poste del señal o en un poste independiente colocado en el borde derecho de la carretera en el sentido de circulación de los vehículos, y fuera de su ancho libre, debe colocarse una placa con la advertencia «¡CUIDADO, TREN!» de modo que ninguna de sus partes esté a menos de 4 m del eje del raíl extremo.
@@ -445,6 +450,7 @@ c) acústica.
 
 ## Página 16
 
+
 art. 24. Señal luminosa – destello intermitente de dos luces rojas en el señalizador en dirección a los usuarios de la vía pública (en caso de estado de emergencia del PZS o avería de la señalización complementaria del PZM, destello intermitente de una sola luz roja o destello continuo de una o de las dos luces rojas) y es:
 a) señalización básica para el PZS;
 b) señalización complementaria para algunos PZM.
@@ -460,8 +466,8 @@ El jefe de tren del tren Os 22200 realizó el último examen periódico en el á
 Todos los empleados del transportista implicados eran profesionalmente aptos para el desempeño de la función que ocupaban en el momento de producirse el accidente ferroviario.
 Los registros escritos forman parte del expediente del accidente ferroviario.
 
-
 ## Página 17
+
 
 ### 3.2.3 Procedimiento de control interno de seguridad y sus resultados
 Para garantizar la operatividad de la infraestructura y la seguridad del transporte ferroviario se establece el intervalo de tiempo para las inspecciones y mediciones en el anexo n.º 1 del Decreto n.º 177. Para el PZZ se establece un intervalo de tiempo de inspección de 6 meses. El gestor de la infraestructura presentó el registro de la última inspección periódica del paso a nivel en el km 1,556, realizada el 19. 11. 2009, con el resultado de sin averías.
@@ -492,6 +498,7 @@ decreto n.º 173/1995 Sb., por el que se aprueba el Reglamento de circulación
 ferroviaria, en su versión consolidada;
 
 ## Página 18
+
 
 decreto n.º 177/1995 Sb., por el que se dicta el reglamento de construcción y técnico de las vías férreas, en la redacción ●
 de las disposiciones posteriores;
@@ -534,8 +541,8 @@ del director superior de la División Comercial y de Explotación el 8. 1. 1998,
 disposición interna ČD Ok 2 «Reglamento de formación y examen de los Ferrocarriles Checos, a. s.» ●
 aprobada por decisión el 7. 12. 2005, n.º de expediente: 61773/05-O10, en la redacción vigente;
 
-
 ## Página 19
+
 
 disposición interna SŽDC Zam1 «Disposición sobre la aptitud profesional de los empleados de la ●
 Administración de la Infraestructura Ferroviaria, organización estatal» aprobada por el director general
@@ -582,6 +589,7 @@ De la evaluación de los datos del ordenador tecnológico se constató a las hor
 
 ## Página 20
 
+
 04:15:22 – el tren Os 22200 ocupó el tramo RLK – tramo en el que se encuentra la PZZ „B“ en el pk 1,556;
 04:15:26 – el tren Os 22200 liberó el tramo 701;
 04:15:35 – en la PZZ „B“ en el pk 1,556 se produjo una situación de emergencia;
@@ -602,35 +610,33 @@ salida de la estación de Kolín a las 04:13 horas, en un tramo de 290 metros se
 ●
 km/h, en un tramo de los siguientes 560 metros aumento de la velocidad al valor V = 45 km/h, en un tramo de los siguientes 650 metros disminución de la velocidad al valor V = 37 km/h; a una velocidad V = 37 km/h a las 04:15 horas se produce un desplazamiento horizontal del puntero de minutos de 1,80 mm
 
-
 ## Página 21
 
-y del puntero de velocidad de 1,25 mm, que a continuación cae perpendicularmente sobre la línea cero del registro de velocidad;
-la velocidad máxima permitida en el lugar de aparición del MU – 40 km/h – no fue
+del registrador de velocidad en 1,25 mm, que a continuación cae perpendicularmente sobre la línea cero del registro de velocidad;
+la velocidad máxima permitida en el lugar de origen del MU – 40 km/h – no fue superada durante la circulación del tren Os
 ●
-superada durante la circulación del tren Os 22200;
-el protector automático de tren estaba en funcionamiento y era operado por el
+22200;
+el protector automático de tren estaba en funcionamiento y era operado por el maquinista durante toda la parte anterior del turno registrado.
 ●
-maquinista durante toda la parte anterior del turno registrado.
-No se detectaron averías en los vehículos ferroviarios y su estado técnico no guarda relación con la causa de la aparición del MU.
+En los vehículos ferroviarios no se detectaron averías y su estado técnico no guarda relación con la causa de origen del MU.
 ## 3.5
 ### Documentación sobre el sistema de explotación
-### 3.5.1 Medidas adoptadas por los empleados del explotador de la vía y del transportista en lo que respecta a la dirección, señalización y protección del tráfico
-La instalación de enclavamiento de estación y el procedimiento de la persona que dirige el tráfico ferroviario no guardan relación con la causa de la aparición del MU. De la evaluación de los datos registrados por el ordenador tecnológico de la instalación de enclavamiento de estación se desprende que no se produjo ninguna avería en la PZZ, incluidos sus elementos indicadores. El maquinista del tren reaccionó ante la situación producida y aplicó frenado de acción rápida. El jefe de tren, inmediatamente después de la colisión del tren con el NA, comunicó la aparición del MU al jefe de estación de la estación de Kolín y llamó al RZZS.
-No se detectaron averías en el procedimiento de los empleados del transportista antes e inmediatamente después de la aparición del MU.
-### 3.5.2 Intercambio de comunicaciones verbales en relación con el suceso excepcional, incluidos los documentos del dispositivo de registro
-Antes de la aparición del MU no se registró ninguna comunicación verbal de los empleados participantes del explotador de la vía y del transportista. Inmediatamente después de la aparición del MU, el jefe de tren comunicó la aparición del MU al jefe de estación de la estación de Kolín mediante un teléfono móvil.
-La comunicación verbal se llevó a cabo sin averías detectadas.
-### 3.5.3 Medidas adoptadas para la protección y seguridad del lugar del suceso excepcional
-El lugar del MU fue asegurado por la Policía ČR y debidamente protegido por el explotador de la vía de conformidad con el decreto nº 376.
+### 3.5.1 Medidas adoptadas por los empleados del gestor de la infraestructura y del transportista en lo que respecta a la conducción, la señalización y la protección de la circulación
+El aparato de enclavamiento de estación y el procedimiento de la persona que dirige el tráfico ferroviario no guardan relación con la causa de origen del MU. De la evaluación de los datos registrados por el ordenador tecnológico del aparato de enclavamiento de estación se desprende que no se produjo ninguna avería en el PZZ, incluidos sus elementos indicadores. El maquinista del tren reaccionó ante la situación producida y aplicó frenado de emergencia. Inmediatamente después de la colisión del tren con la NA, el jefe de tren comunicó el origen del MU al jefe de estación de la estación de Kolín y llamó al RZZS.
+En el procedimiento de los empleados del transportista antes e inmediatamente después del origen del MU no se detectaron averías.
+### 3.5.2 Intercambio de comunicaciones verbales en relación con el suceso excepcional, incluidos los registros del dispositivo de registro
+Antes del origen del MU no se registró ninguna comunicación verbal de los empleados participantes del gestor de la infraestructura y del transportista. Inmediatamente después del origen del MU, el jefe de tren comunicó por teléfono móvil el origen del MU al jefe de estación de la estación de Kolín. La comunicación verbal se desarrolló sin averías detectadas.
+### 3.5.3 Medidas adoptadas para la protección y la seguridad del lugar del suceso excepcional
+El lugar del MU fue asegurado por la Policía de la República Checa y debidamente protegido por el gestor de la infraestructura de conformidad con el decreto n.º 376.
 ## 3.6
 ### Condiciones laborales, sanitarias y de explotación
-### 3.6.1 Jornada laboral de los empleados del explotador de la vía y del transportista que participaron en el suceso
-el maquinista de la locomotora de tracción del tren Os 22200 inició el turno el 29. 1. 2010
+### 3.6.1 Jornada laboral de los empleados del gestor de la infraestructura y del transportista que participaron en el suceso
+el maquinista del HDV principal del tren Os 22200 inició el turno el 29. 1. 2010 a las 02:57
 ●
-a las 02:57 horas, el descanso antes del turno fue facilitado por el empleador de conformidad con la disposición del § 90 del Código del Trabajo;
+horas, el descanso antes del turno fue facilitado por el empleador de conformidad con lo dispuesto en el apartado § 90 del Código del Trabajo;
 
 ## Página 22
+
 
 El maquinista HDV en el extremo del tren Os 22200 inició su turno el 28. 1. 2010 a las 21:26 horas; el descanso antes del turno fue proporcionado por el empleador de conformidad con lo dispuesto en el § 90 del Código del Trabajo;
 ●
@@ -654,8 +660,8 @@ En el momento de producirse el SU, el tren no superó la velocidad máxima de l�
 Con el SU no hubo ninguna víctima mortal; se produjo una lesión leve en el conductor del NA.
 Se produjeron daños en el HDV, el DV, el NA y el remolque, incluidos los OA transportados en el mismo.
 
-
 ## Página 23
+
 
 El daño total constatado asciende a 7 808 163,- CZK.
 ## 4.2
@@ -684,8 +690,8 @@ Con el SU se produjo una infracción de lo dispuesto en el § 6 apartado 3 de la
 ### 4.3.2 Causas fundamentales relacionadas con la cualificación, los procedimientos y el mantenimiento
 No constatadas.
 
-
 ## Página 24
+
 
 ### 4.3.3 Causas derivadas del marco normativo y del uso del sistema de garantía de la seguridad
 No constatadas.
@@ -709,25 +715,23 @@ inspector jefe
 Inspectorado Territorial de Praga
 Inspectorado Territorial de Praga
 
-
 ## Página 25
+
 
 
 ## Página 26
 
 ## 7 ANEXOS
-Foto 1: Vista del lugar del SU desde la dirección de la est. de Kolín-estación local
-Foto 2: Segundo DV descarrilado y remolque del NA
-
+Foto 1: Vista del lugar del MU desde la dirección de la estación de Kolín-estación local
+Foto 2: El segundo DV descarrilado y el remolque NA
 
 ## Página 27
 
-Foto 3: Vista del DV de cabeza descarrilado desde la carretera n.º 38 en dirección
-al centro de la ciudad de Kolín
-Foto 4: Vista del lugar del SU desde la dirección de la est. de Ratboř
-
+Foto 3: Vista del DV de cabeza descarrilado desde la carretera n.º 38 en dirección al centro de la ciudad de Kolín
+Foto 4: Vista del lugar del accidente desde la dirección de la estación de Ratboř
 
 ## Página 28
+
 
 Foto 5: DV de cabeza y segundo DV descarrilados
 Foto 6: Señal de advertencia del PZZ a la derecha en el sentido de circulación del NA

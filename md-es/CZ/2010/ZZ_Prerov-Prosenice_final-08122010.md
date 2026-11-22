@@ -10,13 +10,14 @@ chars: 84422
 ratio_longitud: 1.24
 tokens_in: 43649
 tokens_out: 29767
-verificacion: revisar
-notas_cifras: ["bloque 2: original bilingüe: se compara contra el idioma principal (CS)", "bloque 4: original bilingüe: se compara contra el idioma principal (CS)", "bloque 6: original bilingüe: se compara contra el idioma principal (CS)", "bloque 7: original bilingüe: se compara contra el idioma principal (CS)", "bloque 10: cifras cortas: 1/63", "bloque 12: original bilingüe: se compara contra el idioma principal (CS)"]
-avisos: ["bloque 7: ratio 1.75"]
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 6: original bilingüe: se compara contra el idioma principal (EN)", "página 7: original bilingüe: se compara contra el idioma principal (PT)", "página 8: original bilingüe: se compara contra el idioma principal (CS)", "página 14: original bilingüe: se compara contra el idioma principal (CS)", "página 16: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 Inspección Ferroviaria
 República Checa
@@ -41,11 +42,12 @@ I. V.:   75009561
 http://www.dicr.cz
 fax: (+420) 224 805 428
 
-
 ## Página 2
 
 
+
 ## Página 3
+
 
 # RESUMEN
 Gravedad:
@@ -74,21 +76,21 @@ avería técnica)
 Causa subyacente: se colocó un muelle de hoja incorrecto en el vagón respecto al previsto por
 los procedimientos tecnológicos – diseño
 
-
 ## Página 4
+
 
 Causa raíz:
 ninguna
 Recomendaciones: no emitidas
 Por la traducción al inglés es responsable: Ing. Hana Pechačová
 
-
 ## Página 5
+
 
 Este informe final es público y todos los documentos y hechos están respaldados por el expediente de investigación.
 
-
 ## Página 6
+
 
 # Índice
  Resumen .............................................................................................................................3
@@ -131,6 +133,7 @@ relación contractual ..........................................................
 
 ## Página 7
 
+
 3.1.2 Otras personas .........................................................................................................20
 3.2 Sistema de garantía de la seguridad ...........................................................................20
 3.2.1 Organización marco y forma en que se emiten y aplican las instrucciones .......20
@@ -160,10 +163,10 @@ aplicación ....................................................................
 4.1.1 Descripción final del suceso excepcional basada en los hechos constatados en el punto 3 
 ............................................................................................................................28
 4.2 Examen ......................................................................................................................29
-4.2.1 Evaluación de los hechos constatados de acuerdo con el punto 3 y formulación de conclusiones sobre la causa 
-
+4.2.1 Evaluación de los hechos constatados de acuerdo con el punto 3 y formulación de conclusiones sobre la causa
 
 ## Página 8
+
 
 del suceso excepcional y la actuación de los servicios de emergencia ..........................................29
 4.3 Conclusiones .......................................................................................................................30
@@ -181,10 +184,12 @@ del suceso excepcional y la actuación de los servicios de emergencia ..........
  Fig. 5 Imagen del 08. 12. 2010 que documenta la destrucción del corazón del desvío n.º 27 de la est. de Prosenice tras el paso del VFC Laaers 23 83 4363 610-2 descarrilado.  .................32
  Fig. 6 Imagen del 10. 03. 2011 que documenta la prueba de flexibilidad del raíl trapezoidal n.º 5 del VFC Laaers 23 83 4363 610-2, realizada en el estado calibrado de ČD Cargo, a. s., SOKV Ústí nad Labem. .................................................................33
 
-
 ## Página 9
 
+
+
 ## Página 10
+
 
 ## Lista de siglas y símbolos utilizados
 BK
@@ -254,8 +259,8 @@ inspectorado territorial
 žst.
 estación de ferrocarril
 
-
 ## Página 11
+
 
 ## 1 RESUMEN
 Clasificación del suceso:
@@ -279,8 +284,8 @@ montaje en el material rodante remolcado Laaers 23 83 4363 610-2 de muelles trap
 Causas en el sistema de seguridad: no fueron detectadas por la Inspección Ferroviaria.
 Recomendaciones de seguridad: no emitidas por la Inspección Ferroviaria.
 
-
 ## Página 12
+
 
 ## 2 DATOS RELATIVOS AL SUCESO EXCEPCIONAL
 ## 2.1
@@ -289,10 +294,10 @@ Recomendaciones de seguridad: no emitidas por la Inspección Ferroviaria.
 El SE se produjo el 08. 12. 2010 a las 10:50 h, en el ferrocarril, categoría de ámbito nacional, Přerov – Bohumín, en el tramo de vía entre las estaciones de Přerov y Prosenice, en la vía de tráfico n.º 2, en el pk 186,771.
 ### Fig. 1 Vista del MR descarrilado Laaers 23 83 4363 610-2 en su posición final tras la detención del tren Nex 2. nsl. 46659 en la estación de Prosenice.
 ### 2.1.2 Descripción del suceso excepcional y del lugar del accidente, incluida la actuación del sistema integrado de salvamento y del servicio de salvamento
-El tren Nex 2. nsl. 46659 partió tras realizar una prueba sencilla de freno desde la estación de frontera de paso de Břeclav el 08. 12. 2010 a las 09:26 h. La marcha del tren entre las estaciones de Břeclav y Přerov transcurrió sin incidencias. Durante la marcha, en el tramo de vía Přerov – Prosenice, al circular por la vía de tráfico n.º 2 en el pk 186,771, descarriló el eje 2 del MR Laaers 23 83 4363 610-2 en el sentido de marcha del tren, enganchado como el 13.º MR detrás del MRT, y ello sin desacoplar la composición del tren. El tren con el MR descarrilado continuó su marcha en dirección a la estación de Prosenice. Cuando el tren Nex 2. nsl. 46659 se aproximaba a la estación de Prosenice, la persona que conducía el material rodante (en adelante, maquinista) registró en la radio de a bordo la información facilitada por el maquinista del tren contrario IC 542, de que la parte trasera del tren Nex 2. nsl. 46659 presentaba un funcionamiento inestable. Ante este hecho, el maquinista del tren Nex 2. nsl. 46659 reaccionó aplicando frenado continuo y, a la vez, comunicó por la radio de a bordo su intención de detener el tren de forma excepcional y realizar su inspección en la estación de Prosenice al despachador responsable IIB del CDP Přerov. Tras la detención del tren 
-
+El tren Nex 2. nsl. 46659 partió tras realizar una prueba sencilla de freno desde la estación de frontera de paso de Břeclav el 08. 12. 2010 a las 09:26 h. La marcha del tren entre las estaciones de Břeclav y Přerov transcurrió sin incidencias. Durante la marcha, en el tramo de vía Přerov – Prosenice, al circular por la vía de tráfico n.º 2 en el pk 186,771, descarriló el eje 2 del MR Laaers 23 83 4363 610-2 en el sentido de marcha del tren, enganchado como el 13.º MR detrás del MRT, y ello sin desacoplar la composición del tren. El tren con el MR descarrilado continuó su marcha en dirección a la estación de Prosenice. Cuando el tren Nex 2. nsl. 46659 se aproximaba a la estación de Prosenice, la persona que conducía el material rodante (en adelante, maquinista) registró en la radio de a bordo la información facilitada por el maquinista del tren contrario IC 542, de que la parte trasera del tren Nex 2. nsl. 46659 presentaba un funcionamiento inestable. Ante este hecho, el maquinista del tren Nex 2. nsl. 46659 reaccionó aplicando frenado continuo y, a la vez, comunicó por la radio de a bordo su intención de detener el tren de forma excepcional y realizar su inspección en la estación de Prosenice al despachador responsable IIB del CDP Přerov. Tras la detención del tren
 
 ## Página 13
+
 
 el maquinista, tras inspeccionar la composición, comprobó el descarrilamiento de un MR por dos ejes (el eje 1.º y el 2.º en el sentido de marcha del tren). Informó de su hallazgo a las 10:56 h, a través de la radio de a bordo, al despachador responsable IIB del CDP Přerov, al que, de conformidad con los procedimientos tecnológicos del explotante de la vía, comunicó la producción del SE.  
 ### Fig. 2 Descripción de la marcha del tren Nex 2. nsl. 46659 en el tramo de vía entre las estaciones de Přerov y Prosenice, incl. secuencia de los hechos.
@@ -305,6 +310,7 @@ En la posición final tras la detención del tren, la rueda izquierda del eje 1.
 La rueda izquierda del eje 2.º (rueda n.º 6) en la posición final tras la detención se encontraba en
 
 ## Página 14
+
 
 en estado descarrilado fuera del carril izquierdo de la vía de estación n.º 2, la rueda derecha del 
 2. eje (rueda n.º 5) se encontraba en estado descarrilado entre los carriles de la vía de estación 
@@ -321,10 +327,10 @@ En el lugar del MU intervinieron los servicios de IZS, HZS SŽDC, s. o., Přerov
 2.1.3 Decisión de iniciar la investigación de las causas y circunstancias de su origen, composición del equipo de personas cualificadas y forma de dirigir la investigación de las causas y circunstancias de su origen
 El origen del MU fue comunicado al DI en el COP por el operador de la vía y el transportista el 08. 12. 
 2010 a las 11:29 h, es decir, 39 min. después del origen del MU, por el inspector jefe de ČD, a. s., RIBŽD Ostrava. 
-El empleado del COP, sobre la base de los hechos comunicados, decidió desplazarse e iniciar la investigación de las causas y circunstancias de origen del MU en el lugar de su origen. El motivo de esta decisión fue el hecho de que el MU en cuestión pertenece a la serie de MU significativos para todo el sistema 
-
+El empleado del COP, sobre la base de los hechos comunicados, decidió desplazarse e iniciar la investigación de las causas y circunstancias de origen del MU en el lugar de su origen. El motivo de esta decisión fue el hecho de que el MU en cuestión pertenece a la serie de MU significativos para todo el sistema
 
 ## Página 15
+
 
 de explotación de la vía y del transporte ferroviario. El DI realizó la actividad en el lugar del MU con la composición de dos inspectores jefes de ÚI Ostrava. 
 El permiso para iniciar los trabajos de despeje fue concedido por el DI el 08. 12. 2010 a las 17:58 h, 
@@ -370,19 +376,19 @@ Cargo, S. A., registrado en el estado de matriculación Sląsko-Dąbrowski Zakł
 
 ## Página 16
 
-HDV 189.154-8, tipo ES64F4, con el frente hacia la cabina del maquinista I.
-El maquinista, durante la circulación del tren objeto, observaba la vía y las señales desde el lado derecho de la cabina del maquinista I.
-La composición del tren Nex 2. nsl. 46659 estaba formada por 18 TDV. Descarriló el TDV Laaers 23 83 4363 610-2, tipo 365, enganchado como el 13.º TDV tras el HDV. El TDV objeto fue fabricado en 1962 por Officine di Costamasnaga (República de Italia). El titular del TDV es la compañía SITFA. El TDV tiene una longitud sobre topes de 31 m, un peso de 34 000 kg, la última revisión técnica ordinaria (TK) se realizó el 23. 10. 2007 (CL.M) en Moncalieri (República de Italia), con una vigencia de 6 años. El TDV está formado por dos vagones de dos ejes unidos mediante un acoplamiento rígido, con una distancia entre ejes de 9 m (la distancia entre el segundo y el tercer bogie es de 6,5 m). Los cajas de rodamientos de los bogies están guiados en los bastidores. La suspensión está realizada con 8 láminas trapezoidales. Tanto los frentes exteriores como interiores del TDV están equipados con topes. El espacio libre entre los frentes interiores del TDV está cubierto por plataformas de paso.
+HDV 189.154-8, tipo ES64F4, avanzaba con la cabina del maquinista I hacia delante.
+El maquinista, durante la marcha del tren objeto de estudio, observaba la vía y las señales desde el lado derecho de la cabina del maquinista I.
+La composición del tren Nex 2. nsl. 46659 estaba formada por 18 TDV. Descarriló el TDV Laaers 23 83 4363 610-2, tipo 365, acoplado como 13.º TDV tras el HDV. El TDV objeto de estudio fue fabricado en el año 1962 por los talleres Officine di Costamasnaga (República de Italia). El titular del TDV es la sociedad SITFA. El TDV tiene una longitud sobre topes de 31 m, un peso de 34 000 kg, la última revisión técnica ordinaria (TK) se realizó el 23. 10. 2007 (CL.M) en Moncalieri (República de Italia), con una validez de 6 años. El TDV está formado por dos vehículos de dos ejes unidos mediante un acoplamiento rígido, con una distancia entre ejes de 9 m (la distancia entre el segundo y el tercer bogie es de 6,5 m). Los cajas de rodamiento de los bogies están guiadas en los bastidores. La suspensión está realizada con 8 muelles trapezoidales. Tanto los frontales exteriores como los interiores del TDV están dotados de topes. El espacio libre entre los frontales interiores del TDV está cubierto por plataformas de paso.
 ### Fig. 3 Perfil lateral del TDV Laaers tipo 365 con los parámetros dimensionales básicos.
 El tren Nex 2. nsl. 46659 tenía 64 ejes, una longitud de 520 m, un peso de 589 t, un porcentaje de frenado requerido del 72 %, un porcentaje de frenado real del 88 %.
-Todo el material rodante (DV) participante en el MU contaba con una TK vigente.
+Todo el material rodante (DV) participante en el MU disponía de una TK vigente.
 La velocidad establecida para el tren Nex 46659 entre las estaciones de Přerov y Prosenice, es decir, en el lugar de origen del MU, fue fijada por el SJŘ en el valor v = 100 km·h-1.
-### 2.2.3 Descripción de los componentes de la vía de circulación de la vía férrea, del sistema de señalización (es decir, en particular el estado de los raíles, desvíos, aparatos de cambio, señales y del dispositivo de seguridad del tren)
-El tramo entre estaciones Přerov – Prosenice está equipado con un TZZ de 3.ª categoría, un bloque automático de tres indicaciones tipo AB 3/82A para operación bidireccional, con transmisión de información de las señales de los señales principales al HDV principal. El tramo entre estaciones está dividido en cinco secciones de vía.
-La vía principal n.º 2, entre las estaciones de Přerov y Prosenice, en el sentido de circulación del tren Nex 2. nsl. 46659, desde el km 185,814 hasta el km 185,893, discurre en línea recta, con una pendiente del 3,14 ‰. Desde el km 185,893 hasta el km 186,172, la vía principal discurre en una curva a la izquierda de radio R = 778 m, con un peralte D = 114 mm, con una transición de longitud lp = 128 m, con una pendiente del 3,14 ‰. Desde el km 186,172 hasta el km 186,492, la vía principal discurre en una curva a la izquierda de radio R = 778 m, con un peralte D = 114 mm, con una pendiente del 4,58 ‰. Desde el km 186,492 hasta el km 186,692, la vía principal discurre en una curva a la izquierda de radio R = 778 m, con un peralte D = 114 mm, con una transición de longitud lp = 128 m, con una pendiente del 2,57 ‰. Desde el km 186,692 hasta el km 186,711, la vía principal discurre en línea recta, con una pendiente del 2,57 ‰. Desde el km 186,711 hasta el km 186,778, la vía principal discurre en línea recta, con una pendiente del 3,12 ‰. Desde el km 186,778 hasta el km 187,031, la vía principal discurre en una curva a la derecha de radio R = 1 324 m, con un peralte D = 38 mm, con una transición de longitud lp = 82 m, con una pendiente del 3,12 ‰. Desde el km 187,031 hasta el km 187,112, la vía principal discurre en una curva a la derecha de radio R = 1 324 m, con un peralte
-
+### 2.2.3 Descripción de los componentes de la vía de circulación de la línea, del sistema de señalización (es decir, en particular el estado de las vías, los desvíos, los aparatos de cambio de aguja, los señales y el dispositivo de seguridad del tren)
+El tramo entre estaciones Přerov – Prosenice está equipado con TZZ de 3.ª categoría, un bloque automático de tres indicaciones tipo AB 3/82A para tráfico bidireccional, con transmisión de información de las señales de los señales principales al HDV principal. El tramo entre estaciones está dividido en cinco secciones de vía.
+La vía principal n.º 2, entre las estaciones de Přerov y Prosenice, en el sentido de marcha del tren Nex 2. nsl. 46659, desde el km 185,814 hasta el km 185,893, discurre en línea recta, en pendiente del 3,14 ‰. Desde el km 185,893 hasta el km 186,172, la vía principal discurre en una curva a izquierda de radio R = 778 m, con sobreelevación D = 114 mm, con transición de longitud lp = 128 m, en pendiente del 3,14 ‰. Desde el km 186,172 hasta el km 186,492, la vía principal discurre en una curva a izquierda de radio R = 778 m, con sobreelevación D = 114 mm, en pendiente del 4,58 ‰. Desde el km 186,492 hasta el km 186,692, la vía principal discurre en una curva a izquierda de radio R = 778 m, con sobreelevación D = 114 mm, con transición de longitud lp = 128 m, en pendiente del 2,57 ‰. Desde el km 186,692 hasta el km 186,711, la vía principal discurre en línea recta, en pendiente del 2,57 ‰. Desde el km 186,711 hasta el km 186,778, la vía principal discurre en línea recta, en pendiente del 3,12 ‰. Desde el km 186,778 hasta el km 187,031, la vía principal discurre en una curva a derecha de radio R = 1 324 m, con sobreelevación D = 38 mm, con transición de longitud lp = 82 m, en pendiente del 3,12 ‰. Desde el km 187,031 hasta el km 187,112, la vía principal discurre en una curva a derecha de radio R = 1 324 m, con sobreelevación
 
 ## Página 17
+
 
 D = 38 mm, con una pendiente del 3,12 ‰. Desde el km 187,112 hasta el km 187,437, la vía principal discurre en una curva a la derecha de radio R = 1 590 m, con un peralte D = 38 mm, con una pendiente del 3,12 ‰. Desde el km 187,437 hasta el km 187,507, la vía principal discurre en una curva a la derecha de radio R = 1 590 m, con un peralte D = 38 mm, con una pendiente del 4,18 ‰. Desde el km 187,507 hasta el km 187,538, la vía principal discurre en una curva a la derecha de radio R = 1 045 m, con un peralte D = 38 mm, con una transición de longitud lp = 46 m, con una pendiente del 4,50 ‰. Desde el km 187,538 hasta el km 187,584, la vía principal discurre en una transición hacia una curva a la derecha de radio R = 1 045 m, con un peralte D = 38 mm, con una pendiente del 4,50 ‰. En la continuación desde el km 187,584, la vía principal discurre en línea recta y con una pendiente del 4,50 ‰.
 El lecho de la vía principal n.º 2 entre la estación de Přerov y la estación de Prosenice, hasta el km 187,650, en el sentido de circulación del tren Nex 2. nsl. 46659, está formado por raíles de perfil R 65 sobre traviesas transversales de hormigón de perfil SB 8. Los raíles de perfil R 65 están unidos a las traviesas de hormigón mediante placas base nervadas R 4pl, abrazaderas de perfil ŽS 4 y tornillos R 1. Desde el km 187,650, el lecho de la vía principal n.º 2 está formado por raíles de perfil UIC 60 sobre traviesas transversales de hormigón de perfil B 91S. Los raíles de perfil UIC 60 están unidos a las traviesas de hormigón mediante grapas elásticas FC 1501.
@@ -395,6 +401,7 @@ La velocidad de vía en el lugar de origen del MU es, según la documentación d
 Con motivo de la aparición del MU, se utilizó la comunicación de radio SRD operada a través del TRS por el maquinista del tren en sentido contrario IC 542, que informó con la radio de a bordo al maquinista del tren Nex 2. nsl. 46659 de que la parte trasera del tren Nex 2. nsl. 46659 tenía un funcionamiento inestable. Tras recibir esta información, el maquinista del tren Nex 2. nsl. 46659 informó con la radio de a bordo al despachador de circulación IIB CDP Přerov de su intención de detenerse excepcionalmente en la estación de Prosenice con el fin de inspeccionar la composición del tren y, posteriormente, también de la aparición del MU.
 
 ## Página 18
+
 
 ### 2.2.5 Trabajos realizados en el lugar de la excepcionalidad y en sus inmediaciones
 En el lugar de la excepcionalidad no se estaban realizando, inmediatamente antes de su producción, por parte del propietario de la vía ni del explotador de la vía, trabajos de reparación o de mantenimiento en la superestructura, subestructura, línea de tracción y aparatos de enclavamiento, ni otros trabajos en la explotación de la vía que guarden relación causal con la producción de la excepcionalidad de que se trata.
@@ -409,8 +416,8 @@ Secuencia de hechos:
 La excepcionalidad fue comunicada por el operador del explotador de la vía al IZS (HZS de SŽDC, s. o., Přerov), en el sentido del decreto n.º 376/2006 Sb., sin demora innecesaria e inmediatamente después de que el jefe de turno de ČD, a. s., RCP Ostrava, conociera los hechos, y ello el 08. 12. 2010 a las 11:24 h.
 El HZS de SŽDC, s. o., Přerov se desplazó al lugar de la excepcionalidad el 08. 12. 2010 a las 11:25 h con una unidad de intervención. La unidad del HZS de SŽDC, s. o., Přerov llegó a la est. Prosenice a las 11:36 h. Una vez conocidas las circunstancias de la excepcionalidad, se solicitó al lugar la unidad del HZS de SŽDC, s. o., Olomouc, que también contaba con una unidad de intervención. Las demás unidades del IZS no intervinieron en el lugar de la excepcionalidad.
 
-
 ## Página 19
+
 
 ## 2.3
 ### Fallecimientos, lesiones y daños materiales
@@ -441,6 +448,7 @@ Maquinista del tren Nex 2. nsl. 46659 – del Acta con el empleado se desprende,
 
 ## Página 20
 
+
 tras recibir la información anteriormente mencionada, el maquinista activó el freno automático de vacío continuo del tren. Simultáneamente informó al despachador de circulación IIB CDP Přerov, a través de la radio de a bordo, de su intención de detener el tren de forma excepcional en la estación de Prosenice con el fin de inspeccionar la composición;
 ◦
 mediante la inspección de los vagones de la composición del tren Nex 2. nsl. 46659 se detectó el vagón 13 descarrilado;
@@ -462,73 +470,43 @@ En el momento de la aparición del accidente ferroviario en cuestión, todas las
 ### 3.2.3 Procedimiento de control interno de seguridad y sus resultados
 El gestor de la infraestructura, para garantizar la operatividad de la infraestructura y la seguridad del transporte ferroviario, tiene establecidos, de conformidad con lo dispuesto en el § 26 y en el anexo n.º 1 del artículo 177/1995 Sb., por el que se aprueba el Reglamento de construcción y técnico de las infraestructuras ferroviarias, en su versión vigente (en adelante, artículo
 
-
 ## Página 21
 
-177/1995 Sb.), los intervalos de tiempo de inspección y medición de la construcción de la infraestructura ferroviaria, a saber, «DIRECTRIZ ORGANIZATIVA n.º 300/52 Controles establecidos de las líneas de ČD en el ámbito de SDC Olomouc», n.º de expediente: 129/02-OP, de fecha 30. 01. 2002, con efectos desde el 01. 02. 2002, en su versión vigente (en adelante, Directriz Organizativa n.º 300/52).
-De la documentación del gestor de la infraestructura sobre las inspecciones y mediciones realizadas de la construcción de la infraestructura ferroviaria en el tramo Přerov – Prosenice, y de la documentación operativa de la construcción de la infraestructura ferroviaria llevada en SDC Olomouc, se desprende que las inspecciones y mediciones de la construcción de la infraestructura ferroviaria se realizan de conformidad con los intervalos de tiempo prescritos en el alcance establecido. Las deficiencias detectadas en el tramo de infraestructura ferroviaria en cuestión son examinadas y subsanadas por el gestor de la infraestructura.
-Por la garantía de la idoneidad técnica de los vagones de la composición de la administración ferroviaria extranjera responde, en el sentido del Convenio sobre el Transporte Ferroviario Internacional (COTIF), en la versión del Protocolo de Vilna, publicado en la Colección de Tratados Internacionales como comunicación n.º 49/2006 Sb. m. s., vigente desde el 01. 07. 2006, y del contrato «Contrato General sobre el Uso de Vagones de Mercancías», en vigor desde el 01. 07. 2006, en la versión de la Modificación n.º 1, en vigor desde el 13. 10. 2009 (en adelante, Contrato General sobre el Uso de Vagones de Mercancías), capítulo II «DERECHOS Y OBLIGACIONES DEL TITULAR DEL VAGÓN», artículo 7 «Idoneidad técnica y mantenimiento de los vagones», punto 7.1, el titular del vagón, que en el caso del vagón Laaers 23 83 4363 610-2 es la sociedad SITFA.
-Las últimas revisiones técnicas del vagón Laaers 23 83 4363 610-2 se realizaron, antes de la aparición del accidente ferroviario, por personas profesionalmente aptas en la estación de Genf (Ginebra, Confederación Suiza), por un empleado de SBB Cargo AG el 02. 12. 2010, y en la estación de Bludenz (República de Austria), por un empleado de Rail Cargo Austria AG, en el tren 46658. En las revisiones técnicas no se detectaron deficiencias.
-En el territorio de la República Checa no se realizó la revisión técnica, en el sentido del acuerdo «Acuerdo entre ŽPP ČD Cargo, a.s. - DB Schenker Rail Deutschland AG - Györ-Sopron-Ebenfurti Vasút Zrt. - MÁV Cargo AG - PKP Cargo S.A. - Rail Cargo Austria AG - Slovenske železnice d.o.o. - Železničná spoločnosť Cargo Slovakia, a.s., sobre la revisión técnica para el paso en el intercambio de vagones de mercancías», vigente desde el 01. 01. 2010. El operador ferroviario PKP Cargo S. A. reconoció la revisión técnica realizada en el territorio del Estado vecino.
-### 3.2.4 Interfaz entre los distintos sujetos participantes y los componentes de la vía
-El propietario y gestor de la infraestructura ferroviaria de categoría nacional, Přerov – Bohumín, es SŽDC, s. o., con domicilio en Dlážděná 1003/7, Praha 1 – Nové Město, PSČ 110 00, en virtud de la Autorización Administrativa expedida por la DÚ el 29. 05. 2008, con el n.º de expediente 3-4277/07-DÚ/Le-DÚ/O-Sl, n.º de expediente ÚP/2008/9002.
-La explotación de las instalaciones de la vía ferroviaria, la organización del transporte ferroviario, la dirección y organización del transporte ferroviario en el tramo entre estaciones Přerov – Prosenice la realizan los empleados de ČD, a. s., en virtud del contrato «CONTRATO SOBRE LA EXPLOTACIÓN DE LA INFRAESTRUCTURA FERROVIARIA», celebrado entre SŽDC, s. o., y �D, a. s., el 30. 06. 2008, con efectos desde el 01. 07. 2008.
-El operador ferroviario del tren era PKP Cargo, S. A., con domicilio en Grójecka 17, Warszawa, PSČ 02-021, en virtud de la Licencia de Operador Ferroviario concedida por decisión de Rzeczpospolita Polska, Urząd Transportu Kolejowego el 24. 11. 2003, con el n.º de expediente WPR/012/2003. El operador ferroviario es titular del Certificado de Operador Ferroviario, expedido por la DÚ el 18. 01. 2010, con el n.º de expediente DUCR-2366/10/Pd, n.º de expediente OSD/2010/076, con validez hasta el 17. 01. 2015.
-La conducción del vehículo ferroviario del operador ferroviario PKP Cargo, S. A., en las infraestructuras gestionadas por SŽDC, s. o., la realizan los empleados de Loko Train, s. r. o., en virtud del contrato «CONTRATO n.º LT 06/2010», celebrado entre PKP Cargo, S. A., y Loko Train, s. r. o., el 15. 06. 2010, con efectos desde el 15. 06. 2010.
+n.º 177/1995 Sb.), se establecen los intervalos de tiempo de las inspecciones y mediciones de la infraestructura ferroviaria, a saber «DIRECTRIZ ORGANIZATIVA n.º 300/52 Controles establecidos de las líneas de ČD en el ámbito de SDC Olomouc», ref. n.º 129/02-OP, de fecha 30. 01. 2002, en vigor desde el 01. 02. 2002, en su redacción vigente (en adelante, Directriz organizativa n.º 300/52).
+De la documentación del explotador ferroviario sobre las inspecciones y mediciones de la infraestructura ferroviaria realizadas en el tramo de línea Přerov – Prosenice, y de la documentación de explotación de la infraestructura ferroviaria llevada en SDC Olomouc, se desprende que las inspecciones y mediciones de la infraestructura ferroviaria se realizan de acuerdo con los intervalos de tiempo prescritos y en el alcance establecido. Las anomalías detectadas en el tramo de línea en cuestión son debatidas y subsanadas por el explotador ferroviario.
+Por la garantía de la idoneidad técnica de los VTC, responde la administración ferroviaria extranjera, en el sentido del Convenio sobre el Transporte Ferroviario Internacional (COTIF), en su redacción del Protocolo de Vilna, publicado en la Colección de Tratados Internacionales como comunicación n.º 49/2006 Sb. m. s., vigente desde el 01. 07. 2006, y del contrato «Contrato general sobre el uso de vagones de carga», en vigor desde el 01. 07. 2006, en su redacción de la Modificación n.º 1, en vigor desde el 13. 10. 2009 (en adelante, Contrato general sobre el uso de vagones de carga), capítulo II «DERECHOS Y OBLIGACIONES DEL POSEEDOR DEL VAGÓN», artículo 7 «Idoneidad técnica y mantenimiento de los vagones», punto 7.1, el poseedor del VTC, que en el caso del VTC Laaers 23 83 4363 610-2 es la sociedad SITFA.
+Las últimas revisiones técnicas (TP) del VTC Laaers 23 83 4363 610-2 fueron realizadas antes del suceso del MU por personas cualificadas profesionalmente en la estación de Ginebra (Ženeva, Confederación Suiza), por un empleado de SBB Cargo AG el 02. 12. 2010, y en la estación de Bludenz (República de Austria), por un empleado de Rail Cargo Austria AG, en el tren 46658. En las TP no se detectaron anomalías.
+En el territorio de la República Checa no se realizó la TP, en el sentido del acuerdo «Acuerdo entre ŽPP ČD Cargo, a.s. - DB Schenker Rail Deutschland AG - Györ-Sopron-Ebenfurti Vasút Zrt. - MÁV Cargo AG - PKP Cargo S.A. - Rail Cargo Austria AG - Slovenske železnice d.o.o. - Železničná spoločnosť Cargo Slovakia, a.s., sobre la revisión técnica para el paso en la intercambiación de vagones de carga», vigente desde el 01. 01. 2010. El transportista PKP Cargo S. A. reconoció la TP realizada en el territorio del Estado vecino.
+### 3.2.4 Interfaz entre los distintos sujetos implicados y los componentes de la vía de circulación
+El propietario y explotador de la infraestructura ferroviaria de categoría nacional, Přerov – Bohumín, es SŽDC, s. o., con domicilio en Dlážděná 1003/7, Praha 1 – Nové Město, CP 110 00, en virtud de la Autorización Administrativa expedida por DÚ el 29. 05. 2008, bajo la ref. n.º 3-4277/07-DÚ/Le-DÚ/O-Sl, n.º de registro ÚP/2008/9002.
+La explotación de las instalaciones de la vía de circulación ferroviaria, la organización del tráfico ferroviario, la dirección y organización del tráfico ferroviario en el tramo entre estaciones Přerov – Prosenice la realizan empleados de ČD, a. s., en virtud del contrato «CONTRATO DE EXPLOTACIÓN DE LA INFRAESTRUCTURA FERROVIARIA», celebrado entre SŽDC, s. o. y ČD, a. s. el 30. 06. 2008, en vigor desde el 01. 07. 2008.
+El transportista del tren era PKP Cargo, S. A., con domicilio en Grójecka 17, Warszawa, CP 02-021, en virtud de la Licencia de transportista concedida por decisión de Rzeczpospolita Polska, Urząd Transportu Kolejowego el 24. 11. 2003, bajo el n.º de registro WPR/012/2003. El transportista es poseedor del Certificado de transportista, expedido por DÚ el 18. 01. 2010, bajo la ref. n.º DUCR-2366/10/Pd, n.º de registro OSD/2010/076, con validez hasta el 17. 01. 2015.
+La conducción de los vehículos ferroviarios del transportista PKP Cargo, S. A. en las infraestructuras explotadas por SŽDC, s. o., la realizan empleados de Loko Train, s. r. o., en virtud del contrato «CONTRATO n.º LT 06/2010», celebrado entre PKP Cargo, S. A. y Loko Train, s. r. o. el 15. 06. 2010, en vigor desde el 15. 06. 2010.
 
 ## Página 22
 
 ## 3.3
-### Regulación jurídica y otras disposiciones
-### 3.3.1 Disposiciones jurídicas comunitarias y nacionales pertinentes
-En la investigación del SU se constató la infracción de las siguientes disposiciones jurídicas:
-§ 43 apartado 1 de la Ley núm. 266/1994 Sb., donde se indica, entre otros: «En las vías se puede
+### Regulación jurídica y de otro tipo
+### 3.3.1 Normativa comunitaria y nacional aplicable
+En la investigación del accidente se constató el incumplimiento de las siguientes disposiciones legales:
+§ 43 apartado 1 de la Ley núm. 266/1994 Sb., donde se indica, entre otros: "En las vías se puede
 ●
-circular con un vehículo ferroviario que, por su construcción y su estado técnico, cumpla los
-requisitos de seguridad del transporte ferroviario, del personal de servicio, de las personas
-transportadas y de las mercancías...»;
-§ 59 apartado 2 del decreto núm. 173/1995 Sb., por el que se aprueba el Reglamento de
+operar un vehículo ferroviario cuya construcción y estado técnico cumplan los requisitos de seguridad del transporte ferroviario, del personal de servicio, de los pasajeros transportados y de las mercancías ...";
+§ 59 apartado 2 del decreto núm. 173/1995 Sb., por el que se aprueba el Reglamento de Circulación Ferroviaria,
 ●
-circulación ferroviaria, en su versión vigente (en adelante decreto núm. 173/1995 Sb.), donde
-se indica, entre otros: «Los vehículos ferroviarios de administraciones ferroviarias extranjeras
-circulando en la vía de ámbito nacional, en la vía regional y en el ramal privado se consideran
-vehículos técnicamente aptos, siempre que circulen conforme a las condiciones del acuerdo
-contractual del operador con la administración ferroviaria extranjera y cumplan los requisitos
-de seguridad del transporte ferroviario, del personal de servicio y de las personas transportadas
-y de las mercancías. ...».
-3.3.2 Otras disposiciones, p. ej. reglamento de explotación, reglamento de trabajo, disposiciones de
-mantenimiento, normas técnicas vigentes y otras disposiciones internas
-En la investigación del SU, por parte del titular del TDV Laaers 23 83 4363 610-2, se constató
-la infracción de esta disposición:
-«Contrato general de uso de vagones de carga», capítulo II «DERECHOS Y
-●
-OBLIGACIONES DEL TITULAR DEL VAGÓN», artículo 7 «Aptitud técnica y mantenimiento de
-los vagones» (en adelante Contrato general de uso de vagones de carga), punto 7.1, donde
-se indica: «El titular del vagón debe velar por que sus vagones sean técnicamente aptos
-conforme a las disposiciones europeas vigentes y por que permanezcan técnicamente aptos
-durante el tiempo de su utilización.».
+en su versión vigente (en adelante, decreto núm. 173/1995 Sb.), donde se indica, entre otros: "Los vehículos ferroviarios de las administraciones ferroviarias extranjeras que circulen en la vía de ámbito nacional, en la vía regional y en el ramal privado se considerarán vehículos técnicamente aptos si circulan conforme a las condiciones del acuerdo contractual del operador con la administración ferroviaria extranjera y si cumplen los requisitos de seguridad del transporte ferroviario, del personal de servicio y de los pasajeros transportados y de las mercancías. ...".
+3.3.2 Otras normas, por ejemplo, el reglamento de explotación, el reglamento laboral, las normas de mantenimiento, las normas técnicas vigentes y otras normas internas
+En la investigación del accidente se constató, por parte del titular del TDV Laaers 23 83 4363 610-2, el incumplimiento de la siguiente norma:
+"Contrato General de Uso de Vagones de Mercancías", capítulo II "DERECHOS Y OBLIGACIONES DEL TITULAR DEL VAGÓN", artículo 7 "Aptitud técnica y mantenimiento de los vagones" (en adelante, Contrato General de Uso de Vagones de Mercancías), punto 7.1, donde se indica: "El titular del vagón debe velar por que sus vagones sean técnicamente aptos conforme a las normativas europeas vigentes y por que permanezcan técnicamente aptos durante el tiempo de su uso.".
 ## 3.4
 ### Funcionamiento de los vehículos ferroviarios y de las instalaciones técnicas
-### 3.4.1 Sistema de mando, señalización y seguridad, incluidos los dispositivos de
-registro automático de datos
-El sistema de mando, señalización y seguridad no guardaba relación alguna con la
-producción del SU. No se detectaron anomalías.
+### 3.4.1 Sistema de mando, señalización y seguridad, incluidos los dispositivos de registro automático de datos
+El sistema de mando, señalización y seguridad no guardaba relación alguna con la ocurrencia del accidente. No se detectaron anomalías.
 ### 3.4.2 Componentes de la vía
-De la evaluación de las magnitudes geométricas medidas en la vía núm. 2 en el lugar de
-producción del SU se constató que no se alcanzaron ni se superaron las desviaciones
-operativas y desviaciones operativas límite de la anchura entre carriles (en adelante RK), la
-torsión de la anchura entre carriles (en adelante ZR) para la banda de velocidad RP 2 en el
-nivel IL – límite de intervención (reparación) y en el nivel IAL – límite de intervención
-inmediata, establecidas en las Tablas núm. 7, 8 y 9 de la norma ČSN 73 6360-2 «Diseño
-constructivo y geométrico de la vía de las vías férreas y su posición espacial – Parte 2:
-Construcción y recepción, explotación y mantenimiento», vigente desde febrero de 2007
-(en adelante ČSN 73 6360-2). Las desviaciones operativas y desviaciones operativas límite
-de la elevación de la vía (en adelante PK) y la pendiente mutua de las bandas de carril –
-torsión de la vía (en adelante ZK), para la banda de velocidad RP 2, en el nivel IL – límite de
-intervención
-
+De la evaluación de las magnitudes geométricas medidas en la vía núm. 2 en el lugar de ocurrencia del accidente se constató que no se alcanzaron ni se superaron las desviaciones operativas y operativas límite de la anchura de vía (en adelante, RK), la deformación de la anchura de vía (en adelante, ZR) para el tramo de velocidad RP 2 en el nivel IL – umbral de intervención (reparación) y en el nivel IAL – umbral de intervención inmediata, establecidos en las Tablas núm. 7, 8 y 9 de la norma ČSN 73 6360-2 "Diseño constructivo y geométrico de la vía de las vías férreas y su posición espacial – Parte 2: Construcción y recepción, explotación y mantenimiento", vigente desde febrero de 2007 (en adelante, ČSN 73 6360-2). Las desviaciones operativas y operativas límite del alabeo de la vía (en adelante, PK) y la pendiente mutua de las bandas de rueda – deformación de la vía (en adelante, ZK), para el tramo de velocidad RP 2, en el nivel IL – umbral de intervención
 
 ## Página 23
+
 
 (reparación) y en el nivel IAL – límite de intervención inmediata, establecidas en las Tablas
 núm. 10.1 y 11.1 de la norma ČSN 73 6360-2, no se alcanzaron ni se superaron.
@@ -593,6 +571,7 @@ velocidad máxima permitida;
 
 ## Página 24
 
+
 la parte móvil del protector automático de trenes estaba en funcionamiento durante la circulación del tren y fue debidamente manejada por el maquinista durante todo el •
 tiempo.
 El TDV Laaers 23 83 4363 610-2 constaba de dos vagones de dos ejes unidos mediante un acoplamiento rígido. El objeto de la inspección comisionada realizada el 01. 02. 2011 en las instalaciones de DPOV, a. s., Centro de Operaciones de Reparaciones de Přerov, fue la parte descarrilada del TDV en cuestión, es decir, la parte delantera en el sentido de circulación del tren (es decir, la parte con las ruedas n.º 5 a 8).
@@ -613,6 +592,7 @@ Mediante la medición de los juegos de ruedas descarrilados y la posterior evalu
 
 ## Página 25
 
+
 incumplimiento del valor inferior de la tolerancia de la anchura de vía del juego de ruedas del eje 2 (ruedas n.º 5 y 6)
 •
 1 359 mm en dos valores hasta 1,5 mm. Los valores de la anchura de vía del juego de ruedas se movían en el rango de 1 359 a 1 357,5 mm.
@@ -632,6 +612,7 @@ El 10. 03. 2011, la sociedad ČD Cargo, a. s., SOKV Ústí nad Labem, a iniciati
  «ACTA DE ENSAYO
 
 ## Página 26
+
 
 «PODDAJNOSTI PRUŽNICE», n.º de traviesas 0311/1005, 0311/1006, 0311/1007 y 0311/1008, de los que se desprende que ninguna de las traviesas trapezoidales de la parte descarrilada del TDV Laaers 23 83 4363 610-2 cumplía; las traviesas eran rígidas. El valor requerido de flexibilidad c = 0,86 mm·kN-1 ±8%, establecido por las condiciones técnicas para el TDV de tipo 365, fue:
 • en la traviesa de la rueda n.º 8 (1.er eje) superado en -0,0607 mm·kN-1;
@@ -655,8 +636,8 @@ La circulación del tren Nex 2. nsl. 46659 en la estación de Přerov y en el tr
 
 La parte descarrilada del TDV Laaers 23 83 4363 610-2 no fue utilizada antes de la producción del MU en un estado técnicamente apto que correspondiera a los requisitos de seguridad del tráfico ferroviario, debido a que el titular del TDV no se ocupó de que su TDV Laaers 23 83 4363 610-2 estuviera técnicamente apto y permaneciera técnicamente apto durante su utilización, véase el punto
 
-
 ## Página 27
+
 
 3.4.4. Se trataba de deficiencias en el estado técnico del TDV que, sin embargo, no eran detectables en el marco de las TP realizadas.
 
@@ -690,6 +671,7 @@ Los empleadores garantizaron las condiciones para el descanso previo al turno de
 Todos los empleados implicados estaban, en el momento de la producción del MU, en condiciones de salud aptas para el desempeño de la función que ocupaban. La investigación no constató que la situación personal o el estado psicológico de las personas implicadas en el MU hubieran influido en la producción del MU.
 
 ## Página 28
+
 
 3.6.3 Disposición del equipamiento del puesto de mando o del vehículo que influye en su
 control y uso
@@ -731,8 +713,8 @@ través de la radio de vehículo del maquinista del tren Nex 2.ª n.º 46659, a 
 46659 a las 10:52 h reaccionó aplicando frenado continuo. Simultáneamente informó
 por la radio de vehículo al despachador de control IIB CDP Přerov de su intención de detener el tren de forma excepcional
 
-
 ## Página 29
+
 
 en la est. Prosenice. Al pasar por el extremo de Přerov de la est. Prosenice, en la aguja
 n.º 27, durante el frenado del tren, descarriló en el pk 190,432 también el 1.º eje del TDV Laaers 23 83 4363 610-2
@@ -780,6 +762,7 @@ Dada la naturaleza de los defectos, no era posible, en el marco de las TP realiz
 
 ## Página 30
 
+
 por el transportista.  
 La constatación indicada se refiere al punto 7.1 del Contrato General de uso de vagones de carga y a la disposición § 59 apartado 2 del decreto nº 173/1995 Sb., y constituye el incumplimiento de la disposición § 43 apartado 1 de la ley nº 266/1994 Sb.
 El DI no tiene ninguna observación sobre la actividad de los servicios del IZS.
@@ -800,8 +783,8 @@ No fueron constatadas por el DI deficiencias y omisiones durante la investigaci�
 ### Lista de medidas ya adoptadas o tomadas como consecuencia del suceso excepcional
 A la fecha de publicación del Informe sobre los resultados de la investigación de las causas y circunstancias del SE, ni el explotador de la vía ni el transportista habían adoptado ninguna medida.
 
-
 ## Página 31
+
 
 ## 6 RECOMENDACIONES DE SEGURIDAD
 Atendiendo a las causas y circunstancias constatadas del SE, el DI no emitió ninguna recomendación de seguridad.
@@ -813,14 +796,14 @@ Director
 Inspectorado Territorial de Ostrava
 Inspectorado Territorial de Ostrava
 
-
 ## Página 32
+
 
 ## 7 ANEXOS
 Fig. 4 Imagen del 08 de diciembre de 2010 que documenta la huella dejada por el ascenso de la rueda nº 6 del TDV Laaers 23 83 4363 610-2 sobre la cabeza del carril izquierdo de la vía nº 2.
 ### Fig. 5 Imagen del 08 de diciembre de 2010 que documenta la destrucción del corazón de la aguja de la aguja nº 27 de la est. Prosenice tras el paso del TDV Laaers 23 83 4363 610-2 descarrilado.
 
-
 ## Página 33
+
 
 Fig. 6 Imagen del 10 de marzo de 2011 que documenta el ensayo de flexibilidad del muelle trapezoidal nº 5 del TDV Laaers 23 83 4363 610-2, realizado en el estado calibrado de ČD Cargo, a. s., SOKV Ústí nad Labem.

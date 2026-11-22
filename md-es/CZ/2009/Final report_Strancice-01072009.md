@@ -10,13 +10,14 @@ chars: 93934
 ratio_longitud: 1.25
 tokens_in: 48524
 tokens_out: 31186
-verificacion: revisar
-notas_cifras: ["bloque 2: original bilingüe: se compara contra el idioma principal (CS)", "bloque 4: cifras cortas: 1/125", "bloque 8: original bilingüe: se compara contra el idioma principal (CS)", "bloque 11: original bilingüe: se compara contra el idioma principal (CS)", "bloque 12: original bilingüe: se compara contra el idioma principal (CS)", "bloque 13: original bilingüe: se compara contra el idioma principal (PT); cifras cortas: 1/46"]
-avisos: ["bloque 12: ratio 1.66", "bloque 13: ratio 1.72"]
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 5: original bilingüe: se compara contra el idioma principal (EN)", "página 6: original bilingüe: se compara contra el idioma principal (PT)", "página 7: original bilingüe: se compara contra el idioma principal (PL)", "página 8: original bilingüe: se compara contra el idioma principal (CS)", "página 9: original bilingüe: se compara contra el idioma principal (PT)"]
 ---
+
 ## Página 1
+
 
 Inspección Ferroviaria
 República Checa
@@ -43,11 +44,12 @@ IČ:   75009561
 http://www.dicr.cz
 fax: (+420) 224 805 428
 
-
 ## Página 2
 
 
+
 ## Página 3
+
 
 # RESUMEN
 Grado:
@@ -79,13 +81,13 @@ enfoque de sistema del Sistema de Gestión de la Seguridad Ferroviaria del gesto
 Se recomienda hacer extensiva la medida adoptada por la unidad Stavební •
 správa Praha a las unidades Stavební správa Plzeň y Olomouc
 
-
 ## Página 4
+
 
 Por la traducción al inglés es responsable: Ing. Hana Pechačová
 
-
 ## Página 5
+
 
 # Índice
  Resumen .........................................................................................................................3
@@ -114,6 +116,7 @@ Por la traducción al inglés es responsable: Ing. Hana Pechačová
 3.1.1 Empleados del explotador de la vía y del transportista, incluidas las personas en relación contractual ..............................................................................................................13
 
 ## Página 6
+
 
 3.1.2 Otras personas .........................................................................................................15
 3.2 Sistema de garantía de la seguridad ........................................................................15
@@ -145,8 +148,8 @@ aplicación ....................................................................
 ...........................................................................................................................26
 4.2 Análisis ......................................................................................................................27
 
-
 ## Página 7
+
 
 4.2.1 Evaluación de los hechos establecidos según el punto 3 y formulación de conclusiones sobre la causa del suceso excepcional y la actuación de los servicios de emergencia .........................................27
 4.3 Conclusiones ......................................................................................................................29
@@ -171,30 +174,43 @@ aplicación ....................................................................
 ## 1 RESUMEN
 ### Grupo del suceso: accidente.
 ### Producción del suceso: 01. 07. 2009, 12:20 horas
-Descripción del suceso: descarrilamiento del vehículo ferroviario por el eje delantero durante la marcha del tren Pn 1.nsl 
-66803 en el km 155,675 en la 1.ª vía de la línea.
-### Línea, lugar: 
-línea ferroviaria, categoría de ámbito nacional, línea 519A Benešov u Prahy – 
-Praha -Vršovice estación de pasajeros, 1.ª vía de la línea, km 155,675, entre 
+Descripción del suceso: descarrilamiento del vehículo ferroviario por el eje delantero durante la circulación del tren Pn 1.nsl 
+66803  en el pk 155,675 en la 1.ª vía de tráfico.
+### Ferrocarril, lugar: 
+ferrocarril, categoría estatal, línea 519A Benešov u Prahy – 
+Praha -Vršovice estación de pasajeros, 1.ª vía de tráfico, pk 155,675, entre 
 estaciones ferroviarias (en adelante también est.) Strančice y Senohraby. 
 ### Intervinientes: 
-Správa železniční dopravní cesty, organización estatal (en adelante también 
-gestor de la línea o SŽDC).
-Elektrizace železnic Praha, a. s. (en adelante también transportista o EŽ Praha, a. 
-s.).
+Administración de la Infraestructura Ferroviaria del Tráfico, organización estatal (en adelante también 
+gestor del ferrocarril o SŽDC).
+Electrificación de Ferrocarriles Praga, S.A. (en adelante también 
+transportista o EŽ Praha, S.A.).
 ### Consecuencias: 
-descarrilamiento del vehículo ferroviario de la serie Uacs número 84 54 9323 978-2, propiedad del transportista; en este vehículo ferroviario no se produjo ningún daño. Asimismo, el gestor de la línea no registró ningún daño. 
-### El daño total cuantificado por el gestor de la línea y el transportista asciende a 0 Kč.
+descarrilamiento del vehículo ferroviario de la serie Uacs número 84 54 9323 978-2, propiedad del 
+transportista, en este vehículo ferroviario no se produjo ningún daño. Asimismo, 
+el gestor del ferrocarril no registró ningún daño. 
+### El daño total cuantificado por el gestor del ferrocarril y el transportista asciende a 0 CZK.
 ### Causa inmediata: 
-Cambio de la posición direccional y de la altura de la vía bajo el segundo vehículo remolcado DV como consecuencia de la actuación conjunta de la marcha del tren y la deformación de la infraestructura y la superestructura ferroviaria por actividad constructiva. 
+Cambio de la posición direccional y de altura de la vía bajo el segundo vehículo remolcado DV como consecuencia de la 
+coincidencia de la circulación del tren y la deformación de la infraestructura ferroviaria 
+y la superestructura por actividad constructiva. 
 ### Causas principales: 
-Alteración de la infraestructura y la superestructura ferroviaria por la excavación de parte del terraplén hasta la junta de cimentación, con una fijación insuficiente de la 1.ª vía de la línea debido al incumplimiento del procedimiento tecnológico de apisonado. 
+Alteración de la infraestructura ferroviaria y la superestructura por la extracción de parte del terraplén hasta la junta de 
+cimentación, debido a la insuficiente fijación de la 1.ª vía de tráfico por incumplimiento del procedimiento 
+tecnológico de apisonado. 
 ### Causas en el sistema de seguridad: 
-La no inclusión de las Jefaturas de Construcciones por parte del gestor de la línea en el cuadro de unidades y órganos organizativos que tienen la obligación de dirigir la garantía de su sistema de seguridad, a pesar de que estos órganos organizativos realizan la función de supervisión técnica en las obras de la línea, que de conformidad con la Ley n.º 266/1994 Sb. deben cumplir las condiciones técnicas y los requisitos de seguridad de la explotación de la línea y del transporte ferroviario. Como consecuencia de ello, no se elaboró el sistema de seguridad del gestor de la línea para las condiciones concretas del órgano organizativo Jefatura de Construcciones de Praga, y por tanto:
-a) no se trasladaron los objetivos de seguridad establecidos y las tareas relacionadas a los distintos empleados de esta unidad organizativa, en el presente caso en particular la obligación de evaluar 
-
+La no inclusión de las Direcciones de Construcción por parte del gestor del ferrocarril en el calendario de unidades y 
+unidades organizativas que tienen la obligación de dirigir la garantía de su sistema de seguridad, y esto a pesar de 
+que estas unidades organizativas realizan la actividad de supervisión técnica en las obras ferroviarias, que 
+según la Ley núm. 266/1994 Sb. deben cumplir las condiciones técnicas y los requisitos de seguridad 
+de explotación del ferrocarril y del transporte ferroviario. Como consecuencia de ello, no se elaboró el 
+sistema de seguridad del gestor del ferrocarril en las condiciones concretas de la unidad organizativa Dirección de 
+Construcción Praga, y por tanto:
+a) no se transfirieron los objetivos de seguridad establecidos y las tareas relacionadas a los distintos 
+empleados de esta unidad organizativa, en el caso concreto especialmente la obligación de evaluar
 
 ## Página 9
+
 
 y valorar los riesgos de las deficiencias e irregularidades detectadas en las obras de la línea y en la línea en relación con la explotación segura de la línea y del transporte ferroviario;
 b) no se elaboró el procedimiento tecnológico para la adopción de la medida inmediata en el sentido de la Ley n.º 266/1994 Sb. y de las disposiciones reglamentarias correspondientes en el caso de que el empleado que realiza la supervisión técnica del inversor, durante la supervisión en las obras de la línea o en la línea, detecte una actividad o una infracción grave de la disciplina tecnológica que ponga en peligro la seguridad de la explotación de la línea o del transporte ferroviario.
@@ -203,10 +219,10 @@ incluir los órganos organizativos de las Jefaturas de Construcciones entre las 
 –
 que tienen la obligación de dirigir la garantía del «Sistema de garantía de la seguridad de la explotación de la línea y de la organización del transporte ferroviario en la línea de ámbito nacional y en las líneas regionales» del gestor de la línea;
 –
-establecer que la medida adoptada con referencia n.º: 8573/10-SSPHA de fecha 2. 8. 2010 sea válida también para las Jefaturas de Construcciones de Plzeň y Olomouc. 
-
+establecer que la medida adoptada con referencia n.º: 8573/10-SSPHA de fecha 2. 8. 2010 sea válida también para las Jefaturas de Construcciones de Plzeň y Olomouc.
 
 ## Página 10
+
 
 ## 2 DATOS RELATIVOS AL SUCESO EXTRAORDINARIO
 ### 2.1 Suceso extraordinario
@@ -221,6 +237,7 @@ Sobre la base de los hechos comunicados, se decidió el desplazamiento de la DI 
 De acuerdo con los resultados de la supervisión continua de este SE en el marco de la supervisión estatal en materia de líneas ferroviarias, realizada por la DI, y en relación con las conclusiones de la Evaluación de las causas y circunstancias de producción del suceso extraordinario emitida por el gestor de la línea, el día 20. 04. 2010 el inspector general de la DI decidió, de conformidad con el § 53, letra b) de la Ley n.º 266/1994 Sb. y el § 11 y § 12 del Decreto n.º 376/2006 Sb., sobre el sistema de seguridad de la explotación de la línea y del transporte ferroviario y los procedimientos en caso de producción de sucesos extraordinarios en las líneas ferroviarias (en adelante también Decreto n.º 376/2006 Sb.),
 
 ## Página 11
+
 
 o la iniciación de la investigación de las causas y circunstancias del origen de la MU por parte de la Inspección Ferroviaria en su totalidad, es decir, incluida la elaboración del informe final. La investigación de las causas y circunstancias del origen de la MU fue encomendada al inspector principal (en adelante también VI) de la Inspección Territorial de Praga.
 ### 2.2 Circunstancias del suceso excepcional
@@ -243,8 +260,8 @@ En el lugar de la MU, la vía principal 1 entre la est. Strančice y la est. Sen
 ### 2.2.4 Uso de medios de comunicación
 El maquinista del tren Pn 1.nsl 66803 utilizó el teléfono móvil para comunicar la MU a la jefa de estación de la est. Strančice.
 
-
 ## Página 12
+
 
 ### 2.2.5 Trabajos realizados en el lugar del suceso excepcional y en sus proximidades
 En el lugar de la MU se estaban realizando trabajos relacionados con la reconstrucción del puente ferroviario en el km 155,716. Para la reconstrucción del puente, la empresa PRAGIS, a. s., elaboró el "Procedimiento tecnológico para el encofrado con puntales", en el que se elaboró, entre otros, la tecnología del encofrado, en continuidad con la documentación de proyecto de la obra, concretamente para este puente con el nombre SO 96-20-17.
@@ -272,8 +289,8 @@ Para el transporte ferroviario interrumpido se estableció un transporte por aut
 La MU fue comunicada por el gestor de la infraestructura al sistema integrado de emergencias (en adelante también IZS) en el sentido del Decreto núm. 376/2006 Sb., sin demora indebida por la jefa de estación de la est. Strančice.
 En el lugar de la MU actuó la unidad de protección contra incendios del HZS SŽDC.
 
-
 ## Página 13
+
 
 ### 2.3 Fallecimientos, lesiones y daños materiales
 2.3.1 En pasajeros y terceras personas, empleados del gestor de la infraestructura y del transportista, incluidas personas en relación contractual
@@ -300,6 +317,7 @@ de un vagón ferroviario.
 
 ## Página 14
 
+
 ### El maquinista del tren Pn 1.nsl 66803 en el "Registro con el empleado" elaborado por Elektrizací železnic Praha, a. s., el 01. 07. 2009, entre otras cosas, indicó:
 Durante la circulación del tren Pn 1.nsl 66803, entre la estación de Strančice y la estación de Senohraby, en la vía 1, tras pasar por el lugar del paso inferior (km 155,675), se oyó un fuerte ruido; tras detener el tren, fue a inspeccionarlo, donde constató el descarrilamiento del segundo coche por su bogie delantero.
 •
@@ -322,8 +340,8 @@ Ante la pregunta de cómo había evaluado y valorado los riesgos de los hechos c
 •
 Ante la pregunta de si le era conocido algún procedimiento tecnológico establecido por el gestor de la vía sobre cómo debía proceder en este caso en relación con la garantía inmediata de la seguridad de la explotación de la vía y del transporte ferroviario, respondió que, atendiendo a la cantidad de directrices con las que el empleador le pone al corriente durante el año,
 
-
 ## Página 15
+
 
 no recuerda el número y el nombre de la directriz concreta que abordara esta cuestión, pero que sí sabría cómo debía proceder en este caso.
 Asimismo, indicó que el contratista no puede ejecutar trabajos de forma diferente a la documentación de proyecto, pero sí puede proponer un cambio de la solución técnica, que sin embargo debe ser deliberado y aprobado por el promotor y el proyectista antes del inicio de la ejecución de los cambios, lo que en el caso dado el contratista no cumplió.
@@ -343,6 +361,7 @@ A2) Obligaciones del gestor de la vía – § 22 apartados (1), (2), (3) y (4) d
 (1) El gestor de la vía está obligado
 
 ## Página 16
+
 
 a) explotar la vía para las necesidades del transporte ferroviario fluido y seguro de acuerdo con las reglas para la explotación de la vía y la autorización administrativa,
 b) emitir, con efectos desde el día del inicio de la explotación de la vía, una norma interna sobre la explotación de la vía y sobre la idoneidad profesional y los conocimientos de las personas que garantizan la explotación de la vía y su forma de verificación, incluido el sistema de formación periódica,
@@ -366,8 +385,8 @@ A4) El explotador de la vía y el transportista están obligados – § 49 apart
 b) asegurar el lugar del suceso excepcional y realizar la documentación del estado en el momento de la producción del suceso excepcional.
 A5) Reglas para la explotación de la vía – § 2 apartado (3) del decreto núm. 173/1995 Sb.,
 
-
 ## Página 17
+
 
 (3) La vía debe ser revisada y mantenida periódicamente para garantizar su operatividad. Solo personas profesionalmente idóneas pueden organizar el mantenimiento de la vía, garantizar y revisar los parámetros técnicos establecidos de los componentes de la vía.
 A6) Condiciones técnicas de operatividad de la vía de ámbito nacional, regional y del apartadero – § 25 apartados (10), (16), letra c) del decreto núm. 177/1995 Sb., por el que se dicta el orden constructivo y técnico de las vías, en su redacción vigente (en adelante también decreto núm. 177/1995 Sb.):
@@ -384,6 +403,7 @@ El documento aborda las relaciones entre el comitente y el contratista, sus dere
 De forma análoga, esta cuestión se aborda en la sección 8 Interrupción de los trabajos, donde, según el art. 8.1, el comitente está facultado para ordenar al contratista la interrupción de los trabajos de ejecución de la obra o de una parte de la misma en caso de que el contratista no ejecute la obra de acuerdo con todos los documentos e instrucciones que sean vinculantes para la ejecución de la obra, o que durante su ejecución actúe de tal manera que se produzca un peligro
 
 ## Página 18
+
 
 de la explotación segura de la vía, del transporte ferroviario, de la seguridad, de la vida o de la salud de las personas o al ejecutar la obra incumple los procedimientos tecnológicos obligatorios.
 Esta orden de interrupción de los trabajos el contratante está obligado a entregársela por escrito al contratista (según el art. 8.3 en forma de anotación en el diario de obra y, al mismo tiempo, también como envío postal con acuse de recibo), y en dicha notificación exigir al contratista la eliminación del defecto y la continuación de la ejecución de la obra de manera adecuada. A tal efecto, está facultado para dar instrucciones al contratista sobre cómo proceder en la eliminación de defectos y en la posterior ejecución de la obra, y para fijar un plazo razonable para la eliminación del defecto.
@@ -402,20 +422,20 @@ Esta resolución se aplica también a la unidad organizativa de SŽDC Administra
 
 ## Página 19
 
-### 6) Reglamento orgánico de la Dirección de Construcción de Praga (en adelante también SSP):
-El documento se basa en el Estatuto de la organización estatal Administración de la Infraestructura Ferroviaria y en el Reglamento orgánico de la organización estatal Administración de la Infraestructura Ferroviaria. Delimita la dirección interna y la estructura organizativa de la SSP, las competencias y responsabilidades de los empleados directivos de la SSP y las atribuciones de las secciones y departamentos de la SSP. De este documento se desprende, entre otros, que la supervisión técnica (de construcción) en las obras se realiza en el ámbito de la sección de inversión. El documento no contiene el desarrollo de las tareas y los procedimientos de referencia para garantizar los objetivos de seguridad en el ámbito de la explotación segura de la vía, ni los procedimientos y métodos para la evaluación del riesgo y la adopción de medidas para la reducción de los riesgos, incluidos los requisitos de los empleados en este sentido, conforme al Sistema de Garantía de la Seguridad de la Explotación de la Vía y de la Organización del Tráfico Ferroviario en la vía de ámbito nacional y en las vías regionales.
-### 7) Orden del director de SŽDC, s. o., Dirección de Construcción de Praga n.º 5/2008:
-El documento aborda la garantía de la competencia profesional de los empleados, es decir, la determinación del alcance de los conocimientos para el grupo de empleados designado de la Dirección de Construcción de Praga, incluido el contenido de la formación prescrita y de los exámenes profesionales en la parte general y en la parte profesional. En este grupo de empleados se incluyen también los empleados que realizan la supervisión técnica (de construcción) del promotor.
-### 8) Descripción del puesto de trabajo del empleado de supervisión técnica del promotor
-Del documento se desprende que entre las actividades laborales de la supervisión técnica del promotor se incluyen, entre otras, la participación en la eliminación de defectos, el control de la calidad y la corrección de los procedimientos tecnológicos utilizados en la construcción, la resolución de problemas técnicos en la construcción con los proyectistas y los contratistas, la advertencia al contratista de los defectos en la construcción y su posterior control de eliminación, el control periódico de los diarios de obra y sus anotaciones, y la información al contratista sobre los defectos.
-De la documentación anteriormente mencionada se desprende que el explotador de la vía tiene elaborado en nivel superior el sistema de garantía de la seguridad de la explotación de la vía y de la organización del tráfico ferroviario en la vía de ámbito nacional y en las vías regionales, el cual, sin embargo, no está desarrollado a las condiciones concretas de la unidad organizativa Dirección de Construcción de Praga, a pesar de que los procedimientos tecnológicos indicados en esta documentación exigen dicha obligación. Tampoco se garantiza así la transmisión de los objetivos de seguridad establecidos y de las tareas relacionadas con ellos a los empleados individuales de esta unidad organizativa.
-Asimismo, en ningún documento presentado, aparte de la posibilidad de detener inmediatamente los trabajos de construcción y el procedimiento frente al contratista, se ha incorporado un procedimiento tecnológico para el empleado que realiza la supervisión técnica del promotor en el caso de que, durante la realización de dicha supervisión, detecte una infracción grave de la disciplina tecnológica o una actividad que ponga en peligro la seguridad de la explotación de la vía o del tráfico ferroviario, para la adopción inmediata de una medida que elimine dicho peligro.
+### 6) Reglamento de organización de la Administración de Construcción de Praga (en adelante también SSP):
+El documento se basa en el Estatuto de la organización estatal Administración de la vía de transporte ferroviario y en el Reglamento de organización de la organización estatal Administración de la vía de transporte ferroviario. Delimita la dirección interna y la estructura organizativa de la SSP, las competencias y responsabilidades de los empleados directivos de la SSP y las atribuciones de las secciones y departamentos de la SSP. De este documento se desprende, entre otros, que la supervisión técnica (de construcción) en las obras se realiza en el ámbito de la sección de inversión. El documento no contiene el desarrollo de las tareas y de los procedimientos de referencia para garantizar los objetivos de seguridad en el ámbito de la explotación segura de la vía, ni los procedimientos y métodos para la evaluación del riesgo y la adopción de medidas para la reducción de los riesgos, incluidos los requisitos de los empleados en este sentido, conforme al Sistema de garantía de la seguridad de la explotación de la vía y de la organización del tráfico ferroviario en la vía de ámbito nacional y en las vías regionales.
+### 7) Orden del director de SŽDC, s. o., Administración de Construcción de Praga n.º 5/2008:
+El documento aborda la garantía de la competencia profesional de los empleados, es decir, la determinación del alcance de los conocimientos para el grupo de empleados designado de la Administración de Construcción de Praga, incluido el contenido de la formación prescrita y de los exámenes profesionales en la parte general y en la parte profesional. A este grupo de empleados se incluyen también los empleados que realizan la supervisión técnica (de construcción) del inversor.
+### 8) Descripción del puesto de trabajo del empleado de supervisión técnica del inversor
+Del documento se desprende que entre las actividades laborales de la supervisión técnica del inversor se incluyen, entre otras, la participación en la eliminación de defectos, el control de la calidad y de la corrección de los procedimientos tecnológicos utilizados en la construcción, la resolución de problemas técnicos en la construcción con los proyectistas y los contratistas, la advertencia al contratista de los defectos en la construcción y, posteriormente, el control de su eliminación, el control periódico de los diarios de obra y de sus anotaciones, y la información al contratista sobre los defectos.
+De la documentación anteriormente mencionada se desprende que el explotador de la vía tiene elaborado en su nivel superior el sistema de garantía de la seguridad de la explotación de la vía y de la organización del tráfico ferroviario en la vía de ámbito nacional y en las vías regionales, el cual, sin embargo, no está desarrollado para las condiciones concretas de la unidad organizativa Administración de Construcción de Praga, a pesar de que los procedimientos tecnológicos indicados en esta documentación exigen dicho cumplimiento. Tampoco queda garantizada la transmisión de los objetivos de seguridad establecidos y de las tareas relacionadas con ellos a los empleados individuales de esta unidad organizativa.
+Asimismo, en ninguno de los documentos presentados, aparte de la posibilidad de detener inmediatamente las obras de construcción y del procedimiento frente al contratista, se ha incorporado un procedimiento tecnológico para el empleado que realiza la supervisión técnica del inversor en el caso de que, durante la realización de dicha supervisión, detecte una infracción grave de la disciplina tecnológica o una actividad que ponga en peligro la seguridad de la explotación de la vía o del tráfico ferroviario, a fin de adoptar de forma inmediata la medida que elimine dicho peligro.
 Se ha detectado una infracción por incumplimiento de las disposiciones de la normativa legal indicadas en los puntos A2) apartados (2, 4), A6) apartado (10) y, además, por incumplimiento de los procedimientos tecnológicos indicados en el punto B), que forman parte del expediente MU.
 ### 3.2.2 Requisitos de los empleados del explotador de la vía y del transportista y su aplicación
-Los requisitos de competencia profesional de los empleados del transportista, incluido el modo de su aplicación, los establece el reglamento interno adoptado del transportista "ČD Ok 2 REGLAMENTO DE FORMACIÓN Y EXPERIENCIA DE LOS FERROCARRILES CHECOS, a. s.", aprobado el 07. 12. 2005, con el n.º de expediente: 61773/05-O10, en vigor desde el 01. 01. 2006, en su versión vigente.
-
+Los requisitos de competencia profesional de los empleados del transportista, incluido el modo de su aplicación, los establece el reglamento interno adoptado del transportista "ČD Ok 2 VÝCVIKOVÝ
 
 ## Página 20
+
 
 La condición de aptitud para la conducción de un vehículo ferroviario la establece el § 45 de la Ley n.º 266/1994 Sb.
 El maquinista era titular de un Certificado de Aptitud para la Conducción de Vehículos Ferroviarios válido, n.º de expediente 205909, emitido por la Autoridad Ferroviaria de Praga, el 18. 08. 2005, para los tipos de vehículo 110, 111, 121, 122, 123, 130, 140, 141, 150, 151, 162, 163, 180, 181, 182, 362, 363, 700, 701, 703, 708, 714, 721, 730, 731, 740, 741, 742, en las vías C, R y V.
@@ -428,6 +448,7 @@ La investigación determinó que el empleado de supervisión técnica del promot
 
 ## Página 21
 
+
 no reflejó la exigencia indicada en el sistema de seguridad del gestor de la infraestructura, puesto que, tras detectar deficiencias en la obra, no realizó la evaluación del riesgo que de ellas se derivaba para la seguridad de la explotación del transporte ferroviario. Los procedimientos y métodos de evaluación del riesgo y de implantación de medidas para la gestión del riesgo como elemento de su sistema de seguridad los establece el gestor de la infraestructura en el sistema de seguridad adoptado, en la letra e), donde, entre otros, dispone: «...Estos riesgos deben ser objeto de toda inspección de los puestos de trabajo, ya sea periódica o extraordinaria. ...La documentación de evaluación de los factores de riesgo sirve como prueba importante en la elaboración de documentos internos y otros para garantizar la seguridad en la organización. ...La obligación de todos los responsables en todos los niveles de gestión es informar a los subordinados de los riesgos que se derivan de la explotación de la infraestructura y de la organización de la gestión del transporte ferroviario, y asegurar mediante inspecciones periódicas el cumplimiento de las medidas emitidas para su eliminación.»
 Asimismo, la investigación determinó que el gestor de la infraestructura, en la estructura de unidades y unidades organizativas que tienen la obligación de gestionar la garantía del sistema de seguridad, no incluyó la Dirección de Construcción, que realiza la actividad de supervisión técnica de SŽDC en las obras de la infraestructura, a pesar de que, en el marco de dicha actividad, se evalúan obras de la infraestructura que, conforme a la Ley n.º 266/1994 Sb., deben cumplir las condiciones técnicas y los requisitos de seguridad de la explotación de la infraestructura y del transporte ferroviario (§ 5 apartado (3) de la Ley n.º 266/1994 Sb.).
 La documentación forma parte del expediente MU. Se detectó una anomalía.
@@ -439,8 +460,8 @@ La reconstrucción del puente se realizó con base en:
 Contrato de obra «Optimalización trati Benešov u Prahy – Strančice», celebrado conforme a lo dispuesto en el § 536 y siguientes de la Ley n.º 513/1991 Sb., Código de Comercio, en su redacción vigente, en el que se indican como partes contratantes la Administración de la Infraestructura Ferroviaria, organización estatal, como comitente, y Skanska ŽS, a. s., Stavby silnic a železnic, a. s. (renombrada como Eurovia CS, a. s.), y Metrostav, a. s., miembros de la agrupación «Koridor IV, Benešov-Strančice», como contratista. Número de contrato del comitente 1925/06 – SSP, número de contrato del contratista 11448/375/06.
 «Contratos de obra», celebrados conforme a lo dispuesto en el § 536 y siguientes de la Ley n.º 513/1991 Sb., en los que se indican como partes contratantes Skanska ŽS, a. s., Stavby silnic a železnic, a. s. (renombrada como Eurovia CS, a. s.), y Metrostav, a. s., miembros de la agrupación «Koridor IV,
 
-
 ## Página 22
+
 
 Benešov-Strančice», como comitente, y Pražské silniční a vodohospodářské stavby, a. s., con domicilio en Dubečská 3238, Praha 10, 100 00 (en adelante también PSVS), como contratista. Número de contrato del comitente 4/291/2006, número de contrato del contratista 8-9613.
 En relación con el comitente SŽDC, PSVS actuaba como subcontratista.
@@ -478,6 +499,7 @@ Ley n.º 262/2006 Sb., Código Laboral, en su redacción dada por la Ley n.º
 ● norma interna de SŽDC Zam1 «Předpis o odborné způsobilosti zaměstnanců Správy železniční dopravní cesty, státní organizace» aprobada por el director general de SŽDC el 30. 6. 2008, n.º de expediente: 23138/08-OKS, en vigor desde el 1. 7. 2008, en su redacción vigente;
 
 ## Página 23
+
 
 reglamento interno SŽDC Dp 17 «Reglamento para la notificación e investigación de sucesos extraordinarios»
 ●
@@ -526,8 +548,8 @@ No se realizó medición de la flecha.
 a) desviaciones operativas límite en RK +35 - 9 mm/m
      no fueron superadas
 
-
 ## Página 24
+
 
 b) desviaciones operativas límite del cambio ZR ± 8 mm/2m
      no fueron superadas
@@ -575,29 +597,29 @@ instalado en el puesto principal del HDV 740.676-2 se desprende:
 
 ## Página 25
 
-Salida del tren a las 12:16 horas de la estación de Strančice, aumento de la velocidad hasta el valor de 46 km·h-1 y posterior reducción brusca de la velocidad hasta el valor de 0 km·h-1, distancia recorrida de 1,6 km, detención en el pk 155,350.
+Salida del tren a las 12:16 horas de la estación de Strančice, aumento de la velocidad hasta el valor de 46 km·h-1 y posterior reducción brusca de la velocidad hasta el valor de 0 km·h-1, distancia recorrida 1,6 km, parada en el pk 155,350.
 No se superó la velocidad máxima permitida de circulación del tren.
 La velocidad del tren en el punto del descarrilamiento era de 46 km·h-1. El protector automático de tren estaba activado y fue operado por el maquinista durante todo el trayecto del tren.
-La inspección comisionada del HDV y del DV, realizada tras la producción del MU, no detectó defectos. No se detectó defecto en relación causal con la producción del MU.
-### 3.5 Documentación del sistema de explotación
-### 3.5.1 Medidas adoptadas por los empleados del gestor de la infraestructura y del transportista en lo que respecta a la conducción, señalización y protección del tráfico
-Debido a trabajos de construcción, se estableció una circulación lenta de 50 km·h-1 en el tramo de la estación de Strančice – desvío de Mirošovice en la 1ª vía de la línea desde el pk 157,220 hasta el pk 153,810.
-El maquinista del tren Pn 1.nsl 66803 fue informado de la implantación de la circulación lenta mediante una orden escrita "V" y cumplió esta instrucción del gestor de la infraestructura hasta la producción del MU.
+En la inspección comisionada del HDV y del DV, realizada tras la aparición de la MU, no se detectaron defectos. No se detectó defecto en relación causal con la aparición de la MU.
+### 3.5 Documentación sobre el sistema de explotación
+### 3.5.1 Medidas adoptadas por los empleados del gestor de la infraestructura y del transportista en lo que respecta a la conducción, la señalización y la protección del tráfico
+Debido a obras de construcción, en el tramo de la estación de Strančice – desvío de Mirošovice, en la vía 1, desde el pk 157,220 hasta el pk 153,810, se estableció una circulación lenta de 50 km·h-1.
+El maquinista del tren Pn 1.nsl 66803 fue informado de la implantación de la circulación lenta mediante una orden escrita «V» y cumplió esta instrucción del gestor de la infraestructura hasta la aparición de la MU.
 No se detectó defecto.
-Actividad y medidas del empleado del gestor de la infraestructura que ejercía el 30 de junio de 2009 en la obra indicada la supervisión técnica del promotor – véase el punto 3.2.3 de este informe.
+Actividad y medidas del empleado del gestor de la infraestructura que ejercía el 30 de junio de 2009 la supervisión técnica del inversor en la obra mencionada – véase el punto 3.2.3 de este informe.
 Se detectó un defecto.
 ### 3.5.2 Intercambio de comunicaciones verbales en relación con la excepcionalidad, incluidos los registros del dispositivo de registro
-Como primera comunicación acreditada en relación con el MU puede considerarse la notificación del descarrilamiento del DV realizada por el maquinista del tren Pn 1.nsl 66803 al jefe de estación de la estación de Strančice inmediatamente después de la producción del MU.
-La conversación telefónica entre el empleado que ejercía la supervisión técnica del promotor y el representante de la empresa constructora sobre el defecto detectado y la afirmación de que la modificación de la documentación de proyecto estaba aprobada por el proyectista y respaldada por un cálculo estructural no pudo verificarse, esta información no fue anotada en el diario de obra.
-No se detectó defecto en relación causal con la producción del MU.
-### 3.5.3 Medidas adoptadas para la protección y aseguramiento del lugar de la excepcionalidad
-El lugar del MU fue asegurado de conformidad con el decreto n.º 376/2006 Sb. No se detectó defecto.
+Como primera comunicación acreditada en relación con la MU puede considerarse la notificación del descarrilamiento del DV por parte del maquinista del tren Pn 1.nsl 66803 al jefe de estación de Strančice inmediatamente después de la aparición de la MU.
+La conversación telefónica entre el empleado que ejercía la supervisión técnica del inversor y el representante del contratista sobre el defecto detectado y la confirmación de que la modificación de la documentación de proyecto estaba aprobada por el proyectista y respaldada por un cálculo estático no pudo verificarse, ya que esta información no fue anotada en el diario de obra.
+No se detectó defecto en relación causal con la aparición de la MU.
+### 3.5.3 Medidas adoptadas para la protección y la seguridad del lugar de la excepcionalidad
+El lugar de la MU fue asegurado de conformidad con el decreto n.º 376/2006 Sb. No se detectó defecto.
 ### 3.6 Condiciones laborales, sanitarias y de explotación
-### 3.6.1 Jornada laboral de los empleados del gestor de la infraestructura y del transportista que fueron participantes en el suceso
-La jornada laboral de los empleados del gestor de la infraestructura y del transportista no tuvo influencia en la producción del MU.
-
+### 3.6.1 Jornada laboral de los empleados del gestor de la infraestructura y del transportista que participaron en el suceso
+La jornada laboral de los empleados del gestor de la infraestructura y del transportista no influyó en la aparición de la MU.
 
 ## Página 26
+
 
 3.6.2 Estado de salud y situación personal que influyeron en la excepcionalidad, incluido el estrés físico o psicológico
 La aptitud sanitaria de los empleados del gestor de la infraestructura y del transportista se evalúa en el sentido de lo dispuesto en el decreto n.º 101/1995 Sb., por el que se dicta la "Norma de aptitud sanitaria y profesional de las personas para la explotación de la infraestructura y del transporte ferroviario", en su redacción vigente.
@@ -616,6 +638,7 @@ No consta en el DI ninguna excepcionalidad de carácter similar.
 El 01 de julio de 2009 a las 12:20 horas se produjo en la vía ferroviaria, categoría estatal, línea 519A Benešov u Prahy – Praha-Vršovice estación de viajeros, en la 1ª vía de la línea entre las estaciones de ferrocarril Strančice – Senohraby en el pk 155,675 un MU, cuando durante la circulación del tren Pn 1.nsl 66803 descarriló el segundo vehículo ferroviario remolcado por el eje delantero. No se produjo el descarrilamiento del vehículo ferroviario de tracción ni del primer DV remolcado. En el lugar de producción del MU se estaba llevando a cabo, en el marco de la "Optimización de la línea Benešov u Prahy – Praha-Vršovice", la reconstrucción del puente ferroviario SO 96-20-17. Por este motivo, aquí se había suprimido la 2ª vía de la línea y la 1ª vía de la línea fue
 
 ## Página 27
+
 
 circulada en ambos sentidos. En el lugar de la obra, en esta vía, en el sector espacial de la estación
 Strančice – desvío de Mirošovice, desde el pk 157,220 hasta el pk 153,810, se estableció una
@@ -667,97 +690,83 @@ periódica; no se trata de una presencia permanente en las distintas obras. La �
 técnica del promotor se realizó en la obra en cuestión el día 30. 6. 2009, cuando el empleado
 supervisor detectó deficiencias en el encofrado, concretamente una discrepancia entre
 
-
 ## Página 28
 
-la documentación del proyecto original y el trabajo realmente ejecutado. Sobre este hallazgo
-realizó en el lugar una anotación en el diario de obra e informó simultáneamente por
-teléfono al representante del contratista. Este le aseguró en dicha conversación que el cambio
-en la documentación del proyecto estaba aprobado por el proyectista y respaldado por un
-cálculo estático. Con base en la información recibida, que según su declaración verificó
-posteriormente de forma personal en la sede del contratista, no consideró necesario adoptar
-medidas adicionales. La verificación telefónica del cambio aprobado en la documentación del
-proyecto y el consentimiento de la supervisión técnica del promotor respecto a dicho cambio
-no los anotó en el diario de obra antes mencionado, a pesar de que, según las normas de
-llevar el diario de obra, debía haberlo hecho. En la explicación presentada indicó que, en
-estos casos, las deficiencias y defectos detectados se resuelven de acuerdo con la ley de
-construcción y las condiciones del contrato de obra, así como de acuerdo con las condiciones
-comerciales y técnicas de las obras, que forman parte del contrato de obra, lo cual hizo.
-La investigación determinó que el empleado de la supervisión técnica del promotor actuó, en la
-verificación realizada, conforme a la documentación que él mismo indicaba, pero a su vez no
-reflejó las disposiciones del sistema de seguridad adoptado por el gestor de la infraestructura,
-ya que, tras detectar deficiencias en la obra, no realizó la evaluación del riesgo derivado de
-ellas para la seguridad de la explotación del transporte ferroviario.
-En relación con la investigación del accidente ferroviario en cuestión, la DI (Dirección de
-Investigación) ejerció la supervisión estatal sobre el gestor de la infraestructura, con enfoque
-en el cumplimiento de las obligaciones del gestor de la infraestructura. La esencia del
-ejercicio de la supervisión estatal fue, en particular, la verificación del sistema de garantía de la
-supervisión de la seguridad de la explotación de la infraestructura durante las actividades de
-construcción en las proximidades de la infraestructura en explotación, por parte de
-empleados con competencia profesional del gestor de la infraestructura.
-De la documentación presentada se desprende que el gestor de la infraestructura, en su
-sistema de seguridad, no incluyó la Dirección de Obras entre las unidades y entidades
-organizativas que tienen la obligación de dirigir la garantía de dicho sistema, a pesar de que
-esta entidad organizativa realiza, entre otras cosas, también la supervisión técnica del
-promotor y, en el marco de esta actividad, evalúa las obras de la infraestructura que, según la
-ley, deben cumplir las condiciones técnicas y los requisitos de seguridad de la explotación de la
-infraestructura y del transporte ferroviario, y que solo pueden ser realizadas por personas con
-competencia profesional. Como consecuencia de ello, el sistema de seguridad no fue
-desarrollado hasta las condiciones concretas de la Dirección de Obras de Praga y, por tanto,
-no se garantizó la transmisión de los objetivos de seguridad establecidos y de las tareas
-relacionadas a los distintos empleados de esta unidad organizativa, es decir, tampoco la
-obligación de evaluar y valorar los riesgos de las deficiencias y defectos detectados en
-relación con la explotación segura de la infraestructura y del transporte ferroviario.
-Simultáneamente se constató que en ninguno de los documentos presentados se había
-incorporado, aparte de la posibilidad de detener inmediatamente las obras de construcción y
-de la actuación frente al contratista, un procedimiento tecnológico para las medidas
-inmediatas de garantía de la seguridad del transporte ferroviario en los casos en que el
-empleado que ejerce la supervisión técnica del promotor detecte durante la supervisión una
-infracción grave de la disciplina tecnológica o una actividad que ponga en peligro la seguridad
-de la explotación de la infraestructura o del transporte ferroviario.
-La DI instó al gestor de la infraestructura a subsanar estas deficiencias detectadas. El gestor
-de la infraestructura, tras deliberar con las unidades responsables del gestor de la
-infraestructura, respondió con la emisión de la medida n.º de expediente: 8573/10-SSPHA, en
-la que la cuestión planteada se resuelve mediante la establección de condiciones que garanticen
-las actividades relacionadas con el cumplimiento del sistema de seguridad de la explotación de
-la infraestructura, con obligaciones concretas de la supervisión de obra (nota: de la
-supervisión técnica del promotor) en las obras.
+la documentación de proyecto original y el trabajo realmente ejecutado. Sobre este hallazgo levantó en el lugar un acta en el diario de obra e informó simultáneamente por teléfono al representante del contratista. Este le aseguró en dicha conversación que la modificación de la documentación de proyecto estaba aprobada por el proyectista y respaldada por un cálculo estructural. Sobre la base de la información recibida, que según su declaración verificó posteriormente en persona en la sede del contratista, no consideró necesario adoptar medidas adicionales. No anotó en el diario de obra antes mencionado la verificación telefónica de la modificación de la documentación de proyecto aprobada ni el consentimiento de la supervisión técnica del inversor a dicha modificación, pese a que, según las normas de llevanza del diario de obra, debía hacerlo. En la explicación presentada indicó que en estos casos las deficiencias e irregularidades detectadas se resuelven conforme a la ley de construcción y a las condiciones del contrato de obra, así como conforme a las condiciones comerciales y técnicas de las obras, que forman parte del contrato de obra, lo cual hizo. 
+
+La investigación determinó que el empleado de la supervisión técnica del inversor actuó, si bien, durante la inspección realizada conforme a la documentación que él mismo indicaba, a la vez no tuvo en cuenta las disposiciones del sistema de seguridad adoptado por el gestor de la vía, ya que, tras detectar deficiencias en la obra, no realizó la evaluación del riesgo derivado de las mismas para la seguridad de la explotación del transporte ferroviario. 
+
+En relación con la investigación de la MU en cuestión, la DI ejerció la supervisión estatal sobre el gestor de la vía, con enfoque en el cumplimiento de las obligaciones del gestor de la vía. La esencia del ejercicio de la supervisión estatal fue, en particular, la verificación del sistema de garantía de la supervisión de la seguridad de la explotación de la vía durante las actividades de construcción en las proximidades de la vía en explotación, por parte de empleados profesionalmente competentes del gestor de la vía. 
+
+De la documentación presentada se desprende que el gestor de la vía no incluyó en su sistema de seguridad la Dirección de Construcción entre las unidades y entidades organizativas que tienen la obligación de dirigir la garantía de dicho sistema, a pesar de que esta entidad organizativa realiza, entre otras cosas, también la supervisión técnica del inversor y, en el marco de esta actividad, evalúa las obras de vía que, conforme a la ley, deben cumplir las condiciones técnicas y los requisitos de seguridad de la explotación de la vía y del transporte ferroviario, y que solo pueden ser ejecutadas por personas profesionalmente competentes. Como consecuencia de ello, el sistema de seguridad no fue desarrollado hasta las condiciones concretas de la Dirección de Construcción de Praga, y así no se garantizó la transmisión de los objetivos de seguridad establecidos y de las tareas relacionadas a los empleados individuales de esta unidad organizativa, es decir, tampoco la obligación de evaluar y valorar los riesgos de las deficiencias e irregularidades detectadas en relación con la explotación segura de la vía y del transporte ferroviario.
+
+A la vez se detectó que en ningún documento presentado se había incorporado, aparte de la posibilidad de detener inmediatamente las obras de construcción y de la actuación frente al contratista, un procedimiento tecnológico para las medidas inmediatas de garantía de la seguridad del transporte ferroviario en los casos en que el empleado que realiza la supervisión técnica del inversor descubra durante la supervisión una infracción grave de la disciplina tecnológica o una actividad que ponga en peligro la seguridad de la explotación de la vía o del transporte ferroviario. 
+
+La DI instó al gestor de la vía a la eliminación de estas deficiencias detectadas. El gestor de la vía, tras deliberar con las unidades responsables del gestor de la vía, respondió mediante la emisión de la medida n.º ref.: 8573/10-SSPHA, en la que la cuestión planteada se resuelve mediante la fijación de condiciones que garanticen las actividades relacionadas con el cumplimiento del sistema de seguridad de la explotación de la vía, con obligaciones concretas de la supervisión de construcción (n.º de nota: supervisión técnica del inversor) en las obras.
 
 ## Página 29
 
 ### 4.3 Conclusiones
-4.3.1 Causas inmediatas del suceso ferroviario, incluidos los factores que contribuyeron al mismo y que estuvieron relacionados con la actuación de las personas implicadas o con el estado del material rodante o de las instalaciones técnicas
-Cambio de la posición en planta y en alzado de la vía bajo el segundo vehículo remolcado DV como consecuencia de la interacción entre la circulación del tren y la deformación de la plataforma y la superestructura ferroviaria debido a la actividad constructiva.
+4.3.1 Causas inmediatas del suceso, incluidos los factores que contribuyeron al mismo
+y que estuvieron relacionados con la actuación de las personas implicadas o con el estado de los
+vehículos ferroviarios o de las instalaciones técnicas
+Cambio de la posición en planta y en alzada del vía bajo el segundo vehículo remolcado DV como consecuencia de la
+coincidencia de la circulación del tren y de la deformación de la plataforma y la superestructura ferroviarias por
+actividad constructiva.
 Infracción de lo dispuesto en el apartado 10 del § 25 del decreto nº 177/1995 Sb.:
-El estado operativo y técnico de la plataforma ferroviaria debe garantizar sus propiedades y parámetros de proyecto y no debe poner en peligro la seguridad de la explotación de la vía y del transporte ferroviario ni limitar de forma permanente su continuidad.
+El estado operativo y técnico de la plataforma ferroviaria debe garantizar sus propiedades y
+parámetros de proyecto y no debe poner en peligro la seguridad de la explotación de la vía y del
+transporte ferroviario ni limitar de forma permanente su continuidad.
 ### 4.3.2 Causas fundamentales relacionadas con la cualificación, los procedimientos y el mantenimiento
-Deterioro de la plataforma y la superestructura ferroviaria por la excavación de parte del terraplén hasta la junta de cimentación debido a la insuficiente fijación de la vía 1 por incumplimiento del procedimiento tecnológico de apisonado.
+Alteración de la plataforma y la superestructura ferroviarias por la excavación de parte del terraplén hasta la junta de
+cimentación debido a la insuficiente fijación de la vía 1ª por incumplimiento del procedimiento
+tecnológico de apisonado.
 Infracción del apartado 4 del § 22 de la ley 266/1994 Sb.:
-(4) Las personas que se encuentren en el ámbito de la vía están obligadas a velar por su seguridad, a atender a las instrucciones del explotador de la vía para garantizar la seguridad de las personas y la seguridad de la explotación de la vía y del transporte ferroviario, y a las instrucciones para garantizar la protección de la propiedad y el orden público, y están obligadas a abstenerse de todo aquello que pueda perturbar o poner en peligro la explotación de la vía y del transporte ferroviario, o tener como consecuencia la causación de daños en los componentes de la vía o en el material rodante, o perturbar el orden público.
-### 4.3.3 Causas derivadas del marco normativo y del uso del sistema de garantía de la seguridad
-La no inclusión por parte del explotador de la vía de las Jefaturas de Construcción en el listado de unidades y órganos organizativos que tienen la obligación de dirigir la garantía de su sistema de seguridad, a pesar de que estos órganos organizativos realizan la función de supervisión técnica en las obras de la vía, que de acuerdo con la ley nº 266/1994 Sb. deben cumplir las condiciones técnicas y los requisitos de seguridad de la explotación de la vía y del transporte ferroviario. Como consecuencia de ello, no se desarrolló el sistema de seguridad del explotador de la vía en las condiciones concretas del órgano organizativo de la Jefatura de Construcción de Praga, y por tanto:
-a) no se trasladaron los objetivos de seguridad establecidos y las tareas relacionadas a los distintos empleados de dicho órgano organizativo, en el presente caso especialmente la obligación de evaluar y valorar los riesgos de las deficiencias e irregularidades detectadas en las obras de la vía y en la vía en relación con la explotación segura de la vía y del transporte ferroviario;
-b) no se elaboró el procedimiento tecnológico para la adopción de medidas inmediatas en el sentido de la ley nº 266/1994 Sb. y de los decretos relacionados, en el caso de que el empleado que realiza la supervisión técnica del promotor detecte durante la supervisión en las obras de la vía o en la vía una actividad o una infracción grave de la disciplina tecnológica que ponga en peligro la seguridad de la explotación de la vía o del transporte ferroviario.
-
+(4) Las personas que se encuentren en el ámbito de la vía están obligadas a velar por su
+seguridad, a atender a las instrucciones del explotador de la vía para garantizar la seguridad de
+las personas y la seguridad de la explotación de la vía y del transporte ferroviario, y a las
+instrucciones para garantizar la protección de la propiedad y el orden público, y están obligadas
+a abstenerse de todo aquello que pueda perturbar o poner en peligro la explotación de la vía y
+del transporte ferroviario, o que pueda dar lugar a daños en los componentes de la vía o en el
+vehículo ferroviario, o perturbar el orden público.
+### 4.3.3 Causas derivadas del marco normativo y del uso del sistema de
+garantía de seguridad
+La no inclusión de las Jefaturas de Construcción por parte del explotador de la vía en el listado de
+órganos y unidades organizativas que tienen la obligación de dirigir la garantía de su sistema de
+seguridad, a pesar de que estas unidades organizativas realizan la función de supervisión técnica
+en las obras de la vía, que de acuerdo con la ley nº 266/1994 Sb. deben cumplir las condiciones
+técnicas y los requisitos de seguridad de la explotación de la vía y del transporte ferroviario. Como
+consecuencia de ello, no se desarrolló el sistema de seguridad del explotador de la vía en las
+condiciones concretas de la unidad organizativa Jefatura de Construcción de Praga, y por tanto:
+a) no se trasladaron los objetivos de seguridad establecidos y las tareas relacionadas a los
+empleados individuales de dicha unidad organizativa, en el presente caso en particular la
+obligación de evaluar y valorar los riesgos de las deficiencias e irregularidades detectadas en las
+obras de la vía y en la vía en relación con la explotación segura de la vía y del transporte
+ferroviario;
+b) no se elaboró el procedimiento tecnológico para la adopción de medidas inmediatas en el
+sentido de la ley nº 266/1994 Sb. y de los decretos relacionados, en el caso de que el empleado
+que realiza la supervisión técnica del inversor, durante la supervisión en las obras de la vía o en
+la vía, detecte una actividad o una infracción grave de la disciplina tecnológica que ponga en
+peligro la seguridad de la explotación de la vía o del transporte ferroviario.
 
 ## Página 30
 
-Infracción del apartado 2 del § 22 de la ley nº 266/1994 Sb.
+Infracción del § 22 apartado (2) de la Ley núm. 266/1994 Sb.
 (2) El explotador de la vía de ámbito nacional o de la vía regional está además obligado a
-d) implantar el sistema de garantía de la seguridad de la explotación de la vía y garantizar su cumplimiento.
+d) implantar un sistema de garantía de la seguridad de la explotación de la vía y garantizar su cumplimiento.
 ### 4.4 Hallazgos complementarios
-### 4.4.1 Deficiencias y omisiones detectadas durante la investigación de las causas y circunstancias del suceso ferroviario, que sin embargo no son relevantes para las conclusiones sobre las causas
-La verificación telefónica de la modificación aprobada de la documentación de proyecto y la conformidad de la supervisión técnica del promotor con dicha modificación no fueron registradas en el diario de obra, a pesar de que, de acuerdo con las normas para la llevanza del diario de obra, así debía haberse hecho.
-Infracción del artículo 3.7, letra u), de la directriz nº 7/2005 del explotador de la vía «Condiciones técnicas para la realización de la obra».
+### 4.4.1 Deficiencias y omisiones detectadas durante la investigación de las causas y circunstancias del origen del suceso extraordinario, que sin embargo no son relevantes para las conclusiones sobre las causas
+La verificación telefónica del cambio aprobado de la documentación de proyecto y el consentimiento de la supervisión técnica del inversor sobre dicho cambio no fueron registrados en el diario de obra, pese a que, según las normas de llevanza del diario de obra, así debía haberse hecho.
+Infringido el precepto del art. 3.7 letra u) de la directriz núm. 7/2005 del explotador de la vía «Condiciones técnicas para la realización de la obra».
 ## 5 MEDIDAS ADOPTADAS
-### 5.1 Lista de medidas que ya han sido tomadas o adoptadas como consecuencia del suceso ferroviario
-Sobre la base de la notificación de corrección de las deficiencias detectadas remitida por la DI tras la finalización de la supervisión estatal en materia de vías, el explotador de la vía, previa consulta con sus unidades responsables, emitió la medida con referencia nº: 8573/10-SSPHA de fecha 2 de agosto de 2010, en la que se aborda la problemática planteada con la determinación de condiciones que garanticen las actividades relacionadas con el cumplimiento del sistema de seguridad de la explotación de la vía, con obligaciones concretas de la supervisión técnica del promotor (supervisión de construcción) en las obras.
-La medida del explotador de la vía indicada aborda de forma suficiente la función de la supervisión técnica (de construcción) en las obras en relación con la garantía de la seguridad de la explotación de la vía y del transporte ferroviario en el ámbito de su competencia; su vigencia, tal como se desprende del documento anteriormente citado, está no obstante delimitada únicamente para el órgano organizativo de la Jefatura de Construcción de Praga.
-Tampoco resuelve la inclusión nominal de los órganos organizativos de la Jefatura de Construcción entre las unidades y órganos organizativos que tienen la obligación de dirigir la garantía del «Sistema de garantía de la seguridad de la explotación de la vía y de la organización del transporte ferroviario en la vía de ámbito nacional y en las vías regionales» del explotador de la vía.
-La problemática de la llevanza del diario de obra la resuelve la medida del explotador de la vía «7.ª modificación de las condiciones cualitativas técnicas de las obras de las vías de ámbito nacional», publicada en el Boletín del Transporte nº 7 de fecha 24 de marzo de 2010, en la parte de notificaciones con referencia nº: S 12 068/2010 – OKS.
-
+### 5.1 Lista de medidas que ya se han adoptado o tomado como consecuencia del suceso extraordinario
+En virtud de la solicitud de subsanación de las deficiencias detectadas remitida por la DI al finalizar la supervisión estatal en materia de vías, el explotador de la vía emitió, previa consulta con sus unidades responsables, la medida núm. ref.: 8573/10-SSPHA de fecha 2. 8. 2010, en la que se aborda dicha cuestión mediante la fijación de condiciones que garanticen las actividades relacionadas con el cumplimiento del sistema de garantía de la seguridad de la explotación de la vía, con obligaciones concretas de la supervisión técnica del inversor (supervisión de obra) en las obras.
+La mencionada medida del explotador de la vía aborda de forma suficiente la actividad de la supervisión técnica (de obra) en las obras en relación con la garantía de la seguridad de la explotación de la vía y del transporte ferroviario en el ámbito de su competencia; su vigencia, tal como se desprende del documento anteriormente citado, queda sin embargo limitada únicamente a la unidad organizativa Dirección de Obras de Praga.
+Tampoco resuelve la inclusión nominal de las unidades organizativas de la Dirección de Obras entre las unidades y unidades organizativas que tienen la obligación de dirigir la garantía del «Sistema de garantía de la seguridad de la explotación de la vía y de la organización del transporte ferroviario en la vía de ámbito nacional y en las vías regionales» del explotador de la vía.
+La cuestión de la llevanza del diario de obra la aborda la medida del explotador de la vía «7.ª modificación de las condiciones técnicas y cualitativas de las obras de las vías estatales», publicada en el Boletín de Transporte núm. 7 de fecha 24. 3. 2010, en la sección de comunicaciones bajo el núm. ref.: S 12 068/2010 – OKS.
 
 ## Página 31
+
 
 ## 6 RECOMENDACIONES DE SEGURIDAD
 La Inspección Ferroviaria, como autoridad administrativa competente en la materia de acuerdo con lo dispuesto en el apartado 5 del § 53b de la ley nº 266/1994 Sb., de las vías, en su redacción vigente, sobre la base del resultado de la investigación de las causas y circunstancias del suceso ferroviario, recomienda al explotador de la vía:
@@ -771,8 +780,8 @@ inspector jefe
 de la Inspección Territorial de Praga
 de la Inspección Territorial de Praga
 
-
 ## Página 32
+
 
 ## 7 ANEXOS
 ### Documentación fotográfica del lugar del suceso ferroviario - descarrilamiento del segundo vehículo remolcado
@@ -781,14 +790,14 @@ Strančice – Senohraby, en la vía ferroviaria de ámbito nacional, línea 519
 Praha-Vršovice estación de pasajeros.
 Foto 1: Vista de la vía 1 desde la dirección del descarrilamiento del tren
 
-
 ## Página 33
+
 
 Foto 2: Punto «0»
 Foto 3: Vista en dirección al tren descarrilado
 
-
 ## Página 34
+
 
 Foto 4: DV descarrilado
 Foto 5: Obras de construcción en el puente ferroviario tras el SU

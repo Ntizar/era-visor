@@ -10,13 +10,14 @@ chars: 76534
 ratio_longitud: 1.23
 tokens_in: 39958
 tokens_out: 24912
-verificacion: revisar
-notas_cifras: ["bloque 2: original bilingüe: se compara contra el idioma principal (CS)", "bloque 3: cifras cortas: 2/37", "bloque 8: original bilingüe: se compara contra el idioma principal (CS)", "bloque 9: original bilingüe: se compara contra el idioma principal (CS); cifras cortas: 1/35", "bloque 11: original bilingüe: se compara contra el idioma principal (CS)"]
-avisos: ["bloque 9: ratio 1.62", "bloque 11: ratio 1.68"]
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 5: original bilingüe: se compara contra el idioma principal (EN)", "página 6: original bilingüe: se compara contra el idioma principal (CS)", "página 7: original bilingüe: se compara contra el idioma principal (CS)", "página 8: original bilingüe: se compara contra el idioma principal (CS); cifras cortas: 1/8", "página 9: cifras cortas: 1/27"]
 ---
+
 ## Página 1
+
 
 Inspección Ferroviaria
 República Checa
@@ -42,11 +43,12 @@ IČO:   75009561
 http://www.dicr.cz
 fax: (+420) 224 805 428
 
-
 ## Página 2
 
 
+
 ## Página 3
+
 
 # RESUMEN
 Grado:
@@ -83,11 +85,12 @@ Se recomienda desarrollar e implantar el sistema común de identificación de pa
 2) dirigida a Drážní úřad (NSA):
 Se recomienda aplicar la recomendación anterior a todos los gestores de infraestructura ferroviaria.
 
-
 ## Página 4
 
 
+
 ## Página 5
+
 
 # Índice
  Resumen .............................................................................................................................3
@@ -116,6 +119,7 @@ Se recomienda aplicar la recomendación anterior a todos los gestores de infraes
 3.1.1 Empleados del gestor de la vía y del transportista, incluidas personas en relación contractual ...............................................................................................................12
 
 ## Página 6
+
 
 3.1.2 Otras personas .........................................................................................................13
 3.2 Sistema de garantía de la seguridad ........................................................................13
@@ -147,8 +151,8 @@ aplicación ....................................................................
 ............................................................................................................................22
 4.2 Análisis ......................................................................................................................23
 
-
 ## Página 7
+
 
 4.2.1 Evaluación de los hechos establecidos conforme al punto 3 y formulación de conclusiones sobre la causa del suceso excepcional y la actuación de los servicios de emergencia ..........................................23
 4.3 Conclusiones ...............................................................................................................25
@@ -165,6 +169,7 @@ aplicación ....................................................................
  Fotografía del paso a nivel en cuestión .....................................................................28
 
 ## Página 8
+
 
 ## 1 RESUMEN
 Clasificación del suceso:
@@ -199,8 +204,8 @@ desde el punto de vista ferroviario, es decir, la topología ferroviaria y viari
 los explotadores de infraestructura y los transportistas como para los usuarios de la
 circulación viaria y los servicios del sistema integrado de emergencias.
 
-
 ## Página 9
+
 
 ## 2 DATOS RELATIVOS AL SUCESO EXTRAORDINARIO
 ### 2.1 Suceso extraordinario
@@ -249,6 +254,7 @@ de České Budějovice (en adelante SDC České
 
 ## Página 10
 
+
 Budějovice) y Depósitos de material rodante de Plzeň (en adelante, DKV Plzeň). El método de conducción de la investigación de las causas y circunstancias de la aparición de la UE se basó en la colaboración de todos los componentes y personas implicados. Este procedimiento se ajustó a lo dispuesto en el § 53b de la Ley núm. 266/1994 Sb., de ferrocarriles, en su redacción posterior (en adelante, la Ley), y del Decreto núm. 376/2006 Sb., sobre el sistema de seguridad de la explotación del ferrocarril y del transporte ferroviario y los procedimientos en caso de ocurrencia de sucesos excepcionales en los ferrocarriles (en adelante, Decreto núm. 376/2006 Sb.).
 ### 2.2 Circunstancias del suceso excepcional
 ### 2.2.1 Empleados implicados del explotador ferroviario y del transportista, personas en relación contractual y otros implicados y testigos
@@ -271,8 +277,8 @@ El tren Os 8043 estaba compuesto por un vehículo ferroviario motriz (en adelant
 ### 2.2.3 Descripción de los componentes de la vía de circulación del ferrocarril, del sistema de enclavamiento (es decir, principalmente del estado de los raíles, agujas, aparatos de cambio, señales y dispositivo de enclavamiento de tren)
 El dispositivo de enclavamiento de vía entre la estación de Zliv y Hluboká nad Vltavou es de 3.ª categoría, tipo enclavamiento automático AH 83 con señales de sección Lo y So. El tramo intermedio está dividido por un enclavamiento automático en dos secciones de vía. El dispositivo de enclavamiento de la estación de Hluboká nad Vltavou es de 3.ª categoría – aparato de cambio electrónico ESA 11 con EIP, controlado a través de puesto de operación unificado (en adelante, JOP). El paso a nivel en el km 222,975 está equipado con dispositivo de enclavamiento de paso a nivel luminoso sin barreras. Este PZZ es de categoría PZS 3SBI según la ČSN 34 2650, con dos avisadores AŽD 71, es decir, con señal positiva (luz blanca intermitente), los elementos de control y mando se encuentran en el jefe de estación de Hluboká nad Vltavou. El vehículo ferroviario motriz estaba ocupado por una tripulación de un solo miembro – el maquinista y, además, un maquinista en formación. Estaba equipado con un dispositivo de enclavamiento de tren VZ funcional con pulsador de vigilancia y un adaptador XX48 funcional para la posible aplicación de «STOP» o «PARADA GENERAL» según la normativa interna del transportista
 
-
 ## Página 11
+
 
 ČD Z11 y del explotador ferroviario SŽDC (ČD) Z11. Según el «Acta de la revisión comisionada del PZZ tras la UE», no se detectaron anomalías y el PZZ cumple la normativa correspondiente.
 ### 2.2.4 Uso de los medios de comunicación
@@ -287,8 +293,8 @@ El plan IZS fue activado simultáneamente con la notificación de la ocurrencia 
 2.3.1 En pasajeros y terceras personas, empleados del explotador ferroviario y del transportista, incluidas personas en relación contractual
 No se produjo ningún fallecimiento ni daño a la salud en pasajeros, terceras personas, empleados del explotador ferroviario, del transportista ni en personas en relación contractual.
 
-
 ## Página 12
+
 
 ### 2.3.2 En los objetos transportados, equipajes y otros bienes
 No se produjo daño material en los objetos y equipajes transportados. Se produjo un daño en el automóvil Opel Astra por importe de 50.000,- Kč.
@@ -309,6 +315,7 @@ En el momento de la ocurrencia de la UE era de noche, -10 °C, calma. El ángulo
 El jefe de servicio de la estación de České Budějovice en el «Acta con el empleado» declaró, entre otras cosas: «Aproximadamente a las 6:50 h llamó la Policía ČR y me comunicó que tenían un problema en Hluboká nad Vltavou, … que tenían un coche en el paso a nivel de Vondrov. Después llamé inmediatamente al jefe de estación de Hluboká nad Vltavou y le notifiqué que no circulara, que había un coche en el paso a nivel de Vondrov. A las 6:51 h entonces anulamos la salida prevista del tren Os 8043».
 
 ## Página 13
+
 
 La jefa de estación de Hluboká nad Vltavou, en el «Registro con el empleado», entre otras cosas, indicó:
 «El turno transcurrió sin problemas; hacia las 6:50 h me llamó por teléfono ferroviario la jefa de estación principal de České Budějovice y me comunicó «No circule, tenemos un coche en el paso a nivel». No me indicó en qué tramo de línea ni en qué paso a nivel concreto, y por lo tanto cancelé la vía de tren establecida desde Hluboká nad Vltavou hasta České Budějovice. Aproximadamente un minuto después llamó la PČR y esta me comunicó que el automóvil se encontraba en el paso a nivel «Vondrov». Simultáneamente, en ese momento llamaba por radio TRS el maquinista del tren de pasajeros Os 8043, indicando que en el paso a nivel había atropellado un automóvil. Como tras la llamada con la jefa de estación principal en la estación de České Budějovice yo había supuesto que el automóvil se encontraba en el tramo de línea Hluboká nad Vltavou – České Budějovice, y solo en la siguiente llamada telefónica posterior con la PČR recibí la información de en qué paso a nivel se encontraba realmente el automóvil, y simultáneamente recibí del maquinista la información del choque con el automóvil, no llegué a utilizar la «Parada general».
@@ -331,8 +338,8 @@ El miembro del servicio de inspección de la Sección de Policía Ferroviaria, q
 
 La organización marco y la forma de emisión y ejecución de las instrucciones en la explotación de la vía y del transporte ferroviario con motivo del presente MU y, especialmente, en la situación de amenaza inmediata
 
-
 ## Página 14
+
 
 a la seguridad de la explotación ferroviaria ante el riesgo de demora, está establecida por los procedimientos tecnológicos contenidos en las normativas internas del operador, entre las que se pueden incluir:
 
@@ -365,6 +372,7 @@ Si el maquinista no fue informado del motivo de la detención del tren, establec
 
 ## Página 15
 
+
 al empleado y averigüe el motivo de la detención.
 Una vez averiguado el motivo de la detención, el maquinista pondrá la estación de radio del vehículo en posición inicial apagando y encendiendo de nuevo la alimentación de la estación de radio (el disyuntor correspondiente). Esta operación no afecta a los circuitos del sistema de señalización ferroviaria (no es necesario reajustarlos).
 Tras esta operación, el maquinista comprobará que la estación de radio se encuentra en posición inicial y establecerá comunicación con el empleado de tráfico correspondiente.
@@ -387,6 +395,7 @@ B5) EL JEFE DE ESTACIÓN DETIENE EL TREN A DISTANCIA
 
 ## Página 16
 
+
 B6) PARADA GENERAL (el jefe de estación detiene todos los trenes equipados con equipo TRS al alcance de su estación de radio base) – Pulsar sucesivamente "N" "↑/↓" "!STOP!" "GV" según el siguiente procedimiento:
 – pulsar el botón "N" – parpadea "N"
 – pulsar el botón "↑/↓" – parpadea "N", se enciende "↑/↓"
@@ -403,6 +412,7 @@ La condición de aptitud para la conducción de vehículos ferroviarios la estab
 Los procedimientos de control interno de seguridad se llevan a cabo conforme a las disposiciones legales y órdenes correspondientes del gestor de la infraestructura y del transportista en el ámbito de actividad controlado, especialmente sobre la base de la disposición del decreto n.º 376/2006 Sb. Los hallazgos se evalúan, incluida la adopción de medidas correctoras, de conformidad con las demás normas destinadas a garantizar la seguridad de la explotación, del trabajo y de las instalaciones técnicas.
 
 ## Página 17
+
 
 ### 3.2.4 Interfaz entre los distintos sujetos participantes y los componentes de la vía
 La interfaz entre los sujetos participantes y los componentes de la vía se establece conforme a la ley n.º 266/1994 Sb., de ferrocarriles, en su versión vigente, de la siguiente manera:
@@ -428,6 +438,7 @@ Normas internas del gestor de la infraestructura y de los transportistas:
 
 ## Página 18
 
+
 ### 3.4 Actividad de los vehículos ferroviarios y de las instalaciones técnicas
 ### 3.4.1 Sistema de control, señalización y seguridad, incluidos los dispositivos de registro automático de datos
 El dispositivo de seguridad de vía entre la est. Zliv y Hluboká nad Vltavou es de 3.ª categoría, tipo de enclavamiento automático AH 83 con señales de sección. El tramo entre estaciones se divide mediante un enclavamiento automático en dos secciones de vía. El dispositivo de seguridad de la estación Hluboká nad Vltavou es de 3.ª categoría – enclavamiento electrónico ESA 11 con EIP, controlado a través de JOP. El paso a nivel en el km 222,975 está equipado con dispositivo de seguridad de paso a nivel luminoso sin barreras. Este PZZ es de categoría PZS 3SBI según la ČSN 34 2650, con dos señales acústicas AŽD 71, es decir, con señal positiva (luz blanca intermitente). La información sobre el estado del PZZ, la comprobación del funcionamiento del PZZ, incluidos los elementos de mando de emergencia del PZZ, se encuentran en la oficina de tráfico de la est. Hluboká nad Vltavou. Antes y durante la ocurrencia del MU no se utilizaron los elementos de mando de emergencia de este PZZ. La información sobre el estado y el funcionamiento del dispositivo de seguridad de estación y de paso a nivel se registra y conserva en el archivo del ESA 11. El vehículo ferroviario motor estaba equipado con un dispositivo de seguridad de tren VZ funcional sin transmisión lineal de señales a la parte móvil del protector de tren, es decir, aquí con la obligación de manejar el botón de vigilancia, además de un adaptador XX48 funcional para la posible aplicación de «STOP» o «PARADA GENERAL». La información, entre otros, sobre la velocidad de circulación del tren y el manejo del VZ se registra en la cinta registradora de velocidad con capa de carbono. Las llamadas telefónicas de los jefes de servicio principal de la est. České Budějovice se registran automáticamente mediante el dispositivo de registro REDAT 3 situado en la oficina de tráfico; las llamadas telefónicas de los jefes de estación de la est. Hluboká nad Vltavou se registran automáticamente mediante el dispositivo de registro REDAT 2 situado en la oficina de tráfico de la est. Dívčice. Además, todas las llamadas y órdenes realizadas en la banda de la red TRS por los jefes de estación de la est. Hluboká nad Vltavou también se registran automáticamente mediante el dispositivo de registro REDAT 3 situado en la oficina de tráfico de la est. Dívčice.
@@ -436,6 +447,7 @@ El paso a nivel ferroviario en el km 222,975 permite el cruce de la vía ferrovi
 Para mejorar la organización del tráfico ferroviario y aumentar la seguridad de la explotación de la vía y del tráfico ferroviario, la vía ferroviaria Plzeň – České Budějovice está cubierta por la llamada red de «islotes» del sistema TRS. El tramo de vía de la est. Zliv – Hluboká nad Vltavou está cubierto por la señal «Vf» de la red de islotes del TRS, que permite en el canal combinado de la banda la conexión entre el despachador, los jefes de estación de las estaciones adyacentes y los maquinistas en los HDV equipados con la parte móvil del TRS. Los islotes de la red TRS los forman las estaciones de radio base situadas en las distintas estaciones.
 
 ## Página 19
+
 
 ### El sistema TRS contiene la función – orden «PARADA GENERAL», que permite la parada
 ### de emergencia de los vehículos ferroviarios equipados con un adaptador XX48 funcional que se encuentren al alcance de la señal de la estación de radio base que emitió la orden. La orden
@@ -454,6 +466,7 @@ A la ocurrencia del MU precedió la notificación de la conductora de un automó
 
 ## Página 20
 
+
 organizador del transporte ferroviario para su detención en el tramo Zliv – Hluboká nad Vltavou
 fue entendido por los empleados del operador de la infraestructura ferroviaria en las estaciones České Budějovice y Hluboká nad Vltavou como que se trataba del tramo Hluboká nad Vltavou – Nemanice, es decir, en la dirección opuesta desde Hluboká nad Vltavou respecto de la que el tren se aproximaba al paso a nivel.
 El miembro del servicio de inspección de la Sección de Policía Ferroviaria, que comunicó al jefe de estación de Hluboká nad Vltavou el atrapamiento de un automóvil en el paso a nivel, lo hizo debido a la búsqueda previa de la conexión telefónica necesaria hasta inmediatamente antes de la producción de la UE en cuestión, es decir, inmediatamente antes de que el maquinista, mediante el sistema TRS, ya se hubiera conectado con el jefe de estación de Hluboká nad Vltavou y hubiera comunicado la producción de la UE.
@@ -469,6 +482,7 @@ El jefe de estación principal de České Budějovice entró en turno según el 
 ●
 
 ## Página 21
+
 
 El maquinista del tren Os 8043 entró en turno según el horario de servicio por turnos del día
 ●
@@ -488,6 +502,7 @@ El 7. 5. 2007, a las 0:11:50 h, en la infraestructura ferroviaria, nacional Horn
 
 ## Página 22
 
+
 El 30 de octubre de 2007, a las 18:06:26 h, cuando en la vía férrea nacional Krnov – Olomouc hl. n., en el tramo Moravský Beroun – Domašov nad Bystřicí se produjo la colisión del tren R 827 con un vehículo motorizado de carretera detenido – un camión con remolque – en el paso a nivel en el km 32,212.
 El accidente posterior del 16 de febrero de 2009, a las 17:38 h, cuando en la vía férrea nacional Plzeň – České Budějovice, en el tramo Zliv – Hluboká nad Vltavou se produjo la colisión del tren Pn 68811 con un automóvil de turismo detenido en el mismo paso a nivel en el km 222,975.
 ## 4 ANÁLISIS Y CONCLUSIONES
@@ -496,16 +511,16 @@ El accidente posterior del 16 de febrero de 2009, a las 17:38 h, cuando en la v�
 en el punto 3
 Durante la circulación del tren Os 8043 a través del paso a nivel equipado con instalación de enclavamiento de paso a nivel luminosa sin barreras, que estaba en funcionamiento, se produjo la colisión con un automóvil de turismo atascado en el paso a nivel. El tren Os 8043 estaba compuesto por la locomotora 242.254-1 del DKV Plzeň y 3 coches de pasajeros. El tren tenía 100 metros, 16 ejes, masa de tráfico 125 t, masa total 209 t, porcentajes de frenado necesarios 96 %, reales 100 %. La cabeza del tren estaba señalizada de conformidad con lo dispuesto en el § 39 del decreto n.º 173/1995 Sb., ordenanza de tráfico ferroviario, en la redacción de las disposiciones posteriores. El PZZ es de categoría PZS 3SBI según la ČSN 34 2650, con dos señales AŽD 71, es decir, con señal positiva (luz blanca intermitente), los elementos de control y mando se encuentran en el jefe de estación de la est. Hluboká nad Vltavou. La vía de carretera es una carretera de III. clase n.º 10582/3 que une las localidades de Čejkovice y Hluboká nad Vltavou con superficie de asfalto. El ángulo de cruce de la vía con la vía de carretera es de 85 grados, antes del paso a nivel en el sentido de circulación del automóvil (a la derecha en el sentido de circulación del tren) la vía presenta una pendiente muy suave con una curva a la izquierda directamente hacia el paso a nivel, en el momento de producirse el accidente estaba helada, sin tratamiento químico debido a la proximidad de fuentes de agua. En la vía de carretera, en ambos lados del paso a nivel, está instalada la señalización vial correspondiente, incluida la advertencia de no realizar salado químico. La vía en el sentido de circulación del tren está en nivel cero. La velocidad máxima permitida del tren a través del paso a nivel es de 100 km/h, la velocidad real del tren fue de 98 km/h. La Inspección Ferroviaria investigó las causas y circunstancias del accidente inmediatamente después de la evaluación posterior del suceso, como probablemente repetida no evitación de la producción del accidente por parte del operador mediante el uso de las posibilidades de las instalaciones técnicas según los procedimientos tecnológicos establecidos. La investigación se realizó de forma independiente del operador de la vía y del transportista, en colaboración con la Policía de la República Checa.
 
-
 ## Página 23
 
 ### 4.2 Análisis
-### 4.2.1 Evaluación de los hechos constatados según el punto 3 y formulación de conclusiones sobre la causa del accidente y la actuación de los servicios de rescate
-El vehículo motorizado de carretera – un automóvil de turismo de la marca Opel Astra – entró en el paso a nivel en el km 222,975 en dirección desde la localidad de Čejkovice en el momento en que el PZZ permitía la circulación a los usuarios de la vía pública. A la producción del accidente precedió el atascamiento de este automóvil en el paso a nivel tras un derrape previo y la notificación de la conductora a la Policía de la República Checa sobre el atascamiento en el paso a nivel "u Vondrova" al número de emergencia 158. El funcionario del servicio de vigilancia de la Sección de Policía Ferroviaria, que tras recibir la información del oficial de operaciones notificó telefónicamente con la petición de detener el tráfico ferroviario al jefe de servicio principal de la est. České Budějovice y posteriormente al jefe de estación de la est. Hluboká nad Vltavou el atascamiento del automóvil en el paso a nivel, lo hizo así con un retraso temporal debido a la búsqueda previa de la conexión telefónica necesaria, es decir, ya inmediatamente antes de la producción del accidente en cuestión. Esta petición de la Policía de la República Checa a las personas que organizan el tráfico ferroviario para su detención en el tramo de vía Zliv – Hluboká nad Vltavou fue, sin embargo, interpretada por el empleado del operador de la vía de tal manera que se trataba del tramo Hluboká nad Vltavou – Nemanice, es decir, en la dirección opuesta desde Hluboká nad Vltavou respecto de la que el tren se aproximaba al paso a nivel. Inmediatamente después, el maquinista del tren Os 8043 ya se puso en contacto con el jefe de estación de la est. Hluboká nad Vltavou mediante el sistema TRS y comunicó la producción del accidente en cuestión. El vehículo motorizado de carretera quedó atascado en el paso a nivel y permaneció detenido de tal manera que invadía el perfil de circulación de la vía de la vía férrea. El vehículo motorizado de carretera entró (accedió) a la vía (al ámbito de la vía) en un lugar accesible al público en el momento en que el PZZ no estaba en estado de advertencia. Con la posterior detención, estacionamiento y no retirada del vehículo motorizado de carretera del espacio del paso a nivel, se puso en peligro de manera fundamental la seguridad de la explotación de la vía y del tráfico ferroviario en el sentido del § 22 apartado 4 de la ley n.º 266/1994 Sb. La detención y estacionamiento del vehículo motorizado de carretera en el paso a nivel se debió al atascamiento tras un derrape previo en la vía. La retirada (extracción) del vehículo motorizado de carretera atascado del espacio del paso a nivel no era viable, dada la secuencia de acontecimientos – la circulación del tren Os 8043 desde la est. Zliv – y debido a su encastramiento en el carril. La secuencia de acontecimientos que precedió a la producción del accidente se desarrolló desde el principio sobre la línea de la identificación imprecisa del paso a nivel por parte de las personas que organizan el tráfico ferroviario. Los pasos a nivel son, en el sentido del § 9 letra c) del decreto n.º 177/1995 Sb., parte de la vía. A diferencia de otras partes de la vía, como por ejemplo los desvíos, los dispositivos de protección lateral del itinerario de tren y las señales, los pasos a nivel no están incluidos, en el sentido del § 4 del decreto n.º 173/1995 Sb., entre las partes de la vía cuya señalización sirve, en el sentido del § 3 del decreto n.º 173/1995 Sb., para la protección de la vía. La ausencia de un sistema de señalización uniforme e inconfundible de los pasos a nivel, que sirve para la identificación precisa de los pasos a nivel tanto por parte de los operadores de vías y transportistas como de los usuarios de la vía pública y de los servicios del IZS, contribuyó de manera inequívoca a la falta de comprensión en la comunicación entre las partes implicadas antes de la producción del accidente.
-### Sobre la fuente de peligro para la explotación segura de la vía y del tráfico ferroviario y la petición de detención del tráfico ferroviario en el tramo Zliv – Hluboká nad Vltavou, aunque solo con la comunicación
-### sobre el paso a nivel "Vondrov", el operador de la vía fue informado y requerido por la Policía de la República Checa – Sección de Policía Ferroviaria en el marco de la comunicación mantenida a través de la red pública de telecomunicaciones,
+### 4.2.1 Evaluación de los hechos constatados de acuerdo con el punto 3 y enunciación de las conclusiones sobre la causa del suceso excepcional y la actuación de los servicios de emergencia
+El vehículo de motorización por carretera – automóvil de turismo de la marca Opel Astra, entró en el PFE en el pk 222,975 en dirección desde la localidad de Čejkovice en el momento en que el PZZ permitía la circulación a los usuarios de la vía pública. Al suceso excepcional le precedió la atascamiento de dicho automóvil en el paso a nivel tras una derrapada previa y la notificación de la conductora a la Policía ČR sobre el atascamiento en el paso a nivel „u Vondrova“ en el número de emergencias 158. El funcionario del servicio de vigilancia de la Sección de Policía Ferroviaria, que tras recibir la información del oficial de operaciones notificó telefónicamente con la petición de detener la circulación ferroviaria al jefe de servicio principal de la estación České Budějovice y posteriormente al jefe de estación de Hluboká nad Vltavou el atascamiento del automóvil en el paso a nivel, lo hizo con un retraso temporal debido a la búsqueda previa de la conexión telefónica necesaria, es decir, ya inmediatamente antes de la producción del citado suceso excepcional. Esta petición de la Policía ČR a las personas que organizan el transporte ferroviario de detenerlo en el tramo de vía Zliv – Hluboká nad Vltavou, sin embargo, fue interpretada por el empleado del operador de la vía de tal manera que se trataba del tramo Hluboká nad Vltavou – Nemanice, es decir, en la dirección opuesta a Hluboká nad Vltavou desde la que el tren se aproximaba al paso a nivel. Inmediatamente después, el maquinista del tren Os 8043 ya se puso en contacto con el jefe de estación de Hluboká nad Vltavou mediante el sistema TRS y comunicó la producción del citado suceso excepcional. El vehículo de motorización por carretera quedó atascado en el PFE y permaneció detenido de forma que invadía la sección de paso de la vía de servicio. El vehículo de motorización por carretera entró (accedió) a la vía (al ámbito de la vía) en un lugar accesible al público en el momento en que el PZZ no se encontraba en estado de alerta. Con la posterior detención, estacionamiento y no retirada del vehículo de motorización por carretera del espacio del PFE, se puso en peligro de manera fundamental la seguridad de la explotación de la vía y del transporte ferroviario, en el sentido del art. 22 apartado 4 de la Ley núm. 266/1994 Sb. La detención y el estacionamiento del vehículo de motorización por carretera en el PFE fueron causados por el atascamiento tras la derrapada previa en la vía. La retirada (liberación) del vehículo de motorización por carretera atascado del espacio del PFE no era viable, dada la secuencia de acontecimientos – la circulación del tren Os 8043 desde la estación Zliv y su encastramiento en el carril. La secuencia de acontecimientos que precedió a la producción del suceso excepcional se desarrolló desde el principio sobre la línea de la identificación imprecisa del PFE por parte de las personas que organizan el transporte ferroviario. Los pasos a nivel ferroviarios son, en el sentido del art. 9 letra c) de la Orden núm. 177/1995 Sb., parte de la vía. A diferencia de otras partes de la vía, como por ejemplo los desvíos, los dispositivos de protección lateral del itinerario de tren y las señales, los pasos a nivel ferroviarios no están incluidos, en el sentido del art. 4 de la Orden núm. 173/1995 Sb., entre las partes de la vía cuya señalización sirve, en el sentido del art. 3 de la Orden núm. 173/1995 Sb., para la protección de la vía. La ausencia de un sistema de señalización uniforme e inconfundible de los pasos a nivel ferroviarios, que sirve para la identificación precisa de los pasos a nivel ferroviarios tanto a los operadores de vías y a los transportistas como a los usuarios de la vía pública y a los cuerpos del SIU, contribuyó de manera inequívoca al malentendido en la comunicación entre las partes implicadas antes de la producción del suceso excepcional.
+### Sobre la fuente de peligro para la explotación segura de la vía y del transporte ferroviario y la petición de detener el transporte ferroviario en el tramo Zliv – Hluboká nad Vltavou, aunque solo con la mención
+### del paso a nivel „Vondrov“, el operador de la vía fue informado y requerido por la Policía ČR – Sección de Policía Ferroviaria en el marco de la comunicación mantenida a través de la red pública de telecomunicaciones,
 
 ## Página 24
+
 
 a a raíz de la notificación de la conductora de un automóvil sobre su atascamiento en el paso a nivel a las 6:47 horas al número de emergencia 158. La conversación con el jefe de estación de la estación de České Budějovice se inició a las 6:50:33 y finalizó a las 6:51:50. Asimismo, dicho jefe de estación, simultáneamente durante la conversación, se puso por teléfono en contacto con la jefa de estación de la estación de Hluboká nad Vltavou y le informó de la solicitud de la Policía ČR. Dicha jefa de estación, sin embargo, en la creencia de que el paso a nivel se encontraba en el tramo entre estaciones Hluboká nad Vltavou –
 ### (desvío Nemanice II) – České Budějovice, detuvo el tráfico ferroviario en dicho
@@ -519,8 +534,8 @@ La jefa de estación de la estación de Hluboká nad Vltavou, a pesar del peligr
 ### la vía para las necesidades de un tráfico ferroviario fluido y seguro según las reglas para la explotación de la vía y los procedimientos tecnológicos contenidos en las normas internas del gestor de la vía, al no haber asegurado la detención del tráfico ferroviario en el lugar
 ### requerido. Dada la imposibilidad objetiva mutua, que se repite constantemente, de identificar rápida e inequívocamente el lugar de los pasos a nivel ferroviarios, a pesar de las medidas adoptadas hasta la fecha, así como teniendo en cuenta la situación de tensión y estrés como fenómeno acompañante en estos hechos, la influencia del factor humano en el error de la jefa de estación de la estación de Hluboká nad Vltavou en la identificación del paso a nivel y la falta fundamental de tiempo para consultar la documentación escrita con el fin de determinar la posición del paso a nivel, no puede imputarse objetivamente al operador del gestor de la vía esta infracción de la disposición legal en relación causal con la ocurrencia del SU.
 
-
 ## Página 25
+
 
 La instantánea temporal de los acontecimientos parciales, las actividades de los empleados del gestor de la vía y del transportista y los datos registrados sobre el estado de la vía de tráfico ferroviario antes de la ocurrencia de este SU, es decir, las indicaciones temporales individuales indicadas en este informe sobre las conversaciones telefónicas realizadas, la actividad de la señalización de estación y de paso a nivel y de TRS, documentadas por los dispositivos de registro y las extracciones de datos descargadas, fueron ajustadas para los fines de la comparación objetiva de su secuencia según la hora real, ya que ninguno de los dispositivos de registro en cuestión está gobernado por la llamada señal de hora exacta.
 El Sistema Integrado de Emergencias fue activado. En el lugar estuvieron presentes el Servicio de Bomberos y Rescate de SŽDC y la Policía ČR – OO Hluboká nad Vltavou. El servicio de rescate no estuvo presente, ya que en el SU no se produjo daño a la salud de ninguno de sus participantes.
@@ -536,17 +551,17 @@ Por parte de la Inspección Ferroviaria, en este sentido, se emitieron recomenda
 
 ## Página 26
 
-emitidas de recomendaciones de seguridad por la Inspección Ferroviaria en el mismo asunto de forma constante, impidió de manera clara y demostrable la evitación de la aparición de este SU.
+emitidas sobre recomendaciones de seguridad por la Inspección Ferroviaria en un asunto siempre idéntico, impidió de manera clara y demostrable evitar la aparición de este SU.
 ### 4.4 Hallazgos complementarios
-### 4.4.1 Deficiencias y omisiones detectadas durante la investigación de las causas y circunstancias de la aparición del suceso extraordinario, que sin embargo no son significativas para las conclusiones sobre las causas
-Las deficiencias y omisiones detectadas durante la investigación de las causas y circunstancias de la aparición del suceso extraordinario, que sin embargo no son significativas para las conclusiones sobre las causas, no fueron detectadas.
+### 4.4.1 Deficiencias y omisiones detectadas durante la investigación de las causas y circunstancias de la aparición del suceso extraordinario, que sin embargo no son relevantes para las conclusiones sobre las causas
+Las deficiencias y omisiones detectadas durante la investigación de las causas y circunstancias de la aparición del suceso extraordinario, que sin embargo no son relevantes para las conclusiones sobre las causas, no fueron detectadas.
 ## 5 MEDIDAS ADOPTADAS
 ### 5.1 Lista de medidas que ya se han tomado o adoptado como consecuencia del suceso extraordinario
-Ni el explotador de la infraestructura – Administración de la Vía Ferroviaria de Transporte, organización estatal, ni el transportista – Ferrocarriles Checos, a. s., han adoptado ninguna medida en sus evaluaciones del suceso extraordinario en cuestión, emitidas el 12. 2. 2009, respectivamente el 4. 2. 2009, de conformidad con las disposiciones del decreto n.º 376/2006 Sb.
-### Recomendación de seguridad de la Inspección Ferroviaria para la implantación de un sistema uniforme de señalización inequívoca de los pasos a nivel ferroviarios, incluida la entrega de las señalizaciones asignadas a los cuerpos del SIU, adoptada sobre la base de los resultados de la investigación de las causas y circunstancias de la aparición de SU similares en los años naturales anteriores y mencionada en el punto 3.7 de este informe, no ha sido hasta la fecha materializada.
-
+El gestor de la vía – Administración de la Infraestructura Ferroviaria, organización estatal, y el transportista – Ferrocarriles Checos, a. s., no han adoptado ninguna medida en sus evaluaciones del suceso extraordinario de referencia, emitidas el 12. 2. 2009, respectivamente el 4. 2. 2009, de conformidad con lo dispuesto en el decreto n.º 376/2006 Sb.
+### Recomendación de seguridad de la Inspección Ferroviaria para la implantación de un sistema uniforme de señalización inequívoca de los pasos a nivel ferroviarios, incluida la entrega de las señalizaciones asignadas a los servicios de emergencia, adoptada sobre la base de los resultados de la investigación de las causas y circunstancias de la aparición de SU análogos en los años naturales anteriores y mencionada en el punto 3.7 de este informe, no se ha hecho efectiva hasta la fecha.
 
 ## Página 27
+
 
 ## 6 RECOMENDACIONES DE SEGURIDAD
 Sobre la base de los resultados de la investigación del SU (accidente) – colisión del tren Os 8043 con un automóvil en el paso a nivel en el pk 222,975, de la línea ferroviaria nacional Plzeň – České Budějovice, el 8. 1. 2009, la Inspección Ferroviaria, como autoridad competente en la materia, en el sentido del § 53b apartado 5 de la ley n.º 266/1994 Sb., de ferrocarriles, en la redacción de las disposiciones posteriores, recomienda repetidamente:
@@ -560,8 +575,8 @@ Director
 De la Inspección Territorial de Plzeň
 De la Inspección Territorial de Plzeň
 
-
 ## Página 28
+
 
 ## 7 ANEXOS
 ### Fotografía del paso a nivel ferroviario en cuestión

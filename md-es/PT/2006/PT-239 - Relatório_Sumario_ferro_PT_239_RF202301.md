@@ -12,8 +12,8 @@ tokens_in: 14755
 tokens_out: 6884
 fecha_proceso: 2026-11-19
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-verificacion: revisar
-avisos: ["página 6: ratio 1.89", "página 7: ratio 1.92"]
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (PT)", "página 2: original bilingüe: se compara contra el idioma principal (EN)", "página 3: original bilingüe: se compara contra el idioma principal (PT)", "página 4: original bilingüe: se compara contra el idioma principal (EN)", "página 5: original bilingüe: se compara contra el idioma principal (EN); cifras largas: 1/5; cifras cortas: 3/14", "página 6: original bilingüe: se compara contra el idioma principal (EN); ratio 1.89"]
 ---
 
 ## Página 1

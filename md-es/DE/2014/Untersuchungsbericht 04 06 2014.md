@@ -10,13 +10,15 @@ chars: 29484
 ratio_longitud: 0.88
 tokens_in: 16709
 tokens_out: 21826
-verificacion: revisar
-notas_cifras: ["bloque 1: cifras largas: 1/19", "bloque 3: cifras cortas: 83/83"]
-avisos: ["bloque 3: marcadores de página: 4 vs 0; cifras largas: faltan 34/34 (100%); ratio 0.01"]
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: revisar
+avisos: ["página 13: cifras largas: faltan 11/11 (100%)"]
+notas_cifras: ["página 6: cifras largas: 1/10"]
 ---
+
 ## Página 1
+
 
 Centro de investigación
 del Organismo Federal de Investigación de Accidentes Ferroviarios
@@ -35,8 +37,8 @@ Incendio de material rodante
 | Número de línea: | 2650 |
 | Punto kilométrico: | 137 800 , |
 
-
 ## Página 2
+
 
 ## Publicado por:
 Ministerio Federal de Transporte e Infraestructura Digital
@@ -44,8 +46,8 @@ Organismo Federal de Investigación de Accidentes Ferroviarios
 Robert-Schuman-Platz 1
 53175 Bonn
 
-
 ## Página 3
+
 
 # Índice:
 ### Página
@@ -86,10 +88,10 @@ Interpretación de los rastros del accidente / evolución de los daños ........
 Sucesos comparables - medidas adoptadas hasta la fecha .................................17  
 4.4 
 Evaluación y conclusiones ...............................................................................22  
-## 5 
-
+## 5
 
 ## Página 4
+
 
 # Índice de figuras: 
 Fig. 1: Plano de situación .................................................................................................9  
@@ -99,10 +101,10 @@ Fig. 4: huellas de quemadura en el conmutador de tracción/frenado .............
 Fig. 5: libro de entrega, notificación de avería ..............................................................12  
 Fig. 6: libro de entrega, anotación de resolución ...........................................................12  
 Fig. 7: cables de conexión en el FM desmontado ..........................................................14  
-Fig. 8: huellas de impresión en la barra colectora de aluminio ........................................15  
-
+Fig. 8: huellas de impresión en la barra colectora de aluminio ........................................15
 
 ## Página 5
+
 
 # Índice de siglas 
 AA 
@@ -156,10 +158,10 @@ Maquinista
 Tfz 
 Locomotora 
 Üst 
-Punto de enlace 
-
+Punto de enlace
 
 ## Página 6
+
 
 # 1 
 # Resumen 
@@ -183,6 +185,7 @@ Con la Directiva 2004/49/CE sobre seguridad ferroviaria en la Comunidad (Directi
 
 ## Página 7
 
+
 Esta directiva se implementó mediante la 5.ª Ley de modificación de disposiciones del derecho ferroviario de 16 de abril de 2007, y se creó la Oficina Federal de Investigación de Accidentes Ferroviarios (EUB). La ulterior implementación de la Directiva de seguridad se realizó mediante la Ordenanza de Investigación de Accidentes Ferroviarios (EUV) de 05.07.2007.
 La dirección de la Oficina Federal de Investigación de Accidentes Ferroviarios (EUB) corresponde al Ministerio Federal de Transporte e Infraestructura Digital (BMVI). Para la realización de las investigaciones, la dirección de la EUB se sirve de la central de investigación en la Agencia Federal de Ferrocarriles —que depende funcional, exclusiva y directamente del jefe de la EUB—.
 Más información al respecto está disponible en Internet en >> www.eisenbahn-unfalluntersuchung.de <<.
@@ -200,6 +203,7 @@ DB Regio AG, Gestión de series de material
 
 ## Página 8
 
+
 # 3
 # Suceso
 Nota preliminar:
@@ -212,6 +216,7 @@ El maquinista detuvo el tren en el andén de la estación de Kamen con motivo de
 El maquinista detuvo a continuación el tren antes de la señal de bloqueo automático (Sbk) 55 en el punto kilométrico 137,8 y puso en conocimiento del jefe de circulación (Fdl). El relativamente pequeño foco de incendio fue extinguido por el cuerpo de bomberos convocado.
 
 ## Página 9
+
 
 Fig. 1: Plano de situación
 Fuente: Plano IVL de DB Netz AG, editado por la EUB
@@ -227,6 +232,7 @@ No llegó al conocimiento de la EUB ninguna circunstancia que hubiera retrasado 
 
 ## Página 10
 
+
 ## 4.2
 ## Inspección de material rodante
 ## 4.2.1
@@ -240,12 +246,47 @@ Fig. 2: casquillos de bornes dañados / bornes
 
 ## Página 11
 
-Fig. 3: cables de motor de tracción quemados
-Fig. 4: marcas de quemadura en el conmutador de tracción/frenado
+Fig. 3: cables de motor de tracción quemados 
+Fig. 4: marcas de combustión en el conmutador de tracción/frenado
+
+## Página 12
+
+Además, del libro de traspaso se podían extraer las siguientes entradas:
+Fig. 5: Libro de traspaso, notificación de anomalía
+El 30.05, un Tf detectó un corte total de masa, así como un olor intermitente a cables quemados en la cabina de conducción 1. La constatación registrada fue notificada por el Tf al organismo competente según lo previsto (notificación EZB). Tras dos días de servicio más, en el marco de la inspección posterior realizada el 03.06.2014, la entrada mencionada anteriormente en el libro de traspaso fue eliminada por el taller y marcada con o.B. (sin hallazgos).
+Fig. 6: Libro de traspaso, anotación de resolución
+## 4.2.2
+## Inspección del material rodante
+Debido a los hallazgos recopilados en el marco de la investigación preliminar, se acordó con el propietario del material rodante, DB Regio AG, una cita conjunta de investigación y deliberación sobre las irregularidades detectadas y sus relaciones. Entre tanto, se procedería a desmontar el FM 1 afectado.
+Dicha cita tuvo lugar el 18.06.2014 en el taller de DB Regio en Dortmund. De las inspecciones realizadas se pudieron recopilar más hallazgos, que se enumeran a continuación.
+En primer lugar, se reconstruyó conjuntamente la siguiente cronología del suceso:
+
+## Página 13
 
 The request was rejected because it was considered high risk
 
+## Página 14
+
+En el extremo «A1» se registran trazas de uno o más arqueos. En los contactos de los elementos de conmutación del conmutador de freno de marcha y del conmutador de dirección existen puntos de quemadura (fig. 5). El taller recibió la aprobación para el cambio del motor de tracción.
+18.06.2014 - Cita de inspección del vehículo
+La situación en el taller el 18.06.2014 se presentó como sigue. El FM 1 (485 0475) recién instalado ya estaba embutido, pero aún no conectado.
+Al FM dañado (485 0429) le faltaban las bornas en las cuatro líneas «D1». Las bornas «A1» fueron cortadas por el personal del taller, ya que las tuercas estaban soldadas (fig. 8).
+En las barras colectoras de aluminio «D1» (EW 10) las bornas estaban profundamente hundidas y se apreciaban agujeros de quemadura (fig. 9). En las demás barras colectoras se registraban ligeros agujeros de corrosión (p. ej. HW 10) y trazas de arqueos eléctricos. El estado de las barras colectoras requiere su tratamiento antes de la reutilización. Por ejemplo, D1 (EW) debe sustituirse debido a la naturaleza y el alcance de los daños.
+Fig. 7: Líneas de conexión en el FM desmontado
+
+## Página 15
+
+Fig. 8: Marcas de presión en el raíl de tracción de aluminio 
+A continuación se documentaron las siguientes constataciones de carácter general. 
+La historia del FM: 
+El FM 1 dañado tenía el número de orden 485 0429 y fue sometido en Dessau el 13.01.2009 a la inspección principal (H8.1 HU). El 14.01.2009 fue instalado en la locomotora 112 134-2. En Dessau, el vehículo recibió el 30.01.2009 una IS 630. El FM fue desinstalado e reinstalado en Rostock por motivo de un cambio de bogie motor (TR) 1 (274 0229) el 19.03.2014. A la EUB no le constaban otras particularidades del FM. 
+La sala de máquinas del Tfz estaba muy sucia. Se encontraba mucho polvo de freno en los componentes y bastidores. 
+Se pusieron de manifiesto inconsistencias en el FM 4. Este FM (485 0049) fue instalado en Rostock el 17.07.2013. El bloque de fijación para los cables de conexión del motor de tracción aún era de material no admitido (madera). Además, los orificios de fijación tenían un exceso de dimensiones. Se había acumulado suciedad entre los puntos de fijación y los cables. Asimismo, una pieza de presión estaba floja y faltaba la tuerca correspondiente. Debido a las constataciones antes mencionadas, el Tfz transmitía un estado que requería mantenimiento. 
+Para la realización de la inspección del vehículo, el DB Regio Werk Dortmund puso a disposición a varios artesanos encargados del mantenimiento y la atención de la serie 112. 
+De las conversaciones necesarias y de las preguntas formuladas a los empleados se obtuvieron constataciones muy notables. A los empleados les eran desconocidos algunos aspectos decisivos y esenciales para la in-
+
 ## Página 16
+
 
 mantenimiento, así como las instrucciones necesarias para evitar averías, no eran conocidas.  
 Esto se evidenció, por ejemplo, mediante los siguientes hechos:  
@@ -259,10 +300,10 @@ Otro punto es la documentación de las actividades realizadas. En las listas de 
 ## 4.3 
 ## Interpretación de las huellas del accidente / evolución del daño 
 El daño se desarrolla lentamente. La distribución de la corriente sobre las cuatro líneas individuales se ve influenciada mutuamente de manera diferente, dependiendo de la dirección de la corriente (dirección de marcha). 
-Si durante el periodo de servicio aumenta la resistencia de contacto de las líneas individuales, la carga de corriente se desplaza aún más dentro de las cuatro líneas. Se producen indicios de calentamiento en las líneas individuales. Si esto no se detecta a tiempo, se producen interrupciones de línea. La corriente que continúa fluyendo sobrecarga las líneas restantes hasta que finalmente se interrumpen todas las líneas. Dado que la corriente no supera la magnitud normal de servicio, no se produce el disparo de ningún dispositivo de seguridad. Debido a la interrupción repentina, la gran inductancia del FM genera un pico de tensión elevado, que provoca entonces un arco eléctrico (en este caso A1 (AW10) y D2 (FW10)) entre las barras de alimentación y, según la experiencia, también en otros componentes del circuito eléctrico, como el cambiador de polaridad. 
-
+Si durante el periodo de servicio aumenta la resistencia de contacto de las líneas individuales, la carga de corriente se desplaza aún más dentro de las cuatro líneas. Se producen indicios de calentamiento en las líneas individuales. Si esto no se detecta a tiempo, se producen interrupciones de línea. La corriente que continúa fluyendo sobrecarga las líneas restantes hasta que finalmente se interrumpen todas las líneas. Dado que la corriente no supera la magnitud normal de servicio, no se produce el disparo de ningún dispositivo de seguridad. Debido a la interrupción repentina, la gran inductancia del FM genera un pico de tensión elevado, que provoca entonces un arco eléctrico (en este caso A1 (AW10) y D2 (FW10)) entre las barras de alimentación y, según la experiencia, también en otros componentes del circuito eléctrico, como el cambiador de polaridad.
 
 ## Página 17
+
 
 ## 4.4 
 ## Eventos comparables - medidas adoptadas hasta la fecha 
@@ -279,10 +320,10 @@ En relación con el incendio de vehículo del 26.07.2011 en Berlín Ostbahnhof, 
 •  Diferencias en las presiones de prensado de las puntas de cable, 
 •  Prensado defectuoso debido al uso de puntas de cable de otros fabricantes, 
 •  Fallo material debido a errores de fabricación/defectos de material de las puntas de cable. 
-La aparición del incendio en la locomotora se debe a varios de los factores de influencia mencionados anteriormente.» 
-
+La aparición del incendio en la locomotora se debe a varios de los factores de influencia mencionados anteriormente.»
 
 ## Página 18
+
 
 DB Regio, como titular del vehículo, ha reaccionado en base a la investigación del incendio de vehículo del 26.07.2011 en Berlín Ostbahnhof y ha desarrollado las siguientes medidas, entre otras, basadas en recomendaciones de dictámenes, el informe de la EUB y investigaciones adicionales. 
 | lfd. Nr. | Recomendación sobre la conducción de cables del motor de tracción | Ejecución | Fecha |
@@ -293,6 +334,7 @@ DB Regio, como titular del vehículo, ha reaccionado en base a la investigación
 | 1.4 | El relleno con acrílico no debería realizarse después del montaje de los cables del motor de tracción y las piezas de borna, sino que el acrílico debería aplicarse sobre las piezas individuales de la borna antes del montaje, de modo que al tensar las piezas de borna se distribuya el acrílico. | Verificar alternativa: uso de gomaespuma de 3 mm. | |
 
 ## Página 19
+
 
 ### Recomendación sobre el punto de conexión del motor de tracción
 ### para la reducción de las influencias electroquímicas con respecto a la
@@ -347,10 +389,10 @@ y se adelantó como trabajo planificado de
 industrial y, en su caso, con un pincel. 
 360 Tkm a 120 Tkm. 
 Con IW-P (T) 146/2012 
-ordenado. 
-
+ordenado.
 
 ## Página 20
+
 
 lfd. 
 ### recomendación adicional del peritaje 
@@ -409,10 +451,10 @@ Se realizaron investigaciones
 -
 Capacidad de carga de corriente de la "nueva" 
 adicionales sobre las 
-configuración del punto de conexión (placas 
-
+configuración del punto de conexión (placas
 
 ## Página 21
+
 
 de cable anchas) 
 conexiones de los puntos de conexión tanto 
@@ -456,10 +498,10 @@ contacto a las temperaturas detectadas.
 La conclusión principal de los informes sobre las investigaciones de los puntos de conexión fue resumida por DB Regio de la siguiente manera: 
   La conexión con placas de cable anchas y vaselina tiene la menor resistencia de transición. 
   La vaselina es más adecuada que la pasta de cabe. 
-o  En principio, debe partirse de que la vaselina es más adecuada desde el punto de vista de la protección contra incendios para el pretratamiento de los puntos de conexión del motor de tracción que la pasta de cabe. Sin embargo, cabe señalar que en los puntos de conexión del vehículo no debe tenerse en cuenta la acción promotora del fuego de la pasta de cabe y de la vaselina como carga combustible, ya que normalmente solo se aplican con espesores de capa mínimos. Una autoignisión 
-
+o  En principio, debe partirse de que la vaselina es más adecuada desde el punto de vista de la protección contra incendios para el pretratamiento de los puntos de conexión del motor de tracción que la pasta de cabe. Sin embargo, cabe señalar que en los puntos de conexión del vehículo no debe tenerse en cuenta la acción promotora del fuego de la pasta de cabe y de la vaselina como carga combustible, ya que normalmente solo se aplican con espesores de capa mínimos. Una autoignisión
 
 ## Página 22
+
 
 de ambos materiales solo se produce a temperaturas superiores a 240 °C.  
 La temperatura de los puntos de conexión del motor de tracción no debe superar los 200 °C,  
@@ -480,6 +522,7 @@ Como causa posible del desarrollo de un olor a aislamiento de cabe quemado en la
 Dado que la modificación de la barra de conexiones desde el bloque de conexiones antes utilizado hasta la nueva "versión roja" se aplicó según lo previsto, esto tuvo un efecto positivo sobre el aislamiento contra incendios. El incendio solo pudo extenderse al aislamiento de los cables por encima del bloque de conexiones.
 
 ## Página 23
+
 
 El titular del vehículo comunicó que la ejecución constructiva de los rieles de corriente de aluminio, con las cuatro líneas individualmente sujetas por cada conexión de motor de tracción, en relación con el espacio de instalación reducido, requiere un mayor esfuerzo de mantenimiento.  
 Por lo tanto, es necesario cumplir exactamente las disposiciones del IHB 901 10, de las instrucciones de trabajo, de las IW-P (p. ej. 146/2012, 309/2013) o de la documentación de planos, para poder evitar en el futuro sucesos de este tipo.  

@@ -10,13 +10,14 @@ chars: 139824
 ratio_longitud: 1.27
 tokens_in: 60090
 tokens_out: 42369
-verificacion: revisar
-notas_cifras: ["bloque 2: original bilingüe: se compara contra el idioma principal (CS)", "bloque 4: original bilingüe: se compara contra el idioma principal (CS)", "bloque 6: original bilingüe: se compara contra el idioma principal (CS)", "bloque 9: cifras cortas: 2/48", "bloque 10: original bilingüe: se compara contra el idioma principal (CS)", "bloque 11: cifras cortas: 2/104"]
-avisos: ["bloque 6: ratio 1.89", "bloque 15: ratio 1.64", "bloque 16: ratio 1.68"]
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 5: original bilingüe: se compara contra el idioma principal (EN)", "página 6: original bilingüe: se compara contra el idioma principal (CS)", "página 9: original bilingüe: se compara contra el idioma principal (CS)", "página 10: original bilingüe: se compara contra el idioma principal (CS)", "página 13: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 Inspección Ferroviaria
 República Checa
@@ -44,7 +45,10 @@ fax: (+420) 224 805 428
 
 ## Página 2
 
+
+
 ## Página 3
+
 
 # RESUMEN
 Grado:
@@ -91,7 +95,10 @@ recomienda obligar a las empresas ferroviarias pertinentes a aceptar las recomen
 
 ## Página 4
 
+
+
 ## Página 5
+
 
 # Índice
  Resumen .............................................................................................................................3
@@ -128,6 +135,7 @@ profesional de las causas de la aparición del incidente extraordinario ........
 
 ## Página 6
 
+
 proporción ...............................................................................................................14
 3.1.2 Otras personas .........................................................................................................15
 3.2 Sistema de garantía de la seguridad ...............................................................................17
@@ -157,8 +165,8 @@ proporción ....................................................................
 4.1.1 Descripción final del incidente basada en los hechos constatados en el punto 3 
 ............................................................................................................................30
 
-
 ## Página 7
+
 
 4.2 Análisis ......................................................................................................................31
 4.2.1 Evaluación de los hechos constatados según el punto 3 y presentación de conclusiones sobre la causa del incidente y la actuación de los servicios de rescate ..........................................31
@@ -181,6 +189,7 @@ proporción ....................................................................
 
 ## Página 8
 
+
 ## 1 RESUMEN
 Grupo de la suceso: accidente.
 Fecha y hora de la suceso: 02. 06. 2008, 16:01:13 horas.
@@ -202,6 +211,7 @@ La Inspección Ferroviaria, de conformidad con lo dispuesto en el apartado 5 del
 
 ## Página 9
 
+
 en su versión vigente, al explotador del transporte ferroviario, Dopravní podnik města Olomouce, a. s., que utiliza para el explotación del transporte ferroviario DV MTV del tipo T3, recomienda lo siguiente:
 – instalar sobre todas las puertas de embarque en el espacio para viajeros un dispositivo de seguridad, es decir, un interruptor de seguridad del freno de emergencia en la cubierta de chapa que protege el mecanismo destinado a abrir, cerrar, ajustar y guiar las puertas de embarque.
 La Inspección Ferroviaria, de conformidad con lo dispuesto en el apartado 5 del artículo 53b de la ley n.º 266/1994 Coll., sobre vías férreas, en su versión vigente, al explotador del transporte ferroviario, Dopravní podnik města Olomouce, a. s., recomienda además lo siguiente:
@@ -216,6 +226,7 @@ La SU tuvo lugar en la isla de embarque de la parada «Wolkerova» dirección No
 El 02. 06. 2008, a las 16:00:18 horas, el tren de tranvía de la línea n.º 6, servicio 4, que circulaba en dirección Fibichova – Nová Ulice, se detuvo en la parada «Wolkerova». El tren de tranvía estaba compuesto por DV MTV del tipo T3,
 
 ## Página 10
+
 
 ev. č. 144 a 145. Před odjezdem soupravy se snažila cestující a doprovod v jedné osobě (dále jen „doprovod“) s vnukem (dále jen „poškozený“) a vnučkou v kočárku (sportovní kočárek) nastoupit do posledních dveří zadního DV MTV ev. č. 145. V době, kdy osoba řídící drážní vozidlo (dále jen „řidič“) dala zvukovou výstrahu k ukončení nástupu a výstupu cestujících, stál poškozený na prvním nástupním schůdku uvnitř DV MTV a doprovod s vnučkou stály na nástupišti. Když se začaly nástupní dveře DV MTV ev. č. 145 uzavírat, doprovod uchopil poškozeného a snažil se ho vytáhnout ven z DV MTV. Nástupní dveře se uzavřely a poškozenému sevřely pravou dolní končetinu v oblasti lýtka tak, že pravá dolní končetina se od místa sevření nacházela uvnitř DV MTV. Zbývající část těla poškozeného držel doprovod v náručí vně DV MTV. V 16:01:13 hod. byl tramvajový vlak uveden do pohybu. Cestující v zadním DV MTV ev. č. 145 použili opakovaně tlačítka zvukové signalizace k řidiči pro zastavení DV MTV. Tlačítko bezpečnostního spínače záchranné brzdy cestujícími použito nebylo. Protože řidič na pokyn nereagoval, cestující - „svědkové“ č. 3 a 5 násilně pootevřeli nástupní dveře. V 16:01:26 hod., při rychlosti 38,7 km.h-1, následkem násilného pootevření nástupních dveří DV MTV ev. č. 145 poškozený vypadl do blízkosti drážního tělesa ve vzdálenosti 100,5 m od místa vzniku MU. Tramvajový vlak pokračoval v další jízdě až do následující zastávky Fakultní nemocnice. 
 Nehodový děj sledoval na nástupišti zastávky „Wolkerova“ doprovod poškozeného a svědci č. 1 a 2. Svědek č. 2 běžel za jedoucími DV MTV až do místa vypadnutí poškozeného. 
@@ -233,8 +244,8 @@ Zúčastnění zaměstnanci provozovatele :
 řidič tramvajového vlaku linky č. 6, kurz 4;
 ●
 
-
 ## Página 11
+
 
 Zúčastněný:
 poškozený cestující tramvajového vlaku linky č. 6, kurz 4;
@@ -290,6 +301,7 @@ Provedení velké prohlídky dne 21. 10. 2004.
 
 ## Página 12
 
+
 Los recorridos kilométricos entre las distintas inspecciones técnicas periódicas y las inspecciones visuales se realizan en los intervalos recomendados por el fabricante.
 ### 2.2.3 Descripción de los componentes de la vía de circulación ferroviaria, del sistema de seguridad (es decir, en particular, del estado de las vías, de las agujas, de los centros de mando y señalización, de las señales y del equipo de seguridad a bordo del tren)
 El lugar de ocurrencia del IE se encuentra en el territorio de la ciudad estatutaria de Olomouc, calle Wolkerova, carretera de primera categoría n.º 46 en el pk 40,945, en la línea de tranvía de DPMO, a. s., en la isla de embarque de la parada «Wolkerova», (coordenadas GPS – 547861,276/-1122289,677). La isla de embarque se encuentra en un tramo recto de la línea de tranvía.
@@ -315,44 +327,52 @@ a las 16:08 h, el centro de mando del turno fue informado por el conductor del t
 a las 16:11 h, el centro de mando del explotador acordó con la PČR la liberación de la vía. Dado que el
 –
 
-
 ## Página 13
 
-el tren de tranvía no se encontraba en el lugar del IE, se decidió su remolque y su estacionamiento en el terminal de la calle Nová;
-a las 16:12 h, el centro de mando del explotador dio instrucciones al despachador móvil
+como el tranvía no se encontraba en el lugar, se decidió su retirada y estacionamiento en el
+rebalse Nová ulice;
+a las 16:12 h, el despachador de turno del operador dio instrucción al despachador móvil
 –
-para estacionar el tren.
-### 2.3 Muertes, lesiones y daños materiales
-2.3.1 En viajeros y terceros, empleados del explotador de la vía y del transportista,
-incluidas las personas en relación contractual
-En el momento de la ocurrencia del IE, en los trenes de tranvía de tipo T3, n.º de inventario 144 y 145, de la línea n.º 6, servicio 4, viajaba un número no determinado de viajeros.
-Durante el IE se produjeron lesiones a un viajero, un niño, que estaba subiendo al tren de tranvía de tranvía, n.º de inventario 145, que posteriormente fue trasladado por el RZS para recibir tratamiento al Hospital Universitario de Olomouc. No se produjeron lesiones a otras personas.
-### 2.3.2 En mercancías transportadas, equipajes y otros bienes
-Como consecuencia del IE se dañó la ropa de la persona afectada, un niño. A la fecha de emisión del Informe Final, el daño causado a la ropa no había sido cuantificado.
-### 2.3.3 En vehículos ferroviarios, componentes de la vía de circulación y en el medio ambiente
-Como consecuencia del IE no se dañaron vehículos ferroviarios, instalaciones de la vía ni se produjeron daños al medio ambiente.
-### 2.4 Factores externos
+para estacionar el convoy.
+### 2.3 Fallecidos, heridos y daños materiales
+2.3.1 En cuanto a pasajeros y terceros, empleados del operador de la vía y del transportista,
+incluidas personas en relación contractual
+En el momento de producirse el MU, en los DV MTV tipo T3, n.º de registro 144 y 145 de la línea n.º 6, servicio 4, viajaba
+un número indeterminado de pasajeros.
+En el MU se produjo un daño a la salud de un pasajero – un menor de edad, que subía al DV MTV, n.º
+145, que fue trasladado posteriormente por el RZS para recibir tratamiento en el Hospital
+Universitario de Olomouc. No se produjeron daños a la salud de otras personas.
+### 2.3.2 En las cosas transportadas, equipaje y otros bienes
+Como consecuencia del MU, la ropa del perjudicado – un menor de edad – resultó dañada. A la fecha de emisión del Informe
+Final, el daño causado en la ropa no había sido cuantificado.
+### 2.3.3 En los vehículos ferroviarios, componentes de la vía de tráfico y en el medio ambiente
+Como consecuencia del MU, no se dañó ningún vehículo ferroviario, instalación de la vía, ni se
+produjo daño alguno al medio ambiente.
+### 2.4 Circunstancias externas
 ### 2.4.1 Condiciones meteorológicas y datos geográficos
-Temperatura exterior de 23º C, período diurno, cielo despejado, visibilidad superior a 100 metros, no reducida por las condiciones meteorológicas.
-El IE tuvo lugar en la ciudad de Olomouc, en la calle Wolkerova, carretera de primera categoría n.º 46, en el distrito catastral de la ciudad estatutaria de Olomouc (coordenadas GPS – 547861,276/-1122289,677).
+Temperatura exterior 23º C, período diurno, despejado, visibilidad superior a 100 metros - no se vio
+reducida por influencias meteorológicas.
+El MU se produjo en la ciudad de Olomouc, en la calle Wolkerova, carretera de clase I n.º 46 en el término catastral de la
+ciudad estatutaria de Olomouc (coordenadas GPS – 547861,276/-1122289,677).
 
 ## Página 14
 
-## 3 REGISTRO DE LAS EXPLICACIONES PRESTADAS
-### 3.1 Resumen de las explicaciones prestadas (sujetas a protección de la identidad de las personas) y de la investigación técnica de las causas de la incidencia
-### 3.1.1 Empleados del gestor de la infraestructura y del transportista, incluidas las personas en relación contractual
+## 3 RESUMEN DE LAS EXPLICACIONES PRESENTADAS
+### 3.1 Resumen de las explicaciones presentadas (sujetas a la protección de la identidad de las personas) y del peritaje sobre las causas de la aparición del suceso ferroviario
+### 3.1.1 Empleados del gestor de la infraestructura y del transportista, incluidas personas en relación contractual
 ### Conductor del tranvía de la línea n.º 6, turno 4
-Del documento «REGISTRO OFICIAL de la explicación prestada» elaborado el 12.06.2008 de 13:21 h a 14:48 h, por la Oficina Regional de Investigación Criminal de Olomouc de la Policía de las Fuerzas de Seguridad del Estado (PČR OŘ DI Olomouc), con número de referencia: OROL-1435/DN-2008-KRY-TČ, se desprende lo siguiente:
-El 02.06.2008, el conductor comenzó su servicio en la parada Nová Ulice a las 13:06 h en la línea n.º 6, turno 4. Se encontraba descansado, en buen estado físico y psicológico. Ese día condujo el conjunto de tranvía compuesto por los vehículos DV MTV con números de registro 144 y 145. El servicio se desarrolló con normalidad. A las 16:00 h llegó a la calle Wolkerova, donde se detuvo en la parada «Wolkerova». Bajaron varios pasajeros, procedentes principalmente del DV MTV trasero. En la parada se detuvo con antelación, por lo que permaneció parado y esperó hasta el momento previsto de salida. Antes de la salida, verificó con la mirada a través de los espejos retrovisores exteriores traseros si podía cerrar las puertas de embarque de forma segura. Según declaró él mismo, no vio a ninguna persona en el andén en el espejo retrovisor exterior derecho. Tras cerrar las puertas, puso en movimiento el conjunto de tranvía. Aproximadamente tras recorrer 50 metros, registró una señal acústica audible «Señal acústica al conductor». La señalización fue continua y prolongada. Ante esta indicación, reaccionó mirando al espacio de transporte de pasajeros del DV MTV mediante los espejos retrovisores. El conductor del tranvía consideró que uno de los botones de la señalización había sido utilizado indebidamente y, por ello, continuó su viaje hasta la siguiente parada, donde pretendía averiguar la causa de la señalización. Tras detenerse en la parada «Fakultní nemocnice», el conductor fue informado por los pasajeros del segundo (trasero) DV MTV sobre la incidencia y la verdadera razón del uso de la señal acústica al conductor.
+Del documento «REGISTRO OFICIAL de la explicación presentada» elaborado el 12. 06. 2008 a las 13:21 h - 14:48 h, PČR OŘ DI Olomouc, con el n.º de expediente: OROL-1435/DN-2008-KRY-TČ se desprende que:
+El 02. 06. 2008 el conductor se incorporó al trabajo en la parada Nová Ulice a las 13:06 h en la línea n.º 6, turno 4. Estaba descansado, en buen estado físico y mental. Ese día condujo la composición del tren de tranvía formada por DV MTV n.º de registro 144 y 145. El servicio transcurrió con normalidad. A las 16:00 h llegó a la ul. Wolkerova, donde se detuvo en la parada «Wolkerova». Bajaron varios pasajeros, principalmente del DV MTV trasero. En la parada se detuvo con antelación, por lo que esperó hasta la hora de salida programada. Antes de salir, comprobó mediante la mirada a los retrovisores exteriores si podía cerrar las puertas de acceso de forma segura. Según sus propias palabras, en el retrovisor exterior derecho no vio a ninguna persona de pie en el andén. Tras cerrar las puertas, puso el tren de tranvía en movimiento. Tras recorrer unos 50 metros, registró una señal acústica audible «Señalización sonora al conductor». La señalización era continua y prolongada. En respuesta a esta indicación, miró mediante los retrovisores el espacio de transporte para pasajeros del DV MTV. El conductor del tranvía consideró que alguno de los botones de señalización había sido utilizado indebidamente y, por lo tanto, continuó la marcha hacia la siguiente parada, donde quería averiguar la causa de la señalización. Tras detenerse en la parada «Fakultní nemocnice», los pasajeros del segundo (trasero) DV MTV informaron al conductor sobre la aparición del suceso ferroviario y el verdadero motivo del uso de la señalización sonora al conductor.
 ## COMPLEMENTO
-Del documento «REGISTRO OFICIAL de la explicación prestada» del conductor elaborado el 08.07.2008 de [hora ilegible] h a 08:26 h, por la Oficina Regional de Investigación Criminal de Olomouc de la Policía de las Fuerzas de Seguridad del Estado (PČR OŘ DI Olomouc) con número de referencia: OROL-1435/DN-2008-KRY-TČ, se desprende lo siguiente:
-Durante la estancia en la parada «Wolkerova» y posteriormente durante el trayecto hacia la parada «Fakultní nemocnice», se encontraba en los escalones del espacio situado delante de las puertas de embarque delanteras y de las puertas de la cabina del conductor, una pasajera. Se trataba de una mujer joven, a la que el conductor del tranvía solo conocía «de vista», no sabía su nombre. El conductor del tranvía llevaba gafas de sol y tenía encendido el receptor de radio.
-En el documento «Declaración de la persona interesada (testigo) sobre la incidencia» elaborado el 03.06.2008 por el gestor de la infraestructura, el conductor declaró:
-«Se trataba del turno 4/6, vehículos n.º 144-145. Comencé el servicio en buen estado de salud, sobrio y debidamente descansado. Durante mi servicio, hasta la producción de la incidencia, no ocurrió nada extraordinario. Me detuve en la parada Wolkerova. Permanecí en la parada aproximadamente 1 minuto. Antes de la salida, miré por el espejo retrovisor. Emití la señal acústica de salida. A continuación, cerré las puertas y puse en marcha el vehículo. Tras el arranque, oí la señal acústica de los pasajeros en el momento en que tenía asignado el trayecto. Se trataba de un sonido continuo y prolongado. Miré por el espejo retrovisor y no observé nada inusual. Decidí llegar a la parada Fakultní nemocnice e ir a averiguar quién había pulsado el botón de la señalización al conductor. Tras llegar a la parada Fakultní nemocnice, un pasajero me informó de la situación surgida. Informé inmediatamente al despachador de servicio. El equipo de rescate sanitario llegó a la persona herida antes que yo.»
-### Despachador de circulación
-En el documento «Declaración de la persona interesada (testigo) sobre la incidencia» elaborado el
+Del documento «REGISTRO OFICIAL de la explicación presentada» del conductor, elaborado el 08. 07. 2008 a las h - 08:26 h, PČR OŘ DI Olomouc, con el n.º de expediente: OROL-1435/DN-2008-KRY-TČ se desprende que:
+Durante la estancia en la parada «Wolkerova» y posteriormente durante el trayecto hacia la parada «Fakultní nemocnice», una pasajera se encontraba de pie en los escalones del espacio situado delante de las puertas de acceso delanteras y de la puerta de la cabina del conductor. Se trataba de una joven mujer que el conductor del tranvía solo conoce «de vista», no conoce su nombre. El conductor del tranvía llevaba gafas de sol y tenía encendido el receptor de radio.
+En el documento «Declaración de la persona implicada (testigo) sobre el suceso ferroviario» elaborado el 03. 06. 2008 por el gestor, el conductor indicó:
+«Se trataba del turno 4/6, coche n.º 144-145. Me incorporé al servicio en buen estado de salud, sobrio y debidamente descansado. Hasta la aparición del suceso ferroviario, durante mi servicio no ocurrió nada extraordinario. Me detuve en la parada Wolkerova. Estuve parado unos 1 minuto en la parada. Antes de salir miré al retrovisor. Di la señal acústica de salida. Después cerré las puertas y me puse en marcha. Al arrancar oí la señal acústica de los pasajeros en el momento en que tenía programada la marcha. Se trataba de un sonido continuo y prolongado. Miré al retrovisor y no observé nada especial. Decidí llegar hasta la parada Fakultní nemocnice e ir a averiguar quién había usado el botón de señalización al conductor. A mi llegada a la parada Fakultní nemocnice, un pasajero me informó de la situación producida. Informé inmediatamente al despachador de servicio. La RZS llegó al herido antes que yo.»
+### Despachador de turno
+En el documento «Declaración de la persona implicada (testigo) sobre el suceso ferroviario» elaborado el
 
 ## Página 15
+
 
 09. 06. 2008 el operador, el despachador de turno declaró:
 «Me incorporé al servicio en buen estado de salud, sobrio y debidamente descansado. Antes de la aparición del incidente extraordinario, estaba atendiendo otro incidente extraordinario que se había producido en el cruce de Hraniční – Brněnská, dirección centro, donde se habían colisionado dos tranvías. Este incidente extraordinario y las medidas asociadas a él los estuve gestionando aún en el momento posterior a la aparición del siguiente incidente extraordinario en la parada de Wolkerova. El incidente extraordinario en la parada de Wolkerova me fue comunicado a las 16:02 por la conductora del tranvía que circulaba en sentido contrario, línea 3/6. A las 16:02 llamé a los servicios médicos de emergencia (RZS); posteriormente, a las 16:03, comuniqué el incidente a la Policía Nacional de la República Checa (PČR). A las 16:04, el despachador móvil salió de las instalaciones de la centralita. A las 16:07 recibí información del despachador móvil desde el lugar del incidente, indicando que había un niño herido en el lugar. El tranvía no se encontraba en el lugar del incidente. El tranvía más cercano estaba detenido en la parada de Fakultní nemocnice, dirección Nová Ulice. A las 16:08 recibí información mediante radio (RDST) del conductor de la línea 4/6, indicando que se encontraba detenido en la parada de Fakultní nemocnice, sin que él aportara más información sobre el incidente extraordinario. Le di la orden de esperar en el lugar hasta la llegada del despachador móvil. A las 16:11 volví a tratar la situación surgida con el oficial de operaciones de la PČR. Tras un acuerdo mutuo, debido a la circunstancia de que el tren de tranvías 144-145 ya no se encontraba en el lugar del incidente extraordinario (MU), se acordó que el tren de tranvías sería apartada a una vía de maniobras en el terminal de Nová Ulice. A las 16:12 transmití esta orden al despachador móvil. Tras la garantía de todos los requisitos por parte del despachador móvil, el tren fue trasladado al terminal por el conductor de reserva operativa. Posteriormente, realicé otras gestiones para garantizar la organización del tráfico. Durante la investigación del mencionado incidente extraordinario (MU) se produjo otro incidente extraordinario, que fue comunicado a las 17:20. Se trataba de un descarrilamiento en la salida del terminal de Neředín. A la Inspección Ferroviaria (Drážní inspekce) se me pasó por alto comunicar el incidente extraordinario surgido en la parada de Wolkerova debido a la carga de trabajo enorme al gestionar tres incidentes extraordinarios que se produjeron en un corto intervalo de tiempo.»
@@ -367,6 +387,7 @@ Del documento «REGISTRO OFICIAL de la declaración prestada» elaborado el 12. 
 El 02. 06. 2008 alrededor de las 16:00 h, cruzaban la calzada junto a la parada de Wolkerova con su novia (testigo n.º 1). Mientras caminaban, registró la señal de «Atención» dada por la campana del tren de tranvías. Inmediatamente después de que sonara la campana, quizás incluso durante el sonido de la campana, oyó los gritos de una mujer. Se giró y vio cómo la persona lesionada quedaba atrapada por el pie en las puertas traseras del vehículo de tranvía de vía única (DV MTV), cómo caía al suelo, cómo el tren de tranvías arrancaba y era arrastrado por el andén central. La persona lesionada cayó al andén central y luego cayó en el hueco entre el andén central y el tren de tranvías. El testigo corrió detrás del vehículo de tranvía de vía única (DV MTV) que se alejaba. En el andén central dejó caer la mochila; allí también pasó junto a la abuela, que también seguía corriendo detrás del vehículo de tranvía de vía única (DV MTV) en movimiento, agitaba los brazos y gritaba «Para». En el momento en que el testigo llegó al andén central, la parte trasera del tren de tranvías ya había superado la señalización de la parada. El testigo siguió observando constantemente a la persona lesionada y al vehículo de tranvía de vía única (DV MTV) en movimiento. Aproximadamente a cien metros de distancia, vio cómo la persona lesionada caía del vehículo de tranvía de vía única (DV MTV) en movimiento.
 
 ## Página 16
+
 
 K respecto al arrastre de la persona lesionada, declaró que fue arrastrado boca abajo por el vehículo individual de tracción (DV MTV) del tren de tranvía.
 
@@ -389,6 +410,7 @@ Del documento «REGISTRO OFICIAL de la declaración prestada» elaborado el 12.0
 El 02.06.2008, sobre las 16:00 h, viajaba en el tren de tranvía de la línea n.º 6, servicio 4. Subió en la parada «Koruna» y se desplazaba hacia la parada «Fakultní nemocnice». Estaba sentado en el segundo vehículo, a la izquierda en sentido de marcha, aproximadamente en el quinto asiento desde la parte trasera del DV MTV. Percibió que el tren de tranvía se detuvo en la parada «Wolkerova» más tiempo de lo habitual y con las puertas abiertas. Oyó una voz femenina junto a las puertas traseras que pedía ayuda para subir al DV MTV. No prestó atención a la petición, ya que fue
 
 ## Página 17
+
 
 una sola vez, con voz tranquila, y consideraba que había otros pasajeros sentados detrás de él, más cerca de las puertas traseras, que ayudarían a la mujer. Posteriormente, oyó cómo se cerraban las puertas y, a continuación, los gritos de otro pasajero indicando que un niño tenía el pie atrapado en la puerta. En las puertas traseras, pulsó el botón «Señal al conductor» varias veces consecutivas. Acto seguido, corrió hacia el espacio de las puertas, donde, junto con otro pasajero (testigo n.º 3), intentó abrir a la fuerza las puertas de embarque. Tras recorrer aproximadamente cien metros, lo consiguieron. El testigo n.º 3 abrió las puertas justo por encima del piecillo, y él un poco más arriba. Se lograron abrir las puertas, el pie de la persona lesionada se liberó y esta cayó fuera del tranvía en movimiento. Posteriormente, el testigo utilizó el botón «Señal al conductor» hasta la parada «Fakultní nemocnica» (Hospital Universitario), pero sin que el conductor reaccionara. No puede confirmar si algún otro pasajero pulsó el botón «Señal al conductor».
 
@@ -413,6 +435,7 @@ La organización marco y la forma de dictar las instrucciones en la explotación
 La Directiva Organizativa n.º OS/01/2006 «Reglamento de tráfico D1 para el servicio de tranvías», aprobada el 30 de noviembre de 2005, con efecto desde el 01 de enero de 2006, en su versión vigente (en adelante, «Reglamento de explotación»), § 21 «Transporte de personas y equipaje», donde se establece:
 
 ## Página 18
+
 
 apartado 9
 –
@@ -469,6 +492,7 @@ En el lado derecho de las cubiertas metálicas del mecanismo destinado a abrir, 
 
 ## Página 19
 
+
 ( – ) „ZASTÁVKA NA ZNAMENÍ: STISKNĚTE 1X DLOUZE“;
 –
 ## ( .... ) „STŮJ NEBEZPEČÍ: STISKNĚTE  NĚKOLIKRÁT OPAKOVANĚ“.
@@ -491,38 +515,37 @@ El conductor del tranvía es titular de un permiso válido „PERMISO DE APTITUD
 ### 3.2.3 Procedimiento del control interno de seguridad y sus resultados
 El explotador encargó las actividades de control al departamento organizativo „Centro de despachos de tráfico“ DPMO, a. s.
 
-
 ## Página 20
 
-El explotador presentó el documento interno „Reglamento de tráfico D3 para el servicio de despachos“ (Directiva organizativa nº 25/2003) con validez desde el 01. 08. 2003 y la última modificación realizada con validez desde el 08. 10. 2004, en el que en el § 19 se establece el alcance de las actividades de la persona autorizada – despachador móvil.
-La cuestión de la supervisión y el control del correcto desempeño del servicio por parte de los conductores y del seguimiento de las condiciones de explotación se regula en el § 19, apartados 3 y 9. En la función de despachador móvil están empleados un total de 14 (catorce) empleados de DPMO, a. s.
-La frecuencia de realización de los controles no está establecida por el explotador y los empleados autorizados del transportista realizan las actividades de control de forma aleatoria.
-En el período de enero a mayo de 2008, los empleados autorizados – despachadores móviles – realizaron un total de 190 controles. 88 controles se centraron en la evaluación del análisis de la velocidad de circulación del DV, con lo que se detectaron un total de 10 defectos. 102 controles se llevan a cabo como otros, con la detección de 9 defectos. Solo se registran los controles si se ha detectado un defecto o una infracción de las normas para la explotación segura de la vía y del transporte ferroviario. El conductor de la línea nº 6, turno 4, no figura en este período en el grupo de defectos detectados.
-### 3.2.4 Interfaz entre las distintas partes interesadas y las partes del recorrido de transporte
-La única parte interesada afectada por el accidente de tráfico en cuestión, que explota la vía y el transporte ferroviario, es DPMO, a. s., con domicilio en Koželužská 563/1, Olomouc, código postal 771 10.
-La explotación de la vía la realiza la persona jurídica – explotador de la vía – con la razón social Dopravní podnik města Olomouce, a. s., con domicilio en Koželužská 563/1, Olomouc, código postal 771 10, sobre la base del documento „Permiso oficial“, expedido para la explotación de la vía tranviaria en el territorio de la ciudad de Olomouc por la autoridad administrativa ferroviaria el 03. 12. 2007, nº de referencia: SmO1/OPK/79/5409/2007/Vo con validez por tiempo indeterminado.
-La explotación del transporte ferroviario la realiza la persona jurídica – transportista – con la razón social Dopravní podnik města Olomouce, a. s., con domicilio en Koželužská 563/1, Olomouc, código postal 771 10, sobre la base del documento „LICENCIA“ para la explotación del transporte ferroviario público en la vía tranviaria en el territorio de la ciudad estatutaria de Olomouc en las líneas X, U, 1, 2, 4, 6 y 7, nº de referencia: SmO1/OPK/79/5639, 5640, 5410, 5411, 5412, 5413, 5414/2007/Vo, del 27. 12. 2007, siendo las anexos a la licencia nº 1 – 7 parte integrante de la „LICENCIA“.
-### 3.3 Marco jurídico y otras disposiciones
+El operador presentó la normativa interna «Reglamento de tráfico D3 para el servicio de despacho» (Directiva organizativa n.º 25/2003) con vigencia desde el 01. 08. 2003 y la última modificación realizada con vigencia desde el 08. 10. 2004, en la que en el § 19 se establece el alcance de las actividades de la persona autorizada – despachador móvil. La cuestión de la supervisión y el control del correcto desempeño del servicio por parte de los conductores y del seguimiento de las condiciones de explotación se resuelve en el § 19, apartados 3 y 9. En el puesto de despachador móvil están empleados un total de 14 (catorce) empleados de DPMO, a. s.
+La frecuencia de la realización de controles no está establecida por el operador y los empleados autorizados del transportista realizan la actividad de control de forma aleatoria.
+En el periodo de enero a mayo de 2008, los empleados autorizados – despachadores móviles – realizaron un total de 190 controles. 88 controles se centraron en la evaluación del análisis de la velocidad de circulación del DV, habiéndose detectado un total de 10 defectos. 102 controles figuran como otros, con la detección de 9 defectos. Nominalmente, los controles solo se registran si se detectó un defecto o una infracción de las normas para la explotación segura de la vía y del transporte ferroviario. El conductor de la línea n.º 6, turno 4, no figura en el grupo de defectos detectados en este periodo.
+### 3.2.4 Interfaz entre los distintos sujetos implicados y los componentes de la vía de circulación
+El único sujeto afectado por la MU en cuestión que explota la vía y el transporte ferroviario es DPMO, a. s., con domicilio en Koželužská 563/1, Olomouc, CP 771 10.
+La explotación de la vía es realizada por la persona jurídica – operadora de la vía con la denominación social Dopravní podnik města Olomouce, a. s., con domicilio en Koželužská 563/1, Olomouc, CP 771 10, en virtud del documento «Permiso oficial», expedido para la explotación de la vía de tranvía en el territorio de la ciudad de Olomouc por la autoridad administrativa ferroviaria el 03. 12. 2007, con el n.º de expediente: SmO1/OPK/79/5409/2007/Vo con vigencia por tiempo indefinido.
+La explotación del transporte ferroviario es realizada por la persona jurídica – transportista con la denominación social Dopravní podnik města Olomouce, a. s., con domicilio en Koželužská 563/1, Olomouc, CP 771 10, en virtud del documento «LICENCIA» para la explotación del transporte ferroviario público en la vía de tranvía en el territorio de la ciudad estatutaria de Olomouc en las líneas X, U, 1, 2, 4, 6 y 7, n.º de expediente: SmO1/OPK/79/5639, 5640, 5410, 5411, 5412, 5413, 5414/2007/Vo, de fecha 27. 12. 2007, siendo parte integrante de la «LICENCIA» los anexos a la licencia n.º 1 – 7.
+### 3.3 Regulación legal y de otro tipo
 ### 3.3.1 Normativa comunitaria y nacional aplicable
-Para la determinación de las causas y las circunstancias de aparición de este accidente de tráfico se utilizaron las siguientes normas nacionales:
-ley nº 266/1994 Coll.;
+Para la determinación de las causas y circunstancias de la aparición de esta MU se aplicaron las siguientes normativas nacionales:
+ley n.º 266/1994 Sb.;
 –
-decreto nº 100/1995 Coll., por el que se establecen las condiciones para la explotación, construcción y fabricación de determinados dispositivos técnicos y su concreción (Reglamento de los dispositivos técnicos determinados), en su versión vigente (en adelante, decreto nº 100/1995 Coll.);
-decreto nº 101/1995 Coll.;
+decreto n.º 100/1995 Sb., por el que se establecen las condiciones para la explotación, construcción y fabricación de dispositivos técnicos designados y su concreción (Reglamento de dispositivos técnicos designados), en su versión vigente (en adelante, decreto n.º 100/1995 Sb.);
 –
-decreto nº 173/1995 Coll., por el que se aprueba el reglamento de circulación de las vías, en su versión vigente (en adelante, decreto nº 173/1995 Coll.);
-decreto nº 175/1995 Coll., sobre el reglamento de transporte para el transporte público ferroviario y por carretera de viajeros,
+decreto n.º 101/1995 Sb.;
 –
-en su versión vigente (en adelante, decreto nº 175/1995 Coll.);
-decreto nº 177/1995 Coll., por el que se aprueba el reglamento de construcción y técnica de las vías, en su versión vigente;
+decreto n.º 173/1995 Sb., por el que se aprueba el reglamento de tráfico de las vías, en su versión vigente (en adelante, decreto n.º 173/1995 Sb.);
 –
-decreto nº 376/2006 Coll.;
+decreto n.º 175/1995 Sb., sobre el reglamento de transporte para el transporte público ferroviario y por carretera de personas, en su versión vigente (en adelante, decreto n.º 175/1995 Sb.);
 –
-ley nº 361/2000 Coll., sobre la circulación en las vías terrestres y sobre la modificación de algunas
+decreto n.º 177/1995 Sb., por el que se aprueba el reglamento de construcción y técnico de las vías, en su versión vigente;
 –
-leyes, en su versión vigente;
+decreto n.º 376/2006 Sb.;
+–
+ley n.º 361/2000 Sb., sobre la circulación en las vías de comunicación terrestre y sobre la modificación de determinadas leyes, en su versión vigente;
+–
 
 ## Página 21
+
 
 ley n.º 262/2006 Coll., Código del Trabajo, en su versión vigente.
 –
@@ -571,8 +594,8 @@ OS/01/2006 - Norma de tráfico D1 para el tráfico de tranvías», aprobada el 3
 01. 01. 2006.
 El VF del tranvía MTV tipo T3, núm. de registro 144 está equipado con un dispositivo de grabación, mediante el cual se registran
 
-
 ## Página 22
+
 
 las magnitudes básicas y complementarias sobre la actividad del VF. Se trata de un tacógrafo electrónico tipo TT 12 núm. de registro
 984, con un rango de escala de velocidad de 0 a 80 km/h. El registro de las magnitudes es electrónico, en la tarjeta de memoria del dispositivo de grabación.
@@ -623,6 +646,7 @@ Los kilómetros recorridos entre las distintas inspecciones y revisiones técnic
 
 ## Página 23
 
+
 El DV MTV de tipo T3, núm. de inventario 144 (conductor) está equipado con un tacógrafo con registro electrónico de datos de tipo TT 12, núm. de inventario 984.
 Del documento «Descripción del registro de la marcha anterior al incidente» del DV MTV de tipo T3, núm. de inventario 144, de fecha 02.06.2008, se desprenden los siguientes hechos:
 a las 16:00:18 h – 16:01:13 h se registró la detención en la parada Wolkerova;
@@ -669,6 +693,7 @@ Los DV MTV núms. de inventario 144 y 145 están equipados con tres puertas de e
 
 ## Página 24
 
+
 y el juego de las bisagras de las hojas de las puertas de embarque. Esta solución constructiva permite ajustar los parámetros prescritos entre los bordes de goma de las puertas de embarque únicamente en la parte superior de las puertas, pero no garantiza el cumplimiento de los parámetros ajustados a lo largo de toda la longitud de las puertas de embarque, debido a que la parte inferior de las puertas de embarque no está bloqueada en dirección longitudinal. Debido a los juegos en las bisagras de las hojas de las puertas de embarque, el valor de la distancia mutua de los bordes de goma en la parte inferior de las puertas de embarque difiere del de la parte superior de las puertas de embarque, donde se realiza el ajuste del mecanismo de bloqueo de la marcha. En dirección transversal, la parte inferior de las puertas de embarque está asegurada mediante segmentos cortos de guía que, únicamente con las puertas cerradas, impiden su desplazamiento. Las puertas se accionan desde la cabina del conductor. Los DV MTV están equipados con elementos de bloqueo de la marcha con las puertas de embarque entreabiertas. Esta función la cumple el relé de bloqueo de arranque BDR conectado en el circuito del contactor principal, que impide poner en movimiento el DV MTV y aumentar la velocidad mediante la potencia de tracción con las puertas entreabiertas más de 2 – 3 cm entre los bordes de goma. La condición para poner en movimiento el DV MTV por sus propios medios es el cierre del circuito del contactor principal LS. El circuito del contactor principal LS se cierra, entre otras cosas, a través de los contactos de reposo del relé de bloqueo de arranque BDR. El estado inicial del relé BDR es relé desconectado, es decir, no está cerrado el circuito desde el interruptor automático VŘ 10 a través del fusible PO 24 (10A) y los contactos de bloqueo de las puertas DK 1 a DK 3 – las puertas de embarque están cerradas.
 El ajuste del bloqueo de las puertas se realiza en la parte superior de las puertas de embarque mediante el giro mecánico del núcleo del motor de accionamiento de las puertas a una distancia del borde de goma de las hojas de las puertas de 2 a 3 cm dentro de la inspección periódica del DV MTV. El propio ajuste se realiza de tal manera que, cuando la distancia del borde de goma de las hojas de las puertas sea de 2 a 3 cm, debe cerrarse el contacto de bloqueo de las puertas de embarque conectado en el circuito del relé BDR, que interrumpe el circuito del contactor principal LS.
 La última inspección y ajuste del mecanismo de bloqueo de la marcha con las puertas entreabiertas se realizó en ambos DV MTV por el operador el día 23.05.2008.
@@ -688,6 +713,7 @@ La función de bloqueo de la marcha (arranque del vehículo) con las puertas ent
 a) inserción de un objeto de 3 cm de anchura (diámetro) (tubo metálico)
 
 ## Página 25
+
 
 - a nivel de 12 cm por encima del borde de embarque, tras el cierre de las puertas y la orden de marcha, el tranvía entró en movimiento; no se produjo separación entre los bordes de goma con las puertas entreabiertas;
 - a nivel de 46 cm por encima del borde de embarque, tras el cierre de las puertas y la orden de marcha, el tranvía entró en movimiento; no se produjo separación entre los bordes de goma con las puertas entreabiertas;
@@ -713,8 +739,8 @@ f) inserción de un objeto de 8,5 cm de anchura (cuadrado de madera de 5 cm de a
 - a nivel de 46 cm por encima del borde de embarque, tras el cierre de las puertas y la orden de marcha, el tranvía entró en movimiento; la separación entre los bordes de goma con las puertas entreabiertas fue de 4 cm;
 - a nivel de 100 cm por encima del borde de embarque, tras el cierre de las puertas y la orden de marcha, el tranvía no entró en movimiento; la separación entre los bordes de goma con las puertas entreabiertas fue de 4,5 cm;
 
-
 ## Página 26
+
 
 g) inserción de un objeto de 9 cm de anchura (cuadrado de madera de 5 cm de altura)
 - a nivel de 12 cm por encima del borde de embarque, tras el cierre de las puertas y la orden de marcha, el tranvía no entró en movimiento; la separación entre los bordes de goma con las puertas entreabiertas fue de 5 cm;
@@ -741,6 +767,7 @@ Asimismo, se realizó la verificación del funcionamiento de la señalización d
 
 ## Página 27
 
+
 los trenes DV MTV núms. de inventario 144-145 (puertas traseras del vagón núm. de inventario 145). La verificación del funcionamiento del botón de señalización se realizó activando este interruptor desde las puertas traseras del vagón núm. de inventario 145, varias veces de forma intermitente y mediante una pulsación larga continua. Además, se realizó una prueba en la que se activaron simultáneamente los botones de señalización de todas las puertas del vagón núm. de inventario 145, con el fin de descartar la posibilidad de desactivar la señal mediante la pulsación simultánea de varios botones. En todas las pruebas realizadas, las señales se transmitieron a la bocina situada en la cabina del conductor.
 ### Ad 4)
 Se realizó asimismo la verificación del funcionamiento de la señalización acústica durante el cierre de las puertas. El funcionamiento de la señalización acústica se verificó desplazando el mando de las puertas a la posición de cerrado, sin que se produjera el cierre de las puertas. Posteriormente, se utilizó el mando de la señalización acústica durante el cierre de las puertas y las puertas se cerraron.
@@ -756,52 +783,56 @@ La prueba de verificación demostró que, al activar el botón de señalización
 ### Ad 4)
 De la prueba de verificación realizada se desprende que las últimas puertas del tren DV MTV núms. de inventario 144-145 (puertas traseras del vagón núm. de inventario 145) no pueden cerrarse sin utilizar la señalización acústica durante el cierre de las puertas.
 
-
 ## Página 28
 
 ### 3.5 Documentación sobre el sistema de explotación
-### 3.5.1 Medidas adoptadas por los empleados del operador de infraestructura y del transportista, en lo relativo a la conducción, la señalización y la protección del tráfico
-La circulación de los tranvías se realiza de conformidad con lo dispuesto en el artículo 18 del reglamento interno «Directiva OS/01/2006 - Normas de circulación D1 para el servicio de tranvías», aprobada el 30.11.2005, con vigencia desde el 01.01.2006.
-### 3.5.2 Intercambio de comunicaciones verbales en relación con el incidente excepcional, incluidos los documentos procedentes del dispositivo de grabación
-Todas las comunicaciones verbales en relación con la IU se realizaron una vez producida la IU. La conductora del tranvía de la línea n.º 6, servicio 3, procedente en sentido contrario, notificó la producción de la IU a las 16:02 h al despachador de turno.
-A continuación, se produjeron las siguientes comunicaciones verbales por parte del despachador de turno:
-a las 16:02 h se llamó a la RZS. La RZS había sido activada de forma independiente antes de esta llamada
-– por un ciudadano que reside cerca de la parada de tranvía «Wolkerova»;
-a las 16:03 h se notificó la IU a la PČR OŘ DI;
+### 3.5.1 Medidas adoptadas por los empleados del gestor de la vía y del transportista en materia de conducción, señalización y seguridad del tráfico
+La circulación de los trenes de tranvía se realiza de conformidad con lo dispuesto en el apartado § 18 del reglamento interno "Directriz OS/01/2006 - Reglamento de explotación D1 para la explotación de tranvías", aprobado el 30. 11. 2005, en vigor desde el 01. 01. 2006.
+### 3.5.2 Intercambio de comunicaciones verbales en relación con el suceso excepcional, incluidas las pruebas procedentes del dispositivo de registro
+Todas las comunicaciones verbales en relación con el SE se realizaron una vez producido el SE. El SE fue comunicado a las 16:02 por la conductora del tranvía de la línea n.º 6, turno 3, al despachista de turno. A continuación se realizaron las comunicaciones verbales efectuadas por el despachista de turno:
+a las 16:02 se llamó al RZS. El RZS fue activado de forma independiente incluso antes de esta llamada
 –
-a las 16:04 h salió del edificio de la centralita del operador un despachador móvil hacia el lugar de la IU;
+por un ciudadano que residía en las proximidades de la parada de tranvía "Wolkerova";
+a las 16:03 el SE fue comunicado a la PČR OŘ DI;
 –
-a las 16:07 h el despachador de turno recibió información del despachador móvil sobre las lesiones sufridas por la persona afectada;
+a las 16:04 el despachista móvil salió del edificio del despacho del gestor hacia el lugar del SE;
 –
-a las 16:08 h el despachador de turno fue informado por el conductor del tranvía de la línea n.º 6, servicio 4, sobre su parada en la parada «Fakultní nemocnice». No informó al despachador de turno de la producción de la IU;
+a las 16:07 el despachista de turno recibió información del despachista móvil sobre las lesiones
 –
-a las 16:11 h el despachador de turno del operador acordó con la PČR la liberación de la vía. Dado que el tranvía no se encontraba en el lugar de la IU, se decidió su traslado y estacionamiento en el terminal Nová ulice;
+sufridas por la persona afectada;
+a las 16:08 el despachista de turno fue informado por el conductor de la línea de tranvía n.º 6,
 –
-a las 16:12 h el despachador de turno del operador dio instrucciones al despachador móvil para que estacionara el tren.
+turno 4, de que se encontraba en la parada "Fakultní nemocnice". No informó al despachista de turno de la producción del SE;
+a las 16:11 el despachista de turno del gestor acordó con la PČR la liberación de la vía. Dado que
 –
-### 3.5.3 Medidas adoptadas para la protección y la seguridad del lugar del incidente excepcional
-La protección y la seguridad del lugar de producción de la IU fueron garantizadas por el operador de infraestructura en colaboración con la PČR y de conformidad con lo dispuesto en el apartado 4 del artículo 9 del Decreto n.º 376/2006 Coll. Por parte del operador se realizaron cambios irreversibles para garantizar la liberación de la vía y la reanudación del tráfico ferroviario, sin que se hubiera otorgado el consentimiento del DI, conforme a lo dispuesto en el apartado 3, letra c), del artículo 49 de la Ley n.º 266/1994 Coll. y en el apartado 3 del artículo 9 del Decreto n.º 376/2006 Coll., véase el punto 2.1.3. No se otorgó al DI COP el consentimiento para iniciar las labores de desescombro.
+la composición de tranvía no se encontraba en el lugar del SE, se decidió su traslado y estacionamiento en la maniobra Nová ulice;
+a las 16:12 el despachista de turno del gestor dio instrucción al despachista móvil
+–
+de estacionar la composición.
+### 3.5.3 Medidas adoptadas para la protección y la seguridad del lugar del suceso excepcional
+La protección y la seguridad del lugar de producción del SE fueron garantizadas por el gestor de la vía en colaboración con la PČR y de conformidad con lo dispuesto en el apartado § 9 apartado 4 del decreto n.º 376/2006 Sb. Por parte del gestor se realizaron cambios irreversibles para garantizar la liberación de la vía y la reanudación del tráfico ferroviario, sin que, en el sentido del apartado § 49 apartado 3 letra c) de la ley n.º 266/1994 Sb. y del apartado § 9 apartado 3 del decreto n.º 376/2006 Sb., hubiera sido otorgado para ello el consentimiento del DI, véase el punto 2.1.3. No fue otorgado por el DI COP el consentimiento para el inicio de los trabajos de despeje.
 ### 3.6 Condiciones laborales, sanitarias y de explotación
-### 3.6.1 Jornada laboral de los empleados del operador de infraestructura y del transportista que fueron participantes en el incidente
-Conductor del DV MTV tipo T3, núms. de inventario 144 y 145, línea n.º 6, servicio 4: comenzó su turno según el calendario de servicios por turnos el 02.06.2008 a las 13:06 h. Finalizó el turno anterior el 31.05.2008
+### 3.6.1 Jornada laboral de los empleados del gestor de la vía y del transportista que participaron en el suceso
+El conductor del DV MTV tipo T3, n.º de inventario 144 y 145, línea n.º 6, turno 4: entró en turno según el cuadrante de servicio rotativo del día 02. 06. 2008 a las 13:06. El turno anterior lo finalizó el día 31. 05. 2008
 
 ## Página 29
 
-v 12:46 h. El descanso previo al turno fue conforme a lo dispuesto en el artículo 90 de la Ley n.º 262/2006 Coll., Código del Trabajo, en su versión vigente.
-3.6.2 Estado de salud y situación personal que influyeron en el incidente excepcional,
+v 12:46 h. El descanso antes del turno se ajustó a lo dispuesto en el § 90 de la Ley núm. 262/2006 Sb.,
+Código del Trabajo, en su redacción vigente.
+3.6.2 Estado de salud y situación personal que influyeron en el suceso ferroviario,
 incluido el estrés físico o psicológico
-No se detectaron estado de salud ni situación personal que influyeran en la aparición del incidente excepcional (IU), incluido el estrés físico y psicológico de la persona participante en el IU.
-3.6.3 Disposición del equipamiento del puesto de control o del vehículo, que influye en su
-manejo y uso
-El conductor del vehículo de tracción múltiple (VTM) de tipo T3, núm. de serie 144 y 145, línea n.º 6, turno 4, conducía el VTM desde el puesto de conducción del VTM núm. de serie 144, situado en la parte delantera del vehículo, en una cabina cerrada y separada del espacio de transporte de pasajeros. La investigación no detectó circunstancias que impidieran al conductor del VTM participante en el IU tener visibilidad de la posición y el estado de los elementos y dispositivos de control, verificación y señalización situados en el puesto de conducción, incluida la visión en los espejos retrovisores situados en el interior y en el exterior del VTM.
-### 3.7 Incidentes excepcionales anteriores de carácter similar
-Dentro del ámbito de competencia de la Inspección Ferroviaria – Inspección Territorial de Ostrava, desde el 01.01.2003 (creación de la Inspección Ferroviaria) se han registrado incidentes excepcionales (IE) anteriores similares, en los que, en las vías de tranvía, debido al incumplimiento de las normas de explotación del transporte ferroviario, se produjo el atrapamiento y posterior arrastre de un pasajero:
-el 16.11.2005, con el operador de la vía y del transporte ferroviario, Empresa de Transporte de la Ciudad de Olomouc, s. a., en la vía de tranvía, se produjo un IE, cuando, al arrancar el tren de tranvía desde la parada «Palackého», cayó un pasajero que quedó atrapado en la puerta;
-el 03.04.2006, con el operador de la vía y del transporte ferroviario, Empresa de Transporte de Ostrava, s. a., en la vía de tranvía, se produjo un IE, cuando, tras bajar un pasajero en la parada «Náměstí Republiky», su perro, que estaba atado con correa, permaneció dentro del VTM. El tren de tranvía arrancó y arrastró al perro por el terraplén ferroviario. El perro sufrió lesiones graves;
-el 26.04.2007, con el operador de la vía y del transporte ferroviario, Empresa de Transporte de Ostrava, s. a., en la vía de tranvía, se produjo un IE, cuando, en la parada de la curva Hlavní nádraží - parada de salida, vía interior, tras cerrar las puertas de embarque y las puertas centrales de la segunda unidad del VTM, un pasajero abrió las puertas a la fuerza e intentó bajar en el momento de la salida del VTM hacia la parada de embarque. El pasajero quedó atrapado por las puertas y arrastrado.
-
+No se detectó el estado de salud y la situación personal que pudieran haber influido en la aparición del suceso ferroviario, incluido el estrés físico y psicológico de la persona implicada en el suceso ferroviario.
+3.6.3 Disposición del equipamiento del puesto de conducción o del vehículo, que influye en su
+manejo y utilización
+El conductor del DV del tranvía modelo T3, n.º de inventario 144 y 145, línea n.º 6, turno 4, condujo el DV desde el puesto de conducción del DV n.º de inventario 144, situado en la parte delantera del vehículo, en una cabina cerrada y separada del espacio de transporte de pasajeros. La investigación no detectó ninguna circunstancia que obstaculizara al conductor del DV implicado en el suceso ferroviario la visión de la posición y el estado de los elementos y dispositivos de mando, control y señalización situados en el puesto de conducción, incluida la visibilidad en los retrovisores situados en el interior del DV del tranvía y en el exterior del DV del tranvía.
+### 3.7 Sucesos ferroviarios anteriores de carácter similar
+En el ámbito de competencia de la Inspección Ferroviaria – Inspección Territorial de Ostrava se registran, a partir del 01. 01. 2003 (creación de la Inspección Ferroviaria), sucesos ferroviarios anteriores similares en los que, en las vías de tranvía, se produjo, debido al incumplimiento de las normas de explotación del transporte ferroviario, el atrapamiento y el posterior arrastre de un pasajero:
+el 16. 11. 2005, en el explotador de la vía y del transporte ferroviario en la vía de tranvía, Dopravní podnik města Olomouc, a. s., se produjo un suceso ferroviario en el que, al arrancar el tren de tranvía desde la parada „Palackého“, una pasajera cayó y fue atrapada en las puertas;
+el 03. 04. 2006, en el explotador de la vía y del transporte ferroviario en la vía de tranvía, Dopravní podnik Ostrava a. s., se produjo un suceso ferroviario en el que, tras bajar un pasajero en la parada „Náměstí Republiky“, su perro, que estaba atado con una correa, permaneció en el DV del tranvía. El tren de tranvía arrancó y arrastró al pasajero por el terraplén ferroviario. El pasajero sufrió lesiones graves para su salud;
+el 26. 04. 2007, en el explotador de la vía y del transporte ferroviario en la vía de tranvía, Dopravní podnik Ostrava a. s., se produjo un suceso ferroviario en el que, en la parada anillo Hlavní nádraží – parada de salida, vía interior, tras cerrar las puertas de acceso y las puertas intermedias del segundo DV del tranvía, un pasajero abrió violentamente las puertas e intentó bajar en el momento de la salida del DV del tranvía hacia la parada de acceso. El pasajero fue atrapado y arrastrado por las puertas.
 
 ## Página 30
+
 
 ## 4 ANÁLISIS Y CONCLUSIONES
 ### 4.1 Descripción final del incidente excepcional
@@ -814,26 +845,19 @@ Tras la puesta en movimiento del tren de tranvía de la línea n.º 6, turno 4, 
 
 ## Página 31
 
-de las puertas de embarque centrales. No fue utilizado por los pasajeros. El conductor registró la señal acústica de la bocina audible en la cabina. Reaccionó únicamente mirando al espacio de transporte de pasajeros DV MTV a través de los espejos retrovisores. El registro de la señal acústica audible por parte del conductor fue confirmado por el testigo n.º 7, que se encontraba en el área de embarque frente a las puertas de embarque delanteras junto a las puertas abiertas de la cabina del conductor. Dado que el conductor del tranvía supuso que uno de los botones de señalización había sido utilizado indebidamente, continuó su viaje hasta la siguiente parada, donde quería averiguar la causa de la señalización. Durante la activación de la instrucción "Señalización acústica al conductor", esta instrucción acústica fue completada visualmente entre las 16:01:26 h y las 16:01:28 h mediante la indicación de la luz piloto "Señalización de puertas", situada en el panel de instrumentos del conductor. El conductor no reaccionó ante dicha señalización deteniéndose y continuó su viaje hasta la parada "Fakultní nemocnica".
-
-Dado que el conductor no reaccionó ante las señales acústicas de emergencia, los pasajeros, "testigos" n.º 3 y 5, abrieron violentamente las puertas de embarque. A las 16:01:26 h, a una velocidad de 38,7 km/h, como consecuencia de la apertura violenta de las puertas de embarque DV MTV núm. de serie 145, la persona lesionada cayó al suelo cerca del terraplén ferroviario a una distancia de 100,5 m del lugar de origen del incidente. El desarrollo del accidente fue observado desde la plataforma de la parada "Wolkerova" por el acompañante de la persona lesionada y los testigos n.º 1 y 2. El testigo n.º 2 corrió tras el DV MTV en movimiento hasta el lugar donde cayó la persona lesionada.
-
-En el lugar del incidente intervinieron las unidades del SES, que fueron el SMS Olomouc y la PCŘ OŘ DI.
-
+de las puertas de entrada intermedias. No fue utilizado por los pasajeros. El conductor registró la señal audible del zumbador en la cabina. Reaccionó únicamente con una mirada al espacio de transporte para pasajeros del DV MTV a través de los retrovisores. El testigo n.º 7, situado en el espacio de acceso delante de las puertas de entrada delanteras junto a las puertas abiertas de la cabina del conductor, confirmó que el conductor había registrado la señal audible. Como el conductor del tranvía suponía que alguno de los botones de señalización había sido utilizado indebidamente, continuó la marcha hasta la siguiente parada, donde quería averiguar la causa de la señalización. Durante la activación de la instrucción «Señalización acústica al conductor», esta instrucción acústica fue visualmente complementada, en el período de 16:01:26 a 16:01:28 horas, por la indicación de la testigo luminosa «Señalización de puertas», situada en el panel de instrumentos del conductor. El conductor no reaccionó a dicha señalización deteniéndose y continuó la marcha hasta la parada «Fakultní nemocnice».
+Como el conductor no reaccionó a las señales acústicas de emergencia, los pasajeros, «testigos» n.º 3 y 5, abrieron parcialmente por la fuerza las puertas de entrada. A las 16:01:26 horas, a una velocidad de 38,7 km·h-1, como consecuencia de la apertura parcial forzada de las puertas de entrada del DV MTV n.º de ev. 145, la víctima cayó en las inmediaciones del cuerpo de la vía, a una distancia de 100,5 m del lugar de origen del MU. El suceso lo presenciaron desde el andén de la parada «Wolkerova» el acompañante de la víctima y los testigos n.º 1 y 2. El testigo n.º 2 corrió tras los DV MTV en marcha hasta el lugar de caída de la víctima.
+En el lugar del MU intervinieron los servicios del IZS, que fueron el RZS Olomouc y el PČR OŘ DI.
 ### 4.2 Análisis
-### 4.2.1 Evaluación de los hechos constatados según el punto 3 y presentación de las conclusiones sobre la causa del incidente extraordinario y la actividad de los servicios de rescate
-
-De la evaluación de los hechos constatados se desprende que el explotador de la vía, en relación con el incidente extraordinario objeto de estudio, garantizó, en el sentido de lo dispuesto en el apartado 1, letra a), del artículo 22 de la Ley n.º 266/1994 Coll., la explotación de la vía para las necesidades del transporte ferroviario fluido y seguro, de conformidad con las normas de explotación de la vía y la autorización oficial.
-
-Al investigar las causas y las circunstancias de la aparición del incidente extraordinario, no se pudo demostrar de manera fehaciente si el transportista, en el sentido de los procedimientos tecnológicos unitarios del transportista contenidos en la norma interna "Reglamento de tráfico D1 para el servicio de tranvías", en el apartado 9, letras a) a c), del artículo 24, garantizó que el conductor de la línea n.º 6, turno 4, en la parada "Wolkerova", antes de emitir la llamada a los pasajeros "No bajen – No suban", se asegurara mediante la mirada en los espejos retrovisores del final del embarque y desembarque de los pasajeros. No se pudo determinar de manera fehaciente el inicio del embarque de la abuela con la persona lesionada en las puertas DV MTV del tren de tranvías de la línea n.º 6, turno 4, es decir, si el embarque comenzó antes de que el conductor emitiera la llamada a los pasajeros "No bajen – No suban" o durante la emisión de dicha llamada.
-
-Según la declaración del conductor del tren de tranvías de la línea n.º 6, turno 4, y del testigo n.º 4, se desprende que al conductor en la parada "Wolkerova" nada le impedía observar la situación a lo largo del tren de tranvías.
-
-El explotador del transporte ferroviario, en el sentido de lo dispuesto en el apartado 1, letra a), del artículo 35 de la Ley n.º 266/1994 Coll., no garantizó la explotación del transporte ferroviario de conformidad con las normas de explotación del transporte ferroviario y la licencia vigente, ya que el conductor de la línea n.º 6, turno 4, antes de poner en movimiento el tren de tranvías a las 16:01:13 h, en el sentido de los procedimientos tecnológicos unitarios del transportista, contenidos en la norma interna "Reglamento de tráfico D1 para el servicio de tranvías", en el apartado 9, letra e), del artículo 24, no se aseguró mediante la mirada en los espejos retrovisores de la situación a lo largo del tren de tranvías y no comprobó que las puertas de embarque traseras cerradas del DV MTV controlado habían atrapado la extremidad inferior derecha de la persona lesionada en la zona de la pantorrilla, de tal manera que la parte restante del cuerpo de la persona lesionada, desde el punto de atrapamiento, era sostenida por la abuela en brazos fuera del DV MTV.
-
-Estas normas están establecidas, en el sentido del apartado 2 del artículo 33 del Decreto n.º 173/1995 Coll., por los procedimientos tecnológicos unitarios del transportista, contenidos en las disposiciones del reglamento de explotación "Reglamento de
+### 4.2.1 Evaluación de los hechos constatados de acuerdo con el punto 3 y exposición de las conclusiones sobre la causa del suceso extraordinario y la actuación de los servicios de rescate
+De la evaluación de los hechos constatados se desprende que el gestor de la vía, en relación con el MU en cuestión, garantizó, en el sentido de lo dispuesto en el § 22 apartado 1 letra a) de la Ley n.º 266/1994 Sb., la explotación de la vía para las necesidades del transporte ferroviario fluido y seguro de acuerdo con las normas de explotación de la vía y la autorización administrativa.
+Al investigar las causas y circunstancias de origen del MU, no fue posible determinar de manera comprobable si el transportista, en el sentido de los procedimientos tecnológicos uniformes del transportista contenidos en la norma interna «Reglamento de tráfico D1 para la explotación de tranvías», en el § 24 apartado 9 letras a) a c), garantizó que el conductor de la línea n.º 6, turno 4, en la parada «Wolkerova», antes de emitir el aviso a los pasajeros «No bajen – No suban», se asegurara mediante la mirada a los retrovisores de que hubiera finalizado el embarque y desembarque de los pasajeros. No fue posible determinar de manera comprobable el inicio del embarque de la abuela con la víctima en el DV MTV del tren de tranvía de la línea n.º 6, turno 4, es decir, si el embarque se inició antes de que el conductor emitiera el aviso a los pasajeros «No bajen – No suban» o bien durante la emisión del aviso.
+Según la declaración del conductor del tren de tranvía de la línea n.º 6, turno 4, y del testigo n.º 4, se desprende que al conductor no le impedía nada en la parada «Wolkerova» observar la situación a lo largo del tren de tranvía.
+El gestor del transporte ferroviario, en el sentido de lo dispuesto en el § 35 apartado 1 letra a) de la Ley n.º 266/1994 Sb., no garantizó la explotación del transporte ferroviario de acuerdo con las normas de explotación del transporte ferroviario y la licencia vigente, al no haberse asegurado el conductor de la línea n.º 6, turno 4, antes de poner el tren de tranvía en movimiento a las 16:01:13 horas, en el sentido de los procedimientos tecnológicos uniformes del transportista, contenidos en la norma interna «Reglamento de tráfico D1 para la explotación de tranvías» en el § 24 apartado 9 letra e), mediante la mirada a los retrovisores, de la situación a lo largo del tren de tranvía, y no detectó que las puertas de entrada traseras cerradas del DV MTV conducido aprisionaron la extremidad inferior derecha de la víctima en la zona de la pantorrilla, de manera que desde el punto de aprisionamiento el resto del cuerpo de la víctima lo sostenía la abuela en brazos en el exterior del DV MTV.
+Estas normas están establecidas, en el sentido del § 33 apartado 2 del decreto n.º 173/1995 Sb., por los procedimientos tecnológicos uniformes del transportista, contenidos en las disposiciones del reglamento de explotación «Reglamento de
 
 ## Página 32
+
 
 el reglamento D1 para el tráfico de tranvías“, § 24 apartado 9 letra e), donde se indica:
 apartado 9 letra e)
@@ -858,6 +882,7 @@ las puertas de embarque centrales de la unidad motriz (DV) del tranvía MTV n.º
 Al investigar las causas y circunstancias de la producción del accidente de que se trata, en relación con las explicaciones presentadas por el empleado del explotador, el conductor y otras personas, testigos 4, 5 y 7, no se pudo determinar si los testigos del accidente accionaron el botón de señalización «Señal al conductor» conforme a la instrucción del explotador, es decir, si la instrucción «ALTO PELIGRO» (según el pictograma situado sobre el botón de señalización) / «Peligro – deténgase con todos los medios» (según el Reglamento de tráfico D1 para el tráfico de tranvías) estaba formada por cuatro sonidos cortos del timbre en la cabina del conductor que se repetían continuamente hasta que el tren tranviario se detuviera en la siguiente parada del Hospital Universitario, o si la instrucción dada por los pasajeros en una situación de extrema urgencia estaba formada por una mezcla de sonidos cortos y largos del timbre que se repetían continuamente, es decir, a tenor del § 65 apartado 8 del Reglamento de tráfico D1 para el tráfico de tranvías, una señal dudosa o poco clara,
 
 ## Página 33
+
 
 cuya naturaleza debe considerarse como una señal de carácter más grave o una señal prohibitiva, y que cada empleado del operador está obligado a obedecer de inmediato.
 
@@ -889,6 +914,7 @@ El DV MTV de tipo T3, nº 145, número de fabricación 158854, posee un Certific
 
 ## Página 34
 
+
 Los DV MTV núm. de serie 144 y 145 están equipados con tres puertas de embarque de cuatro hojas, que se pliegan hacia el interior del vagón y están acristaladas en la parte superior e inferior con vidrio de seguridad. En el lado interior de las puertas de embarque están fijados los tiradores de acceso. Los bordes exteriores de ambas hojas de las puertas están provistos de cantos de goma. El accionamiento de las puertas es electromecánico. El mecanismo destinado a la apertura, cierre, ajuste y guiado de las puertas de embarque está alojado bajo una cubierta de chapa situada sobre las puertas. La parte inferior de las puertas de embarque no está bloqueada en dirección longitudinal. Con las puertas de embarque cerradas, la distancia mutua de los cantos de goma en la parte inferior está determinada únicamente por la rigidez de los goznes de las hojas de las puertas de embarque. Esta solución constructiva permite ajustar la holgura prescrita entre los cantos de goma de las puertas de embarque únicamente en la parte superior de las puertas y no garantiza el cumplimiento de la holgura prescrita a lo largo de toda la longitud de las puertas de embarque. La parte inferior de las puertas de embarque no está bloqueada en dirección longitudinal. Debido a las holguras en los goznes de las hojas de las puertas de embarque, el valor de la distancia mutua de los cantos de goma en la parte inferior de las puertas de embarque, en comparación con la parte superior de las puertas de embarque del DV MTV núm. de serie 145, donde se realiza el ajuste del mecanismo de bloqueo de la circulación, resultó ser diferente (véase el punto 3.4.4 Hallazgos de la comisión sobre el estado técnico del DV MTV). En dirección transversal, la parte inferior de las puertas de embarque está asegurada mediante segmentos de guiado cortos, que únicamente impiden la desviación de las puertas cuando están cerradas. Las puertas se accionan desde la cabina del conductor. Los DV MTV están equipados con elementos de bloqueo de la circulación cuando las puertas de embarque están entreabiertas. Esta función la cumple el relé de bloqueo de puesta en marcha BDR conectado en el circuito del contactor principal, que impide poner en movimiento los DV MTV y aumentar la velocidad mediante la potencia de tracción cuando las puertas están entreabiertas más de 2 – 3 cm entre los cantos de goma. La condición para poner en movimiento los DV MTV por su propia fuerza es el cierre del circuito del contactor principal LS. El circuito del contactor principal LS se cierra, entre otras cosas, a través de los contactos de reposo del relé de bloqueo de puesta en marcha BDR. El estado inicial del relé BDR es: relé desconectado, es decir, no está cerrado el circuito desde el interruptor VŘ 10 a través del fusible PO 24 (10A) y los contactos de bloqueo de las puertas DK 1 a DK 3 – las puertas de embarque están cerradas.
 
 El ajuste del bloqueo de las puertas lo realizan los empleados de mantenimiento en la parte superior de las puertas de embarque girando mecánicamente el núcleo del motor de accionamiento de las puertas para lograr una distancia del canto de goma de las hojas de las puertas de 2 a 3 cm dentro del marco de la inspección de los DV MTV. El ajuste propiamente dicho se realiza de tal manera que, cuando la distancia del canto de goma de las puertas en la parte superior de las hojas supera los 2 a 3 cm, debe activarse el contacto de bloqueo de las puertas de embarque conectado en el circuito del relé BDR, el cual interrumpe el circuito del contactor principal LS.
@@ -909,6 +935,7 @@ Estos estados fueron causados por la deformación (hundimiento) de los cantos de
 El mecanismo destinado a la apertura, cierre, ajuste y guiado de las puertas de embarque permite ajustar los parámetros prescritos entre los cantos de goma de las puertas de embarque únicamente en la parte superior de las puertas, pero no garantiza el cumplimiento de los parámetros prescritos a lo largo de toda la longitud de las puertas de embarque, lo cual se debe a la circunstancia de que la parte inferior de las puertas de embarque no está bloqueada en dirección longitudinal (véase el primer párrafo).
 
 ## Página 35
+
 
 La no garantía del funcionamiento del bloqueo de las puertas de embarque del DV MTV nº de serie 145, cuando la distancia de los bordes de goma superaba los 2 - 3 cm, provocó, en relación con lo dispuesto en el reglamento «DESCRIPCIÓN – MANIOBRA – PRUEBAS MANTENIMIENTO DEL EQUIPAMIENTO ELÉCTRICO TR 37» (TKS/Z1-6/67, T – 50235; 6/67-TKS/Z1, T – 50171; 6/67-TKS/Z1, T – 50172; 6/67-TKS/Z1, T – 50173; 6/1967-Z1, T – 50174; TKS/Z1-6/67, T – 50233) para vehículos ferroviarios de ferrocarril tranviario de tipo T3 con números de fabricación ### 158 825 a 158 894 del fabricante ČKD Praha, y del reglamento «DESCRIPCIÓN – MANIOBRA – PRUEBAS MANTENIMIENTO DEL EQUIPAMIENTO ELÉCTRICO TR 37» (TKS4/Hanuš 28. 02. 1972, T – 50235/3) en su versión vigente, el incumplimiento de lo dispuesto en el apartado 1, letra d), del artículo 35 de la ley nº 266/1994 Coll., lo que tuvo como consecuencia la puesta en servicio de un vehículo ferroviario en un estado técnico que no correspondía a la aptitud aprobada.
 
@@ -933,6 +960,7 @@ La causa fundamental relacionada con la cualificación y los procedimientos fue,
 Al no asegurarse de la situación a lo largo del tren tranviario de la línea nº 6, turno 4, y al no detectar al viajero lesionado atrapado en las puertas de embarque del DV MTV nº de serie 145, cuando nada impedía detectar la situación a lo largo del tren tranviario, se produjo, en relación con lo dispuesto en el apartado 9, letra e), del artículo 24 del reglamento interno «Reglamento de circulación D1 para el servicio tranviario», el incumplimiento de lo dispuesto en el apartado 1, letra a), del artículo 35 de la ley nº 266/1994 Coll., lo que tuvo como consecuencia un grave peligro para la seguridad
 
 ## Página 36
+
 
 de la explotación del transporte ferroviario.
 
@@ -960,6 +988,7 @@ La no garantía del funcionamiento del bloqueo de las puertas de embarque del DV
 
 ## Página 37
 
+
 – 50233) para vehículos ferroviarios de la vía tranviaria de tipo T3, números de fabricación 158 825 a 158 894, del fabricante ČKD Praha, y del reglamento «DESCRIPCIÓN – MANIOBRA – ENSAYO MANTENIMIENTO DEL EQUIPAMIENTO ELÉCTRICO TR 37» (TKS4/Hanuš 28. 02. 1972, T – 50235/3), en su versión vigente, al incumplimiento de lo dispuesto en el apartado 1, letra d), del artículo 35 de la ley n.º 266/1994 Coll., lo cual tuvo como consecuencia la puesta en servicio de un vehículo ferroviario en un estado técnico que no correspondía a la aptitud aprobada.
 ## 5 MEDIDAS ADOPTADAS
 ### 5.1 Relación de las medidas que ya se han adoptado o tomado como consecuencia del incidente extraordinario
@@ -976,8 +1005,8 @@ todos los tranvías explotados por DPMO, a. s., se equiparon con adhesivos que c
 La Inspección Ferroviaria, como autoridad competente de acuerdo con lo dispuesto en el apartado 5 del artículo 53b de la ley n.º 266/1994 Coll., sobre vías férreas, sobre la base de los resultados de la investigación de las causas y circunstancias de la aparición del IE, recomienda al explotador del transporte ferroviario, Dopravní podnik města Olomouce, a. s., que utiliza para la explotación del transporte ferroviario vehículos ferroviarios de vía tranviaria (DV MTV) de tipo T3 y tipos derivados, que están equipados con puertas de embarque de cuatro hojas que se pliegan hacia el interior del vehículo, con un mecanismo electromecánico destinado a la apertura, cierre, ajuste y guiado de las puertas de embarque, instalado bajo una cubierta de chapa situada sobre las puertas, con la parte inferior de las puertas no bloqueada en dirección longitudinal, y que, en el sentido del cambio «Cambio en el equipamiento eléctrico T3 CS/ desde el año 1971», aplicable también a la serie de vehículos ferroviarios del tipo T3 fabricados antes de 1971, mencionados en la documentación del fabricante «DESCRIPCIÓN – MANIOBRA – ENSAYO MANTENIMIENTO DEL EQUIPAMIENTO ELÉCTRICO TR 37» (TKS4/Hanuš 28. 02. 1972, T– 50235/3), «Hoja ilustrada n.º 3», en su versión vigente, se doten de un relé de bloqueo DBR con los circuitos correspondientes, que impidan la puesta en marcha del DV MTV con las puertas de embarque entreabiertas más de 2 – 3 cm entre los bordes de goma, se recomiendan las siguientes:
 – en el marco de las inspecciones de control del DV MTV, ajustar y calibrar el bloqueo de las puertas de embarque en el límite inferior de la distancia prescrita de los bordes de goma, de modo que la distancia de los bordes de goma, incluso en la parte inferior de las puertas de embarraje cerradas, no supere los 2 cm;
 
-
 ## Página 38
+
 
 – en el marco de las inspecciones de control del DV MTV, realizar la comprobación y el ajuste de la holgura de las bisagras (brazos) de las puertas, de modo que se limite la apertura cónica-longitudinal de las puertas de embarque, que no están bloqueadas en la parte inferior en dirección longitudinal.
 La Inspección Ferroviaria, de conformidad con lo dispuesto en el apartado 5 del artículo 53b de la ley n.º 266/1994 Coll., sobre vías férreas, en su versión vigente, recomienda al explotador del transporte ferroviario, Dopravní podnik města Olomouce, a. s., que utiliza para la explotación del transporte ferroviario vehículos ferroviarios de vía tranviaria (DV MTV) de tipo T3 y tipos derivados, lo siguiente:
@@ -997,20 +1026,20 @@ inspector jefe
 De la Inspección Territorial de Ostrava
 Inspección Territorial de Ostrava
 
-
 ## Página 39
+
 
 ## 7 ANEXOS
 Foto 1: Lugar de aparición del IE - andén de la parada Wolkerova
 Foto 2: Lugar de caída del viajero
 
-
 ## Página 40
+
 
 Foto 3: El DV MTV se puso en marcha con este objeto insertado
 Foto 4: Lugar de atrapamiento de extremidades del lesionado
 
-
 ## Página 41
+
 
 Foto 5: Botón «Señal al conductor» con pictograma

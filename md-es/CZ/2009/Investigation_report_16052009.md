@@ -10,13 +10,14 @@ chars: 75970
 ratio_longitud: 1.24
 tokens_in: 46237
 tokens_out: 30059
-verificacion: revisar
-notas_cifras: ["bloque 2: original bilingüe: se compara contra el idioma principal (CS)", "bloque 3: original bilingüe: se compara contra el idioma principal (CS)", "bloque 4: original bilingüe: se compara contra el idioma principal (CS)", "bloque 5: original bilingüe: se compara contra el idioma principal (CS)", "bloque 10: original bilingüe: se compara contra el idioma principal (CS)"]
-avisos: ["bloque 4: ratio 1.61", "bloque 10: ratio 1.70"]
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 5: original bilingüe: se compara contra el idioma principal (EN)", "página 6: original bilingüe: se compara contra el idioma principal (PT)", "página 9: original bilingüe: se compara contra el idioma principal (PL)", "página 10: original bilingüe: se compara contra el idioma principal (CS)", "página 11: original bilingüe: se compara contra el idioma principal (CS)", "página 12: original bilingüe: se compara contra el idioma principal (PT)"]
 ---
+
 ## Página 1
+
 
 Inspección Ferroviaria
 República Checa
@@ -44,11 +45,12 @@ CIF:   75009561
 http://www.dicr.cz
 fax: (+420) 224 805 428
 
-
 ## Página 2
 
 
+
 ## Página 3
+
 
 # RESUMEN
 Grado:
@@ -86,11 +88,12 @@ teniendo en cuenta las situaciones en las que los topes situados en la parte
 inferior del patio no son eficaces debido a la masa de los vagones y a su
 distancia respecto de los topes.
 
-
 ## Página 4
 
 
+
 ## Página 5
+
 
 # Índice
  Resumen .............................................................................................................................3
@@ -117,6 +120,7 @@ distancia respecto de los topes.
 3 Registro de las explicaciones prestadas ................................................................................15
 
 ## Página 6
+
 
 3.1 Resumen de las explicaciones facilitadas ...................................................................................15
 3.1.1 Personal del gestor de la infraestructura y del transportista, incluidas las personas en relación contractual ...............................................................................................................15
@@ -147,8 +151,8 @@ distancia respecto de los topes.
 4 Análisis y conclusiones ............................................................................................................24
 4.1 Descripción definitiva del suceso excepcional ..........................................................................24
 
-
 ## Página 7
+
 
 4.1.1 Descripción definitiva del suceso excepcional basada en los hechos constatados en el punto 3 ............................................................................................................................24
 4.2 Análisis ......................................................................................................................25
@@ -164,10 +168,12 @@ distancia respecto de los topes.
 6 Recomendaciones de seguridad .............................................................................................29
 7 Anexos .............................................................................................................................30
 
-
 ## Página 8
 
+
+
 ## Página 9
+
 
 ## 1 RESUMEN
 Clasificación del suceso:
@@ -205,76 +211,36 @@ Recomendaciones de seguridad: dirigidas al transportista ČD Cargo, a. s.:
 las vías del grupo de dirección de la estación de ferrocarril Česká Třebová quede garantizada 
 también en el caso de que el peso del grupo de vagones y su distancia respecto de los topes 
 de seguridad, situados en el extremo inferior de las vías del grupo de dirección, no garanticen 
-la eficacia de dichos topes. 
-
+la eficacia de dichos topes.
 
 ## Página 10
 
 ## 2 DATOS RELATIVOS AL SUCESO EXTRAORDINARIO
 ### 2.1 Suceso extraordinario
 ### 2.1.1 Fecha, hora exacta y lugar del suceso extraordinario
-El suceso extraordinario (en adelante MU) se produjo el 16. 5. 2009 a las 21:50 h en el 
-ferrocarril de ámbito nacional, línea 501B Svitavy – Česká Třebová, en la estación de ferrocarril 
-(en adelante est.) Česká Třebová. El lugar donde se inició el descarrilamiento espontáneo del grupo de vagones fue el «Grupo de dirección» y el lugar donde el grupo de vagones 
-dio fin a la circulación tras la colisión fue el «Grupo de salida» 
-de vías.
-### 2.1.2 Descripción del suceso extraordinario y del lugar del accidente, incluida la actuación del sistema 
-integrado de emergencias y del servicio de rescate
-De la vía n.º 233 se desprendió un grupo de cinco vagones de carga que, durante la circulación 
-no autorizada, superó los topes de seguridad de la vía indicada, forzó la aguja n.º 294b y dio 
-fin a la circulación no autorizada en la vía muerta n.º T 408 con una colisión con el vehículo 
-ferroviario de tracción estacionado (en adelante HDV). Tras la colisión se produjo el 
-descarrilamiento de dos vagones y del HDV.
-El 16 de mayo de 2009, a las 17:36 h, llegó el tren Pn 61312 a la vía n.º 106 del grupo de entrada 
-de la est. Česká Třebová. Entre las 20:04 y las 20:18 h se realizó la maniobra de 
-despacho del mencionado tren. Mediante el dispositivo de la ladera de clasificación, el grupo de cinco vagones de carga de cuatro ejes de la serie Shimms 
-fue descendido a la vía n.º 233 y detenido por dos topes, colocados a unos 100 m por debajo 
-de la última serie de frenos de vía. Según las explicaciones prestadas, el maniobrador-acoplador aseguró el grupo 
-mediante el apriete del freno manual del primer vagón del grupo, comprobó el funcionamiento 
-del freno y retiró los topes. A continuación aflojó el freno manual y dejó descender el grupo 
-por gravedad unas 60 metros más allá del lugar original de detención. Mediante el apriete del freno manual detuvo el grupo, comprobó el funcionamiento 
-del freno y se marchó de dicho grupo de vagones asegurado para cumplir otras obligaciones laborales.
-Durante el descenso y la liberación del grupo, se encontraba en el extremo inferior de la vía n.º 233 la composición del tren 
-Pn 63442, que a las 21:10 h fue trasladada por maniobra a la vía n.º 15 y de esta vía 
-posteriormente partió. El empleado autorizado para dirigir maniobras, que trabajaba en la parte inferior 
-de la estación de clasificación, en el ámbito del enclavamiento 039 «Střed», 
-tras la partida del tren Pn 63442 colocó en la vía n.º 233, a la altura de los topeagujas, dos topes de seguridad. Hacia las 21:45 h, a través de la ventana de su puesto de trabajo junto al enclavamiento 039 «Střed», oyó el sonido de vagones en movimiento. 
-Tras comprobar que se desplazaban sin control, informó por radio del suceso 
-al jefe de estación del enclavamiento 039 «Střed» y al de «Nádražní». El jefe de estación del enclavamiento 039 «Střed», tras recibir la información 
-sobre el grupo de vagones que se desprendía de la vía n.º 233, intentó accionar la aguja n.º 296a en dirección al desvío de seguridad VK-M. Sin embargo, no llegó a hacerlo. Se produjo el forzamiento de la aguja 
-n.º 294b y los vagones continuaron su marcha por la 2.ª vía de descenso. El jefe de estación del enclavamiento 019 «Panel – Jih», tras recibir la información telefónica sobre la separación del grupo de cinco vagones del jefe de estación del enclavamiento 039 
-«Střed», estableció una ruta de maniobra desde la 2.ª vía de descenso hacia la vía n.º 15. Por radio dio 
-al empleado que dirigía las maniobras en el ámbito «Grupo de salida Jih» la instrucción de detener la composición en marcha colocando topes. Este empleado ya no llegó a colocar los topes 
-delante de la composición en marcha en la vía n.º 15. De este hecho informó por radio 
-al jefe de tren-preparador del puesto «Grupo de salida Sever» y al jefe de estación del enclavamiento
+El suceso extraordinario (en adelante, SE) se produjo el día 16. 5. 2009 a las 21:50 horas en la vía férrea de ámbito nacional, línea 501B Svitavy – Česká Třebová, en la estación ferroviaria (en adelante, est.) Česká Třebová. El lugar donde se inició la marcha incontrolada del grupo de vagones fue el «Grupo de enclavamiento de vía» («Směrová skupina») y el lugar donde el grupo de vagones detuvo la marcha tras la colisión fue el «Grupo de enclavamiento de salida» («Odjezdová skupina»).
+### 2.1.2 Descripción del suceso extraordinario y del lugar del accidente, incluida la actuación del sistema integrado de emergencias y del servicio de rescate
+De la vía n.º 233 se desprendió un grupo de cinco vagones de mercancías que, durante la marcha no autorizada, superó las tope de seguridad en dicha vía, forzó la aguja n.º 294b y puso fin a la marcha no autorizada en la vía muerta n.º T 408 mediante una colisión con una locomotora estacionada (en adelante, HDV). Tras la colisión se produjo el descarrilamiento de dos vagones y de la HDV.
+El día 16 de mayo de 2009, a las 17:36 horas, llegó el tren Pn 61312 a la vía n.º 106 del grupo de entrada de la est. Česká Třebová. Entre las 20:04 y las 20:18 horas se realizó la maniobra de descomposición del mencionado tren. Mediante el equipo de maniobras de clasificación, el grupo de cinco vagones de mercancías de cuatro ejes cargados de la serie Shimms se descendió a la vía n.º 233 y se detuvo con dos topes, colocadas a unos 100 m por debajo del último juego de frenos de vía. Según las explicaciones facilitadas, el maniobrador-acoplador aseguró el grupo apretando el freno de mano del primer vagón del grupo, comprobó el funcionamiento del freno y retiró los topes. A continuación, aflojó el freno de mano y dejó que el grupo descendiera por gravedad unos 60 metros más allá de su posición original de detención. Mediante el apretado del freno de mano detuvo el grupo, comprobó el funcionamiento del freno y se marchó de dicho grupo de vagones asegurado para cumplir otras obligaciones laborales.
+Durante el descenso y la liberación del grupo, se encontraba en el extremo inferior de la vía n.º 233 la composición del tren Pn 63442, que a las 21:10 horas fue trasladada por maniobra a la vía n.º 15 y posteriormente partió de dicha vía. El empleado autorizado para dirigir maniobras, que trabajaba en la parte inferior de la estación de clasificación, en el ámbito del enclavamiento 039 «Střed», tras la salida del tren Pn 63442 colocó en la vía n.º 233, a la altura de los topes de vía, dos topes de seguridad. Hacia las 21:45 horas, a través de la ventana de su puesto junto al enclavamiento 039 «Střed», oyó el sonido de vagones en movimiento. Al comprobar que se desplazaban de forma incontrolada, informó por radio del suceso ocurrido al jefe de maniobras de los enclavamientos 039 «Střed» y «Nádražní». El jefe de maniobras del enclavamiento 039 «Střed», tras recibir la información sobre el grupo de vagones que se desprendía de la vía n.º 233, intentó accionar la aguja n.º 296a en dirección al desvío de seguridad VK-M. Sin embargo, no llegó a hacerlo. Se produjo el forzado de la aguja n.º 294b y los vagones continuaron su marcha por la 2.ª vía de tracción. El jefe de maniobras del enclavamiento 019 «Panel – Jih», tras recibir por teléfono la información de la desprendimiento del grupo de cinco vagones por parte del jefe de maniobras del enclavamiento 039 «Střed», estableció una ruta de maniobra desde la 2.ª vía de tracción hacia la vía n.º 15. Por radio dio instrucciones al empleado que dirigía las maniobras en el ámbito «Grupo de salida Sur» («Odjezdová skupina Jih») para detener la composición en marcha mediante la colocación de topes. Este empleado ya no llegó a colocar los topes delante de la composición en marcha en la vía n.º 15. De este hecho informó por radio al jefe de tren-preparador del puesto «Grupo de salida Norte» («Odjezdová skupina Sever») y al jefe de maniobras del
 
 ## Página 11
 
-019 «Panel – Jih». El jefe de tren-preparador de la posición «Grupo de Salida Norte», tras recibir la llamada emitida por radio desde el empleado que dirigía las maniobras en el ámbito «Grupo de Salida Sur» y la llamada telefónica del jefe de estación del enclavamiento 019 «Panel – Jih», salió corriendo de su posición junto a la vía n.º 7, en el ámbito «Grupo de Salida Norte», y colocó los topes en la vía n.º 15. Tras la entrada de los vehículos en fuga sobre los topes, uno cayó de inmediato y el otro tras 15 metros de deslizamiento sobre la cabeza del raíl. El grupo de vehículos puso fin a la circulación no autorizada a las 21:50 horas en la vía muerta n.º T 408, donde chocó con la locomotora HDV n.º 742.523-4 estacionada. Tras el choque se produjo la descarrilación de este vehículo y del primer vehículo del grupo por todos sus ejes. El segundo vehículo del grupo descarriló con el primer bogie en el sentido de la marcha. El grupo de vehículos en fuga recorrió desde el lugar de la fuga hasta el lugar del choque con la HDV una distancia de aprox. 2500 metros.
-
-La comunicación de la aparición de la MU y la activación del Sistema Integrado de Emergencias la realizó el jefe de estación de la est. Česká Třebová. En el lugar intervinieron la unidad de intervención del Cuerpo de Bomberos de SŽDC, s. o. (en adelante HZS SŽDC, s. o.) y la Policía de la República Checa.
-
-2.1.3 Decisión de iniciar la investigación de las causas y circunstancias de la aparición, composición del equipo de personas cualificadas y método de dirección de la investigación de las causas y circunstancias de la aparición
-
+019 „Panel – Jih“. El jefe de tren-preparador del puesto „Odjezdové skupiny Sever“ (Grupo de salida Norte), tras recibir la indicación dada por radio por parte del empleado que dirigía las maniobras en el ámbito „Odjezdové skupiny Jih“ (Grupo de salida Sur) y la indicación telefónica del jefe de estación de la casilla de enclavamiento 019 „Panel – Jih“, salió corriendo de su puesto junto a la vía n.º 7, en el ámbito „Odjezdové skupiny Sever“, y colocó los topes en la vía n.º 15. Tras la entrada de los vagones en fuga sobre los topes, uno cayó inmediatamente y el otro tras 15 metros de arrastre sobre la cabeza del raíl. El grupo de vagones puso fin a la circulación no autorizada a las 21:50 horas en la vía muerta n.º T 408, donde chocó con la locomotora HDV n.º 742.523-4 estacionada. Tras el choque se produjo el descarrilamiento de este vehículo y del primer vagón del grupo con todos sus ejes. El segundo vagón del grupo descarriló con el primer bogie en el sentido de la marcha. El grupo de vagones en fuga recorrió desde el punto de arranque hasta el punto de colisión con la HDV una distancia de aproximadamente 2500 metros.
+La comunicación de la aparición de la MU y la activación del Sistema Integrado de Emergencia la realizó el jefe de estación de la est. Česká Třebová. En el lugar actuó la unidad de intervención del Cuerpo de Bomberos y Rescate de SŽDC, s. o. (en adelante HZS SŽDC, s. o.) y la Policía de la República Checa.
+2.1.3 Decisión de iniciar la investigación de las causas y circunstancias de la aparición, composición del equipo de personas cualificadas y forma de dirigir la investigación de las causas y circunstancias de la aparición
 La aparición de la MU fue comunicada a la Inspección Ferroviaria (en adelante DI) en el Centro Central de Notificación (en adelante COP) a las 22:45 horas por un empleado del operador.
-
-El inspector superior (en adelante VI) del COP decidió el desplazamiento y el inicio de la investigación de las causas y circunstancias en el lugar de la aparición de la MU. La investigación de las causas y circunstancias de la aparición de la MU fue encomendada al VI de la Inspección Territorial de Brno.
-
-La propia investigación de las causas y circunstancias de la aparición de la MU fue realizada por la DI de conformidad con el § 53, letra b), de la Ley n.º 266/1994 Sb., de ferrocarriles, en su redacción vigente (en adelante la Ley), y con el § 11 y el § 12 del Decreto n.º 376/2006 Sb., sobre el sistema de seguridad de la explotación del ferrocarril y del transporte ferroviario y los procedimientos en caso de aparición de sucesos excepcionales en los ferrocarriles (en adelante el Decreto n.º 376).
-
-El método de procedimiento de la investigación de las causas y circunstancias de la aparición de la MU se estableció operativamente según la evolución de la investigación, incluido el uso de consultas con otras personas cualificadas de la DI. En la investigación se partió de los propios conocimientos, de los hallazgos en el lugar de la MU y, asimismo, de la documentación elaborada por el operador del ferrocarril y del transporte ferroviario, incluidas las actas con los empleados participantes. El motivo para iniciar la investigación de la MU fue la solicitud del titular extranjero de los vehículos en fuga «Shimms», de la sociedad Cargo Slovakia, a. s., recibida por la Inspección Ferroviaria el 25. 9. 2009.
-
+El inspector jefe (en adelante VI) del COP decidió el desplazamiento y el inicio de la investigación de las causas y circunstancias en el lugar de aparición de la MU. La investigación de las causas y circunstancias de la aparición de la MU fue encomendada al VI de la Inspección Territorial de Brno.
+La propia investigación de las causas y circunstancias de la aparición de la MU fue realizada por la DI de conformidad con el § 53 letra b) de la ley n.º 266/1994 Sb., de ferrocarriles, en su redacción vigente (en adelante ley), y el § 11 y el § 12 del decreto n.º 376/2006 Sb., sobre el sistema de seguridad de la explotación del ferrocarril y del transporte ferroviario y los procedimientos en caso de aparición de sucesos excepcionales en los ferrocarriles (en adelante decreto n.º 376).
+La forma de proceder en la investigación de las causas y circunstancias de la aparición de la MU se estableció de forma operativa según el desarrollo de la investigación, incluido el uso de consultas con otras personas cualificadas de la DI. En la investigación se partió de los propios conocimientos, de los hallazgos en el lugar de la MU y asimismo de la documentación elaborada por el operador del ferrocarril y del transporte ferroviario, incluidas las actas con los empleados participantes. El motivo para el inicio de la investigación de la MU fue la solicitud del titular extranjero de los vagones en fuga „Shimms“, de la sociedad Cargo Slovakia, a. s., recibida por la Inspección Ferroviaria el 25. 9. 2009.
 ### 2.2 Circunstancias del suceso excepcional
-
 ### 2.2.1 Empleados participantes del operador del ferrocarril y del transportista, personas en relación contractual y demás participantes y testigos
-
 Empleados participantes del operador:
-
-● maniobrador-enlazador «Grupo de Dirección», empleado de ČD Cargo, a. s., centro de explotación Česká Třebová;
-● jefe de maniobras «Centro», empleado de ČD Cargo, a. s., centro de explotación Česká Třebová;
-
+● maniobrador-enlace „Směrová skupina“ (Grupo de dirección), empleado de ČD Cargo, a. s., centro de explotación Česká Třebová;
+● jefe de maniobras „Střed“, empleado de ČD Cargo, a. s., centro de explotación Česká Třebová;
 
 ## Página 12
+
 
 ● jefe de estación del enclavamiento 039 «Centro», empleado de ČD, a. s., est. Česká Třebová;
 ● jefe de estación del enclavamiento 019 «Panel – Sur», empleado de ČD, a. s., est. Česká Třebová;
@@ -302,8 +268,8 @@ Los topes de seguridad, situados en el extremo inferior de la vía n.º 233, en 
 
 El grupo de vehículos en fuga recorrió desde el lugar de la fuga en la vía n.º 233 hasta el lugar del choque con la HDV, estacionada en la vía n.º T 408, una distancia de aprox. 2500 metros. En este recorrido, su movimiento se inició por una pendiente de hasta 2,5 ‰ (aprox. 730 metros), de hasta 20 ‰ (aprox. 470 metros) y de hasta 5 ‰ (aprox. 1300 metros). Las circunstancias que influyeron en la longitud total del recorrido del grupo de vehículos en fuga se indican en el capítulo 4.2.1 de este Informe Final.
 
-
 ## Página 13
+
 
 ### 2.2.4 Uso de medios de comunicación
 
@@ -319,30 +285,30 @@ En el lugar de la MU no se estaban realizando, inmediatamente antes de su aparic
 
 ## Página 14
 
-### 2.2.6 Activación del plan para el caso de una incidencia en la vía y secuencia de acontecimientos
-Tras la notificación de la creación de la MU, el jefe de estación procedió conforme al Calendario de notificaciones del explotador. VI ČD, a. s., de la Inspección Regional de Seguridad del Transporte Ferroviario de Česká Třebová (en adelante RIBŽD) notificó la creación de la MU al COP DI a las 22:45 horas. VI COP DI notificó la creación de la MU a la Inspección Territorial de Brno.
-La MU fue notificada a la DI en el sentido del decreto n.º 376 sin demora innecesaria, inmediatamente después de conocer los hechos necesarios para la notificación inicial. En calidad de explotador de la vía, la investigación de las causas y circunstancias de la creación de la MU fue encomendada a VI RIBŽD, persona autorizada y profesionalmente competente.
+### 2.2.6 Activación del plan para el caso de incidente excepcional en la vía y secuencia de acontecimientos
+Tras la notificación de la creación de un IE, el jefe de maniobras procedió conforme al Calendario de notificaciones del explotador. VI ČD, a. s., de la Inspección Regional de Seguridad del Transporte Ferroviario de Česká Třebová (en adelante RIBŽD) notificó la creación de un IE al COP DI a las 22:45 horas. VI COP DI notificó la creación de un IE a la Inspección Territorial de Brno.
+El IE fue comunicado a la DI en el sentido del decreto n.º 376 sin demora injustificada inmediatamente después de conocer los hechos necesarios para la notificación inicial. En nombre del explotador de la vía, la investigación de las causas y circunstancias de la creación del IE fue encomendada a VI RIBŽD, persona encargada, competente profesionalmente.
 Se cumplió el procedimiento conforme al calendario de notificaciones de ČD, a. s.
-Tras la inspección del lugar de la MU por la Policía de la República Checa, VI RIBŽD y el VI DI presente, el día 17. 5. 2009 a las 2:05 horas se concedió a la DI el permiso para iniciar los trabajos de limpieza.
-En el lugar de la MU se aseguró la documentación del tráfico.
+Tras la inspección del lugar del IE por la Policía de la República Checa, VI RIBŽD y el VI DI presente, el día 17. 5. 2009 a las 2:05 horas se concedió a la DI el permiso para iniciar los trabajos de despeje.
+En el lugar del IE se aseguró la documentación de tráfico.
 Los empleados participantes indicados en el capítulo 3.1.1 de este informe final fueron sometidos a la prueba de alcoholemia con resultado negativo.
-Para eliminar las consecuencias de la MU se utilizaron medios auxiliares de accidente del Depósito de material rodante (en adelante DKV) de Česká Třebová de ČD, a. s., con la asistencia de HZS SŽDC, s. o.
-### 2.2.7 Activación del plan del sistema integrado de rescate, policía y servicio médico de emergencia y secuencia de acontecimientos
-La MU fue notificada al sistema integrado de rescate conforme al decreto n.º 376 por el jefe de estación de la est. Česká Třebová.
-En el lugar actuaron HZS SŽDC, s. o., y la Policía de la República Checa. No fue necesario activar el servicio médico de emergencia rápido.
+Para eliminar las consecuencias del IE se utilizaron los medios auxiliares de accidente del Depósito de material rodante (en adelante DKV) de Česká Třebová de ČD, a. s., con la asistencia de HZS SŽDC, s. o.
+### 2.2.7 Activación del plan del sistema integrado de emergencias, de la policia y del servicio médico de emergencias y secuencia de acontecimientos
+El IE fue notificado al sistema integrado de emergencias conforme al decreto n.º 376 por el jefe de maniobras de la est. Česká Třebová.
+En el lugar intervinieron HZS SŽDC, s. o., y la Policía de la República Checa. No fue necesario activar al servicio médico de emergencias rápido.
 ### 2.3 Fallecimientos, lesiones y daños materiales
-2.3.1 En pasajeros y terceros, empleados del explotador de la vía y del transportista, incluidas personas en relación contractual
-En la MU no falleció nadie, y en la MU no se produjo ningún daño a la salud de pasajeros, empleados del explotador de la vía y del transportista, ni de otras personas.
-### 2.3.2 En objetos transportados, equipaje y otros bienes
-No se detectaron daños en objetos transportados, equipaje y otros bienes.
-### 2.3.3 En material rodante, componentes de la vía y en el medio ambiente
-De la inspección pericial del material rodante descarrilado y dañado realizada el día 21. 5. 2009 en el DKV de Česká Třebová se constató:
-los costes de reparación del material rodante motor 742.523-4, propiedad de ODOS Ostrava,
+2.3.1 En cuanto a pasajeros y terceros, empleados del explotador de la vía y del transportista, incluidas personas en relación contractual
+En el IE no falleció nadie, y en el IE no se produjo daño alguno a la salud de pasajeros, empleados del explotador de la vía y del transportista ni de otras personas.
+### 2.3.2 En cuanto a las cosas transportadas, el equipaje y otros bienes
+No se detectó daño en las cosas transportadas, el equipaje y otros bienes.
+### 2.3.3 En cuanto a los vehículos ferroviarios, los componentes de la vía de tráfico y el medio ambiente
+De la inspección por comisión de los vehículos ferroviarios descarrilados y dañados, realizada el día 21. 5. 2009 en el DKV de Česká Třebová, se constató lo siguiente:
+los costes de reparación del vehículo ferroviario de tracción 742.523-4, propiedad de ODOS Ostrava,
 ●
 a. s., se estimaron en 2 806 000 Kč;
 
-
 ## Página 15
+
 
 los costes de reparación de los material rodante remolcados 31 56 477 0256-4 y 31 56 477 0141-8
 ●
@@ -369,8 +335,8 @@ En relación con la investigación de las causas y circunstancias de la creació
 
 ### El maniobrador-guía, en el «Registro con el empleado», elaborado por el transportista el día 17. 5. 2009, indicó, entre otras cosas, que con el grupo de vagones que se detuvieron en la vía n.º 233 hasta los topes, realizó un retroceso utilizando el freno de mano del primer vagón. El freno de mano del primer vagón era también el elemento de seguridad del grupo contra el desplazamiento en la nueva posición de detención. Indica la comprobación del funcionamiento del freno de mano en ambos casos de su uso.
 
-
 ## Página 16
+
 
 De sus explicaciones se desprende:
 ●que al retroceder el grupo de vagones no utilizó, para asegurarlo en la nueva posición de detención, topes en ambos raíles, tal como exige la normativa local del transportista;
@@ -385,6 +351,7 @@ De las explicaciones presentadas por los empleados indicados a continuación se 
 Otras personas no participaron en la explotación de la vía ni en el transporte ferroviario.
 
 ## Página 17
+
 
 ### 3.2 Sistema de garantía de la seguridad
 ### 3.2.1 Organización marco y forma en que se emiten y ejecutan las instrucciones
@@ -417,8 +384,8 @@ El transportista ČD Cargo, a. s. emitió la norma interna «ČD V 15/1 - Norma 
 El freno de mano se considera utilizable cuando, en la prueba:
 ●
 
-
 ## Página 18
+
 
 a) en el freno de zapatas (con el freno continuo por aire desfrenado o desconectado transitoriamente), tras apretarlo, se adhieren
 - en los vagones con bogies, todos los tirantes exteriores accesibles de ambas ruedas del bogie correspondiente (en los bogies de varios ejes se comprueban todos los tirantes accesibles de todas las ruedas del bogie correspondiente) por el lado del vagón sometido a control.
@@ -439,6 +406,7 @@ En ČD, a. s. – operador del explotador de la vía, la actividad de control se
 
 ## Página 19
 
+
 Třebová realizada de conformidad con la Medida del director del departamento de dirección de la explotación y organización del transporte ferroviario n.º 1/2008 n.º de expediente 5451/2008-O11, en relación con la emitida n.º de expediente 6439/2008-O11 «Directrices de control establecidas para el período del año 2009». Estos documentos se desarrollan en las condiciones del ámbito de explotación en forma de Orden del jefe de PO. En el momento del suceso MU, la actividad de control se garantizaba de conformidad con la Orden del jefe de PO n.º 12/2008 de fecha 13. 10. 2008. Los controles relacionados con la seguridad son parte integrante de la actividad de control de los empleados autorizados y se enumeran en las directrices de control establecidas para un período concreto. La frecuencia y el enfoque de los controles se incorporan para los empleados autorizados en el documento interno «Plan de actividad de control» para el mes correspondiente, en el que los empleados también registran su cumplimiento. Además de este documento, la actividad de control se registra también en la aplicación electrónica Libro de controles (K2), que es supervisada y verificada periódicamente por los órganos superiores.
 En el transportista ČD Cargo, a. s., la actividad de control se realizó de conformidad con la Medida del director de explotación y técnica para la actividad de control de ČD Cargo, a. s., n.º de expediente 36/2007 ŘPT, de fecha 28. 11. 2007; Metodología de la actividad de control n.º de expediente 41/2008 ŘTOD, de fecha 23. 01. 2008; Sistema de control interno n.º de expediente IN OR7-A-2008, de fecha 18. 2. 2009; Medida para la delimitación de la actividad de los especialistas para la actividad de control n.º de expediente 2193/2008, de fecha 22. 9. 2008. Los registros de los resultados de los controles se inscriben y archivan en el Libro electrónico de controles de ČD Cargo, a. s. (EKK).
 La realización de los controles internos y su sistema no guardaban relación causal con la aparición del MU.
@@ -453,8 +421,8 @@ ley n.º 266/1994 Sb., de vías férreas, en su versión vigente;
 ●
 decreto n.º 100/1995 Sb., por el que se establecen las condiciones para la explotación, construcción y fabricación de instalaciones técnicas designadas y su concreción (Reglamento de instalaciones técnicas designadas), en su versión vigente;
 
-
 ## Página 20
+
 
 decreto n.º 101/1995 Sb., por el que se aprueba el Reglamento de aptitud sanitaria y profesional de las personas para la explotación de la vía y del transporte ferroviario, en su versión vigente;
 ●
@@ -485,6 +453,7 @@ norma local del transportista ČD Cargo, a. s. «Documentación tecnológica del
 
 ## Página 21
 
+
 ### 3.4 Funcionamiento de los vehículos ferroviarios y de las instalaciones técnicas
 ### 3.4.1 Sistema de mando, señalización y seguridad, incluidos los dispositivos de registro automático de datos
 En la estación de Česká Třebová, los aparatos de enclavamiento 039 y 019 están equipados con instalación de seguridad por relés (en adelante RZZ) de 3.ª categoría según TNŽ 34 2620. Para la RZZ del aparato de enclavamiento 039 se emitió el Certificado de idoneidad de la instalación técnica determinada en el sentido del § 47 de la ley, n.º de ref. PZ 5730/96-E.45, emitido el 15. 8. 1996 por la Autoridad Ferroviaria de Praga bajo el n.º de expediente 2-2547/96-DÚ, que tiene una prórroga de vigencia por tiempo indefinido, de fecha 26. 3. 2010, en virtud del acta n.º de expediente 03/10PC. Para la RZZ del aparato de enclavamiento 019 se emitió el Certificado de idoneidad de la instalación técnica determinada en el sentido del § 47 de la ley, n.º de ref. PZ 5726/96-E.45, emitido el 14. 8. 1996 por la Autoridad Ferroviaria de Praga bajo el n.º de expediente 2-2547/96 -DÚ, que tiene una prórroga de vigencia por tiempo indefinido, de fecha 6. 10. 2005, en virtud del acta n.º de expediente UTZ-E/P81-2512/2005.
@@ -500,8 +469,8 @@ Los medios de comunicación no guardaban relación causal con el origen de la MU
 La locomotora de maniobras 742.523-4 fue fabricada en 1985, fabricante ČKD Praha. La evaluación de los datos registrados por el registrador de velocidad no es necesaria para la investigación de la MU dada la evolución de la MU.
 El vagón de mercancías 31 56 4770 256-4 de la serie Shimms, con freno de mano, superó la inspección técnica el 25. 01. 2006. No se había excedido el plazo del ciclo de seis años de inspecciones técnicas del vagón. La reparación del cableado del freno de mano la realizó el 16. 3. 2009 Železničná spoločnosť Cargo Slovakia, a. s., ÚaO ŽKV Košice, OV Košice.
 
-
 ## Página 22
+
 
 El estado técnico del freno de mano, tras la reparación realizada fuera del territorio de la República Checa, guarda relación causal con el origen de la MU. El análisis detallado de los hechos constatados sobre el estado técnico del freno de mano se recoge en el capítulo 4.2.1 de este Informe Final.
 ### 3.5 Documentación sobre el sistema de explotación
@@ -516,6 +485,7 @@ El lugar de la MU fue asegurado por el explotador de conformidad con el decreto 
 El maniobrista-acoplador incorporó turno según el cuadro de servicio por turnos el 16 de mayo de 2009, a las 18:00 horas. El descanso previo al turno fue conforme al § 90 de la ley n.º 262/2006 Sb., Código del Trabajo, en su versión vigente (en adelante, Código del Trabajo);
 
 ## Página 23
+
 
 el jefe de maniobras «Střed» inició turno según el horario de servicio por turnos del día
 ●
@@ -561,77 +531,38 @@ Ferroviaria registra sucesos similares, pero la causa de su producción no fue e
 del vehículo, ocasionado por el incumplimiento de la documentación técnica aprobada del
 vehículo durante su reparación.
 
-
 ## Página 24
 
-## 4 ANÁLISIS Y CONCLUSIONS
-### 4.1 Descripción final del suceso ferroviario
-### 4.1.1 Descripción final del suceso ferroviario basada en los hechos constatados
+## 4 ANÁLISIS Y CONCLUSIONES
+### 4.1 Descripción final de la excepción
+### 4.1.1 Descripción final de la excepción basada en los hechos constatados 
 en el punto 3
-El 16 de mayo de 2009, a las 17:36 horas, llegó el tren Pn 61312 a la vía n.º 106 del grupo de
-entrada de la estación Česká Třebová. Entre las 20:04 y las 20:18 horas se realizó la maniobra
-de descomposición de dicho tren. Mediante la instalación de la ladera, el tramo de cinco vagones
-de carga de cuatro ejes de la serie Shimms fue descendido a la vía n.º 233 y detenido por dos
-topes, colocados a unos 100 m por debajo del último conjunto de frenos de vía. Según las
-explicaciones dadas, el maniobrador-guía, que tenía asignada la vía n.º 233 para la realización
-de las actividades laborales en el turno, tras finalizar el trabajo en la vía n.º 232, aseguró el
-tramo apretando el freno de mano del primer vagón del grupo, comprobó el funcionamiento del
-freno y retiró los topes. A continuación, aflojó el freno de mano y dejó deslizar el tramo por su
-propio peso unos 60 metros más allá del lugar de detención original. Mediante el apretado del
-freno de mano detuvo el tramo, comprobó el funcionamiento del freno y, tras dejar el grupo de
-vagones asegurado de esta manera, se marchó a cumplir otras obligaciones laborales.
-En el momento del descenso y del deslizamiento del tramo, se encontraba en el extremo inferior
-de la vía n.º 233 el tren Pn 63442, que a las 21:10 horas fue trasladado por maniobra a la vía
-n.º 15 y desde esta vía partió posteriormente. El empleado autorizado para dirigir maniobras,
-que trabajaba en la parte inferior de la estación de clasificación en el ámbito de la aguja 039
-«Střed», tras la salida del tren Pn 63442, colocó en la vía n.º 233, a la altura de los
-topes, dos topes de seguridad. Hacia las 21:45 horas, a través de la ventana de su puesto junto
-a la aguja 039 «Střed», oyó el sonido de vagones en movimiento. Tras salir de la ocultación
-del tren en la vía n.º 232, vio que los vagones no eran empujados por una locomotora y que
-se desplazaban sin control. Tras salir corriendo a la vía, comprobó que los topes de seguridad
-habían fallado y no habían detenido el grupo en movimiento. Informó de esta situación por
-radio a la jefa de estación de la aguja 039 «Střed» y a la de «Nádražní». La jefa de estación
-de la aguja 039 «Střed», tras recibir la información sobre el grupo de vagones en fuga desde
-la vía n.º 233, intentó accionar la aguja n.º 296a en dirección a la aguja de derrota VK-M.
-Sin embargo, no llegó a tiempo de hacerlo. Se produjo el forzamiento de la aguja n.º 294b y
-los vagones continuaron su marcha por la 2.ª vía de descenso.
-La jefa de estación de la aguja 019 «Panel – Jih», tras recibir la información telefónica de la
-jefa de estación de la aguja 039 «Střed» sobre la fuga de un grupo de cinco vagones, estableció
-una ruta de maniobra desde la 2.ª vía de descenso a la vía n.º 15. Por radio, dio al empleado
-que dirigía las maniobras en el ámbito de «Odjezdová skupina Jih» la instrucción de detener el
-tren en fuga mediante la colocación de topes. Este empleado ya no llegó a tiempo para colocar
-los topes ante el tren en fuga en la vía n.º 15. Informó de este hecho por radio al jefe de
-tren-preparador del puesto «Odjezdová skupina Sever» y a la jefa de estación de la aguja 019
-«Panel – Jih». El jefe de tren-preparador del puesto «Odjezdová skupina Sever», tras recibir
-la llamada por radio del empleado que dirigía las maniobras en el ámbito de «Odjezdová skupina
-Jih» y la llamada telefónica de la jefa de estación de la aguja 019 «Panel – Jih», salió
-corriendo de su puesto junto a la vía n.º 7, en el ámbito de «Odjezdová skupina Sever», y
-colocó topes en la vía n.º 15. Tras la entrada de los vagones en fuga sobre los topes, uno cayó
-inmediatamente y el otro tras 15 metros de arrastre sobre la cabeza del raíl. El grupo de vagones
-detuvo su marcha no autorizada a las 21:50 horas en la vía muerta n.º T 408, donde chocó contra un
+El día 16 de mayo de 2009, a las 17:36 horas, llegó el tren Pn 61312 a la vía n.º 106 del grupo de entrada de la estación Česká Třebová. Entre las 20:04 y las 20:18 horas se realizó la maniobra de desprendimiento del mencionado tren. Mediante el aparato de clasificación, el desprendimiento de cinco vagones de carga de cuatro ejes de la serie Shimms se descendió a la vía n.º 233 y se detuvo con dos tope, colocadas a unos 100 m por debajo del último juego de frenos de vía. Según las explicaciones dadas, el maniobrador-guía, que tenía asignada la vía n.º 233 para la realización de las actividades laborales en el turno, tras finalizar el trabajo en la vía n.º 232, aseguró el desprendimiento apretando el freno de mano del primer vagón del grupo, comprobó el funcionamiento del freno y retiró los topes. A continuación, aflojó el freno de mano y dejó deslizar el grupo por gravedad unos 60 metros más allá del lugar de detención original. Mediante el apriete del freno de mano, detuvo el desprendimiento, comprobó el funcionamiento del freno y, tras dejar el grupo de vagones asegurado de esta manera, se marchó a cumplir otras obligaciones laborales.
+En el momento del descenso y del deslizamiento del desprendimiento, en el extremo inferior de la vía n.º 233 se encontraba la composición del tren Pn 63442, que a las 21:10 horas fue trasladada por maniobra a la vía n.º 15 y posteriormente partió de esta vía. El empleado autorizado para dirigir maniobras, que trabajaba en la parte inferior de la estación de clasificación en el ámbito del aparato de enclavamiento 039 «Střed», tras la salida del tren Pn 63442, colocó en la vía n.º 233, a la altura de los frenadores, dos topes de seguridad. Hacia las 21:45 horas, a través de la ventana de su puesto junto al aparato de enclavamiento 039 «Střed», oyó el sonido de vagones en movimiento. Tras salir de la ocultación de la composición en la vía n.º 232, vio que los vagones no eran empujados por la locomotora y que se desplazaban sin control. Tras salir corriendo a la vía, comprobó que los topes de seguridad habían fallado y no habían detenido el grupo en movimiento. Informó de esta situación por radio al jefe de maniobras de los aparatos de enclavamiento 039 «Střed» y «Nádražní». El jefe de maniobras del aparato de enclavamiento 039 «Střed», tras recibir la información sobre el grupo de vagones en fuga desde la vía n.º 233, intentó cambiar la aguja n.º 296a en dirección a la vía muerta VK-M. Sin embargo, no llegó a hacerlo. Se produjo un cambio forzado de la aguja n.º 294b y los vagones continuaron su marcha por la 2.ª vía de descenso.
+El jefe de maniobras del aparato de enclavamiento 019 «Panel – Jih», tras recibir la información telefónica del jefe de maniobras del aparato de enclavamiento 039 «Střed» sobre la fuga del grupo de cinco vagones, estableció una ruta de maniobra desde la 2.ª vía de descenso hasta la vía n.º 15. Por radio, dio al empleado que dirigía las maniobras en el ámbito «Odjezdová skupina Jih» la instrucción de detener la composición en fuga colocando topes. Este empleado ya no llegó a colocar los topes ante la composición en fuga en la vía n.º 15. Informó de este hecho por radio al jefe de tren-preparador del puesto «Odjezdová skupina Sever» y al jefe de maniobras del aparato de enclavamiento 019 «Panel – Jih». El jefe de tren-preparador del puesto «Odjezdová skupina Sever», tras recibir la llamada hecha por radio por el empleado que dirigía las maniobras en el ámbito «Odjezdová skupina Jih» y la llamada telefónica del jefe de maniobras del aparato de enclavamiento 019 «Panel – Jih», salió corriendo de su puesto junto a la vía n.º 7, en el ámbito «Odjezdová skupina Sever», y colocó topes en la vía n.º 15. Tras la entrada de los vagones en fuga sobre los topes, uno cayó de inmediato y el otro tras 15 metros de deslizamiento sobre la cabeza del raíl. El grupo de vagones puso fin a la circulación no autorizada a las 21:50 horas en la vía muerta n.º T 408, donde chocó contra el vagón estacionado
 
 ## Página 25
 
-HDV n.º 742.523-4. Tras la colisión se produjo el descarrilamiento de este vehículo y del primer coche del grupo por todos sus ejes. El segundo coche del grupo descarriló con el primer bogie en el sentido de la marcha. Dado que en el MU no estaban implicados ningún dispositivo dotado de registro técnico de su actividad, la descripción y el análisis del suceso del accidente se basan en gran medida en las declaraciones de las personas implicadas, que no ha sido posible confirmar ni refutar mediante otra fuente.
-En el MU no hubo ninguna persona fallecida y no se produjo ningún daño a las personas. El daño total detectado asciende a 3 684 000,- CZK.
+HDV n.º 742.523-4. Tras el golpe se produjo el descarrilamiento de este vehículo y del primer coche del grupo por todos los ejes. El segundo coche del grupo descarriló con el primer bogie en el sentido de la marcha. Dado que en el MU no se vieron implicados ningún dispositivo dotado de registro técnico de su funcionamiento, la descripción y el análisis del suceso del accidente se basan en gran medida en las declaraciones de las personas implicadas, que no pudieron confirmarse ni refutarse mediante otra fuente.
+En el MU no hubo ninguna persona fallecida y no se produjo ningún daño a la salud. El daño total detectado asciende a 3 684 000,- CZK.
 ### 4.2 Análisis
-### 4.2.1 Evaluación de los hechos detectados de acuerdo con el punto 3 y exposición de las conclusiones sobre la causa del suceso extraordinario y la actuación de los servicios de emergencia
-Los trabajos en las vías «Směrové skupiny» de la estación Česká Třebová se rigen por los procedimientos de trabajo y tecnológicos contenidos en la normativa local. Sin embargo, esta, en el capítulo «B.3.1.», por su contenido no establece de forma inequívoca todos los procedimientos tecnológicos para el descenso y el envío en las vías «Směrové skupiny» de la estación Česká Třebová.
-Entre las 20:04 y las 20:18 horas, mediante el dispositivo de clasificación ARS, un grupo de vagones de la serie «Shimms» en composición 1.º vagón 31 56 477 0256-4 con freno de mano, 2.º vagón 31 56 477 0141-8, 3.º vagón 31 56 477 0239-0, 4.º vagón 31 56 477 0124-4 y 5.º vagón 31 56 476 8467-1, de una longitud total de 60 m y un peso de 347 toneladas, fue descendido a la vía n.º 233. Para detener el citado grupo de vagones se emplearon dos topes, colocados a unos 100 m por debajo del último conjunto de frenos de vía. Este modo de detención se correspondía con las disposiciones de la normativa local del transportista ČD Cargo, a. s.
-Posteriormente se realizó otra maniobra con los citados vagones, consistente en su envío unos 60 metros más allá. El dispositivo de señalización de la aguja 015, de la aguja 039 «Střed» y de la aguja 019 «Panel - Jih» no está dotado de dispositivo de registro. Por ello, para establecer la secuencia cronológica de los acontecimientos se utilizó el análisis de los tiempos del dispositivo de registro del HDV 111.022-0 de la 1.ª reserva de maniobras, que constituyó la composición del tren Pn 61312, del HDV 163.017-7 Pn 63442 y de los tiempos indicados en la documentación de tráfico.
-El maniobrador-encargado, que tenía asignada la vía n.º 233 para el desempeño de las actividades laborales en su turno, tras finalizar el trabajo en la vía n.º 232, aseguró el vagón de cola apretando el freno de mano del primer vagón del grupo, comprobó el funcionamiento del freno y retiró los topes. A continuación aflojó el freno de mano y envió el grupo por gravedad unos unos 60 metros más allá del lugar original de detención. Mediante el apriete del freno de mano, el vagón de cola se detuvo, se comprobó el funcionamiento del freno y, desde el grupo de vagones así asegurado, se marchó a desempeñar otras obligaciones laborales. De la información disponible no se ha podido determinar si la retirada de los topes y el envío de los vagones se realizaron aún cuando en el otro extremo de la vía se encontraba la composición del tren Pn 63442, que a las 21:10 horas fue trasladada por maniobras a la vía n.º 15 y desde esta vía partió posteriormente, o ya después de su partida. El envío realizado es contrario a la disposición de la normativa local del transportista ČD Cargo, a. s., porque el valor del peso de frenado del freno de mano del 1.º vagón 31 56 477 0256-4 era de 29,2 toneladas, mientras que para el envío de carga sin el uso de topes en ambos pares de vías, el transportista estableció en su normativa local un valor de 40 toneladas de peso de frenado y la presencia de dos vagones cargados con el freno de mano probado en el grupo. Estos requisitos el grupo descendido
-
+### 4.2.1 Evaluación de los hechos detectados de acuerdo con el punto 3 y exposición de las conclusiones sobre la causa del suceso extraordinario y la actuación de los servicios de rescate
+Los trabajos en las vías del «Grupo Direccional» de la estación de Česká Třebová se rigen por los procedimientos de trabajo y tecnológicos contenidos en la normativa local. No obstante, esta, en el capítulo «B.3.1.», con su contenido no establece de manera inequívoca todos los procedimientos tecnológicos para el descenso y el retroceso en las vías del «Grupo Direccional» de la estación de Česká Třebová.
+En el intervalo de 20:04 a 20:18 horas, mediante el dispositivo de clasificación ARS, el grupo de coches de la serie «Shimms» en la composición 1.º coche 31 56 477 0256-4 con freno de mano, 2.º coche 31 56 477 0141-8, 3.º coche 31 56 477 0239-0, 4.º coche 31 56 477 0124-4 y 5.º coche 31 56 476 8467-1, con una longitud total de 60 m y un peso de 347 toneladas, fue descendido a la vía n.º 233. Para la parada del mencionado grupo de coches se emplearon dos tope, colocados a unos 100 m por debajo del último conjunto de frenos de vía. Este modo de parada se ajustaba a las disposiciones de la normativa local del transportista ČD Cargo, a. s.
+Posteriormente se realizó otra maniobra con los mencionados coches, consistente en retrocederlos unos 60 metros más allá. El dispositivo de señalización de la aguja 015, de la aguja 039 «Centro» y de la aguja 019 «Panel - Sur» no está dotado de dispositivo de registro. Por ello, para la construcción de la secuencia cronológica de los acontecimientos se utilizó el análisis de los tiempos del dispositivo de registro del HDV 111.022-0 de la primera guardia de maniobras, que maniobraba la composición del tren Pn 61312, del HDV 163.017-7 Pn 63442, y de los tiempos indicados en la documentación de tráfico.
+El maniobrador-guía, que tenía asignada la vía n.º 233 para la realización de las actividades de trabajo en el turno, tras finalizar el trabajo en la vía n.º 232, aseguró el descuelgue apretando el freno de mano del primer coche del grupo, comprobó el funcionamiento del freno y retiró los tope. A continuación aflojó el freno de mano y retrocedió el grupo por gravedad unos 60 metros más allá del lugar original de parada. Mediante el apriete del freno de mano, el descuelgue detuvo el grupo, comprobó el funcionamiento del freno y se marchó del grupo de coches así asegurado para cumplir otras obligaciones laborales. A partir de la información disponible no fue posible determinar si la retirada de los tope y el retroceso de los coches se realizó aún cuando en el otro extremo de la vía se encontraba la composición del tren Pn 63442, que a las 21:10 horas fue maniobrada a la vía n.º 15 y posteriormente partió de dicha vía, o ya después de su partida. El retroceso realizado contradice la disposición de la normativa local del transportista ČD Cargo, a. s., ya que el valor del peso de frenado del freno de mano del 1.º coche 31 56 477 0256-4 era de 29,2 toneladas, mientras que para el retroceso de la carga sin el uso de tope en ambos tramos de vía, el transportista fijó en su normativa local un valor de 40 toneladas de peso de frenado y la presencia de dos coches cargados con el freno de mano probado en el grupo. Estos requisitos, en el retroceso de la carga
 
 ## Página 26
 
-de cinco vagones «Shimms» no los cumplía. El aseguramiento de este grupo de vagones tras la detención fue, según los requisitos de la normativa local del transportista ČD Cargo, a. s., y de la normativa interna del transportista ČD V 15/I, para la citada pendiente del 5‰ en el lugar de detención y envío del grupo de vehículos, suficiente.
-El empleado autorizado para dirigir las maniobras, que trabajaba en la parte inferior de la estación de clasificación en el ámbito de la aguja 039 «Střed», tras la partida del tren Pn 63442 colocó en la vía n.º 233 hasta la altura de los topes dos topes de seguridad. La colocación de los topes de seguridad se realizó de acuerdo con los requisitos indicados en la normativa local del transportista ČD Cargo, a. s. Los topes de seguridad y el dispositivo de topes se definen en la respuesta del gestor de la infraestructura a la solicitud de la Inspección Ferroviaria (Drážní inspekce) como un dispositivo de seguridad que, con alta eficacia, evita consecuencias más graves de los sucesos extraordinarios. Los materiales recibidos por la Inspección Ferroviaria no indican ningún dato técnico que demuestre la función segura del dispositivo. De los hechos detectados se desprende que el citado dispositivo cumple únicamente la función de «topes ferroviarios para vagones modelo 87». Incluso en combinación con el segmento de topes, por tanto, no puede considerarse este dispositivo como un dispositivo que garantice una protección segura frente a la salida de vehículos en el sentido de la pendiente de las vías de dirección. En caso de salida de vehículos desde el lugar de detención del primer vagón de cola, debido a su masa y a un recorrido de varios cientos de metros en pendiente de hasta 2 ‰ y brevemente de 11,55 ‰, se alcanzará una velocidad tal que el tope de seguridad se dañará tras el impacto y no cumplirá la función para la que fue adaptado y complementado con el segmento de topes.
-Hacia las 21:45 horas, a través de la ventana de su puesto junto a la aguja 039 «Střed», el empleado autorizado para dirigir las maniobras, que trabajaba en la parte inferior de la estación de clasificación, oyó el sonido de vagones en movimiento. Tras salir de la ocultación de la composición en la vía n.º 232, vio que los vagones no eran empujados por la locomotora y que se desplazaban de forma incontrolada. Tras correr a la vía, comprobó que los topes de seguridad habían fallado y no habían detenido al grupo en movimiento. Informó de esta situación por radio al jefe de estación de la aguja 039 «Střed» y al de «Nádražní».
-El jefe de estación de la aguja 039 «Střed», tras recibir la información sobre el grupo de vagones en movimiento desde la vía n.º 233, intentó cambiar la aguja n.º 296a en dirección al desvío VK-M. Sin embargo, no fue posible cambiar la aguja debido a la ocupación del circuito de vía por los vagones en movimiento. El jefe de estación ya no llegó a realizar el cambio de aguja con maniobra de emergencia, como demuestran los enclavamientos de seguridad intactos. A continuación se produjo un cambio forzado de la aguja n.º 294b debido a que se encontraba en posición final tras la operación anterior del dispositivo de enclavamiento. El cambio a la posición correcta ya no fue posible debido a la ocupación del circuito de vía por los vagones en movimiento.
-El jefe de estación de la aguja 019 «Panel – Jih», tras recibir la información telefónica del jefe de estación de la aguja 039 «Střed» sobre la salida del grupo de cinco vagones, estableció la ruta de maniobras desde la 2.ª vía de tracción a la vía n.º 15. Con el establecimiento de la ruta de maniobras desde la 2.ª vía de tracción a la vía n.º 15, se garantizó el paso del grupo de vagones en movimiento por la aguja sur de la «Odjezdové skupiny» de la estación ferroviaria mediante el enclavamiento eléctrico de las agujas. Con el establecimiento de la ruta de maniobras no se produjo la entrada de los vagones en movimiento en la vía muerta n.º T 403, terminada por un tope formado por una traviesa de madera situada en la cabeza de los raíles y un terraplén de tierra. Detrás del final de la vía n.º T 403 se encuentra una cabeza de agujas. Las consecuencias que el MU tendría en caso de superar las barreras en la vía muerta n.º T 403 no pueden determinarse. El SZZ no está dotado de dispositivo de registro, por lo que no puede evaluarse la situación de tráfico momentánea en la citada cabeza de agujas.
-Los intentos de detener los vagones en movimiento con topes en la vía n.º 15 fallaron. En el ámbito «Odjezdové skupiny Jih» no fue posible colocar los topes, en el ámbito «Odjezdové skupiny Sever» los topes colocados saltaron. Los vagones en movimiento continuaron a través de la aguja 474a hacia
+el grupo de cinco vagones «Shimms» no cumplía. La fijación de este grupo de vagones tras la detención era, según los requisitos de la normativa local del operador ČD Cargo, a. s., y de la normativa interna del operador ČD V 15/I, para la pendiente indicada de hasta 5‰ en el lugar de detención y liberación del grupo de vehículos, suficiente.
+El empleado autorizado para dirigir las maniobras, que trabajaba en el lado inferior de la estación de clasificación en el ámbito del enclavamiento 039 «Střed», colocó, tras la salida del tren Pn 63442, dos tope de seguridad en la vía n.º 233 hasta el nivel de los frenos. La colocación de los topes de seguridad se realizó de conformidad con los requisitos indicados en la normativa local del operador ČD Cargo, a. s. Los topes de seguridad y el dispositivo de tope están definidos en la respuesta del gestor de la infraestructura a la solicitud de la Inspección Ferroviaria como dispositivo de seguridad que, con gran eficacia, evita consecuencias más graves de las incidencias. Los materiales recibidos por la Inspección Ferroviaria no indican ningún dato técnico que demuestre el funcionamiento seguro del dispositivo. De los hechos constatados se dedujo que el dispositivo indicado cumple únicamente la función de «topes ferroviarios para vagones modelo 87». Incluso en combinación con el segmento de tope, por tanto, no puede considerarse que este dispositivo constituya un dispositivo que garantice una protección segura contra el arrastre de vehículos en la dirección de la pendiente de las vías de dirección. En caso de arrastre de vehículos desde el lugar de detención del primer desprendimiento, debido a su masa y a un recorrido de varios cientos de metros con una pendiente de hasta 2 ‰ y, brevemente, de 11,55 ‰, alcanzarán una velocidad tal que el tope de seguridad se dañará al ser embestido y no cumplirá la función para la que fue diseñado y complementado con el segmento de tope.
+Hacia las 21:45 horas, a través de la ventana de su puesto junto al enclavamiento 039 «Střed», el empleado autorizado para dirigir las maniobras, que trabajaba en el lado inferior de la estación de clasificación, escuchó el sonido de vagones en movimiento. Tras salir de la ocultación del tren en la vía n.º 232, comprobó que los vagones no eran empujados por la locomotora y que se desplazaban de forma incontrolada. Tras salir corriendo a la vía, comprobó que los topes de seguridad habían fallado y no habían detenido el grupo en movimiento. Informó de esta situación por radio al jefe de enclavamiento 039 «Střed» y «Nádražního».
+El jefe de enclavamiento 039 «Střed», tras recibir la información sobre el grupo de vagones en movimiento procedente de la vía n.º 233, intentó cambiar la aguja n.º 296a en dirección a la vía muerta VK-M. Sin embargo, no fue posible cambiar la aguja debido a la ocupación del ámbito de vía por los vagones en movimiento. El jefe de enclavamiento ya no llegó a realizar el cambio de aguja mediante el servicio de emergencia, como demuestran los cierres de seguridad intactos. Posteriormente se produjo un cambio forzoso de la aguja n.º 294b debido a que se encontraba en posición final tras la operación anterior del dispositivo de seguridad. Ya no fue posible cambiarla a la posición correcta debido a la ocupación del ámbito de vía por los vagones en movimiento.
+El jefe de enclavamiento 019 «Panel – Jih», tras recibir la información telefónica del jefe de enclavamiento 039 «Střed» sobre la salida del grupo de cinco vagones, estableció una ruta de maniobras desde la 2.ª vía de tracción a la vía n.º 15. Con el establecimiento de la ruta de maniobras desde la 2.ª vía de tracción a la vía n.º 15 se garantizó el paso del grupo de vagones en movimiento por el extremo sur del «Grupo de salida» de la estación de ferrocarril mediante el cierre eléctrico de las agujas. Con el establecimiento de la ruta de maniobras no se produjo la entrada de los vagones en movimiento en la vía muerta n.º T 403, terminada por un tope formado por una traviesa de madera colocada sobre la cabeza de los raíles y un terraplén de tierra. Detrás del final de la vía n.º T 403 se encuentra un extremo de agujas. Las consecuencias que tendría el MU en caso de superar los obstáculos en la vía muerta n.º T 403 no pueden determinarse. El SZZ no está equipado con un dispositivo de registro, por lo que no puede evaluarse la situación de tráfico momentánea en el extremo indicado.
+Los intentos de detener los vagones en movimiento mediante topes en la vía n.º 15 fallaron. En el ámbito «Grupo de salida Sur» no fue posible colocar los topes, y en el ámbito «Grupo de salida Norte» los topes colocados rebotaron. Los vagones en movimiento continuaron a través de la aguja 474a hacia
 
 ## Página 27
+
 
 vía de desvío n.º T 408, que junto con este desvío proporciona protección lateral de las vías de tren. A continuación se produbió el impacto contra la locomotora estacionada y el descarrilamiento.
 El titular del primer vagón, equipado con freno manual, era Železničná spoločnosť Cargo Slovakia, a. s., y su transportista en el momento de la ocurrencia de la UE (evento extraordinario) era la compañía ČD Cargo, a. s.
@@ -646,8 +577,8 @@ La causa inmediata de la ocurrencia del evento extraordinario fue la avería del
 ### 4.3.2 Causas fundamentales relacionadas con la cualificación, los procedimientos y el mantenimiento
 La causa fundamental de la ocurrencia de la UE fue el incumplimiento de la documentación técnica del vagón durante la reparación de la transmisión por cable del freno manual del vagón Shimms, número de registro 31 56 477 0256-4, de titularidad extranjera.
 
-
 ## Página 28
+
 
 ### 4.3.3 Causas derivadas del marco normativo y del uso del sistema de garantía de la seguridad
 No se detectaron.
@@ -662,31 +593,30 @@ En la investigación de la UE se detectaron las siguientes deficiencias, que no 
 ### 5.1 Lista de medidas que ya se han tomado o adoptado como consecuencia del evento extraordinario
 Ni el transportista ni el gestor de la infraestructura, en su evaluación de las causas y circunstancias de la ocurrencia del evento extraordinario, adoptaron ninguna medida.
 
-
 ## Página 29
 
 ## 6 RECOMENDACIONES DE SEGURIDAD
-La Inspección Ferroviaria (Drážní inspekce), como autoridad competente en virtud de lo dispuesto en el § 53b apartado 5 de la ley n.º 266/1994 Sb., de ferrocarriles, en su redacción vigente, sobre la base de los resultados de la investigación de las causas y circunstancias de la ocurrencia de la UE, para reducir la probabilidad de ocurrencia de UE similares, recomienda al transportista ČD Cargo, a. s.:
-● Adoptar medidas eficaces para que la protección contra el desplazamiento de los vehículos fuera de las vías del grupo de vías direccionales de la estación Česká Třebová esté garantizada también en el caso de que la masa del grupo de vagones y su distancia desde los topes de seguridad, situados en el extremo inferior de las vías del grupo de vías direccionales, no garantice la eficacia de dichos topes.
-
-En Brno, a 5. 10. 2010.
-Libor Bruzl, v.r.
-Ing. Michal Miklenda, v.r.
+La Inspección Ferroviaria, como autoridad competente en la materia según lo dispuesto en el apartado 5 del § 53b de la Ley núm. 266/1994 Sb., de ferrocarriles, en su redacción vigente, sobre la base de los resultados de la determinación de las causas y circunstancias de la aparición del MU, para reducir la probabilidad de la aparición de MU similares, recomienda al transportista ČD Cargo, a. s.:
+adoptar medidas eficaces para que la protección contra el descarrilamiento de los vehículos del grupo de vías de la estación de Česká Třebová estuviera garantizada también en el caso de que el peso del grupo de vagones y su distancia de los topes de seguridad, situados en el extremo inferior de las vías del grupo de vías, no garantizara la eficacia de dichos topes.
+●
+En Brno, a 5 de octubre de 2010.
+Libor Bruzl, rúbrica
+Ing. Michal Miklenda, rúbrica
 Inspector jefe
 Director
-Inspectorado Territorial de Brno
-del Inspectorado Territorial de Brno
-
+Inspección Territorial de Brno
+de la Inspección Territorial de Brno
 
 ## Página 30
+
 
 ## 7 ANEXOS
                      Fig. 1. Lugar de la UE                                       Fig. 2. Frente de la locomotora y del 1.er vagón 
     Fig. 3. Tope de brida dañado                        Fig. 4. Tope dañado 
              Fig. 5. Segmento de tope                       Fig. 6. Foto ilustrativa de los topes de seguridad
 
-
 ## Página 31
+
 
  Fig. 7. Ojo del cable del mando del freno manual              Fig. 8. Ojo del cable extraído del cilindro 
 del freno

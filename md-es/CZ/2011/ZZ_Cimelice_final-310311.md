@@ -10,13 +10,14 @@ chars: 69970
 ratio_longitud: 1.24
 tokens_in: 41023
 tokens_out: 26016
-verificacion: revisar
-notas_cifras: ["bloque 2: original bilingüe: se compara contra el idioma principal (EN); cifras cortas: 1/69", "bloque 3: original bilingüe: se compara contra el idioma principal (CS)", "bloque 4: cifras cortas: 4/48", "bloque 5: original bilingüe: se compara contra el idioma principal (CS)", "bloque 6: original bilingüe: se compara contra el idioma principal (CS)", "bloque 7: original bilingüe: se compara contra el idioma principal (CS)"]
-avisos: ["bloque 6: ratio 1.72", "bloque 7: ratio 1.71"]
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (CS)", "página 5: original bilingüe: se compara contra el idioma principal (EN); cifras cortas: 1/68", "página 6: original bilingüe: se compara contra el idioma principal (PT)", "página 7: original bilingüe: se compara contra el idioma principal (CS)", "página 9: original bilingüe: se compara contra el idioma principal (CS); cifras cortas: 1/8", "página 10: cifras cortas: 1/10"]
 ---
+
 ## Página 1
+
 
 Inspección Ferroviaria
 República Checa
@@ -42,11 +43,12 @@ CIF:   75009561
 http://www.dicr.cz
 fax: (+420) 224 805 428
 
-
 ## Página 2
 
 
+
 ## Página 3
+
 
 # RESUMEN
 Grado:
@@ -98,8 +100,8 @@ Se recomienda incluir la comprobación regular de la holgura
 mencionada anteriormente en los procedimientos de mantenimiento
 de los automotores clase 842.
 
-
 ## Página 4
+
 
 Se recomienda mejorar el sistema de detección de puerta cerrada para
 ●
@@ -139,6 +141,7 @@ expediente de investigación.
 
 ## Página 5
 
+
 # Índice
  Resumen .............................................................................................................................3
 1 Resumen ...............................................................................................................................9
@@ -169,6 +172,7 @@ integrado de emergencias y del servicio de rescate .............................
 
 ## Página 6
 
+
 3.1.2 Otras personas .........................................................................................................15
 3.2 Sistema de garantía de la seguridad ........................................................................16
 3.2.1 Organización marco y forma en que se emiten y aplican las instrucciones .......16
@@ -198,10 +202,10 @@ aplicación ....................................................................
 4.1.1 Descripción definitiva del suceso ferroviario basada en los hechos establecidos en el punto 3 
 ............................................................................................................................22
 4.2 Análisis ......................................................................................................................23
-4.2.1 Evaluación de los hechos establecidos en el punto 3 y formulación de conclusiones sobre la causa 
-
+4.2.1 Evaluación de los hechos establecidos en el punto 3 y formulación de conclusiones sobre la causa
 
 ## Página 7
+
 
 del suceso ferroviario y la actuación de los servicios de emergencia ..........................................23
 4.3 Conclusiones ...............................................................................................................24
@@ -216,8 +220,8 @@ del suceso ferroviario y la actuación de los servicios de emergencia ..........
 6 Recomendaciones de seguridad .............................................................................................26
 7 Anexos .............................................................................................................................28
 
-
 ## Página 8
+
 
 ## Lista de siglas y símbolos utilizados
 |  | Lista de siglas y símbolos utilizados |
@@ -236,6 +240,7 @@ del suceso ferroviario y la actuación de los servicios de emergencia ..........
 | žst . | estación ferroviaria |
 
 ## Página 9
+
 
 ## 1 RESUMEN
 Clasificación del suceso:
@@ -283,8 +288,8 @@ puesta en marcha del tren.
 Causas en el sistema de seguridad:
 No se detectaron causas que hubieran sido originadas por el marco normativo y en el uso del sistema
 
-
 ## Página 10
+
 
 de garantía de la seguridad.
 Recomendaciones de seguridad:
@@ -333,8 +338,8 @@ adopción de una medida propia encaminada a garantizar la ejecución de la recom
 de seguridad anteriormente indicada también en otros gestores del transporte ferroviario en la
 República Checa que utilicen la HDV serie 842 en la explotación del transporte ferroviario.
 
-
 ## Página 11
+
 
 ## 2 DATOS RELATIVOS AL SUCESO EXTRAORDINARIO
 ## 2.1
@@ -361,6 +366,7 @@ inmediatamente tras la comunicación del origen del SE por el maquinista del tre
 En el lugar actuaron los siguientes componentes del IZS:
 
 ## Página 12
+
 
 Servicio de Rescate Rápido de Čimelice;
 •
@@ -391,8 +397,8 @@ tenía 4 ejes, masa de tráfico 51 t, masa frenante 53 t y estaba frenado en mod
 con las señales «Inicio del tren» y «Fin del tren». La estación de origen del tren era la est. Protivín, la estación de destino era la est. Beroun. El propietario y explotador del coche motor 842.022-6 son
 České dráhy, a. s., el vehículo está incluido en el inventario del DKV Plzeň.
 
-
 ## Página 13
+
 
 ### 2.2.3 Descripción de los componentes de la vía de circulación de la infraestructura, del sistema de señalización (es decir, principalmente el estado de los raíles, agujas, aparatos de enclavamiento, señales y del dispositivo de seguridad del tren)
 Los componentes de la vía de circulación de la infraestructura en el lugar de ocurrencia del SE estaban sin daños visibles, el dispositivo de señalización presentaba un estado sin averías. El estado de la vía de circulación de la infraestructura no guardaba relación causal con la ocurrencia del SE.
@@ -416,8 +422,8 @@ Policía de la República Checa, departamento de distrito de Čimelice;
 Servicio de Rescate de Bomberos de SŽDC České Budějovice.
 •
 
-
 ## Página 14
+
 
 ## 2.3
 ### Fallecidos, heridos y daños materiales
@@ -440,6 +446,7 @@ Las coordenadas GPS del lugar del SE son 49o 28' 13'' N y 14o 4' 36'' E.
 El maquinista del tren Os 7905 indicó en el Acta con el empleado, que fue elaborada por su empleador – la compañía České dráhy, a. s., el 4. 4. 2011, entre otras cosas, lo siguiente:
 
 ## Página 15
+
 
 En la estación de Čimelice detuvo el tren con el morro delante de la señal "Lugar de parada" para el desembarque
 •
@@ -486,86 +493,56 @@ Una vez que bajó al andén y ya estaba con ambos pies en el suelo, el tren arra
 •
 espaldas, le agarró la muñeca de la mano derecha y continuó en marcha.
 
-
 ## Página 16
 
 ## 3.2
-### Sistema de garantía de seguridad
+### Sistema de garantía de la seguridad
 ### 3.2.1 Organización marco y forma en que se emiten y ejecutan las instrucciones
-Tanto el gestor de la vía SŽDC como el transportista ČD tienen aprobado un sistema de garantía de
-seguridad en virtud de las disposiciones de la Ley de ferrocarriles y su cumplimiento garantiza la
-seguridad de la explotación de las vías y del transporte ferroviario. En los sistemas de garantía de
-seguridad aprobados relacionados con las circunstancias de la aparición de esta concreta MU no se
-detectaron defectos.
-### 3.2.2 Requisitos para los empleados del gestor de la vía y del transportista y su
-aplicación
-Los requisitos para los empleados del gestor de la vía y del transportista, en particular los
-requisitos de idoneidad profesional y sanitaria, vienen dados por la Ley núm. 266/1994 Sb.,
-de ferrocarriles, en su redacción vigente, por el reglamento de ejecución núm. 101/1995 Sb.,
-Reglamento de idoneidad sanitaria y profesional de las personas para la explotación de las vías y
-del transporte ferroviario, en su redacción vigente, y por las normas internas del gestor de la vía y
-del transportista. Según la documentación presentada, los empleados del transportista eran
-profesional y sanitariamente idóneos para el desempeño de sus funciones el día de la aparición de la MU.
-### 3.2.3 Procedimiento de control interno de seguridad y sus resultados
-La revisión de la actividad del jefe de tren del tren Os 7905, centrada en el cumplimiento de las
-normas internas del transportista en el desempeño de la función de jefe de tren, fue realizada por el
-transportista de conformidad con los procedimientos tecnológicos unificados del transportista. No se
-detectaron defectos.
-La última revisión de la actividad del maquinista del tren Os 7905, centrada en el cumplimiento de
-las normas internas del transportista en el desempeño de la función de maquinista, fue realizada por el
-transportista de conformidad con los procedimientos tecnológicos unificados del transportista el día
-24. 2. 2011. No se detectaron defectos.
+Tanto el gestor de la vía SŽDC como el transportista ČD tienen aprobado un sistema de garantía de la seguridad en virtud de las disposiciones de la Ley de ferrocarriles y su cumplimiento garantiza la seguridad de la explotación de las vías y del transporte ferroviario. En los sistemas de garantía de la seguridad aprobados relacionados con las circunstancias de la aparición de esta concreta MU no se detectaron deficiencias.
+### 3.2.2 Requisitos para los empleados del gestor de la vía y del transportista y su aplicación
+Los requisitos para los empleados del gestor de la vía y del transportista, en particular los requisitos de idoneidad profesional y sanitaria, vienen establecidos por la Ley núm. 266/1994 Sb., de ferrocarriles, en su redacción vigente, por el reglamento de ejecución núm. 101/1995 Sb., Reglamento de idoneidad sanitaria y profesional de las personas para la explotación de vías y del transporte ferroviario, en su redacción vigente, y por las normas internas del gestor de la vía y del transportista. Según la documentación aportada, los empleados del transportista eran profesional y sanitariamente idóneos para el desempeño de sus funciones el día en que se produjo la MU.
+### 3.2.3 Procedimiento de control interno de la seguridad y sus resultados
+La revisión de la actividad del jefe de tren del tren Os 7905, centrada en el cumplimiento de las normas internas del transportista en el desempeño de la función de jefe de tren, fue realizada por el transportista de conformidad con los procedimientos tecnológicos uniformes del transportista. No se detectaron deficiencias.
+La última revisión de la actividad del maquinista del tren Os 7905, centrada en el cumplimiento de las normas internas del transportista en el desempeño de la función de maquinista, fue realizada por el transportista de conformidad con los procedimientos tecnológicos uniformes del transportista el 24. 2. 2011. No se detectaron deficiencias.
 ### 3.2.4 Interfaz entre los distintos sujetos implicados y los componentes de la vía de circulación
-La interfaz entre los sujetos implicados y los componentes de la vía de circulación se establece
-según la Ley núm. 266/1994 Sb., de ferrocarriles, en su redacción vigente, de la siguiente manera:
-El propietario y gestor de la vía ferroviaria de categoría nacional, Zdice –
-Protivín, es la Administración de la Vía de Circulación Ferroviaria, organización estatal, con
-domicilio en Dlážděná 1003/7, Praha 1-Nové Město, en virtud de la Autorización Administrativa
-expedida por la Autoridad Ferroviaria de Praga el día 29. 05. 2008, con el núm. de expediente:
-3-277/07-DÚ/Le-DÚ/O-Sl, núm. de registro ÚP/2008/9002.
-La explotación de las instalaciones de la vía de circulación ferroviaria, la organización del
-transporte ferroviario, la dirección y organización del transporte ferroviario las realizan los
-empleados de České dráhy, a. s., en virtud del contrato "CONTRATO DE EXPLOTACIÓN DE LA VÍA",
-celebrado entre la Administración de la Vía de Circulación Ferroviaria, organización estatal, y
-České dráhy, a. s., el día 30. 6. 2008, con efectos desde el 1. 7. 2008.
-El transportista České dráhy, a. s., con domicilio en Nábřeží L. Svobody 1222 Praha 1,
-CP 110 15, en virtud de la Licencia de transportista concedida por la Autoridad Ferroviaria de
-Praga el día 17. 9. 2003, con el núm. de expediente: 3-2169/03-DÚ/Bp, núm. de registro:
-L/2004/9000 y del contrato "CONTRATO núm. 001/05 de acceso a la vía de circulación ferroviaria
-nacional y de las vías regionales en
+La interfaz entre los sujetos implicados y los componentes de la vía de circulación se establece conforme a la Ley núm. 266/1994 Sb., de ferrocarriles, en su redacción vigente, de la siguiente manera:
+El propietario y gestor de la vía ferroviaria de categoría nacional, Zdice – Protivín, es la Administración de la Vía de Circulación Ferroviaria, organización estatal, con domicilio en Dlážděná 1003/7, Praha 1-Nové Město, en virtud de la Autorización Oficial expedida por la Autoridad Ferroviaria de Praga el 29. 05. 2008, con el núm. de expediente: 3-277/07-DÚ/Le-DÚ/O-Sl, núm. de registro ÚP/2008/9002.
+La explotación de las instalaciones de la vía de circulación ferroviaria, la organización del transporte ferroviario, la dirección y organización del transporte ferroviario las realizan los empleados de České dráhy, a. s., en virtud del contrato «CONTRATO DE EXPLOTACIÓN DE LA VÍA», celebrado entre la Administración de la Vía de Circulación Ferroviaria, organización estatal, y České dráhy, a. s., el 30. 6. 2008, con efectos desde el 1. 7. 2008.
+El transportista České dráhy, a. s., con domicilio en Nábřeží L. Svobody 1222 Praha 1, CP 110 15, en virtud de la Licencia de transportista concedida por la Autoridad Ferroviaria de Praga el 17. 9. 2003, con el núm. de expediente: 3-2169/03-DÚ/Bp, núm. de registro: L/2004/9000, y del contrato «CONTRATO núm. 001/05 de acceso a la vía de circulación ferroviaria de la vía nacional y de las vías regionales en
 
 ## Página 17
 
-propiedad estatal", en la redacción de las enmiendas n.º 1 a 6 en vigor, celebrado entre las partes contratantes, SŽDC, s. o., y ČD, a. s., el 31. 10. 2005 y "CONTRATO n.º 001/08
-sobre la explotación del transporte ferroviario en la vía de transporte ferroviario del ferrocarril de ámbito nacional y de los ferrocarriles regionales en propiedad de la República Checa", en la redacción de la enmienda n.º 1 en vigor, celebrado entre las partes contratantes, SŽDC, s. o., y ČD, a. s., el 1. 7. 2008, con vigencia a partir del 1. 7.
+«propiedad del Estado», en la redacción de los adendas n.º 1 a 6 en vigor, celebrado entre las partes contratantes, SŽDC, s. o., y ČD, a. s., el 31. 10. 2005, y «CONTRATO n.º 001/08
+sobre la explotación del transporte ferroviario en la vía de transporte ferroviario de la red ferroviaria de ámbito estatal y de las redes ferroviarias regionales en propiedad de la República Checa», en la redacción del adenda n.º 1 en vigor, celebrado entre las partes contratantes, SŽDC, s. o., y ČD, a. s., el 1. 7. 2008, con vigencia desde el 1. 7.
 2008.
 ## 3.3
-### Regulación jurídica y otra
-### 3.3.1 Normativa jurídica comunitaria y nacional correspondiente
-Durante la investigación del MU se constató la infracción de las siguientes normas jurídicas:
-§ 35 apartado 1 letra a) de la Ley n.º 266/1994 Sb., de los ferrocarriles, en la redacción vigente,
+### Regulación jurídica y de otro tipo
+### 3.3.1 Normativa comunitaria y nacional aplicable
+En la investigación del MU se constató el incumplimiento de las siguientes disposiciones legales:
+§ 35 apartado 1 letra a) de la Ley n.º 266/1994 Sb., sobre ferrocarriles, en la redacción vigente,
 •
-"El operador de transporte está obligado a explotar el transporte ferroviario de acuerdo con las reglas de explotación del transporte ferroviario, la licencia vigente y el contrato celebrado con el explotador de la vía
-sobre la explotación del transporte ferroviario en la vía".
-§ 15 apartado 4 del Decreto n.º 173/1995 Sb., por el que se dicta el Reglamento de circulación ferroviaria,
+«El operador ferroviario está obligado a explotar el transporte ferroviario de acuerdo con las normas de explotación del transporte ferroviario, la licencia vigente y el contrato celebrado con el explotador de la vía ferroviaria
+sobre la explotación del transporte ferroviario en la vía».
+§ 15 apartado 4 del decreto n.º 173/1995 Sb., por el que se aprueba el reglamento de circulación ferroviaria,
 •
-en la redacción vigente, "Un tren para el transporte de pasajeros solo puede salir de la estación o parada ferroviaria cuando no se vea amenazada la seguridad de los pasajeros que suben
-y bajan y la seguridad de la circulación del tren."
-3.3.2 Otras normas, p. ej., el reglamento de explotación, el reglamento laboral, las normas de mantenimiento, las normas técnicas vigentes y otras normas internas
-Durante la investigación del MU se constató la infracción de las siguientes normas internas:
-norma interna de ČD KC1 "Norma para las actividades en los trenes en relación con el transporte de pasajeros
+en la redacción vigente, «El tren destinado al transporte de pasajeros solo puede salir de la estación o parada ferroviaria cuando no se vea amenazada la seguridad de los pasajeros que suben y bajan
+y la seguridad de la circulación del tren».
+3.3.2 Otras normas, por ejemplo, el reglamento de explotación, el reglamento laboral, las normas de mantenimiento, las normas técnicas vigentes y otras normas internas
+En la investigación del MU se constató el incumplimiento de las siguientes normas internas:
+norma interna de ČD KC1 «Norma para las actividades en los trenes en relación con el transporte de pasajeros
 •
-y el traslado" (aprobada el 7. 11. 2008 bajo el n.º de expediente 60115/2008-O16, en la redacción vigente), donde en el art. 187 se indica: "Sin la advertencia de finalización de la subida y bajada no debe darse la señal 'Permiso para la salida'. Antes de dar la señal 'Preparados para la salida',
-respectivamente 'Permiso para la salida', el personal de servicio del tren debe asegurarse siempre de la finalización de la subida/bajada de los pasajeros y del cierre de las puertas (si no son controladas centralmente por el maquinista)."
+y la expedición» (aprobada el 7. 11. 2008 bajo el n.º de expediente 60115/2008-O16, en la redacción vigente), en la que en el art. 187 se indica: «Sin la advertencia de finalización del embarque y desembarque no debe darse la señal "Autorización para la salida". Antes de dar la señal "Preparado para la salida",
+o "Autorización para la salida", el personal de servicio del tren debe comprobar siempre la finalización del embarque/desembarque de los pasajeros y el cierre de las puertas (si no son controladas centralmente por el maquinista).»
 ## 3.4
 ### Funcionamiento de los vehículos ferroviarios y de las instalaciones técnicas
-### 3.4.1 Sistema de mando, señalización y seguridad, incluidos los dispositivos de registro automático de datos
-La línea Zdice – Protivín en el tramo Zdice (fuera) – Písek (fuera) se manda centralmente desde el puesto de trabajo DOZ por el despachador DOZ. La sede del despachador está en la est. Březnice.
-El sistema de mando, señalización y seguridad de la circulación del tren Os 7905 no guardaba relación con la causación del MU.
-El movimiento de personas en el ámbito de la est. Čimelice se monitoriza mediante un sistema de cámaras, que está formado por dos cámaras situadas en el edificio de la estación y por un dispositivo de control y registro
+### 3.4.1 Sistema de gestión, señalización y seguridad, incluidos los dispositivos de registro automático de datos
+La línea Zdice – Protivín está gestionada de forma centralizada en el tramo Zdice (fuera) – Písek (fuera) por el despachador DOZ desde el puesto de trabajo de gestión DOZ. La sede del despachador se encuentra en la est. Březnice.
+El sistema de gestión de la señalización y de la seguridad de la circulación del tren Os 7905 no guardaba relación con la aparición del MU.
 
+El movimiento de personas en el ámbito de la est. Čimelice es monitorizado por un sistema de cámaras, compuesto por dos cámaras situadas en el edificio de estación y en el puesto de control y registro
 
 ## Página 18
+
 
 que está situado en el puesto de trabajo del despachador DOZ en Březnici. La grabación de las cámaras fue
 utilizada por el DI para determinar las causas y circunstancias de la causación de este MU.
@@ -597,6 +574,7 @@ Los componentes de la vía no tuvieron influencia en la causación del MU.
 
 ## Página 19
 
+
 ### 3.4.3 Medios de comunicación
 El uso de los medios de comunicación antes de la aparición del AE no guardaba relación con la aparición del AE.
 ### 3.4.4 Material rodante, incluidos los dispositivos de registro automático de datos
@@ -623,8 +601,8 @@ Al insertar una cuña de 3 cm de anchura en el espacio de las puertas a diferent
 •
 150 cm desde el escalón de acceso inferior) y dar la orden de cierre de las puertas, las puertas
 
-
 ## Página 20
+
 
 tras el impacto contra la cuña no llegaron a la posición final y se abrieron. En el intento
 con un objeto fino insertado – la palma, la punta de la chaqueta con objetos pequeños
@@ -641,8 +619,8 @@ El material rodante de tracción diésel fue explotado por el transportista en u
 La circulación del tren Os 7905 en el ámbito de la estación de Čimelice estuvo garantizada por la operación normal del dispositivo de seguridad. La operación del dispositivo de seguridad fue realizada por el regulador DOZ desde el puesto de mando DOZ en la estación de Březnice. La salida del tren de la estación de Čimelice se produjo tras la indicación «Autorización de salida» por el jefe de tren. El maquinista detuvo el tren inmediatamente tras oír los gritos de los pasajeros que fueron testigos de la aparición del AE.
 Se detectó una anomalía – el incumplimiento del procedimiento tecnológico en la salida del tren.
 
-
 ## Página 21
+
 
 ### 3.5.2 Intercambio de comunicaciones verbales en relación con el suceso excepcional, incluidos los documentos del dispositivo de registro
 En relación con el AE no se produjo ninguna comunicación verbal antes de la aparición del AE.
@@ -675,6 +653,7 @@ La disposición del equipamiento del puesto de mando del regulador DOZ no guarda
 
 ## Página 22
 
+
 La disposición de la cabina de conducción de la unidad de motor 842.022-6 permite
 un manejo seguro de la HDV.
 ## 3.7
@@ -693,20 +672,20 @@ El tren Os 7905 (compuesto por una unidad de motor circulando de forma independi
 • por las puertas traseras: un hombre.
 Tras el descenso de las personas mencionadas, el jefe de tren dio al maquinista la señal «Permiso para la salida». El maquinista pasó desde el lado izquierdo de la cabina al pupitre de mando de la unidad de motor en el lado derecho y accionó el botón de cierre de puertas. En el intervalo entre la emisión de la señal «Permiso para la salida» por el jefe de tren y el accionamiento del cierre de puertas por el maquinista, una pasajera descendía por las puertas traseras del coche. Tras su descenso al andén, en el momento en que aún se sostenía del pasamanos de los escalones del coche, se produjo el atrapamiento de su mano derecha en las puertas traseras que se cerraban de la unidad de motor y el bloqueo de las puertas en posición cerrada. En la
 
-
 ## Página 23
 
-cabina de conducción se apagó la piloto que indicaba puertas abiertas y, tras su apagado, el maquinista puso el tren en movimiento. La mujer intentó liberar su mano del atrapamiento en las puertas. Una vez que su velocidad de carrera ya no igualaba la velocidad del tren que se ponía en marcha, cayó, con lo que se liberó la mano de las puertas.
-La mujer joven, que había descendido por las puertas delanteras, al ver que la mujer tenía la mano atrapada en las puertas del tren en marcha, corrió tras el tren que se ponía en marcha e intentó, mediante gritos y gestos, alertar al maquinista sobre la ocurrencia del incidente. El maquinista, tras oír los gritos, detuvo el tren y, junto con el jefe de tren, prestaron primeros auxilios a la mujer herida.
+En el puesto de conducción se apagó la luz que señalaba las puertas abiertas y, tras apagarse, el maquinista puso el tren en marcha. La mujer intentó liberar su mano del agarre de las puertas. Una vez que la velocidad de su carrera ya no igualaba la velocidad del tren que arrancaba, cayó, con lo que se liberó la mano de las puertas.
+La joven que había bajado por las puertas delanteras, al ver que la mujer tenía la mano atrapada en las puertas del tren en marcha, alcanzó el tren que arrancaba e intentó, mediante gritos y gestos, advertir al maquinista de la aparición de un MU. El maquinista, tras oír los gritos, detuvo el tren y, junto con el jefe de tren, prestó primeros auxilios a la mujer herida.
 ## 4.2
 ### Análisis
-### 4.2.1 Evaluación de los hechos constatados según el punto 3 y exposición de conclusiones sobre la causa del incidente y la actuación de los servicios de rescate
-Del análisis de la grabación de vídeo realizada con la cámara K2 en la est. Čimelice se desprende que la mujer herida descendía del tren en un momento en el que aún no se había emitido la señal sonora y luminosa «No descender». (El inicio del descenso de la mujer es a las 9:23:45 h, el inicio de la emisión de la advertencia es a las 9:23:48 h.) No se produjo por su parte infracción del § 37 apartado 5 de la Ley núm. 266/1994 Sb., de ferrocarriles, en su redacción vigente, ni del artículo núm. 135 de las «Condiciones de transporte contractuales de los Ferrocarriles Checos para el transporte público de viajeros». El jefe de tren dio la señal «Permiso para la salida» como más tarde a las 9:23:44 h, ya que a las 9:23:45 h la mujer ya bajaba por los escalones y el jefe de tren la habría visto. El maquinista accionó el cierre de puertas a las 9:23:48 h. La mujer descendía en el intervalo entre la emisión de la señal «Permiso para la salida» por el jefe de tren y el accionamiento del cierre de puertas por el maquinista.
-El jefe de tren del tren Os 7905 no se comprobó debidamente, antes de dar la señal «Permiso para la salida», de la finalización del embarque/desembarque de los pasajeros. Esta obligación le es impuesta por el artículo núm. 187 de la norma interna de los Ferrocarriles Checos, a. s., ČD KC1 «Reglamento para las actividades en los trenes en relación con el transporte de viajeros y el transporte de mercancías». Según su propia declaración, se comprobó de la finalización del embarque/desembarque de los pasajeros con una mirada a lo largo de la composición desde las puertas delanteras del coche.
-El maquinista del tren Os 7905, tras recibir la señal «Permiso para la salida» del jefe de tren, cerró desde su cabina las puertas de la unidad de motor y, tras apagarse la piloto de apertura de puertas, puso el tren en movimiento. La construcción de la unidad de motor de la serie 842 no permite al maquinista, durante la circulación, vigilar el espacio situado a lo largo del lado izquierdo del coche.
-El operador ČD no ha establecido en sus procedimientos tecnológicos, para el maquinista de un tren de transporte de viajeros en el que las puertas se cierran centralmente por el maquinista y no están equipadas con un dispositivo que controle de forma fiable su cierre completo a lo largo de toda su longitud, la obligación de comprobar visualmente, antes de poner el tren en movimiento, que todas las puertas están debidamente cerradas y de que con la circulación del tren no pueda producirse el riesgo para las personas que se encuentren en las inmediaciones de la composición. Debido a la no establecimiento de esta obligación, puede producirse una situación peligrosa en la que, en el intervalo entre la emisión de la señal «Permiso para la salida» por el jefe de tren y el accionamiento del cierre de puertas por el maquinista, un pasajero pueda descender del tren y pueda producirse su atrapamiento en las puertas del coche y su arrastre durante la puesta en marcha del tren.
+### 4.2.1 Evaluación de los hechos constatados de acuerdo con el punto 3 y formulación de conclusiones sobre la causa del suceso excepcional y la actuación de los servicios de rescate
+Del análisis de la grabación de vídeo realizada con la cámara K2 en la estación de Čimelice se desprende que la mujer herida bajaba del tren en un momento en el que aún no se había emitido la señal acústica y luminosa «No bajar» (El inicio de la bajada de la mujer es a las 9:23:45 h, el inicio de la emisión de la advertencia es a las 9:23:48 h.) No se produjo por su parte infracción del § 37 apartado 5 de la Ley núm. 266/1994 Sb., de ferrocarriles, en su redacción vigente, ni del artículo núm. 135 de las «Condiciones contractuales de transporte de los Ferrocarriles Checos para el transporte público de viajeros». El jefe de tren emitió la señal «Autorización de salida» como más tarde a las 9:23:44 h, puesto que a las 9:23:45 h la mujer ya bajaba por los escalones y el jefe de tren la habría visto. El maquinista accionó el cierre de puertas a las 9:23:48 h. La mujer bajaba en el intervalo comprendido entre la emisión de la señal «Autorización de salida» por el jefe de tren y el accionamiento del cierre de puertas por el maquinista.
+El jefe de tren del tren Os 7905 no se comprobó debidamente, antes de emitir la señal «Autorización de salida», que hubiera finalizado el embarque/desembarque de viajeros. Esta obligación le es impuesta por el artículo núm. 187 de la normativa interna de los Ferrocarriles Checos, a. s., ČD KC1 «Reglamento para las actividades en los trenes en relación con el transporte de viajeros y el transporte de mercancías». Según su propia declaración, se comprobó el fin del embarque/desembarque de viajeros mirando a lo largo de la composición desde las puertas delanteras del coche.
+El maquinista del tren Os 7905, tras recibir la señal «Autorización de salida» del jefe de tren, cerró desde su puesto las puertas del coche motor y, una vez apagada la luz de apertura de puertas, puso el tren en marcha. La construcción del coche motor de la serie 842 no permite al maquinista, durante la marcha, vigilar el espacio situado a la izquierda del coche.
+El operador ČD no ha establecido en sus procedimientos tecnológicos que el maquinista de un tren de transporte de viajeros, cuyas puertas son cerradas centralmente por el maquinista y no están equipadas con un dispositivo que controle de forma fiable su cierre total a lo largo de toda su longitud, tenga la obligación de comprobar visualmente, antes de poner el tren en marcha, que todas las puertas estén debidamente cerradas y de que la marcha del tren no pueda suponer un peligro para las personas que se encuentren en las proximidades de la composición. Debido a la no establecimiento de esta obligación, puede producirse una situación peligrosa en la que, en el intervalo comprendido entre la emisión de la señal «Autorización de salida» por el jefe de tren y el accionamiento del cierre de puertas por el maquinista, un viajero pueda bajar del tren y pueda quedar atrapado en las puertas del coche y ser arrastrado tras el arranque del tren.
 
 ## Página 24
+
 
 La Inspección Ferroviaria (Drážní inspekce), con base en la investigación de las causas y circunstancias del origen de un suceso ferroviario (MU) análogo, ocurrido el 7. 3. 2010 en la estación de Ostrava hl. n., emitió una recomendación de seguridad en la que recomendó al transportista ČD realizar modificaciones constructivas en los vehículos de motor de la serie 842 y completar sus procedimientos tecnológicos de modo que se minimice la posible aparición de otros MU por las mismas o análogas causas.
 El 5. 5. 2011, la DI realizó al transportista ČD una inspección de supervisión estatal con enfoque en el cumplimiento de la recomendación de seguridad anteriormente mencionada. Durante la inspección de supervisión estatal, la DI constató que el transportista ČD, con base en la recomendación de seguridad de la DI, no había adoptado ninguna medida concreta propia. Con base en la solicitud de la DI, el transportista ČD emitió el 23. 9. 2011 la "Instrucción n.º 39/2011 del jefe de tráfico de DKV Plzeň", que impone a los maquinistas la obligación de comprobar mediante una mirada desde la cabina a lo largo del tren el fin del desembarque y embarque de pasajeros y el cierre de las puertas.
@@ -727,8 +706,8 @@ el transportista ČD, a. s., no estableció en sus procedimientos tecnológicos
 •
 la obligación, para el maquinista de un tren de transporte de pasajeros en el que las puertas se cierran centralizadamente por el maquinista y no están equipadas con un dispositivo que controle de forma fiable su cierre completo en toda su longitud, de comprobar mediante una mirada, antes de poner el tren en movimiento, que todas las puertas están debidamente cerradas y de que no pueda producirse, con la circulación del tren, un riesgo para las personas que se encuentren en las inmediaciones de la composición. Debido a la no establecimiento de esta obligación, puede producirse una situación peligrosa en la que, en el tiempo
 
-
 ## Página 25
+
 
 transcurrido entre la indicación de la señal "Autorización para la salida" por el jefe de tren y la operación de cierre de puertas por el maquinista, pueda desembarcar un pasajero del tren y pueda producirse su atrapamiento entre las puertas del vehículo y su arrastre durante la puesta en marcha del tren.
 ### 4.3.3 Causas derivadas del marco normativo y del uso del sistema de aseguramiento de la seguridad
@@ -754,6 +733,7 @@ completar el circuito de control de cierre de las puertas de acceso del HDV de l
 
 ## Página 26
 
+
 mediante la modificación del mando interior de las puertas de acceso de la HDV serie 842, impedir
 •
 el cierre neumático de las puertas de acceso cuando el conmutador de mando de las puertas de acceso S131/S132 se encuentra en la posición «OL» o «OP», tras una activación no deseada provocada por un pasajero que, al subir, desplaza ligeramente el mando en el sentido de cierre de las puertas;
@@ -770,8 +750,8 @@ Antes incluso de la emisión de la recomendación de seguridad de la DI, el tran
 
 La Inspección Ferroviaria, como autoridad administrativa competente en la materia según lo dispuesto en el apartado 5 del artículo 53b de la Ley n.º 266/1994 Sb., de ferrocarriles, en su redacción vigente, sobre la base del resultado de la investigación de las causas y circunstancias del origen de esta incidencia excepcional y atendiendo a que el transportista no ha adoptado ninguna medida propia para prevenir la aparición de incidencias excepcionales por las mismas o causas análogas a raíz de la recomendación de seguridad emitida por la DI en relación con la incidencia excepcional del 7 de 3 de 2010 en la est. Ostrava hl.n., vuelve a recomendar:
 
-
 ## Página 27
+
 
 al transportista České dráhy, a. s.:
 –
@@ -792,8 +772,8 @@ Director
 De la Inspección Territorial de Plzeň
 De la Inspección Territorial de Plzeň
 
-
 ## Página 28
+
 
 ## 7 ANEXOS
 

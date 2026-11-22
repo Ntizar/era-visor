@@ -10,21 +10,22 @@ chars: 115520
 ratio_longitud: 1.07
 tokens_in: 44706
 tokens_out: 29590
-verificacion: revisar
 fecha_proceso: 2026-11-18
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-avisos: ["página 45: ratio 1.74", "página 46: cifras largas: faltan 4/4 (100%); ratio 0.24"]
+verificacion: ok
 notas_cifras: ["página 4: cifras cortas: 1/4", "página 5: cifras cortas: 3/5", "página 7: cifras cortas: 2/12", "página 14: cifras cortas: 7/24", "página 15: cifras cortas: 2/5", "página 16: cifras cortas: 4/14"]
 ---
+
 ## Página 1
+
 
 INFORME
 Colisión en paso a nivel
 Hooge Zwaluwe
 La Haya | diciembre de 2025
 
-
 ## Página 2
+
 
 ## Consejo de Seguridad
 
@@ -34,8 +35,8 @@ El Consejo de Seguridad para la Seguridad se centra principalmente en situacione
 N.B. Este informe se publica en neerlandés, con el resumen y las recomendaciones en inglés. Si existe diferencia en la interpretación del informe en neerlandés y del resumen y las recomendaciones en inglés, prevalecerá el informe en neerlandés.
 Colisión en paso a nivel Hooge Zwaluwe, diciembre de 2025 | Introducción
 
-
 ## Página 3
+
 
 ## Índice
 ### Resumen
@@ -123,8 +124,8 @@ Superior:	 Hendrik Bouwknegt/Rail Magazine
 Inferior:	 Policía
 Colisión en paso a nivel Hooge Zwaluwe, diciembre de 2025 | Índice
 
-
 ## Página 4
+
 
 ## Resumen
 La tarde del miércoles 28 de agosto de 2024, un tren de mercancías colisionó contra un camión que sobresalía en el paso a nivel Zanddijk en Hooge Zwaluwe. El maquinista del tren de mercancías perdió la vida en el accidente y uno de los otros dos compañeros en el tren de mercancías resultó herido. El conductor del camión no sufrió lesiones físicas. El Consejo de Seguridad para la Seguridad investigó cómo pudo ocurrir este incidente con el objetivo de extraer lecciones para el futuro.
@@ -144,6 +145,7 @@ El tramo Lage Zwaluwe - Oosterhout Weststad se considera parte de las vías port
 Colisión en paso a nivel Hooge Zwaluwe, diciembre de 2025 | Resumen
 
 ## Página 5
+
 
 ## Recomendaciones
 Para hacer más seguros los pasos a nivel fuera de la red de viajeros, deben asignarse con mayor claridad las responsabilidades, realizarse análisis de riesgo más específicos y proteger activamente los pasos a nivel. En 2020, el gestor ferroviario estableció en su visión que los pasos a nivel sin protección ya no están a la altura de los tiempos actuales. El Consejo de Seguridad (Onderzoeksraad voor Veiligheid) respalda esta visión. La seguridad en los pasos a nivel debe ser un componente explícito de la decisión de mantener un paso a nivel o una sección de vía. A raíz de esta investigación, formulamos las siguientes recomendaciones.³
@@ -166,8 +168,8 @@ Véase *Seguridad en los pasos a nivel. Un cruce de intereses arriesgado* (2018)
 
 Colisión en paso a nivel Hooge Zwaluwe, diciembre 2025 | Recomendaciones
 
-
 ## Página 6
+
 
 ### Recomendación 3
 La empresa ferroviaria desconocía los riesgos en esta sección de vía. Los maquinistas eran conscientes de los riesgos, pero no los notificaron. Los maquinistas deben poder notificar riesgos de seguridad y la empresa ferroviaria debe recabar activamente las notificaciones. Dichas notificaciones deben contribuir a una mejora de la seguridad. Por lo tanto, dirigimos la siguiente recomendación a la empresa ferroviaria.
@@ -184,8 +186,8 @@ Secretario-director
 
 Colisión en paso a nivel Hooge Zwaluwe, diciembre 2025 | Recomendaciones
 
-
 ## Página 7
+
 
 ## Introducción
 ## 1.1	
@@ -200,8 +202,8 @@ Figura 1: Foto de la colisión con el tren de mercancías, vista desde la direcc
 
 Colisión en paso a nivel Hooge Zwaluwe, diciembre 2025 | H1 Introducción
 
-
 ## Página 8
+
 
 ### Ubicación del lugar del accidente
 Paso a nivel Zanddijk en Hooge Zwaluwe 
@@ -219,6 +221,7 @@ Figura 2: Esquema de situación de la ubicación del lugar del accidente con el 
 Colisión en paso a nivel Hooge Zwaluwe, diciembre 2025 | H1 Introducción
 
 ## Página 9
+
 
 ## 1.3	
 ### Enfoque y delimitación
@@ -246,8 +249,8 @@ la Dirección General de Ferrocarriles del Ministerio de Infraestructura y Gesti
 Pasos a nivel sin protección comparable en vías portuarias e industriales, líneas de alimentación y líneas museísticas.
 Colisión en paso a nivel Hooge Zwaluwe, diciembre de 2025 | H1 Introducción
 
-
 ## Página 10
+
 
 El día del accidente, los investigadores de la Junta visitaron la ubicación. En una fase posterior, se realizaron diversas visitas al paso a nivel y se viajó a bordo de un tren de mercancías de la empresa ferroviaria implicada en el tramo Lage Zwaluwe – Oosterhout Weststad.
 Para una evaluación experta desde la perspectiva de la percepción humana, se contrató a una parte externa (Intergo) como apoyo a la investigación. Su informe se adjunta como anexo independiente a este informe de investigación.
@@ -258,8 +261,8 @@ En el capítulo 2 describimos la secuencia de hechos (apartado 2.1) y la informa
 En el anexo A figura de qué partes hemos recibido comentarios sobre el borrador del informe, con referencia a dichos comentarios. En el anexo B describimos, con mayor detalle que en el capítulo 2, los hallazgos de la investigación sobre el sistema de tráfico ferroviario y el sistema de tráfico viario. El anexo C ofrece un breve resumen de las investigaciones realizadas por la empresa ferroviaria y el gestor de infraestructura, así como de las medidas adoptadas por ellos tras el accidente.
 Colisión en paso a nivel Hooge Zwaluwe, diciembre de 2025 | H1 Introducción
 
-
 ## Página 11
+
 
 ## Secuencia de hechos e información de contexto
 Este capítulo comienza con una descripción de la secuencia de hechos en el apartado 2.1. El apartado 2.2 describe información de contexto sobre la seguridad en los pasos a nivel. En ella se ofrece una breve descripción del sistema de tráfico ferroviario (2.2.1) y del sistema de tráfico viario (2.2.2). Esta información es necesaria para el análisis del capítulo 3.
@@ -273,6 +276,7 @@ Longitud total 92,4 metros y peso total 242 toneladas.
 Colisión en paso a nivel Hooge Zwaluwe, diciembre de 2025 | H2 Secuencia de hechos e información de contexto
 
 ## Página 12
+
 
 En la plataforma (véase figura 3) de la locomotora había tres
 ### La combinación de camiones cargada con acero13 se aproximaba al
@@ -314,8 +318,8 @@ La causa de la aplicación del frenado leve no pudo determinarse posteriormente.
 Una combinación de camiones compuesta por una cabeza tractora y un semirremolque.
 Colisión en paso a nivel Hooge Zwaluwe, diciembre de 2025 | H2 Causas y antecedentes
 
-
 ## Página 13
+
 
 Figura 5: Foto del paso a nivel Zanddijk vista desde la dirección (norte) de aproximación del camión (fuente: Policía).
 En la colisión, los topes de la locomotora quedaron bajo
@@ -351,6 +355,7 @@ Colisión en paso a nivel Hooge Zwaluwe, diciembre de 2025 | H2 Causas y anteced
 
 ## Página 14
 
+
 La seguridad en los pasos a nivel va más allá de la mera gestión ferroviaria.
 En la *Regeling hoofdspoorweginfrastructuur* (Reglamento de infraestructura ferroviaria principal) estos
 No obstante, un gestor viario no tiene un papel legal explícito en los pasos a nivel respectivamente designados como «pasos a nivel protegidos activamente» y «pasos a nivel protegidos no activamente».¹⁸
@@ -384,6 +389,7 @@ Colisión en paso a nivel Hooge Zwaluwe, diciembre de 2025 | H2 Hechos e informa
 
 ## Página 15
 
+
 ### Pasos a nivel
 Paso a nivel no protegido
 Paso a nivel protegido, paso a nivel con barreras
@@ -400,6 +406,7 @@ Oosterhout
 Colisión en paso a nivel Hooge Zwaluwe, diciembre de 2025 | H2 Hechos e información de contexto
 
 ## Página 16
+
 
 Inventario de riesgos
 La empresa ferroviaria dispone de varios inventarios de riesgos genéricos, entre otros para la circulación de trenes y para las maniobras. Los riesgos específicos de un tramo como el tramo Lage Zwaluwe – Oosterhout Weststad no se abordan en este tipo de inventarios de riesgos. No obstante, estos riesgos reciben atención durante la adquisición del conocimiento de la vía bajo la supervisión de un maquinista experimentado. El día del accidente existía una orden de aprendizaje de la vía de este tipo.
@@ -425,6 +432,7 @@ Colisión en paso a nivel Hooge Zwaluwe, diciembre de 2025 | H2 Circunstancias e
 
 ## Página 17
 
+
 La Zanddijk es una carretera rural asfaltada con marcas viales, donde rige una velocidad máxima de 60 kilómetros por hora. Diariamente cruzan el paso a nivel más de 850 usuarios de la vía (Anexo B.2, figura 16). Principalmente el tráfico regional utiliza la Zanddijk. Un tercio del tráfico consiste en furgonetas y camiones. Además, utilizan esta vía, entre otros, turismos, vehículos agrícolas y ciclistas. Al aproximarse al paso a nivel, un usuario de la vía pasa ante el cartel de aviso «paso a nivel sin barreras»25 (véase figura 7), para alertar al tráfico rodado de la existencia de un paso a nivel sin protección. A continuación, en el paso a nivel sin protección de la Zanddijk hay una cruz de San Andrés26 y vallas disuasorias (véanse la figura 8 y la figura 9), lo que significa que el tráfico rodado debe ceder el paso al tráfico ferroviario. El paso a nivel sin protección cumple los requisitos mínimos de equipamiento establecidos por el administrador de infraestructura ferroviaria para este tipo de paso a nivel.
 
 Antes del paso a nivel, la Zanddijk se estrecha y luego, en el paso a nivel, el pavimento asfáltico da paso a un pavimento adoquinado. Desde la dirección norte —la dirección de marcha desde la que venía el camión—, tras el paso a nivel hay una curva suave en S hacia la izquierda en la calzada. Para los usuarios de la vía, la visión de esta parte de la carretera está obstruida por la vegetación situada tras el paso a nivel (véase figura 10).
@@ -445,6 +453,7 @@ Colisión en paso a nivel Hooge Zwaluwe, diciembre de 2025 | H2 Circunstancias e
 
 ## Página 18
 
+
 En los otros trece pasos a nivel sin protección situados en este tramo, ocho pasos a nivel no cumplían la norma establecida para las líneas de visión (Anexo B.2).27
 
 27	 Administrador de infraestructura ferroviaria, Informe de investigación Colisión en paso a nivel km 8.2 Hooge Zwaluwe 28 de agosto de 2024, mayo de 2025.
@@ -452,6 +461,7 @@ En los otros trece pasos a nivel sin protección situados en este tramo, ocho pa
 Colisión en paso a nivel Hooge Zwaluwe, diciembre de 2025 | H2 Circunstancias e información de contexto
 
 ## Página 19
+
 
 ## Análisis
 Este capítulo describe los distintos factores relevantes para comprender cómo pudo producirse el incidente y extraer conclusiones al respecto en el capítulo 4. El análisis de la actuación del conductor del camión se describe en los apartados 3.1 y 3.2, seguido del análisis de la operación de la locomotora en el apartado 3.3. Por último, describimos la gestión de riesgos y la implicación de las partes en los apartados 3.4 y 3.5.
@@ -470,8 +480,8 @@ El conductor circulaba a menudo por la Zanddijk y declaró que allí nunca habí
 30	 Administradora ferroviaria, Informe de investigación, colisión en paso a nivel km 8.2 Hooge Zwaluwe, 28 de agosto de 2024, mayo de 2025.
 Colisión en paso a nivel Hooge Zwaluwe, diciembre de 2025 | H3 Análisis
 
-
 ## Página 20
+
 
 ### 3.2 El conductor del camión no vio ningún tren
 El paso a nivel en la Zanddijk constituye un estrechamiento en la carretera. Desde la dirección norte, tras el paso a nivel sigue una curva suave en forma de S hacia la izquierda. Debido a la vegetación existente, la visibilidad del tráfico que viene en sentido contrario está limitada. Los usuarios de la vía deben dividir su atención entre el estrechamiento del paso a nivel, el posible tráfico en sentido contrario y un eventual tren que se acerque. Dado que dos vehículos no pueden cruzarse en el paso a nivel, la atención de los usuarios de la vía se centra en la práctica principalmente en el tráfico en sentido contrario. No se espera un tren que se aproxime, por lo que los usuarios de la vía a menudo no buscan activamente uno.
@@ -482,8 +492,8 @@ Figura 11: Fragmento del tramo Lage Zwaluwe – Oosterhout Weststad con cuatro t
 Figura 12: Fragmento de un tramo por el que circulan cuatro trenes por hora (Arnhem – Apeldoorn, a la altura del paso a nivel Broeksweg, Loenen, junio de 2005) (fuente: Google Streetview).
 Colisión en paso a nivel Hooge Zwaluwe, diciembre de 2025 | H3 Análisis
 
-
 ## Página 21
+
 
 El Consejo de Seguridad solicitó a la empresa de investigación Intergo³¹ que analizara cómo los usuarios de la vía se aproximan y cruzan este u otros pasos a nivel similares sin protección. Dos aspectos surgieron en este análisis: la percepción de un tren que se acerca y la carga de tareas al aproximarse al paso a nivel.
 
@@ -499,6 +509,7 @@ Colisión en paso a nivel Hooge Zwaluwe, diciembre de 2025 | H3 Análisis
 
 ## Página 22
 
+
 ### Campo visual
 Campo visual humano proyectado sobre el paso a nivel Zanddijk
 campo visual central
@@ -512,6 +523,7 @@ Figura 13: Ejemplo del campo visual de una persona proyectado sobre el paso a ni
 Atropellamiento en paso a nivel Hooge Zwaluwe, diciembre de 2025 | H3 Análisis
 
 ## Página 23
+
 
 ## 3.3	
 ### El maquinista estaba en la plataforma de la 
@@ -577,6 +589,7 @@ Atropellamiento en paso a nivel Hooge Zwaluwe, diciembre de 2025 | H3 Análisis
 
 ## Página 24
 
+
 ## 3.4	
 ### Gestión del riesgo por parte de la empresa ferroviaria
 Una empresa ferroviaria debe disponer de un certificado de seguridad legalmente obligatorio, así como el administrador de infraestructura ferroviaria. La Inspección de Vivienda y Transporte (ILT) ha evaluado el sistema de gestión de la seguridad de la empresa ferroviaria mediante una auditoría. Esta auditoría se centró en las actividades más arriesgadas. Este tramo específico no fue objeto de la auditoría.
@@ -597,6 +610,7 @@ Colisión en paso a nivel Hooge Zwaluwe, diciembre de 2025 | H3 Análisis
 
 ## Página 25
 
+
 También de las conversaciones con el gestor de la infraestructura ferroviaria se desprende que, sobre todo por hora, para prácticamente todo el tramo de vía se ha anunciado [ilegible: ...]. El Consejo de Investigación de Seguridad considera que esta medida conlleva otros riesgos diferentes, como tiempos de espera excesivamente largos38 en los pasos a nivel debido a la marcha lenta del tren, o la imagen de que el tren que se aproxima, por su baja velocidad, concede prioridad al tráfico viario.
 El gestor de la infraestructura ferroviaria sabe que un tren que circula lentamente no siempre es interpretado como un tren al que se debe dar prioridad, como se desprende de un análisis de accidentes en pasos a nivel sin protección en zonas portuarias e industriales.35 No obstante, el gestor de la infraestructura ferroviaria cuenta con que el usuario del paso a nivel siempre concederá prioridad al tren.
 La empresa ferroviaria no identificó lo que el gran número de pasos a nivel en este tramo de vía significaba para los riesgos del maquinista durante la conducción de la locomotora, en la que el maquinista se encuentra en la plataforma delantera. Además, ni la empresa ferroviaria ni el gestor de la infraestructura ferroviaria centraron su atención en los riesgos que surgían del patrón de expectativas de los usuarios de los pasos a nivel en un tramo de vía utilizado incidentalmente.
@@ -615,6 +629,7 @@ Colisión en Paso a Nivel Hooge Zwaluwe, diciembre de 2025 | H3 Análisis
 
 ## Página 26
 
+
 el organismo de cuencas hidrográficas implicado y el Ministerio de Infraestructura y
 Gestión del Agua (IenW).
 Economía
@@ -632,6 +647,7 @@ La falta de claridad en la delimitación de la gestión de la vegetación en y a
 Colisión en paso a nivel Hooge Zwaluwe, diciembre de 2025 | H3 Análisis
 
 ## Página 27
+
 
 ## Conclusiones
 Este capítulo responde a las preguntas de investigación de este estudio:
@@ -658,6 +674,7 @@ Colisión en paso a nivel Hooge Zwaluwe, diciembre de 2025 | H4 Conclusiones
 
 ## Página 28
 
+
 La empresa ferroviaria, desde la perspectiva de la gestión de la seguridad, no adoptó medidas para limitar los riesgos específicos en este tramo de vía. La velocidad máxima permitida de 30 kilómetros por hora es casi igual a la velocidad máxima de 25 kilómetros por hora con control por radio. La empresa ferroviaria permite el control por radio de la locomotora para maniobras de clasificación. El hecho de que los maquinistas operaran la locomotora mediante control por radio desde la parte delantera de la locomotora les daba la sensación de poder percibir mejor el tráfico rodante que se acercaba. Esto hizo que se situaran en un lugar inseguro.
 
 El gestor de la carretera ensanchó la vía unos años atrás. El paso a nivel no se incluyó en esta adaptación, lo que creó un punto de peligro para los usuarios de la carretera al que debían prestar atención. La reducción del ancho de la calzada y el estado del pavimento exigían atención. Esta atención distraía de la necesaria para un posible tren que se aproximara.
@@ -675,15 +692,15 @@ El maquinista del tren de mercancías falleció y uno de los otros dos compañer
 
 Atropello en paso a nivel Hooge Zwaluwe, diciembre 2025 | H4 Conclusiones
 
-
 ## Página 29
+
 
 Desde abril de 2025, el transporte ferroviario regular limitado ha cesado. Por ello, disminuye la probabilidad de que los usuarios de los pasos a nivel vean circular un tren de mercancías. Esto refuerza la expectativa de que no circulan trenes. Existen planes futuros para la reactivación o precisamente la supresión del tramo de vía, pero estos planes son inciertos y poco urgentes. El municipio de Drimmelen y el organismo de cuenca abogan por la supresión en favor del desarrollo de la naturaleza, mientras que el municipio de Oosterhout quiere mantener el tramo de vía. El gestor de infraestructura ferroviaria mantendrá el tramo de vía en virtud de su tarea de gestión. El Ministerio de Infraestructura y Gestión del Agua no tiene planes para este tramo de vía. En este debate político no se presta atención a los riesgos específicos que entrañan los tramos de vía poco utilizados.
 
 Atropello en paso a nivel Hooge Zwaluwe, diciembre 2025 | H4 Conclusiones
 
-
 ## Página 30
+
 
 ## Recomendaciones
 
@@ -708,6 +725,7 @@ Atropello en paso a nivel Hooge Zwaluwe, diciembre 2025 | H5 Recomendaciones
 
 ## Página 31
 
+
 ### Recomendación 3
 La empresa ferroviaria no conocía los riesgos en este tramo de vía. Los maquinistas eran conscientes de los riesgos, pero no informaron sobre ellos. Los maquinistas deben poder notificar los riesgos para la seguridad y la empresa ferroviaria debe recabar activamente dichas notificaciones. Estas notificaciones deben contribuir a una mejora de la seguridad. Por ello, formulamos la siguiente recomendación a la empresa ferroviaria.
 
@@ -718,6 +736,7 @@ Comparta estos riesgos y medidas con otras empresas ferroviarias, por ejemplo, a
 Atropellamiento en paso a nivel Hooge Zwaluwe, diciembre de 2025 | H5 Recomendaciones
 
 ## Página 32
+
 
 ## ANEXO A
 ## Reacciones al informe preliminar
@@ -740,6 +759,7 @@ Las reacciones y la explicación del Consejo de Investigación se han incluido e
 Atropellamiento en paso a nivel Hooge Zwaluwe, diciembre de 2025 | Anexo A
 
 ## Página 33
+
 
 ## ANEXO B
 ## Información de fondo
@@ -769,6 +789,7 @@ Atropellamiento en paso a nivel Hooge Zwaluwe, diciembre de 2025 | Anexo B
 
 ## Página 34
 
+
 Dique de arena
 Red Natural Brabante / línea férrea
 Oosterhout Weststad
@@ -783,6 +804,7 @@ El tramo de vía entre Hooge Zwaluwe y el Canal hacia el río Amer forma parte d
 Atropellamiento en paso a nivel Hooge Zwaluwe, diciembre de 2025 | Anexo B
 
 ## Página 35
+
 
 ## B.1.2	
 ### Pasos a nivel
@@ -821,8 +843,8 @@ Reglamento de infraestructura ferroviaria principal, https://wetten.overheid.nl/
 Seguridad en pasos a nivel, un cruce arriesgado de intereses, julio de 2018.
 Colisión en paso a nivel Hooge Zwaluwe, diciembre de 2025 | Anexo B
 
-
 ## Página 36
+
 
 pasos a nivel individualmente y no proactivamente hacia todo el tramo, lo que genera 
 diferencias entre los pasos a nivel en este tramo.52  
@@ -836,8 +858,8 @@ mayo de 2018; Gestor de infraestructura ferroviaria, Lage Zwaluwe – Oosterhout
 2023, septiembre de 2024.
 Colisión en paso a nivel Hooge Zwaluwe, diciembre de 2025 | Anexo B
 
-
 ## Página 37
+
 
 Tabla 2: Pasos a nivel y tipo de protección en el tramo Lage Zwaluwe – Oosterhout Weststad (fuente: gestor de infraestructura ferroviaria).
 Lugar 
@@ -971,6 +993,7 @@ Colisión en paso a nivel Hooge Zwaluwe, diciembre de 2025 | Anexo B
 
 ## Página 38
 
+
 Paso a nivel Zanddijk
 Tabla 3: Clasificación del riesgo básico de seguridad por atropello en paso a nivel (fuente: 
 El gestor ferroviario establece requisitos para el ancho del 
@@ -1011,8 +1034,8 @@ Ancho de la vía 5,4 metros (marcado 4,8 metros), ancho del paso a nivel 3,6 met
 64	 Gestor ferroviario, Evaluación ALARP Riesgo Básico de Seguridad Sistema Ferroviario, Incidente en paso a nivel, octubre de 2018.
 Atropello en paso a nivel Hooge Zwaluwe, diciembre de 2025  | Anexo B
 
-
 ## Página 39
+
 
 Modelo Neerlandés de Riesgos en Pasos a Nivel (NORM)
 En un atropello en una vía industrial poco utilizada en 2003 
@@ -1073,6 +1096,7 @@ Atropello en paso a nivel Hooge Zwaluwe, diciembre de 2025  | Anexo B
 
 ## Página 40
 
+
 de múltiples fuentes de información para llegar a una
 evaluación y -evaluación. Se trata del riesgo acumulado de todos los pasos a nivel sin protección, el control por radio desde la parte frontal de la locomotora, las líneas de visión y la expectativa y carga de trabajo del usuario de la vía al pasar por los pasos a nivel sin protección. Los maquinistas tienen una instrucción de uso para los controles del cliente en el emplazamiento Oosterhout Weststad, que incluye instrucciones específicas de seguridad, como sobre la circulación de vagones o caminos seguros.
 
@@ -1094,6 +1118,7 @@ Directiva (UE) 2016/798 del Parlamento Europeo y del Consejo, de 11 de mayo de 2
 Colisión en paso a nivel Hooge Zwaluwe, diciembre de 2025 | Anexo B
 
 ## Página 41
+
 
 ## B.1.5	
 ### Manual para maquinista y maniobrador
@@ -1119,6 +1144,7 @@ El manual para maniobras describe los procesos relacionados con las maniobras, c
 Colisión en paso a nivel Hooge Zwaluwe, diciembre de 2025 | Anexo B
 
 ## Página 42
+
 
 ### La locomotora (número 6412)80 es diésel-eléctrica y adecuada para
 Con motivo del atropello en el paso a nivel de Hooge Zwaluwe,
@@ -1182,6 +1208,7 @@ Atropello en paso a nivel Hooge Zwaluwe, diciembre de 2025 | Anexo B
 
 ## Página 43
 
+
 de conformidad con el Reglamento de normas de tráfico y señales de tráfico de 1990 (RVV 1990).88
 Bicicletas
 Desde la dirección norte –la dirección desde la que venía el camión– hay, tras el paso a nivel, una curva suave en S hacia la izquierda en la carretera. La visibilidad de esta parte de la carretera está obstruida por la vegetación situada después del paso a nivel.
@@ -1226,8 +1253,8 @@ RVV 1990, artículo 82, apartado 4: Los usuarios de la vía están además oblig
 89	 El municipio de Drimmelen hizo realizar mediciones de intensidad de tráfico en estas tres carreteras desde finales de febrero hasta finales de marzo de 2025.
 Colisión en paso a nivel Hooge Zwaluwe, diciembre 2025 | Anexo B
 
-
 ## Página 44
+
 
 en los pasos a nivel no protegidos, tanto dentro como fuera de zonas urbanizadas y tanto públicos como no públicos.
 En el lado ferroviario debe cumplirse un tiempo mínimo de visibilidad de 20 segundos. Teniendo en cuenta la velocidad máxima permitida del tren, esto conduce a una longitud de visibilidad requerida, medida desde el eje de la carretera sobre el eje de la vía, con un máximo de 500 metros. Para el tramo Lage Zwaluwe – Oosterhout Weststad (máx. 30 km/h) esto son 165 metros (véase figura 17).
@@ -1243,26 +1270,95 @@ Colisión en paso a nivel Hooge Zwaluwe, diciembre 2025 | Anexo B
 ## Página 45
 
 ## B.3	
-### Uso histórico y actual del trazado ferroviario
-El trazado ferroviario formaba parte de la antigua conexión ferroviaria entre Lage Zwaluwe y ’s Hertogenbosch, también conocida como la línea ferroviaria Langstraat o Halvezolenlijn. Hasta los años ‘50 circulaban por este tramo tanto trenes de pasajeros como de mercancías. En el período posterior, el tramo continuó utilizándose para el transporte de mercancías. A partir de los años ‘60 se inició el desarrollo de la zona industrial Oosterhout Weststad. En los años ‘70 se suprimió el tramo hacia ’s Hertogenbosch y se conectó la zona industrial al tramo hacia Lage Zwaluwe, dando lugar así al tramo de vía única para mercancías Lage Zwaluwe – Oosterhout Weststad. Durante varios años, el ferrocarril dio servicio a diversos cargadores en la zona. En los últimos años, el transporte de mercancías por ferrocarril ha disminuido notablemente.
-El municipio de Oosterhout reconoce la importancia económica del tramo y ha desarrollado planes para aumentar la capacidad de transbordo. Entre otras medidas, se está considerando adaptar la playa de vías para acoger trenes de mercancías de 740 metros de longitud. Además, en el pasado hubo planes para utilizar el tramo también para el transporte de pasajeros. No se espera una concreción de estos planes a corto plazo.
-Características del entorno y valor ecológico
-El trayecto entre Lage Zwaluwe y Oosterhout Weststad discurre en gran parte por zona rural y forma parte de la zona de conexión ecológica dentro de la Red Natural de Brabante (Natuurnetwerk Brabant). El tramo tiene, por tanto, un carácter natural marcado y limita con el Parque Nacional De Biesbosch. Esta zona ecológica contrasta con la adyacente zona industrial Oosterhout Weststad. Como consecuencia de la disminución del tráfico ferroviario, algunas vías de la zona industrial han sido saneadas. En 2024, el tráfico ferroviario se limitó a dos trenes semanales. Desde abril de 2025, el transporte regular de mercancías por el tramo Lage Zwaluwe – Oosterhout Weststad se ha detenido completamente.
-La infraestructura ferroviaria, incluidas las vías, los cambios de aguja y los sistemas de control de tráfico, es mantenida periódicamente por el administrador de la infraestructura ferroviaria. Esto incluye también la realización de inspecciones periódicas de la vía y el mantenimiento de las líneas de visibilidad mediante trabajos periódicos de poda. En particular, los trabajos de poda fueron objeto de debate durante la investigación en un sentido más amplio. Aunque desde el tren y desde el camión las líneas de visibilidad cumplían con las normas, una inspección de otros pasos a nivel del tramo reveló que las líneas de visibilidad no cumplían con la normativa. Esto se debía en parte a trabajos de poda retrasados. El administrador de la infraestructura reconoció que los trabajos de poda eran insuficientes, pero señaló que su ejecución no era responsabilidad exclusiva del administrador. También el municipio de Drimmelen y el Organismo de Gestión de Aguas de Brabante Delta (Waterschap Brabantse Delta) tendrían una responsabilidad en ello. En concreto, la ubicación del tramo dentro de la Red Natural de Brabante hizo que la toma de decisiones sobre los trabajos de poda se estancara.
-Además, se ha comprobado que en varios pasos a nivel del tramo las líneas de visibilidad eran insuficientes debido, entre otras cosas, a construcciones, vallas y vegetación (véase la figura 19). El administrador de la infraestructura no impulsó activamente el diálogo con los residentes para sanear estos obstáculos.
-Figuur 17: Uitzichtlijnen voor overweg Zanddijk (bron: Ministerie van Binnenlandse Zaken en Koninkrijksrelaties).94 
-Figuur 18: Analyse van uitzichtlijnen (500x11 meter) zicht belemmerende objecten zijn oranje gemarkeerd. Het Zichtlijnen­model beoordeelt alleen de strook rondom het spoor. Vanaf de zuidzijde is het spoor vanaf grotere afstand tot de overweg onttrokken aan het zicht (bron: ILT).95 
-Figuur 19: Voorbeeld van één van de andere onbeveiligde overwegen op het baanvak Lag Zwaluwe – Oosterhout Weststad waar het zicht volledig belemmerd is door een betonnen wand aan beide zijden van de overweg (februari 2025) (bron: Onderzoeksraad voor Veiligheid).
-94	 Ministerie van Binnenlandse Zaken en Koninkrijksrelaties, Informatieobject 2023, 104, Aanwijzing en geometrische begrenzing overwegzones van beperkingengebieden hoofdspoorwegen, https://zoek.officielebekendmakingen.nl/dc-2023-104/1/html, publicatiedatum 8 juni 2023.
-95	 ILT, Overweg 228 – 8.2, Zanddijk te Made, september 2024.
-Overweg­aanrijding Hooge Zwaluwe, december 2025  | Bijlage B
+### Uso histórico y actual del tramo ferroviario
 
+El tramo ferroviario formaba parte de la antigua conexión ferroviaria entre Lage Zwaluwe y 's Hertogenbosch, también conocida como la línea ferroviaria de Langstraat o Halvezolenlijn. Hasta los años 50 circulaban por este tramo tanto trenes de pasajeros como de mercancías. En el periodo posterior, el tramo siguió en uso para el transporte de mercancías. A partir de los años 60 se inició el desarrollo del polígono industrial Oosterhout Weststad. En los años 70 se suprimió el tramo hacia 's Hertogenbosch
+
+Figura 17: Líneas de visión para el paso a nivel de Zanddijk (fuente: Ministerio de Asuntos Internos y Relaciones del Reino).94
+
+y se conectó el polígono industrial al tramo hacia Lage Zwaluwe, con lo que se creó el tramo de mercancías de vía única Lage Zwaluwe – Oosterhout Weststad. Durante varios años, el ferrocarril atendió a diversos cargadores en la zona. En los últimos años, el transporte ferroviario de mercancías ha disminuido considerablemente.
+
+El municipio de Oosterhout reconoce la importancia económica del tramo y ha desarrollado planes para aumentar la capacidad de transbordo
+
+dirección del tren
+
+. Entre otras medidas, se está considerando adecuar la estación de clasificación para trenes de mercancías de 740 metros de longitud.
+
+Además, en el pasado ha habido planes para utilizar el tramo también para el transporte de pasajeros. No se espera una concreción de estos planes a corto plazo.
+
+Características del entorno y valor ecológico
+
+dirección del camión
+
+El tramo entre Lage Zwaluwe y Oosterhout Weststad discurre en su mayor parte por zona rural y forma parte de la franja de conexión ecológica de la Red Natural de Brabante.
+
+Figura 18: Análisis de líneas de visión (500x11 metros), los objetos que obstruyen la visión están marcados en naranja. El Modelo de Líneas de Visión
+
+El tramo tiene así un marcado carácter natural
+
+evalúa únicamente la franja en torno a la vía. Desde el lado sur, la vía queda oculta a la vista desde mayor distancia respecto al paso a nivel (fuente: ILT).95
+
+y limita con el Parque Nacional De Biesbosch. Esta franja ecológica contrasta con el
+
+94	 Ministerio de Asuntos Internos y Relaciones del Reino, Objeto de información 2023, 104, Designación y delimitación geométrica de las zonas de paso a nivel de áreas de restricción de las líneas férreas principales,
+
+https://zoek.officielebekendmakingen.nl/dc-2023-104/1/html, fecha de publicación 8 de junio de 2023.
+
+polígono industrial Oosterhout Weststad adyacente. Como consecuencia de la disminución del transporte ferroviario, en el polígono industrial se han
+
+95	 ILT, Paso a nivel 228 – 8.2, Zanddijk en Made, septiembre de 2024.
+
+Colisión en paso a nivel de Hooge Zwaluwe, diciembre de 2025  |  Anexo B
 
 ## Página 46
 
-En general, el Consejo de Investigación considera que el tramo, en el paisaje y el entorno, no transmite la imagen de ser un tramo donde aún circula tráfico ferroviario activo. Esto se debe a su ubicación en un paisaje verde, a la vegetación dentro y alrededor de la vía, pero también al aspecto de la infraestructura ferroviaria. Esto conduce, por ejemplo, a que actualmente el tramo se utilice como sendero peatonal o para pasear perros, pero sobre todo a que los usuarios de la carretera, al pasar por los pasos a nivel sin protección, no anticipen el posible paso de un tren.
+sanitizado. En 2024 el transporte ferroviario se limitó a dos trenes
+En general, el Consejo de Investigación considera que
+por semana. Desde abril de 2025 el transporte planificado de mercancías sobre
+el tramo Lage Zwaluwe – Oosterhout Weststad dentro
+el tramo se ha detenido por completo.
+del paisaje y del entorno no da la imagen de que se
+trate de un tramo sobre el que aún se produzca tráfico ferroviario
+La infraestructura ferroviaria, incluidas vías, desvíos y
+activo. Esto se debe a la ubicación en el paisaje verde, la
+señalización de tráfico, es mantenida periódicamente por el
+vegetación en y alrededor de la vía, pero también a la apariencia de
+gestor de infraestructura ferroviaria. Esto incluye también la realización de
+la infraestructura ferroviaria. Esto conduce, por ejemplo, a que
+inspecciones periódicas de la vía y al mantenimiento de
+el tramo se utilice como sendero o para pasear perros, pero
+las líneas de visión con podas periódicas. Especialmente la
+sobre todo que los usuarios de la carretera, al pasar por
+podada, en un sentido más amplio, se ha planteado durante la
+los pasos a nivel sin protección, no anticipen el posible
+investigación. Aunque desde el tren y desde el camión las
+paso de un tren.
+líneas de visión estaban conformes con las normativas, se
+comprobó en una inspección de varios otros pasos a nivel del
+tramo que las líneas de visión no cumplían las normas.
+Esto se debía en parte a la poda pendiente. El gestor de
+infraestructura ferroviaria reconoció que la poda era insuficiente,
+pero indicó que la ejecución de la poda no era responsabilidad
+exclusiva del gestor. También el municipio de Drimmelen y el
+Distrito de Aguas Brabantse Delta tendrían aquí una
+responsabilidad. Especialmente la ubicación del tramo dentro
+de la Red Natural de Brabante hizo que la toma de decisiones
+sobre la poda se estancara.
+
+Además, también se ha comprobado que en varios pasos a nivel del
+tramo las líneas de visión eran insuficientes debido, entre otros, a
+construcciones, vallados y vegetación (véase la figura 19). El
+gestor de infraestructura ferroviaria no gestionaba activamente la consulta con los
+Figura 19: Ejemplo de uno de los otros pasos a nivel sin protección del
+residentes para eliminar estos obstáculos.
+tramo Lage Zwaluwe – Oosterhout Weststad donde la visión está totalmente
+obstaculizada por un muro de hormigón a ambos lados del paso a nivel
+(febrero de 2025) (fuente: Consejo de Investigación de Seguridad).
+
+Colisión en paso a nivel de Hooge Zwaluwe, diciembre de 2025 | Anexo B
 
 ## Página 47
+
 
 ## ANEXO C
 ## Investigaciones y medidas adoptadas por las partes ferroviarias
@@ -1284,8 +1380,8 @@ Las líneas de visión en todos los pasos a nivel del tramo Lage Zwaluwe – Oos
 96	 Empresa ferroviaria, Informe de investigación, Colisión entre camión y tren en NABO 8.2 en Zanddijk Made, enero de 2025.
 Colisión en paso a nivel Hooge Zwaluwe, diciembre de 2025 | Anexo C
 
-
 ## Página 48
+
 
 ### C.2	
 #### Medidas adoptadas tras el incidente
@@ -1309,8 +1405,8 @@ La carretera Zanddijk se estrecha en el paso a nivel, por lo que no es posible e
 102	 El administrador de infraestructura ferroviaria espera que los pasos a nivel con baja frecuencia de trenes no alcancen un nivel de riesgo mucho más elevado.
 Colisión en paso a nivel Hooge Zwaluwe, diciembre de 2025 | Anexo C
 
-
 ## Página 49
+
 
 ### Consejo de Seguridad
 dirección física:	

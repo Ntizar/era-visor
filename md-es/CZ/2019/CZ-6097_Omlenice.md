@@ -10,13 +10,14 @@ chars: 92218
 ratio_longitud: 1.25
 tokens_in: 56880
 tokens_out: 41573
-verificacion: revisar
-notas_cifras: ["bloque 1: original bilingüe: se compara contra el idioma principal (PT); cifras cortas: 1/219", "bloque 4: original bilingüe: se compara contra el idioma principal (CS)", "bloque 6: original bilingüe: se compara contra el idioma principal (CS)", "bloque 7: original bilingüe: se compara contra el idioma principal (CS)"]
-avisos: ["bloque 4: ratio 1.62", "bloque 6: ratio 1.73", "bloque 7: ratio 1.69"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 3: original bilingüe: se compara contra el idioma principal (PT)", "página 6: original bilingüe: se compara contra el idioma principal (EN); cifras cortas: 1/99", "página 7: original bilingüe: se compara contra el idioma principal (PT)", "página 10: original bilingüe: se compara contra el idioma principal (CS)", "página 11: original bilingüe: se compara contra el idioma principal (CS)", "página 12: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -39,13 +40,13 @@ IČ:   75009561
 mail@dicr.cz
 tel.: +420 736 521 003
 
-
 ## Página 2
+
 
 Este informe final es público y todos los hechos en él expuestos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ## 1 RESUMEN
 Fuente: DI
@@ -77,8 +78,8 @@ Causa fundamental:
 incumplimiento de los procedimientos tecnológicos del gestor de la vía a la hora de anular y preparar
 •
 
-
 ## Página 4
+
 
 la vía de tren.
 Causa en el sistema de seguridad:
@@ -88,8 +89,8 @@ Recomendaciones de seguridad:
 no emitidas por la Inspección Ferroviaria.
 •
 
-
 ## Página 5
+
 
 ## SUMMARY
 Grade: 
@@ -126,8 +127,8 @@ none.
 Recommendation:
 not issued.
 
-
 ## Página 6
+
 
 # Índice
 1 RESUMEN........................................................................................................................3
@@ -173,10 +174,10 @@ ferroviario.....................................................................
 3.3.2 Otras normas, p. ej., reglamento de explotación, reglamento de trabajo, normas de mantenimiento, 
 normas técnicas aplicables y otras normas internas.....................................................................24
 3.4 Actividad de los vehículos ferroviarios y de otros dispositivos técnicos..........................................24
-3.4.1 Sistema de control, señalización y seguridad, incluidos los dispositivos para la grabación automática 
-
+3.4.1 Sistema de control, señalización y seguridad, incluidos los dispositivos para la grabación automática
 
 ## Página 7
+
 
 de datos.....................................................................................................24
 3.4.2 Componentes de la vía....................................................................................................25
@@ -219,6 +220,7 @@ sobre las causas................................................................
 6 RECOMENDACIONES DE SEGURIDAD.....................................................................................37
 
 ## Página 8
+
 
 ## Lista de siglas y símbolos utilizados
 CDP
@@ -283,8 +285,8 @@ dispositivo técnico designado
 žst., ŽST
 estación de ferrocarril
 
-
 ## Página 9
+
 
 ## Lista de siglas de la legislación, normas y normativa interna
 utilizadas
@@ -335,27 +337,27 @@ SŽDC D1
 normativa interna del explotador de la infraestructura «SŽDC D1 Reglamento de
 Circulación y de Señalización», en la redacción válida en el momento de
 
-
 ## Página 10
 
-producirse el incidente
-|  | producirse el incidente |
-| SŽDC (ČD) Z1 | normativa interna del explotador de la infraestructura SŽDC (ČD) Z1 « |
-|  | Reglamento para la operación de los sistemas de seguridad |
-|  | de estación y de vía en la redacción válida en el momento , |
-|  | de producirse el incidente |
-| SŘ Omlenice | normativa interna del explotador de la infraestructura Reglamento de Estación , |
-|  | estación de ferrocarril Omlenice en la redacción válida en el momento , |
-|  | de producirse el incidente |
-| ROV núm. 95021/Z1 . | Orden de corte núm. 95021 1 Modificación reparación SZZ ŽST . , . , Omlenice y sistemas TZZ y PZS adyacentes emitida por SŽDC OŘ , , , |
-|  | Plzeň para el horario 2018/2019 en la redacción válida en el momento , |
-|  | de producirse el incidente |
-| Orden del jefe de PO | Orden del jefe de PO Č eské Budějovice al ROV 95021 |
-|  | 1 . Modificación – reparación del sistema de seguridad de estación en ŽST Omlenice y de los sistemas de seguridad de vía adyacentes SŽDC PŘ -11/2019 -PO CBE en la redacción válida , , |
-|  | en el momento de producirse el incidente |
-
+ocurrencias extraordinarias
+|  | ocurrencias extraordinarias |
+| SŽDC (ČD) Z1 | normativa interna del gestor de la vía SŽDC (ČD) Z1 „ |
+|  | Reglamento para la explotación de las instalaciones |
+|  | de enclavamiento de estación y de línea |
+|  | en la versión vigente en el momento |
+|  | de la ocurrencia extraordinaria |
+| SŘ Omlenice | normativa interna del gestor de la vía Reglamento de estación , |
+|  | estación ferroviaria Omlenice en la versión vigente en el momento |
+|  | de la ocurrencia extraordinaria |
+| ROV n.º 95021/Z1 . | Orden de corte n.º 95021 1 Modificación reparación SZZ EST . , . , Omlenice de las TZZ y PZS adyacentes emitida por SŽDC OŘ , , , |
+|  | Plzeň para el horario ferroviario 2018/2019 en la versión vigente en el momento |
+|  | de la ocurrencia extraordinaria |
+| Orden del jefe de PO | Orden del jefe de PO České Budějovice relativa a ROV 95021 |
+|  | 1 . Modificación – reparación de la instalación de enclavamiento de estación en la EST Omlenice y de las instalaciones de enclavamiento de línea adyacentes SŽDC PŘ -11/2019 -PO CBE en la versión vigente |
+|  | en el momento de la ocurrencia extraordinaria |
 
 ## Página 11
+
 
 ## 2 DATOS RELATIVOS AL INCIDENTE
 ### 2.1 Incidente excepcional
@@ -380,8 +382,8 @@ El 2. 10. 2019 a las 17.52 h se inició la preparación de la vía de tren para 
 Os 18806 (České Budějovice – Lipno nad Vltavou) desde la est. Kaplice a la 1. SK de la est. Omlenice.
 Ese mismo día a las 17.53 h se inició la preparación de la vía de tren para la entrada del tren Os 18809
 
-
 ## Página 12
+
 
 (Loučovice – České Budějovice) desde la est. Rybník a la 3. SK. Ambos trenes de sentido opuesto debían
 cruzarse en la est. Omlenice según el horario. Durante la entrada del tren Os 18809 se
@@ -423,8 +425,8 @@ estaba formada por un tren automotor, composición en sentido de circulación: C
 914.131-8);
 la cabeza del tren Os 18809 en la posición final tras el incidente se encontraba en el pk 79,566, es decir, en
 
-
 ## Página 13
+
 
 una distancia de 29 m tras las puntas de la aguja núm. 1;
 la composición estaba señalizada con las indicaciones «Inicio de tren» y «Fin de tren»;
@@ -483,8 +485,8 @@ la 5. SK no estaba destinada a la circulación de trenes);
  Fuente: DI
 Fig. núm. 3: Indicación en el monitor del JOP DOZ de la est. Horní Dvořiště
 
-
 ## Página 14
+
 
 Documentación de circulación:
 Diario de circulación del DOZ de la est. Horní Dvořiště – el 30. 9. 2019 a las 10.30 h se realizó
@@ -540,6 +542,7 @@ Incidente notificado al COP de la DI:
 
 ## Página 15
 
+
 Consentimiento de la DI para la liberación de la vía:
 2. 10. 2019, a las 21.55 h (es decir, 3 h 55 min después de la producción de la MU).
 La notificación de la MU por parte del gestor de la infraestructura y el transportista fue conforme a lo dispuesto en el § 49 apartado 3 letra a) de la Ley núm. 266/1994 Sb. y el § 7 apartado 3 del Decreto núm. 376/2006 Sb.
@@ -572,40 +575,62 @@ Tercera parte:
 no estuvo implicada.
 •
 
-
 ## Página 16
 
 2.2.2 Trenes y su composición, incluidos los números de registro de los distintos vehículos ferroviarios
-| Tren: | Os18809 | Composición del tren: |  | Régimen de frenado: |
+| Tren: | Os18809 | Composición del tren: |  | Modo de frenado: |
 | Longitud del tren (m): | 29 | Locomotora: | 95545814131 9* – | P |
-| Número de ejes: | 8 | V. remolcada: | 95545914131 8 – | P |
+| Número de ejes: | 8 | Vehículo remolcado: | 95545914131 8 – | P |
 | Peso (t): | 47 |  |  |  |
 | Porcentaje de frenado necesario (%): | 64 |  |  |  |
 | Porcentaje de frenado real (%): | 102 |  |  |  |
 | Porcentaje de frenado faltante (%): | 0 |  |  |  |
-| Velocidad máxima permitida del tren en el lugar de la MU (km·h-1): | 40 |  |  |  |
+| Velocidad máxima permitida del tren en el punto MU (km·h-1): | 40 |  |  |  |
 | Modo de frenado: | I . |  |  |  |
 Notas sobre el
  tren Os 18809:
-la estación de origen fue la est. Loučovice, la de destino la est. České Budějovice;
+la estación de origen fue la est. Loučovice, la terminal la est. České Budějovice;
 •
-en el momento de la producción de la MU se encontraban en el tren 2 empleados del transportista ČD;
+en el momento de producirse el MU se encontraban en el tren 2 empleados del
 •
-el maquinista del tren Os 18809 fue informado de manera comprobable de la orden
+transportista ČD;
+el maquinista del tren Os 18809 fue informado de forma comprobable de la orden
 •
-«Orden general para el tren Os 18809», núm. 034/820, emitida el 2. 10. 2019 en la est. Rybník;
-la locomotora marcada con «*» estaba descarrilada y dañada;
+„Všeobecný rozkaz pro vlak Os 18809“, n.º 034/820, emitida el 2. 10. 2019 en la est.
+Rybník;
+la locomotora marcada con „* “ estaba descarrilada y dañada;
 •
-el titular de ambos vehículos ferroviarios era la ČD.
+el titular de ambos vehículos ferroviarios era ČD.
 •
-El estado real del tren comprobado en el lugar de la MU correspondía a la documentación del tren.
-2.2.3 Descripción de los componentes de la infraestructura y del sistema de señalización (es decir, en particular el estado de la vía, agujas, enclavamientos, señales y del dispositivo de seguridad del tren)
-La est. Omlenice se encuentra en la línea 706A de vía única, electrificada, Horní Dvořiště frontera estatal – České Budějovice (línea de ámbito nacional). La línea en el lugar de la MU en el sentido de circulación del tren Os 18809 discurre en línea recta a la altura del terreno circundante.
-La est. Omlenice está equipada con un SZZ de 3.ª categoría – enclavamiento electrónico Starmon K-2000 con señales dependientes y sistema de señalización de velocidad. El SZZ se controla en remoto desde el puesto de DOZ HD České Budějovice con la posibilidad de traspaso al control local. La estación forma un solo circuito para la comprobación de la libre circulación del tren desde la señal de entrada L (desde la est. Rybník) hasta la señal de entrada S (desde la est. Kaplice). Para la comprobación de la libre circulación de todas las vías destinadas a la circulación de trenes sirven los tramos de vía equipados con contadores de ejes. En caso de avería del SZZ, la libre circulación del tren se comprueba en todo el circuito de la estación mediante la observación del tramo de vía correspondiente. Para la comprobación de la libre circulación, el jefe de estación puede dar la orden al supervisor de agujas y a la vez determinarle el circuito de comprobación de la libre circulación.
-Según el Reglamento de Estación de la est. Omlenice, las vías 1.ª y 3.ª SK son vías de entrada, de salida y de paso para todos los trenes. La pendiente más desfavorable de la 1.ª SK desde la señal de entrada L hasta el pk 79,130 es del 5 ‰ en dirección a la est. Rybník y desde el pk 79,130 hasta la aguja núm. 1 en el pk 79,537 es del 10 ‰ en dirección a la est. Kaplice. Desde las puntas de la aguja núm. 1 hasta el nivel de las señales principales Lc 1-3 hasta el pk 80,101, las vías 1.ª y 3.ª SK descienden con un 2,7 ‰ en dirección a la est. Kaplice.
-
+El estado real del tren comprobado en el punto del MU correspondía a la
+documentación del tren.
+2.2.3 Descripción de los componentes de la vía y del sistema de señalización (es decir, en particular el estado de la vía, los desvíos, los aparatos de enclavamiento, las señales y el dispositivo de seguridad del tren)
+La est. Omlenice se encuentra en la línea 706A de vía única, electrificada, Horní Dvořiště
+frontera estatal – České Budějovice (ferrocarril de ámbito estatal). La línea en el punto
+del MU en el sentido de circulación del tren Os 18809 discurre en línea recta a la altura
+del terreno circundante.
+La est. Omlenice está equipada con un SZZ de 3.ª categoría – aparato de
+enclavamiento electrónico Starmon K-2000 con señales dependientes y sistema de
+señalización de velocidad. El SZZ se controla en remoto desde el puesto de DOZ HD
+České Budějovice con posibilidad de traspaso al control local. La estación constituye
+un solo circuito para la comprobación de la libre circulación del tren desde la señal de
+entrada L (desde la est. Rybník) hasta la señal de entrada S (desde la est. Kaplice). Para
+la comprobación de la libre circulación de todas las vías destinadas a la circulación de
+trenes se emplean tramos de vía equipados con contadores de ejes. En caso de avería
+del SZZ, la libre circulación del tren se comprueba en todo el circuito de la estación
+mediante la observación del tramo de vía correspondiente. Para comprobar la libre
+circulación, el jefe de estación puede dar una orden al guardagujas y, al mismo tiempo,
+designarle el circuito de comprobación de la libre circulación.
+Según el Reglamento de Estación de la est. Omlenice, las vías 1.ª y 3.ª SK son vías de
+entrada, de salida y de paso para todos los trenes. La pendiente más desfavorable de la
+1.ª SK desde la señal de entrada L hasta el km 79,130 es del 5 ‰ en dirección a la est.
+Rybník y desde el km 79,130 hasta el desvío n.º 1 en el km 79,537 es del 10 ‰ en
+dirección a la est. Kaplice. Desde las agujas del desvío n.º 1 hasta la altura de las señales
+principales Lc 1-3 hasta el km 80,101, las vías 1.ª y 3.ª SK descienden con un 2,7 ‰ en
+dirección a la est. Kaplice.
 
 ## Página 17
+
 
 La aguja núm. 1 está equipada con un cierre de aguja de mordazas y un accionador eléctrico no seccionable. La aguja no está provista de contrapeso de aguja y en el momento de la producción de la MU era operada en remoto desde el JOP por el jefe de estación DOZ de la est. Horní Dvořiště. Se trataba de una aguja simple, de perfil izquierdo, tipo J S49E1 1:12-500 LI b CZ, sobre traviesas de hormigón, fabricada en el año 2010 con el número de fabricación 202771, insertada en la vía en el año 2010.
 La velocidad máxima permitida en el lugar de la producción de la MU, en vista de que la autorización de circulación se realizaba mediante las señales principales con la señalización «Señal de aproximación», fue fijada por la normativa del gestor de la infraestructura SŽDC D1 de acuerdo con el art. 967 en 40 km·h-1. Debido a que en el marco de la interrupción se encontraba desconectada la PZZ de los pasos a nivel en el circuito de la est. Omlenice (P5561 en el pk 79,532, es decir, a una distancia de 5 m antes de la aguja núm. 1 en el sentido de circulación del tren Os 18809, y P5562 en el pk 80,198), se ordenó a través de ellos la ROV núm. 95021/Z1 etapa C «Circulación con precaución aumentada». Antes del paso a nivel P5561 se colocó en el pk 78,832 un vigilante de paso a nivel portátil.
@@ -633,50 +658,51 @@ el área de Praga al O18 SŽDC;
 notificación de la producción de la MU por la persona autorizada del O18 SŽDC al COP DI;
 •
 
-
 ## Página 18
 
 21.26 h 
-inspección del lugar de la producción de la MU por empleados de la DI;
+inspección del lugar de origen del SIE por parte de los empleados de DI;
 •
 21.55 h 
-concesión del consentimiento para la liberación de la vía por los inspectores de la DI presentes.
+concesión de la autorización para la liberación de la vía por parte de los inspectores presentes de DI.
 •
 3. 10. 2019
 1.51 h 
-reanudación de la circulación.
+reanudación de la explotación.
 •
-### 2.2.7 Activación del plan del sistema integrado de emergencia, de los servicios de emergencia policiales y sanitarios y de los procedimientos conexos
-El plan del IZS fue activado en vista de la naturaleza de la MU. El plan del IZS fue activado a las 18.10 h, es decir, 10 minutos después de la producción de la MU, por el jefe de estación DOZ de la est. Horní Dvořiště.
-En el lugar de la MU intervinieron los siguientes cuerpos del IZS:
-Cuerpo de Bomberos de la Región de Bohemia del Sur, Parque de Bomberos de Kaplice;
+### 2.2.7 Activación del plan del sistema integrado de emergencias, de los servicios de emergencia policial y sanitarios y de los procedimientos consecuentes
+El plan IZS fue activado en función de la naturaleza del SIE. El plan IZS fue activado a las 18.10 h, es decir,
+10 minutos después de la producción del SIE, por el jefe de estación de DOZ de la estación Horní Dvořiště.
+En el lugar del SIE intervinieron los siguientes componentes del IZS:
+Cuerpo de Bomberos y Salvamento de la Región de Bohemia del Sur, Parque de Bomberos de Kaplice;
 •
-HZS SŽDC, Unidad de Protección Contra Incendios de České Budějovice;
+HZS SŽDC, Unidad de Protección contra Incendios de České Budějovice;
 •
 PČR, Jefatura de Policía de la Región de Bohemia del Sur, Departamento de Distrito de Kaplice.
 •
 ### 2.3 Fallecimientos, lesiones y daños causados
-2.3.1 En pasajeros y terceras personas, empleados del gestor de la infraestructura y del transportista,
+2.3.1 En los pasajeros y terceras personas, empleados del explotador de la vía y del transportista,
 incluidas personas en relación contractual
-En la MU no se produjo daño alguno a la salud de los empleados del gestor de la infraestructura, del transportista, de las personas en relación contractual, ni tampoco de los pasajeros y terceras personas.
-### 2.3.2 En las cosas transportadas, equipajes y otros bienes
-No se produjo daño en las cosas transportadas, equipajes y otros bienes.
-### 2.3.3 En los vehículos ferroviarios, componentes de la infraestructura y medio ambiente
-El gestor de la infraestructura y el transportista cuantificaron el daño en:
-Locomotora (tren Os 18809)
+En el SIE no se produjo daño alguno a la salud de los empleados del explotador de la vía, del transportista,
+de las personas en relación contractual, ni tampoco de los pasajeros y terceras personas.
+### 2.3.2 En las cosas transportadas, el equipaje y otros bienes
+No se produjo daño en las cosas transportadas, el equipaje ni otros bienes.
+### 2.3.3 En los vehículos ferroviarios, los componentes de la vía y el medio ambiente
+El explotador de la vía y el transportista cuantificaron el daño en:
+HDV (tren Os 18809)
 47 200 Kč;
 •
-dispositivos de la infraestructura
+instalaciones de la vía
 42 181 Kč;
 •
 medio ambiente
  0 Kč.
 •
-En la MU, el daño producido en los vehículos ferroviarios, componentes de la infraestructura y medio
-### ambiente se cuantificó en un total de 89 381 Kč.
-
+En el SIE, el daño producido en los vehículos ferroviarios, los componentes de la vía y el medio
+### ambiente fue cuantificado en un total de 89 381 Kč.
 
 ## Página 19
+
 
 ### 2.4 Circunstancias externas
 ### 2.4.1 Condiciones meteorológicas y datos geográficos
@@ -720,84 +746,82 @@ jefe de estación DOZ
 
 ## Página 20
 
-Omlenice ocupada por el guardagujas para la comprobación y notificación de la libertad de las vías de tren;
-◦tras la salida del tren Os 18809 de la est. Rybník, comenzó con la preparación para su entrada en la 3. vía principal (SK) de la est. Omlenice, para cruzar según el horario los trenes Os 18806 y Os 18809;
-◦primero notificó por teléfono a la guardagujas que establecería la vía de tren para el tren Os 18809 en la 3. SK;
-◦la guardagujas le confirmó la libertad de la 3. SK;
-◦conmutó la aguja n.º 1 de la 1. SK a la 3. SK;
-◦tras la aproximación del tren Os 18809 a la señal de entrada L, permitió su circulación encendiendo la señal de llamada en esta señal de entrada;
+Omlenice ocupada por el vigilante de agujas para la comprobación y comunicación de la libertad de las vías de tren;
+◦tras la salida del tren Os 18809 de la est. Rybník, comenzó la preparación para su entrada en el 3. SK de la est. Omlenice, a fin de cruzar según el horario los trenes Os 18806 y Os 18809;
+◦primero comunicó telefónicamente a la vigilante de agujas que establecería la vía de tren para el tren Os 18809 en el 3. SK;
+◦la vigilante de agujas le confirmó la libertad del 3. SK;
+◦conmutó la aguja n.º 1 del 1. SK al 3. SK;
+◦tras la aproximación del tren Os 18809 a la señal de entrada L, permitió su circulación encendiendo la señal de llamada en dicha señal de entrada;
 ◦tras comprobar que el tren Os 18809 había pasado la señal de entrada L, apagó la señal de llamada;
-◦en el monitor JOP vio la ocupación de los tramos de vía, desapareció la ocupación del circuito de la aguja n.º 1;
-◦evaluó esta situación como que el tren Os 18809 había abandonado los circuitos de la aguja n.º 1, y por tanto canceló el enclavamiento de emergencia en la aguja y comenzó a conmutarla para el tren que cruza Os 18806 en la 1. SK;
-◦tras la conmutación de la aguja n.º 1, se volvió a encender la ocupación del circuito de la aguja;
-◦inmediatamente después le llamó el maquinista del tren Os 18809, informándole de que se había producido un descarrilamiento del tren;
-◦no recibió de la guardagujas el aviso de que el tren Os 18809 había llegado entero a la est. Omlenice;
+◦en el monitor JOP observó la ocupación de los tramos de vía; la ocupación del circuito de la aguja n.º 1 desapareció;
+◦valoró esta situación en el sentido de que el tren Os 18809 había abandonado los circuitos de la aguja n.º 1 y, por tanto, anuló el bloqueo de emergencia en la aguja y comenzó a conmutarla para el tren cruzado Os 18806 al 1. SK;
+◦tras la conmutación de la aguja n.º 1, volvió a encenderse la ocupación del circuito de la aguja;
+◦inmediatamente después le llamó el maquinista del tren Os 18809 informándole de que se había producido un descarrilamiento del tren;
+◦no recibió de la vigilante de agujas el aviso de que el tren Os 18809 había llegado entero a la est. Omlenice;
 jefe de estación DOZ
-  – Del Registro de explicaciones prestadas por el DI se desprende:
+  – del Registro de explicaciones prestadas por el DI se desprende:
 •
-◦lleva 29 años trabajando como jefe de estación, y 5 años en la función de jefe de estación DOZ;
-◦en el puesto de DOZ de la est. Horní Dvořiště tenía el 3. turno (turno diurno del 27. 9. 2019, turno nocturno del 28. – 29. 9. 2019 y turno diurno del 2. 10. 2019);
+◦lleva 29 años trabajando como jefe de estación y 5 años en la función de jefe de estación DOZ;
+◦en el puesto de DOZ de la est. Horní Dvořiště tuvo el 3. turno (turno diurno del 27. 9. 2019, turno nocturno del 28. – 29. 9. 2019 y turno diurno del 2. 10. 2019);
 ◦antes de incorporarse al turno del 2. 10. 2019 se sentía descansado y sano, y no estaba alterado por nadie ni por nada;
-◦ningún acontecimiento de la vida privada influyó en el desempeño de su servicio ni en su estado psicológico;
-◦la situación de tráfico en la línea era complicada debido a la interrupción de servicio y era necesario realizar muchas maniobras;
-◦antes de la salida del tren Os 18809 de la est. Rybník, notificó a la guardagujas en la est. Omlenice que este tren circularía por la 3. SK;
-◦debido a la interrupción del dispositivo de seguridad en la est. Omlenice, utilizaba para las entradas la señal de llamada de las señales de entrada;
-◦según los tiempos de circulación, esperaba que el tren Os 18809 estuviera en la señal de entrada L, y encendió la señal de llamada;
-◦poco antes, el tren Os 18806 entró desde la est. Kaplice en la 1. SK de la est. Omlenice con la señal de llamada de la señal de entrada S;
-◦en el monitor JOP seguía la vía, cómo se iban ocupando progresivamente los distintos tramos, como si el tren Os 18809 estuviera entrando en la 3. SK;
-◦a continuación los tramos se liberaron y él supuso que el tren Os 18809 había entrado en la 3. SK;
-◦progresivamente canceló el enclavamiento de emergencia de la aguja n.º 1 y preparaba la vía de tren para la salida del tren Os 18806 de la 1. SK hacia la est. Rybník;
-◦conmutó la aguja n.º 1 desde la 1. SK;
-◦durante la conmutación de la aguja n.º 1, se volvió a ocupar el tramo en esta aguja;
-
+◦ningún acontecimiento de su vida privada influyó en el desempeño de su servicio ni en su estado psicológico;
+◦la situación de tráfico en la línea estaba complicada a causa de la interrupción de servicio y era necesario realizar muchas maniobras;
+◦antes de la salida del tren Os 18809 de la est. Rybník, comunicó a la vigilante de agujas de la est. Omlenice que dicho tren circularía por el 3. SK;
+◦a causa de la interrupción del dispositivo de seguridad en la est. Omlenice, utilizaba para las entradas la señal de llamada de las señales de entrada;
+◦según el tiempo de recorrido, esperaba que el tren Os 18809 estuviera en la señal de entrada L y encendió la señal de llamada;
+◦poco antes, el tren Os 18806 entró desde la est. Kaplice en el 1. SK de la est. Omlenice con la señal de llamada de la señal de entrada S;
+◦en el monitor JOP seguía la maniobra, cómo se iban ocupando progresivamente los distintos tramos, como si el tren Os 18809 estuviera entrando en el 3. SK;
+◦a continuación los tramos quedaron libres y él supuso que el tren Os 18809 había entrado en el 3. SK;
+◦progresivamente anuló el bloqueo de emergencia de la aguja n.º 1 y preparaba la vía de tren para la salida del tren Os 18806 del 1. SK hacia la est. Rybník;
+◦conmutó la aguja n.º 1 desde el 1. SK;
+◦al conmutar la aguja n.º 1, volvió a ocuparse el tramo en dicha aguja;
 
 ## Página 21
 
-◦durante 20 s le llamó el maquinista del tren Os 18809, informándole de que había descarrilado;
+◦durante 20 s el maquinista del tren Os 18809 le comunicó que se había descarrilado;
 ◦recabó información sobre el alcance de los daños y sobre posibles lesiones de personas;
-◦al establecer la vía de tren, encender la señal de llamada y cancelar el enclavamiento de emergencia, se fiaba de la comprobación de la ocupación de los circuitos de vía en el monitor JOP, lo cual le indujo a error;
-◦sabía que no debía fiarse de la visualización en el monitor JOP y que debía esperar la confirmación de liberación de la guardagujas;
-◦estaba demostradamente informado de los cambios en los procedimientos tecnológicos en la operación a distancia de los dispositivos de seguridad de línea y de estación antes de la realización de cambios en los parámetros constructivo-técnicos en el tramo controlado;
-◦asimismo, estaba demostradamente informado de la ROV n.º 95021/Z1 y de la Orden correspondiente del jefe de PO České Budějovice;
-guardagujas I.
-  – Del Registro con el empleado se desprende, entre otros datos:
+◦al establecer la vía de tren, encender la señal de llamada y anular el cierre de emergencia, se apoyó en la comprobación de ocupación de los circuitos de vía en el monitor JOP, que le indujo a error;
+◦sabía que no debía fiarse de la visualización en el monitor JOP y que debía esperar la confirmación de la supervisora de desvíos;
+◦constaba documentalmente que estaba informado de los cambios en los procedimientos tecnológicos en la explotación a distancia de la señalización de vía y de estación antes de la realización de los cambios en los parámetros constructivo-técnicos del tramo controlado;
+◦asimismo constaba documentalmente que estaba informado de la ROV n.º 95021/Z1 y de la Orden correspondiente del Jefe de PO České Budějovice;
+supervisora de desvíos I.
+  – del Acta con el empleado se desprende, entre otros datos:
 •
-◦desempeñaba la función de guardagujas I.;
-◦a las 17.52 h recibió del jefe de estación DOZ la orden de preparar la vía de tren para el tren Os 18806 en la 1. SK y Os 18809 en la 3. SK;
-◦notificó al jefe de estación DOZ la libertad de la 1. SK y fue a comprobar la libertad de la vía de tren para el tren Os 18809 en la 3. SK;
-◦comunicó al jefe de estación DOZ que el tren Os 18806 había llegado entero a la est. Omlenice;
-◦el jefe de estación DOZ le comunicó que el tren Os 18809 había descarrilado en la aguja n.º 1;
-guardagujas II.
-  – Del Registro con el empleado se desprende, entre otros datos:
+◦ejercía la función de supervisora de desvíos I.;
+◦a las 17.52 h recibió del jefe de estación DOZ la orden de preparar la vía de tren para el tren Os 18806 en la 1.ª vía principal y para el tren Os 18809 en la 3.ª vía principal;
+◦comunicó al jefe de estación DOZ la libertad de la 1.ª vía principal y fue a comprobar la libertad de la vía de tren para el tren Os 18809 en la 3.ª vía principal;
+◦informó al jefe de estación DOZ de que el tren Os 18806 había llegado completo a la est. Omlenice;
+◦el jefe de estación DOZ le comunicó que el tren Os 18809 se había descarrilado en el desvío n.º 1;
+supervisora de desvíos II.
+  – del Acta con el empleado se desprende, entre otros datos:
 •
-◦desempeñaba la función de guardagujas II.;
+◦ejercía la función de supervisora de desvíos II.;
 ◦no recibió del jefe de estación DOZ ninguna orden para la preparación de la vía de tren;
 ◦no participó en la preparación de la vía de tren.
 ### 3.1.2 Otros testigos
-Otras personas no prestaron declaraciones.
+Otras personas no prestaron declaración.
 ### 3.2 Sistema de garantía de la seguridad
 ### 3.2.1 Organización marco y forma de emisión y ejecución de instrucciones
-El gestor de la infraestructura y el transportista disponen de un sistema de garantía de la seguridad adoptado con base en las disposiciones de la Ley n.º 266/1994 Sb.
-En el sistema de garantía de la seguridad de la explotación de la infraestructura adoptado por el gestor de la infraestructura SŽDC, relacionado con las circunstancias del origen de la MIE en cuestión, no se detectó ningún defecto.
-En el sistema de garantía de la seguridad de la explotación del transporte ferroviario adoptado por el transportista ČD, relacionado con las circunstancias del origen de la MIE en cuestión, no se detectó ningún defecto.
-
+El gestor de la infraestructura y el transportista cuentan con un sistema de garantía de la seguridad adoptado en virtud de lo dispuesto en la Ley n.º 266/1994 Sb.
+En el sistema de garantía de la seguridad de la explotación de la infraestructura adoptado por el gestor de la infraestructura SŽDC, relacionado con las circunstancias de la aparición de la MU en cuestión, no se detectó deficiencia alguna.
+En el sistema de garantía de la seguridad de la explotación del transporte ferroviario adoptado por el transportista ČD, relacionado con las circunstancias de la aparición de la MU en cuestión, no se detectó deficiencia alguna.
 
 ## Página 22
 
-### 3.2.2 Requisitos para los empleados del gestor de la infraestructura y del transportista y aplicación de dichos requisitos
-Los requisitos para los empleados del gestor de la infraestructura y del transportista, en particular los requisitos de idoneidad profesional y sanitaria, están establecidos por la Ley n.º 266/1994 Sb., el Decreto n.º 173/1995 Sb., el Decreto n.º 101/1995 Sb., el Decreto n.º 16/2012 Sb. y las normas internas del gestor de la infraestructura y del transportista.
-En el momento del origen de la MIE en cuestión, todas las personas del gestor de la infraestructura SŽDC involucradas en la MIE que realizaban actividades en la explotación de la infraestructura eran profesionalmente idóneas para el desempeño de la función que ocupaban (jefe de estación DOZ de la est. Horní Dvořiště, guardagujas I. y II. de la est. Omlenice).
-En el momento del origen de la MIE en cuestión, la persona del transportista ČD era profesionalmente idónea para el desempeño de la función que ocupaba (maquinista del tren Os 18809).
+### 3.2.2 Requisitos para el personal del gestor de la infraestructura ferroviaria y del transportista, y aplicación de dichos requisitos
+Los requisitos para el personal del gestor de la infraestructura ferroviaria y del transportista, en particular los requisitos de idoneidad técnica y sanitaria, están establecidos por la Ley n.º 266/1994 Sb., por el decreto n.º 173/1995 Sb., por el decreto n.º 101/1995 Sb., por el decreto n.º 16/2012 Sb. y por las normas internas del gestor de la infraestructura ferroviaria y del transportista.
+En el momento de producirse la MU objeto de estudio, todas las personas del gestor de la infraestructura ferroviaria SŽDC participantes en la MU que desempeñaban actividades en la explotación de la infraestructura ferroviaria poseían la idoneidad técnica para el ejercicio de la función desempeñada (jefe de estación DOZ de la estación Horní Dvořiště, inspectora de agujas de las estaciones I y II Omlenice).
+En el momento de producirse la MU objeto de estudio, la persona del transportista ČD poseía la idoneidad técnica para el ejercicio de la función desempeñada (maquinista del tren Os 18809).
 ### 3.2.3 Procedimientos de control interno de seguridad y de auditoría y sus resultados
-El gestor de la infraestructura SŽDC dispone de un sistema de control de seguridad de la explotación de la infraestructura. El 12. 9. 2019 se realizó la inspección y mantenimiento rutinarios del SZZ según el plan de mantenimiento aprobado, sin defectos detectados.
-La última revisión rutinaria del equipo técnico eléctrico designado del SZZ de la est. Omlenice se realizó, con base en el Informe de revisión del equipo eléctrico RZ: n.º 15SZZ-09-2019, el 26. 9. 2019 con la conclusión: «El dispositivo de seguridad revisado es, en el ámbito de esta revisión, apto para la explotación segura y la aptitud de servicio conforme al § 5 apartado 3 del Decreto del MD n.º 100/1995 Sb., en su redacción vigente».
-La última revisión rutinaria del equipo técnico eléctrico designado del SZZ de la est. Horní Dvořiště se realizó, con base en el Informe de revisión del equipo eléctrico RZ: n.º 13SZZ-09-2019, el 2. 9. 2019 con la conclusión: «El dispositivo de seguridad revisado es, en el ámbito de esta revisión, apto para la explotación segura y la aptitud de servicio conforme al § 5 apartado 3 del Decreto del MD n.º 100/1995 Sb., en su redacción vigente».
-La última inspección integral de la línea se realizó, con base en el Acta de la inspección integral de la línea, el 29. 4. 2019 con la conclusión: «... en la inspección integral no se detectaron fuentes visibles de amenaza para la explotación de la infraestructura».
-El jefe de estación DOZ involucrado en la MIE fue inspeccionado antes del origen de la MIE por el inspector correspondiente, con enfoque en el desempeño directo del servicio, en el período desde enero de 2019 hasta el momento del origen de la MIE, los días 10. 4., 15. 5. y 15. 8. 2019. El defecto detectado durante la inspección del 15. 8. 2019, que fue tratado con el empleado conforme a las normas internas correspondientes del gestor de la infraestructura, no guardaba relación con la causa y las circunstancias de la MIE en cuestión. El gestor de la infraestructura evaluó las demás inspecciones realizadas como desempeño del servicio sin defectos.
-La guardagujas I. involucrada en la MIE fue inspeccionada antes del origen de la MIE
-
+El gestor de la infraestructura ferroviaria SŽDC dispone de un sistema de control de seguridad de la explotación de la infraestructura ferroviaria. El 12 de septiembre de 2019 se realizó la inspección y el mantenimiento rutinarios del SZZ conforme al plan de mantenimiento aprobado, sin que se detectaran anomalías.
+La última revisión periódica del dispositivo técnico eléctrico designado SZZ de la estación Omlenice se realizó, con base en el Informe de revisión del equipo eléctrico RZ: n.º 15SZZ-09-2019, el 26 de septiembre de 2019, con la conclusión: «El equipo de señalización sometido a revisión es, en el ámbito de esta revisión, apto para la explotación segura y la idoneidad de servicio conforme al § 5 apartado 3 del decreto del MD n.º 100/1995 Sb., en la redacción de las disposiciones posteriores».
+La última revisión periódica del dispositivo técnico eléctrico designado SZZ de la estación Horní Dvořiště se realizó, con base en el Informe de revisión del equipo eléctrico RZ: n.º 13SZZ-09-2019, el 2 de septiembre de 2019, con la conclusión: «El equipo de señalización sometido a revisión es, en el ámbito de esta revisión, apto para la explotación segura y la idoneidad de servicio conforme al § 5 apartado 3 del decreto del MD n.º 100/1995 Sb., en la redacción de las disposiciones posteriores».
+La última inspección integral de la línea se realizó, con base en el Acta de la inspección integral de la línea, el 29 de abril de 2019, con la conclusión: «... en la inspección integral no se detectaron fuentes visibles de amenaza para la explotación de la infraestructura ferroviaria».
+El jefe de estación DOZ participante en la MU fue inspeccionado, antes de producirse la MU, por el inspector correspondiente, con especial atención al desempeño directo del servicio, en el período comprendido entre enero de 2019 y la fecha de producción de la MU, los días 10 de abril, 15 de mayo y 15 de agosto de 2019. La anomalía detectada durante la inspección del 15 de agosto de 2019, que fue tratada con el empleado conforme a las normas internas correspondientes del gestor de la infraestructura ferroviaria, no guardaba relación con la causa y las circunstancias de la MU objeto de estudio. El gestor de la infraestructura ferroviaria evaluó el resto de inspecciones realizadas como desempeño del servicio sin anomalías.
+La inspectora de agujas I participante en la MU fue inspeccionada, antes de producirse la MU
 
 ## Página 23
+
 
 por el inspector correspondiente, con enfoque en el desempeño directo del servicio, en el período desde enero de 2019 hasta el momento del origen de la MIE, los días 2. 4., 13. 5., 19. 6., 7. 7., 3. 8. y 14. 9. 2019. El gestor de la infraestructura evaluó las inspecciones realizadas como desempeño del servicio sin defectos.
 La guardagujas II. involucrada en la MIE fue inspeccionada antes del origen de la MIE por el inspector correspondiente, con enfoque en el desempeño directo del servicio, en el período desde enero de 2019 hasta el momento del origen de la MIE, los días 2. 7. y 14. 9. 2019. El gestor de la infraestructura evaluó las inspecciones realizadas como desempeño del servicio sin defectos.
@@ -816,8 +840,8 @@ En la investigación se detectó una infracción de la normativa jurídica en re
 •
 «El gestor de la infraestructura está obligado a explotar la infraestructura para las necesidades del transporte ferroviario fluido y seguro conforme a las reglas para la explotación de la infraestructura y a la autorización administrativa»;
 
-
 ## Página 24
+
 
 § 12 apartado 1, del Decreto n.º 173/1995 Sb.:
 •
@@ -840,6 +864,7 @@ El SZZ de la est. Omlenice dispone de un Certificado de aptitud del equipo técn
 El SZZ de la est. Horní Dvořiště dispone de un Certificado de aptitud del equipo técnico designado, n.º ev.: PZ 1812/19-E.48, emitido por el DÚ el 2. 9. 2019, con validez hasta el 2. 9. 2020. El UTZ es apto para la explotación con base en el Acta de inspección y ensayo técnico n.º ref.: 346/2019/01-PH de fecha 2. 9. 2019 con la conclusión: «El dispositivo es apto para su puesta en servicio conforme al § 47 de la Ley n.º 266/94 Sb., de ferrocarriles, en su redacción vigente».
 
 ## Página 25
+
 
 Del análisis del archivo de datos descargado se constató:
 17.57.23 h
@@ -897,8 +922,8 @@ consecuencia de la MU.
 Los componentes de la vía no guardaban relación causal con la aparición de la MU.
 No se detectaron deficiencias.
 
-
 ## Página 26
+
 
 ### 3.4.3 Dispositivos de señalización e información
 El uso de los dispositivos de señalización, comunicación e información no guardaba
@@ -960,8 +985,8 @@ con precaución aumentada.
 El 10. 10. 2019, por personal competente del transportista, se realizó una revisión
 comisionada
 
-
 ## Página 27
+
 
 del HDV 814.131-9 dañado con el fin de determinar el alcance de los daños. El estado
 técnico del HDV no guardaba relación causal con la aparición de esta MU y sus daños
@@ -1021,8 +1046,8 @@ Registro de averías del dispositivo de señalización y seguridad del jefe de e
 DOZ de la est. Horní Dvořiště y fue firmada por el sustituto de SSZT České Budějovice
 y por el jefe de estación DOZ de la est. Horní Dvořiště. En la anotación
 
-
 ## Página 28
+
 
 se indicó además por parte del personal de SSZT un aviso de atención reforzada en la
 operación del SZZ en la est. Omlenice: «A la operación del dispositivo de seguridad
@@ -1081,8 +1106,8 @@ en el art. 307 de la normativa interna del operador de la vía SŽDC D1 se estab
 «En la explotación de la vía se utilizan instrucciones. Las instrucciones en el
 servicio de tráfico deben ser breves
 
-
 ## Página 29
+
 
 y comprensibles, de modo que quede excluido cualquier malentendido, no deben
 poner en peligro la seguridad de la explotación de la vía y del tráfico ferroviario y
@@ -1137,40 +1162,31 @@ que ocupaban.
 
 ## Página 30
 
-Los empleados del gestor de la vía y del transportista se sometían a exámenes médicos periódicos de conformidad con lo dispuesto en el decreto nº 101/1995 Sb. Parte de la investigación del factor humano fue, entre otras cosas, la evaluación de todas las influencias que pudieran haber actuado sobre los empleados implicados y que pudieran haber tenido, en su caso, influencia en la aparición de la MU. Se trata, en particular, además de la evaluación del estado de salud y de la situación personal, de la capacidad de procesar información, de una posible tensión física y psíquica, así como de la evaluación de la experiencia, los conocimientos, la antigüedad en el puesto y la carga de trabajo (véase el punto 4.2.1).
-No se detectó ningún estado de salud ni situación personal que pudiera tener influencia en la aparición de la MU, incluida la tensión física y psíquica.
-No se detectaron deficiencias.
-3.6.3 Disposición del equipamiento del puesto de mando o del vehículo ferroviario que influye en su conducción y utilización
-La disposición y el equipamiento del puesto de trabajo de los empleados del gestor de la vía y del transportista no guardaban relación con la aparición de la MU.
+Los empleados del gestor de la infraestructura ferroviaria y del transportista se sometían a exámenes médicos periódicos de conformidad con lo dispuesto en el decreto n.º 101/1995 Sb. Parte de la investigación del factor humano fue, entre otros aspectos, la evaluación de todas las influencias que pudieron actuar sobre los empleados implicados y que pudieron tener, en su caso, incidencia en la aparición del SU. Se trata, en particular, además de la evaluación del estado de salud y de la situación personal, de la capacidad de procesar información, de una posible tensión física y psicológica, así como de la evaluación de la experiencia, los conocimientos, la antigüedad en el puesto y la carga de trabajo (véase el punto 4.2.1). No se detectaron circunstancias de salud ni situaciones personales que pudieran tener incidencia en la aparición del SU, incluida la tensión física y psicológica. No se detectaron deficiencias.
+### 3.6.3 Disposición del equipamiento del puesto de mando o del vehículo ferroviario que incide en su conducción y utilización
+La disposición y el equipamiento del puesto de trabajo de los empleados del gestor de la infraestructura ferroviaria y del transportista no guardaban relación con la aparición del SU.
 ### 3.7 Incidentes anteriores de carácter similar
-La DI investigó las causas y circunstancias en el período comprendido entre el 1. 1. 2008 y la fecha de aparición de la MU en cuestión, en las vías ferroviarias, categoría nacional y regional, en un total de 3 MU similares, en los que se produjo el cambio de aguja delante o por debajo de los DV en marcha del tren:
-del 6. 6. 2008 a las 7.33 h en la est. Čelákovice, en el que se produjo el descarrilamiento del coche motor
-•
-de la unidad motor eléctrica de la serie 471 del tren Os 9407 en la aguja nº 22.
-La causa inmediata de la aparición de la MU fue la posición incorrecta de la aguja nº 22 en el itinerario de vía para el tren Os 9407 y su cambio por debajo del coche intercalado en marcha, incluido en dicho tren como segundo vehículo ferroviario. La causa fundamental de la aparición de la MU fue el incumplimiento de los procedimientos tecnológicos para la explotación de la vía y de las normas para la maniobra de agujas y del dispositivo de seguridad del gestor de la vía, al haberse realizado, en el marco de la comunicación telefónica establecida sobre la preparación del itinerario de vía entre el puesto de mando St 2 y la oficina de tráfico, la notificación de la posición y la disponibilidad del itinerario de vía para el tren Os 18806 en la vía 1 sin comprobar la posición correcta de las agujas nº 22 y 20a, permitiendo así la entrada de dicho tren en la aguja nº 22 mal colocada;
-del 4. 8. 2015 a las 13.19 h en la est. Horažďovice předměstí, en el que se produjo la colisión
-•
-del penúltimo y del último DV del tren R 668 con el tren R 667 y el consiguiente descarrilamiento. La causa inmediata de la aparición de la MU fue el cambio de la aguja nº 28X en el momento en que sobre dicha aguja se encontraba el DV del tren R 668, y la posterior circulación de la parte trasera del tren R 668 por una vía distinta de la destinada a la circulación de dicho tren. Las causas fundamentales de la aparición de la MU fueron:
-
+La DI investigó las causas y circunstancias en el período comprendido entre el 1 de enero de 2008 y la fecha de aparición del SU objeto de estudio, en las vías ferroviarias de categoría nacional y regional, en un total de 3 SU similares, en los que se produjo el cambio de aguja delante o por debajo de los vehículos ferroviarios en marcha del tren:
+• del 6 de junio de 2008 a las 7.33 h en la estación de Čelákovice, en el que se produjo el descarrilamiento del coche motor de la unidad de tren eléctrica de la serie 471 del tren Os 9407 en la aguja n.º 22. La causa inmediata de la aparición del SU fue la posición incorrecta de la aguja n.º 22 en el itinerario de tren para el tren Os 9407 y su cambio por debajo del coche intercalado en marcha, incluido en dicho tren como segundo vehículo ferroviario. La causa fundamental de la aparición del SU fue el incumplimiento de los procedimientos tecnológicos para la explotación de la infraestructura ferroviaria y de las normas para la maniobra de agujas y del dispositivo de seguridad del gestor de la infraestructura ferroviaria, al haberse realizado, mediante la comunicación telefónica establecida sobre la preparación del itinerario de tren entre la sala de enclavamiento St 2 y la oficina de tráfico, la notificación de la posición y disponibilidad del itinerario de tren para el tren Os 9407 en la vía 1 sin comprobar la posición correcta de las agujas n.º 22 y 20a, y con ello permitir la entrada de dicho tren en la aguja n.º 22 colocada incorrectamente;
+• del 4 de agosto de 2015 a las 13.19 h en la estación de Horažďovice předměstí, en el que se produjo una colisión entre el penúltimo y el último vehículo ferroviario del tren R 668 con el tren R 667 y el posterior descarrilamiento. La causa inmediata de la aparición del SU fue el cambio de la aguja n.º 28X en el momento en que el vehículo ferroviario del tren R 668 se encontraba en dicha aguja, y la posterior circulación de la parte trasera del tren R 668 por una vía distinta de la destinada a la circulación de dicho tren. Las causas fundamentales de la aparición del SU fueron:
 
 ## Página 31
 
-◦la no comprobación de la disponibilidad del itinerario de vía por parte del jefe de estación en su ámbito y la orden de preparación del itinerario de vía para el tren R 667 en contra de los procedimientos tecnológicos establecidos;
-◦el cambio de las agujas nº 28X y 29X por el operador de señalización St. 2 sin la emisión de una instrucción inequívoca por parte del jefe de estación para su cambio;
-del 16. 8. 2017 a las 7.04 h en la est. Praha-Čakovice, en el que se produjo el descarrilamiento del primer
-•
-bastidor del HDV del tren Os 9522 en la aguja nº 1. La causa inmediata de la aparición de la MU fue el cambio de la aguja nº 1 por el jefe de estación de la est. Praha-Čakovice en el momento inmediatamente anterior a la circulación del DV del tren Os 9522. La causa fundamental de la aparición de la MU fue el incumplimiento de los procedimientos tecnológicos del gestor de la vía al cambiar la aguja nº 1.
-En base a los resultados de la investigación, la Inspección Ferroviaria emitió una recomendación de seguridad relativa a uno de los incidentes mencionados más arriba. En concreto, se trataba de la MU del 4. 8. 2015 en la est. Horažďovice předměstí. No obstante, esta recomendación de seguridad no guarda relación con las causas de la aparición de la MU en cuestión en el presente Informe Final.
+◦no comprobación de la libertad de la vía del tren por parte del jefe de estación en su ámbito y orden de preparación de la vía del tren para el tren R 667 en contradicción con los procedimientos tecnológicos establecidos;
+◦desvío de los desvíos n.º 28X y 29X por parte del señalero de la Est. 2 sin la emisión de una instrucción inequívoca por parte del jefe de estación para su desvío;
+• del día 16. 8. 2017 a las 7.04 h en la est. Praha-Čakovice, cuando se produjo el descarrilamiento del primer
+bogie del rodaje del tren Os 9522 en el desvío n.º 1. La causa inmediata de la aparición de la MU fue el desvío del desvío n.º 1 por parte del jefe de estación de la est. Praha-Čakovice en el momento justo antes de la marcha del rodaje del tren Os 9522. La causa fundamental de la aparición de la MU fue el incumplimiento de los procedimientos tecnológicos del explotador de la vía al desviar el desvío n.º 1.
+Sobre la base de los resultados de la investigación, la Inspección Ferroviaria emitió una recomendación de seguridad relativa a una de las incidencias extraordinarias mencionadas anteriormente. Concretamente, se trataba de la MU del día 4. 8. 2015 en la est. Horažďovice předměstí. Esta recomendación de seguridad, sin embargo, no se relaciona con las causas de la aparición de la MU objeto de este Informe Final.
 ## 4 ANÁLISIS Y CONCLUSIONES
-### 4.1 Descripción final del incidente
-### 4.1.1 Emisión de conclusiones sobre el incidente basadas en los hechos
-detectados en el punto 3
-En la est. Omlenice y en los tramos de vía adyacentes continuó el 2. 10. 2019 la adaptación y modernización del dispositivo de seguridad, que estaba parcialmente desactivado. La organización y dirección del tráfico ferroviario se trasladó al puesto del jefe de estación DOZ de la est. Horní Dvořiště con las demás medidas de tráfico según la ROV nº 95021/Z1 fases A, B, C y la Orden del jefe de PO České Budějovice. Para la comprobación de la disponibilidad y de la correcta colocación de los itinerarios de vía en la est. Omlenice, se asignaron en los turnos diurnos las plazas de supervisor de agujas I. para los ámbitos 1 y 2 según el RÉG de la est. Omlenice y de supervisor de agujas II. para los ámbitos 3 y 4 según el RÉG de la est. Omlenice.
-Al jefe de estación DOZ se le emitió a las 17.52 h la orden a la supervisora de agujas I. de comprobar la disponibilidad de la 1. SK de la est. Omlenice para la preparación del itinerario de vía para el tren Os 18806 y de la 3. SK para la preparación del itinerario de vía para el tren Os 18809. La supervisora de agujas I. confirmó la disponibilidad de la 1. SK para el tren Os 18806. A las 17.57 h el jefe de estación DOZ dio el consentimiento a la circulación para el tren Os 18809 mediante la iluminación de la señal «Señal de llamada» en la señal de entrada L de la est. Omlenice. La aguja nº 1 fue cambiada a la dirección de desvío hacia la 3. SK y estaba bajo bloqueo de emergencia. El jefe de estación DOZ a las 17.59 h levantó el bloqueo de emergencia de la aguja nº 1 y comenzó su cambio hacia la 1. SK, a pesar de no haber recibido de la supervisora de agujas I. la información de que el tren Os 18809 había llegado íntegramente a la 3. SK y de que había liberado la aguja nº 1. El tren Os 18809 entró en la aguja nº 1 en el momento de su cambio, y con ello se produjo el descarrilamiento del primer DV con ambos bastidores en la zona de cambio de la aguja. El segundo DV del tren permaneció en la 1. SK sin descarrilarse. El frente del tren se detuvo en el km 79,566, es decir, a una distancia de 29 m por detrás de las puntas de las lenguas de la aguja nº 1.
-En la MU no se produjeron fallecimientos ni lesiones personales. El daño al HDV del tren Os 18809 fue cuantificado por el titular del DV en 47 200 Kč y el daño en los equipos del gestor de la vía fue cuantificado en 42 181 Kč.
-
+### 4.1 Descripción final de la incidencia extraordinaria
+### 4.1.1 Elaboración de las conclusiones sobre la incidencia extraordinaria basadas en los hechos
+constatados en el punto 3
+En la est. Omlenice y en los tramos de vía adyacentes continuó el día 2. 10. 2019 la adaptación y modernización del aparato de enclavamiento, que estaba parcialmente desconectado. La organización y dirección del tráfico ferroviario se trasladó al puesto del jefe de estación DOZ de la est. Horní Dvořiště, con las demás medidas de tráfico según la ROV n.º 95021/Z1 etapas A, B, C y la Orden del jefe de PO České Budějovice. Para la comprobación de la libertad y de la correcta posición de las vías de circulación en la est. Omlenice se ocuparon en los turnos diarios las plazas de inspector de desvíos I. para los ámbitos 1 y 2 según el RgO de la est. Omlenice y de inspector de desvíos II. para los ámbitos 3 y 4 según el RgO de la est. Omlenice.
+Al jefe de estación DOZ se le emitió a las 17.52 h la orden a la inspectora de desvíos I. de comprobar la libertad de la 1. SK de la est. Omlenice para la preparación de la vía del tren para el tren Os 18806 y de la 3. SK para la preparación de la vía del tren para el tren Os 18809. La inspectora de desvíos I. confirmó la libertad de la 1. SK para el tren Os 18806. A la hora 17.57 h el jefe de estación DOZ dio el consentimiento a la marcha para el tren Os 18809 encendiendo la señal «Señal de llamada» en la señal de entrada L de la est. Omlenice. El desvío n.º 1 estaba desviado hacia la dirección de desvío a la 3. SK y estaba bajo bloqueo de emergencia. El jefe de estación DOZ a la hora 17.59 h anuló el bloqueo de emergencia del desvío n.º 1 e inició su desvío hacia la 1. SK, a pesar de no haber recibido de la inspectora de desvíos I. la información de que el tren Os 18809 había llegado íntegramente a la 3. SK y de que había liberado el desvío n.º 1. El tren Os 18809 entró en el desvío n.º 1 en el momento de su desvío, y con ello se produjo el descarrilamiento del primer rodaje con ambos bogies en la parte de cambio del desvío. El segundo rodaje del tren permaneció en la 1. SK sin descarrilar. El frente del tren se detuvo en el km 79,566, es decir, a una distancia de 29 m detrás de las puntas de las agujas del desvío n.º 1.
+En la MU no se produjeron fallecimientos ni lesiones personales. El daño en el rodaje del tren Os 18809 fue cuantificado por el titular del rodaje en 47 200 Kč y el daño en los equipos del explotador de la vía fue cuantificado en 42 181 Kč.
 
 ## Página 32
+
 
 ### 4.2 Análisis
 ### 4.2.1 Evaluación de los hechos detectados en el punto 3 y emisión de conclusiones sobre la causa
@@ -1181,47 +1197,63 @@ Como se desprende de la anotación en el Diario de Tráfico del DOZ de la est. H
 Según lo dispuesto en la ROV nº 95021/Z1 fase A y en la Orden del jefe de PO ČB, el jefe de estación DOZ debía determinar, al inicio del turno en los días de interrupción, los ámbitos de los distintos supervisores de agujas de la est. Omlenice para la comprobación de la disponibilidad y de la correcta colocación de los itinerarios de vía. Esta actuación, según las anotaciones del Registro Telefónico del jefe de estación DOZ de la est. Horní Dvořiště y del Registro Telegráfico de la est. Omlenice, se realizó de forma fehaciente únicamente el primer día de la interrupción, el 30. 9. 2019. Para los días siguientes, en ninguno de los dos documentos de tráfico citados más arriba constaban anotaciones sobre la determinación de los ámbitos para la comprobación de la disponibilidad y de la correcta colocación de los itinerarios de vía.
 Los ámbitos para la comprobación de la disponibilidad del itinerario de vía fueron determinados por la Orden del jefe de
 
-
 ## Página 33
 
-PO en el art. 2 (Fig. nº 4):
-Ámbito del supervisor de agujas I.:
-ámbito 1 – tramo no visible desde la señal de entrada L hasta el nivel de la señal Se2;
+PO en el art. 2 (Fig. n.º 4):
+Circuito del vigilante de desvíos I.:
+circuito 1 – tramo no visible desde la señal de entrada L hasta el nivel de la señal Se2;
 •
-ámbito 2 – tramo desde el nivel de la señal Se2 hasta el nivel de la señal Sc1 en las vías 1., 3. y 5.
+circuito 2 – tramo desde el nivel de la señal Se12 hasta el nivel de la señal Sc1 en el 1.º, 3.º y 5.º
 •
-SK.
-Ámbito del supervisor de agujas II.:
-ámbito 3 – tramo desde el nivel de la señal Sc1 en las vías 1., 3., 3a, 5. y 5a. SK hasta el nivel
+vía.
+Circuito del vigilante de desvíos II.:
+circuito 3 – tramo desde el nivel de la señal Sc1 en el 1.º, 3.º, 3a, 5.º y 5a. vía hasta el nivel
 •
 de la señal Se12;
-ámbito 4 – tramo no visible desde el nivel de la señal Se12 hasta la señal de entrada S.
+circuito 4 – tramo no visible desde el nivel de la señal Se12 hasta la señal de entrada S.
 •
-Si en el turno hay un solo supervisor de agujas, su ámbito para la comprobación de la disponibilidad del itinerario de vía es:
+Si en el turno hay un solo vigilante de desvíos, su circuito para la comprobación de
+libertad de vía de tren es:
 tramo desde la señal de entrada L hasta la señal de entrada S.
 •
   Fuente: SŽDC, DI
-Fig. nº 4: Reparto de los ámbitos para la comprobación de la disponibilidad de los itinerarios de vía en la est. Omlenice
-Según el art. 2859 del reglamento interno del gestor de la vía SŽDC D1, todo empleado designado para la comprobación de la disponibilidad del itinerario de vía es plenamente responsable de la disponibilidad del itinerario de vía en su ámbito.
-De la documentación de tráfico se desprende que el jefe de estación DOZ no determinó de forma fehaciente a las supervisoras de agujas sus ámbitos al inicio del turno. Tampoco informó de forma fehaciente a las supervisoras de agujas de los cambios en la tecnología de preparación de los itinerarios de vía tras la activación de la parte del SZZ.
-Tras la notificación de la salida del tren Os 18809 de la est. Rybník, el jefe de estación DOZ inició las actuaciones para la preparación del itinerario de vía para su entrada en la 3. SK de la est. Omlenice. Como se desprende de la Declaración prestada ante la DI y del Acta con el empleado, el jefe de estación DOZ solo menciona a una sola supervisora de agujas. Esto también se desprende de las anotaciones de las conversaciones y de los Actas con las empleadas supervisoras de agujas I. y II., cuando la preparación del itinerario de vía para la entrada del tren Os 18806 en la 1. SK y del tren Os 18809 en la 3. SK la comunica a una sola persona, la supervisora de agujas I., a las 17.52 h. La supervisora de agujas I. confirmó de inmediato la disponibilidad de la 1. SK y a continuación fue a comprobar la disponibilidad de la 3. SK de la est. Omlenice. Del intercambio de comunicaciones orales se desprende asimismo que las instrucciones que se emitieron en el marco de la preparación del itinerario de vía para el tren Os 18809 fueron
+Fig. n.º 4: Reparto de circuitos para la comprobación de libertad de vías de tren en la est. Omlenice
+Según el art. 2859 de la norma interna del gestor de la vía SŽDC D1, todo
+empleado designado para la comprobación de libertad de vía de tren es plenamente
+responsable de la libertad de vía de tren en su circuito.
+De la documentación de tráfico se deduce que el jefe de estación DOZ no estableció
+de forma acreditable a las vigilantes de desvíos sus circuitos al inicio del turno. Tampoco
+informó de forma acreditable a las vigilantes de desvíos de los cambios en la tecnología
+de preparación de vías de tren tras la activación de parte del SZZ.
+Tras la notificación de la salida del tren Os 18809 de la est. Rybník, el jefe de estación
+DOZ inició las actuaciones para la preparación de la vía de tren para su entrada en la 3.ª
+vía de la est. Omlenice. Como se deduce del Registro de explicación presentada por la DI
+y de la Acta con el empleado, el jefe de estación DOZ solo menciona a una vigilante de
+desvíos. Esto también se deduce de las grabaciones de las conversaciones y de las Actas
+con las empleadas vigilantes de desvíos I. y II., cuando la preparación de la vía de tren
+para la entrada del tren Os 18806 en la 1.ª vía y del tren Os 18809 en la 3.ª vía la
+comunica solo a una persona, a saber, a la vigilante de desvíos I. a las 17.52 h. La
+vigilante de desvíos I. confirmó de inmediato la libertad de la 1.ª vía y a continuación
+fue a comprobar la libertad de la 3.ª vía de la est. Omlenice. Del intercambio de avisos
+verbales se deduce asimismo que las instrucciones que se dieron en el marco de la
+preparación de la vía de tren para el tren Os 18809 fueron
 
 ## Página 34
 
-no es unívoca. La deficiencia detectada, sin embargo, no guarda relación causal con la aparición de la MU; la supervisora de desvíos procedió de la misma manera que cuando en el turno solo hay un supervisor de desvíos. Según su declaración, el jefe de estación DOZ comprobó en el monitor JOP que el tren Os 18809 se había aproximado a la señal de entrada L y le permitió la entrada encendiendo la «Señal de llamada» en la señal de entrada L. Esta operación quedó registrada en el archivo de datos de SZZ a las 17.57.23 h. El jefe de estación DOZ, además, según su declaración, vigilaba en el monitor la ocupación y liberación de los distintos tramos de vía por el tren Os 18809. Cuando desapareció la ocupación del circuito del desvío n.º 1, evaluó la situación como que el desvío n.º 1 estaba libre, anuló el bloqueo de emergencia de los desvíos y comenzó con la preparación de la vía de tren para la salida del tren Os 18806 desde la 1.ª vía. A las 17.59.51 h colocó el desvío n.º 1 en dirección recta desde/hacia la 1.ª vía, sin darse cuenta, sin embargo, de que los circuitos de vía no estaban plena y fiablemente activados, de que no podía confiar en su funcionamiento y de que debía esperar a recibir la comunicación telefónica del supervisor de desvíos de que el tren Os 18809 había llegado íntegro a la 3.ª vía, es decir, de que había liberado el circuito del desvío n.º 1. Con su actuación, el jefe de estación DOZ incumplió las disposiciones de la normativa legal y los procedimientos tecnológicos establecidos en las normas internas del gestor de la infraestructura (véanse los puntos 3.3.1 y 3.3.2). En su declaración, el jefe de estación DOZ añadió que la situación del tráfico era complicada debido a la intervención y que le indujo a error el funcionamiento de SZZ. Cuando a las 18.03 h la supervisora de desvíos I. comunicó que el tren Os 18806 había llegado íntegro a la est. Omlenice, es decir, que había liberado el desvío n.º 7, se enteró por parte del jefe de estación DOZ de que el tren Os 18809 había descarrilado en el desvío n.º 1.
-El procedimiento correcto en la preparación y posterior anulación de las vías de tren, dado que los circuitos de vía no estaban activados para el control del tráfico ferroviario, habría debido realizarse en los siguientes pasos:
-1) la vía de tren para la entrada del tren Os 18809 incluía los circuitos 1, 2 y 3 según el Reglamento de estación de la est. Omlenice (véase la Fig. 4), es decir, los circuitos para la comprobación de la libertad de las vías de tren por parte de las supervisoras de desvíos I. y II., por lo que el jefe de estación DOZ anunciará a ambas supervisoras la preparación de esta vía de tren y esperará a que ambas le comuniquen la libertad de la 3.ª vía;
-2) la vía de tren para la entrada del tren Os 18806 incluía los circuitos 3 y 4 según el Reglamento de estación de la est. Omlenice (véase la Fig. 4), es decir, los circuitos para la comprobación de la libertad de las vías de tren por parte de la supervisora de desvíos II., por lo que el jefe de estación DOZ anunciará a esta supervisora la preparación de esta vía de tren y esperará a que le comunique la libertad de la 1.ª vía;
-3) colocará el desvío n.º 1 desde/hacia la 3.ª vía;
+no es unívoca. La deficiencia detectada, sin embargo, no guarda relación causal con la aparición de la MU; la supervisora de desvíos actuaba de la misma manera que cuando en el turno solo hay un inspector de desvíos. Según su declaración, el jefe de estación DOZ comprobó en el monitor JOP que el tren Os 18809 se había aproximado a la señal de entrada L y le autorizó la entrada encendiendo la «Señal de llamada» en la señal de entrada L. Esta operación quedó registrada en el archivo de datos de la SZZ a las 17.57.23 h. El jefe de estación DOZ, según su declaración, siguió además en el monitor la ocupación y liberación de los distintos tramos de vía por el tren Os 18809. Cuando desapareció la ocupación del circuito del desvío n.º 1, valoró la situación como que el desvío n.º 1 estaba libre, anuló el enclavamiento de emergencia de los desvíos e inició la preparación de la vía de tren para la salida del tren Os 18806 desde la 1.ª vía. A las 17.59.51 h accionó el desvío n.º 1 a la posición recta desde/hacia la 1.ª vía, sin ser consciente de que los circuitos de vía no estaban plena y fiablemente activados, de que no podía confiar en su funcionamiento y de que debía esperar a recibir la comunicación telefónica del inspector de desvíos de que el tren Os 18809 había llegado íntegro a la 3.ª vía, es decir, de que había liberado el circuito del desvío n.º 1. Con su actuación, el jefe de estación DOZ incumplió las disposiciones de la normativa legal y los procedimientos tecnológicos establecidos en las normas internas del gestor de la infraestructura (véanse los puntos 3.3.1 y 3.3.2). En su declaración, el jefe de estación DOZ añadió que la situación del tráfico era complicada debido a la interrupción de servicio y que le indujo a error el funcionamiento de la SZZ. Cuando a las 18.03 h la supervisora de desvíos I. comunicó que el tren Os 18806 había llegado íntegro a la est. Omlenice, es decir, que había liberado el desvío n.º 7, supo por el jefe de estación DOZ que el tren Os 18809 había descarrilado en el desvío n.º 1.
+El procedimiento correcto en la preparación y posterior anulación de las vías de tren, dado que los circuitos de vía no estaban activados para el control del tráfico ferroviario, debía haberse ejecutado en los siguientes pasos:
+1) la vía de tren para la entrada del tren Os 18809 incluía los circuitos 1, 2 y 3 según el RFE de la est. Omlenice (véase la Fig. 4), es decir, los circuitos para la comprobación de la libre de vías de tren por parte de las supervisoras de desvíos I. y II., por lo que el jefe de estación DOZ comunicará a ambas supervisoras la preparación de esta vía de tren y esperará a que ambas le informen de la libre de la 3.ª vía;
+2) la vía de tren para la entrada del tren Os 18806 incluía los circuitos 3 y 4 según el RFE de la est. Omlenice (véase la Fig. 4), es decir, los circuitos para la comprobación de la libre de vías de tren por parte de la supervisora de desvíos II., por lo que el jefe de estación DOZ comunicará a esta supervisora la preparación de esta vía de tren y esperará a que le informe de la libre de la 1.ª vía;
+3) accionará el desvío n.º 1 desde/hacia la 3.ª vía;
 4) comprobará la posición del desvío n.º 7 en la 1.ª vía;
-5) encenderá la «Señal de llamada» en las señales de entrada L para el tren Os 18809 y S para el tren Os 18806 (según el anexo n.º 3 del Reglamento de estación de la est. Omlenice no se trata de entradas simultáneas prohibidas);
-6) la supervisora de desvíos I. comunicará que el tren Os 18809 ha llegado íntegro, es decir, que ha abandonado los circuitos del desvío n.º 1 y ha entrado en la 3.ª vía;
-7) el jefe de estación DOZ anulará el bloqueo de emergencia y colocará el desvío n.º 1 desde/hacia la 1.ª vía para la salida del tren Os 18806.
-8) la supervisora de desvíos II. comunicará que el tren Os 18806 ha llegado íntegro, es decir, que ha abandonado los circuitos del desvío n.º 7 y ha entrado en la 1.ª vía.
-La Inspección Ferroviaria, en la investigación del factor humano, evaluó todas las influencias que pudieron actuar sobre los empleados implicados y que pudieron tener, en su caso, influencia en la aparición de esta MU. En el caso del jefe de estación DOZ se trató principalmente de la evaluación de su experiencia, conocimientos y antigüedad.
-
+5) encenderá la «Señal de llamada» en las señales de entrada L para el tren Os 18809 y S para el tren Os 18806 (según el anexo n.º 3 del RFE de la est. Omlenice no se trata de entradas simultáneas prohibidas);
+6) la supervisora de desvíos I. informará de que el tren Os 18809 ha llegado íntegro, es decir, que ha abandonado los circuitos del desvío n.º 1 y ha entrado en la 3.ª vía;
+7) el jefe de estación DOZ anulará el enclavamiento de emergencia y accionará el desvío n.º 1 desde/hacia la 1.ª vía para la salida del tren Os 18806.
+8) la supervisora de desvíos II. informará de que el tren Os 18806 ha llegado íntegro, es decir, que ha abandonado los circuitos del desvío n.º 7 y ha entrado en la 1.ª vía.
+La Inspección Ferroviaria, en la investigación del factor humano, evaluó todas las influencias que pudieron actuar sobre los empleados implicados y que pudieron tener, en su caso, incidencia en la aparición de esta MU. En el caso del jefe de estación DOZ se trató, principalmente, de la evaluación de su experiencia, conocimientos y antigüedad.
 
 ## Página 35
+
 
 La Inspección Ferroviaria, mediante la investigación, constató que el jefe de estación DOZ estaba habilitado profesionalmente para el trabajo de jefe de estación y tenía suficiente antigüedad en el desempeño del servicio de tráfico; llevaba 29 años trabajando en la función de jefe de estación, de los cuales 5 años en el puesto de trabajo DOZ. De su horario de turnos se desprende que el 2. 10. 2019 tuvo su primer turno durante el periodo de intervención. Antes de la aparición de la MU tuvo un turno nocturno del 28 al 29 de septiembre de 2019, en el que para la organización y el control del tráfico ferroviario disponía de un dispositivo de seguridad plenamente funcional en el mismo puesto de trabajo. El jefe de estación DOZ estaba acreditadamente informado de la ROV 9502/Z1 y de la Orden del jefe de PO, lo que también confirmó en su escrito de aclaraciones.
 Las supervisoras de desvíos estaban sanas y habilitadas profesionalmente para el desempeño de sus funciones, y su antigüedad, experiencia y conocimientos no tuvieron influencia en la aparición de esta MU. Además, del Libro de Telegramas de la est. Omlenice y del horario de turnos de las supervisoras de desvíos se desprende que ambas empleadas desempeñaban sus funciones en la est. Omlenice en turnos de día desde el 30. 9. 2019 y ya tenían experiencia con la organización del tráfico ferroviario relacionada con la actividad de intervención anteriormente mencionada.
@@ -1238,8 +1270,8 @@ de la vía de tren.
 ### 4.3.3 Causas originadas en el marco legal y en el uso del sistema de garantía de la seguridad
 No se detectó ninguna causa del suceso excepcional derivada del marco legal y del uso del sistema de garantía de la seguridad.
 
-
 ## Página 36
+
 
 ### 4.4 Hallazgos complementarios
 4.4.1 Deficiencias y omisiones detectadas durante la investigación que no se refieren a las conclusiones sobre las causas
@@ -1260,8 +1292,8 @@ El gestor de la infraestructura SŽDC emitió, tras la aparición de la MU, las 
 5) El jefe de estación DOZ de la est. Horní Dvořiště realizó el 7. 10. 2019 una reevaluación extraordinaria en el ámbito del examen ZPZ/D-07/jefe de estación DOZ 706.
 El transportista ČD no adoptó ni emitió ninguna medida.
 
-
 ## Página 37
+
 
 ## 6 RECOMENDACIONES DE SEGURIDAD
 Atendiendo a las causas detectadas y a las circunstancias de aparición del suceso excepcional, la Inspección Ferroviaria no emite recomendaciones de seguridad.

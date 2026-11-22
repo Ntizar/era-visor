@@ -10,13 +10,14 @@ chars: 82507
 ratio_longitud: 1.23
 tokens_in: 48742
 tokens_out: 33892
-verificacion: revisar
-notas_cifras: ["bloque 2: original bilingüe: se compara contra el idioma principal (CS)", "bloque 5: original bilingüe: se compara contra el idioma principal (CS)", "bloque 6: original bilingüe: se compara contra el idioma principal (CS)", "bloque 7: original bilingüe: se compara contra el idioma principal (PL)"]
-avisos: ["bloque 5: ratio 1.65", "bloque 6: ratio 1.80"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (PT)", "página 4: original bilingüe: se compara contra el idioma principal (CS)", "página 7: original bilingüe: se compara contra el idioma principal (EN)", "página 8: original bilingüe: se compara contra el idioma principal (PT)", "página 9: original bilingüe: se compara contra el idioma principal (CS)", "página 11: cifras cortas: 1/16"]
 ---
+
 ## Página 1
+
 
 Inspección Ferroviaria
 República Checa
@@ -42,13 +43,13 @@ IČ:   75009561
 http://www.dicr.cz
 tel.: 224 805 444
 
-
 ## Página 2
+
 
 Este informe final es público y todos los documentos y hechos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ## 1 RESUMEN
 Fuente: Inspección Ferroviaria 
@@ -80,8 +81,8 @@ en que se aproximaba a él el tren Os 3561.
 Factores contribuyentes:
 • no fueron detectados por la Inspección Ferroviaria.
 
-
 ## Página 4
+
 
 Causas fundamentales: 
 • no respetar la advertencia del dispositivo de seguridad del paso a nivel
@@ -128,8 +129,8 @@ en las reconstrucciones y modernizaciones de líneas y pasos a nivel, promoviera
  la complementación de los dispositivos de seguridad luminosos de paso a nivel con barreras, y quedara así excluida
 la posible doble interpretación del artículo 25, apartado 2, de la Directiva 2004/49/CE en la legislación nacional.
 
-
 ## Página 5
+
 
 ## SUMMARY 
 Grade:
@@ -187,8 +188,8 @@ NIB) recommends to Czech Ministry of Transport to take
 immediately necessary measures to ensure that previous
 safety recommendations No. 877/2012/DI, of 14 November
 
-
 ## Página 6
+
 
 2012 and the above safety recommendations were by Czech
 National Safety Authority properly taken into account and
@@ -201,8 +202,8 @@ excluded dual interpretation of Article 25, paragraph 2 of
 Directive 2004/49/EC of the European Parliament and of the
 Council in national legislation.
 
-
 ## Página 7
+
 
 # Índice
 1 Resumen ...............................................................................................................................3
@@ -239,6 +240,7 @@ contractual ....................................................................
 
 ## Página 8
 
+
 3.1.2 Otras personas .........................................................................................................19
 3.2 Sistema de garantía de la seguridad ...............................................................................20
 3.2.1 Organización marco y forma en que se emiten y aplican las instrucciones .......20
@@ -268,10 +270,10 @@ cumplimiento ...................................................................
 4.1.1 Descripción definitiva del suceso ferroviario basada en los hechos constatados en el punto 3 
 ............................................................................................................................27
 4.2 Análisis ......................................................................................................................28
-4.2.1 Evaluación de los hechos constatados de acuerdo con el punto 3 y exposición de las conclusiones sobre la causa 
-
+4.2.1 Evaluación de los hechos constatados de acuerdo con el punto 3 y exposición de las conclusiones sobre la causa
 
 ## Página 9
+
 
 del suceso ferroviario y la actuación de los servicios de emergencia ..........................................28
 4.3 Conclusiones .......................................................................................................................30
@@ -286,8 +288,8 @@ del suceso ferroviario y la actuación de los servicios de emergencia ..........
 6 Recomendaciones de seguridad .............................................................................................31
 7 Anexos .............................................................................................................................33
 
-
 ## Página 10
+
 
 ## Lista de siglas y símbolos utilizados
 CDP
@@ -364,8 +366,8 @@ ZZ
 Informe sobre los resultados de la investigación de las causas y circunstancias del
 suceso ferroviario
 
-
 ## Página 11
+
 
 ## Lista de siglas de la legislación, normas y normas internas
 utilizadas
@@ -402,10 +404,10 @@ DIRECTIVA 2004/49/DEL PARLAMENTO EUROPEO Y DEL CONSEJO
 ČSN 73 6380 "Pasos a nivel y pasos a nivel peatonales", en su versión vigente
 SŽDC D1
 norma interna del gestor de la infraestructura SŽDC, SŽDC D1
-Reglamento de Circulación y Señalización, aprobado por el director general de SŽDC el 17. 12. 2012, con el núm. de expediente: 55738/2012-OZŘP, en vigor desde el 1. 7. 2013, en su versión vigente 
-
+Reglamento de Circulación y Señalización, aprobado por el director general de SŽDC el 17. 12. 2012, con el núm. de expediente: 55738/2012-OZŘP, en vigor desde el 1. 7. 2013, en su versión vigente
 
 ## Página 12
+
 
 ## 2 DATOS RELATIVOS AL SUCESO FERROVIARIO
 ## 2.1
@@ -424,18 +426,18 @@ GPS:
 Fig. n.º 1: Vista del lugar del suceso ferroviario
 Fuente: DI
 
-
 ## Página 13
 
-### 2.1.2 Descripción del suceso ferroviario y del lugar del accidente, incluida la actuación del sistema integrado de emergencias y del servicio de emergencia
-El 13. 7. 2013 a las 5.56 h, el tren Os 3561, que circulaba en el sentido desde la estación Skrochovice hacia la estación Opava západ, en el tramo del paso a nivel de una sola vía P 7770 en el km 110,525, protegido por PZS (sin barreras), colisionó con un vehículo automóvil – un camión, compuesto por un tractor de semirremolques SCANIA R420 LA4x2 y un semirremolque cisterna FELDBINDER 63.3 KIP. El HDV del tren Os 3561, como consecuencia de la colisión con el NA, descarriló con todos sus ejes.
-Fig. n.º 2: Esquema del lugar del suceso ferroviario.   Fuente: DI (a partir de cartografía de google.cz)
-Del examen del lugar del suceso ferroviario se constató lo siguiente:
-La formación – un NA, compuesto por un tractor de semirremolques SCANIA R420 LA4x2 y un semirremolque cisterna FELDBINDER 63.3 KIP, se aproximaba al paso a nivel desde la dirección de la rotonda del distrito urbano Jaktař (en adelante, Jaktař), en dirección al centro de Opava, por la calle Krnovská. En el sentido de circulación del NA, antes del paso a nivel se encuentran, a la derecha de la vía pública, señales verticales de tráfico A 30 "Paso a nivel sin barreras", A 31a "Placa de señalización (240 m)", y, a la derecha y a la izquierda de la vía pública, señales verticales de tráfico A 31b "Placa de señalización (160 m)" y A 31c "Placa de señalización (80 m)". El paso a nivel está señalizado, en el sentido de circulación del NA, con dos cruces de advertencia situados a la derecha y a la izquierda de la vía pública, bajo los cuales se encuentran, en un poste común, las señales acústicas y luminosas de PZZ sin barreras. Los cruces de advertencia están realizados con material reflectante, sin fondo fluorescente amarillo-verde retroreflectante.
-El suceso causó daños en la señal acústica y luminosa de PZZ izquierda en el sentido desde el centro de la ciudad de Opava (señal C). La PZZ del paso a nivel estaba en funcionamiento en el momento del examen del lugar del suceso ferroviario, en estado de "advertencia", es decir, avisaba a los usuarios de la vía pública de la circulación de DV mediante la emisión de una señal de dos luces rojas intermitentes de la señal PZZ. El inicio del circuito de control de la PZZ, en el sentido de circulación del tren Os 3561, se encuentra en el km 109,643, es decir, a 882 m antes del paso a nivel.
-La vía pública, calle Krnovská, está formada en el lugar del paso a nivel por dos carriles de circulación en un solo sentido. En el sentido de circulación del NA, es decir, en dirección al centro de la ciudad, a la derecha de la vía pública se encuentra un pavimento para peatones. Sobre ambos carriles discurre la línea aérea de contacto del tranvía, que en el lugar del suceso ferroviario está suspendida de postes de tracción independientes.
+### 2.1.2 Descripción de la excepcionalidad y del lugar del accidente, incluida la actividad del sistema integrado de protección y del servicio de rescate
+El día 13. 7. 2013 a las 5.56 h, el tren Os 3561 que circulaba en dirección desde la est. Skrochovice hacia la est. Opava západ, en el tramo de vía única ŽP P 7770 en el km 110,525, que está protegido por PZS (sin barreras), colisionó con un vehículo automotor de carretera – un camión, compuesto por un tractor de semirremolques SCANIA R420 LA4x2 y un semirremolque cisterna FELDBINDER 63.3 KIP. La locomotora del tren Os 3561, como consecuencia de la colisión con el camión, descarriló con todos los ejes.
+Fig. n.º 2: Esquema del lugar de la excepcionalidad. Fuente: DI (a partir de cartografía de google.cz)
+Del examen del lugar de la excepcionalidad se constató lo siguiente:
+La composición – el camión, compuesto por un tractor de semirremolques SCANIA R420 LA4x2 y un semirremolque cisterna FELDBINDER 63.3 KIP, se aproximaba al ŽP desde la dirección de la rotonda en la localidad de Jaktař (en adelante, en Jaktař), en dirección al centro de Opava, por la calle Krnovská. En la dirección de marcha del camión, antes del ŽP se encuentran a la derecha, en la vía pública, señales verticales de tráfico A 30 «Paso a nivel sin barreras», A 31a «Placa de señalización (240 m)», y a la derecha y a la izquierda, en la vía pública, señales verticales de tráfico A 31b «Placa de señalización (160 m)» y A 31c «Placa de señalización (80 m)». El ŽP está señalizado, en la dirección de marcha del camión, con dos cruces de advertencia situados a la derecha y a la izquierda de la vía pública, bajo los cuales se encuentran, en un poste común, los semáforos PZZ sin barreras. Las cruces de advertencia están realizadas con material reflectante, sin fondo fluorescente amarillo-verde retroreflectante.
+El suceso del accidente dañó el semáforo PZZ izquierdo en la dirección desde el centro de la ciudad de Opava (semáforo C). El PZZ del ŽP estaba en funcionamiento en el momento del examen del lugar de la excepcionalidad, en estado de «advertencia», es decir, avisaba a los usuarios de la vía pública de la circulación de la locomotora mediante la emisión de una advertencia con dos luces rojas intermitentes alternas de la señal PZZ. El inicio del circuito de mando del PZZ, en la dirección de marcha del tren Os 3561, se encuentra en el km 109,643, lo que supone 882 m antes del ŽP.
+La vía pública, calle Krnovská, está formada en el punto del ŽP por dos carriles de circulación de un solo sentido. En la dirección de marcha del camión, es decir, en dirección al centro de la ciudad, a la derecha de la vía pública se encuentra un pavimento de adoquines para peatones. Sobre ambos carriles de circulación discurre la línea aérea de la vía de trolebús, que en el punto de origen de la excepcionalidad está suspendida en postes de tracción independientes.
 
 ## Página 14
+
 
 El tren Os 3561 estaba formado por el rodadura autopropulsada HDV 94 54 5 810 199-0 (en adelante, 810.199-0), que como consecuencia de la colisión descarriló con ambos ejes hacia la izquierda en el sentido de marcha del tren. En el tren viajaban aproximadamente 8 pasajeros. En la posición final tras el accidente, la HDV se encontraba, en el sentido de marcha, NA, tras el PE, con los raíles ferroviarios derechos sobre el bordillo reforzado de la c/ Opavská, y los raíles ferroviarios izquierdos sobre la acera derecha para peatones, cuyo empedrado, así como sus bordillos, resultaron dañados por ello. La HDV quedó encastrada por la parte delantera derecha del frontal y el lateral derecho en el bogie de la NA, que tras la colisión yacía volcado sobre su costado derecho. Se dañaron tanto el frontal como el trasero de la HDV, incluido el lateral derecho. Como consecuencia de la destrucción de la cabina del maquinista I, la delantera en el sentido de marcha del tren, se invalidó el registro de la prueba de frenado realizada, válida para el tren Os 3561. Por ello, el transportista elaboró, durante la inspección del lugar del accidente, un registro sustitutivo «Informe internacional de frenado y tren». En el momento de la inspección del lugar del accidente, ni el frontal ni el final del tren estaban señalizados con las señales establecidas. El motivo fue la necesidad de desconectar los circuitos eléctricos de la HDV de las baterías tras el accidente, con el fin de evitar un incendio.
 La NA se encontraba en la posición final tras el accidente volcada, en el sentido de marcha, sobre su costado derecho, a la derecha, fuera de la acera para peatones, y con la parte trasera del remolque invadía la vía de tráfico tras el PE. El remolque de la NA, destinado al transporte de carbón molido, no estaba cargado.
@@ -457,8 +459,8 @@ La comunicación del accidente en nombre del gestor de la infraestructura y del 
 | Composición de la VI DI en el lugar del accidente: | 1x VI ÚI Ostrava . |
 | Formación del equipo de investigación: | no fue necesario formarlo . |
 
-
 ## Página 15
+
 
 Colaboración externa:
 no se utilizó.
@@ -494,8 +496,8 @@ Nota sobre el tren Os 3561:
 La estación de origen del tren era la est. Krnov, y la estación de destino era la est. Opava východ. El tren estaba destinado al transporte de pasajeros. Para la circulación del tren, el maquinista no recibió ninguna instrucción escrita, ni fue informado por el gestor de la infraestructura de manera verificable sobre ningún otro cambio de los parámetros técnicos de la infraestructura.
 El estado real del tren comprobado en el lugar del accidente correspondía a la documentación del tren.
 
-
 ## Página 16
+
 
 ### 2.2.3 Descripción de los componentes de la vía de circulación de la infraestructura, del sistema de señalización (es decir, principalmente el estado de las vías, agujas, enclavamientos, señales y del dispositivo de seguridad del tren)
 La línea en el lugar del accidente discurre a nivel del terreno. La transición de la curva a la derecha termina 49 m antes del PE, en el sentido de marcha del tren Os 3561. A partir de ahí, la vía de tráfico continúa en línea recta, con una pendiente del 8,07 ‰.
@@ -518,44 +520,44 @@ La comunicación entre el maquinista del tren Os 3561 y el jefe de estación de 
 ### 2.2.5 Trabajos realizados en el lugar del accidente y en sus inmediaciones
 En el lugar del accidente no se realizaban, inmediatamente antes de su producción, ningún trabajo de reparación o mantenimiento por parte del propietario, del gestor de la infraestructura ni de otras personas.
 
-
 ## Página 17
 
-### 2.2.6 Activación del plan de emergencia en la infraestructura y secuencia de acontecimientos
-6.00 h comunicó el maquinista del tren Os 3561 la producción del accidente al jefe de
+### 2.2.6 Activación del plan para el caso de incidente en la vía y secuencia de acontecimientos
+6.00 h el maquinista del tren Os 3561 comunica la aparición de un incidente al jefe de estación de la estación de Opava
 •
-estación de la est. Opava západ;
-6.01 h activación del IZS por el jefe de estación de la est. Opava západ;
+oeste;
+6.01 h activación del IZS por el jefe de estación de la estación de Opava oeste;
 •
-6.02 h el accidente fue comunicado por el jefe de estación de la est. Opava západ al jefe de
+6.02 h el incidente es comunicado por el jefe de estación de la estación de Opava oeste al jefe de estación de la estación de Opava
 •
-estación de la est. Opava východ y al despachador del CDP Přerov;
-6.26 h el accidente fue comunicado por la persona autorizada OSB al COP DI;
+este y al despachador del CDP Přerov;
+6.26 h el incidente es comunicado por la persona autorizada OSB al COP DI;
 •
-7.43 h inspección del lugar del accidente por la persona autorizada del gestor de la
+7.43 h inspección del lugar de aparición del incidente por la persona autorizada del
 •
-infraestructura y del transportista, la PČR y la VI DI;
-9.00 h la VI DI concedió la autorización para la liberación de la infraestructura;
+gestor de la vía y del transportista, PČR y VI DI;
+9.00 h el VI DI concede el permiso para la liberación de la vía;
 •
-9.00 h se iniciaron los trabajos de despeje para restablecer la explotación de la
+9.00 h comienzan los trabajos de despeje para restablecer la explotación de la vía y
 •
-infraestructura y del transporte ferroviario;
-18.10 h restablecimiento de la circulación en la vía de tráfico.
+del transporte ferroviario;
+18.10 h restablecimiento de la circulación en la vía de vía.
 •
-En el lugar del accidente estaban presentes también los directivos de las distintas ramas organizativas del gestor de la infraestructura y del transportista.
-### 2.2.7 Activación del plan del sistema integrado de emergencias, de la policía y del servicio de emergencias médicas y secuencia de acontecimientos
-El plan del IZS fue activado por el jefe de estación de la est. Opava západ, a las 6.01 h. Al lugar del accidente acudieron los siguientes cuerpos del IZS:
-Bomberos del gestor de la infraestructura SŽDC, s. o.;
+En el lugar del incidente estaban presentes también los responsables de los distintos componentes organizativos del gestor de la vía y del transportista.
+### 2.2.7 Activación del plan del sistema integrado de emergencias, policía y servicio médico de emergencias y secuencia de acontecimientos
+El plan IZS fue activado por el jefe de estación de la estación de Opava oeste, a las 6.01 h. Al lugar del incidente acudieron los siguientes componentes del IZS:
+Bomberos del gestor de la vía SŽDC, s. o.;
 •
 RZZS Opava;
 •
-PČR, Jefatura de Policía de la Región de Moravia-Silesia, departamento territorial de Opava –
+PČR, Jefatura de Policía de la región de Moravia-Silesia, distrito territorial de Opava –
 •
-inspección de tráfico y Servicio de Policía Judicial e Investigación de Opava.
+inspección de tráfico y Servicio de policía judicial e investigación de Opava.
 ## 2.3
 ### Fallecimientos, lesiones y daños materiales
-2.3.1 En pasajeros y terceros, empleados del gestor de la infraestructura y del transportista, incluidas personas en relación contractual
-En el accidente se produjeron lesiones en:
+2.3.1 En pasajeros y terceros, empleados del gestor de la vía y del transportista,
+incluidas personas en relación contractual
+En el incidente se produjeron lesiones en:
 4 pasajeros del tren Os 3561;
 •
 el maquinista del tren Os 3561;
@@ -563,8 +565,8 @@ el maquinista del tren Os 3561;
 el jefe de tren del tren Os 3561.
 •
 
-
 ## Página 18
+
 
 ### 2.3.2 En los objetos transportados, equipajes y demás bienes
 El propietario de la NA cuantificó los daños en:
@@ -608,126 +610,128 @@ Condiciones meteorológicas:
 horario diurno, parcialmente nublado, + 16 °C, visibilidad superior a 100 m (no se vio
 reducida por influencias meteorológicas).
 
-
 ## Página 19
 
-## 3 REGISTRO DE LAS EXPLICACIONES PRESENTADAS
+## 3 REGISTRO DE EXPLICACIONES PRESENTADAS
 ## 3.1
 ### Resumen de las explicaciones presentadas (sujeto a protección de la identidad de las personas)
-### 3.1.1 Empleados del gestor de la infraestructura y del transportista, incluidas personas en relación contractual
+### 3.1.1 Empleados del gestor de la vía y del transportista, incluidas personas en relación contractual
 maquinista del tren Os 3561
-  – Del Acta con el empleado se desprende, entre otros datos:
+  – Del Registro con el empleado se desprende, entre otros:
 •
-al salir de la curva antes del PE, a una distancia de aproximadamente 35 m, registró desde la
+Al salir del arco antes del ŽP, a una distancia de unos 35 m, registró desde la
 •
 derecha la aproximación de la NA;
-inmediatamente se dio cuenta de que la NA no reducía la velocidad. Por ello, dio con la
+Inmediatamente se dio cuenta de que la NA no reducía la velocidad. Por ello dio
 •
-bocina de la locomotora la señal sonora «Atención» y aplicó frenado de acción rápida;
-no vio las luces de las señales de aviso PZS. Registró la señal sonora emitida por el PZS;
+con la bocina de la locomotora la señal sonora "Atención" y aplicó el frenado de
+acción rápida;
+No vio las luces de los avisadores PZS. Registró la señal sonora emitida por el
 •
-inmediatamente antes de la colisión con la NA se arrojó al lado izquierdo de la cabina
+PZS;
+Justo antes de la colisión con la NA se lanzó al lado izquierdo del puesto del
 •
-del maquinista;
-poco después de la colisión, aún antes de desconectar las baterías de la HDV, fue
+maquinista;
+Poco después de la colisión, aún antes de la desconexión de las baterías del HDV,
 •
-contactado a través del TRS por el jefe de estación de la est. Opava západ, al que comunicó
-la producción del accidente;
-como consecuencia de la colisión perdió el teléfono móvil de servicio;
+fue contactado por medio del TRS por el jefe de estación de la est. Opava západ,
+al que comunicó la aparición de la MU;
+Como consecuencia de la colisión perdió el teléfono móvil profesional;
 •
-tras la llegada del RZZS, fue trasladado a recibir tratamiento en el Hospital de Silesia en Opava.
+Tras la llegada del RZZS fue trasladado para tratamiento al Hospital de Silesia en
 •
-jefe de tren del tren Os 3561 – Del Acta con el empleado se desprende, entre otros datos:
+Opava.
+jefe de tren del tren Os 3561 – Del Registro con el empleado se desprende, entre otros:
 •
-en el momento de la producción del accidente se encontraba en la parte delantera del coche, en
+En el momento de la aparición de la MU se encontraba en la parte delantera del
 •
-el compartimento junto al cuadro eléctrico, de espaldas al sentido de marcha del tren Os 3561,
-y estaba comunicándose con un pasajero;
-como consecuencia de la colisión chocó contra el tabique del compartimento;
+coche, en el compartimento junto al cuadro eléctrico, de espaldas a la dirección de
+circulación del tren Os 3561, y comunicaba con un pasajero;
+Como consecuencia de la colisión chocó con el tabique del compartimento;
 •
-sus lesiones no le permitían comprobar el estado de salud de los pasajeros ni prestar
+Sus lesiones no le permitieron comprobar el estado de salud de los pasajeros ni
 •
-primeros auxilios.
+prestar los primeros auxilios.
 jefe de estación de la est. Opava západ
-  – Del Acta con el empleado se desprende, entre otros datos:
+  – Del Registro con el empleado se desprende, entre otros:
 •
-en el momento en que el tren Os 3561 se aproximaba a la est. Opava západ, se produjo el
+En el momento en que el tren Os 3561 se aproximaba a la est. Opava západ, se
 •
-sonido de la campana y la indicación del estado de emergencia del PE P 7770 en el panel de
-indicación de los elementos de control y mando del PZS;
-el PE P 7770 estaba previamente en orden y en servicio;
+produjo la sonorización de la campana y la indicación del estado de emergencia del
+ŽP P 7770 en el panel de indicación de los elementos de control y mando del PZS;
+El ŽP P 7770 estaba previamente en orden y en funcionamiento;
 •
-observando el panel con el relieve de la traza, comprobó la ocupación del elemento de vía
+Mediante la visualización del panel con el esquema de la vía, comprobó la
 •
-que correspondía al PE;
-inmediatamente contactó a través del TRS con el maquinista del tren Os 3561, quien le
+ocupación del elemento de vía que correspondía al ŽP;
+Inmediatamente contactó por medio del TRS con el maquinista del tren Os 3561, que
 •
-comunicó la producción del accidente;
-comunicó la producción del accidente según el horario de comunicación del gestor de la
+le comunicó la aparición de la MU;
+Comunicó la aparición de la MU según el cuadro de comunicaciones del gestor de la
 •
-infraestructura.
+vía.
 ### 3.1.2 Otras personas
 De las explicaciones presentadas por los testigos se desprende:
 •
-3 pasajeros, inmediatamente antes de la producción del accidente, registraron la señal sonora
+3 pasajeros registraron, justo antes de la aparición de la MU, la señal sonora
 •
 emitida por el PZS;
-2 pasajeros, al mirar por las ventanas de la HDV poco antes de la producción del accidente,
+2 pasajeros, al mirar por las ventanas del HDV poco antes de la aparición de la MU,
 •
-vislumbraron a la NA entrar en el PE;
+vislumbraron a la NA entrar en el ŽP;
 
 ## Página 20
 
-1 pasajero registró inmediatamente antes de la aparición de la MU la señal "Pozor", dada
+1 pasajero registró inmediatamente antes de la aparición de la MU la señal «Pozor» (Atención), dada
 •
-con la bocina de la locomotora del HDV;
-los demás pasajeros la registraron solo en el momento del choque del HDV con el NA.
+por la bocina de la locomotora del HDV;
+el resto de los pasajeros la registraron solo en el momento del choque del HDV con el NA.
 •
 testigo, conductor del automóvil implicado en la MU – del Acta con el testigo se desprende, entre otras cosas:
 •
-inició su turno en Dětmarovice el 12. 7. 2013 a las 22.30 h con un viaje a Vitošov.
-Estaba descansado;
-a las 3.45 h, tras descargar el NA, partió de Vitošov hacia Dětmarovice. Durante el trayecto, en la
+comenzó su turno en Dětmarovice el 12. 7. 2013 a las 22.30 h con un viaje a Vitošov.
 •
-estación de servicio situada tras Bruntál, hizo una parada de media hora;
-al incorporarse a la rotonda de Jaktař, registró la señal luminosa de aviso
+Estaba descansado;
+a las 3.45 h, tras descargar el NA, partió de Vitošov hacia Dětmarovice. Durante el trayecto hizo
+•
+parada de media hora en la estación de servicio situada tras Bruntál;
+al entrar en la rotonda de Jaktař registró la advertencia luminosa
 •
 emitida por dos luces rojas intermitentes alternas de la señal PZS ŽP
-P 7769 en la ul. Palhanecká, es decir, el ŽP que, en el sentido de circulación del tren Os 3561, precede
+P 7769 en la ul. Palhanecká, es decir, el ŽP que en el sentido de circulación del tren Os 3561 precede
 al ŽP P 7770. Por ello decidió atravesar la ciudad de Opava por el centro y, con el NA, salió
 de la rotonda hacia la ul. Krnovská;
-al salir de la rotonda de Jaktař y en el trayecto hacia el ŽP P 7770, no registró la señalización en los
+al salir de la rotonda de Jaktař y durante la marcha hacia el ŽP P 7770 no registró la señalización en
 •
-semáforos del PZS;
-registró la señal luminosa de aviso emitida por dos luces rojas intermitentes alternas
+los semáforos del PZS;
+registró la advertencia luminosa emitida por dos luces rojas intermitentes alternas
 •
-de la señal PZS ŽP P 7770 en el momento en que registró la señal acústica
-"Pozor" dada por la bocina de la locomotora del HDV del tren Os 3561. En ese momento ya estaba
-entrando con el NA en el ŽP P 7770;
+de la señal PZS ŽP P 7770 en el instante en que registró la señal acústica
+«Pozor» (Atención) dada por la bocina de la locomotora del HDV del tren Os 3561. En ese momento ya
+con el NA estaba entrando en el ŽP P 7770;
 intentó evitar el choque pisando el pedal del acelerador, pero sin éxito.
 •
 ## 3.2
-### Sistema de garantía de seguridad
+### Sistema de garantía de la seguridad
 ### 3.2.1 Organización marco y forma en que se emiten y ejecutan las instrucciones
-El gestor de la vía y el operador ferroviario cuentan con un sistema de garantía de seguridad adoptado
-con arreglo a lo dispuesto en la Ley núm. 266/1994 Sb.
-En el sistema de garantía de seguridad adoptado por el gestor de la vía SŽDC, s. o., se detectó
-un defecto, véase el punto 3.7, que sin embargo no guarda relación causal con la aparición
-de la MU en cuestión.
-En el sistema de garantía de seguridad del transporte ferroviario adoptado por el operador ČD, a. s.,
-no se detectó ningún defecto en relación con la aparición de la MU en cuestión.
-### 3.2.2 Requisitos aplicables a los empleados del gestor de la vía y del operador y su
-cumplimiento
-Los requisitos aplicables a los empleados del gestor de la vía y del operador, en particular los
-requisitos de cualificación profesional, están establecidos por la Ley núm. 266/1994 Sb., el Decreto
-núm. 173/1995 Sb., el Decreto núm. 101/1995 Sb., el Decreto núm. 16/2012 Sb. y las normas internas
-del gestor de la vía y del operador.
-En el momento de la aparición de la MU en cuestión, todas las personas del gestor de la vía SŽDC, s. o.,
-y del operador ČD, a. s., implicadas en la MU que desempeñaban actividades en la explotación de la vía
+El gestor de la infraestructura y el transportista disponen de un sistema de garantía de la seguridad
+basado en las disposiciones de la Ley n.º 266/1994 Sb.
+En el sistema de garantía de la seguridad adoptado por el gestor de la infraestructura SŽDC, s. o.,
+se detectó una deficiencia, véase el punto 3.7, que sin embargo no guarda relación causal
+con la aparición de la MU en cuestión.
+En el sistema de garantía de la seguridad del transporte ferroviario del transportista ČD, a. s.,
+no se detectó ninguna deficiencia en relación con la aparición de la MU en cuestión.
+### 3.2.2 Requisitos aplicables a los empleados del gestor de la infraestructura y del transportista y su aplicación
+Los requisitos aplicables a los empleados del gestor de la infraestructura y del transportista, en particular
+los relativos a su cualificación profesional, están establecidos por la Ley n.º 266/1994 Sb., por el decreto
+n.º 173/1995 Sb., por el decreto n.º 101/1995 Sb., por el decreto n.º 16/2012 Sb. y por las normas internas
+del gestor de la infraestructura y del transportista.
+En el momento de la aparición de la MU en cuestión, todas las personas del gestor de la infraestructura SŽDC, s. o.,
+y del transportista ČD, a. s., implicadas en la MU que desempeñaban actividades en la explotación de la infraestructura
 y del transporte ferroviario estaban cualificadas profesionalmente para el ejercicio de la función que ocupaban.
 
-
 ## Página 21
+
 
 ### 3.2.3 Procedimiento de control interno de seguridad y sus resultados
 En el procedimiento de control interno de seguridad del gestor de la vía y del operador no se detectaron
@@ -771,8 +775,8 @@ debe comprobar si puede cruzar el paso a nivel de forma segura.";
 "El conductor no debe entrar en el paso a nivel cuando se emite la señal de aviso
 con dos luces rojas intermitentes alternas de la señalización del dispositivo de enclavamiento de paso a nivel";
 
-
 ## Página 22
+
 
 § 29 apartado 1 letra b) de la Ley núm. 361/2000 Sb.:
 •
@@ -823,8 +827,8 @@ a las 5.55.53 h se apagó la señalización positiva en los semáforos del PZS. 
 señal de aviso emitida en los semáforos con dos luces rojas intermitentes alternas
 y con señal sonora intermitente;
 
-
 ## Página 23
+
 
 a las 5.56.34 h el tramo AJ fue ocupado por el tren Os 3561, es decir, que el tren entró en el ŽP;
 •
@@ -870,6 +874,7 @@ No se detectaron defectos.
 
 ## Página 24
 
+
 ### 3.4.4 Material rodante, incluido el dispositivo de registro automático de datos
 El HDV 810.199-0 contaba con el Certificado de aptitud del material rodante n.º de ev. PZ 8745/01-V.22, válido, expedido por el DÚ el 25. 7. 2001. La última revisión técnica periódica anterior a la ocurrencia de la MU se realizó el 8. 2. 2013 con validez hasta el 8. 8. 2013. El HDV fue utilizado por el transportista en un estado técnico que correspondía a la aptitud aprobada.
 El HDV 810.199-0 estaba, en el momento de la ocurrencia de la MU, equipado con un dispositivo de registro de datos – un velocímetro de registro mecánico Metra tipo E 611, n.º 70024, con escala de velocidad hasta 120 km·h-1.
@@ -887,8 +892,8 @@ No se detectaron deficiencias.
 ### 3.5.2 Intercambio de comunicaciones verbales en relación con la excepcionalidad, incluidos los registros del dispositivo de registro
 En relación con la MU no se produjo ninguna comunicación verbal que influyera en su ocurrencia.
 
-
 ## Página 25
+
 
 ### 3.5.3 Medidas adoptadas para la protección y seguridad del lugar de la excepcionalidad
 El lugar de la MU fue asegurado por la persona cualificada designada del gestor de la vía y del transportista de conformidad con el decreto n.º 376/2006 Sb.
@@ -906,19 +911,66 @@ No se detectaron deficiencias.
 3.6.3 Disposición del equipamiento del puesto de conducción o del material rodante que influye en su manejo y uso
 La disposición y el equipamiento del puesto de los empleados del gestor de la vía y del transportista no guardaban relación con la ocurrencia de la MU.
 
-
 ## Página 26
 
 ## 3.7
-### Excepcionalidades anteriores de carácter similar
-El DI registra en las vías ferroviarias, categoría nacional y regional, en el período desde el 1. 1. 2008 hasta la ocurrencia de la MU en cuestión, un total de 497 MU similares, cuando en los PAP asegurados con PZS sin barreras de cierre se produjo la colisión del DV, tren, con un vehículo de carretera a motor. La causa inmediata de la ocurrencia de todas estas MU fue la entrada no autorizada de un vehículo de carretera a motor en el PAP en el momento en que se aproximaba al PAP el DV, tren. En estas MU fallecieron 75 personas, 367 personas resultaron lesionadas, el daño material causado asciende a 241 741 641 Kč.
-En base a los resultados de la investigación de las causas y circunstancias de la ocurrencia de la MU anterior de carácter similar del 5. 3. 2012, a las 7.41 h, en la vía ferroviaria, categoría regional, Zaječí – Hodonín, cuando en el PAP P 7140, en el km 4,740, el tren Os 14506 colisionó con el NA, y dado que la mayoría de las colisiones en los PAP y con las peores consecuencias se producen en los PAP asegurados con PZS sin barreras de cierre, el DI emitió, con el n.º de ref.: 877/2012/DI, de fecha 14. 11. 2012, una recomendación de seguridad, por la que recomendó al gestor de la vía SŽDC, s. o., en las vías ferroviarias, categoría nacional y regional: «... aumentar, con el fin de garantizar la máxima seguridad, el nivel de su aseguramiento de modo que, en las reconstrucciones y modernizaciones de tramos y pasos a nivel, ya se proyecte e instale únicamente el dispositivo de aseguramiento de paso a nivel luminoso complementado con barreras de cierre.». Con esta recomendación de seguridad, el DI recomendó simultáneamente al DÚ: «la adopción de una medida propia encaminada a garantizar la realización de la recomendación de seguridad anteriormente mencionada también por los demás gestores de vías ferroviarias en la República Checa.».
-El gestor de la vía SŽDC, s. o., en su declaración a la discusión de la MU anteriormente mencionada, entre otras cosas, indicó que: «... la recomendación de seguridad, en esencia, SŽDC, s. o., ya la cumple en la actualidad, cuando por motivos de máxima seguridad aumenta el nivel de aseguramiento de los pasos a nivel ferroviarios. ...», véase el documento «Discusión de los resultados de la investigación de las causas y circunstancias de la ocurrencia de la excepcionalidad – declaración», n.º de ref.: 50 601/2012-OMU, de fecha 9. 11. 2012.
-El gestor de la vía SŽDC, s. o., según esta declaración, se rige al aumentar el nivel de aseguramiento de los PAP, especialmente en sus reconstrucciones y modernizaciones, por los procedimientos contenidos en la «Directiva del director general n.º 16/2005 – Principios de modernización y optimización de la red seleccionada de la República Checa», n.º de ref.: 3790/05-OP (en adelante Directiva n.º 16/2005). La Directiva n.º 16/2005 contiene únicamente los principios aplicables a la modernización y optimización de los tramos ferroviarios incluidos en el sistema ferroviario europeo según el Ministerio de Transporte n.º 111/2004 Sb. Para los tramos no incluidos en el sistema ferroviario europeo no es aplicada por el gestor de la vía SŽDC, s. o.
-Del análisis de la «Resolución sobre el cambio del alcance y del modo de aseguramiento del cruce de la vía ferroviaria con la vía pública» (en adelante Resolución sobre el cambio del alcance y del modo de aseguramiento del PAP) en las vías, categoría nacional y regional, expedidas por el DÚ (de las que el DI disponía), en el período desde el 1. 1. 2013 hasta la fecha de expedición de la presente ZZ, se desprende que de los 96 PAP en los que se realizó una reconstrucción y modernización consistente en el cambio del aseguramiento del PAP, que antes del cambio estaban asegurados únicamente con cruces de aviso o PZS, el gestor de la vía SŽDC, s. o., se atuvo a la recomendación de seguridad expedida únicamente en 32 PAP (es decir, en aprox. un 33 %), en los que garantizó la seguridad de la manera máxima posible, es decir, con el aseguramiento del PAP mediante PZS complementado con barreras de cierre. En los 64 restantes (es decir, en aprox. un 66 %) de PAP reconstruidos y modernizados, el gestor de la vía mantuvo el aseguramiento PZS o cambió el nivel de aseguramiento del PAP del aseguramiento únicamente con cruces de aviso a
-
+### Incidentes anteriores de carácter similar
+DI registra en las vías férreas, categoría nacional y regional, en el período desde
+### 1. 1. 2008 hasta la fecha de producción del incidente un total de 497 incidentes similares, cuando en la
+vía férrea protegida por PZS sin barreras de paso se produjo una colisión de DV, tren
+con vehículo motorizado por carretera. La causa inmediata de la producción de todos
+estos incidentes fue la entrada no autorizada de un vehículo motorizado por carretera
+en la vía férrea en el momento en que se aproximaba a la vía férrea DV, tren. En estos
+incidentes fallecieron 75 personas, 367 personas resultaron heridas, el daño material
+### causado asciende a 241 741 641 CZK.
+Sobre la base de los resultados de la investigación de las causas y circunstancias de
+la producción del incidente anterior de carácter similar del 5. 3. 2012, a las 7.41 h,
+en la vía férrea, categoría regional, Zaječí – Hodonín, cuando en la vía férrea P 7140,
+en el km 4,740, el tren Os 14506 colisionó con NA y dado que la mayoría de las
+colisiones en la vía férrea y con las peores consecuencias se producen en las vías
+férreas protegidas por PZS sin barreras de paso, DI emitió, con el n.º de ref.: 877/2012/DI,
+del 14. 11. 2012, una recomendación de seguridad, con la que recomendó al operador
+de la vía SŽDC, s. o., en las vías férreas, categoría nacional y regional: «... aumentar,
+por razones de garantizar la máxima seguridad, el nivel de su protección de modo que
+en las reconstrucciones y modernizaciones de líneas y pasos a nivel ya se proyecte e
+instale únicamente instalación de señalización luminosa de paso a nivel
+### complementada con barreras.». DI con esta recomendación de seguridad recomendó
+simultáneamente a DÚ: «la adopción de una medida propia encaminada a garantizar la
+realización de la recomendación de seguridad anteriormente mencionada también en los
+demás operadores de vías férreas en la República Checa.».
+El operador de la vía SŽDC, s. o., en su declaración a la deliberación del incidente
+anteriormente mencionado, entre otras cosas, indicó que: «... la recomendación de
+seguridad en esencia SŽDC, s. o. la cumple ya ahora, cuando por razones de máxima
+seguridad aumenta el nivel de protección de los pasos a nivel ferroviarios. ...», véase el
+documento «Deliberación de los resultados de la investigación de las causas y
+circunstancias de la producción del incidente – declaración», n.º de ref.: 50 601/2012-OMU,
+del 9. 11. 2012.
+El operador de la vía SŽDC, s. o., de acuerdo con esta declaración, se rige al aumentar
+el nivel de protección de la vía férrea, especialmente en sus reconstrucciones y
+modernizaciones, por los procedimientos contenidos en la «Directiva del director general
+n.º 16/2005 – Principios de modernización y optimización de la red seleccionada de la
+República Checa», n.º de ref.: 3790/05-OP (en adelante Directiva n.º 16/2005). La
+Directiva n.º 16/2005 contiene únicamente principios aplicables en la modernización y
+optimización de las líneas ferroviarias incluidas en el sistema ferroviario europeo
+según el Ministerio de Transporte n.º 111/2004 Sb. Para las líneas no incluidas en el
+sistema ferroviario europeo no es aplicada por el operador de la vía SŽDC, s. o.
+Del análisis de la «Resolución sobre el cambio del alcance y modo de protección del
+cruce de la vía férrea con la vía pública» (en adelante Resolución sobre el cambio del
+alcance y modo de protección de la vía férrea) en las vías, categoría nacional y regional,
+emitidas por DÚ (que DI tuvo a su disposición), y ello en el período desde el 1. 1. 2013
+hasta la fecha de emisión de la presente ZZ, se desprende que de las 96 vías férreas en
+las que se realizó una reconstrucción y modernización consistente en el cambio de
+protección de la vía férrea, que antes del cambio estaban protegidas únicamente con
+cruces de aviso o PZS, el operador de la vía SŽDC, s. o. se rigió por la recomendación
+de seguridad emitida únicamente en 32 vías férreas (es decir, en aprox. un 33 %), en las
+que garantizó la seguridad de la manera máxima posible, es decir,
+### con la protección de la vía férrea PZS complementada con barreras de paso. En las
+restantes 64 (es decir, en aprox. un 66 %) de vías férreas reconstruidas y modernizadas
+el operador de la vía mantuvo la protección PZS o cambió el nivel de protección de la vía
+férrea de la protección únicamente con cruces de aviso a
 
 ## Página 27
+
 
 aseguramiento PZS, y ello a pesar de que la mayoría de las colisiones en los PAP y con las peores consecuencias se producen precisamente en los PAP asegurados con PZS sin barreras de cierre.
 ### El hallazgo anteriormente mencionado constituye, en relación con el art. 4 del reglamento interno de SŽDC Dp 17 y el § 13 apartado 1 del decreto n.º 376/2006 Sb., un incumplimiento de la disposición del § 22 apartado 2 letra d) de la ley n.º 266/1994 Sb.
@@ -935,46 +987,62 @@ El NA, formado por el tractor de remolques SCANIA R420 LA4x2 y el remolque ciste
 
 ## Página 28
 
-con la circulación del tren Os 3561, que circulaba en dirección desde la est. Skrochovice. El conductor del NA no respetó esta señalización y, con el NA, entró indebidamente en el PEC. Cuando el maquinista del tren Os 3561 comprobó que el NA no reducía la velocidad antes del PEC, dio con la bocina de la locomotora una señal sonora de advertencia «¡Atención!» al conductor del NA y, mediante la maniobra del freno, introdujo el frenado de acción rápida del freno automático continuo DAKO-BS 2. El conductor del NA registró la señal sonora dada por el tren Os 3561 y al mismo tiempo registró también la acción del PEC. Dado que en ese momento ya se encontraba con el NA en el PEC, intentó evitar la colisión con el tren pisando el pedal del acelerador. Sin embargo, debido a la corta distancia de la cabeza del tren entrante, al conductor del NA no le fue posible abandonar el PEC con todo el tren NA. El HDV 810.199-0 del tren Os 3561 impactó en la parte central del tren NA. Como consecuencia de la colisión, descarriló con ambos ejes hacia la izquierda en el sentido de circulación del tren.
-Como consecuencia del MU, 6 personas en total sufrieron lesiones, que fueron trasladadas por el RZZS a recibir tratamiento en el centro sanitario Slezská nemocnice en Opavě. Se produjo un daño por importe de 3 623 683 Kč, que sin embargo, a la fecha de publicación del ZZ, no es definitivo.
+con el tren Os 3561, que circulaba en dirección desde la estación de Skrochovice. El conductor del vehículo NA no respetó esta señalización y, con el NA, invadió indebidamente el PTF. Cuando el maquinista del tren Os 3561 comprobó que el NA no reducía la velocidad antes del PTF, dio con la bocina de la locomotora la señal sonora de aviso «¡Atención!» al conductor del NA y, mediante el mando del freno, activó el frenado rápido del freno automático continuo DAKO-BS 2. El conductor del NA registró la señal sonora emitida por el tren Os 3561 y, al mismo tiempo, registró también la acción del FAP. Dado que en ese momento el NA ya se encontraba en el PTF, intentó evitar la colisión con el tren pisando el pedal del acelerador. Sin embargo, por la corta distancia hasta el frente del tren que se aproximaba, al conductor del NA no le fue posible salir del PTF con todo el tren NA. El rodapé 810.199-0 del tren Os 3561 impactó en la parte central del tren NA. Como consecuencia de la colisión, descarriló con ambos ejes hacia la izquierda en el sentido de marcha del tren. 
+Como consecuencia del accidente, un total de 6 personas resultaron lesionadas, que fueron trasladadas por el SEM a un centro sanitario para su tratamiento en el Hospital de Silesia en Opava. Se produjo un daño por importe de 3 623 683 Kč, que, sin embargo, a la fecha de publicación del informe no es definitivo.
 ## 4.2
 ### Análisis
-### 4.2.1 Evaluación de los hechos constatados de acuerdo con el punto 3 y enunciación de las conclusiones sobre la causa del suceso excepcional y la actuación de los servicios de rescate
-El PEC P 7770 está, por ambos lados del PEC, de acuerdo con lo dispuesto en el § 3 apartado 1 del decreto n.º 177/1995 Sb., señalizado con dos cruces de advertencia situados a la derecha y a la izquierda de la vía pública y, de acuerdo con lo dispuesto en el § 4 apartado 2 del decreto n.º 177/1995 Sb., protegido por un PZS tipo AŽD 71, categoría PZS 3 SBI, controlado automáticamente por la circulación de los vehículos ferroviarios. Cuatro semáforos de advertencia tipo AŽD 97 PV con luz blanca están situados en el poste común con las cruces de advertencia. Los semáforos de advertencia están provistos de la placa «PELIGRO TREN». Las cruces de advertencia están fabricadas con material reflectante, sin fondo fluorescente amarillo-verde retroreflectante.
-La longitud de visibilidad constatada a los semáforos de advertencia es Dz >100 m. La longitud de visibilidad constatada al semáforo de advertencia Dz está, en relación con los arts. 7.3.1 y 7.3.2.1 de la ČSN 73 6380, de acuerdo con lo dispuesto en el § 4 apartado 7 del decreto n.º 177/1995 Sb., en el que se prescribe la longitud mínima de visibilidad al semáforo de advertencia Dz=40 m.
-De los datos registrados por el dispositivo de registro B2000 instalado en el PEC P 7770 se constató que el PZS de este PEC advirtió a los usuarios de la vía pública de que se aproximaba el tren Os 3561 en el período desde las 5.55.53 h hasta las 5.56.34 h, es decir, durante 41 s (desde el inicio de la advertencia hasta la entrada del HDV del tren Os 3561 en el PEC). Este tiempo registrado acredita que los usuarios de la vía pública fueron advertidos, en el sentido del § 4 apartado 3 del decreto n.º 177/1995 Sb., con la antelación temporal suficiente de que se aproximaba el tren Os 3561 al PEC.
-El tiempo mínimo desde el momento de la orden de activación de la advertencia del PZS del PEC P 7770 hasta el momento en que la cabeza del DV pueda entrar en el PEC, en el sentido del art. 5.1.1.4, art. 5.3.4.4 y del anexo C de la ČSN 34 2650, es de 35 s. Dado que la duración real de la advertencia fue de 41 s, se cumplió el requisito del tiempo mínimo desde el momento de la orden de activación de la advertencia del PZS del PEC P 7770 hasta el momento en que la cabeza del HDV del tren Os 3561 pudiera entrar en el PEC.
-La actuación del PZS del PEC P 7770, en el momento de la producción del MU controlada automáticamente por la circulación del tren Os 3561, garantizaba la seguridad de los participantes en el tráfico en la vía pública en la calle Krnovské.
+### 4.2.1 Evaluación de los hechos constatados de acuerdo con el punto 3 y exposición de las conclusiones sobre la causa del accidente y la actuación de los servicios de emergencia
+El PTF P 7770 está señalizado, en ambos lados del PTF, de conformidad con lo dispuesto en el apartado 1 del artículo 3 del decreto núm. 177/1995 Sb., mediante dos cruces de advertencia situados a la derecha y a la izquierda de la vía pública, y protegido, de conformidad con lo dispuesto en el apartado 2 del artículo 4 del decreto núm. 177/1995 Sb., por un SAE del tipo AŽD 71, categoría SAE 3 SBI, controlado automáticamente por la circulación de los vehículos ferroviarios. Cuatro semáforos de advertencia del tipo AŽD 97 PV con luz blanca están situados en el poste común con los cruces de advertencia. Los semáforos de advertencia están provistos de la placa «¡ATENCIÓN TREN!». Los cruces de advertencia están fabricados con material reflectante, sin fondo fluorescente amarillo-verde retroreflectante.
+La longitud de visibilidad constatada hasta los semáforos de advertencia es Dz >100 m. La longitud de visibilidad constatada hasta el semáforo de advertencia Dz, en relación con los artículos 7.3.1 y 7.3.2.1 de la norma ČSN 73 6380, es conforme a lo dispuesto en el apartado 7 del artículo 4 del decreto núm. 177/1995 Sb., que prescribe una longitud mínima de visibilidad hasta el semáforo de advertencia Dz=40 m.
+De los datos registrados por el dispositivo registrador B2000 instalado en el FAP del PTF P 7770 se constató que el SAE de este PTF advirtió a los usuarios de la vía pública de que se aproximaba el tren Os 3561 en el período comprendido entre las 5.55.53 h y las 5.56.34 h, es decir, durante 41 s (desde el inicio de la advertencia hasta la entrada del rodapé del tren Os 3561 en el PTF). Este tiempo registrado acredita que los usuarios de la vía pública fueron advertidos, en el sentido del apartado 3 del artículo 4 del decreto núm. 177/1995 Sb., con la antelación suficiente de que se aproximaba el tren Os 3561. 
+El plazo mínimo desde el momento de la orden de activación de la advertencia del SAE del PTF P 7770 hasta el momento en que el frente del vehículo pueda entrar en el PTF, en el sentido del artículo 5.1.1.4, del artículo 5.3.4.4 y del anexo C de la norma ČSN 34 2650, es de 35 s. Dado que la duración real de la advertencia fue de 41 s, se cumplió el requisito del plazo mínimo desde el momento de la orden de activación de la advertencia del SAE del PTF P 7770 hasta el momento en que el frente del rodapé del tren Os 3561 pudiera entrar en el PTF.
+La actuación del SAE del PTF P 7770, en el momento del accidente controlada automáticamente por la circulación del tren Os 3561, garantizaba la seguridad de los usuarios de la vía pública en la calle Krnovská.
 
 ## Página 29
 
-La DI señala a largo plazo y aporta estadísticamente que la menor cantidad de MU en los PEC se produce en los PEC protegidos por PZS complementados con barreras. En estos PEC, desde el 1. 1. 2008, ni siquiera ha fallecido una sola persona, con excepción de las personas que de forma totalmente fatal arriesgaron conscientemente – rodearon, circularon por debajo o se metieron por debajo de las barreras bajadas. La DI incluso emitió, como se describe detalladamente en el punto 3.7, una recomendación de seguridad, en la que recomienda al operador ferroviario SŽDC, s. o., en las vías ferroviarias, categoría nacional y regional: «... aumentar, con el fin de garantizar la máxima seguridad, su nivel de protección de modo que, en las reconstrucciones y modernizaciones de líneas y pasos a nivel, ya se proyecte e instale únicamente equipo de protección de pasos a nivel luminoso complementado con barreras.». A la vez, se recomendó a la DI que el DÚ adoptara sus propias medidas encaminadas a garantizar la realización de la recomendación de seguridad anteriormente mencionada. El DÚ, que desempeña la función de autoridad nacional de seguridad y de autoridad de construcción especial, mantiene la opinión de que tanto la legislación actual como la colaboración de los órganos competentes no permiten al DÚ hacer efectivamente cumplir en estos PEC la complementación de los PZS con barreras en los procedimientos de modificación del alcance y forma de protección de los PEC en cuestión. Por ello, el DÚ no adoptó ninguna medida propia en el asunto.
-La DI mantiene la opinión de que se puede hacer así. Ninguna norma jurídica dice expresamente que deba ordenar al operador ferroviario una protección de ese tipo, pero tampoco ninguna norma le prohíbe tal orden, o le permite imponer una condición de la licencia de construcción, es decir, en el caso de que el DÚ ordenara al constructor (operador ferroviario) proteger el PEC también con barreras (aunque el propio operador ferroviario – constructor no lo tuviera previsto en la documentación de proyecto), no incurriría en una extralimitación de sus competencias ni se saldría del marco constitucional (art. 2 apartado 3 de la Constitución, o art. 2 apartado 2 de la Carta). Si bien la autoridad de construcción debe priorizar que la obra corresponda con sus parámetros a las normas jurídicas, no debería omitir el interés público en la seguridad de la explotación de la vía y del transporte ferroviario y en la circulación en las vías públicas, especialmente cuando la normativa legal le permite adoptar dicha medida. Los costes financieros de complementar el PZS con barreras ascienden, según la información de la que dispone la DI, en media a un 15 % más de costes que un PZS sin barreras; sin embargo, los daños materiales, los costes de la actuación de los servicios de emergencia, la atención médica posterior y la social en caso de MU son incomparablemente mayores, sin hablar de las pérdidas de vidas, véase el punto 3.7.
-Un ejemplo de PEC al que se emitió al DÚ en el año 2013 la «Resolución sobre modificaciones de la protección de los pasos a nivel ferroviarios», por la que se modifica la protección del PEC de una protección solo con cruces de advertencia a un PZS sin complementación con barreras, sin que se aplicara la recomendación de seguridad de la DI, es el PEC P 7381. Este se encuentra en la vía ferroviaria, categoría nacional, Ostrava hl. n. – Valašské Meziříčí, entre las estaciones Pržno y Frýdlant nad Ostravicí. En el PEC P 7381, antes de la modificación de la protección, la DI registra desde el año 2009 2 MU. En estos MU falleció 1 persona, se produjo un daño material por importe de 248 100 Kč. Con la construcción de un polígono industrial adyacente, este PEC se volvió más transitado, con un aumento del movimiento especialmente de NA. Siendo así, la colisión de un tren con un NA es, no solo para el NA, sino también para el DV, generalmente fatal.
-Debido al frecuente comportamiento indisciplinado de los conductores en los PEC, que se manifiesta en el incumplimiento de la señalización de advertencia del PEC, es solo cuestión de tiempo que también en este PEC, aunque recientemente protegido con PZS pero sin barreras, se produzca otra colisión.
-El conductor del NA, formado por un tractor de remolques SCANIA R420 LA4x2 y un cisterna FELDBINDER 63.3 KIP, al circular por la vía pública, calle Krnovské, en dirección desde la rotonda de Jaktař hacia el centro de Opava, no respetó la advertencia del PEC dada por dos luces rojas intermitentes alternas de la señal y por el sonido intermitente de la campana
+DI señala de forma prolongada y aporta pruebas estadísticas de que al menos los MU en los ŽP se producen en los ŽP protegidos por PZS complementados con barreras. En estos ŽP desde el 1. 1. 2008
+incluso no ha fallecido ninguna persona, salvo las personas que de forma totalmente fatal arriesgaron deliberadamente – rodearon, saltaron o se metieron por debajo de las barreras rebatibles. DI incluso emitió, como se describe detalladamente en el punto 3.7, una recomendación de seguridad, en la que recomienda al explotador de la vía SŽDC, s. o., en las vías ferroviarias, de categoría nacional y regional: «… aumentar, con el fin de garantizar la máxima seguridad, su nivel de protección de modo que, en las reconstrucciones y modernizaciones de líneas y pasos a nivel, ya se proyecte e instale únicamente equipo de protección de pasos a nivel luminoso
+### complementado con barreras.». A la vez, se recomendó a DI que el DÚ adoptara sus propias medidas encaminadas a garantizar la realización de la recomendación de seguridad anteriormente mencionada. El DÚ, que desempeña la función de autoridad nacional de seguridad y de autoridad de construcción especial, sostiene la opinión de que tanto la legislación actual como la corresponsabilidad de los órganos competentes no permiten al DÚ imponer eficazmente en estos ŽP el complemento de los PZS con barreras en los procedimientos de modificación del alcance y la forma de protección de los ŽP en cuestión. Por ello, el DÚ no adoptó ninguna medida propia en el asunto en cuestión.
+DI sostiene la opinión de que sí se puede hacer así. Ninguna norma jurídica dice expresamente que deba ordenar al explotador de las vías una protección así, pero tampoco ninguna norma le prohíbe dicha orden, es decir, le permite imponer una condición de la licencia de construcción, esto es, en el caso de que el DÚ ordenara al constructor (explotador de la vía) proteger el ŽP también con barreras (aunque el propio explotador de la vía – constructor no lo tuviera previsto en la documentación de proyecto), no incurriría en una extralimitación de sus competencias ni se saldría del marco constitucional (art. 2 apartado 3 de la Constitución, o art. 2 apartado 2 de la Carta). La autoridad de construcción, si bien debe priorizar que la obra en cuestión cumpla con sus parámetros las normas jurídicas, no debería omitir el interés público en la seguridad de la explotación de la vía y del transporte ferroviario y de la circulación en las carreteras, especialmente cuando la normativa legal
+### le permite adoptar dicha medida. Los costes financieros para complementar los PZS con barreras ascienden, según la media de la información de que dispone DI, a aproximadamente un 15 % más de costes
+### que los PZS sin barreras, sin embargo, los daños materiales, los costes de la actividad del IZS, la atención médica posterior y la social en caso de MU son incomparablemente mayores, sin hablar de las pérdidas de vidas, véase el punto 3.7.
+Como ejemplo de un ŽP al que se emitió en 2013 el «Decisión sobre modificaciones de la protección de pasos a nivel ferroviarios», por la que se modifica la protección del ŽP de una protección solo con cruces de aviso a un PZS sin complemento de barreras, sin que se aplicara la recomendación de seguridad de DI, es el ŽP P 7381. Este se encuentra en la vía ferroviaria, de categoría nacional, Ostrava hl. n. – Valašské Meziříčí, entre las estaciones de Pržno y Frýdlant nad Ostravicí. En el ŽP P 7381, antes de la modificación de la protección, DI registra desde 2009 2 MU. En estos MU falleció 1 persona, se produjo un daño material por importe de 248 100 Kč. Con la construcción de un polígono industrial adyacente, este ŽP se ha vuelto más transitado, con un aumento del movimiento, especialmente de NA. Siendo así, el choque del tren con la NA no es solo para la NA, sino también para el DV generalmente fatal.
+Debido al comportamiento frecuente e indisciplinado de los conductores en los ŽP, manifestado en el incumplimiento de la señalización de aviso del PZZ, es solo cuestión de tiempo que también en este ŽP, aunque protegido de forma nueva por PZS pero sin barreras, se produzca otro choque.
+El conductor de la NA, compuesta por el tractor de remolques SCANIA R420 LA4x2 y el semirremolque cisterna FELDBINDER 63.3 KIP, al circular por la carretera, calle Krnovské, en dirección desde la rotonda de Jaktař hacia el centro de Opava, no respetó la advertencia del PZZ dada por dos luces rojas intermitentes alternas de la señal y el sonido intermitente de la campana
 
 ## Página 30
 
-del PZS y, en contra de lo dispuesto en el § 29 apartado 1 letras a) y b) de la ley n.º 361/2000 Sb., entró indebidamente en el PEC en el momento en que se aproximaba a él el tren Os 3561.
-El transportista ČD, a. s., en la circulación del tren Os 3561, en el sentido del § 35 apartado 1 letra d) de la ley n.º 266/1994 Sb., garantizó que el HDV 810.199-0 fuera utilizado en un estado técnico que correspondiera a la aptitud aprobada.
-El transportista, en la circulación del tren Os 3561, en el sentido del § 35 apartado 1 letra a) de la ley n.º 266/1994 Sb., garantizó la explotación del transporte ferroviario de acuerdo con las reglas de explotación del transporte ferroviario, de modo que el maquinista del tren, de acuerdo con el § 35 apartado 1 letras e), f) e i) del decreto n.º 173/1995 Sb., condujo el HDV 810.199-0 desde la cabina delantera del maquinista en el sentido de circulación del tren, observó la vía y actuó según los hechos constatados y, durante la circulación del tren, no superó la velocidad máxima permitida de 75 km·h-1.
-La DI no tiene ninguna objeción sobre la actuación de los servicios de emergencia.
+PZS, y en contradicción con lo dispuesto en el § 29 apartado 1 letra a), b) de la ley núm. 361/2000 Sb.,
+entró indebidamente en la ŽP en el momento en que se aproximaba a ella el tren Os 3561.
+El transportista ČD, a. s., durante la circulación del tren Os 3561, en el sentido del § 35 apartado 1 letra d) de la ley
+núm. 266/1994 Sb., garantizó que el HDV 810.199-0 fuera utilizado en un estado técnico
+que correspondiera a la aptitud aprobada.
+El transportista durante la circulación del tren Os 3561, en el sentido del § 35 apartado 1 letra a) de la ley
+núm. 266/1994 Sb., garantizó la explotación del transporte ferroviario de acuerdo con las normas de explotación del transporte
+ferroviario, mediante el hecho de que el maquinista del tren, de conformidad con el § 35 apartado 1 letra e), f) e i) del decreto
+núm. 173/1995 Sb., condujo el HDV 810.199-0 desde la cabina delantera del maquinista en la dirección de la circulación
+del tren, observó la vía y actuó según los hechos constatados y durante la circulación del tren no superó
+la velocidad máxima permitida de 75 km·h-1.
+En cuanto a la actuación de los servicios del IZS, el DI no tiene ninguna objeción.
 ## 4.3
 ### Conclusiones
-4.3.1 Causas inmediatas del suceso excepcional, incluidos los factores que contribuyeron al mismo y que estuvieron relacionados con la actuación de las personas implicadas o con el estado de los vehículos ferroviarios o de los equipos técnicos
-La causa inmediata del MU fue:
-la entrada indebida del NA en el PEC P 7770 en el momento en que se aproximaba a él el tren Os 3561.
+4.3.1 Causas inmediatas del suceso excepcional, incluidos los factores que contribuyeron al mismo
+y que estuvieron relacionados con la actuación de las personas implicadas o con el estado de los vehículos
+ferroviarios o de las instalaciones técnicas
+La causa inmediata del SE fue:
+la entrada indebidamente autorizada del NA en la ŽP P 7770 en el momento en que se aproximaba a ella el tren Os 3561.
 •
 ### 4.3.2 Causas fundamentales relacionadas con la cualificación, los procedimientos y el mantenimiento
-La causa fundamental del MU fue:
-el incumplimiento de la advertencia del PEC P 7770 dada por dos luces rojas intermitentes
+La causa fundamental del SE fue:
+el incumplimiento de la advertencia PZZ de la ŽP P 7770, emitida mediante dos luces rojas intermitentes
 •
-alternas de la señal y por el sonido intermitente de la campana del PZS.
-### 4.3.3 Causas debidas al marco normativo y al uso del sistema de garantía de la seguridad
-No se constataron por parte de la DI causas del MU debidas al marco normativo y al uso del sistema de seguridad.
+alternas de la señal y mediante el sonido intermitente de la campana del PZS.
+### 4.3.3 Causas derivadas del marco normativo y del uso del sistema
+de garantía de la seguridad
+No fueron detectadas por el DI las causas del SE derivadas del marco normativo y del uso del sistema de seguridad.
 
 ## Página 31
+
 
 ## 4.4
 ### Hallazgos complementarios
@@ -994,8 +1062,8 @@ de acuerdo con el texto de la recomendación anterior «Emisión de recomendaci�
  el nivel de protección de modo que, en las reconstrucciones y modernizaciones de líneas y pasos a nivel ferroviarios, no solo de los incluidos en el sistema ferroviario europeo, ya se proyecte e instale únicamente equipo de protección de pasos a nivel luminoso complementado con barreras.
 De acuerdo con lo dispuesto en el § 53b apartado 5 de la ley n.º 266/1994 Sb., de ferrocarriles, en su redacción vigente, o del anexo n.º 7 del decreto n.º 376/2006 Sb., sobre el sistema de seguridad de la explotación de la vía y del transporte ferroviario y los procedimientos en caso de producción de sucesos excepcionales en las vías, en su redacción vigente, y del art. 25 apartado 2 de la DIRECTIVA DEL PARLAMENTO EUROPEO Y DEL CONSEJO 2004/49/CE, de fecha 29. 4. 2004, en su redacción vigente (en adelante también Directiva 2004/49/CE), la Inspección Ferroviaria recomienda a la Autoridad Ferroviaria la adopción de una medida propia encaminada a garantizar la realización de la recomendación de seguridad anteriormente mencionada también en los demás operadores ferroviarios de la República Checa.
 
-
 ## Página 32
+
 
 De acuerdo con lo dispuesto en el art. 25 apartado 2 de la Directiva 2004/49/CE, la Inspección Ferroviaria
 ### recomienda al Ministerio de Transporte:
@@ -1011,15 +1079,15 @@ de la Inspección Territorial de Ostrava
 
 ## Página 33
 
+
 ## 7 ANEXOS
 Fig. n.º X: Vehículos embestidos
 Fuente: DI
 Fig. n.º 3: Destrucción de la cabina de conducción del MD tras el MU.
 Fuente: DI
 
-
 ## Página 34
 
-Fig. n.º 4: Vista del frontal de la NA y parte del frontal del MD.
+Fig. 4: Vista del frontal de la NA y parte del frontal delantero del HDV.
 Fuente: DI
-Fig. n.º 5: Vista del remolque de la NA desde la dirección de la estación de Opava západ tras el MU.     Fuente: DI
+Fig. 5: Vista del remolque de la NA desde la dirección de la est. Opava západ hacia el MU.     Fuente: DI

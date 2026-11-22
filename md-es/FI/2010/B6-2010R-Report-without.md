@@ -10,13 +10,14 @@ chars: 94726
 ratio_longitud: 1.07
 tokens_in: 40526
 tokens_out: 28579
-verificacion: revisar
-notas_cifras: ["bloque 1: original bilingüe: se compara contra el idioma principal (EN); cifras largas: 1/24; cifras cortas: 3/24", "bloque 2: original bilingüe: se compara contra el idioma principal (EN); cifras largas: 1/21", "bloque 3: original bilingüe: se compara contra el idioma principal (FI)", "bloque 4: original bilingüe: se compara contra el idioma principal (FI); cifras cortas: 2/170", "bloque 5: cifras largas: 2/48; cifras cortas: 1/157", "bloque 7: original bilingüe: se compara contra el idioma principal (SV)"]
-avisos: ["bloque 1: marcadores de página: 5 vs 4"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 2: original bilingüe: se compara contra el idioma principal (NL)", "página 3: original bilingüe: se compara contra el idioma principal (FI); cifras cortas: 1/6", "página 4: original bilingüe: se compara contra el idioma principal (SV)", "página 6: cifras largas: 1/10", "página 12: original bilingüe: se compara contra el idioma principal (EN)", "página 15: original bilingüe: se compara contra el idioma principal (EN)"]
 ---
+
 ## Página 1
+
 
 Resumen de investigación
 B6/2010R
@@ -24,8 +25,8 @@ Accidente en paso a nivel en Kyrö el 23.6.2010
 Este resumen de investigación se ha elaborado para mejorar la seguridad y prevenir futuros accidentes.
 Aquí no se aborda la posible responsabilidad derivada del accidente ni la obligación de indemnización por daños y perjuicios. Debe evitarse el uso del resumen de investigación para fines distintos de la mejora de la seguridad.
 
-
 ## Página 2
+
 
 ### Centro de investigación de accidentes
 ### Centralen för undersökning av olyckor
@@ -81,8 +82,8 @@ Otros accidentes / Övriga olyckor / Other accidents
 Investigador Jefe de Accidentes / Ledande utredare / Chief Accident Investigator
 Kai Valonen
 
-
 ## Página 3
+
 
 ## RESUMEN
 El miércoles 23.6.2010 a las 15.44 se produjo, en la localidad de Kyrö del municipio de Pöytyä, en un paso a nivel equipado con instalación de barreras semiautomáticas, un accidente entre un conjunto de vehículos de transporte de madera y un tren de mercancías. El conjunto de vehículos con la carga de madera comenzó a maniobrar para rodear las barreras que estaban en posición baja, momento en el que el tren de mercancías que había salido de la estación de Kyrö con dirección a Tampere colisionó con el remolque del conjunto de vehículos.
@@ -98,8 +99,22 @@ No hubo daños personales graves. Ambas locomotoras del tren se salieron de la v
 Los costes de reparación derivados de los daños en el material rodante y en el paso a nivel ascendieron a 150 000 EUR.
 II
 
+## Página 4
+
+El accidente no causó lesiones personales graves. Ambos locomotoras del tren descarrilaron y el locomotoras delantero sufrió daños en el frontal y en el chasis. El remolque quedó totalmente destruido. Además, se produjeron daños graves en las instalaciones de barreras del paso a nivel. Los costes derivados de los daños en el material fijo y en el paso a nivel ascendieron a 150 000 euros.
+La causa del accidente fue que la combinación de vehículos cargada de madera cruzó el paso a nivel esquivando las barreras bajadas, momento en el que el tren impactó contra el remolque.
+La presión de la cola detrás de la combinación de vehículos pudo influir en la decisión del conductor de circular esquivando las barreras. El conductor se sintió presionado por el temor a exceder el tiempo de conducción debido a la larga espera, así como por el hecho de que su vehículo grande bloqueaba la vía de protección y, parcialmente, también el acceso a la tienda. Su decisión probablemente también se vio influida por el hecho de que otros conductores dieron el mal ejemplo y circularon esquivando las barreras, lo que reforzó la percepción del conductor de una posible avería en la instalación.
+Las colas de vehículos, que se produjeron debido a que las barreras permanecieron bajadas durante demasiado tiempo en el paso a nivel, se debieron a que el maquinista no había percibido suficientemente bien la señalización y, por lo tanto, no había notado la señal de autorización de salida del despachador de trenes a distancia. Debido a que no existía comunicación formalizada entre el despachador de trenes a distancia y el maquinista, se produjo un malentendido y el tren no partió inmediatamente después de que se hubiera concedido la autorización de salida. El despachador de trenes a distancia tampoco contactó con el maquinista inmediatamente después de haber recibido la alarma larga, ni adoptó medidas para disipar las colas de vehículos antes de que el tren partiera.
+Se han iniciado varias investigaciones y proyectos para mejorar la seguridad en el paso a nivel de Kyrö desde el año 1996. Los proyectos se han centrado en construir un paso inferior en el paso a nivel o en dotar el cruce de una instalación con dobles barreras. La comisión de investigación no formula nuevas recomendaciones, sino que respalda la rápida construcción del paso inferior para resolver los problemas de tráfico en el actual paso a nivel de Kyrö.
+## RESUMEN
+## ACCIDENTE EN EL PASO A NIVEL DE KYRÖ, FINLANDIA, EL 23 DE JUNIO DE 2010
+El miércoles 23 de junio de 2010 a las 15.44, se produjo un accidente en el que se vieron implicados un tren de mercancías y un vehículo articulado de transporte de madera en un paso a nivel equipado con barreras semiautomáticas en la zona de Kyrö del municipio de Pöytyä. El vehículo articulado de transporte de madera comenzó a maniobrar para pasar las barreras semiautomáticas, que se encontraban en posición bajada, cuando el tren de mercancías, que había partido de la estación de Kyrö en dirección a Tampere, colisionó contra el remolque del vehículo articulado.
+No hubo lesiones personales graves. Ambos locomotoras del tren descarrilaron y el frontal y el chasis del locomotoras delantero sufrieron daños. El remolque del vehículo articulado quedó dañado más allá de toda reparación. Las instalaciones de barreras del paso a nivel también sufrieron graves daños.
+Los costes de reparación derivados de los daños en el material fijo y en el paso a nivel ascendieron a 150.000 EUR.
+II
 
 ## Página 5
+
 
 El accidente se produjo porque el conjunto de vehículos comenzó a maniobrar para rodear las barreras semiautomáticas en posición baja, como resultado de lo cual el tren colisionó con el remolque del vehículo.
 La decisión del conductor del vehículo de comenzar a maniobrar para rodear las barreras estuvo aparentemente influida por la presión derivada de estar en una cola. El conductor sintió que la presión aumentaba porque la larga espera en la cola suponía una carga adicional para los horarios y también porque el conductor sentía que el conjunto de vehículos bloqueaba el paso peatonal y, parcialmente, el acceso a una tienda cercana.
@@ -109,6 +124,7 @@ Se han iniciado varios estudios y planes desde 1996 en relación con la mejora d
 III
 
 ## Página 6
+
 
 ## RESUMEN – SAMMANFATTNING – DATA SUMMARY
 Hora:
@@ -223,8 +239,8 @@ Other damages:
 The barrier installations of the level crossing were damaged as a result of the collision
 IV
 
-
 ## Página 7
+
 
 ## PREÁMBULO
 El Centro de Investigación de Accidentes designó, de conformidad con el artículo 5 de la ley sobre
@@ -270,8 +286,8 @@ medidas adoptadas y las recomendaciones de seguridad, así como los textos de lo
 gráficos y las tablas, están disponibles, además del finés, en sueco y en inglés.
 V
 
-
 ## Página 8
+
 
 ## FÖRORD
 Centralen för undersökning av olyckor tillsatte en undersökningskommission enligt 5 § i lagen om
@@ -310,8 +326,8 @@ Sammandrag av utredningsrapporten, förordet, sammanfattningstabellen, slutsatse
 finns förutom på finska även på svenska och engelska.
 VI
 
-
 ## Página 9
+
 
 ## PREFACE
 In accordance with the legislation currently in force (373/1985), the Accident Investigation Board
@@ -351,8 +367,8 @@ This investigation report can also be found on the Accident Investigation Board�
 www.onnettomuustutkinta.fi.
 VII
 
-
 ## Página 10
+
 
 The summary, data summary, introduction, conclusions, measures that have been taken and
 recommendations, as well as the legends for the figures, charts and tables of this report are also
@@ -360,6 +376,7 @@ available in Swedish and English.
 VIII
 
 ## Página 11
+
 
 ## ÍNDICE DE CONTENIDOS 
 RESUMEN...................................................................................................................................I 
@@ -395,8 +412,8 @@ PREFACE.........................................................................
 2.10 Investigación policial ....................................................................................................................17 
 IX
 
-
 ## Página 12
+
 
 2.11 Otras investigaciones.............................................................................................................. 17 
 3 ANÁLISIS............................................................................................................................... 18 
@@ -422,10 +439,10 @@ ANEXOS
 Anexo 1. Declaraciones 
 Anexo 2. Reglamentos y directrices relativos a los pasos a nivel 
 Anexo 3. Reglamentos y directrices relativos a los aparatos de seguridad de los pasos a nivel y su funcionamiento 
-X 
-
+X
 
 ## Página 13
+
 
 ## 1 
 ## ACCIDENTE 
@@ -440,10 +457,10 @@ Figure 1. The accident occurred on the Kyrö protected level crossing in Pöyty�
 ## 1.2 
 ### Desarrollo de los hechos 
 El conductor del conjunto de vehículos de transporte de madera comenzó su jornada laboral a las 6.00 y llevó una carga ya cargada a Rauma. Al regresar para cargar una nueva carga con destino a Rauma, llegó al terminal de vehículos del camión una orden de conducción en la que había dos cargas de troncos que debían transportarse desde Perniö a la sierra situada en Kyrö. El conductor cargó una parte de la carga en Kiikala y el resto en Perniö, tras lo cual inició el trayecto desde Perniö hacia Kyrö. 
-El tren de mercancías 3507 partió de Turku con destino a Tampere a las 13.58 y llegó, según su horario, a la estación de clasificación de Kyrö a las 14.40. El tren trajo vagones vacíos para cargar y debía recoger vagones ya cargados con madera aserrada. 
-
+El tren de mercancías 3507 partió de Turku con destino a Tampere a las 13.58 y llegó, según su horario, a la estación de clasificación de Kyrö a las 14.40. El tren trajo vagones vacíos para cargar y debía recoger vagones ya cargados con madera aserrada.
 
 ## Página 14
+
 
 En la estación de clasificación de Kyrö, realizó maniobras como unidad de maniobras hasta las 15.00. Durante las maniobras, la unidad tuvo que cruzar el paso a nivel tres veces. En ese momento, el paso a nivel lo utilizaba manualmente el encargado de maniobras que se encontraba en las inmediaciones del paso a nivel. Debido a los movimientos de empuje y tracción de ida y vuelta de la unidad, las barreras del paso a nivel estuvieron bajadas tres veces durante las maniobras. 
 Terminadas las maniobras, el maquinista comunicó al regulador remoto a las 15.10 que estaba listo para salir de Kyrö. Antes de conceder el permiso de salida, el regulador remoto esperó a que el tren rápido 921, en trayecto desde Turku hacia Pieksämä, pasara por Kyrö. Una vez que el tren rápido pasó por Kyrö, el regulador remoto autorizó la vía de circulación al tren de mercancías a las 15.31, momento en el que también se bajaron las barreras del paso a nivel. Una vez bajadas las barreras, el tren recibió en el señalizador la señal que autoriza la circulación. Según sus declaraciones, el maquinista, mientras esperaba el permiso de salida, se había trasladado al otro lado de la cabina para leer el periódico, por lo que no advirtió la señal de permiso de salida que apareció en el señalizador. 
@@ -452,10 +469,10 @@ El regulador remoto observó en su pantalla la luz roja que indicaba la alarma l
 A ambos lados del paso a nivel se había formado una cola de vehículos. El conjunto de vehículos llegó a la cola del paso a nivel de Kyrö a las 15.36.31 y quedó esperando. Según el maquinista y los testigos, varios coches salieron rodeando las barreras y los peatones cruzaron el paso a nivel. A medida que avanzaba la cola de vehículos, el conjunto de vehículos también avanzó gradualmente hacia el paso a nivel. A las 15.43.55, el conjunto de vehículos estaba el primero de la cola y se puso en marcha para rodear las barreras del paso a nivel. 
 Tras recorrer 220 metros, es decir, cuando el tren estaba a 20 metros del paso a nivel, el maquinista advirtió a su paso el conjunto de vehículos que había salido a rodear las barreras del paso a nivel. El maquinista comenzó a frenar y se echó al suelo de la cabina justo antes del impacto. El tren chocó a las 15.44.27 contra la parte trasera del eje delantero del remolque del conjunto de vehículos y empujó el conjunto de vehículos 25 metros por delante. La velocidad del tren en el momento del impacto era de 26 km/h. 
 Ambas locomotoras se salieron de los raíles en el impacto, pero se mantuvieron en pie. La carga de troncos del remolque del conjunto de vehículos se extendió tras el impacto hacia la cuneta y la carretera adyacente. 
-1  La señal de alarma larga es la situación en la que el aparato de aviso suena más de cinco minutos y el tren no llega. 
-
+1  La señal de alarma larga es la situación en la que el aparato de aviso suena más de cinco minutos y el tren no llega.
 
 ## Página 15
+
 
 Figura 2. Los soportes de carga del remolque se soltaron en el impacto y los troncos se extendieron por la cuneta y la carretera (foto de la policía). 
 Bild 2. 
@@ -466,6 +483,7 @@ and onto the road.
 
 ## Página 16
 
+
 Figura 3. El tren empujó el conjunto de vehículos 25 metros por la vía y ambos locomotoras descarrilaron. El conjunto de vehículos rompió la barrera de paso a nivel de la instalación de semibarreras y el dispositivo de barrera del carril peatonal (foto: policía).
 ### Alarmas
 El maquinista informó del accidente por radio de línea al teleoperador a las 15.46.02 y relató que el camión de troncos había quedado debajo en el paso a nivel de Kyrö. El director de área que actuaba en segundo plano del teleoperador se hizo cargo del accidente y realizó una notificación de emergencia al número de emergencias 112, desde donde fue redirigido al centro de emergencias de Pirkanmaa a las 15.49.14.
@@ -473,8 +491,9 @@ La primera notificación de emergencia al centro de emergencias de Varsinais-Suo
 ### Operaciones de rescate
 Inmediatamente después del accidente se constató que no era necesaria ninguna operación de rescate urgente. El maquinista y el conductor del vehículo pudieron salir por sus propios medios de sus cabinas.
 
-
 ## Página 17
+
+
 La primera unidad de emergencia en llegar al lugar fue el camión de bomberos P21 a las 15.55.14.
 El personal de emergencias acordonó la zona del accidente y reguló el tráfico. El personal de emergencias también retiró los troncos caídos del remolque del conjunto de vehículos e inspeccionó posibles fugas de líquidos del locomotora y del conjunto de vehículos.
 ### Limpieza del lugar del accidente
@@ -492,8 +511,8 @@ Tras el accidente, el locomotora que iba en primera posición en el tren result�
 ### Vehículo
 El remolque del conjunto de vehículos quedó gravemente dañado en el impacto. Su bastidor se deformó en la parte trasera del eje delantero y se desprendieron algunas de las tablas de madera. El tractor resultó dañado principalmente en su estructura de base, cuando el tren empujó el conjunto de vehículos por delante tras el impacto, momento en el que el dispositivo de barrera del carril peatonal y la barandilla de protección situada delante de él quedaron debajo del tractor.
 
-
 ## Página 18
+
 
 ### Daños en la vía y los dispositivos
 Tras el impacto, el conjunto de vehículos, empujado por el tren, rompió la barrera de paso a nivel de la instalación de semibarreras y el dispositivo de barrera del carril peatonal situado al otro lado de la vía. Además, la plataforma del paso a nivel resultó dañada y los raíles se deformaron en la curva a lo largo de 10 metros.
@@ -506,8 +525,8 @@ El accidente no causó daños medioambientales.
 ### Información
 El centro de emergencias de Varsinais-Suomi elaboró a las 16.01 una nota de prensa sobre el accidente: "Colisión entre un tren de mercancías y un camión de troncos en un paso a nivel vigilado en la localidad de Kyrö, en el municipio de Pöytyä". El centro de emergencias informó además del accidente al centro de tráfico de la Agencia de Transporte a las 16.20 y solicitó que se emitiera una información al tráfico: "Kyröntie totalmente cortada en dirección a Tarvasjoki hasta nuevo aviso". El centro de emergencias informó al centro de tráfico el 24.6.2010 a las 4.04: "Carretera abierta en un solo sentido, un vehículo a la vez".
 
-
 ## Página 19
+
 
 ## 2
 ## INVESTIGACIÓN DEL ACCIDENTE
@@ -616,8 +635,8 @@ El conjunto de vehículos estaba compuesto por un camión y un remolque. El cami
 El remolque era un remolque propiamente dicho de la marca Briab, de 4 ejes y con estructura de ejes tipo 2+2, destinado al transporte de madera, que se puso en servicio el 17.12.2001. El vehículo y el remolque pasaron la revisión técnica periódica el 5.12.2009.
 El conjunto de vehículos transportaba troncos a una sierra situada en Kyrö. Según el certificado de recepción de la sierra, la carga constaba de 46,6 m³ de troncos de pino. La masa total calculada basada en los datos de carga y de registro del conjunto de vehículos era de 64 800 kg en el momento del accidente.
 
-
 ## Página 20
+
 
 Un miembro de la comisión de investigación realizó una inspección técnica del conjunto de vehículos el 24.6.2010. No se encontraron en el conjunto de vehículos defectos técnicos que hubieran podido influir en la causa del accidente.
 ## 2.2
@@ -627,8 +646,8 @@ En el paso a nivel hay, a ambos lados, la señal de paso a nivel de ferrocarril 
 La carretera es plana en su perfil. Inmediatamente antes del paso a nivel, desde la dirección de llegada del conjunto de vehículos, hay a la izquierda una enlace con la carretera que conduce a la estación de Kyrö y a la derecha una entrada de 40 metros de ancho que da a la plaza del centro comercial. Junto a Kyröntie discurre a ambos lados un carril para tráfico peatonal y de bicicletas, que continúa como pasarela sobre los enlaces y posteriormente sobre la vía. Ambos carriles para tráfico peatonal y de bicicletas están equipados con barreras. Visto desde la dirección de llegada del conjunto de vehículos, inmediatamente después del paso a nivel hay a ambos lados los enlaces con la carretera.
 Figura 4. Vista general del paso a nivel, en la que también se aprecian los enlaces situados en sus inmediaciones.
 
-
 ## Página 21
+
 
 Al aproximarse al paso a nivel desde la dirección de llegada del conjunto de vehículos, los arbustos y los árboles limitan la visibilidad de la vía en la dirección de llegada del tren, de modo que la visibilidad a 25 metros antes de los raíles es de 80 metros. Además, al seguir aproximándose, la visibilidad de la vía en la dirección de llegada del tren es de 100 metros a 15 metros antes de los raíles y de 120 metros a 10 metros antes de los raíles.
 Figura 5. Visibilidad desde la dirección de llegada del conjunto de vehículos en la dirección de llegada del tren a 25 metros antes del paso a nivel.
@@ -637,20 +656,49 @@ Sikten i fordonskombinationens färdriktning mot tågets ankomstriktning 25 mete
 Figure 5. Visibility 25 metres before the crossing from the direction of the approaching vehicle.
 El entorno del paso a nivel es una zona urbana llana, dividida por la vía y Kyröntie. En un radio de tres kilómetros residen aproximadamente 1 800 habitantes. Kyröntie es la vía principal de la localidad de Kyrö, en cuyas inmediaciones se han concentrado los centros comerciales y de servicios. Según un cálculo realizado por la Dirección de Carreteras en 2009, el tráfico medio de vehículos en Kyröntie es de 4 136 vehículos al día, de los cuales 130 son de tráfico pesado. En el paso a nivel hay abundante tráfico ligero, entre otros motivos debido a la cercanía de una escuela.
 
-
 ## Página 22
 
-Figura 6. Vista aérea del centro de la localidad de Kyrö. La línea discontinua negra indica la ruta del conjunto de vehículos hasta el paso a nivel y la línea discontinua roja la ruta del tren desde el punto de partida hasta el paso a nivel. La flecha amarilla señala el semáforo al que el tren recibió una indicación que autorizaba la circulación.
-Bild 6.
-Flygbild över Kyrö centrum. Fordonskombinationens färd mot plankorsningen visas med svart och tågets färd från startpunkten till plankorsningen med röd streckad linje. Den gula pilen visar signalanordningen till vilken tåget fick signal om tillåtelse att köra.
+Kuva 6. Ilmakuva Kyrön taajaman keskustasta. Mustalla katkoviivalla on merkitty ajo-
+neuvoyhdistelmän reitti tasoristeykseen ja punaisella katkoviivalla junan reitti 
+lähtöpisteestä tasoristeykseen. Keltainen nuoli osoittaa opastinta, johon junalle 
+tuli ajon salliva opaste. 
+Bild 6. 
+Flygbild över Kyrö centrum. Fordonskombinationens färd mot plankorsningen visas med svart 
+och tågets färd från startpunkten till plankorsningen med röd streckad linje. Den gula pilen visar 
+signalanordningen till vilken tåget fick signal om tillåtelse att köra. 
 Figure 6. Aerial view of the centre of the Kyrö area. The broken arrow in black shows the route of the ar-
 ticulated vehicle towards the level crossing and the broken arrow in red the route of the train 
 from departure towards the level crossing. The yellow arrow indicates the location of the sign 
-that gave the train the clear for departure signal.
-El lugar del accidente pertenece a la clase de vía D. La vía tiene una capa de balasto, traviesas de hormigón y un sistema de vía del tipo 60 E1. El tramo de vía fue objeto de una reparación básica en 2008. En dicho tramo de vía hay tanto tráfico de trenes de pasajeros como de mercancías. El número de trenes en el tramo de vía entre Turku y Toijala es de 16 trenes de pasajeros y 14 trenes de mercancías al día (www.tasoristeys.fi 29.9.2010). En la playa de vías de Kyrö se realizaba tráfico ferroviario regular relacionado con las maniobras de cambio de vagones de madera. Dicha maniobra regular se suspendió el 30.6.2010.
-En el paso a nivel se han producido numerosos casos en los que un vehículo ha roto la barrera. En la tabla 1 se recogen los casos registrados en el diario de operación y averías del sistema de seguridad y comunicados a la Agencia de Transporte, correspondientes al periodo del 1.1.2004 al 13.12.2010.
+that gave the train the clear for departure signal. 
+Tapahtumapaikka kuuluu rataluokkaan D. Radalla on sepelitukikerros, betoniset rata-
+pölkyt ja 60 E1 -tyypin kiskotus. Rataosa on peruskorjattu vuonna 2008. Kyseisellä rata-
+osalla on sekä matkustaja- että tavarajunaliikennettä. Junaliikenteen määrä Turku–
+Toijala välisellä rataosalla on 16 matkustaja- ja 14 tavarajunaa vuorokaudessa 
+(www.tasoristeys.fi 29.9.2010). Kyrön ratapihalla harjoitettiin säännöllistä puutavaravau-
+nujen vaihtotyöhön liittyvää raideliikennettä. Kyseinen säännöllinen vaihtotyö lopetettiin 
+30.6 2010. 
+Tasoristeyksessä on ollut lukuisia tapauksia, joissa ajoneuvo on rikkonut puomin. Tau-
+lukkoon 1. on koottu turvalaitoksen käyttö- ja häiriöpäiväkirjaan merkityt ja Liikenneviras-
+ton tietoon tulleet tapaukset ajalta 1.1.2004–13.12.2010. 
+
+---
+
+
+
+Figura 6. Vista aérea del centro de la zona de Kyrö. La flecha discontinua en negro indica la ruta del conjunto de vehículos hacia el paso a nivel y la flecha discontinua en rojo la ruta del tren desde el punto de partida hacia el paso a nivel. La flecha amarilla indica la ubicación de la señal que dio al tren la autorización de salida. 
+Bild 6. 
+Flygbild över Kyrö centrum. Fordonskombinationens färd mot plankorsningen visas med svart 
+och tågets färd från startpunkten till plankorsningen med röd streckad linje. Den gula pilen visar 
+signalanordningen till vilken tåget fick signal om tillåtelse att köra. 
+Figure 6. Aerial view of the centre of the Kyrö area. The broken arrow in black shows the route of the ar-
+ticulated vehicle towards the level crossing and the broken arrow in red the route of the train 
+from departure towards the level crossing. The yellow arrow indicates the location of the sign 
+that gave the train the clear for departure signal. 
+El lugar del suceso pertenece a la clase de vía D. La vía dispone de una capa de balasto, traviesas de hormigón y un sistema de vía del tipo 60 E1. El tramo de vía fue objeto de una reparación general en el año 2008. En dicho tramo de vía existe tráfico tanto de trenes de pasajeros como de mercancías. El número de trenes en el tramo de vía entre Turku y Toijala es de 16 trenes de pasajeros y 14 trenes de mercancías al día (www.tasoristeys.fi 29.9.2010). En la estación de clasificación de Kyrö se realizaba tráfico ferroviario regular relacionado con el trabajo de maniobras de vagones de madera. Dicho trabajo de maniobras regular se suspendió el 30.6 2010. 
+En el paso a nivel se han producido numerosos casos en los que un vehículo ha roto la barrera. En la Tabla 1 se recogen los casos anotados en el diario de uso e incidencias del sistema de seguridad y los casos llegados a conocimiento de la Autoridad Ferroviaria del período del 1.1.2004 al 13.12.2010.
 
 ## Página 23
+
 
 Tabla 1. Incidencias de rotura de barreras registradas en el diario de uso e incidencias de los dispositivos de seguridad y comunicadas a la Agencia de Transporte de Finlandia, años 2004–2010.
 Tabla 1.
@@ -678,8 +726,8 @@ planes de construcción para la mejora del dispositivo de barrera parcial de Kyr
 - 
 mejora del plan viario de la carretera 2250, Kyröntien, mediante la construcción de un paso inferior para el ferrocarril en el emplazamiento del actual paso a nivel de Kyrö, Centro de Gestión Ferroviaria y Distrito Viario de Turku 2009.
 
-
 ## Página 24
+
 
 En 2008 se elaboró la propuesta de modificación del plan de ordenación urbanística del núcleo urbano de Kyrö, que se encontraba en trámite de aprobación en 2009. Sin embargo, la modificación del plan de ordenación no fue aprobada, y el municipio de Pöytyä tuvo que iniciar el trabajo de ordenación desde el principio. La modificación del plan habría permitido el traslado a mayor distancia del paso a nivel de los enlaces viales y parcelarios situados demasiado cerca de las barreras. Además, el plan habría posibilitado la posterior implantación de un paso a desnivel. El paso a desnivel es la solución objetivo definitiva de los planes de construcción de viario y de la planificación de la ordenación urbanística.
 ## 2.3 
@@ -699,8 +747,8 @@ El tráfico ferroviario del tramo Toijala–Turku era controlado a distancia por
 El conductor de la formación de vehículos de transporte de madera tenía 26 años. El conductor tenía en vigor un permiso de conducir de clase BE. Ha trabajado como conductor de camión de manera profesional desde 2003. Se había despertado la mañana del accidente a las 5.00 y había comenzado su turno de trabajo a las 6.00.
 Comenzó su turno de trabajo llevando una carga ya cargada a Rauma. Al regresar
 
-
 ## Página 25
+
 
 para cargar una nueva carga con destino a Rauma, llegó al terminal de vehículos del camión una orden de conducción en la que había dos cargas de troncos que debían transportarse desde Perniö a una sierra situada en Kyrö. El conductor cargó una parte de la carga en Kiikala y el resto en Perniö, tras lo cual inició el trayecto desde Perniö hacia Kyrö. El turno de trabajo habría finalizado con el cambio de conductor tras la descarga de la carga de troncos. El turno de trabajo anterior del conductor había finalizado el día anterior al accidente a las 16.08.
 Según la prueba de alcoholemia realizada por la policía, ni el conductor de camión ni el conductor de la locomotora estaban bajo los efectos del alcohol en el momento del accidente.
@@ -712,8 +760,8 @@ El Servicio de Bomberos Regional de Varsinais-Suomi está dividido funcionalment
 El lugar del accidente se encuentra en el área del parque de bomberos de Loimaa. El área de actuación del parque de bomberos de Loimaa incluye los municipios de Pöytyä, Oripää, Aura, Tarvasjoki, Koski y Marttila, así como la ciudad de Loimaa. La población del área de Loimaa es de 37 000. Además, en la zona hay ocho parques de bomberos de cuerpos de voluntarios. Estas estaciones no tienen guardia permanente. La más cercana, la del Cuerpo de Bomberos Voluntarios de Karinais, se encuentra a 600 metros del lugar del accidente.
 La formación de respuesta ante un accidente ferroviario de tamaño medio es la salida en equipo. En la alarma participan el jefe de bomberos de guardia, la unidad de salvamento permanente, dos unidades de salvamento de los cuerpos de bomberos voluntarios por contrato más próximas y la unidad de transporte sanitario. El número de heridos determina la cantidad de capacidad de transporte sanitario. El número de unidades puede aumentarse en función de la información que el jefe de la primera unidad facilite al jefe de bomberos de guardia. La decisión sobre el cambio de la respuesta y la obtención de unidades adicionales la toma el jefe de bomberos de guardia.
 
-
 ## Página 26
+
 
 El lugar del accidente pertenece a la zona de riesgo II, para la que se ha establecido un tiempo de llegada objetivo de 10 min. La clasificación de las zonas de riesgo se basa en la población de la zona o en la superficie construida de los edificios.
 El parque de bomberos de Loimaa se encuentra en un estado permanente de salida en un minuto con una plantilla de 1+3 (jefe de bomberos, jefe superior de bomberos y dos bomberos). En el territorio del municipio de Pöytyä hay dos cuerpos de bomberos voluntarios por contrato de la zona de salvamento.
@@ -750,6 +798,7 @@ A las 15.43.32 el operador de mando a distancia preguntó al conductor de la loc
 
 ## Página 27
 
+
 A las 15.46.02 el maquinista se puso en contacto con el operador remoto y comunicó que el camión de troncos había quedado bajo el paso superior de Kyrö y que la carretera estaba cortada y al menos una locomotora estaba fuera de las vías. A las 15.48.38 el operador remoto se puso en contacto con el maquinista y preguntó si había heridos. El maquinista respondió que no había heridos y que él y el conductor del camión estaban bien.
 ## 2.8.3 
 ### Registro de llamadas del centro de emergencias
@@ -763,8 +812,8 @@ A las 16.21.32 P3 llamó al centro de emergencias y facilitó un informe de segu
 A las 16.38.34 el operador del centro de emergencias se puso en contacto con P3 y comunicó que el equipo de limpieza de VR había sido alertado desde Turku y que su llegada al lugar tardaría algún tiempo. El operador del centro de emergencias añadió también que la línea de contacto había sido desenergizada.
 A las 3.57.35 la unidad de rescate P21, que participaba en la limpieza del lugar del accidente, se puso en contacto con el centro de emergencias y comunicó que el lugar del accidente había sido despejado y que el tráfico estaba parcialmente abierto.
 
-
 ## Página 28
+
 
 ## 2.8.4 
 ### Otras grabaciones de las labores de rescate
@@ -781,8 +830,8 @@ Por tercera vez, el conjunto de vehículos se puso en marcha a las 15.44.32 (15.
 La velocidad del conjunto de vehículos después de la puesta en marcha varió entre 3 km/h y 11 km/h, y justo antes del choque la velocidad del conjunto de vehículos aumentó repentinamente hasta 17 km/h. A las 15.45.04 (15.44.27) se observa un descenso brusco en la velocidad del conjunto de vehículos, que probablemente corresponde al momento del choque.
 De los datos de horario laboral del conductor se desprende que había comenzado su jornada laboral a las 6.03. Desde el inicio de la jornada laboral hasta el momento del accidente se habían acumulado 9 horas 44 minutos de tiempo vinculado al trabajo, de los cuales 7 horas 46 minutos eran tiempo de conducción, 1 hora 16 minutos de descanso y 40 minutos de carga o descarga. El turno laboral anterior del conductor había finalizado el 22.6.2010 a las 16.08.
 
-
 ## Página 29
+
 
 ### Datos del registro de los aparatos de enclavamiento
 Según los datos del registro de los aparatos de enclavamiento, la primera vía de circulación de trenes desde la vía 431 de Kyrö hacia Loimaa se estableció a las 15.25. La siguiente vía de circulación de trenes desde la vía 432 de Kyrö hacia Loimaa se estableció a las 15.31. A las 15.38 se produjo desde el paso a nivel una notificación de avería prolongada por las barreras que habían permanecido demasiado tiempo abajo. A las 15.45 el paso a nivel emitió una notificación de avería por avería de lámpara y avería de supervisión.
@@ -799,8 +848,8 @@ La comisaría de policía de Loimaa del cuerpo de policía de Varsinais-Suomi re
 ### Otras investigaciones
 La junta de investigadores de accidentes de tráfico de Varsinais-Suomi de la VALT realizó del accidente una investigación conforme a la ley relativa a los accidentes de tráfico por carretera y en terreno. Esta documentación de investigación ha estado a disposición de la junta de investigación.
 
-
 ## Página 30
+
 
 ## 3 
 ## ANÁLISIS 
@@ -815,8 +864,8 @@ De las medidas previstas para el lugar del accidente, el paso inferior es la mej
 ### El tren y la actuación del maquinista
 Cuando terminaron las maniobras, el maquinista informó al operador remoto a las 15.10 de que estaba listo para la salida desde Kyrö. Como no recibió inmediatamente la autorización de salida, se desplazó al otro lado de la cabina para leer el periódico y, por ello, no advirtió del paso del tren rápido ni de la autorización de salida que llegó después al indicador. Solo se percató de ello a la hora de salida según el horario.
 
-
 ## Página 31
+
 
 Por esta razón, las barreras del paso a nivel permanecieron bajadas durante 13 minutos antes del choque.
 La vía se aproxima al paso a nivel desde la vía 2 de Kyrö en un ángulo tal que el maquinista advirtió del conjunto de vehículos que se aproximaba al paso a nivel cuando este ya estaba girando hacia el carril izquierdo, pero no le prestó mayor atención al creer que se dirigía a girar hacia el patio contiguo.
@@ -830,6 +879,7 @@ En la comunicación entre el operador remoto y el maquinista se produjo un malen
 
 ## Página 32
 
+
 En las conversaciones entre el controlador remoto y el maquinista no se utilizó una comunicación formal, que en este caso habría sido: "3507, permiso de salida desde Kyrö", que el maquinista habría tenido que repetir tras recibirla. Con esta comunicación formal se habría asegurado la recepción del permiso de salida. Además, el controlador remoto habría podido ponerse en contacto inmediatamente con el maquinista al advertir la alarma larga, informarle de la situación y, posiblemente, también permitir que los automóviles acumulados en el paso a nivel cruzaran el paso a nivel antes de que el tren comenzara a moverse.
 ### El vehículo, sus equipos de seguridad y la actuación del conductor del vehículo
 Los daños del camión se produjeron principalmente en su estructura de bastidor tras la colisión. El conductor llevaba puesto el cinturón de seguridad en la cabina, que lo mantuvo en su sitio a pesar del repentino cambio de dirección.
@@ -838,8 +888,8 @@ Tras decidir rodear las barreras que estaban abajo, el conductor dirigió el con
 La decisión del conductor del conjunto de vehículos de salir a rodear las barreras que estaban abajo estuvo influida por la presión que se generó al estar de pie en la cola. Según su relato, el conductor experimentó presión por el miedo a superar el tiempo de conducción acumulado debido a la larga espera. Además, sintió presión al bloquear durante mucho tiempo con un vehículo grande el paso para peatones y parcialmente el enlace carretero de la zona comercial.
 La decisión del conductor del conjunto de vehículos de rodear las barreras pudo verse influida también por el ejemplo erróneo que otros conductores dieron en la situación al rodear las barreras, lo que reforzó la percepción del conductor de una posible situación de interferencia en el paso a nivel. La decisión probablemente estuvo influida también por la proximidad del destino, ya que la carga a granel debía llevarse a la sierra situada al otro lado del paso a nivel.
 
-
 ## Página 33
+
 
 ## 3.2
 ### Análisis de las operaciones de rescate
@@ -850,8 +900,8 @@ La operadora del centro de emergencias clasificó el accidente, en función de l
 Las operaciones de rescate se iniciaron inmediatamente tras la llegada de la primera unidad de rescate. Al comienzo de las operaciones de rescate se constató de inmediato que el accidente no había causado daños personales. Como medidas iniciales, el servicio de rescate acordonó la zona del accidente, tapó las fugas detectadas en el material rodante implicado en el accidente y solicitó que se cortara el suministro eléctrico a las locomotoras. Tras estas medidas, al servicio de rescate le quedó asignada la tarea de despejar los obstáculos y dirigir el tráfico.
 El lugar del accidente pertenece a la clase de zona de riesgo II, para la cual se ha establecido un tiempo objetivo de respuesta de 10 minutos. En este accidente, el tiempo de actuación del servicio de rescate fue de 8 minutos y 19 segundos, lo que corresponde a la respuesta.
 
-
 ## Página 34
+
 
 ## 4
 ## CONCLUSIONES
@@ -872,8 +922,8 @@ El lugar del accidente pertenece a la clase de zona de riesgo II, para la cual s
 ### Causas del accidente
 La causa del accidente fue que el conjunto de vehículos cargado con madera salió a rodear las barreras que estaban abajo en el paso a nivel, momento en el que el tren colisionó con su remolque. La decisión del conductor del conjunto de vehículos de salir a rodear las barreras pudo verse influida por la presión que se generó al estar de pie en la cola. El conductor experimentó presión por el miedo a superar el tiempo de conducción acumulado debido a la larga espera, así como por el hecho de que bloqueaba durante mucho tiempo con un vehículo grande el paso para peatones y parcialmente el enlace carretero de la tienda. La decisión probablemente estuvo influida también por el ejemplo erróneo que otros conductores dieron en la situación al rodear las barreras, lo que reforzó la percepción del conductor de una posible situación de interferencia en el paso a nivel.
 
-
 ## Página 35
+
 
 Las colas de vehículos provocadas por las barreras del paso a nivel que estuvieron abajo demasiado tiempo se debieron a que el maquinista no prestó suficiente atención a la señal y, por tanto, no advirtió el permiso de salida dado por el controlador remoto. Debido a la ausencia de comunicación formal, se produjo un malentendido entre el controlador remoto y el maquinista, y el tren no comenzó a moverse inmediatamente después de recibir el permiso de salida. El controlador remoto tampoco se puso en contacto con el maquinista ni emprendió medidas para despejar las colas de vehículos del paso a nivel inmediatamente después de recibir la alarma larga y antes de que el tren comenzara a moverse.
 ## 4
@@ -895,27 +945,29 @@ Las colas de vehículos provocadas por las barreras del paso a nivel que estuvie
 ### Orsakerna till olyckan
 Orsaken till olyckan var att den virkeslastade fordonskombinationen körde över korsningen genom att väja för de nedfällda bommarna, varvid tåget träffade släpvagnen.
 
-
 ## Página 36
 
-Trycket från kön bakom fordonskombinationen kan ha påverkat förarens beslut att köra kring bommarna. Föraren kände sig pressad av rädslan för överskridning av körtiden på grund av den långa väntetiden samt av att hans stora fordon blockerade skyddsvägen och delvis även anslutningen till butiken. Hans beslut påverkades troligen även av att andra bilister föregick med fel exempel och körde kring bommarna, vilket stärkte förarens uppfattning om en eventuell störning i anläggningen.
-Bilköerna, som uppstod i och med att bommarna var nedfällda för länge i plankorsningen, berodde på att lokföraren inte hade uppfattat signalanordningen tillräckligt väl och därmed inte märkt fjärrtågklarerarens signal om avgångstillstånd. På grund av att formbunden kommunikation saknades mellan fjärrtågklareraren och lokföraren uppstod ett missförstånd, och tåget startade inte genast efter att avgångstillståndet hade getts. Fjärrtågklareraren kontaktade inte heller lokföraren omedelbart efter att han hade fått långt larm och vidtog inte heller åtgärder för att avveckla bilköerna innan tåget startade.
+La presión de la cola detrás de la combinación de vehículos pudo haber influido en la decisión del conductor de circular por encima de las barreras. El conductor se sintió presionado por el temor a exceder el tiempo de conducción debido al largo tiempo de espera, así como por el hecho de que su gran vehículo bloqueaba la vía de protección y, parcialmente, también el acceso a la tienda. Su decisión probablemente también se vio influida por el hecho de que otros conductores dieron el mal ejemplo y circularon por encima de las barreras, lo que reforzó la percepción del conductor de una posible interferencia en la instalación.
+
+Las colas de vehículos, que se produjeron debido a que las barreras permanecieron bajadas demasiado tiempo en el paso a nivel, se debieron a que el maquinista no había percibido suficientemente bien la señalización y, por lo tanto, no había notado la señal de autorización de salida del operador remoto de trenes. Debido a que la comunicación formal faltaba entre el operador remoto de trenes y el maquinista, se produjo un malentendido, y el tren no partió inmediatamente después de que se hubiera dado la autorización de salida. El operador remoto de trenes tampoco contactó con el maquinista inmediatamente después de haber recibido la alarma larga, ni adoptó medidas para disipar las colas de vehículos antes de que el tren partiera.
+
 ## 4
-## CONCLUSIONS
+## CONCLUSIONES
 ## 4.1
-### Statements
-1. There was a misunderstanding between the remote controller and the engine driver and as a result the train did not depart as soon as permission was given.
-2. The communication between the remote controller and the engine driver was not formal.
-3. The engine driver did not give sufficient notice to the signal and therefore did not observe that permission to depart had been given.
-4. The barriers at the crossing had been lowered without interval for 13 minutes.
-5. Several vehicles and pedestrians crossed the crossing while the barriers were down.
-6. Feeling pressure due to the fact that the maximum permitted driving time was approaching and the vehicle was partly blocking the pedestrian crossing and junction to a nearby store, the driver of the articulated vehicle started to manoeuvre around the barriers.
-7. The driver of the articulated vehicle noticed the train approaching from the left only when the vehicle was already on the crossing.
-8. The train collided with the articulated vehicle at a speed of 26 km/h.
-9. There were no serious personal injuries.
-10. During the past seven years there have been nearly 50 incidents where vehicles have driven barriers broken and other dangerous situations.
+### Declaraciones
+1. Hubo un malentendido entre el operador remoto y el maquinista y, como resultado, el tren no partió tan pronto como se dio el permiso.
+2. La comunicación entre el operador remoto y el maquinista no fue formal.
+3. El maquinista no prestó la debida atención a la señal y, por lo tanto, no observó que se hubiera dado el permiso de salida.
+4. Las barreras del paso a nivel permanecieron bajadas sin intervalo durante 13 minutos.
+5. Varios vehículos y peatones cruzaron el paso a nivel mientras las barreras estaban bajadas.
+6. Sintiendo presión debido al hecho de que se aproximaba el tiempo máximo permitido de conducción y el vehículo bloqueaba parcialmente el paso peatonal y el enlace con una tienda cercana, el conductor del vehículo articulado comenzó a maniobrar alrededor de las barreras.
+7. El conductor del vehículo articulado solo se percató del tren que se aproximaba por la izquierda cuando el vehículo ya se encontraba en el paso a nivel.
+8. El tren colisionó con el vehículo articulado a una velocidad de 26 km/h.
+9. No hubo lesiones personales graves.
+10. Durante los últimos siete años ha habido casi 50 incidentes en los que vehículos han derribado barreras y otras situaciones peligrosas.
 
 ## Página 37
+
 
 11. Se han iniciado varios estudios y planes para mejorar la seguridad en el paso a nivel, pero ninguno ha dado lugar a acciones concretas.
 ## 4.2
@@ -924,8 +976,8 @@ El accidente se produjo porque el vehículo articulado que transportaba madera c
 La decisión del conductor del vehículo de comenzar a maniobrar más allá de las barreras estuvo aparentemente influenciada por la presión derivada de encontrarse en una cola. El conductor sentía que la presión aumentaba porque la larga espera en la cola suponía una carga adicional para los horarios y también porque el conductor consideraba que el vehículo articulado estaba bloqueando el paso peatonal y, en parte, también el acceso a una tienda cercana. La decisión de avanzar probablemente también se tomó en parte porque otros conductores estaban maniobrando más allá de las barreras, lo que confirmaba la idea de que las instalaciones de las barreras no funcionaban correctamente.
 Las colas crecieron hasta un tamaño considerable mientras las barreras permanecieron bajadas durante demasiado tiempo porque el maquinista no prestó la debida atención a la señal y, por tanto, no se percató de que el regulador remoto había dado permiso para la salida. La falta de comunicación formal entre el regulador remoto y el maquinista condujo a un malentendido y el tren no partió tan pronto como se concedió el permiso. Una vez que se emitió la alarma de que las barreras habían permanecido bajadas durante demasiado tiempo, el regulador remoto no logró ponerse en contacto con el maquinista ni tomar ninguna otra medida para aliviar la cola en el paso a nivel antes de la salida del tren.
 
-
 ## Página 38
+
 
 ## 5
 ## TOTEUTETUT TOIMENPITEET
@@ -937,18 +989,23 @@ Pöytis kommun konstaterar följande i sitt utlåtande 14.3.2011: ”I kommunen 
 ## MEDIDAS ADOPTADAS
 En su declaración de 14 de marzo de 2011, el municipio de Pöytyä señala lo siguiente: “El municipio ha iniciado acciones para renovar el plan urbano del área circundante a la estación de Kyrö. El área de cambios se sitúa en las manzanas a ambos lados del paso a nivel de Kyröntie y de la vía Turku-Toijala. El objetivo principal de los cambios es mejorar la seguridad vial y permitir la construcción de un paso inferior bajo la vía.” La notificación de que se realizarían cambios en el plan urbano de Kyrö se publicó en octubre de 2010.
 
-
 ## Página 39
 
-## 6
-## RECOMENDACIONES DE SEGURIDAD
-Para mejorar la seguridad del paso a nivel de Kyrö se han iniciado varios estudios y proyectos desde 1996. Los proyectos se han centrado en la construcción de un paso inferior en el paso a nivel de Kyrö o en equiparlo con una instalación de barreras dobles. Una instalación de barreras dobles impediría rodear las barreras, pero no eliminaría los problemas de tráfico derivados de la proximidad de las intersecciones viarias del centro ni los posibles situaciones de peligro que siguen existiendo. La comisión de investigación no emite nuevas recomendaciones, sino que respalda la rápida construcción de un paso inferior para resolver los problemas de tráfico del actual paso a nivel de Kyrö.
-### Otras observaciones y propuestas
-Si no es posible utilizar una comunicación formalizada y, a pesar de que el regulador remoto puede conceder permiso de salida al maquinista únicamente mediante una señal, deberían desarrollarse otros métodos para garantizar que la comunicación entre el control de tráfico y los maquinistas se traslade correctamente.
-La Autoridad de Seguridad del Transporte (Liikenteen turvallisuusvirasto), Liikennevirasto, VR-Yhtymä Oy, Hätäkeskuslaitos, el Centro de Desarrollo Económico, Transporte y Medio Ambiente de Varsinais-Suomi y el municipio de Pöytyä han emitido sus declaraciones sobre las recomendaciones. Las declaraciones se reproducen íntegramente en el Anexo 1. Se han realizado modificaciones y precisiones en el informe de investigación en función de las declaraciones y comentarios recibidos.
-
+## 6 
+## RECOMENDACIONES DE SEGURIDAD 
+Se han iniciado diversas actuaciones y proyectos para mejorar la seguridad del paso a nivel de Kyrö desde 1996. Los proyectos se han centrado en la construcción de un paso inferior en el paso a nivel de Kyrö o en dotar al mismo de una instalación con doble barrera. Una instalación con doble barrera impediría el paso por debajo de las barreras, pero no eliminaría los problemas de tráfico derivados de la proximidad de los enlaces viales del centro ni los posibles situaciones de peligro que siguen existiendo. La comisión de investigación no emite nuevas recomendaciones, sino que respalda la rápida construcción del paso inferior para resolver los problemas de tráfico del actual paso a nivel de Kyrö. 
+### Otras observaciones y propuestas 
+Si no puede utilizarse una comunicación de forma fijada y a pesar de que el despachador a distancia puede conceder el permiso de salida al maquinista únicamente mediante un señal, deberían desarrollarse otros métodos para garantizar la transmisión de la comunicación entre el control de tráfico y los maquinistas. 
+La Autoridad de Seguridad del Tráfico, Liikennevirasto, VR-Yhtymä Oy, Hätäkeskuslaitos, el Centro de actividad económica, tráfico y medio ambiente de Finlandia Meridional y el municipio de Pöytyä han emitido sus declaraciones sobre las recomendaciones. Las declaraciones íntegras figuran en el anexo 1. Se han realizado modificaciones y precisiones en el informe de investigación en función de las declaraciones y comentarios. 
+## 6 
+## SÄKERHETSREKOMMENDATIONER 
+Flera utredningar och projekt för att förbättra säkerheten vid plankorsningen i Kyrö har startats sedan år 1996. Projekten har fokuserat på att bygga en underfartsbro vid plankorsningen eller på att förse korsningen med en anläggning med dubbla bommar. En anordning med dubbla bommar skulle göra det omöjligt att köra kring bommarna, men skulle inte eliminera de trafikproblem som orsakas av de närliggande väganslutningarna i centrum och de faror som dessa medför. Undersökningskommissionen ger inga nya rekommendationer utan understöder ett snabbt byggande av underfartsbron för att lösa trafikproblemen vid den nuvarande plankorsningen i Kyrö. 
+### Övrigt att beakta och förslag 
+Om formbunden kommunikation inte kan användas och trots att fjärrtågklareraren kan ge lokföraren avgångstillstånd enbart med hjälp av en signal, borde andra metoder utvecklas för att säkra kommunikationen mellan trafikstyrningen och lokförarna. 
+Trafiksäkerhetsverket, Trafikverket, VR Group Ab, Nödcentralverket, Närings-, trafik- och miljöcentralen i Egentliga Finland och Pöytis kommun har gett utlåtanden om rekommendationerna. De fullständiga utlåtandena finns i bilaga 1. Ändringar och preciseringar har utförts i undersökningsrapporten enligt utlåtandena och kommentarerna.
 
 ## Página 40
+
 
 ## RECOMENDACIONES DE SEGURIDAD
 Se han iniciado varios estudios y planes desde 1996 en relación con la mejora de la seguridad en el paso a nivel de Kyrö. Estas iniciativas se han centrado en la construcción de un paso inferior en el paso a nivel de Kyrö o en equiparlo con barreras dobles. Una instalación de barreras dobles impediría eficazmente cualquier maniobra más allá de las barreras, pero no remediaría los problemas de tráfico derivados de las intersecciones viarias en las cercanías ni otras posibles situaciones peligrosas derivadas de ello. La comisión de investigación no emite nuevas recomendaciones, sino que señala que debería construirse un paso inferior lo antes posible para resolver los problemas de tráfico que se encuentran actualmente en el paso a nivel.
@@ -961,8 +1018,8 @@ Martti Peräaho
 Teemu Äikäs
 Pertti Mikkonen
 
-
 ## Página 41
+
 
 ## LÄHDELUETTELO
 Seuraavat lähdeliitteet on taltioituna Onnettomuustutkintakeskuksessa:
@@ -995,43 +1052,43 @@ Liikenteenohjauksen puherekisterin purku ajalta 23.6.2010 kello 13.21.38–15.49
 12. Kyrön tasoristeyksen turvalaitoksen käyttö- ja häiriöpäiväkirja ajalta 1.1.2004–13.12.2010
 13. Asetinlaitelokitiedot ajalta 23.6.2010 kello 13.34.29–16.24.25
 
-
 ## Página 42
+
 
 
 ## Página 43
 
+
 ## Liite 1/1 (6)
 ## LAUSUNNOT
 
-
 ## Página 44
+
 
 ## Liite 1/2 (6)
 
-
 ## Página 45
 
-## Liite 1/3 (6)
-## Liite 1/3 (6)
 
+## Liite 1/3 (6)
+## Liite 1/3 (6)
 
 ## Página 46
 
-## Liite 1/4 (6)
-## Liite 1/4 (6)
 
+## Liite 1/4 (6)
+## Liite 1/4 (6)
 
 ## Página 47
 
-## Liite 1/5 (6)
-## Liite 1/5 (6)
 
+## Liite 1/5 (6)
+## Liite 1/5 (6)
 
 ## Página 48
 
-## Liite 1/6 (6)
-## Liite 1/6 (6)
 
+## Liite 1/6 (6)
+## Liite 1/6 (6)
 
 ## Página 49

@@ -10,13 +10,14 @@ chars: 127342
 ratio_longitud: 1.22
 tokens_in: 66829
 tokens_out: 59431
-verificacion: revisar
-notas_cifras: ["bloque 9: original bilingüe: se compara contra el idioma principal (CS)"]
-avisos: ["bloque 9: ratio 1.61"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 3: original bilingüe: se compara contra el idioma principal (CS)", "página 4: original bilingüe: se compara contra el idioma principal (PT)", "página 8: original bilingüe: se compara contra el idioma principal (CS)", "página 9: original bilingüe: se compara contra el idioma principal (CS)", "página 11: original bilingüe: se compara contra el idioma principal (CS)", "página 12: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -43,13 +44,13 @@ IČ: 75009561
 mail@dicr.cz
 tel.: +420 736 521 003
 
-
 ## Página 2
+
 
 El presente informe final es público y todos los hechos en él expuestos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ### 1 RESUMEN
 Fuente: Drážní inspekce
@@ -79,62 +80,51 @@ el paso a nivel con seguridad.
 No fue detectado por la Drážní inspekce ningún factor contribuyente.
 No fue detectada por la Drážní inspekce ninguna causa en el sistema de seguridad.
 
-
 ## Página 4
 
 Recomendaciones de seguridad:
-La Drážní inspekce, con base en lo dispuesto en el § 53e apartado 1 de la ley n.º 266/1994 Sb.,
-recomienda, en interés de la prevención de sucesos extraordinarios:
-Al Drážní úřad:
-en colaboración con los gestores de vías pertinentes y con el Ministerio de Transporte,
-•
-centrarse de forma sistemática, general y conforme a un plan vinculante y viable en la
-problemática de los pasos a nivel que están protegidos únicamente por cruces de aviso y
-que a la vez tienen una velocidad de vía superior a 60 km·h-1, y aumentar en ellos la
-seguridad – suprimirlos o sustituirlos por un paso a nivel destinado exclusivamente al
-tránsito peatonal, protegerlos con un sistema de señalización luminoso de paso a nivel con
-barreras, etc., y supervisar periódicamente y evaluar a continuación en qué medida se
-cumple este plan y, en relación con ello, adoptar las medidas necesarias relacionadas.
-Al Ministerio de Transporte, en colaboración con el Drážní úřad:
-iniciar la modificación y el complemento del contenido de la ley n.º 266/1994 Sb., del
-•
-decreto n.º 177/1995 Sb. y de la normativa legal pertinente en el ámbito de las vías de
-comunicación terrestre en relación con las llamadas «inspecciones conjuntas de pasos a
-nivel», en las que, como mínimo con la participación del gestor de la vía correspondiente y
-del propietario (o gestor) de la vía de comunicación terrestre (y, en su caso, también con la
-participación de un representante de la Policía de la República Checa), se evaluara de
-forma conjunta y exhaustiva en dicho lugar su seguridad conforme a criterios claramente
-establecidos, tanto desde el punto de vista del transporte ferroviario como desde el del
-transporte por carretera;
-establecer la obligación de que, en este tipo de inspecciones, se detectaran, registraran,
-•
-compararan y confirmaran los datos obtenidos sobre el paso a nivel y la vía de comunicación
-terrestre, se diera respuesta a los mismos, se tuvieran debidamente en cuenta los
-resultados y se adoptaran las medidas correspondientes, incluido el control de su
-cumplimiento, y que la documentación se conservara de manera que pudiera utilizarse en
-el futuro para actividades posteriores;
-iniciar y, mediante la modificación de la normativa legal, posibilitar que el gestor de la vía o
-•
-los propietarios de las vías de comunicación terrestre adyacentes utilicen en las inspecciones
-de pasos a nivel la llamada «auditoría de seguridad de las vías de comunicación terrestre»,
-en la que se llevaría a cabo una inspección exhaustiva centrada, sobre todo, en la
-evaluación de las repercusiones de sus características constructivas, técnicas y
-operativas y de la influencia relacionada en la seguridad del transporte por carretera y
-ferroviario, y garantizar que los resultados se tendrán debidamente en cuenta y se
-adoptarán las medidas correspondientes, incluido el control de su cumplimiento.
-Al Drážní úřad y al Městský úřad Kostelec nad Orlicí, en su condición de autoridad
-administrativa de carreteras en materia de carreteras de segunda y tercera clase y de vías
-de uso público en el territorio administrativo del municipio con competencias ampliadas
-Kostelec nad Orlicí:
-en colaboración con el gestor de la vía Správa železnic, státní organizace,
-•
-y con el Městský úřad Borohrádek, garantizar la seguridad del transporte por carretera y
-ferroviario en el paso a nivel P4875, atendiendo a la problemática de la proximidad de la
-carretera n.º III/3172 y dicho paso a nivel, atendiendo a la ubicación de la señal de
-tráfico B 11 «Prohibido el paso de vehículos a motor» tras el paso a nivel
-
+La Inspección Ferroviaria, en virtud de lo dispuesto en el § 53e apartado 1 de la Ley núm. 266/1994 Sb.,
+recomienda, en relación con la prevención de sucesos extraordinarios:
+Al Organismo Ferroviario:
+en colaboración con los operadores ferroviarios correspondientes y el Ministerio de Transporte, •
+centrarse de forma sistemática, general y conforme a un plan vinculante y viable en la problemática de los
+pasos a nivel ferroviarios que están protegidos únicamente con cruces de advertencia y en los que
+a la vez la velocidad de la línea es superior a 60 km·h-1, y aumentar en ellos la seguridad –
+suprimirlos o sustituirlos por un paso a nivel destinado exclusivamente al tránsito peatonal,
+protegerlos con una instalación de señalización de paso a nivel luminosa con barreras, etc., y
+supervisar periódicamente y evaluar posteriormente en qué medida se está cumpliendo este plan y,
+en relación con ello, adoptar las medidas relacionadas necesarias.
+Al Ministerio de Transporte en colaboración con el Organismo Ferroviario:
+iniciar la modificación y el complemento del contenido de la Ley núm. 266/1994 Sb., del Decreto núm. •
+177/1995 Sb. y de las disposiciones jurídicas correspondientes en materia de carreteras sobre las llamadas
+«inspecciones conjuntas de pasos a nivel ferroviarios», en las que al menos con la participación del
+operador ferroviario correspondiente y del propietario (o gestor) de la carretera (y, en su caso, también
+con la participación de un representante de la Policía de la República Checa) se evaluara de forma
+conjunta y exhaustiva en dicho lugar su seguridad conforme a criterios claramente establecidos, tanto
+desde el punto de vista del transporte ferroviario como desde el del transporte por carretera;
+establecer la obligación de que, en este tipo de inspecciones, se recabaran, registraran, •
+compararan y confirmaran los datos recogidos sobre el paso a nivel y la carretera, se
+diera respuesta a los mismos y los resultados se tuvieran debidamente en cuenta, adoptándose
+las medidas correspondientes, incluida la verificación de su cumplimiento, y conservar la
+documentación de manera que pueda utilizarse en el futuro en las actividades posteriores;
+iniciar y permitir, mediante la modificación de las disposiciones jurídicas, que el operador ferroviario o •
+los propietarios de las carreteras adyacentes utilicen en las inspecciones de pasos a nivel ferroviarios
+las llamadas «auditorías de seguridad de carreteras», en las que se realizara una inspección
+exhaustiva centrada especialmente en la evaluación de las repercusiones de sus características
+constructivas, técnicas y operativas y de la influencia relacionada con la seguridad del transporte
+por carretera y ferroviario, y garantizar que los resultados se tengan debidamente en cuenta y se
+adopten las medidas correspondientes, incluida la verificación de su cumplimiento.
+Al Organismo Ferroviario y a la Oficina Municipal de Kostelec nad Orlicí, en su condición de
+órgano administrativo de carreteras en materia de carreteras de clase II y III y de vías de uso
+público en el territorio administrativo del municipio con competencias ampliadas de Kostelec nad Orlicí:
+en colaboración con el operador ferroviario Správa železnic, organización estatal, •
+y la Oficina Municipal de Borohrádek, garantizar la seguridad del transporte por carretera y ferroviario
+en el paso a nivel P4875, atendiendo a la problemática de la proximidad mutua entre la carretera
+III/3172 y dicho paso a nivel, y a la ubicación de la señal de tráfico B 11 «Prohibido el paso de
+todo vehículo a motor» tras el paso a nivel
 
 ## Página 5
+
 
 en el límite del bosque adyacente y atendiendo a los problemas con las longitudes de visibilidad
 para el vehículo de carretera más lento Lp en dicho paso a nivel.
@@ -143,8 +133,8 @@ advertir de la falta de documentación de la construcción del paso a nivel P487
 las circunstancias, convendría elaborar con base en una levantamiento geodésico, en el que
 se verificaran los datos reales del paso a nivel P4875.
 
-
 ## Página 6
+
 
 ### RESUMEN
 21 de julio de 2020, 16:43 (14:43 GMT).
@@ -197,8 +187,8 @@ en la ley n.º 266/1994 Sb., en el decreto n.º 177/1995 Sb. y en la normativa l
 pertinente en el ámbito de las vías de comunicación terrestre. La seguridad del paso a nivel
 sería evaluada de forma exhaustiva conforme a los criterios claramente establecidos, desde el punto de vista
 
-
 ## Página 7
+
 
 del transporte ferroviario y por carretera durante la inspección conjunta del paso a nivel, como
 mínimo con la participación del IM y del propietario (o gestor) de la vía de comunicación
@@ -240,6 +230,7 @@ con base en un levantamiento geodésico en el que se verificaran los datos reale
 
 ## Página 8
 
+
 # Índice
 1 RESUMEN.......................................................................................................................3
 SUMMARY.............................................................................................................................6
@@ -280,8 +271,8 @@ SUMMARY.........................................................................
 4.2 Vehículos ferroviarios e instalaciones técnicas...........................................................................38
 4.2.1 Factores o consecuencias derivados del diseño de los vehículos ferroviarios, de la infraestructura ferroviaria o de las instalaciones técnicas.....................................................................38
 
-
 ## Página 9
+
 
 4.2.2 Factores o consecuencias derivados de la instalación y de la puesta en servicio de los vehículos ferroviarios, de la infraestructura ferroviaria o de las instalaciones técnicas......................................38
 4.2.3 Factores o consecuencias relacionados con los fabricantes de vehículos ferroviarios u otros proveedores de productos ferroviarios............................................................................38
@@ -310,8 +301,8 @@ SUMMARY.........................................................................
 5.3 Hallazgos complementarios.......................................................................................................44
 6. RECOMENDACIONES DE SEGURIDAD....................................................................................44
 
-
 ## Página 10
+
 
 ### Lista de siglas y símbolos utilizados
 COP
@@ -367,8 +358,8 @@ pasaje a nivel ferroviario
 žst.
 estación de ferrocarril
 
-
 ## Página 11
+
 
 ### Lista de siglas de la legislación, normas y normativa interna utilizadas
 ley núm. 13/1997 Sb.
@@ -419,23 +410,25 @@ Organización y realización de inspecciones y mediciones en
 los ferrocarriles nacionales y regionales», en la redacción
 vigente hasta el 31. 3. 2020
 
-
 ## Página 12
 
 SŽDC S4/3
-normativa interna del gestor de infraestructura SŽ, «SŽDC (ČSD)
-S4/3 Reglamento para la gestión y el mantenimiento de los pasajes
-a nivel y pasos para peatones ferroviarios», en la redacción
-vigente en el momento de la producción del suceso extraordinario
-Instrucción núm. 4/2010
-instrucción metodológica del gestor de infraestructura SŽ, «Instrucción
-del gestor de infraestructura para garantizar la realización de las
-inspecciones conjuntas de pasajes a nivel y pasos para peatones
-ferroviarios y de las vías terrestres adyacentes núm. 4/2010», en la
-redacción vigente en el momento de la producción del suceso
-extraordinario
+norma interna del gestor de la vía SŽ, «SŽDC (ČSD)
+S4/3 Norma para la gestión y el mantenimiento de los
+pasos a nivel y cruces peatonales ferroviarios»,
+en la versión vigente en el momento de producirse el
+suceso excepcional
+Instrucción n.º 4/2010
+instrucción metodológica del gestor de la vía SŽ,
+«Instrucción del gestor de la vía para garantizar la
+realización de las inspecciones conjuntas de los pasos
+a nivel y cruces peatonales ferroviarios y de las vías
+de comunicación terrestre adyacentes n.º 4/2010»,
+en la versión vigente en el momento de producirse el
+suceso excepcional
 
 ## Página 13
+
 
 ### 2 INVESTIGACIÓN Y SUS CONTEXTO
 ### 2.1 Decisión de iniciar la investigación
@@ -472,8 +465,8 @@ y con el decreto núm. 376/2006 Sb.
 ### 2.6 Descripción del nivel de colaboración ofrecido por los sujetos participantes
 El nivel de colaboración con los representantes de los sujetos participantes en la SU fue estándar.
 
-
 ## Página 14
+
 
 ### 2.7 Descripción de la investigación, los métodos y las técnicas utilizados para acreditar los hechos
 y los hallazgos consignados en el informe
@@ -521,8 +514,8 @@ y Borohrádek.
 Coordenadas GPS:
 50.0852317N, 16.1111025E.
 
-
 ## Página 15
+
 
 ### 3.1.3 Descripción del lugar del suceso
 El paso a nivel ferroviario de vía única P4875 en el pk 14,025 entre la est. Čermná nad Orlicí
@@ -558,8 +551,8 @@ ferroviarios del tren Sp 1797 y el automóvil de uso comercial participante. A c
 la infraestructura ferroviaria y la vía terrestre de servicio adyacente al paso a nivel.
 Estado de la infraestructura:
 
-
 ## Página 16
+
 
 en el paso a nivel, la velocidad máxima permitida (de línea) de los vehículos ferroviarios era de 100 km·h -1,
 •
@@ -587,8 +580,8 @@ en el triángulo de visibilidad a la izquierda en el sentido de marcha de los ve
 •
 Borohrádek (es decir, en el campo de visibilidad de la conductora del automóvil de uso comercial respecto al tren entrante
 
-
 ## Página 17
+
 
 Sp 1797) se midió una longitud de visibilidad para el vehículo terrestre más lento
 Lp = 530 m;
@@ -618,8 +611,8 @@ el tren Sp 1797 se aproximaba al paso a nivel por el lado derecho desde el punto
 •
 de uso comercial;
 
-
 ## Página 18
+
 
 la superficie de la vía terrestre y de la calzada del paso a nivel estaba seca y sin baches, la pendiente
 •
@@ -678,6 +671,7 @@ en el momento de la aparición de la SU, en el automóvil se encontraban la cond
 
 ## Página 19
 
+
 el automóvil se encontraba en su posición final tras el MU atravesado en la vía férrea,
 •
 encastrado en el frontal del HDV del tren Sp 1797 a una distancia de 320 m por detrás del punto
@@ -718,8 +712,8 @@ Fig. n.º 4: Vista de la señalización del paso a nivel en la dirección desde 
 levantamiento posterior del lugar del MU)
               Fuente: DI
 
-
 ## Página 20
+
 
 Fig. n.º 5: Vista de la línea en la dirección hacia la est. Borohrádek (en el levantamiento posterior del lugar del MU)           Fuente: DI
 ### 3.1.4 Fallecidos, heridos y daños materiales
@@ -744,8 +738,8 @@ En el MU se produjo daño en:
 • automóvil utilitario 180 000 Kč; *)
 • objetos transportados y equipaje de los viajeros 0 Kč.
 
-
 ## Página 21
+
 
 En el MU el daño causado en los objetos transportados, el equipaje y otros bienes
 ### se cuantificó en un total de 180 000 Kč. *)
@@ -779,8 +773,8 @@ El transporte ferroviario se prestaba en virtud de un contrato celebrado entre e
 | Porcentaje de frenado ausente (%): | 0 | 4 . |  |  |
 | Velocidad máxima permitida del tren en el lugar del MU (km·h-1): | 100 | 5 . |  |  |
 
-
 ## Página 22
+
 
 Modo de frenado:
 I.
@@ -802,8 +796,8 @@ En el tramo de línea en cuestión no se superó durante la circulación del tre
 ### 3.1.8 Descripción de las partes pertinentes de la infraestructura y del sistema de señalización
 El paso a nivel P4875 se encuentra en el tramo entre las estaciones Čermná nad Orlicí y Borohrádek, en la línea de vía única electrificada a 3 kV CC. La línea, en la dirección de marcha del tren Sp 1797, es decir, desde la est. Borohrádek, desde el km 14,612 transcurre en una curva de radio 930 m, que finaliza en el km 14,475 y a la que sigue un cambio de vía. La vía directa comienza en el km 14,409 y finaliza en el km 13,156. La línea, en la dirección de marcha del tren Sp 1797, es decir, desde la est. Borohrádek, desde el km 14,609 hasta el km 14,097 desciende con una pendiente de 0,13 ‰ y desde el km 14,097 hasta el km 13,296 asciende con una pendiente de 0,35 ‰. El tramo entre las estaciones Čermná nad Orlicí y Borohrádek no está equipado con instalación de señalización en vía, la circulación de los trenes se asegura mediante comunicación telefónica.
 
-
 ## Página 23
+
 
 En el lugar del MU el operador de la infraestructura SŽ ha fijado una velocidad de línea de 100 km·h-1. El correspondiente indicador de velocidad, en la dirección de marcha del tren Sp 1797, está situado en el km 15,700, es decir, a una distancia de 1 675 m antes del paso a nivel en cuestión.
 El paso a nivel P4875 es de vía única. La estructura del paso a nivel era de aglomerado asfáltico. Según la documentación del operador de la infraestructura SŽ, en el paso a nivel se realizó la última llamada «reparación significativa» en el año 2018.
@@ -828,8 +822,8 @@ Resumen de las explicaciones aportadas por los empleados del operador de la infr
 ◦desde la est. Borohrádek circulaba por un tramo boscoso, cuando antes del paso a nivel vio llegar un automóvil por la izquierda;
 ◦antes del paso a nivel emitía repetidamente la señal «Pozor» (atención) con la bocina de la locomotora;
 
-
 ## Página 24
+
 
 ◦cuando divisó un automóvil de color blanco que circulaba por la izquierda hacia el paso a nivel, reaccionó comenzando a emitir con la bocina de la locomotora la señal «Pozor» (atención), hasta la travesía del paso a nivel;
 ◦también comenzó a frenar de forma rápida con el tren;
@@ -851,6 +845,7 @@ El maquinista del tren Sp 1797 incorporó al turno el 21. 7. 2020 en Chocen, par
 
 ## Página 25
 
+
 partía con el tren Sp 1797, en dirección Borohrádek y Čermná nad Orlicí. Desde la est. Borohrádek partía el tren Sp 1797 a las 16:41:04 h, desde una distancia de 2 258 m antes del lugar de origen del SU. El maquinista, con el tren, tras la puesta en marcha aumentó gradualmente la velocidad de forma continua y con su marcha se aproximaba al paso a nivel P4875.
 A las 16:42:40 h circulaba el tren Sp 1797 a una velocidad de 94 km·h-1 y se encontraba en el pk 14,594, es decir, en el lugar donde estaba situada la señal de advertencia con la indicación «Písen» (Silba). En este instante el frente del tren se encontraba a 569 m del lugar de origen del SU.
 A las 16:42:54 h circulaba el tren Sp 1797 a una velocidad de 95 km·h-1 y el maquinista dio, antes del paso a nivel, por primera vez con la bocina de la locomotora la señal audible «Atención», cuya emisión finalizó en el mismo segundo. El frente del tren se encontraba a 211 m del lugar de origen del SU.
@@ -871,8 +866,8 @@ A continuación, el maquinista vio llegar desde la izquierda por una vía de ser
 | • 17:32 h | llegada del HZS SŽ UPA Česká Třebová al lugar del SU; , , |
 | • 19:46 h | llegada del inspector de DI al lugar del SU e inicio de la inspección; |
 
-
 ## Página 26
+
 
 20:22 h el inspector de DI presente dio su autorización para la liberación de la vía;
 •
@@ -899,8 +894,8 @@ El maquinista, al conducir un tren (DV), en el sentido del art. 35 apartado 1 le
 El no haber iniciado la emisión de la señal audible «Atención» ya desde la señal de advertencia con la indicación «Písen» (Silba) es una deficiencia, al igual que su no repetición y la emisión de la señal «Atención» con una duración inferior a 2 s. Atendiendo a la causa del origen del SU, la constatación indicada no puede valorarse directamente en relación causal con su origen, porque en la situación actual no es posible confirmar ni descartar si la emisión oportuna de la señal «Atención» habría tenido influencia en el desarrollo del suceso.
 El maquinista con el tren Sp 1797 se aproximaba al paso a nivel desde la est. Borohrádek, cuando antes del paso a nivel vio llegar desde la izquierda un automóvil. Reaccionó a este hecho comenzando a emitir con la bocina de la locomotora la señal audible «Atención», hasta la travesía del paso a nivel. Este proceder puede calificarse, en la situación dada, como estándar. El maquinista accionó así el botón de la bocina de la locomotora a las 16:42:59 h, a una velocidad de 95 km·h-1, encontrándose el frente del tren a una distancia de 77 m del lugar de origen del SU. Con un tiempo de reacción general del maquinista ante la situación dada, que se sitúa en el valor de aprox. 1,5 s, el maquinista pudo haber divisado por primera vez el automóvil utilitario a una distancia de 117 m del lugar de origen del SU, y esto
 
-
 ## Página 27
+
 
 en el tiempo 16:42:58 h. A la vez, el maquinista activó el frenado de acción rápida, que fue registrado en el tiempo 16:43:01 h. La velocidad y el desarrollo de la marcha del automóvil utilitario no fueron registrados, en el velocímetro bloqueado figuraba el valor «10 km·h-1». El frontal del automóvil utilitario recorrió, desde la línea de las cruces de advertencia hasta el momento del impacto, aprox. 6 m. Atendiendo a la velocidad instantánea de circulación del tren Sp 1797 y a su distancia de frenado, ya no era posible evitar el impacto.
 En general, un paso a nivel, según el art. 4 apartado 1 del Decreto núm. 177/1995 Sb., puede estar protegido únicamente por cruces de advertencia si la velocidad de trazado en el tramo adyacente de la línea hacia dicho paso a nivel no es superior a 60 km·h-1 y su momento de tráfico no supera el valor de 10 000. El paso a nivel P4875 en la actualidad sigue protegido únicamente por cruces de advertencia, aunque en el tramo adyacente de la línea la velocidad de trazado es de 100 km·h-1. El paso a nivel P4875, según la documentación del gestor de la infraestructura SŽ, contenida en el llamado «Hoja de registro del paso a nivel», y concretamente en el documento «Hoja núm. 1 – Datos resumidos del paso a nivel», fue establecido el 30. 12. 1969 (constatación del DI, ver más abajo), es decir, aún antes de la entrada en vigor de la (primera) norma sectorial OPT 73 6380, que según el art. 114 letra b) no permitía diseñar «pasos a nivel no protegidos» «en líneas con una velocidad máxima permitida Vž superior a 60 km/h». En esta época, el término «paso a nivel no protegido» designaba un paso a nivel no equipado con un dispositivo de enclavamiento del paso a nivel que advirtiera con la antelación suficiente a los usuarios de la vía pública de que se aproximaba a dicho paso a nivel un vehículo ferroviario. Dicho paso a nivel estaba equipado únicamente con cruces de advertencia (nota: el término «paso a nivel no protegido» utilizado de esta forma fue sustituido, por la normativa legal vigente en la época del origen del SU correspondiente, por la expresión «paso a nivel protegido únicamente por cruces de advertencia»).
@@ -909,6 +904,7 @@ A pesar de que el gestor de la infraestructura SŽ no dispone, para la obra de i
 Según la documentación presentada por el gestor de la infraestructura SŽ, las condiciones de visibilidad en el paso a nivel P4875 fueron valoradas de acuerdo con el reglamento SŽDC S4/3. El reglamento interno del gestor de la infraestructura SŽDC S4/3 fue derogado el 26. 3. 2019 por la Resolución SŽDC RH-6/2018-GŘ (en adelante, la Resolución). Sin embargo, según el art. 2 Disposiciones transitorias de dicha Resolución, el mantenimiento de las condiciones de visibilidad y la valoración del modo de protección de los pasos a nivel, en los que el último procedimiento administrativo se celebró antes del 1. 1. 1970, se realiza de acuerdo con la normativa legal vigente en la época de su origen, salvo que su modificación haya sido ordenada por una medida legalmente válida hasta la próxima reconstrucción. Los criterios para la valoración de
 
 ## Página 28
+
 
 las condiciones de visibilidad en los pasos a nivel puestos en servicio antes del 1. 1. 1970 se seguirán evaluando conforme a la norma SŽDC S4/3, hasta la próxima reconstrucción del paso a nivel.
 Esta norma, en la parte «VI. DISPOSICIONES TRANSITORIAS» y en el artículo n.º 68, clasifica las líneas ferroviarias, desde el punto de vista de la protección de los pasos a nivel, en cuatro grupos, siendo el grupo II el de velocidad de línea de hasta 100 km·h-1. Atendiendo a la disposición del § 88 del decreto n.º 177/1995 Sb. y en vista de las disposiciones transitorias de la Decisión de derogación de la norma interna SŽDC S4/3, es necesario evaluar las condiciones de visibilidad en el paso a nivel ferroviario conforme al capítulo VI. de la norma SŽDC S4/3.
@@ -924,8 +920,8 @@ De lo anterior se deduce que las normas, incluso después del 1. 1. 1970, contem
 Como se deduce del texto de la norma sectorial OPT 73 6380, ya el 27. 12. 1967 era evidente que una velocidad de línea superior a 60 km·h-1 en pasos a nivel ferroviarios protegidos únicamente con una cruz de advertencia era un problema, y por ello, en general, no deben establecerse nuevos pasos a nivel de este tipo.
 De los conocimientos prácticos de MU en las colisiones en pasos a nivel es totalmente evidente que cuanto mayor es la velocidad de los vehículos ferroviarios en el momento de la colisión, más graves son las consecuencias de este suceso, pudiendo dichas consecuencias afectar no solo a los participantes en el tráfico en las carreteras, sino también a las personas que viajan en los vehículos ferroviarios. Esto se debe a las leyes físicas que actúan en estos sucesos excepcionales. En general, el principal problema de los PP (pasos a nivel) protegidos únicamente con VK (cruces de advertencia) es que en ellos la seguridad se garantiza exclusivamente mediante el factor humano (principalmente a través del conductor, pero también parcialmente a través del maquinista), el cual tiene, sin embargo, sus límites (véase también el punto 4.3.5 ZZ). Como se desprende del Informe de evaluación psicológica, desde el punto de vista de las reacciones y el comportamiento del conductor de un vehículo de motor por carretera, los pasos a nivel protegidos únicamente con VK, con una velocidad de línea de 100 km·h-1, son de alto riesgo. Debido al bajo número de estos pasos a nivel (aproximadamente el 1 % del total de pasos a nivel protegidos únicamente con VK), los conductores no tienen por qué
 
-
 ## Página 29
+
 
 presuponer esta alta velocidad de los vehículos ferroviarios y, por tanto, pueden estimar inadecuadamente el tiempo necesario para cruzar el paso a nivel de forma segura (lo que, sin embargo, no les exime de la obligación de cumplir la disposición correspondiente de la ley n.º 361/2000 Sb., es decir, que no deben entrar en el paso a nivel ferroviario en absoluto si se ve o se oye un vehículo ferroviario en aproximación), o bien pueden tropezar con sus límites en cuanto a la percepción de ciertos estímulos (por ejemplo, visión o audición deterioradas, desconocimiento de la traza de la línea, etc.), siendo necesario que la mencionada velocidad de los vehículos ferroviarios requiera longitudes de visibilidad considerables (del orden de cientos de metros).
 Debido a la ausencia de documentación de proyecto verificada, no es posible determinar de manera inequívoca qué parámetros tenía el paso a nivel en cuestión a fecha 30. 12. 1969 (que es la fecha de su establecimiento según la documentación del operador de la vía SŽ) y cuál era en él la velocidad de línea. Tampoco queda claro si para el paso a nivel en cuestión se hubiera emitido alguna excepción o medida legalmente válida de las autoridades competentes. A este respecto, puede mencionarse, por ejemplo, el texto del preámbulo de la norma sectorial OPT 73 6380, donde se indica: «Las excepciones a esta norma las autoriza el Ministerio de Transporte de acuerdo con las autoridades centrales y organismos competentes».
@@ -936,8 +932,8 @@ Además, tampoco es evidente cómo cambiaron los parámetros del paso a nivel fe
 ### PP P4875
 Fig. n.º 6: Fotografía aérea de archivo (año 1937) del paso a nivel ferroviario P4875, que se encuentra en la esquina inferior derecha   Fuente: https://lms.cuzk.cz
 
-
 ## Página 30
+
 
 De los mapas aéreos mencionados en la Fig. n.º 6 y n.º 7 se deduce que el espacio del paso a nivel y el entorno de la vía se mantenían anteriormente en mayor medida y, por ejemplo, no había árboles. Si esto estaba relacionado con la protección contra incendios en las vías con tracción de vapor o si se debía a las condiciones de visibilidad, ya no es posible averiguarlo a posteriori.
 ##  Dirección est. 
@@ -948,8 +944,8 @@ Fig. n.º 7: Fotografía aérea de archivo (año 1963) del paso a nivel ferrovia
 Las condiciones de visibilidad en el paso a nivel ferroviario P4875 son evaluadas actualmente por SŽ conforme a la parte correspondiente de la norma SŽDC S4/3 (capítulo VI. Disposiciones transitorias), cuando, por ejemplo, no contempla la colocación de la señal de tráfico vertical P 6 «¡Alto, ceda el paso!» delante de pasos a nivel protegidos únicamente con cruces de advertencia. El operador de la vía SŽ se encuentra así en la situación de que, por un lado, evalúa las condiciones de visibilidad en el paso a nivel conforme a la mencionada parte de la norma SŽDC S4/3, pero, por otro, se le aplican parcialmente también las disposiciones de la norma técnica actualmente vigente ČSN 73 6380, y no solo en relación con la colocación de la señal de advertencia con la indicación «¡Pite!», sino también en relación con la colocación de las señales de tráfico P 6 «¡Alto, ceda el paso!». Otro problema de la parte correspondiente de la norma SŽDC S4/3 es que no es inequívoca y deja margen para numerosas excepciones.
 Si evaluamos el modo de protección del paso a nivel ferroviario P4875 conforme al capítulo VI. Disposiciones transitorias de esta norma, entonces este paso a nivel ferroviario debe estar protegido con un dispositivo de señalización luminoso de paso a nivel, pero en «casos especiales» (no especificados más detalladamente) puede protegerse únicamente con cruces de advertencia.
 
-
 ## Página 31
+
 
 SŽ realiza desde 2010 las denominadas «inspecciones conjuntas» regulares, que tiene establecidas mediante su procedimiento tecnológico (Instrucción n.º 4/2010), habiendo fijado mediante dicha instrucción también su contenido. Este tipo de inspecciones de pasos a nivel ferroviarios desempeña en la explotación de las vías un papel insustituible (lo que se confirmó tras su implantación generalizada desde 2010), especialmente en lo que respecta al mantenimiento y la mejora de la seguridad en los pasos a nivel y, con ello, a la prevención de sucesos excepcionales en las vías. A pesar de que este tipo de inspecciones se realice en las vías explotadas por SŽ, es necesario incorporarlo expresamente a las disposiciones legales de manera que, en el ámbito de todos los operadores de vías de la República Checa, se proceda de forma esencialmente uniforme. Al regular esta cuestión, los destinatarios de esta norma jurídica adquirirán la seguridad suficiente para la realización de esta actividad y se evitarán así nuevas complicaciones, cuando, por ejemplo, algunos representantes de los sujetos competentes se nieguen a participar en ellas (véase, por ejemplo, el ZZ n.º de expediente: 6-2803/2015/DI, colisión del tren Os 5449 con un tren de carretera en el paso a nivel ferroviario P3540 en la est. Šluknov).
 Mediante la mencionada modificación de las disposiciones legales debería establecerse también claramente la obligación de que, en dichas denominadas «inspecciones conjuntas», es necesario, entre otros:
@@ -963,14 +959,15 @@ Que un enfoque global de este tipo pueda ser significativo desde el punto de vis
 
 ## Página 32
 
+
 evaluar de forma integral la ubicación de la señal de tráfico vertical B 11 «Prohibido el paso de todo vehículo motorizado» (véase el punto 3.1.9 de esta ZZ). La herramienta jurídica adecuada que puede utilizarse para esta evaluación integral de la seguridad en la zona en cuestión ya se utiliza en el ámbito de las carreteras y está recogida en la normativa jurídica; se trata del instituto denominado «auditoría de seguridad de las carreteras», que se encuentra recogido en la Ley n.º 13/1997 Sb. Asimismo, es necesario que los resultados de esta inspección se tengan debidamente en cuenta y que se adopten las medidas pertinentes.
 No existe documentación de proyecto verificada en el procedimiento de construcción para el paso a nivel P4875, por lo que el operador ferroviario SŽ presentó para el paso a nivel únicamente la denominada «Hoja de registro del paso a nivel». No obstante, este documento se actualiza continuamente, de acuerdo con los hechos constatados en cada momento. Durante la investigación de la MU en cuestión, por ejemplo, SŽ modificó en este documento el ángulo de cruce de la carretera con la vía, en cinco grados (del valor de 100° al valor de 95°). Con ello se modificaron automáticamente los valores de las longitudes de visibilidad para el vehículo rodado más lento y, en relación con ello, la ubicación de la señal de advertencia con la indicación «Pite». La DI midió en el paso a nivel sus parámetros determinantes y, a continuación, los comparó, entre otros, con los datos contenidos en la denominada «Hoja de registro del paso a nivel». En esta comparación se constató, entre otras cosas, una diferencia fundamental en el valor de Lp, donde en un cuadrante en dirección a la est. Borohrádek, SŽ indicaba un valor de 980 m, que no se alcanzaba en dicho lugar. Según la declaración de SŽ, se trataba de una errata (lo cual es evidente). Incluso después de la corrección de este documento por parte de SŽ, los valores indicados no coinciden con los hallazgos de la DI, a lo que la DI llama la atención, ya que es importante tenerlo en cuenta en la actividad posterior de todos los sujetos a los que se dirige la recomendación de seguridad.
 En la investigación de la MU en cuestión, la Inspección Ferroviaria partió de los datos constatados y medidos directamente en el lugar, cuando la longitud Dp determinante para el cálculo de las longitudes de visibilidad tenía el valor de 6,6 m, lo que corresponde al valor del ángulo de cruce de 100°. Sobre la base de otros hallazgos (por ejemplo, las modificaciones en la «Hoja de registro del paso a nivel» y su nueva discrepancia con los hallazgos de la Inspección Ferroviaria, la denominada «reparación significativa» del paso a nivel ferroviario en cuestión, que se llevó a cabo en 2018, la comparación de mapas aéreos del paso a nivel ferroviario, etc.), es necesario elaborar la documentación correspondiente de la obra (tal como prevé la Ley n.º 183/2006 Sb.) y, a partir de ella, determinar los valores resultantes de las magnitudes determinantes para garantizar la seguridad en el paso a nivel en cuestión, de modo que correspondan a la realidad, debiendo preceder a ello su correspondiente levantamiento geodésico y la obtención de todos los datos necesarios.
 La señal de advertencia con la indicación «Pite» en dirección desde la est. Borohrádek estaba ubicada en el pk 14,594 a una distancia de 569 m antes del paso a nivel y, con los parámetros constatados directamente en el lugar por la Inspección Ferroviaria, esta señal debería haberse ubicado a una distancia de 572 m antes del paso a nivel. La diferencia de apenas 3 m entre la ubicación medida de esta señal y la ubicación según la norma ČSN 73 6380 no puede considerarse, en el presente caso, como una deficiencia, atendiendo a la distancia de la señal de advertencia con la indicación «Pite» al paso a nivel ferroviario, cuando la diferencia medida no influye en la percepción segura de esta indicación por parte del maquinista.
 Según la documentación del operador ferroviario SŽ contenida en el documento «Hoja n.º 2 – Datos operativos y técnicos del paso a nivel en la vía n.º 1», el momento de tráfico del paso a nivel P4875 tiene el valor de 167, es decir, no supera el valor límite establecido en el apartado 1 del artículo 4 del decreto n.º 177/1995 Sb. Además, SŽ indica el valor de la intensidad del tráfico rodado de 10/24 h y la intensidad de la circulación en la línea férrea de 40 trenes/24 h. El momento de tráfico también figuraba en el documento «Registro de la inspección conjunta del paso a nivel ferroviario y de la carretera adyacente», de fecha 16. 3. 2017, donde se indicaba el valor de 103. Dado que el momento de tráfico tiene una importancia fundamental en los pasos a nivel, la DI verificó también su determinación.
 
-
 ## Página 33
+
 
 El momento de tráfico M expresa la intensidad del tráfico en el paso a nivel. El momento de tráfico del paso a nivel se calcula como el producto de la intensidad del tráfico rodado en la carretera multiplicada por diez horas y la intensidad media de la circulación en la línea férrea en 24 horas.
 ### M = 10 . Is . (P V + P P + P PMD)
@@ -994,8 +991,8 @@ La longitud de visibilidad para detenerse Dz en la circulación desde la carrete
 En el triángulo de visibilidad a la izquierda en el sentido de circulación de los vehículos ferroviarios desde la est. Borohrádek (es decir, en el campo de visibilidad de la conductora del vehículo utilitario hacia el tren entrante Sp 1797) se midió una longitud de visibilidad Lp = 530 m. La longitud de visibilidad Lp calculada, para la velocidad de línea de 100 km·h-1 y Dp 6,6 m, es de 572 m.
 Si comparamos la longitud de visibilidad Lp calculada de este modo con la longitud de visibilidad alcanzada en el cuadrante determinante (530 m), podemos concluir que el vehículo rodado (la
 
-
 ## Página 34
+
 
 combinación de vehículos) de longitud máxima admisible de 22 m no puede, con los valores alcanzados de este modo, abandonar a tiempo la banda de peligro del paso a nivel ferroviario.
 El valor de la longitud de visibilidad Lp, para el vehículo rodado participante en la MU, cuya longitud es de 5 m, considerando los parámetros del paso a nivel P4875 anteriormente mencionados, es de 232 m. Según los resultados de la medición realizada en la inspección del lugar de la MU, a la conductora del vehículo utilitario que circulaba desde la carretera III/3172 hacia el paso a nivel P4875 se le garantizó una visibilidad suficiente de la vía en dirección al tren entrante desde la est. Borohrádek.
@@ -1006,6 +1003,7 @@ En el ŽP P4875, como medida más adecuada se plantea la determinación de una r
 En el lugar del paso a nivel P4875 debe ejecutarse la obra «Modernización del tramo de línea Týniště nad Orlicí (fuera) – Choceň», para la que actualmente se está elaborando la documentación para la obtención de la decisión de ordenación territorial. Según la comunicación de SŽ, la ejecución de la obra puede preverse en los años 2025 a 2028. En el marco de la modernización, el paso a nivel P4875 debe ser doblado y protegido con un dispositivo de enclavamiento de paso a nivel luminoso con barreras. Pero hasta la fecha de ejecución
 
 ## Página 35
+
 
 de esta construcción es necesario garantizar la seguridad en el paso a nivel, previo acuerdo con todos los sujetos interesados.
 En la investigación no se constató infracción de las funciones y obligaciones del gestor de la vía SŽ y del transportista ČD en relación causal con la aparición del MU.
@@ -1035,8 +1033,8 @@ da) antes de los pasos a nivel (o de los pasos a las islas andenes) con postes d
 En la investigación se constató infracción de la normativa legal, de las normas internas y de las normas técnicas relativas a las funciones y obligaciones del gestor de la vía SŽ, al margen de la relación causal con la aparición del MU:
 § 125 apartado 1 de la ley núm. 183/2006 Sb. – no se elaboró la documentación de la ejecución real de la construcción del paso a nivel P4875, o no se elaboró su documentación simplificada (ficha de la construcción):
 
-
 ## Página 36
+
 
 «En los casos en que la documentación de la construcción no se elaboró en absoluto, no se conservó o no se encuentra en el estado adecuado, el propietario de la construcción está obligado a elaborar la documentación de la ejecución real de la construcción.»;
 artículo 78 de la norma SŽDC S2/3 – insuficiente realización de la auditoría interna, no detección de la deficiencia en la introducción de datos incorrectos en la llamada «Ficha del paso a nivel», relativos a los valores de las longitudes de visibilidad y al cálculo del momento de tráfico:
@@ -1052,8 +1050,8 @@ En la investigación no se constató infracción de las funciones y obligaciones
 ### 4.1.4 Autoridades nacionales de seguridad y Agencia Ferroviaria de la Unión Europea
 La autoridad nacional de seguridad es la Oficina Ferroviaria (Drážní úřad), que de acuerdo con la ley núm. 266/1994 Sb. es la autoridad administrativa dependiente del Ministerio de Transporte. Su función es, en particular, el ejercicio de la supervisión estatal en materia de vías ferroviarias y en materia de autoridad de construcción, el ejercicio de la autoridad de construcción especial para las construcciones de vía y las construcciones sobre la vía, la aprobación de vehículos ferroviarios nuevos y modernizados y de dispositivos técnicos designados, así como la tramitación de infracciones. La obligación de la Oficina Ferroviaria es comunicar, en el plazo de 12 meses desde la fecha de publicación
 
-
 ## Página 37
+
 
 del informe final que contenga las recomendaciones de seguridad dirigidas a la misma, a la Inspección Ferroviaria qué medida ha adoptado en relación con dicha recomendación de seguridad.
 La función de la Agencia Ferroviaria de la Unión Europea es, además de garantizar, en el marco de sus competencias, que se mantenga y, en la medida de lo posible, se aumente de forma sistemática la seguridad de los ferrocarriles, entre otras, la emisión, renovación, suspensión y modificación de certificados únicos de seguridad, la limitación de su vigencia o su cancelación, en cuestión en la que coopera con las autoridades nacionales de seguridad; asimismo, emite autorizaciones para la comercialización de vehículos ferroviarios y de tipos de vehículos, y está facultada para renovar, modificar, suspender o cancelar las autorizaciones que haya emitido. La Agencia evalúa asimismo los proyectos de normativa nacional, etc.
@@ -1074,8 +1072,8 @@ En la investigación se constató infracción de las funciones y obligaciones de
 •
 «Antes de un paso a nivel ferroviario, el conductor debe proceder con especial precaución, en particular, comprobar si puede cruzar el paso a nivel ferroviario de forma segura»;
 
-
 ## Página 38
+
 
 § 28 apartado 5 de la ley núm. 361/2000 Sb.:
 •
@@ -1098,6 +1096,7 @@ En la investigación no se constataron factores relacionados con el sujeto respo
 En la investigación no se constataron otros factores relacionados con los vehículos ferroviarios, la infraestructura ferroviaria o los dispositivos técnicos.
 
 ## Página 39
+
 
 ### 4.3 Factores humanos
 ### 4.3.1 Características humanas e individuales
@@ -1127,82 +1126,81 @@ el ser humano, como componente del sistema de transporte, es responsable o corre
 •
 de aproximadamente el 95 % de todos los fallos del sistema;
 
-
 ## Página 40
 
-se puede constatar en general que, en la situación actual, el tipo de excepcionalidad en
+puede afirmarse en general que, en la situación actual, el tipo de incidente grave
 •
-cuestión, es decir, las colisiones en pasos a nivel, se repetirá también en el futuro, debido al comportamiento (actuación) erróneo del ser humano;
-en general, se puede decir que el sistema de transporte será seguro (sin colisiones (accidentes))
+objeto de estudio, es decir, las colisiones en pasos a nivel ferroviarios, se repetirá
+también en el futuro, debido a un comportamiento (actuación) erróneo del ser humano;
+en general puede decirse que el sistema de transporte será seguro (sin colisiones
 •
-únicamente si se construye de tal manera que, aunque el ser humano cometa un error [por
-naturaleza humana, las personas cometen y seguirán cometiendo errores (se trata de errores
-intencionados (están motivados principalmente por otros factores que no la seguridad (por
-ejemplo, comodidad, emoción)) y errores no intencionados (elección de una actuación que
-está motivada por la seguridad, pero no se ejecuta correctamente))], el sistema sea capaz de
-corregir dicho error y no se produzca la colisión (accidente);
-a partir de lo anterior, desde el punto de vista del factor humano, como prevención concreta
+(accidentes)) solo si se construye de tal manera que, aunque el ser humano cometa
+un error [por naturaleza humana, las personas cometen errores y seguirán
+cometiéndolos (se trata de errores deliberados (están motivados principalmente
+por otros factores que no la seguridad (por ejemplo, comodidad, excitación)) y
+errores no deliberados (elección de una actuación que está motivada por la
+seguridad, pero que no se ejecuta correctamente))], el sistema sea capaz de corregir
+dicho error y no se produzca la colisión (accidente);
+con base en lo anterior, desde la perspectiva del factor humano, como prevención
 •
-para evitar el tipo de excepcionalidad en cuestión, es decir, las colisiones en pasos a nivel,
-se recomienda:
-◦la eliminación del número de pasos a nivel, el aumento de su grado de protección y la
-dotación de los pasos a nivel existentes con barreras;
-◦eliminar por completo los pasos a nivel protegidos únicamente con cruces de
-advertencia, en los que la velocidad de la vía sea superior a 60 km·h-1;
-◦proceder de manera que, en los pasos a nivel que sigan protegidos únicamente con
-cruces de advertencia, la velocidad de la vía sea la más baja posible;
-◦reforzar la concienciación de las personas que conducen vehículos ferroviarios sobre la
-importancia y la necesidad de dar la señal «Atención» antes de los pasos a nivel, sobre la
-resolución de situaciones no estándar en los pasos a nivel (por ejemplo, el conductor de un
-vehículo a motor por carretera no es consciente de la aproximación de un vehículo
-ferroviario) y sobre los pasos a nivel que pueden ser problemáticos desde el punto de vista
+concreta ante la aparición del tipo de incidente grave objeto de estudio, es decir,
+las colisiones en pasos a nivel ferroviarios, se recomienda:
+◦la eliminación del número de pasos a nivel ferroviarios, el aumento del grado de
+su protección y la dotación de los pasos a nivel existentes con barreras
+automáticas;
+◦eliminar por completo los pasos a nivel ferroviarios protegidos únicamente con
+cruces de advertencia, en los que la velocidad de la vía sea superior a 60 km·h-1;
+◦proceder de manera que, en los pasos a nivel ferroviarios que sigan protegidos
+únicamente con un cruce de advertencia, la velocidad de la vía sea la más baja
+posible;
+◦reforzar la concienciación de las personas que conducen vehículos ferroviarios
+sobre la importancia y la necesidad de emitir la señal «Atención» antes de los
+pasos a nivel ferroviarios, sobre la resolución de situaciones no estándar en los
+pasos a nivel ferroviarios (por ejemplo, el conductor de un vehículo de motor
+terrestre no es consciente de la aproximación de un vehículo ferroviario) y sobre
+los pasos a nivel ferroviarios que pueden ser problemáticos desde el punto de vista
 de la seguridad;
-◦la creación e instalación de tecnologías modernas en vehículos ferroviarios y vehículos a
-motor por carretera que permitieran alertar al conductor sobre la aproximación de un
-vehículo ferroviario en dirección de colisión.
-Se puede constatar que el comportamiento de la conductora del vehículo comercial antes del
-paso a nivel estuvo influido por su error no intencionado y probablemente también
-inconsciente, que el sistema de transporte no fue capaz de corregir.
-### 4.4 Mecanismos de retroalimentación y mecanismos de control, incluida la gestión de riesgos
-y la garantía de seguridad, y procedimientos de seguimiento
+◦la creación e instalación de tecnologías modernas en los vehículos ferroviarios y
+vehículos de motor terrestre que permitieran alertar al conductor de la aproximación
+de un vehículo ferroviario en dirección de colisión.
+Puede afirmarse que el comportamiento de la conductora del vehículo utilitario antes
+del paso a nivel ferroviario estuvo influido por su error no deliberado y probablemente
+también inconsciente, que el sistema de transporte no fue capaz de corregir.
+### 4.4 Mecanismos de retroalimentación y mecanismos de control, incluida la gestión
+### de riesgos y la garantía de seguridad, y procedimientos de seguimiento
 ### 4.4.1 Condiciones pertinentes del marco regulatorio
-Las condiciones pertinentes del marco regulatorio están establecidas en los Reglamentos de la Unión Europea, en la Ley núm. 266/1994 Sb. y en los decretos de aplicación.
-4.4.2 Procedimientos, métodos, contenido y resultados de las actividades de evaluación de riesgos y seguimiento que realiza cualquiera de las partes implicadas
-En los procedimientos, métodos, contenido y resultados de las actividades de evaluación de riesgos y seguimiento, relacionados con las circunstancias de la causación de la MU en cuestión, no se detectaron deficiencias.
-
+Las condiciones pertinentes del marco regulatorio están establecidas en los Reglamentos
+de la Unión Europea, la Ley núm. 266/1994 Sb. y los decretos de aplicación.
+4.4.2 Procedimientos, métodos, contenido y resultados de las actividades de evaluación
+de riesgos y seguimiento realizadas por cualquiera de las partes implicadas
+No se detectaron deficiencias en los procedimientos, métodos, contenido y resultados
+de las actividades de evaluación de riesgos y seguimiento relacionados con las
+circunstancias de aparición del incidente grave objeto de estudio.
 
 ## Página 41
 
-### 4.4.3 Sistema de garantía de seguridad de los transportistas y gestores de infraestructura implicados
-En el sistema de garantía de seguridad adoptado por el gestor de infraestructura SŽ y el transportista ČD, relacionado con las circunstancias de la causación de la MU en cuestión, no se detectaron deficiencias.
-### 4.4.4 Sistema de gestión de los sujetos responsables del mantenimiento de los vehículos
-ferroviarios y de los talleres de mantenimiento
-El sistema de gestión de los sujetos responsables del mantenimiento de los vehículos ferroviarios y de los talleres de mantenimiento no guardaba relación con la causación de la MU.
+### 4.4.3 Sistema de garantía de la seguridad de los transportistas y gestores de infraestructura participantes
+En el sistema de garantía de la seguridad adoptado por el gestor de la infraestructura SŽ y el transportista ČD, relacionado con las circunstancias de la aparición de la MU en cuestión, no se detectaron deficiencias.
+### 4.4.4 Sistema de gestión de las entidades responsables del mantenimiento del material rodante
+y de los talleres de mantenimiento
+El sistema de gestión de las entidades responsables del mantenimiento del material rodante y de los talleres de mantenimiento no guardaba relación con la aparición de la MU.
 ### 4.4.5 Resultados de la supervisión realizada por las autoridades nacionales de seguridad
-Atendiendo a los factores y circunstancias de la causación de la MU detectados, la supervisión de la autoridad de seguridad no guarda relación con la MU en cuestión.
-A petición de los resultados de la supervisión estatal realizada por la Oficina de Ferrocarriles y de las medidas adoptadas por la misma en relación con la MU indicada, se constató:
-El DI, durante la investigación del 23. 10. 2020, presentó a la Oficina de Ferrocarriles una
+Atendiendo a los factores y circunstancias detectados de la aparición de la MU, la supervisión de la autoridad de seguridad no guarda relación con la MU en cuestión.
+Solicitados los resultados de la supervisión estatal realizada por el Drážní úřad y las medidas adoptadas por este en relación con la MU indicada, se constató lo siguiente:
+DI, durante la investigación del 23. 10. 2020, presentó al Drážní úřad una propuesta para
 •
-propuesta para la eliminación de árboles y otra vegetación que empeoraban la visibilidad en el paso a nivel P4875 hacia la vía y los vehículos ferroviarios que se aproximaban en dirección desde la est. Borohrádek, de conformidad con el § 10 apartado 2 de la Ley núm. 266/1994 Sb., como autoridad administrativa ferroviaria, para su adopción de medidas.
-Posteriormente, la Oficina de Ferrocarriles requirió al gestor de infraestructura SŽ la
-eliminación del arbolado que empeoraba las condiciones de visibilidad en dicho lugar. A
-esto, SŽ respondió posteriormente con la información de que, tras la MU en cuestión, se
-había organizado una tala masiva de árboles que empeoraban las condiciones de visibilidad
-en dicho espacio. Posteriormente, la Oficina de Ferrocarriles realizó el 12. 11. 2020 una
-supervisión estatal en el paso a nivel P4875 como reacción a la MU en cuestión, sin
-detectar anomalías;
-La Oficina de Ferrocarriles realiza las supervisiones estatales según el plan anual de
+la eliminación de árboles y otra vegetación que empeoraba la visibilidad hacia la vía y los vehículos ferroviarios que se aproximaban en el cruce P4875, en dirección desde la est. Borohrádek, de conformidad con el § 10 apart. 2 de la ley núm. 266/1994 Sb., como autoridad administrativa ferroviaria para la adopción de la medida correspondiente.
+El Drážní úřad solicitó a continuación al gestor de la infraestructura SŽ la eliminación del arbolado que empeoraba las condiciones de visibilidad en dicho lugar. SŽ respondió a ello con la información de que, tras la MU en cuestión, se organizó una tala masiva de árboles que empeoraban las condiciones de visibilidad en dicho espacio. Posteriormente, el Drážní úřad realizó el 12. 11. 2020 en el cruce P4875 una supervisión estatal como reacción a la MU en cuestión, sin detectar anomalías;
+El Drážní úřad realiza las supervisiones estatales conforme al plan anual de supervisiones estatales, que
 •
-supervisiones estatales, que actualiza en caso necesario (por ejemplo, debido a una MU).
-No obstante, en el caso de las supervisiones estatales centradas en la conducción de vehículos ferroviarios y la escolta de trenes, su actividad no se extiende a los tramos intermedios entre estaciones. En el transportista ČD, la Oficina de Ferrocarriles realizó, en el período del 1. 1. 2019 al 21. 7. 2020, un total de 7 supervisiones estatales centradas en la conducción de vehículos ferroviarios. En este período realizó además 19 supervisiones estatales centradas en la verificación de la documentación del maquinista y la actividad de los equipos de tren. Todas las supervisiones estatales fueron sin deficiencias detectadas.
-### 4.4.6 Aprobaciones, certificados e informes de evaluación otorgados por la agencia, las
-autoridades nacionales de seguridad u otros sujetos de evaluación de la conformidad
-El gestor de infraestructura SŽ explotó la vía en base a la autorización administrativa vigente y el certificado de seguridad del gestor de infraestructura. El transportista ČD explotó el transporte ferroviario en base a la licencia vigente y el certificado del transportista.
+actualiza en caso necesario (p. ej., por motivo de una MU). No obstante, en el caso de las supervisiones estatales centradas en la conducción del material rodante y en la escolta de los trenes, su actividad no se extiende a los tramos intermedios individuales. En el transportista ČD, el Drážní úřad realizó, en el periodo del 1. 1. 2019 al 21. 7. 2020, un total de 7 supervisiones estatales centradas en la conducción del material rodante. En este periodo realizó además 19 supervisiones estatales centradas en la comprobación de la documentación del maquinista y en la actividad de las tripulaciones de tren. Todas las supervisiones estatales fueron realizadas sin detección de deficiencias.
+### 4.4.6 Aprobaciones, certificados y dictámenes de evaluación emitidos por la agencia, las autoridades nacionales de seguridad u otras entidades de evaluación de la conformidad
+El gestor de la infraestructura SŽ explotaba la infraestructura en virtud de la autorización administrativa vigente y del certificado de seguridad del gestor de la infraestructura. El transportista ČD explotaba el transporte ferroviario en virtud de la licencia vigente y del certificado del transportista.
 ### 4.4.7 Otros factores sistémicos
 En la investigación no se detectaron otros factores sistémicos.
 
-
 ## Página 42
+
 
 ### 4.5 Sucesos anteriores de naturaleza similar
 El DI registra en el período del 1. 1. 2008 hasta la causación de la MU en cuestión 857 casos similares (colisiones de tren con SMV en pasos a nivel protegidos únicamente con VK), en los que fallecieron 56 personas, 337 personas resultaron lesionadas y se produjo un daño de 185 917 812 Kč.
@@ -1224,6 +1222,7 @@ El DI no detectó ningún factor contribuyente.
 El DI no detectó ninguna causa sistémica.
 
 ## Página 43
+
 
 ### Resumen del análisis y de las conclusiones respecto a las causas de la
 ocurrencia
@@ -1272,8 +1271,8 @@ del tren n.º 1797 y se resolvieron de acuerdo con el derecho laboral. Estas
 deficiencias también se incluyeron en el contenido de la formación regular de los
 maquinistas en octubre y noviembre de 2020.
 
-
 ## Página 44
+
 
 ### 5.3 Doplňující zjištění
 U provozovatele dráhy SŽ:
@@ -1323,59 +1322,34 @@ iniciovat změnu a doplnění obsahu zákona č. 266/1994 Sb., vyhlášky č. 17
 •
 Sb. a příslušných právních předpisů v oblasti pozemních komunikací o tzv.
 
-
 ## Página 45
 
-„společné prohlídky železničních přejezdů“, kdy by minimálně za účasti daného
-provozovatele dráhy a vlastníka (resp. správce) pozemní komunikace (případně i za
-účasti zástupce Policie České republiky) byla na tomto místě společně komplexně
-zhodnocena jeho bezpečnost dle jasně stanovených kritérií, a to jak z hlediska
-drážní dopravy, tak i z hlediska dopravy silniční;
-stanovit povinnost, aby při tomto druhu prohlídek byly zjištěny, zaznamenány,
+«inspecciones conjuntas de pasos a nivel ferroviarios», en las que, al menos con la participación del gestor ferroviario correspondiente y del propietario (o gestor) de la vía pública (y, en su caso, también con la participación de un representante de la Policía de la República Checa), se evaluara de forma conjunta y exhaustiva su seguridad en dicho lugar de acuerdo con criterios claramente establecidos, tanto desde el punto de vista del transporte ferroviario como del transporte por carretera;
+establecer la obligación de que, en este tipo de inspecciones, se recopilaran, registraran,
 •
-porovnány a potvrzeny zjištěné údaje o železničním přejezdu a pozemní
-komunikaci, bylo na ně reagováno a výsledky byly řádně zohledněny a byla přijata
-odpovídající opatření, a to včetně kontroly jejich plnění, a dokumentaci uchovávat
-tak, že ji bude možné v budoucnu využít při navazující činnosti;
-iniciovat a úpravou právních předpisů umožnit provozovateli dráhy nebo vlastníkům
+compararan y confirmaran los datos recabados sobre el paso a nivel y la vía pública, se diera respuesta a los mismos, se tuvieran debidamente en cuenta los resultados y se adoptaran las medidas correspondientes, incluida la verificación de su cumplimiento, y conservar la documentación de manera que pueda utilizarse en el futuro en las actividades posteriores;
+iniciar y permitir, mediante la modificación de la normativa, que el gestor ferroviario o los
 •
-přilehlých pozemních komunikací využít při prohlídkách železničních přejezdů tzv.
-„audit bezpečnosti pozemních komunikací“, při kterém by byla provedena
-komplexní prohlídka zaměřená zejména na posouzení dopadů jejich stavebních,
-technických a provozních vlastností a souvisejícího vlivu na bezpečnost silniční
-a drážní dopravy, a zaručit, že výsledky budou řádně zohledněny a budou přijata
-odpovídající opatření, včetně kontroly jejich plnění.
-Drážnímu úřadu a Městskému úřadu Kostelec nad Orlicí, jakožto silničnímu správnímu
-úřadu ve věcech silnic II. a III. třídy a veřejně přístupných účelových komunikací na
-správním území obce s rozšířenou působností Kostelec nad Orlicí:
-ve spolupráci s provozovatelem dráhy Správou železnic, státní organizací,
-•
-a Městským úřadem Borohrádek zajistit bezpečnost silniční a drážní dopravy na
-železničním přejezdu P4875, a to s ohledem na problematiku vzájemné blízkosti
-silnice č. III/3172 a daného železničního přejezdu, s ohledem na umístění dopravní
-značky B 11 „Zákaz vjezdu všech motorových vozidel“ za železničním přejezdem
-na hranici přilehlého lesa a s ohledem k problémům s rozhledovými délkami pro
-nejpomalejší silniční vozidlo Lp na tomto železničním přejezdu.
-Drážní inspekce dále v zájmu bezpečnosti na dráhách považuje za nutné upozornit na
-chybějící dokumentaci stavby železničního přejezdu P4875, kterou by bylo vzhledem
-k okolnostem vhodné pořídit na základě geodetického zaměření, při kterém by byly
-ověřeny skutečné údaje o železničním přejezdu P4875.
-### RECOMENDACIONES DE SEGURIDAD
-Dirigidas a la Autoridad Nacional de Seguridad Checa (la NSA):
-en cooperación con los gestores de la infraestructura pertinentes y el Ministerio de
-•
-Transporte, se recomienda que la NSA se centre de forma sistemática, general y
-según un plan vinculante y viable en la cuestión de los pasos a nivel que solo
-están protegidos por cruces de advertencia y que a la vez tienen una velocidad de
-circulación superior a 60 km·h-1, y aumente su seguridad – cancelarlos o
-sustituirlos por pasos a nivel destinados exclusivamente al tránsito peatonal,
-protegerlos con un sistema de señalización luminoso de paso a nivel con barreras,
-etc., y supervisar periódicamente y evaluar posteriormente en qué medida se está
-implementando este plan y adoptar las medidas relacionadas necesarias en
-conexión con los resultados de la evaluación.
+propietarios de las vías públicas adyacentes utilicen en las inspecciones de pasos a nivel el denominado «auditoría de seguridad de las vías públicas», en la que se llevaría a cabo una inspección exhaustiva centrada especialmente en la evaluación de las repercusiones de sus características constructivas, técnicas y operativas y de la influencia relacionada en la seguridad del transporte por carretera y ferroviario, y garantizar que los resultados se tengan debidamente en cuenta y se adopten las medidas correspondientes, incluida la verificación de su cumplimiento.
 
+A la Oficina Ferroviaria y a la Oficina Municipal de Kostelec nad Orlicí, como autoridad administrativa de carreteras en materia de carreteras de clase II y III y vías de uso público de servicio en el territorio administrativo del municipio con competencias ampliadas de Kostelec nad Orlicí:
+
+en colaboración con el gestor ferroviario Správa železnic, organización estatal, y con la
+•
+Oficina Municipal de Borohrádek, garantizar la seguridad del transporte por carretera y ferroviario en el paso a nivel P4875, teniendo en cuenta la problemática de la proximidad mutua entre la carretera III/3172 y dicho paso a nivel, la ubicación de la señal de tráfico B 11 «Prohibido el paso de todo vehículo a motor» tras el paso a nivel, en el límite del bosque adyacente, y los problemas con las longitudes de visibilidad para el vehículo por carretera más lento Lp en dicho paso a nivel.
+
+La Inspección Ferroviaria, además, en interés de la seguridad en las vías, considera necesario señalar la falta de documentación de la construcción del paso a nivel P4875, que sería conveniente elaborar, dadas las circunstancias, sobre la base de una medición geodésica, en la que se verificaran los datos reales del paso a nivel P4875.
+
+### RECOMENDACIONES DE SEGURIDAD
+
+Dirigidas a la Autoridad Nacional de Seguridad Checa (la ANS):
+
+en colaboración con los gestores de infraestructura pertinentes y el Ministerio de
+•
+Transporte, recomendamos que la ANS se centre de forma sistemática, exhaustiva y de acuerdo con un plan vinculante y viable en la cuestión de los pasos a nivel que solo están protegidos por cruces de advertencia y, al mismo tiempo, la velocidad de la línea en los mismos es superior a 60 km/h, y aumente su seguridad: eliminarlos o sustituirlos por pasos a nivel destinados exclusivamente a peatones, protegerlos con un sistema de señalización luminosa intermitente de paso a nivel con barreras, etc., y supervisar periódicamente y evaluar posteriormente cómo se está implementando dicho plan, adoptando las medidas necesarias relacionadas en relación con los resultados de la evaluación.
 
 ## Página 46
+
 
 Dirigidas al Ministerio de Transporte de la República Checa en cooperación con la NSA:
 iniciar la modificación y el complemento de las «inspecciones conjuntas de los

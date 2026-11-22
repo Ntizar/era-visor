@@ -10,13 +10,14 @@ chars: 128478
 ratio_longitud: 1.28
 tokens_in: 56906
 tokens_out: 39938
-verificacion: revisar
-notas_cifras: ["bloque 1: original bilingüe: se compara contra el idioma principal (EN)", "bloque 3: cifras cortas: 10/179", "bloque 4: cifras cortas: 7/92", "bloque 9: original bilingüe: se compara contra el idioma principal (CS)"]
-avisos: ["bloque 9: ratio 1.82"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 3: original bilingüe: se compara contra el idioma principal (CS)", "página 5: original bilingüe: se compara contra el idioma principal (CS)", "página 6: original bilingüe: se compara contra el idioma principal (CS)", "página 10: original bilingüe: se compara contra el idioma principal (CS)", "página 11: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -39,13 +40,13 @@ IČ: 75009561
 mail@dicr.cz
 tel.: +420 736 521 003
 
-
 ## Página 2
+
 
 Este informe final es público y todos los hechos en él expuestos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ### 1 RESUMEN
 Fuente: Drážní inspekce
@@ -68,8 +69,8 @@ No fue detectado por la Drážní inspekce ningún factor contribuyente.
 No fue detectada por la Drážní inspekce ninguna causa sistémica.
 No fue emitida por la Drážní inspekce ninguna recomendación de seguridad.
 
-
 ## Página 4
+
 
 ### SUMMARY
 27th June 2022, 9:56 (7:56 GMT).
@@ -104,8 +105,8 @@ Systemic factor:
 none.
 Recommendation: not issued.
 
-
 ## Página 5
+
 
 # Índice
 1 RESUMEN........................................................................................................................3
@@ -147,8 +148,8 @@ SUMMARY.........................................................................
 4.2 Vehículos ferroviarios e instalaciones técnicas.......................................................42
 4.2.1 Factores o consecuencias derivados del diseño de los vehículos ferroviarios, de la infraestructura ferroviaria o de las instalaciones técnicas............................42
 
-
 ## Página 6
+
 
 4.2.2 Factores o consecuencias derivados de la instalación y de la puesta en servicio de los vehículos ferroviarios, de la infraestructura ferroviaria o de las instalaciones técnicas............................................................................................42
 4.2.3 Factores o consecuencias relacionados con los fabricantes de vehículos ferroviarios u otros proveedores de productos ferroviarios...................................43
@@ -178,6 +179,7 @@ SUMMARY.........................................................................
 ANEXOS............................................................................................................................48
 
 ## Página 7
+
 
 ### Lista de abreviaturas y símbolos utilizados
 BOZP
@@ -248,8 +250,8 @@ servicio médico de emergencias
 žst.
 estación ferroviaria
 
-
 ## Página 8
+
 
 ### Lista de abreviaturas de disposiciones legales, normas y normativa interna utilizadas
 ley núm. 262/2006 Sb
@@ -301,10 +303,10 @@ ocurrencia de la ocurrencia extraordinaria
 SŽDC Ob1 parte II
 normativa interna del explotador del ferrocarril SŽ, «SŽDC Ob1 parte II
 Emisión de permisos de acceso a locales no accesibles al público» en la redacción válida en el momento de la
-ocurrencia de la ocurrencia extraordinaria 
-
+ocurrencia de la ocurrencia extraordinaria
 
 ## Página 9
+
 
 TNŽ 34 3109
 norma técnica ferroviaria TNŽ 34 3109 «Reglamentos de
@@ -312,8 +314,8 @@ seguridad para la actividad en la catenaria y en sus proximidades en los ferroca
 de ámbito nacional, regionales y en vías particulares», en la redacción válida en el momento de la
 ocurrencia de la ocurrencia extraordinaria
 
-
 ## Página 10
+
 
 ### 2 INVESTIGACIÓN Y SUS RELACIONES
 ### 2.1 Decisión de iniciar la investigación
@@ -356,8 +358,8 @@ declaraciones de las personas participantes;
 •
 reuniones con la SÚIP y el CPS en materia de seguridad laboral.
 
-
 ## Página 11
+
 
 ### 2.8 Descripción de las dificultades y problemas concretos surgidos durante la investigación
 Durante la investigación de la MU no surgieron dificultades ni problemas que influyeran en el
@@ -397,10 +399,10 @@ Para dividir la catenaria en tramos independientes servía el seccionador n.º 6
 de categoría 3 K2002 con puesto de operación JOP con señales luminosas mutuamente
 dependientes. El tramo intermedio Pardubice – Kostěnice estaba equipado en ambas vías de trazado
 con una TZZ de categoría 3 (bloque automático electrónico bidireccional de tres indicaciones ABE-1 con condición
-de bloqueo completa). 
-
+de bloqueo completa).
 
 ## Página 12
+
 
 ## Lugar de la MU
 Fig. n.º 1:  Esquema del lugar de la ocurrencia de la MU    
@@ -429,8 +431,8 @@ n.º 12 y n.º 20, en el km 304,966;
 la plataforma era de balasto, hundida, limpia. Carril tipo R 65, traviesas de hormigón tipo SB 6, fijación en
 soportes nervurados;
 
-
 ## Página 13
+
 
 •
 en la vía de enlace entre las agujas n.º 12 y n.º 20, a la derecha en el sentido de la marcha hacia
@@ -470,6 +472,7 @@ estaban girados aprox. 90° respecto a su estado original;
 
 ## Página 14
 
+
 •
 entre el final de la maniobra y la aguja n.º 16 se encontró, fijada al hilo de contacto, una barra de cortocircuito. El empleado de SEE Hradec Králové en el lugar del accidente declaró que esta barra se instaló una vez producido el accidente con el fin de asegurar el puesto de trabajo para las labores de rescate y despeje.
 Fig. n.º 3: Vista de toda la maniobra tras la producción del accidente
@@ -489,8 +492,8 @@ a la derecha de la locomotora, en el pk 304,983, se situó la señal portátil �
 •
 la locomotora estaba equipada con un registrador de velocidad Hasler&Bern, tipo RT 13, n.º 004 436;
 
-
 ## Página 15
+
 
 •
 sobre la plataforma de carga del primer vehículo (desde la locomotora), además de otras piezas desmontadas de la catenaria situadas en la parte delantera, se encontraban depositados dos mástiles de catenaria, que habían sido retirados antes de la producción del accidente;
@@ -518,29 +521,28 @@ ambas órdenes no estaban provistas de la firma del empleado de EŽP. Los trabaj
 •
 en el accidente resultó herido un empleado de EŽP que se encontraba en la cesta de trabajo.
 
-
 ## Página 16
 
-Fig. n.º 4: Vista de la posición de la locomotora tras la producción del accidente                                               Fuente: DI
+Obr. č. 4: Vista de la posición de la HDV tras el origen de la MU                                               Fuente: DI
 Condiciones meteorológicas:
 horario diurno, despejado, +30°C, visibilidad no reducida.
 Datos geográficos:
-terreno llano de la estación de ferrocarril.
-En el lugar del accidente se estaban realizando trabajos de reconstrucción de la estación de Pardubice y la circulación se encontraba en régimen limitado. Según ROV n.º 53121, desde el 24 de junio de 2022 estaba en curso la etapa F, en la que se habían excluido de la vía las SK 13.ª, 13a.ª y 15.ª, el extremo de la 1.ª TK en dirección Kostěnice, su parte desde el punto de empalme de la aguja n.º 12 hasta las señales S11a, S13a y S15. Además, bajo tensión, las SK 5.ª, 11.ª, 13.ª, 13a.ª y 15.ª. El 27 de junio de 2022 a las 10:00 h debía comenzar la etapa H, en la que debía excluirse de la vía la SK 1c y bajo tensión las SK 1.ª, 1a., 1c. y 3.ª.
+terreno llano de la estación ferroviaria.
+En el lugar de la MU se estaban realizando obras de reconstrucción de la est. Pardubice y el servicio se encontraba en régimen limitado. Según la ROV n.º 53121, desde el 24 de junio de 2022 transcurría la fase F, en la que se habían excluido de la vía las SK 13., 13a. y 15., la cabeza de la TK 1 en dirección Kostěnice, su parte desde el punto de medida de la aguja n.º 12 hasta las señales S11a, S13a y S15. Asimismo, se habían excluido de la tensión las SK 5., 11., 13., 13a. y 15. El 27. 6. 2022 a las 10:00 h debía comenzar la fase H, en la que se debía excluir de la vía la SK 1c y de la tensión las SK 1., 1a., 1c. y 3.
 ### 3.1.4 Fallecimientos, lesiones y daños materiales
-El accidente dio lugar a:
+En la MU se produjo:
 •
-lesión en la salud de un empleado de EŽP.
-Al transportista no le se le causó ningún daño en el accidente.
+perjuicio para la salud de un empleado de EŽP.
+Al transportista no se le causó ningún daño con la MU.
 El gestor de la infraestructura cuantificó el daño en:
 •
 instalaciones de la infraestructura
-     13 788 CZK.
+     13 788 Kč.
 No se produjo daño en las cosas transportadas, el equipaje, el medio ambiente ni en otros bienes.
-### En el accidente el daño total se cuantificó en 13 788 CZK. 
-
+### Con la MU, el daño total se cuantificó en 13 788 Kč.
 
 ## Página 17
+
 
 ### 3.1.5 Descripción de otras consecuencias, incluido el impacto del suceso en las actividades regulares de los sujetos participantes
 Como consecuencia de la producción del accidente, el 27 de junio de 2022 se produjo una limitación de la circulación en la estación de Pardubice desde las 9:56 h hasta las 15:25 h.
@@ -572,8 +574,8 @@ El transportista de la maniobra y CPS – empleador del empleado lesionado era E
 El transporte ferroviario se prestaba en virtud de un contrato celebrado entre el gestor de la infraestructura SŽ y el transportista EŽP el 28 de marzo de 2019, con efectos desde la fecha de publicación en el registro de contratos el 10 de abril de 2019.
 El CPS, que realizaba trabajos en el lugar del accidente, formaba parte de la cadena de contratistas de la obra de infraestructura denominada «Modernización del nudo ferroviario de Pardubice», cuyo adjudicante y ordenante, mediante licitación pública, era SŽ (detalles en el capítulo 4.1.7 de esta ZZ).
 
-
 ## Página 18
+
 
 ### 3.1.7 Descripción de los vehículos ferroviarios y sus composiciones, incluidos los números de registro
 | Maniobra: |  | Composición de la maniobra: |  | Régimen de frenado: |
@@ -591,10 +593,10 @@ en el segundo vehículo Sps416 84 54 4719 035-4 estaba instalada la superestruct
 •
 el titular de todos los vehículos era EŽP.
 Fig. n.º 5: Grúa de vía ŽDJ 5/3.1 con superestructura de grúa AD 10                                Fuente: DI
-La locomotora 742 015-1, en el momento de la producción del accidente, estaba equipada con un dispositivo de registro automático de datos – tipo registrador de velocidad mecánico Hasler&Bern, tipo RT–13 n.º D04 436 con tira registradora de velocidad con capa de carbono. 
-
+La locomotora 742 015-1, en el momento de la producción del accidente, estaba equipada con un dispositivo de registro automático de datos – tipo registrador de velocidad mecánico Hasler&Bern, tipo RT–13 n.º D04 436 con tira registradora de velocidad con capa de carbono.
 
 ## Página 19
+
 
 De los datos registrados se desprende:
 •
@@ -635,6 +637,7 @@ El lugar del accidente, desde el punto de vista de la parte de infraestructura r
 
 ## Página 20
 
+
 MU no lo sabía y trabajaba en la determinación de la causa de la caída masiva y en la delimitación del lugar que provocaba la actuación de las protecciones de sobrecorriente:
 •
 9:56:51 h
@@ -666,66 +669,62 @@ maquinista de la unidad de maniobras
 ◦mientras estaban detenidos, comenzó a escribir el registro de explotación;
 ◦aproximadamente a las 9:57 h se escuchó un estruendo y varios golpes más procedieron de la catenaria caída (fundida) sobre la locomotora;
 
-
 ## Página 21
 
-◦desde la ventana vio a un trabajador de EŽP ardiendo y temblando tendido en el suelo de la cesta de trabajo, que a continuación fue bajado y extinguido por los demás trabajadores de EŽP;
-◦a las 9:57 h llamó al ZZS y a continuación se puso en contacto con el jefe de estación debido a la desconexión del suministro, ya que la catenaria caída sobre la locomotora seguía aún bajo tensión;
-◦tras la desconexión de la TV aseguró la composición por orden del HZS contra el arrastre y abandonó el puesto con el fin de prestar declaración y someterse a la prueba de alcoholemia;
-◦a continuación actuó en colaboración con la PČR y la DI;
-◦tras la finalización de la investigación de la MU continuó en el turno aproximadamente a partir de las 15:00 h.
+◦ a través de la ventana vio a un trabajador de EŽP ardiendo y temblando, tendido en el suelo de la cesta de trabajo, que fue posteriormente retirado y extinguido por otros trabajadores de EŽP;
+◦ a las 9:57 h llamó al ZZS y a continuación se puso en contacto con el jefe de estación debido al corte de alimentación, ya que el hilo de contacto caído sobre la locomotora seguía aún bajo tensión;
+◦ tras el corte de la TV aseguró la composición contra el arrastre por instrucción del HZS y abandonó su puesto con el fin de prestar declaración y someterse a la prueba de alcoholemia;
+◦ a continuación actuó en colaboración con la PČR y la DI;
+◦ tras la finalización de la investigación, el MU continuó en su turno aproximadamente a partir de las 15:00 h.
 •
 maquinista de la unidad de maniobras
-  – Registro oficial de la explicación prestada a la PČR:
-◦estaba empleado como maquinista en Východočeské dráhy, que tienen un acuerdo con EŽP. En el marco de este acuerdo fue enviado como maquinista a la reconstrucción de la estación de Pardubice;
-◦el 27 de junio de 2022 tenía turno desde las 6:30 h hasta las 18:30 h. A la HDV tenía acoplados todavía dos vagones. En un vagón había una grúa ferroviaria y en el otro solo una plataforma con material. La grúa era el segundo vagón desde la locomotora;
-◦en cuanto a los trabajos en el lugar, se ocupa únicamente del movimiento de los vagones. En lo demás, en la reconstrucción no hace nada. De todo eso se encargan los obreros de EŽP;
-◦al lugar donde se produjo la lesión llegó con los vagones unos dos o tres minutos antes de que esta ocurriera. Fue aproximadamente a las 9:52 h. Detuvo la HDV en el lugar y la aseguró con el freno directo. Esto significa que no puede ocurrir que la HDV se mueva;
-◦a continuación se fue a escribir el registro de turno. De pronto escuchó golpes y sobre la «máquina» le cayó la línea de tracción;
-◦cuando miró por la ventana, vio a un obrero tendido en la cesta de la grúa, temblando y con la ropa ardiendo;
-◦llamó a la ambulancia y además tuvo que permanecer en el puesto del maquinista, porque debido a la línea caída no podía salir;
-◦además indicó que toda su actividad queda registrada en la tira registradora de velocidad, que entregó a los investigadores;
-◦descarta que en el momento del origen de la MU se hubiera movido toda la composición;
-◦en cuanto a si alguno de los postes estaba inclinado, no lo notó, porque se estaba dedicando a la operación de la HDV.
+  – Registro oficial de la declaración prestada ante la PČR:
+◦ estaba empleado como maquinista en los Ferrocarriles de Bohemia Oriental (Východočeské dráhy), que tienen un acuerdo con EŽP. En el marco de dicho acuerdo fue enviado como maquinista para la reconstrucción de la estación de Pardubice;
+◦ el 27. 6. 2022 tenía turno desde las 6:30 h hasta las 18:30 h. Tenía acoplados al HDV todavía dos vagones. En un vagón había una grúa ferroviaria y en el otro solo una plataforma con material. La grúa era el segundo vagón desde la locomotora;
+◦ en cuanto a los trabajos en el lugar, solo se ocupa del maniobrado de los vagones. En lo demás, en la reconstrucción, no hace nada. Todo eso lo tienen a su cargo los obreros de EŽP;
+◦ al lugar donde se produjo el accidente llegó con los vagones unos dos o tres minutos antes de que ocurriera el accidente. Esto fue aproximadamente a las 9:52 h. El HDV se detuvo en el lugar y lo aseguró con el freno directo. Esto significa que no puede ocurrir que el HDV se mueva;
+◦ a continuación se fue a redactar el registro del turno. De repente oyó golpes y sobre la «máquina» le cayó la línea de tracción;
+◦ cuando miró por la ventana, vio a un obrero tendido en la cesta de la grúa, temblando y con la ropa ardiendo;
+◦ llamó a la ambulancia y además tuvo que permanecer en el puesto del maquinista, porque debido a la línea caída no podía salir;
+◦ asimismo indicó que toda su actividad queda registrada en la cinta del registrador de velocidad, que entregó a los investigadores;
+◦ excluye que en el momento del MU se moviera toda la composición;
+◦ no se percató de que uno de los postes estuviera inclinado, porque estaba dedicado a la maniobra del HDV.
 •
 jefe de estación de Pardubice
   – Acta con el empleado:
-◦a la pregunta de cómo se acordó la maniobra antes del origen de la MU, respondió que el empleado de EŽP solicitó permiso para la maniobra desde la 15.ª SK hasta el punto de empalme de la aguja n.º 12. Esta maniobra se la autorizó indicando que la 1.ª SK seguía en explotación y que no estaba excluida.
+◦ a la pregunta de cómo se acordó lo relativo a las maniobras antes de la aparición del MU, respondió que el empleado de EŽP solicitó permiso para la maniobra desde la 15. SK hasta el punto de enganche de la aguja n.º 12. Esta maniobra se la autorizó indicando que la 1. SK sigue en explotación y que no está excluida.
 •
-jefe de maniobras y ZP
- ŘS
+jefe de maniobras y ZP ŘS
   – Acta con el empleado:
-◦el 27 de junio de 2022 a las 6:30 h entró en turno en Pardubice como jefe de maniobras y ZPŘS;
-
+◦ el 27. 6. 2022 a las 6:30 h se incorporó al turno en Pardubice como jefe de maniobras y ZPŘS;
 
 ## Página 22
 
-◦aproximadamente a partir de las 8:40 h comenzaron a realizar maniobras por la 15.ª SK excluida hasta el punto de empalme con la 1.ª SK, donde ejecutaban trabajos en interrupción permanente;
-◦a continuación se trasladaron al puesto de trabajo, donde a las 9:45 h se detuvieron con la HDV a la altura del seccionador y permanecieron allí detenidos;
-◦al poco se escucharon golpes repetidamente y vio arder a un trabajador de EŽP;
-◦a continuación vio al maquinista llamar al jefe de estación.
+◦aproximadamente a partir de las 8:40 h comenzaron a realizar maniobras de maniobra por la vía 15. SK excluida hasta el námezník de la 1. SK, donde realizaban trabajos en exclusión permanente;
+◦a continuación se trasladaron al puesto de trabajo, donde a las 9:45 h se detuvieron con el HDV a la altura del separador y permanecieron allí detenidos;
+◦al poco tiempo se oyeron repetidamente golpes y vio arder a uno de los trabajadores de EŽP;
+◦posteriormente vio al maquinista llamar al jefe de estación.    
 •
 operador de la cesta de trabajo 1
-  – Registro oficial de la explicación prestada a la PČR:
-◦entró en empleo el 27 de junio de 2022. Ese día debían realizar el montaje y los trabajos en la TV en la vía n.º 1;
-◦en materia de seguridad laboral fue formado al ingresar, durante septiembre de 2021 y enero de 2022;
-◦al lugar de trabajo los trasladó la locomotora de montaje, que funciona como taller móvil, equipada con una plataforma para trabajos en altura;
-◦además indicó que, tras la llegada al lugar designado, el jefe del grupo de trabajo – jefe de obra se comunicó con el departamento que gestiona la conexión y desconexión de la corriente eléctrica en la TV. Se le comunicó que la TV no debería estar bajo tensión;
-◦a continuación esperaron un rato a si alguien llegaba para traer las varillas de cortocircuito que deben conectarse a la TV durante los trabajos, pero nadie llegó y el jefe del grupo de trabajo – jefe de obra determinó que a las 10:00 h se comenzaría a trabajar prescindiendo del aseguramiento del lugar;
-◦a continuación el operador de la grúa lo llevó hasta la TV y, aparentemente por descuido, el operador de la grúa rozó con la cesta de trabajo el mástil de la TV, con lo que se soltó el cable de la línea de tracción, que cayó.
-
-El registro anterior se realizó el 23 de julio de 2022 en la unidad de quemados del Hospital Universitario Královské Vinohrady.
+  – Registro oficial de la declaración prestada ante la PČR:
+◦ingresó en el empleo el 27. 6. 2022. Ese día debían realizar el montaje y los trabajos en la TV en la vía n.º 1;
+◦recibió formación en seguridad laboral al ingresar, en septiembre de 2021 y en enero de 2022; 
+◦al lugar de trabajo les trasladó una locomotora de montaje, que funciona como taller móvil y que está equipada con una plataforma para trabajos en altura;
+◦asimismo indicó que, tras llegar al lugar designado, el jefe del grupo de trabajo – el jefe de trabajos, se comunicó con el departamento que gestiona la conexión y desconexión de la corriente eléctrica en la TV. Se le comunicó que la TV no debería estar bajo tensión;
+◦seguidamente esperaron un rato a si alguien llegaba para traer las barras de cortocircuito que deben conectarse a la TV durante los trabajos, pero nadie llegó y el jefe del grupo de trabajo – el jefe de trabajos, determinó que a las 10:00 h se empezaría a trabajar prescindiendo de la protección del lugar;
+◦seguidamente el operador de la grúa le trasladó a la TV y, aparentemente por descuido, el operador de la grúa rozó con la cesta de trabajo el mástil de la TV, y con ello se soltó el cable de la catenaria, que cayó.
+El registro anteriormente mencionado se realizó el 23. 7. 2022 en la unidad de quemaduras del Hospital Universitario Královské Vinohrady. 
 •
 operador de la cesta de trabajo 1
-  – Registro oficial de la explicación prestada a la PČR:
+  – Registro oficial de la declaración prestada ante la PČR:
 ◦estaba empleado como electricista de montaje en la empresa EŽP desde junio de 2021, siempre en el mismo puesto. Realizó todas las formaciones de ingreso y estaba plenamente capacitado para desempeñar su trabajo;
-◦aproximadamente en agosto de 2021 comenzó a trabajar en la reconstrucción de la línea de tracción en la estación de Pardubice. Allí, con todo el equipo, trabajaban por fases y de vez en cuando se desplazaban a otras obras;
-◦el día del accidente, 27 de junio de 2022, por la mañana entró en turno a las 7:00 h. Tras la entrada se celebró una formación sobre seguridad laboral y sobre lo que se haría ese día;
-◦tras la formación se dirigieron juntos a la obra y comenzaron con el trabajo asignado. Ese día debían desmontar postes de la línea de tracción junto a las vías férreas;
-◦retiraron el primer poste, que estaba a unos 4 a 5 m de distancia y carecía de línea de tracción;
-
+◦aproximadamente en agosto de 2021 comenzó a trabajar en la reconstrucción de la catenaria en la est. Pardubice. Allí, con todo el equipo, trabajaban por fases y de vez en cuando se desplazaban a otras obras;
+◦el día del accidente, 27. 6. 2022, por la mañana entró de turno a las 7:00 h. Tras el ingreso se realizó una formación sobre seguridad laboral y sobre lo que se haría ese día;
+◦tras la formación, se dirigieron juntos a la obra y comenzaron con el trabajo asignado. Ese día debían desmontar los mástiles de la catenaria junto a las vías férreas;
+◦retiraron el primer mástil, que estaba a unos 4 a 5 m de distancia y carecía de catenaria;
 
 ## Página 23
+
 
 ◦a continuación se desplazaron al segundo poste, que ya estaba junto a las vías y, además, junto a él había otro poste. El poste que debían retirar carecía de línea de tracción, pero en el poste contiguo la línea seguía presente;
 ◦cuando llegaban al lugar, notaron que el poste que debían retirar estaba inclinado sobre las vías por las que llegaban;
@@ -752,6 +751,7 @@ operador de la cesta de trabajo 1
 
 ## Página 24
 
+
 hacia arriba y un poco hacia un lado en dirección al poste de TV. Además, cree que el operador de la grúa no lo elevó demasiado alto, pero al girar se produjo el contacto del cesto con el mástil, al que estaban sujetas las cuerdas;
 ◦a la pregunta de si cree que hubo contacto de la grúa (cesto) con la parte activa de la TV, respondió que no lo cree, solo observó el arco y se desmayó;
 ◦a continuación, se le confrontó con la declaración que realizó en el Registro Oficial para la PČR, en la que indicó que «a la llegada al lugar designado, el jefe del grupo de trabajo debía comunicarse con el departamento que gestiona la conexión/desconexión de la red eléctrica en la línea de tracción. Se anunció que la línea de tracción no debería estar bajo tensión. Posteriormente, esperaron un rato a que alguien llegara para traer las varas de cortocircuito, que deben conectarse a la línea de tracción durante los trabajos, pero nadie llegó y el jefe del grupo de trabajo determinó que a las 10:00 h se empezaría a trabajar prescindiendo de la protección del lugar». A la pregunta de quién tomó la decisión de trabajar sin protección, respondió que fue el jefe de obra;
@@ -768,8 +768,8 @@ operador del cesto de trabajo 2
 ◦a continuación solo vio que el compañero que estaba a su lado empezó a arder y gritaba un poco. Lo bajaron y lo atendieron. Cómo se rompió la TV, no lo vio en absoluto. En el accidente de trabajo (MU) no le ocurrió nada;
 ◦la orden «B» aún no la tenían y según él tampoco la necesitaban, no se movían en la zona de peligro – aproximadamente a 2,5 m de la TV. Que estaban cerca de los postes de TV, lo sabían tanto él como el operador de la grúa. Que se produzca un roce del cesto de trabajo con el poste de TV ocurre con bastante frecuencia, pero no recuerda que la TV se rompiera después;
 
-
 ## Página 25
+
 
 ◦no tienen establecida ninguna distancia a la que puedan aproximarse al poste de TV, tienen que estar lo bastante cerca para no caerse del cesto cuando mueven el poste.
 •
@@ -788,8 +788,8 @@ operador del cesto de trabajo 2
 ◦a la pregunta de cuál fue su reacción tras detectar la lesión de su compañero en el cesto, respondió que no vio exactamente qué ocurrió, se estaba ocupando de probar la movilidad del poste de TV, solo se percató de que a su derecha se produjo un sonido por una descarga eléctrica y notó un destello al mismo tiempo. Inmediatamente subió las manos para no sujetarse a la parte metálica y llamó al operador de la grúa. En el momento no supo que se había producido un accidente de su compañero;
 ◦indicó que se rompió el cable portante de la TV, a continuación indicó que sabe cuál es la diferencia entre un cable de TV dañado y uno fundido, y que al trabajar en un puesto protegido bajo la TV desconectada se produce el contacto del cesto de trabajo con el poste de TV debido a que es
 
-
 ## Página 26
+
 
 necesario estar directamente junto al poste, porque los trabajos no pueden realizarse desde el cesto de trabajo a gran distancia, pero se trata solo de un roce;
 ◦indicó que también se produce el contacto del cesto de trabajo con la TV al trabajar en un puesto protegido bajo la TV desconectada, por ejemplo, al instalar tirantes provisionales entre el cable portante y la TV en lugares inaccesibles, aunque se trata más bien de un roce al aproximarse antes del trabajo.
@@ -811,8 +811,8 @@ operador de la grúa
 ◦manipuló con el cesto de trabajo hacia un lado a una altura justo por encima del suelo del vagón, no tocó el mástil. Cuando se detuvo, se produjo una descarga y acto seguido bajó el cesto de trabajo lo más posible hacia el suelo;
 ◦a continuación indicó que conocía la tecnología del trabajo, pueden aproximarse a la parte de la TV cuando está puesta a tierra y hay una orden «B» firmada. Manipular el cesto de trabajo de la grúa de vía bajo la TV conectada no está permitido, pero si está a una distancia de 2 m de la TV, entonces puede girar y también elevar parcialmente. Con el cesto de trabajo no puede
 
-
 ## Página 27
+
 
 manipular si no se respeta esta distancia mínima. Indica que la manipulación del cesto de trabajo bajo la TV conectada no es práctica habitual;
 ◦durante el trabajo el día del accidente de trabajo (MU) tenían una distancia suficiente de la parte activa de la TV (mín. 2 m), no tocaron nada, ni el poste de TV. Los empleados en el cesto de trabajo ni siquiera movieron el poste de TV. Según él, se rompió el cable portante que quedó allí de un desmontaje anterior;
@@ -837,6 +837,7 @@ jefe de obra
 
 ## Página 28
 
+
 ◦de que estaba planificada una anulación de circulación a partir de las 10:00 h, lo sabía. Si se comunicó con los empleados de SEE, ya no lo recuerda, ni quién determinó el punto exacto de detención de la maniobra de maniobras;
 ◦cree que el mástil de TV invadía el perfil de paso y con su estado ponía en peligro la seguridad en la vía en servicio. La prueba de estabilidad del mástil de TV la decidieron espontáneamente, conjuntamente, cuando lo vieron, dedujeron que podía ser un riesgo. En ese momento actuaron de inmediato. Ya no recuerda quién debía realizar la prueba de estabilidad del mástil de TV. Sabían que el TV seguía conectado, la seguridad estaba garantizada por la distancia mínima a la que podían aproximarse al TV;
 ◦las cuestiones relacionadas con la orden «B» las tenía a su cargo ese día. Debía recibirla, comprobar la protección del puesto de trabajo, informar a la cuadrilla de trabajo y hacerla firmar. Después comenzaría el trabajo propiamente dicho. En el momento en que los empleados subieron al cesto de trabajo, estaba en la plataforma del primer TDV y ya no recuerda exactamente qué hacía. El cesto de trabajo se movió hacia el mástil de TV inclinado. Según él, no hubo contacto entre parte del grúa o el cesto de trabajo y una parte activa del TV;
@@ -851,8 +852,8 @@ jefe de EŽP
 ◦en el momento en que se produjo la MU, estaba en la caseta de obra y gestionaba la documentación;
 ◦por tanto, no presenció la lesión. Lo que ocurrió se lo dijeron los demás empleados. Le dijeron que, cuando iban al lugar, notaron que uno de los mástiles de TV que debía retirarse estaba inclinado. Quisieron intentar mover el mástil, la orden «B» todavía no la tenían. Cuando alcanzaron la altura del número situado en el mástil de TV, se rompió el TV del mástil de TV contiguo y cayó sobre la estructura del cesto de trabajo;
 
-
 ## Página 29
+
 
 ◦según su experiencia, no es muy frecuente que el TV se rompa durante la realización de este tipo de trabajos, pero ocurre de vez en cuando. En ocho años les ha ocurrido unas 4 veces.
 •
@@ -871,39 +872,44 @@ jefe de EŽP
 ◦que la línea de contacto se rompió, lo dedujo por el hecho de que dos días antes retiraban los cables portantes que cruzaban por este cable portante. Estos, al cortarse, cayeron con todo su peso sobre dicho cable portante, que se rompió;
 ◦no vio el cable portante tras la aparición de la MU, el lugar estaba acordonado por la PČR y se estaba llevando a cabo la investigación.
 
-
 ## Página 30
 
-De las conversaciones telefónicas registradas se constató:
+De las llamadas telefónicas registradas se constató:
 Archivo: 2022_06_27_09-10-53_0.07_41_LABEL_PARDHLN_MRS_02.wav
-Inicio de la conversación: 27. 6. 2022, 09:10:53 h
-Contenido de la transcripción: toda la grabación
-EŽP: Panel de Pardubice, EŽeti
+Inicio de la llamada: 27 de junio de 2022, 09:10:53 h
+Contenido de la transcripción: grabación completa
+EŽP: Pardubice panel, EŽeti
 Jefe de estación de Pardubice: Pardubice
-EŽP: Querríamos ahora desde la 13. SK bajo la cuesta y a la 15. anulada.
-Jefe de estación de Pardubice: De acuerdo, bajo la cuesta y a la 15. anulada.
+EŽP: Queremos ahora desde la 13. SK cuesta arriba y a la 15. excluida.
+Jefe de estación de Pardubice: De acuerdo, cuesta arriba y a la 15. excluida.
 Archivo: 2022_06_27_09-17-51_0.06_41_LABEL_PARDHLN_MRS_01.wav
-Inicio de la conversación: 27. 6. 2022, 09:17:56 h
-Contenido de la transcripción: toda la grabación
-EŽP: Panel de Pardubice, EŽeti en la 15. Querríamos el consentimiento para poder circular desde la vía 15 en dirección Kostěnice hasta el punto kilométrico de la aguja n.º 12.
-Jefe de estación de Pardubice: ¿Hasta qué aguja decías?
+Inicio de la llamada: 27 de junio de 2022, 09:17:56 h
+Contenido de la transcripción: grabación completa
+EŽP: Pardubice panel, EŽeti en la 15. Queremos el permiso para poder circular desde la vía 15
+en dirección a Kostěnice hasta el punto kilométrico de la aguja n.º 12.
+Jefe de estación de Pardubice: ¿Hasta qué aguja dijiste?
 EŽP: Hasta el punto kilométrico de la aguja n.º 12.
 Jefe de estación de Pardubice: Sí, ahí hay un paso a nivel abierto, así que tenemos que ponernos de acuerdo.
-EŽP: Sí, vale. Necesitaremos en un momento solo cruzar ese paso a nivel y trabajaremos por el lado de Kostěnice y progresivamente iremos empujando en dirección a Praga.
+EŽP: Sí, de acuerdo. Allí necesitaremos en un momento solo cruzar ese paso a nivel y trabajaremos
+en el lado de Kostěnice y progresivamente iremos empujando en dirección a Praga.
 Jefe de estación de Pardubice: Sí, preguntaré, espera.
 Archivo: 2022_06_27_09-19-54_0.06_41_LABEL_PARDHLN_MRS_01.wav 
-Inicio de la conversación: 27. 6. 2022, 09:19:54 h
-Contenido de la transcripción: toda la grabación
+Inicio de la llamada: 27 de junio de 2022, 09:19:54 h
+Contenido de la transcripción: grabación completa
 Jefe de estación de Pardubice: ¿Ežeti en Pardubice en la vía 15?
 EŽP: EŽeti en la 15.
-Jefe de estación de Pardubice: Por favor, en el paso a nivel allí os vigilará el empleado del paso a nivel, así que en dirección a la señal de salida hacia Kostěnice podéis maniobrar, y después ¿hasta dónde quieres circular, por favor?
+Jefe de estación de Pardubice: Oye, el paso a nivel lo vigilará un empleado en el paso a nivel, así que
+en dirección a la señal de salida hacia Kostěnice podéis maniobrar y luego hasta dónde quieres
+circular, dime.
 EŽP: Hasta el punto kilométrico de la aguja n.º 12.
-Jefe de estación de Pardubice: Hasta el punto kilométrico de la aguja n.º 12. Hasta el punto kilométrico de la aguja n.º 12 podéis, pero tener cuidado allí, por la primera sigo circulando, esa no está anulada, así que no vaya a ser que choquéis con algo allí.
-EŽP: Sí, lo sabemos, todavía no hay anulación para la vía 1. Ya hemos circulado allí, así que sabemos cómo es.
+Jefe de estación de Pardubice: Al punto kilométrico de la aguja n.º 12. Al punto kilométrico de la aguja n.º 12 podéis,
+pero tener cuidado, la primera todavía la sigo maniobrando, esa no está excluida, así que no
+os choquéis con algo ahí.
+EŽP: Sí, lo sabemos, todavía no hay exclusión para esa vía 1. Ya hemos circulado allí, así que sabemos cómo va.
 Jefe de estación de Pardubice: De acuerdo.
 
-
 ## Página 31
+
 
 ### 3.2 Descripción fáctica del suceso
 ### 3.2.1 Secuencia de hechos que condujeron a la anomalía
@@ -914,8 +920,8 @@ A las 9:19 h se acordó una maniobra de maniobras PD, compuesta por un HDV y dos
 Según la prestación de explicaciones de los empleados de EŽP, notaron conjuntamente que un mástil de la doble soporte de tracción n.º 27A estaba inclinado hacia la vía. Se trataba del mástil que estaba más cerca del HDV y en el que ya no había otras piezas del TV (el mástil estaba destinado al desmontaje en el marco de la anulación de circulación en cuestión, aún no iniciada). Además, estos empleados indicaron que dedujeron que podía tratarse de un riesgo y que con su estado el mástil podía poner en peligro la seguridad en la vía en servicio. Por ello, decidieron probar la estabilidad de este mástil de TV antes del inicio de la anulación de circulación ROV 53121 fase H. Dos de los empleados de EŽP subieron al cesto de trabajo del grúa ferroviario de vía y la operación del grúa comenzó a moverlos hacia el mástil más alejado. A las 9:56 h se produjo el contacto de la articulación derecha de sujeción del cesto de trabajo con el brazo del grúa con el cable portante del TV y su fundido. En este contacto del cable portante del TV con la articulación del cesto de trabajo se produjo una lesión grave en un empleado de EŽP que se encontraba en las inmediaciones del punto de contacto, donde se produjo la formación de un arco eléctrico y donde la corriente de cortocircuito pasó al bastidor del cesto de trabajo. La operación del grúa hizo descender inmediatamente el cesto de trabajo y, junto con los demás empleados, se prestó la primera ayuda al lesionado y a continuación se llamó a la ZZS.
 La MU en cuestión se manifestó en el sistema de control del centro de despacho eléctrico de tal forma que a las 9:56:51 h, por la acción de la interacción entre alimentadores y protecciones, se produjo la desconexión del TV de la 1. y 2. TK NS Moravany – NS
 
-
 ## Página 32
+
 
 Opočínek, incluyendo la totalidad de las estaciones de Moravany, Kostěnice y Pardubice, es decir, el momento en que demostrablemente se produjo la aparición de la MU (detalles véase cap. 3.1.8 de la presente ZZ). 
 Fig. n.º 6: Articulación derecha del cesto de trabajo de la superestructura de grúa AD 10, donde se encuentran huellas de arco eléctrico – contacto del cesto con el cable portante del TV
@@ -938,6 +944,7 @@ el maquinista del PD activó el IZS;
 10:40 h la persona autorizada de la O18 de SŽ comunicó la aparición de la MU al Centro de Notificación del DI;
 
 ## Página 33
+
 
 •
 13:25 h inicio de la inspección del lugar de origen del MU por los inspectores de DI;
@@ -975,8 +982,8 @@ art. 1692 de la norma interna de SŽDC D1:
 «Se permite realizar maniobras en las vías destinadas a la circulación de trenes solo con el permiso del jefe de estación.
 El jefe de estación solo puede dar el permiso para la maniobra cuando conozca al transportista que realizará la maniobra, la tecnología de maniobra requerida por el transportista y la tracción (es decir, eléctrica,
 
-
 ## Página 34
+
 
 diésel, vapor) de todos los vehículos de tracción activos incluidos en la maniobra. Con este permiso, el jefe de estación notificará al empleado que dirige la maniobra o al jefe de la cuadrilla de maniobras, si está encargado de acordar la maniobras, y a los cambiavías, en cuyo ámbito de maniobras se realizará la maniobra:
 a) en qué vías destinadas a la circulación de trenes se permite realizar maniobras;
@@ -993,8 +1000,8 @@ En la investigación no se constató infracción de las tareas y obligaciones de
 ### 4.1.3 Fabricantes de vehículos ferroviarios u otros proveedores de instalaciones ferroviarias
 En la investigación no se constató infracción de las tareas y obligaciones de los fabricantes de vehículos ferroviarios ni de otros proveedores de productos ferroviarios.
 
-
 ## Página 35
+
 
 ### 4.1.4 Autoridades nacionales de seguridad y Agencia Ferroviaria de la Unión Europea
 La autoridad nacional de seguridad es DÚ, que de acuerdo con la ley n.º 266/1994 Sb. es la autoridad administrativa dependiente del Ministerio de Transportes. Su función es, en particular, el ejercicio de la supervisión estatal en materia de vías y en materia de la autoridad de construcción, el ejercicio de la autoridad de construcción especial para obras de vía y obras en la vía, la aprobación de vehículos ferroviarios nuevos y modernizados y de dispositivos técnicos designados, y la tramitación de infracciones. La obligación de DÚ es comunicar a DI, en el plazo de 12 meses desde la fecha de publicación del informe final que contenga las recomendaciones de seguridad dirigidas a él, qué medida ha adoptado en relación con esta recomendación de seguridad, realizando esta comunicación de forma regular, al menos una vez al año, hasta la adopción de las medidas correspondientes.
@@ -1008,8 +1015,8 @@ En la investigación no se constató infracción de las tareas y obligaciones de
 Como se desprende del contenido del capítulo 4.1.1 de esta ZZ, fue necesario verificar a las entidades que figuran en el MU como operador de la vía y transportista en el plano de promotor y ejecutor de la parte de la obra «Modernización del nudo ferroviario de Pardubice» (en adelante, obra).
 Durante una obra de tal envergadura es habitual que los empleados de CPS, que trabajan en las partes excluidas de la obra, accedan también, durante desplazamientos autorizados y cambios de emplazamientos de obra según las fases, a la vía de circulación operada. La autorización de acceso a las instalaciones de SŽ – la emisión de autorizaciones de acceso a lugares no accesibles al público – está regulada por la norma SŽDC Ob1 parte II. Los empleados de CPS están así obligados a tener, según las condiciones establecidas en esta norma, el «Acceso a la vía de circulación ferroviaria operada», es decir, la autorización de acceso a las partes de la obra en las que la operación de la vía y del transporte ferroviario se sigue realizando con limitaciones. El lugar del MU se encontraba en la vía de circulación operada. Por lo tanto, lógicamente DI verificó en el texto siguiente la PRL para los tipos de trabajo relevantes en función del carácter de las lesiones y del lugar de origen del MU en la est. Pardubice.
 
-
 ## Página 36
+
 
 ### De acuerdo con los materiales presentados, al empleado herido se le tramitó y se le autorizó
 ### el acceso a la vía de circulación operada por parte del empleador EŽP.
@@ -1031,14 +1038,15 @@ En otro anexo al contrato de obra para la obra «Especificación técnica, condi
 
 ## Página 37
 
+
 Los procedimientos tecnológicos especiales relativos a la PRL (prevención de riesgos laborales) en el trabajo sobre la línea de contacto y a la protección de los empleados frente a las lesiones causadas por la corriente eléctrica de la línea de contacto, a los que remite la normativa SŽDC Bp1, estaban contenidos en la TNŽ 34 3109. Esta norma establece también los requisitos básicos de seguridad para la explotación y el trabajo sobre la línea de contacto y en las proximidades de las partes vivas de la línea de contacto, y para la explotación y el trabajo en instalaciones eléctricas alimentadas desde la línea de contacto. Se aplica a las actividades realizadas tanto por empleados propios del explotador de la vía como por empleados de la CPS. Otro documento titulado «CENTRÁLNÍ REGISTR RIZIK stavba MODERNIZACE ŽELEZNIČNÍHO UZLU PARDUBICE» (Registro Central de Riesgos, obra Modernización del nudo ferroviario de Pardubice) es el cumplimiento de lo dispuesto en el § 101 apartado 3 de la Ley núm. 262/2006 Sb.: «Cuando en un mismo centro de trabajo desempeñen tareas empleados de dos o más empleadores, los empleadores estarán obligados a informarse mutuamente por escrito sobre los riesgos y las medidas adoptadas de protección frente a su actuación, que se refieran al desempeño del trabajo y al centro de trabajo, y a cooperar en la garantía de la seguridad y la salud en el trabajo para todos los empleados del centro de trabajo. Sobre la base de un acuerdo escrito entre los empleadores participantes, el empleador designado mediante dicho acuerdo coordinará la aplicación de las medidas de protección de la seguridad y la salud de los empleados y los procedimientos para garantizarlas.»
 Posteriormente, mediante la contratación con una persona cualificada en la prevención de riesgos, el promotor de la obra cumplió lo dispuesto en el § 14 apartado 1 de la Ley núm. 309/2006 Sb., que, entre otras cosas, establece: «Si en la obra actúan empleados de más de un contratista, el promotor de la obra estará obligado a designar por escrito uno o varios coordinadores, atendiendo al tipo y tamaño de la obra y a su complejidad en la coordinación de las medidas para garantizar un trabajo seguro y que no ponga en peligro la salud en la obra. El coordinador a que se refiere la primera frase deberá ser designado durante la preparación de la obra, desde el inicio de los trabajos de elaboración de la documentación del proyecto para el procedimiento de construcción hasta su entrega al promotor de la obra, y durante la ejecución de la obra, desde la recepción de la obra por parte del primer contratista hasta la recepción de la obra terminada por parte del promotor de la obra. Las actividades del coordinador durante la preparación de la obra y su ejecución podrán ser desempeñadas por la misma persona».
 Sobre la base del contrato «Contrato de obra para el desempeño de la actividad de coordinación de la seguridad y la salud en el trabajo en la obra en la fase de ejecución», la empresa SAFETY PRO s. r. o. desempeñó las actividades de coordinación de la PRL. De esta empresa, la DI (Oficina de Investigación) recibió también el documento «Plan de PRL Actualización n.º 5», en la versión vigente en el momento de la ocurrencia del SU (suceso ferroviario). Del contenido del documento se desprende que el coordinador de la obra definió las normas y principios de seguridad laboral que son vinculantes para todas las personas en la obra. A tal efecto, llevó y actualizó periódicamente el plan mencionado anteriormente.
 Sobre el análisis descrito anteriormente, la DI puede constatar que, además de la fijación de las normas de PRL y su cumplimiento en el ámbito general establecido por la normativa legal, el promotor de la obra las concretó en otros documentos según la naturaleza de los trabajos realizados en la obra, y designó un coordinador de PRL para la obra.
 En la parte siguiente de este análisis, la DI realizó una confrontación entre las normas de PRL y la actuación de los empleados de la CPS inmediatamente antes de la ocurrencia del SU. Los hallazgos de la DI se realizan en el ámbito de una investigación orientada a la seguridad sobre las causas de la ocurrencia del SU y no simulan ni sustituyen el trabajo de las personas cualificadas en materia de PRL en el empleador del empleado lesionado ni el de los trabajadores de la SÚIP (Inspección del Trabajo). El examen detallado de la responsabilidad del empleador, de las personas concretas en puestos de empleados directivos y de la responsabilidad personal de los subordinados por el cumplimiento de los procedimientos de trabajo sin riesgo de sufrir un accidente laboral no es objeto de la investigación de la DI. No obstante, para las necesidades de la determinación de las causas de la ocurrencia del SU, la DI tuvo que adentrarse en la cuestión de la PRL hasta cierta profundidad.
 
-
 ## Página 38
+
 
 Recuerdo de la situación en el lugar de ocurrencia del SU:
 El PD (vehículo de servicio) detenido en la parte explotada de la vía de circulación en la estación de Pardubice, tras la parada en el marco de la maniobra acordada, se encontraba en la posición:
@@ -1061,8 +1069,8 @@ Confrontación de los hallazgos de la DI en el lugar del SU con las normas de la
 La TNŽ 34 3109, capítulo «6.2 Trabajos en la línea de contacto sin tensión», contiene procedimientos de seguridad para el trabajo en la línea de contacto en construcción, que aún no había sido conectada a la parte de suministro de la línea de contacto.
 Esta situación no se daba en el lugar del SU, la línea de contacto no estaba en construcción y estaba alimentada desde las estaciones de suministro activas. Según los hallazgos de la DI, no es posible utilizar estos procedimientos para garantizar la seguridad en el trabajo sobre la línea de contacto en el lugar del SU para el trabajo mencionado en la declaración de los
 
-
 ## Página 39
+
 
 empleados de EŽP. Tampoco pueden aplicarse a una línea de contacto que estuviera sin tensión, pero que hubiera estado en algún momento bajo tensión. El procedimiento según la TNŽ 34 3109, capítulo 6.2, no era posible.
 ### Procedimiento n.º 2:
@@ -1084,8 +1092,8 @@ de las huellas recogidas por la DI en el lugar del SU, del hecho de que se produ
 •
 en cuanto al modo de garantizar la seguridad del trabajo para el caso de que, durante el trabajo realizado, no pueda excluirse la aproximación a la línea de contacto, es necesario, según el art. 6.4.2, garantizar la desconexión del suministro de la línea de contacto y la protección del centro de trabajo según las condiciones establecidas, incluida la elaboración y entrega de la orden «B», lo cual demostrablemente no ocurrió antes ni en el momento de la ocurrencia del SU.
 
-
 ## Página 40
+
 
 Fig. n.º 7: Distancias aéreas del espacio de protección y de la zona de aproximación para el trabajo en las proximidades de las partes vivas de la línea de contacto
                                                                 Fuente: TNŽ 34 3109
@@ -1105,35 +1113,35 @@ parte segunda, art. 3, apartado (6), de la normativa interna SŽ Bp1:
 
 ## Página 41
 
-«Todas las personas en las instalaciones de SŽ y en la vía operada por SŽ están obligadas, según sus posibilidades, a velar por su propia seguridad, por su salud y por la seguridad y la salud de las personas físicas a las que se afecte directamente su actuación.»;
+"Todas las personas en las instalaciones de SŽ y en la vía explotada por SŽ están obligadas, según sus posibilidades, a velar por su propia seguridad, por su salud y por la seguridad y la salud de las personas físicas a las que afecte directamente su actuación.";
 •
-parte tercera, art. 6, apartado (28), de la norma interna de SŽ Bp1:
-«Al realizar trabajos en las proximidades de la línea de contacto, la persona debe respetar la distancia mínima de 1,5 m de las partes activas de la línea de contacto, tanto con las partes del cuerpo como con las herramientas o los objetos con los que trabaja.»;
+parte tercera, artículo 6, apartado (28), del reglamento interno de SŽ Bp1:
+"Al realizar trabajos en las proximidades de la línea de contacto, la persona debe respetar la distancia mínima de 1,5 m respecto de las partes vivas de la línea de contacto, tanto con las partes del cuerpo como con las herramientas o los objetos con los que trabaje.";
 •
 artículo 6.3 de la norma TNŽ 34 3109:
-«Para los trabajos en la línea de contacto bajo tensión debe emitirse la orden "B-PPN".
-En el caso de esta MU concreta, es necesario relacionar el artículo 6.3 anteriormente mencionado de la norma TNŽ 34 3109 con el definitorio:
+"Para los trabajos en la línea de contacto bajo tensión debe emitirse la orden «B-PPN»
+En el caso concreto de esta MU es necesario relacionar el citado artículo 6.3 de la norma TNŽ 34 3109 con el definitorio:
 ◦artículo 6.3.1.4 de la norma TNŽ 34 3109:
-«Para el trabajo en la línea de contacto bajo tensión se utilizan los siguientes medios de montaje:
+"Para el trabajo en la línea de contacto bajo tensión se utilizan los siguientes medios de montaje:
 – escaleras aislantes;
-– vehículos ferroviarios y otros (de ruedas) para el mantenimiento, la reparación y la medición de la línea de contacto con plataforma de trabajo aislada;
-– plataformas de trabajo elevadoras aisladas»;
+– vehículos ferroviarios y otros (de carretera) para el mantenimiento, la reparación y la medición de la línea de contacto con plataforma de trabajo aislante;
+– plataformas de trabajo elevadoras aislantes";
 •
-parte quinta, artículo 19, apartado (11), de la norma interna de SŽ Bp1:
-«Al trabajar con máquinas en líneas electrificadas deben cumplirse las condiciones de trabajo seguro según las normas aplicables. El responsable de la máquina está obligado a informar y formar de forma acreditada a las tripulaciones de la máquina sobre el PRL en el puesto de trabajo concreto»;
+parte quinta, artículo 19, apartado (11), del reglamento interno de SŽ Bp1:
+"En el trabajo de las máquinas en líneas electrificadas deben respetarse las condiciones de trabajo seguro según las normas aplicables. El responsable de la máquina está obligado a informar y formar de forma acreditada a las tripulaciones de la máquina sobre el PRL en el puesto de trabajo concreto";
 •
 artículo 6.4.1.2 de la norma TNŽ 34 3109:
-«Durante el trabajo deben respetarse las distancias aéreas DV o DL desde las partes activas más próximas. Las distancias aéreas DV y DL se indican en el anexo A»;
+"Durante el trabajo deben respetarse las distancias aéreas DV o DL respecto de las partes vivas más próximas. Las distancias aéreas DV y DL se indican en el anexo A";
 •
 artículo 6.4.2 de la norma TNŽ 34 3109:
-«Si una persona no puede respetar, con las partes del cuerpo, las herramientas, los equipos o los objetos que sostiene en la mano, la distancia mínima a las partes activas de la línea de contacto según el anexo A, el trabajo debe realizarse con la línea de contacto desconectada y asegurada»;
+"Si la persona no puede respetar, con las partes del cuerpo, las herramientas, los aparatos u objetos que sostenga en la mano, la distancia mínima respecto de las partes vivas de la línea de contacto según el anexo A, el trabajo debe realizarse en una línea de contacto desenergizada y asegurada";
 •
-página n.º 18, capítulo «Grúas ferroviarias y excavadoras – (MHS) – explotación y peligros en la vía» del documento CRR:
-«...la máquina solo puede trabajar en una vía excluida durante una interrupción de tensión».
-El grupo de trabajo de empleados de EŽP comenzó un trabajo completamente distinto del que se habían puesto de acuerdo y del que habían sido instruidos. Además, como se describe más arriba, lo comenzaron a realizar en un momento en el que no se había emitido la Orden «B» y en el que el lugar no estaba asegurado de forma segura. Si los empleados del grupo de trabajo, encabezados por el responsable de los trabajos, evaluaron el mástil inclinado de la LC como un riesgo y una amenaza para la seguridad en la vía en explotación, no debían moverse en torno al mástil de la LC, y mucho menos realizar cualquier otro trabajo, incluida la maniobra con la grúa ferroviaria. Si el responsable de los trabajos consideró que el mástil era realmente peligroso, debió contactar inmediatamente con el despachador eléctrico o, en su caso, con empleados de SEE, quienes habrían adoptado medidas de seguridad
-
+página n.º 18, capítulo "Grúas ferroviarias y excavadoras – (MHS) – explotación y peligros en la vía" del documento CRR:
+"...la máquina solo puede trabajar en una vía excluida durante una interrupción de tensión".
+El grupo de trabajo de empleados de EŽP comenzó un trabajo completamente distinto del que se habían puesto de acuerdo y del que habían sido instruidos. Además, como se describe más arriba, lo comenzaron a realizar en un momento en el que no se había emitido la orden «B» y en el que el lugar no estaba asegurado de forma segura. Si los empleados del grupo de trabajo, encabezados por el responsable de los trabajos, evaluaron el mástil inclinado de la línea de contacto como un riesgo y una amenaza para la seguridad en la vía en explotación, no debían moverse en absoluto alrededor del mástil de la línea de contacto, y mucho menos realizar cualquier otro trabajo, incluida la manipulación de la grúa ferroviaria. Si el responsable de los trabajos consideró que el mástil era realmente peligroso, debió contactar inmediatamente con el despachador eléctrico o, en su caso, con los empleados de SEE, que habrían adoptado las medidas de seguridad
 
 ## Página 42
+
 
 dada la posibilidad de amenaza a las personas y a la explotación (desconexión de la LC, parada de la explotación), y solo entonces los trabajadores de EŽP podrían haber asegurado y desmontado el mástil de la forma correspondiente.
 El responsable de los trabajos, con esta decisión, creó para todo el grupo de trabajo un gran riesgo de seguridad consistente en la posible caída del mástil de la LC sobre la vía en explotación, sobre la PD y sobre las personas en la cesta de trabajo, lo que posteriormente dio lugar a la aparición de la MU – de la documentación se desprende que la rotura del cable portante se produjo directamente sobre el lugar donde, antes de la aparición de la MU, se encontraba la cesta de trabajo.
@@ -1145,8 +1153,8 @@ En la investigación no se detectaron factores derivados de la construcción de 
 4.2.2 Factores o consecuencias derivados de la instalación y de la puesta en servicio de los vehículos ferroviarios, de la infraestructura ferroviaria o de las instalaciones técnicas
 En la investigación no se detectaron factores derivados de la instalación y de la puesta en servicio de los vehículos ferroviarios, de la infraestructura ferroviaria o de las instalaciones técnicas.
 
-
 ## Página 43
+
 
 ### 4.2.3 Factores o consecuencias relacionados con los fabricantes de vehículos ferroviarios u otros proveedores de productos ferroviarios
 En la investigación no se detectaron factores relacionados con los fabricantes de vehículos ferroviarios u otros proveedores de productos ferroviarios.
@@ -1168,8 +1176,8 @@ En la investigación no se detectaron factores relacionados con el entorno labor
 ### 4.3.5 Otro factor relevante a efectos de la investigación
 En la investigación no se detectaron otros factores relacionados con la actuación de las personas implicadas.
 
-
 ## Página 44
+
 
 ### 4.4 Mecanismos de retroalimentación y mecanismos de control, incluida la gestión de riesgos y la garantía de seguridad, y procedimientos de seguimiento
 ### 4.4.1 Condiciones pertinentes del marco regulatorio
@@ -1193,11 +1201,14 @@ No consta en el DI ninguna MU similar.
 
 ### 5 CONCLUSIONES
 ### 5.1 Resumen del análisis y conclusiones relativas a las causas del suceso
-La causa inmediata del suceso extraordinario fue:
+La causa inmediata del suceso excepcional fue:
 •
-el inicio de los trabajos de un sujeto ajeno en un momento en que el puesto de trabajo no estaba eléctricamente asegurado y el incumplimiento de las condiciones para garantizar la seguridad y la protección de la salud del empleado en la cesta de trabajo de la grúa ferroviaria bajo la parte de la línea de contacto operada bajo tensión;
-No se detectó ningún factor contribuyente en el DI.
-No se detectó ninguna causa sistémica en el DI.
+el inicio de los trabajos de un sujeto jurídico externo en un momento en que el puesto de trabajo no estaba eléctricamente asegurado
+y el incumplimiento de las condiciones para garantizar la seguridad y la protección de la salud del empleado
+en la cesta de trabajo de la grúa ferroviaria de raíles bajo la parte del sistema de catenaria
+bajo tensión;
+El factor contribuyente no fue detectado por el DI.
+La causa sistémica no fue detectada por el DI.
 ### A summary of the analysis and conclusions with regard to the causes of the
 occurrence
 Causal factor:
@@ -1209,24 +1220,32 @@ voltage-operated part of the contact line.
 Contributing factor: none.
 Systemic factor:
 none.
-### 5.2 Medidas adoptadas para prevenir los sucesos extraordinarios
+### 5.2 Medidas adoptadas para prevenir los sucesos excepcionales
 El transportista EŽP adoptó la siguiente medida:
 •
-las causas y circunstancias de la aparición de este suceso extraordinario se debatirán en la próxima reunión de la dirección de la empresa.
-El gestor de vía SŽ no adoptó ni emitió ninguna medida, dada la fuente de amenaza a la vía y al transporte ferroviario fuera de su ámbito de competencia.
-La empresa SAFETY PRO s. r. o., que actúa en la obra como coordinador del PRL, emitió el registro de suceso extraordinario n.º 9, que se basa en la realización de la inspección in situ y en la información facilitada por el jefe de obra y el representante responsable del contratista.
+las causas y circunstancias de la aparición de este suceso excepcional serán tratadas en la próxima
+reunión de la dirección de la empresa.
+El explotador de la vía SŽ no adoptó ni emitió ninguna medida, dado que la fuente de amenaza a la
+vía y al transporte ferroviario queda fuera de su competencia.
+La firma SAFETY PRO s. r. o., que actúa en la obra como coordinador de BOZP, emitió
+el registro de suceso excepcional n.º 9, que se basa en la realización de la inspección en el lugar
+y en la información facilitada por el jefe de obra y el representante responsable del contratista.
 En este registro indicó las siguientes medidas:
 •
 Los trabajos en el objeto indicado han sido suspendidos hasta nueva orden.
 •
-En el día de inspección de la obra, los responsables fueron informados del suceso extraordinario y de la necesidad de cumplir la normativa vigente de SŽ;
+En el día de control de la obra, los responsables fueron informados del suceso excepcional
+y de la necesidad de cumplir la normativa vigente de SŽ;
 •
-Los responsables de Elektrizace železnic Praha a.s. realizarán su propia investigación del accidente y elaborarán el registro del accidente, del que entregarán una copia a la dirección de la obra y al coordinador del PRL;
+Los responsables de Elektrizace železnic Praha a.s. realizarán su propia investigación
+del accidente y elaborarán el registro del accidente, del que entregarán una copia
+a la dirección de la obra y al coordinador de BOZP;
 •
-Si de la investigación no surgen nuevos hechos que requieran la adopción de medidas adicionales, se adoptarán las siguientes medidas:
-
+Si de la investigación no surgen nuevos hechos que requieran la adopción
+de medidas adicionales, se adoptarán las siguientes medidas:
 
 ## Página 46
+
 
 a) Se prohíbe estrictamente realizar cualquier trabajo en instalaciones eléctricas de SŽ si no se ha emitido y entregado la orden «B» que autoriza los trabajos;
 b) Cualquier trabajo en instalaciones de SŽ solo puede realizarse en presencia del responsable de los trabajos, sobre la base de las instrucciones por él emitidas;
@@ -1268,6 +1287,7 @@ la autorización de maniobra concedida al jefe de estación no contenía toda la
 
 ## Página 47
 
+
 ### Observaciones adicionales
 En el gestor de infraestructura SŽ:
 •
@@ -1291,8 +1311,8 @@ director
 de la Inspección Territorial de Brno
 de la Inspección Territorial de Brno
 
-
 ## Página 48
+
 
 ### ANEXOS
 Fig. n.º 9: Vista de la UD n.º 6 TV sobre HDV                                               

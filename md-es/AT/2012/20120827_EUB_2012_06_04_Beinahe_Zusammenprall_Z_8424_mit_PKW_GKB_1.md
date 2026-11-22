@@ -10,13 +10,14 @@ chars: 24359
 ratio_longitud: 1.06
 tokens_in: 8034
 tokens_out: 5834
-verificacion: revisar
 fecha_proceso: 2026-11-18
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-avisos: ["página 7: ratio 1.69"]
-notas_cifras: ["página 3: original bilingüe: se compara contra el idioma principal (DE)"]
+verificacion: ok
+notas_cifras: ["página 3: original bilingüe: se compara contra el idioma principal (DE)", "página 7: original bilingüe: se compara contra el idioma principal (DE)"]
 ---
+
 ## Página 1
+
 
 PELIGRO PARA LA  
 OPERACIÓN FERROVIARIA  
@@ -36,9 +37,10 @@ Dirección postal:
 A-1000 Viena, Apartado de correos 207 
 Informe de investigación 
 http://versa.bmvit.gv.at  
-Página web: 
+Página web:
 
 ## Página 2
+
 
 ### Índice 
 Página 
@@ -93,6 +95,7 @@ Anexo: Observaciones recibidas dentro del plazo ................................
 
 ## Página 3
 
+
 ### Índice de normativas
 RL 2004/49/EG  
 «Directiva sobre la seguridad ferroviaria» 
@@ -120,8 +123,8 @@ Disposiciones complementarias a las instrucciones de señalización y de explota
 | Ilustración 4 Ilustración 5 Ilustración 6 Ilustración 7 | Estiria 9 ........................................................................................................................... Fotografía de una unidad motriz Fuente IM 10 - .................................................................................................. Extracto del VzG Tramo 11601 - Fuente IM ...................................................................... 11 Extracto del horario de trenes del IM – Modelo de horario 1232 - Fuente IM ............................. 11 Croquis detallado del paso a nivel km 7,415 Extracto del Atlas Digital Estiria - Fuente Land |
 | Ilustración 8 Ilustración 9 | Estiria 12 ......................................................................................................................... Evaluación cronológica del dispositivo registrador de la unidad motriz Tw 5063 011 -8 Fuente VK 14 – .................. Extracto del registrador de posiciones del paso a nivel km 7,415 – Fuente IM .................................. 15 |
 
-
 ## Página 4
+
 
 ### Índice de abreviaturas y términos
 BAV 
@@ -171,19 +174,19 @@ El informe de investigación se basa en las siguientes actuaciones de la SUB:
 Evaluación de la documentación recibida: 
 *   Documentación del IM recibida el 20 de junio de 2012 
 Las posibles consultas fueron respondidas hasta el 20 de junio de 2012. 
-Procedimiento de alegaciones del 20 de julio de 2012 al 25 de agosto de 2012 
-
+Procedimiento de alegaciones del 20 de julio de 2012 al 25 de agosto de 2012
 
 ## Página 5
+
 
 ### Observaciones previas 
 La investigación se realizó conforme a las disposiciones del artículo 19, apartado 2, de la RL 2004/49/EG, en relación con las disposiciones del § 5, apartados 2 y 3, de la UUG. La investigación por parte de la SUB se llevó a cabo in situ. 
 Conforme al § 4 de la UUG, las investigaciones tienen como objetivo exclusivo determinar la causa del incidente, para poder elaborar recomendaciones de seguridad que contribuyan a evitar incidentes similares en el futuro. La valoración jurídica de las circunstancias y causas no es expresamente objeto de la investigación. Por lo tanto, tampoco es el propósito de este informe establecer culpas ni aclarar cuestiones de responsabilidad. El presente incidente se cierra mediante un informe de investigación tras un procedimiento de alegaciones. 
 Conforme al artículo 25, apartado 2, de la RL 2004/49/EG, las recomendaciones de seguridad se dirigen a la autoridad de seguridad y, si la naturaleza de la recomendación lo requiere, a otros organismos o autoridades del Estado miembro o a otros Estados miembros. Los Estados miembros y sus autoridades de seguridad adoptan las medidas necesarias para garantizar que las recomendaciones de seguridad de los organismos de investigación sean debidamente tenidas en cuenta y, en su caso, aplicadas.  
-La autoridad de seguridad y otros organismos o autoridades, así como, en su caso, otros Estados miembros destinatarios de las recomendaciones, informarán al organismo de investigación al menos anualmente sobre las medidas adoptadas o previstas en respuesta a la recomendación (véase el artículo 25, apartado 3, de la RL 2004/49/EG). 
-
+La autoridad de seguridad y otros organismos o autoridades, así como, en su caso, otros Estados miembros destinatarios de las recomendaciones, informarán al organismo de investigación al menos anualmente sobre las medidas adoptadas o previstas en respuesta a la recomendación (véase el artículo 25, apartado 3, de la RL 2004/49/EG).
 
 ## Página 6
+
 
 ### Destinatarios 
 Este informe de investigación se dirige a: 
@@ -203,28 +206,33 @@ Este informe de investigación se dirige a:
 
 ## Página 7
 
-### 1. Resumen
-El lunes, 4 de junio de 2012, a las 11:45 horas, se produjo un cuasi-atropello entre el tren Z 8424 y un grupo escolar guiado en el paso a nivel (EK) situado en el punto kilométrico 7,415, en el término municipal de Seiersdorf, entre la estación Bf Premstätten-Tobelbad y la estación Bf Graz Straßgang (protegido por una instalación de señales luminosas).
-Los participantes del grupo escolar no resultaron heridos.
-Los viajeros y el personal del tren permanecieron ilesos.
-La causa del peligro para la operación ferroviaria fue el cruce o la no evacuación del paso a nivel a pesar de la instalación de señales luminosas que ordenaba «ALTO».
-### Summary
-Monday, June 4th, 2012, at 11:45 o´clock, a near-collision between the train 8424 and a group of school pupils happened at the level crossing in km 7,415, (secured with level-crossing road signal) in the village Seiersberg, between station Premstät-ten-Tobelbad and station Graz Straßgang .
-The participants in the group of school pupils stayed unharmed.
-The passengers and the train crew stayed unharmed.
-The cause of the hazard of railway operation was that the group of school pupils crossed and do not evacuated the level crossing, despite the "STOP" imperious by the level-crossing road signal.
-### 2. Datos generales
-2.1. Momento
-Lunes, 4 de junio de 2012, a las 11:45 horas
-2.2. Localización
-En Graz-Köflacher Bahn und Busbetrieb GmbH
-* 
-Tramo GKB 1 desde Graz Hbf hasta Bf Köflach
-entre Bf Graz Straßgang y Bf Premstätten-Tobelbad
-Paso a nivel (EK) pk 7,415
-
+### 1. Resumen 
+Lunes, 4 de junio de 2012, a las 11:45, se produjo en el paso a nivel en el km 7,415, en el término municipal de Seiersdorf, entre la estación Premstätten-Tobelbad y la estación Graz Straßgang (protegido con señal luminosa de paso a nivel), un casi choque entre el Z 8424 y un grupo escolar escoltado. 
+Los participantes del grupo escolar no resultaron heridos. 
+Los viajeros y el personal del tren resultaron ilesos. 
+La causa de la puesta en peligro de la explotación ferroviaria fue el paso por el paso a nivel, es decir, no despejar el paso a nivel a pesar de la señal luminosa que ordenaba «ALTO». 
+### Summary 
+Monday, June 4th, 2012, at 11:45 o´clock, a near-collision between the train 8424 
+and a group of school pupils happened at the level crossing in km 7,415, (secured 
+with level-crossing road signal) in the village Seiersberg, between station Premstät-
+ten-Tobelbad and station Graz Straßgang . 
+The participants in the group of school pupils stayed unharmed. 
+The passengers and the train crew stayed unharmed. 
+The cause of the hazard of railway operation was that the group of school pupils 
+crossed and do not evacuated the level crossing, despite the "STOP" imperious by 
+the level-crossing road signal. 
+### 2. Datos generales  
+2.1. Fecha y hora 
+Lunes, 4 de junio de 2012, a las 11:45 
+2.2. Lugar 
+IM Graz-Köflacher Bahn und Busbetrieb GmbH 
+ 
+Línea GKB 1 de Graz Hbf a la estación de Köflach 
+entre la estación de Graz Straßgang y la estación de Premstätten-Tobelbad 
+Paso a nivel km 7,415
 
 ## Página 8
+
 
 ### Tramo GKB 1 Graz Hbf – Bf Köflach
 ### Figura 1     Esquema de líneas ferroviarias de Austria
@@ -236,8 +244,8 @@ La autoridad ferroviaria competente es el Landeshauptmann (gobernador regional) 
 El paso a nivel (EK) en el pk 7,415 se encuentra en el tramo de vía única, no electrificado, de la GKB 1 desde Graz Hbf hasta Bf Köflach y está protegido por una instalación de señales luminosas. Aquí cruza la carretera provincial L 313 „Feldkirchner Straße“ la línea ferroviaria dentro del núcleo urbano de Seiersberg.
 La gestión operativa se realiza conforme a las disposiciones y directrices de los reglamentos del IM (titular de la infraestructura).
 
-
 ## Página 9
+
 
 ### Figura 2     Red de tramos GKB 1 - Fuente IM
 ### Graz Hbf
@@ -248,8 +256,8 @@ La gestión operativa se realiza conforme a las disposiciones y directrices de l
 Figura 3     Esquema de situación del paso a nivel (EK) pk 7,415 Extracto del Digitaler-Atlas Steiermark- Fuente
 ### Land Steiermark
 
-
 ## Página 10
+
 
 2.6. Composición del trayecto implicado
 ### R 8424 (tren regional)
@@ -269,8 +277,8 @@ Ocupación:
 Aprox. 50 viajeros
 Un conductor Tfzf y un jefe de tren
 
-
 ## Página 11
+
 
 2.7. Velocidades permitidas
 Extracto de VzG (Reglamento de velocidades) Tramo GKB 1
@@ -282,8 +290,8 @@ Extracto del horario de marcha GKB-Buchfahrplan del IM
 ### Figura 6     Extracto del horario de marcha del IM – Patrón horario 1232 - Fuente IM
 La velocidad permitida según el extracto del horario de marcha, patrón horario 1232 del IM, era de 100 km/h.
 
-
 ## Página 12
+
 
 Restricción de velocidad por La (señalización de limitación de velocidad)
 En el tramo afectado no había ninguna anotación relativa a una restricción de velocidad.
@@ -300,8 +308,8 @@ Figura 7     Esquema detallado del paso a nivel (EK) pk 7,415 Extracto del Digit
 ### Land Steiermark
 Dado que el grupo de personas (un grupo escolar supervisado por su profesorado) no reaccionó a las señales „ACHTUNG“ (Atención) emitidas por el Z 8424, el conductor Tfzf inició una frenada de emergencia y detuvo la cabecera del tren inmediatamente después del paso a nivel.
 
-
 ## Página 13
+
 
 Los participantes del grupo escolar, el personal del tren y los viajeros permanecieron ilesos.
 Una patrulla policial presente accidentalmente de la comisaría de policía de Seiersberg observó el incidente.
@@ -326,8 +334,8 @@ Profesorado responsable del grupo escolar
 IM / RU (empresa ferroviaria)
 o Conductor Tfzf Z 8424 (RU)
 
-
 ## Página 14
+
 
 ### 6. Declaraciones / Pruebas / Resultados de la evaluación
 6.1. Declaración del conductor Tfzf Z 8424
@@ -341,6 +349,7 @@ Figura 8     Evaluación temporal del dispositivo registrador Tw 5063 011-8 – 
 
 ## Página 15
 
+
 Se registró una frenada de emergencia a v = 96 km/h.
 La hora registrada corresponde a la MESZ (=«hora de verano»).
 La velocidad permitida fue respetada, teniendo en cuenta la imprecisión del dispositivo de medición y registro de velocidad del Z 8424.
@@ -352,8 +361,8 @@ El informe de la PI Seiersberg GZ. A1/13947/2012 fue solicitado por la BH Graz U
 6.5. Declaración escrita del docente responsable
 No obra en poder de la SUB ninguna declaración escrita del docente responsable del Bundesgymnasium und Bundesrealgymnasium Köflach.
 
-
 ## Página 16
+
 
 ### 7. Conclusiones
 El Z 8424 cumplió las normativas y velocidades prescritas.
@@ -368,8 +377,8 @@ Inobservancia de las disposiciones de la EKVO relativas al comportamiento de los
 ### 11. Opiniones tenidas en cuenta
 Véase Anexo.
 
-
 ## Página 17
+
 
 ### 12. Recomendaciones de seguridad
 | Punto Número de referencia anual | Recomendaciones de seguridad (causantes del accidente) | Dirigida a |
@@ -391,28 +400,33 @@ Anexos:
 Extracto de la resolución administrativa del 4 de agosto de 1993
 Alegaciones recibidas dentro del plazo establecido
 
-
 ## Página 18
+
 
 ### Extracto de la resolución administrativa del 4 de agosto de 1993
 
-
 ## Página 19
+
 
 
 ## Página 20
 
 
+
 ## Página 21
+
 
 
 ## Página 22
 
 
+
 ## Página 23
 
 
+
 ## Página 24
+
 
 ### Anexo Alegaciones recibidas dentro del plazo establecido
 Litera
@@ -425,8 +439,8 @@ e)
 f)
 g)
 
-
 ## Página 25
+
 
 ### y su consideración
 | Litera | Observación |

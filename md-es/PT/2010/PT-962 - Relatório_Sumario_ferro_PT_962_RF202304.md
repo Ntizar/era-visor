@@ -13,7 +13,8 @@ tokens_out: 9055
 fecha_proceso: 2026-11-19
 generador: traducir_md_es.py (traducción IA + verificación numérica)
 verificacion: revisar
-avisos: ["página 4: ratio 1.69", "página 5: ratio 1.68", "página 9: cifras largas: faltan 1/4 (25%)"]
+avisos: ["página 9: cifras largas: faltan 1/4 (25%)"]
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (PT)", "página 2: original bilingüe: se compara contra el idioma principal (EN)", "página 3: original bilingüe: se compara contra el idioma principal (EN); cifras largas: 1/9; cifras cortas: 6/15", "página 4: original bilingüe: se compara contra el idioma principal (EN)", "página 5: original bilingüe: se compara contra el idioma principal (EN)", "página 6: original bilingüe: se compara contra el idioma principal (EN)"]
 ---
 
 ## Página 1

@@ -10,13 +10,14 @@ chars: 51418
 ratio_longitud: 1.07
 tokens_in: 17975
 tokens_out: 13471
-verificacion: revisar
 fecha_proceso: 2026-11-18
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-avisos: ["página 7: ratio 1.65"]
-notas_cifras: ["página 42: cifras largas: 2/11"]
+verificacion: ok
+notas_cifras: ["página 7: original bilingüe: se compara contra el idioma principal (DE)", "página 42: cifras largas: 2/11"]
 ---
+
 ## Página 1
+
 
 DISTANCIA DE FRENADO DEL TREN 99480  
 el 6 de julio de 2011 
@@ -37,6 +38,7 @@ Página web:
 http://versa.bmvit.gv.at
 
 ## Página 2
+
 
 ### Índice
 Página
@@ -99,6 +101,7 @@ Anexo Informes recibidos dentro del plazo establecido ..........................
 
 ## Página 3
 
+
 ### Índice de figuras
 Página
 Figura 1     Esquema de las líneas ferroviarias de Austria ........................................................................................................ 8 
@@ -149,6 +152,7 @@ Tabla 6     vmax admisible según DV M22 – Anexo 02 - Fuente IM ..............
 
 ## Página 4
 
+
 ### Índice de normativas
 Directiva 2004/49/CE «Directiva sobre la seguridad ferroviaria»
 EisbG
@@ -180,8 +184,8 @@ Freno – Prescripciones sobre el equipamiento de los vagones
 | AS BAV Betra BMVIT Bf Bsb DB DV ECM ES Fdl HLL HOA | Ausfahrsignal (Señal de salida) Bundesanstalt für Verkehr (Agencia Federal de Transporte) Betriebs- und Bauanweisung (Instrucciones de explotación y construcción) Bundesministerium für Verkehr, Innovation und Technologie (Ministerio Federal de Transporte, Innovación y Tecnología), Bahnhof (Estación) Betriebsstellenbeschreibung (Descripción de instalaciones operativas) Dienstbehelf (Manual de servicio) Dienstvorschrift (Prescripción de servicio) Entity in Charge of Maintenance (Entidad responsable del mantenimiento) Einfahrsignal (Señal de entrada) Fahrdienstleiter (Jefe de circulación) Hauptluftleitung (Conducto principal de aire) Heißläufer-Ortungs-Anlage kombiniert mit Temperaturmessung für Klotz- (FOA) |
 | IM INDUSI Kl La NSA ÖBB PZB RU Sbl Sifa SKl SUB TUE UIC VK VzG Z | und der Scheibenbremsen (SOA) Infrastruktur Manager (Gestor de infraestructura) Induktive Zugbeeinflussung (Influencia inductiva del tren) Kleinwagen (Vehículos pequeños) Verzeichnis der Langsamfahrstellen und Besonderheiten NÖa st teio rn rea il S ha isf ce hty A Bu ut nh do eri sty a(N hna eti nonale Eisenbahn-Sicherheitsbehörde) c e b Punktförmige Zugbeeinflussung (Influencia puntual del tren; también se denominó INDUSI) Railway Undertaking (Empresa ferroviaria) Selbstblockstelle (Bloqueo automático) Sicherheitsfahrschaltung (Dispositivo de vigilancia del conductor) Schwerkleinwagen (Vehículo pequeño pesado) Sicherheitsuntersuchungsstelle des Bundes (Organismo federal de investigación de accidentes) Bereich Schiene bsleitun, Technische Überwachung der Betrieb g desIM Internationaler Eisenbahnverband Vehicle Keeper (Propietario del vehículo) Verzeichnis örtlich zulässiger Geschwindigkeiten (Catálogo de velocidades máximas locales permitidas) Zug (Tren) |
 
-
 ## Página 5
+
 
 ### Procedimiento de investigación
 El informe de investigación se basa en las siguientes actuaciones de la SUB:
@@ -197,8 +201,8 @@ Conforme al § 5 UUG, las investigaciones tienen como objetivo exclusivo determi
 Conforme al art. 25, punto 2 de la Directiva 2004/49, las recomendaciones de seguridad se dirigen a la autoridad de seguridad y, si la naturaleza de la recomendación lo requiere, a otras entidades o autoridades del Estado miembro o a otros Estados miembros. Los Estados miembros y sus autoridades de seguridad adoptarán las medidas necesarias para garantizar que las recomendaciones de seguridad de los organismos de investigación sean debidamente tenidas en cuenta y, en su caso, aplicadas.
 La autoridad de seguridad y otras autoridades o entidades, así como, en su caso, otros Estados miembros destinatarios de las recomendaciones, informarán al organismo de investigación al menos anualmente sobre las medidas adoptadas o previstas en respuesta a la recomendación (véase el art. 25, punto 3 de la Directiva 2004/49/CE).
 
-
 ## Página 6
+
 
 ### Destinatarios
 Este informe de investigación se dirige a:
@@ -215,34 +219,32 @@ Este informe de investigación se dirige a:
 | Ministerio Federal de Transporte, Innovación y Tecnología | Autoridad |
 | Biblioteca Cluster BMWFJ | Centro Europeo de Documentación |
 
-
 ## Página 7
 
 ### 1. Resumen
-El miércoles 6 de julio de 2011, a las 15:55 horas, durante la marcha en pendiente descendente del tren Z 99480 (una máquina rectificadora de raíles, itinerario desde la estación de Dalaas hasta la estación de Bludenz), se produjo un fallo de frenos al inicio de una zona de velocidad reducida.
-La tripulación del tren informó a la estación de Bludenz del fallo de frenos. La estación de Bludenz dispuso el paso directo para el tren Z 99480. Poco antes del apeadero de Nüziders, en el km 65,500, el tren Z 99480 quedó detenido.
-La causa fue el montaje defectuoso de un componente del mecanismo de frenos durante la última revisión técnica.
-No hubo personas fallecidas ni heridas.
-
+Miércoles, 6 de julio de 2011, a las 15:55 h, durante la bajada del Z 99480 (una máquina rectificadora de raíles, recorrido de la estación de Dalaas a la estación de Bludenz), al comienzo de una zona de velocidad reducida se produjo una avería de frenos.
+La tripulación del tren informó a la estación de Bludenz de la avería de frenos. La estación de Bludenz habilitó una circulación para el Z 99480. Poco antes de la parada de Nüziders, en el km 65,500, el Z 99480 se detuvo.
+La causa fue el montaje defectuoso de un componente del mecanismo de freno durante la última revisión.
+No hubo personas muertas ni heridas.
 ### Summary
 Wednesday, 6th July 2011, at 15:55 o´clock, during the downhill journey of train 99480 (a rail-grinding machine, train route station Dalaas to station Bludenz), at a speed limit execution board, a brake failure occured.
 The staff informed the station Bludenz about the brake failure. Station Bludenz set a passage for train 99480. Shortly before the stopping point Nüziders, in km 65,500, train 99480 stopped.
 Cause was the faulty assembly of a component of the brake mechanism during the last revision.
 There were no persons killed or injured.
-
 ### 2. Datos generales
-2.1. Momento
-Miércoles, 6 de julio de 2011, a las 15:55 horas
-
+2.1. Fecha y hora
+Miércoles, 6 de julio de 2011, a las 15:55 h
 2.2. Lugar
-IM ÖBB Infrastruktur Betrieb AG
-*   Línea 10105 desde Innsbruck Hbf hasta la frontera nacional cerca de Lochau-Hörbranz (Lindau – D)
-    entre el bloqueo automático de Braz 1 y la estación de Bludenz hasta el apeadero de Nüziders
-    Vía 1,
-    km 132,600
-
+En ÖBB Infrastruktur Betrieb AG
+ 
+Línea 10105 de Innsbruck Hbf a la frontera estatal junto a Lochau-Hörbranz
+(Lindau – D)
+entre Sbl Braz 1 y la estación de Bludenz hasta la parada de Nüziders
+Vía 1,
+km 132,600
 
 ## Página 8
+
 
 ### Estación de Bludenz
 Figura 1 Esquema de las líneas ferroviarias de Austria
@@ -260,6 +262,7 @@ La catenaria funciona con una tensión nominal de 15 kV y una frecuencia de 16,7
 La gestión de la explotación se realiza conforme a las disposiciones y directrices de las normativas del IM.
 
 ## Página 9
+
 
 Posición [km]
 Puesto de servicio
@@ -314,8 +317,8 @@ Dotación:
 Conductor SKl
 Maquinista SKl
 
-
 ## Página 10
+
 
 ### 2.7. Velocidades admitidas
 #### 2.7.1. Extracto del VzG Línea 10105
@@ -324,16 +327,16 @@ Parada
 Figura 2     Extracto del VzG Línea 10105 - Fuente IM
 Las velocidades localmente admitidas en los tramos afectados eran, según el VzG del IM, de 70 km/h y, a partir de Bf Bludenz, de 120 km/h.
 
-
 ## Página 11
+
 
 #### 2.7.2. Extracto del horario oficial ÖBB Cuaderno 701
 Figura 3     Extracto 1 Horario para marchas secundarias Cuaderno 7 – Fuente IM
 Figura 4     Extracto 2 Cuaderno de horarios para marchas secundarias Cuaderno 701 - Modelo de horario 101/1 – Fuente IM
 La velocidad admitida según el extracto del cuaderno de horarios para marchas secundarias Cuaderno 7 – Modelo de horario 101/1 del IM era de 70 km/h y, a partir de Bf Bludenz, de 120 km/h.
 
-
 ## Página 12
+
 
 #### 2.7.3. Instrucción de marcha para las marchas SKl
 Figura 5     Extracto 1 Instrucción de marcha para las marchas SKl – Fuente IM
@@ -342,8 +345,8 @@ Del cuaderno de horarios para marchas secundarias Cuaderno 701 se determinaron l
 Tabla 2     Extracto del cuaderno de horarios para marchas secundarias Cuaderno 7 – Centésimas de frenado requeridas – Fuente IM
 Para una velocidad de 60 km/h eran necesarias 69 centésimas de frenado.
 
-
 ## Página 13
+
 
 #### 2.7.4. Restricción de velocidad por La
 Figura 6     Portada La Número 10/2011 West Parte 2/3 - Fuente IM
@@ -353,8 +356,8 @@ En el tramo afectado no había ninguna anotación relevante respecto a una restr
 Figura 8     Extracto 2 Instrucción de marcha para las marchas SKl – Fuente IM
 Según la instrucción de marcha para las marchas SKl, entre el km 132,600 y el km 136,900 estaba prescrito vmax = 30 km/h debido al riesgo de desprendimiento de rocas.
 
-
 ## Página 14
+
 
 #### 2.7.6. Velocidad señalizada Bf Bludenz
 Figura 9     Itinerario de paso Z 99480 en Bf Bludenz - Extracto del esquema de situación - Fuente IM
@@ -380,8 +383,8 @@ El 6 de julio de 2011, el Z 99480 (Máquina rectificadora de raíles SSM 2 – u
 La salida en Bf Dalaas tuvo lugar a las 15:37 horas. En los tramos en pendiente, el SKl circuló con una relación de transmisión menor y se aplicó el «método de frenado en sierra» (= alternar frenado y aflojamiento hasta alcanzar la vmax admitida).  
 Ante el AS en «Alto» de Bf Hintergasse, el Z 99480 pudo detenerse sin problemas. En Bf Braz se produjo un paso directo.
 
-
 ## Página 15
+
 
 Al frenar ante el punto de marcha lenta con vmax = 30 km/h (del km 132,600 al km 132,900), inmediatamente después de Sbl Braz 1, no se logró ningún efecto de frenado perceptible. El accionamiento del freno de emergencia y del freno directo no supuso un aumento del efecto de frenado. El freno manual en la cabina de conducción 2 no podía ser accionado desde la cabina de conducción 1.     
 La velocidad del Z 99480 al inicio del punto de marcha lenta era de aprox. 40 km/h.
@@ -396,8 +399,8 @@ Sin daños en la infraestructura.
 #### 4.3. Daños materiales en vehículos
 Sin daños en los vehículos.
 
-
 ## Página 16
+
 
 #### 4.4. Daños al medio ambiente
 Sin daños al medio ambiente.
@@ -421,6 +424,7 @@ Tras pasar por Bf Bludenz por la vía 215 a aprox. 63 km/h, el SKl se detuvo jus
 
 ## Página 17
 
+
 6.2. Declaración del conductor de la SKl Z 99480
 (abreviada y según el sentido)
 La salida de la SKl como tren Z 99480 desde la estación de Dalaas hacia la estación de Bludenz tuvo lugar aproximadamente a las 15:30 horas.
@@ -433,8 +437,8 @@ Inmediatamente al inicio del punto de circulación lenta, el conductor de la SKl
 Figura 11   Evaluación de la HOA en el km 131,820 - Fuente IM
 Al pasar junto a la HOA en el km 131,820, se observó un desarrollo térmico claramente superior en los frenos de zapata del bogie delantero (FOA = Sistema de localización de temperatura de frenos fijos – se midieron los frenos situados a la derecha en el sentido de la marcha).
 
-
 ## Página 18
+
 
 6.4. Evaluación del dispositivo registrador de la SKl
 La grabación del dispositivo registrador de la SKl fue asegurada tras el suceso y remitida a la SUB.
@@ -443,8 +447,8 @@ Figura 13   Grabación del dispositivo registrador de la SKl – Detalle – Fue
 Evaluación del VK antes del inicio del punto de circulación lenta:
 40 km/h + 20 km/h x 31 pt / ( 31 pt + 43 pt ) = 48,37 km/h
 
-
 ## Página 19
+
 
 6.5. Análisis del transcurso del viaje realizado por la SUB
 4 
@@ -469,8 +473,8 @@ De la figura anterior puede deducirse para el viaje del Z 99480:
 Tabla 4     Análisis del transcurso del viaje realizado por la SUB
 La velocidad de vmax = 50 km/h fue mantenida por el Z 99480 hasta el fallo de frenos.
 
-
 ## Página 20
+
 
 6.6. Vehículo implicado (SKl)
 Figura 15   SKl „SSM2“ - Fuente Rhombergrail.com
@@ -513,10 +517,10 @@ G
 Freno manual 
 20 t 
 - 
-Tabla 5     Datos del vehículo SSM2 - Fuente VK 
-
+Tabla 5     Datos del vehículo SSM2 - Fuente VK
 
 ## Página 21
+
 
 La SKl tenía un registro válido en el Registro de matriculación de vehículos ferroviarios austriacos y presentaba una autorización de red ÖBB hasta el 30 de diciembre de 2012.
 Según la inscripción en el Registro de matriculación de vehículos ferroviarios, el VK es el organismo competente para el ECM.
@@ -528,8 +532,8 @@ Las zapatas de freno del tipo „Bg“ actúan solo unilateralmente sobre las su
 6.7. Inspección periódica
 Según el informe final del 25 de marzo de 2010, el VK realizó una revisión programada. A continuación, ese mismo día se llevó a cabo una inspección de seguridad conforme a DB 663 por parte de un inspector autorizado según el listado § 40 EisbG (ambas documentaciones obran en poder de la SUB).
 
-
 ## Página 22
+
 
 El 14 de enero de 2011 se realizó otra inspección de seguridad programada conforme a DB 663 por parte del mismo inspector autorizado según el listado § 40 EisbG (la documentación obra en poder de la SUB).
 Ambas inspecciones de seguridad declararon la SKl apta para el servicio.
@@ -547,21 +551,21 @@ Conforme a la figura anterior, se documentó que en
 la imagen izquierda el recorrido del cilindro de freno del bogie 1 era de 205 mm y en  
 la imagen derecha el recorrido del cilindro de freno del bogie 2 era de 113 mm.
 
-
 ## Página 23
+
 
 Tras el retorno a la estación de Bludenz, se documentó el estado de las zapatas de freno a través de las ventanas de inspección:
 Figura 18   Bogie 1 - 1.er eje - zapata de freno izquierda y derecha - Fuente TUE
 Figura 19   Bogie 1 - 2.º eje - zapata de freno izquierda y derecha - Fuente TUE
 
-
 ## Página 24
+
 
 Figura 20   Bogie 2 - 3.er eje - zapata de freno izquierda y derecha - Fuente TUE
 Figura 21   Bogie 2 - 4.º eje - zapata de freno izquierda y derecha - Fuente TUE
 
-
 ## Página 25
+
 
 Tras el retorno, el 7 de julio de 2011 se documentó en un taller en Bludenz el estado de las zapatas de freno desmontadas:
 Figura 22   Bogie 1 Plantillas de zapatas de freno del lado izquierdo del vehículo 1.er y 2.º eje - Fuente TUE
@@ -572,15 +576,16 @@ Se constató una fuerte carga térmica y un desgaste elevado de las plantillas d
 
 ## Página 26
 
+
 ### 6.9. Inspección in situ realizada por [2]
 (resumida y adaptada al sentido) 
 El 6 de julio de 2011, la máquina rectificadora de carriles 99 81 9127 004-5 circuló desde la estación de Dalaas en dirección a la estación de Bludenz.  
 Al pasar por el HOA en el punto kilométrico 131,820 se midió una velocidad de 43 km/h; las temperaturas de las ruedas del bogie delantero (lado 1) eran considerablemente más altas que las del bogie trasero (lado 2 = lado del freno manual). 
 En el siguiente tramo de marcha lenta (30 km/h), situado en el punto kilométrico 132,600, ya no fue posible reducir la velocidad (pendiente aprox. 30 ‰). Según el registrador de viaje, la máquina alcanzó unos 80 km/h (lo cual debió ocurrir aproximadamente en el punto kilométrico 134,000), fue desviada en Bludenz por la vía 215 y se detuvo en el punto kilométrico 65,500 entre la estación de Bludenz y el apeadero de Nüziders. 
-Figura 26   Esquema del mecanismo de frenado del bogie 2 – Estado nominal - Fuente [2] 
-
+Figura 26   Esquema del mecanismo de frenado del bogie 2 – Estado nominal - Fuente [2]
 
 ## Página 27
+
 
 Durante la inspección de la máquina el 7 de julio de 2011, a las 11:00 horas, en Bludenz, se constató lo siguiente (Nota SUB: los números de componente figuran entre paréntesis en el texto): 
 1. Las zapatas de freno del bogie 1 estaban sometidas a una fuerte carga térmica y parcialmente desgastadas o fundidas hasta quedar con unos pocos mm de espesor. 
@@ -588,10 +593,10 @@ Durante la inspección de la máquina el 7 de julio de 2011, a las 11:00 horas, 
 3. Entre el bogie 2 y el soporte de topes, la barra del pistón (1) del cilindro de freno extendido se apoyaba sobre la palanca (2) del freno manual. De este modo, la fuerza del pistón se transmitía al bastidor del vehículo, en lugar de al mecanismo de frenado. 
 4. El alojamiento (3) del husillo del freno manual estaba deformado unos 20 mm hacia los topes y, debido a la apertura violenta del freno manual contra su tope final, se había curvado otros 10 mm hacia los topes. 
 Figura 27   Esquema del mecanismo de frenado del bogie 2 – Estado constatado - 
-Fuente [2] 
-
+Fuente [2]
 
 ## Página 28
+
 
 5. La cadena de conexión (4) entre la barra del pistón del cilindro de freno (1) y la palanca del freno manual (2) mostraba signos de haber recibido una acción violenta. En el eslabón de la cadena (5) junto a la palanca del freno manual había una nervadura soldada. Esto hacía que el eslabón de la cadena (6) permaneciera horizontal y provocaba con frecuencia un contacto con la barra del pistón (1). 
 Figura 28   Esquema del 5.º eslabón de la cadena (6) - Fuente [2] 
@@ -603,10 +608,10 @@ Condiciones:
 1) En la próxima oportunidad (estancia en taller), ECM velará por que el alojamiento (3) del husillo del freno manual se ajuste verticalmente y se rigidice en la dirección x. 
 2) ECM obtendrá una cadena original (4) del fabricante del vehículo (sin nervadura soldada), la sustituirá por la cadena instalada e informará al fabricante del incidente. 
 3) Si el freno manual se abre hasta su tope final, deberán realizarse 2 vueltas de la manivela desde la cabina de conducción en dirección «cerrar freno manual». (Válido hasta que se repare el alojamiento (3)). 
-4) Mientras no se hayan reparado los puntos 1) y 2), el recorrido del cilindro de freno no podrá superar los 80 mm como máximo. 
-
+4) Mientras no se hayan reparado los puntos 1) y 2), el recorrido del cilindro de freno no podrá superar los 80 mm como máximo.
 
 ## Página 29
+
 
 Observaciones: 
 - La disposición de la barra del pistón (1) y de la palanca (2) está resuelta constructivamente de manera poco acertada por parte del fabricante del vehículo. 
@@ -621,10 +626,10 @@ En el curso de las investigaciones in situ en Bludenz y durante la estancia en e
 a) La palanca del freno manual (2) no estaba fijada directamente al bastidor del vehículo como se muestra en la figura, sino mediante una pieza intermedia para permitir el movimiento sobre el husillo recto. Al parecer, esta pieza intermedia se montó erróneamente girada 180 ° durante la última revisión. Esto, por sí solo, únicamente provocó que el extremo de la palanca del freno manual (5) se desplazara unos 5 cm hacia el cilindro de freno. 
 b) En un momento desconocido, después de la última comprobación de seguridad, al parecer el freno manual se aflojó excesivamente aplicando una gran fuerza. Esto desplazó el alojamiento del husillo del freno manual (3) unos 3 cm. Debido al efecto palanca, el extremo ya desplazado de la palanca del freno manual (5) se movió otros 5 cm hacia el cilindro de freno. 
 c) En el momento del incidente, las zapatas de freno estaban desgastadas casi hasta la mitad y, por tanto, el recorrido del cilindro de freno ya se encontraba cerca del rango que requería reajuste. 
-La concatenación de las tres observaciones anteriores generó el estado descrito en el dictamen pericial realizado por [2] (véase punto 6.9), consistente en que el cilindro de freno de este bogie tenía restringido su movimiento y, por consiguiente, no podía ejercer toda la potencia de frenado en dicho bogie. 
-
+La concatenación de las tres observaciones anteriores generó el estado descrito en el dictamen pericial realizado por [2] (véase punto 6.9), consistente en que el cilindro de freno de este bogie tenía restringido su movimiento y, por consiguiente, no podía ejercer toda la potencia de frenado en dicho bogie.
 
 ## Página 30
+
 
 6.11. Figuras correspondientes al punto 6.9 y al punto 6.10  
 Husillo del freno manual 
@@ -637,16 +642,17 @@ con barra del pistón extendida
 (5) 
 (1) 
 Figura 29   Mecanismo de frenado del bogie 2 - Fuente TUE 
-Figura 30   Mecanismo de frenado del bogie 2 – Detalle - Fuente TUE 
-
+Figura 30   Mecanismo de frenado del bogie 2 – Detalle - Fuente TUE
 
 ## Página 31
+
 
 Figura 31   Mecanismo de frenado del bogie 2 – Detalle del pistón del cilindro de freno extendido - Fuente TUE 
 Figura 32   Mecanismo de frenado del bogie 2 – Detalle del pistón del cilindro de freno retraído - Fuente TUE 
 En la figura anterior se muestra el 5.º eslabón de la cadena (6) con la nervadura soldada.
 
 ## Página 32
+
 
 Pieza intermedia
 Figura 33 Mecánica de frenos bogie 2 – Detalle del pistón del cilindro de freno retraído- Fuente VK
@@ -657,8 +663,8 @@ Se identificó como causa desencadenante la pieza intermedia para la palanca de 
 7.2. Comprobación de seguridad conforme a DB 663
 Durante las comprobaciones de seguridad realizadas en 2010 y 2011 conforme a DB 663, no se detectó la pieza intermedia instalada girada según el punto 7.1.
 
-
 ## Página 33
+
 
 ### 8. Medidas adoptadas por VK
 Figura 34 Medidas adoptadas por VK
@@ -669,8 +675,8 @@ La causa fue el montaje defectuoso (invertido) de la pieza intermedia para la pa
 ### 11. Alegaciones tenidas en cuenta
 Véase anexo.
 
-
 ## Página 34
+
 
 ### 12. Recomendaciones de seguridad
 | Punto Número de año corriente | Recomendaciones de seguridad (causales del accidente) | Dirigida a |
@@ -687,33 +693,38 @@ Anexo:
 ### Extracto del informe [2] de 7 de julio de 2011
 Alegaciones recibidas dentro del plazo
 
-
 ## Página 35
+
 
 ### Anexo Extracto del acta [1] de 15 de enero de 2002
 
-
 ## Página 36
+
 
 
 ## Página 37
 
 
+
 ## Página 38
+
 
 
 ## Página 39
 
+
 ### Anexo Extracto del peritaje [2] de 7 de julio de 2011
 
-
 ## Página 40
+
 
 
 ## Página 41
 
 
+
 ## Página 42
+
 
 ### Anexo Alegaciones recibidas dentro del plazo
 | Litera | Alegación Persona conforme al registro § 40 EisbG recibida el 3 de abril de 2012. |
@@ -724,8 +735,8 @@ Alegaciones recibidas dentro del plazo
 Alegación del IM recibida el 6 de abril de 2012
 e)
 
-
 ## Página 43
+
 
 ### y su consideración
 | Litera | Observación |
@@ -735,8 +746,8 @@ e)
 | d) | Ya ha sido considerada en la recomendación de seguridad punto 12 1. |
 | e) | - |
 
-
 ## Página 44
+
 
 Litera
 Alegación del BMVIT recibida el 6 de abril de 2012
@@ -751,8 +762,8 @@ m)
 n)
 o)
 
-
 ## Página 45
+
 
 | Litera | Observación |
 | f) | - |
@@ -766,8 +777,8 @@ o)
 | n) | - |
 | o) | - |
 
-
 ## Página 46
+
 
 Litera
 Alegación del BMVIT recibida el 6 de abril de 2012 (continuación)
@@ -777,8 +788,8 @@ q)
 r)
 s)
 
-
 ## Página 47
+
 
 | Litera | Observación |
 | p) | - |

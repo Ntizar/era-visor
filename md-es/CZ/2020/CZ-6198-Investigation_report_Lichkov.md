@@ -10,13 +10,14 @@ chars: 93222
 ratio_longitud: 1.21
 tokens_in: 49126
 tokens_out: 33985
-verificacion: revisar
-notas_cifras: ["bloque 2: original bilingüe: se compara contra el idioma principal (CS)", "bloque 6: original bilingüe: se compara contra el idioma principal (CS)", "bloque 8: original bilingüe: se compara contra el idioma principal (CS)"]
-avisos: ["bloque 8: ratio 1.69"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 6: original bilingüe: se compara contra el idioma principal (EN)", "página 7: original bilingüe: se compara contra el idioma principal (PT)", "página 17: original bilingüe: se compara contra el idioma principal (CS)", "página 22: original bilingüe: se compara contra el idioma principal (CS)", "página 26: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -41,13 +42,13 @@ IČ:   75009561
 mail@dicr.cz
 tel.: +420 736 521 003
 
-
 ## Página 2
+
 
 Este informe final es público y todos los hechos en él expuestos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ## 1 RESUMEN
 Fuente: Drážní inspekce
@@ -83,8 +84,8 @@ incumplimiento por parte del empleado de una empresa externa de la obligación
 de velar durante el trabajo en medida razonable por su seguridad y salud,
 de no entrar en la vía de tráfico explotada sin
 
-
 ## Página 4
+
 
 prestar atención a la circulación y de vigilar durante el paso del tren los
 vehículos ferroviarios que pasan.
@@ -95,8 +96,8 @@ Recomendación de seguridad:
 no fue emitida por la Drážní inspekce.
 •
 
-
 ## Página 5
+
 
 ## SUMMARY
 Grade: 
@@ -141,8 +142,8 @@ none.
 Recommendation:
 not issued.
 
-
 ## Página 6
+
 
 # Índice
 1 RESUMEN........................................................................................................................3
@@ -207,6 +208,7 @@ automática
 
 ## Página 7
 
+
 registro de datos.....................................................................................................25
 3.4.2 Componentes de la vía....................................................................................25
 3.4.3 Dispositivos de comunicación e información.........................................................25
@@ -248,8 +250,8 @@ sobre las causas................................................................
 6 RECOMENDACIONES DE SEGURIDAD.....................................................................................36
 7 ANEXOS..........................................................................................................................37
 
-
 ## Página 8
+
 
 ## Lista de siglas y símbolos utilizados
 BOZP
@@ -317,8 +319,8 @@ Paso a nivel
 žst.
 Estación de ferrocarril
 
-
 ## Página 9
+
 
 ## Lista de siglas de la legislación, normas y normativa interna
 utilizadas
@@ -369,10 +371,10 @@ vigorosa en el momento de producirse el suceso ferroviario
 TNŽ 34 2620 
 Norma Técnica Ferroviaria, "Instalaciones de seguridad ferroviaria: instalaciones de seguridad
 de estación y de tramo", en
-la redacción vigorosa en el momento de producirse el suceso ferroviario 
-
+la redacción vigorosa en el momento de producirse el suceso ferroviario
 
 ## Página 10
+
 
 ## 2 DATOS RELATIVOS AL SUCESO FERROVIARIO
 ### 2.1 Suceso ferroviario
@@ -400,8 +402,8 @@ de la vía, a 5 m del paso a nivel P4091. En el momento en que la cabeza del tre
 circulaba el material rodante remolcado, se produjo el atropello de un empleado de una empresa externa (en adelante también empleado
 lesionado
 
-
 ## Página 11
+
 
 por el tren y su lanzamiento a unos 6 m en el sentido de la marcha del tren hacia la zona de la rejilla,
 situada en la entrada de la parte cubierta del canal de drenaje a una distancia de 11,40 m del
@@ -428,6 +430,7 @@ y de la persona autorizada del gestor de la vía en los capítulos siguientes de
 los requisitos de su contenido.
 
 ## Página 12
+
 
 De la inspección del tren, realizada por la persona autorizada del gestor de la vía y del transportista, se constató:
 Debido al suceso, dado que el maquinista del tren no registró desde su puesto de trabajo, ni durante la marcha hacia el lugar de trabajo ni al pasar inmediatamente por él, ninguna persona en la vía, ni tampoco detectó (no pudo detectar) la ocurrencia de un SU, el tren se detuvo únicamente en el lugar de parada regular del tren en la est. Miedzylesie (República de Polonia). Allí fue contactado telefónicamente por la persona autorizada del gestor de la vía y del transportista. Tras su llegada al lugar de detención del tren, participó en la inspección de la HDV. La persona autorizada procedió a continuación a inspeccionar todas las TDV incluidas en el tren. No se detectaron huellas de contacto con una persona en ningún DV. No fue necesario realizar una inspección adicional del tren centrada en detalles técnicos, dada la naturaleza del suceso.
@@ -457,8 +460,8 @@ Decisión de la DI de iniciar la investigación:
 19. 2. 2020, en base a la gravedad del suceso
 extraordinario, a los conocimientos sobre el suceso
 
-
 ## Página 13
+
 
 y a las constataciones de la DI durante las 24 h siguientes, relativas
 a posibles deficiencias en el cumplimiento de la PRL en el lugar de
@@ -500,8 +503,8 @@ testigo núm. 2, empleado de CPS;
 testigo núm. 3, empleado de la empresa externa RB Management, a. s.
 •
 
-
 ## Página 14
+
 
 2.2.2 Trenes y su composición, incluidos los números de registro de los distintos vehículos ferroviarios
 Tren:
@@ -598,8 +601,8 @@ grupo de salida.
 2.2.3 Descripción de los componentes de la vía y del sistema de señalización (es decir, en particular el estado de la vía, los desvíos, los aparatos de cambio de aguja, las señales y el dispositivo de seguridad del tren)
 La vía en el lugar del SU, en el sentido de marcha del tren, transcurre en línea recta a la altura del terreno circundante y desciende con una pendiente de 4,85 ‰. Se trata de una vía única, electrificada, protegida por un dispositivo de seguridad de vía de enclavamiento automático AH-88A sin señales de sección (dispositivo de 3.ª categoría según TNŽ 34 2620). Se complementó permanentemente con comunicación telefónica debido al tráfico transfronterizo. El lugar del SU en el sentido
 
-
 ## Página 15
+
 
 de marcha del tren Pn 44251 se encontraba a una distancia de 5 m detrás del PdP P4091 en el km 112,379. La vía de acceso del paso a nivel cruza, además de la vía en la que se produjo el SU, la vía paralela 512A Hanušovice – Lichkov. El PdP de dos vías está protegido por un PZZ luminoso sin barreras. Para el control de todos los PZZ en los pasos a nivel del tramo Lichkov – Lichkov st. hr. se utilizan contadores de ejes. Los componentes de la vía y el sistema de señalización no guardaban relación causal con la ocurrencia del SU.
 ### 2.2.4 Uso de medios de comunicación
@@ -630,8 +633,8 @@ Telematika, a. s., una parte de los trabajos la realizaba la empresa RB Manageme
 11:03 h el SU fue comunicado por el jefe de estación, según el cuadro de comunicaciones, a la guardia de la PO Česká Třebová;
 •
 
-
 ## Página 16
+
 
 11:27 h el SU fue comunicado por la persona autorizada O18 de SŽ al COP de la DI;
 •
@@ -666,45 +669,45 @@ lugar del SU – la excavación se situaba a la izquierda de la vía en el senti
 
 ## Página 17
 
-la excavación terminó en el lecho de grava cerca de las cabezas de las traviesas
+la excavación terminó en un lecho de grava cerca de las cabezas de las traviesas
 y, dado que su finalización se encontraba a 70 cm del borde interior del carril izquierdo
-y con una profundidad de aprox. 70 cm, las personas
-situadas en la excavación invadían el perfil de
-circulación de la vía.
+y a una profundidad de aprox. 70 cm, las personas
+situadas en la excavación invadían el perfil de circulación
+de la vía.
 ## 3 REGISTRO DE LA INVESTIGACIÓN Y DE LAS EXPLICACIONES PRESENTADAS 
 ### 3.1 Resumen de las explicaciones presentadas (sujeto a la protección de la identidad de las personas)
-### 3.1.1 Empleados del gestor de la infraestructura y del transportista, incluidas las personas con relación contractual
+### 3.1.1 Empleados del gestor de la infraestructura y del transportista, incluidas personas con relación contractual
 maquinista del tren Pn 44251
-  – En el Acta con el empleado, entre otras cosas, indicó:
+  – en el Registro con el empleado, entre otras cosas, indicó:
 •
-◦a las 7:47 h entró en servicio en la estación de Česká Třebová;
+◦a las 7:47 h se incorporó al trabajo en la est. Česká Třebová;
 ◦estaba descansado y sin estrés físico ni psicológico;
-◦tras la salida del tren de la estación de Lichkov vio a su izquierda a dos personas con ropa de trabajo naranja en el paso a nivel, bastante lejos del montón de tierra excavada, en cualquier caso más allá de la zanja que había junto a las vías a la izquierda;
-◦dio la señal «Pozor» (Atención) y continuó la marcha, ya que no había nadie en las vías;
-◦tras su llegada a la estación de Medzylesie fue contactado telefónicamente por los investigadores, quienes le comunicaron la sospecha de que había atropellado a alguien durante la marcha del tren;
-◦tras la llegada del investigador, prestó declaración, participó en la inspección del tren y realizó la prueba de alcoholemia;
-◦no se encontraron rastros de impacto con una persona y la prueba de alcohol fue negativa;
-◦no percibió ningún golpe en el TDV, no se colocaron señales en el lugar de trabajo donde se produjo el MU, y no recibió ninguna orden escrita.
-jefe de estación de la estación de Lichkov
-  – En el Acta con el empleado, entre otras cosas, indicó:
+◦tras la salida del tren de la est. Lichkov vio a dos personas a la izquierda con ropa de trabajo naranja junto al paso a nivel, bastante lejos de la pila de tierra excavada, en cualquier caso más allá del foso que se encontraba junto a las vías a la izquierda;
+◦dio la señal «Pozor» y continuó la marcha, ya que no había nadie en las vías;
+◦tras llegar a la est. Medzylesie fue contactado telefónicamente por los investigadores, que había sospechas de que había atropellado a alguien durante la marcha del tren;
+◦tras la llegada del investigador, presentó su explicación, participó en la inspección del tren y realizó la prueba de alcoholemia;
+◦no se encontraron rastros de colisión con una persona y la prueba de alcohol fue negativa;
+◦no percibió ningún golpe en el HDV, no se colocaron señales en el lugar de trabajo donde se produjo el MU, y no recibió ninguna orden por escrito.
+jefe de estación de la est. Lichkov
+  – en el Registro con el empleado, entre otras cosas, indicó:
 •
-◦el despachador de explotación le comunicó la ocurrencia del MU;
+◦el despachista de explotación le comunicó la ocurrencia del MU;
 ◦de la información adicional que recibió se dedujo que se trataba de una colisión del tren Pn 44251 con un empleado de la empresa que realizaba los trabajos de excavación;
 ◦nadie le informó de la realización de los trabajos y nadie le solicitó ninguna medida;
 ◦además, comunicó el MU conforme al Cuadro de Comunicación.
 testigo n.º 1,
   empleado de CPS
-  – En el Registro Oficial de la explicación prestada a la PČR
+  – en el Registro Oficial de la explicación presentada ante la PČR
 •
 entre otras cosas, indicó:
-◦antes de llegar al lugar de trabajo, en el punto de reunión previo al desplazamiento al puesto de trabajo, firmó la seguridad laboral y fue informado por el empleado responsable de dónde se iba a trabajar;
+◦antes de llegar al lugar de trabajo, en el punto de encuentro antes de la salida hacia el lugar de trabajo, firmó el documento de seguridad laboral y fue informado por el empleado responsable del lugar donde se iba a trabajar;
 ◦alrededor de las 8:15 h llegó con sus compañeros al lugar de trabajo y se puso el chaleco reflectante;
-◦ya no recordaba con exactitud si sus compañeros llevaban chaleco reflectante;
+◦no recordaba con exactitud si sus compañeros llevaban chaleco reflectante;
 ◦tras recibir las instrucciones del administrador de CPS, comenzaron a trabajar;
-◦aproximadamente antes del mediodía comenzó a funcionar la señalización luminosa y sonora en el paso a nivel junto a la excavación;
-
+◦aproximadamente antes del almuerzo comenzó a funcionar la señalización luminosa y sonora en el paso a nivel junto a la excavación;
 
 ## Página 18
+
 
 ◦salió de la excavación en dirección desde las vías hacia la carretera;
 ◦el empleado lesionado estaba en ese momento echando grava justo al lado de la vía;
@@ -739,8 +742,8 @@ entre otras cosas, indicó:
 ◦oyó la señal de aviso del paso a nivel y se percató de que se aproximaba un tren de mercancías;
 ◦de repente oyó al testigo n.º 1 gritar «Pozor vlak» (Atención tren) y que el tren había atropellado al empleado lesionado;
 
-
 ## Página 19
+
 
 ◦no vio la colisión del empleado lesionado con el tren;
 ◦junto con el testigo n.º 1, siguieron las instrucciones de la operadora en la prestación de los primeros auxilios;
@@ -774,8 +777,8 @@ a la SUIP, entre otras cosas, indicó:
 ◦en el momento del accidente llevaba las herramientas de trabajo mencionadas anteriormente, solo respecto al casco no sabía si se había utilizado;
 ◦dado que el equipo trabajaba junto al PZ P4091, fuera del perfil de circulación y el paso a nivel se consideraba
 
-
 ## Página 20
+
 
 como zona de comunicación, no designó una guardia;
 ◦junto al PZ no hacía falta una guardia, ya que de todos modos se regiría por la señalización luminosa y sonora;
@@ -810,6 +813,7 @@ de la explicación prestada a la PČR, entre otras cosas, indicó:
 
 ## Página 21
 
+
 ◦el día en que se produjo el MU, se reunió con el administrador de la CPS y tres empleados en Letohrad;
 ◦preguntó al administrador de la CPS si había instruido a los empleados, y se le comunicó que sí;
 ◦tras comprobar el estado de los trabajos realizados hasta entonces en su propio puesto de trabajo, donde posteriormente se produjo el MU, comunicó a los empleados de la CPS que era necesario profundizar la zanja;
@@ -832,23 +836,22 @@ El explotador de la vía y el transportista tienen un sistema de garantía de la
 En el sistema de garantía de la seguridad de la explotación de la vía adoptado por el explotador de la vía SŽ, relacionado con las circunstancias de la aparición del MU en cuestión, no se detectó ninguna deficiencia.
 En el sistema de garantía de la seguridad de la explotación del transporte ferroviario adoptado por el transportista ČDC, relacionado con las circunstancias de la aparición del MU en cuestión, no se detectó ninguna deficiencia.
 
-
 ## Página 22
 
-### 3.2.2 Requisitos para los empleados del explotador de la vía y del transportista y aplicación de dichos requisitos
-Los requisitos para los empleados del explotador de la vía, del transportista y de la CPS, en particular los requisitos de idoneidad profesional y sanitaria, están establecidos por la Ley n.º 266/1994 Sb., el Decreto n.º 173/1995 Sb., el Decreto n.º 101/1995 Sb., el Decreto n.º 16/2012 Sb. y las normas internas del explotador de la vía y del transportista.
-En el momento de la aparición del MU en cuestión, todas las personas del explotador de la vía SŽ y del transportista ČDC involucradas en el MU que realizaban actividades en la explotación de la vía y del transporte ferroviario eran profesionalmente idóneas para el desempeño de la función que ocupaban.
-En el momento de la aparición del MU, todas las personas de la CPS que realizaban trabajos en la vía de circulación explotada en el lugar del MU eran profesional y sanitariamente idóneas para el desempeño de la función que ocupaban, con la excepción del empleado de la CPS lesionado, en lo que respecta a su estado de salud en el momento de la aparición del MU (detalles en los capítulos 3.6.2 y 4.2.1 de la presente ZZ).
-### 3.2.3 Procedimientos de control interno de seguridad y auditoría y sus resultados
-En el procedimiento de control interno de seguridad del explotador de la vía SŽ no se detectaron deficiencias. El explotador de la vía presentó un resumen de las inspecciones realizadas desde el 1. 1. 2019 hasta la fecha de aparición del MU. En el período indicado, en la estación de Lichkov se realizaron un total de 20 inspecciones al trabajo de los jefes de estación. En cinco casos se detectaron deficiencias, que se reprocharon a los empleados, y se realizó una instrucción. Del número total de inspecciones mencionado, el jefe de estación involucrado en el MU fue inspeccionado 5 veces, de las cuales en una ocasión se constató una anomalía, que le fue reprochada, y el jefe de estación recibió instrucción.
-Los mecanismos de control para el registro electrónico de las CPS establecidas en el ámbito de SŽ y el documento del ZDD (cuaderno telefónico) para el registro del modo de garantía de las normas de PRL en el lugar de trabajo donde se produjo el MU (según los requisitos de la norma SŽDC Bp1), estaban a disposición del jefe de estación de Lichkov en el momento de la aparición del MU. Los detalles se indican en el capítulo 4.4.1 de la presente ZZ.
-En el procedimiento de control interno de seguridad del transportista ČDC no se detectaron deficiencias. El transportista presentó un resumen de las inspecciones al trabajo del maquinista involucrado en el MU, realizadas en los años 2017 a 2019. En el período indicado, el maquinista fue inspeccionado 4 veces sin detectar deficiencias. Asimismo, a lo largo de los años 2019 y 2020 se inspeccionó un total de 5 veces el cumplimiento de la velocidad en la conducción de la HDV por parte del maquinista, sin detectar deficiencias.
-### 3.2.4 Interfaz entre los distintos sujetos involucrados y los componentes de la vía de circulación de la vía
-El propietario de la vía ferroviaria, categoría nacional, Lichkov st. hr. – Ústí nad Orlicí, es la República Checa. El derecho de administrar los bienes del Estado lo ejercía SŽ, con domicilio en Dlážděná 1003/7, Praha 1, PSČ 110 00.
-El explotador de la vía ferroviaria, categoría nacional, Lichkov st. hr. – Ústí nad Orlicí, era SŽ.
-
+### 3.2.2 Requisitos de los empleados del gestor de la infraestructura y del transportista y aplicación de dichos requisitos
+Los requisitos de los empleados del gestor de la infraestructura, del transportista y de la CPS, en particular los requisitos de su idoneidad profesional y sanitaria, están establecidos por la ley n.º 266/1994 Sb., por el decreto n.º 173/1995 Sb., por el decreto n.º 101/1995 Sb., por el decreto n.º 16/2012 Sb. y por las normas internas del gestor de la infraestructura y del transportista.
+En el momento de la ocurrencia de la MU objeto de estudio, todas las personas del gestor de la infraestructura SŽ y del transportista ČDC involucradas en la MU que desempeñaban actividades en la explotación de la infraestructura y del transporte ferroviario eran profesionalmente idóneas para el desempeño de la función que ocupaban.
+En el momento de la ocurrencia de la MU, todas las personas de la CPS que realizaban trabajos en la vía de circulación en explotación en el lugar de la MU eran profesional y sanitariamente idóneas para el desempeño de la función que ocupaban, con excepción del empleado de la CPS lesionado, en lo relativo a su estado de salud en el momento de la ocurrencia de la MU (detalles en los capítulos 3.6.2 y 4.2.1 de la presente ZZ).
+### 3.2.3 Procedimientos de control interno de seguridad y de auditoría y sus resultados
+En el procedimiento de control interno de seguridad del gestor de la infraestructura SŽ no se detectaron deficiencias. El gestor de la infraestructura presentó un resumen de las inspecciones realizadas desde el 1. 1. 2019 hasta la fecha de la ocurrencia de la MU. En el período indicado, en la estación de Lichkov se realizaron un total de 20 inspecciones al trabajo de los jefes de estación. En cinco casos se detectaron deficiencias, que se señalaron a los empleados, y se realizó una instrucción. Del número total de inspecciones mencionado anteriormente, el jefe de estación involucrado en la MU fue inspeccionado 5 veces, de las cuales en una ocasión se constató una anomalía, que le fue señalada, y el jefe de estación recibió instrucción.
+Los mecanismos de control para el registro electrónico de las CPS implantadas en el ámbito de SŽ y el documento del ZDD (cuaderno de teléfonos) para el registro del modo de garantía de las normas de PRL en el puesto de trabajo donde se produjo la MU (según los requisitos de la norma SŽDC Bp1), estaban a disposición del jefe de estación de Lichkov en el momento de la ocurrencia de la MU. Los detalles se indican en el capítulo 4.4.1 de la presente ZZ.
+En el procedimiento de control interno de seguridad del transportista ČDC no se detectaron deficiencias. El transportista presentó un resumen de las inspecciones al trabajo del maquinista involucrado en la MU, realizadas en los años 2017 a 2019. En el período indicado, el maquinista fue inspeccionado 4 veces sin detectar deficiencias. Asimismo, a lo largo de los años 2019 y 2020 se inspeccionó un total de 5 veces el cumplimiento de la velocidad durante la conducción de la HDV por el maquinista, sin detectar deficiencias.
+### 3.2.4 Interfaz entre los distintos sujetos involucrados y los componentes de la vía de circulación de la infraestructura
+El propietario de la infraestructura ferroviaria, categoría nacional, Lichkov st. hr. – Ústí nad Orlicí, es la República Checa. El derecho de administrar los bienes del Estado lo ejercía SŽ, con domicilio en Dlážděná 1003/7, Praha 1, PSČ 110 00.
+El gestor de la infraestructura ferroviaria, categoría nacional, Lichkov st. hr. – Ústí nad Orlicí, era SŽ.
 
 ## Página 23
+
 
 El transportista del tren Pn 44251 era ČDC, con domicilio en Jankovcova 1569/2c, 170 00 Praha 7 - Holešovice.
 El transporte ferroviario se explotaba con base en el contrato celebrado entre el explotador de la vía SŽ y el transportista ČDC con fecha 18. 12. 2018, en vigor desde la fecha de firma del contrato.
@@ -868,8 +871,8 @@ En la investigación se constató una infracción de la normativa jurídica en r
 •
 «Todo empleado está obligado a velar, según sus posibilidades, por su propia seguridad, por su salud...»;
 
-
 ## Página 24
+
 
 § 106 apartado 4 letra c) de la Ley n.º 262/2006 Sb.:
 •
@@ -896,8 +899,8 @@ art. 106 de la norma SŽDC Bp1:
 •
 «Ante el paso previsto de vehículos ferroviarios, los empleados deben adoptar una posición en la que no se vea amenazada su seguridad.»;
 
-
 ## Página 25
+
 
 art. 114 letra a) de la norma SŽDC Bp1:
 •
@@ -923,6 +926,7 @@ De los datos registrados se desprende:
 el frente del tren pasó por la estación de Lichkov a una velocidad de 68 km.h-1;
 
 ## Página 26
+
 
 místem MU v km 112,379 projelo čelo vlaku rychlostí 68 km.h-1;
 10:52:15 h
@@ -961,8 +965,8 @@ Zaměstnavatelé zajistili podmínky pro odpočinek před směnou a v průběhu 
 v souladu se zákonem č. 262/2006 Sb., resp. s nařízením vlády č. 589/2006 Sb., kterým
 se stanoví odchylná úprava pracovní doby a doby odpočinku zaměstnanců v dopravě.
 
-
 ## Página 27
+
 
 3.6.2 Zdravotní stav a osobní situace, které měly dopad na mimořádnou událost,
 včetně fyzického nebo psychického stresu
@@ -1004,8 +1008,8 @@ Předmětem Bezpečnostního doporučení bylo:
 ◦stanovit ve Smlouvách o dílo uzavřených s CPS odpovědného zaměstnance
 SŽDC, jenž vždy před započetím práce CPS na provozované nevyloučené
 
-
 ## Página 28
+
 
 dopravní cestě provede kontrolu dodržení stanovených vztažných
 technologických postupů pro plánovanou práci na zařízení;
@@ -1056,8 +1060,8 @@ v rámci smluvních ujednání se zhotoviteli vždy zakotvit podmínky provádě
 ze strany objednatele (provozovatele dráhy) na celou oblast BOZP a všech
 příslušných ustanovení právních předpisů a technologických postupů provozovatele
 
-
 ## Página 29
+
 
 dráhy, ve vazbě na rizika, charakter a rozsah (délku) objednávaných (prováděných)
 prací, a tyto kontroly následně namátkově provádět, řádně dokumentovat,
@@ -1104,6 +1108,7 @@ osy pozemní komunikace ŽP P4091. Poškozený zaměstnanec CPS ještě před p�
 
 ## Página 30
 
+
 en el hospital, falleció a causa de las lesiones sufridas tras ser alcanzado por el tren.
 ### 4.2 Análisis
 ### 4.2.1 Evaluación de los hechos constatados en el punto 3 y exposición de conclusiones sobre la causa del suceso excepcional y la actuación de los servicios de emergencia
@@ -1117,8 +1122,8 @@ Conclusión de la DI sobre el hallazgo del punto 1:
 • el empleado de la CPS lesionado fue informado el 18. 2. 2020, con firma de acuse de recibo, sobre el programa de formación inicial de PRL para la obra «Reconstrucción de la est. de Letohrad». En el punto 13 se menciona «Énfasis en la prohibición de consumir alcohol, drogas y otras sustancias estupefacientes en el centro de trabajo, antes de incorporarse al turno y durante la jornada laboral, también fuera del empleador»;
 • el empleado de la CPS lesionado confirmó con la firma del documento «Acuerdo de realización de trabajo» que, de acuerdo con el texto del punto n.º 6 «El empleador informó al empleado de la legislación aplicable al trabajo realizado...», de lo que también se desprende la información sobre la obligación básica del empleado, expuesta en
 
-
 ## Página 31
+
 
 el apartado 4, letra e), de la Ley n.º 262/2006 Sb. «El empleado está obligado... a no consumir bebidas alcohólicas ni a consumir indebidamente otras sustancias adictivas en los centros de trabajo del empleador y durante la jornada laboral, también fuera de dichos centros de trabajo, y a no acceder a los centros de trabajo del empleador bajo su influencia...».
 ### 2. el empleado de la CPS lesionado no llevaba puesta, en el momento de la realización del trabajo y antes del SE, la prenda de alta visibilidad. No se trata de un hallazgo en relación causal con el SE. La justificación se desprende del contenido del punto n.º 3.
@@ -1130,8 +1135,8 @@ Conclusión de la DI sobre el hallazgo del punto 3:
 • el empleado de la CPS lesionado confirmó con la firma del documento «Acuerdo de realización de trabajo» que, de acuerdo con el texto del punto n.º 6 «El empleador informó al empleado de la legislación aplicable al trabajo realizado...», de lo que también se desprende la información sobre la obligación básica del empleado, expuesta en el apartado 4 de la Ley 262/2006 Sb. «Cada empleado está obligado a velar, dentro de sus posibilidades, por su propia seguridad, por su salud...» (asimismo, también el art. 98 de la norma SŽDC Bp1);
 • el empleado de la CPS lesionado realizó el 27. 1. 2020 la «Formación inicial VŠ-01 para la autorización de acceso a las instalaciones de SŽDC y para las actividades laborales que requieren la competencia profesional básica y los conocimientos del empleado relacionados con el desplazamiento por la vía de circulación explotada...», finalizada con una evaluación de conocimientos con el resultado «Aprobado». Al alcance del contenido de la formación inicial VŠ-01, según la norma SŽDC Zam1, pertenece también el conocimiento del art. 121 de la norma SŽDC Bp1 «Obligaciones de los empleados que trabajan en la vía de circulación explotada... durante el paso, vigilar los vehículos que pasan» y el conocimiento del art. 114, letra a), de la norma SŽDC Bp1 «Durante el trabajo en la vía de circulación explotada se prohíbe: a) acceder a la vía de circulación
 
-
 ## Página 32
+
 
 explotada sin concentrarse en la circulación...».
 ### 4. el maquinista del empleado de la CPS lesionado no vio, durante la marcha hacia el puesto de trabajo, desde su puesto en el espacio de la vía o en el límite del perfil de rodadura del tren (hecho que complementa y respalda la constatación del punto 3.)
@@ -1145,8 +1150,8 @@ La causa inmediata del suceso excepcional fue:
 El factor que contribuyó al suceso excepcional fue:
 • la influencia de una sustancia adictiva en el comportamiento del empleado de una empresa externa durante el turno laboral en el que se produjo el suceso excepcional.
 
-
 ## Página 33
+
 
 ### 4.3.2 Causas fundamentales relacionadas con la cualificación, los procedimientos y el mantenimiento
 La causa fundamental del suceso excepcional fue:
@@ -1166,6 +1171,7 @@ a) si no se trata de un trabajo regular de garantía del transporte ferroviario 
 Deficiencia: La actividad de la CPS en el puesto de trabajo donde se produjo el SE no fue notificada al empleado ferroviario correspondiente (el jefe de estación de la est. de Lichkov).
 
 ## Página 34
+
 
 art. 137 del reglamento SŽDC Bp1:
 «La condición básica para cualquier trabajo en instalaciones es la obligación de acordar las condiciones de trabajo en instalaciones entre el empleado aislado o el responsable de los trabajos y el empleado de tráfico. El acuerdo de condiciones incluye: ...»
@@ -1198,42 +1204,35 @@ su propia observación,
 •
 Deficiencia: el puesto de trabajo donde se produjo el MU no fue vigilado por ninguno de los medios anteriores
 
-
 ## Página 35
 
-es decir, que no se designó a ningún otro miembro del grupo de trabajo que desempeñara las obligaciones del responsable de los trabajos contenidas en los arts. 160 c) – f) y 161 del reglamento SŽDC Bp1.
-
+formas, es decir, que tampoco se designó a otro miembro del grupo de trabajo que desempeñara las obligaciones del director de los trabajos contenidas en el art. 160 c) – f) y el art. 161 del reglamento SŽDC Bp1.
 art. 181 del reglamento SŽDC Bp1:
-«Es obligación del empleado designado de la administración técnica competente de la OŘ SŽDC (Administración de puentes y túneles, Administración de edificios y viviendas, Administración de líneas, Administración de técnica de telecomunicaciones y señalización o Administración de técnica eléctrica y energía), del empleado designado de la Administración de estaciones de pasajeros (en adelante «SON»), o en su caso del empleado designado de otra OS que tenga dichas actividades bajo su responsabilidad, garantizar la información oportuna a los empleados de tráfico competentes que organizan el transporte ferroviario en el ámbito correspondiente sobre los trabajos planificados en instalaciones realizados mediante CPS en vías en servicio no excluidas.»
-Deficiencia: La DI solicitó, junto con la consulta personal de la DI en la aplicación informática «Registro de entradas CPS» en la oficina de tráfico de la est. Lichkov, un registro que acreditara que el sistema de información interno del operador ferroviario había informado al empleado de tráfico (el jefe de estación de la est. Lichkov) de la realización de trabajos de CPS en el puesto de trabajo donde se produjo el MU. A la fecha de producción del MU no se encontró dicho registro.
-
+"Es obligación del empleado designado de la correspondiente administración especializada de la OŘ SŽDC (Administración de puentes y túneles, Administración de edificios y gestión de viviendas, Administración de líneas, Administración de técnica de telecomunicaciones y señalización o Administración de ingeniería eléctrica y energía), del empleado designado de la Administración de estaciones de pasajeros (en adelante "SON"), o en su caso del empleado designado de otra OS que tenga dichas actividades bajo su responsabilidad, garantizar la oportuna información a los correspondientes empleados ferroviarios que organizan el transporte ferroviario en el dado ámbito, sobre los trabajos planificados en las instalaciones realizados mediante CPS en las vías en servicio no excluidas."
+Deficiencia: La DI solicitó, junto con la visualización personal de la DI en la aplicación informática "Registro de accesos CPS" en la oficina de tráfico de la est. Lichkov, un registro que acreditara que el sistema de información interno del operador ferroviario informó al empleado ferroviario (jefe de estación de la est. Lichkov) de la realización de trabajos CPS en el puesto de trabajo donde se produjo el MU. A la fecha de ocurrencia del MU no se encontró dicho registro.
 art. 182 del reglamento SŽDC Bp1:
-«El responsable de los trabajos y el empleado aislado de CPS se presentarán, antes del comienzo de los trabajos en instalaciones, ante el empleado de tráfico competente con el fin de acordar las condiciones de seguridad laboral en la vía de tráfico en servicio y le comunicarán los demás datos necesarios en virtud de los cuales esté autorizado a realizar los trabajos en instalaciones. Si el responsable de los trabajos o el empleado aislado de CPS se presenta personalmente ante el empleado de tráfico, es su obligación acreditarse también con el documento que le autoriza a acceder a la vía de tráfico ferroviario en servicio de SŽDC.»
-Deficiencia: Incumplido en relación con las deficiencias señaladas respecto de los arts. 137 y 130 del reglamento SŽDC Bp1.
-
+"El director de los trabajos y el empleado solitario de CPS se presentarán al correspondiente empleado ferroviario antes del inicio de los trabajos en las instalaciones con el fin de acordar las condiciones de seguridad laboral en la vía de transporte ferroviario en servicio y le comunicarán los demás datos necesarios en virtud de los cuales está autorizado a realizar los trabajos en las instalaciones. Si el director de los trabajos o el empleado solitario de CPS se presenta personalmente ante el empleado ferroviario, es su obligación acreditarse también con el documento que le autoriza al acceso a la vía de transporte ferroviario en servicio de SŽDC."
+Deficiencia: No cumplido en relación con las deficiencias indicadas para el art. 137 y el art. 130 del reglamento SŽDC Bp1.
 Por parte del empleado perjudicado se produjo, además de la relación causal, el incumplimiento de:
-la disposición definitoria del art. 106, apartado 4, letra d), de la ley núm. 262/2006 Sb.:
+la disposición definitoria del § 106 apartado 4 letra d) de la ley nº 262/2006 Sb.:
 •
-punto 10) del programa de formación inicial en PRL para la obra «Reconstrucción de la est. Letohrad»:
-«instrucción sobre la vestimenta adecuada en el puesto de trabajo...»;
-la disposición definitoria del art. 106, apartado 4, letra d), de la ley núm. 262/2006 Sb.:
+punto 10) del esquema de la formación inicial en PRL para la obra "Reconstrucción de la est. Letohrad":
+"instrucción sobre la vestimenta adecuada en el puesto de trabajo...";
+la disposición definitoria del § 106 apartado 4 letra d) de la ley nº 262/2006 Sb.:
 •
-punto 17) del programa de formación inicial en PRL para la obra «Reconstrucción de la est. Letohrad»:
-«...énfasis en el uso correcto de los EPI prescritos y asignados»;
-art. 117 del reglamento SŽDC Bp1:
+punto 17) del esquema de la formación inicial en PRL para la obra "Reconstrucción de la est. Letohrad":
+"...énfasis en el uso correcto de los EPP prescritos y asignados";
+el art. 117 del reglamento SŽDC Bp1:
 •
-«Todos los empleados en la vía de tráfico en servicio, durante la realización del trabajo y en los desplazamientos relacionados con el desempeño directo de las obligaciones laborales, están obligados a usar, al menos en la mitad superior del cuerpo, ropa de trabajo de color de advertencia o un chaleco de advertencia. Estos no deben estar excesivamente sucios, engrasados o impregnados de inflamables. La ropa de color de advertencia y el chaleco de advertencia deben estar abrochados…».
-
+"Todos los empleados en la vía de transporte ferroviario en servicio durante la realización del trabajo y durante el movimiento relacionado con el desempeño directo de las obligaciones laborales están obligados a usar, al menos en la mitad superior del cuerpo, ropa de trabajo de color de advertencia o un chaleco de advertencia. Estos no deben estar excesivamente sucios, engrasados o empapados de material inflamable. Tanto la ropa de color de advertencia como el chaleco de advertencia deben estar abrochados…".
 
 ## Página 36
 
 ## 5 MEDIDAS ADOPTADAS
-### 5.1 Lista de medidas que ya se han tomado o adoptado como consecuencia del suceso excepcional
-El operador ferroviario y el transportista no han tomado ni emitido ninguna medida.
-
+### 5.1 Lista de medidas que, como consecuencia del suceso ferroviario, ya se han adoptado o tomado
+El gestor de la infraestructura y el transportista no han adoptado ni emitido ninguna medida.
 ## 6 RECOMENDACIONES DE SEGURIDAD
-Atendiendo a las causas y circunstancias de producción del suceso excepcional constatadas, la Inspección Ferroviaria no emite recomendaciones de seguridad.
-
+Atendiendo a las causas y circunstancias del suceso ferroviario, la Inspección Ferroviaria no emite recomendaciones de seguridad.
 En Brno, a 13 de noviembre de 2020
 Libor Bruzl v. r.
 Bc. Josef Dvořák v. r.
@@ -1242,8 +1241,8 @@ Director
 de la Inspección Territorial de Brno
 de la Inspección Territorial de Brno
 
-
 ## Página 37
+
 
 ## 7 ANEXOS
 Fig. n.º 3: Corte transversal de la zanja que invade el perfil de paso de la vía.

@@ -10,13 +10,14 @@ chars: 85464
 ratio_longitud: 1.27
 tokens_in: 41945
 tokens_out: 27692
-verificacion: revisar
-notas_cifras: ["bloque 2: original bilingüe: se compara contra el idioma principal (CS)", "bloque 5: cifras cortas: 2/91", "bloque 7: original bilingüe: se compara contra el idioma principal (CS)", "bloque 13: original bilingüe: se compara contra el idioma principal (CS)"]
-avisos: ["bloque 7: ratio 1.62"]
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (PT)", "página 5: original bilingüe: se compara contra el idioma principal (EN)", "página 6: original bilingüe: se compara contra el idioma principal (CS)", "página 7: original bilingüe: se compara contra el idioma principal (CS)", "página 9: original bilingüe: se compara contra el idioma principal (CS)", "página 15: cifras cortas: 2/37"]
 ---
+
 ## Página 1
+
 
 Inspección Ferroviaria
 República Checa
@@ -43,8 +44,8 @@ IČ:   75009561
 http://www.dicr.cz
 tel.: 224 805 444
 
-
 ## Página 2
+
 
 # RESUMEN
 Gravedad:
@@ -74,8 +75,8 @@ maniobra anterior hacia la estación Praha-Malešice.
 Factor contribuyente: superación de la velocidad máxima en la entrada al patio de maniobras
 de la estación Praha-Žižkov.
 
-
 ## Página 3
+
 
 Causa subyacente:
 aplicación incorrecta de los procedimientos tecnológicos del gestor de la infraestructura para la
@@ -85,13 +86,13 @@ procedimientos tecnológicos insuficientes para la operación en el patio de man
 estación Praha-Žižkov
 Recomendaciones: no emitidas.
 
-
 ## Página 4
+
 
 Este informe final es público y todos los documentos y hechos están respaldados por el expediente de investigación.
 
-
 ## Página 5
+
 
 # Índice
  Resumen .............................................................................................................................3
@@ -128,6 +129,7 @@ incluidas personas en relación contractual ....................................
 3.1.1 Empleados del explotador ferroviario y del transportista, incluidas personas en relación
 
 ## Página 6
+
 
 poměru ...............................................................................................................17
 3.1.2 Otras personas ................................................................................................20
@@ -166,8 +168,8 @@ manejo y uso ...................................................................
 ............................................................................................................................28
 4.2 Examen ......................................................................................................................29
 
-
 ## Página 7
+
 
 4.2.1 Evaluación de los hechos constatados según el punto 3 y formulación de conclusiones sobre la causa del 
 suceso excepcional y la actuación de los servicios de emergencia ..........................................29
@@ -191,6 +193,7 @@ suceso excepcional, que sin embargo no son relevantes para las conclusiones sobr
  Foto 3: Vista de la aguja ............................................................................................36
 
 ## Página 8
+
 
 ## Lista de abreviaturas, símbolos y nombres abreviados utilizados
 COP
@@ -248,8 +251,8 @@ el 13. 3. 1997, con efectos desde el 28. 12. 1997
 TK                                                 vía de trazado
 ÚP                                                permiso oficial
 
-
 ## Página 9
+
 
 VI
 inspector superior
@@ -263,8 +266,8 @@ inspector superior
 | ZDD | documentación de tráfico básica (entre otros SŘ OŘ) . , |
 | žst . | estación de ferrocarril |
 
-
 ## Página 10
+
 
 ## 1 RESUMEN
 Grupo del suceso:
@@ -300,8 +303,8 @@ Causas en el sistema de seguridad: procedimientos tecnológicos insuficientes (n
 Rec. de seg.:
 no emitidas por la DI.
 
-
 ## Página 11
+
 
 ## 2 DATOS RELATIVOS A LA OCURRENCIA EXTRAORDINARIA
 ## 2.1
@@ -329,19 +332,20 @@ dañado junto con la carga (parte frontal del contenedor).
 
 ## Página 12
 
+
 A continuación se constató que, delante del frente del HDV 742.027-6, se encontraban a la izquierda en el sentido de la marcha dos DV descarrilados y totalmente destruidos de la composición estacionada durante la maniobra anterior en el patio de mercancías en la vía 1, a saber, el DV de la serie Sggrss 33 54 4975 136 -1, enganchado como primero desde el taquillón de la aguja n.º 8, y el DV de la serie Sggrss 33 54 4975 008-2, enganchado como segundo. Otro DV de la serie Sggrss 33 54 4975 098-3, enganchado en esta composición en la vía 1 como tercero, estaba descarrilado por la rueda derecha del primer bogie delantero. En el lugar donde se produjo el MU se hallaban esparcidas piezas de los DV dañados y del HDV dañado.
 En todos los DV, excepto los 2 destruidos, se realizó la comprobación de la suspensión del DV, durante la cual se constató que la suspensión estaba en orden, incluida la conexión de la tubería continua de freno neumático del DV mediante acoples de freno.
 El HDV 742.027-6 circulaba con un tramo de maniobra más largo por delante y estaba conducido desde el lado izquierdo de la cabina del maquinista en el sentido de la marcha. La palanca de sentido estaba accionada para la marcha hacia atrás. El freno de tren se encontraba en la posición de frenado de acción rápida, el freno auxiliar en la posición de desfrenado. El extremo del tramo de maniobra se encontraba en el pk 2,743, donde estaba el HDV de empuje 742.380-9. En el pk 3,200 se encontró un hito hectométrico, que estaba en su mayor parte enterrado en el suelo y la posición kilométrica solo era legible tras retirar la tierra.
 La aguja de enlace n.º 3a estaba bloqueada, el contrapeso de la aguja n.º 3a estaba con la mitad negra hacia el suelo en dirección desde el señal de aguja, el contrapeso de la aguja n.º 3b estaba a la derecha hacia el señal de aguja con la mitad negra hacia el suelo, el señal de aguja indicaba la señal «Circulación en sentido directo de derecha a izquierda». La aguja simple n.º 4 estaba bloqueada con cerradura de cambio, mirando en el sentido de la marcha del DV el contrapeso de la aguja n.º 4 estaba a la derecha del señal de aguja con la mitad negra hacia el suelo, el señal de aguja indicaba la señal «Circulación a la izquierda». La aguja n.º 8 estaba desbloqueada, la llave estaba en la cerradura de cambio, mirando en el sentido de la marcha del DV el contrapeso de la aguja n.º 8 estaba a la izquierda del señal de aguja, con la mitad negra hacia el suelo, el señal de aguja indicaba la señal «Circulación a la izquierda». A la izquierda en el sentido de la marcha del DV, en el lugar del MU, los desvíos de las agujas fueron dañados por los DV descarrilados.
 En la cabina del jefe de maniobras se encontró un manojo de llaves de agujas. En el manojo se encontraron cuatro llaves de las seis. El manojo contenía las siguientes llaves: llave con etiqueta en forma de triángulo con la marca 5, llave con etiqueta en forma de cuadrado con la marca 3a, llave con etiqueta en forma de cuadrado con la marca 11, llave con etiqueta en forma de cuadrado con la marca 4/14. Al manojo le faltaban dos llaves, la llave con etiqueta en forma de triángulo con la marca 8 y la llave con etiqueta en forma de cuadrado con la marca 3b/1. Las llaves que faltaban se encontraron en las cerraduras de cambio de las agujas n.º 8 y 3b.
 
-
 ## Página 13
+
 
 Ilustración 1: Plano del patio de mercancías Praha-Žižkov
 
-
 ## Página 14
+
 
 2.1.3 Decisión de iniciar la investigación de las causas y circunstancias de la producción, composición del equipo de personas cualificadas y forma de dirigir la investigación de las causas y circunstancias de la producción
 La producción del MU fue comunicada al DI en el COP por la persona autorizada para investigar las causas y circunstancias de la producción del MU por parte del gestor de la infraestructura y del transportista (en adelante, persona autorizada) a las 18:25 horas. Al lugar de la producción del MU acudió el VI ÚI Plzeň y, tras la investigación realizada, a las 21:36 horas se emitió el permiso para iniciar los trabajos de despeje.
@@ -365,6 +369,7 @@ En el tramo entre la est. Praha-Malešice y el patio de mercancías Praha-Žižk
 
 ## Página 15
 
+
 nákladiště Praha-Žižkov.
 El patio de maniobras Praha-Žižkov no está cubierto por ninguna señal. La velocidad máxima permitida en el patio de maniobras es de 10 km/h a través de los desvíos n.º 4, 1, 2, 6, 34 y de 15 km/h en todos los demás vías.
 ### 2.2.4 Uso de los medios de comunicación
@@ -387,8 +392,8 @@ En el SE no se produjo perjuicio para la salud de los empleados del operador de 
 ### 2.3.2 En objetos transportados, equipaje y otros bienes
 En los objetos transportados, el equipaje y otros bienes no se produjo daño.
 
-
 ## Página 16
+
 
 ### 2.3.3 En vehículos ferroviarios, componentes de la vía de tráfico y en el medio ambiente
 El operador de la vía y el transportista cuantificaron el daño:
@@ -413,8 +418,8 @@ Del «Acta con el empleado», levantada con el maquinista del HDV 742.380-9 en e
 • el día 10. 4. 2011 se incorporó en la žst. Praha-Malešice al HDV reserva n.º 2 Žižkov y realizó con el viaje PMD el servicio del patio de maniobras Praha-Žižkov. Tras incorporarse, con el HDV se acopló a la carga en la vía octava y como PMD partió hacia el patio de maniobras. Allí se realizó la distribución de la carga transportada. Por la tarde, durante el servicio, se estacionó en la primera vía del patio de maniobras un tren de vagones vacíos y, tras obtener el permiso de salida, partió con el PMD desde la primera vía hacia Praha-Malešice para la siguiente carga. Tras llegar a Praha-Malešice, con el HDV se acopló a la tercera vía para el remolque PMD;
 • tras acoplar y realizar la prueba simple de freno con el maquinista en cabeza del PMD, a él en el remolque se incorporó el maniobrador y a continuación se produjo la salida de la žst. Praha-Malešice;
 
-
 ## Página 17
+
 
 • durante todo el tiempo no oyó en la radio ninguna instrucción hasta la detención; tras preguntar, fue informado por el maquinista en cabeza de la sección de maniobra de que habían entrado en la primera vía ocupada en los vagones.
 Del «Acta con el empleado», levantada con el jefe de maniobra, empleado de ČD Cargo, a. s., entre otros datos se desprende:
@@ -431,6 +436,7 @@ Del «Acta con el empleado», levantada con el maquinista del HDV en cabeza del 
 
 ## Página 18
 
+
 de la respuesta a la pregunta formulada: «¿A qué velocidad debe entrar en la estación de clasificación Praha-Žižkov?» se deduce que 15 km·h⁻¹, pero según su opinión, dada la gran carga, no era posible respetarlo.
 Del «Acta con el empleado», levantada con el jefe de estación de žst. Praha-Malešice el 13. 4. 2011 por el gestor de la vía, entre otros, se deduce:
 - el 10 de abril de 2011 a las 8:00 h entregó al maniobrador de ČD Cargo, a. s., la Orden General para PMD y simultáneamente también las llaves de la estación de clasificación Praha-Žižkov; la recepción de las llaves la confirmó el maniobrador en un cuaderno especial. A las 8:10 h partió el PMD hacia la estación de clasificación, de cuya salida informó previamente al jefe de maniobras hacia la estación de clasificación. De vuelta en žst. Praha-Malešice, el PMD regresó a las 10:25 h. El maniobrador no le devolvió las llaves, permanecieron en la estación de clasificación;
@@ -444,6 +450,7 @@ Del «Acta con el empleado», levantada con el jefe de estación de žst. Praha-
 - de la respuesta a la pregunta formulada: «¿Estaba usted informado en cada viaje de la posición de los desvíos en la estación de clasificación Praha-Žižkov?» se deduce que no lo estaba, eso no lo tenía bajo control. Las llaves de los desvíos las tenían probablemente encima los maniobradores, o las llaves quedaron en Žižkov. Las llaves, según el reglamento de maniobras, se entregaron antes de comenzar la maniobra de la estación de clasificación Praha-Žižkov y, cuando bajaban a la plataforma giratoria, se las conservaban encima. La entrega
 
 ## Página 19
+
 
 de las llaves al jefe de estación de žst. Praha-Malešice no se producía, porque en esencia no finalizaban el PMD y continuaban el trabajo de forma ininterrumpida, de modo que conservaban las llaves encima. Las devolvían únicamente tras finalizar el turno;
 - de la respuesta a la pregunta formulada: «¿Se emitía la orden para cada viaje del PMD de Malešice a Žižkov, o se emitía solo una para todo el día?» se deduce que, si no se producían circulaciones de otros operadores, dado que se circulaba prácticamente todo el día igual, es decir, la misma locomotora, el mismo maniobrador, se emitía una orden para todo el turno. El modelo de orden estaba guardado en el ordenador y la posición km 3,3 estaba introducida fijamente en el texto. Que en el PMD se maniobraban 2 desvíos, eso, según su opinión, los jefes de estación no lo tenían presente; pensaban que la orden estaba escrita para el desvío extremo.
@@ -463,44 +470,78 @@ Sobre la base de otros hechos constatados, DI constata que el gestor de la vía
 
 ## Página 20
 
-y el transportista no garantizó en su totalidad el cumplimiento de las instrucciones y procedimientos tecnológicos antes mencionados, y con ello también de los sistemas de garantía de seguridad adoptados. Se detectó una anomalía.
-### 3.2.2 Requisitos para el personal del gestor de la infraestructura y del transportista y su aplicación
-La condición de aptitud para la conducción de un vehículo ferroviario la establece el § 45 de la Ley núm. 266/1994 Sb. El conocimiento de las condiciones de la vía por parte de la persona que conduce un DV en las líneas y en las instalaciones de tráfico lo impone al gestor de la infraestructura ferroviaria el § 35 apartado 1 letra a) del decreto núm. 173/1995 Sb. El requisito de cualificación profesional de las personas que realizan el transporte ferroviario lo establece el § 35 apartado 1 letra f) de la Ley núm. 266/1994 Sb. y el § 33 apartado 2 del decreto núm. 173/1995 Sb.
-Las condiciones para la obtención y el mantenimiento de la cualificación profesional, la cualificación profesional del personal, el alcance de los conocimientos, la verificación de los conocimientos y la formación obligatoria en la sociedad ČD Cargo, a. s., las establece la norma interna IN PERs28-B-2009.
-Condición de cualificación profesional para el personal del transportista que realiza la maniobra de la estación de mercancías Praha-Žižkov es el conocimiento del Reglamento de maniobra de la estación de mercancías Praha-Žižkov.
-• el maquinista del HDV 742.027-6, empleado del transportista, disponía de un certificado válido de aptitud para la conducción de vehículos ferroviarios, número de registro 513002, expedido por la Autoridad Ferroviaria el 31. 1. 2011. Cualificación profesional para el desempeño de la función de maquinista acreditada;
-• el maquinista del HDV de empuje 742.380-9, empleado del transportista, disponía de un certificado válido de aptitud para la conducción de vehículos ferroviarios, número de registro 512022, expedido por la Autoridad Ferroviaria el 6. 12. 2010. Cualificación profesional para el desempeño de la función de maquinista acreditada;
-• el jefe de maniobras, empleado del transportista, cualificación profesional para el desempeño de la función de jefe de maniobras acreditada;
-• el maniobrador, empleado del transportista; cualificación profesional para el desempeño de la función de maniobrador acreditada.
-El personal del transportista en las funciones de maquinista, jefe de maniobras y maniobrador, participante en el MU, estaba en el momento de la ocurrencia del MU cualificado profesionalmente para el desempeño de sus funciones y para las actividades laborales establecidas por el transportista y por el gestor de la infraestructura.
+y el transportista no garantizaron en su totalidad el cumplimiento de las instrucciones y procedimientos tecnológicos antes mencionados y, con ello, de los sistemas de garantía de seguridad adoptados. Se detectó una anomalía.
+### 3.2.2 Requisitos del operador de la infraestructura y del transportista para el personal y su aplicación
+La condición de aptitud para conducir un vehículo ferroviario la establece el § 45 de la Ley núm. 266/1994 Sb. La familiarización de la persona que conduce el DV con las condiciones de la vía en las líneas y en las instalaciones de tráfico la impone al operador del transporte ferroviario el § 35 apartado 1 letra a) del Decreto núm. 173/1995 Sb. El requisito de competencia profesional de las personas que realizan el transporte ferroviario lo establece el § 35 apartado 1 letra f) de la Ley núm. 266/1994 Sb. y el § 33 apartado 2 del Decreto núm. 173/1995 Sb.
+Las condiciones para obtener y mantener la competencia profesional, la cualificación profesional de los empleados, el alcance de los conocimientos, la verificación de los conocimientos y la formación obligatoria en la sociedad ČD Cargo, a. s., las establece la norma interna IN PERs28-B-2009.
+Condición de competencia profesional para los empleados del transportista que realizan la maniobra en la estación de mercancías Praha-Žižkov es el conocimiento de la Orden de operaciones de la estación de mercancías Praha-Žižkov.
+• el maquinista del HDV 742.027-6, empleado del transportista, disponía de un certificado de aptitud válido para conducir vehículos ferroviarios, número de registro 513002, expedido por la Autoridad Ferroviaria el 31. 1. 2011. Competencia profesional para el desempeño de la función de maquinista acreditada;
+• el maquinista del HDV de empuje 742.380-9, empleado del transportista, disponía de un certificado de aptitud válido para conducir vehículos ferroviarios, número de registro 512022, expedido por la Autoridad Ferroviaria el 6. 12. 2010. Competencia profesional para el desempeño de la función de maquinista acreditada;
+• jefe de maniobras, empleado del transportista, competencia profesional para el desempeño de la función de jefe de maniobras acreditada;
+• maniobrador, empleado del transportista; competencia profesional para el desempeño de la función de maniobrador acreditada.
+Los empleados del transportista en las funciones de maquinista, jefe de maniobras y maniobrador, participantes en el MU, eran profesionalmente competentes en el momento de la producción del MU para el desempeño de sus funciones y para las actividades laborales determinadas por el transportista y el operador de la infraestructura.
 No se detectaron anomalías.
 ### 3.2.3 Procedimiento de control interno de seguridad y sus resultados
-Los procedimientos tecnológicos para la actividad de control están contenidos en las normas internas y otras medidas del transportista y del gestor de la infraestructura. El sistema de actividad de control está regulado por la norma interna del transportista IN OR7-A-2008 y IN Ors34-B-2009.
-En la actividad de control del transportista no se detectó que el OŘ no contenga procedimientos tecnológicos para la realización de maniobras en la estación de mercancías Praha-Žižkov desde el punto hasta el que se había autorizado la circulación del PMD.
+Los procedimientos tecnológicos para la actividad de control están contenidos en las normas internas y otras medidas del transportista y del operador de la infraestructura. El sistema de actividad de control está regulado por la norma interna del transportista IN OR7-A-2008 y IN Ors34-B-2009.
+En la actividad de control del transportista no se detectó que la OŘ no contuviera procedimientos tecnológicos para la realización de maniobras en la estación de mercancías Praha-Žižkov desde el punto hasta el que se hubiera autorizado la circulación del PMD.
 Se detectó una anomalía.
-
 
 ## Página 21
 
-### 3.2.4 Interfaz entre los distintos sujetos participantes y los componentes de la vía de tráfico
-• La autorización administrativa para la explotación de la infraestructura la expidió la Autoridad Ferroviaria al gestor de la infraestructura Správa železniční dopravní cesty, organización estatal, con domicilio en Dlážděná 1003/7, Praha 1 Nové Město, PSČ 110 00, bajo el n.º de expediente 3-4277/07-DÚ/Le, Ev. n.º ÚP/2008/9002, el 29. 5. 2008;
-• La licencia para la explotación del transporte ferroviario la expidió la Autoridad Ferroviaria al transportista ČD Cargo, a. s., con domicilio en Jankovcova 1569/2C, Praha 7, PSČ 170 00, bajo el n.º de expediente 3-3841/07-DÚ/Le, Ev. n.º L/2007/1452, el 19. 11. 2007 en la redacción de las modificaciones vigentes;
-• Contrato núm. 168/10 sobre la explotación del transporte ferroviario en la vía de tráfico ferroviario de la red ferroviaria de ámbito nacional y de las líneas regionales en propiedad de la República Checa, celebrado entre la Správa železniční dopravní cesty, organización estatal, con domicilio en Praha 1, Nové Město, Dlážděná 1003/7, PSČ 110 00, y ČD Cargo, a. s., con domicilio en Jankovcova 1569/2C, Praha 7, PSČ 170 00, celebrado el 31. 12. 2009.
+### 3.2.4 Interfaz entre los distintos sujetos participantes y los componentes de la vía
+La autorización administrativa para la explotación de la vía fue expedida por la Oficina Ferroviaria al explotador de la vía
+•
+Správa železniční dopravní cesty, organización estatal, con domicilio en Dlážděná 1003/7,
+Praga 1 Nové Město, CP 110 00, bajo n.º de expediente: 3-4277/07-DÚ/Le,
+N.º de registro ÚP/2008/9002, de fecha 29. 5. 2008;
+La licencia para la explotación del transporte ferroviario fue expedida por la Oficina Ferroviaria al transportista ČD Cargo,
+•
+a. s., con domicilio en Jankovcova 1569/2C, Praga 7, CP 170 00, bajo n.º de expediente: 3-3841/07-
+DÚ/Le, N.º de registro L/2007/1452, de fecha 19. 11. 2007 en la redacción de las modificaciones vigentes;
+Contrato n.º 168/10 de explotación del transporte ferroviario en la vía de transporte ferroviario
+•
+de la red ferroviaria de ámbito nacional y de las redes regionales en propiedad de la República Checa, celebrado entre
+Správa železniční dopravní cesty, organización estatal, con domicilio en Praga 1, Nové
+Město, Dlážděná 1003/7, CP 110 00, y ČD Cargo, a. s., con domicilio en Jankovcova
+1569/2C, Praga 7, CP 170 00, celebrado de fecha 31. 12. 2009.
 ## 3.3
-### Regulación jurídica y de otro tipo
-### 3.3.1 Normas jurídicas comunitarias y nacionales aplicables
-En la investigación del MU se constató la infracción de las siguientes normas jurídicas:
-• § 35 apartado 1 letra a) de la Ley núm. 266/1994 Sb.: «El transportista está obligado a explotar el transporte ferroviario de acuerdo con las reglas de explotación del transporte ferroviario, la licencia vigente y el contrato celebrado con el gestor de la infraestructura sobre la explotación del transporte ferroviario en la infraestructura.»;
-• § 35 apartado 1 letra g) de la Ley núm. 266/1994 Sb.: «El transportista está obligado a ceñirse, en la explotación del transporte ferroviario, a las instrucciones del gestor de la infraestructura impartidas al organizar el transporte ferroviario.»;
-• § 10 del decreto núm. 173/1995 Sb.: «Para garantizar la explotación de la infraestructura sirven las reglas en las que se establece el modo y las condiciones de maniobra de la infraestructura a través de las instalaciones de tráfico y de los puestos de mando, y para la maniobra de los desvíos y del equipo de enclavamiento.»;
-• § 14 apartado 5 del decreto núm. 173/1995 Sb.: «Las instrucciones impartidas al dirigir el tráfico deben ser breves y comprensibles y no deben poner en peligro la seguridad del transporte ferroviario...»;
-• § 16 apartado 11 del decreto núm. 173/1995 Sb.: «Las actividades en la realización de maniobras, en particular para...maniobra para la maniobra de las estaciones de mercancías, maniobra entre las instalaciones de tráfico...se rigen por los procedimientos tecnológicos establecidos por el gestor de la infraestructura.»;
-• § 17 apartado 4 del decreto núm. 173/1995 Sb.: «La maniobra entre las instalaciones de tráfico se rige siempre por una instrucción escrita emitida por la persona que dirige el transporte ferroviario...».
-3.3.2 Otras normas, p. ej. reglamento de explotación, reglamento de trabajo, normas de mantenimiento, normas técnicas vigentes y otras normas internas
-En la investigación del MU se constató la infracción de las siguientes normas internas:
-• Norma interna SŽDC (ČD) D 2, art. 41: «La organización y la explotación del transporte ferroviario se realizan mediante instrucciones. Las instrucciones en el servicio de tráfico deben ser breves y comprensibles, para que
+### Regulación jurídica y otra
+### 3.3.1 Normativa comunitaria y nacional aplicable
+En la investigación del accidente ferroviario se constató el incumplimiento de las siguientes normas jurídicas:
+§ 35 apartado 1 letra a) de la ley n.º 266/1994 Sb.: «El transportista está obligado a explotar
+•
+el transporte ferroviario de acuerdo con las normas de explotación del transporte ferroviario,
+la licencia vigente y el contrato celebrado con el explotador de la vía sobre la explotación
+del transporte ferroviario en la vía.»;
+§ 35 apartado 1 letra g) de la ley n.º 266/1994 Sb.: «El transportista está obligado a ceñirse
+•
+en la explotación del transporte ferroviario a las instrucciones del explotador de la vía impartidas
+al organizar el transporte ferroviario.»;
+§ 10 del decreto n.º 173/1995 Sb.: «Para garantizar la explotación de la vía sirven las normas,
+•
+en las que se establece el modo y las condiciones de servicio de la vía a través de las estaciones
+y puestos de mando, y para el servicio de los desvíos y del aparato de seguridad.»;
+§ 14 apartado 5 del decreto n.º 173/1995 Sb.: «Las instrucciones impartidas en la dirección
+•
+del tráfico deben ser breves y comprensibles y no deben poner en peligro la seguridad del
+transporte ferroviario...»;
+§ 16 apartado 11 del decreto n.º 173/1995 Sb.: «Las actividades en la realización de las maniobras,
+•
+en particular...las maniobras para el servicio de las plataformas de carga, las maniobras entre
+estaciones...se rigen por los procedimientos tecnológicos establecidos por el explotador de la vía.»;
+§ 17 apartado 4 del decreto n.º 173/1995 Sb.: «Las maniobras entre estaciones se rigen
+•
+siempre por una instrucción escrita emitida por la persona que dirige el transporte ferroviario...».
+3.3.2 Otras normas, p. ej. reglamento de explotación, reglamento de trabajo, normas de
+mantenimiento, normas técnicas vigentes y otras normas internas
+En la investigación del accidente ferroviario se constató el incumplimiento de las siguientes normas internas:
+Norma interna de SŽDC (ČD) D 2, artículo 41: «La organización y explotación del transporte
+•
+ferroviario se realiza mediante instrucciones. Las instrucciones en el servicio de tráfico deben
+ser breves y comprensibles, para que
 
 ## Página 22
+
 
 quedaba excluido cualquier malentendido, no debe poner en peligro la seguridad del transporte ferroviario...“;
 Reglamento interno de SŽDC (ČD) D 2, art. 93: „La custodia de las llaves principales de los cerraduras de desvíos
@@ -525,8 +566,8 @@ Anexo n.º 3 del Reglamento de Circulación (SŘ), Reglamento de Explotación (O
 Según los procedimientos tecnológicos del explotador de la vía, los desplazamientos del PMD desde la est. Praha-Malešice hasta la estación de mercancías Praha-Žižkov y de vuelta se realizan como circulaciones sin dispositivo de seguridad. La correcta posición de los desvíos recorridos antes del punto hasta el que se permite la circulación del PMD está garantizada por la obligación de los empleados competentes del transportista de bloquear, al salir de la estación de mercancías, dichos desvíos para la circulación del DV en la vía n.º 2 y, tras la finalización del PMD, de entregar el manojo de llaves de dichos desvíos, a su llegada a la est. Praha-Malešice, al jefe de estación. Para un PMD posterior es así posible volver a permitir la circulación hasta el km 3,3 de esta estación de mercancías, ya que el jefe de estación, que permite la circulación del PMD, tiene en custodia el manojo de llaves de los desvíos recorridos, y con ello la información sobre su correcta posición. Este acto de explotación prescrito – la entrega del manojo de llaves de los desvíos 3b/1, 3a, 4/14, 5, 8, 11 entre el operador de maniobras y el jefe de estación de la est. Praha-Malešice – no se llevó a cabo antes de la aparición del MU tras la llegada del PMD a la est. Praha-Malešice a las 11:47 h, ya que la siguiente explotación de la estación de mercancías se realizaba mediante la circulación repetida del mismo PMD, es decir, que su circulación no había finalizado. El procedimiento tecnológico del explotador de la vía no establece la custodia del manojo de llaves de los desvíos recorridos en estos casos.
 El manojo de llaves mencionado anteriormente fue encontrado durante el examen del lugar del MU en la estación de mercancías Praha-Žižkov, sobre la mesa en el puesto del jefe de maniobras. Las llaves de los desvíos 3b y 8 fueron extraídas del manojo
 
-
 ## Página 23
+
 
 de llaves e insertadas en los cerraduras de reemplazo de los desvíos 3b y 8, los desvíos no fueron bloqueados y fueron dispuestos para la circulación del DV en la vía n.º 1.
 Se detectaron anomalías.
@@ -553,6 +594,7 @@ el vehículo ferroviario de la serie Sggrss número 33 54 4975 098-3, descarrila
 
 ## Página 24
 
+
 El DV dañado de la serie Sggrss número 33 54 4975 123-9 estaba clasificado como el primero detrás del HDV
 •
 PMD. La última revisión se realizó el 4. 4. 2011.
@@ -575,8 +617,8 @@ la circulación del PMD debía finalizar en la est. Praha-Malešice a más tarda
 •
 En la maniobra Praha-Žižkov:
 
-
 ## Página 25
+
 
 a través de las agujas n.º 4, 1, 2, 6 y 34 velocidad máxima 10 km.h-1;
 •
@@ -598,6 +640,7 @@ Se detectaron averías.
 
 ## Página 26
 
+
 ### 3.5.2 Intercambio de comunicaciones verbales en relación con la excepcionalidad, incluidas las pruebas del dispositivo de registro
 En relación con la producción de la excepcionalidad, se llevó a cabo la transmisión de instrucciones entre los empleados participantes del transportista durante la realización de maniobras por radio. Tras la realización de la prueba de freno por los empleados del transportista en la estación de Praha-Malešice, el maniobrador comunicó por radio al jefe de estación la disponibilidad para la salida. Tras la señalización de «Maniobra permitida», el maquinista de HDV a la cabeza de la composición de maniobras comunicó este hecho al maniobrador en el extremo, quien a continuación le dio la instrucción de salida. El contenido de las instrucciones se desprende de las «actas con los empleados», recogidas en el artículo 3.1.1. No está instalado dispositivo de registro de comunicación verbal. Durante la marcha de PMD no se produjo comunicación verbal, el empleado autorizado para dirigir la maniobra no dio ninguna instrucción.
 No se detectaron anomalías.
@@ -616,8 +659,8 @@ Durante la jornada, los empleados del gestor de la infraestructura y del transpo
 El empleador garantizó las condiciones para el descanso previo al turno y durante el turno, conforme al § 90 de la ley n.º 262/2006 Sb., Código del Trabajo, en su redacción vigente.
 No se detectaron anomalías.
 
-
 ## Página 27
+
 
 3.6.2 Estado de salud y situación personal que influyeron en la excepcionalidad, incluido el estrés físico o psíquico
 • Todos los empleados participantes del transportista y el empleado del gestor de la infraestructura estaban, en el momento de la excepcionalidad, en condiciones de salud aptas para el desempeño de la función que ocupaban. Estos empleados se someten a reconocimientos médicos periódicos conforme a la disposición del decreto n.º 101/1995 Sb.
@@ -637,6 +680,7 @@ A continuación se realizó el segundo viaje de PMD con salida de la estación d
 
 ## Página 28
 
+
 los enlaces estaban sobre la mesa en el puesto del jefe de maniobras. Tras la llegada del PMD a las 11:47 horas a la est. Praha-Malešice, la HDV 742.027-6 se acopló al frente del grupo de DV en el tercer carril, destinado al PMD para la servicio de la tarde del patio de mercancías Praha-Žižkov. La HDV 742.380-9 se acopló como locomotora de empuje de este PMD.
 Antes del servicio de la tarde, el maniobrador realizó todas las tareas previas a la salida del PMD, tras lo cual comunicó al jefe de estación de la est. Praha-Malešice que estaban listos para la salida en el tercer carril, y subió a la HDV de empuje. Dado que desde el viaje anterior del PMD no se habían modificado las condiciones y el maquinista tenía una Orden General para PMD válida hasta las 17:30 horas, el jefe de estación utilizó la posibilidad dada por los procedimientos tecnológicos del gestor de la infraestructura y eligió el método de viaje repetido del PMD anterior. Tras establecer la ruta de maniobra, el jefe de estación autorizó la salida del PMD desde la est. Praha-Malešice al patio de mercancías Praha-Žižkov con salida a las 16:15 horas. El maquinista de la HDV al frente de la sección de maniobra, tras la instrucción de salida, puso el PMD en movimiento y partió hacia el patio de mercancías Praha-Žižkov. Tras la entrada en el patio de mercancías, continuó sin detenerse en la marcha hasta el km 3,3, hasta el cual la marcha del PMD estaba autorizada por Orden General escrita para PMD, aunque no recibió autorización para la maniobra y no se le daban señales para la maniobra. Durante esta marcha superó la velocidad permitida de 10 km.h-1 por el desvío n.º 4 en 13 km.h-1, es decir, en un 130 %, y la velocidad permitida de 15 km.h-1 por el desvío n.º 8 en 8 km.h-1, es decir, en un 53,3 %. Debido a la posición del desvío del desvío n.º 8, entró en el primer carril ocupado, donde superó la velocidad permitida en 8 km.h-1 y a una velocidad de 23 km.h-1 se produjo la colisión con los DV estacionados.
 En el MU no hubo daños personales ni catástrofe ecológica.
@@ -649,6 +693,7 @@ El gestor de la infraestructura no garantizó así el cumplimiento no solo de la
 En relación con los procedimientos tecnológicos citados, en el primer viaje del PMD del día 10. 4. 2011 el operador no garantizó el cumplimiento de la instrucción del gestor de la infraestructura indicada en el OŘ,
 
 ## Página 29
+
 
 a a la entrega del manojo de llaves de los desvíos designados de la estación de mercancías Praha-Žižkov tras finalizar este viaje PMD en la estación Praha-Malešice por parte de un empleado autorizado para dirigir maniobras al jefe de estación. A pesar de que con la recepción del manojo de llaves el jefe de estación tiene la certeza de que en el viaje posterior del PMD a la estación de mercancías Praha-Žižkov los desvíos recorridos hacia el punto de autorización de viaje del PMD para este viaje están correctamente dispuestos y bloqueados hacia la segunda vía, la no realización de la operación ferroviaria antes mencionada no provocó por su parte ninguna medida correspondiente. El procedimiento tecnológico no impone directamente al jefe de estación la obligación de exigir, tras la finalización del PMD en la estación Praha-Malešice, a la persona cualificada del transportista este manojo de llaves y de realizar su verificación.
 
@@ -667,6 +712,7 @@ De la declaración del jefe de maniobras se deduce que después de las 16:00 h l
 De la declaración del maniobrista a la pregunta formulada: «Cuando ustedes, junto con el maquinista, firmaron la orden para el PMD, ¿dónde debía detenerse el PMD, si usted no daba ninguna instrucción?», se deduce que el maquinista debía detenerse antes del desvío n.º 3a/b y preguntar al jefe de maniobras si podía entrar en la estación de mercancías Praha-Žižkov.
 
 ## Página 30
+
 
 De las explicaciones prestadas por estas personas cualificadas se evidencia que desconocían sus obligaciones para la actividad de servicio de la estación de mercancías en relación con el viaje del PMD, o más bien se las imaginaban.
 
@@ -705,6 +751,7 @@ Infracción de lo dispuesto en el § 16 apartado 11 del decreto n.º 173/1995 Sb
 
 ## Página 31
 
+
 La no aseguración del lugar del suceso excepcional; en el HDV 742.027-6 al frente del PMD se realizó una manipulación del mecanismo horario del velocímetro entre la ocurrencia del MU y la extracción de la banda registradora. Infracción de lo dispuesto en el § 9 apartado 3, apartado 4, letra a), c) del decreto n.º 376/2006 Sb.
 
 Datos ilegibles en el marcador hectométrico en el km 3,2 debido a su cobertura por tierra. Infracción de lo dispuesto en el § 20 apartado 2 del decreto n.º 177/1995 Sb.
@@ -732,6 +779,7 @@ Explotación Praha-Libeň;
 
 ## Página 32
 
+
 ## 6 RECOMENDACIONES DE SEGURIDAD
 Dadas las circunstancias y las causas del accidente, así como el hecho de que la realización de maniobras de trenes de maniobras para el servicio de vías privadas y de carga fuera autorizada por el gestor de la vía mediante la Resolución n.º 3 a SŽDC (ČD) D2 n.º ref.: 14620/10-OŘ de fecha 4. 5. 2010, con efectos desde el 30. 9. 2010, hasta el 10. 12. 2011, y a partir de dicha fecha estos servicios se rigen por los procedimientos tecnológicos para la circulación de trenes, no se emitió ninguna recomendación de seguridad por parte del DI.
 En Praga, a 17 de agosto de 2012.
@@ -742,21 +790,20 @@ Director
 Inspectorado Territorial de Praga
 Inspectorado Territorial de Praga
 
-
 ## Página 33
+
 
 ## 7 ANEXOS
 Foto 1: Vista del DV descarrilado
 
-
 ## Página 34
+
 
 Foto 2: Vista del DV descarrilado
 
-
 ## Página 35
 
-Foto 3: Vista de la aguja
 
+Foto 3: Vista de la aguja
 
 ## Página 36

@@ -10,12 +10,13 @@ chars: 85587
 ratio_longitud: 1.02
 tokens_in: 32929
 tokens_out: 21842
-verificacion: ok
-notas_cifras: ["bloque 1: cifras cortas: 1/77", "bloque 3: cifras largas: 4/36", "bloque 5: cifras cortas: 5/61", "bloque 6: cifras cortas: 1/27", "bloque 7: cifras cortas: 1/60", "bloque 8: cifras cortas: 1/39"]
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
 ---
+
 ## Página 1
+
 
 Órgano de investigación
 Accidentes ferroviarios
@@ -28,8 +29,8 @@ Experiencia externa : NMBS Holding
 Dirección Estrategia y Coordinación
 Seguridad y Medio Ambiente
 
-
 ## Página 2
+
 
 ## Índice
 ### Capítulo I: Resumen
@@ -53,8 +54,8 @@ Seguridad y Medio Ambiente
 1. Descripción general del material rodante implicado
 2. El manejo de las puertas
 
-
 ## Página 3
+
 
 ### Capítulo V: La investigación del accidente ferroviario
 1. Introducción
@@ -75,8 +76,8 @@ Seguridad y Medio Ambiente
 ### Capítulo VII: Recomendaciones
 ### Lista de figuras
 
-
 ## Página 4
+
 
 ## Capítulo I
 ## Resumen
@@ -103,8 +104,8 @@ descendió del tren en plena vía, que en ese momento circulaba a una velocidad 
 víctima quedó entre las vías en circunstancias poco claras, tras un tiempo muy breve fue atrapada por el tren
 en la vía contigua y murió al instante.
 
-
 ## Página 5
+
 
 La investigación no ha permitido determinar las motivaciones de la víctima para este comportamiento inusual.
 Las declaraciones del conductor del tren que causó la colisión, el comportamiento difícilmente explicable desde el punto de vista racional y el entorno marginal de la víctima pueden indicar
@@ -118,8 +119,8 @@ encontrarse inesperadamente en una situación que no está exenta de riesgos par
 La investigación ha llevado, por tanto, a formular una serie de recomendaciones destinadas a reducir este riesgo.
 ∼∼∼∼∼∼∼∼∼∼∼∼∼∼∼∼∼∼∼∼
 
-
 ## Página 6
+
 
 ## Capítulo II
 ## Descripción del accidente ferroviario
@@ -130,28 +131,29 @@ Esta ubicación se ilustra mediante el siguiente mapa de la Infraestructura Ferr
 diferentes mapas detallados de las líneas principales (L 12, L 25, L 27, L 52, L 59 y L 15) en la
 zona de Amberes.
 
-
 ## Página 7
+
 
 ### Infraestructura Ferroviaria Belga
 ### Red de Viajeros
 09.12.2007
 Figura 1 : Infraestructura Ferroviaria Belga - Red de Viajeros (09.12.2007).
 
-
 ## Página 8
+
 
 Figura 2 : Plano de situación de las estaciones Amberes-Central, Amberes-Berchem, Mortsel y la L 27.
 ### Mapa de la red técnica
 
-
 ## Página 9
+
 
 Para una buena comprensión de la infraestructura ferroviaria en la zona de las estaciones
 Amberes-Berchem y Mortsel, se muestran a continuación dos esquemas detallados más.
 Figura 3a-b : Esquema detallado de las estaciones Amberes-Berchem y Mortsel y la L 27.
 
 ## Página 10
+
 
 ### 2. Exposición de los hechos
 A continuación se describe sistemáticamente la secuencia de los acontecimientos del 14.12.2007:
@@ -166,18 +168,18 @@ El personal a bordo del tren E 2890 informa a Traffic Control, que a su vez pone
 En las siguientes 2 páginas se representan los horarios previstos y reales de los trenes afectados el 14.12.2007. Según los horarios previstos, estos trenes no se habrían cruzado normalmente en la línea 27, pero debido a una ruta de viaje distinta del tren E 2640, esto ocurrió.
 Para aclarar, el tren E 2640 circulaba de Amberes-Central a Lovaina por la línea 27 y pasaba por Malinas, mientras que el tren E 2890 circulaba de Lovaina a Amberes-Central y pasaba por Lier por las líneas 15 y 27. Ambos trenes se cruzaron entre la bifurcación "Drabstraat" y la estación de Amberes-Berchem.
 
-
 ## Página 11
+
 
 Figura 4a-b: E 2640 - Ficha de servicio y recorrido real el 14.12.2007.
 
-
 ## Página 12
+
 
 Figura 5a-b: E 2890 - Ficha de servicio y recorrido real el 14.12.2007.
 
-
 ## Página 13
+
 
 ### 3. Condiciones externas y meteorológicas
 El accidente ferroviario ocurrió entre las 20h12 y las 20h13 en diciembre, es decir, en condiciones casi nocturnas. La temperatura era de 5 °C, no había obstáculos para la visibilidad (p. ej., niebla, bruma, ...) y soplaba una brisa suave.
@@ -190,13 +192,14 @@ La fotografía se tomó en el lugar donde se encontró el cuerpo tras el atropel
 ## VÍA A
 Figura 6: Línea L 27, vías A y B y conexiones de desvíos 14A y 14B (PK 42.800).
 
-
 ## Página 14
+
 
 Figura 7: Línea L 27, vías A y B (PK 42.900) y línea L 25, vías A y B (PK 41.200).
 Figura 8: Línea L 27, línea L 25 y Bifurcación Berchem-Stadion (PK 42.800).
 
 ## Página 15
+
 
 ### 4. Intervenciones inmediatas
 A continuación se enumeran cronológicamente las intervenciones desde la notificación del accidente:
@@ -234,36 +237,33 @@ A continuación se enumeran cronológicamente las intervenciones desde la notifi
 
 La SPC de Amberes-Central redacta un acta con el número AN 31 CA002483 / 2007. Se comunica al funcionario de guardia que el Ministerio Fiscal no se desplazará al lugar porque se trataría de un "claro caso de suicidio".
 
-
 ## Página 16
 
 ### 5. Material rodante implicado
-Ambos trenes implicados en el accidente están compuestos por material rodante del modelo "Break". Se trata de un conjunto motor eléctrico triple, formado por 3 coches, que en la actualidad se utiliza principalmente para las conexiones L (Locaal/Local) e IR (InterRegio).
-
-• El tren E 2640 estaba compuesto por 1 conjunto motor (CM) con el número 399.
-• El tren E 2890 estaba compuesto por 1 conjunto motor (CM) con el número 416.
-
+Ambos trenes implicados en el accidente están compuestos por material del modelo "Break". Se trata de un tren eléctrico de tres coches compuesto por 3 vagones que en la actualidad se utiliza principalmente para conexiones L e IR.
+• 
+el tren E 2640 estaba compuesto por 1 tren motor (MS) con n.º 399
+• 
+el tren E 2890 estaba compuesto por 1 tren motor (MS) con n.º 416
 ### 6. Balance del accidente ferroviario
-### Víctimas: 1 víctima mortal (identidad y domicilio conocidos por la SPC).
-### Retrasos de trenes: 109 trenes (2.397 min), de los cuales 21 trenes de mercancías (596 min).
-### Trenes parcialmente cancelados: 8
-### Trenes completamente cancelados: 2
-### Trenes desviados: 8
-### Paradas adicionales: 1
-### Estimación de los daños:
-El importe total de los daños por las perturbaciones al tráfico ferroviario, la inspección del material rodante y la movilización de personal adicional se estima en 17.437,51 EUROS. A continuación se resumen las cantidades por partida de gastos en una tabla.
-
+### Víctimas : 1 víctima mortal (identidad y dirección conocidas por SPC).
+### Retrasos de trenes : 109 trenes (2.397 min) de los cuales 21 trenes de mercancías (596 min)
+### Trenes suprimidos parcialmente : 8
+### Trenes suprimidos íntegramente : 2
+### Trenes desviados : 8
+### Paradas adicionales : 1
+### Estimación de los daños :
+La cantidad total de daños por los perjuicios al tráfico ferroviario, la inspección del material y la utilización de personal adicional se estima en 17.437,51 EURO. A continuación, los importes por concepto de coste se resumen en una tabla.
 | NMBS |  |
-| Retrasos de trenes | 1.322,99 € |
-| Conjunto motor 416 | 355,76 € |
-| Personal | 322,75 € |
+| Retrasos de trenes | 1322299€ . , |
+| Tren motor 416 | 355763€ . , |
+| Personal | 32275€ , |
 | INFRABEL |  |
-| Red (personal) | 334,14 € |
-
+| Red (personal) | 33414€ , |
 ∼∼∼∼∼∼∼∼∼∼∼∼∼∼∼∼∼∼∼∼
 
-
 ## Página 17
+
 
 ## Capítulo III
 ## Apertura de la investigación por el
@@ -284,6 +284,7 @@ En caso necesario, se recurrió a esta pericia externa a NMBS Holding, más conc
 ∼∼∼∼∼∼∼∼∼∼∼∼∼∼∼∼∼∼∼∼
 
 ## Página 18
+
 
 ## Capítulo IV 
 ## El contexto reglamentario y técnico 
@@ -323,10 +324,10 @@ en la
 infraestructura ferroviaria belga están establecidas en el ARGSI, Libro 2, Paquete 2.1.1. - Cuadro de cargas del material de los usuarios de la infraestructura. 
 En particular, el capítulo 5 de este paquete incluye las normas técnicas a las que 
 debe ajustarse el material destinado al transporte comercial de pasajeros o mercancías y destinado 
-a la tracción de estos trenes. 
-
+a la tracción de estos trenes.
 
 ## Página 19
+
 
 Además de estas normas técnicas ferroviarias específicas, una empresa ferroviaria 
 debe, por supuesto, también cumplir con el conjunto de las disposiciones legales, reglamentarias y normativas 
@@ -359,10 +360,10 @@ en particular los puntos:
 5.5.2.2  “Funcionamiento de las puertas de embarque y de cabecera (transición)” 
 5.5.2.5  “Liberación” 
 Esta normativa se basa igualmente en las fichas de la UIC y, por supuesto, también en la 
-tecnología NMBS ya existente. 
-
+tecnología NMBS ya existente.
 
 ## Página 20
+
 
 5.5.2.2  Funcionamiento de las puertas de embarque y de cabecera (transición) 
 5.5.2.2 “Funcionamiento de las puertas de embarque y de cabecera (transición)” 
@@ -404,19 +405,20 @@ no pueden abrirse.
 
 ## Página 21
 
+
 El uso del mando de emergencia no abre la puerta automáticamente. La puerta debe ser empujada manualmente para abrirla.
 Este concepto implica que nadie pueda abandonar el tren «inconscientemente o por casualidad» tras la apertura de emergencia de una puerta.
 En la fotografía siguiente se muestra, a título de ejemplo, un mando de emergencia situado junto a una puerta doble de segunda clase de un conjunto motor «Break». La palanca del mando de emergencia está pintada de rojo.
 Figura 9 : Mando de emergencia situado junto a una puerta doble de segunda clase del conjunto motor «Break».
 
-
 ## Página 22
+
 
 En la figura siguiente se representa una sección transversal de la palanca de mando de una apertura de emergencia en una puerta. La palanca se bloquea siempre en la posición neutra. Está conectada a un eje, pero también es posible girar este eje mediante la llave de tres vías, de modo que la palanca no se mueve y el bloqueo no se rompe.
 Figura 10 : Sección transversal de la palanca de una apertura de emergencia de una puerta.
 
-
 ## Página 23
+
 
 La elección de este concepto técnico obliga al usuario de la apertura de emergencia de una puerta a realizar una serie de acciones conscientes antes de poder abandonar el tren. Además, el uso de la apertura de emergencia se señala mediante una señal de advertencia acústica en la plataforma correspondiente y, en el caso de los conjuntos motores «Break», al abrir la puerta se apagará una lámpara testigo en la cabina de conducción.
 La forma en que se controla el cierre y la apertura de las puertas en la cabina de conducción de un «Break» se describe más adelante en el informe.
@@ -430,8 +432,8 @@ Debido al endurecimiento de las medidas de seguridad desde la primera publicaci�
 La ficha UIC 564-1 describe el tipo de cristal de seguridad, incluida la martillo de emergencia, que está autorizado para el transporte internacional. Esta ficha se publicó en su sexta versión en enero de 1979.
 Como ya se ha mencionado, las fichas UIC 560 y 564-1 han sido transpuestas a la normativa belga, por lo que las prescripciones técnicas son también aplicables al transporte nacional desde el 24.06.2003 (Comunicación 16N/2003).
 
-
 ## Página 24
+
 
 1.2  ARGSI: Libro 5 Prescripciones operativas y requisitos
 El libro mencionado, más concretamente la Parte I, contiene (contenía hasta el 5 de febrero de 2008) las prescripciones relativas a la explotación de trenes de viajeros y de mercancías en la infraestructura ferroviaria belga.
@@ -462,6 +464,7 @@ controlar que ningún viajero quede atrapado entre las puertas o permanezca de p
 
 ## Página 25
 
+
 El Libro 5 del ARGSI no contiene requisitos ni disposiciones específicas adicionales en relación con el uso de la apertura de emergencia de las puertas del material rodante de viajeros.
 ### 2. Contrato de transporte
 La empresa ferroviaria NMBS publica y aplica una «Colección oficial de tarifas». Para el transporte interior de viajeros son aplicables los Paquetes I y II de dicha colección de tarifas.
@@ -479,8 +482,8 @@ e) ocupar más de un asiento por viajero.
 f) subir o bajar del tren después de que el acompañante de tren haya dado la señal de salida.
 § 3. En caso de infracción del § 2, serán aplicables las disposiciones de la Parte V. Además, las acciones mencionadas anteriormente pueden dar lugar a persecuciones penales.
 
-
 ## Página 26
+
 
 Dado que las «Condiciones generales» forman parte integral del contrato de transporte entre la empresa ferroviaria NMBS y el viajero, los artículos citados implican que está absolutamente prohibido a un viajero:
 • 
@@ -498,8 +501,8 @@ Para el conductor del tren se trata del HLT y para el personal de acompañamient
 Dado que la seguridad de los viajeros está directamente implicada al abrir y cerrar las puertas, el jefe de tren asume la responsabilidad de la supervisión durante la subida y bajada de los viajeros, así como del cierre de las puertas y de la apertura de las puertas en los coches remolcados. Puede ser asistido en esta tarea por otro personal de a bordo, personal de estación, …
 Las operaciones prescritas por la NMBS para garantizar un cierre seguro de las puertas se recogen en el punto 6.3.2 del «Manual del acompañante de tren», que se muestra en la página siguiente.
 
-
 ## Página 27
+
 
 6.3.2 «Cierre»
 El jefe de tren:
@@ -541,6 +544,7 @@ elaborar un informe sobre el incidente.
 
 ## Página 28
 
+
 Las operaciones prescritas por la NMBS en caso de que un viajero quede atrapado entre las puertas se recogen en el punto 6.3.3 del «Manual del acompañante de tren» que se muestra a continuación.
 6.3.3 «Viajero atrapado entre las puertas»
 El jefe de tren debe accionar inmediatamente la señal de emergencia y:
@@ -564,8 +568,8 @@ mantener abierta la puerta desde la cual ha realizado las operaciones;
 • 
 vigilar el tren y cerrar su puerta únicamente en el momento en que el tren se ponga en movimiento.
 
-
 ## Página 29
+
 
 Si un tren de viajeros está compuesto por material rodante con un sistema de transmisión que controla el cierre de las puertas, el maquinista tiene la posibilidad de verificar si todas las puertas están cerradas al partir un tren de viajeros.
 En la Parte 3, Capítulo III del HLT se describe cómo debe utilizar el maquinista este sistema de transmisión.
@@ -581,8 +585,8 @@ La normativa descrita anteriormente implica que, tras la salida del tren E 2640 
 El correcto cierre de las puertas fue verificado tanto por el jefe de tren, antes de la salida del tren desde la vía del andén, como por el maquinista, quien vio encenderse la luz blanca de las puertas en la cabina tras el cierre de la última puerta por parte del jefe de tren.
 Fuera de los artículos descritos anteriormente de los «Documentos NMBS», a saber, el contrato de transporte y las guías de procedimiento para el personal de conducción y de acompañamiento de tren, no se han encontrado otras disposiciones relativas al funcionamiento y al uso de la apertura de emergencia de las puertas del material rodante de viajeros.
 
-
 ## Página 30
+
 
 ### PARTE II: El marco técnico
 ### 1. Descripción general del material rodante implicado
@@ -599,13 +603,13 @@ Además de las puertas destinadas a la subida y bajada de viajeros, este modelo 
 Cada puerta está identificada con un número. Esta numeración se ha elegido de tal manera que la unidad motriz tenga un «lado par» y un «lado impar». Las puertas de una unidad motriz se numeran de la siguiente manera:
 - partiendo de la cabina 1 (lado de segunda clase) y con la mirada hacia el tren, las puertas de la derecha son impares consecutivas y las de la izquierda son pares.
 
-
 ## Página 31
+
 
 Figura 11 : Ficha técnica descriptiva de la unidad motriz de tres elementos «Break» tipos 80-82-83.
 
-
 ## Página 32
+
 
 A continuación se muestran imágenes de:
 Ø vista frontal de la cabina 2
@@ -630,8 +634,8 @@ Fig. 12c
 Fig. 12d 
 Figura 12a-b-c-d : Vistas de las cabinas de la unidad motriz «Break».
 
-
 ## Página 33
+
 
 Fig. 13a
 Fig. 13b
@@ -640,6 +644,7 @@ Fig. 13d
 Figura 13a-b-c-d : Vistas interiores y exteriores de las puertas de embarque de viajeros de la unidad motriz «Break».
 
 ## Página 34
+
 
 ### 2. El manejo de las puertas
 Los conjuntos de motores «Break» están equipados con puertas automáticas, provistas de un listón sensible. Esto implica que:
@@ -661,23 +666,23 @@ Cuando un empleado deba bajar del tren en vía libre, solo podrá abrir una úni
 
 El esquema del manejo neumático de las puertas (3 fases: apertura, cierre y uso de la apertura de emergencia) de un conjunto de motores «Break» se encuentra en las tres páginas siguientes. En la página siguiente se muestra el esquema durante el cierre, en la subsiguiente durante la apertura y en la última página durante el uso de la apertura de emergencia.
 
-
 ## Página 35
+
 
 Figura 14 : Esquema principal del manejo y cierre neumáticos de las puertas del conjunto de motores Break.
 
-
 ## Página 36
+
 
 Figura 15 : Esquema principal del manejo y apertura neumáticos de las puertas del conjunto de motores Break.
 
-
 ## Página 37
+
 
 Figura 16 : Esquema principal del manejo y apertura de emergencia neumáticos de las puertas del conjunto de motores Break.
 
-
 ## Página 38
+
 
 Explicación del esquema básico:
 Las siguientes piezas son importantes para comprender bien el esquema neumático en el marco de este informe:
@@ -699,6 +704,7 @@ Por último, se observa que las puertas de un conjunto de motores «Break» est�
 
 ## Página 39
 
+
 Explicación del funcionamiento durante el cierre normal de las puertas:
 En caso de un cierre normal de una puerta, la válvula de mando (5) se encuentra en la posición izquierda.  Por ello, el aire comprimido se dirige a través de esta válvula, pasando por la válvula 10 (válvula de un solo sentido), hacia el cilindro principal (11).  El cilindro principal (11) se desplaza hacia la posición izquierda y la puerta se cerrará.
 Simultáneamente, se envía aire comprimido hacia el cilindro de bloqueo (7), el cual se desplaza hacia la posición izquierda.  El cilindro de bloqueo (7) tiene un funcionamiento retardado debido al resorte incorporado.  La varilla del cilindro de bloqueo (7) arrastra la varilla de bloqueo, haciendo que esta gire sobre su eje y que el pestillo se enganche detrás del excéntrico.
@@ -714,8 +720,8 @@ Explicación del funcionamiento durante el uso de la apertura de emergencia:
 En caso de uso de la apertura de emergencia (p. ej., mediante el uso de la palanca roja), la varilla de bloqueo azul se acciona manualmente (se salta la posición del cilindro de bloqueo) y, por consiguiente, se libera el excéntrico en el mecanismo de mando de la puerta afectada.
 Al girar la varilla de bloqueo (7), se acciona también la válvula de interbloqueo (8) hacia la izquierda.  Debido a este cambio en la posición de la válvula de interbloqueo (8), se establece una conexión directa entre el suministro de aire comprimido a través de la válvula 3 (dispositivo de emergencia) y las válvulas 4 y 9 hacia el cilindro principal (11).  El cilindro principal (11) se desplaza hacia la derecha y la puerta se abre.
 
-
 ## Página 40
+
 
 ## Capítulo V
 ## La investigación del accidente ferroviario
@@ -726,8 +732,8 @@ Tras la decisión del Órgano de Investigación, se inició una investigación e
 Además, se examinó con precisión la zona del accidente, se inspeccionó el material rodante implicado, concretamente el MS 399, se solicitaron y analizaron las cintas registradoras de las locomotoras implicadas, y se realizó una investigación (técnica) sobre el marco normativo, el concepto y el funcionamiento real del mecanismo de las puertas.
 Asimismo, se contactó con los servicios que acudieron al lugar la noche del accidente.
 
-
 ## Página 41
+
 
 ### 2. Observaciones previas
 ### 2.1. El material rodante
@@ -738,8 +744,8 @@ Los procedimientos relativos a la apertura, cierre, bloqueo, etc., de las puerta
 Estos manuales se consideraron totalmente conformes con las normas nacionales de seguridad.
 Además, no hay motivo para dudar de que estos procedimientos fueran seguidos escrupulosamente por el personal implicado en las operaciones previas al accidente investigado.
 
-
 ## Página 42
+
 
 ### 3. Datos básicos y premisas
 ### 3.1. Las constataciones inmediatas
@@ -765,6 +771,7 @@ La línea de circulación del tren que se aproxima, E 2890, en la vía A, está 
 
 ## Página 43
 
+
 Es evidente que uno de los zapatos del implicado fue encontrado en el vía B, la vía por la que circulaba el tren E 2640 cuando la víctima bajó a la vía, y que el otro zapato se encontraba en la vía A.
 Por consiguiente, puede afirmarse con gran certeza que:
 - el implicado debió bajar del tren E 2640 antes del punto de cruce 14A (PK 42.800);
@@ -775,8 +782,8 @@ Como se desprende de las declaraciones del punto 3.2, la víctima abrió una pue
 Figura 18: Esquema de la situación del E 2640 en el andén de vía V de Amberes-Berchem.
 Por consiguiente, al bajar del tren en movimiento, la víctima quedó en la zona comprendida entre las vías A y B (el «espacio intermedio»).
 
-
 ## Página 44
+
 
 ### 3.2. Las declaraciones prestadas
 Durante la investigación se interrogó a cuatro personas, a saber:
@@ -797,8 +804,8 @@ Inmediatamente avisé al maquinista, quien detuvo el tren. A continuación, rest
 Tras informar a la Central de Mensajería, obtuvimos permiso para continuar nuestro viaje.
 (*) En la declaración se indica erróneamente la línea 25, cuando el tren 2640 circulaba por la línea 27.
 
-
 ## Página 45
+
 
 Declaración del maquinista del E 2640
 En Berchem partí normalmente. Tras recorrer unos trescientos metros, veo que se apaga la luz de las puertas. Unos segundos después, oigo la llamada de alarma por la radio.
@@ -810,8 +817,8 @@ Pocos instantes después, Traffic Control ya me informó de que nuestro tren hab
 Este se encontraba a unos 150 m detrás del tren, en la misma vía. Las vías adyacentes no estaban obstruidas. Mientras tanto, el empleado de control permaneció con los pasajeros. Llegaron el cuerpo de bomberos y la policía sobre las 20:40 h. Sobre las 20:50 h, junto con el empleado de control y el jefe de estación adjunto de Berchem, hice bajar a los pasajeros.
 El jefe de estación adjunto de Berchem los acompañó hasta la estación de Berchem. Tras obtener la autorización de Traffic Control, junto con el maquinista tomamos el E 3293 con retraso en Berchem sobre las 22:35 h.
 
-
 ## Página 46
+
 
 Declaración del maquinista del E 2890
 Durante el trayecto entre Mortsel y Amberes-Berchem, vi a una persona en posición agachada entre la vía A y la vía B.
@@ -821,8 +828,8 @@ No se conocen datos sobre las circunstancias (estado físico, ubicación exacta,
 
 No se dispone de la declaración del testigo a bordo del tren E 2640 que vio cómo el pasajero abría una puerta y saltaba del tren, ya que dicha declaración fue tomada por el SPC de Lovaina.
 
-
 ## Página 47
+
 
 ### 3.3. Los datos registrados
 En colaboración con el Centro de Análisis de la empresa ferroviaria NMBS, tras el accidente se retiraron y analizaron en detalle las cintas de registro del MS 399 y del MS 416.
@@ -833,6 +840,7 @@ A continuación se presenta el análisis completo de los datos registrados del M
 Figura 20: Análisis de la cinta de registro MS 416 (E 2890).
 
 ## Página 48
+
 
 Frenado + 
 detención 
@@ -851,10 +859,10 @@ tras una detención de 2,5 min, el conductor vuelve a arrancar y continúa el tr
 Detención de 
 2,5 min 
 Figura 22 : Extracto del análisis de la línea temporal de la cinta registradora MS 399 (E 2640). 
-La duración de la detención puede leerse en la línea temporal que se muestra arriba. 
-
+La duración de la detención puede leerse en la línea temporal que se muestra arriba.
 
 ## Página 49
+
 
 Frenado + 
 detención 
@@ -873,19 +881,19 @@ tiempo de
 1,5 min 
 Detención tras 
 el choque 
-Figura 24 : Extracto del análisis de la línea temporal de la cinta registradora MS 416 (E 2890). 
-
+Figura 24 : Extracto del análisis de la línea temporal de la cinta registradora MS 416 (E 2890).
 
 ## Página 50
+
 
 La señal J.12 está situada en el vía A de L 27 a la altura del PK 42.176. Dado que la ubicación del choque se sitúa entre el PK 42.800 y el PK 42.830 y que el E 2890 se detuvo en el PK 43.000, esto significa que la distancia entre el punto registrado de la señal J.12 y el punto de detención es de aproximadamente 800 m. 
 Esta distancia calculada coincide en cuanto al orden de magnitud con el transcurso del tiempo registrado de 1,5 min y, además, según el cuaderno de marcha, se prevé un tiempo de recorrido de 2 min entre Mortsel y la Derivación Berchem-Stadion. 
 Por consiguiente, puede concluirse que la grabación en las cintas de velocidad coincide con las demás constataciones posteriores al accidente. 
 A continuación se muestra una fotografía de un conjunto motor Break procedente de Lier que circula en dirección a Amberes-Berchem y que se encuentra aproximadamente a 50 m más allá de la unión de desvíos 14A-B (PK 42.800) en el vía A de L 27. 
-Figura 35 : Conjunto motor Break aproximadamente a 50 m más allá del PK 42.800, vía A L 27. 
-
+Figura 35 : Conjunto motor Break aproximadamente a 50 m más allá del PK 42.800, vía A L 27.
 
 ## Página 51
+
 
 ### 3.4. La apertura de emergencia de las puertas en la MS 399 
 El funcionamiento de la apertura de emergencia de las puertas en la MS 399 y, más específicamente, el funcionamiento de la puerta n.º 4, fue inspeccionado inmediatamente el 14.12.2007 tras la llegada del tren E 2640 a Lovaina por el personal técnico de NMBS. Esta inspección se realizó bajo la supervisión del SPC Lovaina, que había sido requerido para ello por sus colegas de Amberes. 
@@ -912,34 +920,34 @@ al volver a colocar la apertura de emergencia en la posición neutra, la puerta 
 la señal acústica permanece activa al utilizar la apertura de emergencia mientras la puerta accionada esté desbloqueada 
 Las pruebas relativas al funcionamiento y al concepto de la apertura de emergencia de las puertas se repitieron además varias veces en otros conjuntos motores Break. 
 No se detectó ninguna desviación respecto al funcionamiento normal descrito anteriormente en ningún caso. 
-Como ya se expuso anteriormente en el informe, el ARGSI Paquete 2.1.1 aún no existía cuando se diseñaron y construyeron los conjuntos motores Break. Las pruebas realizadas confirman que el concepto y el funcionamiento real de las puertas no coinciden completamente con las disposiciones del ARGSI Paquete 2.1.1. 
-
+Como ya se expuso anteriormente en el informe, el ARGSI Paquete 2.1.1 aún no existía cuando se diseñaron y construyeron los conjuntos motores Break. Las pruebas realizadas confirman que el concepto y el funcionamiento real de las puertas no coinciden completamente con las disposiciones del ARGSI Paquete 2.1.1.
 
 ## Página 52
+
 
 Esta normativa prevé, de hecho, que el uso de la apertura de emergencia tenga como único efecto el desbloqueo mecánico de la puerta y que esta pueda abrirse posteriormente a mano. 
 En un conjunto motor Break, la activación de la apertura de emergencia provoca el desbloqueo y la apertura automática de la puerta en cuestión. 
 A continuación se muestran algunas fotografías tomadas durante las pruebas. 
 Figura 36 : Panel de control (uso normal) para viajeros y personal de acompañamiento, puerta n.º 4 MS 
-399. 
-
+399.
 
 ## Página 53
 
-Figura 37 : Panel superior con la palanca de apertura de emergencia y los pictogramas, puerta n.º 4 MS 399. 
 
+Figura 37 : Panel superior con la palanca de apertura de emergencia y los pictogramas, puerta n.º 4 MS 399.
 
 ## Página 54
 
-Figura 38 : Puerta n.º 4 cerrada y bloqueada y lámpara blanca encendida en la cabina de conducción, MS 399. 
 
+Figura 38 : Puerta n.º 4 cerrada y bloqueada y lámpara blanca encendida en la cabina de conducción, MS 399.
 
 ## Página 55
 
-Figura 39 : Puerta n.º 4 abierta y lámpara blanca apagada en la cabina de conducción, MS 399. 
 
+Figura 39 : Puerta n.º 4 abierta y lámpara blanca apagada en la cabina de conducción, MS 399.
 
 ## Página 56
+
 
 En las imágenes siguientes se muestra la palanca de la apertura de emergencia de las puertas en un conjunto motor Break en las dos posiciones posibles. 
 La primera figura muestra la posición normal, neutra, de la palanca, en la que se ve claramente el precinto. En el vástago de la palanca se ha instalado un candado para llave cuadrada, de modo que el personal ferroviario pueda accionar la apertura de emergencia utilizando una llave especial sin romper el precinto. 
@@ -947,14 +955,15 @@ Figura 40 : Palanca de apertura de emergencia en posición neutra con precinto.
 
 ## Página 57
 
+
 La segunda figura muestra la palanca en la posición de servicio, con el bloqueo interrumpido. En esta posición, los viajeros deben colocar la palanca en caso de emergencia.
 Figura 31: Palanca de apertura de emergencia en posición de servicio sin bloqueo.
 En esta figura es claramente visible que el candado para la llave cuadrada se ha girado 90° en el sentido de las agujas del reloj junto con la palanca. Las puertas solo pueden volver a cerrarse cuando la palanca se devuelve a su posición normal y la apertura de emergencia se restablece mediante el uso de una llave cuadrada.
 El restablecimiento se realiza girando la varilla de la palanca 90° en sentido contrario a las agujas del reloj.
 Como ya se ha mencionado anteriormente, es posible que la apertura de emergencia de las puertas se active girando el eje mediante una llave cuadrada, de modo que la varilla de la palanca no se mueve y el bloqueo existente no se interrumpe.
 
-
 ## Página 58
+
 
 ### 4. El análisis de los resultados de la investigación
 Sobre la base de la investigación llevada a cabo, a saber, las constataciones *in situ*, las declaraciones del personal implicado y de los testigos, la revisión de las cintas de registro y los resultados de la investigación técnica, se realizaron análisis adicionales.
@@ -966,8 +975,8 @@ En el material moderno homologado con arreglo a las disposiciones del ARGSI Paqu
 En las circunstancias del accidente, la persona pudo abandonar el tren rápidamente y sin más obstáculos tras utilizar la apertura de emergencia.
 Dado que no se encontraron defectos técnicos en el MS 399, la apertura de la puerta nº 4 provocó que la luz blanca en la cabina de conducción se apagara. Aunque el maquinista del E 2640 se percató de ello, la normativa de NMBS establece que un maquinista no necesita prestar atención al apagado de esta luz durante el trayecto.
 
-
 ## Página 59
+
 
 Un maquinista de NMBS debe prestar atención únicamente a la luz blanca durante la salida. Al encenderse a menos de 30 metros después de la salida, sabe que el jefe de tren está a bordo y que todas las puertas están cerradas.
 Según las declaraciones, el maquinista solo aplicó los frenos cuando el jefe de tren le informó de que la puerta en cuestión estaba abierta y de la desaparición de una persona del tren.
@@ -982,8 +991,8 @@ Se presume que el color rojo de la palanca y el pictograma dejan claro para cada
 Por lo tanto, existe una certeza absoluta de que la persona abrió la puerta nº 4 mediante el dispositivo de emergencia, pero no se puede determinar con certeza la razón de ello.
 La SPC y las autoridades judiciales han aceptado sin reservas la tesis del suicidio, basándose principalmente en las declaraciones del maquinista del tren que colisionó y en las condiciones de vida marginales de la víctima.
 
-
 ## Página 60
+
 
 ### 4.2. El abandono del tren E 2640 por el viajero en plena vía en la L 27
 El viajero abandonó el tren E 2640 en plena vía, en un momento en que el tren circulaba, según estimaciones, a una velocidad mínima de 30 km/h y máxima de 50 km/h. Esta estimación se basa en el análisis de la cinta de registro combinado con la distancia recorrida y la ubicación donde se encontró el cuerpo de la víctima tras la colisión.
@@ -991,6 +1000,7 @@ Al bajar del tren (saltar) en plena vía, el viajero cayó en la vía intermedia
 Los datos de la investigación indican que el viajero saltó del tren como máximo 1,5 min (20h11m30s) después de la salida en Amberes-Berchem. El jefe de tren fue informado a las 20h12, es decir, 2 min después de la salida.
 
 ## Página 61
+
 
 ### 4.3. El trayecto del viajero en el L 27
 Sobre la base de los datos disponibles puede afirmarse con gran certeza que:
@@ -1005,10 +1015,10 @@ El breve lapso de tiempo entre el abandono del tren E 2640 y el atropello por pa
 Entre las 20 h 12 y las 20 h 13, el tren E 2890 atropella al interesado en la vía A del L 27. Tras el atropello, el maquinista detiene el tren inmediatamente.
 Según estimaciones, el atropello tuvo lugar entre los PK 42.800 y 42.830, y el cuerpo de la víctima se encuentra en el PK 42.830. Dado que el cuerpo se encontraba completamente dentro de la vía tras el atropello, es seguro que el interesado, cuando fue atropellado, se encontraba o bien en dicha vía o bien junto a ella, pero en las inmediaciones del tren en movimiento.
 
-∼∼∼∼∼∼∼∼∼∼∼∼∼∼∼∼∼∼∼∼ 
-
+∼∼∼∼∼∼∼∼∼∼∼∼∼∼∼∼∼∼∼∼
 
 ## Página 62
+
 
 ## Capítulo VI 
 ## Conclusiones
@@ -1020,10 +1030,10 @@ La víctima se encontró así, en circunstancias poco claras, en la vía interme
 La persona debió morir en el acto.
 Los hechos son bastante claros y la investigación ha demostrado que no se produjo ninguna irregularidad en el ámbito técnico ferroviario, en particular en lo que respecta al funcionamiento de la (apertura de emergencia de las) puertas en cuestión.
 Cabe señalar no obstante que, en el tipo de conjunto motor en cuestión, las puertas no solo se desbloquean al accionar la apertura de emergencia, sino que también se abren espontáneamente, sin ninguna otra acción. En otros tipos de material rodante, tras el desbloqueo, la puerta debe abrirse manualmente, lo cual, por cierto, prescribe el ARGSI. Los conjuntos motores tipo Break, obtenidos como material rodante que ya estaba en servicio antes de la entrada en vigor del reglamento en cuestión, constituyeron una excepción a esta norma.  
-*       * 
-
+*       *
 
 ## Página 63
+
 
 La investigación no ha permitido averiguar las motivaciones de la víctima para este comportamiento inusual.
 En el informe de la policía ferroviaria y de las autoridades judiciales se opta sin reservas por la tesis del suicidio.
@@ -1039,6 +1049,7 @@ Las recomendaciones formuladas en el capítulo siguiente parten de los posibles 
 
 ## Página 64
 
+
 ## Capítulo VII 
 ## Recomendaciones 
 El accidente y las conclusiones del informe de investigación dan lugar a las siguientes recomendaciones: 
@@ -1048,10 +1059,10 @@ Además, sería conveniente asegurar que en las proximidades de dicho dispositiv
 De este modo, puede esperarse que el usuario de un dispositivo de apertura de emergencia sea más consciente del carácter excepcional de su actuación y de los peligros y riesgos que dicha acción implica. 
 Si bien este concepto de apertura de emergencia ya es prescrito actualmente por el ARGSI, para el material rodante más antiguo, aún en servicio, como los conjuntos motores «Break», la normativa permite apartarse de esta disposición. 
 Dicha concesión no debería llevar a que nunca más se preste atención a la disposición en cuestión. Por el contrario, debería aprovecharse cada oportunidad para adaptarse mejor a la normativa vigente. 
-Una tal oportunidad se presenta con la profunda modernización de los conjuntos motores «Break», programada para los próximos años. Sería conveniente que, en este contexto, el funcionamiento del dispositivo de apertura de emergencia se armonizara con las prescripciones del ARGSI al respecto. 
-
+Una tal oportunidad se presenta con la profunda modernización de los conjuntos motores «Break», programada para los próximos años. Sería conveniente que, en este contexto, el funcionamiento del dispositivo de apertura de emergencia se armonizara con las prescripciones del ARGSI al respecto.
 
 ## Página 65
+
 
 3. En el tren del que el fallecido había bajado, se produjo una irregularidad importante sin que el personal del tren fuera consciente de ningún problema. 
 El acompañante de tren toma conocimiento del uso del dispositivo de apertura de emergencia de una puerta y del hecho de que una persona ha abandonado el tren estando en plena vía, en el momento en que otro viajero se lo comunica durante el control de los billetes de transporte. 
@@ -1061,12 +1072,13 @@ No obstante, sería conveniente que el personal del tren fuera alertado inmediat
 En el accidente objeto del informe de investigación, el fallecido bajó del tren tras abrir la puerta del lado de la vía intermedia, mientras el tren circulaba a una velocidad de al menos 30 km/h. 
 Es poco probable que el fallecido no hubiera sufrido lesiones físicas en dicha circunstancia. En cualquier caso, no se carece de graves riesgos de seguridad en la vía. 
 La utilidad de una apertura de emergencia no es evidente. Sería conveniente que la apertura de emergencia de las puertas de un tren vaya acompañada de un frenado de emergencia y que solo puedan abrirse las puertas del lado del andén de la vía cuando el tren esté detenido. 
-A continuación, en las páginas siguientes, se incluye una nota de la Dirección Trenes y Producción de NMBS con su posición respecto a las recomendaciones descritas anteriormente. 
-
+A continuación, en las páginas siguientes, se incluye una nota de la Dirección Trenes y Producción de NMBS con su posición respecto a las recomendaciones descritas anteriormente.
 
 ## Página 66
 
 
+
 ## Página 67
+
 
 ∼∼∼∼∼∼∼∼∼∼∼∼∼∼∼∼∼∼∼∼

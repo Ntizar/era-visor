@@ -10,13 +10,14 @@ chars: 215395
 ratio_longitud: 1.26
 tokens_in: 115084
 tokens_out: 75681
-verificacion: revisar
-notas_cifras: ["bloque 2: original bilingüe: se compara contra el idioma principal (CS)", "bloque 3: original bilingüe: se compara contra el idioma principal (CS)", "bloque 5: original bilingüe: se compara contra el idioma principal (PT)", "bloque 7: original bilingüe: se compara contra el idioma principal (CS)", "bloque 10: cifras cortas: 16/59", "bloque 11: cifras cortas: 16/61"]
-avisos: ["bloque 5: ratio 1.61", "bloque 29: ratio 1.67", "bloque 31: ratio 1.73", "bloque 32: ratio 1.64"]
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (PT)", "página 3: original bilingüe: se compara contra el idioma principal (EN)", "página 6: original bilingüe: se compara contra el idioma principal (EN)", "página 7: original bilingüe: se compara contra el idioma principal (CS)", "página 10: original bilingüe: se compara contra el idioma principal (CS)", "página 12: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 Inspección Ferroviaria
 República Checa
@@ -40,11 +41,12 @@ IČ:   75009561
 http://www.dicr.cz
 tel.: (+420) 224 805 514
 
-
 ## Página 2
 
 
+
 ## Página 3
+
 
 # RESUMEN
                           Lugar del accidente (foto Policie ČR)
@@ -70,8 +72,8 @@ Causas directas:
 1) infraestructura – estado técnico general inadecuado de los raíles continuos soldados
 2) explotación (personal de mantenimiento) – ausencia de reacción de los empleados y de la dirección del IM ante la situación, que se mantuvo al menos durante 3 días
 
-
 ## Página 4
+
 
 Factores contribuyentes:
                            formación de una zona fija (de anclaje) en los raíles continuos soldados con sujeción incorrecta del raíl
@@ -106,8 +108,8 @@ Se recomienda realizar un análisis de todas las posibles tareas y
 •
 actividades laborales necesarias para el mantenimiento y las comprobaciones de la vía, para
 
-
 ## Página 5
+
 
 determinar la demanda media de tiempo y comparar estos resultados del
 análisis con las capacidades reales de personal implicadas. Con base en
@@ -120,6 +122,7 @@ Por la traducción al inglés es responsable: Ing. Hana Pechačová
 Este informe final es público y todos los documentos y hechos están respaldados por el expediente de investigación.
 
 ## Página 6
+
 
 # Índice
  Resumen .............................................................................................................................3
@@ -146,10 +149,10 @@ Este informe final es público y todos los documentos y hechos están respaldado
 2.4.1 Condiciones meteorológicas y datos geográficos .....................................................19
 3 Registro de las declaraciones prestadas ........................................................................19
 3.1 Resumen de las declaraciones prestadas (sujeto a protección de la identidad de las personas) ................................19
-3.1.1 Empleados del gestor de la vía y del transportista, incluidas personas en relación contractual 
-
+3.1.1 Empleados del gestor de la vía y del transportista, incluidas personas en relación contractual
 
 ## Página 7
+
 
 ...............................................................................................................19
 3.1.2 Otras personas .........................................................................................................27
@@ -183,6 +186,7 @@ Este informe final es público y todos los documentos y hechos están respaldado
 
 ## Página 8
 
+
 4.2.1 Evaluación de los hechos constatados de acuerdo con el punto 3 y enunciado de las conclusiones sobre la causa del suceso excepcional y la actuación de los servicios de emergencia ..........................................50
 4.3 Conclusiones .......................................................................................................56
 4.3.1 Causas inmediatas del suceso excepcional, incluidos los factores que contribuyeron al mismo y que estuvieron relacionados con la actuación de las personas implicadas o con el estado de los vehículos ferroviarios o de las instalaciones técnicas ....................................................................56
@@ -200,8 +204,8 @@ Este informe final es público y todos los documentos y hechos están respaldado
  Fig. n.º 5: comparación del estado de los anillos dobles elásticos del lugar del SE y de una pieza nueva.  ...66
  Fig. n.º 6: muestra del estado de la fijación tras su apriete – almohadilla de caucho defectuosa no sustituida bajo la base del raíl, anillo doble elástico excesivamente comprimido, tornillo sin engrasar.  .......................................................................................................................66
 
-
 ## Página 9
+
 
 ## Lista de siglas y símbolos utilizados
 AH
@@ -281,8 +285,8 @@ jefe del centro de explotación
 žst.
 estación ferroviaria
 
-
 ## Página 10
+
 
 ## 1 RESUMEN
 Grupo del suceso:
@@ -331,6 +335,7 @@ de los raíles;
 
 ## Página 11
 
+
 defecto direccional detectado repetidamente y no eliminado a largo plazo.
 •
 Causas en el sistema de seguridad:
@@ -362,8 +367,8 @@ la adopción de una medida propia encaminada a garantizar la realización de los
 2), 3), 4) y 5) anteriores de la recomendación de seguridad también en los demás explotadores de vías
 ferroviarias en la República Checa.
 
-
 ## Página 12
+
 
 ## 2 DATOS RELATIVOS AL SUCESO EXTRAORDINARIO
 ## 2.1
@@ -391,17 +396,21 @@ entre las bandas del carril, las ruedas izquierdas se hundieron
 
 ## Página 13
 
-hacia el lecho de balasto a la izquierda de la vía, el bogie trasero permaneció con todas las ruedas hundidas en el balasto fuera de la vía. El TDV quedó inclinado hacia el lado izquierdo y se apoyó con su flanco izquierdo en la ladera del corte de la vía. En su lado izquierdo se detectó una manija del conmutador P/L desgastada y curvada en el sentido de la marcha, puesta en la posición L. El conmutador presentaba en su lado izquierdo marcas de rozadura en el sentido de la marcha y había sido accionado por él, desconectando el freno. El cilindro de freno estaba extendido, el vagón estaba frenado. El cuarto TDV descarrilado 81 54 6675 488-5 descarriló hacia la izquierda en el sentido de la marcha con ambos bogies fuera de la vía, permaneció de pie en posición vertical, todas las ruedas se hundieron en el lecho de balasto y en la tierra del foso a la izquierda de la vía. Tras el cuarto TDV descarrilado (en total el décimo) el tren se rompió y siguió un hueco de 72 m de longitud.
-El quinto TDV descarrilado 81 54 6681 587-6 descarriló hacia la derecha en el sentido de la marcha con ambos bogies fuera de la vía, permaneció de pie inclinado en un ángulo de aproximadamente 45° respecto a la vía, apoyado con el flanco izquierdo en el lecho de balasto. En la parte izquierda de su frente quedaron encajados los restos de la pila de tracción nº 77 destrozada. El sexto TDV descarrilado 31 54 6679 797-6 descarriló hacia la derecha en el sentido de la marcha con ambos bogies fuera de la vía y permaneció de pie en posición vertical junto a la vía, encajado en el quinto TDV descarrilado. El séptimo TDV descarrilado 31 54 6682 538-9 también descarriló hacia la derecha en el sentido de la marcha con ambos bogies fuera de la vía y permaneció de pie en posición vertical junto a la vía, encajado en el sexto TDV descarrilado. El octavo TDV descarrilado 81 54 6679 335-4 permaneció de pie descarrilado con ambos bogies, en diagonal a través de la vía en un ángulo de aproximadamente 30°, apoyándose con el lado derecho en el noveno TDV descarrilado 81 54 6679 417-0 y quedando encajado en el séptimo TDV descarrilado. Entre los TDV yacían los restos de las pilas de tracción nº 77 y 78 completamente destruidas.
-El noveno TDV descarrilado 81 54 6679 417-0 descarriló a la derecha, quedó tumbado sobre su flanco derecho con su parte superior en el sentido de la marcha del tren y le faltaba el bogie „a“. El décimo TDV descarrilado 31 54 6682 795-5 descarriló con ambos bogies, uno a la derecha y el otro a la izquierda, y permaneció de pie en posición vertical casi perpendicular a la vía. El undécimo TDV descarrilado 31 54 6676 999-1 descarriló con el primer bogie a la derecha, el segundo bogie „b“ descarriló a la izquierda y se clavó en la ladera del corte. El TDV permaneció de pie en posición vertical perpendicular a la vía, paralelo al décimo TDV descarrilado, contra el que se apoyó. El duodécimo TDV descarrilado 81 54 6681 119-8 descarriló con el primer bogie a la derecha y el segundo a la izquierda fuera de la vía, permaneció de pie en diagonal en un ángulo de 45° a través de la vía, apoyándose con el flanco izquierdo en el undécimo TDV y con el frente quedó enganchado en el décimo TDV descarrilado a una altura de 3 m sobre la cabeza de los raíles. Su bogie „a“ arrancado yacía debajo de él sobre otro bogie „a“ arrancado, procedente del noveno TDV descarrilado. El decimotercero (último) TDV descarrilado 81 54 6679 941-9 descarriló a la izquierda de la vía, con ambos bogies, todo el TDV quedó inclinado a la izquierda, las ruedas izquierdas del bogie trasero se encontraban en el espacio entre los carriles, las ruedas izquierdas del bogie delantero a la izquierda de la vía, todas en el aire a unos 15 cm sobre la cabeza de los raíles. Todos los TDV descarrilados del quinto al decimotercero se separaron entre sí durante el MU, el decimotercero TDV ya quedó colgado de los siguientes, que no descarrilaron.
-Debido a la superposición y destrucción de las huellas durante el descarrilamiento y el transcurso del accidente, no fue posible determinar qué TDV descarriló primero.
-Descripción del estado de cada uno de los TDV descarrilados según su posición en el tren:
-1.º al 6.º TDV no descarriló;
+al lecho de balasto a la izquierda de la vía, el bogie trasero permaneció con todas las ruedas hundido en el balasto fuera de la vía. El TDV quedó inclinado hacia el lado izquierdo y se apoyó con su flanco izquierdo en la ladera del corte de la vía. En su lado izquierdo se detectó una manivela del conmutador P/L desgastada y curvada en el sentido de la marcha, puesta en la posición L. El conmutador presentaba en su lado izquierdo marcas de rozadura en el sentido de la marcha y con él se había desconectado el freno. El cilindro de freno estaba extendido, el vagón estaba frenado. El cuarto TDV descarrilado 81 54 6675 488-5 descarriló hacia la izquierda en el sentido de la marcha con ambos bogies fuera de la vía, permaneció de pie erguido, todas las ruedas se hundieron en el lecho de balasto y en la tierra del zanja a la izquierda de la vía. Tras el cuarto TDV descarrilado (el décimo en total) el tren se partió y siguió un hueco de 72 m de longitud.
+
+El quinto TDV descarrilado 81 54 6681 587-6 descarriló hacia la derecha en el sentido de la marcha con ambos bogies fuera de la vía, permaneció de pie inclinado en un ángulo de aproximadamente 45° respecto a la vía, apoyado con su flanco izquierdo en el lecho de balasto. En la parte izquierda de su frente quedaron encajados los restos de la pila de tracción n.º 77 destrozada. El sexto TDV descarrilado 31 54 6679 797-6 descarriló hacia la derecha en el sentido de la marcha con ambos bogies fuera de la vía y permaneció de pie erguido junto a la vía, encajado en el quinto TDV descarrilado. El séptimo TDV descarrilado 31 54 6682 538-9 también descarriló hacia la derecha en el sentido de la marcha con ambos bogies fuera de la vía y permaneció de pie erguido junto a la vía, encajado en el sexto TDV descarrilado. El octavo TDV descarrilado 81 54 6679 335-4 permaneció de pie descarrilado con ambos bogies, en diagonal a través de la vía en un ángulo de aproximadamente 30°, apoyándose con su lado derecho en el noveno TDV descarrilado 81 54 6679 417-0 y quedando encajado en el séptimo TDV descarrilado. Entre los TDV yacían los restos de las pilas de tracción n.º 77 y 78 completamente destruidas.
+
+El noveno TDV descarrilado 81 54 6679 417-0 descarriló a la derecha, quedó tendido sobre su flanco derecho con su parte superior en el sentido de la marcha del tren y le faltaba el bogie «a». El décimo TDV descarrilado 31 54 6682 795-5 descarriló con ambos bogies, uno a la derecha y el otro a la izquierda, y permaneció de pie erguido casi perpendicularmente a través de la vía. El undécimo TDV descarrilado 31 54 6676 999-1 descarriló con el primer bogie a la derecha, el segundo bogie «b» descarriló a la izquierda y se clavó en la ladera del corte. El TDV permaneció de pie erguido perpendicularmente a través de la vía, paralelo al décimo TDV descarrilado, contra el que se apoyó. El duodécimo TDV descarrilado 81 54 6681 119-8 descarriló con el primer bogie a la derecha y el segundo a la izquierda fuera de la vía, permaneció de pie en diagonal con un ángulo de 45° a través de la vía, apoyándose con su flanco izquierdo en el undécimo TDV y con su frente quedó suspendido en el décimo TDV descarrilado a una altura de 3 m sobre la cabeza de los raíles. Su bogie «a» arrancado yacía debajo de él sobre otro bogie «a» arrancado, procedente del noveno TDV descarrilado. El decimotercero (último) TDV descarrilado 81 54 6679 941-9 descarriló a la izquierda de la vía, con ambos bogies, todo el TDV quedó inclinado a la izquierda, las ruedas izquierdas del bogie trasero se encontraban en el espacio entre los carriles, las ruedas izquierdas del bogie delantero a la izquierda de la vía, todas en el aire a unos 15 cm sobre la cabeza de los raíles. Todos los TDV descarrilados del quinto al decimotercero se separaron entre sí durante la MU, el decimotercero TDV ya quedó colgando con los siguientes, que no descarrilaron.
+
+Debido al solapamiento y la destrucción de las huellas durante el descarrilamiento y el transcurso del accidente, no fue posible determinar qué TDV descarriló el primero.
+Descripción del estado de los distintos TDV descarrilados según su orden en el tren:
+1.º a 6.º TDV no descarriló;
 7.º 31 54 6681 818-6 descarriló a la izquierda en el sentido de la marcha del tren con ambos bogies, con los cuatro ejes;
 8.º 31 54 6679 232-4 descarriló a la izquierda en el sentido de la marcha del tren con ambos bogies, con los cuatro ejes;
 9.º 81 54 6681 145-3 descarriló a la izquierda en el sentido de la marcha del tren con ambos bogies, con los cuatro
 
 ## Página 14
+
 
 ejes;
 10.  81 54 6675 488-5 descarriló a la izquierda en el sentido de marcha del tren con ambos bogies, con los cuatro ejes, escalera de acceso izquierda y paso dañados;
@@ -419,8 +428,8 @@ Mediante la comprobación de la suspensión de los vehículos ferroviarios allí
 En la superestructura ferroviaria se encontraron las primeras huellas de abandono del canto de la vía por las ruedas derechas en el km 50,765. El borde de la rueda derecha trepó aquí hasta el canto de la banda derecha de la vía y en el km 50,766 la rueda derecha cayó sobre sus fijaciones exteriores. La rueda izquierda abandonó el canto de la banda izquierda de la vía en el km 50,767 y cayó sobre sus fijaciones interiores. En estos puntos está soldado en la vía un empalme aislado encolado con el centro en el km 50,766. A simple vista era apreciable una desviación de la vía antes del empalme aislado encolado ligeramente hacia la izquierda (hacia el interior de la curva) y en el nivel del LIS notablemente hacia la derecha (hacia el exterior de la curva, véase pág. 12, Foto 1). Del km 50,769 al km 50,876 se produjo la destrucción total de la superestructura ferroviaria. El estado del balasto era bueno, sin zonas fangosas y con un exceso de balasto suficiente detrás de las cabezas de las traviesas y rellenando los espacios entre traviesas. Ante el lugar de origen del MU, en el km 50,735, se encuentra un paso a nivel.
 En la comprobación de los elementos de fijación de la superestructura ferroviaria se constató que en el área entre el km 50,650 y el km 51,150 (excepto el tramo km 50,769 – 50,876, donde la superestructura quedó destruida, y en las proximidades del paso a nivel en el km 50,735, que fue reparado en agosto de 2010) había más de un 50 % de almohadillas de caucho inoperantes bajo la base de la vía y casi todas las abrazaderas tipo ŽS 3 estaban flojas, las tuercas de los tornillos sin apretar, los tornillos sin engrasar, los anillos elásticos dobles sueltos. La capacidad de sujeción total de las fijaciones era en el tramo comprobado claramente insuficiente. En la banda derecha, en el km 50,950 y 50,958, se encontraban dos soldaduras aluminotérmicas, según su estado aparentemente soldadas en época reciente.
 
-
 ## Página 15
+
 
 Desde el punto «0» en el km 50,765 hasta el km 50,650, en sentido contrario a la marcha del tren descarrilado, se comprobó la fijación en un total de 160 traviesas. En las traviesas n.º 1 a 80, que se encontraban en el paso a nivel y sus alrededores, se detectaron algunas fijaciones flojas, pero no en cantidad crítica. En las traviesas del n.º 81 al 160, es decir, en otras 80 unidades en dirección hacia la est. Vyškov na Moravě, aproximadamente desde el km 50,710 hasta el km 50,650, se detectaron en la banda izquierda de la vía 139 fijaciones flojas de 160 unidades y en la banda derecha 118 fijaciones flojas de 160 unidades, lo que supone en conjunto un 80 % del total. Al menos en el 50 % de los casos la almohadilla de caucho bajo la base de la vía estaba desplazada, dañada o ausente.
 El estado de la fijación de las vías tras el lugar del MU en el sentido de marcha del tren Vn 52061 fue documentado fotográficamente y se realizó una grabación en vídeo. También aquí se detectó hasta el km 51,150 una gran cantidad de fijaciones flojas.
@@ -428,8 +437,8 @@ En el MU se produjo daños en la TV – rotura de dos piezas de soportes de trac
 Fig. n.º 1: Vista aérea general del lugar del MU (foto Policía ČR).
 El IZS fue activado.
 
-
 ## Página 16
+
 
 2.1.3 Decisión de iniciar la investigación de las causas y circunstancias de su origen, composición del equipo de personas cualificadas y forma de dirigir la investigación de las causas y circunstancias de su origen
 El MU fue comunicado al COP DI Praga el 5. 6. 2011 a las 12:43 horas. Dadas las consecuencias y la magnitud del MU, la DI inició la investigación de las causas y circunstancias de origen del MU de conformidad con lo dispuesto en el § 53b apartado 1 de la ley n.º 266/1994 Sb., de ferrocarriles, en su redacción vigente (en adelante también ley n.º 266/1994 Sb.), en el lugar del MU. La investigación fue realizada por el director y dos inspectores superiores de la Inspección Territorial de Brno.
@@ -470,6 +479,7 @@ Relación de números de los vehículos ferroviarios incluidos en el tren y su o
 
 ## Página 17
 
+
 11. 81 54 6681 587-6;
 12. 31 54 6679 797-6;
 13. 31 54 6682 538-9;
@@ -494,30 +504,30 @@ El tramo entre estaciones está equipado con dispositivo de señalización de l�
 ### 2.2.4 Uso de los medios de comunicación
 El maquinista del tren Vn 52061 utilizó el teléfono móvil de servicio para comunicar el MU a los jefes de estación de žst. Ivanovice na Hané y žst. Vyškov na Moravě. La comunicación entre los jefes de estación se realizó mediante teléfonos de servicio, con el maquinista también mediante TRS.
 
-
 ## Página 18
 
 ### 2.2.5 Trabajos realizados en el lugar del suceso excepcional y en sus proximidades
-En el lugar de origen del MU ni en su entorno más inmediato en la línea se realizaron trabajos directamente antes del origen del MU.
-### 2.2.6 Activación del plan para el caso de suceso excepcional en la línea y secuencia de acontecimientos
-El origen del MU lo comunicó al jefe de estación de žst. Ivanovice na Hané el maquinista del tren Vn 52061. El jefe de estación de žst. Ivanovice na Hané cumplió las demás obligaciones de conformidad con el Horario de Comunicación.
-En el COP DI el MU fue comunicado a las 12:43 horas. Al lugar del MU acudieron las personas cualificadas del explotador de la línea, del transportista y del VI DI. En el lugar del MU estaban presentes también los jefes de los distintos componentes organizativos del explotador de la línea y del transportista. Con la participación del VI DI se realizó la inspección conjunta del lugar del MU, incluida la elaboración del acta. Tras la inspección del lugar de origen del MU por parte de la Policía ČR, de los empleados de RIBŽD Brno y de los VI DI presentes, el 5. 6. 2011 a las 18:15 horas se concedió al DI el permiso para iniciar los trabajos de limpieza.
-El tráfico ferroviario entre žst. Vyškov na Moravě (en adelante también žst. Vyškov) y žst. Ivanovice na Hané (en adelante también žst. Ivanovice) fue interrumpido desde las 12:24 horas del día 5. 6. 2011. Tras la finalización de los trabajos de vía y de limpieza, el 7. 6. 2011 a las 20:10 horas se reanudó la explotación de la línea.
-### 2.2.7 Activación del plan del sistema integrado de emergencia, de la policia y del servicio médico de emergencia y secuencia de acontecimientos
-En el lugar del MU intervinieron unidades de la Policía ČR, Distrito de Vyškov, HZS SŽDC, s. o., Unidades de Protección contra Incendios de Brno, Břeclav, Olomouc, Přerov y HZS Vyškov.
+En el lugar de origen del SE ni en su entorno más inmediato en la vía no se realizaron, inmediatamente antes del origen del SE, ningún tipo de trabajos.
+### 2.2.6 Activación del plan para caso de suceso excepcional en la vía y secuencia de acontecimientos
+El origen del SE lo comunicó al jefe de estación de la estación de Ivanovice na Hané el maquinista del tren Vn 52061.
+El jefe de estación de la estación de Ivanovice na Hané cumplió las demás obligaciones de conformidad con el Horario de Comunicaciones.
+Al COP DI se notificó el SE a las 12:43 horas. Al lugar del SE acudieron las personas cualificadas del explotador de la vía, del transportista y del VI DI. En el lugar del SE estaban presentes también los jefes de empleados de las distintas ramas organizativas del explotador de la vía y del transportista. Con la participación del VI DI se realizó la inspección conjunta del lugar del SE, incluida la elaboración del acta. Tras la inspección del lugar de origen del SE por parte de la Policía ČR, de los empleados de RIBŽD Brno y de los VI DI presentes, se dio a las 18:15 horas del día 5. 6. 2011 el consentimiento del DI para el inicio de los trabajos de despeje.
+El tráfico ferroviario entre la estación de Vyškov na Moravě (en adelante también estación de Vyškov) y la estación de Ivanovice na Hané (en adelante también estación de Ivanovice) se interrumpió a las 12:24 horas del día 5. 6. 2011. Tras la finalización de los trabajos de vía y de despeje, se restableció la explotación de la vía a las 20:10 horas del día 7. 6. 2011.
+### 2.2.7 Activación del plan del sistema integrado de emergencias, de la policia y del servicio médico de emergencias y secuencia de acontecimientos
+En el lugar del SE intervinieron las unidades de la Policía ČR, Distrito de Vyškov, HZS SŽDC, s. o., Unidades de Protección contra Incendios de Brno, Břeclav, Olomouc, Přerov y HZS Vyškov.
 ## 2.3
 ### Fallecimientos, lesiones y daños materiales
-2.3.1 En los pasajeros y terceras personas, empleados del explotador de la línea y del transportista, incluidas personas en relación contractual
-En el MU nadie resultó lesionado ni falleció.
-### 2.3.2 En las cosas transportadas, el equipaje y otros bienes
-En las cosas transportadas no se produjo daño, pero sí se produjo daño en el terreno agrícola sembrado colindante de la Sociedad Cooperativa Agrícola Haná con sede en Švábenice, cuantificado en la cantidad de 40.575 Kč.
-### 2.3.3 En los vehículos ferroviarios, los componentes de la vía de circulación y en el medio ambiente
-Por parte del explotador de la línea y del transportista se cuantificó el daño:
-en los TDV
+2.3.1 En los pasajeros y terceras personas, empleados del explotador de la vía y del transportista, incluidas personas en relación contractual
+En el SE nadie resultó lesionado ni fallecido.
+### 2.3.2 En los objetos transportados, equipajes y otros bienes
+En los objetos transportados no se produjo daño, pero sí se produjo daño en el terreno agrícola sembrado colindante de la Sociedad Cooperativa Agrícola Haná con sede en Švábenice, valorado en la cantidad de 40.575 Kč.
+### 2.3.3 En los vehículos ferroviarios, componentes de la vía y en el medio ambiente
+Por parte del explotador de la vía y del transportista se valoró el daño:
+en TDV
 812.779,52
 Kč;
 •
-en el equipamiento de infraestructura
+en instalaciones de infraestructura
 186.014,13
 Kč;
 •
@@ -526,10 +536,10 @@ no se produjo daño al medio ambiente;
 daño total
 ### 998.793,65 Kč.
 •
-Como consecuencia del MU se produjo un daño posterior por retrasos de trenes y transporte por autobús de sustitución, que fue cuantificado en la cantidad de 1.840.283 Kč.
-
+Como consecuencia del SE se produjo un daño posterior por retrasos de trenes y transporte por autobús de sustitución, que fue valorado en la cantidad de 1.840.283 Kč.
 
 ## Página 19
+
 
 ## 2.4
 ### Circunstancias externas
@@ -589,6 +599,7 @@ hacia Ivanovice, y le pidió que llamara a alguien de ST para que lo comprobaran
 
 ## Página 20
 
+
 al mismo tiempo le dijo que el punto afectado era transitable;
 ◦
 tras consultar con el jefe de estación de la est. Ivanovice, llamaron al jefe del centro de explotación TO Vyškov, que estaba de vacaciones, pero dijo que se encargaría de la inspección;
@@ -635,8 +646,8 @@ a la est. Vyškov se dirigía la guardia de emergencia ST Brno por otro defecto 
 ◦
 por eso primero envió a reparar el tramo ocupado y tras una nueva llamada telefónica
 
-
 ## Página 21
+
 
 del VPS de TO Vyškov asegurándole que no era necesario volver a comprobar el estado de la desviación junto al semáforo, ya no envió allí la guardia de emergencia, ya que además los demás trenes no comunicaban este defecto.
 •
@@ -689,6 +700,7 @@ al salir de la est. Ivanovice circuló con especial precaución y antes del punt
 a simple vista no detectó ningún defecto evidente, pero se produjo una ligera oscilación de la HDV;
 
 ## Página 22
+
 
 esta circunstancia la comunicó personalmente al jefe de estación de la est. Vyškov y recomendó la inspección del lugar a los empleados de SDC;
 ◦
@@ -756,8 +768,8 @@ Maquinista del tren R 736 del 5. 6. 2011 – de la Acta con el empleado se despr
 al pasar por la est. Ivanovice, el jefe de estación le comunicó a través de TRS que
 ◦
 
-
 ## Página 23
+
 
 en el punto junto a la señal AH Topolany había una desviación de la vía y que condujera más despacio;
 antes del punto afectado comenzó a reducir la velocidad a unos 50 km.h-1 y vio el ondulado
@@ -829,6 +841,7 @@ el viernes y que había hablado del problema con el jefe de la unidad de emergen
 una soldadura astillada y traviesas proyectadas;
 
 ## Página 24
+
 
 dijo al VPS TO Vyškov que debería establecerse una marcha lenta allí, pero él mismo
 ◦
@@ -902,8 +915,8 @@ utilizó los trenes R 839 y R 840, circulando siempre en el último TDV;
 no registró ninguna anomalía en la GPK.
 ◦
 
-
 ## Página 25
+
 
 Jefe del centro de explotación TO Maloměřice, SDC Brno – de la Acta con
 •
@@ -979,6 +992,7 @@ el jefe superior de TO Brno hl. n. le dijo por teléfono que él había estado e
 
 ## Página 26
 
+
 de la inspección de temperatura del día 4 de junio de 2011 y no detectó ningún defecto;
 el jefe de vía TO Vyškov le comunicó también por teléfono, en el periodo posterior al descarrilamiento del tren Vn 52061, que él
 ◦
@@ -1049,6 +1063,7 @@ Jefe superior de TO Vyškov, SDC Brno – del Acta con el empleado entre otros
 
 ## Página 27
 
+
 se deduce:
 el día 3 de junio de 2011 el VPS de TO Vyškov le comunicó un defecto en la alineación de la vía en el área
 ◦
@@ -1118,19 +1133,19 @@ explicaciones sobre la MU.
 ## 3.2
 ### Sistema de garantía de la seguridad
 ### 3.2.1 Organización marco y forma en que se emiten y ejecutan las instrucciones
-El gestor de la infraestructura y el operador ferroviario disponen de un sistema de garantía de la seguridad. En el ámbito de las inspecciones de las líneas, su mantenimiento y la actividad de control, el elemento del sistema de garantía de la seguridad de la explotación de la infraestructura, de acuerdo con el § 2 apartado (1) letra b) del decreto n.º 376/2006 Sb., sobre el sistema de seguridad de la explotación de la infraestructura y del transporte ferroviario y sobre los procedimientos en caso de sucesos excepcionales en las infraestructuras ferroviarias, en su versión vigente (en adelante, decreto n.º 376/2006 Sb.), está establecido por la norma SŽDC (ČD) S 2/3 Organización y ejecución de controles en las líneas de los Ferrocarriles Checos (en adelante, también norma SŽDC (ČD) S 2/3); en relación con la vía sin juntas, está establecido por la norma SŽDC (ČD) S 3/2 Vía sin juntas (en adelante, también norma SŽDC (ČD) S 3/2). La evaluación del sistema completo y de su papel en el SU objeto de investigación excede el alcance de esta investigación, por lo que la investigación de las causas en el uso del sistema de garantía de la seguridad se centró en el ámbito que guarda relación causal con el SU investigado. Del análisis en el capítulo 4.2.1 se desprende que en este ámbito se detectaron deficiencias en relación causal con la producción de este SU.
-### 3.2.2 Requisitos aplicables al personal del gestor de la infraestructura y del operador ferroviario y su cumplimiento
-La cualificación profesional de las personas que participan en la explotación del transporte ferroviario viene determinada por el § 35 apartado (1) letra f) de la ley n.º 266/1994 Sb. La condición de aptitud para conducir un vehículo ferroviario viene determinada por el § 45 de la ley n.º 266/1994 Sb.
-Los requisitos de cualificación profesional del personal del operador ferroviario ČD Cargo, a. s., incluida la forma de su cumplimiento, vienen determinados por la norma interna del operador ferroviario «PERs28-2009 REGLAMENTO DE FORMACIÓN Y EXÁMENES», aprobada el 1. 4. 2009, con efectos a partir del 1. 5. 2009.
-El maquinista de la HDV del tren Vn 52061 disponía del «Certificado de aptitud para conducir un vehículo ferroviario» válido, expedido por la Autoridad Ferroviaria en Praga, número de registro 50 70 70.
-La familiarización de las personas que conducen la HDV con las condiciones de las líneas y de las instalaciones de tráfico en las líneas y estaciones la impone al explotador del transporte ferroviario el § 35 apartado (1) letra a) del decreto n.º 173/1995 Sb., reglamento de circulación ferroviaria, en su versión vigente. El maquinista de la HDV disponía de la familiarización vigente para la línea indicada.
-La aptitud médica de las personas que participan en la explotación del transporte ferroviario viene determinada por el § 35 apartado (1) letra f) de la ley n.º 266/1994 Sb. El maquinista disponía de un dictamen vigente de aptitud médica para el trabajo de acuerdo con el § 6 apartado (2) del decreto n.º 101/1995 Sb., Reglamento de aptitud médica y profesional de las personas en la explotación de la infraestructura y del transporte ferroviario, en su versión vigente (en adelante, también decreto n.º 101/1995 Sb.).
-La cualificación profesional y médica de las personas que participan en la explotación de la infraestructura viene determinada por el § 22 apartado (1) letra c) de la ley n.º 266/1994 Sb.
-Los requisitos de cualificación profesional del personal de SŽDC, s. o., incluida la forma de su cumplimiento, están establecidos en la norma interna del gestor de la infraestructura SŽDC Zam1 «Norma sobre la cualificación profesional del personal de la Administración de la Infraestructura Ferroviaria, organización estatal», aprobada el día 30. 6. 2008, con referencia n.º: 23138/08-OKS, en su versión vigente.
-Todos los empleados implicados del gestor de la infraestructura y del operador ferroviario eran, en el momento de la producción del SU, profesional y médicamente aptos para el desempeño de la función que ocupaban.
-
+El gestor de la infraestructura y el operador ferroviario disponen de un sistema de garantía de la seguridad. En el ámbito de las inspecciones de las vías, su mantenimiento y la actividad de control, el elemento del sistema de garantía de la seguridad de la explotación de la infraestructura, de conformidad con el § 2 apartado (1) letra b) del decreto n.º 376/2006 Sb., sobre el sistema de seguridad de la explotación de la infraestructura y del transporte ferroviario y sobre los procedimientos aplicables en caso de sucesos excepcionales en las vías, en su versión vigente (en adelante, decreto n.º 376/2006 Sb.), está establecido por la norma SŽDC (ČD) S 2/3 Organización y ejecución de las inspecciones en las vías de los Ferrocarriles Checos (en adelante, también norma SŽDC (ČD) S 2/3); en relación con la vía sin juntas, está establecido por la norma SŽDC (ČD) S 3/2 Vía sin juntas (en adelante, también norma SŽDC (ČD) S 3/2). La evaluación del sistema en su conjunto y de su papel en el SU objeto de investigación excede el alcance de esta investigación, por lo que la investigación de las causas en el uso del sistema de garantía de la seguridad se centró en el ámbito que guarda relación causal con el SU investigado. Del análisis realizado en el capítulo 4.2.1 se desprende que en este ámbito se detectaron deficiencias en relación causal con la aparición de este SU.
+### 3.2.2 Requisitos aplicables a los empleados del gestor de la infraestructura y del operador ferroviario y su aplicación
+La cualificación profesional de las personas que participan en la explotación del transporte ferroviario está establecida en el § 35 apartado (1) letra f) de la ley n.º 266/1994 Sb. La condición de aptitud para conducir un vehículo ferroviario está establecida en el § 45 de la ley n.º 266/1994 Sb.
+Los requisitos de cualificación profesional de los empleados del operador ferroviario ČD Cargo, a. s., incluida la forma de su aplicación, están establecidos en la norma interna del operador ferroviario «PERs28-2009 REGLAMENTO DE FORMACIÓN Y EXÁMENES», aprobada el 1. 4. 2009, con efectos a partir del 1. 5. 2009.
+El maquinista del rodadura móvil del tren Vn 52061 disponía del «Certificado de aptitud para conducir un vehículo ferroviario» válido, expedido por la Autoridad Ferroviaria en Praga, número de registro 50 70 70.
+El conocimiento de las condiciones de la vía en las vías y en las instalaciones de tráfico por parte de las personas que conducen la rodadura móvil lo impone al gestor del transporte ferroviario el § 35 apartado (1) letra a) del decreto n.º 173/1995 Sb., reglamento de circulación ferroviaria, en su versión vigente. El maquinista de la rodadura móvil disponía del conocimiento válido para la vía indicada.
+La aptitud sanitaria de las personas que participan en la explotación del transporte ferroviario está establecida en el § 35 apartado (1) letra f) de la ley n.º 266/1994 Sb. El maquinista disponía de un dictamen válido de aptitud sanitaria para el trabajo de conformidad con el § 6 apartado (2) del decreto n.º 101/1995 Sb., Reglamento sobre la aptitud sanitaria y profesional de las personas en la explotación de la infraestructura y del transporte ferroviario, en su versión vigente (en adelante, también decreto n.º 101/1995 Sb.).
+La cualificación profesional y sanitaria de las personas que participan en la explotación de la infraestructura está establecida en el § 22 apartado (1) letra c) de la ley n.º 266/1994 Sb.
+Los requisitos de cualificación profesional de los empleados de SŽDC, s. o., incluida la forma de su aplicación, están establecidos en la norma interna del gestor de la infraestructura SŽDC Zam1 «Norma sobre la cualificación profesional de los empleados de la Administración de la Infraestructura Ferroviaria, organización estatal», aprobada el 30. 6. 2008, con el n.º de expediente: 23138/08-OKS, en su versión vigente.
+Todos los empleados implicados del gestor de la infraestructura y del operador ferroviario eran, en el momento de la aparición del SU, profesional y sanitariamente aptos para el desempeño de la función que ocupaban.
 
 ## Página 29
+
 
 ### 3.2.3 Procedimiento de control interno de la seguridad y sus resultados
 El día 29. 8. 2011, la DI en la TO Vyškov, en relación con la producción del SU objeto de investigación, realizó una inspección estatal en materia de ferrocarriles con referencia n.º: 7-1708/2011/DI-2, durante la cual se constató:
@@ -1144,6 +1159,7 @@ Para el año 2011, el gestor de la infraestructura presentó el «Acta de la ins
 Para el año 2010, el gestor de la infraestructura presentó el registro «Acta de la realización de la inspección integral en el ámbito de la TO según la Medida del jefe de la ST Brno con referencia n.º 2246/10 de fecha 2. 3. 2010 en el sentido del decreto n.º 177/95 Sb. y de la norma ČD S 2/3», que realizó entre el 12 de abril y el 26 de abril de 2010 el jefe de la ST Brno, redactada en Brno el 27. 4. 2010. En el acta no consta, en contra de lo dispuesto en la norma interna del gestor de la infraestructura SŽDC (ČD) S 2/3, art. 105, punto b), cuarto párrafo, la evaluación mediante inspección del estado de los sistemas de fijación, del alcance y de la forma de alteración de su capacidad de retención, ni la rigidez de marco
 
 ## Página 30
+
 
 rigidez del bastidor de la parrilla de vía, además, en el acta no se contradice con la normativa interna del gestor de la infraestructura ferroviaria SŽDC (ČD) S 2/3, art. 105, punto b), sexta viñeta, se evaluó el estado y la estabilidad del raíl continuo soldado.
 
@@ -1169,6 +1185,7 @@ La agravación de la situación y la aparición de la desviación de la vía con
 
 ## Página 31
 
+
 aprieto de los dispositivos de fijación.
 De los documentos presentados, el «Parte diario» de fecha 16. 3. 2011, se desprende que ese día, en el tramo Vyškov na Moravě – Ivanovice na Hané, un empleado de TO Vyškov apretó los tornillos de sujeción en el horario de 7:45 a 14:15 horas, en el tramo desde el km 50,800 hasta el km 50,900; también manejó un vagón motor universal hasta el km 50,800 y desde el km 50,800, y recorrió con él 27 km (en los horarios indicados de maniobra hasta y desde el km 50,800, en el intervalo de 7:00 a 7:45 horas circularon por el tramo indicado al menos tres trenes, y en el horario de 14:15 a 15:00 horas también). La intervención en la vía en el tramo Vyškov na Moravě – Ivanovice na Hané del 16. 3. 2011 se llevó a cabo en el horario de 8:30 a 13:30 horas. En el registro del diario de circulación electrónico de la est. Vyškov na Moravě no consta, en los horarios indicados del 16. 3. 2011, ninguna circulación de DV hasta el km 50,800 y de vuelta.
 De lo anterior no queda claro cómo el empleado en cuestión realizaba las actividades indicadas fuera de la intervención, durante la intervención, y cómo pudo apretar los dispositivos de fijación durante todo el tiempo indicado en el tramo desde el km 50,800 hasta el km 50,900.
@@ -1186,6 +1203,7 @@ el sábado 4. 6. 2011, los jefes de estación de Ivanovice na Hané y de Vyškov
 •
 
 ## Página 32
+
 
 introducir una marcha lenta a través del punto problemático, porque los maquinistas de los trenes que pasaban volvieron a comunicar repetidamente la misma avería de alineación. El VPS TO Vyškov, al que se le informó de ello, rechazó la introducción de la marcha lenta alegiendo que, según su información, la avería no era de tal gravedad y que, por tanto, no era necesario por el momento adoptar medidas para garantizar la seguridad; el domingo 5 de junio de 2011, diecisiete minutos antes del descarrilamiento del tren Vn 52061, el maquinista del tren R 933 volvió a comunicar la desviación de la vía en el mismo lugar junto al paso a nivel. Su información fue confirmada inmediatamente después por el maquinista del tren R 736. El VPS TO Vyškov fue informado nuevamente de la situación, el cual decidió ir a inspeccionar el punto problemático y comprobarlo, pero que hasta entonces no adoptaría medidas para garantizar la seguridad. Antes de que llegara al lugar de la avería, se produjo la desviación de la vía y el descarrilamiento del tren Vn 52061.
 
@@ -1205,6 +1223,7 @@ Del «Diario de soldadura de raíles en vías y desvíos» presentado, número d
 
 ## Página 33
 
+
 v km 49,458, tercero en km 50,950 y cuarto en km 50,958, todos ellos en el carril derecho. 
 En las inmediaciones de las soldaduras de las placas de carril de 8 m de longitud en km 50,950 y en km 50,958, tras su soldadura se procedió al apriete de parte de los elementos de sujeción, lo que además contribuyó a la fragmentación de la estabilidad del carril derecho debido a la parte de sujeción de carriles apretada en el tramo con elementos de sujeción aflojados. En la parte presentada del «Resumen gráfico del carril continuo de la OT Vyškov» (desde km 48,5 hasta km 51,8), hasta el día 5. 6. 2011 no se registraron ni se representaron las 4 soldaduras anteriores, realizadas el 16. 3. 2011, y tampoco se registra en él la rotura del carril en el carril derecho en km 49,450 del día 16. 12. 2010, lo que es contrario a la norma SŽDC (ČD) S 3/2, art. 237 en relación con el § 25 apartado (16) letra b) del decreto n.º 177/1995 Sb y el § 22 apartado (1) de la ley n.º 266/1994 Sb.
 En la parte presentada del «Resumen gráfico del carril continuo de la OT Vyškov» (desde km 48,5 hasta km 51,8), hasta el día 5. 6. 2011 tampoco se registró ni se representó la modificación continua de la configuración en altura y en dirección del carril (el llamado apisonado del carril), que según la documentación remitida por el gestor de la infraestructura se realizó los días 27. 4. 2011, 11. 8. 2010, 20. 4. 2010, 10. 3. 2009, 17. 6. 2008 y 22. 7. 2008, lo que es contrario a la norma interna SŽDC (ČD) S 3/2, art. 237 en relación con el § 25 apartado (16) letra b) del decreto n.º 177/1995 Sb. y el § 22 apartado (1) de la ley n.º 266/1994 Sb.
@@ -1215,6 +1234,7 @@ Al no realizar las obras que influyen de manera determinante en la estabilidad d
 SŽDC, s. o., no garantizó el mantenimiento y la reparación de la infraestructura en el tramo Vyškov na Moravě – Ivanovice na Hané en la medida necesaria para su aptitud para la explotación, lo que es contrario al § 20 apartado (1) de la ley
 
 ## Página 34
+
 
 n.º 266/1994 Sb., además tampoco garantizó el cumplimiento del sistema establecido de garantía de seguridad, lo que es contrario al § 22 apartado (2) letra d) de la Ley n.º 266/1994 Sb.
 Otros defectos en relación con la estabilidad y la rigidez de marco de la vía férrea (BK) detectó la DI en el marco de las inspecciones aleatorias (SD):
@@ -1246,79 +1266,93 @@ Se implantaron circulaciones lentas a temperaturas superiores a 30 grados Celsiu
 A 28 de junio se habían implantado circulaciones lentas en un total de 170 kilómetros de líneas nacionales y regionales en toda la República Checa. En las líneas operadas por SŽDC, s. o., se implantaron así de forma inmediata un total de 52 circulaciones lentas debido al estado de la vía férrea (BK), y en otros 52 tramos hubo que monitorizar la situación por su posible implantación en caso de necesidad.
 El aflojamiento de los elementos de fijación de la vía debido al tráfico, a su antigüedad y a su desgaste se produjo de forma gradual a lo largo de un período de tiempo más largo, pero este problema era posible detectarlo mediante una inspección rigurosa y eliminarlo con un mantenimiento temprano y correcto. De los hechos anteriormente mencionados y de los resultados de la inspección interna del operador ferroviario se deduce que la cuestión del aflojamiento de la fijación de los carriles en el lugar del accidente ferroviario (MU) y en sus alrededores no fue un fenómeno aleatorio o aislado, sino que se trataba de un problema más profundo, a largo plazo y sistémico en distintos tramos de líneas de toda la red ferroviaria operada por SŽDC, s. o.
 
-
 ## Página 35
 
-El operador ferroviario SŽDC, s. o., no garantizó, en el caso de las líneas anteriormente mencionadas, el cumplimiento del sistema establecido de garantía de seguridad, lo que es contrario al § 22 apartado (2) letra d) de la Ley n.º 266/1994 Sb., y no operó la vía para las necesidades del transporte ferroviario fluido y seguro en el sentido del § 22 apartado (1) de la Ley n.º 266/1994 Sb.
+El explotador de la vía SŽDC, s. o., no garantizó, en el caso de las vías mencionadas anteriormente, el cumplimiento del sistema establecido de garantía de seguridad, lo que es contrario al § 22 apartado (2) letra d) de la Ley núm. 266/1994 Sb., y no explotó la vía para las necesidades del tráfico ferroviario fluido y seguro en el sentido del § 22 apartado (1) de la Ley núm. 266/1994 Sb.
 ### 3.2.4 Interfaz entre los distintos sujetos implicados y los componentes de la vía de tráfico
-El propietario y operador de la vía férrea, categoría nacional, 315A, Nezamyslice – Brno hl. n., es SŽDC, s. o., con domicilio en Dlážděná 1003/7, Praha 1 – Nové Město, CP 110 00, en virtud de la Autorización Administrativa emitida por DÚ el 29. 5. 2008, con n.º de expediente: 3-4277/07-DÚ/Le-DÚ/O-Sl (n.º de ref. ÚP/2008/9002).
-El transportista del tren Vn 52061 fue ČD Cargo, a. s., con domicilio en Jankovcova 1569/2c, Praha 7 – Holešovice, CP 170 00, en virtud de la Licencia concedida por DÚ el 20. 11. 2007, con n.º de expediente: 3-41/07-DÚ/Le, n.º de ref.: L/1996/5000, Resolución de modificación de licencia emitida por DÚ el 05. 08. 2008, con n.º de expediente: 3-2935/08-DÚ/Le, n.º de ref.: L/2008/1452-1, y el 27. 8. 2008, con n.º de expediente: 3-186/08-DÚ/Le, n.º de ref.: L/2008/1452-2, y del contrato «SMLOUVA číslo 168/10 o provozování drážní dopravy na železniční dopravní cestě celostátní dráhy a regionálních dráh ve vlastnictví České republiky» (Contrato n.º 168/10 sobre la explotación del transporte ferroviario en la vía de tráfico de la línea nacional y de las líneas regionales en propiedad de la República Checa), celebrado entre las partes contratantes SŽDC, s. o. y ČD Cargo, a. s. El contrato se celebra por duración indefinida, con efectos desde el 1. 1. 2010.
+El propietario y explotador de la vía ferroviaria, categoría estatal, 315A, 
+Nezamyslice – Brno hl. n., es SŽDC, s. o., con domicilio en Dlážděná 1003/7, Praha 1 – Nové Město, PSČ 110 00, en virtud de la Autorización Administrativa emitida por el DÚ el 29. 5. 2008, con el n.º de expediente: 3-4277/07-DÚ/Le-DÚ/O-Sl (n.º ev. ÚP/2008/9002).
+El transportista del tren Vn 52061 fue ČD Cargo, a. s., con domicilio en Jankovcova 1569/2c, Praha 7 – Holešovice, PSČ 170 00, en virtud de la Licencia concedida por el DÚ el 20. 11. 2007, con el n.º de expediente: 3-41/07-DÚ/Le, n.º ev.: L/1996/5000, de la Resolución de modificación de licencia emitida por el DÚ el 05. 08. 2008, con el n.º de expediente: 3-2935/08-DÚ/Le, n.º ev.: L/2008/1452-1, y el 27. 8. 2008, con el n.º de expediente: 3-186/08-DÚ/Le, n.º ev.: L/2008/1452-2, y del contrato «SMLOUVA číslo 168/10 o provozování drážní dopravy na železniční dopravní cestě celostátní dráhy a regionálních dráh ve vlastnictví České republiky», celebrado entre las partes contratantes SŽDC, s. o., y ČD Cargo, a. s. El contrato se celebra por duración indefinida, con efectos a partir del 1. 1. 2010.
 ## 3.3
 ### Regulación jurídica y de otro tipo
 ### 3.3.1 Normativa jurídica comunitaria y nacional aplicable
-En la investigación del accidente ferroviario (MU) se detectó la infracción de las siguientes normas jurídicas:
-•  § 20 apartado (1) de la Ley n.º 266/1994 Sb.: «El propietario de la vía está obligado a garantizar el mantenimiento y la reparación de la vía en la medida necesaria para su operatividad...»;
-§ 22 apartado (1) letra a) de la Ley n.º 266/1994 Sb.: «El operador de la vía está obligado:
+En la investigación del MU se constató la infracción de las siguientes normas jurídicas:
+•  § 20 apartado (1) de la Ley núm. 266/1994 Sb.: «El propietario de la vía está obligado a garantizar el mantenimiento y la reparación de la vía en la medida necesaria para su aptitud para la explotación ...»;
+§ 22 apartado (1) letra a) de la Ley núm. 266/1994 Sb.: «El explotador de la vía está obligado:
 •
-a) a operar la vía para las necesidades del transporte ferroviario fluido y seguro de acuerdo con las normas de explotación de la vía y la autorización administrativa»;
-§ 22 apartado (2) letra d) de la Ley n.º 266/1994 Sb.: «El operador de la vía nacional
+a) explotar la vía para las necesidades del tráfico ferroviario fluido y seguro de acuerdo con las normas de explotación de la vía y la autorización administrativa»;
+§ 22 apartado (2) letra d) de la Ley núm. 266/1994 Sb.: «El explotador de la vía estatal
 •
-o de la vía regional está además obligado: d) a implantar el sistema de garantía de seguridad de la explotación de la vía y a garantizar su cumplimiento»;
-§ 26 apartado (2) letra a) del Decreto n.º 177/1995 Sb.: «Las inspecciones y mediciones
+o de la vía regional está asimismo obligado: d) a implantar el sistema de garantía de seguridad de la explotación de la vía y a garantizar su cumplimiento»;
+§ 26 apartado (2) letra a) del decreto núm. 177/1995 Sb.: «Las inspecciones y mediciones
 •
-periódicas del apartado 1 se realizan a) mediante el recorrido de la vía, durante el cual se realiza la inspección periódica de la vía para determinar el estado de la superestructura y la infraestructura ferroviarias, de los pasos a nivel y de las obras de la infraestructura ferroviaria, y para detectar la posible aparición de fuentes de amenaza para la vía»;
-§ 26 apartado (2) letra g) del Decreto n.º 177/1995 Sb.: «Las inspecciones y mediciones
+regulares previstas en el apartado 1 se realizan a) mediante la inspección del tramo, durante la cual se realiza la inspección regular del tramo para determinar el estado de la superestructura e infraestructura ferroviarias, de los pasos a nivel y de las obras de infraestructura ferroviaria, y para detectar la posible existencia de fuentes de peligro para la vía»;
+§ 26 apartado (2) letra g) del decreto núm. 177/1995 Sb.: «Las inspecciones y mediciones
 •
-periódicas del apartado 1 se realizan g) mediante una inspección integral de la vía, durante la cual se evalúa el estado de la superestructura ferroviaria, del cuerpo de la infraestructura ferroviaria, de las obras de la infraestructura ferroviaria, de los andenes, de las rampas y de los pasos a nivel tras el período invernal, y se detectan las anomalías y su alcance»;
+regulares previstas en el apartado 1 se realizan g) mediante la inspección integral del tramo, durante la cual se evalúa el estado de la superestructura, del cuerpo de la infraestructura, de las obras de infraestructura, de los andenes, de las rampas y de los pasos a nivel tras el periodo invernal, y se detectan los defectos y su alcance»;
 
 ## Página 36
 
-§ 26 apartado (3) letra a) del decreto n.º 177/1995 Sb.: «Además de las inspecciones regulares
+§ 26 apartado (3) letra a) del decreto nº 177/1995 Sb.: «Además de las inspecciones regulares
 •
-se realizan también inspecciones extraordinarias en función de las condiciones locales y de las
-medidas adoptadas en las inspecciones anteriores»;
-§ 18 apartado (2) del decreto n.º 177/1995 Sb.: «En la vía de ámbito nacional, por regla general, se instala
+se realizan también inspecciones extraordinarias en función de las condiciones locales y de
+las medidas adoptadas en las inspecciones anteriores»;
+§ 18 apartado (2) del decreto nº 177/1995 Sb.: «En la vía de ámbito nacional se instala
 •
-vía continua soldada. La vía continua soldada debe tener la rigidez de marco y la estabilidad
-necesarias establecidas en el proyecto. ...»;
-§ 25 apartado (16) letra a) del decreto n.º 177/1995 Sb.: «Para garantizar la operatividad
+como regla general vía continua soldada. La vía continua soldada debe tener la rigidez de
+bastidor y la estabilidad necesarias determinadas por el proyecto. ...»;
+§ 25 apartado (16) letra a) del decreto nº 177/1995 Sb.: «Para garantizar la aptitud para el
 •
-de la vía deben registrarse: a) los parámetros constructivo-técnicos del superestructura ferroviaria,
-que contienen datos geométricos, de construcción, de tipo y de fabricación, así como datos
-sobre la antigüedad de las estructuras y registros de las inspecciones y mediciones regulares»;
-§ 25 apartado (16) letra b) del decreto n.º 177/1995 Sb.: «Para garantizar la operatividad
+servicio de la vía deben registrarse: a) los parámetros constructivo-técnicos del
+superestructura ferroviaria, que contienen datos geométricos, de construcción, de tipo y de
+fabricación, así como datos sobre la antigüedad de las construcciones y registros de las
+inspecciones y mediciones regulares»;
+§ 25 apartado (16) letra b) del decreto nº 177/1995 Sb.: «Para garantizar la aptitud para el
 •
-de la vía deben registrarse: b) datos sobre la instalación, el estado y las modificaciones de la vía
-continua soldada»;
-§ 25 apartado (16) letra j) del decreto n.º 177/1995 Sb.: «Para garantizar la operatividad
+servicio de la vía deben registrarse: b) datos sobre la instalación, el estado y las
+modificaciones de la vía continua soldada»;
+§ 25 apartado (16) letra j) del decreto nº 177/1995 Sb.: «Para garantizar la aptitud para el
 •
-de la vía deben registrarse: registros de las inspecciones, mediciones y revisiones de las obras
-de vía».
-3.3.2 Otras normativas, p. ej. reglamento de explotación, reglamento de trabajo, normativas de mantenimiento, normas técnicas vigentes y otras normativas internas
-En la investigación del MU se constató el incumplimiento de las siguientes normativas internas:
-normativa interna de SŽDC (ČD) S 2/3 – Organización y realización de inspecciones de las líneas
+servicio de la vía deben registrarse: registros de las inspecciones, mediciones y revisiones
+de las construcciones de las vías».
+3.3.2 Otras normas, por ejemplo el reglamento de explotación, el reglamento laboral, las
+normas de mantenimiento, las normas técnicas vigentes y otras normas internas
+En la investigación del MU se constató el incumplimiento de las siguientes normas internas:
+norma interna de SŽDC (ČD) S 2/3 – Organización y realización de las inspecciones de las
 •
-de los Ferrocarriles Checos, artículo 15:
-«15. El empleado encargado de la inspección está obligado a:
-a) realizar correctamente la actividad de inspección en los plazos y en la extensión establecidos,
-b) documentar oportunamente los resultados, incluida su evaluación,
-c) en el ámbito de sus competencias, imponer, respectivamente, asegurar medidas eficaces para la seguridad de la explotación ferroviaria y la seguridad de las personas,
-d) asegurar la inspección posterior de la eliminación de las deficiencias detectadas»;
-normativa de SŽDC (ČD) S 2/3, artículo 18:
+líneas de los Ferrocarriles Checos, artículo 15:
+ «15. El empleado encargado de la inspección está obligado a:
+a) realizar correctamente la actividad de inspección en los plazos y en la extensión
+establecidos,
+b) documentar puntualmente los resultados, incluida la evaluación,
+c) imponer, en la medida de sus competencias, o garantizar medidas eficaces para la
+seguridad de la explotación ferroviaria y la seguridad de las personas,
+d) garantizar la inspección posterior de la eliminación de las deficiencias detectadas»;
+norma SŽDC (ČD) S 2/3, artículo 18:
 •
-«Para la planificación de las inspecciones y mediciones complementarias y de las inspecciones complementarias es determinante el estado de la geometría de la vía, del entablado, del lecho de la vía y de la estabilidad del cuerpo ferroviario en los tramos concretos de las líneas.
-Estas inspecciones, según el estado constatado, las determina:
- - para un período de tiempo más largo – el jefe de ST,
- - de forma operativa – (en particular para comprobar la eficacia de las reparaciones de las deficiencias graves) – el jefe de PJ»;
-normativa de SŽDC (ČD) S 2/3, artículo 41:
+«Para la planificación de las inspecciones y mediciones complementarias y de las
+inspecciones complementarias es determinante el estado de la geometría de la vía, del
+carril, del lecho de la vía y de la estabilidad del cuerpo ferroviario en los tramos
+concretos de las líneas.
+Estas inspecciones, según el estado detectado, las determina:
+ - a largo plazo – el jefe de ST,
+ - de forma operativa – (en particular para comprobar la eficacia de las reparaciones de
+las deficiencias graves) – el jefe de PJ»;
+norma SŽDC (ČD) S 2/3, artículo 41:
 •
-«Mediante el recorrido de la línea, al menos en los intervalos establecidos, se comprueba el estado de la superestructura ferroviaria, de la infraestructura ferroviaria, de los pasos a nivel, de las señales de línea, de los dispositivos especiales de la vía de circulación, la conservación de la disposición espacial, los cambios y la actividad en la vía y en su entorno.
-En particular se inspeccionan las deficiencias registradas del material de los raíles, el estado de las juntas, la conexión conductora de las bandas de raíles y la descarrilación, la fiabilidad del fijado de los raíles y la estabilidad de la vía...»;
-normativa de SŽDC (ČD) S 2/3, artículo 44:
+«Mediante la inspección de la línea, al menos en los intervalos establecidos, se comprueba
+el estado de la superestructura ferroviaria, de la infraestructura ferroviaria, de los
+cruces, de las señales de línea, de los aparatos especiales de la vía de circulación, la
+conservación de la disposición espacial, los cambios y la actividad en la vía y en su
+entorno.
+En particular se inspeccionan las deficiencias registradas del material de los carriles, el
+estado de las uniones, la conexión conductora de las bandas de carriles y el
+descarrilamiento, la fiabilidad del fijado de los carriles y la estabilidad de la vía...»;
+norma SŽDC (ČD) S 2/3, artículo 44:
 •
-
 
 ## Página 37
+
 
 «El empleado que realiza la inspección comprueba si la línea se encuentra en un estado tal que la explotación ferroviaria sea segura y fiable. Al detectar una deficiencia que ponga en peligro la seguridad del transporte, está obligado a asegurar las medidas de tráfico necesarias y a comunicarlas a su superior directo»;
 normativa de SŽDC (ČD) S 2/3, artículo 49:
@@ -1360,37 +1394,37 @@ normativa de SŽDC (ČD) S 3/2, artículo 227:
 
 - en tramos con temperatura de fijación desconocida y con temperatura de fijación inferior a 15 °C, …
 En días no laborables se decidirá sobre las inspecciones extraordinarias y las pruebas de rodaje en función de la previsión meteorológica.";
-reglamento SŽDC (ČD) S 3/2, art. 237:
+Reglamento SŽDC (ČD) S 3/2, art. 237:
 •
-"El esquema gráfico y escrito de la vía continua (BK) lo lleva, actualiza y archiva la unidad operativa correspondiente de ST SDC (sección de vía).
-En el esquema gráfico y escrito de la BK se registran los datos sobre el mantenimiento y las reparaciones de la superestructura ferroviaria que puedan influir en la temperatura de fijación o en la estabilidad de la BK, principalmente:
+"El esquema gráfico y el registro escrito de la vía sin juntas lo lleva, actualiza y archiva de forma continua la unidad operativa ST SDC (sección de vía).
+En el esquema gráfico y el registro escrito de la vía sin juntas se anotan los datos sobre el mantenimiento y las reparaciones de la superestructura ferroviaria que puedan influir en la temperatura de fijación o en la estabilidad de la vía sin juntas, en particular:
 a) cambio de raíles, instalación de LIS y A-LIS, instalación de un aislamiento clásico de los raíles, colocación de un dispositivo de dilatación de raíles,
 b) roturas de raíles y método de eliminación,
 c) reparaciones tras la desviación de la vía,
 d) ajustes de la temperatura de fijación,
-e) mantenimiento y reparaciones de la superestructura ferroviaria (por ejemplo, ajuste de la alineación horizontal y vertical de vías y desvíos, limpieza y sustitución del lecho de la vía, sustitución continua de traviesas y demás componentes de la superestructura ferroviaria).";
-reglamento SŽDC (ČD) S 3/2, anexo 1, Introducción a la teoría de la vía sin juntas, pág. 2/2, segundo
+e) mantenimiento y reparaciones de la superestructura ferroviaria (p. ej. ajuste de la alineación horizontal y vertical de las vías y de los desvíos, limpieza y sustitución del lecho de la vía, sustitución continua de las traviesas y demás componentes de la superestructura ferroviaria).";
+Reglamento SŽDC (ČD) S 3/2, anexo 1, Introducción a la teoría de la vía sin juntas, pág. 2/2, segundo
 •
 párrafo:
-"… Las fuerzas se transmiten por el raíl a la estructura de la vía y se disipan mediante la activación de las resistencias en los elementos de fijación y en el lecho de la vía, y mediante la rigidez de la estructura de la vía. La eficacia de las resistencias se manifiesta en el momento en que la vía intenta cambiar su longitud o su posición.";
-reglamento SŽDC (ČD) S 3/2, anexo 1, Introducción a la teoría de la vía sin juntas, pág. 2/2, tercer
+"… Las fuerzas se transmiten por el raíl a la estructura de la vía y se disipan mediante la activación de las resistencias en los elementos de fijación y en el lecho de la vía, así como por la rigidez de la estructura de la vía. La eficacia de las resistencias se manifiesta en el momento en que la vía intenta cambiar su longitud o su posición.";
+Reglamento SŽDC (ČD) S 3/2, anexo 1, Introducción a la teoría de la vía sin juntas, pág. 2/2, tercer
 •
 párrafo:
 "Valores mínimos garantizados de las resistencias longitudinales en la vía en servicio:
-a) 7 kN (700 kp) frente al desplazamiento longitudinal del raíl sobre la placa de asiento o la traviesa en un punto de apoyo del raíl. La magnitud de la resistencia depende del estado de las almohadillas de caucho y de la fuerza de presión de las abrazaderas. ...";
-reglamento SŽDC (ČD) S 3/2, anexo 1, Introducción a la teoría de la vía sin juntas, pág. 2/2, último
+a) 7 kN (700 kp) frente al desplazamiento longitudinal del raíl sobre la base de apoyo o la traviesa en un punto de apoyo del raíl. La magnitud de la resistencia depende del estado de las almohadillas de caucho y de la fuerza de apriete de las abrazaderas. ...";
+Reglamento SŽDC (ČD) S 3/2, anexo 1, Introducción a la teoría de la vía sin juntas, pág. 2/2, último
 •
 párrafo:
-"Para que no se produzcan cambios indeseados de la temperatura de fijación y la consiguiente reducción de la estabilidad de la vía sin juntas, durante los trabajos debe prestarse especial atención a la conservación de la posición original de la vía y de la longitud de los raíles, y a la buena sujeción de los elementos de fijación, ...";
-reglamento SŽDC S 3 Superestructura ferroviaria, aprobado por el director general de SŽDC el 3. 6.
+"Para que no se produzcan cambios indeseados de la temperatura de fijación y la consiguiente reducción de la estabilidad de la vía sin juntas, en los trabajos debe prestarse especial atención, en particular, a conservar la posición original de la vía y la longitud de los raíles, así como a la buena sujeción de los elementos de fijación, ...";
+Reglamento SŽDC S 3 Superestructura ferroviaria, aprobado por el director general de SŽDC el 3. 6.
 •
-2008, n.º ref.: 9675/08-OP, en su versión vigente, parte VI, Elementos de unión y fijación de la superestructura ferroviaria, Fig. 6 + Tab. 6:
+2008, n.º de expediente: 9675/08-OP, en su versión vigente, parte VI, Elementos de unión y fijación de la superestructura ferroviaria, Fig. 6 + Tab. 6:
 "… Abrazadera rígida ŽS 4 con anillo elástico doble Fe 6 y tornillo de abrazadera RS 1 M 24 con tuerca ...;
 … Estado requerido tras el montaje – Holgura entre la curvatura del espiral del anillo elástico doble 1 – 1,5 mm;
 Valor del par de apriete recomendado 180 – 220 Nm(8), límite mín. 180 Nm(8);
 
-
 ## Página 39
+
 
 Nota – El roscado del tornillo de abrazadera debe tratarse antes del montaje con el lubricante prescrito.";
 reglamento SŽDC S 3, parte VI, Elementos de unión y fijación de la superestructura ferroviaria,
@@ -1420,6 +1454,7 @@ En la investigación se obtuvieron datos del velocímetro electrónico del tren 
 
 ## Página 40
 
+
 La inspección y revisión del dispositivo de seguridad permitió comprobar que, en el momento de producirse el MU, este mostraba un funcionamiento correcto.
 No se detectaron averías.
 ### 3.4.2 Componentes de la vía
@@ -1434,8 +1469,8 @@ la carga dinámica repetida sobre el sistema de sujeción conduce a una reducci�
 •
 permite micromovimientos del riel respecto a la placa base y, con ello, el deterioro de las juntas de goma. La ausencia de juntas, o bien su reducción notable de espesor por desgaste, provoca a su vez una mayor disminución de la fuerza axial del tornillo de abrazadera y, por tanto, una reducción de la fuerza de presión de la fijación del riel, hasta su posible liberación total;
 
-
 ## Página 41
+
 
 si en el conjunto de fijación del riel se produce la destrucción y el desprendimiento de la junta de goma,
 •
@@ -1473,6 +1508,7 @@ completo, desplazadas o claramente dañadas;
 
 ## Página 42
 
+
 • el efecto dinámico de la fuerza de impacto es un 22,5 % mayor en el sistema de sujeción con la almohadila de caucho desintegrada y las tuercas apretadas en exceso que en el sistema con la almohadila en cualquier estado técnico, incluido el de estar desgarrada. Este fenómeno conduce a una mayor carga de las traviesas y contribuye a su posible rotura y a la degradación general del balasto, lo que conduce a su vez a la alteración de la GPK;
 • en una parte del tramo controlado, de km 50,675 a km 50,725, es decir, antes del lugar de origen de la MU, se detectaron 35 traviesas con grietas visibles en la superficie;
 • el material con el que están fabricadas las almohadilas de caucho controladas S 49 no es adecuado para la carga dinámica, como se desprende de la comparación de la característica dinámica y estática. Esto contribuye tanto a una pequeña atenuación de las fuerzas dinámicas como a una degradación más rápida de la propia almohadila, a la pérdida de la precarga de los tornillos de abrazadera y al posterior aflojamiento de todo el nudo de sujeción;
@@ -1482,8 +1518,8 @@ completo, desplazadas o claramente dañadas;
 • el estado detectado de las almohadilas de caucho bajo la pata del riel en el tramo controlado de la vía lleva a la conclusión de que allí no se había realizado de forma suficiente la inspección y el mantenimiento de la vía. Sobre la base del probable mecanismo de daño de las almohadilas, se trata principalmente de la insuficiente comprobación del estado de apriete de los tornillos de abrazadera y del retraso en el reemplazo (o de la no realización del reemplazo) de las almohadilas de caucho dañadas bajo la pata del riel y de los nudos de sujeción inoperantes;
 • la norma SŽDC S 3, parte VI, donde se establece el procedimiento para el apriete de los tornillos de abrazadera, define el apriete tanto desde el punto de vista del par de apriete mínimo (180 Nm) como desde el punto de vista del rango de compresión de los anillos dobles de muelle (holgura 1 – 1,5 mm), sin que sea posible cumplir simultáneamente ambas condiciones en los anillos dobles de muelle nuevos sin usar ensayados que estaban disponibles para la medición. Si los anillos se aprietan de acuerdo con la norma, es decir, con una holgura de 1 – 1,5 mm, el par de apriete es inferior al prescrito. Un par de apriete menor provoca en el tornillo de abrazadera una menor fuerza axial y, con ello, una menor fuerza de sujeción de la abrazadera rígida. El sistema de sujeción del riel es entonces mucho menos rígido y, bajo la acción de la fuerza oblicua, permite valores mayores de inclinación del riel, lo que influye en el valor del ancho de vía y en la GPK. Con el apriete de las tuercas
 
-
 ## Página 43
+
 
 con el par de apriete prescrito, se produce la superación del límite de deslizamiento de los anillos dobles de muelle, su compresión total y, con ello, su deformación y la eliminación de su elasticidad.
 ### 3.4.3 Medios de comunicación
@@ -1509,6 +1545,7 @@ No se detectaron averías.
 
 ## Página 44
 
+
 ## 3.5
 ### Documentación sobre el sistema de explotación
 ### 3.5.1 Medidas adoptadas por los empleados del gestor de la infraestructura y del transportista en lo que respecta a la conducción, la señalización y la seguridad del tráfico
@@ -1520,8 +1557,8 @@ Se detectaron deficiencias en la actuación de los empleados de SŽDC, s. o., SD
 ### 3.5.2 Intercambio de comunicaciones verbales en relación con la excepcionalidad, incluidos los documentos del dispositivo de registro
 Las comunicaciones verbales fueron registradas en el dispositivo ReDat en la estación de Vyškov na Moravě. Los registros corresponden a los días del 3 de junio al 5 de junio de 2011 y en ellos se recogen conversaciones y comunicaciones sobre la avería de enclavamiento en el lugar de la posterior desviación del carril, desde la primera comunicación hasta el descarrilamiento del tren Vn 52061.
 
-
 ## Página 45
+
 
 Extracto de la grabación de llamadas del viernes 3 de junio de 2011:
 1)
@@ -1546,6 +1583,7 @@ Inicio de la llamada a las 15:19:50 horas, el maquinista del tren R 838 llama al
 
 ## Página 46
 
+
 s VPS TO Vyškov, que le dijo que lo comprobaría con el tren de motor, con el tren rápido ya no tanto, está «más o menos bien» y lo repararán la semana siguiente. Y le dijo que no repararan los trenes por orden, porque allí estaban en una inspección. El maquinista del tren rápido comunicó al jefe de estación que tenía información de un compañero del tren de motor para que circulara por la avería a una velocidad de 30 km.h-1, y él circuló un poco más rápido. Le dio un golpe de lado y estaba bastante desviado a la izquierda, ambos carriles en una misma dirección. También le dijo que allí hay buen acceso por carretera hasta el lugar de la avería. El jefe de estación le respondió que, en cuanto aparezcan allí los empleados de ST, se los enviaría.
 8)
 Inicio de la conversación a las 15:38:01 horas, el jefe de estación de Ivanovice llamó al jefe de estación de Vyškov y le preguntó qué le habían dicho. El jefe de estación de Vyškov respondió que allí está ondulado y que VPS TO Vyškov lo sabe. Por eso le dijo al maquinista del tren rápido que fuera con cuidado y que, en cuanto llegara la unidad de respuesta a emergencias de vías de ST Brno, que está en camino, se la enviaría allí para que lo volviera a medir. Y que allí da un golpe con el tren de motor y ellos lo saben, hay problemas con traviesas desgastadas, la anchura de vía está en orden. El jefe de estación de Ivanovice se interesó por si había llamado a la unidad de respuesta a emergencias de vías de ST. Recibió por respuesta de su colega que sí, porque tiene en la estación desde las 12:30 un mal contacto aislado, habló con VPS TO Vyškov y de él sabe también de la inspección que se realizó en el lugar de la avería de alineación.
@@ -1564,8 +1602,8 @@ Inicio de la conversación a las 19:36:48 horas, el jefe de estación de Vyškov
 Extracto de la grabación de conversaciones del domingo 5 de junio de 2011:
 1)      Inicio de la conversación a las 12:12:14 horas, la jefa de estación de Ivanovice llamó al maquinista del tren R 736 para decirle que el maquinista del tren R 933 había informado de una desviación de la vía en el enclavamiento automático, donde
 
-
 ## Página 47
+
 
 algo da un golpe y se sabe de ello. Pero por precaución que redujera la velocidad allí y vigilara si esa desviación no es mayor. El maquinista le dijo que entendía y que en Topolany iría más despacio.
 2)   Inicio de la conversación a las 12:19:23 horas, la jefa de estación de Ivanovice llamó al jefe de estación de Vyškov sobre su petición al maquinista del R 736 de que comprobara la supuesta desviación de ayer, de la que se tiene conocimiento. El jefe de estación de Vyškov le respondió que a él no le había informado nadie de nada. El jefe de estación de Ivanovice le comunicó que lo sabía del turno anterior, cuando se lo dijo la jefa de estación en el relevo de servicio, según la instrucción de VPS TO Vyškov allí se debe circular. Pero ahora había llegado el tren R 933 y su maquinista le dijo con los ojos desorbitados que pensaba que allí se descarrilaría. Por eso dio la instrucción al maquinista del R 736 de que inspeccionara el lugar de la avería y le dijera al jefe de estación de Vyškov qué había comprobado.
@@ -1584,6 +1622,7 @@ el maquinista del tren Vn 52061 estaba en el turno del día 5 de junio de 2011 s
 5:35 horas, con un descanso previo al turno de 46 horas;
 
 ## Página 48
+
 
 El jefe de estación de la est. Vyškov na Moravě estaba de turno el día 5. 6. 2011 a partir de las 6:27 horas, habiendo tenido un descanso 
 •
@@ -1607,10 +1646,10 @@ a las 13:18 horas, cuando en la línea de ámbito nacional, 315A, Brno hl. n. �
 en el punto 3
 El día 5. 6. 2011 a las 12:24 horas se produjo, en la línea Nezamyslice – Brno hl. n., el descarrilamiento del tren de mercancías Vn 52061, que circulaba desde la est. Blažovice hasta la est. Třinec. Se descarrilaron trece 
 TDV, enganchados en el tren como séptimo a decimonoveno. La HDV, los primeros seis TDV y los últimos seis TDV no se descarrilaron. El punto «0» se determinó en el km 50,765. 
-A la producción del SU precedió una situación en la que, el viernes 3. 6. 2011, el maquinista del tren Os 4079 comunicó una avería direccional en el paso a nivel de Topolany. El jefe de estación de la est. Vyškov contactó con el VPS TO Vyškov y le transmitió la información sobre la situación producida. El VPS TO Vyškov estaba de vacaciones, por lo que 
-
+A la producción del SU precedió una situación en la que, el viernes 3. 6. 2011, el maquinista del tren Os 4079 comunicó una avería direccional en el paso a nivel de Topolany. El jefe de estación de la est. Vyškov contactó con el VPS TO Vyškov y le transmitió la información sobre la situación producida. El VPS TO Vyškov estaba de vacaciones, por lo que
 
 ## Página 49
+
 
 transmitió la información al jefe de sección suplente, que encargó al jefe de línea la comprobación del punto problemático. Este realizó únicamente una comprobación visual sin medir valores y valoró la avería como no necesitada de medidas adicionales, lo que también comunicaron a los jefes de estación de ambas estaciones contiguas. 
 El viernes 3. 6. 2011, otro maquinista ya no comunicó la avería. 
@@ -1623,6 +1662,7 @@ Durante la comprobación de los elementos de fijación de la superestructura fer
 En el SU se produjeron daños en la TV – rotura de dos soportes de tracción (núm. 77 y 78) y demolación de sus cimientos. En estos soportes se destruyeron los brazos, los soportes laterales, los aisladores y se produjo un descarrilamiento. En una longitud de 130 m se dañó la TV (cable portador, hilo de catenaria, 25 porta-tensores y 50 abrazaderas). En el soporte de tracción núm. 84 se destruyeron 9 lastres de hormigón.
 
 ## Página 50
+
 
 ## 4.2
 ### Análisis
@@ -1637,6 +1677,7 @@ El 20 de abril de 2011, MV volvió a registrar la deformación direccional en el
 En el ámbito de TO Vyškov se realizaron todos los recorridos de inspección desde el 1 de enero de 2010 hasta el 5 de junio de 2011 en los intervalos prescritos. Aunque en 2010 el gestor de la infraestructura
 
 ## Página 51
+
 
 mínimo 104 patrullas de control del tramo incriminado y en 2011, hasta la aparición del MU, al menos otras 51 patrullas de control; en ellas no se detectó ni registró un estado deteriorado o progresivamente deteriorado de la superestructura ferroviaria en el tramo de la línea Vyškov na Moravě – Ivanovice na Hané, a saber, una gran cantidad de almohadillas de caucho dañadas, excesivamente prensadas o completamente ausentes entre el raíl y la subplaca, y una cantidad (que en algunos puntos superaba incluso el 60 % del total) de sistemas de fijación completamente sueltos e inoperativos con abrazaderas tipo ŽS 3. Así no se puso de manifiesto la existencia de una fuente de peligro para la vía.
 
@@ -1654,6 +1695,7 @@ La llegada de temperaturas más altas el día 5 de junio de 2011 fue evidentemen
 
 ## Página 52
 
+
 con su rápido calentamiento y el aumento de las fuerzas de presión y las tensiones en los raíles, su comportamiento diferenciado, y con ello una mayor inestabilidad de toda la estructura de vía en el tramo problemático de BK. Esto, junto con el defecto direccional aún no subsanado en el punto crítico, creó las condiciones para su ulterior desarrollo en tal medida que, a la entrada del tren Vn 52061 en el defecto direccional, bajo la influencia de las fuerzas centrífugas y de la carga, la perturbación de la estabilidad y rigidez total de BK superó el límite crítico. Por ello se produjo la liberación de la tensión acumulada en BK, que se manifestó en su desviación. Del muy mal estado técnico de BK en el punto MU y su entorno da fe también el hecho de que su desviación se produjera ya con una temperatura del aire de +27°C, lo que no es una temperatura extrema.
 De la investigación de MU se constató que los empleados responsables del operador ferroviario evaluaron el estado del defecto el día 3. 6. 2011 sin las mediciones necesarias. El jefe de servicio envió al punto del defecto únicamente al jefe de línea, quien por sí solo no podía realizar las mediciones necesarias durante la explotación. El jefe de línea, no obstante, comunicó posteriormente al jefe de servicio que el raíl era transitable sin limitaciones, y este transmitió a los jefes de estación la información sobre la transibilidad del raíl sin limitaciones, sin disponer de los resultados de las mediciones necesarias. El resultado de la inspección extraordinaria del punto del defecto del día 3. 6. 2011 no fue registrado en el libro de servicio del jefe de línea ni en ningún otro sitio. Tampoco aportó el operador ferroviario registro escrito de los valores medidos y de su evaluación de la comprobación del defecto direccional VPS TO Vyškov del día 27. 4. 2011.
 El jefe de servicio tampoco registró los valores de las temperaturas medidas el día 3. 6. 2011 en el Diario de temperaturas, ni ordenó recorridos de temperatura en el tramo afectado con el defecto direccional y la mala retención de los elementos de sujeción, ni siquiera para el sábado 4. 6. 2011 ni para el domingo 5. 6. 2011, a pesar de saber que estaban previstos recorridos de temperatura en los trenes, porque las temperaturas del aire previstas iban a alcanzar el valor de +29°C.
@@ -1664,6 +1706,7 @@ En la parte del «Esquema gráfico de la vía continua TO Vyškov» presentada p
 Del informe técnico «Evaluación del estado técnico de las partes de la estructura de vía, tramo evaluado MU del día 5. 6. 2011 en la línea 315A, entre Ivanovicemi na Hané y Vyškovem na Moravě», número de registro D 16-347/2011, del día 22. 12. 2011, elaborado por peritos de la VŠB – TU
 
 ## Página 53
+
 
 Ostrava, se desprende, entre otras cosas, del propio mecanismo y motivo de la degradación progresiva del sujeción de los raíles:
 - la carga dinámica repetida del sistema de sujeción conduce a la reducción de la fuerza de sujeción,
@@ -1679,8 +1722,8 @@ De todos los hechos expuestos se desprende el siguiente escenario de los acontec
 - simultáneamente al aflojamiento de la sujeción se producía también la destrucción de las almohadillas de caucho bajo las patas de los raíles;
 - progresivamente se liberó tal cantidad de tornillos que la sujeción dejaba de cumplir su función, el raíl perdía con ello la resistencia longitudinal y comenzaba a dilatar por los cambios de temperatura;
 
-
 ## Página 54
+
 
 - la dilatación y los movimientos del raíl durante los pasos de los trenes seguían destruyendo las almohadillas de caucho bajo la pata del raíl, enormemente sometidas a carga, que además están fabricadas de un material inadecuado para este tipo de solicitación;
 - con el ulterior desarrollo de la situación, la vía vía balasto (BK) ya comenzaba a perder estabilidad y rigidez de marco necesarias, porque había demasiada cantidad de elementos de sujeción sueltos y de almohadillas de caucho inoperativas;
@@ -1701,17 +1744,24 @@ Durante el apriete de los elementos de sujeción y los trabajos de reparación t
 
 ## Página 55
 
-Los ŽS 3 son, si bien, un factor problemático en el nudo de fijación del raíl, pero con una inspección exhaustiva y un mantenimiento adecuado y oportuno de los demás elementos de fijación pueden permanecer funcionales hasta su sustitución.
-La liberación de los elementos de fijación de la vía por influencia del tráfico, su antigüedad y desgaste se produjo de forma gradual en un intervalo de tiempo más largo, pero este problema era detectable mediante una inspección exhaustiva y eliminable mediante un mantenimiento oportuno y correcto. De los hechos anteriormente expuestos y de los resultados de la inspección interna del gestor de la infraestructura, es evidente que la problemática de la fijación suelta de los raíles en el punto de la MU y en sus alrededores no fue un fenómeno aleatorio o aislado, sino que se trataba de un problema más profundo, a largo plazo y sistémico en diferentes tramos de la línea y en diferentes líneas en toda la red ferroviaria. Aunque el gestor de la infraestructura inicialmente rechazó públicamente de forma categórica cualquier fallo por su parte y se opuso a la investigación de esta MU y de los hechos constatados por la DI, posteriormente realizó una inspección interna y medidas – véase el punto 5.
-El alcance inusualmente grande de las anomalías en la fijación de las vías sin juntas constatadas por la inspección interna del gestor de la infraestructura en toda la red de líneas gestionada por SŽDC, s. o. (el resultado fue 52 lentos inmediatamente establecidos y otros 52 tramos monitorizados), atestigua el hecho de que a largo plazo fallaba todo el sistema de inspección en el sistema de garantía de seguridad del gestor de la infraestructura. Se producía a largo plazo y de forma generalizada una ejecución incorrecta de la actividad de inspección en relación con la vía sin juntas a nivel de las unidades operativas y ejecutivas. Se trataba, por tanto, de un fallo a largo plazo y repetido de todo el sistema de garantía de seguridad, y con ello de una amenaza a la seguridad del transporte ferroviario.
-Objetivamente es necesario constatar que su parte en el estado de las líneas, el alcance de las reparaciones y la eficacia de las inspecciones la tiene sin duda alguna la influencia de la disminución del volumen de fondos destinados al mantenimiento de la infraestructura y del número de empleados de las unidades operativas del gestor de la infraestructura.
-El fallo repetido del sistema de inspección del gestor de la infraestructura lo constató la DI ya en un pasado reciente y advirtió sobre ello, entre otros, en el «Informe sobre los resultados de la investigación de las causas y circunstancias de la aparición de un suceso excepcional, ref. n.º: 6-205/2011/DI, Descarrilamiento del tren de mercancías Rn 52336 por rotura de la lengüeta del desvío n.º 43 y posterior colisión del tren de pasajeros Os 4938 con el poste derribado de la catenaria en la línea ferroviaria, nacional, en la estación ferroviaria Brno-Maloměřice, el 22. 1. 2011». En la investigación de las causas y circunstancias de la aparición de este SU se constataron recorridos de inspección e inspecciones periódicas de los desvíos realizados repetidamente de forma no exhaustiva, es decir, anomalías en la actividad de inspección de la unidad operativa (TO Maloměřice) y de la unidad ejecutiva (SDC – ST Brno), en relación causal con la aparición del SU.
-El enfoque del gestor de la infraestructura hacia la seguridad del transporte ferroviario en una línea muy cargada, desde la primera notificación de problemas por parte del maquinista del tren Os 4079 el 3. 6. 2011, es decir, dos días antes del descarrilamiento del tren Vn 52061, no puede calificarse de otra manera que como una infravaloración grave de la situación, cercana a la temeridad.
-En el caso del SU en cuestión en el km 50,765 entre la est. Vyškov na Moravě y la est. Ivanovice na Hané, las anomalías en la actividad de inspección se repitieron de nuevo en otra unidad operativa (TO Vyškov) pero en la misma unidad ejecutiva (SDC – ST Brno), y ello en el caso de los recorridos de inspección y de las inspecciones integrales de la vía. Estos descuidos estuvieron de nuevo en relación causal con la aparición del SU.
-El alcance de las anomalías constatadas tras el SU en la BK en las inspecciones en las líneas gestionadas por SŽDC, s. o., en junio de 2011 es alarmante y atestigua de deficiencias graves en el sistema de inspección y en la actividad de inspección de este gestor de la infraestructura.
+Los ŽS 3 son, ciertamente, un factor problemático en el nudo de fijación del raíl, pero con una inspección exhaustiva y un mantenimiento adecuado y oportuno de los demás elementos de fijación pueden permanecer funcionales hasta su sustitución.
 
+La liberación de los elementos de fijación de la vía por influencia del tráfico, su antigüedad y desgaste se produjo de forma gradual en un intervalo de tiempo prolongado, pero este problema podía detectarse mediante una inspección exhaustiva y eliminarse con un mantenimiento oportuno y correcto. De los hechos anteriores y de los resultados de la inspección interna del gestor de la vía se deduce que la cuestión del raíl suelto en el punto MU y en sus alrededores no fue un fenómeno casual o aislado, sino que se trataba de un problema más profundo, crónico y sistémico en distintos tramos de la línea y en distintas líneas de toda la red ferroviaria. Aunque el gestor de la vía en un primer momento rechazó públicamente de forma categórica cualquier fallo por su parte y se opuso a la investigación de esta MU y de los hechos constatados por la DI, posteriormente realizó una inspección interna y adoptó medidas – véase el punto 5.
+
+La magnitud inusualmente amplia de las anomalías en la fijación de la vía sin juntas constatadas por la inspección interna del gestor de la vía en toda la red de vías explotadas por SŽDC, s. o. (el resultado fue 52 limitaciones de velocidad inmediatas y otros 52 tramos monitorizados), da fe de que el sistema de inspección en su conjunto fallaba de forma crónica en el sistema de garantía de seguridad del gestor de la vía. Se producía de forma crónica y generalizada una realización incorrecta de la actividad de inspección en relación con la vía sin juntas a nivel de las unidades operativas y ejecutivas. Se trataba, por tanto, de un fallo crónico y reiterado de todo el sistema de garantía de seguridad, y con ello de un peligro para la seguridad del transporte ferroviario.
+
+Objetivamente es necesario constatar que, en la situación de las líneas, la magnitud de las reparaciones y la eficacia de las inspecciones, tiene sin duda influencia la disminución de los fondos financieros destinados al mantenimiento de la infraestructura y el número de empleados de las unidades operativas del gestor de la vía.
+
+La DI ya detectó en un pasado reciente el fallo reiterado del sistema de inspección del gestor de la vía y advirtió del mismo, entre otros, en el «Informe sobre los resultados de la investigación de las causas y circunstancias de la aparición de un suceso excepcional, ref. n.º: 6-205/2011/DI, Descarrilamiento del tren de mercancías Rn 52336 por rotura de la lengüeta del desvío n.º 43 y posterior colisión del tren de viajeros Os 4938 con el pórtico destruido de la catenaria en la vía ferroviaria, nacional, en la estación ferroviaria Brno-Maloměřice, el 22. 1. 2011». En la investigación de las causas y circunstancias de la aparición de este suceso excepcional se constató la realización reiteradamente negligente de las rondas de inspección y de las revisiones periódicas de los desvíos, es decir, anomalías en la actividad de inspección de la unidad operativa (TO Maloměřice) y de la unidad ejecutiva (SDC – ST Brno), en relación causal con la aparición del suceso excepcional.
+
+La actitud del gestor de la vía hacia la seguridad del transporte ferroviario en una línea muy cargada, desde la primera notificación de problemas por parte del maquinista del tren Os 4079 el 3. 6. 2011, es decir, dos días antes del descarrilamiento del tren Vn 52061, no puede calificarse de otra manera que como una infravaloración grave de la situación, cercana a la temeridad.
+
+En el caso del suceso excepcional en cuestión en el km 50,765 entre la est. Vyškov na Moravě y la est. Ivanovice na Hané, las anomalías en la actividad de inspección se repitieron de nuevo en otra unidad operativa (TO Vyškov) pero en la misma unidad ejecutiva (SDC – ST Brno), concretamente en las rondas de inspección y en las revisiones integrales de la vía. Estas negligencias estuvieron de nuevo en relación causal con la aparición del suceso excepcional.
+
+La magnitud de las anomalías constatadas tras el suceso excepcional en la BK en las inspecciones de las líneas explotadas por SŽDC, s. o., en junio de 2011 es alarmante y da fe de deficiencias graves existentes en el sistema de inspección y en la actividad de inspección de este gestor de la vía.
 
 ## Página 56
+
 
 ## 4.3
 ### Conclusiones
@@ -1751,6 +1801,7 @@ Dada la magnitud de las anomalías detectadas por las inspecciones en las vías 
 
 ## Página 57
 
+
 ## 4.4
 ### Hallazgos complementarios
 ### 4.4.1 Deficiencias y omisiones detectadas durante la investigación de las causas y circunstancias del origen del accidente ferroviario, que sin embargo no son significativas para las conclusiones sobre las causas
@@ -1768,8 +1819,8 @@ Se detectaron las siguientes deficiencias que no influyen en las causas del acci
          Estos hallazgos son contrarios a la norma interna del operador ferroviario SŽDC S 3/2, art. 237 en relación con el § 25 apartado (16) letra b) del decreto n.º 177/1995 Sb.;
 • la norma interna actualmente vigente del operador ferroviario SŽDC S 3 Superestructura ferroviaria, en la parte VI, Piezas de unión y fijación de la superestructura ferroviaria, Fig. 6 + Tab. 6, aborda el valor del par de apriete para los anillos dobles elásticos únicamente en los anillos dobles elásticos fabricados a partir de 1995;
 
-
 ## Página 58
+
 
 • el material del que están fabricadas las almohadillas de caucho controladas S 49 no es adecuado para la carga dinámica. Esto contribuye tanto a una pequeña atenuación de las fuerzas dinámicas como a una degradación más rápida de la propia almohadilla, a la pérdida de pretensión de los tornillos de sujeción y al posterior aflojamiento de todo el nudo de fijación;
 • la norma SŽDC S 3, parte VI, donde se establece el procedimiento para el apriete de los tornillos de sujeción, define el apriete tanto desde el punto de vista del par de apriete mínimo (180 Nm) como desde el punto de vista del rango de compresión de los anillos dobles elásticos (holgura 1 – 1,5 mm), sin que sea posible cumplir ambas condiciones simultáneamente en los anillos dobles elásticos nuevos sin usar sometidos a ensayo que estaban disponibles para la medición. Si los anillos se aprietan de conformidad con la norma, es decir, con una holgura de 1 – 1,5 mm, el par de apriete es inferior al prescrito. Un par de apriete menor provoca en el tornillo de sujeción una fuerza axial menor y, por tanto, una fuerza de retención menor de la sujeción rígida. El sistema de sujeción del carril es entonces mucho menos rígido y, ante la acción de una fuerza oblicua, permite valores mayores de inclinación del carril, lo que influye en el valor del ancho de vía y en el GPK;
@@ -1784,69 +1835,80 @@ El operador ferroviario convocó el 21. 6. 2011 una rueda de prensa extraordinar
 
 ## Página 59
 
-ferroviarias, en la que comunicó que se había ordenado una verificación de todas las líneas con respecto a su operación absolutamente segura, con fecha límite de finalización del registro del estado del superestructura el 26. 6. 2011:
+ferroviarias, en la que comunicó que se había ordenado la verificación de todas las líneas con respecto a su funcionamiento absolutamente seguro, con fecha de finalización del registro del estado del superestructura el 26. 6. 2011:
 «Se ha llevado a cabo la verificación puntual más extensa de líneas de los últimos veinte años, centrada en la retención de los elementos de fijación, que realizó aproximadamente 400 empleados. El objetivo era verificar objetivamente el estado de las líneas, documentar adecuadamente los resultados, registrarlos y adoptar las medidas propias de los directores de los SDC, así como evaluar la necesidad de nuevas inversiones en el mantenimiento. El propósito de la verificación era:
 • si fuera necesario por razones de seguridad, se reduciría la velocidad incluso a costa de problemas con el horario y a costa de pérdidas financieras;
 • todo el dinero ahorrado anteriormente se destinaría al mantenimiento de los tramos en mal estado;
-• se determinaría el volumen de fondos necesarios para el mantenimiento, de modo que las líneas pasaran en el plazo más corto posible a un estado satisfactorio.
-Asimismo, se extrajeron las conclusiones pertinentes en el ámbito del personal y se determinó la responsabilidad concreta de empleados concretos en caso del accidente en Vyškov, se extrajeron conclusiones en el ámbito de la utilización de fondos financieros y se llevará a cabo un análisis fundamental del procedimiento de SŽDC, s. o., en el ámbito del mantenimiento de las líneas. Todos los cambios de personal se realizan y se realizarán con miras a mantener la seguridad y a la necesidad de cubrir las vacantes con especialistas de primer nivel. Se destituyó a uno de los subdirectores del director general y se adoptaron otras medidas de personal en todo el sistema de SŽDC, s. o.:
-• se destituyó al subdirector de explotación del director del SDC Brno;
+• se determinaría el volumen de fondos necesarios para el mantenimiento, a fin de que las líneas pasaran en el plazo más breve posible a un estado satisfactorio.
+Además, se extrajeron las conclusiones pertinentes en materia de personal y se determinó la responsabilidad concreta de empleados concretos en caso del accidente en Vyškov, se extrajeron conclusiones en materia de utilización de fondos financieros y se llevará a cabo un análisis fundamental del procedimiento de SŽDC, s. o., en materia de mantenimiento de líneas. Todos los cambios de personal se realizan y se realizarán con miras a mantener la seguridad y a la necesidad de cubrir las vacantes con especialistas de primer nivel. Se destituyó a uno de los subdirectores del director general y se adoptaron otras medidas de personal en todo el sistema de SŽDC, s. o.:
+• destitución del subdirector de explotación del director del SDC Brno;
 • el jefe de gestión de líneas del SDC Brno fue reasignado a otra actividad;
 • el jefe de vía fue reasignado a otra actividad;
 • el capataz fue reasignado a otra actividad.
-Además, se constató que una serie de empleados de SŽDC, s. o., no comprenden correctamente las prioridades. En los últimos años disminuyeron el dinero y la mano de obra en el mantenimiento, pero esto no debe ocurrir a costa de la seguridad – explicar el mal estado de algunas líneas por la falta de dinero es un alibismo – la obligación de los gestores de líneas es advertir de los riesgos en todo momento. La prioridad de SŽDC, s. o., no es ahorrar a toda costa, sino gastar el dinero de forma racional y eficiente de manera que evite el despilfarro y que a la vez signifique líneas seguras. La dirección de SŽDC, s. o., instó a todos los empleados a tener valor: si tienen información sobre líneas descuidadas, deben dirigirse directamente a ellos e informarles incluso personalmente. A partir de ahora, en el ferrocarril termina cualquier tolerancia de errores.»
-El operador ferroviario convocó el 29. 6. 2011 otra rueda de prensa extraordinaria titulada Resultados de la inspección del estado de las vías y cuestiones de seguridad en los pasos a nivel. SŽDC, s. o., admitió que, aunque hasta la fecha no se había concluido la investigación del accidente, el estado de las vías en la zona en cuestión no se encontraba en el estado técnico deseado. También se confirmó la sospecha de que algunas líneas se encontraban en un estado técnico tal que en ellas era necesario introducir circulaciones lentas:
-«Entre los días 10. – 24. 6. se realizó la inspección más extensa de la superestructura ferroviaria de los últimos veinte años. Más de 400 trabajadores de SŽDC, s. o., verificaron todas las líneas. Los empleados de las direcciones realizaron una inspección aleatoria de algunas líneas y se prestó una atención especial a 2700 kilómetros de líneas, donde convergen dos factores de riesgo clave:
+Además, se constató que una serie de empleados de SŽDC, s. o., no comprende correctamente las prioridades. En los últimos años disminuyeron el dinero y la mano de obra en el mantenimiento, pero esto no puede hacerse a costa de la seguridad – explicar el mal estado de algunas líneas por la falta de dinero es un alibismo – la obligación de los gestores de líneas es señalar los riesgos en todo momento. La prioridad de SŽDC, s. o., no es ahorrar a toda costa, sino gastar el dinero de forma racional y eficiente de manera que evite el despilfarro y que a la vez signifique líneas seguras. La dirección de SŽDC, s. o., instó a todos los empleados a tener valor: si tienen información sobre líneas descuidadas, deben dirigirse directamente a ella e informar de ellas también personalmente. A partir de ahora, en el ferrocarril termina cualquier tolerancia de errores».
+El explotador de la vía convocó el 29. 6. 2011 otra rueda de prensa extraordinaria titulada Resultados de la inspección del estado de las vías y cuestiones de seguridad en los pasos a nivel ferroviarios. SŽDC, s. o., admitió que, aunque hasta la fecha no se había concluido la investigación del accidente, el estado de las vías en la zona afectada no se encontraba en el estado técnico deseado. También se confirmó la sospecha de que algunas líneas se encuentran en un estado técnico tal que en ellas fue necesario introducir circulaciones lentas:
+«Entre los días 10. – 24. 6. se llevó a cabo la inspección más extensa de la superestructura ferroviaria de los últimos veinte años. Más de 400 trabajadores de SŽDC, s. o., verificaron todas las líneas. Los empleados de la dirección realizaron una inspección aleatoria de algunas líneas y se prestó especial atención a 2700 kilómetros de líneas, donde convergen dos factores de riesgo clave:
 • en ellas se utilizan elementos de fijación ŽS 3;
-
+•
 
 ## Página 60
 
-• en ellas se utiliza la tecnología de vía sin juntas.
-La inspección demostró que la situación peor en las líneas nacionales es en la zona del sur de Moravia, gestionada por el SDC Brno. Los problemas más extensos estaban en la línea Brno – Přerov, donde en los distintos tramos se aflojó entre un 15 y un 65 por ciento de los tornillos de los elementos de fijación.
-También se encontraron problemas en las líneas nacionales en otras regiones:
-• línea Česká Třebová – Bohumín: entre un 35 y un 45 por ciento de elementos de fijación aflojados;
-• línea Uherský Brod – Újezdec: un 30 por ciento de elementos de fijación aflojados;
-• línea Kojetín – Valašské Meziříčí: entre un 25 y un 55 por ciento de elementos de fijación aflojados;
-• línea Lysá nad Labem – Ústí nad Labem západ: un 30 por ciento de elementos de fijación aflojados;
-• línea Ústí nad Labem – Chomutov: un 30 por ciento de elementos de fijación aflojados.
-Se introdujeron circulaciones lentas a temperaturas superiores a 30 grados Celsius en 31 tramos de líneas nacionales, inmediatamente después de detectar los defectos. En otros 32 tramos se introdujo con efecto inmediato una supervisión reforzada, principalmente a temperaturas superiores a 30 grados Celsius. Si se demuestra la necesidad, se introducirán circulaciones lentas también en otros tramos. Se introdujeron circulaciones lentas a temperaturas superiores a 30 grados Celsius en diecinueve tramos de líneas regionales y en dos tramos se introdujeron circulaciones lentas sin limitación de temperatura. En unos 20 tramos más se está monitorizando la situación y, si se demuestra la necesidad, los trenes se ralentizarán también allí.
-A 28 de junio se habían introducido circulaciones lentas en un total de 170 kilómetros de líneas nacionales y regionales en toda la República Checa.
+en ellos se ha utilizado la tecnología de vía sin juntas.
+•
+La inspección demostró que la peor situación en las líneas de ámbito nacional se encuentra en el área del sur de Moravia, gestionada por SDC Brno. Los problemas más extensos estaban en la línea Brno – Přerov, donde en los distintos tramos se había aflojado del 15 al 65 por ciento de los tornillos de los elementos de fijación.
+También se encontraron problemas en líneas de ámbito nacional en otras regiones:
+línea Česká Třebová – Bohumín: del 35 al 45 por ciento de elementos de fijación aflojados;
+•
+línea Uherský Brod – Újezdec: 30 por ciento de elementos de fijación aflojados;
+•
+línea Kojetín – Valašské Meziříčí: del 25 al 55 por ciento de elementos de fijación aflojados;
+•
+línea Lysá nad Labem – Ústí nad Labem západ: 30 por ciento de elementos de fijación aflojados;
+•
+línea Ústí nad Labem – Chomutov: 30 por ciento de elementos de fijación aflojados.
+•
+Se introdujeron circulaciones lentas a temperaturas superiores a 30 grados Celsius en 31 tramos de líneas de ámbito nacional, de forma inmediata tras la detección de las anomalías. En otros 32 tramos se estableció con efecto inmediato una supervisión reforzada, principalmente a temperaturas superiores a 30 grados Celsius. Si se detecta la necesidad, se introducirán circulaciones lentas también en otros tramos. Se introdujeron circulaciones lentas a temperaturas superiores a 30 grados Celsius en diecinueve tramos de líneas regionales, y en dos tramos se introdujeron circulaciones lentas sin límite de temperatura. En unos 20 tramos adicionales se está monitorizando la situación y, si se detecta la necesidad, también allí se ralentizarán los trenes.
+A 28 de junio se habían introducido circulaciones lentas en un total de 170 kilómetros de líneas de ámbito nacional y regionales en toda la República Checa.
 También se establecieron medidas correctoras inmediatas:
-• las primeras reparaciones estarán terminadas ya el 30 de junio: por ejemplo, en los tramos Jaroměř – Dvůr Králově, Jaroměř – Česká Skalice, Slatiňany – Chrudim y en algunos otros;
-• la siguiente serie se completará en julio: Nezamyslice – Ivanovice – Vyškov, Lanžhot – frontera estatal con Eslovaquia, Havlíčkův Brod – Okrouhlice, Kladno Ostrovec – Kladno Dubí, Dobřichovice – Řevnice, Kolín – Mělník, Moravský Krumlov – Moravské Bránice, Střetice – Silůvky y muchos otros más;
-• algunos tramos que se repararán antes de finales de agosto: Vyškov – Rousínov, Maloměřice – Královo Pole, Přerov – Prosenice, etc.;
-• durante septiembre se finalizarán los mantenimientos, por ejemplo, en los tramos: Židenice – Maloměřice, Královo Pole – Kuřim, Přelouč – Choltice y otros;
-• antes de finales de 2011 seguirán, por ejemplo: Lázně Bělohrad – Nová Paka, Hodkovice – Rychnov, etcétera…
-Los costes totales de «apretar tornillos» y del mantenimiento extraordinario asociado se estimaron en 154 millones de coronas y gracias a esta cantidad podrán finalizarse las circulaciones lentas. La mayoría de los tramos con tornillos aflojados y con circulaciones lentas se repararán antes de finales de septiembre y, con la excepción de unos cuantos, el mantenimiento extraordinario se completará durante el presente año.»
-En su «Evaluación de las causas y circunstancias de la aparición de MU – accidente», n.º de referencia 933/2012-OMU, de fecha 27. 01. 2012, el operador ferroviario adoptó estas medidas:
+las primeras reparaciones estarán terminadas ya el 30 de junio: por ejemplo, en los tramos Jaroměř – Dvůr Králové, Jaroměř – Česká Skalice, Slatiňany – Chrudim y en algunos otros;
+•
+la siguiente serie se completará en julio: Nezamyslice – Ivanovice – Vyškov, Lanžhot – frontera con Eslovaquia, Havlíčkův Brod – Okrouhlice, Kladno Ostrovec – Kladno Dubí, Dobřichovice – Řevnice, Kolín – Mělník, Moravský Krumlov – Moravské Bránice, Střetice – Silůvky y muchos otros;
+•
+algunos tramos que se repararán antes de finales de agosto: Vyškov – Rousínov, Maloměřice – Královo Pole, Přerov – Prosenice, etc.;
+•
+durante septiembre se finalizarán los mantenimientos, por ejemplo, en los tramos: Židenice – Maloměřice, Královo Pole – Kuřim, Přelouč – Choltice y otros;
+•
+antes de finales de 2011 seguirán, por ejemplo: Lázně Bělohrad – Nová Paka, Hodkovice – Rychnov, etc…
+•
+Los costes totales del «apriete de tornillos» y del mantenimiento extraordinario asociado se estimaron en 154 millones de coronas y, gracias a esta cantidad, podrán finalizarse las circulaciones lentas. La mayoría de los tramos con tornillos aflojados y con circulaciones lentas se repararán antes de finales de septiembre y, con la excepción de unos pocos, el mantenimiento extraordinario se completará durante el presente año.»
+En su «Evaluación de las causas y circunstancias de la aparición del MU – accidente», ref. 933/2012-OMU, de 27. 01. 2012, el gestor de la vía adoptó las siguientes medidas:
 1.
-«Sobre la base de los resultados de la inspección del lugar de aparición de la MU, el subdirector de GŘ para la aptitud de explotación de la vía ordenó el 10. 6. 2011 una inspección extraordinaria de la retención de los elementos de fijación en todas las gestiones de la vía de circulación en la red operada por SŽDC, s. o.
+«En base a los resultados de la inspección del lugar de aparición del MU, el 10. 6. 2011 el subdirector general de la DG para la aptitud al servicio de la vía ordenó una inspección extraordinaria de la firmeza de los elementos de fijación en todos los gestores de la vía de tráfico en la red operada por SŽDC, s. o.
 
 ## Página 61
 
 2.
-Sobre la base de los resultados de la comprobación extraordinaria de la retención de los elementos de fijación en todas las administraciones de la vía férrea en la red explotada por SŽDC, s. o., eliminar las anomalías detectadas por la comprobación extraordinaria que ponen en peligro la seguridad de la explotación de la vía. Los plazos se fijarán según el grado de gravedad en el tramo concreto sometido a control.
+En base a los resultados de la comprobación extraordinaria de la retención de los elementos de fijación en todas las administraciones de la vía de la red explotada por SŽDC, s. o., eliminar las anomalías detectadas por la comprobación extraordinaria que ponen en peligro la explotación de la vía. Los plazos se fijarán según el grado de gravedad en el tramo concreto objeto de comprobación.
 3.
-Debatir el desarrollo, la causa y las consecuencias de este MU en la reunión de directores de SDC.
+Debatir el desarrollo, la causa y las consecuencias de esta MU en la reunión de directores de SDC.
 4.
-Informar al personal de la explotador de la vía sobre el desarrollo, la causa y las consecuencias de este MU, mediante la emisión de una hoja informativa.
+Informar a los empleados del explotador de la vía sobre el desarrollo, la causa y las consecuencias de esta MU, mediante la emisión de una hoja informativa.
 5.
-Durante las inspecciones integrales de la superestructura ferroviaria realizadas en el periodo de primavera del año correspondiente, los empleados responsables identificarán los tramos de BK en los que existe un mayor riesgo de descarrilamiento en caso de temperaturas extremas.
+En las inspecciones integrales de la superestructura ferroviaria realizadas en el periodo primaveral del año correspondiente, los empleados directivos identificarán los tramos de BK en los que existe un riesgo aumentado de desvío de la vía en caso de temperaturas extremas.
 6.
-Prestar especial atención a los tramos de BK con más de 15 años, donde puede producirse una reducción de la retención de los elementos de fijación por el envejecimiento de las bandas de goma y de PE en las placas de apoyo de luz de vano con temperatura de apriete inferior a 15°C.
+Prestar especial atención a los tramos de BK con más de 15 años, donde puede producirse una reducción de la retención de los elementos de fijación por el envejecimiento de las juntas de goma y de PE en las placas de apoyo de vano con temperatura de fijación inferior a 15°C.
 7.
-Mencionar expresamente los tramos con mayor riesgo de descarrilamiento en el acta de la inspección integral de la superestructura ferroviaria del TO correspondiente.
+Mencionar expresamente los tramos con riesgo aumentado de desvío de la vía en el acta de la inspección integral de la superestructura ferroviaria del TO correspondiente.
 8.
-Antes del periodo crítico de junio a septiembre, emitir una orden para la supervisión reforzada de los tramos de BK en los que existe un mayor riesgo de descarrilamiento.
+Antes del periodo crítico de junio a septiembre, emitir una orden para la supervisión reforzada de los tramos de BK en los que existe un riesgo aumentado de desvío de la vía.
 9.
-En el periodo de temperaturas extremadamente elevadas, con una temperatura de raíl superior a 45°C a las 13:00 horas CET (a las 14:00 horas EET), establecer en los tramos de BK identificados, por la tarde y por la noche según las condiciones locales, una circulación lenta temporal y limitada en el tiempo en el intervalo de 30 – 50 km.h-1.
+En el periodo de temperaturas extremadamente elevadas, con una temperatura del raíl superior a 45°C a las 13:00 horas SEH (a las 14:00 horas HEC), establecer en los tramos de BK identificados, por la tarde y por la noche según las condiciones locales, una marcha lenta temporal y limitada en el tiempo en el intervalo de 30 – 50 km.h-1.
 10.
-Informar a los empleados responsables de SDC Moravia del Sur en la próxima reunión del director de SDC sobre el desarrollo, la causa y las consecuencias de este MU.“
-Las medidas se llevarán a cabo en un momento posterior a la emisión de este Informe sobre los resultados de la investigación de las causas y circunstancias de la aparición del MU.
-
+Informar a los empleados directivos de SDC Moravia del Sur en la próxima reunión del director de SDC sobre el desarrollo, la causa y las consecuencias de esta MU.“
+Las medidas se llevarán a cabo a partir de la emisión de este Informe sobre los resultados de la investigación de las causas y circunstancias de la aparición de la MU.
 
 ## Página 62
+
 
 ## 6 RECOMENDACIONES DE SEGURIDAD
 La Inspección Ferroviaria, como autoridad administrativa competente en la materia según lo dispuesto en el apartado 53b apartado (5) de la Ley núm. 266/1994 Sb., de ferrocarriles, en su redacción vigente, sobre la base del resultado de la investigación de las causas y circunstancias de la aparición del accidente ferroviario, recomienda al explotador de la vía, a la Administración de la Infraestructura Ferroviaria, organización estatal:
@@ -1859,8 +1921,8 @@ La Inspección Ferroviaria, como autoridad administrativa competente en la mater
 7) elaborar un análisis de todas las posibles operaciones y actividades necesarias en el mantenimiento y las inspecciones de las vías, fijar la carga media de tiempo y comparar los resultados del análisis con las capacidades reales de personal disponibles para estas actividades. Sobre la base de los resultados, adoptar las medidas adicionales que procedan.
 La Inspección Ferroviaria, como autoridad competente en la materia según lo dispuesto en el apartado 53b apartado (5) de la Ley
 
-
 ## Página 63
+
 
 núm. 266/1994 Sb., sobre la base de los resultados de la investigación de las causas y circunstancias de la aparición del accidente ferroviario, para reducir la probabilidad de la aparición de accidentes ferroviarios similares, recomienda a la Autoridad Ferroviaria:
 la adopción de una medida propia encaminada a garantizar la realización de los puntos 1), 2), 3), 4) y 5) de las recomendaciones de seguridad mencionados anteriormente también en los demás explotadores de vías férreas en la República Checa.
@@ -1873,20 +1935,20 @@ Josef Karaus, v. r.
 inspector superior
 Inspectorado Central de Praga
 
-
 ## Página 64
+
 
 ## 7 ANEXOS
 Fig. n.º 2: muestra de elementos de fijación aflojados en las inmediaciones del lugar del MU.
 
-
 ## Página 65
+
 
 Fig. n.º 3: situación en el lugar de aparición del MU (foto de la Policía de la República Checa).
 Fig. n.º 4: bandas de goma bajo la cabeza del raíl, a la izquierda 4 unidades del lugar del MU, a la derecha una pieza nueva.
 
-
 ## Página 66
+
 
 Fig. n.º 5: comparación del estado de los anillos elásticos dobles del lugar del MU y de una pieza nueva.
 Fig. n.º 6: muestra del estado de la fijación tras su apriete – banda de goma defectuosa bajo la cabeza del raíl no sustituida, anillo elástico doble demasiado comprimido, tornillo sin engrasar.

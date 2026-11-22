@@ -10,13 +10,14 @@ chars: 151851
 ratio_longitud: 1.25
 tokens_in: 68536
 tokens_out: 48254
-verificacion: revisar
-notas_cifras: ["bloque 1: original bilingüe: se compara contra el idioma principal (EN)", "bloque 2: cifras cortas: 1/174", "bloque 3: cifras largas: 1/81", "bloque 7: cifras largas: 1/83", "bloque 12: original bilingüe: se compara contra el idioma principal (EN)"]
-avisos: ["bloque 12: ratio 1.69"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 4: original bilingüe: se compara contra el idioma principal (CS); ratio 1.99", "página 6: original bilingüe: se compara contra el idioma principal (CS)", "página 7: original bilingüe: se compara contra el idioma principal (CS)", "página 11: original bilingüe: se compara contra el idioma principal (CS)", "página 12: cifras largas: 1/9"]
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -43,13 +44,13 @@ IČ: 75009561
 mail@dicr.cz
 tel.: +420 736 521 003
 
-
 ## Página 2
+
 
 El presente informe final es público y todos los hechos en él expuestos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ## 1 Resumen
 Fuente: Drážní inspekce
@@ -84,19 +85,18 @@ por el jefe de estación.
 No fue detectado por la Drážní inspekce ningún factor contribuyente.
 No fue detectada por la Drážní inspekce ninguna causa sistémica.
 
-
 ## Página 4
 
 Recomendaciones de seguridad:
-La Drážní inspekce, con base en lo dispuesto en el § 53e apartado 1 de la Ley n.º 266/1994 Sb., de las vías férreas, en la redacción vigente en el momento de producción del SU, recomienda, en relación con la prevención de sucesos ferroviarios:
+La Inspección Ferroviaria, en virtud de lo dispuesto en el § 53e apartado 1 de la Ley núm. 266/1994 Sb., de ferrocarriles, en la redacción vigente en el momento de producirse el SU, recomienda, en relación con la prevención de sucesos extraordinarios:
 •
-Al Ministerio de Transporte de la República Checa, en colaboración con el Drážní úřad, especificar mediante el contenido de una norma jurídica:
-◦el alcance mínimo y la forma de realización de la familiarización con las condiciones de línea en las líneas férreas y en las estaciones donde la persona que conduce el vehículo ferroviario vaya a conducir un vehículo ferroviario, p. ej. mediante la determinación del número mínimo de recorridos de la vía férrea designada o de una parte de la misma en ambos sentidos, de día y de noche,
-◦los requisitos de registro y archivo de la documentación que acredite la realización efectiva de las partes componentes de la familiarización con las condiciones de línea en las líneas férreas y en las estaciones donde la persona que conduce el vehículo ferroviario vaya a conducir un vehículo ferroviario,
-de modo que se cumpla plenamente el requisito de determinidad, incluida la seguridad jurídica, y que la práctica no impida a los destinatarios de dicha obligación jurídica su aplicación rigurosa para el cumplimiento y satisfacción de la obligación establecida en el § 35 apartado 1 letra a) del decreto n.º 173/1995 Sb., por el que se aprueba el reglamento de circulación ferroviaria, de modo que la persona que conduce el vehículo ferroviario quede acreditadamente familiarizada con las condiciones de línea en las líneas férreas y en las estaciones donde conduce (vaya a conducir) un vehículo ferroviario.
-
+Al Ministerio de Transporte de la República Checa, en colaboración con la Oficina Ferroviaria, especificar mediante el contenido de una norma jurídica:
+◦el alcance mínimo y la forma de llevar a cabo la familiarización con las condiciones de la vía en las líneas y en las instalaciones de tráfico donde la persona que conduce el vehículo ferroviario vaya a conducir un vehículo ferroviario, p. ej. mediante la fijación del número mínimo de recorridos de la vía delimitada o de una parte de la misma en ambos sentidos, de día y de noche,
+◦los requisitos de registro y archivo de la documentación que acredite la realización efectiva de las partes parciales de la familiarización con las condiciones de la vía en las líneas y en las instalaciones de tráfico donde la persona que conduce el vehículo ferroviario vaya a conducir un vehículo ferroviario,
+de modo que se cumpla plenamente el requisito de determinidad, incl. la seguridad jurídica, y que la práctica no impida a los destinatarios de dicha obligación jurídica su aplicación rigurosa para el cumplimiento y la satisfacción de la obligación establecida en el § 35 apartado 1 letra a) del decreto núm. 173/1995 Sb., por el que se aprueba el reglamento de circulación ferroviaria, a fin de que la persona que conduce el vehículo ferroviario haya quedado acreditadamente familiarizada con las condiciones de la vía en las líneas y en las instalaciones de tráfico donde conduce (vaya a conducir) un vehículo ferroviario.
 
 ## Página 5
+
 
 ## SUMMARY
 16th January 2024, 18:55 (17:55 GMT).
@@ -150,8 +150,8 @@ application duty from Article 35(1) of Decree No 173/1995 Coll., so that train d
 demonstrably familiarization with line conditions at railway lines and stations where train
 drivers will be drive rolling stocks.
 
-
 ## Página 6
+
 
 # Índice
 1 Resumen........................................................................................................................3
@@ -195,6 +195,7 @@ SUMMARY.........................................................................
 
 ## Página 7
 
+
 4.2.2 Factores o consecuencias derivados de la instalación y puesta en servicio de vehículos ferroviarios, infraestructura ferroviaria o instalaciones técnicas.....................................38
 4.2.3 Factores o consecuencias relacionados con fabricantes de vehículos ferroviarios u otros proveedores de productos ferroviarios...........................................................................39
 4.2.4 Factores o consecuencias derivados del mantenimiento y modificación de vehículos ferroviarios o instalaciones técnicas..................................................................................................39
@@ -223,8 +224,8 @@ SUMMARY.........................................................................
 6 RECOMENDACIONES DE SEGURIDAD...................................................................................45
 ANEXOS............................................................................................................................47
 
-
 ## Página 8
+
 
 ### Lista de siglas y símbolos utilizados
 AV
@@ -296,8 +297,8 @@ paso a nivel
 žst.
 estación de ferrocarril
 
-
 ## Página 9
+
 
 ### Lista de siglas de la legislación, normas y reglamentos internos utilizados
 ley n.º 262/2006 Sb.
@@ -319,8 +320,8 @@ reglamento interno del operador AV, "DIRECTIVA INTERNA PERS 02 MAQUINISTA", en l
 reglamento interno PD 01
 reglamento interno del operador AV, "REGLAMENTO PARA LA EXPLOTACIÓN DEL TRANSPORTE FERROVIARIO PD 01", en la redacción vigente en el momento de la ocurrencia del SE
 
-
 ## Página 10
+
 
 ## 2 LA INVESTIGACIÓN Y SUS CIRCUNSTANCIAS
 ### 2.1 Decisión de iniciar la investigación
@@ -347,8 +348,8 @@ el tiempo necesario para la preparación de la vía de tren, que incluía las di
 •
 la visibilidad – la posibilidad de reconocer durante la noche, con la iluminación artificial de la vía:
 
-
 ## Página 11
+
 
 ◦la señal fija (señal de fin de vía) con la indicación "Fin de vía de tren" y "Límite de vía" (en adelante señal de fin de vía con la indicación "Fin de vía de tren") situada en el extremo de estación en dirección a Jablonné v Podještědí (en adelante extremo de estación jablonský), que era aplicable a las vías de estación n.º 1 y 3,
 ◦la posición de la aguja n.º 2, es decir, en función de la indicación "Circulación en dirección recta" indicada por la señal de aguja de dicha aguja, o bien de la posición concreta de los husillos de la aguja.
@@ -387,6 +388,7 @@ incidente.
 
 ## Página 12
 
+
 ### 3.1.2 Fecha, hora exacta y lugar del suceso
 Fecha:
 16. 1. 2024.
@@ -416,68 +418,28 @@ Estado de la infraestructura:
 la ruta (de tren) (en adelante ruta de tren) para el tren R 1334 estaba establecida desde TK 
 Rynoltice – Křižany desde la señal de entrada S de la est. Rynoltice hacia SK n.º 3, es decir a través de 
 la aguja n.º 10 en dirección directa contra la punta, a través de la aguja n.º 9 contra la punta en dirección 
-desviada a la derecha, hacia SK n.º 3, en la que se encontraba la aguja n.º 8, a través de la cual estaba 
-
+desviada a la derecha, hacia SK n.º 3, en la que se encontraba la aguja n.º 8, a través de la cual estaba
 
 ## Página 13
 
-establecida la ruta de tren en dirección directa contra la punta, y posteriormente por la misma vía hasta 
-la baliza con la señalización «Fin de la ruta de tren» situada entre SK n.º 1 y 3 
-en el km 119,934;
+puesta la vía de tren en sentido directo contra la aguja, y a continuación por la misma vía hasta el hito con la señal "Fin de vía de tren" situado entre SK n.º 1 y 3 en el pk 119,934;
 •
-el tren R 1334 recorrió la ruta de tren anteriormente indicada, y posteriormente desde la baliza 
-con la señalización «Fin de la ruta de tren» recorrió indebidamente el tramo hasta y a través de la aguja n.º 2 
-por la punta desde la dirección desviada derecha, donde a una distancia de 6 m después del inicio de la aguja 
-n.º 2 se detuvo en la posición final tras el MU, ver más abajo;
+con el tren R 1334 se recorrió la vía de tren anteriormente indicada, y a continuación desde el hito con la señal "Fin de vía de tren" se recorrió indebidamente el tramo hasta y a través de la aguja n.º 2 por la punta desde el desvío a la derecha, donde a una distancia de 6 m después del comienzo de la aguja n.º 2 se detuvo en la posición final tras el AM, ver más abajo;
 •
-la señal de entrada S de la est. Rynoltice se encontraba a la derecha directamente junto a TK Rynoltice – 
-Křižany en el km 121,084, es decir a 1 150 m de la baliza con la señalización «Fin de la ruta de tren» 
-situada entre SK n.º 1 y 3, y a 1 202 m de la aguja n.º 2. Se trataba de 
-una señal de tipo AŽD 70, que por su construcción era una señal unipolar, 
-de mástil, con cinco lámparas de señalización con pantallas, en la que las entradas de los trenes 
-solo se autorizaban con la señalización «Libre» o «Señal de llamada». La señal estaba 
-marcada con una placa de marcado roja de forma rectangular, que contenía el texto 
-blanco «S», y una banda de marcado con franja roja y blanca de igual longitud;
+la señal de entrada S de la est. Rynoltice se encontraba a la derecha justo junto al TR Rynoltice – Křižany en el pk 121,084, es decir, a 1 150 m del hito con la señal "Fin de vía de tren" situado entre SK n.º 1 y 3, y a 1 202 m de la aguja n.º 2. Se trataba de una señal del tipo AŽD 70, que por su construcción era una señal unipolar, de mástil, con cinco lámparas de señal con pantallas, en la que las entradas de los trenes solo se autorizaban con la señal "Vía libre" o "Señal de llamada". La señal estaba marcada con una placa de marcado roja de forma rectangular, que contenía el texto blanco "S", y con una banda de marcado con franja roja y blanca de igual longitud;
 •
-el indicador de velocidad N con el dígito «40» se encontraba a la derecha directamente junto a la vía del extremo en dirección Křižany 
-(en adelante extremo křižanské) de la est. Rynoltice en el km 120,596 (1 m antes del inicio 
-de la aguja n.º 10), es decir a 662 m de la baliza con la señalización «Fin de la ruta de tren» 
-situada en el lado opuesto de la estación entre SK n.º 1 y 3, y a 714 m de la aguja n.º 2. 
-Esta señal estaba formada por una placa rectangular blanca colocada por su lado mayor 
-y con un número negro sobre ella;
+el indicador de velocidad N con el número "40" se encontraba a la derecha justo junto a la vía de cabecera en dirección Křižany (en adelante, cabecera de Křižany) de la est. Rynoltice en el pk 120,596 (1 m antes del comienzo de la aguja n.º 10), es decir, a 662 m del hito con la señal "Fin de vía de tren" situado en el lado opuesto de la estación entre SK n.º 1 y 3, y a 714 m de la aguja n.º 2. Esta señal estaba formada por una placa blanca rectangular colocada sobre su lado mayor y con un número negro en ella;
 •
-la baliza con la señalización «Fin de la ruta de tren», situada en el km 119,934, era válida para 
-SK n.º 1 y 3. Esta señal estaba formada por un travesaño horizontal blanco con franjas 
-negras delante de un extremo oblicuo blanco, en cuya parte central la mitad frontal 
-del rectángulo blanco colocado por su lado mayor, orientado hacia el tren que se detiene, 
-era roja, ver más abajo. La baliza no estaba cubierta de nieve (la nieve caída sobre ella 
-había sido retirada);
+el hito con la señal "Fin de vía de tren", situado en el pk 119,934, era válido para SK n.º 1 y 3. Esta señal estaba formada por una barra horizontal blanca con franjas negras delante de un remate blanco inclinado, en cuya parte central la mitad frontal del rectángulo blanco colocado sobre su lado mayor, orientado hacia el tren que se detiene, era roja, ver más abajo. El hito no estaba cubierto de nieve (la nieve depositada sobre él había sido retirada);
 •
-la aguja simple izquierda n.º 2 en el km 119,882, del sistema S 49, estaba asentada en la 
-vía sobre soportes de riel de madera (en adelante traviesa). La aguja tenía una posición básica 
-determinada para la circulación a través de la aguja en dirección directa, es decir desde/hacia SK n.º 1 
-de la est. Rynoltice hacia/desde TK Jablonné v Podještědí – Rynoltice, cuando la vía directa de la aguja 
-(la llamada rama principal de la aguja) apuntaba hacia SK n.º 1 y la vía desviada de la aguja 
-[la llamada rama secundaria (desviada) de la aguja] hacia SK n.º 3. La aguja estaba equipada 
-con un cambiador para el cambio manual con cierre de gancho y señal de aguja. 
-Las señalizaciones «Circulación en dirección directa», «Circulación por la derecha» y «Circulación por la izquierda» en la señal de aguja 
-de la aguja n.º 2 estaban fabricadas con material reflectante;
+la aguja simple a la izquierda n.º 2 en el pk 119,882, del sistema S 49, estaba asentada en la vía sobre soportes de riel de madera (en adelante, traviesa). La aguja tenía determinada la posición básica para el paso a través de la aguja en sentido directo, es decir, desde/hacia SK n.º 1 de la est. Rynoltice hacia/desde el TR Jablonné v Podještědí – Rynoltice, cuando la vía directa de la aguja (la llamada rama principal de la aguja) se dirigía hacia SK n.º 1 y la vía desviada de la aguja [la llamada rama secundaria (desviada) de la aguja] hacia SK n.º 3. La aguja estaba equipada con un cambiador para maniobra manual con enganche de gancho y con la señal de aguja. Las señales "Circulación en sentido directo", "Circulación por la derecha" y "Circulación por la izquierda" en la señal de aguja de la aguja n.º 2 estaban fabricadas con material reflectante;
 •
-la aguja n.º 2 presentaba evidentes huellas de corte, cuando se encontraron huellas de su 
-cambio forzado en la parte móvil derecha de la aguja, es decir en la lengüeta derecha del cambio 
-(en la dirección de circulación del tren R 1334 desde SK n.º 3 por la punta de la aguja n.º 2), 
-con una longitud de huella de 208 cm, cuando la huella terminaba a 475 cm de la punta de la 
-lengüeta del cambio. La aguja tenía el gancho de cierre del cerradura de cambio dañado, 
-que en posición vertical controlaba y aseguraba la posición de la lengüeta adyacente de la aguja 
-para la circulación del tren en dirección a SK n.º 1;
+la aguja n.º 2 presentaba evidentes huellas de corte, cuando se encontraron huellas de su cambio forzado en la parte móvil derecha de la aguja, es decir, en la lengüeta derecha de cambio (en el sentido de circulación del tren R 1334 desde SK n.º 3 por la punta de la aguja n.º 2), con una longitud de huella de 208 cm, cuando la huella terminaba a 475 cm de la punta de la lengüeta de cambio. La aguja tenía el gancho de cierre del cerrojo de cambio dañado, que en posición vertical controlaba y aseguraba la posición de la lengüeta adyacente de la aguja para la circulación del tren en dirección a SK n.º 1;
 •
-SK n.º 3 tenía una longitud útil de 548 m [desde la baliza de la aguja n.º 2 con la señalización «Fin de la 
-ruta de tren» (km 119,934) en el lado del extremo jablonské hasta la baliza de la aguja n.º 9 
-con la señalización «Fin de la ruta de tren» (km 120,482) en el lado del extremo křižanské] 
-y una longitud aprovechable de 528 m;
-
+SK n.º 3 tenía una longitud útil de 548 m [desde el hito de la aguja n.º 2 con la señal "Fin de vía de tren" (pk 119,934) en el lado de la cabecera de Jablonné hasta el hito de la aguja n.º 9 con la señal "Fin de vía de tren (pk 120,482) en el lado de la cabecera de Křižany] y una longitud aprovechable de 528 m;
 
 ## Página 14
+
 
 •
 la señalización «Fin de la ruta de tren» señalizada por la baliza situada en el km 119,934, 
@@ -533,8 +495,8 @@ el supervisor de agujas del puesto St.I comunicó la realización de la preparac
 en el tramo de vía de su ámbito de responsabilidad designado el 16. 1. 2024 a las 18:48 h 
 (columna n.º 3 «Establecido y libre para el tren»),
 
-
 ## Página 15
+
 
 ▪para el tren R 1333, circulando desde TK Jablonné v Podještědí – Rynoltice hacia SK n.º 1, 
 el supervisor de agujas del puesto St.I comunicó la realización de la preparación de la ruta de tren 
@@ -588,6 +550,7 @@ las cabezas frontales de los trenes R 1334 y R 1333 la distancia era de 508 m.
 
 ## Página 16
 
+
 Sobre la base del consentimiento del inspector DI dado a las 20:01 h, el tren en sentido contrario R 1333, compuesto por una unidad de motor circulando de forma independiente formada por HDV CZ-ARR 95 54 5 845 316-9 (en adelante 845.316-9) situado a la cabeza del tren y ŘDV CZ-ARR 95 54 5 945 316-8 (en adelante 945.316-8) situado al final del tren, fue devuelto a la est. Jablonné v Podještědí. Por tanto, en el momento de la llegada del inspector DI al lugar del MU, el tren R 1333 ya no se encontraba delante de la señal de entrada L.
 Condiciones meteorológicas:
 temperatura -6 °C, período nocturno, despejado, no nevaba, manto de nieve continuo de 15 a 20 cm de altura, la visibilidad no estaba reducida por influencias meteorológicas ni de otro tipo. El espacio de la aguja n.º 2 (espacio de la cabeza de vías de Jablonné) estaba iluminado con iluminación artificial.
@@ -620,8 +583,8 @@ jefe de estación de la est. Rynoltice, empleada de SŽ;
 •
 guardagujas del puesto St.I de la est. Rynoltice, empleado de SŽ.
 
-
 ## Página 17
+
 
 Transportista (AV):
 •
@@ -654,8 +617,8 @@ el titular de ambos DV (unidad de motor) era AV;
 en el momento de la aparición del MU viajaban en el tren unos 20 pasajeros, la dotación del tren estaba compuesta por el maquinista y el revisor.
 El tren R 1334 estaba compuesto por el ŘDV 945.205-3 de cuatro ejes, tipo «Řídicí vůz 1435 2' 2' 945» (con velocidad máxima permitida de 100 km·h-1), y el HDV 845.205-4 de cuatro ejes, tipo «Motorový vůz 1435 2' B' 410 kW 845» (con velocidad máxima permitida por propulsión propia de 120 km·h-1) del fabricante DUEWAG Krefeld AG, Werk Uerdingen, que juntos formaban una unidad de motor de dos cuerpos que cumplía el defecto de peralte de 130 mm (al situarse dos señales de velocidad N una sobre otra, se ordenaba al maquinista no superar, a partir de dicha señal, la velocidad indicada por el número de la señal de velocidad superior). La transmisión de potencia del motor de combustión al eje motriz del bogie motriz (trasero) del HDV era hidrodinámica mediante una transmisión Voith (con dispositivo de inversión incorporado). Tanto el ŘDV como el HDV estaban divididos en cabina de conducción con puesto de conducción orientado a la derecha, espacio de acceso frontal doble,
 
-
 ## Página 18
+
 
 espacio de acceso trasero (izquierdo) al que se unía el paso entre vehículos, encontrándose frente al espacio de acceso trasero (izquierdo), en el interior del HDV, la cabina de aseo. La disposición en planta del interior del ŘDV y del HDV era, por lo demás, aproximadamente idéntica. Las cabinas y los puestos de conducción situados en los frentes delanteros del ŘDV y del HDV permitían al maquinista una observación ininterrumpida de la vía y de las señales y una conducción fácil de los DV.
 El ŘDV y el HDV estaban equipados con freno de aire automático continuo (también en adelante simplemente freno de aire) Knorr. El freno de aire se accionaba mediante el mando del freno Knorr, que con impulsos eléctricos controlaba las válvulas electro-neumáticas del freno eléctricamente controlado. El efecto de frenado deseado se conseguía
@@ -667,8 +630,8 @@ El HDV 845.205-4 estaba equipado, en el momento de la aparición del MU, con un 
 | • a las 18:54:35 h | mediante frenado con una presión de aire en la tubería principal de 4 175 bar el tren alcanzó , , , una velocidad de 40 km·h-1 El frente del tren se encontraba a 30 m después del nivel de la señal de velocidad N con el número 40“ y a una distancia de 632 m antes del lugar de aparición del MU; |
 | • a las 18:54:36 h | el tren circulando a una velocidad de 40 km·h-1 pasó el puesto del guardagujas St II de la est Rynoltice El tren se encontraba con su frente a 618 m antes . . . del lugar de aparición del MU La presión de aire en la tubería principal seguía reducida a 4 175 bar; , |
 
-
 ## Página 19
+
 
 •
 a las 18:54:46 h se registró la reposición de la presión de aire en la tubería principal a
@@ -716,6 +679,7 @@ La última activación del botón de alerta por el maquinista antes de la aparic
 la velocidad máxima permitida del tren de 70 km·h-1 en el tramo de vía Rynoltice –
 
 ## Página 20
+
 
 Křižany superados, y en los siguientes momentos:
 ◦18:46:40 h – 18:48:25 h a una distancia de 8 661 m a 8 357 m antes del lugar 
@@ -771,8 +735,8 @@ fue inferior a 0,5 bar en 2 min.
 | Velocidad máxima permitida del tren en el lugar de la MU (kmh-1): . | 70 |  |  |  |
 | Modo de frenado: | I . |  |  |  |
 
-
 ## Página 21
+
 
 Nota sobre el tren R 1333:
 •
@@ -831,76 +795,18 @@ la velocidad máxima permitida del tren no fue superada en el tramo evaluado.
 La investigación de la presente MU no detectó defectos en el estado técnico de 
 las DV implicadas en la mencionada MU que pudieran tener influencia en su origen.
 
-
 ## Página 22
 
-### 3.1.8 Descripción de las partes correspondientes de la infraestructura y del sistema de seguridad
-La est. Rynoltice estaba equipada con un SZZ de 1.ª categoría con señales de 
-entrada luminosas, sin señales de salida (en el TJŘ para el tren R 1334 estaba 
-señalada con la marca «B»). Por este motivo, en la estación se situaron señales 
-– balizas con la señal «Fin del trayecto ferroviario», que junto con la señal 
-«Límite de vía» determinaban el fin del trayecto ferroviario o el inicio del 
-circuito de agujas y advertían en las vías convergentes del límite, que no podía 
-ser sobrepasado por el vehículo, para no poner en peligro la circulación de 
-vehículos por la vía contigua. 
-En ambos extremos de la estación se encontraban puestos independientes de 
-los celadores de agujas St.I y St.II, equipados con cerraduras centralizadas con 
-transmisión de la comprobación óptica de la posición del trayecto ferroviario 
-a la mesa de vías en el DK. Los trenes que no se detuvieran en esta estación 
-para el ascenso y descenso de pasajeros debían detenerse como máximo antes 
-de la baliza con la señal «Fin del trayecto ferroviario». 
-Todos los trenes eran regularmente detenidos en la dirección de circulación 
-correspondiente y los maquinistas debían detener el tren en la estación, si no 
-habían sido despachados por los jefes de estación. Los trenes regularmente 
-detenidos para el ascenso y descenso de pasajeros podían ser despachados 
-únicamente tras la detención del tren en el lugar habitual. El despacho de los 
-trenes se realizaba con la señal «Salida» dada por el jefe de estación. 
-La estación estaba constituida por las SK n.º 1, 2 y 3, que eran vías de tráfico 
-(la principal de entrada y salida era la SK n.º 1), y las SK n.º 2a y 5, que eran 
-vías de maniobra. La SK n.º 3 de entrada y salida era la vía exterior, que estaba 
-más cerca del DK – en la dirección de circulación del tren R 1334 la SK n.º 3 
-se encontraba en el lado derecho de la playa de vías. La estación estaba dividida 
-en 5 circuitos para la comprobación de la libre circulación del trayecto 
-ferroviario, siendo la responsabilidad de cada circuito para la comprobación de 
-la libre circulación del trayecto ferroviario distribuida según el ZDD entre el 
-jefe de estación y los celadores de agujas de los puestos St.I y St.II, que 
-comprobaban la libre circulación del trayecto ferroviario mediante la visión 
-del tramo de vía correspondiente. 
-En la est. Rynoltice se encontraban entre la SK n.º 1 y 3 y fuera de la SK n.º 3 
-andenes laterales elevados constituidos por paneles de andén de hormigón. 
-El más cercano al DK era el andén n.º 1, de 100 m de longitud, situado fuera 
-de la SK n.º 3. El acceso al andén era a nivel tanto desde el edificio de 
-estación como desde la vía que discurría paralela a las vías de la estación. 
-El andén n.º 2, de 120 m de longitud, se encontraba entre la SK n.º 1 y 3. 
-El andén estaba orientado hacia la SK n.º 1, siendo accesible a través de un 
-paso a nivel en la SK n.º 3 situado junto al DK. 
-El inicio de la aguja n.º 2, recorrida indebidamente y conmutada a la fuerza 
-por el tren R 1334, se encontraba en el km 119,882 – se trataba de una aguja 
-izquierda simple, que era conmutada manualmente por el celador de agujas 
-del puesto St.I. La aguja estaba en el momento del origen de la MU conmutada 
-y bloqueada en la posición básica para la circulación de la DV en dirección 
-directa hacia/desde la SK n.º 1. 
-En el tramo entre la est. Křižany y Rynoltice, la vía en la dirección de circulación 
-del tren R 1334 discurría desde el km 121,170 hasta el km 120,648 (la señal 
-de entrada S de la est. Rynoltice se encontraba en el km 121,084) en una 
-curva izquierda de radio 249 m con dos transiciones, en pendiente de 22,52 
-y 23,87 ‰. Desde el km 120,648 la vía del extremo de Křižany continuaba en 
-dirección recta hasta el km 120,499 en pendiente de 20,56 ‰, a través de las 
-agujas n.º 10 y n.º 9 del extremo de Křižany. La SK n.º 3 recorrida por el tren 
-R 1334 discurría en pendiente de 1,51 a 9,99 ‰, cuando desde el km 120,499 
-hasta el km 120,222 a la vía recta le sucedía una curva derecha de radio 374 m 
-con dos transiciones. Desde el km 120,222, es decir, desde una distancia de 
-268 m antes de la baliza con la señal «Fin del trayecto ferroviario», válida 
-para la SK n.º 1 y 3, la SK n.º 3 discurría en dirección recta. 
-La superestructura de la SK n.º 3 estaba constituida por raíles de ancho de 
-vía estándar de perfil S 49 con fijación rígida de los raíles a las traviesas de 
-madera y de hormigón. El lecho de balasto era de piedra de cantera de fracción 
-31,5/63 mm. 
-La aguja n.º 10 en el km 120,595 y la aguja n.º 9 en el km 120,548 (extremo 
-de Křižany) eran de perfil J 49 1:12-500, la aguja n.º 8 en el km 120,132 era 
-de perfil J S49 1:9-190. La aguja n.º 2
+### 3.1.8 Descripción de las partes pertinentes de la infraestructura y del sistema de señalización
+La est. de Rynoltice estaba equipada con SZZ de 1.ª categoría con señales luminosas de entrada, sin señales de salida (en el TJŘ para el tren R 1334 estaba marcada con la señal «B»). Por este motivo, en la estación se situaron señales – hitos con la señal «Fin de la vía del tren», que junto con la señal «Límite de vía» determinaban el fin de la vía del tren o el inicio del circuito de agujas y advertían en las vías convergentes del límite, por el que no podía sobresalir el vehículo, para que no se pusiera en peligro la circulación de vehículos por la vía contigua.
+En ambos extremos de la estación se encontraban puestos independientes de los celadores de agujas St.I y St.II, equipados con cerraduras centralizadas con transmisión de la comprobación óptica de la posición de la vía del tren a la mesa de vías en DK. Los trenes que no se detenían en esta estación para el ascenso y descenso de pasajeros debían detenerse como máximo antes del hito con la señal «Fin de la vía del tren». Todos los trenes eran regularmente detenidos en la dirección de circulación correspondiente y los maquinistas debían detener el tren en la estación, si no habían sido despachados por los jefes de estación. Los trenes regularmente detenidos para el ascenso y descenso de pasajeros podían ser despachados únicamente después de que el tren se hubiera detenido en el lugar habitual. El despacho de los trenes se realizaba mediante la señal «Salida» dada por el jefe de estación.
+La estación estaba formada por SK n.º 1, 2 y 3, que eran vías de tráfico (la principal de entrada y salida era la SK n.º 1), y SK n.º 2a y 5, que eran vías de maniobra. La SK n.º 3 de entrada y salida era la vía exterior, que estaba más cerca de DK – en la dirección de circulación del tren R 1334 la SK n.º 3 se encontraba en el lado derecho de la playa de vías. La estación estaba dividida, para la comprobación de la libertad de la vía del tren, en 5 circuitos, cuando la responsabilidad de los circuitos individuales para la comprobación de la libertad de la vía del tren estaba, según el ZDD, repartida entre el jefe de estación y los celadores de agujas de los puestos St.I y St.II, que comprobaban la libertad de la vía del tren mirando al tramo de vía correspondiente. En la est. de Rynoltice se encontraban entre la SK n.º 1 y 3 y fuera de la SK n.º 3 andenes elevados de un solo lado formados por paneles de andén de hormigón. Más cerca de DK estaba el andén n.º 1 de 100 m de longitud situado fuera de la SK n.º 3. El acceso al andén era a nivel tanto desde el edificio de estación como desde la vía paralela a las vías de la estación. El andén n.º 2 de 120 m de longitud se encontraba entre la SK n.º 1 y 3. El andén estaba orientado hacia la SK n.º 1, accesible a través de un paso a nivel en la SK n.º 3 situado junto a DK.
+El comienzo de la aguja n.º 2, incorrectamente recorrida y violentamente conmutada por el tren R 1334, se encontraba en el km 119,882 – se trataba de una aguja simple a la izquierda, que era conmutada manualmente por el celador de agujas del puesto St.I. La aguja estaba, en el momento del suceso del MU, conmutada y bloqueada en la posición básica para la circulación de DV en dirección directa hacia/desde la SK n.º 1. En el tramo entre las est. de Křižany y Rynoltice la vía en la dirección de circulación del tren R 1334 discurría desde el km 121,170 hasta el km 120,648 (la señal de entrada S de la est. de Rynoltice se encontraba en el km 121,084) en un arco a la izquierda de radio 249 m con dos tramos de transición, con pendientes de 22,52 y 23,87 ‰. Desde el km 120,648 la vía del extremo de Křižany continuaba en dirección directa hasta el km 120,499 con una pendiente de 20,56 ‰, y ello a través de las agujas n.º 10 y n.º 9 del extremo de Křižany. La SK n.º 3 recorrida por el tren R 1334 discurría con pendientes de 1,51 hasta 9,99 ‰, cuando desde el km 120,499 hasta el km 120,222 a la vía directa le seguía un arco a la derecha de radio 374 m con dos tramos de transición. Desde el km 120,222, es decir, desde una distancia de 268 m antes del hito con la señal «Fin de la vía del tren», válido para la SK n.º 1 y 3, la SK n.º 3 discurría en dirección directa.
+El superestructura de la SK n.º 3 estaba formada por raíles de ancho estándar de forma S 49 con fijación rígida de los raíles a las traviesas de madera y de hormigón. El balasto era de piedra de cantera de fracción 31,5/63 mm.
+La aguja n.º 10 en el km 120,595 y la aguja n.º 9 en el km 120,548 (extremo de Křižany) eran de forma J 49 1:12-500, la aguja n.º 8 en el km 120,132 era de forma J S49 1:9-190. La aguja n.º 2
 
 ## Página 23
+
 
 en el punto kilométrico 119,882 (cabezal de Jablonné) era de tipo J 49 1:9-300. Los desvíos estaban apoyados sobre traviesas de madera y se instalaron en las vías en 2014, a excepción del desvío n.º 8, que ya se había instalado en 1942.
 En posición normal y fuera del tráfico ferroviario, los desvíos n.º 1, 2, 4, 7, 8, 9 y 10 estaban bloqueados mediante cerraduras de cambio. Las llaves maestras de los desvíos n.º 1, 2 y 4 se guardaban en la cerradura central en el puesto del inspector de desvíos St.I y las de los desvíos n.º 9 y 10 en la cerradura central en el puesto del inspector de desvíos St.II. La llave maestra Vk2/8 estaba guardada en el DK en el armario cerrado con llave de las llaves maestras. El desvío n.º 7 estaba permanentemente bloqueado y la llave maestra Vk1/7 estaba guardada en poder del jefe del ámbito de explotación.
@@ -916,26 +822,27 @@ jefe de estación de Rynoltice
 ◦antes del turno de noche se sentía bien y sin molestias, tampoco se había visto alterada por nada antes del turno ni durante el mismo. Antes de la aparición de la anomalía en cuestión nada había distraído su atención,
 ◦el turno de noche transcurrió hasta el cruce de los trenes R 1334 y R 1333 sin incidencias,
 
-
 ## Página 24
 
-◦a las 18:48 h permitió la entrada del tren R 1334 con la señal del semáforo de entrada S de la estación de Rynoltice desde el tramo Rynoltice – Křižany al itinerario de vía n.º 3 de la estación de Rynoltice,
-◦a continuación, a las 18:54 h, la inspectora de desvíos del puesto St.II de la estación de Rynoltice le comunicó, mediante el equipo de telecomunicaciones (VTO), que el tren R 1334 desde el tramo Rynoltice – Křižany había entrado íntegramente en el itinerario de vía n.º 3. Sobre la base de esta comunicación, dio la orden (instrucción) de preparar el itinerario para el paso del tren R 1333 desde el tramo Jablonné v Podještědí – Rynoltice, por el itinerario de vía n.º 1 de la estación de Rynoltice al tramo Rynoltice – Křižany, y salió fuera delante del DK a esperar la llegada del tren R 1334,
-◦en el momento en que el tren R 1334 se aproximaba al andén del itinerario de vía n.º 3 de la estación de Rynoltice, volvió al DK, según su declaración, para «concertar la circulación» del tren R 1333 hasta la estación de Křižany (nota del investigador: en realidad fue a esperar del inspector de desvíos St.I el aviso de que se había completado la preparación del itinerario, para poder permitir la entrada del tren R 1333 mediante la operación del semáforo de entrada L en la estación de Rynoltice). En ese momento se percató de que el tren R 1334 no se detenía en el itinerario de vía n.º 3 de la estación de Rynoltice, porque no oía su frenado,
-◦a continuación, el inspector de desvíos del puesto St.I de la estación de Rynoltice le comunicó, mediante el equipo de telecomunicaciones (VTO), al dar el aviso de que se había completado la preparación del itinerario para el tren R 1333 desde el tramo Jablonné v Podještědí – Rynoltice al itinerario de vía n.º 1, que veía cómo el tren R 1334 pasaba el balizamiento con la señal «Fin de itinerario», válido para los itinerarios de vía n.º 1 y 3,
-◦para el tren R 1333 ya no llegó a accionar (no accionó) el semáforo de entrada L de la estación de Rynoltice a la posición que permite la circulación y comunicó la aparición de la anomalía según el plan de notificación;
+◦v 18:48 h permitió la entrada del tren R 1334 con la señal de la señal de entrada S de la estación de Rynoltice desde el TR Rynoltice – Křižany a la vía principal n.º 3 de la estación de Rynoltice,
+◦a continuación, a las 18:54 h, la vigilante de agujas del puesto St.II de la estación de Rynoltice, por medio del equipo de telecomunicaciones (VTO), comunicó que el tren R 1334 desde el TR Rynoltice – Křižany había entrado íntegramente en la vía principal n.º 3 de la estación de Rynoltice. Sobre la base de esta comunicación, dio la instrucción (orden) para la preparación del itinerario de tren para el paso del tren R 1333 desde el TR Jablonné v Podještědí – Rynoltice, por la vía principal n.º 1 de la estación de Rynoltice al TR Rynoltice – Křižany, y salió fuera del DK a esperar la llegada del tren R 1334,
+◦en el momento en que el tren R 1334 se aproximaba al andén junto a la vía principal n.º 3 de la estación de Rynoltice, volvió al DK, según su declaración, para «concertar la circulación» del tren R 1333 hasta la estación de Křižany (nota
+   DI
+  : en realidad fue a esperar del vigilante de agujas St.I el aviso de haberse realizado la preparación del itinerario de tren, para poder permitir la entrada del tren R 1333 mediante el servicio de la señal de entrada L en la estación de Rynoltice). En ese momento se percató de que el tren R 1334 no se detenía en la vía principal n.º 3 de la estación de Rynoltice, porque no escuchó su frenado,
+◦a continuación, el vigilante de agujas del puesto St.I de la estación de Rynoltice, por medio del equipo de telecomunicaciones (VTO), al comunicar la realización de la preparación del itinerario de tren para el tren R 1333 desde el TR Jablonné v Podještědí – Rynoltice a la vía principal n.º 1, le informó de que veía cómo el tren R 1334 pasaba el hito con la señal «Fin del itinerario de tren», válido para las vías principales n.º 1 y 3,
+◦para el tren R 1333 ya no colocó (no reconvirtió) la señal de entrada L de la estación de Rynoltice en la posición que permite la circulación y comunicó la aparición de la MU según el esquema de comunicación;
 •
-inspector de desvíos St.I de la estación de Rynoltice
+vigilante de agujas St.I de la estación de Rynoltice
   – Acta con el empleado:
-◦antes del turno de noche se sentía bien y sin molestias, tampoco se había visto alterado por nada antes del turno ni durante el mismo. Antes de la aparición de la anomalía en cuestión nada había distraído su atención,
-◦el turno transcurrió hasta el cruce de los trenes R 1334 y R 1333 sin incidencias,
-◦a las 18:48 h comunicó mediante el equipo de telecomunicaciones (VTO) al jefe de estación de Rynoltice la disponibilidad del itinerario para el tren R 1334 desde el tramo Rynoltice – Křižany al itinerario de vía n.º 3 de la estación de Rynoltice,
-◦tras la entrada del tren R 1334 en el itinerario de vía n.º 3 de la estación de Rynoltice, recibió la orden (instrucción) de preparar el itinerario para el tren R 1333 desde el tramo Jablonné v Podještědí – Rynoltice al itinerario de vía n.º 1 de la estación de Rynoltice,
-◦realizó la preparación del itinerario para el tren R 1333 desde el tramo Jablonné v Podještědí – Rynoltice al itinerario de vía n.º 1 de la estación de Rynoltice y, después de que el jefe de estación de Rynoltice comunicara mediante el equipo de telecomunicaciones (VTO) que se había completado la preparación del itinerario para el tren R 1333, oyó al jefe de estación sorprenderse de que el tren R 1334 continuara circulando por el itinerario de vía n.º 3. En el mismo instante vio que el tren R 1334 pasaba el balizamiento con la señal «Fin de itinerario», válido para los itinerarios de vía n.º 1 y 3,
-◦comunicó inmediatamente su hallazgo al jefe de estación de Rynoltice y salió fuera con la intención de dar al maquinista del tren R 1334 la señal «Alto, deténgase por todos los medios», pero el tren ya se estaba deteniendo;
-
+◦antes del turno de noche se sentía bien y sin molestias, tampoco estaba alterado por nada antes del turno ni durante el mismo. Antes de la aparición de la MU en cuestión, nada distrajo su atención,
+◦el turno transcurrió sin incidencias hasta el cruce de los trenes R 1334 y R 1333,
+◦a las 18:48 h comunicó por medio del equipo de telecomunicaciones (VTO) al jefe de estación de Rynoltice la libertad del itinerario de tren para el tren R 1334 desde el TR Rynoltice – Křižany a la vía principal n.º 3 de la estación de Rynoltice,
+◦tras la entrada del tren R 1334 en la vía principal n.º 3 de la estación de Rynoltice, recibió la instrucción (orden) para la preparación del itinerario de tren para el tren R 1333 desde el TR Jablonné v Podještědí – Rynoltice a la vía principal n.º 1 de la estación de Rynoltice,
+◦realizó la preparación del itinerario de tren para el tren R 1333 desde el TR Jablonné v Podještědí – Rynoltice a la vía principal n.º 1 de la estación de Rynoltice y, después de que el jefe de estación de Rynoltice, por medio del equipo de telecomunicaciones (VTO), comunicara la realización de la preparación del itinerario de tren para el tren R 1333, oyó al jefe de estación sorprenderse de que el tren R 1334 continuara circulando por la vía principal n.º 3. En el mismo instante vio que el tren R 1334 pasaba el hito con la señal «Fin del itinerario de tren», válido para las vías principales n.º 1 y 3,
+◦comunicó inmediatamente su hallazgo al jefe de estación de Rynoltice y salió corriendo con la intención de dar al maquinista del tren R 1334 la señal «Alto, deténgase por todos los medios», pero el tren ya se estaba deteniendo;
 
 ## Página 25
+
 
 •
 maquinista del tren R 1334
@@ -955,6 +862,7 @@ maquinista del tren R 1334
 ◦antes de la realización de la familiarización con las condiciones de la vía en la estación de Rynoltice y en el tramo Děčín východ – Liberec, respectivamente Liberec – Děčín východ, nunca había conducido en esta vía. Tampoco conocía dicha vía de la vida civil, cuando como pasajero viajó por ella, según su declaración, «a lo mejor solo una vez».
 
 ## Página 26
+
 
 ◦conocimiento de las condiciones de la vía en las líneas y en las estaciones donde dirigió el DV del tren R 1334, es decir, la línea Liberec – Děčín východ, incl. est. Rynoltice, lo realizó el 27. 11. 2023 en los trenes R 1326, R 1329, R 1332 y R 1335, siendo el turno en el que se produjo la MU su 1.º turno en solitario en dicha línea.
 Nota DI: el conocimiento de las condiciones de la vía en el tramo Děčín východ – Liberec, respectivamente Liberec – Děčín východ, lo confirmó al transportista AV con su firma el 30. 11. 2023 en la Ficha de Conocimiento de la Línea, ver punto 4.3.1 de esta ZZ,
@@ -979,8 +887,8 @@ maquinista del tren en sentido contrario R 1333
   – Acta con el empleado:
 ◦el 16. 1. 2024 condujo la unidad diésel del tren R 1333 desde Ústí nad Labem hl. n. hasta Liberec, desde el HDV 845.316-9 situado a la cabeza del tren. Desde la est. Jablonné v Podještědí salió con el tren a la hora prevista,
 
-
 ## Página 27
+
 
 ◦la preseñal luminosa independiente PřL de la señal de entrada L de la est. Rynoltice indicó la señal «Aviso», tras salir de la curva divisó en la señal de entrada L de la est. Rynoltice la señal «Alto»,
 ◦seleccionó la marcha por inercia, en consecuencia, al circular en la rampa la velocidad del tren descendió rápidamente,
@@ -1026,8 +934,8 @@ En la zona del DK, antes de dicho paso ni en las ventanas de las puertas de entr
 a las 18:55:21 h
 el frente del tren R 1334 rebasó el nivel del paso a través de la SK n.º 3 al
 
-
 ## Página 28
+
 
 andén junto a la SK n.º 1;
 el tren R 1334 se encontraba con el frente en la zona del comienzo
@@ -1063,8 +971,8 @@ De los datos registrados por el sistema de cámaras instalado en el tren en sent
 | • a las 18:56:42 h | el tren se aproximaba a baja velocidad a la señal de entrada L de la est. Rynoltice, en la que seguía encendida la señal de un solo aspecto. Se trataba de la luz roja que expresa la señal «Alto». En la cabeza jablonská de la est. Rynoltice brillaban claramente las luces de señalización del tren en sentido contrario R 1334, mientras comenzaba a encenderse intermitentemente el faro de largo alcance del DV de dicho tren; |
 | • a las 18:56:43 h | el maquinista del tren R 1333 encendió intermitentemente el faro de largo alcance, |
 
-
 ## Página 29
+
 
 |  | el tren seguía aproximándose a baja velocidad a la señal de entrada L de la est. Rynoltice; |
 | • a las 18:57:25 h | el tren R 1333 se detuvo antes de la señal de entrada L de la est. Rynoltice en la TK Jablonné v Podještědí – Rynoltice. |
@@ -1078,6 +986,7 @@ El DK de la est. Rynoltice lo rebasó el tren R 1334, que circulaba a una veloci
 El límite con la señal «Fin de la vía del tren» lo rebasó el frente del tren R 1334, que circulaba a una velocidad de 27 km·h-1, a las 18:55:51 h. A continuación, 2 s después (a las 18:55:53 h), al entrar el tren R 1334 en el desvío n.º 2 de la est. Rynoltice, que no había sido dispuesto para la circulación de dicho tren, el maquinista aplicó el frenado de emergencia. El frente del tren se encontraba a 21 m del punto de producción de la MU. El tren, en la posición final tras la MU, se detuvo con el frente del ŘDV 945.205-3 a una distancia de 58 m del punto de circulación no autorizada (el límite con la señal «Fin de la vía del tren», válido para las SK n.º 1 y 3), es decir, en el km 119,876. Como consecuencia de la MU fue conmutada violentamente la aguja n.º 2 en la cabeza (de salida) jablonská de la est. Rynoltice, que antes de la producción de la MU había sido dispuesta para la entrada del tren en sentido contrario R 1333 en la SK n.º 1.
 
 ## Página 30
+
 
 ### 3.2.2 Secuencia de hechos desde la aparición del suceso excepcional hasta la finalización de las acciones de los servicios de emergencia
 •
@@ -1112,8 +1021,8 @@ UME del HZS SŽ Liberec.
 El operador ferroviario estaba obligado, de conformidad con las disposiciones de la Ley n.º 266/1994 Sb., a explotar la vía para las necesidades del transporte ferroviario fluido y seguro de acuerdo con las normas de explotación de la vía y la autorización administrativa, y a garantizar que el sistema de seguridad del operador ferroviario por él establecido tuviera en cuenta el alcance y el objeto de su actividad y de las actividades de los distintos transportistas realizadas en la vía explotada por él, permitiera la explotación de la vía y del transporte ferroviario de conformidad con las especificaciones técnicas de interoperabilidad, otras disposiciones legales y los certificados del transportista, y fuera cumplido.
 La persona que dirige el transporte ferroviario, es decir, también la jefa de estación de Rynoltice, estaba obligada, entre otros, a cumplir el modo y las condiciones para la explotación de la vía, la dirección del transporte ferroviario, el seguimiento de los DV, el seguimiento de la capacidad de transporte de la vía, la dirección operativa del transporte ferroviario y, durante la explotación de la vía para la dirección del transporte ferroviario, a utilizar las dependencias derivadas de la actividad del SZZ explotado. En las actividades relacionadas con la explotación del SZZ debía cumplir siempre también el conjunto de maniobras de tráfico y procedimientos de trabajo establecidos por las disposiciones legales y las normas internas del operador ferroviario.
 
-
 ## Página 31
+
 
 Las personas que participan en la dirección del transporte ferroviario, es decir, los celadores de agujas de los puestos St.I y St.II de la estación de Rynoltice, estaban obligadas, al organizar y dirigir el transporte ferroviario de acuerdo con las disposiciones correspondientes de las disposiciones legales y las normas internas del operador ferroviario SŽ, entre otros, a cumplir las instrucciones impartidas en la dirección del transporte ferroviario por el empleado directamente superior, es decir, la persona que dirige el transporte ferroviario (en este caso concreto, la jefa de estación de Rynoltice), siendo responsable cada empleado personalmente del correcto desempeño del servicio de tráfico.
 Antes de permitir la entrada o el paso de un tren a una instalación con bifurcación de vías, el jefe de estación en la instalación y los celadores de agujas en los puestos deben realizar la preparación de la vía de tren, que es el conjunto de maniobras de tráfico y procedimientos de trabajo prescritos que deben realizarse antes de que el jefe de estación permita la marcha del tren mediante el semáforo principal o de otro modo. La vía de tren para un tren que entra y se detiene regularmente es el tramo de vía desde el semáforo de entrada en el lado de entrada del tren hasta el semáforo principal (de salida, de vía) situado directamente junto a la vía con la señal que prohíbe la marcha del tren, o en su caso hasta la placa roja o el disco rojo con la señal «Alto», que sustituye al semáforo principal y está configurado como semáforo fijo, y, allí donde no exista dicho semáforo o no esté directamente junto a la vía, hasta el semáforo con la señal «Fin de la vía de tren». La vía de tren para un tren de paso es el tramo de vía entre el semáforo de entrada (en el lado de entrada del tren) hasta la altura del semáforo de entrada para el sentido contrario de marcha del tren en el lado de salida.
@@ -1122,8 +1031,8 @@ Por ámbito de responsabilidad se entiende el ámbito de la estación en el que 
 Los empleados responsables de la preparación de la vía de tren en sus puestos de trabajo verifican la correcta conmutación de las agujas y los desvíos en la vía de tren. En el caso de que en el ámbito de responsabilidad del empleado que participa en la preparación de la vía de tren haya un paso a nivel (ŽP) protegido por un dispositivo de cierre mecánico (PZZ), este empleado, al explotarlo, debe asegurarse de que las barreras estén completamente cerradas. No está permitido volver a abrir o levantar las barreras que ya estaban cerradas antes de la circulación prevista de los vehículos. Por la realización de la preparación de la vía de tren en el ámbito de responsabilidad asignado y por la emisión del informe prescrito de la realización de la preparación de la vía de tren es responsable el empleado al que se le haya asignado el ámbito de responsabilidad afectado.
 El jefe de estación puede emitir también con antelación la instrucción (orden) para la explotación de las agujas, los desvíos y los dispositivos de cierre (PZZ) manuales para la vía de tren prevista, antes de que el tren sea ofrecido y aceptado, o antes de que llegue la anulación del tren anterior. Permitir la entrada o el paso de un tren a la estación solo puede el jefe de estación
 
-
 ## Página 32
+
 
 cuando todos los empleados que participan en la preparación de la vía de tren hayan comunicado la realización de la preparación de la vía de tren. El jefe de estación puede recibir el informe telefónico de la realización de la preparación de la vía de tren si, al emitirse el informe, están presentes todos los empleados que participan en la preparación de la vía de tren. El jefe de estación registra el informe telefónico de la realización de la preparación de la vía de tren con la indicación horaria en la aplicación operativa para la gestión de la documentación de tráfico, en el caso concreto en el EDD. Los empleados que informan telefónicamente la libertad y la correcta colocación de la vía de tren desde sus puestos registran siempre en las columnas correspondientes del Registro de libertad y correcta colocación de la vía de tren el número de tren y el número de vía que les ha sido comunicados por el medio de telecomunicaciones por el jefe de estación que les da la orden de preparación de la vía de tren. El informe de la realización de la preparación de la vía de tren lo registran después con la indicación horaria en la que se emitió el informe por el medio de telecomunicaciones, también en el Registro de libertad y correcta colocación de la vía de tren. Una vez cumplidas las condiciones anteriores, el jefe de estación puede iniciar la explotación del SZZ para la vía de tren prevista.
 El jefe de estación vigila la entrada, la salida y el paso del tren desde un lugar delante de su puesto o desde el puesto (gabinete de enclavamiento) para poder detectar posibles averías en los DV en marcha, detectables a simple vista o por oído, y para que la dotación del tren pueda detectar si el jefe de estación le está dando señales manuales. El jefe de estación no tiene por qué vigilar el tren en su entrada si le impide otra maniobra relacionada con el cumplimiento de sus obligaciones en la explotación de la vía. Tampoco tiene por qué vigilar el tren en su salida o paso si está realizando maniobras relacionadas con el SE, vigila otro tren o explota el botón de llamada de señales. En las mismas condiciones, vigilan la marcha del tren todos los empleados que participan en la preparación de la vía de tren, que deben llevar consigo una banderola roja y, con visibilidad reducida, una luz blanca.
@@ -1134,6 +1043,7 @@ La marcha de los trenes entre la estación de Rynoltice y las estaciones vecinas
 
 ## Página 33
 
+
 Para las necesidades de la investigación de la MU indicada, el DI realizó el 31. 1. 2024 en la estación de Rynoltice una prueba de verificación con el fin de determinar la duración (tiempo) necesaria para la preparación de las vías de tren en el cruce de los trenes R 1329 y R 1330, que incluía las distintas maniobras de tráfico y los procedimientos de trabajo necesarios para realizar el cruce de trenes en esta estación. La prueba de verificación se realizó de modo que la preparación de las vías de tren coincidiera en la mayor medida posible con las disposiciones previstas para el cruce de los trenes R 1333 y R 1334 en el momento de producirse la MU en cuestión. Para el tren R 1330 con procedencia de Křižany se estableció la vía de entrada en la SK n.º 3, cuando la vía de tren para este tren terminaba en el hito con la señal «Fin de vía de tren», válida para las SK n.º 1 y 3, y para el tren en paso R 1329 con procedencia de Jablonné v Podještědí, tras la entrada del tren R 1330 en la SK n.º 3, se estableció la vía de tren por la SK n.º 1 en dirección a Křižany. Toda la comunicación entre los empleados durante la preparación de las vías de tren en el momento de la prueba de verificación se realizó a través del VTO.
 De la prueba de verificación se concluyó que el tiempo real necesario para la preparación de las vías de tren para el cruce de los trenes R 1329 y R 1330 en la estación de Rynoltice fue suficiente para la realización del cruce de trenes según los tiempos establecidos por el horario de circulación vigente.
 Asimismo, el DI realizó el 31. 1. 2024 y el 1. 2. 2024 una prueba de verificación con el fin de comprobar la visibilidad del hito con la señal «Fin de vía de tren» válida para las SK n.º 1 y 3 dirección Jablonné v Podještědí. La prueba de verificación se llevó a cabo en dos fases, siempre en forma de trayecto desde la estación de Liberec hasta la estación de Jablonné v Podještědí en la cabina delantera de conducción, desde la cual los trenes en cuestión eran conducidos por los maquinistas, concretamente el 31. 1. 2024 en el tren R 1334 y el 1. 2. 2024 en el tren R 1322 del transportista AV.
@@ -1141,8 +1051,8 @@ En el marco de la prueba de verificación realizada el 31. 1. 2024, el tren R 13
 De la prueba de verificación realizada el 1. 2. 2024 se concluye de forma inequívoca que la iluminación artificial de la vía en la cabecera jablonská (de salida) de la estación de Rynoltice permitía al maquinista, al conducir el tren en dirección a Jablonné v Podještědí desde el DV de cabeza, observando la vía, detectar de manera indudable e inequívoca, a una distancia de 52 m, el hito con la señal «Fin de vía de tren», incluso a través de la parte menos iluminada de la vía en el área de dicho hito, que era válido para las SK n.º 1 y 3.
 Cada empleado del operador ferroviario, y por tanto también el vigilante de agujas, debía conocer la señal «Alto, deténgase por todos los medios», y estaba obligado a dar esta señal siempre que se viera amenazada la seguridad de la explotación del transporte ferroviario o las vidas humanas, con todos los medios disponibles (banderola, linterna, mano, etc.). El empleado no tenía que dar esta señal si ya había dado al maquinista del tren la orden de detención mediante el equipo de telecomunicaciones y el maquinista del tren había confirmado la recepción de la orden. El empleado que da la señal «Alto, deténgase por todos los medios» corre (anda) en la medida de lo posible lo más lejos posible del lugar de la amenaza, hacia el tren o la maniobra de
 
-
 ## Página 34
+
 
 maniobra que sea necesario detener. Una vez detenido el tren o la maniobra de maniobra, comunica al maquinista el motivo de la emisión de esta señal.
 El vigilante de agujas del puesto St.I de la estación de Rynoltice, durante el aviso de la preparación de la vía de tren para el tren R 1333 a través del equipo de telecomunicaciones (VTO), oyó a la jefa de estación sorprenderse de que el tren R 1334 continuara su marcha por la SK n.º 3, cuando en ese mismo instante vio que el tren R 1334 pasaba indebidamente más allá del hito con la señal «Fin de vía de tren», válido para las SK n.º 1 y 3. Por ello quiso evitar la amenaza a la seguridad de la explotación del transporte ferroviario y salió rápidamente de su puesto hacia el tren R 1334 con la intención de darle la señal «Alto, deténgase por todos los medios». En el momento en que salió de su puesto, el tren R 1334 ya se estaba deteniendo y ya no había motivo para dar la señal «Alto, deténgase por todos los medios», véase el punto 3.1.9 de la presente ZZ.
@@ -1153,8 +1063,8 @@ Para cumplir lo anterior, el maquinista del tren R 1334, en virtud del conocimie
 Dado que la estación de Rynoltice era una estación sin señales de salida, todos los trenes hacían parada regular. El maquinista debía detener el tren en la estación si no había sido despachado por la jefa de estación, y ello antes de la señal – el hito con la señal «Fin de vía de tren», que determinaba el final de la vía de tren del tren que entra y hace parada regular, y que advertía del límite que no podía sobrepasar el DV para que no se viera amenazada la circulación del DV por la SK contigua.
 La información de que la estación de Rynoltice era una estación sin señales de salida la tenía el maquinista del tren R 1334 contenida en el medio auxiliar del horario de circulación, concretamente en el TJŘ para el tren R 1334, cuando en la columna 2, en la fila de la estación de Rynoltice, figuraba la marca «B», que indicaba una estación sin señales de salida. En el mencionado TJŘ tenía, entre otros, la información necesaria para la conducción del tren, cuando en la columna 5, en la fila de la estación de Rynoltice, figuraba la marca «+», que indicaba parada por motivos de tráfico.
 
-
 ## Página 35
+
 
 El maquinista del tren R 1334, durante la entrada y la circulación en la estación de Rynoltice, que era una estación sin señales de salida, no actuó como durante la entrada y la circulación de un tren que hace parada regular en la estación, el cual debe detenerse en la estación si no ha sido despachado por la jefa de estación. Aunque el maquinista del tren R 1334 no había sido despachado por la jefa de estación de Rynoltice en servicio, no detuvo el tren en la SK n.º 3 antes del hito con la señal «Fin de vía de tren», válido para las SK n.º 1 y 3, y continuó la marcha hacia la cabecera jablonská (de salida) de la estación. El frenado (frenado de acción rápida) para detener el tren lo inició únicamente a 21 m de dicho hito, véase el punto 4.3.1 de la presente ZZ.
 ### Hallazgos:
@@ -1187,40 +1097,40 @@ a) la señal principal situada directamente junto a la vía para la que es váli
 
 ## Página 36
 
-mitad de un rectángulo blanco colocado sobre el lado largo, orientado hacia el tren que se detiene, en rojo):
-a) advierte en las vías convergentes o cruzadas sobre el límite que no debe sobrepasar el vehículo para que no se vea amenazada la circulación de vehículos en la vía adyacente;
+media blanca del rectángulo colocado sobre el lado largo, orientado hacia el tren que se detiene, en rojo):
+a) avisa en las vías convergentes o cruzadas sobre el límite que no debe sobrepasar el vehículo, para que no se vea amenazada la circulación de vehículos en la vía adyacente;
 b) establece:
-ba) el final del trayecto de tren ...“;
+ba) el final del camino del tren ...“;
 •
 cap. 2.2 art. 41 letra f) de la norma interna AV PERS 02:
-«El maquinista tiene, en particular, la obligación de observar durante la marcha del tren o durante las maniobras la vía y la playa de vías, incluido su entorno inmediato, y la línea de tracción, y de ajustarse a las señales que tengan o puedan tener influencia en la circulación»;
+“El maquinista está obligado especialmente a observar durante la marcha del tren o durante las maniobras la vía y la playa de vías, incluidas sus inmediaciones, y la línea de tracción, y a regirse por las señales que tengan o puedan tener influencia en la marcha“;
 •
 cap. 3.7 art. 141 de la norma interna AV PERS 02
-«Al entrar en la estación ferroviaria, el maquinista conduce el tren de manera que se detenga de forma segura, suave y sin sacudidas en el lugar establecido.».
+“Al entrar en la estación ferroviaria, el maquinista conduce el tren de manera que se detenga de forma segura, suave y sin golpes en el lugar establecido.“.
 Como ya se ha indicado más arriba, el maquinista del tren R 1334 era responsable también de no exceder durante la marcha la velocidad máxima permitida.
-Del análisis de los datos de circulación del tren R 1334 del 16. 1. 2024 registrados por el registrador electrónico RR UniControls Tramex, n.º de fabricación 9267, se constató, entre otros, que el maquinista del tren R 1334:
+Del análisis de los datos de la marcha del tren R 1334 del 16. 1. 2024 registrados por el registrador electrónico RR UniControls Tramex, n.º de fabricación 9267, se constató, entre otros, que el maquinista del tren R 1334:
 •
-durante la marcha del tren entre las estaciones Křižany y Rynoltice, en el pk 128,595 hasta 128,291 y en el pk 128,056 hasta 127,823, en un trayecto de 304 m y 233 m, excedió la velocidad máxima permitida de 70 km·h-1, indicada por el indicador de velocidad N con el dígito «70» situado en el TR Rynoltice – Křižany en el pk 128,850, hasta en 3 km·h-1, véanse los puntos 3.1.7, 4.3.1 y 5.3 de la presente II;
+durante la marcha del tren entre las estaciones Křižany y Rynoltice, en el km 128,595 hasta el 128,291 y en el km 128,056 hasta el 127,823, en un trayecto de 304 m y 233 m, excedió la velocidad máxima permitida de 70 km·h-1, señalizada por el indicador de velocidad N con el dígito “70” situado en el TR Rynoltice – Křižany en el km 128,850, hasta en 3 km·h-1, véanse los puntos 3.1.7, 4.3.1 y 5.3 de la presente ZZ
 •
-al entrar el tren en la estación Rynoltice excedió la velocidad máxima permitida de 40 km·h-1, indicada por el indicador de velocidad N con el dígito «40» situado en la cabecera de Křižany en el pk 120,596 (antes de la aguja n.º 10), a partir de dicho indicador de velocidad en un trayecto de 30 m, y ello hasta en 3 km·h-1, véanse los puntos 3.1.7, 4.3.1 y 5.3 de la presente II.
-Lo anterior no puede valorarse en relación causal con la producción del SI, ya que dicho exceso de velocidad no tuvo ninguna influencia en la producción del SI en cuestión.
-### Hallazgos:
-En la investigación se constató la infracción de normativa legal y de normativa interna relativa a las funciones y obligaciones del transportista AV, al margen de la relación causal con la producción del SI:
+al entrar el tren en la estación Rynoltice excedió la velocidad máxima permitida de 40 km·h-1, señalizada por el indicador de velocidad N con el dígito “40” situado en el extremo de Křižany en el km 120,596 (antes de la aguja n.º 10), a 30 m de dicho indicador de velocidad, hasta en 3 km·h-1, véanse los puntos 3.1.7, 4.3.1 y 5.3 de la presente ZZ.
+Lo anterior no puede valorarse en relación causal con la aparición del SU, ya que el citado exceso de velocidad no tuvo ninguna influencia en la aparición del SU en cuestión.
+### Constataciones:
+En la investigación se constató la infracción de normas legales y normas internas relativas a las funciones y obligaciones del transportista AV, al margen de la relación causal con la aparición del SU:
 •
 § 35 apartado 1 letra a) de la Ley n.º 266/1994 Sb.:
-«El transportista está obligado a explotar el transporte ferroviario de acuerdo con las reglas de explotación del transporte ferroviario, la licencia vigente y el contrato celebrado con el explotador de la infraestructura para la explotación del transporte ferroviario en la infraestructura,»;
+“El transportista está obligado a explotar el transporte ferroviario de acuerdo con las reglas de explotación del transporte ferroviario, la licencia vigente y el contrato celebrado con el explotador de la vía sobre la explotación del transporte ferroviario en la vía,“;
 •
 § 35 apartado 1 letra f) de la Ley n.º 266/1994 Sb.:
-«El transportista está obligado a ajustarse, en la explotación del transporte ferroviario, a las instrucciones del explotador de la infraestructura impartidas durante la organización del transporte ferroviario,»;
+“El transportista está obligado a regirse, en la explotación del transporte ferroviario, por las instrucciones del explotador de la vía impartidas en la organización del transporte ferroviario,“;
 •
 § 35 apartado 1 letra f) del Decreto n.º 173/1995 Sb.:
-«Para la conducción de un vehículo ferroviario debe garantizarse que la persona que conduce el vehículo ferroviario
-f) observe desde la cabina del vehículo ferroviario la vía y las señales y actúe de acuerdo con los hechos constatados,»;
+“Para la conducción de un vehículo ferroviario debe garantizarse que la persona que conduce el vehículo ferroviario
+f) observe desde el vehículo ferroviario de cabeza la vía y las señales, y actúe de acuerdo con los hechos constatados,“;
 •
 § 35 apartado 1 letra i) del Decreto n.º 173/1995 Sb.:
 
-
 ## Página 37
+
 
 «Para la conducción de un vehículo ferroviario debe garantizarse que la persona que conduce el vehículo ferroviario no exceda durante la marcha la velocidad máxima permitida, establecida por el horario de circulación o impuesta como velocidad limitada».
 En el caso de este SI concreto, es necesario relacionar la disposición anterior con la definitoria:
@@ -1246,8 +1156,8 @@ En la investigación no se constató infracción de las funciones y obligaciones
 ### 4.1.4 Autoridades nacionales de seguridad y Agencia Ferroviaria de la Unión Europea
 La autoridad nacional de seguridad es el DÚ, que de acuerdo con la Ley n.º 266/1994 Sb. es una autoridad administrativa dependiente del Ministerio de Transportes. Su función es, en particular, el ejercicio de
 
-
 ## Página 38
+
 
 la supervisión estatal en materia de infraestructuras ferroviarias y en materia de autoridad de construcción, el ejercicio de la autoridad de construcción especial para las obras de la infraestructura y las obras en la infraestructura, la aprobación de vehículos ferroviarios nuevos y modernizados y de instalaciones técnicas designadas, y la tramitación de infracciones. El DÚ tiene la obligación de comunicar, en el plazo de 12 meses a partir de la fecha de publicación del informe final que contenga las recomendaciones de seguridad dirigidas a él, al DI qué medida ha adoptado en relación con dicha recomendación de seguridad, realizando esta comunicación de forma periódica, al menos una vez al año, hasta la adopción de las medidas correspondientes.
 La función de la Agencia Ferroviaria de la Unión Europea es, además de garantizar, en el marco de sus competencias, que se mantenga de forma general y se aumente, en la medida de lo posible de forma sistemática, la seguridad de los ferrocarriles, entre otros, la emisión, renovación, suspensión y modificación de certificados únicos de seguridad, la limitación de su validez o su anulación, actuando al respecto en colaboración con las autoridades nacionales de seguridad; asimismo, emite autorizaciones para la puesta en el mercado de vehículos ferroviarios y de tipos de vehículos, y está facultada para renovar, modificar, suspender o anular las autorizaciones que haya emitido. La Agencia evalúa además los proyectos de normativa nacional, etc.
@@ -1264,8 +1174,8 @@ En la investigación no se identificaron factores derivados del diseño de VF, d
 4.2.2 Factores o consecuencias derivados de la instalación y puesta en servicio de los vehículos ferroviarios, de la infraestructura ferroviaria o de las instalaciones técnicas
 En la investigación no se identificaron factores derivados de la instalación y puesta en servicio de VF, de la infraestructura ferroviaria o de las instalaciones técnicas.
 
-
 ## Página 39
+
 
 ### 4.2.3 Factores o consecuencias relacionados con los fabricantes de vehículos ferroviarios u otros proveedores de productos ferroviarios
 En la investigación no se identificaron factores relacionados con los fabricantes de VF ni con otros proveedores de productos ferroviarios.
@@ -1285,6 +1195,7 @@ El conocimiento de las condiciones de la vía en las líneas y en las estaciones
 
 ## Página 40
 
+
 El maquinista del tren R 1334 realizó, en el marco de una formación realizada de forma independiente, el día 27. 11. 2023, en los trenes:
 •
 R 1326 en el tramo de vía Liberec – Ústí nad Labem en el horario comprendido entre las 10:28 h y las 12:28 h;
@@ -1301,16 +1212,16 @@ Mediante el documento «SMLOUVA o provozování drážní dopravy na celostátn�
 En los procedimientos tecnológicos uniformes del transportista AV se reguló que los maquinistas debían, antes de su asignación a la ejecución independiente en la línea correspondiente y en las instalaciones, realizar la formación sobre las condiciones de vía. Parte de esta formación era, naturalmente, también el conocimiento de los TTP y ZDD, a los que los maquinistas tenían acceso. El alcance de la formación sobre las condiciones de vía, es decir, su duración, tipo y método de realización, t. e. también los plazos mínimos del proceso de aprendizaje, fue establecido, según la norma interna PD 01, por instrucciones internas del transportista AV, no habiendo sido dichas instrucciones modificadas posteriormente por el transportista mediante ningún procedimiento tecnológico uniforme y siendo emitidas verbalmente. Según la declaración del transportista AV: «El empleador puede, a través de sus empleados directivos, asignar al empleado la ejecución del trabajo también verbalmente; por la naturaleza de la cuestión, tales instrucciones no se documentan y, por regla general, se cumple mediante la conducta tácita del empleado dirigida al resultado requerido.».
 Puede resumirse así que la normativa jurídica, la norma interna SŽ D1 y los procedimientos tecnológicos uniformes del transportista AV vinculados a ella, regulaban el alcance y el método de realización (renovación) de la formación sobre las condiciones de vía en las líneas y en las instalaciones donde el maquinista iba a conducir un DV, únicamente a un nivel general, dejando únicamente a la competencia de los empleados directivos del transportista cómo y de qué manera establecen, p. ej., el número mínimo de recorridos de la línea correspondiente
 
-
 ## Página 41
+
 
 en ambos sentidos de día y de noche, incl. el método de registro (y archivo) de la documentación que acredite la realización efectiva de las partes parciales de la formación, p. ej. mediante el registro de la(s) orden(es) de ejecución de la formación sobre las condiciones de vía con confirmación verificable de los maquinistas, incl. la indicación de la(s) ejecución(es) [número(s) de tren(es)] con los que y en los que el maquinista en formación realizó la(s) circulación(es) en la línea y en las instalaciones, etc., ver los puntos 4.4.5 y 6 de la presente ZZ.
 La instrucción para la realización de la formación fue dada al maquinista del tren R 1334 por un empleado directivo del transportista de forma verbal. El transportista AV registraba (electrónicamente) únicamente el inicio y el fin de la ejecución del trabajo (turno) del maquinista, en cuyo marco realizó la formación sobre las condiciones de vía. Se produjo así la situación en la que al maquinista del tren R 1334, que en la línea Děčín východ – Liberec, respectivamente Liberec – Děčín východ, t. e. en un tramo de unos 89 km de longitud, antes del inicio de la formación nunca había conducido un DV (ni conocía esta línea de su vida civil anterior, cuando, según su declaración, viajó en tren en esta línea como pasajero quizá solo una vez), le fue dada por un empleado directivo la instrucción para la realización de la formación sobre las condiciones de vía en las líneas y en las instalaciones donde iba a conducir un DV, recorriendo dichas líneas en ambos sentidos 1x de día y 1x de noche en ambos sentidos.
 Es evidente que el alcance y el método de formación sobre las condiciones de vía en las líneas y en las instalaciones en el tramo Děčín východ – Liberec, respectivamente Liberec – Děčín východ, realizados por el maquinista del tren R 1334, podrían haber sido suficientes para un maquinista que ya hubiera conducido un DV en estas líneas en el pasado. En el caso de un maquinista que antes del inicio de la formación en dichas líneas y en las instalaciones nunca hubiera conducido un DV, el método y el alcance de la formación realizados por el maquinista del tren R 1334 fueron insuficientes: no está en las posibilidades humanas conocer una línea de unos 89 km de longitud (y otros unos 27 km hasta Ústí nad Labem hl. n.) con 1 recorrido en ambos sentidos de día y 1 recorrido en ambos sentidos de noche. La capacidad del maquinista que ha realizado la formación sobre las condiciones de vía en el alcance más arriba indicado para orientarse en una línea de tal tipo y determinar dónde se encuentra el tren en la vía definida o en su parte, puede ser limitada al menos en la primera circulación. Si dicha primera circulación se realiza de noche, su orientación en la línea se ve limitada aún más. Al maquinista en esta situación tampoco le ayudan demasiado las herramientas con las que está obligatoriamente equipado, t. e. el TJŘ y las tablas de condiciones de vía, porque con su observación constante y su comparación con el lugar de la línea en el que se encuentra con el tren en ese momento, se le aparta su atención de la observación de la línea y de las señales, lo que puede tener una influencia negativa en su actuación de acuerdo con los hechos constatados. Lo indicado lo confirma no solo la declaración del maquinista del tren R 1334, quien a las preguntas del DI relativas a la superación de la velocidad máxima permitida del tren R 1334 entre las est. Křižany y Rynoltice y en la entrada a la est. Rynoltice, entre otras, indicó que «probablemente fue causado por mi conocimiento incompleto de las condiciones de pendiente de la línea en el tramo dado.», respectivamente porque «… yo no la conocía mucho ahí.», sino también los resultados de la investigación y sistematización de los factores que contribuyen a la aparición de MU – circulación no autorizada de un DV, realizada por el Centro de Investigación del Transporte, v. v. i., cuando entre los factores que contribuyen a la aparición de dichas MU se mencionó también el conocimiento insuficiente de la línea.
 Lo más arriba indicado no puede valorarse en relación causal con la aparición de la MU en cuestión ni como infracción de la normativa jurídica y de las normas internas relativas a las funciones y obligaciones del transportista AV, porque el maquinista del tren R 1334 tenía en el TJŘ para el tren R 1334, en la columna 2, en la fila de la estación Rynoltice, la marca «B» indicada, y además, a la salida de la curva derecha SK nº 3, una distancia suficiente (371 m) para visualizar la parte no recorrida de la SK transitada, incl. el espacio de la cabecera (de salida) jablonské, t. e. para que, observando la línea y las señales, constatara que se trataba de una estación sin señales de salida, y con ello disponía también de un margen de tiempo suficiente (más de
 
-
 ## Página 42
+
 
 30 s) para actuar de acuerdo con los hechos constatados y detener el tren de forma segura en la estación, ver más abajo y el punto 4.1.1 de la presente ZZ.
 Es evidente que el maquinista del tren R 1334 no actuó con la intención de provocar una MU. Su comportamiento estuvo influenciado por errores inconscientes:
@@ -1329,6 +1240,7 @@ En la investigación no se detectaron factores relacionados con el entorno labor
 En la investigación no se detectaron otros factores relacionados con la actuación de las personas implicadas.
 
 ## Página 43
+
 
 ### 4.4 Mecanismos de retroalimentación y mecanismos de control, incluida la gestión de riesgos 
 y la garantía de seguridad, y los procedimientos de seguimiento
@@ -1368,47 +1280,38 @@ Dicha recomendación de seguridad no se había materializado hasta la fecha del 
 6 de la presente ZZ. Lo anterior tuvo como consecuencia que la normativa y los procedimientos tecnológicos unificados 
 del transportista AV permitieran dejar a discreción de sus empleados directivos, aunque 
 tras la consulta previa con los instructores de maquinistas, qué método y alcance de la familiarización 
-asignar al maquinista, véase el punto 4.3.1 de la presente ZZ. 
-
+asignar al maquinista, véase el punto 4.3.1 de la presente ZZ.
 
 ## Página 44
 
-### 4.4.6 Aprobaciones, certificados y informes de evaluación emitidos por la agencia, las autoridades nacionales 
-de seguridad u otros sujetos de evaluación de la conformidad
-El gestor de la infraestructura explotaba la vía con base en la autorización administrativa vigente y el certificado 
-de seguridad del gestor de la infraestructura. El transportista explotaba el transporte ferroviario con base en 
-la licencia vigente y el certificado del transportista.
+### 4.4.6 Aprobaciones, certificados e informes de evaluación otorgados por la agencia, las autoridades nacionales de seguridad u otros organismos de evaluación de la conformidad
+El gestor de la infraestructura ferroviaria explotaba la infraestructura en virtud de una autorización administrativa vigente y de un certificado de seguridad del gestor de la infraestructura ferroviaria. El transportista explotaba el transporte ferroviario en virtud de una licencia vigente y de un certificado del transportista.
 ### 4.4.7 Otros factores sistémicos
-En la investigación no se detectaron otros factores sistémicos.
+En el curso de la investigación no se detectaron otros factores sistémicos.
 ### 4.5 Sucesos anteriores de naturaleza similar
-La DI, en el periodo comprendido entre el 1. 1. 2019 y la fecha del origen de la MU en cuestión, registra en las vías ferroviarias, 
-categoría nacional y regional, solo 1 MU similar, cuando en una estación sin señales de salida 
-se produjo una circulación no autorizada de un tren más allá de una señal invariable – un balizamiento con la señal 
-«Fin de trayecto del tren». Como consecuencia de esta MU (del 13. 7. 2019, también en la est. Rynoltice) 
-se produjo un daño por importe de 21 312,50 Kč, a cargo de la parte de la infraestructura de la vía. 
-La DI no investigó la MU similar anterior.
+La DI, en el período comprendido entre el 1 de enero de 2019 y la fecha de ocurrencia de la MU en cuestión, registra en las vías ferroviarias, categorías nacional y regional, únicamente 1 MU similar, en la que, en una estación sin señales de salida, se produjo una circulación no autorizada de un tren más allá de una señal invariable – un balizamiento con la señal «Fin de la ruta del tren». Como consecuencia de esta MU (del 13 de julio de 2019, también en la est. Rynoltice) se produjo un daño por importe de 21 312,50 Kč, a cargo de la infraestructura ferroviaria. La DI no investigó la MU similar anterior.
 ## 5 CONCLUSIONES
 ### 5.1 Resumen del análisis y conclusiones relativas a las causas del suceso
 Causa inmediata:
 •
-la actuación de la persona que conduce el vehículo ferroviario del tren R 1334 durante la entrada y la circulación en la estación 
-ferroviaria Rynoltice, que es una estación sin señales de salida, no fue la de un tren que 
-realiza paradas regulares, el cual debe detenerse en la estación si no ha sido 
-despachado por el jefe de estación.
+la actuación de la persona que conduce el vehículo ferroviario del tren R 1334 al entrar y circular en la estación de ferrocarril Rynoltice, que es una estación sin señales de salida, no fue la de un tren que circula regularmente, que debe detenerse en la estación si no ha sido despachado por el jefe de estación.
 No se detectó ningún factor contribuyente por parte de la Inspección Ferroviaria.
 No se detectó ninguna causa sistémica por parte de la Inspección Ferroviaria.
 ### A summary of the analysis and conclusions with regard to the causes of the 
 occurrence
 Causal factor:
 •
-the train driver of the long distance passenger train No. 1334 did not act during entry and while driving on the station track No. 3 as at the train which regularly stops at Rynoltice station, which is station without departure signal devices and where train must stopped if was not dispatched by station dispatcher.
+the train driver of the long distance passenger train No. 1334 did not act during 
+entry and while driving on the station track No. 3 as at the train which regularly 
+stops at Rynoltice station, which is station without departure signal devices and 
+where train must stopped if was not dispatched by station dispatcher.
 Contributing factor: none.
 Systemic factor: none.
-### 5.2 Medidas adoptadas para la prevención de sucesos extraordinarios
-El gestor de la infraestructura SŽ adoptó, tras el origen de la MU, las siguientes medidas:
-
+### 5.2 Medidas adoptadas para prevenir sucesos excepcionales
+El gestor de la infraestructura ferroviaria SŽ adoptó, tras la ocurrencia de la MU, las siguientes medidas:
 
 ## Página 45
+
 
 •
 las causas y circunstancias del origen de la MU se debatirán en la reunión de los empleados directivos 
@@ -1447,39 +1350,31 @@ en relación con la prevención de sucesos extraordinarios:
 •
 Al Ministerio de Transporte de la República Checa, en colaboración con la Oficina Ferroviaria, que especifique mediante el contenido de una norma jurídica:
 
-
 ## Página 46
 
-◦el alcance mínimo y la forma de realizar la familiarización con las condiciones de la vía en las líneas 
-y en las estaciones donde la persona que conduce el vehículo ferroviario vaya a conducir un vehículo ferroviario, 
-p. ej. mediante la determinación del número mínimo de recorridos de la vía definida o de una parte de la misma 
-en ambos sentidos, de día y de noche,
-◦los requisitos de registro y archivo de la documentación que acredite la realización efectiva de las partes 
-componentes de la familiarización con las condiciones de la vía en las líneas y en las estaciones donde 
-la persona que conduce el vehículo ferroviario vaya a conducir un vehículo ferroviario,
-de modo que se cumpla plenamente el requisito de determinidad, incl. la seguridad jurídica, y que la práctica no impida a los destinatarios de dicha 
-obligación jurídica su aplicación rigurosa para el cumplimiento 
-y la satisfacción de la obligación establecida en el § 35 apartado 1 letra a) del Decreto núm. 173/1995 Sb., 
-por el que se aprueba el Reglamento de Circulación Ferroviaria, de modo que la persona que conduce el vehículo ferroviario 
-quede acreditadamente familiarizada con las condiciones de la vía en las líneas y en las estaciones donde conduce 
-(vaya a conducir) un vehículo ferroviario.
-## SAFETY RECOMMENDATIONS
-Addressed to the Czech Ministry of Transport in cooperation with Czech National Safety Authority (NSA) to specify by contents of legal regulation:
+◦el alcance mínimo y la forma de realizar la familiarización con las condiciones de la vía en las líneas ferroviarias y en las estaciones donde la persona que conduce el material rodante vaya a conducir material rodante, p. ej. mediante la determinación del número mínimo de recorridos de la vía designada o de una parte de la misma en ambos sentidos, de día y de noche,
+◦los requisitos de registro y archivo de la documentación que acredite la realización efectiva de las partes componentes de la familiarización con las condiciones de la vía en las líneas ferroviarias y en las estaciones donde la persona que conduce el material rodante vaya a conducir material rodante,
+de modo que se cumpla íntegramente el requisito de determinación, incluida la seguridad jurídica, y que la práctica no impida a los destinatarios de dicha obligación legal su aplicación constante para el cumplimiento y satisfacción de la obligación establecida en el § 35 apartado 1 letra a) del decreto nº 173/1995 Sb., por el que se dicta el reglamento de circulación ferroviaria, de modo que la persona que conduce el material rodante haya sido acreditadamente familiarizada con las condiciones de la vía en las líneas ferroviarias y en las estaciones donde conduce (vaya a conducir) material rodante.
+
+## RECOMENDACIONES DE SEGURIDAD
+Dirigidas al Ministerio de Transporte de la República Checa en cooperación con la Autoridad Nacional de Seguridad Checa (NSA) para que especifique mediante el contenido de la regulación legal:
 •
-minimum range and way of perform familiarization with line conditions at railway lines and stations where train driver will be drive rolling stocks, e.g. determination of minimum numbers of travel on specified railway line or its part both directions during the day and at night;
+el alcance mínimo y la forma de realizar la familiarización con las condiciones de la vía en las líneas ferroviarias y en las estaciones donde el maquinista vaya a conducir material rodante, p. ej. mediante la determinación del número mínimo de recorridos de la vía ferroviaria designada o de una parte de la misma en ambos sentidos, de día y de noche;
 •
-requirements on records and archiving documentations which prove real execution component parts of familiarization with line conditions at railway lines and stations where train driver will be drive rolling stocks,
-so that was completely satisfy of requirement certainty, including legal assurance, and recipients this legal duty it was not hamper in practice in its consistent application for application duty from Article 35(1) of Decree No 173/1995 Coll., so that train drivers were demonstrably familiarization with line conditions at railway lines and stations where train drivers will be drive rolling stocks.
+los requisitos de registro y archivo de la documentación que acredite la realización efectiva de las partes componentes de la familiarización con las condiciones de la vía en las líneas ferroviarias y en las estaciones donde el maquinista vaya a conducir material rodante,
+de modo que se cumpla íntegramente el requisito de determinación, incluida la seguridad jurídica, y que la práctica no impida a los destinatarios de dicha obligación legal su aplicación constante para el cumplimiento de la obligación derivada del artículo 35(1) del decreto nº 173/1995 Sb., de modo que los maquinistas hayan sido acreditadamente familiarizados con las condiciones de la vía en las líneas ferroviarias y en las estaciones donde los maquinistas vayan a conducir material rodante.
+
 En Ostrava, a 7 de junio de 2024
+
 Ing. Petr Maikranz v. r.
 Ing. Lukáš Janák v. r.
 director
 inspector
-Inspección Territorial de Ostrava
-Inspección Territorial de Ostrava
-
+Inspectorado Territorial de Ostrava
+Inspectorado Territorial de Ostrava
 
 ## Página 47
+
 
 ## ANEXOS
 Fig. núm. 2: Vista de la grabación del sistema de cámara ŘDV 945.205-3 del tren R 1334, desde su punto 

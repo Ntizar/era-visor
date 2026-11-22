@@ -10,13 +10,14 @@ chars: 167748
 ratio_longitud: 1.25
 tokens_in: 85975
 tokens_out: 62535
-verificacion: revisar
-notas_cifras: ["bloque 6: original bilingüe: se compara contra el idioma principal (CS)", "bloque 9: original bilingüe: se compara contra el idioma principal (CS)", "bloque 10: original bilingüe: se compara contra el idioma principal (CS)", "bloque 11: original bilingüe: se compara contra el idioma principal (CS)"]
-avisos: ["bloque 10: ratio 1.79", "bloque 11: ratio 1.72"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 5: original bilingüe: se compara contra el idioma principal (EN)", "página 6: original bilingüe: se compara contra el idioma principal (PT)", "página 7: original bilingüe: se compara contra el idioma principal (CS)", "página 8: original bilingüe: se compara contra el idioma principal (CS)", "página 9: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 Inspección Ferroviaria
 República Checa
@@ -43,7 +44,10 @@ tel.: 224 805 444
 
 ## Página 2
 
+
+
 ## Página 3
+
 
 # RESUMEN
 Grado:
@@ -95,6 +99,7 @@ los procedimientos tecnológicos del IM no dan instrucciones claras para
 
 ## Página 4
 
+
 el maquinista del tren detenido sobre cómo averiguar la posición exacta en pk de la cabeza (cola) de
 dicho tren, ni instrucciones para este maquinista y otras personas que gestionan la explotación
 ferroviaria en el caso de que no pueda determinarse la posición exacta en pk;
@@ -119,6 +124,7 @@ Este informe final es público y todos los documentos y hechos están respaldado
 investigación.
 
 ## Página 5
+
 
 # Índice
  RESUMEN ...........................................................................................................................3
@@ -156,6 +162,7 @@ personas en relación contractual ..............................................
  3.1  Resumen de las declaraciones prestadas (sujeto a protección de la identidad de las personas) ..............................17
 
 ## Página 6
+
 
  3.1.1  Empleados del gestor de la vía y del transportista, incluidas personas en relación
 contractual ...............................................................................................................17
@@ -197,6 +204,7 @@ manejo y uso ...................................................................
 
 ## Página 7
 
+
  4.1  Descripción final de la excepción .......................................................................47
  4.1.1  Descripción final de la excepción basada en los hechos constatados 
 en el punto 3 .............................................................................................................47
@@ -221,8 +229,8 @@ en el punto 3 ..................................................................
 75,7 ...........................................................................................................................60
  Foto 5: orden PV redactada por el maquinista del tren Os 9707 según el dictado del jefe de estación DOZ est. Louny .................................................................................................................61
 
-
 ## Página 8
+
 
 ### Lista de siglas y símbolos utilizados
 COP
@@ -265,8 +273,8 @@ GVD                                             gráfico de circulación de tren
 GTN
 superestructura gráfico-tecnológica
 
-
 ## Página 9
+
 
 HDV
 vehículo ferroviario de tracción
@@ -324,8 +332,8 @@ competencia de la
 Administración de la Infraestructura Ferroviaria, organización estatal, con base en la Instrucción del director general n.º 8/2008, n.º de ref.: 12 
 026/08-OKS, en vigor desde el 1. 7. 2008, en su versión vigente
 
-
 ## Página 10
+
 
 SŽDC (ČD) D 2/2
 norma interna del explotador de la vía, SŽDC 
@@ -374,8 +382,8 @@ ley n.º 262/2006 Sb., Estatuto de los Trabajadores, en su versión vigente
 žst.
 estación de ferrocarril
 
-
 ## Página 11
+
 
 ##  1 RESUMEN
 Grupo del suceso:         accidente.
@@ -407,10 +415,10 @@ Causas en el sist. de seg.:
 especial de circulación intencionada y organizada de un vehículo ferroviario al margen de este precepto jurídico de obligado cumplimiento general, 
 lo que tuvo como consecuencia el no respeto de otras disposiciones 
 relativas a las maniobras, establecidas en dicho decreto;
-2) los procedimientos tecnológicos del explotador de la vía no establecen un procedimiento obligatorio para la persona que conduce el DV del tren atascado para la determinación unívoca de 
-
+2) los procedimientos tecnológicos del explotador de la vía no establecen un procedimiento obligatorio para la persona que conduce el DV del tren atascado para la determinación unívoca de
 
 ## Página 12
+
 
 la posición kilométrica del frente (final) del tren y el procedimiento de dicha persona y de las personas que organizan el transporte ferroviario en los casos en que dicha posición 
 no pueda determinarse de forma unívoca;
@@ -442,26 +450,25 @@ establecer de forma unívoca las condiciones de circulación de PMD que circula 
 ###  2.1 Suceso extraordinario
 ###  2.1.1 Fecha, hora exacta y lugar del suceso extraordinario
 El SE tuvo lugar el día 31. 3. 2012 a las 15:27 horas en la vía férrea, nacional, de vía única, línea n.º 529C, Kralupy nad Vltavou – Most, entre las estaciones de ferrocarril Peruc y Klobuky v Čechách, pk 75,628.
-###  2.1.2 Descripción del suceso extraordinario y del lugar del accidente, incluida la actuación del sistema integrado de emergencias y del servicio de rescate
-El día 31. 3. 2012, a las 14:58 horas, poco después de salir de la parada Telce, se detuvo en la vía de línea por avería el tren Os 9756, compuesto únicamente por la LMT, que circulaba desde la est. Slaný hasta la est. Louny. El maquinista del tren Os 9756 intentó eliminar la avería, pero comprobó que no era capaz de hacerlo por sus propios medios. Por ello solicitó una LMT de refuerzo. En ese momento, se encontraba detenido en la 1.ª vía de la est. Peruc el tren Os 9707, compuesto únicamente por la LMT, que circulaba desde la est. Louny hasta la est. Slaný, y esperaba el cruce regular con el tren Os 9756. La jefa de maniobras DOZ de la est. Louny comunicó mediante el aparato de telecomunicaciones al maquinista del tren Os 9707 que iría a buscar el tren Os 9756 varado y, con ese fin, le dictó la orden Pv para PMD. Mediante la maniobra del aparato de enclavamiento permitió después la salida de la LMT de refuerzo como PMD desde la est. Peruc hacia la vía de línea hasta el pk 75,500, donde debía encontrarse el tren Os 9756 varado. El maquinista del PMD salió de la est. Peruc y, al avistar la cabeza del tren Os 9756, que esperaba a unos 120 m de distancia, aplicó el frenado de acción rápida y comenzó a silbar intensamente. Sin embargo, no logró evitar la colisión de las LMT.
-El maquinista del tren Os 9756, tras solicitar la LMT de refuerzo, señaló la cabeza del tren con la señal «Fin de tren» y salió a esperar la llegada del PMD. Al comprobar que el PMD circulaba demasiado rápido, comenzó a dar la señal «Alto, deténgase por todos los medios», a pesar de lo cual se produjo la colisión de las LMT. El inicio del SE lo comunicó telefónicamente a la jefa de maniobras de la est. Louny.
-En el lugar del SE se constató mediante inspección que la colisión se produjo en el pk 75,628. El tren Os 9756 retrocedió tras la colisión en dirección a la est. Klobuky v Čechách, con su cabeza en el pk 75,622, y el PMD retrocedió tras la colisión en dirección a la est. Peruc, con su cabeza en el pk 75,632. Según la disposición de los restos en la vía, el punto de colisión se determinó en el pk 75,628. Ambas LMT presentaban daños visibles. En la LMT del tren Os 9756 se produjo además una fuga de gasóleo del depósito de combustible. Mediante la inspección de los componentes de la vía no se detectaron defectos. En los cantos de los raíles, a lo largo de 64 m, desde el pk 75,702 hasta el extremo de la LMT de refuerzo, se detectó una huella clara de frotado y frenado. Cerca del extremo del tren Os 9756, a unos 8 m a la derecha en el sentido de su circulación original, se detectó un marcador hectométrico instalado con la indicación 75,6 perfectamente legible. A la izquierda en el sentido de circulación original del tren Os 9756, a unos 78 m por delante de su cabeza, se detectó un marcador hectométrico instalado con la indicación 75,7 perfectamente legible.
-En el SE resultó herida 1 pasajera del tren Os 9756, actuando en el lugar el SEM, el BR SŽDC y la PC.
-
+###  2.1.2 Descripción del suceso extraordinario y del lugar del accidente, incluida la actividad del sistema integrado de emergencia y del servicio de rescate
+El día 31. 3. 2012, a las 14:58 horas, poco después de la salida de la parada Telce, se detuvo en la vía de línea por avería el tren Os 9756, compuesto por la propia HDV, que circulaba desde la est. Slaný hasta la est. Louny. El maquinista del tren Os 9756 intentó eliminar la avería, pero comprobó que no era capaz de hacerlo por sus propios medios. Por ello solicitó una HDV de asistencia. En ese momento se encontraba detenido en la 1. SK de la est. Peruc el tren Os 9707, compuesto por la propia HDV, que circulaba desde la est. Louny hasta la est. Slaný, y esperaba el cruce regular con el tren Os 9756. La jefa de maniobras DOZ de la est. Louny comunicó mediante el aparato de telecomunicaciones al maquinista del tren Os 9707 que iría a buscar el tren Os 9756 varado, y con ese fin le dictó la orden Pv para PMD. A continuación, mediante la maniobra del aparato de enclavamiento, permitió la salida de la HDV de asistencia como PMD desde la est. Peruc hacia la vía de línea hasta el pk 75,500, donde debía encontrarse el tren Os 9756 varado. El maquinista de PMD partió de la est. Peruc y, al avistar la cabeza del tren Os 9756, que esperaba a unos 120 m de distancia, aplicó el frenado de acción rápida y comenzó a silbar intensamente. Sin embargo, no logró evitar la colisión con la DV.
+El maquinista del tren Os 9756, tras solicitar la HDV de asistencia, señaló la cabeza del tren con la señal "Fin de tren" y salió a esperar la llegada del PMD. Al comprobar que el PMD circulaba demasiado rápido, comenzó a dar la señal "Pare, deténgase por todos los medios", no obstante, se produjo la colisión con la DV. La creación del SE la comunicó por teléfono la jefa de maniobras de la est. Louny.
+En el lugar del SE se constató mediante inspección que la colisión se produjo en el pk 75,628. El tren Os 9756, tras la colisión, se desplazó hacia atrás en dirección a la est. Klobuky v Čechách, con su cabeza situada en el pk 75,622, y el PMD, tras la colisión, se desplazó hacia atrás en dirección a la est. Peruc, con su cabeza situada en el pk 75,632. Según la disposición de los restos en la vía, el punto de colisión se determinó en el pk 75,628. Ambas HDV presentaban daños visibles. En la HDV del tren Os 9756 se produjo además una fuga de gasóleo del depósito de combustible. Mediante la inspección de los componentes de la vía no se detectaron defectos. En las cabezas de los raíles, a lo largo de 64 m, desde el pk 75,702 hasta el extremo de la HDV de asistencia, se constató una huella clara de frenado y de silbido. Cerca del extremo del tren Os 9756, a unos 8 m a la derecha en el sentido de su circulación original, se constató un hectometraje instalado con la indicación 75,6 perfectamente legible. A la izquierda en el sentido de la circulación original del tren Os 9756, a unos 78 m por delante de su cabeza, se constató un hectometraje instalado con la indicación 75,7 perfectamente legible.
+En el SE resultó herida 1 pasajera del tren Os 9756, en el lugar actuaron el RZS, el HZS SŽDC y el PČR.
 
 ## Página 14
 
-Fig. n.º 1: croquis del lugar del SE
-###  2.1.3 Decisión de iniciar la investigación de las causas y circunstancias del suceso, composición del equipo de personas cualificadas y forma de dirigir la investigación de las causas y circunstancias del suceso
-El inicio del SE fue comunicado a la DI en el COP a las 15:49 horas. Dadas las consecuencias y el carácter del SE, la DI inició la investigación de las causas y circunstancias del inicio del SE de conformidad con lo dispuesto en el apartado 1 del § 53b de la ley n.º 266/1994 Sb., en el lugar de inicio del SE. El permiso para iniciar los trabajos de despeje en el lugar del SE se emitió a las 17:37 horas. La investigación y determinación de las causas y circunstancias del inicio del SE fue encomendada a la Inspección Territorial de Praga. Sobre la base de los hechos constatados no fue necesario constituir un equipo de VI de la DI. La forma de proceder se estableció operativamente según la evolución de la investigación, incluido el uso de consultas con otras personas cualificadas de la DI.
+Obrajo n.º 1: boceto del lugar del SU
+###  2.1.3 Decisión de iniciar la investigación de las causas y circunstancias de la producción, composición del equipo de personas cualificadas y método de dirección de la investigación de las causas y circunstancias de la producción
+La producción del SU fue comunicada a la DI por el COP a las 15:49 horas. Dadas las consecuencias y el carácter del SU, la DI inició la investigación de las causas y circunstancias de la producción del SU de conformidad con lo dispuesto en el apartado 1 del § 53b de la Ley n.º 266/1994 Sb., en el lugar de producción del SU. El permiso para iniciar los trabajos de despeje en el lugar del SU se emitió a las 17:37 horas. La investigación y determinación de las causas y circunstancias de la producción del SU fue encomendada a la Inspección Territorial de Praga. Sobre la base de los hechos constatados, no fue necesario constituir un equipo de VI de la DI. El método de procedimiento se estableció operativamente según la evolución de la investigación, incluido el uso de consultas con otras personas cualificadas de la DI.
 En la investigación, la DI partió de sus propios conocimientos y hallazgos, de su propia documentación fotográfica y, además, de la documentación solicitada al operador de la vía y al transportista.
-Algunos documentos fueron facilitados por el operador de la vía únicamente tras varias reclamaciones, y otros no en absoluto – véase el punto 3.2.3 de este informe, lo que dificultó y prolongó innecesariamente el desarrollo de la investigación.
-###  2.2 Circunstancias del suceso extraordinario
-###  2.2.1 Empleados participantes del operador de la vía y del transportista, personas en relación contractual y demás participantes y testigos
+Algunos documentos fueron facilitados por el operador de la vía únicamente tras varias urgencias, otros no en absoluto – véase el punto 3.2.3 de este informe, lo que dificultó y prolongó innecesariamente el desarrollo de la investigación.
+###  2.2 Circunstancias del suceso excepcional
+###  2.2.1 Empleados participantes del operador de la vía y del transportista, personas en relación contractual y otros participantes y testigos
 Empleados participantes del transportista:
 
-
 ## Página 15
+
 
 ● maquinista del tren Os 9756, empleado de ČD, DKV Plzeň, PP Louny;
 ● maquinista del PMD (del tren Os 9707), empleado de ČD, DKV Plzeň, PP Louny;
@@ -481,8 +488,8 @@ Longitud total 13,9 metros, 2 ejes, peso total 20 toneladas, porcentajes de fren
 El tramo entre estaciones Klobuky v Čechách – Peruc es de vía única, equipado con aparato de enclavamiento de línea de 3.ª categoría – barrera automática AHP 03, sin señales de sección. No está establecida la transmisión de señales del enclavamiento de tren. El aparato de enclavamiento de la est. Peruc adyacente se controla a distancia desde la est. Louny.
 En el sentido desde la est. Peruc hacia la parada Telce, la vía transcurre primero por una corta curva a la derecha de radio 303 m, a continuación 900 m en línea recta hasta el pk 76,974, donde pasa a una curva a la izquierda de 416 m de longitud y radio 400 m, desde allí transcurre en línea recta con una ligera pendiente de 4,38 ‰ con punto alto en el pk 75,996. Desde allí la nivelación cambia a una pendiente de 6,25 ‰, desde el pk 75,916 pendiente de 11,12 ‰. En el pk 75,836 comienza una curva a la izquierda de 377 m de longitud y radio 490 m en pendiente de 13,92 ‰, donde se encuentra también el lugar de inicio del SE. En todo el tramo, el cuerpo de la vía transcurre por un paisaje abierto,
 
-
 ## Página 16
+
 
 de uso agrícola, predominantemente a la cota del terreno circundante. El límite entre el terreno de la vía y los demás terrenos está irregularmente cubierto, principalmente por arbustos y arbolado espontáneo. Tras el antiguo paso a nivel, desde el pk 76,150, a la izquierda en el sentido de circulación de las LMT desde la est. Peruc, la vía desciende ligeramente por debajo de la cota del terreno circundante. En este borde de terreno, de hasta 1,5 m de altura, la vegetación de arbolado espontáneo bajo es casi continua. Esta vegetación, junto con la ligera hundición respecto al terreno circundante, impide la visibilidad hacia la curva en el lugar de inicio del SE desde ambos lados de la circulación de las LMT. Desde el PMD en circulación no era posible ver la LMT del tren varado y, asimismo, desde el tren varado no era posible ver la LMT del PMD. Antes del comienzo de este tramo sin visibilidad, en el sentido de circulación del PMD existe una visión prácticamente despejada de la vía en el ámbito de la parada Telce, hasta aproximadamente el pk 75,400. Asimismo, desde el lugar del SE existe una visión despejada de la cabecera de la est. Peruc.
 La velocidad de línea en el lugar del SE, entre el pk 71,545 y el pk 77,845, está establecida en ambos sentidos por la señal del indicador de velocidad N «Velocidad de línea 70 km.h-1». Entre el pk 77,845 y el pk 78,750, incluida la est. Peruc circulando por la 1.ª vía, la velocidad de línea en ambos sentidos está establecida por la señal del indicador de velocidad N «Velocidad de línea 50 km.h-1».
@@ -500,8 +507,8 @@ El tráfico ferroviario entre la est. Klobuky v Čechách y la est. Peruc se int
 ###  2.2.7 Activación del plan del sistema integrado de emergencias, de la policía y del servicio de emergencias médicas y secuencia de los hechos
 El plan del sistema integrado de emergencias se activó simultáneamente con la notificación del inicio de este SE a los órganos investigadores según el apartado 3 del § 7 del decreto n.º 376/2006 Sb. Al lugar de inicio del SE acudió el BR SŽDC – JPO Ústí nad Labem, el SEM de Louny y la PC, SKPV Louny. El expediente de la PC se tramita bajo el n.º de referencia: KRPU-78928/TČ-2012-040772.
 
-
 ## Página 17
+
 
 ###  2.3 Fallecimientos, lesiones y daños materiales
  2.3.1 En pasajeros y terceras personas, empleados del operador de la vía y del transportista, incluidas personas en relación contractual
@@ -531,6 +538,7 @@ jefa de maniobras DOZ de la est. Louny, del Acta con empleado de fecha 2. 4. 201
 ● hacia las 15:06 horas comunicó el maquinista del tren Os 9756 una avería en la LMT, hablando con la jefa de maniobras de la est. Louny;
 
 ## Página 18
+
 
 así o 10 minutos más tarde, el maquinista del tren Os 9756 comunicó que no era capaz de eliminar la avería del HDV
 ●
@@ -581,8 +589,8 @@ de la empresa explotadora de la vía y del transportista, y consideró que surgi
 no recuerda haber planteado en el pasado el envío de un HDV auxiliar para el tren atascado.
 ●
 
-
 ## Página 19
+
 
 Del Registro con el empleado de 12. 10. 2012 del jefe de estación de la estación de Louny se desprende, entre otras cosas:
 ●el maquinista del tren Os 9756 le comunicó telefónicamente una avería en el HDV; el maquinista indicó que aún intentaría eliminar la avería; esta información la trasladó a la jefa de estación DOZ de la estación de Louny, en cuyo ámbito se encontraba el tren;
@@ -615,8 +623,8 @@ Del Registro con el empleado de 2. 4. 2012 del maquinista del tren Os 9756 se de
 ●vio el HDV auxiliar que llegaba a gran velocidad, chirriaba durante la frenada,
 ●sin embargo se produjo el impacto contra el tren Os 9756 detenido;
 
-
 ## Página 20
+
 
 ●comunicó telefónicamente la aparición de una MU al jefe de estación de la estación de Louny.
 Del acta de declaración del testigo realizada por la Policía Nacional (PČR) al maquinista del tren Os 9756
@@ -645,56 +653,76 @@ Del Registro con el empleado de 2. 4. 2012 del maquinista del PMD se desprende, 
 ●toda la comunicación con la jefa de estación DOZ de la estación de Louny se realizó mediante TRS;
 ●desde la salida de la estación de Peruc hasta el pk 75,800, condujo el HDV a una velocidad próxima a la velocidad de la vía; a partir de ahí comenzó a reducir la velocidad gradualmente;
 
-
 ## Página 21
 
-●en el camino intentó encontrar en el teléfono móvil el número de teléfono del maquinista del tren Os 9756;
-●a una distancia de unos 80 m vio al maquinista del tren Os 9756 de pie junto a la vía y comenzó a frenar intensamente;
-●el tren Os 9756 detenido lo vio un momento después, a una distancia de unos 70 m;
-●los carriles estaban mojados, por lo que a pesar del chirrido se produjo el derrape de las ruedas y el impacto contra el tren Os 9756 detenido;
-●según la posición kilométrica indicada en la orden, esperaba el tren Os 9756 al menos
-a 120 m de distancia.
-Del acta de declaración del imputado realizada por la Policía Nacional (PČR) al maquinista del PMD el
+en el camino intentaba encontrar en su teléfono móvil el número de teléfono del maquinista del tren Os 9756 ●;
+a una distancia de unos 80 m vio al maquinista del tren Os 9756 ● de pie junto a la vía y comenzó a frenar intensamente;
+vio el tren detenido Os 9756 un momento después, a una distancia de unos 70 m;
+●
+los raíles estaban mojados, por lo que a pesar del arenado se produjo el derrape de las ruedas y el impacto contra ●
+el tren detenido Os 9756;
+según la posición kilométrica indicada en la orden, esperaba que el tren Os 9756 estuviera al menos ●
+a 120 m más lejos.
+Del acta de interrogatorio del acusado realizado por la PČR al maquinista de PMD el
 16. 8. 2012 se desprende además:
-●si el tren Os 9756 hubiera estado con la cabeza en el pk 75,500, no se habría producido la colisión.
-El maquinista del PMD no se presentó a la prestación de explicaciones requerida por la DI, por recomendación de su representante legal.
-Del acta de declaración del testigo realizada por la Policía Nacional (PČR) al jefe de tren del tren Os 9756 el 16. 8. 2012 se desprende:
-●la circulación del tren Os 9756 se desarrolló sin incidencias;
-●poco después de salir de la parada Telce, el tren se detuvo por una avería;
-●tras salir de la parada Telce, se encontraban en el tren 4 pasajeros;
-●cuando se informó de la avería a los pasajeros, 1 pasajero bajó por petición propia;
-●el maquinista intentó eliminar la avería;
-●estaba presente cuando el maquinista determinaba la posición del tren mirando desde el puesto de conducción, y ella misma vio el hito hectométrico;
-●no logró leer la indicación del hito hectométrico debido a la distancia, pero era legible (nota del redactor: cabe pensar que se refiere al hito hectométrico en el pk 75,7, que se encontraba aproximadamente a 72 m de la cabeza del tren; el hito hectométrico en el pk 75,6 se encontraba a unos 10 m detrás del tren, por lo que era legible desde el HDV, y el hito hectométrico en el pk 75,5 se encontraba aproximadamente a 110 m detrás del tren y su indicación era con toda seguridad ilegible desde el HDV);
-●desde el espacio de la plataforma de acceso, por las puertas abiertas, a través del puesto de conducción, vio llegar al PMD;
-●el HDV del PMD se aproximaba rápidamente y frenaba intensamente;
-●el impacto fue perceptible, pero aunque en el momento del impacto estaba de pie, no cayó;
-●los dos HDV se separaron tras el impacto;
-●inmediatamente después del impacto fue a comprobar si algún pasajero estaba herido; poco después, los dos maquinistas también comprobaron el estado de los pasajeros;
-●los pasajeros estaban sentados en sus asientos; 1 pasajera se quejó de dolor en la nuca.
-La jefe de tren del tren Os 9707 indicó en el Registro Oficial de evacuación de las personas implicadas en la colisión de trenes de viajeros de motor del 31. 3. 2012 en la localidad de Telce, realizado por la Policía Nacional (PČR) en el lugar de la MU:
-●circulaba sola en el espacio para pasajeros del HDV auxiliar;
-●durante la MU sintió el impacto; no sufrió lesiones.
+si el tren Os 9756 hubiera estado con el morro en el km 75,500, no se habría producido la colisión.
+●
+El maquinista de PMD no se presentó a prestar la declaración requerida por el DI, por recomendación de su
+abogado.
+Del acta de interrogatorio del testigo realizado por la PČR el 16. 8. 2012 al jefe de tren del tren Os 9756 se
+desprende:
+la circulación del tren Os 9756 transcurría sin incidencias;
+●
+poco después de salir de la parada Telce, el tren se detuvo por avería;
+●
+tras salir de la parada Telce, en el tren había 4 viajeros;
+●
+cuando se informó a los viajeros de la avería, 1 viajero bajó a petición propia;
+●
+el maquinista intentó eliminar la avería;
+●
+estaba presente cuando el maquinista comprobaba la posición del tren mirando desde la cabina del ●
+maquinista, y ella misma vio el marcador hectométrico;
+no logró leer la indicación del marcador hectométrico debido a la distancia, pero era ●
+legible (nota del redactor: es posible entender que se refiere al marcador hectométrico en el km 75,7, que se encontraba aproximadamente 72 m delante del morro del tren; el marcador hectométrico en el km 75,6 se encontraba a unos 10 m detrás del tren, es decir, era legible desde la cabina de conducción, y el marcador hectométrico en el km 75,5 se encontraba aproximadamente 110 m detrás del tren y su indicación era totalmente ilegible desde la cabina de conducción);
+desde el espacio de la plataforma de acceso, por las puertas abiertas, a través de la cabina del ●
+maquinista, vio llegar a PMD;
+la cabina de conducción de PMD se aproximaba rápidamente y frenaba intensamente;
+●
+el impacto fue perceptible, pero aunque en el momento del impacto estaba de pie, no cayó;
+●
+las dos cabinas de conducción se separaron tras el impacto;
+●
+inmediatamente después del impacto fue a comprobar si algún viajero estaba herido, poco después de ella ●
+también comprobaron el estado de los viajeros ambos maquinistas;
+los viajeros estaban sentados en sus asientos, 1 viajero se quejaba de dolor en la nuca.
+●
+La jefa de tren del tren Os 9707 indicó en el Registro Oficial de evacuación de las personas implicadas en la ●
+colisión de trenes de viajeros de motor el 31. 3. 2012 en la localidad de Telce, realizado por la PČR en el lugar del ●
+MU:
+circulaba sola en la zona de viajeros de la cabina de conducción auxiliar;
+●
+en el MU sintió el impacto, no sufrió lesiones.
 ●
 
 ## Página 22
 
-La jefa de tren del tren Os 9707 no se presentó a prestar la declaración requerida por el DI.
+A la solicitud de aclaración requerida por el DI, la jefa de tren del tren Os 9707 no se presentó.
 ###  3.1.2 Otras personas
-La información facilitada a la PČR por los pasajeros del tren Os 9756 no guardaba relación con las causas y circunstancias del origen del MU.
+La información facilitada por la Policía de la República Checa (PČR) de los pasajeros del tren Os 9756 no guardaba relación con las causas y circunstancias del origen del MU.
 ###  3.2 Sistema de garantía de la seguridad
 ###  3.2.1 Organización marco y forma en que se emiten y ejecutan las instrucciones
-La disposición § 22 apartado 2 letra d) de la Ley núm. 266/1994 Sb. impone al explotador de la infraestructura implantar un sistema de seguridad de la explotación de la infraestructura y garantizar su cumplimiento. La investigación determinó que el explotador de la infraestructura tiene implantado dicho sistema y ha emitido, entre otros, normas internas de explotación de la infraestructura, cuya parte integrante son los procedimientos tecnológicos que rigen las actividades de aseguramiento de la circulación de maniobras entre las estaciones y las actividades de envío de una locomotora de refuerzo (HDV) para un tren detenido.
-Sobre la base de otros hechos constatados, el DI concluye que dichos procedimientos tecnológicos de referencia adoptados no establecen de forma inequívoca determinadas obligaciones de las personas que dirigen los trenes detenidos (DV) ni de las personas que organizan el transporte ferroviario. Asimismo concluye que los procedimientos tecnológicos que establecen obligaciones a la persona que dirige la locomotora de maniobras (PMD), que no ordenan la conducción de la circulación de la PMD según visibilidad, son contrarios a la legislación vigente. El explotador de la infraestructura no ha garantizado así el cumplimiento de los requisitos para la implantación del sistema de seguridad de la explotación de la infraestructura.
+La disposición del § 22 apartado 2 letra d) de la Ley núm. 266/1994 Sb. impone al gestor de la infraestructura implantar un sistema de seguridad de la explotación de la infraestructura y garantizar su cumplimiento. La investigación determinó que el gestor de la infraestructura tiene implantado este sistema y ha emitido, entre otros, normativa interna sobre la explotación de la infraestructura, cuya parte son los procedimientos tecnológicos que rigen las actividades de aseguramiento de la circulación de maniobras entre las estaciones de tráfico y las actividades de envío de una locomotora de refuerzo (HDV) para un tren varado.
+Sobre la base de otros hechos constatados, el DI concluye que estos procedimientos tecnológicos de referencia adoptados no establecen de forma inequívoca determinadas obligaciones de las personas que dirigen trenes varados (DV) ni de las personas que organizan el transporte ferroviario. Asimismo concluye que los procedimientos tecnológicos que establecen obligaciones a la persona que dirige el PMD y que no ordenan la conducción del PMD según la visibilidad directa están en contradicción con la legislación vigente. El gestor de la infraestructura no ha garantizado así el cumplimiento de los requisitos para la implantación del sistema de seguridad de la explotación de la infraestructura.
 Se detectó una anomalía.
-La disposición § 35 apartado 2 letra f) de la Ley núm. 266/1994 Sb. impone a los transportistas implantar un sistema de seguridad de la explotación del transporte ferroviario y garantizar su cumplimiento. La investigación determinó que el transportista ČD tiene implantado dicho sistema y ha emitido, entre otros, normas internas, cuya parte integrante son los procedimientos tecnológicos con los que se aseguran las actividades establecidas por las normas para la explotación del transporte ferroviario, en el presente caso especialmente para la conducción de los vehículos ferroviarios, que incluyen también los procedimientos tecnológicos que garantizan el respeto y el cumplimiento de las instrucciones del explotador de la infraestructura.
-Sobre la base de otros hechos constatados, el DI concluye que el transportista del tren Os 9756 y la PMD no garantizaron el cumplimiento de los mencionados procedimientos tecnológicos y, con ello, del sistema implantado de seguridad de la explotación del transporte ferroviario.
+La disposición del § 35 apartado 2 letra f) de la Ley núm. 266/1994 Sb. impone a los transportistas implantar un sistema de seguridad de la explotación del transporte ferroviario y garantizar su cumplimiento. La investigación determinó que el transportista ČD tiene implantado este sistema y ha emitido, entre otros, normativa interna, cuya parte son los procedimientos tecnológicos con los que se aseguran las actividades establecidas por las normas para la explotación del transporte ferroviario, en el presente caso en particular para la conducción de los vehículos ferroviarios, que incluyen también los procedimientos tecnológicos que aseguran el respeto y el cumplimiento de las instrucciones del gestor de la infraestructura.
+Sobre la base de otros hechos constatados, el DI concluye que el transportista del tren Os 9756 y el PMD no garantizaron el cumplimiento de los procedimientos tecnológicos anteriormente mencionados y, con ello, del sistema implantado de seguridad de la explotación del transporte ferroviario.
 Se detectó una anomalía.
-###  3.2.2 Requisitos de los empleados del explotador de la infraestructura y del transportista y su aplicación
-La condición de aptitud para la conducción de un vehículo ferroviario la establecen los §§ 46b – 46r de la Ley núm. 266/1994 Sb. La validez de las tarjetas de aptitud para la conducción de vehículos ferroviarios en la red ferroviaria estatal y regional está regulada por la disposición del Art. II de las Disposiciones transitorias de la Ley núm. 134/2011 Sb., por la que se modifica la Ley núm. 266/1994 Sb., de ferrocarriles, en su texto vigente, y la Ley núm. 634/2004 Sb., de tasas administrativas, en su texto vigente. La familiarización de la persona que dirige el DV con las condiciones de la vía en las líneas y estaciones la impone al explotador del transporte ferroviario el § 35 apartado 1 letra a) del Decreto núm. 173/1995 Sb.
-
+###  3.2.2 Requisitos para los empleados del gestor de la infraestructura y del transportista y su aplicación
+La condición de aptitud para la conducción de vehículos ferroviarios la establecen los §§ 46b – 46r de la Ley núm. 266/1994 Sb. La validez de los certificados de aptitud para la conducción de vehículos ferroviarios en la red ferroviaria de ámbito nacional y regional está regulada por la disposición del Art. II de las Disposiciones Transitorias de la Ley núm. 134/2011 Sb., por la que se modifica la Ley núm. 266/1994 Sb., de ferrocarriles, en su redacción vigente, y la Ley núm. 634/2004 Sb., de tasas administrativas, en su redacción vigente. La familiarización de la persona que dirige el DV con las condiciones de la vía en las líneas y estaciones de tráfico la impone al gestor del transporte ferroviario el § 35 apartado 1 letra a) del Decreto núm. 173/1995 Sb.
 
 ## Página 23
+
 
 El requisito de competencia profesional de las personas que realizan el transporte ferroviario lo establecen el § 35 apartado 1 letra f) de la Ley núm. 266/1994 Sb. y el § 33 apartado 2 del Decreto núm. 173/1995 Sb.
 Las condiciones de edad, formación y competencia profesional de las personas para la conducción de locomotoras (HDV) en la red ferroviaria estatal las establecen los §§ 1, 2 y 4 del Decreto núm. 16/2012 Sb.; sobre la base de la mencionada disposición transitoria de la Ley núm. 266/1994 Sb., en el momento del origen del MU la edad, la formación y la competencia profesional de las personas implicadas venían aún determinadas sobre la base del § 8 y del § 9 apartado 1 letras a) – f) del Decreto núm. 101/1995 Sb.
@@ -713,8 +741,8 @@ No se detectó anomalía.
 ###  3.2.3 Procedimiento de control interno de la seguridad y sus resultados
 Los procedimientos tecnológicos para la actividad de control se encuentran recogidos en las normas internas y otras medidas del explotador de la infraestructura y del transportista.
 
-
 ## Página 24
+
 
 La realización de controles de la explotación segura de la infraestructura por parte del explotador de la infraestructura se verificó mediante el análisis del registro de actividad de control facilitado por PO Louny desde el 1. 9. 2011 hasta el origen del MU. La actividad de control en el ámbito de PO Louny se rige por el documento «Medida del director de la división de gestión de RCP sobre la actividad de control», ref. núm.: 28411/11-O11 de fecha 1. 9. 2011; dicho documento
 ### no fue facilitado por el explotador de la infraestructura a pesar de la solicitud reiterada del DI. En la carta de fecha 8. 2. 2013, el explotador de la infraestructura comunicó que la frecuencia de realización de controles en el periodo examinado había sido fijada a los empleados directivos de la siguiente manera:
@@ -861,8 +889,8 @@ est. Žatec
 3
 8,82
 
-
 ## Página 25
+
 
 | Nombre de la estación | Número absoluto de controles | DK DK+ , St/ solo St | Número de controles relativos [%] | Número absoluto de controles con detección de anomalías | Número relativo de controles con detección de anomalías [%] |
 | est. Žatec západ | 33 | 20/13 | 752 , | 2 | 606 , |
@@ -898,6 +926,7 @@ control de documentación de tráfico 7 veces;
 
 ## Página 26
 
+
 control de la entrega del servicio 2x;
 ●
 ejercicio directo del servicio 8x;
@@ -922,31 +951,40 @@ Según la documentación presentada, en el período observado se realizaron 93 i
 Mediante la actividad de inspección se detectaron 23 anomalías en el ejercicio de los empleados, todas ellas fueron tratadas. Como se aprecia en la figura n.º 2, el centro de gravedad de la actividad de inspección se centró en el ramal Most – Louny – Rakovník y en el ramal Postoloprty – Louny – Lovosice. En el ramal Louny – Klobuky v Čechách – Slaný, la realización de la actividad de inspección fue totalmente mínima; del número total de inspecciones, en la línea Slaný – Louny se realizaron solo 6 inspecciones, es decir, el 6,45 % de todas las inspecciones realizadas.
 Además, se realizaron 3 inspecciones en los trenes Os 9753 (el 5. 9. 2011, el 6. 11. 2011 y el 20. 11. 2011), 2 inspecciones en los trenes Os 9754 (el 6. 11. 2011 y el 20. 11. 2011) y 1 inspección en el tren Sp 1711 el 4. 1. 2012. Solo se detectó una anomalía, el 6. 11. 2011, falta de firma en el libro de entrega.
 
-
 ## Página 27
+
 
 Fig. n.º 2: distribución de la actividad de inspección de PP Louny
 La realización de viajes de inspección por los empleados designados de DKV según el artículo 455 de la norma interna ČD V 1: «El jefe superior de DKV o su sustituto debe realizar al menos dos veces al año (por regla general, antes del nuevo JŘ y antes del período invernal) la inspección de su ámbito, es decir, de todas las unidades operativas subordinadas. El jefe de operaciones, el jefe de reparaciones, los ingenieros y técnicos de transporte ferroviario designados por el jefe superior de DKV en el ámbito del jefe de operaciones y del jefe de reparaciones realizarán 1 vez cada 2 meses un viaje de inspección en una locomotora según las instrucciones del jefe superior de DKV. Estos viajes deben ser irregulares (de día y de noche), con distintos equipos y, según sea necesario, también en días de descanso laboral», no fue acreditado por el transportista y, por tanto, no fue posible evaluar sus posibles hallazgos. Tampoco fue acreditado por el transportista la realización de inspecciones aleatorias de los registros del registrador de velocidad según el artículo 70 de la norma interna V8/II:
 «El jefe superior de DKV establece en su ámbito el método de inspección y los empleados responsables que realizan el análisis de los registros registrados por el registrador de velocidad según los perfiles de velocidad vigentes, de modo que se controle la actividad del registrador de velocidad, la tecnología de conducción de la locomotora y
 
-
 ## Página 28
 
-el cumplimiento de las reglas de explotación del transporte ferroviario. La inspección debe realizarse de modo que al menos dos veces al año se controle el registro de la conducción de cada maquinista...».
-El transportista del tren Os 9756 y PMD no garantizó la realización completa de la actividad de inspección y, sobre la base de otros hechos detectados, el DI constata que tampoco se garantizó su suficiente eficacia.
-Se detectaron anomalías.
-Los requisitos para los vehículos ferroviarios de la línea de ámbito nacional se indican en las partes I. y II. del anexo n.º 3 del decreto n.º 173/1995 Sb. El contenido de las condiciones técnicas de los vehículos ferroviarios de la línea de ámbito nacional lo regula la parte I. del anexo n.º 4 del decreto n.º 173/1995 Sb. Los intervalos de tiempo o kilométricos para la realización de la inspección técnica periódica los establece el anexo n.º 5 del decreto n.º 173/1995 Sb. El alcance de la inspección técnica se indica en la parte I. del anexo n.º 6 del decreto n.º 173/1995 Sb.
-La HDV CZ-ČD 95 54 5 809 495-5 tenía el Certificado de aptitud n.º de registro PZ 5669/98 – V. 22, expedido por la Autoridad Ferroviaria el 8. 12. 1998, inspección técnica periódica realizada el 20. 12. 2011.
-La HDV CZ-ČD 95 54 5 809 434-4 tenía el Certificado de aptitud n.º de registro PZ 4873/98 – V. 22, expedido por la Autoridad Ferroviaria el 14. 8. 1998, inspección técnica periódica realizada el 21. 11. 2011.
-No se detectaron anomalías.
-###  3.2.4 Interfaz entre los distintos sujetos implicados y los componentes de la vía de tráfico
-El explotador de la vía ferroviaria, categoría de ámbito nacional, Kralupy nad Vltavou – Most fue la Administración de la Vía de Tráfico Ferroviario, organización estatal, con domicilio en Dlážděná 1003/7, Praha 1 – Nové Město, CP 110 00, en virtud de la Autorización Administrativa expedida por la Autoridad Ferroviaria el 29. 5. 2008 bajo el n.º de expediente: 3-4277/07-DÚ/Le, n.º de registro: ÚP/2008/9002.
-El transportista del tren Os 9756 y PMD fue České dráhy, a. s., con domicilio en Nábřeží Ludvíka Svobody 1222, Praha 1, CP 110 15, en virtud de la Licencia para la explotación del transporte ferroviario n.º de registro L/2003/9000, n.º de expediente: 3-2169/03-DÚ/Bp, expedida por la Autoridad Ferroviaria el 17. 9. 2003, con vigencia por tiempo determinado, hasta el 11. 12. 2004. La licencia permite explotar el transporte ferroviario con el fin del transporte público y no público de personas, equipajes y objetos, y la explotación de las actividades enumeradas en la línea de ámbito nacional, que es propiedad de la República Checa y que explota la persona jurídica České dráhy, a. s., según el texto de la Resolución de modificación de licencia n.º de registro L/2004/9000-1, n.º de expediente: 3-974/04-DÚ, de fecha 7. 4. 2004, por la que la licencia expedida pasa a ser de vigencia indefinida y se deroga la disposición sobre la frecuencia del transporte ferroviario explotado a partir del día 1. 5. 2004, la Resolución de modificación de licencia n.º de registro L/2008/9000-6, n.º de expediente: 3-2564/08-DÚ, de fecha 9. 7. 2008, que permite explotar el transporte ferroviario en la línea de ámbito nacional explotada por la Administración de la Vía de Tráfico Ferroviario, organización estatal, la Resolución de modificación de licencia n.º de registro L/2008/9000-7, n.º de expediente: 3-3469/08-DÚ/Le, de fecha 26. 8. 2008, que permite explotar el transporte ferroviario en la línea de ámbito nacional en propiedad de la persona jurídica České dráhy, a. s., y que esta sociedad explota, la Resolución de modificación de licencia n.º de registro L/2008/9000-11, n.º de expediente: DUCR- 3168/10/Le, de fecha 19. 1. 2010, que refleja la nueva composición del órgano estatutario del transportista, y la Resolución de modificación de licencia n.º de registro L/2008/9000-
-12, n.º de expediente: DUCR-61234/11/Bo, de fecha 6. 12. 2011, que refleja la nueva composición del órgano estatutario del transportista.
-El transporte ferroviario fue explotado en virtud del «Contrato n.º 001/09 para la explotación del transporte ferroviario en la vía de tráfico ferroviaria de la línea de ámbito nacional y de las líneas regionales en propiedad de la República Checa, celebrado entre la Administración de la Vía de Tráfico Ferroviario, organización estatal, y la persona jurídica České dráhy, a. s., el 30. 6. 2009, con el Adendo n.º 1 de fecha 13. 4. 2010,
+el cumplimiento de las normas de explotación del transporte ferroviario. La inspección debe realizarse de modo que, al menos dos veces al año, se compruebe el registro de conducción de cada maquinista...".
 
+El operador del tren Os 9756 y PMD no garantizó la realización completa de la actividad de inspección y, sobre la base de otros hechos comprobados, el DI constata que tampoco se garantizó su suficiente eficacia.
+
+Se detectaron defectos.
+
+Los requisitos para los vehículos ferroviarios de la red de ámbito nacional se indican en las partes I. y II. del anexo n.º 3 del decreto n.º 173/1995 Sb. El contenido de las condiciones técnicas de los vehículos ferroviarios de la red de ámbito nacional lo regula la parte I. del anexo n.º 4 del decreto n.º 173/1995 Sb. Los intervalos temporales o kilométricos para la realización de la inspección técnica periódica los establece el anexo n.º 5 del decreto n.º 173/1995 Sb. El alcance de la inspección técnica se indica en la parte I. del anexo n.º 6 del decreto n.º 173/1995 Sb.
+
+El HDV CZ-ČD 95 54 5 809 495-5 contaba con el Certificado de aptitud n.º de registro PZ 5669/98 – V. 22, expedido por la Autoridad Ferroviaria el 8. 12. 1998, inspección técnica periódica realizada el 20. 12. 2011.
+
+El HDV CZ-ČD 95 54 5 809 434-4 contaba con el Certificado de aptitud n.º de registro PZ 4873/98 – V. 22, expedido por la Autoridad Ferroviaria el 14. 8. 1998, inspección técnica periódica realizada el 21. 11. 2011.
+
+No se detectaron defectos.
+
+###  3.2.4 Interfaz entre los distintos sujetos participantes y los componentes de la vía de circulación
+
+El explotador de la vía ferroviaria, categoría de ámbito nacional, Kralupy nad Vltavou – Most fue la Administración de la Vía de Circulación Ferroviaria, organización estatal, con domicilio en Dlážděná 1003/7, Praha 1 – Nové Město, CP 110 00, en virtud de la Autorización Administrativa expedida por la Autoridad Ferroviaria el 29. 5. 2008 bajo el n.º de expediente: 3-4277/07-DÚ/Le, n.º de registro: ÚP/2008/9002.
+
+El operador del tren Os 9756 y PMD fueron los Ferrocarriles Checos, a. s., con domicilio en Nábřeží Ludvíka Svobody 1222, Praha 1, CP 110 15, en virtud de la Licencia para la explotación del transporte ferroviario n.º de registro L/2003/9000, n.º de expediente: 3-2169/03-DÚ/Bp, expedida por la Autoridad Ferroviaria el 17. 9. 2003, con vigencia por tiempo determinado, hasta el 11. 12. 2004. La licencia permite explotar el transporte ferroviario con el fin del transporte público y no público de personas, equipajes y objetos, y la explotación de las actividades enumeradas en la red de ámbito nacional, que es propiedad de la República Checa y que explota la persona jurídica Ferrocarriles Checos, a. s., según la redacción de la Resolución de modificación de licencia n.º de registro L/2004/9000-1, n.º de expediente: 3-974/04-DÚ, de fecha 7. 4. 2004, por la que la licencia expedida pasa a ser de vigencia indefinida y se deroga la disposición sobre la frecuencia del transporte ferroviario explotado a partir del día 1. 5. 2004, la Resolución de modificación de licencia n.º de registro L/2008/9000-6, n.º de expediente: 3-2564/08-DÚ, de fecha 9. 7. 2008, que permite explotar el transporte ferroviario en la red de ámbito nacional explotada por la Administración de la Vía de Circulación Ferroviaria, organización estatal, la Resolución de modificación de licencia n.º de registro L/2008/9000-7, n.º de expediente: 3-3469/08-DÚ/Le, de fecha 26. 8. 2008, que permite explotar el transporte ferroviario en la red de ámbito nacional en propiedad de la persona jurídica Ferrocarriles Checos, a. s., y explotada por esta sociedad, la Resolución de modificación de licencia n.º de registro L/2008/9000-11, n.º de expediente: DUCR- 3168/10/Le, de fecha 19. 1. 2010, que refleja la nueva composición del órgano estatutario del operador, y la Resolución de modificación de licencia n.º de registro L/2008/9000-
+12, n.º de expediente: DUCR-61234/11/Bo, de fecha 6. 12. 2011, que refleja la nueva composición del órgano estatutario del operador.
+
+El transporte ferroviario se explotó en virtud del «Contrato n.º 001/09 para la explotación del transporte ferroviario en la vía de circulación ferroviaria de la red de ámbito nacional y de las redes regionales en propiedad de la República Checa, celebrado entre la Administración de la Vía de Circulación Ferroviaria, organización estatal, y la persona jurídica Ferrocarriles Checos, a. s., el 30. 6. 2009, con el Adendo n.º 1 de fecha 13. 4. 2010,
 
 ## Página 29
+
 
 el Adendo n.º 2 de fecha 10. 12. 2010 y el Adendo n.º 3 de fecha 22. 7. 2011.
 No se detectaron anomalías.
@@ -978,6 +1016,7 @@ i) no supere, durante la circulación, la velocidad máxima permitida, estableci
 
 ## Página 30
 
+
 p) en maniobras, en un bloque automático ocupado, y si así está ordenado, condujo el vehículo ferroviario de tracción bajo las condiciones de circulación según las condiciones de visibilidad“;
 § 2 apartado 1 letra b) del decreto n.º 376/2006 Sb.: “El sistema de garantía de la seguridad de la explotación de la vía y de la explotación del transporte ferroviario contiene, en función del tipo y alcance de las actividades realizadas por el explotador de la vía nacional o regional o por el transportista en dichas vías, estos elementos:
 ●
@@ -1003,8 +1042,8 @@ norma interna de SŽDC (ČD) D2 artículo 602:
 ●
 “El empleado que recibe una orden escrita está obligado a leerla antes de confirmar su recepción. Cualquier discrepancia debe corregirse de inmediato. Si la orden redactada no se ajusta a las disposiciones anteriores sobre su redacción, se negará a recibirla.“;
 
-
 ## Página 31
+
 
 norma interna de SŽDC (ČD) D2 artículo 603:
 ●
@@ -1038,8 +1077,8 @@ norma interna de ČD V15/I artículo 361:
 – la reducción de la velocidad
 – la parada ...“.
 
-
 ## Página 32
+
 
 ###  3.4 Funcionamiento de los vehículos ferroviarios y de los dispositivos técnicos
 ###  3.4.1 Sistema de control, señalización y seguridad, incluidos los dispositivos de registro automático de datos
@@ -1054,8 +1093,8 @@ tabla n.º 2: secuencia cronológica de los acontecimientos
 | 15:23:56 | 15:40:03 | - el tren Os 9707 (como PMD) entra en el tramo tras la señal de salida S1; - en la señal S1 luce la señal de llamada; - tramo de vía Klobuky v Čechách - Peruc ocupado por el tren Os 9756. |
 No se detectaron averías.
 
-
 ## Página 33
+
 
 ###  3.4.2 Componentes de la vía
 En la inspección in situ del MU se constató el estado de la vía. En la vía no se encontraron daños, el estado de los componentes de la vía no guardaba relación causal con la producción del MU.
@@ -1084,6 +1123,7 @@ Del examen del estado técnico del vehículo ferroviario realizado el 2. 4. 2012
 
 ## Página 34
 
+
 El estado técnico del HDV no guardaba relación causal con la aparición de la MU.
 No se detectó ninguna avería.
 La locomotora de tracción PMD, CZ-ČD 95 54 5 809 434-4, contaba con el Certificado de aptitud número de registro PZ 4873/98 – V.22, expedido por la Autoridad Ferroviaria de Praga el 14. 8. 1998, revisión técnica periódica realizada el 21. 11. 2011 con el resultado: «El vehículo cumple las condiciones de explotación en las vías». El 2. 6. 2007 se pesó el HDV con el resultado: «El peso total del vehículo, la carga por bogie, la carga por eje y la rueda corresponden a la Orden del Ministerio de Transporte por la que se dicta el Reglamento de circulación ferroviaria nº 173/1995 Sb., anexo 3, parte I, punto 10». El peso total constatado asciende a 19480 kg, la diferencia entre el peso medio y el peso constatado por eje es de -1,2 % en un eje no motriz y de +1,2 % en un eje motriz.
@@ -1107,6 +1147,7 @@ La persona autorizada del explotador de la vía y del transportista presente en 
 
 ## Página 35
 
+
 La persona autorizada del transportista, respecto al hecho de que el estado de los componentes del sistema de frenado no fue comprobado ni posteriormente en la notificación de subsanación de las averías detectadas en el ejercicio de la supervisión estatal en materia ferroviaria n.º de expediente: 7-1314/2012/DI, indica, cit.: «… no se detectó ni se alegó ninguna avería técnica en este coche motor (indicado en la Evaluación de las causas y circunstancias de la aparición de la MU, n.º de expediente: 56336/2012-O12). En el lugar de la MU no era posible verificar esta circunstancia, debido a la considerable devastación del coche motor…».
 Como se desprende de los resultados de la inspección pericial, durante la MU se produjo en el HDV PMD el desprendimiento del motor de combustión, lo que fue motivo, según el dictamen de la persona autorizada en representación del transportista y del explotador de la vía para la investigación de la MU, de la imposibilidad de realizar la prueba de freno, o bien de la no verificación del estado del sistema de frenado, en el lugar de la aparición de la MU. Asimismo, en el HDV del tren Os 9756 se constató, según la inspección pericial, un montaje del motor de combustión dañado. Sin embargo, del Acta de declaración de testigo, levantada por la PČR, se desprende que, tras la llegada del HDV auxiliar para la remolcación de ambos HDV de la vía, la prueba de freno se realizó en todos los HDV conectados, el llenado de los cilindros de aire se realizó desde este HDV y los frenos estaban en orden. El HDV PMD, según el análisis de la cinta registradora, frenaba de forma fiable; el maquinista de este HDV, al recibirlo al inicio del turno, confirmó que el freno estaba en orden y, ni siquiera inmediatamente tras la aparición de la MU, indicó avería en el frenado, sino que, por el contrario, indicó que iba demasiado rápido.
 Aunque en el lugar de la MU el VI DI entregó a la persona competente autorizada en representación del transportista para la investigación de las causas y circunstancias de la aparición de la MU una solicitud con el requerimiento de participación en la inspección pericial, esta se realizó ya el lunes 2. 4. 2012 (la MU se produjo el sábado 31. 3. 2012) sin participación del DI.
@@ -1114,9 +1155,11 @@ Se detectó la avería.
 
 ## Página 36
 
+
 Fig. nº 3: parte del registro de velocidad del HDV CZ-ČD 95 54 5 809 434-4 desde la salida de la est. Peruc hasta la aparición de la MU
 
 ## Página 37
+
 
 ###  3.5 Documentación del sistema de explotación
 ###  3.5.1 Medidas adoptadas por los empleados del explotador de la vía y del transportista en lo que respecta a la conducción, señalización y protección del tráfico
@@ -1134,63 +1177,67 @@ El maquinista del tren Os 9756, tras comprobar que el HDV que conducía no era c
 
 ## Página 38
 
-del tren se encontraban hectometrovisores legibles. Tras comunicarle el jefe de estación de la est. Louny que el HDV auxiliar ya estaba en camino, el maquinista encendió 2 luces rojas en la cabeza del tren atascado y fue a esperar la llegada de la PMD delante del tren Os 9756. Se acercó así al hectometrovisor situado delante de la cabeza del tren a unos 52 – 57 m, ni siquiera entonces comprobó el dato escrito en el mismo.
+en el tren se encontraban hectometrajes legibles. Tras comunicarle el jefe de estación de Louny que el HDV auxiliar ya estaba en marcha, el maquinista encendió dos luces rojas en la cabeza del tren atascado y se fue a esperar la llegada del PMD antes del tren Os 9756. Se acercó así al hectometraje situado delante de la cabeza del tren a unos 52 – 57 m, tampoco entonces comprobó el dato escrito en el mismo.
 Se detectaron averías
-###  3.5.2 Intercambio de comunicaciones verbales en relación con el suceso excepcional, incluidos los documentos del equipo registrador
-Transcripción de las grabaciones de las conversaciones telefónicas registradas por el equipo instalado en la est. Louny.
-Conversación iniciada a las 15:03:46 horas entre el maquinista del tren Os 9756 y el jefe de estación de la est. Louny, el maquinista comunicó la aparición de una avería en el HDV:
+###  3.5.2 Intercambio de comunicaciones verbales en relación con el suceso excepcional, incluidos los registros del dispositivo de registro
+Transcripción de las grabaciones de las llamadas telefónicas registradas por el dispositivo de registro instalado en la estación de Louny.
+Llamada iniciada a las 15:03:46 horas entre el maquinista del tren Os 9756 y el jefe de estación de Louny, el maquinista comunicó la aparición de una avería en el HDV:
 | jefe de estación | Louny tráfico . |
 | maquinista | (apellido del maquinista) hola , . |
 | jefe de estación | Hola . |
-| maquinista | Oye, en el 97, ¿qué es esto? 56 , ... ... ... |
-| jefe de estación | Bueno |
-| maquinista | Estoy parado tras Telce, no me funciona , ... |
+| maquinista | Oye, en el 97 ¿qué es esto? 56 , ... ... ... |
+| jefe de estación | Pues |
+| maquinista | Estoy parado tras Telcem, no me arranca , ... |
 | jefe de estación | Ah . |
-| maquinista | Todavía voy a, todavía puedo probar un rato, al maestro de maniobras se lo he llamado también pero , , , de momento estoy parado y ni siquiera se mueve . |
-| jefe de estación | Bueno, pues prueba y y cuando sepas que es, que es seguro, entonces , , , llama . |
+| maquinista | Todavía voy a, todavía puedo probar un rato, al jefe de máquinas se lo he llamado también pero , , , de momento estoy parado y ni se mueve . |
+| jefe de estación | Pues sigue probando y cuando sepas que es, que es seguro, entonces , , , llama . |
 | maquinista | De acuerdo . |
-| jefe de estación | Sí ... |
+| jefe de estación | Vale ... |
 | maquinista | De acuerdo . |
-| jefe de estación | Pues vale, yo se lo diré a Klobuky, bien , , ... |
-| maquinista | Sí . |
-| jefe de estación | Bien, sí , . |
-Conversación iniciada a las 15:04:26 horas entre la jefa de estación DOZ de la est. Louny (en la transcripción DOZ) y el jefe de estación de la est. Klobuky v Čechách (en la transcripción Klobuky), a la conversación se incorporó también el jefe de estación de la est. Louny (en la transcripción Louny), la jefa de estación DOZ de la est. Louny informó al jefe de estación de la est. Klobuky v Čechách del atasco del tren Os 9756:
+| jefe de estación | Pues vale, yo se lo diré a Klobucký, bien , , ... |
+| maquinista | Vale . |
+| jefe de estación | Bien, vale , . |
+Llamada iniciada a las 15:04:26 horas entre el jefe de estación DOZ de Louny (en la transcripción DOZ) y el jefe de estación de Klobuky v Čechách (en la transcripción Klobuky), en la llamada intervino también el jefe de estación de Louny (en la transcripción Louny), el jefe de estación DOZ de Louny informó al jefe de estación de Klobuky v Čechách del atasco del tren Os 9756:
 | Klobuky | Sí . |
-| DOZ | Se me ha atascado en la vía, el motor está parado en algún sitio tras Telce , . |
-| Klobuky | Lo veo, que (no se entiende parte de la conversación) , … . |
+| DOZ | Se me ha atascado en la vía, el motor está parado en algún punto tras Telcem , . |
+| Klobuky | Lo veo que (no se entiende parte de la llamada) , … . |
 | DOZ | Mm . |
-| Klobuky | ¿Y Avoni te ha llamado? |
+| Klobuky | ¿Avoni te ha llamado? |
 | DOZ | Pues ahora han llamado, han hablado con el colega , , . |
 
 ## Página 39
 
-| Klobuky | Pues eso está muy bien (pausa más larga) ¿y qué hacemos con eso? |
-| DOZ | Pues yo (se dirige al jefe de estación de Louny fuera de la conversación telefónica) ¿Y tú , … te habías puesto de acuerdo con él, cómo, cómo te retirarías para él? , |
-| Louny (fuera de la conversación) | Cuando te diga cien por cien que no le funciona , ... |
-| DOZ | Sí, ah , ... |
-| Louny (fuera de la conversación) | Dice que todavía va a probar , . |
-| DOZ | (ya en el teléfono) Que todavía va a probar un rato, pues ya veremos , ... |
-| Klobuky | Sí, de acuerdo , ... |
-| DOZ | Mm . |
-| Klobuky | Pues vale . |
-| DOZ | Pues vale . |
-Conversación iniciada a las 15:08:44 horas entre el jefe de estación de la est. Louny y el maquinista del tren Os 9707, posteriormente PMD, el jefe de estación de la est. Louny informó al maquinista del tren Os 9707 del atasco del tren Os 9756 y de la posibilidad de que con el HDV del tren Os 9707 acudiera para este tren atascado:
-| maquinista | A9707 en recepción . |
-| jefe de estación | Louny tráfico, hola , ... |
-| maquinista | Hola . |
-| jefe de estación | Oye, escucha, ahora ha llamado el (nombre y apellido del maquinista del tren , , , , Os 9756) que está parado en algún sitio antes de Telce , ... |
-| maquinista | Bueno . |
-| jefe de estación | y no le funciona. Así que él va a probar todavía un rato si le … . , funciona o no , ... |
-| maquinista | Mm . |
-| jefe de estación | y cuando se manifieste cien por cien y lo sepamos, entonces si a él no le … , funcionaba ... |
-| maquinista | Sí . |
-| jefe de estación | tendría que dejar a la gente, irías a por él como PMD, lo traerías ... , , hasta Peruc ... |
-| maquinista | Mm . |
-| jefe de estación | y luego continuarías. Sí, pero tendría que ser sin gente porque en … . , , la PMD no se puede circular con gente, ¿sí? . |
-| maquinista | Claro, me queda claro , . |
-| jefe de estación | Así que prepárate y ya veremos cómo continúa , , . |
+| Klobuky | Pues eso está bien (pausa larga) y qué hacemos con eso? |
+| DOZ | Pues yo (se dirige al jefe de estación de Louny fuera de la llamada telefónica) ¿Y tú, …, hablaste con él sobre cómo, cómo te retirarías para él? , |
+| Louny (fuera de la llamada) | Hasta que te diga cien por cien que no le funciona, … |
+| DOZ | Ah, vale, … |
+| Louny (fuera de la llamada) | Dijo que todavía lo va a probar, . |
+| DOZ | (ya al teléfono) Que todavía lo va a probar un rato más, pues ya veremos, … |
+| Klobuky | Vale, … |
+| DOZ | Mm. |
+| Klobuky | Pues vale. |
+| DOZ | Pues vale. |
+Conversación iniciada a las 15:08:44 horas entre el jefe de estación de la est. Louny y el maquinista del tren 
+Os 9707, posteriormente PMD,  el jefe de estación de la est. Louny informó al maquinista del tren Os 9707 
+del atasco del tren Os 9756 y de la posibilidad de que con el HDV del tren Os 9707 fuera a 
+recoger a ese tren atascado: 
+| maquinista | A9707 en recepción. |
+| jefe de estación | Louny tráfico, hola, … |
+| maquinista | Hola. |
+| jefe de estación | Oye, escucha, ahora ha llamado el (nombre y apellidos del maquinista del tren , , , , Os 9756) diciendo que está parado en algún sitio antes de Telc, … |
+| maquinista | Sí. |
+| jefe de estación | y no le funciona. Así que él todavía lo va a probar un rato a ver si … . , le funciona o no le funciona, … |
+| maquinista | Mm. |
+| jefe de estación | y cuando luego avise cien por cien y lo sepamos, pues si a él no … , le funcionaba, … |
+| maquinista | Sí. |
+| jefe de estación | tendría que dejar a la gente, iría a recogerlo como PMD, lo llevarías … , , hasta Peruc … |
+| maquinista | Mm. |
+| jefe de estación | y luego seguirías adelante. Sí, pero tendría que ser sin gente porque en … . , , en PMD no se puede circular con gente, ¿sí? . |
+| maquinista | Claro, me queda claro, . |
+| jefe de estación | Así que o bien, o bien prepárate y ya veremos cómo sigue esto, , . |
 
 ## Página 40
+
 
 máquina-mandante Dobrý, dobry
 | máquina-mandante | Dobrý, dobry , |
@@ -1237,8 +1284,8 @@ Esperarás a (apellido del empleado que debía relevar al máquina-mandante).
 jefe de estación
 ...bueno, tú esperarás a (apellido del empleado que debía relevar al máquina-mandante
 
-
 ## Página 41
+
 
 |  | ) . |
 | DOZ | Tak jo, pues yo me voy a acordar con él y tú ni te muevas , . |
@@ -1284,8 +1331,8 @@ DOZ
 9756.
 máquina-mandante 9756.
 
-
 ## Página 42
+
 
 DOZ
 E, que está en el kilómetro 75 entero 500.
@@ -1341,40 +1388,41 @@ máquina-mandante ¿Las señales me son aplicables a mí? ¿Sí?
 DOZ
 Las señales te serán aplicables.
 
-
 ## Página 43
 
-| máquina-mandante | Sí . |
-| DOZ | Pues ahora esperaremos un momento, yo no lo apagué enseguida, tonta. Te llevaré de vuelta, te llevaré de vuelta a la vía lateral, a la 3 , , . |
-| máquina-mandante | Sí . |
+| maquinista | Sí . |
+| DOZ | Así que ahora esperaremos un rato, yo, tonta, no lo apagué enseguida. Te , , , . te devolveré, te devolveré a la vía lateral, a la 3 , , . |
+| maquinista | Sí . |
 | DOZ | Aaa ... |
-| máquina-mandante | Desde ahí me soltaré ... |
-| DOZ | Te soltarás, lo pasarás por la primera y marcharás a Klobuk . |
-| máquina-mandante | Lo pasaré y luego marcharé a Klobuk, claro , , . |
+| maquinista | Me desengancharé ... |
+| DOZ | Te desenganchas, lo pasarás por la primera y te dirigirás a Klobuk . |
+| maquinista | Lo pasaré y luego me dirigiré a Klobuk, claro , , . |
 | DOZ | ¿Sí? |
-| máquina-mandante | Me queda claro . |
-| DOZ | De acuerdo, vale, pues en cuanto a las señales , . |
-| máquina-mandante | Falta la firma del máquina-mandante aquí está (apellido del máquina-mandante) eeee , , , ¿jefe de estación? ¿Apellido? |
+| maquinista | Lo tengo claro . |
+| DOZ | Bien, vale, así que a las señales , . |
+| maquinista | Falta la firma del maquinista aquí está (apellido del maquinista) eeee , , , ¿jefe de estación? ¿Apellido? |
 | DOZ | (apellido del jefe de estación) |
-| máquina-mandante | (apellido del jefe de estación) bien, vale , , . |
-| DOZ | Tak jo , . |
-Conversación iniciada a las 15:21:04 horas entre el jefe de estación DOZ de la est. Louny (en la transcripción DOZ) y el jefe de estación de la est. Klobuky v Čechách (en la transcripción Klobuky), coordinación de la marcha de la locomotora de refuerzo como PMD:
+| maquinista | (apellido del jefe de estación) bien, vale , , . |
+| DOZ | Vale , .
+Conversación iniciada a las 15:21:04 horas entre el jefe de estación DOZ de la estación de Louny (en la transcripción DOZ) 
+y el jefe de estación de la estación de Klobuky v Čechách (en la transcripción Klobuky), para acordar la circulación de la locomotora de apoyo 
+como PMD:
 | DOZ | (habla con alguien fuera de la conversación)Eso yo no sé en absoluto cómo se acuerda , . |
 | Klobuky | Sí . |
-| DOZ | Pues , eee , pues el tren 9756 está varado en el kilómetro 75 – 500 . |
+| DOZ | Así que , eee , así que el tren 9756 quedó varado en el kilómetro 75 – 500 . |
 | Klobuky | Entendido . |
-| DOZ | Pues solicito el consentimiento para PMD para el tren varado 9756 hasta el kilómetro 75 … entero 500 y de vuelta a Peruc DOZ . . |
-| Klobuky | Con maniobras hasta el kilómetro 75 entero 5, ¿vale? , |
-| DOZ | Hm . |
-| Klobuky | Consiento (apellido del jefe de estación de la est. Klobuky v Čechách) . . |
-| DOZ | Yo no sé en absoluto cómo se dice eso, o sea , . |
+| DOZ | Así que solicito el consentimiento para el PMD del tren varado 9756 hasta el kilómetro 75 … 500 completos y de vuelta a Peruc DOZ . . |
+| Klobuky | ¿Con maniobras hasta el kilómetro 75 completos 5, sí? , |
+| DOZ | Mm . |
+| Klobuky | Acepto (apellido del jefe de estación de la estación de Klobuky v Č echách) . . |
+| DOZ | Yo no sé en absoluto cómo se dice esto, la verdad , . |
 | Klobuky | Yo tampoco . |
 | (ambas se ríen) |  |
-| DOZ | Bueno, más o menos es así, tengo que meterlo de alguna manera todavía ahí. Vale , , … , pues luego te llamaré cuando vuelvan a Peruc, ¿vale? , , |
+| DOZ | Bueno, más o menos es así, tengo que escribirlo de alguna manera todavía en eso. Vale , , … , así que luego te avisaré cuando vuelvan a Peruc, ¿sí? , , |
 | Klobuky | Sí, genial (?) (a la segunda palabra se le entiende muy mal) , . |
 
-
 ## Página 44
+
 
 Conversación iniciada a las 15:25:30 horas entre el jefe de estación DOZ de la est. Louny (en la transcripción DOZ) y el jefe de estación de la est. Klobuky v Čechách (en la transcripción Klobuky), anulación de la salida prevista notificada del tren Os 9707 de la est. Peruc:
 | DOZ | Sí . |
@@ -1407,54 +1455,36 @@ No se detectaron averías.
 ###  3.6.1 Jornada laboral de los empleados del gestor de la infraestructura y del transportista que participaron en el suceso
 Personas participantes del transportista:
 
-
 ## Página 45
 
-● el máquina-mandante del tren Os 9756 entró en turno el día 31. 3. 2012 a las 03:07 horas, tuvo
-el turno interrumpido planificadoamente de 08:00 horas a 09:27 horas, no había
-trabajado 6 horas hasta la producción de la MU, por lo que todavía no tenía derecho a
-disfrutar de la pausa para comida y descanso. La pausa para comida y descanso no estaba
-establecida en el horario de turno. El descanso antes del turno fue de 7,68 horas;
-● el máquina-mandante del tren PMD entró en turno el día 31. 3. 2012 a las 13:28 horas, había
-trabajado 2 horas hasta la producción de la MU, por lo que todavía no tenía derecho a
-disfrutar de la pausa para comida y descanso. La pausa para comida y descanso no estaba
-establecida en el horario de turno. El descanso antes del turno fue de 16,53 horas;
-● la jefa de tren del tren Os 9756 entró en turno el día 31. 3. 2012 a las 03:33 horas, durante
-el turno disfrutó de 2 pausas para comida y descanso, de 30 minutos de duración cada una,
-de 08:35 horas a 09:05 horas y de 12:37 horas a 13:07 horas. El descanso antes del turno
-fue de 13,83 horas;
-● la jefa de tren del tren Os 9707 entró en turno el día 31. 3. 2012 a las 05:57 horas, tuvo el
-turno interrumpido entre las 07:02 horas y las 08:42 horas, disfrutó de la pausa para
-comida y descanso de 30 minutos de duración de 13:02 horas a 13:32 horas. El descanso
-antes del turno fue de 15,28 horas.
-Personas participantes del gestor de la infraestructura:
-● la jefa de estación DOZ de la est. Louny entró en turno el día 31. 3. 2012 a las 05:45 horas.
-La pausa para comida y descanso no estaba establecida en el horario de turno. El descanso
-antes del turno fue de 72 horas;
-● el jefe de estación de la est. Louny entró en turno el día 31. 3. 2011 a las 06:12 horas. La
-● pausa para comida y descanso no estaba establecida en el horario de turno. El descanso
-antes del turno fue de 72 horas;
-Los empleados del gestor de la infraestructura y del transportista a los que no les está
-establecida la pausa para descanso y comida en el horario de turno tienen la obligación de
-disfrutar de un tiempo adecuado para descanso y comida en los horarios operativos
-apropiados, de conformidad con la disposición del KS (SŽDC: art. 2.5.4 del KS, ČD: art.
-4 del KS).
-Los empleadores proporcionaron las condiciones para el descanso antes del turno de
-conformidad con el § 90 del ZP.
- 3.6.2 Estado de salud y situación personal que influyeron en el suceso excepcional,
-incluido el estrés físico o psicológico
-Los empleados del gestor de la infraestructura y del transportista se someten a
-reconocimientos médicos periódicos de conformidad con la disposición del decreto n.º
-101/1995 Sb. No se detectó ningún estado de salud ni situación personal que pudiera
-haber influido en la producción de la MU, incluido el estrés físico y psicológico.
- 3.6.3 Disposición del equipamiento del puesto de mando o del vehículo que influye en su
-manejo y uso
-La disposición del equipamiento del puesto de mando y del vehículo no guardaba
-relación con la producción de la MU.
-###  3.7 Sucesos excepcionalles anteriores de carácter similar
-El DI registra MU similares:
+El maquinista del tren Os 9756 entró en turno el día 31. 3. 2012 a las 03:07 horas, de
+●
+08:00 horas a 09:27 horas tuvo el turno interrumpido programadamente, hasta la aparición de la MU no había trabajado 6 horas, por lo que todavía no tenía derecho a disfrutar de la pausa para comida y descanso. La pausa para comida y descanso no estaba establecida en el horario de turno. El descanso antes del turno fue de 7,68 horas;
+el maquinista del tren PMD entró en turno el día 31. 3. 2012 a las 13:28 horas, hasta la aparición de la MU había trabajado 2 horas, por lo que todavía no tenía derecho a disfrutar de la pausa para comida y descanso. La pausa para comida y descanso no estaba establecida en el horario de turno. El descanso antes del turno fue de 16,53 horas;
+la jefa de tren del tren Os 9756 entró en turno el día 31. 3. 2012 a las 03:33 horas,
+●
+durante el turno disfrutó de 2 pausas para comida y descanso, cada una de 30 minutos de duración, de 08:35 horas a 09:05 horas y de 12:37 horas a 13:07 horas. El descanso antes del turno fue de 13,83 horas;
+la jefa de tren del tren Os 9707 entró en turno el día 31. 3. 2012 a las 05:57 horas,
+●
+entre las 07:02 horas y las 08:42 horas tuvo el turno interrumpido, la pausa para comida y descanso de 30 minutos de duración la disfrutó de 13:02 horas a 13:32 horas. El descanso antes del turno fue de 15,28 horas.
+Personas implicadas del gestor de la infraestructura:
+la encargada de circulación DOZ de la estación de Louny entró en turno el día 31. 3. 2012 a las 05:45 horas.
+●
+La pausa para comida y descanso no estaba establecida en el horario de turno. El descanso antes del turno fue de 72 horas;
+el encargado de circulación de la estación de Louny entró en turno el día 31. 3. 2011 a las 06:12 horas. La pausa
+●
+para comida y descanso no estaba establecida en el horario de turno. El descanso antes del turno fue de 72 horas;
+Los empleados del gestor de la infraestructura y del operador ferroviario que no tienen establecida la pausa para descanso y comida en el horario de turno están obligados a disfrutar de un período adecuado para descanso y comida en los horarios de explotación adecuados, de conformidad con lo dispuesto en el Reglamento de Circulación (SŽDC: art. 2.5.4 del RC, ČD: art. 4 del RC).
+Los empleadores proporcionaron las condiciones para el descanso antes del turno de conformidad con el § 90 del Estatuto de los Trabajadores.
+  3.6.2 Estado de salud y situación personal que influyeron en el suceso excepcional, incluido el estrés físico o psíquico
+Los empleados del gestor de la infraestructura y del operador ferroviario se someten a reconocimientos médicos periódicos de conformidad con lo dispuesto en el decreto nº 101/1995 Sb. No se detectó ningún estado de salud ni situación personal que pudiera haber influido en la aparición de la MU, incluido el estrés físico y psíquico.
+  3.6.3 Disposición del equipamiento del puesto de mando o del vehículo que influye en su manejo y utilización
+La disposición del equipamiento del puesto de mando y del vehículo no guardaba relación con la aparición de la MU.
+###  3.7 Sucesos excepcionalmente anteriores de carácter similar
+DI registra MU similares:
 
 ## Página 46
+
 
 del  4. 11. 2011 entre la est. Droužkovice y la parada Dubina, cuando se produjo la colisión 
 ●
@@ -1505,130 +1535,53 @@ infraestructura y transportistas en las vías férreas de la República Checa.
 De esta medida de seguridad se realizó la medida relativa a la 
 prohibición del transporte de pasajeros en las circulaciones del PMD para un tren varado.
 
-
 ## Página 47
 
 ##  4 ANÁLISIS Y CONCLUSIONES
-###  4.1 Descripción final del suceso ferroviario
-###  4.1.1 Descripción final del suceso ferroviario sobre la base de los hechos 
-constatados en el punto 3
-El  31. 3. 2012 a las 14:58 horas, poco después de la salida de la parada Telce, se detuvo por 
-avería el tren Os 9756 formado únicamente por la locomotora, con el morro en el km 75,628. 
-El tren estaba ocupado por 2 
-empleados del transportista, el maquinista y el jefe de tren, y viajaban en él 4 pasajeros. Cuando 
-el maquinista detectó que se trataba de una avería cuyo diagnóstico y eliminación requeriría 
-tiempo, informó a las 15:03:46 horas por teléfono al jefe de estación de la est. Louny. Este le 
-instó a que continuara con la detección de la avería y le comunicara, cuando pudiera decir de 
-forma inequívoca si la locomotora era o no capaz de circular por sus propios medios. 
-Además, preguntó dónde se encontraba el tren Os 9756, a lo que el maquinista respondió de 
-forma muy vaga, que estaba «detrás de Telce». Inmediatamente después de esta llamada, a las 
-15:04:26 horas, la jefa de estación DOZ de la est. Louny informó a la jefa de estación de la est. 
-Klobuky v Čechách de la parada anormal del tren Os 9756. Cuando en el tren Os 9756 la 
-jefa de tren informó a los pasajeros de la avería de la locomotora, a uno de ellos, a su 
-solicitud, se le permitió bajar del tren y marcharse.
-A las 14:56 horas se detuvo en la 1.ª vía de la est. Peruc el tren Os 9707 formado únicamente 
-por la locomotora, que allí debía cruzarse regularmente con el tren Os 9756. A las 15:08:44 horas informó 
-mediante TRS el jefe de estación de la est. Louny al maquinista del tren Os 9707 de la avería del tren Os 9756 y 
-le advirtió de la posibilidad de que con la locomotora del tren Os 9707 fuera a buscar al tren varado Os 9756. 
-Además, le advirtió, en caso de que esto ocurriera, de la necesidad de ir a la vía sin pasajeros, y le puso 
-al corriente del procedimiento previsto a continuación.
-Mientras tanto, el maquinista del tren Os 9756 se puso en contacto con el jefe de taller de DKV Plzeň, PP Louny 
-y con el empleado de mantenimiento de PP Louny, con cuya ayuda intentó eliminar la avería de la locomotora. 
-Sus conversaciones telefónicas no están documentadas. A más tardar a las 15:13 horas 
-constataron que la locomotora no podía repararse en el lugar de la parada, y así, a las 15:13:47 horas, el maquinista 
-volvió a contactar por teléfono con el jefe de estación de la est. Louny. Esta llamada fue atendida por la jefa de estación DOZ de la est. 
-Louny y, durante su transcurso, se incorporó también el jefe de estación de la est. Louny. Al maquinista se le 
-informó de que para el tren Os 9756 llegaría la locomotora del tren Os 9707, y se le instó a que indicara 
-la posición kilométrica exacta del tren varado. El maquinista repitió el dato de la primera 
-llamada con el detalle de que el tren se encontraba a unos 200 m de la parada Telce en dirección a la est. Peruc. Ante 
-la repetida indicación de la jefa de estación DOZ de la est. Louny de que mirara a su alrededor, encontrara el 
-hitos kilométricos e indicara la posición exacta, el maquinista primero respondió que no veía 
-ningún hito kilométrico, y más tarde admitió que sí veía, pero que no podía leer el dato. Entonces se incorporó a la 
-llamada también el jefe de estación de la est. Louny con el esfuerzo de, en forma de preguntas, resumir lo dicho. 
-A la pregunta de si había salido de la parada Telce en dirección a la est. Peruc, el maquinista 
-respondió afirmativamente. A la pregunta de si se encontraba a 200 m de la parada Telce en dirección a la est. Peruc, 
-el maquinista respondió también afirmativamente. El jefe de estación de la est. 
-Louny propuso entonces determinar la posición del tren restando 200 m de la posición kilométrica de la parada 
-Telce. A esto el maquinista no se pronunció. Además, informó al maquinista de la actividad 
-posterior a la llegada a la est. Peruc.
-Tras esta llamada, a las 15:16 horas, la jefa de estación DOZ de la est. Louny, mediante TRS, 
-ordenó al maquinista del tren Os 9707 la redacción de la orden Pv y le dictó en la sección «Otras órdenes» 
-la orden para la circulación del PMD. Determinó la posición del tren Os 9756 en el km 75,500 y esta 
-información la completó con las palabras: «...unos 200 metros detrás de la parada, Telce...». La orden tenía 
-varias deficiencias, principalmente no contenía el dato de hasta dónde estaba permitida la circulación del PMD, además 
-
+###  4.1 Descripción final del suceso excepcional
+###  4.1.1 Descripción final del suceso excepcional basada en los hechos constatados 
+en el punto 3
+El 31 de marzo de 2012 a las 14:58 horas, poco después de la salida de la parada de Telce, se detuvo por avería el tren Os 9756, compuesto únicamente por la HDV, con el morro en el km 75,628. El tren estaba ocupado por 2 empleados del operador, el maquinista y el jefe de tren, y viajaban en él 4 pasajeros. Cuando el maquinista comprobó que se trataba de una avería cuyo diagnóstico y eliminación requeriría tiempo, informó a las 15:03:46 horas por teléfono al jefe de estación de la est. de Louny. Este instó al maquinista a que continuara con la avería y le indicó que le comunicara cuando pudiera decir de forma inequívoca si la HDV era o no capaz de circular por sus propios medios. Además, se le preguntó dónde se encontraba el tren Os 9756, a lo que el maquinista respondió de forma muy vaga que estaba «detrás de Telce». Inmediatamente después de esta llamada, a las 15:04:26 horas, la jefa de estación DOZ de la est. de Louny informó a la jefa de estación de la est. de Klobuky v Čechách de la parada excepcional del tren Os 9756. Cuando en el tren Os 9756 la jefa de tren informó a los pasajeros de la avería de la HDV, a uno de ellos, a petición suya, se le permitió descender del tren y marcharse.
+A las 14:56 horas se detuvo en el 1.º SK de la est. de Peruc el tren Os 9707, compuesto únicamente por la HDV, que debía cruzarse allí regularmente con el tren Os 9756. A las 15:08:44 horas, mediante el TRS, el jefe de estación de la est. de Louny informó al maquinista del tren Os 9707 de la avería del tren Os 9756 y le advirtió de la posibilidad de que, con la HDV del tren Os 9707, fuera a buscar al tren Os 9756 atascado. Asimismo, le advirtió, en caso de que esto ocurriera, de la necesidad de circular sin pasajeros, y le informó del procedimiento previsto a continuación.
+Entre tanto, el maquinista del tren Os 9756 se puso en contacto con el jefe de taller de la DKV Plzeň, PP Louny, y con el empleado de mantenimiento de la PP Louny, con cuya ayuda intentó eliminar la avería de la HDV. Sus conversaciones telefónicas no están documentadas. A más tardar a las 15:13 horas constataron que la HDV no podía repararse en el lugar de la detención, y así, a las 15:13:47 horas, el maquinista volvió a contactar telefónicamente con el jefe de estación de la est. de Louny. Esta llamada fue atendida por la jefa de estación DOZ de la est. de Louny y, durante la misma, se incorporó también el jefe de estación de la est. de Louny. Se informó al maquinista de que para el tren Os 9756 acudiría la HDV del tren Os 9707, y se le instó a que indicara la posición kilométrica exacta del tren atascado. El maquinista repitió el dato de la primera llamada, precisando que el tren se encontraba a unos 200 m de la parada de Telce en dirección a la est. de Peruc. Ante la repetida indicación de la jefa de estación DOZ de la est. de Louny de que mirara a su alrededor, encontrara el hito kilométrico e indicara la posición exacta, el maquinista respondió primero que no veía ningún hito kilométrico, y posteriormente admitió que sí lo veía, pero que no podía leer su indicación. En ese momento se incorporó a la conversación también el jefe de estación de la est. de Louny, con la intención de resumir lo dicho mediante preguntas. A la pregunta de si había salido de la parada de Telce en dirección a la est. de Peruc, el maquinista respondió afirmativamente. A la pregunta de si se encontraba a 200 m de la parada de Telce en dirección a la est. de Peruc, el maquinista respondió igualmente afirmativamente. El jefe de estación de la est. de Louny propuso entonces determinar la posición del tren restando 200 m de la posición kilométrica de la parada de Telce. A esto no se pronunció el maquinista. A continuación, le informó de las actividades a realizar tras la llegada a la est. de Peruc.
+Tras esta llamada, a las 15:16 horas, la jefa de estación DOZ de la est. de Louny ordenó, mediante el TRS, al maquinista del tren Os 9707 que redactara la orden Pv y, en la parte «Otras órdenes», le dictó la orden para la circulación en PMD. Determinó la posición del tren Os 9756 en el km 75,500 y completó esta información con las palabras: «...unos 200 metros detrás de la parada, Telce...». La orden tenía varios defectos, entre ellos no contenía el dato de hasta dónde estaba permitida la circulación en PMD, además
 
 ## Página 48
 
-no se comunicó al maquinista la hora a la que debía finalizarse como máximo la circulación del PMD, 
-y contenía una orden de circular con precaución aumentada por el paso a nivel en el km 75,309, que 
-sin embargo se encontraba ya detrás del lugar donde se detuvo el tren Os 9756. El maquinista no se 
-detuvo ante estas inconsistencias y aceptó la orden. 
-Además, tras preguntar al jefe de estación si le eran aplicables las señales, anotó en ella la frase 
-«Las señales son válidas para su circulación». Durante la 
-dictado de la orden, la jefa de estación DOZ de la est. Louny realizó simultáneamente la anulación de la 
-vía de entrada establecida para el tren Os 9756 hacia la est. Peruc en la 2.ª vía. Casi simultáneamente, a las 15:16 horas, 
-el jefe de estación de la est. Louny habló por teléfono con el jefe de taller de DKV Plzeň, PP Louny sobre los detalles del 
-cambio de maquinista y de la sustitución de la locomotora inmovilizada del tren Os 9756.
-El maquinista del tren Os 9707, junto con la jefa de tren, mientras tanto en la est. Peruc hicieron 
-bajar del tren a los pasajeros. La jefa de tren permaneció en la locomotora en el espacio para pasajeros también durante la circulación 
-del PMD.
-A las 15:21 horas la jefa de estación DOZ de la est. Louny acordó con la jefa de estación de la est. Klobuky v Čechách 
-la circulación del PMD hasta el km 75,500 para el tren varado Os 9756 sin indicar la hora de inicio y la 
-hora de finalización de la maniobra. La jefa de estación de la est. Klobuky v Čechách 
-estuvo de acuerdo con la circulación del PMD acordada de esta manera. Después, la jefa de estación DOZ de la est. Louny registró el PMD en la aplicación de documentación de 
-circulación GTN con el número ficticio 809001. En la aplicación no rellenó los datos del kilómetro 
-hasta el que está permitida la circulación del PMD, ni la hora desde y hasta la que está permitida la circulación del PMD.
-A las 15:23 horas la jefa de estación DOZ de la est. Louny mediante la operación de SZZ preparó la vía de salida 
-para el PMD desde la 1.ª vía de la est. Peruc hacia la vía de trayecto ocupada por el tren Os 9756. 
-A las 15:23:41 horas se produjo el cierre de emergencia de la vía y en la señal de salida S 1 se 
-encendió la señal de llamada. A las 15:23:56 horas se indica la salida del PMD de la est. Peruc 
-hacia la vía de trayecto.
-A las 15:25:30 horas la jefa de estación de la est. Klobuky v Čechách preguntó a la jefa de estación DOZ de la est. 
-Louny cuándo saldría el PMD de la est. Peruc. La jefa de estación DOZ de la est. Louny se dio cuenta de su error 
-en la comunicación anterior y le informó de que el PMD había salido a las 15:23 horas, pero no habían acordado la 
-limitación horaria hasta cuándo estaba permitido el PMD.
-El maquinista del PMD se puso en marcha de forma fluida desde la est. Peruc con la locomotora a una velocidad de 61 km.h-1, 
-posteriormente aumentó la velocidad hasta 68 km.h-1, dejó que la velocidad descendiera a 60 km.h-1 
-por inercia, después la volvió a aumentar y la mantuvo entre 65 km.h-1 y 62 km.h-1, y solo a unos 300 m 
-del lugar de origen de la MU dejó que la velocidad descendiera gradualmente a 50 km.h-1.
-Tras la llamada del jefe de estación de la est. Louny, el maquinista del tren Os 9756 encendió en el morro 
-del tren las luces rojas y salió a esperar la llegada de la locomotora auxiliar en el límite de la vía y del terreno 
-adyacente, a unos 20 m del tren varado. La jefa de tren permaneció con los pasajeros en la locomotora.
-A las 15:27 horas el maquinista del tren Os 9756 vio la locomotora del PMD acercarse rápidamente 
-y comenzó a dar con el giro de los brazos la señal «Alto, deténgase por todos los medios». El maquinista 
-del PMD la registró y, posteriormente, también la locomotora detenida del tren Os 9756, y activó el frenado 
-rápido junto con el areado. Debido a los raíles mojados tras la lluvia anterior y a la pendiente de la 
-vía de trayecto, se produjo el derrape de las ruedas de la locomotora y, consecuentemente, el impacto en la 
-locomotora detenida del tren Os 9756.
+no se comunicó al maquinista la hora hasta la que debía finalizarse como máximo la maniobra PMD, y contenía la orden de circular con precaución reforzada por el paso a nivel en el km 75,309, que sin embargo se encontraba más allá del lugar donde se hallaba detenido el tren Os 9756. El maquinista no se detuvo a reflexionar sobre estas inconsistencias y aceptó la orden. Además, tras preguntar al jefe de estación si le eran aplicables las señales, añadió a la misma la frase «Las señales para su circulación son válidas». Durante la dictación de la orden, la jefa de estación DOZ de la estación de Louny procedió simultáneamente a la anulación de la vía de entrada ya establecida para el tren Os 9756 hacia la estación de Peruc en la 2.ª vía principal. Casi simultáneamente, a las 15:16 horas, el jefe de estación de Louny habló por teléfono con el jefe de depósito de DKV Plzeň, PP Louny, sobre los detalles del relevo del maquinista y del cambio de la locomotora inoperativa del tren Os 9756.
+El maquinista del tren Os 9707, junto con el jefe de tren, mientras tanto hicieron bajar a los pasajeros del tren en la estación de Peruc. La jefa de tren permaneció en el compartimento de pasajeros del coche de viajeros también durante la maniobra PMD.
+A las 15:21 horas, la jefa de estación DOZ de Louny acordó con el jefe de estación de Klobuky v Čechách la maniobra PMD hasta el km 75,500 para el tren Os 9756 atascado, sin indicar la hora de inicio ni la hora de finalización de la maniobra. El jefe de estación de Klobuky v Čechách aceptó la maniobra PMD acordada de esta manera. A continuación, la jefa de estación DOZ de Louny registró la maniobra PMD en la aplicación de documentación de tráfico GTN con el número ficticio 809001. En la aplicación no cumplimentó los datos del kilómetro hasta el que se permite la maniobra PMD, ni la hora desde y hasta la que se permite la maniobra PMD.
+A las 15:23 horas, la jefa de estación DOZ de Louny preparó, mediante el servicio SZZ, la vía de salida para la maniobra PMD desde la 1.ª vía principal de la estación de Peruc hacia la vía de tramo ocupada por el tren Os 9756. A las 15:23:41 horas se produjo el cierre de emergencia de la vía y en la señal de salida S 1 se encendió la señal de aproximación. A las 15:23:56 horas se indica la salida de la maniobra PMD de la estación de Peruc hacia la vía de tramo.
+A las 15:25:30 horas, el jefe de estación de Klobuky v Čechách preguntó a la jefa de estación DOZ de Louny cuándo saldría la maniobra PMD de la estación de Peruc. La jefa de estación DOZ de Louny se percató de su error en el informe anterior y le comunicó que la maniobra PMD había salido a las 15:23 horas, pero que no habían acordado la limitación horaria hasta la que se permite la maniobra PMD.
+El maquinista de la maniobra PMD aceleró suavemente la locomotora desde la estación de Peruc hasta una velocidad de 61 km.h-1, posteriormente aumentó la velocidad hasta 68 km.h-1, dejó que la velocidad descendiera a 60 km.h-1 mediante una marcha por inercia, a continuación la volvió a aumentar y la mantuvo entre 65 km.h-1 y 62 km.h-1, y solo unos 300 m antes del lugar donde se produjo la colisión dejó que la velocidad descendiera gradualmente a 50 km.h-1.
+Tras la llamada del jefe de estación de Louny, el maquinista del tren Os 9756 encendió las luces rojas en la parte delantera del tren y salió a esperar la llegada de la locomotora de refuerzo en el límite de la vía y del terreno adyacente, unos 20 m antes del tren atascado. La jefa de tren permaneció con los pasajeros en la locomotora.
+A las 15:27 horas, el maquinista del tren Os 9756 vio aproximarse rápidamente la locomotora de la maniobra PMD y comenzó a dar la señal «Alto, deténgase por todos los medios» girando el brazo. El maquinista de la maniobra PMD la registró y, posteriormente, también la locomotora detenida del tren Os 9756, y activó el frenado de acción rápida junto con el arenado. Debido a los raíles mojados por la lluvia anterior y a la pendiente de la vía de tramo, se produjo el derrape de las ruedas de la locomotora y, en consecuencia, el impacto contra la locomotora detenida del tren Os 9756.
 ###  4.2 Análisis
-###  4.2.1 Evaluación de los hechos constatados según el punto 3 y exposición de las conclusiones sobre la causa 
-del suceso ferroviario y la actuación de los servicios de emergencia
-Tras la parada del tren Os 9756 en plena vía, debido a una avería no eliminable en la 
-locomotora, el maquinista no pudo determinar la posición kilométrica exacta de esta
+###  4.2.1 Evaluación de los hechos constatados de acuerdo con el punto 3 y formulación de conclusiones sobre la causa del suceso excepcional y la actuación de los servicios de rescate
+Tras la detención del tren Os 9756 en plena vía, debido a una avería no subsanable en la locomotora, el maquinista no pudo determinar la posición kilométrica exacta de la misma
 
 ## Página 49
 
-cabeza. Ante la consulta de los jefes de estación de la estación de Louny, únicamente indicó una estimación aproximada e, como posteriormente se demostró, inexacta de la posición del tren, basada en la distancia recorrida supuestamente desde el último punto tarifario. Y ello a pesar de que, en las proximidades inmediatas de la cabeza del tren, se encontraba a la derecha en el sentido de la marcha un hectometrovisor con la inscripción legible 75,6 y a una distancia de 72 m por delante de la cabeza del tren un hectometrovisor con la inscripción legible 75,7. Ambos hectometrovisores, como es evidente de la documentación fotográfica en la parte 7 del Anexo, eran bien visibles en el momento de producirse el MU y sus inscripciones eran legibles. El maquinista, algo más tarde, en una conversación telefónica con el jefe de estación DOZ de la estación de Louny, efectuada a las 15:13:47 horas, admitió que «ve algún kilometrovisor», pero que no puede leer la inscripción. Atendiendo a las explicaciones por él dadas, se trataba del hectometrovisor en km 75,7. No se percató en absoluto del hectometrovisor en km 75,6. Al moverse en el exterior, este le estaba ocultado por el HDV estacionado (se movía a la izquierda y hacia delante en el sentido de marcha original del tren Os 9756), fuera de su ángulo visual.
+de la cabeza. A la pregunta de los jefes de estación de la estación de Louny, únicamente indicó una estimación aproximada e, como se demostró posteriormente, inexacta de la posición del tren, basada en la distancia recorrida supuesta desde el último punto tarifario. Y ello a pesar de que, en las proximidades inmediatas de la cabeza del tren, se encontraba a la derecha en el sentido de la marcha un hectometrovisor con la inscripción legible 75,6 y, a una distancia de 72 m por delante de la cabeza del tren, un hectometrovisor con la inscripción legible 75,7. Ambos hectometrovisores, como es apreciable en la documentación fotográfica de la parte 7 del Anexo, estaban bien visibles en el momento del suceso de material rodante (MU) y sus inscripciones eran legibles. El maquinista, algo más tarde, en una conversación telefónica con el jefe de estación DOZ de la estación de Louny, efectuada a las 15:13:47 horas, admitió que «ve algún kilométrico», pero que no puede leer la inscripción. Atendiendo a las explicaciones por él facilitadas, se trataba del hectometrovisor en el km 75,7. No se percató en absoluto del hectometrovisor en el km 75,6. Al moverse en el exterior, este le estaba ocultado por la locomotora (HDV) detenida (se movía a la izquierda y hacia delante en el sentido de marcha original del tren Os 9756), fuera de su ángulo visual.
 
-Los procedimientos tecnológicos del explotador de la infraestructura ni del transportista establecen un procedimiento vinculante sobre de qué manera y con qué precisión el maquinista de un tren atascado o del PMD está obligado a determinar la posición de la cabeza o, en su caso, del final del DV. No obstante, es llamativo que el maquinista del tren Os 9756, tras haber abandonado el HDV para esperar la llegada del HDV de asistencia, no fuera a comprobar el valor del hectometrovisor por delante de la cabeza del tren, o, dada su competencia profesional, cuya parte integrante es también el conocimiento de la ubicación de los hectometrovisores, no buscara el hectometrovisor anterior por detrás del tren a la derecha en el sentido de marcha, o no ordenara esta comprobación al jefe de tren. En una situación en la que no había obstáculos en la comunicación entre las personas implicadas del explotador de la infraestructura y del transportista, y no había problema para precisar la posición del tren Os 9756 incluso durante la marcha del PMD, ni siquiera intentó rectificar el dato sobre la posición kilométrica de la cabeza del tren Os 9756.
+Los procedimientos tecnológicos del explotador ferroviario ni del transportista establecen un procedimiento vinculante sobre la manera y con qué precisión el maquinista de un tren detenido o del tren de maniobras (PMD) está obligado a determinar la posición de la cabeza o, en su caso, del final del tren de viajeros (DV). No obstante, resulta sorprendente que el maquinista del tren Os 9756, tras abandonar la locomotora (HDV) para esperar la llegada de la locomotora de asistencia, no fuera a comprobar el valor del hectometrovisor por delante de la cabeza del tren, o bien, dada su competencia profesional, cuya parte integrante es también el conocimiento de la ubicación de los hectometrovisores, no buscara el hectometrovisor anterior tras el tren a la derecha en el sentido de la marcha, o no ordenara esta comprobación al jefe de tren. En una situación en la que no existían obstáculos en la comunicación entre las personas implicadas del explotador ferroviario y del transportista, y no había problema para precisar la posición del tren Os 9756 incluso durante la marcha del PMD, ni siquiera intentó rectificar el dato sobre la posición kilométrica de la cabeza del tren Os 9756.
 
-El jefe de estación de la estación de Louny entró en la llamada telefónica al resolver la situación de circulación en el ámbito del jefe de estación DOZ de la estación de Louny. Al hacerlo, decidió la solución para obtener la posición kilométrica del tren Os 9756, que su maquinista no era capaz de determinar con exactitud en el lugar, restando la distancia recorrida indicada de la posición kilométrica de la parada de Telce. El jefe de estación DOZ de Louny era consciente de que el tren Os 9756 circulaba en el sentido de la estación y, por tanto, sumó el valor repetidamente indicado de la distancia recorrida, 200 m a la posición kilométrica de la parada de Telce, en el TTP km 75,284 (en la hoja GVD redondeado a km 75,3). Con el redondeo hacia arriba de la suma se obtuvo así el valor km 75,500, utilizado a continuación como posición anunciada de la cabeza del tren. La afirmación repetida del maquinista del tren Os 9756, en sus explicaciones, de que refería la posición del tren al paso a nivel en km 75,309, no se confirmó al compararla con el resto de la documentación recabada. Además, desde el punto de vista de la propia colisión no es relevante, ya que desplaza la posición anunciada de la cabeza del tren a km 75,509 (75,309 + 0,200), es decir, 9 metros hacia delante en contra del sentido de marcha del PMD. El maquinista del tren Os 9756 admitió además que percibe la parada y el paso a nivel, que lindan directamente entre sí, como un solo lugar.
+El jefe de estación de la estación de Louny entró en la llamada telefónica al resolver la situación de circulación en el ámbito del jefe de estación DOZ de la estación de Louny. Al hacerlo, decidió la solución para obtener la posición kilométrica del tren Os 9756, que su maquinista no era capaz de determinar con exactitud en el lugar, mediante la resta de la distancia recorrida indicada de la posición kilométrica de la parada Telce. El jefe de estación DOZ de Louny era consciente de que el tren Os 9756 circulaba en el sentido de la señalización de la estación y, por tanto, sumó el valor repetido varias veces de la distancia recorrida, 200 m a la posición kilométrica de la parada Telce, en el TTP km 75,284 (en la hoja GVD redondeado a km 75,3). Con el redondeo hacia arriba de la suma se obtuvo así el valor km 75,500, utilizado posteriormente como posición anunciada de la cabeza del tren. La afirmación repetida del maquinista del tren Os 9756, en sus explicaciones, de que refería la posición del tren al paso a nivel en el km 75,309, no se confirmó al compararla con el resto de la documentación recopilada. Además, desde el punto de vista de la propia colisión, no es relevante, ya que desplaza la posición anunciada de la cabeza del tren al km 75,509 (75,309 + 0,200), es decir, 9 metros hacia delante en contra del sentido de marcha del PMD. El maquinista del tren Os 9756 admitió además que percibe la parada y el paso a nivel, que lindan directamente entre sí, como un solo lugar.
 
-De la conversación telefónica entre el jefe de estación y el maquinista del tren atascado se deduce que, aunque el jefe de estación instó en varias ocasiones al maquinista a que determinara la posición kilométrica del tren atascado mediante el kilometrovisor (hexometrovisor), el maquinista no respondió adecuadamente a esta petición, que llegó incluso a convertirse en súplica. El sujeto que, en el sentido de las disposiciones legales, al dirigir y organizar el tráfico ferroviario emite instrucciones es el explotador de la infraestructura, y el transportista está obligado a cumplir dichas instrucciones. Sin embargo, el jefe de estación (explotador de la infraestructura) no insistió en que el maquinista (transportista) indicara la posición kilométrica exacta. Los empleados implicados priorizaron así, frente a la posición kilométrica exacta, la información complementaria sobre la posición aproximada del tren atascado junto a la parada de Telce.
+De la conversación telefónica entre el jefe de estación y el maquinista del tren detenido se deduce que, aunque el jefe de estación instó varias veces al maquinista a que determinara la posición kilométrica del tren detenido mediante el kilométrico (hectometrovisor), el maquinista no respondió adecuadamente a esta petición, que llegó incluso a convertirse en súplica. El sujeto que, en el sentido de las disposiciones legales, otorga instrucciones al dirigir y organizar el tráfico ferroviario es el explotador ferroviario, y el transportista está obligado a cumplir dichas instrucciones. No obstante, el jefe de estación (explotador ferroviario) no insistió en que el maquinista (transportista) indicara la posición kilométrica exacta. Los empleados implicados priorizaron así, frente a la posición kilométrica exacta, la información complementaria sobre la posición aproximada del tren detenido en la parada Telce.
 
 Inmediatamente tras la determinación anteriormente indicada de la posición del tren Os 9756, el jefe de estación DOZ de la estación de Louny ordenó al maquinista del tren Os 9707 la redacción de la orden Pv y en la sección «Otras órdenes» le
 
-
 ## Página 50
+
 
 dictó la orden para la marcha del PMD. Ordenó la redacción de esta orden antes de acordar la marcha del PMD con el jefe de estación de la estación contigua.
 
 Fig. 4: comparación del texto de la orden PMD dictada con el modelo de la Orden General para PMD
  La asignación de las distintas instrucciones y datos de la orden dictada al modelo de la Orden General para PMD se muestra en la Fig. 4. Las órdenes utilizadas de la Orden General para
 
-
 ## Página 51
+
 
 PMD están señaladas en rojo, y los datos obligatorios que no fueron comunicados se marcan con «X».
 
@@ -1642,21 +1595,22 @@ El texto subrayado en turquesa sobre la vigencia de las señales lo anotó el ma
 
 Con una instrucción así formulada incorrectamente, no obstante de forma consciente, el jefe de estación DOZ de la estación de Louny permitió la marcha del PMD hasta km 75,500. Aunque se trataba únicamente de un valor calculado basado en la estimación aproximada del maquinista del tren Os 9756, el jefe de estación DOZ de la estación de Louny manejó dicho valor como la posición exactamente determinada de la cabeza del tren atascado y, al no ordenar la marcha del PMD según las condiciones de visibilidad, garantizó, conforme a los procedimientos tecnológicos del explotador de la infraestructura, desarrollados en las normas internas, al maquinista del PMD la libertad de vía desde la estación de Peruc hasta este kilómetro.
 
-
 ## Página 52
+
 
 Fig. 5: situación general del lugar de producción del MU
         fuente: www.mapy.cz
 
 ## Página 53
 
+
 La jefa de estación DOZ de la estación de Louny se conformó con cómo el maquinista repetía durante el dictado el texto dictado progresivamente, y no le hizo leer la orden completa ya escrita. Del diálogo confuso relativo a la denominación de la orden también se deduce que la jefa de estación DOZ de la estación de Louny no tenía a su disposición, al dictar la orden, el formulario «Orden de tren» ni su modelo, puesto que ante la pregunta del maquinista sobre cómo rellenar el encabezado de la orden «Orden para el tren número: …...», la jefa de estación DOZ creyó que preguntaba por el campo «EST – número de fonograma» indicado al final de dicha orden. De las declaraciones de la jefa de estación DOZ de la estación de Louny se deduce además que, al dictar la orden, no utilizó las normas internas del gestor de la infraestructura, sino un modelo de orden para PMD no especificado con más detalle, que recibió hace unos cuatro años en una formación periódica de empleados.
 Solo con posterioridad, tras dictar la orden de PMD al maquinista del tren Os 9707, la jefa de estación DOZ de la estación de Louny acordó la maniobra de PMD con la jefa de estación de Klobuky v Čechách. En la solicitud de maniobra de PMD indicó: «...hasta el kilómetro 75,500 y de vuelta a Peruc...», a diferencia de la orden dictada, así quedó establecido en este aviso el punto hasta el que se permite la maniobra de PMD. Sin embargo, la jefa de estación DOZ de la estación de Louny volvió a no indicar la hora de inicio y finalización de la PMD. A pesar de ello, la jefa de estación de Klobuky v Čechách consintió la maniobra de PMD. La jefa de estación DOZ de la estación de Louny registró además la PMD en la aplicación de documentación de tráfico GTN con el número ficticio 809001, de nuevo sin indicar el kilómetro hasta el que se permite la maniobra de PMD, ni las horas desde y hasta las que se permite la maniobra de PMD; a continuación, mediante la maniobra SZZ, autorizó la salida de la PMD de la estación de Peruc. La hora de salida de la PMD la comunicó a la jefa de estación de Klobuky v Čechách solo tras su consulta.
 El maquinista del tren Os 9707 transcribió y aceptó sin objeciones la orden de PMD dictada, que, además de deficiencias parciales, no contenía la instrucción fundamental sobre hasta dónde está permitida la maniobra de PMD. Como se desprende de la investigación de las causas y circunstancias del origen de la MU, el maquinista interpretó la formulación de la orden: «...va a por el tren Os 9756 atascado, que está en el km 75,500...», esencialmente en consonancia con la intención de la jefa de estación DOZ de la estación de Louny, como esta instrucción, y asumió además que su maniobra estaba permitida hasta el km 75,500. De la documentación disponible se deduce que el maquinista no realizó la comparación de los porcentajes de frenado reales con los prescritos, ya que el único documento disponible sobre la realización de la prueba de freno antes de la maniobra de PMD, el registro de la realización de la ZBHV, no contiene el dato del porcentaje de frenado real.
 En la señal de salida S 1, el HDV arrancó desde la 1.ª SK. La velocidad de la PMD aumentó de forma progresiva, de modo que ya en la cabecera de la estación de Peruc alcanzó una velocidad de 60 km.h-1 (la velocidad de la PMD se excedió en 20 km.h-1 y la velocidad de línea establecida en 10 km.h-1). Tras pasar el indicador de velocidad N con la señal «Velocidad de línea 70 km.h-1», continuó aumentando la velocidad hasta 68 km.h-1. A continuación se produjo un descenso de la velocidad a 60 km.h-1 y, en los 600 m siguientes, mantuvo una velocidad entre 65 km.h-1 y 62 km.h-1. Antes de entrar en el tramo sin visibilidad, el único entre la estación de Peruc y la parada de Telce, se abrió al maquinista una vista despejada de la vía más allá de dicho tramo, en la zona de la parada de Telce, del paso a nivel P 2145 en el km 75,309 y de una parte de la vía hasta el kilómetro 75,400. El tren atascado no se encontraba allí obviamente, por lo que podía suponerse que estaba detenido en el tramo sin visibilidad. Que el maquinista de la PMD esperaba realmente encontrarlo aquí, a unos 120 m más allá, lo confirma también su declaración recogida en el Acta con el empleado. En la inspección del lugar de origen de la MU se constató que la cabeza del HDV detenido del tren Os 9756 era visible primero desde el km 75,750, es decir, a una distancia de 122 m. A pesar de que en este tramo la vía en el sentido de la marcha de la PMD discurre en pendiente, que aumenta progresivamente hasta el valor de 13,92 ‰, y de que tras las precipitaciones mixtas anteriores los raíles estaban mojados, el maquinista del HDV de la PMD redujo la velocidad solo lentamente. Tras avistar al maquinista del tren atascado, el maquinista de la PMD inició un frenado de acción rápida desde una velocidad de 50 km.h-1, es decir, desde una velocidad 10 km.h-1 superior a la velocidad establecida de la PMD. A pesar del intenso arenado, debido a las condiciones de adherencia desfavorables se produjo el derrape de las ruedas, que redujo considerablemente el efecto del frenado, de modo que al maquinista no le fue posible detenerse antes del HDV detenido del tren Os 9756 y se produjo el impacto. En la inspección del lugar de origen de la MU se detectó en los cantos de los raíles una huella de frenado intenso de 64 m de longitud. Sin embargo, el registro incorrecto del velocímetro del HDV
 
-
 ## Página 54
+
 
 en la última fase del frenado, causado precisamente por el derrape de las ruedas, impide un análisis más preciso de esta última parte del registro de la marcha.
 La comunicación registrada de todos los empleados implicados, tanto del gestor de la infraestructura como del transportista, se desarrolló antes del origen, pero también después del origen de la MU, en un estilo relajado e informal, y en contradicción con las normas legales e internas, véase la transcripción de la comunicación de las personas implicadas en el punto 3.5.2.
@@ -1673,8 +1627,8 @@ De la evaluación de los procedimientos tecnológicos del gestor de la infraestr
 7. salida del lugar del atasco de la forma establecida en la instrucción de la persona que dirige el transporte ferroviario.
 Del análisis de las causas y circunstancias de las MU registradas se evidencian los puntos 1., 3., 4. y 5. como críticos. El punto clave es siempre el punto 1., ya que las deficiencias en las instrucciones transmitidas por la persona que dirige el transporte ferroviario a la persona que dirige el DV (el maquinista) tienen una influencia directa en la ejecución segura de las actuaciones en los puntos 4. y 5. De ello puede deducirse la importancia fundamental de la instrucción sobre hasta dónde está permitida la maniobra de PMD. Por ello resulta sorprendente la vaguedad de las instrucciones del gestor de la infraestructura relacionadas con la determinación de dicho punto. Lógicamente, el primer paso es determinar el lugar de parada del tren atascado; el segundo paso es establecer el punto hasta el que se permite la maniobra de PMD, de modo que dicho punto se sitúe, en el sentido de la marcha de la PMD, siempre antes de los DV detenidos del tren atascado. La garantía de la seguridad del transporte ferroviario en estos casos depende de la indicación precisa de la posición kilométrica por parte del maquinista a la jefa de estación. Aquí se manifiesta la mencionada ambigüedad (indeterminación) en las instrucciones del gestor de la infraestructura, ya que el artículo 1319 de la norma interna SŽDC (ČD) D2 impone al maquinista del tren atascado la obligación de comunicar el lugar de parada del tren, sin exigir la indicación de otros detalles: «...a la vez indicará también la posición kilométrica del tren...», mientras que a la jefa de estación, en el artículo 39 e igualmente en el artículo 46 de la norma interna SŽDC (ČD)
 
-
 ## Página 55
+
 
 D 2/2 le impone: «La jefa de estación acordará la maniobra de PMD desde su propia estación hacia la vía libre (posición kilométrica de la cabeza o, en su caso, del final del tren atascado), donde la PMD finalizará la marcha». Atendiendo al hecho de que el maquinista no tiene establecido por el gestor de la infraestructura el conocimiento de la norma interna SŽDC (ČD) D 2/2, no queda más que constatar que el gestor de la infraestructura no ha establecido criterios unificados para la determinación, respectivamente, la comunicación de la posición kilométrica del tren atascado por parte del maquinista, ni para la determinación unívoca del punto de finalización de la maniobra de PMD por parte de la jefa de estación. Más exactamente, no ha establecido un procedimiento tecnológico que determinara a qué parte del tren atascado debe referirse la determinación y comunicación de su posición kilométrica. Al mismo tiempo, no ha delimitado las obligaciones que deben cumplir las distintas personas implicadas para la correcta ejecución de estas actuaciones de tráfico. Tampoco ha establecido un procedimiento tecnológico para los casos en que el maquinista del tren atascado no es capaz, por cualquier motivo, de determinar en absoluto la posición del tren atascado. Sin embargo, como muestra la práctica, la precisión en la determinación del lugar de parada del tren atascado presenta una desviación en el orden de decenas o incluso cientos de metros, y si en la comunicación de la posición kilométrica de parada de un tren de mercancías se confunde la cabeza con el final del tren, la desviación indicada puede llegar a los 600 m. El gestor de la infraestructura, con su planteamiento para la solución de la cuestión planteada, ha generado una situación en la que deja un amplio margen para la discusión mutua de los empleados implicados, que, como se deduce de las circunstancias constatadas recogidas en este informe, pueden conducir al origen de una MU.
 El punto 3., marcha por un tramo libre de la vía – no solo las maniobras de PMD para un tren atascado, sino todas las maniobras de PMD realizadas conforme a los procedimientos tecnológicos de referencia y vigentes en la actualidad del gestor de la infraestructura, para los que no se ordena la marcha según las condiciones de visibilidad, se realizan en contradicción con el Reglamento de Circulación Ferroviaria, es decir, con el decreto nº 173/1995 Sb. Dicho decreto, a diferencia de los procedimientos tecnológicos del gestor de la infraestructura, no define en la disposición § 1 letra n) la PMD como otra forma de marcha intencionada y organizada de un vehículo ferroviario, de lo que lógicamente se deduce que la PMD, a efectos de dicho decreto, se considera maniobra. La eventual objeción de que la definición de maniobra indicada en dicho § no puede aplicarse solo gramaticalmente no se sostiene, ya que el legislador incluye la PMD entre las maniobras también en la disposición § 16 apartado 11 del mismo decreto. El hecho de que no se trate de una medida autónoma, sino de la intención de aumentar la seguridad del transporte ferroviario, se deduce de la disposición § 35 apartado 1 letra p) del decreto nº 173/1995 Sb., al imponer la obligación unívoca de garantizar que la persona que dirige el DV, durante la maniobra, conduzca el HDV en condiciones de marcha según las condiciones de visibilidad.
@@ -1682,6 +1636,7 @@ La obligación de circular según las condiciones de visibilidad durante la mani
 La localización del DV del tren atascado por parte del maquinista de la PMD vuelve a ser uno de los puntos muy críticos. El procedimiento tecnológico del gestor de la infraestructura presupone, en todo caso, el conocimiento de la posición exacta de la cabeza o del final (según sea necesario) del tren atascado, y simultáneamente, en todo caso, una señalización de estación unívoca y visible que informe al maquinista de la PMD con la antelación suficiente de que se aproxima al DV del tren atascado, por lo que no aborda esta cuestión de forma especial. Como ya se ha justificado, la relación entre el lugar donde se encuentran realmente los DV del tren atascado y el dato que recibe en la instrucción escrita el maquinista de la PMD es, en la práctica, dada la cantidad de imprecisiones, muy laxa. Las personas que dirigen el transporte ferroviario, por tanto, al emitir
 
 ## Página 56
+
 
 písemných instrucciones ayudan con información complementaria, por ejemplo, "...unos 200 metros después de la parada ...", que sin embargo pueden inducir a error al maquinista. Así, una información similar condujo a la aparición de una MU, a la colisión de un PMD con un tren varado el 1 de 9 de 2009 entre la estación de Horní Lipová y la estación de Ostružná. Para esta MU se emitió una recomendación de seguridad, cuya primera parte, relativa precisamente a este punto, ni el operador de la infraestructura ni la Autoridad Ferroviaria han adoptado hasta la fecha la medida correspondiente.
 El quinto punto, la parada del PMD ante los DV estacionados del tren varado, se convierte también en crítico en relación con las deficiencias cometidas por los empleados del operador de la infraestructura y del transportista en las actuaciones relacionadas con los puntos 1., 3. y 4., ya que, como en el caso de esta MU, la no parada del PMD ante los DV estacionados es la culminación del suceso accidentológico. A esto contribuye de nuevo el procedimiento tecnológico emitido por el operador de la infraestructura, que determina como punto final de la marcha del PMD el kilómetro anunciado como lugar de parada del tren varado.
@@ -1700,57 +1655,56 @@ n.º 173/1995 Sb. al establecer el PMD como un modo adicional y especial de real
 2) los procedimientos tecnológicos del operador de la infraestructura no establecen un procedimiento obligatorio para la persona que dirige el DV del tren varado para la determinación inequívoca de la posición kilométrica de la cabeza (final) del tren, ni el procedimiento de dicha persona y de las personas que organizan el tráfico ferroviario, en los casos en que dicha posición no pueda determinarse de forma inequívoca;
 3) los procedimientos tecnológicos del operador de la infraestructura no establecen de forma inequívoca las condiciones de la marcha del PMD que se dirige a un tren varado.
 
-
 ## Página 57
 
 ###  4.4 Hallazgos complementarios
-###  4.4.1 Deficiencias y omisiones detectadas durante la investigación de las causas y circunstancias de la aparición del suceso excepcional, que sin embargo no son significativas para las conclusiones sobre las causas
-la actividad de control del transportista no se realizó en la extensión establecida por sus normas internas
+###  4.4.1 Deficiencias y omisiones detectadas durante la investigación de las causas y circunstancias del 
+accidente ferroviario, que sin embargo no son relevantes para las conclusiones sobre las causas
+la actividad de control del transportista no se realizó en la extensión establecida por sus normas internas 
 ●
 y no tuvo la suficiente eficacia;
-el hallazgo indicado es una infracción del apartado 2, letra f), del artículo 35 de la ley 266/1994 Sb.;
-la actividad de control del operador de la infraestructura no fue, en relación con las deficiencias detectadas,
+el hallazgo indicado constituye una infracción del § 35 apartado 2 letra f) de la ley 266/1994 Sb.;
+la actividad de control del gestor de la infraestructura no fue, en vista de las deficiencias detectadas, 
 ●
 óptimamente distribuida, orientada y no tuvo la suficiente eficacia;
-el hallazgo indicado es una infracción del apartado 2, letra d), del artículo 22 de la ley 266/1994 Sb.;
-las instrucciones dadas por los jefes de estación de la estación de Louny al dirigir el tráfico no fueron breves
+el hallazgo indicado constituye una infracción del § 22 apartado 2 letra d) de la ley 266/1994 Sb.;
+las instrucciones dadas por los jefes de estación de la estación de Louny al dirigir el tráfico no fueron breves 
 ●
-e inteligibles; al menos dos de ellas pusieron en peligro la seguridad del tráfico ferroviario. Asimismo,
-no se exigió por su parte la repetición de las instrucciones emitidas y, en la instrucción para la
-determinación de la posición kilométrica del tren varado, no se exigió diligentemente su
-cumplimiento. Los maquinistas que recibían las instrucciones de los jefes de estación no repetían
-dichas instrucciones y el maquinista del tren Os 9756 no cumplió la instrucción del jefe de estación
-para la determinación de la posición kilométrica del tren varado. De la transcripción de las grabaciones
-de las conversaciones telefónicas de las personas implicadas se desprende el desconocimiento y el
-incumplimiento de las disposiciones de la norma interna del operador de la infraestructura;
-el hallazgo indicado es una infracción del apartado 2, letra d), del artículo 22, del apartado 1, letra g),
-del artículo 35 de la ley 266/1994 Sb., del apartado 5 del artículo 14 de la ordenanza n.º 173/1995 Sb.,
-de la norma interna del operador de la infraestructura SŽDC (ČD) D2 artículos 28, 41, 42;
-emisión de una orden incompleta para la marcha del PMD por el jefe de estación DOZ de la estación de Louny y su
+y comprensibles, al menos dos de ellas pusieron en peligro la seguridad del transporte ferroviario. Asimismo 
+no se exigió por su parte la repetición de las instrucciones emitidas y en la instrucción para 
+determinar la posición kilométrica del tren atascado no se exigió de forma estricta su 
+cumplimiento. Los maquinistas que recibían instrucciones de los jefes de estación no repetían 
+estas instrucciones y el maquinista del tren Os 9756 no cumplió la instrucción del jefe de estación para determinar la posición kilométrica 
+del tren atascado. De la transcripción de las grabaciones de las conversaciones telefónicas de las personas 
+involucradas se desprende el desconocimiento y el incumplimiento de las disposiciones de la norma interna del gestor de la infraestructura; 
+el hallazgo indicado constituye una infracción del § 22 apartado 2 letra d), § 35 apartado 1 letra g de la ley 
+266/1994 Sb., § 14 apartado 5 del decreto nº 173/1995 Sb., de la norma interna del gestor de la 
+infraestructura SŽDC (ČD) D2 artículos 28, 41, 42;
+la emisión de una orden incompleta para la circulación del PMD por el jefe de estación DOZ de la estación de Louny y su recepción 
 ●
-aceptación por el maquinista del PMD;
-el hallazgo indicado es una infracción del apartado 2, letra d), del artículo 22 y del apartado 2, letra f),
-del artículo 35 de la ley 266/1994 Sb.;
-el operador de la infraestructura – el subdirector para la gestión de la explotación de la Oficina Regional de
+por el maquinista del PMD;
+el hallazgo indicado constituye una infracción del § 22 apartado 2 letra d) y del § 35 apartado 2 letra f) de la ley 
+266/1994 Sb.;
+el gestor de la infraestructura – el subdirector de gestión de la explotación de la Oficina Regional de Ústí nad Labem 
 ●
-Ústí nad Labem reiteradamente se negó a entregar al DI la evidencia solicitada de la actividad de control de la PO
-de Louny, referente a la investigación de las causas y circunstancias de la aparición del suceso excepcional
-en cuestión;.
-el hallazgo indicado es una infracción del apartado 3, letra e), del artículo 53 de la ley 266/1994 Sb.
+rechazó en repetidas ocasiones entregar al DI la evidencia de la actividad de control de PO Louny solicitada, 
+relativa a la investigación de las causas y circunstancias del accidente ferroviario en cuestión;.
+el hallazgo indicado constituye una infracción del § 53 apartado 3 letra e) de la ley 266/1994 Sb.
 ##  5 MEDIDAS ADOPTADAS
-###  5.1 Lista de medidas que ya se han tomado o adoptado como consecuencia del suceso excepcional
-el operador de la infraestructura no adoptó ninguna medida;
+###  5.1 Lista de medidas que ya se han tomado o adoptado como 
+consecuencia del accidente ferroviario
+el gestor de la infraestructura no adoptó ninguna medida;
 ●
 el transportista:
 ●
-el 10 de 4 de 2012 emitió "Complemento de condiciones para el PMD", n.º de ref.: 737/2012-O12;
+el 10 de abril de 2012 emitió "Adición de condiciones para el PMD", ref.: 737/2012-O12;
 ◦
-las circunstancias y la causa de la aparición de la MU las debatió en el órgano consultivo de
+las circunstancias y la causa del accidente ferroviario se debatieron en el órgano consultivo de directivos 
 ◦
-directivos del DKV Plzeň.
-
+de DKV Plzeň.
 
 ## Página 58
+
 
 ##  6 RECOMENDACIONES DE SEGURIDAD
 La Inspección Ferroviaria, como autoridad competente en la materia según la disposición del apartado 5 del artículo 53b de la ley n.º 266/1994 Sb., de ferrocarriles, en su versión vigente, sobre la base de los resultados de la investigación de las causas y circunstancias de la aparición del suceso excepcional, para reducir la probabilidad de la aparición de sucesos excepcionales similares, recomienda al operador de la infraestructura SŽDC, s. o.:
@@ -1773,20 +1727,19 @@ inspector principal
 Oficina de Inspección Territorial de Praga
 Oficina de Inspección Territorial de Praga
 
-
 ## Página 59
+
 
 ##  7 ANEXOS
 Foto 1: vista de la cabeza del tren Os 9756
 Foto 2: detrás del tren Os 9756 se ve bien el marcador hectométrico 75,6
 
-
 ## Página 60
 
-Foto 3: vista del HDV del PMD, los cristales rotos de las ventanillas delanteras yacen en el lugar del impacto
-Foto 4: recorte de la foto anterior, desde el lugar de aparición de la MU se ve bien el marcador hectométrico 75,7
-
+Foto 3: vista del HDV PMD, los fragmentos de los parabrisas delanteros se encuentran en el lugar del impacto
+Foto 4: recorte de la foto anterior, desde el lugar de origen del MU se ve claramente el hito hectométrico 75,7
 
 ## Página 61
+
 
 Foto 5: orden PV redactada por el maquinista del tren Os 9707 según el dictado del jefe de estación DOZ de la estación de Louny

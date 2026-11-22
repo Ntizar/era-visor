@@ -10,13 +10,14 @@ chars: 131537
 ratio_longitud: 1.26
 tokens_in: 68448
 tokens_out: 46819
-verificacion: revisar
-notas_cifras: ["bloque 2: original bilingüe: se compara contra el idioma principal (CS)", "bloque 5: original bilingüe: se compara contra el idioma principal (CS)", "bloque 6: original bilingüe: se compara contra el idioma principal (CS)", "bloque 16: original bilingüe: se compara contra el idioma principal (CS)"]
-avisos: ["bloque 6: ratio 1.77", "bloque 16: ratio 1.68"]
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 4: original bilingüe: se compara contra el idioma principal (EN)", "página 5: original bilingüe: se compara contra el idioma principal (PT)", "página 6: original bilingüe: se compara contra el idioma principal (CS)", "página 7: original bilingüe: se compara contra el idioma principal (PT)", "página 9: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 Inspección Ferroviaria
 República Checa
@@ -41,11 +42,12 @@ CIF:   75009561
 http://www.dicr.cz
 fax: (+420) 224 805 428
 
-
 ## Página 2
 
 
+
 ## Página 3
+
 
 # RESUMEN
 Gravedad:
@@ -88,8 +90,8 @@ drah a její prostorová poloha – Část 1: Projektování“ (Párrafo 8.4.2
 y Tabla C.3.1) en relación con la circulación de coches de 26.4 m o más 
 de longitud.
 
-
 ## Página 4
+
 
 # Índice
  Resumen .........................................................................................................................3
@@ -133,6 +135,7 @@ relación contractual ..........................................................
 
 ## Página 5
 
+
 3.1.2 Otras personas .........................................................................................................17
 3.2 Sistema de garantía de la seguridad ........................................................................17
 3.2.1 Organización marco y forma en que se emiten y ejecutan las instrucciones .......17
@@ -163,8 +166,8 @@ aplicación ....................................................................
 ............................................................................................................................31
 4.2 Análisis ......................................................................................................................31
 
-
 ## Página 6
+
 
 4.2.1 Evaluación de los hechos constatados según el punto 3 y formulación de conclusiones sobre la causa del suceso excepcional y la actuación de los servicios de emergencia ..........................................31
 4.3 Conclusiones .......................................................................................................................34
@@ -181,8 +184,8 @@ aplicación ....................................................................
  7. 1 Documentación fotográfica del lugar del suceso excepcional ........................................................38
      7. 2 Plano del lugar del suceso excepcional...........................................................................39
 
-
 ## Página 7
+
 
 ## 1 RESUMEN
 Grupo del suceso: accidente grave.
@@ -198,6 +201,7 @@ El daño total constatado derivado del suceso excepcional asciende a 7.481.228,-
 
 ## Página 8
 
+
 Causa inmediata: longitud insuficiente de la recta entre arcos de sentidos opuestos de 2,479 m entre los arcos de sentidos contrarios de los desvíos n.º 26 y n.º 28.
 Causa fundamental: no haber realizado la verificación de los parámetros operativos de la superestructura ferroviaria de la cabeza de la vía de la estación de clasificación A de la estación ferroviaria Brno hl. n. en función del cambio de los parámetros constructivo-técnicos surgido de la renovación de los desvíos n.º 28 y n.º 26 y en función del cambio de las condiciones operativas surgido al explotar el transporte ferroviario mediante el uso de vehículos ferroviarios de 26,4 m de longitud o superiores.
 Causa derivada del marco normativo en el uso del sistema de garantía de seguridad: no llevar a cabo el registro, seguimiento y verificación sistemática y continuada de los parámetros de paso de las líneas y de la capacidad de paso de los vehículos ferroviarios de 26,4 m de longitud o superiores que de ellos se derivan.
@@ -211,20 +215,32 @@ El suceso extraordinario en el transporte ferroviario (en adelante, MU) tuvo lug
 ### 2.1.2 Descripción del suceso extraordinario y del lugar del accidente, incluida la actuación del sistema integrado de emergencias y del servicio de rescate
 Al suceso extraordinario precedió una situación en la que, en la vía de maniobras de estación n.º 667 de la est. Brno hl. n., clas. A, se encontraba detenido un tramo de maniobras, formado por el convoy del tren EC 71, preparado para ser empujado hacia el ámbito de la estación de viajeros. El equipo de maniobras estaba formado por el empleado que dirigía las maniobras, el jefe de
 
-
 ## Página 9
 
-maniobras, que se encontraba a la cabeza del tramo de maniobras empujado, en el primer saliente frontal del primer vehículo ferroviario (en adelante, VF). Las instrucciones para las maniobras eran dadas por el jefe de maniobras a la persona que conducía el vehículo ferroviario (en adelante, maquinista) mediante una estación de radio portátil (en adelante, emisora). Una vez iniciado el empuje, el jefe de maniobras daba instrucciones para el empuje en intervalos regulares e informaba al maquinista de las señales de los señales de enclavamiento de maniobras. Durante el empuje se produjo el descarrilamiento, en el sentido desde la cabeza del tramo de maniobras empujado, de los VF 3.º, 4.º y 5.º en el desvío n.º 29. Ante los golpes longitudinales producidos en el convoy empujado, el maquinista reaccionó aplicando el freno continuo automático de aire. Inmediatamente después, el maquinista recibió a través de la estación de radio del vehículo (en adelante, emisora) la instrucción de detener el tramo de maniobras empujado. En ese momento, el tramo de maniobras ya se estaba deteniendo.
+del movimiento, que se encontraba a la cabeza de la maniobra de empuje, en el frontal del primer vehículo ferroviario (en adelante, DV). Las instrucciones para la maniobra eran dadas por el jefe de maniobra a la persona que conducía el vehículo ferroviario (en adelante, maquinista) mediante una radio portátil (en adelante, emisora). Una vez iniciado el empuje, el jefe de maniobra daba instrucciones para el empuje en intervalos regulares e informaba al maquinista sobre las señales de los señales de clasificación. Durante el empuje se produjo un descarrilamiento, en la dirección desde el frente de la maniobra de empuje de los DV 3., 4. y 5. en el desvío n.º 29. Ante los golpes longitudinales producidos en el tren empujado, el maquinista reaccionó aplicando frenado continuo con el freno automático de vacío continuo. Inmediatamente después, el maquinista recibió a través de la radio del vehículo (en adelante, emisora) la instrucción de detener la maniobra de empuje. En ese momento, la maniobra de empuje ya se estaba deteniendo.
 Del examen de los vehículos se constató:
-El tramo de maniobras fue empujado por un vehículo ferroviario motriz (en adelante, VFM) de la marca Siemens, serie 1216 238-6 (ÖBB), conducido por el maquinista desde la cabina de conducción 1, trasera en el sentido de empuje. El VFM no resultó dañado como consecuencia del suceso extraordinario.
-En la posición final, la cabeza del tramo de maniobras empujado se encontraba en el pk 142,511, en la vía n.º 3b, es decir, 159 m más allá del punto «0». El tramo de maniobras no se vio roto como consecuencia del suceso extraordinario. Los VF individuales estaban unidos entre sí con los topes en contacto, conectados por la tubería de aire del freno automático de aire continuo y de la tubería de suministro. Las llaves de enganche entre los vehículos estaban abiertas. Los dos primeros VF no sufrieron descarrilamiento ni daños. El tercer VF empujado 73 54 21-91 012-7 Bmz se encontraba con la cabeza en el pk 142,4582, descarrilado con el primer eje a la derecha, el tercero y el cuarto eje a la izquierda en el sentido de empuje de la vía 3b. El cuarto VF empujado 73 54 21-91 006-9 Bmz se encontraba con la cabeza en el pk 142,4318, descarrilado con ambos bogies, con todos los ejes en el sentido de empuje a la izquierda del desvío n.º 31. El quinto VF empujado 73 54 88-91 007-7 WRmz se encontraba con la cabeza en el pk 142,4054, descarrilado con el bogie trasero con ambos ejes en el desvío n.º 30ab. El sexto VF empujado 73 54 10-91 014-6 de la serie Ampz se encontraba sin descarrilar con la cabeza en el pk 142,3785 en el desvío n.º 29, con los topes enganchados en el quinto VF.
-Como consecuencia del suceso extraordinario, 4 de los 6 VF del convoy del tren EC 71 sufrieron daños.
-● 73 54 21-91 012-7 [propietario České dráhy, a. s. (en adelante, ČD, a. s.)] de la serie Bmz, dañado, descarrilado con ambos bogies, con tres ejes. En el aparato de enganche se constataron huellas de enganche, en el lado «a», es decir, en la parte trasera en el sentido de marcha, en el top izquierdo por el exterior un roce, por el interior una huella de fuerte fricción. La parte derecha del disco del tope estaba rota. En el lado «b» tope derecho - disco deformado y huellas de roce en sentido vertical en la parte lateral del tubo del tope. Longitud del VF entre topes 26,4 m, distancia entre pivotes 19 m, peso 49,6 t. En el lado del bogie «a» dañados los topes limitadores de ángulo de giro del bogie, en el lado del bogie «b» sin daños.
-● 73 54 21-91 006-9 (propietario ČD, a. s.) de la serie Bmz, dañado, descarrilado con ambos bogies con todos los ejes. En el aparato de enganche se constataron huellas de enganche, en el lado «a» y «b», se constató un roce por el interior. En el tope derecho disco deformado, por el interior doblado hacia dentro, por el exterior huellas de roce visibles. Longitud del VF entre topes 26,4 m, distancia entre pivotes 19 m, peso 49,6 t. En los bogies «a» y «b» dañados los topes limitadores de ángulo de giro del bogie.
-● 73 54 88-91 007-7 (propietario ČD, a. s.) de la serie WRmz, dañado, descarrilado con el bogie trasero con ambos ejes. En el aparato de enganche se constataron huellas de enganche, en el lado «a» y «b» huellas de roce visibles en las caras interiores de los tubos de los topes y en los laterales de los discos de los topes. Longitud del VF entre topes 26,9 m, distancia entre pivotes 19,4 m, peso 53 t. En los bogies «a» y «b» dañados los topes limitadores de ángulo de giro del bogie.
-● 73 54 10-91 014-6 (propietario ČD, a. s.) de la serie Ampz, dañado, sin descarrilar. El aparato de enganche en el lado «b» presentaba huellas de enganche. Se constataron huellas de roce por el interior y en el borde del disco del tope derecho. Longitud del VF entre topes 26,4 m, distancia entre pivotes 19 m, peso 47 t. En los bogies «a» y «b» los topes limitadores de ángulo de giro del bogie sin daños.
+La maniobra de empuje fue empujada por un vehículo ferroviario motriz (en adelante, HDV) de la marca Siemens, serie 1216 238-6 (ÖBB), conducido por el maquinista desde la cabina de conducción 1, trasera en la dirección de empuje. El HDV no resultó dañado como consecuencia del MU.
+En la posición final, el frente de la maniobra de empuje se encontraba en el km 142,511, en la vía n.º 3b, es decir, 159 m detrás del punto «0». La maniobra de empuje no se vio rota como consecuencia del MU. Los DV individuales estaban conectados entre sí por contacto de los topes, unidos por la tubería de aire del freno automático de vacío continuo y de la tubería de suministro. Las llaves de enganche entre los vehículos estaban abiertas. Los dos primeros DV no se descarrilaron ni resultaron dañados. El tercer DV empujado 73 54 21-91 012-7 Bmz se encontraba con el frontal en el km 142,4582, descarrilado por el primer eje a la derecha, y por el tercer y cuarto eje a la izquierda en la dirección de empuje de la vía 3b. El cuarto DV empujado 73 54 21-91 006-9 Bmz se encontraba con el frontal en el km 142,4318, descarrilado por ambos bogies, por todos los ejes en la dirección de empuje a la izquierda del desvío n.º 31. El quinto DV empujado 73 54 88-91 007-7 WRmz se encontraba con el frontal en el km 142,4054, descarrilado por el bogie trasero con ambos ejes en el desvío n.º 30ab. El sexto DV empujado 73 54 10-91 014-6 de la serie Ampz se encontraba sin descarrilar con el frontal en el km 142,3785 en el desvío n.º 29, con los topes enganchados en el quinto DV.
+Como consecuencia del MU, 4 de los 6 DV del tren para el tren EC 71 resultaron dañados.
+73 54 21-91 012-7
+  [propietario České dráhy, a. s. (en adelante, ČD, a. s.)] de la serie Bmz, dañado,
+●
+descarrilado por ambos bogies, por tres ejes. En el aparato de enganche se constataron huellas de enganche, y esto en el lado «a», es decir, en la parte trasera en la dirección de marcha, en el top izquierdo por el lado exterior un roce, por el lado interior una huella de fuerte fricción. La parte derecha del plato del tope estaba rota. En el lado «b» tope derecho - plato deformado y huellas de roce en sentido vertical en la parte lateral del tubo del tope. Longitud del DV con topes 26,4 m, distancia entre pivotes 19 m, peso 49,6 t. En el lado del bogie «a» dañados los topes limitadores de ángulo de giro del bogie, en el lado del bogie «b» sin daños.
+73 54 21-91 006-9
+  (propietario ČD, a. s.) de la serie Bmz, dañado, descarrilado por ambos bogies
+●
+por todos los ejes. En el aparato de enganche se constataron huellas de enganche, y esto en el lado «a» y «b», se constató un roce por el lado interior. En el top derecho plato deformado, por el lado interior doblado hacia dentro, por el lado exterior huellas de roce visibles. Longitud del DV con topes 26,4 m, distancia entre pivotes 19 m, peso 49,6 t. En los bogies «a» y «b» dañados los topes limitadores de ángulo de giro del bogie.
+73 54 88-91 007-7
+  (propietario ČD, a. s.) de la serie WRmz, dañado, descarrilado por el bogie
+●
+trasero con ambos ejes. En el aparato de enganche se constataron huellas de enganche, y esto en el lado «a» y «b» huellas de roce visibles en los lados interiores de los tubos de los topes y en los laterales de los platos de los topes. Longitud del DV con topes 26,9 m, distancia entre pivotes 19,4 m, peso 53 t. En los bogies «a» y «b» dañados los topes limitadores de ángulo de giro del bogie.
+73 54 10-91 014-6
+  (propietario ČD, a. s.) de la serie Ampz, dañado, sin descarrilar. El aparato de
+●
+enganche en el lado «b» presentaba huellas de enganche. Se constataron huellas de roce por el lado interior y en el borde del plato del top derecho. Longitud del DV con topes 26,4 m, distancia entre pivotes 19 m, peso 47 t. En los bogies «a» y «b» los topes limitadores de ángulo de giro del bogie sin daños.
 
 ## Página 10
+
 
 Mediante el examen de los componentes de la infraestructura ferroviaria se constató:
 El lugar del descarrilamiento fue determinado pericialmente en el desvío n.º 29. El punto «0» fue fijado en el pk 142,352, en el lugar de la rotura de la lengüeta izquierda (en el sentido de la marcha, en el carril derecho). La lengüeta del desvío n.º 29 era izquierda, curvada, de muelle, soldada de raíles de perfil S49, año de fabricación 1986. La rotura se encontraba en la muesca de muelle del pie de la lengüeta, cerca de la transición al perfil normal del pie del raíl. A una distancia de 0,5 m de la rotura de la lengüeta se encontraba el 3.º apoyo de lengüeta, que quedó roto como consecuencia del descarrilamiento. La marca de presión en la parte exterior de la lengüeta, procedente del 3.º apoyo de lengüeta, indicaba una carga lateral de la lengüeta.
@@ -250,8 +266,8 @@ VÍTKOVICE TESTING CENTER, spol. s r. o., con sede en Pohraniční 584/142, Ostr
 ●
 Hulváky.
 
-
 ## Página 11
+
 
 ### 2.2 Circunstancias del suceso excepcional
 ### 2.2.1 Empleados participantes del explotador de la vía férrea y del transportista, personas en relación contractual y demás participantes y testigos
@@ -294,6 +310,7 @@ La vía de maniobras n.º 667 de la est. Brno hl. n., distrito de la est. n. A, 
 
 ## Página 12
 
+
 n.º 667 continúan los desvíos n.º 26, 28, 29, 30ab, 31.
 Los desvíos indicados son de las formas:
 desv. n.º 26 – J T 7° Lp d con radio de la rama de desvío de 180 m;
@@ -306,8 +323,8 @@ Todo el ámbito de la vía muerta n. A, y por tanto también la vía n.º 667, s
 Descripción de la ruta de maniobra:
 según la documentación de proyecto, la ruta de maniobra se conducía desde el ámbito de la vía muerta n. A, desde la parte recta de la vía n.º 667 con un arco derecho continuo de radio 250 m, a través del desvío n.º 26 por la aguja hacia el desvío con un arco derecho de radio 180 m, con un tramo recto entre arcos de direcciones opuestas de 2,479 m de longitud formado por la parte del comienzo del desvío n.º 26 y la corazón del desvío n.º 28, y posteriormente a través del desvío n.º 28 por la aguja con un arco izquierdo de radio 180 m, sin tramo recto entre arcos, a través del desvío n.º 29 por la aguja en dirección recta, a través del desvío n.º 30a contra la aguja en dirección recta y a través del desvío 30b por la aguja en dirección recta, a través del desvío n.º 31 por la aguja en dirección secundaria, con un arco izquierdo de radio 190 m hacia la vía 3b y posteriormente hacia la vía n.º 9k en el ámbito de la estación de pasajeros.
 
-
 ## Página 13
+
 
 Est. Brno hl. n., ámbito de la vía muerta n. A, está equipado con un aparato de enclavamiento de estación (en adelante SZZ) de 2.ª categoría, según TNŽ 34 2620 "Aparatos de enclavamiento ferroviarios. Aparatos de enclavamiento de estación y de línea", con desviables electromotores con control de posición, sin circuitos de vía, situado en el puesto de enclavamiento 3. El SZZ se controla mediante conmutadores en la mesa de vías. La señal luminosa de maniobras Se31 para la salida de las vías n.º 661 – 669, situada a la derecha de la vía de estación n.º 661, la opera el señalero St. 4 tras la notificación de la constitución de la parte de la ruta de maniobra hacia/desde la vía muerta n. A por el señalero St. 3. La señal de maniobras Se41 para la circulación por la vía 3b, situada a la derecha de la vía de estación 3b antes de las agujas del desvío n.º 106, la opera el señalero St. 4.
 La ruta de maniobra de la parte de maniobra empujada desde la vía de estación n.º 667 hacia la vía de estación n.º 3b fue constituida con la operación normal del aparato de enclavamiento de estación:
@@ -358,24 +375,49 @@ circuito de abonados.
 
 ## Página 14
 
-Del maquinista de la maniobra empujada:
-● radiofónica de vehículo HDV serie 1216 238-6 GSM-R Dual Kapsch ZFM04 SW 2.6.0.7.,
-● sintonizada en la frecuencia de la 6.ª reserva de maniobras.
-Del jefe de maniobras:
-● emisora Motorola P 040, número de serie 422HCWD945, sintonizada en la frecuencia
-● de la 6.ª reserva de maniobras.
-Para la transmisión de información entre la 6.ª reserva de maniobras, el maquinista de la 6.ª reserva de maniobras y los señaleros St. 3 y St. 4 se utilizó la red tecnológica 19: STE 05, frecuencia 157,975 MHz.
-La aparición de la MU fue comunicada por la señalera St. 3 al supervisor de explotación en los turnos PO Brno. La comunicación entre los distintos participantes se llevó a cabo mediante emisoras Motorola y la radiofónica de vehículo GSM-Dual Kapsch ZFM04 SW 2.6.0.7. en la frecuencia de la 6.ª reserva de maniobras.
-Las conversaciones entre los distintos participantes no están registradas.
-### 2.2.5 Trabajos realizados en el lugar del suceso excepcional y en sus inmediaciones
-En el lugar de la MU no se realizaron, inmediatamente antes de su aparición, por parte del propietario ni del gestor de la vía, trabajos de reparación o mantenimiento en la superestructura, subestructura y línea de contacto, ni otros trabajos en la explotación de la vía relacionados con la aparición de la MU.
-### 2.2.6 Activación del plan para el caso de suceso excepcional en la vía y secuencia de acontecimientos
-Para el caso de notificación de una MU en la vía, el gestor de la vía, Správa železniční dopravní cesty, organización estatal (en adelante SŽDC, s. o.), tiene aprobado el reglamento interno SŽDC (ČD) Dp 17 "Reglamento para la notificación e investigación de sucesos excepcionales", aprobado bajo el n.º de expediente: 70778/2006, de fecha 31. 10. 2006, en vigor desde el 01. 01. 2007, en su versión vigente, que fue asumido por el gestor de la vía SŽDC, s. o., en el sentido del BOLETÍN DE TRANSPORTE Y TARIFAS n.º 29-30 de fecha 16. 07. 2008. El supervisor de explotación en los turnos PO Brno actuó en el sentido del mencionado reglamento PARTE SEGUNDA NOTIFICACIÓN DE SUCESOS EXCEPCIONALES, Capítulo I "Obligación de notificación" arts. 42 y 46. El supervisor de explotación en los turnos PO Brno actuó asimismo conforme al CUADRO DE NOTIFICACIÓN del gestor de la vía elaborado para la est. Brno hl. n. La aparición de la MU fue notificada al jefe despachador del Centro Regional de Explotación de Brno y al IZS.
-La aparición de la MU fue comunicada inmediatamente tras la constatación de los hechos por la señalera St. 3 al supervisor de explotación en los turnos PO Brno. La aparición de la MU fue comunicada de inmediato por el supervisor de explotación PO Brno al jefe despachador del Centro Regional de Explotación de Brno y, a continuación, a la guardia de accidentes del Inspectorado Regional de Seguridad del Transporte Ferroviario (en adelante RIBŽD) de Brno. Asimismo, la MU fue comunicada también al IZS. La aparición de la MU fue notificada al DI en el COP a las 07:58 h, es decir, 56 minutos después de la aparición de la MU, por la guardia de accidentes del RIBŽD Brno en nombre del gestor del transporte ferroviario.
-En virtud del "Contrato de colaboración en la investigación de sucesos excepcionales en el transporte ferroviario y de accidentes laborales mortales y graves" celebrado el 30. 06. 2008 entre SŽDC, s. o., y ČD, a. s., la aparición de la MU fue notificada al DI en el COP por el inspector superior de ČD, a. s., RIBŽD Brno, persona designada en el sentido del § 9 apart. 1 del decreto n.º 376/2006 Sb., para la investigación de las causas y circunstancias de la aparición de la MU, a las 07:58 h, es decir, 56 minutos después de la aparición de la MU, también en nombre del gestor de la vía.
-
+Del conductor de la maniobra de empuje:
+radio de a bordo del HDV serie 1216 238-6 GSM-R Dual Kapsch ZFM04 SW 2.6.0.7., 
+●
+sintonizado en la frecuencia de la 6.ª reserva de maniobras.
+Jefe de maniobras: 
+emisora Motorola P 040, número de serie 422HCWD945, sintonizada en la frecuencia 
+●
+de la 6.ª reserva de maniobras.
+Para la transmisión de información entre la 6.ª reserva de maniobras, el conductor de la 6.ª reserva de maniobras 
+y los señalizadores St. 3 y St. 4 se utilizó la red tecnológica 19: STE 05, frecuencia 157,975 MHz.  
+La aparición de la MU fue comunicada por la señalizadora St. 3 al supervisor de explotación en los turnos PO Brno. La comunicación entre 
+los distintos participantes se llevó a cabo mediante emisoras Motorola y la radio de a bordo 
+GSM-Dual Kapsch ZFM04 SW 2.6.0.7. en la frecuencia de la 6.ª reserva de maniobras. 
+Las llamadas entre los distintos participantes no están registradas.
+### 2.2.5 Trabajos realizados en el lugar del suceso excepcional y en sus proximidades
+En el lugar de la MU no se realizaron, inmediatamente antes de su aparición, por parte del propietario ni del explotador de la vía, 
+ningún trabajo de reparación o mantenimiento en la superestructura, subestructura y línea de contacto, 
+ni otros trabajos en la explotación de la vía relacionados con la aparición de la MU.
+### 2.2.6 Activación del plan para el caso de un suceso excepcional en la vía y secuencia de acontecimientos
+Para el caso de la notificación de una MU en la vía, el explotador de la vía, Správa železniční dopravní cesty, organización estatal 
+(en adelante SŽDC, s. o.), tiene emitido el reglamento interno SŽDC (ČD) Dp 17 "Reglamento para la notificación 
+e investigación de sucesos excepcionales", aprobado bajo el n.º de expediente: 70778/2006, de fecha 31. 10. 2006, con entrada en vigor 
+el 01. 01. 2007, en su versión vigente, que fue asumido por el explotador de la vía SŽDC, s. o., en el sentido del 
+BOLETÍN de transporte y tarifas n.º 29-30 de 16. 07. 2008. El supervisor de explotación en los turnos PO Brno 
+procedió en el sentido del mencionado reglamento en la PARTE SEGUNDA NOTIFICACIÓN DE SUCESOS 
+EXCEPCIONALES, Capítulo I "Obligación de notificación" arts. 42 y 46. El supervisor de explotación en los turnos PO Brno 
+procedió asimismo según el CUADRO DE NOTIFICACIÓN del explotador de la vía elaborado para 
+la est. Brno hl. n. La aparición de la MU fue notificada al jefe de despacho del Centro Regional de Explotación de Brno 
+y al IZS.
+La aparición de la MU fue comunicada inmediatamente tras constatar los hechos por la señalizadora St. 3 al supervisor de explotación en 
+los turnos PO Brno. La aparición de la MU fue notificada de inmediato por el supervisor de explotación PO Brno al jefe de 
+despacho del Centro Regional de Explotación de Brno y, a continuación, a la guardia de accidentes del 
+Inspectorado Regional de Seguridad del Transporte Ferroviario (en adelante RIBŽD) de Brno. 
+Simultáneamente se comunicó la MU también al IZS. La aparición de la MU fue notificada por el DI en el COP a las 07:58 h, es decir, 56 minutos después de la aparición de la MU, por la guardia de 
+accidentes del RIBŽD Brno en nombre del explotador del transporte ferroviario. 
+En virtud del contrato "Contrato de colaboración en la investigación de sucesos excepcionales en el transporte ferroviario 
+y de accidentes laborales mortales y graves" celebrado el 30. 06. 2008 entre SŽDC, s. o., y ČD, 
+a. s., la aparición de la MU fue notificada en el COP por el DI, por el inspector superior de ČD, a. s., RIBŽD Brno, persona 
+designada en el sentido del § 9 apart. 1 del decreto n.º 376/2006 Sb., para la investigación de las causas y circunstancias de la aparición 
+de la MU, a las 07:58 h, es decir, 56 minutos después de la aparición de la MU, también en nombre del explotador de la vía.
 
 ## Página 15
+
 
 ### 2.2.7 Activación del plan del sistema integrado de emergencia, de la policía y del servicio médico de emergencia y secuencia de acontecimientos
 La MU fue comunicada al IZS por el gestor del transporte ferroviario a través de la persona designada competente en el sentido del decreto n.º 376/2006 Sb., sin demora innecesaria, inmediatamente tras la constatación de los hechos por el supervisor de explotación en los turnos PO Brno.
@@ -404,39 +446,57 @@ En los componentes de la vía de circulación – superestructura, subestructura
 
 ## Página 16
 
-lomo izquierdo de la lengua doblada de la aguja n.º 29;
+lomo izquierdo de la lengua de aguja curvada de la aguja n.º 29;
 ●
-deformado el tope de riel en el extremo del tramo de vía ciego n.º 661b;
+deformado el tope de riel en el extremo del tramo muerto n.º 661b;
 ●
-dañado el accionador electromotor de la aguja n.º 31, los ganchos de enganche de la aguja n.º 30ab
+dañado el motor eléctrico de cambio de aguja de la aguja n.º 31, los ganchos de 
 ●
-y el enganche de mordazas tipo VZ 200 de la aguja n.º 31;
-en el tramo desde la aguja n.º 30ab hasta la aguja n.º 31, dañadas las traviesas de madera, las
+enganche de la aguja n.º 30ab y el enganche de mandíbula tipo VZ 200 de la aguja n.º 31;
+en el tramo desde la aguja n.º 30ab hasta la aguja n.º 31, dañadas las traviesas de madera, 
 ●
-placas de asiento, los elementos de sujeción, el cuerpo de la aguja n.º 30ab y el listón derecho de la aguja n.º 31;
-a lo largo de la aguja n.º 31, dañadas las rutas de cables paralelas;
+las placas base, los elementos de fijación, el cuerpo de la aguja n.º 30ab y el carril de 
+retención derecho de la aguja n.º 31;
+a lo largo de la aguja n.º 31, dañadas las trazas de cables paralelas;
 ●
-en el puente adyacente en el pk 142,475, dañado el barandal izquierdo.
+en el puente adyacente en el km 142,475, dañado el barandal izquierdo.
 ●
-El daño en la infraestructura de la vía, es decir, en la superestructura, la superestructura propiamente dicha y los SZZ, fue valorado por el explotador de la vía en 13.000,- CZK.
+El daño en la infraestructura de la vía, es decir, en la plataforma, la superestructura y el 
+SZZ, fue valorado por el explotador de la vía en 13.000,- CZK.
 No se produjo ningún accidente ecológico.
 ### 2.4 Circunstancias externas
 ### 2.4.1 Condiciones meteorológicas y datos geográficos
-Tiempo: temperatura del aire +8 ºC, despejado, calma, la visibilidad superior a 100 m no se vio reducida por influencias meteorológicas.
-Coordenadas GPS del lugar del MU: 49° 10' 54.05“ N, 16° 36' 24.77“ E.
+Tiempo: temperatura del aire +8 ºC, despejado, calma, la visibilidad superior a 100 m no se vio 
+reducida por influencias meteorológicas.
+Coordenadas GPS del lugar del MU: 49° 10' 54.05" N, 16° 36' 24.77" E.
 ## 3 REGISTRO DE LAS EXPLICACIONES PRESENTADAS
-### 3.1 Resumen de las explicaciones presentadas (sujeto a la protección de la identidad de las personas)
-### 3.1.1 Empleados del explotador de la vía y del transportista, incluidas personas en relación contractual
-En relación con la investigación de las causas y circunstancias de la aparición del citado MU, se recopilaron las siguientes explicaciones presentadas por empleados del explotador de la vía y del transportista, que forman parte del expediente del MU:
-en el Acta con un empleado, redactada por el transportista con el jefe de maniobras de la
+### 3.1 Resumen de las explicaciones presentadas (sujeto a protección de la identidad de las 
+personas)
+### 3.1.1 Empleados del explotador de la vía y del transportista, incluidas personas en 
+relación contractual
+En relación con la investigación de las causas y circunstancias de la aparición del MU en 
+cuestión, se recopilaron las siguientes explicaciones presentadas por empleados del 
+explotador de la vía y del transportista, que forman parte del expediente del MU:
+en el Acta con un empleado, redactada por el transportista con el jefe de maniobras de la 
 ●
-unidad de maniobras empujada, en DKV Brno el 06. 04. 2009 de 11:00 a 11:15 h, n.º de ref.: 2-104/09/DI, de fecha 13. 05. 2009, el jefe de maniobras, entre otras cosas, indicó que, tras recorrer unos 250 m, oyó en el emisor la señal «alto». No sabe quién la daba. La composición empezó a frenar. Tras liberar la frecuencia, repitió la señal para averiguar qué estaba ocurriendo;
-en el Acta con un empleado, redactada por el transportista con el maquinista de la unidad de
+unidad de maniobras empujada, en DKV Brno el 06. 04. 2009 de 11:00 a 11:15 h, ref. n.º 
+2-104/09/DI, de fecha 13. 05. 2009, el jefe de maniobras indicó, entre otras cosas, que 
+tras recorrer unos 250 m oyó en el radioteléfono la señal "alto". No sabe quién la dio. La 
+composición comenzó a frenar. Al liberarse la frecuencia, repitió la señal para averiguar 
+qué estaba ocurriendo;
+en el Acta con un empleado, redactada por el transportista con el maquinista de la unidad 
 ●
-maniobras empujada, en DKV Brno el 10. 04. 2009 de 09:30 a 10:30 h, n.º de ref.: 2-105/09/DI, de fecha 13. 05. 2009, el maquinista, entre otras cosas, indicó que, tras acoplar la locomotora, se realizó una prueba de freno, realizó la comprobación de la suspensión y fue informado de la maniobra. En la estación de radio sintonizó la frecuencia correspondiente y probó la comunicación con el jefe de maniobras. Una vez iniciada la maniobra, por ahora solo hasta el «puente», empujó a una velocidad de unos 17 km∙ּּh-1; tras el consentimiento para continuar empujando, aumentó la velocidad de empuje y, tras un momento, sintió golpes longitudinales en la composición. Desconectó
-
+de maniobras empujada, en DKV Brno el 10. 04. 2009 de 09:30 a 10:30 h, ref. n.º 
+2-105/09/DI, de fecha 13. 05. 2009, el maquinista indicó, entre otras cosas, que tras 
+acoplar la locomotora se realizó una prueba de freno, efectuó la comprobación del 
+descuelgue y fue informado de la maniobra. En la estación de radio sintonizó la frecuencia 
+correspondiente y probó la comunicación con el jefe de maniobras. Iniciada la maniobra, 
+todavía solo en "puente", empujó a una velocidad de unos 17 km∙ּּh-1; tras el consentimiento 
+para continuar empujando, aumentó la velocidad de empuje y, tras un momento, sintió 
+golpes longitudinales en la composición. Desconectó
 
 ## Página 17
+
 
 la potencia, comenzó a frenar con el freno del tren y, al mismo tiempo, oyó a la operadora de señalización llamar diciendo que la composición se había descarrilado. Después oyó también al jefe de maniobras, pero para entonces la composición ya casi se había detenido;
 en el Acta de explicación presentada con el testigo de la excepcionalidad en el transporte
@@ -460,6 +520,7 @@ La organización marco y la forma de emisión y ejecución de las instrucciones 
 En el anexo n.º 6, parte A, Circulabilidad de los vehículos ferroviarios y clases de carga de la línea, se indica:
 
 ## Página 18
+
 
 - en el apartado 1: "1. Los datos sobre la circulabilidad de los vehículos ferroviarios se encuentran entre los parámetros básicos de las líneas. Los parámetros de circulabilidad de las líneas y la circulabilidad de los vehículos ferroviarios que de ellos se deriva deben ser registrados, seguidos y verificados de forma sistemática y continua."
 - en el apartado 2: "2. Por circulabilidad se entiende la capacidad de una estructura ferroviaria de hacer pasar un vehículo ferroviario por su propia construcción manteniendo la seguridad del tráfico ferroviario."
@@ -485,6 +546,7 @@ Art. 102, donde se indica, entre otras cosas, en la primera frase:
 "Para el contacto de dos agujas dispuestas de tal forma que juntas forman dos arcos de direcciones opuestas, se aplica el anexo 9. …"
 
 ## Página 19
+
 
 Art. 103, donde se indica:
 „Si la aguja dispone de un tramo recto antes del inicio o al final del arco de la aguja, su longitud puede computarse en la longitud recta c entre los arcos, establecida en los arts. 97 a 102.
@@ -512,24 +574,24 @@ Art. 2, donde se indica:
 ## Página 20
 
 Art. 90, donde se indica, entre otras cosas:
-«... El resultado de la comprobación de las condiciones técnicas de aptitud para la explotación de la vía, los defectos y las medidas con sus plazos se registran en la documentación de la unidad operativa SDC. ...»
-8) Reglamento interno ČSD S 61 «Reglamento sobre la disposición de vías en vías de ancho estándar», aprobado el 14. 07. 1956, con efectos desde el 01. 01. 1957, art. 10, punto (9), donde se indica:
-«Detrás de una aguja simple con ángulo de crucería de 7° debe haber, en la bifurcación, si le sigue un arco de sentido contrario con radio inferior a 250 m, una recta tras el extremo del corazón de la aguja de al menos 7 m de longitud. Detrás de esta aguja solo es posible conectar, en un punto situado a 2,5 m del extremo del corazón de la aguja en la rama de bifurcación, una aguja cuya distancia del punto de empalme del cambio de aguja a la punta de la lengüeta sea de al menos 3 m, si los arcos en las bifurcaciones de estas agujas son de sentidos contrarios.»
-9) REGLAMENTO DE ESTACIÓN DE LA ESTACIÓN FERROVIARIA BRNO HLAVNÍ NÁDRAŽÍ, aprobado el 30. 06. 2006, con el n.º de expediente: 2682/06 y con efectos desde el 10. 07. 2006, con la modificación n.º 1, n.º de expediente: 3451/07, en vigor desde el 09. 12. 2007, en su versión vigente, art. 109, donde se indica, entre otras cosas:
-«… En todo el perímetro de las estaciones de maniobras A, F, S, N, y en el perímetro de la estación de viajeros desde el pk 143,079 hasta las señales de entrada 1S, 2S, la velocidad en maniobra no puede superar los 30 km/h. ...»
-### 3.2.2 Requisitos para los empleados del gestor de la infraestructura y del transportista y su cumplimiento
-La aptitud sanitaria de los empleados del gestor de la infraestructura y del transportista se evalúa en el sentido de lo dispuesto en el decreto n.º 101/1995 Sb., por el que se aprueba el Reglamento de aptitud sanitaria y profesional de las personas para la explotación de la infraestructura y del transporte ferroviario, en su versión consolidada.
-Los requisitos de aptitud profesional de los empleados de SŽDC, s. o., incluido el modo de su cumplimiento, los establece el reglamento interno del gestor de la infraestructura SŽDC Zam1 «Reglamento sobre la aptitud profesional de los empleados de la Administración de la Infraestructura Ferroviaria, organización estatal», aprobado el 30. 06. 2008, con el n.º de expediente: 23138/08-OKS, con efectos desde el 01. 07. 2008, en su versión vigente.
-Los requisitos de aptitud profesional de los empleados de ČD, a. s., incluido el modo de su cumplimiento, los establece el reglamento interno del transportista «ČD Ok 2 REGLAMENTO DE FORMACIÓN Y EXAMEN DE LOS FERROCARRILES CHECOS, a. s.», aprobado el 07. 12. 2005, con el n.º de expediente: 61773/05-O10, con efectos desde el 01. 01. 2006, en su versión vigente.
-En el momento de producirse el accidente ferroviario en cuestión, todos los empleados del gestor de la infraestructura y del transportista participantes en el accidente ferroviario eran profesional y sanitariamente aptos para el desempeño de la función que ocupaban. Los documentos que acreditan la aptitud profesional y sanitaria de todas las personas participantes forman parte del expediente.
-Las condiciones de aptitud para la conducción de vehículos ferroviarios las establece el § 45 de la ley n.º 266/1994 Sb.
+«... El resultado de la comprobación de las condiciones técnicas de operatividad de la vía, los defectos y las medidas con sus plazos se registran en la documentación de la unidad operativa SDC. ...»
+8) Instrucción interna ČSD S 61 «Instrucción sobre la disposición de vías en vías de ancho estándar», aprobada el 14. 07. 1956, con entrada en vigor el 01. 01. 1957, art. 10, punto (9), donde se indica:
+«Tras una aguja simple con ángulo de crucería de 7°, debe haber en la desviación, si le sigue una curva de sentido contrario con radio menor de 250 m, una recta tras el extremo del corazón de la aguja de al menos 7 m de longitud. A esta aguja solo se puede conectar, en un punto situado a 2,5 m del extremo del corazón de la aguja en la rama de desviación, otra aguja con una distancia del punto de cambio de aguja respecto a la punta del vástago de al menos 3 m, si las curvas en las desviaciones de estas agujas son de sentidos contrarios.»
+9) REGLAMENTO DE ESTACIÓN DE LA ESTACIÓN FERROVIARIA BRNO HLAVNÍ NÁDRAŽÍ, aprobado el 30. 06. 2006, con el n.º de expediente: 2682/06 y entrada en vigor el 10. 07. 2006, con la modificación n.º 1, n.º de expediente: 3451/07, en vigor desde el 09. 12. 2007, en su redacción vigente, art. 109, donde se indica, entre otras cosas:
+«… En todo el perímetro de las estaciones de maniobras A, F, S, N, y en el perímetro de la estación de viajeros desde el km 143,079 hasta las señales de entrada 1S, 2S, la velocidad en maniobra no puede superar los 30 km/h. ...»
+### 3.2.2 Requisitos de los empleados del gestor de la infraestructura y del transportista y su cumplimiento
+La aptitud médica de los empleados del gestor de la infraestructura y del transportista se evalúa en el sentido de lo dispuesto en el decreto n.º 101/1995 Sb., por el que se aprueba el Reglamento sobre la aptitud médica y profesional de las personas para la explotación de la infraestructura y del transporte ferroviario, en su redacción consolidada.
+Los requisitos de cualificación profesional de los empleados de SŽDC, s. o., incluido el modo de hacerlos cumplir, los establece la instrucción interna del gestor de la infraestructura SŽDC Zam1 «Instrucción sobre la cualificación profesional de los empleados de la Administración de la Infraestructura de Transporte Ferroviario, organización estatal», aprobada el 30. 06. 2008, con el n.º de expediente: 23138/08-OKS, con entrada en vigor el 01. 07. 2008, en su redacción vigente.
+Los requisitos de cualificación profesional de los empleados de ČD, a. s., incluido el modo de hacerlos cumplir, los establece la instrucción interna del transportista «ČD Ok 2 REGLAMENTO DE FORMACIÓN Y EXAMEN DE LOS FERROCARRILES CHECOS, a. s.», aprobada el 07. 12. 2005, con el n.º de expediente: 61773/05-O10, con entrada en vigor el 01. 01. 2006, en su redacción vigente.
+En el momento de producirse la M.U. objeto de estudio, todos los empleados del gestor de la infraestructura y del transportista participantes en la M.U. estaban cualificados, tanto profesional como médicamente, para el desempeño de la función que ocupaban. Los documentos que acreditan la cualificación profesional y médica de todas las personas participantes forman parte del expediente.
+Las condiciones de aptitud para conducir un vehículo ferroviario las establece el § 45 de la ley n.º 266/1994 Sb.
 El maquinista del HDV 1216 238-6 era titular de un «Certificado de aptitud para la conducción de vehículos ferroviarios» válido, número de registro 006218, expedido por la Autoridad Ferroviaria de Praga el 20. 04. 1996.
 ### 3.2.3 Procedimiento de control interno de seguridad y sus resultados
-En el marco de la investigación de las causas y circunstancias de la producción del accidente ferroviario, el 28. 04. 2009 se realizó, en el gestor de la infraestructura SŽDC, s. o., en el ámbito de la Administración de la Infraestructura de Transporte (en adelante SDC) Brno, Administración de Líneas Brno, una supervisión estatal en materia de infraestructura, centrada en el cumplimiento de las obligaciones del gestor de la infraestructura establecidas por la normativa legal, durante la cual se constataron los hechos que se indican a continuación, que figuran en el documento «ACTA de la realización de la supervisión estatal en materia de infraestructura», n.º de expediente: 7-540/2009/DI-1, de fecha 28. 04. 2009, que forma parte integrante del expediente del accidente ferroviario.
-Para la realización de la supervisión estatal en materia de infraestructura, el gestor de la infraestructura presentó el «Plano de situación del estado real de la est. Brno hl. n., vías de maniobra "A" y "B", según el estado real en 1951», sellado en el reverso con los sellos «ČSD SECCIÓN DE LÍNEA BRNO – JIH» con indicación del grado de clasificación
-
+En el marco de la investigación de las causas y circunstancias de la producción de la M.U., el 28. 04. 2009 se realizó, en el gestor de la infraestructura SŽDC, s. o., en el ámbito de la Administración de la Vía de Tráfico (en adelante SDC) de Brno, Administración de Líneas de Brno, una inspección estatal en materia de ferrocarriles, centrada en el cumplimiento por parte del gestor de la infraestructura de las obligaciones establecidas por la normativa legal, durante la cual se constataron los hechos que se indican a continuación y que figuran en el documento «ACTA de la realización de la inspección estatal en materia de ferrocarriles», n.º de expediente: 7-540/2009/DI-1, de fecha 28. 04. 2009, que forma parte integrante del expediente de la M.U.
+El gestor de la infraestructura presentó para la realización de la inspección estatal en materia de ferrocarriles el «Plano de situación del estado real de la est. Brno hl. n., vías de maniobras "A" y "B", según el estado real en el año 1951», sellado en el anverso con los sellos «ČSD SECCIÓN DE LÍNEA BRNO – JIH» con indicación del grado de confidencialidad
 
 ## Página 21
+
 
 y de uso exclusivo para servicio oficial. El plano de situación presentado en la actualidad no corresponde al estado real, incluida la designación de vías y agujas. Según la declaración del gestor de la infraestructura, no dispone de otra documentación de proyecto general de la parte de la infraestructura en cuestión. El plano de situación se complementa únicamente con los PLANOS DE TRAZADO de las agujas renovadas (RENOVACIÓN DE AGUJA n.º 31, 30ab) y con el Informe Técnico de la renovación de las agujas n.º 28 y 29, de fecha 14. 01. 1972.
 Asimismo, se presentó el «ACTA DE VERIFICACIÓN de las obras de construcción realizadas», de fecha 05. 12. 1984, sobre la ejecución de la renovación de las agujas n.º 24 y n.º 26.
@@ -579,6 +641,7 @@ realizado la medición del ancho de vía, la posición relativa en altura y la i
 realizado la inspección mediante la cual se determina el estado general de la aguja, en el sentido del § 26 apartado 2 letra e) del decreto n.º
 
 ## Página 22
+
 
 n.º 177/1995 Sb., realizada el 07. 01. 2009 en el intervalo establecido;
 inspección no destructora de raíles, corazones y lengüetas de desvíos, e inspección visual de sus soldaduras con el
@@ -637,8 +700,8 @@ n.º 177/1995 Sb., además de las inspecciones y mediciones del estado construct
 operativos de la obra objeto de referencia. Los DV de las series Bmz, Ampz y WRmz participantes en la MU son
 ### transbordables en todo el ámbito de la est. Brno hl. n. en todas las vías sin restricciones.
 
-
 ## Página 23
+
 
 Hasta la fecha de la realización de la supervisión estatal en materia de ferrocarriles objeto de referencia, el operador ferroviario
 no había sido solicitado por el transportista ni por nadie más a evaluar las condiciones de transbordabilidad en la explotación de los DV de las series
@@ -689,6 +752,7 @@ norma interna de ČD D 17 «NORMA para la notificación e investigación de suce
 el 31. 10. 2006, con el n.º de expediente: 70 778/2006, en su texto vigente;
 
 ## Página 24
+
 
 norma interna de ČD Ok 2 «ORDEN DE FORMACIÓN Y EXAMEN DE LOS FERROCARRILES CHECOS, a. s.»,
 ●
@@ -741,8 +805,8 @@ Normas técnicas:
 ●
 posición espacial – Parte 1: Proyecto», del año 2008, en su versión vigente;
 
-
 ## Página 25
+
 
 ČSN 73 6360-2 «Disposición constructiva y geométrica de la vía de las líneas ferroviarias y su
 ●
@@ -772,6 +836,7 @@ Tras el suceso extraordinario posterior del 04. 04. 2009, cuando durante la mani
 
 ## Página 26
 
+
 parte de la vía se realizó únicamente después del siguiente MU del 04. 04. 2009, es decir, después de la reparación de la posición en altura y en dirección de los raíles en ambos MU, es evidente que, debido a la disposición espacial de la vía de la estacionamiento n. A y a la necesidad de conectar los tramos reparados con los tramos vecinos no dañados de la vía, mediante la corrección en dirección de la vía se la devolvió a la posición original que tenía antes del MU del 01. 04. 2009. Del informe se deduce que la vía de maniobras se realizó en el sentido del empuje: desde la parte recta de la vía n.º 667, continuando mediante una transición de 19 m de longitud hacia una curva compuesta a la derecha de radio 250 m y una curva continuación de radio 270 m, a través de la aguja n.º 26 por la punta en dirección secundaria con una curva a la derecha de radio teórico 180 m, con la recta entre curvas de sentidos opuestos formada por la parte del inicio de la aguja n.º 26 y el corazón de la aguja n.º 28, de una longitud de 2,479 m, por la punta de la aguja n.º 28 en dirección secundaria con una curva a la izquierda de radio teórico 180 m, a través de la aguja n.º 29 por la punta en dirección recta, a través de la aguja n.º 30a contra la punta en dirección recta y a través de la aguja n.º 30b por la punta en dirección recta, y la aguja n.º 31 por la punta en dirección secundaria, con una curva a la izquierda de radio 190 m hacia la vía recta n.º 3b y de allí a la vía n.º 9k del perímetro de la estación de pasajeros.
 
 Sobre la base de la «MEDICIÓN DE PARÁMETROS DE LA POSICIÓN ESPACIAL DE LA VÍA est. Brno hl. n. estacionamiento "A" – cabecera norte salida de la vía 667 a través de las agujas 26, 28, 29, 30, 31 pk 142,173 – pk 142,175 INFORME TÉCNICO» y del Informe 09-C 083 «Determinación de los posibles movimientos transversales de la carrocería del coche de pasajeros Bmz respecto al bastidor del bogie», véase el punto 3.4.4, el 29. 10. 2009 el perito judicial Ing. Vladimír Igielský elaboró, a petición del DI, el «Dictamen en el asunto de la investigación del suceso excepcional en el transporte ferroviario del 01. 04. 2009 en la EST. Brno hl. n., perímetro estacionamiento de pasajeros A», n.º de expediente: 1-2773/2009/DI, de fecha 03. 11. 2009, del que se deduce:
@@ -785,6 +850,7 @@ Sobre la base de la «MEDICIÓN DE PARÁMETROS DE LA POSICIÓN ESPACIAL DE LA V�
   – la desviación operativa en la posición en dirección de la aguja n.º 26, que reduce el valor de construcción del radio de la curva de la rama de desvío de 180 m hasta el valor de 161 m.
 
 ## Página 27
+
 
 y las agujas n.º 28, que reducen el radio de la curva de la rama desviada por valor de construcción de 180 m hasta el valor de 174 m, bajo cuyo efecto aumentan parcialmente los valores de la sobresalencia de los extremos de los vehículos al evaluar la seguridad frente al enganche lateral de los topes;
 – con la consideración de la altura lateral del bisel de la cara interna del tope de 110 mm, con respecto a su altura lateral de 350 mm, el perfil de la nivelada no tuvo influencia en la posibilidad de enganche;
@@ -803,8 +869,8 @@ DI no detectó ninguna anomalía en esta actividad.
 La HDV estaba equipada con un dispositivo registrador, un velocímetro electrónico de tipo Siemens con registro de datos Messma DSE 3200 situado en la cabina del maquinista 1. La desviación temporal entre los datos registrados por el velocímetro electrónico y la hora real de MU es de menos 2 horas. Los valores temporales indicados a continuación se indican ya con la aplicación de esta corrección.
 De los datos registrados se desprende:
 
-
 ## Página 28
+
 
 ● a las 06:59 h se inició la maniobra. Mediante una puesta en marcha progresiva se alcanzó una velocidad de empuje de 17 km∙ּּh-1;
 ● a las 07:00 h la velocidad de empuje se aumentó a 24 km∙ּּh-1;
@@ -827,6 +893,7 @@ La holgura del limitador de ángulo de giro del bogie en las tomas de choque tra
 
 ## Página 29
 
+
 con el movimiento de la caja hacia el exterior de la curva: 54 mm;
 ●
 con el desplazamiento de la caja hacia el interior de la curva: 10 mm.
@@ -845,8 +912,8 @@ DI no detectó anomalías en esta actividad.
 La protección y seguridad del lugar de ocurrencia del SE fue garantizada en colaboración con la PČR y demás servicios del IZS de conformidad con el § 9 del decreto n.º 376/2006 Sb., por las personas designadas por el gestor de la infraestructura y el transportista.
 DI no detectó anomalías en esta actividad.
 
-
 ## Página 30
+
 
 ### 3.6 Condiciones laborales, sanitarias y de explotación
 ### 3.6.1 Jornada laboral de los empleados del gestor de la infraestructura y del transportista que participaron en el suceso
@@ -875,18 +942,44 @@ DI registra un SE de carácter similar que tuvo lugar el 04. 04. 2009 a las 06:5
 ### 4.1 Descripción final de la excepción
 ### 4.1.1 Descripción final de la excepción basada en los hechos constatados 
 en el punto 3
-A la producción de la excepción precedió una situación en la que, en la vía de maniobras de estación n.º 667 de la estación Brno hl., andén A, se encontraba detenido el tramo de maniobras formado por el conjunto para el tren EC 71, preparado para ser empujado hacia el ámbito de la estación de viajeros. El equipo de maniobras estaba formado por el empleado que dirigía las maniobras, el jefe de maniobras, que se encontraba a la cabeza del tramo empujado, en el primer saliente frontal del primer DV empujado. Las instrucciones para las maniobras eran dadas por el jefe de maniobras al maquinista mediante radio. Tras el inicio del empuje, el jefe de maniobras daba instrucciones para el empuje en intervalos regulares e informaba al maquinista de las señales de los señales de clasificación. Durante el empuje, como consecuencia de la longitud insuficiente de la recta entre arcos de sentidos opuestos de los desvíos n.º 26 y n.º 28 en el pk 142,323011 ±2 m, se produjo un enclavamiento lateral de los topes entre el 3.º DV y el 4.º DV, con el consiguiente descarrilamiento, en el sentido desde el frente del tramo de maniobras empujado, de los DV 3.º, 4.º y 5.º en el desvío n.º 29. Como consecuencia del enclavamiento de los topes, que provocó un golpe violento o una presión progresivamente creciente transmitida desde los bogies del DV al lado interior de la lengüeta izquierda curvada (en el sentido de la marcha en el carril derecho), se produjo su rotura. Ante los golpes longitudinales producidos en el conjunto empujado, el maquinista reaccionó aplicando frenado continuo con el freno automático continuo de aire. Inmediatamente después, el maquinista recibió mediante radio la instrucción de detener el tramo de maniobras empujado. En ese momento, el tramo de maniobras ya se estaba deteniendo.
-Como consecuencia de la excepción, 3 de los 6 DV descarrilaron, a saber: el DV Bmz 73 54 21-91 012-7, clasificado como 3.º en el sentido del empuje, el Bmz 73 54 21-91 006-9, clasificado como 4.º en el sentido del empuje, y el WRmz 73 54 88-91 007-7, clasificado como 5.º en el sentido del empuje. El DV Ampz 73 54 10-91 014-6, clasificado como 6.º en el sentido del empuje, resultó dañado, sin descarrilar.
-En la excepción no se produjeron daños personales.
-El daño causado en los vehículos ferroviarios del tramo de maniobras empujado para el tren EC 71, según la tasación por comisión del transportista, ascendió a 7.468.228,- CZK. La cuantía real del daño no había sido cuantificada por el transportista hasta la publicación del Informe sobre los resultados de la investigación de las causas y circunstancias de la producción de la excepción.
-El daño en la infraestructura de la vía, es decir, en la superestructura, la infraestructura y el SZZ, fue cuantificado por el explotador de la vía en 13.000,- CZK.
-El daño total constatado como consecuencia de la excepción asciende a 7.481.228,- CZK.
+A la excepción (MU) precedió una situación en la que, en la vía de maniobras de la estación n.º 667 de Brno hl., andén A, 
+estaba una unidad de maniobras formada por el conjunto para el tren EC 71, preparada para ser empujada hacia el ámbito de la estación de viajeros. 
+El equipo de maniobras estaba formado por el empleado que dirigía las maniobras, el jefe de maniobras, que se 
+encontraba a la cabeza de la unidad empujada, en el primer saliente frontal de la primera DV empujada. Las instrucciones para las maniobras eran 
+dadas por el jefe de maniobras al maquinista mediante radio. Tras iniciar el empuje, el jefe de maniobras 
+daba instrucciones para el empuje en intervalos regulares e informaba al maquinista sobre las señales 
+de las señales de clasificación. Durante el empuje se produjo, como consecuencia de la longitud insuficiente de la recta entre 
+arcos de sentidos opuestos de los desvíos n.º 26 y n.º 28 en el km 142,323011 ±2 m, un enganche lateral 
+de los topes entre la 3.ª DV y la 4.ª DV, con el consiguiente descarrilamiento, en el sentido desde el frente de la unidad de maniobras empujada de las 3.ª, 4.ª y 5.ª DV 
+en el desvío n.º 29. Como consecuencia del enganche de los topes, que provocó un golpe violento o una 
+presión creciente transmitida desde los bogies de la DV al lado interior de la lengüeta izquierda curvada (en 
+el sentido de la marcha en el carril derecho), se produjo su rotura. Ante los golpes longitudinales producidos en el conjunto 
+empujado, el maquinista reaccionó aplicando el freno continuo automático de aire. 
+Inmediatamente después, el maquinista recibió mediante radio la instrucción de detener la unidad de maniobras empujada. 
+En ese momento, la unidad de maniobras ya se estaba deteniendo.  
+Como consecuencia de la MU, 3 de las 6 DV descarrilaron, a saber: la DV Bmz 73 54 21-91 012-7, 
+enganchada como 3.ª en el sentido de empuje, la Bmz 73 54 21-91 006-9, enganchada como 4.ª en el sentido de empuje, y la WRmz 73 54 88-91 007-7, 
+enganchada como 5.ª en el sentido de empuje. La DV Ampz 73 54 10-91 014-6, enganchada como 6.ª en el sentido de empuje, fue 
+dañada, pero no descarriló. 
+En la MU no se produjeron daños personales.
+El daño causado en los vehículos ferroviarios de la unidad de maniobras empujada para el tren EC 71, según 
+la tasación por comisión del transportista, ascendió a 7.468.228,- CZK. La cuantía real del daño no había sido cuantificada por el transportista hasta la publicación del 
+Informe sobre los resultados de la investigación de las causas y circunstancias de la excepción.
+El daño en la infraestructura de la vía, es decir, en la superestructura, la infraestructura y el SZZ, fue cuantificado por el explotador de la vía 
+en 13.000,- CZK.
+El daño total constatado como consecuencia de la MU ascendió a 7.481.228,- CZK.
 ### 4.2 Análisis
-### 4.2.1 Evaluación de los hechos constatados de acuerdo con el punto 3 y exposición de las conclusiones sobre la causa de la excepción y la actuación de los servicios de rescate
-Tras la sustitución del desvío n.º 28 por la forma J T 7o P en 1972 y del desvío n.º 26 por la forma J T 7o L en 1984, se produjo en el corazón del desvío n.º 28 y en parte del inicio del desvío n.º 26, entre los arcos de sentidos opuestos con radio teórico de 180 m, una recta entre arcos de sentidos opuestos de 2,479 m de longitud. Esta longitud de recta es, en relación con los procedimientos tecnológicos del explotador de la vía contenidos en el art. 10 punto (9) de la norma interna de los ČSD S61 "Reglamento sobre la disposición de la vía en las vías de ancho normal 
-### del Anexo 9 de la Norma Sectorial OPT 73 6360 "Disposición geométrica de la vía
+### 4.2.1 Evaluación de los hechos constatados de acuerdo con el punto 3 y exposición de las conclusiones sobre la causa 
+de la excepción y la actuación de los servicios de rescate
+Tras la sustitución del desvío n.º 28 por la forma J T 7o P en 1972 y del desvío n.º 26 por la forma J T 7o L en 1984, 
+se originó en el corazón del desvío n.º 28 y en parte del inicio del desvío n.º 26, entre arcos de sentidos opuestos 
+con radio teórico de 180 m, una recta entre arcos de sentidos opuestos de 2,479 m de longitud. Esta longitud 
+de recta es, en relación con los procedimientos tecnológicos del explotador de la vía contenidos en el art. 10 
+punto (9) de la norma interna de los ČSD S61 «Reglamento sobre la disposición de vías en las vías de 
+### ancho estándar», anexo 9 de la Norma Sectorial OPT 73 6360 «Disposición geométrica de la vía
 
 ## Página 32
+
 
 de vía ancho normal en las líneas de ámbito nacional y en los ramales, vigente en la época de la renovación de los desvíos n.º 26 y n.º 28 en 1984 y 1972, y del art. 8.4.2 ČSN 73 6360-1, es insuficiente y, en el sentido del § 22 apartado 1 letra a) de la ley n.º 266/1994 Sb., no garantiza la explotación de la vía para las necesidades del transporte ferroviario fluido y seguro. La longitud de la recta entre arcos de sentidos opuestos entre los arcos de desvío de sentidos opuestos de los desvíos n.º 26 y 28 no se ajusta a los requisitos de las normas actuales ni de las normas o reglamentos anteriores. Tras la renovación del desvío n.º 28 a la forma J T 7o P, se produjo una deformación direccional desfavorable en el desvío n.º 26 con la disminución del valor del radio del arco hasta 161 m. Además, se produjo un cambio direccional brusco y desfavorable en la zona de la aguja del desvío n.º 26 y del corazón del desvío n.º 28. Debido a la longitud insuficiente de la recta entre arcos de sentidos opuestos en los desvíos n.º 26 y 28, durante la marcha de la unidad de maniobras empujada para el tren EC 71 en el km 142,323011 ±2 m se produjo un engaste lateral de los enganches entre el 3.º DV Bmz 73 54 21-91 012-7 y el 4.º DV Bmz 73 54 21-91 006-9. El valor de la saliente lateral de los enganches en este punto era de 651 mm, es decir, no se produjo la superposición lateral de los discos de los enganches. Entre los lados de los discos de los enganches se produjo una holgura transversal de hasta 21 mm. El engaste de los enganches lo confirman también las huellas de daños en el mecanismo de choque del 3.º al 6.º DV y las conclusiones del informe «INFORME METALOGRÁFICO», n.º ref.: 1-1244/2009/DI, de fecha 05. 06. 2009, sobre la investigación metalográfica de la parte rota de la aguja izquierda (en el sentido de la marcha en el carril derecho) doblada del desvío n.º 29. Del informe y del desarrollo del suceso se deduce que la violación de la integridad de la parte de la aguja del desvío se produjo como consecuencia de un golpe violento o de una presión progresivamente creciente transmitida desde los bogies del DV a la cara interna de la aguja. De lo expuesto se deduce que la rotura de la aguja no fue la causa del MU, sino que se produjo como consecuencia del mismo.
 ### El explotador de la vía, en relación con:
@@ -903,6 +996,7 @@ El explotador de la vía, en el ejercicio de la supervisión estatal en materia 
 Con la renovación del desvío n.º 28 de la forma original O Xa 5o + 2o P a la forma J T 7o P en 1972 y del desvío n.º 26 de la forma original J Xa 7° L a la forma J T 7o L en 1984, se produjo un cambio en las condiciones constructivo-técnicas de la obra de la vía, en el tramo de vía en el sentido de la marcha desde la vía n.º 667 de la sección n. A, a través de los desvíos n.º 26 y n.º 28, hasta la vía n.º 3b. Con la renovación del desvío n.º 28 a la forma J T 7o P se produjo una deformación direccional desfavorable en el desvío n.º 26 con la disminución del valor del radio del arco hasta 161 m. Además, se produjo un cambio direccional desfavorable en la zona de la aguja del desvío n.º 26 y del corazón del desvío n.º 28. Con la renovación de ambos desvíos mencionados se creó una recta entre arcos de sentidos opuestos con un valor constructivo de solo 2,479 m. El tramo de vía mencionado se convirtió, con este cambio en las condiciones de explotación, en intransitable para DV de 26,4 m de longitud y superiores, es decir, estos DV no son transbordables en dicho tramo de vía, véase «Peritaje en relación con la investigación del suceso excepcional en el transporte ferroviario del 01. 04. 2009 en la EST Brno hl. n., ámbito de la estación de apartadero A», n.º ref.: 1-773/2009/DI, de fecha 03. 11. 2009.
 
 ## Página 33
+
 
 El explotador de la infraestructura ferroviaria, en relación con el § 26 apartado 4 y con el anexo n.º 6, parte A, apartado 1 del decreto n.º 177/1995 Sb., en el sentido del § 22 apartado 1 letra a) de la ley n.º 266/1994 Sb., no garantizó la explotación de la infraestructura ferroviaria para las necesidades del tráfico ferroviario fluido y seguro de acuerdo con las normas de explotación de la infraestructura ferroviaria y con la autorización administrativa, al no haber, en función de:
 cambio de las condiciones técnicas de construcción, tras la renovación de los desvíos n.º 28 y n.º 26 en la
@@ -935,6 +1029,7 @@ En la «FICHA DE DESVÍO» del desvío n.º 30b, en la anotación de fecha 07. 0
 
 ## Página 34
 
+
 ČSN 73 6360-2 art. 3.32 y art. 3.33,
 –
 Reglamento interno de SŽDC (ČD) S 2/3, art. 15, letra c),
@@ -961,28 +1056,22 @@ Debido a la longitud insuficiente de la recta entre arcos de sentidos opuestos e
 La causa fundamental del MU fue la no realización de la verificación de los parámetros operativos de la superestructura ferroviaria de la cabeza de vías de la sección n. A, est. Brno hl. n., en función del cambio de los parámetros constructivo-técnicos surgido de la renovación de los desvíos n.º 28 y n.º 26, y en función del cambio de las condiciones operativas surgido durante la explotación del tráfico ferroviario con el uso de DV de las series Bmz, Ampz y WRmz de 26,4 m de longitud y superiores.
 Tras la renovación del desvío n.º 28 a la forma J T 7o P en 1972 y del desvío n.º 26 a la forma J T 7o L en 1984, se creó en el corazón del desvío n.º 28 y en la parte inicial del desvío n.º 26, entre los arcos inversos
 
-
 ## Página 35
 
-de radio teórico de 180 m, una recta de 2,479 m de longitud. Esta longitud es insuficiente, en relación con los procedimientos tecnológicos del explotador de la vía recogidos en el art. 10 punto (9) del reglamento interno de ČSD S61 «Reglamento sobre la disposición de la vía en vías de ancho estándar», en el anexo 9 de la Norma Sectorial OPT 73 6360 «Disposición geométrica de la vía de ancho estándar en las vías de interés general y en los ramales», vigente en la época de la renovación de los desvíos n.º 26 y n.º 28 en 1984 y 1972, y en el art. 8.4.2 de la ČSN 73 6360-1. Con una longitud de recta entre arcos inversos de 2,479 m, el explotador de la vía, en el sentido del § 22 apartado 1 letra a) de la Ley n.º 266/1994 Sb., no garantizó la explotación de la vía para las necesidades del tráfico ferroviario fluido y seguro.
-La longitud de recta de 2,479 m entre los arcos de desvío de sentidos opuestos de los desvíos n.º 26 y n.º 28 no corresponde a los requisitos de las normas vigentes ni de las normas o reglamentos anteriores.
+o teórico de radio 180 m, recta de 2,479 m de longitud. Esta longitud es, en relación con los procedimientos tecnológicos del gestor de la infraestructura contenidos en el artículo 10 punto (9) de la normativa interna de ČSD S61 «Reglamento sobre la disposición de la vía en vías de ancho estándar», anexo 9 de la Norma Sectorial OPT 73 6360 «Disposición geométrica de la vía de ancho estándar en vías de interés general y en vías privadas», vigente en la época de la renovación de los desvíos n.º 26 y n.º 28 en los años 1984 y 1972, y en el artículo 8.4.2 de la ČSN 73 6360-1, insuficiente. Con una longitud de recta entre arcos de sentido contrario de 2,479 m, el gestor de la infraestructura, en el sentido del § 22 apartado 1 letra a) de la Ley n.º 266/1994 Sb., no garantizó la explotación de la infraestructura para las necesidades del tráfico ferroviario fluido y seguro.
+La longitud de recta de 2,479 m entre los arcos de desvío de sentido opuesto de los desvíos n.º 26 y n.º 28 no corresponde a los requisitos de las normas vigentes ni de las normas o reglamentos anteriores.
 ### 4.3.3 Causas derivadas del marco normativo y del uso del sistema de garantía de la seguridad
 La causa derivada del marco normativo en el uso del sistema de garantía de la seguridad es la no realización de un registro, seguimiento y verificación sistemáticos y continuos de los parámetros de transmisibilidad de las líneas y de la transmisibilidad de los vehículos ferroviarios que de ellos se deriva.
-El explotador de la vía, en relación con el § 2 apartado 2 letra b) y con el anexo n.º 6, parte A, apartado 1 del decreto n.º 177/1995 Sb., en el sentido del § 22 apartado 1 letra a) de la Ley n.º 266/1994 Sb., no garantiza la explotación de la vía para las necesidades del tráfico ferroviario fluido y seguro de acuerdo con las reglas para la explotación de la vía y la autorización oficial, al no realizar un registro, seguimiento y verificación sistemáticos y continuos de los parámetros de transmisibilidad de las líneas y de la transmisibilidad de los vehículos ferroviarios de 26,4 m de longitud y superiores que de ellos se deriva.
+El gestor de la infraestructura, en relación con el § 2 apartado 2 letra b) y con el anexo n.º 6, parte A, apartado 1 del Decreto n.º 177/1995 Sb., en el sentido del § 22 apartado 1 letra a) de la Ley n.º 266/1994 Sb., no garantiza la explotación de la infraestructura para las necesidades del tráfico ferroviario fluido y seguro conforme a las reglas de explotación de la infraestructura y a la autorización administrativa, al no realizar un registro, seguimiento y verificación sistemáticos y continuos de los parámetros de transmisibilidad de las líneas y de la transmisibilidad de los vehículos ferroviarios de 26,4 m de longitud y superiores que de ellos se deriva.
 ### 4.4 Hallazgos complementarios
-### 4.4.1 Deficiencias y omisiones detectadas durante la investigación de las causas y circunstancias de la producción del suceso excepcional, que sin embargo no son relevantes para las conclusiones sobre las causas
-Durante la investigación de las causas y circunstancias de la producción del MU se detectaron, por parte del explotador de la vía, las siguientes deficiencias:
-el explotador de la vía no garantizó la explotación de la vía para las necesidades del tráfico ferroviario
-–
-fluido y seguro de acuerdo con las reglas para la explotación de la vía y la autorización oficial, al no adoptar ninguna medida para la realización de trabajos de mantenimiento tras detectar el sobrepaso de los valores de ensanchamiento de la vía «IL» en los desvíos n.º 26 y n.º 29, de modo que antes de la siguiente inspección no se produjera el sobrepaso de los valores «IAL»;
-el explotador de la vía no garantizó la explotación de la vía para las necesidades del tráfico ferroviario
-–
-fluido y seguro de acuerdo con las reglas para la explotación de la vía y la autorización oficial, al tolerar, tras detectar el sobrepaso de los valores de ensanchamiento de la vía «IAL» en el corazón doble del desvío n.º 30a y en la punta del aguja del desvío n.º 30b, una situación peligrosa y no adoptar medidas inmediatas para garantizar la operatividad de la vía y la seguridad del tráfico ferroviario;
-el explotador de la vía no garantizó la explotación de la vía para las necesidades del tráfico ferroviario
-–
-fluido y seguro de acuerdo con las reglas para la explotación de la vía y la autorización oficial, al no adoptar ninguna medida para la realización de trabajos de mantenimiento tras detectar el sobrepaso de los valores de ensanchamiento de la vía «IL» en la raíz del aguja del desvío n.º 30a y en el contacto de cambio del desvío n.º 30b, de modo que antes de la siguiente inspección no se produjera el sobrepaso de los valores «IAL».
+### 4.4.1 Deficiencias y omisiones detectadas durante la investigación de las causas y circunstancias del suceso extraordinario, que sin embargo no son relevantes para las conclusiones sobre las causas
+Durante la investigación de las causas y circunstancias del SE se detectaron, por parte del gestor de la infraestructura, las siguientes deficiencias:
+– el gestor de la infraestructura no garantizó la explotación de la infraestructura para las necesidades del tráfico ferroviario fluido y seguro conforme a las reglas de explotación de la infraestructura y a la autorización administrativa, al no adoptar ninguna medida para la realización de trabajos de mantenimiento tras detectar el sobrepasamiento de los valores de ampliación de ancho «IL» en los desvíos n.º 26 y n.º 29, de modo que antes de la siguiente inspección no se produjera el sobrepasamiento de los valores «IAL»;
+– el gestor de la infraestructura no garantizó la explotación de la infraestructura para las necesidades del tráfico ferroviario fluido y seguro conforme a las reglas de explotación de la infraestructura y a la autorización administrativa, al tolerar una situación peligrosa y no adoptar medidas inmediatas para garantizar la aptitud para el servicio de la infraestructura y la seguridad del tráfico ferroviario tras detectar el sobrepasamiento de los valores de ampliación de ancho «IAL» en el doble corazón del desvío n.º 30a y en la punta de la aguja del desvío n.º 30b;
+– el gestor de la infraestructura no garantizó la explotación de la infraestructura para las necesidades del tráfico ferroviario fluido y seguro conforme a las reglas de explotación de la infraestructura y a la autorización administrativa, al no adoptar ninguna medida para la realización de trabajos de mantenimiento tras detectar el sobrepasamiento de los valores de ampliación de ancho «IL» en la raíz de la aguja del desvío n.º 30a y en el contacto de cambio del desvío n.º 30b, de modo que antes de la siguiente inspección no se produjera el sobrepasamiento de los valores «IAL».
 
 ## Página 36
+
 
 ## 5 MEDIDOS ADOPTADOS
 ### 5.1 Lista de medidas que ya se han tomado o adoptado como consecuencia del suceso ferroviario
@@ -998,6 +1087,7 @@ En la «Evaluación de las causas y circunstancias de la ocurrencia del suceso f
 
 ## Página 37
 
+
 ## 6 RECOMENDACIONES DE SEGURIDAD
 La Inspección Ferroviaria, como órgano competente en la materia según lo dispuesto en el apartado 5 del artículo 53b de la Ley n.º 266/1994 Sb., sobre la base de los resultados de la investigación de las causas y circunstancias de la ocurrencia de sucesos ferroviarios, para reducir la probabilidad de la ocurrencia de sucesos ferroviarios similares, recomienda al gestor de la infraestructura, SŽDC, s. o., que verifique las posiciones de las vías en las plantas de vías existentes de las estaciones ferroviarias mediante la evaluación de los valores de los radios de las curvas y de la longitud del tramo recto intermedio entre curvas de sentidos opuestos, según la norma ČSN 73 6360-1 «Diseño constructivo y geométrico de la vía de los ferrocarriles y su posición espacial – Parte 1: Proyección», de octubre de 2008, art. 8.4.2 y tab. C.3.1, establecidos en relación con la explotación del transporte ferroviario con vehículos ferroviarios de una longitud de 26,4 m o superior.
 En Brno, a 19. 04. 2010
@@ -1011,10 +1101,11 @@ Inspección Territorial de Ostrava
 ## Página 38
 
 ## 7 ANEXOS
-### 7.1 Documentación fotográfica del lugar del suceso ferroviario
-         Foto 1: Enlace direccional de los desvíos n.º 26 y n.º 28 en el sentido de circulación de maniobras desde la vía n.º 667.
-    Foto 2: La aguja del desv. n.º 28 y su enlace direccional con el desv. n.º 26, establecido en la vía n.º 667.
+### 7. 1 Documentación fotográfica del lugar del suceso ferroviario
+         Foto 1: Enlace direccional de los desvíos n.º 26 y n.º 28 en el sentido de la marcha de la maniobra desde la vía n.º 667. 
+    Foto 2: Corazón del desvío n.º 28 y su enlace direccional con el desvío n.º 26, situado en la vía n.º 667.
 
 ## Página 39
+
 
 ###                                              7.2 Plano del lugar del suceso ferroviario

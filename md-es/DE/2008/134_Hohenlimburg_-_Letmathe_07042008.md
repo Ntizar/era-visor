@@ -10,13 +10,14 @@ chars: 24835
 ratio_longitud: 1.04
 tokens_in: 15390
 tokens_out: 7676
-verificacion: revisar
-notas_cifras: ["bloque 2: cifras cortas: 7/63", "bloque 3: cifras cortas: 1/45", "bloque 4: cifras cortas: 1/40"]
-avisos: ["bloque 4: marcadores de página: 3 vs 2"]
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 7: cifras cortas: 1/12", "página 10: cifras cortas: 2/8", "página 11: cifras cortas: 2/16", "página 12: cifras cortas: 2/6", "página 14: cifras cortas: 1/28"]
 ---
+
 ## Página 1
+
 
 Informe de investigación  
 Número de expediente:
@@ -32,16 +33,16 @@ Suceso peligroso en el servicio ferroviario
 | Número de línea: | 2800 |
 | Kilómetro: | 18 7 , |
 
-
 ## Página 2
+
 
 Publicado por: 
 Oficina Federal Alemana de Investigación de Accidentes Ferroviarios 
 Heinemannstraße 6 
-53175 Bonn 
-
+53175 Bonn
 
 ## Página 3
+
 
 ## Índice de contenidos 
 ## I. 
@@ -92,10 +93,10 @@ Investigación de la tecnología de conducción y protección (LST) ............
 Investigación de los procedimientos operativos del gestor de infraestructura ................... 8  
 4.5.1 
 Situación operativa .............................................................................................. 8  
-I 
-
+I
 
 ## Página 4
+
 
 4.5.2 
 Cualificación del Fdl Hohenlimburg ........................................................................ 9  
@@ -110,10 +111,10 @@ Cualificación del Fdl Hohenlimburg ............................................
 ## Índice de modificaciones: 
 Modificación 
 Estado 
-II 
-
+II
 
 ## Página 5
+
 
 | | Accidente con víctimas mortales o heridas 07 .04 .2008 Hohenlimburg Letmathe , , ‐ |
 | II . | Índice de ilustraciones: |
@@ -123,10 +124,10 @@ II
 | III . | Índice de tablas: |
 | | Tabla 1: Resumen de las lesiones personales 5 ............................................................................... |
 | | Tabla 2: Resumen del importe estimado de los daños 6 ................................................................ |
-III 
-
+III
 
 ## Página 6
+
 
 ## Índice de abreviaturas: 
 ## IV.
@@ -172,6 +173,7 @@ IV
 
 ## Página 7
 
+
 ## 1 Preámbulo
 El capítulo Preámbulo se ocupa de información general sobre la Oficina Federal para la Investigación de Accidentes Ferroviarios (BEU). En él se menciona la base legal y se esboza brevemente la organización jerárquica.
 
@@ -184,16 +186,16 @@ Con la Ley de reordenación de la investigación de accidentes ferroviarios del 
 
 Dado que el incidente peligroso ocurrió antes de la creación de la BEU, determinadas actuaciones de investigación fueron realizadas aún por la EUB, a las que se hace referencia correspondientemente en el informe. Todos los conocimientos obtenidos durante la investigación se compartieron continuamente con las empresas ferroviarias afectadas y con la autoridad de seguridad, y se emitieron recomendaciones de seguridad específicas para cada caso.
 
-
 ## Página 8
+
 
 ### 1.2 Objetivo de la investigación de accidentes ferroviarios
 El objetivo y la finalidad de las investigaciones es aclarar las causas de los incidentes peligrosos y derivar de ello indicaciones para mejorar la seguridad. Las investigaciones de la BEU no tienen como objetivo determinar culpas ni aclarar cuestiones de responsabilidad u otras pretensiones de derecho civil, y se llevan a cabo de forma independiente de cualquier investigación judicial.
 
 La investigación comprende la recopilación y evaluación de información, la elaboración de conclusiones, incluida la determinación de las causas, y, en su caso, la emisión de recomendaciones de seguridad. Las propuestas de la oficina de investigación para la prevención de accidentes y la mejora de la seguridad en el tráfico ferroviario se comunican a la autoridad de seguridad y, si fuera necesario, a otros órganos y autoridades o a otros Estados miembros de la Unión Europea (UE) en forma de recomendaciones de seguridad.
 
-
 ## Página 9
+
 
 ## 2 Resumen
 El capítulo se ocupa de una breve descripción del desarrollo del incidente, las consecuencias y las causas primarias. Finalmente, se enumeran las recomendaciones de seguridad que eventualmente se hayan emitido.
@@ -210,8 +212,8 @@ La causa del accidente radica en un error de trabajo del encargado de tráfico (
 ### 2.4 Recomendaciones de seguridad
 No se emitieron recomendaciones de seguridad.
 
-
 ## Página 10
+
 
 ## 3 Datos generales
 El capítulo contiene datos generales para la descripción del lugar del incidente y de las instalaciones ferroviarias relevantes. Además, se nombran las partes participantes y colaboradoras en la investigación del accidente, las condiciones externas, el número de personas heridas y fallecidas en el incidente, así como la naturaleza y el importe de los daños consiguientes.
@@ -225,8 +227,8 @@ El tramo de línea entre Letmathe y Hohenlimburg describe en esta zona una curva
 
 ¹ Fuente: Datos geobásicos: © GeoBasis-DE / BKG [2019], editado por BEU
 
-
 ## Página 11
+
 
 Figura 2: Plano de situación, vista detallada²
 
@@ -251,8 +253,8 @@ Tabla 1: Resumen de las lesiones personales
 
 ² Fuente: Datos geobásicos: © GeoBasis-DE / BKG [2019], editado por BEU
 
-
 ## Página 12
+
 
 El importe estimado de los daños materiales en euros se compone de la siguiente manera:
 
@@ -274,6 +276,7 @@ Figura 3: Fotografía del lugar del accidente³
 
 ## Página 13
 
+
 ## 4 Acta de investigación
 En este capítulo se presentan los resultados obtenidos en relación con las distintas subáreas del sector ferroviario vinculadas al suceso. Los conocimientos pertinentes se enumeran de forma continua.
 ### 4.1 Resumen de declaraciones y manifestaciones
@@ -286,8 +289,8 @@ No se hizo constar a la BEU irregularidades o retrasos en relación con el inici
 La línea registrada bajo el número 2800 según el Catálogo de Velocidades Permitidas (VzG) comienza en Hagen Hbf y termina en Haiger. El titular de la infraestructura es la DB Netz AG. La línea está autorizada para el tráfico de viajeros y mercancías. El procedimiento de explotación se realiza según la Ril 408 (Circulación de trenes y maniobras).
 La línea 2800 (Categoría TEN – VII – convencional) es una línea principal electrificada de doble vía con una distancia de frenado de 1.000 m. La velocidad permitida es de 120 km/h. La línea está clasificada como «D4», cuya carga máxima permitida por eje es de 22,5 t y cuyo peso máximo permitido del vehículo por unidad de longitud es de 8,0 t/m. Está equipada con control puntual de trenes (PZB) y radio de tren. Como sistema de comunicación se utiliza GSM-R.
 
-
 ## Página 14
+
 
 La revisión de la infraestructura técnica no arrojó indicios de desviaciones que estuvieran en relación con la causa del suceso.
 d
@@ -347,6 +350,7 @@ de vuelta.
 
 ## Página 15
 
+
 Los despachadores de tráfico (Fdl) de Hagen-Kabel y Hohenlimburg autorizaron la circulación del tren auxiliar 99933 en sus áreas de maniobras, sin conocimiento del Técnico Autorizado (Technisch Berechtigter) y sin otras medidas operativas, mediante la colocación en vía de las señales principales, lo que constituyó una autorización de circulación de tren por las vías bloqueadas. Tras la finalización de las obras de la catenaria, el maquinista (Tf) del TVT solicitó al Fdl de Hohenlimburg la vuelta como tren 98520. El Fdl colocó entonces en vía la señal de salida Esig G191 y la señal de salida (Asig) P142 de la estación de Letmathe, así como la señal de salida F034, autorizando así la circulación del tren 98520 hasta la estación de Hohenlimburg. En ese momento, las vías en Letmathe y Hohenlimburg seguían estando bloqueadas y declaradas como vías de obra. El Técnico Autorizado, que se encontraba en el puente del río Lenne y no estaba informado sobre la circulación del tren 98520, impartió en ese instante la orden a los cinco trabajadores de vía de asegurar las barras de seguridad y de finalizar las obras en los próximos 10 minutos.
 
 ### 4.5.2 Cualificación del Fdl Hohenlimburg
@@ -360,24 +364,26 @@ El TVT con el número de vehículo 708 325-6 es un vehículo de montaje de caten
 
 ## Página 16
 
-El estado del vehículo ferroviario no causó ni favoreció la anotación del incidente.
+El estado del ferrocarril no causó ni favoreció la ocurrencia del suceso.
 
 ## 5 Evaluación
-El capítulo 5 Evaluación se ocupa de la reconstrucción del incidente. Sobre la base de las constataciones mencionadas anteriormente, se recopila un curso de acontecimientos plausible del incidente peligroso. Los conocimientos relevantes se evalúan a continuación y conducen, en su caso, a las conclusiones correspondientes.
 
-### 5.1 Reconstrucción del incidente
-El 07.04.2008 se produjeron daños en la catenaria durante los trabajos de tala de árboles en la línea 2850 entre Letmathe e Iserlohn. Por esta razón, el TVT circuló como tren auxiliar 99933 desde Dortmund-Kley a través de Hagen-Vorhalle y Hohenlimburg hasta el lugar del daño. Tras la finalización de las obras de reparación, el Tf del TVT solicitó al Fdl en Hohenlimburg la vuelta a la base en Dortmund-Kley como tren 98520. El Fdl autorizó la circulación del tren a las 04:00 horas mediante la colocación en vía de las señales principales en Letmathe. El tren 98520 circuló posteriormente a las 04:09 horas pasando por la señal de salida en dirección a Hohenlimburg. Al mismo tiempo, cinco trabajadores de vía en el puente del río Lenne, en el tramo entre Letmathe y Hohenlimburg, aún estaban ocupados en la ejecución de los últimos trabajos de mantenimiento. A las 04:10 horas, el tren 98520 se acercaba a la zona de obras. Cuando el Tf del TVT, al atravesar una curva a la derecha, detectó a las personas que trabajaban en su vía, inició un frenado de emergencia a una velocidad de aproximadamente 62 km/h. Poco después, el tren impactó contra el grupo de trabajadores de vía a una velocidad de aproximadamente 59 km/h.
+El capítulo 5 Evaluación se ocupa de la reconstrucción del suceso. A partir de las constataciones mencionadas más arriba, se elabora un transcurso plausible del suceso peligroso. Los hallazgos relevantes se evalúan a continuación y conducen, en su caso, a las conclusiones correspondientes.
+
+### 5.1 Reconstrucción del suceso
+
+El 07.04.2008, con motivo de trabajos de tala de árboles en la línea 2850 entre Letmathe e Iserlohn, se produjeron daños en la catenaria. Por este motivo, el TVT circuló como tren auxiliar 99933 desde Dortmund-Kley a través de Hagen-Vorhalle y Hohenlimburg hasta el punto del daño. Una vez finalizados los trabajos de reparación, el Tf del TVT solicitó al Fdl en Hohenlimburg el regreso a la estación de servicio de Dortmund-Kley como tren 98520. El Fdl autorizó hacia las 04:00 horas la circulación del tren con los semáforos principales de Letmathe en indicación de vía libre. El tren 98520 pasó a continuación junto a la señal en Asig en dirección a Hohenlimburg hacia las 04:09 horas. Al mismo tiempo, en la línea Letmathe – Hohenlimburg, a la altura del puente sobre el Lenne, cinco trabajadores de vía seguían ocupados en realizar los últimos trabajos de una Betra. Hacia las 04:10 horas se aproximaba el tren 98520 a la obra. Cuando el Tf del TVT, al atravesar una curva a la derecha, reconoció a las personas que trabajaban en su vía, inició una frenada de emergencia a una velocidad de unos 62 km/h. Poco después, el tren impactó contra el grupo de trabajadores de la vía a una velocidad de unos 59 km/h.
 
 ### 5.2 Evaluación y conclusión
-El accidente de personas del 07.04.2008 entre Letmathe y Hohenlimburg fue causado por la actuación operativa del Fdl en Hohenlimburg en relación con la circulación del tren 98520. Las graves infracciones de las normas operativas en el manejo de bloqueos de vía y vías de obra condujeron finalmente al incidente. No quedó claro qué motivó al Fdl a autorizar la circulación de un tren en una vía bloqueada y declarada como vía de obra. La cadena de errores comenzó ya en la ida. El Fdl adyacente en Hagen-Kabel también autorizó la circulación del tren auxiliar como circulación de tren en la vía de línea bloqueada hacia Hohenlimburg. El Fdl de Hohenlimburg ya debería haberlo impedido. El hecho de que el Fdl Hf solo prestara su tercera guardia en el puesto de control no es relevante, ya que trabajaba como Fdl desde hacía varios años.
 
-El accidente puso de manifiesto además que las medidas prescritas para la protección de las vías de obra no se aplicaron ni en los puestos de control ni en las vías de estación y de línea.
+El accidente personal del 07.04.2008 entre Letmathe y Hohenlimburg fue causado por la actuación operativa del Fdl en Hohenlimburg en relación con la circulación del tren 98520. Infracciones graves de las normas operativas en materia de cerramientos de vía y vías de obra condujeron finalmente al suceso. Lo que motivó al Fdl a autorizar una circulación de tren en una vía cerrada y declarada como vía de obra permaneció sin aclarar. La cadena de errores ya comenzó en el trayecto de ida. También el Fdl vecino en Hagen-Kabel ya había autorizado el tren auxiliar como circulación de tren en la vía de línea cerrada hacia Hohenlimburg. Esto ya lo habría tenido que impedir el Fdl en Hohenlimburg. El hecho de que el Fdl Hf solo en su tercera
 
-El Tf del tren 98520 tenía permiso para circular por la línea de Letmathe a Hohenlimburg como circulación de tren a la velocidad máxima permitida. El Tf no sabía que la vía seguía bloqueada y que se trabajaba en ella. Además, la disposición en curva del tramo de vía y la oscuridad probablemente dificultaron aún más la situación. Así, el Tf detectó al grupo de trabajadores demasiado tarde para poder evitar el incidente.
+## Página 17
 
-Los trabajadores en activo habían recibido poco antes del Técnico Autorizado la orden de realizar los trabajos restantes, ya que debían finalizar diez minutos más tarde. Probablemente, ni ellos ni el Técnico Autorizado miraron en dirección al tren que se acercaba o hacia la señal de salida F034 de Hohenlimburg que indicaba vía libre, para poder detectar la inminente circulación del tren. Ninguno de los participantes en el lugar de trabajo tenía conocimiento de la circulación del tren 98520. El Técnico Autorizado no había comunicado la vía libre y apta para la circulación. El bloqueo de la vía, coordinado con el Fdl Hf, no se había levantado. Por lo tanto, todos podían confiar en la protección de la vía de obra.
-
-Finalmente, cabe señalar que la introducción de un tren auxiliar como circulación de tren y su vuelta, en un recorrido que durante tres días había estado bloqueado en gran parte debido a obras de construcción, no debería haber tenido lugar. La autoridad que lo ordenaba debería haber sabido que no podían tener lugar circulaciones de tren o circulaciones especiales en los tramos afectados.
-
+La jornada de servicio que desempeñaba en el puesto de mando no es relevante en este caso, ya que venía trabajando como Fdl desde hacía varios años.
+El accidente puso asimismo de manifiesto que las medidas prescritas para la protección de los vías en obra no se aplicaron ni en los puestos de mando ni en las vías de estación y de línea.
+El Tf del tren 98520 tenía permiso para recorrer la línea de Letmathe a Hohenlimburg como tren con la velocidad máxima permitida. El Tf no sabía que dicha vía seguía cerrada y que en ella se estaba trabajando. Adicionalmente, como factor agravante, también pudieron haber influido la disposición en curva del tramo de vía y la oscuridad. Así, el Tf detectó al grupo que trabajaba demasiado tarde como para poder evitar aún el suceso.
+Los trabajadores afectados habían recibido poco antes del Técnicamente Autorizado la orden de ejecutar los trabajos restantes, ya que debían finalizarse diez minutos después. En ese momento, probablemente ni ellos ni el Técnicamente Autorizado dirigieron la mirada hacia el tren que se aproximaba o hacia la señal de vía libre de Hohenlimburg, para poder advertir el inminente paso de tren. Ninguno de los participantes en el lugar de trabajo tenía conocimiento del paso del tren 98520. El Técnicamente Autorizado no había comunicado la vía como libre y transitable. La cerradura de vía acordada con el Fdl Hf no había sido, por tanto, levantada. De este modo, todos pudieron confiar en la protección de la vía en obra.
+Para concluir, cabe señalar que la composición de un tren de socorro como paso de tren y su regreso, en un itinerario que llevaba tres días cerrado en gran parte por obras, no debió haber tenido lugar. El organismo ordenante debió haber sabido que en los tramos afectados no podían tener lugar pasos de tren ni circulaciones especiales.
 ## 6 Recomendaciones de seguridad
-No se han formulado recomendaciones de seguridad.
+No se emitieron recomendaciones de seguridad.

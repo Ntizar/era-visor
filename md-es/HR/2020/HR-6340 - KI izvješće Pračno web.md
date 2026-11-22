@@ -12,8 +12,8 @@ tokens_in: 38915
 tokens_out: 26286
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-verificacion: revisar
-avisos: ["página 7: ratio 2.15", "página 8: ratio 1.91", "página 27: ratio 1.72"]
+verificacion: ok
+notas_cifras: ["página 6: original bilingüe: se compara contra el idioma principal (HR)", "página 7: original bilingüe: se compara contra el idioma principal (EN); ratio 2.07", "página 8: original bilingüe: se compara contra el idioma principal (EN); ratio 2.04", "página 9: cifras cortas: 1/15", "página 12: cifras cortas: 1/50", "página 17: cifras largas: 1/10"]
 ---
 
 ## Página 1
@@ -179,55 +179,58 @@ SS
 
 ## Página 7
 
-### 1. RESUMEN 
-El 07 de septiembre de 2020 a las 15:06 horas, en el paso a nivel (PPN) «Pračno», protegido por barreras gestionadas por el guardi del paso a nivel en el PK 376+548 de la línea M502, se produjo la colisión del tren de mercancías número 48974 contra un vehículo de carretera particular.  
-En el accidente resultó gravemente herida una persona que conducía el vehículo de carretera particular, y se produjeron daños materiales considerables en el vehículo de carretera particular y en la locomotora.  
-El factor causal del accidente en cuestión es la colisión del tren con un vehículo de carretera particular debido a la falta de protección del PPN antes del paso del tren, es decir, la no bajada de las barreras por parte del guardi del PPN (capítulo 4.3.1.). 
+### 1. Resumen 
+El 07 de septiembre de 2020 a las 15:06 horas, en el paso a nivel «Pračno», asegurado con una barrera operada por el guardián del paso a nivel en el PK 376+548 de la línea M502, se produjo el choque del tren de mercancías número 48974 contra un vehículo rodado particular.  
+En el accidente resultó gravemente herida una persona que conducía un vehículo rodado particular, y se produjeron daños materiales de considerables en el vehículo rodado particular y en la locomotora.  
+El factor causal del accidente en cuestión es el choque del tren contra un vehículo rodado particular debido a la no aseguración del paso a nivel antes del paso del tren, es decir, la no bajada de la barrera por parte del guardián del paso a nivel (capítulo 4.3.1.). 
 Factores contribuyentes:  
 - 
-no cumplimiento de los procesos de trabajo prescritos del servicio de circulación de trenes de la estación de Sisak 
-(capítulo 4.3.3.), 
+el incumplimiento de los procesos de trabajo prescritos del personal de circulación de trenes de la estación de Sisak (capítulo 4.3.3.), 
 - 
-no cumplimiento de las instrucciones contenidas en la orden de circulación SE-1 recibida por el maquinista de servicio (capítulo 
-4.3.3.). 
+el incumplimiento de las instrucciones de la orden de circulación SE-1 recibida por el maquinista en servicio (capítulo 4.3.3.). 
 Factores sistémicos:  
 - 
-no cumplimiento de los procesos de trabajo prescritos del servicio del guardi del PPN (capítulo 4.3.3.), 
+el incumplimiento de los procesos de trabajo prescritos del guardián del paso a nivel en servicio (capítulo 4.3.3.), 
 - 
-posible falta de atención y distracción del guardi del PPN de servicio (capítulo 4.3.2.), 
+la posible falta de atención y distracción del guardián del paso a nivel en servicio (capítulo 4.3.2.), 
 - 
-experiencia laboral del guardi del PPN de servicio en el PPN «Pračno» (capítulo 4.3.1.), 
+la experiencia de trabajo en el paso a nivel «Pračno» del guardián del paso a nivel en servicio (capítulo 4.3.1.), 
 - 
-posible confusión del guardi del PPN de servicio, que había sido destinado temporalmente al PPN 
-«Pračno» en lugar de a su puesto de trabajo habitual (capítulo 4.3.1.). 
-### Recomendaciones de seguridad 
-La Agencia de Investigación de Accidentes en el Tráfico Aéreo, Marítimo y Ferroviario, con base en la investigación llevada a cabo de este accidente, con el fin de aumentar la seguridad del sistema ferroviario, emite a la Agencia de Seguridad del Tráfico Ferroviario la siguiente recomendación de seguridad:  
-AIN/06-SR-04/2021: El gestor de la infraestructura debería aplicar una solución más fiable para lograr el control de la bajada de las barreras de accionamiento manual (palanca) en todos los pasos a nivel tras recibir la notificación anticipada de la salida del tren. 
-### RESUMEN 
-El 07 de septiembre de 2020 a las 15:06 horas, en el paso a nivel (PPN) «Pračno», protegido por barreras gestionadas por el guardi del PPN, en el PK 376+548 de la línea M502, se produjo la colisión del tren de mercancías número 48974 contra un vehículo de carretera particular.  
-La persona que conducía el vehículo de carretera particular resultó gravemente herida en el accidente, y se produjeron daños materiales considerables en el vehículo de carretera particular y en la locomotora. 
-El factor causal del accidente en cuestión es la colisión del tren con un vehículo de carretera particular debido a la falta de protección del PPN antes del paso del tren, es decir, las barreras no fueron bajadas por el guardi del PPN (capítulo 
-4.3.1.).
+la posible confusión del guardián del paso a nivel en servicio, que había sido trasladado temporalmente al paso a nivel «Pračno» en lugar de a su puesto de trabajo de origen (capítulo 4.3.1.). 
+### Recomendaciones de seguridad
+La Agencia de Investigación de Accidentes en el transporte aéreo, marítimo y ferroviario, con base en la investigación realizada de este accidente, con el fin de aumentar la seguridad del sistema ferroviario, emite a la Agencia de Seguridad del Tráfico Ferroviario la siguiente recomendación de seguridad:  
+AIN/06-SR-04/2021:  El gestor de la infraestructura debería aplicar una solución más fiable para lograr el control de la bajada de las barreras que se operan manualmente (con palanca) en todos los puntos de paso, tras la recepción del aviso previo de expedición del tren. 
+### SUMMARY
+On September 07, 2020 at 03:06 p.m. at the LC „Pračno“ secured by a barriers which operate the LC guard, at KM 376+548 on the line M502, a freight train No. 48974 collided with a personal road vehicle.  
+The person who was driving a personal road vehicle was seriously injured in the accident, there was large material damage to the personal road vehicle and locomotive. 
+The causal factor of the accident in question is a train collision with a personal road vehicle due to an unsecured LC before the train passed i.e. the bumpers were not lowered by the LC guard (Chapter 4.3.1.).
 
 ## Página 8
 
-Factores contribuyentes:
--   incumplimiento de los procesos de trabajo prescritos del operador ferroviario en la estación de Sisak (capítulo 4.3.3.),
--   incumplimiento de las instrucciones de la orden de conducción recibida SE-1 por parte del maquinista (capítulo 4.3.3.).
-Factores sistémicos:
--   incumplimiento de los procesos de trabajo prescritos del guardián del paso a nivel (LC) (capítulo 4.3.3.),
--   posible falta de atención y distracción del guardián del LC (capítulo 4.3.2.),
--   posible insuficiente experiencia del guardián del LC en el trabajo en el LC «Pračno» (capítulo 4.3.1.),
--   posible confusión del guardián de servicio del LC, que fue transferido temporalmente al LC «Pračno» en lugar de su lugar de trabajo habitual (capítulo 4.3.1.).
-### Recomendaciones de seguridad
-La Agencia de Investigación de Accidentes de Tráfico Aéreo, Marítimo y Ferroviario, basándose en la investigación llevada a cabo de este accidente, con el fin de aumentar la seguridad del sistema ferroviario, emite la siguiente recomendación de seguridad a la Agencia de Seguridad Ferroviaria:
-AIN/06-SR-04/2021: El Gestor de la Infraestructura debería aplicar la solución más sencilla para lograr el control del descenso de las barreras que se manejan manualmente en todos los pasos a nivel tras recibir el aviso de circulación del tren.
-### 2. INVESTIGACIÓN Y SU CONTEXTO
-### 2.1. Decisión de incoar la investigación
-Tras la inspección ocular realizada el 7 de septiembre de 2020 por parte de la AIN, Departamento de Investigación de Accidentes Ferroviarios, y el análisis de la información y las pruebas recopiladas, se determinó que en el accidente en cuestión se había puesto en peligro la seguridad del sistema ferroviario, por lo que el investigador principal de accidentes ferroviarios dictó el 9 de septiembre de 2020 la Decisión de incoar la investigación de este accidente, con arreglo al artículo 126, apartado 3, de la Ley de Seguridad e Interoperabilidad del Sistema Ferroviario («Narodne novine», n.º 63/20). La notificación de la incoación de la investigación de este accidente se envió el 9 de septiembre de 2020 a todas las partes implicadas, al organismo nacional competente en materia de seguridad —la Agencia de Seguridad del Transporte Ferroviario (ASŽ)—, al gestor de la infraestructura (IM) HŽ Infrastruktura d.o.o., al transportista ferroviario (RU) HŽ Cargo d.o.o. y al conductor del vehículo de carretera que participó en el mencionado accidente.
-La Agencia Ferroviaria de la Unión Europea (ERA) fue informada a través de la base de datos ERAIL https://erail.era.europa.eu/ de la incoación de la investigación, de conformidad con el plazo de siete días desde la fecha de adopción de la decisión de incoar la investigación, establecido en el artículo 133, apartados 1 y 2, de la Ley de Seguridad e Interoperabilidad del Sistema Ferroviario («Narodne novine», n.º 63/20).
-### 2.2. Fundamentos de la Decisión de incoar la investigación
-La Decisión de incoar la investigación del accidente en cuestión se dictó con arreglo al artículo 127, apartados 2 y 3, letra a), de la Ley de Seguridad e Interoperabilidad del Sistema Ferroviario («Narodne novine», n.º 63/20), es decir, al artículo 20, apartado 2, letra a), de la Directiva (UE) 2016/798 del Parlamento Europeo y del Consejo, de 11 de mayo de 2016, relativa a la seguridad ferroviaria (reforma).
+Factores contribuyentes: 
+-  
+incumplimiento de los procesos de trabajo prescritos del operador ferroviario en la estación de Sisak 
+(capítulo 4.3.3.), 
+-   
+incumplimiento de las instrucciones de la orden de conducción recibida SE-1 por parte del maquinista 
+(capítulo 4.3.3). 
+Factores sistémicos: 
+-       incumplimiento de los procesos de trabajo prescritos del vigilante de la estación de cambio de agujas (LC) (capítulo 4.3.3.), 
+-  
+posible falta de atención y distracción del vigilante de la estación de cambio de agujas (LC) (capítulo 4.3.2.), 
+-  
+posible insuficiente experiencia de trabajo en la estación de cambio de agujas (LC) "Pračno" del vigilante de la estación de cambio de agujas (LC) (capítulo 4.3.1.), 
+-  
+posible confusión del vigilante de servicio de la estación de cambio de agujas (LC), que fue transferido temporalmente a la estación de cambio de agujas (LC) "Pračno" en lugar de su lugar de trabajo de destino (capítulo 4.3.1.). 
+### Recomendaciones de seguridad 
+La Agencia de Investigación de Accidentes de Tráfico Aéreo, Marítimo y Ferroviario, con base en la investigación realizada de este accidente, con el fin de aumentar la seguridad del sistema ferroviario, emite la siguiente recomendación de seguridad a la Agencia de Seguridad Ferroviaria: 
+AIN/06-SR-04/2021: El gestor de infraestructura debe aplicar la solución más sencilla para lograr el control del descenso de las barreras que se manejan manualmente en todos los puntos de cruce al recibir el preaviso de despacho del tren. 
+### 2. INVESTIGACIÓN Y SU CONTEXTO 
+### 2.1. Decisión de iniciar la investigación 
+Tras la realización de la inspección del lugar el día 07 de septiembre de 2020 por parte de AIN, Departamento de Investigación de Accidentes en el Tráfico Ferroviario, y tras el análisis de la información y las pruebas recopiladas, se determinó que en el accidente en cuestión se produjo una amenaza a la seguridad del sistema ferroviario, por lo que el investigador jefe de accidentes ferroviarios dictó el día 09 de septiembre de 2020 la Decisión de iniciar la investigación de este accidente con base en el artículo 126, apartado 3, de la Ley sobre Seguridad e Interoperabilidad del Sistema Ferroviario ("Narodne novine", número 63/20). El aviso sobre el inicio de la investigación de este accidente fue enviado el día 09 de septiembre de 2020 a todas las partes implicadas, al organismo nacional competente en materia de seguridad - Agencia de Seguridad del Tráfico Ferroviario (ASŽ), al gestor de infraestructura (IM) HŽ Infrastruktura d.o.o., al transportista ferroviario (RU) HŽ Cargo d.o.o. y al conductor del vehículo de carretera particular que participó en el accidente mencionado. 
+La Agencia de la Unión Europea para los Ferrocarriles (ERA) fue notificada a través de la base de datos ERAIL https://erail.era.europa.eu/ sobre el inicio de la investigación, en el plazo de siete días desde la fecha de dictado de la decisión de iniciar la investigación, artículo 133, apartados 1 y 2, de la Ley sobre Seguridad e Interoperabilidad del Sistema Ferroviario ("Narodne novine", número 63/20).  
+### 2.2. Fundamentación de la Decisión de iniciar la investigación 
+La Decisión de iniciar la investigación del accidente en cuestión se dictó con base en el artículo 127, apartados 2 y 3, punto a), de la Ley sobre Seguridad e Interoperabilidad del Sistema Ferroviario ("Narodne novine", número 63/20), es decir, el artículo 20, apartado 2, punto (a), de la Directiva (UE) 2016/798 del Parlamento Europeo y del Consejo de 11 de mayo de 2016 sobre la seguridad ferroviaria (modificación).
 
 ## Página 9
 
@@ -664,14 +667,14 @@ Los factores organizativos de los trabajadores presentes se relacionan con:
 
 ## Página 27
 
-### Imagen 9. – Orden de conducción SE-1 (Fuente de la imagen: AIN) 
+### Figura 9. – Orden de circulación SE-1 (Fuente de la imagen: AIN) 
 ### 4.3.4. Factores relacionados con el entorno  
-Mediante la investigación y el análisis de los hechos y hallazgos establecidos no se han determinado factores relacionados con el entorno en relación con la aparición del mencionado incidente extraordinario. 
-4.3.5. Cualquier otro factor que sea relevante para los fines de la investigación en los puntos mencionados anteriormente  
-Mediante la investigación y el análisis de los hechos y hallazgos establecidos no se han determinado ningún otro factor en relación con la aparición del mencionado incidente extraordinario, salvo los mencionados anteriormente. 
+De la investigación y el análisis de los hechos y hallazgos constatados, no se han identificado factores relacionados con el entorno en relación con la ocurrencia del suceso extraordinario mencionado. 
+4.3.5. Cualquier otro factor relevante para las necesidades de la investigación en los puntos anteriormente mencionados  
+De la investigación y el análisis de los hechos y hallazgos constatados, no se han identificado ningún otro factor en relación con la ocurrencia del suceso extraordinario mencionado, además de los anteriormente indicados. 
 4.4. Mecanismos de retroalimentación y control, incluida la gestión de riesgos y la seguridad, así como los procedimientos de seguimiento 
-### 4.4.1. Condiciones pertinentes en relación con el marco regulatorio  
-Las condiciones pertinentes del marco regulatorio se han establecido en los Reglamentos de la Unión Europea: Reglamento de Ejecución (UE) n.º 402/2013, Directiva (UE) 2016/798, la legislación nacional, los reglamentos y los actos internos: Ley sobre la seguridad y la interoperabilidad del sistema ferroviario, Instrucción sobre la gestión de riesgos en caso de cambios significativos en el sistema (HŽI-684), Instrucción sobre la gestión de riesgos (HŽI-701-41), Manual sobre
+### 4.4.1. Condiciones relevantes en el marco regulatorio 
+Las condiciones relevantes del marco regulatorio se han establecido en los Reglamentos de la Unión Europea: Reglamento Delegado (UE) n.º 402/2013, Directiva (UE) 2016/798, y en las leyes, normas y actos internos nacionales: Ley sobre la seguridad e interoperabilidad del sistema ferroviario, Instrucción sobre la gestión de riesgos en caso de cambios significativos en el sistema (HŽI-684), Instrucción sobre la gestión de riesgos (HŽI-701-41), Manual sobre
 
 ## Página 28
 

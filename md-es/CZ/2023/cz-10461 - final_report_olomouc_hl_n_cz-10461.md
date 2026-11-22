@@ -10,13 +10,14 @@ chars: 138061
 ratio_longitud: 1.21
 tokens_in: 71708
 tokens_out: 51681
-verificacion: revisar
-notas_cifras: ["bloque 1: original bilingüe: se compara contra el idioma principal (EN)", "bloque 2: original bilingüe: se compara contra el idioma principal (CS)", "bloque 3: original bilingüe: se compara contra el idioma principal (CS)", "bloque 4: original bilingüe: se compara contra el idioma principal (CS)", "bloque 6: original bilingüe: se compara contra el idioma principal (CS)", "bloque 7: original bilingüe: se compara contra el idioma principal (CS)"]
-avisos: ["bloque 7: ratio 1.73"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 3: original bilingüe: se compara contra el idioma principal (PT)", "página 4: original bilingüe: se compara contra el idioma principal (CS)", "página 6: original bilingüe: se compara contra el idioma principal (CS)", "página 7: original bilingüe: se compara contra el idioma principal (CS)", "página 9: original bilingüe: se compara contra el idioma principal (PT)"]
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -39,13 +40,13 @@ IČ: 75009561
 mail@di.gov.cz
 tel.: +420 736 521 003
 
-
 ## Página 2
+
 
 Este informe final es público y todos los hechos en él expuestos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ## 1 RESUMEN
 Fuente: Drážní inspekce
@@ -67,8 +68,8 @@ Causa inmediata:
 •
 entrada no autorizada del camión en el paso a nivel P7519 en el momento en que se aproximaba el tren Os 3542, causada por la actuación del conductor del camión, que no respetó la alerta luminosa y acústica del dispositivo de seguridad del paso a nivel y no se comprobó si podía cruzar el paso a nivel de forma segura.
 
-
 ## Página 4
+
 
 Factor contribuyente:
 •
@@ -80,8 +81,8 @@ A la Autoridad Ferroviaria:
 •
 adopción de la medida que garantice la dotación del paso a nivel P7519, protegido actualmente por un dispositivo de seguridad luminoso, de barreras de cierre, que desde el punto de vista de la barrera óptica reducirían la probabilidad de que el conductor entre en el paso a nivel cuando no responda a la señalización luminosa del paso a nivel en estado de alerta.
 
-
 ## Página 5
+
 
 ## SUMMARY
 17th October 2023, 8:20 (7:20 GMT).
@@ -114,8 +115,8 @@ Addressed to the Czech National Safety Authority (NSA):
 •
 to take own measure to ensure addition of the level crossing No. P7519 which is secure by flashing light level crossing warning system to a level crossing system equipped with barriers which with regard to point of view of optical and manual barrier will reduce probability of the driver’s entrance at the level crossing when he does not respond to light signalization in the warning state.
 
-
 ## Página 6
+
 
 # Contenido
 1 RESUMEN.....................................................................................................................3
@@ -159,6 +160,7 @@ SUMMARY.........................................................................
 
 ## Página 7
 
+
 4.2.2 Factores o consecuencias derivados de la instalación y puesta en servicio de vehículos ferroviarios, infraestructura ferroviaria o instalaciones técnicas.....................................41
 4.2.3 Factores o consecuencias relacionados con los fabricantes de vehículos ferroviarios u otro proveedor de productos ferroviarios...........................................................................41
 4.2.4 Factores o consecuencias derivados del mantenimiento y modificación de vehículos ferroviarios o instalaciones técnicas..................................................................................................41
@@ -187,8 +189,8 @@ SUMMARY.........................................................................
 6 RECOMENDACIONES DE SEGURIDAD...................................................................................45
 ANEXOS............................................................................................................................46
 
-
 ## Página 8
+
 
 ### Lista de siglas y símbolos utilizados
 CDP
@@ -259,8 +261,8 @@ paso a nivel
 žst.
 estación de ferrocarril
 
-
 ## Página 9
+
 
 ### Lista de siglas de la legislación, normas y reglamentos internos utilizados
 ley núm. 266/1994 Sb.
@@ -275,8 +277,8 @@ decreto núm. 376/2006 Sb., sobre el aseguramiento de la seguridad de la explota
 ČSN 34 2650 ed. 2
 ČSN 34 2650 ed. 2 «Instalaciones de seguridad ferroviaria – Instalaciones de seguridad de paso a nivel», en la redacción vigente en el momento de producirse el SU
 
-
 ## Página 10
+
 
 ## 2 LA INVESTIGACIÓN Y SU CONTEXTO
 ### 2.1 Decisión de iniciar la investigación
@@ -302,47 +304,45 @@ la entidad METRA Blansko, s. r. o., elaboró, como fabricante del RR instalado e
 En la investigación de las causas y circunstancias de la producción del SU, la DI se basó principalmente en sus propios conocimientos, hallazgos y en su propia documentación fotográfica. Durante la investigación, la DI solicitó la documentación necesaria al gestor de la infraestructura, al operador ferroviario, a la DÚ, a la DPMO y a la PČR.
 La investigación de las causas y circunstancias de la producción del SU se realizó de acuerdo con la ley núm. 266/1994 Sb. y el decreto núm. 376/2006 Sb.
 
-
 ## Página 11
 
-### 2.6 Descripción del nivel de colaboración ofrecido por las entidades implicadas
-El nivel de colaboración con los representantes de las entidades implicadas en el SU fue estándar; la DI recibió la información requerida para la investigación de las causas y circunstancias de la producción del SU.
-### 2.7 Descripción de la investigación, los métodos y las técnicas utilizados para acreditar los hechos y los hallazgos expuestos en el informe
-En el marco de la investigación del SU, la DI procedió de la siguiente manera, y utilizó, entre otros, los siguientes métodos y técnicas:
+### 2.6 Descripción del nivel de cooperación ofrecido por los sujetos participantes
+El nivel de cooperación con los representantes de los sujetos participantes en el siniestro fue estándar; la DI recibió de los sujetos participantes la información requerida para la investigación de las causas y circunstancias del siniestro.
+### 2.7 Descripción de la investigación, métodos y técnicas empleados para acreditar los hechos y las conclusiones recogidas en el informe
+En el marco de la investigación del siniestro, la DI procedió de la siguiente manera, y en particular utilizó los siguientes métodos y técnicas:
 •
-inspección del lugar del SU – ŽP P7519, de los vehículos ferroviarios, del NA y de la parte correspondiente de la infraestructura de la vía férrea y de la vía tranviaria implicados en el SU;
+inspección del lugar del siniestro — el paso a nivel P7519, los vehículos ferroviarios (DV) y el automotor (NA) participantes en el siniestro, así como las partes correspondientes de la infraestructura ferroviaria y de la infraestructura de tranvía;
 •
-medición de las condiciones de visibilidad en el ŽP P7519;
+medición de las condiciones de visibilidad en el paso a nivel P7519;
 •
-comprobación tanto de la posibilidad de deslumbramiento del conductor del NA durante la aproximación al ŽP por el sol, como de una posible influencia – reducción en la percepción de la señal luminosa de aviso emitida por las cajas luminosas de los avisadores PZS del ŽP P7519;
+comprobación tanto de la posibilidad de deslumbramiento del conductor del NA al dirigirse hacia el paso a nivel a causa del sol, como de una eventual influencia —reducción de la percepción de la señal luminosa emitida por las cajas luminosas de las señales de aviso del sistema de protección del paso a nivel (PZS) del paso a nivel P7519;
 •
-análisis de los datos registrados por el dispositivo registrador del PZS del ŽP P7519;
+análisis de los datos registrados por el dispositivo de registro del PZS del paso a nivel P7519;
 •
-análisis de los datos registrados por el SZZ de la est. Olomouc hl. n.;
+análisis de los datos registrados por el sistema de registro de estación (SZZ) de la estación Olomouc hl. n.;
 •
-participación en la inspección comisionada de los vehículos ferroviarios implicados del tren Os 3542;
+participación en la inspección comisionada de los vehículos ferroviarios (DV) del tren Os 3542;
 •
-análisis de los datos registrados por el RR instalado en el HDV del tren Os 3542;
+análisis de los datos registrados por el registrador de datos (RR) instalado en la locomotora (HDV) del tren Os 3542;
 •
-análisis de la documentación solicitada al gestor de la infraestructura SŽ, al operador ferroviario ČD, a la DÚ, a la DPMO y a la PČR;
+análisis de la documentación solicitada al gestor de la infraestructura SŽ, al transportista ČD, a la DÚ, a la DPMO y a la PČR;
 •
-análisis de la grabación del sistema de videovigilancia;
+análisis del registro del sistema de cámaras;
 •
-análisis de las declaraciones prestadas por las personas implicadas en el SU y los testigos a sus empleadores, respectivamente a la PČR.
+análisis de las explicaciones prestadas por las personas y testigos participantes en el siniestro a sus empleadores y, en su caso, a la PČR.
 ### 2.8 Descripción de las dificultades y problemas concretos surgidos durante la investigación
-Durante la investigación del SU no se produjeron dificultades ni problemas que pudieran tener influencia en el desarrollo de la investigación o en sus conclusiones.
+Durante la investigación del siniestro no surgieron dificultades ni problemas que pudieran influir en el desarrollo de la investigación o en sus conclusiones.
 ### 2.9 Interacción con los órganos judiciales
-Durante la investigación del SU objeto de estudio no se inició, ni por parte de la DI ni por parte de los órganos judiciales, ninguna comunicación ni colaboración.
+Durante la investigación del siniestro objeto de estudio, ni la DI ni los órganos judiciales iniciaron ninguna comunicación ni cooperación.
 ### 2.10 Cualquier otra información relevante para la investigación
-Todas las circunstancias esenciales detectadas relativas al desarrollo de la investigación del SU objeto de estudio ya han sido expuestas anteriormente.
+Todas las circunstancias esenciales detectadas relativas al desarrollo de la investigación del siniestro objeto de estudio ya han sido mencionadas más arriba.
 ## 3 DESCRIPCIÓN DEL SUCESO
 ### 3.1 Descripción e información básica
 ### 3.1.1 Descripción del tipo de suceso
-Tipo de SU:
-colisión en un paso a nivel; 
-Grupo de SU:
+Tipo de siniestro:
+colisión en un paso a nivel;
+Grupo de siniestro:
 accidente grave.
-
 
 ## Página 12
 
@@ -353,21 +353,28 @@ Hora:
 8:20 h.
 Lugar:
 vía férrea, categoría nacional Opava východ – Olomouc hl. n., 
-est. Olomouc hl. n., distrito de la estación de pasajeros (distrito Bělidla), 
-prolongación de la SK núm. 301, paso a nivel P7519, pk 0,580 
-(punto kilométrico del lugar en la vía donde se cruzan los ejes de la vía férrea y de la vía de comunicación terrestre), el punto de colisión fue el pk 0,587.
+est. Olomouc hl. n., ámbito de la estación de viajeros (ámbito Bělidla), 
+prolongación SK n.º 301, paso a nivel ferroviario P7519, pk 0,580 
+(posición kilométrica del lugar en la vía, donde se cruzan los ejes del raíl 
+de la vía férrea y de la vía de comunicación terrestre), el punto de colisión 
+fue el pk 0,587.
 Coordenadas GPS:
 49.5977239N, 17.2771114E.
 ### 3.1.3 Descripción del lugar del suceso
 La est. Olomouc hl. n. se sitúa en el pk 86,874 de la vía férrea, categoría nacional, Prosenice – 
 Česká Třebová, Olomouc hl. n. – Nezamyslice, Opava východ – Olomouc hl. n. 
-y categoría regional Šumperk – Olomouc hl. n. y Kostelec na Hané – Olomouc hl. n. 
-La estación estaba dividida, desde el punto de vista del tráfico ferroviario, en el distrito de la estación de pasajeros, del que forma parte, entre otros, el distrito Bělidla, y el distrito de la estación exterior. El SZZ de la est. Olomouc hl. n. era controlado a distancia desde el CDP Přerov, véase también el punto 3.1.8 de este ZZ.
-Fig. núm. 1: Esquema del lugar de producción del SU
-     Fuente: DI con utilización de la base cartográfica https://mapy.cz/
-El ŽP P7519 de vía única permitía el cruce de la vía férrea a nivel de la prolongación de la SK núm. 301 de la est. Olomouc hl. n., en el distrito Bělidla (que junto con la playa de vías de la estación de pasajeros, el distrito de vía lateral «Oc JIH» y el distrito de la estación interior pertenece al distrito de la estación de pasajeros
+y de la categoría regional Šumperk – Olomouc hl. n. y Kostelec na Hané – Olomouc hl. n. 
+La estación estaba, desde el punto de vista del tráfico ferroviario, dividida en el ámbito de la estación de viajeros, del que 
+formaba parte, entre otros, el ámbito Bělidla, y el ámbito previo a la estación. El SZZ de la est. Olomouc hl. n. estaba 
+controlado en remoto desde el CDP Přerov, véase además el punto 3.1.8 de la presente ZZ.
+Fig. n.º 1: Esquema del lugar de origen del MU
+     Fuente: DI con utilización de base cartográfica https://mapy.cz/
+El paso a nivel de vía única P7519 permitía el cruce de la vía férrea a nivel de la prolongación SK 
+n.º 301 de la est. Olomouc hl. n., en el ámbito Bělidla (que junto con la vía de la estación de viajeros, 
+el ámbito de vía privada "Oc JIH" y el ámbito de la estación interior pertenece al ámbito de la estación de viajeros
 
 ## Página 13
+
 
 nádraží) s pozemní komunikací – silnicí I. třídy č. 46 (dále také č. I/46), ul. Divišova, ve 
 městě Olomouc, pod úhlem 56°, vč. dvojkolejné dráhy tramvajové a souběžně vedoucích 
@@ -419,8 +426,8 @@ Baseplate. Kolejnice prodloužení SK č. 301 byly tvaru 49 E1 (S49), umístěn�
 betonových kolejnicových podporách a v místě křížení železniční a tramvajové 
 dráhy na monolitické železobetonové betonové desce;
 
-
 ## Página 14
+
 
 •
 ochranné klíny byly umístěny z obou stran ŽP, žlábky pro okolek DV nebyly 
@@ -478,8 +485,8 @@ světelnými skříněmi výstražníků AŽD 97 („C“, „A“, „E1“, �
 stožárech, se zapojenými svítilnami bílého pozitivního signálu. Ve všech skříních 
 výstražníků AŽD 97 byly instalovány LED svítilny;
 
-
 ## Página 15
+
 
 •
 stožáry výstražníků byly opatřeny šedým nátěrem, stav ochranných 
@@ -539,6 +546,7 @@ vlak Os 3542 byl sestaven z ŘDV 80-29 008-7 řazeného v čele vlaku a HDV
 
 ## Página 16
 
+
 del tren estaba formado por el maquinista y el jefe de convoy (en adelante, jefe de tren);
 •
 el maquinista conducía el ŘDV 80-29 008-7, observaba la vía y las señales desde el puesto de conducción del maquinista en la cabina del maquinista, es decir, desde la cabina frontal y desde el puesto desde el que tenía la mejor visibilidad. En la cabina del maquinista, en el momento de producirse el MU, se encontraba únicamente el maquinista;
@@ -562,8 +570,8 @@ como consecuencia de la colisión y del incendio producido, el ŘDV 80-29 008-7 
 ◦la unidad de calefacción (situada en el lado derecho del ŘDV bajo el bastidor del vehículo, en el espacio entre el bogie delantero y el trasero) fue arrancada de la caja de calefacción. La cámara de combustión del quemador diésel permaneció fijada bajo el bastidor del ŘDV y se dañó por el incendio: la unidad de calefacción y el diésel que ardía en ella, en el momento de su violento arranque, inició la ignición del diésel salpicado durante la colisión desde el tanque de combustible NA derecho perforado del ŘDV, ver más abajo,
 ◦el tanque de 150 l de la unidad de calefacción estaba deformado y, incluidas la tubería de llenado y el cuello, estaba chamuscado por el incendio. En el tanque quedó combustible incluso tras el MU,
 
-
 ## Página 17
+
 
 ◦el equipo de la caja técnica bajo el ŘDV (reguladores de carga, filtros de calefacción, caja de fusibles, etc.) se dañó mecánica y térmicamente,
 ◦los depósitos de aire con la tubería de aire, incluido el distribuidor de freno, se deformaron, cuando la consola del distribuidor se rompió,
@@ -591,39 +599,38 @@ en la cabina del NA, durante la marcha y antes de producirse el MU, se encontrab
 •
 el extremo frontal del tren Os 3542 impactó en la parte trasera derecha del tractor y en el flanco derecho del remolque NA. Por la dinámica del suceso se desprendió la unión del remolque con el tractor, en el que se produjo el arranque del tanque de combustible derecho, cuyo diésel se salpicó también en el ŘDV
 
-
 ## Página 18
 
-del tren Os 3542, donde, junto con el ligero aceite de calefacción que ardía en la unidad de calefacción del ŘDV arrancada durante la colisión, provocó la aparición del incendio.
-En el remolque se produjo la soltura de la carga de palés con rieles deslizantes para muebles, que abandonaron el espacio de carga del remolque y cayeron sobre la vía en las inmediaciones del ŘDV, sobre la calzada de la carretera y sobre el andén peatonal;
+del tren Os 3542, donde junto con el gasóleo ligero que ardía en el grupo generador de calefacción ŘDV, arrancado durante la colisión, provocó la aparición de un incendio.
+En el remolque se produjo la liberación de la carga de palés con rieles deslizantes para muebles, que abandonaron el espacio de carga del remolque y cayeron sobre la vía en las inmediaciones de ŘDV, sobre la calzada de la vía de comunicación terrestre y sobre la acera peatonal;
 •
-al conductor del NA se le realizó, tras producirse el MU, una prueba de presencia de alcohol y otras sustancias adictivas en sangre con resultado negativo, hasta en el centro sanitario;
+al conductor de NA se le realizó, tras la aparición de MU, una prueba de presencia de alcohol y otras sustancias adictivas en sangre, con resultado negativo, en un centro sanitario;
 •
-en la carretera n.º I/46 (calle Divišova) se encontraba, antes del PZ en dirección a Hodolany, es decir, en dirección contraria a la marcha del NA, un vehículo terrestre a motor – un turismo, de la marca Škoda Octavia Combi, que no fue afectado físicamente por ningún vehículo implicado en el MU (ni por el NA ni por el ŘDV descarrilado), pero quedó totalmente destruido por el incendio producido como consecuencia de la colisión.
+en la carretera n.º I/46 (calle Divišova) estaba, delante de ŽP en dirección a Hodolan, es decir, en sentido contrario a la marcha de NA, un vehículo motorizado de carretera – OA, marca Škoda Octavia Combi, que no fue alcanzado físicamente por ningún vehículo implicado en la MU (ni por NA ni por el ŘDV descarrilado), pero fue totalmente destruido por el incendio surgido como consecuencia de la colisión.
 Otros:
 •
-con la colisión se produjo una fuga de sustancia ecológicamente peligrosa – diésel de los tanques del NA, que, sin embargo, debido a la inmediata aparición del incendio al producirse el MU, se quemó casi por completo;
+con la colisión se produjo la fuga de una sustancia ecológicamente peligrosa – gasóleo de los depósitos de NA, que sin embargo, debido a la aparición inmediata del incendio al producirse la MU, ardió casi por completo;
 •
-se dañaron, entre otros, los bordillos, los postes direccionales (balizas), el pavimento de la calzada de la carretera n.º I/46 (calle Divišova) en las inmediaciones del PZ y la valla con base de hormigón (que separa el terreno de ČD);
+fueron dañados, entre otros, bordillos, postes direccionales (balizas), la superficie de la calzada de la carretera n.º I/46 (calle Divišova) en las proximidades de řP y una valla con zócalo de hormigón (que separa la propiedad de ČD);
 •
-se dañaron tanto componentes de la vía ferroviaria como de la vía de tranvía. En el punto de producción del MU se fundió el hilo de contacto de la vía de tranvía y se dañaron los carriles de ambas vías, se dañó la estructura del PZ, incluido el PZS.
+fueron dañadas tanto partes de la vía ferroviaria como de la vía de tranvía. En el lugar de aparición de la MU se quemó el hilo de contacto de la vía de tranvía y se dañaron los raíles de ambas vías, se dañó la estructura de ŽP, incl. PZS.
 Condiciones meteorológicas:
 horario diurno, despejado, temperatura del aire + 5 °C, la visibilidad no se vio reducida por influencias meteorológicas ni por otras.
 Datos geográficos:
-terreno llano, las condiciones geográficas no guardaban relación con la aparición del MU.
-El DI también comprobó la posibilidad de que el conductor del NA quedara deslumbrado por el sol. Durante todo el trayecto del NA por la calle Divišova desde la dirección de Hodolany, los rayos solares procedían del lado derecho del conductor del NA con un ángulo de aproximadamente 15° hacia la parte trasera del NA. Sin embargo, su intensidad y dirección, dada la posición del sol sobre el horizonte, no fueron tales que influyeran negativamente en la percepción de la alerta luminosa en las cajas de luz de los señalizadores PZZ.
-En el lugar del MU no se realizaron, inmediatamente antes de su aparición, por parte del propietario, del gestor de la vía ni de otros sujetos, trabajos de reparación ni de mantenimiento. La circulación en el lugar del MU y sus alrededores se desarrollaba en régimen normal.
+terreno llano, las condiciones geográficas no guardaban relación con la aparición de la MU.
+DI también comprobó la posibilidad de que el conductor de NA quedara deslumbrado por el sol. Durante todo el trayecto de NA por la calle Divišova desde Hodolan, los rayos solares procedían del lado derecho del conductor de NA con un ángulo de aprox. 15° hacia la parte trasera de NA. Sin embargo, su intensidad y dirección no eran, dada la posición del sol sobre el horizonte, tales que influyeran negativamente en la percepción de la señalización luminosa en las cajas de señalización de los señales PZZ.
+En el lugar de MU no se realizaron, inmediatamente antes de su aparición, por parte del propietario, del gestor de la vía ni de otros sujetos, obras de reparación o de mantenimiento. La circulación en el lugar de MU y sus alrededores se desarrollaba en régimen normal.
 ### 3.1.4 Fallecimientos, lesiones y daños materiales
-En el MU se produjo:
+En la MU se produjo:
 •
-lesiones personales en 6 pasajeros del tren Os 3542 (5 pasajeros en el ŘDV y 1 pasajero en el HDV), que sufrieron principalmente por caídas al suelo de los coches y por golpes de otros pasajeros o contra los asientos situados delante de ellos;
+lesiones en 6 pasajeros del tren Os 3542 (5 pasajeros en ŘDV y 1 pasajero en HDV), que sufrieron en su mayoría por caídas al suelo del DV y por golpes de otros pasajeros o contra los asientos situados delante de ellos;
 •
-lesiones personales en el jefe de tren del tren Os 3542, que sufrió por un golpe contra la pared interior del HDV y la posterior caída al suelo de los coches, y después también por la inhalación de productos de la combustión del incendio durante la evacuación de los pasajeros;
+lesiones en el jefe de tren del tren Os 3542, que sufrió un golpe contra la pared interior del HDV y la posterior caída al suelo del DV, y después también por la inhalación de humos del incendio durante la evacuación de los pasajeros;
 •
-lesiones personales en el conductor del NA.
-
+lesiones en el conductor de NA.
 
 ## Página 19
+
 
 Las lesiones personales de las personas en el tren Os 3542 se debieron exclusivamente a la colisión con el NA, por la acción de las fuerzas de inercia (que actúan en la dirección de marcha del tren) en el momento de la colisión, cuando algunos pasajeros y el jefe de tren esperaban la parada del tren en la estación terminal y se preparaban para bajar, es decir, ya no estaban sentados en sus asientos. La investigación no arrojó ningún dato que pudiera tener una influencia negativa en la aparición y la magnitud de las lesiones personales sufridas más allá de las lesiones personales inevitables causadas por el suceso.
 El gestor de la vía SŽ y el transportista ČD valoraron los daños en:
@@ -679,6 +686,7 @@ conductor del NA.
 
 ## Página 20
 
+
 Otras personas, testigos:
 •
 el jefe de tren del tren Os 3542, empleado de ČD;
@@ -710,8 +718,8 @@ el titular del ŘDV y del HDV era ČD;
 el estado real del tren comprobado en el punto MU correspondía a la documentación del tren.
 El ŘDV de la serie Bftn791, anteriormente también denominado, entre otros, ŘDV de la serie 943, es un coche de mando independiente para tracción autónoma y está destinado a composiciones reversibles de trenes rápidos, semirrápidos y de pasajeros. La caja de carro autoportante es de ligera construcción soldada de acero, articulada mediante ejes giratorios con dos bogies del tipo 95 V con brazos oscilantes. Los bogies tienen suspensión primaria de muelles de acero y suspensión secundaria de muelles neumáticos de membrana. Los bogies están equipados con freno de disco con dos discos por cada eje y dispositivo antideslizante. El ŘDV está equipado con freno automático de aire DAKO-GP-A con sistema de frenado automático según la ocupación del coche, en el que el efecto de frenado se realiza mediante unidades de freno de disco. La caja del ŘDV está dividida en planta en tres compartimentos para pasajeros, dos vestíbulos de entrada de desigual tamaño entre ellos y la cabina del maquinista, situada en el frontal del ŘDV. En el lado derecho de la cabina se encuentra la posición del maquinista, que corresponde a la posición del HDV de la serie 843 y que, junto con el sistema de control de microprocesador, permite la conducción de los coches motoros de la serie 843,
 
-
 ## Página 21
+
 
 respectivamente 842. La construcción de las cabinas y la disposición de los elementos de mando e indicación permiten al maquinista conducir el DV, observar sin obstrucciones la vía y las señales, tanto sentado como de pie. El frontal trasero del ŘDV (en el sentido de marcha del tren) es transitable, los puentes de paso plegables están cubiertos con solapas de caucho. La calefacción del ŘDV es de aire caliente desde una unidad central de calefacción y ventilación situada bajo el coche entre los bogies, siendo la fuente de calor un quemador que quema aceite ligero de calefacción.
 El ŘDV 80-29 008-7, incluido en la cabeza del tren Os 3542, era apto para la explotación en las vías; la última revisión técnica periódica antes de la ocurrencia del MU se realizó el día 11. 12. 2022, con vigencia de 1 año.
@@ -727,8 +735,8 @@ el tren circulando a 70 km·h-1
 a las 8:19:21 h
 pasó con su frontal por el nivel de la señal principal (de entrada) (en adelante, señal de entrada) VBS de la estación Olomouc hl. n. y entró en el ámbito de la estación de pasajeros. El frontal del tren se
 
-
 ## Página 22
+
 
 encontraba a una distancia de 1 463 m del punto de ocurrencia del MU;
 •
@@ -773,8 +781,8 @@ a 1 km·h-1 se registró un retroceso en la composición (sin registro de la dis
 a las 8:21:56 h
 el tren se detuvo en la posición final tras el MU.
 
-
 ## Página 23
+
 
 •
 la conducción del tren fue realizada por el maquinista en el modo de regulación automática de velocidad (ARR);
@@ -794,6 +802,7 @@ Fuente: DI
 
 ## Página 24
 
+
 Tras la aparición de la MU, el DI verificó el estado de la señalización de apertura/desbloqueo de emergencia de las puertas de acceso del HDV 843.021-7, en el que no se detectó ninguna deficiencia. En el ŘDV 80-29 008-7 no fue posible determinar el estado de esta señalización debido a los daños en la carrocería causados por el incendio, véase el punto 3.1.3 de la presente ZZ.
 ### 3.1.8 Descripción de las partes pertinentes de la infraestructura y del sistema de señalización
 La vía de circulación (vía de tren) (en adelante, vía de tren) para el tren Os 3542 se estableció en la est. Olomouc hl. n. desde la TK Velká Bystřice – Olomouc hl. n. desde la señal de entrada VBS hasta la SK n.º 301b, pasando junto a la señal de itinerario Sc301b, a la SK n.º 301, pasando junto a la señal de itinerario Sc301, a través del ŽP P7519 hasta la SK n.º 301a y la SK n.º 12 de la estación de pasajeros. La circulación del tren Os 3542 junto a la señal de itinerario Sc301 estuvo permitida por una señal que autorizaba la circulación del tren «Velocidad 40 km/h y aviso».
@@ -802,8 +811,8 @@ La est. Olomouc hl. n. está equipada con un SZZ de 3.ª categoría ESA 11 con E
 El ŽP P7519 en el km 0,580 es de vía única, con una anchura de 27,5 m, una longitud de 6,1 m y un ángulo de cruce de la vía con la vía de comunicación terrestre – ul. Divišova de 56°. La ul. Divišova incluye una vía de tranvía de doble vía que discurre en el eje de la vía de comunicación terrestre. La superficie de la estructura del paso a nivel está formada por una estructura de caucho ROSEHILL Baseplate. La superficie de la vía adyacente está formada por hormigón asfáltico. Los raíles de la vía ferroviaria tienen forma 49 E1 y R65 sobre soportes de raíl de hormigón y una losa de hormigón armado monolítico en el punto de cruce con la vía de tranvía (también denominada intersección de vías).
 El ŽP está protegido por un PZZ luminoso sin barreras ni travesaños, tipo PZZ-EA, categoría PZS 3SBI, con siete cajas luminosas de avisadores, véase el punto 3.1.3 de la presente ZZ. Las cajas luminosas de los avisadores son del tipo AŽD 97 con señalización positiva mediante luz blanca. El PZZ, cuando el SZZ funciona correctamente, se controla a través del SZZ en función de la evaluación de la libre de ocupación y de la ocupación de los contadores de ejes y de los circuitos de vía. El PZZ del ŽP P7519 está equipado con un dispositivo de registro. El espacio del ŽP no está monitorizado mediante un sistema de cámaras. Ante el ŽP no se instalan señales con la señal «Pite», porque el ŽP está protegido por un PZZ.
 
-
 ## Página 25
+
 
 El ŽP fue establecido, según la documentación del gestor de la vía, el 31. 12. 1897. Hasta 2016, el ŽP P7519 estaba protegido por un PZS, categoría 3SNI, con cinco avisadores sin barreras ni travesaños. Dicho PZS fue sustituido, en el marco de la reconstrucción de la est. Olomouc hl. n., por un PZZ sin la incorporación de barreras ni travesaños, categoría 3SBI, con siete cajas luminosas de avisadores, de acuerdo con el documento «Rozhodnutí o změně způsobu zabezpečení křížení železniční dráhy s komunikací I. tř. (I/46) v úrovni kolejí», emitido por el DÚ el 14. 6. 2010, con el n.º de expediente: DUCR-30261/10/Ma, en virtud de cuya modificación se resolvieron, en el marco de la reconstrucción de la est. Olomouc hl. n., las obras de construcción en las inmediaciones del ŽP, incluida la adaptación de las aceras existentes según los requisitos para la instalación de nuevos avisadores, con la demolición de las aceras o superficies antiguas y la instalación de nuevos bordillos, del nuevo pavimento de las aceras, la realización de zonas ajardinadas y bandas señaléticas y de aviso para personas con discapacidad visual, véase también el punto 4.1.1 de la presente ZZ. En el momento de la aparición de la MU en cuestión, la reconstrucción de la est. Olomouc hl. n. no estaba finalizada, ya que no se había producido la recepción de la obra.
 En 2022 se realizó la última reparación en el ŽP P7519, dado que, debido al intenso tráfico rodado y al tráfico de tranvías en los puntos por los que circulaban los vehículos de la vía de tranvía, la estructura del paso a nivel del ŽP estaba considerablemente desgastada. En el punto de la intersección de vías se realizó una nueva losa de hormigón armado monolítico y una nueva estructura de intersección de vías R65/NT1 de 11 m de longitud, que permite el cruce a nivel de la vía ferroviaria con la vía de tranvía; se trataba de una estructura con cabeza de raíl de la vía ferroviaria ininterrumpida, habiendo sido conducidos los raíles de ambas vías en línea recta en el punto de cruce. En el marco de la reparación del cruce, se repararon también los tramos adyacentes de la vía de tranvía, incluida la colocación de alfombras antivibración de caucho reciclado y la renovación de las vías. El espacio de la intersección de vías en la banda de tranvía se estableció como un lecho de vía abierto.
@@ -814,8 +823,8 @@ Del análisis de los datos registrados por el ordenador tecnológico 3 del SZZ d
 | • a las 8:16:09 h | la señal de entrada VBS comenzó a emitir la señal «Aviso» y la señal de itinerario Sc301b la señal «Repetición de la señal Aviso». Al mismo tiempo, mediante la operación normal del SZZ de la est. Olomouc hl. n. . . . se introdujeron las operaciones para la circulación del tren Os 3542 desde la SK n.º 301 desde la señal de itinerario Sc301 de la est. Olomouc hl. n. a través de la SK n.º 301a hasta la SK n.º 12; . . ., . . |
 | • a las 8:16:20 h | tras la establecimiento de la vía de tren por la acción automática del SZZ, se |
 
-
 ## Página 26
+
 
 estableció la vía de tren desde la señal de itinerario Sc301 
 de la est. Olomouc hl. n. a través de la SK n.º 301a hasta la SK n.º 12 en el ámbito de la estación de pasajeros;
@@ -861,10 +870,10 @@ a las 8:20:16 h
 el tren Os 3542 entró íntegramente en la SK n.º 301 de la est. Olomouc hl. n.;
 •
 a las 8:20:39 h
-el tren Os 3542 rebasó la cota de la señal de itinerario Sc301 de la est. Olomouc hl. n. y ocupó el KÚ de los desvíos n.º 302 y 301 en la cabecera sur del 
-
+el tren Os 3542 rebasó la cota de la señal de itinerario Sc301 de la est. Olomouc hl. n. y ocupó el KÚ de los desvíos n.º 302 y 301 en la cabecera sur del
 
 ## Página 27
+
 
 |  | ámbito Bělidla; |
 | • a las 8:20:40 h | la señal Sc301 comenzó a emitir la señal «Alto»; |
@@ -887,30 +896,30 @@ maquinista del tren Os 3542
 
 ## Página 28
 
-◦el jefe de tren ayudaba a los pasajeros a abandonar el ŘDV a través del paso entre el ŘDV y el HDV. Él comenzó a ayudar a los pasajeros desde el espacio exterior a los vehículos del tren. Tras un momento, se unieron otras personas,
-◦en el momento de la colisión, el ŘDV descarriló a la derecha en el sentido de marcha del tren, su frontal se detuvo contra el murete tras la acera;
+◦el jefe de tren ayudaba a los pasajeros a abandonar el ŘDV a través del paso entre el ŘDV y el HDV. Él comenzó a ayudar a los pasajeros desde el espacio exterior a los vehículos del tren. Tras un momento se unieron otras personas,
+◦en el momento de la colisión, el ŘDV descarriló a la derecha en el sentido de marcha del tren, su frontal se detuvo contra el murete situado tras la acera;
 •
-despachante de sección 1C CDP Přerov
+jefe de sección 1C CDP Přerov
   – Acta con el empleado:
-◦el turno hasta la ocurrencia de la MU transcurrió sin mayores complicaciones,
-◦para el tren Os 3542 estableció la ruta de entrada desde la señal de entrada VBS de la est. Olomouc hl. n. hasta la SK n.º 12. Cuando se mostró en el monitor JOP la información de la avería PZS P7519, al mirar la cámara detectó la colisión del tren Os 3542 con un vehículo rodado. Inmediatamente comunicó la ocurrencia de la MU según el horario de comunicaciones del CDP Přerov,
-◦antes de la ocurrencia de la MU, el SZZ de la est. Olomouc hl. n. estaba en orden.
-Resumen de las explicaciones aportadas por otras personas implicadas:
+◦el turno hasta la producción del accidente transcurrió sin mayores complicaciones,
+◦para el tren Os 3542 estableció la ruta de entrada desde la señal de entrada VBS est. Olomouc hl. n. hasta la SK n.º 12. Cuando se mostró en el monitor JOP la información de la avería PZS P7519, al mirar la cámara comprobó la colisión del tren Os 3542 con un vehículo rodado. Inmediatamente comunicó la producción del accidente según el horario de comunicaciones del CDP Přerov,
+◦antes de la producción del accidente, el SZZ de la est. Olomouc hl. n. estaba en orden.
+Resumen de las explicaciones aportadas por otros implicados:
 •
 conductor del NA
-  – en vista de la acusación formulada, ejerció su derecho y se negó a declarar sobre el asunto. No obstante, del juicio celebrado el día 3. 6. 2024 ante el Juzgado de Distrito de Olomouc, entre otros extremos, se desprendió que cuando el NA se aproximaba al ŽP P7519, buscaba las gafas en la cabina del conductor, y en ese momento, según su declaración, le deslumbró el sol. Nota DI: durante todo el trayecto del NA por la ul. Divišova en dirección desde Hodolan, los rayos solares procedían del lado derecho del conductor del NA con un ángulo de aprox. 15° hacia la parte trasera del NA, véase el punto 3.1.3 de esta ZZ.
+  – en vista de la imputación formulada, ejerció su derecho y se negó a declarar sobre el asunto. No obstante, del juicio celebrado el día 3. 6. 2024 ante el Juzgado de Distrito de Olomouc se desprende, entre otros extremos, que cuando el NA se aproximaba al ŽP P7519, buscaba las gafas en la cabina del conductor, y en ese momento, según su declaración, le deslumbró el sol. Nota DI: durante todo el trayecto del NA por la c/ Divišova en dirección desde Hodolan, los rayos solares procedían del lado derecho del conductor del NA con un ángulo de aprox. 15° hacia la parte trasera del NA, véase el punto 3.1.3 de la presente ZZ.
 Resumen de las explicaciones aportadas por otros testigos:
 •
 jefe de tren del tren Os 3542
   – Acta con el empleado y Registro Oficial de la explicación aportada de la PČR:
-◦poco antes de la ocurrencia de la MU, cuando el tren se aproximaba al ŽP P7519, se encontraba en la parte trasera del tren. En el momento de la colisión fue arrojado contra la pared interior y cayó al suelo. Cuando se levantó, concluyó que debió producirse una colisión. Los pasajeros comenzaron a huir hacia la parte trasera del tren, y así, para obtener información sobre lo que había ocurrido, comenzó a abrirse paso entre estos pasajeros en dirección a la parte delantera del tren. En la parte delantera del tren vio llamas;
-◦al abrirse paso entre los pasajeros, comprobaba si alguien estaba herido, y vio que algunos pasajeros se levantaban del suelo. Abrió la puerta de acceso a la cabina delantera del maquinista del HDV, por la que entró en la cabina. Desde la cabina continuó por las puertas de paso frontal a través de los puentes de enlace entre el HDV y el ŘDV hasta la sección trasera del ŘDV, donde inmediatamente comenzó a ayudar a los pasajeros a pasar al HDV;
-◦antes de abandonar el ŘDV, cuyo interior estaba fuertemente lleno de humo, se aseguró llamando para comprobar si algún pasajero había quedado en el ŘDV. Durante esta actividad inhaló humo,
+◦poco antes de la producción del accidente, cuando el tren se aproximaba al ŽP P7519, se encontraba en la parte trasera del tren. En el momento de la colisión fue arrojado contra la pared interior y cayó al suelo. Cuando se levantó, concluyó que debió producirse una colisión. Los pasajeros comenzaron a huir hacia la parte trasera del tren, y así, para obtener información sobre lo ocurrido, comenzó a abrirse paso entre estos pasajeros en dirección a la parte delantera del tren. En la parte delantera del tren vio llamas;
+◦mientras se abría paso entre los pasajeros, comprobaba si alguien estaba herido, y vio que algunos pasajeros se levantaban del suelo. Abrió la puerta de acceso a la cabina delantera del maquinista del HDV, por la que entró en la cabina. Desde la cabina continuó por las puertas de paso frontal a través de los puentes de enlace entre el HDV y el ŘDV hasta la sección trasera del ŘDV, donde inmediatamente comenzó a ayudar a los pasajeros a cruzar al HDV;
+◦antes de abandonar el ŘDV, cuyo interior estaba fuertemente lleno de humo, se aseguró llamando si algún pasajero había permanecido en el ŘDV. Durante esta actividad inhaló humo,
 ◦tras abandonar el ŘDV y el HDV, junto con el maquinista intentó llevar a los pasajeros a un lugar seguro,
-◦a consecuencia de la caída en el tren y de la inhalación de humo, fue atendido en el lugar por el ZZS y posteriormente trasladado al Hospital Universitario de Olomouc;
-
+◦como consecuencia de la caída en el tren y de la inhalación de humo, fue atendido en el lugar por el ZZS y posteriormente trasladado al Hospital Universitario de Olomouc;
 
 ## Página 29
+
 
 •
 pasajeros del tren Os 3542
@@ -932,8 +941,8 @@ pasajero del tren Os 3542, que viajaba en el HDV
 conductor del OA
   – Registro Oficial de la explicación aportada de la PČR:
 
-
 ## Página 30
+
 
 ◦alrededor de las 8:20 h se aproximaba con el OA al ŽP P7519 en dirección desde la ul. Chválkovická hacia la ul. Hodolanská. En el OA, además de él, viajaban sus dos hijos, ambos abrochados con cinturones de seguridad en los asientos traseros,
 ◦cuando se acercó al ŽP P7519, las cajas lumínicas de los semáforos comenzaron a emitir la advertencia con dos luces rojas intermitentes alternas. Por ello se detuvo antes del ŽP,
@@ -952,24 +961,24 @@ El espacio del ŽP no estaba monitorizado por el sistema de cámaras de la SŽ. 
 ### 3.2.1 Secuencia de hechos que condujeron al suceso extraordinario
 El día 17. 10. 2023 a las 8:16:38 h partió el tren Os 3542, compuesto por el ŘDV 80-29 008-7 situado en la cabeza del tren y el HDV 843.021-7, desde la parada de Bystrovany en dirección a la estación de
 
-
 ## Página 31
 
-destino Olomouc hl. n. El maquinista aumentaba progresivamente la velocidad del tren y a las 8:19:21 h el tren rebasó el nivel de la señal de entrada VBS de la est. Olomouc hl. n. 40 s después (a las 8:20:01 h) el tren influyó en el circuito de mando del PZZ del ŽP P7519, que a las 8:20:03 h fue puesto en advertencia y comenzó a advertir a los usuarios de la carretera de que se aproximaba al ŽP un tren, mediante la señal luminosa S 14a «Dos luces rojas intermitentes alternas de la señal del dispositivo de enclavamiento de paso a nivel» y la advertencia sonora emitida mediante la señal sonora intermitente característica de significado inequívoco del PZZ. A las 8:20:21 h el maquinista comenzó a reducir la velocidad del tren de 59 km·h-1, ya que se aproximaba a la señal de vía Sc301, que indicaba la señal «Velocidad 40 km/h y advertencia». A las 8:20:39 h el frontal del tren, a una velocidad de 40 km·h-1, rebasó el nivel de esta señal, el tren se encontraba en ese momento a 108 m del lugar de ocurrencia de la MU. Un segundo después (a las 8:20:40 h) la velocidad del tren Os 3542 se estabilizó en el valor de 39 km·h-1, el tren se encontraba a 97 m del lugar de ocurrencia de la MU. A continuación siguió la circulación a velocidad constante.
-En ese momento se aproximaba al ŽP P7519 por la ul. Divišova en dirección desde Hodolan un NA, cuyo conductor no respetó la advertencia del PZZ y entró en el ŽP sin detenerse.
-El maquinista del tren Os 3542, antes de entrar en el ŽP, al observar la vía registró un OA detenido a la derecha antes del ŽP, de lo que concluyó que el PZZ del ŽP estaba en funcionamiento. Simultáneamente detectó que por el lado izquierdo se aproximaba al ŽP P7519 un NA, y por su velocidad concluyó que el NA no se detendría antes del ŽP. Ante la situación producida, el maquinista reaccionó a las 8:20:48 h con la aplicación de la frenada de acción rápida, al mismo tiempo el NA entró indebidamente en el ŽP. El tren que circulaba a una velocidad de 39 km·h-1 se encontraba en ese momento a una distancia de 11 m del ŽP. Un segundo después (a las 8:20:49 h) se produjo la colisión, cuando el frontal del tren Os 3542 impactó en la parte trasera derecha del tractor y en el flanco derecho del remolque del NA. El impacto del tren contra el NA provocó la separación de la unión del remolque con el tractor, quedando el tractor del NA en el lado derecho del tren, mientras que el remolque del NA permaneció a la izquierda. En la colisión se dañó y arrancó el depósito de combustible derecho del tractor del NA, cuyo gasóleo salpicó también al ŘDV del tren Os 3542, donde junto con el ligero combustible de calefacción que ardía en el grupo de calefacción del ŘDV, arrancado en la colisión de la caja de calefacción, provocó la producción del incendio.
-A consecuencia de la MU, 8 personas resultaron lesionadas, y se produjo un daño por importe de 44 078 830 Kč.
-### 3.2.2 Secuencia de hechos desde la ocurrencia del suceso extraordinario hasta la finalización de las acciones de los servicios de emergencia
+estación Olomouc hl. n. El maquinista aumentaba progresivamente la velocidad del tren y a las 8:19:21 h el tren superó el nivel de la señal de entrada VBS de la est. Olomouc hl. n. 40 s más tarde (a las 8:20:01 h) el tren afectó al circuito de control PZZ ŽP P7519, que a las 8:20:03 h fue puesto en alerta y comenzó a advertir a los usuarios de la vía pública, mediante la señal luminosa S 14a «Dos luces rojas intermitentes alternas de la señal del dispositivo de seguridad de paso a nivel» y la alarma acústica emitida mediante la señal sonora intermitente característica de significado inequívoco del PZZ, de que se acercaba un tren al ŽP. A las 8:20:21 h el maquinista comenzó a reducir la velocidad del tren de 59 km·h-1, ya que se aproximaba a la señal de camino Sc301, que indicaba la señal «Velocidad 40 km/h y alerta». A las 8:20:39 h el frente del tren, a una velocidad de 40 km·h-1, superó el nivel de esta señal; el tren se encontraba en ese momento a 108 m del lugar de origen de la MU. Un segundo después (a las 8:20:40 h) la velocidad del tren Os 3542 se estabilizó en el valor de 39 km·h-1; el tren se encontraba a 97 m del lugar de origen de la MU. A continuación se produjo la marcha a velocidad constante. 
+En ese momento se aproximaba al ŽP P7519 por la c/ Divišova, en dirección desde Hodolany, un NA cuyo conductor no respetó la alerta del PZZ y entró en el ŽP sin detenerse. 
+El maquinista del tren Os 3542, antes de entrar en el ŽP, al observar la vía registró un OA detenido a la derecha del ŽP, de lo que dedujo que el PZZ del ŽP estaba en funcionamiento. Al mismo tiempo observó, por el lado izquierdo, un NA aproximándose al ŽP P7519, y por su velocidad dedujo que el NA no se detendría antes del ŽP. Ante la situación creada, el maquinista reaccionó a las 8:20:48 h aplicando frenado de acción rápida; al mismo tiempo el NA entró ilegalmente en el ŽP. El tren, que circulaba a una velocidad de 39 km·h-1, se encontraba en ese momento a una distancia de 11 m del ŽP. Un segundo después (a las 8:20:49 h) se produjo la colisión, en la que el frente del tren Os 3542 impactó contra la parte trasera derecha del tractocamión y contra el lateral derecho del remolque del NA. El impacto del tren contra el NA provocó la separación del acoplamiento del remolque con el tractocamión, de modo que el tractocamión del NA quedó a la derecha del tren, mientras que el remolque del NA permaneció a la izquierda. En la colisión resultó dañada y desprendida la depósito de combustible derecho del tractocamión del NA, cuyo diésel salpicó también al ŘDV del tren Os 3542, donde, junto con el ligero aceite de calefacción que ardía en el grupo de calefacción del ŘDV, arrancado durante la colisión de la carcasa de calefacción, provocó la aparición de un incendio. 
+Como consecuencia de la MU, 8 personas resultaron lesionadas y se produjo un daño por importe de 44 078 830 Kč. 
+### 3.2.2 Secuencia de hechos desde el origen del suceso excepcional hasta la finalización de las acciones de los servicios de rescate
 | 17 10 2023 . . |  |
-| • 8:20 h | ocurrencia de la MU; |
-| • 8:21 h | el jefe de tren del tren Os 3542 inició la evacuación de los pasajeros del ŘDV al HDV del tren. Al mismo tiempo, el despachante de sección 1C CDP Přerov detectó la ocurrencia de la MU a partir del funcionamiento del SZZ y comenzó a actuar según el horario de comunicaciones del CDP Přerov; |
-| • 8:22 h | comunicación de la ocurrencia de la MU a la IZS por parte de testigos de la MU; |
-| • 8:23 h | el primer componente de la IZS (PČR) llegó al lugar de ocurrencia de la MU; |
-| • 8:30 h | el electrodespachante independiente del Electrodespacho de Přerov SEE Olomouc cortó el suministro de la línea de contacto en la est. Olomouc hl. n.; |
-| • 8:41 h | la persona autorizada de la SŽ comunicó la ocurrencia de la MU al COP DI; |
-| • 9:09 h | tras la inspección de la línea de contacto en la est. Olomouc hl. n., se restableció la circulación |
+| • 8:20 h | origen de la MU; |
+| • 8:21 h | el jefe de tren del tren Os 3542 inició la evacuación de los pasajeros del ŘDV al HDV del tren. Al mismo tiempo, el despachador de sección 1C del CDP Přerov constató el origen de la MU a partir del funcionamiento del SZZ y comenzó a actuar conforme al horario de avisos del CDP Přerov; |
+| • 8:22 h | aviso del origen de la MU al IZS por parte de testigos de la MU; |
+| • 8:23 h | el primer componente del IZS (PČR) llegó al lugar de origen de la MU; |
+| • 8:30 h | el electrodespachador independiente del Electrodespachinku Přerov SEE Olomouc cortó el suministro de la línea de contacto en la est. Olomouc hl. n. ; . . . |
+| • 8:41 h | la persona designada de SŽ comunicó el origen de la MU al COP DI; |
+| • 9:09 h | tras la inspección de la línea de contacto en la est. Olomouc hl. n., se restableció la circulación – |
 
 ## Página 32
+
 
 se restableció la alimentación de la catenaria en la est. Olomouc hl. n. (excepto SK n.º 10 - 16);
 •
@@ -1005,6 +1014,7 @@ El explotador de la vía registraba en el ŽP P7519 un momento de tráfico de 54
 
 ## Página 33
 
+
 El ŽP P7519 estaba protegido con PZS, ver puntos 3.1.3 y 3.1.8 de esta ZZ. Las cajas de luz de los semáforos en postes independientes, su construcción y ubicación debían corresponder a la ČSN 73 6380 y la ČSN 34 2650 ed. 2 y debían estar complementadas con una placa con la advertencia «ATENCIÓN TREN». Para el conductor de un vehículo terrestre debía garantizarse una visibilidad al semáforo de tal longitud que el conductor pudiera detenerse de forma fiable antes del paso a nivel, es decir, la longitud de visibilidad para detenerse Dz. En caso de avería o desconexión del PZZ, debía garantizarse la longitud de visibilidad para el vehículo terrestre más lento Lp en la DV circulando a una velocidad de 10 km·h-1, ver punto 3.1.3 de esta ZZ. El tiempo de aproximación del ŽP P7519, que según las disposiciones del punto B.4 de la ČSN 34 2650 ed. 2 es la suma del tiempo de liberación y de otros tiempos parciales, tenía un valor mínimo de 31,84 s, ver también más abajo.
 Del análisis del archivo de datos descargado del SZZ de la est. Olomouc hl. n. y de la grabación realizada por el sistema de cámaras instalado en el edificio de la empresa FGP Studio, situado en las proximidades del ŽP P7519, se desprende, entre otros, que el PZZ del ŽP P7519 advertía a los usuarios de la carretera con luz roja intermitente y señal sonora intermitente hasta la llegada del frente del tren Os 3542 al ŽP durante 46 s, es decir, de conformidad con la ČSN 34 2650 ed. 2. Por tanto, puede constatarse que el conductor NA fue advertido a tiempo por la acción del PZZ del ŽP P7519, de conformidad con la normativa legal correspondiente, de que se aproximaba un tren al ŽP (en el caso concreto, el tren Os 3542).
 En relación con los hechos anteriormente mencionados, en la investigación no se detectó infracción de las tareas y obligaciones del explotador de la vía.
@@ -1016,8 +1026,8 @@ En relación con lo anterior, es necesario indicar que:
 •
 la diferencia de carga acústica entre la protección del ŽP P7519 con PZS sin complemento de barreras y con PZS complementado con barreras de medio ancho que bloquean el carril solo antes del ŽP (en la evaluación no se consideró, dada la disposición existente de
 
-
 ## Página 34
+
 
 la catenaria de la vía de tranvía, el uso de barreras completas) para las necesidades de la investigación de este MU fue evaluada por el DI según la ČSN 34 2650 ed. 2.
 Según esta norma, la alerta del PZZ es la manifestación externa del dispositivo de paso a nivel, mediante la cual se prohíbe a los usuarios de la carretera el acceso (entrada) al ŽP con luz roja intermitente y señal sonora intermitente. La alerta debe iniciarse de manera que incluso el usuario de la carretera más largo y más lento, que al activarse la alerta se encuentre a 1 m de la caja de luz del semáforo (o de la barrera, si esta invade el espacio del semáforo), haya cruzado el límite de la zona de peligro del ŽP con el ŽP con el margen del tiempo de seguridad antes de la llegada del frente de la DV. El inicio de la alerta se basa en el cálculo del tiempo de aproximación «tL», que es el tiempo más corto desde la orden de activación de la alerta del PZZ hasta el momento en que el frente de la DV puede entrar en el ŽP.
@@ -1058,8 +1068,8 @@ del semáforo antes del paso a nivel hasta el borde externo del carril
 de la carretera y la intersección de dicho borde con el límite
 de la zona de peligro del ŽP (1,3 m),
 
-
 ## Página 35
+
 
 d7 – es la distancia de las caras frontales de las luces del semáforo desde el eje de su
 poste medida en el sentido de la carretera (para
@@ -1107,6 +1117,7 @@ Puede resumirse, por tanto, que el tiempo mínimo de alerta en el ŽP P7519, y c
 
 ## Página 36
 
+
 En este lugar no puede dejar de mencionarse que el tiempo de aviso y el tiempo de carga acústica asociada pueden acortarse mediante el cierre y la apertura más rápidos de las barreras.
 Puede resumirse así que la argumentación de la DÚ, con la que justificó la «no consideración» de complementar el PZS del PE P7519 con barreras de medio brazo al decidir sobre el cambio del alcance y la forma de aseguramiento de dicho PE, antes de la emisión de la Resolución sobre el cambio de la forma de aseguramiento del cruce de la vía férrea con la carretera de clase I (I/46) a nivel de las vías, de fecha 14. 6. 2010, con n.º de expediente: DUCR-30261/10/Ma, no es pertinente, sino sustitutiva, véase también el punto 4.1.4 de la presente II.
 El maquinista, es decir, también el maquinista del tren Os 3542, al conducir el tren (DV), en el sentido de la normativa legal y de las disposiciones pertinentes de las normas internas del gestor de la vía SŽ y del transportista ČD, estaba, entre otros, obligado a conducir el DV únicamente desde la posición desde la que existe la mejor visibilidad, por lo general desde la cabina delantera del maquinista en el sentido de la marcha, observar desde la posición de mando del DV la vía y las señales y actuar según los hechos constatados, y durante la marcha no superar la velocidad máxima permitida establecida en el horario de circulación o la velocidad limitada ordenada.
@@ -1114,8 +1125,8 @@ El maquinista del tren Os 3542 condujo la locomotora (ŘDV) (colocada a la cabez
 El jefe de tren, el revisor y el maquinista u otra persona en el transporte público ferroviario de viajeros encargada por el transportista y equipada con una placa de inspección o un carnet del transportista (en adelante, persona autorizada de la ČD) estaba facultado para dar a los viajeros instrucciones y órdenes para garantizar su seguridad, la seguridad de los demás viajeros y la seguridad y fluidez del transporte ferroviario. La persona autorizada de la ČD, en el caso de la MU en cuestión, la persona autorizada de la ČD era el jefe de tren del tren Os 3542, debía, en caso de incidencias en el transporte, en el sentido de la normativa legal y de las disposiciones pertinentes de las normas internas del gestor de la vía SŽ y del transportista ČD, entre otros, proteger de forma prioritaria, dentro de lo posible, la salud y la vida de las personas e impedir daños al DV, a las instalaciones de la vía, a otras instalaciones y al medio ambiente. El jefe de tren (u otra persona autorizada de la ČD) debía garantizar, hasta la llegada de los servicios del SIU, la coordinación de los trabajos de rescate, debiendo, en la evacuación de los viajeros, atenerse a las instrucciones de los miembros del SIU. Para la evacuación de los viajeros, la persona autorizada de la ČD también podía decidir por sí misma, según su propio criterio, pero únicamente en caso de amenaza inmediata para la vida, debiendo, antes de iniciar la evacuación propiamente dicha, convocar a los viajeros mediante el altavoz o personalmente. En la evacuación, la persona autorizada de la ČD debía ayudar a los viajeros, en particular a las personas con capacidad reducida de movimiento y orientación. En el caso de que el DV fuera afectado por un incendio, tiene la obligación de garantizar la evacuación de los viajeros de los lugares con humo a otros DV, lo más lejos posible del lugar del incendio.
 El jefe de tren del tren Os 3542 decidió por sí mismo, según su propio criterio, la evacuación de los viajeros desde la locomotora (ŘDV), y ello incluso antes de la llegada de los servicios del SIU, ya que el incendio de la ŘDV suponía una amenaza inmediata para la vida de los viajeros. Para llevar a cabo la evacuación propiamente dicha, primero abrió el paso a través de la posición de mando del jefe de tren (HDV), a continuación convocó personalmente a los viajeros a la evacuación y ayudó a los viajeros a abandonar la ŘDV a través del paso intercoche hacia la HDV y, posteriormente, también a salir de la HDV.
 
-
 ## Página 37
+
 
 En la investigación no se constató el incumplimiento de las funciones y obligaciones del transportista, incluido el maquinista del tren Os 3542, que no pudo evitar la colisión del tren con la HAC.
 ### 4.1.2 Entidades responsables del mantenimiento de los vehículos ferroviarios
@@ -1134,8 +1145,8 @@ la adopción de una medida propia encaminada a garantizar la realización de tod
 la adopción de una medida que garantice el complemento del PE P7519, asegurado en la actualidad con un dispositivo de aseguramiento luminoso, con barreras, que desde el punto de vista de la barrera óptica reduzcan la probabilidad de que un conductor entre en el PE ante su falta de respuesta a la señalización luminosa del PE en la alerta.
 La DÚ (otra autoridad administrativa) debe, a continuación, de acuerdo con la disposición anteriormente citada de la Ley n.º 266/1994 Sb., utilizar la recomendación de seguridad para la adopción de medidas correspondientes, incluida la propuesta de modificación de la normativa legal. Por ello, la DÚ, sobre la base de la citada recomendación de seguridad, adoptó una medida, también en relación con las recomendaciones de seguridad análogas anteriores de la DI, consistente en la emisión de la comunicación «Dopis ředitele Drážního úřadu» (Carta del Director de la Autoridad Ferroviaria), n.º de expediente DUCR-29316/18, de fecha
 
-
 ## Página 38
+
 
 22. 5. 2018 (en adelante, Carta del Director de la DÚ), con la que recomendó al gestor de la vía SŽ la instalación de barreras en los PE con alto momento de tráfico y con MU recurrentes.
 En el momento de la aparición de la MU, la recomendación de seguridad en cuestión no se había hecho realidad en el PE, habiendo indicado la DÚ, en relación con la no realización de dicha recomendación de seguridad en el PE P7519, en la comunicación «Olomouc - P7519 - informace k mimořádné události» (Olomouc - P7519 - información sobre el suceso excepcional), con ref. MO-OKO0033/24 (DUCR-20086/24/Sj), de fecha 17. 4. 2024, que: «No se propusieron barreras en el paso a nivel porque el paso a nivel es oblicuo y cruza la vía de tranvía, transcurrida en la vía terrestre de la calle Divišova (por el centro de la vía terrestre), y con la instalación de barreras, al abrir el paso a nivel, se produciría una colisión con la catenaria de la vía de tranvía.» y también que «El PZS se construyó en el marco de la obra Rekonstrukce žst. Olomouc (Reconstrucción de la est. Olomouc), que se encuentra en servicio de prueba y aún no ha sido recibida.».
@@ -1150,6 +1161,7 @@ A efectos de completitud es necesario indicar que el momento de tráfico en el P
 
 ## Página 39
 
+
 Sobre la base de lo anteriormente expuesto, en relación con los hechos recogidos en los puntos 4.1.1 y 4.1.7 de la presente ZZ, la no incorporación de barreras al PZS ŽP P7519 (sobre la base de la recomendación de seguridad DI emitida anteriormente) fue, en esencia, «esperar» a otro MU, que, como demostró el tiempo, se produjo.
 La misión de la Agencia Ferroviaria de la Unión Europea es, además de garantizar, en el marco de sus competencias, que se mantenga y, en la medida de lo posible, se aumente de forma sistemática la seguridad ferroviaria, entre otras, la emisión, renovación, suspensión y modificación de certificados únicos de seguridad, la limitación de su validez o su anulación, en cuestión en la que coopera con las autoridades de seguridad nacionales; asimismo, emite autorizaciones para la puesta en servicio de vehículos ferroviarios y tipos de vehículos, y está facultada para renovar, modificar, suspender o anular las autorizaciones que haya emitido. La Agencia evalúa asimismo los proyectos de normativa nacional, etc.
 En la investigación no se detectó incumplimiento de las misiones y obligaciones de la Agencia Ferroviaria de la Unión Europea.
@@ -1162,8 +1174,8 @@ De acuerdo con el § 6 apartado 3 de la Ley n.º 266/1994 Sb., en la intersecci�
 El conductor del NA en cuestión fue informado a tiempo, mediante la señalización completa de tráfico, es decir, las señales verticales de tráfico A 30 «Cruce de ferrocarril sin barreras» y A 31a «Placa de señalización (240 m)», A 31b «Placa de señalización (160 m)» y A 31c «Placa de señalización (80 m)», de que se acercaba al ŽP. Del propio ŽP P7519 fue advertido mediante las cruces de advertencia colocadas sobre las cajas de luces del semáforo PZZ.
 El conductor del NA que se aproximaba al ŽP P7519 por la ul. Divišova desde la dirección de Hodolan, en contra de las obligaciones establecidas por la normativa legal, no se comportó con especial precaución antes del ŽP, no respetó la advertencia del PZZ – la señal de las cajas de luces de los semáforos emitida con dos luces rojas intermitentes alternas y con el sonido intermitente característico de significado inequívoco – y entró ilegítimamente (sin detenerse) en el ŽP P7519 en el momento en que se aproximaba a él el tren Os 3542, que en ese momento se encontraba a 11 m del ŽP. En este punto es
 
-
 ## Página 40
+
 
 necesario indicar que la advertencia del PZZ se emitió a los usuarios de la carretera 45 s antes de la entrada del NA en el ŽP, véanse los puntos 3.1.8 y 3.1.9 de la presente ZZ.
 Con lo anteriormente expuesto concuerdan las informaciones que se desprendieron del juicio celebrado el 3 de junio de 2024 en el Juzgado de Distrito de Olomouc, donde el conductor del NA declaró que, durante la conducción hacia el ŽP P7519, no prestó plena atención a la conducción del vehículo y no siguió plenamente la situación del tráfico en la carretera, ya que buscaba sus gafas en la cabina del conductor, y que debía estar alterado debido a problemas relacionados con la enfermedad de su madre. No obstante, es necesario indicar que el conductor del NA prestó cierta atención a la conducción, ya que durante la conducción hacia el ŽP mantuvo el NA en todo momento en el carril correspondiente, a pesar de que la carretera ul. Divišova, en la dirección de conducción del NA hacia el ŽP P7519, discurría a una distancia superior a 160 m en línea recta, y que a partir de una distancia de unos 25 m antes del ŽP, dicha carretera, incluidos los carriles individuales, discurría en una curva suave a la derecha.
@@ -1189,8 +1201,8 @@ En la investigación se detectó el incumplimiento de la normativa legal relativ
 4.2.1 Factores o consecuencias derivados de la construcción de los vehículos ferroviarios, de la infraestructura ferroviaria o de las instalaciones técnicas
 En la investigación no se detectaron factores derivados de la construcción de los VF, de la infraestructura ferroviaria o de las instalaciones técnicas.
 
-
 ## Página 41
+
 
 4.2.2 Factores o consecuencias derivados de la instalación y la puesta en servicio de los vehículos ferroviarios, de la infraestructura ferroviaria o de las instalaciones técnicas
 En la investigación no se detectaron factores derivados de la instalación y la puesta en servicio de los VF, de la infraestructura ferroviaria o de las instalaciones técnicas.
@@ -1212,29 +1224,44 @@ En la investigación no se detectaron factores relacionados con la organización
 ### 4.3.4 Factores relacionados con el entorno laboral
 En la investigación no se detectaron factores relacionados con el entorno laboral.
 
-
 ## Página 42
 
-### 4.3.5 Otro factor relevante a efectos de la investigación
+### 4.3.5 Otro factor significativo a efectos de la investigación
 En la investigación no se detectaron otros factores relacionados con la actuación de las personas implicadas.
-### 4.4 Mecanismos de retroalimentación y mecanismos de control, incluida la gestión de riesgos y la garantía de seguridad, y procedimientos de seguimiento
-4.4.1 Condiciones pertinentes del marco regulatorio
-Las condiciones pertinentes del marco regulatorio están establecidas en los Reglamentos de la Unión Europea, en la Ley n.º 266/1994 Sb. y en los decretos de aplicación.
-4.4.2 Procedimientos, métodos, contenido y resultados de las actividades de evaluación de riesgos y seguimiento realizadas por cualquiera de los organismos implicados
-En los procedimientos, métodos, contenido y resultados de las actividades de evaluación de riesgos y seguimiento relacionados con las circunstancias de la aparición del MU en cuestión, no se detectaron deficiencias.
-### 4.4.3 Sistema de garantía de seguridad de los transportistas y gestores de la infraestructura implicados
-En el sistema de seguridad del gestor de la infraestructura y en el sistema de garantía de seguridad del transporte ferroviario del transportista, relacionados con las circunstancias de la aparición del MU en cuestión, no se detectaron deficiencias.
-### 4.4.4 Sistema de gestión de los organismos responsables del mantenimiento de los vehículos ferroviarios y de los talleres de mantenimiento
-El sistema de gestión de los organismos responsables del mantenimiento de los VF y de los talleres de mantenimiento no guardaba relación con la aparición del MU.
-### 4.4.5 Resultados de la supervisión realizada por las autoridades de seguridad nacionales
-En el periodo desde la aparición del MU similar anterior en el ŽP P7519, es decir, desde el 20 de septiembre de 2017 hasta la aparición del MU, el DÚ no realizó en el ŽP en cuestión el ejercicio de la supervisión estatal en materia de ferrocarriles, cuando, según la comunicación del DÚ, su no realización estuvo influida por la obra de construcción aún no finalizada de la Reconstrucción de la estación de Olomouc.
-Atendiendo a los factores detectados y a las circunstancias de la aparición del MU, la supervisión del organismo de seguridad no guarda relación con el MU en cuestión.
-### 4.4.6 Aprobaciones, certificados y dictámenes de evaluación emitidos por la Agencia, las autoridades de seguridad nacionales u otros organismos de evaluación de la conformidad
-El gestor de la infraestructura explotó la vía férrea sobre la base de la autorización administrativa vigente y del certificado de seguridad del gestor de la infraestructura. El transportista explotó el transporte ferroviario sobre la base de la licencia vigente y del certificado del transportista.
+### 4.4 Mecanismos de retroalimentación y mecanismos de control, incluida la gestión de riesgos 
+y la garantía de seguridad, y procedimientos de seguimiento
+### 4.4.1 Condiciones pertinentes del marco regulatorio
+Las condiciones pertinentes del marco regulatorio están establecidas en los Reglamentos de la Unión Europea, 
+en la ley nº 266/1994 Sb. y en los decretos de aplicación.
+4.4.2 Procedimientos, métodos, contenido y resultados de las actividades de evaluación de riesgos y seguimiento que 
+realiza cualquiera de los sujetos implicados
+En los procedimientos, métodos, contenido y resultados de las actividades de evaluación de riesgos y seguimiento 
+relacionados con las circunstancias de la aparición de la MU en cuestión, no se detectaron deficiencias.
+### 4.4.3 Sistema de garantía de seguridad de los transportistas y gestores de infraestructura implicados
+En el sistema de seguridad del gestor de infraestructura y en el sistema de garantía de seguridad del transporte 
+ferroviario del transportista, relacionados con las circunstancias de la aparición de la MU en cuestión, no se detectaron 
+deficiencias.
+### 4.4.4 Sistema de gestión de los sujetos responsables del mantenimiento de los vehículos ferroviarios 
+y de los talleres de mantenimiento
+El sistema de gestión de los sujetos responsables del mantenimiento de DV y de los talleres de mantenimiento no guardaba relación 
+con la aparición de la MU.
+### 4.4.5 Resultados de la supervisión realizada por las autoridades nacionales de seguridad
+En el periodo desde la aparición de la MU similar anterior en el P7519, es decir, en el periodo desde el 20. 9. 2017 hasta 
+la aparición de la MU, no se realizó por parte de la DÚ en el P7519 en cuestión el ejercicio de la supervisión estatal en materia de 
+infraestructura, cuya no realización, según la comunicación de la DÚ, estuvo influenciada por la obra aún no terminada de 
+Reconstrucción de la estación de Olomouc.
+Atendiendo a los factores detectados y a las circunstancias de la aparición de la MU, la supervisión de la autoridad de seguridad 
+no guarda relación con la MU en cuestión.
+### 4.4.6 Aprobaciones, certificados y dictámenes de evaluación emitidos por la agencia, las autoridades nacionales 
+de seguridad u otros sujetos de evaluación de la conformidad
+El gestor de infraestructura explotaba la infraestructura en virtud de una autorización administrativa vigente y de un 
+certificado de seguridad del gestor de infraestructura. El transportista explotaba el transporte ferroviario en virtud de 
+una licencia vigente y de un certificado del transportista.
 ### 4.4.7 Otros factores sistémicos
 En la investigación no se detectaron otros factores sistémicos.
 
 ## Página 43
+
 
 ### 4.5 Eventos anteriores de naturaleza similar
 DI registra en las líneas nacionales y regionales, durante el período desde el 1. 1. 2008 hasta la fecha de producción
@@ -1277,8 +1304,8 @@ Factor sistémico: ninguno.
 ### 5.2 Medidas adoptadas para prevenir los sucesos extraordinarios
 El gestor de la infraestructura SŽ adoptó tras la producción del SU las siguientes medidas:
 
-
 ## Página 44
+
 
 •
 informó de forma verificable a todos los empleados de SŽ, de la Administración de
@@ -1334,8 +1361,8 @@ prolongación de los tramos de aproximación de la instalación de seguridad del
 nivel en cuestión, evitando que se prolongue hasta los andenes de la estación
 Olomouc hlavní nádraží. En caso contrario, la adición de la instalación de seguridad del paso
 
-
 ## Página 45
+
 
 nivel con barrera podría resultar contraproducente debido a una prolongación
 significativa del tiempo de cierre del paso a nivel.
@@ -1370,17 +1397,16 @@ Inspector
 Inspección Territorial de Ostrava
 Inspección Territorial de Ostrava
 
-
 ## Página 46
 
 ## ANEXOS
-Fig. n.º 4: Vista del tractor NA y del MV del tren Os 3542 afectados por el incendio tras el SU.
+Fig. n.º 4: Vista del tractor NA y DV del tren Os 3542 afectado por el incendio después de la maniobra de unidad múltiple.    
 Fuente: DI
-Fig. n.º 5: Remolque NA y la carga volcada del mismo en su posición final tras el SU.
+Fig. n.º 5: Remolque NA y la carga volcada del mismo en su posición final después de la maniobra de unidad múltiple.    
 Fuente: DI
-
 
 ## Página 47
+
 
 Fig. n.º 6: Interior del RV destruido por el incendio – vista hacia el compartimento de pasajeros.
 Fuente: DI
@@ -1388,8 +1414,8 @@ Fig. n.º 7: Interior del RV destruido por el incendio – vista hacia la cabina
 del maquinista.
 Fuente: DI
 
-
 ## Página 48
+
 
 Fig. n.º 8: Paso entre el RV y el RV de tracción, a través del cual, tras la producción del SU,
 se realizó la evacuación de pasajeros del RV.

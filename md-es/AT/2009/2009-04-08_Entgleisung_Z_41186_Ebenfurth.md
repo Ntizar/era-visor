@@ -10,13 +10,14 @@ chars: 71308
 ratio_longitud: 1.07
 tokens_in: 26221
 tokens_out: 20018
-verificacion: revisar
 fecha_proceso: 2026-11-18
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-avisos: ["página 29: ratio 1.72"]
+verificacion: ok
 notas_cifras: ["página 11: cifras cortas: 2/21", "página 40: original bilingüe: se compara contra el idioma principal (DE)"]
 ---
+
 ## Página 1
+
 
 DESCARRILAMIENTO DEL  
 TREN 41186 
@@ -46,6 +47,7 @@ Página web:
 http://versa.bmvit.gv.at
 
 ## Página 2
+
 
 ### Índice
 Página
@@ -138,6 +140,7 @@ incidente, con el fin de elaborar recomendaciones de seguridad que puedan contri
 
 ## Página 3
 
+
 ### Índice de figuras
 Figura 1     Esquema de las líneas ferroviarias de Austria ...................................................................................... 7 
 Figura 2     Extracto del escrito GZ. BMVIT-220.043/0010-II/SCH2/2005............................................ 8 
@@ -197,6 +200,7 @@ Figura 54   ORE B55/RP8 - Figura 7 Relación entre torsión de vía, radio de cu
 
 ## Página 4
 
+
 ### Índice de ilustraciones (continuación)
 Ilustración 55   Tabla de torsión según ÖBB DB IS 2 en medición mecanizada...................................... 42 
 Ilustración 56   Tabla de nivelación mutua según ÖBB DB IS 2 ............................................................ 42 
@@ -217,8 +221,8 @@ Ilustración 61   Freno de mano operable desde el suelo - Fuente ÖBB...........
 | Ficha UIC 430 -1 | trazado de curvas S Prescripciones técnicas para vagones de mercancías que circulan entre ferrocarriles de ancho estándar y , |
 | ORE B55/RP8 ÖBB DVV2 ÖBB- DV V3 ÖBB- ZSB ÖBB- DBI S21 - | ferrocarriles de ancho ibérico y portugués Seguridad contra descarrilamiento de vagones de mercancías en torsiones de vía Prescripción de señales Prescripción de explotación Disposiciones complementarias a la prescripción de señales y a la prescripción de explotación Plan de mantenimiento Instalaciones de superestructura |
 
-
 ## Página 5
+
 
 ### Índice de abreviaturas
 ARTIS 
@@ -312,10 +316,10 @@ Sobreelevación
 lim 
 Límite (valor límite) 
 zul 
-permitido 
-
+permitido
 
 ## Página 6
+
 
 ### 1. Resumen 
 El 8 de abril de 2009, a las 15:10 horas, se produjo un descarrilamiento del sexto coche en la composición del tren durante la aproximación del tren Z 41186 a la señal ES „C“ indicadora de „ALTO“ de la estación Bf Ebenfurth. 
@@ -339,10 +343,10 @@ Momento
 Miércoles, 8 de abril de 2009, a las 15:10 horas 
 2.3. 
 Meteorología, visibilidad 
-soleado, + 23 °C, sin limitaciones de visibilidad 
-
+soleado, + 23 °C, sin limitaciones de visibilidad
 
 ## Página 7
+
 
 ### 3. Composición de la circulación implicada 
 KGAG 41186 (tren completo KLV de la RU ÖBB–Rail Cargo Austria AG) 
@@ -367,19 +371,20 @@ Ilustración 2     Extracto del escrito GZ. BMVIT-220.043/0010-II/SCH2/2005
 
 ## Página 8
 
+
 Además, la línea 17101 figura en la página web del BMVIT http://www.bmvit.gv.at/verkehr/eisenbahn/interoperabilitaet/arbeitsgruppe/20040623/beilage2.pdf como línea de alta velocidad.
 Figura 3     Red TEN en Austria - Corredor Suroriental de Baja Austria y leyenda
 La tensión nominal de la catenaria de la línea 17101 y su continuación en la red del IM ROeEE es de 25 kV con una frecuencia de 50 Hz. En todas las demás líneas, la tensión nominal de la catenaria es de 15 kV con una frecuencia de 16,7 Hz.
 La gestión operativa se realiza conforme a las disposiciones y directrices de los reglamentos ROeEE DV V2, DV V3 y ZSB, así como otros normativos de ROeEE y ÖBB.
 
-
 ## Página 9
 
-## Z 41186 
-Figura 4     Esquema de la red ferroviaria en el ámbito de la estación de Ebenfurth 
 
+## Z 41186 
+Figura 4     Esquema de la red ferroviaria en el ámbito de la estación de Ebenfurth
 
 ## Página 10
+
 
 4.1. 
 Extracto del VzG Línea 17101 
@@ -387,10 +392,10 @@ Figura 5     Extracto del VzG de ÖBB Línea 17101
 La velocidad máxima permitida localmente en el tramo afectado es, según el VzG de ÖBB, de 60 km/h. 
 4.2. 
 Extracto del horario oficial (Buchfahrplan) de ROeEE Cuadernos 1 y 2 
-Figura 6     Extracto del horario oficial de ROeEE Cuadernos 1 y 2 
-
+Figura 6     Extracto del horario oficial de ROeEE Cuadernos 1 y 2
 
 ## Página 11
+
 
 Figura 7     Extracto del horario oficial de ROeEE Cuadernos 1 y 2 - Modelo 6070 
 La velocidad permitida según el extracto del horario oficial de ROeEE Cuadernos 1 y 2, Modelo 6070, es de 60 km/h. 
@@ -403,10 +408,10 @@ Durante la marcha del tren Z 41186 se señaló:
 La velocidad señalizada fue respetada por el tren Z 41186. 
 ### 5. Descripción del incidente 
 El tren Z 41186 se encontraba en trayecto entre la estación de Neufeld an der Leitha y la estación de Ebenfurth y detuvo antes de la ES «C» (km 116,206) de la estación de Ebenfurth que mostraba «PARADA» (el vehículo motorizado estaba parado 21 m antes de la ES «C»). 
-Poco antes (km 115,735), descarriló el sexto vagón de la composición (unidad de dos bogies de dos ejes cada uno, tipo 43 71 437 8 460-5, cargada con dos contenedores intercambiables con piezas de material para la fabricación de automóviles) con el eje delantero (4) hacia la derecha en sentido de marcha (en este tramo se encuentra previamente una curva a izquierda con un radio r = 265 m y un peralte máximo ü = 99 mm). 
-
+Poco antes (km 115,735), descarriló el sexto vagón de la composición (unidad de dos bogies de dos ejes cada uno, tipo 43 71 437 8 460-5, cargada con dos contenedores intercambiables con piezas de material para la fabricación de automóviles) con el eje delantero (4) hacia la derecha en sentido de marcha (en este tramo se encuentra previamente una curva a izquierda con un radio r = 265 m y un peralte máximo ü = 99 mm).
 
 ## Página 12
+
 
 ### Lugar del descarrilamiento 
 km 115,735 
@@ -416,10 +421,10 @@ km 115,735
 Figura 8     Lugar del descarrilamiento tras la limpieza 
 Las primeras huellas del descarrilamiento eran visibles en el carril exterior de la vía en el km 115.735. El vagón descarrilado recorrió los pavimentos de los pasos a nivel en los km 115,743 y km 115,874 y quedó detenido en el km 116.000.  
 ### Sentido de marcha del tren Z 41186 
-Figura 9     Vagón descarrilado en el km 116,000 
-
+Figura 9     Vagón descarrilado en el km 116,000
 
 ## Página 13
+
 
 Inmediatamente después del descarrilamiento hasta la parada del tren, el vagón descarrilado fue arrastrado horizontalmente superando los topes; la HLL no se separó durante este proceso. 
 ### Sentido de marcha del tren Z 41186 
@@ -432,10 +437,10 @@ Sin daños personales.
 6.2. 
 Daños materiales 
 El vagón descarrilado causó daños en la infraestructura de vía, en el puente sobre el río Fischa, así como en instalaciones de seguridad de los pasos a nivel del km 115.743 y del km 115.874, por un importe aproximado de 55 000 €.  
-En vehículos se produjeron daños por un importe aproximado de 5 000 €.  
-
+En vehículos se produjeron daños por un importe aproximado de 5 000 €.
 
 ## Página 14
+
 
 6.3. 
 Interrupciones del servicio 
@@ -456,10 +461,10 @@ Evaluación de la documentación recibida:
 *   Documentación relativa a la investigación de un vagón de mercancías idéntico, implicado en el descarrilamiento del 6 de septiembre de 2008 en Rosenbach, recibida el 13 de julio de 2009 
 *   Dictamen de ÖBB Infrastruktur AG sobre la infraestructura de vía, recibido el 8 de octubre de 2009 
 *   Dictamen de ÖBB Infrastruktur AG respecto a la solicitud de documentación sobre inspecciones realizadas antes del 24 de marzo de 2009, recibido el 27 de octubre de 2009. 
-Las posibles consultas adicionales fueron respondidas hasta el 12 de octubre de 2010. 
-
+Las posibles consultas adicionales fueron respondidas hasta el 12 de octubre de 2010.
 
 ## Página 15
+
 
 ### 9. Declaraciones / Pruebas / Resultados de la evaluación 
 9.1. 
@@ -473,10 +478,10 @@ Figura 11   Control del freno E - Fuente ÖBB
 En los modos de frenado 'P' y 'G', la fuerza de frenado del freno E se limita a un máximo de 80 kN en frenados rápidos, de emergencia y forzados. Sin embargo, no se reduce un efecto de frenado E superior ya existente en ese momento. 
 9.3. 
 Evaluación del registrador de datos del vehículo motorizado 
-La evaluación del registrador de datos del vehículo motorizado del tren Z 41186 (93 81 1116 059-5) fue realizada por ÖBB Traktion GmbH y la evaluación fue puesta a disposición de la UUB.  
-
+La evaluación del registrador de datos del vehículo motorizado del tren Z 41186 (93 81 1116 059-5) fue realizada por ÖBB Traktion GmbH y la evaluación fue puesta a disposición de la UUB.
 
 ## Página 16
+
 
 VM en el EVS «c» 
 vista [km/h] 
@@ -488,6 +493,7 @@ Nivel -2
 Figura 13   Evaluación del registrador de datos 2 del VM - Fuente ÖBB
 
 ## Página 17
+
 
 Los niveles de fuerza de tracción/frenado se definen de la siguiente manera:
 Figura 14   Tabla de niveles de fuerza de tracción/frenado - Fuente ÖBB 
@@ -510,9 +516,10 @@ si v permanece más de 3 minutos en el rango 30 - 72 km/h: lubricación fuerteme
 9.5. 
 Composición del tren 
 La investigación realizada por ÖBB Infrastruktur Betrieb AG, Supervisión Técnica, reveló que el estado de acoplamiento en la composición del tren no cumplía las disposiciones de la DV V3, § 16, apdo. 4 (estado de acoplamiento suelto). Esto, sin embargo, no fue causal del accidente. 
-El Tfz del Z 41186 se encontraba, según la DV V 3, § 27, apdo. 2 (tabla), en posición de frenado „G“, y todos los vagones se encontraban en posición de frenado „P“. 
+El Tfz del Z 41186 se encontraba, según la DV V 3, § 27, apdo. 2 (tabla), en posición de frenado „G“, y todos los vagones se encontraban en posición de frenado „P“.
 
 ## Página 18
+
 
 9.6. 
 Investigación del vagón descarrilado  
@@ -551,9 +558,10 @@ Medición dinámica de la distribución de cargas el 13 de abril de 2009
 Pesaje el 14 de abril de 2009 
 * 
 Control de carga del vagón descarrilado y del situado delante el 15 de abril de 2009 
-en la estación Bf Wien Zvbf.  
+en la estación Bf Wien Zvbf.
 
 ## Página 19
+
 
 Una zapata de freno del vagón descarrilado probablemente se rompió como consecuencia del descarrilamiento y fue encontrada en la zona del descarrilamiento aprox. km 115,850. 
 Figura 16   Zapata de freno rota encontrada 
@@ -574,9 +582,10 @@ trasera
 11,05 
 Figura 17   Tabla de pesaje del vagón descarrilado 
 La masa tara coincide exactamente con la masa propia indicada. 
-Una medición dinámica de la distribución de cargas tuvo lugar el 13 de abril de 2009 mediante el paso por el checkpoint de recorrido de tren Himberg. En la figura siguiente, los cuatro grupos de barras de la derecha representan la distribución de carga por rueda del vagón descarrilado, estando el eje descarrilado en el extremo derecho (Fuente ÖBB Infrastruktur Bau AG). 
+Una medición dinámica de la distribución de cargas tuvo lugar el 13 de abril de 2009 mediante el paso por el checkpoint de recorrido de tren Himberg. En la figura siguiente, los cuatro grupos de barras de la derecha representan la distribución de carga por rueda del vagón descarrilado, estando el eje descarrilado en el extremo derecho (Fuente ÖBB Infrastruktur Bau AG).
 
 ## Página 20
+
 
 Figura 18   Medición dinámica de la distribución de cargas 
 Referido a la marcha en el punto de descarrilamiento, la distribución de cargas se presenta de la siguiente manera (numeración de los ejes según sentido de marcha): 
@@ -597,22 +606,25 @@ derecha
 - 
 Figura 19   Tabla de distribución de cargas del vagón descarrilado 
 El límite del ratio de carga por rueda admisible (izquierda/derecha) de 1 : 1,25 según RIV - Tarifa de carga, Volumen 1 - Principios, punto 3.3 – Distribución de cargas fue respetado en todos los ejes. 
-Los valores medidos no muestran desviaciones inadmisibles de los vagones según las Directrices de carga RIV Volumen 1, punto 3.3. „Distribución de cargas“, siempre que no hayan ocurrido otros desplazamientos „correctivos“ de los bastidores de carga durante el traslado de los vagones desde el punto de descarrilamiento hasta el checkpoint de recorrido de tren Himberg. 
+Los valores medidos no muestran desviaciones inadmisibles de los vagones según las Directrices de carga RIV Volumen 1, punto 3.3. „Distribución de cargas“, siempre que no hayan ocurrido otros desplazamientos „correctivos“ de los bastidores de carga durante el traslado de los vagones desde el punto de descarrilamiento hasta el checkpoint de recorrido de tren Himberg.
 
 ## Página 21
 
+
 Control de carga el 15 de abril de 2009 en la estación Bf Wien Zvbf. 
 Disposiciones de la RIV- Tarifa de carga, Volumen 2 „Mercancías“, Información de carga 0,5 „Unidades de carga del transporte combinado de mercancías (TCM)“: 
-Figura 20   Extracto de la RIV- Tarifa de carga – Fuente ÖBB 
+Figura 20   Extracto de la RIV- Tarifa de carga – Fuente ÖBB
 
 ## Página 22
+
 
 Durante una inspección ocular en Wien Zvbf el 15 de abril de 2009 se examinó la carga en los módulos intercambiables (contenedores).  
 Figura 21   Control de carga 1 en el módulo intercambiable  
 En el módulo intercambiable sobre el eje descarrilado había varios bloques de cuatro bastidores de carga cada uno situados. En dirección longitudinal, la longitud de carga no estaba completamente aprovechada. En dirección transversal, los bloques estaban posicionados aproximadamente en el centro.  
-Figura 22   Control de carga 2 en el módulo intercambiable  
+Figura 22   Control de carga 2 en el módulo intercambiable
 
 ## Página 23
+
 
 ### Sujeción de los 
 ### bastidores de carga 
@@ -624,9 +636,10 @@ En cada bloque, los dos bastidores de carga inferiores estaban fijados hacia aba
 Los cuatro bastidores de carga dentro de un bloque estaban conectados entre sí mediante sujeciones. En el bloque que se encontraba en inmediata proximidad al eje descarrilado, estas sujeciones se rompieron debido a las fuerzas verticales surgidas como consecuencia del descarrilamiento. 
 sujeción 
 rota  
-Figura 24   Control de carga 4 en el módulo intercambiable  
+Figura 24   Control de carga 4 en el módulo intercambiable
 
 ## Página 24
+
 
 Además, en el bloque que se encontraba en inmediata proximidad al eje descarrilado, la tercera y cuarta capa de los bastidores de carga habían saltado fuera de las conexiones de espiga de la tercera capa desde el bastidor de carga subyacente de la segunda capa. Estos bastidores de carga estaban desplazados unos 5 cm. Este salto y el desplazamiento se produjeron, con toda probabilidad, únicamente debido a las aceleraciones verticales surgidas como consecuencia del descarrilamiento. 
 ### 4.ª capa  
@@ -641,6 +654,7 @@ z
 Figura 26   Control de carga 6 en el módulo intercambiable
 
 ## Página 25
+
 
 Mediante una fijación o un apuntalamiento en dirección lateral, se habrían excluido los movimientos de las estructuras de carga en dirección lateral.
 La sujeción de la carga en el vagón descarrilado 43 71 437 8 460-5 no cumplía las disposiciones del Arancel de carga RIV, Volumen 2 «Mercancías», Información de carga 0,5 «Unidades de carga del transporte combinado de mercancías (TCM)».
@@ -657,8 +671,8 @@ Sobre la base del ensayo se determinó experimentalmente una rigidez a torsión 
 ct* = 2,083 E+10 kN mm² / rad
 (El informe de ensayo del 29 de abril de 2009 está disponible).
 
-
 ## Página 26
+
 
 Por parte del propietario del vehículo se confirmó que en el primer vagón de los prototipos de esta serie de vagones plataforma se realizaron en 1996 los ensayos requeridos conforme a las disposiciones de la Ficha UIC 530-2.
 STI WAG
@@ -673,8 +687,8 @@ Conforme a la STI WAG, los vagones de mercancías están exentos de las pruebas 
 Conforme a la Ficha UIC 530-2, punto 2.1 – Condiciones básicas para vagones de mercancías independientemente del tipo de su acoplamiento, punto 2.1.3, para evaluar la seguridad contra el descarrilamiento al circular sobre ondulaciones de vía en vagones de mercancías nuevos, el punto que caracteriza las características constructivas del vagón en los diagramas de los Anexos A, B y C debe situarse por encima de la línea A-A (curva límite para la circulación sobre ondulaciones de vía) en la zona admisible. Si la línea A-A no está trazada en el diagrama(s), no existe limitación alguna de la rigidez a torsión ct*.
 Para los vagones de mercancías que no coinciden con las características constructivas de los Anexos A, B y C, la seguridad contra el descarrilamiento al circular sobre ondulaciones de vía debe evaluarse según el procedimiento de cálculo y ensayo expuesto en el informe B55/RP8.
 
-
 ## Página 27
+
 
 Ficha 
 UIC 
@@ -689,22 +703,21 @@ Investigación de la infraestructura de vía
 km 115,735
 Figura 29   Situación de la vía en el área del lugar del descarrilamiento
 
-
 ## Página 28
+
 
 Informe sobre el estado de la superestructura:
 Informe sobre los resultados de la investigación técnica de la superestructura del 9 de abril de 2009 (Extracto):
 Figura 30   Informe sobre el estado de la superestructura - Página 1
 Figura 31   Informe sobre el estado de la superestructura - Página 2
 
-
 ## Página 29
 
-Figura 32   Informe sobre el estado de la superestructura - Página 5
-Figura 33   Informe sobre el estado de la superestructura - Página 6
-
+Figura 32   Hallazgo en la superestructura - Página 5 
+Figura 33   Hallazgo en la superestructura - Página 6
 
 ## Página 30
+
 
 El lugar del descarrilamiento se encuentra tras una curva (radio 265 m y una peralte máximo de 99 mm) en la curva de transición en la rampa de reducción del peralte. Al mismo tiempo, el área del descarrilamiento se encuentra en una pendiente descendente del 2,5 ‰.
 En el área del descarrilamiento está instalada la forma de carril 54E2 sobre traviesas monobloque de hormigón. El año de instalación se indicó como 2001. Según el informe sobre el estado de la superestructura tras el descarrilamiento, hubo socavones y socavones cruzados.
@@ -712,27 +725,28 @@ Declaración de ÖBB Infrastruktur Betrieb AG sobre la superestructura (Extracto
 Figura 34   Declaración sobre la situación de la vía ÖBB - Infrastruktur Betrieb AG – 1ª Parte
 Figura 35   Declaración sobre la situación de la vía ÖBB - Infrastruktur Betrieb AG – 2ª Parte
 
-
 ## Página 31
+
 
 Figura 36   Declaración sobre la situación de la vía ÖBB - Infrastruktur Betrieb AG – 3ª Parte
 Figura 37   Declaración sobre la situación de la vía ÖBB - Infrastruktur Betrieb AG – 4ª Parte
 Figura 38   Declaración sobre la situación de la vía ÖBB - Infrastruktur Betrieb AG – 5ª Parte
 
-
 ## Página 32
+
 
 Figura 39   Declaración sobre la situación de la vía ÖBB - Infrastruktur Betrieb AG – Anexo 1
 Figura 40   Declaración sobre la situación de la vía ÖBB - Infrastruktur Betrieb AG – Anexo 3
 Las indicaciones de km de «Inicio» y «Fin» no coinciden con la ubicación real (Véase Figura 47).
 
-
 ## Página 33
+
 
 Figura 41   Declaración sobre la situación de la vía ÖBB - Infrastruktur Betrieb AG – Anexo 2
 Figura 42   Declaración sobre la situación de la vía ÖBB - Infrastruktur Betrieb AG – Anexo 4
 
 ## Página 34
+
 
 Figura 43   Posición sobre la geometría de la vía ÖBB - Infrastruktur Betrieb AG – Anexo 5 
 DB IS 2, IHP Parte 1, Punto 1.1 – Definición de los plazos (Extracto): 
@@ -743,8 +757,8 @@ El empleado encargado de la inspección se denomina BM o GLM en el plan de mante
 Todos los registros que conciernan a la inspección y a las medidas derivadas de ella deben archivarse en bases de datos o directorios. 
 Esta documentación debe conservarse durante un mínimo de 3 años, debiendo mantenerse disponibles como mínimo las 2 últimas evaluaciones.
 
-
 ## Página 35
+
 
 Posición del 27 de octubre de 2009 respecto a la solicitud de documentos sobre inspecciones que deberían haberse realizado antes del 24 de marzo de 2009 conforme a DB IS 2, IHP Parte 1: 
 Figura 44   Posición respecto a la solicitud de documentos sobre inspecciones anteriores al 24 de marzo de 2009  
@@ -782,10 +796,10 @@ Figura 45   Análisis de datos de medición de vía medición manual del 9 de ab
 Según el catálogo de curvas, esta curva tiene una sobrelevación nominal de ü = 62 mm. 
 Debido a la categoría de la línea, la ES ± es de 15 mm respecto al valor nominal de la sobrelevación.  
 El límite de la sobrelevación (ES = u + 15 mm = 77 mm) fue superado en 22 mm. 
-Debido a la dirección de la curva, la sobrelevación de la vía exterior de la curva se representa como un valor negativo. 
-
+Debido a la dirección de la curva, la sobrelevación de la vía exterior de la curva se representa como un valor negativo.
 
 ## Página 36
+
 
 10
 0
@@ -844,10 +858,10 @@ ES + Sobrelevación
 Figura 47   Comparación de datos de medición de vía 24 de marzo y 9 de abril de 2009 – Sobrelevación y flecha 
 La figura anterior muestra que las indicaciones de km de la medición del 
 ### 24 de marzo de 2009 no coinciden con las indicaciones de km reales. La desvia-
-### ción de la indicación de km de la medición del 24 de marzo de 2009 es de aprox. 25 m. 
-
+### ción de la indicación de km de la medición del 24 de marzo de 2009 es de aprox. 25 m.
 
 ## Página 37
+
 
 15
 10
@@ -881,10 +895,10 @@ Se respetaron todos los límites (AS = 14 mm, ES = 17 mm y SES = 21 mm) de los d
 116.000,00
 Altitud transversal
 Figura 49   Análisis de datos de medición de vía del 24 de marzo de 2009 - Altitudes transversales 
-Se respetaron todos los límites (AS = 8 mm, ES = 11 mm y SES = 13 mm) de los defectos individuales de altitud transversal (valor medio – pico) para líneas con 80 km/h < vmax ≤ 120 km/h. 
-
+Se respetaron todos los límites (AS = 8 mm, ES = 11 mm y SES = 13 mm) de los defectos individuales de altitud transversal (valor medio – pico) para líneas con 80 km/h < vmax ≤ 120 km/h.
 
 ## Página 38
+
 
 10
 8
@@ -939,10 +953,10 @@ Torsión de 9 m (línea cero hasta valor pico)
 + SES
 - SES
 Figura 51   Análisis de datos de medición de vía del 24 de marzo de 2009 – Torsión de 9 m 
-### No se respetaron todos los límites (AS = 3,2 mm, ES = 3,5 mm y SES = 4 mm) de la torsión de 9 m desde la línea cero hasta el valor pico para líneas con vmax ≤ 160 km/h. 
-
+### No se respetaron todos los límites (AS = 3,2 mm, ES = 3,5 mm y SES = 4 mm) de la torsión de 9 m desde la línea cero hasta el valor pico para líneas con vmax ≤ 160 km/h.
 
 ## Página 39
+
 
 10
 8
@@ -983,6 +997,7 @@ Los técnicos del servicio de mantenimiento describieron como problemática la c
 
 ## Página 40
 
+
 9.8. 
 ORE B55/RP8 
 En ORE B55/RP8 - Figur 7 (Figura 33, página siguiente) se representa la torsión de vía admisible para el vehículo (gn°) en función del sobreperalte máximo admisible (un): 
@@ -1015,10 +1030,10 @@ Figura 54   ORE B55/RP8 - Figur 7 Relación entre torsión de vía, radio de cur
 ### X   Valor nominal en la zona de descarrilamiento: r = 265 m, u = 62 mm 
 ### X   Situación real en la zona de descarrilamiento: r = 265 m, u = 99 mm  
       (medido sin carga) 
-Como medidas de seguridad para la Zona 3, en ORE B55/RP8 se mencionan la instalación de guías protectoras o dispositivos de lubricación de carriles. 
-
+Como medidas de seguridad para la Zona 3, en ORE B55/RP8 se mencionan la instalación de guías protectoras o dispositivos de lubricación de carriles.
 
 ## Página 41
+
 
 9.9. 
 ÖBB DB IS 2 
@@ -1051,10 +1066,10 @@ La desviación admisible respecto a la posición relativa de altura de los carri
 |  | en rango de línea S y 1 en rango de vía a | ±15 |  |
 |  | en todos los demás rangos de línea y vías | ±20 |  |
 Figura 56   Tabla de posición relativa de altura según ÖBB DB IS 2  
-Para la desviación admisible respecto a la posición relativa de altura de los carriles existe un valor para la ES, pero no para un SES.  
-
+Para la desviación admisible respecto a la posición relativa de altura de los carriles existe un valor para la ES, pero no para un SES.
 
 ## Página 42
+
 
 ### 10. Resumen de hallazgos 
 10.1. Velocidad de marcha 
@@ -1070,10 +1085,10 @@ Debido a su estado de conservación, el vehículo descarrilado puede descartarse
 El aseguramiento de la carga en el vagón descarrilado 43 71 437 8 460-5 no cumplía las disposiciones del Arancel de carga RIV, Volumen 2 «Mercancías», Información de carga 0,5 «Unidades de carga del transporte combinado (KLV)».  
 Con probabilidad cercana a la certeza, puede descartarse una causalidad del accidente derivada del defecto anteriormente mencionado. 
 10.6. Formación del tren 
-El estado de acoplamiento en la composición del tren no cumplía las disposiciones de la DV V3, § 16, apdo. 4 (estado de acoplamiento flojo). Sin embargo, esto no se consideró desencadenante del descarrilamiento. 
-
+El estado de acoplamiento en la composición del tren no cumplía las disposiciones de la DV V3, § 16, apdo. 4 (estado de acoplamiento flojo). Sin embargo, esto no se consideró desencadenante del descarrilamiento.
 
 ## Página 43
+
 
 10.7. Infraestructura 
 El historial de mantenimiento se presenta de la siguiente manera: 
@@ -1096,6 +1111,7 @@ La ES de la desviación admisible respecto a la posición relativa de altura de 
 Según ORE B55/RP8, parece que la causa probable de tales descarrilamientos es la aparición simultánea de cambios en la fuerza rueda-producidos por grandes sobreperaltes y torsiones de vía en curvas de radio reducido, cuando se transitan a baja velocidad.
 
 ## Página 44
+
 
 La probabilidad de un descarrilamiento por torsión aumenta si:
 * 
@@ -1123,10 +1139,10 @@ A partir de ello se puede calcular la ecuación para (Y/Q) (según Nadal):
 
 Figura 58   Ecuación de Nadal según EN 14363 
 
-El valor límite (Y/Q) depende del ángulo del flange γ y del coeficiente de fricción ### en el flange µ. Los valores para rangos habituales del ángulo del flange y los coeficientes de fricción se muestran en EN 14363, Figura A.2 (figura siguiente): 
-
+El valor límite (Y/Q) depende del ángulo del flange γ y del coeficiente de fricción ### en el flange µ. Los valores para rangos habituales del ángulo del flange y los coeficientes de fricción se muestran en EN 14363, Figura A.2 (figura siguiente):
 
 ## Página 45
+
 
 Leyenda: 1 … Valor límite Y/Q,          2 … Ángulo del flange γ [°] 
 Figura 59   Relación Y/Q Coeficiente de fricción µ según EN 14363 – Figura A.2 
@@ -1143,19 +1159,19 @@ A bajas velocidades de marcha en curvas cerradas con gran peralte (exceso de per
 aq = v² / r – 9,81 x u / 1500  
 provoca el contacto del flange con el riel interior de la curva. De este modo, en el riel exterior de la curva no se transfiere lubricante desde el flange al borde de rodadura para los ejes posteriores de los vagones de mercancías. 
 
-Mediante la instalación selectiva de dispositivos fijos para la lubricación del borde de rodadura, tras haberse producido descarrilamientos por torsión (p. ej., Estación Spittal-Millstättersee, Estación Salzburg Gnigl, ), se pudo seguir evitando este tipo de accidentes. 
-
+Mediante la instalación selectiva de dispositivos fijos para la lubricación del borde de rodadura, tras haberse producido descarrilamientos por torsión (p. ej., Estación Spittal-Millstättersee, Estación Salzburg Gnigl, ), se pudo seguir evitando este tipo de accidentes.
 
 ## Página 46
+
 
 ### 11. Otras irregularidades no causales del accidente 
 11.1. Inscripción del peso de frenado 
 La inscripción del peso de frenado de los frenos manuales accionables desde el suelo no estaba rodeada de un marco rojo en el vagón descarrilado (y también en otros vagones) del tren Z 41186, contrariamente a lo establecido en AVV, Anexo 11, Punto 4.2; Imagen 3. 
 Figura 60   Falta de marco rojo en la inscripción del freno manual accionable desde el suelo 
-Figura 61   Freno manual accionable desde el suelo - Fuente ÖBB 
-
+Figura 61   Freno manual accionable desde el suelo - Fuente ÖBB
 
 ## Página 47
+
 
 ### 12. Causa 
 La causa del descarrilamiento fue, con una probabilidad cercana a la certeza, una superación de la torsión de vía admisible. Poco antes del descarrilamiento (aprox. 2 semanas), las superaciones del umbral de intervención inmediata de las torsiones de vía parecían haber sido subsanadas mediante apisonado manual de balasto. 
@@ -1174,10 +1190,10 @@ El estado de acoplamiento en la composición del tren (holgura) no pudo ser iden
 Véase anexo. 
 
 ### 14. Recomendaciones de seguridad 
-Conforme a la Directiva UE 49/2004, Artículo 25 - Apartado 2, las recomendaciones se dirigen a la autoridad de seguridad y, si la naturaleza de la recomendación lo requiere, a otras entidades o autoridades del Estado miembro o a otros Estados miembros. Los Estados miembros y sus autoridades de seguridad adoptan las medidas necesarias para garantizar que las recomendaciones de seguridad de los organismos de investigación sean adecuadamente consideradas y, en su caso, implementadas. 
-
+Conforme a la Directiva UE 49/2004, Artículo 25 - Apartado 2, las recomendaciones se dirigen a la autoridad de seguridad y, si la naturaleza de la recomendación lo requiere, a otras entidades o autoridades del Estado miembro o a otros Estados miembros. Los Estados miembros y sus autoridades de seguridad adoptan las medidas necesarias para garantizar que las recomendaciones de seguridad de los organismos de investigación sean adecuadamente consideradas y, en su caso, implementadas.
 
 ## Página 48
+
 
 Recomendaciones de seguridad (causales del accidente) | Destinatario | Número de expediente anual
 ---|---|---
@@ -1197,6 +1213,7 @@ Garantizar que el estado de acoplamiento en la composición del tren cumpla las 
 Justificación: Cumplimiento de la DV V3 de ÖBB y ROeEE. | |
 
 ## Página 49
+
 
 | número de año en curso | Recomendaciones de seguridad (no causales del accidente) | dirigidas a |
 |  | Fabricación del borde rojo de la dirección de la freno manual para su identificación como operable desde el suelo. | Propietario del vehículo |
@@ -1222,9 +1239,10 @@ Viena, el 15 de octubre de 2010
 El jefe de investigación: 
 Ing. Johannes Piringer [firma] 
 Anexo:  
-Observaciones recibidas dentro del plazo 
+Observaciones recibidas dentro del plazo
 
 ## Página 50
+
 
 ### Anexo observaciones recibidas dentro del plazo 
 Letra 
@@ -1235,9 +1253,10 @@ Observación de ÖBB Infrastruktur AG recibida el 4 de febrero de 2010:
 b) 
 c) 
 d) 
-e) 
+e)
 
 ## Página 51
+
 
 ### y su consideración 
 Las recomendaciones de seguridad figuran en el punto 14 del informe de investigación con un número de año en curso. 
@@ -1250,6 +1269,7 @@ Las recomendaciones de seguridad figuran en el punto 14 del informe de investiga
 
 ## Página 52
 
+
 Letra 
 Observación del BMVIT recibida el 26 de enero de 2010: 
 f) 
@@ -1258,9 +1278,10 @@ h)
 i) 
 j) 
 k) 
-l) 
+l)
 
 ## Página 53
+
 
 Las recomendaciones de seguridad figuran en el punto 14 del informe de investigación con un número de año en curso. 
 | Letra | Observación |
@@ -1274,6 +1295,7 @@ Las recomendaciones de seguridad figuran en el punto 14 del informe de investiga
 
 ## Página 54
 
+
 Letra 
 Observación: 
 m) 
@@ -1284,9 +1306,10 @@ q)
 r) 
 s) 
 t) 
-u) 
+u)
 
 ## Página 55
+
 
 Las recomendaciones de seguridad figuran en el punto 14 del informe de investigación con un número de año en curso. 
 | Letra | Observación |
@@ -1302,12 +1325,14 @@ Las recomendaciones de seguridad figuran en el punto 14 del informe de investiga
 
 ## Página 56
 
+
 Letra 
 Observación: 
 v) 
-w) 
+w)
 
 ## Página 57
+
 
 Las recomendaciones de seguridad figuran en el punto 14 del informe de investigación con un número de año en curso. 
 | Letra | Observación |

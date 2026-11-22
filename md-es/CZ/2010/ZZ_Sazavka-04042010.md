@@ -10,13 +10,14 @@ chars: 59712
 ratio_longitud: 1.20
 tokens_in: 42011
 tokens_out: 26152
-verificacion: revisar
-notas_cifras: ["bloque 2: original bilingüe: se compara contra el idioma principal (CS)", "bloque 3: original bilingüe: se compara contra el idioma principal (CS)", "bloque 4: original bilingüe: se compara contra el idioma principal (CS)", "bloque 5: original bilingüe: se compara contra el idioma principal (CS)", "bloque 7: original bilingüe: se compara contra el idioma principal (CS)", "bloque 8: original bilingüe: se compara contra el idioma principal (CS)"]
-avisos: ["bloque 5: ratio 1.80", "bloque 7: ratio 1.63", "bloque 8: ratio 1.86"]
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 5: original bilingüe: se compara contra el idioma principal (EN)", "página 6: original bilingüe: se compara contra el idioma principal (PT)", "página 7: original bilingüe: se compara contra el idioma principal (CS)", "página 9: original bilingüe: se compara contra el idioma principal (PT); ratio 2.02", "página 10: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 Inspección Ferroviaria
 República Checa
@@ -41,11 +42,12 @@ NIF:   75009561
 http://www.dicr.cz
 fax: (+420) 224 805 428
 
-
 ## Página 2
 
 
+
 ## Página 3
+
 
 # RESUMEN
 Grado:
@@ -94,13 +96,13 @@ empresas ferroviarias que operen coches con puertas automáticas
 que no señalicen su estado al maquinista.
 Por la traducción al inglés responde: Ing. Hana Pechačová
 
-
 ## Página 4
+
 
 Este informe final es público y todos los documentos y hechos están respaldados por el expediente de investigación.
 
-
 ## Página 5
+
 
 # Índice
  Resumen .............................................................................................................................3
@@ -143,6 +145,7 @@ relación contractual ..........................................................
 
 ## Página 6
 
+
 3.1.2 Otras personas .....................................................................................................15
 3.2 Sistema de garantía de la seguridad .......................................................................15
 3.2.1 Organización marco y forma en que se emiten y aplican las instrucciones .......15
@@ -172,10 +175,10 @@ cumplimiento ...................................................................
 4.1.1 Descripción definitiva del suceso excepcional basada en los hechos establecidos en el punto 3 
 ............................................................................................................................20
 4.2 Examen ......................................................................................................................21
-4.2.1 Evaluación de los hechos establecidos según el punto 3 y formulación de conclusiones sobre la causa 
-
+4.2.1 Evaluación de los hechos establecidos según el punto 3 y formulación de conclusiones sobre la causa
 
 ## Página 7
+
 
 del suceso excepcional y la actuación de los servicios de emergencia ..........................................21
 4.3 Conclusiones ...............................................................................................................23
@@ -194,19 +197,20 @@ del suceso excepcional y la actuación de los servicios de emergencia ..........
  Foto 3: Puertas del coche de la serie Bmto y sus elementos de mando ..................................................26
  Foto 4: Cierre manual de las puertas con manivela .....................................................................27
 
-
 ## Página 8
+
 
 
 ## Página 9
 
 ## Lista de siglas y símbolos utilizados
 |  | Lista de siglas y símbolos utilizados |
-| COP ČD a s SŽD, C. s. o D1, . . ČD | Centro Central de Notificación de la Inspección Ferroviaria České dráhy, a. s., Administración de la Vía de Tránsito Ferroviario organización estatal, Reglamento para la utilización de señales en la organización |
-| ČD D2 ČD KC1 | y explotación del transporte ferroviario Reglamento para la organización y explotación del transporte ferroviario Reglamento para las actividades en los trenes en relación con el transporte |
-| DI DKV DÚ DV HDV hl n . . IZS MU Os PČR OO RCVD VI žst . TK cestující 1 cestující 2 | de personas y el transporte de mercancías Inspección Ferroviaria depósito de material rodante Autoridad Ferroviaria material rodante locomotora estación principal sistema integrado de emergencias suceso excepcional tren de pasajeros Policía de la República Checa Distrito Seccional Centro Regional de Acompañamiento de Trenes inspector jefe estación ferroviaria vía principal pasajero afectado pasajero del tren Os 5910 acompañante pasajero 1 |
+| COP ČD a s SŽD, C. s. o D1, . . ČD | Centro Central de Notificación de la Inspección Ferroviaria České dráhy, a. s., Správa železniční dopravní cesty, organización estatal, Reglamento para el uso de señales en la organización |
+| ČD D2 ČD KC1 | y la explotación del transporte ferroviario Reglamento para la organización y la explotación del transporte ferroviario Reglamento para las actividades en los trenes en relación con el transporte |
+| DI DKV DÚ DV HDV hl n . . IZS MU Os PČR OO RCVD VI žst . TK cestující 1 cestující 2 | de pasajeros y el transporte de pasajeros Inspección Ferroviaria depósito de vehículos ferroviarios Autoridad Ferroviaria vehículo ferroviario vehículo de tracción ferrovia estación principal sistema integrado de emergencia acontecimiento extraordinario tren de pasajeros Policía de la República Checa Distrito Departamental Centro Regional de Acompañamiento de Trenes inspector jefe estación ferrovia vía férrea afectada pasajero del tren Os 5910 acompañante del pasajero 1 |
 
 ## Página 10
+
 
 ## 1 RESUMEN
 Grupo del suceso:
@@ -253,37 +257,38 @@ en otros transportistas que utilicen, en la explotación del transporte ferrovia
 vehículos ferroviarios con cierre automático de las puertas de acceso, donde el 
 maquinista no tiene control de su correcto cierre.
 
-
 ## Página 11
 
 ## 2 DATOS RELATIVOS AL SUCESO EXTRAORDINARIO
 ## 2.1
 ### Suceso extraordinario
 ### 2.1.1 Fecha, hora exacta y lugar del suceso extraordinario
-El suceso extraordinario se produjo el día 04. 04. 2010 a las 13:59 horas en la vía férrea, 
-estatal, de doble vía Brno hlavní nádraží – Kutná Hora hlavní nádraží, en la parada 
-Sázavka, con la salida del tren Os 5910 de la parada junto a la 2. TK, en el km 247,828.
-### 2.1.2 Descripción del suceso extraordinario y del lugar del accidente, incluida la 
-actividad del sistema integrado de emergencias y del servicio de rescate
-El día 04. 04. 2010 viajaban en el tren Os 5910 dos pasajeras, cada una con dos niños 
-pequeños. Su estación de destino era la parada Sázavka en la línea n.º 324 Brno hlavní 
-nádraží – Kutná Hora hlavní nádraží. Tras la detención del tren en la parada Sázavka, 
-junto al andén de la 2. TK, descendió del tren primero la pasajera 2 y sus dos niños, y 
-posteriormente la pasajera 1. Esta descendió al andén solo con un pie, dejando el otro 
-en el coche, y se giró de vuelta hacia el coche con la intención de ayudar a sus hijos a 
-descender. Al inclinarse para el niño, sin embargo, las puertas del coche se cerraron 
-repentinamente, aprisionando el pie izquierdo de la pasajera 1, y el tren comenzó a 
-ponerse en marcha. La pasajera 1 saltó primero un rato junto al tren sobre un solo pie, 
-y posteriormente cayó de espaldas y fue arrastrada por el tren varios metros por el 
-andén, hasta que logró liberar el pie de las puertas cerradas. Inmediatamente después 
-el tren se detuvo, y el jefe de tren llegó al andén, preguntándole si le había ocurrido 
-algo y ofreciéndole la llamada al servicio de rescate. La pasajera 1 rechazó esta oferta 
-afirmando que no estaba herida, y el tren partió de la parada poco después.
-En virtud de la declaración anteriormente mencionada de la pasajera 1, no se activó el 
-IZS.
-
+El suceso extraordinario se produjo el día 04. 04. 2010 a las 13:59 horas en la vía ferroviaria, 
+nacional, de doble vía Brno hlavní nádraží – Kutná Hora hlavní nádraží, en la parada 
+Sázavka, con la salida del tren Os 5910 desde la parada junto a la 2. TK, en el km 247,828.
+### 2.1.2 Descripción del suceso extraordinario y del lugar del accidente, incluida la actividad del sistema 
+integrado de emergencia y del servicio de rescate
+El día 04. 04. 2010 viajaban en el tren Os 5910 dos pasajeras, cada una con dos niños pequeños. 
+Su estación de destino era la parada Sázavka en la línea n.º 324 Brno hlavní nádraží – 
+Kutná Hora hlavní nádraží. Tras la parada del tren en la parada Sázavka, junto al andén 
+junto a la 2. TK, primero bajó del tren la pasajera 2 y sus dos niños, y después la pasajera 1. 
+Esta bajó al andén solo con un pie, dejando el otro en el vagón, y se giró de vuelta hacia 
+el vagón con la intención de ayudar a sus hijos a bajar. 
+Al inclinarse para el niño, sin embargo, la puerta del vagón se cerró de repente, 
+apretó el pie izquierdo de la pasajera 1 y el tren comenzó a ponerse en marcha. 
+La pasajera 1 primero saltó un rato junto al tren sobre un solo pie, después cayó 
+de espaldas y fue arrastrada por el tren varios metros por el andén, 
+hasta que logró liberar el pie de las puertas cerradas. 
+Inmediatamente después el tren se detuvo, al andén llegó el jefe de tren, 
+que le preguntó si le había pasado algo, y le ofreció 
+llamar al servicio de rescate. Esta oferta la rechazó la pasajera 1 
+diciendo que no estaba herida, y el tren partió de la parada 
+tras un rato.
+Debido a la declaración anteriormente mencionada de la pasajera 1, 
+no se activó el IZS.
 
 ## Página 12
+
 
 Fig. n.º 1: Mapa de la parada Sázavka
 2.1.3 Decisión de iniciar la investigación de las causas y circunstancias de su origen, 
@@ -322,6 +327,7 @@ iniciar adicionalmente la investigación de las causas
 
 ## Página 13
 
+
 a las circunstancias de la aparición de la UE en cumplimiento de lo dispuesto en el § 11 apartado 2 de esta ordenanza en su totalidad, es decir, incluida la elaboración del informe final.
 ## 2.2
 ### Circunstancias del suceso excepcional
@@ -347,88 +353,66 @@ Durante la UE no se utilizaron medios de comunicación, la comunicación entre t
 ### 2.2.5 Trabajos realizados en el lugar del suceso excepcional y en sus inmediaciones
 En el lugar de la UE, en la línea ni en el andén, no se realizaron trabajos inmediatamente antes de la aparición de la UE.
 
-
 ## Página 14
 
-### 2.2.6 Activación del plan para el caso de un suceso excepcional en la vía y secuencia de acontecimientos
-El plan para el caso de una UE en la vía no se activó por el motivo de que los miembros de la tripulación del tren no valoraron la situación como una UE y no la comunicaron a nadie.
-### 2.2.7 Activación del plan del sistema integrado de emergencias, de la policía y del servicio médico de emergencias y secuencia de acontecimientos
-Por los motivos indicados en el punto 2.2.6, en el lugar de la UE no intervinieron las unidades del SIE.
+### 2.2.6 Activación del plan para el caso de incidente en la vía y secuencia de acontecimientos
+El plan para el caso de incidente en la vía no fue activado por el motivo de que los miembros de la tripulación del tren no evaluaron la situación como incidente y no lo comunicaron a nadie.
+### 2.2.7 Activación del plan del sistema integrado de emergencia, de la policía y del servicio médico de emergencia y secuencia de acontecimientos
+Por los motivos indicados en el punto 2.2.6, en el lugar del incidente las unidades del sistema integrado de emergencia no intervinieron.
 ## 2.3
-### Fallecimientos, lesiones y daños materiales
-2.3.1 En viajeros y terceras personas, empleados del gestor de la vía y del transportista, incluidas personas en relación contractual
-La viajera 1 que se bajaba del tren Os 5910 resultó levemente herida.
-### 2.3.2 En los objetos transportados, equipajes y otros bienes
-En los bienes no se produjo ningún daño material.
-### 2.3.3 En los vehículos ferroviarios, componentes de la vía de circulación y en el medio ambiente
-En los vehículos ferroviarios, componentes de la vía de circulación y en el medio ambiente no se produjo ningún daño.
+### Fallecidos, heridos y daños materiales
+2.3.1 En pasajeros y terceros, empleados del gestor de la infraestructura y del transportista, incluidas personas en relación contractual
+La pasajera 1 que descendía del tren Os 5910 resultó levemente herida.
+### 2.3.2 En los objetos transportados, el equipaje y otros bienes
+No se produjo ningún daño material en los bienes.
+### 2.3.3 En los vehículos ferroviarios, los componentes de la vía y en el medio ambiente
+No se produjo ningún daño en los vehículos ferroviarios, los componentes de la vía ni en el medio ambiente.
 ## 2.4
 ### Circunstancias externas
 ### 2.4.1 Condiciones meteorológicas y datos geográficos
 visibilidad no reducida por las condiciones meteorológicas;
 •
-Coordenadas GPS del lugar de la UE: 49°43'47.4708''N, 15°23'55.5560''E.
+Coordenadas GPS del lugar del incidente: 49°43'47.4708''N, 15°23'55.5560''E.
 •
 ## 3 REGISTRO DE LAS EXPLICACIONES PRESENTADAS
 ## 3.1
 ### Resumen de las explicaciones presentadas (sujeto a protección de la identidad de las personas)
-### 3.1.1 Empleados del gestor de la vía y del transportista, incluidas personas en relación contractual
-Sobre la UE prestaron explicaciones los empleados del transportista del tren Os 5910:
+### 3.1.1 Empleados del gestor de la infraestructura y del transportista, incluidas personas en relación contractual
+Sobre el incidente presentaron explicaciones los empleados del transportista del tren Os 5910:
+el jefe de tren del tren Os 5910, en el «Aviso de averías», redactado el 04. 04. 2010
 –
-el jefe de tren del tren Os 5910, en la «Notificación de averías», redactada el 04. 04. 2010
-en la est. Žďár nad Sázavou, entre otras cosas, indicó que: … en el tren 5910 en la parada de Sázavka se produjo, tras todas las actuaciones prescritas relacionadas con la expedición y la salida del tren
+en la estación Žďár nad Sázavou, entre otras cuestiones, indicó que: … en el tren 5910, en la parada Sázavka, se produjo, tras todas las actuaciones prescritas relacionadas con la conducción y la salida del tren
 
 ## Página 15
 
-de la parada (finalización de la subida y bajada de pasajeros, aviso con el silbato de señales y cierre de todas las puertas y posteriormente la indicación de autorización para la salida) al intento de descenso de pasajeros del tren (2 mujeres y 4 niños). A las mujeres y a dos niños les resultó posible descender, pero otros dos niños permanecieron en el tanque. En cuanto se percató de que estaba ocurriendo algo, utilizó el freno de emergencia...;
-el jefe de tren del tren Os 5910, en el "Registro con el empleado", redactado el 29. 04. 
-–
-2010, entre otras cosas, indicó que: … durante la marcha hacia la parada Sázavka realizaba la comprobación de los billetes en la planta alta del coche de la serie Bmto, que estaba enganchado como segundo detrás de la locomotora, es decir, el último del tren. Tras detenerse en la parada, salió al andén y vigiló la subida y bajada de pasajeros. Tras finalizar la subida y bajada de pasajeros y volver a comprobar el andén, señaló con el silbato de señales el fin de la subida y, tras cerrar todas las puertas, volvió a comprobar si alguien no estaba descendiendo. Como todo estaba en orden, dio la señal "Autorización para la salida", que recibió el maquinista y él cerró manualmente a su espalda la primera puerta del coche en el sentido de marcha del tren. Cerró las puertas traseras centralmente desde el coche Bmto desde el cuadro situado junto a las puertas del coche, junto a las cuales se encontraba. Hasta que el tren se puso en marcha, vigiló el andén a través de las puertas cerradas que tenía delante. Cuando el tren comenzó a moverse lentamente, oyó de repente desde la parte trasera del mismo coche un grito infantil y utilizó inmediatamente el freno de emergencia ...;
-el maquinista del tren Os 5910, en el "Registro con el empleado", redactado el 16. 04. 
-–
-2010, entre otras cosas, indicó que: … tras la detención del tren Os 5910 en la parada Sázavka, mediante la mirada a través de la ventanilla de la cabina del maquinista, vigiló la subida y bajada de pasajeros. Tras la correcta expedición del tren por el jefe de tren, puso el tren en marcha, vigilando continuamente con la mirada el estado de cierre de las puertas del tren. Tras cerrar las puertas, desde las cuales el jefe de tren daba la señal de salida del tren, cerró la ventanilla de la cabina del maquinista y se dedicó a la conducción. Tras recorrer unos pocos metros, se produjo una caída repentina de la presión del aire en la tubería principal y, en consecuencia, la detención del tren ...;
-el jefe de tren del tren Os 5910 presentó también una declaración en el "Registro oficial de presentación de declaración PČR, OO Žďár nad Sázavou", 
-–
-redactado el 13. 04. 2010;
-el maquinista del tren Os 5910 presentó también una declaración en el "Registro oficial de presentación de declaración PČR, OO Polná", 
-–
-redactado el 26. 04. 2010.
+de la parada (finalización de la subida y bajada de pasajeros, aviso con el silbato de señalización y cierre de todas las puertas y posteriormente la indicación de la señal de autorización de salida) al intento de descenso de pasajeros del tren (2 mujeres y 4 niños). A las mujeres y a dos niños les resultó posible descender, pero otros dos niños permanecieron en el tan pronto como se percató de que algo estaba ocurriendo, utilizó el freno de emergencia...;
+el jefe de tren del tren Os 5910, en el "Registro con el empleado", redactado el 29. 04. – 2010, entre otras cosas, indicó que: … durante la marcha hacia la parada Sázavka realizaba la comprobación de los billetes en la planta alta del coche de la serie Bmto, que estaba enganchado como segundo detrás del vehículo motriz, es decir, el último de la composición del tren. Tras detenerse en la parada, salió al andén y vigiló la subida y bajada de pasajeros. Tras finalizar la subida y bajada de pasajeros y volver a comprobar el andén, señaló con el silbato de señalización el fin de la subida y, tras cerrar todas las puertas, volvió a comprobar si alguien no estaba descendiendo. Como todo estaba en orden, dio la señal "Autorización de salida", que recibió el maquinista y él cerró manualmente a su espalda la primera puerta del coche en el sentido de marcha del tren. Cerró las puertas traseras centralmente desde el coche Bmto desde el armario situado junto a las puertas del coche, junto a las cuales se encontraba. Hasta que el tren se puso en marcha, vigiló el andén a través de las puertas cerradas que tenía delante. Cuando el tren comenzó a moverse lentamente, oyó de repente desde la parte trasera del mismo coche un grito infantil y utilizó de inmediato el freno de emergencia ...;
+el maquinista del tren Os 5910, en el "Registro con el empleado", redactado el 16. 04. – 2010, entre otras cosas, indicó que: … tras la detención del tren Os 5910 en la parada Sázavka, mediante la mirada por la ventanilla de la cabina del maquinista, vigiló la subida y bajada de pasajeros. Tras la correcta expedición del tren por parte del jefe de tren, puso la composición en marcha, manteniendo constantemente bajo la mirada el estado de cierre de las puertas de la composición. Tras cerrar las puertas, desde las cuales el jefe de tren daba la señal de salida del tren, cerró la ventanilla de la cabina del maquinista y se dedicó a la conducción. Tras recorrer unos pocos metros, se produjo una caída repentina de la presión del aire en la tubería principal y, en consecuencia, la detención del tren ...;
+el jefe de tren del tren Os 5910 presentó también una declaración en el "Registro oficial de presentación de declaración PČR, OO Žďár nad Sázavou", redactado el 13. 04. 2010;
+el maquinista del tren Os 5910 presentó también una declaración en el "Registro oficial de presentación de declaración PČR, OO Polná", redactado el 26. 04. 2010.
 ### 3.1.2 Otras personas
-Al MU presentaron también declaraciones la pasajera 1 y su acompañante:
-la pasajera 1, en la "Declaración de la pasajera", redactada por DI el 20. 07. 2010, 
-–
-entre otras cosas, indicó que: ... antes de la llegada del tren a la parada Sázavka, todos se prepararon para descender junto a las puertas del coche. Tras la detención del tren en la parada, la pasajera 2 abrió las puertas y, junto con sus dos hijos, descendió del tren. Ella descendió detrás de ellos y se volvió hacia el tren en busca de sus hijos, permaneciendo todavía con un pie en el espacio de acceso del coche. En ese momento, las puertas del coche se cerraron y el tren se puso en marcha. Tenía un pie atrapado por las puertas del coche y con el otro saltaba e intentaba liberarlo. Sin embargo, tras unos pocos metros cayó y el tren la arrastró todavía un rato por el andén, antes de que le fuera posible liberar el pie ... 
-Respecto a la declaración del jefe de tren del tren Os 5910, indicó que en ningún caso se disculpó con nadie, simplemente rechazó la atención médica que le ofrecía el jefe de tren. La pasajera 2 descendió con los hijos sin problemas, incluso antes del cierre de las puertas. Asimismo, considera que si el jefe de tren realmente se encontraba en el andén, como afirma en su declaración, en un tramo tan visible y con dos coches, tendría que haber visto que se encontraba junto al tren con un pie en el espacio de acceso del coche. Por lo tanto, no está de acuerdo con la afirmación del jefe de tren de que, una vez más, tras el cierre de las puertas del tren, volvió a comprobar si todos los pasajeros habían subido y bajado;
-
+Al MU presentaron también declaración la pasajera 1 y su acompañante:
+la pasajera 1, en la "Declaración de la pasajera", redactada por DI el 20. 07. 2010, entre otras cosas, indicó que: ... antes de la llegada del tren a la parada Sázavka, todos se prepararon para descender junto a las puertas del coche. Tras la detención del tren en la parada, la pasajera 2 abrió las puertas y, junto con sus dos hijos, descendió del tren. Ella descendió detrás de ellos y se giró hacia el tren en busca de sus hijos, permaneciendo con un pie en el espacio de acceso del coche. En ese momento, las puertas del coche se cerraron y el tren se puso en marcha. Tenía un pie atrapado por las puertas del coche y con el otro saltaba e intentaba liberarlo. Tras unos pocos metros, sin embargo, cayó y el tren la arrastró todavía un momento por el andén, antes de que le fuera posible liberar el pie ... Respecto a la declaración del jefe de tren del tren Os 5910, indicó que en ningún caso se disculpó con nadie, simplemente rechazó la atención médica que le ofrecía el jefe de tren. La pasajera 2 descendió con los hijos sin problemas incluso antes del cierre de las puertas. Asimismo, considera que si el jefe de tren realmente hubiera estado en el andén, como afirma en su declaración, en un tramo tan visible y con dos coches habría tenido que ver que se encontraba junto al tren con un pie en el espacio de acceso del coche. Por ello, no está de acuerdo con la afirmación del jefe de tren de que, una vez más, tras el cierre de las puertas de la composición, volvió a comprobar si todos los pasajeros habían subido y bajado;
 
 ## Página 16
 
-la pasajera 1 presentó también una declaración en el "Registro oficial de presentación de declaración PČR, 
-–
-OO Havlíčkův Brod", redactado el 04. 04. 2010;
-la pasajera 2 presentó una declaración en el "Registro oficial de presentación de declaración PČR, OO 
-–
-Litomyšl", redactado el 05. 05. 2010;
+El pasajero 1 facilitó también una explicación en el «Registro oficial de declaración de explicaciones de la Policía Nacional – OO Havlíčkův Brod», redactado el 04. 04. 2010;
+el pasajero 2 facilitó una explicación en el «Registro oficial de declaración de explicaciones de la Policía Nacional – OO Litomyšl», redactado el 05. 05. 2010;
 ## 3.2
-### Sistema de garantía de seguridad
+### Sistema de garantía de la seguridad
 ### 3.2.1 Organización marco y forma en que se emiten y ejecutan las instrucciones
-Los principios para la subida y bajada segura de pasajeros y la expedición y salida de trenes con transporte de pasajeros en las paradas y las señales utilizadas para ello están contenidos en las normas internas del transportista ČD D2, ČD KC1 y ČD D1. Estas normas forman parte del sistema de garantía de seguridad, cuyo estricto cumplimiento garantiza la seguridad de los pasajeros al descender del tren y subir al tren en las paradas y en la salida del tren de las mismas. Si en el caso del MU en la parada Sázavka se cumplieron estas normas no es posible demostrar de forma irrefutable (véase el capítulo 4.1.1).
-### 3.2.2 Requisitos para los empleados del gestor de la vía y del transportista y su aplicación
-La aptitud médica de los empleados del transportista se evalúa en el sentido del decreto 
-n.º 101/1995 Sb., por el que se dicta el Reglamento sobre la aptitud médica y profesional de las personas para la explotación de la vía y el transporte ferroviario, en su versión vigente (en adelante también decreto n.º 101/1995 
-Sb.).
-En el momento de producirse el MU en cuestión, todos los empleados del transportista involucrados en el MU contaban con un dictamen válido de aptitud médica.
-Los requisitos de aptitud profesional, incluida la forma de su aplicación, los establece la norma interna del transportista "ČD Ok 2 Reglamento de formación y examen de los Ferrocarriles Checos, a. s., aprobado el 
-07. 12. 2005, con el n.º de expediente: 61773/05-O10, en vigor desde el 01. 01. 2006, en su versión vigente.
-Todos los empleados del transportista involucrados eran, en el momento de producirse el MU, profesionalmente aptos para el desempeño de la función que desempeñaban.
-### 3.2.3 Procedimiento de control interno de seguridad y sus resultados
-En ČD, a. s., transportista del tren Os 5910, la actividad de control se realiza según sus propias directrices internas. La actividad de control de los miembros de los equipos de acompañamiento de los trenes de transporte de pasajeros en la línea n.º 324 Brno hlavní nádraží – Kutná Hora hlavní nádraží, en el tramo Havlíčkův Brod – Kutná Hora 
-hlavní nádraží, se realizaba en el momento de producirse el MU en cuestión según la Orden del director de OJ VDOD n.º 1/2010 – VDOD Actividad de control, n.º de expediente 2/2010 – VDOD, de fecha 30. 12. 2009. 
-Los enfoques de las inspecciones relacionadas con la seguridad son parte integrante de la actividad de control de los empleados designados y se enumeran en esta orden en el capítulo "Contenido de la actividad de control en el ámbito de la explotación", su frecuencia se establece en el anexo n.º 1. La actividad de control y sus resultados se registran en el Libro de controles (K2).
-
+Los principios para el embarque y desembarque seguro de los pasajeros y para la conducción y salida de trenes con transporte de pasajeros en las paradas, así como las señales utilizadas para ello, están contenidos en las normas internas del transportista ČD D2, ČD KC1 y ČD D1. Estas normas forman parte del sistema de garantía de la seguridad, cuyo estricto cumplimiento garantiza la seguridad de los pasajeros al descender del tren y subir al tren en las paradas y en la salida del tren de las mismas. Si en el caso del MU en la parada Sázavka se cumplieron estas normas no es posible probar de forma irrefutable (véase el capítulo 4.1.1).
+### 3.2.2 Requisitos para los empleados del gestor de la infraestructura y del transportista y su aplicación
+La aptitud médica de los empleados del transportista se evalúa en el sentido del decreto n.º 101/1995 Sb., por el que se dicta el Reglamento sobre la aptitud médica y profesional de las personas para la explotación de la infraestructura y del transporte ferroviario, en la versión vigente (denominado también decreto n.º 101/1995 Sb.).
+En el momento de producirse el MU en cuestión, todos los empleados del transportista participantes en el MU disponían de un informe de aptitud médica vigente.
+Los requisitos de aptitud profesional, incluido el modo de su aplicación, los establece la norma interna del transportista «ČD Ok 2 Reglamento de formación y de exámenes de los Ferrocarriles Checos, a. s., aprobado el 07. 12. 2005, con n.º de expediente: 61773/05-O10, en vigor desde el 01. 01. 2006, en la versión vigente.
+Todos los empleados del transportista participantes eran, en el momento de producirse el MU, profesionalmente aptos para el desempeño de la función que ocupaban.
+### 3.2.3 Procedimiento de control interno de la seguridad y sus resultados
+En ČD, a. s., transportista del tren Os 5910, la actividad de control se realiza conforme a sus propias directrices internas. La actividad de control de los miembros de los convoyes de los trenes de transporte de pasajeros en la línea n.º 324 Brno hlavní nádraží – Kutná Hora hlavní nádraží, en el tramo Havlíčkův Brod – Kutná Hora hlavní nádraží, se llevaba a cabo en el momento de producirse el MU en cuestión conforme a la Orden del director de la OJ VDOD n.º 1/2010 – VDOD Actividad de control, n.º de expediente 2/2010 – VDOD, de fecha 30. 12. 2009. Los ámbitos de las inspecciones relacionados con la seguridad son parte integrante de la actividad de control de los empleados autorizados y se enumeran en esta orden en el capítulo «Contenido de la actividad de control en el ámbito de la explotación», su frecuencia se establece en el anexo n.º 1. La actividad de control y sus resultados se registran en el Libro de controles (K2).
 La realización de los controles internos y su sistema no guardaban relación causal con la producción del MU.
 
 ## Página 17
+
 
 ### 3.2.4 Interfaz entre los distintos sujetos participantes y los componentes de la vía de circulación
 El propietario y explotador de la vía ferroviaria de ámbito nacional Brno hlavní nádraží – Kutná Hora hlavní nádraží era la Správa železniční dopravní cesty, organización estatal, con domicilio en Dlážděná 1003/7, Praha 1 Nové Město, PSČ 110 00, en virtud de la Autorización administrativa expedida por la Autoridad Ferroviaria de Praga el 29. 05. 2008 bajo el n.º de expediente 3-4277/07-DÚ/Le, n.º de registro ÚP/2008/9002.
@@ -467,8 +451,8 @@ dirección directa, con una longitud de 138 metros; la parada está equipada con
 para los viajeros. El estado técnico de los componentes de la vía no guardaba relación
 causal con la producción del MU.
 
-
 ## Página 18
+
 
 ### 3.4.3 Medios de comunicación
 Con motivo de la producción del MU no se utilizaron medios de comunicación alguno.
@@ -516,34 +500,32 @@ Por las razones expuestas en el punto 2.2.6 no se adoptó medida alguna.
 ## 3.6
 ### Condiciones laborales, sanitarias y de explotación
 ### 3.6.1 Jornada laboral de los empleados del gestor de la infraestructura y del transportista que participaron en el suceso
-El maquinista del tren Os 5910 entró en servicio según el horario del turno de servicio el día
+El maquinista del tren Os 5910 entró en servicio según el cuadrante de turnos del día 
 •
 04. 04. 2010 a las 11:10 horas, habiendo tenido antes de este turno un descanso de 61:05 horas;
-El jefe de tren del tren Os 5910 entró en servicio según el horario del turno de servicio el día
+El jefe de tren del tren Os 5910 entró en servicio según el cuadrante de turnos del día 
 •
 04. 04. 2010 a las 11:52 horas, habiendo tenido antes de este turno un descanso de 99:00 horas.
-El empleador garantizó las condiciones para el descanso previo al turno de conformidad con el § 90 de la ley
-n.º 262/2006 Sb., Código del Trabajo.
-3.6.2 Estado de salud y situación personal que influyeron en el suceso excepcional,
-incluido el estrés físico o psíquico
-Todos los empleados implicados estaban, en el momento de producirse el SE, aptos desde el punto de vista sanitario para desempeñar la función que ocupaban. La investigación no arrojó que la situación personal o el estado psíquico de las personas implicadas en el SE hubieran influido en la producción del SE.
-Los empleados del gestor de la infraestructura y del transportista se someten a reconocimientos médicos periódicos de conformidad con lo dispuesto en la disposición n.º 101/1995 Sb. Estado de salud y situación personal que pudieran haber influido en la producción del SE, incluido el estrés físico y psíquico. No se constató que el estado de salud de los empleados implicados hubiera influido en la producción del SE.
-Por las razones anteriores (véase el punto 2.2.6) no se practicó a los empleados implicados la prueba de alcoholemia orientativa.
-3.6.3 Disposición del equipamiento del puesto de conducción o del vehículo que influye en su mando y utilización
-La disposición del equipamiento del HDV del tren Os 5910 no guardaba relación con la producción del SE.
-La solución técnica de las puertas de acceso y su mando sí guardaban relación con la producción del SE:
-Las puertas de los coches de la serie Bmto pueden cerrarse centralmente por el personal del tren mediante
+El empleador garantizó las condiciones para el descanso antes del turno de conformidad con el § 90 de la Ley núm. 262/2006 Sb., Código del Trabajo.
+3.6.2 Estado de salud y situación personal que influyeron en el suceso excepcional, incluido el estrés físico o psíquico
+Todos los empleados implicados estaban, en el momento de producirse el suceso excepcional (MU), aptos para el desempeño de la función que ocupaban. La investigación no arrojó datos de que la situación personal o el estado psíquico de las personas implicadas en el MU hubieran influido en la producción del mismo.
+Los empleados del gestor de la infraestructura y del transportista se someten a reconocimientos médicos periódicos de conformidad con lo dispuesto en la disposición núm. 101/1995 Sb. Estado de salud y situación personal que podrían haber influido en la producción del MU, incluido el estrés físico y psíquico. No se constató que el estado de salud de los empleados implicados hubiera influido en la producción del MU.
+Por las razones expuestas (véase el punto 2.2.6) no se practicó a los empleados implicados la prueba de alcoholemia orientativa.
+3.6.3 Disposición del equipamiento del puesto de mando o del vehículo que influye en su manejo y utilización
+La disposición del equipamiento de la locomotora del tren Os 5910 no guardaba relación con la producción del MU.
+La solución técnica de las puertas de acceso y su manejo sí guardaban relación con la producción del MU:
+Las puertas de los coches de la serie Bmto pueden cerrarse centralmente por el personal del tren mediante 
 •
-una llave cuadrada (mediante su giro). Tras el uso de la llave se cierran todas las puertas conectadas al conducto de aire, excepto aquellas en las que se ha utilizado la llave. Estas puertas es necesario cerrarlas manualmente o se cierran automáticamente tras la puesta en marcha del tren. Al impulso dado por el giro de la llave, las puertas reaccionan de inmediato y se cierran en un plazo de 1 a 2 s. El cierre de las puertas se produce con una considerable fuerza, que puede ser incluso peligrosa.
-Las puertas cerradas de este modo quedan bloqueadas mientras el operario que las maneja mantiene
+una llave cuadrada (mediante su giro). Tras el uso de la llave se cierran todas las puertas conectadas al conducto de aire, excepto aquellas en las que se ha utilizado la llave. Estas puertas es necesario cerrarlas manualmente o se cierran automáticamente tras la puesta en marcha del tren. Ante la señal dada por el giro de la llave, las puertas reaccionan de inmediato y se cierran en un plazo de 1 a 2 s. El cierre de las puertas se produce con una considerable fuerza que puede resultar peligrosa.
+Las puertas cerradas de esta forma quedan bloqueadas mientras el operario que las maneja mantiene 
 •
-la llave en posición girada – si la llave no se mantiene en posición girada, las puertas ya no están bloqueadas y pueden volver a abrirse hasta que el tren se pone en movimiento y alcanza una velocidad de unos 5 km.h-1. Tras alcanzar esta velocidad, en un recorrido de unos 3 – 6 metros, en función del manejo del HDV por parte del maquinista, las puertas se bloquean automáticamente, o bien se cierran y ya no pueden abrirse ni siquiera aplicando una gran fuerza.
-Las puertas no están equipadas con un dispositivo que impida el cierre automático de las puertas
+la llave en posición girada – si la llave no se mantiene en posición girada, las puertas ya no quedan bloqueadas y pueden volver a abrirse hasta que el tren se ponga en marcha y alcance una velocidad de unos 5 km.h-1. Al alcanzar esta velocidad, tras recorrer unos 3 – 6 metros, en función del manejo de la locomotora por parte del maquinista, las puertas se bloquean automáticamente, o bien se cierran y ya no pueden abrirse ni siquiera aplicando una gran fuerza.
+Las puertas no están dotadas de un dispositivo que impida el cierre automático de las puertas 
 •
 en caso de que su espacio no esté libre, o bien que libere el cierre de las puertas en caso de que un pasajero quede atrapado entre las hojas de la puerta.
 
-
 ## Página 20
+
 
 Las puertas no están equipadas con señalización óptica ni acústica de aviso a las personas
 •
@@ -574,31 +556,27 @@ Al inicio de la investigación, la DI constató en primer lugar que el transport
 
 ## Página 21
 
-se contradicen entre sí. Tras depurar las declaraciones de las afirmaciones ilógicas y refutables con hechos objetivos, las explicaciones de las personas implicadas quedan enfrentadas en un estado de «afirmación contra afirmación». Por estas razones, por tanto, es necesario en este punto exponer la descripción del SU tal y como se desprende de los testimonios de cada una de las partes implicadas, es decir, de los miembros de la tripulación del tren Os 5910 por una parte y de la pasajera herida 1 por otra; sin embargo, es improbable que los hechos se produjeran tal y como los describen los protagonistas.
-Transcurso de la creación del SU tal y como se desprende de las explicaciones de los miembros de la tripulación del tren Os 5910 (véase el punto 3.1.1):
-En la parada Sázavka, el jefe de tren del tren Os 5910, tras convencerse con la mirada de que ya no subía ni bajaba ningún pasajero y de dar con el silbato la señal para finalizar el embarque y desembarque de pasajeros, dio al maquinista la señal «Permiso para salir» y cerró manualmente la puerta en la que se encontraba, es decir, la puerta delantera del último (segundo) coche en el sentido de marcha del tren. El maquinista, tras recibir la señal «Permiso para salir», inició los preparativos para la salida del tren y, tras comprobar el estado de cierre de las puertas del convoy, dejó de observar lo que ocurría en el andén. El jefe de tren, aunque siguió observando la situación en el andén hasta el momento de la salida del tren, lo hizo ya solo a través de la puerta cerrada en la que se encontraba. Durante la salida del tren oyó de repente un grito en la parte trasera del mismo coche e inmediatamente accionó el freno de emergencia. Después se dirigió al espacio desde donde oyó el grito y donde vio a varios niños de pie ante las puertas cerradas. Tras la parada del tren y la apertura de las puertas, vio en el andén a dos mujeres, una de las cuales sostenía un niño en brazos y la otra llevaba calzado solo un zapato, sosteniendo el otro bajo el brazo. A su pregunta de qué había ocurrido, esta mujer se disculpó diciendo que se habían olvidado de bajar y que pensó que aún lo alcanzarían, pero solo ella logró salir, los niños ya no. A su pregunta sobre posibles lesiones y sobre llamar a los servicios de emergencia, respondió que no le pasaba nada. El jefe de tren realizó entonces una sencilla prueba de freno y, a continuación, el tren Os 5910 continuó su marcha.
-Transcurso de la creación del SU tal y como se desprende de las explicaciones de la pasajera afectada 1 (véase el punto 3.1.2):
-El 04. 04. 2010 viajaba en el tren Os 5910 la pasajera 1 y sus dos pequeños hijos junto con la pasajera acompañante 2 y sus dos hijos. Su estación de destino era la parada Sázavka en la línea n.º 324 Brno hlavní nádraží – Kutná Hora hlavní nádraží. Tras la parada del tren en la parada Sázavka, bajó del tren primero la pasajera 2 y sus hijos, y a continuación la pasajera afectada 1. Esta bajó al andén solo con una pierna, dejando la otra en el coche y girando de vuelta hacia el interior del coche con la intención de ayudar a sus hijos a bajar. Se encontraba, por tanto, en ese momento con las piernas abiertas y de cara en el sentido de marcha del tren. Sin embargo, al inclinarse para el niño, la puerta del coche se cerró de repente, aprisionándole la pierna izquierda, y el tren comenzó a salir. La pasajera 1 primero saltó un rato junto al tren sobre una sola pierna, después cayó de espaldas y fue arrastrada por el tren varios metros por el andén, hasta que logró liberar la pierna de las puertas cerradas. Inmediatamente después, el tren se detuvo; al andén llegó el jefe de tren, que le preguntó si le había ocurrido algo y le ofreció llamar a los servicios de emergencia. La pasajera 1 rechazó esta oferta alegando que no estaba herida, y el tren partió de la parada al poco rato. A los pocos minutos, el marido de la pasajera 1 llegó en un automóvil, al que había llamado por teléfono móvil, y se llevó a todo el grupo a casa.
-Respecto a la explicación del jefe de tren del tren Os 5910, la pasajera afectada 1 indicó que no oyó el silbato de salida del tren mientras estaba de pie en la puerta y que en ningún caso se disculpó con nadie; la pasajera 2 con los hijos bajó sin problemas antes del cierre de las puertas. Además, está convencida de que, si el jefe de tren hubiera estado realmente en el andén, como indica, en un tramo tan visible y con dos coches, tendría que haber visto que estaba junto al tren con una pierna dentro del coche. Por ello, no está de acuerdo con la afirmación del jefe de tren de que volvió a comprobar, una vez más y tras el cierre de las puertas del convoy, si todos los pasajeros habían subido y bajado.
-
+se contradicen mutuamente. Tras depurar las explicaciones de las afirmaciones ilógicas y refutables con hechos objetivos, las explicaciones de las personas implicadas quedan enfrentadas en estado de «afirmación contra afirmación». Por estas razones, es necesario en este punto exponer la descripción del SU tal como se desprende de las declaraciones de cada una de las partes implicadas, es decir, de los miembros de la tripulación del tren Os 5910 por una parte y de la pasajera herida 1 por otra; sin embargo, es improbable que los hechos se produjeran tal como los describen los protagonistas.
+Transcurso de la creación del SU tal como se desprende de las explicaciones de los miembros de la tripulación del tren Os 5910 (véase el punto 3.1.1):
+En la parada de Sázavka, el jefe de tren del tren Os 5910, tras convencerse con la mirada de que ya no subía ni bajaba ningún pasajero y dar con el silbato la señal para finalizar el embarque y desembarque de pasajeros, dio al maquinista la señal «Consentimiento para la salida» y cerró manualmente la puerta en la que se encontraba, es decir, la puerta delantera del último (segundo) coche en el sentido de marcha del tren. El maquinista, tras recibir la señal «Consentimiento para la salida», inició los preparativos para la puesta en marcha del tren y, tras comprobar el estado de cierre de las puertas del convoy, dejó de prestar atención a lo que ocurría en el andén. El jefe de tren continuó observando la situación en el andén hasta el momento de la puesta en marcha del tren, pero ya solo a través de la puerta cerrada en la que se encontraba. Durante la puesta en marcha del tren oyó de repente un grito en la parte trasera del mismo coche y aplicó inmediatamente el freno de emergencia. A continuación se dirigió al espacio desde donde oyó el grito, y donde vio a varios niños de pie ante la puerta cerrada. Tras la detención del tren y la apertura de la puerta, divisó en el andén a dos mujeres, una de las cuales sostenía un niño en brazos y la otra llevaba calzado solo un zapato, sosteniendo el otro bajo el brazo. A su pregunta de qué había ocurrido, esta mujer se disculpó diciendo que se habían olvidado de bajar y que pensaba que aún lo alcanzarían, pero solo ella logró salir, los niños ya no. A su pregunta sobre posibles lesiones y la llamada al servicio de emergencias, respondió que no le pasaba nada. El jefe de tren realizó entonces una sencilla prueba de freno y, a continuación, el tren Os 5910 continuó su marcha.
+Transcurso de la creación del SU tal como se desprende de las explicaciones de la pasajera afectada 1 (véase el punto 3.1.2):
+El 04. 04. 2010 viajaba en el tren Os 5910 la pasajera 1 y sus dos hijos pequeños junto con la pasajera acompañante 2 y sus dos hijos. Su estación de destino era la parada de Sázavka en la línea n.º 324 Brno hlavní nádraží – Kutná Hora hlavní nádraží. Tras la detención del tren en la parada de Sázavka, bajó del tren primero la pasajera 2 y sus hijos, y a continuación la pasajera afectada 1. Esta bajó al andén solo con un pie, dejando el otro en el coche, y se giró de vuelta hacia el interior del coche con la intención de ayudar a sus hijos a bajar. Se encontraba, por tanto, en ese momento con las piernas abiertas, de cara al sentido de marcha del tren. Sin embargo, al inclinarse para el niño, la puerta del coche se cerró de repente, aprisionándole la pierna izquierda, y el tren comenzó a ponerse en marcha. La pasajera 1 primero saltó un rato junto al tren sobre un solo pie, después cayó de espaldas y fue arrastrada por el tren varios metros a lo largo del andén, antes de que lograra liberar la pierna de la puerta cerrada. Inmediatamente después, el tren se detuvo; al andén llegó el jefe de tren, que le preguntó si le había ocurrido algo y le ofreció llamar al servicio de emergencias. La pasajera 1 rechazó esta oferta alegando que no estaba herida, y el tren partió de la parada al cabo de un rato. A los pocos minutos, el marido de la pasajera 1 llegó en automóvil, al que había llamado por teléfono móvil, y se llevó a todo el grupo a casa.
+Respecto a la explicación del jefe de tren del tren Os 5910, la pasajera afectada 1 indicó que no oyó el silbato de salida del tren mientras estaba de pie en la puerta y que en ningún caso se disculpó con nadie; la pasajera 2 con sus hijos bajó sin problemas incluso antes del cierre de la puerta. Además, está convencida de que, si el jefe de tren hubiera estado realmente en el andén, como afirma, en un tramo tan visible y con dos coches, tendría que haber visto que estaba junto al tren con un pie dentro del coche. Por ello, no está de acuerdo con la afirmación del jefe de tren de que volvió a comprobar, una vez más y tras el cierre de las puertas del convoy, si todos los pasajeros habían subido y bajado.
 
 ## Página 22
 
 ## 4.2
 ### Análisis
-### 4.2.1 Evaluación de los hechos constatados de acuerdo con el punto 3 y exposición de las conclusiones sobre la causa del suceso excepcional y la actuación de los servicios de emergencia
-El SU se produjo durante la salida del tren Os 5910 de la parada Sázavka, desde el andén de la 2. TK. La parada Sázavka se encuentra en el pk 247,828 entre las estaciones Světlá nad Sázavou y Leština u Světlé, en la línea n.º 324 Brno hlavní nádraží – Kutná Hora hlavní nádraží. El andén de la 2. TK es de paneles con borde de andén fijo y mide 138 metros. El tren Os 5910 estaba compuesto por la HDV 363.001-9 y los coches BDs 50 54 82-40 260-7 y Bmto 50 54 26-18 107-7. El SU se produjo en el coche Bmto 50 54 26-18 107-7, que estaba enganchado como segundo (último) coche del tren.
-En la inspección comisionada del coche Bmto 50 54 26-18 107-7, realizada por el transportista el 19. 04. 2010 en la PJ Havlíčkův Brod, DKV Brno, no se detectaron anomalías en el cierre y apertura de las puertas, en su mecanismo ni en su mando.
-De la evaluación de los datos registrados por el registrador de velocidad instalado en la cabina del maquinista, se constató que el tren Os 5910 se detuvo en la parada Sázavka a las 13:58:18 horas, es decir, con 13 minutos de retraso. Su tiempo de permanencia en la parada, desde la parada hasta la salida, fue de 24 s; después, tras 15 s de marcha a 20 km.h-1 y 44 metros recorridos, volvió a detenerse.
-De la investigación propia, la DI constató además que:
-El tren Os 5910 redujo en la parada Sázavka el tiempo de permanencia prescrito, que según
-•
-el SJŘ de este tren era de 30 s. La salida del tren se registró ya a los 24 s desde la parada, lo que, al restar el tiempo necesario para la maniobra reglamentaria, las operaciones del maquinista y la respuesta de la HDV, significa que los pasajeros con niños pequeños disponían de solo un poco más de 15 s para llegar a las puertas, abrirlas y comenzar a bajar. Dado que la DI midió tiempos de permanencia inferiores a 30 s en esta parada durante mediciones aleatorias también en otros trenes, es evidente que se trata de una práctica habitual que no puede explicarse únicamente por el retraso del tren Os 5910. En el coche de piso bajo de la serie Bmto, con amplias puertas de acceso, el proceso de descenso de los pasajeros no es observable desde el exterior tan bien como en los coches de construcción clásica, ya que los pasajeros no bajan de uno en uno y lentamente por los escalones. El tiempo propio de descenso de una persona, es decir, el paso por las puertas al andén, es en un coche de esta construcción muy corto, por lo que la duración del descenso la determinan más bien los intervalos entre las distintas personas que bajan. Estos intervalos pueden ser considerablemente más largos al bajar con niños pequeños, lo que puede crear la impresión errónea de que el descenso ha finalizado. Desde esta perspectiva, el tiempo de permanencia del tren Os 5910 en la parada Sázavka mencionado anteriormente fue insuficiente para el descenso de un grupo de pasajeros con niños pequeños. El transportista no creó así las condiciones para el transporte de padres con hijos, tal como establece la disposición del § 36 letra e) de la ley n.º 266/1994 Sb.
-Las puertas de los coches de la serie Bmto pueden cerrarse centralmente por la tripulación del tren mediante
-•
-una llave cuadrada (girándola). Tras el uso de la llave, se cierran todas las puertas conectadas al conducto de aire, excepto las puertas en las que se utiliza la llave. Estas puertas es necesario cerrarlas manualmente o se cierran automáticamente tras la salida del tren. Al impulso dado por el giro de la llave, las puertas reaccionan de inmediato y se cierran en un plazo de 1 a
+### 4.2.1 Evaluación de los hechos constatados según el punto 3 y exposición de las conclusiones sobre la causa del suceso excepcional y la actuación de los servicios de rescate
+El suceso excepcional se produjo durante la salida del tren Os 5910 de la parada Sázavka, desde el andén junto a la 2.ª vía. La parada Sázavka se encuentra en el pk 247,828 entre las estaciones Světlá nad Sázavou y Leština u Světlé, en la línea n.º 324 Brno hlavní nádraží – Kutná Hora hlavní nádraží. El andén junto a la 2.ª vía es de paneles con borde de andén fijo y mide 138 metros. El tren Os 5910 estaba compuesto por la locomotora 363.001-9 y los coches BDs 50 54 82-40 260-7 y Bmto 50 54 26-18 107-7. El suceso excepcional se produjo en el coche Bmto 50 54 26-18 107-7, que iba acoplado como segundo (último) coche del tren.
+La inspección comisionada del coche Bmto 50 54 26-18 107-7, realizada por el transportista el 19. 04. 2010 en la PJ Havlíčkův Brod, DKV Brno, no detectó ningún defecto en el cierre y apertura de las puertas, en su mecanismo ni en su mando.
+Mediante la evaluación de los datos registrados por el registrador de velocidad instalado en la cabina del maquinista, se constató que el tren Os 5910 se detuvo en la parada Sázavka a las 13:58:18 horas, es decir, con 13 minutos de retraso. Su tiempo de permanencia en la parada, desde la detención hasta la salida, fue de 24 s; después, tras 15 s de marcha a 20 km·h-1 y haber recorrido 44 metros, volvió a detenerse.
+La propia investigación de la DI determinó además que:
+• El tren Os 5910 acortó en la parada Sázavka el tiempo de permanencia prescrito, que según el SJŘ de este tren era de 30 s. La salida del tren se registró ya a los 24 s desde la detención, lo que, una vez descontado el tiempo necesario para la expedición regular, las maniobras del maquinista y la respuesta de la locomotora, significa que los pasajeros con niños pequeños disponían de poco más de 15 s para llegar a las puertas, abrirlas y comenzar a bajar. Puesto que la DI midió tiempos de permanencia inferiores a 30 s en esta parada durante mediciones aleatorias también en otros trenes, es evidente que se trata de una práctica habitual que no puede explicarse únicamente por el retraso del tren Os 5910. En el coche de piso bajo de la serie Bmto, con amplias puertas de acceso, el proceso de descenso de los pasajeros no es observable desde el exterior tan bien como en los coches de construcción clásica, ya que los pasajeros no bajan de uno en uno y lentamente desde los escalones. El propio tiempo de descenso de una persona, es decir, el paso por la puerta hasta el andén, es muy corto en un coche de esta construcción, por lo que la duración del descenso la determinan más bien los intervalos entre las distintas personas que bajan. Estos intervalos pueden ser considerablemente más largos al bajar con niños pequeños, con lo que puede generarse la impresión errónea de que el descenso ha finalizado. Desde esta perspectiva, el tiempo de permanencia mencionado del tren Os 5910 en la parada Sázavka fue insuficiente para el descenso de un grupo de pasajeros con niños pequeños. El transportista no creó así las condiciones para el transporte de padres con hijos, tal como establece la disposición del § 36 letra e) de la ley n.º 266/1994 Sb.
+• Las puertas de los coches de la serie Bmto pueden cerrarse centralmente por la tripulación del tren mediante una llave cuadrada (mediante su giro). Tras el uso de la llave, se cierran todas las puertas conectadas a la tubería de aire, excepto aquellas en las que se ha utilizado la llave. Estas puertas es necesario cerrarlas manualmente o se cerrarán automáticamente tras la salida del tren. Ante la señal dada por el giro de la llave, las puertas reaccionan de inmediato y se cierran en 1 a
 
 ## Página 23
+
 
 2 s. El cierre de las puertas se realiza con considerable brusquedad, que en algunos casos puede ser incluso peligroso. Las puertas cerradas de esta manera quedan bloqueadas mientras el personal operativo mantiene la manivela girada – si la manivela no se mantiene en posición girada, las puertas ya no están bloqueadas y pueden volver a abrirse hasta que el tren se ponga en movimiento y alcance una velocidad de aprox. 5 km.h-1. Al alcanzar esta velocidad, en un tramo de aprox. 3 – 6 metros, en función de la operación de la HDV por parte del maquinista, las puertas se bloquean automáticamente, o bien se cierran y ya no pueden abrirse ni siquiera aplicando una gran fuerza. Las puertas no están equipadas con un dispositivo que impida el cierre automático de las puertas en caso de que su espacio no esté libre, o bien que libere el cierre de las puertas en caso de que un pasajero quede atrapado entre las hojas de la puerta. Las puertas no están equipadas con señalización óptica ni acústica para advertir a las personas del cierre de las puertas.
 El maquinista, desde la ventanilla de la HDV, no puede distinguir con seguridad si las puertas del coche de la serie Bmto, •
@@ -613,21 +591,20 @@ La causa fundamental del suceso excepcional es la insuficiente atención a la se
 ### 4.3.3 Causas derivadas del marco normativo y del uso del sistema de garantía de la seguridad
 Las causas derivadas del marco normativo y del uso del sistema de garantía de la seguridad no fueron detectadas por la DI.
 
-
 ## Página 24
 
 ## 4.4
 ### Hallazgos complementarios
-### 4.4.1 Deficiencias y omisiones detectadas durante la investigación de las causas y circunstancias del suceso excepcional, que sin embargo no son relevantes para las conclusiones sobre las causas
+### 4.4.1 Deficiencias y omisiones detectadas durante la investigación de las causas y circunstancias del origen del suceso ferroviario, que sin embargo no son relevantes para las conclusiones sobre las causas
 No se detectaron.
 ## 5 MEDIDAS ADOPTADAS
 ## 5.1
-### Lista de medidas que ya han sido tomadas o adoptadas como consecuencia del suceso excepcional
-Según la comunicación del transportista ČD, a. s., los empleados del transportista que trabajan como acompañantes de trenes de transporte de pasajeros serán formados, antes del 30. 06. 2011, en las obligaciones establecidas por las normas del transportista para los miembros del acompañamiento del tren, con especial atención a la creación de condiciones en el sentido del § 36 letra e) de la ley núm. 266/1994 Sb.
+### Lista de medidas que ya se han tomado o adoptado como consecuencia del suceso ferroviario
+Según la comunicación del transportista ČD, a. s., los empleados del transportista que trabajan como acompañantes de trenes de transporte de pasajeros serán formados, antes del 30. 06. 2011, en las obligaciones establecidas a los miembros de la dotación del tren por las normas del transportista, con especial atención a la creación de condiciones en el sentido del § 36, letra e), de la Ley n.º 266/1994 Sb.
 Según la comunicación por correo electrónico del transportista ČD, a. s., de fecha 20. 05. 2011, las puertas de los coches de la serie Bmto se están equipando progresivamente con un dispositivo que impide el cierre automático de las puertas si en su espacio se encuentra un obstáculo.
 
-
 ## Página 25
+
 
 ## 6 RECOMENDACIONES DE SEGURIDAD
 La Inspección Ferroviaria, como organismo competente en la materia según la disposición del § 53b apartado 5 de la ley núm. 266/1994 Sb., sobre la base de los resultados de la investigación de las causas y circunstancias del suceso excepcional, con el fin de reducir la probabilidad de la ocurrencia de sucesos excepcionales similares, recomienda:
@@ -643,19 +620,19 @@ Director
 de la Inspección Territorial de Brno
 de la Inspección Territorial de Brno
 
-
 ## Página 26
+
 
 ## 7 ANEXOS
 Foto 1: Andén en el 2.º TK en la parada de Sázavka
 Foto 2: Coche de la serie Bmto
 
-
 ## Página 27
+
 
 Foto 3: Puertas del coche de la serie Bmto y sus elementos de mando
 
-
 ## Página 28
+
 
 Foto 4: Cierre manual de las puertas con la manivela

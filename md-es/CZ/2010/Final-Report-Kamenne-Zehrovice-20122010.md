@@ -10,13 +10,14 @@ chars: 154942
 ratio_longitud: 1.28
 tokens_in: 83295
 tokens_out: 56218
-verificacion: revisar
-notas_cifras: ["bloque 2: original bilingüe: se compara contra el idioma principal (PT)", "bloque 6: original bilingüe: se compara contra el idioma principal (CS)", "bloque 7: original bilingüe: se compara contra el idioma principal (CS)", "bloque 8: original bilingüe: se compara contra el idioma principal (CS)", "bloque 9: original bilingüe: se compara contra el idioma principal (CS)", "bloque 10: original bilingüe: se compara contra el idioma principal (CS)"]
-avisos: ["bloque 7: ratio 2.21", "bloque 8: ratio 1.75", "bloque 9: ratio 1.61", "bloque 17: ratio 1.93"]
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (PT)", "página 6: original bilingüe: se compara contra el idioma principal (EN)", "página 7: original bilingüe: se compara contra el idioma principal (PT)", "página 8: original bilingüe: se compara contra el idioma principal (CS)", "página 12: original bilingüe: se compara contra el idioma principal (CS)", "página 13: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 Inspección Ferroviaria
 República Checa
@@ -41,11 +42,12 @@ NIF:   75009561
 http://www.dicr.cz
 fax: (+420) 224 805 428
 
-
 ## Página 2
 
 
+
 ## Página 3
+
 
 # RESUMEN
 Grado:
@@ -92,8 +94,8 @@ Clase 914 (coche de conducción):
 1. Se recomienda modificar el acceso a la cabina del maquinista y a la primera
 fila de asientos con el fin de garantizar que:
 
-
 ## Página 4
+
 
 el mando del freno de mano con su soporte desplazado hacia atrás por los
 ●
@@ -129,12 +131,13 @@ apartado 2 de la Ley n.º 266/1994 Coll. en relación con el estado actual de lo
 vehículos mencionados
 Por la traducción al inglés es responsable: Ing. Michal Miklenda
 
-
 ## Página 5
+
 
 Este informe final es público y todos los documentos y hechos están respaldados por el expediente de investigación.
 
 ## Página 6
+
 
 # Índice
  Resumen .............................................................................................................................3
@@ -163,8 +166,8 @@ rescate y del servicio de rescate ..............................................
 3.1 Resumen de las declaraciones prestadas (sujeto a protección de la identidad de las personas) ................................20
 3.1.1 Empleados del gestor de la infraestructura y del transportista, incluidas personas en relación contractual ...............................................................................................................20
 
-
 ## Página 7
+
 
 3.1.2 Otras personas .........................................................................................................25
 3.2 Sistema de garantía de la seguridad ...............................................................................25
@@ -198,6 +201,7 @@ rescate y del servicio de rescate ..............................................
 
 ## Página 8
 
+
 ocurrencias excepcionales y actividades de los servicios de rescate ..........................................44
 4.3 Conclusiones .......................................................................................................................45
 4.3.1 Causas inmediatas de la ocurrencia excepcional, incluidos los factores que contribuyeron a la misma y que estuvieron relacionados con la actuación de las personas implicadas o con el estado de los vehículos ferroviarios o de las instalaciones técnicas ....................................................................45
@@ -212,11 +216,12 @@ ocurrencias excepcionales y actividades de los servicios de rescate ............
  Anexo 1: Documentación fotográfica .........................................................................................48
  Anexo 2: Análisis de las deficiencias de seguridad detectadas en los elementos constructivos del interior de las unidades motoras de la serie 814/914 ..............................................................51
 
-
 ## Página 9
 
 
+
 ## Página 10
+
 
 ## Lista de siglas y símbolos utilizados
 ARR
@@ -303,8 +308,8 @@ decreto n.º 177/1995 Sb., por el que se aprueba el reglamento de construcción 
 decreto n.º 376/2006 Sb.
 decreto n.º 376/2006 Sb., sobre el sistema de seguridad de la explotación de la vía y del transporte ferroviario y los procedimientos en caso de ocurrencias excepcionales en las vías ferroviarias, en su versión vigente
 
-
 ## Página 11
+
 
 ley n.º 266/1994 Sb.
 ley n.º 266/1994 Sb., de vías ferroviarias, en su versión vigente
@@ -313,8 +318,8 @@ documentación básica de tráfico
 žst.
 estación ferroviaria
 
-
 ## Página 12
+
 
 ## 1 RESUMEN
 Grupo de la ocurrencia:
@@ -348,6 +353,7 @@ del freno manual hacia el espacio de las puertas de entrada, no se impida al maq
 
 ## Página 13
 
+
 al maquinista abandonar el puesto no impidió la presencia de personas o, en su caso, el depósito de
 •
 equipaje en el espacio crítico de apertura de las puertas, y a la vez la apertura de dichas puertas
@@ -376,8 +382,8 @@ ley núm. 266/1994 Sb.;
 2) Si el estado actual de los DV mencionados no requiere medidas en el sentido de lo dispuesto
 en el § 44 apartado 2 de la ley núm. 266/1994 Sb.
 
-
 ## Página 14
+
 
 ## 2 DATOS RELATIVOS AL SUCESO EXTRAORDINARIO
 ## 2.1
@@ -406,44 +412,22 @@ tras el regreso del HDV a la 1.ª VE, realizó su desacoplamiento con el TDV. Ad
 que durante la marcha de la maniobra por la 1.ª VE hacia el enclavamiento 1, la maniobra se
 detendría a la altura de la aguja de vía Vk 3, que el
 
-
 ## Página 15
 
-jefe de maniobras desbloquearía y bajaría para la siguiente maniobra prevista. La maniobra se
-desplazó en dirección al enclavamiento 1 hasta la altura de la aguja de vía Vk 3. Tras su
-cambio de posición, la maniobra continuó su marcha por la 1.ª VE en dirección al
-enclavamiento 1 y se detuvo a la altura de la aguja n.º 7, ya que en el semáforo desde la 1.ª VE
-Figura 2: croquis del lugar del SE
-la señal era «Alto». El jefe de maniobras aprovechó la espera de la autorización para la
-siguiente maniobra para limpiar la aguja n.º 7 de la nieve.
-Durante esta maniobra, la jefa de estación de la est. Kamenné Žehrovice recibió desde la est.
-Kladno el tren Os 19702 y, a continuación, el tren Os 19707 desde la est. Stochov. Después, la
-jefa de estación ordenó a los operadores de los enclavamientos 1 y 2 la preparación de la ruta
-de tren para el tren Os 19702 en la 1.ª VE y para el tren Os 19707 en la 3.ª VE. Los
-operadores establecieron dichas rutas de tren.
-El maquinista del tren Os 19702 entró en la est. Kamenné Žehrovice con la señal «Aviso» en el
-semáforo de entrada L y, durante la marcha por la 1.ª VE, observó en dicha vía la maniobra
-detenida. Inmediatamente aplicó el frenado de acción rápida y abandonó el puesto del
-maquinista. Así redujo la velocidad del tren Os 19702, pero con esta medida ya no pudo evitar la
-colisión con la maniobra.
-La jefa de estación comunicó inmediatamente la colisión del tren con el DV al jefe de
-maniobras por radio para que llamara al RZZS. La jefa de estación actuó conforme al plan de
-notificación, notificó la ocurrencia del SE y activó el IZS.
-En el lugar del SE se constató:
-El tren Os 19702 del transportista ČD estaba detenido en la 1.ª VE con el frente a
-aproximadamente 1 m del frente del HDV de la maniobra del transportista ČDC. El coche de
-mando CZ-ČD 95 54 5 914.057-5, enganchado como primer DV del tren Os 19702 en el sentido de
-la marcha, presentaba daños extensos en el frente del DV, los topes embutidos en el frontal
-hasta debajo del puesto del maquinista y el interior considerablemente dañado. En el coche
-motor CZ-ČD 95 54 5 814.057-6, enganchado como segundo DV, se produjeron daños menores en
-el interior.
-El HDV 751.236-1 al frente de la maniobra del transportista ČDC tenía dañados ambos
-topes, el laminado del frontal agrietado y la caja de enganche dañada, incluido el gancho de
-tracción. El TDV CZ-ČDC 31 54 5962 193-6 Eas-u no sufrió daños.
-El alcance total de los daños se determinó en el marco de las inspecciones comisionales
-realizadas. Ninguno de los DV implicados en el SE se descarriló durante la colisión.
+el jefe de maniobras desbloqueará y descubrirá para la siguiente maniobra prevista. La unidad de maniobras se desplazó hacia el aparato de enclavamiento 1 hasta el nivel del desvío de seguridad Vk 3. Tras su cambio de aguja, la unidad de maniobras continuó su marcha por la 1. SK hacia el aparato de enclavamiento 1 y se detuvo en el nivel del desvío n.º 7, ya que en el semáforo desde la 1. SK
+Imagen 2: boceto desde el lugar del MU
+la señal era «Alto». El jefe de maniobras aprovechó la espera de la autorización para la siguiente maniobra para limpiar el desvío n.º 7 de la nieve.
+Durante esta maniobra, la jefa de estación de la est. Kamenné Žehrovice recibió de la est. Kladno el tren Os 19702 y, a continuación, el tren Os 19707 de la est. Stochov. Después, la jefa de estación ordenó a los operadores de los aparatos de enclavamiento 1 y 2 la preparación de la vía de tren para el tren Os 19702 en la 1. SK y para el tren Os 19707 en la 3. SK. Los operadores establecieron estas vías de tren.
+El maquinista del tren Os 19702 entró en la est. Kamenné Žehrovice con la señal «Aviso» en el semáforo de entrada L y, al circular por la 1. SK, observó en esta vía la unidad de maniobras detenida. Inmediatamente aplicó el frenado de acción rápida y abandonó la cabina del maquinista. Así redujo la velocidad del tren Os 19702, pero con esta medida ya no pudo evitar la colisión con la unidad de maniobras.
+La jefa de estación informó inmediatamente al jefe de maniobras por radio del choque del tren con el DV, para que llamara a la RZZS. La jefa de estación actuó conforme al horario de avisos, notificó la ocurrencia del MU y activó el IZS.
+En el lugar del MU se constató:
+El tren Os 19702 del operador ČD estaba en la 1. SK con el frente a unos 1 m del extremo del HDV de la unidad de maniobras del operador ČDC. El coche de mando CZ-ČD 95 54 5 914.057-5, enganchado como primer DV del tren Os 19702 en el sentido de la marcha, presentaba daños extensos en el frente del DV, los enganches embutidos en el frontal hasta debajo de la cabina del maquinista y el interior considerablemente dañado. En el coche motor CZ-ČD 95 54 5 814.057-6, enganchado como segundo DV, se produjeron daños menores en el interior.
+El HDV 751.236-1 al frente de la unidad de maniobras del operador ČDC tenía dañados ambos enganches, la lámida del frontal agrietada y la caja de enganche dañada, incluido el gancho de tracción.
+Al TDV CZ-ČDC 31 54 5962 193-6 Eas-u no se le causaron daños.
+El alcance total de los daños se determinó en el marco de las inspecciones comisionales realizadas. Ninguno de los DV implicados en el MU se descarriló durante la colisión.
 
 ## Página 16
+
 
 2.1.3 Decisión de iniciar la investigación de las causas y circunstancias del suceso, composición del equipo de personas cualificadas y método de dirección de la investigación de las causas y circunstancias del suceso
 El SU fue notificado al COP DI Praga el 20. 12. 2010 a las 09:09 horas. Dadas las consecuencias del SU, en el que resultaron heridos 12 pasajeros, 2 empleados del transportista ČD y se produjo un daño considerable, este SU fue clasificado como accidente grave. La Inspección Ferroviaria inició la investigación de las causas y circunstancias del suceso del SU de conformidad con lo dispuesto en el apartado 1 del § 53b de la Ley núm. 266/1994 Sb. en el lugar del SU, la cual fue realizada por el inspector jefe de la ÚI Praga. El permiso para la eliminación de las consecuencias del SU fue emitido a las 11:00 horas del 20. 12. 2010.
@@ -466,8 +450,8 @@ El tren Os 19702 del transportista ČD estaba compuesto por el coche de mando CZ
 Longitud total del tren 28 m, 4 ejes, peso total del tren 47 t, porcentajes de frenado necesarios 64, porcentajes de frenado reales 102. El tren estaba frenado por el freno automático continuo en régimen P.
 La maniobra del transportista ČDC estaba compuesta por HDV 751.236-1 y el TDV cargado CZ-ČDC 31 54 5962 193-6 Eas. La maniobra estaba frenada por el freno automático continuo en régimen P.
 
-
 ## Página 17
+
 
 ### 2.2.3 Descripción de los componentes de la vía de circulación de la vía, del sistema de señalización (es decir, especialmente el estado de los raíles, agujas, puestos de enclavamiento, señales y del dispositivo de seguridad del tren)
 El SU se produjo en la vía ferroviaria, categoría de ámbito nacional, en la línea de vía única núm. 528B Praha Bubny – Rakovník, en la est. Kamenné Žehrovice en la 1.ª SK en el km 33,855.
@@ -485,21 +469,20 @@ St1
 Figura 3: situación general de la est. Kamenné Žehrovice (base cartográfica fuente: Mapový portal [en línea], c 2010 [cit. 2011-05-03], disponible en <http//www.mapy.cz>)
 El dispositivo de seguridad de estación en la est. Kamenné Žehrovice es de 2.ª categoría electromecánico tipo 5007 con un aparato de mando ubicado en la oficina de tráfico y dos aparatos dependientes de agujas ubicados en el puesto de enclavamiento 1 y el puesto de enclavamiento 2. El aparato de agujas
 
-
 ## Página 18
 
-del puesto de enclavamiento 1 está vinculado mediante enlaces de relé a las señales luminosas tipo AŽD 70 y a los accionadores eléctricos de agujas núm. 1, 2, 3. Los accionadores de agujas núm. 1, 2, 3 son eléctricos de la serie EP 600, el resto de agujas están dotadas de accionadores mecánicos. Las agujas en el ámbito del puesto de enclavamiento 2 están dotadas de accionadores eléctricos de la serie EP 600 y las señales son luminosas tipo AŽD 70. Los enlaces entre el aparato dependiente del puesto de enclavamiento 2 y el dispositivo de seguridad exterior son de relé tipo TEST. El dispositivo de seguridad de estación en la est. Kamenné Žehrovice no comprueba la libertad de la vía de circulación. Los tramos de línea adyacentes no están dotados de dispositivo de seguridad de línea, las circulaciones de trenes se aseguran mediante comunicación telefónica.
-Figura 4: aparato de mando de la est. Kamenné Žehrovice, estado en el momento de la investigación del SU
+El aparato de enclavamiento 1 está unido, mediante enlaces de relés, a las señales luminosas tipo AŽD 70 y a los motores de cambio de las agujas n.º 1, 2, 3. Los motores de cambio de las agujas n.º 1, 2, 3 son de la serie EP 600, el resto de agujas están dotadas de motores de cambio mecánicos. Las agujas del ámbito del enclavamiento 2 están dotadas de motores de cambio de la serie EP 600 y las señales son luminosas tipo AŽD 70. Los enlaces entre el aparato de enclavamiento dependiente del enclavamiento 2 y el equipo de seguridad exterior son de relés tipo TEST. El equipo de seguridad de la estación en la est. Kamenné Žehrovice no comprueba la libertad de la vía de circulación. Los tramos de línea adyacentes no están equipados con equipo de seguridad de línea, las circulaciones de los trenes se aseguran mediante comunicación telefónica.
+Ilustración 4: aparato de mando de la est. Kamenné Žehrovice, estado en el momento de la investigación del accidente ferroviario
 La est. Kamenné Žehrovice está dividida en tres ámbitos de comprobación de la libertad de la vía de circulación:
-• ámbito núm. 1, de los señaleros del puesto de enclavamiento 1 – desde la señal de entrada L hasta la línea imaginaria desde la aguja de desvío Vk 3 hasta la placa junto a la 15.ª SK, a la izquierda desde el inicio de la línea;
-• ámbito núm. 2, del jefe de estación – entre la línea imaginaria desde la aguja de desvío Vk 3 hasta la placa junto a la 15.ª SK, a la izquierda desde el inicio de la línea, y la línea imaginaria determinada por las señales L2, L1, L3, L5, L7, L9, L11, L13, L15;
-• ámbito núm. 3, de los señaleros del puesto de enclavamiento 2 – desde la línea imaginaria determinada por las señales L2, L1, L3, L5, L7, L9, L11, L13, L15 hasta la señal de entrada S.
-No se encontró la placa que delimita el límite de los ámbitos núm. 1 y núm. 2 junto a la 15.ª SK.
-La comprobación de la libertad de la vía de circulación en la est. se realiza visualmente. Como tramos no visibles desde el punto de vista de la comprobación de la libertad de la vía de circulación se indican en el ZDD las cabeceras de la est. junto con la delimitación de las condiciones bajo las que se pueden considerar libres.
-La visibilidad del señalero desde el puesto de enclavamiento 1 y del jefe de estación desde la oficina de tráfico hacia la parte contigua de su ámbito de responsabilidad núm. 1 y núm. 2 estaba limitada en el momento de la producción del SU por los DV estacionados a largo plazo en la 7.ª SK.
-
+- ámbito n.º 1, de los señaleros del enclavamiento 1 – desde la señal de entrada L hasta la línea imaginaria que va desde el desvío Vk 3 hasta la placa u 15. SK, a la izquierda del inicio de la línea;
+- ámbito n.º 2, del jefe de estación – entre la línea imaginaria que va desde el desvío Vk 3 hasta la placa u 15. SK, a la izquierda del inicio de la línea, y la línea imaginaria determinada por las señales L2, L1, L3, L5, L7, L9, L11, L13, L15;
+- ámbito n.º 3, de los señaleros del enclavamiento 2 – desde la línea imaginaria determinada por las señales L2, L1, L3, L5, L7, L9, L11, L13, L15 hasta la señal de entrada S.
+No se encontró la placa que delimita la frontera de los ámbitos n.º 1 y n.º 2 en u 15. SK.
+La comprobación de la libertad de la vía de circulación en la est. se realiza visualmente. Como tramos no visibles desde el punto de vista de la comprobación de la libertad de la vía de circulación se indican en el ZDD las cabeceras de la est., junto con la delimitación de las condiciones bajo las cuales pueden considerarse libres.
+La visibilidad del señalero desde el enclavamiento 1 y del jefe de estación desde la oficina de tráfico hacia la parte contigua de sus ámbitos de responsabilidad n.º 1 y n.º 2 se encontraba, en el momento del accidente ferroviario, limitada por vehículos de servicio (DV) retirados de forma prolongada en u 7. SK.
 
 ## Página 19
+
 
       Figura 5: esquema de división de los ámbitos de responsabilidad en la preparación de las vías de circulación
 La est. Kamenné Žehrovice está dividida en dos ámbitos de maniobra.
@@ -507,6 +490,7 @@ El ámbito del señalero del puesto de enclavamiento 1 está delimitado por la s
 El ámbito del señalero del puesto de enclavamiento 2 está delimitado por la perpendicular a los raíles en el nivel de las puntas de la lengüeta de la aguja núm. 7 y la señal de entrada S.
 
 ## Página 20
+
 
       Figura 6: esquema de los circuitos de maniobras
 ### 2.2.4 Uso de los medios de comunicación
@@ -520,8 +504,8 @@ La EM fue notificada al COP DI a las 09:09 horas. Al lugar de la EM acudieron la
 Con la presencia del VI DI se realizó la inspección comisionada del lugar de la EM, incluida la elaboración del acta.
 Tras la inspección del lugar de la aparición de la EM por parte de la PČR, de los empleados de la RIBŽD Praga y del VI DI presente
 
-
 ## Página 21
+
 
 a las 11:00 horas se concedió al DI el permiso para iniciar los trabajos de despeje.
 El tráfico ferroviario entre la est. Kladno y la est. Stochov estuvo interrumpido desde las 08:56 horas del día 20. 12. 2010 hasta las 11:02 horas.
@@ -569,8 +553,8 @@ vía cubierta por una capa continua de nieve de 10 – 15 cm de altura;
 coordenadas GPS del lugar de la EM: 50°8'20.439"N, 14°2'37.463"E. 
 •
 
-
 ## Página 22
+
 
 ## 3 REGISTRO DE LAS EXPLICACIONES PRESENTADAS
 ## 3.1
@@ -594,92 +578,91 @@ Jefe de estación de la est. Kamenné Žehrovice – del Acta con el empleado se
 
 ## Página 23
 
-primera vía, hasta que se le permita realizar el maniobrado;
-• llamó al operador de la instalación de enclavamiento 1 para preguntarle por qué no maniobraba desde la primera vía, a lo que este no pudo responderle.
-De las respuestas a las consultas individuales se desprende:
-– los operadores de la instalación de enclavamiento le repitieron el «procedimiento ordenado» de trabajo para el maniobrado;
-• la libertad de la vía la comprobaba a la altura de la puerta de la oficina de tráfico junto a la primera vía; desde ese lugar no veía todo el tramo de la primera vía situado en su ámbito, porque en las vías n.º 7 y 9 hay estacionados vagones de reparación, se encuentra en una curva y desde el inicio del ámbito de libertad hacia el desvío Vk 3 no se ve;
-– a la consulta de si veía que todo el tramo de vía en su ámbito estaba libre, respondió: «sí»;
-– utilizó los medios de recordatorio, pero antes de preparar la vía de tren los retiró tras preguntar al operador de la instalación de enclavamiento 1 si la unidad de maniobras estaba en la segunda vía, y le advirtió que la dejara allí, a lo que él respondió «de acuerdo».
-Operador de la instalación de enclavamiento 1 de la est. Kamenné Žehrovice – del Acta con el empleado se desprende, entre otras cosas:
-• a las 08:30 la jefa de estación ordenó la preparación de la vía de tren para el tren Mn 85430 en la primera vía e informó de que llamaría de nuevo para dar instrucciones para la realización de la maniobra;
-• inmediatamente después de la llegada del tren Mn 85430 se fue un momento al vestuario y en ese instante sonó el teléfono; cuando corrió al teléfono y lo cogió, la jefa de estación ya estaba hablando con el operador de la instalación de enclavamiento 2;
-• de la conversación entendió que se maniobraría en el ámbito de libertad de la instalación de enclavamiento 2 desde la primera vía a la segunda vía, allí se dejaría el vagón y a través de la primera vía se maniobraría hacia el ámbito de la instalación de enclavamiento 1, a través del ámbito de la instalación de enclavamiento 1 a la segunda vía;
-• la «locomotora» llegó por la segunda vía, por lo que llamó a la jefa de estación y le preguntó qué hacía esa locomotora en la segunda vía; la jefa de estación respondió: «despierta, chaval», y que la «locomotora» iría de la segunda vía a la primera en el ámbito de la instalación de enclavamiento 1 y de la primera vía a la segunda a través del ámbito de la instalación de enclavamiento 2;
+primera vía, hasta que se le permita el maniobrar;
+• llamó al operador de la estación de enclavamiento 1 para preguntarle por qué no maniobraba desde la primera vía, a lo que este no pudo responderle.
+De las respuestas a las consultas individuales se desprendió:
+– los operadores de estación le repitieron el procedimiento de trabajo «indicado» para el maniobrar;
+– la libertad de la vía la comprobó a la altura de la puerta de la oficina de tráfico junto a la primera vía; desde ese lugar no veía todo el tramo de la primera vía situado dentro de su ámbito, porque en las vías n.º 7 y 9 hay estacionados vagones de reparación, está en una curva y al principio del ámbito de libertad hacia el desvío Vk 3 no se ve;
+– a la consulta posterior de si vio que todo el tramo de vía dentro de su ámbito estaba libre, respondió: «sí»;
+– utilizó ayudas mnemotécnicas, pero antes de preparar la vía de tren las retiró después de preguntar al operador de la estación de enclavamiento 1 si la unidad de maniobras estaba en la segunda vía, y le advirtió que la dejara allí, a lo que él respondió «en orden».
+Operador de la estación de enclavamiento 1 de la est. Kamenné Žehrovice – del Registro con el empleado se desprende, entre otras cosas:
+• a las 08:30 la jefa de estación ordenó la preparación de la vía de tren para el tren Mn 85430 en la primera vía e informó de que aún llamaría y daría instrucciones para ejecutar la maniobra;
+• inmediatamente después de la llegada del tren Mn 85430 se fue un momento al vestuario y en ese instante sonó el teléfono; cuando corrió al teléfono y lo cogió, la jefa de estación ya hablaba con el operador de la estación de enclavamiento 2;
+• de la conversación entendió que se maniobraría dentro del ámbito de libertad de la estación de enclavamiento 2 desde la primera vía a la segunda vía, allí se dejaría el vagón y a través de la primera vía se maniobraría hacia el ámbito de la estación de enclavamiento 1, a través del ámbito de la estación de enclavamiento 1 a la segunda vía;
+• la «máquina» llegó por la segunda vía, por lo que llamó a la jefa de estación y preguntó qué hacía esa máquina en la segunda vía; la jefa de estación respondió: «despierta, chaval» y que la «máquina» iría de la segunda vía a la primera dentro del ámbito de la estación de enclavamiento 1 y de la primera vía a la segunda a través del ámbito de la estación de enclavamiento 2;
 • con esto entendió que el vagón estaba en la primera vía y no en la segunda;
-• cuando la «locomotora» pasaba por el desvío n.º 7 en la primera vía, llamó a la jefa de estación para decirle que la maniobra de la «locomotora» discurría por la primera vía;
+• cuando la «máquina» pasaba por el desvío n.º 7 en la primera vía, llamó a la jefa de estación para decirle que la maniobra «máquina» circulaba por la primera vía;
 • unos diez minutos después la jefa de estación «llamó» y ordenó la preparación de la vía de tren para los trenes Os 19702 en la primera vía y Os 19707 en la tercera vía;
 • repitió el tren Os 19702 en la primera vía y dio la libertad en la tercera vía para el tren Os 19707;
-• la jefa de estación le «enclavó en la primera vía» y él preparó la vía de tren, cerró el enclavamiento de los desvíos y puso la señal de entrada en verde;
-• cuando el tren Os 19702 entró en la primera vía en su ámbito de libertad, dio la preanunciación, comprobó el final del tren y cerró tras el tren. La jefa de estación le liberó el enclavamiento de los desvíos y él puso la llave del enclavador de vía en la posición básica;
-• después oyó un golpe y, al mirar en esa dirección, vio «media parte de un tren de pasajeros» allí parada. Llamó de inmediato a la jefa de estación y le preguntó qué había pasado. Ella cogió el teléfono pero no habló con él en absoluto, así que la llamó de nuevo y empezaron a discutir sobre la maniobra;
+• la jefa de estación le «enclavó en la primera vía» y él preparó la vía de tren, cerró el enclavamiento de agujas y puso la señal de entrada en libre;
+• cuando el tren Os 19702 entró por la primera vía en su ámbito de libertad, dio la preanunciación, comprobó el final del tren y cerró detrás del tren. La jefa de estación le liberó el enclavamiento de agujas y él puso la llave del cerrón de vía en la posición básica;
+• después oyó un golpe y, cuando miró en esa dirección, vio «media unidad de viajeros» allí parada. Llamó de inmediato a la jefa de estación y preguntó qué había pasado. Ella cogió el teléfono pero en absoluto habló con él, así que la llamó de nuevo y empezaron a discutir sobre la maniobra;
 • después la jefa de estación ordenó la preparación de la vía de tren para el tren Os 19707 desde la tercera vía.
-De las respuestas a las consultas individuales se desprende:
-– la libertad de la vía de tren la comprobó visualmente desde la instalación de enclavamiento; no vio nada en las vías de tren;
-
+De las respuestas a las consultas individuales se desprendió:
+– la libertad de la vía de tren la comprobó visualmente desde la estación de enclavamiento; en las vías de tren no vio nada;
 
 ## Página 24
 
-– no vio todo el tramo de la primera vía situado en el ámbito de responsabilidad que le correspondía, porque en las vías n.º 7 y 9 estaban estacionados vagones de reparación, se encuentra en una curva y al final del ámbito de libertad hacia el desvío Vk 3 no se ve;
-– no utilizó los medios de recordatorio, porque pensaba que el vagón estaba delante del tráfico en la primera vía y que por la primera vía circularía la «locomotora» y desde la instalación de enclavamiento 2 iría a la vía n.º 2;
-– de la jefa de estación no recibió información de qué hora a qué hora duraría la maniobra prevista ni dónde finalizaría; antes de preparar la vía de tren no le comunicó dónde y cómo se había finalizado la maniobra;
-– la jefa de estación no le hizo repetir a él ni al operador de la instalación de enclavamiento 2 el procedimiento dado para la maniobra realizada y colgó el teléfono.
+– no vio todo el tramo de la primera vía que se encuentra dentro del ámbito de responsabilidad que le corresponde, porque en las vías n.º 7 y 9 estaban estacionados vagones de reparación, se encuentra en una curva y al final del ámbito de libertad hacia el desvío Vk 3 no se ve;
+– no utilizó las ayudas de memoria, porque pensaba que el vagón estaba delante del tráfico en la primera vía y por la primera vía circularía la "locomotora" y desde el enclavamiento 2 circularía hacia la vía número dos;
+– no recibió información del jefe de estación sobre de qué hora a qué hora duraría la maniobra prevista y dónde terminaría, antes de preparar la vía de tren no le comunicó dónde y cómo había terminado la maniobra;
+– el jefe de estación no le hizo repetir a él ni al operador del enclavamiento 2 el procedimiento dado para la maniobra en curso y colgó el teléfono.
         De las respuestas a las preguntas individuales en el Acta complementaria con el empleado se desprende:
-– no acordaron con el operador de la instalación de enclavamiento 2 la circulación de la unidad de maniobras entre sus ámbitos de maniobra; se guió únicamente por las instrucciones de la jefa de estación, este procedimiento no era de uso habitual;
-– durante la maniobra no se comunicó con ningún empleado del transportista ČDC;
-– la maniobra del propio HDV al rodear el vagón fue sin acompañamiento.
-Operador de la instalación de enclavamiento 2 de la est. Kamenné Žehrovice – del Acta con el empleado se desprende, entre otras cosas:
-• tras la parada del tren Mn 85430, la jefa de estación ordenó la maniobra de la locomotora desde la primera vía para rodear por la segunda vía, a continuación maniobrar la locomotora a la primera vía hasta el vagón y maniobrar la unidad de maniobras desde la instalación de enclavamiento 1 a la segunda vía;
-• la locomotora, según la orden, rodeó por la segunda vía y desde la instalación de enclavamiento 1 se maniobró hasta el vagón en la primera vía;
-• después vio cómo la unidad de maniobras partía por la primera vía hacia la instalación de enclavamiento 1;
-• unos 15 minutos después la jefa de estación ordenó la colocación de la vía de tren para los trenes Os 19702 en la primera vía y Os 19717 en la tercera vía;
-• el operador de la instalación de enclavamiento 1 confirmó las órdenes y dio la libertad en la tercera vía para el tren Os 19717;
+– la circulación de la unidad de maniobra entre sus ámbitos de maniobra no la acordaron con el operador del enclavamiento 2, se guió únicamente por las instrucciones del jefe de estación, este procedimiento no era de uso habitual;
+– durante la maniobra no se comunicó con ninguno de los empleados del operador ČDC;
+– la maniobra de la propia HDV al rodear el vagón fue sin acompañamiento.
+Operador del enclavamiento 2 est. Kamenné Žehrovice – del Acta con el empleado, entre otras cosas, se desprende:
+• tras la parada del tren Mn 85430, el jefe de estación ordenó maniobrar la locomotora desde la primera vía rodeando por la vía segunda, a continuación trasladar la locomotora a la primera vía hasta el vagón y trasladar la unidad de maniobra desde el enclavamiento 1 a la vía segunda;
+• la locomotora, según la orden, rodeó por la vía segunda y desde el enclavamiento 1 se trasladó hasta el vagón en la primera vía;
+• a continuación vio cómo la unidad de maniobra partía por la primera vía hacia el enclavamiento 1;
+• unos 15 minutos después, el jefe de estación ordenó establecer la vía de tren para los trenes Os 19702 a la primera vía y Os 19717 a la vía tercera;
+• el operador del enclavamiento 1 confirmó las órdenes y dio libertad a la vía tercera para el tren Os 19717;
 (nota del redactor: se trataba del tren 19707)
-• sobre la finalización de la maniobra de la unidad de maniobras no hablaron más.
+• sobre la finalización de la maniobra de la unidad de maniobra no volvieron a hablar.
 De las respuestas a las preguntas individuales en el Acta complementaria con el empleado se desprende:
-– la jefa de estación informó a los operadores del modo de realización de la maniobra ya en el aviso de tráfico excepcional, donde introducía la circulación del tren Mn 85430, con la advertencia de que el procedimiento aún se precisaría;
-– el operador de la instalación de enclavamiento 1 estuvo presente en este aviso;
-– al operador de la instalación de enclavamiento 1 le comunicó la circulación del propio HDV por la 2.ª vía de servicio mediante el teléfono de servicio (la llamada «báza»), este modo es de uso habitual;
-– durante la maniobra no se comunicó con ningún empleado del transportista ČDC;
-– la maniobra del propio HDV al rodear el vagón fue sin acompañamiento.
-Jefe de maniobras de la unidad de maniobras ČDC – del Acta con el empleado se desprende, entre otras cosas:
+– el jefe de estación informó a los operadores del enclavamiento sobre la forma de ejecutar la maniobra ya en el aviso de tráfico excepcional, donde introducía la circulación del tren Mn 85430, con el añadido de que el procedimiento aún lo precisaría;
+– el operador del enclavamiento 1 estuvo presente en este aviso;
+– al operador del enclavamiento 1 le comunicó la circulación de la propia HDV por la 2. SK mediante el teléfono profesional (la llamada "base"), este método es de uso habitual;
+– durante la maniobra no se comunicó con ninguno de los empleados del operador ČDC;
+– la maniobra de la propia HDV al rodear el vagón fue sin acompañamiento.
+Jefe de maniobra de la unidad de maniobra ČDC – del Acta con el empleado, entre otras cosas, se desprende:
 • llegaron a la est. Kamenné Žehrovice con el tren Mn 85431 con un vagón en la primera vía;
 (nota del redactor: se trataba del tren 85430)
 • se fue a la oficina de tráfico y acordó la maniobra desde la primera vía a la segunda y a continuación desde la segunda vía a la primera – rodearon el vagón;
-• tras desenganchar el HDV del vagón, fue a la oficina de tráfico a acordar el procedimiento siguiente;
-• con la jefa de estación acordaron que la maniobra sería desde la primera vía a la cuarta desde la instalación de enclavamiento 1 y aún se
+• tras acoplar la HDV con el vagón, se fue a la oficina de tráfico a acordar el procedimiento posterior;
+• con el jefe de estación acordaron que la maniobra sería desde la primera vía a la cuarta desde el enclavamiento 1 y aún se
 
 ## Página 25
 
-acordó que, al circular por la primera vía, se detendría en el desvío manual y que éste le llamaría desde allí para que le autorizara la llave del desvío manual con cerradura electromagnética;
-• tras desbloquear y bajar el desvío manual, avanzó hasta la aguja, que estaba nevada, por lo que quiso barrerla y a continuación maniobrarla para continuar con el maniobrado desde la primera vía a la cuarta, pero en el semáforo de la primera vía había la señal «Alto», así que se dedicó a limpiar la aguja;
-• al rato se volvió y vio cómo el tren de pasajeros chocaba con la unidad de maniobrado;
+acordó que, durante la circulación por la primera vía, se detendría en el desvío de aguja y que éste le llamaría desde allí para que le autorizara la llave del desvío con cerradura electromagnética;
+• tras desbloquear y rebajar el desvío, avanzó hasta la aguja, que estaba nevada, por lo que quiso despejarla y a continuación maniobrarla para continuar con la maniobra desde la primera vía a la cuarta, pero en el semáforo de la primera vía había la señal «Alto», por lo que siguió dedicándose a limpiar la aguja;
+• tras un momento miró hacia atrás y vio cómo el tren de pasajeros chocaba con la unidad de maniobras;
 • llamó a la oficina de tráfico para que el jefe de estación llamara a la ambulancia.
         Del Registro Oficial de la explicación prestada se desprende además:
-• durante el rodeo del HDV, este maniobrado iba acompañado;
-• del maniobrado solo se entendía con el jefe de estación, los operadores de señalización solo le daban las señales.
-Maquinista de la unidad de maniobrado ČDC – del Acta con el empleado se desprende, entre otras cosas:
-• a la llegada del tren de maniobrado a la est. Kamenné Žehrovice a la primera vía, el jefe de maniobrado le informó del maniobrado;
-• debían rodear el vagón por la segunda vía de estación de vuelta a la primera vía, luego debían maniobrar el vagón desde el enclavador 1 a la cuarta vía;
-• en la primera vía avanzaron hasta el desvío manual de la cuarta vía, al que fue el jefe de maniobrado a limpiar y bajar;
-• después avanzaron hasta la aguja y allí limpió (nota del redactor: el jefe de maniobrado) la aguja de la cuarta vía, durante todo el tiempo había en el semáforo de la primera vía la señal «Alto»;
-• mientras esperaba, escribía la documentación del tren, de repente vio a muy corta distancia cómo le venía un coche motor;
-• se produció el impacto, la colisión la comunicó el jefe de maniobrado al jefe de estación por radio.
+• durante el rodeo del HDV, esta maniobra iba acompañada;
+• sobre la maniobra solo discutía con el jefe de estación, los operadores de señalización solo le daban las señales.
+Maquinista de la unidad de maniobras de ČDC – del Acta con el empleado se desprende, entre otras cosas:
+• a la llegada del tren de maniobras a la est. Kamenné Žehrovice a la primera vía, el jefe de maniobras le informó de la maniobra;
+• debían rodear el vagón por la segunda vía de estación de vuelta a la primera vía, y luego debían maniobrar el vagón desde el puesto de enclavamiento 1 a la cuarta vía;
+• a continuación avanzaron por la primera vía hasta el desvío de la cuarta vía, al que fue el jefe de maniobras a limpiar y rebajar;
+• después avanzaron hasta la aguja y allí limpió (nota del redactor: el jefe de maniobras) la aguja de la cuarta vía, durante todo el tiempo había en el semáforo de la primera vía la señal «Alto»;
+• mientras esperaba, escribía la documentación del tren; de repente vio a muy corta distancia que le venía encima un coche motor;
+• se produció el impacto, la colisión la comunicó el jefe de maniobras al jefe de estación por radio.
 De las respuestas a las preguntas individuales en el Acta complementaria con el empleado se desprende:
-– el maniobrado con HDV independiente iba acompañado, el jefe de maniobrado estaba en la cabina del maquinista;
-– durante el maniobrado se comunicó únicamente con el jefe de maniobrado, las instrucciones de él las recibía verbalmente;
-– durante el desplazamiento de la unidad de maniobrado desde la oficina de tráfico hasta el punto Vk 3, el jefe de maniobrado estaba en la cabina del maquinista.
+– la maniobra con HDV autónomo iba acompañada, el jefe de maniobras estaba en la cabina del maquinista;
+– durante la maniobra solo se comunicaba con el jefe de maniobras, las instrucciones de éste las recibía verbalmente;
+– durante el desplazamiento de la unidad de maniobras desde la oficina de tráfico hasta el punto Vk 3, el jefe de maniobras estaba en la cabina del maquinista.
 Maquinista del tren Os 19702 – del Acta con el empleado se desprende, entre otras cosas:
-• durante la circulación del tren Os 19702 vio en el preseñalizador «PřL» antes de la est. Kamenné Žehrovice la señal «Aviso», por lo que reducía la velocidad para poder, en su caso, detenerse antes del semáforo de entrada «L» que prohíbe la circulación;
+• durante la circulación del tren Os 19702 vio en el preseñal «PřL» antes de la est. Kamenné Žehrovice la señal «Aviso», por lo que reducía la velocidad para poder, en su caso, detenerse antes del semáforo de entrada «L» que prohíbe la circulación;
 • tras ver el semáforo «L» con la señal «Aviso», volvió a aumentar la velocidad;
-• pasó junto al semáforo de la primera vía, en el enclavador 1 no divisó a ningún empleado, más adelante en la estación, en la curva, vio una locomotora con un vagón detenidos, pero debido a la curva y a las vías nevadas no era apreciable en qué vía estaban;
-• al principio de la curva se dio cuenta de que la locomotora estaba en la primera vía, e inmediatamente aplicó el freno rápido;
-• cuando reconoció que la colisión era inevitable, abandonó la cabina y llegó a avisar a 3 viajeros del primer compartimento situado detrás de la cabina antes del impacto;
+• pasó junto al semáforo de la primera vía, en el puesto de enclavamiento 1 no divisó a ningún empleado, más adelante en la estación, en la curva, vio una locomotora parada con un vagón, pero debido a la curva y a las vías nevadas no era evidente en qué vía estaba parada;
+• al principio de la curva se dio cuenta de que la locomotora estaba parada en la primera vía e inmediatamente aplicó el freno de emergencia;
+• cuando reconoció que la colisión era inevitable, abandonó la cabina y llegó a avisar a 3 viajeros del compartimento delantero situado detrás de la cabina antes del impacto;
 • se arrodilló detrás del asiento y a continuación se produjo el impacto, en el convoy se desató el pánico, ya que resultaron heridos todos los viajeros;
-• quiso llamar al jefe de estación de la est. Kamenné Žehrovice, pero el maniobrador que estaba presente en el exterior del accidente
-
+• quiso llamar al jefe de estación de la est. Kamenné Žehrovice, pero el maniobrador que estaba fuera del lugar del accidente
 
 ## Página 26
+
 
 le comunicó que ya había llamado;
 • el personal del tren comenzó a prestar primeros auxilios y en 10 minutos llegaron la Policía Nacional (PČR), las ambulancias y el helicóptero.
@@ -705,23 +688,23 @@ Sobre la base de otros hechos constatados, el DI constata que el explotador de l
 
 ## Página 27
 
-La disposición del § 35 apartado 2 letra f) de la Ley núm. 266/1994 Sb. impone a los transportistas implantar un sistema de seguridad en la explotación del transporte ferroviario y garantizar su cumplimiento. La investigación determinó que los transportistas participantes en el MU cuentan con dicho sistema implantado y han emitido, entre otros, normas internas que incluyen procedimientos tecnológicos mediante los que se garantizan las actividades establecidas por las reglas para la explotación del transporte ferroviario, en el presente caso especialmente para la conducción de vehículos ferroviarios.
-Sobre la base de otros hechos constatados, el DI constata que el transportista del tren Mn 85430, a continuación el del tramo de maniobras y el transportista del tren Os 19702 no garantizaron el cumplimiento de los mencionados procedimientos tecnológicos y, con ello, tampoco del sistema implantado de seguridad en la explotación del transporte ferroviario.
-### Se detectó una anomalía.
-### 3.2.2 Requisitos de los empleados del gestor de la infraestructura y del transportista y su aplicación
-El requisito de la cualificación profesional de las personas que garantizan la explotación de la infraestructura lo establece la disposición del § 22 apartado 1 letra c) de la Ley núm. 266/1994 Sb.; para las personas que conducen o participan en la conducción del transporte ferroviario, este requisito lo establece también la disposición del § 14 apartado 4 del decreto núm. 173/1995 Sb.
-La cualificación profesional, con base en las disposiciones legales anteriores, la estableció el gestor de la infraestructura para las personas que conducen o participan en la conducción del transporte ferroviario, en la clasificación laboral (profesión) de jefe de estación y señalero, en la norma interna SŽDC Zam 1 – Norma sobre la cualificación profesional de los empleados de la Administración de la Infraestructura Ferroviaria, organización estatal, aprobada por decisión del director general de SŽDC de fecha 30. 06. 2008, ref. núm.: 23 138/08 OKS, en vigor desde el 1 de julio de 2008.
-La cualificación profesional establecida por el gestor de la infraestructura fue verificada en las personas participantes en el MU mediante la realización de una inspección estatal en materia de ferrocarriles, efectuada en PO Kladno DI el 26. 01. 2011. Según la documentación presentada, el jefe de estación y los señaleros de los aparatos de enclavamiento 1 y 2 de la est. Kamenné Žehrovice eran profesionalmente cualificados para las actividades laborales desempeñadas.
-### No se detectaron anomalías.
-         El requisito de la cualificación profesional de las personas participantes en la explotación del transporte ferroviario lo establece la disposición del § 35 apartado 1 letra f) de la Ley núm. 266/1994 Sb. y el § 33 apartados 1 y 2 del decreto núm. 173/1995 Sb.
-         Las condiciones de edad, formación y cualificación profesional de las personas que pueden conducir un vehículo ferroviario las establece la disposición del decreto núm. 101/1995 Sb.
-       La cualificación profesional, con base en las disposiciones legales anteriores, la estableció el transportista ČD para las personas participantes en la explotación del transporte ferroviario en la clasificación laboral (profesión) de maquinista y trabajador de servicio de tren de pasajeros, con la especificación de jefe de tren de pasajeros, en la norma interna ČD Ok 2 – Reglamento de formación y de exámenes de los Ferrocarriles Checos, a. s., aprobada por decisión del director general de los Ferrocarriles Checos el 25. 03. 2009, ref. núm.: 55713/2009-O 10, en vigor desde el 1. 4. 2009.
-Según la documentación presentada por el transportista, los maquinistas y los jefes de tren de pasajeros eran profesionalmente cualificados para las actividades laborales desempeñadas.
-### No se detectaron anomalías.
-La cualificación profesional, con base en las disposiciones legales anteriores, la estableció el transportista ČDC para las personas participantes en la explotación del transporte ferroviario en la clasificación laboral (profesión) de maquinista y jefe de maniobras, en la norma interna Reglamento de exámenes y de formación, aprobado por el director ejecutivo de ČD Cargo, a. s. el 06. 04. 2009, registrado bajo la ref. PERs28-B-2009, en vigor desde el 01. 05. 2009.
-
+La disposición del § 35 apartado 2 letra f) de la Ley nº 266/1994 Sb. obliga a los operadores ferroviarios a implantar un sistema de seguridad de la explotación del transporte ferroviario y a garantizar su cumplimiento. La investigación determinó que los operadores ferroviarios participantes en el MU cuentan con dicho sistema implantado y han emitido, entre otros, normas internas cuyo contenido incluye procedimientos tecnológicos mediante los que se garantizan las actividades establecidas por las reglas para la explotación del transporte ferroviario, en el caso concreto especialmente para la conducción de los vehículos ferroviarios.
+Sobre la base de otros hechos constatados, el DI concluye que el operador ferroviario del tren Mn 85430, posteriormente de la sección de maniobras, y el operador ferroviario del tren Os 19702 no garantizaron el cumplimiento de los mencionados procedimientos tecnológicos y, con ello, tampoco del sistema implantado de seguridad de la explotación del transporte ferroviario.
+### Defecto constatado.
+### 3.2.2 Requisitos de los empleados del explotador de la vía y del operador ferroviario y su aplicación
+El requisito de cualificación profesional de las personas que garantizan la explotación de la vía lo establece la disposición del § 22 apartado 1 letra c) de la Ley nº 266/1994 Sb.; para las personas que conducen o participan en la conducción del transporte ferroviario, este requisito lo establece también la disposición del § 14 apartado 4 del Decreto nº 173/1995 Sb.
+La cualificación profesional, con arreglo a las disposiciones legales mencionadas anteriormente, la fijó el explotador de la vía para las personas que conducen o participan en la conducción del transporte ferroviario, en la categoría laboral (profesión) de jefe de estación y señalista, en la norma interna SŽDC Zam 1 – Norma sobre la cualificación profesional de los empleados de la Administración de la Infraestructura Ferroviaria, organización estatal, aprobada por decisión del director general de SŽDC de fecha 30. 06. 2008, ref. nº: 23 138/08 OKS, en vigor desde el 1 de julio de 2008.
+La cualificación profesional fijada por el explotador de la vía fue verificada, respecto de las personas participantes en el MU, mediante la inspección estatal en materia de ferrocarriles, realizada en PO Kladno DI el 26. 01. 2011. Conforme a la documentación aportada, el jefe de estación y los señalistas de los aparatos de enclavamiento 1 y 2 de la est. Kamenné Žehrovice eran profesionalmente cualificados para las actividades laborales desempeñadas.
+### No se constataron defectos.
+         El requisito de cualificación profesional de las personas participantes en la explotación del transporte ferroviario lo establece la disposición del § 35 apartado 1 letra f) de la Ley nº 266/1994 Sb. y el § 33 apartados 1 y 2 del Decreto nº 173/1995 Sb.
+         Las condiciones de edad, estudios y cualificación profesional de las personas que pueden conducir un vehículo ferroviario las establece la disposición del Decreto nº 101/1995 Sb.
+       La cualificación profesional, con arreglo a las disposiciones legales mencionadas anteriormente, la fijó el operador ferroviario ČD para las personas participantes en la explotación del transporte ferroviario en la categoría laboral (profesión) de maquinista y trabajador de servicio del tren de pasajeros, con la especificación de jefe de tren de los trenes de pasajeros, en la norma interna ČD Ok 2 – Reglamento de formación y de exámenes de los Ferrocarriles Checos, a. s., aprobada por decisión del director general de los Ferrocarriles Checos de fecha 25. 03. 2009, ref. nº: 55713/2009-O 10, en vigor desde el 1. 4. 2009.
+Conforme a la documentación aportada por el operador ferroviario, los maquinistas y los jefes de tren de los trenes de pasajeros eran profesionalmente cualificados para las actividades laborales desempeñadas.
+### No se constataron defectos.
+La cualificación profesional, con arreglo a las disposiciones legales mencionadas anteriormente, la fijó el operador ferroviario ČDC para las personas participantes en la explotación del transporte ferroviario en la categoría laboral (profesión) de maquinista y jefe de maniobras, en la norma interna Reglamento de exámenes y de formación, aprobada por el director ejecutivo de ČD Cargo, a. s. el 06. 04. 2009, registrada bajo el ref. nº PERs28-B-2009, en vigor desde el 01. 05. 2009.
 
 ## Página 28
+
 
 Según la documentación presentada por el transportista, los maquinistas y los jefes de maniobras eran profesionalmente cualificados para las actividades laborales desempeñadas.
 ### No se detectaron anomalías.
@@ -741,6 +724,7 @@ El transportista del tren Os 19702 fueron los Ferrocarriles Checos, a. s., con d
 El transporte ferroviario se explota con base en el «Contrato número 001/08 sobre la explotación del transporte ferroviario en la vía de transporte ferroviaria estatal y de las vías regionales en propiedad de la República Checa», en la redacción del aditamento núm. 1 en la versión vigente, celebrado entre las partes contratantes Administración de la Infraestructura Ferroviaria, organización estatal, con domicilio en Dlážděná 1003/7, Praga 1 -– Nové Město, CP 110 00, y los Ferrocarriles Checos, a. s., con domicilio en
 
 ## Página 29
+
 
 Nábřeží L. Svobody 1222, Praga 1, CP 110 15, con fecha 01. 07. 2008, con vigencia desde el 01. 07. 
 2008. 
@@ -781,8 +765,8 @@ f) a implantar un sistema de garantía de la seguridad del transporte ferroviari
 § 15 apartado 1 letra a), apartado 2, 8 del decreto n.º 173/1995 Sb.:
 •
 
-
 ## Página 30
+
 
 «(1) La entrada de un tren en una estación con bifurcación de vías, la circulación del tren en la estación y la salida del tren de la estación pueden permitirse sin la adopción de medidas adicionales, siempre que se cumplan las siguientes condiciones:
 a) la vía de tren para la circulación correspondiente no puede estar ocupada por otros vehículos ferroviarios;
@@ -816,6 +800,7 @@ norma interna de SŽDC (ČD) D1, artículo 820:
 
 ## Página 31
 
+
 „La señal Velocidad de vía (blanca, placa rectangular colocada de lado en su cara más larga y con un número negro con reflectores blancos) ordena al maquinista del vehículo de tracción principal no superar la velocidad indicada por el número de esta señal – señalizador N.";
 reglamento interno SŽDC (ČD) D2 „Reglamento para la organización y explotación del transporte ferroviario" aprobado por decisión del director general de los Ferrocarriles Checos el 13. 03. 1997, n. ref.: 55279/97-O11, en vigor desde el 28. 12. 1997, asumido en la competencia de la Administración de la Vía Ferroviaria de Transporte, organización estatal, con base en la Instrucción del director general n.º 8/2008, n. ref.: 12 026/08-OKS, en vigor desde el 01. 07. 2008, en su redacción vigente (en adelante, reglamento interno SŽDC (ČD) D2), artículo 28:
 •
@@ -838,8 +823,8 @@ reglamento interno SŽDC (ČD) D2, artículo 468:
 – está detenida la maniobra perturbadora;
 – la vía de tren está libre y correctamente dispuesta de acuerdo con el artículo 469 b)...";
 
-
 ## Página 32
+
 
 ...El jefe de estación solo podrá permitir la entrada, la salida o el paso de un tren cuando en su ámbito de responsabilidad por la libertad de la vía de tren se cumplan las condiciones del primer párrafo y cuando todos los empleados implicados en la preparación de la vía de tren comuniquen la realización de la preparación de la vía de tren";
 reglamento interno SŽDC (ČD) D2, artículo 469:
@@ -868,6 +853,7 @@ reglamento interno SŽDC (ČD) D2, artículo 711:
 – hasta dónde se puede maniobrar como máximo, si es necesario determinarlo...";
 
 ## Página 33
+
 
 Reglamento interno de SŽDC (ČD) D2, artículo 719:
 •
@@ -911,8 +897,8 @@ Reglamento interno de ČD V2, parte G, artículo 91:
 «El maquinista está obligado en particular:
 a) conducir el tren de modo que no se vea afectada la seguridad del tráfico ferroviario y se respete el horario de circulación,
 
-
 ## Página 34
+
 
 d) no superar la velocidad máxima permitida del tren».
 ## 3.4
@@ -967,37 +953,37 @@ El jefe de estación determina en el aparato de mando la ruta de entrada para el
 
 ## Página 35
 
-mediante el desplazamiento del conmutador de entrada de itinerario en el relieve de la vía hacia la maqueta 1. SK
-y el accionamiento del desvío de aguja. Este itinerario indicado se asegurará eléctricamente mediante la liberación
-del correspondiente enclavamiento de señal y se atenderá con el botón de la campana de enclavamiento. En el aparato de enclavamiento
-del aparato de maniobras del enclavamiento 1 se liberará el enclavamiento de señal, el contador de vía anunciará el itinerario
-desde Kladno hacia 1. SK y sonará la señal acústica de la campana de enclavamiento. El operador de enclavamiento del enclavamiento 1
-confirmará la conformidad del itinerario comunicado por el jefe de estación con el número de vía en el contador de vía
-mediante la manipulación de la campana de enclavamiento, comprobará la posición correcta de los desvíos en el itinerario
-mediante la comprobación óptica de la posición de los desvíos conmutados eléctricamente n.º 1, 2 y el accionamiento mecánico
-del desvío de aguja del itinerario. El itinerario asegurado mecánicamente se fijará a continuación mediante el cierre
-del enclavamiento de bloqueo de agujas y se permitirá la circulación del tren mediante el accionamiento de la palanca de señal
-del señal L. La señal prohibidora
-de este señal se convertirá en señal autorizadora. La entrada del tren Os 19702 en 1. SK se verá afectada
-por el carril aislado IK3. Con la activación del carril aislado se producirá la liberación del tope de enclavamiento.
-El operador devolverá la palanca de señal L a la posición base y, tras la liberación
-del carril aislado por el tren, comunicará al jefe de estación mediante el cierre del enclavamiento de señal que se cumplen
-las condiciones para la anulación del itinerario de tren. El jefe de estación, mediante la liberación
-del bloqueo de agujas, dará la orden de anulación del itinerario de tren. El jefe de estación y el operador pondrán
-el dispositivo de seguridad en su estado base.
-Figura 7: contador de vía del aparato de maniobras del enclavamiento 1, estado durante
+desplazando el deslizador de entrada de itinerario en el relieve de la vía al modelo de la 1. SK
+y se conmutará el enclavamiento direccional. Este itinerario indicado se asegurará eléctricamente mediante la liberación del
+correspondiente enclavamiento de señal y se servirá el botón del timbre de enclavamiento. En el aparato de enclavamiento
+del aparato de enclavamiento de la estación de enclavamiento 1 se liberará el enclavamiento de señal, el numerador de vía anunciará el itinerario
+desde Kladno hacia la 1. SK y sonará la señal acústica del timbre de enclavamiento. El señalero de la estación de enclavamiento 1
+confirmará la conformidad del itinerario comunicado por el jefe de estación con el número de vía en el numerador de vía
+mediante el servicio del timbre de enclavamiento, comprobará la posición correcta de los desvíos en el itinerario mediante la
+comprobación óptica de la posición de los desvíos conmutados eléctricamente n.º 1, 2 y mediante la conmutación mecánica
+del enclavamiento de vía del itinerario. El itinerario asegurado mecánicamente se fijará a continuación mediante el cierre
+del enclavamiento de bloqueo de desvíos y se permitirá la circulación del tren mediante la conmutación de la palanca de señal
+de la señal L. La señal prohibidora
+de esta señal se convertirá en señal autorizadora. La entrada del tren Os 19702 en la 1. SK será detectada por
+el carril aislado IK3. Con la detección del carril aislado se producirá la activación del tope de enclavamiento.
+El señalero conmutará la palanca de señal de la señal L a la posición básica y, tras la liberación del carril
+aislado por el tren, comunicará al jefe de estación mediante el cierre del enclavamiento de señal que se han cumplido las condiciones
+para la cancelación del itinerario de tren. El jefe de estación, mediante la liberación del bloqueo de desvíos, dará la orden de cancelación del
+itinerario de tren. Tanto el jefe de estación como el señalero pondrán el dispositivo de seguridad
+en el estado básico.
+Figura 7: numerador de vía del aparato de cambio de vías de la estación de enclavamiento 1, estado durante
 la investigación MU
 ### El dispositivo de seguridad de la estación funcionó correctamente y su actividad no pudo
-### ser la causa de la MU. Todos los itinerarios de tren se establecieron con la operación normal.
+### ser la causa de la MU. Todos los itinerarios de tren se establecieron con el servicio normal.
 ### 3.4.2 Componentes de la vía
-En el examen del lugar de origen de la MU no se encontró la placa que delimita la frontera entre
-los circuitos de comprobación de libertad de itinerario de tren n.º 1 y 2 en 15. SK. Por lo tanto, no fue posible determinar
-este límite directamente en 1. SK y así averiguar en qué circuito de comprobación de libertad de itinerario
-de tren se encontraba exactamente la unidad de maniobra cuando se produjo la MU. Por este motivo, el día 10. 01. 2011
-se realizó una determinación comisionada del lugar en 15. SK, donde debía colocarse según el ZDD la placa
-
+En la inspección del lugar donde se produjo la MU no se encontró la placa que delimita el límite entre
+los circuitos de detección de libre de itinerario n.º 1 y 2 en la 15. SK. Por lo tanto no fue posible determinar este
+límite directamente en la 1. SK y así averiguar en qué circuito de detección de libre de itinerario
+se encontraba exactamente la sección de maniobra cuando se produjo la MU. Por este motivo, el día 10. 01. 2011
+se realizó una determinación comisionada del lugar en la 15. SK, donde según el ZDD debía colocarse la placa
 
 ## Página 36
+
 
 que divide los circuitos n.º 1 y 2. Este lugar está en el km 33,882, a 138 m antes de la señal S 15.
 La línea imaginaria que une este lugar con el desvío Vk 3 cruza 1. SK en el km 33,922 y determina así
@@ -1055,6 +1041,7 @@ a las 08:56 horas se produce un desplazamiento horizontal del lápiz de minutos.
 
 ## Página 37
 
+
 El daño al HDV 751.236-1 durante el MU fue detectado el 23. 12. 2010 mediante una inspección comisionada en ČDC, SOKV České Budějovice.
 TDV CZ-ČDC 31 54 5962 193-6 Eas-u en propiedad de ČDC, la inspección técnica periódica fue realizada el 22. 02. 2007 con un plazo de 6 años. En el DV no se produjo ningún daño en relación con el MU.
 ### En los vehículos ferroviarios en propiedad del transportista ČDC no se detectaron defectos
@@ -1079,8 +1066,8 @@ El daño al DV del tren Os 19702 durante el MU fue detectado el 29. 12. 2010 med
 ### En los vehículos ferroviarios en propiedad del transportista ČD no se detectaron defectos y su
 ### estado técnico no guarda relación con la causa de la aparición del MU.
 
-
 ## Página 38
+
 
 ## 3.5
 ### Documentación sobre el sistema de explotación
@@ -1101,6 +1088,7 @@ De esta prueba de verificación se desprende que en el momento de la aparición 
 
 ## Página 39
 
+
 debió hacerlo, como muy pronto, tras la detención de la maniobra en el pk 33,915 (a las 08:49,5 horas, siendo esta hora y posteriores también más probables en vista de la ulterior evolución de los hechos, véase el gráfico «Gráfico de la secuencia cronológica de los hechos»). En este caso, no obstante, la maniobra detenida en el nivel Vk 3 (con el morro en el pk 33,915) en el momento de comprobar la libertad de la vía de tren se encontraba también dentro de su ámbito de responsabilidad en la 1.ª vía. Este hecho demuestra que la jefa de estación no comprobó la libertad de la vía de tren para la entrada del tren Os 19702 en la 1.ª vía en todo su ámbito, sino que comprobó la libertad desde el espacio situado delante de la oficina de tráfico, desde donde no podía abarcarla con la vista en su totalidad, ya que la visión desde dicho punto hacia la 1.ª vía en dirección a la aguja 1 la obstaculizan las locomotoras de maniobras estacionadas a largo plazo en la 7.ª y la 9.ª vía. No realizó el recorrido a pie con el fin de abarcar con la vista todo el ámbito. Aun así, consideró la 1.ª vía como libre y realizó en ella la preparación de la vía de tren, lo que confirma también en su respuesta a la pregunta reiterada sobre la comprobación de la libertad de la vía de tren.
 
 El señalero de la aguja 1, con base en la orden de la jefa de estación de preparar las vías de tren para la entrada de los trenes Os 19702 en la 1.ª vía y Os 19707 en la 3.ª vía, comprobó la libertad de la vía de tren para dichos trenes mirando desde la aguja 1; no vio la maniobra en la 1.ª vía y, debido a la visión limitada de la 1.ª vía causada por las locomotoras de maniobras estacionadas a largo plazo en la 7.ª y la 9.ª vía, tampoco podía verla. Aun así, consideró la 1.ª vía como libre y realizó en ella la preparación de la vía de tren. Ni la jefa de estación ni los señaleros de las agujas 1 y 2 solicitaron el aviso de detención de la maniobras que interfería y de la liberación de la 1.ª vía por parte del jefe de maniobras. Según su declaración, la jefa de estación ordenó al jefe de maniobras la liberación de la 1.ª vía a más tardar a las 08:45 horas. Mediante la revisión del registro del registrador de velocidad de la locomotora se constató que, tras la colocación de la señal de maniobras en la 1.ª vía, la maniobra se desplazó desde la oficina de tráfico en dirección al Vk 3 y a la aguja n.º 7 a las 08:48,5 horas, y ello sin ninguna medida adicional de la jefa de estación.
@@ -1118,8 +1106,8 @@ El equipo de comunicaciones de la est. de Kamenné Žehrovice no está dotado de
 ### 3.5.3 Medidas adoptadas para la protección y la seguridad del lugar del suceso excepcional
 El lugar de la MU fue asegurado por el gestor de la infraestructura de conformidad con el decreto n.º 376/2006 Sb.
 
-
 ## Página 40
+
 
 ### La anomalía no fue detectada.
 ## 3.6
@@ -1147,47 +1135,46 @@ Con base en la inspección de los elementos estructurales dañados del interior 
 
 ## Página 41
 
-en el capítulo 3.7, la DI decidió adoptar una recomendación de seguridad para aumentar la seguridad de los maquinistas y de los pasajeros que utilizan trenes compuestos con estos DV.
+en el capítulo 3.7, la DI decidió adoptar una recomendación de seguridad para aumentar la seguridad de los maquinistas y de los pasajeros que utilizan trenes compuestos de estos DV.
 ## 3.7
 ### Incidentes anteriores de carácter similar
-La Inspección Ferroviaria registra incidentes (MU) análogos:
-organización errónea de las maniobras en relación con la circulación de trenes y consecuencias en los DV de la serie 814/914 
+La Inspección Ferroviaria registra MU similares:
+organización errónea de las maniobras en relación con la circulación del tren y consecuencias en los DV de la serie 814/914 
 •
-en la estación de Ždírec nad Doubravou el 10. 11. 2008;
-consecuencias análogas en los DV 814/914 en la colisión en el paso a nivel P 2819 Stráž nad Nisou 
+en la estación de Ždírec nad Doubravou el día 10. 11. 2008;
+consecuencias similares en los DV 814/914 en la colisión en el paso a nivel P 2819 Stráž nad Nisou 
 •
-el 28. 12. 2010 y en la colisión de los trenes Os 18003 y Mn 88850 entre la estación de 
-Vodňany y la estación de Číčenice el 02. 02. 2011.
-## 4 ANÁLISIS Y CONCLUSIONS
+el día 28. 12. 2010 y en la colisión de los trenes Os 18003 y Mn 88850 entre la estación de Vodňany y la estación de Číčenice el día 02. 02. 2011.
+## 4 ANÁLISIS Y CONCLUSIONES
 ## 4.1
 ### Descripción final del incidente
 ### 4.1.1 Descripción final del incidente basada en los hechos constatados 
 en el punto 3
-El 20. 12. 2010 llegó desde la estación de Kladno a la estación de Kamenné Žehrovice el tren Mn 85430 
-del transportista ČDC, compuesto por el HDV 751.236-1 y un TDV cargado CZ-ČDC 31 54 5962 
-193-6 Eas. La jefa de estación de Kamenné Žehrovice, que sabía de antemano que el vagón sería 
-colocado en la 4. SK de maniobras, designó como vía de entrada del tren la 1. SK. Ya en el aviso 
-del servicio especial a las 07:10 horas, puso a ambos señalistas en conocimiento del método previsto 
-para la realización de las maniobras. El tren Mn 85430 se detuvo, según la documentación de circulación, a las 08:32 horas, según la evaluación del registro de velocímetro del HDV, a las 08:34 horas, 
-a la altura de la oficina de circulación. 
-El empleado del transportista, el jefe de maniobras, se presentó en la oficina de circulación, donde 
-junto con la jefa de estación acordaron el procedimiento de trabajo y el método de realización de las maniobras. Se acordó que 
-el jefe de maniobras desengancharía el HDV, que este circularía por sí mismo hasta el puesto de enclavamiento 2, de allí por la 2. SK hasta el puesto de enclavamiento 1 
-y de allí a la 1. SK para el TDV. El jefe de maniobras del DV descolgaría el tren de maniobras y lo llevaría hasta el puesto de enclavamiento 1 
-y de allí a la 2. SK y seguidamente a la 4. SK. Según su declaración, la jefa de estación «ordenó» este procedimiento 
-a los señalistas de los puestos de enclavamiento 1 y 2 y al mismo tiempo ordenó al jefe de maniobras liberar la 1. SK a más tardar 
-a las 08:45 horas y detener las maniobras en la 2. SK.
-Según la declaración del señalista del puesto de enclavamiento 1, la jefa de estación no esperó a que ambos señalistas se registraran en el 
-circuito telefónico de aparatos de cambio. El señalista del puesto de enclavamiento 1 se registró 
-más tarde, en el momento en que la jefa de estación ya estaba emitiendo instrucciones. El señalista no comprendió correctamente las instrucciones. Si la jefa de estación 
-solicitó la repetición de las órdenes no es posible determinarlo de forma unívoca debido a la contradicción en las declaraciones de los 
-empleados. El jefe de maniobras puso en conocimiento del maquinista del tren de maniobras el procedimiento de trabajo y el método de realización de las maniobras, 
-a continuación desenganchó el HDV y dio la orden al maquinista de poner el HDV 
-en movimiento. El maquinista con el HDV circuló entre las 08:37 – 08:46,5 horas de la 1. SK por la 2. SK de vuelta a la 1. SK 
-y por orden del jefe de maniobras embistió el vagón.
-
+El día 20. 12. 2010 llegó desde la estación de Kladno a la estación de Kamenné Žehrovice el tren Mn 85430 
+del operador ČDC, compuesto por el HDV 751.236-1 y un TDV CZ-ČDC 31 54 5962 
+193-6 Eas cargado. La jefa de estación de Kamenné Žehrovice, que sabía de antemano que el vagón sería 
+colocado en la maniobra 4. SK, designó como vía de entrada del tren la 1. SK. Ya en el aviso 
+del tráfico excepcional a las 07:10 horas, informó a ambos señaleros del método previsto 
+para realizar la maniobra. El tren Mn 85430 se detuvo según la documentación de tráfico a las 08:32 horas, según 
+la evaluación del registro de velocímetro del HDV a las 08:34 horas, a la altura de la oficina de tráfico. 
+El empleado del operador, jefe de maniobras, se presentó en la oficina de tráfico, donde junto 
+con la jefa de estación acordaron el procedimiento de trabajo y el método de realización de la maniobra. Se acordó que 
+el jefe de maniobras desengancharía el HDV, éste por sí solo pasaría a la aguja 2, de ahí por la 2. SK a la aguja 1 
+y de ahí a la 1. SK por el TDV. El jefe de maniobras del DV descendería y el tramo de maniobra pasaría a la aguja 1 
+y de ahí a la 2. SK y posteriormente a la 4. SK. Según su declaración, la jefa de estación «ordenó» este procedimiento 
+a los señaleros de las agujas 1 y 2 y al mismo tiempo ordenó al jefe de maniobras liberar la 1. SK a más tardar 
+a las 08:45 horas y detener la maniobra en la 2. SK.
+Según la declaración del señalero de la aguja 1, la jefa de estación no esperó a la conexión de ambos señaleros en el 
+circuito telefónico de cambio de agujas. El señalero de la aguja 1 se conectó más tarde, en el momento en que 
+la jefa de estación ya estaba emitiendo instrucciones. El señalero no comprendió correctamente las instrucciones. Si la jefa de estación 
+exigió la repetición de las órdenes no es posible determinarlo de forma unívoca 
+por la contradicción en las declaraciones de los empleados. El jefe de maniobras informó al maquinista del tramo de maniobra 
+del procedimiento de trabajo y del método de realización de la maniobra, después desenganchó el HDV y dio la instrucción al maquinista 
+para poner el HDV en movimiento. El maquinista con el HDV giró en 08:37 – 08:46,5 horas de la 1. SK por la 2. SK de vuelta a la 1. SK 
+y por instrucción del jefe de maniobras acopló al vagón.
 
 ## Página 42
+
 
 Según su declaración, el señalista del puesto de enclavamiento 2 acordó la circulación del HDV hacia el ámbito de maniobras 
 del puesto de enclavamiento 1 con el señalista de dicho puesto mediante el teléfono de servicio de abonados. El HDV 
@@ -1212,26 +1199,27 @@ horas a la altura del desvío Vk 3. A las 08:48 horas partió el tren Os 19702 d
 
 ## Página 43
 
-El jefe de maniobras se comunicó con la estación de maniobras mediante radio desde el desvío Vk 3 solicitando la liberación de la llave (primero a las 08:50 horas). La estación retiró en el aparato de mando la llave resultante Vk 3/7 del cerrojo de enchufe y la cerró con llave en el cerrojo electromagnético del aparato de mando, con lo que liberó la llave retenida en el cerrojo electromagnético exterior situado en la vía, ubicado en la inmediata cercanía del desvío Vk 3. El jefe de maniobras retiró la llave del cerrojo electromagnético, la cerró con llave en el cerrojo de control del desvío, del cerrojo de control retiró la llave resultante de la aguja n.º 7 y accionó el desvío. A continuación volvió al equipo de maniobras y dio la orden al maquinista para poner el equipo de maniobras en movimiento.
-Tras la liberación de la llave (es decir, con mayor probabilidad entre las 08:50,5 y las 08:52 horas), la estación comprobó la libertad de la vía de tren para los trenes Os 19702 y Os 19707; desde el espacio delante de la oficina de tráfico ya no veía el equipo de maniobras. El equipo de maniobras se puso en marcha a las 08:51,5 horas y, tras recorrer 60 metros, se detuvo en el km 33,855 (a la altura de la aguja n.º 7) a las 08:52 horas. Allí esperó la concesión del permiso para continuar la maniobra desde la 1.ª vía principal a la 2.ª vía principal.
-A las 08:53 horas partió el tren Os 19707 de la estación de Stochov y el tren Os 19702 de la parada de Kladno-Rozdělov. En ese momento (aproximadamente entre las 08:53 y las 08:54 horas), la estación ordenó a los operadores de los aparatos de enclavamiento 1 y 2 la preparación de la vía de tren para el tren Os 19702 en la 1.ª vía principal y para el tren Os 19707 en la 3.ª vía principal. El operador del aparato de enclavamiento 1 repitió la orden de preparar la vía de tren para el tren Os 19702 en la primera vía, el operador del aparato de enclavamiento 2 repitió la orden de preparar la vía de tren para el tren Os 19707 en la tercera vía; a continuación, el operador del aparato de enclavamiento 1, al ser parte de la vía de tren del tren par, impar, dentro de su ámbito de responsabilidad, comprobó visualmente la libertad de la vía de tren en la 1.ª y 3.ª vía principal y comunicó su libertad. El equipo de maniobras se encontraba en ese momento en la 1.ª vía principal en el km 33,855, parcialmente oculto, al observar desde el aparato de enclavamiento 1, por el arco y los vehículos estacionados en la 7.ª y 9.ª vía principal (al inspeccionar el lugar de la MU se constató VI que se veía la techo de la locomotora). Si la estación, durante la preparación de la vía de tren, preguntó a los operadores dónde se encontraba el equipo de maniobras, no es posible determinarlo de forma unívoca debido a la contradicción en las declaraciones de los empleados; por el contrario, de estas declaraciones se deduce de forma inequívoca que ni la estación ni los operadores comprobaron mediante consulta al jefe de maniobras el movimiento del equipo de maniobras.
-La estación manejó el aparato de mando con maniobra normal, indicó las vías de tren de entrada simultáneas, desde la estación de Kladno en la 1.ª vía principal y desde la estación de Stochov en la 3.ª vía principal. Ambos operadores realizaron la establecimiento de las vías de tren con maniobra normal del aparato de seguridad. El tren Os 19702, desde su arranque, aumentó la velocidad hasta 74 km.h-1; con esta velocidad pasó a las 08:54:12 horas la preseñal PřL de la señal de entrada de la estación de Kamenné Žehrovice con la señalización «Aviso». Tras el paso del tren junto a la preseñal, el maquinista del tren redujo la velocidad del tren mediante frenado en servicio hasta la velocidad de 25 km.h-1. A las 08:55:03 horas, el maquinista del tren Os 19702 observó en la señal de entrada L de la estación de Kamenné Žehrovice la señalización «Aviso» y comenzó a aumentar la velocidad del tren ajustando el ARR a la velocidad de 60 km.h-1. A las 08:55:16 horas, el tren Os 19702 pasó la señal de entrada L a una velocidad de 40 km.h-1 y en la cabecera de la estación de Kamenné Žehrovice continuó aumentando la velocidad hasta 64 km.h-1. A continuación, en una distancia de 122 m, redujo por deslizamiento la velocidad a 61 km.h-1. En ese momento, el tren Os 19702 pasó junto al aparato de enclavamiento 1, donde el operador, tras comprobar la señal de fin de tren, manejó el aparato de seguridad con maniobra normal.
-Al circular por la 1.ª vía principal, el maquinista del tren observó el equipo de maniobras detenido en esta vía; a las 08:55:49 horas, por lo tanto, activó el frenado de acción rápida, abandonó el puesto del maquinista y advirtió a los pasajeros del compartimento contiguo. A las 08:56 horas, tras recorrer 90 m, a una velocidad de 28 km.h-1, el tren Os 19702 chocó contra los vehículos ferroviarios detenidos. Al mismo tiempo, la estación manejó el aparato de mando con maniobra normal y ella y el operador del aparato de enclavamiento 1 devolvieron el aparato de seguridad a la posición básica; la estación registró la hora de llegada del tren Os 19702 en la aplicación EDD.
-El jefe de maniobras, que durante la espera de la concesión del permiso para maniobrar desde la primera vía de estación retiraba la nieve de la aguja n.º 7 en la 2.ª vía principal, comunicó inmediatamente después de la colisión por radio la aparición de la MU a la estación de Kamenné Žehrovice.
-
+El jefe de maniobras se comunicó con la estación de maniobras mediante radiostación desde el desvío Vk 3 solicitando la liberación de la llave (lo más tarde a las 08:50 horas). La estación retiró en el aparato de mando la llave resultante Vk 3/7 del cerradura de clavija y la encerró en el cerradura electromagnética del aparato de mando, liberando así la llave retenida en el cerradura electromagnética exterior situada en la vía, ubicada en las inmediaciones del desvío Vk 3. El jefe de maniobras retiró la llave del cerradura electromagnética, la encerró en el cerradura de control del desvío, del cerradura de control retiró la llave resultante de la aguja n.º 7 y accionó el desvío. A continuación volvió al tren de maniobras y dio la orden al maquinista para poner el tren de maniobras en movimiento.
+Tras la liberación de la llave (es decir, muy probablemente entre las 08:50,5 y las 08:52 horas), la estación comprobó la libertad de la vía de tren para los trenes Os 19702 y Os 19707; desde el espacio delante de la oficina de tráfico ya no veía el tren de maniobras. El tren de maniobras se puso en marcha a las 08:51,5 horas y, tras recorrer 60 metros, se detuvo en el km 33,855 (a la altura de la aguja n.º 7) a las 08:52 horas. Aquí esperó la concesión del permiso para continuar la maniobra desde la 1.ª vía principal a la 2.ª vía principal.
+A las 08:53 horas partió el tren Os 19707 de la estación de Stochov y el tren Os 19702 de la parada de Kladno-Rozdělov. En ese momento (aproximadamente entre las 08:53 y las 08:54 horas), la estación ordenó a los operadores de los aparatos de enclavamiento 1 y 2 la preparación de la vía de tren para el tren Os 19702 en la 1.ª vía principal y para el tren Os 19707 en la 3.ª vía principal. El operador del aparato de enclavamiento 1 repitió la orden de preparar la vía de tren para el tren Os 19702 en la primera vía, el operador del aparato de enclavamiento 2 repitió la orden de preparar la vía de tren para el tren Os 19707 en la tercera vía; a continuación, el operador del aparato de enclavamiento 1, al ser parte de la vía de tren del tren impar que se detiene en su ámbito de responsabilidad, comprobó visualmente la libertad de la vía de tren en la 1.ª y 3.ª vía principal y comunicó su libertad. El tren de maniobras se encontraba en ese momento en la 1.ª vía principal en el km 33,855, parcialmente oculto, al observar desde el aparato de enclavamiento 1, por el arco y los vehículos estacionados en la 7.ª y 9.ª vía principal (en el reconocimiento del lugar de la MU se constató VI que se veía el techo de la locomotora). Si la estación, durante la preparación de la vía de tren, preguntó a los operadores dónde se encontraba el tren de maniobras, no es posible determinarlo de forma unívoca debido a la discrepancia en las declaraciones de los empleados; por el contrario, de estas declaraciones se deduce de forma inequívoca que ni la estación ni los operadores comprobaron el movimiento del tren de maniobras preguntando al jefe de maniobras.
+La estación manejó el aparato de mando con maniobra normal, indicó las vías de tren de entrada simultáneas, desde la estación de Kladno en la 1.ª vía principal y desde la estación de Stochov en la 3.ª vía principal. Ambos operadores realizaron la establecimiento de las vías de tren con maniobra normal del aparato de seguridad. El tren Os 19702, desde su arranque, aumentó la velocidad hasta 74 km.h-1; con esta velocidad pasó a las 08:54:12 horas el preaviso PřL de la señal de entrada de la estación de Kamenné Žehrovice con la señal «Aviso». Tras el paso del tren por el preaviso, el maquinista del tren redujo la velocidad del tren mediante frenado de servicio hasta la velocidad de 25 km.h-1. A las 08:55:03 horas, el maquinista del tren Os 19702 observó en la señal de entrada L de la estación de Kamenné Žehrovice la señal «Aviso» y comenzó a aumentar la velocidad del tren ajustando el ARR a la velocidad de 60 km.h-1. A las 08:55:16 horas, el tren Os 19702 pasó la señal de entrada L a una velocidad de 40 km.h-1 y en la cabecera de la estación de Kamenné Žehrovice continuó aumentando la velocidad hasta 64 km.h-1. A continuación, en una distancia de 122 m, redujo la velocidad por deslizamiento hasta 61 km.h-1. En ese momento, el tren Os 19702 pasó junto al aparato de enclavamiento 1, donde el operador, tras comprobar la señal de fin de tren, manejó el aparato de seguridad con maniobra normal.
+Al circular por la 1.ª vía principal, el maquinista del tren observó el tren de maniobras detenido en esta vía; a las 08:55:49 horas, por lo tanto, activó el frenado de acción rápida, abandonó el puesto del maquinista y advirtió a los pasajeros del compartimento contiguo. A las 08:56 horas, tras recorrer 90 m, a una velocidad de 28 km.h-1, el tren Os 19702 chocó con los vehículos ferroviarios detenidos. Al mismo tiempo, la estación manejó el aparato de mando con maniobra normal y ella y el operador del aparato de enclavamiento 1 devolvieron el aparato de seguridad a la posición básica; la estación registró la hora de llegada del tren Os 19702 en la aplicación EDD.
+El jefe de maniobras, que durante la espera de la concesión del permiso para la maniobra desde la primera vía de estación barría la nieve del cambio de la aguja n.º 7 en la 2.ª vía principal, comunicó inmediatamente después de la colisión por radiostación la ocurrencia de la MU a la estación de Kamenné Žehrovice.
 
 ## Página 44
+
 
 El choque contra el equipo de maniobras detenido se produjo a una velocidad de 28 km.h-1. El daño en los vehículos del transportista ČDC fue mínimo, siendo el mayor daño la destrucción de los topes de la locomotora 751.236-1. En los vehículos 814/914 del transportista ČD se produjo un daño mucho más extenso. En comparación con los daños constatados en la inspección del lugar de la MU, en la inspección pericial de la composición se constataron daños mucho más extensos, siendo los siguientes los sustanciales:
  El DV 914.057-5 tenía el frontal destruido, los topes embutidos en el frontal hasta debajo del puesto del maquinista, el frontal delantero, el frontal, los refuerzos transversales y el suelo bajo el puesto del maquinista deformados, el ventanal panorámico delantero roto, el puesto de conducción dañado, la chapa de los laterales de la carrocería ligeramente ondulada en la parte superior incluido el techo, el relleno de vidrio de la pared entre la cabina del maquinista y el compartimento de pasajeros roto, los rellenos de vidrio de los tabiques de los compartimentos rotos, la celda del WC desplazada, las cubiertas de chapa de los soportes de los asientos desprendidas, un par de asientos deformado, en la parte trasera los topes deformados, los pasadores de guiado del primer bogie deformados, los soportes traseros del primer bogie deformados en el lugar de las superficies de tope del bastidor.
  La locomotora 814.057-6 tenía el paso intermedio deformado, las cubiertas de chapa de los soportes de los asientos desprendidas y dos asientos deformados.
 
-
 ## Página 45
+
 
 Figura 9: Gráfico de la secuencia cronológica de los acontecimientos
 
 ## Página 46
+
 
 ## 4.2
 ### Análisis
@@ -1242,8 +1230,8 @@ En contradicción con los procedimientos tecnológicos del gestor de la vía, la
 En la preparación de la vía de tren, la jefa de estación y el señalizador del puesto de enclavamiento 1, en contradicción con los procedimientos tecnológicos del gestor de la vía, se limitaron a comprobar la libertad de sus ámbitos para la determinación de la libertad de la vía de tren mediante la observación visual desde lugares desde los que no podían abarcarla en su totalidad. El señalizador del puesto de enclavamiento 1 comprobó la libertad mediante la observación desde la ventana del puesto de enclavamiento. La jefa de estación comprobó la libertad de su ámbito de responsabilidad desde el espacio situado delante de la oficina de tráfico, además inmediatamente después de la liberación de la llave resultante Vk 3/7, es decir, en un momento en que debía ser consciente de que el tramo de maniobra se encontraba sin lugar a dudas en la 1.ª SK, al menos en parte de su ámbito de responsabilidad.
 El maquinista del tren Os 19702, tras divisar la señal autorizadora en la señal de entrada L, aumentó la velocidad del tren mediante la selección de ARR, en la que configuró erróneamente el valor de la velocidad máxima. No detectó la superación de la velocidad de vía establecida y en todo el tramo del extremo de vías
 
-
 ## Página 47
+
 
 y el extremo de vías de la estación de Kamenné Žehrovice no adoptó ninguna medida para la reducción de la velocidad. Tras divisar los vehículos en la 1.ª SK, el maquinista aplicó el frenado de acción rápida y abandonó su puesto.
 Durante la investigación, y en particular a partir de las declaraciones de los empleados, se constató la infracción de los procedimientos tecnológicos del gestor de la vía y de ambos transportistas en una medida que evidencia sus hábitos erróneos en la realización de las actividades mediante las que se garantiza la explotación de la vía y del transporte ferroviario. Por ello puede afirmarse que la actividad de control realizada en dichos sujetos no tuvo una eficacia suficiente.
@@ -1270,6 +1258,7 @@ en el informe de frenado del tren Os 19702 se indican erróneamente los porcenta
 n.º 173/1995 Sb., falta la firma de la persona cualificada que realizó la prueba de freno.
 
 ## Página 48
+
 
 ## 5 MEDIDAS ADOPTADAS
 ## 5.1
@@ -1314,8 +1303,8 @@ adyacente de modo que:
 expulsión del soporte y de la manija del freno de mano hacia el espacio de las puertas de
 acceso, no se impida al maquinista
 
-
 ## Página 49
+
 
 abandonar el puesto de conducción;
 • la permanencia de personas o, en su caso, el depósito de equipajes en el espacio crítico de
@@ -1353,28 +1342,26 @@ director
 de la Inspección Territorial de Praga
 de la Inspección Territorial de Praga
 
-
 ## Página 50
+
 
 ## 7 ANEXOS
 ### Anexo 1: Documentación fotográfica
 Figura 10: recorte del conjunto EDD
 Figura 11: estado del DV tras la aparición del suceso ferroviario (MU)
 
-
 ## Página 51
+
 
 Figura 12: frontal del DV 914.057-5
 Figura 13: 914.057-5 puesto de conducción del maquinista
 
-
 ## Página 52
 
-Figura 14: vista del lugar del suceso ferroviario (MU) desde la izquierda al comienzo de la
-línea
-
+Figura 14: vista del lugar del accidente desde la izquierda del inicio de la línea
 
 ## Página 53
+
 
 ### Anexo 2: Análisis de las deficiencias de seguridad constatadas en los elementos
 constructivos del interior de las unidades motoras de la serie 814/914
@@ -1401,8 +1388,8 @@ Descripción del tabique y de la primera fila de asientos:
  de modo que la primera fila de pasajeros en el sentido de la marcha se sienta mirando al
  tabique.
 
-
 ## Página 54
+
 
 Espacios
 Deformación
@@ -1441,15 +1428,13 @@ de impacto del DV; en el asiento central de la derecha, especialmente, el riesgo
 incrementa por el impacto contra su relleno de vidrio (figura 1, descripción (4), figura 2); en
 el suceso ferroviario (MU) del 20. 12. 2010 se registró esta lesión.
 
-
 ## Página 55
 
-figura 2: modelización de la producción de la
-lesión por la ventana del tabique
-figura 3: parte derecha del tabique en el lugar del
-suceso ferroviario (MU)
+figura 2: modelación de la producción de la lesión por la ventana del tabique
+figura 3: parte derecha del tabique en el lugar del MU
 
 ## Página 56
+
 
 figura 4: vista desde el espacio del compartimento de acceso en el lugar del 
 MU
@@ -1471,8 +1456,8 @@ se produce la rotura de los cristales de los tabiques de compartimento. El fenó
 de mando de la serie 914 como en los coches 
 intercalados de la serie 014.
 
-
 ## Página 57
+
 
 ## 2.1
 ### Descripción de los casos registrados
@@ -1493,21 +1478,21 @@ adecuadamente valorado. En el acta de la inspección comisionada del coche 914.0
 párrafo, se constata «desplazado el módulo de aseo unos 5 mm». Es probable, por tanto, que la rotura de 
 los cristales se produjera por el movimiento de toda la estructura del falso techo del compartimento de acceso, 
 provocado por el movimiento hacia delante del módulo de aseo debido a las fuerzas de inercia, contra la 
-estructura del tabique de compartimento, o mejor dicho, contra su relleno de cristal. 
-
+estructura del tabique de compartimento, o mejor dicho, contra su relleno de cristal.
 
 ## Página 58
+
 
 figura 6: tabique derecho, vista desde el espacio de acceso
 figura 7: tabique izquierdo, vista desde el espacio de acceso
 
-
 ## Página 59
+
 
 figura 8: esquirlas en el asiento contiguo al tabique
 
-
 ## Página 60
+
 
 ### 2.1.2 Coche de mando 914.057-5
 El 20. 12. 2010 se produjo en la primera vía de la est. Kamenné Žehrovice una colisión 
@@ -1527,22 +1512,22 @@ con una flecha). La rotura de los rellenos de cristal de los tabiques se produjo
 probablemente por el movimiento de ambas mitades del tabique contra la estructura del falso techo debido a 
 las fuerzas de inercia tras el impacto. El desplazamiento de los tabiques hacia delante unos 4 mm, en el sentido de la 
 dirección original de marcha del tren, lo confirman la figura 12 y la figura 13, aunque este hecho no se 
-menciona expresamente en el acta de la inspección comisionada del coche 914.057-5 de fecha 29. 12. 2010. 
-
+menciona expresamente en el acta de la inspección comisionada del coche 914.057-5 de fecha 29. 12. 2010.
 
 ## Página 61
+
 
 figura 10: la misma mitad durante la inspección comisionada
 figura 11: lugar de la trituración inicial del relleno de cristal del tabique derecho
 
-
 ## Página 62
+
 
 figura 12: esquina superior derecha de la puerta del tabique
 figura 13: detalle del mismo lugar
 
-
 ## Página 63
+
 
 ### 2.1.3 Coche intercalado 014.007-9
 El 28. 12. 2010 se produjo en el paso a nivel P 2819 en el km 164,187, entre la est. 
@@ -1566,8 +1551,8 @@ por el movimiento de la estructura del falso techo contra la mitad izquierda del
 las fuerzas de inercia tras el impacto. Posteriormente, este movimiento provocó también el 
 desplazamiento hacia fuera de la parte superior del cristal roto por el travesaño del falso techo hacia el interior del compartimento.
 
-
 ## Página 64
+
 
 figura 15: esquirlas de cristal en los asientos
 figura 16: lugar de la trituración inicial del relleno de cristal del tabique izquierdo
@@ -1575,18 +1560,18 @@ figura 16: lugar de la trituración inicial del relleno de cristal del tabique i
 ## Página 65
 
 ### 2.1.4 Coche de mando 914.065-8
-El 2. 2. 2011 se produjo entre la estación de maniobras de Vodňany y la estación de Číčenice una colisión del tren Os 18003 con el tren Mn 88850. El tren Os 18003 estaba compuesto por la unidad motorizada 814.065-9/ 914.065-8; el impacto de los vehículos se produjo a una velocidad de 47 km·h-1. El coche motorizado en cabeza del tren Os 18003 tenía el frontal destrozado y descarriló por el eje trasero en el sentido de la marcha. En el coche motorizado no se produjo daño en los tabiques del espacio para pasajeros. En el coche de mando se produjo la rotura de ambos vidrios del tabique de compartimento y del vidrio de la puerta del compartimento pequeño para pasajeros.
+El 2 de febrero de 2011 se produjo una colisión entre la estación de maniobras de Vodňany y la estación de Číčenice entre el tren Os 18003 y el tren Mn 88850. El tren Os 18003 estaba formado por la unidad motorizada 814.065-9/ 914.065-8, el impacto de los vehículos se produjo a una velocidad de 47 km·h-1. El coche motor en la cabeza del tren Os 18003 tenía el frontal destruido y descarriló por el eje trasero en el sentido de la marcha. En el coche motor no se produjo daño en los tabiques del espacio para pasajeros. En el coche de mando se produjo la rotura de ambos vidrios del tabique de compartimento y del vidrio de la puerta del compartimento menor para pasajeros.
 figura 17: vista del tabique de compartimento desde el espacio de acceso rebajado
-En el acta de la inspección comisionada del coche 914.065-8 de fecha 9. 2. 2011 se constatan, entre otras, las siguientes averías: punto 5, «deformación de los laterales de la carrocería sobre las ventanas del compartimento grande para pasajeros»; punto 10, «pasamanos sobresaliente en las escaleras del compartimento rebajado para pasajeros»; punto 11, «tabique del compartimento para pasajeros abombado – la puerta no cierra»; punto 12, «vidrios rotos del tabique del compartimento para pasajeros – 2 uds.». De ello puede deducirse que la destrucción de los vidrios se produjo aquí por la presión de la estructura del falso techo contra el tabique, a causa de las fuerzas de inercia que actúan tras el impacto. La estructura del falso techo no solo reventó aquí los vidrios, sino que además provocó el abombado permanente del tabique. La fuerza del impacto da testimonio el hecho de que, en este caso, también se desprendieron las partes recubiertas con cinta adhesiva negra autoadhesiva (figura 18), que en los demás casos permanecieron en el marco, así como el hecho de que los fragmentos de los vidrios esta vez cayeron hasta el segundo par de asientos más alejado (figura 19).
-
+En el acta de la inspección en comisión del coche 914.065-8 de fecha 9 de febrero de 2011 se constatan, entre otras, las siguientes averías: punto 5 «deformación de los laterales de la carrocería por encima de las ventanas del compartimento mayor para pasajeros», punto 10 «asa sobresaliente en las escaleras del compartimento rebajado para pasajeros», punto 11 «tabique del compartimento para pasajeros deformado – la puerta no cierra», punto 12 «vidrios rotos del tabique del compartimento para pasajeros – 2 uds.». De esto puede deducirse que la destrucción de los vidrios se produjo aquí por la presión de la estructura del techo contra el tabique a causa de las fuerzas de inercia que actuaron tras el impacto. La estructura del techo no solo reventó aquí los vidrios, sino que causó una deformación permanente del tabique. La fuerza del impacto lo demuestra el hecho de que en este caso también se desprendieron las partes recubiertas con cinta adhesiva negra autoadhesiva (figura 18), que en los demás casos permanecieron en el marco, y también el hecho de que los fragmentos de los vidrios esta vez cayeron hasta el par de asientos más alejado (figura 19).
 
 ## Página 66
+
 
 figura 18: mitad izquierda del tabique, vista desde el compartimento cerrado
 figura 19: fragmentos caídos en el asiento trasero del compartimento
 
-
 ## Página 67
+
 
 ## 2.2
 ### Tabique de compartimento del coche de mando 914.045-0
@@ -1594,15 +1579,15 @@ A efectos comparativos, en el vehículo 914.045-0 se examinó la ejecución del 
 En la figura 20 se capta el tabique del compartimento de acceso. Al vidrio de los tabiques se ajusta estrechamente el revestimiento del falso techo de este compartimento. Los lugares donde se produce la destrucción primaria de los vidrios por el movimiento de los falsos techos y tabiques están señalados con flechas. Además, aquí se señala con una flecha amarilla la dirección de la vista de la figura 21. En ella, este lugar se capta en detalle. Aquí es bien visible el hueco entre la placa lateral del falso techo, que se abre hacia arriba, y el hueco considerablemente mayor entre el tabique y la placa superior del falso techo. Con una flecha se señala el lugar donde se produce la destrucción primaria del vidrio. En la figura 22 hay una vista desde el compartimento posterior para pasajeros de la parte superior del tabique izquierdo. Con una flecha amarilla se señala la película de recubrimiento que cubre parte del vidrio sobre el falso techo del compartimento de acceso.
 figura 20: vista del tabique de compartimento desde el espacio de acceso
 
-
 ## Página 68
+
 
 figura 21: detalle del punto de contacto del revestimiento 
 del falso techo y el tabique
 figura 22: tabique izquierdo, vista desde el compartimento
 
-
 ## Página 69
+
 
 ## 2.3
 ### Hechos constatados
@@ -1614,8 +1599,8 @@ Del seguimiento de este fenómeno se constataron los siguientes hechos:
  4. en los tabiques de los coches de mando y de los coches intercalados, aproximadamente a media altura, hay tornillado desde el espacio de acceso un pasamanos, cuya rigidez longitudinal es despreciable y no tiene una influencia apreciable en la oscilación del tabique;
  5. en los coches de mando y de los coches intercalados, en el espacio de acceso de suelo bajo, el techo está rebajado respecto a los demás espacios del coche en 230 mm, con dos espacios sobre las escaleras hacia los compartimentos, que se unen en forma de cuña al nivel del techo en los compartimentos. Este falso techo está formado por una estructura metálica soldada a partir de perfiles huecos rectangulares, a la que están tornilladas placas de contrachapado. Por el lado del compartimento de gran espacio, la parte superior del vidrio, con una anchura de 216 – 224 mm (la anchura de la banda no es del todo idéntica en los distintos tabiques), está recubierta con película autoadhesiva;
 
-
 ## Página 70
+
 
  6. en el tabique de compartimento, el falso techo termina a una distancia de varios mm (2 - 5 mm, la distancia no es del todo idéntica en los distintos tabiques) mediante un travesaño paralelo al tabique, que a una distancia de 23 mm del borde interior del vidrio del tabique se une a la viga longitudinal del falso techo;
  7. a esta estructura, desde abajo y desde el lado (hacia el eje longitudinal del vehículo), están tornilladas placas de contrachapado;
@@ -1633,15 +1618,16 @@ El fabricante utilizó para la fijación de las cubiertas de los soportes de los
 ## 3.1
 ### Documentación de los casos registrados
 ### 3.1.1 MU del 20. 12. 2010 en la estación de Kamenné Žehrovice
-Con la producción del MU se produjo la soltura y el desprendimiento de las cubiertas de los soportes de los asientos en el coche de mando y en el coche motorizado. En la figura 25 están resaltadas con flechas. 
-
+Con la producción del MU se produjo la soltura y el desprendimiento de las cubiertas de los soportes de los asientos en el coche de mando y en el coche motorizado. En la figura 25 están resaltadas con flechas.
 
 ## Página 71
+
 
 figura 24:  suelo del compartimento posterior para pasajeros del DV 914.057-5
 figura 25: vista al interior del DV 814.057-6
 
 ## Página 72
+
 
 ### 3.1.2 MU del 2 de febrero de 2011 entre la estación de Vodňany y la estación de Číčenice
 También en la creación de esta MU se produjo el aflojamiento y la caída de las cubiertas de los postes de los asientos en el coche de mando y en el coche motor.
@@ -1649,8 +1635,8 @@ imagen 26: suelo del coche motor 814.065-9
 En la imagen 27 se muestra el detalle de la cubierta desprendida; en la cubierta quedó un perno, y en el suelo cercano yacen los restos de otros dos pernos (indicado con flecha)
 imagen 27: detalle de la cubierta desprendida
 
-
 ## Página 73
+
 
 ### 3.1.3 Unidad motorizada 814.213-5/ 014.007-9/ 814.214-3
 En esta unidad motorizada probablemente se producía el aflojamiento de las cubiertas en el servicio normal, por lo que el operador modificó el fijado de las cubiertas y sustituyó parcialmente los pernos de plástico por remaches cizallables (indicado con flecha roja). Con flecha amarilla se indica el perno de plástico ausente. Con la creación de la MU no se produjo el aflojamiento de las cubiertas.
@@ -1660,16 +1646,14 @@ imagen 28: cubiertas de los postes de los asientos del DV 014.007-9
 Los DV de las series 814/914/014 están equipados en los compartimentos para pasajeros con mesas bajo ventanilla de forma trapezoidal. La mesa es plegable y está fijada al panel lateral de revestimiento mediante dos soportes conformados; la fijación se realiza mediante tornillos. La mesa se extiende hacia el eje longitudinal del vehículo casi dos tercios de la anchura del asiento situado junto a la ventana y se estrecha bajo un ángulo pequeño.
 En el impacto del DV, la persona sentada en el asiento junto a la ventana, con el pecho hacia la dirección de marcha, es proyectada directamente contra el borde de la mesa; la anchura de la mesa excluye la posibilidad de evitar este impacto. En las personas afectadas se producen así contusiones del abdomen o del tórax. Que estas lesiones se producen claramente por el impacto contra la mesa bajo ventanilla solo puede confirmarse allí donde se produce simultáneamente también su desprendimiento. En las siguientes imágenes se documentan casos de MU registradas.
 
-
 ## Página 74
 
-imagen 29: interior del DV 914.030-2 durante la inspección de recepción, sobre la mesa se encuentra la cubierta desprendida del poste del asiento
-Las imágenes indicadas son documentales y los datos exactos sobre el número de mesas bajo ventanilla desprendidas están registrados en los actas de las inspecciones de recepción de los respectivos DV y forman parte de los expedientes de las MU.
-imagen 30: interior del DV 914.056-7 en el lugar de la MU
-
+figura 29: interior del DV 914.030-2 durante la inspección de la comisión, sobre la mesita se encuentra la tapa desprendida del soporte del asiento
+Las figuras indicadas son documentales y los datos exactos sobre el número de mesitas bajo ventanas desprendidas están registrados en los protocolos de las inspecciones de la comisión de los DV individuales y forman parte de los expedientes de la MU.
+figura 30: interior del DV 914.056-7 en el lugar de la MU
 
 ## Página 75
 
-imagen 31: interior del 914.065-8 en el lugar de la MU
+figura 31: interior del 914.065-8 en el lugar del accidente
 ### Conclusión
-Sobre la base de la inspección de los elementos estructurales dañados del interior de los DV de las series 814/914 tras la MU, de la naturaleza de las lesiones de los pasajeros y de la comparación de las consecuencias de las MU indicadas en el capítulo 3.7, la DI emitió recomendaciones de seguridad para aumentar la seguridad de los maquinistas y de los pasajeros que utilizan trenes compuestos por estos DV, respectivamente para eliminar las consecuencias de las MU.
+Sobre la base de la inspección de los elementos constructivos dañados del interior de los vehículos DV de las series 814/914 tras el accidente, de la naturaleza de las lesiones de los pasajeros y de la comparación de las consecuencias del accidente descritas en el capítulo 3.7, la DI emitió recomendaciones de seguridad para aumentar la seguridad de los maquinistas y de los pasajeros que utilizan trenes compuestos por estos DV, respectivamente, para eliminar las consecuencias del accidente.

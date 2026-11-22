@@ -10,13 +10,14 @@ chars: 58594
 ratio_longitud: 1.09
 tokens_in: 24051
 tokens_out: 18230
-verificacion: revisar
-notas_cifras: ["bloque 2: cifras cortas: 1/99", "bloque 3: cifras cortas: 4/76", "bloque 8: cifras largas: 1/35"]
-avisos: ["bloque 3: marcadores de página: 4 vs 3"]
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 7: cifras cortas: 1/18", "página 9: cifras cortas: 1/29", "página 12: cifras cortas: 1/25", "página 13: cifras cortas: 1/16", "página 29: cifras largas: 1/14"]
 ---
+
 ## Página 1
+
 
 Centro de Investigación de la
 Oficina Federal de Investigación de Accidentes Ferroviarios
@@ -26,8 +27,8 @@ Estación de Berlín - Südkreuz
 20.11.2006
 Bonn, 19.09.2008
 
-
 ## Página 2
+
 
 ### Publicado por:
 Ministerio Federal de Transporte, Construcción y Desarrollo Urbano,
@@ -35,8 +36,8 @@ Oficina Federal de Investigación de Accidentes Ferroviarios
 Robert-Schuman-Platz 1
 53175 Bonn
 
-
 ## Página 3
+
 
 ### Índice:
 ### Página
@@ -98,8 +99,8 @@ Documentación de las operaciones realizadas....................................
 3.4.1
 Medidas del personal competente para la gestión del tráfico y
 
-
 ## Página 4
+
 
 |  | Señalización 28 ..................................................................................................... |
 | 3 4 2 . . | Registros en el ESTW Berlín-Westkreuz .....................................................29 |
@@ -108,8 +109,8 @@ Medidas del personal competente para la gestión del tráfico y
 | 6 | Medidas adoptadas hasta la fecha por la Oficina Federal de Transporte Ferroviario, Delegación Berlín .........32 , |
 | 7 | Medidas adoptadas hasta la fecha por S-Bahn Berlin GmbH ...............................................33 |
 
-
 ## Página 5
+
 
 ### 1 Resumen
 El 20 de noviembre de 2006, a las 10:23 horas, se produjo una colisión en la estación de S-Bahn de Berlín-Südkreuz (suburbio) entre el tren S 25066 y el tren de ensayo de vías por ultrasonidos Dsts(B) 96114. En el momento del accidente, el tren de ensayo de vías por ultrasonidos se encontraba detenido en el andén de la vía 502 de la estación de S-Bahn de Berlín-Südkreuz (suburbio), delante de la señal intermedia 276 que indicaba parada. El tren S 25066 se encontraba en su trayecto desde Teltow hacia Hennigsdorf, pasando por Berlín-Südkreuz (suburbio), vía 502. A pesar de haberse activado el freno de servicio y el freno de emergencia, superó ilegalmente la señal intermedia 278 que indicaba parada y chocó contra el tren de ensayo de vías por ultrasonidos detenido a una velocidad de aproximadamente 37 km/h. Se produjeron daños materiales considerables en ambos vehículos. En la colisión resultaron heridas 37 personas, dos de ellas de gravedad.
@@ -119,6 +120,7 @@ Además, la Oficina Federal de Transporte Ferroviario, para aclarar la causa del
 La causa de la colisión de ambos trenes fue la insuficiente eficacia de frenado del tren S 25066. Un coeficiente de fricción significativamente reducido entre la rueda y la vía debido a la humedad y la suciedad, la falta de información para el maquinista sobre los coeficientes de fricción reducidos como consecuencia del tren de ensayo de vías por ultrasonidos que circulaba por delante, un sistema de protección contra el patinamiento del freno no optimizado para este estado de la vía y la insuficiente eficacia del
 
 ## Página 6
+
 
 Los dispositivos de esparcimiento de arena del tren de la S-Bahn Berlin GmbH contribuyeron de manera decisiva a la insuficiente eficacia de frenado.
 
@@ -147,6 +149,7 @@ El tren S 25066 de la S-Bahn Berlin GmbH se encontraba en su viaje programado de
 
 ## Página 7
 
+
 Priesterweg, vía 524. Tras aproximadamente 45 segundos, el tren reanudó la marcha en dirección a la estación de S-Bahn Berlín-Südkreuz (Vorort). Desde el punto de cruce 524, el tren S 25066 circuló por la vía de línea 512 en dirección a la estación de S-Bahn Berlín-Südkreuz (Vorort). En la estación de S-Bahn Berlín-Südkreuz (Vorort), el tren S 25066 circuló ilegalmente más allá de la señal intermedia 278, que indicaba parada, hacia la vía de estación ocupada 502 y chocó a las 10:23 h contra el tren de inspección de vías por ultrasonidos Dsts(B) 96114, que se encontraba detenido allí.
 
 Los tiempos de llegada, salida y paso se han extraído de la situación de trenes y retrasos de trenes registrada electrónicamente de la S-Bahn Berlin GmbH.
@@ -170,6 +173,7 @@ Sra. Ing. Elske Thiemer
 Oficina Federal de Ferrocarriles, Delegación Berlín
 
 ## Página 8
+
 
 •
 Sr. Ing. Ullrich Pötschke,
@@ -201,6 +205,7 @@ Perito experto en vehículos ferroviarios, área de ensayo de frenos
 
 ## Página 9
 
+
 ### 2.2 Antecedentes del suceso
 
 ### 2.2.1 Trenes implicados y su composición
@@ -229,6 +234,7 @@ Heesestraße 24
 
 ## Página 10
 
+
 ### 2.2.2 Descripción de la infraestructura y del sistema de señales
 
 ### 2.2.2.1 Infraestructura
@@ -251,6 +257,7 @@ El tramo Berlín-Priesterweg – Berlín-Südkreuz (Vorort) pertenece al área d
 
 ## Página 11
 
+
 Control del tráfico de trenes S-Bahn. El puesto de trabajo del encargado del servicio de circulación competente se encuentra en la central de explotación de S-Bahn Berlin GmbH en Berlín-Halensee.
 El tramo de vía se recorre en explotación de doble vía y está equipado con un bloqueo automático de vía para la protección de las circulaciones de trenes (garantía del sistema de bloqueo espacial).
 La liberación de las vías y las agujas en el área de control remoto del ESTW Wkp se realiza mediante circuitos de corriente de vía de tono de frecuencia alimentados a distancia (FTGS) o mediante contadores de ejes.
@@ -262,8 +269,8 @@ En la colisión resultaron heridas 37 personas. De ellas, 33 eran viajeros que s
 ### 2.3.2 Vehículos, infraestructura y medio ambiente
 Según la información facilitada por S-Bahn Berlin GmbH, el daño en los vehículos ascendió a 100.000 euros. No se produjeron daños en la infraestructura ni al medio ambiente.
 
-
 ## Página 12
+
 
 ### 2.4 Condiciones meteorológicas
 El 20.11.2006, en el momento del accidente, el tiempo era seco y soleado. Según datos del Servicio Meteorológico Alemán, Oficina Meteorológica de Berlín, la temperatura era de aproximadamente 5 a 9 °C con una humedad relativa del 80 %.
@@ -280,41 +287,46 @@ Resultaron heridas 33 personas, dos de ellas gravemente. El maquinista y un acom
 • 
 El tren presentaba daños considerables, especialmente en la parte delantera del vehículo, en el primer vagón y en el segundo vagón (cabina dañada, parabrisas y, en los vagones, paneles divisorios destruidos).
 
-
 ## Página 13
 
+scheibe y en los vagones se destruyeron los tabiques de separación).
 • 
-El tren de ensayo de rieles por ultrasonidos Dsts(B) 96114 fue lanzado hacia adelante por la colisión con el tren S-Bahn y se detuvo a 30,5 m de la señal intermedia 276. Presentaba daños en la parte trasera del vehículo. Se detectó una fuga de líquido. Dos personas que se encontraban en el tren de ensayo de rieles por ultrasonidos también resultaron heridas y ya no fueron localizadas en el lugar.
+El tren de inspección ultrasónica de vías Dsts(B) 96114 fue lanzado hacia delante por la colisión con el tren S-Bahn y se detuvo a 30,5 m detrás de la señal intermedia 276. Presentaba daños en el extremo del vehículo. Se detectó una fuga de líquido. Dos personas que se encontraban en el tren de inspección ultrasónica de vías también resultaron heridas y tampoco fueron localizadas en el lugar.
 • 
-Las señales intermedias 276 y 278 situadas en la vía de andén 502, así como la señal intermedia 280, mostraban la indicación Hp 0 – Alto. Las barras de bloqueo de los enlaces de vía en estas señales se encontraban en posición de bloqueo.
+Las señales intermedias 276 y 278 situadas en la vía de andén 502, así como la señal intermedia 280, mostraban la indicación de señal Hp 0 – Alto. Los raíles de bloqueo de los topes de vía de estas señales se encontraban respectivamente en posición de bloqueo.
 • 
-El tiempo era seco, soleado y despejado.
+El tiempo meteorológico era seco, soleado y despejado.
 • 
-No se apreciaban daños en la superestructura de la vía de andén 502. En la zona de entrada a la estación hasta el tren S-Bahn detenido, la superficie de rodadura del riel se encontraba en estado seco aproximadamente a las 11:30 horas. Presentaba una suciedad en forma de capa negra en la zona de la vía de entrada (pendiente de aproximadamente 10 ‰). Esta capa se compone típicamente de hojas compactadas (la zona de entrada antes del puente sobre el Sachsendamm está densamente arbolada a ambos lados de la vía) y polvo.
+En la superestructura de la vía de andén 502 no se apreciaban daños. En el área de entrada de la estación hasta el tren S-Bahn detenido, la superficie de rodadura de los raíles se encontraba, hacia las ca. 11:30 horas, en estado seco. Presentaba, en el tramo de vía de la entrada (ca. 10 ‰ de pendiente), una suciedad en forma de una capa negra. Esta se compone típicamente de hojarasca compactada (el área de entrada antes del puente sobre el Sachsendamm está densamente arbolada a ambos lados de la vía) y polvo.
 • 
-En una longitud de aproximadamente 400 m en la zona de entrada a la estación se apreciaban leves rastros de arena en la superficie de rodadura del riel. La inspección visual de los depósitos de arena del tren reveló que de los 6 depósitos del tren, 3 contenían poca arena y 3 más no contenían arena (resultado de la comprobación de la funcionalidad de los dispositivos de esparcimiento de arena del tren S-Bahn, véase el punto 3.3.5).
+A lo largo de unos 400 m en el área de entrada de la estación eran apreciables ligeras trazas de arena en la superficie de rodadura. La comprobación visual de los depósitos de arena del tren arrojó, en 6 depósitos del tren, 3 con poca arena y 3 más sin arena (resultado de la comprobación de funcionalidad de los dispositivos de esparcido de arena del tren S-Bahn, véase Pkt. 3.3.5).
 • 
-Algunas marcas de color amarillo realizadas por el tren de ensayo de rieles por ultrasonidos se encontraban exclusivamente en el alma de los rieles de la vía de aproximación.
+Algunas marcas de color amarillo colocadas por el tren de inspección ultrasónica de vías se encontraban exclusivamente en el canto de los raíles de la vía de enlace.
 • 
-En el libro de bloqueo de conducción del cuarto de tren 481 437-2, el último número registrado para un paso indebido (activación del bloqueo de conducción) era el 221 el 16.11.2006. El contador del bloqueo de conducción «paso indebido» en la cabina del mencionado cuarto de tren mostraba el número 222. El paso por la señal intermedia 278 que mostraba la indicación de alto provocó, debido a la barra de bloqueo del enlace de vía que se encontraba en posición de bloqueo, la activación del bloqueo de conducción y el registro del paso indebido.
-• 
-En la cabina del tren S-Bahn, la palanca combinada de tracción y frenado se encontraba en la posición de frenado de emergencia.
-• 
-Se aseguraron los datos del registro electrónico de viaje de los trenes participantes (véase el punto 3.3.1) y la Policía Federal tomó en custodia oficial y entregó al Departamento Federal de Ferrocarriles toda la documentación relevante de los vehículos (tren S-Bahn / tren de ensayo de rieles por ultrasonidos).
-• 
-Tras la confirmación por parte del director de explotación ferroviaria de S-Bahn Berlin GmbH, no existen instalaciones de lubricación de rieles en las vías de aproximación.
-• 
-Además de los equipos de rescate y emergencia, estaban presentes en el lugar del incidente, entre otros, el gestor de emergencias y los directivos de S-Bahn Berlin GmbH, la Policía Federal, el senador del Interior y el director general de bomberos del Estado de Berlín. En el equipo de investigación del Departamento Federal de Ferrocarriles estaban representados empleados del departamento de explotación, de la técnica de vehículos y ingenieros de pruebas para las instalaciones de seguridad.
-### 3.2 Normativa y reglamentos
-### 3.2.1 Normativa jurídica aplicable y reglamentos estatales
-• 
-Ley General de Ferrocarriles (AEG) de 27.12.1993 (BO Federal I pág. 2378, 2396, 1994 I pág. 2439) en la redacción del 3 de agosto de 2005
-• 
-Ley sobre la administración del tráfico ferroviario del Estado (Ley de administración del tráfico ferroviario federal - BEVVG) de 27.12.1993 (BO Federal I pág. 2378, 2394) en la redacción del 31 de octubre de 2006
-• 
-Orden de construcción y explotación ferroviaria (EBO) de 08.05.1967 (BO Federal II pág. 1563) en la redacción del 31 de octubre de 2006
+En el libro de bloqueos del tren parcial 481 437-2, como último número registrado para una pasada no deseada (activación del bloqueo), figuraba el 221 el 16.11.2006. El contador de bloqueos «pasada no deseada» en la cabina de mando
+
+## Página 14
+
+del vg. del cuartohora mostraba el número 222. El paso junto a la señal intermedia 278 que indicaba parada provocó, a través del tramo de riel de bloqueo que se encontraba en posición de bloqueo del enlace de vía, la activación de la protección de tráfico y el registro del paso no deseado.
+•
+En la cabina de mando del tren de cercanías, la palanca combinada de conducción y frenado se encontraba en la posición de frenado rápido.
+•
+Se aseguraron los datos del registro electrónico de trayectos de los trenes implicados (véase Pto. 3.3.1) y todos los documentos relevantes de los vehículos (tren de cercanías / tren de inspección de rieles por ultrasonidos) fueron incautados por la Policía Federal y puestos a disposición de la Autoridad Federal Ferroviaria.
+•
+Tras la confirmación por parte del jefe de operaciones ferroviarias de la S-Bahn Berlin GmbH, no existen instalaciones de engrase de rieles en las vías de acceso.
+•
+Junto a los equipos de rescate y de intervención, estaban presentes en el lugar del suceso, entre otros: el gestor de emergencias y personal directivo de la S-Bahn Berlin GmbH, la Policía Federal, el senador del Interior y el director de bomberos del estado de Berlín. En el equipo de investigación de la Autoridad Federal Ferroviaria estaban representados personal de la especialidad de servicio de explotación, tecnología de vehículos, así como ingenieros de inspección de las instalaciones de seguridad.
+### 3.2 Normas y reglamentos
+### 3.2.1 Disposiciones legales pertinentes y normativas estatales
+•
+Ley General Ferroviaria (AEG) de 27.12.1993 (BGBl. I p. 2378, 2396, 1994 I p. 2439) en la versión de 03 de agosto de 2005
+•
+Ley sobre la administración del tráfico ferroviario federal (Ley de la administración del tráfico ferroviario federal - BEVVG) de 27.12.1993 (BGBl. I p. 2378, 2394) en la versión de 31 de octubre de 2006
+•
+Ordenanza de construcción y explotación ferroviaria (EBO) de 08.05.1967 (BGBl. II p. 1563) en la versión de 31 de octubre de 2006
 
 ## Página 15
+
 
 ### 3.2.2 Normas de explotación, disposiciones locales, requisitos para el personal, normas de mantenimiento y normas vigentes 
 • 
@@ -331,10 +343,10 @@ Manual de explotación de vehículos de S-Bahn Berlin GmbH:
 - Parte B – Servicio de explotación 
 - Parte C – Servicio de frenos 
 - Parte D – Servicio a bordo y en las locomotoras 
-- Parte F – 481/1 – Conducción de la serie 481 
-
+- Parte F – 481/1 – Conducción de la serie 481
 
 ## Página 16
+
 
 ### 3.3 Funcionamiento de los vehículos y de las instalaciones técnicas 
 ### 3.3.1 Sistemas de seguridad de trenes; registro electrónico del viaje 
@@ -365,10 +377,10 @@ freno electrodinámico averiado o desactivado
 • 
 FWR  
 Señal de habilitación para el inversor de tracción; es «0» cuando 
-el inversor de tracción está desactivado 
-
+el inversor de tracción está desactivado
 
 ## Página 17
+
 
 • 
 EHB 
@@ -378,10 +390,10 @@ El almacenamiento de los datos del KWR se realiza por cada cuarto de tren en un 
 La muestreo del impulso de distancia se realiza en los ejes rodantes del vagón A. Dado que el freno neumático (frenado de emergencia) también actúa sobre los ejes rodantes, no está siempre garantizada una rotación sin deslizamiento de estos ejes cuando se activa el freno (puede producirse un deslizamiento debido a la reducción del coeficiente de fricción entre la rueda y el raíl). En este caso, el valor registrado del recorrido debido al deslizamiento se desvía del valor real. En cuanto a la explicación detallada del funcionamiento del sistema de frenado, se remite al punto 3.3.2. 
 La velocidad se determina en la evaluación a partir del recorrido (impulso de distancia y perímetro de la rueda) y del tiempo transcurrido. 
 Los datos del KWR de los tres cuartos de tren fueron leídos en el lugar del accidente por empleados de S-Bahn Berlin GmbH y entregados a la Oficina Federal de Seguridad Ferroviaria (Eisenbahn-Bundesamt), Delegación de Berlín, en formato digital (3 disquetes). La evaluación de los datos se realizó con el programa GARREG V 3.1 de la empresa Adtranz Deutschland GmbH. Con el programa mencionado es posible representar los datos tanto de forma gráfica como tabular. 
-La evaluación siguiente se refiere al KWR del cuarto de tren líder (481 437-2 / 482 437-1). El KWR abarca un recorrido restante de 6430 metros hasta la detención tras la colisión (6,8 minutos de tiempo de viaje). En la tabla siguiente se muestran las maniobras de conducción registradas en relación con el tramo de vía Berlín-Priesterweg – Berlín-Südkreuz (Vorort): 
-
+La evaluación siguiente se refiere al KWR del cuarto de tren líder (481 437-2 / 482 437-1). El KWR abarca un recorrido restante de 6430 metros hasta la detención tras la colisión (6,8 minutos de tiempo de viaje). En la tabla siguiente se muestran las maniobras de conducción registradas en relación con el tramo de vía Berlín-Priesterweg – Berlín-Südkreuz (Vorort):
 
 ## Página 18
+
 
 | Tiempo2 [s] | Recorrido restante3 [m] | Km de vía | V4 [km/h] | Señal | Concepto de señal5 | Señal binaria6 | Maniobra de conducción / Evento |
 | 1055 - , | 1862 - | 5176 , |  |  |  | BF | Salida de Priesterweg |
@@ -405,6 +417,7 @@ Según lo registrado en la memoria de corto recorrido, el PZB se desactivó el 2
 
 ## Página 19
 
+
 volvió a activarse (para la lectura de los datos). En el periodo comprendido entre las 09:52 y las 12:21 horas no se registraron datos (interruptor principal de PZB «Apagado»). Por lo tanto, no se pudieron obtener de los datos asegurados información alguna para la continuación de la investigación del accidente.
 El momento del apagado de PZB coincide con la hora del cambio del tren de ensayo de vías por ultrasonidos al tramo de la estación de Mahlow, desde la red de ferrocarril de larga distancia a la red de vía derivada explotada por S-Bahn Berlin GmbH. La salida en la estación de S-Bahn de Mahlow como Dsts(B)
 96114
@@ -424,8 +437,8 @@ Con fecha de 25.02.2007, el Sr. Dipl. Ing. Detlef Scholdan presentó el dictamen
 13/12/2006/04J07A002. En el marco del citado dictamen, la Stabsstelle für Unfalluntersuching (Unidad Central para la Investigación de Accidentes) encargó también, mediante escrito de fecha
 01.12.2006 (9112-91uu/345-3323#1), a Brunel GmbH Railmotiv realizar mediciones de la fuerza de adherencia en los vehículos del tren S 25066. El informe de ensayo se presentó con fecha de 08.12.2006.
 
-
 ## Página 20
+
 
 En resumen, el perito describió la funcionalidad del sistema de frenos en los vehículos del tren S 25066 de la siguiente manera:
 • 
@@ -440,8 +453,8 @@ La causa de la baja prestación de frenado al aproximarse a la estación de S-Ba
 Desde la perspectiva del perito, el dimensionamiento y la prueba experimental del sistema de frenos de los vehículos de la serie BR 481 son insatisfactorios en lo que respecta al cumplimiento de las prestaciones de frenado elevadas exigidas con coeficientes de adherencia bajos entre la rueda y el carril. La citada constatación se refiere específicamente al control del freno electrodinámico y a la función del sistema de protección contra el patinamiento del freno electoneumático.
 Con fecha de 02.12.2007, el Sr. Dipl. Ing. Detlef Scholdan presentó una ampliación del dictamen n.º 13/12/2006/04J07A002. Esta ampliación profundiza en las explicaciones relativas al estado técnico de los vehículos, al análisis de las memorias de fallos a bordo, a las causas de la falla de frenado y a la influencia del coeficiente de adherencia en la distancia de frenado provocada por el medio de acoplamiento depositado por el tren de ensayo de vías por ultrasonidos.
 
-
 ## Página 21
+
 
 ### 3.3.3 Dictamen sobre el tren de ensayo de vías por ultrasonidos SPERRY SRS 200 del Sr.
 ### Dipl. Ing. Hartmut Hintze, DB Systemtechnik
@@ -457,6 +470,7 @@ La elaboración del dictamen corrió a cargo del Sr. Dipl. Ing. Frank Minde. El 
 
 ## Página 22
 
+
 En el marco de la elaboración del peritaje, DB Systemtechnik llevó a cabo una prueba técnica de frenado en un tren motor de la serie BR 481, conforme al módulo de prueba del EBA «Prueba técnica de frenado de vehículos motores en el marco de la aceptación conforme al § 32 de la EBO (prueba de tipo de vehículos individuales)». Con fecha de 25.01.2008 se presentó el informe de prueba 132-PR-17292-08.
 
 De forma resumida, el perito valoró el accidente de la siguiente manera:
@@ -469,6 +483,7 @@ De forma resumida, el perito valoró el accidente de la siguiente manera:
 
 ## Página 23
 
+
 • Cabe dudar de que el accidente se hubiera evitado incluso con el dispositivo de esparcimiento de arena debidamente lleno, debido al estado de montaje no optimizado. Solo la optimización de la situación de montaje propuesta en el informe de prueba 132-PR-1792-08 eleva el efecto mejorador de la adherencia a un nivel que habría permitido incluso evitar el accidente.
 • La señal /QSBS registrada en el registro de recorrido corto (véase también el punto 3.3.1.1.1 del informe de investigación) presenta un nivel de interferencia elevado, cuya causa sigue siendo desconocida. Sin embargo, para la secuencia del accidente, los impulsos de interferencia deben considerarse no relevantes.
 
@@ -480,6 +495,7 @@ Además, el perito propone las siguientes medidas para evitar casos de repetici�
 • El sistema antideslizamiento del freno electrodinámico debe optimizarse, al igual que el del freno neumático, con el objetivo de cumplir las condiciones derivadas de la norma UIC 541-05 «Frenos - Normas para la construcción de las distintas partes del freno, sistema antideslizante».
 
 ## Página 24
+
 
 • Se recomienda reducir la utilización de la adherencia en frenado de emergencia y en frenado de emergencia rápida con la masa de servicio en estado seco.
 Hasta que se demuestre la implementación de las medidas anteriores, el perito considera necesarias medidas compensatorias operativas.
@@ -504,6 +520,7 @@ Según la evaluación del perito, solo los dispositivos de esparcimiento de aren
 
 ## Página 25
 
+
 Según el pliego de condiciones para los dispositivos de arenado de DB AG (edición 1998), para velocidades de hasta 140 km/h se prevé la aplicación de una cantidad de arena de 300 a 500 g en 30 segundos.
 De acuerdo con los documentos de trabajo de S-Bahn Berlin GmbH vigentes desde el 24.11.2006 para la realización de la revisión de frenos BR 1.2, se establece como característica de calidad la aplicación de una cantidad de arena de 500 a 1000 g en 30 segundos.
 Bajo la suposición de una cantidad de arena a aplicar de 500 g en 30 segundos (pliego de condiciones DB AG), la proporción (%) de la cantidad de arena realmente aplicada por cada dispositivo de arenado del tren del accidente, basada en los valores de la tabla 1, se presenta de la siguiente manera:
@@ -524,6 +541,7 @@ La evaluación cualitativa de la funcionalidad de los dispositivos de arenado de
 En el marco de la prueba de frenado realizada a los vehículos de la serie 481 (informe de prueba 132-PR-1792-08) se constató que
 
 ## Página 26
+
 
 • 
 la disposición de los tubos de arena de los dispositivos de arenado provoca que parte de la arena aplicada no llegue a la vía y  
@@ -553,10 +571,10 @@ Trabajos en los dispositivos de arenado:
 Trabajos en los dispositivos de arenado:
 - Prueba de funcionamiento del dispositivo de arenado durante el control de entrada según 
   el plan de trabajo U8101VV02 y 
-- Control del nivel de llenado del dispositivo de arenado según U8153VV01  
-
+- Control del nivel de llenado del dispositivo de arenado según U8153VV01
 
 ## Página 27
+
 
 • 
 ### Mantenimiento 
@@ -590,6 +608,7 @@ A pesar de la prueba de funcionamiento de los dispositivos de arenado realizada 
 
 ## Página 28
 
+
 estaba fuera de servicio.
 
 • 
@@ -615,6 +634,7 @@ El tren de ensayo de vías por ultrasonidos Dsts(B) 96114 circuló por la línea
 
 ## Página 29
 
+
 En Berlín-Westkreuz se había configurado previamente la vía libre para un tren con destino a la estación de Anhalter Bahnhof. El jefe de tráfico corrigió la configuración de la vía libre mediante un cambio de vía libre, revocando dicha configuración de vía libre (aprox. a las 10:20 h). A continuación, preparó la maniobra de maniobras del tren de ensayo de rieles por ultrasonidos desde el andén 502 a la vía de cruce 503.
 • 
 El tren S 25066, que originalmente debía seguir al tren de ensayo de rieles por ultrasonidos según el horario, circuló sin detenerse en el punto de parada Berlín-Schichauweg debido a una reducción de la eficacia del freno y a una actuación incorrecta del maquinista (paso de andén) y fue desembarcado por los viajeros en la estación de S-Bahn Berlín-Marienfelde y retirado de la composición de trenes programada. Debido a esta avería, al tren de ensayo de rieles por ultrasonidos Dsts(B) 96114, a partir de la estación de S-Bahn Berlín-Priesterweg, le siguió el tren S 25066 procedente de la dirección de Teltow.
@@ -629,8 +649,8 @@ El tren S 25066 superó la señal principal 278 que indicaba parada y entró en 
 En el ESTW Berlín-Westkreuz, tras la ocurrencia del incidente, el equipo de investigación de accidentes de la Oficina Federal de Ferrocarriles (Eisenbahn-Bundesamt) encontró la siguiente situación y realizó las siguientes constataciones:
 9 según DV 301
 
-
 ## Página 30
+
 
 • 
 Las instalaciones de seguridad de la estación de S-Bahn Berlín-Südkreuz se encontraban en estado inalterado; las imágenes ampliadas mostraban el estado técnico de seguridad constatado en el lugar del incidente. El cambio de vía libre pudo ser reconstruido y no presentó observaciones desde el punto de vista operativo y de seguridad.
@@ -638,8 +658,8 @@ Las instalaciones de seguridad de la estación de S-Bahn Berlín-Südkreuz se en
 No hubo perturbaciones técnicas de las señales en la zona de Berlín-Südkreuz en el momento del accidente. Tampoco se realizaron trabajos en las instalaciones en el momento del incidente.
 Como resultado de estas comprobaciones, se debe constatar que las instalaciones de seguridad del ESTW competente para la estación de S-Bahn Berlín-Südkreuz (suburbano) funcionaron correctamente en el momento del accidente. No se registraron actuaciones incorrectas por parte del personal de mando que causaran la causa del accidente.
 
-
 ## Página 31
+
 
 ### 4 Análisis y conclusiones
 Sobre la base de la investigación de accidentes realizada el día del accidente en el lugar por la Oficina Federal de Ferrocarriles, Delegación Berlín, de las investigaciones posteriores llevadas a cabo en S-Bahn Berlin GmbH (empresa de transporte ferroviario) y en DB Netz AG (empresa de infraestructura ferroviaria), así como del análisis de los informes de los puntos 3.3.2, 3.3.3 y 3.3.4, se determinó el siguiente estado de los hechos:
@@ -653,8 +673,8 @@ Debido al bajo nivel de llenado de los depósitos de arena, la funcionalidad de 
 • 
 La concepción del sistema de frenado de los vehículos de la serie BR 481 no cumple, ni con el freno de servicio ni con el freno de emergencia, las condiciones derivadas de la norma UIC 541-05 cuando los coeficientes de adherencia son bajos.
 
-
 ## Página 32
+
 
 ### 5 Recomendaciones de seguridad
 Tras la presentación del informe nº 13/12/2006 04J07A002 del Sr. Dipl. Ing. Scholdan, el responsable de investigación de accidentes, mediante escrito de fecha 29.03.2007, formuló a la Oficina Federal de Ferrocarriles (autoridad de seguridad) las siguientes recomendaciones:
@@ -667,6 +687,7 @@ Mediante resolución de la Oficina Federal de Ferrocarriles de fecha 28.03.2007 
 Mediante escrito de fecha 12.04.2007, S-Bahn Berlin GmbH comunicó que, con una instrucción interna de fecha 08.12.2006, se considera inaceptable superar el valor planificado para el mantenimiento (control del nivel de llenado en los dispositivos de esparcimiento de arena) de 14 días calendario (véase al respecto también el punto 3.3.5.3).
 
 ## Página 33
+
 
 ### 7 Medidas adoptadas hasta la fecha por S-Bahn Berlin GmbH
 
@@ -685,6 +706,7 @@ Mediante escrito de fecha 19.12.2007 dirigido a la Oficina Federal de Ferrocarri
 •   equipar los vehículos de la serie BR 481 con un indicador del nivel de llenado de arena (se prevé la finalización de las obras de modificación para el otoño de 2008),
 
 ## Página 34
+
 
 •   optimizar los dispositivos de esparcimiento de arena de acuerdo con las recomendaciones del dictamen 08-TZO-04H12A001-15,
 •   equipar un vehículo experimental con «protección contra el patinaje selectiva por eje» (el objetivo es contar con un vehículo experimental equipado hasta abril de 2008; para mayo de 2008 están previstos ensayos correspondientes) y

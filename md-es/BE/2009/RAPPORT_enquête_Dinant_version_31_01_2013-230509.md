@@ -10,12 +10,13 @@ chars: 95346
 ratio_longitud: 1.01
 tokens_in: 41963
 tokens_out: 30822
-verificacion: ok
-notas_cifras: ["bloque 12: cifras largas: 1/5", "bloque 15: cifras cortas: 7/120"]
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
 ---
+
 ## Página 1
+
 
 Organismo de Investigación de Accidentes e Incidentes Ferroviarios
 INFORME DE INVESTIGACIÓN DE SEGURIDAD
@@ -29,17 +30,18 @@ EN DINANT
 Enero de 2013
 Enero de 2013
 
-
 ## Página 2
+
 
 
 ## Página 3
 
+
 Cualquier uso de este informe con un propósito distinto al de la prevención de accidentes
 - por ejemplo, el de definir responsabilidades, y mucho menos culpabilidades individuales o colectivas - se realizaría en una distorsión total con los objetivos de este informe, los métodos utilizados para elaborarlo, la selección de los hechos recogidos, la naturaleza de las preguntas planteadas y los conceptos que moviliza, a los que la noción de responsabilidad es ajena. Las conclusiones que de él se pudieran derivar serían, por tanto, abusivas en el sentido literal del término.
 
-
 ## Página 4
+
 
 ## ÍNDICE
 1.	
@@ -144,10 +146,10 @@ Interfaz hombre-máquina-operación
 30
 3.6.4	 Diseño de los equipos que tienen impacto en la interfaz hombre-máquina	
 3.7	 Acontecimientos anteriores de naturaleza comparable	
-3.7.1	 Incidentes comunicados por los acompañantes de tren	
-
+3.7.1	 Incidentes comunicados por los acompañantes de tren
 
 ## Página 5
+
 
 4.	
 Análisis y Conclusiones	
@@ -200,8 +202,8 @@ Lista de incidentes facilitados por la SNCB
 7.3	 Calendario del escolar	
 57
 
-
 ## Página 6
+
 
 ## GLOSARIO
 A R	
@@ -313,10 +315,12 @@ VCAW
 :	
 Verwarming/Chauffage Aiguillage/Wissel
 
-
 ## Página 7
 
+
+
 ## Página 8
+
 
 ## 1. RESUMEN
 El escenario más probable del accidente ocurrido en Dinant el 23 de mayo de 2009, que causó graves mutilaciones al acompañante de tren y a un viajero, es, según la información disponible en la fecha de hoy, la pérdida de equilibrio durante la puesta en movimiento del tren. El viajero habría intentado sacar a su hija por la última puerta que permanecía abierta a pesar de la prohibición verbal del acompañante, mientras el tren arrancaba.
@@ -337,7 +341,10 @@ El análisis sistémico de las diversas barreras de control y protección que co
 
 ## Página 9
 
+
+
 ## Página 10
+
 
 ## 2. LOS HECHOS INMEDIATOS
 
@@ -370,7 +377,10 @@ Representado en rojo en el esquema siguiente es un tren que está estacionado en
 
 ## Página 11
 
+
+
 ## Página 12
+
 
 ## 2.1.3 LOS SERVICIOS DE EMERGENCIA
 
@@ -402,6 +412,7 @@ El informe se redacta en función de los elementos disponibles de la época y de
 • Estudios complementarios de documentación y reglamentación
 
 ## Página 13
+
 
 ## 2.2	 LAS CIRCUNSTANCIAS DEL INCIDENTE
 ## 2.2.1	 EMPRESAS Y PERSONAL INVOLUCRADO
@@ -438,8 +449,8 @@ Según la estructura actual, la empresa ferroviaria se divide en 4 direcciones p
 •  SNCB Technics
 •  SNCB Fret Services
 
-
 ## Página 14
+
 
 A las anteriores se suman 3 servicios de apoyo:
 •  Compras y Logística
@@ -470,8 +481,8 @@ El tren está compuesto por uno o varios automotores de tipo 41.
 ## TREN E 2411
 No hay información disponible
 
-
 ## Página 15
+
 
 ## 2.2.3	 DESCRIPCIÓN DE LA INFRAESTRUCTURA: ESTACIÓN DE DINANT
 La estación dispone de un edificio para viajeros con taquilla, abierto todos los días.
@@ -480,6 +491,7 @@ La estación de Dinant está constituida por 2 andenes y 3 vías + una vía de s
 Los pasajeros acceden a los andenes 2 y 3 a través del andén central, cruzando las vías bajo la supervisión de un agente que posee las funciones de seguridad adecuadas.
 
 ## Página 16
+
 
 ## 2.2.4	 TRABAJO REALIZADO EN EL LUGAR O EN LAS PROXIMIDADES DEL LUGAR DEL ACCIDENTE
 No aplicable
@@ -526,8 +538,8 @@ No aplicable
 ## 2.3.2	 MERCANCÍAS, EQUIPAJES Y OTROS BIENES
 No hay daños de equipajes
 
-
 ## Página 17
+
 
 ## 2.3.3	 MATERIAL RODANTE, INFRAESTRUCTURA Y MEDIO AMBIENTE
 No hay daños en la infraestructura, el material rodante ni en el medio ambiente.
@@ -540,8 +552,8 @@ El tiempo estaba soleado con una temperatura de 22°C y una visibilidad muy buen
 Situada a 107 m de altitud, la estación de Dinant se encuentra en el punto kilométrico (PK) 88.938 de la línea 
 154, de Namur a Dinant, entre las estaciones abiertas de Yvoir y Anseremme
 
-
 ## Página 18
+
 
 ## 3.	ACTA DE LAS INVESTI­
 ## GACIONES Y ENQUISTAS
@@ -563,8 +575,8 @@ por los gritos provocados por el accidente. »
 ## 3.2	 SISTEMA DE GESTIÓN DE LA SEGURIDAD
 No se aplica.
 
-
 ## Página 19
+
 
 ## 3.3	 NORMAS Y REGULACIÓN
 A continuación se recogen únicamente los fragmentos seleccionados en el marco del accidente.
@@ -596,6 +608,7 @@ ciembre de 2007 por el que se establece el reglamento de policía sobre los ferr
 
 ## Página 20
 
+
 20 DE DICIEMBRE DE 2007. - DECRETO REAL POR EL QUE SE ESTABLECE EL REGLAMENTO DE POLICÍA FERROVIARIA
 ### CAPÍTULO II. - Obligaciones del público en general
  Art. 5. Queda prohibido a toda persona que no forme parte del personal de la empresa ferroviaria, del gestor de la infraestructura o del gestor de la estación, designado a tal efecto: 
@@ -618,8 +631,8 @@ ciembre de 2007 por el que se establece el reglamento de policía sobre los ferr
 Art. 35. El artículo 3 no se aplicará a los conductores o acompañantes de tren que hayan iniciado su formación antes del día de entrada en vigor del presente decreto real.
 el anexo 3, al que se hace referencia en la ley relativa al personal de a bordo, se adjunta como anexo 7.1 del presente informe
 
-
 ## Página 21
+
 
 ## 3.3.2	 OTRAS NORMAS, COMO LAS NORMAS DE EXPLOTACIÓN, LAS INSTRUCCIONES LOCALES, LOS REQUISITOS APLICABLES AL PERSONAL, LAS PRESCRIPCIONES DE MANTENIMIENTO Y LAS NORMAS APLICABLES.
 ## 3.3.2.1	
@@ -659,6 +672,7 @@ plazo de transbordo calculado para dicha estación”.
 
 ## Página 22
 
+
 ## 3.3.2.3	 RSEIF 4.1 - HORARIO DE LOS TRENES
 En el § 7.1. PRINCIPIO
 Un tren circula por un itinerario respetando un horario. El maquinista y el personal a bordo deben estar en posesión del horario del tren antes de abandonar la instalación situada en el origen del itinerario que debe seguir dicho tren (estación de origen).
@@ -679,8 +693,8 @@ La UI determina los procedimientos que deben aplicar su personal y equipa eventu
 Estas operaciones las realiza el jefe de tren o se efectúan bajo su responsabilidad cuando este es ayudado por otros agentes de la UI.
 El agente de movimiento o el personal de tierra de la UI puede prescribir al jefe de tren que someta a su aprobación el cierre de las puertas y la transmisión de la información OT cuando la medida sea necesaria para garantizar una correspondencia o para cualquier otra misión de explotación. La orden de retrasar estas operaciones se da por altavoces únicamente en caso de urgencia.
 
-
 ## Página 23
+
 
 ### Condiciones de salida
 La salida de los trenes de viajeros escortados está supeditada a las condiciones siguientes:
@@ -708,6 +722,7 @@ La información OT se da mediante los IOT. Queda entonces prohibido utilizar, co
 La UI da las directrices necesarias a su personal para evitar que una mala interpretación del funcionamiento normal o un uso indebido del equipo propio del material servido sea considerado como una información OT por el maquinista.
 
 ## Página 24
+
 
 Cuando los IOT no estén operativos o no se utilicen (avería, salida con orden de franqueo, salida con el testigo de franqueo de la señal servida, ciertas salidas en pequeño movimiento, etc.), o cuando el maquinista no tenga la posibilidad de observar un IOT, la información OT se transmite, tras acuerdo entre el maquinista y el jefe de tren, como en las salidas de vías no equipadas con IOT.
 Cuando un agente de maniobras que da servicio a una instalación adopta una disposición o tiene conocimiento de una situación que impida la utilización de los IOT en la salida del tren, informará al jefe de tren lo antes posible.
@@ -738,8 +753,8 @@ maquinista.
 La OT es la información que indica al maquinista que las operaciones relacionadas con la detención del tren 
 han finalizado. Esta información no constituye una orden de salida.
 
-
 ## Página 25
+
 
 ### Condiciones de transmisión de la información OT
 La transmisión de la información OT está sujeta a las siguientes condiciones:
@@ -768,8 +783,8 @@ Se obtiene:
 •  devolviendo a continuación la llave a su posición inicial antes de retirarla de su alojamiento.
 La cancelación no tiene efecto cuando las luces blancas o las luces amarillas están encendidas.
 
-
 ## Página 26
+
 
 ### Control de la presencia del jefe de tren en las salidas de vías equipadas con IOT
 En las unidades múltiples y automotores, el maquinista debe asegurarse de la presencia del jefe de tren 
@@ -805,6 +820,7 @@ El principio del autorial 41 es diferente del de las automotoras: la lámpara es
 
 ## Página 27
 
+
 ## 3.4	 FUNCIONAMIENTO DEL MATERIAL RODANTE Y DE LAS INSTALACIONES TÉCNICAS
 ## 3.4.1	 SISTEMA DE SEÑALIZACIÓN Y CONTROL-CONDUCCIÓN, INCLUIDOS LOS REGISTROS DE LOS REGISTRADORES AUTOMÁTICOS DE DATOS,
 No aplicable
@@ -829,8 +845,8 @@ extremo y en cada pared del automotor.
 Un sistema de bloqueo impide que se puedan introducir datos simultáneamente desde los
 dos ordenadores de un mismo automotor.
 
-
 ## Página 28
+
 
 ## 3.4.3	 OTROS
 ## 3.4.3.1	
@@ -854,8 +870,8 @@ El acceso a las andanas II y III está prohibido a los viajeros mediante la señ
 El paso por los viajeros solo está autorizado en presencia del personal de la estación.
 La seguridad del cruce de vías por los viajeros es competencia del gestor de infraestructura.
 
-
 ## Página 29
+
 
 ## 3.5	 DOCUMENTACIÓN DEL SISTEMA OPERATIVO
 ## 3.5.1	 INTERCAMBIO DE MENSAJES VERBALES EN RELACIÓN CON EL INCIDENTE, INCLUIDA LA
@@ -889,6 +905,7 @@ tructura ferroviaria. Regula las modalidades prácticas relativas a la utilizaci
 
 ## Página 30
 
+
 ## 3.6	 INTERFAZ HUMANO-MÁQUINA-OPERACIÓN
 ## 3.6.1	 DATOS RELATIVOS AL CONDUCTOR
 El conductor del tren estaba en posesión de una licencia válida en el momento del accidente.
@@ -920,8 +937,8 @@ Los trayectos de formación se basan en:
 • 	una integración de la teoría y la práctica.
 Al final de la formación, el candidato se somete a la prueba de certificación. En caso de aprobar esta prueba, el candidato obtiene su certificado.
 
-
 ## Página 31
+
 
 ## LA FORMACIÓN FUNDAMENTAL 
 ### Objetivo
@@ -958,8 +975,8 @@ Los módulos son objeto de adaptación en función de la evolución de la reglam
 Ciertos módulos e-learning se han integrado en el sistema de venta Ibis y refuerzan el aprendizaje de estos módulos.
 El acompañante había finalizado su formación de acompañante el 1 de noviembre de 1993, por lo que no siguió el plan actual, sino que siguió las formaciones permanentes necesarias para la obtención de la renovación de su título de acompañante de tren.
 
-
 ## Página 32
+
 
 ## 3.6.4	 DISEÑO DE LOS EQUIPOS QUE TIENEN IMPACTO EN LA INTERFAZ HUMANO-MÁQUINA
 Según el RSEIF 4.1, al salir de las vías equipadas con IOT, la UI prevé un procedimiento que permite al conductor asegurarse de la presencia del jefe de tren justo después de la puesta en movimiento de su tren.
@@ -995,6 +1012,7 @@ Esta opción disponible en los automotores no se instaló en el material rodante
 
 ## Página 33
 
+
 ## 3.7	 INCIDENTES ANTERIORES DE NATURALEZA COMPARABLE
 ## 3.7.1	 INCIDENTES COMUNICADOS POR LOS ACOMPAÑANTES DE TREN
 Numerosos incidentes de embarque y desembarque son comunicados por los acompañantes de tren.
@@ -1007,8 +1025,8 @@ Las diversas campañas de concienciación de los viajeros parecen empezar a dar 
 •  folleto explicativo
 •  artículo en el periódico Metro distribuido gratuitamente en las estaciones
 
-
 ## Página 34
+
 
 ## 4.	 ANÁLISIS Y CONCLUSIONES
 ## 4.1	 INFORME FINAL DE LA CADENA DE EVENTOS
@@ -1048,8 +1066,8 @@ de las luces blancas del IOT;
 •  respeto por parte del maquinista de las indicaciones dadas por la señalización, por una orden de fran­
 queo o por una de las autorizaciones previstas.
 
-
 ## Página 35
+
 
 El acompañante acciona el conmutador de mando del IOT y sube al tren por la 
 puerta que permanecía abierta.
@@ -1071,6 +1089,7 @@ El maquinista no se ha percatado de la ausencia del acompañante de tren.
 
 ## Página 36
 
+
 ## 4.2	 DISCUSIÓN 
 ## 4.2.1	 PRINCIPIO DE CONTROL
 ## 4.2.1.1	
@@ -1089,8 +1108,8 @@ Resultaba materialmente imposible para los viajeros procedentes de Bruselas acce
 Parece ser que no se realizó ningún anuncio para indicar a los viajeros que un tren con destino a Libramont, con parada en la estación de Houyet, estaba estacionado en la vía 1, lado B, en la estación durante la llegada del tren. No existe un sistema de grabación de estos anuncios.
 Parece ser que no se realizó ningún anuncio en el tren durante su llegada a la estación para indicar a los viajeros que un tren con destino a Libramont, con parada en la estación de Houyet, estaba estacionado en la misma vía, lado B. Esto no parece estar previsto en la instrucción « PAT 3.14.1 Comunicación con la clientela ». No existe un sistema de grabación de estos anuncios.
 
-
 ## Página 37
+
 
 Además, el tren que la familia habría debido tomar, así como los demás viajeros procedentes de Bruselas, se encontraba en la vía 1B en Dinant. Este tren, constituido por un automotor tipo 41, estaba estacionado en la vía 1B desde hace aproximadamente 40 minutos. Parece ser que el indicador del tren mostraba como destino Dinant y no Libramont. 
 El procedimiento no especifica el momento en que debe modificarse el display. Durante este periodo, el personal realiza su descanso.
@@ -1112,24 +1131,24 @@ Cruzar las vías férreas no solo es peligroso, sino ilegal. Esta actitud provoc
 ## Página 38
 
 ## 4.2.1.5	
-## PROCEDIMIENTO DE SALIDA DE LOS TRENES DE VIAJEROS
-Con tres pitidos cortos, el acompañante advierte a los pasajeros de que el desembarque y el embarque han finalizado. En ese momento, todo movimiento de viajeros debe cesar, ya que la cierre de las puertas es inminente. En las andenas equipadas con IOT, el maquinista no hace caso a los pitidos.
-Acciona el cierre automático de las puertas, con la excepción de una sola. Verifica el cierre correcto de las puertas y procede a accionar el conmutador del IOT mediante uno de los cuadros previstos y dispuestos a intervalos regulares en la andén. A continuación, dispone de 10 segundos para subir a bordo del tren.
-El acompañante regresa a la plataforma, de la cual no está autorizado a cerrar la puerta hasta después de la primera media vuelta de las ruedas del convoy. El acompañante del tren debe, por tanto, encontrarse en el peldañopara realizar correctamente su tarea.
-Este procedimiento se estableció para garantizar la seguridad de los usuarios: permite al acompañante echar un último vistazo a la andén para asegurarse de la seguridad de los viajeros.
-Durante esta «zona gris», está prohibido a los viajeros subir al tren, ya que el riesgo de caída durante el embarque y el arranque es demasiado elevado. A partir de ese momento, el maquinista del tren puede arrancar en cualquier momento con la encendida de las seis luces blancas o amarillas del IOT. En cuanto la información OT se transmite al maquinista, el desplazamiento del convoy está autorizado, respetando la señalización. Es frecuente que un retrasatario intente colarse en el tren por esa única puerta que permanece abierta.
-Durante esta «zona gris», el plazo entre el momento en que el acompañante acciona el IOT y el momento en que el maquinista recibe la información «Operación Terminada» y arranca, no es conocido por el personal, ni por el maquinista, ni por el acompañante. Plazo durante el cual el acompañante debe mantener la última puerta abierta e impedir, sin intervención física, que los viajeros suban a bordo. Surgen problemas cuando el acompañante acciona el IOT y debe impedir el embarque de los viajeros mientras la señal permanece cerrada y el maquinista no recibe la información «Operaciones Terminadas» mediante las seis luces blancas del IOT. Los acompañantes son, además, víctimas regularmente de diversas agresiones.
-Durante sus formaciones continuas, los acompañantes reciben instrucciones, entre otras cosas, sobre el procedimiento de salida.
-No es el primer incidente entre un viajero y un acompañante; los viajeros son testigos regularmente de escenas en las que viajeros intentan subir a un tren mientras el acompañante del tren intenta hacer respetar la prohibición.
+## PROCEDIMIENTO DE SALIDA DE LOS TRENES DE VIAJEROS 
+Con tres pitidos breves, el revisor avisa a los pasajeros de que el desembarque y el embarque han finalizado. En ese momento, todo movimiento de viajeros debe cesar, ya que el cierre de las puertas es inminente. En los andenes equipados con IOT, el maquinista no presta atención a los pitidos.
+Activa el cierre automático de las puertas con excepción de una sola. Verifica el cierre correcto de las puertas y se dispone a activar el conmutador del IOT mediante una de las cajas previstas y dispuestas a intervalos regulares en el andén. Dispone a continuación de 10 segundos para subir a bordo del tren.
+El revisor regresa a la plataforma, de la que solo está autorizado a cerrar la puerta después del primer medio giro de rueda del convoy. El revisor de tren debe, por tanto, encontrarse en el estribo para realizar correctamente su tarea.
+Este procedimiento se ha establecido para garantizar la seguridad de los usuarios: permite al revisor echar un último vistazo al andén para asegurarse de la seguridad de los viajeros.
+Durante esta «zona gris», está prohibido a los viajeros subir al tren, ya que el riesgo de caída durante el embarque y la puesta en movimiento es demasiado importante. A partir de ese momento, el maquinista del tren puede partir en cualquier momento gracias al encendido de las seis luces blancas o amarillas del IOT. En cuanto la información OT se transmite al maquinista, el desplazamiento del convoy queda autorizado respetando la señalización. Es frecuente que un viajero con retraso intente introducirse en el tren por esta única puerta que permanece abierta.
+Durante esta «zona gris», el plazo entre el momento en que el revisor activa el IOT y el momento en que el maquinista recibe la información «Operación Terminada» y arranca, no es conocido por el personal, ni por el maquinista, ni por el revisor. Durante el cual el revisor debe mantener la última puerta abierta e impedir sin intervención física que los viajeros suban a bordo. Surgen problemas cuando el revisor activa el IOT y debe impedir el embarque de los viajeros mientras la señal permanece cerrada y el maquinista no recibe la información «Operaciones Terminadas» por las seis luces blancas del IOT. Los revisores son, además, víctimas regularmente de agresiones diversas.
+Durante sus formaciones permanentes, los revisores reciben instrucciones, entre otros aspectos, sobre el procedimiento de salida.
+No es el primer altercado entre un viajero y un revisor; los viajeros son testigos regularmente de escenas en las que viajeros intentan subir a un tren mientras el revisor de tren trata de hacer respetar la prohibición.
 El procedimiento de mantener la última puerta abierta es muy antiguo y su origen se explica por el hecho de que:
-• 	a principios del siglo pasado, los acompañantes debían cerrar ellos mismos las puertas de los viajeros,
-• 	antes de los años 70, las puertas del material rodante podían abrirse en cualquier momento por los viajeros mediante la simple presión de los botones situados en el interior y en el exterior del material rodante.
-En la actualidad, una vez que las puertas han sido cerradas por el acompañante, ya no es posible abrirlas salvo accionando la apertura de emergencia automática. Está prohibido accionar la apertura de emergencia sin una urgencia real; este acto también es sancionable.
-El procedimiento se conserva, entre otras razones, porque cuando las andenas no están equipadas con IOT, la información «Operación Terminada» se transmite mediante la encendida de la lámpara de mano.
-La encendida de la lámpara de mano, durante el cierre de todas las puertas en una andén equipada con IOT, es un riesgo identificado por la empresa ferroviaria, que puede inducir a error al maquinista.
-
+• 	a principios del siglo pasado, los revisores debían cerrar ellos mismos las puertas de los viajeros,
+• 	antes de los años 1970, las puertas del material rodante podían ser abiertas en cualquier momento por los viajeros mediante una simple pulsación de los botones en el interior y el exterior del material rodante.
+A fecha de hoy, una vez cerradas las puertas por el revisor, ya no es posible abrir las puertas salvo activando la apertura de emergencia automática. Está prohibido activar la apertura de emergencia sin una verdadera urgencia, este acto es igualmente repreensible.
+El procedimiento se conserva especialmente porque cuando los andenes no están equipados con IOT, la información «Operación Terminada» se transmite mediante el encendido de la luz puerta.
+El encendido de la luz puerta, durante el cierre de todas las puertas en un andén equipado con IOT, es un riesgo identificado por la empresa ferroviaria, que puede inducir a error al maquinista.
 
 ## Página 39
+
 
 Si, tras accionar el conmutador del IOT, el acompañante hubiera regresado al tren y cerrado inmediatamente la última puerta, el accidente probablemente no se habría producido.
 Un nuevo procedimiento está en estudio desde junio de 2009.
@@ -1144,8 +1163,8 @@ Este famoso adagio no significa que se considere que todo ciudadano conoce el co
 Este adagio representa en realidad una ficción jurídica, es decir, un principio del cual se sabe que su realización es imposible, pero que es necesario para el funcionamiento del orden jurídico. Aquí, la ficción es evidente: nadie puede conocer el conjunto de las leyes, pero al mismo tiempo, esta ficción es necesaria.
 De hecho, si no existiera, bastaría con que toda persona perseguida sobre la base de una ley invocara (e incluso demostrara) su ignorancia del texto en cuestión para eludir cualquier sanción. Se comprende que las reglas perderían toda eficacia ante la facilidad con la que se podría sustraer a su aplicación.
 
-
 ## Página 40
+
 
 ## 4.2.2	 PRINCIPIO DE RECUPERACIÓN
 ## 4.2.2.1	
@@ -1155,6 +1174,7 @@ La señal de parada de emergencia no se encuentra a la altura de las plataformas
 El acompañante del tren no pudo accionar la señal de parada de emergencia.
 
 ## Página 41
+
 
 ## 4.2.2.2	
 ## SALIDA DEL TREN DE VIAJEROS
@@ -1170,10 +1190,10 @@ El accidente demuestra que el procedimiento actual no responde totalmente a los 
 De hecho, el día del accidente, cuando se cumplen las dos condiciones, el maquinista, al no haber observado nada anormal, arranca. 
 ## 4.2.3	 PRINCIPIO DE MITIGACIÓN 
 El viajero es trasladado en ambulancia al hospital de Mont-Godinne.
-El acompañante es evacuado en helicóptero hacia el hospital Notre-Dame de Charleroi. 
-
+El acompañante es evacuado en helicóptero hacia el hospital Notre-Dame de Charleroi.
 
 ## Página 42
+
 
 ## 4.3	 CONCLUSIONES
 El 23/05/2009, una familia de Bruselas viaja de Bruselas-Schuman a Houyet en tren. Esta fa­
@@ -1193,8 +1213,8 @@ En concertación, las dos empresas Infrabel y SNCB han previsto, analizado y eva
 El procedimiento seleccionado utiliza el método de comunicación por GSM-R y la salida de los trenes se realizará con las puertas cerradas. Un proyecto piloto debería ver la luz en 2013.
 El nuevo procedimiento ha sido aprobado por los órganos de gestión (Comité de Dirección y Consejo de Administración) de la SNCB y de Infrabel a lo largo de este año.
 
-
 ## Página 43
+
 
 El análisis sistémico de las diversas barreras de control y protección que condujeron al accidente 
 ha permitido a la OE identificar líneas de prevención relativas a:
@@ -1209,6 +1229,7 @@ tuye un riesgo real para su seguridad. El gestor de infraestructura realiza vari
 Lo importante desde el punto de vista de la seguridad es que, en caso de no poder eliminar un riesgo, se debe atenuar dicho riesgo y minimizar sus consecuencias.
 
 ## Página 44
+
 
 ## 5 MEDIDAS ADOPTADAS
 ## 5.1 MEDIDA COMÚN INFRABEL / SNCB 
@@ -1246,8 +1267,8 @@ transportista que somos. Tenga conocimiento de todos los aspectos legales de nue
 Folleto disponible:
 Carta del viajero - Sus derechos. Nuestros compromisos - Versión clásica (PDF)
 
-
 ## Página 45
+
 
 ## 5.3 MEDIDAS DE INFRABEL
 Para recordar a los viajeros la prohibición de cruzar las vías, Infrabel invierte y
@@ -1259,8 +1280,8 @@ proximidades, así como en los pasos a nivel (véase el anexo 7.3)
 • Para garantizar la seguridad en las estaciones o en los puntos de parada, Infrabel eleva progresivamente 
 la altura de los andenes para disuadir de cruzar las vías
 
-
 ## Página 46
+
 
 ## 6 RECOMENDACIONES
 En términos generales, las recomendaciones de los organismos de investigación deben dirigirse a la 
@@ -1310,6 +1331,7 @@ del tren a la «estación» y llevar a cabo una
 supervisión más estricta.
 
 ## Página 47
+
 
 N.º
 Hechos y conclusiones del análisis
@@ -1366,8 +1388,8 @@ requisitos del RSEIF 4.1 del gestor de la
 infraestructura que estipulan que el conductor debe asegurarse de la presencia del
 acompañante a bordo
 
-
 ## Página 48
+
 
 ## 7	 ANEXOS
 ## 7.1	 REQUISITOS MÍNIMOS EN MATERIA DE FORMACIÓN BÁSICA DE OTROS AGENTES DEL PERSONAL DE A BORDO
@@ -1410,8 +1432,8 @@ relaciones con el gestor de la infraestructura ferroviaria;
 conocimiento elemental de la señalización concerniente al acompañamiento (localización y
 significado de las señales acústicas, fijas y móviles).
 
-
 ## Página 49
+
 
 ## 7.2	 LISTA DE INCIDENTES SUMINISTRADOS POR LA SNCB
 ## 2010
@@ -1565,6 +1587,7 @@ Brussel-Luxemburg
 Ath
 
 ## Página 50
+
 
 30/04/2010
 50 A
@@ -1729,8 +1752,8 @@ Charleroi-Sur
 9/09/2010
 Amberes-Central
 
-
 ## Página 51
+
 
 10/09/2010
 Amberes-Central
@@ -1894,8 +1917,8 @@ Amberes-Central
 22/12/2010
 Charleroi-Sur
 
-
 ## Página 52
+
 
 24/12/2010
 Bruselas-Norte
@@ -2056,8 +2079,8 @@ Hal
 8/04/2011
 Bergen
 
-
 ## Página 53
+
 
 11/04/2011
 Amberes-Berchem
@@ -2219,8 +2242,8 @@ Bruselas-Sur
 21/08/2011
 Namur
 
-
 ## Página 54
+
 
 22/08/2011
 Bruselas-Sur
@@ -2381,6 +2404,7 @@ Bergen
 
 ## Página 55
 
+
 12/02/2012
 Brussel-Centraal
 15/02/2012
@@ -2479,16 +2503,17 @@ Leuven
 36
 Luik-Guillemins
 
-
 ## Página 56
+
 
 
 ## Página 57
 
+
 ## 7.3 CALENDARIO DEL ALUMNO
 
-
 ## Página 58
+
 
 ### Organismo de Investigación de Accidentes e Incidentes Ferroviarios
 www.mobilit.fgov.be

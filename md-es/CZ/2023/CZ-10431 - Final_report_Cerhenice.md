@@ -10,13 +10,14 @@ chars: 116990
 ratio_longitud: 1.24
 tokens_in: 65079
 tokens_out: 45703
-verificacion: revisar
-notas_cifras: ["bloque 1: original bilingüe: se compara contra el idioma principal (EN)", "bloque 3: cifras cortas: 1/203", "bloque 4: original bilingüe: se compara contra el idioma principal (CS)", "bloque 5: original bilingüe: se compara contra el idioma principal (CS)", "bloque 9: original bilingüe: se compara contra el idioma principal (CS)"]
-avisos: ["bloque 4: ratio 1.70", "bloque 5: ratio 1.63", "bloque 9: ratio 1.75"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 3: original bilingüe: se compara contra el idioma principal (PT)", "página 6: original bilingüe: se compara contra el idioma principal (CS)", "página 7: original bilingüe: se compara contra el idioma principal (CS)", "página 10: original bilingüe: se compara contra el idioma principal (CS)", "página 11: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -41,13 +42,13 @@ IČ: 75009561
 mail@dicr.cz
 tel.: +420 736 521 003
 
-
 ## Página 2
+
 
 El presente informe final es público y todos los hechos en él recogidos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ### 1 RESUMEN
 Fuente: Drážní inspekce
@@ -73,8 +74,8 @@ Factores contribuyentes:
 •
 manipulación no autorizada con el aparato de enclavamiento de estación al establecer rutas de pruebas en el gran circuito de pruebas, establecimiento de una ruta de maniobras alrededor de
 
-
 ## Página 4
+
 
 la señal de servicio Se2 con la indicación «Maniobra permitida», no cancelación de dicha ruta y engaño al maquinista de la maniobra de maniobras;
 •
@@ -82,8 +83,8 @@ superación de la velocidad máxima permitida por parte del maquinista de la man
 La Drážní inspekce no identificó ninguna causa sistémica.
 La Drážní inspekce no emitió ninguna recomendación de seguridad.
 
-
 ## Página 5
+
 
 ### SUMMARY
 18th July 2023, 14:43 (12:43 GMT).
@@ -129,8 +130,8 @@ Systemic factor:
 none.
 Recommendation: not issued.
 
-
 ## Página 6
+
 
 # Índice
 1 RESUMEN........................................................................................................................3
@@ -174,6 +175,7 @@ SUMMARY.........................................................................
 
 ## Página 7
 
+
 4.2.2 Factores o consecuencias derivados de la instalación y puesta en servicio de vehículos ferroviarios, infraestructura ferroviaria o instalaciones técnicas.....................................37
 4.2.3 Factores o consecuencias relacionados con los fabricantes de vehículos ferroviarios u otros proveedores de productos ferroviarios...........................................................................37
 4.2.4 Factores o consecuencias derivados del mantenimiento y modificación de vehículos ferroviarios o instalaciones técnicas..................................................................................................38
@@ -202,8 +204,8 @@ SUMMARY.........................................................................
 6 RECOMENDACIONES DE SEGURIDAD...................................................................................42
 ANEXOS............................................................................................................................44
 
-
 ## Página 8
+
 
 ### Lista de siglas y símbolos utilizados
 ČDC
@@ -251,8 +253,8 @@ estación ferroviaria
 ŽZO
 circuito de ensayo ferroviario Cerhenice
 
-
 ## Página 9
+
 
 ### Lista de siglas de la legislación, normas y reglamentos internos utilizados
 ley n.º 266/1994 Sb.
@@ -270,41 +272,54 @@ reglamento interno del gestor de la infraestructura SŽ, «SŽ D1 parte primera,
 reglamento interno SŽDC (ČD) Z1
 reglamento interno del gestor de la infraestructura SŽ, «SŽDC (ČD) Z1, Reglamento para la operación de las instalaciones de enclavamiento de estación y de línea», en la redacción vigente en el momento de la producción del suceso extraordinario
 
-
 ## Página 10
 
-### 2 INVESTIGACIÓN Y SU CONTEXTO
+### 2 INVESTIGACIÓN Y SUS RELACIONES
 ### 2.1 Decisión de iniciar la investigación
-La DI decidió iniciar la investigación del suceso extraordinario en cuestión el 18. 7. 2023.
+La DI decidió iniciar la investigación de la MU en cuestión el 18. 7. 2023.
 ### 2.2 Fundamentación de la decisión de iniciar la investigación
-La DI decidió investigar el suceso extraordinario en cuestión en base a su gravedad y a la obligación derivada de la disposición § 53b de la ley n.º 266/1994 Sb.
+La DI decidió investigar la MU en cuestión en base a su gravedad y a la obligación derivada 
+de la disposición § 53b de la ley núm. 266/1994 Sb. 
 ### 2.3 Alcance y limitaciones de la investigación, incluida la fundamentación correspondiente
-Durante la investigación del suceso extraordinario no se presentaron dificultades ni problemas que pudieran influir en el desarrollo de la investigación o en sus conclusiones.
-### 2.4 Descripción resumida de las capacidades y funciones técnicas del equipo de investigación
-Investigación de la DI en el lugar del suceso extraordinario:
-2x inspector de la ÚI Čechy, centro de trabajo Praga;
+Durante la investigación de la MU no surgieron dificultades ni problemas que pudieran 
+influir en el desarrollo de la investigación o en sus conclusiones.
+### 2.4 Descripción resumida de las capacidades técnicas y funciones del equipo de investigación
+Investigación de la DI en el lugar de la MU:
+2x inspector de la ÚI Bohemia, centro de trabajo Praga;
 2x inspector de la ÚI Brno.
 Constitución del equipo de investigación:
 no fue necesario constituirlo.
 Colaboración externa:
 no se utilizó.
-2.5 Comunicación y consultas durante la investigación con las personas o entidades que participaron en el suceso en cuestión
-Al investigar las causas y circunstancias de la producción del suceso extraordinario, la DI se basó principalmente en sus propios conocimientos, hallazgos y en su propia documentación fotográfica. Durante la investigación, la DI solicitó la documentación necesaria al gestor de la infraestructura y al operador y empleador de las personas implicadas. La investigación de las causas y circunstancias de la producción del suceso extraordinario se realizó de acuerdo con la ley n.º 266/1994 Sb. y el decreto n.º 376/2006 Sb.
+2.5 Comunicación y consultas durante la investigación con personas o entidades 
+que participaron en el suceso
+En la investigación de las causas y circunstancias de la MU, la DI se basó principalmente en 
+sus propios conocimientos, hallazgos y en su propia documentación fotográfica. Durante la 
+investigación, la DI solicitó la documentación necesaria al operador de la vía y al transportista 
+y al empleador de las personas implicadas. 
+La investigación de las causas y circunstancias de la MU se realizó de acuerdo con la ley 
+núm. 266/1994 Sb. 
+y la ordenanza núm. 376/2006 Sb. 
 ### 2.6 Descripción del nivel de colaboración ofrecido por las entidades implicadas
-El nivel de colaboración con los representantes de las entidades implicadas en el suceso extraordinario fue estándar.
-### 2.7 Descripción de la investigación, los métodos y las técnicas utilizados para acreditar los hechos y los hallazgos recogidos en el informe
-En el marco de la investigación del suceso extraordinario, la DI actuó como sigue, es decir, utilizó, entre otros, los siguientes métodos y técnicas:
+El nivel de colaboración con los representantes de las entidades implicadas en la MU fue 
+estándar.
+### 2.7 Descripción de la investigación, los métodos y las técnicas utilizados para acreditar los hechos 
+y los hallazgos consignados en el informe
+En el marco de la investigación de la MU, la DI actuó de la siguiente manera, es decir, utilizó, 
+entre otros, los siguientes métodos y técnicas:
 •
-inspección del lugar del suceso extraordinario, incluidos los vehículos ferroviarios implicados, las instalaciones técnicas y la infraestructura ferroviaria;
+inspección del lugar del suceso excepcional, incluidos los vehículos ferroviarios implicados, 
+los dispositivos técnicos y la infraestructura de la vía;
 •
-medición de las condiciones de visibilidad en el recorrido de la maniobra;
+medición de las condiciones de visibilidad en el tramo de la maniobra de maniobras;
 •
-análisis de la documentación solicitada al gestor de la infraestructura y al operador;
+análisis de la documentación solicitada al operador de la vía y al transportista;
 •
-análisis de los datos registrados por el registrador de velocidad del vehículo ferroviario implicado;
-
+análisis de los datos registrados por el registrador de velocidad del vehículo ferroviario 
+implicado;
 
 ## Página 11
+
 
 •
 declaraciones de los empleados implicados;
@@ -337,8 +352,8 @@ Coordenadas GPS:
 ### 3.1.3 Descripción del lugar del suceso
 La maniobra y las vías de apartadero se encuentran junto al VZO del Circuito de Ensayo Ferroviario Cerhenice. Está conectado con el circuito de ensayo grande mediante una conexión de vías formada por las agujas n.º 1 y 4. Está conectado a la red ferroviaria pública mediante la vía 1A hacia la est. Velim.
 
-
 ## Página 12
+
 
 ## Lugar del suceso
 Fig. n.º 1: Esquema del lugar de producción del suceso extraordinario
@@ -366,6 +381,7 @@ La maniobra estaba compuesta por 4 vehículos ferroviarios – HDV CZ-VUZ 98 544
 
 ## Página 13
 
+
 •
 91 80 6 188 003-8 D-BTK;
 •
@@ -392,8 +408,8 @@ CZ-VUZ 98 544 794 001-8, titular VÚŽ;
 De la inspección del estado de la infraestructura se constató:
 La MU tuvo lugar en las instalaciones de la ZZO Cerhenice, en el ámbito de la vía de maniobras y estacionamiento. La vía se sitúa en un terreno llano; la vía 1B y la 3, según el Reglamento de Explotación y de Circulación
 
-
 ## Página 14
+
 
 de la vía de ensayo, tienen una ligera pendiente de 1,4 ‰. Los desvíios n.º 3 y n.º 4, conmutados centralmente, estaban conmutados en la posición básica (hacia la vía 1B), el desvío n.º 6 estaba conmutado en la posición inversa (hacia el desvío n.º 7) y los desvíios n.º 7 y n.º 8 estaban conmutados en la posición básica (hacia la vía 3). Los desvíios n.º 3A, 3B, 3C y 3D, conmutados manualmente, estaban conmutados en el sentido desde la vía 1B hacia la vía 1aa. La señal de maniobras enana Se2 indicaba la señal «Maniobras permitidas».
 La señal Se2 se situaba a 224 m del punto de referencia del desvío n.º 3C (visibilidad en vía directa a una distancia de 150 m). La visibilidad ininterrumpida de la señal de desvío del desvío n.º 7 comenzaba a 240 m del punto de referencia del desvío n.º 3C. La posición de las agujas del desvío n.º 7 en el sentido de la marcha de la unidad de maniobras podía observarse desde una distancia de 265 m del punto de referencia del desvío n.º 3C (determinado sobre la base de mediciones realizadas durante el recorrido a pie de los inspectores de DI en el sentido de la marcha de la unidad de maniobras).
@@ -433,8 +449,8 @@ El estado de la infraestructura no guardaba relación causal con el origen de la
 De la inspección del puesto del despachador de ZC se constató:
 El pupitre de mando del dispositivo de enclavamiento indicaba, entre otros, la iluminación de las señales autorizativas en la señal Se2, la ocupación de los tramos V3-4, V6-7, 1K y 3K, la libertad del tramo V8-9B. La indicación
 
-
 ## Página 15
+
 
 de la posición de los desvíios en el esquema de vías correspondía a la ruta de maniobras desde la señal Se2 hacia la vía n.º 3. Los precintos de los botones no estaban violados, a excepción del botón «Liberación de emergencia de tramo» del tramo V5. Se documentó el estado de los contadores. Las luces indicadoras rojas de los desvíios no estaban encendidas. Tras pulsar el botón «Comprobación de la posición de los desvíios», se encendieron las indicaciones según la posición de los desvíios, que correspondían al estado constatado en la inspección de la infraestructura. El mecanismo que asegura el uso de los botones «Reinicio de contadores de ejes» de los tramos «V3-7» y «V8,9B» estaba levantado. En el registrador de averías no constaba ninguna avería.
 De los registros de la comunicación radiofónica grabados por el dispositivo ReDat se constató:
@@ -471,8 +487,8 @@ instalaciones de la vía
 medio ambiente
                      0 CZK.
 
-
 ## Página 16
+
 
 En la MU, el daño causado en los vehículos ferroviarios, en las instalaciones de la vía y en el medio ambiente
 ### se cuantificó en un total de 153 624 341 CZK.
@@ -508,8 +524,8 @@ el titular del HDV de la unidad de maniobras era VÚŽ;
 •
 el titular de los HDV inoperativos incluidos en la unidad de maniobras era Alstom Transport SA.
 
-
 ## Página 17
+
 
 | DV estacionadasen la prueba estática: |  | Composiciónde las DV: |  |  | Nota: |
 | Longitud de las DV estacionadas (m): | 312 | 1 . | 945605616016 - |  | 1 unidad KISS . |
@@ -537,40 +553,48 @@ Fig. n.º 2: Unidad 1 Stadler KISS descarrilada
 ## Página 18
 
 El HDV 794.001-8 estaba equipado, en el momento de producirse el MU, con un dispositivo de registro automático de datos – tipo CONJUNTO ELECTRÓNICO DE VELOCÍMETRO MODURAIL_CRV_DPV_794, fabricante MSV elektronika s.r.o., número de fabricación 14666-08406-0001.
-De los datos registrados se desprende:
+De los datos registrados se deduce:
 •
 14:40:56 h
-arranque de la unidad de maniobras, se registró el mando activado en el puesto A y la dirección acoplada en sentido atrás. Progresivamente se produjo un aumento de la velocidad a 9 km.h-1 en 19 s sobre un recorrido de 23 m; tras recorrer 30 m en 17 s, la velocidad desciende a 8 km.h-1. Tras recorrer 11 m en 5 s a una velocidad de 8 km.h-1, comenzó a aumentar la velocidad a 13 km.h-1 en 12 s sobre un recorrido de 65 m. El recorrido siguiente de 62 m lo realizó a una velocidad de 13 km.h-1 en 17 s y la velocidad se redujo a 12 km.h-1. A una velocidad de 12 km.h-1 recorrió 24 m en 7 s y comenzó a aumentar la velocidad. Sobre un recorrido de 132 m, la velocidad aumentó de 12 km.h-1 a 23 km.h-1 en 24 s;
+arranque de la unidad de maniobras, registrado mando activado en el puesto A y sentido acoplado hacia atrás. Progresivamente se produjo un aumento de la velocidad a
+9 km.h-1 en 19 s sobre un recorrido de 23 m, tras recorrer 30 m en 17 s la velocidad disminuye a 8 km.h-1. Tras recorrer 11 m en 5 s a una velocidad de
+8 km.h-1 comenzó a aumentar la velocidad a 13 km.h-1 en 12 s sobre un recorrido de 65 m.
+El siguiente recorrido de 62 m lo recorrió a una velocidad de 13 km.h-1 en 17 s y la velocidad se redujo a 12 km.h-1. Con una velocidad de 12 km.h-1 recorrió 24 m en
+7 s y comenzó a aumentar la velocidad. Sobre un recorrido de 132 m la velocidad aumentó
+de 12 km.h-1 a 23 km.h-1 en 24 s;
 •
-desconexión del contactor KM11, descenso de la velocidad de 23 km.h-1 a 22 km.h-1;
+desconexión del contactor KM11, disminución de la velocidad de 23 km.h-1 a 22 km.h-1;
 14:42:54 h
 •
 14:42:55 h
-se registró la aplicación del freno de mando directo, presión en los cilindros de freno superior a 0,3 bar, modo activo de la presión de apoyo de los resortes de freno, desconexión del contactor de excitación del generador principal, desconexión de las señales marcha demandada y marcha real;
+registrado el uso del freno directo, presión en los cilindros de freno superior
+a 0,3 bar, modo activo de la presión de apriete de limpieza de los resguardos de freno, desconexión del contactor de excitación del generador principal, desaparición de las señales de marcha requerida y marcha real;
 •
-tras recorrer 9 m en 2 s a una velocidad de 22 km.h-1, se registró la aplicación del
+tras recorrer 9 m en 2 s a una velocidad de 22 km.h-1 registrado el uso del frenador
 14:42:57 h
-freno automático y la señal freno real. En el recorrido siguiente de 50 m, la velocidad se redujo de 22 km.h-1 a 16 km.h-1 en 11 s;
+del freno automático y la señal de freno real. Sobre el siguiente recorrido de 50 m
+la velocidad se redujo de 22 km.h-1 a 16 km.h-1 en 11 s;
 •
 14:43:01 h
-se registró la utilización del silbato;
+registrado el uso del silbato;
 •
 14:43:02 h
-se registró la utilización de la bocina de la locomotora;
+registrado el uso de la bocina de la locomotora;
 •
 se produce el MU a una velocidad de 16 km.h-1;
 14:43:06 h
 •
 14:43:07 h
-se produce la detención de la unidad de maniobras sobre un recorrido de 2 m en 1 s.
-Durante la marcha se superó la velocidad máxima permitida de 20 km.h-1 en 3 km.h-1 sobre un recorrido de 225 m con una duración de 36 s.
+se produce la parada de la unidad de maniobras sobre un recorrido de 2 m en 1 s.
+Durante la marcha se superó la velocidad máxima permitida de 20 km.h-1 en 3 km.h-1
+sobre un recorrido de 225 m durante 36 s.
 El estado real de la unidad de maniobras comprobado en el lugar del MU correspondía a la documentación que determinaba el contenido del trabajo en las maniobras.
-### 3.1.8 Descripción de las partes correspondientes de la infraestructura y del sistema de señalización
-La vía en el lugar del MU en el sentido de marcha de la unidad de maniobras discurre en una curva a la derecha de radio 2000 m sobre el eje de vía a la cota del terreno circundante en pendiente de 2,156 ‰. Se trata de una vía electrificada, protegida por SZZ de 2.ª categoría (SZZ de relés con vías de maniobra protegidas), en el lugar del MU con una velocidad máxima permitida de 20 km.h-1 en marcha por tracción. La aguja decisiva n.º 7 fue fabricada en el año 2011 y es de tipo JT-6° con desviación a la izquierda. La aguja se conmuta centralizadamente mediante un conmutador electromotor, que está equipado también con una señal de aguja.
-SZZ de 2.ª categoría (aparato de relés con agujas operadas individualmente, sin circuitos de vía, con contadores de ejes, con vías de maniobra protegidas; las vías de tren en el VZO se controlan mediante señales luminosas de entrada, preseñales y preseñales repetidoras desde el sentido par). El SZZ disponía de un Certificado de idoneidad del equipo técnico designado vigente, n.º
-
+### 3.1.8 Descripción de las partes correspondientes de la infraestructura y del sistema de seguridad
+La vía en el lugar del MU en el sentido de marcha de la unidad de maniobras discurre en una curva a la derecha de radio 2000 m sobre el eje de vía a la altura del terreno circundante en pendiente de 2,156 ‰. Se trata de una vía electrificada, protegida por SZZ de 2.ª categoría (SZZ de relés con vías de maniobra protegidas), en el lugar del MU con una velocidad máxima permitida de 20 km.h-1 en marcha por tracción. La aguja decisiva n.º 7 se fabricó en el año 2011 y es de tipo JT-6° con desvío a la izquierda. La aguja se conmuta centralmente mediante un conmutador electromotor, que está equipado también con una señal de cambio.
+SZZ de 2.ª categoría (aparato de relés con cambios operados individualmente, sin circuitos de vía, con contadores de ejes, con vías de maniobra protegidas, las vías de tren en VZO se controlan mediante señales luminosas de entrada, preseñales y preseñales repetidoras desde el sentido par). El SZZ disponía de un Certificado de idoneidad del dispositivo técnico designado n.º
 
 ## Página 19
+
 
 PZ 0517/02-E.45 con validez por tiempo indefinido. Algunas funciones (vías de maniobra protegidas, contadores de ejes y otras) se añadieron progresivamente en el marco de la modernización del SZZ.
 El SZZ del centro de pruebas desempeñó su función en el momento del MU correctamente y sin averías.
@@ -598,28 +622,27 @@ maquinista de la unidad de maniobras
 ◦vio la aguja n.º 6 conmutada a la vía 5, a la altura de la aguja n.º 6 vio la vía 1 ocupada, en la vía n.º 3 estaban las unidades Stadler y miraba hacia la vía 5 para ver si estaba libre;
 ◦antes de la aguja n.º 7 se percató de que no estaba conmutada a la vía 5. En la vía 3 vio la corta distancia hasta los vehículos estacionados y comenzó a frenar intensamente;
 
-
 ## Página 20
 
-◦no oyó el derrape de las ruedas, pero comenzó a esmerilar para mejorar el efecto de frenado o para evitar que se produjera el derrape de las ruedas;
-◦el efecto de frenado con el peso de la unidad de maniobras era, sin embargo, mínimo. Emitió la señal «Cuidado» para avisar a los empleados en las inmediaciones de los conjuntos estacionados, cuando ya era evidente que la unidad de maniobras no podría detenerse;
+◦no escuchó el derrape de las ruedas, pero empezó a silbar para mejorar el efecto de frenado o para evitar el derrape de las ruedas;
+◦el efecto de frenado con la masa de la maniobra era, sin embargo, mínimo. Dio la señal «Pozor» (Atención) para avisar a los empleados en las inmediaciones de las composiciones estacionadas cuando quedó claro que la maniobra ya no podría frenar;
 ◦a continuación se preparó para el impacto;
-◦presumió que el jefe de las maniobras estaba en el puesto de la última locomotora, ya que no lo veía;
-◦debido a la corta distancia, ya no le fue posible evitar la colisión de los vehículos;
-◦tras la colisión de los vehículos vio correr al jefe de las maniobras junto a las locomotoras hacia él y luego el jefe de las maniobras fue a comunicar el MU al despachador del ZC;
-◦la locomotora de maniobras se comportó de forma estándar y respondió adecuadamente a las órdenes que él le impartía;
-◦además indicó que se sentía sano;
+◦presumió que el jefe de maniobra se encontraba en el puesto de la última locomotora, ya que no lo veía;
+◦en la corta distancia ya no le fue posible evitar la colisión de los vehículos;
+◦tras la colisión de los vehículos vio correr al jefe de maniobra junto a las locomotoras hacia él y luego el jefe de maniobra fue a comunicarlo al despachador MU de la ZC;
+◦la locomotora de maniobra se comportó de forma estándar y respondió adecuadamente a las órdenes que le impartía;
+◦asimismo indicó que se sentía sano;
 ◦el HDV no presentaba ningún defecto que impidiera su explotación segura (solo la manivela de la puerta desprendida);
-◦a la pregunta de si le era bien conocida la tecnología de las maniobras y los números de las vías por las que circulaba, respondió que antes de iniciar las maniobras desde la vía n.º 1aa no disponía, tras la señal «Arrastra», de toda la información, solo conocía el sentido de las maniobras. Una vez puesta en movimiento la unidad de maniobras, preguntó al jefe de las maniobras adónde irían y adónde continuarían. Tras la información de que irían a la vía 5, adquirió la convicción de que la vía de maniobras terminaba en la vía 5 tras la señal Se10 y que luego iría a la vía n.º 3a. El peso del conjunto lo estimó según la sombra y el número de vehículos arrastrados;
-◦antes de poner en movimiento la unidad de maniobras no preguntó toda la información necesaria y presumió que se la comunicaría el jefe de las maniobras posteriormente;
-◦a la pregunta de quién y de qué manera le impartió la instrucción de poner en movimiento la unidad de maniobras alrededor de la señal Se2, indicó que en la señal Se2 brillaba la señal «Maniobras permitidas» y ya sabía del jefe de las maniobras adónde iría;
+◦a la pregunta de si le era bien conocida la tecnología de maniobra y los números de las vías por las que circulaba, respondió que antes de iniciar la maniobra desde la vía n.º 1aa no disponía, tras la señal «Vytahuj», de toda la información, solo conocía la dirección de la maniobra. Una vez puesto en movimiento el elemento de maniobra, preguntó al jefe de maniobra a dónde irían y dónde continuarían. Tras la información de que irían a la vía 5, adquirió la convicción de que la ruta de maniobra terminaba en la vía 5 tras la señal Se10 y luego iría a la vía n.º 3a. Estimó la masa de la composición según la sombra y el número de vehículos remolcados;
+◦antes de poner en movimiento el elemento de maniobra no preguntó toda la información necesaria y presumió que se la comunicaría el jefe de maniobra posteriormente;
+◦a la pregunta de quién y de qué manera le dio la orden de poner en movimiento el elemento de maniobra alrededor de la señal Se2, indicó que en la señal Se2 lucía la señal «Posun dovolen» (Maniobra permitida) y ya sabía del jefe de maniobra a dónde iría;
 ◦no fue informado de que iría a una vía ocupada;
-◦además indicó que había sido instruido con todos los documentos, los entendió, fue instruido, el colectivo de trabajadores del VÚŽ le resulta adecuado y la colaboración es sin problemas, el HDV estaba en orden;
-◦respecto al HDV indicó que considera que no es una buena solución la disposición del asiento junto al pupitre de mando, ya que no se puede estar de pie durante la realización de las maniobras y el asiento tiene un pequeño recorrido de movimiento. Además indicó que vio bien la señal Se2 y no tenía dudas sobre su señal;
-◦a otras preguntas indicó que nada le distraía. Probablemente estaba sentado, no se dedicaba a otras actividades (se dedicaba solo a las maniobras). El descanso lo pasó en el horario de 9:00 h – 10:00 h en la sala de descanso. No se produjo ningún conflicto en el trabajo. La radio no estaba interferida por nada y la visibilidad era buena;
-
+◦asimismo indicó que había sido instruido con todos los documentos, los entendía, había recibido instrucción, el colectivo de trabajadores de la VÚŽ le resulta adecuado y la colaboración es sin problemas, el HDV estaba en orden;
+◦respecto al HDV indicó que considera que no es una buena solución la disposición del asiento junto al pupitre de mando, ya que no se puede estar de pie durante la realización de la maniobra y el asiento tiene un pequeño recorrido de movimiento. Asimismo indicó que vio bien la señal Se2 y no tenía dudas sobre su señalización;
+◦a otras preguntas indicó que nada le distraía. Probablemente estaba sentado, no se dedicaba a otras actividades (se dedicaba únicamente a la maniobra). El descanso lo pasó en el horario de 9:00 h – 10:00 h en la sala de descanso. No se produjo ningún conflicto laboral. La estación de radio no fue interferida por nada y la visibilidad era buena;
 
 ## Página 21
+
 
 ◦a la pregunta sobre el cumplimiento de las disposiciones de las normas respecto a la marcha según las condiciones de visibilidad, indicó que respetó las disposiciones normativas, miraba en el sentido al que estaba establecida la vía de maniobras. Si los vehículos hubieran estado estacionados en la vía 5 en lugar de en la vía 3, cree que se habría detenido con seguridad antes del obstáculo.
 •
@@ -642,6 +665,7 @@ maquinista de la unidad de maniobras
 
 ## Página 22
 
+
 ◦o de otros maquinistas que se quejarían de la serie 794, no sabe, no hablaron de ello, pero algunos se sorprendieron de que tuviera el asiento quitado.
 •
 jefe de maniobras
@@ -663,8 +687,8 @@ jefe de maniobras
 ◦a la pregunta de de qué manera informó al maquinista sobre la tecnología de la maniobra y cuál era el contenido de la información, indicó que el maquinista lo oye todo en la radiofónica y después, tras el consentimiento para la maniobra del despachador de ZC, le dio la instrucción por radiofónica para la marcha desde la vía 4a por el Gran Circuito de Pruebas delante del tráfico. El maquinista confirmó la instrucción con el claxon y arrancó;
 ◦a la pregunta de si había acordado con el despachador la maniobra de las vías 1a y 1aa, la forma de acuerdo y el contenido del acuerdo, indicó que no acordó nada con nadie, el despachador no les dio el consentimiento para la maniobra y esperaba que salieran de la vía 1aa solo hasta la señal Se2;
 
-
 ## Página 23
+
 
 ◦dio al maquinista la instrucción «Con reserva podemos salir», cuyo sentido era sacar el tramo de maniobras hasta la señal Se2;
 ◦además indicó que antes del turno tuvo un descanso de unas 13 horas, se sentía descansado y sano;
@@ -684,35 +708,34 @@ jefe de maniobras
 ◦tras finalizar los trabajos de formación en las vías 1a y 1aa dio la instrucción para la marcha hasta la señal Se2. Si realiza maniobras en estas y en las vías vecinas, el ámbito de maniobras está fijado precisamente hasta la señal Se2 y puede moverse libremente por él. En caso de que el despachador de ZC necesitara asegurar otra marcha en este ámbito, se le avisa de esta situación por el emisor y esperan en el lugar fijado por el despachador. Como no se había acordado otra maniobra, esperaba que estarían parados en la señal Se2;
 ◦presumía que al canal la maniobra se realizaría por la vía 5, porque las demás estaban ocupadas y era la única vía en la que el tramo de maniobras cabía en longitud. No habría sido posible otra opción de marcha;
 ◦no se dio cuenta de que el tramo de maniobras se movía por lugares donde no se había acordado la maniobra. En el puesto trasero del último HDV estudiaba la documentación para el trabajo siguiente. No sabía si el despachador de ZC había dado alguna instrucción al maquinista. En la señal Se2 el maquinista silbó, después sintió la frenada y se produjo el MU;
-◦hoy, si no se ha acordado la maniobra, el despachador de ZC no establece itinerarios. Los establece el despachador de ZC solo tras acordar la maniobra. La instrucción para la marcha de maniobras la da al maquinista solo tras la instrucción del despachador de ZC (nota DI: el día del suceso del MU se había establecido 
-
+◦hoy, si no se ha acordado la maniobra, el despachador de ZC no establece itinerarios. Los establece el despachador de ZC solo tras acordar la maniobra. La instrucción para la marcha de maniobras la da al maquinista solo tras la instrucción del despachador de ZC (nota DI: el día del suceso del MU se había establecido
 
 ## Página 24
 
-el itinerario de maniobras desde la señal Se2 a la vía 3, pero la maniobra en ese momento no se había acordado, ver punto 4.1.1);
-◦tenía la obligación de seguir el transcurso de la marcha del tramo de maniobras, aunque no estuviera en su cabeza. Sin embargo, no sabía de esta obligación;
-◦antes de la colisión no fue advertido de la situación por el maquinista, solo escuchó el silbato;
-◦el 95 % de las maniobras con vehículos se realizan sin conexión al freno continuo. Esto lo saben los maquinistas. Solo en algunas unidades, por ejemplo Stadler, la maniobra se realiza con conexión a las mangueras rojas (Nota DI: conexión al tubo de freno continuo);
-◦en el turno y antes del turno no fue alterado por nadie ni por nada, durante su trabajo en ŽZO Cerhenice no fue participante en ningún MU;
-◦el trabajo en el circuito no se repite a menudo, es variado y se aprenden constantemente cosas nuevas con vehículos nuevos. Por tanto, no tiene tendencia a la actuación rutinaria;
-◦tras el suceso del MU cambiaron los procedimientos en cuanto a su acordamiento y a las instrucciones de marcha. Es más estricto. Lo que tienen que hacer se lo dice ahora el despachador de ZC.
+vía de maniobras desde la señal Se2 a la vía 3, si bien la maniobra en ese momento no había sido acordada, véase el punto 4.1.1);
+◦tenía la obligación de supervisar el desarrollo de la marcha del elemento de maniobras, aunque no estuviera a su cabeza. Sin embargo, no tenía conocimiento de esta obligación;
+◦antes de la colisión, la situación no había sido advertida al maquinista, solo oyó la bocina;
+◦el 95 % de las maniobras se realizan con vehículos no conectados al freno continuo. Esto lo saben los maquinistas. Solo en algunas unidades, p. ej. Stadler, la maniobra se realiza con conexión a las mangueras rojas (Nota DI: conexión a la tubería de freno continua);
+◦en el turno y antes del turno no estuvo alterado por nadie ni por nada, durante su trabajo en el PPM Cerhenice no fue participante de ningún AM;
+◦el trabajo en el circuito a menudo no se repite, es variado y se aprenden constantemente cosas nuevas con vehículos nuevos. Por tanto, no tiene tendencia a la actuación rutinaria;
+◦tras la producción del AM, los procedimientos en cuanto a su acordamiento y a las instrucciones de marcha durante las maniobras se modificaron. Es más estricto. Lo que deben hacer, ahora se lo indica el despachador del ZC.
 •
-despachador de ZC
+despachador del ZC
   – Acta con el empleado:
-◦el 18. 7. 2023 a las 6:30 h entró de turno como despachador de ZC;
-◦tras finalizar la prueba de la unidad Stadler en el Gran Circuito de Pruebas, la unidad se trasladó por sus propios medios a la vía 3 de la maniobra y apartadero por la aguja nº 7 aproximadamente hacia las 14 horas;
-◦la vía vecina 1 estaba ocupada por vehículos;
-◦después de las 14 horas el equipo de maniobras trasladaba 2 unidades CAF de la vía 1a a la 4a;
-◦a continuación dio el permiso para la maniobra desde la vía 4a por el Gran Circuito de Pruebas a la vía 3 y a la vía de Velim delante de la oficina de tráfico para retirar el adaptador. El permiso para esta maniobra se realizó por radiofónica en comunicación con el maquinista;
-◦tras detener la locomotora de maniobras en el lugar marcado como final del itinerario de maniobras, ayudó al equipo de maniobras a retirar el adaptador de la cabeza de la locomotora;
-◦tras finalizar la maniobra con el adaptador, acordó verbalmente con el jefe de maniobras y dio el permiso para la maniobra a la vía 1a y 1aa con el fin de alinear las locomotoras;
-◦a continuación se comunicó con el maquinista de la unidad Stadler respecto a bajar el pantógrafo por el cambio del sistema de alimentación;
-◦en la vía 3a había una locomotora ČDC apartada, tras el cambio del sistema de alimentación dio la instrucción para subir el pantógrafo al maquinista de esta locomotora, tras su reactivación acordó con el maquinista la maniobra desde la vía 3a al Gran Circuito de Pruebas aproximadamente por la vía 3 o la 1;
-◦tras finalizar la maniobra de la locomotora ČDC, el equipo de maniobras seguía formando locomotoras en las vías 1a y 1aa;
-◦realizó el establecimiento del itinerario de maniobras desde la vía de Velim a la vía 3 de la maniobra y apartadero con la operación estándar del dispositivo de seguridad – pulsó el botón inicial en la vía de Velim y el botón final en la vía 3;
-
+◦el 18 de julio de 2023 a las 6:30 h entró en turno como despachador del ZC;
+◦tras finalizar la prueba de la unidad Stadler en el Gran Circuito de Pruebas, la unidad fue maniobrada por sus propios medios a la vía 3 de la playa de maniobras y estacionamiento a través de la aguja n.º 7 aproximadamente hacia las 14:00 horas;
+◦la vía contigua n.º 1 estaba ocupada por vehículos;
+◦después de las 14:00 horas, el cuadrillero de maniobras maniobraba 2 unidades CAF de la vía 1a a la 4a;
+◦a continuación, emitió la autorización para la maniobra desde la vía 4a a través del Gran Circuito de Pruebas hasta la vía 3 y hasta la vía de Velim delante de la oficina de tráfico para retirar el adaptador. La autorización para esta maniobra se realizó por radio en comunicación con el maquinista;
+◦tras detener la locomotora de maniobras en el lugar señalado como final de la vía de maniobras, ayudó al cuadrillero de maniobras a retirar el adaptador del frente de la locomotora;
+◦tras finalizar la maniobra con el adaptador, acordó verbalmente con el jefe de maniobras y emitió la autorización para la maniobra a la vía 1a y 1aa con el fin de ordenar las locomotoras;
+◦a continuación, se comunicó con el maquinista de la unidad Stadler respecto a la bajada del pantógrafo debido al conmutado del sistema de alimentación;
+◦en la vía 3a había una locomotora ČDC estacionada, tras conmutar el sistema de alimentación emitió la instrucción de levantar el pantógrafo al maquinista de esta locomotora, tras su puesta en servicio acordó con el maquinista la maniobra desde la vía 3a hasta el Gran Circuito de Pruebas aproximadamente a través de la vía 3 o la vía 1;
+◦tras finalizar la maniobra de la locomotora ČDC, el cuadrillero de maniobras seguía agrupando locomotoras en las vías 1a y 1aa;
+◦realizó la establecimiento de la vía de maniobras desde la vía de Velim hasta la vía 3 de la playa de maniobras y estacionamiento con la operación estándar del dispositivo de seguridad – pulsó el botón inicial en la vía de Velim y el botón final en la vía 3;
 
 ## Página 25
+
 
 ◦realizó el cierre del itinerario, se iluminaron los indicadores en blanco y en la señal Se2 se encendió la señal «Maniobra permitida»;
 ◦a continuación aseguró la marcha por el Gran Circuito de Pruebas extrayendo la «Llave de itinerarios de pruebas» del cerradura electromagnética;
@@ -736,6 +759,7 @@ despachador de ZC
 ◦de la vía 1aa a la vía 5 no se acordó la maniobra;
 
 ## Página 26
+
 
 ◦el procedimiento correcto para cerrar la VZO para los viajes de prueba es la alineación de los desvíos en dirección recta por parte del regulador, la selección de la dirección de los viajes de prueba y después se puede extraer la llave de los viajes de prueba del EMZ;
 ◦no utilizó el procedimiento oficial para el cierre de la VZO porque en la vía 3 hay un camino de maniobras más corto y en las vías 1 y 3 ve la sección de maniobras, en la vía 5 se le «esconde»;
@@ -766,8 +790,8 @@ Tab. n.º 2: Instrucciones del jefe de Maniobras durante la formación de la sec
 | JefedeManiobras | Unpococompresionamosunpoco Estábien , . . |
 | Tablan.º3:ÚltimainstruccióndeljefedeManiobrasantesdelainstruccióndeavanzarparalaconduccióndelaseccióndemaniobrascompleta . . |  |
 
-
 ## Página 27
+
 
 | Iniciodelaconversación:18 7 2023 14:39:48h Duracióndelagrabación:14s . . , |  |
 | Contenidodelatranscripción: | grabacióncompleta |
@@ -790,8 +814,8 @@ El maquinista de la sección de maniobras divisó en la señal Se2 (final del á
 •
 14:45 h el jefe de Maniobras comunicó al despachador de la ZC la producción de la MU;
 
-
 ## Página 28
+
 
 •
 14:47 h el despachador de la ZC comunicó la producción de la MU al Jefe de Explotación de la ŽZO;
@@ -836,8 +860,8 @@ El Servicio de Emergencias Médicas de la Región de Bohemia Central no intervin
 ### 4.1.1 Transportistas y gestores de la infraestructura
 El gestor de la infraestructura tiene, entre otras, la obligación de explotar la infraestructura de acuerdo con las reglas para la explotación de la infraestructura y las normas internas. El despachador de la ZC responsable de la organización de la circulación en la ŽZO Cerhenice, de la alineación de los itinerarios y de la concesión de autorizaciones para maniobras, alineó un camino de maniobras desde la vía de Velim hacia la vía n.º 5 de modo que pudiera alinear el enlace de vía formado por los desvíos n.º 1 y 4 y pudiera asegurar el itinerario hacia la VZO. Con ello se produjo también el cambio de la señal en la señal de clasificación Se2 a la señal «Maniobras permitidas». A las 14:10 h, según la anotación en el diario de viajes de prueba, se entregó al maquinista de la locomotora ČDC en la VZO la llave extraída del EMZ para garantizar los viajes de prueba. Al menos desde ese momento hasta la producción de la MU, en la señal de clasificación Se2 brillaba de forma demostrable la señal «Maniobras permitidas», que constituye también una de las formas de autorización de maniobras por parte del despachador de la ZC. Sin embargo, de acuerdo con la norma interna ZD 1 – PDŘZD, art. 38, la alineación de todos los desvíos de mando remoto debe realizarse de manera que los desvíos correspondientes sean alineados por el regulador en el panel del SZZ a la posición deseada. Tras su alineación, los reguladores se trasladan a la posición neutra, se realiza el bloqueo de los viajes de prueba, se determina la dirección de los viajes de prueba en la VZO y se extrae la llave del EMZ. Con este procedimiento correcto no se produce la alineación de un camino de maniobras desde la vía de Velim alrededor de la señal Se2
 
-
 ## Página 29
+
 
 y no se ilumina la señal «Maniobras permitidas». El modo en que el despachador de la ZC garantizó los viajes de prueba lo permite el SZZ y es también un método seguro de alineación de caminos de maniobras (si los desvíos no se alinearan en dirección recta, no se produciría el bloqueo del itinerario).
 
@@ -859,6 +883,7 @@ Por razones de capacidad, el número de maquinistas formados en la operación de
 
 ## Página 30
 
+
 reciclaje y posterior práctica de conducción. Estos conductores realizan a continuación pruebas estacionarias y de conducción.
 El conductor asignado a la locomotora de maniobras tiene, por tanto, conocimiento solo de un número limitado de vehículos ferroviarios de clientes. Algunos, principalmente conductores de habla checa, no tienen ninguno. El jefe de maniobras desempeña las obligaciones derivadas de su función y no está capacitado ni autorizado para manipular los sistemas de freno de los vehículos ferroviarios de clientes."
 De la declaración anterior se deduce que la maniobra con vehículos ferroviarios que están conectados al freno continuo no es posible en la mayoría de los casos debido a cierta singularidad de la explotación. Durante la maniobra se ejercería también una gran presión sobre el conductor de la unidad de maniobras, que tendría que activar (el llamado "revivir") y desfrenar dicho vehículo ferroviario en maniobra, lo cual es técnicamente exigente y consume tiempo. Sigue siendo cuestión abierta el empleo de la serie 794 para maniobras con trenes de vehículos ferroviarios más pesados, no conectados al freno continuo, cuando parece que otro tipo de vehículo ferroviario (por ejemplo, la serie 740, también en propiedad de VÚŽ) resultaría más adecuado. No obstante, los conductores tienen conocimiento de los vehículos y deben adaptar la conducción a la naturaleza del tren y a sus características.
@@ -874,8 +899,8 @@ Según la declaración presentada ante DI, el conductor era consciente de que ex
 Debido a la cantidad de superaciones de la velocidad máxima permitida por parte del conductor implicado, DI solicitó los registros de los velocímetros de 4 conductores seleccionados al azar y de 2 de sus turnos seleccionados al azar. DI no conocía el movimiento exacto del vehículo ferroviario, pero las maniobras fuera del perímetro de la vía de maniobras y de estacionamiento eran distinguibles en la mayoría de los casos:
 - en el caso del conductor n.º 1 se constató la superación de la velocidad máxima de 20 km.h-1 en 10 ocasiones el día 21. 6. 2023, en un máximo de 3 km.h-1. Debido a la posible desviación del velocímetro mecánico no puede afirmarse con certeza cuál era la velocidad real;
 
-
 ## Página 31
+
 
 - en el caso del conductor n.º 2 se constató, a lo largo de 2 turnos, un total de 2 superaciones de la velocidad máxima de 20 km.h-1 en 2 km.h-1. Debido a la posible desviación del velocímetro mecánico no puede afirmarse con certeza que se hubiera producido una superación real de la velocidad máxima;
 - en el caso del conductor n.º 3 se constató, a lo largo de 2 turnos, un total de 3 superaciones de la velocidad máxima de 20 km.h-1, en un máximo de 2 km.h-1. Debido a la posible desviación de medición del velocímetro mecánico no puede afirmarse con certeza que se hubiera producido una superación de la velocidad máxima permitida;
@@ -888,8 +913,8 @@ Durante las maniobras el conductor a veces no cambia de puesto (depende, entre o
 Según el plan de trabajos de maniobras del día 18. 7. 2023 se determinó claramente la persona que dirigía la maniobra (jefe de maniobras) y la persona que conducía el vehículo ferroviario (conductor). Uno de los puntos consistía en la formación y preparación de 3 vehículos ferroviarios en las vías n.º 1a y 1aa. La maniobra en estas vías fue acordada verbalmente por el despachador ZC y el jefe de maniobras. Tras finalizar la formación de los tres vehículos ferroviarios TRAXX MS3, el jefe de maniobras comunicó por radio al conductor de la unidad de maniobras que podía salir. Sin embargo, no le transmitió ninguna información. Ante la pregunta del conductor "¿A dónde ahora?", le indicó que irían a la vía n.º 5 y al canal (vía n.º 3a). Esa fue la última comunicación entre el jefe de maniobras y el conductor.
 El conductor recibió información sobre la maniobra prevista, que sin embargo no fue acordada entre el despachador ZC y el jefe de maniobras. Según la declaración del conductor, el jefe de maniobras suponía que solo irían hasta la señal Se2, y en su declaración ante DI
 
-
 ## Página 32
+
 
 precisó que creía que se movería alrededor de las vías n.º 1a y n.º 1aa, donde había estado maniobrando durante un buen rato antes de iniciar la marcha.
 El jefe de maniobras, en su declaración ante DI, indicó que esperaba que el conductor se detuviera ante la señal Se2, tras la cual tenían acordada la maniobra en el marco de los trabajos de formación en las vías n.º 1a y n.º 1aa. No acordó ninguna maniobra adicional. Para la colocación de vehículos en el canal (vía n.º 3a), según él, la única posibilidad de maniobra era a través de la vía n.º 5, ya que estaba libre, y en las vías ocupadas n.º 1 y n.º 3 no cabían con la unidad de maniobras.
@@ -902,6 +927,7 @@ DI, en la medición orientativa de la distancia de visibilidad de la señal de c
 el extremo derecho de la vía conmutadora n.º 7 era visible ya a 13 m antes de la señal Se2;
 
 ## Página 33
+
 
 •
 a una distancia de 20 m detrás de la señal Se2 ya era claramente visible la lengua de desvío derecha de la aguja n.º 7;
@@ -934,8 +960,8 @@ maquinista:
 ◦que la ruta de maniobra estaba cambiada a la vía 3 lo descubrió solo al pisar la aguja n.º 7;
 ◦no cumplió las condiciones para la marcha según visibilidad.
 
-
 ## Página 34
+
 
 ### Hallazgos:
 En la investigación se constató la infracción de normativa legal y normativa interna relativa a las funciones y obligaciones del gestor de la infraestructura y del transportista, en relación causal con la aparición del MU:
@@ -966,8 +992,8 @@ e) si el despachador de ZC no ha dado el consentimiento para la maniobra, el OŘ
 artículo 6.3.5 apartado (2) letra g) de la normativa interna PDŘZD:
 «Obligaciones del OŘP:
 
-
 ## Página 35
+
 
 g) dar la orden inmediata de detener la maniobra si detecta circunstancias que pongan en peligro la seguridad durante la maniobra.»;
 •
@@ -991,8 +1017,8 @@ En la investigación no se constató infracción de las funciones y obligaciones
 La autoridad nacional de seguridad es el DÚ, que de acuerdo con la ley n.º 266/1994 Sb. es una autoridad administrativa dependiente del Ministerio de Transporte. Su función es, entre otras, el ejercicio de la supervisión estatal en materia de vías y en materia de la autoridad de construcción, el ejercicio de la autoridad de construcción especial para obras de vía y obras sobre la vía, la aprobación de vehículos ferroviarios nuevos y modernizados y de instalaciones técnicas designadas, y la tramitación de infracciones. Es obligación del DÚ, en el plazo de 12 meses desde la fecha de publicación del informe final que contenga las recomendaciones de seguridad dirigidas a él, comunicar al DI qué medida ha adoptado en relación con esta recomendación de seguridad, realizando esta comunicación de forma regular, al menos una vez al año, hasta la adopción de las medidas correspondientes.
 La función de la Agencia Ferroviaria de la Unión Europea es, además de garantizar, en el marco de sus competencias, que se mantenga generalmente y, en la medida de lo posible, se aumente sistemáticamente la seguridad de los ferrocarriles, entre otras, la emisión, renovación, suspensión y modificación de certificados únicos
 
-
 ## Página 36
+
 
 de seguridad, la limitación de su vigencia o su cancelación, colaborando en este asunto con las autoridades nacionales de seguridad; asimismo emite autorizaciones para la puesta en el mercado de vehículos ferroviarios y tipos de vehículos, y está facultada para renovar, modificar, suspender o cancelar las autorizaciones que haya emitido. La Agencia evalúa además los proyectos de normativa nacional, etc.
 En la investigación no se constató infracción de las funciones y obligaciones de la autoridad nacional de seguridad y de la Agencia Ferroviaria de la Unión Europea.
@@ -1007,8 +1033,8 @@ Las funciones y obligaciones de otras personas o entidades no guardaban relació
 El maquinista de la maniobra, en su escrito de alegaciones, indicó que en la locomotora de la serie 794 no le satisfacía especialmente la ergonomía del puesto y la disposición espacial. La locomotora de la serie 794 del fabricante CZ LOKO, a.s., fue aprobada por el DÚ y puesta en servicio en el año 2014. La serie 794 fue aprobada de conformidad con la directriz técnica de interoperabilidad del subsistema de vehículos sobre raíles, donde se define, entre otros aspectos, a qué tipo de perfil debe satisfacer la locomotora. La serie 794 satisface los perfiles de vehículos GA, UIC 505-1 y está diseñada también para su uso en vías especiales (metro), donde satisface los perfiles de vehículos para metro de Praga, Budapest y Varsovia. Con ello se asocian ciertas limitaciones espaciales de la locomotora (especialmente altura y anchura). La locomotora implicada en el MU (prototipo de toda la serie) fue aprobada adicionalmente para vías especiales el 10. 12. 2015.
 La locomotora de la serie 794 dispone de 2 puestos de mando colocados diagonalmente en la cabina torre para el maquinista. La visión frontal desde el puesto del maquinista la garantizan, a cada lado, 2 ventanas con un pilar central en medio de la anchura de la locomotora.
 
-
 ## Página 37
+
 
 Fig. n.º 3: Recorte del plano de la locomotora de la serie 794 con los perfiles estáticos de vehículos satisfactorios representados        Fuente: www.czloko.cz
 Si determinada locomotora satisface a determinado maquinista es una opinión subjetiva, ya que a cada uno puede satisfacerle algo distinto (la visibilidad, el manejo, la amplitud…). El maquinista, en su escrito de alegaciones para el DI, indicó además que otros maquinistas se extrañaban de que él retirara el asiento del maquinista junto al puesto. Tampoco sabía que otros maquinistas se hubieran quejado de esta locomotora, aunque no hablaron directamente de este tema. Cabe añadir que la locomotora fue debidamente aprobada para la explotación de acuerdo con todas las normas y reglamentos vigentes en aquel momento y está destinada principalmente a la maniobra.
@@ -1019,6 +1045,7 @@ En la investigación no se detectaron factores derivados de la instalación y pu
 En la investigación no se detectaron factores relacionados con los fabricantes de vehículos ferroviarios u otros proveedores de productos ferroviarios.
 
 ## Página 38
+
 
 ### 4.2.4 Factores o consecuencias derivados del mantenimiento y la modificación de vehículos ferroviarios o instalaciones técnicas
 En la investigación no se detectaron factores derivados del mantenimiento y la modificación de vehículos ferroviarios o instalaciones técnicas.
@@ -1035,8 +1062,8 @@ En la investigación no se detectaron factores relacionados con el contenido del
 ### 4.3.3 Factores organizativos y tareas
 A todos los empleados implicados que realizaban su trabajo en virtud de contratos entre VÚŽ y ČDC se les realizaron controles, tanto por parte de VÚŽ como por parte de ČDC. En el periodo desde
 
-
 ## Página 39
+
 
 1. 1. 2022 hasta la producción del incidente, los empleados de ČDC realizaron en las instalaciones de VÚŽ controles de sus empleados cedidos contractualmente durante el turno con su presencia de la siguiente manera:
 •
@@ -1061,30 +1088,28 @@ En la vía de pruebas, los gestores de la infraestructura y los operadores ferro
 ### 4.4.4 Sistema de gestión de los sujetos responsables del mantenimiento de vehículos ferroviarios y de los talleres de mantenimiento
 El sistema de gestión de los sujetos responsables del mantenimiento de vehículos ferroviarios y de los talleres de mantenimiento no guardaba relación con la producción del incidente.
 
-
 ## Página 40
 
 ### 4.4.5 Resultados de la supervisión realizada por las autoridades nacionales de seguridad
-Atendiendo a los factores detectados y a las circunstancias de producción del incidente, la supervisión de la autoridad de seguridad no guarda relación con el incidente en cuestión.
-### 4.4.6 Aprobaciones, certificados y dictámenes de evaluación emitidos por la Agencia, las autoridades nacionales de seguridad u otros sujetos de evaluación de la conformidad
-El gestor de la infraestructura explotaba la vía en virtud de una autorización administrativa vigente y de un certificado de seguridad del gestor de la infraestructura. El operador ferroviario explotaba el transporte ferroviario en virtud de una licencia vigente y de un certificado del operador ferroviario.
+Atendiendo a los factores y circunstancias de la aparición de la MU constatados, la supervisión de la autoridad de seguridad no guarda relación con la MU en cuestión.
+### 4.4.6 Aprobaciones, certificados e informes de evaluación emitidos por la agencia, las autoridades nacionales de seguridad u otros organismos de evaluación de la conformidad
+El gestor de la infraestructura ferroviaria explotó la infraestructura ferroviaria en virtud de una autorización administrativa vigente y de un certificado de seguridad del gestor de la infraestructura ferroviaria. El transportista explotó el transporte ferroviario en virtud de una licencia vigente y de un certificado del transportista.
 ### 4.4.7 Otros factores sistémicos
-En la investigación no se detectaron otros factores sistémicos.
+En la investigación no se constataron otros factores sistémicos.
 ### 4.5 Sucesos anteriores de naturaleza similar
-La DI investigó las causas y circunstancias en el periodo desde el 1. 1. 2008 hasta la producción del incidente en cuestión en las vías ferroviarias, categoría de ámbito nacional, regional y vía privada (incidentes similares en la vía de pruebas no fueron investigados ni registrados) de estos incidentes análogos, en los que se produjo la circulación de una unidad de maniobras por un carril incorrecto, ocupado por otros DV, con la consiguiente colisión de DV:
+La DI investigó las causas y circunstancias en el periodo comprendido entre el 1. 1. 2008 y la fecha de aparición de la MU en cuestión, en las infraestructuras ferroviarias de las categorías de ámbito nacional, regional y vía privada (no se investigó ni se registró una MU similar en vía de pruebas) de estas MU análogas, en las que se produjo la circulación de una unidad de maniobras por la vía equivocada, ocupada por otras unidades de tracción, con la consiguiente colisión de unidades de tracción:
 •
-del 3. 2. 2018 en la est. Mělník, donde se produjo una circulación no asegurada de la unidad de maniobras de la reserva Z 2 hacia el ámbito de maniobras n.º 2 y la posterior colisión con un vehículo ferroviario de tracción estacionado. La causa inmediata de la producción del incidente fue la no detención de la unidad de maniobras de la reserva Z 2 antes del final de la ruta de maniobras, es decir, antes de las puntas de la aguja n.º 26.
-Los factores contribuyentes fueron:
-◦el incumplimiento de las condiciones de circulación según las condiciones de visibilidad por parte del maquinista de la reserva Z 2 durante las maniobras; la no garantía de la transmisión oportuna de las órdenes de detención de la unidad de maniobras por parte del jefe de maniobras de la reserva Z 2 tras constatar que la unidad de maniobras no se detenía ante la aguja n.º 26;
-◦una comunicación poco clara e incomprensible del jefe de maniobras de la reserva Z 1 transmitida por radio, que evocaba información sobre la posición de la aguja n.º 26.
-La causa fundamental fue el incumplimiento de los procedimientos tecnológicos de maniobras y de comunicación radio, establecidos en las normativas internas del gestor de la infraestructura SŽDC, por parte de los empleados del operador ferroviario ČDC;
+del 3. 2. 2018 en la estación de Mělník, donde se produjo la circulación no asegurada de la unidad de maniobras de la reserva Z 2 por el sector de maniobras n.º 2 y la consiguiente colisión con una unidad de tracción estacionada. La causa inmediata de la aparición de la MU fue la no detención de la unidad de maniobras de la reserva Z 2 antes del final del recorrido de maniobras, es decir, antes de las puntas del desvío n.º 26. Los factores contribuyentes fueron:
+◦el incumplimiento de las condiciones de circulación según las condiciones de visibilidad durante las maniobras por parte del maquinista de la reserva Z 2; la no garantía de la transmisión oportuna de las instrucciones de detención de la unidad de maniobras por parte del jefe de maniobras de la reserva Z 2 tras comprobar que la unidad de maniobras no se detenía antes del desvío n.º 26;
+◦un mensaje poco claro e incomprensible del jefe de maniobras de la reserva Z 1 dado por radio, que evocaba información sobre la posición del desvío n.º 26.
+La causa fundamental fue el incumplimiento de los procedimientos tecnológicos de maniobras y de comunicación radiofónica establecidos en la normativa interna del gestor de la infraestructura ferroviaria SŽDC, por parte de los empleados del transportista ČDC;
 •
-del 13. 4. 2019 en Mělník, Vlečka – puerto de Mělník, donde se produjo una circulación no asegurada de la unidad de maniobras a través de la aguja n.º 402, la posterior colisión con vehículos ferroviarios estacionados en el carril de vía privada 404, el descarrilamiento de 4 vehículos ferroviarios y el incendio de un vehículo ferroviario de tracción. La causa inmediata de la producción del incidente fue una ruta de maniobras incorrectamente establecida. Los factores contribuyentes fueron:
-◦el incumplimiento de la circulación según las condiciones de visibilidad, entre otros, por la no adaptación de la velocidad de circulación de la unidad de maniobras;
-◦la no observancia de las señales y la no actuación según los hechos constatados.
-
+del 13. 4. 2019 en Mělník, Vlečka – přístav Mělník, donde se produjo la circulación no asegurada de una unidad de maniobras por el desvío n.º 402, la consiguiente colisión con unidades de tracción estacionadas en la vía de vía privada 404, el descarrilamiento de 4 unidades de tracción y el incendio de una unidad de tracción. La causa inmediata de la aparición de la MU fue un recorrido de maniobras mal establecido. Los factores contribuyentes fueron:
+◦el incumplimiento de la circulación según las condiciones de visibilidad, entre otros, la no adaptación de la velocidad de circulación de la unidad de maniobras;
+◦la no observancia de las señales y la no actuación conforme a los hechos constatados.
 
 ## Página 41
+
 
 •
 Las causas fundamentales fueron:
@@ -1121,8 +1146,8 @@ exceeding the maximum permitted speed by the train driver of the shunting operat
 Systemic factor:
 none.
 
-
 ## Página 42
+
 
 ### 5.2 Medidas adoptadas para la prevención de sucesos extraordinarios
 El gestor de la infraestructura y el operador ferroviario VÚŽ adoptaron, tras la producción del incidente, las siguientes medidas:
@@ -1153,8 +1178,8 @@ repeated exceeding maximum permitted speed during shuntings by the train drivers
 ### 6 RECOMENDACIONES DE SEGURIDAD
 Atendiendo a las causas detectadas y a las circunstancias de producción del suceso extraordinario, la Inspección Ferroviaria no emite ninguna recomendación de seguridad, ya que no se han detectado datos que justificasen la emisión de una recomendación de seguridad en el marco de la prevención de la producción de sucesos extraordinarios.
 
-
 ## Página 43
+
 
 ### SAFETY RECOMMENDATIONS
 The Rail Safety Inspection Office does not issue a safety recommendation in regard of the found causes and circumstances, because we did not find out such knowledge, which would justify issuing of the safety recommendation within prevention of occurrence.
@@ -1166,8 +1191,8 @@ inspektor
 Územního inspektorátu Brno
 Územního inspektorátu Brno
 
-
 ## Página 44
+
 
 ### ANEXOS
 Fig. n.º 4: Vista desde el HDV de la serie 731 desde la cabina de circulación hacia la aguja n.º 7 (a la izquierda del HDV), cuando ya era posible distinguir la posición de las agujas y comenzaba a ser visible la señal de aguja de esta aguja (a la izquierda del poste de la línea de contacto).

@@ -10,13 +10,14 @@ chars: 123309
 ratio_longitud: 1.23
 tokens_in: 86744
 tokens_out: 56363
-verificacion: revisar
-notas_cifras: ["bloque 2: original bilingüe: se compara contra el idioma principal (PT)", "bloque 3: original bilingüe: se compara contra el idioma principal (PT)", "bloque 4: original bilingüe: se compara contra el idioma principal (CS)", "bloque 5: original bilingüe: se compara contra el idioma principal (CS)", "bloque 6: original bilingüe: se compara contra el idioma principal (CS)", "bloque 7: original bilingüe: se compara contra el idioma principal (CS)"]
-avisos: ["bloque 4: ratio 1.61", "bloque 6: ratio 1.66", "bloque 7: ratio 1.73", "bloque 8: ratio 1.85", "bloque 13: ratio 1.63", "bloque 14: ratio 1.63"]
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 6: original bilingüe: se compara contra el idioma principal (EN)", "página 7: original bilingüe: se compara contra el idioma principal (PT)", "página 8: original bilingüe: se compara contra el idioma principal (PT)", "página 11: original bilingüe: se compara contra el idioma principal (PT)", "página 12: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 Inspección Ferroviaria
 República Checa
@@ -42,11 +43,12 @@ CIF: 75009561
 http://www.dicr.cz
 tel.: (+420) 224 805 514
 
-
 ## Página 2
 
 
+
 ## Página 3
+
 
 # RESUMEN
 Gravedad:
@@ -77,8 +79,8 @@ error operativo del maquinista (no respetó la señal roja).
 Factor contribuyente: ausencia de equipamiento técnico que impida al tren pasar una señal en
 peligro.
 
-
 ## Página 4
+
 
 Causa subyacente:
 • puesta en marcha no autorizada del tren regional de pasajeros n.º 3127
@@ -129,12 +131,13 @@ se recomienda adoptar una medida propia que fuerce la implementación de las
 recomendaciones anteriores para el resto de gestores de infraestructura (IM) y
 empresas ferroviarias (RU) en la República Checa.
 
-
 ## Página 5
+
 
 Este informe final es público y todos los documentos y hechos están respaldados por el expediente de investigación.
 
 ## Página 6
+
 
 # Índice
  Resumen .............................................................................................................................3
@@ -165,8 +168,8 @@ incluidas personas en relación contractual ....................................
 3.1.1 Empleados del gestor de la infraestructura y del transportista, incluidas personas en relación 
 contractual ...............................................................................................................22
 
-
 ## Página 7
+
 
 3.1.2 Otras personas .........................................................................................................24
 3.2 Sistema de garantía de la seguridad ...............................................................................25
@@ -206,6 +209,7 @@ manejo y uso ...................................................................
 
 ## Página 8
 
+
 eventos extraordinarios y actividades de los servicios de emergencia ..........................................38
 4.3 Conclusiones .......................................................................................................39
 4.3.1 Causas inmediatas del evento extraordinario, incluidos los factores que contribuyeron al mismo y que estuvieron relacionados con la actuación de las personas implicadas o con el estado de los vehículos ferroviarios o de las instalaciones técnicas ....................................................................39
@@ -221,8 +225,8 @@ eventos extraordinarios y actividades de los servicios de emergencia ...........
  Figura 2: Panel indicador del SZZ de la est. Baška tras la ocurrencia del ME ...........................................43
  Figura 3: Cabina del tren Os 3127 en el pk 108,730 ..............................................................44
 
-
 ## Página 9
+
 
 ## Lista de siglas y símbolos utilizados
 AH
@@ -320,11 +324,12 @@ aparato de enclavamiento
 žst.
 estación ferroviaria
 
-
 ## Página 10
 
 
+
 ## Página 11
+
 
 ## 1 RESUMEN
 Clasificación del suceso:
@@ -355,50 +360,47 @@ no adopción de las medidas propias correspondientes para prevenir eventos extra
 ## Página 12
 
 Recomendaciones de seguridad:
-Al operador ferroviario, categoría nacional y regional, a la Administración de la Infraestructura Ferroviaria, 
+Al operador de la vía, categoría estatal y regional, a la Administración de la Infraestructura Ferroviaria de Transporte, 
 organización estatal: 
-acelerar los trabajos de implantación del sistema europeo de seguridad de tren ETCS en 
+acelerar los trabajos de implantación del sistema europeo de seguridad de trenes ETCS en 
 •
-servicio, no solo en las líneas nacionales, que constituyen el sistema convencional 
-del Sistema Ferroviario Europeo, sino también en el resto de líneas nacionales 
+servicio, no solo en las vías estatales, que constituyen el sistema convencional del 
+Sistema Ferroviario Europeo, sino también en el resto de vías estatales 
 y regionales, de conformidad con el texto de los documentos anteriores "Emisión 
 de recomendación de seguridad", ref. 6-538/2009/DI-1, de 18. 03. 2010, ref. 
 739/2010/DI, de 15. 12. 2010, y ref. 355/2012/DI, de 01. 06. 2012;
-en las líneas en las que a largo plazo no se implante el sistema europeo de seguridad de tren 
+en las líneas en las que a largo plazo no se implante el sistema europeo de seguridad de trenes 
 •
-ETCS, instalar un dispositivo técnico de parada de emergencia de los trenes cuya 
-seguridad esté amenazada, que se active automáticamente ante una circulación no 
-autorizada de un vehículo ferroviario más allá de la señal principal (p. ej., el sistema VNPN, 
-sistema de aviso ante paso no autorizado de la señal);
-en las estaciones permanentemente atendidas por un jefe de estación, que dirige y organiza el tráfico 
+ETCS, instalar un dispositivo técnico para la parada de emergencia de trenes cuya 
+seguridad esté amenazada, que se active automáticamente ante una circulación 
+indebida de un vehículo ferroviario más allá de la señal principal (por ejemplo, el sistema VNPN, sistema de 
+seguridad de aviso ante el paso indebido de una señal);
+en las estaciones permanentemente atendidas por un jefe de estación que dirige y organiza el tráfico ferroviario 
 •
-ferroviario en el ámbito de su estación y de los tramos intermedios adyacentes, no realizar la 
-expedición de un tren con transporte de pasajeros que permanezca (regular o 
-extraordinariamente) en el espacio destinado al ascenso y descenso de pasajeros, 
-mediante la colocación de la señal principal en la indicación que autoriza la 
-circulación del tren, incluida la señal de llamada.
+en el ámbito de su propia estación y de los tramos intermedios adyacentes, no realizar la maniobra de 
+formación de un tren con transporte de pasajeros que se encuentre (regular o extraordinariamente) en el espacio 
+destinado al embarque y desembarque de pasajeros, mediante la colocación de la señal principal en 
+señal que autoriza la circulación del tren, incluida la señal de llamada.
 Se recomienda a los transportistas České dráhy, a. s.:
-acelerar los trabajos de implantación y equipamiento de los vehículos ferroviarios con la parte 
+acelerar los trabajos de implantación y equipamiento de los vehículos ferroviarios con la parte móvil del sistema europeo de 
 •
-móvil del sistema europeo de seguridad de tren ETCS, de modo que, una vez puesto el 
-sistema en servicio en la línea correspondiente, los vehículos ferroviarios en explotación 
-puedan aprovechar plenamente todas las funcionalidades de dicho sistema de seguridad;
-modificar los procedimientos tecnológicos uniformes previos a la puesta en marcha de un tren con 
+seguridad de trenes ETCS, de modo que, cuando el sistema entre en servicio en la línea correspondiente, 
+los vehículos ferroviarios en explotación puedan aprovechar plenamente todas las funcionalidades de este 
+sistema de seguridad;
+modificar los procedimientos tecnológicos uniformes previos a la puesta en marcha de un tren con transporte de 
 •
-transporte de pasajeros que permanezca en el espacio destinado al ascenso y descenso 
-de pasajeros en la estación en la que se permita la expedición del tren mediante la 
-colocación de la señal principal en la indicación que autoriza la circulación del tren, 
-incluida la señal de llamada, de modo que el inicio del procedimiento previo a la 
-puesta en marcha del tren sea siempre iniciado por el maquinista 
-del DV, mediante la señal "Llamada a la disponibilidad" dada verbalmente, con un 
-medio de señalización o con un dispositivo técnico.
-
-Se recomienda a la Autoridad Ferroviaria la adopción de una medida propia encaminada a garantizar la 
-realización de las recomendaciones de seguridad anteriores también por parte de los demás 
-operadores ferroviarios y transportistas de la República Checa.
-
+pasajeros que se encuentre en el espacio destinado al embarque y desembarque 
+de pasajeros en la estación, en la que se permita la maniobra de formación del tren mediante la colocación de la señal principal en 
+señal que autoriza la circulación del tren, incluida la señal de llamada, de modo que 
+el inicio del procedimiento previo a la puesta en marcha del tren sea siempre iniciado por el maquinista 
+del DV, mediante la señal "Llamada a la disponibilidad" dada verbalmente, mediante un medio de señalización 
+o mediante un dispositivo técnico.
+Se recomienda al Organismo Ferroviario la adopción de una medida propia, encaminada a garantizar la realización 
+de las recomendaciones de seguridad anteriores también por parte de los demás operadores de vías y transportistas 
+en la República Checa.
 
 ## Página 13
+
 
 ## 2 DATOS RELATIVOS AL SUCESO EXTRAORDINARIO
 ## 2.1
@@ -415,75 +417,40 @@ Fig. n.º 1: Mapa del lugar de producción del SE en la est. Baška
 integrado de emergencia y del servicio de rescate
 El 05. 12. 2011, la persona que dirigía el tráfico ferroviario (en adelante, jefe de estación) en la est. Baška 
 realizó el cruce de los trenes Sv 3170 y Os 3127, tras el cual, atendiendo a la evolución de la situación 
-de tráfico, debía seguir otro cruce de los trenes Os 3127 y Os 3150. En el momento de la entrada del tren 
-
+de tráfico, debía seguir otro cruce de los trenes Os 3127 y Os 3150. En el momento de la entrada del tren
 
 ## Página 14
 
-Os 3127, procedente de la est. Pržno, en la SK n.º 1 se encontraba detenido el tren Sv 3170 preparado para salir por la SK 
-n.º 3 hacia la est. Pržno. Tras la entrada del tren Os 3127, el jefe de estación de la est. Baška estableció la 
-vía de tren para la salida del tren Sv 3170. Tras la salida del tren Sv 3170 y la liberación de la SK n.º 3, el 
-jefe de estación de la est. Baška preparó y estableció la vía de tren para la entrada del tren Os 3150 
-desde Frýdek-Místek en la SK n.º 3. La entrada del tren Os 3150 se permitió con la señal "Velocidad 
-40 km·h-1 y aviso" indicada por la señal principal (de entrada) L de la est. Baška. Durante la 
-preparación y establecimiento de la vía de tren para el tren Os 3150 en la SK n.º 3, desde el espacio para el ascenso 
-y descenso de pasajeros en la SK n.º 1, el tren Os 3127 se puso en marcha de forma no autorizada. La persona que dirigía el 
-vehículo ferroviario (en adelante, maquinista) del tren Os 3127 registró la señal "Alto" 
-indicada por la señal principal (de salida) S1 únicamente justo antes del nivel de esta 
-señal. A pesar de la reacción inmediata del maquinista, que aplicó el frenado de acción rápida, el tren 
-no se detuvo antes de la señal principal (de salida) S1. El tren se detuvo en el 
-extremo de Frýdek-Místek de la est. Baška, en el desvío n.º 1. La entrada no autorizada del tren Os 
-3127 en la vía de tren establecida para el tren en sentido contrario Os 3150 afectó al 
-SZZ de la est. Baška, lo que tuvo como consecuencia el cambio de la indicación de la señal principal (de entrada) 
-L a la señal "Alto". Ante el cambio de la indicación de la señal y la visión del tren en sentido contrario en el extremo de entrada, el maquinista del tren Os 3150 
-aplicó inmediatamente el frenado de acción rápida. El tren Os 3150 
-se detuvo en la línea antes del nivel de la señal principal (de entrada) L de la est. Baška. Los frentes de los trenes 
-Os 3127 y Os 3150 quedaron, tras detenerse, separados por 310 m.
-
-Tras la inspección de la infraestructura ferroviaria en el lugar de producción del SE se constató:
-el desvío n.º 1 permite la circulación de DV desde/hacia el tramo Frýdek-Místek – Baška y desde/hacia la SK n.º 1 
+El Os 3127, procedente de la estación de Pržno, en la vía de clasificación n.º 1 se encontraba detenido el tren Sv 3170 preparado para salir por la vía de clasificación n.º 3 hacia la estación de Pržno. Tras la entrada del tren Os 3127, el jefe de estación de Baška estableció la ruta ferroviaria para la salida del tren Sv 3170. Tras la salida del tren Sv 3170 y la liberación de la vía de clasificación n.º 3, el jefe de estación de Baška preparó y estableció la ruta ferroviaria para la entrada del tren Os 3150 procedente de Frýdek-Místek en la vía de clasificación n.º 3. La entrada del tren Os 3150 fue autorizada con la señal «Velocidad 40 km·h-1 y aviso» emitida por la señal principal (de entrada) L de la estación de Baška. Durante la preparación y establecimiento de la ruta ferroviaria para el tren Os 3150 en la vía de clasificación n.º 3, desde la zona de embarque y desembarque de pasajeros en la vía de clasificación n.º 1, el tren Os 3127 se puso en marcha indebidamente. La persona que conduce el vehículo ferroviario (en adelante, el maquinista) del tren Os 3127 registró la señal «Alto» emitida por la señal principal (de salida) S1 únicamente inmediatamente antes del nivel de dicha señal. A pesar de la reacción inmediata del maquinista, que aplicó el frenado de emergencia, el tren no se detuvo antes de la señal principal (de salida) S1. El tren se detuvo en el extremo de Frýdek-Místek de la estación de Baška, en el desvío n.º 1. La entrada indebida del tren Os 3127 en la ruta ferroviaria establecida para el tren en sentido contrario Os 3150 afectó al SZZ de la estación de Baška, lo que tuvo como consecuencia el cambio de la indicación de la señal principal (de entrada) L a la señal «Alto». El maquinista del tren Os 3150, ante el cambio de la indicación de la señal y la visión del tren en sentido contrario en el extremo de entrada, aplicó inmediatamente el frenado de emergencia. El tren Os 3150 se detuvo en la vía antes del nivel de la señal principal (de entrada) L de la estación de Baška. Los extremos de los trenes Os 3127 y Os 3150 se encontraban, tras la detención, separados por 310 m.
+Tras la inspección de la infraestructura ferroviaria en el lugar donde se produjo el MU, se constató:
+el desvío n.º 1 permite la circulación de DV sobre/desde la vía principal Frýdek-Místek – Baška y desde/hacia la vía de clasificación n.º 1
 •
-o 3 de la est. Baška, y estaba desviado por la vía secundaria a la izquierda para la circulación del tren 
-Os 3150 desde el tramo Frýdek-Místek – Baška;
-no se produjo el desvío forzado del desvío n.º 1 por el tren Os 3127;
+o 3 de la estación de Baška, y estaba conmutado en sentido secundario a la izquierda para la circulación del tren Os 3150 desde la vía principal Frýdek-Místek – Baška;
+no se produjo la conmutación forzosa del desvío n.º 1 por el tren Os 3127;
 •
-la señal principal (de salida) S1 es una señal fija, de mástil, de tres luces, de tipo 
+la señal principal (de salida) S1 es una señal fija, de mástil, de tres luces, tipo
 •
-AŽD 70, situada en el pk 108,655 a la derecha de la SK n.º 1, válida solo para la SK n.º 1, para 
-la circulación del tren y para las maniobras. La señal está marcada con una placa roja con borde 
-blanco y la inscripción blanca S1. El mástil de la señal está provisto de una banda 
-marcadora con franjas rojas y blancas, que son de menor longitud que las rojas. 
-Ni la placa marcadora ni la banda 
-marcadora estaban sucias;
-la señal principal (de salida) indicaba con luz roja la señal "Alto"; la óptica 
+AŽD 70, situada en el pk 108,655 a la derecha de la vía de clasificación n.º 1, válida solo para la vía de clasificación n.º 1, para la circulación del tren y las maniobras. La señal está marcada con una placa roja con borde blanco y la inscripción blanca S1. El mástil de la señal está provisto de una banda marcadora con franjas rojas y blancas, que son de menor longitud que las rojas. Tanto la placa marcadora como la banda marcadora no estaban sucias;
+la señal principal (de salida) emitía con luz roja la señal «Alto», la óptica de la
 •
-de la luz roja no estaba sucia;
-la SK n.º 1 discurre en línea recta;
+luz roja no estaba sucia;
+la vía de clasificación n.º 1 discurre en línea recta;
 •
-la visibilidad de las indicaciones de la señal principal (de salida) S1 desde el DV 
+la visibilidad de las señales de la señal principal (de salida) S1 desde el DV
 •
-detenido es superior a 100 m y no está interrumpida por obstáculos móviles o fijos. Las 
-indicaciones son visibles ya desde el nivel de la señal principal (de entrada) S, situada en el 
-pk 107,576 a la derecha de la vía general Pržno – Baška, es decir, también desde el espacio destinado al ascenso 
-y descenso de pasajeros en la est. Baška, y no está interrumpida por obstáculos móviles o 
-fijos;
-la distancia entre el extremo del andén lateral de un solo nivel junto a la SK n.º 1 y el nivel de 
+de mando detenido es superior a 100 m y no está interrumpida por obstáculos móviles o fijos. Las señales son visibles ya desde el nivel de la señal principal (de entrada) S, situada en el pk 107,576 a la derecha de la vía de tráfico Pržno – Baška, es decir, también desde la zona destinada al embarque y desembarque de pasajeros en la estación de Baška, y no está interrumpida por obstáculos móviles o fijos;
+la distancia entre el extremo del andén lateral de un solo nivel junto a la vía de
 •
-la señal principal (de salida) S1 es de 220 m;  
-la señal principal (de entrada) L es una señal fija, de mástil, de cinco luces, de tipo 
+clasificación n.º 1 y el nivel de la señal principal (de salida) S1 es de 220 m;
+la señal principal (de entrada) L es una señal fija, de mástil, de cinco luces, tipo
 •
-AŽD 70, situada en el pk 108,942 a la derecha de la vía general Frýdek-Místek – Baška. 
-La señal está marcada con una placa roja con borde 
-blanco y la inscripción blanca L. El mástil de la señal está provisto de una banda 
-marcadora con franjas rojas y blancas de la misma 
-longitud. Ni la placa marcadora ni la banda 
-marcadora estaban sucias;
-el ZZ mostraba un funcionamiento correcto en el momento de la inspección. Ni la avería del SZZ ni la del TZZ fueron registradas 
+AŽD 70, situada en el pk 108,942 a la derecha de la vía de tráfico Frýdek-Místek – Baška. La señal está marcada con una placa roja con borde blanco y la inscripción blanca L. El mástil de la señal está provisto de una banda marcadora con franjas rojas y blancas de igual longitud. Tanto la placa marcadora como la banda marcadora no estaban sucias;
+el ZZ mostraba un funcionamiento correcto en el momento de la inspección. Ni la
 •
-ni detectadas en el libro "Registro de averías en los equipos de comunicación y 
-señalización";
+avería del SZZ ni la del TZZ fueron registradas ni detectadas en el libro «Registro de averías en los equipos de comunicación y seguridad»;
 
 ## Página 15
+
 
 TRS estaba en funcionamiento, sin defectos.
 •
@@ -535,56 +502,52 @@ la cabeza del tren en la posición final tras la producción de la MU se encontr
 •
 el tren era remolcado por el HDV 92 54 2 754 039-6 (en adelante, HDV 754.039-6). La conducción del tren se realizaba desde el puesto del maquinista 1, el delantero en el sentido de la marcha. El HDV estaba ocupado únicamente por el maquinista;
 
-
 ## Página 16
 
-•
-la composición locomotora TRS VS47 estaba en funcionamiento, sin defectos;
+la composición locomotora TRS VS47 estaba en funcionamiento, sin averías;
 •
 no se produjo descarrilamiento ni daños en el DV.
 •
-Con la MU no se produjeron daños a la salud de las personas, descarrilamiento del DV, daños a la infraestructura ferroviaria ni la producción de otros daños materiales.
-Los servicios de emergencia (IZS) no intervinieron en el lugar de la MU.
-
-2.1.3 Decisión de iniciar la investigación de las causas y circunstancias de la producción, composición del equipo de personas cualificadas y forma de dirigir la investigación de las causas y circunstancias de la producción
-
-La producción de la MU fue comunicada al COP DI Praga el 05. 12. 2011 a las 15:30 h, es decir, 32 min. después de la producción de la MU. Debido a las circunstancias comunicadas de la producción de la MU y al hecho de que la MU en cuestión pertenece a la serie de MU significativas para todo el sistema de explotación ferroviaria y el sistema de explotación del transporte ferroviario, la DI inició la investigación de las causas y circunstancias de la producción de la MU en el lugar de la MU. La investigación en el lugar fue realizada por un VI de la ÚI Ostrava. La posterior investigación de las causas y circunstancias de la producción de la MU fue encomendada a la ÚI Ostrava. La investigación de las causas y circunstancias de la producción de la MU fue realizada por la DI de conformidad con el § 53b de la Ley n.º 266/1994 Sb., de ferrocarriles, en su versión vigente (en adelante, Ley n.º 266/1994 Sb.), y el § 11 del Decreto n.º 376/2006 Sb., sobre el sistema de seguridad de la explotación ferroviaria y del transporte ferroviario y los procedimientos en caso de producción de sucesos excepcionales en los ferrocarriles, en su versión vigente (en adelante, Decreto n.º 376/2006 Sb.).
-
+En el MU no se produjeron lesiones personales, descarrilamiento del DV, daños en la infraestructura de la vía ni otros daños materiales.
+Los servicios de IZS no intervinieron en el lugar del MU.
+2.1.3 Decisión de iniciar la investigación de las causas y circunstancias de la ocurrencia, composición del equipo de personas cualificadas y método de dirección de la investigación de las causas y circunstancias de la ocurrencia
+La ocurrencia del MU fue notificada al COP DI Praga el 05. 12. 2011 a las 15:30 h, es decir, 32 min. después de la ocurrencia del MU. Dadas las circunstancias notificadas de la ocurrencia del MU y el hecho de que el MU en cuestión pertenece a la serie de MU significativos para todo el sistema de explotación de la vía y el sistema de explotación del transporte ferroviario, la DI inició la investigación de las causas y circunstancias de la ocurrencia del MU en el lugar del MU. La investigación en el lugar fue realizada por un VI del ÚI Ostrava. La posterior investigación de las causas y circunstancias de la ocurrencia del MU fue encomendada al ÚI Ostrava. La investigación de las causas y circunstancias de la ocurrencia del MU fue realizada por la DI de conformidad con el § 53b de la ley núm. 266/1994 Sb., de vías, en su versión vigente (en adelante, ley núm. 266/1994 Sb.), y el § 11 del decreto núm. 376/2006 Sb., sobre el sistema de seguridad de la explotación de la vía y del transporte ferroviario y los procedimientos en caso de ocurrencia de sucesos excepcionales en las vías, en su versión vigente (en adelante, decreto núm. 376/2006 Sb.).
 ## 2.2
 ### Circunstancias del suceso excepcional
-### 2.2.1 Empleados participantes del explotador ferroviario y del transportista, personas en relación contractual y otros participantes y testigos
-
-Personas participantes por:
-
-explotador ferroviario:
+### 2.2.1 Empleados participantes del explotador de la vía y del transportista, personas en relación contractual y demás participantes y testigos
+Personas participantes por parte de:
+explotador de la vía:
 •
-jefe de estación de Baška, empleado del explotador ferroviario SŽDC, s. o., RCP Ostrava, PO Český Těšín;
+jefe de estación de la est. Baška, empleado del explotador de la vía SŽDC, s. o., RCP
+•
+Ostrava, PO Český Těšín;
 transportista:
 •
-maquinista del tren Os 3127, empleado de ČD, a. s., DKV Olomouc, PJ Valašské Meziříčí;
+maquinista del tren Os 3127, empleado de ČD, a. s., DKV Olomouc, PJ Valašské
 •
-maquinista del tren Os 3150, empleado de ČD, a. s., DKV Olomouc, PJ Bohumín, PP Frýdek-Místek;
+Meziříčí;
+maquinista del tren Os 3150, empleado de ČD, a. s., DKV Olomouc, PJ
 •
-tripulación del tren Os 3127 (jefe de tren), empleado de ČD, a. s., RCVD Ostrava.
-
+Bohumín, PP Frýdek-Místek;
+personal del tren Os 3127 (jefe de tren), empleado de ČD, a. s., RCVD Ostrava.
+•
 2.2.2 Trenes y su composición, incluidos los números de registro de los distintos vehículos ferroviarios
-
-La estación de origen del tren Os 3127 era la estación de Frenštát pod Radhoštěm, la estación de destino la estación de Ostrava hl. n. El tren Os 3127 era remolcado por el HDV 742.046-6 en propiedad de ČD, a. s., registrado en el estado de inventario del DKV Olomouc. El HDV estaba equipado con la parte móvil del sistema de radio TRS – Composición locomotora VS47 y el adaptador XX48 [para la parada remota (de emergencia) del HDV, en caso de peligro de demora, ante una amenaza inminente para la seguridad del transporte ferroviario]. La composición del tren estaba formada por tres TDV Bdtax782 50 54 93 29 114-8, Btax780 50 54 24 29 016-9 y Bdtax782 50 54 93 29 081-9. Los TDV estaban equipados con cierre centralizado
+La estación de origen del tren Os 3127 era la est. Frenštát pod Radhoštěm, y la estación de destino la est. Ostrava hl. n. El tren Os 3127 estaba tirado por el HDV 742.046-6 en propiedad de ČD, a. s., registrado en el estado de inventario del DKV Olomouc. El HDV estaba equipado con la parte móvil del sistema de radio TRS – Composición locomotora VS47 y el adaptador XX48 [para la parada a distancia (de emergencia) del HDV, si existe riesgo de demora, ante una amenaza inmediata a la seguridad del transporte ferroviario]. La composición del tren estaba formada por tres TDV Bdtax782 50 54 93 29 114-8, Btax780 50 54 24 29 016-9 y Bdtax782 50 54 93 29 081-9. Los TDV estaban equipados con cierre centralizado
 
 ## Página 17
 
-de las puertas de acceso, que cerraba centralmente el maquinista desde la cabina de conducción. El tren tenía una longitud de 56 m, un peso de 124 t, un porcentaje de frenado requerido del 66 % y un porcentaje de frenado real del 84 %. El tren se frenaba con el método de frenado I en el modo de frenado P. La ÚZB del tren se realizó el 05. 12. 2011 a las 05:19 h en la est. Valašské Meziříčí para el tren Sp 1640. La JZB para el tren Os 3127 se realizó el 05. 12. 2012 en la est. Frenštát pod Radhoštěm a las 14:45 h.
-La estación de origen del tren Os 3150 era la est. Ostrava hl. n., y la de destino la est. Frýdlant nad Ostravicí. El tren Os 3150 era remolcado por el HDV 754.039-6 en propiedad de ČD, a. s., registrado en el estado de inventario DKV Olomouc. El HDV estaba equipado con la parte móvil del sistema de radio TRS – el acoplamiento de locomotora VS47 y el adaptador XX48. La composición del tren estaba formada por cuatro TDV Bdt280 50 54 21 08 282-5, Bdt280 50 54 21 08 275-9, Bdt262 50 54 20 19 321-9 y Bdt280 50 54 21 08 276-7. El tren tenía una longitud de 115 m, un peso de 242 t, un porcentaje de frenado requerido del 91 % y un porcentaje de frenado real del 107 %. El tren Os 3150 se frenaba con el método de frenado I en el modo de frenado R. La ÚZB del tren se realizó el 05. 12. 2011 a las 07:16 h en la est. Ostrava hl. n. para el tren Os 3116. La JZB para el tren Os 3150 se realizó el 05. 12. 2012 a las 13:50 h en la est. Ostrava hl. n.
-Los trenes Os 3127 y Os 3150 estaban destinados al transporte de pasajeros y, en todo su recorrido, se transportaban bajo la licencia del transportista ČD, a. s.
-La velocidad establecida para el tren Os 3127 entre la est. Baška y la est. Frýdek-Místek, es decir, también en el lugar donde se produjo el MU, fue fijada por la SJŘ 302 para servicios de pasajeros en el valor v = 80 km·h-1.
-La velocidad establecida para el tren Os 3150 entre la est. Frýdek-Místek y la est. Baška fue fijada por la SJŘ 302 para servicios de pasajeros en el valor v = 80 km·h-1.
-### 2.2.3 Descripción de los componentes de la vía de circulación ferroviaria, del sistema de seguridad (es decir, en particular del estado de los raíles, agujas, aparatos de enclavamiento, señales y del dispositivo de seguridad del tren)
-La est. Baška se encuentra en un tramo de vía única, no electrificado, de la línea Ostrava hl. n. – Valašské Meziříčí. La est. Baška está equipada con un SZZ de 3.ª categoría, según la TNŽ 34 2620 «Equipamiento de seguridad ferroviario – Equipamiento de seguridad de estación y de línea» (en adelante TNŽ 34 2620), un SZZ de relés, cuyos circuitos eléctricos cumplen la función de garantía directa de la seguridad del transporte ferroviario, de sistema de vía, tipo Reléové zabezpečovací zařízení AŽD 71, con contadores de ejes Alcatel para la comunicación segura de la libertad de la KÚ, señales luminosas, situadas a la derecha directamente junto a la vía, tipo AŽD 70, con sistema de señalización de velocidad, es decir, el sistema de señales de las señales principales que prohíben o permiten la circulación de trenes. En caso de permitir la circulación de un tren, establecen la velocidad. La información de las señales principales no se transmite a la DV principal en el ámbito de la est. Baška y en la vía de línea Frýdek-Místek – Baška. El SZZ permite la establecimiento de itinerarios de tren y de maniobra asegurados. La operación del SZZ de la est. Baška se realiza desde la oficina de circulación de la est. Baška. El SZZ permite la operación a distancia de la est. vecina Pržno.
-La señal principal (de salida) S1 de la est. Baška está situada en el pk 108,655 a la derecha directamente junto a la SK n.º 1, de tres luces, sobre mástil. Con esta señal se controlan las circulaciones de trenes desde la SK n.º 1 de la est. Baška hacia la est. Frýdek-Místek y las maniobras en dirección Frýdek-Místek. La señal principal (de entrada) L de la est. Baška está situada en el pk 108,942 a la derecha de la vía de línea Frýdek-Místek – Baška, de cinco luces, sobre mástil. Con la señal L se controlan las circulaciones de trenes y PMD hacia la est. Baška desde la est. Frýdek-Místek.
-En la est. Baška, para la circulación de trenes están destinadas la SK n.º 1 y la SK n.º 3, cada una con una longitud de 575 m. Junto a la SK n.º 1 se encuentra un andén lateral a nivel con una longitud de 208 m, junto a la SK n.º 3 se
-
+de las puertas de acceso, que cerraba centralmente el maquinista desde la cabina de conducción. El tren tenía una longitud de 56 m, un peso de 124 t, un porcentaje de frenado requerido del 66 %, un porcentaje de frenado real del 84 %. El tren se frenaba con el primer modo de frenado en el régimen de frenado P. La ÚZB del tren se realizó el 05. 12. 2011 a las 05:19 h en la est. Valašské Meziříčí para el tren Sp 1640. La JZB para el tren Os 3127 se realizó el 05. 12. 2012 en la est. Frenštát pod Radhoštěm a las 14:45 h.
+La estación de origen del tren Os 3150 era la est. Ostrava hl. n., y la de destino la est. Frýdlant nad Ostravicí. El tren Os 3150 era tirado por el HDV 754.039-6 en propiedad de ČD, a. s., registrado en el estado de inventario DKV Olomouc. El HDV estaba equipado con la parte móvil del sistema de radio TRS – el convoy de locomotora VS47 y el adaptador XX48. La composición del tren se formaba con cuatro TDV Bdt280 50 54 21 08 282-5, Bdt280 50 54 21 08 275-9, Bdt262 50 54 20 19 321-9 y Bdt280 50 54 21 08 276-7. El tren tenía una longitud de 115 m, un peso de 242 t, un porcentaje de frenado requerido del 91 %, un porcentaje de frenado real del 107 %. El tren Os 3150 se frenaba con el primer modo de frenado en el régimen de frenado R. La ÚZB del tren se realizó el 05. 12. 2011 a las 07:16 h en la est. Ostrava hl. n. para el tren Os 3116. La JZB para el tren Os 3150 se realizó el 05. 12. 2012 a las 13:50 h en la est. Ostrava hl. n.
+Los trenes Os 3127 y Os 3150 estaban destinados al transporte de pasajeros, y en todo su recorrido fueron transportados bajo la licencia del transportista ČD, a. s.
+La velocidad establecida para el tren Os 3127 entre la est. Baška y la est. Frýdek-Místek, es decir, también en el lugar donde se produjo el MU, era según la SJŘ 302 de pasajeros de v = 80 km·h-1.
+La velocidad establecida para el tren Os 3150 entre la est. Frýdek-Místek y la est. Baška era según la SJŘ 302 de pasajeros de v = 80 km·h-1.
+### 2.2.3 Descripción de los componentes de la vía de circulación de la línea, del sistema de señalización (es decir, en particular el estado de los raíles, las agujas, los aparatos de cambio, los señales y el dispositivo de seguridad del tren)
+La est. Baška se encuentra en un tramo de vía única, no electrificado, de la línea Ostrava hl. n. – Valašské Meziříčí. La est. Baška está equipada con un SZZ de 3.ª categoría, según la TNŽ 34 2620 «Aparatos de señalización ferroviaria – Aparatos de señalización de estación y de línea» (en adelante TNŽ 34 2620), un SZZ de relés, cuyos circuitos eléctricos cumplen la función de garantía directa de la seguridad del transporte ferroviario, de sistema de vía, tipo Aparato de señalización de relés AŽD 71, con contadores de ejes Alcatel para la comunicación segura de la libertad de la KÚ, señales luminosas, situadas a la derecha directamente junto a la vía, tipo AŽD 70, con un sistema de señalización de velocidad, es decir, un sistema de señales de las señales principales que prohíben o permiten la circulación del tren. En caso de permitir la circulación del tren, establecen la velocidad. La información de las señales principales no se transmite a la DV principal en el ámbito de la est. Baška y en la vía de línea Frýdek-Místek – Baška. El SZZ permite la establecimiento de itinerarios de tren y de maniobra asegurados. La operación del SZZ de la est. Baška se realiza desde la oficina de circulación de la est. Baška. El SZZ permite la operación remota de la est. vecina Pržno.
+La señal principal (de salida) S1 de la est. Baška está situada en el km 108,655 a la derecha directamente junto a la SK n.º 1, de tres luces, sobre mástil. La señal controla las circulaciones de trenes desde la SK n.º 1 de la est. Baška hacia la est. Frýdek-Místek y las maniobras en dirección Frýdek-Místek. La señal principal (de entrada) L de la est. Baška está situada en el km 108,942 a la derecha de la vía de línea Frýdek-Místek – Baška, de cinco luces, sobre mástil. La señal L controla las circulaciones de trenes y PMD hacia la est. Baška desde la est. Frýdek-Místek.
+En la est. Baška, para la circulación de trenes están destinadas la SK n.º 1 y la SK n.º 3, cada una con una longitud de 575 m. En la SK n.º 1 se encuentra un andén lateral a nivel de 208 m de longitud, en la SK n.º 3 se
 
 ## Página 18
+
 
 encuentra un andén lateral a nivel con una longitud de 285 m. El acceso a los andenes se realiza mediante pasos a nivel en el pk 108,343 (delante de la oficina de circulación) y en el pk 108,340 mediante un paso a nivel para peatones P7391, señalizado y asegurado únicamente con cruces de advertencia. La SK n.º 1 y el extremo Frýdek-Místek se encuentran en línea recta. En el extremo Frýdek-Místek, desde el pk 108,825, es decir, 93 m después del punto de parada del tren Os 3127, hasta el pk 108,958, sigue una curva a la izquierda de radio r=900 m, sin peralte, con una longitud de 133 m. En el pk 108,772, una carretera terrestre especial cruza la vía ferroviaria a nivel de la vía. El paso a nivel ferroviario P7392 está señalizado y asegurado únicamente con cruces de advertencia. Desde el pk 108,958 hasta el pk 109,196, la vía se encuentra en línea recta. La SK n.º 1, en el sentido de circulación del tren Os 3127, desde el pk 108,080 hasta el pk 108,250 desciende con una pendiente de -7,04 ‰. Desde el pk 108,250 hasta el pk 108,596 desciende con una pendiente de -2,60 ‰, desde el pk 108,596 hasta el pk 108,730, es decir, el punto de parada del tren Os 3127, desciende con una pendiente de -6,30 ‰.
 El tramo de vía única Baška – Frýdek-Místek está equipado con un TZZ bidireccional, de 3.ª categoría según la TNŽ 34 2620, tipo barrera automática AH 83 sin señales de sección, con autorización de línea, contadores de ejes Alcatel para la comunicación segura de la libertad de la KÚ. Los elementos de control, mando e indicación de la autorización de línea forman parte del SZZ de la est. Baška y de la est. Frýdek-Místek. El TZZ impide a los empleados que operan el SZZ de las estaciones adyacentes accionar la señal principal (de salida) a la posición que permite la circulación (excepto PN), si no ha recibido la TS para dicha circulación, con lo que se excluye entre dos estaciones consecutivas la circulación simultánea de trenes en sentidos opuestos por la misma vía de línea, o si no se ha producido la liberación automática del AH tras el tren anterior, con lo que se impide la circulación del tren siguiente hacia el sector espacial ocupado.
@@ -595,20 +558,20 @@ La velocidad de línea entre la est. Frýdek-Místek y la est. Baška es, en amb
 ## Página 19
 
 ### 2.2.4 Uso de medios de comunicación
-A las 14:55:03 h el jefe de estación de la est. Baška utilizó el altavoz de estación para informar a los pasajeros de la llegada del tren Os 3127.
-A las 14:56:47 h, es decir, durante la circulación del tren Os 3127 desde la est. Pržno hasta la est. Baška, el jefe de estación de la est. Baška utilizó la estación de radio de base de vía TRS ZR47 para establecer comunicación con el maquinista del tren Os 3127 con el fin de informarle del cruce con el tren Os 3150 en la est. Baška. Sin embargo, no se llegó a establecer la comunicación a través de TRS con el maquinista del tren Os 3127. El maquinista no registró el intento del jefe de estación de la est. Baška de establecer comunicación en la estación de radio del equipo de locomotora VS47. No se pudo determinar la causa de que no se estableciera la comunicación entre el jefe de estación de la est. Baška y el maquinista del tren Os 3127.
-A las 14:58:08 h el jefe de estación de la est. Baška utilizó el altavoz de estación para informar a los pasajeros de la llegada del tren Os 3150; en ese momento el tren Os 3127 estaba detenido en la SK n.º 1 y, durante la información a los pasajeros a través del altavoz de estación, el tren se puso en marcha indebidamente desde la zona de embarque y desembarque de pasajeros.
-Inmediatamente después de producirse el MU, el maquinista del tren Os 3127 comunicó la producción del MU al jefe de estación de la est. Baška mediante el teléfono móvil de servicio del jefe de servicio del tren.
-### 2.2.5 Trabajos realizados en el lugar del suceso excepcional y en sus inmediaciones
-En el lugar del MU, inmediatamente antes de su producción, ni el propietario de la vía ni el explotador de la vía realizaron trabajos de reparación o mantenimiento en la superestructura, la infraestructura y la ZZ. Asimismo, aparte de la organización del tráfico ferroviario relacionada con la circulación de los trenes Sv 3170, Os 3127 y Os 3150, el explotador de la vía no realizó otros trabajos en la explotación de la vía y la organización del tráfico ferroviario que guarden relación con la producción del citado MU.
-### 2.2.6 Activación del plan para el caso de suceso excepcional en la vía y secuencia de acontecimientos
-Para el caso de comunicación de la producción de un MU, el explotador de la vía SŽDC, s. o., ha emitido la norma interna de SŽDC (ČD) Dp 17 (provisional) "Norma para la comunicación e investigación de sucesos excepcionales", ref. 22957/08-OKS, de fecha 27. 06. 2008, en vigor desde el 01. 07. 2008, en su versión vigente.
-La producción del MU fue comunicada al jefe de estación de la est. Baška por el maquinista del tren Os 3127 inmediatamente después de su producción. El jefe de estación de la est. Baška cumplió las demás obligaciones de conformidad con el Cuadro de Comunicaciones.
-En virtud del contrato "Contrato de colaboración en la investigación de sucesos excepcionales en el tráfico ferroviario y de accidentes laborales mortales y graves", celebrado el 31. 08. 2011 entre SŽDC, s. o., y ČD, a. s., en vigor desde el 01. 09. 2011, la producción del MU fue notificada en el COP DI conjuntamente por el explotador de la vía y el transportista, por un empleado de SŽDC, s. o., OMU Delegación Territorial de Ostrava, persona designada en el sentido del § 9 apartado 1 del decreto n.º 376/2006 Sb. para la determinación de las causas y circunstancias de la producción del MU.
-Al lugar del MU acudieron las personas cualificadas del explotador de la vía y del transportista, así como el VI DI. En el lugar del MU estaban presentes también los directivos de las distintas unidades organizativas del explotador de la vía y del transportista. Con la participación del VI DI se realizó la inspección conjunta del lugar del MU. Tras la inspección del lugar de producción del MU, a las 17:30 h el DI autorizó los cambios respecto del estado original en el lugar del MU.
-
+A las 14:55:03 h, el jefe de estación de la estación de Baška utilizó el altoparlante de la estación para informar a los pasajeros de la llegada del tren Os 3127.
+A las 14:56:47 h, es decir, durante la circulación del tren Os 3127 desde la estación de Pržno hasta la estación de Baška, el jefe de estación de la estación de Baška utilizó la estación base de vía TRS ZR47 para establecer comunicación con el maquinista del tren Os 3127 con el fin de informarle del cruce con el tren Os 3150 en la estación de Baška. Sin embargo, no se logró establecer la comunicación a través de la TRS con el maquinista del tren Os 3127. El maquinista no registró el intento del jefe de estación de la estación de Baška de establecer comunicación en la estación de radio de la locomotora VS47. No se pudo determinar la causa de que no se estableciera la comunicación entre el jefe de estación de la estación de Baška y el maquinista del tren Os 3127.
+A las 14:58:08 h, el jefe de estación de la estación de Baška utilizó el altoparlante de la estación para informar a los pasajeros de la llegada del tren Os 3150; en ese momento, el tren Os 3127 estaba detenido en la vía de clasificación n.º 1 y, durante la información a los pasajeros a través del altoparlante de la estación, el tren se puso en marcha indebidamente desde la zona de embarque y desembarque de pasajeros.
+Inmediatamente después de producirse el accidente ferroviario, el maquinista del tren Os 3127 comunicó la producción del accidente ferroviario al jefe de servicio del tren, jefe de estación de la estación de Baška, mediante el teléfono móvil profesional.
+### 2.2.5 Trabajos realizados en el lugar del accidente ferroviario y en sus inmediaciones
+En el lugar del accidente ferroviario, inmediatamente antes de su producción, no se estaban realizando por parte del propietario de la infraestructura ferroviaria ni del gestor de la infraestructura ferroviaria trabajos de reparación o mantenimiento en la superestructura, la infraestructura y el material rodante. Asimismo, aparte de la organización del transporte ferroviario relacionada con la circulación de los trenes Sv 3170, Os 3127 y Os 3150, el gestor de la infraestructura ferroviaria no realizó otros trabajos en la explotación de la infraestructura ferroviaria y la organización del transporte ferroviario que guardaran relación con la producción del mencionado accidente ferroviario.
+### 2.2.6 Activación del plan para casos de accidente ferroviario en la infraestructura ferroviaria y secuencia de acontecimientos
+Para el caso de comunicación de la producción de un accidente ferroviario, el gestor de la infraestructura ferroviaria SŽDC, s. o., tiene emitida la norma interna SŽDC (ČD) Dp 17 (provisional) "Norma para la comunicación e investigación de accidentes ferroviarios", n.º de expediente 22957/08-OKS, de fecha 27. 06. 2008, en vigor desde el 01. 07. 2008, en su versión vigente.
+El maquinista del tren Os 3127 comunicó la producción del accidente ferroviario al jefe de estación de la estación de Baška inmediatamente después de su producción. El jefe de estación de la estación de Baška cumplió las demás obligaciones de conformidad con el Cuadro de Comunicaciones.
+En virtud del contrato "Contrato de colaboración en la investigación de accidentes ferroviarios en el transporte ferroviario y de accidentes de trabajo mortales y graves", celebrado el 31. 08. 2011 entre SŽDC, s. o., y ČD, a. s., en vigor desde el 01. 09. 2011, la producción del accidente ferroviario fue notificada al COP DI conjuntamente por el gestor de la infraestructura ferroviaria y el transportista, por un empleado de SŽDC, s. o., OMU Delegación Territorial de Ostrava, persona autorizada en el sentido del § 9 apartado 1 del decreto n.º 376/2006 Sb. para la determinación de las causas y circunstancias de la producción del accidente ferroviario.
+Al lugar del accidente ferroviario acudieron las personas competentes del gestor de la infraestructura ferroviaria y del transportista, así como el VI DI. En el lugar del accidente ferroviario estaban presentes también los directivos de las distintas ramas organizativas del gestor de la infraestructura ferroviaria y del transportista. Con la participación del VI DI se realizó una inspección comisionada del lugar del accidente ferroviario. Tras la inspección del lugar de producción del accidente ferroviario, a las 17:30 h el DI dio su conformidad con los cambios del estado original en el lugar del accidente ferroviario.
 
 ## Página 20
+
 
 La explotación del tráfico ferroviario en la est. Baška, incluido el tramo de vía adyacente Frýdek-Místek – Baška, quedó interrumpida desde la producción del MU el 05. 12. 2011 a las 14:58 h hasta las 18:03 h del mismo día, es decir, durante 03:05 h.
 ### 2.2.7 Activación del plan del sistema integrado de emergencia, de la policía y del servicio de emergencia sanitaria, y secuencia de acontecimientos
@@ -629,8 +592,8 @@ Temperatura del aire +7 °C, parcialmente nublado, visibilidad superior a 100 m;
 Coordenadas GPS del lugar del MU: 49°39'14.851"N, 18°22'9.308"E.
 •
 
-
 ## Página 21
+
 
 ## 3 REGISTRO DE LAS EXPLICACIONES PRESENTADAS
 ## 3.1
@@ -670,6 +633,7 @@ No fue informado directamente por el jefe de estación de la est. Baška de la p
 El maquinista es consciente de que, antes de poner en marcha el tren Os 3127 y al inicio de la puesta en marcha, no vigiló la señal de la señal principal (de salida) S1.
 
 ## Página 22
+
 
 maquinista del tren Os 3150
  – del Registro con el empleado, entre otros, se desprende:
@@ -744,72 +708,64 @@ en la DK, mirando el panel SZZ, vio la ocupación de la zona de cambio de aguja 
 •
 cambio
 
-
 ## Página 23
 
-de la señalización en la señal principal (de entrada) L a la señal "Alto".
+de la señal de la señal principal (de entrada) L a la señal «Alto».
 ### 3.1.2 Otras personas
-En relación con la investigación de las causas y circunstancias de la aparición de la MU
-objeto de estudio, la DI recogió las siguientes explicaciones de otras personas:
+En relación con la investigación de las causas y circunstancias de la aparición de la mencionada MU, el DI recogió las siguientes explicaciones de otras personas:
 jefe de estación de la est. Frýdek-Místek
- – del Registro con el empleado, entre otros, se desprende:
+  – del Registro con el empleado se desprende, entre otros:
 •
-a través del EDD envió la hora prevista de partida del tren Os 3150 hacia la est.
+a través de la EDD envió la salida prevista del tren Os 3150 a la est. Baška,
 •
-Baška, que el jefe de estación de la est. Baška confirmó, es decir, concedió la
-autorización para la circulación del tren Os 3150;
-tras la preparación y el establecimiento del itinerario de tren y la expedición del tren,
+que el jefe de estación de la est. Baška confirmó, es decir, concedió el permiso para la circulación del tren Os 3150;
+tras realizar la preparación y establecer la vía de tren y la expedición del tren, el tren Os 3150
 •
-el tren Os 3150 partió de la est. Frýdek-Místek hacia la est. Baška;
-en el monitor JOP registró que la vía de tramo Frýdek-Místek – Baška permanecía
+partió de la est. Frýdek-Místek hacia la est. Baška;
+en el monitor JOP registró que la vía de trayecto Frýdek-Místek – Baška
 •
-ocupada de forma inusualmente prolongada;
-tras consultar con el jefe de estación de la est. Baška, fue informado de que se había
+estaba ocupada de forma inusualmente prolongada;
+tras preguntar al jefe de estación de la est. Baška, fue informado de que se había producido una MU.
 •
-producido una MU.
-tripulación del tren Os 3127
- – del Registro con el empleado, entre otros, se desprende:
+dotación del tren Os 3127
+  – del Registro con el empleado se desprende, entre otros:
 •
-desde la est. Frýdlant nad Ostravicí el tren Os 3127 llegó con un retraso de cca 10
-min.;
+el tren Os 3127 llegó con retraso de aprox. 10 min. desde la est. Frýdlant nad Ostravicí;
 •
-en la est. Baška el tren se cruzaba;
+en la est. Baška el tren cruzaba;
 •
-tras finalizar el desembarque y el embarque de pasajeros, advirtió a los pasajeros con
+tras finalizar el ascenso y descenso de pasajeros, avisó a los pasajeros con el
 •
-el silbato de señales sobre la partida del tren. A continuación, subió por las puertas
-delanteras del primer DV tras el HDV;
-el maquinista estaba asomado por la ventana lateral corredera del HDV y observaba la
+silbato de señalización de la salida del tren. A continuación, subió por las puertas delanteras del primer DV detrás del HDV;
+el maquinista estaba asomado por la ventana lateral corredera del HDV y observaba la situación
 •
-situación a lo largo del tren;
-como el maquinista estaba asomado por la ventana lateral corredera del HDV, dio la
+a lo largo del tren;
+como el maquinista estaba asomado por la ventana lateral corredera del HDV, dio
 •
-señal "Autorización para la partida" con el instrumento de señales, sin que el
-maquinista utilizara la señal "Llamada a la preparación";
-a continuación, el maquinista cerró las puertas de acceso de cierre central y puso el
+la señal «Permiso de salida» con el medio de señalización, sin que el maquinista utilizara
+la señal «Llamada a la disponibilidad»;
+a continuación, el maquinista cerró las puertas de entrada de cierre central y puso el tren en
 •
-tren en movimiento;
-más allá del espacio destinado al desembarque y embarque de pasajeros, el tren comenzó
+movimiento;
+detrás del espacio destinado al ascenso y descenso de pasajeros, el tren comenzó a frenar bruscamente;
 •
-a frenar bruscamente;
-tras la detención del tren, el maquinista le comunicó la aparición de la MU.
+tras detener el tren, el maquinista le comunicó la aparición de la MU.
 •
 ## 3.2
 ### Sistema de garantía de la seguridad
 ### 3.2.1 Organización marco y forma en que se emiten y ejecutan las instrucciones
-El gestor de la vía y el transportista cuentan con un sistema de garantía de la seguridad
-adoptado.
-En los sistemas de garantía de la seguridad adoptados por el gestor de la vía y el
-transportista relacionados con las circunstancias de la aparición de esta MU concreta no
-se detectaron deficiencias.
-### 3.2.2 Requisitos para el personal del gestor de la vía y del transportista y su
-aplicación
- La aptitud sanitaria de las personas que realizan la explotación de la vía y el transporte
-ferroviario se valora en el sentido de lo dispuesto en la disposición nº 101/1995 Sb., por
-la que se aprueba el Reglamento sobre la aptitud sanitaria y profesional de las personas
-para la explotación de la vía y el transporte ferroviario, en su versión vigente.
+El gestor de la vía y el transportista cuentan con un sistema de garantía de la seguridad establecido.
+En los sistemas de garantía de la seguridad establecidos por el gestor de la vía y el transportista
+relacionados con las circunstancias de la aparición de esta MU concreta, no se detectaron deficiencias.
+### 3.2.2 Requisitos para los empleados del gestor de la vía y del transportista y su
+cumplimiento
+ La aptitud sanitaria de las personas que realizan la explotación de la vía y el transporte ferroviario se
+evalúa en el sentido de lo dispuesto en el decreto nº 101/1995 Sb., por el que se aprueba el Reglamento de
+aptitud sanitaria y profesional de las personas para la explotación de la vía y el transporte ferroviario, en su
+redacción vigente.
 
 ## Página 24
+
 
 Los requisitos de competencia profesional de las personas que realizan la explotación de la vía, incluido el modo de adquisición y aplicación de la misma, los establece la norma interna de SŽDC, s. o., Zam1 (provisional) «Reglamento sobre la competencia profesional de los empleados», ref. 23 138/08-OKS, de fecha 30. 06. 2008, en vigor desde el 01. 07. 2008, en su versión vigente.
 Los requisitos de competencia profesional de las personas que realizan el transporte ferroviario, incluido el modo de adquisición y aplicación de la misma, los establece la norma interna de ČD, a. s., Ok2 «REGLAMENTO DE FORMACIÓN Y EXAMEN DE LOS FERROCARRILES CHECOS, a. s.», ref. 55 713/2009 – O10, de fecha 25. 03. 2009, en vigor desde el 01. 04. 2009, en su versión vigente.
@@ -829,8 +785,8 @@ En la investigación del MU se constató el incumplimiento de las siguientes nor
 •
 obligado a explotar el transporte ferroviario de acuerdo con las reglas de explotación del transporte ferroviario, la licencia vigente y el contrato celebrado con el explotador de la vía sobre la explotación del transporte ferroviario
 
-
 ## Página 25
+
 
 en la vía,»;
 § 35 apartado 1 letra g) de la Ley núm. 266/1994 Sb., donde se establece: «El transportista está
@@ -864,6 +820,7 @@ art. 90 de la norma interna de ČD V 2, donde se establece, entre otras cosas: �
 
 ## Página 26
 
+
 četa obligada a vigilar la vía o la plataforma delante del vehículo, en la vía electrificada también la catenaria, y a cumplir las disposiciones de las normas de modo que la circulación del tren sea segura. ...";
 art. 91 letra a) de la norma interna de ČD V 2, donde se indica: "El maquinista está especialmente
 •
@@ -890,6 +847,7 @@ dirige activamente la circulación del tren, p. ej. la parada segura del tren an
 La estación de Baška está ocupada por un jefe de estación, que organiza y dirige el tráfico ferroviario en el ámbito de la estación de Baška, la estación contigua de Pržno y los tramos entre estaciones adyacentes Frýdek-Místek – Baška y Baška – Pržno – Frýdlant nad Ostravicí. La expedición de trenes con transporte de pasajeros,
 
 ## Página 27
+
 
 que se detienen (regular o extraordinariamente) en el espacio de salida y entrada de pasajeros en la est. 
 Baška, se realiza conforme a los procedimientos tecnológicos del gestor de la 
@@ -951,6 +909,7 @@ el maquinista del jefe de tren DV confirme su recepción o comience a actuar con
 
 ## Página 28
 
+
 k pohotovosti“ ya no se da;
 según el art. 505 del reglamento SŽDC (ČD) D2 y el art. 1301 del reglamento ČD D2, el maquinista
 •
@@ -1009,8 +968,8 @@ podía despachar el tren Os 3127 con la señal que permite la circulación del t
 ### de Baška, en el momento de la ocurrencia de la UE, se emitía la señal "Alto", véase también el
 ### punto 2.1.2.
 
-
 ## Página 29
+
 
 Los componentes de la vía no guardaban relación causal ni acausal con la ocurrencia de la UE.
 No se detectaron deficiencias.
@@ -1070,41 +1029,41 @@ en caso de fallo del maquinista (error u omisión), una intervención activa en 
 
 ## Página 30
 
-HDV 754.039-6 estaba, en el momento de producirse el MU, equipado, de conformidad con el apartado 5 de la parte II del anexo n.º 3 de la disposición n.º 173/1995 Sb., con un dispositivo de registro con registro mecánico de datos, registrador de velocidad tipo METRA, n.º ev. A 09 204.
-De los datos registrados se desprende, entre otros:
+El HDV 754.039-6 estaba, en el momento de producirse el MU, de acuerdo con el apartado 5 de la parte II del anexo n.º 3 de la disposición n.º 173/1995 Sb., equipado con un dispositivo de registro con registro mecánico de datos, registrador de velocidad tipo METRA, n.º ev. A 09 204.
+De los datos registrados se deduce, entre otros:
 la conducción del tren se realizó desde el puesto de conducción n.º 1;
 •
-desde el último punto de parada, es decir, desde la est. Frýdek-Místek, el tren Os 3150 se puso en marcha a las
+desde el último punto de parada, es decir, desde la est. Frýdek-Místek, el tren Os 3150 
 •
-14:54:00 h. A continuación se produce una aceleración continua hasta la velocidad v = 60 km·h-1, en una distancia de 1100 m;
+partió a las 14:54:00 h. A continuación se produce una aceleración continua hasta la velocidad v = 60 km·h-1, en una distancia de 1100 m;
 seguidamente, una disminución gradual y continua de la velocidad hasta v = 40 km·h-1, en una distancia de 1100 m;
 •
 a las 14:57:48 h se registra el inicio de la disminución de la velocidad hasta v = 0 km·h-1, en una distancia de 50 m;
 •
 el tren Os 3150 se detuvo a las 14:57:54 h;
 •
-la parte móvil del VZ estaba activada y era operada regularmente por el maquinista.
+la parte móvil del VZ estaba encendida y era operada regularmente por el maquinista.
 •
 No se detectaron deficiencias.
 ## 3.5
-### Documentación sobre el sistema de explotación
-### 3.5.1 Medidas adoptadas por el personal de la empresa explotadora de la infraestructura y del transportista en materia de conducción, señalización y seguridad de la circulación
-En la est. Baška se realizó, de conformidad con el horario de circulación vigente, el cruce de los trenes Sv 3170 y Os 3127, tras el cual, en función de la evolución de la situación de circulación, debía seguir otro cruce de los trenes Os 3127 y Os 3150. En la SK n.º 3 se encontraba el tren Sv 3170 preparado para salir hacia la est. Pržno. Para el tren Os 3127, el agente de estación de la est. Baška estableció, mediante el funcionamiento normal del SZZ, la vía de tren desde la vía principal Pržno – Baška hasta la SK n.º 1. La entrada del tren se autorizó con la señal «Aviso» indicada por la señal principal (de entrada) S de la est. Baška. La señal «Aviso» fue precedida, para el maquinista del tren Os 3127, de la señal «Alto» indicada por la señal principal (de salida). El maquinista del tren Os 3127 registró la señal «Aviso» indicada por la señal principal (de entrada) S. El tren se detuvo en la est. Baška en la SK n.º 1, que se encuentra en el sentido directo, en el espacio destinado a la subida y bajada de pasajeros, a 195 m de la altura de la señal principal (de salida) S1. La señal principal (de salida) S1 de la est. Baška indicó la señal «Alto». Esta era visible desde el puesto de conducción del HDV 742.046-6 del tren Os 3127, de conformidad con el § 7, apartados 1 y 2, de la disposición n.º 173/1995 Sb. La visibilidad de la señal no se vio interrumpida por obstáculos móviles o fijos.
-Tras la entrada del tren Os 3127 en la est. Baška en la SK n.º 1, se encendió en la placa indicadora del SZZ una luz blanca que indicaba la libre circulación en el tramo Baška – Pržno. El agente de estación de la est. Baška, mediante la observación de la placa indicadora del SZZ, comprobó la libre circulación de la vía de tren, del tramo Baška – Pržno, y verificó el correcto funcionamiento de los ZZ de paso a nivel (para comprobar si se indicaba algún estado de avería). Mediante el funcionamiento normal del SZZ, estableció la vía de tren para el tren Sv 3170 desde la SK n.º 3 hasta la vía principal Baška – Pržno. La salida del tren Sv 3170 se autorizó con la señal «Velocidad 40 km·h-1 y libre» indicada por la señal principal (de salida) L3. Tras la salida del tren Sv 3170 de la SK n.º 3, la liberación de la SK n.º 3 y la comprobación de la libre circulación en la SK n.º 3 para el tren Os 3150, el agente de estación estableció, en el sentido de la autorización de vía, mediante el funcionamiento normal del SZZ, la vía de tren para el tren Os 3150 desde la vía principal Frýdek-Místek – Baška hasta la SK n.º 3. La entrada del tren Os 3150 se autorizó con la señal «Velocidad 40 km·h-1 y aviso» indicada por la señal principal (de entrada) L de la est. Baška. El maquinista del tren Os 3150 registró la autorización de entrada en la est. Baška y ajustó la tecnología de circulación de modo que, en el ámbito de los desvíos adyacentes a la señal principal (de entrada) L de la est. Baška, no superara la velocidad de 40 km·h-1.
+### Documentación relativa al sistema de explotación
+### 3.5.1 Medidas adoptadas por el personal de la empresa explotadora de la vía y del transportista en materia de conducción, señalización y seguridad del tráfico
+En la est. Baška se realizó, de acuerdo con el horario de circulación vigente, el cruce de los trenes Sv 3170 y Os 3127, tras el cual, en función de la evolución de la situación del tráfico, debía seguirse otro cruce de los trenes Os 3127 y Os 3150. En el SK n.º 3 se encontraba el tren Sv 3170 preparado para la salida hacia la est. Pržno. Para el tren Os 3127, el jefe de estación de la est. Baška estableció, mediante el funcionamiento normal del SZZ, la ruta de tren desde la vía de tramo Pržno – Baška hasta el SK n.º 1. La entrada del tren estaba autorizada por la señal «Aviso» mostrada por la señal principal (de entrada) S de la est. Baška. La señal «Aviso» fue precedida, para el maquinista del tren Os 3127, por la señal «Alto» mostrada por la señal principal (de salida). El maquinista del tren Os 3127 registró la señal «Aviso» mostrada por la señal principal (de entrada) S. El tren se detuvo en la est. Baška en el SK n.º 1, que se encuentra en el sentido directo, en el espacio destinado a la subida y bajada de pasajeros, a 195 m por delante del nivel de la señal principal (de salida) S1. La señal principal (de salida) S1 de la est. Baška mostraba la señal «Alto». Esta era visible desde el puesto de conducción del HDV 742.046-6 del tren Os 3127, de acuerdo con el § 7 apartados 1 y 2 de la disposición n.º 173/1995 Sb. La visibilidad de la señal no estaba interrumpida por obstáculos móviles o fijos.
+Tras la entrada del tren Os 3127 en la est. Baška en el SK n.º 1, se encendió en el panel indicador del SZZ una luz blanca que indicaba la libre circulación en el tramo Baška – Pržno. El jefe de estación de la est. Baška, mediante la observación del panel indicador del SZZ, comprobó la libre circulación de la ruta de tren, del tramo Baška – Pržno, y verificó el correcto funcionamiento de los ZZ de paso (para comprobar si se indicaba algún estado de avería). Mediante el funcionamiento normal del SZZ estableció la ruta de tren para el tren Sv 3170 desde el SK n.º 3 hasta la vía de tramo Baška – Pržno. La salida del tren Sv 3170 estaba autorizada por la señal «Velocidad 40 km·h-1 y libre» mostrada por la señal principal (de salida) L3. Tras la salida del tren Sv 3170 del SK n.º 3, la liberación del SK n.º 3 y la comprobación de la libre circulación de la ruta de tren en el SK n.º 3 para el tren Os 3150, el jefe de estación estableció, en el sentido de la autorización de tramo, mediante el funcionamiento normal del SZZ, la ruta de tren para el tren Os 3150 desde la vía de tramo Frýdek-Místek – Baška hasta el SK n.º 3. La entrada del tren Os 3150 estaba autorizada por la señal «Velocidad 40 km·h-1 y aviso» mostrada por la señal principal (de entrada) L de la est. Baška. El maquinista del tren Os 3150 registró la autorización de entrada en la est. Baška y ajustó la tecnología de conducción de modo que, en el ámbito de los desvíos adyacentes a la señal principal (de entrada) L de la est. Baška, no superara la velocidad de 40 km·h-1.
 
 ## Página 31
 
-Durante la preparación y la constitución de la vía de tren para el tren Os 3150, la señal principal (de salida) S1 de la estación de Baška seguía indicando la señal «Alto». Esta prohibía la salida del tren Os 3127 desde la vía de clasificación n.º 1 y no permitía al maquinista poner el tren en movimiento. El maquinista del tren Os 3127 observaba la situación a lo largo del tren, inclinándose por la ventanilla lateral derecha corredera en el sentido de marcha del tren. Tras finalizar el ascenso y descenso de pasajeros, la tripulación del tren Os 3127 (el jefe de tren) inició el procedimiento previo a la salida del tren. Con el silbato de señales avisó a los pasajeros de la salida del tren. A continuación, subió por las puertas delanteras del primer DV tras el HDV y dio al maquinista la señal «Permiso de salida». El procedimiento de la tripulación (jefe de tren) del Os 3127 antes de poner el tren en movimiento, es decir, también la emisión de la señal «Permiso de salida», se realizó de conformidad con los procedimientos tecnológicos uniformes del operador, aunque la señal principal (de salida) S1 de la estación de Baška indicaba la señal «Alto», que era visible desde el espacio destinado al ascenso y descenso de pasajeros, y el inicio del procedimiento previo a la salida del tren no lo inició el maquinista con la emisión de la señal «Aviso de disponibilidad».
-El maquinista del tren Os 3127, tras recibir la instrucción «Permiso de salida», cerró las puertas de acceso TDV de control centralizado y puso el tren en movimiento indebidamente, a pesar de que la señal principal (de salida) S1 de la estación de Baška indicaba la señal «Alto» y no había recibido otra autorización para ponerse en movimiento establecida por el gestor de la vía.
-### El hallazgo indicado constituye, en relación con lo dispuesto en el art. 505 letra d) de la norma interna SŽDC (ČD) D2, el art. 91 letra a) de la norma interna ČD V2 y el § 35 apartado 1 letras f) y h) del decreto n.º 173/1995 Sb., un incumplimiento del § 35 apartado 1 letras a) y g) de la ley n.º 266/1994 Sb.
-El ruido del tren Os 3127 puesto indebidamente en movimiento fue registrado por el jefe de estación de la estación de Baška. El jefe de estación salió del DK para comprobar la situación producida y adoptar medidas para detener el tren. Como ya no era posible detener el tren con la emisión de la señal «Alto, deténgase por todos los medios», decidió regresar al DK y detener de emergencia los trenes Os 3127 y Os 3150 mediante la función TRS «Parada general». Antes de regresar al DK, observó que el tren Os 3150 se había detenido suficientemente lejos de la señal de entrada L y que el tren Os 3127 frenaba bruscamente. Por ello, no utilizó la función TRS «Parada general».
-El maquinista del tren Os 3127, tras poner el tren en movimiento, priorizó la observación de la situación a lo largo de la composición del tren, cuando con la mirada desde la ventanilla lateral derecha corredera del HDV registró también la salida del tren Sv 3170 desde la vía de clasificación n.º 3 en dirección a la estación de Pržno y la señal de la señal principal (de salida) L3 de la estación de Baška «Velocidad 40 km·h-1 y libre», antes de observar la vía y las señales de la señal principal (de salida) S1 de la estación de Baška. La señal «Alto» indicada por la señal principal (de salida) S1 la registró solo en el momento en que ya no era posible detener el tren con seguridad antes del punto señalizado. A pesar de la aplicación inmediata del frenado de acción rápida, el tren no se detuvo antes de la señal principal (de salida) S1. El tren Os 3127 se detuvo con el morro a 75 m por detrás del nivel de la señal principal (de salida) S1 de la estación de Baška, en el desvío n.º 1.
-### El hallazgo indicado constituye, en relación con lo dispuesto en el art. 120 de la norma interna SŽDC (ČD) D1, los arts. 23 letra c), 90 y 91 letra a) de la norma interna ČD V2 y el § 35 apartado 1 letras f) y m) del decreto n.º 173/1995 Sb., un incumplimiento del § 35 apartado 1 letras a) y g) de la ley n.º 266/1994 Sb.
-La circulación indebida del tren Os 3127 más allá del nivel de la señal principal (de salida) S1 de la estación de Baška afectó al SZZ de la estación de Baška. El tren Os 3127 ocupó el KÚ del desvío n.º 1, que formaba parte de la vía de tren de entrada constituida para el tren Os 3150 desde la vía de vía Frýdek-Místek – Baška a la vía de clasificación n.º 3. Como consecuencia de la afectación del SZZ de la estación de Baška, por su correcto funcionamiento se cambió la señal «Velocidad 40 km·h-1 y aviso» indicada por la señal principal (de entrada) L de la estación de Baška por la señal «Alto».
-Durante la marcha del tren Os 3150 hacia la señal principal (de entrada) L de la estación de Baška, cuando el maquinista ajustaba la velocidad de marcha del tren mediante el freno automático continuo de aire,
-
+En el momento de la preparación y establecimiento de la vía de tren para el tren Os 3150, la señal principal (de salida) S1 de la estación de Baška seguía indicando la señal «Alto». Esta prohibía la salida del tren Os 3127 desde la vía de clasificación n.º 1 y no permitía al maquinista poner el tren en movimiento. El maquinista del tren Os 3127 observaba la situación a lo largo del tren, inclinándose por la ventana lateral derecha corredera en el sentido de marcha del tren. Una vez finalizado el embarque y desembarque de pasajeros, el personal del tren Os 3127 (el jefe de tren) inició el procedimiento previo a la salida del tren. Con el silbato de señales avisó a los pasajeros de la salida del tren. A continuación, subió por las puertas delanteras del primer DV tras el HDV y dio al maquinista la señal «Consentimiento para la salida». El procedimiento de acompañamiento del tren (jefe de tren) Os 3127 antes de poner el tren en movimiento, es decir, también la emisión de la señal «Consentimiento para la salida», se realizó de conformidad con los procedimientos tecnológicos uniformes del operador, aunque la señal principal (de salida) S1 de la estación de Baška indicaba la señal «Alto», que era visible desde el espacio destinado al embarque y desembarque de pasajeros, y el inicio del procedimiento previo a la salida del tren no lo inició el maquinista emitiendo la señal «Llamada a la disponibilidad».
+El maquinista del tren Os 3127, tras recibir la instrucción «Consentimiento para la salida», cerró las puertas de acceso de acceso TDV de control centralizado y puso el tren en movimiento de forma no autorizada, a pesar de que la señal principal (de salida) S1 de la estación de Baška indicaba la señal «Alto» y no había recibido otra autorización para ponerse en movimiento establecida por el gestor de la vía.
+### El hallazgo indicado constituye, en relación con lo dispuesto en el art. 505 letra d) de la norma interna de SŽDC (ČD) D2, el art. 91 letra a) de la norma interna de ČD V2 y el § 35 apartado 1 letra f) y h) del decreto n.º 173/1995 Sb., un incumplimiento del § 35 apartado 1 letra a) y g) de la ley n.º 266/1994 Sb.
+El ruido del tren Os 3127 puesto en movimiento de forma no autorizada fue registrado por el jefe de estación de la estación de Baška. El jefe de estación salió del DK para comprobar la situación producida y adoptar medidas para detener el tren. Como el tren ya no era posible detenerlo emitiendo la señal «Alto, deténgase por todos los medios», decidió volver al DK y detener de emergencia los trenes Os 3127 y Os 3150 mediante la función TRS «Parada general». Antes de volver al DK, registró que el tren Os 3150 se había detenido suficientemente lejos de la señal de entrada L y que el tren Os 3127 frenaba bruscamente. Por ello, no utilizó la función TRS «Parada general».
+El maquinista del tren Os 3127, tras poner el tren en movimiento, priorizó la observación de la situación a lo largo de la composición del tren, cuando con la mirada desde la ventana lateral derecha corredera del HDV registró también la salida del tren Sv 3170 desde la vía de clasificación n.º 3 en dirección a la estación de Pržno y la señal de la señal principal (de salida) L3 de la estación de Baška «Velocidad 40 km·h-1 y vía libre», antes de observar la vía y la señal de la señal principal (de salida) S1 de la estación de Baška. La señal «Alto» indicada por la señal principal (de salida) S1 la registró solo en el momento en que ya no era posible detener el tren de forma segura antes del punto señalizado. A pesar de la aplicación inmediata del frenado de acción rápida, el tren no se detuvo antes de la señal principal (de salida) S1. El tren Os 3127 se detuvo con el frente a 75 m por detrás del nivel de la señal principal (de salida) S1 de la estación de Baška, en el desvío n.º 1.
+### El hallazgo indicado constituye, en relación con lo dispuesto en el art. 120 de la norma interna de SŽDC (ČD) D1, los arts. 23 letra c), 90 y 91 letra a) de la norma interna de ČD V2 y el § 35 apartado 1 letra f) y m) del decreto n.º 173/1995 Sb., un incumplimiento del § 35 apartado 1 letra a) y g) de la ley n.º 266/1994 Sb.
+La circulación no autorizada del tren Os 3127 más allá del nivel de la señal principal (de salida) S1 de la estación de Baška afectó al SZZ de la estación de Baška. El tren Os 3127 ocupó el KÚ del desvío n.º 1, que formaba parte de la vía de tren de entrada establecida para el tren Os 3150 desde la vía de tráfico Frýdek-Místek – Baška hacia la vía de clasificación n.º 3. Como consecuencia de la afectación al SZZ de la estación de Baška, por su correcto funcionamiento se cambió la señal «Velocidad 40 km·h-1 y aviso» indicada por la señal principal (de entrada) L de la estación de Baška por la señal «Alto».
+En el momento en que el tren Os 3150 circulaba hacia la señal principal (de entrada) L de la estación de Baška, cuando el maquinista ajustaba la velocidad de marcha mediante el freno automático de vacío continuo
 
 ## Página 32
+
 
 para que en el ámbito de los desvíos adyacentes a la señal principal (de entrada) L no excediera la velocidad de 40 km·h-1, observó la circulación del tren en sentido contrario Os 3127. El maquinista del tren Os 3150 aumentó por ello el efecto de frenado del freno automático continuo de aire mediante la aplicación del frenado de acción rápida. Antes de detener el tren Os 3150, el maquinista observó el cambio de la señal «Velocidad 40 km·h-1 y aviso» indicada por la señal principal (de entrada) L de la estación de Baška por la señal «Alto». Con el tren Os 3150 se detuvo a unos 100 m antes del nivel de la señal principal (de entrada) L de la estación de Baška.
 ### 3.5.2 Intercambio de comunicaciones verbales en relación con el suceso excepcional, incluidas las pruebas del dispositivo de registro
@@ -1123,6 +1082,7 @@ El empleador garantizó la pausa en el trabajo durante el turno y las condicione
 Todos los empleados implicados estaban, en el momento de la producción del SE, en condiciones de salud aptas para el desempeño de la función que desempeñaban. La investigación no determinó que la producción del SE se viera influida por la situación personal o el estado psicológico de las personas implicadas en el SE. En el maquinista del tren Os 3127
 
 ## Página 33
+
 
 no era posible valorar la situación personal ni el estado psicológico, que pudiera tener relación con la aparición de la ME, porque ejerció su derecho a no declarar.
 No se detectaron deficiencias.
@@ -1145,32 +1105,33 @@ móvil del ETCS, de modo que, una vez puesto el sistema en servicio en la línea
 hasta la puesta en servicio del ETCS en las est., donde se permite la ◦
 expedición de trenes con transporte de pasajeros que permanecen en el espacio para la bajada y subida de pasajeros, mediante la colocación de la señal principal en la señal que permite la circulación, incluida la señal de llamada, realizar la modificación de los procedimientos tecnológicos uniformes de expedición y salida del tren. Con la modificación de los procedimientos, evitar los errores y fallos de los maquinistas una vez puesto el tren en movimiento, es decir, que el maquinista se ajuste a las instrucciones del operador de la vía impartidas al organizar el tráfico ferroviario y que, en la situación en que la circulación del tren no esté permitida por la señal de la señal principal correspondiente, detenga el tren de forma segura antes de dicha señal.
 
-
 ## Página 34
 
-Aunque la vía ferroviaria, categoría estatal Ostrava hl. n. – Valašské Meziříčí (línea 302A), incluida la est. de Baška y los tramos intermedios adyacentes, no esté equipada con la parte estacionaria del sistema del freno automático europeo ETCS ni vaya a estarlo en un futuro previsible, el transportista ČD, a. s., sobre la base de la Recomendación de seguridad emitida, aparte del refuerzo de la actividad preventiva (de control), la suspensión de la habilitación profesional de los maquinistas responsables y la información al resto de maquinistas sobre el desarrollo, las causas y las consecuencias de las ME indicadas, de acuerdo con lo dispuesto en el § 13 apart. 1 del decreto n.º 376/2006 Sb., no adoptó las medidas propias correspondientes para prevenir las ME, véase «Respuesta – Solicitud en relación con el incidente, su n.º de ref. 6-3776/2011/DI-41», n.º de ref. 115/2012-O12, de fecha 23. 01. 2012, y Evaluación de las causas y circunstancias de la aparición de ME similares (p. ej. n.º de ref. 71258/2009-O18 de fecha 12. 01. 2010, n.º de ref. 70534/2010-O18 de fecha 03. 06. 2010, n.º de ref. 70401/2011-O18 de fecha 14. 06. 2011). Las ME similares continuaron produciéndose en un número similar. El transportista, en las estaciones donde se permite la expedición de un tren con transporte de pasajeros mediante la colocación de la señal principal en la señal que permite la circulación, siguió confiando en la univocidad, comprensibilidad y facilidad de ejecución de los procedimientos existentes antes de poner el tren en movimiento, incluida la expedición del tren, y en el cumplimiento estricto de dichos procedimientos por el factor humano, el maquinista. No se creó ninguna salvaguardia de seguridad, ninguna modificación del procedimiento de acompañamiento del tren antes de ponerlo en movimiento, que eliminara o redujera la posibilidad de fallo, error, del maquinista de un tren con transporte de pasajeros, acompañado también por el personal de tren. Los procedimientos tecnológicos uniformes del transportista permiten que el procedimiento de acompañamiento del tren antes de ponerlo en movimiento, es decir, también la emisión de las señales «Listos para la salida» y «Permiso de salida», se aplique con independencia de si:
-la señal principal (de salida, de viaje, insertada), delante de la cual permanece •
-detenido el tren, prohíbe o permite la circulación del tren;
-ha llegado la hora de salida según el horario;
-•
-el procedimiento lo inició el maquinista de la DV principal, véase el punto 3.4.1.
-•
-Los procedimientos tecnológicos tampoco fueron modificados por el operador del operador de la vía, respectivamente por el operador de la vía, es decir, que la seguridad en la salida (cruce) del tren en la est. en las líneas de vía única sigue dependiendo de facto de un solo factor humano: el maquinista.
+Aunque la vía ferroviaria, categoría nacional Ostrava hl. n. – Valašské Meziříčí (tratamiento 302A), incluida la estación de Baška y los tramos intermedios adyacentes, no está equipada como parte estacionaria del sistema europeo de protección de trenes ETCS ni lo estará en un futuro previsible, el transportista ČD, a. s., sobre la base de la Recomendación de Seguridad emitida, salvo el refuerzo de la actividad preventiva (de control), la suspensión de la competencia de los maquinistas responsables y la información al resto de maquinistas sobre el desarrollo, las causas y las consecuencias de los MU indicados, de conformidad con lo dispuesto en el § 13 apartado 1 del decreto nº 376/2006 Sb., no adoptó las medidas propias correspondientes para prevenir los MU, véase "Respuesta – Solicitud de información sobre el incidente extraordinario, su ref. 6-3776/2011/DI-41", ref. nº 115/2012-O12, de fecha 23. 01. 2012, y Evaluación de las causas y circunstancias de la aparición de MU similares (p. ej. ref. nº 71258/2009-O18 de fecha 12. 01. 2010, ref. nº 70534/2010-O18 de fecha 03. 06. 2010, ref. nº 70401/2011-O18 de fecha 14. 06. 2011). Los MU similares continuaron produciéndose en un número similar. El transportista, en las estaciones donde se permite la expedición de un tren con transporte de pasajeros mediante la colocación de la señal principal en una señal que autoriza la circulación, siguió confiando en la univocidad, la comprensibilidad y la fácil ejecución de los procedimientos existentes antes de poner el tren en movimiento, incluida la expedición del tren, y en el cumplimiento estricto de dichos procedimientos por el factor humano, el maquinista. No se creó ninguna salvaguardia de seguridad, ninguna modificación del procedimiento de acompañamiento del tren antes de ponerlo en movimiento, que eliminara o redujera la posibilidad de fallo, error, del maquinista del tren con transporte de pasajeros, acompañado también por la tripulación del tren. Los procedimientos tecnológicos uniformes del transportista permiten que el procedimiento de acompañamiento del tren antes de ponerlo en movimiento, es decir, también la emisión de las señales "Preparado para la salida" y "Permiso para la salida", se aplique independientemente de si:
+
+- la señal principal (de salida, de vía, insertada) ante la que se detiene el tren prohíbe
+o autoriza la circulación del tren;
+- ha llegado la hora de salida según el horario;
+- el inicio del procedimiento fue iniciado por el maquinista del DV principal, véase el punto 3.4.1.
+
+Los procedimientos tecnológicos no fueron modificados ni por el operador de la infraestructura ferroviaria, ni, respectivamente, por el gestor de la infraestructura, es decir, la seguridad en la salida (cruce) del tren en la estación en las líneas de vía única sigue dependiendo de facto de un solo factor humano: el maquinista.
+
 ## 4 ANÁLISIS Y CONCLUSIONS
 ## 4.1
-### Descripción final del incidente
-### 4.1.1 Descripción final del incidente sobre la base de los hechos constatados en el punto 3
-El 05. 12. 2011 se realizó en la est. de Baška, de acuerdo con el horario vigente, el cruce de los trenes Sv 3170 y Os 3127, tras el cual, atendiendo a la evolución de la situación del tráfico, debía seguir otro cruce de los trenes Os 3127 y Os 3150. En la SK n.º 3 se encontraba el tren Sv 3170 preparado para salir hacia la est. de Pržno. Para el tren Os 3127, el jefe de estación de Baška estableció mediante la operación normal del SZZ la ruta ferroviaria desde la vía de línea Pržno – Baška hasta la SK n.º 1. La entrada del tren estaba permitida por la señal «Aviso» indicada por la señal principal (de entrada) S de la est. de Baška. La señal «Aviso» fue indicada al maquinista del tren Os 3127
+### Descripción final del incidente extraordinario
+### 4.1.1 Descripción final del incidente extraordinario sobre la base de los hechos constatados en el punto 3
+
+El 05. 12. 2011 se realizó en la estación de Baška, de acuerdo con el horario vigente, el cruce de los trenes Sv 3170 y Os 3127, tras el cual, atendiendo a la evolución de la situación del tráfico, debía seguir otro cruce de los trenes Os 3127 y Os 3150. En la SK nº 3 se encontraba el tren Sv 3170 preparado para la salida hacia la estación de Pržno. Para el tren Os 3127, el jefe de estación de Baška colocó mediante la operación normal del SZZ la vía de tren desde la vía de tráfico Pržno – Baška a la SK nº 1. La entrada del tren fue autorizada por la señal "Aviso" emitida por la señal principal (de entrada) S de la estación de Baška. La señal "Aviso" fue mostrada al maquinista del tren Os 3127
 
 ## Página 35
 
-se había anunciado la señal "Alto" en la señal principal (de salida) S1. Durante el trayecto del tren Os 3127 desde la estación de Pržno a la estación de Baška, el jefe de estación de Baška tenía la intención de informar al maquinista del tren Os 3127, por medio de la estación base de radio de vía TRS, de la realización de un cruce con el tren Os 3150 en la estación de Baška. Sin embargo, no se llegó a establecer la comunicación por medio de la TRS con el maquinista del tren Os 3127. El maquinista no registró el intento del jefe de estación de Baška de establecer comunicación en la estación de radio de la composición locomotora. No se pudo determinar la causa de que no se estableciera la comunicación entre el jefe de estación de Baška y el maquinista del tren Os 3127 (no se detectó avería técnica, el maquinista del tren Os 3127 ejerció su derecho a no declarar y no aportó una explicación más detallada sobre la causa de la no comunicación). El maquinista del tren Os 3127 registró la señal "Aviso" anunciada en la señal principal (de entrada) S de la estación de Baška. Con el tren se detuvo en la vía de clasificación n.º 1, que está en el sentido directo, en el espacio destinado a la bajada y subida de pasajeros, a 195 m de la altura de la señal principal (de salida) S1 de la estación de Baška. La señal principal (de salida) S1 de la estación de Baška mostraba la señal "Alto". Esta era visible desde la cabina de conducción en el HDV 742.046-6 del tren Os 3127. La visibilidad de la señal no estaba obstruida por obstáculos móviles o fijos.
-Tras la entrada del tren Os 3127 en la estación de Baška en la vía de clasificación n.º 1, el jefe de estación de Baška, mediante el servicio normal del SZZ, estableció la ruta para el tren Sv 3170 desde la vía de clasificación n.º 3 hacia la vía principal Baška – Pržno. La salida del tren Sv 3170 estaba permitida por la señal "Velocidad 40 km·h-1 y libre" anunciada en la señal principal (de salida) L3. Tras la salida del tren Sv 3170 de la vía de clasificación n.º 3, la liberación de la vía de clasificación n.º 3 y la comprobación de la libre ruta en la vía de clasificación n.º 3 para el tren Os 3150, el jefe de estación estableció, en el sentido de la autorización de vía, mediante el servicio normal del SZZ, la ruta para el tren Os 3150 desde la vía principal Frýdek-Místek – Baška hacia la vía de clasificación n.º 3. La entrada del tren Os 3150 estaba permitida por la señal "Velocidad 40 km·h-1 y aviso" anunciada en la señal principal (de entrada) L de la estación de Baška. El maquinista del tren Os 3150 registró la autorización de entrada en la estación de Baška.
-Durante la preparación y establecimiento de la ruta para el tren Os 3150, la señal principal (de salida) S1 de la estación de Baška seguía mostrando la señal "Alto". Esta prohibía la salida del tren Os 3127 de la vía de clasificación n.º 1 y no permitía al maquinista poner el tren en movimiento. El maquinista del tren Os 3127 observaba la situación a lo largo del tren, inclinándose por la ventanilla lateral derecha corredera en el sentido de la marcha del tren.
-Tras finalizar la bajada y subida de pasajeros, la tripulación del tren Os 3127 (el jefe de tren) inició el procedimiento previo a la salida del tren. Con el silbato de señal avisó a los pasajeros de la salida del tren. A continuación, subió por las puertas delanteras del primer DV tras el HDV y dio al maquinista la señal "Permiso de salida". El procedimiento de la escolta del tren (jefe de tren) Os 3127 antes de poner el tren en movimiento, es decir, también la entrega de la señal "Permiso de salida", se llevó a cabo de acuerdo con los procedimientos tecnológicos uniformes del operador, aunque la señal principal (de salida) S1 de la estación de Baška mostraba la señal "Alto", que era visible desde el espacio destinado a la bajada y subida de pasajeros, y el inicio del procedimiento previo a la salida del tren no lo inició el maquinista con la señal "Permiso de salida" (a la señal "Permiso de salida" no precedió la entrega de la señal "Llamada a la disponibilidad" dada por el maquinista). El maquinista del tren Os 3127, tras recibir la instrucción "Permiso de salida", cerró las puertas de acceso TDV de control centralizado y a las 14:57:42 h puso el tren en movimiento indebidamente, a pesar de que la señal principal (de salida) S1 de la estación de Baška mostraba la señal "Alto" y no recibió otra autorización para ponerse en movimiento establecida por el gestor de la infraestructura.
-El jefe de estación de Baška registró el ruido del tren Os 3127 puesto en movimiento indebidamente. El jefe de estación salió de la sala de mando (DK) para comprobar la situación producida y tomar medidas para detener el tren. Como ya no era posible detener el tren dando la señal "Alto, deténgase por todos los medios", decidió regresar a la sala de mando (DK) y detener de emergencia los trenes Os 3127 y Os 3150 por medio de la función de la TRS "Parada general". Durante el regreso a la sala de mando (DK) registró que el tren Os 3150 se había detenido suficientemente lejos de la señal de entrada L y que el tren Os 3127 frenaba bruscamente.
+se había anunciado la señal "Alto" anunciada por la señal principal (de salida) S1. Durante la circulación del tren Os 3127 desde la est. Pržno hasta la est. Baška, el jefe de estación de la est. Baška tenía la intención de informar al maquinista del tren Os 3127, a través de la Estación Base de Radio de Vía TRS, del cruce con el tren Os 3150 en la est. Baška. Sin embargo, no se llegó a establecer la comunicación a través de la TRS con el maquinista del tren Os 3127. El maquinista no registró el intento del jefe de estación de la est. Baška de establecer comunicación por la radio de la unidad de locomotora. No se pudo determinar la causa de que no se estableciera la comunicación entre el jefe de estación de la est. Baška y el maquinista del tren Os 3127 (no se detectó avería técnica, el maquinista del tren Os 3127 ejerció su derecho a no declarar y no aportó una explicación precisa sobre la causa de la no comunicación). El maquinista del tren Os 3127 registró la señal "Aviso" anunciada por la señal principal (de entrada) S de la est. Baška. Con el tren se detuvo en la SK n.º 1, que está en el sentido directo, en el espacio destinado a la subida y bajada de pasajeros, a 195 m por delante del nivel de la señal principal (de salida) S1 de la est. Baška. La señal principal (de salida) S1 de la est. Baška anunciaba la señal "Alto". Esta era visible desde el puesto de conducción de la HDV 742.046-6 del tren Os 3127. La visibilidad de la señal no estaba interrumpida por obstáculos móviles o fijos.
+Tras la entrada del tren Os 3127 en la est. Baška en la SK n.º 1, el jefe de estación de la est. Baška, mediante el servicio normal de SZZ, estableció la ruta para el tren Sv 3170 desde la SK n.º 3 hacia la vía principal Baška – Pržno. La salida del tren Sv 3170 estaba autorizada por la señal "Velocidad 40 km·h-1 y libre" anunciada por la señal principal (de salida) L3. Tras la salida del tren Sv 3170 de la SK n.º 3, la liberación de la SK n.º 3 y la comprobación de la libre ruta en la SK n.º 3 para el tren Os 3150, el jefe de estación estableció, en el sentido de la autorización de vía, mediante el servicio normal de SZZ, la ruta para el tren Os 3150 desde la vía principal Frýdek-Místek – Baška hacia la SK n.º 3. La entrada del tren Os 3150 estaba autorizada por la señal "Velocidad 40 km·h-1 y aviso" anunciada por la señal principal (de entrada) L de la est. Baška. El maquinista del tren Os 3150 registró la autorización de entrada en la est. Baška.
+Durante la preparación y el establecimiento de la ruta para el tren Os 3150, la señal principal (de salida) S1 de la est. Baška seguía anunciando la señal "Alto". Esta prohibía la salida del tren Os 3127 de la SK n.º 1 y no permitía al maquinista poner el tren en marcha. El maquinista del tren Os 3127 observaba la situación a lo largo del tren, inclinándose por la ventana lateral derecha corredera en el sentido de circulación del tren. Tras finalizar la subida y bajada de pasajeros, la tripulación del tren Os 3127 (el jefe de tren) inició el procedimiento previo a la salida del tren. Con el silbato de señal avisó a los pasajeros de la salida del tren. A continuación, subió por las puertas delanteras del primer DV tras la HDV y dio al maquinista la señal "Autorización de salida". El procedimiento de la tripulación del tren (jefe de tren) Os 3127 antes de poner el tren en marcha, es decir, también la entrega de la señal "Autorización de salida", se realizó de conformidad con los procedimientos tecnológicos uniformes del operador, aunque la señal principal (de salida) S1 de la est. Baška anunciaba la señal "Alto", que era visible desde el espacio destinado a la subida y bajada de pasajeros, y el inicio del procedimiento previo a la salida del tren no lo inició el maquinista con la señal "Autorización de salida" (la señal "Autorización de salida" no fue precedida de la señal "Llamada a la disponibilidad" dada por el maquinista). El maquinista del tren Os 3127, tras recibir la instrucción "Autorización de salida", cerró las puertas de acceso de mando central TDV y a las 14:57:42 h puso el tren en marcha indebidamente, a pesar de que la señal principal (de salida) S1 de la est. Baška anunciaba la señal "Alto" y no había recibido otra autorización para ponerse en marcha establecida por el gestor de la vía.
+El ruido del tren Os 3127 puesto indebidamente en marcha fue registrado por el jefe de estación de la est. Baška. El jefe de estación salió de la DK para comprobar la situación producida y tomar medidas para detener el tren. Como ya no era posible detener el tren dando la señal "Alto, deténgase por todos los medios", decidió volver a la DK y detener de emergencia los trenes Os 3127 y Os 3150 mediante la función de TRS "Parada general". Durante el regreso a la DK, registró que el tren Os 3150 se había detenido suficientemente lejos de la señal de entrada L y que el tren Os 3127 frenaba bruscamente.
 
 ## Página 36
+
 
 Por ello no utilizó la función TRS «Parada general». 
 El maquinista del tren Os 3127, tras poner el tren en movimiento, priorizó la observación de la situación a lo largo de la composición del tren, de modo que, mirando por la ventanilla lateral derecha corredera del HDV, registró también la salida del tren Sv 3170 desde la SK n.º 3 en dirección a la est. Pržno y la indicación del semáforo principal (de salida) L3 de la est. Baška «Velocidad 40 km·h-1 y libre», antes de observar la vía delante del HDV y la indicación del semáforo principal (de salida) S1 de la est. Baška. La indicación «Alto», indicada por el semáforo principal (de salida) S1, la registró solo en el momento en que, a una velocidad de 45 km·h-1, ya no era posible detener el tren con seguridad antes del semáforo principal (de salida) S1 de la est. Baška. A pesar de la aplicación inmediata del frenado de acción rápida, el tren no se detuvo antes del semáforo principal (de salida) S1. El tren Os 3127 se detuvo con el morro a 75 m por detrás del nivel del semáforo principal (de salida) S1 de la est. Baška, en el desvío n.º 1.  
@@ -1181,10 +1142,10 @@ Como consecuencia de la MU no se produjeron daños personales ni daños material
 ### Análisis
 ### 4.2.1 Evaluación de los hechos constatados de acuerdo con el punto 3 y exposición de las conclusiones sobre la causa del suceso excepcional y la actuación de los servicios de rescate
 La salida del tren Os 3127 de la est. Baška estaba prohibida, por la actuación del SZZ de la est. Baška gestionado por el jefe de estación de la est. Baška, por la indicación «Alto», indicada con luz roja, del semáforo principal (de salida) S1. Sobre esta indicación se había advertido al maquinista del tren Os 3127 mediante la indicación «Aviso», indicada con luz amarilla, del semáforo principal (de entrada) S de la est. Baška. 
-El SZZ de la est. Baška, de conformidad con las condiciones de explotación establecidas y la normativa legal vigente, garantizaba con su función la explotación segura de la vía y del transporte ferroviario, y asimismo facilitaba la gestión del transporte ferroviario y eliminaba la influencia del error (equivocación o fallo) del factor humano gestor, el jefe de estación de la est. Baška. El SZZ de la est. Baška prohibía la circulación del tren Os 3127 más allá del semáforo principal (de salida) S1, pero de conformidad con la normativa legal vigente y las condiciones de explotación para las que está destinado, no impedía por ningún medio técnico de seguridad la circulación no autorizada del tren Os 3127 más allá del semáforo principal (de salida) S1 
-
+El SZZ de la est. Baška, de conformidad con las condiciones de explotación establecidas y la normativa legal vigente, garantizaba con su función la explotación segura de la vía y del transporte ferroviario, y asimismo facilitaba la gestión del transporte ferroviario y eliminaba la influencia del error (equivocación o fallo) del factor humano gestor, el jefe de estación de la est. Baška. El SZZ de la est. Baška prohibía la circulación del tren Os 3127 más allá del semáforo principal (de salida) S1, pero de conformidad con la normativa legal vigente y las condiciones de explotación para las que está destinado, no impedía por ningún medio técnico de seguridad la circulación no autorizada del tren Os 3127 más allá del semáforo principal (de salida) S1
 
 ## Página 37
+
 
 ni advertía al jefe de estación de la est. Baška de la situación producida (con excepción de la señalización óptica de ocupación del KÚ del desvío n.º 1, causada por la circulación del tren en cuestión). 
 El transportista, en relación con lo dispuesto en el art. 505 apartado d) de la norma interna de SŽDC (ČD) D2, el art. 91 apartado a) de la norma interna de ČD V2 y el art. 35 apartado 1 apartados f) y h) del decreto n.º 173/1995 Sb., en el sentido del art. 35 apartado 1 apartados a) y g) de la ley n.º 266/1994 Sb., no garantizó la explotación del transporte ferroviario de acuerdo con las reglas de explotación del transporte ferroviario y la licencia vigente, y no se atuvo durante la explotación del transporte ferroviario a las instrucciones del gestor de la vía impartidas al organizar el transporte ferroviario, al permitir que el maquinista del tren Os 3127, tras recibir la instrucción «Autorización para la salida», a la que de conformidad con los procedimientos tecnológicos unificados del transportista no precedía la indicación de «Llamada a la disponibilidad» dada por el maquinista, pusiera el tren en movimiento de forma no autorizada, a pesar de que el semáforo principal (de salida) S1 de la est. Baška indicaba la indicación «Alto», que era visible desde la posición del maquinista en el HDV 742.046-6, y no había recibido ninguna otra autorización para poner el tren en movimiento, establecida por el gestor de la vía.
@@ -1212,6 +1173,7 @@ Aunque la vía ferroviaria, categoría nacional Ostrava hl. n. – Valašské Me
 
 ## Página 38
 
+
 MU del 16. 02. 2009 en la estación de Paskov, aparte del refuerzo de la actividad preventiva (de control), la suspensión de la competencia profesional de los conductores responsables y la información al resto de conductores sobre el desarrollo, las causas y las consecuencias de las MU indicadas, de conformidad con lo dispuesto en el apartado 1 del artículo 13 del decreto n.º 376/2006 Sb., no adoptó las medidas propias correspondientes para prevenir las MU. Se produjeron MU similares en cantidades similares también a continuación, véase la estadística indicada. En las estaciones en las que se permite la expedición de un tren con transporte de pasajeros mediante la colocación de la señal principal en la señal que permite la circulación, el operador siguió confiando en la univocidad, la claridad y la fácil ejecutabilidad de los procedimientos existentes antes de poner en marcha el tren, incluida la expedición del tren, y en el cumplimiento riguroso de estos procedimientos por parte del factor humano, el conductor. No se creó ninguna medida de seguridad, ninguna modificación del procedimiento de acompañamiento del tren antes de ponerlo en marcha, que eliminara o redujera la posibilidad de fallo, error, del conductor del tren con transporte de pasajeros, acompañado también por la tripulación del tren.
 
 Los procedimientos tecnológicos tampoco fueron modificados por el operador de la vía, es decir, el operador de la vía, por lo que la seguridad en la salida (cruce) del tren en la estación en las líneas de vía única sigue dependiendo de facto solo de un factor humano: el conductor.
@@ -1235,38 +1197,58 @@ La causa fundamental de la MU fueron los errores del conductor del tren Os 3127 
 
 La causa derivada del marco normativo y del incumplimiento de los requisitos del sistema de garantía de la seguridad fue la no adopción de las medidas propias correspondientes para prevenir MU similares a raíz de la recomendación de seguridad emitida, ref. 6-538/2009/DI-1, de fecha 18. 03. 2010, tras la MU anterior de carácter similar, de fecha 16. 02. 2009 en la estación de Paskov.
 
-
 ## Página 39
 
 ## 4.4
 ### Hallazgos complementarios
-### 4.4.1 Deficiencias y omisiones detectadas durante la investigación de las causas y circunstancias de la aparición del suceso excepcional, que sin embargo no son relevantes para las conclusiones sobre las causas
-
-Las deficiencias y omisiones detectadas durante la investigación de las causas y circunstancias de la aparición de la MU, que sin embargo no son relevantes para las conclusiones sobre las causas, no fueron detectadas por la DI.
-
+### 4.4.1 Deficiencias y omisiones detectadas durante la investigación de las causas y circunstancias del 
+accidente ferroviario, que sin embargo no son relevantes para las conclusiones sobre las causas
+Las deficiencias y omisiones detectadas durante la investigación de las causas y circunstancias del 
+accidente ferroviario, que sin embargo no son relevantes para las conclusiones sobre las causas, 
+no fueron detectadas por la DI.
 ## 5 MEDIDAS ADOPTADAS
 ## 5.1
-### Lista de medidas que ya han sido tomadas o adoptadas como consecuencia del suceso excepcional
-
-A raíz de los resultados de la investigación de las causas y circunstancias de la aparición de la MU, el operador, en el sentido del apartado 3, letra e), del artículo 49 de la ley n.º 266/1994 Sb. y del apartado 1 del artículo 13 del decreto n.º 376/2006 Sb., adoptó las siguientes medidas:
-
-• informar de forma acreditada a los conductores sobre el desarrollo, las causas y las consecuencias de la MU en cuestión;
-• suspender la competencia profesional del conductor del tren Os 3127.
-
+### Lista de medidas que ya se han adoptado o tomado como consecuencia del 
+accidente ferroviario
+Sobre la base de los resultados de la investigación de las causas y circunstancias del accidente 
+ferroviario, el transportista, en el sentido del § 49 apartado 3 letra e) de la Ley núm. 266/1994 
+Sb. y del § 13 apartado 1 del decreto núm. 376/2006 Sb., adoptó las siguientes medidas: 
+informar de forma demostrable al maquinista sobre el desarrollo, las causas y las 
+•
+consecuencias del accidente ferroviario en cuestión;
+suspender la cualificación profesional del maquinista del tren Os 3127. 
+•
 ## 6 RECOMENDACIONES DE SEGURIDAD
-
-De conformidad con lo dispuesto en el apartado 5 del artículo 53b de la ley n.º 266/1994 Sb., la Inspección Ferroviaria recomienda al operador de la vía, categoría estatal y regional, a la Administración de la Infraestructura Ferroviaria de Transporte, organización estatal:
-
-• acelerar los trabajos para la implantación del sistema europeo de seguridad del tren ETCS en servicio, no solo en las vías estatales, que constituyen el sistema convencional del Sistema Ferroviario Europeo, sino también en el resto de vías estatales y regionales, de conformidad con el contenido de los documentos anteriores «Emisión de la recomendación de seguridad», ref. 6-538/2009/DI-1, de fecha 18. 03. 2010, ref. 739/2010/DI, de fecha 15. 12. 2010, y ref. 355/2012/DI, de fecha 01. 06. 2012;
-• en las líneas en las que a largo plazo no se implante el sistema europeo de seguridad del tren ETCS, instalar dispositivos técnicos de parada de emergencia de los trenes cuya seguridad esté amenazada, que sean activados automáticamente por la circulación no autorizada de un vehículo ferroviario más allá de la señal principal (p. ej., el sistema VNPN);
-• en las estaciones permanentemente atendidas por un jefe de estación, que dirige y organiza el tráfico ferroviario en el ámbito de su propia estación y de los tramos intermedios adyacentes, no realizar la expedición de un tren con transporte de pasajeros que se encuentre detenido (regular o excepcionalmente) en el espacio destinado a la bajada y subida de pasajeros, mediante la colocación de la señal principal en la señal que permite la circulación del tren, incluida la señal de llamada.
-
-De conformidad con lo dispuesto en el apartado 5 del artículo 53b de la ley n.º 266/1994 Sb., la Inspección Ferroviaria recomienda al operador České dráhy, a. s.:
-
-• acelerar los trabajos para la implantación y equipamiento de los vehículos ferroviarios con la parte móvil del sistema europeo de seguridad del tren
-
+De conformidad con lo dispuesto en el § 53b apartado 5 de la Ley núm. 266/1994 Sb., la 
+Inspección Ferroviaria recomienda al gestor de la vía, categoría estatal y regional, a la 
+Administración de la Infraestructura Ferroviaria, organización estatal: 
+acelerar los trabajos de implantación del sistema europeo de seguridad de trenes ETCS 
+•
+en servicio, no solo en las vías estatales, que constituyen el sistema convencional del 
+Sistema Ferroviario Europeo, sino también en el resto de vías estatales y 
+regionales, de conformidad con el texto de los documentos anteriores «Emisión 
+de recomendación de seguridad», ref. 6-538/2009/DI-1, de fecha 18. 03. 2010, ref. 
+739/2010/DI, de fecha 15. 12. 2010, y ref. 355/2012/DI, de fecha 01. 06. 2012;
+en las líneas en las que a largo plazo no se implantará el sistema europeo de seguridad 
+•
+de trenes ETCS, instalar un dispositivo técnico para la parada de emergencia de trenes 
+cuya seguridad esté amenazada, que se active automáticamente ante una circulación 
+no autorizada de un vehículo ferroviario más allá de la señal principal (por ejemplo, 
+el sistema VNPN);
+en las estaciones permanentemente atendidas por un jefe de estación que dirige y 
+•
+organiza el tráfico ferroviario en el ámbito de su propia estación y de los tramos 
+intermedios adyacentes, no realizar la maniobra de un tren con transporte de 
+pasajeros que se encuentre (regular o excepcionalmente) en el espacio destinado al 
+desembarque y embarque de pasajeros, mediante la colocación de la señal principal 
+en la señal que autoriza la circulación del tren, incluida la señal de llamada.
+De conformidad con lo dispuesto en el § 53b apartado 5 de la Ley núm. 266/1994 Sb., la 
+Inspección Ferroviaria recomienda al transportista České dráhy, a. s.: 
+acelerar los trabajos de implantación y equipamiento de los vehículos ferroviarios con 
+•
 
 ## Página 40
+
 
 ETCS, de modo que, cuando el sistema entre en servicio en la línea correspondiente, los vehículos ferroviarios explotados puedan aprovechar plenamente todas las funcionalidades de dicho sistema;
 • modificar los procedimientos tecnológicos uniformes antes de poner en marcha un tren con transporte de pasajeros que se encuentre detenido en el espacio destinado a la bajada y subida de pasajeros en una estación en la que se permite la expedición del tren mediante la colocación de la señal principal en la señal que permite la circulación del tren, incluida la señal de llamada, de modo que el inicio del procedimiento antes de poner el tren en marcha sea siempre iniciado por el conductor del DV de cabeza, mediante la señal «Llamada a la disponibilidad» dada verbalmente, mediante un auxiliar de señalización o mediante un dispositivo técnico.
@@ -1282,15 +1264,15 @@ Director
 Delegación Territorial de Ostrava
 Delegación Territorial de Ostrava
 
-
 ## Página 41
+
 
 ## 7 ANEXOS
 
 Figura 1: Vista desde la cabecera del tren Os 3127 del tren detenido Os 3150
 Figura 2: Panel indicador del SZZ de la estación de Baška tras la aparición de la MU
 
-
 ## Página 42
+
 
 Figura 3: Cabecera del tren Os 3127 en el km 108,730

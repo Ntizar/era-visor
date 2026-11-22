@@ -12,8 +12,8 @@ tokens_in: 26133
 tokens_out: 18273
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-verificacion: revisar
-avisos: ["página 11: ratio 2.19"]
+verificacion: ok
+notas_cifras: ["página 4: original bilingüe: se compara contra el idioma principal (HR)", "página 5: original bilingüe: se compara contra el idioma principal (HR); cifras cortas: 1/37", "página 7: cifras cortas: 1/38", "página 8: cifras cortas: 1/13", "página 10: cifras largas: 1/14", "página 11: original bilingüe: se compara contra el idioma principal (HR)"]
 ---
 
 ## Página 1
@@ -318,10 +318,10 @@ Al llegar a un tramo de vía de la línea M103 comprendido entre las estaciones 
 
 ## Página 11
 
-### Imagen 3. – Vagón descarrilado de la serie Tadds (fuente de la imagen: AIN) 
-Al examinar el tramo de vía M103 anteriormente mencionado, se detectan las primeras señales de descarrilamiento de la rueda derecha del primer eje (en la posición del cojinete número 7.) en el punto kilométrico 055+780 km (imagen 4.), mientras que la segunda rueda (en la posición del cojinete número 8.) permanece sobre el riel izquierdo. Al llegar a la estación de control de tráfico ferroviario (ŽCP) Križ en el punto kilométrico 056+141 km, son visibles las daños y las señales (marcas amarillas 1. y 2.) en la guía dentro de la vía, causadas por la rueda descarrilada (imagen 5.). Asimismo, inmediatamente después de la estación de control de tráfico ferroviario (ŽCP) Križ, en el lado izquierdo de la vía (marca amarilla 3.), se encuentra una rueda con una parte menor del primer eje; la distancia medida entre las marcas 1 y 3 es de 19 metros (imagen 5.). 
-Desde el punto de descarrilamiento, el tren número 61153 continúa su recorrido durante una distancia de 361 m, hasta llegar a la estación de control de tráfico ferroviario (ŽCP) Križ en el punto kilométrico 056+141 km. En ese momento, la rueda descarrilada impacta contra la guía en la estación de control de tráfico ferroviario (ŽCP) Križ, provocando la rotura completa del eje. 
-Como consecuencia de la rotura, la parte más corta del eje con la posición del cojinete número 8. se desprende del vagón y queda situada en el lado izquierdo al mirar en la dirección de la marcha, marcada con el número 3 (imagen 6.). El tren se detuvo en el punto kilométrico 056+470 km de la vía marcada M103; no se produjo pérdida de carga. Son visibles daños considerables en el vagón descarrilado y daños menores en el primer vagón adyacente a la locomotora (imagen 3.).
+### Figura 3. – Vagón desviado de la serie Tadds (fuente de la imagen: AIN)
+Al examinar el tramo anteriormente mencionado de la vía M103 se localizan las primeras huellas de desviación de la rueda dereja del eje 1 (en el asiento número 7) en la posición 055+780 km (figura 4), mientras que la segunda rueda (en el asiento número 8) permanece en el raíl izquierdo. Al llegar al PCL Križ en 056+141 km se observan daños y huellas (marcas amarillas 1. y 2.) en la guía dentro de la vía, producidos por la rueda desviada (figura 5.). Asimismo, inmediatamente después del PCL Križ, al lado izquierdo de la vía (marca amarilla 3.) se encuentra una rueda con una parte menor del eje 1, la distancia medida entre las marcas 1-3 asciende a 19 metros (figura 5.).
+Desde el punto de desviación el tren número 61153 continúa su marcha a lo largo de 361 m, y llega al PCL Križ en 056+141 km. En ese momento se produce el impacto de la rueda desviada contra la guía en el PCL Križ, y se produce la rotura total del eje.
+Como consecuencia de la rotura, la parte más corta del eje con el asiento número 8. se desprende del vagón y queda al lado izquierdo mirando en el sentido de la marcha en la marca 3. (figura 6.). El tren se detuvo en la posición 056+470 km de la vía de la marca M103, no se produjo pérdida de carga. Se observan daños considerables en el vagón desviado y menores en el primer vagón tras la locomotora (figura 3.).
 
 ## Página 12
 

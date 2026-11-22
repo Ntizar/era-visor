@@ -10,13 +10,14 @@ chars: 155955
 ratio_longitud: 1.25
 tokens_in: 79878
 tokens_out: 57153
-verificacion: revisar
-notas_cifras: ["bloque 2: original bilingüe: se compara contra el idioma principal (CS)", "bloque 4: original bilingüe: se compara contra el idioma principal (CS)", "bloque 5: original bilingüe: se compara contra el idioma principal (CS)", "bloque 6: cifras cortas: 1/197", "bloque 7: original bilingüe: se compara contra el idioma principal (CS)", "bloque 9: original bilingüe: se compara contra el idioma principal (CS)"]
-avisos: ["bloque 4: ratio 1.61", "bloque 5: ratio 1.65"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 3: original bilingüe: se compara contra el idioma principal (CS)", "página 4: original bilingüe: se compara contra el idioma principal (CS); ratio 1.96", "página 7: original bilingüe: se compara contra el idioma principal (EN)", "página 8: original bilingüe: se compara contra el idioma principal (PT)", "página 9: original bilingüe: se compara contra el idioma principal (CS)", "página 12: original bilingüe: se compara contra el idioma principal (HR)"]
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -41,13 +42,13 @@ IČ.   75009561
 mail@dicr.cz
 tel.. +420 736 521 003
 
-
 ## Página 2
+
 
 El presente informe final es público y todos los hechos en él expuestos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ## 1 RESUMEN
                       Fuente: DI
@@ -73,52 +74,51 @@ Consecuencias:
 sin lesionados;
 daño total 3 365 233 Kč.
 
-
 ## Página 4
 
 Causa inmediata:
-no respeto de la señal que prohíbe la maniobra en la señal Se16 por parte del
+no respeto de la señal que prohíbe la maniobra en la señal Se16 por parte del maquinista
 •
-maquinista de la maniobra.
+de la unidad de maniobra.
 Factores contribuyentes:
-encendido no autorizado de la señal «Maniobra permitida» en la señal Se20 por el
+encendido no autorizado de la señal «Maniobra permitida» en la señal Se20 por parte del
 •
-jefe de estación sin haber concedido previamente el permiso de maniobra;
-puesta en movimiento no autorizada de la maniobra por el maquinista sin permiso
+jefe de estación sin haber concedido previamente autorización para la maniobra;
+puesta en movimiento no autorizada de la unidad de maniobra por parte del maquinista
 •
-de maniobra y sin informar al jefe de estación sobre la tecnología de maniobra
-requerida.
+sin autorización para la maniobra y sin informar al jefe de estación sobre la tecnología
+de maniobra solicitada.
 Factor contribuyente a la colisión:
-no uso de la función «Parada general» del equipo de radio TRS por parte del
+no uso de la función Parada general del dispositivo de radio TRS por parte del jefe de
 •
-jefe de estación.
+estación.
 Causa fundamental:
-incumplimiento de los procedimientos tecnológicos del transportista y del gestor de
+incumplimiento de los procedimientos tecnológicos del operador ferroviario y del gestor
 •
-la vía para la realización de maniobras por parte del maquinista de la maniobra,
-que no siguió las señales dadas por el gestor de la vía.
+de la infraestructura para la realización de maniobras por parte del maquinista de la
+unidad de maniobra, que no se atenía a las señales dadas por el gestor de la
+infraestructura.
 Causa en el sistema de seguridad:
 no fue detectada por la Inspección Ferroviaria.
 •
 Recomendaciones de seguridad:
-La Inspección Ferroviaria, con base en lo dispuesto en el § 53e apartado 1 de la
-ley n.º 266/1994 Sb., recomienda, en relación con la prevención de sucesos
-ferroviarios:
+La Inspección Ferroviaria, con base en lo dispuesto en el § 53e apartado 1 de la ley
+n.º 266/1994 Sb., recomienda, con miras a la prevención de sucesos extraordinarios:
 ### A la Autoridad Ferroviaria:
-en el marco de la monitorización del estado de seguridad y de su actividad de
+en el marco de la monitorización del estado de seguridad y de su propia actividad de
 •
-control, centrarse en el cumplimiento de las normas establecidas para la
-organización y realización de maniobras, incluida la comunicación radio por parte
-de los empleados intervinientes, y en la actividad de control de los gestores de la
-vía y los transportistas referida a este ámbito;
-garantizar el aumento de la actividad de control relativa al cumplimiento de las
+control, centrarse en el cumplimiento de las reglas establecidas para la organización y
+realización de maniobras, incluida la comunicación radio entre los distintos empleados
+implicados, así como en la actividad de control de los gestores de la infraestructura y
+de los operadores ferroviarios relacionada con este ámbito;
+garantizar el aumento de la actividad de control relativa al cumplimiento de las reglas
 •
-normas establecidas para la organización y realización de maniobras, incluida la
-comunicación radio, por parte de los gestores de la vía y transportistas
-intervinientes.
-
+establecidas para la organización y realización de maniobras, incluida la comunicación
+radio, por parte de los gestores de la infraestructura y de los operadores ferroviarios
+implicados.
 
 ## Página 5
+
 
 ## SUMMARY
 Grade: 
@@ -171,8 +171,8 @@ the IM).
 Root cause: 
 none.
 
-
 ## Página 6
+
 
 Recommendation:
 Addressed to The Czech National Safety Authority (NSA):
@@ -188,8 +188,8 @@ ensure an increase of the control activities over compliance with the establishe
 rules for organization and carrying out the shunting operation, including the radio
 communication.
 
-
 ## Página 7
+
 
 # Índice
 1 RESUMEN........................................................................................................................3
@@ -239,6 +239,7 @@ técnicas aplicables y otras normas internas....................................
 
 ## Página 8
 
+
 registro de datos.....................................................................................................31
 3.4.2 Componentes de la vía....................................................................................32
 3.4.3 Dispositivos de comunicación e información.........................................................32
@@ -269,8 +270,8 @@ registro de datos...............................................................
 6 RECOMENDACIONES DE SEGURIDAD.....................................................................................55
 7 ANEXOS..........................................................................................................................57
 
-
 ## Página 9
+
 
 ## Lista de siglas y símbolos utilizados
 CDP
@@ -351,8 +352,8 @@ Informe Final sobre los resultados de la investigación del suceso ferroviario
 žst.
 estación de ferrocarril
 
-
 ## Página 10
+
 
 ## Lista de siglas de la legislación, normas y normativa interna
 utilizadas
@@ -377,8 +378,8 @@ norma técnica ferroviaria, Dispositivos de seguridad ferroviarios, Dispositivos
 SŽDC D1
 normativa interna del gestor de la infraestructura SŽDC, "SŽDC D1 Reglamento de Tráfico y Señalización", en la redacción vigente en el momento de producirse el suceso ferroviario
 
-
 ## Página 11
+
 
 SŽDC T300
 normativa interna del gestor de la infraestructura SŽDC, "SŽDC T300 Reglamento para la determinación del alcance y la organización del mantenimiento de los dispositivos de comunicación y de seguridad", en la redacción vigente en el momento de producirse el suceso ferroviario
@@ -398,8 +399,8 @@ Directiva del Parlamento Europeo y del Consejo 2004/49/CE de 29 de abril de 2004
 Directiva (UE) 2016/798
 Directiva del Parlamento Europeo y del Consejo (UE) 2016/798 de 11 de mayo de 2016 sobre la seguridad ferroviaria
 
-
 ## Página 12
+
 
 ## 2 DATOS RELATIVOS AL SUCESO FERROVIARIO
 ### 2.1 Suceso ferroviario
@@ -423,14 +424,14 @@ Con ello otorgó el consentimiento para la maniobra, a pesar de que el procedimi
 
 ## Página 13
 
-no se había acordado previamente y no se había concedido autorización para la maniobra. El maquinista, sin la autorización concedida, puso en movimiento la formación de maniobra y salió a la vía TSK.
-Una vez que la formación de maniobra entró en la vía TSK, el jefe de estación comenzó con la operación normal del SZZ a establecer la vía de tren desde la señal Sc1a a la 7.ª vía para el tren Sv 6095 (Nový Bor – Česká Lípa hl. n.) e inmediatamente después también la vía de maniobra desde la señal Se20 a la vía "Malý výtah" hasta la señal Se16. En la señal Se16 había la indicación "Prohibida la maniobra".
-Tras encenderse la indicación "Maniobra permitida" en la señal Se20, el maquinista volvió a poner en movimiento la formación de maniobra. En ese momento, el jefe de estación intentó informar al maquinista de la formación de maniobra mediante RDST que esperaría un momento en la vía "Malý výtah", es decir, antes de la señal Se16, pero el maquinista no reaccionó de ninguna manera a este mensaje. Cuando el maquinista observó la indicación "Prohibida la maniobra" en la señal Se16, aplicó el frenado de acción rápida, pero ya no le fue posible detener la formación de maniobra antes de esta señal y pasó indebidamente a su alrededor y se detuvo en el espacio de la aguja n.º 22b. Con ello, alteró la vía de tren para el tren Sv 6095.
-Mientras tanto, tras finalizar el periodo de preaviso del PZZ en el paso a nivel P3238, se produjo en la señal Sc1a el cambio de la indicación "Alto" a la indicación "Velocidad 40 km/h y aviso" complementada con un indicador luminoso con el dígito "5". El maquinista del tren Sv 6095 arrancó y alcanzó una velocidad de 50 km·h-1. Al circular por la cabecera, él y el maquinista en prácticas notaron una formación en el lado derecho y, tras comprobar que dicha formación se encontraba detenida en su itinerario, el maquinista aplicó el frenado de acción rápida, pero debido a la corta distancia no fue posible detener el tren Sv 6095 y se produjo una colisión lateral con la formación de maniobra detenida y, como consecuencia de esta colisión, finalmente también el descarrilamiento del coche motor del tren Sv 6095, que a continuación se hundió en el balasto.
-### Indicación "Prohibida la maniobra"
+no se había acordado previamente y no se había concedido autorización para la maniobra. El maquinista, sin la autorización concedida, puso en movimiento la formación de maniobra y se dirigió a la vía TSK. 
+Una vez que la formación de maniobra entró en la vía TSK, el jefe de estación comenzó mediante el servicio normal del SZZ a establecer la vía de tren desde la señal Sc1a hacia la 7.ª vía para el tren Sv 6095 (Nový Bor – Česká Lípa hl. n.) e inmediatamente después también la vía de maniobra desde la señal Se20 hacia la vía „Malý výtah“ hasta la señal Se16. En la señal Se16 había la señalización „Posun zakázán“ (Maniobra prohibida). 
+Tras encender la señalización „Posun dovolen“ (Maniobra permitida) en la señal Se20, el maquinista volvió a poner en movimiento la formación de maniobra. En ese momento, el jefe de estación intentó informar al maquinista de la formación de maniobra mediante RDST de que en la vía „Malý výtah“, es decir, antes de la señal Se16, esperaría un momento, pero el maquinista no reaccionó de ninguna manera a esta comunicación. Cuando el maquinista observó la señalización „Posun zakázán“ en la señal Se16, aplicó el frenado de acción rápida, pero ya no le fue posible detener la formación de maniobra antes de dicha señal y la pasó indebidamente a su alrededor, deteniéndose en el espacio de la aguja n.º 22b. Con ello, alteró la vía de tren para el tren Sv 6095. 
+Mientras tanto, tras finalizar el periodo de preaviso del PZZ en el paso a nivel P3238, se produjo en la señal Sc1a el cambio de la señalización „Stůj“ (Alto) a la señalización „Rychlost 40 km/h a výstraha“ (Velocidad 40 km/h y aviso) complementada con un indicador luminoso con el dígito „5“. El maquinista del tren Sv 6095 arrancó y alcanzó una velocidad de 50 km·h-1. Al pasar por la cabecera, junto con el maquinista en prácticas, advirtieron la formación en el lado derecho y, tras comprobar que dicha formación se encontraba detenida en su vía de circulación, el maquinista aplicó el frenado de acción rápida, pero por la corta distancia no fue posible detener el tren Sv 6095 y se produjo una colisión lateral con la formación de maniobra detenida y, como consecuencia de dicha colisión, posteriormente también el descarrilamiento del coche motor del tren Sv 6095, que a continuación se hundió en el lecho de balasto.
+### Señalización „Posun zakázán“ (Maniobra prohibida)
 señal Se20
 formación de maniobra
-"malý výtah"
+„malý výtah“
 Sv 6095
 Stružnice
 lugar de la colisión
@@ -438,8 +439,8 @@ Nový Bor
 Fig. n.º 2: Esquema del lugar del MU
           Fuente: SŽDC, modificado por DI
 
-
 ## Página 14
+
 
 ### Del examen de los DV implicados se constató:
 ### Tren Sv 6095:
@@ -454,8 +455,8 @@ La prueba de presencia de alcohol en el aire espirado realizada por la PČR fue 
 La formación de maniobra estaba formada por la unidad automotora de dos coches RegioNova CZ ČD 95 54 5 814 161-6 / CZ ČD 95 54 5 914 161-5. La formación de maniobra estaba dirigida en el momento de la producción del MU por el maquinista desde el coche motor CZ ČD 95 54 5 814 161-6. La formación de maniobra tenía 2 coches, una longitud de 29 m, 4 ejes, una masa de 40 t, y estaba frenada por el 1.er modo de frenado en el régimen P. El frente y el final de la formación estaban señalizados con las indicaciones prescritas. El frente de la formación de maniobra se detuvo en el km 45,214, justo antes de los labios de la aguja n.º 22b.
 En los manómetros del HDV 95 54 5 814 161-6, la presión en la tubería principal era de 0,0 bares, la presión en los cilindros de freno era de 0,0 bares. La palanca combinada de marcha y frenado estaba en la posición "FRENADO DE ACCIÓN RÁPIDA", el conmutador VZ estaba en la posición "APAGADO", el freno auxiliar estaba en la posición "FRENADO". El conmutador de bloqueo de freno estaba en la posición "0", el conmutador de dirección de marcha
 
-
 ## Página 15
+
 
 estaba en la posición "AVANTE". La arena automática estaba ACTIVADA. La pantalla principal estaba encendida con indicaciones sobre el motor y la formación, la pantalla de diagnóstico indicaba una advertencia de que no se trata del puesto de conducción principal y en la pantalla de la estación de radio estaba seleccionado el número de tren 6618, la red TRS, el canal 79 y en segundo plano estaba sintonizado el canal 20 de la red STE2 (no estaba activo).
 La formación de maniobra fue encontrada íntegra en estado no descarrilado. Se constataron daños en el testero, el pasamanos, la pintura, el fuelle lateral, la ventana lateral, las puertas de entrada izquierdas, el quitanieves, la plataforma de paso. La formación quedó colgada.
@@ -476,8 +477,8 @@ La señal luminosa de salida sobre mástil L2 estaba situada en el km 45,129 a l
 En la parte de la cabecera entre los pares de agujas n.º 22b – 25 y 22b – 27 no se encontró, en el sentido de la marcha del DV hasta el km 45,248, ningún daño en la superestructura. Entre el km 45,248 y el 45,214 se encontraron 11 traviesas de hormigón B91 dañadas, incluyendo las abrazaderas y las tuercas de traviesa. Además, se constató entre las agujas n.º 25 y 22b una alteración de la posición geométrica de la vía, en ambos carriles. Los carriles eran del tipo S 49. En la aguja n.º 22b se dañaron 7 traviesas de hormigón de aguja. La aguja n.º 22ab fue encontrada con los labios posicionados para la circulación de izquierda a derecha en el sentido desde la aguja n.º 25 hacia la 7.ª vía.
 No se produjo la ocupación de las puntas de la aguja n.º 22b por las ruedas del DV, el 1.er eje de la formación de maniobra fue encontrado a una distancia de 1,1 m antes de las puntas de los labios de la aguja n.º 22b. No se produjo daño en los labios, los apoyos, los dispositivos de fijación, las tuercas, los tensores ni en otros componentes de la aguja n.º 22ab.
 
-
 ## Página 16
+
 
 En el espacio delante de la aguja n.º 22ab se encontró una huella dañada de 7,9 m de longitud (huella excavada – ver más arriba).
 Con la participación del DI se realizó una nueva medición de la superestructura en el lugar de producción del MU y en sus inmediaciones. Se constató que los valores medidos están en conformidad con el estado normal y que el estado de la superestructura queda fuera de la relación causal con la producción del MU.
@@ -489,8 +490,8 @@ Se obtuvo la grabación de vídeo de la producción del MU y se solicitaron las 
 En el registro de averías de los equipos de comunicaciones y de seguridad no se anotó ninguna avería relacionada con el MU en cuestión. El registro era revisado periódicamente por los órganos superiores. Las posibles averías eran eliminadas y anotadas por los empleados de SSZT.
 Fig. n.º 3: Vista del puesto de trabajo del jefe de estación de la est. Česká Lípa hl.n.                   Fuente: DI
 
-
 ## Página 17
+
 
 El monitor JOP situado en el puesto de trabajo del jefe de estación mostraba en el momento del examen:
 funcionamiento sin averías y activación del control del SZZ desde la est. Česká Lípa hl. n.;
@@ -521,25 +522,25 @@ el tiempo está indicado con la corrección de + 4 s
 
 ## Página 18
 
-elemento de maniobras
-elemento de maniobras
+posunový díl
+posunový díl
 ### Sv 6095
 ### Sv 6095
 ## 6. 1. 2018   00.03.45 
 ## 6. 1. 2018   00.03.45 
-Fig. n.º 5: Captura de pantalla del archivo ESA – itinerario de tren establecido para Sv 6095 e itinerario de maniobras                
+Fig. n.º 5: Captura de pantalla del archivo ESA – itinerario de tren establecido para Sv 6095 y también itinerario de maniobras                
                                                                                       Fuente: SŽDC, modificado por DI
 Fig. n.º 6: Captura de pantalla del archivo ESA – paso de la señal Se16 por el elemento de maniobras        Fuente: SŽDC, modificado por DI
 ### Otros:
-En el lugar del accidente ferroviario (MU) estaban presentes también otros directivos de las distintas
-divisiones organizativas del gestor de la infraestructura ferroviaria y del transportista, que junto con
-los inspectores de DI participaron en la inspección del lugar del MU, incluida la revisión del archivo
-SZZ (véase el punto 2.2.3 de esta ZZ).
+En el lugar del MU estaban presentes también otros directivos de las distintas
+divisiones organizativas del gestor de la vía y del transportista, que junto con los
+inspectores de DI participaron en la inspección del lugar del MU, incluida la revisión
+del archivo SZZ (véase el punto 2.2.3 de esta ZZ).
 
-Con motivo del MU se activó el IZS.
-
+En el MU se activó el IZS.
 
 ## Página 19
+
 
 ### 2.1.3 Decisión sobre el inicio de la investigación, composición del equipo de personas cualificadas para la investigación y método de dirección de la investigación
 MU comunicada al COP DI:
@@ -586,8 +587,8 @@ maquinista en formación (en el tren Sv 6095), unidad operativa Děčín;
 maquinista del elemento de maniobras, unidad operativa Děčín.
 •
 
-
 ## Página 20
+
 
 Otras personas, testigos:
 3 maquinistas de ČD, unidad operativa Děčín, centro de trabajo Česká Lípa.
@@ -634,215 +635,153 @@ complementada con el indicador luminoso con el dígito «5» en la señal Sc1a, 
 La superestructura ferroviaria está formada por raíles de perfil S49 con fijación rígida «K» sobre
 cabezales nervados y traviesas de hormigón B91.
 
-
 ## Página 21
 
-El tramo intermedio Česká Lípa hl. n. – Nový Bor está equipado con un TZZ integrado de la
-categoría 3 con señales de sección del tipo AH-ESA-07. La libertad del sector espacial se
-controla mediante tramos con contadores de ejes FRAUSCHER. La vía no está equipada para la
-transmisión de códigos VZ al HDV.
-La libertad de los tramos de vía en la est. Česká Lípa hl. n. la garantizan los contadores de ejes
-FRAUSCHER ACS 2000, los llamados puntos de conteo. El SZZ está dotado de la funcionalidad de
-aviso de paso no autorizado de la señal principal (es decir, no de las señales de clasificación) con
-conexión al TRS sin señalización acústica exterior. El SZZ se puso en servicio en el año 2016. 
-### 2.2.4 Uso de los medios de comunicación
-23.44 h
-prueba de comunicación del tren Os 6618 en la red TRS y su confirmación;
-•
-23.59 h
-prueba de comunicación del tren Os 6095 en la red TRS y su confirmación;
-•
-00.04.12 h el jefe de estación advirtió en la red STE2 al maquinista del elemento de
-•
-maniobras de que esperara en el Pequeño Ascensor, pero el maquinista no confirmó la recepción;
-00.04.49 h el jefe de estación preguntó en la red STE2 al maquinista del elemento de maniobras
-•
-por su posición; tras un momento el maquinista del elemento de maniobras preguntó «No está
-parado, ¿verdad?» y el jefe de estación intentó detener el tren Sv 6095;
-00.05.55 h el maquinista del elemento de maniobras confirmó en la red STE2 al jefe de estación
-•
-la ocurrencia del MU, y el jefe de estación le comunicó que se dirigía al lugar de la colisión.
-La comunicación entre el maquinista del elemento de maniobras y el jefe de estación de la est.
-Česká Lípa hl. n. quedó registrada.
-### 2.2.5 Trabajos realizados en el lugar y en sus inmediaciones
-En el lugar del MU no se realizaron, inmediatamente antes de su ocurrencia, por parte del propietario,
-del gestor de la infraestructura ferroviaria ni de otras personas, trabajos de reparación o de
-mantenimiento. La explotación en el lugar del MU y sus alrededores se desarrollaba en régimen
-normal.
-### 2.2.6 Activación del plan para caso de accidente ferroviario en la vía y procedimientos consecuentes
-0.05 h comunicación de la ocurrencia del MU por el maquinista del elemento de maniobras al jefe de estación;
-•
-0.15 h comunicación del MU por el jefe de estación, según el horario de comunicación, al IZS y al CDP;
-•
-0.20 h comunicación del MU por el despachador del CDP al O18 SŽDC;
-•
-0.38 h comunicación del MU por la persona autorizada del O18 SŽDC al COP DI;
-•
-2.10 h inicio de la inspección del lugar de la ocurrencia del MU por la persona autorizada de SŽDC;
-•
-2.50 h inicio de la inspección del lugar de la ocurrencia del MU por los inspectores de DI;
-•
-3.40 h concesión del permiso de circulación del DV por los SK n.º 1, 2, 3 y 4 por el inspector de DI presente;
-•
-4.20 h concesión del consentimiento para la liberación de la vía por el inspector de DI presente;
-•
-7. 1. 2018 a las 11.30 h restablecimiento completo de la explotación.
-•
+El tramo de enlace Česká Lípa hl. n. – Nový Bor está equipado con un TZZ de 3.ª categoría con señales de sección del tipo AH-ESA-07. La libertad del intervalo sección se controla mediante tramos con contadores de ejes FRAUSCHER. La línea no está equipada para la transmisión de códigos VZ a la HDV.
 
+La libertad de los tramos de vía en la est. Česká Lípa hl. n. la garantizan los contadores de ejes FRAUSCHER ACS 2000, los llamados puntos de conteo. El SZZ está equipado con la funcionalidad de aviso de paso indebido de la señal principal (es decir, no de las señales de clasificación) con conexión al TRS sin señalización acústica exterior. El SZZ se puso en servicio en el año 2016.
+
+### 2.2.4 Uso de los medios de comunicación
+• 23.44 h prueba de comunicación del tren Os 6618 en la red TRS y su confirmación;
+• 23.59 h prueba de comunicación del tren Os 6095 en la red TRS y su confirmación;
+• 00.04.12 h el jefe de estación en la red STE2 advirtió al maquinista de la maniobra de esperar en el Pequeño Ascensor, pero el maquinista no confirmó la recepción;
+• 00.04.49 h el jefe de estación se dirigió en la red STE2 al maquinista de la maniobra preguntándole por su posición; tras un momento el maquinista de la maniobra preguntó «No está parado, ¿verdad?» y el jefe de estación intentó detener el tren Sv 6095;
+• 00.05.55 h el maquinista de la maniobra confirmó en la red STE2 al jefe de estación la aparición de la MU, y el jefe de estación le comunicó que se dirigía al lugar de la colisión.
+
+La comunicación entre el maquinista de la maniobra y el jefe de estación de la est. Česká Lípa hl. n. quedó registrada.
+
+### 2.2.5 Trabajos realizados en el lugar y en sus inmediaciones
+
+En el lugar de la MU no se estaban realizando, inmediatamente antes de su producción, trabajos de reparación o mantenimiento por parte del propietario, del gestor de la vía ni de otras personas. La circulación en el lugar de la MU y sus alrededores se desarrollaba en régimen habitual.
+
+### 2.2.6 Activación del plan para el caso de incidente excepcional en la vía y procedimientos conexos
+
+• 0.05 h notificación de la aparición de la MU por el maquinista de la maniobra al jefe de estación;
+• 0.15 h notificación de la MU por el jefe de estación según el calendario de notificación al IZS y al CDP;
+• 0.20 h notificación de la MU por el despachador del CDP al O18 SŽDC;
+• 0.38 h notificación de la MU por la persona autorizada del O18 SŽDC al COP DI;
+• 2.10 h inicio de la inspección del lugar de aparición de la MU por la persona autorizada del SŽDC;
+• 2.50 h inicio de la inspección del lugar de aparición de la MU por los inspectores del DI;
+• 3.40 h concesión del permiso de circulación del DV por los SK n.º 1, 2, 3 y 4 por el inspector del DI presente;
+• 4.20 h concesión del permiso para la liberación de la vía por el inspector del DI presente;
+• 7. 1. 2018 a las 11.30 h restablecimiento completo de la circulación.
 
 ## Página 22
 
-### 2.2.7 Activación del plan del sistema integrado de emergencia, de los servicios de emergencia policial y sanitario y procedimientos consecuentes
-El plan IZS fue activado en vista de la naturaleza del MU. El plan IZS lo activó a las 0.15 h,
-es decir, 11 minutos después de la ocurrencia del MU, el jefe de estación de la est. Česká Lípa
-hl. n.
-En el lugar del MU intervinieron los siguientes cuerpos del IZS:
-PČR Česká Lípa – sección de distrito y sección de criminalidad general;
+### 2.2.7 Activación del plan del sistema integrado de emergencias, de los servicios de emergencia policiales y sanitarios y de los procedimientos conexos
+El plan IZS fue activado dada la naturaleza del MU. El plan IZS fue activado a las 0.15 h, es decir, 11 minutos después de la producción del MU, por el jefe de estación de la est. Česká Lípa hl. n.
+En el lugar del MU intervinieron los siguientes componentes del IZS:
+PČR Česká Lípa – distrito y departamento de delincuencia general;
 •
-Servicio de Bomberos de SŽDC, unidad de protección contra incendios Liberec.
+Servicio de bomberos y rescate de SŽDC, unidad de protección contra incendios de Liberec.
 •
-### 2.3 Fallecimientos, lesiones y daños causados
-2.3.1 En pasajeros y terceras personas, empleados del gestor de la infraestructura ferroviaria y del transportista, incluidas personas en relación contractual
-Con motivo del MU no se produjo daño a la salud en los empleados del gestor de la infraestructura
-ferroviaria, del transportista, de las personas en relación contractual ni en terceras personas.
-
-### 2.3.2 En los objetos transportados, equipajes y otros bienes
-No se produjeron daños en los objetos transportados, equipajes ni otros bienes.
-
-### 2.3.3 En los vehículos ferroviarios, componentes de la vía y medio ambiente
-El gestor de la infraestructura ferroviaria y el transportista cuantificaron los daños en:
-vehículo motor del tren Sv 6095
+### 2.3 Fallecidos, heridos y daños causados
+2.3.1 En pasajeros y terceras personas, empleados del gestor de la vía y del transportista, incluidas personas en relación contractual
+En el MU no se produjeron daños a la salud en empleados del gestor de la vía, del transportista, de personas en relación contractual ni en terceras personas.
+### 2.3.2 En objetos transportados, equipaje y otros bienes
+No se produjeron daños en objetos transportados, equipaje ni otros bienes.
+### 2.3.3 En vehículos ferroviarios, componentes de la vía y medio ambiente
+El gestor de la vía y el transportista cuantificaron los daños en:
+la automotora del tren Sv 6095
  680 000 Kč;
 •
-vehículo de control del tren Sv 6095
+la coche de mando del tren Sv 6095
  300 000 Kč;
 •
-vehículo motor del elemento de maniobras
+la automotora de la unidad de maniobras
 770 000 Kč;
 •
-vehículo de control del elemento de maniobras
+el coche de mando de la unidad de maniobras
 790 000 Kč;
 •
-dispositivo de la vía (infraestructura)
+los dispositivos de la vía (infraestructura)
 825 233 Kč;
 •
-medio ambiente
+el medio ambiente
  0 Kč.
 •
-Con motivo del MU, los daños producidos en los vehículos ferroviarios, componentes de la vía
-### y otros bienes se cuantificaron en un total de 3 365 233 Kč.
+En el MU, los daños producidos en vehículos ferroviarios, componentes de la vía y otros bienes
+### fueron cuantificados en un total de 3 365 233 Kč.
 ### 2.4 Circunstancias externas
 ### 2.4.1 Condiciones meteorológicas y datos geográficos
 Condiciones meteorológicas:
-cubierto, + 5 °C, calma, ligera nevada, visibilidad no reducida
+cielo cubierto, + 5 °C, calma, ligera nevada, visibilidad no reducida
 por influencias meteorológicas, período nocturno, iluminación artificial.
-
 
 ## Página 23
 
 ## 3 REGISTRO DE LA INVESTIGACIÓN Y DE LAS EXPLICACIONES PRESENTADAS 
 ### 3.1 Resumen de las explicaciones presentadas (sujeto a protección de la identidad de las personas)
-### 3.1.1 Empleados del gestor de la infraestructura ferroviaria y del transportista, incluidas personas en relación contractual
+### 3.1.1 Empleados del gestor de la vía y del transportista, incluidas personas con relación contractual
 maquinista del tren Sv 6095
-  – en el Acta con el empleado y en el Registro Oficial
+  – en el Acta con el empleado y en el Registro oficial
 •
-sobre la explicación presentada a la PČR, entre otras cuestiones, indicó:
+sobre la explicación presentada a la PČR, entre otras cosas, indicó:
 ◦el 5. 1. 2018 se incorporó al turno a las 12.52 h descansado, sano y sin estrés;
 ◦el turno incluía también el tren Sv 6095 desde la est. Nový Bor hasta la est. Česká Lípa hl. n.;
-◦durante el turno formaba a un maquinista en formación, que condujo todo el turno,
-excepto el tren Sv 6095;
+◦durante el turno formó a un maquinista en prácticas, que condujo todo el turno, excepto el tren Sv 6095;
 ◦todo el turno transcurrió sin incidencias, excepto el MU en la est. Česká Lípa hl. n.;
 ◦el tren Sv 6095 lo condujo él mismo, ya desde la est. Nový Bor;
-◦tras detenerse ante la señal Sc1a, con la señal «Alto», tras unos 2 minutos se produjo el
-cambio a la señal «Velocidad 40 km/h y aviso» y al indicador con el dígito «5»;
-◦aceleró el tren hasta una velocidad de unos 50 km·h-1 y la mantuvo;
-◦al entrar en la cabecera advirtió de la composición motorizada que se interponía en su
-camino, por lo que aplicó frenado de acción rápida;
-◦a continuación, junto con el maquinista en formación, abandonaron la cabina;
+◦tras detenerse ante la señal Sc1a, con la señal «Alto», a los cca 2 minutos se produjo el cambio a la señal «Velocidad 40 km/h y aviso» y al indicador con el dígito «5»;
+◦puso el tren en marcha a una velocidad de cca 50 km·h-1 y la mantuvo;
+◦al entrar en la cabecera, advirtió la composición de motor que se encontraba en su camino, por lo que aplicó el frenado de acción rápida;
+◦a continuación, junto con el maquinista en prácticas, abandonó la cabina;
 ◦seguidamente se produjo la colisión;
-◦tras detenerse, fue a comprobar si alguien había resultado perjudicado y comunicó el MU al
-jefe de estación de la est. Česká Lípa hl. n.;
-◦durante la circulación desde la parada Skalice u České Lípy, de acuerdo con el TTP, sintonizó
-el RDST en el TRS y con esta comunicación continuó su marcha en dirección a la est. Česká Lípa
-hl. n.
-maquinista en formación
-  – en el Acta con el empleado y en el Registro Oficial
+◦tras detenerse, fue a comprobar si alguien había resultado perjudicado y comunicó el MU al jefe de estación de la est. Česká Lípa hl. n.;
+◦al circular desde la parada Skalice u České Lípy, conforme a las TTP, sintonizó el RDST en el TRS y con esta comunicación continuó su marcha en dirección a la est. Česká Lípa hl. n.
+maquinista en prácticas
+  – en el Acta con el empleado y en el Registro oficial
 •
-sobre la explicación presentada a la PČR, entre otras cuestiones, indicó:
+sobre la explicación presentada a la PČR, entre otras cosas, indicó:
 ◦el 5. 1. 2018 se incorporó al turno a las 12.52 h descansado, sano y sin estrés;
 ◦el turno incluía también el tren Sv 6095 desde la est. Nový Bor hasta la est. Česká Lípa hl. n.;
-◦en el depósito Česká Lípa, junto con el maquinista de plantilla, recibió la unidad motorizada
-95 54 5 814 108-7 / 95 54 5 914 108-6 destinada a este servicio;
-◦condujo todo el turno excepto el tren Sv 6095 desde la est. Nový Bor hasta la est. Česká Lípa
-hl. n., que realizó el maquinista de plantilla, y él solo estaba presente en la cabina;
-◦tras detenerse ante la señal Sc1a, con la señal «Alto», tras unos 2 minutos se produjo el
-cambio de la señal a «Velocidad 40 km/h y aviso» y al indicador con el dígito «5»;
-◦el maquinista de plantilla aceleró el tren hasta una velocidad de unos 50 km·h-1 y la mantuvo;
-◦al entrar en la cabecera advirtió de la composición motorizada que se interponía en su camino;
-◦el maquinista de plantilla aplicó frenado de acción rápida;
-◦a continuación, junto con el maquinista de plantilla, abandonaron la cabina;
+◦en el depósito de Česká Lípa, junto con el maquinista titular, recibió la unidad de motor 95 54 5 814 108-7 / 95 54 5 914 108-6 destinada a este servicio;
+◦condujo todo el turno excepto el tren Sv 6095 desde la est. Nový Bor hasta la est. Česká Lípa hl. n., que llevaba el maquinista titular y él solo estaba presente en la cabina;
+◦tras detenerse ante la señal Sc1a, con la señal «Alto», a los cca 2 minutos se produjo el cambio de la señal a la señal «Velocidad 40 km/h y aviso» y al indicador con el dígito «5»;
+◦el maquinista titular puso el tren en marcha a una velocidad de cca 50 km·h-1 y la mantuvo;
+◦al entrar en la cabecera, advirtió la composición de motor que se encontraba en su camino;
+◦el maquinista titular aplicó el frenado de acción rápida;
+◦a continuación, junto con el maquinista titular, abandonaron la cabina;
 ◦seguidamente se produjo la colisión;
-◦tras detenerse, fue con el maquinista de plantilla a comprobar si alguien había resultado perjudicado;
-◦el maquinista de plantilla comunicó el MU al jefe de estación de la est. Česká Lípa hl. n.;
-◦confirma que, durante la circulación desde la parada Skalice u České Lípy, el maquinista de
-plantilla sintonizó, de acuerdo con el TTP, la radio en el TRS y con esta comunicación continuó
-su marcha en dirección a la est. Česká Lípa hl. n.
+◦tras detenerse, fue con el maquinista titular a comprobar si alguien había resultado perjudicado;
+◦el maquinista titular comunicó el MU al jefe de estación de la est. Česká Lípa hl. n.;
+◦confirma que, al circular desde la parada Skalice u České Lípy, el maquinista titular, conforme a las TTP, sintonizó la estación de radio en el TRS y con esta comunicación continuó su marcha en dirección a la est. Česká Lípa hl. n.
 
 ## Página 24
 
 maquinista de la unidad de maniobras
-  – en el Registro con el empleado y en el Registro oficial
+  – en el Acta con el empleado y en el Registro oficial
 •
-sobre la declaración prestada ante la PČR indicó, entre otros:
-◦el 5. 1. 2018 se incorporó a su turno a las 13.51 h descansado, sano y sin estrés;
-◦el turno incluía también el tren Os 6618, que tras su llegada a la est. Česká Lípa hl. n.
-se retira en forma de maniobra al depósito;
+sobre la explicación presentada a la Policía, entre otras cosas, indicó:
+◦el 5 de enero de 2018 entró en turno a las 13.51 h descansado, sano y sin estrés;
+◦el turno incluía también el tren Os 6618, que tras su llegada a la est. Česká Lípa hl. n. se retira en forma de maniobra a la cochera;
 ◦durante la marcha no observó ningún defecto técnico;
-◦tras llegar a la est. Česká Lípa hl. n. y tras el descenso de los viajeros, sintonizó en
-el radioteléfono el funcionamiento simplex en el canal 20, pero no se comunicó con el jefe de estación;
-◦en base a las experiencias de turnos anteriores ni siquiera intentó dicha comunicación,
-porque sabía que el radioteléfono solo crepitaba;
-◦tras comunicarle el jefe de tren que la composición estaba vacía, cerró las puertas y con
-la señal «Maniobra permitida», que estaba encendida en la señal L2, puso en marcha la unidad de maniobras;
-◦la unidad de maniobras se detuvo tras la señal Se20 y pasó al puesto opuesto para
-preparar la unidad de maniobras para el siguiente viaje y encender el radioteléfono;
-◦con la señal «Maniobra permitida» en la señal Se20 puso la unidad de maniobras en
-marcha en dirección al depósito y alcanzó una velocidad de cca 25 – 30 km·h-1;
-◦tras recorrer cca 150 m comprobó que en la señal Se16 estaba la señal «Maniobra prohibida»;
+◦tras la llegada a la est. Česká Lípa hl. n. y tras la salida de los viajeros, sintonizó en la radiostación el funcionamiento simplex en el canal 20, pero no se comunicó con el jefe de estación;
+◦en base a las experiencias de turnos anteriores ni siquiera intentó esta comunicación, porque sabía que la radiostación solo crujía siempre;
+◦tras comunicarle el jefe de tren que la composición estaba vacía, cerró las puertas y con la señal «Maniobra permitida», que estaba encendida en la señal L2, puso en movimiento la unidad de maniobras;
+◦la unidad de maniobras se detuvo tras la señal Se20 y pasó al puesto opuesto para preparar la unidad de maniobras para el siguiente viaje y encender la radiostación;
+◦con la señal «Maniobra permitida» en la señal Se20, puso la unidad de maniobras en movimiento en dirección a la cochera y alcanzó una velocidad de aprox. 25 – 30 km·h-1;
+◦tras recorrer aprox. 150 m, comprobó que en la señal Se16 estaba la señal «Maniobra prohibida»;
 ◦comenzó a frenar de inmediato de forma rápida, pero pasó la señal Se16 en unos 25 m;
-◦tras detenerse intentó comunicarse con el jefe de estación por el radioteléfono, pero solo
-se oían distintos sonidos ininteligibles y alcanzó a oír una breve conversación confusa;
+◦tras detenerse, intentó comunicarse con el jefe de estación por el walkie-talkie, pero solo se oían distintos sonidos incomprensibles y oyó una conversación breve e ininteligible;
 ◦en menos de un minuto se produjo la colisión con otra composición;
-◦es consciente de sus faltas al realizar la maniobra en cuestión, de que como empleado
-que dirigía la maniobra no acordó con el jefe de estación la maniobra según los
-procedimientos tecnológicos vigentes, por lo tanto de que no recibió del jefe de estación
-el permiso para iniciar la maniobra y la inició únicamente en base a la encendido de la
-señal «Maniobra permitida»;
+◦es consciente de sus faltas al realizar la maniobra en cuestión, que como empleado que dirige la maniobra no acordó con el jefe de estación la maniobra según los procedimientos tecnológicos vigentes, por lo que no recibió del jefe de estación el permiso para iniciar la maniobra y comenzó su realización únicamente en base al encendido de la señal «Maniobra permitida»;
 ◦es consciente de que pasó la señal Se16 en posición que prohíbe la marcha.
 jefe de estación de la est. Česká Lípa hl. n.
-  – en el Registro con el empleado indicó, entre otros:
+ . – en el Acta con el empleado, entre otras cosas, indicó:
 •
-◦el 5. 1. 2018 se incorporó al turno nocturno descansado, sano y sin estrés;
-◦hasta la ocurrencia del MU el turno transcurrió sin incidencias;
-◦tras la llegada del tren Os 6618 acordaba por teléfono con el supervisor del depósito el
-plan de trabajo siguiente y esperaba a que el maquinista del tren Os 6618 se pusiera en
-contacto por el radioteléfono para acordar su maniobra, pero esto no llegó a ocurrir;
-◦poco después de la llegada del tren Os 6618 estableció la ruta de maniobra desde la
-vía 2. SK hasta la señal Se20;
-◦tras finalizar la llamada con el supervisor del depósito vio en el monitor SZZ que la
-unidad de maniobras en la vía 2. SK se había puesto en marcha;
-◦tras pasar la unidad de maniobras más allá de la señal Se20 estableció la ruta de tren
-para el tren Sv 6095 desde la est. Nový Bor a la vía 7. SK y simultáneamente estableció
-la ruta de maniobra desde la señal Se20 hasta la señal Se16 en el llamado «Pequeño ascensor»;
-◦intentó informar por el radioteléfono al maquinista de la unidad de maniobras de que
-tenía la ruta establecida solo hasta el «Pequeño ascensor», donde esperaría la llegada del tren Sv 6095;
-◦como el maquinista de la unidad de maniobras no confirmó de ninguna forma esta
-información, buscó en la aplicación electrónica del sistema de información su número de teléfono;
-◦de pronto oyó algún sonido ininteligible en el radioteléfono, miró el monitor SZZ y vio
-el tramo ocupado de la aguja n.º 22a/b;
-
+◦el 5 de enero de 2018 entró en el turno nocturno descansado, sano y sin estrés;
+◦hasta el momento del SU el turno transcurrió sin incidencias;
+◦tras la llegada del tren Os 6618, acordaba telefónicamente con el supervisor de la cochera el plan de trabajo siguiente y esperaba a que el maquinista del tren Os 6618 se pusiera en contacto por el walkie-talkie para acordar su maniobra, pero esto no llegó a ocurrir;
+◦poco después de la llegada del tren Os 6618, estableció la vía de maniobra desde la 2. SK tras la señal Se20;
+◦tras finalizar la llamada telefónica con el supervisor de la cochera, vio en el monitor del SZZ que la unidad de maniobras en la 2. SK se había puesto en marcha;
+◦tras la entrada de la unidad de maniobras tras la señal Se20, estableció la vía de tren para el tren Sv 6095 desde la est. Nový Bor en la 7. SK y simultáneamente estableció la vía de maniobra desde la señal Se20 hasta la señal Se16 en el llamado «Pequeño elevador»;
+◦intentó informar por la radiostación al maquinista de la unidad de maniobras de que tenía la vía establecida solo hasta el «Pequeño elevador», donde esperaría la llegada del tren Sv 6095;
+◦como el maquinista de la unidad de maniobras no confirmó esta información de ninguna manera, buscó en la aplicación electrónica del sistema de información su número de teléfono;
+◦de repente oyó algún sonido incomprensible en el walkie-talkie, miró el monitor del SZZ y vio el tramo ocupado de la aguja n.º 22a/b;
 
 ## Página 25
+
 
 ◦no se produjo el cambio de aguja, por lo tanto no sonó la campana de cambio; en ese
 momento creyó que era el tren entrante Sv 6095, pero a la vez intuyó que algo no estaba bien;
@@ -891,8 +830,8 @@ la RDST conmutada a simplex, el radioteléfono crepita fuertemente, no reacciona
 ### defecto se repite. Es necesario apagar el simplex. El mismo problema se produce en
 ### la estación de suministro de diésel del depósito.»;
 
-
 ## Página 26
+
 
 3. «Con el tren 6081 tuve que preguntar varias veces por el permiso de maniobra.
 ### El problema con el radioteléfono dura desde la reconstrucción de la est. Los
@@ -927,8 +866,8 @@ controles fueron con el resultado «Sin defectos», en los controles restantes s
 defectos de tipo administrativo, p. ej. firma ausente, dato meteorológico ausente,
 transcripción ocasional de datos, etc.
 
-
 ## Página 27
+
 
 En 2017 el transportista realizó 1 control al maquinista de la unidad de maniobras. El
 resultado del control fue «Sin defectos». El objeto del control fue principalmente:
@@ -985,8 +924,8 @@ celebrado entre el gestor de la vía SŽDC y el transportista ČD el 21. 8. 2013
 efectos desde el 1. 9. 2013.
 En la interfaz entre los sujetos involucrados no se detectó ningún defecto.
 
-
 ## Página 28
+
 
 ### 3.3 Regulación legal y otra
 ### 3.3.1 Normas jurídicas nacionales pertinentes y normas de la Unión Europea
@@ -1033,6 +972,7 @@ según las instrucciones del empleado que dirige la maniobra. ...»;
 
 ## Página 29
 
+
 art. 1545 del reglamento interno del explotador ferroviario SŽDC D1:
 •
 «La señal "Prohibido maniobrar" (luz azul) prohíbe maniobrar; la cabeza de la maniobra debe detenerse antes de la señal.»;
@@ -1062,8 +1002,8 @@ art. 23 letra c) del reglamento interno del operador ČD V2:
 «La tripulación de la locomotora está obligada en particular a:
 c) observar durante la marcha del tren o la maniobra la vía y la planta de vías, incluida la catenaria
 
-
 ## Página 30
+
 
 y a regirse por las señales,»;
 art. 58 del reglamento interno del explotador ferroviario SŽDC (ČD) Z1:
@@ -1089,8 +1029,8 @@ art. 9.11.8.2 del Reglamento de Explotación MRS PO Liberec:
 •
 «La estación de radio base del jefe de estación está en su posición básica ajustada a VOS. Por ello, antes de iniciar la actividad en la red STE2, el «empleado responsable de la maniobra» solicita al jefe de estación de la estación de ferrocarril correspondiente la «Autorización para maniobrar» en la red VOS. El jefe de estación, en el marco de la emisión de la «Autorización para maniobrar», determinará la red radiofónica (SMV o STE) en la que el operador realizará la maniobra solicitada. Tras la entrega de la «Autorización para maniobrar», el jefe de estación informará a todos los empleados implicados en la maniobra sobre las condiciones acordadas de esta maniobra y, en su caso, sobre las condiciones de la señal «Autorización para maniobrar» de conformidad con el reglamento SŽDC D1.».
 
-
 ## Página 31
+
 
 ### 3.4 Actividad de los vehículos ferroviarios y demás instalaciones técnicas
 ### 3.4.1 Sistema de mando, señalización y seguridad, incluido el equipo de registro automático de datos
@@ -1108,48 +1048,50 @@ Tren Sv 6095
 ## 6. 1. 2018   00.04.30
 Fig. n.º 7: La maniobra entró íntegramente en el «Pequeño ascensor».                                   Fuente: SŽDC, modificado por el DI
 
-
 ## Página 32
 
 Del análisis de los datos del archivo descargado se constató, entre otros:
 hora (h)
 evento
-00.00.27 Establecimiento de la ruta de maniobra para la maniobra (la composición del tren Os 6618) desde la señal L2 hasta la señal Se20 en dirección a la cabecera de Stružnice (KÚ TSK).
-En la señal L2 había la indicación «Maniobra permitida».
-00.02.41 La maniobra está íntegramente tras la señal Se20 en el KÚ TSK.
+00.00.27 Establecimiento de la vía de maniobras para la sección de maniobras (la composición del tren Os 6618) desde la señal L2 hasta la señal Se20 en dirección a la cabecera de Stružnice (KÚ TSK). 
+En la señal L2 había la indicación «Maniobras permitidas».
+00.02.41 La sección de maniobras está íntegramente tras la señal Se20 en el KÚ TSK.
 00.02.58 Ocupación del KÚ 1aK por el tren Sv 6095, en la señal Sc1a había la indicación «Alto».
-En la señal Se20 había la indicación «Prohibido maniobrar».
-00.02.46 Introducción del establecimiento de la ruta de tren para el tren Sv 6095 desde la señal Sc1a a la 7. SK.
-00.03.17 Introducción del establecimiento de la ruta de maniobra desde la señal Se20 hasta la señal Se16.
-### 00.03.21 Encendido de la indicación «Maniobra permitida» en la señal Se20. En la
+En la señal Se20 había la indicación «Maniobras prohibidas».
+00.02.46 Ordenación de la formación de la vía de tren para el tren Sv 6095 desde la señal Sc1a hasta la 7.ª SK. 
+00.03.17 Ordenación de la formación de la vía de maniobras desde la señal Se20 hasta la señal Se16. 
+### 00.03.21 Encendido de la indicación «Maniobras permitidas» en la señal Se20. En la 
 ###  señal Se16
-había la indicación
-###  «Prohibido maniobrar»
+había la indicación 
+###  «Maniobras prohibidas»
 ##  .
-00.03.49 Encendido de la indicación «Velocidad 40 km/h y aviso» complementada con el indicador con el dígito «5» en la señal Sc1a tras el cierre del paso a nivel P3238. En la señal Se20 había la indicación «Maniobra permitida», en la señal Se16 había la indicación «Prohibido maniobrar».
-La maniobra se encontraba en el KÚ TSK.
-00.04.03 Paso de la cabeza del tren Sv 6095 junto a la señal Sc1a.
-00.04.12 Indicación de ocupación del KÚ V27 por la maniobra (la cabeza pasó la señal Se20).
-00.04.30 Liberación del KÚ V27, la maniobra se encontraba íntegra entre Se16 y Se19 (en el «Pequeño ascensor»). En la señal Se16 sigue la indicación «Prohibido maniobrar».
-### 00.04.35 Ocupación del KÚ V18-22 (el primer eje afectó al contador de ejes) tras el paso
-###  de la señal Se16 por la maniobra en posición que prohíbe la circulación.
+00.03.49 Encendido de la indicación «Velocidad 40 km/h y aviso» complementada con el indicador con el dígito
+«5» en la señal Sc1a tras el cierre del paso a nivel P3238. En la señal Se20 había
+la indicación «Maniobras permitidas», en la señal Se16 había la indicación «Maniobras prohibidas».
+La sección de maniobras se encontraba en el KÚ TSK.
+00.04.03 Paso de la cabeza del tren Sv 6095 junto a la señal Sc1a. 
+00.04.12 Indicación de ocupación del KÚ V27 por la sección de maniobras (la cabeza pasó la señal Se20).
+00.04.30 Liberación del KÚ V27, la sección de maniobras se encontraba íntegramente entre Se16 y Se19 (en el «Pequeño
+elevador»). En la señal Se16 sigue la indicación «Maniobras prohibidas».
+### 00.04.35 Ocupación del KÚ V18-22 (el 1.º eje afectó al contador de ejes) tras el paso
+### de la señal Se16 por la sección de maniobras en posición que prohíbe la marcha. 
 00.05.13 Ocupación del KÚ V28 por el tren Sv 6095.
 00.05.18 Ocupación del KÚ V26 por el tren Sv 6095.
 00.05.22 Ocupación del KÚ V25 por el tren Sv 6095.
 00.05.23 Liberación del KÚ V28 por el tren Sv 6095.
 00.05.27 Liberación del KÚ V26 por el tren Sv 6095.
 00.05.34 Liberación del KÚ V25 por el tren Sv 6095.
-No se detectaron anomalías.
+No se detectaron deficiencias.
 ### 3.4.2 Componentes de la vía
 Los componentes de la vía no guardaban relación causal con la aparición del MU.
-### 3.4.3 Equipos de comunicación e información
-De la escucha de las grabaciones del equipo ReDat se constató:
-La comunicación entre el maquinista de la maniobra y el jefe de estación se realizó a través de la red
+### 3.4.3 Dispositivos de comunicación e información
+De la escucha de las grabaciones de los dispositivos ReDat se constató:
+La comunicación entre el maquinista de la sección de maniobras y el jefe de estación se realizaba a través de la red
 •
-STE2. No se utilizaron las demás redes, incluido el TRS.
-
+STE2. Las demás redes, incluida TRS, no se utilizaron.
 
 ## Página 33
+
 
 La demás información, instrucciones o mensajes que fueron registrados no guardan relación causal con la aparición del MU. Las grabaciones se estuvieron realizando de forma continua en este equipo, no se detectó ninguna avería en el equipo de grabación.
 Debido a la mala calidad de algunas grabaciones y a las quejas por la mala calidad de la conexión en la red MRS (STE2), durante la investigación se realizó una verificación del correcto funcionamiento de las estaciones de radio en SIMPLEX canal 20 (STE 2 para ČD).
@@ -1167,6 +1109,7 @@ El desarrollo y el resultado de los ensayos de verificación quedaron registrado
 Los viajes en todas las verificaciones A y B se realizaron siempre en el tramo desde la sala de tráfico en dirección a través del lugar del MU hasta la señal Se20 y de vuelta, a una velocidad de aprox. 10 km·h-1. La estación de radio del vehículo estaba sintonizada en el SIMPLEX canal 20, y se realizaba una prueba funcional continua de la comunicación vocal entre la estación de radio del jefe de estación y la estación de radio del maquinista (A), respectivamente, una medición continua (B).
 
 ## Página 34
+
 
 Hallazgos:
 ### Verificación A1 – iluminación y panel de información desactivados:
@@ -1209,8 +1152,8 @@ la interferencia registrada no influye en la calidad de la propia comunicación 
 2. Los mensajes transmitidos por el RDST son inteligibles a pesar de la interferencia ocasional débil. Las señales negativas (siseo) quedan suprimidas durante la comunicación activa y no influyen en la comunicación. La intensidad de la señal emitida es siempre superior a la intensidad de la señal de interferencia. Por tanto, la comunicación en la red MRS no se vio impedida; sin embargo, el siseo de la radio es sin duda un fenómeno indeseable que puede llevar a que el maquinista atenúe o desactive la escucha de la MRS y, a continuación, no pueda oír al jefe de estación. Que esto ocurre lo confirma, entre otros, uno de los Registros con el empleado, maquinista de ČD, centro de explotación de Česká Lípa.
 El jefe de estación en la red MRS (STE2) advirtió al maquinista de la maniobra de esperar en el «Pequeño ascensor» en el tiempo de registro 00.04.13 – 00.04.20 h, pero el maquinista no confirmó la recepción. Según el análisis de datos del velocímetro, este tiempo corresponde al momento en que el maquinista estaba en su puesto y circulaba desde la señal Se20 hacia la señal Se16. El maquinista no mencionó la conversación en cuestión
 
-
 ## Página 35
+
 
 ni en el Registro con el empleado ni en el Registro oficial de la explicación prestada a la PČR. Esta conducta corresponde a la atenuación de la emisora, pero no puede probarse de forma concluyente; asimismo, en los registros de la actividad de control no consta dicha conducta inadecuada.
 La única queja oficial por mala calidad del sonido registrada por el gestor de la infraestructura figura únicamente en el Registro de averías del equipo de telecomunicaciones y de señalización a fecha 13. 10. 2017 en la red TRS. A continuación se produjo una intervención de servicio de ČDT, cuando, según la respuesta enviada por ČDT, la avería no se manifestó durante la prueba con el personal. Se trató de la única intervención de servicio de ČDT registrada por una avería de este tipo. Los maquinistas de ČD del centro de explotación de Česká Lípa no indicaron en los registros con el empleado que hubieran comunicado la avería a alguien. Tampoco el transportista presentó ningún registro de comunicación de dicha avería.
@@ -1247,8 +1190,8 @@ registro del impacto a una velocidad de 33 km·h-1; pk 45,243;
 00.05.28
 parada del frente en el pk 45,219.
 
-
 ## Página 36
+
 
 No se superó la velocidad máxima permitida del tren Sv 6095 en el lugar del origen del MU (50 km·h-1). La desaceleración calculada «a» = 1,36 m·s-2 corresponde a la aplicación del frenado de emergencia en el I. modo de frenado.
 El HDV 95 54 5 814 161-6 disponía del Certificado de aptitud del material rodante, n.º de ref.: PZ 9347/11-V.22, expedido por el DÚ el 3. 11. 2011. La última revisión técnica periódica antes del origen del MU se realizó el 17. 8. 2017 con vigencia hasta el 17. 2. 2018, con el resultado: «El material cumple las condiciones de explotación en las vías.»
@@ -1294,21 +1237,30 @@ parada a 41 m tras la señal Se16 en el pk 45,214.
 No se superó la velocidad máxima permitida en la maniobra por tracción (40 km·h-1). La desaceleración calculada «a» = 1,39 m·s-2 corresponde a la aplicación del frenado de emergencia en el I. modo de frenado.
 No se detectaron deficiencias en el funcionamiento del material rodante, incluidos los dispositivos de registro automático de datos.
 
-
 ## Página 37
 
 ### 3.5 Documentación sobre el sistema de explotación
-### 3.5.1 Medidas adoptadas por los empleados del gestor de la infraestructura y del transportista en lo que respecta a la dirección y seguridad del tráfico
-El tren Os 6618 se detuvo en la 2. vía de la est. Česká Lípa hl. n. La composición de este tren debía retirarse en forma de maniobra hacia el «Depósito», es decir, a la «vía lateral n.º 3305 de ČD, a. s. – Česká Lípa». Se trataba de una maniobra sin cuadrilla de maniobras, en la que el empleado que dirigía la maniobra, en el sentido del art. 1662 SŽDC D1, era el maquinista.
-El maquinista de la maniobra no informó al jefe de estación, antes de iniciar la maniobra, de la tecnología de maniobra requerida (requisitos para la realización de la maniobra, en qué vías pretende realizar la maniobra, tiempo previsto de maniobra), cuando dicha tecnología no figuraba en el TTP ni en las ayudas tecnológicas del GVD (Plan de ocupación de las vías de tráfico, Cuadro de procesos de explotación de la estación, Instrucciones para el desempeño del servicio de tráfico o Horario de servicios regulares convenidos de las vías laterales), y por tanto debía hacerlo así en virtud del art. 1744 SŽDC D1.
-El jefe de estación tampoco intentó comunicarse con el maquinista y, sin que le fuera conocida por el transportista la tecnología de maniobra requerida, sobre la base de la cual pudiera conceder la autorización para la maniobra en el sentido del art. 1692 SŽDC D1, estableció mediante el SZZ la ruta de maniobra desde la 2. SK desde la señal L2 hacia la cabecera de Stružnice más allá de la señal Se20 (a la vía TSK), con lo que incumplió el art. 431 SŽDC D1. Al encender la indicación «Maniobra permitida» en la señal L2, el jefe de estación dio su conformidad para la maniobra sin haber concedido previamente la autorización para la maniobra, con lo que incumplió el art. 1687 SŽDC D1 y los arts. 58 y 73 ap. c) SŽDC (ČD) Z1.
-Ante esta indicación, el maquinista de la maniobra se puso en marcha en dirección a la cabecera de Stružnice, con lo que también él incumplió el art. 1687 SŽDC D1. Tras la señal Se20, el maquinista detuvo la maniobra, desactivó el mando del puesto n.º 2, pasó al lado opuesto de la unidad y activó el mando del puesto n.º 1.
-A continuación, el jefe de estación estableció la ruta de maniobra desde la señal Se20 hasta la señal Se16 y, a la vez, se estaba estableciendo también la ruta de tren para el tren Sv 6095 desde la señal Sc1a en la 7. SK. Tras encender la indicación «Maniobra permitida» en la señal Se20, el maquinista puso de nuevo la maniobra en movimiento en dirección al «Pequeño ascensor». Esto ocurrió de nuevo sin ninguna comunicación, y por tanto se volvió a incumplir las disposiciones anteriores de las normas internas.
-En el «Pequeño ascensor», el maquinista de la maniobra tenía la obligación de detenerse antes de la señal Se16 con la indicación «Maniobra prohibida», lo que no hizo, pues cuando observó la indicación «Maniobra prohibida» en la señal Se16, ya no le fue posible detenerse antes de ella debido a la corta distancia (descripción del desarrollo de la circulación y de la conducción del material en el punto 3.4.4 de esta ZZ), con lo que incumplió los arts. 329, 1545, 1750 ap. a), 1753 ap. a) SŽDC D1, el art. 23 ap. c) ČD V2 y la disposición del § 35 apartado 1 ap. f) del decreto n.º 173/1995 Sb.
-El jefe de estación en la red MRS (STE2), pese a que, en contra de lo dispuesto en el art. 9.11.8.2 del Reglamento de Explotación MRS PO Liberec, no determinó al maquinista la realización de la maniobra en esta red, advirtió al maquinista de la maniobra de esperar en el «Pequeño ascensor» en el tiempo de registro 00.04.13 – 00.04.20 h, pero el maquinista no confirmó la recepción (véase el punto 3.4.3. de esta ZZ).
-La maniobra pasó de frente junto a la señal Se16 a las 00.04.33 h y se detuvo en el pk 45,214 a las 00.04.40 h. El equipo de señalización indicó el paso de la señal desde las 00.04.35 h. A las 00.04.44 h comenzó la conversación en la red MRS (STE2), cuando a las 00.05.01 h empezaba la consulta
+### 3.5.1 Medidas adoptadas por los empleados del gestor de la vía y del transportista en lo que respecta a la conducción y la seguridad del tráfico
+El tren Os 6618 se detuvo en la 2.ª vía de la estación Česká Lípa hl. n. La composición de este tren debía retirarse mediante maniobra de maniobras hacia el «Depo», es decir, a la «vía industrial n.º 3305 ČD, a. s. – Česká Lípa». Se trataba de una maniobra sin cuadrilla de maniobras, en la que el empleado que dirigía la maniobra, en el sentido del art. 1662 de las D1 de SŽDC, era el maquinista.
+
+El maquinista de la unidad de maniobras no informó al jefe de estación, antes de iniciar la maniobra, de la tecnología de maniobra solicitada (requisitos para la realización de la maniobra, en qué vías tenía previsto realizarla, tiempo estimado de maniobra), siendo que esta tecnología no figuraba en el TTP ni en las ayudas tecnológicas del GVD (Plan de ocupación de las vías de tráfico, Gráfico de procesos de explotación de la estación, Instrucciones para el desempeño del servicio de tráfico o Horario de servicios regulares acordados para las vías industriales), y por tanto debía hacerlo así en virtud del art. 1744 de las D1 de SŽDC.
+
+El jefe de estación tampoco intentó comunicarse con el maquinista y, sin conocer la tecnología de maniobra solicitada por el transportista, sobre la base de la cual podría haber concedido el permiso de maniobra en el sentido del art. 1692 de las D1 de SŽDC, estableció mediante la operación de la SZZ la ruta de maniobras desde la 2.ª vía de tráfico desde la señal L2 hacia el extremo de Stružnice más allá de la señal Se20 (a la vía TSK), con lo que incumplió el art. 431 de las D1 de SŽDC. Al encender la señal «Maniobra permitida» en la señal L2, el jefe de estación dio su consentimiento para la maniobra sin haber concedido previamente el permiso de maniobra, con lo que incumplió el art. 1687 de las D1 de SŽDC y los arts. 58 y 73, letra c), de las Z1 de SŽDC (ČD).
+
+Ante esta señal, el maquinista de la unidad de maniobras se puso en marcha en dirección al extremo de Stružnice, con lo que también él incumplió el art. 1687 de las D1 de SŽDC. Más allá de la señal Se20, el maquinista de la unidad de maniobras se detuvo, desactivó el mando de la cabina n.º 2, pasó al lado opuesto de la unidad y activó el mando de la cabina n.º 1.
+
+A continuación, el jefe de estación estableció la ruta de maniobras desde la señal Se20 hasta la señal Se16 y, al mismo tiempo, se estaba estableciendo también la ruta de tren para el tren Sv 6095 desde la señal Sc1a en la 7.ª vía de tráfico. Tras encender la señal «Maniobra permitida» en la señal Se20, el maquinista de la unidad de maniobras volvió a ponerse en marcha en dirección al «Pequeño ascensor». Esto ocurrió de nuevo sin ninguna comunicación, y por tanto se volvió a incumplir las disposiciones anteriores de las normas internas.
+
+En el «Pequeño ascensor», el maquinista de la unidad de maniobras tenía la obligación de detenerse antes de la señal Se16 con la señal «Maniobra prohibida», lo que no hizo, ya que cuando observó la señal «Maniobra prohibida» en la señal Se16, no le fue posible detenerse antes de ella debido a la corta distancia (descripción del desarrollo de la marcha y de la conducción del vehículo en el punto 3.4.4 de la presente ZZ), con lo que incumplió los arts. 329, 1545, 1750 letra a), 1753 letra a) de las D1 de SŽDC, el art. 23 letra c) de las V2 de ČD y la disposición del § 35 apartado 1 letra f) del decreto n.º 173/1995 Sb.
+
+El jefe de estación en la red MRS (STE2), pese a que en contra de lo dispuesto en el art. 9.11.8.2 del Reglamento de explotación MRS PO Liberec no determinó al maquinista la realización de la maniobra en esta red, advirtió al maquinista de la unidad de maniobras de la espera en el «Pequeño ascensor» en el tiempo de registro 00.04.13 – 00.04.20 h, pero el maquinista no confirmó la recepción (véase el punto 3.4.3 de la presente ZZ).
+
+La unidad de maniobras pasó de frente más allá de la señal Se16 a las 00.04.33 h y se detuvo en el km 45,214 a las 00.04.40 h. El dispositivo de seguridad indicó el paso de la señal a partir de las 00.04.35 h.
+
+A las 00.04.44 h se inició una conversación en la red MRS (STE2), cuando a las 00.05.01 h comenzaba la consulta
 
 ## Página 38
+
 
 del jefe de estación al maquinista de la maniobra, quien, sin embargo, en contradicción con los arts. 28 y 29 de las Instrucciones SŽDC (ČD) Z11, no comunicó claramente la situación más grave, es decir, el paso de la señal que prohíbe la circulación (véase el punto 3.5.2 de la presente II). A partir de las 00.05.15 h se emitía la orden de detención para el tren Sv 6095, que, sin embargo, su maquinista no oyó y, según sus declaraciones, el maquinista del tren inició el frenado de acción rápida en base a un estímulo visual a las 00.05.21 h. A las 00.05.27 h se produjo la colisión.
 El frenado hasta una velocidad de 36 km·h-1 duró unos 5 s y 64 m; para detenerse desde esta velocidad, la composición del tren habría necesitado, en las condiciones dadas, otros unos 7 s y 37 m, como puede deducirse del registro del velocímetro de la maniobra. Para evitar la colisión, había que haber iniciado el frenado de acción rápida antes de que el tren Sv 6095 llegara a unos 101 m antes del punto de colisión, es decir, como más tarde a las 00.05.19 h. El jefe de estación disponía, por tanto, de tiempo suficiente para activar la función GS en la red TRS, a la que estaban sintonizados tanto la maniobra como el tren Sv 6095. Sin embargo, no utilizó este dispositivo, con lo que incumplió el art. 272 de las Instrucciones SŽDC D1 y el art. 53 de las Instrucciones SŽDC (ČD) Z11, y en su lugar siguió intentando comunicarse con los maquinistas en la red MRS (STE2). Para más detalles, véase el punto 4.2.1 de la presente II.
@@ -1323,8 +1275,8 @@ Constatación:
 • el maquinista de la maniobra no se detuvo ante la señal Se16 con la indicación «Maniobra prohibida», en contradicción con los arts. 329, 1545, 1750 letra a), 1753 letra a) de las Instrucciones SŽDC D1, el art. 23 letra c) de las Instrucciones ČD V2 y la disposición del § 35 apartado 1 letra f) del decreto núm. 173/1995 Sb.;
 • toda la comunicación se realizó en la red STE2 sin establecer previamente la conexión en la red VOS, lo que contradice las disposiciones del art. 9.11.8.2 del Reglamento de Explotación de la MRS PO Liberec;
 
-
 ## Página 39
+
 
 • no se cumplieron las normas para el uso de los equipos de radio en el sentido de los arts. 28 y 29 de las Instrucciones SŽDC (ČD) Z11, al no ser la comunicación especialmente breve y con un contenido claro del mensaje, lo que provocó la emisión tardía de la orden de detención;
 • el jefe de estación no utilizó la función GS, es decir, no adoptó todas las medidas para evitar el peligro, en contradicción con el art. 272 de las Instrucciones SŽDC D1 y el art. 53 de las Instrucciones SŽDC (ČD) Z1;
@@ -1344,8 +1296,8 @@ El lugar de la excepción fue asegurado por la persona cualificada designada del
 PD = maquinista de la maniobra
 en negrita = comentario de la DI
 
-
 ## Página 40
+
 
 ### 3.6 Condiciones laborales, sanitarias y de explotación
 ### 3.6.1 Jornada laboral de los empleados del gestor de la infraestructura y del transportista que participaron en la excepción
@@ -1359,8 +1311,8 @@ El empleador no garantizó las condiciones para el descanso previo a la jornada 
 El empleador no garantizó las condiciones para el descanso previo a la jornada y durante la jornada, de conformidad con la Ley núm. 262/2006 Sb., respectivamente con el decreto gubernamental núm. 589/2006 Sb., por el que se establece la regulación diferenciada de la jornada laboral y del tiempo de descanso de los empleados en el transporte.
 En la estructura de la jornada del maquinista de la maniobra se disfrutó de una pausa para la comida y el descanso desde las 15.30 h hasta las 16.00 h. Según el § 88 apartado 1 de la Ley núm. 262/2006 Sb., el empleador está obligado a conceder al empleado, como máximo después de 6 horas de trabajo continuo, una pausa en el trabajo para la comida y el descanso con una duración mínima de 30 minutos. El empleador debía conceder, por tanto, una pausa adicional de 30 minutos como máximo a las 22.00 h, lo que no se cumplió. En la jornada solo estaba planificada una parte de la pausa en el horario de las 22.25 h a las 22.40 h, es decir, 25 minutos más tarde y con una duración inferior a la establecida en la disposición mencionada anteriormente.
 
-
 ## Página 41
+
 
 Constatación:
 • en la estructura de la jornada del maquinista del tren Sv 6095 y del maquinista en formación no se concedió al empleado, como máximo después de seis horas de trabajo continuo, una pausa con una duración mínima de 30 minutos. Solo se concedió una parte de la misma, con una duración de 15 minutos. Con ello no se cumplió la disposición del § 88 apartado 1 de la Ley núm. 262/2006 Sb.
@@ -1377,6 +1329,7 @@ La disposición y el equipamiento del puesto de trabajo de los empleados del ges
 En el caso de esta excepción concreta, la no emisión inmediata de la orden codificada GS tuvo una influencia decisiva en el origen de la colisión (véanse los puntos 3.5.1 y 4.2.1 de la presente II).
 
 ## Página 42
+
 
 ### 3.7 Incidentes anteriores de carácter similar
 DI investigó en el período comprendido entre el 1. 1. 2010 y la fecha de ocurrencia del incidente objeto de estudio, en las vías ferroviarias, categoría estatal y regional, un total de 4 incidentes similares, en los que se produjo la circulación no autorizada de una maniobra alrededor de una señal que prohibía la circulación y la entrada en una vía de tren/maniobra con la consiguiente colisión con DV.
@@ -1398,8 +1351,8 @@ Rn 53033. La causa inmediata del incidente fue el incumplimiento de la señal de
 establecidos en el punto 3
 El 5. 1. 2018 llegó a las 23.59.55 h a la est. Česká Lípa est. pral. en el 2.º SK el tren Os 6618 con llegada regular a las 00.00 h. Tras el descenso de los pasajeros, esta composición debía retirarse en forma de maniobra hacia el «Depósito», es decir, a la «vía lateral n.º 3305 ČD, a.s. – Česká Lípa». El jefe de estación, sin comunicación previa, acuerdo ni autorización para la maniobra por parte del personal de SZZ, encendió en la señal L2 la indicación «Maniobra permitida», ante la cual a continuación a las 00.01.30 h el maquinista de la maniobra
 
-
 ## Página 43
+
 
 aceleró en dirección a la cabeza de vías de Stružnice (vía TSK) más allá de la señal Se20, donde se detuvo a las 00.02.41 h.
 A la hora 00.02.58 h se indicó en el monitor de SZZ la ocupación de KÚ 1aK por el tren Sv 6095. El jefe de estación con el personal de SZZ ya a las 00.02.46 h introdujo la orden para el establecimiento de la vía de tren desde la señal Sc1a en el 7.º SK para este tren. Con ello se produjo a su vez la activación de la alarma en el dispositivo de enclavamiento de paso a nivel ŽP P3238 (km 46,323 – Děčínská ulice) y, tras finalizar el tiempo de liberación, en la señal Sc1a a las 00.03.49 h cambió la indicación «Alto» por la indicación «Velocidad 40 km/h y alarma» complementada con un indicador luminoso con el dígito «5». Mientras tanto, el jefe de estación a las 00.03.17 h con el funcionamiento estándar de SZZ introdujo el establecimiento de la vía de maniobra desde la señal Se20 hasta la señal Se16 en el llamado «Pequeño ascensor» y a las 00.03.21 se encendió en la señal Se20 la indicación «Maniobra permitida».
@@ -1410,8 +1363,8 @@ El tren Sv 6095 se detuvo a las 00.03.34 h antes de la señal Sc1a con la indica
 El dispositivo de enclavamiento indicó el paso de la señal desde las 00.04.35 h. A las 00.04.44 h comenzó la comunicación en la red MRS (STE2), cuando a las 00.05.01 h empezaba la consulta del jefe de estación al maquinista sobre la posición de la maniobra, sin embargo el maquinista no comunicó de forma totalmente clara que se había producido el paso de la señal que prohíbe la circulación (véase el punto 3.5.2 de esta ZZ). Desde las 00.05.15 h se emitía la orden de detención para el tren Sv 6095, que sin embargo su maquinista no oyó, y según sus declaraciones el maquinista del tren activó el frenado de emergencia sobre la base de un estímulo visual. El jefe de estación tuvo tiempo suficiente para activar la función GS en la red TRS, a la que estaban sintonizados tanto la maniobra como el tren Sv 6095. Sin embargo, no utilizó este dispositivo, en su lugar siguió intentando comunicarse con los maquinistas en la red MRS (STE2).
 En el incidente no se produjeron lesiones en personas, el daño causado en los vehículos ferroviarios y en los componentes de la vía se cifró en un total de 3 365 233 Kč.
 
-
 ## Página 44
+
 
 ### 4.2 Análisis
 ### 4.2.1 Evaluación de los hechos establecidos en el punto 3 y exposición de las conclusiones sobre la causa del incidente y la actuación de los servicios de emergencia
@@ -1424,14 +1377,15 @@ El procedimiento no autorizado elegido por el jefe de estación corresponde con 
 
 ## Página 45
 
+
 del surgimiento de la MU, ante los cuales, sobre la base del § 49 apartado 3 letra d) de la Ley n.º 266/1994 Sb. y del § 10 apartado 5 letra j) del Decreto n.º 376/2006 Sb., sin duda debería haber adoptado medidas. En última instancia, no se procura cambiar las costumbres establecidas de los empleados implicados.
 Los sistemas de señalización instalados en la República Checa resuelven la seguridad de las maniobras de los elementos de maniobra en los ámbitos de las estaciones ferroviarias únicamente mediante las señales de los distintos señales, las cuales no se preseñalan ni se transmiten generalmente al HDV. Así, gran parte de la seguridad sigue recaendo en el cumplimiento estricto de los procedimientos prescritos por parte del factor humano. El incumplimiento del procedimiento prescrito se produce a menudo en los traslados repetitivos y previsibles de composiciones ferroviarias, en los que generalmente se «conoce» al operador, la tecnología de maniobra, la tracción, así como el origen y el destino de la ruta de maniobra. Y es precisamente la aceptación mutua de dicho procedimiento la que luego influye negativamente en la seguridad de la explotación. El propio surgimiento de la MU solo se produce en caso de circulación no autorizada más allá de la siguiente señal con una señal que prohíbe la maniobra, lo que se clasifica en primer lugar como falta (del empleado) del operador que no aseguró la detención del elemento de maniobra antes del lugar señalizado, sin que el gestor de la infraestructura haya tenido en cuenta el factor contribuyente consistente en la falta anterior de sus propios empleados.
 El maquinista con el elemento de maniobra salió a la vía TSK en la cabecera de Stružnice más allá de la señal Se20, donde se detuvo. Tras la iluminación de la señal «Maniobra permitida» a las 00.03.21 h, que de nuevo, en contra de los procedimientos tecnológicos, iluminó el jefe de estación en la señal Se20, puso el elemento de maniobra en movimiento hacia el «Depósito» a las 00.04.02 h. Esto de nuevo se produjo sin ninguna comunicación, y por tanto se volvió a incumplir las disposiciones antes mencionadas de las normas internas del gestor de la infraestructura.
 La ruta de maniobra fue establecida por el jefe de estación únicamente hasta la señal Se16, hasta el llamado «Pequeño ascensor», donde el elemento de maniobra debía esperar la entrada del tren Sv 6095 procedente de la dirección de Nový Bor en la 7.ª SK.
 El sentido de la disposición del art. 1692 de las SŽDC D1 es eliminar el fallo del factor humano – el empleado que dirige la maniobra. Este, durante la circulación del elemento de maniobra, necesita conocer con antelación la ruta de la maniobra para que, utilizando sus conocimientos de las condiciones locales de la estación, mediante la elección de la velocidad óptima y la atención dedicada, pueda percibir a tiempo las señales de los señales válidas para la maniobra, cuya visibilidad corresponde al § 7 apartado 1 del Decreto n.º 173/1995 Sb. El maquinista que no conoce la ruta de la maniobra tampoco puede cumplir las disposiciones del art. 1750 b), 1753 g) y otros artículos análogos de las SŽDC D1, que le imponen comprobar si la ruta de la maniobra está establecida correctamente según sus requisitos y, si no lo está, detenerse. Otra información útil que el maquinista pudo obtener del jefe de estación era la necesidad de completar toda la maniobra solo tras la entrada del tren Sv 6095 en la 7.ª SK, como suele ocurrir en la práctica si se realiza la comunicación prescrita. Cabe señalar que la obligación de esta comunicación no está establecida por el reglamento y, si se realiza, el empleado que organiza el tráfico ferroviario actúa voluntariamente más allá de sus obligaciones. El maquinista del elemento de maniobra no tenía por qué ser informado por el despachista de línea de que la parte establecida de la ruta de maniobra terminaba en la señal no transmisible Se16 con la señal «Maniobra prohibida», ya que en el art. 1678 del reglamento SŽDC D1 se indica: «Si el operador de agujas no puede establecer de una vez toda la ruta de maniobra solicitada, y la parte establecida de la ruta de maniobra no termina en una señal no transmisible válida para la maniobra, debe siempre, antes del consentimiento para la maniobra, informar al empleado que dirige la maniobra o al jefe de la cuadrilla de maniobras, si está encargado de acordar la maniobra, sobre el punto de finalización de la ruta de maniobra y, en su caso, acordar con él el procedimiento a seguir».
 
-
 ## Página 46
+
 
 Fig. n.º 8: Hora 00.03.17 h – iluminación de la señal «Maniobra permitida» en la señal Se20
        Fuente: DI
@@ -1440,8 +1394,8 @@ La razón pudo haber sido la radio silenciada, lo que sin embargo no pudo probar
 Solo consta una queja oficial por la mala calidad del sonido registrada ante el gestor de la infraestructura (véase el punto 3.4.3 de la presente ZZ). Los maquinistas de ČD del centro de explotación de Česká Lípa no indicaron en sus registros con el empleado que hubieran comunicado la avería a nadie. Tampoco el operador presentó ningún registro de la comunicación de dicha avería. Esto es fundamentalmente incorrecto. Deficiencias similares deben comunicarse siempre (e incluso repetidamente) mediante el procedimiento establecido, para que sean verificadas y eliminadas. De lo contrario, una avería no eliminada a largo plazo puede llevar a hábitos indeseables y a un comportamiento rutinario, como por ejemplo el silenciamiento o la apagada de la radio mencionados anteriormente. La resolución de averías, sugerencias, etc., comunicadas por los empleados es entonces tarea del empleador, quien debería tenerlas en cuenta y utilizarlas para el desarrollo de la seguridad.
 Con este motivo es necesario señalar que el estado de la llamada Cultura de la Seguridad no está todavía en un buen nivel en la República Checa. El concepto de Cultura de la Seguridad ya no se entiende en muchos otros países como la mera unión formal de dos palabras de significado indeterminado, por el contrario, la Cultura de la Seguridad debe percibirse como un asunto programático y precisamente el aumento de su
 
-
 ## Página 47
+
 
 nivel fue una de las razones para la revisión de la Directiva 2004/49/CE sobre seguridad ferroviaria. En la nueva Directiva (UE) 2016/798 sobre seguridad ferroviaria, del contexto de las disposiciones relativas directamente al sistema de gestión de la seguridad se deduce que los gestores de la infraestructura y los operadores deberían, a través del sistema de gestión de la seguridad, fomentar una cultura de confianza mutua, certeza y aprendizaje, en la que se inste a los empleados a contribuir al desarrollo de la seguridad garantizando la confidencialidad. Esta relación entre la dirección de la gestión, que debería ser responsable de la seguridad, y los empleados de la explotación, es conocida desde la perspectiva europea bajo el término de cultura justa (equitativa). Se trata de una relación en la que los empleados de explotación no deben temer ser castigados, sancionados de alguna manera o acusados por los hechos que comunican, ya se refieran a la actividad realizada, a una posible omisión o a una decisión que, ante la existencia de una brecha de seguridad hasta entonces desconocida, pudiera haber llevado o haya llevado a una situación peligrosa. Al mismo tiempo, sin embargo, no debe tolerarse la negligencia grave ni ninguna infracción intencionada y consciente de las normas establecidas. Es necesario ser conscientes de que precisamente los empleados de la explotación son, a la hora de identificar los posibles peligros y riesgos, el elemento de seguridad más importante, y de que precisamente la correcta configuración de la cultura justa facilita la comunicación de posibles situaciones peligrosas.
 El maquinista del elemento de maniobra posteriormente no respetó la señal «Maniobra prohibida» en la señal Se16, al no percibirla a tiempo y no actuar según los hechos constatados, ya que aplicó el frenado de acción rápida solo a las 00.04.30 h a una distancia de 29 m antes de la señal Se16, rebasó esta señal en esta posición a las 00.04.33 h y, tras 41 m, a las 00.04.40 h se detuvo en el espacio de la aguja n.º 22b, justo antes de sus lengüetas, con lo que se produjo una amenaza directa a la ruta de tren establecida para el tren Sv 6095. El maquinista del elemento de maniobra no se detuvo antes de la señal Se16 con la señal «Maniobra prohibida», en contra del art. 329, 1545, 1750 letra a), 1753 letra a) de las SŽDC D1, del art. 23 letra c) de las ČD V2 y de la disposición del § 35 apartado 1 letra f) del Decreto n.º 173/1995 Sb. En la declaración con el empleado y la presentación de explicaciones ante la PČR, el maquinista indicó, entre otras cosas, que es consciente de que como empleado que dirige la maniobra no acordó la maniobra según los procedimientos tecnológicos y la inició sin la autorización concedida por el jefe de estación, es decir, la inició únicamente sobre la base de la iluminación de la señal «Maniobra permitida» en la señal L2 o, en su caso, Se20. Asimismo, indicó que es plenamente consciente de que rebasó la señal Se16 en la posición que prohíbe la circulación.
@@ -1449,8 +1403,8 @@ La visibilidad de la señal Se16 era de más de 100 m y no estaba obstruida por 
 El SZZ está equipado con la funcionalidad de alerta de rebasamiento no autorizado de la señal principal (es decir, no de las señales de clasificación) vinculada al TRS sin señalización acústica exterior. Las señales de clasificación no están equipadas con esta funcionalidad.
 Como el maquinista del elemento de maniobra no confirmó de ninguna manera al jefe de estación la información sobre la detención en el «Pequeño ascensor», el jefe de estación, según su declaración, buscó su número de teléfono en la aplicación electrónica del sistema de información. De repente oyó un sonido incomprensible en la radio, miró la pantalla del SZZ y vio el tramo ocupado de la aguja n.º 22a/b. No se produjo la apertura de la aguja, por lo que no sonó la campana de apertura. En ese momento, el jefe de estación, según su declaración, creyó que era el tren entrante Sv 6095, pero al mismo tiempo intuyó que algo no estaba bien.
 
-
 ## Página 48
+
 
 Fig. n.º 9: Hora 00.04.35 h – rebasamiento de la señal Se16 por el elemento de maniobra                                                 Fuente: DI
 En la red MRS (STE2) se estaba produciendo realmente desde las 00.04.44 h una comunicación, o mejor dicho, intentos de la misma. Los primeros 17 s solo registran la pulsación de la tecla, a las 00.05.01 h el jefe de estación intentó averiguar mediante una consulta dónde se encontraba exactamente el elemento de maniobra. El maquinista del elemento de maniobra no reaccionó a esto, por el contrario, preguntó por la posición de la aguja; en cualquier caso, el maquinista no comunicó de forma del todo clara que se había rebasado la señal que prohíbe la circulación (véase el punto 3.5.2 de la presente ZZ). El jefe de estación, sin embargo, lo evaluó y posteriormente, desde las 00.05.15 h, intentó sin éxito detener el tren Sv 6095 llamando en el mismo canal (véase el punto 3.5.2 de la presente ZZ). Al jefe de estación no le fue posible detener el tren Sv 6095, porque el maquinista del tren Sv 6095 tenía sintonizada la red de radio TRS de acuerdo con los procedimientos tecnológicos del gestor de la infraestructura, la escucha de MRS no estaba activa. Toda la comunicación, o en su caso los intentos de comunicación, se realizaron en la red STE2 sin la previa conexión en la red VOS, lo que estaba en contra de las disposiciones del art. 9.11.8.2 del Reglamento de Explotación MRS PO Liberec. No se cumplieron las normas para el uso de las radios en el sentido de los arts. 28 y 29 del reglamento SŽDC (ČD) Z11, al no ser la comunicación especialmente concisa y con un contenido claro del mensaje (respuesta a la consulta del jefe de estación), lo que contribuyó a la emisión tardía de la orden de detención. El jefe de estación no utilizó la función GS, es decir, no adoptó todas las medidas para evitar el peligro, en contra del art. 272 de las SŽDC D1 y del art. 53 de las SŽDC (ČD) Z1 (análisis de la secuencia temporal y uso del TRS, véase más abajo).
@@ -1458,6 +1412,7 @@ A las 00.05.27 h, a pesar de la aplicación del frenado de acción rápida, se p
 El análisis detallado de las faltas de los empleados implicados se indica también en el punto 3.5.1 de la presente ZZ.
 
 ## Página 49
+
 
 ### Análisis de la secuencia temporal y del uso de TRS
 desde las 00.04.35 h el dispositivo de señalización indicó el paso de una señal (véase Fig. n.º 9).
@@ -1479,8 +1434,8 @@ esta afirmación del jefe de estación debe rechazarse, el jefe de estación deb
 ◦
 consciente de la colisión inminente, adoptar todas las medidas para evitar el peligro en el sentido del art. 272 SŽDC D1, y de conformidad con el art. 53 SŽDC (ČD) Z11 presumir que el
 
-
 ## Página 50
+
 
 vehículo de tracción está equipado con un dispositivo funcional para detener el tren, e intentar
 ### detener el tren Sv 6095 mediante el uso de TRS enviando la orden codificada «STOP»
@@ -1512,8 +1467,8 @@ encuentran al alcance de la estación base de radio TRS correspondiente y que es
 ŠUCHA, M., REHNOVÁ, V., KOŘÁN, M., ČERNOCHOVÁ, D.: Dopravní psychologie pro praxi.
 Praga: Grada, 2013. ISBN 978-80-247-411-0
 
-
 ## Página 51
+
 
 ◦cada una de estas operaciones lleva un tiempo determinado y, incluso en caso de actuación rápida por parte del jefe de estación, esta operación, desde el momento de la detección del peligro hasta el envío de la orden codificada GS, habría durado unos 5 s;
 ◦el envío de la orden codificada GS pudo producirse por tanto como más tarde a las 00.04.50 h.
@@ -1527,8 +1482,8 @@ donde: v0 es la velocidad inicial dada del tren Sv 6095 → v = 49 km·h-1 = 13,
 a la desaceleración media calculada desde la velocidad dada vmax → a = 1,36 m·s-2;
 Para determinar el tiempo necesario para la parada del tren mediante el envío de la orden codificada GS es necesario añadir también la actuación del jefe de estación (tiempo de reacción, operación del dispositivo), el tiempo llamado «retraso» del freno y el tiempo de establecimiento del freno. El proceso de parada del DV mediante el envío de la orden codificada GS se representa en el gráfico.
 
-
 ## Página 52
+
 
 recepción GS
 tv
@@ -1557,8 +1512,8 @@ tmin = tp + tn + tb = 1 + 3 + 8,51 = 12,51 s
 smin = sp + sn + sb = 13,61 + 37,77 + 49,22 = 100,61 m 
  101 m
 
-
 ## Página 53
+
 
 Proceso de parada del vehículo GS:
 ## ≐
@@ -1579,28 +1534,28 @@ Al utilizar el retroceso del suceso del accidente y la posterior modelación de 
 ## Página 54
 
 ### 4.3 Conclusiones
-4.3.1 Causas directas e inmediatas del suceso, incluidos los factores que contribuyeron al mismo y que estuvieron relacionados con la actuación de las personas implicadas o con el estado del material rodante o de las instalaciones técnicas
+4.3.1 Causas directas e inmediatas del suceso, incluidos los factores que contribuyeron al mismo y que estuvieron relacionados con la actuación de las personas implicadas o con el estado de los vehículos ferroviarios o de las instalaciones técnicas
 La causa inmediata del suceso fue:
-• el no respeto de la señal que prohibía la maniobra en la señal Se16 por parte del maquinista del tren de maniobras.
+• el incumplimiento de la señal que prohibía la maniobra en la señal Se16 por parte del maquinista del equipo de maniobras.
 El factor que contribuyó al suceso fue:
-• la iluminación no autorizada de la señal «Maniobra permitida» en la señal Se20 por parte del jefe de estación sin la autorización previa para la maniobra;
-• la puesta en movimiento no autorizada del tren de maniobras por parte del maquinista sin autorización para la maniobra y sin informar al jefe de estación sobre la tecnología de maniobra requerida.
+• la iluminación no autorizada de la señal «Maniobra permitida» en la señal Se20 por parte del jefe de estación sin haber concedido previamente autorización para la maniobra;
+• la puesta en movimiento no autorizada del equipo de maniobras por parte del maquinista sin autorización para la maniobra y sin informar al jefe de estación de la tecnología de maniobra solicitada.
 El factor que contribuyó a la colisión fue:
-• la no utilización de la función de Parada general del equipo de radio TRS por parte del jefe de estación.
+• la no utilización de la función de parada general del equipo de radio TRS por parte del jefe de estación.
 ### 4.3.2 Causas fundamentales relacionadas con la cualificación, los procedimientos y el mantenimiento
 La causa fundamental del suceso fue:
-• el incumplimiento de los procedimientos tecnológicos del transportista y del gestor de infraestructura para la realización de maniobras por parte del maquinista del tren de maniobras, que no se ajustó a las señales dadas por el gestor de infraestructura.
+• el incumplimiento de los procedimientos tecnológicos del operador ferroviario y del gestor de la infraestructura para la realización de maniobras por parte del maquinista del equipo de maniobras, que no se atuvo a las señales emitidas por el gestor de la infraestructura.
 ### 4.3.3 Causas originadas en el marco jurídico y en el uso del sistema de garantía de la seguridad
 No se detectaron causas originadas en el marco jurídico y en el uso del sistema de garantía de la seguridad.
 ### 4.4 Hallazgos complementarios
 4.4.1 Deficiencias y omisiones detectadas durante la investigación que no se refieren a las conclusiones sobre las causas
-Por parte del gestor de infraestructura SŽDC:
-• El jefe de estación, en contra de lo dispuesto en el art. 114 del Reglamento de Circulación de la estación Česká Lípa hl. n., concedió la autorización para una maniobra perturbadora que, dada la circulación del tren Sv 6095, estaba prohibida.
-◦ art. 114 del Reglamento de Circulación de la estación Česká Lípa hl. n.:
-«Para todos los tipos de trenes y en todas las direcciones, la maniobra debe finalizarse y la vía de tren liberarse 5 minutos antes de la llegada calculada del tren.»;
-
+En el gestor de la infraestructura SŽDC:
+• el jefe de estación, en contra de lo dispuesto en el art. 114 del Reglamento de la estación Česká Lípa hl. n., concedió la autorización para una maniobra que, dada la circulación del tren Sv 6095, estaba prohibida.
+◦ art. 114 del Reglamento de la estación Česká Lípa hl. n.:
+«Para todos los tipos de trenes y en todos los sentidos debe finalizar la maniobra y liberarse la vía de tren 5 minutos antes de la llegada calculada del tren.»;
 
 ## Página 55
+
 
 • En las evaluaciones de este y de sucesos similares, el gestor de infraestructura indica: «No es necesario que el gestor de infraestructura adopte medidas con motivo de este suceso, debido a la causa y a la responsabilidad por su origen, que reside fuera de él». De este modo, omite la infracción de las disposiciones reglamentarias por parte de sus empleados, que son circunstancias del origen del suceso y respecto a las cuales, por tanto, con base en el § 49 apartado 3 letra d) de la Ley n.º 266/1994 Sb. y en el § 10 apartado 5 letra j) del Decreto n.º 376/2006 Sb., sin duda alguna debería haber adoptado medidas.
 Por parte del transportista ČD:
@@ -1619,8 +1574,8 @@ La Inspección Ferroviaria, con base en lo dispuesto en el § 53e apartado 1 de 
 ### Al Organismo Ferroviario:
 • En el marco de la monitorización del estado de seguridad y de su propia actividad de control, centrarse en el cumplimiento de las normas establecidas en la organización y realización de maniobras, incluida la comunicación radio de los distintos empleados implicados, y en la actividad de control de los gestores de infraestructura y de los transportistas referida a este ámbito;
 
-
 ## Página 56
+
 
 • Garantizar el aumento de la actividad de control relativa al cumplimiento de las normas establecidas en la organización y realización de maniobras, incluida la comunicación radio, por parte de los gestores de infraestructura y de los transportistas implicados.
 El sentido de la recomendación de seguridad mencionada anteriormente es, en interés de la prevención de sucesos, alertar al organismo nacional de seguridad sobre los posibles riesgos que se generan en la organización y realización de maniobras, en particular sobre el incumplimiento de las disposiciones de los arts. 1687, 1692 (análogamente 1709), 1744 y 1745 de la norma interna D1 del gestor de infraestructura SŽDC, del art. 58 de la norma interna Z1 del gestor de infraestructura SŽDC y de las disposiciones de la norma interna Z11 del gestor de infraestructura SŽDC referidas a la comunicación radio durante las maniobras, e invitar al organismo nacional de seguridad a que adapte a ello su propia actividad de control y, a la vez, garantice el aumento de la actividad de control en este ámbito por parte de los gestores implicados.
@@ -1643,14 +1598,14 @@ Inspector
 Encargado de la dirección del establecimiento de Praga
 De la Inspección Territorial de Bohemia
 
-
 ## Página 57
+
 
 ## 7 ANEXOS
 Fig. n.º 13: Fotografía del monitor del archivo JOP – llegada del Os 6618               Fuente: SŽDC, modificado por DI
 Fig. n.º 14: Origen de la colisión captado por el sistema de cámaras            Fuente: SŽDC, modificado por DI
 
-
 ## Página 58
+
 
 Fig. n.º 15: Vista de la cabina del maquinista del tren de maniobras                    Fuente DI

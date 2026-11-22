@@ -10,13 +10,14 @@ chars: 123697
 ratio_longitud: 1.25
 tokens_in: 56583
 tokens_out: 39970
-verificacion: revisar
-notas_cifras: ["bloque 1: original bilingüe: se compara contra el idioma principal (EN)", "bloque 3: cifras largas: 2/138; cifras cortas: 4/240", "bloque 4: cifras largas: 4/94; cifras cortas: 4/246", "bloque 5: cifras largas: 6/61", "bloque 6: original bilingüe: se compara contra el idioma principal (CS)", "bloque 8: original bilingüe: se compara contra el idioma principal (CS); cifras cortas: 7/103"]
-avisos: ["bloque 9: ratio 1.68"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 3: original bilingüe: se compara contra el idioma principal (CS)", "página 4: original bilingüe: se compara contra el idioma principal (CS)", "página 7: original bilingüe: se compara contra el idioma principal (CS)", "página 8: original bilingüe: se compara contra el idioma principal (CS)", "página 11: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -41,13 +42,13 @@ IČ: 75009561
 mail@dicr.cz
 tel.: +420 736 521 003
 
-
 ## Página 2
+
 
 Este informe final es público y todos los hechos en él expuestos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ## 1 Resumen
 Fuente: Drážní inspekce
@@ -75,8 +76,8 @@ activa en la señal de salida correspondiente a su vía.
 No fue detectado por la Drážní inspekce ningún factor contribuyente.
 No fue detectada por la Drážní inspekce ninguna causa sistémica.
 
-
 ## Página 4
+
 
 Recomendaciones de seguridad:
 La Drážní inspekce, con base en lo dispuesto en el § 53e apartado 1 de la Ley n.º 266/1994 Sb., recomienda, en relación con la prevención de sucesos ferroviarios:
@@ -92,8 +93,8 @@ adoptar medidas que garanticen que los propietarios y gestores de la infraestruc
 •
 adoptar medidas que garanticen que los transportistas reduzcan en la mayor medida posible el tiempo de equipamiento de los vehículos ferroviarios correspondientes con las partes a bordo del sistema ETCS (acorten el llamado periodo de migración).
 
-
 ## Página 5
+
 
 ## SUMMARY
 14th July 2021, 17:23 (15:23 GMT).
@@ -147,8 +148,8 @@ to take measure to ensure that railway owners and infrastructure managers, durin
 infrastructure reconstructions, preserve to the maximum extent possible preserve
 the transmission of the code of the LS type automatic train control (in the original
 
-
 ## Página 6
+
 
 scope) until the instalation of exclusive operation under the supervision of
 the automatic train control ETCS;
@@ -164,8 +165,8 @@ to take measure to ensure that railway undertakings reduce the time of equipping
 the relevant rolling stocks with on-board parts of the ETCS system to the maximum
 extent possible (shorten the so-called migration period).
 
-
 ## Página 7
+
 
 # Índice
 1 Resumen........................................................................................................................3
@@ -209,6 +210,7 @@ SUMMARY.........................................................................
 
 ## Página 8
 
+
 4.2.2 Factores o consecuencias derivados de la instalación y puesta en servicio de vehículos ferroviarios, infraestructura ferroviaria o instalación técnica......................................................................33
 4.2.3 Factores o consecuencias relacionados con fabricantes de vehículos ferroviarios u otro proveedor de productos ferroviarios............................................................................33
 4.2.4 Factores o consecuencias derivados del mantenimiento y modificación de vehículos ferroviarios o instalaciones técnicas....................................................................................................33
@@ -238,8 +240,8 @@ y talleres de mantenimiento.....................................................
 6 RECOMENDACIONES DE SEGURIDAD.....................................................................................43
 ANEXOS..............................................................................................................................45
 
-
 ## Página 9
+
 
 ### Lista de siglas y símbolos utilizados
 ARR
@@ -329,8 +331,8 @@ Informe Final sobre los resultados de la investigación del suceso extraordinari
 žst.
 estación ferroviaria
 
-
 ## Página 10
+
 
 ### Lista de siglas de la legislación, normas y reglamentos internos utilizados
 ley núm. 266/1994 Sb.
@@ -383,8 +385,8 @@ reglamento interno del transportista ČD, «ČD V2 Reglamento
 para las tripulaciones de locomotora», en la redacción
 vigorosa en el momento de producirse el SU
 
-
 ## Página 11
+
 
 ## 2 LA INVESTIGACIÓN Y SU CONTEXTO
 ### 2.1 Decisión de iniciar la investigación
@@ -426,8 +428,8 @@ implicados, las instalaciones técnicas y la infraestructura de la vía;
 •
 análisis de las declaraciones con los empleados implicados;
 
-
 ## Página 12
+
 
 •
 obtención de los registros disponibles de comunicación de voz y de datos
@@ -481,6 +483,7 @@ Coordenadas GPS:
 
 ## Página 13
 
+
 ### 3.1.3 Descripción del lugar del suceso
 La estación ferroviaria de Poříčany se situaba en el pk 371,094 de la línea de ferrocarril de interés general Kolín – Praha-Libeň y simultáneamente en el pk 1,141 de la línea de ferrocarril de interés general Nymburk hlavní nádraží – Poříčany.
 El tramo intermedio adyacente en dirección a la est. Český Brod era de tres vías, en dirección a la est. Pečky de dos vías y en dirección a la est. Sadská de una vía.
@@ -496,8 +499,8 @@ la vía en el lugar de origen del SU se encontraba en terreno llano, en curva a 
 •
 desde el punto de vista del conductor del tren detenido junto al andén en la 6.ª vía de estación, en el extremo de Český Brod, al fondo y detrás de las señales L6 y L8, había una vivienda familiar de color beige y árboles (véase la fig. 6 del anexo);
 
-
 ## Página 14
+
 
 •
 los desvíos n.º 46, 48, 49 y 54 estaban dispuestos para la circulación del tren R 924 desde la 4.ª vía de estación hacia la 2.ª vía de línea en dirección a la est. Český Brod;
@@ -535,8 +538,8 @@ en el monitor JOP del SZZ en la sala de tráfico de la est. Poříčany se indic
 •
 el análisis del archivo del SZZ se indica en el capítulo 3.1.8.
 
-
 ## Página 15
+
 
 Estado de los vehículos ferroviarios:
 ### Tren Os 9344
@@ -572,8 +575,8 @@ el tren estaba equipado con mensaje permanente de frenado;
 •
 no se produjo daño en el DV del tren Os 9344.
 
-
 ## Página 16
+
 
 ### Tren R 924
 •
@@ -604,8 +607,8 @@ horario diurno, despejado, seco, +23 °C, viento
 moderado, visibilidad no reducida, posición del sol
 en el momento de la aparición del SU en la fig. 5 del anexo.
 
-
 ## Página 17
+
 
 Datos geográficos:
 la est. Poříčany se encuentra en terreno
@@ -645,8 +648,8 @@ conductor del tren Os 9344, empleado de ČD;
 •
 conductor del tren R 924, empleado de ČD.
 
-
 ## Página 18
+
 
 Entidades participantes:
 El propietario del ferrocarril, categoría de interés general, Kolín – Praha-Libeň, era la República Checa. El derecho de administrar los bienes del Estado lo ejercía SŽ, con domicilio en Dlážděná 1003/7, Praha 1, PSČ 110 00.
@@ -679,6 +682,7 @@ De los datos registrados se desprende:
 | 17:23:46 | 0199 , | 46 | presión en la HP por debajo de 3 bar |
 
 ## Página 19
+
 
 | 17:23:46 | 0207 , | 46 | paso del tren por la señal L6 pk 371,398 , |
 | 17:23:47 | 0212 , | 44 | inicio de la disminución de velocidad |
@@ -724,8 +728,9 @@ de un error administrativo del transportista, que fue subsanado con posteriorida
 |  |  | 7 TDV . | 51543941034 8 - | R |
 | Modo de frenado: | I . |  |  |  |
 
-
 ## Página 20
+
+
 El HDV 162 012-9 estaba equipado, en el momento de producirse el AM, con un
 dispositivo electrónico de registro automático de datos tipo Metra LT, n.º 3500.
 De los datos registrados se desprende:
@@ -773,59 +778,54 @@ est. Kolín, o localmente desde la est. Poříčany. En el momento de producirse
 circulación en el ámbito de la est. Poříčany estaba controlada a distancia desde el CDP
 Praha.
 
-
 ## Página 21
-La visibilidad de la indicación «Alto» de la señal L6 estaba garantizada al menos a una
-distancia de 240 m, lo que estaba conforme con el § 7 del decreto 173/1995 Sb. Las
-indicaciones de las señales principales deben ser visibles desde un vehículo ferroviario
-de mando detenido al menos a una distancia de 100 m y desde un vehículo ferroviario de
-mando circulando a la velocidad máxima permitida al menos durante 12 s. El tiempo de
-visibilidad puede reducirse hasta 7 s, entre otros, en la señal de salida o en la señal de
-tráfico al final de la vía en la estación. Con una velocidad máxima permitida de 50
-km·h-1 y un tiempo de visibilidad requerido de la señal de salida de 7 s, la distancia
-mínima requerida de visibilidad de la señal en cuestión es de 97 m, respectivamente 100 m.
-La tensión en el filamento de la luz roja se midió en 10,2 V, siendo el valor mínimo
-prescrito de 10,2 V (según el art. 122 letra d) de la norma SŽDC T121).
-Del análisis de los datos registrados por el ordenador tecnológico n.º 3 del SZZ de la est.
-Poříčany, tras tener en cuenta la desviación temporal entre la hora registrada por el SZZ
-y la hora real, se constató, entre otros:
-Hora tras la
+
+La visibilidad de la señal «Alto» de la señal L6 estaba garantizada al menos a una distancia de 240 m, lo que
+estaba en consonancia con el § 7 del decreto nº 173/1995 Sb. Las señales de los señales principales deben ser
+visibles desde un vehículo ferroviario de mando detenido al menos a una distancia de 100 m
+y desde un vehículo ferroviario de mando circulando a la velocidad máxima permitida al menos durante
+12 s. El tiempo de visibilidad puede reducirse hasta 7 s, entre otros, en el caso de la señal de salida o
+de la señal de vía al final de la vía en la estación. Con una velocidad máxima permitida de 50 km·h-1
+y un tiempo de visibilidad requerido de la señal de salida de 7 s, la distancia mínima requerida de
+visibilidad de la señal en cuestión es de 97 m, respectivamente 100 m.
+El voltaje en el filamento de la luz roja se midió en 10,2 V, siendo el valor mínimo prescrito
+10,2 V (según el art. 122 letra d) de la norma SŽDC T121).
+Del análisis de los datos registrados por el ordenador tecnológico nº 3 SZZ de la est. Poříčany se constató,
+tras tener en cuenta la desviación temporal entre el tiempo registrado por el SZZ y el tiempo real,
+entre otros:
+Hora tras
 Descripción de los estados seleccionados registrados por el SZZ
-corrección (h)
-el despachador de línea (desde el ordenador de entrada n.º 4) introdujo la orden para
+la corrección (h)
+el despachador de línea (desde el ordenador de entrada nº 4) introdujo la orden para establecer la ruta de tren
 17:06:35
-establecer la ruta de tren desde la señal 1S a la 6.ª vía para el tren Os 9343;
-establecida la ruta de tren desde la señal 1S a la 6.ª vía para el tren Os 9343, en la señal
+desde la señal 1S a la 6. SK para el tren Os 9343;
+establecida la ruta de tren desde la señal 1S a la 6. SK para el tren Os 9343, en la señal 1S
 17:07:00
-1S indicación «Velocidad 40 km/h y aviso»;
+señal «Velocidad 40 km/h y aviso»;
 17:09:13
-el tren Os 9343 recorrió la ruta de tren desde la señal 1S a la 6.ª vía (estaba íntegro en la
-6.ª vía);
+el tren Os 9343 recorrió la ruta de tren desde la señal 1S a la 6. SK (estaba íntegro en la 6. SK);
 17:11:50
-establecida la ruta de tren desde la señal NL a la 8.ª vía para el tren Nex 53992;
+establecida la ruta de tren desde la señal NL a la 8. SK para el tren Nex 53992;
 17:19:55
-encendida la indicación «Vía libre» en la señal de sección Lo AH (en pk 3,653) para el
-tren R 924;
+encendida la señal «Vía libre» en la señal de sección Lo AH (en km 3,653) para el tren R 924;
 17:20:29
-el tren R 924 ocupó el tramo situado tras la señal de sección Lo AH (en pk 3,653);
+el tren R 924 ocupó el tramo situado tras la señal de sección Lo AH (en km 3,653);
 17:21:22
-el tren Nex 53992 recorrió la ruta de tren desde la señal NL a la 8.ª vía (estaba íntegro
-en la 8.ª vía);
-el despachador de línea introdujo la orden para establecer la ruta de tren desde la señal
+el tren Nex 53992 recorrió la ruta de tren desde la señal NL a la 8. SK (estaba íntegro en la 8. SK);
+el despachador de línea introdujo la orden para establecer la ruta de tren desde la señal NL a la 4. SK para el tren
 17:21:28
-NL a la 4.ª vía para el tren R 924;
-establecida la ruta de tren desde la señal NL (en pk 1,390 = 369,736) a la 4.ª vía para el
+R 924;
+establecida la ruta de tren desde la señal NL (en km 1,390 = 369,736) a la 4. SK para el tren R 924,
 17:21:44
-tren R 924, en la señal NL indicación «Aviso»;
-el despachador de línea introdujo la orden para establecer la ruta de tren desde la señal
+en la señal NL, señal «Aviso»;
+el despachador de línea introdujo la orden para establecer la ruta de tren desde la señal L4 a la 2. TK en dirección
 17:21:58
-L4 a la 2.ª vía de vía doble en dirección a la est. Český Brod para el tren R 924;
-establecida la ruta de tren desde la señal L4 a la 2.ª vía de vía doble en dirección a la est.
+a la est. Český Brod para el tren R 924;
+establecida la ruta de tren desde la señal L4 a la 2. TK en dirección a la est. Český Brod para el tren
 17:22:13
-Český Brod para el tren R 924, en la señal L4 indicación «Velocidad 60 km/h y vía
-libre»
-el cambio del símbolo de indicación de la señal NL a la indicación «Espere velocidad 60
-km/h» no es acreditable a partir del registro del SZZ;
+R 924, en la señal L4, señal «Velocidad 60 km/h y vía libre»
+el cambio del indicador de señal de la señal NL a la señal «Espere velocidad 60 km/h» no es
+acreditable por el registro del SZZ;
 17:22:29
 el tren R 924 ocupó el tramo NLK (tramo entre las señales NL y Se8);
 17:22:48
@@ -837,17 +837,17 @@ el tren R 924 ocupó el tramo (de aguja) V12;
 17:23:20
 el tren R 924 ocupó el tramo (de aguja) V15;
 17:23:29
-el tren R 924 ocupó el tramo 4.ª vía (tramo entre las señales S4 y L4);
+el tren R 924 ocupó el tramo 4. SK (tramo entre las señales S4 y L4);
 17:23:44
-el tren R 924 liberó el tramo (de aguja) V15 y entró íntegro en la 4.ª vía;
+el tren R 924 liberó el tramo (de aguja) V15 e entró íntegro en la 4. SK;
 17:23:48
 el tren Os 9344 ocupó el tramo (de aguja) V44 (tras la señal L6);
 17:23:50
-en la señal L4 se apagó la indicación que permitía la circulación y se encendió la
-indicación «Alto».
-
+en la señal L4 se apagó la señal que autoriza la circulación y se encendió la señal «Alto».
 
 ## Página 22
+
+
 Del análisis de los datos descargados del SZZ se desprende que el dispositivo
 presentaba un funcionamiento normal y que su estado técnico y su modo de operación no
 guardaban relación causal con la aparición del AM.
@@ -858,8 +858,8 @@ Fig. n.º 4: Captura del esquema del archivo del SZZ de la est. Poříčany – 
 dirección a la est. Pečky
 Fuente: DI
 
-
 ## Página 23
+
 
 ### 3.1.9 Cualquier otra información relevante a efectos de la descripción del suceso y de la información básica
 Resumen de las explicaciones aportadas por los empleados del gestor de la
@@ -912,32 +912,32 @@ despacho 4B del CDP Praha;
 
 ## Página 24
 
-◦v 17:24 h (nota DI: 17:23:48 h) reaccionó el «dispositivo VNPN» al paso de la señal de salida L6 en posición que prohíbe la circulación del tren Os 9344, y con ello se produjo el cambio de la señal L4 a la señal que prohíbe la circulación;
-◦ante la situación reaccionó utilizando la función «PARO GENERAL»;
-◦se notificó la MU según el plan de notificación.
+◦a las 17:24 h (nota DI: 17:23:48 h) el "dispositivo VNPN" reaccionó al paso de la señal de salida L6 en posición que prohíbe la circulación del tren Os 9344, y con ello se produjo el cambio de la señal L4 a señal que prohíbe la circulación;
+◦ante dicha situación reaccionó mediante la función "PARO GENERAL";
+◦se notificó a la MU según el horario de notificación.
 ### 3.2 Descripción fáctica del suceso
-### 3.2.1 Secuencia de hechos que condujeron al suceso extraordinario
-En la est. Poříčany se estaban realizando trabajos de construcción conforme a la ROV 63161, habiéndose excluido la vía de estación 0.ª y 2.ª y parte de la cabecera en dirección a la est. Pečky. Durante la reconstrucción de la est. Poříčany, los circuitos de vía fueron sustituidos por contadores de ejes. La parte de línea del protector de trenes de clase B (sistema LS) fue desconectada – no se garantizó la transmisión del código al repetidor de señal de la parte móvil del protector de trenes en el vehículo de circulación principal.
-| Tiempo de corrección (h) | Descripción de los estados seleccionados registrados por el SZZ o los registradores rápidos del DV |
-| 17:09:40 h | el tren Os 9343 (desde la est. Praha Masarykovo n.) se detuvo en la 6.ª vía de estación de la est. Poříčany; ... debido a la intervención en curso conforme a la ROV 63161, el tren Os 9343 finalizó su circulación en la est. Poříčany; ... con el material se formó el tren Os 9344 (hacia la est. Praha Masarykovo n.); ... |
-| 17:16:00 h | el maquinista del tren Os 9344, tras cambiar de puesto, activó el mando desde el puesto en el extremo ŘV 971 071-6; - |
-| 17:20 h | hora de salida regular del tren Os 9344 de la est. Poříčany; . |
-| 17:22:13 h | se estableció la ruta de tren desde la señal L4 en la 2.ª vía de estación en dirección a Český Brod para el tren R 924; ... en la señal L4, señal «Velocidad 60 km/h y libre»; |
-| 17:22:26 h | el tren R 924 pasó la señal de entrada NL de la est. Poříčany en el km 369,704 con la señal «Espere velocidad 60 km/h»; |
+### 3.2.1 Secuencia de hechos que condujeron al suceso excepcional
+En la estación de Poříčany se estaban realizando obras de construcción conforme a la ROV 63161, habiéndose excluido la vía de estación 0. y 2. y parte de la cabecera en dirección a la estación de Pečky. Durante la reconstrucción de la estación de Poříčany, los circuitos de vía fueron sustituidos por contadores de ejes. La parte de línea del tren de seguridad de clase B (sistema LS) fue desconectada – no se garantizó la transmisión del código al repetidor de señal de la parte móvil del tren de seguridad en el vehículo ferroviario motriz.
+| Hora de corrección (h) | Descripción de los estados seleccionados registrados por el SZZ o los velocímetros DV |
+| 17:09:40 h | el tren Os 9343 (desde la estación de Praha Masarykovo n) se detuvo en la 6 SK en la estación de Poříčany; . . . . debido a la vía en servicio en curso conforme a la ROV 63161, el tren Os 9343 puso fin a su circulación en la estación de Poříčany . con el material rodante se formó el tren Os 9344 (hacia la estación de Praha Masarykovo n); . . |
+| 17:16:00 h | el maquinista del tren Os 9344, tras cambiar de puesto, activó el mando desde el puesto en la cabecera del ŘV 971071 6; - |
+| 17:20 h | hora de salida regular del tren Os 9344 de la estación de Poříčany; . |
+| 17:22:13 h | se estableció la ruta ferroviaria desde la señal L4 en la 2 TK dirección Český Brod para el tren R 924 . , en la señal L4 la señal "Velocidad 60 km/h y libre"; |
+| 17:22:26 h | el tren R 924 pasó la señal de entrada NL de la estación de Poříčany en el km 369704 con la señal "Espere" . , "velocidad 60 km/h"; |
 | 17:23:20 h | salida del tren Os 9344; |
 | 17:23:44 h | el maquinista del tren Os 9344 aplicó el freno rápido; |
-| 17:23:46 h | el tren Os 9344 pasó indebidamente la señal L6 en el km 371,398 con la señal «Alto». |
-### 3.2.2 Secuencia de hechos desde la producción del suceso hasta la finalización de las acciones de los servicios de emergencia
-| Tiempo de corrección (h) | Descripción de los estados seleccionados registrados por el SZZ o los registradores rápidos del DV |
-| 17:23:46 h | el tren Os 9344 pasó indebidamente la señal L6 en el km 371,398 con la señal «Alto»; |
-| 17:23:48 h | el SZZ registró la circulación del tren Os 9344 tras la señal L6 con la señal «Alto» (ocupado el tramo de agujas V44); |
-| 17:23:55 h | el tren Os 9344 se detuvo con el morro en el km 371,455 en el tramo de agujas V44; |
-| 17:24:10 h | el maquinista del tren R 924 inició el frenado de servicio; |
-| 17:24:25 h | el despachante de línea CDP activó la orden PARO TREN en la red GSM-R; |
+| 17:23:46 h | el tren Os 9344 pasó indebidamente la señal L6 en el km 371398 con la señal "Alto" , ". |
+### 3.2.2 Secuencia de hechos desde la producción del suceso excepcional hasta la finalización de las acciones de los servicios de rescate
+| Hora de corrección (h) | Descripción de los estados seleccionados registrados por el SZZ o los velocímetros DV |
+| 17:23:46 h | el tren Os 9344 pasó indebidamente la señal L6 en el km 371398 con la señal "Alto"; , " |
+| 17:23:48 h | el SZZ registró la circulación del tren Os 9344 más allá de la señal L6 con la señal "Alto" (ocupado el tramo de agujas V44); |
+| 17:23:55 h | el tren Os 9344 se detuvo con el morro en el km 371455 en el tramo de agujas V44; , |
+| 17:24:10 h | el maquinista del tren R 924 inició el frenado operativo; |
+| 17:24:25 h | el despachador de línea de la CDP activó la orden STOP TREN en la red GSM-R; |
 | 17:24:29 h | caída de la válvula VZ en el HDV del tren R 924; |
 
-
 ## Página 25
+
 
 | 17:24:35 h | el tren R 924 se detuvo con el morro en el km 371,347 en la 4.ª vía de estación; . |
 | 17:25:41 h | el despachante de línea CDP contactó con el tren R 924 |
@@ -967,8 +967,8 @@ El gestor de la vía estableció los procedimientos tecnológicos de organizaci�
 Ningún tren puede salir de la estación sin despacho. En la est. Poříčany, con el mando a distancia del SZZ por el despachante desde el CDP Praha, los trenes se despachan con la señal de la señal principal que autoriza la circulación del tren.
 El gestor de la vía garantizó la visibilidad de la señal «Alto» de la señal de salida L6 y el valor de tensión requerido en el filamento de la bombilla de la luz roja.
 
-
 ## Página 26
+
 
 Activación de la orden PARO TREN por el despachante de línea
 Conforme al art. 6.5.4 del Reglamento de Explotación GSM-R, el empleado de dirección de la circulación en la función de jefe de estación, despachante director, jefe de estación DOZ o despachante de línea, en caso de amenaza
@@ -993,8 +993,8 @@ g) sobre marchas lentas, marchas lentas temporales y marchas lentas no señaliza
 ###    en   relación causal con la producción de la MU.
 ## SŽ
 
-
 ## Página 27
+
 
 ### Transportista ČD
 El transportista está obligado a garantizar que el maquinista conduzca el DV únicamente desde el puesto desde el que existe la mejor visibilidad, por lo general desde la cabina delantera del maquinista en el sentido de la marcha, que desde el DV principal observe la vía y las señales, que actúe conforme a los hechos constatados y que durante la marcha no supere la velocidad máxima permitida. Ante la señal principal (de salida) con la señal «Alto», el maquinista debe detenerse conforme a las normas jurídicas e internas.
@@ -1009,39 +1009,39 @@ Cuando, transcurridos más de 2 minutos desde la hora de salida regular del tren
 ## Página 28
 
 ### Hallazgos:
-Durante la investigación se constató la infracción de la normativa legal y de las normas internas relativas a las funciones y obligaciones del transportista ČD en relación causal con la aparición de la ME relacionada con la actividad del maquinista del tren Os 9344:
+En la investigación se constató la infracción de la normativa legal y de las normas internas relativas a las funciones y obligaciones del transportista ČD en relación causal con la aparición del MU relacionado con la actividad del maquinista del tren Os 9344:
 •
-§ 35 apartado 1 letra a) de la Ley n.º 266/1994 Sb.:
-«El transportista está obligado a explotar el transporte ferroviario de acuerdo con las reglas de explotación del transporte ferroviario, la licencia vigente y el contrato celebrado con el explotador de la infraestructura ferroviaria sobre la explotación del transporte ferroviario en la infraestructura»;
+§ 35 apartado 1 letra a) de la ley nº 266/1994 Sb.:
+"El transportista está obligado a explotar el transporte ferroviario de acuerdo con las reglas de explotación del transporte ferroviario, la licencia vigente y el contrato celebrado con el explotador de la vía para la explotación del transporte ferroviario en la vía";
 •
-§ 35 apartado 1 letra g) de la Ley n.º 266/1994 Sb.:
-«El transportista está obligado a ceñirse, durante la explotación del transporte ferroviario, a las instrucciones del explotador de la infraestructura ferroviaria impartidas al organizar el transporte ferroviario»;
+§ 35 apartado 1 letra g) de la ley nº 266/1994 Sb.:
+"El transportista está obligado a ceñirse, en la explotación del transporte ferroviario, a las instrucciones del explotador de la vía impartidas al organizar el transporte ferroviario";
 •
-§ 35 apartado 1 letra f) del Decreto n.º 173/1995 Sb.:
-«Para la conducción de un vehículo ferroviario debe garantizarse que la persona que conduce el vehículo ferroviario observe desde la cabina de mando del vehículo ferroviario la vía y las señales y actúe de acuerdo con los hechos constatados»;
+§ 35 apartado 1 letra f) del decreto nº 173/1995 Sb.:
+"Para la conducción de un vehículo ferroviario debe garantizarse que la persona que conduce el vehículo ferroviario observe desde el vehículo ferroviario de mando la vía y las señales y actúe de acuerdo con los hechos constatados";
 •
-§ 35 apartado 1 letra h) del Decreto n.º 173/1995 Sb.:
-«Para la conducción de un vehículo ferroviario debe garantizarse que la persona que conduce el vehículo ferroviario ponga en movimiento el vehículo ferroviario de tracción únicamente ante la señal «Salida» u otra autorización establecida por el explotador de la infraestructura ferroviaria, o ante la señal correspondiente para el maniobrado en la dirección establecida, con la condición de que conozca el modo y el destino de la circulación»;
+§ 35 apartado 1 letra h) del decreto nº 173/1995 Sb.:
+"Para la conducción de un vehículo ferroviario debe garantizarse que la persona que conduce el vehículo ferroviario haga entrar en movimiento el vehículo ferroviario de tracción únicamente con la señal 'Salida' o con otra autorización establecida por el explotador de la vía, o con la señal correspondiente para las maniobras en la dirección establecida, con la condición de que conozca el modo y el destino de la marcha";
 •
-§ 35 apartado 1 letra m) del Decreto n.º 173/1995 Sb.:
-«Para la conducción de un vehículo ferroviario debe garantizarse que la persona que conduce el vehículo ferroviario detenga el tren de forma segura antes del lugar señalizado»;
+§ 35 apartado 1 letra m) del decreto nº 173/1995 Sb.:
+"Para la conducción de un vehículo ferroviario debe garantizarse que la persona que conduce el vehículo ferroviario detenga el tren de forma segura antes del lugar señalizado";
 •
-artículo 1.1 del anexo n.º 1 del Decreto n.º 173/1995 Sb.:
-«Ante la señal «Alto» debe detenerse todo tren»;
+artículo 1.1 del anexo nº 1 del decreto nº 173/1995 Sb.:
+"Ante la señal 'Alto' debe detenerse todo tren";
 •
 artículo 23 letra c) de la norma ČD V2:
-«La tripulación de locomotora está obligada en particular a:
-c) observar durante la circulación del tren o durante el maniobrado la vía y la planta de vías, incluida la línea de tracción, y ceñirse a las señales»;
+"La tripulación de locomotora está obligada en particular a:
+c) observar durante la marcha del tren o durante las maniobras la vía y la vía de circulación, incluida la línea de tracción, y ceñirse a las señales";
 •
 artículo 23 letra k) de la norma ČD V2:
-«La tripulación de locomotora está obligada en particular a:
-k) cumplir todas las órdenes y disposiciones contenidas en las disposiciones de las normas, en los decretos y en las instrucciones»;
+"La tripulación de locomotora está obligada en particular a:
+k) cumplir todas las órdenes y disposiciones contenidas en las disposiciones de las normas, en los decretos y en las instrucciones";
 •
 artículo 329 de la norma SŽDC D1:
-«... El empleado al que se dirigen las señales debe garantizar las condiciones (si puede influir en ellas) para que pueda percibir las señales y ceñirse a ellas.»;
-
+"... El empleado al que se dirigen las señales debe garantizar las condiciones (si puede influir en ellas) para que pueda percibir las señales y ceñirse a ellas.";
 
 ## Página 29
+
 
 •
 artículo 652 de la norma SŽDC D1:
@@ -1068,58 +1068,56 @@ Modificaciones del estado original en el lugar de la ME
 El transportista está además obligado, entre otras cosas, a asegurar el lugar de la emergencia y a realizar la documentación del estado en el momento de la aparición de la emergencia.
 El maquinista del tren Os 9344 manipuló los elementos de mando del protector de tren y del modo de circulación (conmutador AVV) del vehículo ferroviario después de la aparición de la ME sin el consentimiento de los empleados de la Inspección Ferroviaria.
 
-
 ## Página 30
 
-Uso de vehículos ferroviarios que no se detienen automáticamente ante la orden correspondiente enviada en la red GSM-R
-Ante la orden STOP VLAK, la BTS correspondiente envía a todos los vehículos de tracción (o en su caso a los coches de mando) del área afectada la conexión grupal de emergencia NOUZE (SKP 299) y simultáneamente la orden JSM 499.
-En la conexión NOUZE (SKP 299) deben responder todas las radios de vehículo registradas en la red GSM-R de acuerdo con los requisitos obligatorios de EIRENE (establecer la conexión de emergencia), en cuyo caso, ante la orden STOP VLAK, se reproduce a través de la conexión NOUZE un mensaje automático y del altavoz de la radio de vehículo suena en el siguiente orden: una pitida de 1 s de duración, la llamada de voz del mensaje automático para la detención inmediata del tren («¡ATENCIÓN, ATENCIÓN, todos los trenes en recepción STOP, STOP!») y una pitida de 1 s de duración.
-### Mediante la orden STOP VLAK, cuando la radio de vehículo recibe simultáneamente la conexión NOUZE (SKP 299) y la orden JSM 499, puede activarse el freno automático del vehículo de tracción (o en su caso del coche de mando) en el área de la BTS correspondiente, siempre que se cumplan simultáneamente las siguientes condiciones:
-1. La tarjeta SIM GSM-R de la radio de vehículo admite la llamada unidireccional JSM 499;
-2. La radio de vehículo tiene el adaptador conectado correctamente al circuito de la válvula de freno del vehículo de tracción (o en su caso del coche de mando);
-3. La radio de vehículo debe estar dotada de un software que admita la función de activación del funcionamiento del freno automático.
-En todos los vehículos de tracción (o en su caso los coches de mando) que no cumplan las condiciones anteriores,
-### ante el uso de la orden STOP VLAK el freno automático no se activa automáticamente
-y la detención del vehículo depende únicamente de la intervención activa del maquinista en el freno.
-Los maquinistas de los trenes Os 9344 y R 924 confirmaron que escucharon la llamada para la detención del tren reproducida desde el altavoz de la radio de vehículo. La activación automática del freno automático solo se produjo en el tren R 924 (véase el punto 4.2.4 de la presente ZZ).
-El transportista ČD empleó en el tren Os 9344 (Kolín – Praha Masarykovo nádraží) vehículos ferroviarios cuyos medios técnicos no estaban conectados correctamente para que, sobre la base de la orden enviada en la red radiofónica GSM-R, garantizaran la realización de la detención automática del tren, a pesar de que en todo su recorrido existía comunicación radiofónica básica en la red GSM-R.
+Uso de DV que no se detiene automáticamente ante la orden pertinente emitida en la red GSM-R
+A la orden STOP VLAK, la BTS correspondiente enviará a todas las locomotoras (o en su caso, vagones de mando) en la zona afectada la conexión grupal de emergencia NOUZE (SKP 299) y simultáneamente la orden JSM 499.
+A la conexión NOUZE (SKP 299) deben responder todas las radiocomunicaciones de a bordo registradas en la red GSM-R de acuerdo con los requisitos obligatorios de EIRENE (establecer conexión de emergencia), por lo que a la orden STOP VLAK se reproducirá, a través de la conexión NOUZE, el mensaje automático y sonará por el altavoz de la radiocomunicación de a bordo en el siguiente orden: pitido de 1 s, aviso de voz del mensaje automático de detención inmediata del tren («¡ATENCIÓN, ATENCIÓN, todos los trenes en recepción STOP, STOP!») y pitido de 1 s.
+### Con la orden STOP VLAK, cuando la radiocomunicación de a bordo recibe simultáneamente la conexión NOUZE (SKP 299) y la orden JSM 499, es posible activar el freno automático de la locomotora (o en su caso, del vagón de mando) en   el área de la BTS correspondiente
+, siempre que se cumplan simultáneamente las siguientes condiciones:
+1. La tarjeta SIM GSM-R de la radiocomunicación de a bordo admite la llamada unidireccional JSM 499;
+2. La radiocomunicación de a bordo tiene el adaptador conectado correctamente al circuito de la válvula de freno de la locomotora (o en su caso, del vagón de mando);
+3. La radiocomunicación de a bordo debe estar equipada con un software que admita la función de activación del funcionamiento del freno automático.
+En todas las locomotoras (o en su caso, vagones de mando) que no cumplan las condiciones anteriores,
+### con el uso de la orden STOP VLAK el freno automático no se activa automáticamente
+y la detención del vehículo depende únicamente de la actuación activa del freno por parte del maquinista.
+Los maquinistas de los trenes Os 9344 y R 924 confirmaron que escucharon el aviso de detención del tren reproducido por el altavoz de la radiocomunicación de a bordo. La activación automática del freno automático solo se produjo en el tren R 924 (véase el punto 4.2.4 de la presente ZZ).
+El transportista ČD empleó en el tren Os 9344 (Kolín – Praha Masarykovo nádraží) DV cuyos medios técnicos no estaban conectados correctamente para garantizar, sobre la base del orden emitido en la red de radio GSM-R, la realización de la detención automática del tren, a pesar de que en toda su trayectoria existía conexión de radio básica en la red GSM-R.
 ### Hallazgos:
-Durante la investigación se constató la infracción de la normativa legal y de las normas internas relativas a las funciones
-### y obligaciones del transportista ČD, al margen de la relación causal con la aparición de la ME:
-Circulación del tren sin el VZ activado:
+En la investigación se constató la infracción de normativa legal y normativa interna relativa a las funciones y obligaciones del transportista ČD, al margen de la relación causal con la aparición de la MU:
+Circulación del tren con el VZ desactivado:
 •
-§ 35 apartado 1 letra a) de la Ley n.º 266/1994 Sb.:
-«El transportista está obligado a explotar el transporte ferroviario de acuerdo con las reglas de explotación del transporte ferroviario, la licencia vigente y el contrato celebrado con el explotador de la infraestructura ferroviaria sobre la explotación del transporte ferroviario en la infraestructura»;
-
+§ 35 apartado 1 letra a) de la Ley núm. 266/1994 Sb.:
+«El transportista está obligado a explotar el transporte ferroviario de acuerdo con las reglas de explotación del transporte ferroviario, la licencia vigente y el contrato celebrado con el explotador de la vía para la explotación del transporte ferroviario en la vía»;
 
 ## Página 31
 
 •
-artículo 5 de la norma SŽDC (ČD) T108:
-«La LS90 de la cabina de mando del vehículo ferroviario del tren debe estar siempre en funcionamiento y activada con el conmutador de mando en la posición «Funcionamiento» o «Puesto de conducción 1» o «Puesto de conducción 2». Esto es también aplicable a las circulaciones independientes de vehículos ferroviarios de tracción (en adelante, vehículos de tracción).»;
-Modificaciones del estado original en el lugar de la ME:
+art. 5 de la norma SŽDC (ČD) T108:
+„El LS90 del conductor del vehículo ferroviario del tren debe estar siempre en funcionamiento y activado con el conmutador de control en la posición „Provoz“ („Explotación“) o „Stanoviště 1“ („Puesto 1“) o „Stanoviště 2“ („Puesto 2“). Esto también se aplica a los desplazamientos independientes de vehículos ferroviarios de tracción (en adelante, vehículos de tracción).“;
+Modificaciones del estado original en el lugar del MU (suceso extraordinario):
 •
-§ 49 apartado 3 letra b) de la Ley n.º 266/1994 Sb.:
-«El explotador de la infraestructura ferroviaria y el transportista están obligados a:
-b) asegurar el lugar de la emergencia y realizar la documentación del estado en el momento de la aparición de la emergencia.»;
+§ 49 apartado 3 letra b) de la Ley núm. 266/1994 Sb.:
+„El explotador de la vía y el transportista están obligados a:
+b) asegurar el lugar del suceso extraordinario y realizar la documentación del estado en el momento de producirse el suceso extraordinario.“;
 •
-§ 9 apartado 3 del Decreto n.º 376/2006 Sb.:
-«Las modificaciones del estado original en el lugar de la emergencia son admisibles hasta la llegada de los órganos actuantes en el procedimiento penal y del empleado de la Inspección Ferroviaria, solo con el consentimiento del jefe de intervención de los cuerpos del sistema integrado de emergencias. …».
-Uso de vehículos ferroviarios que no se detienen automáticamente ante la orden correspondiente enviada en la red GSM-R:
+§ 9 apartado 3 del decreto núm. 376/2006 Sb.:
+„Las modificaciones del estado original en el lugar del suceso extraordinario son admisibles hasta la llegada de los órganos actuantes en el procedimiento penal y del empleado de la Inspección Ferroviaria, solo con el consentimiento del jefe de la intervención de los servicios del sistema integrado de protección. …“.
+Uso de DV (vehículo ferroviario) que no se detiene automáticamente ante la orden correspondiente enviada en la red GSM-R:
 •
-§ 35 apartado 1 letra a) de la Ley n.º 266/1994 Sb.:
-«El transportista está obligado a explotar el transporte ferroviario de acuerdo con las reglas de explotación del transporte ferroviario, la licencia vigente y el contrato celebrado con el explotador de la infraestructura ferroviaria sobre la explotación del transporte ferroviario en la infraestructura»;
+§ 35 apartado 1 letra a) de la Ley núm. 266/1994 Sb.:
+„El transportista está obligado a explotar el transporte ferroviario de acuerdo con las reglas de explotación del transporte ferroviario, la licencia vigente y el contrato celebrado con el explotador de la vía sobre la explotación del transporte ferroviario en la vía“;
 •
-§ 71 apartado 5 letra a) del Decreto n.º 173/1995 Sb.:
-«El transportista está obligado a utilizar para la explotación:
-a) en las líneas o en parte de la línea con una sección de línea explotada del sistema de radiofónica de tren destinada a garantizar la gestión del transporte ferroviario o para la transmisión de órdenes, señales, mensajes o transmisión de datos, un vehículo ferroviario dotado de una parte móvil de radiofónica compatible y funcional; si la sección de línea de la radiofónica de tren permite enviar una orden de detención automática del vehículo ferroviario, el vehículo ferroviario debe estar dotado de los medios técnicos para su realización.».
+§ 71 apartado 5 letra a) del decreto núm. 173/1995 Sb.:
+„El transportista está obligado a utilizar para la explotación:
+a) en las líneas o parte de línea con una sección de línea explotada del sistema de radioferrocarril de tren destinado a garantizar la gestión del transporte ferroviario o para la transmisión de órdenes, señales, avisos o transmisión de datos, un vehículo ferroviario equipado con una parte móvil de radioferrocarril compatible y funcional; si la sección de línea de radioferrocarril de tren permite enviar una orden de detención automática del vehículo ferroviario, el vehículo ferroviario debe estar equipado con medios técnicos para su realización.“.
 ### 4.1.2 Entidades responsables del mantenimiento de los vehículos ferroviarios
-Durante la investigación no se constató infracción de las funciones y obligaciones de las entidades responsables del mantenimiento de los vehículos ferroviarios.
+En la investigación no se detectó infracción de las funciones y obligaciones de las entidades responsables del mantenimiento de los vehículos ferroviarios.
 ### 4.1.3 Fabricantes de vehículos ferroviarios u otros proveedores de instalaciones ferroviarias
-Durante la investigación no se constató infracción de las funciones y obligaciones de los fabricantes de vehículos ferroviarios u otros proveedores de productos ferroviarios.
-
+En la investigación no se detectó infracción de las funciones y obligaciones de los fabricantes de vehículos ferroviarios u otros proveedores de productos ferroviarios.
 
 ## Página 32
+
 
 ### 4.1.4 Órganos nacionales de seguridad y Agencia Ferroviaria de la Unión Europea
 El órgano nacional de seguridad es la Oficina Ferroviaria, que de acuerdo con la Ley n.º 266/1994 Sb. es la autoridad administrativa dependiente del Ministerio de Transportes. Su función es, en particular, el ejercicio de la supervisión estatal en materia de infraestructuras ferroviarias y en materia de autoridad de construcción, el ejercicio de la autoridad de construcción especial para obras de la infraestructura ferroviaria y obras en la infraestructura ferroviaria, la aprobación de vehículos ferroviarios nuevos y modernizados y de instalaciones técnicas designadas, y la tramitación de infracciones. La Oficina Ferroviaria tiene la obligación de comunicar, en el plazo de 12 meses desde la fecha de publicación del informe final que contenga las recomendaciones de seguridad dirigidas a la misma, a la Inspección Ferroviaria qué medida ha adoptado en relación con dicha recomendación de seguridad, realizando esta comunicación de forma regular, al menos una vez al año, hasta la adopción de las medidas correspondientes.
@@ -1137,6 +1135,7 @@ Durante la investigación no se constataron factores derivados de la construcci�
 
 ## Página 33
 
+
 4.2.2 Factores o consecuencias derivados de la instalación y puesta en servicio de vehículos ferroviarios, infraestructura ferroviaria o equipo técnico
 Durante la reconstrucción de la estación de Poříčany, los circuitos de vía fueron sustituidos por contadores de ejes. La parte en vía del protector de tren de clase B (sistema LS) fue desconectada – no se garantizó la transmisión del código al repetidor de señales de la parte móvil del protector de tren en el vehículo ferroviario principal.
 Los siniestros de referencia fueron precedidos en el año 2021 por otros 2 siniestros en la estación de Poříčany, cuando se produjo una circulación no autorizada de un tren más allá de la señal de salida L6. En ambos casos se estableció una ruta de entrada de tren desde la señal 2L (en dirección desde la estación de Pečky) a la 6. SK, y poco después de la detención del tren en la 6. SK se estableció una ruta de salida de tren desde la 4. SK (desde la señal L4) a la 2. TK en dirección a la estación de Český Brod. En ambos casos, los maquinistas indicaron que habían tomado por error la señal del adyacente señal L4, y añadieron que en la 6. SK no se garantizó la transmisión del código VZ – el repetidor de señales no mostraba las señales de la señal L6. Bajo estas circunstancias, el repetidor de señales de la parte móvil del protector de tren del maquinista podría haberle alertado de su error en el reconocimiento de la señal.
@@ -1148,8 +1147,8 @@ Según el Certificado de aptitud del equipo técnico designado, número de regis
 El 15. 11. 2008, el DÚ realizó una anotación en el Certificado de aptitud sobre la incorporación del terminal de vehículo FXM20 con el bloque de radio FRB20 para la comunicación por voz en la red GSM-R y la interoperabilidad con la VS 47 para la comunicación, transmisión de órdenes rutinarias, avisos y órdenes de parada en la red TRS.
 El equipo complementado fue reconocido como apto para la circulación en base al Protocolo de inspección técnica y ensayo del equipo técnico designado n.º UTZ-EV/028-165 01/2008 de fecha 20. 3. 2008. Este protocolo indica la descripción técnica del equipo y el modo de instalación en el vehículo, la verificación de la completitud de la documentación técnica y la evaluación de los antecedentes, la descripción de las inspecciones y ensayos realizados, los resultados de las mediciones y las anomalías detectadas. Del protocolo presentado se constató, entre otros, que el terminal de vehículo FXM20 se compone de dos partes independientes – la caja de mando FCB20, que sirve como interfaz de comunicación y se encuentra situada
 
-
 ## Página 34
+
 
 en ambas puestos de conducción de la locomotora, y el bloque de radio FRB20 para la comunicación por radio en la red GSM-R. La caja de mando FCB20 se conecta mediante un bus al bloque de radio FRB20 y a la parte ya existente del sistema TRS – la estación de radio VS 47. Para la parada remota de tren, el sistema se complementa en el bloque FRB20 con un contacto, que está conectado en serie con los contactos ya existentes del adaptador de locomotora TRS y los contactos del equipo de protección de tren LS 90d. En la lista de documentos evaluados se indica, entre otros, la Resolución de la Autoridad Ferroviaria sobre la aprobación de la modificación respecto al tipo aprobado de vehículo ferroviario n.º de expediente 2-2857/08-DÚ de fecha 12. 3. 2008. Se realizaron ensayos funcionales de conexión en las redes GSM-R, GSM-P y TRS, y se ensayó la función de la orden STOP tanto dirigida como general en la red TRS. El equipo fue considerado apto para la circulación. El protocolo (elaborado por la persona jurídica ČD encargada por el Ministerio de Transporte) contiene errores formales, entre otros, en la denominación del protocolo y en la fecha de realización de la inspección y ensayo técnico. El protocolo de la inspección y ensayo técnico realizados fue, según el § 47 apartado 4 de la Ley n.º 266/1994 Sb., el antecedente para la emisión del certificado de aptitud por parte de la Autoridad Ferroviaria.
 La Resolución de la Autoridad Ferroviaria sobre la aprobación de la modificación consistente en la «Instalación del terminal de vehículo FXM20 en las locomotoras de las series 162 y 163», n.º de expediente 2-2857/08-DÚ de fecha 12. 3. 2008, indica, entre otros, la condición de que el terminal de vehículo FXM20 se instalará con la versión
@@ -1172,8 +1171,8 @@ automática de aire de la tubería principal.
 Asimismo, durante esta prueba de verificación se constató que la caja de mando FCB20 y el bloque de control y lógica del terminal FRB20 de la estación de radio FXM20 tenían instalada la versión de software 4.0.5.6 (fecha de compilación 24. 7. 2015). La versión de software detectada no correspondía a los datos de la resolución de la Autoridad Ferroviaria sobre la aprobación de la modificación consistente en la «Instalación del terminal de vehículo FXM20 en las locomotoras de las series 162 y 163», n.º de expediente 2-2857/08-DÚ de fecha 12. 3. 2008.
 El Certificado de aptitud UTZ eléctrico PZ 1459/05-E.46 de fecha 30. 6. 2005 para el HDV 162.012-9 no contenía datos sobre la versión de software de la estación de radio.
 
-
 ## Página 35
+
 
 Según la declaración del representante del operador, participante en la prueba de verificación, las intervenciones de servicio las realiza la empresa autorizada ČD-Telematika a.s. y el operador no registra durante las revisiones de servicio la eventual sustitución de software.
 Según la comunicación del fabricante (empresa RADOM), la función GSM-R STOP está en desarrollo desde el año 2008, y desde el año 2017 el desarrollo de esta función se realiza según la directiva emitida por la Administración de Infraestructura Ferroviaria. El fabricante suministra al mercado distintas implementaciones de software de la estación de radio, de las cuales algunas soportan la función GSM-R STOP y otras no. La versión implementada solo se registra en la instalación inicial.
@@ -1193,10 +1192,10 @@ Según el art. 2.4 de este documento, la información obtenida sobre el paso no 
 
 ## Página 36
 
-o la petición de detención (por ejemplo, GSM-R). Según la instrucción 56431/2020-SŽ-GŘ-O14, el hecho de que la línea esté equipada con el sistema ETCS no influye en la obligación de utilizar la funcionalidad VNPN, ya que incluso con la utilización de este sistema no se controla, en particular, el movimiento de las maniobras, el movimiento del tren al iniciar la misión y no se garantiza la no superación del final de la autorización de circulación en caso de utilización de una velocidad de liberación distinta de cero.
-En el marco de la inspección técnica y de la prueba, la radio se clasificó como equipo eléctrico de los vehículos ferroviarios de acuerdo con el § 1 apartado 4 letra f) del decreto nº 100/1995 Sb. (y no como equipo de señalización cuyos circuitos eléctricos cumplen la función de garantizar directamente la seguridad del transporte ferroviario de acuerdo con la letra k)), no obstante, las radios de a bordo
-### pueden con sus funciones intervenir directamente en el mando del vehículo ferroviario y la Administración de la Infraestructura Ferroviaria (Správa železnic) utiliza las redes de radio para mitigar el riesgo relacionado con la superación no autorizada de la señal (reducción de las consecuencias).
-En tal caso, es necesario garantizar, para las funciones de las radios y, en general, de todos los equipos que intervienen en el mando y la seguridad de la circulación de los vehículos ferroviarios (por ejemplo, sistemas de mando de los vehículos, AVV, etc.), un proceso controlado de cambios de software y llevar la correspondiente documentación. Por ello, el DI recomienda al Organismo Ferroviario (Drážní úřad) registrar en el Certificado de aptitud del vehículo ferroviario las versiones de software de los sistemas que influyen en el mando y la seguridad de la circulación del vehículo ferroviario, y adoptar medidas que garanticen a los operadores la obligación de registrar las versiones de software de los sistemas del vehículo ferroviario que influyen en el mando y la seguridad de la circulación del vehículo ferroviario, registrar los cambios en las funciones para cada versión de software y, en caso de cambios más significativos de estas funciones que influyan en la indicación, el manejo y la explotación del vehículo, realizar una formación acreditada de los empleados de explotación y mantenimiento.
+o la petición de parada (por ejemplo, GSM-R). Según la instrucción 56431/2020-SŽ-GŘ-O14, el hecho de que la línea afectada esté equipada con el sistema ETCS no tiene influencia en la obligación de utilizar la funcionalidad VNPN, ya que incluso con la utilización de dicho sistema no se controla especialmente el movimiento de las maniobras, el movimiento del tren al iniciar la misión y no se garantiza el no paso del final de la autorización de circulación en caso de utilización de una velocidad de liberación distinta de cero.
+En el marco de la inspección técnica y de la prueba, la estación de radio se clasificó como equipo eléctrico de los vehículos ferroviarios de conformidad con el § 1 apartado 4 letra f) del decreto nº 100/1995 Sb. (no como equipo de señalización, cuyos circuitos eléctricos cumplen la función de garantizar directamente la seguridad del transporte ferroviario según la letra k)), sin embargo, las estaciones de radio de los vehículos
+### pueden con sus funciones intervenir directamente en el mando del vehículo ferroviario y la Administración de Ferrocarriles (Správa železnic) utiliza las redes de radio para dirigir el riesgo relacionado con el paso indebido más allá del nivel de la señal (reducción de las consecuencias).
+En tal caso, es necesario garantizar, para las funciones de las estaciones de radio y, en general, de todos los equipos que intervienen en el mando y la seguridad de la circulación de los vehículos ferroviarios (por ejemplo, sistemas de mando de los vehículos, AVV, etc.), un proceso controlado de cambios de software y llevar la correspondiente registro. Por ello, la DI recomienda al Organismo Ferroviario (Drážní úřad) registrar en el Certificado de aptitud del vehículo ferroviario las versiones de software de los sistemas que tienen influencia en el mando y la seguridad de la circulación del vehículo ferroviario, y adoptar medidas que garanticen a los operadores ferroviarios la obligación de registrar las versiones de software de los sistemas del vehículo ferroviario que tienen influencia en el mando y la seguridad de la circulación del vehículo ferroviario, registrar para cada versión de software los cambios en las funciones y, en caso de cambios más significativos de estas funciones que tengan influencia en la indicación, la maniobra y la explotación del vehículo, realizar una formación acreditada de los empleados de explotación y de mantenimiento.
 ### 4.2.5 Factores o consecuencias relacionados con el sujeto responsable del mantenimiento de los vehículos ferroviarios, los talleres de mantenimiento y otros proveedores de servicios de mantenimiento
 En la investigación no se detectaron factores relacionados con el sujeto responsable del mantenimiento de los vehículos ferroviarios, los talleres de mantenimiento y otros proveedores de servicios de mantenimiento.
 4.2.6 Otros factores o consecuencias que se consideran importantes a efectos de la investigación
@@ -1206,10 +1205,10 @@ En la investigación no se detectaron otros factores relacionados con los vehíc
 En la investigación no se detectaron factores relacionados con la formación profesional de los empleados, el estado de salud y la situación personal, incluido el estrés físico y psicológico.
 ### 4.3.2 Factores laborales
 Maquinista del tren Os 9344
-El maquinista del tren Os 9344 inició su turno el 14 de julio de 2021 a las 12:20 h en Pardubice, se desplazó en servicio de maniobras a la est. Praha hl. n. y a pie a la est. Praha Masarykovo n., a continuación condujo el tren Os 8665 hasta la est. Český Brod, el Os 8672 hasta la est. Praha Masarykovo n. y el Os 9343 hasta la est. Poříčany, donde se detuvo a las 17:09 h.
-
+El maquinista del tren Os 9344 inició su turno el 14 de julio de 2021 a las 12:20 h en Pardubice, se desplazó por servicio a la est. Praha hl. n. y a pie a la est. Praha Masarykovo n., a continuación condujo el tren Os 8665 hasta la est. Český Brod, el Os 8672 hasta la est. Praha Masarykovo n. y el Os 9343 hasta la est. Poříčany, donde se detuvo a las 17:09 h.
 
 ## Página 37
+
 
 Antes del turno disfrutó de un descanso de 25:34 h de duración; según su declaración, inició el turno descansado.
 Estaba médicamente apto, realizó la formación inicial en diciembre de 2015, superó el examen profesional V-08 y el examen de aptitud profesional especial para la conducción de vehículos ferroviarios de la categoría: locomotoras de tracción diésel en julio de 2016, superó el examen de aptitud profesional especial para la conducción de vehículos ferroviarios de la categoría: locomotoras de tracción eléctrica en julio de 2017 y superó el examen de aptitud para la conducción de locomotoras del tipo 471 en agosto de 2017. Para el tramo de línea Kolín – Praha tenía confirmado el conocimiento de las condiciones de la línea. Hasta el momento de la producción de la MIE en cuestión, no constaba en su expediente la realización de un reexamen extraordinario de V-08.
@@ -1221,8 +1220,8 @@ El operador ČD emitió el 3 de marzo de 2021 la Orden de Explotación nº 4/202
 Para reducir el riesgo de que el maquinista se guíe por una señal distinta de la aplicable a su vía, en determinados casos se puede utilizar la transmisión del código al repetidor de señal de la parte móvil del VZ (véase el punto 4.2.2 de la presente IZ) o recurrir a preseñales independientes o a repetidoras independientes de preseñales de estas señales principales situadas, por ejemplo, más cerca del punto de parada habitual de los trenes.
 Para reducir de forma fundamental el riesgo de que un tren circule más allá de una señal principal con indicación de prohibición de circulación debido a un fallo del factor humano, es necesaria la implantación de medios técnicos de seguridad que, ante un error (equivocación o fallo) de la persona que conduce el vehículo ferroviario, impidieran mediante una intervención activa en el mando del tren la circulación no autorizada del tren más allá de dicha señal. En la República Checa dichos medios técnicos de seguridad han faltado durante mucho tiempo, mientras que, actualmente, la normativa vigente permite en las líneas de ámbito nacional y regional únicamente la implantación del sistema europeo unificado de protección de trenes – el sistema ETCS.
 
-
 ## Página 38
+
 
 ### Por ello, el DI recomienda ampliar en la mayor medida posible la parte de línea del sistema ETCS. Al menos en la red TEN-T, el DI recomienda implantar lo antes posible y de la forma más continua posible el ETCS L2 que permita el modo de supervisión total (Full supervision) y aprovechar esta supervisión total en la mayor medida posible, de modo que también los trenes en origen pasen las señales de salida ya en dicho régimen. A la vez, el DI recomienda acortar en la mayor medida posible el plazo de equipamiento de los vehículos ferroviarios correspondientes con las partes a bordo del sistema ETCS (acortar el llamado período de migración).
 ### 4.3.3 Factores organizativos y tareas
@@ -1243,29 +1242,35 @@ El sistema de gestión de los sujetos responsables del mantenimiento de los veh�
 ### 4.4.5 Resultados de la supervisión realizada por las autoridades nacionales de seguridad
 Atendiendo a los factores detectados y a las circunstancias de producción de la MIE, la supervisión de la autoridad de seguridad no guarda relación con la MIE en cuestión.
 
-
 ## Página 39
 
-### 4.4.6 Aprobaciones, certificados y dictámenes de evaluación emitidos por la agencia, las autoridades nacionales de seguridad u otros sujetos de evaluación de la conformidad
-El operador de la infraestructura explotó la línea al amparo de la autorización administrativa vigente y del certificado de seguridad del operador de la infraestructura. El transportista explotó el transporte ferroviario al amparo de la licencia vigente y del certificado del transportista.
+### 4.4.6 Aprobaciones, certificados e informes de evaluación concedidos por la Agencia, las autoridades nacionales de seguridad u otros organismos de evaluación de la conformidad
+El gestor de la infraestructura ferroviaria explotó la infraestructura ferroviaria al amparo de la autorización administrativa vigente y del certificado de seguridad del gestor de la infraestructura ferroviaria. El transportista explotó el transporte ferroviario al amparo de la licencia vigente y del certificado del transportista.
 ### 4.4.7 Otros factores sistémicos
 En la investigación no se detectaron otros factores sistémicos.
 ### 4.5 Sucesos anteriores de naturaleza similar
-El DI registra, en el período comprendido entre el 1 de enero de 2014 y la fecha de producción de la MIE en cuestión, un total de 160 MIE similares en las líneas ferroviarias de categoría nacional y regional, cuya causa de producción fue la puesta en movimiento no autorizada de un tren con transporte de pasajeros – la salida no autorizada de un tren del espacio destinado al embarque y desembarque de pasajeros, seguida de la circulación no autorizada de dichos trenes más allá de la señal principal con la indicación «Alto» en las estaciones en las que la orden de salida del tren la da el jefe de estación al maquinista mediante la colocación de la señal principal en la indicación que permite la circulación. De este total, se produjo posteriormente una colisión de vehículos ferroviarios en 3 casos y, en 3 casos, también el descarrilamiento de vehículos ferroviarios. Como consecuencia de estas circulaciones no autorizadas, 44 personas resultaron lesionadas
-### y se produjo un daño total de 34 338 011 CZK.
-De la relación anterior de MIE similares, el DI investigó un total de 7 MIE:
+En el periodo comprendido entre el 1. 1. 2014 y la fecha de ocurrencia de la MU objeto de estudio, el DI registra en las infraestructuras ferroviarias de categoría nacional y regional un total de 160 MU análogos, cuya causa de producción fue la puesta en marcha no autorizada de un tren con transporte de viajeros – salida no autorizada del tren del espacio destinado al embarque y desembarque de viajeros, seguida de la circulación no autorizada de dichos trenes más allá de la señal principal con la indicación «Alto» en las estaciones, donde la orden de salida del tren la da el jefe de estación al maquinista mediante la colocación de la señal principal en la indicación que permite la circulación.
+De este número, se produjo posteriormente una colisión de DV en 3 casos y, en 3 casos, también el descarrilamiento del DV. Como consecuencia de estas circulaciones no autorizadas, 44 personas resultaron lesionadas
+### y se produjo un daño total por importe de 34 338 011 Kč.
+Del listado anterior de MU análogos, el DI investigó un total de 7 MU:
 •
-del 30 de diciembre de 2014, cuando a las 14:30 h se produjo la circulación no autorizada del tren Os 9329 más allá de la señal S1 con indicación de prohibición de circulación, la entrada en la vía establecida para el tren R 983 con la consiguiente colisión de vehículos ferroviarios y descarrilamiento en la est. Poříčany. La causa inmediata de producción de la MIE fue el incumplimiento de la indicación «Alto» de la señal principal (de salida) S1 en la est. Poříčany por parte del maquinista del tren Os 9329. En la MIE no se produjeron lesiones. El daño total se cifró en 6 680 000 CZK;
+del 30. 12. 2014, cuando a las 14:30 h se produjo la circulación no autorizada del tren Os 9329 más allá de la señal S1 que prohibía la circulación, la entrada en la vía de tren establecida para el tren R 983, con la consiguiente colisión de vehículos ferroviarios y descarrilamiento en la est. Poříčany. La causa inmediata de la producción del MU fue el incumplimiento de la indicación «Alto» de la señal principal (de salida) S1 en la est. Poříčany por parte del maquinista del tren Os 9329. En el MU no se produjeron lesiones. El daño total se cifró en 6 680 000 Kč;
 •
-del 3 de mayo de 2018, cuando a las 8:37 h se produjo la circulación no autorizada del tren Os 8102 más allá de la señal de salida L1 con indicación de prohibición de circulación en la est. Křemže, el paso forzado de la aguja nº 6, la entrada en la vía establecida para el tren en sentido contrario Os 8103, seguida de la colisión y el descarrilamiento del tren Os 8103. La causa inmediata de producción de la MIE fue el incumplimiento de la indicación «Alto» de la señal de salida L1 en la est. Křemže por parte de la persona que conducía el vehículo ferroviario – tren Os 8102. En la MIE resultaron lesionadas 18 personas y se produjo un daño total de 23 631 902 CZK;
+del 3. 5. 2018, cuando a las 8:37 h se produjo la circulación no autorizada del tren Os 8102 más allá de la señal de salida L1 en la est. Křemže que prohibía la circulación, el forzamiento del desvío n.º 6, la entrada en la vía de tren establecida para el tren en sentido contrario Os 8103, seguida de la colisión y el descarrilamiento del tren Os 8103. La causa inmediata de la producción del MU fue el incumplimiento de la indicación «Alto» de la señal de salida L1 en la est. Křemže por parte de la persona que dirigía el DV – tren Os 8102. En el MU resultaron lesionadas 18 personas y se produjo un daño total por importe de 23 631 902 Kč;
 •
-del 22 de febrero de 2019, cuando a las 19:20 h se produjo la circulación no autorizada del tren Ex 350 más allá del nivel de la señal de salida L2 con indicación de prohibición de circulación y la entrada en la vía establecida para el tren Os 17816 en la est. Ejpovice. La causa inmediata de producción de la MIE fue la salida del tren Ex 350 de la est. Ejpovice sin la correspondiente expedición. En la MIE no se produjeron lesiones personales ni daños materiales;
+del 22. 2. 2019, cuando a las 19:20 h se produjo la circulación no autorizada del tren Ex 350 más allá del nivel de la señal de salida L2 con la indicación que prohibía la circulación y la entrada en la vía de tren establecida para el tren Os 17816 en la est. Ejpovice
+. La causa inmediata de la producción del MU fue la salida del tren Ex 350 de la est. Ejpovice sin la correspondiente autorización de circulación. En el MU no se produjeron lesiones personales ni daños materiales;
 •
-del 5 de marzo de 2019, cuando a las 8:00 h se produjo la circulación no autorizada del tren Os 4708 más allá del nivel de la señal de bloqueo Lc4 con indicación de prohibición de circulación y la consiguiente colisión con el tren en sentido contrario Os 4711 en la est. Brno hl. n. La causa inmediata de producción de la MIE fue el incumplimiento de la indicación «Alto» de la señal de bloqueo Lc4 de la est. Brno hl. n. por parte de la persona que conducía el vehículo de tracción ferroviario del tren Os 4708. En la MIE resultaron lesionadas 23 personas y se produjo un daño total de 452 393 CZK;
+del 5. 3. 2019, cuando a las 8:00 h se produjo la circulación no autorizada del tren Os 4708 más allá del nivel de la señal de vía Lc4 con la indicación que prohibía la circulación y la consiguiente colisión con el tren en sentido contrario Os 4711 en la est
+  . Brno hl. n.
+  La causa inmediata de la producción del MU
+fue el incumplimiento de la indicación «Alto» de la señal de vía Lc4 de la est. Brno hl. n. por parte de la persona que dirigía el vehículo ferroviario de tracción del tren Os 4708. En el MU resultaron lesionadas 23 personas
+y se produjo un daño total por importe de 452 393 Kč;
 •
-del 22 de julio de 2020, cuando a las 7:12 h se produjo la circulación no autorizada del tren Os 7152 más allá del nivel de la señal de bloqueo Lc1 con indicación de prohibición de circulación y su entrada en la vía establecida
+del 22. 7. 2020, cuando a las 7:12 h se produjo la circulación no autorizada del tren Os 7152 más allá del nivel de la señal de vía Lc1 con la indicación que prohibía la circulación y su entrada en la establecida
 
 ## Página 40
+
 
 vías ferroviarias para la entrada del tren Os 7151 en la est. Jablonné nad Orlicí. La causa inmediata de la aparición de la MU fue el incumplimiento de la señal «Alto» de la señal de vía Lc1 de la estación de ferrocarril Jablonné nad Orlicí por parte del maquinista del tren Os 7152. En la MU no se produjeron daños a la salud de las personas ni daños materiales;
 •
@@ -1283,8 +1288,8 @@ al gestor de la infraestructura ferroviaria, Administración de la Vía Ferrovia
 •
 a la Autoridad Ferroviaria (Drážní úřad), en el marco de sus competencias, garantizar que los vehículos ferroviarios mencionados anteriormente estén equipados, una vez finalizada la vigencia de la excepción indicada en el decreto n.º 173/1995 Sb., en relación con el equipamiento de una parte móvil funcional compatible del dispositivo de radio con la parte de la vía en servicio del sistema de radio de trenes destinado a garantizar la gestión del tráfico ferroviario y para la transmisión de órdenes, señales, avisos o transmisión de datos, también con un módulo externo activo «STOP» de funcionamiento activo, que permita la parada de emergencia del tren sin necesidad de cooperación entre el emisor de la orden «STOP» o «PARADA GENERAL» y la persona que conduce el vehículo ferroviario, y posteriormente garantizar la supervisión del cumplimiento de la obligación anteriormente mencionada.
 
-
 ## Página 41
+
 
 En el año 2021 se registraron en la est. Poříčany 4 circulaciones no autorizadas más allá de la señal L6 (señal de salida en dirección a la est. Český Brod) y 5 circulaciones no autorizadas más allá de las señales de salida en dirección a la est. Pečky. Hasta finales de octubre del año 2022 se habían registrado 7 circulaciones no autorizadas más allá de las señales de salida en la est. Poříčany (en ambos sentidos).
 La DI decidió investigar la MU mencionada sobre la base de su repetitividad, cuando:
@@ -1315,8 +1320,8 @@ Systemic factor:
 •
 none.
 
-
 ## Página 42
+
 
 ### 5.2 Medidas adoptadas para la prevención de sucesos extraordinarios
 El gestor de la infraestructura SŽ, de acuerdo con su Evaluación de las causas y circunstancias de la aparición del suceso extraordinario del 27.
@@ -1363,44 +1368,32 @@ switching off the target braking and automatic speed control and switching on th
 automatic train control after the incident before giving consent to release the track
 by NIB.
 
-
 ## Página 43
 
 ## 6 RECOMENDACIONES DE SEGURIDAD
-La Inspección Ferroviaria, sobre la base de lo dispuesto en el § 53e apartado 1 de la ley n.º 266/1994 Sb., recomienda, en relación con la prevención de sucesos extraordinarios:
-A la Autoridad Ferroviaria (Drážní úřad):
+La Inspección Ferroviaria, en virtud de lo dispuesto en el apartado 1 del § 53e de la Ley núm. 266/1994 Sb., recomienda, con miras a la prevención de sucesos extraordinarios:
+A la Autoridad Ferroviaria:
 •
-registrar sistemáticamente en los certificados de aptitud relativos a los vehículos ferroviarios las versiones de software de los sistemas que influyen en el control y la seguridad de la circulación del vehículo ferroviario;
+registrar sistemáticamente, en los certificados de aptitud relativos a los vehículos ferroviarios, las versiones de software de los sistemas que influyen en la conducción y la seguridad de la marcha del vehículo ferroviario;
 •
-en el marco de su actividad como autoridad nacional de seguridad, la adopción de una medida que garantice a los transportistas la obligación de registrar las versiones de software de los sistemas del vehículo ferroviario que influyen en el control y la seguridad de la circulación del vehículo ferroviario. Para cada versión de software, registrar los cambios en las funciones y, en caso de cambios más significativos de estas funciones que influyan en la indicación, el manejo y el funcionamiento del vehículo, realizar una formación demostrable para los empleados de operación y mantenimiento;
+adoptar, en el marco de su actividad como organismo nacional de seguridad, las medidas que garanticen a los operadores ferroviarios la obligación de registrar las versiones de software de los sistemas del vehículo ferroviario que influyen en la conducción y la seguridad de la marcha del vehículo ferroviario. Para cada versión de software individual, registrar los cambios en las funciones y, en caso de cambios más significativos de estas funciones que influyan en la indicación, la explotación y el funcionamiento del vehículo, impartir una formación demostrable al personal de explotación y de mantenimiento;
 •
-en el marco de su actividad como autoridad nacional de seguridad, la adopción de una medida que garantice a los gestores de la infraestructura ferroviaria la obligación de preservar, en las reconstrucciones de la infraestructura, en la mayor medida posible, la transmisión del código del control automático de trenes tipo LS hasta la implantación del funcionamiento exclusivo bajo la supervisión del control automático de trenes ETCS;
+adoptar, en el marco de su actividad como organismo nacional de seguridad, las medidas que garanticen a los propietarios e gestores de infraestructura la obligación de preservar, en la mayor medida posible, la transmisión del código del control automático de trenes tipo LS durante las reconstrucciones de infraestructura, hasta la implantación de la explotación exclusiva bajo la supervisión del control automático de trenes ETCS;
 •
-la adopción de una medida que garantice que los propietarios y gestores de la infraestructura ferroviaria amplíen en la mayor medida posible la parte de la vía del sistema ETCS. Al menos en la red TEN-T, la DI recomienda implantar lo antes posible y de forma continua el ETCS L2 que permita el modo Full supervision (supervisión total) y utilizar esta supervisión total en la mayor medida posible, de modo que también los trenes en origen pasen las señales de salida de las estaciones ya en este régimen;
+adoptar las medidas que garanticen que los propietarios y gestores de infraestructura amplíen en la mayor medida posible la parte de vía del sistema ETCS. Al menos en la red TEN-T, la DI recomienda implantar lo antes posible y de la forma más continua posible el ETCS L2, que permite el modo Full supervision (supervisión total), y aprovechar esta supervisión total en la mayor medida posible, de modo que también los trenes en origen pasen las señales de salida ya en este régimen;
 •
-la adopción de una medida que garantice que los transportistas reduzcan en la mayor medida posible el tiempo de equipamiento de los vehículos ferroviarios correspondientes con las partes a bordo del sistema ETCS (reducción del llamado período de migración).
-## SAFETY RECOMMENDATIONS
-Addressed to the Czech National Safety Authority (NSA):
+adoptar las medidas que garanticen que los operadores ferroviarios acorten en la mayor medida posible el tiempo de equipamiento de los vehículos ferroviarios correspondientes con las partes a bordo del sistema ETCS (acorten el llamado periodo de migración).
+## RECOMENDACIONES DE SEGURIDAD
+Dirigidas a la Autoridad Nacional de Seguridad Checa (NSA):
 •
-systematically register the software versions of the systems which have an effect
-the control and safety driving of the rolling stock in serviceability certificate of a
-track-guided vehicle;
+registrar sistemáticamente las versiones de software de los sistemas que influyen en la conducción y la seguridad de la marcha del material rodante en servicio, en el certificado de aptitud de un vehículo ferroviario;
 •
-to take measure which will ensure at railway undertakings a duty to register
-software versions of rolling stock systems which have an effect the control and
-safety driving of the rolling stock. For individual versions of the software, to register
-changes in functions and in the case of more significant changes to these functions
-that effect the indication, operation and working of the rolling stock, to carry out
-demonstrable training for operating and maintenance employees;
+adoptar las medidas que garanticen a los operadores ferroviarios la obligación de registrar las versiones de software de los sistemas del material rodante que influyen en la conducción y la seguridad de la marcha del material rodante. Para cada versión de software individual, registrar los cambios en las funciones y, en caso de cambios más significativos de estas funciones que influyan en la indicación, la explotación y el funcionamiento del material rodante, impartir una formación demostrable al personal de explotación y de mantenimiento;
 •
-to take measure to ensure that railway owners and infrastructure managers, during
-infrastructure reconstructions, preserve to the maximum extent possible preserve
-the transmission of the code of the LS type automatic train control (in the original
-scope) until the instalation of exclusive operation under the supervision of the
-automatic train control ETCS;
-
+adoptar las medidas que garanticen que los propietarios e gestores de infraestructura preserven, en la mayor medida posible, la transmisión del código del control automático de trenes tipo LS (en el ámbito original) durante las reconstrucciones de infraestructura, hasta la implantación de la explotación exclusiva bajo la supervisión del control automático de trenes ETCS;
 
 ## Página 44
+
 
 •
 to take measure to ensure that railway owners and and infrastructure managers
@@ -1427,15 +1420,15 @@ director
 Inspección Territorial de Bohemia
 Inspección Territorial de Bohemia
 
-
 ## Página 45
+
 
 ## ANEXOS
 Fig. n.º 5: Posición del sol en el momento de la aparición de la MU
 Fuente: DI
 
-
 ## Página 46
+
 
 Fig. n.º 6: Vista de la señal L6 desde la cabina del maquinista del tren desde la 6.ª SK, con la posibilidad de contar las señales desde la derecha
 Fuente: DI

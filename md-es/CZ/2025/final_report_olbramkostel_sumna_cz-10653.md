@@ -10,13 +10,14 @@ chars: 146587
 ratio_longitud: 1.24
 tokens_in: 67306
 tokens_out: 47095
-verificacion: revisar
-notas_cifras: ["bloque 1: original bilingüe: se compara contra el idioma principal (EN)", "bloque 2: original bilingüe: se compara contra el idioma principal (CS)", "bloque 3: original bilingüe: se compara contra el idioma principal (CS)", "bloque 4: original bilingüe: se compara contra el idioma principal (CS)", "bloque 5: original bilingüe: se compara contra el idioma principal (CS)", "bloque 10: cifras cortas: 11/86"]
-avisos: ["bloque 12: ratio 1.77"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 3: original bilingüe: se compara contra el idioma principal (CS)", "página 5: original bilingüe: se compara contra el idioma principal (CS)", "página 6: original bilingüe: se compara contra el idioma principal (CS)", "página 8: original bilingüe: se compara contra el idioma principal (PT)", "página 9: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -39,13 +40,13 @@ IČ: 75009561
 mail@di.gov.cz
 tel.: +420 736 521 003
 
-
 ## Página 2
+
 
 Este informe final es público y todos los hechos en él expuestos están respaldados por el expediente de investigación. La Drážní inspekce no se ocupa, en el marco de la investigación, de la responsabilidad por delito o infracción administrativa, por lo que no puede deducirse de este informe final. La investigación se llevó a cabo de forma independiente con el objetivo de determinar las causas y circunstancias del suceso ferroviario.
 
-
 ## Página 3
+
 
 ### 1 RESUMEN
 Fuente: Správa železnic, státní organizace
@@ -71,8 +72,8 @@ fallo de la estabilidad del encaje debilitado de una rama estructural de la copa
 No se ha determinado por parte de la Drážní inspekce una causa sistémica.
 No se ha emitido por parte de la Drážní inspekce ninguna recomendación de seguridad.
 
-
 ## Página 4
+
 
 ### SUMMARY
 22nd January 2025, 16:57 (15:57 GMT).
@@ -102,8 +103,8 @@ Systemic factor:
 none.
 Recommendation: not issued.
 
-
 ## Página 5
+
 
 ## Índice
 1 RESUMEN.......................................................................................................................... 3
@@ -147,6 +148,7 @@ SUMMARY.........................................................................
 
 ## Página 6
 
+
 4.2.2 Factores o consecuencias derivados de la instalación y puesta en servicio de vehículos ferroviarios, infraestructura ferroviaria o instalaciones técnicas.....................................39
 4.2.3 Factores o consecuencias relacionados con fabricantes de vehículos ferroviarios u otros proveedores de productos ferroviarios...........................................................................39
 4.2.4 Factores o consecuencias derivados del mantenimiento y modificación de vehículos ferroviarios o instalaciones técnicas..................................................................................................39
@@ -175,8 +177,8 @@ SUMMARY.........................................................................
 6 RECOMENDACIONES DE SEGURIDAD...................................................................................46
 ANEXOS............................................................................................................................ 47
 
-
 ## Página 7
+
 
 ### Lista de siglas y símbolos utilizados
 AOPK ČR
@@ -248,8 +250,8 @@ Servicio de Rescate Sanitario
 žst.
 Estación ferroviaria
 
-
 ## Página 8
+
 
 ### Lista de siglas de la legislación, normas y normativa interna utilizadas
 Reglamento de la Comisión (UE) 2018/762 REGLAMENTO DE LA COMISIÓN (UE) 2018/762 DE DELEGACIÓN, de 8 de marzo de 2018, por el que se establecen métodos comunes de seguridad relativos a los requisitos del sistema de garantía de seguridad en virtud de la Directiva del Parlamento Europeo y del Consejo (UE) 2016/798 y por el que se derogan los Reglamentos de la Comisión (UE) n.º 1158/2010 y (UE) n.º 1169/2010, en la versión vigente en el momento de producirse el SE
@@ -274,32 +276,32 @@ normativa interna del gestor de infraestructura SŽ, «SŽ S4 Infraestructura fe
 MP STROMOVÍ
 instrucción del gestor de infraestructura SŽ, «SŽ MP Instrucción metodológica para el mantenimiento de arbolado», en la versión vigente en el momento de producirse el SE
 
-
 ## Página 9
 
-### 2 INVESTIGACIÓN Y SUS CONTEXTOS
-### 2.1 Decisión de iniciar la investigación
-La DI decidió iniciar la investigación del SE en cuestión el 4. 2. 2025.
-### 2.2 Fundamentación de la decisión de iniciar la investigación
-La DI decidió investigar el SE en cuestión sobre la base de su gravedad, recurrencia y, especialmente, de las repercusiones del SE en la explotación ferroviaria y el transporte ferroviario seguros, en virtud de la facultad derivada de la disposición § 53b de la ley n.º 266/1994 Sb.
-### 2.3 Alcance y limitaciones de la investigación, incluida su fundamentación pertinente
-La DI se encontró, en el marco de la investigación del SE en cuestión, con la limitación derivada de la negativa a prestar declaración a la DI por parte de empleados de SŽ, OŘ Brno, Správa tratí Jihlava, a saber, el jefe de departamento de la unidad organizativa (departamento operativo II) y el jefe del centro operativo de trazado Znojmo, que realizaron la última inspección integral del trazado en el tramo Olbramkostel – Šumná. De este modo, la DI no pudo, en el marco de la investigación de las causas y circunstancias de la producción del SE en cuestión, determinar y analizar el comportamiento de las personas mencionadas en relación con el cumplimiento de sus obligaciones derivadas de las disposiciones de la legislación y de la normativa interna del gestor de infraestructura SŽ, y por tanto no pudo dedicarse plenamente a la investigación del factor humano.
-Lo anterior influyó en el método y los procedimientos de investigación del SE, sin embargo no tuvo efecto en la determinación de las causas de la producción del SE en cuestión.
-### 2.4 Descripción general de las capacidades y funciones técnicas del equipo de investigación
-Investigación de la DI en el lugar del SE:
-La DI no participó en la investigación en el lugar del SE. La investigación de las causas y circunstancias de la producción del SE fue encomendada al ÚI Ostrava.
+### 2 INVESTIGACIÓN Y SUS RELACIONES
+### 2.1 Decisión sobre el inicio de la investigación
+El DI decidió iniciar la investigación de la MU en cuestión el 4 de 2 de 2025.
+### 2.2 Fundamentación de la decisión sobre el inicio de la investigación
+El DI decidió investigar la MU en cuestión sobre la base de su gravedad, reiteración y, especialmente, de los impactos de la MU en la explotación segura de la vía y del transporte ferroviario, todo ello sobre la base de la facultad que se deriva de lo dispuesto en el apartado § 53b de la Ley n.º 266/1994 Sb.
+### 2.3 Alcance y limitaciones de la investigación, incluida la fundamentación correspondiente
+En el marco de la investigación de la MU en cuestión, el DI se enfrentó a una limitación consistente en la negativa a prestar declaración al DI por parte de empleados de SŽ, OŘ Brno, Správy tratí Jihlava, a saber, el jefe de sección de la unidad organizativa (sección de explotación II) y el jefe del centro de explotación de la línea Znojmo, que realizaron la última inspección integral de la línea en el tramo Olbramkostel – Šumná. De este modo, el DI no pudo, en el marco de la investigación de las causas y circunstancias de la MU en cuestión, determinar y analizar el comportamiento de las personas mencionadas en relación con el cumplimiento de sus obligaciones derivadas de las disposiciones de la normativa legal y de las normativas internas del explotador de la vía SŽ, y por tanto no pudo dedicarse plenamente a la investigación del factor humano.
+Lo anterior influyó en el método y los procedimientos de investigación de la MU, sin embargo no tuvo efecto en la determinación de las causas de la MU en cuestión.
+### 2.4 Descripción resumida de las capacidades y funciones técnicas del equipo de investigación
+Investigación del DI en el lugar de la MU:
+El DI no participó en la investigación en el lugar de la MU. La investigación de las causas y circunstancias de la MU fue encomendada al ÚI Ostrava.
 Constitución del equipo de investigación:
 no fue necesario constituirlo.
 Colaboración externa:
-se utilizó, con la entidad:
+se utilizó, con el sujeto:
 •
-AOPK ČR, que elaboró el documento «Dictamen pericial sobre el estado sanitario del roble común situado en la parcela n.º 528/1 del término catastral de Šumná, que fue la causa del suceso extraordinario en el trazado el 22. 1. 2025 a causa de la rotura y caída de ramas sobre la vía; evaluación del estado de tres robles en el cauce de la vía con los números de inventario 43, 45, 46.» (en adelante, Dictamen dendrológico pericial).
-2.5 Comunicación y consultas durante la investigación con las personas o entidades que participaron en el suceso en cuestión
-En la investigación de las causas y circunstancias de la producción del SE, la DI partió inicialmente, sobre todo, de la documentación solicitada al gestor de infraestructura SŽ, al operador ČD, al ČHMÚ y a la PČR, y posteriormente de su propia documentación, conocimientos y hallazgos. En el ulterior desarrollo de la investigación, la DI solicitó a las entidades mencionadas anteriormente, al Ayuntamiento de Znojmo y a la AOPK ČR la documentación adicional necesaria.
-La investigación de las causas y circunstancias de la producción del SE se realizó de conformidad con la ley n.º 266/1994 Sb. y el decreto n.º 376/2006 Sb.
-
+AOPK ČR, que elaboró el documento «Dictamen pericial sobre el estado de salud del roble de verano situado en la parcela n.º catastral 528/1 en el término catastral de Šumná, que fue la causa del suceso excepcional en la línea el 22 de 1 de 2025 a causa del desprendimiento y la caída de ramas sobre la vía; evaluación del estado de tres robles en el cauce de la vía con los números de inventario 43, 45, 46.» (en adelante, Dictamen dendrológico pericial).
+2.5 Comunicación y consultas durante la investigación con personas o sujetos
+que participaron en el suceso en cuestión
+En la investigación de las causas y circunstancias de la MU, el DI partió al principio especialmente de la documentación solicitada al explotador de la vía SŽ, al transportista ČD, al ČHMÚ y a la PČR, y posteriormente de su propia documentación, conocimientos y hallazgos. En el ulterior desarrollo de la investigación, el DI solicitó a los sujetos mencionados anteriormente, al Ayuntamiento de Znojmo y a AOPK ČR, la documentación adicional necesaria.
+La investigación de las causas y circunstancias de la MU se realizó de acuerdo con la Ley n.º 266/1994 Sb. y con la Ordenanza n.º 376/2006 Sb.
 
 ## Página 10
+
 
 ### 2.6 Descripción del nivel de colaboración ofrecido por las entidades implicadas
 El nivel de colaboración con los representantes de las entidades implicadas en el SE fue estándar.
@@ -345,6 +347,7 @@ Coordenadas GPS:
 
 ## Página 11
 
+
 ### 3.1.3 Descripción del lugar del suceso
 El tramo entre estaciones Olbramkostel – Šumná es una línea de ancho completo delimitada a ambos lados por instalaciones – estaciones, siendo la frontera entre la línea de ancho completo y la estación los semáforos principales (de entrada) (en adelante, semáforo de entrada). En el caso de la est. Olbramkostel se trataba del semáforo de entrada S, situado en el pk 113,268, y en el caso de la est. Šumná se trataba del semáforo de entrada L, situado en el pk 118,929. En todo el tramo entre estaciones descrito, la vía férrea es de vía única y no electrificada.
 El lugar del SU se encontraba en el pk 116,610, donde la vía, es decir, la TK Olbramkostel – Šumná, discurre por la finca nº 528/1, situada en el municipio de Šumná [594911], en el término municipal de Šumná [764256], de tipo «otra superficie» y con forma de uso «vía» (véase el punto 3.1.6 de esta II).
@@ -361,42 +364,41 @@ la TZZ del tramo entre estaciones Olbramkostel – Šumná estaba sin defectos y
 •
 el tren Os 24836 estaba formado por una unidad automotora circulando de forma independiente con la denominación comercial «Regionova» compuesta de:
 
-
 ## Página 12
 
-◦ŘDV CZ-ČD 95 54 5 914 199-5 (en adelante, 914.199-5), situada en la cabeza del tren,
-◦HDV CZ-ČD 95 54 5 814 199-6 (también en adelante, 814.199-6);
+◦ŘDV CZ-ČD 95 54 5 914 199-5 (en adelante solo 914.199-5), encabezando el tren,
+◦HDV CZ-ČD 95 54 5 814 199-6 (en adelante también solo 814.199-6);
 •
-la persona que conducía la DV (en adelante, maquinista) conducía el tren Os 24836, observaba la vía y las señales desde la cabina de conducción de la ŘDV 914.199-5, es decir, desde la cabina delantera del maquinista en la dirección de circulación del tren;
+la persona que dirigía el DV (en adelante el maquinista) conducía el tren Os 24836, observaba la vía y las señales desde el puesto de conducción del ŘDV 914.199-5, es decir, desde la cabina delantera del maquinista en el sentido de marcha del tren;
 •
-la parte desprendida de la copa del árbol (rama) atravesó la caja de la ŘDV y penetró en la cabina del maquinista;
+la parte desprendida de la copa del árbol (rama) atravesó la caja del ŘDV e irrumpió en la cabina del maquinista;
 •
 el maquinista del tren Os 24836 sufrió lesiones y fue trasladado por el ZZS al Hospital Universitario de Brno;
 •
-el frontal del tren Os 24836 en la posición final tras el SU se encontraba en la TK Olbramkostel – Šumná en el pk 116,772, es decir, a una distancia de 162 m del lugar de origen del SU;
+el frontal del tren Os 24836 se encontraba en la posición final tras el MU en la TK Olbramkostel – Šumná en el km 116,772, es decir, a una distancia de 162 m del lugar de origen del MU;
 •
-la persona designada O18 de SŽ ordenó en el lugar de origen del SU la realización de una medición del lugar de crecimiento del árbol (roble) del que se desprendió una parte de su copa y cayó en el perfil de paso de la TK Olbramkostel – Šumná, con el dictamen de una persona cualificada del gestor de la vía sobre su estado sanitario (véase el punto 4.1.1 de esta II).
-De la fotodocumentación realizada por el gestor de la vía SŽ y por el transportista ČD durante la inspección del lugar del SU se desprende, entre otros datos:
+la persona designada O18 SŽ ordenó en el lugar de origen del MU la realización de un levantamiento del lugar de crecimiento del árbol (roble), del cual se desprendió una parte de su copa y cayó al perfil de paso de la TK Olbramkostel – Šumná, con el dictamen de una persona cualificada del operador de la vía sobre su estado de salud (véase el punto 4.1.1 de esta ZZ).
+De la documentación fotográfica realizada por el operador de la vía SŽ y el transportista ČD en la inspección del lugar del MU se desprende, entre otros:
 •
-en ambas laderas del terraplén ferroviario de la TK Olbramkostel – Šumná se encontraban árboles desarrollados que estaban cubiertos por una gruesa capa de escarcha;
+en ambos lados de la pendiente del terraplén ferroviario de la TK Olbramkostel – Šumná se encontraban árboles desarrollados que estaban cubiertos por una gruesa capa de escarcha;
 •
-junto al árbol en cuestión (roble) yacía a su derecha la parte derecha desprendida de su copa (rama);
+junto al árbol en cuestión (roble) yace a su derecha la parte derecha desprendida de su copa (rama);
 •
-el frontal de la ŘDV 914.199-5 estaba gravemente dañado como consecuencia del choque:
+el frontal del ŘDV 914.199-5 estaba gravemente dañado como consecuencia de la colisión:
 ◦la curvatura derecha de la cabina del maquinista, incl. el pilar derecho entre la ventana lateral derecha de la cabina del maquinista y la ventana frontal, estaba agrietada y deformada hacia el interior del vehículo,
-◦en el espacio entre las luces de posición derechas e izquierdas y las luces largas inferiores derechas e izquierdas, en el frontal del vehículo por encima del nivel de su suelo, se encontraban orificios irregulares de los que sobresalían hacia el exterior de la ŘDV ramas de la parte desprendida de la copa del árbol de un diámetro de unos 20 a 30 cm,
-◦en la curvatura izquierda, por encima del nivel del suelo del vehículo, se encontraba un gran orificio irregular por el que pasaba hacia la cabina del maquinista y, a continuación, a través de la pared trasera de la cabina del maquinista hacia el compartimento delantero de pasajeros, una rama de un diámetro de unos 40 cm,
-◦el parabrisas frontal estaba gravemente agrietado,
-◦la parte izquierda del despejanieves estaba deformada e hundida hacia el interior;
+◦en el espacio entre las luces de posición derechas e izquierdas y las luces largas inferiores derechas e izquierdas, en el frontal del vehículo y por encima del nivel de su suelo, se encontraban orificios irregulares de los que sobresalían hacia el exterior del ŘDV ramas de la parte desprendida de la copa del árbol de un diámetro de aproximadamente 20 a 30 cm,
+◦en la curvatura izquierda, por encima del nivel del suelo del vehículo, se encontraba un gran orificio irregular por el que pasaba hacia la cabina del maquinista y, a continuación, a través de la pared trasera de la cabina del maquinista hasta el compartimento delantero de pasajeros, una rama de un diámetro de aproximadamente 40 cm,
+◦el parabrisas estaba gravemente agrietado,
+◦la parte izquierda del quitanieves estaba deformada y hundida hacia el interior;
 •
-del ventanillo 1.º derecho del compartimento delantero de pasajeros sobresalía hacia el exterior del vehículo una rama;
+desde la ventana derecha n.º 1 del compartimento delantero de pasajeros sobresalía hacia el exterior del vehículo una rama;
 •
-la cabina del maquinista de la ŘDV, incl. la cabina de conducción y la pared trasera de la cabina, estaban gravemente dañadas por las ramas de la copa del árbol que habían penetrado en el vehículo. Con estas ramas también se dañó el interior del compartimento delantero de pasajeros de la ŘDV, incl. los asientos y el revestimiento de las paredes laterales;
+la cabina del maquinista del ŘDV, incl. el puesto de conducción y la pared trasera de la cabina, estaba gravemente dañada por las ramas de la copa del árbol que habían irrumpido en el interior del vehículo. Con estas ramas también se dañó el interior del compartimento delantero de pasajeros del ŘDV, incl. los asientos y el revestimiento de las paredes laterales;
 •
-la mesa de trabajo de la cabina de conducción, los asientos y el suelo de la cabina del maquinista y del compartimento delantero de pasajeros de la ŘDV estaban cubiertos por una capa de astillas de madera, corteza de árbol, laminado desprendido del frontal de la ŘDV y del revestimiento interior de las paredes del vehículo.
-
+la mesa de trabajo del puesto de conducción, los asientos y el suelo de la cabina del maquinista y del compartimento delantero de pasajeros del ŘDV estaban cubiertos por una capa de astillas de madera, corteza del árbol, laminado desprendido del frontal del ŘDV y del revestimiento interior de las paredes del vehículo.
 
 ## Página 13
+
 
 Condiciones meteorológicas:
 temperatura del aire -3 °C, cielo cubierto, escarcha, hielo en calzada y suelo helado.
@@ -438,8 +440,8 @@ Fuera del tramo indicado se encontraban otros ejemplares que estaban marcados f�
 a la izquierda, fuera de la TK Olbramkostel – Šumná en el tramo desde el pk 116,577 hasta el pk 116,677,
 es decir, en los alrededores del lugar de origen del SU en el pk 116,610, se comprobó la existencia de una franja continua de vegetación más alta (alineación irregular de árboles), creciendo en la finca nº 528/1 situada en el municipio de Šumná [594911], en el término municipal de Šumná [764256], de tipo «otra superficie», y con
 
-
 ## Página 14
+
 
 forma de uso «vía», siendo el propietario de dicha finca la ČR y el derecho a gestionar dicho bien del Estado correspondía a las SŽ.
 En el lugar del SU no se realizaron, inmediatamente antes de su aparición, por parte del propietario, del gestor de la vía ni de otros sujetos, trabajos de reparación o mantenimiento alguno. El tráfico ferroviario en el lugar del SU se prestaba en régimen normal.
@@ -478,6 +480,7 @@ jefe de departamento de la unidad organizativa [departamento de explotación II 
 
 ## Página 15
 
+
 •
 jefe del centro de explotación de líneas de Znojmo (en adelante, jefe del centro de explotación), empleado de SŽ, OŘ Brno, Správa tratí Jihlava;
 •
@@ -506,8 +509,8 @@ el titular y propietario de ambos DV (unidades móviles) implicados en la MU era
 el tren iba acompañado por el maquinista del tren Os 24836 y por el jefe de tren.
 La unidad móvil para tráfico regional con denominación comercial «Regionova» estaba compuesta por un coche motor de dos ejes – HDV 814.199-6 y un ŘDV de dos ejes 914.199-5. El coche motor estaba dividido en la cabina del maquinista con puesto de conducción orientado hacia el centro en la parte delantera del DV, el vestíbulo delantero, la sala amplia para viajeros y el vestíbulo trasero, al que se unía el paso de enlace. La disposición en planta del ŘDV era algo distinta de la del HDV, ya que la parte central del ŘDV se resolvía como vestíbulo de piso bajo, al que se accedía mediante puertas batientes de dos hojas de accionamiento electropneumático. A ambos lados de este espacio de piso bajo se habían dispuesto salas para viajeros, separadas del vestíbulo por tabiques acristalados
 
-
 ## Página 16
+
 
 En el extremo opuesto del ŘDV se encontraba la cabina del maquinista, cuya configuración correspondía a la del HDV. Las cabinas y los puestos de conducción ergonómicamente dispuestos permitían al maquinista observar sin interferencias la línea y las señales, así como conducir el DV con facilidad.
 Fig. n.º 2: Imagen ilustrativa de la composición del tren Os 24836 formada por la unidad móvil de la serie 814
@@ -520,8 +523,8 @@ De los datos registrados por el RR electrónico instalado en el HDV 814.199-6, e
 | a las 16:57:05 h | se registró la penúltima activación del botón de vigilancia KBS antes de la aparición de la MU (el botón de vigilancia fue pulsado, al igual que en los casos anteriores, durante un período de hasta 1 s). Al mismo tiempo, se encendió la luz azul de la testigo KBS en el puesto de conducción. El frente del tren, circulando a 69 km·h-1, se encontraba a una distancia de 137 m del lugar de aparición de la MU; |
 | a las 16:57:10 h | se registró la apagado de la luz azul de la testigo KBS. El frente del tren, circulando a 69 km·h-1, se encontraba a una distancia de 41 m del lugar de aparición de la MU; |
 
-
 ## Página 17
+
 
 a las 16:57:11 h se registró la última activación del botón de vigilancia KBS antes de la aparición de la MU. Al mismo tiempo, se encendió la luz azul de la testigo KBS. El frente del tren, circulando a 69 km·h-1, se encontraba a una distancia de 22 m del lugar de aparición de la MU.
 El botón de vigilancia fue mantenido pulsado por el maquinista hasta la aparición de la MU;
@@ -540,8 +543,8 @@ El tramo entre estaciones Olbramkostel – Šumná estaba equipado con TZZ de 3.
 La TK Olbramkostel – Šumná discurría desde el km 115,995 hasta el lugar de aparición de la MU en el km 116,610 en dirección directa. En el sentido de circulación del tren Os 24836, la TK descendía hasta el km 116,601 con una pendiente del 10 ‰ y, a continuación, hasta el lugar de aparición de la MU en el km 116,610 con una pendiente del 10,15 ‰. La TK discurría sobre un cuerpo de tierra en un terraplén ferroviario, en el lugar de aparición de la MU sobre un terraplén ferroviario de unos 5 m de altura, siendo las pendientes de las laderas del terraplén ferroviario uniformes.
 El balasto de la TK Olbramkostel – Šumná estaba formado por traviesas de ancho estándar de perfil S49, colocadas en la TK en 1987, soldadas en vía continua, fijadas sobre soportes de traviesa prefabricados de hormigón del tipo SB 8 con fijación rígida de las traviesas (fijación K).
 
-
 ## Página 18
+
 
 La est. Šumná estaba equipada con SZZ de 3.ª categoría – aparato de enclavamiento de relés (enclavamiento de relés de despacho), tipo AŽD 71, que era controlado mediante el sistema REMOTE 98 desde un puesto de operación unificado (compuesto por el ordenador principal y el de reserva). El puesto de operación del SZZ era operado localmente desde el DK de la est. Šumná.
 ### 3.1.9 Cualquier otra información relevante a efectos de la descripción del suceso y de la información básica
@@ -568,6 +571,7 @@ maquinista del tren Os 24836
 
 ## Página 19
 
+
 ◦sobre la pregunta relativa a su última manipulación del botón de vigilancia KBS a una distancia de 22 m antes del lugar de la colisión, declaró que «... inmediatamente antes de la colisión mantuve presionado durante más tiempo el botón de vigilancia; probablemente fue a causa de mi rigidez al ver de repente e inesperadamente, en la oscuridad y la niebla, algún obstáculo delante de mí que no esperaba en la vía. Recuerdo hasta el momento en que los bomberos que me atendían me liberaban.»,
 ◦en el momento de la elaboración del acta de la declaración prestada sobre el MU seguía en baja laboral; el tobillo de la pierna derecha y su entorno lo tenía inmovilizado con una férula y tornillos.
 Resumen de las declaraciones prestadas por otros testigos:
@@ -590,8 +594,8 @@ jefe de tren del tren Os 24836
 ◦unos 20 min después llegaron al lugar de aparición del MU las primeras unidades del IZS, que se hicieron cargo del maquinista para su tratamiento. La evacuación de los pasajeros la realizaron los bomberos, que los acompañaron hasta los vehículos y los trasladaron a la est. Šumná, donde ya les esperaba el autobús de transporte de sustitución.
 La DI, en el marco de la investigación de las causas y circunstancias de la aparición del MU, citó también para prestar declaración a empleados de SŽ – el jefe de departamento y el jefe del centro operativo, en cuya jurisdicción se encontraba el tramo entre estaciones Olbramkostel – Šumná, que realizaron la última inspección integral de la vía en el tramo Olbramkostel – Šumná. Ambos, sin embargo, ejercieron su derecho y se negaron a la DI a prestar sus declaraciones sobre el MU.
 
-
 ## Página 20
+
 
 El espacio en el lugar del MU no estaba monitorizado por un sistema de cámaras con grabación.
 Antes de la aparición del MU no se registró ninguna comunicación relevante relacionada con la misma.
@@ -604,57 +608,78 @@ A las 16:54:52 h el tren Os 24836 alcanzó la velocidad máxima de 69 km·h-1 y 
 2 min y 19 s después (a las 16:57:11 h), a una velocidad de 69 km·h-1, a una distancia de 22 m antes del lugar de la colisión del tren con la copa desprendida del árbol (roble), se registró la última manipulación del botón de vigilancia KBS. Dado que el maquinista del tren Os 24836 mantuvo el botón de vigilancia KBS en posición presionada hasta la aparición del MU a las 16:57:12 h, puede deducirse que a la vez se trataba del instante en que el maquinista, atendiendo a la hora nocturna y a la niebla densa que le limitaban notablemente la visibilidad de la vía, detectó (se percató de) el obstáculo que invadía el perfil de paso de la TK. A las 16:57:12 h, el frontal del tren Os 24836, a una velocidad de 69 km·h-1, impactó en el km 116,610 en la parte superior de la copa desprendida del árbol (roble), cuyas ramas de un diámetro de hasta 40 cm no solo dañaron el frontal del ŘDV del tren, sino que penetraron en la cabina del maquinista y en el compartimento delantero de pasajeros, que dañaron gravemente.
 En el mismo instante se registró el inicio del vaciado del tubo principal, que no fue iniciado por el maquinista mediante la manipulación del elemento de control correspondiente del ŘDV, sino
 
-
 ## Página 21
 
-por el daño del tubo principal a causa de las ramas que, al producirse la colisión, penetraron en el interior del ŘDV. Transcurridos 17 s (a las 16:57:29 h) el tren se detuvo en la posición final tras el MU, con el frontal del ŘDV 914.199-5 en el km 116,772. Como consecuencia de la colisión del tren Os 24836 con la parte desprendida de la copa del árbol, el maquinista de este tren sufrió daños en la salud.
-### 3.2.2 Secuencia de hechos desde la aparición del suceso excepcional hasta la finalización de las acciones de los servicios de rescate
+daño a la tubería principal por las ramas que, durante la colisión, penetraron en el interior del ŘDV. Transcurridos
+17 s (a las 16:57:29 h), el tren se detuvo en la posición final tras el MU, con el frente del ŘDV
+914.199-5 en el km 116,772. Como consecuencia de la colisión del tren Os 24836 con un trozo desprendido de la copa
+del árbol, el maquinista de dicho tren sufrió lesiones en su salud.
+### 3.2.2 Secuencia de hechos desde la producción del suceso excepcional hasta la finalización de las acciones de los servicios de rescate
 •
 16:57 h
-aparición del MU;
+producción del MU;
 •
 16:59 h
-el jefe de tren del tren Os 24836 comunicó la aparición del MU a la ZZS de la región de Moravia del Sur;
+el jefe de tren del tren Os 24836 comunicó la producción del MU al ZZS del Kraje
+Jihomoravské;
 •
 17:03 h
-la JPO de la HZS de SŽ Brno comunicó la aparición del MU al CDP Přerov y solicitó la detención de la circulación en la TK Olbramkostel – Šumná;
+la JPO del HZS SŽ Brno comunicó la producción del MU al CDP Přerov y solicitó
+la detención de la circulación en el TK Olbramkostel – Šumná;
 •
 17:04 h
-la PČR comunicó la aparición del MU al CDP Přerov y a la vez informó de su salida hacia el lugar de aparición del MU;
+la PČR comunicó la producción del MU al CDP Přerov y, a la vez, informó de su
+desplazamiento al lugar de producción del MU;
 •
 17:05 h
-el jefe de tren del tren Os 24836 comunicó la aparición del MU a la jefa de estación de la est. Šumná;
+el jefe de tren del tren Os 24836 comunicó la producción del MU al jefe de estación
+de la est. Šumná;
 •
 17:06 h
-el jefe despachador del CDP Přerov comunicó la aparición del MU a la persona autorizada O18 de SŽ;
+el jefe de despachador del CDP Přerov comunicó la producción del MU a la persona
+autorizada O18 SŽ;
 •
 17:11 h
-la persona autorizada O18 de SŽ comunicó la aparición del MU al COP DI como operador ferroviario SŽ y al transportista ČD;
+la persona autorizada O18 SŽ notificó la producción del MU al COP DI en
+representación del operador ferroviario SŽ y del transportista ČD;
 •
 17:25 h
-al lugar del MU llegó el primer grupo de salida de la ZZS de la región de Moravia del Sur;
+al lugar del MU llegó el primer grupo de intervención del ZZS del Kraje
+Jihomoravské;
 •
 17:38 h
-el inspector del COP DI concedió a la persona autorizada O18 de SŽ el consentimiento para la liberación de la vía;
+el inspector del COP DI concedió a la persona autorizada O18 SŽ el consentimiento
+para la liberación de la vía;
 •
 22:00 h
-se restableció la explotación del transporte ferroviario en el tramo entre estaciones Olbramkostel – Šumná.
-El Plan IZS, en atención a la naturaleza del MU, fue activado a las 16:59 h, es decir, 2 min después de la aparición del MU, por el jefe de tren del tren Os 24836.
-En el lugar del MU intervinieron los siguientes cuerpos del IZS:
+se reanudó la explotación del transporte ferroviario en el tramo entre estaciones
+Olbramkostel – Šumná.
+
+El Plan IZS se activó, dada la naturaleza del MU, a las 16:59 h, es decir, 2 min después de la producción del MU,
+por el jefe de tren del tren Os 24836.
+
+En el lugar del MU intervinieron los siguientes componentes del IZS:
 •
-ZZS de la región de Moravia del Sur;
+ZZS del Kraje Jihomoravské;
 •
-JPO de la HZS de SŽ Brno;
+JPO del HZS SŽ Brno;
 •
-JPO de la HZS de la región de Moravia del Sur, parque de bomberos de Znojmo;
+JPO del HZS del Kraje Jihomoravské, parque de bomberos de Znojmo;
 •
-PČR, Distrito territorial de Znojmo, departamento de delincuencia común.
+PČR, Delegación Territorial de Znojmo, departamento de criminalidad general.
 ### 4 ANÁLISIS DEL SUCESO
 ### 4.1 Funciones y obligaciones
 ### 4.1.1 Transportistas y operadores ferroviarios
-El operador ferroviario tenía, según la normativa legal, entre otras, la obligación de explotar la vía para las necesidades del transporte ferroviario fluido y seguro conforme a las normas de explotación de la vía y a la autorización administrativa. En el sentido de esta obligación debía realizar, entre otras, inspecciones periódicas y abordar las fuentes de riesgo para la vía, es decir, también la arboleda que amenace la seguridad o la fluidez del transporte ferroviario o la explotabilidad de la vía, y mantener la arboleda de modo que corresponda a una explotación segura, tal como indicó el operador ferroviario en el MP STROMOVÍ. El operador ferroviario
+
+El operador ferroviario tenía, conforme a la normativa legal, entre otras, la obligación de explotar la vía para
+las necesidades del transporte ferroviario fluido y seguro de acuerdo con las reglas para la explotación de la vía
+y la autorización administrativa. En el sentido de esta obligación, debía realizar, entre otras, inspecciones
+periódicas y resolver las fuentes de peligro para la vía, es decir, también la arbolada que amenace la seguridad
+o la fluidez del transporte ferroviario o la operatividad de la vía, y mantener la arbolada de modo que
+corresponda a una explotación segura, tal como indicó el operador ferroviario en el MP STROMOVÍ. El operador ferroviario
 
 ## Página 22
+
 
 tenía derecho a eliminar y podar la arboleda y otras vegetaciones que amenazaran la seguridad o la fluidez del transporte ferroviario o la operatividad de la vía, en el caso de que, tras una advertencia previa del explotador de la vía, su propietario no lo hubiera hecho en el plazo adecuado y en la extensión establecida en la advertencia, considerándose que la arboleda y otras vegetaciones que, al caer, pudieran alcanzar la sección de paso de la vía (véase Fig. n.º 4), eran, según lo dispuesto en el apartado 3 del § 10 de la Ley n.º 266/1994 Sb., arboleda que amenaza la seguridad o la fluidez del transporte ferroviario o la operatividad de la vía.
 En este punto es necesario recordar que la normativa legal no define explícitamente los términos «arboleda» y «otras vegetaciones», que se utilizaron en la disposición mencionada anteriormente de la Ley n.º 266/1994 Sb., y por ello es conveniente aclarar e interpretar, al menos de forma aproximada, el significado de estas palabras. El término «arboleda» tiene, desde el punto de vista puramente lingüístico, el significado de «masa arbórea», «árboles», entendiéndose por «árbol» un «vegetal leñoso con tronco que se ramifica de diversas maneras». El término «vegetación» significa, desde el punto de vista puramente lingüístico, «plantas que cubren algún lugar», pudiéndose incluir entre las plantas sin duda también, por ejemplo, arbustos. Según la interpretación expuesta, es evidente que los conceptos «arboleda» y «otras vegetaciones» empleados en la Ley n.º 266/1994 Sb. corresponden a los procedimientos tecnológicos del explotador de la vía SŽ contenidos en el MP STROMOVÍ. De la Parte primera, Artículo 2, apartado 8 de este procedimiento tecnológico del explotador de la vía SŽ y de la lógica de la materia se puede deducir que también pueden considerarse como arboleda el vegetal leñoso que crece fuera del bosque, la masa arbórea continua de vegetales leñosos, el bosque (es decir, también el árbol que crece en la masa arbórea forestal) y la alineación de árboles.
@@ -667,20 +692,22 @@ El explotador de la vía SŽ, para el cumplimiento de la obligación de explotar
 En caso de limitación, suspensión o prohibición de la eliminación de la arboleda por parte del organismo de protección de la naturaleza en el plazo establecido, era además vinculante para dicho organismo el dictamen del órgano administrativo ferroviario, en el caso concreto el DÚ, que entre otras cosas determinaba, con base en la disposición del apartado 2 del § 10 de la Ley n.º 266/1994 Sb., las fuentes de amenaza para la vía, es decir, también la arboleda que amenaza la explotación segura de la vía y del transporte ferroviario.
 También cabe señalar que, según la disposición del apartado 2 del § 8 de la Ley n.º 114/1992 Sb., «No se requiere permiso … para la eliminación de vegetales leñosos con el fin de garantizar la operatividad de la vía ferroviaria o garantizar el transporte ferroviario fluido y seguro en dicha vía … . La tala por estos motivos deberá notificarse por escrito al organismo de protección de la naturaleza con al menos 15 días de antelación, el cual podrá suspenderla, limitarla o prohibirla si contradice los requisitos de protección de los vegetales leñosos; en el caso de la eliminación de vegetales leñosos con el fin de garantizar la operatividad de la vía ferroviaria
 
-
 ## Página 23
 
-o garantizar el transporte ferroviario fluido y seguro en dicha vía, podrá hacerlo solo con base en un dictamen vinculante del órgano administrativo ferroviario.», y según la disposición del apartado 4 de dicho artículo, «No se requiere permiso para la tala de vegetales leñosos si, por su estado, la vida o la salud están clara e inmediatamente amenazadas o si existe riesgo de daños de gran envergadura. Quien realice la tala en estas condiciones la notificará al organismo de protección de la naturaleza en un plazo de 15 días desde la realización de la tala.».
-También es necesario señalar que, según la disposición de la letra i) del apartado 1 del § 3 de la Ley n.º 114/1992 Sb., «el vegetal leñoso que crece fuera del bosque … es un árbol o arbusto que crece de forma individual o en grupos en el paisaje abierto y en los núcleos de población en parcelas distintas de las parcelas forestales,». De conformidad con la disposición del § 3 del Decreto n.º 189/2013 Sb., por el que se ejecutaba la Ley n.º 114/1992 Sb., tampoco se requiere permiso para la tala, entre otros, de los vegetales leñosos que crecen fuera del bosque, siempre que dichos vegetales leñosos no formen parte de un elemento paisajístico significativo, de una plantación sustitutiva o de una alineación de árboles, con un perímetro de tronco de hasta 80 cm medido a 130 cm sobre el suelo, o para las masas arbóreas continuas de vegetales leñosos, si la superficie total de las masas arbóreas continuas de vegetales leñosos taladas no supera los 40 m2 – lo cual no se aplicaba al árbol cuya parte desprendida de la copa había creado el obstáculo en cuestión en la vía de circulación de la vía, ya que su perímetro de tronco a 130 cm sobre el suelo era de 330 cm y era necesario aplicar el procedimiento según la disposición mencionada anteriormente del apartado 2 del § 8 de la Ley n.º 114/1992 Sb.
-Además, conviene añadir que, según las disposiciones de las letras a) y c) del § 2 de la Ley n.º 289/1995 Sb., se entendía por bosque las masas arbóreas forestales con su entorno y las parcelas destinadas al cumplimiento de las funciones del bosque, y por masas arbóreas forestales se entendían los árboles y arbustos de especies leñosas forestales que, en las condiciones dadas, cumplen las funciones del bosque, y en la disposición de los apartados 1 y 2 del § 22 de la misma ley se indica:
-•
-«Los propietarios de inmuebles o los promotores de obras e instalaciones están obligados a realizar a su costa las medidas necesarias e imprescindibles con las que sus parcelas, obras e instalaciones estén o estarán protegidas frente a los daños causados, en particular, por deslizamientos de tierra, caída de piedras, caída de árboles o de sus partes, sobresalimiento de ramas y raíces, sombreamiento y avalanchas desde parcelas destinadas al cumplimiento de las funciones del bosque; estas medidas están asimismo autorizados a realizarlas en parcelas destinadas al cumplimiento de las funciones del bosque. El alcance y el modo de las medidas de protección los determinará el órgano de la administración estatal de los bosques, salvo que, según las normas especiales, sea competente otro órgano de la administración estatal. El propietario de las parcelas destinadas al cumplimiento de las funciones del bosque está obligado a tolerar la realización de las medidas.»;
-•
-«Si la garantía de la seguridad de las personas y de los bienes requiere, además de las medidas indicadas en el apartado 1, un cambio en el modo de gestión del bosque o una limitación en el uso de las parcelas destinadas al cumplimiento de las funciones del bosque, el órgano de la administración estatal de los bosques decidirá sobre las medidas adicionales y determinará quién asumirá los costes asociados y quién indemnizará al propietario del bosque por los eventuales perjuicios. Las disposiciones de las normas especiales permanecen intactas.».
-Parte del sistema establecido de garantía de seguridad del explotador de la vía SŽ era, entre otros, el MP STROMOVÍ, que establecía los procedimientos para la realización del mantenimiento de la arboleda, principalmente en las vías ferroviarias – en la obra de la vía, incl. las obras en la vía, respectivamente en el recinto de la vía, y además en la franja de protección de la vía. Esta instrucción metodológica servía también como guía y ayuda para la eliminación progresiva y a largo plazo de la arboleda, y su objetivo era, entre otros, armonizar el procedimiento de SŽ con la jurisprudencia actual y la interpretación de la normativa legal relacionada. También de los procedimientos tecnológicos del explotador de la vía SŽ se desprende que la arboleda que amenazaba la seguridad o la fluidez del transporte ferroviario o la operatividad de la vía era un árbol o arbusto que, al caer, podía alcanzar la sección de paso de la vía. Como arboleda podía
+ferroviarias o garantizar el tráfico ferroviario fluido y seguro en dicha vía solo puede hacerlo en virtud de un dictamen vinculante de la autoridad administrativa ferroviaria.", mientras que, según lo dispuesto en el apartado 4 de dicho artículo, "No se requiere permiso para la tala de árboles si su estado pone de forma evidente e inmediata en peligro la vida o la salud, o si amenaza con un daño de gran envergadura. Quien realice la tala en estas condiciones la notificará al órgano de protección de la naturaleza en un plazo de 15 días desde la realización de la tala.".
 
+También es necesario señalar que, según lo dispuesto en el artículo 3, apartado 1, letra i) de la Ley núm. 114/1992 Sb., "un árbol crecido fuera del bosque ... es un árbol o arbusto crecido de forma individual o en grupos en el paisaje libre y en las agrupaciones de asentamiento en terrenos que no son terrenos forestales". De conformidad con lo dispuesto en el artículo 3 del decreto núm. 189/2013 Sb., por el que se ejecuta la Ley núm. 114/1992 Sb., tampoco se requiere permiso para la tala, entre otros, de árboles crecidos fuera del bosque, siempre que dichos árboles no formen parte de un elemento paisajístico significativo, de una plantación de sustitución o de una hilera de árboles, con un perímetro de tronco de hasta 80 cm medido a una altura de 130 cm sobre el suelo, o para masas arboladas contiguas, si la superficie total de las masas arboladas contiguas taladas no supera los 40 m2 – lo cual no resultaba aplicable al árbol cuya parte desprendida de la copa creó el obstáculo en cuestión en la vía de circulación de la ferroviaria, ya que el perímetro de su tronco a una altura de 130 cm sobre el suelo era de 330 cm y era necesario aplicar el procedimiento conforme a lo dispuesto en el artículo 8, apartado 2, de la Ley núm. 114/1992 Sb. mencionado anteriormente.
+
+Además, conviene añadir que, según lo dispuesto en los artículos 2, letras a) y c), de la Ley núm. 289/1995 Sb., se entendía por bosque las masas forestales con su entorno y los terrenos destinados al cumplimiento de las funciones del bosque, y por masas forestales los árboles y arbustos de especies forestales que, en las condiciones dadas, cumplen las funciones del bosque, mientras que en los artículos 22, apartados 1 y 2, de la misma ley se establece:
+•
+"Los propietarios de bienes inmuebles o los promotores de obras e instalaciones están obligados a realizar, por su cuenta, las medidas estrictamente necesarias mediante las que sus terrenos, edificios e instalaciones estén o estarán protegidos frente a los daños causados, en particular, por deslizamientos de tierra, caída de rocas, caída de árboles o de sus partes, sobresalimiento de ramas y raíces, sombreado y avalanchas procedentes de terrenos destinados al cumplimiento de las funciones del bosque; estas medidas están asimismo facultados a realizarlas en terrenos destinados al cumplimiento de las funciones del bosque. La extensión y el modo de las medidas de protección los determina el órgano de la administración estatal de los bosques, salvo que, según normativa especial, sea competente otro órgano de la administración estatal. El propietario de terrenos destinados al cumplimiento de las funciones del bosque está obligado a tolerar la realización de las medidas.";
+•
+"Si la garantía de la seguridad de las personas y de los bienes requiere, además de las medidas previstas en el apartado 1, un cambio en el modo de gestión del bosque o una limitación en el uso de terrenos destinados al cumplimiento de las funciones del bosque, el órgano de la administración estatal de los bosques decidirá sobre las medidas adicionales y determinará quién asumirá los costes asociados a las mismas y quién indemnizará al propietario del bosque por los eventuales perjuicios. Las disposiciones de la normativa especial quedan intactas.".
+
+Parte del sistema implantado de garantía de seguridad del operador ferroviario SŽ era, entre otros, el MP STROMOVÍ, que establecía los procedimientos para la realización del mantenimiento de la arbolada, principalmente en las vías ferroviarias – en la obra de la vía, incluidas las obras en la vía, o en el ámbito de la vía, y asimismo en la franja de protección de la vía. Esta instrucción metodológica servía también como guía y ayuda para la eliminación progresiva y a largo plazo de la arbolada, y su finalidad era, entre otras, armonizar el procedimiento de SŽ con la jurisprudencia actual y la interpretación de la normativa legal relacionada. También de los procedimientos tecnológicos del operador ferroviario SŽ se desprende que la arbolada que ponía en peligro la seguridad o la fluidez del tráfico ferroviario o la operatividad de la vía era el árbol o arbusto que, al caer, podía alcanzar el perfil de circulación de la vía. Se consideraba arbolada
 
 ## Página 24
+
 
 considerarse también, en las condiciones de SŽ, la alineación de árboles y también el bosque, es decir, las masas arbóreas forestales (árboles y arbustos de especies leñosas forestales) con su entorno y las parcelas destinadas al cumplimiento de las funciones del bosque (véase también más arriba), que en las condiciones dadas cumplía las funciones del bosque (productivas y no productivas), si bien la cuestión de la masa arbórea forestal destinada a ser eliminada no fue regulada de forma independiente por esta instrucción metodológica. Del MP STROMOVÍ se desprende que el explotador de la vía debía abordar las fuentes existentes de amenaza para la vía, es decir, también la arboleda que amenaza la seguridad o la fluidez del transporte ferroviario o la operatividad de la vía, y mantener la arboleda de modo que cumpliera los requisitos de una explotación segura.
 Para las necesidades del MP STROMOVÍ se consideraba como arboleda destinada a ser eliminada aquella que amenazaba la explotación de la vía para un transporte ferroviario seguro, en el sentido de que, en caso de su caída o de la caída de sus partes aéreas (ramas, etc.) como consecuencia de condiciones meteorológicas adversas, podía causar un riesgo para la vida o la salud y la producción de daños de gran envergadura. Era obligación del propietario de la parcela cuidar de los vegetales leñosos (en particular, tratarlos y mantenerlos). Según esta instrucción, el propietario de la parcela era responsable de los daños causados por la caída de un vegetal leñoso o de una parte del mismo sobre parcelas circundantes, si incumplió la obligación de cuidar de los vegetales leñosos según la frase anterior, y así impidió, en particular, que el vegetal leñoso se convirtiera en un vegetal leñoso destinado a ser eliminado. El MP STROMOVÍ definía además, entre otros:
@@ -704,13 +731,14 @@ la zona de transición, de acuerdo con la recomendación, los vegetales leñosos
 
 ## Página 25
 
+
 Para la eliminación de vegetación mediante tala con el fin de garantizar la operatividad de la vía férrea o garantizar un tráfico ferroviario fluido y seguro en dicha vía no era necesaria, según el § 8 apart. 2 de la Ley núm. 114/1992 Sb., autorización del órgano de protección de la naturaleza. La tala de vegetación por las razones antedebidas debía notificarse por escrito con al menos 15 días de antelación al órgano de protección de la naturaleza competente, el cual podía suspenderla, limitarla o prohibirla si contravenía los requisitos de protección de la vegetación. En tal caso, el órgano de protección de la naturaleza podía suspender, limitar o prohibir la eliminación de vegetación con el fin de garantizar la operatividad de la vía férrea o garantizar un tráfico ferroviario fluido y seguro en la vía únicamente sobre la base de un dictamen vinculante de la autoridad administrativa ferroviaria.
 Fig. núm. 3: Delimitación de franjas sin vegetación y con vegetación para garantizar la operatividad de la vía o garantizar un tráfico ferroviario fluido y seguro
    Fuente: MP STROMOVÍ, elaboración DI
 Para la tala en terrenos en propiedad de sujetos jurídicos ajenos en la franja de protección de la vía con el fin de garantizar la operatividad de la vía férrea, de conformidad con la Parte segunda, Artículo 4, apart. 1, MP STROMOVÍ, los propietarios de inmuebles colindantes a la vía estaban obligados, al cuidar la vegetación en su terreno, a proceder siendo conscientes de su obligación (el propietario vigila en su terreno los objetos y procesos que pudieran amenazar la explotación de la vía y se ocupa de su eliminación). El incumplimiento de esta obligación no tenía por qué ser solo una acción (p. ej., plantar un árbol en un lugar inadecuado), sino también una omisión (p. ej., dejar un árbol que creció por sí mismo, sin intervención del propietario, en un lugar inadecuado). El derecho de la autoridad administrativa ferroviaria de ordenar al propietario las medidas necesarias o, en su caso, decidir la eliminación de la fuente de amenaza a su cargo era únicamente una garantía operativa necesaria de la protección prioritaria de la explotación segura de la vía y, con ello, del interés público preminente. La disposición del § 10 apart. 3 de la Ley núm. 266/1994 Sb. permitía al explotador de la vía, entre otros, advertir a los propietarios de terrenos de su obligación y especificar los procedimientos en caso de que no actuaran. En el caso de que, tras la advertencia previa del explotador de la vía SŽ, su propietario no lo hubiera hecho en el plazo razonable y en la medida establecidos en dicha advertencia, o si otras circunstancias lo exigían, el
 
-
 ## Página 26
+
 
 explotador de la vía debía, de conformidad con la Parte segunda, Artículo 4, apart. 2, MP STROMOVÍ, proceder como sigue:
 •
@@ -725,16 +753,16 @@ explotador de la vía debía, de conformidad con la Parte segunda, Artículo 4, 
 En los casos en que el propietario del terreno afectado no hubiera respondido (no hubiera actuado) en el plazo razonable al aviso (requerimiento) enviado para la eliminación de árboles en la franja de protección de la vía, o no hubiera sido posible localizar al propietario, el explotador de la vía SŽ debía proceder de conformidad con la Parte segunda, Artículo 4, apart. 3, MP STROMOVÍ, según el cual «… requerirá a los propietarios de terrenos la eliminación de la vegetación en la distancia de alcance; ante la inactividad, eliminará dicha vegetación por sí mismo (…) – …».
 De conformidad con la Parte segunda, Artículo 4, apart. 5, MP STROMOVÍ, la eliminación de la vegetación en la franja de protección de la vía desde un terreno de un sujeto jurídico ajeno con el fin de garantizar la operatividad de la vía férrea o garantizar un tráfico ferroviario fluido y seguro en dicha vía debía notificarse, según el § 8 apart. 2 de la Ley núm. 114/1992 Sb., por escrito con al menos 15 días de antelación al órgano de protección de la naturaleza, el cual podía suspenderla, limitarla o prohibirla si contravenía los requisitos de protección de la vegetación.
 
-
 ## Página 27
+
 
 Fig. núm. 4: La vegetación como fuente potencial de amenaza para la seguridad o la fluidez del tráfico ferroviario o la operatividad de la vía
 Fuente: DI con utilización de ilustraciones disponibles en Internet
 Puede resumirse, por tanto, que los citados reglamentos internos y documentos de SŽ, en relación con las disposiciones de la normativa legal, establecían (en el momento del suceso MU) un procedimiento unívoco para la tala o la poda de la vegetación que crece en la distancia de alcance del perfil de rodadura de la vía en explotación, ya sea en el ámbito de la vía, en la franja de protección de la vía sobre un terreno con derecho de gestión de SŽ (en monte o fuera de monte) y en la franja de protección de la vía sobre un terreno con derecho de gestión de otro sujeto (en monte o fuera de monte).
 Puede constatarse, por tanto, que la redacción de MP STROMOVÍ, en relación con las disposiciones del § 10 de la Ley núm. 266/1994 Sb. y del § 22 de la Ley núm. 289/1995 Sb., daba al explotador de la vía SŽ suficiente respaldo y posibilidad para garantizar la eliminación de la fuente de amenaza a la vía (la ejecución de la tala de árboles) en la franja de protección de la vía y también en terrenos destinados al cumplimiento de la función
 
-
 ## Página 28
+
 
 forestal, incluso pese al problema parcial relacionado con la aplicación de la definición del término «dřevina» (vegetación leñosa) en MP STROMOVÍ (véase el punto 4.4.3 de la presente ZZ).
 El explotador de la vía SŽ realizó, antes del suceso MU, la última inspección integral de la vía en el tramo Olbramkostel – Šumná el 10. 4. 2024, con vigencia hasta el 9. 4. 2025. La inspección fue realizada por el jefe de departamento y el jefe del centro de explotación, quienes debían regirse también por los procedimientos contenidos en la instrucción del explotador de la vía SŽ MP STROMOVÍ. En el acta de la inspección se indicaba, entre otros, el hallazgo: «OST Masas arbóreas – vegetación alta – Poda de mantenimiento continua de las masas altas – arbustos, árboles.», y ello en el tramo de vía desde el km 113,200 hasta el km 119,000, es decir, también en el lugar del suceso MU en el km 116,610, con fecha límite de eliminación el 31. 3. 2025, pero sin mayor concreción de los arbustos y árboles que debían eliminarse mediante la poda ni de las medidas oportunas necesarias para garantizar la explotación segura de la vía y del tráfico ferroviario. Según la documentación del explotador de la vía SŽ remitida a la DI, la anomalía detectada en la última inspección integral de la vía fue eliminada (reparada) el 14. 3. 2025, pero de nuevo sin mayor especificación de los lugares concretos donde se encontraba la vegetación (árboles) que estaba siendo eliminada. Sin embargo, es incuestionable que el árbol en cuestión, cuya parte de copa desprendida creó un obstáculo en la vía de circulación de la vía con el que embistió el tren Os 24836, no había sido eliminado a la fecha del suceso MU.
@@ -743,6 +771,7 @@ Por lógica y atendiendo a la velocidad de crecimiento de la vegetación, es evi
 A efectos de completitud es necesario indicar que el explotador de la vía SŽ, en el periodo desde el 8. 3. 2021 hasta la fecha del citado suceso MU, es decir, hasta el 22. 1. 2025, en el marco de sus inspecciones en terrenos en propiedad de la República Checa, donde SŽ ejerce el derecho de gestionar el patrimonio del Estado, situados, entre otros, entre las estaciones Olbramkostel y Šumná, remitió al órgano administrativo de protección de la naturaleza y del paisaje, esto es, al Ayuntamiento de Znojmo, Departamento de Medio Ambiente, de conformidad con la disposición del § 8 apart. 2 de la Ley núm. 114/1992 Sb., notificación sobre la tala de vegetación que crece fuera del monte con el fin de garantizar la operatividad de la vía férrea o garantizar un tráfico ferroviario fluido y seguro en dicha vía. El motivo era el hecho de que la vegetación y otras masas (conectadas) invadían el perfil de rodadura del TK Olbramkostel – Šumná, limitaban las condiciones de visibilidad y la visibilidad de las señales y, por su ubicación y su crecimiento posterior, amenazaban la seguridad de la explotación ferroviaria en dicho tramo o podían amenazarla gravemente en condiciones climáticas adversas (nieve, hielo), causando así daños de considerable envergadura en el patrimonio
 
 ## Página 29
+
 
 transportista o incluso el operador de la vía SŽ. Este arbolado y otra vegetación (conectada) se encontraban en terrenos de tipo «otra superficie» con forma de uso «vía», concretamente en:
 •
@@ -764,8 +793,8 @@ En el momento de la inspección local, el árbol ya había sido talado. Sin emba
 
 De la evaluación del estado sanitario del árbol realizada se desprende que la vitalidad del árbol ya estaba reducida. Lo demuestra la presencia de brotes acortados y rebrotes con brotes acortados
 
-
 ## Página 30
+
 
 en las ramas de orden inferior. En la copa del árbol se identificaron además roturas, cavidades y pudriciones, que sin embargo no tuvieron influencia directa en la destrucción total del árbol. En el tocón del roble en cuestión, cuya superficie de corte era de madera maciza, y en las inserciones radiculares no se detectaron defectos ni signos de enfermedades que redujeran la estabilidad del ejemplar en cuestión. La madera en el corte estaba sana, sin líneas o partes de otro color, no se detectó resistencia reducida de la madera.
 
@@ -779,8 +808,8 @@ De lo anterior se desprende que la destrucción se produjo como consecuencia de 
 
 El operador de la vía SŽ, a través del jefe de departamento y del jefe del centro de explotación, hasta la ocurrencia del MU no adoptó ninguna otra medida para eliminar el arbolado y otra vegetación restante situados a distancia de caída, es decir, también el árbol (roble pedunculado – Quercus robur de unos 19 m de altura según estimación) crecido en la dirección de marcha del tren Os 24836 a 7,5 m a la izquierda del eje del TK Olbramkostel – Šumná en la ladera del terraplén ferroviario en el km 116,627, ni adoptó ninguna medida para garantizar la explotación segura de la vía y del transporte ferroviario en dicho lugar. Esto tuvo como consecuencia la explotación de la vía en dicho lugar sin
 
-
 ## Página 31
+
 
 limitación (el operador de la vía permitió en dicho tramo la circulación de DV a la velocidad de línea de 80 km·h-1, con una distancia de frenado de 700 m) a pesar de que la vía (TK
  Olbramkostel – Šumná)
@@ -813,6 +842,7 @@ con las definiciones:
 
 ## Página 32
 
+
 ◦art. J.1, anexo J, de la normativa interna de SŽ S2/3:
 «La inspección del lecho ferroviario forma parte de las rondas, de los recorridos de control y de las inspecciones integrales de las líneas.»,
 ◦art. J.2, apartado 5, anexo J, de la normativa interna de SŽ S2/3:
@@ -829,8 +859,8 @@ En este punto es necesario añadir que el objeto de la evaluación objetiva e im
 En ninguno de los árboles (evaluados) indicados más arriba se observaron cuerpos fructíferos de hongos de la madera ni síntomas de una infestación significativa por especies de insectos xilófagos. En los robles identificados físicamente con los números 43 y 45, según la AOPK ČR, es necesario proceder a medidas de estabilización en forma de podas de reducción total en el perímetro de la copa de los robles correspondientes en un rango del 10 % – 30 % del aparato asimilatorio, siendo necesario realizar esta poda, en el roble de verano identificado físicamente con el número de aerosol 43, especialmente sobre TK Olbramkostel – Šumná. En el roble de verano identificado físicamente con el número 46 también es adecuada una poda perimetral, al menos de un alcance ligero – 10 % del aparato asimilatorio, siendo también conveniente en él eliminar los brotes del tronco en la dirección de TK Olbramkostel – Šumná, tal como se indica más abajo.
 En el caso de que algún árbol creciera en un suelo destinado a cumplir la función forestal (en la franja de protección de la vía) y fuera necesario eliminarlo, el operador de la vía debía proceder conforme al art. 4 MP STROMOVÍ y, en consecuencia, conforme al § 22 apartados 1 y 2 de la Ley n.º 289/1995 Sb. Sobre la adopción de medidas, su alcance y forma, en su caso también sobre el cambio o la limitación en la forma de gestión forestal, sobre la determinación de la compensación de los costes asociados y sobre la indemnización de los posibles perjuicios, decidiría el órgano de la administración estatal de los bosques. Si algún árbol crecía en un suelo donde SŽ no tenía derecho de gestión, entonces SŽ debía enviar al propietario del suelo una notificación escrita para su eliminación
 
-
 ## Página 33
+
 
 de la fuente de amenaza para la vía y fijar un plazo para la eliminación del árbol. Si no se produce, en un suelo ajeno, la eliminación de la fuente de amenaza para la vía (el árbol) por parte del propietario o del gestor del suelo sobre la base de una notificación escrita de SŽ (incluso de una notificación repetida), entonces el operador de la vía SŽ tenía derecho a:
 •
@@ -849,8 +879,8 @@ parcela n.º 528/1, municipio de Šumná [594911], término catastral de Šumná
 •
 parcela n.º 1041/1, municipio de Milíčovice [594440], término catastral de Milíčovice [694908];
 
-
 ## Página 34
+
 
 cuyo propietario es la ČR y el derecho de gestionar el bien del Estado corresponde al operador de la vía SŽ, sobre la presencia de arbolado y otras masas vegetales que, al caer, pueden alcanzar el perfil de paso de la vía y son, por tanto, arbolado que amenaza la seguridad o la continuidad del transporte ferroviario o la operatividad de la vía, habiéndose constatado, según el reconocimiento del lugar del suceso de la MU realizado por la Inspección Ferroviaria, y ello en las proximidades del crecimiento del árbol (roble) del que se desprendió una parte de su copa, contra la que impactó el tren Os 24836, entre otros datos, en el suelo colindante parcela n.º 691/1, situado en el municipio de Šumná [594911], término catastral de Šumná [764256], de tipo «suelo forestal», cuyo propietario es la ČR y el derecho de gestionar el mencionado bien del Estado corresponde a las LČR, un mayor número de árboles desarrollados, situados en la distancia de alcance del perfil de paso de TK Olbramkostel – Šumná (véase más abajo y véase el punto 3.1.3 de la presente ZZ).
 A efectos de completitud, cabe indicar que los registros de la realización de las inspecciones y de sus resultados fueron registrados electrónicamente por el operador de la vía en el sistema de información correspondiente. Cada registro de una inspección realizada debía contener, como mínimo, el tipo de inspección, el objeto inspeccionado, el nombre del empleado que realizó la inspección, el nombre del empleado que registró la inspección en el sistema de información correspondiente y el resultado de la inspección. En el caso de que la inspección fuera realizada por un grupo de empleados, el registro se completaba con la información de que la inspección la realizó un grupo de inspección, incluida la mención del nombre del jefe de dicho grupo.
@@ -870,6 +900,7 @@ En el caso de esta MU concreta es necesario relacionar la disposición anterior 
 «Správa železnic está obligada, conforme al § 22 apartado 1 letra a) de la Ley n.º 266/1994 Sb., a explotar la vía para las necesidades del transporte ferroviario continuo y seguro, debiendo, en el sentido de esta obligación, abordar las fuentes de amenaza existentes para la vía, es decir, también el arbolado que amenaza la seguridad o la continuidad del transporte ferroviario
 
 ## Página 35
+
 
 aptitud para la explotación de la vía, y mantener la arbolada de modo que corresponda a la explotación segura.“;
 •
@@ -896,8 +927,8 @@ Según la evaluación del explotador de la vía SŽ, se procederá a la tala de 
 •
 finca núm. 528/1, municipio de Šumná [594911], término catastral de Šumná [764256];
 
-
 ## Página 36
+
 
 •
 finca núm. 1041/1, municipio de Milíčovice [594440], término catastral de Milíčovice [694908];
@@ -911,16 +942,16 @@ núm. 528/1, situada en el municipio de Šumná [594911], término catastral de 
 núm. 691/1, situada en el municipio de Šumná [594911], término catastral de Šumná [764256], de tipo „finca forestal“, cuyo propietario es la ČR y el derecho a administrar dicho bien estatal corresponde a LČR, se envió a LČR desde la OŘ Brno la Requerimiento para la eliminación de la fuente de amenaza para la vía.
 El 23 de julio de 2025, el DI recibió un documento mediante el cual se informaba a la DÚ de que el 17 de julio de 2025, en el tramo desde el pk 116,577 hasta el pk 116,667, a la izquierda y a la derecha, fuera de la TK Olbramkostel – Šumná, tras la consulta con el órgano administrativo competente de protección de la naturaleza y del paisaje, se procedió a la eliminación de otras masas arbóreas (entrelazadas) en una extensión de 700 m2 y simultáneamente se taló 27 árboles desarrollados.
 
-
 ## Página 37
+
 
 Fig. núm. 5: Imagen del espacio situado delante del lugar de la MU que documenta el 23 de abril de 2025 la arbolada situada a la distancia de caída en el perfil de paso de la TK Olbramkostel – Šumná, que crecía en el borde de masa de la finca núm. 528/1, con la indicación del lugar de crecimiento del árbol cuya parte desprendida de la copa creó un obstáculo en la vía de circulación de la vía.
      Fuente: DI
 El transportista estaba, entre otros, obligado a garantizar que el maquinista, al conducir el tren (DV), en el sentido de las disposiciones legales y de las disposiciones pertinentes de las normas internas del explotador de la vía SŽ y del transportista ČD, entre otros, condujera el DV solo desde la posición desde la que existía la mejor visibilidad, por regla general desde la cabina delantera del maquinista en el sentido de la marcha, observara desde la cabeza del DV la línea y las señales y actuara según los hechos constatados. En el caso de que fueran conocidos por el maquinista circunstancias que comprometieran la seguridad de la explotación de la vía y del transporte ferroviario, debía adoptar inmediatamente todas las medidas para evitar el peligro, es decir, en este caso concreto detener el tren, y en el desempeño del servicio de transporte estaba obligado a actuar de modo que no se viera amenazada la seguridad del transporte ferroviario también en los casos que no estaban descritos (definidos) en las normas internas.
 El maquinista del tren Os 24836 condujo la marcha del tren desde la ŘDV 914.199-5, es decir, desde la posición en la cabina del maquinista, desde la que existía la mejor visibilidad. No fue informado por el explotador de la vía mediante una orden escrita de circulación en condiciones meteorológicas desfavorables y, asimismo, en función de las condiciones meteorológicas del momento, no consideró que durante la marcha del tren Os 24836 pudiera producirse la innavegabilidad de la línea. Por ello no eligió un modo de circulación de tal forma que, a una distancia equivalente a la longitud de la vía que ve delante de sí, detuviera el tren ante un eventual obstáculo
 
-
 ## Página 38
+
 
 y condujera la ŘDV en régimen ARR. Antes de la producción de la MU y en el momento de su producción, circuló con el tren a una velocidad constante de 69 km·h-1. Dicha velocidad era inferior a la velocidad máxima permitida del tren de 80 km·h-1, que por tanto el maquinista no excedió.
 En la investigación no se constató infracción de las funciones y obligaciones del transportista.
@@ -938,6 +969,7 @@ En la investigación no se constató infracción de las funciones y obligaciones
 En la investigación no se constató infracción de las funciones y obligaciones de las entidades de certificación responsables del mantenimiento del DV.
 
 ## Página 39
+
 
 ### 4.1.7 Cualquier otra persona o entidad
 Las tareas y obligaciones de otras personas o entidades no guardaban relación con la aparición de la MU.
@@ -958,8 +990,8 @@ En la investigación no se detectaron otros factores relacionados con el MR, la 
 ### 4.3.1 Características humanas e individuales
 En la investigación no se detectaron factores relacionados con la formación profesional de los empleados, el estado de salud y la situación personal, incluido el estrés físico y psicológico.
 
-
 ## Página 40
+
 
 ### 4.3.2 Factores laborales
 En la investigación no se detectaron factores relacionados con el contenido del trabajo o la jornada laboral de los empleados del gestor de la infraestructura y del transportista. En la investigación no se constató, en los empleados implicados, el incumplimiento de las condiciones de descanso antes del turno y de los descansos, respectivamente, del tiempo adecuado para el descanso y la alimentación durante el turno.
@@ -979,8 +1011,8 @@ En relación con la MP STROMOVÍ, es necesario indicar que en la PARTE PRIMERA, 
 De lo anterior se desprende que el sistema de garantía de la seguridad implantado por el gestor de la infraestructura SŽ presentaba deficiencias, en la medida en que la información parcial relativa a la seguridad contenida en la MP STROMOVÍ no era coherente (indiscutible).
 Dicho hallazgo no puede valorarse en relación causal con la aparición de la MU, puesto que en la propia ambigüedad del concepto «árbol o arbusto» y en su uso no se detectó una relación directa con la no retirada de la masa arbórea – del árbol que crecía en la zona de protección de la vía, en la parcela núm. 528/1, situada en el municipio de Šumná [594911], en el término municipal de Šumná [764256], registrado en el registro de la propiedad inmobiliaria con el uso «vía», cuya parte desprendida de la
 
-
 ## Página 41
+
 
 copa creó un obstáculo en la vía en servicio en el tramo entre estaciones Olbramkostel – Šumná.
 ### Hallazgos:
@@ -1009,8 +1041,8 @@ El gestor de la infraestructura explotaba la vía al amparo de la autorización 
 ### 4.4.7 Otros factores sistémicos
 En la investigación no se detectaron otros factores sistémicos.
 
-
 ## Página 42
+
 
 ### 4.5 Sucesos anteriores de naturaleza similar
 La DI registra en el período comprendido entre el 1 de enero de 2013 y la fecha de aparición de la MU en cuestión, en las vías ferroviarias de categoría nacional y regional (se incluyeron todos los gestores de la infraestructura), un total de 1 079 MU similares, cuya causa de aparición fue la colisión de un tren con un obstáculo – un árbol o árboles (o sus partes) situados en el perfil de paso de la vía en servicio, como consecuencia de las cuales 13 personas resultaron lesionadas, en las que se produjo un daño material de 185 865 505 CZK y el transporte ferroviario se interrumpió en los tramos afectados, en su conjunto, durante 164 días, 7 h y 8 min.
@@ -1031,28 +1063,31 @@ Tampoco puede pasar desapercibido que, sobre la base de las MU de naturaleza sim
 
 ## Página 43
 
-del tren R 895 con un árbol arrancado en la vía, se habían registrado en total 849 sucesos similares. Como consecuencia de estos sucesos se originó, entre otros, un daño material total de 94 136 999 Kč.
-En relación con este periodo – es decir, hasta el 22. 1. 2025, es decir, hasta la aparición del suceso objeto de estudio, se produjo un aumento del número total de sucesos hasta
-## 1 079
-, lo que representa un incremento de 230 casos en un lapso de tiempo inferior a dos años. Este aumento corresponde a más de una cuarta parte de todos los sucesos registrados durante el decenio anterior y evidencia una aceleración significativa del ritmo de su aparición. Con esta tendencia está estrechamente relacionado también el notable aumento del daño material total – mientras que en el periodo comprendido entre el 1. 1. 2013 y el 13. 2. 2023 el daño material total ascendía a
-### 94 136 999 Kč, hasta el 22. 1. 2025 esta cifra se aproxima al doble y alcanzó
-185 865 505 Kč. Esto representa un aumento de más de 91 millones de Kč, es decir, casi un 97 % respecto al balance decenal original. Este desarrollo evidencia un grado creciente de riesgo y subraya la necesidad de centrarse sistemáticamente en la prevención y en la evitación más eficaz de la aparición de estos sucesos.
-Antes de la aparición del suceso objeto de estudio, la DI investigó desde el 1. 1. 2013 un total de 7 sucesos similares:
-•
-del 4. 2. 2014 (6:28:42 h), entre Jindřichov ve Slezsku st. hr. y la est. Jindřichov ve Slezsku, donde se produjo la colisión del tren Sp 1661 con tres árboles caídos y el consiguiente descarrilamiento. La causa inmediata del suceso fue la alteración del perfil de rodadura de la vía entre Jindřichov ve Slezsku st. hr. y la est. Jindřichov ve Slezsku por un obstáculo en la vía de circulación, originado por la caída de tres árboles (robles) situados en el ámbito de la vía a una distancia de caída desde el eje de la vía. Los árboles caídos en la vía no presentaban signos de pudrición ni otros defectos;
-•
-del 11. 1. 2015 (6:55 h), entre la est. Rožná y la est. Nedvědice, donde se produjo la colisión del tren Os 14905 con dos árboles caídos en la vía. La causa inmediata del suceso fue el arrancamiento y la posterior caída de dos árboles, situados en la franja de protección de la vía, sobre la vía. Los árboles caídos en la vía presentaban signos de pudrición interna;
-•
-del 12. 8. 2017 (5:55 h), entre la est. Mostek y la est. Bílá Třemešná, donde se produjo la colisión del tren R 1261 con un árbol caído y el consiguiente descarrilamiento. La causa inmediata del suceso fue la alteración del perfil de rodadura de la vía por un obstáculo – el tronco caído de un árbol situado en el ámbito de la vía a una distancia de caída del perfil de rodadura de la vía. El árbol caído en la vía presentaba signos de pudrición interna;
-•
-del 21. 9. 2018 (19:14 h), entre la est. Holýšov y Staňkov, donde se produjo la colisión del tren Os 7424 con árboles caídos. La causa inmediata del suceso fue la alteración del perfil de rodadura de la vía por un obstáculo – los troncos caídos de cuatro árboles situados en la franja de protección de la vía a una distancia de caída del perfil de rodadura de la vía. Los árboles caídos en la vía no presentaban signos de pudrición ni otros defectos;
-•
-del 24. 7. 2019 (4:36 h), entre la est. Nová Paka y Lázně Bělohrad, donde se produjo la colisión del tren Os 5700 con un obstáculo (un árbol caído sobre la vía) y el consiguiente descarrilamiento. La causa inmediata del suceso fue la alteración del perfil de rodadura de la vía por un obstáculo – una parte desprendida de un árbol situado en el ámbito de la vía a una distancia de caída del perfil de rodadura de la vía. El árbol caído en la vía presentaba signos de pudrición interna;
-•
-del 17. 2. 2022 (7:32 h), entre la est. Žďárec u Skutče y Hlinsko v Čechách, donde se produjo la colisión del tren Os 5315 con árboles arrancados y su consiguiente descarrilamiento. La causa inmediata del suceso fue la alteración del perfil de rodadura de la vía por un obstáculo – los troncos de árboles arrancados situados en la franja de protección de la vía a una distancia de caída del perfil de rodadura de la vía, como consecuencia de fenómenos
+colisión del tren R 895 con un árbol arrancado en la vía, se registraron en total 849 casos similares de MU. Como consecuencia de estos sucesos se produjo, entre otros, un daño material total por importe de 94 136 999 Kč.
 
+En relación con este período – es decir, hasta el 22. 1. 2025, esto es, hasta la aparición de la MU en cuestión – se produjo un aumento del número total de MU hasta
+## 1 079
+, lo que representa un incremento de 230 casos en un período de tiempo inferior a dos años. Este aumento equivale a más de una cuarta parte de todos los sucesos registrados durante el período anterior de diez años, y pone de manifiesto una aceleración notable del ritmo de su aparición. Con esta tendencia se relaciona también el notable aumento del daño material total – mientras que en el período comprendido entre el 1. 1. 2013 y el 13. 2. 2023 el daño material total ascendió a
+### 94 136 999 Kč, hasta el 22. 1. 2025 esta cifra se aproxima al doble y alcanzó
+185 865 505 Kč. Esto representa un aumento de más de 91 millones de Kč, es decir, casi un 97 % respecto a la balanza original de diez años. Esta evolución pone de manifiesto un grado creciente de riesgo y subraya la necesidad de abordar sistemáticamente la prevención y la evitación más eficaz de la aparición de estas MU.
+
+Antes de la aparición de la MU en cuestión, la DI investigó, desde el 1. 1. 2013, un total de 7 MU similares:
+
+•
+del 4. 2. 2014 (6:28:42 h), entre Jindřichov ve Slezsku st. hr. y la est. Jindřichov ve Slezsku, donde se produjo la colisión del tren Sp 1661 con tres árboles caídos y el posterior descarrilamiento. La causa inmediata de la MU fue la vulneración del perfil de circulación de la vía entre Jindřichov ve Slezsku st. hr. y la est. Jindřichov ve Slezsku por un obstáculo en la vía de circulación de la vía, originado por la caída de tres árboles (robles) situados en el ámbito de la vía a una distancia de impacto desde el eje de la vía. Los árboles caídos en la vía no presentaban signos de pudrición ni de otro defecto;
+•
+del 11. 1. 2015 (6:55 h), entre la est. Rožná y la est. Nedvědice, donde se produjo la colisión del tren Os 14905 con dos árboles caídos en la vía. La causa inmediata de la MU fue el arranque y la posterior caída de dos árboles, situados en la franja de protección de la vía, sobre la vía. Los árboles caídos en la vía presentaban signos de pudrición interna;
+•
+del 12. 8. 2017 (5:55 h), entre la est. Mostek y la est. Bílá Třemešná, donde se produjo la colisión del tren R 1261 con un árbol caído y el posterior descarrilamiento. La causa inmediata de la MU fue la vulneración del perfil de circulación de la vía por un obstáculo – el tronco caído de un árbol situado en el ámbito de la vía a una distancia de impacto del perfil de circulación de la vía. El árbol caído en la vía presentaba signos de pudrición interna;
+•
+del 21. 9. 2018 (19:14 h), entre la est. Holýšov y Staňkov, donde se produjo la colisión del tren Os 7424 con árboles caídos. La causa inmediata de la MU fue la vulneración del perfil de circulación de la vía por un obstáculo – los troncos caídos de cuatro árboles situados en la franja de protección de la vía a una distancia de impacto del perfil de circulación de la vía. Los árboles caídos en la vía no presentaban signos de pudrición ni de otro defecto;
+•
+del 24. 7. 2019 (4:36 h), entre la est. Nová Paka y Lázně Bělohrad, donde se produjo la colisión del tren Os 5700 con un obstáculo (un árbol caído sobre la vía) y el posterior descarrilamiento. La causa inmediata de la MU fue la vulneración del perfil de circulación de la vía por un obstáculo – la parte desprendida de un árbol situado en el ámbito de la vía a una distancia de impacto del perfil de circulación de la vía. El árbol caído en la vía presentaba signos de pudrición interna;
+•
+del 17. 2. 2022 (7:32 h), entre la est. Žďárec u Skutče y Hlinsko v Čechách, donde se produjo la colisión del tren Os 5315 con árboles arrancados y su posterior descarrilamiento. La causa inmediata de la MU fue la vulneración del perfil de circulación de la vía por un obstáculo – los troncos de árboles arrancados situados en la franja de protección de la vía a una distancia de impacto del perfil de circulación de la vía, como consecuencia de efectos negativos
 
 ## Página 44
+
 
 meteorológicos adversos acaecidos en los días anteriores a la aparición del suceso, en combinación con una situación meteorológica extrema vigente en el momento de su aparición, a lo que precedieron:
 ◦la no identificación y no evaluación a largo plazo de la arboleda situada en un terreno con función forestal, en la franja de protección de la vía y a una distancia de caída del perfil de rodadura de la vía, como fuente de peligro para la seguridad o la continuidad del transporte ferroviario o para la operatividad de la vía;
@@ -1070,8 +1105,8 @@ Causa inmediata:
 •
 la alteración del perfil de rodadura de la vía entre las estaciones Olbramkostel y Šumná por un obstáculo – una parte desprendida de la copa de un árbol situado en la franja de protección de la vía a una distancia de caída del perfil de rodadura de la vía, como consecuencia de su vitalidad reducida y de un crecimiento defectuoso de una rama esquelética, causado por su no selección para su eliminación en el marco de la actividad de inspección para garantizar la operatividad de la vía y por su no eliminación.
 
-
 ## Página 45
+
 
 Factor contribuyente:
 •
@@ -1113,8 +1148,8 @@ the causes and circumstances of the occurrence were discuss at advisory force of
 director of the Regional directorate Brno.
 The railway undertaking ČD did not take any measures.
 
-
 ## Página 46
+
 
 ### 5.3 Hallazgos complementarios
 En el gestor de la infraestructura SŽ:
@@ -1151,27 +1186,25 @@ Certificado del firmante:
 Nombre: Drážní inspekce
 Emitido por: PostSignum Qualified CA 4
 
-
 ## Página 47
+
 
 ### ANEXOS
 Fig. n.º 6: Vista del árbol del que se desprendió una parte de la copa sobre la vía
 Olbramkostel – Šumná
            Fuente: transportista ČD
 
-
 ## Página 48
+
 
 Fig. n.º 7: Vista del frontal del ŘDV 914.199-5 del tren Os 24836 en posición final tras el suceso
   Fuente: SŽ
 Fig. n.º 8: Vista de la parte frontal izquierda del ŘDV 914.199-5 del tren Os 24836 tras la aparición del suceso
   Fuente: SŽ
 
-
 ## Página 49
 
-Fig. n.º 9: Vista del compartimento frontal para pasajeros, de la pared trasera deformada de la cabina del maquinista y de la cabina
-del maquinista del ŘDV 914.199-5 del tren Os 24836 tras la aparición del suceso
+Fig. n.º 9: Vista del compartimento delantero de pasajeros, la pared trasera deformada de la cabina del maquinista y la cabina del maquinista del ŘDV 914.199-5 del tren Os 24836 tras la aparición de MU
    Fuente: ČD
-Fig. n.º 10: Vista del pupitre de control de la posición del maquinista del ŘDV 914.199-5 del tren Os 24836 tras la aparición del suceso
+Fig. n.º 10: Vista del pupitre de control del puesto de conducción del ŘDV 914.199-5 del tren Os 24836 tras la aparición de MU
    Fuente: ČD

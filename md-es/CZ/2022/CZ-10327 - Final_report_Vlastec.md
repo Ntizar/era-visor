@@ -10,13 +10,14 @@ chars: 82789
 ratio_longitud: 1.26
 tokens_in: 45248
 tokens_out: 32112
-verificacion: revisar
-notas_cifras: ["bloque 1: original bilingüe: se compara contra el idioma principal (EN)", "bloque 4: original bilingüe: se compara contra el idioma principal (CS); cifras cortas: 2/93", "bloque 6: original bilingüe: se compara contra el idioma principal (PT)"]
-avisos: ["bloque 4: ratio 1.83", "bloque 6: ratio 1.91"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 5: original bilingüe: se compara contra el idioma principal (CS)", "página 6: original bilingüe: se compara contra el idioma principal (CS)", "página 9: original bilingüe: se compara contra el idioma principal (CS)", "página 10: original bilingüe: se compara contra el idioma principal (CS)", "página 11: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -41,13 +42,13 @@ IČ: 75009561
 mail@dicr.cz
 tel.: +420 736 521 003
 
-
 ## Página 2
+
 
 Este informe final es público y todos los hechos en él recogidos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ## 1 Resumen
      Fuente: Drážní inspekce
@@ -70,8 +71,8 @@ No fue detectado por la Drážní inspekce ningún factor contribuyente.
 No fue detectada por la Drážní inspekce ninguna causa sistémica.
 No fue emitida por la Drážní inspekce ninguna recomendación de seguridad.
 
-
 ## Página 4
+
 
 ## SUMMARY
 30th October 2022, 20:02 (18:02 GMT).
@@ -104,8 +105,8 @@ Systemic factor:
 none.
 Recommendation: not issued.
 
-
 ## Página 5
+
 
 ### Índice
 1 Resumen........................................................................................................................3
@@ -147,8 +148,8 @@ SUMMARY.........................................................................
 4.2 Vehículos ferroviarios e instalaciones técnicas..........................................................27
 4.2.1 Factores o consecuencias derivados del diseño de los vehículos ferroviarios, de la infraestructura ferroviaria o de las instalaciones técnicas............................................................................27
 
-
 ## Página 6
+
 
 4.2.2 Factores o consecuencias derivados de la instalación y de la puesta en servicio de los vehículos ferroviarios, de la infraestructura ferroviaria o de las instalaciones técnicas.....................................................................................................27
 4.2.3 Factores o consecuencias relacionados con los fabricantes de vehículos ferroviarios u otros proveedores de productos ferroviarios...........................................................................27
@@ -179,6 +180,7 @@ SUMMARY.........................................................................
 ANEXOS............................................................................................................................32
 
 ## Página 7
+
 
 ### Lista de siglas y símbolos utilizados
 CDP
@@ -238,8 +240,8 @@ Informe Final sobre los resultados de la investigación de la ocurrencia extraor
 žst.
 estación ferroviaria
 
-
 ## Página 8
+
 
 ### Lista de siglas de las disposiciones legales, normas y normativa interna utilizadas
 ley núm. 266/1994 Sb.
@@ -289,8 +291,8 @@ normativa interna del explotador del ferrocarril SŽ, «SŽDC (ČD) Z11
 Reglamento para la explotación de los aparatos de radio», en la redacción vigente
 en el momento de la ocurrencia de la ocurrencia extraordinaria
 
-
 ## Página 9
+
 
 Disposiciones complementarias a la normativa interna del explotador del ferrocarril SŽ, «SŽDC (ČD) Z1
 Reglamento para la explotación de los aparatos de enclavamiento de estación y de vía» para la est. Záhoří y las est. Vlastec, est. Červená nad Vltavou controladas a distancia, en la redacción vigente
@@ -303,8 +305,8 @@ en el momento de la ocurrencia de la ocurrencia extraordinaria
 Especificaciones técnicas de sistemas, dispositivos y productos – Aviso en caso de paso indebido de señal, edición I., número 2/2014-S,Z, en la redacción vigente
 en el momento de la ocurrencia de la ocurrencia extraordinaria
 
-
 ## Página 10
+
 
 ## 2 INVESTIGACIÓN Y SU RELACIÓN
 ### 2.1 Decisión de iniciar la investigación
@@ -342,8 +344,8 @@ análisis del registro del SZZ;
 •
 análisis de la documentación solicitada al explotador del ferrocarril y al operador;
 
-
 ## Página 11
+
 
 •
 declaraciones de los empleados participantes.
@@ -374,8 +376,8 @@ más allá de la señal S1).
 ### 3.1.3 Descripción del lugar del suceso
 La est. Vlastec se sitúa en el pk 44,985 del ferrocarril regional de la línea única Tábor – Písek. El lugar de la ocurrencia de la MU fue la señal de salida S1 situada a la derecha junto a la vía de estación n.º 1 en el pk 44,791 en la est. Vlastec en el sentido de circulación del tren Os 8415 hacia la est. Červená nad Vltavou.
 
-
 ## Página 12
+
 
 ### est. Červená nad Vltavou
 x
@@ -405,8 +407,8 @@ De la inspección de la cabina desde la que el maquinista conducía el DV se con
 ➢la cabina, incluido el pupitre de mando, no presentaba signos de deformación ni de daños; en el pupitre de mando se encontraba una radio VS-67 encendida, número de fabricación 789, con la banda n.º 65 configurada, el número de tren 8415 y la indicación del símbolo de la orden «PARO»;
 ➢la pantalla del velocímetro electrónico tipo UniControls Tramex RE1xx, número de fabricación 2118, mostraba el valor 0 km.h-1;
 
-
 ## Página 13
+
 
 ➢la manija del controlador combinado estaba en la posición «0»;
 ➢el indicador de presión de aire en la tubería de freno mostraba el valor 0 bar, en el depósito de aire principal 8 bar, en el cilindro de freno 4 bar;
@@ -432,6 +434,7 @@ Fig. n.º 2: Posición final de los trenes tras la MU, distancia entre las cabez
 De la inspección de la cabina desde la que el maquinista conducía el DV se constató:
 
 ## Página 14
+
 
 ➢la cabina, incluida la consola de mando, no presentaba signos de deformación ni daños; en la consola de mando se encontraba ubicada la estación de radio VS-67 encendida, número de fabricación 1654, con la banda n.º 65 configurada, el número de tren 8416 y la indicación del símbolo de la orden «STOP»;
 ➢la unidad de visualización del velocímetro electrónico tipo UniControls Tramex RE1xx, número de fabricación 113, mostraba el valor 0 km.h-1;
@@ -464,8 +467,8 @@ tras la liberación de la aguja, se detectaron pequeños desgastes en el lado iz
 •
 por parte de personas cualificadas del explotador de la vía se realizó la prueba de enclavamiento y la medición GPK de la aguja; los valores medidos cumplían lo dispuesto en la norma ČSN 73 6360-2.
 
-
 ## Página 15
+
 
 La est. Vlastec estaba equipada con un sistema de seguridad y señalización (SZZ) de 3.ª categoría tipo Remote 98 – enclavamiento de relés de despacho controlado desde el Puesto de Mando Central (JOP) en la est. Záhoří, con la funcionalidad de aviso ante el paso indebido de una señal. Asimismo, se descargaron las grabaciones de las llamadas desde el dispositivo de grabación ReDat.
 En el Registro de averías del sistema de comunicaciones y de seguridad de la est. Záhoří no constaba ninguna avería registrada el 30. 10. 2022 hasta la hora de producción del accidente ferroviario (MU).
@@ -500,8 +503,8 @@ El propietario de la vía ferroviaria, categoría regional, Tábor – Písek, e
 El derecho de administrar los bienes del Estado lo ejercía SŽ, con domicilio en Dlážděná 1003/7, Praha 1, CP 110 00.
 El explotador de la vía ferroviaria, categoría regional, Tábor – Písek, era SŽ.
 
-
 ## Página 16
+
 
 El transportista de los trenes Os 8415 y Os 8416 era ČD, con domicilio en Nábřeží L. Svobody 1222, Praha 1, CP 110 15.
 El transporte ferroviario se prestaba en virtud de un contrato celebrado entre el explotador de la vía SŽ y el transportista ČD el 29. 9. 2022, con efectos desde el 30. 9. 2022.
@@ -543,8 +546,8 @@ del frenado de acción rápida;
 20:02:23 h – recorridos 225 m, descenso de la velocidad de 11 km.h-1 a 5 km.h-1,
 •
 
-
 ## Página 17
+
 
 continuación del frenado de acción rápida;
 20:02:24 h – recorridos 227 m, descenso brusco de la velocidad de 5 km.h-1 a 0 km.h-1 y nuevo
@@ -591,8 +594,8 @@ De los datos registrados se desprende:
 •
 20:02:33 h – recorridos 5038 m, parada de la cabeza del tren en el pk 44,706, 12 m antes de la cabeza del tren Os 8415 detenido;
 
-
 ## Página 18
+
 
 •
 20:02:42 h – disparo de la válvula VZ – Parada general.
@@ -613,61 +616,81 @@ jefe de estación de la est. Záhoří
 
 ## Página 19
 
-◦el tren Os 8415 entró en la est. Vlastec en la vía SK n.º 1, a continuación cerró el paso a nivel (P6275) en dirección a la est. Červená nad Vltavou, para que tras el cruce el tren Os 8415 no tuviera que esperar al cierre del paso a nivel;
-◦seguidamente, para el tren Os 8416, estableció la vía de tren de salida en la est. Vlastec y la vía de tren de entrada a la est. Záhoří;
-◦a continuación, miró el monitor del sistema de cámaras y comprobó que el tren Os 8415 no estaba detenido en el andén, por lo que utilizó sin dilación la «PARADA GENERAL» y llamó repetidamente: «¡Trenes 8415 y 8416, Pare, Pare, Pare!»
-◦en ese mismo momento, en el monitor de entrada de la JOP apareció el corte de la aguja n.º 1 en la est. Vlastec;
-◦un momento después, el maquinista del tren Os 8415 la llamó para decirle que «había cortado» la aguja n.º 1 y que estaba frente al tren Os 8416 a una distancia aproximada de 10 – 20 m;
-◦a continuación, advirtió a los maquinistas de ambos trenes que tenían prohibido cualquier maniobra con los vehículos debido a la declaración de MU, y comenzó a realizar las actuaciones conforme al Cuadro de Declaraciones.
+◦el tren Os 8415 entró en la est. Vlastec en la vía SK n.º 1, a continuación cerró el paso a nivel (P6275)
+en dirección a la est. Červená nad Vltavou, para que tras el cruzamiento el tren Os 8415 no esperara
+al cierre del paso a nivel;
+◦seguidamente, para el tren Os 8416, estableció la vía de salida de tren en la est. Vlastec
+y la vía de entrada de tren hacia la est. Záhoří;
+◦después miró el monitor del sistema de cámaras y comprobó que el tren Os 8415
+no estaba junto al andén, y por ello utilizó sin dilación «Parada GENERAL» y llamó repetidamente
+«Trenes 8415 y 8416 ¡Alto, Alto, Alto!»
+◦en ese mismo momento apareció en el monitor de entrada de la JOP la sección de la aguja n.º 1 en la est.
+Vlastec;
+◦al poco rato le llamó el maquinista del tren Os 8415, que «había cortado» la aguja n.º 1 y estaba frente
+al tren Os 8416 aproximadamente a una distancia de 10 – 20 m;
+◦acto seguido, advirtió a los maquinistas de ambos trenes que tenían prohibida cualquier maniobra
+con los vehículos debido a la declaración de MU, y comenzó a realizar actuaciones conforme al Horario de Declaraciones. 
 •
 maquinista del tren Os 8415
   – Acta con el empleado:
-◦al incorporarse al servicio estaba en buen estado, descansado, sano y no se encontraba alterado por ninguna influencia del ámbito familiar ni laboral;
-◦partió de la est. Záhoří con el tren Os 8415 con un retraso de unos 12 – 13 minutos y continuó la marcha en dirección a la est. Vlastec;
-◦al acercarse a la est. Vlastec, en el preaviso del semáforo de entrada lucía la señal «Vía libre» y, posteriormente, en el semáforo de entrada la señal «Aviso», entró con el tren en la estación por la vía SK n.º 1 y se detuvo en el andén para el desembarco y embarque de pasajeros;
-◦tras el embarque de los pasajeros, el jefe de tren le dio la señal «Autorización para la salida», cerró las puertas y se puso en marcha;
-◦al acercarse con la cabeza del tren al semáforo (nota DI: semáforo de salida S1), se percató de que allí lucía la señal «Alto»;
-◦inmediatamente aplicó el frenado de acción rápida, pero no logró detenerse antes del semáforo de salida; a pesar del frenado intenso, logró detener el tren únicamente en el espacio de la aguja n.º 1;
-◦tras detenerse, aún escuchó en el radioteléfono «8415 Alto, Alto» y registró que frente a él se había detenido el tren en sentido contrario;
-◦no pudo comunicarse por radioteléfono con la jefa de estación, por lo que utilizó el teléfono móvil y le comunicó el suceso (nota DI: origen de la MU);
-◦a continuación, recibió del jefe de tren del tren la información de que los pasajeros estaban bien.
+◦al incorporarse al servicio estaba en buen estado, descansado, sano y no se encontraba alterado por
+ninguna influencia del ámbito doméstico ni laboral;
+◦con el tren Os 8415 partió de la est. Záhoří con un retraso de unos 12 – 13 minutos
+y continuó la marcha en dirección a la est. Vlastec;
+◦cuando se aproximaba a la est. Vlastec, en el preaviso del semáforo de entrada lucía la señal
+«Vía libre» y a continuación en el semáforo de entrada la señal «Aviso», entró con el tren
+en la estación en la vía SK n.º 1 y se detuvo junto al andén para el desembarque y embarque de pasajeros;
+◦tras el embarque de los pasajeros, el jefe de tren le dio la señal «Autorización para la salida», cerró
+las puertas y se puso en marcha;
+◦cuando se aproximaba con el tren al extremo hacia el semáforo (nota DI: semáforo de salida S1), se percató
+de que allí lucía la señal «Alto»;
+◦inmediatamente aplicó el frenado de acción rápida, pero no logró detenerse antes del semáforo de
+salida; a pesar del frenado intenso, logró detener el tren únicamente en el espacio de la aguja n.º 1;
+◦tras detenerse, aún escuchó en el radioteléfono «8415 Alto, Alto» y registró que
+frente a él se había detenido el tren que circulaba en sentido contrario;
+◦no pudo comunicarse por radioteléfono con el jefe de estación, por lo que utilizó el teléfono móvil y le comunicó
+el suceso (nota DI: origen de la MU);
+◦a continuación recibió del jefe de tren del tren la información de que los pasajeros estaban
+en buen estado. 
 •
 maquinista del tren Os 8416
   – Acta con el empleado:
-◦al incorporarse al servicio estaba en buen estado, descansado, sin signos de fatiga y no se encontraba alterado por ninguna influencia del ámbito familiar ni laboral;
-◦partió de la est. Červená nad Vltavou con el tren Os 8416 en el horario previsto y continuó en dirección a la est. Vlastec;
-
+◦al incorporarse al servicio estaba en buen estado, descansado, sin signos de fatiga y no se encontraba alterado por
+ninguna influencia del ámbito doméstico ni laboral;
+◦con el tren Os 8416 partió en horario regular de la est. Červená nad Vltavou
+y continuó hacia la est. Vlastec;
 
 ## Página 20
 
-◦al acercarse a la est. Vlastec, en el preaviso del semáforo de entrada lucía la señal «Espere velocidad 40» y, cuando se aproximó con el tren al semáforo de entrada de la est. Vlastec, en este lucía la señal «Velocidad 40 y aviso»;
-◦redujo la velocidad indicada por el semáforo de entrada a 40 km.h-1, a la que pasó junto al semáforo de entrada;
-◦al salir de la curva en dirección a la estación de ferrocarril, se percató de que en el espacio de la primera aguja había un tren detenido;
-◦inmediatamente aplicó el frenado de acción rápida y detuvo el tren;
-◦justo después de detenerse, el radioteléfono comenzó a señalizarle «PARADA GENERAL» y en el emisor-receptor escuchó «tren 8415 Alto, Alto»;
-◦aseguró la locomotora y fue a informar al jefe de tren de lo ocurrido y a preguntar si había pasajeros heridos;
-◦a continuación, fue hasta el maquinista del tren en sentido contrario Os 8415, que le dijo que había pasado (nota DI: semáforo de salida S1) y que ya había contactado con la jefa de estación de Záhoří.
-El espacio en el lugar de la MU estaba monitorizado por un sistema de cámaras con grabación. Del análisis de estas grabaciones, que fueron facilitadas a la DI en el marco de la investigación, se desprende:
+◦cuando se aproximaba a la est. Vlastec, en el preaviso del señal de entrada se mostraba la indicación «Espere velocidad 40», y cuando se aproximó con el tren al señal de entrada de la est. Vlastec, en este se mostraba la indicación «Velocidad 40 y aviso»;
+◦redujo la velocidad indicada por el señal de entrada a 40 km.h-1, a la que pasó junto al señal de entrada;
+◦cuando salía del arco en dirección a la estación de ferrocarril, se percató de que en el espacio de la primera aguja se encontraba detenido un tren;
+◦inmediatamente aplicó frenado de acción rápida y detuvo el tren;
+◦justo después de detenerse, la radio le comenzó a señalar «PARADA GENERAL» y en el walkie-talkie escuchó «tren 8415 Alto, Alto»;
+◦aseguró el automotor y fue a informar al jefe de tren de lo ocurrido y a preguntar si había pasajeros heridos;
+◦luego fue a buscar al maquinista del tren contrario Os 8415, que le dijo que había pasado (nota DI: la señal de salida S1) y que ya había contactado con el jefe de estación de la est. Záhoří.
+El espacio en el lugar del MU estaba monitorizado por un sistema de cámaras con grabación. Del análisis de estas grabaciones, que fueron facilitadas a la DI en el marco de la investigación, se desprende:
 •
-el tren Os 8415 se detuvo en la vía SK n.º 1 en el andén a las 20:01:24 h;
+el tren Os 8415 se detuvo en la SK n.º 1 junto al andén a las 20:01:24 h;
 •
-tras la apertura de las puertas de entrada y el embarque de dos personas, el jefe de tren dio la autorización para la salida; a las 20:01:52 h el tren Os 8415 se puso en marcha en dirección al semáforo de salida S1, junto al cual pasó indebidamente a las 20:02:14 h;
-• el desfase horario de la grabación de cámaras respecto a la grabación del registrador de velocidad del HDV fue de más 1 h 1 min 10 s.
+tras abrir las puertas de entrada y subir dos personas, la jefa de tren dio el permiso de salida; a las 20:01:52 h el tren Os 8415 comenzó a marchar en dirección a la señal de salida S1, junto a la cual a las 20:02:14 h pasó indebidamente;
+•
+el desfase temporal de la grabación de cámara respecto a la grabación del registrador de velocidad del HDV fue de más 1 h 1 min 10 s.
 ### 3.2 Descripción fáctica del suceso
 ### 3.2.1 Secuencia de hechos que condujeron al suceso excepcional
-El 30 de octubre de 2022 debía producirse el cruce regular de los trenes Os 8415 y Os 8416 en la est. Červená nad Vltavou. Debido al retraso del tren Os 8415, la jefa de estación de Záhoří decidió trasladar dicho cruce a la est. Vlastec. Para ello, estableció en la est. Vlastec la vía de tren desde el semáforo de entrada S a la vía SK n.º 1 para el tren Os 8415 y desde el semáforo de entrada L a la vía SK n.º 3 para el tren Os 8416.
-A continuación se indica la secuencia cronológica resumida de los sucesos, incluyendo la indicación de la fuente de información:
+El 30. 10. 2022 debía producirse el cruce regular de los trenes Os 8415 y Os 8416 en la est. Červená nad Vltavou. Debido al retraso del tren Os 8415, el jefe de estación de la est. Záhoří decidió trasladar dicho cruce a la est. Vlastec. Por ello estableció en la est. Vlastec una vía de tren desde el señal de entrada S hasta la SK n.º 1 para el tren Os 8415 y desde el señal de entrada L hasta la SK n.º 3 para el tren Os 8416.
+A continuación se indica la secuencia cronológica resumida de los sucesos, incluida la indicación de la fuente de información:
 •
-19:57:58 h – establecimiento de la vía de tren para el tren Os 8415 desde el semáforo de entrada S a la vía SK n.º 1 en la est. Vlastec (fuente: dispositivo de registro SZZ);
+19:57:58 h – establecimiento de la vía de tren para el tren Os 8415 desde el señal de entrada S hasta la SK n.º 1 en la est. Vlastec (fuente: dispositivo de registro SZZ);
 •
-19:58:10 h – establecimiento de la vía de tren para el tren Os 8416 desde el semáforo de entrada L a la vía SK n.º 3 en la est. Vlastec (fuente: dispositivo de registro SZZ);
+19:58:10 h – establecimiento de la vía de tren para el tren Os 8416 desde el señal de entrada L hasta la SK n.º 3 en la est. Vlastec (fuente: dispositivo de registro SZZ);
 •
-20:00:33 h – el tren Os 8415 pasó junto al semáforo de entrada «S» con la señal «Aviso» (fuente: dispositivo de registro SZZ);
+20:00:33 h – el tren Os 8415 pasó junto al señal de entrada «S» con la indicación «Aviso» (fuente: dispositivo de registro SZZ);
 •
-20:00:58 h – el tren Os 8415 se detuvo en el andén de la vía SK n.º 1 (fuente: dispositivo de registro SZZ, registro del registrador de velocidad, sistema de cámaras);
-
+20:00:58 h – el tren Os 8415 se detuvo junto al andén en la SK n.º 1 (fuente: dispositivo de registro
 
 ## Página 21
+
 
 •
 20:01:50 h – paso del tren Os 8416 junto al semáforo de entrada «L» hacia la est. Vlastec (fuente: registro del registrador de velocidad);
@@ -713,8 +736,8 @@ En el lugar de la MU intervinieron los siguientes cuerpos de la IZS:
 •
 PČR, Servicio de Policía Criminal e Investigación de Písek;
 
-
 ## Página 22
+
 
 •
 PČR, Departamento de Distrito de Zvíkovské Podhradí;
@@ -733,6 +756,7 @@ La preparación y el establecimiento de la vía de tren del tren Os 8416 en la e
 Conforme al texto de la Especificación Técnica de sistemas, dispositivos y productos – Aviso por paso indebido de un semáforo, edición I, número 2/2014-S, Z y al art. 53 de la norma interna SŽDC (ČD) Z11, ante una amenaza inminente para la circulación ferroviaria, especialmente si son
 
 ## Página 23
+
 
 se ponen en peligro vidas humanas y si existe riesgo por demora, el jefe de estación (despachador) debe presumir que la locomotora está equipada con un dispositivo funcional para detener el tren, debe intentar detener el tren (PMD) mediante la operación del TRS enviando la orden codificada «STOP», o
 ### «GENERÁLNÍ STOP». Al mismo tiempo, debe informar al maquinista del peligro inminente verbalmente mediante la función TRS – «GENERÁLNÍ VOLBA».
@@ -753,8 +777,8 @@ En la explotación de la vía, del transporte ferroviario y de los remontes mec�
 punto 2.2.7 de la Disposición complementaria al reglamento interno del operador ferroviario SŽ,
 «SŽDC (ČD) Z1 Reglamento para la operación de las instalaciones de seguridad de estación y de línea»
 
-
 ## Página 24
+
 
 para la estación de Záhoří y las estaciones de Vlastec y Červená nad Vltavou controladas a distancia establece:
 «El paso indebido de señal se indica mediante un símbolo amarillo intermitente de signo de exclamación indicado en el monitor del esquema de la vía en el lugar del elemento de detección (normalmente inmediatamente después del símbolo de la señal en la que está instalado el elemento de detección). En el monitor del esquema de la vía se muestra el mensaje "Paso indebido de señal XX".»;
@@ -774,8 +798,8 @@ punto 2.4.3.1 Especificaciones técnicas de sistemas, equipos y productos – Av
 El transportista está obligado, según las disposiciones de la Ley n.º 266/1994 Sb., entre otros, a explotar el transporte ferroviario de acuerdo con las reglas de explotación del transporte ferroviario, la licencia vigente y el contrato celebrado con el operador ferroviario para la explotación del transporte ferroviario en la vía, y durante la explotación del transporte ferroviario a regirse por las instrucciones del operador ferroviario impartidas en la organización del transporte ferroviario.
 Según las disposiciones del Decreto n.º 173/1995 Sb., el transportista está obligado a garantizar que el maquinista conduzca el DV solo desde el puesto desde el que existe la mejor visibilidad, normalmente desde la cabina delantera del maquinista en el sentido de la marcha, que desde el puesto de mando del DV observe la vía y las señales y actúe según los hechos constatados, que durante la marcha no supere la velocidad máxima permitida establecida en el horario de circulación o la velocidad limitada ordenada, que haga poner en marcha el HDV solo ante la
 
-
 ## Página 25
+
 
 señal «Odjezd» (Salida) u otra autorización establecida por el operador ferroviario y que detenga el tren antes del lugar señalizado.
 Para garantizar las actividades y para determinar la cualificación profesional de las personas que participan en la explotación del transporte ferroviario, cuando estas actividades las realicen empleados del transportista, sirven los procedimientos tecnológicos uniformes contenidos en los reglamentos internos del transportista, entre otros, en el reglamento interno del transportista ČD V2, y los empleados del transportista implicados en el MU (maquinistas) estaban obligados a cumplir las disposiciones correspondientes de dichos reglamentos. Del mismo modo, tienen la obligación de regirse por las instrucciones del operador ferroviario impartidas en la organización del transporte ferroviario, que se encuentran, entre otros, en el reglamento interno de SŽ D1.
@@ -808,8 +832,8 @@ art. 90 (3) del reglamento interno de SŽ D1:
 •
 art. 91 (1) del reglamento interno de SŽ D1:
 
-
 ## Página 26
+
 
 ### «La señal Stůj (Alto) (luz roja) prohíbe al maquinista la marcha del tren (PMD). …»
 •
@@ -832,6 +856,7 @@ En la inspección no se detectó el incumplimiento de las funciones y obligacion
 
 ## Página 27
 
+
 ### 4.1.5 Entidades notificadas, entidades designadas y entidades dedicadas a la evaluación de riesgos
 En la investigación no se detectó incumplimiento de las funciones y obligaciones de las entidades notificadas, las entidades designadas y las entidades dedicadas a la evaluación de riesgos.
 ### 4.1.6 Entidades de certificación responsables del mantenimiento del material rodante
@@ -852,25 +877,23 @@ En la investigación no se detectaron factores relacionados con la entidad respo
 4.2.6 Otros factores o consecuencias que se consideren relevantes a efectos de la investigación
 En la investigación no se detectaron otros factores relacionados con el material rodante, la infraestructura ferroviaria o las instalaciones técnicas.
 
-
 ## Página 28
 
 ### 4.3 Factores humanos
 ### 4.3.1 Características humanas e individuales
-La Inspección Ferroviaria, en la investigación del factor humano, trató de evaluar todas las circunstancias tenidas en cuenta que pudieron actuar sobre los empleados implicados y que, en su caso, pudieron tener influencia en la ocurrencia del SU. En el caso de los maquinistas de los trenes Os 8415 y Os 8416 y de la jefa de estación de la estación de Záhoří, se trató principalmente de evaluar su experiencia, conocimientos y antigüedad.
-El maquinista del tren Os 8415 trabajó en la función de maquinista desde el año 1985 de forma ininterrumpida hasta la ocurrencia del SU. Contaba, por tanto, con una antigüedad suficientemente larga y, según la documentación del operador ČD, tenía acreditadamente conocimiento de las condiciones de la línea. Estaba cualificado profesionalmente para el trabajo en la función de maquinista y su antigüedad, experiencia y conocimientos no tuvieron influencia en la ocurrencia del SU.
-El maquinista del tren Os 8416 trabajó en la función de maquinista desde el año 2019 de forma ininterrumpida hasta la ocurrencia del SU. Contaba, por tanto, con una antigüedad suficientemente larga y, según la documentación del operador ČD, tenía acreditadamente conocimiento de las condiciones de la línea. Estaba cualificado profesionalmente para el trabajo en la función de maquinista y su antigüedad, experiencia y conocimientos no tuvieron influencia en la ocurrencia del SU.
-La jefa de estación de la estación de Záhoří estaba cualificada profesionalmente, trabajó en la función de jefa de estación desde el año 1996 de forma ininterrumpida hasta la ocurrencia del SU. Contaba con una antigüedad suficientemente larga, experiencia y conocimientos, lo que se reflejó también en su reacción inmediata a la situación producida y en la realización de otras actuaciones sin dilación.
-Los empleados implicados de la empresa ČD, el maquinista del tren Os 8415, el maquinista del tren Os 8416 y el empleado del gestor de la infraestructura SŽ, la jefa de estación de la estación de Záhoří, se sometían a reconocimientos médicos periódicos de conformidad con lo dispuesto en el decreto n.º 101/1995 Sb. y, sobre la base de los informes médicos presentados sobre la aptitud para el trabajo, en el momento de la ocurrencia del SU estaban médicamente aptos para el desempeño de su función.
+La Inspección Ferroviaria, en la investigación del factor humano, trató de valorar todos los hechos tenidos en cuenta que pudieron actuar sobre los empleados implicados y, en su caso, pudieron tener influencia en la aparición del MU. En los maquinistas de los trenes Os 8415 y Os 8416 y en la jefa de estación de la est. Záhoří se trató, principalmente, de valorar sus experiencias, conocimientos y antigüedad en el puesto.
+El maquinista del tren Os 8415 trabajó en la función de maquinista desde 1985 de forma ininterrumpida hasta la aparición del MU. Tenía, por tanto, una antigüedad suficientemente larga y, según la documentación del transportista ČD, estaba acreditadamente familiarizado con las condiciones de la línea. Estaba profesionalmente cualificado para el trabajo en la función de maquinista y su antigüedad, experiencias y conocimientos no tuvieron influencia en la aparición del MU.
+El maquinista del tren Os 8416 trabajó en la función de maquinista desde 2019 de forma ininterrumpida hasta la aparición del MU. Tenía, por tanto, una antigüedad suficientemente larga y, según la documentación del transportista ČD, estaba acreditadamente familiarizado con las condiciones de la línea. Estaba profesionalmente cualificado para el trabajo en la función de maquinista y su antigüedad, experiencias y conocimientos no tuvieron influencia en la aparición del MU.
+La jefa de estación de la est. Záhoří estaba profesionalmente cualificada, trabajó en la función de jefa de estación desde 1996 de forma ininterrumpida hasta la aparición del MU. Tenía una antigüedad, experiencias y conocimientos suficientemente largos, lo que se puso de manifiesto también en su reacción inmediata a la situación producida y en la realización de otras actuaciones sin dilación.
+Los empleados implicados del transportista ČD, el maquinista del tren Os 8415, el maquinista del tren Os 8416 y el empleado del gestor de la infraestructura SŽ, la jefa de estación de la est. Záhoří, se sometían a reconocimientos médicos periódicos de conformidad con lo dispuesto en el decreto n.º 101/1995 Sb. y, en base a los informes médicos presentados sobre la aptitud física para el trabajo, en el momento de la aparición del MU estaban médicamente aptos para el desempeño de su función.
 En la investigación no se detectaron factores relacionados con la formación profesional de los empleados, el estado de salud y la situación personal, incluido el estrés físico y psicológico.
 ### 4.3.2 Factores laborales
-La jefa de estación de la estación de Záhoří entró en turno el 30. 10. 2022 a las 17:59 h, tuvo un descanso previo al turno de 24 h y, hasta el momento de la ocurrencia del SU, había trabajado 2 h 3 min.
-El maquinista del tren Os 8415 entró en turno el 30. 10. 2022 a las 12:07 h, tuvo un descanso previo al turno de 12 h, hasta el momento de la ocurrencia del SU había trabajado 7 h 55 min y, según el registro, disfrutó de tres periodos de descanso y comida con una duración total de 45 min.
-El maquinista del tren Os 8416 entró en turno el 30. 10. 2022 a las 12:19 h, tuvo un descanso previo al turno de 66 h, hasta el momento de la ocurrencia del SU había trabajado 7 h 43 min y, según el registro, disfrutó de un periodo de descanso y comida de 30 min.
-En la investigación no se detectaron factores relacionados con el contenido del trabajo o la jornada laboral de los empleados. En la investigación no se constató, en los empleados implicados, el incumplimiento de las condiciones de descanso previo al turno y de los descansos, respectivamente, del tiempo adecuado de descanso y comida durante el turno.
+La jefa de estación de la est. Záhoří entró en turno el 30. 10. 2022 a las 17:59 h, tuvo un descanso previo al turno de 24 h y, hasta el momento de la aparición del MU, había trabajado 2 h 3 min.
+El maquinista del tren Os 8415 entró en turno el 30. 10. 2022 a las 12:07 h, tuvo un descanso previo al turno de 12 h, hasta el momento de la aparición del MU había trabajado 7 h 55 min y, según el registro, disfrutó de tres periodos de descanso y comida con una duración total de 45 min.
+El maquinista del tren Os 8416 entró en turno el 30. 10. 2022 a las 12:19 h, tuvo un descanso previo al turno de 66 h, hasta el momento de la aparición del MU había trabajado 7 h 43 min y, según el registro, disfrutó de un periodo de descanso y comida con una duración de 30 min.
+En la investigación no se detectaron factores relacionados con el contenido del trabajo o la jornada laboral de los empleados. En la investigación no se constató, en los empleados implicados, el incumplimiento de las condiciones de descanso previo al turno y de las pausas, respectivamente, del tiempo adecuado de descanso y comida durante el turno.
 ### 4.3.3 Factores organizativos y tareas
-En la investigación no se detectaron factores relacionados con la organización del trabajo o con las tareas laborales.
-
+En la investigación no se detectaron factores relacionados con la organización del trabajo o las tareas laborales.
 
 ## Página 29
 
@@ -878,36 +901,52 @@ En la investigación no se detectaron factores relacionados con la organización
 En la investigación no se detectaron factores relacionados con el entorno laboral.
 ### 4.3.5 Otro factor relevante a efectos de la investigación
 En la investigación no se detectaron otros factores relacionados con la actuación de las personas implicadas.
-### 4.4 Mecanismos de retroalimentación y mecanismos de control, incluida la gestión del riesgo y la garantía de la seguridad, y procedimientos de seguimiento
+### 4.4 Mecanismos de retroalimentación y mecanismos de control, incluida la gestión de riesgos
+y la garantía de seguridad, y los procedimientos de seguimiento
 ### 4.4.1 Condiciones pertinentes del marco regulatorio
-Las condiciones pertinentes del marco regulatorio están establecidas en los Reglamentos de la Unión Europea, en la ley n.º 266/1994 Sb. y en los decretos de desarrollo.
-4.4.2 Procedimientos, métodos, contenido y resultados de las actividades de evaluación de riesgos y de seguimiento realizadas por cualquiera de las entidades implicadas
-En el marco de la actividad de control del operador, se realizó al maquinista del tren Os 8415 la última verificación previa a la ocurrencia del SU el día 13. 8. 2022. Se trató de una verificación ordinaria centrada en el uso de equipos de protección individual, las pruebas de freno, el régimen de conducción y la explotación del vehículo, la circulación del tren y la explotación del radioteléfono, todo con resultado correcto.
-En los procedimientos, métodos, contenido y resultados de las actividades de evaluación de riesgos y de seguimiento relacionados con las circunstancias de la ocurrencia del SU en cuestión, no se detectaron deficiencias.
-### 4.4.3 Sistema de garantía de la seguridad de los operadores y gestores de la infraestructura implicados
-En el sistema de seguridad del gestor de la infraestructura y en el sistema de garantía de la seguridad del transporte ferroviario del operador, relacionados con las circunstancias de la ocurrencia del SU en cuestión, no se detectaron deficiencias.
-### 4.4.4 Sistema de gestión de las entidades responsables del mantenimiento del material rodante y de los talleres de mantenimiento
-El sistema de gestión de las entidades responsables del mantenimiento del material rodante y de los talleres de mantenimiento no guardaba relación con la ocurrencia del SU.
+Las condiciones pertinentes del marco regulatorio están establecidas en los Reglamentos de la Unión Europea,
+en la ley núm. 266/1994 Sb. y en los decretos de aplicación.
+4.4.2 Procedimientos, métodos, contenido y resultados de las actividades de evaluación de riesgos y de seguimiento que
+realiza cualquiera de los sujetos implicados
+En el marco de la actividad de control del transportista, se realizó al maquinista del tren Os 8415 el último control
+antes de la aparición de la MU el 13. 8. 2022. Se trató de un control ordinario
+centrado en el uso de equipos de protección individual, las pruebas de freno,
+el modo de conducción y la operación del vehículo, la circulación del tren y la operación de la estación de radio, todo con resultado
+correcto.
+En los procedimientos, métodos, contenido y resultados de las actividades de evaluación de riesgos y de seguimiento
+relacionados con las circunstancias de aparición de la MU en cuestión, no se detectaron deficiencias.
+### 4.4.3 Sistema de garantía de seguridad de los transportistas y gestores de infraestructura implicados
+En el sistema de seguridad del gestor de infraestructura y en el sistema de garantía de seguridad del transporte ferroviario
+del transportista, relacionados con las circunstancias de aparición de la MU en cuestión, no se detectaron
+deficiencias.
+### 4.4.4 Sistema de gestión de los sujetos responsables del mantenimiento de los vehículos ferroviarios
+y de los talleres de mantenimiento
+El sistema de gestión de los sujetos responsables del mantenimiento de los vehículos ferroviarios y de los talleres de mantenimiento
+no guardaba relación con la aparición de la MU.
 ### 4.4.5 Resultados de la supervisión realizada por las autoridades nacionales de seguridad
-Atendiendo a los factores y circunstancias detectados de la ocurrencia del SU, la supervisión de la autoridad de seguridad no guarda relación con el SU en cuestión.
-### 4.4.6 Aprobaciones, certificados y dictámenes de evaluación emitidos por la Agencia, las autoridades nacionales de seguridad u otras entidades de evaluación de la conformidad
-El gestor de la infraestructura explotaba la infraestructura sobre la base de una autorización administrativa vigente y de un certificado de seguridad del gestor de la infraestructura. El operador explotaba el transporte ferroviario sobre la base de una licencia vigente y de un certificado del operador.
-
+Atendiendo a los factores detectados y a las circunstancias de aparición de la MU, la supervisión de la autoridad de seguridad
+no guarda relación con la MU en cuestión.
+### 4.4.6 Aprobaciones, certificados y dictámenes de evaluación emitidos por la agencia, las autoridades nacionales
+de seguridad u otros sujetos de evaluación de la conformidad
+El gestor de infraestructura explotaba la infraestructura en virtud de una autorización administrativa vigente y de un
+certificado de seguridad del gestor de infraestructura. El transportista explotaba el transporte ferroviario en virtud de
+una licencia vigente y de un certificado del transportista.
 
 ## Página 30
 
 ### 4.4.7 Otros factores sistémicos
 En la investigación no se detectaron otros factores sistémicos.
 ### 4.5 Sucesos anteriores de naturaleza similar
-La DI, en el periodo comprendido entre el 1. 1. 2015 y el momento de la ocurrencia del SU en cuestión, registra en las vías ferroviarias, categoría nacional y regional, un total de 784 SU, en los que se produjo la circulación no autorizada de un tren más allá de una señal con la indicación «Alto». De este número, se produjo posteriormente en 15 casos una colisión de material rodante, en 19 casos un descarrilamiento de material rodante y en 12 casos una colisión de material rodante con una instalación técnica de la infraestructura. Como consecuencia de estos SU, fallecieron 6 personas, se produjeron lesiones en 172 personas y un daño total de 755 014 562 Kč.
+El DI, en el periodo comprendido entre el 1 de enero de 2015 y la fecha de ocurrencia de la MU objeto de estudio, registra en las vías ferroviarias, categoría nacional y regional, un total de 784 MU en las que se produjo una circulación no autorizada de un tren más allá de una señal con la indicación «Alto». De este número, en 15 casos se produjo posteriormente una colisión con DV, en 19 casos un descarrilamiento de DV y en 12 casos una colisión de DV con un dispositivo técnico de la vía. Como consecuencia de estas MU fallecieron 6 personas, se produjeron lesiones en 172 personas y el daño total ascendió a 755 014 562 Kč.
 ## 5 CONCLUSIONES
 ### 5.1 Resumen del análisis y conclusiones relativas a las causas del suceso
 La causa inmediata del suceso extraordinario fue:
 •
-la puesta en marcha del tren Os 8415 sin instrucción dada por el gestor de la infraestructura y el no respeto de la señal «Alto» de la señal principal (de salida) S1 de la estación ferroviaria de Vlastec por parte del maquinista de dicho tren.
-No se detectó por la DI ningún factor contribuyente.
-No se detectó por la DI ninguna causa sistémica.
-### A summary of the analysis and conclusions with regard to the causes of the occurrence
+la puesta en marcha del tren Os 8415 sin la instrucción dada por el gestor de la infraestructura y el incumplimiento de la señal «Alto» de la señal principal (de salida) S1 de la estación ferroviaria de Vlastec por parte del maquinista de dicho tren.
+No se detectó por parte del DI ningún factor contribuyente.
+No se detectó por parte del DI ninguna causa sistémica.
+### A summary of the analysis and conclusions with regard to the causes of the
+occurrence
 Causal factor:
 •
 setting the regional passenger train No. 8415 in motion without instruction by IM
@@ -916,51 +955,40 @@ the train driver of this train.
 Contributing factor: none.
 Systemic factor:
 none.
-### 5.2 Medidas adoptadas para la prevención de sucesos extraordinarios
+### 5.2 Medidas adoptadas para prevenir los sucesos extraordinarios
 El gestor de la infraestructura SŽ no adoptó ni emitió ninguna medida.
-El operador ČD emitió, tras la ocurrencia del SU, las siguientes medidas:
-La causa del SU y la responsabilidad por su ocurrencia, incluida la emisión de instrucciones conducentes a la prevención de la ocurrencia de SU similares, se incluirán para su debate en la próxima reunión ampliada de la dirección de la Dirección Regional de Transporte de Pasajeros Oeste.
+El operador ferroviario ČD emitió, tras la ocurrencia de la MU, las siguientes medidas:
+La causa de la MU y la responsabilidad por su ocurrencia, incluida la emisión de instrucciones encaminadas a prevenir la aparición de MU similares, se incluirán para su debate en la próxima reunión ampliada de la dirección de la Dirección Regional de Transporte de Pasajeros Oeste.
 ### Measures taken since the occurrence
 The infrastructure manager SŽ did not take any measures.
 The railway undertaking ČD took the following measure after the occurrence:
 
-
 ## Página 31
 
 •
-the cause and the responsibility of the occurrence, including the provision of
-instructions leading to the prevention of the similar occurrences, will be classify for
-discussion at the next extended meeting of the management of the Regional
-Directorate of Passenger Transport West.
+la causa y la responsabilidad de la ocurrencia, incluida la emisión de instrucciones que conduzcan a la prevención de ocurrencias similares, se clasificarán para su discusión en la próxima reunión ampliada de la dirección de la Dirección Regional de Transporte de Pasajeros Oeste.
 ### 5.3 Hallazgos complementarios
+En el gestor de la vía SŽ:
+•
+durante la circulación no autorizada del tren Os 8415 más allá de la señal de salida S1 con la señal «Alto», no se indicaron en el monitor del relieve de la vía en el Puesto Unificado de Control en la estación de Záhoří los elementos VNPN —símbolo del signo de exclamación amarillo—, ni la señalización de avería del elemento de detección afectado —símbolo del signo de exclamación rojo— junto a la señal S1. La señalización acústica exterior situada en la cabecera en el sentido de circulación hacia la estación de Červená nad Vltavou no reaccionó.
+### Hallazgos complementarios
 En el gestor de la infraestructura SŽ:
 •
-en la circulación no autorizada del tren Os 8416 más allá de la señal de salida S1 con la indicación «Alto», no se indicaron en el monitor del relieve de la vía en el Puesto Único de Control de la estación de Záhoří los elementos VNPN – el símbolo del signo de exclamación amarillo, ni la señalización de avería del elemento de detección afectado – el símbolo del signo de exclamación rojo junto a la señal S1. La señalización acústica exterior situada en la cabecera en el sentido de circulación hacia la estación de Červená nad Vltavou no reaccionó.
-### Additional observations
-At the infrastructure manager SŽ:
-•
-at unauthorized movement of the regional passenger train No. 8415 behind the
-departure signal S1 with the signal „Stop" were not indicated the VNPN (Warning at
-unauthorized movement signal) elements on the track relief monitor at the unified
-control place at Záhoří station – the yellow and red exclamation mark symbol. The
-outdoor acoustic signaling located on the station head in the direction to Červená
-nad Vltavou station did not respond.
+durante la circulación no autorizada del tren regional de pasajeros n.º 8415 más allá de la señal de salida S1 con la señal «Alto», no se indicaron los elementos VNPN (Aviso de circulación no autorizada) en el monitor del relieve de la vía en el Puesto Unificado de Control en la estación de Záhoří —los símbolos de signo de exclamación amarillo y rojo—. La señalización acústica exterior situada en la cabecera en el sentido hacia la estación de Červená nad Vltavou no reaccionó.
 ## 6 RECOMENDACIONES DE SEGURIDAD
-Atendiendo a las causas y circunstancias detectadas de la ocurrencia del suceso extraordinario, la Inspección Ferroviaria no emite ninguna recomendación de seguridad, puesto que no se detectaron datos que justificasen la emisión de una recomendación de seguridad en el marco de la prevención de la ocurrencia de sucesos extraordinarios.
-## SAFETY RECOMMENDATIONS
-The Rail Safety Inspection Office does not issue a safety recommendation in regard of the
-found causes and circumstances, because we did not find out such knowledge, which
-would justify issuing of the safety recommendation within prevention of occurrence.
+Atendiendo a las causas y circunstancias de la ocurrencia del suceso excepcional, la Inspección Ferroviaria no emite recomendaciones de seguridad, ya que no se han identificado datos que justifiquen la emisión de una recomendación de seguridad en el marco de la prevención de la ocurrencia de sucesos excepcionales.
+## RECOMENDACIONES DE SEGURIDAD
+La Inspección Ferroviaria no emite una recomendación de seguridad en relación con las causas y circunstancias identificadas, porque no se han identificado datos que justifiquen la emisión de una recomendación de seguridad en el marco de la prevención de la ocurrencia.
 En Plzeň, a 5 de junio de 2023
 Ing. Petr Mencl v. r.
 Karel Hora v. r.
 director
 inspector
-De la Inspección Territorial de Bohemia
-De la Inspección Territorial de Bohemia
-
+Inspectorado Territorial de Bohemia
+Inspectorado Territorial de Bohemia
 
 ## Página 32
+
 
 ## ANEXOS
 tren Os 8416

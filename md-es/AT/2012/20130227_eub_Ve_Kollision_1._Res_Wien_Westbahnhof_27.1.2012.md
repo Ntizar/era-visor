@@ -10,12 +10,14 @@ chars: 23408
 ratio_longitud: 1.08
 tokens_in: 8751
 tokens_out: 6665
-verificacion: revisar
 fecha_proceso: 2026-11-18
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-avisos: ["página 6: ratio 1.79"]
+verificacion: ok
+notas_cifras: ["página 6: original bilingüe: se compara contra el idioma principal (DE)"]
 ---
+
 ## Página 1
+
 
 COLISIÓN DE MANIOBRAS DE LA
 1. RESERVA DE MANIOBRAS CON UN
@@ -33,8 +35,8 @@ Informe de investigación
 Página web:
 http://versa.bmvit.gv.at
 
-
 ## Página 2
+
 
 ### Índice 
 Página 
@@ -134,10 +136,10 @@ Alegaciones tenidas en cuenta
 Recomendaciones de seguridad 
 18 
 Anexo: Alegaciones tenidas en cuenta 
-19 
-
+19
 
 ## Página 3
+
 
 ### Índice de figuras 
 Página 
@@ -201,10 +203,10 @@ Maquinista (Triebfahrzeugführer)
 VzG 
 Catálogo de velocidades locales permitidas (Verzeichnis örtlich zulässiger Geschwindigkeiten) 
 Z 
-Tren (Zug) 
-
+Tren (Zug)
 
 ## Página 4
+
 
 ### Procedimiento de investigación 
 El informe de investigación se basa en las siguientes actuaciones de la SUB:  
@@ -222,6 +224,7 @@ Sin autorización escrita de la Bundesanstalt für Verkehr, Organismo de Investi
 
 ## Página 5
 
+
 ### Destinatarios 
 Este informe de investigación se dirige a: 
 | Empresa/Organismo |  | Función |
@@ -236,21 +239,15 @@ Este informe de investigación se dirige a:
 | Biblioteca de clústeres BMWFJ |  | Centro europeo de documentación |
 | Biblioteca de clústeres BMWFJ - |  | Centro europeo de documentación |
 
-
 ## Página 6
 
 ### 1. Resumen 
-El 27 de enero de 2012, a las 14:55 horas, en la estación Wien Westbahnhof, una maniobra de empuje de la 1. Reserva colisionó con un grupo de vagones estacionados en la vía 209, compuesto por 23 coches de viajeros. La maniobra de empuje de la 1. Reserva, locomotora 2070 063-9 empujando cinco coches de viajeros, colisionó a una velocidad de aprox. 28 km/h con el grupo de vagones estacionados. Como resultado de la colisión, seis empleados resultaron heridos leves. Se produjeron daños materiales considerables en los coches de viajeros y daños menores en la locomotora y en las instalaciones de vía. 
+El 27 de enero de 2012, a las 14:55, en la estación de Viena Westbahnhof, una maniobra de maniobras empujada de la 1.ª reserva colisionó con un grupo de vagones situado en la vía 209, compuesto por 23 vagones de tren de pasajeros. La maniobra de maniobras de la 1.ª reserva, Tfz 2070 063-9 con cinco vagones de tren de pasajeros empujados, colisionó a una velocidad de aproximadamente 28 km/h con el grupo de vagones detenido. Como consecuencia de la colisión, seis empleados resultaron levemente heridos. Se produjeron daños materiales considerables en los vagones de tren de pasajeros y daños menores en el Tfz y en las instalaciones de vía. 
 ### Summary 
-On 27th January 2012, 14:55 o’clock, station Wien Westbahnhof, collided a shunting 
-movement with a standing raft of coaches (coaching stock). The shunting move-
-ment, a raft of five coaching stock plus motive power unit, collided with a speed of 
-nearly 28 km/h with the standing coaches. Due the collision six employees got lightly 
-injured, extensive damage on rolling stock occurred. Railway infrastructure and 
-power motive unit got lightly damaged.  
-
+On 27th January 2012, 14:55 o’clock, station Wien Westbahnhof, collided a shunting movement with a standing raft of coaches (coaching stock). The shunting movement, a raft of five coaching stock plus motive power unit, collided with a speed of nearly 28 km/h with the standing coaches. Due the collision six employees got lightly injured, extensive damage on rolling stock occurred. Railway infrastructure and power motive unit got lightly damaged.
 
 ## Página 7
+
 
 ### 2. Datos generales  
 2.1. 
@@ -268,10 +265,10 @@ km 1,405
 Wien 
 Figura 1     Esquema de líneas ferroviarias de Austria (Fuente: ÖBB-Infrastruktur AG) 
 Wien Westbahnhof 
-Figura 2     Esquema de líneas ferroviarias de Viena (Fuente: ÖBB Infrastruktur AG) 
-
+Figura 2     Esquema de líneas ferroviarias de Viena (Fuente: ÖBB Infrastruktur AG)
 
 ## Página 8
+
 
 2.3. 
 Condiciones meteorológicas, visibilidad 
@@ -286,10 +283,10 @@ Para la gestión operativa, la estación Bf Wien Westbahnhof está dividida en d
 aprox. punto de 
 colisión 
 X 
-Figura 3     Zonas de control Stw 1 y Stw 2 (Fuente: ÖBB-Infrastruktur AG) 
-
+Figura 3     Zonas de control Stw 1 y Stw 2 (Fuente: ÖBB-Infrastruktur AG)
 
 ## Página 9
+
 
 2.6. 
 Maniobra implicada: 
@@ -306,20 +303,20 @@ Dotación:
  1 jefe de maniobras en la cabecera 
  1 operario de maniobras en la locomotora 
  1 operario de maniobras en el 1er coche (viajando sin función) 
-La comunicación durante la ejecución de la maniobra se realizó mediante radio de maniobras.  
-
+La comunicación durante la ejecución de la maniobra se realizó mediante radio de maniobras.
 
 ## Página 10
+
 
 2.7. 
 Velocidades permitidas: 
 Para las maniobras de empuje se aplica, según DV V 3 §10 (4) 
 Figura 4     Extracto DV V3 §10 (4) (Fuente: ÖBB Infrastruktur AG) 
 Figura 5     Extracto DV V3 §14 (7) (Fuente: ÖBB Infrastruktur AG) 
-Para la maniobra de empuje de la 1. Reserva no se dio una liberación vinculante de la ruta de maniobra. La velocidad máxima permitida era de 25 km/h. 
-
+Para la maniobra de empuje de la 1. Reserva no se dio una liberación vinculante de la ruta de maniobra. La velocidad máxima permitida era de 25 km/h.
 
 ## Página 11
+
 
 ### 3. Descripción del incidente 
 El 27 de enero de 2012, alrededor de las 14:45, la 1. Reserva, tirando de cinco coches de viajeros, salió del taller de vagones hacia la vía 3s, detrás de la señal de maniobra V 301 para realizar el cambio de sentido. La composición de vagones estaba prevista para el tren Z 1630 y debía ser estacionada preparatoriamente en la vía libre 207. Tras detenerse detrás de la V 301, el jefe de maniobras acordó con el operador de desvíos y señales una maniobra de empuje hacia la vía 207.  
@@ -330,6 +327,7 @@ Por la fuerza de la colisión, el grupo de vagones estacionados se partió entre
 Se estiman daños materiales de aprox. 2 millones de € en los coches de viajeros, y daños materiales menores en la locomotora y en las instalaciones de vía.
 
 ## Página 12
+
 
 ### 4. Personas heridas, daños materiales y perturbaciones de la explotación 
 4.1. 
@@ -373,10 +371,10 @@ Suma de los daños materiales
 Daño total estimado: 2.010.000 € 
 4.5. 
 Perturbaciones de la explotación 
-Sin perturbaciones en el servicio regular de trenes. 
-
+Sin perturbaciones en el servicio regular de trenes.
 
 ## Página 13
+
 
 ### 5. Partes implicadas, contratistas y testigos 
 • 
@@ -394,30 +392,30 @@ o Tfzf 1.ª reserva
 Newrest Wagons-Lits Austria GmbH 
 o Empleado de la empresa Newrest 
 o Empleado de la empresa Newrest 
-o Empleado de la empresa Newrest   
-
+o Empleado de la empresa Newrest
 
 ## Página 14
+
 
 ### 6. Pruebas / Resultados de la evaluación 
 6.1. 
 Evaluación del registrador de datos del Tfz 2070 063-9 1.ª reserva 
 Figura 7     Evaluación del registrador de datos (Fuente: ÖBB Produktion GmbH) 
 El registrador de datos del Tfz fue evaluado por la ÖBB-Produktion GmbH y puesto a disposición de la SUB. La velocidad durante la maniobra de empuje alcanzó un máximo de aprox. 34 km/h. Se inició una frenada de emergencia a unos 30 km/h. La colisión se produjo a unos 28 km/h.  
-La velocidad máxima permitida de 25 km/h fue superada considerablemente.  
-
+La velocidad máxima permitida de 25 km/h fue superada considerablemente.
 
 ## Página 15
+
 
 ### 7. Resumen de las conclusiones 
 La maniobra de la 1.ª reserva fue acordada entre el jefe de maniobras y el operador de agujas y señales para el desvío hacia la vía 207. El operador de agujas y señales colocó erróneamente la aguja 232 en dirección a la vía 209 ocupada e informó incorrectamente que la ruta de maniobra era por la vía 207.  
 Cabe señalar que en el sistema de seguridad del Stw 2 no es posible establecer rutas de circulación para formar las rutas de maniobra. Es decir, el operador debe colocar individualmente todas las agujas situadas en la ruta de maniobra y manejar igualmente de forma individual las señales de maniobra necesarias. No existe ninguna interdependencia entre la posición de las agujas, las señales de maniobra o la ocupación de la vía.  
 Figura 8     Sistema de seguridad Stw 2 (Fuente: ÖBB-Infrastruktur AG) 
 No hubo una comunicación vinculante de liberación de la ruta de maniobra por parte del operador de agujas y señales al jefe de maniobras. La maniobra debería haberse realizado según la DV V3 §10 (4) (véase punto 7.2) a vista con una velocidad máxima de 25 km/h. Esta velocidad fue superada considerablemente, ya que la velocidad alcanzada fue de 34 km/h. 
-Dado que la ruta de maniobra estaba acordada para la vía 207, esta debía respetarse obligatoriamente según la DV V3 §14 (1). Por ello, el jefe de maniobras condujo a vista y con la expectativa de alcanzar la vía libre 207. Solo pudo reconocer inmediatamente antes de llegar a la aguja 232 que esta estaba colocada en dirección a la vía 209 y que la vía 209 estaba ocupada desde la marca límite por un grupo de vehículos. La colisión habría sido inevitable incluso a una velocidad de 25 km/h, pero habría minimizado sustancialmente las consecuencias del accidente.  
-
+Dado que la ruta de maniobra estaba acordada para la vía 207, esta debía respetarse obligatoriamente según la DV V3 §14 (1). Por ello, el jefe de maniobras condujo a vista y con la expectativa de alcanzar la vía libre 207. Solo pudo reconocer inmediatamente antes de llegar a la aguja 232 que esta estaba colocada en dirección a la vía 209 y que la vía 209 estaba ocupada desde la marca límite por un grupo de vehículos. La colisión habría sido inevitable incluso a una velocidad de 25 km/h, pero habría minimizado sustancialmente las consecuencias del accidente.
 
 ## Página 16
+
 
 ### 8. Medidas adoptadas por la ÖBB-Infrastruktur AG 
 • 
@@ -440,10 +438,10 @@ El 21 de diciembre de 2012, la Autoridad Ferroviaria Superior dictó las siguien
 La empresa de infraestructura ferroviaria debe presentar a la autoridad las medidas ya adoptadas 
 • 
 Mediante personal debidamente autorizado (por ejemplo, delegados del director de operaciones), se deben realizar controles frecuentes, sin previo aviso y a horas irregulares del día sobre el desarrollo de la explotación en el ámbito de la estación Wien Westbahnhof. En estos controles se debe verificar el cumplimiento de las disposiciones relevantes de las instrucciones de servicio y directrices operativas, así como el respeto de la disciplina lingüística y documental.  
-Además, se debe verificar si los planes de distribución del trabajo coinciden con el flujo real de trabajo, así como el manejo, funcionalidad, ubicación y disponibilidad de los medios de trabajo necesarios.  
-
+Además, se debe verificar si los planes de distribución del trabajo coinciden con el flujo real de trabajo, así como el manejo, funcionalidad, ubicación y disponibilidad de los medios de trabajo necesarios.
 
 ## Página 17
+
 
 ### 11. Colisiones de maniobra en la estación Wien Westbahnhof 
 En el periodo comprendido entre el 1 de enero de 2011 y el 31 de agosto de 2012, se produjeron en la estación Wien Westbahnhof las siguientes colisiones durante la realización de maniobras. 
@@ -462,6 +460,7 @@ Véase anexo
 
 ## Página 18
 
+
 ### 15. Recomendaciones de seguridad
 | Punto | Recomendaciones de seguridad | Dirigida a |
 | A 2013/013 - | Se recomienda intensificar aún más la revisión del desarrollo de las maniobras en lo que respecta al cumplimiento de la velocidad permitida y de las disposiciones normativas. En este contexto, también debería examinarse la posibilidad de limitar generalmente a un máximo de 25 km/h la velocidad permitida durante las maniobras en la estación de Wien Westbahnhof, en el ámbito del Puesto de Enclavamiento 2 (Stw 2) y del puesto de agujas 1 (incluso con comunicación vinculante de vía libre para maniobras). Justificación: En el desarrollo de las maniobras no existe actualmente ninguna protección técnica para prevenir accidentes. La ejecución segura se lleva a cabo exclusivamente por el factor humano conforme a las disposiciones normativas vigentes en cada momento. Por ello, es imprescindible verificar que dichas disposiciones normativas se cumplan efectivamente. Una limitación de la velocidad a 25 km/h en la estación de Wien Westbahnhof parece adecuada para evitar accidentes o, al menos, minimizar sus consecuencias. | IM |
@@ -469,29 +468,29 @@ Viena, 27 de febrero de 2013
 Bundesanstalt für Verkehr 
 Sicherheitsuntersuchungsstelle des Bundes 
 Este informe de investigación, elaborado conforme al § 15 UUG, ha sido aprobado por el jefe de la Sicherheitsuntersuchungsstelle des Bundes tras finalizar el procedimiento de alegaciones conforme al § 14 UUG.  
-Anexo: Alegaciones tenidas en cuenta 
-
+Anexo: Alegaciones tenidas en cuenta
 
 ## Página 19
 
+
 ### Anexo: Alegaciones tenidas en cuenta 
 Alegación del BMVIT, recibida el 10 de diciembre de 2012 
-a) 
-
+a)
 
 ## Página 20
 
+
 ### y su consideración 
 a) 
-considerada 
-
+considerada
 
 ## Página 21
 
-Alegación del gestor de infraestructura, recibida el 30 de noviembre de 2012 
 
+Alegación del gestor de infraestructura, recibida el 30 de noviembre de 2012
 
 ## Página 22
+
 
 b) 
 c) 

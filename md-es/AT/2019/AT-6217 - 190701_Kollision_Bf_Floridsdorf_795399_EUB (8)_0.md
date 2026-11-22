@@ -10,21 +10,22 @@ chars: 137886
 ratio_longitud: 1.03
 tokens_in: 54540
 tokens_out: 43518
-verificacion: revisar
-notas_cifras: ["bloque 2: original bilingüe: se compara contra el idioma principal (DE)", "bloque 3: original bilingüe: se compara contra el idioma principal (DE)", "bloque 5: cifras cortas: 1/193", "bloque 10: cifras cortas: 1/142", "bloque 11: original bilingüe: se compara contra el idioma principal (DE)", "bloque 12: cifras largas: 1/267"]
-avisos: ["bloque 11: ratio 1.60"]
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 6: original bilingüe: se compara contra el idioma principal (DE)", "página 29: cifras cortas: 1/45", "página 55: cifras cortas: 1/25", "página 69: cifras largas: 1/5", "página 73: original bilingüe: se compara contra el idioma principal (DE)", "página 74: original bilingüe: se compara contra el idioma principal (IT)"]
 ---
+
 ## Página 1
+
 
 Informe de investigación
 Colisión del Z 24646 con una maniobra de maniobras en la estación de Floridsdorf el 01 de julio de 2019
 Ref.: 2024-0.128.102
 Viena, 2024
 
-
 ## Página 2
+
 
 ### Colofón
 Titular, editor y publicador:
@@ -35,8 +36,8 @@ El presente informe de investigación de conformidad con el § 15 UUG 2005 fue a
 El único objetivo de la investigación de seguridad es la prevención de futuros accidentes e incidencias, sin determinar culpa ni responsabilidad. Este informe de investigación se basa en la información facilitada. En caso de ampliación de la base de información, la Oficina Federal de Investigación de Seguridad se reserva el derecho de completar o modificar el presente informe de investigación.
 Toda la información relativa a la protección de datos se encuentra en el siguiente enlace: bmk.gv.at/impressum/daten.html.
 
-
 ## Página 3
+
 
 ### Prefacio
 De conformidad con el § 4 UUG 2005, las investigaciones tienen como objetivo exclusivo la determinación de la causa del suceso, a fin de poder elaborar recomendaciones de seguridad que contribuyan a evitar sucesos similares o de características análogas en el futuro. La valoración jurídica de las circunstancias y causas no es, en modo alguno, objeto de la investigación. Tampoco es, por tanto, el propósito de este informe de investigación determinar una culpa ni aclarar cuestiones de responsabilidad (véase el art. 20.4 de la Directiva (UE) 2016/798). El informe de investigación debe, de conformidad con el § 15.2 UUG 2005, garantizar el anonimato de todos los implicados de tal manera que, en todo caso, no contenga nombres de las personas implicadas.
@@ -45,16 +46,16 @@ De conformidad con el § 14.2 UUG 2005, las alegaciones fundamentadas en su cont
 De conformidad con el § 16.3 UUG 2005 en relación con el art. 26.2 de la Directiva (UE) 2016/798, las recomendaciones de seguridad se dirigen a la autoridad de seguridad y, cuando la naturaleza de la recomendación lo requiera, a otros organismos o autoridades que puedan aplicar la recomendación de seguridad en medidas adecuadas para la prevención de sucesos, o a otros Estados miembros. Los Estados miembros y sus autoridades de seguridad adoptan las medidas necesarias para garantizar que las recomendaciones de seguridad de las oficinas de investigación se tengan debidamente en cuenta y, en su caso, se apliquen.
 La autoridad de seguridad y otras autoridades u organismos, así como, en su caso, otros Estados miembros a los que se dirijan las recomendaciones, informan a la oficina de investigación al menos una vez al año sobre las medidas adoptadas o previstas en respuesta a la recomendación (véase el art. 26.3 de la Directiva (UE) 2016/798).
 
-
 ## Página 4
+
 
 ### Nota
 ### El presente informe de investigación no puede reproducirse, ni siquiera parcialmente, sin indicación de la fuente y la aprobación expresa de la Oficina Federal de Investigación de Seguridad.
 De conformidad con el § 15.2 UUG 2005, el informe de investigación debe, en general, preservar el anonimato de las personas implicadas en el suceso. Si se ha concedido el anonimato a personas u organismos, esto debe indicarse en el lugar correspondiente, de conformidad con el Reglamento de Ejecución (UE) 2020/572.
 En las representaciones de objetos y lugares (fotografías) incluidas en este informe, pueden aparecer personas ajenas al suceso, personal que levantó acta del accidente o personal que actuó en funciones organizativas, así como equipos de intervención, que deben ser anonimizados en su caso. Dado que los colores de la ropa de estas personas (p. ej., los colores fluorescentes de los chalecos reflectantes) pueden desviar la atención del contenido de las representaciones, se han retoquado digitalmente cuando ha sido necesario (p. ej., desaturándolos a gris).
 
-
 ## Página 5
+
 
 ### Índice
 Colofón ..................................................................................................................... 2
@@ -95,6 +96,7 @@ a) Información sobre el suceso y sus antecedentes .............................
 
 ## Página 6
 
+
 b) Descripción de los hechos ................................................................................................. 27 
 4 Evaluación del suceso ...................................................................................................... 34 
 a) Tareas y obligaciones ......................................................................................................... 34 
@@ -128,16 +130,16 @@ Dictámenes tenidos en cuenta ..................................................
 Índice de figuras .............................................................................................................. 70 
 Índice de normas ................................................................................................................. 71 
 Índice de normas IB y EVU ............................................................................................... 72 
-Índice de fuentes .............................................................................................................. 73 
-
+Índice de fuentes .............................................................................................................. 73
 
 ## Página 7
 
-Abreviaturas ................................................................................................................ 76 
-Anexo – Dictámenes ................................................................................................... 78 
 
+Abreviaturas ................................................................................................................ 76 
+Anexo – Dictámenes ................................................................................................... 78
 
 ## Página 8
+
 
 # 1 Resumen 
 ## Hechos 
@@ -149,19 +151,19 @@ Asimismo, se produjeron perturbaciones en la explotación.
 ## Factores causales 
 El:La Tfzf del Z 24646 no percibió ni la señalización de «HALT» existente de la señal intermedia «F 202», ni la señalización del imitador de señal situado a unos 50,5 m por delante de la misma y asignado a la señal intermedia. Debido a la falta de percepción, el:la Tfzf no inició la frenada preceptiva para detener el tren antes de la señal intermedia. La falta de percepción es, por tanto, un factor causal de la colisión. 
 El Z 24646 activó automáticamente la frenada de emergencia al rebasar la señal de parada mediante el imán de 2000 Hz allí dispuesto, a una velocidad de 59 km/h. De este modo fue posible reducir la velocidad de impacto en unos 50 km/h hasta unos 10 km/h, lo que redujo sustancialmente la fuerza generada en la colisión. 
-No obstante, debido a la distancia del imán de 2000 Hz al 
-
+No obstante, debido a la distancia del imán de 2000 Hz al
 
 ## Página 9
+
 
 punto de peligro, en combinación con la velocidad señalizada de 60 km/h y la distancia de frenado resultante de más de 90 m, no fue posible evitar la colisión mediante esta instalación de seguridad técnica. En consecuencia, la configuración de la instalación de seguridad técnica (ausencia de imán de 500 Hz, ausencia de equipamiento PZB 90) debe considerarse asimismo un factor causal de la colisión. 
 ## Factor contribuyente 
 La falta de percepción, que desencadenó causalmente la colisión en combinación con la configuración de la instalación de seguridad técnica, es consecuencia de una atención insuficiente. La falta de atención es, por tanto, un factor contribuyente. 
 ## Factores sistémicos 
-La plena atención del:de la Tfzf a la propia circulación puede verse limitada por el estrecho plazo temporal fijado para la toma de servicio. Se fijó al:la Tfzf, por parte de la organización, un minuto para la toma de servicio del Z 24646. Dado que el tren ya llegó a la estación de entrega / toma de servicio con más de tres minutos de retraso, el:la Tfzf decidió activar su dispositivo TIM personal en el siguiente alto. De este modo, el:la Tfzf puso en marcha el Z 24646 sin haber completado íntegramente los trabajos de preparación necesarios. La ausencia del dispositivo TIM no causó el accidente, ya que la velocidad permitida era indicada por la señalización de la infraestructura y el:la Tfzf no habría recibido información contraria mediante el dispositivo TIM; sin embargo, el conocimiento de que este trabajo aún está pendiente puede haber seguido ocupando mentalmente al:la Tfzf en el momento de la no percepción de la señal de parada. En consecuencia, tanto la falta de tiempo en el lugar de toma de servicio, causada por el plazo fijado por las organizaciones (EVU, DU) (en lugar de 3 minutos solo se previó 1 minuto), que no se ajustaba a las prescripciones de la SNNB del IB, como la incertidumbre respecto al manejo del dispositivo TIM al inicio de la circulación, posiblemente causada por una exposición no unívoca en las normas en combinación con una comunicación ineficiente de las organizaciones con el:la Tfzf, deben considerarse factores sistémicos de la causa de la colisión. 
-
+La plena atención del:de la Tfzf a la propia circulación puede verse limitada por el estrecho plazo temporal fijado para la toma de servicio. Se fijó al:la Tfzf, por parte de la organización, un minuto para la toma de servicio del Z 24646. Dado que el tren ya llegó a la estación de entrega / toma de servicio con más de tres minutos de retraso, el:la Tfzf decidió activar su dispositivo TIM personal en el siguiente alto. De este modo, el:la Tfzf puso en marcha el Z 24646 sin haber completado íntegramente los trabajos de preparación necesarios. La ausencia del dispositivo TIM no causó el accidente, ya que la velocidad permitida era indicada por la señalización de la infraestructura y el:la Tfzf no habría recibido información contraria mediante el dispositivo TIM; sin embargo, el conocimiento de que este trabajo aún está pendiente puede haber seguido ocupando mentalmente al:la Tfzf en el momento de la no percepción de la señal de parada. En consecuencia, tanto la falta de tiempo en el lugar de toma de servicio, causada por el plazo fijado por las organizaciones (EVU, DU) (en lugar de 3 minutos solo se previó 1 minuto), que no se ajustaba a las prescripciones de la SNNB del IB, como la incertidumbre respecto al manejo del dispositivo TIM al inicio de la circulación, posiblemente causada por una exposición no unívoca en las normas en combinación con una comunicación ineficiente de las organizaciones con el:la Tfzf, deben considerarse factores sistémicos de la causa de la colisión.
 
 ## Página 10
+
 
 ## Recomendaciones de seguridad 
 ### Recomendaciones de seguridad de conformidad con el § 16 Abs. 2 UUG 2005 
@@ -178,10 +180,10 @@ Se recomienda solicitar a las organizaciones
 NSA 
 EVU; IB; DU 
 interesadas que revisen la práctica habitual en cuanto a la relevo de la Tfzf y que adapten las disposiciones de sus SMS y de sus normas en función del resultado de la revisión. 
-La investigación en cuestión ha demostrado que una revisión de la práctica habitual, en particular en lo que respecta al plazo fijado para el relevo de la Tfzf, así como una eventual adaptación de las normas, pueden contribuir a la seguridad en el tráfico ferroviario. Desde el punto de vista de la seguridad, es esencial que la práctica y las normas coincidan. La aplicación de la medida es de carácter puramente organizativo, de modo que el esfuerzo guarda una proporción adecuada con el beneficio de la mejora de la seguridad. 
-
+La investigación en cuestión ha demostrado que una revisión de la práctica habitual, en particular en lo que respecta al plazo fijado para el relevo de la Tfzf, así como una eventual adaptación de las normas, pueden contribuir a la seguridad en el tráfico ferroviario. Desde el punto de vista de la seguridad, es esencial que la práctica y las normas coincidan. La aplicación de la medida es de carácter puramente organizativo, de modo que el esfuerzo guarda una proporción adecuada con el beneficio de la mejora de la seguridad.
 
 ## Página 11
+
 
 # Summary 
 ## Course of occurence 
@@ -196,6 +198,7 @@ Train Z 24646 automatically triggered the emergency braking when it passed the s
 
 ## Página 12
 
+
 era posible evitar la colisión con este dispositivo técnico de seguridad. El diseño del dispositivo técnico de seguridad (sin imán de 500 Hz, sin equipo de control selectivo de tren PZB 90) debe considerarse, por tanto, también un factor causal de la colisión.
 ### Factor contribuyente
 La falta de percepción, que causó la colisión en relación con el diseño del dispositivo técnico de seguridad, es el resultado de una falta de atención. La falta de atención es, por tanto, un factor contribuyente.
@@ -203,8 +206,8 @@ La falta de percepción, que causó la colisión en relación con el diseño del
 La atención plena del maquinista al trayecto real puede verse restringida por el plazo ajustado para el relevo. La organización concedió al maquinista un minuto para hacerse cargo del Z 24646. Dado que el tren llegó a la estación de entrega/toma de servicio con más de tres minutos de retraso, el maquinista decidió poner en funcionamiento su dispositivo personal TIM (Train Driver Information Management) solo en la próxima parada. El maquinista puso así el Z 24646 en marcha sin haber completado íntegramente los trabajos preparatorios necesarios.
 Aunque la ausencia del dispositivo TIM no causó el accidente, ya que la velocidad permitida estaba indicada por la señalización de la infraestructura y el maquinista no habría recibido ninguna información en contrario del dispositivo TIM, el conocimiento de que ese trabajo aún tenía que realizarse pudo seguir presente en la mente del maquinista en el momento de no advertir la señal de parada. Esto significa que tanto la falta de tiempo en el lugar de recogida, causada por el plazo no especificado por las organizaciones (empresas ferroviarias, prestadores de servicios) de conformidad con las normas de los requisitos de infraestructura (en lugar de 3 minutos, solo se previó 1 minuto), como la incertidumbre respecto al manejo del dispositivo TIM al inicio del trayecto, posiblemente causada por explicaciones poco claras en las normas en combinación con una comunicación ineficaz entre las organizaciones y el maquinista, pueden identificarse como factores sistémicos en la causa de la colisión.
 
-
 ## Página 13
+
 
 ## Recomendaciones de seguridad
 ### Recomendaciones de seguridad de acuerdo con el § 16 apartado 2 UUG 2005
@@ -217,8 +220,8 @@ Tabla 2 Recomendaciones de seguridad de acuerdo con el § 16 apartado 1 UUG 2005
 | A-2024/001 | Se recomienda solicitar a las organizaciones interesadas que revisen la práctica actual en materia de relevo de maquinistas y adapten las disposiciones de su SGSSS y sus normas de acuerdo con el resultado de la revisión. | NSA | RU, IM, DU |
 | | El presente estudio ha demostrado que una revisión de la práctica actual, particularmente en cuanto al plazo fijado para el relevo del maquinista, así como cualquier ajuste de las normas, puede contribuir a la seguridad en el tráfico ferroviario. Desde el punto de vista de la seguridad, es esencial que la práctica y las normas sean coherentes. La implementación de la medida es puramente organizativa, de modo que el esfuerzo es proporcional a los beneficios de aumentar la seguridad. | | |
 
-
 ## Página 14
+
 
 # 2 La investigación y su contexto
 ## 2.1 Decisión sobre la realización de una investigación
@@ -239,15 +242,15 @@ El objeto de la investigación abarca:
 • la gestión de riesgos existente en las organizaciones
 • las lecciones aprendidas y las medidas de mejora derivadas de accidentes similares
 
-
 ## Página 15
+
 
 El objeto de la investigación se limita temporalmente, en principio, al momento del accidente (01.07.2019). La investigación relativa a la infraestructura abarca exclusivamente el equipamiento que, en el desarrollo temporal y espacial del accidente, se empleó de forma directa o indirecta, cuando es relevante para el precursor de la causa. Las condiciones operativas de las distintas empresas/organizaciones se examinan del mismo modo que la gestión de interfaces, la gestión de competencias, los flujos de información y comunicación, la gestión de riesgos, así como las tareas organizativas, competencias, obligaciones de rendición de cuentas y facultades de las distintas funciones, en el contexto del accidente. En el curso de la investigación de la gestión de competencias, además de la idoneidad técnica y social, se verifica también el cumplimiento de los criterios de selección para el nombramiento previstos en los reglamentos y las medidas de formación. Si, en las personas examinadas, además de la aptitud existía también la facultad, se trata en el marco de la investigación de las tareas organizativas y competencias. Se examinan a titulares de funciones en el contexto directo del accidente, pudiendo incluirse, según la necesidad, también a los titulares de funciones del nivel de informe inmediatamente superior como objeto de verificación.
 ## 2.4 Equipo de investigación
 La dirección de la investigación está encomendada a un/a empleado/a de la Oficina Federal de Investigación de Seguridad. La persona designada dispone de unos conocimientos técnicos y tecnológicos en el ámbito de la técnica eléctrica, energética, de protección, de mando y de tracción, así como de la capacidad de gestión de la dirección de proyectos, en particular de la estructuración de proyectos y del tratamiento de interfaces de distintos oficios, adquiridos mediante una formación sólida y una experiencia internacional de décadas. El/La responsable de la investigación recibe apoyo técnico en los ámbitos de técnica de vehículos y técnica operativa de otros dos empleados de la Oficina Federal de Investigación de Seguridad. El/La empleado/a del área de técnica de vehículos dispone de una formación técnica superior escolar correspondiente concluida y puede acudir a una amplia experiencia profesional. El/La empleado/a del área de técnica operativa dispone de una formación académica concluida en esta disciplina.
 
-
 ## Página 16
+
 
 ## 2.5 Procedimiento de investigación (proceso de
 ## comunicación y consulta)
@@ -258,8 +261,8 @@ El Informe Provisional de Investigación se transmite a los interesados para que
 En el curso de la investigación de seguridad hubo diferencias de criterio con el EVU respecto a la respuesta a las consultas de la SUB, así como sobre cuáles de los documentos solicitados debían ser aportados por el EVU. Por parte del EVU se expresaron, entre otras, dudas relativas a la protección de datos y se adujo que la SUB solicitaba información y documentos demasiado extensos. En relación con documentos concretos, se indicó a la SUB que debían solicitarse a otros interesados. [50] [51] [52] [53] [54] [55] [56] [57] [58] [59] [60] [44] [40]
 Las diferencias pudieron subsanarse en gran medida tras una reunión conjunta. La SUB recibió finalmente todos los documentos e información necesarios para la elaboración del informe de investigación.
 
-
 ## Página 17
+
 
 En lo demás, la colaboración con todos los organismos involucrados, en particular con el IB, transcurrió sin incidencias y con orientación a los objetivos. Las consultas de la SUB fueron respondidas en medida suficiente y con prontitud.
 ## 2.7 Métodos y técnicas de investigación
@@ -272,6 +275,7 @@ Para poder someter los datos y hechos recopilados a una evaluación eficiente, s
 1 Descripción detallada, véase el punto 2.5 de este informe
 
 ## Página 18
+
 
 Los niveles se establecieron de la siguiente manera:
 Nivel 1: Disposiciones/acciones por parte del legislador. Esto incluye esencialmente todos los reglamentos y autorizaciones emitidos por la administración, así como el trabajo del BMK.
@@ -286,14 +290,14 @@ En el suceso objeto de estudio, la investigación de la Fiscalía de Viena se ar
 ## 2.10 Otra información
 ### Competencia de la autoridad
 
-
 ## Página 19
+
 
 La autoridad ferroviaria competente es la:el Ministra:Ministro Federal de Protección Climática, Medio Ambiente, Energía, Movilidad, Innovación y Tecnología.2
 2 En el momento del accidente, las competencias en materia de transporte correspondían al entonces Ministerio Federal de Transporte, Innovación y Tecnología.
 
-
 ## Página 20
+
 
 # 3 Descripción del suceso
 ## a) Información sobre el suceso y sus antecedentes
@@ -307,8 +311,8 @@ Línea ÖBB 11401 Viena Praterstern (en Nw)=Frontera estatal junto a Bernhardsth
 Ilustración 1 Esquema de las líneas ferroviarias de Austria
 Fuente: BMK/SUB
 
-
 ## Página 21
+
 
 ## 3.
 ### Entorno y condiciones locales
@@ -318,8 +322,8 @@ Fuente: IB/SUB
 En el momento del suceso no existía ninguna orden de explotación y construcción (Betra) ni ninguna avería. No se registran en la La 2019 Nr. 153 (válida del 24.06.2019 al 07.07.2019) para el momento del suceso en esta línea ninguna parada lenta temporal ni otras particularidades. [1]
 3 La La es una recopilación de todas las paradas lenta y particularidades de explotación que se publica cada dos semanas como complemento al libro de horarios por el IB.
 
-
 ## Página 22
+
 
 ### Meteorología; condiciones de visibilidad
 Temperatura del aire: 36°C
@@ -343,8 +347,8 @@ Daños en infraestructura: € 215.500.- [2]
 •
 4 Las dos estaciones meteorológicas del ZAMG más próximas al lugar del accidente se encuentran en Donaufeld y Stammersdorf. Según la información del ZAMG, una velocidad del viento de 5 a 10 km/h se considera una velocidad media.
 
-
 ## Página 23
+
 
 •
 Daños en el medio ambiente: € 0.-
@@ -354,8 +358,8 @@ Fuente: SUB
 ### Otras consecuencias
 Se produjeron cancelaciones de trenes y retrasos tanto en el tráfico de pasajeros como en el de mercancías. [3] La circulación de trenes entre la estación Floridsdorf y la estación Leopoldau se suspendió hasta las primeras horas de la mañana del 03.07.2019. Los trenes se desviaron en parte por Viena Hauptbahnhof y la estación Stadlau. Se estableció un servicio de autobuses de enlace entre la estación Floridsdorf y la estación Leopoldau con parada en la parada Siemensstrasse. [4]
 
-
 ## Página 24
+
 
 ## 6.
 ### Personas y organismos implicados, interfaces
@@ -401,8 +405,8 @@ aprox. 240 pasajeros, 1 Tfzf
 Registro de inscripciones
 Inscripciones válidas disponibles
 
-
 ## Página 25
+
 
 Tabla 4 Circulación/maniobra
 Número de circulación/maniobra
@@ -442,8 +446,8 @@ Inscripciones válidas disponibles
 ### Infraestructura y sistema de señales
 La línea 11401 se explota con tracción eléctrica. El suministro de energía a la vía en el tramo de línea Viena Praterstern (en Nw) hasta la frontera estatal junto a Bernhardsthal Fbf está garantizado por un sistema de catenaria de 15 kV/16,7 Hz. En todo el tramo de línea se aplica el modo de explotación de vía única con sentido de circulación «derecha». Una protección puntual de tren (PZB) supervisa mediante imanes de vía el cumplimiento de las restricciones señalizadas y permite la intervención en la circulación de los vehículos cuando estos poseen el correspondiente equipamiento PZB
 
-
 ## Página 26
+
 
 5. Los desvíos y las señales se accionan a distancia desde el centro de gestión de explotación de Viena (BFZ) mediante un aparato de enclavamiento electrónico de tipo SMC 86 (Siemens).
 Al final del andén 3 (vía 103), en km 4,768, se encuentran las señales luminosas «E 3» y «f». La señal «E 3» funciona como señal intermedia y la señal «f» como señal previa. La señal previa «f» es una información previa para la señal principal «F 202», situada a 963 m de distancia, la cual funciona como señal intermedia. En la altura de la señal «F 202» hay un imán de 2000 Hz para la protección puntual de tren (PZB). A unos 50,5 m antes de la señal «F 202» se encuentra un simulador de señal con la denominación «1F202». Entre la señal intermedia «E 3» y el simulador de señal, en km 5,147, está montado en un mástil de catenaria un indicador de velocidad como señal fija («GA 202») con la cifra 10.6 7 [26]
@@ -461,6 +465,7 @@ Las velocidades, tiempos y kilometrajes del Z 24646 relevantes para el lugar del
 
 ## Página 27
 
+
 La hora de llegada está anotada en el libro de circulación a las 15:51 h y a las 17:29 h respectivamente. Según el diagrama, el Z 24646 debe llegar a la estación Floridsdorf (in F) a las 16:34 h y volver a salir a las 16:35 h. La estación Floridsdorf (in F) está indicada en el libro de circulación con una kilométrica de km 4,8. La velocidad máxima en este tramo, de km 4,1 a km 5,1, puede ser de 90 km/h según el libro de circulación. A partir de km 5,1, el libro de circulación permite una velocidad máxima de 100 km/h. La velocidad máxima del horario es de 120 km/h.
 ## b) Descripción objetiva
 ## 1.
@@ -471,16 +476,16 @@ Tras una pausa de hora y media, el/la Tfzf asumió el puesto de conducción del 
 12 Este es el término coloquial del ferrocarril para una operación en la que la circulación del tren se realiza sin personal de a bordo (trenes sin personal de a bordo).
 13 Los extractos de ARAMIS Realtime – Seguimiento de trenes muestran que el tren estuvo detenido al menos 1 minuto, lo que corresponde a la indicación de la duración de la parada del libro de circulación del IB.
 
-
 ## Página 28
+
 
 supuso que en el bloque aún se encontraba un tren circulando por delante.14 El/la Tfzf fijó con la ayuda del AFB (Palanca automática de freno de servicio) la velocidad de circulación permitida de 60 km/h y aceleró así el tren, ya que la señal intermedia "E 3", montada sobre la señal previa "f", indicaba "LIBRE con 60 km/h" para el tramo de vía siguiente.15 Tras unos 913 m de recorrido, el Z 24646 pasó el imitador de señal "1F 202", que se encuentra a unos 50,5 m de la señal intermedia (señal principal) "F 202" correspondiente. Ni este imitador de señal, que anunciaba "la imagen de señal ALTO" de la señal intermedia "F 202", ni la señalización "ALTO" de la señal intermedia "F 202" fueron percibidos por el/la Tfzf. [6], [10] El imán de 2000 Hz dispuesto en la señal intermedia "F 202" inició, a través de la PZB y a una velocidad de 59 km/h, la frenada forzosa. Tras una distancia de frenado de unos 90 m, el Z 24646 colisionó a una velocidad de 10 km/h con la maniobra en la aguja 203 y se detuvo 114 m después de la señal intermedia "F 202". [7] El/la Tfzf de la maniobra comenzó su servicio a las 05:25 h y habría finalizado el mismo programadamente a las 20:20 h. Realizó la maniobra del tren de doble piso de ida y vuelta desde la vía 406 de la estación de mercancías Floridsdorf a la vía 201 de la estación Floridsdorf a las aproximadamente 16:40 h.16 El/la Fdl del área de mando Schnellbahn 2 estableció previamente una "vía de maniobra sin liberación de trayecto de maniobra" de "Q 406" a "F 201" mediante señal de maniobra en la señal principal "Q 406". Antes de salir, el/la Tfzf consultó con el/la Fdl para obtener el permiso de realizar la maniobra. Al tratarse de una maniobra, no se utilizó el dispositivo TIM. La maniobra iba frenada con aire comprimido en todo su recorrido. El/la Tfz condujo hasta la señal principal "Q 406", situada a unos 200 m del lugar del suceso, y, tras recibir una señalización de vía libre, continuó la marcha a las aproximadamente 16:40 h a unos 25 km/h. Durante la maniobra debía
 14 Para el/la Tfzf, "PRECAUCIÓN" en la señal previa significa que en la señal intermedia correspondiente cabe esperar "ALTO". La señal intermedia "F 202" correspondiente para la línea 11401 se encuentra a 958 m de la señal previa. Un motivo para la señalización "PRECAUCIÓN" podría ser que el bloque aún esté ocupado por un vehículo. Sin embargo, el/la Tfzf puede esperar que, hasta la aproximación a la señal intermedia, el bloque quede libre y que la señal intermedia "F 202" efectivamente indique "LIBRE". Esta señalización de la señal previa "f" también habría podido ser válida para la línea 11201 (Floridsdorf (in F)=Frontera estatal próxima a Retz – (Satov)). El/la Tfz declaró en la declaración por la SUB que la señalización "PRECAUCIÓN" era para él/ella una señalización rutinaria, ya que era bastante habitual que en esta línea la señal previa mostrara "PRECAUCIÓN" en la salida debido a la gran densidad. [6]
 15 La señalización "LIBRE con 60 km/h" se da, según el manual de señales 30.02 (DV V2), cuando en la señal principal (aquí utilizada como señal intermedia) las dos luces de la derecha brillan en vertical una bajo otra en verde, y significa que el área de agujas puede ser recorrida a una velocidad máxima de 60 km/h.
 16 El/la Tfzf habría circulado con este tren de doble piso de ida y vuelta programadamente como Z 2251 a Payerbach Reichenau. [12]
 
-
 ## Página 29
+
 
 cruzar la maniobra la vía principal por la que circulaba el Z 24646. El/la Tfzf advirtió el Z 24646 que se aproximaba y tuvo la impresión de que el Z 24646 no se detendría antes de la señal correspondiente a su trayecto. Dado que el/la Tfzf de la maniobra suponía que ya no era posible detenerse o que detenerse bloquearía la vía, continuó a velocidad constante e intentó así cruzar la aguja. Una vez que ya más de la mitad del tren estaba sobre la aguja, el tren se detuvo a las aproximadamente 16:42 h, ya que, debido a la colisión con el Z 24646, el tren se desgarró entre el penúltimo y el último vagón y dos vagones descarrilaron. El/la Tfzf percibió la pérdida de presión y un tirón. [11] [12] [9] El/la Tfzf de la maniobra comunicó al/la Fdl una presunta infrucción de señal del Z 24646 y la colisión con la misma composición. Al mismo tiempo, el/la Fdl recibió la llamada del/la Tfzf del Z 24646, que comunicó la infrucción de señal en la señal intermedia "F 202" y una colisión con un tren de doble piso de ida y vuelta. [8]
 El Z 24646 descarriló con el bogie delantero en sentido de circulación a la derecha del vagón 93 81 4020 268-1. La maniobra descarriló con el bogie delantero en sentido de circulación a la derecha del vagón 50 81 86-33 031-4, que quedó separado de los otros cuatro vagones. Antes de que los dos vagones descarrilados colisionaran, el vagón 93 81 4020 268-1 rozó aún en el centro el penúltimo vagón (50 81 26-33 123-2) de la maniobra. [3]
@@ -507,8 +512,8 @@ El/la Tfzf confirma con el botón de atención;
 La señal intermedia "E 3" indica libre con 60 km/h;
 El/la Tfzf acelera a 59 km/h
 
-
 ## Página 30
+
 
 Momento
 Descripción
@@ -578,6 +583,7 @@ Se ha desenergizado la catenaria de las vías
 
 ## Página 31
 
+
 Hora 
 Descripción 
 Fuente 
@@ -615,9 +621,10 @@ Superestructura y catenaria liberadas sin restricciones; BSK dejado sin
 [4] 
 efecto 
 El:La Tfzf de la maniobra informó telefónicamente al:la Fdl del área de maniobras de la colisión. Inmediatamente después de finalizar la conversación, el:la Tfzf del Z 24646 comunicó el suceso al:la Fdl del área de maniobras.17 Este:Esta informó a la dirección de trenes, que a su vez puso en conocimiento a los dos Nokos. Tanto el:la Fdl del área de maniobras como la dirección de trenes y los Nokos se encontraban en la misma sala, por lo que la información se transmitió en conversación directa. El Noko 03 elaboró, a partir de la primera apreciación según la cual el accidente había tenido lugar bajo un paso inferior, la ruta de acceso para los equipos de intervención a través del antiguo puesto de mando del emplazamiento de producción de los ÖBB en Floridsdorf (Shuttleworthstraße). No obstante, tras una verificación más precisa del lugar del accidente, que en realidad estaba antes del paso inferior, el Noko 03 lo corrigió de inmediato, de modo que se determinó como ruta de acceso para los equipos de intervención el acceso de bomberos de una empresa vecina por la Angerer Straße. Mientras tanto, el Noko 02, con el apoyo del "Rail Emergency Management REM", estableció contacto telefónico con las tres organizaciones de los equipos de intervención (rescate, bomberos y policía) y ya concedió el permiso para la intervención restringida. Los equipos de intervención pudieron así acceder a la infraestructura de vías, pero debían mantener una distancia de 3 m a la catenaria. La verdadera 
-17 El:La Tfzf del Z 24646 se dirigió entonces hasta el final del tren para informarse sobre el estado de los usuarios del ferrocarril. Regresó al frente y esperó en la sala de pasajeros la llegada de los equipos de rescate. La cabina de la Tfzf no era apta para permanecer en ella debido a los cristales rotos. 
+17 El:La Tfzf del Z 24646 se dirigió entonces hasta el final del tren para informarse sobre el estado de los usuarios del ferrocarril. Regresó al frente y esperó en la sala de pasajeros la llegada de los equipos de rescate. La cabina de la Tfzf no era apta para permanecer en ella debido a los cristales rotos.
 
 ## Página 32
+
 
 evacuación del Z 24646 tuvo lugar tras la llegada del:de la EL del IB y tras la puesta a tierra de la catenaria. Anteriormente, los equipos de intervención habían localizado a cuatro heridos de grado indeterminado, que fueron atendidos y trasladados por el servicio de rescate tras la desconexión de la catenaria. Los demás usuarios del ferrocarril fueron trasladados en un autobús organizado por los bomberos a la estación de Floridsdorf. Tras asegurar el registrador de datos de ambos trenes por parte de la dirección de la intervención, comenzaron tanto las labores de recuperación de los vagones accidentados como los trabajos de reparación necesarios en la infraestructura (aguja) para el traslado de los vagones. Una vez reautorizada la circulación, se trasladaron los vagones. 34 horas después del accidente, la superestructura y la catenaria fueron liberadas de nuevo sin restricciones y el BSK quedó sin efecto. 
 ### Procedimiento de emergencia de los servicios públicos 
@@ -637,14 +644,16 @@ Alerta de los distintos parques (vehículos o equipos)
 Retorno de los vehículos o equipos 
 [15] 
 Un transeúnte que vivía cerca del accidente notificó por teléfono, hacia las 16:54, a través del "Notruf 122" de la sección municipal MA 68 de la ciudad de Viena (bomberos y protección civil) una colisión ferroviaria. Debido a la notificación, la MA 68 alertó conforme al orden de salida para accidente ferroviario incl. zona de estacionamiento.18 A continuación se produjo una coordinación con el servicio de rescate, la policía y el Noko del IB. El lugar de la intervención fue alcanzado a través del acceso de bomberos de una empresa vecina. La intervención de los bomberos se llevó a cabo con veintiún vehículos u equipos de ocho emplazamientos. En todas las intervenciones en la zona de vías, el:la responsable de la intervención de todas las 
-18 Esta instrucción interna con el número NAW-DAW-101 regula la ulterior tramitación. 
+18 Esta instrucción interna con el número NAW-DAW-101 regula la ulterior tramitación.
 
 ## Página 33
 
+
 organizaciones de rescate es el:la responsable de la intervención de los bomberos.19 A él:ella le correspondía la coordinación y el inicio de todas las medidas que permitieran un acceso seguro al cuerpo de vía. Por ello, fue contactado:contactada por el servicio de rescate y la policía antes de acceder a la infraestructura de vías. En el momento de la llegada de los bomberos, ya se encontraban en el lugar el servicio de rescate, la policía y la dirección de la intervención del IB. La dirección de la intervención del IB comunicó que la circulación en las vías afectadas o en las vías adyacentes ya había sido suspendida. Una vez realizada la puesta fuera de tensión (desconexión de la catenaria), la dirección de la intervención del IB colocó las varillas de puesta a tierra en ambos extremos (puesta a tierra). A continuación, los bomberos procedieron a la evacuación del Z 24646. En ella, los usuarios del ferrocarril (BB) fueron acompañados desde el terraplén y, posteriormente, trasladados en autobús desde el lugar de la intervención a la estación de cercanías más cercana. Cuatro personas heridas fueron entregadas al servicio de rescate para su tratamiento. A continuación, la intervención fue cedida a la dirección de la intervención del IB para la adopción de otras medidas (recuperación de la composición, etc.). Los vehículos de los bomberos regresaron a sus respectivos emplazamientos entre las 17:45 y las 18:37.  [15], [16] 
-19 Esto no solo se aplica a las intervenciones técnicas de los bomberos (p. ej., accidente ferroviario) e incendios, sino también a intervenciones que en circunstancias normales no requerirían la intervención de los bomberos (p. ej., persona herida en el cuerpo de vía). 
+19 Esto no solo se aplica a las intervenciones técnicas de los bomberos (p. ej., accidente ferroviario) e incendios, sino también a intervenciones que en circunstancias normales no requerirían la intervención de los bomberos (p. ej., persona herida en el cuerpo de vía).
 
 ## Página 34
+
 
 # 4 Evaluación del suceso 
 ## a) Tareas y obligaciones 
@@ -652,9 +661,10 @@ organizaciones de rescate es el:la responsable de la intervención de los bomber
 ### Empresa ferroviaria y/o gestor de infraestructura 
 Tiempo disponible para el relevo de la Tfzf 
 El minuto disponible para el relevo de la Tfzf es un factor sistémico causalmente relevante. Como reveló la investigación, este plazo no corresponde a las especificaciones del IB. El IB, como órgano de asignación en el sentido del § 62 Abs. 1 EisbG 1957, elabora conforme al § 59 EisbG 1957 las condiciones de uso de la red ferroviaria (SNNB), que deben aplicarse de la misma manera a todo titular de capacidad de circulación y que deben contener, entre otros, las condiciones operativas. El IB ha fijado en el punto 4.4.5.4 de las SNNB los tiempos mínimos de tratamiento para la manipulación de trenes. La estancia mínima para poder realizar un relevo de la Tfzf es, por tanto, de 3 minutos tanto para el tráfico de mercancías como para el de viajeros. Corresponde, por tanto, al EVU, conforme al § 5 Abs. 1 EisbBBV, velar por que haya tiempo suficiente para el cambio de conducción del Tfz, lo que en este caso significa al menos 3 minutos.20 Del libro de itinerarios publicado por el IB se desprende que la parada del Z 24646 en la estación de Floridsdorf es de un minuto según lo previsto. Dado que el relevo tenía lugar programáticamente en la estación de Floridsdorf, esto significa que el EVU pretende que el relevo de la Tfzf se realice dentro de ese minuto. Por tanto, en el presente caso no se trataba de un suceso aislado, sino que el relevo se producía siempre de esta manera, ya que así está previsto en los turnos base. En el turno de un:una Tfzf existen los tiempos parciales "Un" y "Ug" (recepción, entrega). Estos tiempos parciales son definidos por los planificadores de turnos. En los trenes de viajeros, en las paradas programadas es posible, en principio, una entrega. El gestor de infraestructura no necesita ser informado, ya que tampoco es necesaria una notificación de disponibilidad para la salida 
-20 El legislador ha establecido con esta disposición que el EVU debe asumir las disposiciones fijadas por el IB y prescritas para su aplicación en el marco del contrato de asignación de itinerarios de tren. 
+20 El legislador ha establecido con esta disposición que el EVU debe asumir las disposiciones fijadas por el IB y prescritas para su aplicación en el marco del contrato de asignación de itinerarios de tren.
 
 ## Página 35
+
 
 ni se dejan señales en "ALTO". [42] El manual del conductor de tren de la ÖBB Personenverkehr Aktiengesellschaft 2019, vigente en el momento del suceso, enumera las actividades del:de la Tfzf que toma el relevo, pero no indica un valor de tiempo para "Un" y "Ug".21 
 El servicio de preparación establecido en el manual de la Tfzf se divide en un servicio de preparación personal (Vp) y un servicio de preparación técnico (Vb). Para el "Vp", el reglamento prevé un valor de tiempo de al menos 6 minutos, mientras que para el "Vb" se indican al menos 10 minutos.22 Mientras que el "Vp" lo sitúa el reglamento al comienzo del turno, el reglamento no contiene una indicación específica de cuándo debe realizarse el "Vb". Sin embargo, con una parada programada de un minuto, estos 10 minutos no pueden realizarse en el tren.23 Que se aplicara el minuto se debe a un pedido que el EVU realizó al órgano de asignación (IB) el 05.04.2018. En él, el EVU incumplió aparentemente las especificaciones de las SNNB. 
@@ -667,6 +677,7 @@ La ausencia de especificaciones claras para la puesta en servicio del dispositiv
 
 ## Página 36
 
+
 no se encuentra que el dispositivo TIM deba montarse de forma efectiva antes del inicio de la marcha, sin embargo, en la visión general de la directriz puede asumirse.25 El cuaderno Tfzf, en el que ha sido incorporada la RILI 3010-002-04, no contiene disposiciones sobre este tema que vayan más allá de la RILI 3010-002-04.
 Infraestructura - Dispositivo de seguridad
 El EisbG 1957 obliga a las empresas ferroviarias en el § 19 Abs. 3 a velar por que los vehículos ferroviarios, las instalaciones ferroviarias, los medios de explotación y los demás accesorios puedan ser utilizados sin peligro por las personas autorizadas a su uso o acceso, en el marco de dicha autorización. Por tanto, entre las tareas y obligaciones del IB y del EVU se encuentra la puesta a disposición y la explotación de un dispositivo de seguridad funcional, que en caso necesario detenga el tren aún antes de alcanzar el punto de peligro. Conforme al § 24 Abs. 2 y 3 EisbBBV, las vías principales en líneas principales, independientemente de que en ellas estén autorizadas velocidades de hasta 100 km/h inclusive o de más de 100 km/h, deben estar equipadas con una influencia en la marcha del tren, mediante la cual un tren pueda ser detenido automáticamente.26 En el caso concreto, la distancia entre la detección de la infracción de señal en la señal intermedia "F202" y el punto de peligro de la aguja "203" con una velocidad señalizada de 60 km/h se ha revelado como insuficiente.27
@@ -675,8 +686,8 @@ En el § 27 Abs. 2 de la EisbBBV se fija la distancia de visibilidad mínima nec
 26 Véase 3 1)a) 9. Tanto el listado de velocidades autorizadas localmente como el horario de a bordo indican una velocidad máxima de 100 km/h.
 27 Esto significa que existía una influencia en la marcha del tren, que también reaccionó, pero la distancia entre el punto en el que se produjo la reacción forzada y el punto de peligro era demasiado pequeña, ya que la distancia de frenado del tren (ca. 114 m) era mayor que la distancia. [63]
 
-
 ## Página 37
+
 
 por parte del IB se realizó una verificación de visibilidad del ZS "F202" y también se consideró suficiente. [3]
 ## 2.
@@ -690,8 +701,8 @@ Las tareas y obligaciones de los fabricantes respecto de las instalaciones, máq
 Conforme al § 12 Abs. 2 EisbG 1957, la Ministra/Ministro Federal de Protección del Clima, Medio Ambiente, Energía, Movilidad, Innovación y Tecnología es la autoridad ferroviaria competente. Mediante la distribución de tareas y de personal del Ministerio Federal, el ejercicio de las competencias ferroviarias de oficio se encomienda a la sección "Autoridad Ferroviaria Superior Supervisión E 4". Esto afecta, entre otros, a la supervisión de los asuntos del personal ferroviario (dirección de explotación, órganos de vigilancia ferroviaria) y de la explotación de vehículos, la supervisión en el marco de la autorización de seguridad y del certificado de seguridad, la supervisión de la construcción y explotación de instalaciones, así como la supervisión de las disposiciones generales dirigidas al personal ferroviario y la estrategia y los planes de supervisión.
 En el periodo del 01 de julio de 2014 al 01 de julio de 2019, la actividad de supervisión de la Autoridad Ferroviaria Superior Supervisión no se refirió a si la fijación de la
 
-
 ## Página 38
+
 
 distancia de los activadores de frenado forzoso (p. ej. imanes de 1000/2000 Hz) a los puntos de peligro era suficiente. [31] 28
 La verificación del cumplimiento de los tiempos de trabajo, de conducción y de descanso de los Tfzf se realiza por parte de la autoridad de protección de los trabajadores29, por un lado de forma aleatoria (en el marco de inspecciones y controles) y por otro de forma motivada (por ejemplo, tras sucesos de accidente o quejas). En relación con el accidente objeto de estudio, se verificaron de forma rutinaria las registros conforme al § 26 Arbeitszeitgesetz y al § 25 Arbeitsruhegesetz de todos los trabajadores implicados en el suceso del accidente – es decir, los Tfzf implicados – durante el periodo de tres meses anteriores al accidente. Esta verificación no arrojó anomalías respecto a desviaciones de los tiempos de trabajo y de descanso prescritos. Además, el VAI verificó de forma aleatoria y comparativamente los registros de tiempo de trabajo que, tras el suceso del accidente, fueron presentados por un lado al VAI y por otro a la SUB. En el marco de esta verificación complementaria no pudieron constatarse desviaciones de contenido, únicamente la forma de presentación de los registros presentados era formalmente diferente.30 [38]
@@ -707,8 +718,8 @@ Las tareas y obligaciones de las entidades de certificación de las empresas de 
 30 Por un lado, el tiempo está representado en horas:minutos y por otro en representación horaria como número decimal.
 31 Los párrafos §§ 168 y 183 del EisbG se refieren a la modificación publicada en el BGBl. I Nr. 143/2020. En el momento del accidente, estas disposiciones no estaban en vigor.
 
-
 ## Página 39
+
 
 ## 7.
 ### Demás personas o entidades relevantes para el suceso
@@ -727,8 +738,8 @@ De la instalación y puesta en servicio de la instalación de seguridad ferrovia
 Los fabricantes u otros proveedores no son relevantes para la evaluación del suceso, ya que la investigación no arrojó indicio alguno de que una posible afectación técnica de un producto ferroviario pudiera ser una causa contribuyente al accidente.
 32 corresponde a la actual disposición del § 40 EisbG
 
-
 ## Página 40
+
 
 ## 4.
 ### Mantenimiento y/o modificación de vehículos o dispositivos técnicos
@@ -749,6 +760,7 @@ Los dos Tfzf son personas que, en el momento del accidente, ya contaban con más
 
 ## Página 41
 
+
 disponían. La última verificación de todos los conocimientos especializados del:de la Tfzf Z 24646, sobre la infraestructura en la que el:la Tfzf puede circular, tuvo lugar el 17.05.2019. Para ambos Tfzf se aportaron datos personales y confirmaciones de formación inicial y de formación continua. [38] La evaluación de estos documentos no arrojó indicio alguno de que la ausencia de requisitos, en relación con los requisitos establecidos por la empresa en la descripción de funciones, hubiera contribuido al accidente. Las declaraciones de ambos Tfzf ante la SUB no permiten extraer conclusiones que conduzcan a una falta de motivación o a una actitud cuestionable hacia el trabajo. En cuanto a la fatiga y el estrés psicológico, cabe señalar que tanto el:la Tfzf Z 24546 como el:la Tfzf de la maniobra se encontraban, en el momento del accidente, en la 11.ª hora de servicio. Al Tfzf Z 24646 se le añade, como factor agravante, que disponía únicamente de un minuto, según lo planificado, para la toma de servicio del tren que circulaba en el 00, y que Z 24646 estaba además afectado por un retraso de aproximadamente tres minutos. [10]
 ## 2.
 ### Factores del puesto de trabajo
@@ -759,6 +771,7 @@ El tiempo de un minuto que la organización puso a disposición del:de la Tfzf d
 34 La temperatura exterior en el momento del accidente fue de 36 °C. Véase Meteo; condiciones de visibilidad en el punto 3 a) 3. No está prevista la medición de la temperatura interior de la cabina de conducción.
 
 ## Página 42
+
 
 pregunta. [28] El potencial de peligro, al parecer, no se considera lo suficientemente alto como para siquiera abordarlo.
 La pregunta de la SUB al superior del:de la Tfzf sobre si el no uso del dispositivo TIM para el trayecto desde el andén 3 de la estación Floridsdorf hasta la parada Siemensstraße (en F) era conforme a las normas, fue respondida como sigue:
@@ -773,6 +786,7 @@ Con esta comunicación en la organización no se estableció una regulación cla
 
 ## Página 43
 
+
 parada Siemensstraße fuera ya, durante el trayecto hacia Siemensstraße, un factor de carga que menoscababa la atención del:de la Tfzf.
 En este contexto, también debe cuestionarse críticamente la eficacia de los dos SMS existentes. Durante la circulación, no resultó de aplicación para el:la Tfzf el SMS del DU, ya que el:la Tfzf del DU, en su actividad para el EVU, está sujeto al SMS del EVU. El SMS del EVU, a su vez, según su propia definición, resulta de aplicación durante la circulación en todos los procesos relevantes para la explotación y la seguridad. Concretamente, esto significa para el EVU que, a través del cuaderno del Tfzf, quedan cubiertas las prescripciones para el cambio de Tfzf en materia de SMS. [23] Como ya se expuso en 4 a) 1 de este punto, en esta norma reglamentaria falta la indicación inequívoca de montar el dispositivo TIM antes del inicio del trayecto.
 ## 4.
@@ -784,6 +798,7 @@ El:La Tfzf de la maniobra vio el peligro de colisión, pero partía de la base d
 36 Con 36 grados Celsius fue un día caluroso, pero es un valor que en los últimos años aparece cada vez con más frecuencia en los meses de julio y agosto.
 
 ## Página 44
+
 
 del:de la Tfzf, basada en sus valores de experiencia.
 ## d) Mecanismos de retroalimentación y control (gestión de riesgos y
@@ -799,8 +814,8 @@ del:de la Tfzf, basada en sus valores de experiencia.
 (2) Las personas que deban llevarse en el registro conforme al apartado 1 deben cumplir los siguientes requisitos: a) la finalización del estudio previsto para la especialidad correspondiente en una escuela técnica superior, b) la actividad práctica en el servicio ferroviario en una empresa ferroviaria nacional de ámbito público durante un plazo mínimo de siete años, de los cuales tres años en la especialidad en la que la persona deba ser utilizada, c) el conocimiento de las disposiciones legales pertinentes para la especialidad.
 (3) De los requisitos de las letras a) y b) puede prescindirse cuando la acreditación de la aptitud se aporte por otro medio. El requisito de la letra c)
 
-
 ## Página 45
+
 
 puede acreditarse mediante una confirmación de la empresa ferroviaria a la que la persona pertenezca o haya pertenecido.»37
 ### «§ 19 Abs. 3
@@ -814,6 +829,7 @@ Una empresa ferroviaria con derecho a prestar servicios de transporte ferroviari
 
 ## Página 46
 
+
 ### „§ 36 Abs. 3 
 (3) Las instalaciones técnicas ferroviarias y los medios de explotación, en particular también los de las empresas de coches-cama y coches-restaurante y de las empresas de alquiler de vagones, deberán ser autorizadas por la autoridad bien sobre la base de planos de tipo o en el caso concreto.“38 
 ## „§ 37 
@@ -821,10 +837,10 @@ Una empresa ferroviaria con derecho a prestar servicios de transporte ferroviari
 (2) Siempre que no se haya concedido ya una autorización de servicio conforme al apartado 1 o que la concesión de la autorización de servicio conforme al § 14 Abs. 3 quede excluida en todo caso, la empresa ferroviaria deberá solicitar la concesión de la autorización de servicio. (3) La autoridad puede conceder sin más la autorización de servicio solicitada conforme al apartado 2, cuando las instalaciones ferroviarias, instalaciones técnicas ferroviarias o medios de explotación hayan sido ejecutados bajo la dirección de las personas indicadas en el § 15 y no existan reparos acerca de que se garantice un servicio ferroviario seguro. 
 En caso contrario, según las circunstancias del caso, deberá comprobarse en particular si las instalaciones ferroviarias, instalaciones técnicas ferroviarias o medios de explotación han sido ejecutados conforme a la autorización de construcción de derecho ferroviario o a la autorización conforme al § 36, si la protección contra la ignición por chispas (§ 40 Abs. 1) y la entrega de las instalaciones de tráfico, cauces y instalaciones de conducción restablecidas se han producido debidamente, si los medios de explotación están construidos de forma segura para el servicio, si los empleados a utilizar en el servicio de explotación son fiables y aptos, si las tarifas se han publicado debidamente y si los bienes utilizados han pasado a la posesión de la empresa ferroviaria.“39 
 38 Estado: fecha de elaboración de la resolución (2005) 
-39 Estado: fecha de elaboración de la resolución (2005) 
-
+39 Estado: fecha de elaboración de la resolución (2005)
 
 ## Página 47
+
 
 ## „§ 59 
 (1) Una empresa de infraestructura ferroviaria deberá elaborar, previa consulta con los interesados, las condiciones de uso de la red ferroviaria en lengua alemana y en otra lengua oficial de la Unión Europea. 
@@ -837,10 +853,10 @@ La oficina de asignación es
 2. la Schieneninfrastruktur-Dienstleistungsgesellschaft mbH u otra empresa adecuada u otro organismo adecuado, cuando les haya sido atribuida la función de oficina de asignación mediante contrato escrito.“ 
 ## „§ 168 
 Las entidades designadas serán utilizadas para las comprobaciones y evaluaciones previstas en la parte 8: 
-1. las entidades de evaluación de la conformidad acreditadas y designadas conforme al § 172, con sede en Austria, que deban utilizarse con arreglo a la Ley de Acreditación 2012, BGBl. I Nr. 28/2012, o 
-
+1. las entidades de evaluación de la conformidad acreditadas y designadas conforme al § 172, con sede en Austria, que deban utilizarse con arreglo a la Ley de Acreditación 2012, BGBl. I Nr. 28/2012, o
 
 ## Página 48
+
 
 2. los demás organismos con sede fuera de Austria que deban utilizarse, que la Comisión Europea haya publicado en una lista de entidades designadas en el marco de la Directiva (UE) 2016/797.“ 
 ## „§ 183 
@@ -850,10 +866,10 @@ Las entidades designadas serán utilizadas para las comprobaciones y evaluacione
 (4) Para las entidades determinadas serán de aplicación mutatis mutandis los §§ 175 Abs. 1 primera frase, 176 Abs. 2 a 4 y 180 Abs. 1, y el § 176 Abs. 1, con la salvedad de que las entidades determinadas deben realizar evaluaciones de la conformidad de acuerdo con los procedimientos de evaluación de la conformidad previstos en las disposiciones nacionales pertinentes.“ 
 ## AZG 1969 
 ## „§ 26 
-(1) El empleador deberá llevar, para supervisar el cumplimiento de las materias reguladas en la presente Ley Federal, en el centro de trabajo, registros de las horas de trabajo realizadas. Deberán anotarse el comienzo y la duración de un periodo de cálculo global.“ 
-
+(1) El empleador deberá llevar, para supervisar el cumplimiento de las materias reguladas en la presente Ley Federal, en el centro de trabajo, registros de las horas de trabajo realizadas. Deberán anotarse el comienzo y la duración de un periodo de cálculo global.“
 
 ## Página 49
+
 
 ## ARG 1983  
 ## „§ 25 
@@ -869,10 +885,10 @@ Las entidades designadas serán utilizadas para las comprobaciones y evaluacione
 1. señales previas, señales principales, señales de protección; 
 2. reducciones permanentes de velocidad con una disminución de la velocidad de al menos 30 km/h; 
 3. puntos de peligro especiales a evaluar por la empresa de infraestructura ferroviaria. 
-[…]“ 
-
+[…]“
 
 ## Página 50
+
 
 ## „§ 27 
 (1) Las señales fijas deberán instalarse de modo que se garantice la visibilidad necesaria. La visibilidad necesaria se refiere a la ubicación de la respectiva señal así como a la punta de una marcha. Para el cálculo de la visibilidad necesaria no se tendrán en cuenta las influencias meteorológicas. 
@@ -884,10 +900,10 @@ Las entidades designadas serán utilizadas para las comprobaciones y evaluacione
 Ejercicio de las materias ferroviarias de oficio de la autoridad, en particular supervisión de las materias del personal ferroviario (dirección de explotación, órganos de vigilancia ferroviaria), de la explotación de los vehículos (también en virtud de actos jurídicos extranjeros), de las materias de los centros de mantenimiento; supervisión en el marco de la autorización de seguridad y del certificado de seguridad; supervisión de la construcción y explotación de instalaciones y pasos a nivel ferroviarios; supervisión de las disposiciones generales dirigidas a los empleados ferroviarios; estrategia de supervisión y planes de supervisión; coordinación y cooperación con otras autoridades (extranjeras) en materia de supervisión; supervisión de autoridad sobre las autoridades subordinadas 
 
 
-40 El accidente se produjo el 01.07.2019. Este extracto se refiere a la ordenación de negocios vigente del 04.07.2022. La asignación de tareas contenida en la misma existía también en las anteriores reparticiones de negocios del BMK o del BMVIT. 
-
+40 El accidente se produjo el 01.07.2019. Este extracto se refiere a la ordenación de negocios vigente del 04.07.2022. La asignación de tareas contenida en la misma existía también en las anteriores reparticiones de negocios del BMK o del BMVIT.
 
 ## Página 51
+
 
 de su ámbito de actuación, como la supervisión del registro de infraestructura; 
 interfaz con la oficina de investigación de accidentes del Estado; informes y análisis de datos.“ 
@@ -905,6 +921,7 @@ BL/QSU-STA 00003-000002-15 del 12.02.2015
 Para poder circular con vmax 40 km/h tras la autorización concedida mediante una liberación obligatoria de la vía de maniobras al jefe de maniobras, es necesario que la cuadrilla de maniobras se encuentre dentro de los vehículos en movimiento (línea de contorno del vehículo conforme a ÖBB40). Si esto no es posible, la vmax será de 25 km/h.
 
 ## Página 52
+
 
 Sobre los apartados (1), (3) y (7) se ha publicado una aclaración.
 30_06_24__Verschubabwicklung mit der Elektronischen Verschubstraßen Anforderung -
@@ -926,8 +943,8 @@ Fuente: IB
 - información operativa importante (p. ej., última posición de señal, transición realizada del tren a maniobra, etc.)
 41 Este documento tuvo validez desde el 09.06.2019 hasta el 08.12.2019.
 
-
 ## Página 53
+
 
 2. Actividades del Tfzf que recibe:
 - Comprobación
@@ -952,10 +969,10 @@ en vehículos con DMI, introducir el número de operador
 - Comprobación de la señal de cabeza“
 […] 
 „Horario: Significado de los tiempos parciales (extracto):
-[…] 
-
+[…]
 
 ## Página 54
+
 
 Figura 5 Significado de los tiempos parciales
 Fuente: EVU“
@@ -963,8 +980,8 @@ Fuente: EVU“
 ### Actividades de evaluación de riesgos y supervisión
 En la empresa del IB existe un órgano independiente de evaluación de riesgos, adscrito al departamento de Seguridad y Calidad. Este realiza en principio todas las evaluaciones de riesgos en el sentido del artículo 6 del Reglamento de Ejecución (UE) 402/2013 de 30 de abril de 2013 por sí mismo. En casos particulares, los procedimientos de evaluación también se adjudican externamente (p. ej.: primera introducción de ETCS). La evaluación de riesgos se realiza según la instrucción de procedimiento interna del IB MP_05,01,01-02_VA_Betriebliches Risikomanagement
 
-
 ## Página 55
+
 
 Para la instalación de seguridad ferroviaria Bf Floridsdorf, en servicio desde 2005, este instrumento no ha mostrado efecto en este suceso. [43]
 ## 3.
@@ -981,8 +998,8 @@ En el periodo comprendido entre el 01 de julio de 2014 y el 01 de julio de 2019,
 43 Este se identifica con el número 153276 y hace referencia a una auditoría de repetición de dos niveles del 06.09.2017 y del 02.10.2017 al 06.10.2017.
 44 Asimismo, se indica a Rail Cargo Group como parte interesada principal.
 
-
 ## Página 56
+
 
 puntos relevantes de la interfaz de gestión SMS entre EVU y DU en cuanto a la cesión de Tfzf.45 [31]
 ## 6.
@@ -996,8 +1013,8 @@ Las resoluciones según el § 36 EisbG para la licencia de construcción ferrovi
 46 Debido a la crisis de la COVID 19, en referencia a los Reglamentos (UE) 2021/267 y (UE) 2021/698, el plazo de validez de esta autorización de seguridad se prorrogó, según las disposiciones del art 9 apart 2 del primero de los mencionados reglamentos, hasta el 30 de abril de 2022.
 47 La versión del EisbG vigente en ese momento entró en vigor el 01.05.2004 mediante el BGBl I Nr. 38/2004 y estuvo vigente hasta el 26.07.2006. La versión actualmente en vigor mediante el BGBl I Nr. 231/2021 regula en el § 36 «Proyectos exentos de autorización».
 
-
 ## Página 57
+
 
 la exitosa ejecución del proyecto de construcción. [37]
 ## 7.
@@ -1008,8 +1025,8 @@ El 20 de marzo de 2017, a las 19:41, el tren de cercanías Z 29795 procedente de
 «Debido al equipamiento del Z 29795 con el sistema de protección de tren PZB 60 por parte del vehículo, el imán de riel PZB de 500 Hz instalado en la vía no tenía función de vigilancia en lo que respecta a una aproximación adecuada a la señal de salida «H21» que indicaba «Alto», debido a la velocidad máxima permitida por debajo de la velocidad de vigilancia. Un posible precedente de la infracción de señal podría ser una acción rutinaria debida a una expectativa habitual, como se describe en el capítulo 7 – factor «Humano». La señal «H21» indicaba predominantemente la posición de señal «Libre» al aproximarse.» [46]
 El 15 de abril de 2017, a las 16:29, el Z 631 colisionó con una maniobra al entrar en la estación de Viena Meidling. Debido a la colisión se produjo el descarrilamiento de los vagones 4 a 7 del Z 631. Los vagones 4 y 7 del tren quedaron en posición inclinada. La causa fue la infracción de la señal de maniobra «V 282» que indicaba «Alto» por parte de la maniobra. [49]
 
-
 ## Página 58
+
 
 El 23 de agosto de 2017, a las 11:49, durante la circulación por la estación Linz Verschiebebahnhof Ost, agrupación en el tramo de vía 396, el tren 97209 colisionó con el tren 61004 que circulaba en sentido contrario en el desvío 204. La colisión se produjo frontalmente, desplazada lateralmente, con el respectivo búfer derecho de los vehículos de cabeza. La carrocería del coche motor del tren 97209 se plegó hacia la derecha más de 90° en la zona delantera de acceso. De este modo se disipó gran parte de la energía cinética. El coche motor descarriló con todos los ejes de los dos bogies. El segundo vagón descarriló con el eje trasero del bogie trasero. La locomotora del tren 61004 descarriló con todos los ejes de los dos bogies. Los vagones de mercancías cargados en la composición no descarrilaron. [39]48
 El 22 de diciembre de 2017, hacia las 17:50, el tren 2845 colisionó con el tren 21093 en la estación Kritzendorf. Ambos trenes circulaban en dirección a la estación de Viena Franz-Josefs-Bahnhof. La colisión se produjo en el km 13,500 en el desvío 6. En ella, el tren 2845 colisionó con el coche motor del tren 21093. Debido a la colisión descarrilaron varios vagones. Dos vagones del tren 2845 se volcaron posteriormente hacia un lado. [47] 49
@@ -1018,6 +1035,7 @@ El 12 de febrero de 2018, a las 12:46, el Z 1708, que salía de la estación Nik
 49 Para este suceso, la Oficina Federal de Investigación de Accidentes Ferroviarios aún no ha completado la investigación, por lo que en el momento actual no puede emitirse una afirmación definitiva y cualificada sobre la causa.
 
 ## Página 59
+
 
 # 5 Conclusiones
 ## a) Resumen del análisis y conclusiones sobre las
@@ -1029,8 +1047,8 @@ No obstante, debido a la distancia del imán de 2000 Hz al punto de peligro, en 
 ## Factor contribuyente
 La falta de percepción, que desencadenó la colisión en combinación con el diseño del dispositivo técnico de seguridad, es consecuencia de una falta de atención. La falta de atención es, por tanto, un factor contribuyente a esta colisión.
 
-
 ## Página 60
+
 
 ## Factores sistémicos
 La plena atención del/la maquinista en la marcha propiamente dicha pudo verse limitada por el estrecho plazo temporal para el relevo del/la maquinista. Se concedió un minuto al/la maquinista por parte de la organización para la toma de servicio del Z 24646. Dado que el tren ya llegó a la estación de entrega/toma de servicio con más de tres minutos de retraso, el/la maquinista decidió activar su dispositivo TIM personal en la siguiente parada. De este modo, el/la maquinista puso el Z 24646 en marcha sin haber completado íntegramente los trabajos de preparación necesarios. La ausencia del dispositivo TIM no causó el accidente, ya que la velocidad permitida era indicada por la señalización de la infraestructura y el/la maquinista no habría recibido información contraria del dispositivo TIM, pero el conocimiento de que este trabajo aún estaba por realizar pudo seguir ocupando mentalmente al/la maquinista en el momento de la no percepción de la señal de alto. De este modo, tanto la falta de tiempo en el lugar de toma de servicio, causada por el tiempo impuesto por las organizaciones (EVU, DU) (en lugar de 3 minutos solo se planificó 1 minuto), que no se ajustaba a las prescripciones de la SNNB del IB, como la incertidumbre respecto al manejo del dispositivo TIM al inicio de la marcha, posiblemente causada por una exposición no clara en las normas, en combinación con una comunicación ineficiente de las organizaciones con el/la maquinista, deben reconocerse como factores sistémicos contribuyentes de la causa de la colisión.
@@ -1039,8 +1057,8 @@ Desde 2021, el EVU lleva a cabo un proyecto de trabajo sobre la manera en que la
 El/la maquinista del Z 24646 fue sometido/a a un examen psicológico tres semanas después del accidente. Dos meses después del accidente, reanudó su actividad
 50 Se indicaron al SUB los pasos y objetivos detallados en los procesos de este proyecto. Dado que estos no tienen relevancia para la investigación de la causa del accidente objeto de estudio, y atendiendo a la circunstancia de que el EVU es una empresa que compite económicamente, en este informe no se profundiza en el asunto.
 
-
 ## Página 61
+
 
 con maniobras. Tres meses después del accidente, fue reincorporado/a al servicio regular. [10]
 El DU incluyó el suceso en la agenda de la formación del servicio para maquinistas en otoño de 2019. [3]
@@ -1050,8 +1068,8 @@ c)
 ## Observaciones adicionales
 La investigación ha puesto de manifiesto que la investigación de sucesos del EVU no obtuvo las registros horarios de los maquinistas implicados que prestaban servicio en el EVU. [44]
 
-
 ## Página 62
+
 
 # Conclusiones
 ## Resumen del análisis y conclusiones sobre las causas
@@ -1064,8 +1082,8 @@ La falta de percepción, que desencadenó la colisión en combinación con el di
 ### Factores sistémicos
 La plena atención del maquinista en la marcha propiamente dicha pudo verse limitada por el estrecho plazo temporal para el relevo. Se concedió un minuto al maquinista por parte de la organización para la toma de servicio del Z 24646. Dado que el tren ya llegó a la estación de entrega/toma de servicio con más de tres minutos de retraso, el maquinista decidió activar su dispositivo TIM personal (Train Driver
 
-
 ## Página 63
+
 
 Information Management) en la siguiente parada. De este modo, el maquinista puso el Z 24646 en marcha sin haber completado íntegramente los trabajos de preparación necesarios.
 Aunque la ausencia del dispositivo TIM no causó el accidente, ya que la velocidad permitida era indicada por la señalización de la infraestructura y el maquinista no habría recibido información contraria del dispositivo TIM, el conocimiento de que este trabajo aún estaba por realizar pudo seguir ocupando mentalmente al maquinista en el momento de la no percepción de la señal de alto. Esto significa que tanto la falta de tiempo en el lugar de toma de servicio, causada por el tiempo no prescrito por las organizaciones (empresas ferroviarias, prestadores de servicios) de conformidad con las prescripciones de los requisitos del gestor de infraestructura (en lugar de 3 minutos solo se planificó 1 minuto), como la incertidumbre respecto al manejo del dispositivo TIM al inicio de la marcha, posiblemente causada por explicaciones poco claras en las normas, en combinación con una comunicación ineficiente entre las organizaciones y el maquinista, pueden identificarse como factores sistémicos en la causa de la colisión.
@@ -1076,14 +1094,14 @@ El contratista de la RU incluyó el suceso en la agenda de la formación del ser
 En el tramo comprendido entre km 5,142 y km 5,910, el IB trasladó el imitador de señal «1F202» de la derecha de la vía a la izquierda, le dotó de indicación de señal y solicitó la colocación de un imán PZB de 500 Hz. [45]
 Tanto el IB como la RU están adoptando medidas para garantizar que el vehículo de cabeza de los trenes de transporte de viajeros en líneas equipadas con PZB esté equipado como mínimo con la funcionalidad PZB 90 a partir de 2025. [70] [71]
 
-
 ## Página 64
+
 
 ## Observaciones adicionales
 La investigación ha puesto de manifiesto que, después del accidente, el departamento de investigación de sucesos de la RU no obtuvo los registros horarios de los maquinistas implicados que prestaban servicio en la RU.
 
-
 ## Página 65
+
 
 # 6 Recomendaciones de seguridad
 ## 6.1 Recomendaciones de seguridad de conformidad con el § 16 Abs. 2 UUG 2005
@@ -1104,6 +1122,7 @@ EVU, IB, DU
 
 ## Página 66
 
+
 # Recomendaciones de seguridad
 ## Recomendaciones de seguridad de acuerdo con el § 16 apartado 2 UUG 2005
 No se emitieron recomendaciones de seguridad de acuerdo con el apartado 16 (2) UUG 2005.
@@ -1114,8 +1133,8 @@ Tabla 9 Recomendaciones de seguridad de acuerdo con el § 16 apartado 1 UUG 2005
 |---|---|---|---|
 | A-2024/001 | Se recomienda que se solicite a las organizaciones interesadas que revisen la práctica actual con respecto al relevo de conductores y que adapten las disposiciones en su SGSS y sus reglamentos de acuerdo con el resultado de la revisión. El presente estudio ha demostrado que una revisión de la práctica actual, particularmente con respecto al tiempo fijado para el relevo del conductor, así como cualquier ajuste de los reglamentos, puede contribuir a la seguridad en el tráfico ferroviario. Desde el punto de vista de la seguridad, es esencial que la práctica y los reglamentos sean coherentes. La implementación de la medida es puramente organizativa, de modo que el esfuerzo es proporcional a los beneficios de aumentar la seguridad. | NSA | RU, IM, DU |
 
-
 ## Página 67
+
 
 # Consideración de las alegaciones
 Sobre el informe de investigación preliminar se presentó en plazo una alegación de:
@@ -1130,14 +1149,14 @@ La ÖBB-Personenverkehr AG indica como conclusión en la alegación (página 3 d
 • Acciones a realizar en el marco de la entrega/recepción de un tren por parte de las personas actuantes
 La Autoridad Ferroviaria Suprema de Supervisión indica respecto a «Tiempo disponible para el relevo de Tfzf», entre otros, que no sería suficiente referirse al plazo fijado por el IB. Asimismo, se argumenta que, por tanto, la totalidad de la prescripción en el SGSS aplicable, que determina qué acciones deben realizarse en el marco de la entrega/recepción de un tren por parte de las personas actuantes, debería presentarse, ya que solo esta
 
-
 ## Página 68
+
 
 listado permitiría deducir si las acciones pueden completarse en el tiempo establecido.
 Estas actividades quedan recogidas en la ZSB 32, que forma parte del Cuaderno del conductor de la ÖBB-Personenverkehr AG. El extracto correspondiente se encuentra en el informe de investigación en el punto 4 d). Una nueva consulta al EVU en el marco de la recogida de datos adicional ha confirmado este resultado. [67] Adicionalmente, en la estación de Floridsdorf el 20.09.2023 entre las 15:00 y las 17:00 Uhr, la SUB, junto con el EVU y el DU, realizó una observación del relevo de Tfzf. De los cinco relevo observados, ninguno pudo realizarse en menos de 2 minutos. [68]
 
-
 ## Página 69
+
 
 ### Índice de tablas
 Tabla 1 Recomendaciones de seguridad de acuerdo con el § 16 apartado 1 UUG 2005 ..................................... 10
@@ -1150,8 +1169,8 @@ Tabla 7 Procedimiento de emergencia de servicios públicos .....................
 Tabla 8 Recomendaciones de seguridad de acuerdo con el § 16 apartado 1 UUG 2005 ..................................... 65
 Tabla 9 Safety recommendations according to § 16 paragraph 1 UUG 05 ................... 66
 
-
 ## Página 70
+
 
 ### Índice de figuras
 Figura 1 Croquis de las líneas ferroviarias de Austria ................................................................... 20
@@ -1160,8 +1179,8 @@ Figura 3 Daños en los vehículos ..............................................
 Figura 4 Tiempos mínimos de atención para la manipulación de trenes .......................................... 52
 Figura 5 Significado de los tiempos parciales ......................................................................... 54
 
-
 ## Página 71
+
 
 ### Índice de normativa
 Ley federal sobre ferrocarriles, vehículos sobre raíles en ferrocarriles y el tráfico en ferrocarriles (Ley de ferrocarriles de 1957 – EisbG), BGBl. n.º 60/1957, modificada por última vez por BGBl. I n.º 231/2021
@@ -1179,8 +1198,8 @@ estructura de presentación de informes que debe seguirse para los informes sobr
 ### Reglamento de ejecución (UE) n.º 402/2013 de la Comisión de 30 de abril de 2013 sobre
 el método común de seguridad para la evaluación y valoración de riesgos y por el que se deroga el Reglamento (CE) n.º 352/2009
 
-
 ## Página 72
+
 
 ### Índice de normativa del IB y EVU
 30.01. Instrucción de explotación V3
@@ -1196,8 +1215,8 @@ Instrucción de frenos
 Condiciones de uso de la red ferroviaria 2019
 Cuaderno del conductor de la ÖBB-PV AG 2019 751.590-101 Versión: 6.0
 
-
 ## Página 73
+
 
 ### Índice de fuentes
 Los datos del presente informe de investigación preliminar han sido tomados de las siguientes fuentes (números de identificación no correlativos):
@@ -1231,8 +1250,8 @@ Los datos del presente informe de investigación preliminar han sido tomados de 
 [28] Correo electrónico (795.399 FL-PV-005-I-E); 08.07.2020; EVU
 [29] Correo electrónico (795.399 FL-PV-007-I-E); 11.01.2022; EVU
 
-
 ## Página 74
+
 
 [30] Base de datos de vehículos según TSI; 07.04.2017 y 30.08.2018; IB
 [31] Escrito BMVIT-228.202/0008-IV/E4/2019 (795.399 FL-DI-003-I-EA); 01.03.2022; OE
@@ -1270,6 +1289,7 @@ Los datos del presente informe de investigación preliminar han sido tomados de 
 
 ## Página 75
 
+
 [63] 
 Cálculo de la distancia de frenado (795.399 FL-SD-007-Rin); 30.07.2021; SUB 
 [64] 
@@ -1287,10 +1307,10 @@ Correo electrónico (795.399 FL-PV-012-I-E); 04.05.2023; EVU
 [70] 
 Correo electrónico (795.399 FL-PV-016-I-E); 16.02.2024; EVU 
 [71] 
-Correo electrónico (795.399 FL-IB-015-I-E); 13.02.2024; IB 
-
+Correo electrónico (795.399 FL-IB-015-I-E); 13.02.2024; IB
 
 ## Página 76
+
 
 ### Abreviaturas 
 Art. 
@@ -1349,10 +1369,10 @@ Condiciones de uso de la red ferroviaria
 SUB 
 Oficina Federal de Investigación de Accidentes Ferroviarios 
 Tfz 
-Locomotora 
-
+Locomotora
 
 ## Página 77
+
 
 Tfzf 
 Maquinista 
@@ -1371,126 +1391,163 @@ Coordinador central de información
 ZS 
 Señal intermedia 
 ZSB 
-Disposiciones complementarias 
-
+Disposiciones complementarias
 
 ## Página 78
 
-# Anexo – Dictámenes  
 
+# Anexo – Dictámenes
 
 ## Página 79
+
 
 
 ## Página 80
 
 
+
 ## Página 81
+
 
 
 ## Página 82
 
 
+
 ## Página 83
+
 
 
 ## Página 84
 
 
+
 ## Página 85
+
 
 
 ## Página 86
 
 
+
 ## Página 87
+
 
 
 ## Página 88
 
 
+
 ## Página 89
+
 
 
 ## Página 90
 
 
+
 ## Página 91
+
 
 
 ## Página 92
 
 
+
 ## Página 93
+
 
 
 ## Página 94
 
 
+
 ## Página 95
+
 
 
 ## Página 96
 
 
+
 ## Página 97
+
 
 
 ## Página 98
 
 
+
 ## Página 99
+
 
 
 ## Página 100
 
 
+
 ## Página 101
+
 
 
 ## Página 102
 
 
+
 ## Página 103
+
 
 
 ## Página 104
 
 
+
 ## Página 105
+
 
 
 ## Página 106
 
 
+
 ## Página 107
+
 
 
 ## Página 108
 
 
+
 ## Página 109
+
 
 
 ## Página 110
 
 
+
 ## Página 111
+
 
 
 ## Página 112
 
 
+
 ## Página 113
+
 
 
 ## Página 114
 
 
+
 ## Página 115
 
 
+
 ## Página 116
+
 
 ### Oficina Federal de Investigación de Accidentes Ferroviarios 
 Radetzkystraße 2, 1030 Viena 

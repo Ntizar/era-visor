@@ -14,6 +14,7 @@ fecha_proceso: 2026-11-19
 generador: traducir_md_es.py (traducción IA + verificación numérica)
 verificacion: revisar
 avisos: ["página 13: cifras largas: faltan 5/10 (50%)"]
+notas_cifras: ["página 1: cifras largas: 1/7", "página 10: cifras cortas: 1/33", "página 11: cifras cortas: 2/25", "página 33: cifras largas: 1/48; cifras cortas: 2/84", "página 34: cifras largas: 1/21", "página 35: cifras largas: 5/29"]
 ---
 
 ## Página 1

@@ -10,13 +10,14 @@ chars: 215199
 ratio_longitud: 1.30
 tokens_in: 89418
 tokens_out: 66658
-verificacion: revisar
-notas_cifras: ["bloque 2: original bilingüe: se compara contra el idioma principal (CS)", "bloque 3: cifras cortas: 4/91", "bloque 4: cifras cortas: 1/41", "bloque 6: cifras cortas: 9/94", "bloque 7: cifras cortas: 1/85", "bloque 14: original bilingüe: se compara contra el idioma principal (CS)"]
-avisos: ["bloque 14: ratio 1.77", "bloque 23: ratio 1.74"]
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (CS)", "página 5: original bilingüe: se compara contra el idioma principal (EN)", "página 6: original bilingüe: se compara contra el idioma principal (CS)", "página 8: cifras cortas: 1/34", "página 9: original bilingüe: se compara contra el idioma principal (CS)", "página 10: cifras cortas: 1/40"]
 ---
+
 ## Página 1
+
 
 Inspección Ferroviaria
 República Checa
@@ -44,7 +45,10 @@ fax: (+420) 224 805 428
 
 ## Página 2
 
+
+
 ## Página 3
+
 
 # RESUMEN
 7 de mayo de 2007 00:11 (6 de mayo de 2007 22:11 GMT)
@@ -73,7 +77,10 @@ con el fin de otorgar la máxima prioridad a las órdenes de «parada general» 
 
 ## Página 4
 
+
+
 ## Página 5
+
 
 # Índice
  Resumen .............................................................................................................................3
@@ -102,6 +109,7 @@ con el fin de otorgar la máxima prioridad a las órdenes de «parada general» 
 3.1.1 Empleados del gestor de infraestructura y del transportista, incluidas las personas en relación
 
 ## Página 6
+
 
 proporción ...............................................................................................................17
 3.1.2 Otras personas .........................................................................................................21
@@ -132,8 +140,8 @@ proporción ....................................................................
 4.1.1 Descripción definitiva del incidente basada en los hechos constatados en el punto 3 
 ............................................................................................................................47
 
-
 ## Página 7
+
 
 4.2 Análisis ......................................................................................................................50
 4.2.1 Evaluación de los hechos constatados según el punto 3 y presentación de las conclusiones sobre la causa del incidente y la actuación de los servicios de emergencia ..........................................50
@@ -153,6 +161,7 @@ proporción ....................................................................
 
 ## Página 8
 
+
 ## 1 RESUMEN
 El 07.05.2007, a las 00:11:50 h, se produjo, a tenor del artículo 49 de la Ley n.º 266/1994 Coll., sobre ferrocarriles, en su versión vigente, un incidente extraordinario en el transporte ferroviario (en lo sucesivo, IE), en el que, en el lugar de cruce a nivel de la vía férrea de doble vía Horní Lideč st. hr. – Hranice na Moravě (línea 308) con la vía terrestre (en lo sucesivo, paso a nivel ferroviario), en el pk 33,243, colisionó un vehículo ferroviario que circulaba como el tren Lv 73880 con un vehículo de motor terrestre estacionado y en llamas: un camión de carga ZN. SCANIA R124LA4x2NA, RZ. 3T8 1485 (CZ).
 En el IE no se produjeron lesiones personales.
@@ -170,17 +179,17 @@ El IE se produjo el 07.05.2007, a las 00:11:50 h, en la vía férrea nacional Ho
 
 ## Página 9
 
-### 2.1.2 Descripción del incidente extraordinario y del lugar del accidente, incluida la actividad del sistema integrado de rescate y del servicio de rescate
-El IE se produjo en el PAN en el pk 33,243, señalizado en ambos lados de la vía terrestre con los carteles de tráfico verticales A 32b «Cruz de advertencia para paso a nivel de vía múltiple» y protegido por un dispositivo de protección de pasos a nivel (en lo sucesivo, DPPN) de la categoría PZS 4Z, tipo AŽD 71 con barreras.
-El paso a nivel ferroviario se encuentra, en el sentido de circulación del tren Lv 73880, en una curva a la derecha de radio R=350 m, con peralte p=186 mm y pendiente -6,27 ‰.
-La línea férrea, en el sentido de circulación del tren, desde el pk 33,909 hasta el pk 33,821, es decir, desde los 666 m hasta los 578 m del lugar del IE, discurre en tramo recto, con una pendiente descendente del -3,04 ‰; desde el pk 33,821 hasta el pk 33,469, es decir, desde los 578 m hasta los 229 m del lugar del IE, discurre en tramo recto, con una pendiente descendente del -2,38 ‰. Desde el pk 33,469 hasta el pk 33,373, es decir, desde los 229 m hasta los 130 m del lugar del IE, la línea se encuentra en la transición hacia la curva a la derecha de radio R=350 m y rampa ascendente con coeficiente de pendiente n=763, con una pendiente descendente del -2,38 ‰. Desde el pk 33,373 hasta el pk 33,268, es decir, desde los 130 m hasta los 25 m del lugar del IE, la línea discurre en una curva a la derecha de radio R=350 m, con peralte p=186 mm y en una pendiente descendente del -2,38 ‰. Desde el pk 33,268 hasta el pk 33,243, es decir, desde los 25 m hasta los 0 m del lugar del IE, la línea continúa en una curva a la derecha de radio R=350 m, con peralte p=186 mm y pendiente -6,27 ‰.
-La velocidad de línea en el tramo indicado es de 80 km/h.
-El tramo de línea entre la EF Jablůnka y la EF Valašské Meziříčí está cubierto por la señal «Vf» del sistema de radio de línea TRS (en lo sucesivo, TRS) de sistema de isleta. La estación base de radio situada en la EF Jablůnka opera en la señal «Vf» de 468,200 MHz, y la estación base de radio situada en la EF Valašské Meziříčí opera en la señal «Vf» de 468,150 MHz. El entorno inmediato del PAN en el pk 33,243 está cubierto por la señal de ambas estaciones base de radio adyacentes.
-El 06.05.2007 a las 23:47:30 h, el tren Lv 73880 salió de la EF Horní Lideč. El tren era de salida, siendo la estación de destino la EF Valašské Meziříčí. El tren Lv 73880 estaba compuesto por un VFM independiente de la serie 163.004-5, circulando hacia adelante con la cabina del maquinista n.º I. Durante toda la circulación del tren, el conductor del vehículo ferroviario (en lo sucesivo, maquinista) seleccionó mediante el conmutador S111 el modo de conducción «A», es decir, el VFM se controlaba en el modo «Regulación automática de la velocidad» (en lo sucesivo, ARR).
-En el tramo de línea entre la EF Jablůnka y la EF Valašské Meziříčí, el maquinista, debido a las condiciones de pendiente (pendiente decisiva/clase de pendiente 7/II), seleccionó mediante el conmutador de modo de circulación S159 el modo «Circulación», es decir, el conmutador S159 estaba en la posición «J». El VFM mantenía una velocidad constante de 78 km/h.
-Tras el paso del tren Lv 73880 por la EF Jablůnka, el maquinista fue interrogado, entre las 00:10:17 h y las 00:10:43 h, mediante el sistema de radio de línea (en lo sucesivo, TRS), por la persona que controlaba el tráfico ferroviario (en lo sucesivo, despachador) de la EF Jablůnka, sobre si había algo ardiendo en el PAN hacia Jablůnka. Dado que el maquinista creyó que se le interrogaba sobre el PAN en el pk 33,308 situado en la cabecera de la EF Jablůnka hacia Valašské Meziříčí, que ya había superado, respondió que no había notado nada y continuó su circulación con mayor atención a la línea y su entorno. Durante la conversación se cortó la tensión en la catenaria. Como consecuencia de la pérdida de tensión en la catenaria a las 00:10:37 h, se desconectó el interruptor principal del VFM 163.004-5. El maquinista no registró la pérdida de tensión de la catenaria ni la desconexión del interruptor principal, incluida la circulación subsiguiente por impulso. Continuó su circulación sin ninguna corrección de velocidad, la cual descendía gradualmente como consecuencia de la circulación por impulso.
+### 2.1.2 Descripción del suceso excepcional y del lugar del accidente, incluida la actividad del sistema integrado de protección y del servicio de rescate
+El suceso excepcional (MU) se produjo en el paso a nivel (ŽP) en el km 33,243, señalizado en ambos lados de la vía pública con señales de tráfico verticales A 32b «Cruz de aviso para paso a nivel de vías múltiples» y protegido por un aparato de enclavamiento de paso a nivel (en adelante PZZ) de la categoría PZS 4Z, tipo AŽD 71 con barreras.
+El paso a nivel se sitúa, en el sentido de circulación del tren Lv 73880, en una curva a la derecha de radio R=350 m, con sobreelevación p=186 mm y pendiente de -6,27 ‰.
+La vía férrea, en el sentido de circulación del tren, desde el km 33,909 hasta el km 33,821, es decir, desde 666 m hasta 578 m del lugar del MU, discurre en línea recta, en descenso de -3,04 ‰; desde el km 33,821 hasta el km 33,469, es decir, desde 578 m hasta 229 m del lugar del MU, discurre en línea recta, en descenso de -2,38 ‰. Desde el km 33,469 hasta el km 33,373, es decir, desde 229 hasta 130 m del lugar del MU, la vía se encuentra en una transición hacia una curva a la derecha de radio R=350 m y en una subida con coeficiente de pendiente n=763, en descenso de -2,38 ‰. Desde el km 33,373 hasta el km 33,268, es decir, desde 130 m hasta 25 m del lugar del MU, la vía discurre en una curva a la derecha de radio R=350 m, con sobreelevación p=186 mm y en descenso de -2,38 ‰. Desde el km 33,268 hasta el km 33,243, es decir, desde 25 m hasta 0 m del lugar del MU, la vía continúa en una curva a la derecha de radio R=350 m, con sobreelevación p=186 mm y pendiente de -6,27 ‰.
+La velocidad máxima en el tramo en cuestión es de 80 km.h-1.
+El tramo de vía entre la estación Jablůnka (ŽST Jablůnka) y la estación Valašské Meziříčí (ŽST Valašské Meziříčí) está cubierto por la señal «Vf» del sistema de radio en vía TRS (en adelante TRS) de sistema isla. La estación de radio base situada en la ŽST Jablůnka opera en la señal «Vf» de 468,200 MHz, la estación de radio base situada en la ŽST Valašské Meziříčí opera en la señal «Vf» de 468,150 MHz. El entorno inmediato del ŽP en el km 33,243 está cubierto por la señal de ambas estaciones de radio base adyacentes.
+El 06. 05. 2007 a las 23:47:30 h partió de la ŽST Horní Lideč el tren Lv 73880. El tren era de origen, siendo la estación de destino la ŽST Valašské Meziříčí. El tren Lv 73880 estaba formado por una locomotora (HDV) independiente de la serie 163.004-5, circulando de frente con el puesto de conducción del maquinista n.º I. Durante todo el trayecto del tren, la persona que conduce el vehículo ferroviario (en adelante maquinista) tenía mediante el conmutador S111 seleccionado el modo de conducción «A», es decir, la HDV estaba conducida en el modo «Regulación automática de velocidad» (en adelante ARR). En el tramo de vía entre la ŽST Jablůnka y la ŽST Valašské Meziříčí, el maquinista, en función de las condiciones de pendiente (pendiente determinante/clase de pendiente 7/II), había seleccionado mediante el conmutador de modo de marcha S159 el modo «Marcha», es decir, el conmutador S159 estaba en la posición «J». La HDV mantenía una velocidad constante de 78 km.h-1.
+Después del paso del tren Lv 73880 por la ŽST Jablůnka, el maquinista fue preguntado, en el período comprendido entre las 00:10:17 h y las 00:10:43 h, mediante el sistema de radio en vía (en adelante TRS), por la persona que dirige el tráfico ferroviario (en adelante jefe de estación) de la ŽST Jablůnka, si ardía algo en el ŽP de Jablůnka. Como el maquinista suponía que se le preguntaba por el ŽP en el km 37,308 situado en el extremo de Valašské Meziříčí de la ŽST Jablůnka, que ya había pasado, respondió que no había notado nada y continuó su marcha con mayor atención a la vía y su entorno. Durante la conversación se cortó la tensión en la línea de alimentación de tracción. Como consecuencia de la pérdida de tensión en la línea de alimentación de tracción, a las 00:10:37 h se desconectó el interruptor principal de la HDV 163.004-5. El maquinista no registró ni la pérdida de tensión de catenaria ni la desconexión del interruptor principal, incluida la posterior marcha por inercia. Continuó la marcha sin ninguna corrección de velocidad, que como consecuencia de la marcha por inercia descendía gradualmente.
 
 ## Página 10
+
 
 A una distancia de aproximadamente 530 m antes del punto kilométrico (PK) 33,243, que el maquinista aún no podía ver debido a las condiciones de la vía, registró las luces de advertencia de color azul de los vehículos con prioridad de paso. Por ello, a las 00:11:29 h cambió inmediatamente el controlador del freno de la frenadura automática continua OBE 1 a la posición «Freno» y, poco después, a las 00:11:31 h, activó la frenadura de acción rápida. Durante la frenadura, el maquinista registró también la señal «Alto, deténganse con todos los medios», dada mediante el giro de una luz blanca por una de las personas presentes en el lugar del incendio. Asimismo, divisó en el PK 33,243 un vehículo automotor de carretera detenido y en llamas, situado en el perfil de paso de la segunda vía de la línea que circulaba. Se produjo la colisión del HDV contra la parte trasera izquierda del vehículo automotor de carretera detenido y en llamas. Como consecuencia de la dinámica del accidente, el vehículo automotor de carretera fue lanzado hacia la izquierda a la vía nº 1, donde permaneció detenido y en llamas, orientado en contra del sentido de circulación del tren Lv 73880. El HDV se detuvo a las 00:12:12 h, en el PK 33,080, es decir, 163 m después del punto de colisión.
 
@@ -195,6 +204,7 @@ A las 00:02:29 h, el KOPIS de Zlín informó telefónicamente a la Central de No
 ### y solicitó el cierre de la línea en el tramo Valašské Meziříčí – Vsetín. El despliegue de la Unidad de Protección Contra Incendios del HZS ČD
 
 ## Página 11
+
 
 no se solicitó, a pesar de la intervención prevista bajo la catenaria, KOPIS Zlín. La llamada se finalizó a las 00:04:06 h. La salida del JPO HZS ČD se organizó únicamente a las 00:32 h, con hora de salida a las 00:33 h.
 Sin embargo, la solicitud de detención del tráfico ferroviario en el tramo Vsetín – Valašské Meziříčí no fue transmitida por el empleado en el puesto de la Ohlašovna požárů OIS JPO HZS ČD Přerov a las personas que dirigen el tráfico ferroviario, es decir, al jefe o al despachador de explotación del Centro Regional de Gestión
@@ -220,6 +230,7 @@ En ese momento, es decir, desde las 00:10:17 h hasta las 00:10:43 h, el despacha
 
 ## Página 12
 
+
 más arriba) respondió que no había notado nada. Durante la llamada se cortó la tensión en la catenaria de la 2. vía del tramo entre la ŽST Jablůnka y la ŽST Valašské Meziříčí.
 En la llamada telefónica siguiente entre el despachador de explotación de la ŽST Valašské Meziříčí y el despachador de la ŽST Jablůnka, iniciada a las 00:10:43 h, se informó al despachador de explotación de que el maquinista del tren Lv 73880 no había notado nada. En ese momento, el despachador de explotación mantenía también una llamada con el Centro Operativo de la PČR Vsetín, al que se le informó sobre la fuente de peligro para la explotación segura de la línea y del tráfico ferroviario: un vehículo de motor en la carretera en llamas, estacionado en un paso a nivel en Bystřička. Al mismo tiempo, el centro operativo de la PČR solicitó la detención del tráfico. Por ello, el despachador de explotación de la ŽST Valašské Meziříčí comunicó al despachador de la ŽST
 Jablůnka el lugar de la fuente de peligro y le instó a detener el tren. Posteriormente, comunicó la posición de la fuente de peligro al electrodispetchador independiente n.º 2, del Elektrodispečinku Přerov.
@@ -237,6 +248,7 @@ El empleado de la COP, basándose en la información notificada, decidió no ini
 La Inspección Territorial de Ostrava fue autorizada por la DI para llevar a cabo la investigación posterior de las causas y las circunstancias de la aparición de la MU. La investigación de las causas y las circunstancias de la aparición de la MU fue llevada a cabo por la DI de conformidad con el artículo 53b de la Ley n.º 266/1994 Coll., sobre las líneas, en su versión vigente (en adelante, Ley n.º 266/1994 Coll.) y los artículos 11 y 12 del Decreto n.º 376/2006 Coll. Como consultor externo en la investigación de las causas y las circunstancias de la aparición de la MU actuó la Universidad de Minas y Metalurgia – Universidad Técnica de Ostrava.
 
 ## Página 13
+
 
 ### 2.2 Circunstancias extraordinarias del suceso
 ### 2.2.1 Personal participante del explotador de la infraestructura y del transportista, personas en relación contractual y demás participantes y testigos
@@ -261,10 +273,10 @@ el conductor del vehículo automotor de carretera ZN. SCANIA R124LA4x2NA, matrí
 2.2.2 Trenes y su composición, incluidos los números de registro de cada vehículo ferroviario individual
 El tren Lv 73880 estaba compuesto por una unidad diésel autónoma (HDV) de la serie 163.004-5. El propietario y explotador de la HDV es České dráhy, a. s. La HDV está registrada en el taller DKV de Ostrava. 
 La estación de origen del tren Lv 73880 fue la estación ferroviaria de Horní Lideč, donde la HDV se separó del tren Pn 48739. La estación de destino fue la estación ferroviaria de Valašské Meziříčí. El tren tenía una longitud de 16,80 m, 4 ejes y un peso de 84 toneladas. El tren Lv 73880 – HDV 163.004-5 estaba frenado mediante el método de frenado I, la llave de conmutación del distribuidor DAKO-LTR 8 se encontraba en la posición de pasajeros «O», la llave de cierre n.º 976/5 (hierro fundido gris) para la válvula auxiliar DAKO-LRV estaba cerrada, es decir, en caso de frenado de servicio o de emergencia se alcanzaba en los cilindros de freno únicamente un nivel bajo de presión de 3,8 bar, en lugar del nivel alto de presión requerido de 6,5 bar. La HDV 163.004-5 estaba equipada con cuñas de freno de hierro fundido gris.
-La HDV circulaba hacia adelante desde la cabina del conductor n.º I: el conductor observaba la vía y las señales desde el lado derecho de la cabina del conductor n.º I. Durante todo el trayecto del tren, el conductor seleccionó mediante el conmutador S111 el modo de conducción «A», es decir, la HDV fue conducida en el modo ARR. En el tramo de vía 
-
+La HDV circulaba hacia adelante desde la cabina del conductor n.º I: el conductor observaba la vía y las señales desde el lado derecho de la cabina del conductor n.º I. Durante todo el trayecto del tren, el conductor seleccionó mediante el conmutador S111 el modo de conducción «A», es decir, la HDV fue conducida en el modo ARR. En el tramo de vía
 
 ## Página 14
+
 
 entre la estación ferroviaria de Jablůnka y la estación ferroviaria de Valašské Meziříčí, el conductor, debido a las condiciones de pendiente (pendiente dominante/clase de pendiente 7/II), seleccionó mediante el conmutador del modo de conducción S159 el modo «Conducción», es decir, el conmutador S159 se encontraba en la posición «J». Hasta el momento de la interrupción del suministro eléctrico en el cable aéreo de contacto y la posterior desconexión del interruptor principal de la HDV, el regulador automático de velocidad mantenía una velocidad constante, es decir, el regulador de tracción indicaba repetidamente, en intervalos cortos, un valor positivo de tracción relativa.
 La HDV 163.004-5 está equipada con la parte móvil del sistema de radio TRS – Conjunto de locomotoras VS47, n.º de serie 1201095, que permite, en las vías y estaciones equipadas con el sistema TRS, la comunicación por radio entre la persona que dirige el transporte ferroviario y el conductor. El conjunto permite una comunicación dúplex y una comunicación simplex en redes locales. La HDV está equipada además con un adaptador XX48 funcional para la parada remota de la HDV, cuando exista peligro de retraso, en caso de peligro inminente para la explotación ferroviaria.
@@ -278,6 +290,7 @@ La vía férrea, en el sentido de circulación del tren, desde el km 33,909 hast
 
 ## Página 15
 
+
 a ve spádu -2,38 ‰. Desde el pk 33,268 hasta el pk 33,243, es decir, desde los 25 m hasta los 0 m desde el lugar del incidente, la vía continúa en una curva a la derecha de radio R=350 m, con peralte p=186 mm y pendiente -6,27 ‰.
 El tramo de vía ŽST Jablůnka – ŽST Valašské Meziříčí está cubierto por la señal «Vf» TRS. La estación base de radio situada en ŽST Jablůnka opera en la señal «Vf» 468,200 MHz, y la estación base de radio situada en ŽST Valašské Meziříčí opera en la señal «Vf» 468,150 MHz. El punto kilométrico (PK) en el pk 33,243 se encuentra en el lugar de cobertura de las señales de ambas isletas vecinas – las estaciones base de radio situadas en Jablůnka y Valašské Meziříčí.
 La velocidad máxima en el tramo de vía indicado es de 80 km/h.
@@ -289,8 +302,8 @@ Sobre la circulación del tren Lv 73880, los miembros del Cuerpo de Bomberos y S
 Tras la aparición del incidente extraordinario, es decir, tras la colisión del tren Lv 73880 con el vehículo automotor de carretera estacionado y en llamas y tras el posterior aseguramiento de la seguridad, el incendio fue extinguido por las unidades del Cuerpo de Bomberos y Salvamento.
 No se realizaron otros trabajos en el lugar ni en las inmediaciones del lugar del incidente extraordinario.
 
-
 ## Página 16
+
 
 ### 2.2.6 Activación del plan de emergencia ferroviaria y secuencia de los acontecimientos
 El procedimiento de activación del plan de emergencia para el incidente extraordinario (IE) está contenido en el reglamento interno ČD D 17 «Reglamento para la notificación y la investigación de incidentes extraordinarios», aprobado el 31.10.2006, con el número de registro 70778/2006, con efecto desde el 01.01.2007, y más detalladamente en los procedimientos tecnológicos unitarios – reglamentos de explotación de las unidades operativas, es decir, también del Centro Operativo Integrado (OIS) del Destacamento de Bomberos y Salvamento (JPO) del Cuerpo de Bomberos y Salvamento de ČD en Přerov, y en los Reglamentos de Estación elaborados específicamente para cada estación con ramificación de vías, es decir, también para ŽST Jablůnka y ŽST Valašské Meziříčí.
@@ -306,29 +319,29 @@ No se produjeron lesiones a la salud de viajeros, terceros ni empleados del expl
 
 ## Página 17
 
-### 2.3.2 En las mercancías transportadas, equipajes y demás bienes
-No se produjeron daños en las mercancías transportadas, equipajes y demás bienes.
-Los daños en el vehículo de motor por carretera –camión sin remolque, MARCA SCANIA 
-R124LA4x2NA, MATRÍCULA 3T8 1485 (CZ)– se debieron en su mayor parte al incendio, que provocó 
-la destrucción total del vehículo. Por ello, no se incluyen en el importe de los daños relacionados con la mencionada IU.
-### 2.3.3 En los vehículos ferroviarios, componentes de la vía y en el medio ambiente
-Se produjeron daños en el VFR 163.004-5 por un importe de 181.403,- Kč. 
-Como consecuencia de la IU, se deformaron y dañaron las siguientes partes del VFR en el lado de la cabina del maquinista nº I: se deformó y desprendió el depósito de aire principal de 450 l, junto con la tubería de conexión; se dañaron la placa del parachoques izquierdo, el cepillo izquierdo, el sensor VZ izquierdo, el cable de la conexión de calefacción, junto con la placa de bornes de la conexión de calefacción, la manguera de la tubería de alimentación y la pintura exterior en una superficie de aproximadamente 1 m2.
-No se produjeron daños en la infraestructura ferroviaria, es decir, en el paso a nivel, el dispositivo de seguridad del paso a nivel y la línea de contacto, como consecuencia de la colisión, sino como consecuencia del incendio del vehículo de motor por carretera. Por ello, no se incluyen en el importe de los daños relacionados con la mencionada IU.
-### 2.4 Factores externos
+### 2.3.2 Sobre las cosas transportadas, el equipaje y otros bienes
+No se produjeron daños en las cosas transportadas, el equipaje ni otros bienes.
+El daño en el vehículo de motor por carretera – camión sin remolque, marca SCANIA 
+R124LA4x2NA, matrícula 3T8 1485 (CZ) – se produjo en su mayor parte como consecuencia de un incendio que causó la destrucción total del vehículo. Por ello, no se incluye en el importe de los daños relacionados con la MUE de referencia.
+### 2.3.3 Sobre el material rodante, los componentes de la vía de circulación y el medio ambiente
+En el HDV 163.004-5 se produjeron daños por importe de 181.403,- CZK.
+Como consecuencia de la MUE, las siguientes partes del HDV, en el lado de la cabina del maquinista n.º I, se deformaron y dañaron: el depósito de aire principal de 450 l deformado y desprendido, incluida la tubería de conexión, el disco del amortiguador izquierdo dañado, el limpiador izquierdo, el captador VZ izquierdo, el cable del acoplamiento de calefacción, incluida la borna del acoplamiento de calefacción, la manguera de la tubería de suministro y la pintura exterior en una superficie de aproximadamente 1 m2.
+Los daños en la infraestructura de la vía, es decir, en el paso a nivel, en la instalación de seguridad del paso a nivel y en la línea de contacto, no se produjeron como consecuencia de la colisión, sino como consecuencia del incendio del vehículo de motor por carretera. Por ello, no se incluyen en el importe de los daños relacionados con la MUE de referencia.
+### 2.4 Circunstancias externas
 ### 2.4.1 Condiciones meteorológicas y datos geográficos
-Temperatura exterior + 13º C, calma, período nocturno, la visibilidad no se vio reducida por factores meteorológicos.
-El punto kilométrico (PK) 33,243 permite el cruce a nivel de la línea ferroviaria de doble vía con la carretera –carretera de 1.ª categoría nº 57, en el PK 116,081, en el término municipal de Bystřička.
-## 3 REGISTRO DE LAS EXPLICACIONES PRESTADAS
-### 3.1 Resumen de las explicaciones prestadas (sujetas a protección de la identidad de las personas) y sobre la investigación técnica de las causas de la producción de la situación extraordinaria
-### 3.1.1 Empleados del titular de la infraestructura y del transportista, incluidas las personas en relación contractual
+Temperatura exterior + 13º C, calma, período nocturno, la visibilidad no se vio reducida por influencias meteorológicas.
+El paso a nivel en el pk 33,243 permite el cruce de una vía férrea de doble vía a nivel de los raíles con una vía por carretera – carretera de 1.ª clase n.º 57, en el pk 116,081, en el término municipal de Bystřička.
+## 3 REGISTRO DE LAS EXPLICACIONES PRESENTADAS
+### 3.1 Resumen de las explicaciones presentadas (sujetas a la protección de la identidad de las personas) y del peritaje sobre las causas de la producción de la circunstancia excepcional
+### 3.1.1 Empleados del gestor de la vía y del transportista, incluidas personas en relación contractual
 Maquinista del tren Lv 73880:
-En el documento «Acta con el empleado», elaborado en la DKV Ostrava, Unidad de 
+En el documento "Acta con el empleado", elaborado en DKV Ostrava, Unidad 
 –
-Operaciones (en lo sucesivo, UO) Valašské Meziříčí, el 09. 05. 2007, a las 08:00 h, entre otras cosas, indicó:
-«… . El turno transcurrió sin incidencias hasta el tren 73880, cuando, tras el paso por la ET Jablůnka, el despachador de la ET Jablůnka me interrogó a través del TRS sobre si ocurría algo 
+Operativa (en adelante PJ) Valašské Meziříčí, el 09. 05. 2007, a las 08:00 h, entre otras cosas, indicó:
+"… . El turno transcurrió sin incidencias hasta el tren 73880, cuando, tras pasar por la estación de Jablůnka, a través del TRS, el jefe de estación de Jablůnka me preguntó si estaba ocurriendo algo
 
 ## Página 18
+
 
 en el paso a nivel. Dado que acababa de pasar el paso a nivel en el PK 37,308 en la ET 
 Jablůnka, supuse que se trataba de este paso a nivel y respondí al despachador de la ET 
@@ -374,6 +387,7 @@ del freno a la posición de frenado de acción rápida.»
 
 ## Página 19
 
+
 Pregunta: ¿Qué maniobras realizó con el TRS tras la detención?
 Respuesta: «Inmediatamente después de la detención, la despachadora de Jablůnka llamó mediante el TRS. Le comuniqué lo que había ocurrido. Tras regresar del lugar de la colisión, intenté llamar también a Valašské Meziříčí a a través del TRS, pero no lo logré. En el panel del TRS no se indicaba la «parada general».»
 Despachadora de mando de la Estación de Ferrocarril (ŽST) de Valašské Meziříčí:
@@ -389,8 +403,8 @@ En el documento «Acta con el empleado», elaborado en la ŽST de Valašské Mez
 «… Alguna vez pasada la medianoche, atendí la llamada al n.º 155. Llamaba el despachador eléctrico y preguntaba si sabíamos algo sobre un incendio cerca de Jablůnka. La despachadora atendió la llamada y posteriormente llamó a Jablůnka. Posteriormente, la Policía Nacional de la República Checa (PČR) de Vsetín llamó por otro teléfono para informarme de que había un camión en llamas en el paso a nivel de Bystřička. La despachadora atendió esta llamada. Yo mantuve la comunicación con el despachador eléctrico, al cual fui transmitiendo progresivamente la información de la despachadora. Después, la despachadora emitió la orden a Jablůnka para detener el tren Lv 73880, preguntó aún al despachador eléctrico si el catenaria estaba desconectada y activó la parada general. ...»
 Despachadora de la ŽST de Jablůnka:
 
-
 ## Página 20
+
 
 En el documento «Acta con el empleado», elaborado en la ŽST de Valašské Meziříčí, el 09. 05. 2007, a las 09:00 h, entre otras cosas, indicó:
 ### «… Tras el paso de la locomotora mencionada, la despachadora de Val. Meziříí, Sr. …, me llamó y me preguntó dónde estaba esa locomotora y si había algo ardiendo allí. Le dije que la locomotora ya había pasado, tras lo cual me instó a preguntar al maquinista si había notado algo. … … A través del TRS me puse en contacto con el maquinista y le pregunté si había visto algún incendio. El maquinista me dijo que no había visto nada. Inmediatamente después, volvió a llamar la despachadora de Meziříčí y preguntó si había hablado con el maquinista. Le dije que el maquinista en Jablůnka no había visto nada, tras lo cual recibí de la despachadora de Meziříčí la información de que se trataba de un camión en llamas en el paso a nivel de Bystřička y además escuché que hablaba con el despachador eléctrico. Inmediatamente llamé al maquinista a la locomotora, y este me comunicó que ya había entrado en el lugar del accidente. ...»
@@ -415,6 +429,7 @@ En el documento «Manifestación sobre el incidente del 07. 05. 2007, incendio d
 
 ## Página 21
 
+
 desconexión de la catenaria y exclusión del tráfico. Pregunté si era necesario que saliera nuestra unidad y se me comunicó que había suficientes bomberos actuando en el lugar y que el incidente no había causado heridos. …
 00,03 h - llamo a la centralita eléctrica de Přerov al número 34 558, y solicito la desconexión de la corriente eléctrica en el punto … - del dispetcher, en la línea Valašské Meziříčí – Vsetín y le informo del incidente ocurrido. Me indican que espere un momento, que él llamará. Colgo el teléfono y espero. Tras un rato, me llama KOPIS Zlín para preguntar cómo están las cosas. Llamo a la centralita eléctrica, se me informa de que la corriente ha sido desconectada – hora 00,12 h.
 00,12 – llamo a KOPIS HZS Zlín y comunico que la corriente está desconectada. …
@@ -431,8 +446,8 @@ Del documento „ACTA DE EXPLICACIONES“, elaborado el 07. 05. 2007,
 a las 02:25 h, se desprende, entre otras cosas:
 El conductor del vehículo automotor de carretera se acercaba al PN en dirección desde la localidad de Jablůnka. Al entrar en el PN se produjo un incendio del vehículo con la subsiguiente rotura de las mangueras de freno y la detención en el PN. Tras abandonar la cabina y tras un intento fallido de extinguir el incendio, informó mediante su teléfono móvil personal a la línea „150“ del SUE. Alrededor de las 00:10 h, junto con los componentes actuantes, comprobó que se había puesto el PN en estado de alarma y que probablemente se acercaba un vehículo ferroviario al PN. A pesar del intento de la patrulla de policía de detener el vehículo ferroviario en movimiento haciendo parpadear las luces de advertencia, se produjo la colisión del vehículo ferroviario en movimiento con el vehículo automotor de carretera detenido y en llamas. Tras el IM, el vehículo automotor de carretera fue lanzado a la
 
-
 ## Página 22
+
 
 vía adyacente. El vehículo ferroviario, tras la colisión, continuó su marcha tras el PN en dirección a la parada de Bystřička.
 ### 3.2 Sistema de garantía de la seguridad
@@ -458,6 +473,7 @@ DISPOSITIVOS DE PROTECCIÓN DE PASOS A NIVEL“, aprobada el 16. 11. 2000, bajo 
 „85. Si el empleado encargado se entera de que hay un obstáculo u otra posible amenaza para la seguridad del tráfico en el paso a nivel, por ejemplo, un vehículo automotor atascado, carga caída, etc., está obligado a tomar de inmediato las medidas necesarias para evitar que un vehículo ferroviario sobre ruedas circule por el paso a nivel. Lo mismo está obligado a hacerlo en el caso de que
 
 ## Página 23
+
 
 se informa del estado del PZZ, cuando no es capaz de informar a los participantes en la circulación viaria de la aproximación de un vehículo ferroviario de vía férrea de la manera prescrita, pero las indicaciones no reflejan esta situación (travesaño de la barrera dañado, soporte de la barrera dañado, etc.).
 
@@ -508,6 +524,7 @@ el maquinista puede continuar la marcha según las condiciones de visibilidad ha
 
 ## Página 24
 
+
 el reglamento interno «ČD Z11 REGLAMENTO PARA EL MANEJO DE LOS EQUIPOS DE RADIO»,
 –
 aprobado el 16.11.2000, con el número de registro: 55962/2000-O11, con efecto desde el 01.04.2001,
@@ -549,6 +566,7 @@ el 28.12.1997, en su versión vigente, artículo 32, donde se indica:
 
 ## Página 25
 
+
 «32. ... Cada vehículo motorizado que circule de forma independiente como tren debe tener activado el distribuidor del freno continuo en el modo P (P+E) o R (R+E), si esta conmutación no es automática.»
 
 norma interna «ČD V15/I Norma para el funcionamiento y la manipulación de los dispositivos de frenado de los vehículos ferroviarios», aprobada el 06.08.1997, bajo el nº de registro: 58624/1997-18, con eficacia desde el 28.12.1997, en su versión vigente, artículo 300, donde se establece:
@@ -573,6 +591,7 @@ norma interna «ČD V15/I Norma para el funcionamiento y la manipulación de los
 
 ## Página 26
 
+
 a) en vehículos motorizados sin freno directo automático (DB) o con un freno directo automático (DB) no utilizable:
 - cambiar el distribuidor (palanca de control) del freno continuo a la posición de frenado rápido y mantenerlo en esta posición hasta la detención completa;
 - frenar completamente el freno directo (auxiliar) y mantenerlo frenado hasta la detención completa;
@@ -593,6 +612,7 @@ a) Si la locomotora se frena en el modo de carga G, los cilindros de freno deben
 b) Si la locomotora se frena en el modo de pasajeros P, los cilindros de freno deben llenarse con el nivel alto, es decir, con una presión máxima de 6,5 bares, salvo que el siguiente apartado c) establezca lo contrario. El nivel alto de llenado de los cilindros de freno se introduce cambiando la manija del grifo G 1/4" - 976/5 (en las locomotoras eléctricas serie E 499.2 - G 3/8" - 976/15) a la posición abierto.
 
 ## Página 27
+
 
 d) Si la locomotora actúa como tren locomotora (Lv), el freno debe conmutarse al modo personal P y las cámaras de freno deben llenarse con un grado elevado, es decir, con una presión máx. de 7,6 bar, como se indica en el punto 2b).
 
@@ -621,8 +641,8 @@ el reglamento interno «ČD D 2 DISPOSICIONES PARA LA ORGANIZACIÓN Y EL EXPLOTA
 «1017. Si no es posible detener el tren transportado por un vehículo de tracción eléctrica, del cual se haya detectado una avería que podría poner en peligro la seguridad del tráfico, de otra manera adecuada (p. ej., mediante comunicación por radio con el maquinista), se procederá de la siguiente manera:
 a) el despachador de tráfico que haya observado la avería o al que se haya comunicado, y si no se trata de una avería que pueda provocar un peligro directo para la vida humana, avisará
 
-
 ## Página 28
+
 
 inmediatamente al despachador eléctrico para que desconecte o ordene la desconexión de la tensión de la línea de catenaria del tramo de vía en el que se encuentra el tren con la avería. Acto seguido, el despachador de tráfico informará al despachador de la estación adyacente para que no permita la salida de ningún tren u otro vehículo hacia el tramo peligroso y le comunicará el motivo;
 b) en caso de pérdida de tensión, el maquinista de todos los vehículos de tracción eléctrica deberá vigilar atentamente su propio conjunto de vehículos, y en su caso, también los conjuntos de los trenes que circulen en sentido contrario, si no existe una avería en el tren que ponga en peligro la seguridad del tráfico, y detener el tren según las circunstancias. El caso se comunicará al despachador de tráfico.»
@@ -646,60 +666,95 @@ el artículo 6.4.5.4.1, donde se establece: «El despachador eléctrico, antes d
 
 ## Página 29
 
-artículo 6.4.5.4.2, donde se establece: «El despachador de electricidad, tras el corte de la línea de contacto según lo dispuesto en el punto 6.4.5.4., emitirá a la persona autorizada de la unidad de protección contra incendios del administrador de la infraestructura ferroviaria la orden de realizar el cortocircuito de la línea de contacto mediante el equipo de cortocircuito».
-anexo I (normativo) Manipulación de las instalaciones de la línea de contacto, artículo I.1, donde se establece:
+artículo 6.4.5.4.2, donde se indica: „El despachador eléctrico, tras la desconexión de la catenaria según
 –
-«Por manipulación de las instalaciones de la línea de contacto se entiende la conexión y desconexión de los elementos de conmutación de la línea de contacto de forma local (incluido el bloqueo), a distancia o centralizada, incluido el aseguramiento del estado requerido. ...»
-Además, entre estas normas pueden incluirse también las disposiciones legales «Reglamento de combate de las unidades de protección contra incendios», en la redacción de la Instrucción n.º 52 del Director General del Cuerpo de Rescate de Incendios de la República Checa y del Viceministro del Interior, de fecha 22 de diciembre de 2004, por la que se modifica la Instrucción del Director General del Cuerpo de Rescate de Incendios de la República Checa y del Viceministro del Interior n.º 40/2001, por la que se aprueba el Reglamento de combate de las unidades de protección contra incendios, en la redacción de la Instrucción del Director General del Cuerpo de Rescate de Incendios de la República Checa y del Viceministro del Interior n.º 38/2002, ref. PO-3993/IZS-2004, con efecto desde el 01.01.2005, en su versión vigente, Lista metodológica n.º 5 S – Intervención bajo la línea de contacto, artículos 3 y 4, donde se establece:
-«3) La intervención debe realizarse por motivos de actividades especializadas y manipulaciones en colaboración con el personal ferroviario y se debe informar al centro de operaciones del Cuerpo de Rescate de Incendios de ČD, a través del cual se debe solicitar una unidad del Cuerpo de Rescate de Incendios de ČD e informar a los empleados responsables de los ferrocarriles, si no fuera posible hacerlo directamente. …»
-«4) La condición básica durante la intervención es el corte y el aseguramiento del estado de corte de la línea de contacto (TV) en el tramo de vía correspondiente y también en las vías laterales (estaciones de maniobras, vía de múltiples vías). No es necesario realizar el corte y el aseguramiento del estado de corte de la línea de contacto si las personas y los objetos no se acercan a la línea de contacto a una distancia inferior a la distancia de seguridad, y al utilizar medios extintores no conductores. La distancia de seguridad desde la línea de contacto bajo tensión es de 1,5 m para las personas y de 0,9 m para los objetos.»
-Disposición legal «Reglamento de combate de las unidades de protección contra incendios», en su versión vigente, Lista metodológica n.º 21 N – Peligros en los ferrocarriles, artículo 6, apartados b), e), h) e i), donde se establece:
-«6) Para la protección contra los peligros en los ferrocarriles se utilizan las tácticas de intervención en los ferrocarriles y en las líneas de contacto. La protección de la vida y la salud de los bomberos consiste principalmente en:
-b) asegurar el lugar de trabajo de manera que los bomberos que trabajan en los ferrocarriles sean informados rápidamente de la llegada de las líneas de contacto (ŽKV) y puedan, si es necesario, abandonar a tiempo el lugar de despliegue afectado por el tráfico,
-e) protección contra el peligro de electrocución, por ejemplo, corte de la línea de contacto y su aseguramiento contra la reconexión,
-h) informar a al menos un jefe de estación de alguna estación ferroviaria adyacente durante la intervención en un tramo entre estaciones,
-i) restricción o exclusión del tráfico ferroviario; detención del tráfico en la línea ferroviaria siempre que la seguridad del transporte ferroviario o las vidas humanas estén amenazadas mediante la señal «Alto, deténgase con todos los medios»; ...»
-
+6.4.5.4., dará a la persona autorizada de la unidad de protección contra incendios del explotador de la infraestructura ferroviaria la orden de
+poner a tierra la catenaria con el equipo de puesta a tierra.“
+anexo I (normativo) Operación de los equipos de catenaria, artículo I.1, donde se indica:
+–
+„Por operación de los equipos de catenaria se entiende la conexión y desconexión de los elementos de conmutación de la catenaria localmente (incluido el bloqueo), a distancia o centralmente, incluida la verificación del estado requerido. ...“
+Asimismo, entre estas disposiciones puede incluirse también la disposición legal „Reglamento de actuación de las unidades de protección contra incendios“,
+en la redacción de la 52. Instrucción del director general del Cuerpo de Bomberos y Rescate de la República Checa
+y del subsecretario de Estado del Ministerio del Interior, de fecha 22 de diciembre de 2004, por la que se modifica la Instrucción del director general del
+Cuerpo de Bomberos y Rescate de la R.C. y del subsecretario de Estado del Ministerio del Interior n.º 40/2001, por la que se aprueba el Reglamento de actuación
+de las unidades de protección contra incendios, en la redacción de la Instrucción del director general del Cuerpo de Bomberos y Rescate de la R.C.
+y del subsecretario de Estado del Ministerio del Interior n.º 38/2002, ref. n.º:
+PO-3993/IZS-2004, con efectos desde el 01. 01. 2005, en la redacción vigente, Hoja Metodológica número
+5 S – Intervención bajo catenaria, artículos 3 y 4, donde se indica:
+„3) La intervención debe realizarse por motivos de actividades y maniobras profesionales en colaboración
+–
+### con el personal ferroviario y de la intervención debe informarse al centro de operaciones del HZS
+### ČD, a través del cual debe convocarse a la unidad del HZS ČD e informarse a los empleados
+### ferroviarios responsados, si no puede hacerse directamente. …“
+„4) La condición básica durante la intervención es la desconexión y la verificación del estado desconectado de la catenaria en el
+tramo de vía dado y también en las vías adyacentes (estación, vía de varios carriles). La desconexión y la verificación
+del estado desconectado de la catenaria no es necesaria si las personas y los objetos no se acercan a la catenaria
+a una distancia inferior a la distancia de seguridad, y al utilizar medios de extinción no conductores.
+La distancia de seguridad respecto a la catenaria bajo tensión es de 1,5 m para las personas y 0,9 m para
+los objetos.“
+Disposición legal „Reglamento de actuación de las unidades de protección contra incendios“, en la redacción vigente, Hoja Metodológica número
+21 N – Peligro en el ferrocarril, artículo 6, apartados b), e), h) e i), donde se indica:
+„6) Para la protección frente al peligro en el ferrocarril se utilizan los principios tácticos de intervención en el
+ferrocarril y en el ŽKV. La protección de la vida y la salud de los bomberos consiste especialmente en:
+b) la protección del lugar de trabajo de modo que los bomberos que trabajan en el ferrocarril sean informados rápidamente
+de la llegada de los ŽKV y puedan, en caso necesario, abandonar a tiempo el lugar de despliegue amenazado
+por la circulación,
+e) la protección frente al peligro de accidente por corriente eléctrica, p. ej. la desconexión de la catenaria
+y su verificación frente a una reconexión,
+h) la información al menos a un jefe de estación de alguna estación ferroviaria vecina durante
+la intervención en un tramo entre estaciones,
+i) la limitación o exclusión de la circulación ferroviaria; la parada de la circulación en la línea ferroviaria
+siempre que se vea amenazada la seguridad del transporte ferroviario o la vida humana mediante la señal
+„Alto, deténgase por todos los medios“; ...“
 
 ## Página 30
 
-### 3.2.2 Requisitos para los empleados del administrador de la infraestructura ferroviaria y del transportista y su cumplimiento
-La aptitud médica de los empleados del administrador de la infraestructura ferroviaria y del transportista se evalúa conforme a lo dispuesto en el Decreto n.º 101/1995 Coll., por el que se aprueba el Reglamento sobre la aptitud médica y profesional de las personas durante la explotación de las líneas férreas y el transporte ferroviario, en su versión vigente.
-En el momento de la producción del accidente en cuestión, todos los empleados del administrador de la infraestructura ferroviaria y del transportista participantes en el accidente tenían un informe médico de aptitud válido. Los informes médicos de aptitud forman parte del expediente.
-Los requisitos de aptitud profesional, incluido el modo de su cumplimiento, los establece la norma interna del administrador de la infraestructura ferroviaria y del transportista «ČD Ok 2 REGLAMENTO DE FORMACIÓN Y EXÁMENES DE LOS FERROCARRILES CHECOS, a. s.», aprobada el 07.12.2005, ref. 61773/05-O10, con efecto desde el 01.01.2006, en su versión vigente.
-Todos los empleados del administrador participantes en el accidente tenían la aptitud profesional necesaria para el desempeño de la función que ocupaban en el momento de la producción del accidente. Las anotaciones por escrito forman parte del expediente.
-La condición de aptitud para la conducción de vehículos ferroviarios la establece el artículo 45 de la Ley n.º 266/1994 Coll., sobre las líneas férreas, en su versión vigente.
-El maquinista es titular de un Certificado de aptitud para la conducción de vehículos ferroviarios vigente, n.º 010419, emitido por la Oficina Ferroviaria de Praga, el 22.07.1998, para el tipo de vehículo ME, MK y E, en las líneas C, R y V.
+### 3.2.2 Requisitos de los empleados del gestor de la infraestructura y del transportista y su cumplimiento
+La aptitud médica de los empleados del gestor de la infraestructura y del transportista se valora en el sentido de las disposiciones del decreto nº 101/1995 Sb., por el que se dicta el Reglamento de aptitud médica y profesional de las personas para la explotación de la infraestructura y del transporte ferroviario, en su redacción vigente.
+En el momento de producirse el accidente ferroviario (MU) objeto de estudio, todos los empleados del gestor de la infraestructura y del transportista participantes en el MU disponían de un dictamen de aptitud médica vigente. Los dictámenes de aptitud médica se adjuntan al expediente.
+Los requisitos de aptitud profesional, incluido el modo de hacerlos cumplir, los establece la normativa interna del gestor de la infraestructura y del transportista «ČD Ok 2 REGLAMENTO DE FORMACIÓN Y EXPERIENCIA DE LOS FERROCARRILES CHECOS, a. s.», aprobada el 07. 12. 2005, con referencia nº 61773/05-O10, en vigor desde el 01. 01. 2006, en su redacción vigente.
+Todos los empleados del gestor participantes eran, en el momento de producirse el MU, profesionalmente aptos para el desempeño de la función que ocupaban. Los registros escritos forman parte del expediente.
+La condición de aptitud para la conducción de vehículos ferroviarios la establece el § 45 de la ley nº 266/1994 Sb., de ferrocarriles, en su redacción vigente.
+El maquinista es titular de un Certificado de Aptitud para la Conducción de Vehículos Ferroviarios vigente, nº de expediente 010419, expedido por la Autoridad Ferroviaria de Praga, el 22. 07. 1998, para los tipos de vehículo ME, MK y E, en las líneas C, R y V.
 ### 3.2.3 Procedimiento de control interno de seguridad y sus resultados
-De conformidad con las normas internas del administrador de la infraestructura ferroviaria y del transportista, en el puesto de trabajo del Centro de Intervención de Protección contra Incendios del Cuerpo de Rescate de Incendios de ČD en Přerov, que es la sede de control del sector eléctrico de Přerov, en la oficina de tráfico, es decir, en el puesto de declaración de las estaciones de Valašské Meziříčí y Jablůnka, y durante el desempeño del servicio de maquinista, se realizan controles periódicos del equipamiento de los puestos de trabajo y del desempeño del servicio por parte de los empleados operativos.
-La última inspección en el Puesto de Incendios del Centro de Intervención de Protección contra Incendios del Cuerpo de Rescate de Incendios de ČD en Přerov antes de la producción del accidente la realizó el 24.04.2007 el adjunto del comandante de la Unidad de Protección contra Incendios de Přerov, con resultado sin incidencias.
-En el puesto de trabajo del despacho de electricidad de Přerov, Centro de Control de Tráfico de Olomouc, según el Libro de inspecciones de puestos de trabajo, la última inspección se realizó el 23.04.2007, sin detectar deficiencias.
-En la oficina de tráfico de la estación de Jablůnka, la última inspección nocturna antes de la producción del accidente se realizó el 11.03.2007 por el viceministro de tráfico del jefe superior de la estación unificada de Valašské Meziříčí. La última inspección ordinaria se realizó el 25.04.2007 por el jefe de la estación de Vsetín. En ambos casos, sin detectar incidencias.
-En la oficina de tráfico de la estación de Valašské Meziříčí, la última inspección nocturna antes de la producción del accidente se realizó el 01.03.2007 por el jefe superior de la estación unificada de Valašské Meziříčí. La última inspección ordinaria se realizó el 04.05.2007 por el viceministro de tráfico del jefe superior de la estación unificada de Valašské Meziříčí. En ambos casos, sin detectar incidencias.
-La última inspección del maquinista del tren Lv 73880 la realizó el 13.11.2006 el inspector de catenaria DKV Ostrava, PJ Valašské Meziříčí, sin detectar incidencias.
+De acuerdo con las normativas internas del gestor de la infraestructura y del transportista, en el puesto OIS JPO HZS ČD Přerov, puesto de mando de la sección eléctrica de Přerov, en la oficina de tráfico, es decir, en los puestos de declaración de la estación (ŽST) de Valašské Meziříčí y Jablůnka, y durante el servicio del maquinista, se realizan controles periódicos del equipamiento de los puestos y del desempeño del servicio de los empleados de explotación.
+La última inspección en la Estación de Declaración de Incendios OIS JPO HZS ČD Přerov antes de producirse el MU la realizó el 24. 04. 2007 el subjefe de la JPO de Přerov, con el resultado de sin anomalías.
+En el puesto de despacho eléctrico de Přerov, SDC Olomouc, según el Libro de inspecciones del puesto, la última inspección se realizó el 23. 04. 2007, sin la constatación de deficiencias.
+En la oficina de tráfico de la estación (ŽST) de Jablůnka, la última inspección nocturna antes de producirse el MU se realizó el 11. 03. 2007, por el subjefe de tráfico del jefe superior de UŽST Valašské Meziříčí. La última inspección ordinaria se realizó el 25. 04. 2007, por el jefe de la estación (ŽST) de Vsetín. En ambos casos, sin la constatación de anomalías.
+En la oficina de tráfico de la estación (ŽST) de Valašské Meziříčí, la última inspección nocturna antes de producirse el MU se realizó el 01. 03. 2007, por el jefe superior de UŽST Valašské Meziříčí. La última inspección ordinaria se realizó el 04. 05. 2007, por el subjefe de tráfico del jefe superior de UŽST Valašské Meziříčí. En ambos casos, sin la constatación de anomalías.
+La última inspección del maquinista del tren Lv 73880 la realizó un inspector de circulación de DKV Ostrava, PJ Valašské Meziříčí, el 13. 11. 2006, sin la constatación de anomalías.
 
 ## Página 31
 
-### 3.2.4 Interfaz entre las distintas partes interesadas y las componentes de la vía de circulación
-El propietario de la vía férrea, de ámbito nacional, Horní Lideč st. hr. – Valašské Meziříčí, es Správa železniční dopravní cesty, organización estatal, con domicilio social en Prvního pluku 367/5, Praga 8 – Karlín, código postal 186 00.
-El explotador de la vía es České dráhy, a. s., con domicilio social en Nábřeží L. Svobody 1222, Praga 1, código postal 110 15, en virtud de la Autorización oficial, emitida por el Órgano de Inspección Ferroviaria de Praga el 06. 05. 1996, con número de registro: 1814/96-DÚ/O-Sl (nº de registro ÚP/1996/1643).
-El transportista es České dráhy, a. s., en virtud de la Licencia de explotador de transporte ferroviario, nº de registro: 1 - 157/96-DÚ/O-Bp, nº de registro L/1996/5000, emitida por el Órgano de Inspección Ferroviaria de Praga el 21. 05. 1996.
-El propietario del vehículo automotor por carretera – camión de carga (tractocamión sin remolque) MARCA SCANIA R124LA4x2NA, matrícula 3T8 1485 (CZ), es la persona jurídica DOTICO.CZ s. r. o., con domicilio social en: U Rybníka 1586/4, Bruntál, código postal 792 01.
-### 3.3 Marco jurídico y otras disposiciones
+### 3.2.4 Interfaz entre los distintos sujetos participantes y los componentes de la vía de circulación
+El propietario de la vía ferroviaria de ámbito nacional Horní Lideč st. hr. – Valašské Meziříčí es Správa železniční dopravní cesty, organización estatal, con sede en Prvního pluku 367/5, Praha 8 – Karlín, CP 186 00.
+El explotador de la vía es České dráhy, a. s., con sede en Nábřeží L. Svobody 1222, Praha 1, CP 110 15, en virtud de la Autorización Administrativa, expedida por el Drážní úřadem Praha el 06. 05. 1996, con n.º de ref.: 1814/96-DÚ/O-Sl (n.º de reg. ÚP/1996/1643).
+El transportista es České dráhy, a. s., en virtud de la Licencia de explotador del transporte ferroviario, n.º de ref.: 1 - 157/96-DÚ/O-Bp, n.º de reg. L/1996/5000, expedida por el Drážní úřadem Praha el 21. 05. 1996.
+El propietario del vehículo de motorización por carretera – camión (tractor sin semirremolque) ZN. SCANIA R124LA4x2NA, RZ. 3T8 1485 (CZ), es la persona jurídica DOTICO.CZ s. r. o., con sede en: U Rybníka 1586/4, Bruntál, CP 792 01.
+### 3.3 Normativa jurídica y otra
 ### 3.3.1 Normativa comunitaria y nacional aplicable
-Para la determinación de las causas y las circunstancias de la aparición de este IMA se han utilizado las siguientes normas nacionales:
-– la ley nº 266/1994 Coll., sobre las vías férreas, en su versión vigente;
-– el decreto nº 100/1995 Coll., por el que se establecen las condiciones para la explotación, la construcción y la fabricación de determinados equipos técnicos y su concreción (Reglamento de equipos técnicos determinados), en su versión vigente;
-– el decreto nº 101/1995 Coll., por el que se aprueba el Reglamento sobre la aptitud sanitaria y profesional del personal durante la explotación de las vías férreas y del transporte ferroviario, en su versión vigente;
-– el decreto nº 173/1995 Coll., por el que se aprueba el reglamento de circulación de las vías férreas, en su versión vigente;
-– el decreto nº 177/1995 Coll., por el que se aprueba el reglamento de construcción y técnico de las vías férreas, en su versión vigente;
-– el decreto nº 376/2006 Coll., sobre el sistema de seguridad de la explotación de las vías férreas y del transporte ferroviario y los procedimientos en caso de aparición de incidentes en las vías férreas;
-– la ley nº 361/2000 Coll., sobre la circulación por las vías terrestres y por la que se modifican determinadas leyes, en su versión vigente;
-– la ley nº 262/2006 Coll., Código del trabajo, en la versión de la ley nº 585/2006 Coll.;
-– el Reglamento de combate de las unidades de protección contra incendios, en la versión de la 52.ª Instrucción del Director General del Cuerpo de Rescate de Incendios de la República Checa y del Viceministro del Interior, de fecha 22 de diciembre de 2004, por la que se modifica la Instrucción del Director General del Cuerpo de Rescate de Incendios de la República Checa y del Viceministro del Interior nº 40/2001, por la que se aprueba el Reglamento de combate de las unidades de protección contra incendios, en la versión de las Instrucciones del Director General del Cuerpo de Rescate de Incendios de la República Checa y del Viceministro del Interior nº 38/2002, nº de registro PO-3993/IZS-2004, con efecto desde el 01. 01. 2005, en su versión vigente.
-
+Para la determinación de las causas y circunstancias de la producción de este MU se utilizaron las siguientes normativas nacionales:
+Ley núm. 266/1994 Sb., de vías, en su versión vigente;
+–
+Decreto núm. 100/1995 Sb., por el que se establecen las condiciones para la explotación, construcción y fabricación de dispositivos técnicos designados y su concreción (Reglamento de dispositivos técnicos designados), en su versión vigente;
+–
+Decreto núm. 101/1995 Sb., por el que se aprueba el Reglamento de aptitud sanitaria y profesional de las personas para la explotación de la vía y del transporte ferroviario, en su versión vigente;
+–
+Decreto núm. 173/1995 Sb., por el que se aprueba el Reglamento de circulación de las vías, en su versión vigente;
+–
+Decreto núm. 177/1995 Sb., por el que se aprueba el Reglamento de construcción y técnico de las vías, en su versión vigente;
+–
+Decreto núm. 376/2006 Sb., sobre el sistema de seguridad de la explotación de la vía y del transporte ferroviario y los procedimientos en caso de producirse sucesos excepcionales en las vías;
+–
+Ley núm. 361/2000 Sb., sobre la circulación en las vías de comunicación y sobre la modificación de determinadas leyes, en su versión vigente;
+–
+Ley núm. 262/2006 Sb., Estatuto de los Trabajadores, en la redacción de la Ley núm. 585/2006 Sb.;
+–
+Reglamento de actuación de las unidades de protección contra incendios, en la redacción de la Instrucción núm. 52 del Director General del Cuerpo de Bomberos y Salvamento de la República Checa y del Subsecretario de Estado del Ministerio del Interior, de fecha 22 de diciembre de 2004, por la que se modifica la Instrucción del Director General del Cuerpo de Bomberos y Salvamento de la R.C. y del Subsecretario de Estado del Ministerio del Interior núm. 40/2001, por la que se aprueba el Reglamento de actuación de las unidades de protección contra incendios, en la redacción de la Instrucción del Director General del Cuerpo de Bomberos y Salvamento de la R.C. y del Subsecretario de Estado del Ministerio del Interior núm. 38/2002, n.º de ref. PO-3993/IZS-2004, con efectos desde el 01. 01. 2005, en su versión vigente.
+–
 
 ## Página 32
+
 
 3.3.2 Otras normas, por ejemplo, reglamento de explotación, reglamento de trabajo, normas de mantenimiento, normas técnicas vigentes y otras normas internas
 Para la determinación de las causas y las circunstancias de la aparición de este IMA se han utilizado las siguientes normas internas, procedimientos tecnológicos de České dráhy, a. s., y normas técnicas y demás documentos en su versión vigente:
@@ -720,6 +775,7 @@ Para la determinación de las causas y las circunstancias de la aparición de es
 – el documento «Freno de las locomotoras eléctricas serie ES 499.1, E 499.2, 3 y S 499.2», emitido por los Ferrocarriles Estatales de Checoslovaquia – Ferrocarril Central de Olomouc, el 23. 07. 1985, con nº de registro: 12/1 – 56/85;
 
 ## Página 33
+
 
 «ČD Z2 NORMA PARA EL MANEJO DE LOS DISPOSITIVOS DE PROTECCIÓN DE LOS CRUCEROS», aprobada el 16. 11. 2000, con el nº de expediente: 59116/2000-O11, con efecto desde el 01. 01. 2001;
 «ČD Z11 NORMA PARA EL MANEJO DE LOS EQUIPOS DE RADIO», aprobada el 16. 11.
@@ -748,8 +804,8 @@ El estado y el funcionamiento del dispositivo de protección de vía no se regis
 La locomotora diésel (HDV) 163.004-5 está equipada con la parte móvil del dispositivo de protección del tren del tipo LS 4, un adaptador de locomotora XX48 y un equipo de grabación del tipo ELEKTRONICKÁ RYCHLOMĚROVÁ SOUPRAVA ŘADY LT.
 El centro de control del Despacho Eléctrico de Přerov está equipado con un equipo de grabación electrónica, nº de inventario AY11700584 y AY11700588. El dispositivo en formato electrónico registra las órdenes y las señales de retroalimentación de los elementos y equipos de baja y alta tensión del correspondiente sector de la empresa de energía de České Dráhy, a. s. El centro de trabajo está además equipado con un equipo de grabación del tipo ReDat, nº de inventario 012107, que registra automáticamente todas las llamadas telefónicas realizadas en el centro de trabajo.
 
-
 ## Página 34
+
 
 Las llamadas telefónicas en la oficina de tráfico de la estación ferroviaria de Jablůnka se registran automáticamente mediante un equipo de grabación REDAT RS 012 066, tipo 110-3A 000X0X, nº de inventario 060, ubicado en la oficina de tráfico de la estación ferroviaria de Valašské Meziříčí, y mediante un equipo de grabación REDAT RS 012 233, tipo 110-3A 000X0X, nº de inventario 233, ubicado en la oficina de tráfico de la estación ferroviaria de Vsetín. Todas las llamadas y órdenes realizadas en la cinta de la red TRS se registran automáticamente mediante el equipo de grabación REDAT RS 012 233, tipo 110-3A 000X0X, nº de inventario 233, ubicado en la oficina de tráfico de la estación ferroviaria de Vsetín.
 Las llamadas telefónicas en la oficina de tráfico de la estación ferroviaria de Valašské Meziříčí, incluidas todas las llamadas y órdenes realizadas en la cinta de la red TRS, se registran automáticamente mediante el equipo de grabación REDAT RS 012 066, tipo 110-3A 000X0X, nº de inventario 060, ubicado en la oficina de tráfico de la estación ferroviaria de Valašské Meziříčí.
@@ -762,6 +818,7 @@ La velocidad de la vía en el tramo indicado es de 80 km/h.
 Para mejorar la organización del tráfico ferroviario y aumentar la seguridad de la explotación de la vía y del tráfico ferroviario, la vía férrea nacional de Horní Lideč st. hr. - Hranice na Moravá está cubierta por una red de islas del sistema TRS. El tramo de vía entre la estación ferroviaria de Jablůnka y la estación ferroviaria de Valašské Meziříčí está cubierto por la señal «Vf» de la red de islas TRS, que permite, en el canal combinado de la cinta nº 66, la comunicación entre el despachador, los jefes de las estaciones ferroviarias adyacentes y los maquinistas de las locomotoras diésel (HDV) equipadas con la parte móvil del TRS. Las islas de la red TRS están formadas por estaciones radio base situadas en las distintas estaciones ferroviarias (ŽST). La estación radio base situada en la estación ferroviaria de Jablůnka opera en la señal «Vf» 468,200 MHz, y la estación radio base situada en la estación ferroviaria de Valašské Meziříčí opera en la señal «Vf» 468,150 MHz. El paso a nivel en el pk 33,243 se encuentra en un lugar cubierto por las señales
 
 ## Página 35
+
 
 entre dos islas adyacentes – estaciones de radio base, situadas en la estación de tráfico ferroviario (ŽST) de Jablůnka y Valašské Meziříčí.
 El sistema TRS incluye la función – orden de «PARADA GENERAL», que permite la parada de emergencia de los vehículos ferroviarios equipados con un adaptador XX48 funcional, que se encuentren dentro del alcance de la señal de la estación de radio base que ha emitido la orden. La orden de «PARADA GENERAL» se repite automáticamente 15 veces para aumentar la probabilidad de que sea captada y evaluada por la radio de a bordo. Al enviar la orden de «PARADA GENERAL» el despachador, esta orden es transmitida por todas las «islas», es decir, por todas las estaciones de radio base del tramo de vía, que operan en el canal asociado correspondiente de la banda. Al enviar la orden de «PARADA GENERAL» el guardagujas, esta orden es transmitida únicamente por una «isla», es decir, por la estación de radio base situada en la estación de tráfico ferroviario (ŽST) cuyo guardagujas ha emitido la orden de «PARADA GENERAL». Con la orden de «PARADA GENERAL» dada por un guardagujas se detendrán todos los vehículos ferroviarios equipados con el adaptador XX48 funcional, siempre que se encuentren dentro del alcance de la «isla», es decir, de la estación de radio base desde la cual se ha emitido dicha orden, y las radios de a bordo no hayan establecido conexión con el despachador u otro guardagujas a través de la «isla» adyacente, es decir, la estación de radio base adyacente.
@@ -786,8 +843,8 @@ desde las 00:03:50 h se registra un viaje a velocidad constante de 78 km/h;
 a las 00:08:31 h la locomotora HDV atravesó la estación de tráfico ferroviario (ŽST) de Jablůnka a una velocidad de 78 km/h;
 –
 
-
 ## Página 36
+
 
 a las 00:10:37 h, es decir, a 1263 m del lugar del accidente (MU), a una velocidad de 78 km/h se registra el desenganche del colector;
 –
@@ -810,25 +867,20 @@ La prueba de verificación confirmó el funcionamiento sin averías y la coordin
 
 ## Página 37
 
-### 3.5 Documentación o sistema de explotación
-### 3.5.1 Medidas adoptadas por el personal del administrador de la infraestructura y del transportista, en lo que respecta a la gestión, la señalización y la protección de la circulación
-
-Antes de la aparición de la IU se produjo la notificación por parte del maquinista del incendio de un vehículo de motor por carretera y su detención en el paso a nivel (PPN) «a» de Jablůnka, a la línea de emergencia 112 del KOPIS de Zlín (Centro de Operaciones Integrado del Servicio de Bomberos). La información fue procesada inmediatamente a las 00:00:02 h del 07.05.2007 y transmitida al Centro de Operaciones de la Policía de la República Checa (PČR) de Vsetín en forma de mensaje de datos. Simultáneamente, el KOPIS de Zlín organizó el despliegue de una unidad del Servicio de Bomberos y Rescate (HZS) de la región de Zlín hacia el lugar del incendio del vehículo de motor por carretera.
-
-A las 00:02:29 h, el KOPIS de Zlín informó telefónicamente a la Estación de Alerta de Incendios de la OIS del JPO del HZS de ČD en Přerov sobre el incendio de un vehículo de motor por carretera en el PPN «b» de Jablůnka. Durante la conversación, el KOPIS de Zlín precisó la ubicación del incendio en Bystřička y solicitó el cierre de la línea en el tramo Valašské Meziříčí – Vsetín. El KOPIS de Zlín no solicitó el despliegue del JPO del HZS de ČD, a pesar de que se preveía una intervención bajo la catenaria.
-
-Sin embargo, la solicitud de detención del tráfico ferroviario en el tramo Vsetín – Valašské Meziříčí no fue transmitida por el empleado del puesto de la Estación de Alerta de Incendios de la OIS del JPO del HZS de ČD en Přerov a las personas encargadas de la gestión del tráfico ferroviario, es decir, al jefe o al despachador de explotación del Centro Regional de Gestión del Tráfico de Ostrava y a los jefes de estación de las estaciones de tráfico adyacentes.
-
-El empleado que prestaba servicio en la Estación de Alerta de Incendios de la OIS del JPO del HSH de ČD en Přerov únicamente informó al despachador eléctrico independiente n.º 1 del Despacho Eléctrico de Přerov sobre el incendio de un automóvil en el PPN en la línea Vsetín – Valašské Meziříčí «a» Jablůnka y solicitó el corte de la tensión en la catenaria. A continuación, se procedió a verificar la información telefónicamente, cuando el despachador eléctrico independiente n.º 2 del Despacho Eléctrico de Přerov, encargado del manejo de los dispositivos de la catenaria en la línea Vsetín – Valašské Meziříčí, contactó con la Estación de Alerta de Incendios de la OIS del JPO del HZS de ČD en Přerov. Durante la conversación, la Estación de Alerta de Incendios informó sobre el incendio de un automóvil «en algún lugar» de Jablůnka en el PPN y recibió la solicitud de corte de la tensión en la catenaria, con las palabras «...necesitan cortar la corriente de forma inmediata». No se concretó la ubicación exacta del incendio.
-
-Ni siquiera tras esta solicitud clara, aunque con una determinación imprecisa de la ubicación del incendio que delimitaba el corte de la catenaria en el tramo Vsetín – Vlašské Meziříčí, se cortó la tensión en la catenaria. En su lugar, el despachador eléctrico independiente n.º 2 del Despacho Eléctrico de Přerov consultó telefónicamente al jefe de tráfico de la estación de tráfico de Valašské Meziříčí la ubicación más precisa del incendio. El jefe de tráfico de la estación de tráfico de Valašské Meziříčí, en ese momento, desconocía la fuente que amenazaba la seguridad de la explotación ferroviaria y del tráfico ferroviario. Por ello, mediante el teléfono de línea preguntó al jefe de la estación de tráfico adyacente de Jablůnka sobre el incendio en el paso a nivel, pero este tampoco conocía el incendio. Dado que a las 00:08:31 h el tren locomotora Lv 73880 circuló por la estación de tráfico de Jablůnka, con destino a Valašské Meziříčí, los jefes de estación acordaron que el jefe de la estación de tráfico de Jablůnka se comunicara mediante el sistema TRS con el maquinista para preguntarle si había observado algo.
-
-El maquinista supuso que se le preguntaba por el PPN situado en el pk 37,308, ubicado en el extremo de Valašské Meziříčí de la estación de tráfico de Jablůnka, que ya había superado, por lo que respondió que no había observado nada y continuó su viaje con mayor atención a la vía y su entorno.
-
-Durante la conversación entre el jefe de la estación de tráfico de Jablůnka y el maquinista del tren Lv 73880, el despachador eléctrico independiente n.º 2 del Despacho Eléctrico de Přerov, a las 00:10:29 h, realizó las operaciones relacionadas con el corte de la tensión en la catenaria entre la estación de tráfico de Vsetín y la estación de tráfico de Valašské Meziříčí, incluidas las estaciones de tráfico adyacentes. El maquinista del tren Lv 73880 no registró la pérdida de tensión en la catenaria ni
-
+### 3.5 Documentación sobre el sistema de explotación
+### 3.5.1 Medidas adoptadas por los empleados del gestor de la vía y del transportista en materia de conducción, señalización y seguridad del tráfico
+Al incidente (MU) precedió la comunicación del conductor sobre un incendio de un vehículo automotor de carretera y su estacionamiento en el PPK «u» de Jablůnka, a la línea de emergencia 112 del TCTV del KOPIS Zlín. La información fue procesada de inmediato a las 00:00:02 h del 07.05.2007 y transmitida en forma de mensaje de datos al Centro Operativo de la Policía Nacional (PČR) de Vsetín. Al mismo tiempo, el KOPIS Zlín organizó el desplazamiento de una unidad del HZS del Kraje de Zlín al lugar del incendio del vehículo automotor de carretera.
+A las 00:02:29 h, el KOPIS Zlín informó telefónicamente a la Oficina de Notificación de Incendios del OIS JPO HZS ČD de Přerov sobre el incendio de un vehículo automotor de carretera en el PPK «v» de Jablůnka. Durante la conversación
+### el KOPIS Zlín precisó el lugar del incendio como Bystřička y solicitó el cierre de la línea en el tramo Valašské Meziříčí – Vsetín. ¡El desplazamiento del JPO HZS ČD no fue solicitado por el KOPIS Zlín, a pesar de la intervención prevista bajo la línea de tracción!?
+Sin embargo, la petición de detener el tráfico ferroviario en el tramo Vsetín – Valašské Meziříčí no fue transmitida por el empleado de la Oficina de Notificación de Incendios del OIS JPO HZS ČD de Přerov a las personas que dirigían el tráfico ferroviario, es decir, al jefe o al despachante de explotación del Centro Regional de Control de Explotación de Ostrava ni a los jefes de estación de las estaciones adyacentes.
+El empleado de servicio en la Oficina de Notificación de Incendios del OIS JPO HZS ČD de Přerov únicamente informó al despachante eléctrico independiente n.º 1 del Despacho Eléctrico de Přerov sobre el incendio de un automóvil en el PPK de la línea Vsetín – Valašské Meziříčí «u» de Jablůnka y solicitó la desconexión de la tensión en la línea de tracción. A continuación se produjo una verificación telefónica de la información, cuando el despachante eléctrico independiente n.º 2 del Despacho Eléctrico de Přerov, que atendía las instalaciones de la línea de tracción en la línea Vsetín – Valašské Meziříčí, contactó con la Oficina de Notificación de Incendios del OIS JPO HZS ČD de Přerov. Durante la conversación, la Oficina de Notificación de Incendios le informó del incendio de un automóvil «en algún lugar de» Jablůnka en el PPK y recibió la petición de desconectar la tensión en la línea de tracción, con las palabras «...necesitamos cortar la corriente
+### de inmediato». El lugar exacto del incendio no fue concretado.
+Incluso tras esta petición inequívoca, aunque con una localización imprecisa del lugar del incendio que delimitaba el punto de desconexión de la línea de tracción en el tramo Vsetín – Valašské Meziříčí, la tensión en la línea de tracción no fue desconectada. En su lugar, el despachante eléctrico independiente n.º 2 del Despacho Eléctrico de Přerov consultó telefónicamente el lugar más preciso del incendio con el jefe de estación de guardia de la estación de Valašské Meziříčí. El jefe de estación de guardia de la estación de Valašské Meziříčí en ese momento no conocía la fuente de riesgo para la explotación segura de la vía y del tráfico ferroviario. Por ello, mediante el teléfono de línea, preguntó por el incendio en el paso a nivel al jefe de estación de la estación adyacente de Jablůnka, quien tampoco sabía nada del incendio. Como a las 00:08:31 h pasó por la estación de Jablůnka, en dirección a Valašské Meziříčí, el tren de locomotoras Lv 73880, los jefes de estación acordaron que el jefe de estación de Jablůnka preguntaría al maquinista mediante el TRS si había visto algo.
+El maquinista pensó que se le preguntaba por el PPK en el km 37,308 situado en el extremo de Valašské Meziříčí de la estación de Jablůnka, que ya había pasado, respondió que no había notado nada y continuó su marcha con mayor atención a la vía y su entorno.
+Durante la conversación entre el jefe de estación de Jablůnka y el maquinista del tren Lv 73880, el despachante eléctrico independiente n.º 2 del Despacho Eléctrico de Přerov ya había realizado a las 00:10:29 h las actuaciones relacionadas con la desconexión de la tensión en la línea de tracción entre la estación de Vsetín y la estación de Valašské Meziříčí, incluidas las estaciones adyacentes. El maquinista del tren Lv 73880 tampoco
 
 ## Página 38
+
 
 la posterior apertura del interruptor principal. Continuó su viaje sin corregir la velocidad, la cual disminuía gradualmente debido a la circulación por una bajada (nota: en el tren Lv 73880 no existía ninguna avería que pudiera poner en peligro la seguridad de la explotación, por lo que, en virtud de los procedimientos tecnológicos uniformes del administrador de la infraestructura, indicados en la norma interna «ČD D 2 NORMA PARA LA ORGANIZACIÓN Y LA EXPLOTACIÓN DEL TRÁFICO FERROVIARIO», artículo 1017, letra b), el maquinista podía continuar su viaje tras la pérdida de tensión en la catenaria sin necesidad de corregir la velocidad ni de detenerse).
 
@@ -858,6 +910,7 @@ Contenido de la llamada
 
 ## Página 39
 
+
 | 00:05:48 | despachador eléctrico independiente n.º 1 . | Electricidad Přerov, por favor, . |
 |  | bombero-enlace | Buenas noches, bomberos ferroviarios Přerov B, operativo, , ... centro. Me han llamado ahora desde Kopís, Zlín, que en la vía, en el paso a nivel de la línea Vsetín – Valašské Meziříčí, cerca de Jablůnka, hay un incendio de un vehículo. Necesitarían cortar la corriente. . . |
 |  | despachador eléctrico independiente n.º 1 . | De acuerdo, lo verificaré, . |
@@ -881,8 +934,8 @@ Inicio de la llamada el 07.05.2007 a las 00:07:53 h, duración de la conexión d
 Transcripción de la conversación entre el despachador eléctrico independiente n.º 2 de la Estación Central de Despacho Eléctrico de Přerov (en adelante, despachador eléctrico independiente n.º 2) y el despachador de tráfico y operadora de tráfico de la Estación de Tráfico (ŽST) de Valašské Meziříčí.
 Inicio de la llamada el 07.05.2007 a las 00:08:43 h, duración de la conexión durante la llamada 0:05:22 h.
 
-
 ## Página 40
+
 
 H (h)
 Participante en la llamada
@@ -947,81 +1000,80 @@ Meziříčí y la ŽST Jablůnka)
 despachador eléctrico independiente n.º 2
 ¿Nos viene algo hacia Valašské Meziříčí?
 
-
 ## Página 41
 
 00:09:53
-despachador de tráfico de la ŽST Val. 
-Bueno, de Jablůnka hacia Mezříče va una máquina.
-Meziříčí
+Jefe de estación ŽST Val. 
+Bueno, de Jablůnka a Mezříče circula una locomotora.
+Mezříčí
 00:09:57
-despachador eléctrico independiente n.º 2
+ED independiente n.º 2
 ¿Solo independiente?
 00:09:58
-despachador de tráfico de la ŽST Val. 
-Sí, locomotora.
-Meziříčí
+Jefe de estación ŽST Val. 
+Sí, por señalización automática.
+Mezříčí
 00:09:59
-despachador eléctrico independiente n.º 2
-Entonces, ¿podríamos cortarlo? Porque no sabe dónde está exactamente.
+ED independiente n.º 2
+Entonces, ¿podríamos apagarlo? Es que él no sabe dónde está realmente.
 00:10:05
-despachador de tráfico de la ŽST Val. 
-¿Y quién ha llamado, la policía?
-Meziříčí
+Jefe de estación ŽST Val. 
+¿Y quién llamó, los policías?
+Mezříčí
 00:10:06
-despachador eléctrico independiente n.º 2
-Bomberos, ferroviarios.
+ED independiente n.º 2
+Los bomberos, los ferroviarios.
 00:10:08
-despachador de tráfico de la ŽST Val. 
-Entonces, ¿cómo lo saben, si nosotros no lo sabemos? Hola.
-Meziříčí
+Jefe de estación ŽST Val. 
+Pues, ¿cómo lo saben si nosotros no lo sabemos? Aló.
+Mezříčí
 00:10:13
-despachador eléctrico independiente n.º 2
-¿Tiene allí Jablůnku?
+ED independiente n.º 2
+¿Tienen Jablůnka allí?
 00:10:14
-despachador de tráfico de la ŽST Val. 
-Sí, está intentando conectarse por el TRS. Cero nueve. Él 
-Meziříčí
-tenía que pasar ahora por Jablůnka.
+Jefe de estación ŽST Val. 
+Sí, se está intentando conectar por la TRS. Cero nueve. Él
+Mezříčí
+acaba de pasar por Jablůnka.
 00:10:25
-despachador eléctrico independiente n.º 2
-Entonces, lo intentaré cortar hasta que nos pongamos de acuerdo.
+ED independiente n.º 2
+Entonces lo intentaré apagar hasta que nos pongamos de acuerdo.
 00:10:28
-despachador de tráfico de la ŽST Val. 
-¿Ambas vías principales?
-Meziříčí
+Jefe de estación ŽST Val. 
+¿Ambas de vía?
+Mezříčí
 00:10:29
-despachador eléctrico independiente n.º 2
-Sí, cortaré ambas vías principales y luego nos pondremos de acuerdo.
+ED independiente n.º 2
+Sí, apagaré ambas de vía y luego nos pondremos de acuerdo.
 00:10:31
-despachador de tráfico de la ŽST Val. 
-De acuerdo, vale.
-Meziříčí
+Jefe de estación ŽST Val. 
+De acuerdo, sí.
+Mezříčí
 00:10:38
-operadora. ŽST Val. 
-Hola.
-Meziříčí
+Operador. ŽST Val. 
+Aló.
+Mezříčí
 00:10:38
-despachador eléctrico independiente n.º 2
+ED independiente n.º 2
 Sí.
 00:10:39
-operadora. ŽST Val. 
+Operador. ŽST Val. 
 Un momento, espere.
-Meziříčí
+Mezříčí
 00:10:47
-(suena el teléfono en segundo plano)
+(al fondo suena un teléfono)
 00:10:48
-operadora. ŽST Val. 
-Ya está llamando aquí, ¿qué es?
-Meziříčí
+Operador. ŽST Val. 
+Ya está llamando, ¿qué es esto?
+Mezříčí
 00:10:50
-despachador eléctrico independiente n.º 2
-¿Entonces sabe exactamente dónde está?
+ED independiente n.º 2
+Entonces, ¿sabe exactamente dónde está?
 00:10:52
-operadora. ŽST Val. No sabemos, un momento, está hablando ahora, no sé si son 
-
+Operador. ŽST Val. No lo sabemos, un momento, él está hablando ahora, no sé si son
 
 ## Página 42
+
 
 Meziříčí
 la policía o quién sea. 
@@ -1087,6 +1139,7 @@ Transcripción de la conversación entre el despachador de tráfico de la ŽST V
 Jablůnka.
 
 ## Página 43
+
 
 Inicio de la llamada del 07. 05. 2007 a las 00:09:10 h, duración de la conexión en la llamada 0:01:14 h.
 Hora (h)
@@ -1160,8 +1213,8 @@ Meziříčí
 Transcripción de la llamada entre el jefe de estación ŽST Jablůnka y el maquinista del tren Lv 73880.
 Inicio de la llamada del 07. 05. 2007 a las 00:10:06 h, duración de la conexión en la llamada 0:01:10 h.
 
-
 ## Página 44
+
 
 | H ora (h) | Participante en la llamada | Contenido de la llamada |
 | 00:10:17 | maquinista | Maquinista 73880 recibido. |
@@ -1184,8 +1237,8 @@ Inicio de la llamada del 07. 05. 2007 a las 00:10:27 h, duración de la conexió
 | 00:11:13 | jefe de estación ŽST Val . Meziříčí | Tú no, en Bystřička se está quemando un camión en el paso a nivel, , . |
 | 00:11:17 | jefe de estación ŽST Jablůnka | Bien. |
 
-
 ## Página 45
+
 
 | 00:11:18 | jefe de estación Meziříčí | ŽST Val . | Entonces que se detenga. |
 | 00:11:21 | jefe de estación Jablůnka | ŽST | Sí, apaga la electricidad, , . |
@@ -1218,6 +1271,7 @@ nº 262/2006 Coll., Código del Trabajo, en la redacción de la Ley nº 585/2006
 
 ## Página 46
 
+
 Bombero-comunicador OIS JPO HZS ČD Přerov: comenzó el turno según el calendario de servicios por turnos el 06. 05. 2007, a las 07:00 h. El descanso previo al turno fue conforme al artículo 90 de la ley n.º 262/2006 Coll., Código del Trabajo, en la redacción de la ley n.º 585/2006 Coll.
 Electrodispachador independiente n.º 1: comenzó el turno según el calendario de servicios por turnos el 06. 05. 2007, a las 17:30 h. El descanso previo al turno fue conforme al artículo 90 de la ley n.º 262/2006 Coll., Código del Trabajo, en la redacción de la ley n.º 585/2006 Coll.
 Electrodispachador independiente n.º 2: comenzó el turno según el calendario de servicios por turnos el 06. 05. 2007, a las 17:30 h. El descanso previo al turno fue conforme al artículo 90 de la ley n.º 262/2006 Coll., Código del Trabajo, en la redacción de la ley n.º 585/2006 Coll.
@@ -1232,8 +1286,8 @@ La investigación no detectó nada que obstaculizara la visión del maquinista h
 Se produjo una IE similar el 19. 03. 2007, a las 21:29 h, cuando en la línea ferroviaria, de doble vía de ámbito nacional, entre Praha Holešovice-Stromovka y Děčín hl. n., en el tramo de vía n.º 2, en el área del PE en el PK 451,415, entre las EE Vraňany y las EE Dolní Beřkovice, se produjo la colisión de un vehículo ferroviario, el tren R 784, con un vehículo automotor de carretera detenido.
 Todos los hechos detectados por la Inspección Ferroviaria se indican en el informe «Informe sobre la investigación de las causas y las circunstancias de la aparición del incidente excepcional», ref.: 6-19/2007/DI.
 
-
 ## Página 47
+
 
 ## 4 ANÁLISIS Y CONCLUSIONES
 ### 4.1 Descripción final del incidente excepcional
@@ -1244,6 +1298,7 @@ Durante la conversación entre el maquinista del tren Lv 73880 y el despachador 
 La activación de la protección contra sobretensiones K02.L y el subsiguiente corte del interruptor principal se indicaron y mostraron al maquinista en el panel de control mediante la posición «horizontal» del indicador del estado del interruptor principal H203, la lámpara de señalización central (translúcida) de avería H101, la posición «neutra» del indicador del estado del contactor K85 de calefacción del tren y la desviación nula del voltímetro de tensión de catenaria P01. En el panel de señalización H107, situado sobre la ventanilla
 
 ## Página 48
+
 
 mediante el parabrisas delantero de la cabina de conducción (HDV), se iluminaron las posiciones: h1 – señalización de relé de protecciones, h7 – avería del regulador A102-Y1 y h8 – avería del regulador A102-Y2. En el panel de señales H109, situado sobre el parabrisas delantero derecho de la HDV, junto al panel de señales H107, se iluminó la posición: h4 – avería de la carga de la red de 48 V. No se puede confirmar ni descartar la iluminación de la posición h6 – avería del Unipuls por sobrecorriente, debido a un pico de corriente o tensión en el circuito intermedio del Unipuls provocado por el apagado del interruptor principal. Dado que el maquinista no registró dicha indicación y señalización, incluido el cese del ruido de los motores eléctricos de los ventiladores de refrigeración de los convertidores de pulsos y de los motores de tracción, así como el cese del ruido del convertidor de pulsos para las auxiliares (Unipuls) en funcionamiento, continuó la marcha con mayor atención a la vía y su entorno, sin ninguna corrección de velocidad, la cual, como consecuencia de la marcha con curva suave, disminuía gradualmente.
 
@@ -1256,6 +1311,7 @@ Antes de la producción del accidente (MU) se recibió la notificación del cond
 El Centro Operativo de la PČR de Vsetín, tras recibir el mensaje de datos, organizó inicialmente la verificación de la información. Esta fue posteriormente confirmada por una patrulla policial y el lugar del incendio se concretó como el paso a nivel en Bystřička. La conversación entre la Patrulla Policial y el Centro Operativo de la PČR de Vsetín finalizó a las 00:07:51 h. Dado que el Centro Operativo no disponía de la lista telefónica vigente de los puntos de contacto de la empresa České dráhy, a. s., para la notificación de incidentes extraordinarios, contactó con la oficina «Información de České dráhy» en la estación de tren de Valašské Meziříčí (ŽST), la cual no estaba atendida durante la noche. Por lo tanto, la llamada se redirigió automáticamente a la «caja registradora personal», donde el Centro Operativo de la PČR de Vsetín obtuvo información sobre el número de teléfono del despachador de tráfico. A las 00:10:40 h comenzó la conversación entre el Centro Operativo de la PČR de Vsetín y el despachador de tráfico de la estación de Valašské Meziříčí, quien en ese momento ya mantenía una conversación con el despachador eléctrico independiente nº 2 del Despacho Eléctrico de Přerov. El Centro Operativo de la PČR de Vsetín informó al despachador sobre el camión en llamas en el paso a nivel de Bystřička y, al mismo tiempo, le solicitó la interrupción del tráfico. La conversación entre el despachador de tráfico de la estación de Valašské Meziříčí y el Centro Operativo de la PČR de Vsetín finalizó a las 00:11:27 h, es decir, 0:00:23 h antes de la producción del accidente y 0:00:04 h antes de que el maquinista activara el frenado de emergencia – por lo tanto
 
 ## Página 49
+
 
 en el momento en que ya no se podía evitar la aparición de la IU. El despachador de maniobras de la EST Valašské Meziříčí, 
 excepto por la indicación de poner el PZZ ŽP en el pk 33,243 en estado de señal de precaución mediante el paso del tren Lv 73880, 
@@ -1301,54 +1357,22 @@ de los procedimientos tecnológicos uniformes del administrador de la infraestru
 ### HZS ČD Přerov a las personas que controlan el tráfico ferroviario, es decir, al despachador operativo y central 
 ### y a los despachadores de maniobras de las EST adyacentes. 
 Entre las 00:09:14 h y las 00:11:54 h se llevó a cabo una llamada posterior entre el KOPIS Zlín y la Central de Alerta de Incendios de la OIS JPO 
-HZS ČD Přerov, en la que el KOPIS Zlín preguntaba por la situación 
-
+HZS ČD Přerov, en la que el KOPIS Zlín preguntaba por la situación
 
 ## Página 50
 
-e instaba la detención del tráfico ferroviario. Dado que el bombero-operador que prestaba servicio en la Central de Alerta de Incendios 
-de la OIS JPO HZS ČD Přerov no disponía de la información requerida, el KOPIS Zlín solicitó la comunicación 
-de los números de teléfono directamente a las EST, con la intención de transmitir la información directamente. El bombero-operador de la OIS JPO 
-HZS ČD Přerov facilitó el número de teléfono 972 774 490 para la EST Valašské Meziříčí y 972 775 490 
-### para la EST Vsetín. Sin embargo, ninguno de los dos números de teléfono estaba dirigido al puesto de la persona que controla el tráfico 
-ferroviario o a las personas que participan en el control del tráfico ferroviario, sino a las oficinas de los jefes de 
-estación, que trabajan por turnos diurnos.
-El despachador eléctrico independiente n.º 1, del Despacho Eléctrico de Přerov, tras finalizar la llamada 
-con la Central de Alerta de Incendios de la OIS JPO HZS ČD Přerov, a las 00:06:26 h, informó a su colega, 
-el despachador eléctrico independiente n.º 2, que operaba las instalaciones de la línea de catenaria en la vía Vsetín 
-– Valašské Meziříčí. Este contactó telefónicamente a las 00:07:53 h con la Central de Alerta de Incendios de la OIS JPO 
-HZS ČD Přerov y verificó la información. Durante la llamada, también se le informó sobre el incendio 
-de un automóvil entre Vsetín y Valašské Meziříčí, en un PZZ no identificado «en algún lugar 
-cerca de Jablůnka» y, con las palabras: «... necesitan cortar la corriente de inmediato», sobre la solicitud de corte 
-### de la tensión en la línea de catenaria en el tramo indicado. La llamada se finalizó a las 00:08:25 h. Tras esta 
-solicitud de corte de la tensión en la línea de catenaria, en el sentido de los procedimientos tecnológicos uniformes 
-del administrador de la infraestructura, indicados en la norma interna «ČD E 6 Norma para la actividad 
-de la central de control del sector eléctrico», aprobada el 05. 04. 1978, con ref. 6183/1978-24, 
-con efecto desde el 01. 01. 1979, no se cortó la tensión en la línea de catenaria, sino que se continuó 
-con la verificación y el precisión de la información sobre el lugar del incendio.
-A las 00:08:53 h, el despachador eléctrico independiente n.º 2, del Despacho Eléctrico de Přerov, contactó 
-telefónicamente con el despachador de maniobras (operadora) de la EST Valašské Meziříčí. Preguntó por el 
-incendio en algún lugar cerca de Jablůnka y precisó ulteriormente el lugar del incendio. Dado que el despachador de maniobras en ese 
-momento no conocía la fuente de peligro para la explotación segura del ferrocarril y del tráfico ferroviario, 
-a las 00:09:17 h preguntó telefónicamente al despachador de maniobras de la EST secundaria Jablůnka sobre el incendio. Dado que el 
-despachador de maniobras de la EST Jablůnka tampoco tenía información y a las 00:08:31 h la EST Jablůnka pasó el 
-tren Lv 73880 en dirección a Valašské Meziříčí, los despachadores de maniobras acordaron que el despachador de maniobras de la EST 
-Jablůnka preguntaría mediante TRS al maquinista si había visto algo. La llamada entre los 
-despachadores de maniobras se finalizó a las 00:10:13 h. Posteriormente, continuó la llamada entre el despachador eléctrico 
-independiente n.º 2, del Despacho Eléctrico de Přerov, y el despachador de maniobras de la EST Valašské Meziříčí, 
-mediante la cual se concretó el procedimiento siguiente y el tramo para el corte de la tensión en la línea de catenaria.
-La continuación de la sucesión de acontecimientos se indica en el encabezamiento de este punto del Informe. 
+exigió el cese del tráfico ferroviario. Como el bombero-enlace destinado en la Estación de Notificación de Incendios OIS JPO HZS ČD Přerov no disponía de la información requerida, el KOPIS Zlín solicitó que se le comunicaran los números telefónicos directamente de la estación, con la intención de transmitir la información directamente. El bombero-enlace OIS JPO HZS ČD Přerov comunicó el número telefónico 972 774 490 de la estación Valašské Meziříčí y el 972 775 490
+### de la estación Vsetín. Sin embargo, ninguno de los dos números telefónicos correspondía al puesto de trabajo de la persona que dirigía el tráfico ferroviario ni de las personas que participaban en la dirección del tráfico ferroviario, sino a las oficinas de los jefes de estación, que trabajan en turnos diurnos.
+El electrodespachador independiente n.º 1, del Centro de Electrodespacho de Přerov, tras finalizar la conversación con la Estación de Notificación de Incendios OIS JPO HZS ČD Přerov, a las 00:06:26 h, informó a su compañero, electrodespachador independiente n.º 2, que atendía las instalaciones de la línea de contacto en el tramo Vsetín – Valašské Meziříčí. Este, a las 00:07:53 h, contactó telefónicamente con la Estación de Notificación de Incendios OIS JPO HZS ČD Přerov y verificó la información. Durante la conversación, él también fue informado del incendio de un automóvil entre Vsetín y Valašské Meziříčí, en un punto kilométrico no identificado "en algún lugar de Jablůnka", y con las palabras: "... necesitan cortar la corriente de inmediato.", sobre la petición de cortar
+### la tensión en la línea de contacto en el tramo indicado. La conversación finalizó a las 00:08:25 h. Tras esta petición de corte de tensión en la línea de contacto, conforme a los procedimientos tecnológicos uniformes del gestor de la vía, establecidos en la norma interna "ČD E 6 Reglamento para la actividad del puesto de mando de la sección eléctrica", aprobada el 05. 04. 1978, con el n.º de expediente 6183/1978-24, en vigor desde el 01. 01. 1979, la tensión en la línea de contacto no fue cortada, sino que se continuó verificando y precisando la información sobre el lugar del incendio.
+A las 00:08:53 h el electrodespachador independiente n.º 2, del Centro de Electrodespacho de Přerov, contactó telefónicamente con el jefe de maniobras (operadora) de la estación Valašské Meziříčí. Preguntó por el incendio en algún lugar de Jablůnka y a continuación precisó el lugar del incendio. Como el jefe de maniobras en ese momento no conocía la fuente de amenaza para la explotación segura de la vía y del tráfico ferroviario, a las 00:09:17 h preguntó telefónicamente por el incendio al jefe de estación de la estación adyacente Jablůnka. Como tampoco el jefe de estación de la estación Jablůnka tenía ninguna información y a las 00:08:31 h había pasado por la estación Jablůnka en dirección a Valašské Meziříčí el tren Lv 73880, los jefes de estación acordaron que el jefe de estación de la estación Jablůnka preguntaría mediante TRS al maquinista si había visto algo. La conversación entre los jefes de estación finalizó a las 00:10:13 h. A continuación continuó la conversación entre el electrodespachador independiente n.º 2, del Centro de Electrodespacho de Přerov, y el jefe de maniobras de la estación Valašské Meziříčí, en la que se concretó el procedimiento posterior y el tramo de corte de tensión en la línea de contacto.
+La continuación de la siguiente cadena de acontecimientos se indica en la introducción de este punto del Informe.
 ### 4.2 Análisis
-### 4.2.1 Evaluación de los hechos constatados según el punto 3 y presentación de las conclusiones sobre la causa 
-del incidente extraordinario y la actividad de los servicios de rescate
-El PZZ de doble vía en el pk 33,243, de la red ferroviaria nacional de doble vía Horní Lideč st. hr. – Hranice 
-na Moravě, electrificado con una tensión continua de 3 kV, está señalizado y protegido 
-de conformidad con los artículos 3 y 4 del Decreto n.º 177/1995 Coll., por el que se aprueba el reglamento de construcción y técnica 
-ferroviaria, en su versión vigente (en lo sucesivo, Decreto n.º 177/1995 Coll.) y, en el sentido del artículo 17 del Decreto 
-n.º 177/1995 Coll., por su ejecución cumple con la explotación segura del tráfico ferroviario 
-y garantiza la seguridad de los participantes en la circulación en la carretera.
+### 4.2.1 Evaluación de los hechos constatados según el punto 3 y formulación de conclusiones sobre la causa del suceso excepcional y la actuación de los servicios de rescate
+El punto kilométrico doble en el km 33,243, de la vía nacional de doble vía Horní Lideč frontera – Hranice na Moravě, electrificada con tensión continua de 3 kV, está señalizado y protegido de conformidad con los apartados § 3 y § 4 del decreto n.º 177/1995 Sb., por el que se aprueba el reglamento de construcción y técnico de las vías, en su versión vigente (en adelante, decreto n.º 177/1995 Sb.) y, en el sentido del § 17 del decreto n.º 177/1995 Sb., por su construcción satisface la explotación segura del tráfico ferroviario y garantiza la seguridad de los participantes en la circulación en la vía pública.
 
 ## Página 51
+
 
 El vehículo motorizado de carretera ZN. SCANIA R124LA4x2NA, RZ. 3T8 1485 (CZ) entró en el paso a nivel (ŽP) en el pk 33,243 en dirección desde Vsetín en una situación en la que el dispositivo de protección del paso a nivel (PZZ) permitía la circulación a los participantes del tráfico rodado. Debido a un incendio del vehículo motorizado de carretera, el vehículo se detuvo por sí solo en el paso a nivel (se quemaron las mangueras de presión de los frenos) y permaneció detenido con los frenos aplicados en el paso a nivel, de tal manera que obstruía la sección de paso libre de ambas vías de la línea. El vehículo motorizado de carretera, por tanto, entró (ingresó) en la vía (en el perímetro de la vía) en un lugar accesible al público en un momento en el que el dispositivo de protección del paso a nivel (PZZ) no se encontraba en estado de señal de peligro. Como consecuencia de la detención automática, la permanencia y la no retirada del vehículo motorizado de carretera del área del paso a nivel, se puso en grave peligro la seguridad de la explotación de la vía y del transporte ferroviario, conforme al artículo 22 apartado 4 de la ley n.º 266/1994 Coll., sobre la base de la cual. La detención y la permanencia del vehículo motorizado de carretera con los frenos aplicados en el paso a nivel fueron causadas por un incendio. La investigación llevada a cabo por el órgano competente del Cuerpo de Bomberos de Zlín (HZS Zlín) determinó como causa más probable de la ignición una avería técnica en el sistema de combustible o en el sistema eléctrico del vehículo, véase la «Resolución» relativa a las sospechas de la comisión de un delito de peligro común conforme al artículo 180 apartado 1 de la ley n.º 140/1961 Coll., Código Penal, en su versión vigente, del que se habría hecho responsable un autor desconocido, de fecha 01.08.2007, ref.: ORVS-1355/TČ-70-2007.
 
@@ -1362,6 +1386,7 @@ El gestor de la infraestructura, conforme al artículo 22 apartado 1 letra a) de
 
 ## Página 52
 
+
 A las 00:10:29 h, el despachador eléctrico independiente n.º 2, en el Centro de Control del Despacho Eléctrico de Přerov, inició las actuaciones para el corte de la tensión en el cable aéreo de contacto de las dos vías de circulación entre las estaciones de Vsetín y Valašské Meziříčí, incluidas las estaciones adyacentes. La tensión en el cable aéreo de contacto de la 2.ª vía de circulación entre las estaciones de Jablůnka y Valašské Meziříčí fue cortada a las 00:10:37 h, según el dispositivo de registro HDV 163.004-5, es decir, 1 minuto y 13 segundos antes de la ocurrencia del accidente. En ese momento, el tren Lv 73880 se encontraba en el pk 34,506, a una distancia de 1263 m antes del paso a nivel (PPN) situado en el pk 33,243, es decir, a una distancia suficiente para detenerse de forma segura antes del vehículo de motor por carretera en llamas, que permanecía estacionado en el PPN del pk 33,243. Sin embargo, el HDV no se detuvo tras el corte de la tensión en el cable aéreo de contacto y continuó su marcha sin ninguna corrección de velocidad, la cual descendía lentamente como consecuencia de la marcha por inercia. A las 00:11:29 h, a una velocidad de 74 km/h, a una distancia de 362 m antes del PPN del pk 33,243, el dispositivo de registro del HDV 163.004-5 registró el cambio del controlador del freno automático continuo OBE 1 a la posición «Freno» y, a las 00:11:31 h, a la misma velocidad y a una distancia de 321 m antes del PPN, la aplicación del frenado rápido.
 
 ### El titular de la infraestructura no garantizó que la persona en el Centro de Control del Despacho Eléctrico de Přerov, tras recibir la solicitud de corte de la tensión en el cable aéreo de contacto en el tramo Vsetín – Valašské Meziříčí, ante el peligro inminente derivado de la dilación debido al incendio de un vehículo de motor por carretera en un PPN no identificado «en algún lugar cerca de Jablůnka», actuara de conformidad con los procedimientos tecnológicos uniformes del titular de la infraestructura, recogidos en la norma interna «ČD E 6 Norma para la actividad del centro de control del sector eléctrico», aprobada el 05.04.1978, con el número de referencia 6183/1978-24, con efecto desde el 01.01.1979, artículo 31 y, especialmente, el artículo 32.
@@ -1373,6 +1398,7 @@ El titular de la infraestructura, de conformidad con el apartado 1, letra a) del
 ### El titular de la infraestructura tampoco garantizó que el jefe de estación de la estación de Jablůnka, tras recibir la orden inequívoca del jefe de estación de la estación de Valašské Meziříčí para detener el tren Lv 73880 a las 00:11:21 h, actuara de conformidad con los procedimientos tecnológicos uniformes del titular de la infraestructura, recogidos en el artículo 53 de la norma interna «ČD Z11 NORMA PARA EL MANEJO DE LOS EQUIPOS DE RADIO», es decir, que, ante el peligro inminente derivado de la dilación, asumiera que el HDV estaba equipado con un adaptador XX48 funcional e intentara detener el tren Lv 73880 mediante la operación de la estación base de radio TRS con la orden habitual «STOP», o
 
 ## Página 53
+
 
 «PARADA GENERAL». El despachador de la estación de Jablůnka intentó, en lugar de ello, detener el tren Lv 73880 estableciendo una nueva conexión de radio con el maquinista del tren, con la intención evidente de instarle a detenerse mediante comunicación verbal. Dado que la conexión de radio entre la estación base de radio situada en la estación de Jablůnka y la estación de radio a bordo del vehículo del tren Lv 73880 se estableció a las 00:12:04 h, es decir, en el momento en que se transmitió la orden «PARADA GENERAL» desde la estación base de radio situada en la estación de Valašské Meziříčí, dicha conexión impidió que la estación de radio a bordo del vehículo principal (HDV) 163.004-5 recibiera la orden «PARADA GENERAL» (véase más adelante).
 
@@ -1392,6 +1418,7 @@ El maquinista del tren Lv 73880 detectó la interrupción del suministro eléctr
 
 ## Página 54
 
+
 1997, bajo el número de registro 55079/97-O11, con efecto desde el 28. 12. 1997, en su versión vigente. El artículo 29 regula de manera general la obligación de actuar conforme a la normativa interna de ČD D2 también en aquellos casos que no están expresamente contemplados en dicha normativa interna, actuando según la mejor conciencia y prudencia de modo que se garantice la seguridad, la puntualidad y la fluidez del tráfico ferroviario, es decir, no especifica la obligación de detener el tren cuando circula con una unidad motriz eléctrica (HDV) ante un fallo de tensión en la línea de catenaria. El artículo 1017 regula ya de forma concreta el procedimiento de detención del tren transportado por una unidad motriz eléctrica, pero únicamente bajo la condición de detectar una avería en el material rodante. Los maquinistas de todas las unidades motrices eléctricas tienen la obligación, en caso de pérdida de tensión en la línea de catenaria, de vigilar atentamente su propio tren de vehículos, y en su caso, los trenes de sentido contrario, si no hay una avería en el tren que ponga en peligro la seguridad del tráfico y según las circunstancias, detener el tren. Si el maquinista no detecta una avería que ponga en peligro la seguridad, no tiene por qué detenerse conforme al artículo mencionado, ya que el preámbulo del artículo delimita el contenido adicional del artículo a la condición de una avería detectada (artículo 1017: «Si no es posible detener el tren transportado por una unidad motriz eléctrica, en la que se haya detectado una avería que podría poner en peligro la seguridad de la explotación, mediante otro método adecuado (p. ej., mediante comunicación por radio con el maquinista), se procederá de la siguiente manera: ...».
 
 El explotador del servicio ferroviario, a tenor del apartado 2 del artículo 33 del Decreto n.º 173/1995 Coll., no emitió procedimientos tecnológicos unitarios contenidos en las normativas internas para garantizar que, a tenor del apartado 1, letra q) del artículo 35 del Decreto n.º 173/1995 Coll., la persona que dirige el material rodante, al detectar un fallo de tensión en la línea de catenaria, incluso cuando circula con una unidad motriz eléctrica
@@ -1405,8 +1432,8 @@ El explotador del servicio ferroviario, además, no garantizó la explotación d
 
 Dada la situación de estrés y tensión que precedió inmediatamente al choque, no se puede reprochar al explotador del servicio ferroviario el hecho mencionado.
 
-
 ## Página 55
+
 
 Según el documento «Análisis informativo de la grabación del velocígrafo electrónico sobre el incidente extraordinario de peligro B 4, número de tren 73880 en el paso a nivel en el pk 33,243 entre las estaciones Jablůnka – Val. Meziříčí», elaborado en DKV Ostrava, Unidad Operativa de Bohumín, el 09. 05.
 2007, se desprende, entre otras cosas:
@@ -1441,6 +1468,7 @@ Para determinar todas las circunstancias de la aparición del mencionado choque 
 Sobre la base de los parámetros de la vía (CUADRO RESUMEN DEL ESTADO DEL BALASTO DE LA LÍNEA FERROVIARIA), de la extracción de datos del dispositivo de registro de la unidad motriz 163.004-5, de la construcción de la unidad de freno, incluida la característica del muelle de retorno del cilindro de freno de la unidad de freno, y de la evaluación del efecto de la extensión del vástago del cilindro de la unidad de freno, se realizó el cálculo del valor medio de la presión en los cilindros de freno de la unidad motriz. El valor del coeficiente de fricción f=0,18, entre la superficie de rodadura de la rueda y la cuña de freno, se determinó mediante el cálculo de las curvas de frenado teóricas para valores constantes de «f» (0,20; 0,18; 0,16), para una presión presupuesta en los cilindros de freno de 3,8 bar y su comparación con la curva de frenado real en el rango de velocidad de 74 – 44 km.h-1. La curva de frenado teórica con el coeficiente de fricción f=0,18 tenido en cuenta se acercó más a la curva de frenado real, con un tiempo de llenado de los cilindros de freno de 0 s (tiempo 0=el momento de fijación del controlador del freno automático continuo OBE 1 en la posición «Freno de emergencia» a las 00:11:31 h. El momento de fijación del controlador del freno automático continuo
 
 ## Página 56
+
 
 OBE 1 do polohy „Brzda“ v 00:11:29 h nebyl do výpočtu zahrnut). Vypočtená střední 
 hodnota tlaku v brzdových válcích brzdových jednotek pak měla hodnotu pBVstř = 3,94 bar. 
@@ -1485,10 +1513,10 @@ MHz, základnová rádiová stanice umístěná v ŽST Valašské Meziříčí p
 signálu 468,150 MHz. Bezprostřední okolí ŽP v km 33,243 je pokryto signálem obou 
 přilehlých základnových rádiových stanic.
 V 00:12:04 h byl výpravčím ŽST Valašské Meziříčí prostřednictvím základnové rádiové 
-### stanice odeslán příkaz „GENERÁLNÍ STOP“, který nebyl vozidlovou radiostanicí HDV 
-
+### stanice odeslán příkaz „GENERÁLNÍ STOP“, který nebyl vozidlovou radiostanicí HDV
 
 ## Página 57
+
 
 přijat (záznamové zařízení HDV 163.004-5 nezaznamenalo zaúčinkování systému 
 samočinného zastavení vlaku). Důvodem nepřijetí příkazu „GENERÁLÍ STOP“ byl 
@@ -1536,6 +1564,7 @@ ostrůvkového systému TRS. Pro úspěšné zastavení vlaku (HDV), vybaveného
 adaptérem XX48, nacházejícího se „někde“ v mezistaničním úseku [nota del editor: el despachador generalmente no conoce la posición exacta del tren (HDV) en la vía, ni sabe qué isla
 
 ## Página 58
+
 
 la estación de radio base de alcance actual], es indispensable que, al introducir la orden de 
 «PARADA GENERAL» por parte del despachador, dicha orden sea enviada por ambos despachadores de las 
@@ -1587,6 +1616,7 @@ Coll.
 
 ## Página 59
 
+
 ### 4.3.2 Causas fundamentales relacionadas con la cualificación, los procedimientos y el mantenimiento
 La causa fundamental de la aparición del incidente excepcional es la no parada del tráfico ferroviario.
 El explotador de la vía, al no garantizar la transmisión de la solicitud del KOPIS Zlín para la parada del 
@@ -1632,6 +1662,7 @@ adaptador XX48 funcional, en la línea por los despachadores, véase el punto 4.
 
 ## Página 60
 
+
 El titular de la vía, a tenor del artículo 22, apartado 1, letra a), de la Ley n.º 266/1994 Coll., no garantizó la explotación de la vía de conformidad con los procedimientos tecnológicos unitarios contenidos en el reglamento interno del titular, al no:
 
 – garantizar, en caso de peligro inminente de retraso, el corte de la tensión en la línea de catenaria
@@ -1650,42 +1681,33 @@ Además, el Servicio de Bomberos y Salvamento del titular emitió la «Hoja info
 
 Entre el titular, es decir, los Ferrocarriles Checos, a. s. - Servicio de Bomberos y Salvamento de los Ferrocarriles Checos, a. s., y el Ministerio del Interior – Dirección General del Cuerpo de Bomberos y Salvamento de la República Checa, se firmó un ACUERDO para garantizar la seguridad durante las intervenciones en la vía férrea, con el número de registro PO-2049/IZS-2007, de fecha 31.08.2007 (en adelante, el Acuerdo), con efecto desde la fecha de firma de ambas partes contratantes y con validez por tiempo indeterminado.
 
-
 ## Página 61
 
-En relación con el Acuerdo, el titular emitió el documento «Garantía de la seguridad de las unidades de protección contra incendios (PO) y de los componentes del Sistema Integrado de Salvamento (IZS) durante la resolución de incidentes extraordinarios en la vía férrea», que especifica y desarrolla ulteriormente el Acuerdo para las necesidades del Destacamento de Bomberos y Salvamento (JPO HZS) del titular.
-
-El titular de la vía emitió, además, el 10.07.2007, con el número de registro 3779/2007-O11, una instrucción metodológica para la elaboración de un documento en forma de cartel, designado como Anexo 47B del Reglamento de Estación, que contiene el procedimiento para resolver la situación de crisis en los pasos a nivel (ŽP), tras recibir la información sobre la amenaza a la explotación segura de la vía y del transporte ferroviario en los pasos a nivel. El cartel debe colgarse en un lugar accesible del puesto de las despachadoras y empleados, entre los cuales cabe la posibilidad de que se les notifique la amenaza a la explotación segura de la vía y del transporte ferroviario en los pasos a nivel. El cartel - Anexo 47B del Reglamento de Estación debe contener como mínimo los siguientes datos:
-
-– el sistema de transmisión de la información sobre el surgimiento de una situación de crisis en los pasos a nivel, teniendo en cuenta la división interna de la estación (ŽST) y las obligaciones de los distintos empleados del titular, incluidos los empleados en los puestos de la vía abierta;
-
-– la identificación exacta del paso a nivel desde la perspectiva de la topología ferroviaria y de carretera;
-
-– las posibilidades de detención de los vehículos ferroviarios en movimiento mediante el sistema TRS, a través de
-### teléfono móvil, corte de la tensión en la línea de catenaria, etc. El anexo debe contener además el énfasis en que, al detener los vehículos ferroviarios mediante el
-### sistema TRS, con la orden «STOP GENERAL», dicha orden debe ser enviada por las despachadoras de ambas estaciones adyacentes (ŽST);
-
-– las conexiones telefónicas actuales con los componentes del Sistema Integrado de Salvamento (IZS);
-
-– las acciones de las despachadoras tras detener el movimiento de los vehículos ferroviarios, incluido el plan de notificación;
-
-– los demás empleados, participantes en el tráfico de transporte relacionado con la problemática de los pasos a nivel (ŽP), deben ser informados de las medidas del jefe superior de la estación (UŽST);
-
-– otras disposiciones y procedimientos específicos para la estación (ŽST) correspondiente;
-
-– el énfasis en que, al recibir la información sobre la amenaza a la explotación segura de la vía y del transporte ferroviario, que es incompleta y no puede verificarse inmediatamente en el momento de la notificación, el criterio prioritario es garantizar la seguridad y, por tanto, detener el movimiento de los vehículos ferroviarios;
-
-– la información de que el anexo 47B del Reglamento de Estación está sujeto a revisión por parte del controlador de tráfico. Los carteles están colocados por el titular de conformidad con la instrucción metodológica de fecha 10.07.2007, número de registro 3779/2007-O11.
-
-Por ejemplo, en el Anexo 47B del Reglamento de Estación de la estación de Jablůnka, en la sección «Posibilidades de detención del movimiento de los vehículos ferroviarios», se indica:
-«Mediante el sistema TRS – con la orden GENERÁLNÍ STOP – enviada sucesivamente por las despachadoras
-– de ambas estaciones adyacentes;
-Cortando la tensión de la línea de catenaria (TV) a través del despachador eléctrico … (se indican los números de teléfono);
+En virtud del Acuerdo, el operador emitió el documento «Garantía de la seguridad de las unidades PO y de los componentes del IZS en la resolución de incidentes excepcionales en el ferrocarril», que concreta y desarrolla el Acuerdo para las necesidades de la JPO HZS del operador.
+Asimismo, el 10. 07. 2007, con el n.º de expediente 3779/2007-O11, el operador de la vía emitió una instrucción metodológica para la elaboración del documento en forma de cartel, designado como Anexo 47B del Reglamento de Estación, que contiene el procedimiento de resolución de la situación de crisis en la ŽP, tras la recepción de la información sobre la amenaza a la explotación segura de la vía y del transporte ferroviario en la ŽP. El cartel debe colocarse en un lugar accesible de los puestos de trabajo de los jefes de estación y de los empleados para quienes cabe la posibilidad de que se les notifique la amenaza a la explotación segura de la vía y del transporte ferroviario en la ŽP. El cartel —Anexo 47B del Reglamento de Estación— debe contener como mínimo los siguientes datos:
+– el sistema de transmisión de la información sobre la aparición de una situación de crisis en la ŽP, en función de la estructura interna de la ŽST y de las obligaciones de cada uno de los empleados del operador, incluidos los empleados de los puestos de trabajo en la vía abierta;
+– la identificación exacta del paso a nivel desde el punto de vista de la topografía ferroviaria y carretera;
+– las posibilidades de detener los vehículos ferroviarios en circulación mediante el sistema TRS, a través de
+### el teléfono móvil, la desconexión de la tensión en la línea de tracción, etc. El Anexo debe incluir además el énfasis en que, al detener los vehículos ferroviarios mediante
+### el sistema TRS, con la orden «PARADA GENERAL», esta orden debe ser enviada por los jefes de estación de ambas ŽST vecinas;
+– las comunicaciones telefónicas actuales con los componentes del IZS;
+– la actuación de los jefes de estación tras la detención del movimiento de los vehículos ferroviarios, incluido el plan de notificación;
+– con la medida del jefe superior de la UŽST deben ser puestos en conocimiento también los demás empleados implicados en la explotación ferroviaria relacionada con la cuestión de la ŽP;
+– otras disposiciones y procedimientos específicos de la ŽST correspondiente;
+– el énfasis en que, ante la recepción de una información sobre la amenaza a la explotación segura de la vía y del transporte ferroviario que es incompleta y no puede verificarse de forma inmediata en el momento de la notificación, el criterio prioritario es la garantía de la seguridad y, por tanto, la detención del movimiento de los vehículos ferroviarios;
+– la información de que el Anexo 47B del Reglamento de Estación está sujeto a revisión por parte del inspector de explotación. Los carteles son colocados por el operador de conformidad con la instrucción metodológica de fecha 10. 07. 2007, n.º de expediente 3779/2007-O11.
+Por ejemplo, en el Anexo 47B del Reglamento de Estación de la ŽST Jablůnka, en la sección «Posibilidades de detener el movimiento de los vehículos ferroviarios», se indica:
+«Mediante TRS —con la orden PARADA GENERAL— enviada sucesivamente por los jefes de estación
 –
-Estableciendo una conexión con el maquinista a través de la red de radio local – en la frecuencia
-– 468,200 MHz».
+de ambas estaciones vecinas;
+Desconectando la TV a través del despachador eléctrico … (se indican los números de teléfono);
+–
+Estableciendo comunicación con el maquinista mediante la red de radio local —en la frecuencia
+–
+468,200 MHz».
 
 ## Página 62
+
 
 En el Anexo 47B del Reglamento de Estación de la Estación de Expedición Ferroviaria (ŽST) de Jistebník, en la parte «3. Ambos despachadores de tráfico realizarán las medidas para detener las circulaciones de trenes y de vehículos de maniobra (PMD) que tengan establecida su vía de circulación o que ya hayan salido de la estación, en el orden según la prioridad:
 Mediante la orden de parada general del sistema de radio de vía TRS. La orden de parada general debe ser utilizada sin demora por ambos despachadores de tráfico.
@@ -1709,8 +1731,8 @@ La Inspección Ferroviaria, como autoridad competente, en virtud del artículo 5
 la orden «PARADA GENERAL», o bien «PARADA SELECTIVA», enviada por el despachador de tráfico tenga prioridad sobre la conversación (conexión) de la radio de a bordo con otra radio base en la red TRS, distinta de aquella desde la cual se envió la orden «PARADA GENERAL», o bien «PARADA SELECTIVA»;
 la orden «PARADA GENERAL», o bien «PARADA SELECTIVA», enviada por el despachador de tráfico provoque automáticamente la orden «PARADA GENERAL», o bien «PARADA SELECTIVA», enviada por el
 
-
 ## Página 63
+
 
 despachador, es decir, la orden se envíe de forma general en el canal asociado correspondiente de la cinta en toda la línea y funcione independientemente de la conversación (conexión) de la radio de a bordo en la red TRS;
 
@@ -1722,14 +1744,14 @@ Ing. Petr Maikranz, v. r.
 Director
 De la Inspección Territorial de Ostrava
 
-
 ## Página 64
+
 
 ## 7 ANEXOS
 
 Foto 1: Vista del paso a nivel (ŽP) en el punto kilométrico 33,243 y de la carretera de primera categoría n.º 57 que va desde Vsetín (pueblo de Jablůnka)
 
-
 ## Página 65
+
 
 Foto 2: Vista del panel aéreo del HDV de la serie 163. La llave de cierre n.º 976/5 (fundición gris/fundición) se encuentra en la parte central izquierda de la imagen en posición cerrada

@@ -10,13 +10,14 @@ chars: 40411
 ratio_longitud: 1.08
 tokens_in: 14592
 tokens_out: 10797
-verificacion: revisar
 fecha_proceso: 2026-11-18
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-avisos: ["página 14: cifras largas: faltan 2/4 (50%)"]
+verificacion: ok
 notas_cifras: ["página 1: cifras largas: 3/16"]
 ---
+
 ## Página 1
+
 
 DESCARRILAMIENTO DEL  
 TREN 54091 
@@ -37,6 +38,7 @@ Página web:
 http://versa.bmvit.gv.at
 
 ## Página 2
+
 
 ### Índice 
 Página
@@ -137,6 +139,7 @@ Potencia de frenado
 
 ## Página 3
 
+
 ### Índice de figuras
 Figura 1     Esquema de las líneas ferroviarias de Austria ...................................................................................... 4 
 Figura 2     Croquis de situación de la estación de Pöchlarn – Fuente: ÖBB ............................................................. 5 
@@ -209,10 +212,10 @@ Tren (Zug)
 ZSB 
 Disposiciones complementarias a la instrucción de señales y a la instrucción de explotación (Zusatzbestimmungen zur Signal- und zur Betriebsvorschrift) 
 ### Notas preliminares 
-Conforme al UUG, § 5, las investigaciones tienen como objetivo exclusivo determinar la causa del incidente, con el fin de poder elaborar recomendaciones de seguridad que contribuyan a evitar incidentes similares en el futuro. Las investigaciones no tienen por objeto esclarecer cuestiones de culpabilidad o responsabilidad. 
-
+Conforme al UUG, § 5, las investigaciones tienen como objetivo exclusivo determinar la causa del incidente, con el fin de poder elaborar recomendaciones de seguridad que contribuyan a evitar incidentes similares en el futuro. Las investigaciones no tienen por objeto esclarecer cuestiones de culpabilidad o responsabilidad.
 
 ## Página 4
+
 
 ### 1. Resumen 
 El 18 de octubre de 2008, a las 01:17 horas, se produjo un descarrilamiento de los vagones 15.º al 17.º de la composición durante la entrada del tren Z 54091 en la estación de Pöchlarn. 
@@ -231,10 +234,10 @@ Figura 1     Esquema de las líneas ferroviarias de Austria
 ### 3. Momento 
 Sábado, 18 de octubre de 2008, a las 01:17 horas 
 ### 4. Condiciones meteorológicas, visibilidad 
-Oscuridad, + 2 °C, sin restricciones de visibilidad. 
-
+Oscuridad, + 2 °C, sin restricciones de visibilidad.
 
 ## Página 5
+
 
 ### 5. Composición del movimiento implicado 
 DG 54091 (tren directo de mercancías de la empresa ferroviaria RU ÖBB–Rail Cargo Austria AG) 
@@ -254,10 +257,10 @@ La estación de Pöchlarn se encuentra en el km 93,914 tanto de la línea electr
 La estación de Pöchlarn (km 93,914 = km 0,000) es el punto de inicio de la línea secundaria de vía única y no electrificada desde Pöchlarn hasta Kienberg/Gaming (línea 15501 de ÖBB). 
 Lugar del descarrilamiento 
 Z 54091 
-Figura 2     Croquis de situación de la estación de Pöchlarn – Fuente: ÖBB 
-
+Figura 2     Croquis de situación de la estación de Pöchlarn – Fuente: ÖBB
 
 ## Página 6
+
 
 La gestión operativa se realiza conforme a las disposiciones y directrices de las instrucciones de servicio DV V2 y DV V3 de ÖBB, así como de las ZSB de ÖBB, y otros reglamentos de ÖBB. 
 La estación de Pöchlarn está equipada con un enclavamiento electrónico del tipo Siemens SMC 86. 
@@ -268,6 +271,7 @@ Extracto del horario impreso de ÖBB, cuaderno 101
 Figura 4     Extracto del horario impreso de ÖBB, cuaderno 101 – Fuente: ÖBB
 
 ## Página 7
+
 
 Figura 5 Extracto del horario de trenes en libro ÖBB Cuaderno 101 - Modelo 4012 - Fuente ÖBB
 La velocidad admisible según el extracto del horario de trenes en libro ÖBB Cuaderno 101, Modelo 4012 es de 100 km/h
@@ -280,8 +284,8 @@ Durante la marcha del Z 54091 se señaló:
 *   El AS „H9“ mostró „PARADA“
 La velocidad señalizada fue respetada por el Z 54091.
 
-
 ## Página 8
+
 
 ### 7. Descripción del incidente
 El Z 54091 tenía una parada programada en la estación Bf Pöchlarn durante su trayecto desde la estación Bf St. Valentin hasta la estación Bf Wien Zvbf para depositar un grupo de vagones al final del tren (ocho vagones, 501 t, 95,9 m). Por ello, para la marcha del tren se estableció una ruta de circulación apta para señales desde la vía Gl 3 de la línea 13001 hacia el tramo de vía Gleisabschnitt 309 de la estación Bf Pöchlarn.
@@ -289,8 +293,8 @@ Para la reanudación de la marcha del Z 54091 era necesario cambiar el modo de f
 Tras la recepción de los documentos del tren y la manipulación de los selectores de modo de frenado de los primeros cinco vagones, se dio al Tfzf la orden de „tirar hacia adelante“. Debido a la caída de presión en la HLL no fue posible ejecutar dicha orden. A continuación, el jefe de maniobras y otro empleado de maniobras inspeccionaron el Z 54091 y constataron el sobrepaso de topes (Überpufferung) de los vagones 15 al 18 y el descarrilamiento de los vagones 15 al 17.
 Figura 6 Croquis de situación de los vehículos implicados
 
-
 ## Página 9
+
 
 ### Vagón 14 (018-6)
 ### Dirección de marcha
@@ -312,8 +316,8 @@ Figura 7 Vista de los vagones 14 al 16 del Z 54091, mirada en dirección de marc
 ### con ambos ejes
 Figura 8 Vista de los vagones 16 al 18 del Z 54091, mirada contra la dirección de marcha
 
-
 ## Página 10
+
 
 ### 8. Personas heridas y daños materiales
 Sin daños personales
@@ -337,8 +341,8 @@ Evaluación de la documentación recibida:
 *   Documentación relativa a la medición de la rigidez torsional de un vagón de mercancías implicado en el accidente (vagón 16 21 55 443 7 035-0), recibida el 13 de julio de 2009
 *   El expediente de investigación del IM llegó el 11 de septiembre de 2009.
 
-
 ## Página 11
+
 
 ### 12. Declaraciones / Pruebas / Resultados de la evaluación
 12.1. Declaración del Tfzf Z 54091
@@ -351,8 +355,8 @@ La orden consistía en el tratamiento técnico de maniobras del Z 54091 (desacop
 (abreviada y conforme al sentido)
 La orden consistía en desacoplar los últimos ocho vagones del Z 54091. El jefe de maniobras comunicó que el Tfzf había detectado una pérdida de aire en la HLL. Al recorrer el tren de vagones, se constató un descarrilamiento y un sobrepaso de topes en los vagones 15 a 17.
 
-
 ## Página 12
+
 
 12.4. Evaluación del dispositivo registrador del Tfz
 La evaluación del dispositivo registrador del Tfz del Z 54091 (1016 010-1) fue realizada por la ÖBB Traktion GmbH y la evaluación fue puesta a disposición de la rama UUB.
@@ -364,6 +368,7 @@ La evaluación del dispositivo registrador mostró un comportamiento del Tfzf co
 
 ## Página 13
 
+
 12.5. Investigación del vehículo tractor
 La ÖBB Traktion GmbH transmitió los siguientes datos sobre el rendimiento del freno electrodinámico del vehículo tractor:
 En la posición de frenado «G», se debería haber tenido en cuenta el comportamiento de la característica de las válvulas de control. Es decir, el aumento hasta 80 kN en 15 s difiere de las especificaciones del folleto UIC 540 (el 95 % de la presión del cilindro de freno debe alcanzarse entre 18 y 30 s).
@@ -371,41 +376,52 @@ Según la base de datos de vehículos del IM, no existe ninguna indicación para
 Durante el procedimiento de homologación de esta serie de vehículos tractora, se verificó la potencia de frenado. El «Estudio técnico de frenos» correspondiente está incluido en el informe de ensayo M 1102 del 14 de diciembre de 1999 de la ÖBB Traktion – Técnica – Grupo de medición mecánica. En dicho informe no se incluyen ensayos del freno en el tipo de frenado «G+E» (no era necesario en ese momento).
 Figura 10   Placa de identificación de frenos del vehículo tractor
 
-
 ## Página 14
 
-12.6. Formación del tren
-La investigación realizada por ÖBB Infrastruktur Betrieb AG, Supervisión técnica, determinó que el estado de acoplamiento en la composición del tren cumplía con las disposiciones de la DV V3, § 16, apdo. 4 (en estado frenado, se había producido un estado de acoplamiento flojo debido a la aproximación de los vehículos entre el vehículo tractor y el segundo vagón, así como entre los dos últimos vagones).
+12.6. 
+Formación del tren 
+La inspección realizada por ÖBB Infrastruktur Betrieb AG, Supervisión Técnica, 
+determinó que el estado de enganche en la composición del tren cumplía con las disposiciones de la DV V3, § 16, 
+Abs. 4 (en el estado frenado se había producido un estado de enganche flojo entre la locomotora hasta el segundo 
+vagón y entre los dos últimos vagones debido al acoplamiento de los vehículos). 
 Vagón 42 
-sin frenar
-VT
-Vagones 6 y 7 en «P»
-Vagón 35 cargado
-Vagón
-(8) Inicio
-Vagón
-(34) Fin
-Vagones
+sin frenar 
+Locomotora 
+Vagones 6 
+ y 7 en „P“ 
+Vagón 35 cargado. 
+Vagón 
+(8) Inicio 
+Vagón 
+(34) Fin 
+Vagones 
 1 a 5  
-vagón vacío de 2 ejes.
-Vagones
+vagón de 2 ejes 
+vacío. 
+Vagones 
 41 a 48  
-vagón vacío de 2 ejes.
-36 a 40  
-en «G»
-Vagones
+vagón de 2 ejes 
+vacío. 
+36 a 40 
+en „G“ 
+Vagones 
 14 a 17 
-cargados,
-Vagón Lgss
-vacío
-Detención en est. Pöchlarn
-Figura 11   Representación esquemática de la formación del tren
-El vehículo tractor y los cinco primeros vagones del Z 54091 se encontraban, según la DV V 3, § 27, apdo. 2 (tabla), en la posición de frenado «G»; todos los demás vagones se encontraban en la posición de frenado «P».
-El 42.º vagón de la composición del tren estaba sin frenar, lo cual también figuraba en los documentos del tren. En tres vagones (después del sexto vagón), los selectores de tipo de frenado estaban en posición intermedia (no causal del accidente).
-Debido al retraso físico inherente a la actuación de los frenos neumáticos de los vagones cargados en la cola del tren (vagones 41 a 48 - distancia desde el VT > 600 m, tiempo de propagación de la HLL 2 a 3 s), estos ejercieron una fuerza en sentido longitudinal del tren sobre los vagones que ya estaban frenando.
-
+cargados, 
+Vagón Lgss 
+vacío 
+Estacionamiento en 
+est. Pöchlarn 
+Figura 11   Representación esquemática de la formación del tren 
+La locomotora y los cinco primeros vagones del Z 54091 se encontraban, según la DV V 3, 
+§ 27, párrafo 2 (tabla), en posición de frenado „G“, todos los demás vagones se encontraban en 
+posición de frenado „P“. 
+El 42.º vagón de la composición del tren estaba sin frenar, lo cual también constaba en la documentación del tren. En tres vagones (después del sexto vagón) los conmutadores de tipo de freno 
+estaban en posición central (no causal del accidente). 
+Debido a la respuesta retardada, condicionada físicamente, de los frenos neumáticos de los vagones cargados en la cola del tren (vagones 41 a 48 - distancia desde la locomotora > 600 m, tiempo de propagación de la línea principal de frenado HLL 2 a 3 s), estos generaron con un 
+peso total de 501 t y un peso de frenado de 310 t una fuerza en la dirección longitudinal del tren sobre los vagones que ya estaban frenando.
 
 ## Página 15
+
 
 12.7. Investigación de los vagones descarrilados
 Los vagones sobrepasados por los topes y descarrilados son vagones plataforma para contenedores del tipo «Lgss» de MÁV Cargo ZRt..
@@ -424,8 +440,8 @@ Investigación por ÖBB Technische Services GmbH:
 *   Los controles de seguridad realizados en el bastidor inferior y en el sistema de marcha de los vagones descarrilados mostraron desviaciones causadas por el descarrilamiento. Un soporte de juego de ruedas doblado del 16.º vagón (035-0) debe considerarse como daño consecutivo al descarrilamiento.
 En el marco de la asistencia jurídica mutua, la oficina húngara de investigación de accidentes (KBSZ – Közlekedésbiztonsági Servezet) recibió confirmación por parte de la autoridad ferroviaria húngara (Nemezeti Közlekedési Hatóság, Kiemelt Ügyek Igazgatósága – Vasúti Hatóssági Föosztály) de que durante el procedimiento de homologación de esta serie de vagones en 1997 no se realizó la demostración de la rigidez torsional de la caja del vagón «ct*» conforme a ORE B 55/Report 8.
 
-
 ## Página 16
+
 
 Figura 12   Documento de la autoridad ferroviaria húngara
 Existe una traducción al inglés.
@@ -436,8 +452,8 @@ Por lo tanto, el vehículo cumple con las disposiciones según ORE B 55/Report 8
 Generalidades:
 La vía 9 es una vía principal; en la zona del descarrilamiento están instaladas traviesas de madera. Se indicó el año de instalación como 1989. Según el informe del estado de la superestructura, no hubo hundimientos, cruces de hundimiento, levantamientos por heladas ni deformaciones de la vía.
 
-
 ## Página 17
+
 
 Tramo recto intermedio:
 ### Tramo recto intermedio
@@ -447,15 +463,15 @@ El cambio 54 (radio de 190 m) fue recorrido hacia la derecha en dirección de ma
 Las señales «ENDSIGNAL» de las zonas de velocidad reducida visibles en la figura fueron instaladas después del descarrilamiento.
 Figura 14   Extracto de B50-2 – Fuente ÖBB
 
-
 ## Página 18
+
 
 Figura 15   Extracto de tabla B50-2 – Fuente ÖBB
 La longitud del tramo recto intermedio debe ser de al menos 6 m para evitar sobrepasos de topes.
 Figura 16   Extracto del esquema de pedido de cambios – Fuente ÖBB
 
-
 ## Página 19
+
 
 ### Tramo recto intermedio
 Figura 17   Extracto del esquema de instalación del cambio 54 – Fuente ÖBB
@@ -467,8 +483,8 @@ La desviación del cambio 54 consiste en un arco de 21,025 m de longitud
 y una recta subsiguiente de 6,092 m de longitud, incluyendo un corazón recto. Por lo tanto, el tramo recto intermedio está integrado en el cambio 54.
 Figura 19   Tramo recto intermedio l = 6,092 m
 
-
 ## Página 20
+
 
 Rotura de lengüeta cambio 54
 Una rotura de lengüeta detectada en la lengüeta recorrida del cambio 54, según ÖBB DV B12, punto 5.2 y punto 5.3, fue evaluada como no causal del accidente debido a sus pequeñas dimensiones.
@@ -477,6 +493,7 @@ Figura 20   Rotura de lengüeta cambio 54
 Figura 21   Análisis del desarrollo del suceso
 
 ## Página 21
+
 
 El análisis muestra que la sobrepasada de topes entre el 15.º y el 16.º vagón, y la consiguiente separación del tren (HLL), se produjo en la zona de WE 54 = WA 55.
 ### 13. Resumen de los hallazgos
@@ -495,8 +512,8 @@ Los vehículos implicados pueden descartarse como causa del descarrilamiento deb
 13.7. Vía
 El tramo recto intermedio requerido de l ≥ 6 m según ÖBB DV B50-2 está integrado en la aguja 54.
 
-
 ## Página 22
+
 
 ### 14. Otras irregularidades no causantes del accidente
 14.1. Evaluación de los vagones con freno tipo G en la composición del tren
@@ -518,8 +535,8 @@ el frenado brusco del tren Z 54091 a una velocidad v ~ 25 km/h y
 • 
 la desfavorable disposición de los vagones (vagones portacontenedores de dos ejes vacíos en el centro del tren y vagones cargados empujando desde la cola) en una longitud de 709 m (tiempo de respuesta de los frenos en la cola del tren).
 
-
 ## Página 23
+
 
 ### 16. Informes tenidos en cuenta
 Los informes recibidos dentro del plazo establecido y su consideración están contenidos en el anexo.
@@ -533,6 +550,7 @@ Conforme a la Directiva UE 49/2004, artículo 25 - apartado 2, las recomendacion
 
 ## Página 24
 
+
 | Año en curso | Recomendaciones de seguridad (no causales del accidente) | Destinadas a |
 | :--- | :--- | :--- |
 | Número de año | | |
@@ -542,8 +560,8 @@ Conforme a la Directiva UE 49/2004, artículo 25 - apartado 2, las recomendacion
 
 La autoridad de seguridad y otras autoridades u organismos, así como, en su caso, otros Estados miembros a los que se dirigen las recomendaciones, informarán al organismo investigador al menos anualmente sobre las medidas adoptadas o previstas en respuesta a la recomendación (Directiva UE 49/2004, Artículo 25 - Apartado 3).
 
-
 ## Página 25
+
 
 Este informe de investigación se dirige a: 
 | Empresas y organismos participantes | Función |
@@ -562,20 +580,20 @@ Viena, 6 de septiembre de 2010
 El jefe de investigación: 
 Ing. Johannes Piringer [firma] 
 Anexo:  
-Observaciones recibidas dentro del plazo establecido 
-
+Observaciones recibidas dentro del plazo establecido
 
 ## Página 26
+
 
 ### Anexo Observaciones recibidas dentro del plazo establecido 
 Observación de ÖBB Infrastruktur Betrieb AG de fecha 9 de septiembre de 2009: 
 a)  
 b) 
 c) 
-d) 
-
+d)
 
 ## Página 27
+
 
 ### y su consideración 
 Las recomendaciones de seguridad están contenidas en el punto 17 con un número de año correlativo. 
@@ -585,26 +603,26 @@ Las recomendaciones de seguridad están contenidas en el punto 17 con un número
 | c) | Considerada |
 | d) | Debido a la nueva redacción de la ETI OPE a partir del 1 de enero de 2011, es necesaria la aplicación de estas recomendaciones de seguridad. |
 
-
 ## Página 28
+
 
 todavía 
 d) 
 e) 
 f) 
 Observación del BMVIT de fecha 14 de septiembre de 2009: 
-g) 
-
+g)
 
 ## Página 29
+
 
 | Letra | Anotación |
 | e) | Punto suprimido, por lo tanto considerado |
 | f) | Punto suprimido, por lo tanto considerado |
 | g) | El BMVIT ya ha iniciado una reunión de expertos sobre el tema de la dinámica de frenado de los trenes de mercancías. |
 
-
 ## Página 30
+
 
 todavía 
 g) 
@@ -613,10 +631,10 @@ i)
 j) 
 k) 
 l) 
-m) 
-
+m)
 
 ## Página 31
+
 
 | Letra | Anotación |
 | h) | Considerada |
@@ -626,8 +644,8 @@ m)
 | l) | Véase d) |
 | m) | Recomendaciones de seguridad suprimidas, por lo tanto consideradas |
 
-
 ## Página 32
+
 
 n) 
 o) 
@@ -636,10 +654,10 @@ q)
 r) 
 Observación de ÖBB Rail Cargo Austria AG de fecha 14 de septiembre de 2009: 
 s) 
-t) 
-
+t)
 
 ## Página 33
+
 
 | Letra | Anotación |
 | n) | Considerada |

@@ -12,8 +12,8 @@ tokens_in: 44671
 tokens_out: 29800
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-verificacion: revisar
-avisos: ["página 3: cifras largas: faltan 4/7 (57%)", "página 7: ratio 2.19", "página 10: ratio 1.69", "página 17: ratio 1.83", "página 19: ratio 2.01", "página 31: ratio 1.79"]
+verificacion: ok
+notas_cifras: ["página 7: original bilingüe: se compara contra el idioma principal (EN); ratio 1.90", "página 8: cifras largas: 1/10; cifras cortas: 2/36", "página 10: original bilingüe: se compara contra el idioma principal (HR)", "página 16: original bilingüe: se compara contra el idioma principal (HR)", "página 17: original bilingüe: se compara contra el idioma principal (HR); ratio 1.85", "página 19: original bilingüe: se compara contra el idioma principal (HR); ratio 1.97"]
 ---
 
 ## Página 1
@@ -57,18 +57,18 @@ El informe final no podrá utilizarse como prueba en un procedimiento judicial d
 
 ## Página 3
 
-### Prefacio  
-La Agencia de Investigación de Accidentes en el Tráfico Aéreo, Marítimo y Ferroviario (en lo sucesivo: AIN) fue creada por la Ley de Creación de la Agencia de Investigación de Accidentes en el Tráfico Aéreo, Marítimo y Ferroviario (Diario Oficial de la República de Croacia, n.º 54/13, 96/18) como persona jurídica con poderes públicos. El fundador de la Agencia es la República de Croacia, y el ejercicio de los derechos de fundación corresponde al Gobierno de la República de Croacia.  
-En el desempeño de las funciones de la Agencia se aplican las disposiciones especiales, es decir, las leyes que regulan el tráfico aéreo, la navegación marítima, así como la seguridad y la interoperabilidad del tráfico ferroviario, o las disposiciones adoptadas para su ejecución.  
-La Sección de Investigaciones de Accidentes Ferroviarios es una unidad organizativa autónoma e independiente de la AIN que realiza las tareas técnicas relacionadas con las investigaciones de incidentes extraordinarios en el tráfico ferroviario en la red ferroviaria de la República de Croacia. Las investigaciones se llevan a cabo con arreglo a las disposiciones de la Ley sobre la Seguridad y la Interoperabilidad del Sistema Ferroviario (Diario Oficial de la República de Croacia, n.º 63/20) y de la Directiva (UE) 2016/798 del Parlamento Europeo y del Consejo, de 11 de mayo de 2016, relativa a la seguridad ferroviaria (revisión), así como con arreglo a las directrices de la Agencia Ferroviaria de la Unión Europea.  
-La AIN investiga todos los accidentes ferroviarios graves, es decir, todos los incidentes que impliquen colisión de trenes o descarrilamiento de trenes que tengan como consecuencia la muerte de al menos una persona o lesiones graves de cinco o más personas, o daños importantes en el material rodante, la infraestructura ferroviaria o el medio ambiente, así como cualquier otro accidente similar con un impacto evidente en la seguridad del sistema ferroviario o en la gestión de la seguridad.  
-La AIN también puede investigar aquellos accidentes e incidentes que, bajo circunstancias ligeramente diferentes, podrían haber provocado accidentes graves, incluidas las averías técnicas de los subsistemas estructurales o de sus componentes.  
-La AIN realiza investigaciones de seguridad con el fin de prevenir accidentes, lo que incluye la recopilación y el análisis de datos, la elaboración de conclusiones, incluida la determinación de los factores y, cuando proceda, la elaboración de recomendaciones de seguridad para prevenir accidentes e incidentes en el futuro y mejorar la seguridad en el tráfico ferroviario.  
-|  | Nombre | Cargo | Fecha | Firma |
-| Elaborado por: | Ivica Majdanđić | Investigador responsable | 05.12.2022 . . . |  |
-| Revisado por: | Tomislav Antun Biber | Investigador principal | 05.12.2022 . . . |  |
-|  | Sandra Lovrić | Asesor técnico superior | 05.12.2022 . . . |  |
-| Aprobado por: | Tomislav Antun Biber | Investigador principal | 05.12.2022 . . . |  |
+### Prefacio
+La Agencia de Investigación de Accidentes del Transporte Aéreo, Marítimo y Ferroviario (en adelante: AIN) fue creada por la Ley de Creación de la Agencia de Investigación de Accidentes del Transporte Aéreo, Marítimo y Ferroviario («Narodne novine», número 54/13, 96/18) como persona jurídica con competencias públicas. El fundador de la Agencia es la República de Croacia, y los derechos de fundación los ejerce el Gobierno de la República de Croacia. En la forma de ejercicio de las funciones de la Agencia se aplican las disposiciones especiales, es decir, las leyes que regulan el transporte aéreo, la navegación marítima, y la seguridad e interoperabilidad del transporte ferroviario, así como las disposiciones adoptadas para su aplicación.
+El Departamento de Investigación de Accidentes del Transporte Ferroviario es una unidad organizativa autónoma e independiente de la AIN que desempeña las funciones profesionales relativas a la investigación de sucesos extraordinarios en el transporte ferroviario en la red ferroviaria de la República de Croacia. Las investigaciones se llevan a cabo con base en las disposiciones de la Ley sobre Seguridad e Interoperabilidad del Sistema Ferroviario («Narodne novine», número 63/20) y de la Directiva (UE) 2016/798 del Parlamento Europeo y del Consejo de 11 de mayo de 2016 sobre la seguridad ferroviaria (recodificación), y con base en las directrices de la Agencia Ferroviaria de la Unión Europea.
+La AIN investiga todos los accidentes graves en el transporte ferroviario, que son todos los sucesos que implican la colisión de trenes o el descarrilamiento de un tren que tenga como consecuencia la muerte de al menos una persona o lesiones graves de cinco o más personas, o daños importantes en los vehículos, la infraestructura ferroviaria o el medio ambiente, así como cualquier otro accidente similar con una influencia manifiesta en la seguridad del sistema ferroviario o en la gestión de la seguridad.
+La AIN puede investigar también aquellos accidentes e incidentes que, en circunstancias ligeramente diferentes, podrían haber dado lugar a accidentes graves, incluidas las averías técnicas en el funcionamiento de los subsistemas estructurales o de sus componentes.
+La AIN realiza investigaciones de seguridad con el fin de prevenir accidentes, lo que incluye la recopilación y el análisis de datos, la elaboración de conclusiones, incluida la determinación de factores y, cuando proceda, la formulación de recomendaciones de seguridad para prevenir accidentes e incidentes en el futuro y mejorar la seguridad en el transporte ferroviario.
+
+|  | Nombre | Puesto de trabajo | fecha | firma |
+| Elaboró: | IvicaMajdanđić | Investigador responsable | 05122022 . . . |  |
+| Revisaron: | TomislavAntunBiber | Investigador principal | 05122022 . . . |  |
+|  | SandraLovrić | Asesor técnico superior | 05122022 . . . |  |
+| Aprobó: | TomislavAntunBiber | Investigador principal | 05122022 . . . |  |
 
 ## Página 4
 
@@ -195,24 +195,30 @@ RECOMENDACIONES DE SEGURIDAD ...................................................
 
 ## Página 7
 
-### 1. RESUMEN 
-El 3 de diciembre de 2021 a las 18:18 horas, en el paso a nivel ferroviario-carretero (ŽCP) de Zagreb Klara «Bloque 3», activamente asegurado (luz, sonido y barrera semiparcial), en la vía de señalización M404 Zagreb Klara - Delta Rasputnica en el PK 000+910, se produjo la colisión del tren de mercancías número 81973, que circulaba por la línea Zagreb RK - Hrvatski Leskovac - Ogulin, contra dos vehículos de carretera.  
-En el accidente resultó herido de gravedad leve el conductor de uno de los vehículos de carretera, y se produjeron daños materiales considerables en los vehículos de carretera y daños materiales menores en la locomotora del tren de mercancías.  
-El factor causal del accidente en cuestión fue el paso del tren número 81973 por el paso a nivel ferroviario-carretero (ŽCP) que, en el momento del paso del tren, no estaba asegurado, y la consiguiente colisión del tren contra dos vehículos de carretera que en ese momento estaban cruzando el paso a nivel no asegurado (capítulo 3.2.1).  
-Factor contributivo:  
+### 1. Resumen 
+El 3 de diciembre de 2021 a las 18:18 horas, en el PFC Zagreb Klara "Blok 3", activamente asegurado (luz, sonido y semibarrera), en la vía de identificación M404 Zagreb Klara - Delta Rasputnica en PK 000+910, se produjo el atropello por parte del tren de mercancías número 81973, que circulaba en el recorrido Zagreb RK - Hrvatski Leskovac - Ogulin, de dos vehículos de motor.   
+En el accidente resultó levemente herido el conductor de uno de los vehículos de motor, y se produjo un daño material mayor en los vehículos de motor y un daño material menor en la locomotora del tren de mercancías.  
+El factor causal del accidente en cuestión fue el paso del tren número 81973 por el PFC, que en el momento del paso del tren no estaba asegurado, y se produjo el atropello del tren a dos vehículos de motor que en ese momento cruzaban por el PFC no asegurado (capítulo 3.2.1). 
+Factor contribuyente:  
 - 
-visibilidad reducida debido a la noche (capítulo 3.1.3).  
+visibilidad reducida debido a la noche (capítulo 3.1.3). 
 Factor sistémico:  
 - 
-avería del dispositivo de seguridad y señalización para la protección del paso a nivel ferroviario-carretero (capítulo 3.2.3), 
-(desconexión del dispositivo de seguridad del paso a nivel ferroviario-carretero antes de la llegada del tren al mismo).  
+avería del dispositivo de señalización y seguridad para la protección del paso a nivel ferroviario-carretera (capítulo 3.2.3), 
+(desconexión del dispositivo de aseguramiento del PFC antes de la llegada del tren al mismo). 
 ### Recomendaciones de seguridad 
-La Agencia para la Investigación de Accidentes en el Tráfico Aéreo, Marítimo y Ferroviario no tiene recomendaciones de seguridad relacionadas con este accidente.   
-### RESUMEN EJECUTIVO (ENGLISH) 
-El 3 de diciembre de 2021, a las 18:18 horas, en el paso a nivel ferroviario-carretero (LC) de Zagreb Klara «Bloque 3», activamente asegurado (luz, sonido y barrera semiparcial), en la vía M404 Zagreb Klara - Delta Rasputnica en el PK 000+910, el tren de mercancías número 81973 chocó contra dos vehículos de carretera mientras circulaba por la línea Zagreb RK - Hrvatski Leskovac - Ogulin. 
-En el accidente, el conductor de uno de los vehículos de carretera resultó herido de gravedad leve y se produjeron daños materiales considerables en los vehículos de carretera y daños materiales menores en la locomotora del tren de mercancías. 
-El factor causal del accidente en cuestión fue el paso del tren número 81973 por el paso a nivel (LC), que en el momento del paso del tren no estaba asegurado, y la colisión del tren contra dos vehículos de carretera que en ese momento estaban cruzando el paso a nivel no asegurado (Capítulo 3.2.1). 
-Factor contributivo:
+La Agencia de Investigación de Accidentes en el tráfico aéreo, marítimo y ferroviario no tiene recomendaciones de seguridad relacionadas con este accidente.   
+### SUMMARY 
+On December 3, 2021, at 06:18 p.m. on the LC Zagreb Klara "Block 3", actively secured (light, sound 
+and half-bumper) on the track M404 Zagreb Klara - Delta Rasputnica at KM 000+910, freight train 
+number 81973 ran into two road motor vehicles while operated on the route Zagreb RK - Hrvatski 
+Leskovac - Ogulin. 
+In the accident driver of one road motor vehicle was minor injured and there was major material 
+damage to road motor vehicles and minor material damage to the locomotive of the freight train. 
+The causal factor of the subject accident was passing of train number 81973 over the LC, which was 
+not secured at the time the train passed, and collision of the train with two road motor vehicles that 
+were crossing the unsecured LC at that moment (Chapter 3.2.1). 
+Contributing factor:
 
 ## Página 8
 
@@ -266,58 +272,52 @@ Fuentes de pruebas, información y hechos:
 ## Página 10
 
 - 
-registros de velocidad de los trenes, 
+registros de la velocidad de circulación de los trenes, 
 - 
-registros de la investigación con los participantes y testigos, 
+registros de las declaraciones de los participantes y testigos, 
 - 
-grabaciones de audio, 
+registros de audio, 
 - 
-datos del gestor de infraestructura y de las empresas de transporte ferroviario, 
+datos de los gestores de infraestructura y de los operadores ferroviarios, 
 - 
 documentación sobre los vehículos ferroviarios, 
 - 
 documentación sobre la infraestructura.  
 Técnicas de análisis: 
 - análisis temporal de los acontecimientos,  
-- análisis de los procesos de formación y enseñanza del personal operativo, 
-- análisis de los procesos de mantenimiento de la infraestructura y de los vehículos ferroviarios, 
+- análisis del proceso de formación y enseñanza de los trabajadores ejecutivos, 
+- análisis del proceso de mantenimiento de la infraestructura y de los vehículos ferroviarios, 
 - análisis del procedimiento de conducción del tren. 
-Relación de los actos jurídicos, leyes nacionales y actos sublegislativos, así como de las instrucciones internas utilizadas durante la 
-investigación del accidente mencionado: 
+Lista de actos jurídicos, leyes nacionales y actos sublegales, así como de instrucciones internas utilizados durante la investigación del accidente indicado: 
 ### a) normativa de la Unión Europea: 
 - 
-Directiva (UE) 2016/798 del Parlamento Europeo y del Consejo, de 11 de mayo de 2016, relativa a la seguridad 
-ferroviaria (reforma) (DO L 138, de 26.5.2016, p. 102), 
+Directiva (UE) 2016/798 del Parlamento Europeo y del Consejo de 11 de mayo de 2016 sobre la seguridad ferroviaria (refundición) (DO L 138 26.5.2016, 102), 
 - 
-Reglamento de Ejecución (UE) 2020/572 de la Comisión, de 24 de abril de 2020, por el que se establece la estructura de la información que debe respetarse en los informes sobre accidentes e incidentes ferroviarios (DO L 132, 
-de 27.4.2020, p. 10–18), 
+Reglamento de Ejecución de la Comisión (UE) 2020/572 de 24 de abril de 2020 sobre la estructura de notificación que debe observarse en los informes de accidentes e incidentes ferroviarios (DO L 132, 27.4.2020, 10–18), 
 - 
-Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016, relativo a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos y por el que se deroga la Directiva 95/46/CE (Reglamento General de Protección de Datos) (DO L 119, de 4.5.2016, p. 1), 
+Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo de 27 de abril de 2016 relativo a la protección de las personas físicas en lo que respecta al tratamiento de sus datos personales y a la libre circulación de dichos datos, y por el que se deroga la Directiva 95/46/CE (Reglamento general de protección de datos) (DO L 119 4.5.2016, 1), 
 - 
-Reglamento Delegado (UE) 2018/762 de la Comisión, de 8 de marzo de 2018, por el que se establecen métodos de seguridad comunes en relación con los requisitos del sistema de gestión de la seguridad en virtud de la Directiva 
-(UE) 2016/798 del Parlamento Europeo y del Consejo y por el que se derogan los Reglamentos (UE) n.º 1158/2010 y (UE) n.º 1169/2010 de la Comisión (DO L 129, de 25.5.2018, p. 26), 
+Reglamento Delegado de la Comisión (UE) 2018/762 de 8 de marzo de 2018 por el que se establecen métodos comunes de seguridad en relación con los requisitos del sistema de gestión de la seguridad en virtud de la Directiva (UE) 2016/798 del Parlamento Europeo y del Consejo y se derogan los Reglamentos de la Comisión (UE) nº 1158/2010 y (UE) nº 1169/2010 (DO L 129, 25.5.2018, 26), 
 - 
-Reglamento (UE) n.º 1169/2010 de la Comisión, de 10 de diciembre de 2010, por el que se establece un método de seguridad común para la evaluación de la conformidad con los requisitos para la obtención de la resolución de seguridad para la gestión de la infraestructura ferroviaria (DO L 327, de 11.12.2010, p. 13–25); 
-b) leyes nacionales y actos sublegislativos 
+Reglamento de la Comisión (UE) nº 1169/2010 de 10 de diciembre de 2010 sobre el método común de seguridad para la evaluación de la conformidad con los requisitos para la obtención de resoluciones de seguridad para la gestión de la infraestructura ferroviaria (DO L 327, 11.12.2010, 13–25); 
+b) leyes nacionales y actos sublegales 
 - 
-Ley sobre la seguridad y la interoperabilidad del sistema ferroviario («Narodne novine», n.º 63/20), 
+Ley sobre la seguridad y la interoperabilidad del sistema ferroviario («Narodne novine», número 63/20), 
 - 
-Reglamento sobre el modo y las condiciones para el desarrollo y la gestión seguros del tráfico ferroviario 
-(«Narodne novine», n.º 107/16),  
+Reglamento sobre el modo y las condiciones para la circulación y gestión seguras del tráfico ferroviario («Narodne novine», número 107/16),  
 - 
-Reglamento sobre las señales, las señales de tráfico y las marcas de señalización en el tráfico ferroviario 
-(«Narodne novine», n.º 94/15),  
-c) instrucciones internas de las empresas de transporte ferroviario 
+Reglamento sobre las señales, los signos de señalización y las marcas de señalización en el tráfico ferroviario («Narodne novine», número 94/15),  
+c) instrucciones internas de los operadores ferroviarios 
 - 
-Estatuto sobre la organización del sistema de gestión de la seguridad en HŽ Cargo d.o.o., 
+Reglamento sobre la organización del sistema de gestión de la seguridad en HŽ Cargo d.o.o., 
 - 
 Política de seguridad de HŽ Cargo d.o.o., 
 - 
 Plan operativo de aplicación de la política de seguridad para HŽ Cargo d.o.o., 
 - 
-Instrucción sobre los procedimientos en caso de acontecimiento extraordinario de HŽ Cargo d.o.o., 
+Instrucción sobre los procedimientos en caso de acontecimiento excepcional de HŽ Cargo d.o.o., 
 - 
-Lista de peligros y categorización de los riesgos en el tráfico de trenes de mercancías de HŽ Cargo d.o.o.,
+Lista de peligros y categorización de riesgos en la circulación de trenes de mercancías de HŽ Cargo d.o.o.,
 
 ## Página 11
 
@@ -437,10 +437,10 @@ Imagen 5. – Imagen más cercana del lugar del accidente, vista desde el lado i
 
 ## Página 17
 
-Figura 6. – Imagen más detallada del lugar del accidente, vista desde el lado derecho en dirección de circulación del tren (Fuente de la imagen: AIN)
-Según su modo de funcionamiento, se trata de un dispositivo de tipo estación, que se maneja y supervisa la integridad desde la oficina de tráfico. El dispositivo de paso a nivel está integrado en el dispositivo de señalización y seguridad de la estación y depende de la señal de entrada E, las señales de salida J12, J13, J 14, K3, K4 y la señal de protección M. Para las vías de entrada, salida y las vías de paso, el dispositivo de paso a nivel se activa mediante la configuración de la vía de circulación y se desactiva automáticamente tras el cruce de los contactos de exclusión y la salida del tramo aislado del punto de desvío número 20, o bien, del tramo de frecuencia de audio que controla el área del paso a nivel. Asimismo, el dispositivo de paso a nivel puede manejarse manualmente desde el panel de control en la oficina de tráfico. En las líneas de HŽ Infrastruktura d.o.o. se han instalado un total de 11 dispositivos de seguridad tipo KŽCP-PO-E del fabricante Končar KET. De los 11 dispositivos de seguridad mencionados, únicamente el dispositivo Klara Blok 3 se encuentra en una vía doble.
-Señales luminosas de carretera
-Las señales luminosas de carretera con campanas de alto volumen y barreras semiautomáticas sirven para advertir a los participantes en el tráfico rodado que se acerca un tren o un vehículo ferroviario al paso a nivel. La advertencia a los participantes en el tráfico rodado se realiza mediante una iluminación roja intermitente a través de dos reflectores en el panel de la señal luminosa de carretera y mediante el sonido de las campanas de alto volumen. La luz de los reflectores parpadea a un ritmo de 60 destellos por minuto. Las campanas de alto volumen de las señales de carretera se desactivan cuando las barras de las barreras semiautomáticas alcanzan la posición inferior.
+Figura 6. – Imagen detallada del lugar del accidente, vista desde el lado derecho en la dirección de circulación del tren (Fuente de la imagen: AIN)
+Según su modo de funcionamiento, se trata de un dispositivo de tipo estación que se opera y se supervisa su correcto funcionamiento desde la oficina de tráfico. El dispositivo del paso a nivel está integrado en el dispositivo de señalización y seguridad de la estación y depende de la señal de entrada E, de las señales de salida J12, J13, J 14, K3, K4 y de la señal de protección M. Para las vías de entrada, de salida y las vías de paso, el dispositivo del paso a nivel se pone en funcionamiento al establecer la vía, y se desconecta automáticamente tras el paso por encima de los contactos de corte y la salida del tramo aislado de la aguja número 20, es decir, del tramo de frecuencia de audio que controla la zona del paso a nivel. Asimismo, el dispositivo del paso a nivel también puede operarse manualmente desde la mesa de mando de la oficina de tráfico. En las vías de HŽ Infrastruktura d.o.o. se han instalado un total de 11 dispositivos de seguridad tipo KŽCP-PO-E del fabricante Končar KET. De los 11 dispositivos de seguridad mencionados, solo el dispositivo Klara Blok 3 se encuentra en una vía de doble vía.
+Señales luminosas de paso a nivel
+Las señales luminosas de paso a nivel con campanas de sonido intenso y semibarreras sirven para advertir a los participantes en el tráfico por carretera de que se aproxima al paso a nivel un tren o un vehículo ferroviario. La advertencia a los participantes en el tráfico por carretera se realiza mediante luz roja intermitente a través de dos reflectores en la placa de la señal luminosa de paso a nivel y mediante el toque de las campanas de sonido intenso. La luz de los reflectores parpadea a un ritmo de 60 destellos por minuto. Las campanas de sonido intenso de las señales de paso a nivel se desconectan cuando las barras de las semibarreras alcanzan la posición inferior.
 
 ## Página 18
 
@@ -463,39 +463,12 @@ Indicador de la posición vertical de la barrera semibarrera. Normalmente ilumin
 
 ## Página 19
 
-Indicador de la posición horizontal del semibarrera. Normalmente apagado (dispositivo del PCP desconectado del servicio y en estado correcto). Se ilumina con luz amarilla cuando las semibarreras se bajan a su posición inferior extrema (dispositivo conectado y en estado correcto). Parpadea con luz amarilla durante el descenso o elevación del mástil de la semibarrera y cuando se produce una avería en el dispositivo (posición irregular del mástil o rotura del mástil de la semibarrera).
-Indicador del bloqueo del dispositivo del paso a nivel. Normalmente apagado (dispositivo del PCP-PO
-paso a nivel desconectado del servicio y en estado correcto). Se ilumina con luz roja fija cuando el dispositivo
-PCP cuando el dispositivo PCP se activa mediante la configuración de la vía de circulación, y cuando los mástiles de las semibarreras
-se bajan a su posición inferior extrema, el desconexión del dispositivo está bloqueada, el indicador se apaga, y vuelve
-a iluminarse cuando se desbloquea la desconexión del dispositivo. Se ilumina con luz roja intermitente cuando el
-dispositivo se activa manualmente mediante los botones BZ y PCP-PO. Cuando se produce una avería en el dispositivo (fundidas ambas
-bombillas de una lámpara de la señalización vial) al conectar el indicador permanece apagado.
-Funcionamiento del dispositivo de seguridad del paso a nivel
-El dispositivo de seguridad del paso a nivel se activa mediante la configuración de la vía de circulación. En el proceso
-de configuración de la circulación, primero se activa el dispositivo del paso a nivel. Cuando el dispositivo del paso a nivel
-se activa, en las señales viales se encienden las luces rojas intermitentes y suenan las campanas de sonido fuerte.
-La activación del dispositivo se observa en el panel de control por la luz roja fija encendida en el indicador
-de activación de las señales viales y en el indicador de bloqueo del dispositivo del paso a nivel. Tras finalizar
-el tiempo de prealarma de 20 segundos, los mástiles de las semibarreras comienzan a bajar, lo que se observa parpadeando ambos
-indicadores de posición de la semibarrera con luz amarilla en el panel de control. En ese momento se encienden
-las luces rojas intermitentes en los mástiles. El descenso dura 10 segundos. Cuando los mástiles de las semibarreras alcanzan
-la posición inferior extrema, dejan de sonar las campanas de sonido fuerte, se enciende la señal de la vía de circulación configurada, y el dispositivo
-del paso a nivel se bloquea de tal manera que no es posible su desconexión manual. El indicador de bloqueo
-del dispositivo del paso a nivel se apaga entonces, y el indicador de posición horizontal de la semibarrera se ilumina
-con luz amarilla fija.
-El dispositivo de seguridad del paso a nivel se desconecta automáticamente después de que el tren supere el contacto de exclusión K2 y abandone el tramo aislado del desvío número 20. (para la vía de la línea Novska-Sisak-Zagreb GK) o
-después de que el tren supere el contacto de exclusión K1 y abandone el tramo de frecuencia audible que controla el área del
-paso a nivel (para la vía de la línea Zagreb Klara - Karlovac - Rijeka). Según la orden dada para
-desconectar el dispositivo PCP, los mástiles de las semibarreras comienzan a elevarse. El proceso de desconexión del dispositivo PCP
-se manifiesta parpadeando ambos indicadores de las semibarreras y encendiéndose el indicador de bloqueo del dispositivo PCP-
-a. Cuando los mástiles de las semibarreras alcanzan la posición superior extrema se apagan las señales viales y las luces rojas intermitentes
-en los mástiles de las semibarreras, el dispositivo PCP está desconectado. En el indicador del paso a nivel deja
-de iluminarse el indicador de activación de las señales viales, así como el indicador de bloqueo del dispositivo PCP, y el indicador
-de la posición vertical de la semibarrera se ilumina con luz amarilla fija.
-Cuando el dispositivo PCP se activa mediante la configuración de la vía de circulación, solo puede desconectarse automáticamente mediante la circulación
-del tren. Si no se va a realizar la circulación del tren, el dispositivo PCP puede desconectarse manualmente, pero tras resolver la vía
-de circulación mediante el uso del botón RV. Cuando se realizan simultáneamente dos circulaciones de trenes, el dispositivo PCP se
+Indicador de posición horizontal de la semibarrera. Normalmente no encendido, (el aparato ŽCP está fuera de servicio y en buen estado). Se enciende con luz amarilla cuando las semibarreras bajan a la posición inferior final (aparato encendido y en buen estado). Se enciende con luz amarilla intermitente durante la bajada o la subida del brazo de la semibarrera y cuando se produce una avería en el aparato (posición irregular del brazo o rotura del brazo de la semibarrera). 
+Indicador de bloqueo del aparato del paso a nivel. Normalmente no encendido (el aparato del paso a nivel ŽCP-PO está fuera de servicio y en buen estado). Se enciende con luz roja fija cuando el aparato ŽCP se enciende mediante la establecimiento de la ruta de circulación, y cuando los brazos de las semibarreras bajan a la posición inferior final, la desconexión del aparato queda bloqueada, el indicador se apaga y vuelve a encenderse cuando se desbloquea la desconexión del aparato. Se enciende con luz roja intermitente cuando el aparato se enciende manualmente con los pulsadores BZ y ŽCP-PO. Cuando se produce una avería en el aparato (ambos bombillas fundidas en un mismo foco de la señal de carretera), el indicador permanece apagado al conectarlo. 
+Funcionamiento del aparato de seguridad del paso a nivel 
+El aparato de seguridad del paso a nivel se pone en funcionamiento mediante el establecimiento de la ruta de circulación. En el proceso de establecimiento de la ruta, primero se enciende el aparato del paso a nivel. Cuando se enciende el aparato del paso a nivel, se encienden las luces rojas intermitentes en las señales de carretera y se activan las campanas de sonido fuerte. La activación del aparato se observa en la mesa de mando mediante la luz fija encendida en el indicador de activación de las señales de carretera y en el indicador de bloqueo del aparato del paso a nivel. Transcurrido el tiempo de preaviso de 20 segundos, los brazos de las semibarreras comienzan a descender, lo que se observa mediante el parpadeo de ambos indicadores de posición de las semibarreras con luz amarilla en la mesa de mando. En ese momento se encienden las luces rojas intermitentes en los brazos. La bajada dura 10 segundos. Cuando los brazos de las semibarreras alcanzan la posición inferior final, dejan de sonar las campanas de sonido fuerte, se enciende la señal de relación de la ruta establecida, y el aparato del paso a nivel se bloquea de modo que no es posible su desconexión manual. El indicador de bloqueo del aparato del paso a nivel se apaga entonces, y el indicador de posición horizontal de las semibarreras se enciende con luz amarilla fija. 
+El aparato de seguridad del paso a nivel se desconecta automáticamente después de que el tren pase el contacto de corte K2 y abandone el tramo aislado del desvío número 20 (para la vía de la línea Novska-Sisak-Zagreb GK) o después de que el tren pase el contacto de corte K1 y abandone el tramo de frecuencia de audio que controla el área del paso a nivel (para la vía de la línea Zagreb Klara - Karlovac - Rijeka). Según la orden dada para la desconexión del aparato ŽCP, los brazos de las semibarreras comienzan a subir. El proceso de desconexión del aparato ŽCP se manifiesta mediante el parpadeo de ambos indicadores de las semibarreras y la encendida del indicador de bloqueo del aparato ŽCP. Cuando los brazos de las semibarreras alcanzan la posición superior final, se apagan las señales de carretera y las luces rojas intermitentes en los brazos de las semibarreras, el aparato ŽCP queda desconectado. En el indicador del paso a nivel deja de encenderse el indicador de activación de las señales de carretera, así como el indicador de bloqueo del aparato ŽCP, y el indicador de posición vertical de las semibarreras se enciende con luz amarilla fija. 
+Cuando el aparato ŽCP se enciende mediante el establecimiento de la ruta de circulación, solo puede desconectarse automáticamente mediante la circulación del tren. Si la circulación del tren no se llevará a cabo, el aparato ŽCP puede desconectarse manualmente, pero después de la liberación de la ruta de circulación mediante el pulsador RV. Cuando se realizan simultáneamente dos circulaciones de trenes, el aparato ŽCP se
 
 ## Página 20
 
@@ -830,23 +803,40 @@ Mediante la investigación y el análisis de los hechos y hallazgos establecidos
 
 ### 4.3. Factores humanos 
 ### 4.3.1. Características humanas e individuales 
-Tras la realización del análisis de la documentación presentada por IM y RU, se evidencia que todos los participantes en el incidente extraordinario estaban capacitados desde el punto de vista de la salud y eran profesionalmente competentes para los puestos de trabajo que desempeñaban en el momento del accidente, y realizaban periódicamente la verificación periódica de conocimientos.  
-El tiempo de trabajo de todos los trabajadores de RU e IM es conforme a la normativa.  
-Se realizó la prueba de alcoholemia a los trabajadores, los resultados de la prueba de alcoholemia fueron negativos (descrito en el capítulo 3.1.9.). 
+Tras el análisis de la documentación facilitada por el IM y el RU, se observa que todos los participantes 
+en el suceso extraordinario estaban aptos médicamente y cualificados profesionalmente para los puestos 
+que desempeñaban en el momento del accidente, y realizaban periódicamente la verificación periódica de 
+conocimientos.  
+El horario laboral de todos los trabajadores del RU y del IM implicados es conforme a la normativa.  
+Se realizó la prueba de alcoholemia a los trabajadores, los resultados de la prueba de alcoholemia fueron 
+negativos (descrito en el capítulo 3.1.9.). 
 ### 4.3.2. Factores relacionados con el propio trabajo 
-Los participantes IM y RU incluidos son trabajadores experimentados que llevan muchos años desempeñando sus trabajos, y tienen desarrolladas las habilidades, conocimientos y competencias para sus puestos de trabajo. 
+Los participantes implicados del IM, así como del RU, son trabajadores experimentados que llevan ya 
+muchos años desempeñando sus tareas, y poseen habilidades, conocimientos y competencias 
+desarrollados para sus puestos de trabajo. 
 ### 4.3.3. Factores organizativos y tareas 
-Mediante la investigación y el análisis de los hechos y hallazgos establecidos, no se identificaron factores organizativos relacionados con la aparición del accidente en cuestión. 
+De la investigación y el análisis de los hechos y hallazgos constatados no se han identificado factores 
+organizativos relacionados con la ocurrencia del accidente en cuestión. 
 ### 4.3.4. Factores relacionados con el entorno  
-Mediante la investigación y el análisis de los hechos y hallazgos establecidos, no se identificaron factores relacionados con el entorno vinculados a la aparición del accidente en cuestión. 
-4.3.5. Cualquier otro factor que sea relevante para los fines de la investigación en los puntos anteriores  
-Mediante la investigación y el análisis de los hechos y hallazgos establecidos, no se identificaron otros factores relacionados con la aparición del accidente en cuestión, salvo los mencionados anteriormente. 
+De la investigación y el análisis de los hechos y hallazgos constatados no se han identificado factores 
+relacionados con el entorno en relación con la ocurrencia del accidente en cuestión. 
+4.3.5. Cualquier otro factor relevante para las necesidades de la investigación en los apartados anteriores  
+De la investigación y el análisis de los hechos y hallazgos constatados no se han identificado ningún 
+otro factor relacionado con la ocurrencia del accidente en cuestión además de los mencionados 
+anteriormente. 
 4.4. Mecanismos de retroalimentación y control, incluida la gestión de riesgos y 
 seguridad, así como los procedimientos de seguimiento 
-### 4.4.1. Condiciones pertinentes en relación con el marco regulatorio 
-Las condiciones pertinentes del marco regulatorio se establecieron en los Reglamentos de la Unión Europea: Reglamento de Ejecución (UE) n.º 402/2013, Directiva (UE) 2016/798, la legislación nacional, reglamentos y actos internos: 
-Ley sobre la seguridad e interoperabilidad del sistema ferroviario, Instrucción sobre la gestión de riesgos en caso de cambios significativos en el sistema (HŽI-684), Instrucción sobre la gestión de riesgos (HŽI-701-41), Manual sobre la organización y aplicación del sistema de gestión de la seguridad (HŽI-663), Política de seguridad de HŽ Cargo d.o.o., 
-Plan operativo de aplicación de la política de seguridad para HŽ Cargo d.o.o., Acuerdo sobre el nombramiento y el funcionamiento de las comisiones de investigación conjuntas para HŽ Cargo d.o.o., Instrucción sobre los procedimientos en caso de incidente extraordinario de HŽ Cargo d.o.o. y Lista de peligros y categorización de riesgos en la circulación de trenes de mercancías de HŽ Cargo d.o.o.
+### 4.4.1. Condiciones relevantes en cuanto al marco regulatorio 
+Las condiciones relevantes del marco regulatorio se han identificado en los Reglamentos de la Unión 
+Europea: Reglamento Delegado (UE) número 402/2013, Directiva (UE) 2016/798, leyes nacionales, 
+reglamentos y actos internos: Ley sobre seguridad e interoperabilidad del sistema ferroviario, Instrucción 
+sobre la gestión de riesgos en caso de cambios significativos en el sistema (HŽI-684), Instrucción sobre 
+la gestión de riesgos (HŽI-701-41), Manual sobre la organización y aplicación del sistema de gestión de 
+la seguridad (HŽI-663), Política de seguridad de HŽ Cargo d.o.o., Plan operativo de aplicación de la 
+política de seguridad para HŽ Cargo d.o.o., Acuerdo sobre el nombramiento y el funcionamiento de las 
+comisiones de investigación conjuntas para HŽ Cargo d.o.o., Instrucción sobre los procedimientos en 
+caso de suceso extraordinario de HŽ Cargo d.o.o. y Lista de peligros y categorización de riesgos en la 
+circulación de trenes de mercancías de HŽ Cargo d.o.o.
 
 ## Página 32
 
@@ -914,15 +904,44 @@ No tenemos más consideraciones.
 ## Página 35
 
 ### 6. RECOMENDACIONES DE SEGURIDAD
-El gestor de infraestructura, la empresa a la que se refiere la recomendación de seguridad propuesta a continuación en el documento "Borrador del informe final" - el accidente de colisión del tren número 81973 con vehículos de carretera en el paso a nivel de Zagreb Klara "Bloque 3", del 03.12.2021, presentó el 05 de diciembre de 2022 su observación sobre las medidas adoptadas en relación con la recomendación de seguridad propuesta.
-La recomendación de seguridad propuesta en el Borrador del informe final: El gestor de infraestructura debería revisar su propio sistema de gestión de la seguridad, de modo que, aplicando todos sus propios procedimientos y métodos para detectar y llevar a cabo la evaluación de riesgos, implemente medidas de seguridad para gestionar el riesgo cuando se produzcan cambios significativos en la parte de encendido/apagado de los dispositivos de seguridad de señalización para garantizar el paso a nivel.
-El gestor de infraestructura se pronunció como sigue: El sistema de gestión de la seguridad de HŽ Infrastruktura d.o.o. establece que, en caso de cambios técnicos, que incluyen cambios significativos en la parte de encendido/apagado de los dispositivos, se realice una valoración y evaluación de riesgos de la manera establecida en el Reglamento de Ejecución (UE) n.º 402/2013 de la Comisión por el que se adopta el método común de valoración y evaluación de riesgos y se deroga el Reglamento (UE) n.º 352/2009, junto con el Reglamento de Ejecución (UE) n.º 1136/2015 de la Comisión por el que se modifica el Reglamento de Ejecución (UE) n.º 402/2013 de la Comisión sobre el método común para la valoración y evaluación de riesgos.
-De este modo, la Instrucción sobre la gestión de riesgos en caso de cambios técnicos, operativos u organizativos en el sistema (Instrucción HŽI-684, Boletín Oficial de HŽI n.º 3/16 y 4/19) desarrolla en detalle la aplicación del mencionado Reglamento de Ejecución y sus modificaciones.
-Además del método común de seguridad desarrollado en detalle por la Instrucción HŽI-684, en HŽ Infrastruktura d.o.o. también se utiliza su propio método de evaluación de riesgos, establecido por la Instrucción sobre la gestión de riesgos (Instrucción HŽI-701, Boletín Oficial de HŽI n.º 7/21).
-Teniendo en cuenta todo lo anterior, HŽ Infrastruktura d.o.o. ya aplica medidas de seguridad para la gestión de riesgos cuando se producen cambios significativos en la parte de encendido/apagado de los dispositivos de seguridad de señalización para garantizar el paso a nivel, aplicando sus propios procedimientos y métodos para detectar y llevar a cabo la evaluación de riesgos, de conformidad con el mencionado Reglamento de Ejecución y las instrucciones internas.
+El gestor de la infraestructura, la sociedad a la que se refería la siguiente recomendación de seguridad propuesta
+en el documento «Borrador del informe final» – accidente del tren número 81973 con vehículos en la LC
+Zagreb Klara «Bloque 3», del 03.12.2021, remitió el día 05 de diciembre de 2022 su pronunciamiento
+sobre las medidas adoptadas en relación con la recomendación de seguridad propuesta.
+Recomendación de seguridad propuesta en el Borrador del informe final: El gestor de la infraestructura
+debería revisar su propio sistema de gestión de la seguridad, de modo que, aplicando todos sus propios
+procedimientos y métodos para la detección y la realización de la evaluación de riesgos, implemente
+medidas de seguridad para la gestión del riesgo cuando se produzcan cambios significativos en la parte
+de conmutación de los dispositivos de seguridad de señalización para la aseguración de la LC.
+El gestor de la infraestructura se pronunció como sigue: El sistema de gestión de la seguridad de HŽ
+Infrastruktura d.o.o. establece que, en caso de cambios técnicos, entre los que se incluyen los cambios
+significativos en la parte de conmutación del dispositivo, se realice una valoración y evaluación de
+riesgos de la manera prevista en el Reglamento Delegado de la Comisión 402/2013/UE por el que se
+aprueba el método común de seguridad para la valoración y evaluación de riesgos y se deroga el
+Reglamento 352/2009/UE, junto con el Reglamento Delegado de la Comisión
+1136/2015/UE de modificación del Reglamento Delegado de la Comisión 402/2013/UE sobre el método
+común de valoración y evaluación de riesgos.
+Así, en la Instrucción sobre la gestión de riesgos en caso de cambios técnicos, operativos u
+organizativos en el sistema (Instrucción HŽI-684, Boletín Oficial de HŽI n.º 3/16 y 4/19) se ha
+desarrollado detalladamente la aplicación del mencionado Reglamento Delegado y de su modificación.
+Además del método común de seguridad desarrollado detalladamente en la Instrucción HŽI-684, en HŽ
+Infrastruktura d.o.o. se utiliza también un propio método de evaluación de riesgos previsto en la
+Instrucción sobre la gestión de riesgos (Instrucción HŽI-701, Boletín Oficial de HŽI n.º 7/21).
+Atendiendo a todo lo anteriormente expuesto, HŽ infrastruktura d.o.o. ya aplica medidas de seguridad
+para la gestión del riesgo cuando se producen cambios significativos en la parte de conmutación de los
+dispositivos de seguridad de señalización para la aseguración de la LC, aplicando al mismo tiempo sus
+propios procedimientos y métodos para la detección y la realización de la evaluación de riesgos de
+conformidad con el mencionado Reglamento Delegado y las instrucciones internas.
 ### RECOMENDACIONES DE SEGURIDAD
-El gestor de infraestructura, la empresa a la que se refiere la recomendación de seguridad propuesta a continuación en el documento "Borrador del informe final" - el accidente de colisión del tren número 81973 con vehículos de carretera en el paso a nivel de Zagreb Klara "Bloque 3" del 03 de diciembre de 2021, presentó el 05 de diciembre de 2022 su observación sobre las medidas adoptadas en relación con la recomendación de seguridad propuesta.
-Recomendación de seguridad propuesta en el Borrador del informe final: El gestor de infraestructura debería revisar su propio sistema de gestión de la seguridad, de modo que, aplicando todos sus propios procedimientos y métodos para detectar y llevar a cabo la evaluación de riesgos, implemente medidas de seguridad para gestionar el riesgo cuando se produzcan cambios significativos en la parte de encendido/apagado de los dispositivos de seguridad de señalización para garantizar el paso a nivel.
+El gestor de la infraestructura, la sociedad a la que se refería la siguiente recomendación de seguridad propuesta
+en el documento «Borrador del informe final» – el accidente con la colisión del tren número 81973 con
+vehículos en la LC Zagreb Klara «Bloque 3» del 03 de diciembre de 2021,
+remitió el 05 de diciembre de 2022 su pronunciamiento sobre las medidas adoptadas en relación con la recomendación de seguridad propuesta.
+Recomendación de seguridad propuesta en el Borrador del informe final: El gestor de la infraestructura
+debería revisar su propio sistema de gestión de la seguridad, de modo que, aplicando todos sus propios
+procedimientos y métodos para la detección y la realización de la evaluación de riesgos, implemente
+medidas de seguridad para la gestión del riesgo cuando se produzcan cambios significativos en la parte
+de conmutación de los dispositivos de seguridad de señalización para la aseguración de la LC.
 
 ## Página 36
 

@@ -10,13 +10,14 @@ chars: 53593
 ratio_longitud: 1.23
 tokens_in: 32221
 tokens_out: 21459
-verificacion: revisar
-notas_cifras: ["bloque 1: original bilingüe: se compara contra el idioma principal (EN)", "bloque 2: original bilingüe: se compara contra el idioma principal (CS)", "bloque 3: cifras cortas: 6/125", "bloque 4: original bilingüe: se compara contra el idioma principal (CS)", "bloque 5: original bilingüe: se compara contra el idioma principal (CS)", "bloque 6: original bilingüe: se compara contra el idioma principal (CS)"]
-avisos: ["bloque 4: ratio 1.62", "bloque 7: ratio 1.62"]
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (PT)", "página 5: original bilingüe: se compara contra el idioma principal (CS)", "página 6: original bilingüe: se compara contra el idioma principal (PT)", "página 10: cifras cortas: 1/9", "página 11: cifras cortas: 1/13", "página 12: original bilingüe: se compara contra el idioma principal (CS); cifras cortas: 2/20"]
 ---
+
 ## Página 1
+
 
 Inspección Ferroviaria
 República Checa
@@ -42,11 +43,12 @@ NIF:   75009561
 http://www.dicr.cz
 fax: (+420) 224 805 428
 
-
 ## Página 2
 
 
+
 ## Página 3
+
 
 # RESUMEN
 Grado:
@@ -86,13 +88,13 @@ ninguna
 Recomendaciones: no emitidas
 Por la traducción al inglés es responsable: Ing. Hana Pechačová
 
-
 ## Página 4
+
 
 Este informe final es público y todos los documentos y hechos están respaldados por el expediente de investigación.
 
-
 ## Página 5
+
 
 # Índice
  Resumen .............................................................................................................................3
@@ -136,6 +138,7 @@ ambiente .......................................................................
 
 ## Página 6
 
+
 3.1 Resumen de las explicaciones facilitadas (sujeto a la protección de la identidad de las personas) ................................16
 3.1.1 Empleados del gestor de la infraestructura y del transportista, incluidas personas en relación contractual ...............................................................................................................16
 3.1.2 Otras personas .........................................................................................................17
@@ -165,8 +168,8 @@ ambiente .......................................................................
 4 Análisis y conclusiones ............................................................................................................24
 4.1 Descripción definitiva de la excepcionalidad ..........................................................................24
 
-
 ## Página 7
+
 
 4.1.1 Descripción definitiva de la excepcionalidad basada en los hechos constatados en el punto 3 ............................................................................................................................24
 4.2 Análisis ......................................................................................................................24
@@ -182,11 +185,12 @@ ambiente .......................................................................
 6 Recomendaciones de seguridad .............................................................................................27
 7 Anexos .............................................................................................................................28
 
-
 ## Página 8
 
 
+
 ## Página 9
+
 
 ## Lista de siglas y símbolos utilizados
 AB
@@ -252,6 +256,7 @@ estación de ferrocarril
 
 ## Página 10
 
+
 ## 1 RESUMEN
 Clasificación del suceso:
 accidente.
@@ -287,8 +292,8 @@ Recomendaciones de seguridad:
 Atendiendo a las causas y circunstancias del origen del suceso extraordinario
 detectadas, la Inspección Ferroviaria no emite recomendaciones de seguridad.
 
-
 ## Página 11
+
 
 ## 2 DATOS RELATIVOS AL SUCESO EXTRAORDINARIO
 ## 2.1
@@ -299,8 +304,8 @@ ferrocarril, categoría de ámbito nacional, en la línea de doble vía Beroun �
 tramo entre estaciones Zbiroh – Kařízek, en la 2.ª vía, en el pk 70,880.
 Fig. n.º 1: Tren Os 7800.
 
-
 ## Página 12
+
 
 Fig. n.º 2: Tren Pn 64710.
 ### 2.1.2 Descripción del suceso extraordinario y del lugar del accidente, incluida la actuación del sistema integrado de emergencias y del servicio de rescate
@@ -320,8 +325,8 @@ circunstancias del origen del SE de conformidad con lo dispuesto en el apartado 
 § 53b de la Ley n.º 266/1994 Sb., de ferrocarriles, en su redacción vigente, en el lugar
 del SE. La investigación fue encomendada a la Inspección Territorial de Plzeň.
 
-
 ## Página 13
+
 
 ## 2.2
 ### Circunstancias del suceso extraordinario
@@ -369,8 +374,8 @@ El equipo de señalización de línea es de
 sentidos por las vías de línea. En la est. Kařízek está instalado el equipo de señalización
 de estación de 3.ª categoría tipo ESA
 
-
 ## Página 14
+
 
 11 con mando desde el JOP.
 El día 6 de septiembre de 2011 la DI realizó la función de supervisión estatal, que se
@@ -395,6 +400,7 @@ Durante la vigencia de dicho corte se detuvo el tráfico ferroviario en la est. 
 Fig. n.º 3: Pantalla del JOP en la est. Kařízek en el momento del origen del SE.
 
 ## Página 15
+
 
 ### 2.2.6 Activación del plan para casos de incidente en la vía y secuencia de acontecimientos
 El incidente (MU) fue comunicado al despachador de explotación por el jefe de tren del tren Os 7800. El despachador de explotación cumplió las demás obligaciones de conformidad con el Calendario de notificación.
@@ -437,8 +443,8 @@ en TDV Eas 31 54 5959 778-9
 4.920 Kč;
 •
 
-
 ## Página 16
+
 
 en los equipos de infraestructura
 25.000 Kč.
@@ -477,84 +483,84 @@ tras salir de la estación de Zbiroh vio en la señal de bloque AB la señal «A
 •
 se detuvo antes de la señal de entrada a la estación de Kařízek. Tras un rato, cuando en la señal se iluminó la «Señal de llamada», puso el tren en movimiento. Tras recorrer unos 130 m sintió un fuerte golpe por detrás y el tren se detuvo debido a la pérdida de aire del tubo continuo del freno del tren.
 
-
 ## Página 17
 
-La jefa de estación de Kařízek, en el Acta con la empleada, que fue elaborada por su empleador – la sociedad České dráhy, a. s., el 31. 8. 2011, entre otras cosas, indicó:
-el dispositivo de seguridad de línea entre Zbiroh y Kařízek funcionaba normalmente;
+La jefa de estación de la estación de Kařízek en Zápis, en una declaración con un empleado, que fue elaborada por su empleador – la compañía České dráhy, a. s., el 31. 8. 2011, entre otras cosas, indicó:
+el dispositivo de enclavamiento de vía entre Zbiroh y Kařízek funcionaba normalmente;
 •
 atendió la «Señal de llamada» para la entrada del tren Pn 64710;
 •
-cuando el tren Pn 64710 ocupó el tramo tras la señal, canceló la «Señal de llamada»;
+cuando el tren Pn 64710 ocupó el tramo tras el semáforo, canceló la «Señal de llamada»;
 •
-se enteró del origen del incidente por parte del despachador.
+se enteró de la existencia del accidente ferroviario por parte del despachador.
 •
 ### 3.1.2 Otras personas
-Otras personas no participaron en el incidente.
+No participaron otras personas en el accidente ferroviario.
 ## 3.2
-### Sistema de garantía de la seguridad
-### 3.2.1 Organización marco y forma en que se dictan y ejecutan las instrucciones
-Tanto el explotador de la vía SŽDC como los transportistas ČD y ČDC disponen de sistemas de garantía de la seguridad
-adoptados
-sobre la base de las disposiciones de la Ley núm. 266/1994 Sb.,
-de ferrocarriles, en su redacción vigente, y su cumplimiento garantiza la seguridad de la explotación de las vías y del tráfico ferroviario. En los sistemas de garantía de la seguridad adoptados relacionados con las circunstancias del origen de este incidente concreto no se detectaron deficiencias.
-### 3.2.2 Requisitos para los empleados del explotador de la vía y del transportista y su aplicación
-Los requisitos para los empleados del explotador de la vía y de los transportistas, en particular los requisitos de su cualificación profesional y sanitaria, vienen determinados por la Ley núm. 266/1994 Sb.,
-de ferrocarriles, en su redacción vigente, por el decreto de ejecución núm. 101/1995 Sb., Reglamento para la cualificación sanitaria y profesional de las personas en la explotación de las vías y del tráfico ferroviario, en su redacción vigente, y por las normas internas del explotador de la vía y de los transportistas. Según los documentos aportados, los empleados de los transportistas y del explotador de la vía estaban cualificados profesional y sanitariamente para el desempeño de sus funciones el día del origen del incidente.
-### 3.2.3 Procedimiento de control interno de la seguridad y sus resultados
+### Sistema de garantía de seguridad
+### 3.2.1 Organización marco y forma en que se emiten y ejecutan las instrucciones
+Tanto el gestor de la infraestructura SŽDC como los transportistas ČD y ČDC disponen de sistemas de garantía de seguridad adoptados
+en virtud de las disposiciones de la Ley n.º 266/1994 Sb.,
+de ferrocarriles, en su versión vigente, y su cumplimiento garantiza la seguridad de la explotación de las vías férreas y del transporte ferroviario. En los sistemas de garantía de seguridad adoptados relacionados con las circunstancias de la aparición de este accidente ferroviario concreto no se detectaron deficiencias.
+### 3.2.2 Requisitos para los empleados del gestor de la infraestructura y del transportista y su aplicación
+Los requisitos para los empleados del gestor de la infraestructura y de los transportistas, en particular los requisitos de idoneidad profesional y sanitaria, vienen determinados por la Ley n.º 266/1994 Sb.,
+de ferrocarriles, en su versión vigente, por el reglamento de desarrollo n.º 101/1995 Sb., Reglamento sobre la idoneidad sanitaria y profesional de las personas para la explotación de las vías férreas y del transporte ferroviario, en su versión vigente
+y por las normas internas del gestor de la infraestructura y de los transportistas. Según los documentos aportados, los empleados de los transportistas y del gestor de la infraestructura eran profesional y sanitariamente idóneos para el desempeño de sus funciones el día en que se produjo el accidente ferroviario.
+### 3.2.3 Procedimiento de control interno de seguridad y sus resultados
 La última revisión de la actividad del maquinista del tren Os 7800, centrada en el cumplimiento de las normas internas del transportista en el desempeño de la función de maquinista, fue realizada por el transportista ČD de conformidad con los procedimientos tecnológicos uniformes del transportista el 3. 5. 2011.
 No se detectaron deficiencias.
 La última revisión de la actividad del maquinista del tren Pn 64710, centrada en el cumplimiento de las normas internas del transportista en el desempeño de la función de maquinista, fue realizada por el transportista ČDC de conformidad con los procedimientos tecnológicos uniformes del transportista el 22. 7. 2011.
 No se detectaron deficiencias.
-La última revisión de la actividad de la jefa de estación de Kařízek, centrada en el cumplimiento de las normas internas del explotador de la vía en el desempeño de la función de jefa de estación, fue realizada por el explotador de la vía de conformidad con los procedimientos tecnológicos uniformes del transportista el 24. 7. 2011.
+La última revisión de la actividad de la jefa de estación de la estación de Kařízek, centrada en el cumplimiento de las normas internas del gestor de la infraestructura en el desempeño de la función de jefa de estación, fue realizada por el gestor de la infraestructura de conformidad con los procedimientos tecnológicos uniformes del transportista el 24. 7. 2011.
 No se detectaron deficiencias.
 
 ## Página 18
 
-### 3.2.4 Interfaz entre los distintos sujetos participantes y los componentes de la vía férrea
-La interfaz entre los sujetos participantes y los componentes de la vía férrea se establece
-conforme a la Ley n.º 266/1994 Sb., de ferrocarriles, en su versión vigente, de la siguiente manera:
-El propietario y explotador de la vía férrea de categoría nacional, Beroun –
-Plzeň, es la Administración de la Infraestructura Ferroviaria (Správa železniční dopravní cesty), organización estatal, con domicilio en Dlážděná 1003/7,
+### 3.2.4 Interfaz entre los distintos sujetos participantes y los componentes de la vía de tráfico
+La interfaz entre los sujetos participantes y los componentes de la vía de tráfico se establece
+conforme a la Ley núm. 266/1994 Sb., de ferrocarriles, en su redacción vigente, de la siguiente manera:
+El propietario y operador de la vía ferroviaria, categoría de ámbito nacional, Beroun –
+Plzeň, es Správa železniční dopravní cesty, organización estatal, con domicilio en Dlážděná 1003/7,
 Praha 1-Nové Město, en virtud de la Autorización Administrativa expedida por la Autoridad Ferroviaria de Praga
-el 29. 5. 2008, con n.º de expediente: 3-277/07-DÚ/Le-DÚ/O-Sl, n.º de registro: ÚP/2008/9002.
-La explotación de los dispositivos de la infraestructura ferroviaria, la organización del transporte ferroviario, la dirección
-y la organización del transporte ferroviario las realizan empleados de los Ferrocarriles Checos, a. s., y ello en virtud
-del contrato «CONTRATO DE EXPLOTACIÓN DE LA VÍA FÉRREA», celebrado entre la Administración de la Infraestructura Ferroviaria,
-organización estatal, y los Ferrocarriles Checos, a. s., el 30. 6. 2008,
-con efectos desde el 1. 7. 2008.
-El transportista Ferrocarriles Checos, a. s., con domicilio en Nábřeží L. Svobody 1222 Praha 1,
+el 29. 5. 2008, bajo el n.º de expediente: 3-277/07-DÚ/Le-DÚ/O-Sl, n.º de registro ÚP/2008/9002.
+La operación de las instalaciones de la vía de tráfico ferroviario, la organización del tráfico ferroviario, la dirección
+y la organización del tráfico ferroviario las realizan empleados de České dráhy, a. s., y ello en virtud
+del contrato «CONTRATO DE OPERACIÓN DE LA VÍA», celebrado entre Správa železniční dopravní
+cesty, organización estatal, y České dráhy, a. s., el 30. 6. 2008, con efectos a partir del
+1. 7. 2008.
+El transportista České dráhy, a. s., con domicilio en Nábřeží L. Svobody 1222 Praha 1,
 CP 110 15, en virtud de la Licencia de transportista concedida por la Autoridad Ferroviaria de Praga el
-17. 9. 2003, con n.º de expediente: 3-2169/03-DÚ/Bp, n.º de registro: L/2004/9000 y del contrato «CONTRATO n.º
-001/05 de acceso a la infraestructura ferroviaria de la vía férrea nacional y de las vías férreas regionales
-en propiedad del Estado», en la redacción de los adendas n.º 1 a 6 en su versión vigente, celebrado entre las partes
-contratantes, SŽDC y ČD, el 31. 10. 2005, y «CONTRATO n.º 001/08 de explotación del transporte ferroviario
-en la infraestructura ferroviaria de la vía férrea nacional y de las vías férreas regionales en propiedad
-de la República Checa», en la redacción del adenda n.º 1 en su versión vigente, celebrado entre las partes
-contratantes, SŽDC y ČD el 1. 7. 2008, con vigencia desde el 1. 7. 2008.
+17. 9. 2003, bajo el n.º de expediente: 3-2169/03-DÚ/Bp, n.º de registro: L/2004/9000 y del contrato «CONTRATO n.º
+001/05 de acceso a la vía de tráfico ferroviaria de la vía de ámbito nacional y de las vías regionales en
+propiedad del Estado», en la redacción de los adendas n.º 1 a 6 en vigor, celebrado entre las partes
+contratantes, SŽDC y ČD, el 31. 10. 2005 y «CONTRATO n.º 001/08 de explotación del tráfico
+ferroviario en la vía de tráfico ferroviaria de la vía de ámbito nacional y de las vías regionales en
+propiedad de la República Checa», en la redacción del adenda n.º 1 en vigor, celebrado entre las partes
+contratantes, SŽDC y ČD el 1. 7. 2008, con vigencia a partir del 1. 7. 2008.
 El transportista ČD Cargo, a. s., con domicilio en Jankovcova 1569/2c, Praha 7-Holešovice, en
-virtud de la Licencia de transportista concedida por la Autoridad Ferroviaria de Praga el 20. 11. 2007, con n.º de expediente:
-3-841/07-DÚ/Le, n.º de registro: L/1996/5000, la Resolución de modificación de licencia expedida por la Autoridad Ferroviaria
-de Praga el 5. 8. 2008, con n.º de expediente: 3-2935/08-DÚ/Le, n.º de registro: L/2008/1452-1, y el 27. 8. 2008, con n.º de expediente: 3-3186/08-DÚ/Le, n.º de registro: L/2008/1452-2, y del contrato «CONTRATO
-de explotación del transporte ferroviario en la vía férrea nacional y en las vías férreas regionales en propiedad
-de los Ferrocarriles Checos, a. s.». El contrato se celebra por duración indefinida, con vigencia desde el 10. 3. 2009
+virtud de la Licencia de transportista concedida por la Autoridad Ferroviaria de Praga el 20. 11. 2007, bajo el n.º de expediente:
+3-841/07-DÚ/Le, n.º de registro: L/1996/5000, Resolución de modificación de licencia expedida por la Autoridad Ferroviaria
+de Praga el 5. 8. 2008, bajo el n.º de expediente: 3-2935/08-DÚ/Le, n.º de registro: L/2008/1452-1, y el 27. 8. 2008, bajo el n.º de expediente: 3-3186/08-DÚ/Le, n.º de registro: L/2008/1452-2, y del contrato «CONTRATO
+de explotación del tráfico ferroviario en la vía de ámbito nacional y en las vías regionales en propiedad de
+České dráhy, a. s.». El contrato se celebra por duración indefinida, con vigencia a partir del 10. 3. 2009
 y efectos desde la fecha de firma, 10. 3. 2009.
 ## 3.3
 ### Regulación jurídica y de otro tipo
-### 3.3.1 Normativa comunitaria y nacional aplicable
-En la investigación del accidente ferroviario se constató el incumplimiento de las siguientes disposiciones legales:
-§ 35 apartado 1 letra a) de la Ley n.º 266/1994 Sb., de ferrocarriles, en su versión vigente: «El transportista
+### 3.3.1 Normativa jurídica comunitaria y nacional aplicable
+En la investigación del SU se constató el incumplimiento de las siguientes normas jurídicas:
+§ 35 apartado 1 letra a) de la Ley núm. 266/1994 Sb., de ferrocarriles, en su redacción vigente, «El transportista
 •
-está obligado a explotar el transporte ferroviario de acuerdo con las reglas de explotación del transporte ferroviario,
-la licencia vigente y el contrato celebrado con el explotador de la vía férrea sobre la explotación del transporte ferroviario
-en la vía férrea.»;
-§ 35 apartado 1 letra f) del Decreto n.º 173/1995 Sb., por el que se aprueba el Reglamento de Circulación Ferroviaria,
+está obligado a explotar el tráfico ferroviario conforme a las reglas de explotación del tráfico ferroviario,
+la licencia vigente y el contrato celebrado con el operador de la vía sobre la explotación del tráfico
+ferroviario en la vía.»;
+§ 35 apartado 1 letra f) del Decreto núm. 173/1995 Sb., por el que se aprueba el Reglamento de
 •
-en su versión vigente: «Para la conducción de un vehículo ferroviario debe garantizarse que la persona que conduce
-el vehículo ferroviario, desde la cabina de mando del vehículo ferroviario, observe la vía y actúe de acuerdo con los hechos constatados.»;
-
+circulación ferroviaria, en su redacción vigente, «Para la conducción de un vehículo ferroviario debe garantizarse que la persona
+que conduce el vehículo ferroviario desde el vehículo ferroviario de cabeza observe la vía y actúe conforme a los hechos
+constatados.»;
 
 ## Página 19
+
 
 punto 1.1. del anexo n.º 1 del Decreto n.º 173/1995 Sb., por el que se aprueba el Reglamento de Circulación Ferroviaria,
 •
@@ -607,6 +613,7 @@ semáforos fijos y la luz del repetidor de señal, así como la secuencia correc
 
 ## Página 20
 
+
 ## 3.4
 ### Funcionamiento del material rodante y de las instalaciones técnicas
 ### 3.4.1 Sistema de conducción, señalización y seguridad, incluidos los dispositivos de registro automático de datos
@@ -629,23 +636,31 @@ a partir de una velocidad de 81 km. h-1, a la hora 5:08:52 h se inició un frena
 •
 La parte locomotora del protector de tren estaba en funcionamiento y transmitía correctamente las señales al HDV. El botón de control de vigilia era accionado por el maquinista en intervalos regulares.
 
-
 ## Página 21
 
-Fig. n.º 4: Registro del velocímetro de la locomotora del tren Os 7800.
-El HDV 363.041-5 contaba con un Certificado de aptitud del material rodante n.º de ev. PZ 5916/01-V.03, expedido por la Autoridad Ferroviaria el 5. 4. 2001. La última revisión técnica periódica antes de la ocurrencia de la MU fue realizada el 13. 6. 2011, de conformidad con el § 44 apart. 1 de la Ley n.º 266/1994 Sb., de ferrocarriles, en su versión vigente, y con los anexos n.º 5 y 6 del decreto n.º 173/1995 Sb., por el que se dicta el reglamento de circulación ferroviaria, en su versión vigente. La vigencia de la revisión técnica era hasta el 13. 12. 2011. El día de la ocurrencia de la MU, este HDV era apto para la explotación.
-El HDV estaba equipado, en el momento de la ocurrencia de la MU, con un velocímetro electrónico de la marca METRA LT. De los datos registrados del recorrido del tren Pn 64710 entre la est. Zbiroh y la est. Kařízek se desprende:
+Obra n.º 4: Registro del registrador de velocidad de la locomotora del tren Os 7800.
+El HDV 363.041-5 contaba con un Certificado de aptitud del vehículo ferroviario ev. n.º PZ 5916/01-
+V.03, expedido por la Autoridad Ferroviaria el 5. 4. 2001. La última revisión técnica periódica antes del
+ocurrido del MU se realizó, de conformidad con el § 44 apart. 1 de la Ley n.º 266/1994 Sb., de ferrocarriles, en su
+redacción vigente, y con los anexos n.º 5 y 6 del decreto n.º 173/1995 Sb., por el que se aprueba el Reglamento de
+circulación ferroviaria, en su redacción vigente, el 13. 6. 2011. La vigencia de la revisión técnica era hasta el 13. 12.
+2011. El día del ocurrido del MU, este HDV era apto para la explotación.
+El HDV estaba equipado, en el momento del ocurrido del MU, con un registrador de velocidad electrónico marca METRA LT.
+De los datos registrados del recorrido del tren Pn 64710 entre la est. Zbiroh y la est. Kařízek se desprende:
 el tren comenzó a salir de la est. Zbiroh a las 5:00:59 h;
 •
-en una distancia de 1066 m el tren alcanzó una velocidad de 44 km.h-1, que mantuvo durante una distancia de 123 m;
+en un tramo de 1066 m el tren alcanzó una velocidad de 44 km.h-1, que mantuvo en un tramo de 123 m;
 •
-a continuación se produjo una circulación por inercia y un frenado de servicio, y la detención antes de la señal de entrada 2L de la est. Kařízek a la hora 5:06:51 h;
+a continuación siguió la marcha por inercia y el frenado de servicio y la detención antes de la
 •
-a la hora 5:07:27 h el tren comenzó a salir desde la señal de entrada 2L de la est. Kařízek, alcanzó una velocidad de 23 km. h-1 y a la hora 5:09:02 h se produjo el impacto del tren Os 7800 en el final del tren Pn 64710;
+señal de entrada 2L de la est. Kařízek a la hora 5:06:51 h;
+a la hora 5:07:27 h el tren comenzó a salir desde la señal de entrada 2L de la est. Kařízek,
 •
-
+alcanzó una velocidad de 23 km. h-1 y a la hora 5:09:02 h se produjo el choque del tren Os 7800 contra
+el final del tren Pn 64710;
 
 ## Página 22
+
 
 el tren, como consecuencia de la fuga de aire del conducto continuo del freno de aire, se detuvo a la hora
 •
@@ -669,6 +684,7 @@ el maquinista del tren Pn 64710 estaba de turno desde las 19:45 horas del día 3
 •
 
 ## Página 23
+
 
 jefe de estación de la est. Kařízek estaba de turno desde las 17:52 horas del día 30. 8. 2011, el descanso antes del
 •
@@ -704,27 +720,46 @@ Suceso ferroviario del día 6. 10. 2011 entre la est. Kostomlaty nad Labem y Nym
 •
 hl. n. – no respeto de la indicación «Alto» de la señal de bloqueo AB por parte del maquinista del
 
-
 ## Página 24
 
-tren Vn 56071 y colisión con el tren Pn 66421, que se encontraba detenido antes de la señal de entrada de la est.
+Vn 56071 y la colisión con el tren Pn 66421, que estaba detenido delante de la señal de entrada de la est. 
 Nymburk hl. n.
 ## 4 ANÁLISIS Y CONCLUSIONES
 ## 4.1
 ### Descripción final del suceso ferroviario
-### 4.1.1 Descripción final del suceso ferroviario basada en los hechos constatados
+### 4.1.1 Descripción final del suceso ferroviario basada en los hechos constatados 
 en el punto 3
-El tren Pn 64710 partió de la est. Zbiroh por la 2ª vía de circulación hacia la est. Kařízek. Tras liberarse el primer bloqueo de circulación, partió de la est. Zbiroh el tren Os 7800 con la indicación «40 km.h-1 y aviso». El tren Pn 64710 se detuvo ante la señal de entrada 2L de la est. Kařízek en posición «Alto». La única vía de estación 4ª transitable en la est. Kařízek estaba ocupada por el tren Služ 78302, preparado para salir tras la finalización de los trabajos de vía. Tras la salida del tren Služ 78302 de la est. Kařízek, la jefa de estación preparó la ruta ferroviaria para el tren Pn 64710 y atendió la «Señal de llamada» en la señal de entrada 2L. El maquinista del tren Os 7800 no respetó la indicación «Alto» en la señal de bloqueo AB 2-699 (preseñal de la señal de entrada 2L), no se detuvo ante esta señal en posición «Alto» y entró en el bloqueo de circulación ocupado, donde chocó contra la parte trasera del tren Pn 64710, que estaba entrando en la est. Kařízek. Como consecuencia de la colisión se produjeron daños en la HDV del tren de pasajeros, el descarrilamiento y los daños en los vagones del tren de mercancías, incluidos los daños en la carga transportada.
+El tren Pn 64710 salió de la est. Zbiroh por la 2ª vía de circulación hacia la est. Kařízek. Una vez 
+liberado el primer tramo de vía, salió de la est. Zbiroh el tren Os 7800 con la señal «40 km.h-1 y 
+aviso». El tren Pn 64710 se detuvo delante de la señal de entrada 2L de la est. Kařízek en posición 
+«Alto». La única vía de estación 4ª transitable de la est. Kařízek estaba ocupada por el tren Služ 
+78302, preparado para salir tras la finalización de los trabajos de vía. Tras la salida del tren Služ 
+78302 de la est. Kařízek, la jefa de estación preparó la ruta ferroviaria para el tren Pn 64710 y 
+operó la «Señal de llamada» en la señal de entrada 2L. El maquinista del tren Os 7800 no respetó 
+la señal «Alto» de la señal de sección AB 2-699 (señal previa de la señal de entrada 2L), no se 
+detuvo ante dicha señal en posición «Alto» y entró en el tramo de vía ocupado, donde chocó con la 
+parte trasera del tren Pn 64710, que estaba entrando en la est. Kařízek. Como consecuencia de la 
+colisión se produjo daños en la HDV del tren de pasajeros, el descarrilamiento y los daños en los 
+vagones del tren de mercancías, incluidos los daños en la carga transportada.
 ## 4.2
 ### Análisis
-### 4.2.1 Evaluación de los hechos constatados según el punto 3 y exposición de las conclusiones sobre la causa del suceso ferroviario y la actuación de los servicios de emergencia
-De las declaraciones presentadas por los empleados implicados, del análisis de los registros de los dispositivos de registro de ambas locomotoras y del registro de la actuación del dispositivo de seguridad se desprende:
-El maquinista del tren Os 7800 partió de la est. Zbiroh con la indicación «40 km.h-1 y aviso» de la señal de salida L1.
-Tras abandonar el extremo de la est. Zbiroh, el maquinista del Os 7800 divisó la indicación «Alto» de la señal de bloqueo AB 2-699 y a continuación la indicación «Señal de llamada» en la señal de entrada 2L hacia la est. Kařízek.
-El protector automático de tren estaba en funcionamiento y transmitía correctamente a la locomotora del tren Os 7800 la indicación «Alto» de la señal de bloqueo AB 2-699, hacia la cual se aproximaba el tren. El maquinista accionaba regularmente el botón de vigilancia del protector automático de tren.
-
+### 4.2.1 Evaluación de los hechos constatados según el punto 3 y exposición de las 
+conclusiones sobre la causa del suceso ferroviario y la actuación de los servicios de rescate
+De las explicaciones aportadas por los empleados implicados, del análisis de los registros de los 
+dispositivos de registro de ambas locomotoras y del registro del funcionamiento del dispositivo de 
+seguridad se desprende:
+El maquinista del tren Os 7800 salió de la est. Zbiroh con la señal «40 km.h-1 y aviso» de la 
+señal de salida L1.
+Tras abandonar el extremo de la est. Zbiroh, el maquinista del Os 7800 divisó la señal «Alto» de 
+la señal de sección AB 2-699 y después la «Señal de llamada» en la señal de entrada 2L hacia la 
+est. Kařízek.
+El protector automático de tren estaba en funcionamiento y transmitía correctamente a la 
+locomotora del tren Os 7800 la señal «Alto» de la señal de sección AB 2-699, hacia la que se 
+acercaba el tren. El maquinista accionaba regularmente el botón de vigilancia del protector 
+automático de tren.
 
 ## Página 25
+
 
 El maquinista del tren Os 7800 no adaptó la forma de circular al hecho de que se estaba aproximando
 a una señal de bloqueo en posición «Alto».
@@ -748,8 +783,8 @@ No fueron constatadas por la DI.
 ### 4.4.1 Deficiencias y omisiones constatadas durante la investigación de las causas y circunstancias de la producción del suceso ferroviario, que sin embargo no son relevantes para las conclusiones sobre las causas
 No se constataron deficiencias.
 
-
 ## Página 26
+
 
 ## 5 MEDIDAS ADOPTADAS
 ## 5.1
@@ -763,8 +798,8 @@ discusión de las circunstancias y causas de la producción del SU en la formaci
 •
 de DKV Plzeň.
 
-
 ## Página 27
+
 
 ## 6 RECOMENDACIONES DE SEGURIDAD
 Atendiendo a las causas y circunstancias constatadas de la producción del suceso ferroviario, la Inspección Ferroviaria no emite recomendaciones de seguridad.
@@ -776,8 +811,8 @@ Director
 De la Inspección Territorial de Plzeň
 De la Inspección Territorial de Plzeň
 
-
 ## Página 28
+
 
 ## 7 ANEXOS
 Sin anexos.

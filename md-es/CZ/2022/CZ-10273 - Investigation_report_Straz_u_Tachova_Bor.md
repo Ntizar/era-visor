@@ -10,13 +10,14 @@ chars: 91597
 ratio_longitud: 1.25
 tokens_in: 47979
 tokens_out: 32935
-verificacion: revisar
-notas_cifras: ["bloque 1: original bilingüe: se compara contra el idioma principal (EN)", "bloque 3: cifras cortas: 13/201", "bloque 4: original bilingüe: se compara contra el idioma principal (CS)", "bloque 5: cifras cortas: 3/103", "bloque 7: original bilingüe: se compara contra el idioma principal (CS)"]
-avisos: ["bloque 4: ratio 1.66", "bloque 7: ratio 1.73"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 3: original bilingüe: se compara contra el idioma principal (CS)", "página 5: original bilingüe: se compara contra el idioma principal (CS)", "página 6: original bilingüe: se compara contra el idioma principal (CS)", "página 8: original bilingüe: se compara contra el idioma principal (CS)", "página 9: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -43,13 +44,13 @@ IČ: 75009561
 mail@dicr.cz
 tel.: +420 736 521 003
 
-
 ## Página 2
+
 
 Este informe final es público y todos los hechos en él expuestos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ### 1 RESUMEN
 Fuente: Drážní inspekce
@@ -80,8 +81,8 @@ No fue detectado por la Drážní inspekce ningún factor contribuyente.
 No fue detectada por la Drážní inspekce ninguna causa sistémica.
 No fue emitida por la Drážní inspekce ninguna recomendación de seguridad.
 
-
 ## Página 4
+
 
 ### SUMMARY
 24th July 2022, 15:51 (13:51 GMT).
@@ -114,8 +115,8 @@ Contributing factor: none.
 Systemic factor: none.
 Recommendation: not issued.
 
-
 ## Página 5
+
 
 # Índice
 1 RESUMEN........................................................................................................................3
@@ -157,8 +158,8 @@ SUMMARY.........................................................................
 4.2 Vehículos ferroviarios e instalaciones técnicas...........................................30
 4.2.1 Factores o consecuencias derivados del diseño de los vehículos ferroviarios, de la infraestructura ferroviaria o de las instalaciones técnicas.....................................................................30
 
-
 ## Página 6
+
 
 4.2.2 Factores o consecuencias derivados de la instalación y la puesta en servicio de los vehículos ferroviarios, de la infraestructura ferroviaria o de las instalaciones técnicas......................................30
 4.2.3 Factores o consecuencias relacionados con los fabricantes de vehículos ferroviarios u otros proveedores de productos ferroviarios............................................................................30
@@ -188,6 +189,7 @@ SUMMARY.........................................................................
 6 RECOMENDACIONES DE SEGURIDAD.....................................................................................36
 
 ## Página 7
+
 
 ### Lista de abreviaturas y símbolos utilizados
 COP
@@ -241,8 +243,8 @@ paso a nivel
 žst.
 estación de ferrocarril
 
-
 ## Página 8
+
 
 ### Lista de abreviaturas de la legislación, normas y normativa interna utilizadas
 ley núm. 266/1994 Sb.
@@ -287,44 +289,42 @@ aplicación para la línea D3 Bělá nad Radbuzou – Tachov», en la
 redacción vigente en el momento de la ocurrencia de la ocurrencia
 extraordinaria
 
-
 ## Página 9
 
-### 2 INVESTIGACIÓN Y SUS RELACIONES
-### 2.1 Decisión sobre el inicio de la investigación
-La DI decidió iniciar la investigación de la MU en cuestión el 24. 7. 2022.
-### 2.2 Fundamentación de la decisión sobre el inicio de la investigación
-La DI decidió investigar la MU en cuestión sobre la base de su gravedad, su repetitividad, los impactos de la ocurrencia extraordinaria sobre la explotación segura del ferrocarril y del transporte ferroviario y la facultad derivada de la disposición § 53b de la ley núm. 266/1994 Sb.
+### 2 INVESTIGACIÓN Y SUS CONTEXTO
+### 2.1 Decisión de iniciar la investigación
+El DI decidió iniciar la investigación de la MU en cuestión el 24 de 7 de 2022.
+### 2.2 Fundamentación de la decisión de iniciar la investigación
+El DI decidió investigar la MU en cuestión sobre la base de su gravedad, de su repetitividad, de los impactos del suceso excepcional en la explotación segura de la vía y del transporte ferroviario, y de la facultad derivada de la disposición § 53b de la Ley núm. 266/1994 Sb.
 ### 2.3 Alcance y limitaciones de la investigación, incluida la fundamentación correspondiente
-La DI no se encontró, en el marco de la investigación de la MU en cuestión, con limitaciones que influyeran negativamente en el modo y los procedimientos de la investigación.
+El DI no se encontró, en el marco de la investigación de la MU en cuestión, con limitaciones que influyeran negativamente en el modo y los procedimientos de la investigación.
 ### 2.4 Descripción resumida de las capacidades y funciones técnicas del equipo de investigación
-Investigación de la DI en el lugar de la MU:
-1x inspector de la ÚI Čechy, centro de trabajo Plzeň.
-Formación del equipo de investigación:
-no fue necesario formarlo.
+Investigación del DI en el lugar de la MU:
+1x inspector de la ÚI Čechy, centro de trabajo de Plzeň.
+Constitución del equipo de investigación:
+no fue necesario constituirlo.
 Colaboración externa:
 no se utilizó.
-2.5 Comunicación y consultas durante la investigación con personas o entidades
+2.5 Comunicación y consultas durante la investigación con las personas o entidades
 que participaron en el suceso en cuestión
-Al investigar las causas y circunstancias de la ocurrencia de la MU, la DI se basó principalmente en sus propios conocimientos, hallazgos y en su propia documentación fotográfica. Durante la investigación, la DI solicitó la documentación necesaria al explotador ferroviario, al transportista y a la PČR.
-La investigación de las causas y circunstancias de la ocurrencia de la MU se realizó de acuerdo con la ley núm. 266/1994 Sb.
-y el decreto núm. 376/2006 Sb.
+Al investigar las causas y circunstancias de la aparición de la MU, el DI se basó principalmente en sus propios conocimientos, hallazgos y en su propia documentación fotográfica. Durante la investigación, el DI solicitó la documentación necesaria al explotador de la vía, al transportista y a la PČR.
+La investigación de las causas y circunstancias de la aparición de la MU se realizó de acuerdo con la Ley núm. 266/1994 Sb. y con la Ordenanza núm. 376/2006 Sb.
 ### 2.6 Descripción del nivel de colaboración ofrecido por las entidades participantes
 El nivel de colaboración con los representantes de las entidades participantes en la MU fue estándar.
-### 2.7 Descripción de la investigación, los métodos y las técnicas utilizados para acreditar los hechos
-y los hallazgos consignados en el informe
-En el marco de la investigación de la MU, la DI procedió de la siguiente manera, es decir, utilizó, entre otros, los siguientes métodos y técnicas:
+### 2.7 Descripción de la investigación, los métodos y las técnicas empleados para acreditar los hechos
+y los hallazgos expuestos en el informe
+En el marco de la investigación de la MU, el DI procedió de la siguiente manera, es decir, utilizó, entre otros, los siguientes métodos y técnicas:
 •
-inspección del lugar de la MU, incluidos los DV participantes, las instalaciones técnicas y la infraestructura del ferrocarril;
+inspección del lugar de la MU, incluidos los DV participantes, las instalaciones técnicas y la infraestructura de la vía;
 •
-medición de las condiciones de visibilidad en el ŽP;
+medición de las condiciones de visibilidad en la ŽP;
 •
 recomprobación del funcionamiento correcto del PZZ;
 •
-verificación tanto de la posibilidad de deslumbramiento del conductor del OA por el sol al circular hacia el ŽP como de la posible influencia – reducción en la percepción de la señal luminosa de aviso en las cajas luminosas de los semáforos;
-
+verificación tanto de la posibilidad de que el conductor del OA sea deslumbrado por el sol al circular hacia la ŽP, como de una posible influencia – reducción en la percepción de la señal luminosa en las cajas luminosas de los avisadores;
 
 ## Página 10
+
 
 •
 análisis de los datos registrados por el registrador de velocidad del HDV participante;
@@ -360,8 +360,8 @@ Coordenadas GPS:
 ### 3.1.3 Descripción del lugar del suceso
 El paso a nivel P751 de vía única se encuentra en el ferrocarril regional en el km 56,357 de la línea de vía única Domažlice – Planá u Mariánských Lázní entre la estación de maniobras D3 Stráž u Tachova y la est. Bor. En el tramo de línea Bělá nad Radbuzou – Tachov, es decir, incluido el tramo de bloque adyacente estación de maniobras D3 Stráž u Tachova – est. Bor, el transporte ferroviario se organiza mediante la denominada gestión simplificada del transporte ferroviario. El paso a nivel permite el cruce del ferrocarril con la carretera de II clase núm. 605 en el término municipal de Bor. El propietario de la vía terrestre adyacente – la carretera de II clase – es la Región de Plzeň.
 
-
 ## Página 11
+
 
 De la inspección del lugar de la MU se constató:
 ## est. Bor
@@ -389,8 +389,8 @@ la zona para pasajeros del HDV, incluidos los asientos, no presentaba signos de 
 el ŘV 914.051-8 se descarriló con ambos bogies a la derecha en el sentido de circulación del tren:
 ◦el bogie trasero del ŘV se encontraba en el km 56,430 – la rueda derecha estaba sobre el lecho de balasto a una distancia de 0,45 m del carril derecho, la rueda izquierda estaba dentro de los carriles (véase fig. 2);
 
-
 ## Página 12
+
 
 Fig. 2: Posición del bogie trasero del ŘV 914.051-8
         Fuente: DI
@@ -404,8 +404,8 @@ las pastillas de freno en todos los ejes estaban correctamente fijadas y asegura
 •
 el grosor de las pastillas de freno era de 50 – 65 mm;
 
-
 ## Página 13
+
 
 •
 en el ŘV 914.051-8 se encontraron daños en: el arado, incluida la cubierta del arado en el lado izquierdo y derecho del DV, la caja del grupo de calefacción, la calefacción, el aire acondicionado de la cabina del maquinista con todos sus componentes, el bogie delantero y el trasero, los largueros y travesaños de la caja del DV, el fuelle intermedio, los cables eléctricos entre el ŘV y el HDV;
@@ -438,21 +438,21 @@ en las caras traseras de las cajas luminosas de los semáforos se encontraban ad
 •
 las cruces de advertencia se encontraban en los mástiles de los semáforos antes del ŽP en la vía terrestre en el sentido de circulación del OA a la derecha a una distancia de 5,30 m y a la izquierda 5,30 m del eje de la vía, en el lado opuesto de la vía terrestre a la derecha 7,10 m y a la izquierda 6,30 m del eje de la vía;
 
-
 ## Página 14
 
-Fig. 4: Vista de los semáforos en el sentido de circulación del OA
+Fig. n.º 4: Vista de las señales de advertencia en el sentido de circulación del OA
        Fuente: DI
 •
-en el sentido de circulación del OA se encontraban antes del ŽP, a la derecha y a la izquierda en la vía terrestre, señales verticales A 31a «Placa de señalización» (240 m) complementada con la señal A 30 «Paso a nivel sin barreras», A 31b «Placa de señalización» (160 m) y A 31c «Placa de señalización» (80 m);
+en el sentido de circulación del OA, antes de la señal de protección (ŽP) se situaban a derecha e izquierda en la vía pública señales verticales de tráfico A 31a «Placa indicadora» (240 m), complementada con la señal de tráfico A 30 «Paso a nivel sin barreras», A 31b «Placa indicadora» (160 m) y A 31c «Placa indicadora» (80 m);
 •
-la cruz de advertencia y las cajas luminosas de los semáforos a la derecha y a la izquierda en la vía terrestre eran visibles desde el sentido de circulación del OA a una distancia superior a 100 m;
+la cruz de advertencia y las cajas luminosas de las señales de advertencia a derecha e izquierda en la vía pública eran visibles desde el sentido de circulación del OA a una distancia superior a 100 m;
 •
-la longitud de visibilidad para el vehículo rodado más lento Lp en el caso de avería o desconexión del PZZ se midió, en el sentido de circulación del OA y de circulación del tren Os 7214, superior a 200 m (véase fig. 5);
-Fig. 5: Longitud de visibilidad Lp en el sentido de circulación del OA y del tren Os 7214
+la longitud de visibilidad para el vehículo rodado más lento Lp en caso de avería o desconexión del PZZ era, en el sentido de circulación del OA y de circulación del tren Os 7214, medida superior a 200 m (véase la fig. n.º 5);
+Fig. n.º 5: Longitud de visibilidad Lp en el sentido de circulación del OA y del tren Os 7214
        Fuente: DI
 
 ## Página 15
+
 
 •
 en el entorno del PCT no se encontraba vegetación ni obstáculos en el campo visual;
@@ -491,8 +491,8 @@ inmediatamente después de la producción del MU, se descargaron los datos del d
 •
 el 25 de julio de 2022, la Inspección Ferroviaria realizó la verificación de la visibilidad de las cruces de aviso, de las cajas luminosas de los avisadores y de la señalización del PZZ en la misma hora y en las mismas condiciones meteorológicas y de iluminación que las existentes en el momento de la producción del MU. El resultado fue la medición de distancias de visibilidad idénticas de las cruces de aviso y de las cajas luminosas de los avisadores a las medidas en el momento de la inspección del lugar del MU tras su producción el 24 de julio de 2022.
 
-
 ## Página 16
+
 
 La señalización del PZZ, emitida mediante dos luces rojas intermitentes alternas, era visible y fiablemente reconocible desde una distancia de 40 m, es decir, la longitud de visión requerida para las cruces de aviso o, en su caso, para las cajas luminosas de los avisadores, en las carreteras – vías de carretera (véase la fig. n.º 6).
 Fig. n.º 6: Visibilidad de la señalización del PZZ desde una distancia de 40 m        Fuente: DI
@@ -504,33 +504,32 @@ Fig. n.º 7: Posición del OA tras la producción del MU
 •
 en el MU, el OA chocó contra la parte frontal izquierda del tren Os 7214. El impacto lo hizo girar unos 210° y lo lanzó contra el avisador «C»;
 
-
 ## Página 17
 
 •
-el OA, en su posición final tras el MU, se encontraba en el lado izquierdo de la carretera con la parte trasera a una distancia de 3,05 m del carril izquierdo en el sentido de marcha del tren (véase la fig. n.º 7).
+El OA se encontraba en la posición final tras el MU en el lado izquierdo de la vía pública, con la parte trasera a una distancia de 3,05 m del borde izquierdo de la banda de carriles en el sentido de circulación del tren (véase fig. n.º 7).
 Condiciones meteorológicas:
 parcialmente nublado, +28 °C, visibilidad no reducida.
 Datos geográficos:
-casco urbano del municipio de Bor, lugar del MU en un tramo de línea discurrido en línea recta a la altura del terreno circundante.
-La Inspección Ferroviaria comprobó la posibilidad de que el sol deslumbrara al conductor del OA. Durante todo el trayecto por la carretera, los rayos solares procedían del lado derecho hacia el conductor del OA con un ángulo de unos 55° (véase la fig. n.º 8). Sin embargo, su intensidad no era tal que pudiera causar tanto un efecto deslumbrante para el conductor del OA como una influencia –una reducción– en la percepción de la señalización luminosa en las cajas luminosas de los avisadores.
-## Sentido de marcha del OA
-Fig. n.º 8: Posición del sol en el momento de la producción del MU
+núcleo urbano de la localidad de Bor, lugar del MU en un tramo de vía discurrido en línea recta a la altura del terreno circundante.
+La Inspección Ferroviaria comprobó la posibilidad de que el conductor del OA quedara deslumbrado por el sol. Durante todo el trayecto por la vía pública, los rayos solares llegaban desde el lado derecho hacia el conductor del OA con un ángulo de aproximadamente 55° (véase fig. n.º 8). Sin embargo, su intensidad no era tal que pudiera provocar tanto un efecto deslumbrante para el conductor del OA como una influencia –una reducción– en la percepción de la señalización luminosa de las cajas de señal de los señales de advertencia.
+## Sentido de circulación del OA
+Fig. n.º 8: Posición del sol en el momento de producirse el MU
  Fuente: www.suncalc.
  org
  con modificación de la DI
-En el lugar del MU no se realizaron, inmediatamente antes de su producción, por parte del propietario, del gestor de la vía ni de otros sujetos, obras de reparación o de mantenimiento. La circulación en el lugar del MU y su entorno se desarrollaba en régimen normal.
-### 3.1.4 Fallecimientos, lesiones y daños materiales
+En el lugar del MU no se realizaron, inmediatamente antes de su producción, trabajos de reparación o mantenimiento por parte del propietario, del gestor de la vía ni de otros sujetos. La circulación en el lugar del MU y sus alrededores se desarrollaba en régimen normal.
+### 3.1.4 Fallecidos, heridos y daños materiales
 En el MU se produjo:
 •
 el fallecimiento de la acompañante en el OA;
 •
-daños a la salud del jefe de servicio del tren (en adelante, jefe de tren) del tren Os 7214;
+lesiones en la salud del jefe de servicio del tren (en adelante, conductor) del tren Os 7214;
 •
-daños a la salud del conductor del OA.
-
+lesiones en la salud del conductor del OA.
 
 ## Página 18
+
 
 El gestor de la vía y el transportista cuantificaron los daños en:
 •
@@ -572,8 +571,8 @@ El propietario de la vía ferroviaria, categoría regional, Domažlice – Plan�
 El gestor de la vía ferroviaria, categoría regional, Domažlice – Planá u Mariánských Lázní, era SŽ.
 El transportista del tren Os 7214 era ČD, con domicilio en Nábřeží L. Svobody 1222, Praha 1, PSČ 110 15.
 
-
 ## Página 19
+
 
 El transporte ferroviario se explotaba en virtud de un contrato celebrado entre el gestor de la vía SŽ y el transportista ČD el 20 de enero de 2020, con efectos desde el 23 de enero de 2020.
 ### 3.1.7 Descripción de los vehículos ferroviarios y sus composiciones, incluidos los números de registro
@@ -611,8 +610,8 @@ paso del tren Os 7214 por la parada a demanda Bor zastávka;
 15:49:57 h – en un tramo de 877 m, aumento progresivo de la velocidad de 37 km·h-1 a
 •
 
-
 ## Página 20
+
 
 60 km·h-1;
 15:51:09 h – en un tramo de 1199 m, marcha a velocidad constante de 59 km·h-1 – 60 km·h-1,
@@ -646,21 +645,46 @@ Las cruces de aviso y las cajas luminosas de los avisadores del PZZ en el sentid
 
 ## Página 21
 
-En el tramo de la línea Bělá nad Radbuzou – Tachov, es decir, incluida la sección espacial adyacente de la estación de tráfico D3 Stráž u Tachova – žst. Bor, el tráfico ferroviario se organiza de acuerdo con el § 19 del decreto n.º 173/1995 Sb., el llamado control simplificado del tráfico ferroviario. Las reglas para la organización del control simplificado y la garantía de la seguridad del tráfico ferroviario las establece la normativa interna del operador de la infraestructura SŽDC D3 y, además, la normativa interna del operador de la infraestructura PND3 Bělá nad Radbuzou – Tachov. La sede del jefe de maniobras (dirigující dispečer) se encuentra en la žst. Bor.
-La línea Bělá nad Radbuzou – Tachov no está equipada con la sección de línea del bloqueo automático de trenes. La sección espacial adyacente en el sentido de circulación del tren Os 7214 no está equipada con instalación de bloqueo de línea.
-El paso a nivel (ŽP) P751 está protegido por una señalización luminosa de paso a nivel (PZZ) de categoría PZS 3SBL, tipo AŽD 71, sin barras de cierre, con señal positiva, y está equipado con un dispositivo de registro. La PZZ tiene instalada tecnología con transmisión de información sobre su estado a los semáforos de paso a nivel, concretamente en el sentido de circulación DV desde la estación de tráfico D3 Stráž u Tachova hacia el semáforo de paso a nivel principal X-559 en el pk 55,945. La PZZ, en el sentido desde la estación de tráfico D3 Stráž u Tachova, es decir, en el sentido de circulación del tren Os 7214, se activa automáticamente con la circulación del tren al ocupar el tramo de aproximación mediante la activación del sensor del contador de ejes PB1 situado en el pk 55,767 de la línea Bělá nad Radbuzou – Tachov.
-La PZZ del paso a nivel (ŽP) P751 dispone de un Certificado de idoneidad del dispositivo técnico designado – instalación de bloqueo, cuyos circuitos eléctricos cumplen la función de garantía directa de la seguridad del tráfico ferroviario, n.º de registro: PZ 12079/96-E.49, emitido por el DÚ el 16. 12. 1996, con vigencia por tiempo indefinido.
-La última revisión de la instalación eléctrica se realizó, con base en el Informe de revisión periódica de la instalación eléctrica n.º 47-20-MP, el 3. 9. 2020, con la conclusión: «La instalación no presenta defectos que supongan una amenaza inmediata y, cumpliendo los requisitos del fabricante y los requisitos de la norma ČSN, es operativamente idónea desde el punto de vista de la seguridad en el sentido del decreto n.º 100/1995 Sb.»
-La última inspección y prueba de la UTZ se realizó, con base en el Acta de inspección y prueba de la UTZ, cuyos circuitos eléctricos cumplen la función de garantía directa de la seguridad del tráfico ferroviario, n.º 995/2021-LP, el 20. 8. 2021, con la conclusión: «La instalación de bloqueo inspeccionada y reprobada indicada en esta acta sigue cumpliendo la función de garantía directa de la seguridad del tráfico ferroviario y es operativamente idónea.»
-La última inspección integral de la instalación de señalización y bloqueo de la PZZ se realizó, con base en el Acta de la inspección integral, el 12. 9. 2021, con la conclusión: «El estado general de la instalación es bueno, el mantenimiento se realiza en ciclos periódicos y, desde el punto de vista de la seguridad, es operativamente idónea.»
-La última inspección y mantenimiento periódico de la PZZ según el plan de mantenimiento aprobado se realizó el 11. 7. 2022, con la conclusión: «Instalación reprobada, en orden.»
-Del análisis del archivo de datos descargado del dispositivo de registro de la PZZ se constató:
-15:50:50 h – ocupación del tramo de vía 1J mediante la activación del sensor del contador de ejes PB1 en el pk 55,767 con la circulación del tren Os 7214 – inicio de la alerta de la PZZ;
-15:50:51 h – encendido de la señal «Paso a nivel cerrado» en el semáforo de paso a nivel principal X-559;
-15:51:25 h – ocupación del tramo de vía 2J mediante la activación del sensor del contador de ejes PB2 en el pk 56,343 con la circulación del tren Os 7214 – 14 m antes del paso a nivel (ŽP), es decir, el punto de colisión del tren Os 7214 con el OA;
-
+En el tramo de la línea Bělá nad Radbuzou – Tachov, es decir, incluida la sección espacial adyacente
+del punto de tráfico D3 Stráž u Tachova – est. Bor, el tráfico ferroviario se organiza de acuerdo con el § 19 del decreto
+n.º 173/1995 Sb., mediante la denominada gestión simplificada del tráfico ferroviario. Las reglas para organizar
+la gestión simplificada y garantizar la seguridad del tráfico ferroviario las establece la normativa interna
+del operador de la infraestructura SŽDC D3 y, además, la normativa interna del operador de la infraestructura PND3 Bělá nad
+Radbuzou – Tachov. La sede del despachador director se encuentra en la est. Bor.
+La línea Bělá nad Radbuzou – Tachov no está equipada con la sección de línea del
+dispositivo de seguridad de trenes. La sección espacial adyacente en el sentido de circulación del tren Os 7214 no está equipada
+con dispositivo de seguridad de línea.
+El paso a nivel P751 está protegido por una barrera automática luminosa de categoría PZS 3SBL, tipo AŽD 71, sin barras de cierre,
+con señal positiva y está equipado con un dispositivo de registro. La barrera automática tiene instalada
+una tecnología con transmisión de información sobre su estado a los pasos a nivel, concretamente
+en el sentido de circulación DV desde el punto de tráfico D3 Stráž u Tachova hacia el paso a nivel principal X-559 en el km 55,945.
+La barrera automática en el sentido desde el punto de tráfico D3 Stráž u Tachova, es decir, en el sentido de circulación del tren Os 7214, se activa
+automáticamente con la circulación del tren al ocupar el tramo de aproximación mediante la activación del sensor del
+contador de ejes PB1 situado en el km 55,767 de la línea Bělá nad Radbuzou – Tachov.
+La barrera automática del paso a nivel P751 dispone del Certificado de idoneidad del dispositivo técnico designado –
+dispositivo de seguridad, cuyos circuitos eléctricos cumplen la función de garantizar directamente la seguridad
+del tráfico ferroviario, n.º de expediente: PZ 12079/96-E.49, emitido por el DÚ el 16. 12. 1996, con vigencia por tiempo indefinido.
+La última revisión del equipo eléctrico se realizó, con base en el Informe de revisión periódica del equipo eléctrico
+n.º 47-20-MP, el 3. 9. 2020, con la conclusión: «El equipo no presenta defectos que supongan una amenaza inmediata y, siempre que se cumplan los requisitos del fabricante y los requisitos de la norma ČSN, es operativamente idóneo desde el punto de vista de la seguridad en el sentido del decreto n.º 100/1995 Sb.»
+La última inspección y prueba del UTZ se realizó, con base en el Acta de inspección y prueba del UTZ, cuyos
+circuitos eléctricos cumplen la función de garantizar directamente la seguridad del tráfico ferroviario, n.º 995/2021-LP, el 20. 8. 2021, con la conclusión: «El dispositivo de seguridad inspeccionado y reprobado
+indicado en la presente acta sigue cumpliendo la función de garantizar directamente la seguridad del tráfico ferroviario
+y es operativamente idóneo.»
+La última inspección integral de los equipos de señalización y seguridad de la barrera automática se realizó, con base en
+el Acta de inspección integral, el 12. 9. 2021, con la conclusión: «El estado general del equipo es
+bueno, el mantenimiento se realiza en ciclos periódicos y, desde el punto de vista de la seguridad, es operativamente idóneo.»
+La última inspección y mantenimiento periódico de la barrera automática de acuerdo con el plan de mantenimiento aprobado se realizó el
+11. 7. 2022, con la conclusión: «Equipo reprobado, en buen estado.»
+Del análisis del archivo de datos descargado del dispositivo de registro de la barrera automática se constató:
+15:50:50 h – ocupación de la sección de vía 1J mediante la activación del sensor del contador de ejes PB1
+en el km 55,767 con la circulación del tren Os 7214 – inicio de la alerta de la barrera automática;
+15:50:51 h – encendido de la señal «Paso a nivel cerrado» en el paso a nivel principal X-559;
+15:51:25 h – ocupación de la sección de vía 2J mediante la activación del sensor del contador de ejes PB2
+en el km 56,343 con la circulación del tren Os 7214 – 14 m antes del paso a nivel, es decir, el lugar de colisión
+del tren Os 7214 con el OA;
 
 ## Página 22
+
 
 15:51:29 h – indicación del estado de emergencia de la PZZ causado por el daño en el balizamiento como consecuencia de la colisión del tren Os 7214 con el OA;
 15:54:04 h –
@@ -687,35 +711,35 @@ maquinista del tren Os 7214
 maquinista del tren Os 7214
   – Registro oficial de la explicación aportada a la PČR:
 
-
 ## Página 23
 
-◦el 24. 7. 2022 incorporó al turno a las 9 h en la žst. Domažlice, donde durante toda la mañana realizó maniobras con el material rodante (HDV);
-◦a partir de las 13. h recibió de un compañero una unidad automotriz compuesta por 914.051-8 y 814.051-9, que ya estaba en servicio desde la mañana;
-◦realizó una comprobación sencilla de la unidad automotriz, es decir, una inspección visual, una comprobación del sistema de frenos y de las presiones, en la que no detectó ningún defecto;
-◦la estación de origen del tren Os 7214 era la žst. Bělá nad Radbuzou, con salida a las 15:20 h;
-◦incorporó al trabajo descansado, no estaba cansado ni bajo los efectos del alcohol ni de otras sustancias, no tenía ninguna limitación sanitaria ni de otro tipo;
-◦la circulación transcurrió de forma habitual, sin incidencias;
-◦en la ruta transportan habitualmente hasta diez pasajeros, el domingo se produjo una situación excepcional y transportaron alrededor de 25 pasajeros;
-◦se trata de una línea regional (nota del DI: línea Domažlice – Planá u Mariánských Lázní) con una velocidad máxima permitida de 60 km·h-1, conoce muy bien la línea, circula por ella al menos una vez por semana;
-◦a unos pocos cientos de metros antes del paso a nivel (nota del DI: ŽP P751) se encuentra el llamado semáforo de paso a nivel, que señala el correcto funcionamiento de la PZZ;
-◦es información para él, como maquinista, de que el paso a nivel está en orden y es funcional;
-◦este semáforo brillaba en color blanco, lo que significa que el paso a nivel está en orden; si hubiera una avería en el paso a nivel, la luz del semáforo no brillaría;
-◦antes de llegar al paso a nivel (ŽP) P751, vio y oyó que la PZZ estaba en funcionamiento;
-◦a la izquierda en el sentido de circulación vio un vehículo automotor que frenaba y que en esencia ya circulaba a paso de peatón – el conductor reaccionaba a la alerta y detenía el vehículo; a la derecha no vio ningún vehículo;
-◦continuó a la velocidad prescrita y a continuación notó a la izquierda un vehículo verde que adelantaba al vehículo que circulaba lentamente;
+◦el 24. 7. 2022 se incorporó al turno a las 9 h en la est. Domažlice, donde durante toda la mañana realizó maniobras de HDV;
+◦a partir de las 13 h recibió de un colega la unidad diésel compuesta por 914.051-8 y 814.051-9, que ya estaba en servicio desde la mañana;
+◦realizó una comprobación sencilla de la unidad diésel, es decir, una inspección exterior, una comprobación del sistema de frenos y de las presiones, en la que no detectó ningún defecto;
+◦la estación de origen del tren Os 7214 era la est. Bělá nad Radbuzou, con salida a las 15:20 h;
+◦acudió al trabajo descansado, no estaba cansado ni bajo la influencia del alcohol ni de otras sustancias, no tenía ninguna limitación sanitaria ni de otro tipo;
+◦la circulación se desarrolló de forma normal, sin incidencias;
+◦en la línea suelen transportar hasta diez pasajeros, el domingo se produjo una situación excepcional y transportaron en torno a 25 pasajeros;
+◦se trata de una línea regional (nota DI: línea Domažlice – Planá u Mariánských Lázní) con una velocidad máxima permitida de 60 km·h-1, conoce muy bien la línea, circula por ella al menos una vez por semana;
+◦a unos cientos de metros antes de la ŽP (nota DI: ŽP P751) se encuentra el llamado semáforo de paso a nivel, que señala el correcto funcionamiento del PZZ;
+◦esta es una información para él, como maquinista, de que la ŽP está en orden y es funcional;
+◦este semáforo estaba encendido en color blanco, lo que significa que la ŽP está en orden; si hubiera una avería en la ŽP, la luz del semáforo no estaría encendida;
+◦antes de llegar a la ŽP P751, vio y oyó que el PZZ estaba en funcionamiento;
+◦a la izquierda en el sentido de circulación vio un vehículo diésel que estaba frenando y que en realidad ya circulaba a paso de peatón: el conductor reaccionó a la advertencia y detenía el vehículo; a la derecha no vio ningún vehículo;
+◦continuó a la velocidad prescrita y después notó a la izquierda un vehículo verde que adelantaba al vehículo que circulaba lentamente;
 ◦el vehículo verde cruzó completamente al carril en sentido contrario;
-◦todo sucedió en cuestión de unos pocos segundos, solo alcanzó a usar la bocina y activar el freno de emergencia, que se acciona con la mano derecha;
-◦el conductor del vehículo verde no frenó en absoluto y no reaccionó a la alerta;
-◦el vehículo impactó en la parte frontal izquierda de la unidad automotriz, que tras el impacto descarriló;
-◦se agarró al asidero para no caerse, y aproximadamente a los 200 m del impacto el tren se detuvo;
-◦tras la detención del tren, llamó al despachador de la žst. Bor y comunicó el suceso;
-◦a continuación, comprobó el estado de los pasajeros y les preguntó si estaban heridos;
-◦la prueba de alcoholemia realizada por la PČR le dio negativa y no sufrió ninguna lesión.
-Resumen de las explicaciones aportadas por otras personas y testigos:
+◦todo sucedió en unos pocos segundos, solo le dio tiempo a usar el claxon y activar el freno rápido, que se acciona con la mano derecha;
+◦el conductor del vehículo verde no frenó en absoluto y no reaccionó a la advertencia;
+◦el vehículo impactó en la parte delantera izquierda de la unidad diésel, que tras el impacto descarriló;
+◦se agarró al asidero para no caer y aproximadamente a 200 m del impacto el tren se detuvo;
+◦tras la detención del tren llamó al despachador de la est. Bor y comunicó el hecho;
+◦a continuación comprobó el estado de los pasajeros y les preguntó si estaban heridos;
+◦la prueba de alcohol, realizada por la PČR, dio negativo y no sufrió ninguna lesión.
 
+Resumen de las explicaciones presentadas por las demás personas y testigos:
 
 ## Página 24
+
 
 •
 conductor del automóvil implicado en la MU
@@ -754,75 +778,75 @@ jefe de tren del tren Os 7214
 ## Página 25
 
 ◦se ocupó de los pasajeros durante todo el tiempo;
-◦en el MU sufrió lesiones, pero no graves;
+◦en la colisión ferroviaria sufrió lesiones, pero no graves;
 •
-testigo, conductor del VU que se aproximaba al
- PPE
- – Registro oficial de la declaración prestada ante la Policía Nacional:
-◦el 24 de julio de 2022 viajaba con su esposa desde la localidad de Přimda hasta la localidad de Kdyně;
+testigo, conductor del vehículo de carretera que se aproximaba a
+ el PdP
+   – Registro oficial de la declaración prestada ante la Policía Nacional:
+◦el 24 de julio de 2022 viajaba junto con su esposa desde la localidad de Přimda hasta la localidad de Kdyně;
 ◦estaba descansado, no sentía ninguna fatiga y se encontraba bien;
-◦hacía buen tiempo, la visibilidad era buena, brillaba el sol, pero no deslumbraba;
-◦conducía su vehículo, del que era el conductor, y su esposa iba sentada en el asiento del copiloto;
-◦alrededor de las 16 h pasaban por la localidad de Bor, circulaban por la carretera terrestre principal;
-◦su vehículo estaba equipado con un sistema de cámara con grabación para su propio uso;
-◦atravesó la localidad de Bor sin problemas, al final de la localidad hay un PPE;
-◦ya desde la distancia vio que parpadeaban luces rojas, por lo que sacó marcha y fue frenando lentamente hacia el PPE;
+◦estaba despejado, la visibilidad era buena, brillaba el sol, pero no deslumbraba;
+◦conducía su vehículo, del cual era el conductor, y su esposa se sentaba en el asiento del copiloto;
+◦alrededor de las 16:00 h pasaban por la localidad de Bor, circulaban por la carretera terrestre principal;
+◦el vehículo estaba equipado con un sistema de cámara con grabación para su propio uso;
+◦atravesó la localidad de Bor sin problemas, al final de la localidad hay un PdP;
+◦ya desde la distancia vio que parpadeaban luces rojas, por lo que sacó el acelerador y frenó lentamente hacia el PdP;
 ◦vio las luces rojas a una distancia de aproximadamente 300 m;
-◦periféricamente notó que detrás de él se detenía un vehículo de color negro;
-◦al acercarse al PPE, también escuchaba un sonido – el clásico tintineo y, además, brillaban las luces rojas;
-◦a continuación, todo sucedió muy rápidamente, de pronto lo adelantó un vehículo verde y, en un instante, chocó con el tren que pasaba, giró y chocó con un poste;
+◦de reflejo notó que detrás de él se había detenido un vehículo de color negro;
+◦al acercarse al PdP, también escuchaba un sonido – el tintineo clásico – y además brillaban las luces rojas;
+◦a continuación todo sucedió muy rápidamente, de pronto un vehículo verde lo adelantó y en un instante chocó contra el tren que pasaba, giró y chocó contra el poste;
 ◦inmediatamente se dirigió al vehículo, en el que vio a una persona atrapada, y quiso prestar primeros auxilios;
-◦por casualidad, había una patrulla de la Policía Nacional cerca y, en pocos minutos, llegó también el servicio de ambulancias y los bomberos.
+◦por casualidad había cerca una patrulla de la Policía Nacional y en unos minutos llegó también el servicio de emergencias y los bomberos.
 ### 3.2 Descripción fáctica del suceso
-### 3.2.1 Secuencia de hechos que condujeron al suceso extraordinario
-El 24 de julio de 2022 a las 15:43 h llegó el tren Os 7214 (unidad automotora compuesta por ŘV 914.051-8 y HDV 814.051-9) a la estación de servicio D3 Stráž u Tachova, donde para este tren se impone la obligación de dar parte según el horario tabulado. Según la conversación registrada en el dispositivo de registro ReDat3, el maquinista, de conformidad con el art. 260 y el art. 264 de la normativa interna del operador ferroviario SŽDC D3, comunicó a la despachadora directora de la estación de Bor la hora de llegada a la estación de servicio D3 Stráž u Tachova y, al mismo tiempo, solicitó la autorización para la salida del tren Os 7214 de dicha estación de servicio hacia la estación de Bor. La despachadora directora, inmediatamente después, concedió al maquinista la autorización para la salida del tren Os 7214 hacia la estación de Bor.
-Tras la salida de la estación de servicio D3 Stráž u Tachova, el maquinista, según su declaración, no registró ninguna anomalía durante la marcha hacia el PPE P751; en el semáforo principal de paso a nivel X-559 lucía la señal «Paso a nivel cerrado» y continuó la marcha a la velocidad prescrita.
+### 3.2.1 Secuencia de hechos que condujeron al suceso ferroviario
+El 24 de julio de 2022 a las 15:43 h llegó el tren Os 7214 (unidad motorizada compuesta por ŘV 914.051-8 y HDV 814.051-9) a la estación de servicio D3 Stráž u Tachova, donde para este tren está establecida la obligación de anuncio mediante el horario tabular. Según la conversación registrada en el dispositivo de registro ReDat3, el maquinista, de conformidad con el art. 260 y el art. 264 de la normativa interna del operador ferroviario SŽDC D3, comunicó a la despachadora directora de la estación de Bor la hora de llegada a la estación de servicio D3 Stráž u Tachova y simultáneamente solicitó el permiso de salida del tren Os 7214 de dicha estación de servicio hacia la estación de Bor. La despachadora directora, inmediatamente después, concedió al maquinista el permiso de salida del tren Os 7214 hacia la estación de Bor.
+Tras la salida de la estación de servicio D3 Stráž u Tachova, el maquinista, según su declaración, no registró ninguna anomalía durante la marcha hacia el PdP P751; en el semáforo de paso a nivel principal X-559 lucía la señal «Paso a nivel cerrado» y continuó la marcha a la velocidad prescrita.
 Según el análisis de los datos registrados, el maquinista
- operaba regularmente el freno automático de tren y no se superó la velocidad máxima permitida (60 km·h-1) del tren Os 7214.
+ operaba regularmente el freno automático de tren y la velocidad máxima permitida (60 km·h-1) del tren Os 7214 no fue superada.
 
 ## Página 26
 
-El maquinista, según su declaración, vislumbró a la izquierda un VU que se aproximaba al PPE P751 y frenaba. A la derecha del PPE no vio ningún vehículo. A continuación, a la izquierda, observó un VU de color verde, cuyo conductor adelantaba a otro VU que ya se estaba deteniendo delante del PPE. A pesar de que la advertencia luminosa (dos luces rojas intermitentes alternas) y sonora del PZZ le informaba de que un tren se estaba aproximando al PPE, entró en el PPE en el momento en que por él circulaba el tren Os 7214.
-A pesar de que el maquinista utilizó inmediatamente la bocina de la locomotora e inició el frenado de acción rápida, debido a la velocidad de marcha del tren, la distancia hasta el PPE y la distancia de frenado, no pudo evitar la colisión con el VU.
-Como consecuencia de la colisión, en la que el VU impactó en la parte frontal izquierda del tren, el VU giró unos 210° y fue arrojado sobre el señalizador a la izquierda del PPE (en el sentido de marcha del tren). El tren Os 7214 descarriló con el bogie delantero y el trasero de la ŘV hacia la derecha en el sentido de marcha del tren, encontrándose el bogie delantero, en su posición final tras el MU, fuera de la vía principal. No se produjo el descarrilamiento del HDV.
-### 3.2.2 Secuencia de hechos desde la producción del suceso extraordinario hasta la finalización de las acciones de los servicios de emergencia
+El maquinista, según su declaración, vio a la izquierda de la OA un vehículo que se aproximaba a la EE P751 y que estaba reduciendo velocidad. A la derecha de la EE no vio ningún vehículo. Posteriormente, a la izquierda, observó un vehículo de color verde cuyo conductor estaba adelantando a otro vehículo que ya se estaba deteniendo delante de la EE. A pesar de que la advertencia luminosa (dos luces rojas intermitentes alternas) y sonora del PZZ le informó de que un tren se estaba aproximando a la EE, este entró en la EE en el momento en que por ella circulaba el tren Os 7214.
+A pesar de que el maquinista utilizó inmediatamente la bocina de la locomotora y aplicó frenado de acción rápida, debido a la velocidad de circulación del tren, la distancia hasta la EE y la distancia de frenado, no pudo evitar la colisión con el vehículo.
+Como consecuencia de la colisión, en la que el vehículo impactó contra la parte frontal izquierda del tren, el vehículo fue girado aproximadamente 210° y arrojado contra el señalizador a la izquierda de la EE (en el sentido de circulación del tren). El tren Os 7214 descarriló con el bogie delantero y el trasero del RV a la derecha en el sentido de circulación del tren, encontrándose el bogie delantero en su posición final tras el MU fuera de la vía principal. No se produjo el descarrilamiento del HDV.
+### 3.2.2 Secuencia de hechos desde la producción del suceso excepcional hasta la finalización de las acciones de los servicios de emergencia
 •
-15:51 h – producción del MU;
+15:51 h – producción del SE;
 •
-15:54 h – comunicación de la producción del MU por parte del maquinista del tren Os 7214 a la despachadora directora de la estación de Bor;
+15:54 h – notificación de la producción del SE por el maquinista del tren Os 7214 a la despachadora directora de la estación de Bor;
 •
-15:55 h – comunicación de la producción del MU por parte de la despachadora directora de la estación de Bor al ZZS;
+15:55 h – notificación de la producción del SE por la despachadora directora de la estación de Bor al ZZS;
 •
-15:56 h – comunicación de la producción del MU por parte de la despachadora directora de la estación de Bor al jefe de despacho CDP Praha – OŘP para el área de Praga;
+15:56 h – notificación de la producción del SE por la despachadora directora de la estación de Bor al jefe de despacho del CDP Praga – OŘP para el área de Praga;
 •
-15:59 h – comunicación de la producción del MU por parte de la despachadora directora de la estación de Bor al HZS SŽ;
+15:59 h – notificación de la producción del SE por la despachadora directora de la estación de Bor al HZS SŽ;
 •
-16:05 h – comunicación de la producción del MU por parte del jefe de despacho CDP Praha – OŘP para el área de Praga al O18 SŽ;
+16:05 h – notificación de la producción del SE por el jefe de despacho del CDP Praga – OŘP para el área de Praga al O18 SŽ;
 •
-16:16 h – notificación de la producción del MU por parte de la persona autorizada O18 SŽ al COP DI;
+16:16 h – comunicación de la producción del SE por la persona designada del O18 SŽ al COP DI;
 •
-17:50 h – inspección del lugar de producción del MU por parte de empleados del DI, la Policía Nacional, SŽ y ČD;
+17:50 h – inspección del lugar de producción del SE por empleados del DI, PČR, SŽ y ČD;
 •
-18:40 h – concesión de la autorización para la liberación de la vía por parte del inspector del DI presente;
+18:40 h – concesión de la autorización para la liberación de la vía por el inspector del DI presente;
 •
 23:25 h – restablecimiento de la circulación – establecimiento de una limitación transitoria de la velocidad en vía a 10 km·h-1 en el km 56,300 hasta 56,500;
 •
-8 de septiembre de 2022 a las 9:30 h – restablecimiento de la circulación sin limitaciones.
-El Plan IZS fue activado en función de la naturaleza del MU. El Plan IZS fue activado a las 15:55 h, es decir, 4 min después de la producción del MU, por la despachadora directora de la estación de Bor.
-En el lugar del MU intervinieron los siguientes componentes del IZS:
+8. 9. 2022 a las 9:30 h – restablecimiento de la circulación sin limitaciones.
+El Plan IZS fue activado en función de la naturaleza del SE. El Plan IZS fue activado a las 15:55 h, es decir, 4 min después de la producción del SE, por la despachadora directora de la estación de Bor.
+En el lugar del SE intervinieron los siguientes componentes del IZS:
 •
-Policía Nacional, Jefatura de Policía de la Región de Plzeň, Distrito de Tachov, Inspección de Tráfico de Tachov;
+PČR, KŘ policía de la región de Plzeň, ÚO Tachov, Inspección de Tráfico de Tachov;
 •
-Policía Nacional, Jefatura de Policía de la Región de Plzeň, Distrito de Tachov, Sección de Criminalidad General de Tachov;
+PČR, KŘ policía de la región de Plzeň, ÚO Tachov, Sección de Criminalidad General de Tachov;
 •
-Policía Nacional, Jefatura de Policía de la Región de Plzeň, Distrito de Tachov, Sección de Distrito de Bor;
+PČR, KŘ policía de la región de Plzeň, ÚO Tachov, Departamento de Distrito de Bor;
 •
-ZZS de la Región de Plzeň;
+ZZS de la región de Plzeň;
 •
 Servicio de Rescate Aéreo del Ejército de la República Checa Líně;
 
-
 ## Página 27
+
 
 •
 HZS SŽ, Unidad de Protección Contra Incendios de Cheb y Plzeň;
@@ -843,8 +867,8 @@ En la investigación no se constató infracción de la normativa legal, de las n
 ### 4.1.2 Entidades responsables del mantenimiento de los vehículos ferroviarios
 En la investigación no se constató infracción de las funciones y obligaciones de las entidades responsables del mantenimiento de los vehículos ferroviarios.
 
-
 ## Página 28
+
 
 ### 4.1.3 Fabricantes de vehículos ferroviarios u otros proveedores de instalaciones ferroviarias
 En la investigación no se constató infracción de las funciones y obligaciones de los fabricantes de vehículos ferroviarios u otros proveedores de productos ferroviarios.
@@ -860,6 +884,7 @@ En la investigación no se constató infracción de las funciones y obligaciones
 De acuerdo con el § 6 apartado 3 de la Ley núm. 266/1994 Sb., en el cruce de una vía ferroviaria con carreteras a nivel de las vías, el transporte ferroviario tiene prioridad sobre el tráfico en las carreteras. Los usuarios de la carretera deben, antes de un paso a nivel, en virtud del § 28 apartado 1 y del § 29 apartado 1 de la Ley núm. 361/2000 Sb., proceder con especial precaución, debiendo en particular asegurarse de que pueden cruzar el paso a nivel de forma segura, sin entrar en el paso a nivel cuando se emite la advertencia con dos luces rojas intermitentes alternas de la señal del dispositivo de señalización de paso a nivel o con el sonido intermitente de su bocina o campana.
 
 ## Página 29
+
 
 Según los datos registrados, las Actas Oficiales sobre la explicación prestada por el maquinista del tren Os 7214 y por el conductor del VU que se aproximaba al PE y, sobre todo, las grabaciones de vídeo de la cámara situada tras el parabrisas del VU que se aproximaba al PE y del sistema de videovigilancia de la ciudad de Bor, el conductor del VU entró en el PE a pesar de que el SPB estaba en funcionamiento, es decir, se emitía tanto aviso sonoro como luminoso con luces rojas intermitentes (véase el punto 4.3.5 de la presente IA).
 ### Hallazgos:
@@ -893,8 +918,8 @@ De los documentos de la Policía Nacional Checa «Información sobre el accident
 
 Del análisis de la grabación de vídeo del sistema de videovigilancia de la ciudad de Bor se constató que el conductor del VU implicado en la AM comenzó a adelantar a un VU que ya se estaba deteniendo ante el PE a una distancia de unos 50 m antes del PE (véase el punto 4.3.5 de la presente IA).
 
-
 ## Página 30
+
 
 ### Hallazgos:
 En la investigación se constató la infracción de la normativa relativa a las funciones y obligaciones del usuario de la vía pública –el conductor de un automóvil–, al margen de la
@@ -922,8 +947,8 @@ En la investigación no se detectaron factores relacionados con los fabricantes 
 ### 4.2.4 Factores o consecuencias derivados del mantenimiento y la modificación de los vehículos ferroviarios o de las instalaciones técnicas
 En la investigación no se detectaron factores derivados del mantenimiento y la modificación de los vehículos ferroviarios o de las instalaciones técnicas.
 
-
 ## Página 31
+
 
 ### 4.2.5 Factores o consecuencias relacionados con la entidad responsable del mantenimiento de los vehículos ferroviarios, los talleres de mantenimiento y otros prestadores de servicios de mantenimiento
 En la investigación no se detectaron factores relacionados con la entidad responsable del mantenimiento de los vehículos ferroviarios, los talleres de mantenimiento y otros prestadores de servicios de mantenimiento.
@@ -943,8 +968,8 @@ En virtud de los §§ 28 y 29 apartado 1 de la Ley núm. 361/2000 Sb., el usuari
 
 Esto no se aplica únicamente en el caso de que se ilumine la luz blanca intermitente de la señal positiva del SPB. Por tanto, el conductor, al acercarse al PE, debe en particular ajustar la velocidad del vehículo, observar y evaluar la señal de los avisadores, si el PE está equipado con SPB. Solo sobre esta base el conductor determinará si y a qué velocidad puede cruzar el PE, o si debe detener el vehículo a tiempo antes del PE. En el caso de la señal de aviso del SPB emitida con dos luces rojas intermitentes y el sonido de la bocina o la campana, el PE está claramente cerrado para el usuario de la vía pública. En el caso de la señal positiva del SPB emitida con luz blanca intermitente, el conductor puede continuar la marcha a través del PE a una velocidad máxima de 50 km·h-1. En ausencia de señal de luz roja y blanca, se trata de la denominada señal de advertencia, en la que el conductor no puede ser informado por el SPB sobre un vehículo ferroviario que se aproxima y que puede ponerlo en peligro (en el caso de
 
-
 ## Página 32
+
 
 desconexión o avería del SPB). En este caso, el conductor debe comprobar mediante la vista y el oído que no se aproxima ningún vehículo ferroviario al PE y, por tanto, que puede cruzar el PE de forma segura.
 
@@ -965,42 +990,42 @@ La Inspección Ferroviaria midió, inmediatamente después de la aparición de l
 
 Del análisis de los vídeos obtenidos por la Policía Nacional Checa, de la cámara situada tras el parabrisas del VU que se aproximaba al PE y, asimismo, del sistema de videovigilancia de la ciudad de Bor, se constató que el conductor del VU implicado en la AM comenzó a adelantar a una distancia de unos 50 m antes del PE en un momento en el que el SPB emitía de forma demostrable el aviso con dos luces rojas intermitentes (véanse las figs. núm. 9 y 10).
 
-
 ## Página 33
 
 ## Tren Os 7214
-Fig. núm. 9: Vista del VU adelantando antes del PE
-   Fuente: Policía Nacional Checa
-Fig. núm. 10: Aviso luminoso del SPB en el momento de la aparición de la AM
-   Fuente: Policía Nacional Checa
-De lo anterior se desprende que el conductor del VU, en contra de las obligaciones establecidas por la normativa legal, no procedió con especial precaución ante el PE P751 al no detener el vehículo ante el PE ante la señal luminosa y sonora del SPB, al no asegurarse de si podía cruzar el PE de forma segura y al entrar de forma no autorizada en el PE P751 en el momento en que lo cruzaba el tren Os 7214.
+Fig. n.º 9: Vista del OA antes de cruzar la EE
+   Fuente: PČR
+Fig. n.º 10: Señalización luminosa de la PZZ en el momento de producirse el MU
+   Fuente: PČR
+De lo anterior se deduce que el conductor del OA, en contradicción con las obligaciones establecidas por las disposiciones legales, no actuó con especial precaución antes de la EE P751 al no detener el vehículo ante la EE ante la señalización luminosa y acústica de la PZZ, no comprobar si podía cruzar la EE con seguridad y entrar indebidamente en la EE P751 en el momento en que la atravesaba el tren Os 7214.
 ### 4.4 Mecanismos de retroalimentación y mecanismos de control, incluida la gestión de riesgos
-y la garantía de seguridad, y procedimientos de seguimiento
+y el aseguramiento de la seguridad, y los procedimientos de seguimiento
 ### 4.4.1 Condiciones pertinentes del marco regulatorio
-Las condiciones pertinentes del marco regulatorio están establecidas en los Reglamentos de la Unión Europea, en la Ley núm. 266/1994 Sb. y en los decretos de aplicación.
+Las condiciones pertinentes del marco regulatorio están establecidas en los Reglamentos de la Unión Europea,
+la ley n.º 266/1994 Sb. y los decretos de aplicación.
 
 ## Página 34
 
-4.4.2 Procedimientos, métodos, contenido y resultados de las actividades de evaluación de riesgos y seguimiento que realiza cualquiera de los sujetos participantes
-En los procedimientos, métodos, contenido y resultados de las actividades de evaluación de riesgos y seguimiento, relacionados con las circunstancias de la aparición de la MU en cuestión, no se detectaron deficiencias.
+4.4.2 Procedimientos, métodos, contenido y resultados de las actividades de evaluación de riesgos y seguimiento realizadas por cualquiera de los sujetos participantes
+No se detectaron deficiencias en los procedimientos, métodos, contenido y resultados de las actividades de evaluación de riesgos y seguimiento relacionadas con las circunstancias de la aparición de la MU en cuestión.
 ### 4.4.3 Sistema de garantía de seguridad de los transportistas y gestores de infraestructura participantes
-En el sistema de garantía de seguridad del gestor de infraestructura y en el sistema de garantía de seguridad del transporte ferroviario del transportista, relacionados con las circunstancias de la aparición de la MU en cuestión, no se detectaron deficiencias.
+No se detectaron deficiencias en el sistema de garantía de seguridad del gestor de la infraestructura ni en el sistema de garantía de seguridad del transporte ferroviario del transportista, relacionados con las circunstancias de la aparición de la MU en cuestión.
 ### 4.4.4 Sistema de gestión de los sujetos responsables del mantenimiento de los vehículos ferroviarios y de los talleres de mantenimiento
 El sistema de gestión de los sujetos responsables del mantenimiento de los vehículos ferroviarios y de los talleres de mantenimiento no guardaba relación con la aparición de la MU.
 ### 4.4.5 Resultados de la supervisión realizada por las autoridades nacionales de seguridad
 Atendiendo a los factores y circunstancias de aparición de la MU detectados, la supervisión de la autoridad de seguridad no guarda relación con la MU en cuestión.
-### 4.4.6 Aprobaciones, certificados y evaluaciones emitidos por la agencia, las autoridades nacionales de seguridad u otros sujetos de evaluación de la conformidad
-El gestor de infraestructura explotó la infraestructura con base en la autorización administrativa vigente y el certificado de seguridad del gestor de infraestructura. El transportista explotó el transporte ferroviario con base en la licencia vigente y el certificado del transportista.
+### 4.4.6 Aprobaciones, certificados y informes de evaluación emitidos por la agencia, las autoridades nacionales de seguridad u otros sujetos de evaluación de la conformidad
+El gestor de la infraestructura explotaba la infraestructura en virtud de una autorización administrativa vigente y de un certificado de seguridad del gestor de la infraestructura. El transportista explotaba el transporte ferroviario en virtud de una licencia vigente y de un certificado del transportista.
 ### 4.4.7 Otros factores sistémicos
 En la investigación no se detectaron otros factores sistémicos.
 ### 4.5 Sucesos anteriores de naturaleza similar
-La Inspección Ferroviaria registra en las infraestructuras de ámbito nacional y regional, en el período desde el 1. 1. 2008 hasta la aparición de la MU en cuestión, 1099 MU similares, en las que se produjo la colisión de un DV con vehículos a motor de carretera en pasos a nivel protegidos por PZS sin barreras. En estas MU resultaron fallecidas 179 personas, 793 personas resultaron heridas y el daño causado ascendió a 598 609 860 CZK.
-La Inspección Ferroviaria registra en el P751 de la ŽP, en el período indicado, 1 MU similar, a saber:
+La Inspección Ferroviaria registra en las infraestructuras de ámbito nacional y regional, en el período desde el 1 de enero de 2008 hasta la aparición de la MU en cuestión, 1099 MU similares, en las que se produjo una colisión de un DV con vehículos a motor de carretera en pasos a nivel protegidos por PZS sin barreras. En estas MU fallecieron 179 personas, 793 personas resultaron heridas y el daño causado ascendió a 598 609 860 CZK.
+La Inspección Ferroviaria registra en la infraestructura P751, en el período indicado, 1 MU similar, a saber:
 •
-del 10. 4. 2022, en la que se produjo la colisión del tren Os 7213 con un automóvil. En la MU se produjeron lesiones en dos personas (la conductora del automóvil y el acompañante). El daño total se valoró en 81 309 CZK.
-
+del 10 de abril de 2022, en el que se produjo una colisión del tren Os 7213 con un automóvil. En la MU resultaron heridas dos personas (la conductora del automóvil y el acompañante). El daño total se cifró en 81 309 CZK.
 
 ## Página 35
+
 
 La causa inmediata de la aparición de todas las MU anteriormente indicadas fue la entrada no autorizada de un vehículo a motor en la ŽP en el momento en que se emitía la advertencia luminosa y sonora del dispositivo de enclavamiento del paso a nivel y en el que un tren se aproximaba al paso a nivel.
 La DI ha recomendado repetidamente desde el año 2012 al gestor de infraestructura SŽ (anteriormente SŽDC), con el fin de garantizar la máxima seguridad en las infraestructuras ferroviarias de categoría nacional y regional, que se eleve el nivel de protección de los pasos a nivel de modo que, en las reconstrucciones y modernizaciones de líneas y pasos a nivel, ya se proyecte e instale únicamente dispositivo de enclavamiento del paso a nivel luminoso complementado con barreras. La DI, al mismo tiempo, mediante estas recomendaciones de seguridad, recomendó a la Oficina Ferroviaria que adoptara sus propias medidas encaminadas a garantizar la realización de las recomendaciones de seguridad anteriormente indicadas también en los demás gestores de infraestructuras ferroviarias en la República Checa. Desde el 1. 4. 2017, en que entró en vigor la modificación de la Ley n.º 266/1994 Sb., las recomendaciones de seguridad de carácter similar se destinaron, de conformidad con el § 53e de la Ley n.º 266/1994 Sb., únicamente a la Oficina Ferroviaria. El motivo para la emisión de estas recomendaciones fue el hecho de que las colisiones con vehículos de carretera con las consecuencias más graves se producen a largo plazo en los pasos a nivel protegidos por dispositivo de enclavamiento del paso a nivel sin barreras, mientras que, por el contrario, a largo plazo, desde el punto de vista de la sinestralidad y de las consecuencias, el tipo de protección de pasos a nivel más favorable es precisamente el dispositivo de enclavamiento del paso a nivel complementado con barreras. SŽ (anteriormente SŽDC) reaccionó a estas recomendaciones, entre otros, de la siguiente manera: «en caso de sustitución de los PZM existentes (dispositivo de enclavamiento del paso a nivel mecánico – nota de la DI) y PZS por tecnología moderna, en el proyecto se priorizará la construcción de dispositivos de enclavamiento del paso a nivel con barreras, siempre que no lo impidan obstáculos técnicos o de explotación significativos. La instalación de un dispositivo de enclavamiento del paso a nivel concreto respetará en todo caso la decisión vigente de la Oficina Ferroviaria sobre el alcance y el modo de protección del paso a nivel». La Oficina Ferroviaria, entre otros, envió como medida la siguiente declaración: «La Oficina Ferroviaria, como autoridad administrativa ferroviaria, recomienda así permanentemente a la Administración de Ferrocarriles, como gestor de infraestructura, incluir en la mayor medida posible en el plan de inversiones la adición de barreras al dispositivo de enclavamiento del paso a nivel luminoso existente. Deberían ser prioritarios los pasos a nivel con alto volumen de tráfico y con sucesos extraordinarios recurrentes». La Inspección Ferroviaria sigue apoyando la adición de barreras en los pasos a nivel (de forma prioritaria en aquellos con mayor volumen de tráfico y condiciones locales desfavorables), sin embargo, en el caso de emitir nuevas recomendaciones de seguridad para sucesos extraordinarios concretos, tiene en cuenta las características específicas del paso a nivel en cuestión y emite dicha recomendación de seguridad de forma más concreta.
@@ -1011,8 +1036,8 @@ La causa inmediata del suceso extraordinario fue:
 •
 la entrada no autorizada de un automóvil en el paso a nivel P751 en el momento en que lo cruzaba el tren Os 7214, causada por la actuación del conductor del automóvil, que no respetó la advertencia luminosa y sonora del dispositivo de enclavamiento del paso a nivel y no se aseguró de si podía cruzar el paso a nivel de forma segura.
 
-
 ## Página 36
+
 
 La DI no detectó factor contribuyente.
 La DI no detectó causa sistémica.
@@ -1045,8 +1070,8 @@ It was not found at the infrastructure manager SŽ and the railway undertaking �
 ### 6 RECOMENDACIONES DE SEGURIDAD
 Atendiendo a las causas y circunstancias de aparición del suceso extraordinario detectadas y a los hechos indicados en el punto 5.2 de la presente ZZ, la Inspección Ferroviaria no emite recomendación de seguridad, porque no se detectaron datos que justificaran la emisión de una recomendación de seguridad en el marco de la prevención de la aparición de sucesos extraordinarios.
 
-
 ## Página 37
+
 
 ### SAFETY RECOMMENDATIONS
 The Rail Safety Inspection Office does not issue a safety recommendation in regard of the

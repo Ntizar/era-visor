@@ -10,13 +10,14 @@ chars: 117995
 ratio_longitud: 1.25
 tokens_in: 58889
 tokens_out: 41341
-verificacion: revisar
-notas_cifras: ["bloque 2: original bilingüe: se compara contra el idioma principal (CS)", "bloque 4: original bilingüe: se compara contra el idioma principal (CS)", "bloque 6: original bilingüe: se compara contra el idioma principal (CS)"]
-avisos: ["bloque 4: ratio 1.65", "bloque 6: ratio 1.62"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 4: original bilingüe: se compara contra el idioma principal (CS)", "página 5: original bilingüe: se compara contra el idioma principal (HR)", "página 8: original bilingüe: se compara contra el idioma principal (EN)", "página 9: original bilingüe: se compara contra el idioma principal (PT)", "página 14: original bilingüe: se compara contra el idioma principal (CS); cifras cortas: 3/31"]
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -39,13 +40,13 @@ IČ:   75009561
 mail@dicr.cz
 tel.: +420 736 521 003
 
-
 ## Página 2
+
 
 Este informe final es público y todos los hechos en él expuestos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ## 1 RESUMEN
                        Fuente: DI
@@ -72,8 +73,8 @@ DPOV, a. s. (gestor de la infraestructura);
 Správa železniční dopravní cesty, organización estatal (gestor
 de la infraestructura).
 
-
 ## Página 4
+
 
 Consecuencias:
 1 persona herida;
@@ -110,18 +111,18 @@ para todas las locomotoras de vapor en servicio que estén en consideración, se
 la sustitución de las tuberías de aporte no conformes (que suministran vapor a la máquina de vapor de la locomotora);
 ◦actualice íntegramente la normativa interna existente sobre la explotación de equipos técnicos designados – calderas de locomotora – o emita una nueva normativa interna, o bien una normativa interna de aplicación general sobre la explotación de equipos técnicos designados, en la que se pudiera
 
-
 ## Página 5
+
 
 incluir las calderas de locomotora, en cuyo marco se tenga en cuenta la explotación irregular de las calderas de locomotora y el cambio general del enfoque de su explotación;
 ◦la actualización o emisión de nuevas normativas internas según el punto anterior se
 realizara como máximo en el momento de la próxima solicitud de emisión del certificado de seguridad del operador ferroviario de acuerdo con el § 34h de la Ley n.º 266/1994 Sb., momento en el que dichas normativas internas ya se adjuntarán a dicha solicitud;
 la adopción de medidas propias encaminadas a la implementación de las recomendaciones de seguridad
 •
-mencionadas anteriormente también respecto de los demás operadores de locomotoras de vapor en consideración en la República Checa. 
-
+mencionadas anteriormente también respecto de los demás operadores de locomotoras de vapor en consideración en la República Checa.
 
 ## Página 6
+
 
 ## RESUMEN
 Clasificación: 
@@ -154,8 +155,8 @@ Causas fundamentales:
 adelgazamiento local y muy desigual por corrosión del espesor de la pared de la tubería de aporte (la tubería de aporte suministra vapor a la máquina de vapor de la locomotora);
 no detección del adelgazamiento crítico del espesor de la pared de la tubería de aporte (la tubería de aporte suministra vapor a la máquina de vapor de la locomotora) y del colapso elástico gradual incipiente de la tubería.
 
-
 ## Página 7
+
 
 Recomendaciones:
 Dirigidas a la Autoridad Nacional de Seguridad (NSA) de la República Checa:
@@ -171,6 +172,7 @@ recomendamos que la NSA adopte medidas propias para garantizar la implementació
 recomendaciones de seguridad anteriores respecto de los demás operadores de locomotoras de vapor relevantes en la República Checa.
 
 ## Página 8
+
 
 # Índice
 1 RESUMEN........................................................................................................................3
@@ -211,8 +213,8 @@ SUMMARY.........................................................................
 3.4 Actividad de los vehículos ferroviarios y de otros dispositivos técnicos..........................................26
 3.4.1 Sistema de control, señalización y seguridad, incluido el dispositivo para la grabación automática de
 
-
 ## Página 9
+
 
 datos.....................................................................................................26
 3.4.2 Componentes de la vía....................................................................................................26
@@ -244,8 +246,8 @@ datos...........................................................................
 6 RECOMENDACIONES DE SEGURIDAD.....................................................................................42
 7 ANEXOS..........................................................................................................................44
 
-
 ## Página 10
+
 
 ## Lista de siglas y símbolos utilizados
 CDP
@@ -285,8 +287,8 @@ Informe final sobre los resultados de la investigación del suceso extraordinari
 žst.
 estación de ferrocarril
 
-
 ## Página 11
+
 
 ## Lista de siglas de la legislación, normas y normativas internas utilizadas
 ley n.º 266/1994 Sb.
@@ -329,6 +331,7 @@ documento «ČSD V 11 DIRECTRIZ PARA LA REGULACIÓN DEL AGUA DE ALIMENTACIÓN DE
 
 ## Página 12
 
+
 | ČSD V 19 | norma interna del operador de calderas de locomotoras de ČD, |
 |  | ČSD V 19 CONJUNTO DE PROCEDIMIENTOS ORGANIZATIVOS „ |
 |  | Y TECNOLÓGICOS PARA LA REPARACIÓN DE |
@@ -342,8 +345,8 @@ documento «ČSD V 11 DIRECTRIZ PARA LA REGULACIÓN DEL AGUA DE ALIMENTACIÓN DE
 |  | ČSD V 43 Norma para las reparaciones mayores de locomotoras de „ , |
 |  | vapor“ en la redacción vigente en el momento de producirse la incidencia |
 
-
 ## Página 13
+
 
 ## 2 DATOS RELATIVOS A LA INCIDENCIA
 ### 2.1 Incidencia
@@ -368,94 +371,52 @@ GPS:
 48.9535519N, 17.3893522E – lugar de la colisión y descarrilamiento de la locomotora de vapor.
 Fig. n.º 1: Vista de la locomotora de vapor descarrilada tras la producción de la incidencia                    Fuente: SŽDC
 
-
 ## Página 14
 
-### 2.1.2 Descripción del desarrollo de la incidencia y del lugar de producción, incluida la actuación
-del sistema integrado de protección y del servicio de rescate
-El 29. 3. 2019 a las aprox. 9.30 h, la locomotora de vapor CZ-NTM 90 54 3 997 031-0,
-tipo 1435 EP 1000 (en la incidencia también como locomotora de vapor o HDV) fue estacionada en la vía
-privada n.º 102 de la vía privada DPOV, con el fin de su mantenimiento. En el marco de
-estos trabajos debían detectarse y corregirse también pequeños desperfectos en la locomotora. Según la declaración de las personas que realizaban
-el mantenimiento, la locomotora quedó asegurada mediante el apriete del freno de mano, las ruedas fueron calzadas con cuñas
-de madera, el regulador quedó cerrado, la distribución se puso en la posición
-intermedia (cero) y asegurada, y las llaves de desagüe abiertas. Tras la realización de la inspección prescrita de la locomotora
-y de la caldera de la locomotora antes de la explotación, comenzó aproximadamente a las 9.45 h el llamado «encendido» y progresivamente
-se elevó la presión en la caldera de la locomotora aproximadamente a 14,5 bares. Durante la posterior comprobación
-de la funcionalidad de los distintos dispositivos de la locomotora de vapor, se detectó un desperfecto en el compresor,
-y por este motivo fue parcialmente desmontado. Hacia las 17 h se seguían realizando
-en la locomotora trabajos en los inyectores y en la turbina. 
-A las 17.18 h se produjo el colapso completo de la tubería de aporte (que conduce el vapor a la máquina
-de vapor de la locomotora, entre el regulador y la cabeza del sobrecalentador, si bien esta tubería suele
-denominarse a veces la llamada «tubería de comunicación», también tubería de aporte), y la rotura
-de su pared, lo que se manifestó con un estruendo ensordecedor, y la locomotora comenzó a arrancar inmediatamente hacia atrás. 
-Ante ello reaccionó con presteza la persona que en ese momento realizaba la inspección y el mantenimiento
-de la locomotora en su lado derecho, en la zona de la caja de humos, saltó a la locomotora y llegó
-al puesto de conducción con el objetivo de intentar detener la locomotora. No obstante, tras la realización
-de maniobras infructuosas para detenerla, al comprobar que la locomotora de vapor ya no podía ser detenida
-y que aceleraba constantemente y se dirigía hacia el extremo de la vía muerta, saltó de ella
-hacia el lado derecho en el sentido de la marcha. A continuación, la locomotora de vapor colisionó con el tope de vía
-en el extremo de la vía n.º 9a, descarriló, se hundió en el material de balasto del tope de vía y en la tierra, y se detuvo. 
-En la inspección inicial del lugar de producción de la incidencia, que se inició el 29. 3. 2019,
-se procedió en sentido contrario a la marcha de la locomotora de vapor, es decir, desde el lugar del descarrilamiento y la detención
-en el extremo de la vía muerta n.º 9a en el km 88,566 hasta el lugar de estacionamiento original de la locomotora de vapor
-en la vía privada n.º 102 de la vía privada DPOV. El 30. 3. 2019 se realizó la inspección posterior
-del lugar de la incidencia a la luz del día, en la que se registraron más información relativa especialmente a la locomotora de vapor. 
-De la inspección del lugar de la incidencia, el DI determinó, entre otros:
-Estado del dispositivo de señalización:
-la estación ferroviaria Veselí nad Moravou está equipada con un dispositivo de señalización electrónico
-•
-de estación de 3.ª categoría tipo «SZZ-ESA 11» con paneles «EIP»
-y unidades «PMI (ESA 44)», controlado en remoto desde el CDP Přerov con posibilidad de traspaso
-a la maniobra local;
-la vía n.º 9a está conectada al dispositivo de señalización de estación de la est. Veselí nad Moravou;
-•
-mediante consulta al archivo del SZZ en la est. Veselí nad Moravou se constató que no se había
-•
-establecido una ruta de maniobra para la marcha de la locomotora de vapor y que la ocupación del tramo en la vía
-n.º 9a se produjo a la hora 17.19 h; 
-
+### 2.1.2 Descripción del transcurso del suceso excepcional y lugar de origen, incluida la actividad del sistema integrado de protección y del servicio de emergencia
+El 29 de marzo de 2019, a las aproximadamente 9.30 h, la locomotora de vapor CZ-NTM 90 54 3 997 031-0, tipo 1435 EP 1000 (en el ZZ también como locomotora de vapor o HDV), fue situada en la vía de maniobras n.º 102 de la vía de maniobras DPOV, con motivo de su mantenimiento. En el marco de estos trabajos debían detectarse y corregirse también pequeños defectos de la locomotora. Según la declaración de las personas que realizaban el mantenimiento, la locomotora fue asegurada mediante el apriete del freno de mano, las ruedas fueron calzadas con cuñas de madera, el regulador fue cerrado, la distribución fue colocada en la posición central (cero) y asegurada, y los grifos de desagüe fueron abiertos. Tras la realización de la inspección prescrita de la locomotora y de la caldera de la locomotora antes de la explotación, comenzó aproximadamente a las 9.45 h el llamado «encendido» y progresivamente se elevó la presión en la caldera de la locomotora hasta aproximadamente 14,5 bares. Durante la comprobación posterior del funcionamiento de los distintos aparatos de la locomotora de vapor se detectó un defecto en el compresor y, por este motivo, fue parcialmente desmontado. Hacia las 17 h se realizaron además en la locomotora trabajos en los inyectores y en la turbina.
+A las 17.18 h se produjo el colapso total de la tubería de entrada (que conduce el vapor a la máquina de vapor de la locomotora, entre el regulador y la cabeza del sobrecalentador, siendo esta tubería a veces denominada la llamada «tubería de comunicación», así como tubería de entrada), y la rotura de su pared, lo que se manifestó con un estruendo ensordecedor, y la locomotora comenzó a moverse inmediatamente hacia atrás.
+A esto respondió con prontitud la persona que en ese momento realizaba la inspección y el mantenimiento de la locomotora por su lado derecho en la zona del hogar, saltó a la locomotora y llegó a la cabina del conductor con el objetivo de intentar detener la locomotora. No obstante, tras la realización de maniobras infructuosas para detenerla, al comprobar que la locomotora de vapor ya no podía detenerse y que aceleraba constantemente y se dirigía hacia el extremo de la vía muerta, saltó de ella hacia el lado derecho en el sentido de la marcha. A continuación, la locomotora de vapor chocó con el tope en el extremo de la vía n.º 9a, descarriló, se hundió en el material de relleno del tope y en la tierra, y se detuvo.
+En la inspección inicial del lugar de origen del SE, que se inició el 29 de marzo de 2019, se procedió en sentido contrario a la marcha de la locomotora de vapor, es decir, desde el lugar del descarrilamiento y detención en el extremo de la vía muerta n.º 9a en el km 88,566 hasta el lugar de la estacionamiento original de la locomotora de vapor en la vía de maniobras n.º 102 de la vía de maniobras DPOV. El 30 de marzo de 2019 se realizó la inspección subsiguiente del lugar del SE a la luz del día, en la que se registraron información adicional relativa especialmente a la locomotora de vapor.
+De la inspección del lugar del SE, el DI determinó, entre otros:
+Estado del aparato de seguridad:
+• La estación ferroviaria de Veselí nad Moravou está equipada con un aparato de seguridad electrónico de estación de 3.ª categoría tipo «SZZ-ESA 11» con paneles «EIP» y unidades «PMI (ESA 44)», controlado en remoto desde el CDP Přerov con posibilidad de traspaso a la maniobra local;
+• La vía n.º 9a está conectada al aparato de seguridad de estación de la est. de Veselí nad Moravou;
+• Mediante la consulta del archivo del SZZ en la est. de Veselí nad Moravou se constató que no se había establecido una ruta de maniobras para la circulación de la locomotora de vapor y que la ocupación del tramo en la vía n.º 9a se produjo a las 17.19 h;
 
 ## Página 15
 
-la locomotora de vapor arrancó desde la vía privada n.º 102 de la vía privada DPOV, atravesó el desvío
+La locomotora de vapor se puso en marcha desde la vía de apartadero n.º 102 del apartadero DPOV, pasó por el desvío
 •
-n.º 106A, continuó por la vía n.º 104, atravesó los desvíos n.º 102 y n.º 101,
-situados en la vía privada ČD, y entró en el ámbito de la est. Veselí nad Moravou, al pasar
-junto a la señal Se8 con la indicación «Maniobra prohibida», a través de la aguja de descarrilamiento Vk1 plegada y los desvíos
+n.º 106A, continuó por la vía n.º 104, pasó por los desvíos n.º 102 y n.º 101, situados en
+el apartadero ČD, y entró en el ámbito de la est. Veselí nad Moravou, cuando pasó junto a la señal Se8 con la indicación «Prohibido maniobrar», a través de la aguja de derrota Vk1 y los desvíos
 n.º 4 y n.º 1 hacia la vía n.º 9a.
-### Lugar del descarrilamiento 
-y detención de la 
-locomotora de vapor en 
-el extremo de la vía muerta 
-n.º 9a, en el km 88,566
-### Vía recorrida por la 
-locomotora de vapor 
+### Lugar del descarrilamiento
+y detención de la locomotora de vapor al
+final de la vía en saco n.º 9a, en el km 88,566
+### Recorrido realizado por la locomotora de vapor
 (774 metros)
-### Lugar de estacionamiento 
-de la locomotora de vapor 
-### antes de la producción de la incidencia 
-en la vía privada 
+### Lugar de estacionamiento
+de la locomotora de vapor
+### antes de la aparición del MU
+en la vía de apartadero
 n.º 102
-Fig. n.º 2: Esquema del lugar de producción de la incidencia                Fuente: DI, Český úřad zeměměřicský a katastrální
+Fig. n.º 2: Esquema del lugar de origen del MU                Fuente: DI, Český úřad zeměměřicský a katastrální
 Estado de la infraestructura:
-la colisión de la locomotora de vapor con el tope de vía y el posterior descarrilamiento se produjeron en
+la colisión de la locomotora de vapor con el tope de vía y el posterior descarrilamiento se produjeron en el
 •
-el extremo de la vía muerta n.º 9a, en el km 88,566;
-el travesaño transversal que forma la estructura del tope de vía estaba en gran medida podrido y, como
+final de la vía en saco n.º 9a, en el km 88,566;
 •
-consecuencia de la colisión, destruido;
-en el lugar de la colisión había una señal derribada con la indicación «Maniobra prohibida»;
+la traviesa transversal que formaba la estructura del tope de vía estaba en gran medida podrida y fue destruida por la colisión;
 •
-la vía n.º 9a es recta y con la pendiente más desfavorable de 4,29 por mil en dirección hacia el extremo
+en el lugar de la colisión había una señal derribada con la indicación «Prohibido maniobrar»;
 •
-de la vía;
-en el lugar de arranque de la locomotora de vapor en la vía privada n.º 102 de la vía privada DPOV se
+la vía n.º 9a es recta y con la pendiente más desfavorable de 4,29 milésimas en dirección hacia el final de la vía;
 •
-encontraron cuñas de madera dañadas por el paso y también marcas de agua de la locomotora de vapor.
-
+en el lugar de la puesta en marcha de la locomotora de vapor en la vía de apartadero n.º 102 del apartadero DPOV se encontraron cuñas de madera dañadas por el paso y también marcas de agua de la locomotora de vapor.
 
 ## Página 16
+
 
 Estado de los vehículos ferroviarios (véase también el cap. 2.2.2 de esta incidencia):
 la locomotora de vapor descarriló con todos los ejes y, tras perforar el tope de vía,
@@ -489,16 +450,16 @@ en la cabina de la locomotora de vapor (puesto de conducción y de fogonero) la 
 •
 control del regulador estaba en la posición trasera, la palanca de mando del control de la distribución estaba en la posición de marcha hacia atrás,
 
-
 ## Página 17
+
 
 el indicador de carga estaba en la escala entre la cifra «0» y «20», la palanca que controla las llaves de desagüe
 de los cilindros de vapor estaba en la posición delantera, el freno de mano estaba apretado.
 Fig. n.º 4: Vista de la parte superior del compresor                                        Fuente: DI
 Fig. n.º 5: Vista de la posición de la varilla de distribuidor deslizante                           Fuente: SŽDC
 
-
 ## Página 18
+
 
 Fig. n.º 6: Vista de la marcha no asegurada de la locomotora de vapor                       Fuente: SŽDC
 Con la incidencia se activó el IZS.
@@ -526,8 +487,8 @@ después de la producción de la incidencia).
 Forma de comunicación:
 telefónica.
 
-
 ## Página 19
+
 
 Comunicada por la persona autorizada en nombre de:
 el operador de la vía (DPOV).
@@ -583,6 +544,7 @@ y testigos
 
 ## Página 20
 
+
 Personas implicadas por:
 Sujeto que se encarga del mantenimiento de la locomotora de vapor (operador de la caldera de la locomotora):
 persona que realiza el mantenimiento de la locomotora de vapor, empleado de ČD, CHV Lužná
@@ -615,8 +577,8 @@ no controlado de un vehículo ferroviario por la vía.
 La vía de maniobras n.º 102 de la vía privada DPOV discurre en el lugar del suceso parcialmente en línea recta, a la altura del terreno circundante, y tiene una longitud construida de 441 metros. Se utiliza como vía de taller y de reparación, siendo la velocidad máxima permitida de circulación de los vehículos ferroviarios en el espacio de la vía privada de 5 km.h-1. La vía de la vía privada DPOV no está equipada con dispositivo de señalización. El desvío simple n.º 106A con enganche de gancho se accionaba manualmente mediante la manija del contrapeso del aparato de cambio de vía.
 El desvío n.º 102 estaba dotado de un aparato de cambio de vía de retorno automático y de una señal luminosa con luz intermitente. El desvío simple n.º 101 con enganche de gancho se accionaba manualmente mediante la manija del contrapeso del aparato de cambio de vía. La vía de la vía privada ČD no está equipada con dispositivo de señalización. La señal de mástil Se 8 está situada en el km 88,177, siendo la luz azul suficientemente visible desde la vía para la que rige. La aguja de vía Vk1 estaba pintada de blanco y rojo y se accionaba centralmente mediante un aparato de cambio de vía electromotor. Los desvíos n.º 4 y 1 se accionaban centralmente mediante un aparato de cambio de vía electromotor. Los desvíos n.º 106A, 102 y 101, 4 y 1 eran recorridos por la locomotora de vapor por el llamado «punta de riel». La vía n.º 9a es recta y el tope de vía está situado en el km 88,566.
 
-
 ## Página 21
+
 
 ### 2.2.4 Uso de los medios de comunicación
 En relación con la ocurrencia del suceso no se utilizaron los medios de comunicación, los cuales se emplearon únicamente después del suceso para comunicarlo:
@@ -661,8 +623,8 @@ Moravou.
 ### 2.2.7 Activación del plan del sistema integrado de emergencia, de los servicios de emergencia policial y sanitario y procedimientos conexos
 El plan IZS fue activado, dada la naturaleza del suceso, a más tardar a las 17.58 h, es decir, 40 minutos después de la ocurrencia del suceso.
 
-
 ## Página 22
+
 
 En el lugar del suceso intervinieron los siguientes cuerpos del IZS:
 Servicio de Emergencia Sanitaria de la Región de Moravia del Sur, organización de apoyo;
@@ -701,104 +663,70 @@ no reducida.
 ### 3.1 Resumen de las declaraciones presentadas (sujeto a protección de la identidad de las personas)
 ### 3.1.1 Empleados del explotador de la vía y del transportista, incluidas personas en relación contractual
 
-
 ## Página 23
 
-persona que realizaba el mantenimiento de la locomotora de vapor en el momento de la ocurrencia del suceso
-  – del Registro
+persona que realizaba el mantenimiento de la locomotora de vapor en el momento del suceso
+  – según el Registro
 •
-de declaración presentada al DI se desprende:
-◦hacia las 9.30 h la locomotora de vapor fue acoplada a la vía de maniobras n.º 102, con el fin
-de comprobar su funcionalidad antes de la prestación planificada;
-◦se realizó la comprobación previa al llamado «encendido» y progresivamente se lubricó
-la locomotora de vapor;
+de la declaración prestada al DI se desprende:
+◦hacia las 9.30 h se acopló la locomotora de vapor a la vía de maniobras n.º 102, con el fin de verificar su funcionalidad antes de la prestación planificada;
+◦se realizó la comprobación antes del llamado «encendido» y progresivamente se engrasó la locomotora de vapor;
 ◦hacia las 9.45 h comenzó el llamado encendido de la locomotora;
-◦hacia las 17 h se estaba comprobando la funcionalidad de los inyectores, la turbina y los compresores;
-◦realizó la aseguración de la locomotora de vapor contra la puesta en marcha, mediante cuñas de madera,
-el freno manual, la apertura de las llaves de desagüe y la colocación del distribuidor en posición cero.
-El regulador estaba cerrado;
-◦en el momento de la ocurrencia del suceso se encontraba en el lado derecho del humero y comprobaba
-un punto de fuga del purgador delantero;
-◦oyó un estruendo ensordecedor y la locomotora se puso en marcha inmediatamente;
-◦subió a la locomotora e intentó detenerla, cuando, entre otras cosas, intentó también cambiar
-el distribuidor a la posición de avance;
-persona que realizaba el mantenimiento de la locomotora de vapor en el momento de la ocurrencia del suceso
-  – del Acta con
+◦hacia las 17 h se estaba verificando la funcionalidad de los inyectores, la turbina y los compresores;
+◦realizó la inmovilización de la locomotora de vapor contra el arranque no intencionado, mediante cuñas de madera, el freno de mano, la apertura de las llaves de desagüe y la colocación de la distribución en posición cero. El regulador estaba cerrado;
+◦en el momento del suceso se encontraba en el lado derecho del hogar y estaba localizando el punto de fuga del purgador delantero;
+◦oyó un estruendo ensordecedor y la locomotora se puso en marcha de inmediato;
+◦se subió a la locomotora e intentó detenerla, con lo que, entre otras cosas, intentó también colocar la distribución en sentido hacia adelante;
+persona que realizaba el mantenimiento de la locomotora de vapor en el momento del suceso
+  – según el Acta con
 •
 el empleado se desprende, entre otras cosas:
-◦la locomotora de vapor fue acoplada a la vía de maniobras n.º 102 con el fin de comprobar
-la funcionalidad de sus componentes, fue asegurada con cuñas de madera en ambos sentidos
-y mediante el apriete del freno manual;
-◦tras el encendido y la presurización de la caldera de la locomotora a 14,5 bares, después de las 17. h
-se estaba realizando la prueba de la turbina, del inyector izquierdo y derecho y del compresor;
-◦se produjo una avería en el compresor, por lo que sus compañeros lo desmontaron parcialmente
-y se fueron a resolver la avería al taller;
-◦permaneció junto a la locomotora y comprobaba un punto de fuga en el purgador delantero;
-◦oyó un estruendo enorme proveniente de la parte frontal de la locomotora de vapor y esta
-se puso inmediatamente en movimiento hacia atrás;
-◦aún llegó a subir a la locomotora en marcha y a acceder a la cabina;
-◦comprobó visualmente que el regulador estaba cerrado, el distribuidor colocado en el centro
-y las llaves de desagüe abiertas;
-◦intentó apretar aún más el freno manual, pero ya estaba apretado y no se podía apretar más;
-◦constató que la locomotora de vapor ya no podía detenerse, que aceleraba constantemente
-y se dirigía hacia el extremo de la vía en sacacorchos, por lo que saltó de ella hacia el lado derecho
-en el sentido de la marcha;
+◦la locomotora de vapor se acopló a la vía de maniobras n.º 102 con el fin de verificar la funcionalidad de sus componentes, se inmovilizó con cuñas de madera en ambos sentidos y mediante el apriete del freno de mano;
+◦tras la calefacción y la presurización de la caldera de la locomotora a 14,5 bares, después de las 17. h se realizó la prueba de la turbina, del inyector izquierdo y derecho y del compresor;
+◦se produjo una avería en el compresor y, por ello, sus compañeros lo desmontaron parcialmente y se fueron a resolver la avería en el taller;
+◦permaneció junto a la locomotora y localizaba el punto de fuga en el purgador delantero;
+◦oyó un estruendo enorme procedente de la parte frontal de la locomotora de vapor y esta se puso inmediatamente en movimiento en sentido hacia atrás;
+◦aún tuvo tiempo de subir a la locomotora en marcha y acceder a la cabina;
+◦comprobó visualmente que el regulador estaba cerrado, la distribución colocada en el centro y las llaves de desagüe abiertas;
+◦intentó apretar aún más el freno de mano, pero ya estaba apretado y no podía apretarse más;
+◦constató que la locomotora de vapor ya no podía detenerse, que aceleraba sin cesar y se dirigía hacia el final de la vía muerta, por lo que saltó de ella hacia el lado derecho en el sentido de la marcha;
 ◦sus compañeros se encargaron de asegurar la caldera de la locomotora.
 ### 3.1.2 Otros testigos
-testigo que realizaba el mantenimiento de la locomotora de vapor en el momento de la ocurrencia del suceso
-  – del Registro
+testigo que realizaba el mantenimiento de la locomotora de vapor en el momento del suceso
+  – según el Registro
 •
-de declaración presentada al DI se desprende:
-◦antes de la ocurrencia del suceso se realizó el acoplamiento de la locomotora de vapor,
-la comprobación previa al llamado «encendido» y se lubricó progresivamente;
-◦los trabajos en la locomotora de vapor se realizaron con el fin de comprobar su funcionalidad
-antes de la prestación planificada (con un tren especial);
-
+de la declaración prestada al DI se desprende:
+◦antes del suceso se realizó el acoplamiento de la locomotora de vapor, la comprobación antes del llamado «encendido» y progresivamente se engrasó;
+◦los trabajos en la locomotora de vapor se realizaron con el fin de verificar su funcionalidad antes de la prestación planificada (viaje especial);
 
 ## Página 24
 
-◦tras el llamado «encendido» se fue comprobar progresivamente la función de los distintos
-dispositivos y en ello se detectó una avería en el compresor (fallo de funcionamiento);
-◦no vio directamente el aseguramiento de la locomotora de vapor, pero fue asegurada
-con cuñas de madera, las llaves de desagüe estaban abiertas y el distribuidor en cero,
-el freno manual estaba apretado, el regulador estaba cerrado;
-◦en el momento de la ocurrencia del suceso se encontraba en el taller y fabricaba una junta
-para la tuerca del vástago del distribuidor;
-◦la ocurrencia del suceso excepcional se la comunicó un compañero;
-testigo, despachante de vía de CDP Přerov
-  – del Acta con el empleado se desprende,
+◦tras lo llamado «inundación», se fue comprobando progresivamente la función de cada uno de los aparatos y, al mismo tiempo, se detectó una avería en el compresor (falta de funcionamiento);
+◦no vio directamente la sujeción de la locomotora de vapor, pero estaba sujeta con cuñas de madera, las válvulas de drenaje estaban abiertas y el distribuidor estaba a cero, el freno de mano estaba apretado, el regulador estaba cerrado;
+◦en el momento de producirse la MU estaba en el taller y fabricaba una junta para la tuerca del vástago del distribuidor;
+◦la aparición de la excepción se la comunicó un compañero;
+testigo, despachador de vía CDP Přerov
+  – del Registro con el empleado, entre otros
 •
-entre otras cosas:
-◦a las 17.35 h detectó ocupado el circuito de vía de la vía 9a en la est. Veselí nad Moravou;
-◦mediante la visualización del sistema de cámaras vio humo en el extremo de la vía
-de estación n.º 9a;
-◦informó al jefe de estación de guardia de la est. Veselí nad Moravou de la situación y este
-a continuación comunicó el descarrilamiento de la locomotora de vapor en la vía n.º 9a;
+se deduce:
+◦a las 17.35 h detectó un circuito de vía ocupado en la vía 9a de la est. Veselí nad Moravou;
+◦mirando el sistema de cámaras vio humo en el extremo de la vía de estación n.º 9a;
+◦informó al jefe de maniobras de guardia de la est. Veselí nad Moravou y este a continuación comunicó el descarrilamiento de la locomotora de vapor en la vía n.º 9a;
 ◦no acordó la maniobra con nadie;
-◦comunicó el suceso excepcional según el horario de comunicación.
+◦comunicó la excepción conforme al horario de comunicaciones.
 ### 3.2 Sistema de garantía de la seguridad
 ### 3.2.1 Organización marco y forma de emisión y ejecución de instrucciones
-El explotador de la vía SŽDC tiene adoptado un sistema de garantía de la seguridad
-con base en las disposiciones de la ley n.º 266/1994 Sb.
-En el sistema de garantía de la seguridad de la explotación de la vía adoptado por el explotador
-de la vía SŽDC, relacionado con las circunstancias de la ocurrencia del suceso, no se detectó
-ninguna deficiencia.
-### 3.2.2 Requisitos para los empleados del explotador de la vía y del transportista y aplicación de dichos requisitos
-Los requisitos para los empleados de los explotadores de vías y del transportista, en particular
-los requisitos de idoneidad profesional y sanitaria, están establecidos por la ley n.º 266/1994 Sb.,
-el decreto n.º 173/1995 Sb., el decreto n.º 101/1995 Sb., el decreto n.º 16/2012 Sb.
-y las normas internas de los explotadores de vías y del transportista.
-En el momento de la ocurrencia del suceso, la persona encargada del mantenimiento de la
-locomotora de vapor (ČD) era profesionalmente idónea para el desempeño de la función que ocupaba.
-### 3.2.3 Procedimientos de control interno de seguridad y de auditoría y sus resultados
-En el procedimiento de control interno de seguridad de los explotadores de vías no se detectaron
-deficiencias.
-Para garantizar la aptitud para el servicio de la vía y la seguridad del transporte ferroviario en la
-vía privada DPOV, antes de la ocurrencia del suceso el explotador de la vía DPOV realizaba
-inspecciones y mediciones de las obras de vía de conformidad con el § 26 apartado 1 del decreto
-n.º 177/1995 Sb.
+El gestor de la vía SŽDC ha adoptado un sistema de garantía de la seguridad con base en las disposiciones de la ley n.º 266/1994 Sb.
+En el sistema de garantía de la seguridad de la explotación de la vía adoptado por el gestor de la vía SŽDC, relacionado con las circunstancias de la aparición de la MU en cuestión, no se constató ningún defecto.
+### 3.2.2 Requisitos para el personal de los gestores de vías y de los transportistas y aplicación de dichos requisitos
+Los requisitos para el personal de los gestores de vías y de los transportistas, en particular los requisitos de idoneidad profesional y sanitaria, están establecidos por la ley n.º 266/1994 Sb., el decreto n.º 173/1995 Sb., el decreto n.º 101/1995 Sb., el decreto n.º 16/2012 Sb. y las normas internas de los gestores de vías y de los transportistas.
+En el momento de producirse la MU en cuestión, la persona encargada del mantenimiento de la locomotora de vapor (ČD) era profesionalmente idónea para el desempeño de la función que ocupaba.
+### 3.2.3 Procedimientos de control interno de la seguridad y de auditoría y sus resultados
+En el procedimiento de control interno de la seguridad de los gestores de vías no se detectaron defectos.
+Para garantizar la explotabilidad de la vía y la seguridad del transporte ferroviario en el ramal DPOV, antes de la aparición de la MU, el gestor de la vía DPOV realizaba inspecciones y mediciones de las obras de vía de conformidad con el § 26 apartado 1 del decreto n.º 177/1995 Sb.
 
 ## Página 25
+
 
 Para garantizar la operatividad de la vía y la seguridad del transporte ferroviario en el ramal de ČD, antes de la aparición del MU, el explotador de la vía ČD realizó inspecciones y mediciones de las obras ferroviarias de conformidad con el § 26, apartado 1, del decreto n.º 177/1995 Sb.
 Para garantizar la operatividad de la vía y la seguridad del transporte ferroviario en la est. Veselí nad Moravou, antes de la aparición del MU, el explotador de la vía SŽDC realizó inspecciones y mediciones de las obras ferroviarias de conformidad con el § 26, apartado 1, del decreto n.º 177/1995 Sb.
@@ -822,8 +750,8 @@ En la investigación se constató una infracción de la normativa interna en rel
 parte II. PROCEDIMIENTOS TECNOLÓGICOS DE REPARACIÓN DE COMPONENTES DE LOCOMOTORAS,
 •
 
-
 ## Página 26
+
 
 DESGASTE ADMISIBLE DE COMPONENTES DE LOCOMOTORAS DE VAPOR Y TENDERS,
 de la normativa interna de ČSD V 19, donde se indica, entre otros:
@@ -852,8 +780,8 @@ El uso de los dispositivos de comunicación, transmisión e información no guar
 El HDV 90 54 3 997 031-0 disponía de un Certificado de Aptitud de Vehículo Ferroviario, n.º de referencia: PZ176453/18-V.60, expedido por DÚ el 16. 4. 2018.
 Los depósitos de aire del HDV 90 54 3 997 031-0 disponían de Certificados de Aptitud de Dispositivo Técnico Específico:
 
-
 ## Página 27
+
 
 n.º de referencia: PZ 2988/17-T.21, expedido por DÚ el 6. 10. 2017;
 •
@@ -875,8 +803,8 @@ a continuación, se detiene en un tramo de 50 m.
 Dado que el registrador de velocidad mencionado, si bien registraba la circulación de la locomotora de vapor, no era evidente si estaba correctamente ajustado (se estaba realizando el mantenimiento de la locomotora de vapor y no se contaba con su circulación), los valores de velocidad mencionados se compararon además con un cálculo teórico basado en los valores registrados por el sistema de cámaras de seguridad y en la distancia recorrida determinada. La locomotora de vapor, así, recorrió aproximadamente 62,5 m en 7 segundos en una parte de su circulación, lo que corresponde a una velocidad de aproximadamente 32 km.h-1. Puede concluirse, por tanto, que el registro del registrador de velocidad es real.
 La locomotora de vapor fue fabricada en el año 1956, con una velocidad máxima permitida de circulación de 50 km.h-1. Tiene distribución denominada «Heusinger» y freno de aire comprimido de tren y auxiliar, así como freno de mano. Para el ajuste de la distribución de la locomotora está equipada con un dispositivo reversor servoeléctrico ČKD (denominado «servomotor»), que sustituye el ajuste manual de la distribución de la locomotora mediante el husillo de distribución. El dispositivo reversor servoeléctrico ČKD funciona con aire comprimido tomado del depósito de aire principal de la locomotora. Si no hay aire comprimido disponible en la locomotora, se puede cambiar, mediante una llave de tres vías, el accionamiento de este dispositivo a vapor, que se suministra desde la cabeza de distribución. En el momento de la aparición
 
-
 ## Página 28
+
 
 del MU en cuestión, el dispositivo reversor ČKD del HDV no era accionado ni con aire comprimido ni con vapor.
 Cuando el dispositivo reversor servoeléctrico ČKD está en funcionamiento, el movimiento de la palanca de mando, situada en la cabina del maquinista, desde la posición central hacia delante o hacia atrás coincide con el sentido de circulación de la locomotora. Mediante transmisiones de palanca adecuadas con varillas se consigue un acoplamiento mutuo de los movimientos de la palanca de mando y de la corredera de distribución del dispositivo reversor ČKD de tal manera que el pistón del dispositivo reversor sigue (con cierto retraso) el movimiento de la palanca de mando. Cuando el pistón del dispositivo reversor se desplaza por efecto de posibles fuerzas externas sin la voluntad del maquinista, el pistón regresa automáticamente a la posición que le corresponde según el ajuste de la palanca de mando.
@@ -885,22 +813,23 @@ La varilla de corredera deslizante, que conecta la corredera con la excéntrica 
 En la inspección comisionada de la locomotora de vapor, que tuvo lugar el 11. 4. 2019 en las instalaciones del ramal DPOV, se detectó la deformación y rotura de la tubería interna de admisión entre el regulador y la cabeza del sobrecalentador. De este modo, el vapor y el agua arrancada de la caldera de locomotora llegaron a la máquina de vapor sin ningún tipo de regulación. En el marco de la reparación de la caldera de locomotora, que se realizó en el año 2009, la tubería de admisión en cuestión no fue reemplazada ni reparada, ya que el cliente no lo solicitó. A partir de la documentación disponible no fue posible determinar la antigüedad y el origen de la tubería en cuestión.
 Fig. n.º 7: Vista de la tubería de admisión deformada en la caldera de locomotora      Fuente: DI
 
-
 ## Página 29
+
 
 Posteriormente, la tubería interna de admisión dañada fue desmontada de la caldera y entregada a la Inspección Ferroviaria con el fin de su ulterior examen. En su inspección inicial se constató que tiene una longitud total de 2115 mm y se determinó un diámetro de 159 mm. La tubería de admisión estaba hundida hacia dentro aproximadamente en tres cuartos de su longitud y, en el extremo más cercano al purificador de agua, la pared considerablemente deformada estaba rota. En su inspección visual se constató que toda la superficie exterior e interior está atacada por la corrosión, la cual es considerablemente desigual, habiéndose producido la mayor pérdida por corrosión y la degradación del material asociada en la parte que, en la caldera de vapor, estaba más cerca del domo con el purificador de agua.
 Fig. n.º 8: Estado de la tubería de admisión tras su desmontaje de la caldera de locomotora
       Fuente: Sociedad Železniční Výtopna Veselí nad Moravou
 Con el fin de determinar el estado real de la tubería de admisión, se extrajeron de ella, en distintos puntos, un total de 5 muestras de material, y a continuación se midió su espesor mediante un calibre digital de desplazamiento. La medición se realizó sin limpiar la superficie de las muestras y tampoco se realizó siempre en los mismos puntos de referencia; no obstante, incluso así, de los resultados se desprende que el adelgazamiento de las paredes fue considerablemente desigual en la tubería en cuestión.
 
-
 ## Página 30
+
 
 Por ejemplo, en la muestra etiquetada como «3», se constató que la diferencia entre su parte más fina y más gruesa es de 2,47 mm, tratándose de una muestra de material de aproximadamente 4x4 cm de dimensiones. El espesor mínimo del material se detectó en la muestra etiquetada como «2», con un valor de 1,31 mm (véase Fig. n.º 10).
 Fig. n.º 9: Muestras de material obtenidas de la tubería de admisión                                Fuente: DI
 Fig. n.º 10: Muestras de material obtenidas de la tubería de admisión                                Fuente: DI
 
 ## Página 31
+
 
 Se detectaron deficiencias.  
 Hallazgos:
@@ -920,8 +849,8 @@ La persona encargada del mantenimiento de la locomotora de vapor (ČD) tuvo un d
 3.6.2 Estado de salud y situación personal que tuvieron incidencia en el suceso excepcional, incluido el estrés físico o psicológico
 En el momento de la aparición del SU de referencia, la persona encargada del mantenimiento de la locomotora de vapor (ČD) estaba apta para el desempeño de la función que desempeñaba. La investigación no arrojó datos de que la situación personal o el estado psicológico de las personas involucradas en el SU hubieran influido en la aparición del SU.
 
-
 ## Página 32
+
 
 3.6.3 Disposición del equipamiento del puesto de conducción o del vehículo ferroviario que influye en su manejo y uso
 La disposición y el equipamiento del puesto de trabajo de los empleados del gestor de la vía y del transportista no guardaban relación con la aparición del SU.
@@ -933,34 +862,34 @@ durante la llamada «encendida» de prueba y el maniobras en agosto de 2008 se d
 •
 Fig. n.º 11: Vista de la tubería de entrada dañada de la locomotora de vapor 475.111, con el punto dañado recortado                                  Fuente: ČESKÁ ZÁPADNÍ DRÁHA s. r. o.
 
-
 ## Página 33
+
 
 Fig. n.º 12: Vista de la tubería de entrada dañada de la locomotora de vapor 423.0145        
 Fuente: MBM rail s. r. o.
 Fig. n.º 13: Vista de la tubería de entrada dañada de la locomotora de vapor 475.101           
     Fuente: ČD
 
-
 ## Página 34
 
-en mayo de 2010 se detectó una avería en la tubería de entrada de la locomotora de vapor 423.0145.
+En mayo de 2010 se detectó una avería en la tubería de admisión de la locomotora de vapor 423.0145.
 •
-Se constató que incluso con el regulador cerrado el vapor seguía pasando continuamente a la máquina de vapor. La locomotora fue retirada del servicio y se detectó el daño en la tubería de entrada, que estaba perforada. El daño en la tubería de entrada se produjo al principio de su longitud, cuando el punto dañado lindaba con la caja de humos (véase la Fig. n.º 12);
-en 2017 se detectó una avería en la tubería de entrada de la locomotora de vapor 475.101. Se detectó
+Se constató que incluso con el regulador cerrado, el vapor seguía pasando continuamente a la máquina de vapor. La locomotora fue retirada del servicio y se detectó un daño en la tubería de admisión, que estaba perforada. El daño en la tubería de admisión se produjo al principio de su longitud, cuando el punto dañado lindaba con la caja de humos (véase Fig. n.º 12);
+en 2017 se detectó una avería en la tubería de admisión de la locomotora de vapor 475.101. Se
 •
-el daño en la tubería de entrada, que estaba perforada en uno de sus extremos (véase la Fig. n.º 13).
+detectó un daño en la tubería de admisión, que estaba perforada en uno de sus extremos (véase Fig. n.º 13).
 ## 4 ANÁLISIS Y CONCLUSIONES
 ### 4.1 Descripción final del suceso excepcional
-### 4.1.1 Elaboración de conclusiones sobre el suceso excepcional basadas en los hechos detectados en el punto 3
-Por motivo de mantenimiento, el 29. 3. 2019 hacia las 9.30 h se estacionó la locomotora de vapor en la vía de maniobras n.º 102 de la vía de maniobras DPOV; el aseguramiento debía realizarse según los procedimientos tecnológicos establecidos, es decir, la locomotora de vapor se aseguró mediante el apriete del freno de mano, las ruedas se acuñaron con cuñas de madera, el regulador se cerró, la distribución se puso en la posición media (cero) y se aseguró, y se abrieron las llaves de purga. Tras realizar la inspección prescrita de la caldera de locomotora y de la propia locomotora y su aseguramiento, hacia las 9.45 h aproximadamente comenzó el llamado «encendido» y progresivamente se elevó la presión en la caldera de locomotora hasta aproximadamente 14,5 bares.
+### 4.1.1 Elaboración de las conclusiones sobre el suceso excepcional basadas en los hechos
+constatados en el punto 3
+Por motivo de mantenimiento, el 29 de marzo de 2019 hacia las 9.30 h se acopló una locomotora de vapor a la vía de maniobras n.º 102 de la vía lateral DPOV; la seguridad debía realizarse según los procedimientos tecnológicos establecidos, es decir, la locomotora de vapor se aseguró mediante el apriete del freno de mano, las ruedas se calzaron con cuñas de madera, el regulador se cerró, la distribución se puso en posición central (cero) y se aseguró, y las llaves de desagüe se abrieron. Tras realizar la inspección prescrita de la caldera de la locomotora y de la propia locomotora y su aseguramiento, comenzó aproximadamente a las 9.45 h el llamado «encendido» y progresivamente se elevó la presión en la caldera de la locomotora hasta aproximadamente 14,5 bares.
 Durante el mantenimiento posterior se realizaron diversas operaciones relacionadas con la locomotora de vapor y, en ellas, se detectó una avería en el compresor. Por este motivo, el compresor se desmontó parcialmente y se liberó el aire comprimido de la locomotora. El dispositivo de retorno ČKD en el material rodante no estaba accionado por aire comprimido ni por vapor, y el freno de aire también quedó fuera de servicio por falta de aire comprimido.
-A las 17.18 h se produjo la deformación final de la tubería de entrada y la rotura de su pared, lo que se manifestó con un estruendo ensordecedor. La presión total de vapor y el agua arrastrada entraron a través de la tubería de alimentación en la cámara de la válvula y, a continuación, también en el cilindro de vapor. La locomotora comenzó a moverse inmediatamente hacia atrás.
-Ante esto reaccionó con rapidez la persona que en ese momento realizaba la inspección y el mantenimiento de la locomotora por su lado derecho en el área de la caja de humos. Se subió a la locomotora y llegó al puesto del maquinista, con el fin de intentar detener la locomotora. No obstante, tras realizar infructuosas operaciones para detenerla, saltó de ella en marcha hacia el lado derecho en el sentido de la marcha y sufrió heridas leves. Mientras tanto, la locomotora pasó por el desvío n.º 106A, continuó por la vía n.º 104, pasó por los desvíos n.º 102 y 101 situados en la vía de maniobras ČD y entró en el ámbito de la est. Veselí nad Moravou, cuando pasó junto a la señal Se8 con la indicación «Maniobras prohibidas», junto a la aguja de vía muerta Vk1 y el desvío n.º 4 y 1 hacia la vía n.º 9a.
-A continuación, la locomotora de vapor chocó con el tope de vía al final de la vía n.º 9a, hizo añicos el travesaño transversal que formaba la estructura del tope de vía y se detuvo en su cuerpo de tierra encauzada, al tiempo que descarriló y, vista desde la vía n.º 9a, quedó parcialmente inclinada hacia la derecha. Hasta la locomotora descarrilada
-
+A las 17.18 h se produjo la deformación final de la tubería de admisión y la rotura de su pared, lo que se manifestó con un estruendo ensordecedor. La presión total del vapor y el agua arrastrada entró a través de la tubería de alimentación en la cámara de la válvula y, posteriormente, también en el cilindro de vapor. La locomotora comenzó a moverse inmediatamente hacia atrás.
+Ante esto, reaccionó con rapidez la persona que en ese momento realizaba la inspección y el mantenimiento de la locomotora por su lado derecho, en la zona de la caja de humos. Subió a la locomotora y llegó al puesto del maquinista, con el fin de intentar detener la locomotora. No obstante, tras realizar infructuosas operaciones para detenerla, saltó de ella en marcha hacia el lado derecho en el sentido de la marcha y resultó levemente herido. Mientras tanto, la locomotora pasó por el desvío n.º 106A, continuó por la vía n.º 104, pasó por los desvíos n.º 102 y 101 situados en la vía lateral de ČD y entró en el ámbito de la estación de Veselí nad Moravou, donde pasó junto a la señal Se8 con la indicación «Maniobras prohibidas», junto a la aguja de desvío Vk1 rebatida y los desvíos n.º 4 y 1 hacia la vía n.º 9a.
+Posteriormente, la locomotora de vapor chocó con el tope de vía al final de la vía n.º 9a, hizo añicos el travesaño transversal que formaba la estructura del tope de vía y se detuvo en su cuerpo de tierra en talud, al tiempo que descarriló y, vista desde la vía n.º 9a, quedó parcialmente inclinada a la derecha. Del descarrilamiento
 
 ## Página 35
+
 
 llegaron a continuación los empleados que realizaban su mantenimiento y comenzaron a realizar las operaciones necesarias para asegurar la caldera de locomotora.
 ### 4.2 Análisis
@@ -972,6 +901,7 @@ Para verificar el motivo y determinar con precisión la causa de la deformación
 
 ## Página 36
 
+
 vapor sobrecalentado a una presión de aproximadamente 14,5 bares. Las deformaciones elásticas se desarrollaron durante la inestabilidad en grandes deformaciones plásticas, que en los puntos de mayor adelgazamiento de la pared de la tubería de entrada condujeron a su rotura. Para el valor nominal del espesor de la pared de 4,5 mm sin pérdida por corrosión de la tubería de entrada, se calculó el valor de la tensión crítica que llevaría al pandeo de la tubería en 97 bares. Con un adelgazamiento de su pared a un espesor de 2,5 mm, y esto aproximadamente a lo largo de 1 m, se calculó que se produciría el pandeo de la tubería con un valor de sobrepresión externa de aproximadamente 21 bares. Con un adelgazamiento del espesor de la pared a 1,3 a 1,5 mm a lo largo de 400 a 500 mm, se calculó que se produciría, con una sobrepresión externa de 14,5 bares, el pandeo de la parte adelgazada de la tubería. Realmente, este pandeo podría haberse producido incluso con una longitud de adelgazamiento de la tubería de entrada algo menor. Del cálculo también se deduce que el pandeo de la tubería de entrada no tenía por qué producirse incluso con una sobrepresión de 16 bares si el espesor de la pared se adelgazaba a un valor de 1,5 mm a lo largo de aproximadamente 400 mm. Sin embargo, un adelgazamiento adicional de la pared de 0,15 mm, es decir, a un valor de 1,35 mm, ya conduce al pandeo de la tubería con una sobrepresión externa de 14,5 bares. El mismo resultado tiene el adelgazamiento de la pared a un valor de 1,5 mm a lo largo de entre 400 y 500 mm.
 Al mismo tiempo, sin embargo, es necesario señalar que la evaluación del momento de pandeo de la tubería de entrada es aproximada, ya que el adelgazamiento real de su espesor de pared no era uniforme. Las conclusiones físicas, al igual que los valores numéricos aproximados del fenómeno evaluado, sin embargo, no cambian por ello.
 De este modo, se verificó así la causa de la destrucción de la tubería de entrada, pero también se verificó que incluso en la prueba de estanqueidad con presión de 16 bares, que se realizó 78 días antes de la aparición de la MU, el adelgazamiento crítico de la pared de la tubería de entrada no tenía por qué manifestarse de ninguna manera; más bien, esta prueba solo contribuyó al desarrollo progresivo del pandeo y a la aparición de grandes deformaciones plásticas.
@@ -980,8 +910,8 @@ La superficie interior de la caldera tenía en el momento de la inspección un c
 La corrosión del material influyó en los parámetros operativos y técnicos de la tubería de entrada (que es parte de la caldera), cuando progresivamente se produjo una pérdida fundamental de su material (para más detalles, véase el cap. 3.4.4 de esta ZZ) y la aparición de su pandeo. Para la aparición de la MU en cuestión es fundamental cómo se protegió la caldera de locomotora contra la corrosión y qué procesos químicos se produjeron en ella.
 El operador de la caldera de locomotora indicó que se ocupa de la cuestión del tratamiento del agua de caldera y que utiliza sustancias químicas para mejorar la calidad del agua, por ejemplo, Lokalkon. No obstante, en la actualidad no aborda en absoluto la protección contra la corrosión y lo justificó indicando que la locomotora de vapor se estacionaba en una nave climatizada y que el desagüe de la locomotora se producía mínimamente. Asimismo, comunicó que dosifica las sustancias químicas según la experiencia y el estado real de la caldera. Según la información disponible, tampoco controla los parámetros del agua de caldera
 
-
 ## Página 37
+
 
 mediante mediciones y análisis. Este enfoque es, desde el punto de vista del tratamiento del agua de caldera, problemático por su propia naturaleza, porque no garantiza que, por ejemplo, el producto Lokalkon se dosifique en la cantidad adecuada. Según las conclusiones de la DI, el producto Lokalkon debería ser adecuado para el tratamiento integral del agua de caldera (véase la composición del producto indicada en el documento ČSD V 11). El estado interior de la caldera de locomotora, que se determinó tras la aparición de la MU en cuestión, sin embargo, no correspondía a ello, lo que pudo tener relación con la antigüedad no especificada del producto o con su método de dosificación, el cual ya no puede cuantificarse retroactivamente.
 Para verificar el estado real y la composición del producto Lokalkon, se tomó una muestra del mismo en servicio y posteriormente se realizó un análisis químico, siendo el análisis realizado por un centro académico especializado que se ocupa de dicha cuestión. Los resultados se resumieron en el documento Acta de ensayo. De este documento, entre otras cosas, se deduce también la determinación de los compuestos mayoritarios de la muestra de Lokalkon tomada, cuando el carbonato de sodio tenía un 13% de presencia, el carbonato de sodio hidratado tenía un 25% de presencia, el hidrogenocarbonato de sodio hidratado tenía un 28% de presencia y el hidrogenocarbonato de sodio tenía un 34% de presencia.
@@ -989,8 +919,8 @@ Si tenemos en cuenta la composición esperada de Lokalkon, que debía tratarse d
 Para evaluar las posibilidades de influencia de las sustancias químicas en la corrosión y la comprensión relacionada de los procesos químicos que se producen durante la operación y las paradas de las calderas de locomotora, se encargó y elaboró un estudio que se ocupa de dicha cuestión, siendo parte de la misma también las recomendaciones para la operación y las paradas de las calderas de locomotora. Los resultados se resumieron en el documento Estudio de influencia y propuesta para la operación, que por razones de claridad se dividió en dos partes.
 La primera parte se dedica a explicar la situación corrosiva con el ejemplo de la composición del agua de caldera (resultados indicados en el documento Acta de ensayo), que fue tomada de la caldera de locomotora en servicio de la locomotora de vapor CZ-ČD 90 54 4230 009-1 (423.009), que opera también la empresa ČD. De la primera parte se deduce que la salinidad del agua de caldera estaba dentro de los límites recomendados por el documento ČSD V 11 (que el operador de la caldera de locomotora anuló y no sigue), los cuales son, sin embargo, totalmente inadmisibles para la operación de circuitos energéticos clásicos. Desde el punto de vista de la agresividad corrosiva, el parámetro más importante es la concentración de oxígeno disuelto, y dado que durante las paradas probablemente no se mantiene una concentración efectiva de desgasificantes químicos y el sistema de la caldera de locomotora no está herméticamente cerrado, la concentración de oxígeno disuelto se moverá probablemente en el área de saturación a presión atmosférica y a la temperatura ambiente, es decir, unos 8 – 9 mg/l. Sobre esta base se puede constatar que, debido a la alta salinidad y a la saturación de oxígeno, la muestra de agua mencionada es considerablemente agresiva desde el punto de vista corrosivo frente al acero al carbono común. De ello se puede deducir la conclusión general de que el sistema de mantenimiento y operación de las calderas de locomotora establecido por la empresa ČD permite que su superficie interior esté expuesta a la acción de un agua de caldera considerablemente agresiva desde el punto de vista corrosivo. Esta conclusión corresponde a las conclusiones que se hicieron tras la MU en cuestión en la caldera de locomotora de la locomotora de vapor, sin embargo, no se puede determinar retroactivamente a qué pérdidas por corrosión se llegó con el tiempo. El sistema establecido por el operador de la caldera de locomotora no contempla evidentemente la posibilidad de la acción de un agua de caldera agresiva desde el punto de vista corrosivo sobre la superficie interior de la caldera de locomotora, lo que influye en el cumplimiento permanente de los parámetros operativos y técnicos según la documentación técnica.
 
-
 ## Página 38
+
 
 En la segunda parte del documento Estudio de influencia y propuesta para la operación se indica la recomendación para la operación y las paradas de las calderas de locomotora, de la que se deduce que la corrosión representa un problema fundamental especialmente durante la parada de las calderas de locomotora, cuando en la caldera se deja agua de caldera concentrada y al enfriarse el sistema aspira el aire ambiente. Durante las paradas prolongadas existe también el peligro de desarrollo de una corrosión microbiana, que puede desarrollarse en lugares con acceso difícil al oxígeno (partes inferiores de la caldera, bajo capas de corrosión y depósitos, etc.). Es importante mencionar también que la operación ocasional de las calderas de locomotora conduce inevitablemente a la degradación de las capas de magnetita que se formaron en las calderas en épocas de operación más regular, porque se produce su oxidación progresiva durante las paradas. De las fotografías de las paredes interiores de la caldera de locomotora (véase Fig. n.º 7) se observa que en la inmensa mayoría de las superficies de la caldera la magnetita está oxidada y las capas de productos de corrosión están formadas por óxidos y oxihidróxidos férricos. Estos son la prueba de que todo el sistema de la caldera está sometido a corrosión por oxígeno. En la Fig. n.º 14 se muestra a continuación la superficie interior de la caldera de locomotora en el momento del comienzo de su reparación, donde se observan zonas oscuras en la superficie de las paredes interiores, lo que podría corresponder a restos de capas de magnetita, formados aún en épocas de operación regular.
 Fig. n.º 14: Superficie interior de la caldera de locomotora en el momento del comienzo de su reparación
@@ -1000,6 +930,7 @@ Se puede concluir así que, tras el fin de la operación regular de vapor, que s
 
 ## Página 39
 
+
 de calderas de locomotora otros requisitos. Además, las calderas de vapor siguen utilizándose en otros sectores industriales y se aplican continuamente en su explotación los conocimientos más recientes, que conducen a un funcionamiento lo más eficiente posible. En cambio, en lo que respecta a las calderas de locomotora, esta problemática no siguió desarrollándose (precisamente por el cese de la explotación de locomotoras de vapor), cuando además parte de los procedimientos tecnológicos fue eliminada (por ejemplo, el documento ČSD V 11, relativo al tratamiento de las aguas de alimentación y de caldera), o bien se suprimió la infraestructura tecnológica relacionada con la explotación de locomotoras de vapor (estaciones de bombeo, etc.). Los demás procedimientos tecnológicos del explotador de la caldera de locomotora (ČD) tampoco fueron actualizados y no tienen en cuenta los requisitos actuales para la explotación de locomotoras de vapor y calderas de locomotora.
 En vista de lo anterior, es necesario que el explotador de la caldera de locomotora (ČD) establezca nuevos procedimientos tecnológicos relativos a la explotación de calderas de locomotora, en los que se tenga en cuenta su explotación irregular y la problemática relacionada con la misma, como por ejemplo la protección de las calderas contra la corrosión, el cumplimiento de los parámetros operativos y técnicos según la documentación técnica, el archivo de la documentación técnica, las anotaciones en el llamado «libro de caldera», etc.
 Un hallazgo fundamental de la MU en cuestión fue también el hecho de que, en el momento de su creación, el equipo de inversión ČKD del material rodante no era accionado ni por aire comprimido ni por vapor. Faltaba así el medio necesario para accionar el distribuidor de locomotora y asegurarlo (la palanca de mando sí estaba asegurada). Por este motivo, en el caso concreto, el movimiento de la palanca de mando no se transmite al distribuidor de locomotora y su posición en esta situación no influye en la suya, a diferencia del cambio manual del distribuidor de locomotora mediante el husillo del distribuidor. Tras la MU, la locomotora tampoco podía ser frenada con el freno de aire.
@@ -1008,11 +939,10 @@ En el marco de la inspección de la locomotora de vapor tras la MU, se constató
 En el marco de la inspección posterior, se constató que en la escala de carga (del equipo de inversión ČKD), situada en la cabina del maquinista del material rodante en cuestión, están indicadas las letras «P» y «Z», no obstante, su ubicación en la escala está intercambiada, de modo que la letra «Z» está en la posición de «marcha adelante» y la letra «P» está en la posición de «marcha atrás».
 Con este motivo, se probó el funcionamiento y el cambio de la palanca de mando en la cabina del maquinista. En el momento de la inspección, la palanca de mando se pudo cambiar sin problemas y de forma continua hasta el valor «50» en la posición de «marcha atrás». A la posición contraria, es decir, a la posición de «marcha adelante», la palanca de mando solo se pudo cambiar hasta el valor «10». La posición de la palanca de mando se mantenía en la posición indicada mediante un segmento dentado.
 
-
 ## Página 40
 
-Como se indicó en el cap. 2.1.2 de esta ZZ, el distribuidor de locomotora fue cambiado tras el origen de la MU para la marcha en dirección «atrás», a pesar de la afirmación de las personas que realizaban el mantenimiento de la locomotora de vapor de que la habían puesto fuera de servicio y asegurado de conformidad con los procedimientos tecnológicos, es decir que, entre otras cosas, la palanca de mando en la cabina del maquinista había sido llevada a la posición central (cero) y asegurada.
-La razón del cambio del distribuidor y el consiguiente desplazamiento de la corredera de pistón no pudo determinarse en el marco de la investigación, ya que pudo deberse a un mal ajuste mutuo del distribuidor y la corredera de pistón, o como consecuencia de la destrucción de la tubería de admisión y el golpe relacionado con la misma, cuando la presión total del vapor y el agua arrastrada penetraron en la cámara de la corredera, mientras el distribuidor no era mantenido debido a la ausencia del medio de accionamiento (aire o, en su caso, vapor), o por un error del personal, que no llevó el distribuidor de locomotora a la posición cero, o el cambio del distribuidor se produjo durante la maniobra de la locomotora en su acoplamiento a la vía de maniobras n.º 102 de la vía DPOV, mientras el distribuidor no era mantenido debido a la ausencia del medio de accionamiento, o bien por una combinación de las posibilidades anteriores. La ausencia del medio necesario para accionar el distribuidor y el equipo de freno influyó en el origen y las consecuencias de la MU, ya que también por este motivo la locomotora de vapor, durante su marcha sin asegurar, solo fue frenada con el freno de mano.
+Como se indicó en el apartado 2.1.2 de la presente ZZ, el reparto de la locomotora fue reajustado tras la creación de la MU para la marcha en dirección «hacia atrás», a pesar de la afirmación de las personas que realizaban el mantenimiento de la locomotora de vapor de que la habían puesto fuera de servicio y asegurado de conformidad con los procedimientos tecnológicos, es decir que, entre otras cosas, la palanca de mando en la cabina del maquinista fue reajustada a la posición central (cero) y asegurada.
+La razón del reajuste del reparto y el consiguiente desplazamiento del vástago del pistón no pudo determinarse en el marco de la investigación, ya que pudo deberse a un mal ajuste mutuo del reparto y del vástago del pistón o como consecuencia de la destrucción de la tubería de admisión y el golpe consiguiente, cuando la presión total del vapor y el agua arrastrada penetraron en la cámara de la válvula, mientras que el reparto no fue mantenido debido a la ausencia del medio de mando (aire o, en su caso, vapor), o a un error del personal que no reajustó el reparto de la locomotora a la posición cero, o el reajuste del reparto se produjo durante las maniobras con la locomotora al acoplarla a la vía de maniobras n.º 102 de la vía lateral DPOV, mientras que el reparto no fue mantenido debido a la ausencia del medio de mando, o a una combinación mutua de las posibilidades anteriores. La ausencia del medio necesario para el mando del reparto y del aparato de freno influyó en la aparición y las consecuencias de la MU, ya que también por este motivo la locomotora de vapor, durante su marcha no asegurada, fue frenada únicamente con el freno de mano.
 ### 4.3 Conclusiones
 4.3.1 Causas directas e inmediatas del suceso excepcional, incluidos los factores que contribuyeron al mismo y que estuvieron relacionados con la actuación de las personas implicadas o con el estado de los vehículos ferroviarios o de las instalaciones técnicas
 La causa inmediata del suceso excepcional fue:
@@ -1020,9 +950,9 @@ la deformación de la tubería de admisión (que conduce el vapor a la máquina 
 •
 una sobrepresión externa y la rotura de la pared en la zona de su adelgazamiento.
 El factor que contribuyó al suceso excepcional fue:
-la ausencia del medio necesario para accionar el equipo de inversión servoeléctrico
+la ausencia del medio necesario para el mando del dispositivo servoasistido de retorno
 •
-ČKD de la locomotora y el freno de aire en la locomotora.
+de ČKD y del freno de aire en la locomotora.
 ### 4.3.2 Causas fundamentales relacionadas con la cualificación, los procedimientos y el mantenimiento
 Las causas fundamentales del suceso excepcional fueron:
 el adelgazamiento local y muy desigual de la pared de la tubería de admisión (que
@@ -1032,8 +962,8 @@ la no detección del adelgazamiento crítico de la pared de la tubería de admis
 •
 conduce el vapor a la máquina de vapor de la locomotora) y de la deformación elástica progresiva que se producía en dicha tubería.
 
-
 ## Página 41
+
 
 ### 4.3.3 Causas originadas en el marco jurídico y en el uso del sistema de garantía de la seguridad
 Causa en el sistema de seguridad:
@@ -1069,8 +999,8 @@ En el «Libro de caldera» de la locomotora de vapor inspeccionada, realizará
 ✔
 periódicamente anotaciones sobre el estado detectado. …».
 
-
 ## Página 42
+
 
 El explotador de la vía DPOV emitió tras el origen de la MU las siguientes medidas:
 De la carta «Información para los fines de la investigación del suceso excepcional a petición ref. n.º 6-1206/2019/DI-86», n.º 1/10137-2019, de fecha 10. 9. 2019 se desprende:
@@ -1091,8 +1021,8 @@ la adopción de una medida propia encaminada a la realización de las recomendac
 de seguridad anteriores también por parte de los demás explotadores de locomotoras de vapor que entren en consideración en la República Checa.
 El sentido de la recomendación de seguridad anterior es garantizar sistemáticamente que el explotador de la caldera de locomotora ČD modifique la problemática actualmente muy fragmentada y obsoleta de la explotación de calderas de locomotora (o incluso de locomotoras de vapor en general), mediante la actualización de los reglamentos internos existentes o mediante un nuevo reglamento interno, en el que se actualicen y tengan en cuenta los requisitos actuales para su explotación y la problemática relacionada con la misma, como por ejemplo la protección de las calderas de locomotora contra la corrosión, el cumplimiento de los parámetros operativos y técnicos según la documentación técnica, el archivo de
 
-
 ## Página 43
+
 
 la documentación técnica, las anotaciones en el llamado «libro de caldera», con lo que quedará claramente determinado qué procedimientos tecnológicos de los reglamentos internos actualmente vigentes (por ejemplo ČSD V 19, ČSD V 42, etc.) aplicar a la explotación de calderas de locomotora.
 Asimismo, con la misma se aborda la verificación del estado de tuberías de admisión similares en las demás locomotoras de vapor explotadas por la sociedad ČD, es decir, la verificación del estado técnico real de tuberías de admisión similares, ya que en ellas pueden aparecer deficiencias que no son directamente detectables en el marco de las revisiones, inspecciones y pruebas habituales, pero que en determinadas circunstancias pueden conducir al origen de un suceso excepcional similar y a la consiguiente alteración de la seguridad del transporte ferroviario.
@@ -1104,8 +1034,8 @@ inspector
 de la Inspección Territorial de Brno
 de la Inspección Territorial de Brno
 
-
 ## Página 44
+
 
 ## 7 ANEXOS
 ### Anexo n.º 1:
@@ -1115,12 +1045,13 @@ Fig. n.º 16: Vista de la locomotora de vapor tras la retirada del material circ
 
 ## Página 45
 
+
 Fig. n.º 17: Vista de los trabajos en el llamado «colocamiento sobre raíles» de una locomotora de vapor                 Fuente: DI
         Fuente: DI
 Fig. n.º 18: Vista de los trabajos en el llamado «colocamiento sobre raíles» de una locomotora de vapor
 
-
 ## Página 46
+
 
 ### Anexo n.º 2:
 Extracto de texto del documento Estudio de influencia y propuesta para la explotación (en el que, para simplificar y facilitar la comprensión, las siguientes imágenes y el texto se reproducen también con sus rótulos y numeración originales), del que, entre otras cosas, se desprende:
@@ -1137,8 +1068,8 @@ Corrosión del hierro y del acero al carbono en presencia de oxígeno. Carácter
 ### explotación más regular. La razón principal es la oxidación progresiva de la magnetita durante las paradas, cuando en la caldera permanece agua y, al mismo tiempo, no se impide la entrada
 ### de oxígeno atmosférico. Las fotografías suministradas (Fig. 3) dan testimonio de que en la inmensa
 
-
 ## Página 47
+
 
 mayoría de las superficies de caldera la magnetita ya está oxidada y las capas de productos corrosivos están
 ### formadas por óxidos y oxohidróxidos férricos. Estos son la prueba de que todo el sistema de la caldera
@@ -1150,10 +1081,10 @@ Los aditivos que se recomiendan para su uso en la explotación de calderas con u
 3. agentes para la suavización del agua
 4. agentes para la prevención de la espuma en el agua de caldera
 5. inhibidores de la corrosión
-## … 
-
+## …
 
 ## Página 48
+
 
 ### 3. Recomendaciones para la explotación. Parámetros del agua de caldera para contrarrestar la acción corrosiva durante la explotación.
 Como se ha indicado más arriba, la Directriz V11 contempla la explotación de la caldera con agua de alta salinidad (hasta 120 mval/l). Es necesario, por tanto, tener en cuenta que, incluso manteniendo todos los parámetros (alcalinidad total 13-35 mval/l, temperatura y presión operativas correctas), la situación no es favorable para la formación de una fina capa protectora de magnetita. En particular, un mayor contenido de iones cloruro dará lugar a que las capas óxidas que se formen sean gruesas y porosas. Sin embargo, estas capas también tienen cierto carácter protector y son señal de la ausencia de corrosión por oxígeno. La salinidad máxima permitida en la Directriz V11 se refiere, según nuestra opinión, a una explotación relativamente regular, en la que el medio de la caldera se desgasifica periódicamente. Si no es así y el oxígeno penetra en el medio de la caldera durante las frecuentes paradas, la alta salinidad total contribuirá considerablemente al desarrollo de la corrosión por oxígeno con todas sus consecuencias negativas. Si la superficie ya está considerablemente atacada por la corrosión por oxígeno (como puede apreciarse, por ejemplo, en la Fig. 3), la capa de magnetita puede formarse en cierta medida bajo los óxidos existentes, no obstante, no influirá significativamente en el comportamiento corrosivo y, tras la nueva entrada de oxígeno en el medio de la caldera, pasará a formas hidratadas de óxido o de oxihidróxidos férricos. Las partes externas de la capa corrosiva, es decir, el óxido férrico y los oxihidróxidos férricos, pueden liberarse parcialmente de la superficie durante la explotación. Su parcial transformación química inversa en magnetita es posible durante la explotación con agua bien desgasificada y con exceso de agente desgasificante químico, siempre que la explotación sea continuada y a largo plazo, lo cual no es la situación de las calderas de locomotoras históricas. Consideramos que, para la explotación intermitente, el agua de caldera debería tener una salinidad notablemente menor. La salinidad máxima es difícil de determinar; si se tuviera la posibilidad de obtener agua desmineralizada (por ejemplo, de la central térmica local como condensado de calefacción), sería muy ventajoso usar esta agua para el relleno. El agua debería, en todo caso, estar alcalinizada a un nivel de pH 10-11,5, debería explotarse con una dosis suficiente de suavizante (Lokalkon), pero también de inhibidor de la corrosión, por ejemplo con fosfato sódico (o en combinación con hidrogenofosfato sódico). La concentración del componente activo del inhibidor debería ser suficiente, es decir, en el caso del fosfato, por ejemplo, superior a 100 mg/l.
@@ -1163,8 +1094,8 @@ La dosificación de sulfito como agente desgasificante químico debería mantene
 El problema corrosivo fundamental de las calderas de locomotora lo representan, evidentemente, las paradas. Durante ellas se deja frecuentemente en la caldera agua de caldera concentrada, durante el enfriamiento el sistema aspira aire ambiente y el resultado es la corrosión por oxígeno.
 Otro peligro para las paradas prolongadas lo representa la posibilidad de desarrollo de un ataque corrosivo microbiano. Esta posibilidad es muy real: el peligro puede verse tanto en bacterias aerobias (géneros Thiobacillus, Gallionella, Sphaerotilus, etc.) como en bacterias anaerobias (Desulfovibrio, etc.), que pueden desarrollar su actividad en lugares con acceso difícil al oxígeno (partes inferiores de la caldera, bajo las capas corrosivas y los depósitos, etc.). Es necesario
 
-
 ## Página 49
+
 
 subrayar que algunos aditivos pueden, en su caso, conducir al favorecimiento de la actividad microbiana (fosfatos, algunos aditivos orgánicos, etc.). El peligro de corrosión bacteriana se ve, por supuesto, minimizado en gran medida por la explotación frecuente de la caldera. Si predominan las paradas, la caldera no ha sido explotada durante un tiempo prolongado y existe el peligro de desarrollo de una reactivación biológica (por ejemplo, por el uso de agua de alimentación de una fuente desconocida o sospechosa, etc.), puede plantearse el uso de productos biocidas para la desinfección preventiva de la caldera. Para este caso podrían recomendarse productos a base de tensioactivos catiónicos, o productos oxidantes (peróxido de hidrógeno, ácido peracético).
 a) Paradas a corto plazo: para las paradas a corto plazo (unos días como máximo) es necesario purgar la caldera en la medida de lo posible hasta una salinidad lo más baja posible, ajustar el pH a 10-11,5 y añadir al sistema de la caldera sulfito sódico, u otro reactivo para la desgasificación química, en abundante exceso. Además es necesario ajustar (añadir) la concentración del inhibidor de la corrosión. Durante la parada es necesario controlar regularmente la concentración residual del reactivo desgasificante. Esto es, por supuesto, bastante exigente para el personal de servicio, porque la toma de muestras debe realizarse según reglas estrictas y el propio análisis del sulfito no es una cuestión del todo sencilla.

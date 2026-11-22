@@ -10,13 +10,14 @@ chars: 89314
 ratio_longitud: 1.21
 tokens_in: 44107
 tokens_out: 31176
-verificacion: revisar
-notas_cifras: ["bloque 1: original bilingüe: se compara contra el idioma principal (PT)", "bloque 3: original bilingüe: se compara contra el idioma principal (CS)"]
-avisos: ["bloque 3: ratio 1.62"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (PT)", "página 3: original bilingüe: se compara contra el idioma principal (CS)", "página 6: original bilingüe: se compara contra el idioma principal (EN)", "página 7: original bilingüe: se compara contra el idioma principal (PT)", "página 10: original bilingüe: se compara contra el idioma principal (PT)", "página 11: original bilingüe: se compara contra el idioma principal (PT); ratio 2.35"]
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -39,13 +40,13 @@ IČ:   75009561
 mail@dicr.cz
 tel.: +420 736 521 003
 
-
 ## Página 2
+
 
 Este informe final es público y todos los hechos en él expuestos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ## 1 RESUMEN
                                                                                                                                                                                 Fuente: DI
@@ -68,8 +69,8 @@ manipulación incorrecta de las válvulas de aire del sistema de freno durante l
 •
 de la avería en el freno acumulador.
 
-
 ## Página 4
+
 
 Factor contribuyente:
 no fue detectado por la Drážní inspekce.
@@ -85,8 +86,8 @@ Recomendaciones de seguridad:
 no fueron emitidas por la Drážní inspekce.
 •
 
-
 ## Página 5
+
 
 ## SUMMARY
 Grade: 
@@ -124,8 +125,8 @@ none.
 Recommendation:
 not issued.
 
-
 ## Página 6
+
 
 # Índice
 1 RESUMEN........................................................................................................................3
@@ -178,8 +179,8 @@ mantenimiento, normas técnicas aplicables y otras normas internas..............
 3.4 Actividad de los vehículos ferroviarios y de otros dispositivos técnicos..........................................23
 3.4.1 Sistema de control, señalización y seguridad, incluidos los dispositivos para la grabación automática
 
-
 ## Página 7
+
 
 de datos.....................................................................................................23
 3.4.2 Componentes de la vía....................................................................................................24
@@ -225,6 +226,7 @@ ferroviario.....................................................................
 
 ## Página 8
 
+
 ## Lista de siglas y símbolos utilizados
 COP
 Centro central de notificación
@@ -266,8 +268,8 @@ ZZ                            Informe Final sobre los Resultados de la Investiga
 žst.
 estación ferroviaria
 
-
 ## Página 9
+
 
 ## Lista de siglas de las disposiciones legales, normas y normativas
 internas utilizadas
@@ -325,8 +327,8 @@ documento interno del transportista "Equipo de freno
 KBGM-P, RS-1 CD Vysočina – BR841" Knorr-Bremse ID
 núm.: TA36449/30, de fecha 22. 7. 2011
 
-
 ## Página 10
+
 
 ## 2 DATOS RELATIVOS A LA OCURRENCIA EXTRAORDINARIA
 ### 2.1 Ocurrencia extraordinaria
@@ -353,35 +355,14 @@ freno de mando y la posterior parada automática del tren. El maquinista elimin�
 avería apagando y encendiendo el freno de mando (véase el punto 3.4.4 ZZ) en el panel
 en el puesto de conducción del maquinista
 
-
 ## Página 11
 
-y volvió a poner el tren en marcha. Tras recorrer unos 80 m más, la avería se repitió y el
-tren volvió a detenerse automáticamente en el pk 28,196. El maquinista colocó la palanca
-de conducción en la posición "Freno", la palanca del freno de mando en la posición
-"Frenado" y fue a eliminar la avería al espacio para pasajeros, donde bajo los asientos se
-encuentran los armarios WE 1 y WE 2 con las válvulas de suministro de aire (en adelante,
-válvula) para los bogies 1 y 2. Tras manipular las válvulas del bogie 1, el maquinista salió
-del tren y lo sacudió mecánicamente. Como seguía oyendo aire escapando, realizó la
-manipulación de las válvulas también en el bogie 2, pero cuando salió del tren y sacudió
-mecánicamente también este bogie, el tren se puso repentinamente en marcha cuesta
-abajo de vuelta hacia la est. Velké Meziříčí y acto seguido se cerraron automáticamente las
-puertas por las que el maquinista había salido, ya que la automatización del vehículo no
-permite la marcha con las puertas abiertas, excepto en el modo de "Maniobra".
-Dado que el maquinista no pudo volver a subir al tren y el tren sin conductor con
-pasajeros continuó su marcha de vuelta en dirección a la est. Velké Meziříčí, llamó con el
-teléfono móvil de servicio al jefe de estación de la est. Velké Meziříčí y le informó de la
-situación creada. Después, siguió a pie al tren.
-Fig. núm. 2: Esquema del lugar de ocurrencia de la MU                                             Fuente: DI
-El jefe de estación de la est. Velké Meziříčí preparó la ruta para el tren en la 1. SK y
-esperó su llegada con los topes preparados. El tren, que se acercaba a la estación ya solo a
-la velocidad de una caminata, pasó junto a la señal de entrada "S" y a través de los
-desvíos núm. 14 y núm. 13 entró en la 1. SK. Después se detuvo a la altura de la señal L1
-en el pk 24,123, donde el jefe de estación lo aseguró con topes contra un mayor
-movimiento.
-
+y el tren volvió a ponerse en marcha. Tras recorrer otros ca. 80 m, la avería se repitió y el tren se detuvo nuevamente por sí solo en el km 28,196. El maquinista colocó la palanca de conducción en la posición «Freno», la palanca del freno de acumulación en la posición «Frenado» y se dirigió a eliminar la avería en el espacio para pasajeros, donde bajo los asientos se encuentran los armarios WE 1 y WE 2 con las válvulas de suministro de aire (en adelante, válvula) para los bogies 1 y 2. Tras manipular las válvulas del bogie 1, el maquinista salió del tren y lo purgó mecánicamente. Como seguía oyendo salir aire, manipuló también las válvulas del bogie 2, pero cuando salió del tren y purgó mecánicamente también este bogie, el tren se puso repentinamente en marcha cuesta abajo de vuelta hacia la est. Velké Meziříčí y, acto seguido, se cerraron automáticamente las puertas por las que el maquinista había salido, ya que la automatización del vehículo no permite la circulación con las puertas abiertas, salvo en el modo «Maniobra». Como el maquinista no podía volver a subir al tren y el tren sin conductor, con pasajeros a bordo, continuaba su marcha de vuelta hacia la est. Velké Meziříčí, llamó por el teléfono móvil de servicio al jefe de estación de la est. Velké Meziříčí y le informó de la situación surgida. A continuación, se dirigió a pie tras el tren.
+Fig. n.º 2: Esquema del lugar de origen de la MU                                                                                       Fuente: DI
+El jefe de estación de la est. Velké Meziříčí preparó la vía de circulación para el tren en la 1. SK y esperaba su llegada con los topes preparados. El tren, que se aproximaba a la estación ya solo a velocidad de marcha, pasó junto a la señal de entrada «S» y, a través de los desvíos n.º 14 y n.º 13, entró en la 1. SK. A continuación, se detuvo a la altura de la señal L1 en el km 24,123, donde el jefe de estación lo aseguró con topes contra un ulterior movimiento.
 
 ## Página 12
+
 
 Tras la inspección del lugar de la MU se constató lo siguiente:
 Tras recorrer desde el pk 28,196, el tren Os 24948 se detuvo en la est. Velké Meziříčí,
@@ -406,8 +387,8 @@ ver 2 – válvula de cierre de depósitos de aire y compresores A10 – cerrada
 ### ver 3 – válvula de cierre del freno de resorte F6/1 – cerrada.
 •
 
-
 ## Página 13
+
 
 Fig. núm. 4: Armario WE 2 con las válvulas de freno para el bogie 2 (estado tras la MU)                     Fuente: DI
 Armario WE 2 para el bogie 2:
@@ -437,8 +418,8 @@ El maquinista se sometió a una prueba de alcoholemia orientativa con el resulta
 el cual partió el tren descontrolado. En el tren se encontraban 11 pasajeros en el momento
 de la ocurrencia de la MU,
 
-
 ## Página 14
+
 
 que tras la parada en la est. Velké Meziříčí bajaron por su cuenta y poco después abandonaron
 las instalaciones de la estación. En la MU no se activó el IZS.
@@ -479,8 +460,8 @@ Explotador del ferrocarril (SŽDC):
 jefe de estación de la est. Velké Meziříčí, empleado de SŽDC, OŘ Brno, PO Brno.
 •
 
-
 ## Página 15
+
 
 Transportista (ČD):
 maquinista del tren Os 24948, empleado de ČD, OCP Východ.
@@ -529,6 +510,7 @@ pk 27,514 – 27,299 descenso 16,80 ‰;
 •
 
 ## Página 16
+
 
 km 27,299 – 27,193 pendiente 17,00 ‰;
 •
@@ -582,43 +564,47 @@ no fue registrada.
 ### 2.2.5 Trabajos realizados en el lugar y en sus alrededores
 En el lugar de la MU no se estaban realizando, inmediatamente antes de su aparición, por parte del propietario, del gestor de la vía ni de otras personas, ningún tipo de trabajos de reparación o de mantenimiento. La circulación en el lugar de la MU y sus alrededores se desarrollaba en régimen normal.
 
-
 ## Página 17
 
-### 2.2.6 Activación del plan para caso de suceso excepcional en la vía y procedimientos conexos
-9.14 h el jefe de estación de la est. Velké Meziříčí recibió la comunicación del maquinista del tren Os 24948
+### 2.2.6 Activación del plan para el caso de incidente en la vía y procedimientos conexos
+9.14 h el jefe de estación de Velké Meziříčí recibió el aviso del maquinista del tren Os 24948
 •
-sobre la aparición de MU y a continuación procedió según el horario de comunicaciones;
-10.09 h MU comunicada por la persona autorizada de SŽDC al COP DI;
+sobre la ocurrencia de un incidente y a continuación procedió según el calendario de avisos;
+10.09 h incidente comunicado por la persona autorizada de SŽDC al COP DI;
 •
-10.18 h COP DI ordenó el desplazamiento al lugar de la MU;
+10.18 h COP DI ordenó el desplazamiento al lugar del incidente;
 •
-11.36 – 16.51 h inspección del lugar de la MU por los inspectores de DI;
+11.36 – 16.51 h inspección del lugar del incidente por los inspectores de DI;
 •
-12.15 h el inspector de DI presente concedió el permiso para la liberación de la vía;
+12.15 h el inspector de DI presente concedió la autorización para la liberación de la vía;
 •
 12.15 h restablecimiento de la circulación.
 •
-### 2.2.7 Activación del plan del sistema integrado de emergencia, de los servicios de emergencia policiales y sanitarios y procedimientos conexos
-El plan IZS no fue activado dada la naturaleza de la MU.
-### 2.3 Fallecimientos, lesiones y daños causados
-2.3.1 En pasajeros y terceras personas, empleados del gestor de la vía y del transportista, incluidas personas en relación contractual
-En la MU no se produjo daño alguno a la salud de empleados del gestor de la vía, del transportista, de personas en relación contractual, ni tampoco de pasajeros y terceras personas.
+### 2.2.7 Activación del plan del sistema integrado de emergencias, de los servicios
+de emergencia policiales y sanitarios y de los procedimientos conexos
+El plan IZS no fue activado dada la naturaleza del incidente.
+### 2.3 Fallecidos, heridos y daños causados
+2.3.1 En pasajeros y terceros, empleados del gestor de la infraestructura y del transportista,
+incluidas personas en relación contractual
+En el incidente no se produjo daño alguno a la salud de los empleados del gestor de la
+infraestructura, del transportista, de las personas en relación contractual, ni de los
+pasajeros y terceros.
 ### 2.3.2 En objetos transportados, equipaje y otros bienes
-No se produjeron daños en objetos transportados, equipaje y otros bienes.
+No se causó daño en los objetos transportados, el equipaje ni otros bienes.
 ### 2.3.3 En vehículos ferroviarios, componentes de la vía y medio ambiente
-No se produjeron daños en vehículos ferroviarios, componentes de la vía ni en el medio ambiente.
+No se causó daño en los vehículos ferroviarios, los componentes de la vía ni el medio
+ambiente.
 ### 2.4 Circunstancias externas
 ### 2.4.1 Condiciones meteorológicas y datos geográficos
 Condiciones meteorológicas:
 despejado, + 6 °C, visibilidad no reducida por influencias meteorológicas.
 Datos geográficos:
-dirección recta, lugar de la MU en contrapendiente 16,73 ‰; la línea sobre un
-terraplén suave con zanjas de drenaje, en tramos alrededor de la vía de circulación
-masa forestal.
-
+tramo recto, lugar del incidente en pendiente del 16,73 ‰; la vía sobre un
+terraplén suave con zanjas de drenaje, en tramos a ambos lados de la vía
+forestal.
 
 ## Página 18
+
 
 ## 3 REGISTRO DE LA INVESTIGACIÓN Y DE LAS EXPLICACIONES PRESENTADAS 
 ### 3.1 Resumen de las explicaciones presentadas (sujeto a protección de la identidad de las personas)
@@ -648,8 +634,8 @@ los hechos indicados en el párrafo anterior):
 ◦al entrar en turno ni durante el mismo se produjo ninguna incidencia y hasta la aparición del suceso excepcional tampoco ninguna avería o defecto en el vehículo ferroviario;
 ◦ejerce la profesión de maquinista desde el año 1991 y circula por la línea Studenec – Křižanov varias veces por semana según el turno;
 
-
 ## Página 19
+
 
 ◦el puesto de maquinista en la unidad automotriz 841 002-9 le resulta adecuado, pero la ubicación de los armarios con las llaves de aire de los distintos bogies no es conveniente. Se encuentran bajo los asientos de los pasajeros, la visibilidad de las llaves es deficiente, el espacio de maniobra es reducido y de ello se deriva la escasa manejabilidad de cada una de las llaves;
 ◦la avería apareció por primera vez a unos 1 km del lugar del suceso excepcional, pero la eliminó solo apagando y encendiendo el freno de acumulador en el panel del maquinista. Posteriormente se manifestó de nuevo en el lugar del suceso excepcional, cuando el tren se detuvo otra vez;
@@ -671,8 +657,8 @@ jefe de estación de la est. Velké Meziříčí
 ◦el jefe de estación de la est. Křižanov le preguntó si el tren Os 24948 había salido de la est. Velké Meziříčí a tiempo;
 ◦a continuación intentó comunicarse con el maquinista de este tren, pero no lo consiguió,
 
-
 ## Página 20
+
 
 porque estaba permanentemente ocupado. Por tanto, supuso que estaba resolviendo alguna avería;
 ◦tras un rato le llamó el propio maquinista por teléfono móvil y le comunicó que el tren Os 24948 se había marchado sin maquinista en dirección a la est. Velké Meziříčí;
@@ -701,35 +687,32 @@ En el tren se encontraban 11 pasajeros, que abandonaron el tren inmediatamente d
 
 ### 3.2 Sistema de garantía de la seguridad
 ### 3.2.1 Organización marco y forma de emisión y ejecución de instrucciones
-El gestor de la vía y el transportista cuentan con un sistema de garantía de la seguridad adoptado en virtud de lo dispuesto en la Ley n.º 266/1994 Sb.
-En el sistema de garantía de la seguridad de la explotación de la vía adoptado por el gestor de la vía SŽDC, relacionado con las circunstancias de la aparición de la MU en cuestión, no se detectó ninguna deficiencia.
-En el sistema de garantía de la seguridad de la explotación del transporte ferroviario adoptado por el transportista ČD, relacionado con las circunstancias de la aparición de la MU en cuestión, no se detectó ninguna deficiencia (para más detalles, véanse las partes 3.3.2, 3.4.4 y 4.2.1 de la presente ZZ).
-### 3.2.2 Requisitos aplicables al personal del gestor de la vía y del transportista y aplicación de dichos requisitos
-Los requisitos aplicables al personal del gestor de la vía y del transportista, en particular los requisitos de idoneidad profesional y sanitaria, están establecidos por la Ley n.º 266/1994 Sb., el Decreto n.º 173/1995 Sb., el Decreto n.º 101/1995 Sb., el Decreto n.º 16/2012 Sb. y las normas internas del gestor de la vía y del transportista.
-En el momento de la aparición de la MU en cuestión, la persona del gestor de la vía SŽDC, participante en la MU y que desempeñaba actividades en la explotación de la vía, reunía la idoneidad profesional para el ejercicio de la función que desempeñaba.
-En el momento de la aparición de la MU en cuestión, la persona del transportista ČD, participante en la MU y que desempeñaba actividades en la explotación del transporte ferroviario, reunía la idoneidad profesional para el ejercicio de la función que desempeñaba.
-El maquinista del tren Os 24948 completó la formación profesional estándar para la conducción de la unidad motriz de la serie 841, cuyo contenido era:
+El gestor de la infraestructura y el transportista cuentan con un sistema de garantía de la seguridad adoptado en virtud de las disposiciones de la Ley n.º 266/1994 Sb.
+En el sistema de garantía de la seguridad de la explotación de la infraestructura adoptado por el gestor de la infraestructura SŽDC, relacionado con las circunstancias de la aparición de la MU en cuestión, no se detectó ninguna deficiencia.
+En el sistema de garantía de la seguridad de la explotación del transporte ferroviario adoptado por el transportista ČD, relacionado con las circunstancias de la aparición de la MU en cuestión, no se detectó ninguna deficiencia (para más detalles, véanse las secciones 3.3.2, 3.4.4 y 4.2.1 de la presente ZZ).
+### 3.2.2 Requisitos aplicables al personal del gestor de la infraestructura y del transportista y aplicación de dichos requisitos
+Los requisitos aplicables al personal del gestor de la infraestructura y del transportista, en particular los requisitos de idoneidad profesional y sanitaria, están establecidos por la Ley n.º 266/1994 Sb., el Decreto n.º 173/1995 Sb., el Decreto n.º 101/1995 Sb., el Decreto n.º 16/2012 Sb. y las normas internas del gestor de la infraestructura y del transportista.
+En el momento de la aparición de la MU en cuestión, la persona del gestor de la infraestructura SŽDC, participante en la MU y que desempeñaba actividades en la explotación de la infraestructura, contaba con la idoneidad profesional para el desempeño de la función que ocupaba.
+En el momento de la aparición de la MU en cuestión, la persona del transportista ČD, participante en la MU y que desempeñaba actividades en la explotación del transporte ferroviario, contaba con la idoneidad profesional para el desempeño de la función que ocupaba.
+El maquinista del tren Os 24948 completó la formación profesional estándar para la conducción de la unidad de tracción de la serie 841, cuyo contenido era:
 la construcción del vehículo y sus datos técnicos;
 ### •
-el manual de instrucciones de uso del vehículo y de su conducción;
+el manual de operación del vehículo y su conducción;
 •
 los procedimientos para la resolución de averías.
 •
-Tras finalizar esta formación profesional, el maquinista superó las siguientes pruebas:
-el 18. 9. 2012, la prueba de conocimientos de uso, conducción, construcción y eliminación
+Tras la finalización de esta formación profesional, el maquinista realizó las siguientes pruebas de evaluación:
+el 18 de septiembre de 2012, prueba de conocimientos de operación, conducción, construcción y eliminación de averías de la unidad de tracción de la serie 841, con el resultado «aprobado»;
 ### •
-de averías de la unidad motriz de la serie 841, con el resultado «aprobado»;
-el 7. 4. 2015, la prueba periódica de idoneidad profesional especial de conformidad con la Ley
+el 7 de abril de 2015, prueba periódica de idoneidad profesional especial de conformidad con la Ley n.º 266/1994 Sb., con el resultado «aprobado»;
 ### •
-n.º 266/1994 Sb., con el resultado «aprobado»;
-el 14. 2. 2018, la prueba periódica de idoneidad profesional especial de conformidad con la Ley
+el 14 de febrero de 2018, prueba periódica de idoneidad profesional especial de conformidad con la Ley n.º 266/1994 Sb., con el resultado «aprobado»;
 ### •
-n.º 266/1994 Sb., con el resultado «aprobado»;
-el 6. 12. 2018, el conocimiento de la línea Křižanov – Velké Meziříčí para el horario 2018/2019.
+el 6 de diciembre de 2018, reconocimiento de la línea Křižanov – Velké Meziříčí para el horario de trenes 2018/2019.
 •
 
-
 ## Página 22
+
 
 ### 3.2.3 Procedimientos de control interno de la seguridad y de auditoría y sus resultados
 En el procedimiento de control interno de la seguridad del gestor de la vía SŽDC no se detectaron deficiencias.
@@ -756,8 +739,8 @@ En la investigación se constató una infracción de la normativa jurídica en r
 «(1) El transportista está obligado a
 a) explotar el transporte ferroviario de conformidad con las normas de explotación del transporte ferroviario, la licencia vigente y el contrato celebrado con el gestor de la vía para la explotación del transporte ferroviario en la vía,»;
 
-
 ## Página 23
+
 
 § 35 apartado 1 letra d) del Decreto n.º 173/1995 Sb.:
 •
@@ -777,8 +760,8 @@ En la investigación también se constató el incumplimiento de los procedimient
 El SZZ de la estación de Velké Meziříčí cuenta con un Certificado de idoneidad de la instalación técnica designada, n.º de expediente: PZ 3642/96-E.43, emitido por DÚ el 30. 7. 1996, con la vigencia prorrogada por tiempo indefinido. La última inspección integral del SZZ se realizó los días 15. 4. 2015 y 23. 4. 2015, con la conclusión «La instalación inspeccionada y probada es operativamente apta.».
 La última inspección del SZZ antes de la aparición de la MU se realizó de conformidad con el plan de mantenimiento aprobado el 18. 2. 2019, con la conclusión «Las instalaciones de seguridad y de comunicación en estado operativo.».
 
-
 ## Página 24
+
 
 El SZZ de la estación no estaba equipado con un dispositivo para el archivo de su actividad. Del examen de los elementos de mando e indicación después de la MU se constató que el SZZ presentaba una actividad normal, no se registró ninguna avería ni se activaron los cierres de seguridad de los elementos de mando de emergencia. Dada la naturaleza del suceso, no fue necesario investigar más a fondo la actividad del SZZ.
 No se detectaron deficiencias.
@@ -794,8 +777,8 @@ El freno utiliza aire comprimido para transmitir energía para el frenado y, al 
 Si disminuye la presión en la tubería principal, los distribuidores de los distintos vehículos reaccionan y dejan pasar aire comprimido de los depósitos auxiliares a los cilindros de freno. De este modo, las zapatas se presionan contra las ruedas o las mordazas aprietan los discos de freno. La situación en la que la presión en la tubería principal cae por debajo de 3,5 bar se denomina frenado de acción rápida. El vaciado de la tubería principal se produce al accionar el freno a la posición de frenado de acción rápida, al activar el freno de emergencia o al producirse una rotura de la integridad de la tubería principal, por ejemplo en caso de rotura del tren.
 2. Freno de motor (retardador): freno dinámico, aprovecha el efecto de frenado del motor, se activa automáticamente al utilizarse el freno automático de aire neumático eléctrico. Garantiza una mayor eficacia de frenado y, al mismo tiempo, se produce un menor desgaste de los discos de freno.
 
-
 ## Página 25
+
 
 ### 3. Freno de estacionamiento de muelle: sirve para frenar el coche estacionado de manera similar al freno de mano. El freno de estacionamiento, acoplado al cilindro de freno del conjunto de freno, empuja mediante sus muelles la palanca de transmisión y presiona así las pastillas de freno contra los discos. El aire comprimido de la tubería de alimentación, conducido al pistón del muelle tras pulsar el botón en el puesto de conducción del maquinista, vence la fuerza del muelle y libera el freno de estacionamiento. Al estacionar el vehículo, el maquinista, pulsando el botón, deja salir el aire comprimido del cilindro de presión del muelle y el freno queda activado. Los coches están equipados con un total de tres cilindros de freno (cuatro en la vía
 ### empinada) con un refuerzo de muelle. Desenganchar = liberar.
@@ -839,6 +822,7 @@ tras recorrer 152,5 m, cuando el tren alcanzó una velocidad de 21,3 km.h-1, com
           a actuar el freno electromagnético;
 
 ## Página 26
+
 
 tras recorrer 16,3 m la velocidad del tren se redujo a 19,2 km.h-1
 9.14.31 h
@@ -890,8 +874,8 @@ se realizaron múltiples manipulaciones, tras las cuales la posición de estas v
 momento de la puesta en marcha automática del tren ya no podía impedir dicha puesta en
 marcha.
 
-
 ## Página 27
+
 
 Se detectó una deficiencia.
 Hallazgo:
@@ -959,8 +943,8 @@ también cambiaron otras variables de estado);
 9.12.52 h – válvula B14/2 cerrada;
 •
 
-
 ## Página 28
+
 
 9.12.53 h – válvula F6/2 abierta;
 •
@@ -1015,85 +999,63 @@ aire al freno acumulador del bogie 1. Por ello era necesario cerrar las válvula
 procedimiento descrito anteriormente en el bogie 1. Sin embargo, dado que la válvula A10
 estaba cerrada y la válvula B14/1 fue primero
 
-
 ## Página 29
 
-abierta y después vuelta a cerrar, el HDV no pudo frenar con ninguno de los bogies tras la
-purga manual de ambos bogies.
-De lo anteriormente expuesto se desprende que el tren Os 24948 se detuvo debido a una
-avería en el sistema de freno. El maquinista, en su intento de eliminar la avería y volver a
-poner el tren en marcha, manipuló las válvulas de aire de tal manera que dejó salir el aire
-de ambos bogies y, al mismo tiempo, cerró el suministro de aire desde los compresores,
-con lo que provocó que el HDV no fuera capaz de frenar y se pusiera en marcha por sí solo
-cuesta abajo de vuelta a la est. Velké Meziříčí. En esta puesta en marcha se cerraron
-automáticamente e inmediatamente las puertas de acceso, por lo que el maquinista, que se
-encontraba fuera del tren, no pudo volver a subir al mismo. Otra consecuencia de la
-manipulación de las válvulas de aire fue que el freno de rescate tampoco funcionaba, si
-bien con su accionamiento se produjo al menos la activación de la frenada electromagnética
-de riel, que con su funcionamiento descrito anteriormente logró ir frenando el tren hasta
-una velocidad de aprox. 20 km.h-1 hasta su detención por sí solo en la est. Velké
-Meziříčí.
+abierto y después cerrado de nuevo, el material rodante no podía frenar con ninguno de los bogies tras el purgado manual de ambos bogies.
+De lo anterior se deduce que el tren Os 24948 se detuvo debido a una avería en el sistema de freno. El maquinista, en su intento de eliminar la avería y volver a poner el tren en movimiento, manipuló las válvulas de aire de tal manera que liberó el aire de ambos bogies y al mismo tiempo cerró la entrada de aire de los compresores, con lo que causó que el material rodante no fuera capaz de frenar y se pusiera a rodar cuesta abajo por su propio peso de vuelta a la estación de Velké Meziříčí. En este arranque, las puertas de acceso se cerraron automáticamente de inmediato, de modo que el maquinista, que se encontraba fuera del tren, no pudo volver a subir al tren. Otra consecuencia de la manipulación de las válvulas de aire fue que el freno de emergencia tampoco funcionó, pero al activarlo se produjo al menos la activación del freno electromagnético de riel, que con su funcionamiento descrito anteriormente logró ir frenando el tren hasta una velocidad de unos 20 km.h-1 hasta su detención por su propio peso en la estación de Velké Meziříčí.
 ### 3.5 Documentación sobre el sistema de explotación
-### 3.5.1 Medidas adoptadas por los empleados del gestor de la infraestructura y del
-transportista en lo que respecta a la dirección y la seguridad del transporte
-En relación con el SU, no se adoptó ninguna medida por parte de los empleados del gestor
-de la infraestructura y del transportista relacionada con la aparición del SU antes de que
-este se produjera.
-3.5.2 Intercambio de comunicaciones orales en relación con el suceso extraordinario,
-incluidos los datos del dispositivo de registro
-En relación con el SU no se produjo ninguna comunicación verbal que influyera en su
-aparición.
-### 3.5.3 Medidas adoptadas para la protección y la seguridad del lugar del suceso
-extraordinario
-El lugar del SU fue asegurado por la persona físicamente competente designada por el
-gestor de la infraestructura y el transportista, de conformidad con el decreto n.º
-376/2006 Sb.
+### 3.5.1 Medidas adoptadas por los empleados del gestor de la vía y del transportista en materia de dirección y seguridad del transporte
+En relación con el SU, no se adoptó ninguna medida por parte de los empleados del gestor de la vía y del transportista relacionada con la aparición del SU antes de que este se produjera.
+3.5.2 Intercambio de comunicaciones orales en relación con el suceso excepcional, incluidos los datos del dispositivo de registro
+En relación con el SU no se produjo ninguna comunicación verbal que influyera en su aparición.
+### 3.5.3 Medidas adoptadas para la protección y seguridad del lugar del suceso excepcional
+El lugar del SU fue asegurado por la persona cualificada y competente designada por el gestor de la vía y el transportista de conformidad con el decreto n.º 376/2006 Sb.
 ### 3.6 Condiciones laborales, sanitarias y de explotación
-### 3.6.1 Jornada laboral de los empleados del gestor de la infraestructura y del
-transportista que fueron participantes en el suceso extraordinario
-maquinista del tren Os 24948, en el turno del 19. 2. 2019 desde las 2.32 h,
-•
-descanso previo al turno de 12.32 h; el descanso para la ingesta de alimentos y
-reposo se disfrutó en los intervalos adecuados entre trenes;
-jefe de estación de la est. Velké Meziříčí, en el turno del 19. 2. 2019 desde las
-•
-6.30 h, descanso previo al turno de 48 h; en el momento de la aparición del SU
-aún no había surgido el derecho al descanso para la ingesta de alimentos y reposo.
+### 3.6.1 Jornada laboral de los empleados del gestor de la vía y del transportista que fueron participantes en el suceso excepcional
+• el maquinista del tren Os 24948, en el turno del día 19. 2. 2019 desde las 2.32 h, descanso previo al turno de 12.32 h; el descanso para comida y reposo se disfrutó en los intervalos adecuados entre trenes;
+• el jefe de estación de la estación de Velké Meziříčí, en el turno del día 19. 2. 2019 desde las 6.30 h, descanso previo al turno de 48 h; en el momento de la aparición del SU aún no había surgido el derecho al descanso para comida y reposo.
 
 ## Página 30
 
-Los empleadores garantizaron las condiciones de descanso antes del turno y durante el turno, incluido el sueño en la cama de los maquinistas, de conformidad con la Ley n.º 262/2006 Sb., o con el Decreto del Gobierno n.º 589/2006 Sb., por el que se establece la regulación excepcional de la jornada laboral y del tiempo de descanso de los empleados en el transporte.
+Los empleadores garantizaron las condiciones de descanso antes del turno y durante el turno, incluido el sueño en la cama de los maquinistas, de conformidad con la ley n.º 262/2006 Sb., o con el decreto gubernamental n.º 589/2006 Sb., por el que se establece un régimen diferenciado de la jornada laboral y del tiempo de descanso de los empleados en el transporte.
 3.6.2 Estado de salud y situación personal que tuvieron incidencia en el suceso excepcional, incluido el estrés físico o psicológico
-Los empleados participantes del gestor de la vía y del transportista se encontraban, en el momento de producirse el SE, aptos para el desempeño de la función que desempeñaban. La investigación no arrojó que la situación personal o el estado psicológico de las personas participantes en el SE hubieran tenido influencia en su producción.
-Los empleados del gestor de la vía y del transportista se sometían a exámenes médicos periódicos de conformidad con lo dispuesto en la Resolución n.º 101/1995 Sb. No se detectó ningún estado de salud ni situación personal que pudiera haber influido en la producción del SE, incluido el estrés físico y psicológico.
-3.6.3 Disposición del equipamiento del puesto de mando o del vehículo ferroviario que incide en su conducción y utilización
+Los empleados participantes del gestor de la vía y del transportista estaban, en el momento de producirse el SE, aptos para el desempeño de la función que ocupaban. La investigación no constató que la situación personal o el estado psicológico de las personas participantes en el SE tuvieran influencia en su producción.
+Los empleados del gestor de la vía y del transportista se sometían a reconocimientos médicos periódicos de conformidad con lo dispuesto en la disposición n.º 101/1995 Sb. No se constató la existencia de un estado de salud o una situación personal que pudieran tener influencia en la producción del SE, incluido el estrés físico y psicológico.
+3.6.3 Disposición del equipamiento del puesto de conducción o del vehículo ferroviario que incide en su conducción y utilización
 La disposición y el equipamiento del puesto de trabajo de los empleados del gestor de la vía y del transportista no guardaban relación con la producción del SE.
-### 3.7 Sucesos excepcionales anteriores de carácter similar
-El DI registra en el periodo comprendido entre el 1. 1. 2008 y la fecha de producción del SE objeto de estudio, en las vías ferroviarias, categorías nacional y regional, un total de 2 SE similares, en los que una composición de tren no asegurada partió sin ocupación del maquinista hacia la vía de trayecto.
-El DI investigó las causas y circunstancias, en el periodo comprendido entre el 1. 1. 2008 y la fecha de producción del SE objeto de estudio, en las vías ferroviarias, categorías nacional y regional, de los siguientes SE similares:
-• del 27. 6. 2009 en la est. Rájec-Jestřebí, en el que se produjo la marcha de la composición del tren EC 174
-desde la vía de estación n.º 2 de la est. Rájec-Jestřebí en dirección a la est. Blansko. La causa inmediata fue la falta de aseguramiento de la composición mediante la aplicación del freno continuo y de los frenos manuales de los vagones; como factor contribuyente, el no uso del freno de emergencia para detener la composición inmediatamente después de detectar el movimiento inesperado de la misma. En este SE no se produjeron daños personales ni daños materiales. No se emitió ninguna recomendación de seguridad. El transportista adoptó respecto a este SE una medida que obliga a informar, en la formación periódica de los maquinistas, de su desarrollo, causa y consecuencias;
-• del 2. 8. 2017 en la est. Kadaň-Prunéřov, en el que se produjo la marcha de una unidad eléctrica inactiva, apartada del tren Os 7080 en la est. Kadaň-Prunéřov, en dirección a la parada Kadaň předměstí. La causa inmediata fue la falta de aseguramiento de la unidad eléctrica inactiva por parte de la persona que conduce el vehículo ferroviario contra el movimiento no deseado tras su apartamiento.
-
+### 3.7 Sucesos excepcionales previos de carácter similar
+El DI registra, en el periodo comprendido entre el 1 de enero de 2008 y la fecha de producción del SE objeto de estudio, en las vías ferroviarias de categoría nacional y regional, un total de 2 SE similares, en los que una composición de tren no asegurada partió sin ocupación del maquinista hacia la vía de circulación.
+El DI investigó las causas y circunstancias, en el periodo comprendido entre el 1 de enero de 2008 y la fecha de producción del SE objeto de estudio, en las vías ferroviarias de categoría nacional y regional, de los siguientes SE similares:
+• del 27 de junio de 2009 en la estación de Rájec-Jestřebí, en el que se produjo la marcha de la composición del tren EC 174
+desde la segunda vía de estacionamiento de la estación de Rájec-Jestřebí en dirección a la estación de Blansko. La causa inmediata fue la falta de aseguramiento de la composición mediante la aplicación del freno continuo y de los frenos manuales de los vagones; como factor contribuyente, el no uso del freno de emergencia para detener la composición inmediatamente después de detectar el movimiento inesperado de la misma. En este SE no se produjeron daños personales ni daños materiales. No se emitió ninguna recomendación de seguridad. El transportista adoptó, respecto de este SE, una medida consistente en informar, durante la formación periódica, a los maquinistas de su desarrollo, causa y consecuencias;
+• del 2 de agosto de 2017 en la estación de Kadaň-Prunéřov, en el que se produjo la marcha de una unidad eléctrica inactiva, estacionada aparte del tren Os 7080 en la estación de Kadaň-Prunéřov, en dirección a la parada de Kadaň předměstí. La causa inmediata fue la falta de aseguramiento de la unidad eléctrica inactiva por parte de la persona que conduce el vehículo ferroviario contra el movimiento no deseado después de su estacionamiento.
 
 ## Página 31
 
-En este SE no se produjeron daños personales; se produjo un daño material por importe de 250 Kč. No se emitió ninguna recomendación de seguridad. El transportista adoptó respecto a este SE una medida que obliga a someter a discusión, en el próximo órgano consultivo de directivos de la correspondiente unidad organizativa, la causa del SE y la responsabilidad por su producción, incluida la emisión de instrucciones encaminadas a prevenir la producción de SE similares.
-## 4 ANÁLISIS Y CONCLUSIONES
-### 4.1 Descripción final del suceso excepcional
-### 4.1.1 Elaboración de las conclusiones sobre el suceso excepcional basadas en los hechos
-determinados en el punto 3
-El 19. 2. 2019 se produjo en la vía de trayecto entre las est. Velké Meziříčí y Křižanov una circulación no asegurada del tren Os 24948, que marchó sin maquinista desde el km 28,196 por una pendiente de 16,73 ‰ en sentido contrario a su dirección original de circulación, de vuelta a la est. Velké Meziříčí.
-El tren Os 24948 partió de la est. Velké Meziříčí a las 8.44.09 h. En el km 28,113 y posteriormente también en el km 28,196 el tren se detuvo de forma espontánea debido a una avería del freno de acumulador, que fue señalizada en el puesto del maquinista. El maquinista logró subsanar la avería en el km 28,113 apagando y encendiendo dicho freno, sin embargo no logró subsanar de esta manera la avería en el km 28,196. El maquinista procedió entonces, con el fin de subsanarla, a manipular las válvulas de cierre en el armario WE 1 y, fuera del tren, a purgar el freno del bogie 1. A continuación procedió a otra manipulación de las válvulas de cierre en el armario WE 2 y, de nuevo fuera del tren, a purgar el freno del bogie 2. En ese momento el tren se puso en marcha cuesta abajo hacia la est. Velké Meziříčí, se cerraron las puertas de acceso y el tren partió sin él. El maquinista comunicó inmediatamente este hecho al jefe de estación de la est. Velké Meziříčí y se dirigió a pie tras el tren.
-El jefe de estación de la est. Velké Meziříčí dispuso para el tren una ruta hacia la vía de estación libre n.º 1 y, con topes, esperaba su llegada. El tren, tras su llegada a la estación, se detuvo en el km 24,123, donde el jefe de estación lo aseguró con topes contra un ulterior movimiento. No se produjeron lesiones ni daños a la propiedad.
-### 4.2 Análisis
-### 4.2.1 Evaluación de los hechos determinados en el punto 3 y formulación de las conclusiones sobre la causa
-del suceso excepcional y la actuación de los servicios de emergencia
-En el momento en que el tren Os 24948, tras su partida de la est. Velké Meziříčí, se aproximaba a la parada Martinice u Velkého Meziříčí, se produjo en el km 28,113 la detención espontánea del tren mediante frenado de acción rápida. Se señalizó una avería del freno de acumulador, que el maquinista subsanó apagándolo y encendiéndolo. A continuación se puso en marcha con el tren, sin embargo en el km 28,196 se produjo una nueva detención espontánea y la señalización de la avería del freno de acumulador.
-Dado que esta vez no fue posible subsanar la avería con el simple apagado y encendido del freno de acumulador, y el maquinista escuchaba una fuga de aire, se dirigió al espacio para pasajeros, donde se encuentran situados los armarios con las válvulas de cierre WE 1 (para el bogie 1) y WE 2 (para el bogie 2). La causa de la fuga de aire fue el aflojamiento de la unión roscada de la manguera B17,
+En esta MU no se produjeron lesiones personales; se originó un daño material por importe de 250 Kč. No se emitió ninguna recomendación de seguridad. El transportista adoptó con respecto a esta MU una medida que ordena incluir la causa de la MU y la responsabilidad de su producción, incluida la asignación de instrucciones encaminadas a prevenir la producción de MU similares, para su debate en el próximo órgano consultivo de directivos de la correspondiente unidad organizativa.
 
+## 4 ANÁLISIS Y CONCLUSIONES
+
+### 4.1 Descripción final del suceso excepcional
+
+### 4.1.1 Elaboración de las conclusiones sobre el suceso excepcional basadas en los hechos constatados en el punto 3
+
+El 19. 2. 2019 se produjo en la vía de tráfico entre la est. Velké Meziříčí y Křižanov una circulación no asegurada del tren Os 24948, que se desplazó sin maquinista desde el pk 28,196 pendiente abajo 16,73 ‰ en sentido contrario a su dirección de circulación original, de vuelta a la est. Velké Meziříčí.
+
+El tren Os 24948 partió de la est. Velké Meziříčí a las 8.44.09 h. En el pk 28,113 y posteriormente también en el pk 28,196 el tren se detuvo de forma espontánea debido a una avería del freno de acumulador, que fue señalizada en la cabina del maquinista. El maquinista logró eliminar la avería en el pk 28,113 apagando y encendiendo dicho freno, sin embargo, la avería en el pk 28,196 ya no pudo eliminarla de esta manera. El maquinista realizó entonces, con el fin de eliminarla, maniobras con las válvulas de cierre en el armario WE 1 y, fuera del tren, el desacoplamiento del freno del bogie 1. A continuación realizó otras maniobras con las válvulas de cierre en el armario WE 2 y, de nuevo fuera del tren, el desacoplamiento del freno del bogie 2. En ese momento el tren se puso en marcha pendiente abajo hacia la est. Velké Meziříčí, se cerraron las puertas de acceso y el tren partió sin él. El maquinista comunicó inmediatamente este hecho al jefe de estación de la est. Velké Meziříčí y se dirigió a pie tras el tren.
+
+El jefe de estación de la est. Velké Meziříčí dispuso para el tren una ruta de circulación hacia la vía libre 1. SK y esperaba su llegada con topes. El tren, tras su llegada a la estación, se detuvo en el pk 24,123, donde el jefe de estación lo aseguró con topes contra un ulterior movimiento. No se produjeron lesiones ni daños materiales.
+
+### 4.2 Análisis
+
+### 4.2.1 Evaluación de los hechos constatados en el punto 3 y exposición de las conclusiones sobre la causa del suceso excepcional y la actuación de los servicios de rescate
+
+En el momento en que el tren Os 24948, tras su partida de la est. Velké Meziříčí, se aproximaba a la parada Martinice u Velkého Meziříčí, se produjo en el pk 28,113 la detención espontánea del tren mediante frenado de acción rápida. Se señalizó una avería del freno de acumulador, que el maquinista eliminó apagándolo y encendiéndolo. A continuación se puso en marcha con el tren, sin embargo, en el pk 28,196 se produjo de nuevo una detención espontánea y la señalización de la avería del freno de acumulador.
+
+Dado que esta vez ya no fue posible eliminar la avería simplemente apagando y encendiendo el freno de acumulador, y el maquinista escuchaba una fuga de aire, se dirigió al espacio para pasajeros, donde se encuentran situados los armarios con las válvulas de cierre WE 1 (para el bogie 1) y WE 2 (para el bogie 2). La causa de la fuga de aire fue el aflojamiento de la unión roscada de la manguera B17,
 
 ## Página 32
+
 
 que conduce el aire al freno de acumulador del bogie 1, hecho que sin embargo el maquinista desconocía en ese momento.
 La manipulación del maquinista con las válvulas del armario WE 1 consistió en cerrar la válvula de cierre de presión hacia los cilindros de freno B14/1, la válvula de cierre de los depósitos de aire y compresores A10 y la válvula de cierre del freno de muelle F6/1. Sin embargo, según su propia declaración, el maquinista no es consciente de haber cerrado la válvula A10. Tras esta manipulación, salió del tren y purgó manualmente el freno de acumulador del bogie 1. Sin embargo, como seguía escuchando la fuga de aire, regresó al tren y procedió a manipular las válvulas del armario WE 2, sin haber realizado previamente las acciones necesarias subsiguientes en el armario WE 1. Dichas acciones consistían en que debía abrir la válvula B14/1 y también la válvula A10, de la que supuestamente no sabía que estaba cerrada. De ello se derivó que quedó cerrado el paso del aire desde los compresores y depósitos de aire a la tubería de freno de ambos bogies.
@@ -1102,8 +1064,8 @@ El maquinista tenía en su puesto un documento – ayuda denominada «Jak vyzrá
 • «9/ Volvemos al armario bajo el asiento sobre el bogie correspondiente y volvemos a abrir la llave de entrada de presión de aire a los cilindros de freno B 14/1 (o B 14/2) en el puesto bajo el cual apagamos el freno de acumulador. Cerramos el armario con las llaves. La reapertura de esta llave es también muy importante, de lo contrario el MV circulará a 120 km/h sin restricción, pero no frenará plenamente (solo la mitad), ¡y eso sería muy peligroso!!! …
 • «12/ Si hemos hecho todo según este manual, no hay nada que temer, el vehículo frena plenamente, es posible continuar a velocidad no reducida. Solo al apartar el vehículo en una pendiente superior a 15 milésimas es necesario, según el manual, asegurar el vehículo además mediante el calzado con cuñas. Esto en ningún sitio nos amenaza, donde apartamos no hay tales pendientes. Así solo se puede apartar un bogie o el otro. Ante la avería de ambos acumuladores – lo cual es muy improbable – es para el remolque por otro vehículo, el nuestro no circulará por sí solo. ¡Nunca apartes el freno de acumulador en ambos bogies a la vez! Esto solo puede realizarse mediante el remolque por otro vehículo, ¡y solo tras engancharse a él!»
 
-
 ## Página 33
+
 
 Comparación de los pasos prescritos según las instrucciones del fabricante para la subsanación de la avería del freno de acumulador y de la manipulación real efectuada por el maquinista del tren Os 24948:
 ### A. Procedimiento prescrito:
@@ -1123,12 +1085,13 @@ La combinación de cierre y apertura de válvulas que el maquinista realizó con
 
 ## Página 34
 
+
 con la tracción fue activado el freno electromagnético de riel. Sin embargo, debido a las protecciones térmicas contra el sobrecalentamiento, se desactivaba siempre que se alcanzaba la temperatura crítica. Tras enfriarse, se volvía a activar y de este modo "pulsaba" hasta la parada del DV en la estación de Velké Meziříčí.
 Fig. n.º 5: Plano de las válvulas en el armario WE 1, situado en su puerta. Las válvulas se muestran en posición abierta                                                                               Fuente: DI
 Fig. n.º 6: Plano de las válvulas en el armario WE 2, situado en su puerta. Las válvulas se muestran en posición abierta                                                                  Fuente: DI
 
-
 ## Página 35
+
 
 Según la declaración del maquinista, la disposición del panel de control le resulta adecuada, pero no le satisface la ubicación de los armarios WE 1 y WE 2 en el espacio para pasajeros, porque en caso de necesidad de manipular en ellos se encuentra bajo su gran presión, lo que le impide concentrarse adecuadamente en la actividad que realiza. Del registro del velocímetro se deduce (véase la parte 3.4.4 ZZ) que su manipulación total del DV, las válvulas y los frenos le llevó 24 minutos y 38 s (a las 8.49.03 h el tren se detuvo en el km 28,196, a las 9.13.41 h volvió a ponerse en marcha en sentido contrario a su circulación hasta entonces – momento de origen de la MU). Dada la duración mencionada de la parada del tren en el lugar, es bastante comprensible la posible nerviosidad y la presión de los pasajeros sobre su persona, ya que es un tiempo que desde el punto de vista de los pasajeros es visiblemente desproporcionado con la manipulación realizada, a pesar de que consultó la situación con otro maquinista.
 Además, según su opinión, le molesta el mal acceso a las válvulas en estos armarios, porque en ellos hay un espacio reducido y se ven mal. No obstante, el maquinista había sido formado y examinado profesionalmente en la operación del DV de la serie 841, entre otras cosas, en los procedimientos correctos para resolver sus averías, y tenía los planos de las válvulas directamente delante de sí en los armarios WE 1 y WE 2, que están situados en sus puertas. Las válvulas con las correspondientes descripciones se muestran en ellos en posición abierta (véanse las Fig. n.º 5 y n.º 6). Del tiempo de manipulación y de los procedimientos mencionados se desprende más bien la perplejidad del maquinista, que evidentemente no sabía cómo hacer frente a la situación surgida y actuó de tal manera que ello desembocó en la aparición de la MU.
@@ -1149,8 +1112,8 @@ del tren Os 24948 al eliminar la avería del freno acumulador.
 ### 4.3.3 Causas originadas en el marco legal y en el uso del sistema de garantía de la seguridad
 No fueron detectadas por la Inspección Ferroviaria.
 
-
 ## Página 36
+
 
 ### 4.4 Hallazgos complementarios
 4.4.1 Deficiencias y omisiones detectadas durante la investigación que no se refieren a las conclusiones sobre las causas
@@ -1177,8 +1140,8 @@ Medida del director de OCP Východ:
 desarrollo, las causas y las consecuencias del suceso excepcional.»
 Otra medida emitida por ČD iba dirigida al maquinista del tren Os 24948.
 
-
 ## Página 37
+
 
 ## 6 RECOMENDACIONES DE SEGURIDAD
 Atendiendo a las causas y circunstancias de aparición del suceso excepcional detectadas, la Inspección Ferroviaria no emite recomendaciones de seguridad.
@@ -1190,34 +1153,34 @@ inspector
 de la Inspección Territorial de Brno
 de la Inspección Territorial de Brno
 
-
 ## Página 38
+
 
 ## 7 ANEXOS
 Fig. n.º 7: Presión en los cilindros de freno tras la MU (arriba en el centro)                           Fuente: DI
 Fig. n.º 8: Posición de la palanca de marcha/freno en la posición «Freno»                                 Fuente: DI
 
-
 ## Página 39
+
 
 Fig. n.º 9: Freno acumulador en posición «Frenado», freno de riel en posición «Desfrenado»          
                                                                                                                                                                                 Fuente: DI
 Fig. n.º 10: Tren Os 24948 tras la parada en la estación de Velké Meziříčí – desfrenado y asegurado con tope
                                                                                                           Fuente: DI
 
-
 ## Página 40
+
 
 Fig. n.º 11: Km 28,196 – lugar de aparición de la MU, sentido de la marcha del DV                                            Fuente: DI
 Fig. n.º 12: Manguera B17 desconectada – causa de la parada del tren Os 24948 en la vía                     Fuente: DI
 
-
 ## Página 41
+
 
 Fig. n.º 13: Freno de emergencia accionado en el espacio para pasajeros   Fuente: DI
 Fig. n.º 14: Ubicación del armario WE 1 bajo los asientos en el espacio para pasajeros                   Fuente: DI
 
-
 ## Página 42
+
 
 Fig. n.º 15: Ubicación del armario WE 2 bajo los asientos en el espacio para pasajeros               Fuente: DI

@@ -10,13 +10,14 @@ chars: 200948
 ratio_longitud: 1.27
 tokens_in: 88120
 tokens_out: 63112
-verificacion: revisar
-notas_cifras: ["bloque 1: original bilingüe: se compara contra el idioma principal (EN)", "bloque 2: original bilingüe: se compara contra el idioma principal (CS)", "bloque 3: original bilingüe: se compara contra el idioma principal (CS)", "bloque 6: cifras cortas: 7/174", "bloque 11: original bilingüe: se compara contra el idioma principal (CS)", "bloque 15: original bilingüe: se compara contra el idioma principal (EN)"]
-avisos: ["bloque 15: ratio 1.89"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 3: original bilingüe: se compara contra el idioma principal (CS)", "página 4: original bilingüe: se compara contra el idioma principal (CS); ratio 2.25", "página 6: original bilingüe: se compara contra el idioma principal (CS)", "página 7: original bilingüe: se compara contra el idioma principal (CS)", "página 8: original bilingüe: se compara contra el idioma principal (EN)", "página 10: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -39,16 +40,16 @@ IČ: 75009561
 mail@di.gov.cz
 tel.: +420 736 521 003
 
-
 ## Página 2
+
 
 El presente informe final es público y todos los hechos en él expuestos están respaldados por el expediente de investigación. 
 La Inspección Ferroviaria no se ocupa, en el marco de la investigación, de la responsabilidad por delito penal o 
 infracción administrativa, por lo que no puede deducirse de este informe final. La investigación se llevó a cabo de forma 
 independiente con el objetivo de determinar las causas y circunstancias del suceso ferroviario.
 
-
 ## Página 3
+
 
 ### 1 RESUMEN
 Fuente: Inspección Ferroviaria
@@ -83,24 +84,17 @@ base, con especial atención a la aparición de roturas y grietas,
 ◦imponer la obligación de determinar, en servicio, el estado real de las placas de base, con especial 
 atención a la aparición de roturas y grietas.
 
-
 ## Página 4
 
-La Inspección Ferroviaria, con base en lo dispuesto en el § 53e apartado 1 de la Ley n.º 266/1994 Sb., de vías 
-ferroviarias, en la redacción vigente en el momento de producirse el suceso ferroviario, recomienda, en aras de 
-prevenir sucesos ferroviarios:
-Al Organismo Ferroviario:
-•
-en el marco de su actividad como organismo nacional de seguridad, la adopción de medidas que garanticen 
-que los gestores de infraestructura de ámbito nacional y los gestores de infraestructura de ámbito regional:
-◦los procedimientos tecnológicos que constituyen elementos del sistema de seguridad del gestor de 
-infraestructura incluyan procedimientos de comprobación detallada del estado de las placas de base del 
-riel de contraguía del cruzamiento obtuso de las agujas de enlace de cruzamiento en servicio, para la 
-aparición de roturas y grietas, incl. procedimientos que establezcan la evaluación y categorización de estos 
-defectos, y procedimientos para la adopción de las medidas correspondientes.
+La Inspección Ferroviaria, en virtud de lo dispuesto en el apartado 1 del artículo 53e de la Ley núm. 266/1994 Sb., de ferrocarriles, en la redacción vigente en el momento en que se produjo el SU, recomienda, en relación con la prevención de sucesos extraordinarios:
 
+A la Autoridad Ferroviaria:
+•
+En el marco de su actividad como organismo nacional de seguridad, la adopción de medidas que garanticen, en el operador ferroviario de ámbito estatal y en los operadores ferroviarios regionales:
+◦que los procedimientos tecnológicos que constituyen elementos del sistema de seguridad del operador ferroviario incluyan procedimientos de verificación detallada del estado de las cajas de anclaje de los tirantes de los corazones dobles de las agujas de cruce en servicio, para detectar roturas y grietas, incl. procedimientos que establezcan la evaluación y categorización de dichos defectos, y procedimientos para la adopción de las medidas correspondientes.
 
 ## Página 5
+
 
 ### SUMMARY
 4th February 2025, 12:22 (11:22 GMT).
@@ -150,8 +144,8 @@ operation for the occurrence of fractures and cracks including procedures
 establishing the assessment and categorization of these defects and the 
 adoption of appropriate measures.
 
-
 ## Página 6
+
 
 ## Índice
 1 RESUMEN.......................................................................................................................... 3
@@ -201,6 +195,7 @@ ferroviaria o de las instalaciones técnicas....................................
 
 ## Página 7
 
+
 4.2.2 Factores o consecuencias derivados de la instalación y puesta en servicio de vehículos ferroviarios, infraestructura ferroviaria o instalaciones técnicas.....................................53
 4.2.3 Factores o consecuencias relacionados con fabricantes de vehículos ferroviarios u otros proveedores de productos ferroviarios...........................................................................53
 4.2.4 Factores o consecuencias derivados del mantenimiento y modificación de vehículos ferroviarios o instalaciones técnicas..................................................................................................53
@@ -230,8 +225,8 @@ ferroviaria o de las instalaciones técnicas....................................
 6 RECOMENDACIONES DE SEGURIDAD...................................................................................62
 ANEXOS............................................................................................................................ 64
 
-
 ## Página 8
+
 
 ### Lista de siglas y símbolos utilizados
 AB
@@ -323,8 +318,8 @@ vehículo ferroviario remolcado
 TJŘ
 horario de trenes tabular
 
-
 ## Página 9
+
 
 TK
 vía de trazado
@@ -332,8 +327,8 @@ vía de trazado
 | ZV | inicio de aguja |
 | ZZ žst . | informe final sobre los resultados de la investigación del suceso extraordinario estación ferroviaria |
 
-
 ## Página 10
+
 
 ### Lista de siglas de la normativa, normas y disposiciones internas utilizadas
 Reglamento de la Comisión (UE) 2018/762 REGLAMENTO DE LA COMISIÓN DELEGADA (UE) 
@@ -395,8 +390,8 @@ S3/7 Defectos y roturas de piezas sometidas a tráfico de la
 superestructura ferroviaria», en su versión vigente en el 
 momento de la ocurrencia del SU
 
-
 ## Página 11
+
 
 disposición interna SŽ S3/8
 disposición interna del gestor de la infraestructura SŽ, «SŽ 
@@ -417,8 +412,8 @@ Ferroviario de la organización estatal Administración
 Ferroviaria», en su versión vigente en el momento de la 
 ocurrencia del SU
 
-
 ## Página 12
+
 
 ### 2 INVESTIGACIÓN Y SUS CONTEXTOS
 ### 2.1 Decisión de iniciar la investigación
@@ -462,6 +457,7 @@ dejó de ser la adecuada, ver puntos 2.8 y 4.1.1 de este IF.
 
 ## Página 13
 
+
 El nivel de cooperación con los representantes del transportista ČD fue el adecuado, y la DI proporcionó a esta la información solicitada para la investigación de las causas y circunstancias del origen del MU.
 ### 2.7 Descripción de la investigación, métodos y técnicas utilizados para acreditar los hechos y las conclusiones recogidas en el informe
 En el marco de la investigación del MU, la DI procedió de la siguiente manera, y en particular utilizó los siguientes métodos y técnicas:
@@ -494,8 +490,8 @@ Durante la investigación del MU en cuestión, no se inició por parte de la DI 
 ### 2.10 Cualquier otra información relevante para la investigación
 Todas las relaciones esenciales detectadas relativas al desarrollo de la investigación del MU en cuestión ya se han indicado más arriba.
 
-
 ## Página 14
+
 
 ### 3 DESCRIPCIÓN DEL SUCESO
 ### 3.1 Descripción e información básica
@@ -523,8 +519,8 @@ la entrada del tren Sp 1615 en la est. Ostrava-Bartovice estuvo autorizada por l
 •
 el ŘDV CZ-ČD 50 54 80-30 029-0 Bfhpvee295 (en adelante, 50 54 80-30 029-0) situado a la cabeza del tren Sp 1615 descarriló con el bogie delantero en el espacio del doble corazón de riel de la aguja de enlace n.º 20ab y, tras dicha aguja, también con el bogie trasero a la altura del ZV n.º 18. Durante la posterior circulación del ŘDV en estado de descarrilamiento, su lado izquierdo del frontal delantero impactó contra el mástil de la señal de salida L3, válida para la dirección opuesta de circulación de los DV, que quedó incrustado en el frontal delantero y en el techo del ŘDV. El descarrilamiento del ŘDV dañó otros elementos relacionados de la infraestructura de la vía, véase más abajo.
 
-
 ## Página 15
+
 
 Fig. n.º 1: Esquema del lugar de origen del MU
      Fuente: DI
@@ -535,8 +531,8 @@ el lugar de origen del MU (punto «0») fue el espacio del doble corazón de rie
 la pletina de retención del doble corazón de riel, incluidas las tres partes rotas de los laterales de los soportes atornilladas a ella, yacía en su posición final tras el origen del MU en el eje de la vía de la dirección principal recta de la aguja de enlace n.º 20ab, a una distancia de unos 80 cm del lugar de su ubicación original en la aguja. Las tres partes rotas de los soportes de la pletina de retención estaban unidas a la pletina de retención con tornillos M24 x 75 mm, habiéndose aflojado (sin apretar) el tornillo de sujeción n.º 1, 2 y 3 en la dirección de circulación del tren. El tornillo n.º 4 (incluida la tuerca y el doble anillo elástico), con el que originalmente se sujetaba la pletina de retención al soporte, se encontraba caído sobre el balasto del lecho de la vía, en el espacio entre traviesas, inmediatamente al lado del soporte del carril (en adelante, traviesa) sobre el que se encontraba el soporte n.º 4, al que debía estar unida la pletina de retención. Dicho tornillo de sujeción tenía las últimas 5 roscas y las roscas 2.ª a 4.ª parcialmente deformadas. El carácter de las deformaciones acreditaba el aflojamiento de la unión roscada ya antes del origen del MU. En las roscas del tornillo ni en la tuerca no eran apreciables huellas de aflojamiento de la tuerca debido a su suciedad por impurezas de servicio. La pletina de retención con la parte de los soportes rotos de la pletina de retención presentaba signos de impactos, subida y paso de las pestañas de las ruedas izquierdas de los DV. En el lugar del tornillo de sujeción n.º 4 ausente era apreciable una huella por el roce de la cabeza de dicho tornillo contra la pletina de retención, que confirmaba la sujeción de la pletina de retención al soporte n.º 4 antes de su caída. En el extremo de la pletina de retención, es decir, tras el orificio n.º 4 para el tornillo de sujeción, se encontraban huellas arco visibles por el roce de la parte exterior de las ruedas izquierdas del ŘDV, producidas en el momento en que la pletina de retención ya no estaba atornillada (sujeta) a los soportes.
 En la pletina de retención se encontraban además huellas por el roce de las partes interiores de las ruedas izquierdas de los DV, en el lugar del doble corazón de riel en la parte «b» a la izquierda, lo que acreditaba el predominio de la circulación de los DV
 
-
 ## Página 16
+
 
 a través de la aguja de enlace en la dirección principal recta de derecha a izquierda, es decir, desde la TK n.º 1 Ostrava-Kunčice – Ostrava-Bartovice hacia la SK n.º 1 de la est. Ostrava-Bartovice;
 •
@@ -544,50 +540,49 @@ los soportes n.º 1, 2 y 3 de la pletina de retención del doble corazón de rie
 Fig. n.º 2: Esquema de la parte izquierda del doble corazón de riel de la aguja de enlace n.º 20ab
    Fuente: DTVS con modificación de la DI
 
-
 ## Página 17
 
-Fig. n.º 3: Indicación del lugar de rotura del soporte del doble corazón de riel
-   Fuente: DTVS con modificación de la DI
+Fig. n.º 3: Señalización del lugar de rotura de la placa de asiento del doble corazón
+   Fuente: DTVS con modificación de DI
 •
-la pletina de retención izquierda del doble corazón de riel y los soportes correspondientes del doble corazón de riel (4 unidades) de la aguja de enlace n.º 20ab fueron asegurados por la PČR, en presencia de un inspector de la DI, para su posterior examen;
+la guía izquierda del doble corazón y las correspondientes placas de asiento del doble corazón (4 unidades) de la aguja de enlace n.º 20ab fueron aseguradas por la PČR para su ulterior examen, en presencia del inspector de DI;
 •
-la primera huella de salida de la rueda izquierda del eje 1 (bogie «a») del ŘDV de la superficie inclinada formada por la pletina de retención izquierda rota (suelta) del doble corazón de riel de la aguja n.º 20ab se encontraba a una distancia de 140 cm del centro del carril curvo, tras la punta en el doble corazón de riel izquierdo en la parte «a» de la aguja, véase la Fig. n.º 2 del presente Informe. Otras huellas de la circulación de la rueda izquierda descarrilada del eje 1 del ŘDV se encontraban en el soporte deslizante a una distancia de 4 m del lugar de origen del MU y continuaban por los soportes deslizantes y los elementos de sujeción hasta la altura de la punta de la lengua de la parte «a» de la aguja en dirección a la SK n.º 1. Otras huellas de circulación de la rueda izquierda del eje delantero del ŘDV continuaban ya por las traviesas en el lado derecho entre las bandas de carril en dirección a la SK n.º 1;
+la primera huella de descarrilamiento de la rueda izquierda del eje 1 (bastidor «a») ŘDV desde la superficie inclinada creada por la guía izquierda rota (desprendida) del doble corazón de la aguja n.º 20ab se encontraba a una distancia de 140 cm detrás del centro del carril de la rodadura, y ello detrás de la punta en el doble corazón izquierdo en la parte «a» de la aguja, véase Fig. n.º 2 de esta ZZ. Otras huellas de la marcha de la rueda izquierda descarrilada del eje 1 de ŘDV se encontraban en el soporte deslizante a una distancia de 4 m del lugar de origen de la MU y continuaban por los soportes deslizantes y los elementos de fijación hasta el nivel de la punta de la lengüeta de la parte «a» de la aguja en dirección a SK n.º 1. Otras huellas de la marcha de la rueda izquierda del eje delantero de ŘDV continuaban ya sobre las traviesas por el lado derecho entre las bandas de carril en dirección a SK n.º 1;
 •
-la primera huella de descarrilamiento de la rueda izquierda del eje 2 (bogie «a») del ŘDV se encontraba en la pletina de retención del corazón de riel simple en la parte «a» de la aguja n.º 20ab. Otras huellas de la circulación de dicha rueda descarrilada continuaban tras dicha pletina de retención por las traviesas en dirección a la SK n.º 1, hasta una distancia de 28 m del lugar de origen del MU, donde las ruedas izquierdas de los ejes 1.º y 2.º (bogie «a») que circulaban entre las bandas de carril en dirección a la SK n.º 1 treparon por el carril derecho hacia la derecha al espacio entre la SK n.º 1 y la 3;
+la primera huella de descarrilamiento de la rueda izquierda del eje 2 (bastidor «a») ŘDV se encontraba en la guía del corazón simple en la parte «a» de la aguja n.º 20ab. Otras huellas de la marcha de esta rueda descarrilada continuaban tras esta guía sobre las traviesas en dirección a SK n.º 1, y ello hasta una distancia de 28 m del lugar de origen de la MU, donde las ruedas izquierdas de los ejes 1 y 2 (bastidor «a») que circulaban entre las bandas de carril en dirección a SK n.º 1 treparon sobre el carril derecho hacia la derecha al espacio entre SK n.º 1 y 3;
 •
-la primera huella de descarrilamiento de la rueda derecha del eje 1 (bogie «a») del ŘDV se encontraba en la punta del doble corazón de riel derecho en la parte «a» de la aguja n.º 20ab (sin impacto contra la punta del doble corazón de riel), que continuaba a una distancia de 4 m de la punta, donde se produjo la salida de la rueda derecha hacia la derecha del cabezal del carril izquierdo de la dirección desviada. A continuación continuaban las huellas de la circulación de ambas ruedas derechas del bogie delantero «a» del ŘDV por los elementos de sujeción y las traviesas hasta el inicio de la aguja n.º 18 siguiente, donde eran apreciables las huellas del trepado de las ruedas derechas del bogie delantero «a» del ŘDV de vuelta hacia la izquierda por el exterior del carril izquierdo de la vía entre la aguja n.º 20ab y la aguja n.º 18 al espacio entre la SK n.º 1 y la 3, desde donde las huellas continuaban entre dichas SK hasta el lugar de la parada final tras el MU;
+la primera huella de descarrilamiento de la rueda derecha del eje 1 (bastidor «a») ŘDV se encontraba en la punta del doble corazón derecho en la parte «a» de la aguja n.º 20ab (sin golpear la punta del doble corazón), que continuaba a una distancia de 4 m de la punta, donde se produjo el descarrilamiento de la rueda derecha hacia la derecha desde la cabeza del carril izquierdo de la dirección desviada. A continuación continuaban las huellas de la marcha de ambas ruedas derechas del bastidor delantero «a» de ŘDV por los elementos de fijación y las traviesas hasta el comienzo de la aguja n.º 18 siguiente, donde eran visibles las huellas del trepado de las ruedas derechas del bastidor delantero «a» de ŘDV de vuelta hacia la izquierda por fuera del carril izquierdo del vía entre la aguja n.º 20ab y la aguja n.º 18 al espacio entre SK n.º 1 y 3, desde donde las huellas continuaban entre estas SK hasta el lugar de detención final tras la MU;
 •
-a consecuencia de la circulación del bogie delantero «a» del ŘDV en estado de descarrilamiento, cuando tras la aguja de enlace n.º 20ab las ruedas derechas descarriladas circulaban por la dirección desviada hacia la SK n.º 3 (aguja n.º 18) y las ruedas izquierdas descarriladas del mismo bogie no treparon por el carril derecho de la dirección recta hacia la SK n.º 1, se produjo, a pesar del anclaje de la vía con tornillos de traviesa, a una distancia de 24,7 m a 40 m del lugar de origen del MU, una desviación (estrechamiento)
+debido a la marcha del bastidor delantero «a» de ŘDV en estado descarrilado, cuando tras la aguja de enlace n.º 20ab las ruedas derechas descarriladas circulaban por la dirección desviada hacia SK n.º 3 (aguja n.º 18) y las ruedas izquierdas descarriladas del mismo bastidor no treparon sobre el carril derecho de la dirección directa hacia SK n.º 1, se produjo, a pesar del anclaje de la vía con anclas de traviesa, a una distancia de 24,7 m a 40 m del lugar de origen de la MU, una desviación (estrechamiento)
 
 ## Página 18
 
-vías tras la aguja n.º 20ab a la derecha (en dirección hacia SK n.º 3). La desviación de la vía en interacción con el bogie delantero ya descarrilado del ŘDV provocó, a una distancia de 31,38 m del lugar de origen del MU, el descarrilamiento del bogie trasero del ŘDV, donde las ruedas izquierdas de los ejes 3.º y 4.º del ŘDV treparon sobre el riel izquierdo en dirección a SK n.º 1 y descendieron a la izquierda fuera de dicho riel. Las ruedas derechas de los ejes 3.º y 4.º descendieron del riel derecho a la izquierda entre los carriles;
+vías detrás de la aguja n.º 20ab a la derecha (en dirección hacia SK n.º 3). La desviación de la vía en interacción con el bogie delantero ya descarrilado del ŘDV provocó, a una distancia de 31,38 m del lugar de origen del MU, el descarrilamiento del bogie trasero del ŘDV, donde las ruedas izquierdas de los ejes 3.º y 4.º del ŘDV subieron por encima del carril izquierdo en dirección hacia SK n.º 1 y descendieron a la izquierda fuera de dicho carril. Las ruedas derechas de los ejes 3.º y 4.º descendieron del carril derecho hacia la izquierda entre las bandas de carril;
 •
-las huellas de circulación del ŘDV descarrilado con ambos bogies (todos los ejes) continuaron hasta su lugar de detención final tras el MU de frente en el pk 24,949, véase lo indicado más arriba;
+las huellas de circulación del ŘDV descarrilado en ambos bogies (todos los ejes) continuaron hasta el lugar de su parada final tras el MU por el frente en el km 24,949, ver más arriba indicado;
 •
-con la circulación del ŘDV en estado descarrilado, fueron dañados, entre otros:
+con la circulación del ŘDV en estado descarrilado fueron dañados, entre otros:
 ◦el MIB situado en SK n.º 1 junto a la señal de salida L1,
-◦el paso a nivel en SK n.º 1 en el pk 25,088 formado por una estructura de caucho ROSEHILL, incl. su parte continuación situada entre SK n.º 1 y 3 formada por adoquines. Los adoquines fueron dispersados en una superficie de aprox. 20 m2 tras su ubicación original,
-◦los rieles y sus bases, elementos de sujeción y traviesas, incl. otro material ferroviario menor;
+◦el paso a nivel en SK n.º 1 en el km 25,088 formado por una estructura de caucho ROSEHILL, incl. su parte continuación situada entre SK n.º 1 y 3 formada por adoquines. Los adoquines fueron dispersos en una superficie de aprox. 20 m2 detrás de su ubicación original,
+◦los carriles y sus bases, elementos de fijación y traviesas, incl. otro material ferroviario menor;
 •
-en la punta izquierda de la doble corazón en la parte "a" de la aguja de enlace n.º 20ab se detectó el golpeo de los bordes del ŘDV contra la punta en un momento anterior ya al origen del MU, la cual fue por ello desviada (curvada) hacia el eje de la vía en aprox. 5 mm, véanse los puntos 4.2.4 y 5.3 de esta ZZ;
+en la punta izquierda de la doble corazón en la parte «a» de la aguja de enclavamiento n.º 20ab se detectó el golpeo de los pestañones del DV contra la punta en un momento ya anterior a la aparición del MU, que fue desviado (curvado) por ello hacia el eje de la vía en aprox. 5 mm, ver puntos 4.2.4 y 5.3 de esta ZZ;
 •
-con la medición de los parámetros de la aguja n.º 20ab en la parte "a" se detectó, entre otros:
-◦la superación de la desviación operativa límite (IAL) de la anchura de vía en la doble corazón en la dirección I (en la dirección de circulación del ŘDV desde la aguja n.º 25 hacia SK n.º 1, es decir, en la dirección principal) en 3 mm,
-◦la alcanzada de la desviación operativa límite (IAL) de la anchura de vía en la doble corazón en la dirección II (en la dirección de circulación del ŘDV desde la aguja n.º 23 hacia SK n.º 3, es decir, en la dirección de tráfico secundaria),
-que pudo haberse originado durante el suceso del accidente;
+con la medición de los parámetros de la aguja n.º 20ab en la parte «a» se detectó, entre otros:
+◦la superación de la desviación operativa límite (IAL) de la anchura de vía en el doble corazón en sentido I (en sentido de circulación del DV desde la aguja n.º 25 hacia SK n.º 1, es decir, en el sentido principal) en 3 mm,
+◦la alcanzación de la desviación operativa límite (IAL) de la anchura de vía en el doble corazón en sentido II (en sentido de circulación del DV desde la aguja n.º 23 hacia SK n.º 3, es decir, en el sentido de tráfico secundario),
+que pudo haberse producido durante el transcurso del suceso;
 •
-con la medición de los parámetros de la aguja n.º 20ab en la parte "b" se detectó, entre otros:
-◦la superación de la desviación operativa límite (IAL) de la anchura de vía en la doble corazón en la dirección I (dirección de circulación del ŘDV desde la aguja n.º 25 hacia SK n.º 1, es decir, en la dirección principal) en 1 mm, que pudo haberse originado durante el suceso del accidente,
-◦la superación de la desviación operativa límite (IAL) de la anchura de vía en la doble corazón en la dirección II (dirección de circulación del ŘDV desde la aguja n.º 23 hacia SK n.º 3, es decir, en la dirección de tráfico secundaria) en 2 mm, véanse los puntos 4.1.1, 4.2.4 y 5.3 de esta ZZ;
+con la medición de los parámetros de la aguja n.º 20ab en la parte «b» se detectó, entre otros:
+◦la superación de la desviación operativa límite (IAL) de la anchura de vía en el doble corazón en sentido I (sentido de circulación del DV desde la aguja n.º 25 hacia SK n.º 1, es decir, en el sentido principal) en 1 mm, que pudo haberse producido durante el transcurso del suceso,
+◦la superación de la desviación operativa límite (IAL) de la anchura de vía en el doble corazón en sentido II (sentido de circulación del DV desde la aguja n.º 23 hacia SK n.º 3, es decir, en el sentido de tráfico secundario) en 2 mm, ver puntos 4.1.1, 4.2.4 y 5.3 de esta ZZ;
 •
-a una distancia de 36,2 m del lugar de origen del MU se encontraba un cambio en la composición de la superestructura ferroviaria, donde el riel de base ancha de forma 49 E1 sobre traviesas de madera con sujeción mediante abrazaderas ŽS 4 pasaba a rieles de forma 60 E1 sobre traviesas de hormigón B 91S con sujeción mediante abrazaderas elásticas, soldados también a vía continua. El balasto estaba formado por piedra de cantera limpia de fracción 31,5/63 mm;
+a una distancia de 36,2 m del lugar de origen del MU se encontraba un cambio en la composición del superestructura ferroviaria, donde el carril de ancho patín de perfil 49 E1 sobre traviesas de madera con fijación mediante abrazaderas ŽS 4 pasaba a carriles de perfil 60 E1 sobre traviesas de hormigón B 91S con fijación mediante abrazaderas elásticas, soldados también en vía continua. El lecho de balasto estaba formado por piedra de cantera sin contaminar de fracción 31,5/63 mm;
 •
-en los cantos de los rieles, en sus elementos de sujeción ni en las traviesas se detectaron huellas del uso del equipo de arenado del ŘDV.
-
+en los cantos de los carriles, en sus elementos de fijación ni en las traviesas se detectaron huellas del uso del equipo de arenado del DV.
 
 ## Página 19
+
 
 Estado del equipo de señalización:
 •
@@ -609,8 +604,8 @@ el equipamiento de los contactos aislados KO, principalmente los enlaces por cab
 •
 tras el MU, la comprobación de los accionamientos electromotores de la aguja de enlace n.º 20ab no arrojó daños. En la aguja n.º 18, en la que se había indicado la pérdida de supervisión de la posición final de la aguja, se detectó la rueda guía (de cierre) no encajada
 
-
 ## Página 20
+
 
 del accionamiento electromotor en la ranura de la placa guía (del disco de cierre). El no encaje de la rueda fue causado por los golpes que se transmitieron a la estructura de la aguja como consecuencia del descarrilamiento del ŘDV del tren Sp 1615. En el accionamiento electromotor no se detectaron daños;
 •
@@ -634,6 +629,7 @@ Ostrava-Bartovice en el esquema de vías (los llamados traslúcidos), provistos 
 
 ## Página 21
 
+
 supervisión de la posición final del desvío. La indicación fue causada por las consecuencias del descarrilamiento del tren Sp 1615, véanse también los puntos anteriores,
 ◦la luz indicadora verde intermitente (en el simulador de la señal) junto a la placa «L3» para la comprobación de las señales de la señal de salida L3 indicaba la información de que en la señal no se encendía ninguna señal. La indicación fue causada por la destrucción total de la señal de salida L3 provocada por el ŘDV descarrilado del tren Sp 1615,
 ◦tras pulsar el botón para la comprobación de la posición de los desvíos, la luz indicadora verde encendida permanentemente del conmutador de tres posiciones – conjunto de cambio individual (en adelante, conmutador de tres posiciones) del par de desvíos n.º 20a y n.º 23, provisto de la placa «+ 20a/23 -», y del desvío n.º 20b provisto de la placa «+ 20b -», indicaba la información sobre la posición de los desvíos «+», mientras que los conmutadores de tres posiciones de estos desvíos se encontraban en posición central,
@@ -654,8 +650,8 @@ el ŘDV y los TDV estaban equipados con freno de disco. Las llaves de cierre de 
 •
 el indicador de doble ventana del estado del freno de disco del ŘDV indicaba con la ventana izquierda el estado sin presión en la tubería principal y con el color rojo de la ventana derecha el estado frenado.
 
-
 ## Página 22
+
 
 Los indicadores de doble ventana del estado del freno de disco de ambos TDV indicaban con el color rojo de las ventanas el estado frenado;
 •
@@ -682,8 +678,8 @@ el libro «KNIHA PŘEDÁVKY HV č. 505480-30029-0», sin fecha de apertura regis
 ◦la prueba de freno del vehículo motriz – DV del tren Sp 1615 fue realizada y finalizada el 4. 2. 2025 a las 4:00 h, en la est. Český Těšín, por el maquinista que preparaba el DV para el tren «2991»,
 ◦el maquinista del tren Sp 1615 recibió la composición del tren en cuestión en el momento de su asignación al tren Sp 1611,
 
-
 ## Página 23
+
 
 •
 el libro «Svazek písemných rozkazů ETCS», en el que no se había rellenado ninguna orden ETCS,
@@ -717,8 +713,8 @@ el interruptor de calefacción de tren se encontraba en posición «1» – cale
 •
 el interruptor de las luces de señal se encontraba en posición de circulación del tren, es decir, para la marcación del extremo delantero del ŘDV con dos luces blancas situadas al mismo nivel
 
-
 ## Página 24
+
 
 y una tercera luz blanca superior situada de modo que las luces formaran un triángulo isósceles,
 •
@@ -745,6 +741,7 @@ En el lugar de la MU se constató además que los últimos DV que circularon el 
 Del examen de los DV del tren Os 3413, que llegó a la est. Ostrava-Bartovice durante la circulación desde la estación de enlace Český Těšín como tren Os 3422, no se constató ningún daño causado por la barra de sujeción caída (suelta) o las placas de sujeción de la barra de sujeción del doble corazón del desvío n.º 20ab de la est. Ostrava-Bartovice.
 
 ## Página 25
+
 
 En el lugar del MU también se constató que el 4 de febrero de 2025, en el lugar de origen del MU – la aguja n.º 20ab, antes de la circulación del tren Sp 1615 con la vía de tren debidamente dispuesta a través de la aguja de enlace n.º 20ab, es decir, en dirección directa de derecha a izquierda, circuló por último el tren Ex 1003 (Praga – Košice) del operador RJ. La inspección la realizaron los inspectores de DI junto con representantes del operador RJ en la est. Praha-Malešice el 5 de febrero de 2025, durante la cual se constataron, entre otros, en la dirección de circulación del tren:
 
@@ -794,8 +791,8 @@ En el MU, el daño causado en el DV, en las piezas de la vía y en el medio ambi
 
 No se produjo daño en las mercancías transportadas, el equipaje ni otros bienes.
 
-
 ## Página 26
+
 
 ### 3.1.5 Descripción de otras consecuencias, incluido el impacto del suceso en las actividades regulares de los sujetos implicados
 
@@ -841,8 +838,8 @@ El transportista del tren Sp 1615 era ČD, con domicilio en Nábřeží L. Svobo
 
 El transporte ferroviario se prestaba en virtud de un contrato celebrado entre el operador de la vía SŽ y el transportista ČD el 27 de septiembre de 2024, con efectos desde el 27 de septiembre de 2024.
 
-
 ## Página 27
+
 
 ### 3.1.7 Descripción de los vehículos ferroviarios y sus composiciones, incluidos los números de registro
 
@@ -869,8 +866,8 @@ Fig. n.º 4: Dibujo de tipo del ŘDV de la serie Bfhpvee295
 
 El ŘDV 50 54 80-30 029-0 de la serie Bfhpvee295, ver Fig. n.º 4 de este ZZ, se obtuvo mediante la reconstrucción de un coche de pasajeros de gran capacidad 50 54 21-08 156-1 de la serie Bdt279 (año de fabricación 1986) en 2013, conservando los bogies originales GP200 con freno de disco. El ŘDV estaba destinado a engancharse en composiciones reversibles de dos a cinco coches (Push-Pull) destinadas al transporte regional y suburbano, con HDV de tracción dependiente o independiente, que estaba equipado con el software correspondiente y el bus con el protocolo WTB de ČD. El sistema de control microprocesador del ŘDV permitía manejar la composición (con un HDV compatible) desde la cabina del ŘDV con un solo maquinista. El DV tenía en el frontal una cabina del maquinista no transitable, y en el trasero un paso con puertas correderas de dos hojas, un puente de paso y resguardos. La construcción de la cabina y la disposición de los elementos de mando e indicación permitían al maquinista conducir el ŘDV, observar la vía y las señales, sentado o de pie.
 
-
 ## Página 28
+
 
 De los datos registrados por los RR – velocímetros electrónicos Hasler TELOC, n.º de fabricación 23194710, instalado en el ŘDV, y Unicontrols Tramex, n.º de fabricación 1156, instalado en el HDV, sobre la circulación del tren Sp 1615 el 4 de febrero de 2025, se desprende, entre otros:
 
@@ -898,6 +895,7 @@ a las 12:22:41 h el frontal del ŘDV descarrilado del tren circulando a 89 km·h
 
 ## Página 29
 
+
 Ostrava-Bartovice (válido para el sentido contrario de circulación). La presión de aire en el conducto principal era inferior a 3 bares. El frontal del ŘDV se encontraba a una distancia de 93 m detrás del lugar de origen de la MU y 201 m por delante del lugar de detención tras el origen de la MU;
 • a las 12:22:59 h el tren se detuvo en la posición final tras el origen de la MU, es decir, con el frontal del ŘDV a una distancia de 294 m detrás del lugar de origen de la MU;
 • la circulación del tren se realizaba desde la cabina del maquinista del ŘDV, con el sentido de circulación hacia adelante seleccionado, en modo ARR;
@@ -918,8 +916,8 @@ La velocidad máxima permitida del tren Sp 1615 en el lugar de origen de la MU, 
 
 El operador de la vía SŽ, en el momento del origen de la MU en cuestión, no disponía de las hojas modelo correspondientes elaboradas para el desvío de enlace CS49 1:9-190 con placas de asiento nervuradas, incluidas las piezas individuales del desvío de enlace relativas a la doble corazón y a las placas de asiento para el raíl de retención Y502 P (L) y Y503 P(L). Sin embargo, disponía de la documentación gráfica DTVS, a saber, los planos V1-7551 doble corazón, V2-10509 placa de asiento para el raíl de retención Y502 P(L) y V2-10533 placa de asiento para el raíl de retención Y503 P(L), que, de conformidad con lo dispuesto en el art. 21 de la norma interna de SŽDC S3 Parte IX, fueron aprobados por el operador de la vía SŽ mediante la comunicación con el n.º de expediente: TÚDC-12674/11-OTH, de fecha 10. 3. 2011.
 
-
 ## Página 30
+
 
 El EDD, en el que el jefe de estación de la est. Ostrava-Bartovice llevaba los registros de la gestión del tráfico ferroviario en la est. Ostrava-Bartovice y en los tramos intermedios adyacentes, contenía, entre otros, los siguientes datos:
 • relativos a las circulaciones de trenes en sentido Ostrava-Kunčice → Havířov a través del desvío de enlace n.º 20ab antes de la circulación del tren Sp 1615:
@@ -945,8 +943,8 @@ Resumen de las explicaciones facilitadas por los empleados del operador de la v�
 ◦ el tren Sp 1615 fue ese día ya el tercer tren con el que cruzaba la est. Ostrava-Bartovice,
 ◦ el turno (jornada laboral) transcurrió de forma estándar hasta el momento de la entrada con el tren Sp 1615 en la est. Ostrava-Bartovice,
 
-
 ## Página 31
+
 
 ◦ la señal de entrada 1S de la est. Ostrava-Bartovice indicaba la señal «Vía libre»,
 ◦ el tren no iba retrasado, por lo que ya a unos 300 m antes de la señal de entrada 1S seleccionó la circulación en baliza. Superó el nivel de la señal de entrada 1S a una velocidad de unos 95 km·h-1. La velocidad máxima permitida del tren en este tramo era de 100 km·h-1,
@@ -967,8 +965,8 @@ Resumen de las explicaciones facilitadas por otros testigos:
 ◦ comunicó el origen de la MU por teléfono al jefe de estación de la est. Ostrava-Bartovice, quien le confirmó el descarrilamiento del tren Sp 1615,
 ◦ cruzó el desvío de enlace n.º 20ab con el tren anterior unas 2 h antes del origen de la MU y no detectó ningún daño en el desvío;
 
-
 ## Página 32
+
 
 • 1.º trabajador de mantenimiento y reparación de vías
   – Acta con el empleado:
@@ -992,6 +990,7 @@ Resumen de las explicaciones facilitadas por otros testigos:
 
 ## Página 33
 
+
 ◦en el marco de la inspección realizaba una comprobación visual del estado general, entre otros, de la aguja de enlace n.º 20ab. La comprobación del estado de los traviesas de la aguja se vio afectada negativamente ese día por una capa continua de nieve. La medición en la aguja, que realizaban dos empleados del centro de explotación Ostrava-Svinov, se llevaba a cabo simultáneamente con la inspección. Los valores medidos eran anotados por el jefe superior de vía Ostrava – Svinov en las hojas de aguja,
 ◦la comprobación del área del doble corazón dura aprox. 1 min. Mientras tanto, se comprueba visualmente el estado general del doble corazón, incl. los elementos de fijación, el estado de las puntas recorridas, el recorrido del elemento de retención, las placas de apoyo del elemento de retención del doble corazón, las tuercas de los tornillos del elemento de retención y otros componentes de la aguja,
 ◦según su opinión, el lugar de rotura de las placas de apoyo del elemento de retención, en el que se detectaron roturas tras el MU, no puede detectarse en una inspección habitual de la aguja de enlace. La comprobación detallada de este lugar no está establecida por los procedimientos tecnológicos,
@@ -1007,8 +1006,8 @@ jefe superior de vía del centro de explotación Ostrava – Svinov
   – Registro de la declaración prestada ante DI, información remitida a la PČR:
 ◦el 15. 1. 2025 participó en la inspección y medición también de la aguja de enlace n.º 20ab de la est. Ostrava-Bartovice. En la inspección y medición procedieron según los procedimientos tecnológicos establecidos contenidos en la Directriz n.º 51 vigente en ese momento (nota DI: la Directriz n.º 51 fue derogada con fecha 1. 2. 2025 mediante la emisión del reglamento interno SŽ S2/5),
 
-
 ## Página 34
+
 
 ◦la medición de la aguja de enlace n.º 20ab se realizaba simultáneamente con la inspección, realizando la medición junto con otros empleados del centro de explotación Ostrava-Svinov. La inspección la realizaba el jefe del departamento de explotación de ST Ostrava,
 ◦anotaba los valores medidos en las hojas de aguja de la aguja. Debido a la capa de nieve, tenían que retirar la nieve según fuera necesario. En la inspección y medición de la aguja de enlace n.º 20ab no se detectaron defectos. En caso de detectar defectos, habrían adoptado las medidas correspondientes junto con el jefe del departamento de explotación,
@@ -1025,8 +1024,8 @@ jefe superior de vía del centro de explotación Ostrava – Svinov
 ◦considera que mediante una comprobación habitual de la aguja de enlace no es posible detectar la rotura del lateral de la placa de apoyo del doble corazón – dicha rotura puede detectarse aparentemente solo tras el desmontaje del elemento de retención, ya sea mediante una inspección visual de la placa de apoyo o mediante otros métodos,
 ◦realiza viajes de comprobación en DV una vez al mes, observando desde la cabina del conductor del DV la vía y la vegetación creciente en los alrededores de la vía. En caso de
 
-
 ## Página 35
+
 
 detectar defectos, deja constancia de ello, se adoptan las medidas correspondientes y registra los defectos en el IS SORUT,
 ◦en el viaje de comprobación en DV realizado el 6. 1. 2025 no registró ningún defecto durante el viaje, también al pasar por la aguja de enlace n.º 20ab de la est. Ostrava-Bartovice;
@@ -1048,8 +1047,8 @@ jefe del centro de explotación Ostrava-Svinov
 ◦realizaba mediciones en la aguja, que junto con él realizaban otros 2 empleados de SŽ. Estos empleados medían los parámetros de la aguja y él los anotaba en las hojas de aguja. No recuerda el alcance temporal de la comprobación del área del doble corazón de la aguja n.º 20ab ese día,
 ◦el 15. 10. 2024 definitivamente no desmontaron el elemento de retención del doble corazón de la aguja de enlace n.º 20ab, no realizaron ningún trabajo de mantenimiento en esta aguja n.º 20ab, ni siquiera tras finalizar la inspección,
 
-
 ## Página 36
+
 
 ◦mediante la inspección y medición de la aguja de enlace n.º 20ab no detectaron defectos. Por ello, junto con el jefe del departamento técnico de ST Ostrava, evaluaron el estado de esta aguja de manera que no requería la necesidad de planificar trabajos de mantenimiento,
 ◦en el momento de la celebración de la inspección y medición el 15. 10. 2024, la punta del doble corazón en la parte «a» de la aguja de enlace n.º 20ab no estaba dañada, en caso contrario se habría indicado en el acta de dicha inspección,
@@ -1066,6 +1065,7 @@ La est. Ostrava-Bartovice no estaba equipada con el sistema de cámaras de SŽ q
 
 ## Página 37
 
+
 ### 3.2 Descripción fáctica del suceso
 ### 3.2.1 Secuencia de hechos que condujeron al suceso excepcional
 Al surgimiento del SE, es decir, al descarrilamiento del ŘDV del tren Sp 1615 en la aguja de enlace n.º 20ab de la est. Ostrava-Bartovice, precedió el aflojamiento progresivo de las uniones atornilladas de los carriles de base con el carril de retención en la dirección desde la est. Ostrava-Kunčice de la lengüeta doble izquierda de la aguja, con el resultado de permitir un movimiento mutuo no deseado del carril de retención respecto a los carriles de base, y con ello el aumento de la carga dinámica de los carriles de base, lo que desembocó en roturas de los cantos de los carriles de base interiores (2.º y 3.er carril de base).
@@ -1075,8 +1075,8 @@ El primer DV – tren que recorrió la aguja de enlace n.º 20ab de la est. Ostr
 En rápida sucesión de los hechos, en el espacio de la lengüeta doble de la aguja de enlace n.º 20ab, descarriló también el 2.º eje del bogie delantero del ŘDV. Como consecuencia de la circulación del bogie delantero del ŘDV en estado descarrilado, descarriló asimismo el bogie trasero del ŘDV, y ello en el nivel de la ZV n.º 18 (31,38 m tras el lugar de surgimiento del SE). Durante el ulterior desarrollo del suceso, el lado izquierdo del frente del ŘDV descarrilado impactó contra el mástil de la señal de salida L3 válida para la dirección contraria de circulación del DV, que quedó encastrada en la carrocería del frente y en el techo del ŘDV. Los demás DV acoplados en el tren Sp 1615 ya no descarrilaron.
 El maquinista del tren Sp 1615 reaccionó al descarrilamiento del ŘDV de forma rápida y totalmente correcta – un segundo después del surgimiento del SE, a una velocidad de 93 km·h-1, pulsó el botón amarillo «Freno forzado», con lo que activó el freno forzado (rápido vaciado del aire de la tubería principal y frenado de emergencia del tren). El tren, en su posición final tras el surgimiento del SE, se detuvo a una distancia de 294 m tras el
 
-
 ## Página 38
+
 
 lugar de surgimiento del SE. En el SE, a excepción del maquinista de este tren, ninguna persona resultó herida.
 ### 3.2.2 Secuencia de hechos desde el surgimiento del suceso excepcional hasta la finalización de las acciones de los servicios de emergencia
@@ -1112,34 +1112,33 @@ En el mismo minuto, el jefe de estación de la est. Ostrava-Bartovice comunicó 
 12:55 h restablecimiento completo de la circulación en el grupo de vías impar de la est. Ostrava-Bartovice.
 El plan IZS fue activado en función de la naturaleza del SE, y ello a las 12:28 h, es decir, 6 min tras el surgimiento del SE, por el jefe de tren del tren Sp 1615.
 
-
 ## Página 39
 
-En el lugar del SE intervinieron los siguientes componentes del IZS:
+En el lugar de la MU intervinieron los siguientes servicios del sistema integrado de emergencias (IZS):
 •
-PČR, Jefatura Municipal de Ostrava, 7.ª Sección de Criminalidad General;
+PČR (Policía Checa), Jefatura Municipal de Ostrava, 7.ª Sección de Criminalidad General;
 •
-PČR, Policía Ferroviaria de Ostrava;
+PČR (Policía Checa), Policía Ferroviaria de Ostrava;
 •
-Servicio de Emergencias Sanitarias MSK;
+Servicio de Emergencias Sanitarias de MSK;
 •
-HZS MSK, JPO Slezská Ostrava;
+HZS MSK (Bomberos de MSK), JPO Slezská Ostrava;
 •
-Servicio Químico del HZS MSK, JPO Ostrava-Zábřeh;
+Servicio Químico de HZS MSK, JPO Ostrava-Zábřeh;
 •
-HZS SŽ, JPO Ostrava;
+HZS SŽ (Bomberos de SŽ), JPO Ostrava;
 •
 Unidad del Cuerpo de Bomberos Voluntarios de Radvanice.
 ### 4 ANÁLISIS DEL SUCESO
-### 4.1 Funciones y obligaciones
-### 4.1.1 Transportistas y gestores de vías
-El gestor de la vía estaba obligado, según lo dispuesto en la ley n.º 266/1994 Sb., a explotar la vía para las necesidades del transporte ferroviario fluido y seguro de acuerdo con las normas de explotación de la vía y la autorización administrativa, y a garantizar que el sistema de seguridad del gestor de la vía por él implantado tuviera en cuenta el alcance y el objeto de su actividad y de las actividades de los distintos transportistas realizadas en la vía por él explotada, permitiera la explotación de la vía y del transporte ferroviario de conformidad con las especificaciones técnicas de interoperabilidad, otras normas jurídicas y los certificados del transportista, y fuera cumplido.
-La persona que dirige el transporte ferroviario, es decir, también el jefe de estación de la est. Ostrava-Bartovice, al organizar y dirigir el transporte ferroviario y en virtud de las disposiciones correspondientes de las normas jurídicas y de las normas internas del gestor de la vía SŽ, estaba obligada, entre otros, a cumplir el modo y las condiciones para la explotación de la vía, la dirección del transporte ferroviario, la supervisión del DV, la supervisión de la capacidad de tráfico de la vía, la dirección operativa del transporte ferroviario y, durante la explotación de la vía para la dirección del transporte ferroviario, a utilizar las dependencias derivadas de la actividad del SZZ explotado. En las actividades relacionadas con la explotación del SZZ debía cumplir siempre también el conjunto de maniobras de tráfico y procedimientos de trabajo establecidos. Durante la circulación de un tren en la estación, las agujas de paso y de apartadero debían encontrarse en la posición correcta para la ruta de circulación correspondiente y no podían ser maniobradas hasta que el tren no hubiera liberado la parte correspondiente de la ruta de circulación.
-Para la circulación del tren Sp 1615, el jefe de estación de la est. Ostrava-Bartovice, de conformidad con las normas jurídicas y los procedimientos tecnológicos del gestor de la vía, estableció la ruta de circulación desde la TK n.º 1 Ostrava-Kunčice – Ostrava-Bartovice, esto es, desde la señal de entrada 1S, entre otros a través de la aguja de enlace n.º 20ab (en dirección directa de derecha a izquierda) hacia y por la SK n.º 1 y, a continuación, desde la señal de salida S1 hacia la TK n.º 1 Ostrava-Bartovice – Havířov. Todas las agujas de la ruta de circulación fueron maniobradas correctamente para la circulación del tren correspondiente. La señal de entrada 1S y la señal de salida S1 indicaron la señal «Vía libre». El jefe de estación de la est. Ostrava-Bartovice supervisó correctamente el paso del tren Sp 1615 con la vista desde la ventana de la sala de mando.
-El gestor de la vía, para garantizar la operatividad de la vía en el sentido de las normas jurídicas y de los procedimientos tecnológicos del gestor de la vía, garantizaba que los parámetros constructivo-técnicos y el desgaste permitido de los componentes de la vía durante la explotación y el funcionamiento de sus partes se mantuvieran dentro de los límites prescritos establecidos por las normas jurídicas y las normas internas del gestor de la vía. En cuanto a las vías y las agujas, el gestor de la vía debía mantener la anchura de vía y la posición geométrica
-
+### 4.1 Tareas y obligaciones
+### 4.1.1 Transportistas y gestores de infraestructura
+El gestor de la infraestructura estaba obligado, de conformidad con las disposiciones de la Ley n.º 266/1994 Sb., a explotar la infraestructura para las necesidades del transporte ferroviario fluido y seguro de acuerdo con las normas de explotación de la infraestructura y la autorización administrativa, y a garantizar que el sistema de seguridad del gestor de la infraestructura por él establecido tuviera en cuenta el alcance y el objeto de su actividad y de las actividades de los distintos transportistas realizadas en la infraestructura por él explotada, permitiera la explotación de la infraestructura y del transporte ferroviario de conformidad con las especificaciones técnicas de interoperabilidad, otras disposiciones legales y los certificados del transportista, y fuera cumplido.
+La persona que dirige el transporte ferroviario, es decir, también el jefe de estación de la estación Ostrava-Bartovice, al organizar y dirigir el transporte ferroviario y en virtud de las disposiciones pertinentes de las disposiciones legales y de las normas internas del gestor de la infraestructura SŽ, estaba obligada, entre otras cosas, a cumplir la forma y las condiciones para la explotación de la infraestructura, la dirección del transporte ferroviario, el seguimiento de los DV, el seguimiento de la capacidad de tráfico de la infraestructura, la dirección operativa del transporte ferroviario, y, durante la explotación de la infraestructura para la dirección del transporte ferroviario, a utilizar las dependencias derivadas de la actividad del SZZ explotado. En las actividades relacionadas con la explotación del SZZ debía cumplir siempre también el conjunto de las maniobras de tráfico y los procedimientos de trabajo establecidos. Durante la circulación de un tren en la estación, las agujas de enlace y de apartadero debían encontrarse en la posición correcta para el itinerario de tren correspondiente y no podían ser cambiadas hasta que el tren no hubiera liberado la parte correspondiente del itinerario de tren.
+Para la circulación del tren Sp 1615, el jefe de estación de la estación Ostrava-Bartovice, de conformidad con las disposiciones legales y los procedimientos tecnológicos del gestor de la infraestructura, estableció un itinerario de tren desde el TK n.º 1 Ostrava-Kunčice – Ostrava-Bartovice, y ello desde la señal de entrada 1S, entre otras cosas, a través de la aguja de enlace n.º 20ab (en dirección directa de derecha a izquierda) hacia y desde el SK n.º 1, y a continuación desde la señal de salida S1 hacia el TK n.º 1 Ostrava-Bartovice – Havířov. Todas las agujas en el itinerario de tren estaban correctamente conmutadas para la circulación del tren correspondiente. La señal de entrada 1S y la señal de salida S1 mostraban la señal «Vía libre». El paso del tren Sp 1615 fue debidamente vigilado por el jefe de estación de la estación Ostrava-Bartovice con la vista desde la ventana de la DK.
+El gestor de la infraestructura, para garantizar la operatividad de la infraestructura en el sentido de las disposiciones legales y de los procedimientos tecnológicos del gestor de la infraestructura, garantizaba que los parámetros constructivo-técnicos y el desgaste permitido de los componentes de la infraestructura durante la explotación y el funcionamiento de sus partes se mantuvieran dentro de los límites prescritos establecidos por las disposiciones legales y las normas internas del gestor de la infraestructura. En cuanto a los raíles y las agujas, el gestor de la infraestructura debía mantener la anchura de vía y la geometría
 
 ## Página 40
+
 
 de la vía dentro del intervalo de tolerancias permitidas contenidas en la ČSN 73 6360-2, sin que el desgaste de las agujas, de los cruces de vías, de las estructuras de agujas y de sus componentes pudiera exceder los valores prescritos.
 En relación con el SE en cuestión, es oportuno señalar en este punto que las agujas permiten el paso del DV de una vía a otra sin interrumpir la circulación. Las agujas de enlace completas permiten el paso del DV de dos vías que se cruzan o el paso de una vía a otra en direcciones desviadas sin interrumpir la circulación. En el caso de que la aguja de enlace esté equipada con lengüetas fijas, en el lugar de dicha lengüeta se interrumpe la función de guiado de la rueda, no la de sustentación. Es por tanto natural que el área de la lengüeta fija, donde la rueda pasa de un riel a otro, esté sometida a una carga dinámica muy elevada. Esto tiene una influencia perjudicial en el desgaste de las superficies de rodadura de la lengüeta, en la estabilidad de la GPK en esta área y asimismo también en el DV.
@@ -1162,6 +1161,7 @@ mediante una inspección integral de la vía, en la que se evalúa el estado del
 El intervalo temporal de realización de las inspecciones y mediciones de las agujas, incluidas las agujas de enlace completas, durante la explotación, se indicaba en la Tabla n.º 1 del anexo n.º 1 al decreto n.º 177/1995 Sb. de la siguiente manera:
 
 ## Página 41
+
 
 | Objeto y forma de inspección | Objeto | Intervalo de tiempo de la inspección |
 | Recorrido a pie de vía | todas las vías con velocidad inferior a 120 km·h-1 | lo determina el operador (véase más abajo) |
@@ -1187,41 +1187,40 @@ inspección completa de la vía con un intervalo de 1 año (en el periodo de pri
 •
 control no destructivo de los rieles, de los corazones, de las lenguas de las agujas e inspección visual de sus soldaduras con un intervalo de 6 meses, véase más abajo.
 
-
 ## Página 42
 
-Además de las inspecciones periódicas, los controles de agujas se realizaban también en forma de inspección extraordinaria, en función de las condiciones locales y de las medidas derivadas de las inspecciones anteriores, véase más abajo.
-El recorrido a pie de vía consistía en una inspección para determinar el estado de la superestructura y de la subestructura ferroviarias. Visualmente se inspeccionaba, entre otros aspectos, el estado y la integridad de la superestructura y de la subestructura ferroviarias, con especial atención a las agujas y sus partes, a la solidez del fijamiento, a las construcciones especiales de la superestructura ferroviaria y a todas las averías ya detectadas previamente.
-En el viaje de control se observaba la calidad de la vía bajo carga y sus cambios bruscos – a simple vista se observaba, entre otros aspectos, el estado del lecho de la vía, del cuerpo de tierra y del drenaje superficial, la posición, el estado y la visibilidad de las señales de vía, la disposición espacial de las construcciones de la vía, el estado de los elementos antirruido, siendo parte de este viaje también una supervisión en la que se observaba la actividad en la vía y su entorno y se determinaban las posibles fuentes de amenaza para la vía.
-La medición de la geometría y de la configuración estructural de la vía con un dispositivo de registro continuo se realizaba mediante medios de medición para la medición de la GPK con registro continuo, siendo los medios de medición el vagón de medición para superestructura ferroviaria, la dresina de medición, la pequeña dresina de medición, el vagón de medición KRAB y las básculas electrónicas móviles, siendo la metodología de medición basada en los principios indicados en la ČSN 73 6360-2 (no sirve primariamente para la determinación detallada del estado de las placas de sujeción de la barra de sujeción).
-Las condiciones para las inspecciones y mediciones de la posición relativa en altura de las bandas de riel y de la anchura de vía en las agujas
-fueron concretadas, en el momento de la realización de las inspecciones y mediciones y antes de la aparición de la MU, en la Directriz n.º 51, cuando la medición de la elevación de la vía y de la anchura de vía en las agujas se realizaba en los puntos establecidos de la aguja. Los registros del resultado de la medición de la elevación de la vía y de la anchura de vía con una báscula manual con nivel de burbuja, o en su caso con otro medio de medición para la medición de los valores de elevación de la vía y de la anchura de vía y de otros parámetros determinados en las agujas, eran registrados por el operador de la vía en las hojas de aguja. Las hojas de aguja servían para la evaluación posterior de la evolución de los valores medidos.
-La posición relativa en altura de las bandas de riel y la anchura de vía en la aguja de cruzamiento se medían en los puntos establecidos de la aguja en la parte «a» y también en la parte «b», con la anotación indicada en el orden desde el centro de la aguja de cruzamiento hacia los contactos finales en la dirección I (dirección principal) y en la dirección II (dirección secundaria).
-En las inspecciones periódicas de agujas se controlaba también, entre otros aspectos, el funcionamiento de los bloqueos y del aparato de cambio de aguja, y se realizaba la prueba de enclavamiento, siendo las medidas y las desviaciones admisibles de los valores funcionales en las agujas indicadas en la norma SŽDC S3 Parte IX.
-En las inspecciones periódicas en servicio se evaluaba también, entre otros aspectos:
+Junto a las inspecciones regulares, las comprobaciones de los desvíos se realizaban también en forma de inspección extraordinaria en función de las condiciones locales y de las medidas derivadas de las inspecciones anteriores, véase más abajo.
+Mediante el recorrido de la vía se realizaba la inspección para determinar el estado de la superestructura y la subestructura ferroviarias.
+Visualmente se inspeccionaba, entre otros, el estado y la integridad de la superestructura y la subestructura ferroviarias, con especial atención a los desvíos y sus partes, la firmeza de las fijaciones, las construcciones especiales de la superestructura ferroviaria y a todos los defectos ya detectados anteriormente.
+Mediante la marcha de control se vigilaba la calidad de la vía de rodadura bajo carga y sus cambios bruscos —con la vista se controlaba, entre otros, el estado del lecho del carril, del cuerpo de tierra y del drenaje superficial, la posición, el estado y la visibilidad de las señales de vía, la disposición espacial de las obras de la vía, el estado de los objetos antirruidos—, siendo parte de esta marcha también la vigilancia, en la que se observaba la actividad en la vía y su entorno y se detectaban posibles fuentes de amenaza para la vía.
+La medición de la disposición geométrica y constructiva del carril mediante un dispositivo con registro continuo se realizaba a través de medios de medición para la medición de GPK con registro continuo, siendo los medios de medición el vagón de medición para la superestructura ferroviaria, la dresina de medición, la pequeña dresina de medición, el vagón de medición KRAB y los medidores de ancho de vía electrónicos móviles, siendo la metodología de medición basada en los principios indicados en la ČSN 73 6360-2 (no sirve primariamente para la determinación detallada del estado de las placas de sujeción del carril de sujeción).
+Las condiciones para las inspecciones y la medición de la posición mutua en altura de las bandas de carril y del ancho de vía en los desvíos
+  fueron concretadas, en el momento de la realización de las inspecciones y mediciones antes de la aparición de la MU, en la Directriz n.º 51, cuando la medición del sobreelevación del carril y del ancho de vía en los desvíos se realizaba en los puntos establecidos del desvío. Los registros del resultado de la medición de la sobreelevación del carril y del ancho de vía con un medidor de ancho de vía manual con nivel de burbuja, o en su caso con otro medio de medición para la medición de los valores de sobreelevación del carril y del ancho de vía y de otros parámetros determinados en los desvíos, eran anotados por el gestor de la vía en las hojas de desvío. Las hojas de desvío servían para la evaluación posterior de la evolución de los valores medidos. La posición mutua en altura de las bandas de carril y el ancho de vía en el desvío de cruce se medían en los puntos establecidos del desvío, tanto en la parte «a» como en la parte «b», con la anotación indicada en el orden desde el centro del desvío de cruce hasta los contactos finales en la dirección I (dirección principal) y en la dirección II (dirección secundaria).
+En las inspecciones regulares de los desvíos se comprobaba también, entre otros, el funcionamiento de los cierres y del aparato de cambio y se realizaba la prueba de enclavamiento, siendo las medidas y las desviaciones admisibles de los valores funcionales en los desvíos indicadas en la normativa SŽDC S3 Parte IX.
+En las inspecciones regulares en servicio se evaluaba también, entre otros:
 •
-el contacto de la cabeza de la lengua con el riel de apoyo;
+el acoplamiento de la cabeza de la aguja contra el riel de apoyo;
 •
-la holgura entre el talón de la lengua adyacente y el tope de lengua, y la diferencia de holgura entre dos topes adyacentes;
+la holgura entre el talón de la aguja adyacente y el apoyo de la aguja y la diferencia de holgura entre dos apoyos contiguos;
 •
-la anchura mínima de la ranura entre la cabeza de la lengua desviada y la cabeza del riel de apoyo;
+la anchura mínima del hueco entre la cabeza de la aguja desviada y la cabeza del riel de apoyo;
 •
-la desviación de las lenguas respecto a la posición de montaje;
+el desplazamiento de las agujas desde la posición de montaje;
 •
-el desgaste de las puntas de las lenguas;
+el desgaste de las puntas de las agujas;
 •
-la holgura entre el pie de la lengua y la superficie de deslizamiento del travesaño deslizante;
+la holgura entre el pie de la aguja y la superficie deslizante del travesaño deslizante;
 •
-la diferencia de altura de la cresta de la cabeza de la lengua respecto al riel de apoyo;
+la diferencia de altura de la cresta de la cabeza de la aguja respecto al riel de apoyo;
 •
-el contacto de la punta móvil del corazón con el riel de ala (de rodilla);
+el acoplamiento de la punta móvil del corazón contra el riel de ala (de rodilla);
 •
-la sobreelevación de la barra de sujeción sobre la cresta del riel desgastado en altura;
+la sobreelevación del carril de sujeción sobre la cresta del carril desgastado en altura;
 •
-el desgaste de las superficies de trabajo de la barra de sujeción;
-
+el desgaste de las superficies de trabajo del carril de sujeción;
 
 ## Página 43
+
 
 •
 el desgaste vertical del corazón en servicio en el punto donde la anchura de la cuña del corazón es de 40 mm.
@@ -1266,8 +1265,8 @@ el estado de las traviesas;
 el estado del lecho de la vía y del drenaje.
 Sobre la cuestión de las inspecciones y mediciones de la posición relativa en altura de las bandas de riel y de la anchura de vía en las agujas, puede concluirse que la Directriz n.º 51 ni ningún otro procedimiento tecnológico del operador de la vía:
 
-
 ## Página 44
+
 
 •
 ### hasta la aparición de la MU no especificaron que en las inspecciones de agujas debía
@@ -1288,6 +1287,7 @@ el estado de los campos de enlace y de los arcos antes y después de la aguja;
 el estado de las lenguas y de los rieles de apoyo (desgaste de las lenguas, inclinación de las superficies rodantes, defectos visibles en las lenguas y en los rieles de apoyo, formación de rebabas, contacto y asentamiento de la lengua, posición en altura de la lengua respecto al riel de apoyo, anchura mínima de la ranura en la lengua desviada, etc.);
 
 ## Página 45
+
 
 •
 estado de las agujas y los raíles de retención (desgaste de la punta de la aguja, puntos de contacto de las ruedas con los raíles de guía, puntos de paso de las ruedas a la punta de la aguja, golpeteo de la punta de la aguja, desgaste de los raíles de retención, longitudes de contacto de las ruedas con el raíl de retención, etc.);
@@ -1320,8 +1320,8 @@ En este punto, cabe mencionar también el hecho de que ni siquiera la norma inte
 e) rotura de la aguja, del riel de apoyo; ...
 i) rotura de piezas de la aguja (cuña, raíles de guía, de punta o de rodadura);…».
 
-
 ## Página 46
+
 
 Puede resumirse así que el gestor de la vía SŽ, mediante el contenido de sus procedimientos tecnológicos, que son elementos del sistema de seguridad del gestor de la vía por él implantado, renunció a un procedimiento inequívoco y a la definición de obligaciones, responsabilidades y las facultades relacionadas con ellas de los empleados del gestor de la vía que desempeñan un papel con influencia en la seguridad – garantía de la aptitud para la explotación de la vía y garantía de la explotación segura de la vía (al comprobar e inspeccionar las agujas, averiguar detalladamente el estado real de las placas de base del raíl de retención de las agujas dobles para poder detectar la aparición de roturas o grietas, incluso en las soldaduras, y poder evaluar y categorizar los defectos individuales de las placas de base), al tiempo que renunció a documentar, asignar y comunicar estas obligaciones y responsabilidades a los empleados correspondientes, y a la constatación de que dichos empleados hubieran comprendido y asumido las obligaciones y responsabilidades impuestas.
 ### Hallazgos:
@@ -1343,8 +1343,8 @@ La última
  inspección a pie de vía,
  en la que el gestor de la vía comprobó, entre otros, la aguja de enlace núm. 20ab de la est. Ostrava-Bartovice, incluida la comprobación del apriete de todos los tornillos del raíl de retención antes de la aparición del MU, se realizó el 28. 1. 2025. En esta comprobación, que se llevó a cabo 7 días antes de la aparición del MU, no se detectaron defectos.
 
-
 ## Página 47
+
 
 La última comprobación en tren a través de la est. Ostrava-Bartovice antes de la aparición del MU se realizó el 6. 1. 2025. En esta comprobación no se detectaron defectos.
 La última medición de la geometría y de la configuración estructural de los raíles con
@@ -1359,6 +1359,7 @@ En el examen del lugar del MU se detectó en la aguja de enlace núm. 20ab de la
 
 ## Página 48
 
+
 las tuercas no estaban en su lugar, MU, debido a la contaminación operativa, se observan huellas frescas de aflojamiento de la tuerca, véase el punto 3.1.3 de la presente ZZ.
 Para las necesidades de la investigación de la presente MU, el Instituto de Criminalística de la Policía de la República Checa elaboró un Dictamen Pericial, del que entre otros se desprende que las roturas de los laterales de las placas de apoyo del elemento de retención de la doble almohadilla se produjeron como consecuencia del aflojamiento de las uniones roscadas entre el elemento de retención y las placas de apoyo, cuyo resultado era una mayor carga dinámica del elemento de retención y de las placas de apoyo por las ruedas del DV, y con ello también un mayor aflojamiento de las uniones roscadas correspondientes. Según los procesos de corrosión, que dependen principalmente de las condiciones climáticas y de la humectación del material, donde las oxidaciones visibles se producen en el orden de días, se produjo la desconexión total de la 4.ª unión roscada en un intervalo de tiempo relativamente corto antes de la aparición de la MU. El aflojamiento de las uniones roscadas de las placas de apoyo, es decir, no solo de la 4.ª unión roscada, sino también de las uniones 1.ª, 2.ª y 3.ª, se produjo en un intervalo de tiempo prolongado.
 El aflojamiento de las uniones roscadas entre las placas de apoyo y el elemento de retención daba lugar a un movimiento mutuo entre el elemento de retención y las placas de apoyo, y con ello también a una carga dinámica de las placas de apoyo, lo que condujo a la aparición de roturas primero en los laterales de las placas de apoyo interiores [según el Dictamen Pericial, el mecanismo de daño era el siguiente: «primero se produjo la rotura de las piezas y posteriormente el movimiento mutuo (rozamiento, estampado) de las superficies rotas, con lo que se producía la degradación progresiva de las superficies de rotura», en las que aparecían «productos de corrosión»], y solo posteriormente a la rotura del lateral de la 1.ª placa de apoyo (en el sentido de la circulación de los trenes que circulan desde la TK n.º 1 Ostrava-Kunčice – Ostrava-Bartovice hacia la SK n.º 1 est. Ostrava-Bartovice).
@@ -1368,8 +1369,8 @@ En relación con lo anterior, puede concluirse que el operador de la vía SŽ, q
 En la investigación se constató la infracción de la normativa legal, del reglamento interno y de la norma técnica, relativos a las funciones y obligaciones del propietario y del operador de la vía, en relación causal
 ### con la MU:
 
-
 ## Página 49
+
 
 •
 § 20 apartado 1 de la ley n.º 266/1994 Sb.:
@@ -1407,34 +1408,66 @@ art. 56 del reglamento interno SŽDC S3 Parte IX
 «Para garantizar la función del elemento de retención deben mantenerse durante su montaje y en servicio los valores indicados en la tab. 1 ….
 Para el paso seguro del vehículo a través de la almohadilla es determinante el cumplimiento de los valores establecidos L y A. …
 
-
 ## Página 50
 
-Tab. 1 Valores para garantizar la función correcta del elemento de retención en la almohadilla simple (L, A) en el sentido directo y en el sentido de desvío y en las almohadillas dobles (Xa)
+Tab. 1 Valores para garantizar el correcto funcionamiento del listón de retención en una aguja simple (L, A) en sentido directo y de desviación y en agujas dobles (Xa)
 | Medidas de seguridad | UIC 60 y S 49 2.ª generación . , ... | R 65 y S 49 1.ª generación . ... |
 | L [mm] | montaje 1 396 ± 1 servicio 1 392 a 1 398 | mín. 1 392 . |
 | A Xa [mm] , | máx. 1 356 . |  |
 donde indica:
 ...
-Xa = distancia de los cantos guía de los elementos de retención en el punto de su curvatura»
+Xa = distancia entre los cantos guía de los listones de retención en el punto de su curvatura"
 •
-art. 89 letra h) del reglamento interno SŽDC S3 Parte IX
-«En servicio no pueden dejarse sin medidas de seguridad especiales las agujas que tengan solo una de estas averías:
-h) no se cumplen los valores indicados en el art. 56 (tab. 1);».
-Además de las inspecciones regulares, antes de la aparición de la MU el operador de la vía SŽ realizó el 17. 12. 2024 una inspección extraordinaria de las agujas en la est. Ostrava-Bartovice, en la que entre otros se detectó una avería en la almohadilla doble de la aguja n.º 20ab, cuya medida adoptada consistió en el apriete de los tornillos de la almohadilla con fecha límite hasta el 15. 1. 2025. Dicha avería fue, según la documentación del operador de la vía, eliminada el 8. 1. 2025.
-Tras la aparición de la MU, el operador de la vía SŽ realizó inspecciones extraordinarias del estado de las placas de apoyo al elemento de retención de las almohadillas dobles, centrándose en todos los puntos de fijación de los elementos de retención de las almohadillas dobles fijas, es decir, en el área de las almohadillas dobles fijas de las agujas de cruce de medias y enteras, de los cruces de vía y de las partes centrales de los enlaces de vía dobles, véase el punto 5.2 de la presente ZZ. En el marco de la investigación de la presente MU, el DI solicitó por tanto al operador de la vía no solo todos los resultados de estas inspecciones, sino también información sobre los procedimientos según los cuales las personas cualificadas correspondientes realizaban estas inspecciones extraordinarias.
-El operador de la vía SŽ al respecto indicó entre otras cosas que las inspecciones extraordinarias del estado de las placas de apoyo al elemento de retención de las almohadillas dobles fijas las realizaba únicamente visualmente, aplicando los procedimientos contenidos en el reglamento interno SŽ S3/4. Dicho reglamento establece los principios de la inspección no destructiva de raíles, agujas y estructuras de agujas, de sus soldaduras y aportes de soldadura, mientras que la clasificación de defectos y roturas de raíles, almohadillas y lengüetas de agujas, incl. sus soldaduras y aportes de soldadura, la categorización de defectos según su gravedad y las medidas correspondientes que es necesario adoptar para garantizar la explotación segura de la vía y del tráfico ferroviario, las regula el reglamento interno SŽ S3/7.
-En este punto es necesario recordar que los reglamentos indicados se refieren a la inspección no destructiva de raíles en la vía en servicio y de las piezas transitadas de las agujas, de sus soldaduras y aportes de soldadura, y no a las inspecciones de las placas de apoyo al elemento de retención, es decir, de las piezas no transitadas de las agujas. El operador de la vía, en el momento de la realización de dicha inspección extraordinaria, seguía sin disponer de procedimientos tecnológicos para la detección y categorización de defectos detectados por inspección en las piezas no transitadas de las agujas, es decir, también en las placas de apoyo al elemento de retención, véase el hallazgo anterior relativo al sistema de seguridad implantado del operador de la vía SŽ en el momento de la aparición de la MU.
+art. 89 letra h) de la instrucción interna de SŽDC S3 Parte IX
+"En servicio no pueden permanecer, sin medidas de seguridad especiales, agujas que presenten
+incluso solo uno de estos defectos:
+h) no se respetan los valores indicados en el art. 56 (tabla 1);".
+Además de las revisiones ordinarias, antes de la aparición de la MU, el gestor de la
+infraestructura SŽ realizó el 17. 12. 2024 una inspección extraordinaria de agujas en la
+est. Ostrava-Bartovice, durante la cual se detectó, entre otros, un defecto en la aguja doble
+de la aguja n.º 20ab, habiéndose adoptado como medida apretar los tornillos de la aguja con
+fecha límite del 15. 1. 2025. Este defecto fue, según la documentación del gestor de la
+infraestructura, eliminado el 8. 1. 2025.
+Tras la aparición de la MU, el gestor de la infraestructura SŽ realizó controles extraordinarios
+del estado de las placas de apoyo de los listones de retención de las agujas dobles, con
+enfoque en todos los puntos de fijación de los listones de retención de las agujas dobles
+fijas, es decir, en el área de las agujas dobles fijas de los cruzamientos de agujas de media
+y vía completa, de los cruces de vías y de las partes centrales de los dobles enlaces de vías,
+véase el punto 5.2 de esta ZZ. En el marco de la investigación de la citada MU, la DI solicitó
+por tanto al gestor de la infraestructura no solo todos los resultados de dichos controles,
+sino también información sobre los procedimientos conforme a los cuales las personas
+profesionalmente competentes correspondientes ejecutaban dichos controles extraordinarios.
+El gestor de la infraestructura SŽ al respecto indicó, entre otros, que los controles
+extraordinarios del estado de las placas de apoyo de los listones de retención de las agujas
+dobles fijas los ejecutaba únicamente visualmente, aplicando los procedimientos contenidos
+en la instrucción interna de SŽ S3/4. Dicha instrucción establece los principios del ensayo
+no destructivo de raíles, agujas y estructuras de agujas, de sus soldaduras y deposiciones,
+siendo la clasificación de defectos y fracturas de raíles, de agujas y de lengüetas de agujas,
+incl. sus soldaduras y deposiciones, la categorización de defectos en función de su gravedad
+y las medidas correspondientes que sea necesario adoptar para garantizar la explotación
+segura de la infraestructura y del transporte ferroviario, regulada por la instrucción interna
+de SŽ S3/7.
+En este punto es necesario recordar que las citadas instrucciones se refieren al ensayo no
+destructivo de raíles en la vía en servicio y de las piezas transitadas de las agujas, de sus
+soldaduras y deposiciones, y no a las revisiones de las placas de apoyo de los listones de
+retención, es decir, de las piezas no transitadas de las agujas. De los procedimientos
+tecnológicos para la detección y categorización de defectos detectados por inspección por
+ultrasonidos en piezas no transitadas de las agujas, es decir, también en las placas de apoyo
+de los listones de retención, el gestor de la infraestructura en el momento de la realización
+de dicho control extraordinario seguía sin disponer, véase la constatación arriba indicada
+relativa al sistema de seguridad implantado del gestor de la infraestructura SŽ en el momento
+de la aparición de la MU.
 
 ## Página 51
+
 
 El transportista tenía, entre otras, la obligación de garantizar que el maquinista, al conducir el tren (DV), en el sentido de la normativa legal y de las disposiciones pertinentes de los reglamentos internos del gestor de la infraestructura SŽ y del transportista ČD, entre otras, condujera el DV únicamente desde la posición desde la que se tiene la mejor visibilidad, por lo general desde la cabina delantera del maquinista en el sentido de la marcha, observara la vía desde la cabeza del DV, incl. TV, y las señales, y actuara según los hechos constatados. El maquinista no podía superar durante la marcha la velocidad máxima permitida establecida en el horario de circulación o la velocidad limitada ordenada. A la vez, era responsable de todas las medidas de tráfico derivadas de la circulación del tren y del contacto con el personal que dirige y organiza el transporte ferroviario. En el caso de que fueran conocidas por el maquinista circunstancias que pusieran en peligro la seguridad de la explotación de la infraestructura y del transporte ferroviario, debía adoptar inmediatamente todas las medidas para evitar el peligro, es decir, en este caso concreto, hacer todo lo posible, según las circunstancias, para detener el tren y, en caso de descarrilamiento o daño violento en la cabeza del DV, si su estado de salud se lo permitía, poner la cabeza del DV (y el HDV de tracción eléctrica) en un estado seguro de acuerdo con las disposiciones de las normas locales de trabajo y de seguridad. En el desempeño del servicio de tráfico estaba obligado a actuar de manera que no se pusiera en peligro la seguridad del transporte ferroviario también en los casos que no están descritos (definidos) en los reglamentos internos.
 El maquinista del tren Sp 1615, a la entrada del tren en la est. Ostrava-Bartovice, actuó según la instrucción del gestor de la infraestructura SŽ expresada por la señal «Vía libre» de la señal de entrada 1S y condujo la circulación del tren según el horario de circulación, sin que en este tramo fuera informado por el gestor de la infraestructura de ninguna incidencia relativa a su circulación. La circulación del tren Sp 1615 la condujo desde la cabina del maquinista ŘDV 50 54 80-30 029-0, es decir, desde la posición desde la que tenía la mejor visibilidad. Durante su circulación no tenía indicada la pérdida de tensión en la TV. Desde la cabeza del DV observó la vía, es decir, la parte definida de la infraestructura destinada a la circulación del tren, y actuó según los hechos constatados: la avería en la aguja de enlace n.º 20ab consistente en la pestaña de sujeción rota (desprendida) del doble corazón no podía detectarla desde la cabina del maquinista, dada la velocidad del tren y el lugar donde se encontraba la pestaña de sujeción rota, en relación con la imposibilidad natural de comprobar la integridad de los componentes de la superestructura ferroviaria desde la cabina del maquinista del DV en marcha. Al pasar por la aguja de enlace n.º 20ab, registró únicamente un cambio repentino e inesperado en el funcionamiento del ŘDV, que según sus palabras «saltó hacia arriba y a la derecha», lo que fue causado por el descarrilamiento del bogie delantero del ŘDV. Desde la posición sentado en el asiento del maquinista, según sus palabras, se encontró repentinamente en posición de pie. Reaccionó a la situación creada con rapidez y de forma totalmente correcta: en el segundo siguiente a la creación de la MU pulsó el botón amarillo «Freno forzado», con lo que activó el freno forzado (vaciado rápido del aire de la tubería principal y frenado de emergencia del tren). Tras detener el tren en la posición final tras la creación de la MU, adoptó medidas para evitar la generación de daños adicionales y, junto con la jefa de tren, comprobaron si algún pasajero había sufrido perjuicio en su salud.
 Puede resumirse que, en la investigación de la incidencia MU objeto de estudio, no se constató, en relación con la incidencia MU dada, incumplimiento de las funciones y obligaciones del transportista.
 Si se produjera una MU durante la explotación de la infraestructura o la explotación del transporte ferroviario, el gestor de la infraestructura y el transportista estaban obligados, entre otros, a garantizar que cada empleado o persona en relación contractual con el gestor de la infraestructura o el transportista que hubiera participado con su actividad laboral en la explotación de la infraestructura o en la explotación del transporte ferroviario, comunicara sin demora a la oficina de notificación designada su producción, si este evento lo había detectado por sí mismo o si había tenido conocimiento fidedigno del mismo. El gestor de la infraestructura y el transportista creaban oficinas de notificación independientes o conjuntas que garantizaban la notificación de la producción de la MU según la actividad ejercida en el marco de
 
-
 ## Página 52
+
 
 el objeto de la actividad empresarial. El gestor de la infraestructura y el transportista establecían también, para las necesidades de la notificación rápida de la MU, sus propias medidas organizativas en forma de cuadrante de notificación. El gestor de la infraestructura SŽ y el transportista ČD estaban además obligados a notificar sin demora cada MU en el transporte ferroviario a la DI en el alcance de los datos establecidos por la normativa legal de desarrollo y a actualizar esta notificación sin demora después de tener conocimiento de la modificación de los datos notificados o de nuevos datos hasta entonces no incluidos en la notificación. El gestor de la infraestructura y el transportista estaban además obligados a asegurar el lugar de la MU y a realizar la documentación del estado en el momento de la producción de la MU.
 En relación con la notificación de la producción de la MU a la oficina de notificación del gestor de la infraestructura y del transportista, con el aseguramiento del lugar de la MU y con la notificación de su producción a la DI, no se constató en la investigación incumplimiento de las funciones y obligaciones del gestor de la infraestructura y del transportista.
@@ -1449,8 +1482,8 @@ En la investigación no se constató incumplimiento de las funciones y obligacio
 ### 4.1.5 Entidades notificadas, entidades designadas y entidades dedicadas a la evaluación de riesgos
 En la investigación no se constató incumplimiento de las funciones y obligaciones de las entidades notificadas, de las entidades designadas y de las entidades dedicadas a la evaluación de riesgos.
 
-
 ## Página 53
+
 
 ### 4.1.6 Entidades de certificación responsables del mantenimiento de los vehículos ferroviarios
 En la investigación no se constató incumplimiento de las funciones y obligaciones de las entidades de certificación responsables del mantenimiento de los DV.
@@ -1472,8 +1505,8 @@ en la parte «a», el choque de los aros de los DV contra la punta izquierda de 
 en la parte «b», la superación de la desviación operativa límite (IAL) de la anchura de vía en el doble corazón en la rama secundaria (sentido de circulación del DV desde la aguja n.º 23 hacia la SK n.º 3) en 2 mm.
 Lo anterior no puede valorarse en relación causal con la producción de la MU, porque la producción de la MU no se produjo como consecuencia de la superación de la desviación operativa límite (IAL) de la anchura de vía en el doble corazón de la aguja de enlace n.º 20ab en la rama secundaria, ni como consecuencia de
 
-
 ## Página 54
+
 
 el choque del aro de las ruedas izquierdas del DV contra la punta del doble corazón en la parte «a», que se encontraba tras el lugar de producción de la MU.
 
@@ -1506,6 +1539,7 @@ En la investigación no se constataron factores relacionados con la formación p
 
 ## Página 55
 
+
 De los documentos disponibles puede constatarse además que la DI no detectó, en el caso de todos los empleados mencionados anteriormente, influencia de su estado de salud, de su situación personal ni de la acción del estrés físico y psíquico en la aparición de la MU en cuestión.
 ### 4.3.2 Factores laborales
 En la investigación no se detectaron factores relacionados con la jornada laboral de los empleados del explotador ferroviario SŽ, tampoco se detectó en estos empleados el incumplimiento de las condiciones de descanso antes del turno y de los descansos, respectivamente del PDOJ durante el turno.
@@ -1515,8 +1549,8 @@ La última inspección y medición de la aguja en cuestión fue realizada por la
 Por las razones expuestas, no puede considerarse – ni siquiera en el caso de que, en el momento de la inspección y medición de la aguja, hubieran existido roturas en los laterales de las placas base de la sujeción del doble corazón de la aguja de cruzamiento n.º 20ab en la est. Ostrava-Bartovice – que la actuación de los empleados del explotador ferroviario que realizaron estas inspecciones y mediciones antes de la aparición de la MU constituya una deficiencia en el sentido de incumplimiento de sus obligaciones, sino una deficiencia en el sistema de seguridad adoptado por el explotador ferroviario, véanse los puntos 4.1.1 y 6 de la presente ZZ.
 En la investigación no se detectaron factores relacionados con el contenido laboral o la jornada laboral de los empleados del transportista ČD. En la investigación no se detectó en estos empleados el incumplimiento de las condiciones de descanso antes del turno y de los descansos, respectivamente del PDOJ durante el turno.
 
-
 ## Página 56
+
 
 ### 4.3.3 Factores organizativos y tareas
 En la investigación no se detectaron factores relacionados con la organización del trabajo o con las tareas laborales.
@@ -1540,8 +1574,8 @@ El sistema de gestión de los sujetos responsables del mantenimiento de VDF y de
 Atendiendo a los factores detectados y a las circunstancias de la aparición de la MU, la supervisión de la autoridad de seguridad no guarda relación con la MU en cuestión.
 La DÚ, en el período comprendido entre el 1. 1. 2020 y la aparición de la MU en cuestión, no realizó la supervisión estatal en materia de ferrocarriles centrada en el estado constructivo-técnico de la superestructura ferroviaria (en el cumplimiento del sistema de seguridad implantado por el explotador ferroviario SŽ, respectivamente SŽDC) en la est. Ostrava-Bartovice, con la justificación de que «… Las inspecciones de agujas son, ante todo, una obligación del explotador de la vía correspondiente, a la que le impone la normativa legal vigente (decreto
 
-
 ## Página 57
+
 
 n.º 177/1995 Sb., ordenanza constructiva y técnica de las vías ferroviarias, en su redacción vigente), y que dispone de las capacidades y de los requisitos profesionales necesarios para dichas inspecciones.».
 ### 4.4.6 Aprobaciones, certificados y dictámenes de evaluación emitidos por la agencia, las autoridades nacionales de seguridad u otros sujetos de evaluación de la conformidad
@@ -1565,8 +1599,8 @@ si bien no volvió a hacer seguimiento de la propia ejecución de las medidas, v
 A la medida de la DÚ respondió el explotador ferroviario SŽDC (desde el 1. 1. 2020 SŽ) mediante el escrito n.º de registro: 13789/2018-SŽDC-GŘ-O18, de fecha 25. 1. 2018 (en adelante, el Escrito), en el que, entre otros extremos, indicó: «Správa železnic, organización estatal (Správa železniční dopravní cesty, organización estatal) tiene registradas en la red ferroviaria unas 22 060 unidades de agujas y estructuras de agujas, de las cuales unas 680 unidades son estructuras con dobles corazones fijos. En estas estructuras se utilizan las placas base de la sujeción en cuestión, en distintas variantes de desarrollo.
 En el caso de agujas nuevas, las soldaduras de estas placas base se realizan en el fabricante de agujas y forman parte de la entrega de la estructura en su conjunto. El control de calidad de las soldaduras forma parte del control intermedio y del control final del fabricante conforme al sistema interno de controles implantado. La calidad de las placas base soldadas la verifican los controladores de calidad, que están autorizados para verificar la
 
-
 ## Página 58
+
 
 calidad de los productos nuevos destinados a las vías de los ferrocarriles, y ello en el marco de la verificación de la calidad de las agujas y de las estructuras de agujas en su conjunto conforme a los procedimientos de trabajo establecidos.
 En el caso de sustituciones y reparaciones de las placas base en cuestión, se aplican las condiciones técnicas generales para la reparación y regeneración de agujas y estructuras de agujas ferroviarias. En estos casos, las soldaduras se realizan fuera de la vía por el ejecutor, que debe disponer de la autorización correspondiente para esta actividad. La calidad de las soldaduras la controla el trabajador correspondiente del ejecutor y, posteriormente, el trabajador del gestor al recibir los trabajos.
@@ -1578,6 +1612,7 @@ Al investigar las causas de la aparición de la MU de la est. Praha hl. n. (año
 El dictamen del explotador ferroviario SŽ corresponde con el análisis de riesgos indicado a continuación, contenido en el manual SŽ SMS anexo D, donde, entre otros extremos, en relación con dichos riesgos se indica:
 
 ## Página 59
+
 
 | Peligro riesgo | Medidas de seguridad |
 | Defectos de material y de elementos individuales |  |
@@ -1591,8 +1626,8 @@ En la investigación se constató la infracción de las disposiciones legales re
 § 22 apartado 2 letra d) de la Ley núm. 266/1994 Sb.:
 «El gestor de la infraestructura de la red nacional o de la red regional está además obligado a garantizar que el sistema de seguridad del gestor de la infraestructura por él establecido, de acuerdo con el reglamento de aplicación directa
 
-
 ## Página 60
+
 
 de la Unión Europea que regula los métodos de seguridad comunes relativos a los requisitos del sistema de gestión de la seguridad
 1. tenga en cuenta el alcance y el objeto de su actividad y de la actividad de los distintos transportistas ejercida en la infraestructura por él gestionada,
@@ -1618,8 +1653,8 @@ ausencia de procedimientos inequívocos que a los empleados con influencia en la
 ◦les permitieran, al realizar los controles del estado de las placas base de los raíles de guarda de la aguja de cruzamiento obtusa de las agujas de cruzamiento durante el servicio, determinar el estado real de las placas base centrándose en la aparición de fracturas y grietas,
 ◦les impusieran la obligación de determinar, durante el servicio, el estado real de las placas base centrándose en la aparición de fracturas y grietas.
 
-
 ## Página 61
+
 
 ### Resumen del análisis y conclusiones relativas a las causas del suceso
 Factor causal:
@@ -1648,8 +1683,8 @@ El gestor de la infraestructura SŽ adoptó las siguientes medidas tras la ocurr
 •
 realizó controles visuales extraordinarios de todos los puntos de fijación de los raíles de guarda de la aguja de cruzamiento obtusa fija, es decir, de las áreas de las agujas de cruzamiento obtusas fijas, de los tableros de agujas de cruzamiento obtusas a media y a sangre y de las partes centrales de los desvíos, en la red nacional y en las redes regionales gestionadas por SŽ;
 
-
 ## Página 62
+
 
 •
 la causa y las circunstancias de esta ocurrencia serán debatidas en una reunión del Jefe de la Administración Ferroviaria de Ostrava, Dirección Regional de Ostrava, con fecha límite del 31.05.2026;
@@ -1680,8 +1715,8 @@ A la Autoridad Ferroviaria:
 en el marco de su actividad como autoridad nacional de seguridad, la adopción de medidas que garanticen en el gestor de la infraestructura de la red nacional y en los gestores de las redes regionales:
 ◦que los procedimientos tecnológicos que constituyen elementos del sistema de seguridad del gestor de la infraestructura contengan procedimientos de inspección detallada del estado de las placas base de los raíles de guarda de las agujas de cruzamiento obtusas de las agujas de cruzamiento durante el servicio para la aparición de fracturas y grietas, incl. procedimientos que establezcan la evaluación y categorización de dichos defectos, y procedimientos para la adopción de medidas correspondientes.
 
-
 ## Página 63
+
 
 ### RECOMENDACIONES DE SEGURIDAD
 Dirigidas a la Autoridad Nacional de Seguridad Checa (NSA):
@@ -1701,23 +1736,23 @@ Certificado del firmante:
 Nombre: Drážní inspekce
 Emitido por: PostSignum Qualified CA 4
 
-
 ## Página 64
+
 
 ### ANEXOS
 Fig. núm. 5: Vista del ŘDV del tren Sp 1615 en posición final tras la MU       Fuente: DI
 Fig. núm. 6: Vista de la zona de la aguja de cruzamiento obtusa izquierda de la aguja núm. 20ab tras la MU   Fuente: DI
 
-
 ## Página 65
+
 
 Fig. núm. 7: Vista de la 1.ª placa base del raíl de guarda de la aguja de cruzamiento obtusa de la aguja núm. 20ab tras el desmontaje  
      Fuente: DI
 Fig. núm. 8: Vista de la 2.ª placa base del raíl de guarda de la aguja de cruzamiento obtusa de la aguja núm. 20ab tras el desmontaje  
       Fuente: DI
 
-
 ## Página 66
+
 
 Fig. núm. 9: Vista del punto de descarrilamiento (desplazamiento) de la vía tras la aguja núm. 20ab, donde se descarriló el bogie trasero del ŘDV del tren Sp 1615. 
  Fuente: DI

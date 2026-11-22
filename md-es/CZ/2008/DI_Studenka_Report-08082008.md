@@ -10,13 +10,14 @@ chars: 288542
 ratio_longitud: 1.30
 tokens_in: 141958
 tokens_out: 102078
-verificacion: revisar
-notas_cifras: ["bloque 1: cifras cortas: 1/107", "bloque 2: original bilingüe: se compara contra el idioma principal (PT)", "bloque 3: original bilingüe: se compara contra el idioma principal (CS); cifras cortas: 1/33", "bloque 5: original bilingüe: se compara contra el idioma principal (CS); cifras cortas: 1/10", "bloque 6: original bilingüe: se compara contra el idioma principal (CS)", "bloque 9: cifras largas: 1/52"]
-avisos: ["bloque 3: ratio 1.64", "bloque 5: ratio 2.12", "bloque 6: ratio 1.92", "bloque 10: ratio 1.77", "bloque 14: ratio 1.79", "bloque 16: ratio 1.69"]
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 5: original bilingüe: se compara contra el idioma principal (EN)", "página 6: original bilingüe: se compara contra el idioma principal (PT)", "página 7: original bilingüe: se compara contra el idioma principal (PT)", "página 8: original bilingüe: se compara contra el idioma principal (CS); cifras cortas: 1/18", "página 9: original bilingüe: se compara contra el idioma principal (PT)"]
 ---
+
 ## Página 1
+
 
 Inspección Ferroviaria
 República Checa
@@ -41,11 +42,12 @@ NIF: 75009561
 http://www.dicr.cz
 fax: (+420) 224 805 428
 
-
 ## Página 2
 
 
+
 ## Página 3
+
 
 # RESUMEN
 Gravedad:
@@ -93,8 +95,8 @@ Se recomienda exigir la presencia de un especialista autorizado en el lugar
 •
 (según el artículo 149 de la Ley n.º 183/2006 Coll.) durante las operaciones de construcción identificadas por el análisis anterior como operaciones con un nivel
 
-
 ## Página 4
+
 
 de riesgo superior; este especialista debe estar equipado con una conexión de comunicación directa con la persona que dirige el tráfico ferroviario para poder exigir la cancelación inmediata del tráfico en caso de emergencia.
 Se recomienda adoptar medidas propias para garantizar la aplicación de la
@@ -108,8 +110,8 @@ se solicite la cancelación del tráfico ferroviario por parte de un especialist
 canal de comunicación designado (según la recomendación anterior
 dirigida a la ANS)
 
-
 ## Página 5
+
 
 # Índice
  Resumen .............................................................................................................................3
@@ -141,6 +143,7 @@ incluidas las personas en relación contractual ................................
 
 ## Página 6
 
+
 3.1.2 Otras personas .........................................................................................................32
 3.2 Sistema de garantía de la seguridad ...............................................................................35
 3.2.1 Estructura marco y forma en que se emiten y ejecutan las instrucciones .......35
@@ -170,8 +173,8 @@ incluidas las personas en relación contractual ................................
 ............................................................................................................................54
 4.2 Análisis ......................................................................................................................57
 
-
 ## Página 7
+
 
 4.2.1 Evaluación de los hechos constatados según el punto 3 y exposición de las conclusiones sobre la causa del incidente y la actuación de los servicios de rescate ..........................................57
 4.3 Conclusiones .......................................................................................................................65
@@ -195,6 +198,7 @@ incluidas las personas en relación contractual ................................
 
 ## Página 8
 
+
 ## 1 RESUMEN
 Grupo de acontecimiento: accidente grave.
 Fecha del acontecimiento: 08. 08. 2008, 10:30:27 h.
@@ -212,21 +216,21 @@ Causa inmediata: alteración de la sección de paso libre de las vías de estaci
 Causa fundamental: La Inspección Ferroviaria no investigó las causas del derrumbe de la estructura del puente, sino que se centró en garantizar la seguridad de la línea y del transporte ferroviario durante la realización de las obras de construcción en el lugar de la obra «Reconstrucción del puente nº 464-014 sobre la línea de ČD en Studénka». En este ámbito se constató la falta de determinación de las condiciones eficaces que eliminen los riesgos de seguridad derivados de la influencia mutua de las actividades de construcción en la obra y de la línea y el transporte ferroviario en explotación, en el marco de las actuaciones previas a la emisión de la resolución de autorización de la obra.
 Causas en el sistema de seguridad: no se constataron.
 
-
 ## Página 9
 
 Recomendaciones de seguridad:
-De conformidad con lo dispuesto en el anexo nº 7 del Decreto nº 376/2006 Coll., sobre el sistema de seguridad de la explotación de las líneas y del transporte ferroviario y los procedimientos en caso de acontecimientos extraordinarios en las líneas, la Inspección Ferroviaria recomienda a la Oficina Ferroviaria, como autoridad nacional de seguridad para el ámbito de las líneas y del transporte ferroviario:
-en el procedimiento de construcción de las líneas nacionales, regionales y de acceso, de las obras en dichas líneas y en su zona de protección, cuando la Oficina Ferroviaria, en el sentido del apartado 1 del artículo 7 de la Ley nº 266/1994 Coll., sobre las líneas, en su redacción posterior, y del apartado 1, letra b), del artículo 15 de la Ley nº 183/2006 Coll., sobre la planificación territorial y la ley de construcción (ley de construcción), en su redacción posterior, ejerza las funciones de autoridad de construcción, o en el sentido del apartado 3 del artículo 7 de la Ley nº 266/1994 Coll., sobre las líneas, en su redacción posterior, y de los artículos 110, 111 y 112 de la Ley nº 183/2006 Coll., sobre la planificación territorial y la ley de construcción (ley de construcción), en su redacción posterior, ejerza las funciones de órgano afectado:
-1. garantizar que, durante el procedimiento de construcción, se realice un análisis de la influencia de las actividades de construcción de la obra sobre la línea y el transporte ferroviario en explotación y de la influencia de la línea y el transporte ferroviario en explotación sobre las actividades de construcción de la obra;
-2. condicionar la emisión de la autorización de la obra a la determinación de las condiciones que eliminen los riesgos derivados del análisis mencionado anteriormente;
-3. condicionar la realización de las actividades de construcción con un mayor nivel de riesgo, en el sentido del artículo 149 de la Ley nº 183/2006 Coll., sobre la planificación territorial y la ley de construcción (ley de construcción), en su redacción posterior,
- a la presencia de un inspector autorizado con comunicación telegráfica directa con la persona que dirige el transporte ferroviario para solicitar la parada inmediata del transporte ferroviario en caso de peligro inminente;
-4. adoptar su propia medida, dirigida a garantizar la ejecución de la siguiente recomendación de seguridad, dirigida a Správa železniční dopravní cesty, organización estatal, así como a otros gestores de líneas en la República Checa.
-De conformidad con lo dispuesto en el apartado 5 del artículo 53b de la Ley nº 266/1994 Coll., sobre las líneas, en su redacción posterior, recomendamos al gestor de la línea, de categoría nacional y regional, Správa železniční dopravní cesty, organización estatal:
-1. al establecer una comunicación telegráfica directa desde el lugar de la obra con la persona que dirige el transporte ferroviario en el tramo concreto de la línea, según el punto 3 de la recomendación de seguridad anterior, garantizar que la persona que dirige el transporte ferroviario tenga el dispositivo de comunicación telegráfica permanentemente a su alcance y que, en caso de peligro inminente por demora, pueda adoptar inmediatamente las medidas adecuadas para garantizar la explotación segura del transporte ferroviario.
+De conformidad con lo dispuesto en el anexo n.º 7 de la disposición n.º 376/2006 Sb., sobre el sistema de seguridad de la explotación de la vía y del transporte ferroviario y los procedimientos en caso de ocurrencia de sucesos excepcionales en las vías, la Inspección Ferroviaria recomienda a la Oficina Ferroviaria, como autoridad nacional de seguridad en el ámbito de las vías y del transporte ferroviario:
+en el procedimiento de construcción para obras de vía de ámbito nacional, regional y de ramales privados, obras en dichas vías y en su franja de protección, donde la Oficina Ferroviaria, en el sentido del § 7 apartado 1 de la ley n.º 266/1994 Sb., de las vías, en su redacción vigente, y del § 15 apartado 1 letra b) de la ley n.º 183/2006 Sb., sobre la planificación territorial y el ordenamiento de la construcción (ley de construcción), en su redacción vigente, ejerce la competencia de la autoridad de construcción, o en el sentido del § 7 apartado 3 de la ley n.º 266/1994 Sb., de las vías, en su redacción vigente, y de los §§ 110, 111 y 112 de la ley n.º 183/2006 Sb., sobre la planificación territorial y el ordenamiento de la construcción (ley de construcción), en su redacción vigente, ejerce la competencia del órgano afectado:
+1. garantizar que, durante el procedimiento de construcción, se realice el análisis de las influencias de las actividades constructivas de la obra sobre la vía en explotación y el transporte ferroviario, y de las influencias de la vía en explotación y el transporte ferroviario sobre las actividades constructivas de la obra;
+2. condicionar la emisión de la conformidad con la obra a la determinación de condiciones que eliminen los riesgos derivados del análisis mencionado anteriormente;
+3. condicionar la realización de actividades constructivas con un mayor grado de riesgo, en el sentido del § 149 de la ley n.º 183/2006 Sb., sobre la planificación territorial y el ordenamiento de la construcción (ley de construcción), en su redacción vigente,
+ a la presencia de un inspector autorizado con un enlace de telecomunicaciones directo con la persona que dirige el transporte ferroviario, para solicitar la parada inmediata del transporte ferroviario ante un peligro inminente;
+4. la adopción de una medida propia encaminada a garantizar la realización de la recomendación de seguridad indicada más abajo, dirigida a la Administración de la Infraestructura Ferroviaria, organización estatal, así como también a otros explotadores de vías en la República Checa.
+De conformidad con lo dispuesto en el § 53b apartado 5 de la ley n.º 266/1994 Sb., de las vías, en su redacción vigente, recomendamos al explotador de la vía, categoría nacional y regional, la Administración de la Infraestructura Ferroviaria, organización estatal:
+1. al establecer un enlace de telecomunicaciones directo desde el lugar de la obra con la persona que dirige el transporte ferroviario en el tramo concreto de la vía, de acuerdo con el punto 3 de la recomendación de seguridad mencionado anteriormente, garantizar que la persona que dirige el transporte ferroviario tenga el equipo de telecomunicaciones permanentemente a su alcance y, ante un peligro inminente de demora, pueda adoptar de inmediato las medidas correspondientes para garantizar la explotación segura del transporte ferroviario.
 
 ## Página 10
+
 
 ## 2 DATOS RELATIVOS AL INCIDENTE
 ### 2.1 Incidente
@@ -263,89 +267,77 @@ de la línea de catenaria.
 
 ## Página 11
 
-La persona que conducía el vehículo ferroviario (en adelante, maquinista) reaccionó ante la situación creada aplicando el freno de emergencia. Sin embargo, ya no pudo evitar la colisión del tren con el obstáculo. La colisión del tren EC 108 con la estructura portante caída de un puente viario tuvo lugar en la vía de estación n.º 101, en el pk 243,576. La dinámica del accidente provocó que la estructura portante caída del puente viario se desplazara en la dirección de circulación del tren 33,4 m. Se descarrilaron y sufrieron graves daños ocho vehículos ferroviarios: el HDV y los cuatro primeros TDV destinados al transporte de viajeros del tren EC 108, y los tres últimos TDV destinados al transporte de mercancías del tren 1. nsl. Pn 60230, que se encontraba en la vía de estación n.º 103. Asimismo, resultaron dañados dos TDV del tren 1. nsl. Pn 60230, situados como cuarto y quinto TDV desde el final del tren. Los seis últimos TDV del tren EC 108 permanecieron detenidos sin descarrilar ni separarse, en la vía de estación n.º 101, sin daños aparentes.
-
-El maquinista del tren Pn 60090, detenido en la estación de Studénka, sector de la estación de mercancías, en la vía de estación n.º 107, fue testigo de la caída de la estructura portante del puente viario y de la subsiguiente colisión del tren EC 108 con el obstáculo creado en la vía de circulación. El tren estaba preparado para la salida con destino a la estación de Štramberk. El maquinista del tren Pn 60090 informó inmediatamente al despachador de la estación de Studénka de la caída de la estructura portante del puente viario mediante la radio de a bordo. No obstante, debido a la rápida secuencia de los acontecimientos, no se pudo evitar la creación de la situación de emergencia (MU). En ese momento, el tren EC 108 ya estaba frenando y se encontraba en las inmediaciones de la estructura portante caída del puente viario. Posteriormente, el maquinista del tren Pn 60090 comunicó al despachador de la estación de Studénka la creación de la situación de emergencia y le instó a solicitar de inmediato la intervención de las unidades del Sistema Integrado de Salvamento (en adelante, SIS). El despachador procedió a ello inmediatamente tras recibir la información inicial.
-
-De la inspección del lugar de la situación de emergencia se determinó lo siguiente:
-La estructura portante del puente viario, n.º de registro 464-014, en el pk 243,576, con un peso aproximado de 500 t, se desplazó en la dirección de circulación del tren 33,4 m como consecuencia de la colisión con el tren EC 108. La vía de estación n.º 101 estaba construida con rieles de perfil UIC 60 sobre traviesas de hormigón B91S con fijación elástica de tipo Vossloh. El balasto no estaba contaminado. La red de vías resultó dañada por la situación de emergencia en las vías de estación n.º 102, 101 y 103. Se detectaron defectos en la alineación y la diferencia de altura entre los carriles, provocados por la situación de emergencia, en las vías de estación n.º 104, 102, 101, 103 y 105b. En la vía de estación n.º 101, inmediatamente después del cuarto eje del cuarto TDV del tren EC 108, en el pk 243,5635, se detectó, en la dirección de circulación del tren EC 108, una rotura de la cabeza del carril izquierdo de una longitud de 145 cm. En la vía de estación n.º 103, en el carril izquierdo en la dirección de circulación del tren EC 108, a 3,5 m del final de la rotura del carril en la vía de estación n.º 101, es decir, en el pk 243,5685, se detectó en la cabeza del riel una huella de desgaste de la viga de la estructura del puente. Como consecuencia de la caída de la estructura del puente, resultó dañada la línea de catenaria, incluidas las pantógrafos de las vías de estación n.º 104, 102, 101, 103 y 105b. El final del tren EC 108, tras producirse la situación de emergencia, se encontraba en el pk 243,7134, con la señalización de «Final del tren».
-
-De la inspección de los vehículos del tren EC 108 se determinó lo siguiente:
-El frontal del HDV 151.018-9, en la dirección de circulación del tren EC 108, se encontraba en el pk 243,523, es decir, a 53 m del lugar de la situación de emergencia, hundido con su bogie delantero hasta el nivel del marco deformado en el balasto entre las vías n.º 101 y 102. El bogie trasero del HDV se encontraba sobre las vigas de la estructura del puente. Los bogies no se habían separado del marco del HDV. La parte delantera del marco del HDV estaba deformada hasta el nivel del tabique divisorio que separaba la cabina del maquinista I de la sala de máquinas del HDV. La entrada a la sala de máquinas del HDV desde la cabina del maquinista I estaba parcialmente obstruida por el conjunto del ventilador de refrigeración de los motores de tracción de la primera unidad motriz, arrancado de su posición. Como consecuencia de la situación de emergencia, el lateral izquierdo de la cabina del maquinista I había sido arrancado. El lateral derecho del TDV 50 54 20-38 024-6 Bee, situado como tercer TDV detrás del HDV, apoyaba contra el lateral izquierdo del HDV. Asimismo, se había desgarrado una parte del lateral derecho en el espacio situado sobre el marco del HDV, desde el nivel del tabique divisorio que separaba la cabina del maquinista I de la sala de máquinas hasta el nivel del panel de contactores, conmutadores y protecciones del HDV. En el techo del HDV resultaron dañados los patines de ambos pantógrafos, pero no se arrancaron. Los principales depósitos de aire comprimido del HDV se encontraban a la izquierda de la tercera ventana del cuarto TDV 50 54 20-38 032-9 Bee y debajo de los bogies arrancados del tercer TDV, que se encontraban a la izquierda del tercer y cuarto TDV, cuñas contra la parte delantera de la estructura del puente caída.
+Ante la situación surgida, la persona que conducía el vehículo ferroviario (en adelante, el maquinista) reaccionó aplicando frenado de acción rápida. Sin embargo, ya no pudo evitar la colisión del tren con el obstáculo. La colisión del tren EC 108 con la estructura portante derrumbada del puente de carretera se produjo en la vía de estación n.º 101 en el pk 243,576. Debido a la dinámica del suceso del accidente, la estructura portante derrumbada del puente de carretera fue desplazada en el sentido de la marcha del tren 33,4 m. Se descarrilaron y sufrieron daños graves ocho vehículos ferroviarios: la locomotora y los cuatro primeros vagones destinados al transporte de pasajeros del tren EC 108 y los tres últimos vagones destinados al transporte de mercancías del tren 1. nsl. Pn 60230, que se encontraba en la vía de estación n.º 103. Además, se dañaron dos vagones del tren 1. nsl. Pn 60230, enganchados como cuarto y quinto vagón desde el final del tren. Los seis últimos vagones del tren EC 108 permanecieron detenidos en la vía de estación n.º 101, sin descarrilar y sin desenganchar, sin daños aparentes.
+Testigo del derrumbe de la estructura portante del puente de carretera y de la posterior colisión del tren EC 108 con el obstáculo surgido en la vía de circulación fue el maquinista del tren Pn 60090, que se encontraba en la estación de Studénka, ámbito de la estación de mercancías, en la vía de estación n.º 107. El tren estaba preparado para salir hacia la estación de Štramberk. Sobre el derrumbe de la estructura portante del puente de carretera, el maquinista del tren Pn 60090 informó inmediatamente al jefe de estación de la estación de Studénka a través de la estación de radio del vehículo. Sin embargo, debido a la rápida sucesión de acontecimientos, no fue posible evitar la aparición de la situación de emergencia (MU). El tren EC 108 en ese momento ya estaba frenando y se encontraba en las inmediaciones de la estructura portante derrumbada del puente de carretera. Posteriormente, el maquinista del tren Pn 60090 comunicó al jefe de estación de la estación de Studénka la aparición de la MU y le instó a convocar de inmediato a las unidades del sistema integrado de emergencias (en adelante, IZS). El jefe de estación lo hizo inmediatamente tras obtener la información inicial.
+Del examen del lugar de la MU se constató lo siguiente:
+La estructura portante del puente de carretera n.º de expediente 464-014 en el pk 243,576, con un peso de aproximadamente 500 t, fue desplazada en el sentido de la marcha del tren 33,4 m como consecuencia de la colisión con el tren EC 108. La vía de estación n.º 101 estaba construida con raíles de perfil UIC 60 sobre traviesas de hormigón B91S con fijación elástica tipo Vossloh. El balasto no estaba contaminado. La superestructura de vía resultó dañada como consecuencia de la MU en las vías de estación n.º 102, 101 y 103. Se detectaron defectos en la posición en planta y en la posición en alzado mutua de las bandas de raíl, surgidos como consecuencia de la aparición de la MU, en las vías de estación n.º 104, 102, 101, 103 y 105b. En la vía de estación n.º 101, inmediatamente detrás del 4.º eje del 4.º vagón del tren EC 108, en el pk 243,5635, se detectó, en el sentido de la marcha del tren EC 108, una rotura de la cabeza de la banda de raíl izquierda de 145 cm de longitud. En la vía de estación n.º 103, en la banda de raíl izquierda en el sentido de la marcha del tren EC 108, a 3,5 m del extremo de la rotura del raíl en la vía de estación n.º 101, es decir, en el pk 243,5685, se detectó en la cabeza del raíl una huella de roce con la viga de la estructura del puente. Debido al derrumbe de la estructura del puente, se dañó la línea de alimentación de tracción, incluidos los soportes de tracción de las vías de estación n.º 104, 102, 101, 103 [ilegible: řádně označen] y 105b. El final de la composición del tren EC 108 se encontraba, tras la aparición de la MU, en el pk 243,7134 [ilegible: návěstí „Konec vlaku“].
+Del examen de los vehículos del tren EC
+ 108 se constató lo siguiente:
+El frontal de la locomotora 151.018-9 en el sentido de la marcha del tren EC 108 se encontraba en el pk 243,523, es decir, a 53 m del lugar de aparición de la MU, hundido con el bogie delantero hasta el nivel del bastidor deformado en el balasto entre las vías n.º 101 y 102. El bogie trasero de la locomotora se encontraba sobre las vigas de la estructura del puente. Los bogies no se habían separado del bastidor de la locomotora. La parte delantera del bastidor de la locomotora estaba deformada hasta el nivel del tabique que separa la cabina de conducción I de la sala de máquinas de la locomotora. El acceso a la sala de máquinas de la locomotora desde la cabina de conducción I estaba parcialmente obstruido por el conjunto de ventilación de los motores de tracción del primer grupo motriz, desprendido. El flanco izquierdo de la cabina de conducción I se desprendió como consecuencia de la MU. Contra el flanco izquierdo de la locomotora se apoyaba con su flanco derecho el vagón 50 54 20-38 024-6 Bee enganchado como 3.er vagón tras la locomotora. Además, se desgarró una parte del flanco derecho en la zona situada sobre el bastidor de la locomotora, desde el nivel del tabique que separa la cabina de conducción I de la sala de máquinas hasta el nivel del panel de contactores, conmutadores y protecciones de la locomotora. En el techo de la locomotora se dañaron los patines de ambos pantógrafos; los pantógrafos no se desprendieron. Los depósitos de aire principales de la locomotora se encontraban a la izquierda de la 3.ª ventana del 4.º vagón 50 54 20-38 032-9 Bee y bajo los bogies desprendidos del 3.er vagón, que se encontraban a la izquierda del 3.er y 4.º vagón, encajados contra la parte delantera de la estructura del puente caída.
 
 ## Página 12
 
-En la cabina del maquinista I HDV 151.018-9, es decir, la cabina delantera del maquinista en el sentido de circulación del tren EC 108, se constató:
-el mando de la parte móvil del dispositivo de protección de trenes LS 90 en la posición «Servicio»;
+En el puesto de conducción de la HDV 151.018-9, es decir, el puesto delantero del conductor en el sentido de marcha del tren EC 108, se constató:
+el mando de la parte móvil del protector de tren LS 90 en posición «Provoz»;
 ●
-el regulador del freno directo de aire comprimido DAKO-BP en posición desbloqueada;
+el freno del freno de presión de acción directa DAKO-BP en posición desfrenada;
 ●
-el controlador de mando del regulador del freno automático continuo de aire comprimido DAKO-OBE 1, como consecuencia de la MU,
+el mando controlador del freno del freno automático de presión continuo DAKO-OBE 1 como
 ●
-había sido arrancado junto con la tubería de alimentación, por lo que no se encontraba en la cabina;
-la palanca de dirección bA3-2 en la posición «Sh»;
+consecuencia del MU arrancado, junto con la tubería de alimentación, no se encontraba en el puesto;
+la palanca de dirección bA3-2 en posición «Sh»;
 ●
-la palanca de marcha aA3-2 en posición bloqueada «J»;
+la palanca de marcha aA3-2 en posición enclavada «J»;
 ●
-el conmutador de control A1-2 en la posición «1»;
+el interruptor de control A1-2 en posición «1»;
 ●
-el conmutador de mando del dispositivo de puesta a tierra, de los separadores de los colectores y del interruptor principal A32-2 en la posición «0»;
+el interruptor de mando del puesta a tierra, desconectores de colectores y interruptor principal A32-2 en posición «0»;
 ●
-el conmutador de mando de los colectores A34-2 en la posición «0»;
+el interruptor de mando de colectores A34-2 en posición «0»;
 ●
-el conmutador de calefacción del tren A28-2 en la posición «Enc.»;
+el interruptor de calefacción de tren A28-2 en posición «Zap.»;
 ●
-el conmutador de mando de los ventiladores de refrigeración de los motores de tracción A24-2 en la posición «0»;
+el interruptor de mando de ventiladores de refrigeración de motores de tracción A24-2 en posición «0»;
 ●
-los conmutadores de mando de los compresores A20-2 y A21-2 en la posición «0»;
+los interruptores de mando de compresores A20-2 y A21-2 en posición «0»;
 ●
-el conmutador de control del faro delantero A20-3 en la posición «N2»;
+el conmutador de faro largo A20-3 en posición «N2»;
 ●
-los conmutadores de las luces de posición delanteras derecha e izquierda A22-3 y A23-3 en la posición «B»;
+los conmutadores de la luz de posición delantera derecha e izquierda A22-3 y A23-3 en posición «B»;
 ●
-el conmutador de selección de velocidad A45-2 en la posición «0»;
+el conmutador de preselección de velocidad A45-2 en posición «0»;
 ●
-el indicador de posición del interruptor principal H3-2, como consecuencia de la MU, no se encontraba en la cabina;
+el indicador de posición del interruptor principal H3-2 como consecuencia del MU no se encontraba en el puesto;
 ●
-el indicador de posición del contactor de calefacción del tren H1-2, como consecuencia de la MU,
+el indicador de posición del contactor de calefacción de tren H1-2 como consecuencia del MU no se
 ●
-no se encontraba en la cabina;
-los interruptores de la señalización acústica de averías en los paneles de señalización H11-2 y H13-2, excepto el
+encontraba en el puesto;
+los interruptores de señalización acústica de avería en los paneles de señal H11-2 y H13-2, excepto el
 ●
-interruptor de señalización de avería de los ventiladores a3-2, en la posición «encendido»;
-el manómetro doble de la presión en el cilindro de freno: el indicador rojo marcaba una presión de 0 bar, el indicador
+interruptor de señalización de avería de ventiladores a3-2, en posición «encendido»;
+el manómetro doble de presión en el cilindro de freno: el indicador rojo indicaba una presión de 0 bar, el
 ●
-negro marcaba 6,5 bar;
-el manómetro doble de la presión en la tubería de alimentación marcaba una presión de 1,5 bar y en la tubería continua
+indicador negro 6,5 bar;
+el manómetro doble de presión de la tubería de alimentación indicaba 1,5 bar y el de la tubería
 ●
-2,4 bar;
-la tapa del freno de emergencia, junto con la tubería de alimentación del freno automático continuo de aire comprimido,
+continua 2,4 bar;
+la tapa del freno de emergencia, incluida la tubería de alimentación del freno automático de presión
 ●
-como consecuencia de la MU, no se encontraba en la cabina;
-los elementos de mando situados en la base del panel de control estaban deformados como consecuencia de la MU;
+continuo, como consecuencia del MU no se encontraba en el puesto;
+los elementos de mando situados en la base del pupitre estaban deformados como consecuencia del MU;
 ●
-en la caja de mando de la radio de a bordo VS47 estaba configurado el número de tren 108, la banda 65,
+en la caja de mando de la radio de a bordo VS47 se había establecido el número de tren 108, cinta 65,
 ●
 simplex 03;
-el suelo de la cabina del maquinista había sido arrancado como consecuencia de la MU.
+el suelo del puesto de conducción estaba arrancado como consecuencia del MU.
 ●
-1. TDV detrás del HDV: 51 54 20-70 004-6 Bpee:
-El frente deformado del TDV se encontraba en el pk 243,517, es decir, a 59 m detrás del lugar de origen de la MU, a la derecha del
-HDV 151.018-9. A una distancia de 2 m detrás del larguero principal delantero del TDV, la carrocería del TDV estaba torsionada
-hacia la derecha en 90°, de modo que el lateral derecho yacía sobre la vía nº 104. La parte trasera restante del TDV apoyaba el chasis
-contra las vigas de la estructura del puente derrumbada sobre la vía nº 102. Ambos bogies habían sido arrancados y se encontraban
-a la derecha del 4. TDV, cuñas contra la parte delantera de la estructura del puente caída. Desde el nivel de la 8. ventana izquierda y la 10.
-ventana derecha en el sentido de circulación del tren EC 108, los laterales, incluida la parte trasera, habían sido arrancados. El dispositivo de
-desconexión del freno automático continuo de aire comprimido se encontraba en la posición «desconectado», el selector del modo de frenado P-R en la posición «R». El freno estaba desconectado como consecuencia del incidente.
-2. TDV detrás del HDV: 50 54 20-38 009-7 Bee:
-El TDV estaba apoyado sobre su chasis en el lecho de balasto en el espacio entre la vía nº 101 y la 102, sin ambos bogies, que habían
-sido separados violentamente del chasis del TDV. Ambos bogies separados se encontraban en estado deformado, hundidos en el lecho de balasto bajo el chasis del TDV 50 54 20-38 024-6 Bee, compuesto como 3. TDV
-detrás del HDV. El bogie delantero se encontraba en la posición del larguero principal del chasis y el bogie trasero bajo la parte trasera del TDV mencionado. El frente deformado del TDV 50 54 20-38 009-7 Bee se encontraba
-en el pk 243,492, es decir, a 84 m detrás del lugar de origen de la MU, a la izquierda, a 31 m delante del HDV 151.018-9. La parte delantera del TDV
-estaba deformada hasta el nivel de la 2. ventana en el sentido de circulación del tren EC 108. Los reguladores del freno de aire comprimido habían sido arrancados. El lateral izquierdo estaba dañado como consecuencia de la colisión con los TDV de mercancías 84 54 6836 023-3
-Faccpp y 80 54 2800 313-3 Faccpp del tren 1. nsl. Pn 60230, que se encontraba detenido en la vía adyacente nº 103.
+1. TDV tras la HDV: 51 54 20-70 004-6 Bpee:
+El frontal deformado de la TDV se encontraba en el km 243,517, es decir, a 59 m del lugar de origen del MU, a la derecha de la HDV 151.018-9. A una distancia de 2 m detrás del travesaño principal delantero de la TDV, la caja de la TDV estaba retorcida 90° a la derecha, de modo que el lateral derecho descansaba sobre la vía n.º 104. La parte trasera restante de la TDV se apoyaba con el bastidor sobre las vigas de la estructura de puente derrumbada sobre la vía n.º 102. Ambos bogies estaban arrancados y se encontraban a la derecha de la 4.ª TDV, encastrados contra la parte delantera de la estructura de puente caída. Desde el nivel de la 8.ª ventana izquierda y la 10.ª derecha en el sentido de marcha del tren EC 108, los laterales, incluido el frontal trasero, estaban arrancados. El mecanismo de desconexión del freno automático de presión continuo se encontraba en posición «vyp.», el conmutador de régimen de frenado P-R en posición «R». El freno estaba desconectado como consecuencia del suceso accidentológico.
+2. TDV tras la HDV: 50 54 20-38 009-7 Bee:
+La TDV estaba apoyada con el bastidor sobre el lecho de balasto en el espacio entre las vías n.º 101 y 102, sin ambos bogies, que habían sido separados violentamente del bastidor de la TDV. Ambos bogies separados se encontraban en estado deformado, hundidos en el lecho de balasto bajo la TDV 50 54 20-38 024-6 Bee enganchada como 3.ª TDV tras la HDV. El bogie delantero se encontraba en el lugar del travesaño principal del bastidor y el bogie trasero bajo el frontal trasero de la citada TDV. El frontal deformado de la TDV 50 54 20-38 009-7 Bee se encontraba en el km 243,492, es decir, a 84 m del lugar de origen del MU, a la izquierda, a 31 m delante de la HDV 151.018-9. La parte delantera de la TDV estaba deformada hasta el nivel de la 2.ª ventana en el sentido de marcha del tren EC 108. Los conmutadores del freno de presión estaban arrancados. El lateral izquierdo estaba dañado como consecuencia de la colisión con las TDV de carga 84 54 6836 023-3 Faccpp y 80 54 2800 313-3 Faccpp del tren 1. nsl. Pn 60230 que se encontraba en la vía contigua n.º 103.
 
 ## Página 13
+
 
 3. VTC tras el LCV: 50 54 20-38 024-6 Bee:
 La parte delantera del VTC se encontraba en el pk 243,514, cuña entre el VTC clasificado como 2.º VTC tras el LCV, sin ambos bogies separados violentamente. Ambos bogies desgajados se encontraban a la izquierda del 3.º y 4.º VTC, cuñados contra la parte frontal de la estructura del puente derrumbada en el pk 243,548. La destrucción de la parte delantera del VTC alcanzaba el nivel del primer compartimento para viajeros. El VTC estaba inclinado hacia la derecha con un ángulo de aprox. 65° y apoyado con su lateral derecho contra el lado izquierdo del LCV 151.018-9. La parte trasera del VTC descansaba sobre la estructura del puente caída. Los conmutadores del freno se habían desgajado. El borde entre el lateral izquierdo y el fondo del VTC estaba cuñado en el VTC de mercancías 84 54 6836 009-2 Faccpp, que descarriló por la segunda rueda del primer bogie en el sentido de circulación del tren EC 108, y del VTC de mercancías 80 54 2800 435-4 Faccp del tren 1. nsl. Pn 60230, detenido en la vía de estación n.º 103, que también descarriló por el primer bogie procedente del lado izquierdo en el sentido de circulación del tren EC 108.
@@ -377,6 +369,7 @@ En el momento de la producción de la MU, el tren estaba detenido en la vía de 
 
 ## Página 14
 
+
 13. TDV trasera del HDV: 80 54 2800 313-3 Faccp:
 La cabeza del TDV se encontraba en el pk 243,491. El TDV no descarriló. En el TDV se detectaron daños en el lado derecho de la caja del TDV.
 
@@ -404,29 +397,20 @@ El espacio del lugar de las operaciones de los SIE se dividió en el lugar de de
 
 ## Página 15
 
-místo para el establecimiento de la zona de apoyo de los servicios de intervención de emergencia (IZS), lugar de aterrizaje de los helicópteros del Servicio de Salvamento Aéreo (en adelante, LZS), espacio para la prestación de información a los medios de comunicación y a los familiares de las personas afectadas, y espacio para las reuniones del Consejo de Seguridad de la Región, cuya convocatoria extraordinaria en el lugar de la emergencia (MU) decidió el gobernador de la Región de Moravia-Silesia (MSK) a las 12:05 h. El Consejo de Seguridad de la Región celebró sesiones sucesivas a las 13:00 h, 16:15 h y 18:35 h.
-
-En el lugar de intervención de las unidades de los IZS se realizaron prioritariamente las labores de rescate para el desalojo de las personas heridas de los distintos vehículos ferroviarios (TDV) y su transporte al punto de concentración de heridos. Simultáneamente, se llevó a cabo un reconocimiento ininterrumpido de la estructura colapsada del puente viario y del tren EC 108 con el fin de localizar a las personas heridas y fallecidas. Con este fin, a las 12:53 h se solicitó la presencia en el lugar de intervención de un equipo canino con perros certificados para la búsqueda de personas entre los escombros.
-
-Las personas fallecidas fueron desalojadas de los escombros del tren EC 108 de forma sucesiva entre las 13:40 h y las 18:34 h. A las 18:45 h, el comandante de la intervención, de acuerdo con las conclusiones de la sesión del Consejo de Seguridad de la Región, decidió poner fin a las labores de rescate y cedió el lugar de intervención de los IZS al comandante del Cuerpo de Bomberos de la Administración de la Red Ferroviaria, organización estatal (en adelante, SŽDC, s. o.).
-
-Durante la intervención de los IZS, los miembros del equipo de intervención posttraumática prestaron ayuda a los pasajeros heridos del tren EC 108 y, posteriormente, prestaron ayuda a los familiares de las personas afectadas. Se habilitaron dos líneas telefónicas en el Centro de Televisión (CTV) para la prestación de información.
-
-2.1.3 Decisión de iniciar la investigación de las causas y circunstancias de la emergencia, composición del equipo de personas cualificadas y método de conducción de la investigación de las causas y circunstancias de la emergencia
-
-La emergencia (MU) fue comunicada a la Inspección Ferroviaria (en adelante, DI) en la Oficina Central de Notificaciones (en adelante, COP) a las 10:49 h, es decir, 19 minutos después de la ocurrencia de la emergencia, por un inspector jefe de ČD, a. s., del Inspectorado Regional de Seguridad del Transporte Ferroviario de Ostrava, en representación de todas las partes participantes en la emergencia. El empleado de la COP, basándose en los hechos comunicados, decidió el desplazamiento y el inicio de la investigación de las causas y circunstancias de la emergencia. La DI inició sus actividades en el lugar de la emergencia a las 11:30 h, con la composición de dos inspectores jefes y el director del Inspectorado Territorial de Ostrava. Posteriormente, se presentó en el lugar de la emergencia el inspector general de la DI.
-
-El Inspectorado Territorial de Ostrava fue encargado de la investigación subsiguiente de las causas y circunstancias de la emergencia, y se constituyó una comisión técnica por decisión del inspector general de la DI para las consultas. La investigación de las causas y circunstancias de la emergencia fue realizada por la DI de conformidad con el artículo 53, letra b), de la ley n.º 266/1994 Coll., sobre ferrocarriles, en su redacción posterior (en adelante, ley n.º 266/1994 Coll.), y con el artículo 11 del decreto n.º 376/2006 Coll., sobre el sistema de seguridad de la explotación de la red ferroviaria y del transporte ferroviario y los procedimientos en caso de emergencia en las redes ferroviarias (en adelante, decreto n.º 376/2006 Coll.).
-
-La DI investigó las causas y circunstancias de la colisión del tren EC 108 con un obstáculo en la vía de circulación de la red ferroviaria. Al hacerlo, no solo se centró en las circunstancias del propio accidente, sino también en las condiciones para garantizar la explotación segura de la red ferroviaria y del transporte ferroviario durante la realización de actividades de construcción, incluidas las operaciones que precedieron a la emisión de la resolución sobre la autorización de la obra «Reconstrucción del puente n.º de inventario 464-014 sobre la vía de ČD en Studénka».
-
-La investigación de las causas del colapso de la estructura del puente viario, n.º de inventario 464-014, excede del ámbito de aplicación de la ley n.º 266/1994 Coll., y por tanto no está dentro de las competencias de la DI.
-
-Durante la investigación de las causas y circunstancias de la emergencia, la DI colaboró con el órgano de inspección independiente de la República Polaca – Państwowa Komisja Badania Wypadków Kolejowych. Para la investigación de las causas y circunstancias de la emergencia, la DI también utilizó los documentos de la PKBWK, de la Administración de la Región de Moravia-Silesia, del Servicio de Policía Criminal e Investigación, Departamento de Delitos Económicos de Ostrava, contenidos en el expediente de investigación, ref.: PSM-819/TČ-2008-91.
-
-Como consultor externo de la DI durante la investigación de las causas y circunstancias de la emergencia actuaron la Universidad Técnica de Ostrava – VŠB – Universidad Técnica de Ostrava, Facultad de Mecánica, Instituto de Transporte, y la empresa ŠKODA VÝZKUM, s. r. o.
+lugar para el establecimiento de la zona posterior de las unidades de servicios de emergencia (IZS), lugar de aterrizaje de los helicópteros del servicio de rescate aéreo (en adelante LZS), espacio para la prestación de información a los medios de comunicación y a los familiares de las personas afectadas y espacio para las reuniones del Consejo de Seguridad de la región, cuya convocatoria extraordinaria en el lugar del accidente (MU) decidió el presidente del MSK a las 12:05 h. El Consejo de Seguridad de la región se reunió sucesivamente a las 13:00 h, 16:15 h y 18:35 h.
+En el lugar de la intervención de las unidades de IZS, prioritariamente se llevaron a cabo las labores de rescate para la extracción de las personas heridas de los distintos TDV y su transporte al punto de reunión de heridos. Simultáneamente se realizó un reconocimiento ininterrumpido de la estructura derrumbada del puente de carretera y del convoy del tren EC 108 con el fin de localizar a las personas heridas y fallecidas. Para este fin, a las 12:53 h fue enviada al lugar de la intervención una canina con perros con certificación para la búsqueda de personas en los escombros.
+Las personas fallecidas fueron extraídas progresivamente de los restos del tren EC 108 en el intervalo comprendido entre las 13:40 h y las 18:34 h. A las 18:45, el jefe de la intervención, de acuerdo con las conclusiones de la reunión del Consejo de Seguridad de la región, decidió poner fin a las labores de rescate y entregó el lugar de la intervención de IZS al jefe de HZS de la Administración de la Vía de Transporte Ferroviario, organización estatal (en adelante SŽDC, s. o.).
+Durante la intervención de IZS, los miembros del equipo de intervención postraumática prestaron asistencia a los pasajeros heridos del tren EC 108 y, posteriormente, prestaron asistencia a los familiares de las personas afectadas. En la CTV se establecieron dos líneas telefónicas para la prestación de información.
+2.1.3 Decisión de iniciar la investigación de las causas y circunstancias de la ocurrencia, composición del equipo de personas cualificadas y método de dirección de la investigación de las causas y circunstancias de la ocurrencia
+La ocurrencia del accidente (MU) fue comunicada a la Inspección Ferroviaria (en adelante DI) en el Puesto Central de Notificación (en adelante COP) a las 10:49 h, es decir, 19 min después de la ocurrencia del MU, por el inspector jefe de ČD, a. s., de la Inspección Regional de Seguridad del Transporte Ferroviario de Ostrava, conjuntamente en nombre de todas las partes involucradas en el MU. El empleado del COP, sobre la base de los hechos comunicados, decidió el desplazamiento y el inicio de la investigación de las causas y circunstancias de la ocurrencia del MU. La DI inició su actividad en el lugar del MU a las 11:30 h con la composición de dos inspectores jefes y el director de la Inspección Territorial de Ostrava. Posteriormente, se presentó en el lugar del MU el inspector general de la DI.
+La investigación posterior de las causas y circunstancias de la ocurrencia del MU fue encomendada a la Inspección Territorial de Ostrava; para las consultas fue constituida por el inspector general de la DI una comisión de expertos. La propia investigación de las causas y circunstancias de la ocurrencia del MU fue realizada por la DI de acuerdo con el § 53, letra b), de la Ley n.º 266/1994 Sb., de ferrocarriles, en su redacción vigente (en adelante Ley n.º 266/1994 Sb.), y el § 11 del Decreto n.º 376/2006 Sb., sobre el sistema de seguridad de la explotación de la vía y del transporte ferroviario y los procedimientos en caso de ocurrencia de sucesos excepcionales en las vías férreas (en adelante Decreto n.º 376/2006 Sb.).
+La DI investigó las causas y circunstancias de la colisión del tren EC 108 con un obstáculo en la vía de circulación de la vía férrea. Al mismo tiempo, se centró no solo en las circunstancias del propio suceso del accidente, sino también en las condiciones de garantía de la explotación segura de la vía y del transporte ferroviario durante la realización de las actividades de construcción, incluidas las actuaciones previas a la emisión de la decisión de autorización de la obra "Reconstrucción del puente n.º de expediente 464-014 sobre la línea de ČD en Studénka".
+La investigación de las causas del derrumbe de la estructura del puente de carretera, n.º de expediente 464-014, excede el ámbito de aplicación de la Ley n.º 266/1994 Sb. y, por tanto, no es competencia de la DI.
+En la investigación de las causas y circunstancias de la ocurrencia del MU, la DI cooperó con el órgano de inspección independiente de la República de Polonia – Państwowa Komisja Badania Wypadków Kolejowych. En la investigación de las causas y circunstancias de la ocurrencia del MU, la DI utilizó también documentación de la PČR, de la Administración de la Región de Moravia del Norte, del Servicio de Policía Criminal e Investigación, departamento de criminalidad económica de Ostrava, contenida en el expediente de investigación, n.º de referencia: PSM-819/TČ-2008-91.
+Como consultor externo de la DI en la investigación de las causas y circunstancias de la ocurrencia del MU actuó la Universidad Técnica de Minería – Universidad Técnica de Ostrava, Facultad de Ingeniería Mecánica, Instituto de Transporte, y la sociedad ŠKODA VÝZKUM, s. r. o.
 
 ## Página 16
+
 
 ### 2.2 Circunstancias de la emergencia
 ### 2.2.1 Empleados participantes del gestor de la infraestructura y del transportista, personas en relación contractual y otros participantes y testigos
@@ -484,6 +468,7 @@ En la estación de Bohumín, la locomotora eléctrica (HDV) EP09 - 533 con los d
 
 ## Página 17
 
+
 El tren EC 108 en el tramo Bohumín – Studénka (Praha hl. n.) estaba compuesto por la locomotora HDV 151.018-9 de ČD, a. s., 
 incluida en el inventario DKV Praha, y por las diez siguientes unidades remolcadas TDV, en el siguiente orden:
 1) 51 54 20-70 004-6 Bpee, propietaria ČD, a. s., incluida en el inventario DKV Olomouc;
@@ -527,50 +512,17 @@ El tren 1. nsl. Pn 60230 estaba frenado mediante el II. método de frenado, en e
 del 47. La masa del tren era de 441 t, la masa de frenado 361 t, el porcentaje de frenado real 81. 
 La longitud del tren era de 204 m, con 72 ejes.
 
-
 ## Página 18
 
-### 2.2.3 Descripción de los componentes de la vía de circulación ferroviaria, del sistema de seguridad (es decir, 
-especialmente del estado de las vías, desvíos, edificios de control, señales y dispositivos de seguridad del tren)
-El accidente (MU) ocurrió en la línea ferroviaria, de categoría nacional, Bohumín – Přerov (línea 305B), 
-electrificada con corriente continua de 3000 V, en la estación de Studénka, sector de estación de mercancías, vía 
-estacional n.º 1, pk 243,576.
-La vía por la que circulaba el tren EC 108, desde el nivel de la señal de entrada 1L en el pk 245,623 hasta 
-el pk 245,266, es decir, desde 2047 m hasta 1690 m desde el lugar del accidente (MU), transcurre en una curva a la derecha de radio 
-R=1020 m con peralte p=0 mm, en ascenso +3,21 ‰. Desde el pk 245,266 (a través del paso a nivel 
-en el pk 245,044) hasta el pk 244,917, es decir, desde 1690 m hasta 1341 m desde el lugar del accidente (MU), la vía transcurre 
-en una curva a la derecha de radio R=3205 m, en ascenso +1,46 ‰, con peralte p=0 mm. 
-Desde el pk 244,917 hasta el nivel de la sala de control de tráfico de la estación de Studénka en el pk 244,716, es decir, desde 1341 m hasta 
-1140 m desde el lugar del accidente (MU), la vía transcurre en línea recta, en descenso -0,248 ‰. Desde el pk 244,716 hasta 
-el pk 244,422, es decir, desde 1140 m hasta 846 m desde el lugar del accidente (MU), la vía transcurre continuamente en línea recta, en 
-descenso -0,248 ‰. Desde el pk 244,422 hasta el nivel de la señal de circulación Lc1 en el pk 244,367, es decir, desde 846 m 
-hasta 791 m desde el lugar del accidente (MU), la vía transcurre en una curva a la izquierda de radio R=6495 m, 
-con peralte p=0 mm y en descenso -0,248 ‰. Desde el pk 244,367 hasta el pk 244,338, es decir, desde 791 m hasta 
-762 m desde el lugar del accidente (MU), la vía continúa transcurre en una curva a la izquierda de radio R=6495 m, 
-con peralte p=0 mm y en descenso -0,248 ‰. Desde el pk 244,338 hasta el pk 244,330, es decir, desde 762 m hasta 
-754 m desde el lugar del accidente (MU), la vía transcurre en línea recta, en descenso -0,248 ‰. Desde el pk 244,330 hasta el pk 
-244,097, es decir, desde 754 m hasta 521 m desde el lugar del accidente (MU), la vía transcurre en línea recta, en ascenso 
-+0,790 ‰. Desde el pk 244,097 hasta el pk 244,015, es decir, desde 521 m hasta 439 m desde el lugar del accidente (MU), la vía transcurre 
-en línea recta, en ascenso +2,300 ‰. Desde el pk 244,015 hasta el pk 243,928, es decir, desde 439 m hasta 352 m 
-desde el lugar del accidente (MU), la vía transcurre en una curva a la derecha de radio R=6500 m, con peralte 
-p=70 mm y en ascenso +2,300 ‰. Desde el pk 243,928 hasta el pk 243,727, es decir, desde 352 m hasta 151 m desde el lugar 
-del accidente (MU), la vía transcurre en línea recta, en ascenso +2,300 ‰. Desde el pk 243,727 hasta el pk 243,711, es decir, desde 
-151 m hasta 135 m desde el lugar del accidente (MU), la vía transcurre en línea recta, en descenso -0,183 ‰. Desde el pk 
-243,711 hasta el pk 243,611, es decir, desde 135 m hasta 35 m desde el lugar del accidente (MU), la vía se encuentra en la transición hacia una curva 
-a la izquierda de radio R=1500 m, en descenso -2,38 ‰ y desde el pk 243,611, es decir, a 35 m del lugar del accidente (MU) hasta el lugar 
-del accidente (MU) en el pk 243,576, la vía transcurre en una curva a la izquierda de radio R=1500 m, con peralte 
-p=70 mm y en descenso -0,183 ‰.
-La estación de Studénka se encuentra en el pk 244,716 de la línea de doble vía electrificada Bohumín – Přerov (línea 
-305B), de la cual se desvían dos líneas de vía única Studénka – Veřovice (el punto de desvío es 
-en el pk 0.000 = pk 244,607 de la línea Bohumín – Přerov) y Studénka – Bílovec (el punto de desvío es 
-en el pk 0.000 = pk 244,716 de la línea Bohumín – Přerov).
-La estación de Studénka se divide en tres sectores.
-El sector de la estación de pasajeros está delimitado por las señales de entrada 1L, 2L, BL, la punta del desvío n.º 105, 
-el tope de la vía muerta n.º 15a y, en el lado del sector de la estación de mercancías, por la punta de la hoja del desvío n.º 34 
-y las señales Se28, Se29, Lc104a. El sector está destinado a trenes de pasajeros que paran, para la regulación 
-del tráfico de trenes y para maniobras en el transporte de mercancías y de pasajeros.
+### 2.2.3 Descripción de los componentes de la vía de circulación, del sistema de señalización (es decir, en particular el estado de las vías, agujas, enclavamientos, señales y del dispositivo de seguridad del tren)
+El accidente ferroviario (MU) se produjo en la vía férrea, categoría nacional, Bohumín – Přerov (línea 305B), electrificada con tensión continua de 3000 V, en la est. Studénka, distrito de la estación de mercancías, vía de estación n.º 1, pk 243,576.
+La vía recorrida por el tren EC 108, desde el nivel de la señal de entrada 1L en pk 245,623 hasta pk 245,266, es decir, desde 2047 m hasta 1690 m del lugar del accidente, discurre en una curva a la derecha de radio R=1020 m con sobreelevación p=0 mm, en pendiente ascendente +3,21 ‰. Desde pk 245,266 (a través del paso a nivel ferroviario en pk 245,044) hasta pk 244,917, es decir, desde 1690 m hasta 1341 m del lugar del accidente, la vía discurre en una curva a la derecha de radio R=3205 m, en pendiente ascendente +1,46 ‰, con sobreelevación p=0 mm. Desde pk 244,917 hasta el nivel de la oficina de circulación de la est. Studénka en pk 244,716, es decir, desde 1341 m hasta 1140 m del lugar del accidente, la vía discurre en línea recta, en pendiente descendente -0,248 ‰. Desde pk 244,716 hasta pk 244,422, es decir, desde 1140 m hasta 846 m del lugar del accidente, la vía discurre asimismo en línea recta, en pendiente descendente -0,248 ‰. Desde pk 244,422 hasta el nivel de la señal de paso Lc1 en pk 244,367, es decir, desde 846 m hasta 791 m del lugar del accidente, la vía discurre en una curva a la izquierda de radio R=6495 m, con sobreelevación p=0 mm y en pendiente descendente -0,248 ‰. Desde pk 244,367 hasta pk 244,338, es decir, desde 791 m hasta 762 m del lugar del accidente, la vía discurre asimismo en una curva a la izquierda de radio R=6495 m, con sobreelevación p=0 mm y en pendiente descendente -0,248 ‰. Desde pk 244,338 hasta pk 244,330, es decir, desde 762 m hasta 754 m del lugar del accidente, la vía discurre en línea recta, en pendiente descendente -0,248 ‰. Desde pk 244,330 hasta pk 244,097, es decir, desde 754 m hasta 521 m del lugar del accidente, la vía discurre en línea recta, en pendiente ascendente +0,790 ‰. Desde pk 244,097 hasta pk 244,015, es decir, desde 521 m hasta 439 m del lugar del accidente, la vía discurre en línea recta, en pendiente ascendente +2,300 ‰. Desde pk 244,015 hasta pk 243,928, es decir, desde 439 m hasta 352 m del lugar del accidente, la vía discurre en una curva a la derecha de radio R=6500 m, con sobreelevación p=70 mm y en pendiente ascendente +2,300 ‰. Desde pk 243,928 hasta pk 243,727, es decir, desde 352 m hasta 151 m del lugar del accidente, la vía discurre en línea recta, en pendiente ascendente +2,300 ‰. Desde pk 243,727 hasta pk 243,711, es decir, desde 151 m hasta 135 m del lugar del accidente, la vía discurre en línea recta, en pendiente descendente -0,183 ‰. Desde pk 243,711 hasta pk 243,611, es decir, desde 135 hasta 35 m del lugar del accidente, la vía se encuentra en una transición hacia una curva a la izquierda de radio R=1500 m, en pendiente descendente -2,38 ‰ y desde pk 243,611, es decir, 35 m del lugar del accidente, hasta el lugar del accidente en pk 243,576, la vía discurre en una curva a la izquierda de radio R=1500 m, con sobreelevación p=70 mm y en pendiente descendente -0,183 ‰.
+La est. Studénka se encuentra en pk 244,716 de la línea doble electrificada Bohumín – Přerov (línea 305B), de la que se bifurcan dos líneas de vía única Studénka – Veřovice (el punto de bifurcación está en pk 0.000 = pk 244,607 de la línea Bohumín – Přerov) y Studénka – Bílovec (el punto de bifurcación está en pk 0.000 = pk 244,716 de la línea Bohumín – Přerov).
+La est. Studénka se divide en tres distritos.
+El distrito de la estación de viajeros está delimitado por las señales de entrada 1L, 2L, BL, la punta de la aguja n.º 105, el tope de la vía muerta n.º 15a y, por el lado del distrito de la estación de mercancías, la punta de la lengüeta de la aguja n.º 31 y las señales Se28, Se29, Lc104a. El distrito está destinado a los trenes de viajeros que se detienen, para la regulación de la circulación de trenes y para las maniobras en el tráfico de mercancías y de viajeros.
 
 ## Página 19
+
 
 El perímetro de la estación de mercancías está delimitado, en el lado del perímetro de la estación de viajeros, por la punta de la aguja del desvío n.º 34 y las señales Se28, Se29, Lc104a. El perímetro finaliza en las señales de entrada 1S, 2S, VS procedentes de Suchdol nad Odrou y Sedlnice. El perímetro está destinado a trabajos de maniobra en el tráfico de mercancías y viajeros, así como para la regulación del tráfico de trenes. En el perímetro de la estación de mercancías, las vías de estación n.º 104, 102, 101, 103 y 105b en el pk 243,576 están cubiertas por un puente viario, ref. n.º 464-014.
 
@@ -607,6 +559,7 @@ El despachador de la estación de Studénka, al organizar y explotar el tráfico
 
 ## Página 20
 
+
 *   Red de radio para trenes de maniobra (SMV) destinada a la organización del tráfico ferroviario durante las maniobras de trenes de mercancías en el perímetro de la estación de Studénka, que funciona con las señales “Vf” 157,450 MHz y 158,375 MHz;
 *   Red de radio despachos de trenes (SRV) destinada a la organización del tráfico ferroviario en la línea con regulación simplificada del tráfico ferroviario Studénka – Bílovec, que funciona con la señal “Vf” 150,100 MHz;
 *   Red de radio operativa local (MOS) destinada a la comunicación del despachador con los componentes del titular de la vía que garantizan la operatividad, el control y el mantenimiento de la vía en el perímetro de la estación de Studénka, que funciona con la señal “Vf” 150,200 MHz;
@@ -633,6 +586,7 @@ En el artículo “Artículo II.” del Contrato se indica, entre otras cosas:
 “8. El contratista confirma que ha estudiado y se ha familiarizado en detalle con las condiciones de licitación y con la documentación de proyecto elaborada por la empresa “Ing. Ivo Prokop, projekce stavebních konstrukcí, Zborovská 1, 616 00 Brno” en mayo de 2006 y, con ello, ha verificado que los documentos vinculantes relativos al objeto del contrato no presentan defectos ni deficiencias evidentes, no contienen soluciones, materiales y tecnologías inadecuadas, y que la obra puede realizarse de esta manera ...”
 
 ## Página 21
+
 
 «9. El contratista confirma que se ha informado detalladamente del alcance y la naturaleza de la obra, que conoce todas las condiciones técnicas, de calidad y demás necesarias para la ejecución de la obra y que dispone de las capacidades y conocimientos profesionales necesarios para la ejecución de la obra al precio fijo pactado indicado en el artículo VI apartado 1 del presente contrato».
 
@@ -669,6 +623,7 @@ k) propuesta de solución del tráfico durante la construcción (rutas de transp
 
 ## Página 22
 
+
 En la tabla “Tab 1: Přehled všech uvažovaných výluk na jednotlivých kolejích v hodinách” se indica:
 | druhčinnosti | kolej č 104 . | kolej č 102 . | kolej č 101 . | kolej č 103 . | kolej č . 105b | součet [hod] . |
 | demontážstávajícíhozábradlíaprotidotykovýchzábran | 2 | 2 | 2 | 2 | 2 | 10 |
@@ -700,8 +655,8 @@ del dictamen de la Administración de la Red de Transporte Ferroviario, organism
 ●
 con domicilio en Nerudova 1, Olomouc, de fecha 07. 02. 2006, bajo ref. SSO-U1-434/2006/Kán.
 
-
 ## Página 23
+
 
 La construcción del puente de carretera, núm. ev. 464-014, que no es una construcción ferroviaria ni una construcción en la vía, sino una construcción que afecta parcialmente al recinto de la vía, puede, a tenor del apartado 3 del artículo 7 de la ley núm. 266/1994 Coll., crearse y explotarse únicamente con el consentimiento del órgano administrativo ferroviario y bajo las condiciones por él establecidas.
 El órgano administrativo ferroviario es la Oficina Ferroviaria, con domicilio en Wilsonova 300/8, Praga 2-Vinohrady. Esta, durante el procedimiento de edificación, mediante el documento “Consentimiento para la creación de la construcción”, núm. de registro: 20- 209/06-32401-
@@ -730,6 +685,7 @@ En el lugar del incidente grave intervinieron las siguientes unidades del IZS co
 - Ostrava (RZA Nissan Patrol, CAS32 T815);
 
 ## Página 24
+
 
 - Olomouc (VT-55);
 - Přerov;
@@ -767,44 +723,43 @@ incluidas las personas en relación contractual
 Como consecuencia del accidente (MU), sufrieron daños para la salud con resultado de muerte un total de 7 personas: viajeros del tren EC 108. De este número, había 3 mujeres y 2 hombres de la República Checa y 1 mujer de la República de Polonia. 
 Tras el traslado al Hospital con Policlínica de Nový Jičín, falleció a consecuencia de las heridas 1 persona: un viajero, hombre de la República de Ucrania.
 
-
 ## Página 25
 
-Las personas (viajeros) fallecidas a consecuencia del accidente (MU) en el tren EC 108 viajaban:
-- 4 en el primer vagón de pasajeros (TDV) detrás de la locomotora (HDV);
-- 1 en el segundo vagón de pasajeros (TDV) detrás de la locomotora (HDV);
-- 1 en el tercer vagón de pasajeros (TDV) detrás de la locomotora (HDV);
-- en el caso de 1 persona, que falleció a consecuencia de las heridas en el Hospital con Policlínica de Nový Jičín, 
-  no se determinó en qué vagón de pasajeros (TDV) viajaba.
-Transcurrido el plazo establecido en el apartado 8 del artículo 11 del Decreto n.º 376/2006 Coll., es decir, 30 días después de la producción del accidente (MU), falleció a consecuencia del accidente (MU) en la República de Polonia una octava persona, una mujer.
-Como consecuencia del accidente (MU), sufrieron daños para la salud un total de 88 personas. De este número, sufrieron daños para la salud 4 empleados del transportista y 84 personas: viajeros del tren EC 108.
-De los empleados del transportista, sufrieron daños para la salud:
+Las personas (pasajeros) fallecidas como consecuencia del accidente en el tren EC 108 viajaban:
+- 4 en el primer TDV tras el HDV;
+- 1 en el segundo TDV tras el HDV;
+- 1 en el tercer TDV tras el HDV;
+- de 1 persona, que falleció a causa de las heridas en el Hospital con Policlínea de Nový Jičín, no se pudo determinar en qué TDV viajaba.
+Transcurrido el plazo establecido en el § 11 apartado 8 del decreto n.º 376/2006 Sb., es decir, a los 30 días desde la ocurrencia del accidente, falleció en la República Polaca a causa del accidente la 8.ª persona, una mujer.
+Como consecuencia del accidente resultaron con lesiones un total de 88 personas. De este número, resultaron con lesiones 4 empleados de la empresa transportista y 84 personas – pasajeros del tren EC 108.
+Entre los empleados de la empresa transportista resultaron con lesiones:
 - el maquinista del tren EC 108;
-- el jefe de tren del servicio de transporte de viajeros del tren EC 108, que en el momento de la producción del accidente (MU) se encontraba en el octavo vagón de pasajeros (TDV) detrás de la locomotora (HDV);
-- 2 agentes comerciales del tren EC 108, que en el momento de la producción del accidente (MU) se encontraban en el segundo y tercer vagón de pasajeros (TDV) detrás de la locomotora (HDV).
-Las personas (viajeros) que sufrieron daños para la salud a consecuencia del accidente (MU) en el tren EC 108 viajaban:
-- 34 en el primer vagón de pasajeros (TDV) detrás de la locomotora (HDV);
-- 20 en el segundo vagón de pasajeros (TDV) detrás de la locomotora (HDV);
-- 13 en el tercer vagón de pasajeros (TDV) detrás de la locomotora (HDV);
-- 4 en el cuarto vagón de pasajeros (TDV) detrás de la locomotora (HDV);
-- 2 en el quinto vagón de pasajeros (TDV) detrás de la locomotora (HDV);
-- 1 en el sexto vagón de pasajeros (TDV) detrás de la locomotora (HDV);
-- 2 en el octavo vagón de pasajeros (TDV) detrás de la locomotora (HDV);
-- 1 en el décimo vagón de pasajeros (TDV) detrás de la locomotora (HDV);
-- en el caso de 7 personas, ciudadanas de la República de Polonia, en el momento de emisión del Informe sobre los resultados de la investigación de las causas y circunstancias de la producción del incidente extraordinario (en adelante, Informe Final), no se determinó mediante la investigación en qué vagones de pasajeros (TDV) se encontraban en el momento de la producción del accidente (MU).
-Como consecuencia de la caída de la estructura del puente de la carretera del puente n.º de inventario 464-014, sufrieron daños para la salud 5 personas que trabajaban en la reconstrucción del puente. Este número no se incluye en el número total de personas heridas a consecuencia del accidente (MU).
-### 2.3.2 En las mercancías transportadas, equipajes y otros bienes
-El daño constatado en las mercancías transportadas y en los equipajes de los viajeros del tren EC 108 asciende a 186.500,- Kč. A la fecha de emisión del Informe Final, no se había cuantificado el daño definitivo en las mercancías transportadas y en los equipajes de los viajeros del tren. 
-### 2.3.3 En los vehículos ferroviarios, en las partes de la vía de circulación y en el medio ambiente
-Daño causado en los vehículos ferroviarios del tren EC 108, del transportista ČD, a. s.:
-El daño en la locomotora (HDV) 151.018-9 asciende a 31.680.285,- Kč.
+- el jefe de tren de pasajeros del tren EC 108, que en el momento de la ocurrencia del accidente se encontraba en el 8.º TDV tras el HDV;
+- 2 revisores del tren EC 108, que en el momento de la ocurrencia del accidente se encontraban en el 2.º y 3.º TDV tras el HDV.
+Las personas (pasajeros) que como consecuencia del accidente resultaron con lesiones en el tren EC 108 viajaban:
+- 34 en el 1.º TDV tras el HDV;
+- 20 en el 2.º TDV tras el HDV;
+- 13 en el 3.º TDV tras el HDV;
+- 4 en el 4.º TDV tras el HDV;
+- 2 en el 5.º TDV tras el HDV;
+- 1 en el 6.º TDV tras el HDV;
+- 2 en el 8.º TDV tras el HDV;
+- 1 en el 10.º TDV tras el HDV;
+- de 7 personas, ciudadanos de la República Polaca, no se pudo determinar mediante la investigación, en la fecha de emisión del Informe sobre los resultados de la investigación de las causas y circunstancias de la ocurrencia del accidente (en adelante Informe final), en qué TDV se encontraban en el momento de la ocurrencia del accidente.
+Como consecuencia del derrumbe de la estructura del puente de carretera, n.º de referencia 464-014, resultaron con lesiones 5 personas que trabajaban en la reconstrucción del puente. Este número no está incluido en el número total de personas heridas como consecuencia del accidente.
+### 2.3.2 Sobre los objetos transportados, el equipaje y otros bienes
+El daño constatado en los objetos transportados y el equipaje de los pasajeros del tren EC 108 asciende a 186.500,- CZK. En la fecha de emisión del Informe final, los pasajeros del tren no habían cuantificado el daño final en los objetos transportados y el equipaje.
+### 2.3.3 Sobre el material rodante, los componentes de la vía y el medio ambiente
+Daño ocasionado en el material rodante del tren EC 108, de la empresa transportista ČD, a. s.:
+Daño en el HDV 151.018-9: 31.680.285,- CZK.
 •
-Según el dictamen del transportista, indicado en el acta de la investigación comisionada del estado técnico de la locomotora (HDV), realizada en el taller de mantenimiento de Praga (DKV) el 17.09.2008, es: «La locomotora (HDV) está dañada en su conjunto, está a la espera de su baja. La locomotora será dada de baja».
-El daño en el vagón de pasajeros (TDV) 51 54 20-70 004-6 Bpee asciende a 5.807.328,- Kč.
+Según el dictamen de la empresa transportista, recogido en el acta de la Determinación Comisionada del Estado Técnico del HDV, realizada en DKV Praha el 17. 09. 2008: «HDV dañado en su conjunto, a la espera de ser dado de baja. La locomotora será dada de baja.»
+Daño en el TDV 51 54 20-70 004-6 Bpee: 5.807.328,- CZK.
 •
-Según el dictamen del transportista, indicado en el acta de la inspección comisionada del estado técnico del vagón de pasajeros (TDV), realizada en la estación de Studénka el 11.08.2008: «El vehículo es irreparable y su eliminación se realizará en el lugar».
+Según el dictamen de la empresa transportista, recogido en el Acta de la inspección comisionada del estado técnico del TDV, realizada en la estación de Studénka el 11. 08. 2008: «El vehículo es irreparable y su eliminación se realizará en el lugar.»
 
 ## Página 26
+
 
 El daño en el vehículo ferroviario (TDV) 50 54 20-38 009-7 Bee asciende a 3.143.712,- Kč.
 •
@@ -852,8 +807,8 @@ El daño en el vehículo ferroviario (TDV) 84 54 683 6 017-5 Faccp asciende a 1.
 Según el dictamen del transportista, indicado en el Acta de la inspección comisionada del estado técnico del TDV, realizada en la estación de Studénka el 12.08.2008, el vehículo será dado de baja.
 ### El daño total en los vehículos ferroviarios del transportista TSS, a. s., asciende a 3.875.000,- Kč.
 
-
 ## Página 27
+
 
 El daño total en los vehículos ferroviarios fue cuantificado para los transportistas ČD, a. s., y TSS, a. s., en la cantidad de
 ### 54.928.340,42 Kč.
@@ -894,25 +849,36 @@ El lugar del accidente se encuentra en el término municipal de Butovice, coorde
 
 ## Página 28
 
-## 3 REGISTRO DE LAS EXPLICACIONES PRESTADAS
-### 3.1 Resumen de las explicaciones prestadas (sujeto a la protección de la identidad de las personas)
-### 3.1.1 Empleados del administrador de la infraestructura y del transportista, incluidas las personas en relación contractual
-Del documento «Acta con el empleado», elaborado por el transportista ČD, a. s., con el maquinista del tren EC 108, en Praga el 26. 08. 2008, se desprende, entre otras cosas, lo siguiente:
-antes de la salida del tren EC 108 de la estación de Bohumín, el maquinista recibió de la persona a cargo de la conducción del tren una copia (transcripción) de la notificación fehaciente al maquinista sobre los cambios inmediatos en los parámetros constructivo-técnicos de las construcciones de la vía y de las construcciones en la vía, que tienen una influencia directa en la seguridad y la fluidez del transporte ferroviario. Por ello, el maquinista del tren EC 108 solicitó el original de la notificación fehaciente, que, tras tomar conocimiento de su contenido, confirmaría de manera fehaciente;
-el original de la notificación fehaciente al maquinista sobre los cambios inmediatos en los parámetros constructivo-técnicos de las construcciones de la vía y de las construcciones en la vía, que tienen una influencia directa en la seguridad y la fluidez del transporte ferroviario, fue entregado posteriormente al maquinista del tren EC 108 por el despachador de la estación de Bohumín;
-tras tomar conocimiento del contenido de la notificación fehaciente y confirmar fehacientemente su toma de conocimiento por parte del maquinista del tren EC 108, se autorizó la salida del tren EC 108;
-durante la marcha del tren EC 108, el maquinista respetó los tiempos de marcha regulares del tren según el horario en cuadernillo, sin acortar los tiempos de marcha;
-al atravesar el espacio destinado a la bajada y subida de viajeros en la estación de Studénka, el maquinista del tren EC 108 verificó mediante una mirada al horario en cuadernillo en la cabina del maquinista la magnitud del retraso del tren. Al mirar posteriormente hacia delante del tren, vio un destello de descarga eléctrica bajo la estructura del puente viario y el inicio del derrumbe de la estructura del puente sobre las vías de la vía de la estación del recinto de la estación de mercancías de la estación de Studénka;
-el maquinista reaccionó ante la situación surgida aplicando el frenado de emergencia;
-posteriormente, percibió el asentamiento de la estructura del puente derrumbándose transversalmente a través de todas las vías de la vía de la estación del recinto de la estación de mercancías;
-dado que, a pesar de haber aplicado el frenado de emergencia, no fue posible detener el tren EC 108 antes del obstáculo surgido de repente, el maquinista abandonó instintivamente la cabina y se ocultó en la sala de máquinas de la HDV, donde, apoyado contra el armario de instrumentos M1, esperaba la colisión con la estructura del puente derrumbada;
-como consecuencia del accidente y de la destrucción de la HDV durante el choque, el maquinista quedó atrapado en la sala de máquinas, concretamente por la brida del conjunto de ventiladores de refrigeración de los motores de tracción del I grupo de motores, que se había deformado;
-a pesar de las lesiones y del atrapamiento en la sala de máquinas, el maquinista logró abandonar la HDV, fuertemente dañada por la destrucción, sin ayuda externa.
-De los documentos archivados en el expediente de investigación de la PČR, más allá del contenido del Acta con el empleado anteriormente mencionado, se desprende, entre otras cosas, lo siguiente:
-el tren EC 108 salió con retraso de la estación de Bohumín debido a la llegada tardía desde el estado vecino, y la causa de un mayor aumento del retraso fue un defecto en la notificación fehaciente al maquinista sobre los cambios inmediatos en los parámetros constructivo-técnicos de las construcciones de la vía y de las construcciones en la vía, que tienen una influencia directa en la seguridad y la fluidez del transporte ferroviario, la cual fue reclamada por el maquinista y posteriormente subsanada por el despachador de la estación de Bohumín;
-
+## 3 REGISTRO DE EXPLICACIONES PRESENTADAS
+### 3.1 Resumen de las explicaciones presentadas (sujeto a protección de la identidad de las personas)
+### 3.1.1 Empleados del gestor de la vía y del transportista, incluidas personas en relación contractual
+Del documento "Acta con el empleado", elaborado por el transportista ČD, a. s., con el maquinista del tren EC 108, en Praga el 26. 08. 2008, entre otros se desprende:
+antes de la salida del tren EC 108 de la est. Bohumín, el maquinista recibió del jefe de servicio –
+del tren una copia (transcripción) de la notificación fehaciente al maquinista sobre los cambios inmediatos de los parámetros técnicos de construcción de las obras ferroviarias y de las obras en la vía, que tienen una influencia directa en la seguridad y la fluidez del tráfico ferroviario. El maquinista del tren EC 108 solicitó por ello el original de la notificación fehaciente, que tras conocer su contenido confirmaría de manera fehaciente;
+el original de la notificación fehaciente al maquinista sobre los cambios inmediatos de los parámetros –
+técnicos de construcción de las obras ferroviarias y de las obras en la vía, que tienen una influencia directa en la seguridad y la fluidez del tráfico ferroviario, fue entregado posteriormente al maquinista del tren EC 108 por el jefe de estación de la est. Bohumín;
+tras conocer el contenido de la notificación fehaciente y confirmar fehaciente –
+mente el conocimiento de su contenido por parte del maquinista del tren EC 108, se expidió el tren EC 108;
+durante la marcha del tren EC 108, el maquinista respetó los tiempos de circulación regulares del tren según –
+el horario de libreta, no acortó los tiempos de circulación;
+al pasar por el espacio destinado al desembarque y embarque de pasajeros en la est. Studénka, el –
+maquinista del tren EC 108 verificó con una mirada al horario de libreta en el puesto del maquinista la magnitud del retraso del tren. En la mirada posterior hacia delante del tren vislumbró un destello de descarga eléctrica bajo la estructura del puente carretero y el inicio del desmoronamiento de la estructura del puente sobre las vías de la estación del recinto de la estación de mercancías de la est. Studénka;
+ante la situación surgida, el maquinista reaccionó aplicando el frenado de acción rápida;
+–
+posteriormente observó el asentamiento de la estructura del puente en colapso atravesando todas las vías –
+de la estación del recinto de la estación de mercancías;
+puesto que incluso con el frenado de acción rápida aplicado no era posible detener el tren EC 108 –
+ante el obstáculo surgido repentinamente, el maquinista abandonó instintivamente la cabina y se refugió en la sala de máquinas del HDV, donde apoyado en el armario de instrumentos M1 esperó el choque con la estructura del puente derrumbada;
+como consecuencia del suceso del accidente y la destrucción del HDV en el MU, el maquinista quedó –
+enclavado en la sala de máquinas, concretamente por la brida del conjunto de ventilación de refrigeración de los motores de tracción del grupo motor I en estado de colapso;
+a pesar de las lesiones y del enclavamiento en la sala de máquinas, al maquinista le fue posible –
+abandonar el HDV fuertemente dañado sin ayuda ajena.
+De los documentos incorporados al expediente de investigación de la PČR, más allá del contenido del Acta con el empleado mencionada más arriba, entre otros se desprende:
+el tren EC 108 salió retrasado de la est. Bohumín debido a la llegada retrasada desde –
+el país vecino, y el motivo de un aumento adicional del retraso fue una anomalía en la notificación fehaciente al maquinista sobre los cambios inmediatos de los parámetros técnicos de construcción de las obras ferroviarias y de las obras en la vía, que tienen una influencia directa en la seguridad y la fluidez del tráfico ferroviario, que fue reclamada por el maquinista y posteriormente subsanada por el jefe de estación de la est. Bohumín;
 
 ## Página 29
+
 
 al atravesar el tren EC 108 la estación de Studénka, recinto de la estación de viajeros, el maquinista controló mediante una mirada al horario en cuadernillo la magnitud del retraso del tren EC 108. Tras controlar la magnitud del retraso, el maquinista dirigió su mirada hacia delante del tren, donde en el espacio bajo el puente viario reconstruido vio un destello, que inicialmente evaluó como una avería en la línea de catenaria. Posteriormente, vio otros destellos, chispas y oscilaciones de la línea de catenaria. Al mismo tiempo, registró el derrumbe de la estructura del puente en el andén de vías. Primero se derrumbó el lado izquierdo de la estructura del puente en la dirección de marcha del tren EC 108 y posteriormente su lado derecho, de tal manera que la estructura del puente derrumbada creó un obstáculo en la ruta de circulación de la vía, transversalmente a través de todas las vías de la vía de la estación del recinto de la estación de mercancías de la estación de Studénka;
 el maquinista aplicó por tanto inmediatamente el frenado de emergencia y posteriormente se ocultó en la sala de máquinas de la HDV;
@@ -934,89 +900,74 @@ el despachador de tráfico encargó a la operadora de la estación de Studénka 
 
 ## Página 30
 
-o que el estado del puente viario, n.º de registro 464-014, sobre las vías de estación del recinto de la estación de carga de la estación de Studénka, pusiera en peligro la explotación segura de la línea y del transporte ferroviario, no fue informado por nadie el jefe de maniobras de planificación durante el turno;
+o de que el estado del puente de carretera, n.º ev. 464-014, sobre las vías de estación del ámbito de la estación de mercancías de la est. Studénka, amenazaba la explotación segura de la vía y del transporte ferroviario, el despachador de disposición no fue informado por nadie durante el turno;
 –
-sobre la solicitud de detención, o bien de limitación de la explotación del transporte ferroviario en el recinto de la estación de carga de la estación de Studénka, no fue informado el jefe de maniobras de planificación durante el turno del día 08. 08. 
-2008 ni en los turnos anteriores por la persona responsable, o por otro representante de la empresa constructora.
-De los documentos archivados en el expediente de investigación de la Policía de la República Checa, más allá del contenido del Acta antes mencionada con el empleado, no se desprenden nuevos conocimientos relevantes. 
-Del documento «Acta con el empleado», elaborado por el explotador de la línea en Studénka, con el jefe de maniobras de guardia de la estación de Studénka, el día 13. 08. 2008, se desprende, entre otras cosas:
-a las 10:30 h el jefe de maniobras de guardia de la estación de Studénka observó el paso del tren EC 108, no percibió ninguna anomalía;
+sobre la petición de detener, o en su caso limitar, la explotación del transporte ferroviario en el ámbito de la estación de mercancías de la est. Studénka, el despachador de disposición no fue informado durante el turno del 08. 08. 2008 ni de los turnos anteriores por la persona responsable ni por otro representante de la empresa constructora.
+De los documentos incorporados al expediente de investigación de la PČR, más allá del contenido de la Acta con el empleado arriba mencionada, no se extraen nuevos datos relevantes.
+Del documento "Acta con el empleado", elaborado por el explotador de la vía en Studénka, con el despachador de guardia de la est. Studénka, con fecha 13. 08. 2008, entre otros datos se desprende:
+a las 10:30 h el despachador de guardia de la est. Studénka observó el paso del tren EC 108, no advirtió ninguna anomalía;
 –
-inmediatamente después de regresar a la sala de control de la estación de Studénka, el jefe de maniobras de guardia
+inmediatamente después de regresar a la oficina de tráfico de la est. Studénka, el despachador de guardia escuchó la información dada al despachador de disposición por el maquinista del tren Pn 60090, que se encontraba en la vía de estación n.º 107, a través de la red tecnológica de radio STE I, de que en el ámbito de la estación de mercancías de la est. Studénka se había desplomado un puente y que el tren de larga distancia que acababa de pasar había chocado contra él;
 –
-oyó la información transmitida al jefe de maniobras de planificación por el maquinista del tren Pn 60090, detenido en la vía de estación n.º 107, a través de la red tecnológica de radio STE I, de que se había desplomado un puente en el recinto de la estación de carga de la estación de Studénka y que el tren rápido que pasaba en ese momento había chocado contra él;
-tras recibir la información sobre la aparición de un accidente (MU) en el recinto de la estación de carga de la estación de Studénka,
+tras recibir la información sobre la aparición de un MU en el ámbito de la estación de mercancías de la est. Studénka, el despachador de guardia se dirigió con celeridad al lugar del MU;
+o de que el estado del puente de carretera, n.º ev. 464-014, sobre las vías de estación del ámbito de la estación de mercancías de la est. Studénka, amenazaba la explotación segura de la vía y del transporte ferroviario, el despachador de guardia no fue informado por nadie durante el turno;
 –
-el jefe de maniobras de guardia se desplazó con urgencia al lugar del accidente;
-sobre que el estado del puente viario, n.º de registro 464-014, sobre las vías de estación del recinto de la estación de carga
+sobre la petición de detener, o en su caso limitar, la explotación del transporte ferroviario en el ámbito de la estación de mercancías de la est. Studénka, el despachador de guardia no fue informado durante el turno del 08. 08. 2008 ni de los turnos anteriores por la persona responsable ni por otro representante de la empresa constructora.
+De los documentos incorporados al expediente de investigación de la PČR, más allá del contenido de la Acta con el empleado arriba mencionada, entre otros datos se desprende:
 –
-de la estación de Studénka, pusiera en peligro la explotación segura de la línea y del transporte ferroviario, no fue informado el jefe de maniobras de guardia durante el turno por nadie;
-sobre la solicitud de detención, o bien de limitación, de la explotación del transporte ferroviario en el recinto
+el despachador de guardia, tras el paso del tren EC 108 y su regreso a la oficina de tráfico, escuchó a través de la red tecnológica de radio STE I la información sobre el desplome de la estructura del puente y la posterior colisión del tren EC 108 con dicha estructura. Al mirar el monitor del dispositivo de enclavamiento de estación ESA 11, comprobó la ocupación de los circuitos de vía de todas las vías de estación en el ámbito de la estación de mercancías de la est. Studénka;
 –
-de la estación de carga de la estación de Studénka, no fue informado el jefe de maniobras de guardia durante el turno del día 08. 08. 
-2008 ni en los turnos anteriores por la persona responsable, o por otro representante de la empresa constructora.
-De los documentos archivados en el expediente de investigación de la Policía de la República Checa, más allá del contenido del Acta antes mencionada con el empleado, se desprende, entre otras cosas:
-el jefe de maniobras de guardia, tras el paso del tren EC 108 y el regreso a la sala de control,
+por ello se dirigió inmediatamente al lugar del MU, desde donde informó al despachador de disposición de la situación surgida mediante una estación de radio portátil y, hasta la llegada de las unidades de IZS, prestó asistencia a los pasajeros.
+Del documento "Acta con el empleado", elaborado por el transportista ČD, a. s., en Bohumín, con el jefe de tren de la est. Bohumín, con fecha 13. 08. 2008, entre otros datos se desprende:
+el jefe de tren esperaba la llegada del tren EC 108 en el andén 3 de la est. Bohumín;
 –
-a través de la red tecnológica de radio STE I, oyó la información sobre el derrumbe de la estructura del puente y la posterior colisión del tren EC 108 con dicha estructura. Al mirar el monitor del dispositivo de seguridad de estación ESA 11, comprobó la ocupación de los circuitos de vía de todas las vías de estación del recinto de la estación de carga de la estación de Studénka;
-por ello se desplazó inmediatamente al lugar del accidente, desde donde informó mediante radio portátil al
-–
-jefe de maniobras de planificación de la situación surgida y, hasta la llegada de las unidades de los Servicios de Intervención de Emergencia (IZS), prestó ayuda a los viajeros.
-Del documento «Acta con el empleado», elaborado por el transportista ČD, a. s., en Bohumín, con el jefe de trenes de la estación de Bohumín, el día 13. 08. 2008, se desprende, entre otras cosas:
-el jefe de trenes esperaba la llegada del tren EC 108 en el andén 3 de la estación de Bohumín;
-–
-tras la unión de la composición del tren EC 108 con la composición procedente del tren Sp 1606, tras la comprobación del
-–
-acoplamiento de las composiciones y la igualación de la presión en la tubería principal del freno continuo automático, el jefe de trenes verificó el funcionamiento del freno continuo mediante una prueba sencilla del freno, a saber, la prueba de la conexión de frenos;
-
+tras el acoplamiento del tren EC 108 con el conjunto procedente del tren Sp 1606, la comprobación del acoplamiento de los conjuntos y el equilibrio de presión en la tubería principal del freno automático continuo, el jefe de tren verificó el funcionamiento del freno continuo mediante una sencilla prueba de freno, es decir, mediante la prueba del enganche de freno;
 
 ## Página 31
 
-el funcionamiento del freno continuo el jefe de trenes lo verificó en el primer vehículo de maniobras (TDV) situado tras el punto de acoplamiento, observando el
+El jefe de tren verificó el funcionamiento del freno continuo en el primer TDV mediante la inspección visual del
 –
-### indicador de estado frenado-desfrenado, y en el primer TDV situado antes del punto de acoplamiento, mediante la comprobación
-### del contacto firme y del despegue de las zapatas de freno sobre las ruedas del TDV. Tras realizar con éxito la
-prueba sencilla, confirmó mediante su firma en el informe de frenado la verificación del efecto de los frenos;
-la posición de los selectores de freno el jefe de trenes la comprobó únicamente en los TDV en los que había verificado el funcionamiento
+### indicador de estado frenado-desfrenado en el primer TDV situado tras el punto de enganche y mediante la comprobación
+### de la adherencia y desenganche firmes de los elementos de frenado de las ruedas del TDV en el primer TDV situado antes del punto de enganche. Tras la realización exitosa de la prueba simple, confirmó con su firma en el informe de frenado la verificación del funcionamiento de los frenos;
+la posición de los conmutadores de freno la verificó el jefe de tren únicamente en los TDV en los que verificó el funcionamiento
 –
-del freno continuo. En cuanto a la posición de los selectores de freno en el último TDV del tren EC 108, el jefe de trenes declaró: «Dado que no realicé ninguna operación en este vagón, no estoy seguro de en qué posición estaban los selectores. Yo solo compruebo la posición de los selectores en los vagones en los que realizo la prueba del freno.»;
+del freno continuo. En cuanto a la posición de los conmutadores de freno en el último TDV del tren EC 108, el jefe de tren declaró: «Dado que en este vehículo no realicé ninguna operación, no estoy seguro de en qué posición se encontraban los conmutadores. Yo verifico la posición de los conmutadores únicamente en los vehículos en los que realizo la prueba de freno»;
+al anotar posteriormente las operaciones realizadas, el jefe de tren se equivocó de línea en su Registro de averías de vehículos ČD 735 1 5335 y, por error, hizo constar en el Registro de servicio técnico del vehículo la operación que él había realizado en el tren posterior EC 103. En la columna Prueba de freno hizo constar el código incorrecto «42» – Realización de la prueba de freno completa del tren frenado en el modo R+Mg, en lugar del código «32» – Prueba de enganche de freno.
+De los documentos incorporados al expediente de investigación de la Policía, además del contenido de la citada Acta
+con el empleado, entre otros, se desprende:
+durante ni tras la finalización de la prueba simple de freno – la prueba de enganche de freno del tren
 –
-durante la posterior redacción de las operaciones realizadas, el jefe de trenes confundió la línea en su Cuaderno de averías de vagones de ČD 735 1 5335 e introdujo por error en el Registro de servicio técnico del vagón la operación realizada por él para el tren EC 103 siguiente. En la columna Prueba del freno indicó el código incorrecto «42» – Realización de la prueba completa del freno del tren frenado en el modo R+Mg, en lugar del código «32» – Prueba de la conexión de frenos.
-De los documentos archivados en el expediente de investigación de la Policía de la República Checa, más allá del contenido del Acta antes mencionada con el empleado, se desprende, entre otras cosas:
-ni durante ni después de finalizar la prueba sencilla del freno – prueba de la conexión de frenos del tren
+frenado en el modo R+Mg, el jefe de tren no recorrió la composición hasta el final del tren. No verificó la permeabilidad de la tubería de suministro. Esperó la salida del tren EC 108 en el andén;
+a la pregunta de cómo sabría en qué modo de frenado se encuentra el tren, respondió: «Esto lo averiguaré del
 –
-frenado en el modo R+Mg, el jefe de trenes no se desplazó a lo largo de la composición hasta el final del tren. No verificó la permeabilidad de la tubería de alimentación. El jefe de trenes esperó la salida del tren EC 108 en el andén;
+horario de trenes en cuaderno o del informe de frenado»;
+al confirmar con su firma, en el campo Observaciones, la realización exitosa de la prueba simple de freno del tren EC 108 en el Informe internacional de frenado del tren, el jefe de tren, de conformidad con los procedimientos tecnológicos uniformes del operador, no verificó el modo de frenado del tren, no se percató de en qué modo de frenado se encontraba el tren EC 108;
+a la pregunta de si, antes de realizar la prueba simple de freno, sabía en qué modo de frenado se encontraba o debía
 –
-ante la pregunta de cómo sabe en qué modo de frenado está frenado el tren, respondió: «Esto lo averiguo del
-cuaderno de horario o del informe de frenado.»;
+encontrarse el tren EC 108, respondió: «No, esto no lo sabía»;
+en el tren EC 108 no había ninguna avería técnica. Por ello, el jefe de tren tampoco informó a nadie
 –
-al confirmar con su firma la realización con éxito de la prueba sencilla del freno del tren EC 108 en la
-sección Observaciones del Informe Internacional de Frenado del Tren, el jefe de trenes, de conformidad con los procedimientos tecnológicos uniformes del transportista, no comprobó el modo de frenado del tren, no se percató de en qué modo de frenado estaba frenado el tren EC 108;
+sobre ninguna avería técnica.
+Del documento «Acta con el empleado», elaborado por el gestor de la vía en Bohumín, con la jefa de estación de la est. Bohumín, con fecha 13. 08. 2008, entre otros, se desprende:
+la jefa de estación esperaba la llegada del tren EC 108 en el andén, donde también solicitó al jefe de tren
 –
-ante la pregunta de si sabía, antes de realizar la prueba sencilla del freno, en qué modo de frenado
-estaba o debía estar frenado el tren EC 108, respondió: «No, no lo sabía.»;
+### de transporte de pasajeros del tren EC 108 la entrega de una copia (transcripción) del aviso acreditado de cambios inmediatos de los parámetros técnicos de construcción de las obras ferroviarias y de las obras en la vía, que tienen una influencia directa en la seguridad y la fluidez del tráfico ferroviario, al maquinista del tren EC 108;
+en el momento de la salida del tren EC 108, la jefa de estación vio al jefe de tren de transporte de pasajeros del tren EC 108
 –
-en el tren EC 108 no había ninguna avería técnica. Por ello, el jefe de trenes tampoco informó a nadie de una avería técnica.
-Del documento «Acta con el empleado», elaborado por el explotador de la línea en Bohumín,
-con el jefe de maniobras de la estación de Bohumín, el día 13. 08. 2008, se desprende, entre otras cosas:
-la llegada del tren EC 108 la esperaba la jefe de maniobras en el andén, donde también solicitó a la
+regresar desde la cabecera del tren y saludar a la jefa de estación agitando los documentos que sostenía en la mano;
+el jefe de tren informó a la jefa de estación de que el maquinista del tren EC 108 solicitaba el original
 –
-jefa de tren de pasajeros del tren EC 108 que entregara al maquinista del tren EC 108 una copia (transcripción) del aviso verificable sobre los cambios inmediatos de los parámetros constructivos y técnicos de las construcciones de la línea y de las construcciones en la línea, que tienen una influencia directa en la seguridad y la fluidez del transporte ferroviario;
+del aviso acreditado de cambios inmediatos de los parámetros técnicos de construcción de las obras ferroviarias y de las obras en la vía, que tienen una influencia directa en la seguridad y la fluidez del tráfico ferroviario, y no solo una copia (transcripción) del aviso acreditado;
+tras conocer el contenido del aviso acreditado y tras la confirmación acreditada
 –
-en el momento de la salida del tren EC 108, la jefe de maniobras vio a la jefa de tren de pasajeros del tren EC 108
-regresando desde la cabeza del tren y saludando a la jefe de maniobras con los documentos en la mano;
+de que el maquinista del tren EC 108 había conocido su contenido, se expidió el tren EC 108;
+tras regresar a la oficina de tráfico, la jefa de estación ocultó el verdadero motivo del retraso, es decir, la avería
 –
-la jefe de maniobras fue informada por la jefa de tren de que el maquinista del tren EC 108 solicitaba el original
-del aviso verificable sobre los cambios inmediatos de los parámetros constructivos y técnicos de las construcciones de la línea y de las construcciones en la línea, que tienen una influencia directa en la seguridad y la fluidez del transporte ferroviario, y no solo una copia (transcripción) del aviso verificable;
-–
-tras tomar conocimiento del contenido del aviso verificable y de la confirmación verificable
-del conocimiento de su contenido por parte del maquinista del tren EC 108, se autorizó la salida del tren EC 108;
-–
-tras regresar a la sala de control, la jefe de maniobras ocultó la causa real del retraso, es decir, la avería
-en el aviso verificable del maquinista, y como causa del aumento del retraso del tren
-### EC 108 indicó una pequeña avería técnica en el TDV.
+en el aviso acreditado del maquinista, y como motivo del aumento del retraso del tren
+### EC 108 hizo constar una pequeña avería técnica en el TDV.
 
 ## Página 32
+
 
 ### 3.1.2 Otras personas
 
@@ -1037,6 +988,7 @@ Del documento «Acta con el empleado», elaborado por la persona autorizada para
 - la supervisión ferroviaria durante el deslizamiento del puente la realizaba el jefe de la base operativa, TO Studénka, según los requisitos de la persona que dirigía los trabajos de deslizamiento, los días 02. 08. 2008 de aproximadamente las 15 h a las 19 h y el 03. 08. de las 07:00 h a las 08:00 h. El 06. 08. 2008, la supervisión ferroviaria durante el deslizamiento de la calzada reconstruida la realizaba el representante autorizado por el jefe de la base operativa, TO Studénka, en el horario de las 14 h a las 17 h. No se detectó ninguna fuente de peligro para la seguridad de la explotación de la vía y del transporte ferroviario por las personas que realizaban la supervisión ferroviaria en las fechas indicadas;
 
 ## Página 33
+
 
 el 08.08.2008 no era el representante de la empresa BÖGL & KRÝSL, empresa de construcción, s. r. o., que
 –
@@ -1066,27 +1018,47 @@ y deslizamiento de la estructura portante del puente viario debía estar present
 
 ## Página 34
 
-encargado de la supervisión ferroviaria debía presentarse a la obra sobre la base de las solicitudes de la empresa que realizaba el desplazamiento y deslizamiento de la estructura del puente;
-el ejercicio de la supervisión ferroviaria se acordaba con el promotor por parte del jefe de la unidad operativa,
+el encargado de la supervisión ferroviaria debía acudir a la obra a petición de la empresa 
+que realizaba el deslizamiento y el encaje de la estructura del puente;
+el desempeño de la supervisión ferroviaria era acordado por el constructor con el jefe del centro de explotación, 
 –
 TO Studénka;
-el 06.08.2008 no se realizó el deslizamiento de la estructura portante del puente viario;
+el 06. 08. 2008 no se realizó el encaje de la estructura portante del puente de carretera;
 –
-el 07.08.2008, un trabajador de la empresa BÖGL & KRÝSL, empresa de construcción, s. r. o., informó al jefe de obra de que en el lado de Příbor se nivelarían los carros de manipulación, ya que se había producido una desalineación de la estructura portante del puente viario que se estaba deslizando. La reparación de la desalineación debía realizarse elevando la estructura portante del puente viario mediante una grúa móvil. Ninguna de las personas presentes en la obra ese día evaluó la desalineación de la estructura portante del puente viario que se estaba deslizando como un defecto que requiriera medidas de seguridad extraordinarias. El jefe de obra estuvo presente en la obra hasta las 17:00 h. Hasta su marcha no se reparó la desalineación de la estructura portante del puente viario que se estaba deslizando;
-el 08.08.2008, el jefe de obra se presentó en la obra alrededor de las 7:00 h. En el momento de su llegada
+el 07. 08. 2008, un trabajador de la empresa BÖGL & KRÝSL, spol. s r. o., 
 –
-la desalineación de la estructura portante del puente viario que se estaba deslizando ya estaba reparada;
-el jefe de obra no ejercía en la obra la función de jefe de obra en el sentido del artículo 160, apartado 1, de la
+empresa constructora, comunicó al jefe de obra que en el lado de Příbor del puente se alinearían los carros de maniobra, porque 
+se había producido una desalineación de la estructura portante del puente de carretera que se estaba encajando. La corrección de la desalineación debía realizarse mediante el izado de la estructura portante del puente de carretera con una grúa automotriz. Ninguna de las personas presentes ese día en la obra evaluó la desalineación de la estructura portante del puente de carretera que se estaba encajando como una anomalía que requiriera medidas de seguridad excepcionales. 
+El jefe de obra estuvo presente en la obra ese día hasta las 17 h. Hasta el momento de su salida, la desalineación de la estructura portante del puente de carretera que se estaba encajando no había sido corregida;
+el 08. 08. 2008 el jefe de obra acudió a la obra hacia las 7 h. En el momento de su llegada, 
 –
-Ley nº 183/2006 Coll., sino la de maestro de obras. No competía ni a sus obligaciones laborales controlar los trabajos realizados por el subcontratista. En relación con el explotador de la infraestructura, no tenía la potestad de decidir sobre la limitación o suspensión del tráfico ferroviario;
-### El Organismo de Ferrocarriles, que es el organismo nacional de seguridad para el sector de los ferrocarriles y el tráfico ferroviario, al establecer las condiciones para la construcción en la zona de protección del ferrocarril, de la obra «Reconstrucción del puente nº 464-014 sobre la vía de ČD en Studénka», contenidas en el sentido del artículo 9, apartado 1, de la Ley nº 266/1994 Coll., en el documento «Consentimiento para la construcción», ref. 20-209/06-32401-DÚ/06, de fecha 20.09.2006, se guió por la documentación de proyecto presentada de la obra, que en la parte Informe Técnico SO 202 – Organización de la construcción, artículo 2 DESCRIPCIÓN DE LA SOLUCIÓN FUNCIONAL Y TÉCNICA, bajo la letra i), establece los requisitos para la garantía de la protección del recinto de la obra y su entorno:
-«... La vía de ČD estará en servicio ilimitado, salvo excepciones en forma de bloqueos. Por esta razón, será necesario garantizar y proteger el perfil de circulación de la vía de ČD contra la caída de objetos sobre las vías. Asimismo, será necesario garantizar la seguridad contra el contacto de los trabajadores de la construcción con la catenaria al trabajar cerca de la tracción electrificada.»
-El Organismo de Ferrocarriles también se basó en el resumen de los bloqueos previstos en las distintas vías de la estación de Studénka indicado en la tabla «Tab. 1», que no contemplaba bloqueos durante el desplazamiento y deslizamiento de la estructura del puente, y en el hecho de que, en el sentido del artículo 38, apartado 1, de la Ley nº 266/1994 Coll., «no recibió ninguna solicitud del promotor para la limitación o suspensión del tráfico ferroviario público»;
-El Organismo de Ferrocarriles no decidió sobre la limitación temporal del tráfico ferroviario durante el tiempo estrictamente necesario,
+la desalineación de la estructura portante del puente de carretera que se estaba encajando ya había sido corregida;
+el jefe de obra no desempeñaba en la obra la función de jefe de obra en el sentido del § 160 apart. 1 
 –
-por razones de seguridad del tráfico ferroviario en el lugar de la obra, en el sentido del artículo 38, apartado 3, letra b), de la Ley nº 266/1994 Coll., y no incluyó en las condiciones contenidas en el documento «Consentimiento para la construcción», ref. 20-209/06-32401-DÚ/06, de fecha 20.09.2006, la condición de limitación temporal del tráfico ferroviario durante el tiempo estrictamente necesario, por razones de seguridad del tráfico ferroviario en el lugar de la obra.
+de la ley núm. 183/2006 Sb., sino la función de capataz. Ni en sus competencias ni en sus obligaciones laborales estaba el control de los trabajos realizados por el subcontratista. En relación con el operador de la vía no tenía competencia para decidir sobre la limitación o la suspensión de la explotación de la vía;
+### La Oficina Ferroviaria (Drážní úřad), que es la autoridad nacional de seguridad en el ámbito de las vías y del transporte ferroviario, 
+–
+al establecer las condiciones para la construcción en la franja de protección de la vía, 
+de la obra «Reconstrucción del puente ev. núm. 464-014 sobre la línea ČD en Studénka», contenidas en el sentido del § 9 apart. 1 de la ley núm. 266/1994 Sb., en el documento «Autorización para la construcción», ref. núm.: 
+### 20-209/06-32401-DÚ/06, de fecha 20. 09. 2006, se guió por la documentación técnica del proyecto presentada, que en la parte Informe técnico SO 202 – organización de la construcción, 
+artículo 2 DESCRIPCIÓN DE LA SOLUCIÓN FUNCIONAL Y TÉCNICA, apartado i), indica los requisitos para garantizar la protección de la zona de obra y de su entorno:
+
+«... La línea ČD estará, salvo excepciones en forma de interrupciones, en explotación sin restricciones. Por este motivo será necesario asegurar y proteger el perfil de paso de la línea ČD frente a la caída de objetos a la vía. 
+Asimismo, será necesario, al trabajar en las proximidades de la tracción electrificada, garantizar la seguridad frente al contacto de los trabajadores de la obra con la línea de tracción.»
+
+La Oficina Ferroviaria se basó además en el listado de interrupciones previstas en las distintas vías de la estación de Studénka indicado en la tabla «Tab. 1», 
+### que no contemplaba interrupciones durante el deslizamiento y el encaje de la estructura del puente, y en el hecho de que, en el sentido del § 38 apart. 1 
+### de la ley núm. 266/1994 Sb., «no había recibido ninguna solicitud del constructor para limitar o suspender el transporte ferroviario público.»;
+
+La Oficina Ferroviaria no decidió sobre la limitación transitoria del transporte ferroviario durante el tiempo estrictamente necesario, 
+–
+por motivos de seguridad del transporte ferroviario en el lugar de la obra, en el sentido del § 38 apart. 3 letra b) 
+de la ley núm. 266/1994 Sb., e incluyó en las condiciones contenidas en el documento «Autorización para la construcción», ref. núm.: 
+### 20-209/06-32401-DÚ/06, de fecha 20. 09. 2006, la condición de limitación transitoria del transporte ferroviario durante el tiempo estrictamente necesario, por motivos 
+de seguridad del transporte ferroviario en el lugar de la obra.
 
 ## Página 35
+
 
 ### 3.2 Sistema de garantía de la seguridad
 ### 3.2.1 Organización marco y forma en que se otorgan y ejecutan las órdenes
@@ -1119,6 +1091,7 @@ obras de terceros inversores en el ámbito del SDC», ref. n.º: 8469/2004, con 
 «El DDT (OTR) emite el encargo de supervisión ferroviaria en nombre del SDC Ostrava frente al promotor de la obra. Este encargo»
 
 ## Página 36
+
 
 se enviará al maestro principal del distrito de mantenimiento de vía correspondiente y, a través de la correspondiente Administración de Vía.
 
@@ -1153,6 +1126,7 @@ reglamento interno de la SŽDC (ČD) S 2/3 «Normativa de organización y realiz
 «Las inspecciones del estado de las vías de ČD las realizan empleados autorizados, designados por el responsable de la unidad operativa,
 
 ## Página 37
+
 
 como mínimo en el alcance establecido en el anexo n.º 1. ...“;
 el reglamento interno de SŽDC (ČD) S 2/3, artículo 3, donde se indica, entre otras cosas:
@@ -1189,8 +1163,8 @@ el reglamento interno de ČD V15/I, artículo 230, donde se indica, entre otras 
 –
 «Para cada tren debe expedirse y entregarse al maquinista que maneja el freno continuo el Informe de frenado ...»;
 
-
 ## Página 38
+
 
 el reglamento interno de ČD V15/I, artículo 244, donde se indica, entre otras cosas:
 –
@@ -1233,27 +1207,27 @@ El paso del tren EC 108 por la estación de Studénka fue autorizado por la señ
 
 ## Página 39
 
-El maquinista del tren EC 108 fue informado de manera fehaciente, en la estación de Bohumín, conforme al artículo 68, apartado 3, del Decreto n.º 173/1995 Coll., por el que se aprueba el reglamento de circulación ferroviaria, en su redacción vigente, sobre los cambios inmediatos en los parámetros constructivos y técnicos de las obras de la vía y de las construcciones en la vía, que tienen una influencia directa en la seguridad y la fluidez del tráfico ferroviario, mediante el documento «ORDEN GENERAL para el tren n.º 108», n.º 0000328-982, de fecha 08. 08. 2008. Su contenido ni ninguna otra orden limitaron la velocidad máxima permitida de 140 km/h para el tren EC 108, en el ámbito de la estación de Studénka.
-### 3.2.2 Requisitos aplicables al personal del explotador de la infraestructura y del transportista y su cumplimiento
-Los requisitos de cualificación profesional del personal de SŽDC, s. o., incluido el método de su verificación, los establece el documento interno del explotador de la infraestructura SŽDC Zam1 (provisional) «Reglamento sobre la cualificación profesional del personal de la Administración de la Vía Ferroviaria, organismo estatal», aprobado el 30. 06. 2008, con el número de registro: 23 138/08-OKS, en su redacción vigente.
-Los requisitos de cualificación profesional del personal de ČD, a. s., incluido el método de su verificación, los establece el documento interno del transportista ČD Ok 2 «REGULACIÓN DE FORMACIÓN Y EXÁMENES DE LOS FERROCARRILES CHECOS, a. s.», aprobado el 07. 12. 2005, con el número de registro: 61773/05-O10, en su redacción vigente.
-Los requisitos de cualificación profesional del personal de TSS, a. s., incluido el método de su verificación, los establece el documento interno del transportista VP Ok2 «SOBRE EL CONOCIMIENTO DEL PERSONAL, EL MÉTODO DE VERIFICACIÓN DE LOS CONOCIMIENTOS Y EL SISTEMA DE FORMACIÓN PERIÓDICA», aprobado el 26. 06. 2007, en su redacción vigente.
-La condición de aptitud para la conducción de vehículos ferroviarios se regula en el artículo 45 de la Ley n.º 266/1994 Coll.
-El maquinista del tren EC 108 es titular de un Certificado de aptitud para la conducción de vehículos ferroviarios vigente, n.º de registro 009301, emitido por la Oficina Ferroviaria de Praga el 15. 05. 1996, para el tipo de vehículo ME, E, ES, en la línea C, R, V.
-El maquinista del tren 1. nsl. Pn 60230 es titular de un Certificado de aptitud para la conducción de vehículos ferroviarios vigente, n.º de registro 002219, emitido por la Oficina Ferroviaria de Praga el 20. 02. 1996, para el tipo de vehículo MM, MH, ME, MK, en la línea C, R, V.
-En el momento de la producción del accidente, todo el personal del explotador de la infraestructura y de ambos transportistas implicado en él estaba cualificado profesionalmente para el desempeño de la función que ostentaba. Las anotaciones por escrito forman parte del expediente del accidente.
-### 3.2.3 Procedimiento de la inspección interna de seguridad y sus resultados
-De los documentos del explotador de la infraestructura «Diario de actividades y controles del responsable de la unidad operativa TO Studénka» y «Informe diario» se desprenden las siguientes actividades y actividades de control realizadas por el personal encargado de la supervisión ferroviaria y sus sustitutos en la obra —reconstrucción del puente viario, n.º de registro 464-014, en el pk 243,576 en la estación de Studénka:
+El maquinista del tren EC 108 fue informado en la estación de Bohumín, en el sentido del § 68 apartado 3 del decreto nº 173/1995 Sb., por el que se dicta el reglamento de circulación ferroviaria, en la redacción de las disposiciones posteriores, de manera fehaciente sobre los cambios inmediatos de los parámetros técnicos de construcción de las obras ferroviarias y de las obras en la vía, que tienen una influencia directa en la seguridad y la fluidez del transporte ferroviario, mediante el documento «ORDEN GENERAL para el tren nº 108», nº 0000328-982, de fecha 08. 08. 2008. Ni su contenido ni ninguna otra instrucción limitaron para el tren EC 108, en el ámbito de la estación de Studénka, la velocidad máxima permitida de 140 km.h-1.
+### 3.2.2 Requisitos para los empleados del gestor de la vía y del transportista y su aplicación
+Los requisitos de cualificación profesional de los empleados de SŽDC, s. o., incluido el modo de verificación de la misma, los establece la normativa interna del gestor de la vía SŽDC Zam1 (provisional) «Reglamento sobre la cualificación profesional de los empleados de la Administración de la Infraestructura Ferroviaria, organización estatal», aprobado el 30. 06. 2008, bajo el nº de expediente: 23 138/08-OKS, en su redacción vigente.
+Los requisitos de cualificación profesional de los empleados de ČD, a. s., incluido el modo de verificación de la misma, los establece la normativa interna del transportista ČD Ok 2 «REGLAMENTO DE FORMACIÓN Y EXPERIENCIA DE LOS FERROCARRILES CHECOS, a. s.», aprobado el 07. 12. 2005, bajo el nº de expediente: 61773/05-O10, en su redacción vigente.
+Los requisitos de cualificación profesional de los empleados de TSS, a. s., incluido el modo de verificación de la misma, los establece la normativa interna del transportista VP Ok2 «SOBRE EL CONOCIMIENTO DE LAS PERSONAS, EL MÉTODO DE VERIFICACIÓN DE LOS CONOCIMIENTOS Y EL SISTEMA DE FORMACIÓN PERIÓDICA», aprobado el 26. 06. 2007, en su redacción vigente.
+La condición de aptitud para la conducción de un vehículo ferroviario la regula el § 45 de la ley nº 266/1994 Sb.
+El maquinista del tren EC 108 es titular de un Certificado de Aptitud para la conducción de vehículos ferroviarios válido, nº de registro 009301, expedido por la Autoridad Ferroviaria de Praga, el 15. 05. 1996, para el tipo de vehículo ME, E, ES, en la vía C, R, V.
+El maquinista del tren 1. nsl. Pn 60230 es titular de un Certificado de Aptitud para la conducción de vehículos ferroviarios válido, nº de registro 002219, expedido por la Autoridad Ferroviaria de Praga, el 20. 02. 1996, para el tipo de vehículo MM, MH, ME, MK, en la vía C, R, V.
+En el momento de producirse el MU, todos los empleados participantes en el mismo, tanto del gestor de la vía como de ambos transportistas, estaban cualificados profesionalmente para el desempeño de la función que ocupaban. Los registros escritos forman parte del expediente del MU.
+### 3.2.3 Procedimiento de control interno de seguridad y sus resultados
+De los documentos del gestor de la vía «Diario de actividades y controles del jefe de la unidad operativa TO Studénka» y del «Parte diario» se desprenden las siguientes actividades y actividades de control del empleado encargado de la supervisión ferroviaria y de sus delegados en la obra – reconstrucción del puente carretero, nº de registro 464-014, en el km 243,576 de la estación de Studénka:
 | Fecha | Descripción de la actividad realizada | Hallazgos |
-| 14 04 2008 . . | Discusión de la tecnología de la obra con los representantes del contratista | sin incidencias |
-| 09 05 2008 . . | Control – supervisión en la obra | sin incidencias |
-| 10 05 2008 . . | Control – supervisión del representante en la obra en el horario de 7:00 h - 9:00 h | sin incidencias |
-| 11 05 2008 . . | Control – supervisión del representante en la obra en el horario de 7:00 h - 9:00 h | sin incidencias |
-| 15 05 2008 . . | Control – supervisión en la obra, determinación del estado | sin incidencias |
-| 16 05 2008 . . | Control – supervisión del representante en la obra en el horario de 6:00 h - 10:30 h; 11:00 h 17:00 h; 17:30 h 20:00 h - - | sin incidencias |
-
+| 14 04 2008 . . | Revisión de la tecnología de la obra con los representantes del contratista | sin defectos |
+| 09 05 2008 . . | Control – supervisión en la obra | sin defectos |
+| 10 05 2008 . . | Control – supervisión del delegado en la obra en el horario 7:00h - 9:00h | sin defectos |
+| 11 05 2008 . . | Control – supervisión del delegado en la obra en el horario 7:00h - 9:00h | sin defectos |
+| 15 05 2008 . . | Control – supervisión en la obra, verificación del estado | sin defectos |
+| 16 05 2008 . . | Control – supervisión del delegado en la obra en el horario 6:00h - 10:30 h; 11:00 h 17:00 h; 17:30h 20:00 h - - | sin defectos |
 
 ## Página 40
+
 
 | Fecha | Descripción de la actividad realizada | Hallazgos |
 | 17 05 2008 . . | Control – supervisión en la obra en el horario de 13:00 h - 14:00 h | sin incidencias |
@@ -1285,6 +1259,7 @@ Además de las anteriores supervisiones específicas en la obra, la reconstrucci
 | 16 05 2008 . . | Recorrido de inspección de la vía Studénka Příbor – | sin incidencias |
 
 ## Página 41
+
 
 ### Datum
 ### Descripción de las actividades realizadas
@@ -1350,8 +1325,8 @@ medición de la separación de las ruedas, la posición vertical mutua y la pend
 incluida la medición de la dirección con un equipo de registro continuo: realizado el 04. 08. 2008, véase 
 el extracto impreso y gráfico de las incidencias del viaje del vehículo de medición por las vías de estación n.º 101 y 102;
 
-
 ## Página 42
+
 
 control de la holgura espacial de las vías: realizado el 06. 04. 2007, véase «Acta de verificación de la holgura espacial de las vías de estación en la estación de Studénka»;
 –
@@ -1390,6 +1365,7 @@ Decreto n.º 101/1995 Coll., por el que se aprueba el Reglamento sobre la aptitu
 
 ## Página 43
 
+
 decreto n.º 173/1995 Coll., por el que se aprueba el reglamento de circulación de las vías férreas, en su versión posterior;
 ●
 decreto n.º 177/1995 Coll., por el que se aprueba el reglamento de construcción y técnico de las vías férreas, en su versión posterior;
@@ -1427,8 +1403,8 @@ norma interna ČD V 15/I «Norma para la explotación y la manipulación de los 
 ●
 aprobada el 06. 08. 1997, con n.º de referencia: 58.624/1997-18, en su versión vigente, que fue asumida por el explotador de la vía SŽDC, s. o., en el sentido del BOLETÍN DE TRANSPORTE Y TARIFAS n.º 29-30, de 16. 07. 2008;
 
-
 ## Página 44
+
 
 norma interna SŽDC (ČD) Z 1 «NORMA PARA LA MANIPULACIÓN DE LOS DISPOSITIVOS DE SEGURIDAD ESTACIONALES Y DE LÍNEA», aprobada el 26. 03. 2007, con n.º de referencia: 56 704/2007,
 en su versión vigente, que fue asumida por el explotador de la vía SŽDC, s. o., en el sentido del
@@ -1486,6 +1462,7 @@ en Muglinovská 1038, Ostrava, de fecha 11. 08. 2006, con n.º de referencia: 12
 
 ## Página 45
 
+
 autorización para la construcción concedida por el Órgano Ferroviario, sección de construcción, área de Olomouc, con domicilio en Nerudova 1, Olomouc, de fecha 20.09.2006, bajo ref.: 20-0209/06-32401-DÚ/St;
 opinion global de ČD, a. s., SDC Ostrava, departamento de desarrollo técnico, con domicilio en Muglinovská 1038, Ostrava, de fecha 11.02.2008, bajo ref.: 1865/2008-SDC;
 dictamen de la Administración Regional de Patrimonio de Olomouc, con domicilio en Jeremenkova 231/9, 772 58 Olomouc, de fecha 12.02.2008, bajo ref.: RSM OL-628/2008-Tol.
@@ -1503,8 +1480,8 @@ La locomotora HDV 151.018-9 del tren EC 108 estaba equipada con la parte móvil 
 La locomotora HDV 740.751-3 del tren de mercancías ligero 1. nsl. Pn 60230 estaba equipada con un dispositivo de grabación electrónico de tipo TT43, ref. 1. No estaba equipada con la parte móvil del dispositivo de protección del tren (la locomotora estaba ocupada por otro empleado de la empresa ferroviaria con la cualificación de conductor de tren).
 La locomotora HDV 742.209-0 del tren de mercancías Pn 60090 estaba equipada con la parte móvil del dispositivo de protección del tren de tipo LS 4, un adaptador de locomotora XX48 y un dispositivo de grabación mecánico de tipo 662 Metra, ref. 83003.
 
-
 ## Página 46
+
 
 ### 3.4.2 Componentes de la vía
 Mediante la verificación de los datos archivados de los ordenadores tecnológicos y de mando del dispositivo de protección ESA 11 de la estación de Studénka, que estaba en funcionamiento, se determinó que la vía de circulación para el tren EC 108 fue establecida mediante la operación habitual del dispositivo de protección de estación desde la posición del despachador de la estación de Studénka a través del JOP, desde la vía 1 de vía principal procedente de Jistebník, por las vías 1 y 101 de la estación de Studénka hasta la vía 1 de vía principal en dirección a Suchdol nad Odrou. El desvío n.º 1 fue atravesado por el tren EC 108 en dirección recta contra la punta, el desvío n.º 5 fue atravesado en dirección recta por la punta, el desvío n.º 7 fue atravesado en dirección recta contra la punta, los desvíos n.º 30 y 33 fueron atravesados en dirección recta por la punta y los desvíos n.º 34 y 35 fueron atravesados en dirección recta contra la punta. Los desvíos n.º 52 y 56 debían ser atravesados por el tren EC 108 en dirección recta por la punta y el desvío n.º 57 en dirección recta contra la punta.
@@ -1536,6 +1513,7 @@ Del análisis del archivo TPC1 ESA 11 de la estación de Studénka, véase docum
 10:29:31 h cambio de la indicación de la señal de entrada 1L a la indicación Alto;
 
 ## Página 47
+
 
 10:29:39 h el tren EC 108 ocupó el circuito de vía V1, puntos de vía n.º 1;
 –
@@ -1615,6 +1593,7 @@ véase el documento n.º de registro: 1-1354/2008/DI, de fecha 11.08.2008, se de
 
 ## Página 48
 
+
 Mediante la verificación de los datos archivados registrados por el dispositivo de registro del sistema de control RTis 12 del centro de control eléctrico Správa elektrotechniky a energetiky, SDC Ostrava, SŽDC, s. o., mencionados en el documento nº ref.: 1-1358/2008/DI, de fecha 11.08.2008, se constató que el 08.08.2008 a las 10:30:08 h se registró un fallo de la subestación de alimentación de Studénka en ambos grupos de tensión (vías) [1]. Este tiempo se considera como el momento del primer contacto de la estructura del puente que se desplomaba, la cual, al derrumbarse, provocó un cortocircuito e interrumpió el tendido de catenaria sobre las vías de estación nº 104, 102, 101, 103, 105b en la estación de Studénka, sector de la estación de mercancías;
 a las 10:30:24 h se registró un fallo de tensión de la subestación de alimentación de Suchdol nad Odrou en el grupo de tensión (vía) par [1].
 
@@ -1636,6 +1615,7 @@ En relación con la aparición del incidente se utilizaron los siguientes medios
 La transcripción de las conversaciones entre los distintos participantes forma parte del punto 3.5.2.
 
 ## Página 49
+
 
 ### 3.4.4 Vehículos ferroviarios, incluido el dispositivo de grabación automática de datos
 
@@ -1668,6 +1648,7 @@ Mediante la inspección del conjunto del tren EC 108 en el lugar del accidente, 
 
 ## Página 50
 
+
 en el documento «Výzva k odstranění zjištěných nedostatků» (Solicitud de eliminación de las deficiencias detectadas), ref.: 1-1348/2008/DI-2, y el conductor del tren de pasajeros del tren EC 108, en el documento «ZÁPIS SE ZAMĚSTNANCEM» (Acta con el empleado) de fecha 11.08.2008, el conmutador del modo de frenado P-R-Mg del vehículo de tracción individual (TDV) 73 54 10-91 003-9 Ampz en la estación de Bohumín se encontraba en la posición «R+Mg».
 
 Dado que el tren EC 108 no estaba frenado con el efecto de frenado máximo antes de la formación del tren compuesto (MU), a petición del Instituto de Investigación Ferroviaria (DI), para las necesidades de una investigación técnica independiente, se elaboró por parte de la Universidad de Minería y Metalurgia de Ostrava – Universidad Técnica de Ostrava, Facultad de Ingeniería Mecánica, Instituto de Transporte, el documento «Cálculo de las características de frenado ante el cambio de la capacidad de frenado del conjunto de vehículos ferroviarios», del cual se desprende:
@@ -1685,6 +1666,7 @@ Según el Informe Internacional de Frenado del Tren, elaborado el 08.08.2008 en 
 
 ## Página 51
 
+
 no estaba equipada con un acelerador de tubería, en la fila nº 52 del Informe Internacional de Frenado y del tren TDV 73 54 10-91 003-9 Ampz se incluyó un peso frenante de 108 t.
 Por la razón anteriormente expuesta, la DI solicitó la colaboración y la investigación de dicha deficiencia al organismo de inspección independiente de la República de Polonia – Państwowa Komisja Badania Wypadków Kolejowych. Este confirmó en el documento nº ref.: 1-1478/2008/DI-1 las constataciones de la DI. En la fila 52 del Informe Internacional de Frenado y del tren para el tren EC 108, tramo Kraków Gł. – Bohumín, el transportista PKP INTERCITY indicó e incluyó incorrectamente el peso frenante del TDV 73 54 10-91 003-9 Ampz como 108 t en lugar de 88 t. La indicación e inclusión del peso frenante incorrecto del TDV tuvo como consecuencia el cálculo incorrecto del peso frenante y el cálculo incorrecto del porcentaje de frenado real. El valor del peso frenante indicado incorrectamente fue de 554 t en lugar de 534 t y el valor del porcentaje de frenado real indicado incorrectamente fue de 147 en lugar de 144.
 El 18.09.2008, la DI realizó en la vía ferroviaria, de categoría nacional, en la estación de Bohumín, ante el operador de transporte ferroviario ČD, a. s., DKV Olomouc, PJ Bohumín, una actuación de vigilancia estatal en materia de vías, en el sentido de los artículos 58 y 59 de la ley nº 266/1994 Sb., véase „ACTA de la actuación de vigilancia estatal en materia de vías“, nº ref.: 1-1479/2008/DI-1, que se centró en los procedimientos tecnológicos uniformes para el frenado del tren contenidos en el sentido del apartado 2 del artículo 33 del decreto nº 173/1995 Sb. en las normas internas del transportista, con la siguiente constatación:
@@ -1700,6 +1682,7 @@ El tren 1. nsl. Pn 60230 fue remolcado por la LCV 740.751-3, para la cual fue em
 En el TDV del conjunto del tren 1. nsl. Pn 60230, dañado como consecuencia del IM, la última inspección técnica periódica se realizó de conformidad con el apartado 1 del artículo 44 de la ley nº 266/1994 Sb.
 
 ## Página 52
+
 
 ### 3.5 Documentación del sistema de explotación
 ### 3.5.1 Medidas adoptadas por el personal del operador de la vía y del transportista, en lo que respecta a la gestión, la señalización y la protección del tráfico
@@ -1719,6 +1702,7 @@ Extracto de las conversaciones del 08.08.2008 realizadas entre las 10:30:18 h:
 | 10:31:12 | maquinista | se ha estrellado contra eso con al menos sesenta, los primeros vagones están apilados „ , uno sobre otro“ |
 
 ## Página 53
+
 
 ### 3.5.3 Medidas adoptadas para la protección y seguridad del lugar del incidente
 
@@ -1773,6 +1757,7 @@ No se detectaron el estado de salud ni la situación personal que pudieran influ
 
 ## Página 54
 
+
 3.6.3 Disposición del equipamiento del puesto de control o del vehículo, que influye en su manejo y uso
 
 El HDV 151.018-9 del tren EC 108 circulaba hacia adelante respecto al puesto del conductor I. El conductor observaba la vía y las señales desde el lado derecho del puesto del conductor I, en la dirección de la marcha.
@@ -1799,6 +1784,7 @@ La estación de origen del tren EC 108 fue Cracovia Gł. (República de Polonia)
 
 ## Página 55
 
+
 A los +4,5 min, del tren EC 108 se separó el HDV con los dos primeros TDV, que fueron reconfigurados para formar parte del tren EC 103. El resto de la composición del tren EC 108 se acopló a la composición de seis TDV y al HDV 151.018-9 del tren Sp 1606, que había llegado desde la estación de Karviná hl. n. La funcionalidad del freno continuo del tren EC 108 fue verificada mediante una prueba de freno simple —prueba de la conexión de frenos—, realizada por una persona con la cualificación profesional adecuada del transportista, el maquinista. A pesar de que, según las instrucciones vigentes del gestor de la infraestructura, el tren EC 108 debía frenarse en el régimen R+Mg, el maquinista no verificó la permeabilidad de la tubería de alimentación en contravención a los procedimientos tecnológicos uniformes del transportista. El maquinista procedió como si el tren EC 108 no estuviera frenado en el régimen R+Mg. Posteriormente, de conformidad con los procedimientos tecnológicos uniformes del transportista, el maquinista firmó el formulario «Informe internacional de frenado del tren» para el tren EC 108 en la casilla de observaciones correspondiente a la prueba de freno simple. Antes de firmar el Informe internacional de frenado del tren para el tren EC 108, el maquinista no verificó el contenido y la corrección de dicho informe, es decir, tampoco el régimen de frenado del tren, de acuerdo con los procedimientos tecnológicos del transportista, y con su firma confirmó la realización de la prueba de freno simple del tren frenado en el régimen R+Mg, a pesar de que la prueba de freno simple del tren EC 108 la realizó como si el tren EC 108 no estuviera frenado en el régimen R+Mg.
 
 La tripulación del tren EC 108 se completó en la estación de Bohumín con el conductor del tren de viajeros procedente del tren Sp 1606 y dos acompañantes de tren de viajeros. La conductora que acompañaba al tren EC 108 desde la estación de Petrovice u Karviné continuó su servicio como acompañante de tren con el tren EC 108.
@@ -1810,6 +1796,7 @@ Antes de la salida del tren EC 108 de la estación de Bohumín, el maquinista fu
 Antes del paso del tren EC 108 por la estación de Studénka, entró el tren 1. nsl. Pn 60230, del transportista TSS, a. s., procedente de la estación de Jistebník, desde la vía de línea n.º 1 a la primera vía de estación de la estación de Studénka en el ámbito de la estación de viajeros y, posteriormente, a la vía de estación n.º 103 en el ámbito de la estación de mercancías, donde el tren se detuvo a las 10:21:45 h y permaneció detenido hasta la producción de la colisión.
 
 ## Página 56
+
 
 La vía de circulación para el tren EC 108 fue establecida por el jefe de maniobras de la estación de Studénka desde la vía principal 1 de Jistebník – Studénka hacia las vías de estación n.º 1, n.º 101 y, a continuación, hacia la vía principal 1 de Studénka – Suchdol nad Odrou. A las 10:21:10 h se autorizó el paso del tren EC 108 mediante la señal de «Vía libre» en la señal de entrada 1L, la señal de ruta Lc1 y la señal de salida L101.
 La velocidad máxima permitida para el tren EC 108 en el ámbito de la estación de Studénka, es decir, también en el lugar de origen de la colisión, era de 140 km/h. La velocidad de la vía no estaba temporalmente restringida.
@@ -1831,6 +1818,7 @@ El daño a la estructura del puente viario, n.º 464-014, fue causado por la emp
 
 ## Página 57
 
+
 ODS-Dopravní stavby Ostrava, a. s., cuantificada en 12.645.777,86 Kč. Sin embargo, este daño no se incluyó en el daño total causado por el incidente.
 
 El testigo de la caída de la estructura portante del puente viario en el pk 243,576 y de la subsiguiente colisión del tren EC 108 con un obstáculo surgido de forma repentina en la vía de circulación fue el maquinista del tren Pn 60090, que se encontraba detenido en la estación de Studénka, recinto de la estación de mercancías, en la vía de estación n.º 107. El tren estaba preparado para la salida hacia la estación de Štramberk. El maquinista del tren Pn 60090 informó inmediatamente al despachador de la estación de Studénka de la caída de la estructura portante del puente viario mediante la radio de a bordo en la frecuencia de la red tecnológica de radio STE I, que operaba con la señal «Vf» a 157,575 MHz en modo simplex de funcionamiento. La comunicación se inició a las 10:30:18 h, es decir, 12 s antes de la producción del incidente. Debido a la rápida secuencia de acontecimientos, no fue posible evitar la producción del incidente. En ese momento, el tren EC 108 ya estaba frenando y se encontraba en las inmediaciones de la estructura portante caída del puente viario. Posteriormente, el maquinista del tren Pn 60090 comunicó al despachador de la estación de Studénka la producción del incidente y le instó a solicitar de inmediato la intervención de las unidades de los servicios de emergencia (IZS). El despachador procedió a ello inmediatamente después de obtener la información inicial.
@@ -1849,6 +1837,7 @@ De lo anterior se desprende que, si la actividad de construcción se realiza de 
 En la evaluación de la influencia de las actividades de construcción en la seguridad de la infraestructura ferroviaria y del tráfico ferroviario explotados, y a la inversa, la influencia de la infraestructura ferroviaria y del tráfico ferroviario explotados en la construcción, o bien en la evaluación y establecimiento de las medidas para eliminar los riesgos de seguridad, el Órgano de Control Ferroviario desempeña un papel insustituible en el procedimiento administrativo de construcción.
 
 ## Página 58
+
 
 El control del cumplimiento de la documentación del proyecto y de las condiciones establecidas en la resolución de autorización de obra se realiza mediante la supervisión de obra. En el caso de actividades de construcción con un mayor nivel de riesgo para la protección de los intereses públicos (en el presente caso, por ejemplo, en la decisión sobre la realización de actividades de construcción sobre una línea ferroviaria en servicio sin restricciones al tráfico), se puede establecer, de conformidad con el artículo 147 de la Ley n.º 183/2006 Coll., la condición de participación de un inspector autorizado para supervisar la ejecución de la obra.
 
@@ -1872,6 +1861,7 @@ El valor de la velocidad de línea en el lugar de la obra se estableció, según
 Debido a lo anteriormente expuesto, la DI no consideró la no restricción temporal de la velocidad de línea en el lugar de la obra «Reconstrucción del puente núm. de registro 464-014 sobre la línea de ČD en Studénka» en relación causal con la aparición del accidente.
 
 ## Página 59
+
 
 Durante el procedimiento de construcción ni durante la ejecución de las obras, hasta el derrumbe de la estructura del puente, no fue designado por la autoridad de construcción, ni por el contenido de las condiciones de autorización de la obra en la zona de protección ferroviaria establecidas por la Autoridad Ferroviaria, ni por el promotor, un inspector autorizado que, conforme al apartado 1 letra a) del artículo 149 de la Ley n.º 183/2006 Coll., certificara mediante el método establecido en el artículo 117 de la Ley n.º 183/2006 Coll. que la obra «Reconstrucción del puente núm. de registro 464-014 sobre la vía de ČD en Studénka» podía llevarse a cabo, y que, conforme al apartado 1 letra a) del artículo 149 de la Ley n.º 183/2006 Coll., supervisara la ejecución de la obra durante la construcción.
 
@@ -1898,6 +1888,7 @@ Hasta la aparición del accidente, el contratista de la obra, a diferencia de la
 
 ## Página 60
 
+
 MOSTU ev. č. 464-014 PŘES TRAŤ ČD VE STUDÉNCE“, č. j.: 1-1367/2008/DI, ze dne 14. 08. 2008.
 
 La alteración del perfil de paso de las vías de estación n.º 101 a 105b provocada por el derrumbe de la estructura del puente viario, ev. č. 464-014, en el recinto de la estación de mercancías de la estación de Studénka, delante del tren en circulación EC 108, constituyó, a tenor del artículo 22 apartado 4 de la ley n.º 266/1994 Coll., una amenaza para la explotación de la vía férrea y del transporte ferroviario, que tuvo como consecuencia lesiones a personas y daños en componentes de la vía y de los vehículos ferroviarios, debido al incumplimiento de las condiciones para la ejecución de la obra, establecidas en la «DECISIÓN» sobre la autorización de la obra «Reconstrucción del puente ev. č. 464-014 a través de la vía de ČD en Studénka», emitida por el Ayuntamiento de Bílovec, Departamento de Transporte y Economía Vial, con referencia: DSH/4835-08/167-2008/Vavre, de fecha 21. 04. 2008. Entre las condiciones establecidas en la Decisión figura también la condición contenida en el dictamen global del explotador de la vía, referencia: 12576/2006, de fecha 11. 08. 2006, mediante la cual el explotador de la vía condicionó su consentimiento para la obra, situada en la zona de protección de la vía, a que se respetara el perfil de paso de todas las vías de estación durante las obras de construcción de la reconstrucción del puente.
@@ -1917,6 +1908,7 @@ Todos los vehículos ferroviarios participantes en el accidente fueron utilizado
 Antes de la salida del tren EC 108 de la estación de Bohumín, el maquinista, en contravención de lo dispuesto en el artículo 68 apartado 3 del decreto n.º 173/1995 Coll. y de los procedimientos tecnológicos del explotador de la vía contenidos en el artículo 591 del reglamento interno SŽDC (ČD) D2, fue informado mediante una orden escrita, Orden General n.º 0000328-982, de fecha 08. 08. 2008, sobre los cambios inmediatos de los parámetros técnico-constructivos de las construcciones de la vía y de las construcciones en la vía, que tienen una influencia directa en la seguridad y la fluidez del transporte ferroviario, de manera no demostrable. Al maquinista del tren EC 108 se le entregó únicamente una copia (transcripción)
 
 ## Página 61
+
 
 de la orden escrita. La avería, consistente en la no demostrable notificación al maquinista, fue reclamada por el maquinista, de conformidad con los procedimientos tecnológicos del explotador de la vía contenidos en el art. 602 del reglamento interno de SŽDC (ČD) D2. La avería fue subsanada posteriormente por el jefe de estación de la estación de Bohumín. La avería en la notificación demostrable al maquinista influyó en la regularidad del tráfico y provocó un aumento del retraso del tren EC 108 de +6 min, es decir, el retraso de +4,5 min se incrementó hasta +10,5 min.
 
@@ -1938,6 +1930,7 @@ El maquinista del tren EC 108 condujo el HDV, de conformidad con el apartado 1 l
 
 ## Página 62
 
+
 Mediante la inspección del conjunto del tren EC 108 en el lugar del accidente, se determinó que la maneta del selector de modo de frenado P-R-Mg del TDV 73 54 10-91 003-9 Ampz, situado como último TDV del tren, se encontraba en la posición bloqueada «R», en lugar de la posición bloqueada «R+Mg» contemplada en los procedimientos tecnológicos unitarios del transportista, recogidos en el art. 23 del reglamento interno ČD V15/I. La masa frenante del TDV indicada en el selector P-R-Mg para la posición «R» era de 71 t en negro, 75 t en rojo, y para la posición «R+Mg» era de 108 t en rojo. La masa frenante real del tren EC 108 era de 741 t. Según la declaración del transportista ČD, a. s., en el documento «Exigencia de eliminación de las deficiencias detectadas» n.º de registro: 1-1348/2008/DI-2, y del conductor de pasajeros del tren EC 108 en el documento «ACTA CON EL EMPLEADO», de fecha 11.08.2008, el selector P-R-Mg del TDV 73 54 10-91 003-9 Ampz en la estación de Bohumín se encontraba en la posición «R+Mg».
 
 Antes de la producción del accidente, el tren EC 108 no estaba frenado con el efecto de frenado máximo. Por esta razón, a petición del Instituto de Investigación (DI), la Universidad Técnica de Ostrava – Universidad de Tecnología Minera, Facultad de Ingeniería Mecánica, Instituto de Transporte, elaboró el «Cálculo de las características de frenado ante el cambio de la capacidad de frenado del conjunto de vehículos ferroviarios», n.º de registro: 1-1374/2008/DI-1, de fecha 20.11.2008, del que se desprende:
@@ -1957,18 +1950,19 @@ El operador del transporte ferroviario ČD, a. s., en relación con el art. 282 
 
 ## Página 63
 
-en el sentido del artículo 35, apartado 1, letra a), de la Ley n.º 266/1994 Coll., no garantizó la explotación del transporte ferroviario conforme a las normas de explotación del transporte ferroviario, a la licencia vigente y a los contratos celebrados con el titular de la infraestructura ferroviaria para la explotación del transporte ferroviario en la vía, al no indicarse y no computarse en el Informe Internacional de frenado del tren el peso de frenado correcto de 71 t del TDV 73 54 10-
-### 91 003-9 Ampz, situado detrás del grupo 9 de TDV sin aceleradores de tubería. La indicación y el cómputo de un peso de frenado incorrecto del TDV tuvieron como consecuencia el cálculo incorrecto del peso de frenado del tren y el cálculo incorrecto del porcentaje de frenado real.
-Dadas las causas y las circunstancias de la aparición del accidente, no puede considerarse este hallazgo en relación causal con la aparición del accidente de que se trata.
-Al indicar datos incorrectos sobre las condiciones de frenado del tren EC 108 en el Informe Internacional de frenado del tren, el maquinista no fue informado, en contravención de los procedimientos tecnológicos uniformes del transportista contenidos en el artículo 261, letra d), del reglamento interno ČD V15/I, de la necesidad de respetar la distribución de la distancia de frenado en dos distancias de frenado consecutivas y de ajustar en consecuencia la velocidad del tren. En contravención de lo dispuesto en el artículo 37, apartado 2, del Decreto n.º 173/1995 Coll., el efecto de frenado del tren EC 108 no garantizaba la parada segura del tren en la distancia de frenado.
-El titular de la explotación del transporte ferroviario ČD, a. s., en relación con lo dispuesto en el artículo 37, apartado 2, del Decreto n.º 173/1995 Coll. y en el artículo 261, letra d), del reglamento interno ČD V15/I, en el sentido del artículo 35, apartado 1, letra a), de la Ley n.º 266/1994 Coll., no garantizó la explotación del transporte ferroviario conforme a las normas de explotación del transporte ferroviario, a la licencia vigente y a los contratos celebrados con el titular de la infraestructura ferroviaria para la explotación del transporte ferroviario en la vía, al no garantizar el efecto de frenado del tren EC 108 la parada segura del tren en la distancia de frenado.
-Dadas las causas y las circunstancias de la aparición del accidente, no puede considerarse este hallazgo en relación causal con la aparición del accidente de que se trata.
-Mediante la inspección del impreso «Informe Internacional de frenado del tren», elaborado el 08. 08. 2008 en la estación de Kraków Wsch. para el tren 34000 y completado en la estación de Kraków Gł. para el tren EC 108, se constató que el tren EC 108 se frenó en el tramo Kraków Gł. – Bohumín mediante el primer método de frenado, con un requisito de porcentaje de frenado necesario del 100 %. La masa del tren era de 370 t, el peso de frenado de 554 t, el porcentaje de frenado real del 147 %, el régimen de frenado R+Mg, cuatro TDV tenían activado el freno «R» y dos TDV tenían activado el freno «R+Mg». Según el Międzynarodowy wykaz wagonów w składzie pociągu pasażerskiego (lista internacional de vehículos para trenes de viajeros), el TDV 61 51 21-70 0228-4 Bdmnu61, situado como segundo TDV detrás de la locomotora, y el TDV 73 54 10-91 003-9 Ampz, situado como sexto TDV detrás de la locomotora, tenían activado el freno en el régimen R+Mg. A pesar de que el resto de TDV del tren EC 108 no estaban equipados con aceleradores de tubería, en la fila n.º 52 del Informe Internacional de frenado del tren, para el TDV 73 54 10-91 003-9 Ampz, situado
-### como sexto TDV detrás de la locomotora, se computó un peso de frenado de 108 t en lugar de 88 t.
-Por la razón anteriormente expuesta, el Órgano de Inspección (DI), en el sentido del CAPÍTULO V, artículo 21, apartado 5, de la DIRECTIVA DEL PARLAMENTO EUROPEO Y DEL CONSEJO 2004/49/CE, de 29 de abril de 2004, en su versión vigente, solicitó la colaboración y la investigación de esta deficiencia al órgano de inspección independiente de la República de Polonia – Państwowa Komisja Badania Wypadków Kolejowych. Este último confirmó el hallazgo del DI en el documento n.º de registro: 1- 478/2008/DI-1, de 05. 01. 2009. En la fila 52 del «Informe Internacional de frenado del tren» para el tren EC 108, tramo Kraków Gł. – Bohumín, el transportista PKP INTERCITY indicó y computó incorrectamente el peso de frenado del TDV 73 54 10-91 003-9 Ampz de 108 t en lugar de 88 t, en contravención del artículo 32, apartado 6, punto 2), letra g), del reglamento interno del transportista PKP INTERCITY «Cw1 (Mw1) Instrukcja obsługi i utrzymania w eksploatacji hamulców taboru kolejowego» (Instrucciones para la operación y el mantenimiento de los sistemas de frenado de los vehículos ferroviarios en servicio). La indicación y el cómputo de un peso de frenado incorrecto del TDV tuvieron como consecuencia el cálculo incorrecto del peso de frenado y el cálculo incorrecto del porcentaje de frenado real. El valor del peso de frenado indicado incorrectamente fue de 554 t en lugar de 534 t y el valor del porcentaje de frenado real indicado incorrectamente fue del 147 % en lugar del 144 %.
-Dadas las causas y las circunstancias de la aparición del accidente, no puede considerarse este hallazgo en relación causal con la aparición del accidente de que se trata.
+en el sentido del § 35 apartado 1 letra a) de la Ley núm. 266/1994 Sb., no garantizó la explotación del transporte ferroviario de acuerdo con las reglas de explotación del transporte ferroviario, la licencia vigente y el contrato celebrado con el explotador de la vía sobre la explotación del transporte ferroviario en la vía, al no figurar y no haberse computado en el Informe Internacional sobre el frenado del tren la masa de frenado correcta de 71 t del TDV 73 54 10-
+### 91 003-9 Ampz, enganchado detrás del grupo de 9 TDV sin aceleradores de tubería. El hecho de figurar y computarse una masa de frenado incorrecta del TDV tuvo como resultado el cálculo incorrecto de la masa de frenado del tren y el cálculo incorrecto del porcentaje de frenado real.
+Dadas las causas y circunstancias de la aparición de la MU, la constatación indicada no puede valorarse en relación causal con la aparición de la MU en cuestión.
+Al figurar datos incorrectos sobre las condiciones de frenado del tren EC 108 en el Informe Internacional sobre el frenado del tren, no se informó al maquinista, en contradicción con los procedimientos tecnológicos uniformes del transportista contenidos en el art. 261 letra d) de la normativa interna ČD V15/I, de la necesidad de respetar la distribución de la distancia de frenado en dos distancias de frenado consecutivas y de ajustar en consecuencia la velocidad de circulación del tren. En contradicción con lo dispuesto en el § 37 apartado 2 del decreto núm. 173/1995 Sb., el efecto de frenado del tren EC 108 no garantizaba la detención segura del tren dentro de la distancia de frenado.
+El explotador del transporte ferroviario ČD, a. s., en relación con lo dispuesto en el § 37 apartado 2 del decreto núm. 173/1995 Sb. y el art. 261 letra d) de la normativa interna ČD V15/I, en el sentido del § 35 apartado 1 letra a) de la Ley núm. 266/1994 Sb., no garantizó la explotación del transporte ferroviario de acuerdo con las reglas de explotación del transporte ferroviario, la licencia vigente y el contrato celebrado con el explotador de la vía sobre la explotación del transporte ferroviario en la vía, al no garantizar el efecto de frenado del tren EC 108 la detención segura del tren dentro de la distancia de frenado.
+Dadas las causas y circunstancias de la aparición de la MU, la constatación indicada no puede valorarse en relación causal con la aparición de la MU en cuestión.
+De la comprobación del impreso «Informe Internacional sobre el frenado del tren», elaborado el 08. 08. 2008 en la estación Kraków Wsch. para el tren 34000 y completado en la estación Kraków Gł. para el tren EC 108, se constató que el tren EC 108 fue frenado en el tramo Kraków Gł. – Bohumín por el método de frenado I, con normativo de porcentajes de frenado necesarios del 100. La masa del tren era de 370 t, la masa de frenado de 554 t, los porcentajes de frenado reales del 147, el régimen de frenado R+Mg, cuatro TDV tenían activado el freno «R» y dos TDV tenían activado el freno «R+Mg». Según el Międzynarodowy wykaz wagonów w składzie pociągu pasażerskiego (informe internacional de vehículos para tren de pasajeros), tenían el freno en régimen R+Mg activado el TDV 61 51 21-70 0228-4 Bdmnu61, enganchado como 2.º TDV tras el HDV, y el TDV 73 54 10-91 003-9 Ampz, enganchado como 6.º TDV tras el HDV. A pesar de que los demás TDV del tren EC 108 no estaban equipados con acelerador de tubería, en la línea n.º 52 del Informe Internacional sobre el frenado del tren, para el TDV 73 54 10-91 003-9 Ampz, enganchado
+### como 6.º TDV tras el HDV, se computó una masa de frenado de 108 t en lugar de una masa de frenado de 88 t.
+Por el motivo expuesto, la DI, en el sentido del CAPÍTULO V, artículo 21, apartado 5 de la DIRECTIVA DEL PARLAMENTO EUROPEO Y DEL CONSEJO 2004/49/CE, de 29. 04. 2004, en su versión vigente, solicitó la colaboración y la investigación de la deficiencia indicada al órgano de inspección independiente de la República de Polonia – Państwowa Komisja Badania Wypadków Kolejowych. Este, en el documento n.º de referencia: 1-478/2008/DI-1, de 05. 01. 2009, confirmó la constatación de la DI. En la línea 52 del «Informe Internacional sobre el frenado del tren» para el tren EC 108, tramo Kraków Gł. – Bohumín, el transportista PKP INTERCITY figuró y computó incorrectamente, en contradicción con el § 32 apartado 6 punto 2) letra g) de la normativa interna del transportista PKP INTERCITY «Cw1 (Mw1) Instrukcja obsługi i utrzymania w eksploatacji hamulców taboru kolejowego» (Manual de operación y mantenimiento de los sistemas de freno de los vehículos ferroviarios en servicio), la masa de frenado del TDV 73 54 10-91 003-9 Ampz en 108 t en lugar de 88 t. El hecho de figurar y computarse una masa de frenado incorrecta del TDV tuvo como resultado el cálculo incorrecto de la masa de frenado y el cálculo incorrecto del porcentaje de frenado real. El valor de la masa de frenado figurada incorrectamente era de 554 t en lugar de 534 t y el valor del porcentaje de frenado real figurado incorrectamente era de 147 en lugar de 144.
+Dadas las causas y circunstancias de la aparición de la MU, la constatación indicada no puede valorarse en relación causal con la aparición de la MU en cuestión.
 
 ## Página 64
+
 
 El reglamento interno del transportista ČD, a. s., ČD V15/I, ni ningún otro procedimiento tecnológico uniforme del transportista establecían, en el momento de la producción del accidente, el procedimiento de las actividades para la prueba de permeabilidad del conducto de alimentación realizada en el sentido del artículo 161 del reglamento interno ČD V15/I durante la ejecución de la prueba simple del freno del tren frenado en el régimen R+Mg, véase «ACTA sobre la ejecución de la supervisión estatal en materia de ferrocarriles», núm. de ref.: 1-1479/2008/DI-1, de fecha 18.09.2008. El procedimiento de las actividades para la prueba de permeabilidad del conducto de alimentación estaba establecido en el reglamento interno ČD V15/I, en el artículo 145, letra c), el cual, sin embargo, establecía los procedimientos de las actividades para la ejecución de la prueba completa del freno y, por tanto, era inaplicable para la aplicación al artículo 161 en el sentido del reglamento interno «ČD V15/I Reglamento para la explotación y la manipulación de los dispositivos de freno de los vehículos ferroviarios sobre raíles», en su versión vigente.
 
@@ -1988,6 +1982,7 @@ Del análisis del archivo TPC1 ESA 11 de la estación de Studénka, véase el do
 
 ## Página 65
 
+
 en las vías de estación n.º 104, 102, 101, 103 y 105b de la estación de Studénka, sector de la estación de mercancías, bajo el puente viario reconstruido, n.º de registro 464-014, el día 08. 08. 2008, en el periodo comprendido entre las 06:00 h y el momento de la circulación del tren EC 108, transitaron un total de 59 trenes. Eran trenes que tenían en el lugar de producción del incidente la velocidad máxima permitida comprendida entre 40 km/h y 150 km/h.
 No se produjo ningún cruce de trenes bajo el puente viario reconstruido, n.º de registro 464-014, en el periodo de tiempo analizado.
 Mediante la evaluación de los datos registrados por los dispositivos de grabación instalados en los vehículos ferroviarios de los trenes mencionados, excepto el tren IC 502, no se detectó en ninguno de los trenes en el lugar de producción del incidente un exceso de la velocidad máxima permitida. El tren IC 502 «Pendolino», explotado por el transportista ČD, a. s., el día 08. 08. 2008 estaba compuesto por la unidad eléctrica serie 681.001-4/682.001-3. En el periodo comprendido aproximadamente entre las 07:36:22 h y las 07:36:51 h, es decir, entre las 02:54:05 h y las 02:53:36 h antes de la producción del incidente, entre el punto kilométrico 243,800 y el 242,920 de la línea Bohumín – Přerov, es decir, también en el punto kilométrico 243,576, en el lugar del cruce no a nivel de la vía ferroviaria con la vía terrestre, carretera de segunda categoría n.º 464, Bílovec – Příbor, que se resuelve mediante un paso superior viario – puente, n.º de registro 464-014, se superó la velocidad máxima permitida de 150 km/h en 9 a 10 km/h, véase «Acta de la ejecución del control estatal en materia de vías – requerimiento para la eliminación de las deficiencias detectadas», n.º de expediente: 5-596/09, del día 08. 10. 2009.
@@ -2003,78 +1998,51 @@ Mediante la alteración de la sección de paso de las vías de estación n.º 10
 ## Página 66
 
 ### 4.3.2 Causas fundamentales relacionadas con la cualificación, los procedimientos y el mantenimiento
-La Inspección Ferroviaria (DI) no investigó las causas del derrumbe de la estructura del puente, sino que se centró en garantizar la seguridad de la vía y del transporte ferroviario durante la ejecución de las obras de construcción en el lugar de la obra «Reconstrucción del puente nº 464-014 sobre la línea de ČD en Studénka». En este ámbito se detectó la siguiente causa:
-la no determinación de condiciones eficaces que eliminen los riesgos de seguridad derivados de las influencias mutuas
+El DI no investigó las causas de la caída de la estructura del puente, sino que se centró en garantizar la seguridad de la vía y del transporte ferroviario durante la realización de las actividades constructivas en el lugar de la obra «Reconstrucción del puente n.º de expediente 464-014 sobre la línea de ČD en Studénka». En este ámbito se constató la siguiente causa:
+no establecimiento de condiciones eficaces que eliminen los riesgos de seguridad de las influencias mutuas
 –
-entre las actividades de construcción en la obra y la vía y el transporte ferroviario explotados, en el marco de las actuaciones previas a la emisión de la resolución de autorización de la obra.
-
-### 4.3.3 Causas derivadas del marco normativo y del uso del sistema de garantía de la seguridad
-No se detectaron causas derivadas del marco normativo y del uso del sistema de garantía de la seguridad.
-
+actividades constructivas en la obra y vías y transporte ferroviario en explotación en el marco de las actuaciones previas a la emisión de la decisión de autorización de la obra.
+### 4.3.3 Causas debidas al marco normativo y al uso del sistema de garantía de la seguridad
+Las causas debidas al marco normativo y al uso del sistema de garantía de la seguridad no fueron constatadas por el DI.
 ### 4.4 Hallazgos complementarios
-
-### 4.4.1 Deficiencias y omisiones detectadas durante la investigación de las causas y las circunstancias de la aparición del incidente grave, que no son, sin embargo, relevantes para las conclusiones sobre las causas
-
-Por parte del gestor de la infraestructura, SŽDC, s. o., durante la investigación de las causas y las circunstancias de la aparición del incidente grave (MU), se detectó la siguiente deficiencia, que no es, sin embargo, relevante para las conclusiones sobre las causas del incidente grave:
-en relación con lo dispuesto en el apartado 3 del artículo 68 del Decreto nº 173/1995 Sb. y en el artículo 28 del reglamento interno
+### 4.4.1 Deficiencias y omisiones constatadas durante la investigación de las causas y circunstancias del suceso ferroviario, que sin embargo no son relevantes para las conclusiones sobre las causas
+Por parte del gestor de la infraestructura, SŽDC, s. o., durante la investigación de las causas y circunstancias del suceso ferroviario se constató la siguiente deficiencia, que sin embargo no es relevante para las conclusiones sobre las causas del suceso ferroviario:
+en cumplimiento de lo dispuesto en el § 68 apartado 3 del decreto n.º 173/1995 Sb. y del art. 28 de la instrucción interna
 –
-de SŽDC (ČD) D2, en el sentido del apartado 1, letra a), del artículo 22 de la Ley nº 266/1994 Sb., no garantizó la explotación de la vía para las necesidades de un transporte ferroviario fluido y seguro conforme a las normas de explotación de la vía y a la autorización administrativa, al no proporcionar de manera primaria y no demostrable al maquinista del tren EC 108 información sobre los cambios inmediatos de los parámetros técnico-constructivos de las obras de la vía y de las construcciones en la vía, que tienen una influencia directa en la seguridad y la fluidez del transporte ferroviario, antes de la salida de la estación de Bohumín, lo que provocó un aumento del retraso del tren EC 108 de +6 min.
-
-Por parte del operador del transporte ferroviario, ČD, a. s., durante la investigación de las causas y las circunstancias de la aparición del incidente grave, se detectaron las siguientes deficiencias, que no son, sin embargo, relevantes para las conclusiones sobre las causas del incidente grave:
-en relación con el artículo 23 del reglamento interno ČD V15/I, en el sentido del apartado 1, letra a), del artículo 35 de la Ley
+SŽDC (ČD) D2, en el sentido del § 22 apartado 1 letra a) de la ley n.º 266/1994 Sb., no garantizó la explotación de la vía para las necesidades del transporte ferroviario fluido y seguro de acuerdo con las reglas para la explotación de la vía y la autorización administrativa, al causar, mediante la notificación inicial no verificable al maquinista del tren EC 108 de los cambios inmediatos de los parámetros técnico-constructivos de las obras de vía y de las obras en la vía, que tienen una influencia directa en la seguridad y la fluidez del transporte ferroviario, antes de la salida de la est. Bohumín, un aumento de la retraso del tren EC 108 de +6 min.
+Por parte del gestor del transporte ferroviario, ČD, a. s., durante la investigación de las causas y circunstancias del suceso ferroviario se constataron las siguientes deficiencias, que sin embargo no son relevantes para las conclusiones sobre las causas del suceso ferroviario:
+en cumplimiento del art. 23 de la instrucción interna ČD V15/I, en el sentido del § 35 apartado 1 letra a) de la ley
 –
-nº 266/1994 Sb., no garantizó la explotación del transporte ferroviario conforme a las normas de explotación del transporte ferroviario, a la licencia vigente y al contrato celebrado con el gestor de la infraestructura sobre la explotación del transporte ferroviario en la vía, al no frenar el tren EC 108 con el efecto de frenado máximo antes de la aparición del incidente grave;
-en relación con el artículo 282 del reglamento interno ČD V15/I, en el sentido del apartado 1, letra a), del artículo 35 de la Ley
+n.º 266/1994 Sb., no garantizó la explotación del transporte ferroviario de acuerdo con las reglas de explotación del transporte ferroviario, la licencia vigente y el contrato celebrado con el gestor de la infraestructura sobre la explotación del transporte ferroviario en la vía, al no haberse frenado el tren EC 108 con la máxima potencia de frenado antes de la producción del suceso ferroviario;
+en cumplimiento del art. 282 de la instrucción interna ČD V15/I, en el sentido del § 35 apartado 1 letra a) de la ley
 –
-nº 266/1994 Sb., no garantizó la explotación del transporte ferroviario conforme a las normas de explotación del transporte ferroviario, a la licencia vigente y al contrato celebrado con el gestor de la infraestructura sobre la explotación del transporte ferroviario en la vía, al no indicar y tener en cuenta en el Informe Internacional de frenado del tren el peso de frenado correcto de 71 t del vagón TDV 73 54 10-91 003-9 Ampz, situado detrás del grupo 9 de vagones TDV sin aceleradores de tubería. La indicación y el cálculo del peso de frenado incorrecto del vagón TDV provocaron un cálculo incorrecto del peso de frenado del tren y un cálculo incorrecto del porcentaje real de frenado;
-en relación con lo dispuesto en el apartado 2 del artículo 37 del Decreto nº 173/1995 Sb. y en el artículo 261, letra d), del reglamento
+n.º 266/1994 Sb., no garantizó la explotación del transporte ferroviario de acuerdo con las reglas de explotación del transporte ferroviario, la licencia vigente y el contrato celebrado con el gestor de la infraestructura sobre la explotación del transporte ferroviario en la vía, al no figurar y no haberse computado en el Informe Internacional sobre el frenado del tren la masa frenante correcta de 71 t del TDV 73 54 10-91 003-9 Ampz, enganchado detrás del grupo 9 de TDV sin aceleradores de tubería. El hecho de indicar y computar una masa frenante incorrecta del TDV tuvo como consecuencia un cálculo incorrecto de la masa frenante del tren y un cálculo incorrecto del porcentaje de frenado real;
+en cumplimiento de lo dispuesto en el § 37 apartado 2 del decreto n.º 173/1995 Sb. y del art. 261 letra d) de la instrucción
 –
-interno ČD V15/I, en el sentido del apartado 1, letra a), del artículo 35 de la Ley nº 266/1994 Sb., no garantizó la explotación del transporte ferroviario conforme a las normas de explotación del transporte ferroviario, a la licencia vigente y al contrato celebrado con el gestor de la infraestructura sobre la explotación del transporte ferroviario en la vía, al no garantizar el efecto de frenado del tren EC 108 una parada segura del tren en la distancia de frenado;
+interna ČD V15/I, en el sentido del § 35 apartado 1 letra a) de la ley n.º 266/1994 Sb., no garantizó la explotación del transporte ferroviario de acuerdo con las reglas de explotación del transporte ferroviario, la licencia vigente y el contrato celebrado con el gestor de la infraestructura sobre la explotación del transporte ferroviario en la vía, al no garantizar la potencia de frenado del tren EC 108 la detención segura del tren en la distancia de frenado;
 
 ## Página 67
 
-en el sentido del apartado 1, letra a), del artículo 35 de la Ley nº 266/1994 Sb., no garantizó la explotación del transporte ferroviario
-–
-conforme a las normas de explotación del transporte ferroviario, a la licencia vigente y al contrato celebrado
-con el gestor de la infraestructura sobre la explotación del transporte ferroviario en la vía, al no informar el jefe de trenes en
-la «estación de THÚ» DKV Olomouc, PJ Bohumín, antes o durante la verificación del funcionamiento del freno en la
-prueba de freno simple del tren EC 108, sobre el régimen de frenado del tren;
-en el sentido del apartado 1, letra a), del artículo 35 de la Ley nº 266/1994 Sb., no garantizó la explotación del transporte ferroviario
-–
-conforme a las normas de explotación del transporte ferroviario, a la licencia vigente y al contrato celebrado
-con el gestor de la infraestructura sobre la explotación del transporte ferroviario en la vía, al no establecer su conjunto
-de medidas organizativas y tecnológicas para la explotación segura del transporte ferroviario el procedimiento de las actividades
-durante la prueba de permeabilidad de la tubería de alimentación durante la realización de la prueba de freno simple del tren
-frenado en el régimen R+Mg, aunque su realización estaba prescrita al transportista por el artículo 161 del reglamento interno ČD
-V15/I;
-en el sentido del apartado 1, letra i), del Decreto nº 173/1995 Sb., no garantizó que el maquinista del tren
-–
-IC 502, el 08. 08. 2008, entre el punto kilométrico (pk) 243,800 y el pk 242,920 de la línea Bohumín – Přerov, es decir, también en el pk 243,576,
-en el lugar de cruce no a nivel de la vía ferroviaria con la carretera terrestre, carretera de segunda categoría nº 464,
-Bílovec – Příbor, que está resuelto mediante un paso superior de carretera – puente, nº 464-014, no superara
-la velocidad máxima permitida de 150 km/h en 9 a 10 km/h.
+en el sentido del § 35 apartado 1 letra a) de la Ley núm. 266/1994 Sb. no garantizó la explotación del transporte ferroviario – conforme a las normas de explotación del transporte ferroviario, la licencia vigente y el contrato celebrado con el explotador de la vía sobre la explotación del transporte ferroviario en la vía, al no informar al jefe de tren en la «estación THÚ» DKV Olomouc, PJ Bohumín, antes o durante la verificación de la función del freno en la prueba simple de freno del tren EC 108, sobre el modo de frenado del tren;
+en el sentido del § 35 apartado 1 letra a) de la Ley núm. 266/1994 Sb. no garantizó la explotación del transporte ferroviario – conforme a las normas de explotación del transporte ferroviario, la licencia vigente y el contrato celebrado con el explotador de la vía sobre la explotación del transporte ferroviario en la vía, al no establecer su conjunto de medidas organizativas y tecnológicas para la explotación segura del transporte ferroviario el procedimiento de las actividades en la prueba de estanqueidad de la tubería de suministro al realizar la prueba simple de freno del tren frenado en el modo R+Mg, aunque su realización fuera prescrita por el art. 161 de la norma interna de ČD V15/I por el transportista;
+en el sentido del § 35 apartado 1 letra i) del decreto núm. 173/1995 Sb. no garantizó que el maquinista del tren – IC 502, el 08. 08. 2008, en el km 243,800 hasta el 242,920 de la línea Bohumín – Přerov, es decir, también en el km 243,576, en el lugar del cruce en nivel distinto de la vía ferroviaria con la vía pública, la carretera de clase II núm. 464, Bílovec – Příbor, que está resuelto mediante un paso superior – puente, n.º de referencia 464-014, no superara la velocidad máxima permitida de 150 km.h-1 en 9 a 10 km.h-1.
 
 ## 5 MEDIDAS ADOPTADAS
 
-### 5.1 Relación de las medidas ya adoptadas o tomadas como consecuencia del incidente grave
+### 5.1 Lista de medidas que ya se han tomado o adoptado como consecuencia del suceso excepcional
 
-Por parte del gestor de la infraestructura ni de los transportistas participantes en el incidente grave, en el sentido del apartado 3, letra e), del artículo 49 de la Ley nº 266/1994 Sb. y del apartado 1 del artículo 13 del Decreto nº 376/2006 Sb., no se adoptaron medidas
-para prevenir el incidente grave.
+Ni por parte del explotador de la vía ni por parte de los transportistas participantes en el SE, en el sentido del § 49 apartado 3 letra e) de la Ley núm. 266/1994 Sb. y del § 13 apartado 1 del decreto núm. 376/2006 Sb., se han adoptado medidas para la prevención de SE.
 
 ## 6 RECOMENDACIONES DE SEGURIDAD
 
-De conformidad con lo dispuesto en el anexo nº 7 del Decreto nº 376/2006 Sb., sobre el sistema de seguridad de la explotación de la vía y del transporte ferroviario y los procedimientos en caso de aparición de incidentes graves en las vías, la Inspección Ferroviaria recomienda a la Oficina Ferroviaria, como organismo nacional de seguridad para el ámbito de las vías y del transporte ferroviario:
+De conformidad con lo dispuesto en el anexo núm. 7 del decreto núm. 376/2006 Sb., sobre el sistema de seguridad de la explotación de la vía y del transporte ferroviario y los procedimientos en caso de producción de sucesos excepcionales en las vías, la Inspección Ferroviaria recomienda a la Oficina Ferroviaria, como organismo nacional de seguridad en el ámbito de las vías y del transporte ferroviario:
 
-en el procedimiento de construcción de las obras de la vía, de las construcciones en estas vías y en su zona de protección, donde
-la Oficina Ferroviaria, en el sentido del apartado 1 del artículo 7 de la Ley nº 266/1994 Sb. y del apartado 1, letra b), del artículo 15 de la Ley
-nº 183/2006 Sb., ejerce las funciones de autoridad de construcción o, en el sentido del apartado 3 del artículo 7 de la Ley
-nº 266/1994 Sb. y de los artículos 110, 111 y 112 de la Ley nº 183/2006 Sb., ejerce las funciones del órgano afectado:
+en el procedimiento de construcción de obras de vía, obras en dichas vías y en su franja de protección, donde la Oficina Ferroviaria, en el sentido del § 7 apartado 1 de la Ley núm. 266/1994 Sb. y del § 15 apartado 1 letra b) de la Ley núm. 183/2006 Sb., ejerce la competencia de la autoridad de construcción, o en el sentido del § 7 apartado 3 de la Ley núm. 266/1994 Sb. y de los §§ 110, 111 y 112 de la Ley núm. 183/2006 Sb., ejerce la competencia del órgano afectado:
 
-1. garantizar que, durante el procedimiento de construcción, se realice un análisis de las influencias de las actividades de construcción
-de la obra sobre la vía explotada y el transporte ferroviario, y de las influencias de la vía explotada y el transporte ferroviario
-sobre las actividades de construcción de la obra;
+1. garantizar que, durante el procedimiento de construcción, se realice el análisis de las influencias de las actividades de construcción de la obra sobre la vía explotada y el transporte ferroviario, y de las influencias de la vía explotada y del transporte ferroviario sobre las actividades de construcción de la obra;
 
 ## Página 68
+
 
 2. vincular la segunda emisión del consentimiento para la construcción a la establecimiento de condiciones eficaces que eliminen los riesgos derivados del análisis anteriormente mencionado;
 3. condicionar la ejecución de las obras con mayor nivel de riesgo, en el sentido del artículo 149 de la ley n.º 183/2006 Coll., a la presencia de un inspector autorizado con comunicación telefónica directa con la persona que dirige el tráfico ferroviario, para solicitar la parada inmediata del tráfico ferroviario en caso de peligro inminente;
@@ -2098,31 +2066,31 @@ director
 Inspección Territorial de Brno
 Inspección Territorial de Praga
 
-
 ## Página 69
+
 
 ## 7 ANEXOS
 Documentación fotográfica:
 Imagen 1: Vista del atascamiento y la destrucción del HDV 151.018-9, el 1.º TDV y el 3.º TDV del tren EC 108.
 Imagen 2: Vista del frente del HDV 151.018-9 y del tren EC 108.
 
-
 ## Página 70
+
 
 Imagen 3: Vista por la derecha en dirección de circulación del tren EC 108 de la destrucción del TDV,
 atascado contra la estructura portante del puente derrumbado.
 Imagen 4: Vista por la izquierda en dirección de circulación del tren EC 108 del TDV del tren EC
 108 y del 1.º nsl. Pn 60230, atascados contra la estructura portante del puente derrumbado.
 
-
 ## Página 71
+
 
 Imagen 5: Vista detallada de la destrucción del TDV del tren EC 108, atascados entre sí
 contra la estructura portante del puente derrumbado.
 Imagen 6: Vista de la destrucción del TDV 50 54 20-38 009-7 del tren EC 108,
 atascado contra el TDV 80 54 2800 313-3 del tren 1.º nsl. Pn 60230.
 
-
 ## Página 72
+
 
 Imagen 7: Vista del lugar de reunión de los heridos y del lugar de intervención de las unidades del SRI.

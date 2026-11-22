@@ -10,13 +10,14 @@ chars: 102573
 ratio_longitud: 1.25
 tokens_in: 55601
 tokens_out: 40105
-verificacion: revisar
-notas_cifras: ["bloque 1: original bilingüe: se compara contra el idioma principal (EN)", "bloque 2: original bilingüe: se compara contra el idioma principal (CS)", "bloque 4: cifras cortas: 2/124", "bloque 6: original bilingüe: se compara contra el idioma principal (CS)", "bloque 8: cifras cortas: 6/106"]
-avisos: ["bloque 2: ratio 1.61", "bloque 6: ratio 1.72"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 3: original bilingüe: se compara contra el idioma principal (CS)", "página 4: cifras cortas: 1/19", "página 5: original bilingüe: se compara contra el idioma principal (CS)", "página 6: original bilingüe: se compara contra el idioma principal (CS)", "página 9: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -45,13 +46,13 @@ IČ: 75009561
 mail@dicr.cz
 tel.: +420 736 521 003
 
-
 ## Página 2
+
 
 Este informe final es público y todos los hechos en él expuestos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ## 1 RESUMEN
 Fuente: Dopravní podnik Ostrava, a. s.
@@ -81,8 +82,8 @@ No fue detectado ningún factor contribuyente por parte de la Oficina de Inspecc
 No fue detectada ninguna causa sistémica por parte de la Oficina de Inspección Ferroviaria.
 No fue emitida ninguna recomendación de seguridad por parte de la Oficina de Inspección Ferroviaria.
 
-
 ## Página 4
+
 
 ## RESUMEN
 29 de octubre de 2020, 17:22 (16:22 GMT).
@@ -115,8 +116,8 @@ ninguno.
 Recomendación:
 no emitida.
 
-
 ## Página 5
+
 
 # Índice
 1 RESUMEN........................................................................................................................3
@@ -165,8 +166,8 @@ riesgos.........................................................................
 4.2.1 Factores o consecuencias derivados del diseño de los vehículos ferroviarios, de la infraestructura
 ferroviaria o de las instalaciones técnicas.....................................................................30
 
-
 ## Página 6
+
 
 4.2.2 Factores o consecuencias derivados de la instalación y puesta en servicio de los vehículos ferroviarios,
 de la infraestructura ferroviaria o de las instalaciones técnicas......................................30
@@ -206,11 +207,12 @@ ANEXOS..........................................................................
 
 ## Página 7
 
+
 |  | Lista de abreviaturas y símbolos utilizados |
 | BSV COP DC DI DPO DÚ DV EDB HZS IZS MTV MU PČR SSZ VTV ZZ ZZS | cambio de aguja sin contacto Central de aviso Corriente continua Inspección de Ferrocarriles Dopravní podnik Ostrava a s , . . Oficina Ferroviaria vehículo ferroviario vehículos ferroviarios , freno electrodinámico Cuerpo de Bomberos y Salvamento sistema integrado de salvamento tranvía motorizado suceso extraordinario Policía de la República Checa instalación de señalización luminosa para tranvías tranvía de remolque Informe final sobre los resultados de la investigación del suceso extraordinario Servicio de Emergencias Sanitarias |
 
-
 ## Página 8
+
 
 ### Lista de abreviaturas de las disposiciones legales, normas y normativas internas utilizadas
 ley núm. 262/2006 Sb.
@@ -233,57 +235,31 @@ normativa interna de DPO «Reglamentos de explotación D1 para la
 circulación de vehículos ferroviarios», en la redacción vigente en 
 el momento de producirse el SU
 
-
 ## Página 9
 
-## 2 INVESTIGACIÓN Y SUS RELACIONES
+## 2 INVESTIGACIÓN Y SUS CONTEXTO
 ### 2.1 Decisión de iniciar la investigación
-DI decidió iniciar la investigación del SU en cuestión el 30. 10. 2020.
+El DI decidió iniciar la investigación de la MU en cuestión el 30 de 10 de 2020.
 ### 2.2 Fundamentación de la decisión de iniciar la investigación
-DI decidió investigar el SU en cuestión en base a su gravedad, reiteración y a los impactos 
-del SU sobre el explotador ferroviario y el transportista, y en base al § 53b apart. 1 de la ley 
-núm. 266/1994 Sb.
+El DI decidió investigar la MU en cuestión sobre la base de su gravedad, reiteración y de los impactos de la MU en el gestor de la vía y el transportista, y sobre la base del § 53b apartado 1 de la Ley núm. 266/1994 Sb.
 ### 2.3 Alcance y limitaciones de la investigación, incluida la fundamentación correspondiente
-DI se encontró, en el marco de la investigación del SU en cuestión, con la limitación de que 
-no fue posible determinar la causa exacta de la avería: la interferencia de la comunicación 
-inalámbrica (radial) entre el DV del tranvía de servicio (en adelante tranvía) de la expedición 
-de servicio, compuesto por MTV del tipo T6A5 - CS, n.º de inventario 1126 
-y n.º de inventario 1122, y el receptor BSV del sistema de cambio de agujas sin contacto 
-Herman con las bucles de inducción de la aguja n.º 644, que precedió a la producción del SU 
-y que tuvo como consecuencia el aseguramiento permanente (bloqueo) de la aguja n.º 644 
-establecida tras la circulación del tranvía de la expedición de servicio en la posición para 
-la circulación del DV hacia la bifurcación a la izquierda. La razón fue la imposibilidad de 
-determinar retroactivamente la fuente y el parámetro de interferencia de dicha comunicación 
-inalámbrica de forma comprobable, véase el punto 3.1.8 de este II. No obstante, el hecho 
-anteriormente mencionado no influyó en la determinación de las causas de la producción 
-del SU en cuestión.
+El DI, en el marco de la investigación de la MU en cuestión, se enfrentó a una limitación, al no haber sido posible determinar la causa exacta de la avería: la interferencia de la comunicación inalámbrica (radio) entre el DV del tranvía del tren de servicio (en adelante, tranvía), compuesto por los MTV de tipo T6A5 - CS, n.º de ev. 1126 y n.º de ev. 1122, y el receptor BSV del sistema de enclavamiento sin contacto Herman con las bucles de inducción de la aguja n.º 644, que precedió a la aparición de la MU y que tuvo como consecuencia el aseguramiento permanente (bloqueo) de la aguja n.º 644, establecida tras la circulación del tranvía del tren de servicio en la posición para la circulación del DV hacia la bifurcación a la izquierda. El motivo fue la imposibilidad de determinar retroactivamente la fuente y el parámetro de interferencia de la comunicación inalámbrica en cuestión de manera demostrable, véase el punto 3.1.8 de la presente ZZ. No obstante, el hecho anterior no tuvo influencia en la determinación de las causas de la aparición de la MU en cuestión.
 ### 2.4 Descripción resumida de las capacidades y funciones técnicas del equipo de investigación
-Investigación de DI en el lugar del SU:
-DI no participó en la investigación en el lugar del SU.
+Investigación del DI en el lugar de la MU:
+El DI no participó en la investigación en el lugar de la MU.
 Constitución del equipo de investigación:
 no fue necesario constituirlo.
 Colaboración externa:
 no se utilizó.
-2.5. Comunicación y consultas durante la investigación con las personas o entidades 
-que participaron en el suceso
-Al investigar las causas y circunstancias de la producción del SU, DI se basó principalmente 
-en sus propios conocimientos, hallazgos y en su propia documentación fotográfica. Durante 
-la investigación, DI solicitó la documentación recabada durante la investigación al explotador 
-ferroviario, al transportista, a PČR, a HZS de la región de Moravia-Silesia y a ZZS de la 
-región de Moravia-Silesia.
-La investigación de las causas y circunstancias de la producción del SU se realizó de 
-conformidad con la ley núm. 266/1994 Sb. 
-y el decreto núm. 376/2006 Sb.
+2.5. Comunicación y consultas durante la investigación con las personas o entidades que participaron en el suceso
+En la investigación de las causas y circunstancias de la aparición de la MU, el DI se basó principalmente en sus propios conocimientos, hallazgos y en su propia documentación fotográfica. Durante la investigación, el DI solicitó la documentación recabada durante la investigación por parte del gestor de la vía, el transportista, la PČR, el HZS del Moravskoslezský kraj y el ZZS del Moravskoslezský kraj.
+La investigación de las causas y circunstancias de la aparición de la MU se realizó de acuerdo con la Ley núm. 266/1994 Sb. y con el decreto núm. 376/2006 Sb.
 ### 2.6 Descripción del nivel de colaboración ofrecido por las entidades participantes
-El nivel de colaboración con los representantes de la entidad participante en el SU fue estándar. 
-DI realizó, en colaboración con DPO, una prueba de verificación, con el fin de determinar la 
-visibilidad de la señal luminosa variable de la aguja n.º 644 (en adelante señal de la aguja 
-n.º 644) y la señal «Bloqueo y posición de la aguja» emitida por la misma, situada 
-delante de la intersección de las calles Opavská y Martinovská, desde la dirección de la 
-parada Telekomunikační škola.
-
+El nivel de colaboración con los representantes de la entidad participante en la MU fue estándar.
+El DI realizó, en colaboración con el DPO, una prueba de verificación, con el fin de determinar la visibilidad de la señal luminosa variable de la aguja n.º 644 (en adelante, señal de la aguja n.º 644) y de la señal «Bloqueo y posición de la aguja» emitida por la misma, situada antes de la intersección de las calles Opavská y Martinovská, en el sentido de llegada desde la parada Telekomunikační škola.
 
 ## Página 10
+
 
 ### 2.7 Descripción de la investigación, los métodos y las técnicas utilizados para acreditar los hechos 
 y los hallazgos recogidos en el informe
@@ -336,8 +312,8 @@ Coordenadas GPS:
 49.8294192N, 18.1882119E (lugar de la circulación no asegurada) y 49.8293889N, 
 18.1884667E (lugar de la colisión de los tranvías).
 
-
 ## Página 11
+
 
 ### 3.1.3 Descripción del lugar del suceso
 La vía tranviaria de Dopravní podnik Ostrava, a. s., está electrificada con un sistema 
@@ -393,8 +369,8 @@ La vía tranviaria no está dotada, en el lugar de producción del SU, de ningú
 de seguridad. La circulación de tranvías en la línea n.º 03, respectivamente línea n.º 06, 
 es unidireccional y por la derecha.
 
-
 ## Página 12
+
 
 Fig. n.º 1: Esquema del lugar de producción del SU
           Fuente: DI (base cartográfica: mapy.cz)
@@ -430,8 +406,8 @@ en cabeza, se encontraba en la vía n.º 1, a 20,8 m del poste en el que estaba 
 la señal de la aguja n.º 644 válida para los DV que circulan por la vía n.º 2 en sentido 
 contrario;
 
-
 ## Página 13
+
 
 en la posición final tras el SU, el frontal del DV de mando n.º de inventario 979, situado 
 •
@@ -490,6 +466,7 @@ expedición 6/402
 
 ## Página 14
 
+
 | extremo trasero del DV de mando ev.º n.º 979 de la línea n.º 7 servicio , . . , . , 6/402 | 127 37 m , |
 | corazón de la aguja n.º 644 . | 133 82 m , |
 | extremo delantero del DV de mando ev.º n.º 979 de la línea n.º 7 servicio , . . , . , 7/276 | 140 86 m , |
@@ -535,8 +512,9 @@ daño a la salud de 8 pasajeros en ambos tranvías;
 daño a la salud de 2 conductores de tranvía, ambos.
 •
 
-
 ## Página 15
+
+
 El explotador de la vía y el transportista valoraron los daños en:
 DV de la línea n.º 7, servicio 7/276
 835 000 Kč;
@@ -580,10 +558,10 @@ El tranvía de la línea n.º 7, servicio 7/276, estaba compuesto por una compos
 por un MTV parcialmente de piso bajo tipo VarioLFR.E, ev.º n.º 1316, y asimismo 
 un VTV también parcialmente de piso bajo tipo VV60LF, ev.º n.º 301.
 El DV tipo VarioLFR.E surgió de la reconstrucción y modernización total del DV original tipo T3, 
-ev.º n.º 756, siendo la esencia de la reconstrucción del vehículo la aplicación de una serie de componentes completamente nuevos. Entre los elementos fundamentales del DV reconstruido se encuentra el uso de una carrocería de vehículo completamente nueva y parcialmente de piso bajo tipo VarCB3LF/P, una instalación de tracción eléctrica IGBT controlada por microprocesor TV EUROPULSE – CEGELEC, un convertidor estático SMTK 6,3, bogies KOMFORT con suspensión de dos etapas y motores de tracción asíncronos tipo TAM 1004C/R. Los DV estaban conectados mediante un acoplamiento de cable especial y controlados desde la cabina de mando del DV tipo 
-
+ev.º n.º 756, siendo la esencia de la reconstrucción del vehículo la aplicación de una serie de componentes completamente nuevos. Entre los elementos fundamentales del DV reconstruido se encuentra el uso de una carrocería de vehículo completamente nueva y parcialmente de piso bajo tipo VarCB3LF/P, una instalación de tracción eléctrica IGBT controlada por microprocesor TV EUROPULSE – CEGELEC, un convertidor estático SMTK 6,3, bogies KOMFORT con suspensión de dos etapas y motores de tracción asíncronos tipo TAM 1004C/R. Los DV estaban conectados mediante un acoplamiento de cable especial y controlados desde la cabina de mando del DV tipo
 
 ## Página 16
+
 
 VarioLFR.S, ev.º n.º 1316, situada en una cabina cerrada en el espacio de su extremo delantero, es decir, 
 desde un lugar separado del espacio de transporte. La introducción del modo de marcha o de freno la realiza el 
@@ -616,25 +594,23 @@ parámetros de tiempo a segundos completos, entre otros, se desprende:
 | • a las 17:22:47 h | tras recorrer 289 9 m desde el lugar de la última detención, el tranvía entró , , a una velocidad de 19 6 km·h-1 sobre las puntas de la aguja n.º 623 , . , encontrándose a 60 6 m del lugar de la colisión; , |
 | • a las 17:22:48 h | tras recorrer 292 3 m desde el lugar de la última detención, es decir, , , al circular el tranvía por la aguja n.º 623 contra la punta en dirección directa, el conductor a una velocidad de 20 3 km·h-1 finalizó la introducción de la marcha , , |
 
-
 ## Página 17
 
-|  | y continuó circulando por inercia El tranvía se encontraba a 57 5 m del . , lugar de la colisión; |
-| • a las 17:22:50 h | el extremo delantero del DV de mando a una velocidad de 20 6 km·h-1 superó el nivel , del corazón de la aguja n.º 623 El tranvía se encontraba a 45 1 m del . . , lugar de la colisión; |
-| • a las 17:22:54 h | el extremo trasero del DV mandado a una velocidad de 20 km·h-1 superó el nivel del corazón de la aguja n.º 623 El tranvía se encontraba a 20 8 m del . . , lugar de la colisión; |
-| • a las 17:22:57 h | a una velocidad de 22 1 km·h-1, el conductor inició el frenado EDB El tranvía se , . encontraba a 8 m del lugar de la colisión . Al mismo tiempo, a una velocidad de 21 8 km·h-1, el conductor activó el frenado , , , de emergencia El tranvía se encontraba a una distancia de 5 4 m del lugar de . , la colisión; |
-| • a las 17:22:58 h | el extremo delantero del DV de mando a una velocidad de 9 9 km·h-1 chocó contra , el extremo delantero del tranvía circulante en sentido contrario de la línea n.º 7 servicio 6/402; . , |
-| • a las 17:23:00 h | el tranvía, tras recorrer una distancia de 0 7 m, se detuvo en la posición final , tras el MU . |
-El DV de mando ev.º n.º 979, encabezando la línea n.º 7, servicio 6/402, estaba equipado en el momento de la aparición del MU con un dispositivo de registro automático de datos – registrador de velocidad – 
-taquígrafo electrónico TT-32, n.º 1527. De los datos registrados, tras redondear los 
-parámetros de tiempo a segundos completos, entre otros, se desprende:
-| • a las 17:22:34 h | el tranvía se puso en movimiento tras 37 s de detención en la parada Telekomunikační škola, sin que la conductora diera mediante , la campanilla eléctrica la señal „Atención“ El tranvía se encontraba a una . distancia de 135 3 m del lugar de aparición del MU; , |
-| • a las 17:22:39 h | la conductora, tras recorrer 17 2 m a una velocidad de 26 4 km·h-1, finalizó la , , , , introducción de la marcha y continuó circulando por inercia; |
-| • a las 17:22:44 h | tras recorrer 50 45 m desde el lugar de la última detención, el extremo , delantero del DV de mando a una velocidad de 25 6 km·h-1 superó el nivel , , , de la señal fija no transponible con señal permanente „Divisor de sección“ n.º 14; „ . |
-| • a las 17:22:48 h | tras recorrer 80 4 m desde el lugar de la última detención, el extremo , delantero del DV de mando a una velocidad de 25 1 km·h-1 superó el nivel , , , de la señal fija no transponible con señal permanente „Punto de selección de aguja accionada eléctricamente (combinación estándar)“ (Z -O) Tras superar esta . señal, la conductora inició el frenado EDB; |
-| • a las 17:22:49 h | tras recorrer 89 3 m desde el lugar de la última detención, la conductora del , tranvía a una velocidad de 22 3 km·h-1 comenzó a dar con la campanilla eléctrica la , señal „Atención“, cuya emisión finalizó 1 s después Al mismo tiempo, . finalizó también a una velocidad de 20 2 km·h-1 el frenado por acción de la EDB , . El tranvía se encontraba a 33 6 m de las puntas de la aguja n.º 644 y a 45 m , del lugar de la colisión; |
+|  | y continuaba en marcha por el arrastre; |
+| • a las 17:22:50 h | el morro delantero del DV de mando a 20,6 km·h-1 pasó el nivel de la aguja de la aguja nº 623; el tranvía se encontraba a 57,5 m del lugar de la colisión; |
+| • a las 17:22:54 h | el morro trasero del DV controlado a 20 km·h-1 pasó el nivel de la aguja de la aguja nº 623; el tranvía se encontraba a 45,1 m del lugar de la colisión; |
+| • a las 17:22:57 h | a una velocidad de 22,1 km·h-1 el conductor inició el frenado EDB; el tranvía se encontraba a 20,8 m del lugar de la colisión. Al mismo tiempo, a una velocidad de 21,8 km·h-1 el conductor activó el frenado de emergencia; el tranvía se encontraba a una distancia de 8 m del lugar de la colisión; |
+| • a las 17:22:58 h | el morro delantero del DV de mando a una velocidad de 9,9 km·h-1 chocó contra el morro delantero del tranvía en sentido contrario de la línea nº 7, servicio 6/402; |
+| • a las 17:23:00 h | el tranvía, tras recorrer una distancia de 5,4 m, se detuvo en la posición final, tras el MU. |
+El DV de mando ev. nº 979, encabezando la línea nº 7, servicio 6/402, estaba equipado en el momento de producirse el MU con un dispositivo de registro automático de datos – registrador de velocidad – tacógrafo electrónico TT-32, nº 1527. De los datos registrados, tras redondear los parámetros de tiempo a segundos completos, entre otros, se deduce:
+| • a las 17:22:34 h | el tranvía, tras 37 s de detención en la parada Telekomunikační škola, se puso en marcha sin que la conductora diera, mediante el timbre eléctrico, la señal "¡Atención!"; el tranvía se encontraba a una distancia de 135,3 m del lugar de producción del MU; |
+| • a las 17:22:39 h | la conductora, tras recorrer una distancia de 17,2 m a una velocidad de 26,4 km·h-1, finalizó la orden de marcha y continuó en marcha por el arrastre; |
+| • a las 17:22:44 h | tras recorrer una distancia de 50,45 m desde el lugar de la última detención, el morro delantero del DV de mando a una velocidad de 25,6 km·h-1 pasó el nivel de la señal fija no transmisible con señal permanente "Divisor de sección" nº 14; |
+| • a las 17:22:48 h | tras recorrer una distancia de 80,4 m desde el lugar de la última detención, el morro delantero del DV de mando a una velocidad de 25,1 km·h-1 pasó el nivel de la señal fija no transmisible con señal permanente "Punto de selección de aguja eléctricamente accionada (combinación estándar)" (Z -O). Tras pasar esta señal, la conductora inició el frenado EDB; |
+| • a las 17:22:49 h | tras recorrer una distancia de 89,3 m desde el lugar de la última detención, la conductora del tranvía, a una velocidad de 22,3 km·h-1, comenzó a dar con el timbre eléctrico la señal "¡Atención!", cuya emisión finalizó 1 s después. Al mismo tiempo, a una velocidad de 20,2 km·h-1, finalizó también el frenado por EDB. El tranvía se encontraba a 33,6 m de las puntas de la aguja nº 644 y a 45 m del lugar de la colisión; |
 
 ## Página 18
+
 
 | • a las 17:22:53 h | tras recorrer 111,5 m desde el lugar de la última parada, la conductora del tranvía inició, a una velocidad de 20 km·h-1, el frenado EDB de nuevo. El tranvía se encontraba a 11,35 m de las agujas de la aguja n.º 644 y a 22,8 m del lugar de la colisión (a partir de este momento se produce, debido a los raíles mojados, el derrape de las ruedas); |
 | • a las 17:22:54 h | tras recorrer 114,15 m desde el lugar de la última parada, el tranvía entró, a una velocidad de 19,4 km·h-1, en la zona destinada al cruce de la vía del tranvía situada delante de la intersección adyacente de las calles Opavská y Martinovská. El tranvía se encontraba a 8,7 m de las agujas de la aguja n.º 644 y a 20,15 m del lugar de la colisión; |
@@ -648,8 +624,8 @@ La línea de tranvía no estaba equipada, en el lugar de producción del MU, con
 La aguja n.º 644 era de tipo J RI57R1 L, siendo la parte de cambio de aguja de tipo VA RI57R1 – monobloque, la aguja de corazón de tipo JS BL – monobloque y la caja de mando (de cambio) de tipo DT 5.
 La caja de mando de la aguja de tranvía n.º 644 estaba alimentada desde la línea de contacto aéreo del tranvío con una tensión continua de 600 V mediante un convertidor de 600 V DC/24V DC. Se trataba de un dispositivo de tipo DT 5 con un sistema de cambio sin contacto Herman con bucles inductivos (en adelante,
 
-
 ## Página 19
+
 
 dispositivo de la aguja). La aguja queda, tras el cambio realizado por la acción de los electroválvulas, asegurada contra un cambio no deseado. Para el equipo eléctrico, el DÚ emitió, con el n.º de expediente: PZ 1130/09-E.12, con fecha 23 de marzo de 2009, el Certificado de idoneidad del equipo técnico designado.
 Según los procedimientos tecnológicos contenidos en la norma D1, en el artículo II.7.6, apartados 4 y 5, las agujas n.º 622, 623 y 644, situadas en la intersección de las calles Opavská y Martinovská, no pueden ser circuladas por los DV a una velocidad superior a 15 km·h-1 circulando contra la aguja en sentido directo, respectivamente 10 km·h-1 circulando contra la aguja hacia la desviación (a la izquierda o a la derecha).
@@ -663,8 +639,8 @@ mando del DV acciona el botón «AGUJA». Durante la aproximación del DV, la ag
 El estado inicial es el estado en reposo del dispositivo de la aguja, que se produce cuando no se ve afectada ninguna bucle de tierra (las dos bucles inductivas instaladas en la aguja) ni el receptor BSV; entonces no se ilumina ninguna señal en el semáforo, el dispositivo espera la orden de cambio y la aguja no está asegurada contra un cambio no deseado. En el momento en que el receptor BSV recibe la orden de cambio (el DV se encuentra en el punto de selección de la aguja), el dispositivo de la aguja realiza la comprobación de la posición actual de la aguja. Si la posición de la aguja coincide con el código recibido, la posición de la aguja permanece igual. Si la posición de la aguja difiere del código recibido, en el semáforo de la aguja comienza a parpadear el símbolo de bloqueo (rectángulo amarillo), que parpadea hasta que las agujas de la aguja se cambian a la posición final. En cuanto las agujas de la aguja se han cambiado a la posición deseada y están bloqueadas en dicha posición, el semáforo de la aguja comienza a indicar la señal «Bloqueo y posición de la aguja (señal luminosa)», que informa al conductor del tranvía sobre la posición actual de la aguja. La aguja está ahora asegurada contra un cambio no deseado, hasta la circulación del DV siguiente. La circulación del tranvía a través del punto de selección solo está permitida cuando el tranvía anterior ha abandonado claramente con toda su longitud las agujas de la aguja y en el semáforo se apaga la señalización de bloqueo de la aguja. La circulación del tranvía siguiente a través de la aguja dada es posible únicamente tras la salida del espacio de la aguja por parte de todos los DV del tranvía anterior. Si la aguja, por cualquier motivo, no se cambia a la posición deseada, es decir, si la señal «Bloqueo y posición de la aguja (señal luminosa)» indicada por el semáforo de la aguja, que informa al conductor del tranvía sobre el bloqueo de la aguja y la posición de las agujas de la aguja cambiadas para la circulación en sentido directo o de desviación, no corresponde al sentido de circulación previsto, el conductor debe, delante de la aguja, proceder según los procedimientos tecnológicos uniformes del transportista, véase el punto 4.1.1 de esta ZZ.
 Los circuitos de mando de la aguja de tranvía n.º 644 estaban equipados con un dispositivo para el registro automático del estado y la actividad de la aguja. Del análisis de estos datos, teniendo en cuenta la corrección temporal respecto a la hora registrada por el dispositivo registrador – registrador de velocidad – tacógrafo electrónico instalado en el DV de mando n.º de expediente 979, en la cabeza del tranvía de la línea n.º 7, servicio 6/402, que fue considerado como hora de referencia para las necesidades de este MU, se determinó, entre otros:
 
-
 ## Página 20
+
 
 a las 17:20:28 h
 el receptor BSV recibió la petición de circulación del DV contra la aguja hacia la izquierda en la
@@ -713,25 +689,32 @@ El DI realizó, en colaboración con el DPO, una prueba de verificación, con el
 
 ## Página 21
 
-el tranvía anterior abandona con toda su longitud las agujas del desvío n.º 644, en el semáforo de este desvío se apaga la señalización de bloqueo, es decir, la señal luminosa «Bloqueo y posición del desvío». Al conductor del tranvía siguiente, tras pasar el nivel del semáforo «Punto de selección de desvío maniobrado eléctricamente (combinación estándar)», el semáforo del desvío n.º 644 comenzará a indicar la señal «Bloqueo y posición del desvío». Esta señal es clara y nítidamente visible incluso con la luz de la iluminación pública de la calle Opavská y no se ve perturbada por ninguna influencia externa, y el semáforo (señal) del desvío n.º 644 es claramente visible ya desde la parada Telekomunikační škola. De la prueba de verificación realizada se concluyó de forma inequívoca que:
-- a los conductores de tranvía, al observar la vía desde un DV en marcha, nada les impide observar el semáforo del desvío n.º 644 y su señal desde el nivel del semáforo «Punto de selección de desvío maniobrado eléctricamente (combinación estándar)», que se encuentra situado a una distancia de 42 m antes del semáforo del desvío n.º 644;
-- el conductor del tranvía es capaz de reaccionar de forma adecuada y oportuna a la señal de este semáforo, observando la vía, cumpliendo la obligación de conducir según las condiciones de visibilidad y con la condición de respetar (no superar) la velocidad máxima permitida establecida por el gestor de la infraestructura, y, en caso de necesidad, detener el tranvía con seguridad antes del desvío n.º 644.
+el tranvía anterior abandona con toda su longitud las agujas de la aguja de desvío n.º 644, en el semáforo de esta aguja de desvío se apaga la señalización de bloqueo, es decir, la señal luminosa «Bloqueo y posición de la aguja de desvío». Al conductor del tranvía siguiente, tras pasar el nivel del semáforo «Punto de selección de la aguja de desvío maniobrada eléctricamente (combinación estándar)», el semáforo de la aguja de desvío n.º 644 comenzará a emitir la señal «Bloqueo y posición de la aguja de desvío». Esta señal es clara y nítidamente visible incluso con la iluminación de la calle Opavská y no se ve perturbada por ninguna influencia externa, y el semáforo (señal) de la aguja de desvío n.º 644 es claramente visible ya desde la parada Telekomunikační škola. De la prueba de verificación realizada se concluyó de forma inequívoca que:
 
-### 3.1.9 Cualquier otra información relevante para los fines de la descripción del suceso y de la información básica
-Resumen de las explicaciones prestadas por los empleados del transportista DPO, incl. personas en relación contractual:
-- conductor del tranvía de la línea n.º 7, turno 7/276 – Declaración sobre el siniestro asegurado y Registro de la explicación prestada ante el DI:
-  ° el descanso previo al turno lo pasó en casa, habiendo ido a hacer la compra a una tienda. Aproximadamente 1 h antes de incorporarse al turno, se desplazó con su vehículo particular a la cochera de Poruba para comer. Tras incorporarse al turno, partió en tranvía hacia el punto de relevo, que era la parada Svinov, mosty,
-  ° se incorporó al turno descansado y sano, y durante el turno no se vio alterado por nada,
-  ° al pasar por el cruce de Opavská y Martinovská, supuso que el tranvía que circulaba en sentido contrario pasaría por el cruce en dirección directa hacia la parada Třebovická, donde ninguna línea regular circula en el sentido desde la cochera de Poruba hacia Martinov,
-  ° no es consciente de haber excedido la velocidad al circular por el desvío n.º 623,
+• a los conductores de tranvía, al observar la vía desde un DV en marcha, no les impide observar el semáforo de la aguja de desvío n.º 644 y su señal desde el nivel del semáforo «Punto de selección de la aguja de desvío maniobrada eléctricamente (combinación estándar)», que se encuentra situado a una distancia de 42 m antes del semáforo de la aguja de desvío n.º 644;
+
+• el conductor del tranvía, al observar la vía, cumpliendo la obligación de circular según las condiciones de visibilidad y con la condición de respetar (no superar) la velocidad máxima permitida establecida por el gestor de la vía, es capaz de reaccionar de forma adecuada y oportuna a la señal de este semáforo y, en caso de necesidad, detener también el tranvía con seguridad antes de la aguja de desvío n.º 644.
+
+### 3.1.9 Cualquier otra información relevante a efectos de la descripción del suceso y de la información básica
+
+Resumen de las explicaciones facilitadas por los empleados del transportista DPO, incluidas personas en relación contractual:
+
+• Conductor del tranvía de la línea n.º 7, turno 7/276 – Comunicación del siniestro y Registro de la explicación facilitada DI:
+  ° el descanso antes del turno lo pasó en casa, aprovechando para ir de compras a una tienda. Aproximadamente 1 h antes de incorporarse al turno, se desplazó con su vehículo personal a la cochera de Poruba para comer. Tras incorporarse al turno, se desplazó en tranvía al punto de relevo, que era la parada Svinov, mosty,
+  ° se incorporó al turno descansado y sano, y durante el turno no se sintió alterado por nada,
+  ° al pasar por el cruce de Opavská y Martinovská, supuso que el tranvía en sentido contrario circularía por el cruce en dirección directa hacia la parada Třebovická, donde ninguna línea regular circula en el sentido desde la cochera de Poruba hacia Martinov,
+  ° no es consciente de haber excedido la velocidad al circular por la aguja de desvío n.º 623,
   ° no recuerda los hechos inmediatamente anteriores a la colisión entre tranvías;
-- conductora del tranvía de la línea n.º 7, turno 6/402 – Declaración sobre el SU en el tráfico del 29. 10. 2020:
+
+• Conductora del tranvía de la línea n.º 7, turno 6/402 – Declaración sobre el MU en tráfico del 29. 10. 2020:
   ° se incorporó a la parte de tarde del turno partido a las 13:13 h,
-  ° tras el servicio de los pasajeros en la parada Telekomunikační škola, entró erróneamente en el punto de selección del desvío n.º 644 en el momento en que aún estaba ocupado por el tranvía anterior (nota del redactor: el tranvía anterior en servicio se encontraba, en el momento de poner en movimiento el tranvía de la línea n.º 7, turno 6/402, en la parada Telekomunikační škola, completamente tras el cruce de las calles Opavská y Martinovská),
-  ° supuso que el desvío n.º 644 estaba dispuesto en dirección directa, por lo que entró en el desvío sin comprobar su posición.
-La conductora del tranvía de la línea n.º 7, turno 6/402, ejerció su derecho y se negó a prestar explicaciones ante el DI.
+  ° tras el servicio de pasajeros en la parada Telekomunikační škola, entró erróneamente en el punto de selección de la aguja de desvío n.º 644 en el momento en que aún estaba ocupada por el tranvía anterior (nota del redactor: el tranvía anterior en servicio se encontraba, en el momento de poner en marcha el tranvía de la línea n.º 7, turno 6/402, en la parada Telekomunikační škola, completamente tras el cruce de las calles Opavská y Martinovská),
+  ° supuso que la aguja de desvío n.º 644 estaba dispuesta en dirección directa, por lo que entró en la aguja de desvío sin comprobar su posición.
+
+La conductora del tranvía de la línea n.º 7, turno 6/402, ejerció de su derecho y se negó a facilitar a DI una explicación.
 
 ## Página 22
+
 
 Resumen de las explicaciones prestadas por otros testigos:
 - pasajera en el tranvía de la línea n.º 7, turno 7/276 – Registro oficial de la explicación prestada ante la PČR:
@@ -752,8 +735,8 @@ El espacio del cruce de las calles Opavská y Martinovská y del entorno inmedia
 | • a las 17:22:00 h | el tranvía en servicio abandona el espacio del cruce de las calles Opavská y Martinovská; |
 | • a las 17:22:43 h | el SSZ antes del cruce, tanto desde el sentido de la parada Telekomunikační škola como desde la parada Třebovická, comenzó a señalizar la señal S 15b «Circulación recta» (en adelante, «Circulación recta»); |
 
-
 ## Página 23
+
 
 | • a las 17:22:46 h | el frente del tranvía de la línea n.º 7, turno 7/276, DV n.º de matrícula 1316, superó el nivel del SSZ antes del cruce desde el sentido de la parada Třebovická, que señalizaba la señal «Circulación recta». En el mismo segundo, la señal «Circulación recta» cambió a la señal «Alto»; |
 | • a las 17:22:48 h | en el paso de peatones de la calle Opavská sobre los carriles paralelos en el sentido hacia Poruba, antes/después del cruce adyacente, que continúa por el espacio para cruzar la vía del tranvía, irrumpió desde la izquierda del tranvía de la línea n.º 7, turno 6/402, una persona con paraguas; |
@@ -766,8 +749,8 @@ El espacio del cruce de las calles Opavská y Martinovská y del entorno inmedia
 ### 3.2.1 Secuencia de hechos que condujeron al suceso extraordinario
 La conductora del tranvía de la línea n.º 7, turno 6/402, se incorporó el 29. 10. 2020 en el Recinto de Tranvías de Moravská Ostrava (en adelante, cochera Křivá) a la parte de mañana del turno partido con entrada a las 5:43 h a la línea n.º 6, turno 6/402, que finalizó en la cochera Křivá a las 8:28 h. A la parte de tarde del turno partido se incorporó en la cochera Křivá a las 13:13 h, y ello a la línea n.º 6, turno 6/402. En el marco de la parte de tarde del turno, condujo primero el tranvía de la línea n.º 6, turno 6/402, hasta la parada Rodimcevova, y a continuación continuó a través del cruce de las calles Pavlovova y Vyškovická (entre las paradas Zábřeh vodárna y Zábřeh OC, respectivamente la parada Rodimcevova (en adelante, el cruce junto a la parada Zábřeh vodárna)), ya como tranvía de la línea n.º 7, turno 6/402, al que condujo hasta la parada terminal Poruba Vřesinská. Desde allí continuó en la línea n.º 7, turno 6/402, cuando de nuevo desde el cruce junto a la parada Zábřeh vodárna continuó como línea n.º 6, turno 6/402, hasta la cochera Křivá. Desde la cochera Křivá condujo el tranvía de la línea n.º 6, turno 6/402, de nuevo hasta el cruce junto a la parada Zábřeh vodárna, desde donde continuó en la línea n.º 7, turno 6/402, hasta la parada terminal Poruba Vřesinská. Desde la parada Poruba Vřesinská debía conducir el tranvía en la línea n.º 7, turno 6/402, de nuevo a través del cruce junto a la parada Zábřeh vodárna, esta vez sin embargo hasta la parada terminal Nádraží Vítkovice, desde donde debía continuar en servicio sin pasajeros de regreso a la cochera Křivá.
 
-
 ## Página 24
+
 
 Debido a la impracticabilidad de la vía del tranvía en la calle Martinovská, tras el cruce con la calle Opavská, en el periodo comprendido entre las 16:39 h y las 17:06 h, causada por un accidente de tráfico de un vehículo particular, en el sentido hacia Martinov, fueron desvías operativamente por el transportista DPO los tranvías de la línea n.º 4 que circulaban hacia el bucle Martinov, y ello desde el cruce de las calles Opavská y Martinovská hasta la cochera de Poruba. Finalizado el desvío, el tranvía de la línea n.º 4, turno 206, compuesto por los DV n.º de matrícula 1126 y n.º de matrícula 1122, regresó posteriormente desde la cochera de Poruba en servicio a través de la parada Telekomunikační škola y, en el cruce de las calles Opavská y Martinovská, circulando por el desvío n.º 644 contra la aguja hacia la desviación a la izquierda de la calle Martinovská, de vuelta al recorrido de la línea n.º 4. Antes del cruce de las calles Opavská y Martinovská, la conductora del tranvía en servicio, y ello tras pasar el semáforo «Punto de selección de desvío maniobrado eléctricamente (combinación estándar)», accionó en el pupitre de mando el botón «DESVÍO» para maniobrar las agujas del desvío hacia la desviación. Tras maniobrar las agujas del desvío a la posición final para la circulación del DV hacia la desviación a la izquierda, el semáforo del desvío n.º 644 comenzó a indicar la señal «Bloqueo y posición del desvío (señal luminosa)». Puesto que el SSZ antes del cruce de las calles Opavská y Martinovská, en el sentido desde la parada Telekomunikační škola, señalizaba la señal «Alto», el tranvía en servicio se detuvo a las 17:20:36 h ante dicho SSZ. Tras el cambio de la señal para tranvías a «Circulación a la izquierda», la conductora puso el tranvía en movimiento a las 17:21:38 h. A las 17:22:00 h, el tranvía en servicio abandonó el espacio del cruce.
 En el momento en que el tranvía en servicio se encontraba tras el cruce de las calles Opavská y Martinovská, el tranvía de la línea n.º 7, turno 6/402, se encontraba en la parada Telekomunikační škola. A las 17:22:34 h, la conductora puso el tranvía en movimiento en dirección al cruce. El SSZ antes del cruce desde el sentido de la parada Telekomunikační škola señalizaba la señal «Alto», y el desvío n.º 644, como consecuencia de una avería en la comunicación inalámbrica entre el DV del tranvía en servicio y el receptor BSV, seguía maniobrado y asegurado en la posición para la circulación del DV contra la aguja hacia la desviación a la izquierda (el dispositivo del desvío no se encontraba en el llamado estado de reposo). Por ello, el semáforo del desvío n.º 644 indicaba la señal
@@ -778,6 +761,7 @@ En ese momento, se aproximaba al cruce de las calles Opavská y Martinovská, po
 
 ## Página 25
 
+
 lo que constituye una superación de la velocidad máxima permitida de 15 km·h-1 en la circulación a través de la aguja en sentido contrario a la punta en dirección directa en 4,6 km·h-1.
 A las 17:22:43 h, el SSZ antes del cruce en el sentido desde la parada Telekomunikační škola comenzó a señalar la señal «Circulación directa». A las 17:22:48 h, el extremo delantero del tranvía de la línea n.º 7, servicio 6/402, pasó a una velocidad de 25,1 km·h-1 el nivel de la señal fija con la señal «Punto de selección de aguja accionada eléctricamente (combinación estándar)», que indica el comienzo del tramo destinado al control del cambio de la aguja n.º 644. El tranvía se encontraba a una distancia de 42 m de la señal luminosa de la aguja n.º 644, cuya observación y la señal «Bloqueo y posición de la aguja (señal luminosa)» que en ella se indica sobre el bloqueo de la aguja y la posición de los labios de la aguja para la circulación en dirección de desvío a la izquierda no impedían nada a la conductora del tranvía. Al mismo tiempo, desde el lado izquierdo del tranvía, entró en el paso de peatones de la calle Opavská, y ello a través de los carriles paralelos en dirección a Poruba, una persona con paraguas, a lo que la conductora reaccionó iniciando el frenado con la función EDB y 1 s después, a una velocidad de 20,3 km·h-1, dando la señal sonora «Atención» con la campana eléctrica.
 Al mismo tiempo, es decir, a las 17:22:49 h, el receptor BSV del dispositivo de la aguja n.º 644 recibió la petición de circulación DV en sentido contrario a la punta en dirección directa emitida automáticamente por el emisor DV n.º de inventario 979 situado en el extremo del tranvía de la línea n.º 7, servicio 6/402. Esta señal fue emitida automáticamente – la conductora tenía la intención de realizar la circulación a través de la aguja en dirección directa – por lo que en el pupitre de control en la posición del conductor no pulsó el botón «AGUJA», véase el punto 3.1.8 de esta ZZ. Sin embargo, la aguja n.º 644, debido a una avería en la comunicación inalámbrica tras la circulación del tranvía anterior del servicio especial, permaneció asegurada contra el cambio en la posición para la circulación DV hacia el desvío a la izquierda, y por lo tanto la señal de la aguja seguía indicando la señal «Bloqueo y posición de la aguja (señal luminosa)», que informaba a la conductora del tranvía de la línea n.º 7, servicio 6/402, sobre el bloqueo de la aguja y la posición de los labios de la aguja establecidos para la circulación en dirección de desvío.
@@ -785,8 +769,8 @@ A las 17:22:50 h, la conductora del tranvía de la línea n.º 7, servicio 6/402
 La conductora del tranvía de la línea n.º 7, servicio 6/402, reaccionó ante la situación surgida a las 17:22:56 h únicamente pulsando el botón de la campana eléctrica. El conductor del tranvía de la línea n.º 7, servicio 7/276, que circulaba en sentido contrario, reaccionó a las 17:22:57 h, a una velocidad de 22,1 km·h-1, a una distancia de 8 m del lugar de la colisión,
 ### iniciando el frenado EDB y acto seguido el frenado de emergencia. La colisión frontal de los tranvías que circulaban en sentido contrario se produjo a las 17:22:58 h. El tranvía de la línea n.º 7, servicio 6/402, se movía en el momento de la colisión a una velocidad de 13,8 km·h-1, el tranvía de la línea n.º 7, servicio 7/276, se movía a una velocidad de 9,9 km·h-1.
 
-
 ## Página 26
+
 
 ### 3.2.2 Secuencia de hechos desde la producción del suceso extraordinario hasta la finalización de las acciones de los servicios de rescate
 17:23 h el conductor del tranvía de la línea n.º 7, servicio 7/206, ayuda en la salida de los pasajeros;
@@ -826,29 +810,65 @@ HZS de la región de Moravia y Silesia – 1 de las 2 unidades enviadas.
 ### 4.1.1 Transportistas y explotadores de vías
 El transporte ferroviario en la vía de tranvía, es decir, también en la línea n.º 03 de la vía de tranvía de Dopravní podnik Ostrava, a. s, debe organizarse de acuerdo con el § 30 apartado 1 del decreto n.º 173/1995 Sb. según el horario de circulación. Los conductores de los tranvías de la línea n.º 7, servicios 7/276 y 6/402, estaban equipados con los horarios de circulación de vehículos de los servicios 7/276 y 6/402. La circulación de tranvías en la línea n.º 03 de doble vía se aseguró de acuerdo con el § 28 apartado 1 y 2 del decreto n.º 173/1995 Sb.
 
-
 ## Página 27
 
-mediante la circulación unidireccional y por la derecha de los DV, regulada en la distancia mutua entre los DV según las condiciones de visibilidad y por las señales SSZ y la señalización de tráfico.
-El conductor de tranvía está, en el sentido del § 35 apartado 1 letras a) y g) de la ley n.º 266/1994 Sb., § 33, 46, 47 y 48 del decreto n.º 173/1995 Sb. y de las disposiciones correspondientes del reglamento interno D1, en el desempeño del servicio, entre otras, obligado a regirse por las normas jurídicas vinculantes, los reglamentos internos de DPO y el horario de circulación, a tratar los DV con cuidado y con la forma (técnica) correcta de circulación, a velar por la mayor economía posible en la explotación manteniendo una circulación segura y fluida, la seguridad de los pasajeros y de los demás participantes en el tráfico por carretera y ferroviario, debiendo durante la circulación dedicarse plenamente a la conducción del DV. El conductor está obligado a circular por la ruta establecida, es decir, en el caso de los DV destinados al transporte de pasajeros, por la ruta determinada por el horario de circulación de vehículos o por la orden de servicio. El conductor debe durante la circulación observar el estado de la superestructura de la vía y de la línea de contacto. Si detecta una avería que pudiera ocasionar un daño posterior o un descarrilamiento del DV, es decir, la producción de un SE, debe detener el DV inmediatamente y las averías detectadas en la superestructura de la vía y en la línea de contacto debe notificarlas sin demora al centro de despacho de tráfico y regirse a continuación por sus instrucciones.
-El conductor de tranvía está, entre otras, obligado a adaptar siempre la velocidad y la forma (técnica) de circulación, especialmente a las características del tranvía y su ocupación, al estado de la vía, a las condiciones meteorológicas y a otras circunstancias que sea posible prever. Durante la circulación no debe superar la velocidad máxima permitida, que es fijada por DPO, entre otras, en:
-10 km·h-1 en la circulación de los DV en sentido contrario a los labios de la aguja establecida hacia el desvío y en las curvas adyacentes a la misma (combinaciones de vía estándar);
+conducción unidireccional y por la derecha de DV, regulada según la distancia mutua entre DV
+según las condiciones de visibilidad y por las señales SSZ y la señalización de tráfico.
+El conductor de tranvía está, en el sentido del § 35 apartado 1 letra a) y g) de la Ley núm. 266/1994 Sb., § 33, 46, 47 y
+48 del decreto núm. 173/1995 Sb. y de las disposiciones correspondientes del reglamento interno D1, durante el desempeño de su servicio,
+entre otras, obligado a regirse por la normativa legal vinculante, los reglamentos internos de DPO, el horario de circulación,
+tratar a DV de forma cuidadosa y con la técnica de conducción correcta, velar por la mayor
+eficiencia económica de la explotación manteniendo una conducción segura y fluida,
+la seguridad de los pasajeros
+y de los demás participantes en el tráfico por carretera y ferroviario, debiendo durante la conducción dedicarse plenamente
+al mando de DV. El conductor está obligado a circular por la ruta establecida, es decir, en el caso de DV destinados al transporte de
+pasajeros, por la ruta determinada por el horario de circulación de la unidad o por la orden de servicio. El conductor debe
+durante la conducción vigilar el estado de la superestructura de la vía y la línea de contacto aéreo.
+Si detecta una avería que pudiera
+causar daños adicionales o el descarrilamiento de DV, es decir, la aparición de MU, debe detener DV inmediatamente y
+las averías detectadas en la superestructura de la vía y la línea de contacto aéreo debe comunicarlas sin demora
+al centro de despacho de tráfico y, a continuación, regirse por sus instrucciones.
+El conductor de tranvía está, entre otras, obligado a adaptar siempre la velocidad y la forma (técnica) de conducción, especialmente
+a las características del tranvía y su ocupación, al estado de la vía, a las condiciones meteorológicas y a otras circunstancias
+que puedan preverse. Durante la conducción no debe superar la velocidad máxima
+permitida, que DPO establece, entre otros, en:
+10 km·h-1 al conducir DV en contra de las agujas de la aguja de desvío colocada en desvío y en las curvas
 •
-15 km·h-1 en la circulación de los DV en sentido contrario a los labios de la aguja establecida en dirección directa (combinaciones de vía estándar);
+adyacentes a esta (combinaciones estándar de vía);
+15 km·h-1 al conducir DV en contra de las agujas de la aguja de desvío colocada en dirección recta
 •
-20 km·h-1 en la circulación de los DV sobre los labios de la aguja establecida en dirección directa (combinaciones de vía estándar) y en la circulación a través de los cruces de vía (combinaciones de vía estándar);
+(combinaciones estándar de vía);
+20 km·h-1 al conducir DV sobre las agujas de la aguja de desvío colocada en dirección recta (combinación
 •
-y ello con independencia de que la aguja esté o no asegurada contra el cambio no deseado.
-El conductor de tranvía debe inmediatamente antes de la entrada en la aguja cerciorarse con la vista de la posición correcta de los labios y de si el labio de la aguja correspondiente se ajusta al riel de apoyo de la aguja. Si el conductor no tiene certeza de la posición correcta de los labios de la aguja, debe detenerse aún antes de la aguja. En la circulación a través de agujas accionadas eléctricamente (combinación estándar), las agujas se controlan de forma inalámbrica por medio de bucles situadas en la vía, siendo las señales luminosas las que indican la señal de establecimiento del itinerario y el aseguramiento de la aguja contra el cambio no deseado, véase el punto 3.1.8 de esta ZZ. Además, estas señales informan sobre la ocupación de la aguja y el bloqueo del punto de selección. La circulación del tranvía a través del punto de selección (hacia el tramo para el control del cambio de la aguja accionada eléctricamente hacia la dirección deseada) señalizado por una señal fija con la señal permanente «Punto de selección de aguja accionada eléctricamente (combinación estándar)» solo está permitida cuando el tranvía anterior ha abandonado con toda su longitud los labios de la aguja y la señal de la aguja no indica ninguna señal – está apagada la señalización de aseguramiento de la aguja contra el cambio no deseado (bloqueo) de la aguja –, o bajo las condiciones indicadas a continuación. Las agujas se cambian con la circulación del tranvía a través del punto de selección a la posición «0» – dirección directa – automáticamente y a la posición «Z» – a la izquierda o a la derecha – pulsando el botón «AGUJA» por el conductor en el pupitre de control de la posición del conductor. Si el tranvía
-anterior
-abandona el espacio de la aguja accionada eléctricamente y esta
-permanece asegurada contra el cambio no deseado (bloqueada) con la señalización simultánea de la señal
-«Bloqueo y posición de la aguja (señal luminosa)»
-, el conductor del tranvía
-posterior
-puede entrar en el punto de selección con la salvedad de que se aproxima a una aguja que no puede cambiarse eléctricamente.
+estándar de vía) y al cruzar crucetas de vía (combinaciones
+estándar de vía);
+todo ello con independencia de que la aguja de desvío esté o no protegida contra la maniobra no deseada.
+El conductor de tranvía debe, inmediatamente antes de entrar en la aguja de desvío, comprobar visualmente
+la posición correcta de las agujas y si la aguja de desvío correspondiente se ajusta al carril de apoyo de la aguja de desvío.
+Si el conductor no tiene certeza sobre la posición correcta de las agujas de la aguja de desvío, debe detenerse
+aún antes de la aguja de desvío.
+Al circular por agujas de desvío maniobradas eléctricamente (combinación estándar), las agujas de desvío se controlan
+de forma inalámbrica mediante bucles situados en la vía, siendo las señales luminosas las que emiten la
+señal de establecimiento del itinerario y la protección de la aguja de desvío contra la maniobra no deseada, véase el punto 3.1.8 de esta
+ZZ. Asimismo, estas señales informan de la ocupación de la aguja de desvío y del bloqueo del punto de selección.
+La circulación del tranvía por el punto de selección (en el tramo para el control de la maniobra de la aguja de desvío maniobrada
+eléctricamente en la dirección deseada) señalizado con una señal fija con la indicación permanente
+«Punto de selección de aguja de desvío maniobrada eléctricamente (combinación estándar)» solo está permitida cuando
+el tranvía anterior ha abandonado con toda su longitud las agujas de la aguja de desvío y la señal de la aguja de desvío
+no emite ninguna señal – está apagada la señalización de protección de la aguja de desvío contra la maniobra no deseada
+(bloqueo) de la aguja de desvío, o bajo las condiciones indicadas a continuación. Las agujas de desvío se conmutan
+al pasar el tranvía por el punto de selección a la posición «0» – dirección recta automáticamente, y a la
+posición «Z» – a la izquierda o a la derecha, pulsando el botón «AGUJA DE DESVÍO» por el conductor en el pupitre de
+control de la cabina del conductor. Si el tranvía anterior
+abandona el espacio de la aguja de desvío maniobrada eléctricamente y esta
+permanece protegida contra la maniobra no deseada (bloqueada) simultáneamente con la
+emisión de la señal
+«Bloqueo y posición de la aguja de desvío (señal luminosa)»,
+el conductor del tranvía
+posterior puede entrar en el punto de selección, con la salvedad de que se aproxima a una aguja de desvío que no puede maniobrarse eléctricamente.
 
 ## Página 28
+
 
 Si la señal indicada por el señalizador de aguja corresponde a la dirección de marcha solicitada por el conductor, este puede continuar la marcha hacia la### aguja tras comprobar visualmente desde la cabina del conductor la posición correcta de la aguja. Si la señal indicada por el señalizador de aguja no corresponde a la dirección de marcha solicitada por el conductor del tranvía, es decir, si es necesario cambiarla a otra dirección, el conductor debe cambiar la aguja manualmente. Por ello, el tranvía debe detenerse antes de las agujas de la aguja. Si tras el cambio manual de la aguja con la vara de cambio no se produce su bloqueo frente a un cambio no deseado (bloqueo), es decir, si el señalizador de aguja no indica la señal «Bloqueo y posición de aguja (señal luminosa)» que informa al conductor del bloqueo de la aguja y de la dirección de marcha, el conductor debe proceder a un nuevo cambio de la aguja con la vara de cambio. Si tampoco tras esta maniobra se produce el bloqueo de la aguja frente a un cambio no deseado, el conductor debe comprobar si la lengüeta correspondiente de la aguja apoya contra el riel de apoyo con un hueco menor de 3 mm y, manipulando la vara de cambio, debe comprobar si las lengüetas de la aguja están bloqueadas frente a un cambio no deseado. El conductor solo podrá continuar la marcha hacia la aguja tras haber comunicado la avería al centro de tráfico, y ello marchando con precaución aumentada a una velocidad máxima de 5 km·h-1.
 ### Hallazgos:
@@ -873,8 +893,8 @@ art. II.7.8 apartado 8 de la norma interna D1:
 •
 «Al pasar por agujas de control eléctrico debe estar encendido el símbolo de la dirección solicitada. Si el símbolo de la dirección solicitada no está encendido, el conductor debe detener el tren antes de la aguja y realizar su cambio repetido (ida y vuelta). Si tras esta
 
-
 ## Página 29
+
 
 maniobra no se produce el bloqueo de la aguja (encendido del símbolo de la dirección solicitada) y, al mismo tiempo, en la posición solicitada no hay un hueco entre la lengüeta y el riel de apoyo mayor de 3 mm, el conductor verifica el bloqueo de las lengüetas ... En la marcha posterior por la aguja, la velocidad de marcha no puede ser superior a 5 km/h. El conductor comunica de inmediato la avería de la aguja al centro de tráfico. En el caso de que, tras la mencionada maniobra, el hueco entre la lengüeta y el riel de apoyo sea mayor que el límite indicado, la aguja no es transitable; el conductor comunicará de inmediato esta circunstancia al centro de tráfico y no continuará la marcha hasta la eliminación de la avería – él mismo eliminará de la aguja el hielo y la suciedad compactada. (Este punto no se aplica si la aguja está dotada del señalizador «Fuera de servicio»).».
 ### Hallazgos:
@@ -898,8 +918,8 @@ En la investigación no se constató infracción de las funciones y obligaciones
 ### 4.1.4 Autoridades nacionales de seguridad y Agencia Ferroviaria de la Unión Europea
 La autoridad nacional de seguridad es el DÚ, que de acuerdo con la Ley n.º 266/1994 Sb. es la autoridad administrativa dependiente del Ministerio de Transportes. Su función es, en particular, el ejercicio de la supervisión estatal en materia de vías y en materia de autoridad de obra civil, el ejercicio de la autoridad de obra civil especial para construcciones de vía y construcciones sobre la vía, la aprobación de DV nuevos y modernizados y de instalaciones técnicas designadas, y la tramitación de infracciones.
 
-
 ## Página 30
+
 
 Las competencias de las autoridades administrativas ferroviarias las ejercen también, en la medida establecida por la Ley n.º 266/1994 Sb., los municipios en el ámbito de sus competencias transferidas, en cuyo territorio se encuentra una vía de tranvía, de trolebús, de cable o una vía especial.
 Es obligación del DÚ, respectivamente de las autoridades administrativas ferroviarias en el ámbito de sus competencias transferidas, comunicar al DI, en el plazo de 12 meses desde la fecha de publicación del informe final que contenga las recomendaciones de seguridad dirigidas a él/ellos, qué medida ha adoptado/han adoptado en relación con esta recomendación de seguridad.
@@ -917,8 +937,8 @@ En la investigación no se detectaron factores derivados de la construcción de 
 4.2.2 Factores o consecuencias derivados de la instalación y puesta en servicio de vehículos ferroviarios, de la infraestructura ferroviaria o de las instalaciones técnicas
 En la investigación no se detectaron factores derivados de la instalación y puesta en servicio de DV, de la infraestructura ferroviaria, respectivamente de tranvía, o de las instalaciones técnicas.
 
-
 ## Página 31
+
 
 ### 4.2.3 Factores o consecuencias relacionados con los fabricantes de vehículos ferroviarios u otros proveedores de productos ferroviarios
 En la investigación no se detectaron factores relacionados con los fabricantes de DV u otros proveedores de productos ferroviarios, respectivamente de tranvía.
@@ -944,6 +964,7 @@ si las lengüetas de la aguja n.º 644 están en la posición correcta.
 La conductora del tranvía de la línea n.º 7, turno 6/402, era apta desde el punto de vista médico y profesional para el desempeño de la función que ocupaba, al ejercer la función de conductor de tranvía en DPO desde el 15. 6. 2020, habiendo sido designada por el gestor DPO como responsable de
 
 ## Página 32
+
 
 2 accidentes anteriores de MU, concretamente los del 13 de agosto y el 21 de septiembre de 2020. En ambos casos se produjo una colisión 
 entre un tranvía y un autobús.
@@ -977,31 +998,22 @@ de seguridad u otros sujetos de evaluación de la conformidad
 El gestor de la infraestructura explotó la infraestructura en virtud de una autorización administrativa vigente. El operador ferroviario 
 explotó el transporte ferroviario en virtud de una licencia vigente.
 
-
 ## Página 33
 
 ### 4.4.7 Otros factores sistémicos
 En la investigación no se detectaron otros factores sistémicos.
 ### 4.5 Sucesos anteriores de naturaleza similar
-La DI, en el período comprendido entre el 1 de enero de 2010 y la fecha de origen de la MU en cuestión, en infraestructuras de tranvía de 
-### doble vía, registra un total de 52 MU similares, de los cuales 4 en la infraestructura de Dopravní podnik 
-Ostrava, a. s., cuando, como consecuencia de una circulación no asegurada en sentido contrario por la punta de la aguja, a través de un desvío 
-incorrectamente dispuesto, se produjo un choque con tranvías circulantes en sentido contrario. La causa inmediata de estos MU fue 
-la no detección de la posición incorrecta de los labios del desvío, es decir, la señalización indicada por el 
-semáforo de desvío correspondiente a un desvío eléctricamente conmutable, por parte de la conductora del tranvía.
-Como consecuencia de todos los MU anteriormente mencionados, 31 personas resultaron lesionadas y se produjo un daño por 
-### un importe de aproximadamente 64,4 millones de CZK.
-La DI, en el período comprendido entre el 1 de enero de 2010 y la fecha de origen de la MU en cuestión, investigó las causas y circunstancias del origen 
-de un MU similar, ocurrido el 5 de noviembre de 2017 en la infraestructura de tranvía de Dopravní podnik 
-města Brna, a. s.
+La DI en el período comprendido entre el 1. 1. 2010 y la fecha de ocurrencia de la MU objeto de estudio, en vías tranviarias de doble vía, registra un total de 52 MU similares, de las cuales 4 en la vía de Dopravní podnik Ostrava, a. s., cuando como consecuencia de una marcha no asegurada en sentido contrario a la aguja, a través de una aguja colocada incorrectamente, se produjo un choque con tranvías circulantes en sentido contrario. La causa inmediata de estas MU fue la no detección de la posición incorrecta de las lengüetas de la aguja, es decir, la señal indicada por el señalizador de aguja de la correspondiente aguja conmutada eléctricamente, por parte del conductor del tranvía.
+Como consecuencia de todas las MU anteriormente mencionadas, 31 personas resultaron lesionadas y se produjo un daño de aproximadamente 64,4 millones de Kč.
+La DI en el período comprendido entre el 1. 1. 2010 y la fecha de ocurrencia de la MU objeto de estudio investigó las causas y circunstancias de la ocurrencia de una MU similar, que tuvo lugar el 5. 11. 2017 en la vía tranviaria de Dopravní podnik města Brna, a. s.
 ## 5 CONCLUSIONES
 ### 5.1 Resumen del análisis y conclusiones relativas a las causas del suceso
 La causa inmediata del suceso extraordinario fue:
-la no detección de la señalización indicada por el semáforo luminoso del desvío n.º 644 y de la 
+la no detección de la señal indicada por el señalizador luminoso de la aguja n.º 644 y de la
 •
-posición incorrecta de los labios del desvío n.º 644 por parte de la conductora del tranvía de la línea n.º 7, servicio 6/402.
-No fue detectado ningún factor contribuyente por la Inspección Ferroviaria.
-No fue detectada ninguna causa sistémica por la Inspección Ferroviaria.
+posición incorrecta de las lengüetas de la aguja n.º 644 por parte de la conductora del tren tranviario de la línea n.º 7, turno 6/402.
+No fue detectado por la Drážní inspekcí ningún factor contribuyente.
+No fue detectada por la Drážní inspekcí ninguna causa sistémica.
 ### A summary of the analysis and conclusions with regard to the causes of the 
 occurrence
 Causal factor:
@@ -1013,14 +1025,12 @@ Contributing factor: none.
 Systemic factor:
 none.
 ### 5.2 Medidas adoptadas para la prevención de sucesos extraordinarios
-El operador ferroviario DPO adoptó, tras el origen de la MU, una medida mediante la cual aplicó a la conductora del tranvía de la línea n.º 7, servicio 
-6/402, el procedimiento previsto en la Ley n.º 262/2006 Sb., para la revalidación de los conocimientos 
-de las normas internas del operador ferroviario.
+El transportista DPO adoptó tras la ocurrencia de la MU una medida mediante la cual, frente a la conductora del tranvaje de la línea n.º 7, turno 6/402, aplicó el procedimiento conforme a la ley n.º 262/2006 Sb., para la revalidación de los conocimientos de las normas internas del transportista.
 ### Measures taken since the occurrence
 The railway undertaking DPO took the following measure after the occurrence:
 
-
 ## Página 34
+
 
 applied the procedure according to Act No. 262/2006 Coll., to re-verification of 
 •
@@ -1065,11 +1075,9 @@ inspector
 De la Inspección Territorial de Ostrava
 De la Inspección Territorial de Ostrava
 
-
 ## Página 35
 
-## ANEXOS
-Fig. n.º 3: Vista del semáforo del desvío n.º 644, que indica la señalización «Bloqueo y posición 
-del desvío (señalización luminosa)».
+## Anexos
+Fig. n.º 3: Vista de la señal de aguja n.º 644, que indica la señal "Bloqueo y posición de la aguja (señal luminosa)".
            Fuente: DI
-Fig. n.º 4: Vista de la deformación de los frentes de los tranvías tras la MU.                                  Fuente: DPO
+Fig. n.º 4: Vista de la deformación de los frentes de los tranvías tras el MU.                                  Fuente: DPO

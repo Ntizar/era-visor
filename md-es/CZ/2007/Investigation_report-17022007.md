@@ -10,13 +10,14 @@ chars: 47713
 ratio_longitud: 1.27
 tokens_in: 22264
 tokens_out: 15545
-verificacion: revisar
-notas_cifras: ["bloque 1: original bilingüe: se compara contra el idioma principal (EN)", "bloque 2: original bilingüe: se compara contra el idioma principal (CS)", "bloque 3: cifras cortas: 6/87", "bloque 5: cifras largas: 1/22; cifras cortas: 8/87", "bloque 6: cifras cortas: 3/79", "bloque 7: original bilingüe: se compara contra el idioma principal (CS); cifras cortas: 1/58"]
-avisos: ["bloque 7: ratio 1.64"]
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (CS)", "página 4: original bilingüe: se compara contra el idioma principal (EN)", "página 5: original bilingüe: se compara contra el idioma principal (CS)", "página 6: original bilingüe: se compara contra el idioma principal (CS)", "página 7: cifras cortas: 1/15", "página 8: cifras cortas: 5/37"]
 ---
+
 ## Página 1
+
 
 Inspección Ferroviaria
 República Checa
@@ -42,11 +43,12 @@ N.º de identificación fiscal (IČO): 75009561
 http://www.dicr.cz
 fax: (+420) 224 805 428
 
-
 ## Página 2
 
 
+
 ## Página 3
+
 
 # RESUMEN
 | Fecha y hora: | 17 de febrero de 2007 10:28 (9:28 GMT) , |
@@ -59,8 +61,8 @@ fax: (+420) 224 805 428
 | Causa raíz: | ninguna |
 Recomendación: no emitida
 
-
 ## Página 4
+
 
 # ÍNDICE
  Resumen .............................................................................................................................3
@@ -96,6 +98,7 @@ técnica de las causas de la aparición del incidente extraordinario ...........
 
 ## Página 5
 
+
 3.1.1 Empleados del administrador de la infraestructura y del transportista, incluidas las personas en relación contractual ...............................................................................................................12
 3.1.2 Otras personas .........................................................................................................12
 3.2 Sistema de garantía de la seguridad ...............................................................................13
@@ -122,10 +125,10 @@ técnica de las causas de la aparición del incidente extraordinario ...........
 3.7 Incidentes anteriores de naturaleza similar ............................................17
 4 Análisis y conclusiones ............................................................................................................18
 4.1 Descripción final del incidente ..........................................................................18
-4.1.1 Descripción final del incidente basada en los hechos constatados en el punto 3 
-
+4.1.1 Descripción final del incidente basada en los hechos constatados en el punto 3
 
 ## Página 6
+
 
 ............................................................................................................................18
 4.2 Análisis ......................................................................................................................18
@@ -148,6 +151,7 @@ técnica de las causas de la aparición del incidente extraordinario ...........
 
 ## Página 7
 
+
 ## 1 RESUMEN
 El 17 de febrero de 2007 a las 10:28 horas se produjo en la vía férrea de ámbito nacional un incidente extraordinario en el tráfico ferroviario (en adelante, IE), cuando en el desvío de Praga-Vítkov, en el punto kilométrico (pk) 2,466, en la vía n.º 2, en el punto de cruce n.º 2, descarrilaron el vehículo motorizado de tracción (en adelante, VMT) y 5 vehículos ferroviarios (en adelante, VF) del tren EC 107.
 
@@ -167,8 +171,8 @@ La causa inmediata de la producción del IE fue la fractura de la punta del punt
 
 No se emitió ninguna recomendación de seguridad.
 
-
 ## Página 8
+
 
 ## 2 DATOS RELATIVOS AL INCIDENTE EXTRAORDINARIO
 ### 2.1 Incidente extraordinario
@@ -191,8 +195,8 @@ El daño total constatado asciende a 189 906,- Kč.
 2.1.3 Decisión de iniciar la investigación de las causas y circunstancias de la producción, composición del equipo de personas con cualificación profesional y método de conducción de la investigación de las causas y circunstancias de la producción
 La IF inició la investigación de las causas y circunstancias de la producción del IE de conformidad con lo dispuesto en el artículo 53b apartado (1) de la ley n.º 266 en el lugar de producción del IE. El IJ de la IT3 de la IF fue encargado de la investigación y de la determinación de las causas y circunstancias de la producción del IE. Sobre la base de los hechos constatados, no fue necesario constituir un equipo de inspectores jefes de la IF. El método de actuación se estableció de manera operativa según el desarrollo de la investigación, incluyendo la utilización de consultas con otras personas con cualificación profesional de la IF.
 
-
 ## Página 9
+
 
 Durante la investigación se tuvo en cuenta:
 a) las constataciones en el lugar del IE, incluida la evaluación de la documentación fotográfica realizada y las mediciones efectuadas;
@@ -224,6 +228,7 @@ La documentación del tren forma parte del expediente.
 
 ## Página 10
 
+
 ### 2.2.3 Descripción de los componentes de la vía de circulación ferroviaria, del sistema de seguridad (es decir, en particular, del estado de las vías, de las agujas, de los cuadros de conmutación, de las señales y del equipo de seguridad a bordo del tren)
 En la Estación de Conmutación de Praga-Vítkov se encuentra un dispositivo de seguridad de estación de relés de la III categoría con señales luminosas y un sistema de señales de velocidad. El dispositivo de seguridad puede controlarse a distancia desde el puesto de mando único (en lo sucesivo, PMU) de la Estación de Praga-Holešovice, o localmente desde el panel del PMU de mando de emergencia en la oficina de tráfico de la Estación de Conmutación. La Estación de Conmutación de Praga-Vítkov constituye un único circuito. La velocidad máxima permitida en línea es de 50 km/h.
 
@@ -249,8 +254,8 @@ Al lugar del MI acudieron personal cualificado de ČD, a. s., de la Policía de 
 
 Tras la inspección del lugar de aparición del MI por parte de la PČR, un empleado del RIBŽD de Praga y el VI DI presente, a las 12:02 horas del 17.2.2007 se otorgó a la IE el consentimiento para iniciar las labores de retirada. En el lugar del MI se garantizó la documentación de tráfico y se aseguraron los datos procedentes del velocígrafo electrónico del VM para evaluar la evolución de la circulación antes de la aparición del MI.
 
-
 ## Página 11
+
 
 El maquinista del tren EC 107 y el despachador de la Estación de Conmutación de Praga-Vítkov fueron sometidos a una prueba de detección de alcohol con resultado negativo. Las actas forman parte del expediente.
 La interrupción completa del tráfico entre la Estación de Praga hl. n. y la Estación de Conmutación de Praga-Vítkov se produjo desde las 10:28 horas hasta las 19:30 horas del 17.2.2007.
@@ -282,6 +287,7 @@ El daño total causado en el MI fue de 189 906,- Kč.
 
 ## Página 12
 
+
 ### 2.4 Factores externos
 ### 2.4.1 Condiciones meteorológicas y datos geográficos
 En el momento de la producción del IE, el tiempo estaba tranquilo, la temperatura era de + 2 °C, cielo despejado.
@@ -298,8 +304,8 @@ el jefe de maniobras de la estación de Vítkov de Praga, en su declaración, en
 El Instituto de Investigación Ferroviaria, a. s., con domicilio en Novodvorská 1698, 142 01 Praga 4 - Braník, emitió, sobre la base del encargo del gestor de la infraestructura ČD, a. s., el Informe Técnico VUZ KAO 003/2007 «Fotografía de la fractura – Análisis de la fractura de la punta del desvío número 2 en el desvío de Praga-Vítkov». En el punto número 5 de este informe, resumen de los resultados – conclusión, se indica, entre otras cosas:
 Como causa primaria de la destrucción de la punta del desvío se presenta la iniciación y el desarrollo de una fisura por fatiga que surge del borde del talón de la punta. En la zona de iniciación de la fisura por fatiga no se encontraron daños con una influencia dimensional significativa. Como lugar de iniciación puede considerarse un pequeño daño mecánico de la superficie en la zona del talón (no detectable en una inspección habitual), el ataque corrosivo de la superficie del material y la influencia del borde del talón de la punta como entalla constructiva.
 
-
 ## Página 13
+
 
 Se produjo un cambio repentino en la dirección de propagación de la fisura en la zona del alma de la cabeza de la punta del carril. La causa es probablemente la existencia de un defecto de fabricación en esta zona. Este probablemente inició el desarrollo de una fisura secundaria, que interrumpió la fisura magistral original. La destrucción final se produjo entonces por fractura de la cabeza en ambos extremos de la fisura secundaria.
 El informe completo forma parte del expediente.
@@ -318,40 +324,46 @@ La aptitud para la explotación de la vía es el estado técnico de la vía que 
 (5) Carriles con fracturas o defectos. En la vía en explotación no debe dejarse un carril con fracturas o defectos sin las medidas que garanticen la explotación segura del tráfico ferroviario.
 El gestor aplicó y desarrolló las disposiciones de referencia de estas normas jurídicas en procedimientos tecnológicos, contenidos en sus normas internas, especialmente en ČD D2 - Reglamento para la organización y la explotación del tráfico ferroviario, ČD S2/3 – Reglamento de la organización
 
-
 ## Página 14
 
-y la realización de las inspecciones de las vías de los Ferrocarriles Checos, ČD S3 – Superficie de rodadura ferroviaria, ČD S3/4 – Control defectoscópico de los carriles y las puntas de los desvíos, ČD S67 – Defectos y fracturas de los carriles.
-### 3.2.2 Requisitos para los empleados del gestor de la infraestructura y del transportista y su aplicación
-Todos los empleados participantes estaban cualificados profesionalmente para el desempeño de su cargo en el momento de la producción del IE.
-Los registros por escrito forman parte del expediente.
-### 3.2.3 Procedimiento de control interno de la seguridad y sus resultados
-Se respetaron la plenitud de las inspecciones establecidas y el intervalo temporal de las inspecciones y mediciones de la vía nacional según el decreto n.º 177 y las normas internas de referencia de ČD, a. s.
-Sobre la base de los procedimientos tecnológicos de referencia establecidos por ČD, a. s., en sus normas internas, se realizaron las siguientes inspecciones:
-El 24 de abril y el 26 de abril de 2006 se realizó una inspección integral en el tramo de vía
+para la realización de controles de vías de los Ferrocarriles Checos, ČD S3 – Superestructura ferroviaria, ČD S3/4 – Control por defectoscopía de raíles y lengüetas de desvíos, ČD S67 – Defectos y roturas de raíles.
+### 3.2.2 Requisitos para los empleados del gestor de la vía y del transportista y su cumplimiento
+Todos los empleados implicados estaban, en el momento de producirse el MU, cualificados profesionalmente para el desempeño de la función que ocupaban.
+Los registros escritos forman parte del expediente.
+### 3.2.3 Procedimiento de control interno de seguridad y sus resultados
+Se cumplió la totalidad de los controles establecidos y el intervalo temporal de inspecciones y mediciones de la vía de ámbito nacional conforme al decreto n.º 177 y a las normas internas de referencia de ČD, a. s.
+Conforme a los procedimientos tecnológicos de referencia establecidos por ČD, a. s. en sus normas internas, se realizaron los siguientes controles:
+El 24. 4. y el 26. 4. 2006 se realizó una inspección integral en el tramo
 ●
-Praga hl. n. – Praga-Vysočany.
-El 3 de noviembre de 2006 se realizó una medición continua de las desviaciones operativas en el tramo de vía
+Praha hl. n. – Praha-Vysočany.
+El 3. 11. 2006 se realizó una medición continua de desviaciones operativas en el tramo
 ●
-Praga hl. n. – Desvío de Praga-Vítkov.
-El 12 de diciembre de 2006 se realizó un control de los defectos de las puntas, detectables mediante un defectoscopio ultrasónico o visualmente.
+Praha hl. n. – Výhybna Praha-Vítkov.
+El 12. 12. 2006 se realizó un control de defectos de las lengüetas, detectables mediante
 ●
-El 7 de febrero de 2007 se realizó una inspección comisionada de los dispositivos bajo la gestión de la Dirección de la Ruta de Tráfico de Praga, según el decreto n.º 177, el Boletín de ČD 22/95 y la norma interna ČD P 1.
+defectoscopio ultrasónico o visualmente.
+El 7. 2. 2007 se realizó una inspección comisionada de las instalaciones bajo la gestión de
 ●
-La última ronda de inspección la realizó el gestor a través del maestro jefe de vías, el 16 de febrero de 2007.
-No se detectaron averías en el desvío n.º 2 durante las inspecciones mencionadas.
-### 3.2.4 Interfaces entre las diferentes partes participantes y las componentes de la ruta de tráfico
-No se aplica.
-### 3.3 Regulación jurídica y otra
-### 3.3.1 Normas jurídicas comunitarias y nacionales correspondientes
-Para el examen de las causas y las circunstancias de la producción de este IE se utilizaron las siguientes normas jurídicas:
-Ley n.º 266/1995 Sb., sobre las vías, en su versión vigente.
+Správa dopravní cesty Praha conforme al decreto n.º 177, al Boletín ČD 22/95 y a la
+norma interna ČD P 1.
+La última ronda de inspección la realizó el gestor a través del jefe superior de vías, el
 ●
-Decreto del Ministerio de Transportes n.º 100/1995 Sb., por el que se establecen las condiciones para la
+16. 2. 2007.
+No se detectaron defectos en el desvío n.º 2 en los controles indicados.
+### 3.2.4 Interfaz entre los distintos sujetos implicados y los componentes de la vía
+No procede.
+### 3.3 Regulación legal y de otro tipo
+### 3.3.1 Normativa legal comunitaria y nacional aplicable
+Para la determinación de las causas y circunstancias de la producción de este MU se aplicaron las siguientes normas legales:
+Ley n.º 266/1994 Sb., de vías férreas, en su redacción vigente.
 ●
-explotación, la construcción y la fabricación de los dispositivos técnicos designados y su concreción, en su versión modificada por disposiciones posteriores.
+Decreto del Ministerio de Transportes n.º 100/1995 Sb., por el que se establecen las
+●
+condiciones para la explotación, construcción y fabricación de dispositivos técnicos
+específicos y su concreción, en la redacción de las normas posteriores.
 
 ## Página 15
+
 
 Decreto del Ministerio de Transporte n.º 376/2006 Coll., sobre el sistema de seguridad 
 ●
@@ -399,10 +411,10 @@ ferroviarios sobre raíles
 ### 3.4 Funcionamiento de los vehículos ferroviarios y de los dispositivos técnicos
 ### 3.4.1 Sistema de gestión, señalización y seguridad, incluidos los dispositivos para el registro automático de datos
 Se garantizó la descarga de los datos de funcionamiento del dispositivo de seguridad de estación de relés 
-de la maniobrera de Praga-Vítkov. Su evaluación permitió determinar que el dispositivo de seguridad no fue causa ni circunstancia de la aparición del incidente. 
-
+de la maniobrera de Praga-Vítkov. Su evaluación permitió determinar que el dispositivo de seguridad no fue causa ni circunstancia de la aparición del incidente.
 
 ## Página 16
+
 
 ### 3.4.2 Componentes de la vía
 Tras el incidente se realizó una medición de la superestructura ferroviaria, cuya evaluación establece lo siguiente:
@@ -423,8 +435,8 @@ En la inspección de comprobación realizada el 19.2.2007 se determinó que el e
 gestión, la señalización y la seguridad del tráfico
 La investigación no demostró ningún defecto en la gestión de la vía, la gestión del transporte ferroviario ni ninguna infracción de las normas de explotación del transporte ferroviario que guardara relación causal con la aparición del incidente.
 
-
 ## Página 17
+
 
 ### 3.5.2 Intercambio de mensajes verbales en relación con el incidente, incluidos los documentos del dispositivo de grabación
 No fue necesario evaluarlo.
@@ -447,44 +459,48 @@ Un incidente similar fue registrado por la DI el 17.10.2006 en la estación de D
 ## Página 18
 
 ## 4 ANÁLISIS Y CONCLUSIONES
-### 4.1 Descripción final del incidente
-### 4.1.1 Descripción final del incidente basada en los hechos constatados
+### 4.1 Descripción final del suceso excepcional
+### 4.1.1 Descripción final del suceso excepcional basada en los hechos constatados 
 en el punto 3
-El 17 de febrero de 2007, tras la salida del tren EC 107 de la estación de Praga hl. n. con destino a la estación de Praga-Libeň,
-el tren atravesó un túnel y entró en el desvío de Praga-Vítkov por los puntos de aguja n.º 1 y 2, que estaban
-conmutados hacia la derivación a la vía n.º 2. A una velocidad de 46 km/h, la locomotora del tren EC 107 descarriló en la
-hoja curva izquierda del punto de aguja n.º 2, circulando por el talón. A pesar de que el maquinista aplicó inmediatamente
-el freno de emergencia, descarrilaron cinco vagones de pasajeros adicionales hasta que el tren se detuvo. El guardafrenos
-del desvío de Praga-Vítkov observó la entrada del tren desde su puesto y, inmediatamente después del descarrilamiento,
-comunicó el incidente al guardafrenes de la Estación Operativa Principal (JOP) de Praga-Holešovice. Este último actuó
-posteriormente conforme al plan de notificaciones.
-El maquinista del tren EC 107 también comunicó el incidente al guardafrenes de la JOP de Praga-Holešovice mediante
-radio. Asimismo, realizó la primera inspección de las consecuencias del incidente. Durante la misma, comprobó que la
-cabeza de la hoja del punto de aguja estaba rota bajo el quinto vagón descarrilado.
-En el incidente no hubo fallecidos ni heridos; descarrilaron la locomotora y cinco vagones de pasajeros. Los viajeros del
-tren EC 107 fueron trasladados a la estación de Praga-Libeň mediante un tren sustituto y posteriormente utilizaron los
-trenes siguientes.
-Tras la inspección del lugar del incidente por parte de la Policía Criminal de la República Checa (PČR), un empleado del
-Instituto de Investigación Ferroviaria de Praga (RIBŽD) y el Inspector Jefe de Inspección (DI) presente, a las 12:02 horas
-del 17 de febrero de 2007 se otorgó al Inspector Jefe de Inspección (DI) la autorización para iniciar las labores de
-desalojo. La interrupción total del tráfico entre la estación de Praga hl. n. y el desvío de Praga-Vítkov se produjo desde las
-10:28 horas hasta las 19:30 horas del 17 de febrero de 2007.
-El daño total al patrimonio del operador ČD, a. s., se cuantificó en 189 906,- Kč.
+El 17. 2. 2007, tras la salida del tren EC 107 de la est. Praha hl. n. con dirección a la est. Praha-Libeň, 
+el tren atravesó el túnel y entró en la Estación de Maniobras Praha-Vítkov en los desvíos n.º 1 y 2, que 
+estaban dispuestos en la desviación a la vía n.º 2. A una velocidad de 46 km.hֿ¹, el locomotor del tren 
+EC 107 descarriló sobre la lengüeta izquierda curva del desvío n.º 2, recorrida por la punta. A pesar de 
+que el maquinista aplicó inmediatamente el frenado de acción rápida, antes de que el tren se detuviera 
+descarrilaron todavía cinco vagones de viajeros. El jefe de estación de la Estación de Maniobras 
+Praha-Vítkov observó la entrada del tren desde su puesto y, inmediatamente después del descarrilamiento, 
+comunicó la aparición del suceso excepcional al jefe de estación JOP Praha-Holešovice. Este a su vez 
+procedió según el plan de comunicaciones.
+La aparición del suceso excepcional fue comunicada al jefe de estación JOP Praha-Holešovice mediante 
+estación de radio también por el maquinista del tren EC 107. Este asimismo realizó la primera inspección 
+de las consecuencias del suceso excepcional. En ello constató, bajo el quinto vagón descarrilado, la 
+cabeza de la lengüeta del desvío desprendida.
+En el suceso excepcional no hubo ninguna persona muerta ni herida; descarrilaron el locomotor y cinco 
+vagones. Los viajeros del tren EC 107 fueron trasladados a la est. Praha-Libeň con un tren de 
+sustitución y posteriormente utilizaron los trenes sucesivos. Tras la inspección del lugar de aparición 
+del suceso excepcional por la PČR, el empleado de RIBŽD Praha y el DI presente, a las 12:02 horas 
+del día 17. 2. 2007 se concedió por el DI el permiso para iniciar los trabajos de retirada de 
+obstáculos. La interrupción total de la circulación entre la est. Praha hl. n. y la Estación de Maniobras 
+Praha-Vítkov fue desde las 10:28 horas hasta las 19:30 horas del día 17. 2. 2007.
+El daño total en los bienes del operador ČD, a. s., fue valorado en 189 906,- Kč.
 ### 4.2 Análisis
-### 4.2.1 Evaluación de los hechos constatados según el punto 3 y presentación de las conclusiones sobre la causa
-del incidente y la actuación de los servicios de rescate
-La investigación determinó que el operador realizó, antes de la aparición del incidente, todas las inspecciones establecidas
-de conformidad con el Decreto n.º 177 y sus procedimientos tecnológicos contenidos en las normativas internas. Durante
-estas inspecciones no se detectaron averías que estuvieran en relación directa con la aparición del incidente.
-Asimismo, la inspección y la medición de la vía férrea realizadas tras el incidente no demostraron incumplimiento de la ley
-o de los Decretos n.º 376, 177 y 173.
-El operador encargó al Instituto de Investigación Ferroviaria, a. s., con domicilio en Novodvorská 1698, 142 01 Praga 4 –
-Braník, el análisis de la fractura de la hoja. Dicho instituto emitió, basándose en las pruebas realizadas, el Informe Técnico
-VUZ KAO 003/2007 «Fotografía de la fractura – Análisis de la fractura de la hoja del punto de aguja n.º 2 en el desvío de
-Praga-Vítkov». En este informe técnico se indica, entre otras cosas, que
-
+### 4.2.1 Evaluación de los hechos constatados según el punto 3 y exposición de las 
+conclusiones sobre la causa del suceso excepcional y la actuación de los servicios de rescate
+De la investigación se constató que el operador realizó, antes de la aparición del suceso excepcional, 
+todas las verificaciones establecidas de conformidad con la disposición n.º 177 y con sus procedimientos 
+tecnológicos contenidos en las normas internas. En dichas verificaciones no se detectaron defectos que 
+estuvieran en relación directa con la aparición del suceso excepcional.
+Asimismo, la inspección y medición del superestructura ferroviaria realizadas tras la aparición del 
+suceso excepcional no acreditaron infracción de la ley o, en su caso, de las disposiciones n.º 376, 177, 
+173.
+El análisis de la fractura de la lengüeta fue encargado por el operador al Instituto de Investigación 
+Ferroviaria, a. s., con sede en Novodvorská 1698, 142 01 Praha 4 – Braník. Este emitió, con base en 
+las pruebas realizadas, el Informe Técnico VUZ KAO 003/2007 «Factualidad de la fractura – Análisis 
+de la fractura de la lengüeta del desvío n.º 2 en la Estación de Maniobras Praha-Vítkov». En dicho 
+informe técnico se indica, entre otras cosas,
 
 ## Página 19
+
 
 que la fragilidad del material es la causa de la aparición de una fractura inestable a partir de defectos relativamente pequeños,
 que son prácticamente indetectables durante las inspecciones habituales.
@@ -510,8 +526,8 @@ No se detectaron.
 La aparición y las causas del incidente se debatirán en las reuniones del personal de SDC Praga encargado de las tareas
 de inspección. Plazo: hasta el 30 de junio de 2007.
 
-
 ## Página 20
+
 
 ## 6 RECOMENDACIONES DE SEGURIDAD
 No se emitieron.
@@ -523,23 +539,21 @@ Director
 Inspección Territorial de Praga
 Inspección Territorial de Praga
 
-
 ## Página 21
+
 
 ## 7 ANEXOS
 Foto 1: Estructura de la fractura de la hoja
 
-
 ## Página 22
+
 
 Foto 2: Parte de la hoja tras la rotura
 
-
 ## Página 23
 
-Foto 3: Estado del punto de aguja tras el incidente
-
+Foto 3: Estado del desvío tras el MU
 
 ## Página 24
 
-Foto 4: Fracturas de ambas partes de la hoja del punto de aguja
+Foto 4: Roturas de ambas partes de la lengüeta del desvío

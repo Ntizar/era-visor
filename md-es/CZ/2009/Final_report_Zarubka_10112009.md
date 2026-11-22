@@ -10,13 +10,14 @@ chars: 67740
 ratio_longitud: 1.25
 tokens_in: 41507
 tokens_out: 28105
-verificacion: revisar
-notas_cifras: ["bloque 2: original bilingüe: se compara contra el idioma principal (CS)", "bloque 3: original bilingüe: se compara contra el idioma principal (CS)", "bloque 4: cifras cortas: 1/109", "bloque 6: original bilingüe: se compara contra el idioma principal (CS)", "bloque 7: original bilingüe: se compara contra el idioma principal (CS)", "bloque 8: original bilingüe: se compara contra el idioma principal (CS)"]
-avisos: ["bloque 6: ratio 1.63", "bloque 8: ratio 1.63", "bloque 9: ratio 1.74"]
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 5: original bilingüe: se compara contra el idioma principal (EN)", "página 6: original bilingüe: se compara contra el idioma principal (CS)", "página 7: original bilingüe: se compara contra el idioma principal (CS)", "página 9: original bilingüe: se compara contra el idioma principal (CS)", "página 10: original bilingüe: se compara contra el idioma principal (CS); ratio 2.01", "página 11: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 Inspección Ferroviaria
 República Checa
@@ -43,11 +44,12 @@ CIF:   75009561
 http://www.dicr.cz
 fax: (+420) 224 805 428
 
-
 ## Página 2
 
 
+
 ## Página 3
+
 
 # RESUMEN
 Grado:
@@ -91,11 +93,12 @@ Causa raíz:
 ninguna
 Recomendaciones: no emitidas
 
-
 ## Página 4
 
 
+
 ## Página 5
+
 
 # Índice
  Resumen .........................................................................................................................3
@@ -140,6 +143,7 @@ personas en relación contractual ..............................................
 
 ## Página 6
 
+
 3.1.2 Otras personas .........................................................................................................14
 3.2 Sistema de garantía de la seguridad ...............................................................................15
 3.2.1 Organización marco y forma en que se emiten y aplican las instrucciones .......15
@@ -170,8 +174,8 @@ cumplimiento ...................................................................
 ............................................................................................................................23
 4.2 Examen ......................................................................................................................24
 
-
 ## Página 7
+
 
 4.2.1 Evaluación de los hechos constatados de acuerdo con el punto 3 y formulación de conclusiones sobre la causa del suceso excepcional y la actuación de los servicios de emergencia ..........................................24
 4.3 Conclusiones .......................................................................................................................25
@@ -190,10 +194,12 @@ cumplimiento ...................................................................
  Foto 3: Vehículo ferroviario descarrilado DV 88 54 9200064-5 .......................................................................29
  Foto 4: Locomotora dañada HDV 703.020-8 ...............................................................................29
 
-
 ## Página 8
 
+
+
 ## Página 9
+
 
 ## 1 RESUMEN
 Clasificación del suceso:
@@ -240,54 +246,22 @@ no se han determinado
 Causas en el sist. de seg.: no se han determinado
 Recomendaciones de seg.: no se han emitido
 
-
 ## Página 10
 
 ## 2 DATOS RELATIVOS AL SUCESO EXTRAORDINARIO
 ### 2.1 Suceso extraordinario
 ### 2.1.1 Fecha, hora exacta y lugar del suceso extraordinario
-El suceso extraordinario (en adelante SE) tuvo lugar el día 10/11/2009 a las 11:10 horas en 
-el paso a nivel en el pk 0,070 (en adelante PN), de la vía-lateral Kamenolom Zárubka, 
-enlazada en el pk 57,898 mediante la aguja Z1 en la vía estatal 507A Havlíčkův Brod – Pardubice, 
-entre las estaciones (en adelante est.) Žďárec u Skutče y Chrast u Chrudimi.
-### 2.1.2 Descripción del suceso extraordinario y del lugar del accidente, incluida la 
-actividad del sistema integrado de emergencias y del servicio de rescate
-El día 10/11/2009 a las 10:47 h partió de la est. Žďárec u Skutče el tren 1. nsl. 83182, compuesto 
-por locomotoras (en adelante HDV) 740.460-1 y 740.443-7 acopladas en 
-doble mando y 15 vehículos ferroviarios remolcados (en adelante DV), hacia la vía-lateral 
-Kamenolom Zárubka, donde los vehículos debían ser conducidos a la vía de entrega 
-del titular de la vía lateral.
-A las 10:52 h el tren se detuvo antes de la aguja de desvío Z1 en el pk 57,898. El jefe de maniobras 
-desacopló ambas HDV del convoy y frenó con el freno manual los 
-dos primeros vehículos tras las HDV desacopladas. 
-Por su orden, el maquinista se desplazó con las HDV más allá de la aguja Z1 hacia la vía 
-principal en dirección a la est. Chrast u Chrudimi. El jefe de maniobras comprobó en el lugar la 
-transitabilidad del PN y estableció la ruta de maniobra hacia la vía lateral núm. 1. 
-Tras vaciar los espacios de los frenos automáticos de los vehículos del convoy, ocupó 
-su puesto en la plataforma en el extremo trasero del primer DV empujado y 
-desfrenó dicho vehículo. Desde el mismo puesto desfrenó parcialmente 
-el segundo vehículo, con lo que el 
-convoy de 15 DV se puso en movimiento por la pendiente. Cuando la maniobra se acercaba al PN, el jefe de maniobras 
-vio que un vehículo azul entraba en el PN, pero debido a la corta 
-distancia no logró detener la maniobra que descendía mediante los frenos manuales. 
-Se produjo la colisión de la maniobra con un camión (en adelante NA), que fue 
-empujado por la maniobra durante 43 metros hasta el punto donde el NA 
-impactó contra la locomotora estacionada 703.020-8 en la 
-segunda vía lateral, con el descarrilamiento del primer DV empujado y su 
-atropellamiento sobre el NA. Según las marcas en el NA, el frontal de la maniobra 
-impactó en la parte delantera del NA.
-El SE fue comunicado por el jefe de maniobras de OKD, Doprava, akciová společnost, por 
-teléfono móvil al número 112.
-En el lugar actuó la unidad de intervención del Servicio de Bomberos y Rescate de Hlinsko v Čechách 
-y de la Policía de la República Checa, servicios de policía judicial 
-e investigación, departamento territorial Chrudim (en adelante PČR SKPV ÚO).
-2.1.3 Decisión de iniciar la investigación de las causas y circunstancias del suceso, composición del equipo de personas cualificadas y forma de dirigir la investigación de las causas y circunstancias del suceso
-El SE fue notificado a la Inspección Ferroviaria (en adelante DI) en el Centro de Notificación 
-de Praga a las 11:43 horas por un empleado de OKD, Doprava, akciová společnost, (en adelante OKD-D) 
-y a las 11:54 h por el jefe del establecimiento de ČMŠ, a. s.
-
+El suceso extraordinario (en adelante, SE) tuvo lugar el día 10. 11. 2009 a las 11:10 horas en el paso a nivel en el pk 0,070 (en adelante, PN), del ramal-privado Kamenolom Zárubka, enclavado en el pk 57,898 mediante el desvío Z1 en la línea estatal 507A Havlíčkův Brod – Pardubice, entre las estaciones (en adelante, est.) Žďárec u Skutče y Chrast u Chrudimi.
+### 2.1.2 Descripción del suceso extraordinario y del lugar del accidente, incluida la actividad del sistema integrado de emergencia y del servicio de rescate
+El día 10. 11. 2009 a las 10:47 h partió de la est. Žďárec u Skutče el tren 1. nsl. 83182, compuesto por vehículos de tracción ferroviaria (en adelante, HDV) 740.460-1 y 740.443-7 acoplados en mando de dos unidades y 15 vehículos ferroviarios remolcados (en adelante, DV), hacia el ramal-privado Kamenolom Zárubka, donde los vagones debían ser maniobrados a la vía de entrega del titular del ramal.
+A las 10:52 h el tren se detuvo antes del desvío lateral Z1 en el pk 57,898. El jefe de maniobras desacopló ambos HDV del convoy y frenó con el freno manual los dos primeros vagones tras los HDV desacoplados. Por su orden, el maquinista se desplazó con el HDV más allá del límite del desvío Z1 hacia la vía de vía hacia la est. Chrast u Chrudimi. El jefe de maniobras comprobó en el lugar la practicabilidad del PN y estableció la ruta de maniobras hacia la vía de ramal n.º 1. Tras vaciar los espacios de los frenos automáticos de los vagones del convoy, se situó en la plataforma en el extremo posterior del primer DV que se soltaba y desfrenó dicho vagón. Desde la misma posición desfrenó parcialmente el segundo vagón, con lo que el convoy de 15 DV se puso en movimiento por gravedad. Cuando la formación de maniobras se aproximaba al PN, el jefe de maniobras observó que un vehículo azul entraba en el PN, pero por la corta distancia no logró detener la formación de maniobras que se soltaba mediante los frenos manuales. Se produjo la colisión de la formación de maniobras con un camión (en adelante, NA), que fue empujado 43 metros por la formación de maniobras hasta el lugar donde el NA chocó contra el HDV 703.020-8 estacionado en la segunda vía de ramal, con el descarrilamiento del primer DV que se soltaba y su montaje sobre el NA. Según las marcas en el NA, el choque se produjo en la parte frontal de la formación de maniobras contra la parte delantera del NA.
+El jefe de maniobras de OKD, Doprava, akciová společnost, comunicó el SE por teléfono móvil al número 112.
+En el lugar actuaron la unidad de intervención del Servicio de Bomberos y Rescate de Hlinsko v Čechách y la Policía de la República Checa, servicios de policía judicial e investigación, territorio departamento Chrudim (en adelante, PČR SKPV ÚO).
+2.1.3 Decisión de iniciar la investigación de las causas y circunstancias del suceso, composición del equipo de personas cualificadas y método de dirección de la investigación de las causas y circunstancias del suceso
+El SE fue comunicado a la Inspección Ferroviaria (en adelante, DI) en el Centro de Notificación de Praga a las 11:43 horas por un empleado de OKD, Doprava, akciová společnost, (en adelante, OKD-D) y a las 11:54 h por el jefe del establecimiento ČMŠ, a. s.
 
 ## Página 11
+
 
 La investigación de las causas y circunstancias del SE fue encomendada al inspector jefe 
 de la Inspección Territorial de Brno, que se desplazó al lugar del SE. El motivo de 
@@ -341,6 +315,7 @@ Ua      88 54 9200 086-8;
 
 ## Página 12
 
+
 Ua      88 54 9200 053-8;
 •
 Ua      88 54 9200 071-0;
@@ -365,31 +340,30 @@ En el momento de la aparición del MU no se estaban realizando en la vlečka tra
 La aparición del MU fue comunicada por el jefe de maniobra del transportista mediante teléfono móvil al número 112. El despachador de OKD-D comunicó al DI la aparición del MU a las 11:43 h, el jefe de explotación de la vlečka de ČMŠ, a. s., comunicó al DI la aparición del MU a las 11:54 h.
 El MU fue comunicado al DI en el sentido del decreto n.º 376 sin demora innecesaria, inmediatamente después de conocer los hechos necesarios para la notificación inicial. En el lugar del MU estaban presentes las personas autorizadas y profesionalmente competentes del explotador de la vía y del transportista.
 
-
 ## Página 13
 
-Tras la inspección del lugar del MU por la PČR SKPV ÚO, por las personas autorizadas del explotador de la vía, del transportista y del DI, el día 10. 11. 2009 a las 15:15 h se concedió por el DI el permiso para iniciar los trabajos de limpieza.
-En el lugar del MU se aseguró la documentación del tren 1. nsl. 83182 y la documentación de explotación del jefe de estación de la estación Žďárec u Skutče. El maquinista y el jefe de maniobra fueron sometidos por la PČR SKPV ÚO en el lugar a una prueba de alcoholemia con resultado negativo. Los trabajos de limpieza fueron realizados por los servicios del transportista OKD-D, en colaboración con el Servicio de Extinción de Incendios y Salvamento.
-### 2.2.7 Activación del plan del sistema integrado de salvamento, de la policía y del servicio de emergencias médicas y secuencia de acontecimientos
-El MU fue comunicado al sistema integrado de salvamento de conformidad con el decreto n.º 376 por el jefe de maniobra.
-En el lugar actuaron:
-PČR SKPV ÚO Chrudim;
+Tras la inspección del lugar del accidente ferroviario por la Policía de la República Checa, Dirección Regional de Investigación de Delitos Graves, ÚO, por las personas designadas por el gestor de la vía, el transportista y el DI, el día 10. 11. 2009 a las 15:15 h. el DI dio su consentimiento para el inicio de los trabajos de despeje.
+En el lugar del accidente ferroviario se aseguró la documentación del tren 1. nsl. 83182 y la documentación de tráfico del jefe de estación de la estación Žďárec u Skutče. El maquinista y el jefe de maniobras fueron sometidos en el lugar por la Policía de la República Checa, Dirección Regional de Investigación de Delitos Graves, ÚO, a una prueba de alcoholemia con resultado negativo. Los trabajos de despeje fueron realizados por los servicios del transportista OKD-D, en colaboración con el Servicio de Bomberos y Rescate.
+### 2.2.7 Activación del plan del sistema integrado de rescate, policía y servicio médico de emergencia y secuencia de acontecimientos
+El accidente ferroviario fue notificado al sistema integrado de rescate de conformidad con el decreto núm. 376 por el jefe de maniobras.
+En el lugar intervinieron:
+Policía de la República Checa, Dirección Regional de Investigación de Delitos Graves, ÚO Chrudim;
 •
-Servicio de Emergencias Médicas de la Región de Pardubice, oficina territorial de Chrudim, punto de salida Hlinsko v Čechách;
+Servicio Médico de Emergencia de la Región de Pardubice, distrito territorial de Chrudim, punto de salida Hlinsko v Čechách;
 •
-Unidad de salida del Servicio de Extinción de Incendios y Salvamento de Hlinsko v Čechách.
+Unidad de salida del Servicio de Bomberos y Rescate de Hlinsko v Čechách.
 •
 ### 2.3 Fallecimientos, lesiones y daños materiales
-2.3.1 En pasajeros y terceras personas, empleados del explotador de la vía y del transportista, incluidas personas en relación contractual
-En el MU falleció el conductor del NA.
-### 3.3.2 En las cosas transportadas, el equipaje y otros bienes
-Como consecuencia del MU resultó dañado el NA TATRA 148-2 S3. El daño se estimó en 60 000,- CZK.
-### 2.3.3 En los vehículos ferroviarios, los componentes de la vía de la vía férrea y en el medio ambiente
-Los costes de reparación del HDV 703.020-8, propiedad de ČMC, a. s., fueron estimados por el propietario en 25 000,- CZK, los costes de reparación del DV Ua 88 54 9200 064-5, propiedad de OKD-D, fueron estimados por el propietario en 200 000,- CZK, en los componentes de la vía de la vía férrea, ČMŠ, a. s., cuantificó el daño en 35 000,- CZK. No se produjo daño al medio ambiente en el MU.
-El daño secundario, derivado del MU, fue la interrupción de la explotación del transporte ferroviario en el tramo entre Žďárec u Skutče y Chrast u Chrudimi en el período comprendido entre las 11:10 h y las 19:20 h. En total se cancelaron 16 trenes de transporte de pasajeros, que fueron sustituidos por autobuses.
-
+2.3.1 En pasajeros y terceros, empleados del gestor de la vía y del transportista, incluidas personas en relación contractual
+En el accidente ferroviario falleció el conductor del NA.
+### 2.3.2 En objetos transportados, equipaje y otros bienes
+Como consecuencia del accidente ferroviario resultó dañado el NA TATRA 148-2 S3. El daño se estimó en 60 000,- CZK.
+### 2.3.3 En vehículos ferroviarios, componentes de la vía de tráfico y en el medio ambiente
+Los costes de reparación del HDV 703.020-8, en propiedad de ČMC, a. s., fueron estimados por el propietario en 25 000,- CZK, los costes de reparación del DV Ua 88 54 9200 064-5, en propiedad de OKD-D, fueron estimados por el propietario en 200 000,- CZK, en los componentes de la vía de tráfico la ČMŠ, a. s., cuantificó el daño en 35 000,- CZK. No se produjo daño al medio ambiente en el accidente ferroviario.
+El daño secundario, derivado del accidente ferroviario, fue la interrupción de la explotación del tráfico ferroviario en el tramo de vía Žďárec u Skutče – Chrast u Chrudimi en el período comprendido entre las 11:10 h. y las 19:20 h. En total se cancelaron 16 trenes de tráfico de pasajeros, que fueron sustituidos por autobuses.
 
 ## Página 14
+
 
 ### 2.4 Circunstancias externas
 ### 2.4.1 Condiciones meteorológicas y datos geográficos
@@ -414,44 +388,44 @@ No se presentó explicación alguna sobre el MU por parte de otras personas.
 ## Página 15
 
 ### 3.2 Sistema de garantía de la seguridad
-### 3.2.1 Organización marco y forma en que se emiten y ejecutan las instrucciones
-La explotación del transporte ferroviario en el apartadero Zárubka se realiza con base en el contrato n.º 66ŘP 323/07, celebrado entre OKD-D y ČMC, a. s., el 06. 03. 2007.
-El explotador de la vía ČMC, a. s., publicó la «Norma interna sobre la organización de la vía y del transporte ferroviario del apartadero, competencia profesional de los empleados que garantizan la explotación de la vía y la organización del transporte ferroviario en la vía ferroviaria-apartadero Cantera Zárubka», vigente desde el 01. 01. 2000 (en adelante VP 2000), en la que se establece que:
-el paso a nivel de la vía de comunicación interna de la empresa es un paso a nivel no protegido, que está
+### 3.2.1 Marco organizativo y forma en que se emiten y ejecutan las instrucciones
+La explotación del tráfico ferroviario en el apartadero Zárubka se realiza en virtud del contrato n.º 66ŘP 323/07, celebrado entre OKD-D y ČMC, a. s., el 06. 03. 2007.
+El explotador de la vía ČMC, a. s., emitió la «Reglamento interno sobre la organización de la vía y del tráfico ferroviario del apartadero, cualificación profesional de los empleados que garantizan la explotación de la vía y la organización del tráfico ferroviario en la vía ferroviaria-apartadero Cantera Zárubka», vigente desde el 01. 01. 2000 (en adelante VP 2000), en el que se establece que:
+el paso a nivel de la carretera interna de la empresa es un paso a nivel sin protección, que está
 •
 señalizado con cruces de advertencia;
 el transportista coloca y aparta los vagones desde el lugar de entrega según el reglamento
 •
-operativo de enlace;
+de explotación de enlace;
 los vagones vacíos se empujan hacia el apartadero;
 •
-está prohibido el maniobrado por gravedad;
+la maniobra por gravedad está prohibida;
 •
-el operador del apartadero coloca los vagones con su propia HDV en cada punto de
+a cada punto de carga y descarga, el personal del apartadero coloca los vagones con su
 •
-carga y descarga, si bien se permite el maniobrado por gravedad al colocar en la vía n.º 101.
-Con el maniobrado por gravedad de los vagones hacia el apartadero se incumplió la disposición del VP 2000 según la cual los vagones vacíos se empujan hacia el apartadero y el maniobrado por gravedad está prohibido.
-El explotador de la vía ČMC, a. s., publicó asimismo la «Norma interna sobre la organización de la vía y del transporte ferroviario del apartadero, competencia profesional de los empleados que garantizan la explotación de la vía y la organización del transporte ferroviario en la vía ferroviaria-apartadero de Českomoravské štěrkovny, a. s., Cantera Zárubka» actualizada, vigente desde el 01. 01. 2007 (en adelante VP 2007), en la que se establece que:
+propio HDV, estando permitida la maniobra por gravedad al colocarlos en la vía n.º 101.
+Con la maniobra por gravedad de los vagones hacia el apartadero se incumpló la disposición del VP 2000 según la cual los vagones vacíos se empujan hacia el apartadero y la maniobra por gravedad está prohibida.
+El explotador de la vía ČMC, a. s., emitió asimismo el «Reglamento interno actualizado sobre la organización de la vía y del tráfico ferroviario del apartadero, cualificación profesional de los empleados que garantizan la explotación de la vía y la organización del tráfico ferroviario en la vía ferroviaria-apartadero de Českomoravské štěrkovny, a. s., Cantera Zárubka», vigente desde el 01. 01. 2007 (en adelante VP 2007), en el que se establece que:
 los vagones se arrastran hacia el apartadero;
 •
-está prohibido el maniobrado por gravedad;
+la maniobra por gravedad está prohibida;
 •
-en la sección «Norma operativa de seguridad local para la explotación de la vía» de este VP
+en la parte «Reglamento local de explotación de seguridad para la explotación de la vía»
 •
-2007 se indica: los vagones vacíos se empujan hacia el apartadero, el operador del apartadero coloca los vagones con su propia HDV en cada punto de carga y descarga, se permite el maniobrado por gravedad al colocar en la vía n.º 101;
+de este VP 2007 se establece: los vagones vacíos se empujan hacia el apartadero, a cada punto de carga y descarga el personal del apartadero coloca los vagones con su propio HDV, la maniobra por gravedad está permitida al colocarlos en la vía n.º 101;
 todos los vagones aptos deben estar conectados al freno continuo y debe realizarse
 •
-una prueba de frenado completa;
-el responsable de la explotación del apartadero responde de que, durante la atención del
+una prueba completa del freno;
+el responsable de la explotación del apartadero responde de que durante la atención del
 •
-apartadero, no se realicen en la vía-apartadero circulaciones de vehículos ni maniobras que puedan poner en peligro la circulación de los vehículos ferroviarios que serán realizados por empleados de ČD;
-por las medidas durante el maniobrado responde el empleado de ČD que dirige el maniobrado.
+apartadero no se realicen en la vía-apartadero ningún tráfico de vehículos ni maniobras que puedan poner en peligro el tráfico de vehículos ferroviarios que serán realizados por empleados de ČD;
+por las medidas durante la maniobra responde el empleado de ČD que dirige la maniobra.
 •
-No obstante, el explotador de la vía no facilitó esta norma al transportista OKD-D para su uso.
-El contrato de contacto entre vías mutuamente enlazadas n.º 59/2009 – OŘ – HK/JAS fue celebrado entre las partes contratantes Správa železniční dopravní cesty, organización estatal,
-
+No obstante, el explotador de la vía no facilitó este reglamento a los transportistas OKD-D para su uso.
+El contrato de contacto entre vías mutuamente enlazadas n.º 59/2009 – OŘ – HK/JAS fue celebrado entre las partes contratantes Správa železniční dopravní cesty, státní organizace,
 
 ## Página 16
+
 
 y Českomoravský cement, a. s., sociedad sucesora, el 09. 04. 2009.
 A este contrato, el operador del explotador de la vía publicó el Reglamento operativo de enlace para la vía-apartadero Českomoravský štěrk, a. s., apartadero Cantera Zárubka, con efectos desde el 15. 06. 2009 (en adelante PPŘ). Este PPŘ se conserva como anexo n.º 4 del Reglamento de estación de la est. Žďárec u Skutče, n.º de referencia ZDD – 19/2007 – UŽST, con efectos desde el 14. 05. 2007 (en adelante SŘ), y es vinculante para los empleados del operador del explotador de la vía y, además, conforme al art. III del Contrato de explotación del transporte ferroviario, para el transportista OKD-D. En el PPŘ, sobre la atención del apartadero, se indica:
@@ -469,6 +443,7 @@ Por el Decreto n.º 173 se establecen en el § 16 apartado 5) las condiciones de
 La instrucción del explotador de la vía para advertir a los usuarios de la vía de comunicación en el PZN se dio mediante cruces de advertencia situados a ambos lados del PZN, a la derecha de la vía de comunicación. Con mediciones en el lugar del MU se comprobó que la disposición espacial del PZN correspondía a la disposición de la norma ČSN 73 6380 Pasos a nivel y pasos peatonales ferroviarios (véase el capítulo 3.4.2.).
 
 ## Página 17
+
 
 ### 3.2.2 Requisitos de los empleados del gestor de la infraestructura y del transportista y su cumplimiento
 La aptitud médica de los empleados del gestor de la infraestructura y del transportista se valora en el sentido de lo dispuesto en la disposición nº 101/1995 Sb., por la que se aprueba la Ordenanza sobre la aptitud médica y profesional de las personas para la explotación de la infraestructura y del transporte ferroviario, en su versión vigente.
@@ -489,30 +464,40 @@ Los controles internos del transportista OKD-D en la infraestructura-ramal Kamen
 • El transportista es OKD-D, con domicilio en Nádražní 93, 702 62 Ostrava 1, en virtud de la Licencia de gestor de transporte ferroviario, nº ref. 1 – 402/97-DÚ/O-Sl, nº ref. L/1997/0815, concedida por la Autoridad Ferroviaria de Praga el 14. 4. 1997, en su versión vigente.
 La interfaz entre los sujetos participantes queda establecida:
 
-
 ## Página 18
 
-• entre el transportista OKD-D y el gestor de la infraestructura-ramal mediante el Contrato nº 66ŘP 323/07 de explotación del transporte ferroviario en el ramal "Českomoravské štěrkovny, a. s., ramal Kamenolom Zárubka", celebrado el 6. 3. 2007, con vigencia desde el 6. 3. 2007;
-• entre los gestores de las infraestructuras mutuamente enlazadas SŽDC, s. o. y ČMC, a. s. mediante el Contrato de enlace de las infraestructuras mutuamente enlazadas para el ramal "Českomoravské štěrkovny, a. s., ramal Kamenolom Zárubka", nº 59/2009–OŘ–HK/JAS, celebrado el 9. 4. 2009, con vigencia desde el 9. 4. 2009.
-### 3.3 Regulación jurídica y otra
-### 3.3.1 Normativa jurídica comunitaria y nacional aplicable
-Para la determinación de las causas y circunstancias de la producción de esta MU se aplicaron las siguientes normas jurídicas nacionales:
-• Ley nº 266/1994 Sb., de infraestructuras, en su versión vigente;
-• Disposición nº 101/1995 Sb., por la que se aprueba la Ordenanza sobre la aptitud médica y profesional de las personas para la explotación de la infraestructura y del transporte ferroviario, en su versión vigente;
-• Disposición nº 173/1995 Sb., ordenanza de circulación ferroviaria, en su versión vigente;
-• Disposición nº 177/1995 Sb., por la que se aprueba la ordenanza de construcción y técnica de las infraestructuras, en su versión vigente;
-• Disposición nº 376/2006 Sb., sobre el sistema de seguridad de la explotación de la infraestructura y del transporte ferroviario y los procedimientos en caso de sucesos excepcionales en las infraestructuras;
-• Ley nº 262/2006 Sb., Estatuto de los Trabajadores, en su versión vigente.
+entre el operador OKD-D y el gestor de la vía-ladera mediante el Contrato n.º 66ŘP 323/07
+•
+sobre la explotación del transporte ferroviario en la ladera «Českomoravské štěrkovny, a. s., ladera Kamenolom Zárubka», celebrado el 6. 3. 2007, con vigencia desde el 6. 3. 2007;
+entre los gestores de las vías mutuamente enlazadas SŽDC, s. o. y ČMC, a. s., mediante el Contrato
+•
+de contacto de las vías mutuamente enlazadas para la ladera «Českomoravské štěrkovny, a. s., ladera Kamenolom Zárubka», n.º 59/2009–OŘ–HK/JAS, celebrado el 9. 4. 2009, con vigencia desde el 9. 4. 2009.
+### 3.3 Marco jurídico y otras disposiciones
+### 3.3.1 Normativa comunitaria y nacional aplicable
+Para la determinación de las causas y circunstancias del origen de este SU se utilizaron las siguientes disposiciones jurídicas nacionales:
+Ley n.º 266/1994 Sb., de vías férreas, en su redacción vigente;
+•
+Decreto n.º 101/1995 Sb., por el que se aprueba el Reglamento de aptitud sanitaria y profesional de las personas para la explotación de la vía y del transporte ferroviario, en su redacción vigente;
+Decreto n.º 173/1995 Sb., reglamento de circulación de las vías férreas, en su redacción vigente;
+•
+Decreto n.º 177/1995 Sb., por el que se aprueba el reglamento de construcción y técnico de las vías férreas, en su redacción vigente;
+•
+Decreto n.º 376/2006 Sb., sobre el sistema de seguridad de la explotación de la vía y del transporte ferroviario y los procedimientos en caso de sucesos excepcionales en las vías férreas;
+Ley n.º 262/2006 Sb., Estatuto de los Trabajadores, en su redacción vigente.
+•
 Normas técnicas:
-• ČSN 73 6380 Pasos a nivel y pasos peatonales ferroviarios.
-3.3.2 Otras normas, p. ej. ordenanza de explotación, ordenanza laboral, normas de mantenimiento, normas técnicas vigentes y otros reglamentos internos
-Para la determinación de las causas y circunstancias de la producción de esta MU se aplicaron los siguientes reglamentos internos:
-• "Reglamento interno sobre la organización de la infraestructura y del transporte ferroviario del ramal, aptitud profesional de los empleados que garantizan la explotación de la infraestructura y la organización del transporte ferroviario en la infraestructura-ramal ferroviaria Českomoravské štěrkovny, a. s., Kamenolom Zárubka", vigente desde el 01. 01. 2007;
-• "Reglamento interno sobre la organización de la infraestructura y del transporte ferroviario del ramal, aptitud profesional de los empleados que garantizan la explotación de la infraestructura y la organización del transporte ferroviario en la infraestructura-ramal ferroviaria Kamenolom Zárubka", vigente desde el 01. 01. 2000;
-• Ordenanza de explotación de enlace para la infraestructura-ramal "Českomoravské štěrkovny, a. s., ramal Kamenolom Zárubka", vigente desde el 15. 06. 2009 (en adelante PPŘ);
-
+ČSN 73 6380 Pasos a nivel y pasos peatonales ferroviarios.
+•
+3.3.2 Otras disposiciones, p. ej., reglamento de explotación, reglamento laboral, disposiciones de mantenimiento, normas técnicas vigentes y otras disposiciones internas
+Para la determinación de las causas y circunstancias del origen de este SU se utilizaron las siguientes disposiciones internas:
+«Disposición interna sobre la organización de la vía y del transporte ferroviario de la ladera, aptitud profesional de los empleados que garantizan la explotación de la vía y la organización del transporte ferroviario en la vía férrea-ladera Českomoravské štěrkovny, a. s., Kamenolom Zárubka», vigente desde el 01. 01. 2007;
+•
+«Disposición interna sobre la organización de la vía y del transporte ferroviario de la ladera, aptitud profesional de los empleados que garantizan la explotación de la vía y la organización del transporte ferroviario en la vía férrea-ladera Kamenolom Zárubka», vigente desde el 01. 01. 2000;
+Reglamento de explotación de enlace para la vía-ladera «Českomoravské štěrkovny, a. s., ladera Kamenolom Zárubka», vigente desde el 15. 06. 2009 (en adelante PPŘ);
+•
 
 ## Página 19
+
 
 • Ordenanza de estación de la est. Žďárec u Skutče, nº ref. ZDD – 19/2007 – UŽST, incluidos sus anexos, vigente desde el 14. 05. 2007.
 ### 3.4 Actividad de los vehículos ferroviarios y de las instalaciones técnicas
@@ -531,79 +516,49 @@ Valores prescritos Lp
 
 ## Página 20
 
-De lo anterior se deduce que todas las longitudes de visibilidad Lp medidas correspondían a lo dispuesto en la norma ČSN
-73 6380.
-Relaciones de visibilidad medidas L r para vehículos por carretera
-y su comparación con los valores establecidos en la
-ČSN 73 6380:
-| Grandes magnitudes prescritas L r para la velocidad V Ž= 5 km/h y la longitud de visibilidad D = 20 m z |  | Grandes magnitudes medidas L r para la velocidad V Ž= 5 km/h y la longitud de visibilidad D = 20 m z |  |
-| En sentido contrario a la marcha NA hacia el encuentro del tramo de maniobra . | En el sentido de la marcha NA en el sentido de la marcha del tramo de maniobra . | En sentido contrario a la marcha NA hacia el encuentro del tramo de maniobra . | En el sentido de la marcha NA en el sentido de la marcha del tramo de maniobra . |
-| 5 28 m , | 5 28m , | 100 m | 27 m |
-| Grandes magnitudes prescritas L r para la velocidad V Ž=5 km/h y la longitud de visibilidad D = 20 m z |  | Grandes magnitudes medidas L r para la velocidad V Ž= 5 km/h y la longitud de visibilidad D = 20 m z |  |
-| En el sentido de la marcha NA hacia el encuentro del tramo de maniobra . | En sentido contrario a la marcha NA en el sentido de la marcha del tramo de maniobra . | En el sentido de la marcha NA hacia el encuentro del tramo de maniobra . | En sentido contrario a la marcha NA en el sentido de la marcha del tramo de maniobra . |
-| 5 28m , | 5 28m , | 6 0 m , | 10 m |
-De lo anterior se deduce que todas las longitudes de visibilidad Lr medidas correspondían a lo dispuesto en la norma ČSN
-73 6380.
-Distancias medidas de la cruz de aviso al eje de la vía y su comparación con los valores
-establecidos en la ČSN 73 6380:
-|  | Grandes magnitudes prescritas | Grandes magnitudes medidas |
+De lo anterior se desprende que todas las longitudes de visibilidad Lp medidas correspondían a lo dispuesto en la norma ČSN 73 6380.
+Relaciones de visibilidad medidas para vehículos viales Lr y su comparación con los valores establecidos en la ČSN 73 6380:
+| Granduras prescritas Lr para la velocidad V Ž= 5 km/h y la longitud de visibilidad D = 20 m z |  | Granduras detectadas Lr para la velocidad V Ž= 5 km/h y la longitud de visibilidad D = 20 m z |  |
+| En sentido contrario a la marcha NA hacia el encuentro del tramo de maniobras. | En el sentido de la marcha NA en el sentido de la marcha del tramo de maniobras. | En sentido contrario a la marcha NA hacia el encuentro del tramo de maniobras. | En el sentido de la marcha NA en el sentido de la marcha del tramo de maniobras. |
+| 5 28 m , | 5 28 m , | 100 m | 27 m |
+| Granduras prescritas Lr para la velocidad V Ž= 5 km/h y la longitud de visibilidad D = 20 m z |  | Granduras detectadas Lr para la velocidad V Ž= 5 km/h y la longitud de visibilidad D = 20 m z |  |
+| En el sentido de la marcha NA hacia el encuentro del tramo de maniobras. | En sentido contrario a la marcha NA en el sentido de la marcha del tramo de maniobras. | En el sentido de la marcha NA hacia el encuentro del tramo de maniobras. | En sentido contrario a la marcha NA en el sentido de la marcha del tramo de maniobras. |
+| 5 28 m , | 5 28 m , | 6 0 m , | 10 m |
+De lo anterior se desprende que todas las longitudes de visibilidad Lr medidas correspondían a lo dispuesto en la norma ČSN 73 6380.
+Distancias medidas de la cruz de aviso al eje de la vía y su comparación con los valores establecidos en la ČSN 73 6380:
+|  | Granduras prescritas | Granduras detectadas |
 | En sentido contrario a la marcha NA | mín. 4 m . | 4 m |
 | En el sentido de la marcha NA | mín. 4 m . | 16 5 m , |
-De lo anterior se deduce que las distancias medidas de las cruces de aviso al eje de la vía correspondían
-a lo dispuesto en la norma ČSN 73 6380.
-Los parámetros constructivos y técnicos de la vía-lateral y la disposición espacial del paso a nivel proporcionaban al conductor NA
-una visibilidad suficiente hacia el encuentro del tramo de maniobra entrante, ya que el tramo de maniobra llegaba por
-la vía más alejada del paso a nivel de doble vía con una distancia entre ejes de vías de 4,5 m y el campo de visibilidad se
-en el sentido de la marcha NA al entrar en el PdN se abre hasta la confluencia de la vía-lateral en la vía de ancho nacional.
-La no colocación de las balizas de aviso, exigida por la ČSN 73 6380, no tiene influencia en la aparición de la MU, ya que
-el elemento de seguridad determinante es la protección del paso a nivel por una persona cualificada, tal
-como exige el § 16 apartado 5) del decreto n.º 173 (véase el capítulo 3.2.1).
-
+De lo anterior se desprende que las distancias medidas de las cruces de aviso al eje de la vía correspondían a lo dispuesto en la norma ČSN 73 6380.
+Los parámetros constructivo-técnicos de la vía-lateral y la disposición espacial del paso a nivel proporcionaban al conductor NA una visibilidad suficiente hacia el encuentro del tramo de maniobras que llegaba, ya que el tramo de maniobras llegaba por la vía más alejada del paso a nivel de dos vías con una distancia entre ejes de vías de 4,5 m y el campo de visibilidad en el sentido de la marcha NA al entrar en el PdV se abría hasta la confluencia de la vía-lateral en la vía de ámbito estatal.
+La no colocación de las balizas de aviso, exigida por la ČSN 73 6380, no tiene influencia en la aparición del MU, porque el elemento de seguridad determinante es la protección del paso a nivel por una persona cualificada, tal y como exige el § 16 apartado 5) del decreto n.º 173 (véase el capítulo 3.2.1).
 
 ## Página 21
 
 ### 3.4.3 Medios de comunicación
-En relación con la aparición de la MU, no se utilizaron por parte del jefe de maniobras
-medios de comunicación, la aparición de la MU fue comunicada mediante teléfono móvil. Los medios de comunicación no desempeñaron
-en la aparición de la MU papel alguno.
+En relación con la formación de la maniobra de maniobras (MU), no se utilizaron por parte del jefe de maniobras medios de comunicación alguno; la formación de la MU se comunicó por teléfono móvil. Los medios de comunicación no desempeñaron papel alguno en la formación de la MU.
 ### 3.4.4 Material rodante, incluidos los dispositivos de registro automático de datos
-Los datos de la evaluación de la banda registradora de velocidad del HDV 740.460-1 se utilizaron únicamente para determinar
-la hora de salida del tren 1. nsl. 83182 de la estación Žďárec u Skutče y la llegada a la aguja de desvío Z1.
-Además, ambos HDV fueron desenganchados del convoy y no participaron en la aparición de la MU.
-En el informe de frenado, emitido por el jefe de maniobras el día 10 de noviembre de 2009 a las 10:20 horas
-en la estación Žďárec u Skutče, figuran los números de DV con el freno de mano probado:
-Ua      88 54 9200 064-5 (masa frenante de 12 toneladas);
+Los datos de la evaluación de la banda registradora de velocidad de la locomotora de maniobras (HDV) 740.460-1 se utilizaron únicamente para determinar la hora de salida del tren 1. nsl. 83182 de la estación Žďárec u Skutče y la llegada a la aguja de desvío Z1.
+Además, ambas HDV se desengancharon del convoy y no participaron en la formación de la MU.
+En el informe de frenado, emitido por el jefe de maniobras el día 10 de noviembre de 2009 a las 10:20 horas en la estación Žďárec u Skutče, figuran los números de los vagones con freno de mano probado:
+Ua      88 54 9200 064-5 (masa de frenado de 12 toneladas);
 •
-Uas    87 54 9200 503-3 (masa frenante de 18 toneladas);
+Uas    87 54 9200 503-3 (masa de frenado de 18 toneladas);
 •
 Ua      88 54 9200 086-8.
 •
-De los hechos constatados se deduce que el grupo de vagones en descenso podía haber sido frenado como máximo
-con una masa frenante de 30 toneladas.
-El primer y segundo vagón del grupo en descenso estaban acoplados con las plataformas de freno entre sí. Tras la inspección de
-los vagones en el lugar de la MU se constató que estos vagones estaban frenados con el freno de mano.
-Al DV de la serie Ua 88 54 920 0064-5 accidentado se le emitió el Certificado de conformidad del material rodante
-con el tipo aprobado 418 V, según las condiciones técnicas n.º de expediente TP 418 Vg 0136-2 de
-fecha 9. 12. 2008, emitido por LOSTR a. s., Husova 402, 440 82 Louny. La última revisión técnica
-periódica del DV se realizó el día 9. 12. 2008.
-La velocidad máxima permitida de maniobra de 5 km/h no fue, según la declaración del jefe de maniobras,
-superada. Sin embargo, la velocidad real del tramo de maniobra no puede determinarse.
-El estado del DV no guarda relación causal con la aparición de la MU.
+De los hechos constatados se desprende que el grupo de vagones en descenso podía estar frenado con una masa de frenado máxima de 30 toneladas.
+El primer y el segundo vagón del grupo en descenso estaban acoplados con las plataformas de freno enfrentadas. Tras la inspección de los vagones en el lugar de la MU, se constató que estos vagones estaban frenados con el freno de mano.
+Al material rodante descarrilado de la serie Ua 88 54 920 0064-5 se le había emitido el Certificado de conformidad del material rodante con el tipo aprobado 418 V, de acuerdo con las condiciones técnicas n.º de expediente TP 418 Vg 0136-2 de fecha 9. 12. 2008, emitido por LOSTR a. s., Husova 402, 440 82 Louny. La última revisión técnica periódica del material rodante se realizó el día 9. 12. 2008.
+La velocidad máxima permitida para la maniobra de 5 km/h no fue, según la declaración del jefe de maniobras, superada. Sin embargo, la velocidad real de la sección de maniobras no puede determinarse.
+El estado del material rodante no guarda relación causal con la formación de la MU.
 ### 3.5 Documentación del sistema de explotación
-### 3.5.1 Medidas adoptadas por los empleados del gestor de la vía y del transportista en lo que respecta a
-la dirección, señalización y protección del tráfico
-En el servicio extraordinario de la vía lateral, el jefe de estación de la estación Žďárec u Skutče, según el PPŘ, tiene la obligación de
-concertar dicho servicio con el jefe del establecimiento de la vía lateral y registrar la concertación en el
-registrador telefónico. En el caso de la MU en cuestión, se trataba, por tratarse de una hora más temprana, de un servicio
-extraordinario que no fue concertado, ni se dejó constancia en el registrador telefónico de la concertación
-realizada. El no concertar el servicio extraordinario de la vía lateral fue contrario a lo dispuesto en el PPŘ para
-la vía-lateral Českomoravský štěrk, a. s., vía lateral Kamenolom Zárubka.
-El acoplamiento de vagones a la vía lateral se realizó mediante descenso sin el HDV enganchado
-en la pendiente determinante de las vías de la vía lateral del 16 ‰, lo que es contrario a lo dispuesto en el § 16 apartado
-8 del decreto n.º 173/1995 Sb.
-
+### 3.5.1 Medidas adoptadas por los empleados del gestor de la infraestructura y del transportista en lo que respecta a la conducción, señalización y seguridad del tráfico
+En caso de servicio extraordinario de la vía industrial, el jefe de estación de la estación Žďárec u Skutče tiene, de acuerdo con el PPŘ, la obligación de acordar dicho servicio con el jefe del establecimiento de la vía industrial y de registrar el acuerdo en el grabador telefónico. En el caso de la MU en cuestión, al tratarse de una hora más temprana, se trataba de un servicio extraordinario que no fue acordado, ni se registró en el grabador telefónico asiento alguno del acuerdo. El no acuerdo del servicio extraordinario de la vía industrial fue contrario a lo dispuesto en el PPŘ para la vía-vía industrial Českomoravský štěrk, a. s., vía industrial Kamenolom Zárubka.
+El acoplamiento de vagones a la vía industrial se realizó mediante la técnica de descenso sin locomotora de maniobras (HDV) enganchada, en la pendiente decisiva de las vías de la vía industrial del 16 ‰, lo que es contrario a lo dispuesto en el apartado 8 del artículo 16 del decreto n.º 173/1995 Sb.
 
 ## Página 22
+
 
 Los vagones fueron descendidos a través del paso a nivel, que no está equipado con un
 dispositivo de enclavamiento de paso a nivel y en el momento del descenso no fue protegido por una persona cualificada, lo que es
@@ -643,6 +598,7 @@ La prueba de alcoholemia de orientación al maquinista y al jefe de maniobras po
 realizada en el lugar de la MU por la PČR con resultado negativo.
 
 ## Página 23
+
 
 3.6.3 Disposición del equipo del puesto de mando o del vehículo que influye en su 
 control y uso
@@ -688,101 +644,50 @@ trasero en el sentido de marcha del grupo empujado y desde este puesto, al solta
 frenos de mano, desfrenó por completo el primer vagón y parcialmente el segundo 
 vagón. El grupo de vagones con un peso total de 372 toneladas se puso en movimiento 
 cuesta abajo, según la declaración del jefe de maniobras, a la velocidad de una 
-caminata normal. Durante el descenso del grupo de vagones, el jefe de maniobras 
-
+caminata normal. Durante el descenso del grupo de vagones, el jefe de maniobras
 
 ## Página 24
 
-estaba girado de espaldas en el sentido de marcha debido al mando del freno de mano 
-del segundo vagón. Cuando la sección de maniobras se aproximaba al Pn, el jefe de 
-maniobras vislumbró periféricamente desde su puesto un vehículo entrando en el Pn. 
-Intentó detener la sección de maniobras apretando ambos frenos de mano, pero casi 
-inmediatamente se produjo el impacto contra el camión. El frente del DV chocó contra 
-el lateral derecho de la cabina del NA, que fue empujado 43 metros delante de la 
-sección de maniobras, donde se detuvo al chocar 
-contra el HDV 703.020-8 estacionado, que se encontraba en la vía de ramal n.º 2. 
-Con el impacto del NA contra el HDV estacionado se produjo el descarrilamiento del 
-primer vagón y su montaje sobre el NA. El NA quedó con el bastidor hacia arriba, la 
-cabina del conductor quedó encastrada bajo la parte delantera del DV descarrilado. 
-Tras detenerse la composición, el jefe de maniobras, junto con el maquinista, que tras 
-registrarse el impacto acudió al lugar del choque, inspeccionaron la cabina del NA, en 
-la que quedó encastrado el conductor, y el jefe de maniobras solicitó ayuda mediante 
-teléfono móvil a través de la línea 112. 
-Como consecuencia del MI se produjo un daño a la salud con resultado de muerte del 
-conductor del NA. No se produjo fuga de sustancias ecológicamente peligrosas. La 
-explotación del transporte ferroviario se interrumpió entre la est. Žďárec 
-u Skutče y Chrast u Chrudimi desde las 11:10 hasta las 19:20 horas del día 10. 11. 2009.
+de espaldas en el sentido de la marcha debido a la maniobra del freno de mano en el segundo vagón. Cuando la maniobra de maniobras se acercaba al PCT, el jefe de maniobras vio periféricamente desde su puesto de mando el vehículo que entraba en el PCT. Intentó detener la maniobra de maniobras apretando ambos frenos de mano, pero prácticamente de inmediato se produjo el impacto contra el camión. El frontal del DV chocó contra el lado derecho de la cabina del NA, que fue empujado delante de la maniobra de maniobras durante 43 metros, donde se detuvo al chocar contra el HDV estacionado 703.020-8, que se encontraba en la vía de apartadero n.º 2. En el impacto del NA contra el HDV estacionado se produjo el descarrilamiento del primer vagón y su montaje sobre el NA. El NA quedó con el bastidor hacia arriba, la cabina del conductor quedó encastrada bajo la parte frontal del DV descarrilado. Una vez detenido el convoy, el jefe de maniobras, junto con el maquinista, que acudió al lugar del accidente tras registrar el impacto, inspeccionaron la cabina del NA, en la que quedó encastrado el conductor, y el jefe de maniobras solicitó ayuda mediante el teléfono móvil en la línea 112.
+Como consecuencia del MU se produjo un daño a la salud con resultado de muerte del conductor del NA. No se produjo ninguna fuga de sustancias ecológicamente peligrosas. La explotación del transporte ferroviario se interrumpió entre la estación de Žďárec u Skutče y Chrast u Chrudimi desde las 11:10 hasta las 19:20 horas del día 10. 11. 2009.
 ### 4.2 Análisis
-### 4.2.1 Evaluación de los hechos constatados según el punto 3 y exposición de las 
-conclusiones sobre la causa del incidente y la actuación de los servicios de rescate
-El tren 1. nsl. 83182 partió el día 10. 11. 2009 de la est. Žďárec u Skutče a las 10:47 
-horas, es decir, fuera del horario de servicios regulares del ramal; por tanto, de 
-conformidad con el PPŘ, el servicio del ramal debía haber sido acordado por el jefe 
-de estación de la est. Žďárec u Skutče con el empleado del ramal. De ello se desprende 
-para el empleado del ramal, según el punto 4 d) de la VP 2007, la obligación de 
-garantizar la seguridad durante el periodo de maniobra de vagones en el ramal. Al no 
-haber acordado el servicio extraordinario del ramal con el empleado del ramal, el jefe 
-de estación de la est. Žďárec u Skutče infringió las disposiciones del PPŘ y no garantizó 
-así las condiciones para asegurar la seguridad en el ramal por parte del empleado del 
-ramal durante la maniobra de vagones. Asimismo, se constató que el jefe del 
-establecimiento de la cantera, que figura en la VP 2007 como la persona que organiza 
-todo el servicio en el ramal y es responsable de su fluidez y seguridad, no posee la 
-capacitación profesional requerida, ya que en lugar de acudir él mismo a las 
-formaciones prescritas enviaba a un sustituto.
-La vía de ramal n.º 1 tiene una pendiente determinante del 16 ‰. Para maniobras en 
-tal pendiente es aplicable el requisito del § 16 apartado 8 del decreto n.º 173 sobre el 
-frenado seguro y, además, en el PPŘ y en la VP 2000 para dichas maniobras están 
-elaborados procedimientos tecnológicos que no permiten la maniobra de vagones al 
-ramal mediante descenso. De ello se desprende que el jefe de maniobras actuó en 
-contravención del § 16 apartado 8 del decreto n.º 173 y simultáneamente en 
-contravención de las disposiciones del PPŘ y de la VP 2000 del explotador de la 
-vía-ramal, en las que si bien no se define de forma unificada el modo de servicio del 
-ramal, para la maniobra de vagones al ramal se prohíbe el descenso.
-Durante la maniobra de vagones al ramal, los vagones se descendían a través del Pn 
-asegurado únicamente con cruces de advertencia. Para la maniobra a través de tal Pn, 
-según el § 16 apartado 5 del decreto n.º 173, el Pn debe ser asegurado por una 
-persona con capacitación profesional; ni en la VP 2000 ni en la VP 2007 el explotador 
-de la vía-ramal tiene detalladamente elaboradas las condiciones para la maniobra a 
-través del Pn. Si bien el jefe de maniobras comprobó antes de iniciar el descenso de 
-los vagones la libertad y la practicabilidad del paso a nivel, durante el descenso de los 
-vagones el Pn no fue asegurado por una persona con capacitación profesional. Al 
-descender los vagones a través del Pn sin asegurarlo por una persona con capacitación 
-profesional, el jefe de maniobras actuó en contravención del § 16 
-apartado 5 del decreto n.º 173.
+### 4.2.1 Evaluación de los hechos constatados de acuerdo con el punto 3 y formulación de conclusiones sobre la causa del suceso excepcional y la actuación de los servicios de rescate
+El tren 1. nsl. 83182 partió el día 10. 11. 2009 de la estación de Žďárec u Skutče a las 10:47 horas, es decir, fuera del horario de servicios regulares del apartadero, por lo que, de acuerdo con el PPŘ, el servicio del apartadero debía ser acordado por el jefe de estación de Žďárec u Skutče con el empleado del apartadero. De ello se desprende para el empleado del apartadero, de acuerdo con el punto 4 d) del VP 2007, la obligación de garantizar la seguridad durante el acoplamiento de vagones en el apartadero. Al no acordar el servicio excepcional del apartadero con el empleado del apartadero, el jefe de estación de Žďárec u Skutče incumplió las disposiciones del PPŘ y no garantizó así las condiciones para asegurar la seguridad en el apartadero por parte del empleado del apartadero durante el acoplamiento de vagones. Asimismo, se constató que el jefe de explotación de la cantera, que figura en el VP 2007 como la persona que organiza toda la actividad en el apartadero y es responsable de su fluidez y seguridad, no posee la cualificación profesional requerida, ya que en lugar de acudir él mismo a las formaciones establecidas, enviaba a un sustituto.
+La vía de apartadero n.º 1 tiene una pendiente determinante del 16 ‰. Para las maniobras en dicha pendiente resulta de aplicación el requisito del § 16 apartado 8 del decreto n.º 173 sobre el frenado seguro y, además, en el PPŘ y el VP 2000 se han elaborado procedimientos tecnológicos para dichas maniobras que no permiten el acoplamiento de vagones al apartadero mediante lanzamiento. De ello se desprende que el jefe de maniobras actuó en contra del § 16 apartado 8 del decreto n.º 173 y, a la vez, en contra de las disposiciones del PPŘ y del VP 2000 del explotador de la vía- apartadero, en los que si bien no se define de forma unificada el modo de servicio del apartadero, para el acoplamiento de vagones al apartadero se prohíbe la maniobra por lanzamiento.
+Durante el acoplamiento de vagones al apartadero, los vagones se lanzaban a través del PCT asegurado únicamente con cruces de aviso. Para la maniobra a través de dicho PCT, de acuerdo con el § 16 apartado 5 del decreto n.º 173, el PCT debe ser asegurado por una persona con cualificación profesional; ni en el VP 2000 ni en el VP 2007 el explotador de la vía- apartadero ha desarrollado con detalle las condiciones para la maniobra a través del PCT. Si bien el jefe de maniobras comprobó la libertad y la practicabilidad del paso a nivel antes de iniciar el lanzamiento de los vagones, durante el lanzamiento de los vagones el PCT no fue asegurado por una persona con cualificación profesional. Al lanzar los vagones a través del PCT sin asegurarlo con una persona con cualificación profesional, el jefe de maniobras actuó en contra del § 16 apartado 5 del decreto n.º 173.
 
 ## Página 25
 
-Al desbocar los vagones en la vía lateral, el jefe de maniobras se encontraba en la plataforma del primer vagón desbocado, en el extremo trasero del vagón en sentido de marcha, desde donde, según su declaración, regulaba la velocidad del grupo de vagones desbocados mediante el uso de los frenos manuales de los dos primeros vagones. Los frenos manuales no están diseñados para dicho uso; siempre se puede operar con seguridad únicamente el freno manual desde la plataforma correspondiente del vagón. El jefe de maniobras no tenía, al operar los frenos manuales desde este lugar, visión libre hacia delante sobre la vía de maniobras a través de la caja del vagón. De ello se deduce que el jefe de maniobras actuó en contradicción con el § 16 apartado 4 del decreto n.º 173.
-Mediciones en el lugar de la MU determinaron que los parámetros constructivos y técnicos de la vía lateral y la disposición espacial del paso a nivel proporcionaban al conductor del NA una visión suficiente hacia el tren de maniobras que se aproximaba, ya que el tren de maniobras llegaba por la vía más lejana del paso a nivel de dos vías con distancia entre ejes de 4,5 m y el campo visual en el sentido de marcha del NA al entrar en el PNM se abre hasta la confluencia de la vía lateral con la vía de ancho nacional. Al no dar prioridad al tráfico ferroviario sobre el tráfico por carretera en el PNM, el conductor del NA incumplió el § 6, apartado 3 de la ley.
-Los empleados participantes de la empresa de transporte OKD-D estaban acreditadamente informados, en el momento de producirse la MU en cuestión, del Reglamento de Explotación de Conexión para la vía lateral Českomoravský štěrk, a. s., vlečka kamenolom Zárubka, en vigor desde el 15. 06. 2009. Sin embargo, este PPŘ no está actualizado, ya que como empresa de transporte solo figura en él ČD Cargo, a. s., no figurando OKD-D. Los empleados participantes de la empresa de transporte OKD-D estaban acreditadamente informados, en el momento de producirse la MU en cuestión, de la norma interna del explotador de la vía lateral, en vigor desde el 01. 01. 2000. Los empleados de la empresa de transporte OKD-D no estaban acreditadamente informados de la norma interna actualizada, en vigor desde el 01. 01. 2007, ya que no les fue entregada por el explotador de la vía lateral para su uso. Al no proporcionar a la empresa de transporte la Norma Interna vigente, el explotador de la vía lateral actuó en contradicción con el Artículo III apartado 3 del Contrato de explotación del tráfico ferroviario en la vía lateral "Českomoravské štěrkovny, a. s., vlečka Kamenolom Zárubka".
+Al descender los vagones a la vía lateral, el jefe de maniobras se encontraba en la plataforma del primer vagón descendido, en el extremo trasero del vagón en el sentido de la marcha, desde donde, según su declaración, regulaba la velocidad del grupo de vagones descendidos mediante la operación de los frenos manuales de los dos primeros vagones. Los frenos manuales no están diseñados para este tipo de operación; siempre se puede operar con seguridad únicamente el freno manual desde la plataforma correspondiente del vagón. El jefe de maniobras no tenía, al operar los frenos manuales desde este lugar, una visión libre hacia delante de la vía de maniobras a través de la caja del vagón. De ello se deduce que el jefe de maniobras actuó en contradicción con el § 16 apartado 4 del decreto n.º 173.
+Mediciones realizadas en el lugar de la MU determinaron que los parámetros constructivos y técnicos de la vía lateral y la disposición espacial del paso a nivel proporcionaban al conductor del NA una visión suficiente hacia el tren de maniobras que se aproximaba, ya que el tren de maniobras llegaba por la vía más lejana del paso a nivel de dos vías con una distancia entre ejes de las vías de 4,5 m y el campo visual en el sentido de la marcha del NA al entrar en el PNP se abre hasta la confluencia de la vía lateral con la vía de ancho estándar. Al no dar prioridad al tráfico ferroviario sobre el tráfico por carretera en el PNP, el conductor del NA incumplió el § 6, apartado 3 de la ley.
+Los empleados participantes de la empresa de transporte OKD-D estaban, en el momento de producirse la MU en cuestión, acreditadamente informados del Reglamento de Explotación Conexa para la vía lateral Českomoravský štěrk, a. s., vía lateral de la cantera Zárubka, en vigor desde el 15. 06. 2009. Sin embargo, este RPE no está actualizado, ya que como empresa de transporte en él figura únicamente ČD Cargo, a. s., no figurando OKD-D. Los empleados participantes de la empresa de transporte OKD-D estaban, en el momento de producirse la MU en cuestión, acreditadamente informados del reglamento interno del operador de la vía lateral, en vigor desde el 01. 01. 2000. Los empleados de la empresa de transporte OKD-D no estaban acreditadamente informados del reglamento interno actualizado, en vigor desde el 01. 01. 2007, ya que no les fue entregado por el operador de la vía lateral para su uso. Al no proporcionar a la empresa de transporte el Reglamento Interno vigente, el operador de la vía lateral actuó en contradicción con el Artículo III apartado 3 del Contrato de Explotación del Tráfico Ferroviario en la vía lateral «Českomoravské štěrkovny, a. s., vía lateral Kamenolom Zárubka».
 ### 4.3 Conclusiones
 4.3.1 Causas inmediatas del suceso excepcional, incluidos los factores que contribuyeron al mismo y que estuvieron relacionados con la actuación de las personas implicadas o con el estado de los vehículos ferroviarios o de las instalaciones técnicas
 Las causas inmediatas de la MU fueron:
-• el desbocamiento de vagones a través del PNM sin dispositivo de enclavamiento de paso a nivel, que no fue
+• el descenso de vagones a través del PNP sin dispositivo de seguridad de paso a nivel, el cual no fue
 custodiado por una persona cualificada (se trata de una infracción del § 16 apartado 5 del decreto
 n.º 173);
-• la no prioridad del tráfico ferroviario en el cruce a nivel de la vía con la vía pública (se trata de una infracción
-del § 6, apartado 3 de la ley n.º 266/1994 Sb.).
-Un factor contribuyente que influyó en el desarrollo del suceso fue el incumplimiento de los procedimientos tecnológicos para la explotación de la vía, al realizarse maniobras con los vagones en la vía lateral con pendiente determinante del 16 ‰ sin vagón motor acoplado, (se trata de una infracción del § 24 letra a) del decreto n.º 173, aplicándose la disposición del § 16, apartado 8 de dicho decreto).
-
+• la no prioridad del tráfico ferroviario en el cruce a nivel de la vía con la vía pública (se trata de una
+infracción del § 6, apartado 3 de la ley n.º 266/1994 Sb.).
+Un factor contribuyente que influyó en el desarrollo del suceso fue el incumplimiento de los procedimientos tecnológicos para la explotación de la vía, al realizarse maniobras con los vagones en la vía lateral con una pendiente determinante del 16 ‰ sin vagón motriz acoplado, (se trata de una infracción del § 24 letra a) del decreto n.º 173, siendo de aplicación la disposición del § 16, apartado 8 de dicho decreto).
 
 ## Página 26
 
 ### 4.3.2 Causas fundamentales relacionadas con la cualificación, los procedimientos y el mantenimiento
-No se detectaron.
-### 4.3.3 Causas derivadas del marco normativo y del uso del sistema de garantía de seguridad
-No se detectaron.
+No se han detectado.
+### 4.3.3 Causas debidas al marco normativo y al uso del sistema de garantía de seguridad
+No se han detectado.
 ### 4.4 Hallazgos complementarios
 ### 4.4.1 Deficiencias y omisiones detectadas durante la investigación de las causas y circunstancias del suceso excepcional, que sin embargo no son relevantes para las conclusiones sobre las causas
-Durante la investigación de las causas y circunstancias de la MU se detectaron, al margen de la relación causal, las siguientes deficiencias:
-• el explotador de la vía ČMC, a. s., no garantizó la cualificación profesional para el jefe de la explotación de la cantera, que figura en la VP como la persona que organiza todo el tráfico en la vía lateral y responde de su fluidez y seguridad (se trata de una infracción del § 22 apartado 1 letra c) de la ley);
-• en el Reglamento de Explotación de Conexión no figura OKD-D como empresa de transporte con contrato vigente de explotación del tráfico ferroviario en la vía lateral (se trata de una infracción del § 70 letra c) del decreto n.º 173);
-• discrepancia en el texto sobre el modo de explotación de la vía lateral, indicado en el Reglamento de Explotación de Conexión y en la Norma Interna del explotador de la vía lateral (se trata de una infracción del art. 9 apartado IV del Contrato de explotación del tráfico ferroviario en la vía lateral "Českomoravské štěrkovny, a. s., vlečka Kamenolom Zárubka");
-• no acordar la explotación excepcional de la vía lateral por parte del jefe de estación de Žďárec u Skutče con el empleado de la vía lateral (se trata de una infracción del PPŘ, punto 8, Organización del tráfico);
-• el explotador de la vía lateral no entregó a la empresa de transporte para su uso la VP 2007 actualizada (se trata de una infracción del art. 9 apartado IV del Contrato de explotación del tráfico ferroviario en la vía lateral "Českomoravské štěrkovny, a. s., vlečka Kamenolom Zárubka").
-
+Durante la investigación de las causas y circunstancias del suceso excepcional (MU), se detectaron, al margen de la relación causal, las siguientes deficiencias:
+• el explotador de la vía ČMC, a. s., no garantizó la competencia profesional para el responsable de la explotación de la cantera, quien figura en el VP como la persona que organiza todo el tráfico en el apartadero y responde de su fluidez y seguridad (se trata de una infracción del § 22 apartado 1 letra c) de la ley);
+• en el Reglamento de Explotación de Conexión no figura OKD-D como transportista con contrato vigente de explotación del transporte ferroviario en el apartadero (se trata de una infracción del § 70 letra c) del decreto n.º 173);
+• discrepancia en la redacción sobre el modo de explotación del apartadero, indicada en el Reglamento de Explotación de Conexión y en la Normativa Interna del explotador de la vía-apartadero (se trata de una infracción del artículo 9 apartado IV del Contrato de explotación del transporte ferroviario en el apartadero "Českomoravské štěrkovny, a. s., apartadero Kamenolom Zárubka");
+• no se acordó la explotación excepcional del apartadero entre el jefe de estación de la estación Žďárec u Skutče y el empleado del apartadero (se trata de una infracción del PPŘ, punto 8, Organización del tráfico ferroviario);
+• el explotador de la vía-apartadero no entregó al transportista para su uso el VP 2007 actualizado (se trata de una infracción del artículo 9 apartado IV del Contrato de explotación del transporte ferroviario en el apartadero "Českomoravské štěrkovny, a. s., apartadero Kamenolom Zárubka").
 
 ## Página 27
+
 
 ## 5 MEDIDAS ADOPTADAS
 ### 5.1 Lista de medidas ya adoptadas o tomadas como consecuencia del suceso excepcional
@@ -797,15 +702,15 @@ Director
 Inspectorado Territorial de Brno
 del Inspectorado Territorial de Brno
 
-
 ## Página 28
+
 
 ## 7 ANEXOS
 Foto 1: Vista del lugar de la MU
 Foto 2: Vista del paso a nivel desde la posición del conductor del camión
 
-
 ## Página 29
+
 
 Foto 3: Vagón descarrilado DV 88 54 9200064-5
 Foto 4: Locomotora dañada 703.020-8

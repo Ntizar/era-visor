@@ -12,8 +12,8 @@ tokens_in: 51668
 tokens_out: 35693
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-verificacion: revisar
-avisos: ["página 10: ratio 2.32", "página 17: ratio 2.08", "página 26: ratio 1.69", "página 28: ratio 1.82"]
+verificacion: ok
+notas_cifras: ["página 10: original bilingüe: se compara contra el idioma principal (HR); ratio 2.31", "página 11: original bilingüe: se compara contra el idioma principal (HR)", "página 13: cifras cortas: 1/25", "página 17: original bilingüe: se compara contra el idioma principal (HR); ratio 2.03", "página 19: cifras cortas: 1/22", "página 23: cifras cortas: 2/34"]
 ---
 
 ## Página 1
@@ -234,21 +234,21 @@ AIN/06-SR-5/2026: La empresa ferroviaria HŽ CARGO debería, durante la formaci�
 
 ## Página 10
 
-AIN/06-SR-6/2026: Al realizar una prueba de frenado, la empresa ferroviaria HŽ CARGO debe garantizar que, además del maquinista del tren, otro trabajador ejecutivo profesionalmente formado garantice que las pruebas de frenado se realicen de la manera adecuada/prescrita. 
-AIN/06-SR-7/2026: La empresa ferroviaria HŽ CARGO debe evaluar los riesgos creados por el peligro «realización incorrecta u omisión de la prueba de frenado prescrita» y adoptar medidas eficaces para controlar los peligros. 
-AIN/06-SR-8/2026: El gestor de infraestructura HŽ Infrastruktura d.o.o. debe, durante la formación de los conductores de tren, hacer hincapié en la importancia de mantener los registros prescritos, así como su intercambio y co-firma con los maquinistas durante la entrega de los trenes. 
-### 2. INVESTIGACIÓN Y SU CONTEXTO 
-### 2.1. Decisión de incoar la investigación 
-Tras la inspección ocular realizada el 19 de marzo de 2025 por parte de la AIN, la Sección de Investigación de Accidentes Ferroviarios, y tras el análisis de la información y las pruebas recopiladas, se determinó que en el incidente en cuestión se había puesto en peligro la seguridad del sistema ferroviario, por lo que el investigador principal de accidentes ferroviarios dictó el 4 de abril de 2025 la Decisión de incoar la investigación de este incidente, con arreglo al artículo 127, apartados 2 y 3, letra a), de la Ley de seguridad e interoperabilidad del sistema ferroviario («Narodne novine», n.º 63/20). El mismo día se envió a todas las partes implicadas, al organismo nacional competente en materia de seguridad —la Agencia de Seguridad del Transporte Ferroviario (ASŽ)—, al gestor de infraestructura (IM) HŽ Infrastruktura d.o.o., y a las empresas ferroviarias HŽPP d.o.o. y HŽ Cargo d.o.o. (RU) un aviso de incoación de la investigación de este incidente. 
-La Agencia de la Unión Europea para el Ferrocarril (ERA) fue notificada mediante el envío del Modelo de notificación a la dirección de correo electrónico Investigation@era.europa.eu de la incoación de la investigación, de conformidad con el plazo de siete días desde la fecha de dictado de la decisión de incoar la investigación, establecido en el artículo 133, apartados 1 y 2, de la Ley de seguridad e interoperabilidad del sistema ferroviario («Narodne novine», n.º 63/20).  
-### 2.2. Fundamentos de la Decisión de incoar la investigación 
-La Decisión de incoar la investigación del incidente en cuestión se dictó con arreglo al artículo 127, apartados 2 y 3, letra a), de la Ley de seguridad e interoperabilidad del sistema ferroviario («Narodne novine», n.º 63/20), es decir, al artículo 20, apartado 2, letra a), de la Directiva (UE) 2016/798 del Parlamento Europeo y del Consejo, de 11 de mayo de 2016, relativa a la seguridad del ferrocarril (revisión). 
-### 2.3. Alcance y limitaciones de la investigación  
-El alcance de la investigación se detalla más ampliamente en el punto 4 del presente informe, mientras que no hubo limitaciones ni retrasos. 
-### 2.4. Descripción general de las capacidades técnicas y las funciones de las personas del equipo de investigadores 
-El 19.03.2025, a las 08:33 horas, la AIN recibió de la sociedad HŽ Infrastruktura d.o.o., Sector de Tráfico, una notificación de un incidente entre las estaciones de Lekenik y Greda, en la línea identificada como M502, donde a las 08:21 horas se evitó un choque entre el tren de mercancías n.º 61015 y el tren de pasajeros n.º 5104. 
-Con base en la información recopilada, se decidió que los investigadores de accidentes ferroviarios de la AIN se desplazaran al lugar del suceso para realizar la inspección ocular, recabar pruebas y hechos del incidente mencionado. 
-La investigación fue llevada a cabo por el investigador principal y los investigadores de accidentes ferroviarios de la AIN. La investigación llevada a cabo por
+AIN/06-SR-6/2026: Al realizar una prueba de frenado, el operador ferroviario HŽ CARGO debe garantizar que, además del maquinista, otro trabajador ejecutivo con formación profesional asegure que las pruebas de frenado se realicen de la manera adecuada/prescrita.
+AIN/06-SR-7/2026: El operador ferroviario HŽ CARGO debe evaluar los riesgos creados por el peligro «realización incorrecta u omisión de la prueba de frenado prescrita» y adoptar medidas eficaces para controlar los peligros.
+AIN/06-SR-8/2026: El gestor de infraestructura HŽ Infrastruktura d.o.o. debe, durante la formación de los operadores de tren, hacer hincapié en la importancia de llevar los registros prescritos y de su intercambio y firma conjunta con los maquinistas al entregar los trenes.
+### 2. INVESTIGACIÓN Y SU CONTEXTO
+### 2.1. Decisión de iniciar la investigación
+Tras la inspección ocular realizada el día 19 de marzo de 2025 por parte de AIN, Departamento de Investigación de Accidentes en el Tráfico Ferroviario, y tras el análisis de la información y las pruebas recopiladas, se determinó que en el incidente en cuestión se había puesto en peligro la seguridad del sistema ferroviario, por lo que el jefe de investigación de accidentes ferroviarios dictó el día 04 de abril de 2025 la Decisión de iniciar la investigación de este incidente en virtud del artículo 127, apartados 2 y 3 a), de la Ley sobre Seguridad e Interoperabilidad del Sistema Ferroviario («Narodne novine», número 63/20). El mismo día se envió la notificación de inicio de la investigación de este incidente a todas las partes implicadas, al organismo nacional competente en materia de seguridad – la Agencia de Seguridad del Tráfico Ferroviario (ASŽ) –, al gestor de infraestructura (IM) HŽ Infrastruktura d.o.o. y a los operadores ferroviarios HŽPP d.o.o. y HŽ Cargo d.o.o. (RU).
+La Agencia Ferroviaria de la Unión Europea (ERA) fue notificada a través del Formulario de Notificación enviado a la dirección de correo electrónico Investigation@era.europa.eu del inicio de la investigación, en el plazo de siete días desde la fecha de adopción de la decisión de inicio de la investigación, artículo 133, apartados 1 y 2, de la Ley sobre Seguridad e Interoperabilidad del Sistema Ferroviario («Narodne novine», número 63/20).
+### 2.2. Fundamentación de la Decisión de iniciar la investigación
+La Decisión de iniciar la investigación del incidente en cuestión se adoptó en virtud del artículo 127, apartados 2 y 3, punto a), de la Ley sobre Seguridad e Interoperabilidad del Sistema Ferroviario («Narodne novine», número 63/20), es decir, del artículo 20, apartado 2, letra a), de la Directiva (UE) 2016/798 del Parlamento Europeo y del Consejo, de 11 de mayo de 2016, sobre la seguridad de los ferrocarriles (recodificación).
+### 2.3. Alcance y limitaciones de la investigación
+El alcance de la investigación se detalla más ampliamente en el punto 4 de este informe, mientras que no hubo limitaciones ni retrasos.
+### 2.4. Descripción conjunta de las capacidades técnicas y funciones de los miembros del equipo de investigación
+El día 19.03.2025, a las 08:33 horas, por parte de la sociedad HŽ Infrastruktura d.o.o., Sector de Tráfico, AIN recibió la notificación de un incidente entre la estación de Lekenik y la estación de Greda, en la línea de designación M502, donde a las 08:21 horas se evitó la colisión entre el tren de mercancías número 61015 y el tren de pasajeros número 5104.
+Sobre la base de la información recopilada, se decidió que los investigadores de accidentes ferroviarios de AIN acudirían al lugar de los hechos para realizar la inspección ocular, recopilar pruebas y hechos del mencionado incidente.
+La investigación fue realizada por el jefe de investigación y los investigadores de accidentes ferroviarios de AIN. La investigación que lleva a cabo
 
 ## Página 11
 
@@ -399,12 +399,27 @@ La locomotora eléctrica Siemens Vectron serie 6193 (Imagen 4.) fue fabricada en
 
 ## Página 17
 
-La capacidad de absorción de energía de la locomotora cumple los requisitos de seguridad pasiva según la ETI HS RST:2008-09, así como según la norma EN 15227:2008-01 (EN 15227:2011).
-Figura 5. Representación del concepto Crash-koncept (concepto de absorción de impacto) X4 (Fuente: manual de Siemens)
-El sistema de alimentación eléctrica de la locomotora es CA 15 kV/16,7 Hz, CA 25 kV/50 Hz y CC 3 kV (la alimentación eléctrica en la red de HŽI es CA 25 kV 50 Hz). La locomotora está equipada con los siguientes frenos: freno electrodinámico (freno ED), freno indirecto (UIC 540:2006), freno directo (freno de locomotora adicional e independiente), freno de estacionamiento (manual) y freno EP con puenteo de frenos en caso de peligro. La disposición de los ejes es Bo'Bo'. La masa de la locomotora es de 88 toneladas de acuerdo con la norma EN 15528:2008, la longitud total entre parachoques es de 18.980 mm, la anchura total por encima de las barandillas es de 3.012 mm y la altura es de 3.860 mm, medida desde la cabina de conducción. El diámetro de las ruedas motrices es de 1.250 mm, mientras que la carga por eje del conjunto de ejes es de 22,5 t.
-La locomotora ha sido sometida a mantenimiento regular en: KONČAR-Električna vozila d.d., Railpool, SŽ – Vlaka in tehnika d.o.o. y el Servicio Técnico de Vehículos Ferroviarios. Antes del incidente extraordinario en cuestión se realizaron dos inspecciones y un cambio de ruedas, lo cual tampoco influyó en el incidente.
-Tras el choque evitado, la locomotora fue inspeccionada y devuelta al servicio. Durante la inspección no se detectaron defectos que pudieran haber influido en el resultado del incidente.
-El vagón de la serie Zas-z (Figura 6.) es un vagón cisterna de cuatro ejes para el transporte de líquidos como derivados ligeros del petróleo, y en primer lugar, diversas clases de gasolina. Está diseñado para velocidades de hasta 100 km/h. La longitud de la cisterna total entre parachoques es de 14400 mm, y la altura total es de 4260 mm. La masa media propia de la cisterna es de 22,5 t, mientras que la capacidad de carga es de 57,5 t. El líquido se introduce en el depósito a través de una abertura superior, y se vacía abriendo las válvulas laterales. En el vagón hay una inscripción de la cual se puede ver para qué tipo de líquidos está destinado el vagón. En todos los vagones implicados se realizó la revisión en el plazo establecido.
+El zócalo de la locomotora cumple los requisitos de seguridad pasiva según TSI HS RST:2008-09 así como según EN 
+15227:2008-01 (EN 15227:2011). 
+Figura 5. Representación del Crash-concept (concepto de absorción del impacto) X4 (Fuente: manual de Siemens) 
+El sistema de suministro eléctrico de la locomotora es AC 15 kV/16,7 Hz, AC 25 kV/50 Hz y DC 3 kV (el suministro 
+eléctrico en la red de vías de HŽI es AC 25 kV 50 Hz). La locomotora está equipada con los siguientes frenos: 
+freno electrodinámico (freno ED), freno indirecto (UIC 540:2006), freno directo (freno de locomotora independiente 
+adicional), freno de estacionamiento (manual) y freno ep con puentecillo de frenos en 
+caso de peligro. La disposición de los ejes es Bo'Bo'. La masa de la locomotora es de 88 toneladas conforme a EN 
+15528:2008, la longitud sobre topes es de 18.980 mm, el ancho sobre barandillas es de 3.012 mm y la altura es de 3.860 mm, 
+medido por encima de la cabina de conducción. El diámetro de las ruedas motrices es de 1.250 mm, mientras que la carga por eje es de 22,5 t. 
+La locomotora ha sido mantenida regularmente en: KONČAR-Električna vozila d.d., Railpool, SŽ – Vlaka in tehnika 
+d.o.o. y Tehnički servis željezničkih vozila. Antes del acontecimiento extraordinario objeto de estudio se realizaron dos 
+inspecciones y un cambio de ruedas, lo que tampoco influyó en el incidente.  
+Tras el choque evitado, la locomotora fue inspeccionada y devuelta al servicio. Durante la inspección no se detectaron 
+defectos que pudieran haber influido en el desenlace del incidente. 
+El vagón de la serie Zas-z (Figura 6.) es una cisterna ferroviaria de cuatro ejes para el transporte de líquidos como los ligeros 
+derivados del petróleo, y en primer lugar distintos tipos de gasolina. Está prevista para velocidades de hasta 100 km/h. La longitud 
+de la cisterna sobre topes es de 14400 mm, y la altura total de 4260 mm. La masa propia media de la cisterna es de 
+22,5 t, mientras que la capacidad de carga es de 57,5 t. El líquido se carga en el depósito a través de una abertura superior, y se descarga del depósito 
+abriendo las válvulas laterales. En el vagón se encuentra una inscripción de la que se deduce para el transporte de qué tipo de líquido está 
+destinado el vagón. En todos los vagones incluidos se ha realizado la revisión en el plazo prescrito.
 
 ## Página 18
 
@@ -681,39 +696,41 @@ El tren partió de la estación de Velika Gorica
 
 ## Página 26
 
-19.03.2025. 08:11 
-El tren pasó por la estación de Turopolje 
-19.03.2025. 08:15:20 
-Frenado (78 km/h) 2.º grado de frenado (4,8 bar en la tubería general) 
-19.03.2025. 08:15:55 
-5.º grado de frenado (4,28 bar en la tubería general) 
-### Fecha: 
-### Hora 
-### Descripción 
-19.03.2025. 08:16:24 
-Frenado de emergencia (71 km/h) 
-19.03.2025. 08:16-08:18 
-La velocidad disminuye lentamente, solo frena la locomotora -conductor presente 
-3 veces intenta el 5.º grado de frenado y después repite inmediatamente 
-el frenado de emergencia 
-19.03.2025. 08:19:56 
-Se activó el freno de resorte de la locomotora 
-19.03.2025. 08:20:22 
-Cruce de la señal de salida C3 de la estación de Lekenik que mostraba la indicación «DETENCIÓN» 
-(activado 2000 Hz) 
-19.03.2025. 08:21 
-Corte de la tensión en la sección Greda-Lekenik 
-19.03.2025. 08:23:05 
-El tren 61015 se detiene completamente en el pk 389+780 
-Tabla 1 – Representación del movimiento del tren Velika Gorica-Lekenik / lectura de los registros TRU Vectron 
-3.2.2. Secuencia de los acontecimientos desde la aparición del incidente hasta la finalización de las actuaciones de los servicios de rescate 
-Tras el paso del tren de mercancías número 61015 junto a la señal de salida «C3» en la estación de Lekenik que mostraba la indicación «DETENCIÓN», el tren (la cabeza del tren) se detuvo en el pk 389+780. El agente de tráfico de la estación de Lekenik informó del incidente a la Operación de Tráfico Centro, a la Policía de la condado de Sisak-Moslavina, a Infraestructura Ferroviaria d.d., al jefe de la estación de HŽ Cargo y a HŽ Putnički prijevoz d.o.o. En el lugar del incidente realizaron la inspección: el jefe de la estación de Lekenik, el instructor de tráfico de la Unidad de Trabajo Territorial de Tráfico Centro de HŽI, los investigadores de accidentes de trenes del AIN, los representantes de RU HŽ CARGO d.o.o. y HŽPP d.o.o.  
-Tras la restitución de la tensión en la red de contacto a las 11:02 horas, se realizó una prueba completa de frenado en el tren y todos los vagones del tren 61015 frenaron junto con la locomotora. Tras la inspección realizada por la comisión conjunta y los investigadores criminales de la Policía de la condado de Sisak-Moslavina, el tren 61015 fue remolcado a la estación de Lekenik hacia la vía libre en el cuarto de vía a las 14:05 horas. El tren 5104 entró en la estación de Lekenik a las 14:08 y la sección de vía entre la estación de Greda y la estación de Lekenik se abrió al tráfico a las 14:11 horas.  
-La prueba de frenado repetida en el tren 61015 tras su remolque a la estación de Lekenik arrojó los mismos resultados que la anterior: todos los vagones del tren 61015 frenan.  
-La sección de vía entre Greda y la estación de Lekenik estuvo cerrada de 08:21 a 14:11 horas.  
-En el incidente no resultó herido ningún miembro del personal del tren. No fue necesaria la intervención de los servicios de rescate ni de los bomberos.  
-Los investigadores de accidentes de trenes del AIN realizaron la inspección del lugar del incidente el 19.03.2025 y recabaron las pruebas y los hechos del incidente mencionado. El lugar del incidente se examinó en detalle: la situación de las vías de la estación de Lekenik, los desvíos y los elementos externos del dispositivo SS, así como el panel de control en la oficina de tráfico.  
-Al llegar al lugar del incidente, el tren de mercancías número 61015, del transportista HŽ CARGO d.o.o., se encontró con su extremo aproximadamente 500 metros después del punto de cruce de protección PBA-1, en dirección a la estación de Greda. En el tren, tras el incidente, en el lugar del incidente, se realizó una prueba completa de frenado. Mediante la prueba de frenado se observó que en los vagones identificados con los números 31 78 7850 048-5 (el 3.º por orden desde la locomotora), 31 78 7850 131-9 (el 6.º por orden desde la locomotora) y 31 78 7855 049-8 (el 11.º por orden desde la locomotora) se escuchaba una salida de aire, mientras que dos vagones identificados con los números 31 78 7850 224-2 (el 21.º vagón por orden desde la locomotora) y 31 78 7850 152-5 (el 26.º vagón por orden desde la locomotora) no frenaban. Tras la realización de una prueba de frenado reducida, el tren fue remolcado a la estación de Lekenik.
+19.03.2025. 08:11
+El tren pasó por la estación de Turopolje
+19.03.2025. 08:15:20
+Frenado (78 km/h) 2.º grado de frenado (4,8 bar en GZV)
+19.03.2025. 08:15:55
+5.º grado de frenado (4,28 bar en GZV)
+### Fecha:
+### Hora
+### Descripción
+19.03.2025. 08:16:24
+Frenado SOS (71 km/h)
+19.03.2025. 08:16-08:18
+La velocidad disminuye lentamente, solo frena la locomotora – interviene el maquinista
+3 veces intenta con el 5.º grado de frenado y después repite inmediatamente
+el frenado SOS
+19.03.2025. 08:19:56
+Activada la frenada de muelle de la locomotora
+19.03.2025. 08:20:22
+Paso de la señal de salida C3 de la estación de Lekenik que muestra «ALTO»
+(activado 2000 Hz)
+19.03.2025. 08:21
+Corte de tensión en KM en el tramo Greda-Lekenik
+19.03.2025. 08:23:05
+El tren 61015 se detiene completamente en el km 389+780
+Tabla 1 – Representación de la circulación del tren Velika Gorica-Lekenik/lectura del registro TRU Vectron
+3.2.2. Secuencia de acontecimientos desde la producción del suceso excepcional hasta la finalización de la actuación de los servicios de
+rescate
+Tras el paso del tren de mercancías número 61015 junto a la señal de salida «C3» en la estación de Lekenik, que mostraba la señal «ALTO»,
+el tren (cabeza del tren) se detuvo en el km 389+780. El regulador de trenes de la estación de Lekenik informó del incidente a la Operativa de Tráfico Centro, a la Jefatura Provincial de Sisak-Moslavina, a Obras Ferroviarias d.d., al jefe de estación de HŽ Cargo y a HŽ Putnički prijevoz d.o.o. En el lugar de los hechos, la inspección fue realizada por: el jefe de estación de Lekenik, el instructor de tráfico de la Unidad de Trabajo Regional de Tráfico Centro de HŽI, los investigadores de AIN, los representantes de RU HŽ CARGO d.o.o. y HŽPP d.o.o.
+Tras la restitución de la tensión en la red de contacto a las 11:02, se realizó una prueba completa de frenado en el tren y todos los vagones que componían el tren 61015 frenaron igual que la locomotora de tracción. Tras la inspección realizada por la comisión conjunta y los investigadores de criminalística de la Jefatura Provincial de Sisak-Moslavina, el tren 61015 fue retirado a la estación de Lekenik, al cuarto vía libre, a las 14:05. El tren 5104 entró en la estación de Lekenik a las 14:08 y el tramo de vía entre la estación de Greda y la estación de Lekenik se abrió al tráfico a las 14:11.
+La prueba de frenado repetida en el tren 61015 tras su retirada a la estación de Lekenik mostró resultados iguales a los anteriores: todos los vagones que componen el tren 61015 frenan.
+El tramo de vía entre Greda y la estación de Lekenik estuvo cerrado desde las 08:21 hasta las 14:11.
+En el incidente, nadie del personal oficial del tren resultó herido. No fue necesaria la intervención del servicio de rescate ni de los bomberos.
+Los investigadores de accidentes ferroviarios de AIN realizaron la inspección del lugar del incidente el 19.03.2025. y recopilaron las pruebas y hechos del mencionado incidente. El lugar del suceso excepcional fue examinado en detalle: la situación de vías de la estación de Lekenik, los desvíos y los elementos externos del dispositivo SS y la consola de mando en la oficina de tráfico.
+Al llegar al lugar de los hechos, el tren de mercancías número 61015, transportista HŽ CARGO d.o.o., fue encontrado con su extremo a unos 500 metros después del PBA-1, en dirección a la estación de Greda. En el tren, tras el incidente, en el lugar de los hechos, se realizó una prueba completa de frenado. La prueba de frenado puso de manifiesto que en los vagones numerados 31 78 7850 048-5 (3.º en orden desde la locomotora), 31 78 7850 131-9 (6.º en orden desde la locomotora) y 31 78 7855 049-8 (11.º en orden desde la locomotora) se oía la salida de aire, mientras que dos vagones numerados 31 78 7850 224-2 (21.er vagón en orden desde la locomotora) y 31 78 7850 152-5 (26.º vagón en orden desde la locomotora) no frenaban. Tras la realización de la prueba de frenado abreviada, el tren fue retirado a la estación de Lekenik.
 
 ## Página 27
 
@@ -740,32 +757,32 @@ los actualiza,
 
 ## Página 28
 
-8. lleva el registro informático de los telegramas Pe-29,
-9. lleva el Libro de averías de los equipos de telecomunicaciones, equipos SS y de las instalaciones de vía Pe-20,
-10. realiza las tareas para los transportistas ferroviarios de conformidad con las disposiciones del contrato celebrado con los mismos
-11. presenta la solicitud al despachador para el cierre extraordinario de la línea y de las vías, y las aprueba
-12. lleva el diario de tráfico Pe-12, para todos los trenes y vehículos de vía, e informa al despachador y, si es necesario, al jefe de estación, de los cambios en la circulación de los trenes.
-13. expide, recibe, sella y remite los documentos acompañantes de los trenes (orden de circulación del tren SE-1, Informe sobre la composición y el frenado del tren SE-2, y, si es necesario, la orden escrita SE-3),
-14. se encarga de la remisión puntual de los vagones según el plan de maniobras SE-5 emitido por el transportista, así como del montaje puntual de los vagones en la vía de maniobras,
-15. recibe y remite todos los trenes, trenes de trabajo, vehículos de vía y composiciones de maniobra hasta un punto determinado de la línea, de acuerdo con el extracto del horario de circulación,
-16. presenta al despachador del Sector de Ejecución del Tráfico de Zagreb la solicitud para la introducción de los trenes en circulación,
-17. supervisa y organiza el trabajo de maniobras, y organiza la interrupción puntual de las maniobras y la protección de los vehículos contra el autodesplazamiento,
-18. planifica la remisión de los trenes
-19. comunica todas las averías en las instalaciones de la red de contacto y en otras instalaciones de la estación y de la vía que sean relevantes para la seguridad y la regularidad del tráfico, e informa al despachador de tráfico,
-20. elabora el Informe de irregularidades Pe-19 para todas las irregularidades ocurridas durante el turno,
-21. envía telegramas para las interrupciones y averías en los equipos ocurridas, así como para los incidentes extraordinarios (art. 10 del Reglamento HŽI-631.), así como otros telegramas comerciales que lleguen durante el turno, los cuales registra en los libros de telegramas previstos Pe-28
-22. proporciona a los pasajeros interesados la información necesaria sobre el horario de circulación y la circulación de los trenes, verbalmente y por teléfono
-23. organiza las tareas relativas a la composición y al frenado reglamentarios del tren
-24. asiste a la formación ordinaria y extraordinaria
-25. se somete a la revisión médica
-26. cuida del patrimonio, realiza el servicio de custodia de conformidad con el Anexo IV, utiliza adecuadamente el equipo informático y los programas instalados de soporte
-27. cuida de la limpieza de las instalaciones, de las áreas acondicionadas y de acceso, cuida del medio ambiente, durante el invierno se encarga de que no haya precipitaciones nevadas ni hielo en las áreas acondicionadas y de acceso, de que la calefacción de las instalaciones sea suficiente y de que haya iluminación dentro y fuera del edificio de recepción de la estación,
-28. realiza las actividades de establecimiento, mantenimiento y mejora del sistema de gestión de la calidad de conformidad con los requisitos de la norma HRN NS ISO 9001 y con los documentos de la Sociedad
-29. presta ayuda a las personas con discapacidad y con movilidad reducida a la entrada/salida del tren y al desplazamiento por la estación,
-30. realiza otras tareas dentro del ámbito de su competencia y experiencia laboral, de conformidad con las necesidades del ámbito de trabajo establecidas en el presente Reglamento de la estación, así como las tareas por orden del jefe de estación,
-31. es responsable de la ejecución de las tareas y de las tareas laborales de su ámbito de descripción de funciones, participa en la eliminación de las consecuencias de los incidentes extraordinarios, tal como dispone el Reglamento sobre los incidentes extraordinarios en el tráfico ferroviario,
-32. proporciona a los pasajeros información sobre los retrasos y otros cambios en la circulación de los trenes para el transporte de viajeros,
-33. proporciona información sobre los cambios en la circulación de los trenes y de los vehículos al personal oficial afectado (personal de estación, personal de vía, transportista y Centro PO).
+8. lleva el registro informático de los telegramas Pe-29,  
+9. lleva el Libro de averías de los aparatos de telecomunicaciones, aparatos SS y de las instalaciones de vía Pe-20,  
+10. realiza tareas para los operadores ferroviarios de conformidad con las disposiciones del contrato con los mismos  
+11. solicita al despachador el cierre extraordinario de la vía y de la vía lateral, aprueba los mismos  
+12. lleva el diario de circulación Pe-12, de todos los trenes y vehículos de vía, y sobre los cambios en la marcha de los trenes informa al despachador y, si es necesario, al jefe de estación.  
+13. expide, recibe, cierra y despacha los documentos de acompañamiento de los trenes (orden de circulación del tren SE-1, Informe sobre la composición y el frenado del tren SE-2, y, si es necesario, la orden escrita SE-3),  
+14. se ocupa de la expedición oportuna de los vagones según el horario de maniobras expedido SE-5 de los operadores y de la colocación oportuna de los vagones en la vía de maniobras,  
+15. recibe y despacha todos los trenes, trenes de trabajo, vehículos de vía y composiciones de maniobras hasta algún punto de la vía según el extracto del horario de circulación,  
+16. solicita al despachador del Sector de Ejecución de Circulación de Zagreb la puesta en circulación de los trenes,  
+17. supervisa y organiza el trabajo de maniobras y organiza la parada oportuna de las maniobras y la seguridad de los vehículos frente al movimiento automático,  
+18. planifica la expedición de los trenes  
+19. comunica todas las averías en las instalaciones de la red de contacto y en las demás instalaciones de la estación y de la vía que sean relevantes para la seguridad y la regularidad de la circulación, e informa al despachador de circulación,  
+20. elabora el Informe de irregularidades Pe-19 de todas las incorrecciones producidas durante el turno,  
+21. envía los telegramas por las interferencias y averías producidas en los aparatos y por los sucesos extraordinarios (art. 10 del Reglamento HŽI-631.), así como los demás telegramas operativos que lleguen durante el turno, lo que registra en los libros de telegramas previstos Pe-28  
+22. proporciona la información necesaria sobre el horario de circulación y el movimiento de los trenes a los pasajeros interesados, verbalmente y por teléfono  
+23. organiza las tareas de la composición y el frenado reglamentarios del tren  
+24. asiste a la formación ordinaria y extraordinaria  
+25. realiza el reconocimiento médico  
+26. se ocupa de los bienes, ejerce el servicio de vigilancia de conformidad con el Anexo IV, utiliza adecuadamente el equipo informático así como el software instalado  
+27. se ocupa del orden de las instalaciones, de las superficies acondicionadas y de acceso, cuida del medio ambiente, durante el invierno se asegura de que en las superficies acondicionadas y de acceso no haya precipitaciones nevadas ni hielo, de que el calor de las instalaciones sea suficiente y de que la iluminación interior y exterior del edificio de recepción de la estación,  
+28. lleva a cabo las actividades de establecimiento, aplicación, mantenimiento y mejora del sistema de gestión de calidad de conformidad con los requisitos de HRN NS ISO 9001 y los documentos de la Sociedad  
+29. presta asistencia a las personas con necesidades especiales y con movilidad reducida en la entrada/salida del tren y en el desplazamiento por la estación,  
+30. realiza las demás tareas en el ámbito de su competencia y experiencia laboral de conformidad con las necesidades del ámbito de trabajo establecido por este Reglamento de la estación, así como las tareas por orden del jefe de estación,  
+31. responde de la ejecución de las tareas y de los trabajos en el ámbito de su descripción de puestos, participa en la eliminación de las consecuencias de los sucesos extraordinarios tal como lo prescribe el Reglamento sobre sucesos extraordinarios en el tráfico ferroviario,  
+32. informa a los pasajeros sobre los retrasos y los demás cambios en la circulación de los trenes para el transporte de pasajeros,  
+33. informa sobre los cambios en la circulación de trenes y vehículos al personal oficial a quien concierne (personal de estación, personal de vía, operador y PO Centro).
 
 ## Página 29
 

@@ -10,13 +10,14 @@ chars: 110297
 ratio_longitud: 1.25
 tokens_in: 51057
 tokens_out: 36944
-verificacion: revisar
-notas_cifras: ["bloque 3: original bilingüe: se compara contra el idioma principal (CS)", "bloque 8: original bilingüe: se compara contra el idioma principal (CS)", "bloque 9: original bilingüe: se compara contra el idioma principal (EN)"]
-avisos: ["bloque 8: ratio 1.82"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 3: original bilingüe: se compara contra el idioma principal (CS)", "página 4: original bilingüe: se compara contra el idioma principal (CS)", "página 6: original bilingüe: se compara contra el idioma principal (CS)", "página 7: original bilingüe: se compara contra el idioma principal (CS)", "página 9: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -40,13 +41,13 @@ IČ: 75009561
 mail@dicr.cz
 tel.: +420 736 521 003
 
-
 ## Página 2
+
 
 Este informe final es público y todos los hechos en él expuestos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ### 1 RESUMEN
 Fuente: Drážní inspekce  
@@ -72,20 +73,23 @@ Causa sistémica:
 •
 explotación de la vía y del transporte ferroviario según las normas internas del gestor de la vía, que estaban en contradicción con las condiciones técnicas de explotabilidad de la vía determinadas por los parámetros constructivo-técnicos obligatorios, lo que condujo a una incorrecta
 
-
 ## Página 4
 
-evaluación de los parámetros geométricos de la vía y, en consecuencia, a la no adopción de una medida oportuna y adecuada para garantizar la seguridad de la explotación de la vía y del transporte ferroviario.
-Recomendaciones de seguridad:
-La Drážní inspekce, en virtud de lo dispuesto en el § 53e apartado 1 de la Ley n.º 266/1994 Sb., recomienda, en relación con la prevención de sucesos ferroviarios:
-Al Drážní úřad:
-•
-en el marco de su actividad como autoridad nacional de seguridad, la adopción de medidas que garanticen, en el gestor de la vía Jindřichohradecké místní dráhy, a. s.:
-◦
-la actualización, el complemento, la armonización mutua y la interconexión de todas las normas internas y los procedimientos tecnológicos en el ámbito de la superestructura ferroviaria, la eliminación de defectos y la realización de la actividad de control correspondiente.
+evaluación de los parámetros geométricos de la vía y, en consecuencia, a la no adopción oportuna de una medida adecuada para garantizar la seguridad de la explotación de la vía y del transporte ferroviario.
 
+Recomendaciones de seguridad:
+
+La Inspección Ferroviaria, en virtud de lo dispuesto en el apartado 1 del artículo 53e de la Ley nº 266/1994 Sb., recomienda, con miras a la prevención de sucesos extraordinarios:
+
+A la Autoridad Ferroviaria:
+
+•
+en el marco de su actividad como autoridad nacional de seguridad, la adopción de una medida que garantice, en el operador de la vía Jindřichohradecké místní dráhy, a. s.:
+◦
+la actualización, el complemento, la armonización mutua y la interconexión de todos los reglamentos internos y procedimientos tecnológicos en el ámbito del superestructura ferroviaria, la eliminación de defectos y la realización de la actividad de control consecuente.
 
 ## Página 5
+
 
 ### SUMMARY
 15th July 2021, 14:19 (12:19 GMT).
@@ -134,8 +138,8 @@ update, replenishment, mutual harmonization and interconnection all internal
 regulations and technological procedures in the area of railway track, removal
 defect and make subsequent checking activity.
 
-
 ## Página 6
+
 
 # Índice
 1 RESUMEN........................................................................................................................3
@@ -179,6 +183,7 @@ SUMMARY.........................................................................
 
 ## Página 7
 
+
 4.2.2 Factores o consecuencias derivados de la instalación y puesta en servicio de vehículos ferroviarios, infraestructura ferroviaria o instalaciones técnicas......................................28
 4.2.3 Factores o consecuencias relacionados con fabricantes de vehículos ferroviarios u otros proveedores de productos ferroviarios............................................................................28
 4.2.4 Factores o consecuencias derivados del mantenimiento y modificación de vehículos ferroviarios o instalaciones técnicas....................................................................................................28
@@ -209,6 +214,7 @@ y de los talleres de mantenimiento..............................................
 ANEXOS..............................................................................................................................40
 
 ## Página 8
+
 
 ### Lista de siglas y símbolos utilizados
 AL
@@ -264,6 +270,7 @@ estación de ferrocarril
 
 ## Página 9
 
+
 ### Lista de siglas de la legislación, normas y normativa interna utilizadas
 ley núm. 266/1994 Sb.
 ley núm. 266/1994 Sb., de ferrocarriles, en la redacción
@@ -300,8 +307,8 @@ Contrato PČV 052/19
 normativa interna ČD S 3
 parte de la normativa interna de ČD asumida por el gestor de la infraestructura JHMD, a. s., «Superestructura ferroviaria», aprobada el día 11. 3. 1978, con el n.º de expediente: 25 805/76, en vigor desde el 1. 9. 1980, anexo n.º 9, en la redacción vigorosa en el momento de producirse el suceso extraordinario
 
-
 ## Página 10
+
 
 JHMD Reglamento de Circulación
 normativa interna del gestor de la infraestructura y del operador
@@ -330,44 +337,43 @@ Jindřichohradecké místní dráhy, a. s. «Manual del sistema de
 aseguramiento de la seguridad de la explotación de la infraestructura
 y del transporte ferroviario», en la redacción vigorosa en el momento de producirse el suceso extraordinario
 
-
 ## Página 11
 
-### 2 LA INVESTIGACIÓN Y SU CONTEXTO
+### 2 INVESTIGACIÓN Y SUS RELACIONES
 ### 2.1 Decisión de iniciar la investigación
-La DI decidió iniciar la investigación del suceso extraordinario en cuestión el día 15. 7. 2021.
+El DI decidió iniciar la investigación de la MU en cuestión el 15. 7. 2021.
 ### 2.2 Fundamentación de la decisión de iniciar la investigación
-La DI decidió investigar el suceso extraordinario en cuestión en base a su gravedad, recurrencia, impactos del suceso extraordinario en el gestor de la infraestructura y el operador, y a la facultad derivada de la disposición § 53b de la ley núm. 266/1994 Sb.
-### 2.3 Alcance y limitaciones de la investigación, incluida la fundamentación pertinente
-La DI no se encontró, en el marco de la investigación del suceso extraordinario en cuestión, con limitaciones que influyeran negativamente en el modo y los procedimientos de la investigación.
+El DI decidió investigar la MU en cuestión sobre la base de la gravedad, la repetitividad, los impactos del suceso excepcional en el gestor de la vía y el transportista, y la facultad derivada de la disposición § 53b de la Ley núm. 266/1994 Sb.
+### 2.3 Alcance y limitaciones de la investigación, incluida la fundamentación correspondiente
+El DI no se encontró, en el marco de la investigación de la MU en cuestión, con limitaciones que influyeran negativamente en el modo y los procedimientos de la investigación.
 ### 2.4 Descripción resumida de las capacidades y funciones técnicas del equipo de investigación
-Investigación de la DI en el lugar del suceso extraordinario:
-3x inspector del ÚI Čechy, centro de trabajo Plzeň. 
-Formación del equipo de investigación:
-2x inspector del ÚI Čechy, centro de trabajo Plzeň,
-director del ÚI Brno.
+Investigación del DI en el lugar de la MU:
+3x inspector de la ÚI Čechy, centro de trabajo Plzeň.
+Constitución del equipo de investigación:
+2x inspector de la ÚI Čechy, centro de trabajo Plzeň,
+director de la ÚI Brno.
 Colaboración externa:
 no se utilizó.
 2.5 Comunicación y consultas durante la investigación con las personas o entidades
 que participaron en el suceso en cuestión
-En la investigación de las causas y circunstancias del suceso extraordinario, la DI se basó principalmente en sus propios conocimientos, hallazgos y en su propia documentación fotográfica. Durante la investigación, la DI solicitó además la documentación recabada durante la investigación al gestor de la infraestructura y al operador.
-La investigación de las causas y circunstancias del suceso extraordinario se realizó de acuerdo con la ley núm. 266/1994 Sb.
-y el decreto núm. 376/2006 Sb. 
-### 2.6 Descripción del nivel de colaboración ofrecido por las entidades implicadas
-El nivel de colaboración con los representantes de la entidad implicada en el suceso extraordinario fue estándar.
-### 2.7 Descripción de la investigación, métodos y técnicas utilizados para acreditar los hechos
-y los hallazgos recogidos en el informe
-En el marco de la investigación del suceso extraordinario, la DI procedió de la siguiente manera, y utilizó, entre otros, los siguientes métodos y técnicas:
+Al investigar las causas y circunstancias de la aparición de la MU, el DI se basó principalmente en sus propios conocimientos, hallazgos y en su propia documentación fotográfica. Durante la investigación, el DI solicitó posteriormente la documentación elaborada durante la investigación por parte del gestor de la vía y del transportista.
+La investigación de las causas y circunstancias de la aparición de la MU se realizó de conformidad con la Ley núm. 266/1994 Sb. y el Decreto núm. 376/2006 Sb.
+### 2.6 Descripción del nivel de colaboración ofrecido por las entidades participantes
+El nivel de colaboración con los representantes de la entidad participante en la MU fue estándar.
+### 2.7 Descripción de la investigación, los métodos y las técnicas utilizados para acreditar los hechos
+y los hallazgos indicados en el informe
+En el marco de la investigación de la MU, el DI procedió de la siguiente manera, es decir, utilizó, entre otros, los siguientes métodos y técnicas:
 •
-inspección del lugar del suceso extraordinario, incluido el vehículo ferroviario implicado
+inspección del lugar del suceso excepcional, incluido el vehículo ferroviario participante
 y la infraestructura de la vía;
 •
-medición de parámetros de la superestructura ferroviaria mediante el uso de un calibrador manual y el vehículo de medición KRAB;
+medición de los parámetros de la superestructura ferroviaria mediante el uso de un
+medidor de ancho de vía manual y el vagón medidor KRAB;
 •
-análisis de la documentación solicitada al gestor de la infraestructura y al operador;
-
+análisis de la documentación solicitada al gestor de la vía y al transportista;
 
 ## Página 12
+
 
 •
 análisis de los datos registrados por el registrador de velocidad del vehículo ferroviario implicado;
@@ -409,6 +415,7 @@ La vía en el lugar de producción del suceso extraordinario discurre sobre un t
 
 ## Página 13
 
+
 ## estación D3  
 ## Lugar MU
 ## Chválkov
@@ -447,8 +454,8 @@ la huella continuaba por la cabeza del carril izquierdo hasta el pk 27,041, dond
 •
 la huella del aro en la cabeza del carril izquierdo continuaba hasta el pk 27,035, donde se produjo el deslizamiento del aro de la rueda izquierda del bogie delantero fuera del carril y, a continuación, el hundimiento de ambos ejes del bogie delantero a la izquierda en el sentido de circulación del tren;
 
-
 ## Página 14
+
 
 •
 en el pk 27,031 a la izquierda en el sentido de circulación del tren, junto a la vía, se encontraba la señal fija "Indicador de pendiente" con una pendiente de 0 ‰ en el sentido y +21 ‰ en sentido contrario a la circulación del tren Os 21209;
@@ -493,8 +500,8 @@ parcialmente nublado, seco, + 23 °C, visibilidad no reducida.
 Datos geográficos:
 curva a la derecha sobre un terraplén suave en terreno arbolado.
 
-
 ## Página 15
+
 
 En el lugar del MU no se realizaron, inmediatamente antes de su aparición, por parte del propietario, del gestor de la vía ni de otros sujetos, ningún tipo de trabajos de reparación o mantenimiento. La circulación en el lugar del MU y sus alrededores se desarrollaba en régimen normal.
 ### 3.1.4 Fallecimientos, lesiones y daños materiales
@@ -527,8 +534,8 @@ El gestor de la vía ferroviaria, categoría regional Jindřichův Hradec – Ob
 El transportista del tren Os 21209 era JHMD, con domicilio en Nádražní 203/II, 377 01 Jindřichův Hradec.
 Determinadas actividades relacionadas con la explotación de la vía regional Jindřichův Hradec – Obrataň las realiza SŽ en virtud del Contrato PVČ 052/19 celebrado entre JHMD y SŽ.
 
-
 ## Página 16
+
 
 ### 3.1.7 Descripción de los vehículos ferroviarios y sus composiciones, incluidos los números de registro
 | Tren: | Os21209 | Composición del tren: |  | Régimen de frenado: |
@@ -577,35 +584,35 @@ reducción de la velocidad a 35 km·h-1 por el tren Os 21209 en el pk 27,160, es
 14:19:04 h –
 circulación del frontal del tren Os 21209 a la altura de la junta de riel en el pk 27,064
 
-
 ## Página 17
 
-a una velocidad de 35 km·h-1;
+velocidad de 35 km·h-1;
 •
 14:19:05 h –
-circulación del frontal del tren Os 21209 en el pk 27,051 a la altura del punto "0" a una velocidad de
+circulación de la cabeza del tren Os 21209 en el km 27,051 a la altura del punto „0“ a una velocidad de
 35 km·h-1;
 •
 14:19:07 h –
-hundimiento de ambos ejes del bogie delantero del tren Os 21209 fuera de la vía
-en el pk 27,035 a una velocidad de 35 km·h-1;
+descarrilamiento de ambos ejes del bogie delantero del tren Os 21209 fuera de la vía en el km 27,035
+a una velocidad de 35 km·h-1;
 •
 14:19:15 h –
-detención del frontal del tren Os 21209 tras recorrer 64 m desde el punto "0".
-El 28. 7. 2021 se realizó en la estación D3 Kamenice nad Lipou, por personas cualificadas del transportista y con la presencia de inspectores del DI, una medición comisionada de las presiones de las ruedas del MDV M27.004. Los valores detectados no superaban las tolerancias permitidas establecidas por el decreto n.º 173/1995 Sb.
-El 29. 7. 2021 se realizó en el taller de reparación del transportista en Jindřichův Hradec, por personas cualificadas del transportista y con la presencia de inspectores del DI, una inspección comisionada del MDV M27.004. Tras el desenganche de los bogies se procedió a la remediación de todos los bogies, los valores detectados correspondían a la normativa interna del transportista JHMD "Normativa de mantenimiento de vehículos ferroviarios". En el segundo bogie (el primero en el sentido de circulación del tren Os 21209) se detectó daño en las superficies rodantes por la circulación en estado descarrilado. En el primer bogie (el segundo en el sentido de circulación del tren Os 21209) se detectó, en el lado izquierdo (derecho en el sentido de circulación del tren Os 21209), tras la desmontaje de la patín entre el bogie y la caja del MDV, la rotura de ambos muelles helicoidales de la suspensión secundaria (véanse las figs. n.º 3 y 4 del anexo).
+detención de la cabeza del tren Os 21209 tras recorrer una distancia de 64 m desde el punto „0“.
+El 28. 7. 2021 se llevó a cabo en la estación de tráfico D3 Kamenice nad Lipou, por parte de personas cualificadas del ferrocarril en presencia de inspectores de DI, una medición comisionada de las presiones de las ruedas del material rodante M27.004. Los valores comprobados no superaban las tolerancias permitidas establecidas por el decreto nº 173/1995 Sb.
+El 29. 7. 2021 se llevó a cabo en el taller de reparación del ferrocarril en Jindřichův Hradec, por parte de personas cualificadas del ferrocarril en presencia de inspectores de DI, una inspección comisionada del material rodante M27.004. Tras desenganchar los bogies, se procedió a la remediación de todos los juegos de ruedas, y los valores comprobados correspondían a la normativa interna del ferrocarril JHMD Předpis pro údržbu drážních vozidel. En el segundo bogie (el primero en el sentido de circulación del tren Os 21209) se detectaron daños en las superficies de rodadura tras la circulación en estado descarrilado. En el primer bogie (el segundo en el sentido de circulación del tren Os 21209) se detectaron, en el lado izquierdo (derecho en el sentido de circulación del tren Os 21209), tras desmontar la placa deslizante entre el bogie y la caja del material rodante, la rotura de ambos muelles helicoidales de la suspensión secundaria (véase las figs. nº 3 y 4 del anexo).
 sentido de circulación
- distancia entre pivotes  9 m
+ distancia entre los pivotes 9 m
 1,7 m
 rotura de los muelles de la suspensión secundaria
 bogie descarrilado
     Fuente: DI
-Fig. n.º 2: Esquema del MDV M27.0
-### 3.1.8 Descripción de las partes correspondientes de la infraestructura y del sistema de señalización
-La vía en el lugar del MU en el sentido de circulación del tren pasa de un tramo recto a una curva a la derecha de radio 95 m (izquierda en el sentido de la numeración creciente de los puntos kilométricos) y mediante un cambio de aguja a través del paso a nivel P9046 (pk 27,045) a un tramo recto sobre un terraplén suave en pendiente del 21‰. En el pk 27,031, es decir, 4 m después del lugar donde el bogie delantero se hundió sobre las traviesas, la pendiente pasa a un tramo horizontal. La curva de radio 95 m y longitud 19 m (del pk 27,087 al pk 27,068) tiene un cambio de aguja extremo de 36 m de longitud, un sobreelevación establecida de 71 mm y una ampliación de ancho de vía establecida de 16 mm.
-La vía en el lugar del descarrilamiento del tren se encuentra en terreno accidentado (masa forestal). Se trata de una vía de vía única, de ancho estrecho (760 mm), no electrificada, no protegida
+Fig. nº 2: Esquema del material rodante M27.0
+### 3.1.8 Descripción de las partes de la infraestructura y del sistema de señalización correspondientes
+La vía en el lugar del accidente en el sentido de circulación del tren pasa de un tramo recto a una curva a la derecha de radio 95 m (a la izquierda en el sentido de la kilometraje creciente) y mediante un cambio de vía a través del paso a nivel P9046 (km 27,045) a un tramo recto en un terraplén suave con una pendiente del 21‰. En el km 27,031, es decir, 4 m después del punto donde el primer juego de ruedas cayó sobre las traviesas, la pendiente pasa a un tramo horizontal. La curva de radio 95 m y longitud 19 m (del km 27,087 al km 27,068) tiene un cambio de vía extremo de 36 m de longitud, un sobreelevación establecida de 71 mm y una ampliación de la vía establecida de 16 mm.
+La vía de tráfico en el lugar del descarrilamiento del tren se encuentra en un terreno accidentado (masa forestal). Se trata de una vía de vía única, de ancho estrecho (760 mm), no electrificada, no protegida
 
 ## Página 18
+
 
 parte de vía del bloqueo automático de trenes. En el lugar de origen de la MU, en el sentido de circulación del tren, el gestor de la vía ha establecido una velocidad de vía de 35 km·h-1. El tráfico ferroviario se organiza mediante una gestión simplificada dirigida por el despachador de SŽ con sede en la est. Jindřichův Hradec, en virtud del Contrato PČV 052/19.
 La vía con carriles de perfil S49 sobre traviesas nervadas con juntas de dilatación se instaló en 1987. Las cabezas de las traviesas estaban cubiertas con una capa suficiente de balasto.
@@ -628,6 +635,7 @@ Defectos GPK más detallados, véase el Acta de medición de control de los par�
 g) conclusión: El tramo inspeccionado está debidamente mantenido en la medida de lo posible.»
 
 ## Página 19
+
 
 •
 La medición de los parámetros geométricos de la vía con registro continuo se realizó el 7. 5. 2021. Sobre sus resultados, el gestor de la vía facilitó a la Inspección Ferroviaria, en febrero de 2022, el documento: «Vyjádření k přijatému opatření ke zjištěným závadám nad mezními hodnotami IAL v km 27,051 – 27,053 trati Jindřichův Hradec – Obrataň», en el que indicó:
@@ -672,19 +680,21 @@ a las 13:44 h partió el tren Os 21209 de la estación de maniobras D3 Obrataň;
 ## Página 20
 
 ◦
-a las 14:24 h el maquinista del Os 21209 le comunicó el origen de la MU, descarrilamiento de dos ejes;
+ve 14:24 h el maquinista del Os 21209 comunicó la aparición de MU, descarrilamiento de dos ejes;
 ◦
-tras obtener la información necesaria del maquinista, actuó conforme al «Ohlašovací rozvrh» (Calendario de comunicaciones).
+tras obtener la información necesaria del maquinista, actuó según el «Horario de comunicaciones».
 ### 3.2 Descripción fáctica del suceso
-### 3.2.1 Secuencia de hechos que condujeron al suceso extraordinario
-El maquinista del tren Os 21209, compuesto por la locomotora M27.004, entró en turno el 15. 7. 2021 en la est. Jindřichův Hradec, primero para el tren Os 21208 con salida regular de la est. Jindřichův Hradec a las 11:06 h, en dirección a la estación de maniobras D3 Obrataň, donde debía hacer transbordo al tren Os 21209. La circulación transcurrió, según declaración del maquinista, sin ningún tipo de incidencias. El tren Os 21209 partió de la estación de maniobras D3 Obrataň en dirección a la est. Jindřichův Hradec a las 13:44 h, tras el permiso de circulación del despachador de la est. Jindřichův Hradec. En un momento no determinado antes del origen de la MU, en la locomotora M27.004, que posteriormente descarrilaría, se produjo la rotura de ambas muelles helicoidales de la suspensión secundaria del bogie trasero en el lado derecho en el sentido de circulación del tren Os 21209.
-Antes del paso a nivel ferroviario P9064, en el km 27,051, durante la circulación del tren Os 21209, el borde de la rueda delantera izquierda de la locomotora en el sentido de circulación del tren subió hasta la cabeza del carril izquierdo.
-En la zona del lugar de origen de la MU, en el marco de las inspecciones periódicas, se habían detectado defectos recurrentes en el GPK. El 7. 5. 2021, la vagoneta de medición KRAB detectó, justo antes del lugar de origen de la MU, exactamente en el espacio donde posteriormente se produjo la subida de la rueda de la locomotora M27.004 hasta la cabeza del carril, la superación de los niveles IAL en el parámetro de deformación de la vía ZK1 en el km 27,052 y ZK2 en el km 27,053. Estos defectos detectados no se habían corregido hasta la fecha de origen de la MU, ya que inmediatamente después del origen de la MU, el 15. 7. 2021, la vagoneta de medición KRAB detectó nuevamente una deformación indebida de la vía exactamente en el espacio donde se produjo la subida de la rueda de la locomotora M27.004 hasta la cabeza del carril. La medición detectó esencialmente la misma superación de los niveles IAL en el km 27,050 en el parámetro de deformación de la vía ZK1 y en el km 27,051 deformación de la vía ZK2.
-Por la combinación del defecto técnico en el bogie, es decir, la rotura de los muelles helicoidales, y la superación de los valores límite operativos de deformación de la vía, durante la circulación del tren Os 21209 por la transición y la rampa en dirección desde la curva con sobreelevación hacia la aligeración del lado izquierdo del bogie delantero, se produjo la subida del borde de la rueda delantera izquierda de la locomotora en el sentido de circulación del tren hasta la cabeza del carril izquierdo. Tras 16 m de circulación del borde por la cabeza del carril, se produjo el descarrilamiento completo, es decir, la caída del bogie delantero con ambos ejes a la izquierda de la vía en el sentido de circulación del tren. En ese estado de descarrilamiento, la locomotora recorrió otros 48 m antes de detenerse.
-En el momento del origen de la MU, en el tren viajaban 6 pasajeros y 2 empleados de JHMD (maquinista, revisor). En la MU no se produjeron daños en la salud de ninguna persona que viajara en el tren Os 21209.
-El 15. 7. 2021, antes del origen de la MU, circularon por el lugar mencionado anteriormente, es decir, el km 21,051, cinco trenes de pasajeros en dirección Jindřichův Hradec – Obrataň y cuatro trenes de pasajeros en dirección Obrataň – Jindřichův Hradec.
+### 3.2.1 Secuencia de hechos que condujeron al suceso excepcional
+El maquinista del tren Os 21209, compuesto por el HDV M27.004 en solitario, incorporó su turno el día 15. 7. 2021 en la est. Jindřichův Hradec, primero para el tren Os 21208 con salida regular de la est. Jindřichův Hradec a las 11:06 h, en dirección a la estación de maniobras D3 Obrataň, donde debía enlazar con el tren Os 21209. La circulación se realizó, según declaración del maquinista, sin ningún tipo de incidencias. El tren Os 21209 partió de la estación de maniobras D3 Obrataň en dirección a la est. Jindřichův Hradec a las 13:44 h tras la autorización para circular del despachador director de la est. Jindřichův Hradec.
+En un momento no determinado antes de la aparición de la MU, se produjo en el HDV M27.004, que posteriormente descarriló, la rotura de ambas muelles helicoidales de la suspensión secundaria del bogie trasero en el lado derecho respecto a la dirección de marcha del tren Os 21209.
+Antes del paso a nivel P9064, en el km 27,051, durante la circulación del tren Os 21209, se produjo el ascenso del labio de la rueda delantera izquierda del HDV en la dirección de marcha del tren sobre el canto del carril izquierdo.
+En el área del lugar de aparición de la MU se detectaron, en el marco de las inspecciones regulares, averías recurrentes en el GPK. El día 7. 5. 2021, el vehículo de medición KRAB detectó, justo antes del lugar de aparición de la MU, directamente en el espacio donde posteriormente se produjo el ascenso de la rueda del HDV M27.004 sobre la cabeza del carril, el sobrepasamiento de los niveles IAL en el parámetro de deformación de la vía ZK1 en el km 27,052 y ZK2 en el km 27,053. Estas averías detectadas no se habían corregido hasta la aparición de la MU, ya que inmediatamente después de la aparición de la MU el día 15. 7. 2021, el vehículo de medición KRAB volvió a detectar una deformación de la vía no admisible directamente en el espacio donde se produjo el ascenso de la rueda del HDV M27.004 sobre la cabeza del carril. La medición arrojó esencialmente el mismo sobrepasamiento de los niveles IAL en el km 27,050 en el parámetro de deformación de la vía ZK1 y en el km 27,051 deformación de la vía ZK2.
+Por la combinación de la avería técnica en el bogie, es decir, la rotura de los muelles helicoidales, y el sobrepasamiento de los valores límite operativos de deformación de la vía, se produjo durante la circulación del tren Os 21209 por la transición y la rampa en dirección desde una curva con peralte hacia el alivio del lado izquierdo del bogie delantero, el ascenso del labio de la rueda delantera izquierda del HDV en la dirección de marcha del tren sobre el canto del carril izquierdo. Tras 16 m de recorrido del labio sobre el canto del carril, se produjo el descarrilamiento completo, es decir, el hundimiento del bogie delantero con ambos ejes a la izquierda de la vía en la dirección de marcha del tren. En este estado de descarrilamiento, el HDV recorrió otros 48 m antes de detenerse.
+En el momento de la aparición de la MU viajaban en el tren 6 pasajeros y 2 empleados de JHMD (maquinista, revisor). En la MU no se produjeron daños personales en ninguna de las personas que viajaban en el tren Os 21209.
+El día 15. 7. 2021, antes de la aparición de la MU, circularon por el lugar mencionado anteriormente, es decir, el km 21,051, cinco trenes de pasajeros en dirección Jindřichův Hradec – Obrataň y cuatro trenes de pasajeros en dirección Obrataň – Jindřichův Hradec.
 
 ## Página 21
+
 
 ### 3.2.2 Secuencia de hechos desde el origen del suceso extraordinario hasta la finalización de las acciones de los servicios de emergencia
 •
@@ -715,6 +725,7 @@ En el documento de JHMD «Příručka systému zajišťování bezpečnosti prov
 
 ## Página 22
 
+
 A) en la sección 4. Sistema de seguridad:
 capítulo 4.1, pág. 7: En la empresa JHMD se buscan sistemáticamente los riesgos, se determinan sus causas y fuentes y se adoptan medidas para su eliminación. En su búsqueda se parte de los propios conocimientos, de la propia actividad de control, de los registros en el libro de averías y de los hallazgos de los órganos de supervisión;
 capítulo 4.1 en el punto: i) procedimientos que garantizan que los accidentes graves, los accidentes, los incidentes y otros sucesos que afecten a la explotación segura de la vía y del transporte ferroviario sean notificados, que se determinen sus causas y que se analicen, y que se adopten las medidas preventivas necesarias:
@@ -736,8 +747,8 @@ Capítulo 4.5.4.1 Plan de actividades de auditoría e inspección:
 4) La propuesta de medidas es siempre aprobada por el superior directo o, en su caso, por el representante de la empresa.
 El explotador de la vía JHMD tiene emitida la normativa interna P 03/99/JHMD. Para garantizar la operatividad de la vía y la seguridad del transporte ferroviario se realizan inspecciones y mediciones periódicas de las obras ferroviarias. En el Anexo n.º 1 de esta normativa se establece el Intervalo de tiempo para inspecciones y mediciones según lo dispuesto en el decreto n.º 177/1995 Sb.
 
-
 ## Página 23
+
 
 Asimismo, el explotador de la vía tiene emitida la normativa «Superficie de rodamiento de las vías de ancho métrico», en vigor desde el 1. 1. 2003. En esta normativa se recogen los principios generales de construcción de la superficie de rodamiento para el diseño, la construcción y el mantenimiento de la superficie de rodamiento de las vías de ancho métrico con ancho de vía de 760 mm.
 En la normativa interna del explotador de la vía JHMD P 03/99/JHMD se indica, entre otros:
@@ -764,45 +775,44 @@ art. 2. «Si en esta normativa no se indican principios complementarios y difere
 En la investigación se detectaron factores derivados del mantenimiento y de la modificación del equipo técnico – del estado de la superficie de rodamiento, que guardan relación causal con la aparición del SE.
 En la zona del descarrilamiento, es decir, en el pk 27,020 – 27,100, se detectaron valores operativos límite de la GPK superados repetidamente. En el mes de mayo de 2021, a partir de los registros de la medición de inspección continua realizada con el vagón medidor KRAB del 7 de mayo de 2021, se detectó y registró, en el espacio donde se produjo el trepado de la rueda DV sobre la cabeza del raíl, la superación de los niveles IAL:
 
-
 ## Página 24
 
 •
-en el pk 27,052, ondulación de la vía ZK1 (2-11.1/3) con un valor de 11,1 mm, longitud de la anomalía 2 m;
+en el pk 27,052 deformación de la vía ZK1 (2-11.1/3) con un valor de 11,1 mm, longitud del defecto 2 m;
 •
-en el pk 27,053, ondulación de la vía ZK2 (1-22.8/3) con un valor de 22,8 mm, longitud de la anomalía 1 m.
-Por parte del explotador de la vía, a pesar de los hallazgos mencionados, no se procedió a la eliminación definitiva de las anomalías anteriores en la GPK (véanse los puntos 4.3.3 y 4.4.7).
-Tras el SE del 15. 7. 2021, el vagón medidor KRAB detectó nuevamente, en la zona del descarrilamiento donde se produjo el trepado de la rueda DV sobre la cabeza del raíl, la superación indebida del nivel IAL:
+en el pk 27,053 deformación de la vía ZK2 (1-22.8/3) con un valor de 22,8 mm, longitud del defecto 1 m.
+Por parte del gestor de la infraestructura ferroviaria, no se procedió, a pesar de las constataciones anteriores, a la eliminación definitiva de los defectos mencionados anteriormente en la GPK (véanse los apartados 4.3.3 y 4.4.7).
+Tras el accidente ferroviario del 15 de julio de 2021, se constató de nuevo, con el vagón de medición KRAB en la zona del descarrilamiento, donde se produjo el trepado de la rueda DV sobre la cabeza del raíl, la superación indebida del nivel IAL:
 •
-en el pk 27,050, ondulación de la vía ZK1 (2-11.2/3) con un valor de 11,2 mm, longitud de la anomalía 2 m;
+en el pk 27,050 deformación de la vía ZK1 (2-11.2/3) con un valor de 11,2 mm, longitud del defecto 2 m;
 •
-en el pk 27,051, ondulación de la vía ZK2 (1-23.0/3) con un valor de 23 mm, longitud de la anomalía 1 m.
-La ondulación de la vía indicada a continuación, detectada en la zona del trepado de la rueda sobre la cabeza del raíl, fue evaluada a partir de los valores medidos tras el SE con un medidor de ancho de vía manual y, a efectos de valoración, se indica qué valores alcanzaba en el sentido del art. 56 de la normativa interna de JHMD Superficie de rodamiento de las vías de ancho métrico, es decir, «El valor límite de la magnitud ZK en explotación es 1:220 en una base de medición de 2 m y 1:273 en una base de medición de 6 m, con la condición de cumplir las disposiciones del art. 21…».
-Resultados de la medición del sobreelevación y cálculo posterior de la ondulación ZK1 en una base de medición de 2 m con un paso de 2 m progresivamente en el sentido de la marcha del tren entre los puntos de medición 20 (pk 27,055) y 12 (pk 27,047):
+en el pk 27,051 deformación de la vía ZK2 (1-23.0/3) con un valor de 23 mm, longitud del defecto 1 m.
+La deformación de la vía indicada a continuación, constatada en la zona del trepado de la rueda sobre la cabeza del raíl, fue evaluada a partir de los valores medidos tras el accidente ferroviario con un patrón de vía manual y, a efectos de valoración, se indica qué valores alcanzaba en el sentido del artículo 56 de la normativa interna de JHMD «Vía superestructura de las vías de vía estrecha», es decir: «El valor límite de la magnitud ZK en servicio es de 1:220 en una base de medición de 2 m y de 1:273 en una base de medición de 6 m, con la condición de cumplir lo dispuesto en el artículo 21…».
+Resultados de la medición del sobreelevación y cálculo posterior de la deformación ZK1 en una base de medición de 2 m con un paso de 2 m, sucesivamente en el sentido de circulación del tren entre los puntos de medición 20 (pk 27,055) y 12 (pk 27,047):
 •
 punto 20 (+52 mm) y punto 18 (+50 mm), diferencia de 2 mm en 2 m = 1:1000;
 •
 punto 19 (+50 mm) y punto 17 (+47 mm), diferencia de 3 mm en 2 m = 1:667;
 •
-punto 18 (+50 mm) y punto 16 (+33 mm), diferencia de 17 mm en 2 m = 1:117 – nivel IAL
-### claramente superado (establecido en 1:220), en el punto 16 se produjo el trepado de la rueda delantera izquierda sobre el raíl;
+punto 18 (+50 mm) y punto 16 (+33 mm), diferencia de 17 mm en 2 m = 1:117 – superación
+### significativa del nivel IAL (establecido en 1:220); en el punto 16 se produjo el trepado de la rueda delantera izquierda sobre el raíl;
 •
-punto 17 (+47 mm) y punto 15 (+39 mm), diferencia de 8 mm en 2 m = 1:250 – nivel IL
-superado;
+punto 17 (+47 mm) y punto 15 (+39 mm), diferencia de 8 mm en 2 m = 1:250 – superación
+del nivel IL;
 •
 punto 16 (+33 mm) y punto 14 (+33 mm), diferencia de 0 mm en 2 m;
 •
-punto 15 (+39 mm) y punto 13 (+30 mm), diferencia de 9 mm en 2 m = 1:222 – nivel IL
-superado;
+punto 15 (+39 mm) y punto 13 (+30 mm), diferencia de 9 mm en 2 m = 1:222 – superación
+del nivel IL;
 •
 punto 14 (+33 mm) hasta punto 12 (+30 mm), diferencia de 3 mm en 2 m = 1:667.
-En las inmediaciones del lugar de aparición del SE se detectó la superación de los niveles de desviaciones operativas IL, y en negrita se señala el valor no conforme que compromete directamente la seguridad de la explotación –
-### la clara superación del nivel de la desviación operativa límite IAL.
-Los valores medidos con el medidor de ancho de vía manual corresponden a los resultados de la medición con el vagón KRAB antes y después del SE. El HDV con una distancia entre ejes de 2 m (la distancia entre ejes del bogie descarrilado del HDV era de 1,70 m) no superó el lugar con la anomalía de ondulación de la vía, en combinación con una anomalía técnica en el segundo bogie, es decir, la rotura de ambos muelles de la suspensión secundaria de un lado, y descarriló.
-El estado más desfavorable de la GPK, la ondulación indebida de la vía, se detectó en la zona comprendida entre los puntos de medición 18 y 16. El punto de medición 16 se encontraba en el pk 27,051, es decir, en el lugar donde, mediante inspección, se detectó el trepado de la rueda del HDV sobre la cabeza del raíl. La situación general también se vio agravada por el hecho de que este lugar se encuentra en la rampa ascendente de una curva con una sobreelevación de 71 mm, que el tren recorría en el sentido de valores de sobreelevación decrecientes. La combinación de la anomalía técnica en la suspensión del HDV y la superación del valor de la ondulación máxima admisible de la vía posibilitó y causó el descarrilamiento del HDV.
-
+En las inmediaciones del lugar donde se produjo el accidente ferroviario se constató la superación de los niveles de desviaciones operativas IL, y en negrita se señala el valor no conforme que compromete directamente la seguridad de la explotación –
+### superación significativa del nivel de desviación operativa límite IAL.
+Los valores medidos con el patrón de vía manual corresponden a los resultados de la medición con el vagón KRAB antes y después del accidente ferroviario. El rodaje con una distancia entre ejes de 2 m (la distancia entre ejes del bogie descarrilado era de 1,70 m) no superó el punto con el defecto de deformación de la vía, en combinación con un defecto técnico en el segundo bogie, es decir, la rotura de ambos resortes de la suspensión secundaria en un lado, y descarriló.
+El estado más desfavorable de la GPK, la deformación indebida de la vía, se constató en la zona comprendida entre los puntos de medición 18 y 16. El punto de medición 16 se encontraba en el pk 27,051, es decir, en el lugar donde, mediante inspección, se constató el trepado de la rueda del rodaje sobre la cabeza del raíl. La situación general se vio agravada también por el hecho de que este lugar se encuentra en la pendiente de la curva con una sobreelevación de 71 mm, por la que el tren circulaba en el sentido de valores de sobreelevación decrecientes. La combinación del defecto técnico en la suspensión del rodaje y la superación del valor de la mayor deformación admisible de la vía permitió y causó el descarrilamiento del rodaje.
 
 ## Página 25
+
 
 En el caso de los resultados de la medición manual de ZK2 para una distancia entre ejes de DV de 6 m, se detectó la alcanzación del nivel de ondulación de la vía IAL entre el punto 22 (pk 27,057) y el punto 16 (pk 27,051):
 •
@@ -832,6 +842,7 @@ art. 56 de la normativa interna de JHMD Superficie de rodamiento de las vías de
 El transportista está, entre otros, obligado a garantizar, durante la explotación del transporte ferroviario, el uso de un vehículo ferroviario en un estado técnico que corresponda a la aptitud aprobada. Para circular no debe utilizar un vehículo ferroviario con daños o grietas inadmisibles en partes del vehículo importantes para la explotación. En el segundo bogie del HDV M27.004 en el sentido de la marcha, es decir, el no descarrilado, se detectaron, al desenganchar tras el SE, roturas de los muelles helicoidales de la suspensión secundaria (suspensión entre el bogie y la caja del HDV), y con ello se produjo la alteración de la función correcta de transmisión de las fuerzas verticales del HDV.
 
 ## Página 26
+
 
 ### Hallazgos:
 En la investigación se constató la infracción de la normativa relativa a las funciones y obligaciones
@@ -863,8 +874,8 @@ En la investigación se constató la infracción de la normativa relativa a las 
 § 35 apartado 1 letra f) del Decreto núm. 173/1995 Sb.:
 «Para la conducción de un vehículo ferroviario debe garantizarse que la persona que conduce el vehículo ferroviario observe, desde el vehículo ferroviario principal, la vía y las señales y actúe de acuerdo con los hechos constatados,»;
 
-
 ## Página 27
+
 
 •
 § 35 apartado 1 letra i) del Decreto núm. 173/1995 Sb.:
@@ -883,8 +894,8 @@ En la investigación no se constató infracción de las funciones y obligaciones
 La autoridad nacional de seguridad es la Oficina de Ferrocarriles (Drážní úřad), que de acuerdo con la Ley núm. 266/1994 Sb. es la autoridad administrativa dependiente del Ministerio de Transportes. Su función es, entre otras, el ejercicio de la supervisión estatal en materia de ferrocarriles y en materia de autoridad de construcción, el ejercicio de la autoridad de construcción especial para obras ferroviarias y obras en la vía férrea, la aprobación de vehículos ferroviarios nuevos y modernizados y de dispositivos técnicos designados, y la tramitación de infracciones. La Oficina de Ferrocarriles tiene la obligación de comunicar, en un plazo de 12 meses a partir de la fecha de publicación del informe final que contenga las recomendaciones de seguridad dirigidas a la misma, a la Inspección de Ferrocarriles qué medida ha adoptado en relación con esta recomendación de seguridad; esta comunicación se realiza periódicamente, al menos una vez al año, hasta la adopción de las medidas correspondientes.
 La función de la Agencia de la Unión Europea para los Ferrocarriles es, además de garantizar, en el marco de sus competencias, que se mantenga y, en la medida de lo posible, se aumente sistemáticamente la seguridad de los ferrocarriles, entre otras, la emisión, renovación, suspensión y modificación de los certificados únicos de seguridad, la limitación de su validez o su anulación, actuando al respecto en colaboración con las autoridades nacionales de seguridad; asimismo, emite autorizaciones para la puesta en el mercado de vehículos ferroviarios y de tipos de vehículos, y está facultada para renovar, modificar, suspender o anular las autorizaciones que haya emitido. La Agencia evalúa además los proyectos de normativa nacional, etc.
 
-
 ## Página 28
+
 
 En la investigación no se constató infracción de las funciones y obligaciones de la autoridad nacional de seguridad y de la Agencia de la Unión Europea para los Ferrocarriles.
 ### 4.1.5 Entidades notificadas, entidades designadas y entidades dedicadas a la evaluación de riesgos
@@ -904,8 +915,8 @@ En la investigación no se identificaron factores relacionados con los fabricant
 La inspección colegiada del estado técnico de la locomotora de tracción M27.004, realizada por personas cualificadas del transportista en presencia de inspectores de la Inspección de Ferrocarriles tras la aparición de la MI el 29. 7. 2021, incluyó, entre otras actuaciones, el desenganche de ambos bogies y la inspección de los enganches, los bogies y la suspensión. Asimismo, se realizó una nueva medición de la distancia entre ejes y de las superficies de rodadura de cada rueda. En esta inspección se detectaron roturas de dos muelles helicoidales de la suspensión secundaria del bogie I en el lado izquierdo de la locomotora de tracción (lado trasero derecho en el sentido de marcha del tren Os 21209).
 El procedimiento de control interno de seguridad en relación con el sistema de mantenimiento de las locomotoras de tracción de la serie M27 viene regulado por la normativa interna del transportista JHMD Reglamento de mantenimiento de vehículos ferroviarios, donde:
 
-
 ## Página 29
+
 
 •
 en el art. 9 del capítulo 2.1 Principio del sistema de mantenimiento se indica:
@@ -951,8 +962,8 @@ El alcance del mantenimiento preventivo en los distintos niveles, de acuerdo con
 ◦
 comprobación del estado de los muelles – suspensión primaria y secundaria;
 
-
 ## Página 30
+
 
 ◦
 comprobación de los amortiguadores hidráulicos, en particular la estanqueidad y el fijaje;
@@ -983,6 +994,7 @@ En caso de detectarse una superación del nivel de IAL, que es una desviación o
 
 ## Página 31
 
+
 de seguridad de la explotación. Desde este punto de vista, no puede considerarse el plazo de eliminación: «trabajos en
 ### vía en la primera ocasión posible» como un plazo realmente establecido. Dicho enfoque es, dada la gravedad de las anomalías detectadas, muy benevolente y demasiado largo, también en relación con la necesidad ineludible de garantizar la seguridad. La evaluación concreta de los resultados de las mediciones del 7. 5. 2021 no fue aportada por el gestor de la vía.
 ### 4.3.4 Factores relacionados con el entorno laboral
@@ -1011,8 +1023,8 @@ no guardaba relación con el origen de la MU.
 ### 4.4.5 Resultados de la supervisión realizada por las autoridades nacionales de seguridad
 A petición de la DI se constató que el 28. 8. 2020 la Oficina Ferroviaria realizó en la línea Jindřichův Hradec – Nová Bystřice una inspección estatal centrada en la realización de revisiones y mediciones conforme al anexo n.º 1 del decreto n.º 177/1995 Sb., para las vías regionales, incluida
 
-
 ## Página 32
+
 
 la registro y eliminación de anomalías que superan las desviaciones operativas límite de la GPK. No se detectaron anomalías.
 Posteriormente, la DÚ prevé realizar en JHMD una inspección estatal centrada en la certificación ECM.
@@ -1045,8 +1057,8 @@ el valor establecido de IL en la columna ZR/1m +6 mm está en contradicción con
 ◦
 los valores establecidos de IL e IAL en la columna PK +/-10 mm y +/-12 mm están en contradicción con los valores establecidos en el art. 54 (+6/-6 mm y +8/-8 mm);
 
-
 ## Página 33
+
 
 ◦
 en el encabezado de la columna ZK 2 m (para la base de medición de 2 m – distancia entre ejes DV) hay una marca de unidad confusa [mm/2m] – los valores indicados a continuación en la columna se calculan, según la ČSN 73 6360-2, para una distancia de 1 m;
@@ -1069,8 +1081,8 @@ el señalizador de velocidad 35/50, con la posición en km indicada en el km 27,
 el señalizador de velocidad 50/35, con la posición en km indicada en el km 27,325, se encontraba en realidad en el km 27,301.
 La DI, en el marco de la investigación, constató que el estado del TTP no corresponde a la realidad (o que la realidad de las posiciones en km del equipamiento de la línea no corresponde al TTP) y es necesario que el gestor de la vía disponga de los datos del TTP en consonancia con el estado real a lo largo de toda la vía que explota.
 
-
 ## Página 34
+
 
 Los responsables de JHMD fueron informados de los hallazgos anteriores en una reunión personal con la DI el 11. 1. 2022 en Jindřichův Hradec, con el compromiso, por su parte, de subsanarlos en el marco de la novación en preparación de la norma JHMD Superestructura ferroviaria de las vías de ancho estrecho y del TTP.
 En los documentos «Anomalías locales – JHMD» (salida de la medición de la GPK con el vagón de ancho de vía móvil – vagón de medición KRAB) se indica, entre otros:
@@ -1106,6 +1118,7 @@ Asimismo, en este documento se repiten las referencias a la evaluación de los p
 
 ## Página 35
 
+
 «Los parámetros de la posición geométrica de la vía, evaluados según la ČSN 73 6360-2 y la norma JHMD *Železniční svršek úzkorozchodných drah* (Superficie del ferrocarril de vía estrecha para vehículos JHMD) con base de medida de 2,00 m, no limitan ni amenazan la explotación en la vía».
 El explotador de la vía emitió además, el 30. 7. 2021, respecto a la MU en cuestión, el documento «Evaluación de las causas y circunstancias del origen del suceso extraordinario», n.º ref.: MU 128-8003/21-Ma, donde en el punto 1.2, entre otros, indicó: ...
 •
@@ -1122,8 +1135,8 @@ En esta ZZ se indican claramente las razones por las que las afirmaciones repeti
 La DI investigó una MU similar de fecha 12. 6. 2020, cuando a las 10:14 h se produjo el descarrilamiento de un vehículo ferroviario remolcado durante la circulación del tren Mn 21357 en el tramo Jindřichův Hradec – Nová Bystřice, entre las estaciones de tráfico D3 Jindřiš y Blažejov en PK 7,847 (véase también el punto 4.5). La causa inmediata de la MU fue la circulación del tren por una vía en estado técnico deficiente a través de un lugar con superaciones de las desviaciones operativas límite en la elevación y la deformación de la vía. Un factor contribuyente al suceso extraordinario fue la no adopción de una medida temprana y adecuada para garantizar la seguridad de la explotación de la vía y del transporte ferroviario – el incumplimiento del plazo establecido y el aplazamiento de la eliminación de la superación constatada de las desviaciones operativas límite de la configuración geométrica de la vía por motivos organizativos.
 En el marco de la investigación de la MU anteriormente mencionada, la Inspección Ferroviaria advirtió al explotador de la vía de que la norma ČSN 73 6360-2 se aplica únicamente a las líneas ferroviarias de ancho estándar de 1 435
 
-
 ## Página 36
+
 
 mm con velocidades de hasta 300 km.h-1, lo cual se indica expresamente en ella (véase la parte 1 Objeto de la norma, párrafo 1), y no tiene en cuenta otros anchos de vía (en las condiciones de la R.C., estrecho). Según la declaración del gestor de esta norma, sus disposiciones no pueden aplicarse a una línea de vía estrecha debido a los diferentes requisitos de sus GPK. Para los diferentes anchos de vía se aplican las normas de los propietarios o explotadores de las vías. Las referencias a esta norma fueron entonces indicadas en las secciones 1.2 y 1.10 de la "Evaluación de las causas y circunstancias del origen del suceso extraordinario", n.º ref.: MÚ 127-8001/20-Ma de fecha 12. 6. 2020 (descarrilamiento de un vehículo ferroviario remolcado durante la circulación del tren Mn 21357 en el tramo Jindřichův Hradec – Nová Bystřice, entre las estaciones de tráfico D3 Jindřiš y Blažejov) y, tras la advertencia previa de la DI sobre su inaplicabilidad a las líneas de vía estrecha, se volvieron a indicar en el punto 1.2 de la "Evaluación de las causas y circunstancias del origen del suceso extraordinario", n.º ref.: MU 128-8003/21-Ma de fecha 15. 7. 2021 (descarrilamiento del tren Os 21209 entre las estaciones de tráfico D3 Chválkov y Včelnička) y también en otros documentos de JHMD relacionados con la evaluación de la GPK de la vía con ancho de 760 mm (véase más arriba).
 De forma similar a 2020, también ahora se constataron defectos en la superación de las desviaciones operativas límite IAL en la deformación de la vía relacionados con el origen de la MU. Del mismo modo, por parte de JHMD no se adoptó ninguna medida temprana y adecuada para garantizar la seguridad de la explotación de la vía y del transporte ferroviario. El explotador de la vía registró y evaluó, según su afirmación, los defectos en la GPK en PK 27,051 – 27,053, pero no acreditó el registro concreto. Además, tampoco fijó plazos concretos para su eliminación («...se planificó el trabajo en ventana de vía en el plazo más próximo posible»). La eliminación definitiva de estos defectos solo se produjo tras el origen de la MU, en el plazo del 23. – 28. 7. 2021. En relación causal con el origen de la MU, el explotador de la vía no garantizó la eliminación de los defectos durante un periodo superior a 2 meses (pese a tratarse de superaciones de niveles IAL) y, aunque desde el 7. 5. 2021 tenía constancia demostrable de los mismos, aplazó su eliminación definitiva hasta que el 15. 7. 2021 se produjo el origen de la MU.
@@ -1137,8 +1150,8 @@ de fecha 15. 2. 2019 en la estación de tráfico D3 Kamenice nad Lipou, donde se
 •
 de fecha 27. 1. 2019 en la estación de tráfico D3 Lovětín, donde se produjo el descarrilamiento de un vehículo ferroviario remolcado del tren Os 21240. La causa inmediata del origen de la MU fue el cambio no autorizado de la dirección de circulación del tren Os 21240 tras una parada previa en el área de la aguja Sv7 con la función de retorno automático activada.
 
-
 ## Página 37
+
 
 ### 5 CONCLUSIONES
 ### 5.1 Resumen del análisis y conclusiones relativas a las causas del suceso
@@ -1176,8 +1189,8 @@ operating.
 El transportista JHMD adoptó y emitió, tras el origen de la MU, las siguientes medidas relativas a los vehículos ferroviarios:
 «Durante cada reparación periódica y extraordinaria de ajuste de los automotores M27.0 de nivel R3 se comprobará minuciosamente la suspensión secundaria de ambos bogies, con énfasis
 
-
 ## Página 38
+
 
 en la integridad de los muelles helicoidales. Esta comprobación incluye el arenado de todos los muelles (8 uds.) con arena fina (no con perdigones metálicos) y la posterior comprobación óptica. Para ello se utilizará un espejo, una lupa o, en su caso, un ensayo por penetración. Los lugares sospechosos pueden verificarse, en casos justificados, con una inspección magnética local. La inspección por magnetoscopía con polvo de hierro no se realiza, en general, para los muelles helicoidales. Cada muelle con hallazgo de grietas por fatiga debe ser marcado y dado de baja».
 El transportista aseguró la fabricación de nuevos muelles, con los que sustituirá progresivamente los existentes en los HDV de la serie M27.0.
@@ -1221,6 +1234,7 @@ and evaluation of the geometric position of the track until the issue of this Fi
 
 ## Página 39
 
+
 ### 5.3 Hallazgos adicionales
 En el operador JHMD:
 •
@@ -1256,8 +1270,8 @@ director
 Delegación Territorial de Bohemia
 Delegación Territorial de Brno
 
-
 ## Página 40
+
 
 ### ANEXOS
 Fig. n.º 3: Muelles de suspensión secundaria con roturas

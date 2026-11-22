@@ -10,13 +10,14 @@ chars: 102184
 ratio_longitud: 1.24
 tokens_in: 60958
 tokens_out: 38860
-verificacion: revisar
-notas_cifras: ["bloque 2: original bilingüe: se compara contra el idioma principal (CS)", "bloque 3: original bilingüe: se compara contra el idioma principal (CS)", "bloque 4: original bilingüe: se compara contra el idioma principal (CS)", "bloque 5: original bilingüe: se compara contra el idioma principal (CS)", "bloque 7: original bilingüe: se compara contra el idioma principal (CS)", "bloque 9: original bilingüe: se compara contra el idioma principal (CS)"]
-avisos: ["bloque 3: ratio 1.72", "bloque 9: ratio 1.74"]
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 5: original bilingüe: se compara contra el idioma principal (EN)", "página 6: original bilingüe: se compara contra el idioma principal (PT)", "página 7: original bilingüe: se compara contra el idioma principal (CS)", "página 9: original bilingüe: se compara contra el idioma principal (CS); ratio 1.93", "página 10: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 Inspección Ferroviaria
 República Checa
@@ -43,11 +44,12 @@ CIF:   75009561
 http://www.dicr.cz
 fax: (+420) 224 805 428
 
-
 ## Página 2
 
 
+
 ## Página 3
+
 
 # RESUMEN
 Grado:
@@ -84,14 +86,14 @@ Causa raíz:
 ninguna
 Recomendaciones: no emitidas
 
-
 ## Página 4
+
 
 Este informe final es público y todos los documentos y hechos están respaldados por
 las actuaciones de la investigación.
 
-
 ## Página 5
+
 
 # Índice
  Resumen .........................................................................................................................3
@@ -134,6 +136,7 @@ relación contractual ..........................................................
 
 ## Página 6
 
+
 3.1.2 Otras personas .........................................................................................................14
 3.2 Sistema de garantía de la seguridad ........................................................................15
 3.2.1 Organización marco y forma en que se emiten y ejecutan las instrucciones .......15
@@ -163,10 +166,10 @@ cumplimiento ...................................................................
 4.1.1 Descripción definitiva del suceso excepcional basada en los hechos establecidos en el punto 3 
 ............................................................................................................................29
 4.2 Análisis ......................................................................................................................30
-4.2.1 Evaluación de los hechos establecidos de acuerdo con el punto 3 y formulación de conclusiones sobre la causa 
-
+4.2.1 Evaluación de los hechos establecidos de acuerdo con el punto 3 y formulación de conclusiones sobre la causa
 
 ## Página 7
+
 
 del suceso excepcional y la actuación de los servicios de emergencia ..........................................30
 4.3 Conclusiones .......................................................................................................................34
@@ -187,6 +190,7 @@ del suceso excepcional y la actuación de los servicios de emergencia ..........
  Foto 5: Motor eléctrico del cambiador del desvío 177N  .....................................................40
 
 ## Página 8
+
 
 ## 1 RESUMEN
 Grupo del suceso:
@@ -235,71 +239,52 @@ dispositivo técnico designado es, sobre la base de la declaración del proveedo
 Causas en el sistema de seguridad: no se detectaron.
 Recomendaciones de seguridad: no emitidas por la Inspección Ferroviaria.
 
-
 ## Página 9
 
 ## 2 DATOS RELATIVOS AL SUCESO EXTRAORDINARIO
 ## 2.1
 ### Suceso extraordinario
 ### 2.1.1 Fecha, hora exacta y lugar del suceso extraordinario
-El suceso extraordinario (en adelante también MU) se produjo el día 28. 11. 2009, a las 6:28 h
-en la vía ferroviaria, estatal, en la línea 501A Česká Třebová – Praha-Libeň, en la estación
-ferroviaria (en adelante también est.) de Kolín, en la aguja n.º 177N, en el pk 348,097,
-con la entrada del tren Os 2103.
-### 2.1.2 Descripción del suceso extraordinario y del lugar del accidente, incluida la actividad del sistema
-integrado de emergencia y del servicio de rescate
-El día 28. 11. 2009 el jefe de estación ordenó al encargado de estación en el antiguo puesto de mando
-central (en adelante también puesto de mando) la preparación del itinerario de tren para el tren Os 2103
-circulando desde la est. Praha Masarykovo nádraží hasta la est. Pardubice hlavní nádraží desde la
-vía de estación n.º 101c por las vías de estación n.º 101b, 101a hasta la vía de estación n.º 100.
-Debido a la en curso sustitución del enclavamiento estacional de relés existente (en adelante también
-RSZZ) por un nuevo dispositivo de enclavamiento tipo ESA 11, no era posible establecer el
-itinerario de tren desde la señal de itinerario Sc 101c hacia la vía n.º 100 para este tren de la
-forma habitual. De acuerdo con la medida vigente del explotador de la vía emitida para la
-reconstrucción de la est. y el cambio del enclavamiento estacional, la aguja n.º 177N no se
-conectó en el itinerario de tren al sistema de establecimiento de itinerarios de circulación,
-su cambio de posición se realizaba únicamente mediante el enclavador y la entrada de trenes
-desde la est. Velim se autorizaba mediante la señal de aproximación (en adelante también PN)
-en la señal de itinerario Sc101c.
-Tras recibir la orden de preparación del itinerario de tren, el encargado de estación del puesto de mando
-en el pupitre de control del RSZZ conmutó el enclavador de la aguja n.º 177N, a continuación,
-mediante el botón de comprobación de posición de agujas, verificó la correcta colocación del
-itinerario de tren ordenado y, pulsando el botón inicial y el final, aseguró dicho itinerario de
-circulación en el sector desde la señal de agrupamiento Se 10 (nueva Se 112) hacia la vía n.º 100
-mediante el bloqueo del itinerario de maniobra. Después accionó el botón de la señal de aproximación
-en la señal de itinerario Sc 101c. Cuando el tren Os 2103 entró en el circuito de vía de la aguja
-n.º 177N, se encendieron en el panel de control del puesto de mando los testigos rojos en dirección
-a la vía n.º 101. Simultáneamente se produjo el descarrilamiento del tren Os 2103.
-El lugar de origen del suceso extraordinario se encuentra en la est. Kolín, en el ámbito de la estación
-de pasajeros, en el extremo de entrada, en la aguja n.º 177N. El punto «0» se estableció en el pk
-348,097 en la aguja n.º 177N, donde las ruedas del bogie delantero del primer vehículo ferroviario
-(coche de mando) en cabeza del tren abandonaron los cantos de los apoyos y descendieron entre las
-lenguas y los apoyos hacia el interior de la aguja. La huella de las ruedas descarriladas continúa
-entre las lenguas y los apoyos. En la rama izquierda de la aguja detrás del corazón, las ruedas
-izquierdas del bogie delantero descarrilado treparon sobre el carril derecho y se detuvieron en el
-espacio del separador entre las vías n.º 100 y n.º 101. Las ruedas derechas circularon
-descarriladas entre la lengua y el apoyo y se detuvieron entre las bandas de carril de la vía n.º 101
-detrás de la aguja n.º 177N. El bogie trasero del vehículo de mando descarriló entre las lenguas
-y los apoyos y se detuvo con las ruedas izquierdas entre las bandas de carril de la rama izquierda
-y con las ruedas derechas entre las bandas de carril de la rama derecha de la aguja. El primer
-bogie del coche intercalado descarriló y se detuvo aún en la parte de cambio de aguja. El bogie
-trasero del coche intercalado no descarriló y se detuvo en la rama izquierda de la aguja. El bogie
-delantero del último coche motor no descarriló y permaneció en la rama izquierda de la aguja. El
-bogie trasero no descarriló
+El suceso extraordinario (en adelante también MU) tuvo lugar el 28. 11. 2009, a las 6:28 h, en la vía ferroviaria de ámbito nacional, en la línea 501A Česká Třebová – Praha-Libeň, en la estación ferroviaria (en adelante también žst.) Kolín, en el desvío n.º 177N, en el pk 348,097, con la entrada del tren Os 2103.
+### 2.1.2 Descripción del suceso extraordinario y del lugar del accidente, incluida la actividad del sistema integrado de emergencia y del servicio de rescate
+El 28. 11. 2009, el jefe de estación ordenó al encargado de estación del antiguo puesto de mando central (en adelante también puesto de mando) la preparación de la ruta de tren para el tren Os 2103, que circulaba desde la estación Praha Masarykovo nádraží hasta la estación Pardubice hlavní nádraží, desde la vía de estación n.º 101c por las vías de estación n.º 101b, 101a hasta la vía de estación n.º 100.
+Debido a la sustitución en curso del sistema de enclavamiento de estación por relés existente (en adelante también RSZZ) por un nuevo sistema de enclavamiento tipo ESA 11, no era posible establecer la ruta de tren desde la señal de ruta Sc 101c hacia la vía n.º 100 para este tren de la manera habitual. De acuerdo con la medida vigente del gestor de la vía emitida para la reconstrucción de la estación y el cambio del sistema de enclavamiento de estación, el desvío n.º 177N no estaba conectado al sistema de establecimiento de rutas de la ruta de tren, su cambio de posición se realizaba únicamente mediante el regulador, y la entrada de trenes desde la estación Velim estaba permitida por la señal de llamada (en adelante también PN) en la señal de ruta Sc101c.
+Tras recibir la orden de preparar la ruta de tren, el encargado de estación del puesto de mando, en el pupitre de control del RSZZ, conmutó el regulador del desvío n.º 177N; a continuación, mediante el botón de comprobación de posición de los desvíos, verificó la correcta posición de la ruta de tren ordenada y, pulsando el botón inicial y el botón final, aseguró esta ruta de tren en el tramo desde la señal de agrupamiento Se 10 (nueva Se 112) hacia la vía n.º 100 mediante el cierre de la ruta de maniobra. Después, accionó el botón de la señal de llamada en la señal de ruta Sc 101c. Cuando el tren Os 2103 entró en el circuito de vía del desvío n.º 177N, se encendieron en el panel de control del puesto de mando los testigos rojos de la vía n.º 101. Simultáneamente se produjo el descarrilamiento del tren Os 2103.
+El lugar de origen del suceso extraordinario se encuentra en la estación Kolín, en el ámbito de la estación de pasajeros, en la cabecera de entrada, en el desvío n.º 177N. El punto «0» se estableció en el pk 348,097, en el desvío n.º 177N, donde las ruedas del bogie delantero del primer vehículo ferroviario (coche de mando) en cabeza del tren abandonaron los cantos de los apoyos y descendieron entre los labios y los apoyos hacia el interior del desvío. La huella de las ruedas descarriladas continúa entre los labios y los apoyos. En la rama de desvío izquierda del desvío, detrás del corazón, las ruedas izquierdas del bogie delantero descarrilado treparon sobre el carril derecho y se detuvieron en el espacio del obstáculo entre las vías n.º 100 y n.º 101. Las ruedas derechas rodaron descarriladas entre el labio y el apoyo y se detuvieron entre las bandas de carril de la vía n.º 101, detrás del desvío n.º 177N. El bogie trasero del vehículo ferroviario de mando descarriló entre los labios y los apoyos y se detuvo con las ruedas izquierdas entre las bandas de carril de la rama izquierda y con las ruedas derechas entre las bandas de carril de la rama derecha del desvío. El primer bogie del coche intercalado descarriló y se detuvo aún en la parte de cambio del desvío. El bogie trasero del coche intercalado no descarriló y se detuvo en la rama izquierda del desvío. El bogie delantero del último coche motor no descarriló y permaneció en la rama izquierda del desvío. El bogie trasero no descarriló
 
 ## Página 10
 
-se encontraba aún antes de la parte de cambio de la aguja.
-La parte de cambio de la aguja estaba conmutada a la rama izquierda, es decir, a la vía n.º 100. El lengüeta derecho se apoyaba contra el soporte derecho. Entre el lengüeta y el soporte se encontraron débiles trazos intermitentes de roce. El lengüeta izquierdo estaba abierto respecto al soporte izquierdo. En el lengüeta se encontró una traza clara de roce desde la punta del lengüeta con una longitud de 4,5 metros. La punta del lengüeta derecho estaba golpeada. El cierre de las mandíbulas no estaba cerrado. El conmutador electromotor no estaba en posición final. Los ganchos no encajaban en las muescas de las reglas de control. El conmutador y el cierre de las mandíbulas no presentaban daños visibles. En el antiguo puesto de mando central, el botón de liberación de emergencia de la aguja n.º 177N estaba provisto de un cierre de seguridad intacto. En la sala de relés se constató que los relés de cierre correspondientes ZR y CR estaban energizados, los repetidores de los relés de vigilancia de la aguja n.º 177N estaban caídos, el repetidor del relé de vía del circuito 177N – 199 estaba caído. En el pupitre de mando del puesto se constató que el conmutador de la aguja n.º 177N estaba conmutado a la posición menos. La posición final de la aguja no estaba indicada. Sobre el conmutador brillaba una luz indicadora roja. El fusible de corte estaba fundido. En el relieve de vía se indicaba con luz roja la ocupación del circuito de vía 177N – 199. Este circuito de vía no estaba bajo cierre.
-Se procedió a la activación del sistema integrado de rescate (en adelante IZS).
-En el lugar actuó el Servicio de Bomberos y Rescate – unidad de protección contra incendios de Praga (en adelante HZS JPO Praha ČD, a. s.), que realizó la primera aseguración del lugar del MU.
-Posición del Os 2103 descarrilado y sentido de circulación
+a se encontraba aún antes de la parte de cambio de la aguja.
+La parte de cambio de la aguja estaba accionada a la rama izquierda, es decir, a la vía n.º 100. El lengüeta derecho
+se apoyaba contra el apoyo derecho. Entre el lengüeta y el apoyo se encontraron débiles trazos intermitentes
+de fricción. El lengüeta izquierdo estaba abierto respecto al apoyo izquierdo. En el lengüeta se encontró un trazo
+claro de fricción desde la punta del lengüeta con una longitud de 4,5 metros. La punta del lengüeta derecho estaba golpeada.
+El cierre de mordaza no estaba cerrado. El accionador electromotor no estaba en posición final.
+Los ganchos no encajaban en las muescas de las plantillas de control. El accionador y el cierre de mordaza no estaban
+visiblemente dañados. En el antiguo enclavamiento central, el botón de liberación de emergencia
+de la aguja n.º 177N estaba provisto de un cierre de seguridad intacto. En la sala de relés
+se constató que los relés de cierre pertinentes ZR y CR están energizados, los repetidores de los relés de vigilancia
+de la aguja n.º 177N están desconectados, el repetidor del relé de vía del circuito 177N – 199
+está desconectado. En el pupitre de mando del enclavamiento se constató que el conmutador de la aguja n.º 177N está conmutado
+a la posición menos. La posición final de la aguja no estaba indicada.
+Sobre el conmutador brillaba una luz indicadora roja. El fusible de corte estaba fundido. En el relieve de vía se indicaba con luz roja
+la ocupación del circuito de vía 177N – 199. Este circuito de vía no estaba
+bajo cierre.
+Se procedió a la activación del sistema integrado de emergencia (en adelante IZS).
+En el lugar actuaba el Servicio de Bomberos y Rescate – unidad de protección contra incendios de Praga (en adelante
+HZS JPO Praha ČD, a. s.), que realizó la primera aseguración del lugar del MU.
+Posición del Os 2103 descarrilado y sentido de la marcha
 2.1.3 Decisión de iniciar la investigación de las causas y circunstancias de la ocurrencia, composición del equipo de personas cualificadas y método de dirección de la investigación de las causas y circunstancias de la ocurrencia
-La propia investigación de las causas y circunstancias de la ocurrencia del MU fue realizada por la Inspección Ferroviaria (en adelante también DI) de conformidad con el § 53b de la ley n.º 266/1994 Sb., de ferrocarriles, en su versión vigente (en adelante también ley n.º 266) y el § 11 y el § 12 del decreto n.º 376/2006 Sb., sobre el sistema de seguridad de explotación del ferrocarril y del transporte ferroviario y los procedimientos en caso de ocurrencia de sucesos excepcionales en los ferrocarriles (en adelante también decreto n.º 376).
-La ocurrencia del MU fue comunicada a la DI en el Centro Central de Notificación (en adelante también COP) a las 6:48 horas por un empleado del explotador del ferrocarril. La DI inició la investigación de las causas y circunstancias en el lugar
-
+La propia investigación de las causas y circunstancias de la ocurrencia del MU fue realizada por la Inspección Ferroviaria (en adelante también DI)
+de conformidad con el § 53b de la Ley n.º 266/1994 Sb., de ferrocarriles, en su versión vigente (en adelante
+también Ley n.º 266) y el § 11 y el § 12 del Decreto n.º 376/2006 Sb., sobre el sistema de seguridad
+de explotación del ferrocarril y del transporte ferroviario y los procedimientos en caso de ocurrencia de acontecimientos excepcionales en
+los ferrocarriles (en adelante también Decreto n.º 376).
+La ocurrencia del MU fue comunicada a la DI en el Centro Central de Notificación (en adelante también COP) a las 6:48
+h por un empleado del explotador del ferrocarril. La DI inició la investigación de las causas y circunstancias en el lugar
 
 ## Página 11
+
 
 de ocurrencia del MU. No fue necesario constituir un equipo de investigación; la investigación de las causas y circunstancias de la ocurrencia del MU fue encomendada al inspector jefe (en adelante también VI) de la Inspección Territorial de Praga.
 El método de procedimiento de la investigación de las causas y circunstancias de la ocurrencia del MU se estableció operativamente según el desarrollo de la investigación, incluido el uso de consultas con otras personas cualificadas de la DI. En la investigación se partió de los propios conocimientos, de las constataciones en el lugar del MU y asimismo de la documentación elaborada por el explotador del ferrocarril, el transportista y el proveedor, incluidas las actas con los empleados participantes.
@@ -334,6 +319,7 @@ Porcentajes de frenado prescritos 146/103, reales 140, el tren estaba suficiente
 
 ## Página 12
 
+
 ### 2.2.3 Descripción de los componentes de la vía de circulación, del sistema de señalización (es decir, principalmente el estado de las vías, desvíos, aparatos de enclavamiento, señales y del dispositivo de seguridad ferroviaria del tren)
 En la estación de Kolín, en el momento de producirse la AE, se encontraba en curso la fase final de la reconstrucción integral. Una vez finalizadas las obras de construcción, se procedió a la conmutación progresiva a los nuevos aparatos de enclavamiento del tipo ESA 11.
 El desvío n.º 177N de forma Obl. o60 1:12-500 era de nueva inserción y, debido a los trabajos en curso, se volvió a conectar al enclavamiento central desde el RSZZ original. El accionamiento del desvío se realiza mediante un motor eléctrico de cambio de aguja, que, al no estar conectado a los circuitos de cambio automático de agujas dentro del sistema de itinerarios del aparato de enclavamiento, se controla únicamente desde el mando del pupitre de control del aparato de enclavamiento.
@@ -361,19 +347,23 @@ La AE fue notificada al sistema integrado de emergencias de conformidad con el d
 No fue necesario activar el Servicio Rápido de Emergencias Médicas.
 Para eliminar las consecuencias de la AE se utilizaron los medios auxiliares de accidente del DKV Praga con la asistencia de los Bomberos JPO Praga ČD, a. s.
 
-
 ## Página 13
 
 ## 2.3
-### Fallecidos, heridos y daños materiales
-2.3.1 En pasajeros y terceros personas, empleados del gestor de la vía y del transportista, incluidas personas en relación contractual
-En la AE no hubo ninguna persona herida ni fallecida.
-### 3.2.2 En los objetos transportados, equipajes y otros bienes
-No se produjeron daños en los objetos transportados, equipajes ni otros bienes.
-### 2.3.3 En los vehículos ferroviarios, componentes de la vía de circulación y en el medio ambiente
-La inspección de recepción de los vehículos ferroviarios EMJ descarrilados y dañados fue realizada el día 11. 12. 2009 por el DKV Praga, centro de trabajo Praga Libeň. Se detectaron daños en los vehículos ferroviarios de las series 971.011-2 y 071.012-9.
-En la AE se dañó equipamiento bajo la gestión de SŽDC, a saber, el desvío n.º 177N, la vía n.º 100, la vía n.º 101 y la parte exterior del aparato de enclavamiento.
-El desvío n.º 177N, las vías n.º 100 y n.º 101 y, por tanto, la 1.ª vía de circulación Velim – Kolín quedaron intransitables tras la AE.
+### Muertos, heridos y daños materiales
+2.3.1 En cuanto a pasajeros y terceros, empleados del gestor de la vía y del transportista,
+incluidas personas en relación contractual
+En el siniestro no hubo heridos ni muertos.
+### 2.3.2 En cuanto a las cosas transportadas, el equipaje y otros bienes
+No se produjeron daños en las cosas transportadas, el equipaje y otros bienes.
+### 2.3.3 En cuanto a los vehículos ferroviarios, los componentes de la vía y el medio ambiente
+La inspección comisionada de los vehículos ferroviarios EMJ descarrilados y dañados la realizó
+el 11. 12. 2009 DKV Praha, centro de trabajo Praha Libeň. Se detectaron daños en los
+vehículos ferroviarios de las series 971.011-2 y 071.012-9.
+En el siniestro se dañó equipamiento bajo la gestión de SŽDC, a saber, el desvío n.º 177N, la vía n.º 100, la vía
+n.º 101 y la parte exterior del dispositivo de seguridad.
+El desvío n.º 177N, las vías n.º 100 y n.º 101 y, por tanto, la 1.ª vía de tráfico Velim – Kolín quedaron tras el
+siniestro intransitables.
 Daños:
 EMJ de la serie 471
 2 000 000 Kč.
@@ -381,17 +371,18 @@ EMJ de la serie 471
 componentes de la vía
 6 950 000 Kč.
 ●
-### Daños totales ocasionados en la AE                           8 950 000 Kč.
+### Daños totales producidos en el siniestro                           8 950 000 Kč.
 ●
-No se produjeron daños medioambientales en la AE.
+No se produjeron daños medioambientales en el siniestro.
 ## 2.4
 ### Circunstancias externas
 ### 2.4.1 Condiciones meteorológicas y datos geográficos
-En el momento de producirse el suceso, el cielo estaba nublado, la temperatura +2 0C, calma, la visibilidad estaba reducida, el lugar estaba parcialmente iluminado con iluminación artificial.
+En el momento de producirse el suceso excepcional estaba nublado, temperatura +2 0C, calma, visibilidad
+reducida, el lugar estaba parcialmente iluminado por iluminación artificial.
 Coordenadas GPS: 50°1'37.011"N, 15°12'36.218"E.
 
-
 ## Página 14
+
 
 ## 3 REGISTRO DE LAS EXPLICACIONES PRESENTADAS
 ## 3.1
@@ -440,34 +431,47 @@ Los trabajos realizados corresponden a las condiciones de adjudicación, TKP, Č
 
 ## Página 15
 
-Tras la inspección, medición y verificación de documentación realizadas, la comisión recomienda la obra
-●
-para su aceptación. El constructor entrega la obra al inversor SS Praha, que la acepta y a la vez la entrega al gestor de HIM SDC Praha.
-(nota del redactor: SS – Stavební správa [Administración de Construcción], HIM – hmotný investiční majetek [activo de inversión material], SDC – Správa dopravní cesty [Gestión de la vía de transporte])
-El empleado del contratista de obras, técnico de ensayo de AŽD Praha s. r. o., redactó el «Acta de inspección técnica y ensayo realizados de la instalación técnica eléctrica designada», en el sentido del § 47 apartado 4 de la Ley n.º 266 y del § 6 apartado 7 de la Ordenanza del MDS n.º 279/2000 Sb., por la que se modifica la Ordenanza n.º 100/1995 Sb., en su redacción vigente, n.º 193/2008/01/VF de fecha 29. 10. 2008» (en adelante, Acta), con el resultado de que la instalación de enclavamiento de estación designada garantiza la seguridad del tráfico ferroviario y es apta para la explotación.
+Tras la inspección, medición y verificación de documentación realizadas, la comisión recomienda la obra ●
+para su aceptación. El contratista entrega la obra al inversor SS Praha, que la recibe
+y a la vez la entrega al gestor del HIM SDC Praha.
+(nota del redactor: SS – Stavební správa [Administración de Obras], HIM – hmotný investiční majetek [Bienes de inversión materiales], SDC – Správa dopravní cesty [Administración de la Vía de Transporte])
+El empleado del contratista de obras, técnico de ensayo de AŽD Praha s. r. o., redactó el «Protocolo
+sobre la inspección técnica y ensayo realizados del dispositivo técnico eléctrico designado»,
+en el sentido del § 47 apartado 4 de la ley núm. 266, y del § 6 apartado 7 de la ordenanza del MDS núm. 279/2000 Sb., por la que
+se modifica la ordenanza núm. 100/1995 Sb., en la redacción de las disposiciones posteriores, núm. 193/2008/01/VF de
+fecha 29. 10. 2008» (en adelante, Protocolo), con el resultado de que el dispositivo de enclavamiento
+estacional designado garantiza la seguridad del tráfico ferroviario y es apto para la explotación.
 ## 3.2
-### Sistema de garantía de seguridad
-### 3.2.1 Organización marco y modo en que se emiten y ejecutan las instrucciones
-Los requisitos de referencia para la explotación segura de la vía están establecidos en los siguientes preceptos legales y procedimientos tecnológicos contenidos en las normas internas del explotador de la vía:
-### A) Preceptos legales:
-### A1) Obligaciones del propietario de la vía – § 20 apartado (1) de la Ley n.º 266:
-(1) El propietario de la vía está obligado a garantizar el mantenimiento y la reparación de la vía en la medida necesaria para su aptitud de explotación y a permitir la conexión de la vía con otras vías.
-### No se detectó anomalía.
-A2) Obligaciones del explotador de la vía – § 22 apartado (1) letras a), b), c), apartado (2) letra d) de la Ley n.º 266:
+### Sistema de garantía de la seguridad
+### 3.2.1 Organización marco y forma en que se emiten y ejecutan las instrucciones
+Los requisitos de referencia para la explotación segura de la vía están establecidos en las siguientes
+disposiciones legales y procedimientos tecnológicos contenidos en las normas internas
+del explotador de la vía:
+### A) Disposiciones legales:
+### A1) Obligaciones del propietario de la vía – § 20 apartado (1) de la ley núm. 266:
+(1) El propietario de la vía está obligado a garantizar el mantenimiento y la reparación de la vía en la medida necesaria para su
+aptitud para la explotación y a permitir la conexión de la vía con otras vías.
+### Avería no detectada.
+A2) Obligaciones del explotador de la vía – § 22 apartado (1) letras a), b), c), apartado (2) letra d)
+de la ley núm. 266:
 (1) El explotador de la vía está obligado
-a) a explotar la vía para las necesidades del transporte ferroviario fluido y seguro de acuerdo con las reglas para la explotación de la vía y la autorización administrativa,
-b) a emitir, con motivo del inicio de la explotación de la vía, una norma interna sobre la explotación de la vía y sobre la idoneidad profesional y los conocimientos de las personas que garantizan la explotación de la vía y su forma de verificación, incluido el sistema de formación periódica,
-c) a garantizar que la explotación de la vía la realicen personas que estén sanas y sean profesionalmente idóneas.
-### Se detectó anomalía.
-(2) El explotador de la vía nacional o de la vía regional está además obligado
+a) a explotar la vía para las necesidades del tráfico ferroviario fluido y seguro de acuerdo con las reglas para la
+explotación de la vía y la autorización administrativa,
+b) a emitir, con fecha de inicio de la explotación de la vía, una norma interna sobre la explotación de la vía
+y sobre la idoneidad profesional y los conocimientos de las personas que garantizan la explotación de la vía y el modo de su
+verificación, incluido el sistema de formación periódica,
+c) a garantizar que la explotación de la vía la realicen personas que sean aptas desde el punto de vista
+sanitario y profesional.
+### Avería detectada.
+(2) El explotador de la vía de ámbito nacional o de la vía regional está además obligado
 d) a implantar un sistema de garantía de la seguridad de la explotación de la vía y a garantizar su cumplimiento.
-### Se detectó anomalía.
-A3) Obligaciones del transportista – § 35 apartado (1) letras a), b), d), e), f), g) de la Ley n.º 266:
-(1) El transportista está obligado
+### Avería detectada.
+A3) Obligaciones del operador de transporte – § 35 apartado (1) letras a), b), d), e), f), g) de la ley núm. 266:
+(1) El operador de transporte está obligado
 a) a explotar el transporte ferroviario de acuerdo con las reglas de explotación del transporte ferroviario, la licencia vigente y el contrato celebrado con el explotador de la vía sobre la explotación del transporte ferroviario en la vía,
 
-
 ## Página 16
+
 
 b) a emitir, con motivo del inicio de la explotación del transporte ferroviario, una norma interna sobre la idoneidad profesional y los conocimientos de las personas que garantizan la explotación del transporte ferroviario y su forma de verificación, incluido el sistema de formación periódica,
 d) a utilizar durante la explotación del transporte ferroviario vehículos ferroviarios e instalaciones técnicas designadas con certificado de idoneidad vigente y en un estado técnico que corresponda a la idoneidad aprobada,
@@ -495,6 +499,7 @@ Para garantizar la explotación de la vía sirven las reglas en las que se estab
 
 ## Página 17
 
+
 ### No se detectó anomalía.
 ### A9) Reglas de explotación de la vía – § 14 apartados (1, 4) del decreto n.º 173:
 (1) La dirección del tráfico ferroviario se organiza según el horario de circulación. En la explotación de la vía, para la dirección del tráfico ferroviario se utilizan las dependencias derivadas del funcionamiento del dispositivo de enclavamiento en explotación.
@@ -520,36 +525,61 @@ A12) Reglamento de construcción y técnica – § 23 apartado (1) letra a) y ap
 a) cumpliendo las condiciones de explotación para las que está destinado, garantice con su funcionamiento la explotación segura de la vía y del tráfico ferroviario y permita la dirección del tráfico ferroviario...
 (2) Los circuitos eléctricos y los componentes constructivos cuya función es la garantía directa de la seguridad de la circulación de trenes y de las maniobras aseguradas, deben ser diseñados, dimensionados, ejecutados y protegidos de modo que cumplan fiablemente esta función en todos los estados de explotación del dispositivo y también en todos los estados de avería causados por las averías consideradas. El diseño, dimensionamiento, ejecución, protección y condiciones de utilización se contienen en:
 
-
 ## Página 18
 
-Anexo 5, en los apartados 1, 3 a 5, 17 a 20, 22 a 24, 28 a 31, 38, 53, 77 a 89, 95 a 98, 102 a 104 y otras normas armonizadas o determinadas relacionadas.
-### Anomalía detectada.
-### B) Normas del explotador de la vía:
+Anexo 5 bajo los apartados 1, 3 a 5, 17 a 20, 22 a 24, 28 a 31, 38, 53, 77 a 89, 95 a 
+98, 102 a 104 y otras normas armonizadas o designadas relacionadas.
+### Defecto detectado.
+### B) Reglamentos del gestor de la vía:
 ### B1) SŽDC (ČD) D2 artículo 87:
-Para la circulación de trenes, PMD y para las maniobras, las agujas son operadas y por su correcto establecimiento en la vía designada responden los agujeros...
-### No se detectó anomalía.
+Para las circulaciones de trenes, PMD y para maniobras, los desvíos son manejados y 
+por su correcta colocación en la vía designada responden los operadores de desvío...
+### Defecto no detectado.
 ### B2) SŽDC (ČD) D2 artículo 448:
 Por vía de tren de un tren entrante y que se detiene regularmente se entiende:
-a) el tramo de vía desde la señal de entrada (de vía) en el lado de entrada del tren hasta la señal principal con señal que prohíbe la circulación del tren, o hasta la placa roja o el disco rojo con la señal Alto, que sustituye a la señal principal y está configurada como señal fija; allí donde no exista dicha señal o no esté directamente junto a la vía, o esté situada tras el primer topador, hasta la señal con la señal Fin de vía de tren...
-### No se detectó anomalía.
+a) el tramo de vía desde la señal de entrada (de vía) en el lado de entrada del tren 
+hasta la señal principal con señal que prohíbe la circulación del tren, o bien hasta la 
+placa roja o el disco rojo con la señal Alto, que sustituye a la señal principal y está 
+configurada como señal fija; allí donde no exista dicha señal o no esté directamente 
+junto a la vía, o bien esté situada detrás del primer límite de balizamiento, hasta la 
+señal con la señal Fin de vía de tren...
+### Defecto no detectado.
 ### B3) SŽDC (ČD) D2 artículo 455:
-La preparación de la vía de tren es el conjunto de las maniobras de circulación prescritas y de los procedimientos de trabajo en la estación para la entrada, salida o paso de un tren.
-Estas deben realizarse antes de que se permita la circulación del tren mediante la señal principal o de otro modo...
-### Anomalía detectada.
+La preparación de la vía de tren es el conjunto de las operaciones de tráfico 
+prescritas y de los procedimientos de trabajo en la estación para la entrada, la salida 
+o el paso de un tren.
+Estas deben realizarse antes de que se autorice la circulación del tren mediante la 
+señal principal o de otro modo...
+### Defecto detectado.
 ### B4) SŽDC (ČD) D2 artículo 460:
-Cuando en las estaciones con señales dependientes de las agujas solo sea posible establecer una vía de tren en la vía (desde la vía) que el jefe de estación haya indicado en el aparato de mando o en el enclavamiento central, el jefe de estación comprueba el correcto establecimiento de las agujas en la vía de tren según el funcionamiento del dispositivo de enclavamiento.
-En los casos en que el dispositivo de enclavamiento no muestre un funcionamiento correcto, o no exista en absoluto, debe comprobarse especialmente la posición de las agujas en la vía de tren y de las agujas de apartadero (o de otros dispositivos de protección lateral directa) antes de la circulación del tren, y ello según el modo de su aseguramiento y operación, ya sea en el enclavamiento, ya mediante su inspección in situ.
-### Anomalía detectada.
+En las estaciones con señales dependientes de los desvíos, cuando la vía de tren solo 
+pueda establecerse en la vía (desde la vía) que el jefe de estación haya indicado en el 
+aparato de mando o en el puesto de mando central, el jefe de estación comprueba la 
+correcta colocación de los desvíos en la vía de tren según el funcionamiento del 
+dispositivo de seguridad.
+En los casos en que el dispositivo de seguridad no muestre un funcionamiento correcto, 
+o bien no exista en absoluto, debe comprobarse especialmente la posición de los 
+desvíos en la vía de tren y de los desvíos de apartadero (o bien de otros dispositivos 
+de protección lateral directa) antes de la circulación del tren, y ello según el modo de 
+su aseguramiento y manejo, ya sea en el puesto de mando, ya sea mediante su 
+inspección en el lugar.
+### Defecto detectado.
 ### B5) SŽDC (ČD) D2 artículo 463:
-La correcta posición de las agujas y los desvíos de seguridad será comprobada en sus puestos de trabajo por los empleados responsables de la preparación de la vía de tren.
-En caso de necesidad (avería del dispositivo de enclavamiento, etc.) es necesario comprobar in situ la correcta posición de las agujas y los desvíos de seguridad...
-### Anomalía detectada.
+La correcta posición de los desvíos y de los desvíos de apartadero será comprobada 
+en sus puestos de trabajo por los empleados responsables de la preparación de la vía 
+de tren.
+En caso de necesidad (avería del dispositivo de seguridad, etc.) es necesario comprobar 
+en el lugar la correcta posición de los desvíos y de los desvíos de apartadero...
+### Defecto detectado.
 ### B6) SŽDC (ČD) D2 artículo 467:
-...Por la realización de la preparación de la vía de tren en el ámbito de responsabilidad asignado y por la emisión del informe prescrito sobre la vía de tren preparada responde el empleado al que se le haya asignado el ámbito de responsabilidad correspondiente.
-### No se detectó anomalía.
+...Por la realización de la preparación de la vía de tren en el ámbito de 
+responsabilidad asignado y por la emisión del informe prescrito sobre la vía de tren 
+preparada responde el empleado al que se le haya asignado el ámbito de 
+responsabilidad afectado.
+### Defecto no detectado.
 
 ## Página 19
+
 
 ### B7) SŽDC (ČD) D2 artículo 468:
 Antes de que el jefe de estación ordene la preparación de la vía de tren, comprobará que en su ámbito de responsabilidad por la libre circulación de la vía de tren:
@@ -587,8 +617,8 @@ b) si se ha producido el bloqueo de la ruta de circulación.
 Si se va a autorizar la circulación de un tren mediante PN, el empleado operador deberá proceder de la siguiente manera antes de autorizar la circulación del tren:
 La libre circulación de la vía se comprueba visualmente mediante los elementos indicadores de RZZ en el sentido de lo dispuesto en ZDD.
 
-
 ## Página 20
+
 
 si la vía de tren o parte de ella puede asegurarse con un bloqueo de vía de maniobra, el
 ●
@@ -636,38 +666,38 @@ A las pruebas funcionales se procede únicamente tras la configuración de los p
 
 ## Página 21
 
-a la finalización de las inspecciones técnicas de la parte exterior e interior del dispositivo realizadas según las normas ČSD T 200.
-Los resultados de la prueba realizada se registran en las «Confirmaciones», cuyos modelos se indican en los anexos n.º 1 a n.º 13.
+y la finalización de las inspecciones técnicas de la parte exterior e interior del dispositivo realizadas según las normas ČSD T 200.
+Los resultados de la prueba realizada se registran en el "Certificado", cuyos modelos se indican en los anexos n.º 1 a n.º 13.
 ### Defecto detectado.
 ### B15) ČSD T 200/I Parte segunda.
 ### II. Pruebas funcionales …
-### 6. Prueba de los bloqueos de secciones con desvío y sin desvío
-La prueba la realizará el proveedor. ...
-Se probará el primer conductor continuo (de bloqueo) y se verificará:
-En las secciones con desvío se producirá el bloqueo por la caída del ancla del relé de bloqueo, provocada por el accionamiento del ancla del relé de sección; el ancla del relé de sección se accionará cuando: …
-c) en la posición correcta de los desvíos y agujas de apartadero recorridos. …
-El resultado de la prueba realizada se registrará en la «Confirmación» según el modelo del anexo n.º 3.
+### 6. Prueba de los bloqueos de secciones con y sin desvío
+La prueba la realiza el proveedor. ...
+Se prueba el primer hilo de conducción (de bloqueo) y se verifica:
+En las secciones con desvío se produce un bloqueo por la caída del ancla del relé de bloqueo provocada por la atracción del ancla del relé de sección; el ancla del relé de sección se atrae cuando: …
+c) en la posición correcta de los desvíos y apartaderos recorridos y de los apartaderos de seguridad. …
+El resultado de la prueba realizada se registra en el "Certificado" según el modelo del anexo n.º 3.
 ### Defecto detectado.
-### C) Sistema de garantía de la seguridad de la explotación de la vía y de la organización del transporte ferroviario en la vía de ámbito nacional y en las vías regionales, emitido por el explotador de la vía, donde en el artículo m) responsabilidad por la seguridad de los productos, servicios y proveedores, se indica en el párrafo
-### Garantía del control de la calidad de los suministros de material y productos para la explotación de la vía
+### C) Sistema de garantía de la seguridad de la explotación de la vía y de la organización del transporte ferroviario en la vía de ámbito nacional y en las vías regionales, emitido por el explotador de la vía, donde en el apartado m) responsabilidad por la seguridad de los productos, servicios y proveedores, se indica en el párrafo
+### Garantía del control de la calidad de las entregas de material y productos para la explotación de la vía
 •
-(transporte ferroviario) con influencia en la seguridad de la explotación y por el control de la actividad de los proveedores:
-Los requisitos de calidad de los suministros de material y productos, o en su caso de la calidad de los servicios suministrados, forman parte de las relaciones contractuales que se celebran y están establecidos por normas legales y técnicas o por normas internas, y en particular
-por normas técnicas checas y normas técnicas ferroviarias,
+(transporte ferroviario) con incidencia en la seguridad de la circulación y por el control de la actividad de los proveedores:
+Los requisitos de calidad de las entregas de material y productos, o en su caso de la calidad de los servicios prestados, forman parte de las relaciones contractuales que se celebran y están establecidos por las normas legales y técnicas o por las normas internas, y en particular
+por las normas técnicas checas y las normas técnicas de los ferrocarriles,
 –
-por las Condiciones cualitativas técnicas de las obras de las vías de ámbito estatal,
+por las Condiciones técnicas de calidad de las obras de los ferrocarriles estatales,
 –
-por especificaciones técnicas o requisitos, condiciones de suministro, etc.
+por las especificaciones técnicas o requisitos, condiciones de entrega, etc.
 –
 El control se realiza principalmente según los principios del sistema de gestión de la calidad.
-Por la correcta celebración de las relaciones contractuales y por el control del cumplimiento de los requisitos o condiciones establecidos son responsables los directivos de las unidades organizativas designadas por la «Ordenanza Organizativa de SŽDC», la «Orden de Firma de SŽDC» y el «Reglamento de Expediente y Eliminación de SŽDC».
+Por la celebración correcta de las relaciones contractuales y por el control del cumplimiento de los requisitos o condiciones establecidos son responsables los directivos de las unidades organizativas designadas por la "Ordenanza organizativa de SŽDC", la "Ordenanza de firmas de SŽDC" y la "Ordenanza de expedientes y eliminación de SŽDC".
 ### Defecto detectado.
 ### 3.2.2 Requisitos para los empleados del explotador de la vía y del transportista y su aplicación
-Los requisitos de competencia profesional, incluida la forma de su aplicación, los establece la norma interna del transportista ČD Ok 2 Reglamento de Formación y Exámenes de los Ferrocarriles Checos, a. s., en su versión vigente, y la norma interna del explotador de la vía SŽDC Zam 1 Reglamento sobre la competencia profesional de los empleados de la Administración de la Infraestructura Ferroviaria, organización estatal, en su versión vigente.
-La condición de aptitud para la conducción de vehículos ferroviarios la establece el § 45 de la ley n.º 266.
-
+Los requisitos de competencia profesional, incluido el modo de su aplicación, los establece la norma interna del transportista ČD Ok 2 Reglamento de formación y exámenes de los Ferrocarriles Checos, a. s., en su versión vigente, y la norma interna del explotador de la vía SŽDC Zam 1 Reglamento sobre la competencia profesional de los empleados de la Administración de Infraestructura Ferroviaria, organización estatal, en su versión vigente.
+La condición de aptitud para conducir un vehículo ferroviario la establece el § 45 de la ley n.º 266.
 
 ## Página 22
+
 
 El maquinista era un empleado de ČD, a. s., DKV Praga. El certificado de aptitud para la conducción de
 ●
@@ -698,6 +728,7 @@ domicilio en Dlážděná 1003/7, Praha 1 Nové Město, CP 110 00, en virtud de 
 A esta autorización administrativa emitió la Autoridad Ferroviaria Praga, en el sentido del § 23a de la ley n.º 266/1994 Sb., de las vías ferroviarias, en su redacción posterior, el Certificado de Seguridad del explotador de la vía ref. n.º: 3-4274/07-DÚ/Pd, n.º reg. OSPD/2008/007 de
 
 ## Página 23
+
 
 del 30. 6. 2008 y su modificación ref.: DUCR-29978/09/Pd, n.º reg. OSPD/2009/007-1 del 
 26. 6. 2009. 
@@ -751,10 +782,10 @@ persona profesionalmente competente:
 disposición interna SŽDC (ČD) D1 – Norma para el uso de señales en la organización y 
 ●
 explotación del transporte ferroviario, aprobada por decisión del director general de České 
-drahy del 15. 4 1997, ref.: 55 216/97-O11, y por la circular n.º 1, ref.: 30714/08-OŘ, con 
-
+drahy del 15. 4 1997, ref.: 55 216/97-O11, y por la circular n.º 1, ref.: 30714/08-OŘ, con
 
 ## Página 24
+
 
 eficacia a partir del 1. 10. 2008, y por la circular n.º 2, ref.: 824/09-OŘ, del 19. 1. 2009, 
 a las disposiciones SŽDC (ČD); 
@@ -820,35 +851,63 @@ explotando desde
 
 ## Página 25
 
-del sistema de enclavamiento de estación de relés existente tipo SSSR, incluida la aguja n.º 177N.
-Para la remodelación de la estación de Kolín se emitieron procedimientos tecnológicos que resolvían la seguridad del tráfico ferroviario y el calendario de finalización de los trabajos en cada tramo de la remodelación en la estación de Kolín, a saber: Orden de corte (en adelante también ROV) n.º 05004, Orden de corte del sistema de enclavamiento (en adelante también ROVZZ) n.º 64 R 70 y, además, la Medida del jefe de PO Kolín al ROV 05004 para cada una de las fases de los cortes realizados.
-En la Orden de corte del sistema de enclavamiento n.º 64 R 70 se indica, entre otros:
+existente de la instalación de enclavamiento de estación de relés tipo SSSR, incluida la
+aguja n.º 177N.
+Para la duración de la reconstrucción de la estación de Kolín se emitieron procedimientos
+tecnológicos que resolvían la seguridad del transporte ferroviario y el calendario de
+finalización de los trabajos en los distintos tramos de la reconstrucción en la estación de
+Kolín, a saber: Orden de corte (en adelante también ROV) n.º 05004, Orden de corte de la
+instalación de enclavamiento (en adelante también ROVZZ) n.º 64 R 70 y, además, Medida
+del jefe de PO Kolín a la ROV 05004 sobre las distintas fases de los cortes realizados.
+En la Orden de corte de la instalación de enclavamiento n.º 64 R 70 se indica, entre
+otras cosas:
 ### en la parte 5. Alcance de los trabajos realizados:
-… a la instalación central de enclavamiento se conectará la nueva aguja 177N, que se inserta entre la vía 1. y la 3.
-### El mando de la nueva aguja 177N será únicamente mediante conmutador, sin conexión al sistema de enclavamiento de itinerarios. ...
+… a la instalación central de enclavamiento se conectará la nueva aguja 177N, que se
+inserta entre la vía 1. y la 3.
+### El mando de la nueva aguja 177N será únicamente por controlador, sin conexión al
+sistema de itinerarios. ...
 ### en la parte 11. Medidas de seguridad:
-… Solo se podrá pasar al funcionamiento normal del sistema de enclavamiento tras la finalización de todos los trabajos, tras la prueba completa del sistema y en base a la anotación en el Registro de averías. …
+… Solo se podrá pasar al funcionamiento normal de la instalación de enclavamiento
+tras la finalización de todos los trabajos, tras la prueba integral de la instalación y con
+base en la anotación en el Registro de averías. …
 ### en la parte 13. Otras medidas obligatorias:
-… El SDC garantizará la prueba del sistema de enclavamiento por comisión, suministrará la documentación para garantizar los cambios de las TTP, la documentación de tráfico básica y los auxiliares del horario de circulación. …
-(nota del redactor: SDC – Administración de la vía de tráfico, TTP – tablas de condiciones de la línea, JŘ – horario de circulación)
-… El jefe de PO Kolín elaborará una medida en la que indicará todas las desviaciones en la prestación del servicio de tráfico durante el corte del sistema de enclavamiento.
-En el Registro de averías del sistema de comunicaciones y enclavamiento, depositado en la antigua instalación central de enclavamiento, se realiza el 29. 10. 2008 la siguiente anotación:
-29. 10. 08 – 19:45 – antes de finalizar el corte según el ROV 6348 C y parte del ROVZZ 64 R 70, se conectaron a la instalación central de enclavamiento todas las agujas en el circuito de vía 3 excepto V 187 … El recambio
-### 177N se manda únicamente mediante conmutador – ver ROVZZ ap. 5. La prueba se realizó según
-### la norma T 200.
-Se indican firmas ilegibles por parte de SSZT y de la estación.
-(nota del redactor: SSZT – Administración de técnica de comunicaciones y enclavamiento)
-El proveedor emitió para la modificación realizada del RSZZ un Informe técnico, en el que, entre otros, indica en la parte:
-1.1 Conjunto operativo: PS 1101.2 Sistema de enclavamiento de estación B – provisional – anexo;
+… La SDC garantizará la prueba de la instalación de enclavamiento por comisión,
+proporcionará la documentación base para garantizar los cambios de las TTP, la
+documentación de transporte básica y los auxiliares del JŘ. …
+(nota del redactor: SDC – Administración de la vía de circulación, TTP – tablas de
+condiciones de línea, JŘ – horario de trenes)
+… El jefe de PO Kolín elaborará una medida en la que indicará todas las desviaciones
+del desempeño del servicio de transporte durante la duración del corte de la instalación
+de enclavamiento.
+En el Registro de averías de las instalaciones de señalización y enclavamiento,
+ubicado en el antiguo puesto de enclavamiento central, se realiza el día 29. 10. 2008 la
+siguiente anotación:
+29. 10. 08 – 19:45 – antes de finalizar el corte según la ROV 6348 C y de parte de la
+ROVZZ 64 R 70, se conectaron a la instalación central de enclavamiento todas las agujas
+en el dist. est. 3 excepto V 187 … El recambio
+### 177N se manda únicamente por controlador – ver ROVZZ ap. 5. La prueba se realizó
+### según la norma T 200.
+Se indican firmas ilegibles por SSZT y estación.
+(nota del redactor: SSZT – Administración de técnica de señalización y enclavamiento)
+El proveedor emitió para la modificación realizada de la RSZZ un Informe Técnico, en
+el que, entre otras cosas, indica en la parte:
+1.1 Conjunto operativo: PS 1101.2 Instalación de enclavamiento de estación B –
+provisional – anexo;
 1.2. Objeto del anexo
-El objeto del anexo es la modificación del sistema de enclavamiento de relés existente a la solución de vías tras la finalización de la fase de construcción n.º 11. Esta fase de construcción modifica la configuración del grupo impar de la estación de pasajeros en ambos extremos.
+El objeto del anexo es la modificación de la instalación de enclavamiento de relés
+existente a la solución de vías tras la finalización del procedimiento de construcción n.º 11.
+Este procedimiento de construcción modifica la configuración del grupo impar de la estación
+de pasajeros en ambos extremos.
 2.1. Cambio de la solución de vías
-… En el lado par de la estación de pasajeros se suprimen las agujas 175, 177 y 193, se desplaza la enlace 203/205 (denominada 196N/197N) más hacia la línea y se inserta la nueva aguja 177.
+… En el lado par de la estación de pasajeros se suprimen las agujas 175, 177 y 193, se
+desplaza la enlace 203/205 (denominada 196N/197N) más hacia la línea y se inserta la
+nueva aguja 177.
 2.2. Cambio del programa de tráfico
-… Se suprimen los itinerarios de maniobra desde/hacia la señal Se6 original debido al desplazamiento de la enlace 196N/197N.
-
+… Se suprimen los itinerarios de maniobra desde/hacia la señal original Se6 debido al
+desplazamiento de la enlace 196N/197N.
 
 ## Página 26
+
 
 2.4. Modificaciones interiores
 En la mesa de mando se modificará el relieve según la nueva configuración, se modificarán las etiquetas de los elementos de mando e
@@ -864,6 +923,7 @@ Los resultados de la prueba demostraron que la reconexión de la aguja n.º 177N
 ### Avería detectada.
 
 ## Página 27
+
 
 ### 3.4.2 Componentes de la vía
 De los resultados del examen del lugar de origen del MU y de los resultados de las mediciones realizadas del superestructura ferroviaria, incluida la aguja n.º 177N, se desprende que el estado técnico de la superestructura de vía no guardaba relación causal con la aparición del MU.
@@ -901,8 +961,8 @@ toda la parte anterior del turno registrado;
 El material rodante no guarda relación causal con la aparición del MU.
 ### No se ha detectado avería.
 
-
 ## Página 28
+
 
 ## 3.5
 ### Documentación del sistema operativo
@@ -930,8 +990,8 @@ encargado: inicio de turno a las 5:00 h. del 28. 11. 2009.
 La investigación determinó que el empleador garantizó las condiciones de descanso antes del turno de conformidad con el § 90 de la ley n.º 262/2006 Sb.
 ### No se ha detectado avería.
 
-
 ## Página 29
+
 
 3.6.2 Estado de salud y situación personal que influyeron en el suceso excepcional, incluido el estrés físico o psíquico
 La aptitud sanitaria de los empleados del gestor de la vía y del transportista se evalúa en el sentido de las disposiciones del decreto n.º 101/1995 Sb., por el que se aprueba el Reglamento de aptitud sanitaria y profesional de las personas para la explotación de la vías y del transporte ferroviario, en su redacción vigente, aplicadas en las normas internas del gestor de la vía y del transportista.
@@ -955,6 +1015,7 @@ Debido al cambio en curso del antiguo aparato de enclavamiento de estación de r
 
 ## Página 30
 
+
 emitido para la reconstrucción de la estación y el cambio del aparato de enclavamiento de estación, la aguja n.º 177N se volvió a conectar al RSZZ original y esta conexión ya no permitía el uso del sistema de vía para la constitución de la vía de tren. Su cambio de posición solo podía ser realizado por el conmutador en el pupitre de mando del aparato de enclavamiento, y la entrada de trenes desde la estación Velim estaba permitida por la señal de llamada en el señal de vía Sc101c.
 Tras recibir la orden de preparación de la vía de tren, el jefe de estación del aparato de enclavamiento en el pupitre de mando del RSZZ accionó el conmutador de la aguja n.º 177N, a continuación, mediante la pulsación del botón de control de posición de las agujas, verificó la correcta posición de la vía de tren ordenada y, pulsando el botón inicial y el de finalización, aseguró esta vía de circulación en el tramo desde la señal de agrupamiento Se 10 (nueva Se 112) en la vía n.º 100 con el cierre de la vía de maniobra. Acto seguido, accionó el botón de la señal de llamada en el señal de vía Sc 101c. Cuando el tren Os 2103 entró en el circuito de vía de la aguja n.º 177N, se encendieron en el panel de mando del aparato de enclavamiento los testigos rojos en dirección a la vía n.º 101. Simultáneamente se produjo el descarrilamiento del tren Os 2103.
 La aguja n.º 177N, tras la reconstrucción de la parte correspondiente de la playa de vías, se volvió a conectar al enclavamiento central con mando desde el RSZZ original. El 29. 10. 2008, el técnico de pruebas del proveedor, persona autorizada, con la asistencia de la comisión de expertos del gestor de la infraestructura, realizó la inspección técnica y la prueba integral del citado aparato de enclavamiento de estación y se levantó el Acta con la confirmación de que el aparato de enclavamiento de estación determinado garantiza la seguridad del tráfico ferroviario y es apto para la explotación.
@@ -966,8 +1027,8 @@ Asimismo, se demostró que, si la aguja n.º 177N no está en posición final, n
 ### 4.2.1 Evaluación de los hechos constatados según el punto 3 y enunciación de las conclusiones sobre la causa del suceso ferroviario y la actuación de los servicios de emergencia
 La obligación impuesta al gestor de la infraestructura en el § 22 apartado (1) letra a) de la ley 266, es:
 
-
 ## Página 31
+
 
 ● explotar la infraestructura para las necesidades del transporte ferroviario fluido y seguro de acuerdo con las normas para la explotación de la infraestructura y la autorización administrativa.
 Para el cumplimiento de esta obligación es ineludiblemente necesario respetar las condiciones establecidas en la ley n.º 266 y en las disposiciones legales de desarrollo de dicha ley. En el presente caso, en particular, las condiciones establecidas en los decretos n.º 173 y n.º 177, en los que se establecen las normas para la explotación de la infraestructura y su operatividad, las normas para la explotación del transporte ferroviario y el reglamento técnico de construcción de las infraestructuras, incluidas sus aplicaciones incorporadas a los procedimientos tecnológicos contenidos en las normativas internas del gestor de la infraestructura.
@@ -989,6 +1050,7 @@ g) se constató que el transportista cumplió las instrucciones del gestor de la
 ●
 
 ## Página 32
+
 
 se comprobó que el gestor de la vía había emitido el Reglamento de Estación de la estación de Kolín como parte de la documentación de transporte básica, en el que, entre otros aspectos, estableció la distribución y el servicio de los desvíos a los empleados implicados en la gestión del transporte ferroviario.
 ### § 12 apartados (1, 2, 3, 4) del decreto n.º 173 [véase el art. 3.2.1 A8) de este informe]:
@@ -1013,8 +1075,8 @@ se comprobó que el maquinista DV implicado en la MU era competente en materia p
 ●
 se comprobó que, debido a la conexión incorrecta del circuito eléctrico del RSZZ, era posible realizar la cerradura de la vía de maniobras a través del desvío n.º 177N a pesar de que no estaba en la posición correcta. Los circuitos eléctricos y las piezas constructivas cuya función es el aseguramiento directo de la seguridad de la circulación de los trenes y de las maniobras aseguradas no estaban realizados y protegidos de modo que cumplieran esta función de forma fiable en todos los estados de explotación del aparato. El RSZZ, por tanto, no aseguraba con su función la explotación segura de la vía y del transporte ferroviario.
 
-
 ## Página 33
+
 
 arts. 455, 460, 463, 468, 469. SŽDC (ČD) D2 [véanse los arts. 3.2.1 B3, B4, B5, B7, B8) de este
 ●
@@ -1044,6 +1106,7 @@ la norma interna del gestor de la vía establece el alcance de las pruebas funci
 
 ## Página 34
 
+
 Del análisis del cumplimiento de las disposiciones de la legislación pertinente y de su aplicación en los procedimientos tecnológicos recogidos en las normas internas del gestor de la vía se constató que el gestor de la vía no explotaba la vía para las necesidades del tráfico ferroviario fluido y seguro y conforme a las reglas para la explotación de la vía, al permitir el paso del DV por la aguja n.º 177N, que no se encontraba en la posición correcta, y asimismo al no encontrarse el RSZZ en estado operativo para el itinerario de tren previsto.
 ## 4.3
 ### Conclusiones
@@ -1064,62 +1127,53 @@ dispositivo de enclavamiento por la Oficina Ferroviaria, con la constatación de
 ### 4.3.3 Causas derivadas del marco normativo y del uso del sistema de garantía de la seguridad
 No se constataron causas en el sistema de seguridad mediante la investigación de la DI.
 
-
 ## Página 35
 
 ## 4.4
 ### Hallazgos complementarios
-### 4.4.1 Deficiencias y omisiones constatadas durante la investigación de las causas y circunstancias del suceso excepcional, que sin embargo no son relevantes para las conclusiones sobre las causas
-El gestor de la vía no aportó los documentos requeridos por la Inspección Ferroviaria, a saber:
-Registrador de averías del equipo de comunicaciones y enclavamiento con registros
-●
-relacionados con el SU en cuestión – según la comunicación, no fue localizado por el gestor de la vía.
-Anexos n.º 1 y 2 al protocolo n.º 193/2008/01/VF de fecha 29. 10. 2008 según la
-●
-norma ČSD T 200/1 – según la comunicación del gestor de la vía, el protocolo en cuestión no contenía ningún anexo; el fabricante no aportó la confirmación de la prueba realizada según los anexos n.º 1 y 2 de la norma mencionada.
+### 4.4.1 Deficiencias y omisiones detectadas durante la investigación de las causas y circunstancias del accidente ferroviario, que sin embargo no son relevantes para las conclusiones sobre las causas
+El gestor de la infraestructura no entregó la documentación requerida por la Inspección Ferroviaria, a saber:
+● Registrador de averías del equipo de comunicaciones y de señalización con los registros referidos al accidente ferroviario en cuestión — según la información facilitada, no fue localizado por el gestor de la infraestructura.
+● Anexos n.º 1 y 2 al acta n.º 193/2008/01/VF de fecha 29. 10. 2008 según la norma ČSD T 200/1 — según la información facilitada por el gestor de la infraestructura, el acta en cuestión no contenía ningún anexo; el fabricante no entregó la certificación de las pruebas realizadas conforme a los anexos n.º 1 y 2 de la norma mencionada.
 ## 5 MEDIDAS ADOPTADAS
 ## 5.1
-### Lista de medidas que ya se han adoptado o tomado como consecuencia del suceso excepcional
-La Administración de la Vía Ferroviaria de Transporte, organización estatal, adoptó las siguientes medidas:
-al jefe de maniobras de la estación de Kolín se le suspendió, tras la ocurrencia del SU,
-●
-la aptitud profesional para el desempeño de la función, hasta la superación del examen profesional;
-el enclavamiento relé de estación fue desmontado y sustituido por un nuevo
-●
-dispositivo ESA 11.
+### Lista de medidas que ya se han tomado o adoptado como consecuencia del accidente ferroviario
+La Administración de la Vía de Transporte Ferroviario, organización estatal, adoptó las siguientes medidas:
+● Al jefe de maniobras de la estación de Kolín se le suspendió, tras el accidente ferroviario, la habilitación profesional para el desempeño de la función, hasta la superación del examen profesional;
+● El equipo de enclavamiento de relés de estación fue desmontado y sustituido por un nuevo equipo ESA 11.
 ## 6 RECOMENDACIONES DE SEGURIDAD
-Atendiendo a las causas y circunstancias constatadas de la ocurrencia del suceso excepcional, la Inspección Ferroviaria no emite recomendaciones de seguridad.
+Atendiendo a las causas y circunstancias del accidente ferroviario investigadas, la Inspección Ferroviaria no emite recomendaciones de seguridad.
 En Praga, a 31. 3. 2011
-Marian Konvalinka, s. f.
-Zdeněk Malý, s. f.
+Marian Konvalinka, f. r.
+Zdeněk Malý, f. r.
 Inspector jefe
 Director
 Inspectorado Territorial de Praga
 del Inspectorado Territorial de Praga
 
-
 ## Página 36
+
 
 ## 7 ANEXOS
 Foto 1: Posición del conjunto descarrilado
 
-
 ## Página 37
+
 
 Foto 2: Posición del conjunto descarrilado
 
-
 ## Página 38
+
 
 Foto 3: Panel del enclavamiento relé
 
-
 ## Página 39
+
 
 Foto 4: Daño en el corazón de la aguja 177N por impacto de rueda
 
-
 ## Página 40
+
 
 Foto 5: Motor eléctrico de cambio de aguja 177N
 .

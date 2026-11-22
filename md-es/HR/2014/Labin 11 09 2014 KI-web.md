@@ -12,8 +12,8 @@ tokens_in: 33261
 tokens_out: 24753
 fecha_proceso: 2026-11-19
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-verificacion: revisar
-avisos: ["página 24: ratio 2.01", "página 25: ratio 1.64"]
+verificacion: ok
+notas_cifras: ["página 5: original bilingüe: se compara contra el idioma principal (HR)", "página 15: cifras cortas: 4/25", "página 19: cifras cortas: 2/20", "página 20: cifras cortas: 1/13", "página 21: cifras cortas: 3/36", "página 24: original bilingüe: se compara contra el idioma principal (HR); ratio 2.05"]
 ---
 
 ## Página 1
@@ -573,43 +573,32 @@ La resistencia del aire no tiene una gran influencia en el movimiento del bloque
 
 ## Página 24
 
-La geometría de las pendientes naturales es a menudo muy compleja. La pendiente de la ladera determina cómo se moverá el bloque cuesta abajo, tal como se ha explicado. Las superficies lisas y uniformes de las laderas sin vegetación y los bloques rocosos completamente redondos representan el peor caso posible de caída de bloques. Sin embargo, en la naturaleza rara vez aparecen superficies lisas de una altura exactamente determinada, sino que es un fenómeno natural que las superficies sean rugosas junto con un cambio de la pendiente de la ladera dentro de un área de observación determinada. El comportamiento del bloque durante el rodado, la caída o el deslizamiento depende de la rugosidad superficial. La rugosidad superficial de un segmento de la ladera puede definirse de dos maneras: como la desviación del ángulo de pendiente promedio de ese segmento con respecto al ángulo de pendiente de la ladera, o como la distancia máxima de un punto determinado del bloque rocoso desde la superficie de la ladera, dentro del radio de trayectoria del bloque.
-
-Hoy en día existen diversos métodos para registrar la superficie de la ladera; sin embargo, debido a consideraciones económicas, a menudo no están disponibles las imágenes 3D del terreno, es decir, los modelos digitales 3D del terreno de un área determinada. Por ello, para las necesidades de modelado de caídas de bloques, la superficie de una ladera puede dividirse en varias secciones transversales características y simularse el movimiento de los bloques en dos dimensiones. En la realidad, por supuesto, la situación es completamente diferente y casi nunca ocurre una caída de bloques a lo largo de un único plano en el espacio.
-
-Además de la geometría de la ladera, el movimiento del bloque depende del tamaño del bloque y del material que cubre la superficie de la ladera, como el suelo, los guijarros o la vegetación, especialmente los árboles. Al impactar contra un árbol, el bloque pierde parte de la energía y cambia la dirección del movimiento o se detiene, dependiendo del tamaño de la energía del bloque y de la capacidad energética del árbol.
-
-Las características del material del que está construida la ladera se definen mediante los siguientes parámetros:
-- coeficiente de restitución
-- coeficiente de fricción
-- coeficiente de fricción de rodadura
-
-El coeficiente de restitución puede definirse como la capacidad del material para absorber la energía del bloque caído al impactar contra el sustrato compuesto por ese tipo de material. Al impactar contra el sustrato, el bloque pierde parte de la energía, disminuye su velocidad y, dependiendo de la velocidad de llegada y del tipo de sustrato, continúa su movimiento cuesta abajo o se detiene. Las superficies lisas de rocas duras que no están sujetas a desgaste representan el sustrato más desfavorable, ya que no absorben la energía del bloque, es decir, no reducen su velocidad. Por otro lado, los sustratos de grava o los sustratos compuestos por otro material susceptible al desgaste absorben una gran cantidad de energía del bloque caído e incluso pueden provocar la detención del bloque. Por esta razón, las bermas o las zanjas de captura de bloques se revisten con material de grava.
-
-El coeficiente de fricción representa la resistencia de la ladera al deslizamiento del bloque sobre dicha ladera, y se define como la tangente del ángulo bajo el cual se produce el deslizamiento del bloque en la parte superior de la ladera.
-
-El coeficiente de fricción de rodadura representa la resistencia de la ladera al rodado del bloque, y se define como la tangente del ángulo bajo el cual se produce el rodado del bloque en la parte superior de la ladera.
-
-En el cálculo de la estabilidad de las caídas de bloques, a menudo se ignoran los dos últimos coeficientes, y se da la máxima importancia al coeficiente de restitución y a la geometría de la ladera. El cálculo de la estabilidad de las caídas de bloques es además el más sensible a los cambios en el coeficiente de restitución, lo que indica la importancia de su determinación.
-
-5.3.3 Encargo de proyecto para la reparación de cortafuegos y taludes en una parte de la red de ferrocarriles croata
-
-El encargo de proyecto para la reparación de cortafuegos y taludes en una parte de la red de ferrocarriles croata, sobre el cual se inició el procedimiento de contratación pública para la elaboración de la documentación de proyecto, fue redactado en mayo de 2013.
+La geometría de la pendiente en la naturaleza es a menudo muy compleja. El ángulo de inclinación de la pendiente determina cómo se moverá el bloque cuesta abajo por la pendiente, tal como se ha explicado. Las superficies lisas y limpias de la pendiente sin vegetación y los bloques rocosos completamente redondos representan el peor caso posible de desprendimiento. Sin embargo, rara vez aparecen en la naturaleza superficies lisas de altura exactamente determinada, sino que es un fenómeno natural la presencia de una superficie rugosa junto con la variación de la altura de la pendiente dentro de un área observada determinada. De la rugosidad de la superficie depende cómo se comportará el bloque al rodar, caer o deslizarse. La rugosidad de la superficie de un segmento de la pendiente puede definirse de dos maneras: como la desviación del ángulo medio de inclinación de ese segmento respecto al ángulo de inclinación de la pendiente, o como la distancia máxima de un punto determinado del bloque rocoso a la superficie de la pendiente, y dentro del radio del bloque. 
+Hoy en día existen diferentes métodos de captación de la superficie de la pendiente, sin embargo, por razones de rentabilidad, a menudo no se disponen de captaciones 3D del terreno, es decir, de modelos digitales 3D del terreno de una zona. Por ello, para las necesidades de modelización del desprendimiento, la superficie de una pendiente puede dividirse en varias secciones características y simular el movimiento del desprendimiento en dos dimensiones. En la realidad, por supuesto, la situación es completamente diferente y casi nunca un desprendimiento se producirá a lo largo de un único plano en el espacio. 
+Además de la geometría de la pendiente, el movimiento del bloque depende del tamaño del bloque y del material que cubre la superficie de la pendiente, como el suelo, los escombros o la vegetación, especialmente los árboles. Al impactar el bloque contra un árbol, este pierde parte de la energía y cambia la dirección de su movimiento o se detiene, dependiendo del tamaño de la energía del bloque y de la capacidad energética del árbol. 
+Las características del material con el que está construida la pendiente se definen mediante los siguientes parámetros: 
+- 
+coeficiente de restitución 
+- 
+coeficiente de fricción 
+- 
+coeficiente de fricción de rodadura 
+El coeficiente de restitución puede definirse como la capacidad del material para absorber la energía del bloque desprendido al impactar contra el sustrato que constituye ese tipo de material. Al impactar contra el sustrato, el bloque pierde parte de la energía, se reduce su velocidad y, dependiendo de la velocidad de llegada y del tipo de sustrato, continúa su movimiento cuesta abajo por la pendiente o se detiene. Las superficies lisas de rocas duras que no están sujetas a erosión representan el sustrato más desfavorable, ya que no absorben la energía del bloque, es decir, no reducen su velocidad. Por otro lado, los sustratos de grava o los sustratos constituidos por otro material sujeto a erosión absorben una gran cantidad de energía del bloque desprendido, e incluso pueden provocar la detención del bloque. Por este motivo, las bermas o zanjas de captación de desprendimientos se revisten con material de grava. 
+El coeficiente de fricción representa la resistencia de la pendiente al deslizamiento del bloque por la misma, y se define como la tangente del ángulo bajo el cual se produce el deslizamiento del bloque en la superficie de la pendiente. 
+El coeficiente de «fricción de rodadura» representa la resistencia de la pendiente a la rodadura del bloque, y se define como la tangente del ángulo bajo el cual se produce la rodadura del bloque en la superficie de la pendiente. 
+En el cálculo de la estabilidad del desprendimiento a menudo se desestiman los dos últimos coeficientes, y se atribuye la principal importancia al coeficiente de restitución y a la geometría de la pendiente. El cálculo de la estabilidad del desprendimiento es también el más sensible a la variación del coeficiente de restitución, lo que indica la importancia de su determinación. 
+5.3.3 Encargo de proyecto para la rehabilitación de cortes y terraplenes en una parte de la red de los Ferrocarriles Croatas 
+El encargo de proyecto para la rehabilitación de cortes y terraplenes en una parte de la red de los Ferrocarriles Croatas, en virtud del cual se inició el procedimiento de licitación pública para la elaboración de la documentación del proyecto, fue redactado en mayo de 2013.
 
 ## Página 25
 
-Figura 11 Mecanismos posibles de desplazamiento de los bloques por la pendiente en relación con su pendiente media
-
-El pliego de condiciones del proyecto señala la problemática de los desprendimientos en las ferrovías croatas, dado que la red ferroviaria de Hrvatske željeznice se extiende tanto por zonas llanas como montañosas. Las zonas llanas por las que transcurre la línea ferroviaria se extienden por el área de Croacia central y Eslavonia, mientras que las zonas montañosas por las que transcurre la línea ferroviaria abarcan Gorski Kotar, Velebit, Lika, Dalmacia, Istria y Primorje. Se trata de líneas de importancia internacional, regional y local por las que circula el tráfico convencional (es decir, de viajeros y mercancías), y cuya mantenimiento corre a cargo de las Unidades Regionales de Mantenimiento.
-
-El mayor peligro en los desmontes, los taludes y los pre-túneles son los desprendimientos imprevisibles, que constituyen una seria amenaza para la seguridad del tráfico ferroviario. Este fenómeno es más frecuente ante cambios bruscos y extremos del tiempo.
-
-El problema de la estabilidad de los desmontes, los taludes y los pre-túneles se prevé que sea mayor en las zonas montañosas de Croacia. Presentan diferentes composiciones del suelo, es decir, de las rocas, diferentes estados de estabilidad y distintos grados de desgaste.
-
-Los desmontes y los taludes en la masa rocosa, bajo la influencia de las precipitaciones, se han vuelto inestables y erosionados, agrietados con fisuras visibles y cavidades, discontinuidades y fallas, situados posicionalmente muy a menudo perpendiculares al eje de la vía, y representan un peligro potencial para el desarrollo del tráfico ferroviario. Una pequeña parte de los desmontes y los taludes está protegida mediante hormigón proyectado (torkret), muros de piedra en seco o redes de protección.
-
-El pliego de condiciones del proyecto contemplaba lo siguiente:
-- la realización de inspecciones especializadas detalladas, es decir, la prospección ingeniero-geológica de los desmontes y los taludes,
+Figura 11 Posibles mecanismos de desplazamiento de bloques a lo largo del talud en relación con su pendiente media
+En el pliego de condiciones se señala la problemática de los desprendimientos en los ferrocarriles croatas, dado que la red ferroviaria de los Ferrocarriles Croatas se extiende tanto por zonas llanas como por zonas montañosas. Las zonas llanas por las que discurre la vía férrea se extienden por el área de la Croacia central y Eslavonia, y las zonas montañosas por las que discurre la vía férrea abarcan Gorski Kotar, Velebit, Lika, Dalmacia, Istria y el Litoral. Se trata de líneas de importancia internacional, regional y local por las que se desarrolla el tráfico convencional (es decir, de pasajeros y de mercancías), y que mantienen las Unidades Regionales de Mantenimiento.
+El mayor peligro en las cortes, trincheras y aproximaciones de los túneles lo constituyen los desprendimientos imprevistos, que suponen una grave amenaza para la seguridad del tráfico ferroviario. Este fenómeno es más frecuente ante cambios climáticos bruscos y extremos.
+El problema de la estabilidad de las cortes, trincheras y aproximaciones de los túneles es, previsiblemente, mayor en las zonas montañosas de Croacia. Presentan una composición del suelo, es decir de la roca, diferente, así como un estado de estabilidad y un grado de desgaste distintos.
+Las cortes y trincheras en la masa rocosa, bajo la acción de los agentes atmosféricos, se han vuelto desgastadas y erosionadas, agrietadas con fisuras y cavidades visibles, discontinuidades y fallas, situadas muy frecuentemente en posición perpendicular al eje de la vía y que representan un peligro potencial para la circulación del tráfico ferroviario. Una parte menor de las cortes y trincheras está protegida con shotcrete, muros secos o redes de protección.
+El pliego de condiciones abarcaba lo siguiente:
+- la realización de inspecciones especializadas detalladas, es decir, una prospección ingeniero-geológica de las cortes y trincheras,
 
 ## Página 26
 

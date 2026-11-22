@@ -10,13 +10,14 @@ chars: 24378
 ratio_longitud: 1.12
 tokens_in: 8860
 tokens_out: 6755
-verificacion: revisar
 fecha_proceso: 2026-11-18
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-avisos: ["página 5: ratio 1.80"]
-notas_cifras: ["página 6: cifras cortas: 1/16"]
+verificacion: ok
+notas_cifras: ["página 5: original bilingüe: se compara contra el idioma principal (EN)", "página 6: cifras cortas: 1/16"]
 ---
+
 ## Página 1
+
 
 COLISIÓN  
 TREN 8718 CON TURISMO 
@@ -33,8 +34,8 @@ Página web:
 http://versa.bmvit.gv.at
 Informe de investigación
 
-
 ## Página 2
+
 
 ### Índice 
 Página 
@@ -109,10 +110,10 @@ Destinatarios
 Anexo: Registrador de datos evaluado de la STLB 
 20 
 Anexo: Extracto de la resolución de la Oficina del Gobierno Regional de Estiria 
-21 
-
+21
 
 ## Página 3
+
 
 ### Índice de figuras 
 Página 
@@ -175,6 +176,7 @@ Procedimiento de alegaciones del 25 de octubre de 2012 al 18 de enero de 2013.
 
 ## Página 4
 
+
 ### Notas preliminares
 La investigación se llevó a cabo sobre la base de las disposiciones del Art. 19 apdo. 2 de la Directiva 2004/49/CE en relación con las disposiciones del § 5 apdos. 2 y 3 UUG.
 Conforme al § 4 UUG, las investigaciones tienen como objetivo exclusivo determinar la causa del incidente, a fin de poder elaborar recomendaciones de seguridad que contribuyan a evitar incidentes similares en el futuro. La valoración jurídica de las circunstancias y causas no es expresamente objeto de la investigación. Por lo tanto, tampoco es el propósito de este informe establecer culpas ni aclarar cuestiones de responsabilidad.
@@ -194,22 +196,26 @@ Este informe de investigación se dirige a:
 | Fiscalía de Leoben |  |  | Justicia |
 | Ministerio Federal de Transporte, Innovación y Tecnología |  |  | Autoridad |
 
-
 ## Página 5
 
-### Resumen
-El 26 de junio de 2012, a las 17:55 horas, se produjo un choque entre el tren Z 8718 y un turismo en el paso a nivel no protegido técnicamente (cruz de San Andrés y emisión de señales acústicas desde el vehículo ferroviario) situado en el km 35,204, próximo a la parada de Lutzmannsdorf.
-Como consecuencia del choque, el primer vehículo del tren Z 8718 descarriló con todos sus ejes hacia la derecha en dirección de marcha, continuó circulando en estado de descarrilamiento, impactó contra el talud elevado adyacente y volcó lateralmente.
-En el accidente resultaron levemente heridos 13 viajeros (de ellos 12 niños) y el conductor del turismo. Se produjeron daños materiales considerables en el vehículo ferroviario descarrilado y en el turismo.
-La causa del choque fue la entrada del turismo en el paso a nivel por delante del tren Z 8718 que se aproximaba.
-### Summary
-On June 26th 2012, at 17:55 o’clock, next the unmanned stopping point station Lutzmannsdorf, a collision on a non-technically secured level crossing km 35,204 train 8718 and a car occurred. 
-In consequence of the collision derailed the first railway vehicle train 8718, bounced against the acclivity and canted over.  
-Thirteen passengers, thereof twelve children, and the car driver were lightly injured. Extensive damage occurred at rolling stock and infrastructure.  
-The car driver drove in the level crossing, secured by St. Andrews Cross and acoustic signal from the railway vehicle, before the oncoming train 8718.  
-
+### 1. Resumen 
+El 26 de junio de 2012, a las 17:55, se produjo en el paso a nivel no protegido técnicamente (cruz de San Andrés y emisión de señales acústicas desde el vehículo ferroviario) en el punto kilométrico 35,204, próximo a la parada de Lutzmannsdorf, una colisión entre el Z 8718 y un turismo. 
+Como consecuencia de la colisión, el primer vehículo del Z 8718 descarriló con todos los juegos de ruedas en la dirección de marcha hacia la derecha, continuó avanzando en estado descarrilado, chocó contra la ladera elevada y volcó lateralmente.  
+En el accidente resultaron levemente heridos 13 viajeros (de los cuales 12 niños) así como el conductor del turismo. Se produjeron daños materiales considerables en el vehículo ferroviario descarrilado y en el turismo.  
+La causa de la colisión fue la entrada del turismo en el paso a nivel antes de la llegada del Z 8718.  
+### Summary 
+On June 26th 2012, at 17:55 o’clock, next the unmanned stopping point station 
+Lutzmannsdorf, a collision on a non-technically secured level crossing km 35,204 
+train 8718 and a car occurred. 
+In consequence of the collision derailed the first railway vehicle train 8718, bounced 
+against the acclivity and canted over.  
+Thirteen passengers, thereof twelve children, and the car driver were lightly injured. 
+Extensive damage occurred at rolling stock and infrastructure.  
+The car driver drove in the level crossing, secured by St. Andrews Cross and acous-
+tic signal from the railway vehicle, before the oncoming train 8718.
 
 ## Página 6
+
 
 ### Datos generales
 2.1. 
@@ -231,8 +237,8 @@ Competencia de las autoridades
 La autoridad ferroviaria competente es el Gobernador provincial de Estiria (Landeshauptmann von Steiermark).
 Se da conocimiento a la Autoridad Ferroviaria Superior en el Ministerio Federal de Transporte, Innovación y Tecnología mediante la remisión del informe provisional de investigación.
 
-
 ## Página 7
+
 
 2.5. 
 Condiciones locales
@@ -244,8 +250,8 @@ Figura 2     Vista aérea del paso a nivel (Fuente BEV)
 Dirección de marcha del turismo
 Figura 3     Paso a nivel con señalización de tráfico a la derecha de la línea ferroviaria (Fuente SUB)
 
-
 ## Página 8
+
 
 Dirección de marcha del tren Z 8718
 Figura 4     Visibilidad en el paso a nivel a la derecha de la línea ferroviaria (Fuente SUB)
@@ -253,8 +259,8 @@ Las figuras 3 y 4, tomadas a la derecha de la vía, corresponden a la aproximaci
 Figura 5     Visibilidad en el paso a nivel a la derecha de la línea ferroviaria (Fuente SUB)
 La figura 5, tomada a 3 m antes del borde del carril, muestra la visibilidad en dirección a Murau.
 
-
 ## Página 9
+
 
 2.6. 
 Composición de la circulación implicada
@@ -277,6 +283,7 @@ La velocidad localmente permitida en la zona del incidente es, según las VzG de
 
 ## Página 10
 
+
 2.7.2. Extracto del horario de marcha STLB Z 8718
 ## EK 35,204
 Figura 7     Extracto del horario de marcha – Fuente: STLB
@@ -284,8 +291,8 @@ En el horario de marcha de los Ferrocarriles Regionales de Estiria (Steiermärki
 Inmediatamente después de la EK (en sentido de marcha del Z 8718) se encuentra el punto kilométrico 35,2. A partir de ahí está permitida una velocidad de marcha de 60 km/h.
 La indicación de punto kilométrico 35,2 para la parada de Lutzmannsdorf en la columna 2 del horario de marcha no corresponde al kilometraje real y, por lo tanto, tampoco coincide con el cambio de velocidad.
 
-
 ## Página 11
+
 
 ### 3. Descripción del incidente
 El 26 de junio de 2012, el turismo procedente de Lutzmannsdorf pretendía cruzar el paso a nivel situado en el punto kilométrico 35,204. Entró en el paso a nivel por delante del tren Z 8718 que se aproximaba desde Tamsweg y quedó detenido con las ruedas delanteras sobre la vía férrea. El conductor del vehículo ferroviario detectó el peligro potencial derivado del turismo que venía por la izquierda, dio la señal «Atención» (señal acústica) e inició una frenada.
@@ -293,8 +300,8 @@ A pesar de la frenada iniciada, no se pudo evitar la colisión. El turismo fue a
 Como resultado del accidente resultaron heridos leves 13 viajeros (entre ellos 12 niños) así como el conductor del turismo. Las víctimas del accidente fueron atendidas in situ por los servicios de emergencia y trasladadas a los hospitales de Stolzalpe y Tamsweg. Un niño fue trasladado en helicóptero sanitario al hospital de Klagenfurt. Todos los heridos fueron dados de alta tras una estancia ambulatoria en los hospitales.
 Figura 8     Tren Z 8718 descarrilado (Fuente: Policía de Murau)
 
-
 ## Página 12
+
 
 ### 4. Personas heridas, daños materiales e interrupciones de la explotación
 4.1. 
@@ -346,8 +353,8 @@ o Conductor del Z 8718 (Ferrocarriles Regionales de Estiria)
  
 Conductor del turismo
 
-
 ## Página 13
+
 
 ### 6. Declaraciones / Pruebas / Resultados de la evaluación
 6.1. 
@@ -358,8 +365,8 @@ Esta evaluación se adjunta como anexo al informe de investigación. Durante la 
 Teniendo en cuenta las tolerancias de medición del registrador de velocidad, se respetó la velocidad máxima local permitida de 60 km/h.
 La velocidad de marcha permitida según el horario de 50 km/h había sido superada.
 
-
 ## Página 14
+
 
 6.2. 
 Declaración del conductor del Z 8718
@@ -368,8 +375,8 @@ El 26 de junio de 2012, el Z 8718 fue conducido desde Tamsweg en dirección a Mu
 Durante la aproximación a la EK situada en el punto kilométrico 35,204, se observó un turismo que se acercaba lentamente al paso a nivel por la izquierda. No se puede afirmar con seguridad si el turismo se detuvo en la señal de STOP. En cualquier caso, el turismo entró en el paso a nivel justo por delante del Z 8716 y luego quedó detenido con las ruedas delanteras sobre la vía. Se dio la señal «Atención» y se inició una frenada de emergencia. Inmediatamente después de la colisión, se constató que el Z 8718 había descarrilado y seguía avanzando en sentido de marcha hacia la derecha. Posteriormente, el coche piloto chocó contra el talud derecho, volcó hacia la izquierda y quedó apoyado sobre su lado izquierdo en la vía.
 Inmediatamente después de la detención, se comenzó la evacuación de los viajeros del tren. Los servicios de intervención y auxilio fueron avisados telefónicamente por el conductor del turismo inmediatamente después del accidente.
 
-
 ## Página 15
+
 
 ### 7. Resumen y conclusiones
 La protección de la EK 35,204 se realiza conforme a la resolución de la Oficina del Gobierno Regional de Estiria (GZ: FA18E-81.30-36/06-30 de 17 de julio de 2004) mediante simples cruces de San Andrés, así como mediante la emisión de señales acústicas desde el vehículo ferroviario y una obligación de detenerse en la carretera (señales de STOP). Esta protección se basa en una velocidad máxima permitida para el ferrocarril de 60 km/h en ambos sentidos de circulación.
@@ -380,6 +387,7 @@ El conductor del turismo no cumplió las disposiciones del Reglamento de Pasos a
 La última inspección de los pasos a nivel en la línea Unzmarkt – Tamsweg se realizó en abril de 2012. Durante dicha inspección se controlaron los triángulos de visibilidad conforme a las especificaciones de las resoluciones administrativas. En las comprobaciones, los triángulos de visibilidad exigidos por la resolución estaban presentes.
 
 ## Página 16
+
 
 ### 9. Otras irregularidades y particularidades no causantes del accidente
 Notificación conforme a la MeldeVOEisb (Reglamento de notificación de incidentes ferroviarios)
@@ -393,8 +401,8 @@ Fin de la cita
 Esta señal de peligro no estaba presente en el día de la inspección ocular realizada por la SUB el 2 de julio de 2012.
 Figura 11 Señal de peligro Paso a nivel sin barreras
 
-
 ## Página 17
+
 
 ### 10. Causa
 A partir de los hallazgos disponibles, se debe suponer que la causa radica en una acción errónea humana por parte del participante en el tráfico rodado.
@@ -402,10 +410,10 @@ A partir de los hallazgos disponibles, se debe suponer que la causa radica en un
 Alegación del BMVIT (Ministerio Federal de Transporte, Innovación y Tecnología), recibida el 22 de noviembre de 2012
 a) 
 b) 
-c) 
-
+c)
 
 ## Página 18
+
 
    d) 
 ### y su consideración
@@ -417,10 +425,10 @@ c)
 considerada
 d) 
 no considerada  
-Nota: Las condiciones de visibilidad descritas en el punto 2.5 se incluyeron en el informe conforme al § 17 apartado 5 del Reglamento de Pasos a Nivel Ferroviarios de 1961 (Eisenbahn-Kreuzungsverordnung 1961), vigente en el momento del accidente.  
-
+Nota: Las condiciones de visibilidad descritas en el punto 2.5 se incluyeron en el informe conforme al § 17 apartado 5 del Reglamento de Pasos a Nivel Ferroviarios de 1961 (Eisenbahn-Kreuzungsverordnung 1961), vigente en el momento del accidente.
 
 ## Página 19
+
 
 ### 12. Recomendaciones de seguridad
 | Punto | Recomendaciones de seguridad | Dirigido a |
@@ -430,17 +438,16 @@ Nota: Las condiciones de visibilidad descritas en el punto 2.5 se incluyeron en 
 Viena, 26 de febrero de 2013
 Bundesanstalt für Verkehr (Agencia Federal de Transporte)
 Sicherheitsuntersuchungsstelle des Bundes (Organismo Nacional de Investigación de Accidentes e Incidentes de Seguridad Ferroviaria)
-Este informe de investigación, conforme al § 15 UUG (Ley de Investigación de Accidentes e Incidentes), fue aprobado por el Jefe del Organismo Nacional de Investigación de Accidentes e Incidentes de Seguridad Ferroviaria tras la finalización del procedimiento de alegaciones conforme al § 14 UUG.  
-
+Este informe de investigación, conforme al § 15 UUG (Ley de Investigación de Accidentes e Incidentes), fue aprobado por el Jefe del Organismo Nacional de Investigación de Accidentes e Incidentes de Seguridad Ferroviaria tras la finalización del procedimiento de alegaciones conforme al § 14 UUG.
 
 ## Página 20
 
-### Anexo Registro evaluado de los STLB (Ferrocarriles Regionales de Estiria)
 
+### Anexo Registro evaluado de los STLB (Ferrocarriles Regionales de Estiria)
 
 ## Página 21
 
-### Anexo Extracto de la resolución de la Oficina de la Junta Provincial de Estiria
 
+### Anexo Extracto de la resolución de la Oficina de la Junta Provincial de Estiria
 
 ## Página 22

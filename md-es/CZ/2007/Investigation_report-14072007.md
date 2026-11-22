@@ -10,13 +10,14 @@ chars: 100040
 ratio_longitud: 1.29
 tokens_in: 44079
 tokens_out: 30471
-verificacion: revisar
-notas_cifras: ["bloque 2: original bilingüe: se compara contra el idioma principal (CS)", "bloque 3: cifras largas: 3/70; cifras cortas: 8/87", "bloque 4: cifras cortas: 7/124", "bloque 5: original bilingüe: se compara contra el idioma principal (CS)", "bloque 7: original bilingüe: se compara contra el idioma principal (CS)", "bloque 10: cifras cortas: 5/74"]
-avisos: ["bloque 5: ratio 1.74", "bloque 7: ratio 1.83", "bloque 11: ratio 1.67"]
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (CS)", "página 5: original bilingüe: se compara contra el idioma principal (EN)", "página 6: original bilingüe: se compara contra el idioma principal (PT)", "página 7: original bilingüe: se compara contra el idioma principal (PL)", "página 8: original bilingüe: se compara contra el idioma principal (CS); cifras cortas: 3/35", "página 9: cifras cortas: 3/40"]
 ---
+
 ## Página 1
+
 
 Inspección Ferroviaria
 República Checa
@@ -42,11 +43,12 @@ NIF: 75009561
 http://www.dicr.cz
 fax: (+420) 224 805 428
 
-
 ## Página 2
 
 
+
 ## Página 3
+
 
 # RESUMEN
 14 de julio de 2007, 10:06 (08:06 GMT)
@@ -81,11 +83,12 @@ Se recomienda aplicar las recomendaciones anteriores a todos
 ●
 los gestores de infraestructura ferroviaria pertinentes.
 
-
 ## Página 4
 
 
+
 ## Página 5
+
 
 # Índice
  Resumen .............................................................................................................................3
@@ -122,6 +125,7 @@ técnica de las causas de aparición del incidente extraordinario ..............
 
 ## Página 6
 
+
 relación ...............................................................................................................13
 3.1.2 Otras personas .........................................................................................................16
 3.2 Sistema de garantía de la seguridad ...............................................................................17
@@ -151,8 +155,8 @@ relación ......................................................................
 4.1.1 Descripción final del incidente basada en los hechos constatados en el punto 3 
 ............................................................................................................................25
 
-
 ## Página 7
+
 
 4.2 Análisis ......................................................................................................................26
 4.2.1 Evaluación de los hechos constatados según el punto 3 y presentación de las conclusiones sobre la causa del incidente y la actuación de los servicios de rescate ..........................................26
@@ -176,23 +180,22 @@ relación ......................................................................
 ## Página 8
 
 ## 1 RESUMEN
-El 14 de julio de 2007 a las 10:06 horas se produjo un incidente extraordinario en el transporte ferroviario a tenor del artículo 49, apartado 1, punto 2, de la ley n.º 266/1994 Coll., sobre vías férreas, en su versión vigente, cuando el tren R 633 colisionó con una composición ferroviaria estacionada en la vía 1 de la estación de Čerčany, en el punto kilométrico 143,767, de la línea ferroviaria nacional n.º 519A Praha-Vršovice – Benešov u Prahy.
-En el incidente extraordinario (en adelante, IE) falleció el maquinista del tren Os 9122, resultaron heridas el maquinista del tren R 633 y cinco viajeros de dicho tren. Asimismo, se produjeron daños en el vehículo motor de tracción (en adelante, VMT) 363.053-0 del tren R 633, del Depósito de Vehículos Ferroviarios (en adelante, DVV) de Pilsen, en el VMT de la unidad eléctrica 451.048-3, del DVV de Praga, y en los coches acoplados 051.047-9 y 051.048-5.
-El servicio de transporte ferroviario se interrumpió entre las 10:06 y las 10:30 horas del 14 de julio de 2007. El daño total constatado asciende a 4 089 216,- Kč.
-El titular de la línea y del transporte ferroviario es: České dráhy, a. s. (en adelante, ČD, a. s.), con domicilio social: Nábřeží Ludvíka Svobody 1222, código postal: 110 15, Praga 1.
-De conformidad con la ley n.º 266/1994 Coll., sobre vías férreas, en su versión vigente (en adelante, la ley), y con el decreto n.º 376/2006 Coll., sobre el sistema de seguridad de la explotación de la línea y del transporte ferroviario y los procedimientos en caso de incidentes extraordinarios en las vías férreas (en adelante, el decreto n.º 376), el IE se clasificó como accidente grave: colisión de vehículos ferroviarios.
-La causa inmediata del IE fue la autorización de la entrada del tren R 633 a la vía 1 de la estación de Čerčany y su salida de la misma, con la ruta de tren para este tren ocupada por otros vehículos ferroviarios, y el incumplimiento de las condiciones de circulación según las condiciones de visibilidad.
-
-## 2 DATOS RELACIONADOS CON EL INCIDENTE EXTRAORDINARIO
-### 2.1 Incidente extraordinario
-### 2.1.1 Fecha, hora exacta y lugar del incidente extraordinario
-El IE se produjo el 14 de julio de 2007 a las 10:06 horas, en la línea ferroviaria nacional n.º 519A Praha-Vršovice – Benešov u Prahy, en la vía 1 de la estación (en adelante, est.) de Čerčany, en el punto kilométrico 143,767.
-
-### 2.1.2 Descripción del incidente extraordinario y del lugar del accidente, incluida la actividad del sistema integrado de rescate y del servicio de rescate
-El 14 de julio de 2007 se estaba llevando a cabo el cierre de la vía 1 de la línea entre las est. de Senohraby y de Čerčany.
-El transporte ferroviario se garantizaba en ambos sentidos por la vía 2 de la línea, con la condición de que la señal de entrada «S» de la est. de Čerčany, situada junto a la vía 1 de la línea, era válida para la circulación de los trenes por la vía 2 de la línea. La entrada de los trenes desde la vía 2 de la línea a la est. de Čerčany se realizaba con la señal «Señal de llamada», dada en la señal de entrada «S».
+El 14 de julio de 2007 a las 10:06 horas se produjo un suceso excepcional en el transporte ferroviario en el sentido del § 49, apartados 1 y 2 de la Ley núm. 266/1994 Sb., de ferrocarriles, en su redacción vigente, cuando en la vía férrea de ámbito nacional, línea núm. 519A Praga-Vršovice – Benešov u Prahy, en la 1ª vía de estación de la estación de ferrocarril de Čerčany en el pk 143,767, el tren R 633 colisionó con la composición estacionada del tren Os 9122.
+Con motivo del suceso excepcional (en adelante SE) falleció el maquinista del tren Os 9122, resultó herido el maquinista del tren R 633 y 5 pasajeros de dicho tren. Asimismo, se produjeron daños en la locomotora de tracción ferroviaria (en adelante LTF) 363.053-0 del tren R 633, del Depósito de material rodante (en adelante DKV) de Plzeň, en la LTF de la unidad eléctrica 451.048-3, 451.047-5 DKV Praga, y en los coches acoplados 051.047-9, 051.048-5.
+La explotación del transporte ferroviario estuvo interrumpida desde las 10:06 hasta las 10:30 horas del día 14 de julio de 2007.
+El importe total de los daños ascendidos asciende a 4 089 216,- CZK.
+El explotador de la vía y del transporte ferroviario es: České dráhy, a. s. (en adelante ČD, a. s.), con domicilio en: Nábřeží Ludvíka Svobody 1222, CP: 110 15, Praga 1.
+De conformidad con la Ley núm. 266/1994 Sb., de ferrocarriles, en su redacción vigente (en adelante la Ley), y con el Decreto núm. 376/2006 Sb., sobre el sistema de seguridad de la explotación de la vía y del transporte ferroviario y los procedimientos en caso de producción de sucesos excepcionales en las vías férreas (en adelante el Decreto núm. 376), el SE fue clasificado como accidente grave – colisión de material rodante ferroviario.
+La causa inmediata de la producción del SE fue la autorización de la entrada del tren R 633 en la 1ª vía de estación de la estación de ferrocarril de Čerčany y su salida de la misma, con el tramo de vía ocupado para dicho tren por otros material rodante ferroviario, y el incumplimiento de las condiciones de circulación según las condiciones de visibilidad.
+## 2 DATOS RELATIVOS AL SUCESO EXCEPCIONAL
+### 2.1 Suceso excepcional
+### 2.1.1 Fecha, hora exacta y lugar del suceso excepcional
+El SE se produjo el 14 de julio de 2007 a las 10:06 horas, en la vía férrea de ámbito nacional, línea núm. 519A Praga-Vršovice – Benešov u Prahy, en la 1ª vía de estación de la estación de ferrocarril (en adelante est.) de Čerčany en el pk 143,767.
+### 2.1.2 Descripción del suceso excepcional y del lugar del accidente, incluida la actuación del sistema integrado de emergencia y del servicio de rescate
+El 14 de julio de 2007 se encontraba en servicio de mantenimiento la 1ª vía de línea entre la est. de Senohraby y la est. de Čerčany. El transporte ferroviario se prestaba en ambos sentidos por la 2ª vía de línea, con la particularidad de que la señal de entrada "S" de la est. de Čerčany, situada junto a la 1ª vía de línea, para la circulación de trenes por la 2ª vía de
 
 ## Página 9
+
 
 La dirección del transporte ferroviario en la est. de Čerčana la ejerce el despachador de servicio principal («A»), y en la dirección del transporte ferroviario participan el despachador de servicio externo («B») y los señaleros de los puestos de maniobras St. 1 y St. 2.
 A las 9:34 horas, el tren Os 9119, expedido desde la est. de Praha-Smíchov, se detuvo en la vía 1 de la estación y finalizó allí su viaje. El tren estaba compuesto por dos unidades eléctricas. Tras la bajada de los viajeros, el tren, por orden del despachador «B», se desplazó 114 metros en dirección al puesto de maniobras St. 1, donde se dividió en composiciones para el tren Sv el siguiente 9119 y para el tren Os 9122.
@@ -205,27 +208,19 @@ El IE fue notificado por el despachador «A» de acuerdo con el plan de notifica
 
 ## Página 10
 
-2.1.3 Decisión de iniciar la investigación de las causas y circunstancias de la ocurrencia, composición del equipo de personas técnicamente cualificadas y método de conducción de la investigación de las causas y circunstancias de la ocurrencia
-
-La Inspección Ferroviaria (DI) inició la supervisión y la investigación de las causas y circunstancias de la ocurrencia de accidente (MU) de conformidad con lo dispuesto en el apartado (1) del artículo 53b de la Ley, en el lugar de ocurrencia del accidente. Sobre la base de los hechos constatados, no fue necesario constituir un equipo de inspectores superiores de la DI; la investigación y la investigación de las causas y circunstancias de la ocurrencia del accidente fueron encomendadas a un inspector superior (en adelante, VI) de la Inspección Territorial de Praga (en adelante, ÚI Praga). El método de actuación se determinó de manera operativa según el desarrollo de la investigación, incluida la utilización de consultas con otras personas técnicamente cualificadas de la DI. Durante la investigación se tuvieron en cuenta los conocimientos propios de la DI, las constataciones en el lugar del accidente, incluida la evaluación de la documentación fotográfica realizada y las mediciones efectuadas, las constataciones derivadas de los controles estatales realizados, así como la documentación elaborada por el gestor de infraestructura y el transportista ferroviario ČD, a. s. (en adelante, gestor), incluidos los Actas de declaración explicativa con los empleados participantes, elaboradas por el gestor y la Policía de la República Checa (PČR).
-
-La recomendación de seguridad se adoptó sobre la base de los resultados y conclusiones del estudio técnico encargado por la Inspección Ferroviaria en relación con los hechos que surgieron durante el procedimiento judicial llevado ante el Juzgado de Distrito de Benešov en el caso de que nos ocupa.
-
-### 2.2 Circunstancias del incidente excepcional
-
-### 2.2.1 Empleados del gestor de infraestructura y del transportista participantes, personas en relación contractual y otros participantes y testigos
-
-● conductor del tren Os 9122, empleado de ČD, a. s., DKV Praga;
-● conductor del tren Sv primer siguiente 9119, empleado de ČD, a. s., DKV Praga;
-● despachador «A» de la estación ferroviaria de Čerčany (ŽST Čerčany), empleado de ČD, a. s., de la estación ferroviaria de nudo (en adelante, užst.) Benešov u Prahy;
-● despachador «B» de la estación ferroviaria de Čerčany (ŽST Čerčany), empleado de ČD, a. s., de la estación ferroviaria de nudo (užst.) Benešov u Prahy;
-● señalero del cuadro de señales n.º 1, empleado de ČD, a. s., de la estación ferroviaria de nudo (užst.) Benešov u Prahy;
-● señalero del cuadro de señales n.º 2, empleado de ČD, a. s., de la estación ferroviaria de nudo (užst.) Benešov u Prahy;
-
-2.2.2 Trenes y su composición, incluidos los números de registro de cada vehículo ferroviario
-
+2.1.3 Decisión de iniciar la investigación de las causas y circunstancias de su producción, composición del equipo de personas cualificadas y forma de dirigir la investigación de las causas y circunstancias de su producción
+DI inició la supervisión y la investigación de las causas y circunstancias de su producción de la MU de conformidad con lo dispuesto en el § 53b apartado (1) de la ley en el lugar de producción de la MU. Sobre la base de los hechos constatados, no fue necesario constituir un equipo de inspectores superiores de DI; la investigación y la investigación de las causas y circunstancias de la producción de la MU fueron encomendadas al inspector superior (en adelante VI) de la Inspección Territorial de Praga (en adelante ÚI Praga). El procedimiento se estableció operativamente según el desarrollo de la investigación, incluido el uso de consultas con otras personas cualificadas de DI. En la investigación se partió de los propios conocimientos de DI, de los hallazgos en el lugar de la MU, incluida la evaluación de la fotodocumentación realizada y de las mediciones efectuadas, de los hallazgos de las supervisiones estatales realizadas y, asimismo, de la documentación elaborada por el operador de la vía y del transporte ferroviario ČD, a. s. (en adelante operador), incluidas las Atestaciones de declaración de explicaciones con los empleados implicados, realizadas por el operador y por la PČR.
+La recomendación de seguridad se adoptó sobre la base de los resultados y conclusiones del estudio técnico encargado por la Inspección Ferroviaria en relación con los hechos que surgieron durante el procedimiento seguido ante el Juzgado de Distrito de Benešov en el asunto en cuestión.
+### 2.2 Circunstancias del suceso excepcional
+### 2.2.1 Empleados implicados del operador de la vía y del transportista, personas en relación contractual y otros implicados y testigos
+●maquinista del tren Os 9122, empleado de ČD, a. s., DKV Praga;
+●maquinista del tren Sv první násled 9119, empleado de ČD, a. s., DKV Praga;
+●jefe de estación "A" ŽST Čerčany, empleado de ČD, a. s., estación ferroviaria de enlace (en adelante užst.) Benešov u Prahy;
+●jefe de estación "B" ŽST Čerčany, empleado de ČD, a. s., užst. Benešov u Prahy;
+●señalero de la caja de señales n.º 1, empleado de ČD, a. s., užst. Benešov u Prahy;
+●señalero de la caja de señales n.º 2, empleado de ČD, a. s., užst. Benešov u Prahy;
+2.2.2 Trenes y su composición, incluidos los números de registro de los distintos vehículos ferroviarios
 Tren R-633 – HDV 363.053-0
-
 1. DV - 51 54 20-41 880-5
 2. DV - 51 54 20-41 679-1
 3. DV - 51 54 20-41 761-7
@@ -234,12 +229,11 @@ Tren R-633 – HDV 363.053-0
 6. DV - 50 54 95-40 031-7
 7. DV - 51 54 82-70 092-6
 8. DV - 51 54 19-41 106-8
-
-Longitud total del tren: 216 metros, 36 ejes, masa total: 448 toneladas. Porcentaje de frenado necesario: 103 %, porcentaje de frenado real: 114 %.
-
-El HDV disponía de un certificado de aptitud válido y los DV tenían una revisión técnica válida.
+Longitud total del tren 216 metros, 36 ejes, peso total 448 toneladas. Porcentajes de frenado necesarios 103 %, porcentajes de frenado reales 114 %.
+El HDV contaba con un certificado de aptitud válido y los DV tenían una revisión vigente.
 
 ## Página 11
+
 
 Tren Os 9122:
 
@@ -285,64 +279,71 @@ En el lugar de la colisión no se realizaron actividades que tuvieran influencia
 
 ## Página 12
 
-9119 del perímetro para la comprobación de la vía libre del tren por parte del conmutador de la central de señales St. 1. El conmutador de la central de señales St. 1 no fue informado por los despachadores de este cambio. Aquí se desconectaron ambas unidades eléctricas en composiciones para el tren Os 9122 hacia la estación central de Praga (žst. Praha hl. nádraží) y la composición para el tren Sv el siguiente 9119 hacia la estación de Benešov u Pragy.
-### 2.2.6 Activación del plan de emergencia en la vía y secuencia de los acontecimientos
-La activación del plan se llevó a cabo de conformidad con el decreto n.º 376 y, además, con la norma interna del explotador CD D17 - Norma para la notificación e investigación de las MU.
-El despachador «A» de la estación de Čerčany notificó la aparición de una MU de acuerdo con el plan de notificación.
-La investigación en nombre del explotador la realizó el inspector jefe del RIBDŽ de Praga, persona autorizada para la investigación de las causas y circunstancias de la aparición de la MU. También estuvieron presentes en la investigación otros empleados del explotador con la cualificación profesional adecuada.
-Por parte del DI, el VI del ÚI de Praga estuvo presente en el lugar de la MU, siendo posteriormente nombrado viceministro del inspector general del DI y director del ÚI de Praga. Realizaron la inspección comisionada del lugar de la MU, incluida la elaboración del acta. En el lugar se tomó documentación fotográfica, se garantizó la documentación del tren y se extrajo de la locomotora R 633 la cinta registradora de velocidad para evaluar la evolución del viaje antes de la aparición de la MU. Todos los empleados del explotador participantes en la MU fueron sometidos a pruebas de alcoholemia con resultado negativo.
-La inspección del equipo de seguridad la realizó, antes de la llegada del DI, el responsable del centro de operaciones de la Dirección de Tecnología de Comunicación y Seguridad de Praga Oeste, tras lo cual se canceló la vía libre para el R 633.
-Las actas forman parte del expediente.
-### 2.2.7 Activación del plan del sistema integrado de rescate, la policía y los servicios de rescate sanitario y secuencia de los acontecimientos
-En el lugar de la MU intervinieron la unidad de respuesta de los Servicios de Bomberos y Rescate de CD, a. s., los sanitarios del Servicio de Rescate Rápido de Praga y la Policía de la República Checa. Para la eliminación de las consecuencias de la MU se utilizó la unidad de grúa de accidentes n.º 296 de la DKV de Praga con la asistencia de los Servicios de Bomberos y Rescate de CD, a. s. La MU fue investigada en el lugar por la Policía de la República Checa, la Oficina Regional de Benešov, con el expediente registrado bajo el número: ORBN-1604/TČ-70-2007.
-Se respetó el procedimiento según el plan de notificación de los Ferrocarriles Checos, a. s.
-### 2.3 Muertes, lesiones y daños materiales
-2.3.1 En viajeros y terceros, empleados del explotador de la vía y del transportista, incluidas las personas en relación contractual
-En la MU falleció el maquinista del tren Os 9122, nacido en 1954. Además, el maquinista del tren R 633, nacido en 1969, sufrió lesiones.
-En el tren R 633, 5 viajeros sufrieron lesiones leves y fueron atendidos en el hospital de Benešov.
-### 2.3.2 En las mercancías transportadas, equipajes y otros bienes
-No se registraron daños en las mercancías transportadas, equipajes ni otros bienes.
-
+9119 en el ámbito de la comprobación de la disponibilidad del camino de tren por parte de los señalistas de la estación de maniobras St. 1. De este movimiento no fue informado el señalista de la estación de maniobras St. 1 por los jefes de estación. Aquí se desconectaron ambos trenes eléctricos en formaciones para el tren Os 9122 a la est. Praha hl. nádraží y la formación para el tren Sv primera consecuencia 9119 a la est. Benešov u Prahy.
+### 2.2.6 Activación del plan para el caso de incidencia excepcional en la vía y secuencia de acontecimientos
+La activación del plan se realizó de conformidad con el decreto n.º 376 y, además, con la norma interna del operador ČD D17 - Norma para la notificación e investigación de la incidencia excepcional (MU).
+La incidencia excepcional (MU) fue notificada por el jefe de estación "A" de la est. Čerčany según el cuadro de notificaciones.
+La investigación por parte del operador fue realizada por el inspector superior RIBDŽ Praha, persona encargada de determinar las causas y circunstancias de la incidencia excepcional (MU). A la investigación estuvieron presentes también otros empleados del operador competentes en la materia.
+Por la DI, en el lugar de la incidencia estuvo presente el VI ÚI Praha, posteriormente el subdirector del inspector general de la DI y el director del ÚI Praha. Realizaron la inspección conjunta del lugar de la incidencia, incluida la elaboración del acta. En el lugar se realizó documentación fotográfica, se aseguró la documentación del tren y del HDV del tren R 633 se extrajo la banda registradora de velocidad para evaluar el transcurso de la marcha antes de la incidencia. Todos los empleados del operador implicados en la incidencia fueron sometidos a la prueba de alcoholemia con resultado negativo.
+La inspección del dispositivo de seguridad fue realizada, antes de la llegada de la DI, por el jefe del centro de explotación de la Dirección de técnica de telecomunicaciones y seguridad Praha západ, posteriormente se canceló el camino de tren para el R 633.
+Los actas forman parte del expediente.
+### 2.2.7 Activación del plan del sistema integrado de emergencia, policía y servicio de emergencia sanitaria y secuencia de acontecimientos
+En el lugar de la incidencia actuó la unidad de intervención del HZS ČD, a. s., los sanitarios del servicio de emergencia sanitaria rápida de Praha y la Policía ČR. Para eliminar las consecuencias de la incidencia se utilizó la unidad de grúa de accidente n.º 296 del DKV Praha con asistencia del HZS ČD, a. s. La incidencia en el lugar fue investigada por la PČR, OŘ Benešov, expediente llevado bajo el número: ORBN-1604/TČ-70-2007.
+Se cumplió el procedimiento según el cuadro de notificaciones de České dráhy, a. s.
+### 2.3 Fallecimientos, lesiones y daños materiales
+2.3.1 En pasajeros y terceras personas, empleados del operador de la vía y del transportista, incluidas personas en relación contractual
+En la incidencia fue muerto el maquinista del tren Os 9122, nacido en 1954. Además, sufrió daño a la salud el maquinista del tren R 633, nacido en 1969.
+En el tren R 633, 5 pasajeros sufrieron un daño leve a la salud y fueron atendidos en el hospital de Benešov.
+### 2.3.2 En las cosas transportadas, equipaje y otros bienes
+En las cosas transportadas, el equipaje ni en otros bienes se detectó ningún daño.
 
 ## Página 13
 
-### 2.3.3 En los vehículos ferroviarios, componentes de la vía de circulación y en el medio ambiente
-En la MU se produjeron daños:
-HDV 363.053-0, mediante la inspección comisionada del estado técnico realizada en la DKV de Pilsen el 24.07.2007, se cuantificó el daño en 3 126 000,- Kč.
-DV 451.048-3, 051.047-9, 051.048-7, 451.047-5, mediante la inspección comisionada del estado técnico realizada el 24.07.2007 en la DKV de Praga, PS Čerčany, se cuantificó el daño en 846 443,-Kč.
-DV 451.019-4, 051.019-8, 051.020-6, 451.020-2, mediante la inspección comisionada del estado técnico realizada el 20.07.2007 en la DKV de Praga, se cuantificó el daño en 100 000,- Kč.
-Se cuantificaron los daños en la superestructura ferroviaria y en la catenaria en 16 773,- Kč.
-El daño total asciende a 4 089 216,- Kč.
+### 2.3.3 En el material rodante, en los componentes de la vía de circulación y en el medio ambiente
+En el accidente se produjeron daños en:
+HDV 363.053-0, la comisión de inspección del estado técnico en DKV Plzeň el 24. 07. 2007
+fijó el importe de los daños en 3 126 000,- Kč.
+DV 451.048-3, 051.047-9, 051.048-7, 451.047-5, la comisión de inspección del estado técnico
+el 24. 07. 2007 en DKV Praha, PS Čerčany, fijó el importe de los daños en 846 443,-Kč.
+DV 451.019-4, 051.019-8, 051.020-6, 451.020-2, la comisión de inspección del estado técnico
+el 20. 07. 2007 en DKV Praha fijó el importe de los daños en 100 000,- Kč.
+En la superestructura de la vía y en la línea aérea de contacto se fijó el importe de los daños en 16 773,- Kč.
+El importe total de los daños asciende a 4 089 216,- Kč.
 ### 2.4 Circunstancias externas
 ### 2.4.1 Condiciones meteorológicas y datos geográficos
-Clima +22 °C, despejado, calma, visibilidad no reducida.
-## 3 REGISTRO DE LAS EXPLICACIONES PRESTADAS
-### 3.1 Resumen de las explicaciones prestadas (sujetas a la protección de la identidad de las personas) y sobre la investigación técnica de las causas de la aparición de la situación extraordinaria
-### 3.1.1 Empleados del explotador de la vía y del transportista, incluidas las personas en relación contractual
-Las explicaciones protocolarias sobre la MU las prestaron:
-El despachador «A» en el «Acta con el empleado» indicó, entre otras cosas, que:
-debido a las actividades de interrupción del servicio, el turno fue exigente;
+Tiempo +22 °C, despejado, calma, visibilidad no reducida.
+## 3 REGISTRO DE LAS EXPLICACIONES PRESENTADAS
+### 3.1 Resumen de las explicaciones presentadas (sujetas a la protección de la identidad de las personas) y del peritaje sobre las causas de la aparición del accidente ferroviario
+### 3.1.1 Empleados del gestor de la infraestructura y del transportista, incluidas personas en relación contractual
+Las explicaciones protocolarias sobre el accidente ferroviario las presentaron:
+El jefe de estación «A» en el «Registro con el empleado» indicó, entre otras cosas, que:
+debido a las actividades de intervención, el servicio fue exigente;
 –
-tras la salida del tren 9205 hacia Sázava a las 9:50 horas, solicitó al despachador «B» si podía mantener el turno
+tras la salida del tren 9205 hacia Sázavu a las 9:50 horas, pidió al jefe de estación «B» si
 –
-por un momento, ya que necesitaba satisfacer una necesidad personal y comprar algo de comer;
-el compañero estuvo de acuerdo, por lo que le informó de la situación del tráfico y luego
+podría mantener el servicio un momento, ya que necesitaba atender una necesidad personal
+y comprar algo de comer;
+el colega estuvo de acuerdo, por lo que le informó de la situación de circulación y luego salió
 –
-abandonó la oficina de tráfico, no realizaron la entrega del servicio por escrito;
-cuando regresó a las 10:06 horas, oyó un fuerte golpe, corrió hacia la oficina de tráfico y en el camino
+de la oficina de circulación, no realizaron la entrega escrita del servicio;
+cuando regresó a las 10:06 horas, oyó un fuerte golpe, corrió a la oficina de circulación y
 –
-vio que se había producido una colisión entre el tren rápido y el pantógrafo situado en la primera vía de estación;
-llamó inmediatamente al despachador de trenes, le notificó la aparición de la MU y simultáneamente solicitó
+en el camino vio que se había producido una colisión de un tren rápido con un pantógrafo
+estacionado en la vía de estación n.º 1;
+llamó inmediatamente al despachador de trenes, le informó de la aparición del accidente
 –
-el corte de la catenaria. Luego llamó a los servicios de rescate y a la PČR y detuvo el tráfico en todas las direcciones;
-a las 10:30 horas canceló la vía libre para el tren R 633, para poder establecer la vía libre para el tren Os 9122
+ferroviario y al mismo tiempo pidió que se desconectara la línea aérea de contacto. Luego
+llamó al servicio de emergencias y a la PČR y detuvo la circulación en todas las direcciones;
+a las 10:30 horas canceló la ruta de tren para el tren R 633, para poder establecer la ruta
 –
-desde Benešov, para el cual se había establecido la vía libre, no la verificó en el dispositivo de control;
-no recibió el tren R 633, no lo anotó en el diario de tráfico, ni preparó
+de tren para el tren Os 9122 desde Benešov, para el que ya se había establecido la ruta de
+tren, no la verificó en el dispositivo de mando;
+no recibió el tren R 633, no lo registró en el diario de circulación, ni realizó la preparación
 –
-la vía libre para él, por lo que supone que lo hizo el despachador «B».
+de la ruta de tren para él, por lo que presume que lo hizo el jefe de estación «B».
 
 ## Página 14
+
 
 El despachador de tráfico «B» no fue capaz de proporcionar explicaciones inmediatamente después de la aparición del incidente y, posteriormente, fue declarado incapaz de trabajar por un médico.
 En el acta oficial de la Policía de la República Checa, entre otras cosas, se indicó que:
@@ -394,8 +395,8 @@ El señalero del pabellón St. 2, en el «Acta con el empleado», entre otras co
 se incorporó al servicio en el pabellón de señalización St. 2 sobrio y descansado, se familiarizó con la
 –
 
-
 ## Página 15
+
 
 situación y tomó el relevo del servicio;
 el turno transcurrió sin incidencias hasta la llegada del tren R 633;
@@ -429,45 +430,47 @@ Me presenté como R 633 a la escucha. El despachador de tráfico se hizo oír y 
 
 ## Página 16
 
-configurada a la velocidad requerida de 40 km/h. Me acercaba al edificio de la estación. Avisté al despachador de tráfico, con gorra roja, que estaba de pie al final del andén cubierto frente a la oficina de tráfico y observaba mi conducción. Luego me hizo un gesto de saludo. En el momento en que la parte frontal de la locomotora salió de la curva, me di cuenta de que circulaba por una vía ocupada. Apliqué inmediatamente el freno de emergencia y, mediante la bocina de la locomotora, emití de forma continua la señal de «Atención». Con mi visión periférica vi que el despachador de tráfico se llevaba las manos a la cabeza. Vi al maquinero en la plataforma del pantógrafo, que se levantó rápidamente y corrió por el pasillo hacia el espacio destinado a los viajeros. Nuestra mirada se cruzó por un instante. En mi interior me decía «corre, corre». Dada la eficacia comprobada del freno en la marcha anterior, hasta el último momento creí que me detendría antes del pantógrafo. Sin embargo, se produjo el impacto contra el tren. Quedé atrapado tras el panel de control. Sentía presión en la pierna derecha. La primera persona que me dirigió la palabra fue una joven, a la que pregunté qué había ocurrido con los viajeros. Dijo que estaban bien. Acto seguido llegaron los bomberos, que me rescataron cortando el panel de control y me sacaron en camilla. 
-Pregunta: «¿Sabe cómo debe conducir el maquinero el tren cuando se le da la señal de "Entrada autorizada"»?
-Respuesta: «Sí, lo sé. Es una conducción ordenada según las condiciones de visibilidad. Esto significa que debo circular a una velocidad que me permita detenerme antes de los vehículos en la vía común de circulación, según las posibilidades, y también antes de cualquier otro obstáculo».
-Pregunta: «¿Cuál era la velocidad máxima a la que podía circular en caso de entrada a la estación de Čerčany con el tren R 633»?
-Respuesta: «Máximo 40 km/h». 
-Pregunta: «¿Quiere añadir algo más al caso mencionado»?   
-Respuesta: «Sí, quiero. En relación con la pregunta sobre la conducción según las condiciones de visibilidad. La información, que para mí constituía una instrucción en el sentido del reglamento D2 respecto al modo de conducción, no me suscitó ninguna duda sobre su veracidad y, por tanto, podía considerar fundadamente que la vía del tren estaba libre y que no había ningún vehículo ferroviario ni otro obstáculo en ella. También me basaba en lo dispuesto en el Decreto 173/95 Coll., que define las condiciones de la conducción según las condiciones de visibilidad. 
-Para concluir, quiero expresar mi sincera pesar por lo ocurrido, pero en ningún caso podía presuponer que recibiría una información errónea». 
-El maquinero del tren Sv primero siguiente 9119 en el «Acta con el empleado» indicó, entre otras cosas: De Senohrab a Čerčany circulaba con el tren Os 9119 por la 2.ª vía de la línea. Con la señal «Entrada autorizada» entré en Čerčans a la 1.ª vía de estación. Abrí las puertas, dejé bajar a los viajeros, luego cerré las puertas y avancé el tren aproximadamente un coche en dirección a Benešov, según las instrucciones del despachador «B», que necesitaba liberar el andén para la 3.ª vía de estación. Junto con el segundo maquinero, separamos los coches. En la oficina de tráfico se me comunicó que el tren permanecería como estaba y, tras finalizar las obras, circularía como el primer tren siguiente 9119 hacia Benešov. Me retiré a la plataforma y esperé. Estaba sentado tras el panel de control y noté que en el semáforo de salida hacia Benešov brillaba la señal «Vía libre». En ese momento sentí el impacto y comprobé la pérdida de tensión. Asomé la cabeza por la ventana y vi la parte trasera del coche hasta debajo del cable aéreo de contacto. Aseguré la unidad y me dirigí hacia atrás. La señal «Vía libre» en el semáforo de salida seguía brillando incluso después del impacto.
-Los registros por escrito forman parte del expediente de investigación.
+ajustada a la velocidad requerida de 40 km/h. Me acercaba al edificio de tráfico. Vi al jefe de estación con gorra roja, de pie en el extremo del refugio delante de la oficina de tráfico, observando mi marcha. Luego me saludó con un gesto. En el momento en que el frontal de la unidad motriz salió del arco, comprobé que circulaba por una vía ocupada. Inmediatamente apliqué el frenado de acción rápida y con la bocina de la locomotora emití de forma ininterrumpida la señal «Peligro». Con la visión periférica vislumbré que el jefe de estación se agarraba la cabeza. Vi al maquinista en el puesto del pantógrafo, levantarse rápidamente y correr por el pasillo hacia la zona para pasajeros. Nuestras miradas se cruzaron un instante. En mi pensamiento decía «corre, corre». Dado el efecto del freno verificado en el viaje anterior, hasta el último momento creí que me detendría delante del pantógrafo. Sin embargo, se produjo el choque contra el tren. Quedé atrapado detrás de la mesa de mando. Sentía presión en la pierna derecha. La primera persona que me habló fue una chica a la que pregunté qué había pasado con los pasajeros. Dijo que estaban bien. Luego llegaron los bomberos y me extrajeron del puesto y me sacaron en camilla.
+Pregunta: «¿Sabe cómo debe circular un maquinista con un tren si lo hace bajo señal de llamada?»
+Respuesta: «Sí, lo sé. Es una marcha reglada según las condiciones de visibilidad. Significa que debo circular a una velocidad que me permita detenerme delante de los vehículos de la vía de circulación común y, según las posibilidades, también delante de otro obstáculo».
+Pregunta: «¿A qué velocidad máxima podía circular en el caso de la entrada en la estación de Čerčany con el tren R 633?»
+Respuesta: «Como máximo 40 km/h».
+Pregunta: «¿Desea añadir algo más sobre el caso indicado?»
+Respuesta: «Sí, deseo. Sobre la cuestión relativa a la marcha según las condiciones de visibilidad. La información que para mí constituía una instrucción en el sentido del reglamento D2 sobre la forma de circular, esta información no me suscitó ninguna duda sobre su veracidad y por tanto podía razonablemente suponer que mi vía de tren estaba libre y que no se encontraba en ella ningún vehículo ferroviario ni otro obstáculo. Partía también de lo dispuesto en el Decreto 173/95 Sb., que define las condiciones de circulación según las condiciones de visibilidad.
+Para concluir, quiero expresar mi sincero pesar por lo ocurrido, pero en ningún caso podía suponer que recibiría una información errónea.»
+El maquinista del tren Sv primera nsl. 9119, en el «Registro con el empleado», entre otras cosas, indicó: De Senohraby a Čerčany circulé con el tren Os 9119 por la 2.ª vía de tráfico. Con la señal «Señal de llamada» entré en Čerčany por la 1.ª vía de estación. Abrí las puertas, dejé bajar a los pasajeros, luego cerré las puertas y adelanté el tren aproximadamente un tren completo hacia Benešov según las instrucciones del jefe de estación «B», que necesitaba liberar el andén para la tercera vía de estación. Junto con el segundo maquinista, desacoplamos los trenes. En la oficina de tráfico se me comunicó que el tren permanecería como estaba y que, tras finalizar la interrupción, circularía como primera nsl. 9119 hacia Benešov. Me fui al puesto y esperé. Estaba sentado detrás de la mesa de mando y noté que en la señal de salida hacia Benešov estaba la señal «Libre». En ese momento sentí un golpe y comprobé la pérdida de tensión. Asomé la ventana y vi el último vagón hasta debajo del hilo de contacto. Aseguré la unidad y fui hacia atrás. La señal «Libre» en la señal de salida seguía encendida tras el choque.
+Los registros escritos forman parte del expediente MU.
 ### 3.1.2 Otras personas
 Otras personas no participaron en la explotación de la vía y del transporte ferroviario.
-
 
 ## Página 17
 
 ### 3.2 Sistema de garantía de la seguridad
-### 3.2.1 Organización marco y la forma en que se dictan y ejecutan las instrucciones
-Los requisitos de referencia para la explotación segura de la vía están establecidos en las siguientes normas jurídicas y procedimientos tecnológicos contenidos en los reglamentos internos del titular de la concesión:
-A) Normas jurídicas:
-A1) Obligaciones del titular de la concesión de la vía – § 22 apartado (1) de la ley:
-(1) El titular de la concesión de la vía está obligado
-a) explotar la vía para las necesidades del transporte ferroviario fluido y seguro, de conformidad con las reglas de explotación de la vía y la autorización oficial,
-b) emitir, a partir de la fecha de inicio de la explotación de la vía, un reglamento interno sobre la explotación de la vía y sobre la cualificación profesional y los conocimientos de las personas que garantizan la explotación de la vía, así como el modo de su verificación, incluido el sistema de formación periódica,
-c) garantizar que la explotación de la vía sea realizada por personas que estén capacitadas desde el punto de vista médico y profesional.
+### 3.2.1 Organización marco y forma en que se emiten y ejecutan las instrucciones
+Los requisitos de referencia para la explotación segura de la vía están establecidos en los siguientes 
+reglamentos legales y procedimientos tecnológicos contenidos en las normas internas 
+del explotador:
+A) Reglamentos legales:
+A1) Obligaciones del explotador de la vía – § 22 apartado (1) de la ley:
+(1) El explotador de la vía está obligado a
+a) explotar la vía para las necesidades del tráfico ferroviario fluido y seguro de acuerdo con las reglas para la explotación de la vía y la autorización administrativa,
+b) emitir, con efectos a partir de la fecha de inicio de la explotación de la vía, una norma interna sobre la explotación de la vía y sobre la competencia profesional y los conocimientos de las personas que garantizan la explotación de la vía y el método de su verificación, incluido el sistema de formación periódica,
+c) garantizar que la explotación de la vía la realicen personas que estén sanas y sean profesionalmente competentes.
 A2) Obligaciones del transportista – § 35 apartado (1) letras d), e), f), g) de la ley:
-(1) El transportista está obligado:
-d) en la explotación del transporte ferroviario, utilizar vehículos ferroviarios y equipos técnicos designados con un certificado de aptitud válido y en un estado técnico que corresponda a la aptitud aprobada,
-e) garantizar que los vehículos ferroviarios sean conducidos por personas que posean un certificado de aptitud para la conducción válido,
-f) garantizar que el transporte ferroviario sea realizado por personas que estén capacitadas desde el punto de vista médico y profesional,
-g) atenerse, en la explotación del transporte ferroviario, a las instrucciones del titular de la concesión de la vía dictadas durante la organización del transporte ferroviario.
-A3) El titular de la concesión de la vía y el transportista están obligados – § 49 apartado (3) letra b) de la ley:
-b) asegurar el lugar del incidente y realizar la documentación del estado en el momento de la aparición del incidente.
-A4) Medidas en el lugar del incidente – § 9 apartado (3) del Decreto n.º 376:
-(3) Las modificaciones del estado original en el lugar del incidente son admisibles hasta la llegada de los órganos competentes en el procedimiento penal y de los empleados de la Inspección Ferroviaria únicamente con el consentimiento del comandante de las operaciones de los componentes del sistema integrado de rescate. Si estas personas no intervienen, las modificaciones del estado original en el lugar del incidente son admisibles con el consentimiento de la persona autorizada del titular de la concesión de la vía o del transportista, de conformidad con el apartado 1, si se trata de la ejecución de trabajos de rescate, o de acuerdo con lo dispuesto en las normas jurídicas especiales. En estos casos, la persona autorizada elaborará un croquis con la indicación de la situación original y de los trabajos de desescombro realizados para la reanudación de la explotación de la vía y del transporte ferroviario, o bien el lugar (la situación original) se documentará mediante medios técnicos. La persona autorizada que dio la orden o el consentimiento para la ejecución de las modificaciones es responsable de la elaboración del croquis y de la documentación del lugar del incidente.
-A5) Interpretación de algunos términos – § 1 letras l), m), n), s) del Decreto n.º 173/1995 Coll., por el que se aprueba el reglamento de circulación ferroviaria, en su versión vigente, (en adelante, Decreto n.º 173):
-a efectos del presente Decreto se entenderá por
+(1) El transportista está obligado a:
+d) utilizar, en la explotación del tráfico ferroviario, vehículos ferroviarios y dispositivos técnicos designados con un certificado de aptitud vigente y en un estado técnico que corresponda a la aptitud aprobada,
+e) garantizar que los vehículos ferroviarios sean conducidos por personas que posean un certificado de aptitud para conducir vigente,
+f) garantizar que el tráfico ferroviario lo realicen personas que estén sanas y sean profesionalmente competentes,
+g) ceñirse, en la explotación del tráfico ferroviario, a las instrucciones del explotador de la vía emitidas al organizar el tráfico ferroviario.
+A3) El explotador de la vía y el transportista están obligados – § 49 apartado (3) letra b) de la ley:
+b) asegurar el lugar del suceso excepcional y realizar la documentación del estado en el momento de producirse el suceso excepcional.
+A4) Medidas en el lugar del suceso excepcional – § 9 apartado (3) del decreto n.º 376:
+(3) Los cambios del estado original en el lugar del suceso excepcional son admisibles hasta la llegada de las autoridades actuantes en el procedimiento penal y del empleado de la Inspección Ferroviaria, solo con el consentimiento del jefe de intervención de los servicios del sistema integrado de rescate. Si estas personas no intervienen, los cambios del estado original en el lugar del suceso excepcional son admisibles con el consentimiento de la persona autorizada por el explotador de la vía o por el transportista según el apartado 1, cuando se trate de la realización de trabajos de rescate, o de conformidad con lo dispuesto en las disposiciones legales especiales. En estos casos, la persona autorizada elaborará un croquis con la indicación de la situación original y de los trabajos de limpieza realizados para restablecer la explotación de la vía y del tráfico ferroviario, o, en su caso, el lugar (la situación original) se documentará por medios técnicos. La persona autorizada que haya dado la orden o el consentimiento para la realización de los cambios es responsable de la elaboración del croquis y de la documentación del lugar del suceso excepcional.
+A5) Interpretación de algunos términos – § 1 letras l), m), n), s) del decreto n.º 173/1995 Sb., por el que se aprueba el Reglamento de Circulación Ferroviaria, en su versión vigente, (en adelante, decreto n.º 173):
+a efectos del presente decreto se entiende por
 
 ## Página 18
+
 
 l) por la vía del tren, el tramo de vía en la estación con desvíos, destinado a la circulación del tren en cuestión,
 
@@ -513,8 +516,8 @@ A 10) Señales básicas – anexo 1 parte I. art. 1.5 del Decreto n.º 173:
 
 1. En la «Señal de llamada», el tren puede circular más allá del semáforo en una estación con desvíos bajo las condiciones de circulación según las condiciones de visibilidad.
 
-
 ## Página 19
+
 
 A 11) Condiciones de aptitud médica – § 1 apartado (1) del Decreto n.º 101/1995 Coll., reglamento sobre la aptitud médica y profesional para la explotación de la infraestructura ferroviaria y el tráfico ferroviario, en su versión vigente (en adelante, Decreto n.º 101):
 
@@ -556,6 +559,7 @@ Cada empleado designado para verificar la libertad de la vía del tren es plenam
 
 ## Página 20
 
+
 Los ámbitos de responsabilidad deben establecerse de manera que no se superpongan.
 (B4) Art. 467 – ČD D2:
 El despachador de tráfico es responsable de la emisión oportuna de la orden correcta para la preparación de la vía de circulación a todos los empleados que deban participar en la preparación de la vía de circulación y de la recepción del informe correcto sobre la vía de circulación preparada por parte de todos los empleados que participen en la preparación de la vía de circulación.
@@ -578,9 +582,10 @@ En las estaciones (desvíos) con sistema de señalización de velocidad, cuando 
 d) la velocidad de 40 km/h, si en la señal de entrada (de vía) hay «Señal de aproximación» y el tren entra:
 por una dirección distinta a la recta a la vía principal..... .
 –
-El gestor de la infraestructura estableció los procedimientos tecnológicos para las distintas actividades en sus 
+El gestor de la infraestructura estableció los procedimientos tecnológicos para las distintas actividades en sus
 
 ## Página 21
+
 
 normas internas.
 El Reglamento de Estación (en adelante, SŘ) de la estación de Čerčany, en el artículo 56, establece:
@@ -601,6 +606,7 @@ De acuerdo con las normas internas del gestor de la infraestructura, el cumplimi
 No aplica.
 
 ## Página 22
+
 
 ### 3.3 Marco jurídico y otras disposiciones
 ### 3.3.1 Normativa comunitaria y nacional aplicable
@@ -639,6 +645,7 @@ Con el fin de verificar la afirmación del maquinista, se realizó un control de
 
 ## Página 23
 
+
 antes del lugar de la colisión.
 
 Del acta se desprende que el maquinista del tren R 633, a la altura del edificio de señales St. 2, comenzó a aumentar la velocidad, pero desde este punto no era posible ver la señal de salida S1. El acta de este control, junto con la grabación de vídeo, forma parte del expediente del incidente (MU). La investigación determinó que el estado de los elementos de la vía no fue causa de la aparición del incidente (MU).
@@ -663,28 +670,28 @@ Según el registro en el diario de tráfico de la estación de Čerčany corresp
 
 ## Página 24
 
-### 3.5.2 Intercambio de mensajes verbales en relación con el incidente excepcional, incluidos los documentos del dispositivo de grabación
-Se extrajeron los datos del dispositivo de grabación REDAT y se realizó la transcripción de la grabación fonética de la comunicación entre el despachador «B» de la estación de Čerčany y el maquinista del tren R 633:
-10:05:27 despachador «B»:   «čerčaňák 633»
-10:05:33 despachador «B»:   «čerčaňák 633»
-10:05:41 maquinista:   «estoy a la escucha»
-10:05:42 despachador «B»:    «sí, tienes vía libre para la salida, jefe, sí»
-10:05:44 maquinista:   «bien, sí, gracias»
-La comunicación entre los despachadores «A» y «B», y entre el despachador y los señaleros, no fue grabada por el dispositivo de grabación; las conversaciones y las instrucciones emitidas durante la organización del tráfico ferroviario se indican únicamente en las explicaciones presentadas por los empleados participantes.
-### 3.5.3 Medidas adoptadas para la protección y aseguramiento del lugar del incidente excepcional
-El lugar del incidente excepcional (IE) no fue asegurado por el administrador de la infraestructura de conformidad con el Decreto n.º 376.
-El despachador «A», tras las medidas realizadas según el plan de notificación tras la aparición del IE, canceló automáticamente la vía de tren R 633 antes de obtener el consentimiento del centro de control de tráfico (DI) para iniciar las labores de limpieza, sin ser consciente de la violación de la normativa legal y de las normas internas del administrador. La razón para cancelar la vía de tren fue el intento de retirar los trenes que, en el momento de la aparición del IE, ya se encontraban en camino desde las estaciones vecinas.
-La inspección del estado del dispositivo de seguridad en la vía 2 inmediatamente después de la aparición del IE a las 10:20 horas fue realizada por el responsable del centro de operaciones de la Dirección de Tecnología de Comunicación y Seguridad de Praga, persona con cualificación profesional, empleado del administrador, como parte de la inspección del lugar del IE. La grabación forma parte del expediente.
-Este cambio del estado original en el lugar del IE no tuvo influencia en la determinación de las causas y circunstancias de la aparición del IE por parte del DI.
+### 3.5.2 Intercambio de mensajes verbales en relación con el suceso excepcional, incluidas las pruebas del dispositivo de registro
+Del dispositivo de registro REDAT se extrajeron los datos y se realizó la transcripción de la grabación fonética de la comunicación entre el jefe de estación "B" de la estación de Čerčany y el maquinista del tren R 633:
+10:05:27 jefe de estación "B":   "čerčaňák 633"
+10:05:33 jefe de estación "B":   "čerčaňák 633"
+10:05:41 maquinista:   "estoy en recepción"
+10:05:42 jefe de estación "B":    "sí, en la salida tienes libre, fíro, sí"
+10:05:44 maquinista:   "de acuerdo, sí, gracias"
+La comunicación entre los jefes de estación "A" y "B" y entre el jefe de estación y los señaleros no fue registrada por el dispositivo de registro; las conversaciones y las instrucciones emitidas durante la organización del tráfico ferroviario figuran únicamente en las explicaciones presentadas por los empleados implicados.
+### 3.5.3 Medidas adoptadas para la protección y la seguridad del lugar del suceso excepcional
+El lugar del suceso excepcional no fue asegurado por el gestor de la infraestructura de conformidad con el decreto n.º 376.
+El jefe de estación "A", tras las medidas realizadas conforme al horario de avisos después de la ocurrencia del suceso excepcional, según su declaración, canceló la vía de circulación del tren R 633 antes del consentimiento del DI para el inicio de los trabajos de retirada de forma automática, sin ser consciente de la infracción de la normativa legal y de las normas internas del gestor. El motivo de la cancelación de la vía de circulación fue el intento de asegurar la retirada de los trenes que, en el momento de la ocurrencia del suceso excepcional, ya se encontraban en camino desde las estaciones vecinas.
+La inspección del estado del dispositivo de señalización en la vía 2 inmediatamente después de la ocurrencia del suceso excepcional a las 10:20 horas fue realizada por el jefe del centro de explotación de la Dirección de Técnica de Comunicaciones y Señalización de Praga, persona cualificada profesionalmente, empleado del gestor, como parte de la inspección del lugar del suceso excepcional. El registro forma parte del expediente.
+Este cambio del estado original en el lugar del suceso excepcional no tuvo influencia en la determinación de las causas y circunstancias de la ocurrencia del suceso excepcional por parte del DI.
 ### 3.6 Condiciones laborales, sanitarias y de explotación
-### 3.6.1 Tiempo de trabajo de los empleados del administrador de la infraestructura y del transportista que fueron participantes del incidente
-La investigación determinó que el tiempo de trabajo de todas las personas participantes en el IE estaba en conformidad con el Código del Trabajo y, en su caso, con el horario de turnos de ČD, a. s.
-3.6.2 Estado de salud y situación personal que influyeron en el incidente excepcional, incluido el estrés físico o psicológico
-Según la documentación presentada por el administrador, todos los empleados participantes estaban médicamente aptos para el desempeño de su función en el momento de la aparición del IE, en el alcance establecido por el Decreto n.º 101, en su versión vigente. Las grabaciones por escrito forman parte del expediente del IE.
-Durante la investigación, a partir de la información sobre los resultados del procedimiento penal en este asunto ante el Juzgado de Distrito de Benešov, se reveló que el despachador «B» tenía capacidades de reconocimiento y control reducidas en el momento de la aparición del IE. A petición del DI, estos hechos fueron confirmados por el tribunal.
-
+### 3.6.1 Jornada laboral de los empleados del gestor de la infraestructura y del transportista que fueron partes en el suceso
+La investigación determinó que la jornada laboral de todas las personas implicadas en el suceso excepcional era conforme al Código del Trabajo o, en su caso, al horario de turnos de ČD, a. s.
+3.6.2 Estado de salud y situación personal que influyeron en el suceso excepcional, incluido el estrés físico o psicológico
+Según la documentación presentada por el gestor, todos los empleados implicados estaban, en el momento de la ocurrencia del suceso excepcional, aptos para el desempeño de la función que ocupaban en el ámbito del decreto n.º 101, en su versión vigente. Los registros escritos forman parte del expediente del suceso excepcional.
+Durante la investigación se obtuvo, a partir de la información sobre los resultados del procedimiento penal en este asunto ante el Juzgado de Distrito de Benešov, que el jefe de estación "B" tenía, en el momento de la ocurrencia del suceso excepcional, capacidades de reconocimiento y de control disminuidas. A petición del DI, estos hechos fueron confirmados por el tribunal.
 
 ## Página 25
+
 
 3.6.3 Disposición del equipamiento del puesto de control o del vehículo, que influye en su manejo y uso
 La investigación no determinó ninguna relación con la causa del IE.
@@ -703,6 +710,7 @@ A las 10:00 horas, el despachador «B» ordenó la preparación y el establecimi
 A las 10:00 horas, el despachador «B» inició la preparación de la vía de tren para el tren R 633 mediante
 
 ## Página 26
+
 
 en el diario de tráfico firmó la vía libre de la 1.ª vía de estación, a pesar de que esta se encontraba ocupada por composiciones para el tren Sv primero siguiente 9119 y para el tren Os 9122. Posteriormente, ordenó la preparación y el establecimiento de la vía de circulación para este tren desde la 2.ª vía de línea (llamada vía incorrecta) hacia la primera, y desde la primera vía, a ambos telegrafistas. La verificación de la vía libre de la vía de circulación la realizan los telegrafistas y el despachador «B» mediante la inspección visual. Ambos telegrafistas establecieron la vía de circulación para el paso del tren R 633 por la 1.ª vía de estación. Tras el establecimiento de la vía de circulación, en el semáforo de salida S1 de la 1.ª vía de estación se daba la indicación «Vía libre» y en el semáforo de entrada «S» la indicación «Indicación de aproximación».
 
@@ -728,25 +736,25 @@ Para garantizar el cumplimiento de estas obligaciones, es imprescindible respeta
 
 ## Página 27
 
-incorporados en los procedimientos tecnológicos contenidos en las normas internas del operador:
-A efectos de determinar las causas y las circunstancias de la colisión (MU) del 14.07.2007 en la estación de Čerčany, se evaluó especialmente el cumplimiento de:
-el artículo 22 apartado (1) letra c) de la ley (véase el punto 3.2. A1 del presente informe), el artículo 14 apartado (4) del Decreto n.º 173 (véase el punto 3.2. A6 del presente informe), el artículo 1 apartado (1), el artículo 4 apartado (1) letra b) apartado (3), el artículo 5 apartado (1) del Decreto n.º 101 (véanse los puntos 3.2. A11, A12, A13 del presente informe):
+incorporados en los procedimientos tecnológicos contenidos en las normas internas del gestor:
+Para los fines de la determinación de las causas y circunstancias de la creación del MU el 14. 07. 2007 en la est. Čerčany se evaluó especialmente el cumplimiento de:
+§ 22 apartado (1) letra c) de la ley (véase el art. 3.2. A1 de este informe), § 14 apartado (4) del decreto n.º 173 (véase el art. 3.2. A6 de este informe), § 1 apartado (1), § 4 apartado (1) letra b) apartado (3), § 5 apartado (1) del decreto n.º 101 (véase el art. 3.2. A11, A12, A13 de este informe):
 se constató que todas las personas que realizaban actividades en la explotación de la vía eran
 –
-técnicamente competentes;
-se constató que las personas que realizaban actividades en la explotación de la vía, o bien en el transporte ferroviario,
+competentes profesionalmente;
+se constató que las personas que realizaban actividades en la explotación de la vía, respectivamente en el transporte ferroviario
 –
-dirigían o participaban en la dirección del transporte ferroviario: el despachador «A» y los señalistas St. 1, St. 2,
-eran aptas desde el punto de vista médico. Según la constatación del operador, el despachador «B» también era médicamente apto (revisión preventiva realizada en febrero de 2007 sin problemas de salud graves); sin embargo, según el dictamen pericial (véase el punto 3.6.2 del presente informe), se detectó en él un trastorno psíquico que se manifestaba mediante «dolores de cabeza frecuentes». El interesado no hizo mención de este hecho durante la revisión médica preventiva. Según la declaración del tribunal, el trastorno psíquico, junto con la elevada carga de trabajo y el deterioro de las condiciones laborales, influyó en sus capacidades de percepción y control.
-Esta circunstancia grave hace necesario prevenir situaciones en las que, debido a una aptitud laboral (y simultáneamente psíquica) médica no detectada que se ha visto reducida, se ponga en peligro la seguridad del transporte ferroviario por parte de las personas que dirigen el transporte ferroviario.
-En el sentido del artículo 10 apartado 5 letra i) del Decreto n.º 376, se encargó a la DI (Inspección de Transporte Ferroviario) la elaboración de un estudio psicológico especializado centrado en la evaluación de la mencionada problemática.
-Mediante el estudio realizado se constató que los procesos degenerativos y degenerativos orgánicos incipientes en el SNC (Sistema Nervioso Central) son prácticamente indetectables mediante los procedimientos médicos habituales, que consisten principalmente en una exploración general, análisis de orina, análisis de sangre y pruebas de agudeza visual, percepción del color y audición. Las alteraciones degenerativas y degenerativas del SNC pueden manifestarse no solo con dolores de cabeza, sino también, por ejemplo, con acúfenos, deterioro de la memoria a corto plazo, temblores, etc., es decir, manifestaciones que pueden ser simuladas, ocultadas o minimizadas en gran medida durante la exploración médica. No obstante, la alteración orgánica del cerebro puede influir también en las funciones psíquicas como la atención, la memoria y el juicio.
-La exploración neurológica examina la calidad de los reflejos y la calidad de las conexiones nerviosas entre los receptores y el SNC, incluidas las funciones del SNC. Las lesiones cerebrales o las enfermedades del SNC pueden diagnosticarse mediante la aplicación de una exploración electroencefalográfica (EEG), que consiste en la captación y grabación de las corrientes generadas por la actividad cerebral. La exploración EEG es objetiva y reduce significativamente el riesgo de simulación de alteraciones de las funciones sensoriales y de problemas mentales. En la actualidad, se utiliza en las revisiones médicas preventivas de los maquinistas.
-La exploración de los empleados para los cuales el neurólogo indica la posibilidad de una alteración orgánica del SNC por parte de los psicólogos clínicos está fundamentada por la necesidad de utilizar en estos casos otros medios y procedimientos diagnósticos distintos a los empleados habitualmente para determinar la aptitud psíquica laboral mediante pruebas de ejecución, pruebas de atención y pruebas del nivel de los procesos cognitivos.
-El psicólogo clínico se centra en posibles cambios de personalidad del afectado, su estabilidad emocional, neuroticismo y las actitudes del individuo examinado hacia el entorno y hacia sí mismo. El psicólogo clínico puede emitir en estos casos un criterio más cualificado sobre si y en qué medida la constatación neurológica se refleja en el ámbito psíquico, y si y en qué medida las funciones psíquicas individuales se ven afectadas por la alteración nerviosa orgánica, y con ello la capacidad del individuo para hacer frente a las situaciones vitales y a las tareas laborales.
-Del contenido y las conclusiones del estudio especializado se desprende la necesidad de una medida preventiva eficaz
+dirigían o participaban en la dirección del transporte ferroviario – el jefe de estación "A" y los señaleros St. 1, St. 2., estaban sanamente aptos. El jefe de estación "B" era, según las constataciones del gestor, igualmente sanamente apto (revisión preventiva realizada en febrero de 2007 sin problemas de salud graves), sin embargo, según el dictamen pericial (véase el art. 3.6.2 de este informe), en él se constató una alteración psíquica que se manifestaba en que "padecía de frecuentes dolores de cabeza". De este hecho no informó al médico durante la revisión preventiva. La alteración psíquica, junto con el aumento del esfuerzo laboral y las condiciones laborales deterioradas, tuvo, según la declaración del tribunal, influencia en sus capacidades de reconocimiento y control.
+Esta circunstancia grave plantea la necesidad de prevenir situaciones en las que, como consecuencia de una aptitud laboral sanitaria (y simultáneamente psíquica) reducida no detectada de las personas que dirigen el transporte ferroviario, se vea amenazada la seguridad del transporte ferroviario.
+En el sentido del § 10 apartado 5 letra i) del decreto n.º 376, la DI encargó la elaboración de un estudio psicológico especializado con enfoque en la evaluación de la cuestión planteada.
+Mediante el estudio realizado se constató que los procesos degenerativos, degresivos orgánicos incipientes en el SNC son prácticamente imposibles de diagnosticar mediante los procedimientos médicos habituales, consistentes principalmente en un examen general, análisis de orina y sangre y exploración de la agudeza visual, la percepción cromática y el oído. Las alteraciones degenerativas, degresivas del SNC pueden manifestarse no solo con dolores de cabeza, sino también, por ejemplo, con zumbidos en los oídos, deterioro de la memoria a corto plazo, temblores, etc., es decir, manifestaciones que en una exploración médica se pueden en gran medida disimular, ocultar o minimizar. Sin embargo, una alteración orgánica del cerebro puede influir también en funciones psíquicas como la atención, la memoria y el juicio.
+La exploración neurológica examina la calidad de los reflejos y la calidad de las conexiones nerviosas de los receptores con el SNC, incluidas las funciones del SNC. El daño cerebral o la enfermedad del SNC se pueden diagnosticar mediante la exploración electroencefalográfica (EEG), registrando y grabando las corrientes de actividad cerebral generadas. La exploración EEG es objetiva, reduce notablemente el peligro de disimulación de la alteración de las funciones sensoriales y de las dificultades mentales. Actualmente se utiliza en las revisiones preventivas de los maquinistas.
+La exploración de los empleados a los que el neurólogo indica la posibilidad de un cambio orgánico del SNC por parte de psicólogos clínicos se fundamenta en la necesidad de utilizar en estos casos otras herramientas y procedimientos diagnósticos que en el caso de la determinación habitual de la aptitud laboral psíquica mediante tests de rendimiento, tests de atención y tests de nivel de los procesos cognitivos.
+El psicólogo clínico se centra en los posibles cambios de personalidad del afectado, su estabilidad emocional, su neuroticismo y las actitudes del individuo examinado hacia su entorno y hacia sí mismo. El psicólogo clínico puede en estos casos emitir un dictamen más cualificado sobre si y en qué medida el hallazgo neurológico se refleja en el ámbito psíquico, y si y en qué medida las funciones psíquicas individuales están afectadas por la alteración nerviosa orgánica, y con ello también la capacidad del individuo para afrontar las situaciones vitales y las tareas laborales.
+Del contenido y de las conclusiones del estudio especializado se desprende la necesidad de una medida preventiva eficaz
 
 ## Página 28
+
 
 para excluir la posible influencia de los cambios del estado de salud en función de la edad en las personas que dirigen el transporte ferroviario mayores de 50 años.
 el artículo 35 apartado (1) letras d), e), f), g) de la ley (véase el punto 3.2. A2 del presente informe):
@@ -774,6 +782,7 @@ para las actividades de dirección de las unidades motrices,
 –
 
 ## Página 29
+
 
 no garantó su cumplimiento, especialmente las disposiciones establecidas en el artículo 3.2, apartados B1, B2, B3, B4, B5, B6, B7, B8 del presente informe.
 
@@ -808,34 +817,24 @@ No se detectaron.
 
 ## Página 30
 
-### 4.3.3 Causas derivadas del marco normativo y del uso del sistema de garantía de la seguridad
-
-No se detectaron.
-
+### 4.3.3 Causas que se deben al marco normativo y al uso del sistema de garantía de la seguridad
+No se han detectado.
 ### 4.4 Hallazgos complementarios
-
-### 4.4.1 Deficiencias y omisiones detectadas durante la investigación de las causas y circunstancias de la producción del incidente extraordinario, que sin embargo no son relevantes para las conclusiones sobre las causas
-
-Las Instrucciones de Estación de Čerčany (SŘ žst. Čerčany) establecen la obligación de que los despachadores de tráfico se transmitan el servicio de forma personal, por escrito y verbalmente. La entrega del servicio por escrito del día 14 de julio de 2007 a las 09:50 horas no se realizó.
-
-El despachador de tráfico «A», tras realizar las medidas según el plan de notificaciones, canceló en el equipo de seguridad la vía del tren preparada para el tren R 633, sin que se hubiera emitido el consentimiento del Inspector de Tráfico (DI) para iniciar las labores de desescombro.
-
+### 4.4.1 Deficiencias y omisiones detectadas durante la investigación de las causas y circunstancias del suceso ferroviario, que sin embargo no son relevantes para las conclusiones sobre las causas
+El Reglamento de la estación de Čerčany establece la obligación de que los jefes de estación se entreguen el servicio personalmente, por escrito y verbalmente. La entrega escrita del servicio del día 14 de julio de 2007 a las 09:50 horas no se realizó.
+El jefe de estación «A», tras las medidas adoptadas según el horario de anuncios, canceló en el aparato de enclavamiento la vía de tren establecida para el tren R 633, sin que el DI hubiera emitido el consentimiento para el inicio de los trabajos de limpieza.
 ## 5 MEDIDAS ADOPTADAS
-
-### 5.1 Relación de las medidas que ya se han adoptado o tomado como consecuencia del incidente extraordinario
-
-En la reunión extraordinaria del Consejo Superior del Jefe de la Inspección de Estaciones de Benešov u Prahy, se informó a todos los empleados afectados de los resultados de la investigación del incidente extraordinario en cuestión.
-Fecha límite: 30.9.2007
-
-Realizar una vez cada 14 días un control de todos los puestos de trabajo operativos en el ámbito de la estación de Čerčany.
-Fecha límite: permanente
-
-Realizar una vez a la semana un control de todos los puestos de trabajo operativos en el ámbito de la estación de Čerčany por parte de los empleados con la función de supervisor de tráfico.
-Fecha límite: permanente
-
-Con los empleados de la Inspección de Estaciones de Benešov u Prahy, corresponsables de la producción de este incidente extraordinario, se tramitará su grave infracción de la disciplina laboral conforme a la Ley del Trabajo (ZP).
+### 5.1 Lista de medidas que ya se han tomado o adoptado como consecuencia del suceso ferroviario
+En la junta asesora extraordinaria del Jefe de la estación de Benešov u Prahy, informar a todos los empleados afectados de los resultados de la investigación del mencionado suceso ferroviario.
+Plazo: 30.9.2007
+Una vez cada 14 días, realizar una inspección de todos los puestos de trabajo operativos en el ámbito de la estación de Čerčany.
+Plazo: permanente
+Una vez por semana, realizar una inspección de todos los puestos de trabajo operativos en el ámbito de la estación de Čerčany por parte de los empleados con la función de supervisor de explotación.
+Plazo: permanente
+Con los empleados de la estación de Benešov u Prahy corresponsables de la causación de este suceso ferroviario se discutirá su grave incumplimiento de la disciplina laboral conforme al Estatuto de los Trabajadores.
 
 ## Página 31
+
 
 ## 6 RECOMENDACIONES DE SEGURIDAD
 
@@ -859,16 +858,18 @@ Inspección Territorial de Praga
 
 ## Página 32
 
+
 ## 7 ANEXOS
 
 Foto 1: Vista desde la dirección de circulación del tren R 633
 
 ## Página 33
 
-Foto 2: Posición de los vehículos ferroviarios (DV) tras la colisión, vista por el lado izquierdo de la circulación del tren R 633
-Foto 3: Posición de los vehículos ferroviarios (DV) tras la colisión, vista por el lado derecho de la circulación del tren R 633
+Foto 2: Posición del DV tras la colisión desde el lado izquierdo de la circulación r 633
+Foto 3: Posición del DV tras la colisión desde el lado derecho de la circulación del tren R 633
 
 ## Página 34
+
 
 Foto 4: Cabina deformada del vehículo de tracción HDV 451.048-3
 Foto 5: Cabina del maquinista del tren R 633 tras el impacto

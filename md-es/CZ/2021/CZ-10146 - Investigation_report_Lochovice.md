@@ -10,13 +10,14 @@ chars: 97580
 ratio_longitud: 1.25
 tokens_in: 48075
 tokens_out: 34478
-verificacion: revisar
-notas_cifras: ["bloque 1: original bilingüe: se compara contra el idioma principal (CS)", "bloque 3: original bilingüe: se compara contra el idioma principal (CS)", "bloque 4: original bilingüe: se compara contra el idioma principal (CS)", "bloque 5: cifras cortas: 1/424", "bloque 6: original bilingüe: se compara contra el idioma principal (CS)"]
-avisos: ["bloque 6: ratio 1.82"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 3: original bilingüe: se compara contra el idioma principal (PT)", "página 5: original bilingüe: se compara contra el idioma principal (CS)", "página 6: original bilingüe: se compara contra el idioma principal (CS)", "página 10: original bilingüe: se compara contra el idioma principal (CS)", "página 15: original bilingüe: se compara contra el idioma principal (CS)", "página 16: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -39,13 +40,13 @@ IČ: 75009561
 mail@dicr.cz
 tel.: +420 736 521 003
 
-
 ## Página 2
+
 
 Este informe final es público y todos los hechos en él expuestos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ### 1 RESUMEN
 Fuente: Drážní inspekce 
@@ -76,8 +77,8 @@ No se ha identificado ningún factor contribuyente por parte de Drážní inspek
 No se ha identificado ninguna causa sistémica por parte de Drážní inspekce.
 No se ha emitido ninguna recomendación de seguridad por parte de Drážní inspekce.
 
-
 ## Página 4
+
 
 ### SUMMARY
 26th October 2021, 16:13 (15:13 GMT).
@@ -111,8 +112,8 @@ none.
 Recommendation:
 not issued.
 
-
 ## Página 5
+
 
 # Índice
 1 RESUMEN........................................................................................................................3
@@ -154,8 +155,8 @@ SUMMARY.........................................................................
 4.2 Unidades de tracción ferroviaria e instalaciones técnicas...........................................................................32
 4.2.1 Factores o consecuencias derivados del diseño de las unidades de tracción ferroviaria, de la infraestructura ferroviaria o de las instalaciones técnicas.....................................................................32
 
-
 ## Página 6
+
 
 4.2.2 Factores o consecuencias derivados de la instalación y puesta en servicio de las unidades de tracción ferroviaria, de la infraestructura ferroviaria o de las instalaciones técnicas......................................33
 4.2.3 Factores o consecuencias relacionados con los fabricantes de unidades de tracción ferroviaria u otros proveedores de productos ferroviarios....................................................................33
@@ -184,8 +185,8 @@ SUMMARY.........................................................................
 5.3 Hallazgos complementarios.......................................................................................................36
 6 RECOMENDACIONES DE SEGURIDAD.....................................................................................37
 
-
 ## Página 7
+
 
 ### Lista de siglas y símbolos utilizados
 CDP
@@ -243,6 +244,7 @@ Závěrečná zpráva o výsledcích šetření mimořádné události
 
 ## Página 8
 
+
 ### Lista de abreviaturas de disposiciones legales, normas y reglamentos internos utilizados
 Ley núm. 266/1994 Sb.
 Ley núm. 266/1994 Sb., de ferrocarriles, en la redacción vigente
@@ -298,8 +300,8 @@ la explotación y el servicio de los aparatos de freno de los vehículos ferrovi
 de vía», en la redacción vigente en el momento de producirse
 la incidencia
 
-
 ## Página 9
+
 
 ČSN 34 2650
 ČSN 34 2650 ed. 2 «Instalaciones de seguridad ferroviaria –
@@ -310,8 +312,8 @@ reglamento de aplicación del explotador de la vía SŽ, «Reglamento
 de aplicación para la línea D3 Zadní Třebaň – Lochovice», en la redacción
 vigente en el momento de producirse la incidencia
 
-
 ## Página 10
+
 
 ### 2 INVESTIGACIÓN Y SUS RELACIONES
 ### 2.1 Decisión de iniciar la investigación
@@ -357,8 +359,8 @@ análisis de los datos registrados por el registrador de velocidad del vehículo
 análisis del archivo de datos del ordenador tecnológico SZZ ESA 11 en la estación de Lochovice
 y de las grabaciones del sistema de cámaras en la estación de Lochovice;
 
-
 ## Página 11
+
 
 •
 declaraciones del empleado implicado y de los testigos;
@@ -404,8 +406,8 @@ y es, a la vez, estación de enlace y adyacente para la vía regional Zadní Tř
 (también denominada vía regional). La SK núm. 3 de la estación de Lochovice está delimitada
 por la posición de las señales de salida S3 en el km
 
-
 ## Página 12
+
 
 93,943 y L3 en el km 93,646 y, según la documentación del explotador de la vía, su longitud
 es de 297 m.
@@ -443,8 +445,8 @@ regional;
 •
 la HDV 810.319-4 no se había descarrilado ni resultaba dañada;
 
-
 ## Página 13
+
 
 •
 la HDV no estaba señalizada con las señales «Inicio de tren» y «Fin de tren»; en el momento
@@ -498,8 +500,8 @@ en la estación de Zdice se documentó el funcionamiento de la instalación de s
 de la estación de Lochovice y del PZZ P557, P558 y P597 durante el desarrollo del accidente
 a partir de los archivos de los ordenadores tecnológicos de la instalación de seguridad ESA 11.
 
-
 ## Página 14
+
 
 Fig. núm. 2: Lugar de parada regular de los trenes en la SK núm. 3 en la estación de Lochovice
 Fuente: DI
@@ -527,6 +529,7 @@ pod Brdy y en la SK núm. 3 de la estación de Lochovice, concretamente el 26. 1
 desde las 16:13 h hasta las 19:10 h, momento en el que se restableció plenamente la circulación.
 
 ## Página 15
+
 
 ### 3.1.6 Identificación de personas, sus funciones y de los sujetos participantes
 Personas participantes por:
@@ -560,8 +563,9 @@ el titular del HDV era ČD.
 El HDV 810.319-4 contaba con un Certificado de aptitud de vehículo ferroviario válido, n.º inv.: PZ 1962/96-V.22, expedido por DÚ el 22. 7. 1996. La última revisión técnica periódica antes de la producción del MU se realizó el 15. 6. 2021 con validez hasta el 15. 12. 2021, con el resultado: «El vehículo cumple las condiciones de explotación en las vías y está conforme con las TP (condiciones técnicas) de la serie de ŽKV (vehículo ferroviario de vía) indicada».
 El HDV 810.319-4 estaba equipado, en el momento de la producción del MU, con un dispositivo de registro automático de datos – el velocímetro electrónico UniControls – Tramex RE1xx, n.º 6253.
 
-
 ## Página 16
+
+
 De los datos registrados se desprende:
 •
 15:28:55 h – llegada del tren Os 27716 a la SK n.º 3 de la est. Lochovice;
@@ -619,8 +623,9 @@ De los datos registrados se desprende:
 16:27:28 h – parada definitiva del HDV con el extremo trasero en el pk 25,100 de la vía regional, tras haber recorrido 74 m.
 Nota: la diferencia entre el tiempo registrado y el tiempo real fue de + 12 s.
 
-
 ## Página 17
+
+
 El 8. 11. 2021 se realizó en el Centro de tripulaciones de locomotoras de Lochovice, por personas cualificadas del transportista, una comprobación del estado técnico del HDV 810.319-4 tras el MU. El estado técnico del DV no guardaba relación causal con la producción de este MU, no se produjo daño ni descarrilamiento del DV.
 ### 3.1.8 Descripción de las partes pertinentes de la infraestructura y del sistema de señalización
 La est. Lochovice se encuentra en la vía nacional Zdice – Protivín y es a la vez estación de enlace y adyacente para la vía regional Zadní Třebaň – Lochovice.
@@ -651,35 +656,78 @@ en el punto hasta el que llegó el HDV en el primer tramo de la circulación no 
 La est. Lochovice está equipada con una SZZ de 3.ª categoría – enclavamiento electrónico ESA 11 con paneles distribuidos EIP con contadores de ejes. La SZZ se controla en remoto desde la posición de despacho del jefe de estación DOZ Norte de la est. Březnice.
 La SZZ de tipo ESA 11 tiene un certificado de aptitud válido PZ 0385/09-E.49, expedido por DÚ el 16. 6. 2009, con validez por tiempo indefinido. La UTZ es apta para la explotación con base en el Acta de inspección y ensayo técnico realizados n.º 010/2021/02-TV de fecha 26. 1. 2021, con la conclusión: «El dispositivo es apto para su puesta en servicio de acuerdo con el § 47 de la ley
 
-
 ## Página 18
-n.º 266/1994 Sb., de vías férreas, en su redacción vigente. El certificado de aptitud puede ser completado.»
-La última inspección y ensayo de la UTZ se realizó, con base en el Acta de inspección y ensayo realizados n.º 211/2019-LP, el 29. 1. 2019, con la conclusión: «El dispositivo de señalización inspeccionado y ensayado indicado en este acta sigue cumpliendo la función de garantía directa de la seguridad del transporte ferroviario y es apto para la explotación.»
-La última inspección integral del equipo de comunicaciones y señalización se realizó, con base en el Informe de inspección integral realizada n.º 42/2019, el 29. 1. 2019, con la conclusión: «El dispositivo se mantiene en estado operativo.»
-La ŽP P557 en el pk 94,089 (= pk 26,312 de la vía regional) está protegida por un PZZ luminoso de categoría PZS 3ZBI, de tipo PZZ-AC con contadores de ejes, con barreras, con señal positiva y está equipada con un dispositivo de registro.
-El PZZ de la ŽP P557 tiene un Certificado de aptitud de dispositivo técnico designado – dispositivo de señalización eléctrica, cuyos circuitos eléctricos cumplen la función de garantía directa de la seguridad del transporte ferroviario, n.º inv.: PZ 0386/09-E.49, expedido por DÚ el 17. 6. 2009, con validez por tiempo indefinido. La UTZ es apta para la explotación con base en el Acta de inspección y ensayo técnico n.º 276/2009/01-Do de fecha 1. 6. 2009, con la conclusión: «El estado del dispositivo, los elementos y componentes utilizados cumplen las necesidades de una explotación fiable y segura del transporte ferroviario.»
-La última inspección y ensayo de la UTZ se realizó, con base en el Acta de inspección y ensayo de la UTZ, cuyos circuitos cumplen la función de garantía directa de la seguridad del transporte ferroviario, n.º 215/2019-LP de fecha 29. 1. 2019, con la conclusión: «El dispositivo de señalización inspeccionado y ensayado indicado en este acta sigue cumpliendo la función de garantía directa de la seguridad del transporte ferroviario y es apto para la explotación.»
-El tiempo de aproximación del PZZ fue fijado por el explotador de la vía en la Tabla de paso P557 (según ČSN 34 2650) tL = 49,95 s y la velocidad máxima permitida de circulación del DV desde la SK n.º 3 en línea recta a través de la ŽP (en la dirección de la circulación no asegurada del HDV) v = 75 km·h-1.
-La ŽP P558 en el pk 94,654 (= pk 24,744 de la vía regional) está protegida por un PZZ luminoso de categoría PZS 3ZBI, de tipo PZZ-RE con contadores de ejes, con barreras, con señal positiva y está equipada con un dispositivo de registro.
-El PZZ de la ŽP P558 tiene un Certificado de aptitud de dispositivo técnico designado – dispositivo de señalización eléctrica, cuyos circuitos eléctricos cumplen la función de garantía directa de la seguridad del transporte ferroviario, n.º inv.: PZ 0704/21-E.46, expedido por DÚ el 28. 1. 2021, con validez por tiempo indefinido. La UTZ es apta para la explotación con base en el Acta de inspección y ensayo técnico n.º 01/21-No de fecha 27. 1. 2021, con la conclusión: «Con base en los resultados del ensayo técnico, confirmo que el dispositivo técnico designado garantiza la seguridad del tráfico ferroviario y es apto para la explotación.»
-El tiempo de aproximación del PZZ fue fijado por el explotador de la vía en la Tabla de paso P558 (según ČSN 34 2650) tL = 43,76 s y la velocidad máxima permitida de circulación del DV a través de la ŽP (en la dirección de la circulación no asegurada del HDV) v = 60 km·h-1.
-La ŽP P597 en el pk 24,981 está protegida por un PZZ luminoso de categoría PZS 3ZBI, de tipo PZZ-RE con contadores de ejes, con barreras, con señal positiva y está equipada con un dispositivo de registro.
-El PZZ de la ŽP P597 tiene un Certificado de aptitud de dispositivo técnico designado – dispositivo de señalización eléctrica, cuyos circuitos eléctricos cumplen la función de garantía directa de la seguridad
+
+n.º 266/1994 Sb., de ferrocarriles, en su redacción vigente. El certificado de aptitud podrá
+completarse."
+La última inspección y prueba del UTZ se realizó, con base en el Acta de inspección y
+prueba realizadas n.º 211/2019-LP, el 29 de enero de 2019, con la conclusión: "Los
+dispositivos de seguridad inspeccionados y reprobados indicados en la presente acta
+continúan desempeñando la función de garantía directa de la seguridad del transporte
+ferroviario y son aptos para la explotación."
+La última inspección integral de los dispositivos de telecomunicaciones y de seguridad se
+realizó, con base en el Informe de inspección integral realizada n.º 42/2019, el 29 de enero
+de 2019, con la conclusión: "El dispositivo se mantiene en estado operativo."
+El paso a nivel ŽP P557 en el km 94,089 (= km 26,312 de la línea regional) está protegido
+por un paso a nivel automático luminoso de categoría PZS 3ZBI, tipo PZZ-AC con
+contadores de ejes, con barreras, con señal positiva y está equipado con dispositivo de
+registro.
+El paso a nivel automático ŽP P557 dispone de un Certificado de aptitud de dispositivo
+técnico designado – dispositivo eléctrico de seguridad, cuyos circuitos eléctricos desempeñan
+la función de garantía directa de la seguridad del transporte ferroviario, n.º de expediente:
+PZ 0386/09-E.49, expedido por el DÚ el 17 de junio de 2009, con vigencia por tiempo
+indefinido. El UTZ es apto para la explotación con base en el Acta de inspección técnica y
+prueba n.º 276/2009/01-Do de fecha 1 de junio de 2009, con la conclusión: "El estado del
+dispositivo, los elementos y componentes utilizados cumplen los requisitos de una explotación
+fiable y segura del transporte ferroviario."
+La última inspección y prueba del UTZ se realizó, con base en el Acta de inspección y prueba
+del UTZ, cuyos circuitos desempeñan la función de garantía directa de la seguridad del
+transporte ferroviario, n.º 215/2019-LP de fecha 29 de enero de 2019, con la conclusión:
+"Los dispositivos de seguridad inspeccionados y reprobados indicados en la presente acta
+continúan desempeñando la función de garantía directa de la seguridad del transporte
+ferroviario y son aptos para la explotación."
+El operador ferroviario fijó el tiempo de aproximación del paso a nivel automático en la
+Tabla del paso a nivel P557 (según ČSN 34 2650) tL = 49,95 s y la velocidad máxima
+permitida de circulación de la locomotora desde la estación de enlace n.º 3 en dirección
+directa a través del paso a nivel (en el sentido de la circulación no protegida de la
+locomotora) v = 75 km·h-1.
+El paso a nivel ŽP P558 en el km 94,654 (= km 24,744 de la línea regional) está protegido
+por un paso a nivel automático luminoso de categoría PZS 3ZBI, tipo PZZ-RE con
+contadores de ejes, con barreras, con señal positiva y está equipado con dispositivo de
+registro.
+El paso a nivel automático ŽP P558 dispone de un Certificado de aptitud de dispositivo
+técnico designado – dispositivo eléctrico de seguridad, cuyos circuitos eléctricos desempeñan
+la función de garantía directa de la seguridad del transporte ferroviario, n.º de expediente:
+PZ 0704/21-E.46, expedido por el DÚ el 28 de enero de 2021, con vigencia por tiempo
+indefinido. El UTZ es apto para la explotación con base en el Acta de inspección técnica y
+prueba n.º 01/21-No de fecha 27 de enero de 2021, con la conclusión: "Sobre la base de los
+resultados de la prueba técnica, confirmo que el dispositivo técnico designado garantiza la
+seguridad del tráfico ferroviario y es apto para la explotación."
+El operador ferroviario fijó el tiempo de aproximación del paso a nivel automático en la
+Tabla del paso a nivel P558 (según ČSN 34 2650) tL = 43,76 s y la velocidad máxima
+permitida de circulación de la locomotora a través del paso a nivel (en el sentido de la
+circulación no protegida de la locomotora) v = 60 km·h-1.
+El paso a nivel ŽP P597 en el km 24,981 está protegido por un paso a nivel automático
+luminoso de categoría PZS 3ZBI, tipo PZZ-RE con contadores de ejes, con barreras, con
+señal positiva y está equipado con dispositivo de registro.
+El paso a nivel automático ŽP P597 dispone de un Certificado de aptitud de dispositivo
+técnico designado – dispositivo eléctrico de seguridad, cuyos circuitos eléctricos desempeñan
+la función de garantía directa de la seguridad
 
 ## Página 19
 
-ferroviario, n.º de expediente: PZ 0456/19-E.49, emitido por el DÚ el 2. 4. 2019, con vigencia por duración indefinida. El UTZ es apto para la explotación con base en el Protocolo de inspección y ensayo técnico n.º 02/2019-Hra de fecha 2. 4. 2019, con la conclusión: «El UTZ objeto de este protocolo, que ha sido sometido a inspecciones y ensayos técnicos en el alcance de las modificaciones descritas, cumple las normas técnicas y la normativa vigente, y es conforme con la documentación técnica indicada en este protocolo. El dispositivo garantiza la seguridad del tráfico ferroviario en el alcance determinado por el proyecto y, por su tipo, es apto para ser puesto en servicio de acuerdo con el § 47 de la Ley n.º 266/1994 Sb., de ferrocarriles, en su redacción vigente.»
+de transporte ferroviario, n.º de ev.: PZ 0456/19-E.49, emitido por el DÚ el 2. 4. 2019, con vigencia por duración indefinida. El UTZ es apto para la explotación en virtud del Protocolo de inspección y ensayo técnico n.º 02/2019-Hra de fecha 2. 4. 2019, con la conclusión: «El UTZ objeto de este protocolo, que ha sido sometido a inspecciones y ensayos técnicos en el alcance de las modificaciones descritas, cumple las normas técnicas y las disposiciones vigentes y es conforme a la documentación técnica indicada en este protocolo. El dispositivo garantiza la seguridad del tráfico ferroviario en el alcance determinado por el proyecto y, por su tipo, es apto para ser puesto en servicio de acuerdo con el § 47 de la Ley n.º 266/1994 Sb., de ferrocarriles, en la redacción de las disposiciones posteriores.»
 El tiempo de aproximación del PZZ se estableció en la Tabla del paso a nivel P597 (según ČSN 34 2650) tL = 46,93 s, y la velocidad máxima permitida de circulación del DV a través del ŽP (en el sentido de circulación del HDV) v = 60 km·h-1.
-El PZZ ŽP P557 se pone en funcionamiento automáticamente con la circulación del tren tras la ocupación del tramo de aproximación mediante la activación del sensor del contador de ejes situado en el sentido desde la est. Zdice en km 95,410. El funcionamiento del PZZ en los sentidos desde la estación D3 Hostomice pod Brdy, desde las señales de entrada de la est. Lochovice y en los sentidos desde la est. Lochovice está vinculado al funcionamiento del SZZ y depende de las señales de entrada, de salida y de maniobras.
-El PZZ ŽP P558 se pone en funcionamiento automáticamente con la circulación del tren tras la ocupación de los tramos de aproximación mediante la activación de los sensores del contador de ejes situados en el sentido desde la est. Zdice en km 96,592 y en el sentido desde la estación D3 Hostomice pod Brdy en km 24,953. El funcionamiento del PZZ en los sentidos desde la est. Lochovice está vinculado al funcionamiento del SZZ y depende de las señales de salida.
+El PZZ ŽP P557 se pone en funcionamiento automáticamente con la circulación del tren tras la ocupación del tramo de aproximación mediante la activación del sensor del contador de ejes situado en el sentido desde la estación. Zdice en km 95,410. El funcionamiento del PZZ en los sentidos desde la estación de servicio D3 Hostomice pod Brdy, desde las señales de entrada de la estación. Lochovice y en los sentidos desde la estación. Lochovice está vinculado al funcionamiento del SZZ y depende de las señales de entrada, de salida y de clasificación.
+El PZZ ŽP P558 se pone en funcionamiento automáticamente con la circulación del tren tras la ocupación de los tramos de aproximación mediante la activación de los sensores del contador de ejes situados en el sentido desde la estación. Zdice en km 96,592 y en el sentido desde la estación de servicio D3 Hostomice pod Brdy en km 24,953. El funcionamiento del PZZ en los sentidos desde la estación. Lochovice está vinculado al funcionamiento del SZZ y depende de las señales de salida.
 El PZZ ŽP P597 se pone en funcionamiento automáticamente con la circulación del tren tras la ocupación de los tramos de aproximación mediante la activación de los sensores del contador de ejes situados en km 24,247 y 25,750.
 Los elementos indicadores y de mando de los PZZ anteriormente indicados están situados en el JOP del jefe de estación de Březnice.
-Del análisis del archivo de datos descargado del ordenador tecnológico del SZZ ESA 11 en la est. Lochovice se constató:
-15:28:50 h – indicación de ocupación de la vía SK n.º 3 en la est. Lochovice por el tren Os 27716;
-15:30:19 h – anulación del número de tren Os 27716 en la vía SK n.º 3 por orden desde el JOP;
-16:15:14 h – indicación de ocupación del tramo de vía de aguja V3-4 tras la señal de salida S3 de la est. Lochovice con la indicación «Alto»;
+Del análisis del archivo de datos descargado del ordenador tecnológico del SZZ ESA 11 en la estación. Lochovice se constató:
+15:28:50 h – indicación de ocupación de la vía n.º 3 en la estación. Lochovice por el tren Os 27716;
+15:30:19 h – anulación del número de tren Os 27716 en la vía n.º 3 por orden desde el JOP;
+16:15:14 h – indicación de ocupación del tramo de vía de aguja V3-4 tras la señal de salida S3 de la estación. Lochovice con la señal «Alto»;
 16:15:16 h – indicación de inicio de la alerta en el ŽP P557 en km 94,089 tras la «activación del circuito de salida de vehículos»;
-16:15:20 h – indicación de liberación del tramo de vía SK n.º 3 de la est. Lochovice;
+16:15:20 h – indicación de liberación del tramo de vía n.º 3 de la estación. Lochovice;
 16:15:57 h – indicación de cierre de las barreras en el ŽP P557 en km 94,089;
 16:16:53 h – indicación de ocupación del tramo de vía LTk mediante la activación del sensor PBL4 en km 94,104, es decir, 6 m tras el ŽP P557;
 16:17:00 h – indicación de liberación del tramo de vía de aguja V3-4;
@@ -687,8 +735,8 @@ Del análisis del archivo de datos descargado del ordenador tecnológico del SZZ
 16:18:56 h – indicación de ocupación del tramo de vía 1TTL3 en el tramo de línea Lochovice – Hostomice pod Brdy mediante la activación del sensor PBL2 en km 25,840;
 16:18:57 h – indicación de inicio de la alerta en el ŽP P558 en km 94,654 (= km 25,744) tras la «activación del circuito de salida de vehículos»;
 
-
 ## Página 20
+
 
 16:19:08 h – indicación de ocupación del tramo de vía 1TLL2 en el tramo de línea Lochovice – Hostomice pod Brdy mediante la activación del sensor PBLL5 en km 25,750;
 16:19:09 h – indicación de inicio de la alerta en el ŽP P597 en km 24,981 tras la ocupación del tramo de aproximación;
@@ -710,8 +758,8 @@ Del análisis del archivo de datos descargado del ordenador tecnológico del SZZ
 16:25:56 h – indicación de inicio de la alerta en el ŽP P597 en km 24,981;
 16:26:07 h – indicación de liberación del tramo de vía 1TLL1 en el tramo de línea Lochovice –
 
-
 ## Página 21
+
 
 Hostomice pod Brdy – todos los ejes del HDV pasaron por el sensor PBLL3 en km 24,985;
 16:26:27 h – indicación de cierre de las barreras en el ŽP P597 en km 24,981.
@@ -735,8 +783,8 @@ maquinista del tren Os 27716/27723
 ◦el jefe de tren cogió su coche y, junto con el maquinista, se dirigieron al ŽP (nota DI: P597 en km 24,981);
 ◦a su llegada, el ŽP estaba abierto y el HDV se encontraba en un arco tras el ŽP (nota DI: en el sentido hacia la estación D3 Hostomice pod Brdy); a continuación, el jefe de tren inició la vigilancia del ŽP;
 
-
 ## Página 22
+
 
 ◦el HDV volvió a ponerse en movimiento en dirección a la señal previa (nota DI: señal previa TL de la est. Lochovice en km 25,410); en este trayecto no logró subir al HDV;
 ◦el HDV volvió a pasar por el ŽP P597 hacia el arco y de vuelta al paso inferior;
@@ -770,27 +818,27 @@ jefe de tren del tren Os 27723
 
 ## Página 23
 
-◦La HDV volvió a empezar a moverse en dirección hacia el PPE P597 en dirección a la estación de tráfico D3 Hostomice pod Brdy; en ese momento se activaron los barreras;
-◦La HDV reducía la velocidad, corrió detrás de ella y accionó la llave de la tubería principal, pero la HDV no reaccionó; a continuación, saltó a la HDV y quiso apretar el freno de mano, pero ambas cabinas estaban cerradas con llave; después saltó fuera de la HDV;
+◦La HDV volvió a empezar a moverse en dirección a través de la PPE P597 hacia la estación D3 Hostomice pod Brdy, en ese momento se activaron los barreras;
+◦La HDV reducía la velocidad, él mismo corrió detrás de ella y accionó la llave de la tubería principal, pero la HDV no reaccionó, a continuación saltó a la HDV y quiso apretar el freno de mano, pero ambas cabinas estaban cerradas con llave, después saltó fuera de la HDV;
 ◦Buscaba algún objeto con el que calzar la rueda de la HDV que en ese momento estaba detenida, pero no encontró nada adecuado;
-◦La HDV volvió a ponerse en marcha en dirección a la estación de Lochovice y durante este trayecto al conductor le fue posible saltar a la HDV, detenerla y asegurarla contra un movimiento posterior.
-Según el registro del sistema de cámaras en la estación de Lochovice se constató:
-15:28:55 h – parada de la cabeza del tren Os 27716 en la vía SK n.º 3 de la estación de Lochovice antes de la señal "Lugar de parada";
-15:31:48 h – salida del conductor de la HDV del tren Os 27716 y su marcha hacia la oficina de tráfico de la estación de Lochovice;
+◦La HDV volvió a ponerse en marcha en dirección a la est. Lochovice y durante este trayecto al maquinista le fue posible saltar, detener la HDV y asegurarla contra un movimiento posterior.
+Según el registro del sistema de cámaras de la est. Lochovice se constató:
+15:28:55 h – detención del frente del tren Os 27716 en la vía SK n.º 3 de la est. Lochovice antes de la señal «Lugar de detención»;
+15:31:48 h – salida del maquinista de la HDV del tren Os 27716 y su marcha en dirección a la oficina de tráfico de la est. Lochovice;
 15:32:24 h – llegada de la limpiadora de vehículos a la HDV;
 15:44:06 h – salida de la limpiadora de vehículos de la HDV tras finalizar la limpieza;
-16:13:35 h – arranque espontáneo de la HDV en dirección a la estación de Zdice;
-16:18:06 h – salida corriendo del conductor que hablaba por teléfono de la oficina de tráfico de la estación de Lochovice al andén;
-16:19:19 h – finalización de la conversación y regreso del conductor a la oficina de tráfico;
-16:19:56 h – salida corriendo del conductor y del jefe de tren de la oficina de tráfico detrás del edificio de la estación de Lochovice.
+16:13:35 h – arranque espontáneo de la HDV en dirección a la est. Zdice;
+16:18:06 h – salida corriendo del maquinista que hablaba por teléfono de la oficina de tráfico de la est. Lochovice al andén;
+16:19:19 h – finalización de la conversación y regreso del maquinista a la oficina de tráfico;
+16:19:56 h – salida corriendo del maquinista y del jefe de tren de la oficina de tráfico detrás del edificio de la est. Lochovice.
 Nota: no se detectó diferencia entre el tiempo registrado y el tiempo real.
 ### 3.2 Descripción fáctica del suceso
-### 3.2.1 Secuencia de hechos que condujeron al suceso extraordinario
-El 26 de octubre de 2021 a las 15:28:55 h, el tren Os 27716, formado por la HDV autónoma 810.319-4, se detuvo en la estación de Lochovice en la vía SK n.º 3, en el lugar destinado al embarque y desembarque regular de pasajeros, donde finalizó su trayecto en la estación de Lochovice. A las 16:36 h, la HDV debía partir de regreso a la estación de Zadní Třebaň con el número de tren Os 27723. A las 15:30:03 h se produjo una reducción de la presión de aire en la tubería principal de 5 bares a 1,78 bares, lo que corresponde al accionamiento de la manija del regulador de freno indirecto a la posición "frenado rápido". El conductor, a continuación, según su declaración, accionó el regulador de freno indirecto a la posición "cierre" y el regulador de freno directo a la posición "desfrenado". Tras el desembarque de los pasajeros, cerró con llave la cabina del conductor, no detuvo el motor de combustión para que no bajara demasiado la temperatura en el compartimento de pasajeros, y se fue al servicio. Después quiso volver a la HDV y asegurarla correctamente. Pero se olvidó de ello y se dirigió a la sala para los equipos de tren en el edificio de la estación de Lochovice.
-La HDV se puso entonces en marcha espontáneamente a las 16:13:35 h en dirección a la estación de tráfico D3 Hostomice pod Brdy.
-
+### 3.2.1 Secuencia de hechos que condujeron al suceso excepcional
+El 26 de octubre de 2021 a las 15:28:55 h el tren Os 27716, formado por la HDV independiente 810.319-4, se detuvo en la est. Lochovice en la vía SK n.º 3 en el lugar destinado al embarque y desembarque regular de pasajeros, con el que finalizó su trayecto en la est. Lochovice. A las 16:36 h la HDV debía partir de regreso a la est. Zadní Třebaň con el número de tren Os 27723. A las 15:30:03 h se produjo una reducción de la presión del aire en la tubería principal de 5 bares a 1,78 bar, lo que corresponde al accionamiento de la manija del freno indirecto a la posición «freno rápido». El maquinista, a continuación, según su declaración, accionó el freno indirecto a la posición «cierre» y el freno directo a la posición «desfrenado». Tras el desembarque de los pasajeros cerró con llave la cabina del maquinista, no detuvo el motor de combustión para que no bajara demasiado la temperatura en el compartimento de pasajeros, y se fue al servicio. Después quiso volver a la HDV y asegurarla correctamente. Sin embargo, se olvidó de ello y se dirigió a la sala del personal de tren en el edificio de la est. Lochovice.
+La HDV se puso entonces en marcha espontáneamente a las 16:13:35 h en dirección a la estación D3 Hostomice pod Brdy.
 
 ## Página 24
+
 
 Secuencia cronológica resumida de los sucesos, incluida la indicación de la fuente de información:
 15:28:50 h – ocupación de la vía SK n.º 3 en la estación de Lochovice por el tren Os 27716 (fuente: dispositivo de registro ESA 11);
@@ -822,8 +870,8 @@ desactivación del control de la cabina del conductor n.º 1 (fuente: registro d
 16:17:00 h – liberación del tramo de vía V3-4 (fuente: dispositivo de registro ESA 11);
 16:17:11 h – finalización de la alerta en el PPE P557 en el km 94,089 (fuente: dispositivo de registro ESA 11);
 
-
 ## Página 25
+
 
 16:18:06 h – salida corriendo del conductor que hablaba por teléfono de la oficina de tráfico de la estación de Lochovice al andén (fuente: registro del sistema de cámaras);
 16:18:56 h – ocupación del tramo de vía 1TTL3 en el tramo de línea Lochovice – Hostomice pod Brdy mediante la activación del sensor PBL2 en el km 25,840. Circulación de la HDV junto a la señal de entrada TL de la estación de Lochovice en el km 25,840 a una velocidad de 27 km·h-1 (fuente: dispositivo de registro ESA 11 y registro del velocímetro);
@@ -846,8 +894,8 @@ parada espontánea de la HDV en una curva a la izquierda y en pendiente tras rec
 arranque espontáneo de la HDV en dirección contraria, es decir, hacia la estación de Lochovice (fuente: registro del velocímetro);
 16:22:47 h – ocupación del tramo de vía 1TLL2 mediante la activación del sensor PBLL2 en el km 24,953 (el PZZ sigue en anulación – no se liberó el tramo de alejamiento ni se midió el tiempo límite de anulación) (fuente: dispositivo de registro ESA 11);
 
-
 ## Página 26
+
 
 16:22:48 h – inicio de la alerta en el PPE P597 en el km 24,981 e inicio de la alerta en el PPE P558 en el km 94,654 (= 25,744) (fuente: dispositivo de registro ESA 11);
 16:22:53 h – liberación del tramo de vía 1TLL1 – todos los ejes de la HDV pasaron por el sensor PBLL3 en el km 24,985, es decir, la HDV pasó por el PPE P597 en el km 24,981 a una velocidad de 33 km·h-1 (fuente: dispositivo de registro ESA 11 y registro del velocímetro);
@@ -874,92 +922,99 @@ parada espontánea de la HDV tras recorrer una distancia de 299 m (fuente: regis
 16:26:54 h –
 arranque espontáneo de la HDV en dirección contraria, es decir, hacia la estación de tráfico D3 Hostomice pod Brdy (fuente: registro del velocímetro);
 
-
 ## Página 27
 
-16:27:15 h – alcanzamiento de la velocidad máxima de la HDV de 11 km·h-1 (fuente: registro del velocímetro);
+alcanzamiento de la velocidad máxima del HDV de 11 km·h-1 (fuente: registro del velocímetro);
+16:27:15 h –
 16:27:28 h –
-parada final de la HDV en el km 25,100 tras recorrer una distancia de 74 m (fuente: registro del velocímetro).
-### 3.2.2 Secuencia de hechos desde el origen del suceso extraordinario hasta la finalización de las acciones de los servicios de rescate
+detención final del HDV en el pk 25,100 tras recorrer una distancia de 74 m (fuente: registro
+del velocímetro).
+### 3.2.2 Secuencia de hechos desde la ocurrencia de la incidencia hasta la finalización de las acciones de los servicios de emergencia
 •
-16:13 h – arranque de la HDV no asegurada desde la vía SK n.º 3 de la estación de Lochovice – origen del SU;
+16:13 h – salida del HDV no asegurado de la vía de maniobras n.º 3 de la estación de Lochovice – ocurrencia de la incidencia;
 •
-16:16 h – detección de la ocupación repentina del tramo de vía 1TLL3 y liberación de la vía SK n.º 3 en la estación de Lochovice por el jefe de estación de la estación de Březnice;
+16:16 h – detección de la ocupación repentina del tramo de vía 1TLL3 y liberación de la vía de maniobras n.º 3
+en la estación de Lochovice por el jefe de estación de la estación de Březnice;
 •
-16:18 h – información al conductor del tren Os 27716 sobre la salida de la HDV de la estación de Lochovice hacia la línea Zadní Třebaň – Lochovice por el jefe de estación de la estación de Březnice;
+16:18 h – información al maquinista del tren Os 27716 sobre la salida del HDV de la estación de
+Lochovice hacia la línea Zadní Třebaň – Lochovice por el jefe de estación de la estación de Březnice;
 •
-16:19 h – notificación del origen del SU por el jefe de estación de la estación de Březnice a la despachadora del CDP Praga – OŘP para el área de Praga;
+16:19 h – notificación de la ocurrencia de la incidencia por el jefe de estación de la estación de Březnice a la operadora del CDP Praga – OŘP para el área de Praga;
 •
-16:20 h – información al despachador director de la estación de Zadní Třebaň sobre la salida de la HDV de la estación de Lochovice hacia la línea Zadní Třebaň – Lochovice por el jefe de estación de la estación de Březnice;
+16:20 h – información al despachador director de la estación de Zadní Třebaň sobre la salida del HDV de la estación de
+Lochovice hacia la línea Zadní Třebaň – Lochovice por el jefe de estación de la estación de Březnice;
 •
-16:24 h – notificación del origen del SU por el jefe de estación de la estación de Březnice al IZS;
+16:24 h – notificación de la ocurrencia de la incidencia por el jefe de estación de la estación de Březnice al IZS;
 •
-16:29 h – notificación de la aseguración de la HDV que se había marchado en el km 25,100 por el conductor al jefe de estación de la estación de Březnice;
+16:29 h – notificación del aseguramiento del HDV que se había marchado en el pk 25,100 al jefe de estación de la estación de Březnice
+por parte del maquinista;
 •
-16:30 h – notificación del origen del SU por el jefe de despacho del CDP Praga – OŘP para el área de Praga al O18 SŽ;
+16:30 h – notificación de la ocurrencia de la incidencia por el despachador jefe del CDP Praga – OŘP para el área
+de Praga al O18 SŽ;
 •
-16:43 h – notificación del origen del SU por la persona designada del O18 SŽ al COP DI;
+16:43 h – notificación de la ocurrencia de la incidencia por la persona designada del O18 SŽ al COP DI;
 •
-17:55 h – inicio de la inspección del lugar del origen del SU por parte de los empleados del DI;
+17:55 h – inicio de la inspección del lugar de ocurrencia de la incidencia por parte de los empleados de DI;
 •
-18:45 h – concesión del permiso para liberar la vía por el inspector del DI presente;
+18:45 h – concesión del permiso para liberar la vía por el inspector de DI presente;
 •
-19:10 h – restablecimiento de la explotación.
-El Plan IZS fue activado en función de la naturaleza del SU. El Plan IZS fue activado a las 16:24 h, es decir, 11 min después del origen del SU, por el jefe de estación de la estación de Březnice.
-En el lugar del SU intervinieron los siguientes cuerpos del IZS:
+19:10 h – restablecimiento de la circulación.
+El plan IZS fue activado en función del carácter de la incidencia. El plan IZS fue activado a las 16:24 h, es decir, 11 min
+tras la ocurrencia de la incidencia, por el jefe de estación de la estación de Březnice.
+En el lugar de la incidencia intervinieron los siguientes componentes del IZS:
 •
-PČR, Jefatura de Policía de la Región de Bohemia Central, Departamento Territorial de Beroun;
+PČR, Dirección Regional de Policía de la Región de Bohemia Central, Departamento Territorial de Beroun;
 •
-Servicio de Extinción de Incendios y Rescate del SŽ, Unidad de Protección Contra Incendios de Plzeň.
+Servicio de Extinción y Salvamento de SŽ, Unidad de Protección Contra Incendios de Plzeň.
 ### 4 ANÁLISIS DEL SUCESO
 ### 4.1 Funciones y obligaciones
-### 4.1.1 Transportistas y explotadores de líneas
-Según lo dispuesto en la ley n.º 266/1994 Sb., el explotador de la línea está obligado a explotar la línea para las necesidades del transporte ferroviario fluido y seguro de acuerdo con las normas de explotación de la línea y la autorización administrativa, y a implantar un sistema de garantía de la seguridad de la explotación de la línea y a asegurar su cumplimiento.
+### 4.1.1 Transportistas y gestores de infraestructura
+El gestor de la infraestructura está obligado, según lo dispuesto en la ley n.º 266/1994 Sb., a explotar la infraestructura
+para las necesidades del transporte ferroviario fluido y seguro de acuerdo con las normas de explotación de la infraestructura
+y la autorización administrativa, y a implantar un sistema de garantía de la seguridad de la explotación de la infraestructura y a garantizar
+su cumplimiento.
 
 ## Página 28
 
-La explotación segura de la vía, del tráfico ferroviario y la seguridad de los participantes en el tráfico en la vía pública están garantizadas por la actuación de la PZZ, que avisa con la antelación suficiente a los usuarios de la vía pública de que se aproxima un tren a la PFP.
+La explotación segura de la vía, del transporte ferroviario y la seguridad de los participantes en el tráfico en la vía pública están garantizadas por la actuación de la PZZ, que avisa con la antelación suficiente a los usuarios de la vía pública de que se aproxima un tren a la PdV.
 
-El tiempo de aproximación tL, según el art. 3.1.41 de la norma ČSN 34 2650, es el tiempo más corto desde el momento de la orden de activación de la señalización de aviso hasta el momento en que el frente del DV puede entrar en la PFP.
+El tiempo de aproximación tL, según el art. 3.1.41 de la norma ČSN 34 2650, es el tiempo más corto desde el momento de la orden de activación de la señalización hasta el momento en que el frente del DV puede entrar en la PdV.
 
-El tiempo de despeje tV, según el art. B3 del Anexo de la norma ČSN 34 2650, es el tiempo más corto durante el cual aún puede cruzar la PFP con seguridad el vehículo por carretera más largo (dS = 22 m) y más lento a una velocidad de 5 km·h-1.
+El tiempo de despeje tV, según el art. B3 del Anexo de la norma ČSN 34 2650, es el tiempo más corto durante el cual aún puede cruzar la PdV con seguridad el vehículo por carretera más largo (dS = 22 m) y más lento a una velocidad de 5 km·h-1.
 
-Del resumen anterior de la secuencia de acontecimientos, especialmente en relación con el paso del HDV por las PFP P557, P558 y P597 y la garantía de la seguridad de los participantes en el tráfico en las vías públicas, se desprende lo siguiente:
+Del resumen anterior de la secuencia de acontecimientos, especialmente en relación con el paso del HDV por las PdV P557, P558 y P597 y con la garantía de la seguridad de los participantes en el tráfico en las vías públicas, se desprende lo siguiente:
 
-A) PFP P557 en el km 94,089
-  – el explotador de la vía fijó en la Tabla de paso el valor del tiempo de aproximación tL = 49,95 s y del tiempo de despeje tV = 29,95 s.
-- 1.ª circulación del HDV en dirección a la estación de trabajo D3 Hostomice pod Brdy: la señalización luminosa y sonora de la PZZ se emitió durante 41 s hasta el momento en que se abatieron las barreras en la PFP y, tras transcurrir otros 47 s, el HDV entró en la PFP a una velocidad de 5 km·h-1.
+A) PdV P557 en el km 94,089
+  – el explotador de la vía fijó en la Tabla del paso a nivel el valor del tiempo de aproximación tL = 49,95 s y del tiempo de despeje tV = 29,95 s.
+- 1.ª circulación del HDV en dirección a la estación de maniobras D3 Hostomice pod Brdy: la señalización luminosa y sonora de la PZZ se emitió durante 41 s hasta el momento en que se abatieron las barreras en la PdV y, tras transcurrir otros 47 s, el HDV entró en la PdV a una velocidad de 5 km·h-1.
 
-B) PFP P558 en el km 94,654 (= 25,744)
-  – el explotador de la vía fijó en la Tabla de paso el valor del tiempo de aproximación tL = 46,93 s y del tiempo de despeje tV = 26,93 s.
-- 1.ª circulación del HDV en dirección a la estación de trabajo D3 Hostomice pod Brdy: la señalización luminosa y sonora de la PZZ se emitió durante 12 s hasta el momento en que el HDV entró en la PFP a una velocidad de 29 km·h-1.
+B) PdV P558 en el km 94,654 (= 25,744)
+  – el explotador de la vía fijó en la Tabla del paso a nivel el valor del tiempo de aproximación tL = 46,93 s y del tiempo de despeje tV = 26,93 s.
+- 1.ª circulación del HDV en dirección a la estación de maniobras D3 Hostomice pod Brdy: la señalización luminosa y sonora de la PZZ se emitió durante 12 s hasta el momento en que el HDV entró en la PdV a una velocidad de 29 km·h-1.
 
-C) PFP P597 en el km 24,981
-  – el explotador de la vía fijó en la Tabla de paso el valor del tiempo de aproximación tL = 43,76 s y del tiempo de despeje tV = 23,76 s.
-- 1.ª circulación del HDV en dirección a la estación de trabajo D3 Hostomice pod Brdy: la señalización luminosa y sonora de la PZZ se emitió durante 33 s hasta el momento en que se abatieron las barreras en la PFP y, tras transcurrir otros 36 s, el HDV entró en la PFP a una velocidad de 42 km·h-1;
-- 2.ª circulación del HDV en dirección a la estación de Lochovice: la señalización luminosa y sonora de la PZZ se emitió durante 3 s hasta el momento en que el HDV entró en la PFP a una velocidad de 33 km·h-1;
-- 3.ª circulación del HDV en dirección a la estación de trabajo D3 Hostomice pod Brdy: la señalización luminosa y sonora de la PZZ se emitió durante 31 s hasta el momento en que se abatieron las barreras en la PFP y, tras transcurrir otros 92 s, el HDV entró en la PFP a una velocidad de 17 km·h-1;
-- 4.ª circulación del HDV en dirección a la estación de Lochovice: la señalización luminosa y sonora de la PZZ se emitió durante 7 s hasta el momento en que el HDV entró en la PFP a una velocidad de 16 km·h-1;
+C) PdV P597 en el km 24,981
+  – el explotador de la vía fijó en la Tabla del paso a nivel el valor del tiempo de aproximación tL = 43,76 s y del tiempo de despeje tV = 23,76 s.
+- 1.ª circulación del HDV en dirección a la estación de maniobras D3 Hostomice pod Brdy: la señalización luminosa y sonora de la PZZ se emitió durante 33 s hasta el momento en que se abatieron las barreras en la PdV y, tras transcurrir otros 36 s, el HDV entró en la PdV a una velocidad de 42 km·h-1;
+- 2.ª circulación del HDV en dirección a la estación de Lochovice: la señalización luminosa y sonora de la PZZ se emitió durante 3 s hasta el momento en que el HDV entró en la PdV a una velocidad de 33 km·h-1;
+- 3.ª circulación del HDV en dirección a la estación de maniobras D3 Hostomice pod Brdy: la señalización luminosa y sonora de la PZZ se emitió durante 31 s hasta el momento en que se abatieron las barreras en la PdV y, tras transcurrir otros 92 s, el HDV entró en la PdV a una velocidad de 17 km·h-1;
+- 4.ª circulación del HDV en dirección a la estación de Lochovice: la señalización luminosa y sonora de la PZZ se emitió durante 7 s hasta el momento en que el HDV entró en la PdV a una velocidad de 16 km·h-1;
 
-Sobre la base de estos hechos, derivados del análisis de los datos registrados por la SZZ ESA 11 y el velocímetro electrónico del HDV, puede constatarse que la seguridad de la explotación de la vía, del tráfico ferroviario y, a la vez, de los participantes en el tráfico en las vías públicas no estuvo garantizada en la 1.ª circulación del HDV por la PFP P558 y, asimismo, en la 2.ª y 4.ª circulación del HDV por la PFP P597, cuando los participantes en el tráfico en las vías públicas no fueron avisados por la actuación de la PZZ, debido a la circulación del HDV no garantizada, con la antelación suficiente de que se aproximaba un DV a la PFP, y, además, no se respetó el tiempo más corto durante el cual el vehículo por carretera más largo y más lento aún podría cruzar la PFP con seguridad, es decir, superar el límite de la banda de peligro tras la PFP.
-
+Sobre la base de estos hechos, derivados del análisis de los datos registrados por la SZZ ESA 11 y el velocímetro electrónico del HDV, puede constatarse que la seguridad de la explotación de la vía, del transporte ferroviario y, a la vez, de los participantes en el tráfico en las vías públicas no quedó garantizada en la 1.ª circulación del HDV por la PdV P558, así como en la 2.ª y la 4.ª circulación del HDV por la PdV P597, en las que los participantes en el tráfico en las vías públicas no fueron avisados por la actuación de la PZZ, debido a la circulación del HDV no garantizada, con la antelación suficiente de que se aproximaba un DV a la PdV; asimismo, no se respetó el tiempo más corto durante el cual el vehículo por carretera más largo y más lento aún podría cruzar la PdV con seguridad, es decir, superar el límite de la banda de peligro situada tras la PdV.
 
 ## Página 29
 
-En la PFP P597 puede tenerse en cuenta la actuación del jefe de tren, es decir, de la persona cualificada del transportista, que, según su declaración, al llegar a esta PFP, cuando el HDV regresaba hacia la estación de Lochovice, detuvo el tráfico en la vía pública y vigiló la PFP hasta la detención del HDV.
+En el PPF P597 puede tenerse en cuenta la actuación del jefe de tren, es decir, de la persona competente del transportista, que según su declaración, tras llegar a dicho PPF, cuando el material rodante regresaba hacia la estación de Lochovice, detuvo el tráfico en la vía pública y vigiló el PPF hasta la parada del material rodante. El explotador ferroviario estableció los procedimientos tecnológicos relativos a la explotación de la vía y del transporte ferroviario, entre otros, sobre la protección de los vehículos estacionados contra movimientos no deseados, atendiendo a las condiciones de pendiente de las vías.
 
-El explotador de la vía fijó los procedimientos tecnológicos para la explotación de la vía y del tráfico ferroviario relativos, entre otros, a la protección de los DV aparcados contra el movimiento no deseado, teniendo en cuenta las condiciones de pendiente de las vías.
+En la investigación no se detectó infracción de las funciones y obligaciones del explotador ferroviario, ni en relación causal ni fuera de relación causal con la aparición del SU.
 
-En la investigación no se detectó infracción de las funciones y obligaciones del explotador de la vía, ni en relación causal ni fuera de relación causal con la aparición del MU.
+El transportista está, entre otras obligaciones, obligado a garantizar que el maquinista asegure el vehículo estacionado contra el desplazamiento, de conformidad con los procedimientos tecnológicos establecidos por el explotador ferroviario y el transportista, es decir, con los medios técnicos prescritos atendiendo a las condiciones de pendiente, la masa del vehículo estacionado y sus parámetros técnicos. El maquinista está además obligado a cumplir los procedimientos tecnológicos establecidos por el transportista relativos a la distancia del material rodante estacionado sin vigilancia asegurada.
 
-El transportista está, entre otras obligaciones, obligado a garantizar que el maquinista proteja el DV aparcado contra el desplazamiento, de conformidad con los procedimientos tecnológicos fijados por el explotador de la vía y el transportista, es decir, con los medios técnicos prescritos, teniendo en cuenta las condiciones de pendiente, la masa del DV aparcado y sus parámetros técnicos. El maquinista está, además, obligado a cumplir los procedimientos tecnológicos fijados por el transportista relativos a la distancia del HDV aparcado sin vigilancia asegurada.
+Tras la llegada del tren Os 27716, compuesto por una unidad autoportante de la serie 810, a la estación de Lochovice en la vía SK n.º 3 hasta el lugar destinado al embarque y desembarque regular de pasajeros, el maquinista colocó el regulador del freno indirecto en la posición «cierre» y el regulador del freno directo en la posición «desfrenado». Dejó el material rodante frenado únicamente con el freno de aire indirecto. Tras el desembarque de los pasajeros, el maquinista cerró con llave la cabina del maquinista, no detuvo el motor de combustión y se alejó del material rodante. Durante 41 minutos se produjo una reducción progresiva de la presión del aire en el cilindro de freno desde el valor de 4 bares hasta el valor de 0 bar. Este estado también se detectó en la prueba de estanqueidad de verificación realizada en el marco de la inspección del material rodante tras la aparición del SU (véase el punto 3.1.3). Se produjo, por tanto, el desfrenado completo del freno de aire del material rodante, que a continuación se puso en marcha por sí mismo desde la vía SK n.º 3, que tiene una pendiente de -1,03 ‰ en dirección a la estación D3 Hostomice pod Brdy. Según las normas internas del explotador ferroviario y del transportista, el maquinista tiene la obligación de asegurar el vehículo contra el movimiento por sí mismo mediante un medio de efecto permanente, concretamente en el material rodante de la serie 810 mediante el freno de mano.
 
-Tras la llegada del tren Os 27716, formado por un HDV autónomo de la serie 810, a la estación de Lochovice en la SK n.º 3, al lugar destinado al embarque y desembarque regular de pasajeros, el maquinista colocó el mando del freno indirecto en la posición «bloqueo» y el mando del freno directo en la posición «desfrenado». Dejó el HDV frenado únicamente con el freno de aire indirecto. Tras el desembarque de los pasajeros, el maquinista cerró con llave el puesto de conducción, no detuvo el motor de combustión y se alejó del HDV. Durante 41 minutos se produjo una reducción progresiva de la presión del aire en el cilindro de freno desde el valor de 4 bares hasta el valor de 0 bar. Este estado fue detectado también en la prueba de estanqueidad de verificación en el marco de la inspección del HDV tras la aparición del MU (véase el punto 3.1.3). Se produjo, por tanto, el desfrenado completo del freno de aire del HDV, que a continuación se puso en marcha por sí solo desde la SK n.º 3, que tiene una pendiente de -1,03 ‰ en dirección a la estación de trabajo D3 Hostomice pod Brdy. Según las normas internas del explotador de la vía y del transportista, el maquinista tiene la obligación de proteger el DV contra el movimiento por sí solo mediante un medio de efecto permanente, concretamente en el HDV de la serie 810 mediante el freno de mano.
-
-De las declaraciones del maquinista, del jefe de estación de la estación de Březnice y del jefe de tren se desprende, además, que, tras detectar la ocupación repentina del tramo de vía 1TLL3 y la liberación de la SK n.º 3 en el monitor JOP, el jefe de estación de la estación de Březnice se comunicó por teléfono móvil con el maquinista para comunicarle que había pasado la señal de salida S3 de la estación de Lochovice con la indicación «Alto». Esta llamada no fue registrada en ningún dispositivo de registro debido a que se realizó a través de la red del operador de telefonía móvil, pero su realización fue confirmada tanto por el maquinista como por el jefe de estación de la estación de Březnice y el jefe de tren. La realización de la llamada se desprende también del contenido de la llamada registrada entre el jefe de estación de la estación de Březnice y la operadora del CDP Praga. Tras comprobar que el HDV no estaba junto al andén, el maquinista y el jefe de tren subieron a un automóvil y se desplazaron en dirección a la PFP P597 en el km 24,981 de la vía regional Zadní Třebaň – Lochovice, que en el momento de su llegada estaba abierta. El HDV se detuvo en una curva y en una pendiente ascendente tras esta PFP en el km 24,546, desde donde poco después volvió a ponerse en marcha por sí solo en dirección a la estación de Lochovice y llegó hasta la señal previa PřLT de la estación de Lochovice. Tras detenerse, el HDV volvió a ponerse en marcha en sentido contrario. Tras el posterior cierre de la PFP y su cruce por el HDV en dirección a la estación de trabajo D3 Hostomice pod Brdy, el jefe de tren intentó detener el HDV tirando de la llave de la tubería principal, pero el HDV no reaccionó. Al maquinista le resultó posteriormente posible subir al HDV, detenerlo y protegerlo contra un movimiento posterior.
-
+De las declaraciones del maquinista, del jefe de estación de la estación de Březnice y del jefe de tren se desprende además que, tras detectar la ocupación repentina del tramo de vía 1TLL3 y la liberación de la vía SK n.º 3 en el monitor JOP, el jefe de estación de la estación de Březnice se puso en contacto por teléfono móvil con el maquinista para comunicarle que había pasado la señal de salida S3 de la estación de Lochovice con la indicación «Alto». Esta llamada no quedó registrada en ningún dispositivo de registro debido a que se realizó a través de la red del operador de telefonía móvil, si bien su realización fue confirmada tanto por el maquinista como por el jefe de estación de la estación de Březnice y el jefe de tren. La realización de la llamada se desprende también del contenido de la llamada registrada entre el jefe de estación de la estación de Březnice y la operadora del CDP Praga. Tras comprobar que el material rodante no estaba en el andén, el maquinista y el jefe de tren subieron a un automóvil y se desplazaron en dirección al PPF P597 en el km 24,981 de la línea regional Zadní Třebaň – Lochovice, que en el momento de su llegada estaba abierto. El material rodante se detuvo en una curva y en pendiente ascendente tras dicho PPF en el km 24,546, desde donde poco después volvió a ponerse en marcha automáticamente en dirección a la estación de Lochovice y llegó hasta la señal previa PřLT de la estación de Lochovice. Tras detenerse, el material rodante volvió a ponerse en marcha en sentido contrario. Tras el posterior cierre del PPF y su paso por el material rodante en dirección a la estación D3 Hostomice pod Brdy, el jefe de tren intentó detener el material rodante tirando de la llave de la tubería principal, pero el material rodante no reaccionó. Al maquinista le resultó a continuación posible subir al material rodante, detenerlo y asegurarlo contra un nuevo movimiento.
 
 ## Página 30
+
 
 De lo anterior se desprende claramente que el maquinista, en contra de los procedimientos tecnológicos fijados por el explotador de la vía y el transportista, no protegió el vehículo ferroviario aparcado contra el desplazamiento de la manera prescrita, es decir, apretando los frenos de mano, y, además, no detuvo el motor de combustión y durante 45 minutos no tuvo el HDV bajo vigilancia.
 ### Hallazgos:
@@ -986,8 +1041,8 @@ alejamiento de la cabina de conducción, cuando el maquinista realiza las activi
 ◦proteger el vehículo de tracción contra el movimiento por sí solo,
 ◦proteger el vehículo de tracción contra la entrada de personas ajenas (si en el vehículo de tracción no permanece otro empleado de ČD)»;
 
-
 ## Página 31
+
 
 •
 art. 51 letra b) de la norma interna ČD V 2:
@@ -1022,6 +1077,7 @@ En la investigación no se detectó infracción de las funciones y obligaciones 
 
 ## Página 32
 
+
 ### 4.1.3 Fabricantes de material rodante ferroviario u otros proveedores de instalaciones ferroviarias
 En la investigación no se detectó incumplimiento de las funciones y obligaciones de los fabricantes de material rodante ferroviario ni de otros proveedores de productos ferroviarios.
 ### 4.1.4 Autoridades nacionales de seguridad y Agencia Ferroviaria de la Unión Europea
@@ -1038,8 +1094,8 @@ Las funciones y obligaciones de otras personas u organismos no guardaban relaci�
 4.2.1 Factores o consecuencias derivados del diseño del material rodante ferroviario, de la infraestructura ferroviaria o de las instalaciones técnicas
 En la investigación no se detectaron factores derivados del diseño del material rodante ferroviario, de la infraestructura ferroviaria o de las instalaciones técnicas.
 
-
 ## Página 33
+
 
 4.2.2 Factores o consecuencias derivados de la instalación y la puesta en servicio del material rodante ferroviario, de la infraestructura ferroviaria o de la instalación técnica
 En la investigación no se detectaron factores derivados de la instalación y la puesta en servicio del material rodante ferroviario, de la infraestructura ferroviaria o de la instalación técnica.
@@ -1058,8 +1114,8 @@ El empleado implicado de la empresa ČD, el maquinista del tren Os 27716, se som
 La Inspección Ferroviaria, en la investigación del factor humano, trató de evaluar todas las influencias que pudieran haber actuado sobre el empleado implicado y que pudieran haber tenido, en su caso, incidencia en la ocurrencia de esta MU. En el caso del maquinista, se trató principalmente de evaluar su experiencia, conocimientos y antigüedad en el puesto. Trabajó como maquinista de forma ininterrumpida desde agosto de 2015 hasta la ocurrencia de la MU.
 El maquinista contaba, por tanto, con una antigüedad suficientemente larga y, según la documentación de la empresa ČD, tenía conocimiento demostrable de las condiciones de la línea. Circuló por la línea Zadní Třebaň – Lochovice desde marzo de 2021, de una a cuatro veces al mes.
 
-
 ## Página 34
+
 
 La Inspección Ferroviaria, mediante la investigación, determinó que el maquinista estaba cualificado profesionalmente para el desempeño de la función de maquinista y que su antigüedad en el puesto, su experiencia y sus conocimientos no tuvieron incidencia en la ocurrencia de esta MU.
 En la investigación no se detectaron factores relacionados con la formación profesional del empleado implicado (maquinista), su estado de salud y su situación personal, incluidos el estrés físico y psicológico.
@@ -1081,8 +1137,8 @@ En el sistema de garantía de seguridad adoptado por el gestor de la infraestruc
 ### 4.4.4 Sistema de gestión de los organismos responsables del mantenimiento del material rodante ferroviario y de los talleres de mantenimiento
 El sistema de gestión de los organismos responsables del mantenimiento del material rodante ferroviario y de los talleres de mantenimiento no guardaba relación con la ocurrencia de la MU.
 
-
 ## Página 35
+
 
 ### 4.4.5 Resultados de la supervisión realizada por las autoridades nacionales de seguridad
 Atendiendo a los factores y circunstancias de la ocurrencia de la MU detectados, la supervisión de la autoridad de seguridad no guarda relación con la MU en cuestión.
@@ -1104,8 +1160,8 @@ del 19. 8. 2019, en la vía privada DEZA Valašské Meziříčí, donde se produ
 ◦la falta de aseguramiento del material rodante de tracción 92 54 2 740 324-9 contra el movimiento antes de abandonar la cabina del maquinista.
 Atendiendo a las causas y circunstancias de la ocurrencia de los sucesos extraordinarios mencionados, la Inspección Ferroviaria no emitió recomendaciones de seguridad.
 
-
 ## Página 36
+
 
 ### 5 CONCLUSIONES
 ### 5.1 Resumen del análisis y conclusiones relativas a las causas del suceso
@@ -1138,6 +1194,7 @@ verification of comply of the technological procedures related to securing rolli
 No se detectó nada en el gestor de la infraestructura SŽ ni en el operador ferroviario ČD.
 
 ## Página 37
+
 
 ### Observaciones adicionales
 No se encontró en el gestor de infraestructura SŽ y en la empresa ferroviaria ČD.

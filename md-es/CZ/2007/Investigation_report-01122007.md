@@ -10,13 +10,14 @@ chars: 65117
 ratio_longitud: 1.28
 tokens_in: 32185
 tokens_out: 22649
-verificacion: revisar
-notas_cifras: ["bloque 1: cifras cortas: 1/106", "bloque 2: original bilingüe: se compara contra el idioma principal (CS)", "bloque 3: cifras cortas: 4/61", "bloque 4: cifras cortas: 1/106", "bloque 5: cifras cortas: 3/51", "bloque 6: cifras cortas: 4/42"]
-avisos: ["bloque 9: ratio 1.72"]
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (CS); cifras cortas: 1/8", "página 5: original bilingüe: se compara contra el idioma principal (EN)", "página 6: original bilingüe: se compara contra el idioma principal (CS)", "página 7: original bilingüe: se compara contra el idioma principal (CS)", "página 8: cifras cortas: 2/28", "página 9: cifras cortas: 2/31"]
 ---
+
 ## Página 1
+
 
 Inspección Ferroviaria
 República Checa
@@ -42,11 +43,12 @@ N.º de identificación fiscal (IČO): 75009561
 http://www.dicr.cz
 fax: (+420) 224 805 428
 
-
 ## Página 2
 
 
+
 ## Página 3
+
 
 # RESUMEN
 1 de diciembre de 2007, 11:50 (10:50 GMT)
@@ -75,11 +77,12 @@ destructivos de las vías, especialmente cuando se detecta un defecto combinado.
 4) Se recomienda determinar la vida máxima de las vías en función de
 la frecuencia y el carácter de su carga.
 
-
 ## Página 4
 
 
+
 ## Página 5
+
 
 # Índice
  Resumen .............................................................................................................................3
@@ -116,6 +119,7 @@ técnica de las causas de la aparición del incidente extraordinario ...........
 
 ## Página 6
 
+
 relación ...............................................................................................................13
 3.1.2 Otras personas .........................................................................................................15
 3.2 Sistema de garantía de la seguridad ...............................................................................16
@@ -145,8 +149,8 @@ relación ......................................................................
 4.1.1 Descripción final del incidente basada en los hechos constatados en el punto 3 
 ............................................................................................................................21
 
-
 ## Página 7
+
 
 4.2 Análisis ......................................................................................................................21
 4.2.1 Evaluación de los hechos constatados según el punto 3 y presentación de conclusiones sobre la causa del incidente y la actuación de los servicios de emergencia ..........................................21
@@ -168,6 +172,7 @@ relación ......................................................................
 
 ## Página 8
 
+
 ## 1 RESUMEN
 El 1 de diciembre de 2007 a las 11:50 horas se produjo un incidente extraordinario (en adelante, IE) en el transporte ferroviario, cuando el tren IC 507 «Pendolino» descarriló en la vía férrea nacional, en el primer vía de circulación, en el punto kilométrico 400,500 de la línea 501 Česká Třebová – Praha-Libeň, entre el desvío de Kyje y la estación ferroviaria (en adelante, ef.) de Praha-Běchovice.
 En el IE no hubo fallecidos ni heridos.
@@ -184,8 +189,8 @@ El IE se produjo el 1 de diciembre de 2007 a las 11:50 horas en la línea 501 Č
 ### 2.1.2 Descripción del incidente extraordinario y del lugar del accidente, incluida la actividad del sistema integrado de rescate y del servicio de rescate
 El 1 de diciembre de 2007 a las 11:39 horas se despachó el tren IC 507 desde la ef. de origen de Praha-Holešovice. La composición del tren estaba formada por la unidad «Pendolino» de la serie 680 del Depósito de vehículos sobre raíles (en adelante, DKV) de Praga. En la cabeza de la composición se encontraba el vehículo eléctrico de tracción principal 681.003-0, conducido por el maquinista del DKV de Praga. En el punto kilométrico 400,500 el tren circulaba por una curva a la izquierda a una velocidad de 99 km/h. El maquinista percibió un impacto y a las 11:50 horas aplicó el
 
-
 ## Página 9
+
 
 freno de emergencia. El tren se detuvo a 381 m de la vía. En el IE descarrilaron el vehículo eléctrico de tracción principal 681.003-0 con el primer bogie de dos ejes del bogie delantero y con el bogie trasero, el vehículo intermedio 081.003-6 con ambos bogies, el vehículo eléctrico intermedio con bufet 683.003-8 y el vehículo intermedio 084.003-3 con ambos bogies, el vehículo eléctrico de tracción principal 684.003-7 con el segundo bogie de dos ejes del bogie trasero, el vehículo intermedio 082.003-5 y el vehículo eléctrico de tracción principal 682.003-9 con ambos bogies.
 El maquinista del tren IC 507 notificó la aparición del IE al despachador de la ef. de Praha-Běchovice. El despachador procedió posteriormente conforme al plan de notificación.
@@ -205,6 +210,7 @@ d) el Dictamen técnico del sector de la ingeniería mecánica, especialidad de 
 e) el Informe técnico VUZ 003/2008 «Fractura de vía TŽ 87 R 65» publicado por el Instituto de Investigación Ferroviaria, a. s.
 
 ## Página 10
+
 
 ### 2.2 Circunstancias extraordinarias del suceso
 ### 2.2.1 Personal participante del explotador de la infraestructura y del transportista, personas en relación contractual y demás participantes y testigos
@@ -256,6 +262,7 @@ el vagón intermedio n.º 082.003-5 de DKV Praha. El vagón tiene 4 ejes, longit
 
 ## Página 11
 
+
 10912/06-V.07 del 27 de junio de 2006, emitido por la DÚ de Praga, última inspección técnica
 realizada el 30 de agosto de 2007 en DKV;
 el vagón eléctrico de tracción principal n.º 682.003-9 de DKV Praha. El vagón tiene 4 ejes,
@@ -288,6 +295,7 @@ En el lugar del SU no se estaban realizando trabajos inmediatamente antes de la 
 
 ## Página 12
 
+
 ### 2.2.6 Activación del plan de emergencia en la vía y secuencia de los acontecimientos
 La activación del plan se llevó a cabo de conformidad con el decreto n.º 376 y, además, con el reglamento interno del operador ČD D 17 «Reglamento para la notificación e investigación de las situaciones excepcionales».
 El maquinista del tren IC 507 notificó la aparición de la situación excepcional (MU) inmediatamente después de detectarla al jefe de estación de la estación de Praha-Běchovice, quien procedió posteriormente de acuerdo con el plan de notificación. El jefe de turno del Centro Regional de Operaciones (en adelante, RCP) de Praga notificó la aparición de la situación excepcional a la Inspección Regional de Seguridad del Transporte Ferroviario (en adelante, RIBŽD) de Praga a las 11:52 horas. La situación excepcional fue notificada telefónicamente desde la RIBŽD de Praga a la Oficina Central de Notificaciones (en adelante, COP) de la DI a las 11:52 horas. El inspector jefe de la COP tomó nota de la notificación y, asimismo, autorizó el inicio de las labores de desescombro a las 13:45 horas del 1 de diciembre de 2007.
@@ -307,40 +315,37 @@ En la situación excepcional no hubo ninguna muerte ni lesiones.
 ### 2.3.2 En las mercancías transportadas, el equipaje y otros bienes
 No se detectaron daños en las mercancías transportadas, el equipaje ni otros bienes.
 
-
 ## Página 13
 
-### 2.3.3 En los vehículos ferroviarios, las partes de la vía de circulación y en el medio ambiente
-En la situación excepcional se dañaron los 7 vehículos ferroviarios (DV) del tren IC 507. En la inspección comisionada del 4 de diciembre de 2007, llevada a cabo en las DKV de Praga, se estimó el daño en 25 000 000,- Kč.
-En el balasto ferroviario se causó un daño a la Empresa de Gestión de la Infraestructura Ferroviaria y de Transporte, s. o., por un importe de 330 271,- Kč.
-En total, la situación excepcional causó daños materiales por un importe de 25 330 271,- Kč.
-
-### 2.4 Factores externos
+### 2.3.3 En los vehículos ferroviarios, en los componentes de la vía de circulación y en el medio ambiente
+En el MU se produjo daños en los 7 DV del tren IC 507. En la inspección de recepción realizada el 4 de diciembre de 2007, llevada a cabo en el DKV Praga, el daño se estimó en 25 000 000,- CZK.
+En la superestructura ferroviaria se produjo un daño a favor de la Administración de la Vía Ferroviaria y de Circulación, s. o., por importe de 330 271,- CZK.
+En total, en el MU se produjo un daño material de 25 330 271,- CZK.
+### 2.4 Circunstancias externas
 ### 2.4.1 Condiciones meteorológicas y datos geográficos
-En el momento de la aparición de la situación excepcional, la temperatura era de +7 °C, el cielo estaba nublado y llovía.
-
-## 3 REGISTRO DE LAS EXPLICACIONES PRESTADAS
-### 3.1 Resumen de las explicaciones prestadas (sujetas a la protección de la identidad de las personas) y sobre la investigación técnica de las causas de la aparición de la situación excepcional
-### 3.1.1 Empleados del operador de la infraestructura y del transportista, incluidas las personas en relación contractual
-Las explicaciones formales sobre la situación excepcional las prestaron:
-El maquinista del tren IC 507, quien, entre otras cosas, declaró que:
-- a la guardia subió a tiempo y descansado, la guardia se desarrolló hasta la aparición de la situación excepcional sin incidentes;
+En el momento de producirse el MU la temperatura era de +7 °C, cielo cubierto, lluvia.
+## 3 REGISTRO DE LAS EXPLICACIONES PRESENTADAS
+### 3.1 Resumen de las explicaciones presentadas (sujetas a protección de la identidad de las personas) y del peritaje sobre las causas de la producción del suceso excepcional
+### 3.1.1 Empleados del gestor de la vía y del transportista, incluidas personas en relación contractual
+Se presentaron explicaciones protocolarias sobre el MU por parte de:
+El maquinista del tren IC 507, que entre otras cosas indicó que:
+entró a trabajar a tiempo y descansado, y el turno transcurrió hasta la producción del MU sin ●
+incidencias;
+tras la salida de la est. Praga-Libeň alcanzó progresivamente la velocidad máxima permitida de 100 ●
+km/h;
+al pasar por la parada Praga-Kyje comprobó visualmente la señal del enclavamiento automático y el ●
+desvío situado detrás de ella, en buen estado;
+posteriormente observó la vía que tenía por delante y no advirtió nada sospechoso;
 ●
-- tras la salida de la estación de Praha-Libeň, alcanzó progresivamente la velocidad máxima permitida de 100 km/h;
+al pasar por una curva a la izquierda sintió un golpe procedente del espacio del bogie, inmediatamente ●
+aplicó el frenado de acción rápida y detuvo el tren, según estimación, a unos 450 m;
+simultáneamente, durante la detención, sintió que se había producido el descarrilamiento del tren; tras ●
+detenerse, comprobó visualmente que su suposición era correcta;
+comunicó este hecho, por teléfono móvil desde su puesto, a la est. Praga-Běchovice.
 ●
-- al pasar por la parada de Praha-Kyje, comprobó con la mirada la señal del bloqueo automático y el desvío detrás de él, en buen estado;
-●
-- observó posteriormente la vía delante de él y no notó nada sospechoso;
-●
-- al pasar por una curva a la izquierda, sintió un golpe procedente del área del bogie, aplicó inmediatamente el freno de emergencia y detuvo el tren aproximadamente a los 450 m;
-●
-- al mismo tiempo, durante la detección, sintió que el tren se descarrilaba; tras detenerse, comprobó con la mirada que su suposición era correcta;
-●
-- notificó este hecho mediante el teléfono móvil desde la cabina a la estación de Praha-Běchovice.
-●
-
 
 ## Página 14
+
 
 El jefe de tren del tren IC 507, quien, entre otras cosas, declaró que:
 - tras la salida del tren de la estación de origen de Praha-Holešovice, comenzó a realizar su actividad, a saber, la revisión de los billetes de viaje;
@@ -378,56 +383,61 @@ Empleado de la SDC de Praga en el cargo de inspector de línea, quien, entre otr
 
 ## Página 15
 
-El empleado de SDC Praha en calidad de Inspector de ensayos no destructivos (defectoscopista) indicó, entre otras cosas, que:
-el 15 de octubre realizó ensayos no destructivos de las vías en el primer vía principal entre
+El empleado de SDC Praga en la función de Controlador inspector de detección de defectos, entre otras cosas, indicó que:
+el 15 de octubre realizó una prueba no destructiva de los raíles en la vía 1 entre
 ●
-las paradas de Dolní Počernice y Praha-Kyje;
-la evaluación se realizó conforme al reglamento ČD S 67;
+las paradas Dolní Počernice y Praha-Kyje;
+la evaluación la realizó según la norma ČD S 67;
 ●
-en el pk 400,498 detectó a la vista una defecto de desprendimiento del borde rodante de la vía;
+en el km 400,498 detectó visualmente un defecto de desprendimiento del canto
 ●
-evaluó este defecto conforme al reglamento ČD S 67 como categoría «D» con código 2223;
+rodante del raíl;
+evaluó dicho defecto de conformidad con la norma ČD S67 como 2223 categoría
 ●
-marcó el defecto en el lado interior del alma de la vía con pintura amarilla;
+"D";
+realizó la marcación del defecto en el lado interior del talón del raíl con color
 ●
-registró el defecto en su cuaderno de notas y, tras finalizar las mediciones, en la oficina
+amarillo;
+realizó el registro del defecto en el cuaderno de notas y, tras finalizar la
 ●
-completó el parte de informe;
-realizó el control de la misma manera ya el 4 de abril de 2007 y en el lugar indicado
+medición, cumplimentó el parte en la oficina;
+de la misma manera realizó la inspección ya el 4. 4. 2007 y en el lugar indicado
 ●
 no detectó ningún defecto.
 ### 3.1.2 Otras personas
-El Instituto de Criminalística de Praga emitió, con el número de registro KUP-2553/KI-1-2007, un Dictamen pericial con la siguiente conclusión:
-los fragmentos de vía presentados se corresponden entre sí;
+El Instituto de Criminalística de Praga emitió bajo el n.º de expediente: KUP-2553/KI-1-2007 un Dictamen Pericial con la siguiente conclusión:
+los fragmentos de raíl presentados se corresponden mutuamente;
 ●
-la fractura de la vía se produjo como consecuencia de la propagación de fisuras por fatiga. No se detectaron huellas de herramientas
+la destrucción del raíl se produjo como consecuencia del desarrollo de fracturas
 ●
-en los fragmentos presentados;
-desde el punto de vista de la secuencia temporal, la primera fisura por fatiga se formó entre los fragmentos n.º 1
+por fatiga. No se detectaron rastros de herramientas en los fragmentos
+presentados;
+desde el punto de vista de la secuencia temporal, la primera fractura por fatiga se
 ●
-y 2 (nota: segunda fisura). De las deformaciones detectadas y del aspecto de la superficie de fractura se desprende que
-la vía estuvo en servicio incluso después de la fractura. Las demás fracturas se produjeron posteriormente. No puede determinarse el tiempo de formación
-de cada una de las fracturas;
-la causa de la formación de las fisuras por fatiga fue el crecimiento de grietas inclinadas en la superficie rodante y el borde
+produjo entre los fragmentos n.º 1 y 2 (nota: la segunda fractura). De las
+deformaciones detectadas y del aspecto de la superficie de fractura se deduce que
+el raíl estuvo en servicio también después de la fractura. Las demás fracturas se
+produjeron posteriormente. No es posible determinar el momento de producción de
+cada una de las fracturas;
+la causa de la producción de las fracturas por fatiga fue el crecimiento de grietas
 ●
-de la vía. Conforme al reglamento ČD S 67, «Defectos y fracturas de las vías», las grietas mencionadas pueden
-clasificarse como defectos con el código numérico 2213 – Grietas inclinadas del borde rodante.
-En algunos lugares, donde se produjo la propagación de una grieta interna también en dirección longitudinal, se trata
-de un defecto 2222 (o bien 2223) – desprendimiento de material del borde rodante; el desgaste de la cabeza de la vía puede clasificarse, conforme al reglamento mencionado, como defecto 2203 – Desgaste lateral de la cabeza de la vía. En el caso de fracturas transversales por fatiga, se trata de un defecto
-con el código numérico 100.6/200.6 – Fractura iniciada por defectos de fatiga de contacto;
-las propiedades del material (composición química, límite de resistencia) de la vía cumplen los valores
+oblicuas en la superficie rodante y en el canto del raíl. Según la norma ČD S 67,
+Defectos y fracturas de raíles, dichas grietas pueden clasificarse como defectos con
+código numérico 2213 – Grietas oblicuas del canto rodante. En algunos puntos, donde
+se produjo el desarrollo de la grieta interna también en sentido longitudinal, se trata
+del defecto 2222 (o 2223) – Desprendimiento de material del canto rodante; el
+desgaste de la cabeza del raíl puede clasificarse según la norma indicada como
+defecto 2203 – Desgaste lateral de la cabeza del raíl. En el caso de fracturas
+transversales por fatiga se trata de un defecto con código numérico 100.6/200.6 –
+Fractura iniciada por defectos de fatiga por contacto;
+las propiedades del material (composición química, límite de resistencia) del raíl
 ●
-declarados en el catálogo del fabricante.
-El Instituto de Investigación Ferroviaria, a. s., con domicilio en Novodvorská 1698, 142 01 Praga 4 – Braník,
-emitió, a raíz del encargo de ČD, a. s., el Informe técnico VUZ 003/2008 «Fractura de vía TŽ 87 R 65».
-En el marco de la resolución del encargo, analizó la causa de la fractura basándose en los resultados de todas las pruebas, análisis
-y la revisión exhaustiva de todas las partes rotas de las vías entregadas. Además, evaluó si se habían respetado los requisitos de los reglamentos vigentes de ČD, a. s., S 67-Defectos y fracturas de las vías
-y S 3/4-Ensayos no destructivos de las vías, con eficacia desde el 1 de febrero de 1997. Todo el informe forma parte
-del expediente de investigación de ČD, a. s. En el punto número 4 de este informe, «Resumen de los resultados –
-conclusión», se indica, entre otras cosas:
-
+cumplen los valores declarados en el catálogo del fabricante.
+El Instituto de Investigación Ferroviaria, a. s., con domicilio en Novodvorská 1698, 142 01 Praga 4 – Braník, emitió, sobre la base de un pedido de ČD, a. s., el Informe Técnico VUZ 003/2008 "Fractura de raíl TŽ 87 R 65".
+En el marco de la resolución de la tarea, analizó la causa de la fractura sobre la base de los resultados de todas las pruebas, análisis y del examen detallado de todas las partes fracturadas de raíles entregadas. Asimismo, valoró si se cumplieron los requisitos de las normas vigentes de ČD, a. s., S 67-Defectos y fracturas de raíles y S 3/4-Ensayos no destructivos de raíles, en vigor desde el 1. 2. 1997. Todo el informe forma parte del expediente de investigación de ČD, a. s. En el punto n.º 4 de dicho informe "Resumen de resultados – conclusión", entre otras cosas, se indica:
 
 ## Página 16
+
 
 la vía fracturada presenta un desgaste considerable en la cabeza con numerosas grietas superficiales
 ●
@@ -468,6 +478,7 @@ normas jurídicas y procedimientos tecnológicos contenidos en los reglamentos i
 
 ## Página 17
 
+
 Disposiciones jurídicas:
 1) Definiciones básicas - § 2 apartado (2) de la ley:
 La aptitud para el servicio de la vía es el estado técnico de la vía que garantiza su explotación segura y fluida.
@@ -486,8 +497,8 @@ b) la determinación de la responsabilidad de los empleados directivos y del per
 (4) Para garantizar las actividades y determinar la cualificación profesional de las personas participantes en la seguridad de la vía, la manipulación de la vía y la organización del transporte ferroviario, cuando estas actividades las realicen empleados del explotador de la vía, se utilizan los procedimientos tecnológicos contenidos en las disposiciones internas del explotador de la vía.
 6) Condiciones técnicas de aptitud para el servicio de las vías nacionales, regionales y de acceso privado § 25 apartados (1) y (5) del Decreto n.º 177/1995 Coll., por el que se aprueba el reglamento de construcción y técnica de las vías férreas, en su versión vigente (en adelante, Decreto n.º 177):
 
-
 ## Página 18
+
 
 (1) Las condiciones técnicas de aptitud para el servicio de la vía están determinadas por los parámetros constructivos y técnicos y por el desgaste permitido durante el servicio de los componentes de la vía y el funcionamiento de sus partes (componentes).
 (5) Carriles con fracturas o defectos. En la vía en servicio no debe dejarse un carril con fracturas o defectos sin las medidas que garanticen la explotación segura del transporte ferroviario.
@@ -513,6 +524,7 @@ Para determinar las causas y las circunstancias de la producción de este incide
 ●
 
 ## Página 19
+
 
 3.3.2 Otras normas, por ejemplo, el reglamento de explotación, el reglamento de trabajo, las normas de mantenimiento, las normas técnicas vigentes y otras normas internas
 
@@ -555,35 +567,27 @@ Mediante la evaluación de los datos del tacógrafo electrónico se determinó q
 
 Mediante la inspección previa a la puesta en servicio se determinó que el estado técnico de todos los vehículos ferroviarios del conjunto «Pendolino» no estaba en relación causal con la aparición del IE. Las anotaciones forman parte del expediente.
 
-
 ## Página 20
 
 ### 3.5 Documentación sobre el sistema de explotación
-### 3.5.1 Medidas adoptadas por el personal del explotador de la vía y del transportista, en lo relativo al control, la señalización y la protección del tráfico
-
-El estado del riel fue sometido a una supervisión intensificada de conformidad con los requisitos de clasificación de la defecto detectado 2223 en el grupo «D». Se respetó la frecuencia de realización de las inspecciones del estado de la superestructura ferroviaria prescritas según el artículo 8 de la norma ČD S 3/4.
-### 3.5.2 Sustitución de las comunicaciones verbales en relación con el incidente extraordinario, incluidos los documentos del dispositivo de grabación
-
+### 3.5.1 Medidas adoptadas por los empleados del gestor de la infraestructura y del transportista en lo que respecta a la conducción, la señalización y la seguridad del tráfico
+El estado del carril fue sometido a una supervisión reforzada de conformidad con los requisitos de clasificación del defecto detectado 2223 en el grupo «D». Se cumplió la frecuencia de la verificación prescrita del estado del superestructura ferroviaria según el artículo 8 de la norma ČD S 3/4.
+### 3.5.2 Intercambio de comunicaciones verbales en relación con el suceso excepcional, incluidos los registros del dispositivo de registro
 No fue necesario evaluarlo.
-### 3.5.3 Medidas adoptadas para la protección y la seguridad del lugar del incidente extraordinario
-
-El lugar del IE fue asegurado de conformidad con la legislación vigente.
+### 3.5.3 Medidas adoptadas para la protección y la seguridad del lugar del suceso excepcional
+El lugar del SE fue asegurado de conformidad con la normativa legal.
 ### 3.6 Condiciones laborales, sanitarias y de explotación
-### 3.6.1 Jornada laboral del personal del explotador de la vía y del transportista que fueron participantes en el incidente
-
-Mediante la investigación se determinó que la jornada laboral de todas las personas participantes en el IE estaba en conformidad con el Código del Trabajo y con el horario de turnos de ČD, a. s.
-3.6.2 Estado de salud y situación personal que influyeron en el incidente extraordinario, incluido el estrés físico o psicológico
-
-La investigación no determinó que la situación personal, el estado de salud, el estado psicológico y el estado físico de todas las personas participantes en el IE influyeran en la aparición del IE. Todas las personas participantes en el IE estaban capacitadas desde el punto de vista médico. La documentación forma parte del expediente.
-3.6.3 Disposición del equipamiento del puesto de control o del vehículo, que influye en su manejo y uso
-
-La investigación no determinó ninguna relación con la causa del IE.
-### 3.7 Incidentes extraordinarios anteriores de carácter similar
-
-No se había registrado ningún IE similar en la Dirección de Inspección (DI) hasta el momento.
-
+### 3.6.1 Jornada laboral de los empleados del gestor de la infraestructura y del transportista que participaron en el suceso
+La investigación determinó que la jornada laboral de todas las personas implicadas en el SE se ajustó al Código del Trabajo y al turno de trabajo de ČD, a. s.
+3.6.2 Estado de salud y situación personal que influyeron en el suceso excepcional, incluido el estrés físico o psicológico
+La investigación no determinó que la situación personal, el estado de salud, psicológico y físico de todas las personas implicadas en el SE hubieran influido en la ocurrencia del SE. Todas las personas implicadas en el SE estaban médicamente aptas. La documentación forma parte del expediente.
+3.6.3 Disposición del equipamiento del puesto de mando o del vehículo que influye en su manejo y uso
+La investigación no detectó relación con la causa del SE.
+### 3.7 Sucesos excepcionales anteriores de carácter similar
+Hasta la fecha no se habían registrado sucesos excepcionales similares en el DI.
 
 ## Página 21
+
 
 ## 4 ANÁLISIS Y CONCLUSIONES
 ### 4.1 Descripción final del incidente extraordinario
@@ -607,6 +611,7 @@ Durante las inspecciones periódicas mediante ensayos no destructivos realizadas
 
 ## Página 22
 
+
 como defecto n.º 2223, categoría «D». El defecto fue clasificado, de acuerdo con su categorización, bajo el régimen de observación reforzada. Las mediciones de detección de defectos realizadas periódicamente mediante el aparato DIO 562-2CH no señalaron el defecto; este era detectable a simple vista. En el lado interior del alma del carril se realizó una marca amarilla que indicaba el inicio, el final y el número del defecto. Se cumplimentó el parte de defecto. Sobre la base del defecto detectado se ordenó realizar, durante las inspecciones, una observación reforzada dos veces por semana. Se respetó la frecuencia de realización del control prescrito, no se detectaron defectos.
 El Instituto Criminalístico de Praga, a petición de la Policía de la República Checa, realizó el análisis de la fractura del carril, elaborando un Dictamen Técnico, y, de forma independiente a este examen, el operador ČD, a. s., encargó al Instituto de Investigación Ferroviaria, a. s., el análisis de la fractura del carril.
 El Instituto Criminalístico de Praga emitió, con el número de referencia: KUP-2553/KI-1-2007, un Dictamen Técnico, de cuyas conclusiones se desprende que la causa de la aparición de fracturas por fatiga fue el crecimiento de las grietas inclinadas en el borde rodante del carril, en los lugares donde se produjo el desarrollo de una grieta interna en dirección longitudinal.
@@ -619,35 +624,46 @@ Sobre la base de las conclusiones prácticamente idénticas de ambos institutos 
 4.3.1 Causas inmediatas del incidente grave, incluidos los factores que contribuyeron a él y que estaban relacionados con la actuación de las personas implicadas o con el estado de los vehículos ferroviarios o de las instalaciones técnicas
 ### La causa inmediata de la aparición del incidente grave (MU) es el desarrollo de una fractura por fatiga del carril debido al crecimiento de las grietas inclinadas en la superficie y el borde rodante del carril.
 
-
 ## Página 23
 
-Con ello no se cumplieron las disposiciones de las normas jurídicas:
-§ 2 apartado (2), § 20 apartado (1), § 22 apartado 1, letra a) de la Ley, § 25 apartado (1), (5) del Decreto n.º 177 (véase el punto 3.2.1. del presente informe).
+Con ello no se cumplieron las disposiciones de la normativa legal:
+§ 2 apartado (2), § 20 apartado (1), § 22 apartado 1, letra a) de la ley, § 25 apartado (1), (5) del decreto
+n.º 177 (véase el punto 3.2.1. de este informe).
+
 ### 4.3.2 Causas fundamentales relacionadas con la cualificación, los procedimientos y el mantenimiento
 No se detectaron.
-### 4.3.3 Causas derivadas del marco normativo y del uso del sistema de garantía de la seguridad
-No se detectaron.
-### 4.4 Hallazgos complementarios
-### 4.4.1 Deficiencias y omisiones detectadas durante la investigación de las causas y las circunstancias de la aparición del incidente grave, que sin embargo no son relevantes para las conclusiones sobre las causas
-No se detectaron.
-## 5 MEDIDAS ADOPTADAS
-### 5.1 Relación de las medidas que ya se han adoptado o tomado como consecuencia del incidente grave
-### Tras el incidente grave (MU), el operador adoptó las siguientes medidas:
-Medidas adoptadas inmediatamente después del incidente grave (MU):
-1) tratar en la reunión de la Dirección de Vías SDC Praga el incidente grave (MU) mencionado y los hechos detectados, aplicando de manera demostrable estas medidas a su propia actividad de control y prevención en el plazo establecido;
-R: jefes de las secciones de la Dirección de Vías SDC Praga
-P: la reunión más próxima, formación
-2) realizar controles preventivos de conformidad con la «Instrucción R O13 para la realización de controles preventivos y medidas operativas extraordinarias» n.º de referencia: 4116/2007-O13;
-R: jefe de la Dirección de Vías Praga Este y Nymburk
-P: hasta la retirada de la instrucción O13;
-3) iniciar con efecto inmediato mediciones extraordinarias de detección de defectos en el tramo Praga Libeň – Praga-Běchovice en las vías 1.ª y 2.ª, centrándose en los carriles gastados en las curvas y en la posible aparición del defecto n.º 2222 (Shelling);
-R: jefe de la Dirección de Vías Praga Este y Nymburk    
-P: desde el 2. 12. 2007 según la prioridad
-   de los tramos rodantes;
 
+### 4.3.3 Causas debidas al marco normativo y al uso del sistema
+de garantía de la seguridad
+No se detectaron.
+
+### 4.4 Hallazgos complementarios
+
+### 4.4.1 Deficiencias y omisiones detectadas durante la investigación de las causas y circunstancias del origen del
+suceso extraordinario, que sin embargo no son relevantes para las conclusiones sobre las causas
+No se detectaron.
+
+## 5 MEDIDAS ADOPTADAS
+
+### 5.1 Lista de medidas que ya se han tomado o adoptado como consecuencia del suceso extraordinario
+
+### El explotador adoptó las siguientes medidas tras el SE:
+
+Medidas adoptadas inmediatamente después del SE:
+
+1) debatir el SE mencionado y los hechos comprobados en la reunión de la Dirección de Líneas SDC Praga y aplicarlos de forma demostrable a la propia actividad de control y prevención en el plazo establecido;
+R: jefes de las direcciones de líneas SDC Praga
+P: próxima reunión, formación
+2) realizar controles preventivos de conformidad con la "Instrucción Ř O13 para la realización de controles preventivos y medidas operativas extraordinarias" n.º de expediente: 4116/2007-O13;
+R: jefe de la Dirección de Líneas Praga Este y Nymburk
+P: hasta la derogación de O13;
+3) con efecto inmediato, iniciar mediciones extraordinarias de ensayo no destructivo en el tramo Praga Libeň – Praga-Běchovice en la 1.ª y 2.ª vía, con especial atención a los raíles desgastados en las curvas y a la posible aparición del defecto 2222 (Shelling);
+R: jefe de la Dirección de Líneas Praga Este y Nymburk
+P: a partir del 2. 12. 2007 según la prioridad
+   de los tramos transitados;
 
 ## Página 24
+
 
 4) en colaboración con el Centro Técnico de Detección de Defectos (TÚČD), garantizar la verificación del procedimiento de los propios detectoscopistas a la hora de evaluar los defectos de conformidad con la norma S 67, centrándose en los defectos n.º 2222 y 2223 mediante la forma de consultas;
 R:  jefe de la Dirección de Vías Praga Este y Nymburk 
@@ -680,6 +696,7 @@ La Dirección de Inspección (DI), como autoridad administrativa competente de a
 
 ## Página 25
 
+
 verificar todo el proceso de cualificación de las pruebas no destructivas, incluida la formación 
 ●
 y la evaluación independientes del personal de control;
@@ -702,16 +719,16 @@ director
 Inspección Territorial de Praga
 Inspección Territorial de Praga
 
-
 ## Página 26
+
 
 ## 7 ANEXOS
 Foto 1: Vista de la parte descarrilada del conjunto "PENDOLINO" 
 serie 680
-Foto 2: Detalle del bogía descarrilado 
-
+Foto 2: Detalle del bogía descarrilado
 
 ## Página 27
+
 
 Foto 3: Primera rotura de la vía
 Foto 4: Segunda rotura de la vía, según el VUŽ iniciadora, primaria

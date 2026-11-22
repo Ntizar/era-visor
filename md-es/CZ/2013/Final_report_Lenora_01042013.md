@@ -10,13 +10,14 @@ chars: 75903
 ratio_longitud: 1.24
 tokens_in: 38595
 tokens_out: 27312
-verificacion: revisar
-notas_cifras: ["bloque 1: original bilingüe: se compara contra el idioma principal (EN)", "bloque 3: original bilingüe: se compara contra el idioma principal (CS)", "bloque 5: cifras cortas: 4/272"]
-avisos: ["bloque 3: ratio 1.64"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (PT)", "página 3: original bilingüe: se compara contra el idioma principal (PT)", "página 4: original bilingüe: se compara contra el idioma principal (CS)", "página 9: original bilingüe: se compara contra el idioma principal (EN)", "página 10: original bilingüe: se compara contra el idioma principal (PT)", "página 11: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 Inspección Ferroviaria
 República Checa
@@ -42,13 +43,13 @@ ID:   75009561
 http://www.dicr.cz
 tel.: 224 805 444
 
-
 ## Página 2
+
 
 Este informe final es público y todos los documentos y hechos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ## 1 RESUMEN
 Fuente: SŽDC 
@@ -77,8 +78,8 @@ condiciones de visibilidad insuficientes en el paso a nivel ferroviario,
 •
 concretamente longitud de visibilidad insuficiente para el vehículo Lr.
 
-
 ## Página 4
+
 
 Causas principales:
 incumplimiento de las normas de circulación en las vías públicas por parte del 
@@ -115,13 +116,13 @@ tengan, dado que la imposibilidad de acreditar esta actividad puede,
 en sucesos excepcionales similares, perjudicar a alguna de las 
 partes intervinientes.
 
-
 ## Página 5
+
 
 De conformidad con lo dispuesto en el apartado 5 del artículo 53b de la Ley núm. 266/1994 Sb., de ferrocarriles, en su versión vigente, o con el anexo núm. 7 del decreto núm. 376/2006 Sb., sobre el sistema de seguridad de la explotación de la vía férrea y del transporte ferroviario y los procedimientos en caso de sucesos excepcionales en las vías férreas, en su versión vigente, la Inspección Ferroviaria recomienda a la Autoridad Ferroviaria la adopción de sus propias medidas encaminadas a la aplicación de las recomendaciones de seguridad anteriores también respecto de los demás gestores de vías férreas y transportistas en la República Checa. Asimismo, recomienda a la Autoridad Ferroviaria participar activamente en la elaboración de una nueva enmienda a la norma ČSN 73 6380 Pasos a nivel y pasos peatonales ferroviarios, de modo que, en la elaboración de dicha enmienda, se tengan en cuenta todos los aspectos necesarios para garantizar la explotación segura de los pasos a nivel ferroviarios en la República Checa.
 
-
 ## Página 6
+
 
 ## SUMMARY 
 Grade:
@@ -172,10 +173,10 @@ compliance immediately adjust visibility conditions, to ensure safe
 operation of the railway transport and safe operation on the road;
 it is recommended to take their own measures to ensure improvement 
 •
-of checking system so that inspections of level crossings were made 
-
+of checking system so that inspections of level crossings were made
 
 ## Página 7
+
 
 properly, visibility conditions were checked and detected failures were 
 removed. 
@@ -192,11 +193,12 @@ Republic. It is recommended to take proactive approach at creation of
 a new change of standard No. ČSN 73 6380, in order to ensure the 
 safe operation of all the level crossings in the Czech Republic.
 
-
 ## Página 8
 
 
+
 ## Página 9
+
 
 # Contenido
 1 Resumen ........................................................................................................................3
@@ -243,6 +245,7 @@ relación contractual ..........................................................
 
 ## Página 10
 
+
 3.1.2 Otras personas .........................................................................................................20
 3.2 Sistema de garantía de la seguridad ...............................................................................21
 3.2.1 Organización marco y forma en que se emiten y aplican las instrucciones .......21
@@ -272,10 +275,10 @@ cumplimiento ...................................................................
 4.1.1 Descripción final del suceso ferroviario basada en los hechos establecidos en el punto 3 
 ............................................................................................................................30
 4.2 Análisis ......................................................................................................................31
-4.2.1 Evaluación de los hechos establecidos de acuerdo con el punto 3 y formulación de conclusiones sobre la causa 
-
+4.2.1 Evaluación de los hechos establecidos de acuerdo con el punto 3 y formulación de conclusiones sobre la causa
 
 ## Página 11
+
 
 del suceso ferroviario y la actuación de los servicios de emergencia ..........................................31
 4.3 Conclusiones .......................................................................................................................37
@@ -290,8 +293,8 @@ del suceso ferroviario y la actuación de los servicios de emergencia ..........
 6 Recomendaciones de seguridad .............................................................................................40
 7 Anexos .............................................................................................................................41
 
-
 ## Página 12
+
 
 ## Lista de siglas y símbolos utilizados
 CDP
@@ -339,8 +342,8 @@ investigación propia
 ŽP
 pasaje a nivel
 
-
 ## Página 13
+
 
 ## Lista de siglas de las disposiciones legales, normas y normas internas 
 utilizadas
@@ -384,16 +387,16 @@ norma interna del gestor de la infraestructura SŽDC, s. o., SŽDC
 (ČD) S 2/3 Organización y realización de las inspecciones de las líneas de České dráhy, aprobada por decisión del director general de České dráhy el 9 de diciembre de 2002, ref.: 57775/2002-
 O13, en vigor desde el 1. 1. 2003, en su versión vigente
 
-
 ## Página 14
+
 
 SŽDC (ČD) D3
 norma interna del gestor de la infraestructura SŽDC, s. o., SŽDC 
 (ČD) D3 Norma para la gestión simplificada del transporte ferroviario, aprobada por decisión del director general de České dráhy el 20 de mayo de 1997, ref.: 56457/97-O18, 
 en vigor desde el 28. 12. 1997, en su versión vigente
 
-
 ## Página 15
+
 
 ## 2 DATOS RELATIVOS AL SUCESO FERROVIARIO
 ## 2.1
@@ -413,8 +416,8 @@ GPS:
 Fig. 1: Vista del lugar del SF 
 Fuente: SŽDC
 
-
 ## Página 16
+
 
 ### 2.1.2 Descripción del suceso ferroviario y del lugar del accidente, incluida la actuación del sistema 
 integrado de emergencias y del servicio de emergencias
@@ -429,8 +432,8 @@ detrás del pasaje a nivel en el sentido de la marcha hacia la estación D3 Leno
 encontraba justo al lado del paso a nivel, paralelo a la línea, a la derecha en el sentido de la marcha del tren. El sentido de la marcha del tren y del automóvil hacia el pasaje a nivel se muestra en el esquema de situación del lugar del SF.
 Con motivo del SF se activó el IZS.
 
-
 ## Página 17
+
 
 Fig. 3: Posición final del tren y del automóvil tras la producción del SF
 Fuente: SŽDC
@@ -454,8 +457,8 @@ no fue necesario formarlo.
 Colaboración externa:
 no se utilizó.
 
-
 ## Página 18
+
 
 Posteriormente, la investigación de las causas y circunstancias del SF fue encomendada dentro de DI al ÚI Plzeň.
 En la investigación de las causas y circunstancias del SF, DI partió de sus propios conocimientos 
@@ -489,6 +492,7 @@ Estación de destino del tren: Strakonice
 
 ## Página 19
 
+
 ### 2.2.3 Descripción de los componentes de la vía de circulación, del sistema de señalización (es decir, en particular el estado de las vías, desvíos, aparatos de enclavamiento, señales y del dispositivo de seguridad ferroviaria)
 El paso a nivel P1032 en el punto kilométrico 61,796 de la línea Strakonice – Volary es de vía única, tiene una anchura de 3,5 m, una longitud de 5,0 m y el ángulo de cruce de la carretera terrestre con la línea es de 85°. La estructura del paso a nivel es de hormigón armado, la calzada de la carretera que conduce al paso a nivel está revestida con una capa asfáltica – macadán penetrado. El paso a nivel ferroviario está protegido únicamente con cruces de advertencia. Las cruces de advertencia están situadas a la derecha junto a la carretera terrestre de acceso, en ambos lados del paso a nivel. La señal de tráfico P6 «Pare, ceda el paso en la circulación» y/o B17 «Prohibido el paso de vehículos o conjuntos de vehículos cuya longitud supere el límite indicado» no está (no están) colocada(s) en la carretera antes del paso a nivel. Las señales de advertencia con la indicación «Pite» están situadas a la derecha de la vía a una distancia de 270 m del paso a nivel para la circulación del vehículo ferroviario desde la estación de clasificación D3 Lenora y a 290 m del paso a nivel para la circulación del vehículo ferroviario desde la est. Volary.
 ### 2.2.4 Uso de los medios de comunicación
@@ -511,37 +515,42 @@ En el lugar de la UE no se estaban realizando, inmediatamente antes de su aparic
 En el lugar de la UE estaban presentes también los jefes de los distintos componentes organizativos del explotador de la vía y del transportista.
 Con la presencia del VI DI se realizó una inspección comisionada del lugar de la UE, incluida la elaboración del acta.
 
-
 ## Página 20
 
-### 2.2.7 Activación del plan del sistema integrado de emergencias, de la policía y del servicio médico de emergencias y secuencia de acontecimientos
-La UE fue notificada por: el maquinista del tren Os 18109 al despachador director de la línea Strakonice – Volary.
-El plan del SIU fue activado. El plan del SIU fue activado a las 8.59 h por el jefe de servicio del tren Os 18109.
-Al lugar de la UE acudieron los componentes del SIU:
-• Servicio de Bomberos de Emergencias de la SŽDC JPO České Budějovice;
-• P ČR Inspectorado de Tráfico de Prachatice.
+### 2.2.7 Activación del plan del sistema integrado de emergencias, policía y servicio médico de emergencias y secuencia de acontecimientos
+MU comunicó: el maquinista del tren Os 18109 al despachador de la línea Strakonice – Volary.
+El plan IZS fue activado. El plan IZS fue activado a las 8.59 h por el jefe de servicio del tren Os 18109.
+Al lugar del MU acudieron los servicios del IZS:
+Servicio de bomberos y rescate de SŽDC, JPO České Budějovice;
+•
+P ČR, Inspección de Tráfico de Prachatice.
+•
 ## 2.3
-### Fallecidos, heridos y daños materiales
-2.3.1 En los pasajeros y terceras personas, empleados del explotador de la vía y del transportista, incluidas las personas en relación contractual
-En la UE no se produjo daño a la salud en los empleados del explotador de la vía, del transportista, de las personas en relación contractual, ni en los pasajeros y terceras personas.
-### 2.3.2 En las cosas transportadas, equipajes y otros bienes
-En la UE se produjo un daño en:
-• automóvil de turismo de la marca Volkswagen Bora
+### Fallecimientos, lesiones y daños materiales
+2.3.1 En pasajeros y terceras personas, empleados del gestor de la vía y del transportista, incluidas personas en relación contractual
+En el MU no se produjeron daños a la salud en empleados del gestor de la vía, del transportista, personas en relación contractual, ni en pasajeros y terceras personas.
+### 2.3.2 En objetos transportados, equipaje y otros bienes
+En el MU se produjo daño en:
+automóvil de la marca Volkswagen Bora
   50 000 Kč.
-En la UE, el daño producido en las cosas transportadas, equipajes y otros bienes fue valorado en un total de 50 000 Kč.
-### 2.3.3 En los vehículos ferroviarios, componentes de la vía de circulación y en el medio ambiente
-Por parte del explotador de la vía y de los transportistas fue valorado el daño en:
-• HDV (tren Os 18109)
+•
+En el MU, el daño producido en objetos transportados, equipaje y otros bienes fue cuantificado en un total de 50 000 Kč.
+### 2.3.3 En vehículos ferroviarios, componentes de la vía y en el medio ambiente
+Por parte del gestor de la vía y de los transportistas se cuantificó el daño en:
+HDV (tren Os 18109)
   67 385 Kč;
-• instalaciones de la vía
+•
+instalaciones de la vía
 0 Kč;
-• daño al medio ambiente
+•
+daño al medio ambiente
 0 Kč.
-En la UE, el daño producido en los vehículos ferroviarios, componentes de la vía y otros bienes
-### fue valorado en un total de: 67 385 Kč.
-
+•
+En el MU, el daño producido en vehículos ferroviarios, componentes de la vía y otros bienes
+### fue cuantificado en un total de: 67 385 Kč.
 
 ## Página 21
+
 
 ## 2.4
 ### Circunstancias externas
@@ -581,8 +590,8 @@ nublado, - 2 °C, visibilidad no reducida.
 • la posibilidad de ver a tiempo el tren que llega por la izquierda está muy dificultada, tanto
 • por la cerca viva como por el corte de la línea.
 
-
 ## Página 22
+
 
 ## 3.2
 ### Sistema de garantía de la seguridad
@@ -601,56 +610,68 @@ Hallazgo: el sistema de control interno no detectó la realización incorrecta (
 El propietario de la vía ferroviaria, categoría regional, Strakonice – Volary, es la República Checa con el derecho de gestión de la Administración de la Vía de Circulación Ferroviaria, organización estatal, con domicilio en Dlážděná 1003/7, Praha 1 Nové město, código postal 110 00.
 El explotador de la vía ferroviaria regional Strakonice – Volary es la SŽDC, s. o., con domicilio en Dlážděná 1003/7, Praha 1 – Nové Město, código postal 110 00, con base en la Autorización Administrativa emitida por el DÚ el 29. 5. 2008, n.º de expediente: 3-4277/07-DÚ/Le, n.º de registro: ÚP/2008/9002.
 
-
 ## Página 23
 
-El transportista del tren Os 18109 fue ČD, a. s., con domicilio en Nábřeží L. Svobody 1222, Praha 1, código postal 110 15, con base en la Licencia de transportista concedida por decisión del DÚ el 29. 5. 2008, n.º de expediente: 3-2169/03-DÚ/Bp, n.º de registro: L/2003/9000.
-El transportista era titular del Certificado de transportista, emitido por el DÚ el 2. 3. 2011, n.º de expediente: DUCR-2366/10/Pd, n.º de registro: OSD/2008/028.
-El transporte ferroviario era explotado con base en el contrato «CONTRATO número 001/09 sobre la explotación del transporte ferroviario en la vía de circulación ferroviaria de la vía de ámbito nacional y de las vías regionales en propiedad de la República Checa», celebrado entre el explotador de la vía y el transportista el 30. 6. 2009, con efectos desde el 1. 7. 2009, en su versión vigente.
-En la interfaz entre los sujetos implicados no se constató ninguna deficiencia.
+El transportista del tren Os 18109 era ČD, a. s., con domicilio en Nábřeží L. Svobody 1222, 
+Praga 1, CP 110 15, en virtud de la Licencia de transportista concedida por decisión de la DÚ el 29. 5. 
+2008, ref.: 3-2169/03-DÚ/Bp, n.º reg.: L/2003/9000.
+El transportista era titular del Certificado de transportista, emitido por la DÚ el 2. 3. 2011, ref.: 
+DUCR-2366/10/Pd, n.º reg.: OSD/2008/028.
+El transporte ferroviario se prestaba en virtud del contrato «CONTRATO número 001/09 
+sobre la prestación de transporte ferroviario en la vía de transporte ferroviario de la red ferroviaria de ámbito estatal y de las líneas ferroviarias regionales en propiedad de la República Checa», celebrado entre el gestor de la vía y el transportista 
+el 30. 6. 2009, con efectos desde el 1. 7. 2009, en su versión vigente.
+En la interfaz entre los sujetos implicados no se detectó ninguna deficiencia.
 ## 3.3
-### Regulación legal y otra
-### 3.3.1 Normativa legal comunitaria y nacional pertinente
-En la investigación de la UE se constató la infracción de las siguientes normas legales:
-• § 6 apartado 3 de la Ley n.º 266/1994 Sb.:
-• «Cuando la vía ferroviaria cruce con las carreteras terrestres a nivel de las vías, el transporte ferroviario tiene prioridad sobre la circulación en la carretera terrestre.»;
-• § 22 apartado 1 letra a) de la Ley n.º 266/1994 Sb.:
-• «El explotador de la vía está obligado a explotar la vía para las necesidades de un transporte ferroviario fluido y seguro según las reglas para la explotación de la vía y la autorización administrativa.»;
-• § 22 apartado 2 letra d) de la Ley n.º 266/1994 Sb.:
-• «El explotador de la vía de ámbito nacional o de la vía regional está además obligado a implantar el sistema de garantía de la seguridad de la explotación de la vía y a garantizar su cumplimiento.»;
-• § 25 apartado 12 del Decreto n.º 177/1995 Sb.:
-• «El estado operativo-técnico de los pasos a nivel y pasos peatonales ferroviarios debe garantizar la explotación segura de la vía y la circulación segura en las carreteras terrestres; en particular, debe estar garantizado según la documentación de proyecto la señalización
-• y la protección del paso a nivel, las condiciones de visibilidad, el drenaje y la transitabilidad de la calzada del paso a nivel.»
-• § 26 apartado 2 letra g) y letra n) del Decreto n.º 177/1995 Sb.:
-• «Las inspecciones y mediciones periódicas según el apartado 1 se realizan...
-• g) con una inspección integral de las líneas, en la que se evalúa el estado del superestructura ferroviaria, del cuerpo de la infraestructura ferroviaria, de las obras de la infraestructura ferroviaria, de los andenes, de las rampas y de los pasos a nivel tras el periodo invernal y se detectan los defectos y su alcance,
-
+### Regulación jurídica y de otro tipo
+### 3.3.1 Normativa comunitaria y nacional aplicable
+En la investigación del MU se constató la infracción de las siguientes disposiciones legales:
+§ 6 apartado 3 de la Ley núm. 266/1994 Sb.:
+•
+«En los cruces de la vía ferroviaria con las carreteras a nivel de las vías, el transporte ferroviario tiene prioridad sobre el tráfico en la carretera.»;
+§ 22 apartado 1 letra a) de la Ley núm. 266/1994 Sb.:
+•
+«El gestor de la vía está obligado a explotar la vía para las necesidades del transporte ferroviario fluido y seguro de acuerdo con las normas de explotación de la vía y la autorización administrativa.»;
+§ 22 apartado 2 letra d) de la Ley núm. 266/1994 Sb.:
+•
+«El gestor de la vía de ámbito estatal o de la línea ferroviaria regional está además obligado a implantar un sistema de garantía de la seguridad de la explotación de la vía y a garantizar su cumplimiento.»;
+§ 25 apartado 12 del decreto núm. 177/1995 Sb.:
+•
+«El estado operativo-técnico de los pasos a nivel y de los pasos peatonales debe garantizar la explotación segura de la vía y la circulación segura en las carreteras; 
+en particular, de acuerdo con la documentación de proyecto, debe estar garantizada la señalización 
+y la protección del paso a nivel, las condiciones de visibilidad, el drenaje y la practicabilidad de la calzada del paso a nivel.»
+§ 26 apartado 2 letra g) y letra n) del decreto núm. 177/1995 Sb.:
+•
+«Las inspecciones y mediciones periódicas previstas en el apartado 1 se realizan...
+g) mediante una inspección integral de las líneas, en la que se evalúa el estado del balasto, del cuerpo 
+de la infraestructura ferroviaria, de las obras de la infraestructura ferroviaria, de los andenes, de las rampas y de los pasos a nivel tras el periodo invernal, y se detectan los defectos y su alcance,
 
 ## Página 24
 
-• n) con una inspección de los pasos a nivel y pasos peatonales, en la que según la documentación de proyecto se verifica el estado de la señalización y la protección del paso a nivel y del paso peatonal, las condiciones de visibilidad, el drenaje y la transitabilidad de la calzada del paso a nivel.»;
-• § 28 apartado 1 de la Ley n.º 361/2000 Sb.:
-• «Ante un paso a nivel ferroviario, el conductor debe proceder con especial precaución, en particular asegurarse de que puede cruzar el paso a nivel ferroviario de forma segura.».
-3.3.2 Otras normas, p. ej. reglamento de explotación, reglamento de trabajo, normas de mantenimiento, normas técnicas vigentes y otras normas internas
-En la investigación de la UE se constató la infracción de las siguientes normas internas:
+n) por la inspección de pasos a nivel y pasos peatonales, durante la cual se comprueba, de acuerdo con la documentación de proyecto, el estado de la señalización y la protección del paso a nivel y del paso peatonal, las condiciones de visibilidad, el drenaje y la practicabilidad de la calzada del paso a nivel.“;
+§ 28 apartado 1 de la Ley núm. 361/2000 Sb.:
+•
+„Ante un paso a nivel, el conductor debe proceder con especial precaución, en particular, debe asegurarse de que puede cruzar el paso a nivel de forma segura.“.
+3.3.2 Otras normas, p. ej., reglamento de explotación, reglamento de trabajo, normas de mantenimiento, normas técnicas vigentes y otras normas internas
+En la investigación del MU se constató el incumplimiento de las siguientes normas internas:
 a) artículo 40, punto bc), de la norma SŽDC (ČSD) S 4/3:
-«Las inspecciones de primavera y otoño se centran especialmente en... el estado de las condiciones de visibilidad, de las señales de tráfico correspondientes, de las barandillas. La inspección determinará el alcance y la necesidad de los trabajos de reparación y se redactará un acta con los plazos para la eliminación de los defectos.»;
+„Las inspecciones de primavera y otoño se centran especialmente en... el estado de las condiciones de visibilidad, las señales de tráfico correspondientes y las barandillas. La inspección determinará el alcance y la necesidad de los trabajos de reparación y se levantará un acta con los plazos para la eliminación de las anomalías.“;
 b) artículo 15, de la norma SŽDC (ČD) S 2/3:
-«El empleado encargado de la inspección está obligado:
-a) a realizar correctamente la actividad de inspección en los plazos y alcance establecidos,
-b) a documentar oportunamente los resultados, incluida la evaluación,
-c) a imponer, respectivamente, a garantizar dentro del ámbito de sus competencias medidas eficaces para la circulación segura del transporte ferroviario y la seguridad de las personas,
-d) a garantizar la inspección posterior de la eliminación de los defectos detectados»;
+„El empleado encargado de la inspección está obligado a:
+a) realizar correctamente la actividad de inspección en los plazos y con el alcance establecidos,
+b) documentar oportunamente los resultados, incluida su evaluación,
+c) imponer, en el ámbito de sus competencias, o garantizar la adopción de medidas eficaces para la explotación segura del transporte ferroviario y la seguridad de las personas,
+d) garantizar la inspección posterior de la eliminación de las anomalías detectadas“;
 c) artículo 41, de la norma SŽDC (ČD) S 2/3:
-«Mediante la patrulla de la línea, al menos en los intervalos establecidos, se detecta el estado del superestructura ferroviaria, de la infraestructura ferroviaria, de los pasos a nivel, de las señales de línea, de las instalaciones especiales de la vía de circulación, la conservación de la disposición espacial, los cambios y la actividad en la vía y en sus alrededores. En particular se inspeccionan los defectos registrados del material de los raíles, el estado de las uniones, la conexión conductora de las bandas de raíles y el descarrilamiento, la fiabilidad del fijado de los raíles y la estabilidad de la vía, la visibilidad de las señales de línea y de las señales, las condiciones de visibilidad en los pasos a nivel, el estado de las ranuras en los pasos a nivel...»;
+„Mediante el recorrido de la vía, al menos en los intervalos establecidos, se comprueba el estado de la superestructura ferroviaria, de la infraestructura ferroviaria, de los pasos a nivel, de las señales de vía, de las instalaciones especiales de la vía de circulación, la conservación de la disposición espacial, los cambios y la actividad en la vía y en sus alrededores. Se inspeccionan especialmente las anomalías registradas del material de vía, el estado de las uniones, la conexión conductora de las bandas de vía y el descarrilamiento, la fiabilidad del fijación de los raíles y la estabilidad de la vía, la visibilidad de las señales de vía y de las señales de señalización, las condiciones de visibilidad en los pasos a nivel, el estado de los canaletas en los pasos a nivel...“;
 d) artículo 44 de la norma SŽDC (ČD) S 2/3:
-«El empleado que realiza la inspección comprueba si la línea se encuentra en un estado tal que la circulación ferroviaria sea segura y fiable. Al detectar un defecto que ponga en peligro la seguridad del transporte, está obligado a garantizar las medidas de tráfico necesarias y a notificarlas a su superior directo.»;
+„El empleado que realiza la inspección comprueba si la vía se encuentra en un estado tal que la explotación ferroviaria sea segura y fiable. Si detecta una anomalía que pone en peligro la seguridad del transporte, está obligado a adoptar las medidas de tráfico necesarias y a comunicarlas a su superior directo.“;
 e) artículo 105, punto c), cuarto párrafo de la norma SŽDC (ČD) S 2/3:
-«La evaluación integral del estado de las líneas incluye: …- los pasos a nivel y la adaptación de la carretera adyacente...»
+„La evaluación integral del estado de las vías incluye: ….- los pasos a nivel y la adaptación de la vía contigua...“
 f)
 artículo 54 de la norma SŽDC (ČD) S 2/3:
 
 ## Página 25
+
 
 «Con una prueba de conducción en el vehículo de tracción ferroviario… A continuación se observa… el estado en los pasos a nivel… la actividad en la vía y en sus alrededores.»;
 g) art. 7.4.1 ČSN 73 6380 Z2:
@@ -673,23 +694,22 @@ c) longitud visual para el vehículo rodado más lento Lp que determina el campo
 El paso a nivel en el que se produjo el SU no está equipado con un dispositivo de protección de paso a nivel.
 No se detectaron deficiencias.
 
-
 ## Página 26
 
 ### 3.4.2 Componentes de la vía
-Tras la llegada al lugar del SU, el VI DI realizó una inspección del lugar del SU, que incluyó también la evaluación de las condiciones visuales en el paso a nivel. En un paso a nivel protegido únicamente con cruces de advertencia se evalúan, entre otros, las longitudes visuales para el vehículo rodado Lr y las longitudes visuales para el vehículo rodado más lento Lp. La representación de las longitudes visuales y de los correspondientes campos visuales se muestra en las figuras n.º 4 y 5.
-Fig. n.º 4: Campos visuales de la longitud visual Lr 
+Tras la llegada al lugar del accidente ferroviario, el investigador jefe de investigación realizó la inspección del lugar del accidente ferroviario, que incluyó también la evaluación de las condiciones de visibilidad en el paso a nivel. En un paso a nivel protegido únicamente con cruces de advertencia se evalúan, entre otros, las longitudes de visibilidad para el vehículo de carretera Lr y las longitudes de visibilidad para el vehículo de carretera más lento Lp. La representación de las longitudes de visibilidad y de los campos de visibilidad correspondientes se muestra en las figuras n.º 4 y 5.
+Fig. n.º 4: Campos de visibilidad de la longitud de visibilidad Lr 
 Fuente: DI
 
-
 ## Página 27
+
 
 Fig. n.º 5: Campos visuales de la longitud visual Lp 
 Fuente: DI
 Se constató que la visión del conductor del vehículo rodado hacia el tren que se aproximaba estaba considerablemente limitada por un seto vivo crecido (de 2 m de altura) situado a la izquierda de la vía terrestre.
 
-
 ## Página 28
+
 
 Fig. n.º 6: Vista hacia el PP en el sentido de circulación del automóvil desde Dz = 10 m (el tren se dirigía al PP por la izquierda.) 
 Fuente: DI
@@ -699,8 +719,8 @@ Este valor tampoco cumple las disposiciones del punto 7.4.6.5. de la ČSN 73 638
 Las longitudes visuales para vehículos rodados Lr en los demás campos visuales se midieron en 128, 150 y 160 m. Estos valores de Lr cumplen las disposiciones de la ČSN 73 6380 Z2, y también cumplen las disposiciones de la ČSN 73 6380 en la redacción de la modificación Z3.
 La ČSN 73 6380 Z2 establece para una vía local del grupo C, una velocidad de línea de 50 km/h y un ángulo de intersección de la vía terrestre con la línea ferroviaria de 85º, el valor mínimo de longitud visual para el vehículo rodado más lento Lp de 149,5 m (punto 7.4.6.9, tabla 4b). En el lugar de producción del SU, el VI DI midió longitudes visuales reales Lp de 111, 138, 120
 
-
 ## Página 29
+
 
 y 137 m. Estos valores de Lp no cumplen las disposiciones del punto 7.4.6.9 de la ČSN 73 6380 Z2. Estos valores tampoco cumplen las disposiciones del punto 7.4.6.5. de la ČSN 73 6380 en la redacción de la modificación Z3.
 La ČSN 73 6380 Z2 establece para los pasos a nivel protegidos únicamente con una cruz de advertencia, que si la longitud visual requerida Lp es inferior a 250 m, se coloca una señal de advertencia con la indicación «Pískejte» (Pite) a una distancia de 250 m del paso a nivel (punto 6.3.4). En el lugar de producción del SU, el VI DI midió las distancias reales de las señales de advertencia con la indicación «Pískejte» al paso a nivel de 270 m y 290 m. Estos valores no cumplen la ČSN 73 6380 Z2. Estos valores cumplen la ČSN 73 6380 Pasos a nivel y pasos peatonales ferroviarios modificación Z1, que estuvo vigente hasta el 28. 2. 2013, y Z3, que está vigente desde el 1. 9. 2013.
@@ -722,8 +742,8 @@ a continuación la velocidad desciende a 48 km/h a lo largo de 542 m;
 desde esta velocidad, el tren se detiene utilizando el frenado de acción rápida a lo largo de 60 m.
 •
 
-
 ## Página 30
+
 
 No se detectaron deficiencias.
 ## 3.5
@@ -743,8 +763,8 @@ El empleador garantizó a su empleado las condiciones para el descanso previo al
 3.6.2 Estado de salud y situación personal que influyeron en la excepcionalidad, incluido el estrés físico o psicológico
 El empleado del transportista implicado estaba, en el momento de la producción del SU, en condiciones de salud para el desempeño de la función que ocupaba. La investigación no constató que la situación personal o el estado psicológico de la persona implicada en el SU influyeran en la producción del SU.
 
-
 ## Página 31
+
 
 El empleado del transportista se sometía a exámenes médicos periódicos de conformidad con la disposición del decreto n.º 101/1995 Sb. No se detectaron el estado de salud ni la situación personal que pudieran haber influido en la producción del SU, incluido el estrés físico y psicológico.
 3.6.3 Disposición y equipamiento del puesto de mando o del vehículo que influye en su control y uso
@@ -770,6 +790,7 @@ El 1. 4. 2013 a las 8.57 h se produjo, en el paso a nivel P1032 del km 61,796, q
 
 ## Página 32
 
+
 ## 4.2
 ### Análisis
 ### 4.2.1 Evaluación de los hechos constatados de acuerdo con el punto 3 y formulación de conclusiones sobre la causa del suceso excepcional y la actuación de los servicios de rescate
@@ -794,8 +815,8 @@ Los resultados de las mediciones se indican en la tabla:
 | 6 0 , | 31 0 , | 18 0 , |
 | 5 0 , | 80 0 , | 63 5 , |
 
-
 ## Página 33
+
 
 | 4 0 , | 100 0 , | 100 0 , |
 | 3 0 , | 111 0 , | 117 0 , |
@@ -807,12 +828,11 @@ De los resultados de las mediciones se deduce que el conductor del vehículo por
 Fig. n.º 7: Visibilidad del conductor del automóvil hacia el tren desde Dz = 6 m (Lr = 18 m)
 Fuente: DI
 
-
 ## Página 34
 
-Fig. n.º 8: Visibilidad del conductor del automóvil hacia el tren desde Dz = 5 m (Lr = 63,5 m)
+Fig. n.º 8: Visión del conductor del automóvil del tren desde Dz = 5 m (Lr = 63,5 m)
 Fuente: DI
-Mediante cálculo se puede determinar la distancia necesaria para detener el vehículo por carretera antes del paso a nivel en función de la velocidad del vehículo por carretera. La ČSN 73 6380 Z2, en su Anexo A, indica el procedimiento para el cálculo de la longitud de visibilidad para detener Dz, que puede utilizarse para el cálculo de la distancia de frenado real del vehículo por carretera antes del paso a nivel ferroviario. (El mismo método de cálculo se indica también en la ČSN 73 6380 en la redacción de las modificaciones Z1 y Z3.)
+Mediante cálculo se puede determinar la distancia necesaria para detener el vehículo por carretera antes del paso a nivel en función de la velocidad del vehículo por carretera. La norma ČSN 73 6380 Z2, en su Anexo A, indica el procedimiento para el cálculo de la longitud de visibilidad para detener Dz, que puede utilizarse para el cálculo de la distancia real de frenado del vehículo por carretera antes del paso a nivel ferroviario. (El mismo método de cálculo se indica también en la ČSN 73 6380 en su versión de las modificaciones Z1 y Z3.)
 La fórmula para el cálculo de la longitud de visibilidad para detener es:
 donde:
 Dz – longitud de visibilidad para detener;
@@ -821,11 +841,11 @@ vs – velocidad del vehículo por carretera antes del paso a nivel;
 gn – aceleración gravitatoria normal;
 fv – coeficiente de cálculo de la fricción de frenado en calzada mojada;
 s – pendiente longitudinal de la calzada;
-bv – distancia de seguridad del vehículo respecto al obstáculo en m, igual al redondeo al siguiente
-       múltiplo superior de 5 m.
-
+bv – distancia de seguridad del vehículo respecto al obstáculo en m, igual al redondeo al múltiplo
+       de 5 m inmediatamente superior.
 
 ## Página 35
+
 
 El cálculo de la distancia de frenado real del vehículo por carretera se realizó para las velocidades del vehículo por carretera de 30, 20 y 15 km/h.
 Para el cálculo de la distancia de frenado real del vehículo por carretera se sustituyeron en la fórmula los siguientes valores:
@@ -876,23 +896,23 @@ Fig. n.º 9: Distancia de frenado del vehículo por carretera en función de su 
 Fuente: DI
 Del cálculo y de la figura n.º 9 se deduce que, si el conductor del vehículo por carretera circulara a la velocidad máxima permitida de 30 km/h, no tiene posibilidad de reaccionar a tiempo al tren que se aproxima y detener el vehículo antes del paso a nivel. De los cálculos y de la figura n.º 9 se deduce que, a una velocidad de circulación del vehículo por carretera de 20 km/h, el conductor detiene su vehículo únicamente en la zona peligrosa del paso a nivel.
 
-
 ## Página 36
+
 
 La velocidad máxima de aproximación a la que el conductor es capaz de detener el vehículo a una distancia segura antes del paso a nivel es de 15 km/h. El conductor fue advertido a tiempo mediante la señalización de tráfico (cruz de advertencia) de que se aproximaba al paso a nivel ferroviario y debía proceder con especial precaución de conformidad con el § 28 de la ley n.º 361/2000 Sb., comprobando especialmente si podía cruzar el paso a nivel ferroviario con seguridad. Dada la hora del día y la visibilidad no reducida en el momento del origen del SE, el conductor vio que la visibilidad hacia la vía a la izquierda en el sentido de su circulación estaba considerablemente limitada por un seto vivo de gran desarrollo. En el momento del origen del SE no estaba colocada antes del paso a nivel ferroviario la señal de tráfico P6 «Alto, ceda el paso». Por tanto, al conductor no le fue impuesta mediante la señalización de tráfico la obligación de detener su vehículo antes del paso a nivel ferroviario en el lugar desde el que tiene la visibilidad adecuada. De los hechos del SE se deduce que el conductor no circulaba hacia el paso a nivel ferroviario a la velocidad máxima permitida (30 km/h), sino que ajustó la velocidad del vehículo a aquella velocidad a la que consideraba que sería capaz de reaccionar a tiempo ante un eventual tren en circulación y detenerse antes del paso a nivel. El conductor indicó en su declaración de explicación que circulaba a una velocidad de unos 20 km/h; esta velocidad indicada por el conductor es confirmada también por el cálculo anterior de la longitud de la distancia de frenado. De los cálculos se deduce que la velocidad máxima a la que puede detenerse el vehículo a una distancia segura antes del paso a nivel es de 15 km/h. El conductor, durante su circulación, se aproximaba al paso a nivel ferroviario paralelamente al seto vivo, por lo que no podía determinar con exactitud a qué distancia antes del paso a nivel ferroviario terminaba el seto, es decir, desde qué distancia tendría la visibilidad adecuada hacia la vía. Por este motivo le resultaba más difícil ajustar óptimamente la velocidad de circulación a las condiciones reales de visibilidad en el paso a nivel.
 Este SE fue investigado también por la P ČR como accidente de tráfico en las vías de comunicación por carretera, lo resolvió en el lugar, determinó como responsable del accidente al conductor del automóvil y le impuso una multa en efectivo.
 La obligación de realizar inspecciones y mediciones periódicas de los pasos a nivel ferroviarios, incluida la comprobación de las condiciones de visibilidad, se impone al explotador de la vía por el decreto n.º 177/1995 Sb. en su § 26. El intervalo de tiempo de la inspección de los pasos a nivel se establece en el anexo n.º 1 de dicho decreto y es de 12 meses. Asimismo, la normativa interna del explotador de la vía SŽDC (ČSD) S 4/3, en el artículo 40, determina el contenido de las inspecciones de los pasos a nivel y los procedimientos a seguir cuando se detecten defectos. La última inspección periódica del paso a nivel antes del origen del SE se realizó el 30 de mayo de 2012. En dicha inspección no se detectaron defectos relativos a las condiciones de visibilidad en el paso a nivel. Dada la altura y el porte del seto vivo en el momento del origen del SE, es indudable que el seto vivo no solo en el momento de la realización de esta inspección, sino también en el momento de la realización de las inspecciones periódicas (anuales) anteriores, constituía un obstáculo grave en el campo de visibilidad en el paso a nivel.
 
-
 ## Página 37
+
 
 Fig. n.º 10: Vista general del seto vivo
 Fuente: DI
 Por tanto, es evidente que el explotador de la vía realizaba las comprobaciones de las condiciones de visibilidad en este paso a nivel ferroviario únicamente de forma formal, no detectaba deficiencias en las condiciones de visibilidad y, a largo plazo, no adoptaba medida alguna para subsanarlas. Este defecto en el modo de realizar las inspecciones no lo descubrió tampoco la auditoría interna de la empresa.
 Del registro del registrador de velocidad de la HDV se deduce que el tren Os 18109 circulaba antes del origen del SE a una velocidad de 48 km/h. No se superó ni la velocidad máxima de la vía en dicho tramo ni la velocidad establecida para el tren. El conductor del vehículo por carretera indicó en su declaración de explicación que oyó el silbato del tren únicamente justo antes de la colisión, antes no oyó ningún silbato. El jefe de servicio del tren (maquinista) indicó en el acta con el empleado que, tras pasar la parada Lenora (la parada está situada a unos 330 m del paso a nivel ferroviario donde se originó el SE), oyó un silbato y, a continuación, un silbato más largo y más intenso; durante este silbato el tren comenzó a frenar con frenado de acción rápida y, posteriormente, se produjo la colisión con el automóvil. La HDV 810.417-6 no está equipada con un dispositivo de registro que registre la emisión de la señal acústica de advertencia. En el tren no viajaban pasajeros, por lo que no es posible obtener declaraciones de testigos independientes. Por estas razones no es posible demostrar de forma fiable y, sobre todo, de forma inequívoca, si la señal acústica de advertencia fue emitida por el maquinista del tren Os 18109 de conformidad con la normativa interna del explotador de la vía. La ausencia de registro de la emisión de la señal acústica de advertencia (silbato) debería subsanarse en todas las HDV, dado que la imposibilidad de demostrar esta actividad puede perjudicar a alguna de las partes implicadas en casos de SE similares. La DI ya advirtió de esta circunstancia en el Informe sobre los resultados de la investigación de las causas y circunstancias del origen del SE de fecha 29 de mayo de 2010 «Colisión del tren Os 20556 con dos personas que circulaban en una sola bicicleta en el paso a nivel ferroviario en el km 3,835, entre
 
-
 ## Página 38
+
 
 las estaciones de Červená Voda y Králíky (línea 512D)» y, por este motivo, emitió una recomendación de seguridad en la que recomienda al transportista ČD equipar todas las HDV con un dispositivo de registro. El transportista ČD equipa las HDV que aún no están dotadas de un dispositivo de registro con dicho dispositivo durante sus reconstrucciones.
 Tras el origen de este SE, el explotador de la vía acordó con el órgano administrativo de carreteras y con la P ČR la colocación de las señales de tráfico P6 «Alto, ceda el paso» a ambos lados de la vía de comunicación por carretera que conduce al paso a nivel. El 4 de abril de 2013 procedió a la colocación de estas señales de tráfico. Al imponer ahora la señalización de tráfico al conductor del vehículo por carretera la obligación de detener el vehículo antes del paso a nivel ferroviario en un lugar desde el que tiene la visibilidad adecuada hacia la vía, la existencia del seto vivo a lo largo de la vía de comunicación por carretera no influye en la explotación segura del paso a nivel, dado que las longitudes de visibilidad Lr y los correspondientes campos de visibilidad, de conformidad con el punto 7.4.6 de la ČSN 73 6380, ya no es necesario garantizarlos en el paso a nivel. Con la colocación de las señales de tráfico P6 «Alto, ceda el paso» se redujo asimismo el valor de la longitud de visibilidad requerida para el vehículo por carretera más lento Lp a 110 m (el método de cálculo de Lp se indicó en la ČSN 73 6380 Z2 en el Anexo C, en los puntos C.4 y C.5). Las longitudes de visibilidad Lp realmente constatadas de 111, 138, 120 y 137 m cumplían la norma vigente en el periodo de aplicación de la modificación Z2. La ČSN 73 6380, en la redacción de la modificación Z3 actualmente vigente, establece para este paso a nivel ferroviario el valor requerido de la longitud de visibilidad Lr de 286 m. Las longitudes de visibilidad Lp realmente constatadas de 111, 138, 120 y 137 m no cumplen actualmente lo dispuesto en el punto 7.4.6.9 de la ČSN 73 6380.
@@ -913,6 +933,7 @@ paso a nivel ferroviario.
 
 ## Página 39
 
+
 ### 4.3.3 Causas debidas al marco normativo y al uso del sistema de garantía de la seguridad
 No se han detectado causas debidas al marco normativo y al uso del sistema de seguridad por parte de la DI.
 ## 4.4
@@ -926,8 +947,8 @@ La norma ČSN 73 6380 Pasos a nivel y pasos peatonales ferroviarios, en su versi
 De que la enmienda Z2 no fue elaborada con calidad da fe también el hecho de que, aunque con la enmienda Z2 en la Tabla A.1 se redujo el valor del tiempo de reacción mínimo del conductor para los pasos a nivel protegidos únicamente con VK en vías locales del grupo funcional C y D1 de 1,5 segundos a 1,0 segundo, los valores Lr, que se indican en la Tabla 3 (punto 7.4.6.5), están calculados utilizando el valor original del tiempo de reacción de 1,5 segundos y son, por tanto, incorrectos. Asimismo, esta modificación del valor del tiempo de reacción no se tuvo en cuenta en el punto 7.4.6.3, donde no se modificó el valor Dz del valor de 20 m al valor de 15 m.
 Dado que la Inspección Ferroviaria consideró la enmienda Z2 de la norma ČSN 73 6380 como una amenaza directa para la seguridad del transporte ferroviario y vial, y además debido a su manifiesta discrepancia con la normativa legal y a su contradicción con la protección del interés legítimo, presentó una propuesta para su derogación inmediata. En particular, la nueva evaluación, el cálculo de las condiciones de visibilidad
 
-
 ## Página 40
+
 
 y la negación del significado del llamado vehículo rodante más lento en esta enmienda Z2, tuvieron sin duda una influencia negativa en la seguridad en los pasos a nivel. Esta actividad de la Inspección Ferroviaria condujo, en última instancia, a la derogación de esta enmienda Z2, a partir del 1. 9. 2013.
 ## 5 MEDIDAS ADOPTADAS
@@ -940,33 +961,52 @@ inmediatamente después de la producción del SUF, introdujo, hasta que se reali
 acordó con el órgano administrativo vial y la P ČR la colocación de las señales de tráfico P6 «Pare, ceda el paso» en ambos lados de la vía de comunicación que conduce al paso a nivel. El 4. 4. 2013 realizó la colocación de estas señales de tráfico.
 El transportista České dráhy, a. s. no adoptó ni emitió ninguna medida tras la producción del SUF.
 
-
 ## Página 41
 
 ## 6 RECOMENDACIONES DE SEGURIDAD
-La Inspección Ferroviaria, como autoridad administrativa competente en la materia de conformidad con lo dispuesto en el apartado 5 del artículo 53b de la Ley núm. 266/1994 Sb., de ferrocarriles, en su versión vigente, sobre la base del resultado de la investigación de las causas y circunstancias del origen del suceso ferroviario, recomienda:
-### Al gestor de la infraestructura Administración de la Infraestructura Ferroviaria de Transporte, organización estatal:
-verificar las condiciones de visibilidad reales en todos los pasos a nivel explotados
+La Inspección Ferroviaria, como autoridad administrativa competente en la materia según lo dispuesto en el apartado 5 del § 53b de la Ley núm. 266/1994 Sb., de ferrocarriles, en su redacción vigente, con base en el resultado de la investigación de las causas y circunstancias del suceso ferroviario, recomienda:
+### Al operador ferroviario Administración de la Infraestructura Ferroviaria, organización estatal:
+verificar las condiciones reales de visibilidad en todos los cruces ferroviarios en servicio
 •
-protegidos únicamente con cruces de aviso, para comprobar si cumplen con la norma ČSN 73 6380 Pasos a nivel y pasos peatonales ferroviarios. En caso de detectar una discrepancia, realizar sin demora la modificación de las condiciones de visibilidad en estos pasos a nivel de modo que se garantice la explotación segura del transporte ferroviario y de la circulación en las vías de comunicación terrestre;
-adoptar sus propias medidas para mejorar el sistema de control de la compañía, de modo
+protegidos únicamente con cruces de advertencia, para comprobar si cumplen la norma ČSN 73 6380
+Cruces y pasos a nivel ferroviarios. En caso de detectar incumplimientos, proceder sin demora a
+modificar las condiciones de visibilidad en dichos cruces de modo que se garantice la
+seguridad de la explotación del transporte ferroviario y de la circulación en las vías
+públicas;
+adoptar sus propias medidas para mejorar el sistema de control de la compañía, de modo que las
 •
-que las inspecciones de los pasos a nivel se realicen correctamente, las condiciones de visibilidad se verifiquen y las deficiencias detectadas se subsanen.
+inspecciones de los cruces se realicen correctamente, se controlen las condiciones de visibilidad y se
+corrijan las deficiencias detectadas.
 ### Al transportista České dráhy, a. s.:
-dotar de un dispositivo que registre la emisión de la señal acústica de aviso a
+equipar con un dispositivo que registre la emisión de la señal acústica de
 •
-todos los HDV que aún no estén dotados de él, ya que la imposibilidad de acreditar esta actividad puede, en SUF similares, perjudicar a alguna de las partes implicadas.
-De conformidad con lo dispuesto en el apartado 5 del artículo 53b de la Ley núm. 266/1994 Sb., de ferrocarriles, en su versión vigente, o en el anexo núm. 7 del decreto núm. 376/2006 Sb., sobre el sistema de seguridad de la explotación de la infraestructura ferroviaria y del transporte ferroviario y los procedimientos en caso de sucesos ferroviarios en las vías, en su versión vigente, la Inspección Ferroviaria recomienda al Organismo Ferroviario la adopción de sus propias medidas encaminadas a la realización de las recomendaciones de seguridad anteriores también con el resto de gestores de la infraestructura y transportistas en la República Checa. Asimismo, recomienda al Organismo Ferroviario participar activamente en la elaboración de una nueva enmienda de la norma ČSN 73 6380 Pasos a nivel y pasos peatonales ferroviarios, de modo que, durante la elaboración de dicha enmienda, se tengan en cuenta todos los aspectos necesarios para garantizar la explotación segura de los pasos a nivel ferroviarios en la República Checa.
-En Plzeň, a 16 de septiembre de 2013
+advertencia a todas las locomotoras y vehículos de tracción (HDV) que aún no
+estén dotados de él, dado que la imposibilidad de acreditar esta actividad
+puede perjudicar a alguna de las partes implicadas en sucesos ferroviarios
+similares.
+De conformidad con lo dispuesto en el apartado 5 del § 53b de la Ley núm. 266/1994 Sb., de
+ferrocarriles, en su redacción vigente, o con el anexo núm. 7 del decreto núm. 376/2006 Sb.,
+sobre el sistema de seguridad de la explotación ferroviaria y del transporte ferroviario y los
+procedimientos en caso de sucesos ferroviarios en las vías, en su redacción vigente, la
+Inspección Ferroviaria recomienda a la Autoridad Ferroviaria la adopción de sus propias
+medidas encaminadas a la materialización de las recomendaciones de seguridad anteriores
+también en el resto de operadores ferroviarios y transportistas de la República Checa. Asimismo,
+recomienda a la Autoridad Ferroviaria participar activamente en la elaboración de la nueva
+modificación de la norma ČSN 73 6380 Cruces y pasos a nivel ferroviarios, de modo que, en la
+elaboración de dicha modificación, se tengan en cuenta todos los aspectos necesarios para
+garantizar la explotación segura de los cruces ferroviarios en la República Checa.
+
+En Plzeň, 16 de septiembre de 2013
+
 Ing. Petr Mencl v. r.
 Jaroslav Říha v. r.
 director
-inspector principal
-de la Inspección Territorial de Plzeň
-de la Inspección Territorial de Plzeň
-
+inspector jefe
+De la Inspección Territorial de Plzeň
+De la Inspección Territorial de Plzeň
 
 ## Página 42
+
 
 ## 7 ANEXOS
 Sin anexos.

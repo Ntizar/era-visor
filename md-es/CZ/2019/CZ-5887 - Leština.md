@@ -10,13 +10,14 @@ chars: 99412
 ratio_longitud: 1.24
 tokens_in: 53856
 tokens_out: 38021
-verificacion: revisar
-notas_cifras: ["bloque 3: original bilingüe: se compara contra el idioma principal (CS)", "bloque 4: cifras cortas: 2/61", "bloque 6: original bilingüe: se compara contra el idioma principal (CS)", "bloque 7: original bilingüe: se compara contra el idioma principal (CS)"]
-avisos: ["bloque 6: ratio 1.62", "bloque 7: ratio 1.75"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 3: original bilingüe: se compara contra el idioma principal (PT)", "página 4: original bilingüe: se compara contra el idioma principal (PT)", "página 7: original bilingüe: se compara contra el idioma principal (EN)", "página 8: original bilingüe: se compara contra el idioma principal (PT)", "página 11: original bilingüe: se compara contra el idioma principal (CS)", "página 14: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -39,13 +40,13 @@ IČ:   75009561
 mail@dicr.cz
 tel.: +420 736 521 003
 
-
 ## Página 2
+
 
 Este informe final es público y todos los hechos en él expuestos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ## 1 RESUMEN
                                                                 Fuente: Drážní inspekce
@@ -68,30 +69,28 @@ la establecimiento de la ruta de tren para el tren Os 5935 desde la estación de
 •
 en dirección a la estación de ferrocarril de Světlá nad Sázavou sobre la vía 1ª excluida.
 
-
 ## Página 4
 
-Un factor contribuyente del suceso excepcional fue:
-la no utilización de la herramienta mecánica prescrita durante el tiempo de ocupación de vía, que garantiza la imposibilidad de
+El factor contribuyente del suceso ferroviario fue:
+no uso de la herramienta mecánica prescrita durante la duración de la interrupción de tráfico, que garantiza la imposibilidad de
 •
-una manipulación incorrecta (pulsación o extracción accidental o errónea) del botón en la mesa de mando del aparato de enclavamiento de la estación por parte del jefe de estación de la estación de ferrocarril de Leština u Světlé.
-Un factor contribuyente del suceso excepcional en la continuación del desarrollo del accidente fue:
-la no respuesta del maquinista del tren Os 5935 a la señal «Alto» de la señal portátil de protección y la posterior continuación de la
+manejo incorrecto (pulsación o extracción accidental o errónea) del botón en el
+panel de control del aparato de enclavamiento de la estación ferroviaria de Leština u Světlé por parte del jefe de estación.
+El factor contribuyente del suceso ferroviario en la continuación del desarrollo del accidente fue:
+la no reacción del maquinista del tren Os 5935 a la señal "Alto" de la señal portátil de protección y la posterior continuación de la marcha por la vía 1 excluida a través del paso a nivel abierto P3696.
 •
-circulación por la vía 1ª excluida a través del paso a nivel abierto P3696.
-La causa fundamental del suceso excepcional fue:
-el incumplimiento de los procedimientos tecnológicos del gestor de la vía por parte del jefe de estación de la estación de ferrocarril de
+La causa principal del suceso ferroviario fue:
+el incumplimiento de los procedimientos tecnológicos del gestor de la infraestructura por parte del jefe de estación ferroviaria de Leština u Světlé, que establecen la obligación de asegurar, durante la duración de la interrupción de tráfico, los elementos de control con una herramienta de recordatorio, para que no pueda permitirse la circulación de vehículos por la vía excluida, mediante la cobertura de los botones de establecimiento de itinerarios y de los conmutadores de enclavamiento con tapas rojas.
 •
-Leština u Světlé, que establecen la obligación de asegurar, durante el tiempo de ocupación de vía, los elementos de mando con una herramienta de recordatorio, para que no pueda permitirse la circulación de vehículos sobre la vía excluida, mediante la cobertura de los botones de establecimiento de rutas y de los conmutadores manuales con tapas rojas.
 Causa en el sistema de seguridad:
-no fue detectada por la Drážní inspekce.
+no fue determinada por la Inspección Ferroviaria.
 •
 Recomendaciones de seguridad:
-no fueron emitidas por la Drážní inspekce.
+no emitidas por la Inspección Ferroviaria.
 •
 
-
 ## Página 5
+
 
 ## SUMMARY
 Grade: 
@@ -142,18 +141,18 @@ obligation to ensure the controlling elements by the mechanical
 tool (covering up the buttons of the route setting and manual point
 switch by the red cups), so that the ride of the rolling stocks could
 not be allowed onto the excluded track, during the track
-possession. 
-
+possession.
 
 ## Página 6
+
 
 Root cause:
 none.
 Recommendation:
 not issued.
 
-
 ## Página 7
+
 
 # Índice
 1 RESUMEN........................................................................................................................3
@@ -205,6 +204,7 @@ normas técnicas aplicables y otras normas internas.............................
 
 ## Página 8
 
+
 registro de datos.....................................................................................................27
 3.4.2 Componentes de la vía....................................................................................27
 3.4.3 Instalaciones de comunicación e información.........................................................................27
@@ -244,8 +244,8 @@ sobre las causas................................................................
 6 RECOMENDACIONES DE SEGURIDAD.....................................................................................39
 7 ANEXOS..........................................................................................................................40
 
-
 ## Página 9
+
 
 ## Lista de siglas y símbolos utilizados
 AB
@@ -325,8 +325,8 @@ ZZ
 žst.
 estación de ferrocarril
 
-
 ## Página 10
+
 
 ## Lista de siglas de la legislación, normas y normativa interna 
 utilizadas
@@ -368,8 +368,8 @@ normativa interna del gestor de la infraestructura SŽDC, "SŽDC D1
 Reglamento de circulación y señales", en la redacción vigente en el momento de 
 producirse el suceso ferroviario
 
-
 ## Página 11
+
 
 ## 2 DATOS RELATIVOS AL SUCESO FERROVIARIO
 ### 2.1 Suceso ferroviario
@@ -392,8 +392,8 @@ El 9. 1. 2019 a las 7.45 h, el jefe de estación de la est. Světlá nad Sázavo
 inició, en virtud de la autorización, la interrupción de circulación de la primera vía de línea entre la est. Světlá y la est. Leština u Světlé 
 (en adelante también Leština). El jefe de estación de la est. Leština, tras realizar los actos relacionados con el inicio de la
 
-
 ## Página 12
+
 
 interrupción de circulación, colocó en el panel de control una etiqueta con la inscripción "Interrupción de circulación". Olvidó las demás ayudas memorísticas (los llamados "sombreros", que se colocan sobre el botón de control para evitar una operación incorrecta de la SZZ). A las 9.00 h llegó a la est. Leština el tren Os 5935, que circulaba desde la est. Čáslav hasta la est. Havlíčkův Brod. Al preparar la ruta de tren de salida para el tren Os 5935 desde la est. Leština hasta la est. Světlá, el jefe de estación estableció la ruta de tren sobre la 1.ª vía de línea excluida, a pesar de que en la aplicación EDD figuraba la 2.ª vía de línea. Tras la expedición del tren, que se realiza en la est. Leština mediante la señal, el maquinista del Os 5935 arrancó ante la indicación de paso en las señales Sc1 y S1a y continuó la marcha. En el km 250,800 pasó la señal móvil con la indicación "Alto", que estaba colocada en el soporte de tracción celosía, y continuó a través del paso a nivel abierto P3696 en el km 247,933 hasta la parada de Sázavka en el km 247,833. Allí se enteró, por parte de los empleados de la ST Jihlava, que estaban limpiando el andén de la nieve, de que se encontraba en la vía excluida. A las 9.06 h fue informado de este hecho también por el jefe de estación de la est. Leština. 
 Fig. n.º 2: Esquema del lugar de origen del suceso ferroviario                                                                                     Fuente: DI
@@ -422,8 +422,8 @@ en el momento de la inspección posterior del material rodante en la est. Havlí
 •
 Os 5935 estaba formado por una unidad motorizada Regionova. La unidad circulaba en el momento de producirse el
 
-
 ## Página 13
+
 
 suceso ferroviario con el coche de mando 95 54 59 14 113-6 a la cabeza y el vagón motor 95 54
 58 14 113-7 en la parte trasera; 
@@ -458,6 +458,7 @@ Forma de notificación:
 telefónica.
 
 ## Página 14
+
 
 Notificado por la persona autorizada en nombre de:
 el gestor de la vía (SŽDC) y el transportista (ČD).
@@ -497,8 +498,8 @@ responsable en representación del solicitante de la intervención, empleado de 
 •
 ST Jihlava, TO Světlá nad Sázavou.
 
-
 ## Página 15
+
 
 2.2.2 Trenes y su composición, incluidos los números de registro de los distintos vehículos ferroviarios
 | Tren: | Os5935 | Composición del tren: |  |  |  | Régimen de frenado: |  |
@@ -532,176 +533,163 @@ el paso a nivel P3696 en el km 247,933 es de doble vía y forma parte del AB
 7.45 h el jefe de estación de la est. Světlá inició la intervención planificada de la 1.ª TK entre la est. Světlá
 •
 
-
 ## Página 16
 
-y la est. Leština;
-7.50 h el empleado de SSZT comunicó a los jefes de estación de la est. Světlá y la est. Leština la desactivación del PZZ
+y est. Leština;
+7.50 h un empleado de SSZT notificó a los jefes de estación de est. Světlá y est. Leština la
 •
-del paso a nivel P3692 en el km 241,537;
-8.10 h el empleado de SSZT comunicó a los jefes de estación de la est. Světlá y la est. Leština la desactivación del PZZ
+desactivación de la PZZ del paso a nivel P3692 en el pk 241,537;
+8.10 h un empleado de SSZT notificó a los jefes de estación de est. Světlá y est. Leština la
 •
-del paso a nivel P3696 en el km 247,933;
-9.06 h el jefe de estación de la est. Leština llama por GSM-R al maquinista del tren Os 5935 para que
+desactivación de la PZZ del paso a nivel P3696 en el pk 247,933;
+9.06 h el jefe de estación de est. Leština llama por GSM-R al maquinista del tren Os 5935
 •
-detenga el tren inmediatamente;
-9.08 h el jefe de estación de la est. Světlá llama por teléfono móvil al trabajador de ST en función de OZOV;
+para que detenga el tren inmediatamente;
+9.08 h el jefe de estación de est. Světlá llama por teléfono móvil a un trabajador de ST en
 •
-9.09 h el jefe de estación de la est. Leština notifica la creación de una «excepcionalidad» al despachante operativo de
+función de OZOV;
+9.09 h el jefe de estación de est. Leština comunica la aparición de una "irregularidad" al
 •
-CDP Přerov y acuerdan los siguientes pasos a seguir;
-09.13 h el jefe de estación de la est. Leština notifica la creación de una «excepcionalidad» al jefe de
+despachante operativo de CDP Přerov y acuerdan los siguientes pasos a seguir;
+09.13 h el jefe de estación de est. Leština comunica la aparición de una "irregularidad" al
 •
-### despachantes de CDP Přerov y este le da su consentimiento para que retire el tren Os 5935 de vuelta como
-PMD;
-09.16 h el jefe de despachantes de CDP Přerov notifica la creación de una «excepcionalidad» a la
+### jefe despachante de CDP Přerov y este le da su consentimiento para que retire el tren
+Os 5935 de vuelta como PMD;
+09.16 h el jefe despachante de CDP Přerov comunica la aparición de una "irregularidad" a la
 •
 persona autorizada de SŽDC;
-09.19 h el jefe de estación de la est. Leština redacta con el maquinista del tren Os 5935 la orden
+09.19 h el jefe de estación de est. Leština redacta con el maquinista del tren Os 5935 la
 •
-«Orden de tren». El tren Os 5935 regresará a la est. Leština como PMD;
-### 9.23 h el tren Os 5935 comienza a circular antes de que se conceda el consentimiento del DI para la liberación de la vía,
+orden "Příkaz vlaku". El tren Os 5935 regresará a est. Leština como PMD;
+### 9.23 h el tren Os 5935 comienza a marchar antes de que se conceda el permiso para la
 •
-desde la parada Sázavka de vuelta a la est. Leština;
-9.24 h notificación inicial de la MU en cuestión en el COP DI por la persona autorizada de SŽDC;
+liberación de la vía por parte de DI desde la parada Sázavka de vuelta a est. Leština;
+9.24 h notificación inicial de la MU en cuestión en el COP DI por parte de la persona
 •
-9.24 h el jefe de estación de la est. Leština habla con el despachante operativo de CDP Přerov y, entre otras cosas,
+autorizada de SŽDC;
+9.24 h el jefe de estación de est. Leština habla con el despachante operativo de CDP Přerov y,
 •
-le comunica que el tren Os 5935 ya regresa como PMD de vuelta a la est. Leština;
-9.26 h concesión del consentimiento del COP DI para la liberación de la vía;
+entre otras cosas, le comunica que el tren Os 5935 ya está regresando como PMD a est.
+Leština;
+9.26 h concesión del permiso del COP DI para la liberación de la vía;
 •
-9.28 h la persona autorizada de SŽDC comunica al despachante de CDP Přerov el consentimiento
+9.28 h la persona autorizada de SŽDC comunica al despachante de CDP Přerov el permiso
 •
-para el inicio de los trabajos de limpieza y acuerdan juntos los siguientes pasos a seguir respecto a la retirada
-del tren Os 5935 de vuelta (en ese momento ya circulaba de vuelta a la est. Leština) y a la investigación del incidente tras
-su llegada a la est. Havlíčkův Brod;
-9.32 h el jefe de estación de la est. Leština notifica al jefe de turno de CDP Přerov que el tren
+para el inicio de los trabajos de limpieza y acuerdan juntos los siguientes pasos a seguir
+respecto a la retirada del tren Os 5935 de vuelta (en ese momento ya se dirigía de vuelta a
+est. Leština) y a la investigación del incidente tras su llegada a est. Havlíčkův Brod;
+9.32 h el jefe de estación de est. Leština comunica al jefe de turno de CDP Přerov que el
 •
-se ha detenido en la est. Leština y este le dice que el tren Os 5935 puede salir hacia la est. Havlíčkův
-Brod, que se trata de una MU y que allí después «se hará todo».
-La comunicación entre el maquinista del tren Os 5935 y el jefe de estación de la est. Leština, el despachante
-operativo y el jefe de despachantes de CDP Přerov y el jefe de estación de la est. Leština fue grabada.
+tren se ha detenido en est. Leština y este le dice que el tren Os 5935 puede salir hacia est.
+Havlíčkův Brod, que se trata de una MU y que allí después "se hará todo".
+La comunicación entre el maquinista del tren Os 5935 y el jefe de estación de est. Leština, el
+despachante operativo y el jefe despachante de CDP Přerov y el jefe de estación de est.
+Leština fue grabada.
 ### 2.2.5 Trabajos realizados en el lugar y en sus alrededores
-En el tramo entre la est. Leština y la est. Světlá se estaba llevando a cabo una intervención planificada de la 1.ª TK
-por motivos de trabajos de mantenimiento en la superestructura ferroviaria y de eliminación de vegetación. El tráfico
-se dirigía en ambos sentidos por la 2.ª TK. La intervención se desarrolló en el horario 7.45 h – 15.10 h y, en el marco de esta
-intervención, se desactivaron en la 1.ª TK de la dependencia de los circuitos de vía los pasos a nivel P3692 en el km
-241,537 y P3696 en el km 247,933. En la vía excluida, en el momento de la MU, se encontraban dos SHV,
-ambas habían sido instruidas con las órdenes generales P1 y P2.
-### La orden general P1 para el MUV 71-007 contenía: «Circula por la 1.ª TK excluida Leština – Světlá hasta el km 245,000. Tras de ti circula el P2 hasta el km 242,4 y contra ti no circula nada.
-
+En el tramo entre est. Leština y est. Světlá se estaba llevando a cabo una interrupción
+planificada de la 1. TK por motivo de trabajos de mantenimiento en la superestructura
+ferroviaria y de retirada de vegetación. El tráfico se dirigía bidireccionalmente por la 2. TK.
+La interrupción tuvo lugar en el horario de 7.45 h – 15.10 h y, en el marco de esta
+interrupción, se desactivaron en la 1. TK de su dependencia de los circuitos de vía los pasos a
+nivel P3692 en el pk 241,537 y P3696 en el pk 247,933. En la vía excluida se encontraban en
+el momento de la MU dos SHV, ambas habían sido informadas mediante las órdenes generales
+P1 y P2.
+### La orden general P1 para la MUV 71-007 contenía: "Circula por la 1. TK excluida Leština –
+Světlá hasta el pk 245,000. Detrás de ti circula la P2 hasta el pk 242,4 y por delante de ti no
+circula nada.
 
 ## Página 17
 
-### Al finalizar los trabajos, regreso a la est. Světlá a más tardar a las 15:00 h. Nota: el PZZ en el km
-241,537 y en el km 247,933 no actúa para tu circulación».
-### La orden general P2 para el MVTV 2-049 contenía: «Circula por la 1.ª TK
-### excluida Leština – Světlá hasta el km 242,400. Delante de ti circula el P1 hasta el km 245,000, detrás de ti no
-circula nada. Al finalizar los trabajos, regreso a la est. Světlá a más tardar a las 14:50 h. Nota: el PZZ en el km
-241,537 no actúa para tu circulación».
-El ZPŘS, al redactar la orden general para el SHV, no cumplió la redacción prescrita de los arts. 3566 y 3695 de la normativa SŽDC D1 e instruyó al SHV sobre la circulación con precaución aumentada. Este hallazgo no guarda relación causal con la MU (véase 4.4.1).
-### 2.2.6 Activación del plan para el caso de un suceso excepcional en la vía y los procedimientos consecuentes
-9.06 h el jefe de estación de la est. Leština llama por GSM-R al maquinista del tren Os 5935 para que
+### Tras finalizar los trabajos, regreso a la est. Světlá como máximo a las 15:00 h. Nota: la PZZ en el pk 241,537 y en el pk 247,933 no surte efecto para su circulación".
+### La orden general P2 para MVTV 2-049 contenía: "Circula por la 1.ª vía excluida Leština – Světlá hasta el pk 242,400. Por delante de usted circula la P1 hasta el pk 245,000, por detrás no circula nada. Tras finalizar los trabajos, regreso a la est. Světlá como máximo a las 14:50 h. Nota: la PZZ en el pk 241,537 no surte efecto para su circulación".
+El ZPŘS, al redactar la orden general para el SHV, no respetó la redacción prescrita de los arts. 3566 y 3695 de la norma SŽDC D1 y no informó al SHV de la circulación con precaución aumentada. Este hallazgo no guarda relación causal con el MU (véase 4.4.1).
+### 2.2.6 Activación del plan para caso de incidente en la vía y procedimientos conexos
+9.06 h el jefe de estación de Leština llama al maquinista del tren Os 5935 por GSM-R para que
 •
 detenga el tren inmediatamente;
-9.08 h el jefe de estación de la est. Světlá llama por teléfono móvil al trabajador de ST en función de OZOV;
+9.08 h el jefe de estación de Světlá llama por teléfono móvil al trabajador de ST en función de OZOV;
 •
-9.09 h el jefe de estación de la est. Leština notifica la creación del suceso al despachante operativo de CDP
+9.09 h el jefe de estación de Leština comunica la aparición del incidente al despachador operativo del CDP Přerov y acuerdan el procedimiento posterior;
 •
-Přerov y acuerdan los siguientes pasos a seguir;
-09.13 h el jefe de despachantes de CDP Přerov llama al jefe de estación de la est. Leština para más información
+09.13 h el jefe de despacho del CDP Přerov llama al jefe de estación de Leština para obtener más información sobre el MU;
 •
-sobre la MU;
-09.16 h el jefe de despachantes de CDP Přerov notifica la creación de una excepcionalidad
+09.16 h el jefe de despacho del CDP Přerov comunica la aparición de la incidencia a la persona autorizada de SŽDC;
 •
-a la persona autorizada de SŽDC;
-09.19 h el jefe de estación de la est. Leština llama al maquinista del tren Os 5935 y redacta con él
+09.19 h el jefe de estación de Leština llama al maquinista del tren Os 5935 y redacta con él la orden "Orden del tren";
 •
-la orden «Orden de tren»;
-9.24 h notificación inicial de la MU en cuestión en el COP DI por el gestor de la vía;
+9.24 h notificación inicial del MU en cuestión al COP DI por parte del gestor de la vía;
 •
-9.26 h concesión del consentimiento para la liberación de la vía COP DI;
+9.26 h concesión del permiso para liberar la vía por el COP DI;
 •
-9.28 h la persona autorizada de SŽDC O18 comunica al jefe de despachantes de CDP Přerov
+9.28 h la persona autorizada de SŽDC O18 comunica al jefe de despacho del CDP Přerov el consentimiento para iniciar los trabajos de despeje y acuerdan juntos el procedimiento posterior;
 •
-el consentimiento para el inicio de los trabajos de limpieza y acuerdan juntos los siguientes pasos a seguir;
-9.32 h el jefe de despachantes llama al jefe de estación de la est. Leština y le comunica los siguientes pasos a seguir;
+9.32 h el jefe de despacho llama al jefe de estación de Leština y le comunica el procedimiento posterior;
 •
-9.35 h el jefe de estación de la est. Leština llama al despachante operativo de CDP Přerov y le comunica
+9.35 h el jefe de estación de Leština llama al despachador operativo del CDP Přerov y le comunica la detención del tren Os 5935 en la est. Leština a las 9.31 h;
 •
-la detención del tren Os 5935 en la est. Leština a las 9.31 h;
-9.44 h el jefe de despachantes de CDP Přerov llama al inspector de accidentes de la PO y acuerdan los siguientes
-•
-pasos a seguir.
-### 2.2.7 Activación del plan del sistema integrado de emergencias, de los servicios de emergencia
-### policiales y sanitarios y de los procedimientos consecuentes
-El plan IZS no fue activado dada la naturaleza de la MU.
-
+9.44 h el jefe de despacho del CDP Přerov llama al inspector de accidentes PO y acuerdan el procedimiento posterior.
+### 2.2.7 Activación del plan del sistema integrado de emergencia, de los servicios de emergencia policiales y sanitarios y de los procedimientos conexos
+El plan IZS no fue activado dada la naturaleza del MU.
 
 ## Página 18
 
-### 2.3 Fallecimientos, lesiones y daños causados
-2.3.1 En pasajeros y terceras personas, empleados del gestor de la vía y del transportista,
-incluidas personas en relación contractual
-En la MU no se produjo daño alguno a la salud de los empleados del gestor de la vía, del transportista,
-de las personas en relación contractual, ni de los pasajeros y terceras personas.
-### 2.3.2 En las cosas transportadas, el equipaje y otros bienes
+### 2.3 Muertos, heridos y daños causados
+2.3.1 En cuanto a pasajeros y terceras personas, empleados del gestor de la vía y del transportista, incluidas personas en relación contractual
+En el MU no se produjo daño alguno a la salud de los empleados del gestor de la vía, del transportista, de personas en relación contractual, ni tampoco de pasajeros y terceras personas.
+### 2.3.2 En cuanto a las cosas transportadas, el equipaje y otros bienes
 No se produjo daño en las cosas transportadas, el equipaje ni otros bienes.
-### 2.3.3 En los vehículos ferroviarios, los componentes de la vía y el medio ambiente
-No se produjo daño en los vehículos ferroviarios, los componentes de la vía de circulación ni otros bienes.
+### 2.3.3 En cuanto a los vehículos ferroviarios, los elementos de la vía y el medio ambiente
+No se produjo daño en los vehículos ferroviarios, los elementos de la vía de circulación ni otros bienes.
 ### 2.4 Circunstancias externas
 ### 2.4.1 Condiciones meteorológicas y datos geográficos
 Condiciones meteorológicas:
-el 9. 1. 2019 entre las 7.30 h y las 11.30 h estaba nublado
-en el lugar de la MU, caía nieve húmeda, al principio lluvia con nieve. La temperatura
-se movía en torno a 0 °C, soplaba viento del oeste a una velocidad de 4 m.s-1.
-A las 7.00 h el espesor de la capa de nieve era de aproximadamente 3 cm, durante
+el día 9. 1. 2019 entre las 7.30 h y las 11.30 h había cielo cubierto en el lugar del MU,
+caía nieve húmeda, al principio lluvia con nieve. La temperatura se
+movía en torno a 0 °C, soplaba viento del oeste con una velocidad de 4 m.s-1.
+A las 7.00 h la altura de la capa de nieve era de aproximadamente 3 cm, durante
 la mañana cayeron unos 3 cm de nieve nueva.
 Datos geográficos:
-terreno accidentado, vía discurriendo en arcos, cortes y trincheras.
-## 3 REGISTRO DE LA INVESTIGACIÓN Y DE LAS EXPLICACIONES PRESENTADAS
+terreno accidentado, trazado de la vía en curvas, en cortes y en trincheras.
+## 3 REGISTRO DE LA INVESTIGACIÓN Y DE LAS EXPLICACIONES PRESENTADAS 
 ### 3.1 Resumen de las explicaciones presentadas (sujeto a protección de la identidad de las personas)
 ### 3.1.1 Empleados del gestor de la vía y del transportista, incluidas personas en relación contractual
 jefe de estación de la est. Leština
-  – del Acta con el empleado se desprende, entre otras cosas:
+  – Del Registro con el empleado se desprende, entre otras cosas:
 •
-◦incorporó el servicio a las 5.55 h descansada y hasta la creación de la MU el servicio transcurrió sin
-problemas;
-◦desde las 7.45 h se estaba llevando a cabo la intervención de la 1.ª TK entre la est. Leština y la est. Světlá según el ROV
-B32A08013;
-◦la preparación y el inicio de la intervención fueron anotados en la est. Světlá según el despacho
-de autorización;
-◦el tren Os 5935 se detuvo en la 1.ª SK a las 9.00 h puntualmente y se puso en movimiento a las 9.01 h;
-◦se percató de que tenía mal colocada la vía de tren para la salida del tren
+◦entró en servicio a las 5.55 h descansada y el servicio transcurrió sin problemas hasta la ocurrencia del MU;
+◦desde las 7.45 h se llevaba a cabo la interrupción de la 1. TK entre la est. Leština y la est. Světlá según el ROV B32A08013;
+◦la preparación y el inicio de la interrupción quedaron registrados en la est. Světlá según el despacho de autorización;
+◦el tren Os 5935 se detuvo en la 1. SK a las 9.00 h puntualmente y se puso en marcha a las 9.01 h;
+◦se percató de que tenía mal dispuesta la vía de tren para la salida del tren
 
 ## Página 19
 
 durante la conversación con el jefe de estación de la est. Světlá tras su consulta sobre el tren Os 5935 e inmediatamente después intentó detener el tren mediante GSM-R;
-◦el tren Os 5935 ya se había detenido en la parada Sázavka y le prohibió al maquinista cualquier movimiento del tren;
-◦a las 9.16 h se acordó el regreso del tren desde la línea como PMD n.º 893120, que regresó a la est. Leština a las 9.31 h y posteriormente partió a las 10.00 h por la 2. TK;
-◦lo comunicó todo al jefe de explotación, al jefe de despacho y a la guardia de accidentes PO;
-◦a la pregunta de por qué no utilizó los medios de recordatorio, respondió que se olvidó.
+◦el tren Os 5935 ya se había detenido en la parada Sázavka y prohibió al maquinista cualquier movimiento posterior del tren;
+◦a las 9.16 h se acordó el retorno del tren desde la línea como PMD n.º 893120, que regresó a la est. Leština a las 9.31 h y posteriormente partió a las 10.00 h por la 2. TK;
+◦lo comunicó todo al jefe de explotación, al jefe de despacho y a la guardia de emergencia PO;
+◦a la pregunta de por qué no utilizó las ayudas de memoria, respondió que se olvidó.
 jefe de estación de la est. Leština
-  – del Acta de la declaración prestada para el DI se desprende, entre otras cosas:
+  – del Registro de explicaciones prestadas para el DI se desprende, entre otras cosas:
 •
-◦el turno transcurrió con normalidad y entró en él descansada tras dos días de libre;
-◦al incorporarse al turno no se produjeron anomalías ni se produjo ningún conflicto;
-◦el inicio de la interrupción se realizó de forma estándar. El jefe de estación de la est. Světlá inició la interrupción, después se puso en contacto el despachador eléctrico sobre la interrupción de la tensión de tracción, lo que anotó en las órdenes de despacho;
-◦utiliza con frecuencia los medios de recordatorio. El día del MU, tras iniciar la interrupción, utilizó únicamente la etiqueta de seguridad;
-◦la preparación de la vía de tren se realizó de la siguiente manera: a través del diario de circulación llegó el mensaje de la salida prevista y, tras el aviso acústico, estableció la vía de tren para el tren Os 5935 en la 1. SK. Envió la salida prevista a la est. Světlá por la 2. TK y se dirigió a la taquilla a vender billetes. Una vez que el tren se aproximaba a la est. Leština, comprobó la autorización y la libertad en la 2. TK y a continuación estableció la vía de tren de salida desde la 1. SK, pero en la 1. TK (operó el botón final en la 1. TK);
-◦a continuación operó el altavoz de la estación, se vistió y salió delante de la sala de circulación;
-◦tras la llegada y salida del tren, saludó en el exterior a unas pocas personas y regresó a la sala de circulación a anotar la salida del tren;
-◦al poco tiempo, el jefe de estación de la est. Světlá se puso en contacto con ella preguntándole dónde estaba ese tren, ya que la libertad en la 2. TK seguía encendida;
-◦inmediatamente llamó «¡Alto!» mediante GSM-R al maquinista del tren Os 5935 y dijo al jefe de estación de la est. Světlá que detuviera los mecanismos en la vía excluida;
-◦comunicó la situación al despachador de explotación, quien le dijo que en un momento se pondría en contacto para ver cómo se resolvería esto a continuación;
-◦en la siguiente llamada le comunicó que la explotación se mantendría en la 2. TK, por lo que canceló la salida prevista del tren Os 5935 para poder recibir el tren desde la est. Světlá, y dio su autorización para que el tren fuera retirado hasta la est. Leština;
-◦quiso introducir en la aplicación de explotación el diario de circulación PMD, pero no lo consiguió, así que llamó al maquinista del tren Os 5935 y redactó con él la orden Pv;
-◦el regreso del tren desde la línea lo realizó mediante intervención el despachador de explotación en el diario de circulación;
+◦el turno transcurrió con normalidad y entró descansada tras dos días de libre;
+◦al inicio del turno no se produjo ninguna anomalía ni ningún conflicto;
+◦la apertura de la interrupción se realizó de forma estándar. El jefe de estación de la est. Světlá inició la interrupción, a continuación se puso en contacto el despachador eléctrico sobre la interrupción de la tensión de tracción, lo cual anotó en las órdenes de despacho;
+◦utiliza con frecuencia las ayudas de memoria. El día de la MU, tras la apertura de la interrupción, utilizó únicamente la etiqueta de seguridad;
+◦la preparación de la vía de tren se realizó de la siguiente manera: a través del diario de circulación llegó el mensaje de la salida prevista y, tras la anuncio acústico, estableció la vía de tren para el tren Os 5935 en la 1. SK. Envió a la est. Světlá la salida prevista en la 2. TK y se dirigió a la taquilla a vender billetes. Una vez que el tren llegaba a la est. Leština, comprobó la autorización y la libertad en la 2. TK y a continuación estableció la vía de tren de salida desde la 1. SK, pero en la 1. TK (operó el botón terminal en la 1. TK);
+◦a continuación operó el altavoz de la estación, se vistió y salió del despacho de circulación;
+◦tras la llegada y la partida del tren, saludó en el exterior a unas pocas personas y regresó al despacho de circulación para anotar la salida del tren;
+◦al poco tiempo, el jefe de estación de la est. Světlá la contactó preguntándole dónde estaba ese tren, ya que la libertad en la 2. TK seguía encendida;
+◦inmediatamente llamó «Alto» por GSM-R al maquinista del tren Os 5935 y dijo al jefe de estación de la est. Světlá que detuviera los mecanismos en la vía excluida;
+◦comunicó la situación al despachador de explotación, quien le dijo que en un momento se pondría en contacto para ver cómo se resolvería lo demás;
+◦en la siguiente llamada le comunicó que la circulación se mantendría en la 2. TK, por lo que canceló la salida prevista del tren Os 5935 para poder recibir el tren desde la est. Světlá, y dio su autorización para que el tren fuera retirado hasta la est. Leština;
+◦intentó introducir en la aplicación de explotación el diario de circulación PMD, pero no lo consiguió, así que llamó al maquinista del tren Os 5935 y redactó con él la orden Pv;
+◦el retorno del tren desde la línea lo realizó mediante intervención el despachador de explotación en el diario de circulación;
 ◦tras la llegada del tren Os 5935 a la est. Leština, esperaron las siguientes instrucciones y el maquinista solicitó la orden de circular por la vía incorrecta;
-◦una vez decidido, el tren Os 5935 continuó hacia la est. Havlíčkův Brod, donde se realizó el reconocimiento;
-
+◦cuando se decidió, el tren Os 5935 continuó hasta la est. Havlíčkův Brod, donde se realizó la inspección;
 
 ## Página 20
+
 
 ◦no se contactó con ZPŘS.
 maquinista del tren Os 5935
@@ -731,8 +719,8 @@ maquinista del tren Os 5935
 ◦el hecho de no haberse detenido antes de la señal portátil «¡Alto!» se debió, por una parte, a que la vio en el último momento y, por otra, a que pensó que había sido desplazada por el viento;
 ◦fue sometido a la prueba de detección de alcohol en la est. Havlíčkův Brod, donde con él se redactó
 
-
 ## Página 21
+
 
 también el acta.
 jefe de estación de la est. Světlá
@@ -760,8 +748,8 @@ trabajador de mantenimiento y reparación de líneas ST Jihlava  – del Acta co
 ◦instaló y fijó el disco en el mástil de la línea de tracción n.º 1 en el km 250,800 y realizó la prueba de fijación. El disco se mantenía firme;
 ◦a continuación se dirigió a la carretera, donde subió al vehículo de servicio y continuó con el cumplimiento de sus demás obligaciones laborales.
 
-
 ## Página 22
+
 
 trabajador de ST Jihlava, jefe de sección de línea  – del Acta con el empleado se desprende, entre otras cosas:
 •
@@ -787,51 +775,49 @@ despachador de explotación CDP Přerov  – del Acta de la declaración prestad
 ## Página 23
 
 ◦el turno transcurría de forma normal, estaba física y psicológicamente en buen estado;
-◦después de las 9.00 h recibió un aviso del jefe de estación de la est. Leština de que el tren Os 5935 había salido a la 1. TK excluida y se había detenido sin consecuencias, sin lesiones y sin colisión con otros DV;
-◦el jefe de estación de la est. Leština le explicó por qué se había producido la MU, es decir, por su errónea preparación de la vía de tren, concretamente por el mal uso de los medios de recordatorio y por los desvíos mal dispuestos para la vía de tren;
+◦después de las 9.00 h recibió un aviso del jefe de estación de la est. Leština de que el tren Os 5935 había salido a la 1. TK excluida y se había detenido sin problemas, sin consecuencias, sin lesiones y sin colisión con otros DV;
+◦el jefe de estación de la est. Leština le explicó por qué se había producido la MU, es decir, por su errónea preparación de la vía del tren, concretamente por el mal uso de los medios de recordatorio y por los desvíos mal dispuestos para la vía del tren;
 ◦le indicó que no moviera el tren de ninguna manera y que esperara instrucciones posteriores;
-◦a continuación informó verbalmente al jefe de despacho, que se encuentra en la misma sala, y este inició las actuaciones relacionadas con la notificación y el inicio de la investigación de la MU;
-◦tras el acuerdo del jefe de despacho con los organismos de investigación, se autorizó el regreso del tren desde la vía y se planificó su posterior viaje hasta la estación de destino;
-◦seguía desempeñando el servicio de tráfico del despachante operativo;
+◦a continuación informó verbalmente al jefe de despacho, que se encuentra en la misma sala, y éste inició las actuaciones relacionadas con la notificación y el inicio de la investigación de la MU;
+◦tras el acuerdo del jefe de despacho con los órganos de investigación, se autorizó el regreso del tren desde la vía y se planificó su posterior viaje hasta la estación de destino;
+◦a continuación se dedicó al ejercicio del servicio de tráfico del despacho operativo;
 ◦conocía la interrupción planificada de la 1. TK. Se enteró de ella a través del sistema y también se la comunicó el jefe de estación;
-◦el permiso para el posterior viaje del tren Os 5935 lo recibió el jefe de estación del jefe de despacho, que se comunica con los organismos de investigación.
+◦el permiso para el posterior viaje del tren Os 5935 lo recibió el jefe de estación del jefe de despacho, que se comunica con los órganos de investigación.
 jefe de despacho CDP Přerov
  – del Acta de declaración prestada para el DI, entre otros
 •
 se deduce:
-◦el transcurso del turno fue normal y tranquilo hasta la MU;
+◦el transcurso del turno fue normal, tranquilo hasta la MU;
 ◦al incorporarse al turno no sentía cansancio y el descanso previo al turno fue suficiente;
-◦tiene a su cargo toda Moravia y Silesia, su función consiste en coordinar el tráfico con los despachantes operativos según las demandas de los transportistas, y además, en caso de producirse una MU, coordinar la explotación;
-◦la MU en cuestión le fue comunicada por el despachante operativo y, en base a ello, habló con el jefe de estación de la est. Leština. Tras finalizar la conversación, comunicó la MU al inspector de SŽDC y a otros según los procedimientos;
-◦la retirada del tren Os 5935 de vuelta a la est. Leština la decidió el inspector de SŽDC.
+◦tiene a su cargo toda Moravia y Silesia, su función consiste en coordinar el tráfico con los despachos operativos según las demandas de los transportistas, y además, en caso de producirse una MU, coordinar la explotación;
+◦la MU en cuestión le fue comunicada por el despacho operativo y, en base a ello, habló con el jefe de estación de la est. Leština. Tras finalizar la conversación, comunicó la MU al inspector de SŽDC y a otros según los procedimientos;
+◦la decisión de retirar la composición del tren Os 5935 de vuelta a la est. Leština la tomó el inspector de SŽDC.
 ### 3.1.2 Otros testigos
-Otras personas no prestaron declaración sobre la MU.
+Otras personas no prestaron declaración en relación con la MU.
 ### 3.2 Sistema de garantía de la seguridad
 ### 3.2.1 Organización marco y forma de emisión y ejecución de instrucciones
-El gestor de la vía y el transportista cuentan con un sistema de garantía de la seguridad adoptado en base a lo dispuesto en la ley núm. 266/1994 Sb.
+El gestor de la vía y el transportista cuentan con un sistema de garantía de la seguridad adoptado en base a las disposiciones de la ley nº 266/1994 Sb.
 En el sistema de garantía de la seguridad de la explotación de la vía adoptado por el gestor de la vía
-
 
 ## Página 24
 
-SŽDC, relacionado con las circunstancias de la aparición de la MU en cuestión, no se constató ninguna deficiencia.
-En el sistema de garantía de la seguridad del transporte ferroviario adoptado por el transportista ČD, relacionado con las circunstancias de la aparición de la MU en cuestión, no se constató ninguna deficiencia.
-### 3.2.2 Requisitos para el personal del gestor de la vía y del transportista y aplicación de dichos requisitos
-Los requisitos para el personal del gestor de la vía y del transportista, en particular los requisitos de idoneidad profesional y sanitaria, están establecidos por la ley núm. 266/1994 Sb., el decreto núm. 173/1995 Sb., el decreto núm. 101/1995 Sb., el decreto núm. 16/2012 Sb. y las normas internas del gestor de la vía y del transportista.
-En el momento de la aparición de la MU en cuestión, todas las personas del gestor de la vía SŽDC, participantes en la MU y que realizan actividades en la explotación de la vía, estaban cualificadas profesionalmente para el desempeño de la función que ocupaban.
-En el momento de la aparición de la MU en cuestión, todas las personas del transportista ČD, participantes en la MU y que realizan actividades en el transporte ferroviario, estaban cualificadas profesionalmente para el desempeño de la función que ocupaban.
-### 3.2.3 Procedimientos de control interno de seguridad y de auditoría y sus resultados
-El transportista realizó, en el marco de la actividad de control, un control interno de seguridad centrado en las actividades de explotación del transporte ferroviario. Desde el comienzo del año 2018 realizó al maquinista del tren Os 5935 un total de 5 controles centrados en la documentación y los documentos obligatorios, el manejo de la estación de radio, la disciplina en las comunicaciones verbales, el cumplimiento de los procedimientos de salida de trenes de estaciones y paradas, el cumplimiento de la velocidad y el estado técnico de los DV, con el resultado de no observar defectos.
+SŽDC, relacionado con las circunstancias de la creación de la MU en cuestión, no se detectó deficiencia. En el sistema de garantía de la seguridad de la explotación del transporte ferroviario adoptado por el transportista ČD, relacionado con las circunstancias de la creación de la MU en cuestión, no se detectó deficiencia.
+### 3.2.2 Requisitos para el personal del gestor de la infraestructura y del transportista y aplicación de dichos requisitos
+Los requisitos para el personal del gestor de la infraestructura y del transportista, en particular los requisitos de idoneidad profesional y médica, están establecidos por la ley n.º 266/1994 Sb., el decreto n.º 173/1995 Sb., el decreto n.º 101/1995 Sb., el decreto n.º 16/2012 Sb. y las normas internas del gestor de la infraestructura y del transportista.
+En el momento de la creación de la MU en cuestión, todas las personas del gestor de la infraestructura SŽDC, participantes en la MU que realizaban actividades en la explotación de la infraestructura, eran profesionalmente idóneas para el desempeño de la función que ocupaban.
+En el momento de la creación de la MU en cuestión, todas las personas del transportista ČD, participantes en la MU que realizaban actividades en la explotación del transporte ferroviario, eran profesionalmente idóneas para el desempeño de la función que ocupaban.
+### 3.2.3 Procedimientos de control interno de seguridad y auditoría y sus resultados
+El transportista realizó, en el marco de la actividad de control, un control interno de seguridad centrado en las actividades de explotación del transporte ferroviario. Desde el comienzo del año 2018, realizó al maquinista del tren Os 5935 un total de 5 controles centrados en la documentación y los documentos obligatorios, el manejo de la estación de radio, la disciplina en las comunicaciones verbales, el cumplimiento de los procedimientos de salida de los trenes de las estaciones y paradas, el cumplimiento de la velocidad y el estado técnico del DV, con el resultado de sin defectos.
 En el procedimiento de control interno de seguridad del transportista no se detectaron deficiencias.
-El gestor de la vía cuenta con un sistema de control de seguridad de la explotación de la vía.
-La actividad de control se realiza según el plan de actividad de control elaborado para las personas que dirigen el transporte ferroviario.
-La jefa de estación de la est. Leština fue controlada en el año 2018 por la supervisión de explotación de PO los días 28. 2., 10. 3. y 4. 4. En todos los controles realizados no se detectaron deficiencias por parte del gestor de la vía. Los controles por parte de la OŘ Brno se realizaron los días 16. 6. y 26. 10. En estos controles se detectaron deficiencias de carácter más bien administrativo, que se resolvieron en un caso mediante la reducción de las retribuciones y en el otro caso mediante una corrección y explicación in situ.
-El jefe de estación de la est. Světlá fue controlado en el año 2018 por la supervisión de explotación de PO los días 9. 4., 8. 6. y 6. 9. En todos los controles realizados no se detectaron deficiencias por parte del gestor de la vía.
-Al despachante operativo de CDP Přerov se le realizaron 4 controles en el período del 1. 11. 2018 al 9. 1. 2019 con el resultado de no observar defectos.
-Al jefe de despacho de CDP Přerov se le realizaron en el período del 1. 11. 2018 al 9. 1. 2019
-
+El gestor de la infraestructura tiene adoptado un sistema de control de seguridad de la explotación de la infraestructura.
+La actividad de control se realiza conforme al plan de actividad de control de las personas que dirigen el tráfico ferroviario.
+La jefa de estación de Leština fue controlada en el año 2018 por el supervisor de explotación PO los días 28. 2., 10. 3. y 4. 4. En todos los controles realizados no se detectaron deficiencias por parte del gestor de la infraestructura. Los controles por parte de OŘ Brno se realizaron los días 16. 6. y 26. 10. En estos controles se detectaron deficiencias de carácter más bien administrativo, que se resolvieron en un caso mediante la reducción de las retribuciones y en el otro caso mediante la corrección y explicación en el lugar.
+El jefe de estación de Světlá fue controlado en el año 2018 por el supervisor de explotación PO los días 9. 4., 8. 6. y 6. 9. En todos los controles realizados no se detectaron deficiencias por parte del gestor de la infraestructura.
+Al despachador de explotación de CDP Přerov se le realizaron 4 controles en el período del 1. 11. 2018 al 9. 1. 2019 con el resultado de sin defectos.
+Al jefe de despachadores de CDP Přerov se le realizaron en el período del 1. 11. 2018 al 9. 1. 2019
 
 ## Página 25
+
 
 2 controles con el resultado de no observar defectos.
 En el procedimiento de control interno de seguridad del gestor de la vía no se detectaron deficiencias.
@@ -859,8 +845,8 @@ a) explotar el transporte ferroviario según las normas de explotación del tran
 •
 «El tren no puede salir de la estación sin una señal que permita la salida ni sin el consentimiento de la persona que dirige el transporte ferroviario ni sin otra autorización del gestor de la vía. La vía de tren para la salida del tren en el ámbito de la estación con desvíos debe estar correctamente dispuesta y libre según las condiciones del apartado 1. Las salidas de trenes deben dirigirse de modo que se respete el orden de importancia de los distintos trenes. El tren para el transporte de
 
-
 ## Página 26
+
 
 pasajeros solo puede salir de la estación ferroviaria o parada cuando no se vea amenazada la seguridad de los pasajeros que suben y bajan ni la seguridad de la circulación del tren.»;
 § 18 apartado 1 del decreto núm. 173/1995 Sb.:
@@ -891,8 +877,8 @@ art. 3641 de la norma SŽDC D1:
 •
 «Durante el tiempo de la interrupción, el jefe de estación debe garantizar mediante un medio de recordatorio que no pueda permitirse la circulación de vehículos a la vía excluida. Si se excluye una vía de tráfico y una estación tiene el consentimiento de tráfico recibido, basta con que esta garantía la realice
 
-
 ## Página 27
+
 
 el jefe de estación con el consentimiento de tráfico recibido; en caso contrario, esta garantía debe realizarla el jefe de estación de ambas estaciones adyacentes.»;
 art. 3936 de la norma SŽDC D1:
@@ -913,50 +899,50 @@ El HDV 814.113-7 contaba con un Certificado de idoneidad del vehículo ferroviar
 
 ## Página 28
 
-El coche de mando 914.113-6 tenía un Certificado de idoneidad del vehículo ferroviario válido, n.º de ev.: PZ 12065/10-V.23, emitido por el DÚ el 7. 4. 2010. La última revisión técnica periódica antes de la aparición de la MU se realizó el 23. 5. 2018, con el resultado de que el vehículo cumplía las condiciones de explotación en las vías, es decir, que se utilizaba en un estado técnico que correspondía a la idoneidad aprobada.
-El HDV 814.113-7 estaba, en el momento de la aparición de la MU, equipado con un dispositivo de registro automático de datos – el velocímetro electrónico Unicontrols Tramex RE1xx n.º 10.
+El coche de mando 914.113-6 disponía de un Certificado de aptitud de vehículo ferroviario válido, n.º de registro: PZ 12065/10-V.23, expedido por el DÚ el 7. 4. 2010. La última revisión técnica periódica antes de la ocurrencia del MU se realizó el 23. 5. 2018, con el resultado de que el vehículo cumplía las condiciones de explotación en las vías, es decir, que se encuentra utilizado en un estado técnico que corresponde a la aptitud aprobada.
+La locomotora 814.113-7 estaba equipada, en el momento de la ocurrencia del MU, con un dispositivo de registro automático de datos – el velocímetro electrónico Unicontrols Tramex RE1xx n.º 10.
 De los datos registrados se desprende:
 09.01.54 h
-el tren Os 5935 partió (desde el 2.º puesto de conducción) de la est. Leština
+el tren Os 5935 se puso en marcha (desde la 2.ª cabina, en sentido de retroceso) desde la est. Leština
 •
 y alcanzó progresivamente una velocidad de 69 km.h-1. El tren era conducido desde el coche de mando 914.113-6;
-a una velocidad de 63 km.h-1 se registra la aplicación y autorización del freno
 09.05.30 h
+a una velocidad de 63 km.h-1 se registra la aplicación y autorización del freno
 •
 automático. La velocidad del tren se redujo a 43 km.h-1;
-a una velocidad de 31 km.h-1 se registra la aplicación del freno rápido;
 09.06.13 h
+a una velocidad de 31 km.h-1 se registra la aplicación del freno rápido;
 •
-a una velocidad de 8 km.h-1 se registra la autorización del freno rápido;
 09.06.20 h
+a una velocidad de 8 km.h-1 se registra la autorización del freno rápido;
 •
 09.06.22 h
 el tren Os 5935 se detuvo.
 •
-La distancia total recorrida desde la partida hasta la detención es de 4060 m.
+La distancia total recorrida desde la puesta en marcha hasta la detención es de 4060 m.
 Asimismo, de los datos registrados se desprende (regreso a la est. Leština):
 09.23.02 h
-el tren partió (desde el 1.º puesto de conducción) y alcanzó progresivamente una
+el tren se puso en marcha (desde la 1.ª cabina, en sentido de avance) y alcanzó
 •
-velocidad de 9 km.h-1.
+progresivamente una velocidad de 9 km.h-1.
 09.23.25 h
-se registra la activación del freno automático de tren;
+se registra la activación del piloto automático de tren;
 •
-el tren vuelve a partir con una velocidad de 11 km.h-1. Posteriormente, la velocidad
 09.23.31 h
+el tren vuelve a ponerse en marcha a una velocidad de 11 km.h-1. Posteriormente la
 •
-del tren se redujo a 8 km.h-1 y aumentó progresivamente hasta 39 km.h-1;
+velocidad del tren se redujo a 8 km.h-1 y aumentó progresivamente hasta 39 km.h-1;
 09.31.30 h
 tras una reducción progresiva de la velocidad, el tren se detuvo en la est. Leština.
 •
-La distancia total recorrida desde la partida hasta la detención es de 4026 m.
-El maquinista manejaba el freno automático de tren y no superó la velocidad máxima permitida en el tramo evaluado.
+La distancia total recorrida desde la puesta en marcha hasta la detención es de 4026 m.
+El maquinista manejó el piloto automático de tren y no superó la velocidad máxima permitida en el tramo evaluado.
 ### 3.5 Documentación sobre el sistema de explotación
 ### 3.5.1 Medidas adoptadas por los empleados del gestor de la infraestructura y del transportista en lo que respecta a la conducción y la seguridad del tráfico
-El miércoles 9. 1. 2019 se estaba realizando entre la est. Leština y la est. Světlá una vía 1. TK según la orden de vía ROV B32A08013, que estaba vinculada a una vía de tensión en la misma vía. La vía fue iniciada por el jefe de estación de la est. Světlá, donde antes de su comienzo también se realizó una anotación sobre la preparación por parte del empleado en la función de OZOV en el cuaderno de anotaciones telefónicas. Ambos jefes de estación introdujeron la vía correspondiente en la aplicación de explotación EDD. El jefe de estación de la est. Světlá colocó los medios de recordatorio, la etiqueta de aviso en el pupitre de mando y las cubiertas rojas en los botones de mando. El jefe de estación de la est. Leština solo colocó la etiqueta de aviso en el pupitre de mando y olvidó colocar las cubiertas rojas. Para más información, véase el punto 3.6.3 de esta ZZ.
-
+El miércoles 9. 1. 2019 se estaba realizando entre la est. Leština y la est. Světlá una intervención de 1.ª categoría (TK) según la orden de intervención ROV B32A08013, que estaba vinculada a una intervención de tensión en la misma vía. La intervención fue iniciada por el jefe de estación de la est. Světlá, donde antes de su comienzo también se realizó el registro de preparación por parte del empleado con la función OZOV en el cuaderno de registro telefónico. Ambos jefes de estación introdujeron la intervención correspondiente en la aplicación de explotación EDD. El jefe de estación de la est. Světlá colocó los elementos de recordatorio, la placa de aviso en la consola de mando y las cubiertas rojas en los botones de mando. La jefa de estación de la est. Leština solo colocó la placa de aviso en la consola de mando y olvidó colocar las cubiertas rojas. Véase además el punto 3.6.3 de la presente ZZ.
 
 ## Página 29
+
 
     Fig. n.º 4: Vista de los medios de recordatorio en la est. Leština      Fuente: DI
 La vía excluida se cubre, según la norma SŽDC D1 art. 3722, con una señal móvil con la indicación «Alto». La vía 1. TK excluida estaba cubierta con esta indicación tanto desde el lado de la est. Světlá como desde el lado de la est. Leština. La señal móvil «Alto» en la est. Leština estaba colocada en el extremo de la vía sobre el soporte de tracción celosí nº 1 en el km 250,800. Por la cobertura del punto excluido según el VR respondía el OZOV, que encargó la colocación al empleado del TO correspondiente.
@@ -965,25 +951,24 @@ Leština en el momento de la aparición de la MU
 Fuente: SŽDC
 El gestor de la infraestructura presentó solo una fotografía de la señal móvil «Alto», que fue tomada por la persona encargada el 9. 1. 2019 a las 11.32 h, es decir, 2 h y 31 min. después de la aparición de la MU (véase la Fig. n.º 5). Por ello, la DI volvió a evaluar el estado documentado en el lugar de la MU con la misma
 
-
 ## Página 30
 
-señal y lo documentó posteriormente mediante mediciones independientes y documentación en vídeo y fotografías (véase la Fig. n.º 6).
-Fig. n.º 6: Vista de la señal móvil «Alto» instalada experimentalmente por la
-DI en el extremo de la vía de la est. Leština
+las señales volvieron a evaluarlas y las documentaron mediante mediciones independientes y documentación en vídeo y fotografías (véase Fig. n.º 6).
+Fig. n.º 6: Vista de la señal portátil «Alto» instalada experimentalmente
+DI en la cabecera de la est. Leština 
              Fuente: DI
-Las señales móviles deben colocarse, según el art. 14 del anexo n.º 22 de la norma SŽDC D1, en las obras ferroviarias de manera que el borde inferior del símbolo de la indicación esté a una altura mínima de 0,15 m y máxima de 4 m sobre el nivel de la cabeza del carril, y su borde más cercano a una distancia máxima de 5 m del eje de la vía. Según las mediciones de la DI, el borde inferior del símbolo de la señal en cuestión estaba a una altura de 0,19 m sobre el nivel de la cabeza del carril y el borde más cercano de la señal móvil a 3,15 m del eje de la vía. La señal móvil «Alto», según la fotografía tomada por el gestor de la infraestructura en el momento de la aparición de la MU, estaba colocada de conformidad con los valores establecidos por la disposición normativa.
-El maquinista del tren Os 5935, en la Declaración de explicación presentada, indicó que se percató de la señal móvil en el último momento. Según su afirmación, observaba con especial atención la nieve en la vía y alrededor del vehículo ferroviario.
-Los viajeros de la parada Sázavka fueron informados de la vía y del cambio de andén.
-El maquinista del tren Os 5935 no fue informado por orden de la vía 1. TK, ya que el ROV no lo exigía.
-La DI encargó al Instituto Hidrometeorológico Checo un dictamen climatológico, que confirmó que el 9. 1. 2019, entre las 7.30 h y las 11.30 h, en la zona de aparición de la MU estaba nublado, caía nieve húmeda y soplaba un viento del oeste con una velocidad de 4 m.s-1, la temperatura rondaba los 0° C. A las 7 h la altura de la capa de nieve era de 3 cm, durante la mañana cayeron unos 3 cm de nieve nueva.
-Del registro de la explicación presentada y del registro con el empleado se desprende que el maquinista registró durante la marcha la colocación de la señal móvil «Alto», pero supuestamente quería comunicar la situación solo cuando saliera a un tramo con visibilidad. Sin embargo, durante la marcha posterior recorrió 3 km y no reaccionó de ninguna manera a la situación, y continuó la marcha hasta la parada Sázavka. Con esta actuación infringió la disposición de la norma SŽDC D1, concretamente el art. 1081, donde se indica que
+Las señales portátiles deben, según el art. 14 del anexo n.º 22 de la norma SŽDC D1 para obras ferroviarias, colocarse de modo que el borde inferior de la señal se encuentre a una altura mínima de 0,15 m y máxima de 4 m sobre el nivel de la cabeza del raíl y su borde más próximo a una distancia máxima de 5 m del eje de la vía. Según las mediciones de la DI, el borde inferior de la señal en cuestión se encontraba a una altura de 0,19 m sobre el nivel de la cabeza del raíl y el borde más próximo de la señal portátil a 3,15 m del eje de la vía. La señal portátil «Alto» estaba colocada, según la fotografía realizada por el explotador ferroviario en el momento del suceso del MU, en conformidad con los valores establecidos por la disposición normativa.
+El maquinista del tren Os 5935, en el Acta de declaración prestada, indicó que se percató de las señales portátiles en el último momento. Según su declaración, prestaba especial atención a la nieve en la vía y alrededor del vehículo ferroviario.
+Los viajeros de la parada Sázavka fueron informados de la vía muerta y del cambio de andén.
+El maquinista del tren Os 5935 no fue notificado por orden de la vía muerta de la 1.ª TK, ya que el ROV no lo exigía.
+La DI encargó al Instituto Hidrometeorológico Checo un informe climatológico, que confirmó que el día 9. 1. 2019, en el intervalo comprendido entre las 7.30 h y las 11.30 h, en la zona de origen del MU estaba nublado, caía nieve húmeda y soplaba viento del oeste con una velocidad de 4 m.s-1, con una temperatura en torno a 0° C. A las 7 h la altura de la capa de nieve era de 3 cm, y durante la mañana cayeron alrededor de 3 cm de nieve nueva. 
+Del acta de declaración prestada y del acta con el empleado se desprende que el maquinista registró durante la marcha la colocación de la señal portátil «Alto», pero que supuestamente pretendía comunicar la situación en cuanto saliera a un tramo con visibilidad. Sin embargo, durante la marcha posterior recorrió 3 km y no reaccionó de ninguna manera a la situación, continuando la marcha hasta la parada Sázavka. Con esta actuación infringió la disposición de la norma SŽDC D1, concretamente el art. 1081, donde se establece que
  a  
-desde el nivel de la señal móvil con
-   la indicación «Alto» el maquinista solo puede circular por la estación si
-
+a la altura de la señal portátil con
+   la señal «Alto» solo puede circular el maquinista en la estación si
 
 ## Página 31
+
 
 esta señal ha sido retirada. A continuación, en el art. 393 se establece la obligación 
  de adoptar con todos los medios disponibles las medidas para
@@ -1001,8 +986,8 @@ Ni el jefe de despacho ni el jefe de estación de la est. Leština tenían aún 
 Sobre la base de las circunstancias constatadas, la DI debe señalar además la situación y la actuación de los empleados del gestor de la infraestructura SŽDC que se produjeron tras la detención del tren Os 5935 en la parada Sázavka.
 El gestor de la infraestructura SŽDC no tiene procedimientos establecidos para la situación en la que un tren con transporte de viajeros se encuentra en una vía excluida, ya que esta situación no debería producirse en absoluto (véase el art. 3634 de la norma SŽDC D1). Si esta situación se produce, los empleados de la SŽDC deben regirse en esta situación principalmente por los arts. 3701 y 3706 de la norma SŽDC D1. Allí se indica que por la organización del trabajo y de las maniobras de los elementos de maniobra responde el ZPŘS, así como por
 
-
 ## Página 32
+
 
 la salida de los elementos de maniobra de la vía excluida, e igualmente redacta y comunica por órdenes escritas los PMD. Los empleados correspondientes del gestor de la infraestructura debían (tras obtener el consentimiento del COP DI) contactar primero con el ZPŘS, que organizaría la circulación del tren Os 5935 (como PMD) hacia la estación, o acordar con él el procedimiento posterior.
 Se ha detectado una deficiencia que no influyó en las causas y circunstancias de la aparición de la MU.
@@ -1027,6 +1012,7 @@ El jefe de estación de la est. Leština disponía del equipamiento necesario, e
 
 ## Página 33
 
+
 D1. Se trata de la forma establecida en la documentación de tráfico básica para imposibilitar la manipulación del elemento de mando del aparato de enclavamiento, o bien para impedir la constitución de la vía de tren por acción automática del aparato de enclavamiento.
 En la oficina de tráfico de la est. Leština había disponibles dos tipos de ayudas de recordatorio, a saber, la placa de aviso, que se coloca en el pupitre de mando del RZZ, y las cubiertas rojas, que se utilizan para cubrir los botones de constitución de vías de tren y de enclavadores de agujas. La jefa de estación, tras iniciar la vía obstruida, colocó en el pupitre de mando únicamente la placa de aviso y, según declaró, olvidó las cubiertas rojas de botones, lo que dio lugar a que, al constituir la vía de tren para la salida del tren Os 5935, no se impidiera que el elemento de mando fuera utilizado por la manipulación.
 La jefa de estación, por tanto, al preparar la vía de tren para la salida del tren Os 5935, manipuló erróneamente un elemento que no estaba protegido por una ayuda de recordatorio y permitió la circulación del tren por la 1. TK excluida. La infracción del art. 3641 de la norma SŽDC condujo luego a la infracción del art. 3634, que establece qué vehículos pueden circular por la vía excluida.
@@ -1037,25 +1023,50 @@ La DI registra, en el período comprendido entre el 1. 1. 2013 y la aparición d
 • el 22. 9. 2015, cuando se produjo la circulación no asegurada del tren Os 12111 por la parte excluida de la vía en la estación Praha-Holešovice. La causa inmediata de esta MU fue la constitución incorrecta de la vía de tren por la jefa de estación;
 • el 28. 9. 2015, cuando se produjo en la est. Záboří nad Labem la entrada del tren Pn 347307 en la 5. SK excluida tanto en vía como en tracción. La causa inmediata de esta MU fue
 
-
 ## Página 34
 
-la manipulación incorrecta del SZZ;
-• el 14. 12. 2018, cuando se produjo la circulación no asegurada del tren Pn 62228 por la vía excluida con el consiguiente descarrilamiento en la est. Nymburk en el ámbito de la estación de clasificación. Esta MU está en investigación por parte de la DI.
+manejo incorrecto del SZZ;
+el 14 de diciembre de 2018, cuando se produjo la circulación no asegurada del tren Pn 62228 por la vía excluida
+•
+con el consiguiente descarrilamiento en la est. Nymburk en el ámbito de la estación de clasificación. Este MU
+está siendo investigado por parte de DI.
 ## 4 ANÁLISIS Y CONCLUSIONES
-### 4.1 Descripción final del incidente
-### 4.1.1 Elaboración de las conclusiones sobre el incidente basadas en los hechos
-establecidos en el punto 3
-El 9. 1. 2019 a las 9.00 h llegó a la est. Leština en la 1. SK el tren Os 5935 (Čáslav – Havlíčkův Brod), que debía continuar hasta la est. Světlá por la 2. TK. El motivo fue la vía obstruida de la 1. TK, que comenzó a las 7.45 h por motivos de eliminación de defectos detectables en los raíles y de eliminación de vegetación. Antes de que la jefa de estación de Leština permitiera la circulación del tren con el semáforo principal, realizó una serie de maniobras y procedimientos de tráfico para la entrada y salida de dicho tren en dirección a la est. Světlá. Antes de la llegada del tren a la est. Leština en la 1. SK, la jefa de estación de Leština realizó la notificación de la salida prevista, es decir, con la informática mediante la aplicación operativa EDD, y solicitó a la jefa de estación de Světlá la concesión del permiso de vía para circular por la 2. TK. Tras comprobar el permiso y constatar la libertad de la vía de tren mediante el SZZ, comenzó a constituir la vía de tren de salida. Sin embargo, por error constituyó la vía de tren dirigida desde el ámbito de la estación hacia la 1. TK excluida.
-El maquinista, en el momento de la salida reglamentaria y ante las señales permisivas «Libre» en los semáforos Sc1 y S1a, partió con el tren por la vía excluida a pesar de que, en la cabecera de la est. Leština, en el km 250,800, estaba colocada la señal portátil «Alto», que registró y, aunque tuvo dudas sobre su validez, la pasó y continuó la marcha. Cuando se aproximó a la parada Sázavka, vio a corta distancia las barreras levantadas del PZZ en el paso a nivel P3696, que estaban cubiertas de nieve. Ya no tuvo tiempo de reaccionar a la situación reduciendo la velocidad y atravesando el paso a nivel abierto a velocidad lenta con precaución aumentada. A las 9.05 h se produjo, así, el paso del tren Os 5935 por el paso a nivel abierto. Tras la parada definitiva del tren Os 5935 en la parada Sázavka, los empleados del gestor de la infraestructura, que trabajaban en la limpieza de la nieve de la plataforma, informaron al maquinista de que circulaba por la vía excluida. Inmediatamente después, la jefa de estación de Leština se puso en contacto con el maquinista.
+### 4.1 Descripción final del suceso excepcional
+### 4.1.1 Elaboración de las conclusiones sobre el suceso excepcional basadas en los hechos
+constatados en el punto 3
+El 9 de enero de 2019 a las 9.00 h llegó a la est. Leština por la 1.ª vía principal el tren Os 5935 (Čáslav –
+Havlíčkův Brod), que debía continuar hasta la est. Světlá por la 2.ª vía de vía única. El motivo era la interrupción
+de la 1.ª vía de vía única, que comenzó a las 7.45 h por motivos de eliminación de defectos detectados en los raíles
+y de eliminación de vegetación. Antes de que el jefe de estación de Leština autorizara la circulación del tren por la señal principal,
+realizó un conjunto de operaciones y procedimientos de tráfico para la entrada y salida de dicho tren en dirección
+a la est. Světlá. Antes de la llegada del tren a la est. Leština por la 1.ª vía principal, el jefe de estación de Leština realizó
+la notificación de la salida prevista, es decir, mediante informática con la aplicación operativa EDD,
+y solicitó al jefe de estación de Světlá la concesión del permiso de vía para circular por la 2.ª vía de vía única.
+Tras comprobar el permiso y constatar la libertad de la vía del tren mediante las operaciones del SZZ, comenzó a establecer
+la vía del tren de salida. Sin embargo, por error estableció la vía del tren que conducía desde el ámbito de la estación
+hacia la 1.ª vía de vía única excluida.
+El maquinista, en el momento de la salida prevista y ante las señales autorizativas «Libre»
+en las señales Sc1 y S1a, partió con el tren hacia la vía excluida, a pesar de que en la cabecera
+de la est. Leština, en el km 250,800, estaba colocada la señal portátil «Alto», que registró y, aunque tuvo
+dudas sobre su validez, la pasó y continuó la circulación. Al acercarse a la parada
+Sázavka, vio a corta distancia las barreras levantadas del PZZ en el paso a nivel P3696,
+que estaban cubiertas de nieve. Ya no le dio tiempo a reaccionar ante la situación reduciendo la velocidad y a pasar
+por el paso a nivel abierto a velocidad lenta con precaución aumentada. A las 9.05 h se produjo
+la circulación del tren Os 5935 por el paso a nivel abierto. Tras la parada definitiva del tren Os 5935
+en la parada Sázavka, el maquinista fue informado por los empleados del gestor de la vía
+que trabajaban en la limpieza de nieve del andén, de la circunstancia de que circulaba por la vía excluida. Inmediatamente
+el maquinista fue contactado por el jefe de estación de Leština.
 ### 4.2 Análisis
-### 4.2.1 Evaluación de los hechos establecidos en el punto 3 y exposición de las conclusiones sobre la causa del incidente y la actuación de los servicios de emergencia
-En primer lugar, en el análisis, la DI analizó el origen de la circulación no asegurada desde la est. Leština.
-La negligencia de la jefa de estación vio reforzada por una coincidencia de circunstancias, consistente en el estado del SZZ y del TZZ en el momento de la vía obstruida de la 1. TK.
-El SZZ en la est. Leština no se vio afectado por la vía obstruida y estaba plenamente operativo. La jefa de estación podía utilizar todos los elementos de mando del pupitre de mando y constituir y asegurar plenamente
-
+### 4.2.1 Evaluación de los hechos constatados en el punto 3 y formulación de las conclusiones sobre la causa
+del suceso excepcional y la actuación de los servicios de rescate
+Como primer paso del análisis, la DI analizó el origen de la circulación no asegurada desde la est. Leština.
+La negligencia del jefe de estación se vio respaldada por una coincidencia de circunstancias, consistente en el estado del SZZ y del TZZ
+en el momento de la interrupción de la 1.ª vía de vía única.
+El SZZ en la est. Leština no se vio afectado por la interrupción y estaba plenamente operativo. El jefe de estación podía
+utilizar todos los elementos de mando en el pupitre de mando y establecer plenamente
 
 ## Página 35
+
 
 las vías de tren y de maniobra en la cabecera de salida y en la cabecera de la estación en dirección a la est. Světlá.
 En la vía excluida se encontraba también el TZZ plenamente operativo y la jefa de estación de Leština tenía concedido el permiso de vía para los desplazamientos a la 1. TK excluida. Los mecanismos que se movían por la vía excluida se encontraban en lugares en los que no influían ni en el primer ni en el segundo tramo de aproximación (distanciamiento) del AB. En el pupitre de mando del SZZ, por tanto, no había en los visores de estos tramos de vía del AB una indicación roja activa de ocupación de los circuitos de vía.
@@ -1070,39 +1081,37 @@ Por ello, el gestor de la infraestructura establece en la norma interna SŽDC D1
 ### Esto no lo habría permitido las barreras mecánicas correctamente colocadas, que bloquean
 ### los elementos seleccionados en el
 
-
 ## Página 36
 
-### pupitre de mando del SZZ.
-El maquinista del tren Os 5935, una vez que la vía de tren constituida incorrectamente por la jefa de estación de Leština encendió las señales «Libre» en los semáforos Sc1 y S1a, y con ello se dio la orden de salida del tren, inició, en colaboración con la tripulación del tren, las actividades que el transportista tiene establecidas para la salida segura del tren con pasajeros de la estación.
-A las 9.01 h el maquinista puso el tren en movimiento. Debido a la situación meteorológica desfavorable (precipitaciones de nieve acompañadas de viento), según su declaración, vigiló la situación alrededor del vehículo ferroviario (registró el contacto del frontal de quitanieves bajo su puesto con una capa aumentada de nieve) y no prestó la debida atención a la señal portátil «Alto» colocada en el km 250,800. Dicha señal la advirtió a última hora, pero como también tenía en el semáforo de tramo AB la señal «Libre», continuó adelante y, según su declaración, quiso comunicar toda la situación cuando llegara a un tramo con visibilidad. Sin embargo, no lo hizo hasta su llegada a la parada Sázavka.
-Cuando se aproximó a la parada Sázavka, vio a corta distancia las barreras levantadas del PZZ P3696 y ya no tuvo tiempo de reaccionar a la situación con una marcha de precaución aumentada. A las 9.05 h se produjo el paso del tren Os 5935 por el paso a nivel abierto, que se encuentra en el km 247,933, es decir, 77 m antes de la parada Sázavka. Desde las 8.00 h el PZZ fue desconectado de las dependencias de los circuitos de vía en la 1. TK. La desconexión del PZZ de la circulación para la circulación por la 1. TK excluida se realizó de acuerdo con el requisito del OZOV (detalles en el capítulo 2.2.5 de esta ZZ). Gracias a las circunstancias favorables, la situación peligrosa creada no desembocó en una colisión con los usuarios de la vía pública.
-Del seguimiento de los hechos y de la investigación del factor humano se desprende que el maquinista del tren Os 5935 no tenía conocimiento de la vía obstruida de la 1. TK (esto ni siquiera era exigido). Su comportamiento, según su afirmación, estuvo influido por dos factores que actuaron inmediatamente antes de la MU. El primero, que ambos semáforos, Sc1 y S1a, junto a los que pasó, así como otros semáforos de tramo, indicaban «Libre» y le crearon la impresión de que todo estaba en orden y que la vía de tren estaba constituida y libre para su circulación, y el segundo factor, las condiciones meteorológicas desfavorables, que le obligaban a vigilar la situación alrededor del DV. El error involuntario se manifestó en la prioridad dada a la vigilación de la situación meteorológica y del DV sobre la observación de la señal en el semáforo portátil colocado. Por este motivo, según su declaración, advirtió la señal portátil «Alto» a última hora y decidió reaccionar más tarde a los hechos constatados. Sin embargo, no se produjo por su parte ninguna reacción posterior y, conscientemente, ignoró el estado en el que pasó junto a una señal que le prohibía continuar la circulación, priorizó los semáforos luminosos y continuó circulando en dirección a la vía excluida.
-El maquinista, en su declaración, entre otros aspectos, indicó que la reacción ante una señal dudosa, que la norma SŽDC D1 define en su art. 114, es detener el DV y averiguar las circunstancias. Aunque, según su declaración, advirtió la señal a última hora y le pareció desplazada, caída o bien dudosa, la reacción adecuada habría sido, ante todo, detener el DV inmediatamente e informarse con la jefa de estación de Leština sobre el motivo de la colocación de dicha señal. El maquinista, sin embargo, no resolvió la situación, a pesar de que tenía conocimiento de dicha señal, y continuó con el DV. Reaccionó únicamente ante las barreras levantadas en el paso a nivel P3696 y ante los empleados que limpiaban la nieve en la parada Sázavka y que le daban la señal «Alto».
-### La continuación del desarrollo del accidente (circulación no permitida) fue causada
-### por la no reacción del maquinista del tren Os 5935 ante la señal «Alto» del semáforo
-### portátil de protección. Este error pudo verse influido por las circunstancias que actuaban
-### sobre su comportamiento inmediatamente antes de la aparición de la MU. El número
-### superior de señales permisivas en los semáforos luminosos
+### del panel de control SZZ, no lo permitieron.
+El maquinista del tren Os 5935, después de que la vía de tren incorrectamente establecida por el jefe de estación de la est. Leština encendiera las señales «Vía libre» en los semáforos Sc1 y S1a, y con ello se diera la orden para la expedición del tren, inició, en colaboración con la tripulación del tren, las actividades que el operador tiene establecidas para la salida segura del tren con pasajeros de la estación.
+A la hora 9.01 h el maquinista puso el tren en movimiento. Debido a la situación meteorológica desfavorable (precipitaciones de nieve acompañadas de viento), según su declaración, vigiló la situación en torno al vehículo ferroviario (registró el contacto del arado frontal bajo su puesto con una capa aumentada de nieve) y no prestó la debida atención a la señal portátil «Alto» colocada en el km 250,800. Esta señal la advirtió en el último momento, pero como también tenía en el semáforo de sección AB la señal «Vía libre», continuó adelante y toda la situación, según su declaración, quería comunicarla cuando llegara a un tramo de visibilidad. Sin embargo, esto no lo hizo hasta su llegada a la parada Sázavka.
+Al acercarse a la parada Sázavka, vio a corta distancia las barreras levantadas del PZZ P3696 y ya no le quedó tiempo para reaccionar a la situación con una conducción con precaución aumentada. A la hora 9.05 h se produjo la circulación del tren Os 5935 por el paso a nivel abierto, que se encuentra en el km 247,933, es decir, 77 m antes de la parada Sázavka. Desde las 8.00 h el PZZ fue desconectado de las dependencias de los circuitos de vía en la 1.ª TK. La desconexión del PZZ del funcionamiento para la circulación por la 1.ª TK excluida se realizó de acuerdo con el requisito de OZOV (detalles en el capítulo 2.2.5 de esta ZZ). Gracias a las circunstancias favorables, la situación peligrosa creada no desembocó en una colisión con los usuarios de la vía pública.
+Del seguimiento de los acontecimientos y de la investigación del factor humano se desprende que el maquinista del tren Os 5935 no tenía conocimiento de la exclusión de la 1.ª TK (esto ni siquiera era exigido). Su comportamiento, según su afirmación, estuvo influido por dos factores que actuaron inmediatamente antes de la MU. El primero, que ambos semáforos, Sc1 y S1a, junto a los que pasó, y otros semáforos de sección, indicaban «Vía libre» y le produjeron la impresión de que todo estaba en orden y que la vía de tren estaba establecida y libre para su circulación, y el segundo factor, las condiciones meteorológicas desfavorables, que le obligaban a vigilar la situación en torno al DV. El error inconsciente se manifestó en la prioridad dada a la vigilancia de la situación meteorológica y del DV sobre la observación de la señal en el semáforo portátil colocado. Por este motivo, según su declaración, advirtió la señal portátil «Alto» solo en el último momento y decidió una reacción posterior a los hechos constatados. Sin embargo, por su parte no se produjo ninguna reacción posterior y conscientemente ignoró la situación en la que pasó junto a una señal que le prohibía continuar la circulación, priorizó los semáforos luminosos y continuó circulando en dirección a la vía excluida.
+El maquinista, en su exposición de explicaciones, entre otros, indicó que la reacción a la señal dudosa, que el reglamento SŽDC D1 define en su art. 114, es detener el DV y averiguar las circunstancias. Aunque, según su declaración, advirtió la señal en el último momento y le pareció desplazada, caída o bien dudosa, la reacción adecuada habría sido, ante todo, detener el DV inmediatamente e informarse con el jefe de estación de la est. Leština sobre el motivo de la colocación de esta señal. El maquinista, sin embargo, no resolvió la situación, aunque conocía esta señal, y continuó con el DV. Reaccionó solo ante las barreras levantadas en el paso a nivel P3696 y ante los empleados que estaban retirando la nieve en la parada Sázavka y que le daban la señal «Alto».
+### La continuación del suceso del accidente (circulación no autorizada) fue causada
+### por la no reacción del maquinista del tren Os 5935 a la señal «Alto» del semáforo
+### portátil de protección. Este error pudo haber sido influido por las circunstancias
+que actuaban en su comportamiento inmediatamente antes de la aparición de la MU. El número superior de señales autorizativas en los semáforos luminosos
 
 ## Página 37
 
-de las señales ferroviarias válidas para su circulación, cuyo significado y univocidad vieron afectados, también debido a las condiciones meteorológicas adversas, la respuesta a la señal de la señal ferroviaria portátil colocada con una indicación que prohibía la circulación. Una parte integrante fue también el conocimiento cero del maquinista sobre la interrupción, ya que su circulación (no realizada) en la dirección correcta por la 2.ª vía principal no le concernía en modo alguno. Nada de esto, sin embargo, justifica el hecho de que pasara junto a la indicación que prohibía la circulación, que vio en la cabecera de la estación de Leština, y continuara con este conocimiento la marcha sin detenerse hacia la 1.ª vía principal, sin interesarse tampoco en averiguar por qué apareció allí dicha indicación.
-Del análisis anterior del suceso del accidente, de los hallazgos de la propia investigación y de la documentación adicional que la DI obtuvo del transportista y del gestor de la infraestructura, es evidente que las partes de la infraestructura, los vehículos ferroviarios, el estado de los SZZ y TZZ no guardaban relación causal con la aparición del MU.
+en las señales válidas para su circulación, cuyo significado y univocidad vieron afectados, también debido a las condiciones meteorológicas adversas, la respuesta a la señal del semáforo portátil instalado con la señal que prohíbe la circulación. También formaba parte integrante la nula conciencia del maquinista sobre la interrupción, ya que no afectaría en modo alguno a su circulación (no realizada) en sentido correcto por la 2.ª vía. Nada de esto, sin embargo, justifica el hecho de que pasara junto a la señal que prohíbe la circulación, que vio en la cabecera de la estación de Leština, y continuara con este conocimiento su marcha sin detenerse hacia la 1.ª vía, sin interesarse tampoco en averiguar por qué apareció allí dicha señal.
+Del análisis anterior del suceso, de los hallazgos de la propia investigación y de la documentación adicional que la DI obtuvo del transportista y del gestor de la vía, es evidente que las partes de la vía, los vehículos ferroviarios, el estado de la SZZ y de la TZZ no guardaban relación causal con la aparición de la MU.
 ### 4.3 Conclusiones
-4.3.1 Causas directas e inmediatas del suceso excepcional, incluidos los factores que contribuyeron al mismo y que estuvieron relacionados con la actuación de las personas implicadas o con el estado de los vehículos ferroviarios o de las instalaciones técnicas
+4.3.1 Causas directas e inmediatas del suceso excepcional, incluidos los factores que contribuyeron al mismo y que se relacionaron con la actuación de las personas implicadas o con el estado de los vehículos ferroviarios o de las instalaciones técnicas
 La causa inmediata del suceso excepcional fue:
-• la establecimiento de la vía de circulación para el tren Os 5935 desde la estación ferroviaria Leština u Světlé en dirección a la estación ferroviaria Světlá nad Sázavou en la 1.ª vía de línea excluida.
-Un factor que contribuyó al suceso excepcional fue:
-• la no utilización de la ayuda mecánica prescrita durante el tiempo de la interrupción, que garantiza la imposibilidad de una operación incorrecta (pulsación o tracción involuntaria o errónea) del botón en el pupitre de control del aparato de enclavamiento de la estación por parte del jefe de estación de la estación ferroviaria Leština u Světlé.
-Un factor que contribuyó al suceso excepcional en la continuación del suceso del accidente fue:
-• la no respuesta del maquinista del tren Os 5935 a la señal «Alto» de la señal ferroviaria portátil de protección y la posterior continuación de la marcha por la 1.ª vía de línea excluida a través del paso a nivel abierto P3696.
+• la establecimiento de la vía de tren para el tren Os 5935 desde la estación de ferrocarril Leština u Světlé en dirección a la estación de ferrocarril Světlá nad Sázavou en la 1.ª vía excluida.
+El factor que contribuyó al suceso excepcional fue:
+• la no utilización de la ayuda mecánica prescrita durante el tiempo de interrupción, que garantiza la imposibilidad de una manipulación incorrecta (pulsación o tracción accidental o errónea) del botón en el pupitre de control del aparato de enclavamiento de la estación por parte del jefe de estación de la estación de ferrocarril Leština u Světlé.
+El factor que contribuyó al suceso excepcional en la continuación del suceso fue:
+• la no respuesta del maquinista del tren Os 5935 a la señal «Alto» del semáforo portátil de protección y la posterior continuación de la marcha por la 1.ª vía excluida a través del paso a nivel abierto P3696.
 ### 4.3.2 Causas fundamentales relacionadas con la cualificación, los procedimientos y el mantenimiento
 La causa fundamental del suceso excepcional fue:
-• el incumplimiento de los procedimientos tecnológicos del gestor de la infraestructura por parte del jefe de estación de la estación ferroviaria Leština u Světlé, que establecen la obligación de asegurar, durante el tiempo de la interrupción, los elementos de control con una ayuda recordatoria, de modo que no pueda permitirse la circulación de vehículos por la vía excluida, y de cubrir los botones de establecimiento de vías de circulación y de los conmutadores de vías con tapas rojas.
-
+• el incumplimiento de los procedimientos tecnológicos del gestor de la vía por parte del jefe de estación de la estación de ferrocarril Leština u Světlé, que establecen la obligación de asegurar durante el tiempo de interrupción los elementos de control con una ayuda recordatoria, de modo que no pueda permitirse la circulación de vehículos por la vía excluida, y de cubrir los botones de establecimiento de vías de tren y de los conmutadores de enclavamiento con tapas rojas.
 
 ## Página 38
+
 
 ### 4.3.3 Causas que tienen su origen en el marco jurídico y en el uso del sistema de garantía de la seguridad
 • no fueron detectadas por la Inspección Ferroviaria
@@ -1121,8 +1130,8 @@ El gestor de la infraestructura SŽDC emitió tras la aparición del MU las sigu
 El transportista adoptó y emitió tras la aparición del MU las siguientes medidas:
 • 1. La causa del MU y la responsabilidad por su aparición, incluida la emisión de instrucciones encaminadas a prevenir la aparición de MU similares, se incluirán para su debate en la próxima
 
-
 ## Página 39
+
 
 reunión ampliada de dirección del OCP Střed.
 • 2. El operador del transporte ferroviario ČD, a.s., solicitará a la DVI que les sea presentada la correspondiente Evaluación de las causas y circunstancias de la aparición del suceso excepcional en la próxima formación periódica de maquinistas.
@@ -1136,8 +1145,8 @@ inspector
 de la Inspección Territorial de Brno
 de la Inspección Territorial de Brno
 
-
 ## Página 40
+
 
 ## 7 ANEXOS
           Fig. n.º 9: Parada Sázavka

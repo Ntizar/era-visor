@@ -10,13 +10,14 @@ chars: 121523
 ratio_longitud: 1.26
 tokens_in: 66066
 tokens_out: 48044
-verificacion: revisar
-notas_cifras: ["bloque 1: original bilingüe: se compara contra el idioma principal (EN)", "bloque 4: original bilingüe: se compara contra el idioma principal (CS)", "bloque 8: original bilingüe: se compara contra el idioma principal (CS)", "bloque 9: original bilingüe: se compara contra el idioma principal (EN)"]
-avisos: ["bloque 4: ratio 1.71", "bloque 8: ratio 1.68"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 4: original bilingüe: se compara contra el idioma principal (CS); ratio 2.40", "página 6: original bilingüe: se compara contra el idioma principal (CS)", "página 7: original bilingüe: se compara contra el idioma principal (CS)", "página 9: original bilingüe: se compara contra el idioma principal (CS)", "página 11: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -41,13 +42,13 @@ IČ: 75009561
 mail@dicr.cz
 tel.: +420 736 521 003
 
-
 ## Página 2
+
 
 Este informe final es público y todos los hechos en él expuestos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ## 1 RESUMEN
 Fuente: Drážní inspekce
@@ -80,21 +81,16 @@ instrucción para poner en movimiento la maniobra de maniobras.
 No se detectó ningún factor contribuyente por parte de Drážní inspekce.
 No se detectó ninguna causa sistémica por parte de Drážní inspekce.
 
-
 ## Página 4
 
 Recomendaciones de seguridad:
-Drážní inspekce, en virtud de lo dispuesto en el § 53e apartado 1 de la Ley n.º 266/1994 Sb.,
-recomienda, en relación con la prevención de sucesos excepcionales:
+La Inspección Ferroviaria, en virtud de lo dispuesto en el apartado 1 del § 53e de la Ley núm. 266/1994 Sb., recomienda, en relación con la prevención de sucesos extraordinarios:
 A la Autoridad Ferroviaria:
 •
-en el marco de su actividad como autoridad nacional de seguridad, la adopción de medidas que
-garanticen, en los gestores de vías y transportistas, la conformidad y viabilidad de los procedimientos
-tecnológicos establecidos en la interacción mutua en una interfaz común durante la explotación
-de vías-laterales, con especial atención a su compatibilidad mutua.
-
+En el marco de su actividad como autoridad nacional de seguridad, la adopción de medidas que garanticen, en los operadores de infraestructura y los transportistas, la conformidad y la viabilidad de los procedimientos tecnológicos establecidos en la interacción mutua en la interfaz común en la explotación de líneas ferroviarias y vías privadas, con especial atención a su compatibilidad mutua.
 
 ## Página 5
+
 
 ## RESUMEN
 16 de febrero de 2023, 7:08 (6:08 GMT).
@@ -137,8 +133,8 @@ tecnológicos establecidos en la interacción mutua en una interfaz común duran
 de vías-laterales, con especial atención a su compatibilidad mutua, en los gestores de vías
 y transportistas ferroviarios.
 
-
 ## Página 6
+
 
 # Contenido
 1 RESUMEN.....................................................................................................................3
@@ -190,6 +186,7 @@ infraestructura ferroviaria o de las instalaciones técnicas....................
 
 ## Página 7
 
+
 4.2.2 Factores o consecuencias derivados de la instalación y puesta en servicio de vehículos ferroviarios, infraestructura ferroviaria o instalaciones técnicas.....................................35
 4.2.3 Factores o consecuencias relacionados con fabricantes de vehículos ferroviarios u otros proveedores de productos ferroviarios...........................................................................35
 4.2.4 Factores o consecuencias derivados del mantenimiento y modificación de vehículos ferroviarios o instalaciones técnicas..................................................................................................35
@@ -219,8 +216,8 @@ y de los talleres de mantenimiento..............................................
 6 RECOMENDACIONES DE SEGURIDAD...................................................................................43
 ANEXOS............................................................................................................................44
 
-
 ## Página 8
+
 
 ### Lista de siglas y símbolos utilizados
 BOZP
@@ -262,8 +259,8 @@ Informe Final sobre los Resultados de la Investigación del Suceso Extraordinari
 žst.
 estación ferroviaria
 
-
 ## Página 9
+
 
 ### Lista de siglas de las disposiciones legales, normas y reglamentos internos utilizados
 ley núm. 266/1994 Sb.
@@ -323,8 +320,8 @@ Chlumčany u Dobřan» del gestor de la vía lateral Dr. Zenkl s.r.o.,
 en la redacción vigente en el momento de la ocurrencia del
 suceso extraordinario
 
-
 ## Página 10
+
 
 ČDC Reglas de explotación de la vía férrea
 reglamento interno del operador ČDC, «Reglas de explotación de
@@ -338,54 +335,45 @@ de explotación Plzeň hl. n. para la estación Plzeň hl. n.», en la
 redacción vigente en el momento de la ocurrencia del suceso
 extraordinario
 
-
 ## Página 11
 
-## 2 LA INVESTIGACIÓN Y SU CONTEXTO
-### 2.1 Decisión de iniciar la investigación
-La DI decidió iniciar la investigación del mencionado suceso extraordinario el 16. 2. 2023.
-### 2.2 Fundamentación de la decisión de iniciar la investigación
-La DI decidió investigar el mencionado suceso extraordinario en base a su gravedad y a los
-impactos del suceso extraordinario sobre la explotación segura de la vía férrea y del transporte
-ferroviario, y a la facultad derivada de la disposición § 53b de la ley núm. 266/1994 Sb.
-### 2.3 Alcance y limitaciones de la investigación, incluida la fundamentación pertinente
-La DI no se encontró, en el marco de la investigación del mencionado suceso extraordinario, con
-limitaciones que influyeran negativamente en el modo y los procedimientos de la investigación.
-### 2.4 Descripción general de las capacidades y funciones técnicas del equipo de investigación
-Investigación de la DI en el lugar del suceso extraordinario:
-3x inspector del ÚI Čechy, puesto de trabajo Plzeň y director del ÚI
+## 2 INVESTIGACIÓN Y SUS CONTEXTOS
+### 2.1 Decisión sobre el inicio de la investigación
+El DI decidió iniciar la investigación de la MU en cuestión el 16. 2. 2023.
+### 2.2 Fundamentación de la decisión sobre el inicio de la investigación
+El DI decidió investigar la MU en cuestión sobre la base de su gravedad y de las repercusiones del suceso excepcional sobre la explotación segura de la vía y del transporte ferroviario, y de la facultad derivada de la disposición § 53b de la Ley núm. 266/1994 Sb.
+### 2.3 Alcance y limitaciones de la investigación, incluida la fundamentación correspondiente
+El DI no se encontró, en el marco de la investigación de la MU en cuestión, con limitaciones que influyeran negativamente en el modo y los procedimientos de la investigación.
+### 2.4 Descripción resumida de las capacidades y funciones técnicas del equipo de investigación
+Investigación del DI en el lugar de la MU:
+3x inspector de la ÚI Čechy, centro de trabajo Plzeň y director de la ÚI
 Čechy.
 Constitución del equipo de investigación:
 no fue necesario constituirlo.
 Colaboración externa:
-se utilizó, con el sujeto VŠB – TU Ostrava, Facultad de Ingeniería,
-Instituto de Transporte, Ostrava-Poruba.
+se utilizó, con el sujeto VŠB – TU Ostrava,
+Facultad de Ingeniería, Instituto de Transporte, Ostrava-Poruba.
 2.5 Comunicación y consultas durante la investigación con las personas o sujetos
-que participaron en el suceso
-En la investigación de las causas y circunstancias de la ocurrencia del suceso extraordinario, la
-DI se basó principalmente en sus propios conocimientos, hallazgos y en su propia documentación
-fotográfica. Durante la investigación, la DI solicitó la documentación necesaria al propietario de
-la infraestructura, a los gestores de la infraestructura, al operador y a la Policía ČR.
-La investigación de las causas y circunstancias de la ocurrencia del suceso extraordinario se
-realizó de acuerdo con la ley núm. 266/1994 Sb. y el decreto núm. 376/2006 Sb.
-### 2.6 Descripción del nivel de colaboración ofrecido por los sujetos implicados
-El nivel de colaboración con los representantes de los sujetos implicados en el suceso
-extraordinario fue estándar.
+que participaron en el suceso en cuestión
+En la investigación de las causas y circunstancias de la aparición de la MU, el DI se basó principalmente en sus propios conocimientos, hallazgos y en su propia documentación fotográfica. Durante la investigación, el DI solicitó posteriormente la documentación necesaria al propietario de la vía, a los explotadores de vías, al transportista y a la Policía ČR.
+La investigación de las causas y circunstancias de la aparición de la MU se realizó de acuerdo con la Ley núm. 266/1994 Sb.
+y el decreto núm. 376/2006 Sb.
+### 2.6 Descripción del nivel de colaboración ofrecido por los sujetos participantes
+El nivel de colaboración con los representantes de los sujetos participantes en la MU fue estándar.
 ### 2.7 Descripción de la investigación, los métodos y las técnicas utilizados para acreditar los hechos
 y los hallazgos indicados en el informe
-En el marco de la investigación del suceso extraordinario, la DI procedió de la siguiente manera,
-respectivamente, utilizó, entre otros, los siguientes métodos y técnicas:
+En el marco de la investigación de la MU, el DI procedió de la siguiente manera, es decir, utilizó, entre otros, los siguientes métodos y técnicas:
 •
-inspección del lugar del suceso extraordinario, incluidos los vehículos ferroviarios
-implicados, las instalaciones técnicas y la infraestructura de la vía férrea;
+inspección del lugar del suceso excepcional, incluidos los vehículos ferroviarios participantes, las instalaciones técnicas y la infraestructura de la vía;
 •
-análisis de la documentación solicitada al propietario de la infraestructura, al gestor de
-la infraestructura, al operador y a la Policía ČR;
+análisis de la documentación solicitada al propietario de la vía, al explotador de la vía, al transportista
+y a la Policía ČR;
 •
-declaraciones de los empleados implicados;
-
+declaraciones de los empleados participantes;
 
 ## Página 12
+
+
 •
 encargo de análisis y evaluación de los datos registrados por el registrador de velocidad
 del vehículo ferroviario implicado y de la grabación de la cámara de seguridad a un
@@ -432,8 +420,9 @@ u Dobřan» mediante el desvío núm. ZV3 en el km 0,028 y el desvío núm. ZV5 
 La longitud total de construcción de esta vía lateral es de 3,094 km. El hito que delimita las
 secciones de responsabilidad por la seguridad de la
 
-
 ## Página 13
+
+
 circulación de los vehículos ferroviarios se encuentra en la vía lateral a la altura de la señal de
 ordenación Se 1, el hito con la señal «Límite del explotador de la infraestructura» se encuentra
 a la altura del contacto final de la rama desviada del desvío núm. 1.
@@ -463,6 +452,7 @@ prescrita;
 ➢el desvío estaba equipado con contrapeso del cambiador y señal de desvío;
 
 ## Página 14
+
 
 ➢En el momento de la inspección, el desvío estaba conmutado hacia la dirección de desvío (secundaria), es decir, para la circulación hacia/desde la vía n.º 4 y en la posición final prescrita;
 •
@@ -504,8 +494,8 @@ Orden de los vagones desde la locomotora:
 |  | CZ ČDC 92 54 2 742 437 7 - - | locomotora |  |  |
 | 1 . | CZ ČDC 81 54 4541 054 2 - - | Sgs | 21 01 2022 UL . . |  |
 
-
 ## Página 15
+
 
 | 2 . | CZ ČDC 81 54 4541 237 3 - - | Sgs | 19 03 2020 Tn . . |  |
 | 3 . | CZ ČDC 81 54 4540 947 8 - - | Sgs | 29 11 2021 OS . . |  |
@@ -583,74 +573,81 @@ el vagón tenía el escalón derecho deformado en el sentido de la circulación/
 •
 el costado derecho del vagón quedó encastrado en las paletas de adoquines almacenadas situadas a la derecha de la vía transitada;
 
-
 ## Página 16
 
 •
-desde el primer eje del bogie trasero del vagón hasta su extremo en el sentido de empuje, es decir, a lo largo de 15,74 m, se encontraban fragmentos de adoquines a ambos lados del carril derecho;
+desde el primer eje del bogie trasero del DV hasta su frontal en la dirección de empuje, es decir, en una longitud de 15,74 m, se encontraban fragmentos de adoquín a ambos lados del carril derecho;
 •
-a la derecha en el sentido de empuje se encontraba una vía asfáltica a una distancia de 45 cm del borde exterior del carril derecho, es decir, 116 cm del eje de la vía;
+a la derecha en la dirección de empuje se encontraba una vía asfáltica a una distancia de 45 cm del borde exterior del carril derecho, es decir, 116 cm del eje de la vía;
 •
-sobre los bogies del vagón estaban depositados contenedores vacíos MEDU n.º 646891-7 y 582916-8;
+sobre los bogies del DV estaban depositados contenedores vacíos MEDU n.º 646891-7 y 582916-8;
 •
-a la altura del extremo frontal del vagón, entre los carriles, se encontraba un casco de protección naranja;
+en el nivel del frontal del DV, dentro de los carriles, se encontraba un casco de protección naranja;
 •
-a una distancia de 1 m delante del extremo de la maniobra de maniobras a la izquierda, pegado al carril izquierdo, se encontraba calzado de trabajo;
-➢los demás vagones y la locomotora no estaban dañados;
-➢el peso propio de cada uno de los vagones incluidos los 2 contenedores era de 27,6 – 28,5 t, la masa de conmutación del conmutador era de 41 t;
-➢los vagones estaban correctamente acoplados con tornillos, conexiones de freno, los topes a la izquierda en el sentido de la circulación (es decir, el lado interior del arco de la vía) apoyaban ajustadamente.
-Posición relativa de los vagones y del material almacenado:
-A una distancia de 8,65 m de los topes traseros del 2.º vagón en el sentido de empuje, es decir, 12,2 m del poste de iluminación (en el pk 0,605 de la vía-lateral), se constató el inicio del espacio de maniobra libre y transitable no respetado a la derecha de la vía transitada, es decir, a partir de este punto se producía una reducción constante de la distancia de 3 m desde el eje de la vía en el sentido de empuje hacia las paletas de adoquines almacenadas. En el pk 0,614 de la vía-lateral se midió una distancia desde el eje de la vía ya inferior a 2,0 m.
-En el lugar de la colisión de la maniobra de maniobras en el pk 0,621 de la vía-lateral se midió una distancia de 1,40 m desde el eje de la vía al borde vertical izquierdo de las paletas de adoquines almacenadas y, además, 1,30 m desde el eje de la vía en el lugar de la parada final del extremo de la maniobra de maniobras.
-Se trataba de paletas europeas de dimensiones 80x120 cm, que estaban apiladas, denominado así, en cuatro niveles de altura y dos filas consecutivas. En el lugar del extremo de la maniobra de maniobras detenida alcanzaban una altura de 3 m y, como consecuencia de la colisión, estaban ligeramente inclinadas hacia el eje de la vía.
-El material depositado sobre ellas (baldosas de cerámica cocida alta sin esmalte de dimensiones 30 x 60 cm y 60 x 60 cm) se apoyaba en el contenedor cargado.
+a una distancia de 1 m por delante del frontal de la unidad de maniobra, a la izquierda pegado al carril izquierdo, se encontraba calzado de trabajo;
+➢ni el resto de DV ni el HDV estaban dañados;
+➢el peso propio de cada DV, incluidos 2 contenedores, era de 27,6 – 28,5 t, el peso de maniobra del maniobrador era de 41 t;
+➢el DV estaba correctamente suspendido por tornillos, acoplamientos de freno, los amortiguadores a la izquierda en la dirección de marcha (es decir, el lado interior del arco de la vía) apoyaban firmemente.
+
+Posición relativa del DV y el material almacenado:
+
+A una distancia de 8,65 m de los amortiguadores traseros del 2.º DV en la dirección de empuje, es decir, 12,2 m del poste de iluminación (en el km 0,605 de la vía-lateral), se detectó el inicio del espacio de maniobra transitable libre no respetado a la derecha de la vía transitable, es decir, desde este punto se producía una reducción constante de la distancia de 3 m desde el eje de la vía en la dirección de empuje hacia las paletas almacenadas con adoquín. En el km 0,614 de la vía-lateral se midió una distancia desde el eje de la vía ya inferior a 2,0 m.
+
+En el lugar de la colisión de la unidad de maniobra en el km 0,621 de la vía-lateral se midió una distancia de 1,40 m desde el eje de la vía hasta el borde vertical izquierdo de las paletas almacenadas con adoquín y, además, 1,30 m desde el eje de la vía en el lugar de la parada final del frontal de la unidad de maniobra.
+
+Se trataba de europalletas de dimensiones 80x120 cm, que estaban denominadamente apiladas en cuatro niveles de altura y dos filas una detrás de otra. En el lugar del frontal de la unidad de maniobra detenida alcanzaban una altura de 3 m y, como consecuencia de la colisión, estaban ligeramente inclinadas hacia el eje de la vía. El material depositado sobre ellas (baldosas de cerámica altamente sinterizada sin esmaltar de dimensiones 30 x 60 cm y 60 x 60 cm) se apoyaba en el contenedor cargado.
+
 Condiciones meteorológicas:
 nublado, sin precipitaciones, viento débil del suroeste, -4 °C,
 visibilidad no reducida.
+
 Datos geográficos:
-terreno llano, lugar de la maniobra de maniobras en el arco izquierdo de la vía-lateral.
-En el lugar de la maniobra de maniobras no se realizaron, inmediatamente antes de su producción, por parte del propietario, del explotador de la vía ni de otros sujetos, trabajos de reparación o de mantenimiento. La circulación en el lugar de la maniobra de maniobras y sus alrededores se desarrollaba en régimen normal, sin embargo, la sección transversal de circulación de la vía-lateral estaba alterada por el material almacenado.
+terreno llano, lugar del MU en el arco izquierdo de la vía-lateral.
+
+En el lugar del MU no se realizaron, inmediatamente antes de su producción, por parte del propietario, del explotador de la vía ni de otros sujetos, ningún tipo de trabajos de reparación o mantenimiento. La circulación en el lugar del MU y sus alrededores estaba en régimen normal, sin embargo, el perfil transitable de la vía-lateral estaba alterado por el material almacenado.
+
 ### 3.1.4 Fallecimientos, lesiones y daños materiales
-Con motivo de la maniobra de maniobras se produjo:
+
+En el MU se produjo:
 •
 lesión grave en la salud del jefe de maniobras.
 
-
 ## Página 17
-El transportista cuantificó el daño en:
+
+El transportista cuantificó los daños en:
 •
-material rodante (maniobra de maniobras)
-10 500 CZK.
-### Con motivo de la maniobra de maniobras, el daño causado en el material rodante se cuantificó en un total de 10 500 CZK.
-Con motivo de la maniobra de maniobras se produjo daño en:
+TDV (unidad de maniobras)
+10 500 Kč.
+### En el MU, los daños causados en el material rodante se cuantificaron en un total de 10 500 Kč.
+En el MU se produjeron daños en:
 •
-material almacenado – pavimento cerámico
-603 557 CZK.
-### Con motivo de la maniobra de maniobras, el daño causado en otros bienes se cuantificó en un total de 603 557 CZK.
+material almacenado – baldosas cerámicas
+603 557 Kč.
+### En el MU, los daños causados en otros bienes se cuantificaron en un total de 603 557 Kč.
 ### 3.1.5 Descripción de otras consecuencias, incluido el impacto del suceso en las actividades regulares de los sujetos participantes
-Como consecuencia de la producción de la maniobra de maniobras se produjo la interrupción total de la circulación en la vía-lateral desde las 7:08 h del día 16. 2. 2023 hasta las 13:00 h del día 23. 2. 2023, fecha en la que el explotador restableció la circulación únicamente en la vía n.º 1 y en la vía de enlace n.º 2 adyacente (situación vigente).
-### 3.1.6 Identificación de las personas, sus funciones y de los sujetos participantes
+Como consecuencia de la producción del MU se produjo la interrupción total de la explotación en la vía-ramal desde las 7:08 h del 16. 2. 2023 hasta las 13:00 h del 23. 2. 2023, fecha en la que el explotador reanudó la explotación únicamente en la vía n.º 1 y en la vía de circunvalación contigua n.º 2 (situación vigente).
+### 3.1.6 Identificación de las personas, sus funciones y los sujetos participantes
 Personas participantes por:
-El explotador de la vía (SŽ), en la que se enlaza la vía-lateral:
+El explotador de la vía (SŽ), a la que se integra la vía-ramal:
 •
 jefe de estación DOZ Klatovy, empleado de SŽ.
 El transportista (ČDC):
 •
-maquinista de la maniobra de maniobras, empleado de ČDC;
+maquinista de la unidad de maniobras, empleado de ČDC;
 •
-jefe de maniobras de la maniobra de maniobras, empleado de ČDC.
-Otras personas:
+jefe de maniobras de la unidad de maniobras, empleado de ČDC.
+Otras personas: 
 •
-gestor de la circulación de la vía-lateral, empleado de LASSELSBERGER, s.r.o.
+gestor de la explotación del ramal, empleado de LASSELSBERGER, s.r.o.
 Sujetos participantes:
-El propietario de la vía-lateral «LASSELSBERGER Chlumčany u Dobřan» era la persona jurídica LASSELSBERGER, s.r.o. con domicilio en Adelova 2549/1, Plzeň-Jižní Předměstí, CP 320 00.
-El explotador de la vía ferroviaria, categoría nacional, Plzeň hl. n. – Klatovy, era SŽ con domicilio en Dlážděná 1003/7, Praha 1, CP 110 00.
-El explotador de la vía-lateral «LASSELSBERGER Chlumčany u Dobřan» era la persona jurídica Dr. ZENKL s.r.o. con domicilio en Šibenička 808, Mnichovice, CP 251 64.
-El transportista de la maniobra de maniobras era ČDC, con domicilio en Jankovcova 1569/2c, Praha 7 - Holešovice, CP 170 00.
-El transporte ferroviario en la vía-lateral se realizaba con base en el contrato celebrado entre el explotador de la vía Dr. ZENKL s.r.o., anteriormente JOANNES, s.r.o., y el transportista ČDC con efectos desde el 6. 11. 2017.
-
+El propietario de la vía-ramal «LASSELSBERGER Chlumčany u Dobřan» era la persona jurídica LASSELSBERGER, s.r.o., con domicilio en Adelova 2549/1, Plzeň-Jižní Předměstí, CP 320 00.
+El explotador de la vía ferroviaria, categoría nacional, Plzeň hl. n. – Klatovy, era SŽ, con domicilio en Dlážděná 1003/7, Praha 1, CP 110 00. 
+El explotador de la vía-ramal «LASSELSBERGER Chlumčany u Dobřan» era la persona jurídica Dr. ZENKL s.r.o., con domicilio en Šibenička 808, Mnichovice, CP 251 64.
+El transportista de la unidad de maniobras era ČDC, con domicilio en Jankovcova 1569/2c, Praha 7 - Holešovice, CP 170 00.
+El tráfico ferroviario en la vía-ramal se explotaba en virtud de un contrato celebrado entre el explotador de la vía Dr. ZENKL s.r.o., anteriormente JOANNES, s.r.o., y el transportista ČDC, en vigor desde el 6. 11. 2017.
 
 ## Página 18
+
 
 ### 3.1.7 Descripción del material rodante y de sus composiciones, incluidos los números de registro
 | Maniobra de maniobras: |  | Composición de la maniobra de maniobras: |  |  |  | Régimen de frenado: |
@@ -687,6 +684,7 @@ Análisis de la cinta del velocímetro:
 Aclaración: La puesta en marcha de la maniobra de maniobras en la hora del velocímetro 7:08:02 y la distancia registrada de 101 m antes del lugar de la parada, fue seguida de una aceleración hasta la velocidad de 6,9 km·h-1 hasta
 
 ## Página 19
+
 
 a una distancia de 67 m del lugar de detención y a continuación un cambio brusco de velocidad al valor de 9,5
 km.h-1. La velocidad máxima alcanzada fue de 12,4 km.h-1 a una distancia de 34 m del lugar de
@@ -728,86 +726,82 @@ con la persona responsable del propietario de la vía lateral – el gestor de l
 Los desvíos en la vía-lateral son operados manualmente por un empleado competente
 del transportista.
 
-
 ## Página 20
 
-### 3.1.9 Cualquier otra información relevante a efectos de la descripción del suceso y de la información básica
-Resumen de las explicaciones facilitadas por los empleados del propietario de la vía-lateral, del explotador de la vía
-y del transportista, incluidas las personas en relación contractual:
-Nota DI: los términos no técnicos proceden de las declaraciones concretas de las personas que
-facilitaron las explicaciones.
+### 3.1.9 Cualquier otra información relevante para los fines de la descripción del suceso y de la información básica
+Resumen de las explicaciones facilitadas por los empleados del propietario de la vía-ramal, del explotador de la vía y del transportista, incluidas las personas en relación contractual:
+Nota DI: las expresiones no técnicas proceden de las declaraciones concretas de las personas que facilitan las explicaciones.
 •
 maquinista de la maniobra de maniobras
   – Acta con el empleado:
 ◦el 16. 2. 2023 condujo el tren Mn 87832 de Plzeň a Chlumčany;
-◦se reunió con el jefe de maniobras en la estación de Chlumčany, quien le comunicó el procedimiento de los trabajos;
-◦en la maniobra dieron la vuelta a los vagones y a continuación los empujaron hacia la vía lateral;
-◦aproximadamente un poco más allá de la báscula había 2 vagones estacionados, éstos los engancharon (los acoplaron a la maniobra de maniobras – nota DI) y los empujaron más arriba en la rampa hacia la plataforma;
+◦se reunió con el jefe de maniobras en la est. Chlumčany, quien le comunicó el procedimiento de los trabajos;
+◦en la clasificadora rodearon los vagones y a continuación empujaron hacia el ramal;
+◦aproximadamente un poco más allá de la báscula había 2 vagones estacionados, los recogieron (los engancharon a la maniobra de maniobras – nota DI) y continuaron empujando cuesta arriba hacia la rampa;
 ◦las instrucciones se las daba el jefe de maniobras por radio;
-◦no llegaron hasta la plataforma porque allí había más vagones;
+◦no llegaron hasta la rampa, porque allí había más vagones;
 ◦el jefe de maniobras a continuación llamó a alguna parte y después le comunicó que los vagones tenían que estacionarse en alguna parte;
-◦con 6 vagones salieron de nuevo del recinto más allá del desvío y del paso a nivel;
+◦con 6 vagones salieron de nuevo del recinto, más allá del desvío y más allá del paso a nivel;
 ◦recibió instrucciones para empujar;
-◦recibía el número de vagones (indicando la longitud restante hasta el lugar de detención – nota DI)
-y por última vez escuchó «dos vagones más», ya iba a paso de hombre;
-◦durante aproximadamente 5 segundos el jefe de maniobras no se comunicó, así que se dirigió a él (por radio – nota DI) y a la vez detenía la maniobra de maniobras;
-◦se dirigió repetidamente al jefe de maniobras por radio y cuando no respondió, aseguró la maniobra de maniobras y fue a ver qué ocurría;
-◦a 3 o 4 vagones del frente de la maniobra de maniobras oyó gemidos, corrió hasta el lugar, el jefe de maniobras estaba atrapado entre el vagón y las paletas de adoquines;
-◦realizó el rescate de su compañero y aseguró el traslado de varias paletas para poder extraerlo;
+◦recibía el número de vagones (indicando la longitud restante hasta el punto de detención – nota DI) y por última vez oyó «dos vagones más», ya iba al paso de hombre;
+◦durante aproximadamente 5 segundos el jefe de maniobras no se comunicó, por lo que se dirigió a él (por radio – nota DI) y a la vez detenía la maniobra de maniobras;
+◦se dirigió repetidamente al jefe de maniobras por radio y, cuando no respondió, detuvo la maniobra de maniobras y fue a ver qué ocurría;
+◦a 3 o 4 vagones de la cabeza de la maniobra de maniobras oyó gemidos, corrió hasta el lugar, el jefe de maniobras estaba atrapado entre un vagón y paletas con adoquines;
+◦realizó el rescate de su compañero y aseguró el traslado de varias paletas para poder extraerle;
 ◦llamó al IZS.
 •
 maquinista de la maniobra de maniobras
   – Registro de la explicación facilitada DI:
-◦entró en servicio a las 4:30 h en Plzeň, el maquinista jefe le dio las llaves del vehículo de tracción, originalmente debía ir a la vía lateral solo con la máquina, finalmente partió con 4 vagones como tren Mn 87832 hacia la estación de Chlumčany, donde se detuvo, cambió a simplex en la maniobra 21 (ajuste de la radio del HDV – nota DI) y a los pocos minutos se comunicó el jefe de maniobras, acordaba con el despachador DOZ la entrega del enclavamiento auxiliar, luego se acercó a la locomotora y acordaron la maniobra;
-◦los 4 vagones que trajo los empujaron a la maniobra (ranžír) a las vías de entrega originales, dieron la vuelta a los vagones y tras una prueba simple de freno los empujaron a la planta;
-
+◦entró en turno a las 4:30 h en Plzeň, el maquinista jefe le dio las llaves del vehículo motriz, originalmente debía ir al ramal solo con la máquina, finalmente partió con 4 vagones como tren Mn 87832 hacia la est. Chlumčany, donde se detuvo, cambió a simplex para la maniobra 21 (ajuste de la radio del HDV – nota DI) y a los pocos minutos se comunicó el jefe de maniobras, estaba acordando con el despachador DOZ la entrega del aparato de enclavamiento auxiliar, luego se acercó a la locomotora y acordaron la maniobra;
+◦los 4 vagones que trajo los introdujeron en la clasificadora en las vías de entrega originales, rodearon los vagones y tras una prueba sencilla de freno empujaron hacia la planta;
 
 ## Página 21
 
-◦antes del segundo paso a nivel se detuvieron, el jefe de maniobras abrió la puerta, empujaron 4 vagones
-a la planta a la primera vía;
-◦en algún punto a la altura de la báscula había 2 vagones estacionados, éstos los engancharon (los acoplaron a la maniobra de maniobras – nota DI) y tras la prueba de freno los empujaron arriba hacia la plataforma de carga;
-◦se detuvieron un poco antes de los vagones que estaban junto a la plataforma, el jefe de maniobras llamó por teléfono
+◦se detuvieron antes del segundo paso a nivel, el jefe de maniobras abrió la puerta, introdujeron 4 vagones
+en la fábrica en la primera vía;
+◦en algún punto a la altura de la báscula estaban estacionados 2 vagones, los engancharon (los acoplaron a la
+composición de maniobras – nota del DI) y tras la prueba de freno volvieron a empujarlos hacia arriba hasta la rampa de carga;
+◦se detuvieron un poco antes de los vagones que estaban junto a la rampa, el jefe de maniobras llamó por teléfono
 y acordaba el procedimiento de la maniobra;
-◦tras un rato comunicó que esos 6 vagones tenían que estacionarse en alguna parte y con la máquina volverían
-hacia la plataforma;
-◦llegaron abajo hasta la puerta, el jefe de maniobras la volvió a abrir y sacaron 6 vagones
-más allá del paso a nivel. El jefe de maniobras cambió el desvío y empujaron 6 vagones a la cuarta vía;
-◦dirigía desde el primer puesto a la izquierda en el sentido de empuje. Empujaban, el jefe de maniobras daba
-instrucciones por radio, la distancia la indicaba en vagones, por última vez lo escuchó cuando daba
-«dos vagones más» y «despacio»;
-◦ya no (al jefe de maniobras – nota DI) lo escuchó, así que a los pocos segundos empezó a frenar
+◦tras un rato anunció que esos 6 vagones tenían que estacionarse en algún sitio y que con la locomotora volverían
+a la rampa;
+◦llegaron abajo hasta la puerta, el jefe de maniobras la volvió a desbloquear y sacaron 6 vagones más allá
+del paso a nivel. El jefe de maniobras cambió la aguja y empujaron 6 vagones a la cuarta vía;
+◦manejaba desde el primer puesto a la izquierda en el sentido del empuje. Empujaban, el jefe de maniobras daba
+las instrucciones por radio, indicaba la distancia en vagones, la última vez que lo oyó fue cuando indicaba
+dos vagones más y despacio;
+◦después ya no (al jefe de maniobras – nota del DI) lo oyó, así que tras unos pocos segundos empezó a frenar
 y se detuvo utilizando el freno directo;
-◦varias veces se dirigió al jefe de maniobras por su nombre por la radio, cuando no respondía,
-aseguró el convoy utilizando el freno rápido, es decir, la evacuación de aire del tubo
-principal, y fue a ver si le había ocurrido algo;
-◦del segundo vagón desde el frente de la maniobra empujada oyó gemidos y lamentos, echó a correr
-y encontró allí al jefe de maniobras aplastado entre el frente del vagón y las paletas que
-invadían el contorno de paso;
-◦el jefe de maniobras estaba en el estribo y quedó atrapado entre el vagón y las paletas de
-adoquines;
+◦varias veces llamó al jefe de maniobras por su nombre por la radio, al no responder, aseguró la composición
+utilizando el freno rápido, es decir, dejando salir el aire de la tubería principal,
+y fue a ver si le había pasado algo;
+◦desde el segundo vagón desde el frente de la composición en maniobras oyó gemidos y quejidos, echó a correr
+y encontró allí al jefe de maniobras atrapado entre el frente del vagón y las paletas que
+invadían el gálibo de paso;
+◦el jefe de maniobras estaba en el estribo y quedó encajado entre el vagón y las paletas con adoquines;
 ◦llamó inmediatamente al 155, envió a un empleado de la portería para que acompañara a la
-ambulancia al lugar del accidente y pidió ayuda al conductor de la carretilla elevadora para
-retirar las paletas de baldosas y extraer a su compañero. 
+ambulancia al lugar del accidente y pidió ayuda al conductor del carretilla elevadora para retirar
+las paletas con baldosas y liberar al compañero.
 •
 jefe de maniobras
-  – Registro de la explicación facilitada DI:
-◦entró en servicio en Chlumčany, a donde llegó con su vehículo privado;
-◦vio que en la vía n.º 1 había un tren de maniobras con el que atenderían la
-vía lateral LASSELSBERGER;
-◦por teléfono móvil se puso en contacto con el jefe de estación DOZ en Klatovy para que le
-liberara el enclavamiento auxiliar en la cabecera de Plzeň;
-◦a continuación pasaron, incluido el maquinista, a la comunicación por radioenlace;
-◦estableció contacto con el maquinista, le comunicó el modo de realizar la maniobra, realizaron
-la prueba de comunicación, tomó el enclavamiento auxiliar en operación manual y dio instrucción
-al maquinista para iniciar la maniobra;
-◦entraron en la vía lateral, comunicó al jefe de estación que habían liberado la vía de estación, y le devolvió
-el enclavamiento auxiliar;
-◦sacó la locomotora a la llamada maniobra (ranžír), es decir, en la vía lateral YTONG, dieron la vuelta a la maniobra de maniobras, tras
-realizar la prueba simple de freno empujaron la maniobra hasta el paso a nivel a la planta LB Minerals;
-
+  – Registro de la declaración prestada ante el DI:
+◦entró en turno en Chlumčany, a donde había llegado con su vehículo privado;
+◦vio que en la vía número 1 estaba el tren de maniobras con el que iban a atender el
+ramal LASSELSBERGER;
+◦por teléfono móvil se puso en contacto con el jefe de estación DOZ en Klatovy para que
+le liberara el aparato de enclavamiento auxiliar en la cabeza de vía de Plzeň;
+◦a continuación pasaron, incluido el maquinista, a la comunicación por enlace radiofónico;
+◦estableció contacto con el maquinista, le comunicó el modo de realizar la maniobras, realizaron
+la prueba de comunicación, recibió el aparato de enclavamiento auxiliar en operación manual y dio
+instrucción al maquinista para iniciar la maniobras;
+◦entraron en el ramal, comunicó al jefe de estación que habían liberado la vía de estación y le devolvió
+el aparato de enclavamiento auxiliar;
+◦sacaron la locomotora al llamado «ranžír», es decir, al ramal YTONG, rodearon la composición de maniobras,
+y tras realizar una prueba simple de freno empujaron la composición hasta el paso a nivel de la fábrica LB
+Minerals;
 
 ## Página 22
+
 
 ◦antes del paso a nivel se detuvieron, fue a abrir la puerta con las llaves que llevaba encima;
 ◦comprobó los desvíos, si estaban puestos para su circulación, y visualmente también el espacio de la vía lateral, hacia donde
@@ -857,6 +851,7 @@ respondió que:
 
 ## Página 23
 
+
 ◦estaba a la derecha en el sentido de la maniobra de empuje, en el escalón frontal del primer vagón empujado. Antes incluso de dar la orden al maquinista para poner en movimiento la formación de maniobras, recorrió el espacio de maniobra de las vías número 4 y 5 y no detectó ningún obstáculo ni nada que impidiera la explotación de la vía industrial;
 •
 a la pregunta de si la comunicación radio establecida entre él y el maquinista era correcta, sin influencias perturbadoras, y si el maquinista respondía adecuadamente a las órdenes que le daba, respondió que:
@@ -885,8 +880,8 @@ a la pregunta de si en el pasado, durante su actividad laboral, había sentido t
 a la pregunta de si era consciente de forma marco, general o incluso concreta de las obligaciones objetivamente existentes en relación con la explotación de la vía-vía industrial con los equipos del transportista ČD Cargo, derivadas de las normas internas y legales correspondientes y de los procedimientos tecnológicos establecidos por el propietario de la vía-vía industrial, el explotador de la vía-vía industrial y el transportista, respondió que:
 ◦no, ni siquiera podía serlo, porque la Norma Interna sobre la organización de la vía industrial la recibió por correo electrónico, y solo a petición propia, una vez producido el SU investigado del 16. 2. 2023.
 
-
 ## Página 24
+
 
 Aunque no conocía el texto concreto de la norma interna sobre la organización de la vía industrial, por iniciativa propia se hizo informar sobre la explotación de la vía industrial por parte de la jefa de expedición de LB Minerals, que siempre solicitaba estas explotaciones de la vía industrial a ČD Cargo y también era informada de ellas con antelación. Las entradas de los equipos de ČD Cargo a la fábrica LASSELSBERGER en la vía industrial también se habían realizado de forma habitual durante muchos años de manera que el jefe de maniobras desbloqueaba siempre por sí mismo, con la llave que ČD Cargo tenía en préstamo, las puertas para entrar en el espacio interior de la fábrica, por lo que nadie sabía exactamente cuándo se producía esta entrada;
 •
@@ -905,32 +900,25 @@ a la pregunta de si se le había notificado la explotación de la vía-vía indu
 a la pregunta de si durante el desempeño de su actividad había seguido la explotación de la vía-vía industrial por los equipos del transportista ČD Cargo, concretamente la zona de la plataforma de vías o las zonas adyacentes, y cuál era la visibilidad en ese momento, respondió que:
 ◦no, ni siquiera podía seguir la explotación, porque no había sido informado de su entrada concreta en el recinto. Por lo demás, era de día por la mañana, no había niebla, la visibilidad era buena;
 
-
 ## Página 25
 
 •
-a la pregunta de si participó en la realización de las labores de rescate y en la eliminación de las consecuencias de este SU o en las medidas adoptadas posteriormente, respondió que:
-◦no participó en las labores de rescate, porque no se necesitó su ayuda. Posteriormente cambió por completo el sistema de realización de la explotación de la vía industrial, de modo que ahora está en contacto por teléfono móvil tanto con ČD Cargo como con el jefe de estación de la Administración de Infraestructura Ferroviaria (Správa železnic), que le notifica la entrada de la maniobra en el enlace de vías.
-### 3.2 Descripción fáctica del suceso
-### 3.2.1 Secuencia de hechos que condujeron al SU
-En los días anteriores a la producción de este SU, es decir, del 29. 1. al 2. 2. 2023, debido a la insuficiente capacidad del almacén de la fábrica LASSELSBERGER en Chlumčany u Dobřan, los empleados correspondientes del propietario de la vía-vía industrial decidieron la posterior colocación de los productos – baldosas cerámicas en paletas – en lugares alternativos y en los llamados lugares de emergencia. Debido a una coordinación incorrecta y a la no realización de la evaluación de los riesgos posibles en el cambio del método de almacenamiento en los distintos niveles de dirección, los empleados de explotación colocaron el material incluso directamente en el perfil de paso de la vía n.º 4 en explotación de la vía-vía industrial, sin que nadie detectara posteriormente y a tiempo este estado de riesgo realmente producido y adoptara medidas para garantizar la explotación segura de la vía y del transporte ferroviario.
-
-El 16. 2. 2023 a las 6:15 h llegó a la estación de Chlumčany u Dobřan el tren Mn 87832 (locomotora de la serie 742 y 4 vagones de la serie Sgs con contenedores vacíos). Estos equipos estaban destinados a la posterior explotación de la vía industrial LASSELSBERGER.
-
-El jefe de estación del DOZ de Klatovy cedió al jefe de maniobras, a petición de este, el aparato de enclavamiento auxiliar para la maniobra local de los desvíos necesarios para la entrada en la vía industrial, sin haber acordado previamente de forma correcta la circulación de esta formación de maniobras del transportista ČDC con la persona responsable del propietario de la vía industrial, es decir, con el responsable de la explotación de la vía industrial según el Reglamento de Explotación de Enlace, incluida su documentación en la documentación de tráfico designada.
-
-El jefe de maniobras del transportista ČDC desbloqueó y abrió por sí mismo las puertas para la entrada de la formación de maniobras en el casco urbano de la fábrica y la explotación de la vía en cuestión.
-
-El responsable de la explotación de la vía industrial no participó en absoluto en la explotación de la vía por parte del transportista ČDC.
-
-Según el análisis de la cinta registradora de velocidades, el maquinista comenzó a empujar la formación de maniobras a las 7:08:02 h.
-
-De los datos registrados en la cinta registradora de velocidades de la locomotora se deduce que a las 7:08:02 h y a una distancia registrada de 101 m antes del punto de detención se produjo una aceleración hasta una velocidad de 6,9 km·h-1 a una distancia de 67 m antes del punto de detención y, a continuación, un cambio brusco de velocidad al valor de 9,5 km·h-1. La velocidad máxima alcanzada fue de 12,4 km·h-1 a una distancia de 34 m antes del punto de detención. A las 7:08:28 h se produjo un descenso de la velocidad al valor de 9,7 km·h-1 a una distancia de 17 m antes del punto de detención y una reducción brusca a 5,0 km·h-1, momento en el que se produjo la colisión con el obstáculo. La formación de maniobras recorrió a continuación una distancia de 17 m hasta detenerse por completo a las 7:08:34 h.
-
-Según el análisis de la grabación de vídeo, la velocidad media calculada máxima de la formación de maniobras fue de 13,74 km·h-1 en la posición de su frente a 77 m del punto de detención. Desde esta posición, la velocidad descendió con una ligera oscilación hasta el valor de 11,73 km·h-1 a una distancia de 32 m del punto de detención. En el punto de colisión con el obstáculo, en la posición del frente de la formación de maniobras en el pk 0,621, es decir, a 16 m del punto de detención, la velocidad era de 10,67 km·h-1. 
-
+a la pregunta de si participó en la realización de los trabajos de rescate y en la eliminación de las consecuencias de este suceso excepcional o en las medidas adoptadas posteriormente, respondió que:
+◦no participó en los trabajos de rescate porque no se necesitó su ayuda.
+Posteriormente cambió por completo el sistema de explotación de la vía lateral, de modo que ahora está en contacto por teléfono móvil tanto con ČD Cargo como también con el jefe de estación de Správa železnic, quien le comunica la entrada de la maniobra en el punto de enlace de las vías.
+### 3.2 Descripción factual del suceso
+### 3.2.1 Secuencia de hechos que condujeron al suceso excepcional
+En los días anteriores a la producción de este suceso excepcional, es decir, del 29. 1. al 2. 2. 2023, debido a la capacidad insuficiente del almacén de la planta LASSELSBERGER en Chlumčany u Dobřan, los empleados correspondientes del propietario de la vía-lateral decidieron colocar posteriormente los productos – baldosas cerámicas en paletas – en emplazamientos alternativos y en los llamados emplazamientos de emergencia. Debido a una coordinación incorrecta y a la no realización de la evaluación de los riesgos posibles en el cambio del método de almacenamiento en los distintos niveles de gestión, los empleados de explotación colocaron el material directamente en el perfil de paso de la vía de explotación nº 4 de la vía-lateral, sin que nadie detectara posteriormente y de forma oportuna este estado de riesgo realmente producido ni adoptara medidas para garantizar la explotación segura de la vía y del transporte ferroviario.
+El 16. 2. 2023 a las 6:15 h llegó el tren Mn 87832 (locomotora de la serie 742 y 4 vagones de la serie Sgs con contenedores vacíos) a la est. Chlumčany u Dobřan. Estos elementos estaban destinados a la posterior explotación de la vía-lateral LASSELSBERGER.
+El jefe de estación DOZ Klatovy liberó al jefe de maniobra, a petición de este, el aparato de enclavamiento auxiliar para la maniobra local de los desvíos necesarios para la entrada en la vía-lateral, sin haber acordado previamente de forma debida la circulación de esta unidad de maniobra del transportista ČDC con la persona responsable del propietario de la vía-lateral, es decir, con el gestor de la explotación de la vía-lateral según el Reglamento de Explotación de Conexión, incluida su documentación en la documentación de tráfico designada.
+El jefe de maniobra del transportista ČDC desbloqueó y abrió por sí mismo las puertas para la entrada de la unidad de maniobra en el casco urbano de la planta y la explotación de la vía-lateral en cuestión.
+El gestor de la explotación de la vía-lateral no participó en modo alguno en la explotación de la vía por parte del transportista ČDC.
+Según el análisis de la cinta registradora de velocidad, el maquinista comenzó a empujar la unidad de maniobra a las 7:08:02 h.
+De los datos registrados en la cinta registradora de velocidad de la locomotora se desprende que a las 7:08:02 h y a una distancia registrada de 101 m antes del punto de detención se produjo una aceleración hasta la velocidad de 6,9 km.h-1 a una distancia de 67 m antes del punto de detención y, a continuación, un cambio brusco de velocidad al valor de 9,5 km.h-1. La velocidad máxima alcanzada fue de 12,4 km.h-1 a una distancia de 34 m antes del punto de detención. A las 7:08:28 h se produjo una disminución de la velocidad hasta el valor de 9,7 km.h-1 a una distancia de 17 m antes del punto de detención y una reducción brusca a 5,0 km.h-1, momento en el que se produjo la colisión con el obstáculo. A continuación, la unidad de maniobra recorrió una distancia de 17 m hasta detenerse por completo a las 7:08:34 h.
+Según el análisis de la grabación de vídeo, la velocidad media media calculada máxima de la unidad de maniobra fue de 13,74 km.h-1 en la posición de su frente a 77 m del punto de detención. Desde esta posición, la velocidad descendió con una ligera oscilación hasta el valor de 11,73 km.h-1 a una distancia de 32 m del punto de detención. En el punto de colisión con el obstáculo, en la posición del frente de la unidad de maniobra en el km 0,621, es decir, a 16 m del punto de detención, la velocidad era de 10,67 km.h-1.
 
 ## Página 26
+
 
 Como consecuencia de esta colisión se produjo un daño grave a la salud del jefe de maniobras y un daño en los vagones y en el material almacenado.
 No se produjo descarrilamiento de los vagones.
@@ -977,6 +965,7 @@ Policía de la República Checa, Jefatura Regional de Policía de la Región de 
 
 ## Página 27
 
+
 ## 4 ANÁLISIS DEL SUCESO
 ### 4.1 Tareas y obligaciones
 ### 4.1.1 Transportistas y explotadores de la infraestructura
@@ -995,44 +984,49 @@ Infracción del perfil de paso y del espacio libre de circulación y de maniobra
 § 20 apartado 4 de la Ley núm. 266/1994 Sb.:
 «Las condiciones técnicas de aptitud de servicio de la infraestructura y las condiciones técnicas de conexión de las infraestructuras las establece el reglamento de desarrollo.»;
 
-
 ## Página 28
 
 •
-§ 2 apartado 4 del Decreto núm. 177/1995 Sb.:
-«La vía lateral debe tener una capacidad de paso espacial determinada por un perfil de paso correspondiente al contorno del vehículo ferroviario utilizado en la vía lateral... Las vías destinadas tanto a la circulación de vehículos para el servicio tecnológico como a la circulación de vehículos ferroviarios forman parte de la vía lateral y deben cumplir las condiciones establecidas en la Ley núm. 266/1994 Sb., Ley de ferrocarriles, en la redacción de la Ley núm. 23/2000 Sb.».
-No detección de la amenaza persistente a la explotación segura de la infraestructura y del transporte ferroviario, es decir, no realización de la comprobación del perfil de paso de la infraestructura-vía lateral y no comunicación de la aparición de un obstáculo en los días 29. 1. a 2. 2. 2023, es decir, antes de la ocurrencia de la MU el 16. 2. 2023:
+§ 2 apartado 4 del decreto n.º 177/1995 Sb.:
+„La vía privada debe tener una capacidad de paso espacial determinada por un perfil de paso
+correspondiente al contorno del vehículo ferroviario utilizado en la vía privada... Las vías destinadas tanto a la circulación de vehículos para el servicio tecnológico como a la circulación de vehículos ferroviarios forman parte de la vía privada y deben cumplir las condiciones establecidas en la ley n.º 266/1994 Sb.,
+ley de ferrocarriles, en la redacción de la ley n.º 23/2000 Sb.“.
+No detección de la amenaza persistente para la explotación segura del ferrocarril y del transporte ferroviario, es decir,
+no realización de la comprobación del perfil de paso del ferrocarril-vía privada y no notificación de la aparición de un obstáculo en
+los días del 29. 1. al 2. 2. 2023, es decir, antes de la aparición de la MU del 16. 2. 2023:
 •
 artículo IV del Contrato de trabajo:
 •
 Obligaciones básicas del empleado:
-«El empleado está obligado especialmente a:
+„El empleado está obligado en particular:
 ...
-c) cumplir la normativa legal relativa al trabajo que desempeña, cumplir los demás reglamentos relativos al trabajo que desempeña, si se le ha informado adecuadamente de ellos,»;
+c) cumplir la normativa legal relativa al trabajo que desempeña, cumplir las demás normas relativas al trabajo que desempeña, si ha sido debidamente informado de ellas,“;
 ...
 •
-parte D apartados 1 y 2 del Reglamento interno del explotador de la infraestructura-vía lateral Dr. Zenkl s.r.o.:
-1. Motivos para la no realización (interrupción de la explotación) de la vía lateral:
-«...el espacio libre establecido no corresponde a las disposiciones del § 11 del Reglamento de construcción y técnica»;
-«El incumplimiento de las disposiciones del reglamento pone en peligro la seguridad y la salud de los empleados del transportista implicados»;
+apartado D, puntos 1 y 2 de la Normativa interna del explotador de la vía privada-vía privada Dr. Zenkl s.r.o.:
+1. Motivos para la no realización (interrupción de la explotación) de la vía privada:
+„...el paso libre establecido no corresponde a las disposiciones del § 11 del Reglamento de construcción
+y técnico“;
+„El incumplimiento de las disposiciones del reglamento pone en peligro la seguridad y la salud de los empleados del transportista implicados“;
 •
-2. Procedimiento para la comunicación de averías en la vía de circulación:
-«El gestor de la vía lateral comunica sin demora al explotador de la vía lateral…».
-
+2. Procedimiento para la notificación de averías en la vía de circulación:
+„Notifica sin demora el gestor de la vía privada al explotador de la vía privada…“.
 ### Hallazgos:
-La investigación determinó la infracción de la normativa legal y de los reglamentos internos, relativos a las tareas
-### y obligaciones del propietario de la infraestructura, sin relación causal con la ocurrencia de la MU:
-No garantía de la aptitud para el trabajo del gestor de la explotación de la vía lateral por parte del propietario de la infraestructura-vía lateral:
+En la investigación se constató la infracción de la normativa legal y de las normas internas, relativas a las funciones
+### y obligaciones del propietario del ferrocarril, al margen de la relación causal con la aparición de la MU:
+No garantización de la aptitud médica del gestor de la explotación de la vía privada por parte del propietario del ferrocarril-vía privada:
 •
-Apartado III del Contrato de mandato:
-Especificación de las obligaciones contractuales del mandatario:
-«El mandante es responsable de la aptitud para el trabajo de sus empleados en la vía lateral y del cumplimiento de los correspondientes reglamentos de transporte en la vía lateral.»
-En el caso de esta MU concreta, es necesario relacionar el citado Apartado III del Contrato de mandato con el definitorio:
+Punto III del Contrato de mandato:
+Concreción de las obligaciones contractuales del mandatario:
+„El mandante responde de la aptitud médica de sus empleados en la vía privada
+y del cumplimiento de las normas de transporte pertinentes en la vía privada.“
+En el caso de esta MU concreta es necesario relacionar el Punto III del Contrato de mandato
+mencionado anteriormente con el definitorio:
 •
-§ 4 apartado 1 letra b) del Decreto núm. 101/1995 Sb.:
-
+§ 4 apartado 1 letra b) del decreto n.º 101/1995 Sb.:
 
 ## Página 29
+
 
 «Los reconocimientos preventivos son reconocimientos regulares en los que se evalúa repetidamente la aptitud para el trabajo de las personas que realizan actividades en la explotación de la infraestructura y del transporte ferroviario»
 •
@@ -1059,27 +1053,13 @@ En el caso de esta MU concreta, es necesario relacionar el citado artículo 7 de
 § 16 apartado 12 del Decreto núm. 173/1995 Sb.:
 «Las actividades en la realización de maniobras, especialmente para… y la maniobra en la explotación del transporte ferroviario en la vía lateral se rigen por los procedimientos tecnológicos establecidos por el explotador de la infraestructura.»;
 
-
 ## Página 30
 
-### El explotador de la infraestructura-vía lateral LASSELSBERGER Chlumčany u Dobřan, Dr. ZENKL
-s.r.o., está obligado, de acuerdo con lo dispuesto en la Ley núm. 266/1994 Sb., entre otras, a explotar la infraestructura para las necesidades del transporte ferroviario fluido y seguro de acuerdo con las reglas para la explotación de la infraestructura y la autorización administrativa, a emitir con fecha de inicio de la explotación de la infraestructura un reglamento interno sobre la explotación de la infraestructura y sobre la competencia profesional y los conocimientos de las personas que garantizan la explotación de la infraestructura y el método de su verificación, incluido el sistema de formación regular, y a garantizar que la explotación de la infraestructura la realicen personas que sean aptas para el trabajo desde el punto de vista médico y profesional.
-El explotador de la infraestructura-vía lateral estableció los procedimientos tecnológicos para la explotación de la infraestructura y del transporte ferroviario relativos, entre otros aspectos, a la garantía de la aptitud de servicio de la infraestructura y de la seguridad del transporte ferroviario. En relación con la citada MU se trata especialmente de las condiciones técnicas de aptitud de servicio de la infraestructura, el mantenimiento y la reparación de la infraestructura en la medida necesaria para su aptitud de servicio, es decir, los reconocimientos y mediciones regulares de las construcciones de las infraestructuras.
-La competencia profesional de las personas implicadas en la explotación de la citada infraestructura-vía lateral la garantiza el propio explotador. La aptitud para el trabajo de estas personas la garantiza, en virtud del acuerdo establecido en el Contrato de mandato celebrado, el propietario de la infraestructura-vía lateral.
-De acuerdo con el § 25 apartado 1 del Decreto núm. 177/1995 Sb., las condiciones técnicas de aptitud de servicio de la infraestructura vienen determinadas por los parámetros constructivo-técnicos y el desgaste admisible en servicio de los componentes de la infraestructura y la funcionalidad de sus partes (componentes).
-De acuerdo con el § 25 apartado 16 letra a) del Decreto núm. 177/1995 Sb., para garantizar la aptitud de servicio de la infraestructura deben registrarse los parámetros constructivo-técnicos de la superestructura ferroviaria, que contienen datos geométricos, de construcción, de tipo y de fabricación, así como datos sobre la antigüedad de las construcciones y registros de las comprobaciones y mediciones regulares.
-De acuerdo con el § 25 apartado 17 del Decreto núm. 177/1995 Sb., los datos registrados, incluidos los protocolos de medición y los valores medidos de acuerdo con el apartado 16 de este decreto, deben actualizarse continuamente y archivarse durante un periodo mínimo de cinco años.
-De acuerdo con el § 26 apartado 1 del Decreto núm. 177/1995 Sb., para garantizar la aptitud de servicio de la infraestructura y la seguridad del transporte ferroviario se realizan reconocimientos y mediciones regulares de las construcciones de las infraestructuras. El intervalo temporal de los reconocimientos y mediciones se indica en el anexo núm. 1, que forma parte de este decreto.
-El explotador de la infraestructura-vía lateral presentó documentos de la realización de las siguientes comprobaciones, mediciones y reconocimientos, incluidos los reconocimientos comisionales según su propia denominación KP 1 – 7, siempre con indicación de su contenido concreto de acuerdo con el Decreto núm. 177/1995 Sb.):
-Año natural 2020:
-•
-31. 3. 2020 recorrido de la línea con medición de la vía y medición de la anchura de los carriles y del sentido de las vías en los desvíos;
-•
-30. 7. 2020 reconocimiento integral: KP 1 medición de la anchura, posición mutua en altura de los carriles – sin registro continuo, KP 2 dos veces medición de la anchura de los carriles y del sentido de las vías en los desvíos, KP 4 comprobación del perfil de paso – todas las vías, KP 5 dos veces recorrido de la línea con medición de la vía, KP 6 reconocimiento de los desvíos, KP 7 reconocimiento de los pasos a nivel y de los pasos peatonales;
-•
-7. 12. 2020 reconocimiento y medición de los desvíos, incluida la realización de la prueba de bloqueo y recorrido de la línea con medición de la vía.
+### Operador de la vía-ramal LASSELSBERGER Chlumčany u Dobřan, Dr. ZENKL
+s.r.o., de conformidad con lo dispuesto en la Ley n.º 266/1994 Sb., entre otras, está obligado a explotar la vía para las necesidades del tráfico ferroviario fluido y seguro según las normas de explotación de la vía y la autorización administrativa, a emitir, con fecha de inicio de la explotación de la vía, un reglamento interno sobre la explotación de la vía y sobre la idoneidad profesional y los conocimientos de las personas que garantizan la explotación de la vía y el método de su verificación, incluido el sistema de formación periódica, y a garantizar que la explotación de la vía la realicen personas que estén sanas y sean profesionalmente idóneas. El operador de la vía-ramal ha establecido los procedimientos tecnológicos relativos a la explotación de la vía y al tráfico ferroviario, entre otros, en lo que respecta a la garantía de la operatividad de la vía y a la seguridad del tráfico ferroviario. En relación con la MU en cuestión, se trata en particular de las condiciones técnicas de operatividad de la vía, del mantenimiento y de la reparación de la vía en la medida necesaria para su operatividad, es decir, de las inspecciones periódicas y de las mediciones de las construcciones de las vías. La idoneidad profesional de las personas participantes en la explotación de la vía-ramal en cuestión la garantiza el propio operador. La idoneidad sanitaria de estas personas la garantiza, en virtud de lo acordado en el Contrato de Mandato celebrado, el propietario de la vía-ramal. De acuerdo con el § 25 apartado 1 del decreto n.º 177/1995 Sb., las condiciones técnicas de operatividad de la vía se determinan por los parámetros constructivo-técnicos y el desgaste admisible en servicio de los componentes de la vía y por la funcionalidad de sus partes (componentes). De acuerdo con el § 25 apartado 16 letra a) del decreto n.º 177/1995 Sb., para garantizar la operatividad de la vía deben registrarse los parámetros constructivo-técnicos de la superestructura ferroviaria, que contienen datos geométricos, de construcción, de tipo y de fabricación, así como datos sobre la antigüedad de las construcciones y registros de las inspecciones y mediciones periódicas. De acuerdo con el § 25 apartado 17 del decreto n.º 177/1995 Sb., los datos registrados, incluidos los protocolos de medición y los valores medidos según el apartado 16 de dicho decreto, deben actualizarse de forma continua y archivarse durante un plazo mínimo de cinco años. De acuerdo con el § 26 apartado 1 del decreto n.º 177/1995 Sb., para garantizar la operatividad de la vía y la seguridad del tráfico ferroviario se realizan inspecciones y mediciones periódicas de las construcciones de las vías. El intervalo temporal de las inspecciones y mediciones se indica en el anexo n.º 1, que forma parte de dicho decreto. El operador de la vía-ramal presentó documentación sobre la realización de las siguientes inspecciones, mediciones e inspecciones, incluidas las inspecciones comisionadas según su propia denominación KP 1 – 7, siempre indicando su contenido concreto según el decreto n.º 177/1995 Sb.): Año natural 2020: • 31. 3. 2020 recorrido de la línea con medición de la vía y medición de la anchura de vía de las bandas de ruedas y de la dirección de las vías en los desvíos; • 30. 7. 2020 inspección integral: KP 1 medición de la anchura de vía, posición mutua en altura de las bandas de ruedas – sin registro continuo, KP 2 dos veces medición de la anchura de vía de las bandas de ruedas y de la dirección de las vías en los desvíos, KP 3 comprobación del gálibo de paso – todas las vías, KP 5 dos veces recorrido de la línea con medición de la vía, KP 6 inspección de los desvíos, KP 7 inspección de los pasos a nivel y de los pasos peatonales; • 7. 12. 2020 inspección y medición de los desvíos, incluida la realización de la prueba de bloqueo, y recorrido de la línea con medición de la vía.
 
 ## Página 31
+
 
 Año natural de 2021:
 •
@@ -1115,8 +1095,8 @@ Con las mediciones e inspecciones anteriores realizadas tras la aparición de la
 
 En la investigación no se detectó incumplimiento de las funciones y obligaciones del explotador de la vía-ramal.
 
-
 ## Página 32
+
 
 El transportista está obligado, según las disposiciones de la Ley n.º 266/1994 Sb., entre otros, a explotar el transporte ferroviario de acuerdo con las normas de explotación del transporte ferroviario, la licencia vigente y el contrato celebrado con el explotador de la vía sobre la explotación del transporte ferroviario en la vía, a emitir con fecha de inicio de la explotación del transporte ferroviario una norma interna sobre la competencia profesional y los conocimientos de las personas que garantizan la explotación del transporte ferroviario y su forma de verificación, incluido el sistema de formación periódica, la emisión y retirada del certificado de maquinista y la modificación de los datos en él contenidos y del plazo de validez del certificado de maquinista, a emitir con fecha de inicio de la explotación del transporte ferroviario una norma interna sobre la garantía organizativa del mantenimiento de los vehículos ferroviarios, a garantizar que los vehículos ferroviarios en la vía-ramal sean conducidos por personas que posean un certificado de aptitud vigente para conducir un vehículo ferroviario, a garantizar que el transporte ferroviario sea realizado por personas que estén sanas y profesionalmente aptas, y a regirse durante la explotación del transporte ferroviario por las instrucciones del explotador de la vía impartidas al organizar el transporte ferroviario.
 
@@ -1134,8 +1114,8 @@ Sin embargo, el jefe de la maniobra no detectó antes del inicio de la maniobra 
 
 Según las disposiciones del § 35 apartado 1 letra i) del Decreto n.º 173/1995 Sb., para la conducción de un vehículo ferroviario debe garantizarse que la persona que conduce el vehículo ferroviario no supere durante la marcha la velocidad máxima permitida, establecida en el horario de circulación o impuesta como velocidad limitada.
 
-
 ## Página 33
+
 
 La velocidad máxima permitida en la vía-ramal fue fijada por el explotador de la vía-ramal en el lugar de la M.U. en 10 km.h-1. Del análisis del desarrollo del movimiento del tramo de maniobra empujado elaborado por la VŠB-TU se desprende que, según el análisis de la tira registradora de velocidad, la velocidad máxima registrada fue de 12,4 km.h-1 a una distancia de 34 m del punto de parada final, es decir, 17 m del punto de colisión. En el punto de colisión del tramo de maniobra con el obstáculo la velocidad fue de 9,7 km.h-1. Según el análisis de la grabación de vídeo de la cámara de seguridad, la velocidad media calculada máxima del tramo de maniobra fue de 13,74 km.h-1 a una distancia de 77 m del punto de parada final, es decir, 61 m del punto de colisión. En el punto de colisión del tramo de maniobra con el obstáculo esta velocidad fue de 10,67 km.h-1.
 
@@ -1156,8 +1136,8 @@ art. 207 apartado 7 letra b) de la norma SŽ D1:
 (7) En una maniobra con cuadrilla de maniobras, el jefe de la cuadrilla de maniobras debe, antes de dar la instrucción para poner en movimiento el tramo de maniobra, garantizar:
 b) que en el perfil de paso de la ruta de maniobra no interfieran vehículos e instalaciones de carretera (coches, grúas, transportadores, puentes, etc.) y que se eliminen todos los obstáculos de la vía (por ejemplo, madera) que pudieran poner en peligro la seguridad de los miembros de la cuadrilla de maniobras durante el movimiento en la vía o causar el descarrilamiento de un vehículo.»
 
-
 ## Página 34
+
 
 ### Hallazgos:
 En la investigación se detectó el incumplimiento de la normativa legal y de las normas internas, relativo a las funciones
@@ -1186,6 +1166,7 @@ La función de la Agencia Ferroviaria de la Unión Europea es, además de garant
 
 ## Página 35
 
+
 o revocar las autorizaciones que hubiera emitido. La Agencia evalúa además las propuestas de normativa nacional, etc.
 En la investigación no se constató infracción de las funciones y obligaciones del organismo nacional de seguridad y de la Agencia Ferroviaria de la Unión Europea.
 ### 4.1.5 Organismos notificados, organismos designados y organismos de evaluación de riesgos
@@ -1204,69 +1185,67 @@ En la investigación no se detectaron factores relacionados con los fabricantes 
 ### 4.2.4 Factores o consecuencias derivados del mantenimiento y de la modificación de los vehículos ferroviarios o de las instalaciones técnicas
 En la investigación no se detectaron factores derivados del mantenimiento y de la modificación de los vehículos ferroviarios o de las instalaciones técnicas.
 
-
 ## Página 36
 
-### 4.2.5 Factores o consecuencias relacionados con el organismo responsable del mantenimiento de los vehículos ferroviarios, los talleres de mantenimiento y otros prestadores de servicios de mantenimiento
-En la investigación no se detectaron factores relacionados con el organismo responsable del mantenimiento de los vehículos ferroviarios, los talleres de mantenimiento y otros prestadores de servicios de mantenimiento.
-4.2.6 Otros factores o consecuencias que se consideren relevantes a efectos de la investigación
-Sobre la base de la explicación facilitada por el jefe de maniobras de la sección de maniobras de que «el retraso en el inicio del frenado y, por tanto, en la parada total de la sección de maniobras fue mayor», y de la declaración adicional del maquinista de la sección de maniobras de que «el jefe de maniobras daba instrucciones por radio, indicaba la distancia en vagones, la última vez que lo oyó fue cuando indicaba dos vagones y despacio, después ya no lo oyó (ninguna instrucción – nota de la DI), así que tras unos pocos segundos empezó a frenar y se detuvo utilizando el freno directo», la DI llevó a cabo una investigación sobre la posible interrupción del enlace radiofónico establecido.
-Del análisis de las conversaciones del dispositivo de registro ReDat se constató que el jefe de maniobras daba las señales necesarias al maquinista de la sección de maniobras de forma regular, en intervalos cortos, hasta inmediatamente antes de la aparición del MU:
+### 4.2.5 Factores o consecuencias relacionados con el sujeto responsable del mantenimiento de los vehículos ferroviarios, los talleres de mantenimiento y otros prestadores de servicios de mantenimiento
+En la investigación no se detectaron factores relacionados con el sujeto responsable del mantenimiento de los vehículos ferroviarios, los talleres de mantenimiento y otros prestadores de servicios de mantenimiento.
+4.2.6 Otros factores o consecuencias que se consideran relevantes a efectos de la investigación
+Sobre la base de la explicación facilitada por el jefe de maniobras de la sección de maniobras de que «el retraso en el inicio del frenado y, por tanto, en la parada completa de la sección de maniobras fue mayor», y asimismo de la declaración del maquinista de la sección de maniobras de que «el jefe de maniobras daba instrucciones por radio, la distancia la indicaba en vagones, la última vez que le oyó fue cuando indicó dos vagones y despacio, después ya no le oyó (ninguna instrucción – nota del DI), así que tras unos pocos segundos empezó a frenar y se detuvo utilizando el freno directo», el DI llevó a cabo una investigación sobre la posible interrupción de la comunicación radiofónica establecida.
+Del análisis de las conversaciones del dispositivo de registro ReDat se constató que el jefe de maniobras daba las indicaciones necesarias al maquinista de la sección de maniobras de forma regular, en intervalos cortos, e incluso de manera inmediata hasta la producción de la MU:
 •
-así «llamando por nombre» paso a nivel libre, empuja medio vagón, yo me agarro, lo colocamos en la cerámica en la vía 2;
+así «llamando por nombre» paso libre, empuja medio vagón, yo me agarro, lo colocamos en la cerámica en la vía 2;
 •
 sigue avanzando, ocho metros, seis metros, sigue avanzando cuatro, así que yo me sostengo, empuja;
 •
-así empujamos, así unos ocho nueve largos detrás del señalador, empujamos, empujamos, empujamos, aún siete, empujamos, aún seis, empujamos, aún cinco largos, empujamos, empujamos, cuatro largos, empujamos, aún tres largos, empujamos, avanza despacio, dos largos, alto, alto, alto, alto...alto.
-La Inspección Ferroviaria, sobre la base de las declaraciones escritas anteriores sobre el retraso y la inaudibilidad de la señal «Alto» durante el empuje de la sección de maniobras inmediatamente antes de su colisión con el obstáculo, solicitó al transportista ČDC que aportara las declaraciones de los empleados de explotación sobre posibles averías en la comunicación radiofónica durante la realización de maniobras en la est. Chlumčany u Dobřan, en la vía-ramal LASSELSBERGER Chlumčany u Dobřan, o en otras, referidas a la vía Plzeň hl. n. – Klatovy. El transportista, sobre la base de su investigación, comunicó a la DI que antes de la aparición del MU objeto de investigación no se habían notificado deficiencias en la comunicación radiofónica.
-En la investigación no se detectaron otros factores relacionados con los vehículos ferroviarios, la infraestructura ferroviaria o las instalaciones técnicas.
+así empujamos, así unos ocho nueve largos tras el topes, empujamos, empujamos, empujamos, aún siete, empujamos, aún seis, empujamos, aún cinco largos, empujamos, empujamos, cuatro largos, empujamos, aún tres largos, empujamos, avanza despacio, dos largos, alto, alto, alto, alto...alto.
+La Inspección Ferroviaria, sobre la base de las declaraciones escritas anteriores relativas al retraso y a la inaudibilidad de la indicación «Alto» durante el empuje de la sección de maniobras inmediatamente antes de su colisión con el obstáculo, solicitó al transportista ČDC que constatara las declaraciones de los empleados de explotación sobre posibles averías en la comunicación radiofónica durante la realización de maniobras en la est. Chlumčany u Dobřan, en el ferrocarril-ramal LASSELSBERGER Chlumčany u Dobřan, o incluso en otros relacionados con el ferrocarril Plzeň hl. n. – Klatovy. El transportista, con base en su investigación, comunicó al DI que antes de la producción de la MU objeto de estudio no se habían declarado deficiencias en la comunicación radiofónica.
+En la investigación no se detectaron otros factores relacionados con los vehículos ferroviarios, la infraestructura ferroviaria o los dispositivos técnicos.
 ### 4.3 Factores humanos
 ### 4.3.1 Características humanas e individuales
-La Inspección Ferroviaria, en la investigación del factor humano, intentó evaluar todas las circunstancias que pudieran haber influido en los empleados implicados y que, en su caso, pudieran haber tenido influencia en la aparición del MU.
-Los empleados implicados del transportista ČDC y el empleado del gestor de la vía SŽ se sometían a reconocimientos médicos periódicos de conformidad con lo dispuesto en el decreto nº 101/1995 Sb. y, sobre la base de los informes médicos presentados sobre la aptitud física para el trabajo, en el momento de la aparición del MU estaban aptos para el desempeño de su función.
-El maquinista de la sección de maniobras trabajó como maquinista durante un total de 28 años, de los cuales 18 años en la vía Plzeň hl. n. – Klatovy y 10 años directamente en el ramal objeto de investigación. Contaba, por tanto, con una
-
+La Inspección Ferroviaria, en la investigación del factor humano, trató de valorar todas las circunstancias tenidas en cuenta que pudieron actuar sobre los empleados implicados y que, en su caso, pudieron haber influido en la producción de la MU.
+Los empleados implicados del transportista ČDC y el empleado del gestor de la infraestructura SŽ se sometían a reconocimientos médicos periódicos de conformidad con lo dispuesto en el decreto n.º 101/1995 Sb. y, sobre la base de los informes médicos presentados sobre la aptitud física para el trabajo, en el momento de la producción de la MU estaban médicamente aptos para el desempeño de su función.
+El maquinista de la sección de maniobras trabajó en la función de maquinista un total de 28 años, de los cuales 18 años en la línea Plzeň hl. n. – Klatovy y 10 años directamente en el ramal objeto de estudio. Contaba, por tanto, con suficiente
 
 ## Página 37
 
-práctica suficientemente larga y, según la documentación del transportista ČDC, tenía conocimiento demostrable de las condiciones de la vía. Estaba cualificado profesionalmente para el trabajo como maquinista y la duración de su práctica, experiencia y conocimientos no tuvieron influencia en la aparición del MU.
-El jefe de maniobras trabajó en esta función durante 18 años, de los cuales 10 años directamente en el ramal objeto de investigación. En el periodo anterior a la aparición del MU no atendía el ramal de forma regular, sino siempre según las necesidades. Contaba, por tanto, con una práctica suficientemente larga y, según la documentación del transportista ČDC, tenía conocimiento demostrable de las condiciones de la vía. Estaba cualificado profesionalmente para el trabajo como jefe de maniobras y la duración de su práctica, experiencia y conocimientos no tuvieron influencia en la aparición del MU.
-El jefe de estación DOZ de la est. Klatovy estaba cualificado profesionalmente, trabajó como jefe de estación de forma ininterrumpida desde el año 2009 hasta la aparición del MU. Estaba cualificado profesionalmente para el trabajo como jefe de estación y la duración de su práctica, experiencia y conocimientos no tuvieron influencia en la aparición del MU.
-El gestor de explotación del ramal no contaba, en el momento de la aparición del MU, con la aptitud física necesaria para el desempeño de su función, es decir, no se le había realizado el reconocimiento médico periódico regular.
-La investigación constató que el gestor de explotación del ramal, según su propia declaración, no tenía conocimiento de ninguna obligación ni requisito para el desempeño de esta función, ni siquiera a pesar de las formaciones profesionales periódicas regularmente impartidas y demostradas por el gestor de la vía, que este acreditó debidamente ante la Inspección Ferroviaria. Por el contrario, negaba en sus declaraciones la existencia de dichas obligaciones. Sí tenía conocimiento de su adscripción laboral como gestor del ramal, función acumulada con la adscripción laboral «gestor del emplazamiento», pero discutía además el plazo y el contenido de la formación necesaria, considerándola únicamente como formal. Según su declaración, entre otros, recibió por correo electrónico el Reglamento Interno sobre la organización del ramal únicamente a petición propia, y ello después de la aparición del MU objeto de investigación.
-El gestor de la vía-ramal acreditó su cualificación profesional mediante documentos de la superación de un examen profesional y de formaciones periódicas.
-En la investigación no se detectaron factores relacionados con la formación profesional de los empleados, el estado de salud y la situación personal, incluido el estrés físico y psicológico. Sin embargo, se detectaron deficiencias relacionadas con la aptitud física del gestor del ramal (véase el punto 4.1.1 de la presente ZZ).
+larga práctica y, según la documentación del operador ČDC, estaba demostradamente familiarizado con las condiciones de la vía. Para el trabajo en la función de maquinista estaba habilitado profesionalmente y la duración de su práctica, experiencia y conocimientos no influyeron en la aparición del MU.
+El jefe de maniobras trabajó en esta función durante 18 años, de los cuales 10 directamente en la vía privada en cuestión. En el tiempo anterior a la aparición del MU no atendía la vía privada de forma regular, sino siempre según las necesidades. Por tanto, tenía una práctica suficientemente larga y, según la documentación del operador ČDC, estaba demostradamente familiarizado con las condiciones de la vía. Para el trabajo en la función de jefe de maniobras estaba habilitado profesionalmente y la duración de su práctica, experiencia y conocimientos no influyeron en la aparición del MU.
+El vigilante de circulación DOZ de la estación de Klatovy estaba habilitado profesionalmente, trabajó en la función de vigilante de circulación de forma ininterrumpida desde el año 2009 hasta la aparición del MU. Para el trabajo en la función de vigilante de circulación estaba habilitado profesionalmente y la duración de su práctica, experiencia y conocimientos no influyeron en la aparición del MU.
+El gestor de explotación de la vía privada no disponía en el momento de la aparición del MU de la aptitud sanitaria necesaria para el desempeño de su función, es decir, en su persona no se había realizado la revisión médica periódica regular.
+La investigación determinó que el gestor de explotación de la vía privada, con base en su declaración, no tenía conocimiento de ninguna obligación ni requisito para el desempeño de esta función, incluso a pesar de las formaciones profesionales regulares realizadas de forma demostrada y repetida por el explotador de la vía, que el explotador acreditó debidamente ante la Inspección Ferroviaria. Por el contrario, negaba en sus declaraciones la aparición de estas obligaciones. Si bien era consciente de su clasificación laboral como gestor de la vía privada como función acumulada con la clasificación laboral de «gestor del emplazamiento», sin embargo discutía además el tiempo y el contenido de la formación necesaria, considerándola únicamente como formal. Según su declaración, entre otros, recibió por correo electrónico el Reglamento Interno sobre la organización de la vía privada únicamente a petición propia, y ello después de la aparición del MU en cuestión.
+Su habilitación profesional fue acreditada por el explotador de la vía-vía privada con documentos de la realización del examen profesional y de las formaciones regulares.
+En la investigación no se detectaron factores relacionados con la formación profesional de los empleados, el estado de salud y la situación personal, incluido el estrés físico y psíquico. Sin embargo, se detectaron deficiencias relacionadas con la aptitud sanitaria del gestor de la vía privada (véase el punto 4.1.1 de la presente II).
 ### 4.3.2 Factores laborales
-En la investigación no se detectaron factores relacionados con el contenido del trabajo o la jornada laboral de los empleados. En la investigación no se constató, en los empleados implicados, el incumplimiento de las condiciones de descanso antes del turno y de los descansos, es decir, del tiempo adecuado para el reposo y la alimentación durante el turno.
+En la investigación no se detectaron factores relacionados con el contenido del trabajo o la jornada laboral de los empleados. En la investigación no se constató en los empleados participantes el incumplimiento de las condiciones de descanso antes del turno y de los descansos, es decir, del tiempo adecuado para el descanso y la alimentación durante el turno.
 ### 4.3.3 Factores organizativos y tareas
-La investigación detectó deficiencias en la organización del transporte ferroviario en la vía-ramal.
-En la parte B, artículo 4, letra b), del reglamento interno «Reglamento Interno sobre la organización del ramal y el transporte ferroviario en el ramal LASSELSBERGER Chlumčany u Dobřan» se indica:
-«El permiso de entrada del transportista en el ramal lo concede el gestor del ramal…»
-En la parte C, artículo 3, letra a), del reglamento interno «Reglamento Interno sobre la organización del ramal y el transporte ferroviario en el ramal LASSELSBERGER Chlumčany u Dobřan» se indica:
-
+La investigación detectó deficiencias en la organización del transporte ferroviario en la vía-vía privada.
+En la parte B, artículo 4, letra b) del reglamento interno «Reglamento interno sobre la organización de la vía privada y el transporte ferroviario en la vía privada LASSELSBERGER Chlumčany u Dobřan» se indica:
+«El permiso para la entrada del operador en la vía privada lo concede el gestor de la vía privada …»
+En la parte C, artículo 3, letra a) del reglamento interno «Reglamento interno sobre la organización de la vía privada y el transporte ferroviario en la vía privada LASSELSBERGER Chlumčany u Dobřan» se indica:
 
 ## Página 38
 
-«Organización de las maniobras en la vía-ramal:
-a) El permiso para realizar maniobras lo concede el gestor del ramal al empleado autorizado por el transportista para autorizar maniobras, pero únicamente en caso de servicio excepcional.»
-En el artículo 7 «Organización del tráfico ferroviario» del reglamento interno del gestor de la vía SŽ «Reglamento operativo de enlace» se indica:
-«La entrada en el ramal y la salida del ramal las acuerda el jefe de estación DOZ de la est. Klatovy telefónicamente con la persona responsable del gestor del ramal – el gestor de explotación del ramal…»
-En la parte B.2 del «Anexo 8 del reglamento interno del transportista ČDC Documentación tecnológica de explotación en la vía-ramal "LASSELSBERGER Chlumčany u Dobřan"» se indica:
-«La entrada en el ramal y la salida del ramal las acuerda el jefe de estación DOZ de la est. Klatovy telefónicamente con la persona responsable del gestor del ramal – el gestor de explotación del ramal…»
-En la parte B.3 del «Anexo 8 del reglamento interno del transportista ČDC Documentación tecnológica de explotación en la vía-ramal "LASSELSBERGER Chlumčany u Dobřan"» se indica:
-«El permiso para realizar nuevas maniobras en el ramal lo concede, en representación del personal del ramal, el gestor del ramal al empleado que dirige la maniobra, pero únicamente en caso de servicio excepcional.»
-De lo anterior se deduce que los procedimientos tecnológicos relativos al acuerdo para realizar maniobras se establecen de forma inequívoca únicamente para el caso de servicio excepcional, y no para el servicio regular.
-En la parte J, artículo 3, del reglamento interno «Reglamento Interno sobre la organización del ramal y el transporte ferroviario en el ramal LASSELSBERGER Chlumčany u Dobřan» se indica:
-«Por las obligaciones de los trabajadores del propietario (arrendatario, usuario) del ramal – gestor, maniobras – responde su empleador. En relación con el ramal y con este reglamento interno, al empleador – propietario del ramal – lo representa el gestor del ramal. ¡El propietario del ramal responde de la apertura de las puertas y del mantenimiento del tramo transitable del ramal!»
-En la parte B.1 del «Anexo 8 del reglamento interno del transportista ČDC Documentación tecnológica de explotación en la vía-ramal "LASSELSBERGER Chlumčany u Dobřan"» se indica:
-«Las puertas las abre, asegura y cierra, tanto en el servicio regular como en el excepcional, el jefe de maniobras.»
-De lo anterior se deduce que los procedimientos tecnológicos de los reglamentos internos del gestor de la vía-ramal y del transportista relativos a la obligación de abrir las puertas del ramal son contradictorios.
-La ambigüedad y la contradicción indicadas en los procedimientos tecnológicos establecidos en los reglamentos internos del gestor de la vía-ramal, del gestor de la vía SŽ y del transportista ČDC pueden llegar a poner en peligro la explotación segura de la vía y del transporte ferroviario. Sobre la base de estos hechos constatados, la DI emite una recomendación de seguridad (véase el punto 6 de la presente ZZ).
-En la investigación se detectaron factores relacionados con la organización del trabajo o con las tareas laborales.
+«Organización de maniobras en la vía-ladera:
+a) El concesionario de la ladera da el consentimiento para la maniobra al empleado autorizado por parte del transportista a permitir la maniobra, pero solo en caso de servicio excepcional.»
+En el art. 7 Organización del tráfico interior del reglamento interno del gestor de la vía SŽ «Reglamento operativo de enlace» se indica:
+«La entrada a la ladera y la salida de la la ladera las acuerda el jefe de estación DOZ en la est. Klatovy telefónicamente con la persona responsable del operador de la ladera – gestor de la explotación de la ladera...»
+En la parte B.2 «Anexo 8 del reglamento interno del transportista ČDC Documentación tecnológica de explotación en la vía-ladera "LASSELSBERGER Chlumčany u Dobřan"» se indica:
+«La entrada a la ladera y la salida de la ladera las acuerda el jefe de estación DOZ de la est. Klatovy telefónicamente con la persona responsable del operador de la ladera – gestor de la explotación de la ladera...»
+En la parte B.3 «Anexo 8 del reglamento interno del transportista ČDC Documentación tecnológica de explotación en la vía-ladera "LASSELSBERGER Chlumčany u Dobřan"» se indica:
+«La autorización para una maniobra adicional en la ladera al empleado que dirige la maniobra la da, en representación de los empleados de la ladera, el gestor de la ladera, pero solo en caso de servicio excepcional.»
+De lo anterior se deduce que los procedimientos tecnológicos relativos al acuerdo de la maniobra están establecidos de forma inequívoca únicamente para el caso de servicio excepcional, y no así para el servicio regular.
+En la parte J, art. 3 del reglamento interno «Reglamento interno sobre la organización de la ladera y el tráfico ferroviario en la ladera LASSELSBERGER Chlumčany u Dobřan» se indica:
+«Por las obligaciones de los trabajadores del propietario (arrendatario, usuario) de la ladera – gestor, maniobra, responde su empleador. Al empleador – propietario de la ladera, en relación con la ladera y este reglamento interno, lo representa el gestor de la ladera. ¡El propietario de la ladera responde de la apertura de las puertas y del mantenimiento del tramo transitable de la ladera!»
+En la parte B.1 «Anexo 8 del reglamento interno del transportista ČDC Documentación tecnológica de explotación en la vía-ladera "LASSELSBERGER Chlumčany u Dobřan"» se indica:
+«Las puertas las abre, asegura y cierra durante el servicio regular y excepcional el jefe de maniobras.»
+De lo anterior se deduce que los procedimientos tecnológicos de los reglamentos internos del gestor de la vía-ladera y del transportista relativos a la obligación de abrir las puertas de la ladera son contradictorios.
+La ambigüedad y la contradicción indicadas en los procedimientos tecnológicos establecidos en los reglamentos internos del gestor de la vía-ladera, del gestor de la vía SŽ y del transportista ČDC pueden llegar a poner en peligro la explotación segura de la vía y del tráfico ferroviario. Sobre la base de estos hechos constatados, el DI emite una recomendación de seguridad (véase el punto 6 de la presente ZZ).
+En la investigación se constataron factores relacionados con la organización del trabajo o con las tareas laborales.
 ### 4.3.4 Factores relacionados con el entorno laboral
-El propietario de la vía permitió el almacenamiento de material en la planta de Chlumčany u Dobřan por parte de los empleados de explotación hasta la sección transitable de la vía en explotación nº 4, sin que esta infracción de la explotación segura de la vía y del transporte ferroviario hubiera sido todavía detectada antes de la aparición de esta
+El propietario de la vía permitió el almacenamiento de material en la planta de Chlumčany u Dobřan por parte de los empleados de explotación hasta la sección transitable de la vía de explotación n.º 4, sin que esta infracción de la explotación segura de la vía y del tráfico ferroviario hubiera sido aún, antes de que se produjera esta
 
 ## Página 39
+
 
 MU jakkoliv zjištěno a které bylo jednou z příčin vzniku předmětné MU (dále také viz bod
 4.1.1 této ZZ).
@@ -1304,8 +1283,8 @@ Drážní úřad k žádosti DI písemně sdělil, že:
 ad 1) Drážní úřad v souvislosti s výše uvedenou mimořádnou událostí nepřijal žádná
 opatření.
 
-
 ## Página 40
+
 
 ad 2) V období od 1. 1. 2020 do 16. 2. 2023 Drážní úřad nevykonal na předmětné vlečce
 žádný státní dozor. 
@@ -1353,8 +1332,8 @@ prostorem.
 ### 5.1 Shrnutí analýzy a závěry týkající se příčin události
 Bezprostředními příčinami mimořádné události bylo:
 
-
 ## Página 41
+
 
 •
 narušení stanoveného průjezdného průřezu provozované dráhy-vlečky
@@ -1412,8 +1391,8 @@ Provozovatel dráhy Dr. Zenkl s.r.o. přijal následující opatření:
 •
 provedení komisionální prohlídky dráhy-vlečky;
 
-
 ## Página 42
+
 
 •
 okamžitý zákaz pojíždění všech kolejí předmětné vlečky, s výjimkou úseku koleje
@@ -1467,8 +1446,8 @@ U vlastníka dráhy-vlečky LASSELSBERGER, s.r.o.:
 nezajištění zdravotní způsobilosti správce provozu vlečky.
 U provozovatele dráhy SŽ:
 
-
 ## Página 43
+
 
 •
 výpravčí DOZ Klatovy udělil svolení k posunu aniž předtím řádně sjednal jízdu
@@ -1516,8 +1495,8 @@ inspektor
 Územního inspektorátu Čechy
 Územního inspektorátu Čechy
 
-
 ## Página 44
+
 
 ## PŘÍLOHY
 Obr. č. 2: Pohled na zadní čelo sunututého posunového dílu

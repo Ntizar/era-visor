@@ -10,13 +10,14 @@ chars: 69486
 ratio_longitud: 1.24
 tokens_in: 40822
 tokens_out: 28360
-verificacion: revisar
-notas_cifras: ["bloque 1: original bilingüe: se compara contra el idioma principal (EN)", "bloque 3: original bilingüe: se compara contra el idioma principal (CS)", "bloque 5: original bilingüe: se compara contra el idioma principal (CS)"]
-avisos: ["bloque 5: ratio 1.71"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 3: original bilingüe: se compara contra el idioma principal (PT)", "página 5: original bilingüe: se compara contra el idioma principal (CS)", "página 6: original bilingüe: se compara contra el idioma principal (CS)", "página 8: original bilingüe: se compara contra el idioma principal (CS)", "página 12: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -45,13 +46,13 @@ IČ: 75009561
 mail@dicr.cz
 tel.: +420 736 521 003
 
-
 ## Página 2
+
 
 Este informe final es público y todos los hechos en él expuestos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ### 1 RESUMEN
 Fuente: Drážní inspekce
@@ -81,8 +82,8 @@ No se identificó ningún factor contribuyente por parte de Drážní inspekce.
 No se identificó ninguna causa en el sistema de seguridad por parte de Drážní inspekce.
 No se emitió ninguna recomendación de seguridad por parte de Drážní inspekce.
 
-
 ## Página 4
+
 
 ### SUMMARY
 2nd September 2020, 8:08 (6:08 GMT).
@@ -117,8 +118,8 @@ Systemic factor:
 none.
 Recommendation: not issued.
 
-
 ## Página 5
+
 
 # Índice
 1 RESUMEN........................................................................................................................3
@@ -160,8 +161,8 @@ SUMMARY.........................................................................
 4.2 Vehículos ferroviarios e instalaciones técnicas...........................................................................21
 4.2.1 Factores o consecuencias derivados del diseño de los vehículos ferroviarios, de la infraestructura ferroviaria o de las instalaciones técnicas.....................................................................21
 
-
 ## Página 6
+
 
 4.2.2 Factores o consecuencias derivados de la instalación y puesta en servicio de los vehículos ferroviarios, de la infraestructura ferroviaria o de las instalaciones técnicas......................................21
 4.2.3 Factores o consecuencias relacionados con los fabricantes de vehículos ferroviarios u otros proveedores de productos ferroviarios............................................................................21
@@ -192,6 +193,7 @@ SUMMARY.........................................................................
 ANEXOS..............................................................................................................................27
 
 ## Página 7
+
 
 ### Lista de siglas y símbolos utilizados
 BESIP                     seguridad del tráfico por carretera
@@ -251,8 +253,8 @@ paso a nivel ferroviario
 žst.
 estación ferroviaria
 
-
 ## Página 8
+
 
 ### Lista de siglas de la legislación, normas y normativa interna utilizadas
 ley núm. 266/1994 Sb.
@@ -300,8 +302,8 @@ la explotación y el servicio de los dispositivos de freno de los vehículos fer
 sobre ruedas», en la redacción vigente en el momento de la ocurrencia
 de la ocurrencia extraordinaria
 
-
 ## Página 9
+
 
 ### 2 INVESTIGACIÓN Y SUS RELACIONES
 ### 2.1 Decisión sobre el inicio de la investigación
@@ -347,8 +349,8 @@ análisis de la documentación solicitada al explotador de la vía, al transport
 •
 de Ivančice;
 
-
 ## Página 10
+
 
 análisis de los datos registrados por el registrador de velocidad del vehículo ferroviario
 •
@@ -402,8 +404,8 @@ la explotación de la vía y del transporte ferroviario.
 Durante la investigación de la MU en cuestión, ni DI ni los órganos judiciales
 iniciaron ninguna comunicación ni colaboración.
 
-
 ## Página 11
+
 
 ### 2.10 Cualquier otra información relevante para la investigación
 Todas las circunstancias esenciales halladas relativas al desarrollo de la investigación de la MU en cuestión ya
@@ -450,8 +452,8 @@ ceda el paso». La ubicación de las señales de tráfico verticales mencionadas
 mismo poste, en el sentido de la marcha del tren desde la žst. Moravské Bránice, era de 4,2 m a la izquierda
 y 4,1 m y 6,3 m a la derecha del eje de la vía.
 
-
 ## Página 12
+
 
 ## Lugar de la MU
  Fig. núm. 2: Esquema del lugar de la ocurrencia de la MU
@@ -477,6 +479,7 @@ La longitud de visibilidad determinada de 140 m, medida en el cuadrante en cuest
 
 ## Página 13
 
+
 OA conforme. Además, durante la medición de ŽP se detectaron deficiencias en la ubicación de las señales de aviso con la indicación «Pískejte» (en adelante, Výstražný kolík). Su ubicación a una distancia superior a los 250 m requeridos (270 m y 280 m) no se ajustaba a lo dispuesto en el capítulo 6.4 Výstražná návěstidla na dráze de la norma ČSN 73 6380. Este hallazgo no guardaba relación causal con la aparición de MU, ya que no provocaba una petición tardía de emitir la señal «Pozor» con la bocina de los DV en circulación hacia ŽP. La visibilidad de la señalización vertical (señales A 32a y B 6) para la detención segura del conductor antes del paso a nivel (parámetro Dz) era, por ambos lados de ŽP, superior a los 15 m requeridos. Del examen del tren se constató lo siguiente:
 •
 El tren Os 11414 se detuvo con el morro del HDV en la vía de tráfico entre las estaciones de Moravské Bránice e Ivančice en el pk 3,215, es decir, 88 metros detrás de ŽP P3949. El tren estaba compuesto por el HDV 842.004- 4, circulando con la cabina de conducción del maquinista n.º 1 en cabeza. El morro y la cola del tren estaban señalizados con las señales prescritas. El HDV resultó dañado: se constató un enchufe eléctrico destruido y su cableado, un estribo doblado en el lado de la cabina de conducción, un asidero bajo el colchón izquierdo, pintura dañada y un deflector de nieve deformado. El tren tenía en total 1 vehículo ferroviario, una longitud de 26 m, 4 ejes, una masa de 53 t, un porcentaje de frenado necesario del 100 % y un porcentaje de frenado real del 112 %. El tren estaba frenado por el método I de frenado en el modo de frenado P. La PČR realizó al maquinista una prueba de alcoholemia con resultado negativo. En el HDV, la DI documentó la documentación del tren.
@@ -496,8 +499,8 @@ Con motivo de MU se produjo:
 el fallecimiento de la conductora del automóvil.
 El gestor de la infraestructura y el transportista cuantificaron el daño en:
 
-
 ## Página 14
+
 
 HDV (tren Os 11414)
 42 450 Kč;
@@ -533,8 +536,8 @@ El gestor de la infraestructura Moravské Bránice – Oslavany era SŽ.
 El transportista del tren Os 11414 era ČD, con domicilio en Nábřeží L. Svobody 1222, Praha 1, PSČ 110 15.
 El transporte ferroviario se explotaba en virtud de un contrato celebrado entre el gestor de la infraestructura SŽ y el transportista ČD el 20. 1. 2020, con efectos desde el 23. 1. 2020.
 
-
 ## Página 15
+
 
 ### 3.1.7 Descripción de los vehículos ferroviarios y sus composiciones, incluidos los números de registro
 | Tren | Os11414 | Composición del tren (coche motor): |  | Modo de frenado: |
@@ -585,8 +588,8 @@ a una velocidad de 45 km·h-1 se produjo la colisión con el OA en ŽP P3949;
 el tren Os 11414 se detuvo a 88 m de ŽP en el sentido de circulación en el pk 3,215.
 El estado real del tren constatado en el lugar de MU correspondía a la documentación del tren. El maquinista del tren Os 11414, durante la marcha hacia ŽP, superó la velocidad máxima permitida de 50 km·h-1 en un máx. de 3 km·h-1 a una distancia de 969 a 605 m antes de ŽP. Dado que la superación de la
 
-
 ## Página 16
+
 
 velocidad se produjo a una gran distancia del campo visual para cruzar ŽP de forma segura con vehículos por carretera, este hecho no guarda relación causal con la aparición de MU.
 ### 3.1.8 Descripción de las partes pertinentes de la infraestructura y del sistema de señalización
@@ -612,8 +615,8 @@ jefe de estación de Moravské Bránice
 ◦poco después de la partida del tren Os 11414, el maquinista llamó para informar de que se había producido una colisión con un OA en ŽP en el ámbito de la parada de Ivančice letovisko;
 ◦inmediatamente después actuó conforme al Ohlašovací rozvrh.
 
-
 ## Página 17
+
 
 ### 3.2 Descripción fáctica del suceso
 ### 3.2.1 Secuencia de hechos que condujeron al suceso extraordinario
@@ -657,6 +660,7 @@ Cuerpo de Bomberos de SŽ, JPO Brno.
 
 ## Página 18
 
+
 ### 4 ANÁLISIS DEL SUCESO
 ### 4.1 Tareas y obligaciones
 ### 4.1.1 Transportistas y gestores de infraestructura ferroviaria
@@ -673,8 +677,8 @@ Superación de la velocidad máxima permitida por el maquinista del tren:
 § 35 apartado 1 letra a) de la Ley núm. 266/1994 Sb.:
 •
 
-
 ## Página 19
+
 
 «El transportista está obligado a explotar el transporte ferroviario de acuerdo con las reglas de explotación del transporte ferroviario, ...»;
 § 35 apartado 1 letra i) del Decreto núm. 173/1995 Sb.:
@@ -703,8 +707,8 @@ art. 7.4.6.7 de la norma ČSN 73 6380:
 ### 4.1.2 Entidades responsables del mantenimiento de los vehículos ferroviarios
 En la investigación no se constató infracción de las tareas y obligaciones de las entidades responsables del mantenimiento de los vehículos ferroviarios.
 
-
 ## Página 20
+
 
 ### 4.1.3 Fabricantes de vehículos ferroviarios u otros proveedores de instalaciones ferroviarias
 En la investigación no se constató infracción de las tareas y obligaciones de los fabricantes de vehículos ferroviarios ni de otros proveedores de productos ferroviarios.
@@ -720,8 +724,8 @@ En la investigación no se constató infracción de las tareas y obligaciones de
 Los usuarios de la vía pública, es decir, también la conductora del VA, deben, antes del PE, en aplicación del § 28 apartado 1 de la Ley núm. 361/2000 Sb., proceder con especial precaución, debiendo comprobar en particular si puede cruzar el PE de forma segura, sin entrar en el PE si ya se ve o se oye el tren u otro DV que se aproxima, o si se oye su silbato o sirena. Si el PE está protegido únicamente mediante cruces de advertencia complementados con las señales verticales de tráfico P 6 «¡Deténgase, ceda el paso!» y no está trazada en el firme del paso a nivel, antes de la zona de peligro del PE, la señal horizontal de tráfico V 5 «Línea transversal continua», el conductor debe detener el vehículo antes del PE en un lugar desde el que disponga de la visibilidad adecuada sobre la vía.
 Hallazgo:
 
-
 ## Página 21
+
 
 En la investigación se constató infracción de las tareas y obligaciones de otras personas o entidades en relación
 ### causal con la aparición del SU.
@@ -751,6 +755,7 @@ En la investigación no se identificaron factores relacionados con la entidad re
 
 ## Página 22
 
+
 4.2.6 Otros factores o consecuencias que se consideran relevantes a efectos de la investigación
 En la investigación no se detectaron otros factores relacionados con el material rodante, la infraestructura ferroviaria o las instalaciones técnicas.
 ### 4.3 Factores humanos
@@ -776,8 +781,8 @@ En el sistema de aseguramiento de la seguridad adoptado por el gestor de infraes
 y de los talleres de mantenimiento
 El sistema de gestión de las entidades responsables del mantenimiento del material rodante y de los talleres de mantenimiento no guardaba relación con el origen de la MIE.
 
-
 ## Página 23
+
 
 ### 4.4.5 Resultados de la supervisión realizada por las autoridades nacionales de seguridad
 El 9. 9. 2020, la Oficina Municipal de Ivančice recibió de la PČR un documento titulado «Aviso sobre la garantía de BESIP – paso a nivel ferroviario P3949». El contenido del documento fue entregado a la oficina mencionada como indicación de la PČR de conformidad con «§ 1 de la Ley núm. 12/1997 Sb. y, a continuación, las disposiciones § 14 y § 15 de la Ley núm. 273/2008 Sb.»
@@ -806,22 +811,19 @@ En la investigación no se detectaron otros factores sistémicos.
 ### 4.5 Sucesos anteriores de naturaleza similar
 ### La DI registra en el período comprendido entre el 1. 1. 2008 y el origen de la MIE en cuestión un total de 865 casos similares (colisión de un tren con vehículos a motor por carretera en pasos a nivel protegidos únicamente
 
-
 ## Página 24
 
-por cruces de aviso), en los que fallecieron 59 personas, 340 personas resultaron lesionadas y se produjo un daño por un importe de 187 665 153 Kč. La causa del origen de todas estas MIE fue la entrada no autorizada de vehículos a motor por carretera en el paso a nivel en el momento en que un tren se aproximaba al mismo.
-En el paso a nivel P3949, en el período observado, la DI no registra ninguna MIE.
-La DI ha recomendado repetidamente desde el año 2012 al gestor de infraestructura SŽ (anteriormente SŽDC), con el fin de garantizar la máxima seguridad en las vías ferroviarias de categoría nacional y regional, que se eleve el nivel de protección de los pasos a nivel de modo que, en las reconstrucciones y modernizaciones de líneas y pasos a nivel, ya se proyecte e instale únicamente equipo de enclavamiento automático de paso a nivel luminoso complementado con barreras. Al mismo tiempo, mediante estas recomendaciones de seguridad, la DI recomendó a la DÚ que adoptara sus propias medidas encaminadas a garantizar la aplicación de las recomendaciones de seguridad anteriores también en los demás gestores de infraestructura ferroviaria en la República Checa. Desde el 1. 4. 2017, fecha en que entró en vigor la enmienda a la Ley núm. 266/1994 Sb., las recomendaciones de seguridad de carácter similar se destinaron, de conformidad con el § 53e de la Ley núm. 266/1994 Sb., únicamente a la DÚ. El motivo de la emisión de estas recomendaciones fue el hecho de que las colisiones con vehículos por carretera con las consecuencias más graves se producen históricamente en pasos a nivel protegidos por equipo de enclavamiento automático de paso a nivel sin barreras; por el contrario, históricamente, desde el punto de vista de la siniestralidad y de las consecuencias, el tipo de protección de pasos a nivel más favorable es precisamente el equipo de enclavamiento automático de paso a nivel complementado con barreras. SŽ reaccionó a estas recomendaciones, entre otros, indicando que «en caso de sustitución de los PZM y PZS existentes por tecnología moderna, en el proyecto se priorizará la construcción de equipo de enclavamiento automático de paso a nivel con barreras, siempre que no lo impidan obstáculos técnicos u operativos significativos. La instalación de un equipo de enclavamiento automático de paso a nivel concreto respetará en todo caso la decisión vigente de la Oficina Ferroviaria sobre el alcance y el modo de protección del paso a nivel ferroviario.». La DÚ, entre otras, envió como medida la siguiente declaración: «La Oficina Ferroviaria, como autoridad administrativa ferroviaria, recomienda así permanentemente a la Administración de Ferrocarriles, como gestor de infraestructura, incluir en la mayor medida posible en el plan de inversiones la adición de barreras al equipo de enclavamiento automático de paso a nivel luminoso existente. Deberían ser prioritarios los pasos a nivel con un alto tráfico y con sucesos excepcionales recurrentes.».
-La DI sigue apoyando la adición de barreras en los pasos a nivel (de forma prioritaria en aquellos con mayor tráfico y condiciones locales desfavorables), pero en el caso de la emisión de otras recomendaciones de seguridad en MIE concretas, tiene en cuenta las características específicas del paso a nivel en cuestión y emite dichas recomendaciones de seguridad de una forma más concreta. La investigación de la MIE en cuestión, también teniendo en cuenta las medidas iniciadas y adoptadas durante la investigación de la MIE por parte de la PČR, la Oficina Municipal de Ivančice y el gestor de infraestructura, no permitió a la DI detectar en el paso a nivel P3949 ningún otro hecho que fuera motivo para la emisión de una recomendación de seguridad (véase el punto 6 de este II).
+con cruces de aviso), en los que fallecieron 59 personas, 340 personas resultaron heridas y se produjo un daño por importe de 187 665 153 Kč. La causa de la producción de todos estos MU fue la entrada no autorizada de vehículos automotores por carretera en el PFE en el momento en que se aproximaba un tren.
+En el PFE P3949, en el período observado, la DI no registra ningún MU.
+Desde 2012, la DI recomendó repetidamente al operador ferroviario SŽ (anteriormente SŽDC), con el fin de garantizar la máxima seguridad en las vías ferroviarias de categoría nacional y regional, aumentar el nivel de protección del PFE de modo que, en las reconstrucciones y modernizaciones de líneas y PFE, ya se proyectara e instalara únicamente equipamiento de señalización de cruce ferroviario luminoso complementado con barreras. La DI, al mismo tiempo, mediante estas recomendaciones de seguridad, recomendó a la DÚ adoptar sus propias medidas encaminadas a garantizar la realización de las recomendaciones de seguridad anteriores también por parte de los demás operadores ferroviarios en la República Checa. A partir del 1 de abril de 2017, fecha en que entró en vigor la enmienda de la Ley nº 266/1994 Sb., las recomendaciones de seguridad de carácter similar se destinaron, de conformidad con el § 53e de la Ley nº 266/1994 Sb., únicamente a la DÚ. El motivo de la emisión de estas recomendaciones fue el hecho de que las colisiones con vehículos por carretera de consecuencias más graves se producen de forma prolongada en los PFE protegidos por equipamiento de señalización de cruce sin barreras, mientras que, a largo plazo, desde el punto de vista de la siniestralidad y de las consecuencias, el tipo de protección del PFE más favorable es precisamente el equipamiento de señalización de cruce complementado con barreras. SŽ respondió a estas recomendaciones, entre otras formas, de la siguiente manera: «En caso de sustitución de los PZM y PZS existentes por tecnología moderna, en el diseño se priorizará la construcción de equipamiento de señalización de cruce con barreras, salvo que existan obstáculos técnicos o de explotación significativos que lo impidan. La instalación de un equipamiento de señalización de cruce concreto respetará siempre la decisión vigente de la Oficina Ferroviaria sobre el alcance y el modo de protección del cruce ferroviario». La DÚ, entre otras medidas, envió la siguiente declaración: «La Oficina Ferroviaria, como autoridad administrativa ferroviaria, recomienda así permanentemente a la Administración de Infraestructura Ferroviaria, como operadora ferroviaria, incluir en el plan de inversiones, en la mayor medida posible, la dotación de barreras al equipamiento de señalización de cruce luminoso existente. Deberían ser prioritarios los cruces con un elevado tráfico y con incidentes excepcionales recurrentes».
+La DI sigue apoyando la dotación de barreras en los PFE (con prioridad en aquellos con mayor tráfico y condiciones locales desfavorables), sin embargo, en el caso de la emisión de nuevas recomendaciones de seguridad en MU concretos, tiene en cuenta las características específicas del PFE en cuestión y emite dichas recomendaciones de seguridad de forma más concreta. Tras la investigación del MU en cuestión, también teniendo en cuenta las medidas iniciadas y adoptadas durante la investigación del MU por parte de la Policía, de la Oficina Municipal de Ivančice y del operador ferroviario, la DI no detectó en el PFE P3949 ningún otro hecho que fuera motivo para emitir una recomendación de seguridad (véase el punto 6 de la presente ZZ).
 ### 5 CONCLUSIONES
 ### 5.1 Resumen del análisis y conclusiones relativas a las causas del suceso
 La causa inmediata del suceso excepcional fue:
-la entrada no autorizada de un automóvil en el paso a nivel ferroviario P3949 en el
-•
-momento en que un tren Os 11414 se aproximaba al mismo, causada por la actuación de la conductora del automóvil, que ante la orden de la señal de tráfico «¡Deténgase, ceda el paso!» no detuvo el vehículo en un lugar que le permitiera una visión adecuada de la vía, y no se cercioró de si podía cruzar el paso a nivel ferroviario de forma segura.
-
+• la entrada no autorizada de un automóvil en el cruce ferroviario P3949 en el momento en que se aproximaba el tren Os 11414, causada por la conductora del automóvil, que no detuvo el vehículo en un lugar que le permitiera una visión adecuada de la vía en cumplimiento de la señal de tráfico «¡Alto, ceda el paso!», y no comprobó si podía cruzar el cruce ferroviario de forma segura.
 
 ## Página 25
+
 
 La DI no detectó ningún factor contribuyente.
 La DI no detectó ninguna causa sistémica.
@@ -870,8 +872,8 @@ a defect in the coating of the column for vertical traffic markings was removed.
 •
 The railway undertaking ČD did not take any measures.
 
-
 ## Página 26
+
 
 ### 5.3 Hallazgos complementarios
 En el operador ferroviario ČD:
@@ -909,6 +911,7 @@ Oficina Territorial de Brno
 Oficina Territorial de Brno
 
 ## Página 27
+
 
 ### ANEXOS
 Fig. n.º 3: Visión de la conductora del vehículo rodado en la dirección de su circulación y de la circulación del tren

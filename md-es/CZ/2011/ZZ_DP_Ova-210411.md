@@ -10,13 +10,14 @@ chars: 87166
 ratio_longitud: 1.25
 tokens_in: 47332
 tokens_out: 29749
-verificacion: revisar
-notas_cifras: ["bloque 2: original bilingüe: se compara contra el idioma principal (CS)", "bloque 9: original bilingüe: se compara contra el idioma principal (CS)", "bloque 11: original bilingüe: se compara contra el idioma principal (CS)", "bloque 13: original bilingüe: se compara contra el idioma principal (CS)"]
-avisos: ["bloque 13: ratio 1.64"]
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 5: original bilingüe: se compara contra el idioma principal (EN)", "página 6: original bilingüe: se compara contra el idioma principal (PT)", "página 7: original bilingüe: se compara contra el idioma principal (CS)", "página 16: original bilingüe: se compara contra el idioma principal (PT)", "página 23: original bilingüe: se compara contra el idioma principal (PT); cifras cortas: 2/15"]
 ---
+
 ## Página 1
+
 
 Inspección Ferroviaria
 República Checa
@@ -42,11 +43,12 @@ IČ:   75009561
 http://www.dicr.cz
 fax: (+420) 224 805 428
 
-
 ## Página 2
 
 
+
 ## Página 3
+
 
 # RESUMEN
 Grado:
@@ -77,8 +79,8 @@ Recomendaciones: 1) Dirigida a Dopravní podnik Ostrava, a. s. (RU):
 Se recomienda equipar todos los tipos de tranvías con una técnica
 ●
 
-
 ## Página 4
+
 
 que garantice que las puertas comiencen a cerrarse después de 3 segundos de
 advertencia audible y visual
@@ -95,8 +97,8 @@ ferroviarias (de tranvías) pertinentes
 Por la traducción al inglés responde: Ing. Hana Pechačová
 Este informe final es público y todos los documentos y hechos están respaldados por el expediente de investigación.
 
-
 ## Página 5
+
 
 # Índice
  Resumen .............................................................................................................................3
@@ -133,6 +135,7 @@ contractual ....................................................................
 
 ## Página 6
 
+
 3.2 Sistema de garantía de la seguridad ...............................................................................19
 3.2.1 Organización marco y forma en que se emiten y aplican las instrucciones .......19
 3.2.2 Requisitos del personal del gestor de la infraestructura y del transportista y su 
@@ -164,8 +167,8 @@ aplicación ....................................................................
 4.2.1 Evaluación de los hechos establecidos según el punto 3 y formulación de conclusiones sobre la causa del suceso excepcional y la actuación de los servicios de emergencia ..........................................29
 4.3 Conclusiones .......................................................................................................................30
 
-
 ## Página 7
+
 
 4.3.1 Causas inmediatas del suceso excepcional, incluidos los factores que contribuyeron al mismo y que estuvieron relacionados con la actuación de las personas implicadas o con el estado de los vehículos ferroviarios o de las instalaciones técnicas ....................................................................30
 4.3.2 Causas fundamentales relacionadas con la cualificación, los procedimientos y el mantenimiento ............................30
@@ -179,14 +182,15 @@ aplicación ....................................................................
 7 Anexos .............................................................................................................................33
  Fig. 5 Captura documentando el precinto de las puertas del TVL línea n.º 17, servicio 102, tras el MU. . 33
 
-
 ## Página 8
+
 
 ## Lista de siglas y símbolos utilizados
 |  | Lista de siglas y símbolos utilizados |
 | COP DI DPO a s , . . DÚ DV IZS MTV MU PČR PZ PZ UTZ SD TVL ÚI VI VJŘ | Centro de notificación central Drážní inspekce (Inspección Ferroviaria) Dopravní podnik Ostrava a s , . . Drážní úřad (Autoridad Ferroviaria) vehículo ferroviario vehículos ferroviarios , sistema integrado de emergencias motor-tranvía suceso excepcional en el transporte ferroviario Policía de la República Checa Certificado de aptitud del vehículo ferroviario Certificado de aptitud de la instalación técnica designada supervisión estatal en materia de ferrocarriles tranvía ferroviario Órgano de inspección territorial inspector jefe horario de circulación de trenes |
 
 ## Página 9
+
 
 ## 1 RESUMEN
 Clasificación del suceso:
@@ -214,13 +218,13 @@ Recomendaciones de seguridad:
 1. al gestor del transporte ferroviario Dopravní podnik Ostrava, a. s., dotar los vehículos ferroviarios, coches motor y de remolque de tranvía de todos los tipos destinados al transporte de pasajeros, de un dispositivo técnico que garantice el cumplimiento de un mínimo de 3 segundos de duración de la alerta sonora y de la señal óptica (señal «No baje – no suba») antes del cierre de las puertas para finalizar el desembarque y el embarque de pasajeros, de modo que las hojas de las puertas solo se pongan en movimiento una vez transcurrido el tiempo de duración de la alerta sonora y de la señal óptica (señal «No baje – no suba»);
 2. al gestor del transporte ferroviario Dopravní podnik Ostrava, a. s., establecer mediante procedimientos tecnológicos uniformes las normas de garantía de un control de seguridad eficaz y eficiente en la explotación del transporte ferroviario, es decir, la determinación del alcance, la extensión y la frecuencia de los controles realizados, incl. la determinación de la responsabilidad de los empleados y de los directivos por la realización del control y la llevanza continuada de la documentación de todos los controles realizados;
 
-
 ## Página 10
+
 
 3. al Drážní úřad (Oficina Ferroviaria) la adopción de una medida propia, encaminada a garantizar la realización de la recomendación de seguridad anteriormente indicada, contenida en el punto 1 de la recomendación de seguridad, también en otros transportistas en las vías de tranvía de la República Checa.
 
-
 ## Página 11
+
 
 ## 2 DATOS RELATIVOS AL SUCESO FERROVIARIO
 ## 2.1
@@ -232,8 +236,8 @@ El suceso ferroviario se produjo el 21/04/2011 a las 12:24:49 h en la vía de tr
 El 21/04/2011 a las 12:14 h partió el TVL de la línea n.º 17, servicio 102, de la parada Dubina Interspar en dirección a Vřesinská. Tras la llegada y la parada del TVL de la línea n.º 17, servicio 102, en la parada Tylova, el conductor del DV realizó, para permitir el desembarque y el embarque de pasajeros, la maniobra del conmutador «PUERTAS, LIBERACIÓN». Al activar este conmutador, se permite a cada pasajero el control de apertura de las puertas mediante botones, el denominado sistema de apertura de puertas por demanda, situados en el interior del vehículo en las barras de agarre verticales junto a las puertas y en el exterior del DV en la carrocería, y ello en la inmediata proximidad de las puertas controladas. La apertura de las puertas se señalizaba en el salpicadero, en la posición del conductor, mediante el encendido de un testigo rojo. Antes de cerrar las puertas, el conductor del DV activó, mediante la pulsación del conmutador integrado «PUERTAS, AVISO DE CIERRE», la alerta sonora y óptica (señal) «No baje – no suba».
 Al soltar el conmutador integrado «PUERTAS, AVISO DE CIERRE», cerró las puertas
 
-
 ## Página 12
+
 
 y a continuación puso el TVL en marcha. En el momento de la emisión de la alerta sonora y óptica (señal) para finalizar el desembarque y el embarque de pasajeros, del cierre y de la puesta en marcha del TVL, no había finalizado el desembarque de un pasajero (denominado también persona perjudicada) por las puertas delanteras (1.ª puerta en el sentido de circulación del TVL) del DV conducido (2.º DV del conjunto del TVL). La persona perjudicada quedó con su extremidad superior atrapada entre las hojas de las puertas delanteras del DV conducido. Tras la salida, fue arrastrada por el espacio de la parada con la extremidad superior atrapada. Por la dinámica de la salida del TVL, la persona perjudicada cayó entre el borde elevado de andén de la parada y el espacio de los bogies del DV conducido, y fue arrastrada unos 23 m por la extremidad superior. El TVL se detuvo por la acción del freno de emergencia activado mediante el conmutador «Freno de emergencia» por otro pasajero dentro del TVL en cuestión.
 En la posición final tras la producción del suceso ferroviario, el frontal del DV de mando del TVL se encontraba a 38,4 m de la entrada al paso subterráneo de la parada. La persona perjudicada yacía paralela a la vía circulada, entre el carril exterior del par de carriles de la vía circulada y el refugio de mampostería del paso subterráneo de la parada Tylova, a unos 3 m del frontal trasero del DV conducido del TVL.
@@ -241,6 +245,7 @@ Como consecuencia del suceso ferroviario, la persona perjudicada sufrió una les
 ### Fig. 2 Descripción de la circulación del TVL de la línea n.º 17, servicio 102, tras la salida de la parada Tylova (sentido Nová Ves vodárna), incl. la secuencia de acontecimientos.
 
 ## Página 13
+
 
 2.1.3 Decisión de iniciar la investigación de las causas y circunstancias del suceso, composición del equipo de personas cualificadas y método de dirección de la investigación de las causas y circunstancias del suceso
 El suceso (MU) fue notificado al COP DI, por parte del gestor de la infraestructura y del transportista, telefónicamente el 21. 04. 2011 a las 12:36 h, es decir, 11 minutos y 11 segundos después de la ocurrencia del MU, por el despachante de tráfico de DPO, a. s. En la notificación inicial de la ocurrencia del MU, el despachante de tráfico de DPO, a. s., indicó que se había producido una colisión del TVL de la línea n.º 17, servicio 102, con una persona y, por ello, el empleado del COP, sobre la base de los hechos notificados inicialmente, concedió inmediatamente después de la notificación de la ocurrencia del MU el permiso para iniciar los trabajos de limpieza. Posteriormente, a las 12:57 h, el despachante de tráfico de DPO, a. s., precisó telefónicamente al COP una descripción breve y las consecuencias del MU, en la que indicó que se había producido una lesión grave en la salud de un pasajero, ocasionada durante la puesta en marcha del TVL en cuestión. El empleado del COP, sobre la base de la precisión de los hechos notificados, decidió el desplazamiento y el inicio en el lugar de la investigación de las causas y circunstancias de la ocurrencia del MU. La actividad en el lugar del MU fue realizada por la DI con la composición de dos inspectores superiores de la ÚI Ostrava.
@@ -263,8 +268,8 @@ personas que viajaban en el TVL de la línea n.º 17, servicio 102.
 El TVL de la línea n.º 17, servicio 102, estaba compuesto por un conjunto de dos DV MTV tipo T6A5 – CS, n.º de matrícula 1126 y 1122. El DV de mando, es decir, el vehículo desde el que se controlaba la circulación del TVL de la línea n.º 17, servicio 102, era el MTV, n.º de matrícula 1126. El DV controlado, es decir, el vehículo acoplado como segundo vehículo del conjunto del TVL de la línea n.º 17, servicio 102, era el MTV, n.º de matrícula 1122. El conductor del DV del TVL en cuestión observaba la vía y las señales desde la posición del conductor – cabina cerrada del DV de mando, es decir, desde un lugar separado del espacio de transporte.
 Ambos DV participantes son propiedad de DPO, a. s., y figuran en el inventario del centro Doprava tramvaje Poruba. DPO, a. s., tenía en el momento de la ocurrencia del MU en existencia un total de 38 DV MTV tipo T6A5 – CS, fabricados entre 1994 y 1997 por la empresa ČKD TATRA, a. s., y explotados con los números de matrícula 1101 a 1138.
 
-
 ## Página 14
+
 
 El DV tipo T6A5 – CS es un MTV de cuatro ejes, unidireccional y de un solo sentido, destinado a la explotación unidireccional y que puede ser explotado bien de forma independiente o en conjuntos de dos a tres vehículos. Un conjunto compuesto por varios DV es conducido siempre, durante el transporte de pasajeros, desde la posición del conductor del DV de mando (primero) del TVL. Cada DV está equipado con tres puertas plegables de cuatro hojas, que en las superficies de contacto están provistas de ribetes de caucho. Las puertas correctamente ajustadas deben formar, en la posición cerrada, un plano con el lateral, es decir, al cerrar las puertas, estas hojas deben estar en un mismo plano sin desalineación. En la posición abierta, las puertas apoyan sobre el tope de caucho en el lado lateral de los escalones. El mando de las puertas es electromecánico, siendo el conductor quien abre y cierra las puertas mediante los elementos de mando situados en el salpicadero de la cabina del conductor. Mediante el accionamiento del conmutador «PUERTAS, LIBERACIÓN», el conductor puede permitir a los pasajeros individuales el mando de la apertura de las puertas mediante botones, el denominado sistema de apertura de puertas por demanda. La señalización de la posición de las puertas cerradas se deriva de la posición de las hojas de las puertas. El DV está equipado con un bloqueo de las puertas contra la apertura forzada. La puesta en marcha del DV solo es posible con las puertas cerradas.
 ### Fig. 3  Plano de tipo del DV MTV tipo T6A5.
@@ -273,6 +278,7 @@ La infraestructura ferroviaria de tranvía «Dopravní podnik Ostrava a.s.» est
 El tren de rodadura está formado por un par de cantos de raíl S 49, que están fijados sobre las placas base T5 y apoyados sobre traviesas de hormigón armado SB5 en un lecho de balasto.
 
 ## Página 15
+
 
 En la parada Tylova, la superestructura de vía está formada por un par de bandas de carriles de perfil NP 4, unidos por traviesas de ancho y fijados con tornillos directamente (sin placas base) sobre traviesas de madera en un lecho de balasto. La superestructura en la parada está equipada con una cubierta para el tranvía, que entre las bandas de carriles está formada por balasto y entre el borde del andén y la banda de carriles derecha de la vía, por la que circula el TVL línea n.º 17, servicio 102 (en el sentido de circulación de dicho TVL), por paneles prefabricados de hormigón. La superestructura de vía en el tramo entre las paradas Tylova y Dolní está dotada de carriles de ancho estándar de perfil S 49 y no está equipada con cubierta para el tranvía. Tanto en la vía general como en la parada, la vía es continua (las juntas están soldadas en una banda continua).
 La parada Tylova se encuentra en un tramo recto de la vía de tranvía. El andén de la parada forma una isleta de andén, siendo la superficie del andén de asfalto, con bordillos en los lados. La longitud constructiva de la isleta de andén es de 55,8 m (medido desde el poste indicador de la parada), la anchura de 3 m, y el borde de acceso de la isleta se encontraba en el punto de la puerta 1 del DV dirigido del TVL línea n.º 17, servicio 102, a una altura de 18,5 cm sobre la cabeza del carril. Con el fin de impedir el movimiento no autorizado de personas a la altura del espacio de circulación de la vía pública y del cuerpo de la vía de tranvía, la parada está equipada en el lado exterior del andén con una barandilla de acero soldada que separa los carriles de la vía pública adyacente de la vía de tranvía. Para impedir el movimiento no autorizado de personas a la altura de las vías, también se ha instalado entre las vías de la vía de tranvía una barandilla de acero soldada.
@@ -295,26 +301,26 @@ El conductor del DV TVL línea n.º 17, servicio 102, utilizó para comunicar la
 ### 2.2.5 Trabajos realizados en el lugar del suceso excepcional y en sus inmediaciones
 En el lugar del MU, en la vía ni en la vía pública adyacente se realizaron trabajos inmediatamente antes de la aparición del MU.
 
-
 ## Página 16
 
-### 2.2.6 Activación del plan para el caso de suceso excepcional en la vía y secuencia de acontecimientos
-El procedimiento de activación del plan para el caso de aparición del MU está descrito por el operador de la vía y el transportista en los procedimientos tecnológicos contenidos en la norma interna "Directiva – Gestión del tráfico n.º 3 / 2008 – Comunicación de sucesos excepcionales en el transporte a la Inspección Ferroviaria", aprobada el 14. 05. 2008, con efectos desde el 19. 05. 2008.
-La aparición del MU fue comunicada por el conductor del DV TVL línea n.º 17, servicio 102, mediante la radio de vehículo del DV dirigido, n.º de reg. 1126, al despachador de tráfico de DPO, a. s., a las 12:25:57 h. El despachador de tráfico de DPO, a. s., a continuación actuó de conformidad con el cuadro de comunicaciones, que en las condiciones de DPO, a. s., es parte integrante de los procedimientos para garantizar la explotación segura de la vía y del transporte ferroviario.
-Al COP DI el MU fue notificado a las 12:36 h. Al lugar del MU acudieron las personas cualificadas del operador de la vía y del transportista, así como el VI DI. En el lugar del MU estaban presentes también los responsables de las distintas ramas organizativas del operador de la vía y del transportista. Con la participación del VI DI se realizó la inspección comisionada del lugar del MU, incluida la elaboración del acta.
-El tráfico ferroviario fue interrumpido el día 21. 04. 2011 desde las 12:24 h hasta las 12:49 h, es decir, durante 25 minutos.
-### 2.2.7 Activación del plan del sistema integrado de emergencias, policía y servicio de emergencias médicas y secuencia de acontecimientos
-En el lugar del MU actuó la unidad de la PČR de la Jefatura Municipal de Ostrava (Departamento Territorial del Servicio de Policía Criminal e Investigación), la PČR de la Inspección de Tráfico de Ostrava y el Centro Territorial del Servicio de Emergencias de la Región Moravia-Silesia (1 ambulancia).
+### 2.2.6 Activación del plan para el caso de incidente en la vía y secuencia de acontecimientos
+El procedimiento de activación del plan para el caso de aparición de un incidente (MU) está descrito por el gestor de la vía y el transportista en los procedimientos tecnológicos contenidos en la normativa interna «Directiva – Gestión de la circulación n.º 3 / 2008 – Comunicación de incidentes en el transporte a la Inspección Ferroviaria», aprobada el 14. 05. 2008, con entrada en vigor el 19. 05. 2008.
+La aparición del incidente (MU) fue comunicada por el conductor del DV de la línea TVL n.º 17, turno 102, a través de la radio de a bordo del DV de mando, n.º de registro 1126, al despachista de circulación de DPO, a. s., a las 12:25:57 h. El despachista de circulación de DPO, a. s., procedió a continuación de conformidad con el calendario de comunicaciones, que en las condiciones de DPO, a. s., es parte integrante de los procedimientos para garantizar la explotación segura de la vía y del transporte ferroviario.
+En el COP de la DI se comunicó el incidente (MU) a las 12:36 h. Al lugar del incidente acudieron las personas cualificadas del gestor de la vía y del transportista, así como la VI de la DI. En el lugar del incidente estaban presentes también los responsables de los distintos departamentos organizativos del gestor de la vía y del transportista. Con la participación de la VI de la DI se llevó a cabo la inspección conjunta del lugar del incidente, incluida la elaboración del acta.
+El transporte ferroviario fue interrumpido el 21. 04. 2011 desde las 12:24 h hasta las 12:49 h, es decir, durante 25 minutos.
+### 2.2.7 Activación del plan del sistema integrado de emergencia, de la policía y del servicio de emergencias sanitarias y secuencia de acontecimientos
+En el lugar del incidente (MU) actuó la unidad de la PČR de la Jefatura Municipal de Ostrava (Departamento Territorial del Servicio de Policía Judicial e Investigación), de la PČR de la Inspección de Tráfico de Ostrava y del Centro Territorial de Servicios de Emergencia de la región de Moravia-Silesia (1 ambulancia).
 ## 2.3
 ### Fallecimientos, lesiones y daños materiales
-2.3.1 En pasajeros y terceras personas, empleados del operador de la vía y del transportista, incluidas personas en relación contractual
-Un pasajero del TVL línea n.º 17, servicio 102, que bajaba del DV TVL dirigido (2.º DV de la composición TVL), sufrió un daño grave en la salud con resultado de muerte, al quedar su extremidad superior atrapada entre las hojas de las puertas delanteras del DV dirigido y ser arrastrado, tras la salida, por el espacio de la parada Tylova.
-### 2.3.2 En los objetos transportados, equipajes y otros bienes
-En los objetos transportados, equipajes y otros bienes no se produjo ningún daño material.
-### 2.3.3 En los vehículos ferroviarios, componentes de la vía de circulación y en el medio ambiente
-En los equipos del operador de la vía, del transportista ni en el medio ambiente se produjo ningún daño.
+2.3.1 En pasajeros y terceros, empleados del gestor de la vía y del transportista, incluidas personas en relación contractual
+Un pasajero de la línea TVL n.º 17, turno 102, que bajaba del DV de mando de la TVL (2.º DV de la composición de la TVL), sufrió una lesión grave con resultado de muerte, al quedar su extremidad superior atrapada entre las hojas de las puertas delanteras del DV de mando y ser arrastrado posteriormente, tras la salida, por el espacio de la parada Tylova.
+### 2.3.2 En objetos transportados, equipaje y otros bienes
+No se produjo ningún daño material en los objetos transportados, el equipaje ni otros bienes.
+### 2.3.3 En vehículos ferroviarios, componentes de la vía y en el medio ambiente
+No se produjo daño en las instalaciones del gestor de la vía, del transportista ni en el medio ambiente.
 
 ## Página 17
+
 
 ## 2.4
 ### Circunstancias externas
@@ -369,8 +375,8 @@ registró el cierre de las puertas y el hecho de que la puerta 1 atrapó la mano
 ◦
 lesionada, a lo que siguió el grito de la persona lesionada llamando «abran las puertas».
 
-
 ## Página 18
+
 
 La persona lesionada agitaba la mano no atrapada en dirección al conductor del TVL línea n.º 17,
 servicio 102;
@@ -445,6 +451,7 @@ centrales;
 
 ## Página 19
 
+
 en el tranvía de mando TVL viajaban unas 15 a 20 personas, de las que aparentemente todas
 ◦
 utilizaron plazas sentadas;
@@ -471,8 +478,8 @@ En el momento del origen de la mencionada MU, la persona involucrada en la MU qu
 ### 3.2.3 Procedimiento de control interno de seguridad y sus resultados
 El control interno del cumplimiento de las normas de explotación del transporte ferroviario centrado en
 
-
 ## Página 20
+
 
 el servicio de transporte efectivo de los conductores de tranvía lo realiza el transportista de forma aleatoria. El transportista lleva un registro general del número de controles realizados y de las deficiencias detectadas. Los procedimientos del transportista para garantizar el control del cumplimiento de las normas del servicio de transporte efectivo de los conductores de tranvía, es decir, los procedimientos, el enfoque, el alcance y la frecuencia de los controles realizados, incl. la determinación de la responsabilidad por el control de su ejecución, no están establecidos por el transportista. Por este motivo, el transportista, al detectar una deficiencia, solo registra la deficiencia detectada, sin especificar el enfoque completo y el alcance del control. Si no se detecta ninguna deficiencia, solo se registra la realización del control sin ninguna especificación. Por ello, no fue posible, en el marco de la investigación de las causas y circunstancias del origen de la mencionada MU, analizar la idoneidad y eficacia de los controles realizados.
 De la documentación del transportista se desprende que las deficiencias detectadas en el servicio de transporte efectivo de los conductores de tranvía son discutidas y subsanadas por el transportista.
@@ -489,6 +496,7 @@ El propietario, gestor de la infraestructura y transportista en la vía de tranv
 La explotación de la infraestructura se realiza con base en el documento «PERMISO OFICIAL PARA LA EXPLOTACIÓN DE LA INFRAESTRUCTURA», expedido para la explotación de la vía de tranvía en el territorio de la ciudad de Ostrava y de los municipios de Vřesina, Dolní Lhota, Horní Lhota, Kyjovice y Budišovice, por el Magistrado
 
 ## Página 21
+
 
 de la ciudad de Ostrava – autoridad administrativa ferroviaria el 23. 12. 2010, con el n.º de expediente: 
 SMO/344433/10/OD/Pal, con vigencia desde el 01. 01. 2011, por duración indefinida.
@@ -527,8 +535,8 @@ en su versión vigente.
 Los componentes de la infraestructura no guardaban relación causal ni no causal con la ocurrencia del accidente.
 No se detectaron anomalías.
 
-
 ## Página 22
+
 
 ### 3.4.3 Medios de comunicación
 En relación con la ocurrencia del accidente, antes de la misma no se utilizaron medios de comunicación 
@@ -573,20 +581,19 @@ del interruptor en cuestión. Debido a un posible uso indebido, el interruptor d
 
 ## Página 23
 
-### Obr. 4  Ubicación y señalización del interruptor del freno de emergencia en la cubierta del mecanismo de la primera puerta del DV de mando TVL línea n.º 17, servicio 102.
-El 22. 04. 2011 se llevó a cabo en las instalaciones del operador y propietario del DV MTV, en el depósito de Poruba, la "Comprobación comisionada del estado técnico del vehículo ferroviario", DV MTV tipo T6A5 – CS, n.º de registro 1122, con la participación de representantes de DPO, a. s., DI y PČR de la Dirección Municipal de Ostrava (Departamento Territorial del Servicio de Policía Criminal e Investigación), con el siguiente resultado:
-• las huellas encontradas en las alas de la puerta n.º 1, en el lateral derecho de la carrocería y en ambos bogies
+### Obr. 4  Ubicación y señalización del interruptor del freno de emergencia en la cubierta del mecanismo de las primeras puertas del DV TVL de la línea n.º 17, curso 102.
+El 22. 04. 2011 se llevó a cabo en las instalaciones del transportista y propietario del DV MTV, en el depósito de Poruba, la "Comprobación comisionada del estado técnico del vehículo ferroviario", DV MTV tipo T6A5 – CS, n.º de ev. 1122, con la participación de representantes de DPO, a. s., DI y PČR de la Dirección Municipal de Ostrava (Departamento Territorial del Servicio de Policía Criminal e Investigación), con el siguiente resultado:
+• las huellas encontradas en las alas de las puertas 1, en el lateral derecho de la carrocería y en ambos bogies
 demuestran que la persona afectada salía por las puertas delanteras;
-• en la cubierta del mecanismo de la puerta n.º 1 se detectó la lámina de protección del interruptor del freno de emergencia perforada. La causa del daño de la mencionada lámina de protección fue la activación del freno de emergencia por alguno de los pasajeros presentes;
+• en la cubierta del mecanismo de las puertas 1 se detectó la lámina protectora del interruptor del freno de emergencia perforada. La causa del daño de la mencionada lámina protectora fue la activación del freno de emergencia por alguno de los pasajeros presentes;
 • el precinto del conmutador "BLOQUEO DE PUERTAS", situado en la cabina del conductor en el panel trasero, estaba intacto, el conmutador se encontraba en la posición 0;
-• todas las puertas en posición cerrada formaban un plano con el lateral, las bandas de goma de las alas de las puertas se apoyaban mutuamente a lo largo de toda la longitud de las puertas;
-• en la comprobación práctica del estado del bloqueo de la marcha con las puertas abiertas se midieron en la puerta n.º 1 (delantera) los valores siguientes:
-◦ con la inserción de un objeto de 48 mm de ancho (objeto más ancho que la muñeca de un adulto de sexo masculino) a la altura de 74 a 77 cm desde el borde del primer escalón de acceso (lugar donde se encontraron huellas en las bandas de goma tras el atrapamiento de la extremidad superior de la persona afectada), tras cerrar las puertas se produjo en los alrededores del objeto insertado la deformación de las bandas de goma. La holgura entre las alas de las puertas cerradas sin deformación de las bandas de goma
-### era de 1,4 cm. Tras la orden de marcha, el DV se puso en movimiento, no se activó la función de bloqueo de la marcha con las puertas abiertas;
-◦ con la inserción de un objeto de 49 mm de ancho a la altura de 74 a 77 cm desde el borde del primer escalón de acceso, tras cerrar las puertas se produjo en los alrededores del objeto insertado la deformación
-
+• todas las puertas en posición cerrada formaban un plano con el lateral, los perfiles de goma de las alas de las puertas se apoyaban mutuamente a lo largo de toda la longitud de las puertas;
+• en la comprobación práctica del estado del bloqueo de la marcha con las puertas abiertas, en las puertas 1 (delanteras) se midieron los valores indicados a continuación:
+◦ introduciendo un objeto de 48 mm de ancho (objeto más ancho que la muñeca de un adulto de sexo masculino) a la altura de 74 a 77 cm desde el borde del primer escalón de acceso (lugar donde se encontraron huellas en los perfiles de goma tras el atrapamiento del miembro superior de la persona afectada), tras cerrar las puertas se produjo en los alrededores del objeto introducido una deformación de los perfiles de goma. La holgura entre las alas de las puertas cerradas sin deformación de los perfiles de goma era de 1,4 cm. Tras la orden de marcha, el DV se puso en movimiento, no se activó la función de bloqueo de la marcha con las puertas abiertas;
+◦ introduciendo un objeto de 49 mm de ancho a la altura de 74 a 77 cm desde el borde del primer escalón de acceso, tras cerrar las puertas se produjo en los alrededores del objeto introducido una deformación
 
 ## Página 24
+
 
 de las bandas de goma. La holgura entre las alas de las puertas cerradas sin deformación de las bandas de goma
 ### era de 1,8 cm. Tras la orden de marcha, el DV no se puso en movimiento, se activó la función de bloqueo de la marcha con las puertas entreabiertas;
@@ -608,6 +615,7 @@ Tras la llegada y detención del TVL línea n.º 17, servicio 102, en la parada 
 
 ## Página 25
 
+
 persona. En el tiempo transcurrido entre la salida del pasajero, que salió antes de la persona lesionada, y la salida de la persona lesionada, el conductor miró los retrovisores para comprobar que ya nadie estaba saliendo ni subiendo. Concluyó que la salida y la entrada de pasajeros había finalizado y, pulsando el conmutador integrado «PUERTAS, CIERRE AVISO», activó la señal sonora y óptica «No salga – No suba». Dado que el cumplimiento del plazo de 3 segundos en la emisión de la señal sonora y óptica «No salga – No suba», antes del cierre de las puertas, no está garantizado técnicamente de ninguna manera, dependía únicamente del conductor el cumplimiento del tiempo mínimo de emisión de la señal sonora y óptica «No salga – No suba». El cumplimiento del plazo de 3 segundos en la emisión de la señal sonora y óptica «No salga – No suba» no pudo determinarse de forma verificable en el marco de la investigación de las causas y circunstancias del suceso, véase el último párrafo del punto 3.4.4. En el momento en que el conductor liberó el conmutador integrado «PUERTAS, CIERRE AVISO», activando con ello el cierre de las puertas, la persona lesionada se encontraba en el espacio de las puertas delanteras del coche de mando. Dicha persona quedó con su extremidad superior atrapada entre las hojas de las puertas delanteras del coche de mando DV. Debido a la complexión física de la persona lesionada y a la circunstancia de que, tras el cierre de las puertas, se produjo en los alrededores de la extremidad superior atrapada una deformación de los bordes de caucho, cuando el hueco entre las hojas de puerta cerradas sin deformación de los perfiles de caucho era de menos de 2 cm, el apagado de la piloto «PUERTAS, APERTURA» indicó al conductor el cierre de las puertas. La función de bloqueo de la marcha no estaba activa, la comprobación «BLOQUEO DE LA MARCHA» estaba apagada. Posteriormente, el conductor, mediante la mirada a los retrovisores, no se aseguró de la situación a lo largo del TVL, no detectó el atrapamiento de la persona lesionada entre las hojas de las puertas delanteras del coche de mando DV y puso el TVL en movimiento. El TVL se detuvo tras la actuación del freno de emergencia, que activó un pasajero que viajaba en el coche de mando DV, cuya identidad no pudo determinarse durante la investigación de las causas y circunstancias del suceso.
 El transportista, en relación con el art. II.5.7 «Paradas en las paradas», apartado 8, letra e), de la normativa interna D1, en el sentido del § 35, apartado 1, letra a), de la Ley n.º 266/1994 Sb., no garantizó la explotación del transporte ferroviario de acuerdo con las normas de explotación del transporte ferroviario y la licencia vigente, al no comprobar el conductor del TVL de la línea n.º 17, turno 102, mediante la mirada a los retrovisores, la situación a lo largo del TVL al salir de la parada Tylova, y con ello no detectar el atrapamiento de la persona lesionada entre las hojas de las puertas delanteras del coche de mando DV.
 ### 3.5.2 Intercambio de comunicaciones verbales en relación con el suceso, incluidos los registros del dispositivo de registro
@@ -617,8 +625,8 @@ No se detectaron averías.
 ### 3.5.3 Medidas adoptadas para la protección y seguridad del lugar del suceso
 La producción del suceso fue comunicada por teléfono por el despachante de tráfico de DPO, a. s., al DI en el COP, en representación del gestor de la vía y del transportista, quien en la notificación inicial de la producción del suceso indicó que se había producido una colisión del TVL de la línea n.º 17, turno 102, con una persona. El empleado del COP, sobre la base de los hechos notificados inicialmente, concedió inmediatamente tras la notificación de la producción del suceso el permiso para el
 
-
 ## Página 26
+
 
 inicio de las labores de limpieza. Tras transcurrir 21 minutos, el despachante de tráfico de DPO, a. s., precisó por teléfono en el COP una breve descripción y las consecuencias del suceso, en la que indicó que se había producido un daño grave a la salud de un pasajero, ocasionado durante la puesta en marcha del TVL en cuestión. El empleado del COP, sobre la base de la precisión de los hechos notificados, decidió el desplazamiento y el inicio de la investigación de las causas y circunstancias de la producción del suceso en el lugar. Tras la llegada del VI al lugar del suceso, se constató que el DV del TVL de la línea n.º 17, turno 102, ya había sido trasladado por el transportista a las vías de estacionamiento de la c/ Palkovského, situadas a unos 800 m del lugar de la producción del suceso. Para evitar la manipulación no deseada de los distintos elementos del DV del TVL de la línea n.º 17, turno 102, el DI selló en las vías de estacionamiento de la c/ Palkovského todas las puertas de ambos DV. A petición del transportista, y antes del inicio de la maniobra de traslado desde la c/ Palkovského a la cochera Poruba, todos los precintos fueron retirados por los empleados del DI, por motivos tecnológicos (necesidad de ocupar el coche de mando DV con un frenista). Inmediatamente tras la llegada del DV del TVL en cuestión a la cochera Poruba, todas las puertas de ambos DV en cuestión fueron nuevamente selladas por el DI. El DI retiró los sellos el 22. 04. 2011 en el marco de la realización de la inspección comisionada, véase el punto 3.4.4.
 ## 3.6
@@ -642,6 +650,7 @@ espacios de acceso en las distintas puertas del coche de mando DV no permiten al
 
 ## Página 27
 
+
 espacio. El conductor tiene la posibilidad de revisar sin obstrucciones el espacio exterior de acceso, tanto con las puertas abiertas como cerradas. Las proporciones corporales de una persona situada en la inmediata proximidad de las puertas no influyen en su visibilidad;
 el tiempo mínimo necesario para abandonar el espacio de acceso por parte de una persona sin discapacidad física es de aproximadamente 2,75 segundos;
 •
@@ -663,8 +672,8 @@ el 26. 08. 2009, a las 19:35 h, en el operador de vía y de transporte ferroviar
 •
 el 28. 02. 2011, a las 09:11 h, en el operador de vía y de transporte ferroviario Dopravní podnik hl. m. Prahy, a. s., cuando en la parada Vojenská nemocnice (dirección Petřiny), tras el cierre de las puertas DV del MTV, se produjo el atrapamiento de una pasajera y el posterior arrastre de dicha persona por el TVL de la línea n.º 18, servicio 6.
 
-
 ## Página 28
+
 
 ## 4 ANÁLISIS Y CONCLUSIONES
 ## 4.1
@@ -673,6 +682,7 @@ el 28. 02. 2011, a las 09:11 h, en el operador de vía y de transporte ferroviar
 El 21. 04. 2011 a las 12:14 h partió el TVL de la línea n.º 17, servicio 102, de la parada Dubina Interspar en dirección Vřesinská. La circulación se realizó de conformidad con los procedimientos tecnológicos unificados del operador de transporte ferroviario – VJŘ de la línea n.º 17, servicio 102, que fijaban para el conductor del TVL de la línea n.º 17, servicio 102, las horas de salida de las paradas ÚMOb Jih, Hulvácká, Svinov mosty h. z., Poruba vozovna y la hora de llegada a la parada Vřesinská. Las horas de salida de cada parada se muestran en la pantalla del terminal del ordenador de a bordo FPP-U (MYPOL) situado en la cabina del conductor del tranvía. Tras la llegada y detención del TVL de la línea n.º 17, servicio 102, en la parada Tylova a las 12:24:32 h, el conductor del DV realizó, para permitir el acceso y la salida de los pasajeros, la maniobra del conmutador «PUERTAS, LIBERACIÓN». Al accionar este conmutador se permitió a cada pasajero el control de apertura de las puertas mediante los botones del llamado sistema de apertura a demanda, que se encuentran situados en el interior del vehículo en las barras de agarre verticales junto a las puertas y en el exterior del DV sobre la carrocería, en la inmediata proximidad de las puertas controladas. La apertura de las puertas se señalizó en el panel de instrumentos mediante el encendido de la testigo roja. Por la puerta delantera del DV controlado salieron aproximadamente 5 pasajeros, siendo el último de los pasajeros que salían la persona lesionada, que abandonaba el DV con una velocidad acorde a la edad de una persona mayor. En el intervalo entre la salida del pasajero que salía antes de la persona lesionada y la salida de la persona lesionada, el conductor miró a los espejos retrovisores para comprobar que ya nadie salía ni entraba. Consideró que la entrada y salida de pasajeros había finalizado y, mediante la pulsación del conmutador integrado «PUERTAS, CIERRE AVISO», activó la señal acústica y óptiva (señal) «No salgan – no entren». El cumplimiento del plazo de 3 segundos en la emisión de la señal acústica y óptiva (señal) «No salgan – no entren» no pudo constatarse de forma verificable en el marco de la investigación de las causas y circunstancias de la aparición del MU. De conformidad con el art. 34 de la parte IV del anexo 3 de la disposición n.º 173/1995 Sb., el dispositivo de registro del DV no registra la hora de emisión de la señal acústica y óptiva (señal) «No salgan – no entren». En el momento en que el conductor liberó el conmutador integrado «PUERTAS, CIERRE AVISO», con lo que activó el cierre de las puertas, se encontraba en el espacio de la puerta delantera del coche controlado la persona lesionada. Dicha persona quedó con su extremidad superior atrapada entre las hojas de la puerta delantera del DV controlado. Debido a la complexión física de la persona lesionada y a la circunstancia de que, tras el cierre de las puertas, se produjo en los alrededores de la extremidad superior atrapada una deformación de los bordes de caucho, cuando la holgura entre las hojas de la puerta cerradas sin deformación de los perfiles de caucho era inferior a 2 cm, el apagado de la testigo «PUERTAS, APERTURA» indicó al conductor el cierre de las puertas. La función de bloqueo de la marcha no estaba activa, la comprobación «BLOQUEO DE LA MARCHA» estaba apagada. La persona afectada intentó liberar la extremidad superior atrapada mientras gesticulaba en dirección al conductor y gritaba «abran las puertas». El conductor, en contradicción con los procedimientos tecnológicos unificados recogidos en la normativa interna D1, no comprobó mediante la mirada a los espejos retrovisores la situación a lo largo del TVL y no detectó el atrapamiento de la persona lesionada entre las hojas de la puerta delantera del DV controlado. A las 12:24:49 h puso el TVL en movimiento. La persona lesionada permaneció con su extremidad superior atrapada entre las hojas de la puerta delantera del DV controlado y, posteriormente, tras la salida, fue arrastrada por el espacio de la parada Tylova. Ante la situación creada reaccionó el testigo n.º 1, que, dada la rápida sucesión de los hechos y la situación de estrés producida, intentó abrir las puertas activando el botón de apertura de puertas. Las puertas se
 
 ## Página 29
+
 
 no se abrieron, porque el conductor, mediante la operación previa del conmutador integrado «PUERTAS, AVISO DE CIERRE», impidió que los pasajeros abrieran las puertas. Debido a la dinámica de arranque del DV, la persona dañada cayó entre el borde de acceso de la parada y el espacio del bogie del DV dirigido. Tras recorrer una distancia de 26,5 m, a las 12:24:55 h, es decir, 6 segundos después de poner el TVL en movimiento, se activó, mediante el conmutador «Freno de emergencia», situado en la cubierta del mecanismo de puertas de las puertas delanteras (1.ª puerta en el sentido de marcha del TVL) dirigido (2.º DV de la composición del TVL), el freno de emergencia. El conmutador del freno de emergencia fue activado por un pasajero del TVL en cuestión, que se acercó al testigo n.º 1 por detrás. No se logró identificar al pasajero que activó el freno de emergencia durante la investigación de las causas y circunstancias del MU. El TVL se detuvo a las 12:24:58 h tras recorrer una distancia de 16,8 m desde la activación del freno de emergencia.
 Como consecuencia del suceso descrito, la persona dañada sufrió lesiones extensas, consistentes en contusiones en la cabeza y el tórax y en la amputación de una extremidad superior y una extremidad inferior.
@@ -686,8 +696,8 @@ no pusiera en peligro su seguridad, la seguridad y la fluidez del transporte fer
 § 37 apartado 5 de la ley n.º 266/1994 Sb., letra a), atendió a la advertencia sonora y visual (señal) «No salga – No suba» dada por el conductor del TVL, que estaba dirigida a garantizar la seguridad y la fluidez del transporte ferroviario y su seguridad;
 art. VII apartado 2 letra f) de la norma interna del transportista «Condiciones de transporte contractuales de la Empresa de Transporte de Ostrava a.s.», aprobada el 24. 01. 2011, con efectos a partir del 01. 02. 2011 (en adelante, norma interna SPP), atendió a la advertencia sonora y visual (señal) «No salga – No suba» dada por el conductor del TVL, para garantizar la seguridad y la fluidez del transporte ferroviario y su seguridad;
 
-
 ## Página 30
+
 
 art. VII apartado 3 letra c) de la norma interna SPP, no bajó en el momento en que el conductor del TVL emitía la advertencia sonora y visual (señal) «No salga – No suba».
 •
@@ -707,20 +717,20 @@ La causa fundamental del suceso extraordinario fue la no comprobación, por part
 Las causas que se deben al marco normativo y al uso del sistema de garantía de la seguridad no fueron detectadas por la DI, es decir, no fueron acreditadas.
 ## 4.4
 ### Hallazgos complementarios
-### 4.4.1 Deficiencias y omisiones detectadas durante la investigación de las causas y circunstancias del origen del suceso excepcional, que sin embargo no son significativas para las conclusiones sobre las causas
-No fueron detectadas por la DI, durante la investigación de las causas y circunstancias del origen del suceso excepcional, deficiencias u omisiones alguna.
+### 4.4.1 Deficiencias y omisiones detectadas durante la investigación de las causas y circunstancias del origen del suceso ferroviario, que sin embargo no son relevantes para las conclusiones sobre las causas
+No se detectaron deficiencias ni omisiones por parte de la DI durante la investigación de las causas y circunstancias del origen del suceso ferroviario.
 ## 5 MEDIDAS ADOPTADAS
 ## 5.1
-### Lista de medidas que ya se han adoptado o tomado como consecuencia del suceso excepcional
-A la fecha de publicación del Informe sobre los resultados de la investigación de las causas y circunstancias del origen del SE, no se habían adoptado medidas alguna por parte del explotador de la vía ni del transportista.
+### Lista de medidas que ya se han adoptado o tomado como consecuencia del suceso ferroviario
+A la fecha de publicación del Informe sobre los resultados de la investigación de las causas y circunstancias del origen del SF, ni el gestor de la infraestructura ni el transportista habían adoptado medida alguna.
 ## 6 RECOMENDACIONES DE SEGURIDAD
-La Inspección Ferroviaria, como autoridad administrativa competente en la materia según lo dispuesto en el apartado 5 del § 53b de la Ley n.º 266/1994 Sb., sobre la base del resultado de la investigación de las causas y circunstancias del origen del suceso excepcional, recomienda al explotador del transporte ferroviario DPO, a. s.:
-1. dotar al material rodante ferroviario, a los vagones de tranvía motorizados y de remolque de todos los tipos destinados al transporte de pasajeros, de un dispositivo técnico que garantice el cumplimiento de un tiempo mínimo de 3 segundos de duración de la alerta sonora y de la señalización óptica (señal «No baje – no suba») antes del cierre de las puertas para finalizar la bajada y la subida de pasajeros, de manera que las hojas de las puertas solo se pongan en movimiento una vez transcurrido el tiempo de duración de la alerta sonora y de la señalización óptica (señal «No baje – no suba»);
-2. establecer mediante procedimientos tecnológicos uniformes las normas de garantía de un control de seguridad eficaz y eficiente en la explotación del transporte ferroviario, es decir, la determinación del enfoque, el alcance y la frecuencia de los controles realizados, incl. la determinación de la responsabilidad de los empleados y de los directivos por la realización del control y la gestión continua de la documentación de todos los controles realizados.
-De conformidad con lo dispuesto en el anexo n.º 7 del decreto n.º 376/2006 Sb., la Inspección Ferroviaria recomienda a la Autoridad Ferroviaria la adopción de una medida propia, encaminada a garantizar la realización de la recomendación de seguridad anterior
-
+La Inspección Ferroviaria, como autoridad administrativa competente en la materia de conformidad con lo dispuesto en el apartado 5 del § 53b de la Ley n.º 266/1994 Sb., sobre la base del resultado de la investigación de las causas y circunstancias del origen del suceso ferroviario, recomienda al operador del transporte ferroviario DPO, a. s.:
+1. dotar al material rodante ferroviario, a los vagones de tranvía motorizados y de remolque de todos los tipos destinados al transporte de pasajeros, de un dispositivo técnico que garantice el cumplimiento de un tiempo mínimo de 3 segundos de duración de la alerta acústica y de la señalización óptica (señal «No baje – no suba») antes del cierre de las puertas para finalizar la bajada y la subida de pasajeros, de modo que las hojas de las puertas solo se pongan en movimiento una vez transcurrido el tiempo de duración de la alerta acústica y de la señalización óptica (señal «No baje – no suba»);
+2. establecer mediante procedimientos tecnológicos uniformes las normas de garantía de una verificación de la seguridad eficaz y eficiente en la explotación del transporte ferroviario, es decir, la determinación del enfoque, el alcance y la frecuencia de las verificaciones realizadas, incl. la determinación de la responsabilidad de los empleados y de los directivos por la realización de la verificación y la llevanza continuada de la documentación de todas las verificaciones realizadas.
+De conformidad con lo dispuesto en el anexo n.º 7 del decreto n.º 376/2006 Sb., la Inspección Ferroviaria recomienda a la Autoridad Ferroviaria la adopción de una medida propia encaminada a garantizar la realización de lo anteriormente
 
 ## Página 32
+
 
 mente indicada, contenida en el punto 1 de la recomendación de seguridad, también en otros transportistas en las vías de tranvía de la República Checa.
 En Ostrava, a 14 de noviembre de 2011.
@@ -731,8 +741,8 @@ Director
 Inspección Territorial de Ostrava
 Inspección Territorial de Ostrava
 
-
 ## Página 33
+
 
 ## 7 ANEXOS
 ### Fig. 5 Imagen que documenta el precinto de las puertas del tranvía de la línea n.º 17, servicio 102, tras el SE.

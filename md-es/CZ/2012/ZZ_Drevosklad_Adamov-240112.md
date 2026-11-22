@@ -10,13 +10,14 @@ chars: 70795
 ratio_longitud: 1.28
 tokens_in: 33071
 tokens_out: 23563
-verificacion: revisar
-notas_cifras: ["bloque 3: original bilingüe: se compara contra el idioma principal (CS)", "bloque 5: cifras cortas: 6/66"]
-avisos: ["bloque 3: ratio 1.61"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 6: original bilingüe: se compara contra el idioma principal (EN)", "página 7: original bilingüe: se compara contra el idioma principal (CS)", "página 8: original bilingüe: se compara contra el idioma principal (CS)", "página 13: original bilingüe: se compara contra el idioma principal (CS)", "página 15: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 Inspección Ferroviaria
 República Checa
@@ -41,7 +42,10 @@ tel.: 224 805 444
 
 ## Página 2
 
+
+
 ## Página 3
+
 
 # RESUMEN
 Grado:
@@ -66,6 +70,7 @@ Consecuencias:
 
 ## Página 4
 
+
 coste total CZK 3 950,-
 Causa directa:
 entrada del vehículo terrestre (máquina de trabajo - VOLVO) en el circuito de la vía secundaria con el desarrollo posterior de amenaza de la vía secundaria y de la operación en la vía secundaria, amenaza para la salud de los empleados y para la propiedad del gestor de infraestructura de la vía secundaria y de la empresa ferroviaria, amenaza para la salud y la propiedad de las personas que se desplazan ilegalmente en el circuito de la vía secundaria.
@@ -84,9 +89,11 @@ Dirigidas al propietario de la vía secundaria - Mendel University in Brno:
 
 ## Página 5
 
+
 Este informe final es público y todos los documentos y hechos están respaldados por el expediente de investigación.
 
 ## Página 6
+
 
 # Índice
  Resumen .............................................................................................................................3
@@ -116,6 +123,7 @@ Este informe final es público y todos los documentos y hechos están respaldado
 3.1 Resumen de las declaraciones prestadas (sujeto a protección de la identidad de las personas) ................................16
 
 ## Página 7
+
 
 3.1.1 Empleados del gestor de la vía y del transportista, incluidas personas en relación contractual ...............................................................................................................16
 3.1.2 Otras personas .........................................................................................................17
@@ -147,6 +155,7 @@ Este informe final es público y todos los documentos y hechos están respaldado
 
 ## Página 8
 
+
 4.2 Análisis ......................................................................................................................23
 4.2.1 Evaluación de los hechos constatados de acuerdo con el punto 3 y exposición de las conclusiones sobre la causa del suceso excepcional y la actuación de los servicios de emergencia ..........................................23
 4.3 Conclusiones .............................................................................................................26
@@ -161,11 +170,12 @@ Este informe final es público y todos los documentos y hechos están respaldado
 7 Anexos .............................................................................................................................30
  Foto n.º 1: Vista del lugar del SE desde la vía de la vía privada. .........................................................30
 
-
 ## Página 9
 
 
+
 ## Página 10
+
 
 ## Lista de siglas y símbolos utilizados
 COP
@@ -227,8 +237,8 @@ servicio de emergencias sanitarias de la Región de Moravia del Sur
 žst.
 estación ferroviaria
 
-
 ## Página 11
+
 
 ## 1 RESUMEN
 Grupo del suceso:
@@ -259,10 +269,10 @@ en el TDPV, extraer las reglas para la organización segura del tráfico ferrovi
 Completar y modificar el TDPV en el capítulo 3. Organización del tráfico ferroviario de modo que sea unívoco y comprensible;
 2.
 elaborar una información escrita en el sentido de la disposición del § 101 apartado 
-(3) de la Ley n.º 262/2006 Sb., Código del Trabajo, en su versión vigente, 
-
+(3) de la Ley n.º 262/2006 Sb., Código del Trabajo, en su versión vigente,
 
 ## Página 12
+
 
 e incorporar, sobre la base de la evaluación de los riesgos de la explotación del Almacén de Madera Adamov, las reglas correspondientes en el TDPV.
 a la propietaria de la vía privada Universidad Mendel de Brno:
@@ -276,24 +286,23 @@ e incorporar, sobre la base de la evaluación de los riesgos de la explotación 
 Fig. n.º 1: Vistas del lugar del SE. 
 ### 2.1.1 Fecha, hora exacta y lugar del suceso excepcional
 
-
 ## Página 13
 
-## 2 DATOS RELATIVOS AL SUCESO EXCEPCIONAL
+## 2 DATOS RELATIVOS AL SUCESO EXTRAORDINARIO
 ## 2.1
-### Suceso excepcional
-### 2.1.1 Fecha, hora exacta y lugar del suceso excepcional
-El suceso excepcional tuvo lugar el 24. 1. 2012 a las 13:48 h en la vía ferroviaria, vía privada Universidad Mendel de Brno, Almacén de Madera Adamov, en el pk 0,130, antes de la punta de la aguja V2.
-### 2.1.2 Descripción del suceso excepcional y del lugar de la colisión, incluida la actuación del sistema integrado de emergencias y del servicio de emergencias
-El 24. 1. 2012 a las 13:31 h se detuvo en la est. Adamov en la 3.ª vía de estación el tren de mercancías Mn 82320. El jefe de estación de la est. Adamov y el jefe de la ONV se informaron mutuamente sobre la maniobra prevista en la estación. Una vez realizada esta, el jefe de la ONV informó al jefe de estación de la est. Adamov sobre la maniobra prevista desde la vía de estación n.º 3 hacia la vía privada Almacén de Madera Adamov. El jefe de estación, mediante la operación de la instalación de enclavamiento de estación, estableció una ruta de maniobra desde la señal L3 en dirección a la vía privada. Tras encender la señal «Maniobra permitida», se inició la maniobra de empuje de la composición, a cuyo frente, en el estribo del primer vagón empujado, a la derecha en el sentido de la marcha, se encontraba un miembro de la ONV. En el espacio de la vía privada, antes de la punta de la aguja V2, durante la marcha lenta de la composición empujada, se produjo un impacto lateral de una cargadora de madera de marca VOLVO que retrocedía contra el lado derecho del primer vagón empujado. La cargadora impactó en el punto en el que se encontraba en el estribo un miembro de la ONV. Tras el impacto, la composición empujada se detuvo en el pk 0,135, es decir, 5 m después del punto de colisión. Como consecuencia del impacto, se produjo la lesión grave del empleado mencionado y el daño de la cargadora de madera VOLVO. No se dañaron ni los vehículos ferroviarios ni las partes de la vía. El IZS fue activado por el jefe de la ONV desde el lugar del SE. Asimismo, el origen del SE fue notificado por el jefe de estación de la est. Adamov de acuerdo con el horario de notificación.
-
+### Suceso extraordinario
+### 2.1.1 Fecha, hora exacta y lugar del suceso extraordinario
+El suceso extraordinario se produjo el día 24. 1. 2012 a las 13:48 h en la vía ferroviaria, vía privada Mendelova univerzita v Brně, Dřevosklad Adamov, en el km 0,130, antes de la punta de la aguja V2.
+### 2.1.2 Descripción del suceso extraordinario y del lugar del accidente, incluida la actividad del sistema integrado de emergencia y del servicio de rescate
+El día 24. 1. 2012 a las 13:31 h se detuvo en la estación Adamov, en la 3.ª vía de estación, el tren de mercancías Mn 82320. El jefe de estación de Adamov y el jefe de ONV se informaron mutuamente sobre la maniobra de maniobras prevista en la estación. Una vez realizada esta, el jefe de ONV informó al jefe de estación de Adamov de la maniobra de maniobras prevista desde la vía de estación n.º 3 hacia la vía privada Dřevosklad Adamov. El jefe de estación, mediante la manipulación del aparato de enclavamiento de estación, estableció la ruta de maniobras desde la señal L3 hacia la vía privada. Tras encender la señal «Posun dovolen» (Maniobra permitida), comenzó la maniobra de empuje de la composición, en cuyo frente, sobre el estribo del primer vehículo empujado, a la derecha en el sentido de la marcha, se encontraba un miembro de ONV. En el espacio de la vía privada, antes de la punta de la aguja V2, durante la marcha lenta de la composición empujada, se produjo un impacto lateral contra el lado derecho del primer vehículo empujado de un cargador de madera de marca VOLVO que marchaba en reversa. El cargador impactó en el lugar donde se encontraba, sobre el estribo, el miembro de ONV. Tras el impacto, la composición empujada se detuvo en el km 0,135, es decir, 5 m después del lugar de la colisión. Como consecuencia del impacto se produjo la lesión grave del empleado mencionado y el daño al cargador de madera VOLVO. No se dañaron ni los vehículos ferroviarios ni las partes de la vía. El IZS fue activado por el jefe de ONV desde el lugar del suceso extraordinario. Asimismo, el jefe de estación de Adamov comunicó la producción del suceso extraordinario conforme al calendario de comunicaciones.
 
 ## Página 14
 
-Fig. n.º 2: Esquema del lugar del SE. 
 
+Fig. n.º 2: Esquema del lugar del SE.
 
 ## Página 15
+
 
 2.1.3 Decisión de iniciar la investigación de las causas y circunstancias del origen, composición del equipo de personas cualificadas y forma de dirigir la investigación de las causas y circunstancias del origen
 El SE fue notificado en el COP de la DI de Praga el 24. 1. 2012 a las 14:46 h. En vista de las consecuencias del SE, la DI inició la investigación de las causas y circunstancias del origen en el lugar del SE de acuerdo con la disposición del § 53b apartado (1) de la Ley n.º 266/1994 Sb., sobre vías, en su versión vigente (en adelante también Ley n.º 266/1994 Sb.). La investigación posterior del SE fue encomendada a la Inspección Territorial de Brno. 
@@ -336,10 +345,10 @@ CZ-ČDC Eas-u  31 54 5963 064-8;
 •
 CZ-ČDC Eas-u  31 54 5964 270-0.
 •
-La longitud total de la maniobra de empuje era de 86 m, 24 ejes, con un peso total de 190 t. Estaba frenada por un freno automático continuo en el modo P. 
-
+La longitud total de la maniobra de empuje era de 86 m, 24 ejes, con un peso total de 190 t. Estaba frenada por un freno automático continuo en el modo P.
 
 ## Página 16
+
 
 ### 2.2.3 Descripción de las partes de la vía de circulación de la vía, del sistema de enclavamiento (es decir, especialmente del estado de las vías, agujas, aparatos de maniobra, señales y del dispositivo de enclavamiento de tren)
 El estado de las partes de la vía de circulación no guarda relación con las causas y circunstancias del origen del SE correspondiente. El estado de la instalación de enclavamiento en el punto de contacto de las vías se describe en el capítulo 3.4.1.
@@ -361,6 +370,7 @@ En el lugar del SE intervinieron: la unidad de la Jefatura Regional de Policía 
 En el SE se produjo la lesión grave de un miembro de la ONV, empleado del transportista.
 
 ## Página 17
+
 
 ### 2.3.2 Sobre las cosas transportadas, el equipaje y otros bienes
 en la cargadora VOLVO 
@@ -410,8 +420,8 @@ no recibió ninguna objeción por parte del empleador ni del propietario de la
 ◦
 vía privada por realizar marchas hacia la vía privada fuera del horario de servicio regular.
 
-
 ## Página 18
+
 
 miembro de ONV – del Acta con el empleado se desprende, entre otro:
 •
@@ -491,56 +501,32 @@ no tenía ninguna obligación hacia los empleados del propietario de la vía
 ◦
 privada;
 
-
 ## Página 19
 
-ya desde hacía más de un año registraba marchas hacia la vía privada por la tarde.
+ya hacía más de un año que registraba las maniobras en el apartadero durante las horas de la tarde.
 ◦
 ## 3.2
 ### Sistema de garantía de la seguridad
 ### 3.2.1 Organización marco y forma en que se emiten y ejecutan las instrucciones
-La vía privada no está equipada, desde el punto de enlace de contacto de las vías en el km 0,118, con 
-un dispositivo de señalización para la seguridad de la circulación de trenes. En el km 0,140, una aguja 
-manejada manualmente V2 la divide en dos vías de maniobra n.º 1 y 2, que terminan en el km 0,323 y 
-0,179 con un tope. 
-La organización marco y la forma de emisión y ejecución de las instrucciones en la explotación de la 
-vía y del transporte ferroviario están establecidas por la Ley núm. 266/1994 Sb., por los decretos de 
-desarrollo y por las reglas contenidas en las normas internas del gestor de la vía y del transportista, 
-que se refieren a la seguridad de la maniobra en la vía privada sin dispositivo de señalización.
-### 3.2.2 Requisitos para los empleados del gestor de la vía y del transportista y su aplicación
-La aptitud médica de los empleados del gestor de la vía y del transportista se evalúa en el sentido de 
-lo dispuesto en el Decreto núm. 101/1995 Sb., por el que se dicta el Reglamento de aptitud médica y 
-profesional de las personas en la explotación de la vía y del transporte ferroviario, en su redacción 
-vigente. 
-En el momento de la producción del MU, todos los empleados del gestor de la vía – vía privada y del 
-transportista participantes en el MU tenían un informe de aptitud médica vigente.
-Los requisitos de aptitud profesional, incluida la forma de su aplicación, los establece el Decreto 
-núm. 16/2012 Sb., sobre la aptitud profesional de las personas que conducen material rodante y de las 
-personas que realizan revisiones, inspecciones y pruebas de instalaciones técnicas determinadas, y 
-sobre la modificación del Decreto del Ministerio de Transportes núm. 101/1995 Sb., por el que se dicta 
-el Reglamento de aptitud médica y profesional de las personas en la explotación de la vía y del 
-transporte ferroviario, en su redacción vigente. 
-Todos los empleados del gestor de la vía – vía privada y del transportista participantes en el MU eran 
-profesionalmente aptos para el desempeño de la función que ocupaban en el momento de la producción 
-del MU.
+El apartadero no está equipado, desde el punto de enlace de la interconexión de las vías en el pk 0,118, con un dispositivo de señalización para garantizar la circulación de los trenes. En el pk 0,140, mediante una aguja de maniobras V2 accionada manualmente, se divide en dos vías de maniobras n.º 1 y 2, que terminan en el pk 0,323 y 0,179 con un tope.
+La organización marco y la forma de emisión y ejecución de las instrucciones para la explotación de la vía y del transporte ferroviario están establecidas por la ley n.º 266/1994 Sb., por los decretos de desarrollo y por las reglas contenidas en las disposiciones internas del explotante de la vía y del transportista, que se refieren a la garantía de las maniobras en el apartadero sin dispositivo de señalización.
+### 3.2.2 Requisitos para los empleados del explotante de la vía y del transportista y su aplicación
+La aptitud médica de los empleados del explotante de la vía y del transportista se evalúa en el sentido de lo dispuesto en el decreto n.º 101/1995 Sb., por el que se dicta el Reglamento de aptitud médica y profesional de las personas para la explotación de la vía y del transporte ferroviario, en su versión vigente.
+En el momento de producirse la M.U. objeto de estudio, todos los empleados del explotante de la vía – apartadero y del transportista participantes en la M.U. contaban con un dictamen vigente de aptitud médica.
+Los requisitos de aptitud profesional, incluido el modo de su aplicación, los establece el decreto n.º 16/2012 Sb., sobre la aptitud profesional de las personas que conducen vehículos ferroviarios y de las personas que realizan revisiones, inspecciones y ensayos de instalaciones técnicas determinadas, y sobre la modificación del decreto del Ministerio de Transportes n.º 101/1995 Sb., por el que se dicta el Reglamento de aptitud médica y profesional de las personas para la explotación de la vía y del transporte ferroviario, en su versión vigente.
+Todos los empleados del explotante de la vía – apartadero y del transportista participantes en la M.U. eran profesionalmente aptos para el desempeño de la función que ocupaban en el momento de producirse la M.U.
 ### 3.2.3 Procedimiento de control interno de la seguridad y sus resultados
-La actividad de control en el transportista y en el gestor de la vía privada ČD Cargo, a. s., se realiza 
-conforme a: 
-directriz Ors34-B-2009 – «Metodología de la actividad de control del sector de explotación».
+La actividad de control en el transportista y en el explotante del apartadero ČD Cargo, a. s., se realiza de acuerdo con:
+directriz Ors34-B-2009 – «Metodología de la actividad de control de la sección de explotación».
 •
-La actividad de control en el sector de explotación de ČD Cargo, a. s., PJ Brno, está desarrollada 
-conforme a la metodología anteriormente mencionada en un documento interno:
-medida del director de PJ Brno n.º 30/2009, Actividad de control en PJ Brno. 
+La actividad de control en la sección de explotación de ČD Cargo, a. s., PJ Brno, está desarrollada, de acuerdo con la metodología anteriormente citada, en un documento interno:
+medida del director de PJ Brno n.º 30/2009, Actividad de control en PJ Brno.
 •
-La actividad de control en la vía privada Dřevosklad Adamov la realiza el jefe de PP Brno-Maloměřice 
-o el supervisor de explotación de PP Brno-Maloměřice trimestralmente. 
-Los controles internos del año 2011 se realizaron en los plazos establecidos. Sin embargo, ninguno de 
-los controles realizados se llevó a cabo con el enfoque del cumplimiento de las condiciones contractuales 
-sobre la explotación del transporte ferroviario en la vía privada, la organización del transporte 
-ferroviario en la vía privada 
-
+La actividad de control en el apartadero Dřevosklad Adamov la realiza el jefe de PP Brno-Maloměřice o el inspector de explotación de PP Brno-Maloměřice trimestralmente.
+Los controles internos del año 2011 se realizaron en los plazos establecidos. Sin embargo, ninguno de los controles realizados se llevó a cabo con el enfoque de verificar el cumplimiento de las condiciones contractuales para la explotación del transporte ferroviario en el apartadero, la organización del transporte ferroviario en el apartadero
 
 ## Página 20
+
 
 en el horario de servicios regulares de la vía privada y el cumplimiento de las reglas para la organización 
 del transporte ferroviario en el servicio extraordinario, incluida la comprobación de la documentación 
@@ -588,6 +574,7 @@ lugares no accesibles al público, salvo que una norma legal especial disponga l
 
 ## Página 21
 
+
 § 24 apartado (3) de la Ley núm. 266/1994 Sb., de ferrocarriles, en su redacción vigente:
 •
 «El transporte ferroviario no público es el transporte realizado por el transportista para satisfacer necesidades de transporte individuales según las condiciones contractuales»;
@@ -608,8 +595,8 @@ EXPLOTACIÓN DEL ASERRADERO DE ADAMOV, capítulo 5. MEDIDAS ORGANIZATIVAS Y DE S
 La vía privada está asegurada únicamente en el punto de contacto con la red ferroviaria de ámbito estatal (desde el hito formado por contactos aislados de la rama desviada del circuito de vía V13 hasta el punto de contacto formado por un contacto aislado en el pk 0,118), mediante elementos exteriores y la tecnología SZZ de la estación de Adamov.
 Dicho SZZ de tipo AŽD – ETB contaba con el «Certificado de idoneidad de la instalación técnica designada» n.º PZ 7866/96-E.43, expedido por la Autoridad Ferroviaria en Praga el 19. 12. 1996, cuya vigencia fue prorrogada por tiempo indefinido sobre la base del acta n.º de expediente: 009/2009/02-JB, de fecha 5. 3. 2009. El estado del SZZ de la estación de Adamov antes de la producción de la MU no guardaba relación causal con la misma.
 
-
 ## Página 22
+
 
 ### 3.4.2 Componentes de la infraestructura ferroviaria
 Los parámetros constructivos y técnicos de la infraestructura ferroviaria – la vía privada – y la realización de inspecciones y mediciones de los componentes de la infraestructura ferroviaria no son relevantes en relación con las causas de la producción de la MU y, por tanto, no fue necesario verificarlos.
@@ -638,8 +625,8 @@ El jefe de estación de Adamov acordó con el jefe de ONV la entrada en la vía 
 El jefe de ONV, el maquinista y el miembro de ONV adoptaron las medidas organizativas derivadas de las reglas establecidas para la maniobra por empuje. El jefe de ONV y DP–VS PP Brno-Maloměřice no cumplieron los procedimientos establecidos para organizar el transporte ferroviario en caso de maniobra extraordinaria de la vía privada. DP–VS PP Brno-Maloměřice, a su vez, no realizó registro alguno del desarrollo de la dirección del transporte ferroviario durante la entrada de la unidad de maniobra en la vía privada fuera del horario establecido de maniobra ordinaria de la vía privada, ya que no fue informado al respecto.
 Se detectaron deficiencias en la actuación de los empleados de ČD Cargo, a. s.
 
-
 ## Página 23
+
 
 ### 3.5.2 Intercambio de comunicaciones verbales en relación con el suceso excepcional, incluidos los documentos del dispositivo de registro
 La comunicación verbal establecida en el TDPV para el caso de maniobra extraordinaria de la vía privada no se produjo. Los extractos de las llamadas telefónicas de las líneas telefónicas fijas y de los teléfonos móviles corporativos de los empleados del gestor de la vía privada y del transportista confirmaron dicho hecho.
@@ -664,24 +651,25 @@ Todos los empleados participantes estaban, en el momento de la producción de la
 3.6.3 Disposición del equipamiento del puesto de control o del vehículo que influye en su manejo y uso
 La disposición del equipamiento del puesto de control y del vehículo no guardó relación con la producción de la MU.
 
-
 ## Página 24
 
 ## 3.7
-### Sucesos excepcionales anteriores de carácter similar
-No consta en DI ningún suceso excepcional similar.
+### Incidentes anteriores de carácter similar
+No consta que el DI haya registrado incidentes similares.
 ## 4 ANÁLISIS Y CONCLUSIONES
 ## 4.1
-### Descripción final del suceso excepcional
-### 4.1.1 Descripción final del suceso excepcional sobre la base de los hechos constatados en el punto 3
-El 24. 1. 2012 a las 13:31 h se detuvo en la estación de Adamov, en la vía de estación n.º 3, el tren de mercancías Mn 82320. El jefe de estación de Adamov y el jefe de ONV se informaron mutuamente sobre la maniobra prevista en la estación. Una vez realizada esta, el jefe de ONV informó al jefe de estación de Adamov sobre la maniobra prevista desde la vía de estación n.º 3 hacia la vía privada del Aserradero de Adamov. El jefe de estación, mediante la maniobra del dispositivo de enclavamiento de estación, estableció la ruta de maniobra desde la señal L3 en dirección a la vía privada. Tras la indicación de «Maniobra permitida», se inició la maniobra de la composición empujada, a cuyo frente iba, sobre el estribo del primer vagón empujado, a la derecha en el sentido de la marcha, el miembro de ONV. En el espacio de la vía privada, antes de la punta de la aguja V2, se produjo, durante la marcha lenta de la composición empujada, un impacto lateral del retroexcavador de madera de marca VOLVO que maniobraba hacia atrás contra el lado derecho del primer vagón empujado. El retroexcavador impactó en el lugar donde se encontraba, sobre el estribo, el miembro de ONV. Tras el impacto, la composición empujada se detuvo en el pk 0,135, es decir, 5 m después del lugar de la colisión. Como consecuencia del impacto se produjo la lesión grave del empleado mencionado y daños en el retroexcavador de madera VOLVO. No se dañaron ni los vehículos ferroviarios ni los componentes de la infraestructura ferroviaria. El IZS fue activado por el jefe de ONV desde el lugar de la MU. Asimismo, la producción de la MU fue comunicada por el jefe de estación de Adamov según el calendario de notificaciones.
+### Descripción final del incidente
+### 4.1.1 Descripción final del incidente basada en los hechos constatados 
+en el punto 3
+El 24 de enero de 2012 a las 13:31 h, el tren de mercancías Mn 82320 se detuvo en la estación de Adamov, en la vía de estación n.º 3. El jefe de estación de Adamov y el jefe de ONV se informaron mutuamente sobre la maniobra prevista en la estación. Una vez realizada esta, el jefe de ONV informó al jefe de estación de Adamov de la maniobra prevista desde la vía de estación n.º 3 hasta el ramal Dřevosklad Adamov. El jefe de estación, mediante la operación del aparato de enclavamiento de la estación, estableció la ruta de maniobra desde la señal L3 en dirección al ramal. Tras encender la señal «Posun dovolen» (maniobra permitida), comenzó la maniobra de la composición empujada, en cuyo extremo se situaba, sobre el estribo del primer vagón empujado, a la derecha en el sentido de la marcha, un miembro de ONV. En el espacio del ramal, antes de la punta de la aguja V2, durante la marcha lenta de la composición empujada, se produjo un impacto lateral contra el lado derecho del primer vagón empujado por un cargador retrógrado de madera de la marca VOLVO. El cargador impactó en el lugar donde se encontraba, sobre el estribo, el miembro de ONV. Tras el impacto, la composición empujada se detuvo en el pk 0,135, es decir, 5 m después del lugar de la colisión. Como consecuencia del impacto, el empleado mencionado sufrió lesiones graves y el cargador de madera VOLVO resultó dañado. No se produjeron daños en los vehículos ferroviarios ni en las partes de la vía. El IZS fue activado por el jefe de ONV desde el lugar del incidente. Asimismo, el jefe de estación de Adamov comunicó la ocurrencia del incidente según el calendario de comunicaciones.
 ## 4.2
 ### Análisis
-### 4.2.1 Evaluación de los hechos constatados según el punto 3 y exposición de las conclusiones sobre la causa del suceso excepcional y la actuación de los servicios de emergencia
-En el análisis del suceso se recogen los hechos constatados mediante la comparación mutua de las disposiciones de la legislación vigente, de las normas internas y locales del gestor de la vía privada, del transportista, de la documentación del titular de la vía privada, de los acuerdos contractuales, de los registros de los dispositivos de telecomunicaciones y de las explicaciones prestadas por los empleados y testigos del suceso excepcional.
-El titular de la vía privada, en su norma local «REGLAMENTO LOCAL DE EXPLOTACIÓN, REGLAMENTO DE EXPLOTACIÓN DEL ASERRADERO DE ADAMOV» (en adelante también norma local), en el capítulo 5. «MEDIDAS ORGANIZATIVAS Y DE SEGURIDAD PARA LA EXPLOTACIÓN SEGURA DEL ASERRADERO», art. 5.2. «Vía privada con carril», estableció siete puntos que, además de garantizar la seguridad en el trabajo de los empleados del titular de la vía privada, contribuyen con sus disposiciones a la explotación segura de la vía privada y del transporte ferroviario en la vía privada. Asimismo, la DI constató que el contrato de explotación de la vía privada, celebrado entre el gestor de la vía privada y el titular de la vía privada, establece, entre otras, la obligación
+### 4.2.1 Evaluación de los hechos constatados según el punto 3 y exposición de las conclusiones sobre la causa del incidente y la actuación de los servicios de rescate
+En el análisis del suceso del accidente se recogen los hechos constatados mediante la comparación mutua de las disposiciones de la legislación vigente, de las normas internas y locales del operador del ramal, del transportista, de la documentación del propietario del ramal, de los acuerdos contractuales, de los registros de los equipos de telecomunicaciones y de las explicaciones prestadas por los empleados y testigos del incidente.
+El propietario del ramal, en su norma local «NORMA LOCAL DE EXPLOTACIÓN, REGLAMENTO DE EXPLOTACIÓN DEL ALMACÉN DE MADERA ADAMOV» (en adelante también norma local), en el capítulo 5 «MEDIDAS ORGANIZATIVAS Y DE SEGURIDAD PARA LA EXPLOTACIÓN SEGURA DEL ALMACÉN DE MADERA», artículo 5.2 «Vía de ramal», estableció siete puntos que, además de garantizar la seguridad laboral de los empleados del propietario del ramal, contribuyen con sus disposiciones a la explotación segura del ramal y del transporte ferroviario en el ramal. Asimismo, el DI constató que el contrato de explotación del ramal, celebrado entre el operador del ramal y el propietario del ramal, establece, entre otras, la obligación
 
 ## Página 25
+
 
 a ambas partes elaborasen una información escrita sobre los riesgos y las medidas adoptadas para protegerse de sus efectos, en el sentido de lo dispuesto en el apartado (3) de la sección 101 de la Ley núm. 262/2006 Sb., Código del Trabajo, en su redacción vigente, siendo así que ninguno de los documentos de las partes contiene dicha información, es decir, esta obligación no fue cumplida por ninguna de las dos partes. El propietario de la vía privada y el explotador de la vía privada no disponían, por tanto, al elaborar las normas locales e internas, de información importante no solo para garantizar la seguridad y la protección de la salud en el trabajo, sino también para aumentar aún más el nivel de garantía de seguridad en la explotación de la vía privada y del transporte ferroviario en la vía privada.
 El 24 de enero de 2012 a las 13:31 h, tras la detención del tren Mn 82 320 en la estación de Adamov en la vía 3 de la estación, el jefe de estación de la estación de Adamov y el jefe de ONV se informaron mutuamente sobre el movimiento de maniobras previsto en la estación. Una vez realizado este, el jefe de ONV informó al jefe de estación de la estación de Adamov sobre el movimiento de maniobras previsto desde la vía 3 de la estación hacia la vía privada. El transportista y el propietario de la vía privada acordaron, en el documento «Horario de servicios regulares de la vía privada», de fecha 7 de diciembre de 2011, el período de realización de los servicios regulares de la vía privada; dicho período se estableció de lunes a viernes en horario de 23:00 a 00:00 h. El movimiento de maniobras previsto no era, por tanto, un servicio regular de la vía privada, y por ello la DI se centró en el análisis de las reglas establecidas para el servicio extraordinario de la vía privada y su cumplimiento.
@@ -689,8 +677,8 @@ El propietario de la vía privada estableció en su norma local, en el capítulo
 Para la concertación de los servicios extraordinarios de la vía privada, el transportista encomendó a un empleado con la función de Despachador de Material de la ÚDIV Brno-Maloměřice. De la explicación presentada por el despachador de material de servicio en el momento de producirse el MU, de la comprobación de la lista de llamadas telefónicas del teléfono fijo y del teléfono móvil profesional de fecha 24 de enero de 2012 y de los documentos presentados, se desprende que el servicio extraordinario de la vía privada no fue concertado por el transportista a través del empleado encomendado. Tampoco se desprende de ningún otro documento que se hubiera concertado dicho servicio extraordinario. Es evidente, por tanto, que ni el transportista ni el propietario de la vía privada concertaron un servicio extraordinario de la vía privada por razón de la satisfacción de necesidades de transporte individuales conforme a las condiciones contractuales.
 A continuación, la DI investigó bajo qué condiciones y conforme a qué reglas se realizó el empuje de la composición hacia la vía privada. De las explicaciones presentadas a la DI se desprende que el jefe de ONV del Mn 82320 comunicó al jefe de estación de la estación de Adamov que iba a realizar maniobras desde la vía 3 de la estación hacia la vía privada. El jefe de estación, al establecer la ruta de maniobras mediante JOP desde la vía 3 de la estación hacia la vía privada, aseguró en su ámbito de responsabilidad la circulación de los vehículos ferroviarios en la intersección de vías. El MU se produjo en el ámbito de la vía privada, fuera de los ámbitos de intersección de vías, donde la persona responsable del modo de aseguramiento y de la concertación de la circulación de los vehículos ferroviarios es el jefe de ONV. El jefe de estación de la estación de Adamov no tenía ninguna otra obligación ordenada por normas legales y normas internas en relación con la organización del transporte ferroviario en la vía privada. Según el TDPV, capítulo 2. «Explotación de la vía», el jefe de ONV está obligado a «solicitar autorización a DP-VS PP Brno Maloměřice antes de iniciar el movimiento de maniobras». De las explicaciones presentadas, de las listas de llamadas telefónicas y de los documentos presentados se desprende que no se solicitó autorización para el movimiento de maniobras y no se emitió el consentimiento. Asimismo, de las explicaciones presentadas y de las listas de llamadas telefónicas se desprende que no hubo comunicación entre DP-VS PP Brno-Maloměřice y el jefe de la Maderera de Adamov, quien debería haber dado, por parte del propietario de la vía privada, el consentimiento para el servicio extraordinario. Sin la concertación previa del servicio extraordinario, en contradicción con las reglas establecidas
 
-
 ## Página 26
+
 
 para la organización del transporte ferroviario en el período de servicio extraordinario, inició, tras la aparición de la señal «Maniobras permitidas» en la señal L3, el empuje de la composición hacia la vía privada.
 En el ámbito de la vía privada, antes de la punta de la aguja V2, se produjo, durante la marcha lenta de la composición empujada, un impacto lateral contra el lado derecho del primer vehículo empujado por un cargador retrocediendo de madera de la marca VOLVO. El cargador impactó en el lugar donde se encontraba en el estribo un miembro de ONV. Como consecuencia del impacto se produjo una lesión grave en el empleado mencionado y daños en el cargador. El cargador VOLVO no está registrado como vehículo a motor, se trata de una máquina de trabajo o de un medio de mecanización. No es posible, por tanto, exigir para la marcha atrás el cumplimiento de las reglas aplicables a la circulación de vehículos a motor en las vías públicas. El propietario de la vía privada, sin embargo, estableció en su norma local las condiciones para garantizar una marcha atrás segura. El trabajador que realizaba la marcha atrás con el cargador VOLVO se encontraba en período de formación en el momento de producirse el MU. Las condiciones de trabajo en período de formación y su cumplimiento quedan fuera de las competencias de la investigación de la DI. El propietario de la vía privada prohibió en su norma local, capítulo 5. «MEDIDAS ORGANIZATIVAS Y DE SEGURIDAD PARA LA EXPLOTACIÓN SEGURA DE LA MADERERA», artículo 5.2. «Vía privada ferroviaria», el acceso de sus empleados al espacio de la vía privada y la manipulación de instalaciones ferroviarias. Dicha prohibición es una limitación por razón de actividades peligrosas (peligro para la salud de los empleados y para la propiedad del propietario de la vía privada por la circulación de vehículos ferroviarios) en dicho espacio, y dicho peligro amenaza también en el acceso a dicho espacio.
@@ -705,32 +693,30 @@ contraria a la regla que establece que el transporte ferroviario no público en 
 ### transportista y del explotador de la vía privada que en el momento de producirse el MU. De las explicaciones presentadas a la DI se desprende que se trata de una práctica de más larga duración en la explotación de la vía privada. La DI investigó también cómo reaccionó el propietario de la vía privada ante este hecho. En la explicación presentada, el jefe de la Maderera
 ### de Adamov indicó que advertía a los empleados del transportista del hecho de que accedían a la vía privada en un horario no acordado para el servicio regular. Sin embargo, no impidió dichas circulaciones a pesar del hecho de que en su norma local describió las actuaciones que era necesario realizar en el servicio extraordinario de la vía privada desde el punto de vista de la explotación de la Maderera de
 
-
 ## Página 27
 
-### Adamov y estableció el procedimiento para prevenir la posible coincidencia peligrosa de actividades de dos sujetos en un mismo puesto de trabajo.
+### Adamov estableció el procedimiento para prevenir la posible peligrosa coincidencia de actividades de dos sujetos en un mismo puesto de trabajo.
 ## 4.3
 ### Conclusiones
 4.3.1 Causas inmediatas del suceso excepcional, incluidos los factores que contribuyeron al mismo y que estuvieron relacionados con la actuación de las personas implicadas o con el estado de los vehículos ferroviarios o de las instalaciones técnicas
 La causa inmediata del suceso excepcional fue:
-la entrada del cargador de la marca VOLVO en el ámbito de la vía – vía privada, con la que se produjo
+la entrada de una cargadora de la marca VOLVO en el perímetro de la vía – vía privada, con lo que se produjo
 •
-un peligro para la vía privada y el transporte ferroviario en la vía privada, un peligro para la salud de los empleados y la propiedad del explotador de la vía privada y del transportista, y un peligro para la salud y la propiedad de las personas que se desplazaban indebidamente en el ámbito de la vía privada.
-Se trata de una infracción del artículo 5.2. «Vía privada ferroviaria», capítulo 5. «MEDIDAS ORGANIZATIVAS Y DE SEGURIDAD PARA LA EXPLOTACIÓN SEGURA DE LA MADERERA», NORMA LOCAL DE EXPLOTACIÓN, REGLAMENTO DE EXPLOTACIÓN DE LA MADERERA DE ADAMOV, en relación con la disposición de la sección 4a apartado (1) de la Ley núm. 266/1994 Sb., de las vías férreas, en su redacción vigente.
+la puesta en peligro de la vía privada y del tráfico ferroviario en la vía privada, la puesta en peligro de la salud de los empleados y de la propiedad del explotador de la vía privada y del transportista, y la puesta en peligro de la salud y de la propiedad de personas que se desplazaban indebidamente en el perímetro de la vía privada.
+Se trata de una infracción del art. 5.2. «Vía privada», capítulo 5. «MEDIDAS ORGANIZATIVAS Y DE SEGURIDAD PARA LA EXPLOTACIÓN SEGURA DEL DEPÓSITO DE MADERA», REGLAMENTO LOCAL DE EXPLOTACIÓN, ORDENANZA DE EXPLOTACIÓN DEL DEPÓSITO DE MADERA ADAMOV, en relación con la disposición § 4a apartado (1) de la Ley núm. 266/1994 Sb., de vías férreas, en su versión vigente.
 ### 4.3.2 Causas fundamentales relacionadas con la cualificación, los procedimientos y el mantenimiento
 La causa fundamental del suceso excepcional fue:
-la explotación del transporte ferroviario en la vía privada por parte del transportista fuera del horario acordado
+la explotación del tráfico ferroviario en la vía privada por parte del transportista fuera del horario acordado en las condiciones contractuales para satisfacer las necesidades de transporte individuales del propietario de la vía privada, sin cumplir las reglas para la explotación excepcional de la vía privada.
 •
-mediante las condiciones contractuales para satisfacer las necesidades de transporte individuales del propietario de la vía privada, sin cumplir las reglas para el servicio extraordinario de la vía privada.
-Se trata del incumplimiento de las reglas indicadas en el documento «Horario de servicios regulares de la vía privada», de fecha 7 de diciembre de 2011, artículo 2.1.2. apartado (e) y artículo 4.1. segundo punto del TDPV, en relación con la disposición de la sección 24 apartado (3) y de la sección 35 apartado (1) letra g) de la Ley núm. 266/1994 Sb., de las vías férreas, en su redacción vigente.
-Un factor que contribuyó a la producción del MU fue:
-la no resolución a largo plazo, por parte del propietario de la vía privada, de la explotación del transporte ferroviario en la vía privada
+Se trata del incumplimiento de las reglas establecidas en el documento «Horario de explotaciones regulares de la vía privada», de fecha 7. 12. 2011, art. 2.1.2. apartado (e) y art. 4.1. segundo guion TDPV, en relación con la disposición § 24 apartado (3) y § 35 apartado (1) letra g) de la Ley núm. 266/1994 Sb., de vías férreas, en su versión vigente.
+Un factor contribuyente a la producción del SE fue:
+la explotación del tráfico ferroviario en la vía privada por parte del transportista fuera del horario acordado en las condiciones contractuales para satisfacer las necesidades de transporte individuales en el documento «Horario de explotaciones regulares de la vía privada», de fecha 7. 12. 2011, y en contradicción con las reglas establecidas en el art. 5.2. «Vía privada», capítulo 5. «MEDIDAS ORGANIZATIVAS Y DE SEGURIDAD PARA LA EXPLOTACIÓN SEGURA DEL DEPÓSITO DE MADERA», REGLAMENTO LOCAL DE EXPLOTACIÓN, ORDENANZA DE EXPLOTACIÓN DEL DEPÓSITO DE MADERA ADAMOV, no resuelta a largo plazo por el propietario de la vía privada.
 •
-por parte del transportista fuera del horario acordado mediante las condiciones contractuales para satisfacer las necesidades de transporte individuales en el documento «Horario de servicios regulares de la vía privada», de fecha 7 de diciembre de 2011, y en contradicción con las reglas indicadas en el artículo 5.2. «Vía privada ferroviaria», capítulo 5. «MEDIDAS ORGANIZATIVAS Y DE SEGURIDAD PARA LA EXPLOTACIÓN SEGURA DE LA MADERERA», NORMA LOCAL DE EXPLOTACIÓN, REGLAMENTO DE EXPLOTACIÓN DE LA MADERERA DE ADAMOV.
-### 4.3.3 Causas que se derivan del marco normativo y del uso del sistema de garantía de la seguridad
-No fueron detectadas por la DI causas que se derivasen del marco normativo.
+### 4.3.3 Causas derivadas del marco normativo y del uso del sistema de garantía de la seguridad
+No se han detectado por la DI causas derivadas del marco normativo.
 
 ## Página 28
+
 
 ## 4.4
 ### Hallazgos complementarios
@@ -740,43 +726,37 @@ Los controles en la vía privada, por tanto, no revelaron, según los hechos exp
 Además, se detectó una ubicación incorrecta de las obligaciones en el TDPV para la organización del transporte ferroviario. En el capítulo "Servicio de la vía" se encuentra erróneamente una obligación importante establecida para el jefe de ONV relativa a la autorización para el inicio de la maniobra en la vía privada desde DP-VS Brno Maloměřice. En el capítulo "Organización del tráfico de transporte" se encuentra erróneamente la regla sobre el consentimiento con el servicio ordinario y las condiciones para el consentimiento con el servicio extraordinario. Además, el desarrollo de las condiciones para la concesión del consentimiento con el servicio extraordinario no tiene una secuencia lógica. Falta la descripción de la comunicación entre el transportista y el propietario para la solicitud mutua de servicio extraordinario de la vía privada y la conexión de esta comunicación de carácter transporte a las instrucciones para la organización segura del transporte ferroviario durante el servicio extraordinario de la vía privada. Asimismo, el TDPV no aborda las reglas para la organización de la entrada segura de los vehículos ferroviarios de la organización de servicio que realiza la supervisión especializada en la vía privada. Debido a la ubicación incorrecta en los capítulos del TDPV y a la no separación de las instrucciones relativas a la comunicación de carácter transporte de las reglas relativas a la organización segura del transporte ferroviario, no se garantiza la correcta familiarización y utilización del TDPV por parte de los empleados del transportista y del operador de la vía privada.
 Ante el incumplimiento de la obligación establecida en el contrato de explotación de la vía privada, celebrado entre el operador de la vía y el propietario de la vía privada, que establece, entre otras, la obligación de ambas partes de elaborar una información escrita en el sentido de lo dispuesto en el § 101 apart. (3) de la ley n.º 262/2006 Sb., Código del Trabajo, en su versión vigente, debido a los riesgos mutuamente no transmitidos que surgen en un mismo puesto de trabajo, no puede constatarse que el TDPV y la NORMA LOCAL DE EXPLOTACIÓN REGLAMENTO DE EXPLOTACIÓN DEL ALMACÉN MADERERO DE ADAMOV contengan todas las reglas de seguridad importantes para la organización del transporte ferroviario durante el servicio de la vía privada y todas las condiciones importantes para garantizar la seguridad y la protección de la salud en el trabajo.
 
-
 ## Página 29
+
 
 ## 5 MEDIDAS ADOPTADAS
 ## 5.1
 ### Lista de medidas que ya se han tomado o adoptado como consecuencia del suceso extraordinario
           El operador de la vía y el transportista no han adoptado ninguna medida con respecto al SU.
 
-
 ## Página 30
 
 ## 6 RECOMENDACIONES DE SEGURIDAD
-La Inspección Ferroviaria, como autoridad administrativa competente en la materia según lo dispuesto en el § 53b apart. 5 de la ley n.º 266/1994 Sb., de ferrocarriles, en su versión vigente, sobre la base del resultado de la investigación de las causas y circunstancias del origen del suceso extraordinario, recomienda al operador de la vía privada y al transportista ČD Cargo, a. s.:
-extraer del TDPV las reglas para la organización segura del transporte ferroviario
-•
-de los capítulos relativos al tráfico de transporte y al servicio de la vía e
-ubicarlas en el capítulo 3. Organización del transporte ferroviario. Completar y
-modificar el TDPV en el capítulo 3. Organización del transporte ferroviario de
-modo que sea inequívoco y comprensible.
-elaborar una información escrita en el sentido de lo dispuesto en el § 101
-•
-apart. (3) de la ley n.º 262/2006 Sb., Código del Trabajo, en su versión
-vigente, e incorporar, sobre la base de la evaluación de los riesgos de la
-explotación del Almacén Maderero de Adamov, las reglas correspondientes
-en el TDPV.
-La Inspección Ferroviaria, como autoridad administrativa competente en la materia según lo dispuesto en el § 53b apart. 5 de la ley n.º 266/1994 Sb., de ferrocarriles, en su versión vigente, sobre la base del resultado de la investigación de las causas y circunstancias del origen del suceso extraordinario, recomienda al propietario de la vía privada Universidad Mendel de Brno:
-elaborar una información escrita en el sentido de lo dispuesto en el § 101
-•
-apart. (3) de la ley n.º 262/2006 Sb., Código del Trabajo, en su versión
-vigente, e incorporar, sobre la base de la evaluación de los riesgos de la
-explotación de la vía y de la explotación del transporte ferroviario por la
-empresa ČD Cargo, a. s., las reglas correspondientes en su propia norma
-local.
+La Inspección Ferroviaria, como autoridad administrativa competente en la materia según lo dispuesto en el apartado 5 del § 53b de la Ley núm. 266/1994 Sb., sobre ferrocarriles, en su versión vigente, sobre la base del resultado de la investigación de las causas y circunstancias de la ocurrencia del suceso excepcional, recomienda al operador de la vía privada y al transportista ČD Cargo, a. s.:
+• excluir del TDPV las normas relativas a la organización segura del transporte ferroviario
+  de los capítulos relativos al tráfico de transporte y a la explotación de la vía e incluirlas
+  en el capítulo 3. Organización del transporte ferroviario. Completar y modificar el TDPV
+  en el capítulo 3. Organización del transporte ferroviario de manera que sea inequívoco
+  y comprensible.
+• elaborar una información escrita en el sentido del apartado (3) del § 101
+  de la Ley núm. 262/2006 Sb., Código del Trabajo, en su versión vigente,
+  e incorporar, sobre la base de la evaluación de los riesgos de la explotación del
+  Dřevosklad Adamov, las normas correspondientes en el TDPV.
+La Inspección Ferroviaria, como autoridad administrativa competente en la materia según lo dispuesto en el apartado 5 del § 53b de la Ley núm. 266/1994 Sb., sobre ferrocarriles, en su versión vigente, sobre la base del resultado de la investigación de las causas y circunstancias de la ocurrencia del suceso excepcional, recomienda al propietario de la vía privada Mendelova univerzita v Brně:
+• elaborar una información escrita en el sentido del apartado (3) del § 101
+  de la Ley núm. 262/2006 Sb., Código del Trabajo, en su versión vigente,
+  e incorporar, sobre la base de la evaluación de los riesgos de la explotación
+  de la vía y de la explotación del transporte ferroviario por parte de la empresa
+  ČD Cargo, a. s., las normas correspondientes en su propia normativa local.
 En Brno, a 10 de septiembre de 2012.
-Bc. Josef Dvořák s. f.
-Libor Bruzl s. f.
+Bc. Josef Dvořák v. r.
+Libor Bruzl v. r.
 director
 inspector principal
-de la Inspección Territorial de Brno
-de la Inspección Territorial de Brno
+De la Inspección Territorial de Brno
+De la Inspección Territorial de Brno

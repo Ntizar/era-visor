@@ -11,10 +11,10 @@ ratio_longitud: 1.22
 tokens_in: 58254
 tokens_out: 41647
 verificacion: revisar
-notas_cifras: ["bloque 1: cifras cortas: 1/155", "bloque 2: cifras cortas: 1/39", "bloque 3: original bilingüe: se compara contra el idioma principal (SL)", "bloque 4: original bilingüe: se compara contra el idioma principal (SL); cifras largas: 1/58; cifras cortas: 1/64", "bloque 5: original bilingüe: se compara contra el idioma principal (CS)", "bloque 7: original bilingüe: se compara contra el idioma principal (CS)"]
-avisos: ["bloque 3: ratio 1.96", "bloque 4: ratio 1.91", "bloque 5: ratio 1.96", "bloque 7: ratio 1.99", "bloque 9: marcadores de página: 11 vs 11", "bloque 10: ratio 1.94"]
 fecha_proceso: 2026-11-19
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+avisos: ["páginas: 58 original vs 57 castellano", "página 47: cifras largas: faltan 5/5 (100%)"]
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (SL)", "página 2: cifras cortas: 1/101", "página 3: original bilingüe: se compara contra el idioma principal (CS); ratio 1.86", "página 8: original bilingüe: se compara contra el idioma principal (CS)", "página 10: original bilingüe: se compara contra el idioma principal (SL); cifras cortas: 1/7; ratio 2.02", "página 12: original bilingüe: se compara contra el idioma principal (CS); ratio 2.17"]
 ---
 ## Página 1
 

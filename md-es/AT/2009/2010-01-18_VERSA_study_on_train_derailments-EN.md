@@ -10,30 +10,59 @@ chars: 39327
 ratio_longitud: 1.08
 tokens_in: 14434
 tokens_out: 11305
-verificacion: revisar
 fecha_proceso: 2026-11-18
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-avisos: ["página 1: cifras largas: faltan 3/13 (23%)"]
+verificacion: ok
 notas_cifras: ["página 2: cifras largas: 1/28; cifras cortas: 1/99", "página 5: cifras cortas: 1/74", "página 12: original bilingüe: se compara contra el idioma principal (EN)", "página 16: original bilingüe: se compara contra el idioma principal (EN)", "página 22: original bilingüe: se compara contra el idioma principal (DE)"]
 ---
+
 ## Página 1
 
-Trabajo por la Seguridad del Tráfico en Austria
-DESCARRILAMIENTOS DE VAGONES DE MERCANCÍAS EN AUSTRIA
-Interacción entre el ensayo de torsión del vehículo y los parámetros de la vía (torsión, peralte de la vía y radio de curva);
-Esta investigación se ha llevado a cabo conforme a la Ley Federal que establece la Oficina Federal de Investigación de Accidentes y modifica la Ley de Aviación, la Ley de Ferrocarriles de 1957, la Ley de Navegación y la Ley de Tráfico por Carretera de 1967, publicada en el Boletín Oficial Federal I No. 123/2005 con fecha 1 de enero de 2006 (Ley de Investigación de Accidentes), y sobre la base de la Directiva 2004/49/CE del Parlamento Europeo y del Consejo de 29 de abril de 2004. El único objetivo de la investigación es determinar la causa del incidente y prevenir futuros incidentes similares, no establecer culpabilidad ni responsabilidad. Las referencias a personas deben entenderse aplicables a ambos sexos.
-No podrán divulgarse extractos de este informe sin consentimiento escrito de la Oficina Federal de Transporte)
-(BUNDESANSTALT FÜR VERKEHR)
-OFICINA FEDERAL DE TRANSPORTE)
+Trabajando por la
+Seguridad del Tráfico
+en Austria
+DESCARRILAMIENTOS DE
+VAGONES DE CARGA
+EN AUSTRIA
+Interacción entre la torsión de
+ensayo del vehículo y los
+parámetros de vía (torsión,
+inclinación de la vía y radio de
+curva);
+Esta investigación se ha llevado a cabo en cumplimiento
+de la Ley Federal por la que se crea la Oficina Federal de
+Versión 2
+Investigación de Accidentes y se modifica la Ley de
+Aviación, la Ley de Ferrocarriles de 1957, la Ley de
+Navegación y la Ley de Tráfico por Carretera de 1967,
+que entró en vigor el 1 de enero de 2006 (Ley de
+Investigación de Accidentes, Boletín Oficial del Gobierno
+Federal I N.º 123/2005), y sobre la base de la
+BMVIT-795.136/-II/BAV/UUB/SCH/2010
+Directiva 2004/49/CE del Parlamento Europeo y del
+Consejo de 29 de abril de 2004. El único propósito de la
+investigación es establecer la causa del suceso y prevenir
+tales sucesos en el futuro, no establecer culpabilidad ni
+responsabilidad. Las referencias a personas deben
+entenderse aplicables a ambos sexos.
+Extractos de este informe no pueden divulgarse sin
+BUNDESANSTALT FÜR VERKEHR
+consentimiento escrito de la Oficina Federal de Transporte)
+(FEDERAL OFFICE OF TRANSPORT)
 Dirección de la oficina:
 Trauzlgasse 1, A-1210 Viena
-Dirección postal para correspondencia: Apartado de correos 207, A-1000 Viena
-Sitio web:
+Dirección
+Oficina Federal de Investigación de
+para correspondencia: Accidentes
+Casilla de Correo 207, A-1000 Viena
+sitio web:
 versa.bmvit.gv.at
 – Sección Ferroviaria
-Investigación adicional con recomendaciones de seguridad
+Investigación posterior
+con recomendaciones de seguridad
 
 ## Página 2
+
 
 ### Índice
 | 1 . 2 . | Lista de diagramas 2 ........................................................................................................................................... Normativa aplicable: 2 .................................................................................................................................... Lista de abreviaturas 3 ..................................................................................................................................... Símbolos y abreviaturas utilizadas 3 ................................................................................................................. Definiciones 3 .................................................................................................................................................... Generalidades 4 ........................................................................................................................................................ Análisis de la normativa sobre vehículos 4 ..................................................................................................................... |
@@ -57,6 +86,7 @@ Diagrama 9: Análisis de los descarrilamientos (aplicación de la ORE B55/RP8, F
 | ÖBB DVB 502 54- ÖBB ZOV ÖBB- DB IS 2 1 - | anchos de 1435 mm y superiores – Vía llana Principios técnicos de la vía Parámetros de alineación de la vía – – Reglamentos de aceptación para trabajos de vía Plan de mantenimiento de la vía |
 
 ## Página 3
+
 
 ### Lista de abreviaturas
 BMVIT  
@@ -125,10 +155,10 @@ permitido
 Según la TSI de Infraestructura de Alta Velocidad (2008/217/CE), punto 4.2.7, la sobre-elevación de vía es la diferencia máxima de altura 
 entre los rieles exterior e interior, medida en el centro de la superficie de la cabeza del riel (en mm). El valor depende del ancho de vía si se mide en mm; el valor no depende del ancho de vía si se mide en grados. 
 Según el Folleto UIC 530-2, Glosario, una torsión de vía se produce en curvas de empalme que comprenden curvas con sobre-elevación, como característica de diseño. Las torsiones de vía también son causadas por desviaciones de la geometría del riel según la especificación de diseño que se deben a errores de nivelación. Estas diferencias en la elevación opuesta de los rieles afectan a la torsión de un vehículo ferroviario y resultan en cambios en la distribución de las fuerzas de rueda. 
-Comentario UUB: La rigidez a la torsión de un vehículo debe cumplir con la torsión de ensayo del vehículo. 
-
+Comentario UUB: La rigidez a la torsión de un vehículo debe cumplir con la torsión de ensayo del vehículo.
 
 ## Página 4
+
 
 ### 1. Generalidades 
 Se han producido varios descarrilamientos de vagones de mercancías en los Ferrocarriles Austriacos desde 
@@ -158,10 +188,10 @@ La conclusión básica fue que la torsión de ensayo del vehículo según la TSI
 que la torsión de vía permitida según la TSI de Infraestructura de Alta Velocidad y otras normas. Los vehículos y la infraestructura cumplen con las regulaciones vigentes en ese momento. Se realizó una investigación adicional sobre este asunto por parte del grupo de trabajo ORE – B55 (informe final OT B55/RP8 de fecha abril de 1983). 
 Las conclusiones de este análisis fueron enviadas a los operadores de infraestructura y autoridades como recomendaciones de seguridad. Afectan a líneas principales y secundarias, estructuras auxiliares (depósitos de tracción y talleres), así como a líneas alimentadoras. 
 ### 2. Análisis de la normativa de vehículos 
-Los vagones de mercancías se utilizan de acuerdo con las siguientes regulaciones técnicas y operativas: 
-
+Los vagones de mercancías se utilizan de acuerdo con las siguientes regulaciones técnicas y operativas:
 
 ## Página 5
+
 
 • 
 RIV 
@@ -203,6 +233,7 @@ Torsión de ensayo de la caja del vehículo (Comentario UUB: en ‰):
 
 ## Página 6
 
+
 g*
 lim = 7 
 para 2a* < 4 m 
@@ -231,9 +262,10 @@ La probabilidad de un descarrilamiento por torsión es mayor cuando
 • se aplican fuerzas de guía relativamente grandes inducidas por la curva en curvas cerradas; 
 • en el caso de vehículos vacíos o parcialmente cargados con un peso muerto bajo, actúan pequeñas fuerzas de rueda; 
 • en vehículos resistentes a la torsión, se fomenta el cambio de fuerza de rueda inducido por la torsión; 
-• a baja velocidad, las fuerzas están sujetas a condiciones cuasiestáticas; 
+• a baja velocidad, las fuerzas están sujetas a condiciones cuasiestáticas;
 
 ## Página 7
+
 
 • las características de fricción predominantes son desfavorables ya que las vías están secas. 
 Con la constante de torsión de ensayo del vehículo según ORE B55/RP8, Figura 6 (g* = 15/2a* + 2; 4,5 m ≤ 2a* ≤ 20 m), se aplica lo siguiente para los rangos individuales: 
@@ -260,9 +292,10 @@ velocidad o debido a cargas excéntricas).
 El modelo se basa en un coeficiente de confianza estadística p = 95% con colas de distribución limitadas a ambos lados, como se utiliza generalmente al resolver problemas técnicos. 
 Esto resulta en una probabilidad de error de a = 5%. Debido a esta incertidumbre inducida por el modelo, se debe esperar una probabilidad residual de descarrilamientos por torsión incluso cuando la condición vía/vehículo cumpla totalmente con la especificación. Tras una extensa comprobación de resultados para verificar que el modelo coincide con la frecuencia real de descarrilamientos por torsión, parece que el coeficiente de confianza elegido es adecuado. 
 ### Como precaución de seguridad adicional, ORE B55/RP8 menciona añadir guardacantones 
-o equipos de lubricación de carriles. 
+o equipos de lubricación de carriles.
 
 ## Página 8
+
 
 ### 3. Análisis de la normativa de infraestructura 
 3.1 ESI de Infraestructura AV (2008/217/CE) 
@@ -279,9 +312,10 @@ Límite de torsión = (20/l + 3)
 — 7 mm/m para líneas diseñadas para velocidades ≤ 200 km/h 
 — 5 mm/m para líneas diseñadas para velocidades > 200 km/h. 
 El Gestor de Infraestructura establecerá en el plan de mantenimiento la base sobre la cual medirá la vía para comprobar el cumplimiento de este requisito. La base de medición incluirá una base de medición de 3 m.  
-Diagrama 1: Torsión de vía según la ESI de Infraestructura AV (2008/217/CE, sección 4.2.10.4.1) 
+Diagrama 1: Torsión de vía según la ESI de Infraestructura AV (2008/217/CE, sección 4.2.10.4.1)
 
 ## Página 9
+
 
 Según la sección 4.2.7, para las Líneas de categoría I, II y III, el peralte de diseño en nuevos tramos de Alta Velocidad (AV) debe limitarse a 180 mm. En vías en operación, se permite una tolerancia de mantenimiento de ± 20 mm, sujeto a un peralte máximo de 190 mm; este valor de diseño puede aumentarse hasta un máximo de 200 mm en vías reservadas exclusivamente para tráfico de pasajeros. 
 ### ORE B55/RP8 no limita el peralte en relación con el radio de curvatura. 
@@ -302,6 +336,7 @@ un gran peralte magnifica el exceso de peralte en curvas, con una gran diferenci
 
 ## Página 10
 
+
 Para evitar el riesgo de descarrilamiento de vagones de mercancías de rigidez torsional elevada en curvas de radio relativamente pequeño, la sobreelevación debe limitarse al siguiente valor (sobre este punto, véase ORE B 55/Rp 5 y 8):
 Dlim = (R-50) / 1.5 
 [mm] 
@@ -315,10 +350,10 @@ El Anexo I (informativo) contiene un resumen de los resultados de trabajo del Co
 3.4. ÖBB DV B 50-2 
 La torsión máxima permitida oscila entre 1,25 mm/m y 3,33 mm/m, dependiendo de la pendiente de la vía y de la aplicación. 
 Según ORE B55/RP8, para material rodante con 2a* = 20 m, pueden superarse los límites de torsión de la vía. 
-### ORE B55/RP8 no contempla la posibilidad de limitar la sobreelevación permitida en función del radio de curvatura (véase la sección 3.6). 
-
+### ORE B55/RP8 no contempla la posibilidad de limitar la sobreelevación permitida en función del radio de curvatura (véase la sección 3.6).
 
 ## Página 11
+
 
 3.5. ZOV 54 
 Las mediciones sobre una base de 5 m (medición mediante máquina, sin mediciones manuales directas) en función de la velocidad permitida son las siguientes: 
@@ -342,8 +377,8 @@ ya que zul u1 ≤ (r - 100) / 2
 |  |  | lim g2° = (20/2a*)+1 .5; 3 .0‰ ≤ lim g2° ≤ 6 .0‰ |  |
 |  |  | ya que u ≥ zul u2 |  |
 
-
 ## Página 12
+
 
 donde se aplican u [mm] y r [m].  
 Rango 3: 
@@ -366,10 +401,10 @@ Radio de curvatura de vía r
 Gleisüberhöhung = Sobre elevación de vía u 
 Abweichende Regelungen der Bahnen für max u = Discrepancia en los reglamentos ferroviarios para u máx. 
 Diagrama 4: RE B55/RP8 - Figura 7 
-### Como precaución de seguridad adicional contra el descarrilamiento, ORE B55/RP8 (Diagrama 7) menciona añadir guías o equipos lubricadores de carriles para el Rango 3. 
-
+### Como precaución de seguridad adicional contra el descarrilamiento, ORE B55/RP8 (Diagrama 7) menciona añadir guías o equipos lubricadores de carriles para el Rango 3.
 
 ## Página 13
+
 
 3.7.  ÖBB DB IS 2 
 Para los Límites de Acción Inmediata (IALs) desde el eje x hasta el valor pico, deben observarse los siguientes valores límite para la torsión en medición mediante máquina. 
@@ -382,10 +417,10 @@ Para los Límites de Acción Inmediata (IALs) desde el eje x hasta el valor pico
 ### Según ORE B55/RP8 (Rango 2), la torsión de vía permitida con alta sobre elevación para la torsión de 9 m con v < 160 km/h (4.0 mm/m), es de 3.72 mm/m (véase la sección 3.6). 
 ### ORE B55/RP8 no contempla la posibilidad de limitar la sobre elevación permitida en función del radio de curvatura (véase la sección 3.6). 
 ### No se da ninguna relación entre torsión, radio de curvatura y sobre elevación permitida. 
-### Para la torsión de 5m, utilizando medición manual, la sobre elevación permitida no se considera en función del radio de curvatura. 
-
+### Para la torsión de 5m, utilizando medición manual, la sobre elevación permitida no se considera en función del radio de curvatura.
 
 ## Página 14
+
 
 ### 4. Principios de dinámica de vehículos 
 Según EN 14363, Figura A.1, las fuerzas que actúan sobre el reborde de rueda [Spurkranzwinkel] al inicio de un descarrilamiento son las siguientes: 
@@ -395,10 +430,10 @@ Y = Nsinγ - µNcosγ
 Q = Ncosγ + µNsinγ 
 A partir de esto, es posible deducir la ecuación para (Y/Q) (ecuación de Nadal): 
 ### Diagrama 7: Ecuación de Nadal según EN 14363 
-El valor límite (Y/Q) depende del ángulo del reborde de rueda γ y del coeficiente de fricción en el reborde de rueda µ. Los valores para rangos normales del ángulo del reborde de rueda y del coeficiente de fricción se presentan en EN 14363, Figura A.2: 
-
+El valor límite (Y/Q) depende del ángulo del reborde de rueda γ y del coeficiente de fricción en el reborde de rueda µ. Los valores para rangos normales del ángulo del reborde de rueda y del coeficiente de fricción se presentan en EN 14363, Figura A.2:
 
 ## Página 15
+
 
 Leyenda: 1 … Valor límite Y/Q 
 2 … Ángulo del reborde de rueda γ [°] 
@@ -408,6 +443,7 @@ El diagrama muestra que el coeficiente de fricción en el reborde de rueda µ ti
 • equipos de lubricación del reborde de rueda en el vehículo locomotora pueden utilizarse como medio para mantener bajo el coeficiente de fricción.
 
 ## Página 16
+
 
 ### 5. Análisis de los descarrilamientos
 Rango 3: 
@@ -430,18 +466,18 @@ Radio de curvatura de la vía r
 Gleisüberhöhung = Sobreelevación de la vía u 
 Abweichende Regelungen der Bahnen für max u = Discrepancias en las normativas ferroviarias para u máx. 
 ### Diagrama 9: Análisis de los descarrilamientos (aplicación de ORE B55/RP8, Figura 7) 
-X Descarrilamiento 6 de septiembre de 2008 en la estación de Rosenbach, r = 218,7 m, u = 150 mm, usoll = 138 mm 
-
+X Descarrilamiento 6 de septiembre de 2008 en la estación de Rosenbach, r = 218,7 m, u = 150 mm, usoll = 138 mm
 
 ## Página 17
+
 
 Esto sugiere una torsión de vía permitida según el rango 3, con necesidad de medidas adicionales. 
 Otros factores influyentes son la velocidad de marcha < 30 km/h debido a un punto de baja velocidad y el borde de rodadura seco de la vía. 
 X Descarrilamiento 8 de abril de 2009 Leithabrücke – Ebenfurth, r = 265 m, u = 90 mm, usoll = 62 mm  
-Esto sugiere una torsión de vía permitida según el rango 2. Otros factores influyentes son la velocidad de marcha < 30 km/h (operación de frenado antes de la señal «STOP» a la entrada de la estación de Ebenfurth) y el borde de rodadura seco de la vía. 
-
+Esto sugiere una torsión de vía permitida según el rango 2. Otros factores influyentes son la velocidad de marcha < 30 km/h (operación de frenado antes de la señal «STOP» a la entrada de la estación de Ebenfurth) y el borde de rodadura seco de la vía.
 
 ## Página 18
+
 
 ### 6. Medidas de seguridad adicionales 
 El equipo de lubricación del filete de rueda en vehículos locomotora modernos (flota Taurus de ÖBB Traktion GmbH) funciona según los siguientes principios: 
@@ -458,10 +494,10 @@ hay contacto con el filete de rueda en el carril interior de la curva. Como resu
 Mediante la instalación deliberada de equipos fijos para la lubricación del borde de rodadura, tales accidentes podrían evitarse tras los descarrilamientos por torsión (p. ej., en la estación de Salzburg Gnigl y en la estación de Spittal-Millstättersee). 
 Además, los coches RoLa acompañantes estaban equipados con equipos adicionales de lubricación del filete de rueda. 
 Al tender nueva vía y realizar ciertos trabajos en la misma (p. ej., rectificado de rieles), se requieren varios recorridos con un vehículo locomotora para generar suficiente película de lubricación en el borde de rodadura. 
-### La reducción de la velocidad en zonas con sobreelevación excesiva no favorece la seguridad. 
-
+### La reducción de la velocidad en zonas con sobreelevación excesiva no favorece la seguridad.
 
 ## Página 19
+
 
 ### 7. Resumen 
 Numerosos vagones de mercancías europeos cumplen, en cuanto a su torsión de prueba, con las disposiciones de UIC 530-2 basadas en ORE B55/RP8 – Figura 6 (g* = 15/2a* + 2) y con las disposiciones de la ETI de Vagón de Mercancías y EN 14363 (glim = 20/2a* +2 para 2a* < 20 m). 
@@ -478,6 +514,7 @@ Los siguientes parámetros adicionales también pueden tener un efecto adverso s
 
 ## Página 20
 
+
 ### 8. Medidas adicionales de seguridad
 Conforme al Artículo 25(2) de la Directiva 49/2004 de la UE, las recomendaciones se dirigirán a la autoridad de seguridad y, cuando sea necesario por la naturaleza de la recomendación, a otros organismos o autoridades del Estado miembro o a otros Estados miembros. Los Estados miembros y sus autoridades de seguridad adoptarán las medidas necesarias para garantizar que las recomendaciones de seguridad emitidas por los organismos investigadores sean debidamente consideradas y, en su caso, aplicadas.
 Sobre la base de la información anterior, la UUB de la Oficina Federal de Transporte emite las siguientes recomendaciones de seguridad de conformidad con la Unfalluntersuchungsgesetz [Ley de Investigación de Accidentes] (Boletín Oficial Federal I, n.º 123, Sección 16(2)):
@@ -488,8 +525,8 @@ Sobre la base de la información anterior, la UUB de la Oficina Federal de Trans
 | 4 | Revisar los reglamentos de mantenimiento (p. ej., ÖBB-DB IS 2) en lo relativo a los parámetros de mantenimiento permitidos (Límites de Acción y Límites de Acción Inmediata) para el giro de vía permitido en conjunción con el peralte de vía. Justificación: los IAL utilizados no cumplen las disposiciones de ORE B55/RP8. | IM |
 | 5 | Instalar equipos fijos para la lubricación de los bordes | IM |
 
-
 ## Página 21
+
 
 de rodadura, especialmente delante de tramos expuestos de vía
 (radios de curvatura ajustados y grandes peraltes y también
@@ -525,10 +562,10 @@ Se solicita a las empresas afectadas que informen a las autoridades de seguridad
 afectados y de las medidas adoptadas.
 La autoridad de seguridad y otras autoridades u organismos o, cuando proceda, otros
 Estados miembros a los que se hayan dirigido las recomendaciones, deberán informar al menos anualmente al organismo investigador sobre las medidas que se hayan adoptado o estén previstas como consecuencia de la recomendación (Directiva 49/2004 de la UE, Artículo
-25(3)). 
-
+25(3)).
 
 ## Página 22
+
 
 Estas recomendaciones de seguridad deben distribuirse a: 
 | Empresa/oficina | Función |

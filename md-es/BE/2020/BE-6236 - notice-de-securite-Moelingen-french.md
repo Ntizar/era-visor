@@ -12,8 +12,8 @@ tokens_in: 62481
 tokens_out: 44219
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-verificacion: revisar
-avisos: ["página 70: ratio 1.61", "página 72: ratio 1.90", "página 73: ratio 1.62"]
+verificacion: ok
+notas_cifras: ["página 2: cifras cortas: 1/3", "página 3: cifras cortas: 1/152", "página 24: original bilingüe: se compara contra el idioma principal (FR)", "página 64: cifras cortas: 1/9", "página 70: original bilingüe: se compara contra el idioma principal (FR)", "página 71: original bilingüe: se compara contra el idioma principal (EN)"]
 ---
 
 ## Página 1
@@ -496,6 +496,7 @@ Además, Infrabel ha lanzado varias campañas de prevención, como recientemente
 20	 « Donde se cruzan la carretera y la vía férrea, siempre existe el potencial de accidentes. Si el paso a nivel, un legado de los constructores ferroviarios del siglo XIX, puede cerrarse y sustituirse por un puente o un paso subterráneo, casi todo el riesgo puede eliminarse. » (Rama de Investigación de Accidentes Ferroviarios, 2020).
 
 ## Página 25
+
 
 ## 3.2.1.2. SENSIBILIZACIÓN
 Durante el cuarto año consecutivo, Infrabel incrementa sus inversiones en campañas de seguridad y acciones de sensibilización.21
@@ -1465,57 +1466,59 @@ el marco de un accidente. No habrá multas. (Oblin, 2020).
 youtube.com/watch?v=q6dCdiqCU84&feature=youtu.be
 •	 Cámara de Representantes de Bélgica. (2018, 3 de octubre). Cultura de la seguridad ferroviaria [audiencia]. Consultado en 
 https://www.dekamer.be/FLWB/PDF/54/3310/54K3310001.pdf 
-•	 Cairney, P. (2003, diciembre). Perspectivas para mejorar la visibilidad de los trenes en los pasos a nivel ferroviarios pasivos. Ver­
-mont South, Australia: Oficina Australiana de Seguridad del Transporte.
-•	 Comunidad de Empresas Ferroviarias y de Infraestructura Europeas. (2012, 7 de junio). ¡Actuar con seguridad en los pasos a nivel! Día Internacional de Concienciación sobre los Pasos a Nivel. Consultado el 27 de julio de 2020 en http://www.cer.be/sites/default/files/
+•	 Cairney, P. (2003, diciembre). Prospects for improving the conspicuity of trains at passive railway crossings. Ver­
+mont South, Australia: Australian Transport Safety Bureau.
+•	 Community of European Railway and Infrastructure Companies. (2012, 7 de junio). Act safely at level crossings! In­
+ternational Level Crossing Awareness Day. Consultado el 27 de julio de 2020 en http://www.cer.be/sites/default/files/
 press-release/120604_PRESS_RELEASE_ILCAD_2012_final_en.pdf
-•	 Ddek. (2017, 17 de mayo). ¿Pura psicología? Por qué nos resulta tan molesta una multa. Consultado el 29 de julio de 2020 
+•	 Ddek. (2017, 17 de mayo). Pure psychologie? Waarom we een boete zo vervelend vinden. Consultado el 29 de julio de 2020 
 en 
 https://mens-en-samenleving.infonu.nl/psychologie/181629-pure-psychologie-waarom-we-een-boete-
 zo-vervelend-vinden.html
-•	 De Lijn. (s.f.). Objetivos de aprendizaje Teoría De Lijn Día 18 [Curso].
-•	 De Lijn & Heidebloem. (s.f.). Pliego de condiciones para el transporte regular [Documento interno no publicado].
-•	 De Rycke, G. (2019, 5 de diciembre). Quien esperó pacientemente en el paso a nivel cerrado, recibió una recompensa de San Nicolás y Piet Negro [Foto]. Consultado el 24 de julio de 2020 en https://www.hln.be/in-de-buurt/buggenhout/infra­
+•	 De Lijn. (s. f.). Leerdoelstellingen Theorie De Lijn Dag 18 [Curso].
+•	 De Lijn & Heidebloem. (s. f.). Bestek voor geregeld vervoer [Documento interno no publicado].
+•	 De Rycke, G. (2019, 5 de diciembre). Wie braaf aan de gesloten overweg bleef wachten, kreeg een beloning van Sinter­
+klaas en Zwarte Piet [Foto]. Consultado el 24 de julio de 2020 en https://www.hln.be/in-de-buurt/buggenhout/infra­
 bel-sensibiliseert-met-sinterklaas-tegen-spoorlopen-toch-meteen-4-overtreders-in-uurtje-tijd~ab98b52f4/
-•	 Delmonte, E., & Tong, S. (2008, diciembre). Investigación sobre los retrasos de tráfico en los pasos a nivel. Consultado el 2 de agosto 
+•	 Delmonte, E., & Tong, S. (2008, diciembre). Investigation into traffic delays at level crossings. Consultado el 2 de agosto 
 de 2020 en https://trl.co.uk/sites/default/files/PPR%20377.pdf
-•	 Dooms, N. (2019, 5 de diciembre). Infrabel sensibiliza con San Nicolás contra el cruce de vías: sin embargo, 4 
-infractores de inmediato en una hora. Het Laatste Nieuws. Consultado el 24 de julio de 2020 en https://www.hln.be/in-de-buurt/
+•	 Dooms, N. (2019, 5 de diciembre). Infrabel sensibiliseert met Sinterklaas tegen spoorlopen: toch meteen 4 
+overtreders in uurtje tijd. Het Laatste Nieuws. Consultado el 24 de julio de 2020 en https://www.hln.be/in-de-buurt/
 buggenhout/infrabel-sensibiliseert-met-sinterklaas-tegen-spoorlopen-toch-meteen-4-overtreders-in-uurtje-
 tijd~ab98b52f4/
-•	 Consejo Holandés de Seguridad. (2018, 26 de julio). Seguridad en los pasos a nivel: una intersección peligrosa de intereses. Consultado el 31 
+•	 Dutch Safety Board. (2018, 26 de julio). Level crossing safety: a hazardous intersection of interests. Consultado el 31 
 de julio de 2020 en https://www.onderzoeksraad.nl/en/page/12076/crossing-safety---a-risky-crossing-of-interests
-•	 Duveiller, L. (2016, octubre). Frenado de trenes. Presentación oral sobre Lecciones Aprendidas: accidente en un paso 
-a nivel en Pittem, Bruselas. Consultado el 22 de julio de 2020 en https://mobilit.belgium.be/sites/default/files/
+•	 Duveiller, L. (2016, octubre). Frenado de los trenes. Presentación oral sobre Lessons Learned: accidente en un pas­
+saje a nivel en Pittem, Bruselas. Consultado el 22 de julio de 2020 en https://mobilit.belgium.be/sites/default/files/
 OOOE/2016/Pittem_LL/pittem_lessons_learned_present.pdf
-•	 Fakhfakh, N. (2008, diciembre). Estudio de un sistema multisor para el reconocimiento de situaciones 
-potencialmente peligrosas en los pasos a nivel, Las colecciones de Inrets, 119, 135-147. Consultado en 
+•	 Fakhfakh, N. (2008, diciembre). Étude d’un système multicapteurs pour la reconnaissance de situations 
+potentiellement dangereuses aux passages à niveau, Les collections de l’inrets, 119, 135-147. Consultado en 
 https://www.ifsttar.fr/fileadmin/user_upload/editions/inrets/actes/actes_INRETS_A119.pdf
-•	 Servicio Público Federal Movilidad y Transportes. (s.f.). CAP. Consultado el 12 de junio de 2020 en https://mobilit.belgium.be/
+•	 Servicio Público Federal de Movilidad y Transportes. (s. f.). CAP. Consultado el 12 de junio de 2020 en https://mobilit.belgium.be/
 fr/circulationroutiere/permis_de_conduire/qui_peut_conduire_quoi/camion_bus_autocar/cap
-•	 Fonverne, I. (2020). Seguridad en los pasos a nivel: evaluar, involucrar y hacer cumplir. Global Railway Review, abril de 2020 (2), 
+•	 Fonverne, I. (2020). Safety at level crossings: evaluate, engage and enforce. Global Railway Review, abril de 2020 (2), 
 35-40. Consultado en https://www.globalrailwayreview.com/wp-content/uploads/grr220-Online-1.pdf 
-•	 Manual de Teoría B. (s.f.). Lección 22: tren tranvía autobús [curso]. Consultado el 22 de septiembre de 2020 en https://
+•	 Manual de Teoría B. (s. f.). Lección 22: train tram autobus [curso]. Consultado el 22 de septiembre de 2020 en https://
 permisb.permisdeconduire-online.be/theorie/train-tram-autobus
-•	 Manual del conductor. (1 de febrero de 2011). s.l.
-•	 Hansea. (2020). Informe de la reunión CPBW TBE 4 [Documento interno no publicado].
-•	 Giot, M. (2020, 14 de julio). Accidentes en los pasos a nivel: Infrabel prueba nuevos dispositivos en Comblain-la-
+•	 Manual del conductor. (1 de febrero de 2011). s. l.
+•	 Hansea. (2020). Verslag vergadering CPBW TBE 4 [Documento interno no publicado].
+•	 Giot, M. (2020, 14 de julio). Accidentes en pasajes a nivel: Infrabel prueba nuevos dispositivos en Comblain-la-
 Tour. Consultado el 15 de julio de 2020 en https://www.rtbf.be/info/regions/liege/detail_accidents-aux-passages-a-
 niveau-infrabel-teste-de-nouveaux-dispositifs-a-comblain-la-tour?id=10542699
-•	 Infrabel. (2020, 16 de abril). Hacer cola a 1,5 m de distancia en la panadería caliente = ok. Formación de atascos en el paso 
-a nivel = ¡menos ok! ¡No pongas en riesgo tu vida por unos croissants! [Facebook]. Consultado en https://www.facebook.
+•	 Infrabel. (2020, 16 de abril). Aanschuiven bij de warme bakker op 1,5m afstand van elkaar = ok. Filevorming op de ove­
+rweg = minder ok! Riskeer je leven niet voor een paar pistolets! [Facebook]. Consultado en https://www.facebook.
 com/Infrabel/photos/a.362536813801689/2791885154200164
-•	 Infrabel. (s.f.). El calendario escolar. Consultado el 29 de junio de 2020 en https://infrabel.be/sites/default/files/wy­
+•	 Infrabel. (s. f.). El calendario de los escolares. Consultado el 29 de junio de 2020 en https://infrabel.be/sites/default/files/wy­
 siwyg-files/Calendrier_FR.pdf
-•	 Infrabel. (2020, 24 de marzo). Ciclistas cruzan vía férrea cerrada en Astene [Facebook]. Consultado en https://www.
+•	 Infrabel. (2020, 24 de marzo). Fietsers rijden gesloten spoorweg over in Astene [Facebook]. Consultado en https://www.
 facebook.com/359763604079010/videos/258898451792961
 •	 Infrabel. (2020). Informe anual de seguridad 2019. Consultado el 14 de julio de 2020 en https://infrabel.be/fr/facts-figures
-•	 Infrabel. (2019-2020). Jean-Pierre Barrière, el hombre invisible de los pasos a nivel. Consultado el 23 de junio de 2020 en 
+•	 Infrabel. (2019-2020). Jean-Pierre Barrière, l'homme invisible des passages à niveau. Consultado el 23 de junio de 2020 en 
 https://infrabel.be/fr/jeanpierrebarriere?fbclid=IwAR01gw_8bTORz4y154Hr2MoZVxrSmEayz%209GTNB7kU­
 rUASl6p50YYCo6En-Q
-•	 Infrabel. (2017). Mi libro de actividades sobre la seguridad ferroviaria. Consultado el 29 de junio de 2020 en https://accept.infra­
+•	 Infrabel. (2017). Mon livre d’activités sur la sécurité ferroviaire? Consultado el 29 de junio de 2020 en https://accept.infra­
 bel.be/sites/default/files/wysiwyg-files/Livret%20d%27activite%CC%81s%20d%27Infrabel.pdf
-•	 Infrabel. (2019, 9 de diciembre). Grupo de trabajo multidisciplinario sobre pasos a nivel 2019 [Documento interno no publicado].
+•	 Infrabel. (2019, 9 de diciembre). Multidisciplinaire werkgroep overwegen 2019 [Documento interno no publicado].
 •	 Infrabel. (2019, 25 de marzo). Plan Nacional Railspect: luchar juntos contra los comportamientos de riesgo en el do­
 minio ferroviario [Powerpoint]. Consultado el 17 de junio de 2020 en https://opendata.infrabel.be/explore/dataset/stu­
 die-railspect-2019/information/
@@ -1553,43 +1556,44 @@ die-railspect-2019/information/
 
 ## Página 72
 
-2020 vía https://elib.dlr.de/95235/1/AAET_Full_Paper_FoBue_2015_final.pdf 
-•	 Stallen, M., & Sanfey, A. (2013, 8 de agosto). Conformisme is een handig beleidsinstrument. Consultado el 4 de agosto de 2020 vía 
+2020 via https://elib.dlr.de/95235/1/AAET_Full_Paper_FoBue_2015_final.pdf 
+•	 Stallen, M., & Sanfey, A. (2013, 8 de agosto). Conformismo es una herramienta política útil. Consultado el 4 de agosto de 2020 a través de 
 https://www.socialevraagstukken.nl/conformisme-is-een-handig-beleidsinstrument/
 •	 Starčević, M., Barić D., & Pilko, H. (2016, mayo). Safety at level crossings: comparative analysis. 4th International 
-Conference on Road and Rail Infrastructure. Congreso organizado por la Universidad de Zagreb, Facultad de Ingeniería Civil, 
-Departamento de Transporte, Šibenik.
-•	 StreetDir.be – Su directorio de calles. Consultado el 29 de junio de 2020 vía https://www.streetdir.be/BE/
+Conference on Road and Rail Infrastructure. Congreso organizado por University Of Zagreb, Faculty of Civil Engineer­
+ing, Department of Transportation, Šibenik.
+•	 StreetDir.be – Votre répertoire des rues. Consultado el 29 de junio de 2020 a través de https://www.streetdir.be/BE/
 •	 Tamigniau, M., & Parentani, E. (2020, 5 de marzo). Des voitures et des bus traversent un passage à niveau malgré 
-les FEUX ROUGES à Mouland: «C’est aussi grave que de faire demi-tour sur l’autoroute». RTL Info. Consultado vía 
+les FEUX ROUGES à Mouland: «C’est aussi grave que de faire demi-tour sur l’autoroute». RTL Info. Consultado a través de 
 https://www.rtl.be/info/vous/temoignages/des-voitures-et-des-bus-traversent-un-passage-a-niveau-malgre-
 les-feux-rouges-a-mouland-c-est-aussi-grave-que-de-faire-demi-tour-sur-l-autoroute-video-1201232.aspx?fb
 clid=IwAR1YcfPmPXMcTorlx9m6Fl0wOFI8hFGRl-sYwHDq8Jy7wUHhh3hGHcVbj98
-•	 The Rail Safety and Standards Board. (2020, abril). Leading health and safety on Britain’s railway. Consultado el 4 de agosto 
-de 2020 vía https://www.rssb.co.uk/RSSB-and-the-rail-industry/Leading-health-and-safety-on-Britains-railway
+•	 The Rail Safety and Standards Board. (2020, abril). Leading health and safety on Britain’s railway. Consultado el 4 de agosto de 
+2020 a través de https://www.rssb.co.uk/RSSB-and-the-rail-industry/Leading-health-and-safety-on-Britains-railway
 •	 The Rail Safety and Standards Board. (2020, 7 de julio). Level crossings 2019/20: a summary of health and safety 
-performance, operational learning and risk reduction activities on Britain’s railway. Consultado el 10 de julio vía https://
+performance, operational learning and risk reduction activities on Britain’s railway. Consultado el 10 de julio a través de https://
 www.rssb.co.uk/RSSB-and-the-rail-industry/~/link.aspx?_id=B3AB33E0ECA04D43B74DDB0B149E2E40&_z=z
-•	 Van Gompel, M. (2018, 8 de enero). ProRail verft overwegen geel om veiligheid te verhogen. Consultado el 29 de junio de 2020 vía 
+•	 Van Gompel, M. (2018, 8 de enero). ProRail verft overwegen geel om veiligheid te verhogen. Consultado el 29 de junio de 2020 a través de 
 https://www.spoorpro.nl/spoorbouw/2018/08/01/prorail-verft-overwegen-geel-om-veiligheid-te-verhogen/
-•	 Vandepitte, D. (presentador del informativo). (2017, 23 de enero). Flitser aan spoorwegovergang Oudegem [informativo televisivo]. Sint-Niklaas: TV Oost.
+•	 Vandepitte, D. (presentador del telediario). (2017, 23 de enero). Flitser aan spoorwegovergang Oudegem [journal télé­
+visé]. Sint-Niklaas: TV Oost.
 •	 Vias Institute & Infrabel. (2018, 12 de junio). Un père et ses 2 enfants décédés dans leur véhicule lors d’une collision à un 
 passage à niveau: Infrabel et l’institut Vias lancent une action de sensibilisation au respect des passages à niveau. 
-Consultado el 30 de junio de 2020 vía https://www.vias.be/fr/newsroom/infrabel-et-linstitut-vias-lancent-une-action-
+Consultado el 30 de junio de 2020 a través de https://www.vias.be/fr/newsroom/infrabel-et-linstitut-vias-lancent-une-action-
 de-sensibilisation-au-respect-des-passages-a-niveau/
 •	 Wainwright, R. (2018, 5 de junio). Network Rail: Improving level crossing safety with a multi-faceted approach. Consultado 
-el 13 de julio de 2020 vía https://www.globalrailwayreview.com/article/69816/network-rail-level-crossing-safety/
+el 13 de julio de 2020 a través de https://www.globalrailwayreview.com/article/69816/network-rail-level-crossing-safety/
 
 ## Página 73
 
-## 7.4.2.	 LEGISLACIÓN
-•	 Real decreto de 1 de diciembre de 1975 por el que se establece el reglamento general sobre la policía de la circulación rodada y el uso de la vía pública, Moniteur belge 9 de diciembre de 1975.
-•	 Real decreto de 30 de septiembre de 2005 por el que se designan las infracciones por grados a los reglamentos generales adoptados en ejecución de la ley relativa a la policía de la circulación rodada, Moniteur belge 7 de octubre de 2005.
-•	 Decreto ministerial de 25 de mayo de 2013 que fija los dispositivos de seguridad del paso a nivel n.º 28 de la línea ferroviaria n.º 40, tramo Visé - Maastricht, situado en Moelingen, a la altura del punto kilométrico 17,893, Moniteur belge 21 de junio de 2013.
-•	 Directiva (UE) n.º 2016/798 del Parlamento Europeo y del Consejo, de 11 de mayo de 2016, relativa a la seguridad ferroviaria (refundición). Diario Oficial de la Unión Europea 26 de mayo de 2016.
-•	 Reglamento (CE) n.º 1073/2009 del Parlamento Europeo y del Consejo, de 21 de octubre de 2009, por el que se establecen normas comunes para el acceso al mercado internacional de los servicios de transporte por carretera de viajeros en autobús y autocar, y por el que se modifica el Reglamento (CE) n.º 561/2006, Diario Oficial de la Unión Europea 14 de noviembre de 2009.
-•	 Ley de 16 de marzo de 1968 relativa a la policía de la circulación rodada, Moniteur belge 27 de marzo de 1968.
-•	 Ley de 30 de agosto de 2013 por la que se aprueba el Código Ferroviario, Moniteur belge 20 de diciembre de 2013.
+## 7.4.2.	 Legislación
+•	 Real Decreto de 1 de diciembre de 1975 por el que se aprueba el reglamento general sobre policía del tráfico rodado y uso de la vía pública, Moniteur belge de 9 de diciembre de 1975.
+•	 Real Decreto de 30 de septiembre de 2005 que designa las infracciones por grado a los reglamentos generales adoptados en ejecución de la ley relativa a la policía del tráfico rodado, Moniteur belge de 7 de octubre de 2005.
+•	 Decreto ministerial de 25 de mayo de 2013 que fija los dispositivos de seguridad del paso a nivel n.º 28 de la línea ferroviaria n.º 40, tramo Visé - Maastricht, situado en Moelingen, a la altura del punto kilométrico 17.893, Moniteur belge de 21 de junio de 2013.
+•	 Directiva (UE) n.º 2016/798 del Parlamento Europeo y del Consejo de 11 de mayo de 2016 relativa a la seguridad ferroviaria (recodificación). Diario Oficial de la Unión Europea de 26 de mayo de 2016.
+•	 Reglamento (CE) n.º 1073/2009 del Parlamento Europeo y del Consejo de 21 de octubre de 2009 por el que se establecen normas comunes para el acceso al mercado internacional de servicios de transporte por autocar y autobús, y por el que se modifica el Reglamento (CE) n.º 561/2006, Diario Oficial de la Unión Europea de 14 de noviembre de 2009.
+•	 Ley de 16 de marzo de 1968 relativa a la policía del tráfico rodado, Moniteur belge de 27 de marzo de 1968.
+•	 Ley de 30 de agosto de 2013 por la que se aprueba el Código Ferroviario, Moniteur belge de 20 de diciembre de 2013.
 
 ## Página 74
 

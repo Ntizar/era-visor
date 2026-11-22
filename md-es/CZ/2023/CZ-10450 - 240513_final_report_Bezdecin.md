@@ -10,13 +10,14 @@ chars: 208865
 ratio_longitud: 1.25
 tokens_in: 109341
 tokens_out: 77761
-verificacion: revisar
-notas_cifras: ["bloque 3: original bilingüe: se compara contra el idioma principal (CS)", "bloque 6: cifras cortas: 3/165", "bloque 9: original bilingüe: se compara contra el idioma principal (CS)", "bloque 10: original bilingüe: se compara contra el idioma principal (CS)", "bloque 11: original bilingüe: se compara contra el idioma principal (CS)", "bloque 14: original bilingüe: se compara contra el idioma principal (CS)"]
-avisos: ["bloque 3: ratio 1.63", "bloque 11: ratio 1.77", "bloque 16: ratio 1.76"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 3: original bilingüe: se compara contra el idioma principal (PT)", "página 6: original bilingüe: se compara contra el idioma principal (CS)", "página 7: original bilingüe: se compara contra el idioma principal (CS)", "página 10: original bilingüe: se compara contra el idioma principal (CS)", "página 12: original bilingüe: se compara contra el idioma principal (CS)", "página 13: original bilingüe: se compara contra el idioma principal (PT)"]
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -39,13 +40,13 @@ IČ: 75009561
 mail@dicr.cz
 tel.: +420 736 521 003
 
-
 ## Página 2
+
 
 El presente informe final es público y todos los hechos en él expuestos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ### 1 RESUMEN
 Fuente: Drážní inspekce
@@ -65,8 +66,8 @@ Consecuencias:
 daño total 2 526 003 Kč. *)
 *) La cuantía del daño a la fecha de publicación del informe no era definitiva.
 
-
 ## Página 4
+
 
 Causa inmediata:
 •
@@ -75,8 +76,8 @@ No se detectó ningún factor contribuyente por parte de la Drážní inspekce.
 No se detectó ninguna causa sistémica por parte de la Drážní inspekce.
 No se emitió ninguna recomendación de seguridad por parte de la Drážní inspekce.
 
-
 ## Página 5
+
 
 ### SUMMARY
 14th September 2023, 16:19 (14:19 GMT).
@@ -113,8 +114,8 @@ Systemic factor:
 none.
 Recommendation: not issued.
 
-
 ## Página 6
+
 
 # Índice
 1 RESUMEN......................................................................................................................3
@@ -158,6 +159,7 @@ SUMMARY.........................................................................
 
 ## Página 7
 
+
 4.2.2 Factores o consecuencias derivados de la instalación y puesta en servicio de vehículos ferroviarios, infraestructura ferroviaria o instalación técnica.....................................................................62
 4.2.3 Factores o consecuencias relacionados con fabricantes de vehículos ferroviarios u otro proveedor de productos ferroviarios...........................................................................62
 4.2.4 Factores o consecuencias derivados del mantenimiento y modificación de vehículos ferroviarios o instalaciones técnicas..................................................................................................62
@@ -187,6 +189,7 @@ SUMMARY.........................................................................
 ANEXOS............................................................................................................................70
 
 ## Página 8
+
 
 ### Lista de siglas y símbolos utilizados
 ARR
@@ -278,6 +281,7 @@ aptitud profesional especial
 
 ## Página 9
 
+
 ZV
 inicio de desvío
 ZZ
@@ -289,6 +293,7 @@ paso a nivel
 estación de ferrocarril
 
 ## Página 10
+
 
 ### Lista de siglas de los reglamentos legales, normas y disposiciones internas utilizados
 Decreto gubernamental núm. 361/2007 Sb.
@@ -317,6 +322,7 @@ disposición interna del transportista ČD, „Orden sobre la escolta del tren p
 
 ## Página 11
 
+
 disposición interna ČD V 2
 disposición interna del transportista ČD, „ČD V 2 Reglamento para las tripulaciones de locomotora“, en la redacción vigente en el momento de la ocurrencia del SE
 disposición interna ČD V15/I
@@ -327,6 +333,7 @@ Cálculo de freno del ŘDV serie 914
 documento del fabricante del ŘDV serie 914, de la sociedad Pars nova, a. s., Šumperk, „CÁLCULO DEL FRENO DEL VEHÍCULO DE MANDO SERIE 914“, 06-50/003
 
 ## Página 12
+
 
 ### 2 INVESTIGACIÓN Y SUS CONTEXTOS
 ### 2.1 Decisión de iniciar la investigación
@@ -350,43 +357,42 @@ La DI realizó, en colaboración con la VÚŽ y el transportista ČD, con la pre
 
 ## Página 13
 
-uvedených DV, que fue comparada con el valor de eficacia considerado por el fabricante de la DV en el cálculo del freno de aire, ver punto 3.1.7 de esta ZZ.
-DI realizó asimismo ensayos de verificación, en el marco de los cuales:
+de los DV indicados, que fue comparado con el valor de eficiencia considerado por el fabricante del DV en el cálculo del freno de aire, ver punto 3.1.7 de esta ZZ.
+DI llevó a cabo además pruebas de verificación, en el marco de las cuales:
 •
-se efectuó una conducción en las cabinas de los conductores de los trenes Os 6043 y Os 6045 (en ambos casos, conducción entre la est. Mladá Boleslav hl. n. y Dobrovice), que estaban formados por unidades diésel, compuestas por HDV del tipo «Motorový vůz 1435 A´1´ 242 kW» y ŘDV del tipo «Řídicí vůz 1435 1´1´ 914 (010.300-2)» (en adelante, unidad diésel de la serie 814), para la posterior evaluación de la forma de conducción de la persona que dirige la DV (en adelante, conductor) del tren Os 6051 en el sentido Mladá Boleslav hl. n. – apartadero Bezděčín, ver punto 3.1.7 de esta ZZ;
+se realizó una conducción en las cabinas de los conductores de los trenes Os 6043 y Os 6045 (en ambos casos conducción entre la est. Mladá Boleslav hl. n. y Dobrovice), que estaban formados por unidades motoras, compuestas por HDV del tipo "Motorový vůz 1435 A´1´ 242 kW" y ŘDV del tipo "Řídicí vůz 1435 1´1´ 914 (010.300-2)" (en adelante, unidad motora de la serie 814), para la posterior evaluación del modo de conducción de la persona que dirige el DV (en adelante, conductor) del tren Os 6051 en el sentido Mladá Boleslav hl. n. – desvío Bezděčín, ver punto 3.1.7 de esta ZZ;
 •
-se determinaron las masas (fuerzas) necesarias para la activación (liberación) de la tapa del freno de rescate AK6 en la posición del conductor, utilizada en las HDV de las unidades diésel participantes en la MU en cuestión y, además, en otras DV de unidades diésel de la serie 814 seleccionadas aleatoriamente por DI, utilizadas por el transportista ČD en la explotación del transporte ferroviario, ver punto 4.2.6 de esta ZZ.
-El nivel de cooperación con los representantes de los sujetos participantes en la MU fue estándar, y DI recibió la información requerida para la investigación de las causas y circunstancias de la ocurrencia de la MU.
-### 2.7 Descripción de la investigación, métodos y técnicas utilizados para acreditar los hechos
-y los hallazgos consignados en el informe
+se determinaron los pesos (fuerzas) necesarios para la activación (liberación) de la compuerta del freno de rescate AK6 en la posición del conductor, utilizada en el HDV de las unidades motoras implicadas en la MU en cuestión y, asimismo, en otros DV de unidades motoras de la serie 814 seleccionados aleatoriamente por DI, utilizados por el transportista ČD en la explotación del transporte ferroviario, ver punto 4.2.6 de esta ZZ.
+El nivel de cooperación con los representantes de las entidades implicadas en la MU fue estándar; la información requerida para la investigación de las causas y circunstancias de la MU fue facilitada a DI.
+### 2.7 Descripción de la investigación, métodos y técnicas utilizados para acreditar los hechos constatados e indicados en el informe
 En el marco de la investigación de la MU, DI procedió de la siguiente manera, y utilizó, entre otros, los siguientes métodos y técnicas:
 •
-inspección del lugar de la MU – de la infraestructura de la vía, de la DV de los trenes Os 6051 y Pn 62422 en el apartadero Bezděčín y en el tramo de vía entre la est. Mladá Boleslav hl. n. y el apartadero Bezděčín;
+inspección del lugar de la MU – de la infraestructura ferroviaria, de los DV de los trenes Os 6051 y Pn 62422 en el desvío Bezděčín y en el tramo de la vía entre la est. Mladá Boleslav hl. n. y el desvío Bezděčín;
 •
-verificación de la visibilidad de las señales de los principales señales de vía del apartadero Bezděčín;
+verificación de la visibilidad de las señales de los principales señales de vía del desvío Bezděčín;
 •
-análisis de la documentación solicitada al explotador de la vía SŽ, a los transportistas ČD y ČDC, a DPP, a la empresa Škoda Auto, a ZZS SK y a PČR;
+análisis de la documentación solicitada al explotador de la vía SŽ, a los transportistas ČD y ČDC, DPP, a la empresa Škoda Auto, a ZZS SK y a PČR;
 •
-análisis de los datos registrados por el ordenador tecnológico de las SZZ de Bezděčín, Dobrovice y Luštěnice-Újezd;
+análisis de los datos registrados por el ordenador tecnológico de las SZZ de las estaciones Bezděčín, Dobrovice y Luštěnice-Újezd;
 •
-análisis de los datos registrados por los RR instalados en las HDV de los trenes Os 6051 y Pn 62422;
+análisis de los datos registrados por los RR instalados en el HDV de los trenes Os 6051 y Pn 62422;
 •
-análisis de las explicaciones sobre la MU presentadas por las personas participantes y los testigos, facilitadas por el empleador, PČR y DI;
+análisis de las explicaciones sobre la MU presentadas por las personas implicadas y los testigos, facilitadas por el empleador, PČR y DI;
 •
-participación en la inspección comisionada de las DV participantes;
+participación en la inspección colegiada de los DV implicados;
 •
-ensayos de verificación efectuados entre las estaciones de tráfico Mladá Boleslav hl. n. y Dobrovice y su análisis, ver puntos 2.6 y 3.1.7 de esta ZZ;
+pruebas de verificación realizadas entre las estaciones Mladá Boleslav hl. n. y Dobrovice y su análisis, ver puntos 2.6 y 3.1.7 de esta ZZ;
 •
-conocimiento del simulador de locomotoras del transportista ČD situado en las instalaciones de OCÚ Stred, SÚ Praha-Vršovice;
+conocimiento del simulador de locomotoras del transportista ČD situado en las instalaciones de OCÚ Střed, SÚ Praha-Vršovice;
 •
-análisis de los resultados consignados en el Acta de ensayo elaborada por VÚŽ;
+análisis de los resultados indicados en el Protocolo de ensayo elaborado por VÚŽ;
 •
 análisis de las fuerzas necesarias para la activación del freno de rescate en la posición del conductor;
 •
 en el marco de la investigación del factor humano, utilización del método SHELL y del modelo de Reason.
 
-
 ## Página 14
+
 
 ### 2.8 Descripción de las dificultades y problemas concretos surgidos durante la investigación
 Durante la investigación de la MU no surgieron dificultades ni problemas que pudieran influir en el desarrollo de la investigación o en sus conclusiones.
@@ -425,22 +431,18 @@ cambio de aguja y el extremo de la aguja n.º 1, en el pk 24,850 (28 m tras la s
 perfiles de circulación SK n.º 1 y 2. A la colisión de los trenes precedió la circulación del tren Os 6051 más allá de la señal de salida S1 del apartadero Bezděčín, en el pk 24,878, la cual señalizaba la indicación «Alto».
 La inspección del lugar de la ocurrencia de la MU (de la infraestructura de la vía y de la DV de ambos trenes) se realizó en sentido contrario a la circulación del tren Pn 62422, desde el punto de detención final del extremo delantero de la HDV CZ-ČDC 92 54 2 753 761-6 (también denominada 753.761-6), continuando hacia la DV del tren Os 6051, hasta el punto de colisión y descarrilamiento de la TDV del tren Pn 62422 y, posteriormente, hasta su extremo.
 
-
 ## Página 15
 
-De la inspección del lugar de la MU se determinó, entre otros:
-El tren Pn 62422 entró en el apartadero Bezděčín desde el sentido procedente de la est. Dobrovice con la indicación que autorizaba la circulación señalizada por la señal principal (de entrada) (en adelante, señal de entrada) L, a través de la aguja n.º 1 en sentido de desviación hacia la derecha, contra la punta, hacia la SK n.º 2.
-En la SK n.º 1 entraba, en sentido opuesto, el tren Os 6051 procedente de la est. Mladá Boleslav hl. n., el cual no se detuvo ante la señal de salida S1, que señalizaba la indicación «Alto», rebasó su nivel y el punto de cambio de aguja de la aguja n.º 1 y colisionó lateralmente con el convoy del tren Pn 62422 circulante en sentido contrario.
-Como consecuencia de la colisión, descarrilaron 15 ejes de la TDV del tren Pn 62422, concretamente dos ejes del tramo «A».
-En el momento de la circulación del tren Os 6051 por la SK n.º 1, parte del tren Pn 62422 ya se encontraba en la SK contigua n.º 2, si bien la aguja n.º 1 seguía ocupada por la DV del tren Pn 62422 y el extremo del tren se encontraba en la TK Dobrovice – apartadero Bezděčín.
-En el pk 24,848, es decir, 53 m tras el inicio de la aguja n.º 1, en la cabeza del carril derecho del sentido de desviación se encontraba la 1.ª huella dejada por la circulación del borde de la rueda derecha del 1.er eje del tramo «A» de la 15.ª TDV del tren Pn 62422, sin dejar huellas de trepado sobre la cabeza del carril. A partir del pk 24,84935, sobre los elementos de fijación del lado interior del carril derecho y sobre los soportes de carril de hormigón (en adelante, traviesa), seguían huellas dejadas por la circulación de la rueda derecha descarrilada entre las pletinas del carril. Las huellas dejadas por la circulación de la rueda izquierda se encontraban en el exterior de la pletina izquierda del carril. Las huellas acreditaban que, durante la colisión, el tramo «A» de la 15.ª TDV del tren Pn 62422 se inclinó momentáneamente hacia la derecha, quedando las ruedas izquierdas de ambos ejes elevadas por encima de la cabeza del carril izquierdo del sentido de desviación de la aguja n.º 1, dejando de ser guiadas, tras lo cual el tramo «A» se apoyó sobre la superestructura ferroviaria a la izquierda del eje de la vía, descarrilando la TDV con ambos ejes del tramo «A». Las huellas dejadas por la circulación del tramo «A» en estado descarrilado (ruedas derechas entre las pletinas del carril y ruedas izquierdas en el exterior de la pletina izquierda del carril) terminaban en el pk 24,872, es decir, en el punto de detención final del 1.er bogie descarrilado del tramo «A» de la TDV CZ-SKOTR 23 54 4366 259-0 de la serie Laaeks911 (en adelante, 23 54 4366 259-0).
-## Lugar de la MU
-Fig. n.º 1: Esquema del lugar de la ocurrencia de la MU
-                Fuente: DI con utilización de la base cartográfica https://mapy.cz/
-La conductora del tren Os 6051 alegó en el lugar de la ocurrencia de la MU una avería en el sistema de freno de la DV del tren, ver puntos 3.1.7 y 4.1.1 de esta ZZ. Debido al daño en la DV del tren Os 6051, ver más abajo, y a la consiguiente imposibilidad de realizar el ensayo de freno, las puertas de acceso de la DV fueron precintadas por los inspectores de DI presentes.
-
+Del examen del lugar del accidente se constató, entre otros:
+El tren Pn 62422 entraba en la aguja de Bezděčín desde la dirección de la estación de Dobrovice con una señal que autorizaba la circulación anunciada por la señal principal (de entrada) (en adelante, señal de entrada) L, a través de la aguja n.º 1 en sentido contrario a la punta por el desvío a la derecha hacia la vía n.º 2. En la vía n.º 1 entraba en sentido contrario el tren Os 6051 procedente de la estación de Mladá Boleslav hl. n., que no se detuvo ante la señal de salida S1, que indicaba la señal «Alto», rebasó su nivel y el punto de aguja de la aguja n.º 1, y colisionó lateralmente con la composición del tren en sentido contrario Pn 62422. Como consecuencia de la colisión, se descarrilaron 15 vehículos del tren Pn 62422, concretamente dos ejes del bogie «A». En el momento en que el tren Os 6051 circulaba por la vía n.º 1, parte del tren Pn 62422 ya se encontraba en la vía adyacente n.º 2, mientras que la aguja n.º 1 seguía ocupada por el vehículo de cabeza del tren Pn 62422 y el final del tren se encontraba en la vía doble Dobrovice – aguja de Bezděčín.
+En el pk 24,848, es decir, a 53 m del comienzo de la aguja n.º 1, en la cabeza del riel derecho del desvío se encontraba la primera huella de la circulación del aro de la rueda derecha del primer eje del bogie «A» del 15.º vehículo del tren Pn 62422, sin dejar huellas de trepado sobre la cabeza del riel. A partir del pk 24,84935, seguían en los elementos de fijación del lado interior del riel derecho y en los soportes de riel de hormigón (en adelante, traviesa) huellas de la circulación de la rueda derecha descarrilada entre las bandas del riel. Las huellas de la circulación de la rueda izquierda se encontraban en el exterior de la banda del riel izquierdo. Las huellas acreditaban que, durante la colisión, el bogie «A» del 15.º vehículo del tren Pn 62422 se inclinó temporalmente a la derecha, quedando las ruedas izquierdas de ambos ejes elevadas por encima de la cabeza del riel izquierdo del desvío de la aguja n.º 1, dejando de ser guiadas, y a continuación el bogie «A» se asentó sobre la superestructura ferroviaria a la izquierda del eje de la vía, descarrilando el vehículo con ambos ejes del bogie «A». Las huellas de la circulación del bogie «A» en estado descarrilado (ruedas derechas entre las bandas del riel y ruedas izquierdas en el exterior de la banda del riel izquierdo) terminaban en el pk 24,872, es decir, en el lugar de la parada definitiva del primer bogie descarrilado del bogie «A» del vehículo CZ-SKOTR 23 54 4366 259-0 de la serie Laaeks911 (en adelante, 23 54 4366 259-0).
+## Lugar del accidente
+Fig. n.º 1: Esquema del lugar de producción del accidente 
+                Fuente: DI con utilización de base cartográfica https://mapy.cz/
+La maquinista del tren Os 6051 alegó en el lugar de producción del accidente una avería en el sistema de freno del vehículo de cabeza del tren, véanse los apartados 3.1.7 y 4.1.1 de la presente ZZ. Debido al daño en el vehículo de cabeza del tren Os 6051, véase más abajo, y a la imposibilidad de realizar la prueba de freno, las puertas de entrada del vehículo de cabeza fueron precintadas por los inspectores de DI presentes.
 
 ## Página 16
+
 
 De la inspección de la infraestructura se determinó, entre otros:
 •
@@ -462,8 +464,8 @@ La señal de entrada S no presentaba daño alguno, la visibilidad no obstruida d
 la señal de salida S1 del apartadero Bezděčín, tipo AŽD 70, en el sentido de circulación del tren Os 6051, estaba situada a la derecha, justo al lado de la SK n.º 1 en el pk 24,878. La señal era, por su construcción, una señal unipolar, de mástil, con tres lámparas de señal con parasol. Su mástil estaba marcado con una placa de identificación roja de forma rectangular que contenía el texto blanco «S1» y con una banda de identificación de franjas rojas y blancas de igual longitud.
 La señal de salida S1 no presentaba daño alguno, la visibilidad no obstruida de la indicación «Alto» era de 300 m, siendo el factor limitante la vegetación arbórea crecida a la derecha de la SK n.º 1, ver más abajo;
 
-
 ## Página 17
+
 
 •
 la bombilla utilizada de la luz roja de la señal de salida S1 era de filamento simple, de tipo aprobado para las luces de las lámparas de señal. En presencia del inspector de DI se midió en el zócalo de la bombilla un valor de tensión eléctrica de 10,55 V, y en la base de la señal se midió 10,88 V.
@@ -480,6 +482,7 @@ la superestructura ferroviaria SK del apartadero Bezděčín estaba formada por 
 la SK n.º 1 y 2 tenían una longitud constructiva de 749 m, la longitud útil de la SK n.º 1 era de 666 m, la longitud útil de la SK n.º 2 era de 667 m;
 
 ## Página 18
+
 
 •
 en la dirección de circulación del tren Os 6051 desde la señal de entrada S hasta el lugar de la colisión no se detectaron rastros del uso del dispositivo de rociado de arena HDV CZ-ČD 95 54 5 814 194-7 (en adelante también solo 814.194-7) del tren Os 6051;
@@ -509,8 +512,8 @@ de la inspección del HDV 814.194-7 se determinó, entre otros extremos:
 ◦la palanca del elemento de mando del freno directo estaba en la posición «B2» – frenado,
 ◦el conmutador de sentido de circulación estaba en la posición central (neutra),
 
-
 ## Página 19
+
 
 ◦el manómetro doble de presión del aire en el depósito principal de aire indicaba 0 bar y en la tubería principal también 0 bar,
 ◦el manómetro de presión del aire en los cilindros de freno indicaba 0 bar, véase el punto 3.1.7 de esta ZZ,
@@ -544,8 +547,8 @@ la dotación del tren estaba compuesta por la maquinista y un miembro de la trip
 •
 en el MU no se produjo la fuga de ningún fluido de explotación ni de sustancias perjudiciales para el medio ambiente;
 
-
 ## Página 20
+
 
 •
 a la maquinista del tren Os 6051 se le realizó, incluso antes de la llegada de los inspectores de la DI, por la PČR una prueba orientativa de presencia de alcohol en el aliento con el resultado «negativo».
@@ -575,8 +578,8 @@ Nota DI: en el marco de la inspección colegiada realizada tras la aparición de
 •
 los discos de los topes en el frontal (en la dirección de circulación) del 15.º TDV quedaron, como consecuencia de la colisión con el HDV del tren Os 6051 y el posterior descarrilamiento, encastrados tras los discos de los topes
 
-
 ## Página 21
+
 
 del trasero del 14.º TDV CZ-SKOTR 23 54 4366 136-0 de la serie Laaeks911 (en adelante solo TDV 23 54 4366 136-0), sin que este TDV presentara otros daños visibles;
 hito de la
@@ -592,8 +595,8 @@ temperatura del aire + 20 °C, período diurno, la visibilidad no estaba reducid
 Datos geográficos:
 la SK n.º 1 de la aguja de Bezděčín en la dirección de circulación del tren Os 6051 discurría en arco a la derecha hasta el pk 24,958 y a continuación en línea recta hasta el lugar de aparición del MU en el pk 24,878, véase el punto 3.1.8 de esta ZZ. A la derecha de la SK n.º 1, en la dirección de circulación del tren Os 6051, había vegetación leñosa enraizada de forma intermitente en el tramo desde el edificio tecnológico con DK hasta el brazo del curso de agua natural Dobrovka, situado a una distancia de 275 m antes de la señal de salida S1, que limitaba la visibilidad de las señales (300 m), de por sí adecuada, de la señal de salida S1. El sol daba ligeramente a la espalda de la maquinista del tren Os 6051 con una elevación de 26,78°. Los datos geográficos no tuvieron ninguna influencia en la aparición del MU.
 
-
 ## Página 22
+
 
 En el lugar de la aparición del MU no se realizaron, inmediatamente antes de su aparición, por el propietario, el explotador de la vía ni por otros sujetos, ninguna obra de reparación ni de mantenimiento. La explotación en el lugar de la aparición del MU y sus alrededores se desarrollaba en régimen normal.
 ### 3.1.4 Fallecidos, heridos y daños materiales
@@ -642,6 +645,7 @@ testigo 2, viajero en el tren Os 6051.
 
 ## Página 23
 
+
 Entidades implicadas:
 El propietario de la vía férrea, categoría estatal, Nymburk hl. n. – Mladá Boleslav hl. n., 
 era la República Checa. El derecho a administrar el bien del Estado lo ejercía SŽ, con domicilio 
@@ -685,8 +689,8 @@ la cabina del maquinista, cuya configuración corresponde a la del HDV. Las cabi
 de conducción ergonómicamente dispuestos permiten al maquinista observar sin interrupciones 
 la vía y las señales, y conducir el DV con facilidad.
 
-
 ## Página 24
+
 
 Fig. 4: Imagen ilustrativa de la composición del tren Os 6051 formada por una unidad motorizada de la serie 814
 Fuente: DI utilizando un plano de serie de la empresa ŠKODA PARS, a. s.
@@ -719,24 +723,21 @@ El tirador (botón de mando) del freno de emergencia del DV de las unidades moto
 serie 814 estaba provisto de precinto, de conformidad con el art. 4, Parte I, del Anexo 3 del 
 decreto nº 173/1995 Sb., véase también Fig. 5, puntos 4.2.6 y 6 de esta ZZ.
 
-
 ## Página 25
 
-Fig. 5: Vista del puesto de conducción y del pupitre de mando del maquinista del HDV de la serie 814 y vistas detalladas del 
-tirador (recorte arriba a la derecha) y de la compuerta del freno de emergencia AK6 (recorte abajo a la derecha, tras extraer la tapa)
+Fig. n.º 5: Vista de la posición y del pupitre de mando del maquinista del rodad motor de la serie 814 y vistas detalladas del 
+desenganche (recorte arriba a la derecha) y de la trampilla del freno de rescate AK6 (recorte abajo a la derecha, tras la extracción de la puerta)
 Fuente: DI
-En caso de utilizarse el freno de emergencia, el efecto de frenado sería el mismo que al aplicar 
-el frenado de acción rápida, es decir, el frenado operativo completo, pero con un tiempo de 
-alcanzar el valor máximo del efecto de frenado más corto. En otras palabras, al utilizarse el 
-freno de emergencia se produce una rápida evacuación de aire de la tubería principal, lo que 
-provoca el frenado de acción rápida.
-El efecto de frenado se conseguía al utilizar el freno neumático de la unidad motorizada de 
-forma mecánica, mediante la fricción de las balatas de freno sobre la superficie de rodadura 
-de las ruedas del bogie, estando todos los bogies frenados por las zapatas de freno de balata 
-colocadas a ambos lados, véase más abajo.
-
+En caso de uso del freno de rescate, el efecto de frenado sería el mismo que el de la aplicación del frenado de acción rápida, 
+respecto del frenado operativo completo, pero con un tiempo de alcanzar el valor máximo del efecto de frenado más corto. En otras palabras, con el uso del freno de rescate se produce una rápida 
+liberación de aire de la tubería principal, lo que provoca el frenado de acción rápida.
+El efecto de frenado se alcanzó con el uso del freno neumático de la unidad automotora de forma 
+mecánica, es decir, por fricción de las balatas de freno contra la superficie de rodadura de las ruedas del bogie, cuando todos los 
+bogies fueron frenados mediante las balatas de freno colocadas bilateralmente, 
+véase más abajo.
 
 ## Página 26
+
 
 El HDV 814.194-7 estaba, en el momento de producirse el MU, equipado con un dispositivo de 
 registro automático de datos – RR con registro electrónico de datos UniControls Tramex RExx, 
@@ -810,10 +811,10 @@ principal desde el valor nominal de 4,975 bar hasta el valor de
 2,975 bar. El tren, circulando a una velocidad de 73 km·h-1, se 
 encontraba con su extremo delantero a una distancia de 196 m antes 
 de la señal de salida S1 y 224 m antes del punto de colisión.
-1 s después (a las 16:19:01 h) se registró la presurización de los 
-
+1 s después (a las 16:19:01 h) se registró la presurización de los
 
 ## Página 27
+
 
 cilindros de freno con una presión superior a 0,2 bar y la aplicación 
 del freno de acción directa. El tren, circulando a una velocidad de 
@@ -882,6 +883,7 @@ no se superó la velocidad máxima permitida del tramo examinado;
 
 ## Página 28
 
+
 •
 el dispositivo de registro, de acuerdo con la documentación aprobada, no registraba
 la variable complementaria – uso del dispositivo de arenado de HDV;
@@ -892,8 +894,8 @@ En el punto de cambio de la pendiente longitudinal de la vía, a una velocidad d
 Para que el tren compuesto por una unidad motora de dos cuerpos de la serie 814 circulando de forma independiente en dirección Mladá Boleslav hl. n. → aguja Bezděčín desde el punto de cambio de pendiente de la vía en el pk 25,910, es decir, desde una distancia de 210 m antes de la señal de entrada S de la aguja Bezděčín, y a continuación por la vía de la cabeza de vías de Mladá Boleslav, la cabeza de vías y la SK n.º 1 de la aguja Bezděčín (después del pk 25,074, donde la maquinista del tren Os 6051 aplicó el frenado de acción rápida), se desplazara en el modo ARR a una velocidad constante de 75 km·h-1, es necesario que el HDV desarrolle permanentemente fuerza de tracción, en otras palabras, que el maquinista tenga la palanca de mando combinada en la posición «J» – marcha. Al desplazar la palanca de mando combinada a la posición «V» – inercia, la velocidad de marcha del tren disminuye de forma continua.
 En el contexto de lo anteriormente expuesto y en relación con la declaración de la maquinista del tren Os 6051, que alegó en el lugar de la MU una avería en el aparato de freno del DV del tren Os 6051, la DI, en colaboración con el VÚŽ, realizó mediciones de la presión de los zapatas de freno sobre las superficies de rodadura de las ruedas en el HDV y ŘDV participantes en la MU, en todas las ruedas de los bogies de un solo eje de esta unidad motora de dos cuerpos, midiendo y registrando la presión del aire en la tubería principal y la presión del aire en los correspondientes cilindros de freno. Asimismo, se midió y registró el tiempo de llenado de los cilindros de freno. A continuación, el inspector de la DI midió y registró, de forma independiente al VÚŽ, la carrera de los pistones de los cilindros de freno. El objetivo de estas mediciones fue, entre otros, determinar la presión real de los zapatas de freno sobre las superficies de rodadura de las ruedas, el posterior cálculo de la eficiencia estática
 
-
 ## Página 29
+
 
 y dinámica del sistema de transmisión de fuerzas (freno de palanca y de varilla) en la unidad motora participante y la comparación de los valores de eficiencias dinámicas con los valores establecidos en la norma UIC 544-1.
 Las pruebas (mediciones) se realizaron en un nave, la temperatura del aire en el interior de la nave osciló en el rango de + 16 °C a + 18 °C, es decir, a una temperatura similar a la que había en el momento de la ocurrencia de la MU (+ 20 °C).
@@ -904,8 +906,8 @@ Fuente: DI
 Las evoluciones temporales de las variables medidas se digitalizaron y registraron mediante sistemas de medición y tarjetas de medición. Su posterior procesamiento y evaluación se realizó en un ordenador con el programa DEWESoft.
 En el marco de cada medición, repetida en varias ocasiones, se midieron y posteriormente se determinaron mediante cálculo (media aritmética) los siguientes valores de las magnitudes físicas medidas:
 
-
 ## Página 30
+
 
 | Frenado de acción rápida |  |  |  |  |
 | Vehículo ferroviario | Eje n.º | Presión del aire en el cilindro de freno pC [bar] | Tiempo de llenado del cilindro de freno t [s] | Fuerza media de presión por cada zapata de freno F [kN] |
@@ -930,8 +932,8 @@ pC es la presión del aire en el cilindro de freno, pC = 3,8 bar = 0,38 MPa.
 2. resistencias de la varilla Oz = 1 780 N.
 3. fuerza efectiva sobre el vástago Z=Zu−OZ [N].
 
-
 ## Página 31
+
 
 4. presión total teórica de todas las zapatas de un eje Fteorcelk=i⋅Z⋅η [N].
 donde:
@@ -966,6 +968,7 @@ las desviaciones medidas – los valores de la presión del aire en los cilindro
 la eficiencia dinámica del sistema de transmisión de fuerzas ηdyn correspondía a la eficiencia ηV = 0,9 utilizada (considerada) por el fabricante del DV de la unidad motora en el cálculo del freno de aire.
 
 ## Página 32
+
 
 Tren:
 Pn 62422
@@ -1078,8 +1081,8 @@ El TDV estaba destinado al transporte de automóviles cuyo peso por rueda (conve
 fuerza de gravedad por rueda) no superara el valor de 4 kN y que, en caso de ser
 transportados en la plataforma superior, no invadieran el perfil cinemático del vagón.
 
-
 ## Página 33
+
 
 El HDV 753.761-6 del tren Pn 62422 estaba, en el momento de producirse la MU, equipado
 con un dispositivo de registro automático de datos – RR con registro electrónico de datos
@@ -1147,8 +1150,8 @@ de aire en la tubería principal de 4,775 bar. El tren se encontraba con el fren
 a una distancia de 45 m tras la señal de entrada L
 de la estación de maniobras Bezděčín y 19 m antes de la ZV n.º 1 de la estación de maniobras Bezděčín;
 
-
 ## Página 34
+
 
 •
 a las 16:17:48 h
@@ -1215,60 +1218,41 @@ a las 16:19:21 h
 se registró, a una velocidad de 10 km·h-1, la disminución de la presión de aire
 en la tubería principal desde el valor nominal de 4,775 bar al valor
 
-
 ## Página 35
 
-|  | 3 175 bar provocada por la acción del adaptador locomotor XX48 sobre , la base de la funcionalidad VNPN y la orden de parada emitida; |
-| • a las 16:19:27 h | el tren se detuvo en la posición final tras la MU después de recorrer una distancia de 9 m desde el momento de reacción del adaptador locomotor XX48 y a , una distancia de 270 m antes de la señal de salida L2 de la estación de maniobras Bezděčín; |
-| • la parte móvil del freno automático de tren del HDV 753 .761 -6 estaba activada y era operada periódicamente por el maquinista en todo el tramo examinado; |  |
-| • la velocidad máxima permitida del tren no fue superada en el tramo examinado . |  |
-La investigación de la MU en cuestión no detectó defectos en el estado técnico de los DV
-participantes en la MU que pudieran haber influido en su producción, véase también el
-punto 4.2.6 de esta ZZ.
+|  | 3 175 bar provocada por la actividad del adaptador de locomotora XX48, en base a la funcionalidad del VNPN y a la orden de parada emitida; |
+| • a las 16:19:27 h | el tren se detuvo en la posición final tras la maniobra de unidad múltiple, después de recorrer una distancia de 9 m desde el momento de reacción del adaptador de locomotora XX48, y ello a una distancia de 270 m antes de la señal de salida L2 de la aguja de Bezděčín; |
+| • la parte móvil del protector de tren HDV 753.761-6 fue activada y operada periódicamente por el maquinista en todo el tramo examinado; |  |
+| • la velocidad máxima permitida del tren no fue superada en el tramo examinado. |  |
+De la investigación de la citada maniobra de unidad múltiple no se detectaron defectos en el estado técnico de los vehículos de tracción participantes en la MU que pudieran haber influido en su origen, véase también el punto 4.2.6 de la presente ZZ.
 ### 3.1.8 Descripción de las partes correspondientes de la infraestructura y del sistema de seguridad
-La TK estación de maniobras Bezděčín – Mladá Boleslav hl. n. estaba, en el sentido de
-circulación del tren Os 6051, trazada:
+La vía TK de la aguja de Bezděčín – Mladá Boleslav hl. n. en el sentido de circulación del tren Os 6051 discurría:
 •
-desde el km 26,617 hasta el km 26,479 (la posición del semáforo de aproximación
-independiente PřS se encontraba en el km 26,505) en una curva derecha de radio
-623 m, con dos transiciones, en pendiente de 4,29 ‰, sobre un terraplén bajo;
+desde el pk 26,617 hasta el pk 26,479 (la posición de la preseñal independiente PřS se encontraba en el pk 26,505) en un arco derecho de radio 623 m, con dos transiciones, en pendiente de 4,29 ‰, sobre un terraplén bajo;
 •
-desde el km 26,479 hasta el km 26,438 en tramo recto, en pendiente de 4,29 ‰, sobre
-un terraplén bajo;
+desde el pk 26,479 hasta el pk 26,438 en tramo recto, en pendiente de 4,29 ‰, sobre un terraplén bajo;
 •
-desde el km 26,438 hasta el km 26,403 en una transición de curva izquierda de radio
-1 200 m, en pendiente de 4,29 ‰, sobre un terraplén bajo;
+desde el pk 26,438 hasta el pk 26,403 en una transición de arco izquierdo de radio 1 200 m, en pendiente de 4,29 ‰, sobre un terraplén bajo;
 •
-desde el km 26,403 hasta el km 26,132 en una curva izquierda de radio 1 200 m, en
-pendiente de 4,29 ‰, sobre un terraplén bajo;
+desde el pk 26,403 hasta el pk 26,132 en un arco izquierdo de radio 1 200 m, en pendiente de 4,29 ‰, sobre un terraplén bajo;
 •
-desde el km 26,132 hasta el km 25,911 en una curva izquierda de radio 1 200 m, en
-pendiente de 0,01 ‰, sobre un terraplén bajo;
+desde el pk 26,132 hasta el pk 25,911 en un arco izquierdo de radio 1 200 m, en pendiente de 0,01 ‰, sobre un terraplén bajo;
 •
-desde el km 25,911 hasta el km 25,910 en una transición de curva izquierda de radio
-1 200 m, en pendiente de 0,01 ‰, sobre un terraplén bajo;
+desde el pk 25,911 hasta el pk 25,910 en una transición de arco izquierdo de radio 1 200 m, en pendiente de 0,01 ‰, sobre un terraplén bajo;
 •
-desde el km 25,910 hasta el km 25,876 en una transición de curva izquierda de radio
-1 200 m, en pendiente de 5,56 ‰, sobre un terraplén bajo;
+desde el pk 25,910 hasta el pk 25,876 en una transición de arco izquierdo de radio 1 200 m, en pendiente de 5,56 ‰, sobre un terraplén bajo;
 •
-desde el km 25,876 hasta la ŽP P2805 en el km 25,852 en tramo recto, en pendiente
-de 5,56 ‰, sobre un terraplén bajo, con transición suave al nivel del terreno
-circundante en la inmediata proximidad de la ŽP;
+desde el pk 25,876 hasta el PZ P2805 en el pk 25,852 en tramo recto, en pendiente de 5,56 ‰, sobre un terraplén bajo, con transición gradual al nivel del terreno circundante en las inmediaciones del PZ;
 •
-desde la ŽP P2805 en el km 25,852 hasta el km 25,700 (hasta el nivel de la señal de
-entrada S) en tramo recto, en pendiente de 5,56 ‰, al nivel del terreno circundante
-en la inmediata proximidad de la ŽP y posteriormente sobre un terraplén bajo.
-La vía del extremo de Mladá Boleslav, el extremo, la SK n.º 1 y la vía del extremo de
-Dobrovice de la estación de maniobras Bezděčín estaban, en el sentido de circulación del
-tren Os 6051, trazadas:
+desde el PZ P2805 en el pk 25,852 hasta el pk 25,700 (hasta el nivel de la señal de entrada S) en tramo recto, en pendiente de 5,56 ‰, a nivel del terreno circundante en las inmediaciones del PZ y, a continuación, sobre un terraplén bajo.
+La vía de la cabeza de vías de Mladá Boleslav, la cabeza de vías, la vía SK n.º 1 y la vía de la cabeza de vías de Dobrovice de la aguja de Bezděčín discurría en el sentido de circulación del tren Os 6051:
 •
-desde el km 25,700 hasta el km 25,551 en tramo recto (a través del desvío n.º 2 en el
-km 25,630), en pendiente de 5,56 ‰, al nivel del terreno circundante;
+desde el pk 25,700 hasta el pk 25,551 en tramo recto (a través de la aguja n.º 2 en el pk 25,630), en pendiente de 5,56 ‰, a nivel del terreno circundante;
 •
-desde el km 25,551 hasta el km 25,533 en tramo recto, en pendiente de 4,2 ‰, al nivel
-del terreno circundante;
+desde el pk 25,551 hasta el pk 25,533 en tramo recto, en pendiente de 4,2 ‰, a nivel del terreno circundante;
 
 ## Página 36
+
 
 •
 del km 25,533 al km 25,473 en transición de curva derecha de radio 1 960 m, 
@@ -1307,8 +1291,8 @@ otros, se concluye:
 | • a las 16:06:44 h | mediante operación normal de la SZZ de la estación de enlace Bezděčín se introdujeron las operaciones para la circulación (paso) del tren Os 6051 desde la vía de estacionamiento n.º 1 de la estación de enlace Bezděčín desde la señal de salida S1 a través del desvío n.º 1 hasta la vía de circulación Dobrovice – estación de enlace Bezděčín y desde la vía de circulación estación de enlace Bezděčín – Mladá Boleslav est. pr. desde la señal de entrada S a través del desvío n.º 2 hasta la vía de estacionamiento n.º 1 . , . , . de la estación de enlace Bezděčín; |
 | • a las 16:06:46 h | tras el cierre de la ruta de tren realizado por la acción automática de la SZZ, se estableció la ruta de tren para la circulación (entrada) del tren Os 6051 desde la vía de circulación estación de enlace Bezděčín – Mladá Boleslav est. pr. . desde la señal de entrada S hasta la vía de estacionamiento n.º 1 de la estación de enlace Bezděčín; . |
 
-
 ## Página 37
+
 
 •
 a las 16:06:48 h
@@ -1369,72 +1353,39 @@ señal de entrada S de la estación de enlace Bezděčín a la señal «Aviso»,
 del tren Os 6051 desde la vía de estacionamiento n.º 1 de la estación de enlace 
 Bezděčín hasta la vía de circulación Dobrovice – estación de enlace Bezděčín;
 
-
 ## Página 38
 
 •
-a las 16:12:01 h
-mediante operación normal de la SZZ de la estación Dobrovice se introdujeron las 
-operaciones para la circulación (paso) del tren Pn 62422 desde la vía de estacionamiento 
-n.º 1 desde la señal de salida L1 a través de los desvíos n.º 9 y 11 hasta la vía de 
-circulación Dobrovice – estación de enlace Bezděčín y desde la vía de circulación 
-Luštěnice-Újezd – Dobrovice desde la señal de entrada L a través de los desvíos n.º 1 
-y 2 hasta la vía de estacionamiento n.º 1 de la estación Dobrovice;
+v 16:12:01 h
+mediante operación normal del SZZ de la estación de Dobrovice se introdujeron las órdenes para la circulación (paso) del tren Pn 62422 desde la vía de clasificación n.º 1 desde la señal de salida L1 a través de los desvíos n.º 9 y 11 en el TK Dobrovice – desvío de Bezděčín y desde el TK Luštěnice-Újezd – Dobrovice desde la señal de entrada L a través de los desvíos n.º 1 y 2 en la vía de clasificación n.º 1 de la estación de Dobrovice;
 •
-a las 16:12:02 h
-se cambió el estado (inversión) de la autorización de vía TZZ Dobrovice – estación 
-de enlace Bezděčín (concesión automática de autorización de vía), que permitía la 
-circulación de DV en el sentido estación de enlace Bezděčín → Dobrovice, para la 
-circulación de DV en el sentido contrario, es decir, Dobrovice → estación de enlace 
-Bezděčín;
+v 16:12:02 h
+se modificó el estado (inversión) de la autorización de vía TZZ Dobrovice – desvío de Bezděčín (concesión automática de la autorización de vía), que permitía la circulación de DV en el sentido desvío de Bezděčín → Dobrovice, para la circulación de DV en el sentido contrario, es decir, Dobrovice → desvío de Bezděčín;
 •
-a las 16:12:04 h
-mediante operación normal de la SZZ de la estación de enlace Bezděčín se 
-introdujeron las operaciones para la circulación (entrada) del tren Pn 62422 desde la 
-vía de circulación Dobrovice – estación de enlace Bezděčín desde la señal de entrada L 
-a través del desvío n.º 1 hasta la vía de estacionamiento n.º 2 de la estación de enlace 
-Bezděčín;
+v 16:12:04 h
+mediante operación normal del SZZ del desvío de Bezděčín se introdujeron las órdenes para la circulación (entrada) del tren Pn 62422 desde el TK Dobrovice – desvío de Bezděčín desde la señal de entrada L a través del desvío n.º 1 en la vía de clasificación n.º 2 del desvío de Bezděčín;
 •
-a las 16:12:05 h
-tras el cierre de la ruta de tren realizado por la acción automática de la SZZ de la 
-estación Dobrovice, se estableció la ruta de tren para la circulación (salida) del tren 
-Pn 62422 desde la vía de estacionamiento n.º 1 desde la señal de salida L1 de la 
-estación Dobrovice hasta la vía de circulación Dobrovice – estación de enlace Bezděčín.
-2 s después (a las 16:12:07 h) la señal de salida L1 comenzó a emitir la señal «Vía libre»;
+v 16:12:05 h
+tras la colocación de la ruta de tren realizada por la acción automática del SZZ de la estación de Dobrovice, se estableció la ruta de tren para la circulación (salida) del tren Pn 62422 desde la vía de clasificación n.º 1 desde la señal de salida L1 de la estación de Dobrovice en el TK Dobrovice – desvío de Bezděčín.
+2 s después (a las 16:12:07 h) la señal de salida L1 comenzó a indicar la señal «Vía libre»;
 •
-a las 16:12:14 h
-tras el cierre de la ruta de tren realizado por la acción automática de la SZZ de la 
-estación Dobrovice, se estableció la ruta de tren para la circulación (entrada) del tren 
-Pn 62422 desde la vía de circulación Luštěnice-Újezd – Dobrovice desde la señal de 
-entrada L hasta la vía de estacionamiento n.º 1 de la estación Dobrovice.
-1 s después (a las 16:12:15 h) la señal de entrada L comenzó a emitir la señal «Vía libre»;
+v 16:12:14 h
+tras la colocación de la ruta de tren realizada por la acción automática del SZZ de la estación de Dobrovice, se estableció la ruta de tren para la circulación (entrada) del tren Pn 62422 desde el TK Luštěnice-Újezd – Dobrovice desde la señal de entrada L en la vía de clasificación n.º 1 de la estación de Dobrovice.
+1 s después (a las 16:12:15 h) la señal de entrada L comenzó a indicar la señal «Vía libre»;
 •
-a las 16:12:16 h
-el tren Pn 62422 liberó la vía de la cabecera de Dobrovice de la estación Luštěnice-
-Újezd y se encontraba íntegramente en el KÚ «T1_LD».
-Nota DI: en este momento el último TDV del tren Pn 62422 pasó el nivel de la 
-señal de entrada S de la estación Luštěnice-Újezd, válida para la circulación de trenes 
-en sentido contrario. Dado que el tren Pn 62422 tenía una longitud de 593 m, puede 
-constatarse que el frontal del HDV se encontraba en el km 18,333, es decir, a 1 665 m 
-de la preseñal PřL de la estación Dobrovice situada en el km 19,998;
+v 16:12:16 h
+el tren Pn 62422 liberó la vía de la cabecera de Dobrovice de la estación de Luštěnice-Újezd y se encontraba íntegramente en la KÚ «T1_LD».
+Nota DI: en este momento, el último TDV del tren Pn 62422 pasó el nivel de la señal de entrada S de la estación de Luštěnice-Újezd, válida para la circulación de trenes en sentido contrario. Dado que el tren Pn 62422 tenía una longitud de 593 m, puede constatarse que el extremo delantero del HDV se encontraba en el km 18,333, es decir, a 1 665 m de la preseñal PřL de la estación de Dobrovice situada en el km 19,998;
 •
-a las 16:12:17 h
-tras el cierre de la ruta de tren realizado por la acción automática de la SZZ de la 
-estación de enlace Bezděčín, se estableció la ruta de tren para la circulación (entrada) 
-del tren Pn 62422 desde la vía de circulación Dobrovice – estación de enlace Bezděčín 
-desde la señal de entrada L hasta la vía de estacionamiento n.º 2 de la estación de 
-enlace Bezděčín.
-1 s después (a las 16:12:18 h) la señal de entrada L comenzó a emitir la señal 
-«Velocidad 60 km/h y aviso»;
+v 16:12:17 h
+tras la colocación de la ruta de tren realizada por la acción automática del SZZ del desvío de Bezděčín, se estableció la ruta de tren para la circulación (entrada) del tren Pn 62422 desde el TK Dobrovice – desvío de Bezděčín desde la señal de entrada L en la vía de clasificación n.º 2 del desvío de Bezděčín.
+1 s después (a las 16:12:18 h) la señal de entrada L comenzó a indicar la señal «Velocidad 60 km/h y aviso»;
 •
-a las 16:12:53 h
-mediante operación normal de la SZZ de la estación Luštěnice-Újezd se introdujeron 
-las operaciones para la circulación (entrada) del tren R 1208 desde la vía de circulación 
-Čachovice – Luštěnice-Újezd desde la señal de entrada L a través de los desvíos n.º 1 
-y 2 hasta la vía de estacionamiento n.º 1 de la estación Luštěnice-Újezd;
-
+v 16:12:53 h
+mediante operación normal del SZZ de la estación de Luštěnice-Újezd se introdujeron las órdenes para la circulación (entrada) del tren R 1208 desde el TK Čachovice – Luštěnice-Újezd desde la señal de entrada L a través de los desvíos n.º 1 y 2 en la vía de clasificación n.º 1 de la estación de Luštěnice-Újezd;
 
 ## Página 39
+
 
 •
 a las 16:12:56 h
@@ -1514,6 +1465,7 @@ el tren Os 6051 ocupó el KÚ «T3_BM», es decir, el tercer KÚ de aproximació
 
 ## Página 40
 
+
 del tramo intermedio de la aguja de enlace Bezděčín – Mladá Boleslav hl. n.,
 con el contador de ejes „T3 BE-MB“;
 •
@@ -1558,8 +1510,8 @@ el tren Pn 62422 entró en la aguja de enlace Bezděčín, es decir, pasó más 
 a las 16:17:42 h
 el tren Pn 62422 ocupó el CU „V1_B“ (aguja n.º 1) de la aguja de enlace Bezděčín, es decir, entró en la cabeza de Dobrovice;
 
-
 ## Página 41
+
 
 •
 a las 16:17:51 h
@@ -1606,8 +1558,8 @@ de los datos registrados se deduce claramente que:
 ▪desde las 16:06:53 h hasta las 16:11:57 h la señal „Volno“ (Vía libre),
 ### ▪desde las 16:11:57 h hasta las 16:18:30 h, es decir, hasta el momento en que el tren Os 6051 entró en
 
-
 ## Página 42
+
 
 la aguja de enlace Bezděčín, es decir, pasó más allá del nivel de la señal de entrada S, la señal
 ### „Výstraha“ (Aviso).
@@ -1648,39 +1600,32 @@ R 1208.
 Nota DI: se trataba del tren R 1208 (Nymburk hl. n. – Mladá Boleslav hl. n.)
 del transportista ARRIVA vlaky, s. r. o.,
 
-
 ## Página 43
 
-◦no informó al maquinista del tren Pn 62422 ni al maquinista del tren Os 6051 del cruce en la aguja de enlace Bezděčín,
+◦al maquinista del tren Pn 62422 ni al maquinista del tren Os 6051 sobre el cruce en la aguja Bezděčín,
 ◦realiza su trabajo según su leal saber y entender;
 •
 maquinista del tren Os 6051
-  – Acta con el empleado, Registro oficial de la explicación presentada a la PČR y Registro oficial de complemento de la explicación presentada a la PČR:
+  – Acta con el empleado, Registro oficial de la declaración prestada ante la PČR y Registro oficial de la ampliación de la declaración prestada ante la PČR:
 ◦trabaja como maquinista desde febrero de 2020,
-◦el turno, dentro del cual se produjo la citada MU, comenzó el 14. 9. 2023
-a las 6:52 h, descansada física y psíquicamente,
-◦según la maquinista, que le entregó la unidad de tracción (compuesta por el HDV 814.194-7
-y el ŘDV 914.194-6) en la est. Nymburk hl. n. en la SK n.º 18, el estado de la unidad de tracción era estándar, sin requerimiento de reparación,
-◦tras la toma de mando del HDV con el tren Os 8503 continuó hacia la est. Poděbrady,
-◦hasta el momento de la producción de la MU el turno transcurrió de forma estándar y sin incidencias,
-◦la marcha del tren Os 6051 se realizó en régimen ARR,
-◦antes de la salida de la est. Mladá Boleslav hl. n. entró en la cabina del maquinista el revisor y colocó en la mesa una taza de café, después se dirigió al espacio para pasajeros,
-◦tras la salida de la est. Mladá Boleslav hl. n. fue aumentando progresivamente la velocidad del tren hasta
-75 km·h-1 y antes de la previa PřS de la señal de entrada S de la aguja de enlace Bezděčín
-seleccionó la marcha por inercia.
-Nota DI: de los datos registrados por el RR del HDV del tren Os 6051 y de los resultados de las pruebas de verificación se deduce claramente que hasta la hora 16:18:55 h, cuando el frente del HDV se encontraba en la SK n.º 1 de la aguja de enlace Bezděčín a una distancia de 300 m antes de la señal de salida S1, es decir, también durante la marcha del tren „antes de la previa PřS“, la palanca de conducción combinada estaba en la posición „J“ – marcha, ver punto 3.1.7 de esta ZZ,
-◦por la previa independiente PřS de la señal de entrada S de la aguja de enlace Bezděčín se indicaba la señal „Výstraha“ (Aviso).
-Nota DI: según la tabla de cierre del enclavamiento eléctrico (electrónico) de la aguja de enlace Bezděčín y de las dependencias derivadas de la misma, en dicho momento no podía indicarse por la previa independiente PřS de la señal de entrada S de la aguja de enlace Bezděčín la señal „Výstraha“ (Aviso), sino que se indicaba la señal „Volno“ (Vía libre), ver puntos 3.1.7 y 3.1.8 de esta ZZ,
-◦aproximadamente a esta hora entró en la cabina del maquinista el revisor, bebió café
-y volvió de nuevo al espacio para pasajeros.
-Nota DI: lo anterior no corresponde con la declaración del revisor del tren Os 6051,
-ver más abajo,
-◦mediante la manipulación de la palanca de conducción combinada activó el frenado en servicio del tren.
-### Puesto que el efecto de frenado no se produjo y tampoco hubo una caída de la presión
-en la tubería principal, intentó mediante la manipulación repetida de la palanca de conducción combinada reducir la presión en la tubería principal.
-Nota DI: de los datos registrados por el RR del HDV del tren Os 6051 y de los resultados de las pruebas de verificación se deduce que durante la marcha desde la previa PřS de la señal de entrada y en la aguja de enlace Bezděčín la palanca de conducción combinada hasta la hora 16:18:55 h, cuando el frente del HDV se encontraba en la SK n.º 1 de la aguja de enlace Bezděčín a una distancia de 300 m
+◦el turno en el que se produjo la MU objeto de estudio comenzó el 14. 9. 2023 a las 6:52 h, descansada física y psicológicamente,
+◦según el maquinista que le entregó la unidad de tracción (compuesta por HDV 814.194-7 y ŘDV 914.194-6) en la est. Nymburk hl. n. en la vía SK n.º 18, el estado de la unidad de tracción era estándar, sin necesidad de reparación,
+◦tras hacerse cargo de la conducción del HDV con el tren Os 8503, continuó hasta la est. Poděbrady,
+◦hasta el momento de producción de la MU, el turno transcurrió de forma estándar y sin incidencias,
+◦la circulación del tren Os 6051 se realizaba en modo ARR,
+◦antes de la salida de la est. Mladá Boleslav hl. n., el jefe de tren entró en la cabina del maquinista y colocó en la mesa una taza de café, tras lo cual se dirigió al espacio para pasajeros,
+◦tras la salida de la est. Mladá Boleslav hl. n., incrementó progresivamente la velocidad del tren hasta 75 km·h-1 y, antes del preaviso PřS de la señal de entrada S de la aguja Bezděčín, seleccionó la marcha por vía libre.
+Nota DI: de los datos registrados por el RR del HDV del tren Os 6051 y de los resultados de las pruebas de verificación se desprende de forma inequívoca que hasta las 16:18:55 h, momento en el que el frontal del HDV se encontraba en la vía SK n.º 1 de la aguja Bezděčín a una distancia de 300 m de la señal de salida S1, es decir, también durante la circulación del tren «antes del preaviso PřS», la palanca de conducción combinada se encontraba en la posición «J» – marcha, ver punto 3.1.7 de la presente ZZ,
+◦mediante el preaviso independiente PřS de la señal de entrada S de la aguja Bezděčín se señalizaba la indicación «Aviso».
+Nota DI: según la tabla de enclavamientos del enclavamiento eléctrico (electrónico) de la aguja Bezděčín y de las dependencias que de ella se derivan, en dicho momento no podía señalizarse mediante el preaviso independiente PřS de la señal de entrada S de la aguja Bezděčín la indicación «Aviso», sino que se señalizaba la indicación «Vía libre», ver puntos 3.1.7 y 3.1.8 de la presente ZZ,
+◦aproximadamente en ese momento, el jefe de tren entró en la cabina del maquinista, bebió café y volvió al espacio para pasajeros.
+Nota DI: lo anterior no corresponde con la declaración del jefe de tren del tren Os 6051, ver más abajo,
+◦mediante la manipulación de la palanca de conducción combinada activó el freno de servicio del tren.
+### Dado que el efecto de frenado no se produjo y tampoco hubo una caída de presión en la tubería principal, intentó mediante la manipulación repetida de la palanca de conducción combinada reducir la presión en la tubería principal.
+Nota DI: de los datos registrados por el RR del HDV del tren Os 6051 y de los resultados de las pruebas de verificación se desprende que durante la circulación desde el preaviso PřS de la señal de entrada hasta la aguja Bezděčín, la palanca de conducción combinada permaneció hasta las 16:18:55 h, momento en el que el frontal del HDV se encontraba en la vía SK n.º 1 de la aguja Bezděčín a una distancia de 300 m
 
 ## Página 44
+
 
 delante de la señal de salida S1, se encontraba en la posición «J» – marcha, ver punto 3.1.7
 de esta ZZ,
@@ -1739,8 +1684,8 @@ codificada «STOP»,
 ### preaviso independiente PřS de la estación de enlace de Bezděčín hasta la señal de
 ### entrada S, cuando constató la imposibilidad de
 
-
 ## Página 45
+
 
 reducir la presión del aire en la tubería principal mediante el frenado de servicio,
 ### no intentó detener el material rodante (DV) del tren activando el frenado de acción
@@ -1796,62 +1741,65 @@ según los hechos constatados durante la marcha hacia y en la estación de enlac
 Bezděčín, respondió: «Observaba la
 vía y no percibía lo que hacía el señor jefe de tren, nada me distraía
 
-
 ## Página 46
 
-en mi observación de la vía, solo me empezó a poner nerviosa la
-falta de funcionamiento del sistema de freno.»,
-◦confirmó sus declaraciones anteriores de que la unidad automotriz no reaccionó en
-absoluto a los primeros intentos de frenado, la velocidad empezó a reducirse mucho
-después y con un efecto mucho menor del que esperaba,
-◦considera que la reducción de velocidad registrada por el RR desde el valor de
-75 km·h-1, a una distancia de 300 m antes de la señal de salida S1 de la estación de
-enlace de Bezděčín, hasta el valor de 73 km·h-1 en un trayecto de 105 m durante 5 s,
-se produjo probablemente en respuesta a sus frenados repetidos,
-Nota DI: ver punto 3.1.7 de esta ZZ,
-◦lamenta la producción del MU, sin embargo no se siente culpable de la situación
-producida y considera que en su situación nadie se habría comportado de otra manera.
+v mi observación de la vía, solo me empezó a nervionar la inoperatividad 
+del sistema de frenado.",
+◦confirmó sus declaraciones anteriores de que la unidad motorizada no reaccionó 
+en absoluto a los primeros intentos de frenado, la velocidad comenzó a disminuir 
+mucho más tarde y con un efecto mucho menor del que esperaba,
+◦considera que la reducción de velocidad registrada por RR desde el valor de 
+75 km·h-1, a una distancia de 300 m antes de la señal de salida S1 de la 
+estación de enlace Bezděčín, hasta el valor de 73 km·h-1 en una distancia de 
+105 m durante 5 s, se produjo probablemente en respuesta a sus frenados 
+repetidos,
+Nota DI: véase el punto 3.1.7 de esta ZZ,
+◦lamenta la aparición de la MU, sin embargo no se siente culpable de la situación 
+surgida y considera que en su situación nadie se habría comportado de otra 
+manera.
 •
 maquinista del tren Pn 62422
-  – Acta con el empleado, Registro oficial de la declaración prestada PČR y Registro de la declaración prestada DI:
-◦inició el turno en el que se produjo el citado MU el día 14. 9. 2023
-a las 13:20 h en Nymburk,
-◦con el tren Pn 62422 entraba en la estación de enlace de Bezděčín con la señal
-«Velocidad 60 km/h y aviso»
-indicada por la señal de entrada L, reduciendo la velocidad del tren debido al cruce
-previsto con el tren que circulaba en sentido contrario,
-◦entraba en la estación de enlace de Bezděčín a una velocidad bastante baja para
-detenerse con seguridad antes de la señal de salida L2, que prohibía la marcha del tren,
-y a la vez para no tener que volver a arrancar tras la entrada del tren que circulaba en
-sentido contrario en la estación de enlace y la establecimiento de la vía para su tren,
-◦cuando se encontraba con el frente del tren a unos 50 m detrás del desvío n.º 1 de la
-estación de enlace de Bezděčín, divisó por primera vez el tren Os 6051 que circulaba en
-sentido contrario, con el que posteriormente se cruzó
-a unos 300 m más allá del nivel de la señal de entrada L.
-Nota DI: en realidad, los trenes Pn 62422 y Os 6051 se cruzaron con sus frentes a una
-distancia de 449 m más allá del nivel de la señal de entrada L de la estación de enlace
-de Bezděčín,
-◦al cruzarse con el tren que circulaba en sentido contrario, saludó con un gesto de mano
-al maquinista del tren Os 6051,
-◦no puede confirmar con certeza que la maquinista del tren Os 6051 reaccionara a su
-saludo,
-◦está seguro de que, al cruzarse los trenes, nadie estaba de pie en las puertas de
-entrada a la cabina del maquinista del HDV del tren Os 6051,
-◦tras un rato observó que su tren empezaba a reducir la velocidad con mayor intensidad
-y que se estaba produciendo una caída de la presión del aire en la tubería principal, a
-continuación el tren se detuvo,
-◦una vez detenido el tren, notó que en la estación de radio del vehículo se iluminaba el
-símbolo de la orden codificada «STOP»,
-◦posteriormente fue contactado por el jefe de estación del DOZ y se le pidió que, desde
-la vista desde el HDV, comprobara qué había ocurrido con el tren Os 6051, que dejaba de
-ser indicado al jefe de estación en el monitor del JOP,
-◦puesto que la vista hacia la SK y la aguada de Dobrovice de la estación de enlace le
-estaba obstruida por la vegetación arbustiva crecida fuera de la SK n.º 1, aseguró el
-material rodante (DV) del tren contra el arrastre, cerró con llave el HDV y fue a pie a
-comprobar el estado del tren Os 6051,
-
+  – Acta con el empleado, Registro oficial de la declaración prestada 
+ante la PČR y Registro de la declaración prestada ante la DI:
+◦el turno, dentro del cual se produjo la MU en cuestión, lo inició el día 
+14. 9. 2023 a las 13:20 h en Nymburk,
+◦con el tren Pn 62422 entraba en la estación de enlace Bezděčín con la señal 
+«Velocidad 60 km/h y aviso» indicada por la señal de entrada L, a la vez que 
+reducía la velocidad del tren debido a la espera de un cruce con el tren 
+circulante en sentido contrario,
+◦entraba en la estación de enlace Bezděčín a una velocidad bastante baja para 
+detenerse con seguridad antes de la señal de salida L2, que prohibía la 
+circulación del tren, y a la vez para no tener que volver a arrancar tras la 
+entrada del tren circulante en sentido contrario en la estación de enlace y la 
+establecimiento de la vía de tren para su tren,
+◦cuando se encontraba con el frente del tren a unos 50 m detrás del desvío 
+n.º 1 de la estación de enlace Bezděčín, vio por primera vez el tren circulante 
+en sentido contrario Os 6051, con el que posteriormente se cruzó a unos 
+300 m más allá del nivel de la señal de entrada L.
+Nota DI: en realidad, los trenes Pn 62422 y Os 6051 se cruzaron con sus 
+frentes a una distancia de 449 m más allá del nivel de la señal de entrada L 
+de la estación de enlace Bezděčín,
+◦al cruzarse con el tren circulante en sentido contrario, saludó con un gesto de 
+mano al maquinista del tren Os 6051,
+◦no puede confirmar con certeza que el maquinista del tren Os 6051 reaccionara 
+a su saludo,
+◦está seguro de que al cruzarse los trenes no había nadie de pie en las puertas 
+de entrada a la cabina del maquinista del HDV del tren Os 6051,
+◦tras un momento observó que su tren comenzaba a frenar con más intensidad y 
+que se producía una reducción de la presión del aire en la tubería principal, 
+tras lo cual el tren se detuvo,
+◦una vez detenido el tren, se percató de que en la radiotelefonía del vehículo 
+brillaba el símbolo de la orden codificada «STOP»,
+◦posteriormente fue contactado por el despachador DOZ y se le pidió que, 
+mirando desde el HDV, comprobara qué había ocurrido con el tren Os 6051, 
+que dejaba de ser indicado al despachador en el monitor JOP,
+◦puesto que la vegetación arbórea que crecía fuera del SK n.º 1 le impedía la 
+visión del SK y de la cabecera de la estación de enlace de Dobrovice, aseguró 
+el DV del tren contra la marcha, cerró con llave el HDV y fue a pie a comprobar 
+el estado del tren Os 6051,
 
 ## Página 47
+
 
 ◦posteriormente fue informado por el jefe de estación del DOZ de que el tren Os 6051
 había impactado de lado contra el tren Pn 62422 que él conducía,
@@ -1908,53 +1856,30 @@ la reducción de la velocidad del tren al entrar en la estación de enlace de Be
 
 •
 jefe de tren del tren Os 6051
-  – Registro de la explicación prestada al DI:
-◦para el turno diario del día 14. 9. 2023 se presentó descansado física y psíquicamente, 
-el descanso antes de este turno lo pasó en casa,
-◦durante el turno en cuestión no fue alterado por nadie ni por nada hasta el momento 
-del suceso de seguridad,
-◦tras la detención del tren en la est. Mladá Boleslav hl. n. entró por un momento en la 
-cabina del maquinista, donde tenía depositadas sus pertenencias personales, y colocó 
-en el lado izquierdo de la pupitre de conducción un vaso de café,
-◦antes de la salida del tren de la est. Mladá Boleslav hl. n. bajó al andén con el fin de 
-realizar los procedimientos previos a la salida del tren y, una vez realizados, volvió a 
-subir al tren,
-◦según su declaración, «en algún lugar cerca de la preseñal PřS de la señal de entrada 
-S de la aguja Bezděčín» entró en la cabina del maquinista y bebió café. No está seguro 
-de si el tren se encontraba en ese momento en las cercanías del PZ P2805 situado 
-delante de la señal de entrada S a la aguja Bezděčín,
+  – Registro sobre la explicación facilitada al DI:
+◦para la jornada diaria del día 14. 9. 2023 acudió descansado física y psíquicamente, el descanso previo a esta jornada lo pasó en casa,
+◦durante la jornada de referencia no fue alterado por nadie ni por nada hasta el momento de producirse el MU,
+◦tras la parada del tren en la est. Mladá Boleslav hl. n. entró por un momento en la cabina del maquinista, donde tenía depositados sus objetos personales, y colocó a la izquierda de la mesa del puesto del maquinista un vaso con café,
+◦antes de la salida del tren de la est. Mladá Boleslav hl. n. bajó al andén con el fin de realizar los procedimientos previos a la salida del tren y, una vez realizados, volvió a subir al tren,
+◦según su declaración, «en algún lugar cerca de la preseñal P del señal de entrada S de la aguja Bezděčín» entró en la cabina del maquinista y bebió café. No está seguro de si el tren se encontraba en ese momento en las proximidades del PAF P2805 situado antes del señal de entrada S a la aguja Bezděčín,
 ◦tras entrar en la cabina del maquinista cerró la puerta a su espalda y bebió café,
-◦no está seguro de si se sentó en el asiento auxiliar del maquinista del lado izquierdo 
-de la cabina o se agachó en la cabina y se apoyó de espaldas en la puerta de acceso a 
-la cabina para estirar las piernas. Mientras bebía el café, intercambió unas palabras 
-con el maquinista, no recuerda el tema,
+◦no está seguro de si se sentó en el asiento auxiliar del maquinista a la izquierda de la cabina o se agachó en la cabina y apoyó la espalda en la puerta de acceso a la cabina para estirar las piernas. Mientras bebía café, intercambió unas palabras con el maquinista, no recuerda el tema,
 ◦vio que el maquinista frenaba en la aguja Bezděčín,
-◦antes de la colisión con el tren de mercancías salió a la puerta para permitir al 
-maquinista una posible salida rápida de la cabina,
-◦a la pregunta de si regularmente pregunta a los maquinistas en la cabina del 
-maquinista, durante la marcha del tren, el motivo de la circulación del tren a una 
-velocidad inferior, respondió que «no siempre y no en todos los trenes pregunto a los 
-maquinistas el motivo de la circulación a una velocidad distinta de la habitual», y añadió 
-que «en el tren Os 6051 no era habitual cruzar con otro tren en la aguja Bezděčín»;
+◦antes de la colisión con el tren de mercancías se situó en la puerta para permitir al maquinista una posible salida rápida de la cabina,
+◦a la pregunta de si regularmente pregunta a los maquinistas en la cabina del maquinista, durante la marcha del tren, el motivo de la circulación del tren a una velocidad inferior, respondió que «no siempre y no en todos los trenes pregunto a los maquinistas el motivo de la circulación a una velocidad distinta de la habitual», y añadió «que en el tren Os 6051 no era habitual cruzar con otro tren en la aguja Bezděčín»;
 •
-testigo 1, pasajero en el tren Os 6051
-  – Registro oficial de la explicación prestada 
-al PČR:
-◦en el tren se sentaba en el segundo coche (nota del DI: viajaba en ŘDV), y concretamente 
-en la parte trasera del coche a la derecha en el sentido de la marcha,
-◦durante la marcha pensaba en algo y prestaba atención a su teléfono móvil,
-◦percibió un fuerte golpe, fue expulsada del asiento y golpeó la cabeza contra las puertas 
-acristaladas (nota del DI: es decir, las puertas que separan el compartimento para 
-pasajeros del lado de la cabina del maquinista del espacio de piso bajo ŘDV), tras lo 
-cual cayó,
-◦cuando intentó levantarse, volvió a sentir el impacto y golpeó de nuevo la cabeza contra 
-las puertas acristaladas,
-◦tras la llegada de los servicios de IZS fue atendida y trasladada al hospital,
-◦antes del suceso de seguridad no percibió la frenada del tren.
+testigo 1, pasajera del tren Os 6051
+  – Registro oficial sobre la explicación facilitada al PČR:
+◦en el tren viajaba en el segundo coche (nota del DI: viajaba en ŘDV), en la parte trasera del coche a la derecha en el sentido de la marcha,
+◦durante el viaje pensaba en algo y prestaba atención a su teléfono móvil,
+◦percibió un fuerte golpe, fue expulsada del asiento y golpeó la cabeza contra las puertas acristaladas (nota del DI: es decir, las puertas que separan el compartimento para pasajeros del lado de la cabina del maquinista del espacio de piso bajo ŘDV), tras lo cual cayó,
+◦cuando intentó levantarse, volvió a sentir el impacto y golpeó de nuevo la cabeza contra las puertas acristaladas,
+◦tras la llegada de los servicios IZS fue atendida y trasladada al hospital,
+◦antes de producirse el MU no sintió la frenada del tren.
 Nota del DI: véase el punto 3.1.7 de esta ZZ;
 
-
 ## Página 49
+
 
 •
 testigo 2, pasajero en el tren Os 6051
@@ -2007,119 +1932,89 @@ A las 16:18:54 h el frente del tren Os 6051, circulando a la velocidad inalterad
 75 km·h-1, se encontraba en el nivel del frente del tren en sentido contrario Pn 62422, 
 y ello a una distancia de 307 m antes de la señal de salida S1, con la palanca de mando 
 combinada aún en la posición «J» – marcha por parte de la maquinista. El tren en sentido 
-contrario tenía una longitud de 593 m y en ese momento entraba en la aguja 
-
+contrario tenía una longitud de 593 m y en ese momento entraba en la aguja
 
 ## Página 50
 
-a una velocidad de 12 km·h-1, con su extremo situado en el TK Dobrovice – aguja 
-Bezděčín. 1 s después, a las 16:18:55 h, el tren Os 6051, circulando todavía a la 
-velocidad inalterada de 75 km·h-1, se encontraba en el punto de inicio de la visibilidad 
-de la señal «Alto» indicada por la señal de salida S1 de la aguja Bezděčín, es decir, a 
-una distancia de 300 m antes de dicha señal. Al mismo tiempo se inició el descenso 
-gradual de la velocidad correspondiente a la marcha por arrastre, con una duración de 
-5 s, durante la cual el tren recorrió una distancia de 104 m, y simultáneamente se 
-registró la última maniobra del dispositivo para KBS, iniciada con el movimiento de la 
-palanca de mando combinada. A las 16:19:00 h, cuando el frente del tren Os 6051, 
-circulando a una velocidad de 73 km·h-1, se encontraba a una distancia de 196 m antes 
-de la señal de salida S1 y a 224 m del punto de colisión, la maquinista, mediante el 
-movimiento de la palanca de mando combinada, accionó la frenada de acción rápida. El 
-tren se encontraba en el punto en el que ya no era posible evitar el suceso de seguridad. 
-1 s después, el RR registró la presurización de los cilindros de freno con una presión 
-superior a 0,2 bar y la aplicación del freno directo. A las 16:19:12 h se produjo el suceso 
-de seguridad, cuando el frente del tren Os 6051, circulando a una velocidad de 
-34 km·h-1, superó indebidamente el nivel de la señal de salida S1 de la aguja 
-Bezděčín, que indicaba la señal «Alto». 4 s después, a las 16:19:16 h, el tren Os 6051, 
-circulando a una velocidad de 16 km·h-1, impactó en el km 24,850 con el flanco 
-izquierdo del frente del HDV contra el 15.º TDV 23 54 4366 259-0 del tren en sentido 
-contrario Pn 62422, con lo que se descarriló el elemento «A» de dicho TDV. El DV del 
-tren Os 6051 fue, por la dinámica del suceso de seguridad –el TDV 23 54 4366 259-0 
-del tren en sentido contrario Pn 62422 en movimiento–, tras alcanzar la velocidad cero, 
-puesto en movimiento inverso a una velocidad de hasta 11 km·h-1 (es decir, en el sentido 
-de la marcha del tren Pn 62422), mientras que el frente del tren Os 6051 se encontraba 
-en la posición final tras el suceso de seguridad en el km 24,852, es decir, 26 m más allá 
-del nivel de la señal de salida S1. El frente del tren Pn 62422 se encontraba en la 
-posición final tras el suceso de seguridad en el km 25,278, con su extremo situado en 
-el TK Dobrovice – aguja Bezděčín.
-Como consecuencia del suceso de seguridad, 3 personas resultaron lesionadas – el 
-maquinista del tren Os 6051 y 2 pasajeros.
-Fig. n.º 7: Esquema de la situación desde la preseñal PřS hasta la señal de salida S1 de 
-la aguja Bezděčín
+con una velocidad de 12 km·h-1, su extremo se encontraba en el TK Dobrovice – desvío de Bezděčín. 
+1 s después, a las 16:18:55 h, el tren Os 6051, circulando todavía con la velocidad sin cambios de 
+75 km·h-1, se encontraba en el punto de inicio de la visibilidad de la señal «Alto» 
+señalizada por la señal de salida S1 del desvío de Bezděčín, es decir, a una distancia de 300 m 
+antes de dicha señal. 
+Al mismo tiempo se inició el comienzo de la reducción gradual de velocidad correspondiente a la 
+circulación por arrastre, con una duración de 5 s, durante la cual el tren recorrió una distancia de 
+104 m; simultáneamente se registró la 
+última operación del dispositivo para KBS, iniciada con la manipulación de la palanca de conducción combinada. 
+A las 16:19:00 h, cuando el frente del tren Os 6051, circulando a una velocidad de 73 km·h-1, se encontraba 
+a una distancia de 196 m antes de la señal de salida S1 y a 224 m antes del punto de colisión, 
+la maquinista, mediante la manipulación de la palanca de conducción combinada, aplicó el frenado de acción rápida. El tren se 
+encontraba en el punto donde ya no era posible evitar la MU. 1 s después, el RR 
+registró la presurización de los cilindros de freno con una presión superior a 0,2 bar y la aplicación del freno 
+directo. A las 16:19:12 h se produjo la MU, cuando el frente del tren Os 6051, circulando a una 
+velocidad de 34 km·h-1, pasó indebidamente el nivel de la señal de salida S1 del desvío de 
+Bezděčín, que señalizaba la señal «Alto». 4 s después, a las 16:19:16 h, el tren Os 6051, 
+circulando a una velocidad de 16 km·h-1, en el km 24,850, impactó con el flanco izquierdo del frente de la HDV contra el 15. TDV 
+23 54 4366 259-0 del tren en sentido contrario Pn 62422, como consecuencia de lo cual se descarriló el elemento «A» 
+de dicho TDV. El DV del tren Os 6051 fue, por la dinámica del suceso del accidente – el movimiento del TDV 
+23 54 4366 259-0 del tren en sentido contrario Pn 62422, tras alcanzar la velocidad cero – puesto 
+en movimiento inverso a una velocidad de hasta 11 km·h-1 (es decir, en el sentido de circulación del tren Pn 62422), 
+mientras que el frente del tren Os 6051 en la posición final tras la MU se encontraba en el km 24,852, 
+es decir, 26 m después del nivel de la señal de salida S1. El frente del tren Pn 62422 en la 
+posición final tras la MU se encontraba en el km 25,278, su extremo se encontraba en el TK Dobrovice – 
+desvío de Bezděčín.
+Como consecuencia de la MU, 3 personas sufrieron lesiones: la maquinista del tren Os 6051 y 2 pasajeros.
+Fig. n.º 7: Esquema de la situación desde la señal previa PřS hasta la señal de salida S1 del desvío de Bezděčín
                 Fuente: DI
-
 
 ## Página 51
 
-### 3.2.2 Secuencia de hechos desde la producción del suceso de seguridad hasta la 
-finalización de las acciones de los servicios de rescate
-| • 16:19 h | producción del suceso de seguridad; |
-| • 16:20 h | el jefe de estación DOZ comunicó la producción del suceso de seguridad al 
-jefe de despachador CDP Praha; |
-| • 16:24 h | el jefe de tren del tren Os 6051 comunicó la producción del suceso de 
-seguridad a la línea de emergencia 155; |
-| • 16:25 h | el jefe de estación DOZ comunicó la producción del suceso de seguridad al 
-IZS; |
-| • 16:34 h | la primera patrulla del PČR llegó al lugar del suceso de seguridad; |
-| • 16:36 h | el primer grupo de intervención del ZZS SK llegó al lugar del suceso de 
-seguridad; |
-| • 16:39 h | el primer grupo de intervención del HZS llegó al lugar del suceso de 
-seguridad; |
-| • 16:40 h | el jefe de despachador CDP Praha comunicó la producción del suceso de 
-seguridad al O18 SŽ; |
-| • 16:56 h | la persona autorizada del O18 SŽ comunicó la producción del suceso de 
-seguridad al COP DI; |
-| • 18:05 h | inicio de la inspección del lugar del suceso de seguridad por los 
-inspectores del DI; |
-| • 21:30 h | el inspector del DI presente autorizó la liberación de la vía; |
-| • 23:40 h | se reanudó la explotación del transporte ferroviario. |
-El Plan IZS fue activado, dada la naturaleza del suceso de seguridad, a las 16:24 h, es 
-decir, 5 minutos después de la producción del suceso de seguridad, por el jefe de tren 
-del tren Os 6051.
-En el lugar del suceso de seguridad intervinieron los siguientes componentes del IZS:
+### 3.2.2 Secuencia de hechos desde la producción del suceso excepcional hasta la finalización de las acciones de los servicios de emergencia
+| • 16:19 h | producción del SE; |
+| • 16:20 h | el jefe de estación DOZ comunicó la producción del SE al jefe de despachador CDP Praga; |
+| • 16:24 h | el jefe de tren del tren Os 6051 comunicó la producción del SE al número de emergencias 155; |
+| • 16:25 h | el jefe de estación DOZ comunicó la producción del SE al IZS; |
+| • 16:34 h | el primer patrulla de la PČR llegó al lugar de producción del SE; |
+| • 16:36 h | el primer grupo de intervención del ZZS SK se presentó en el lugar de producción del SE; |
+| • 16:39 h | el primer grupo de intervención del HZS se presentó en el lugar de producción del SE; |
+| • 16:40 h | el jefe de despachador CDP Praga comunicó la producción del SE al O18 SŽ; |
+| • 16:56 h | la persona designada del O18 SŽ comunicó la producción del SE al COP DI; |
+| • 18:05 h | inicio de la inspección del lugar de producción del SE por los inspectores del DI; |
+| • 21:30 h | el inspector del DI presente concedió el consentimiento para la liberación de la vía; |
+| • 23:40 h | se restableció la explotación del transporte ferroviario. |
+El plan IZS fue activado en función de la naturaleza del SE, y ello a las 16:24 h, es decir, 5 minutos después de la producción del SE, por el jefe de tren del tren Os 6051.
+En el lugar del SE intervinieron los siguientes componentes del IZS:
 •
-PČR, Distrito de Dobrovice, Área territorial de Mladá Boleslav;
+PČR, Distrito de Dobrovice, departamento territorial de Mladá Boleslav;
 •
-PČR, Sección del servicio de patrulla, Área territorial de Mladá Boleslav;
+PČR, Departamento de servicio de patrulla, departamento territorial de Mladá Boleslav;
 •
-PČR, Sección de técnica criminalística, Área territorial de Mladá Boleslav;
+PČR, Departamento de técnica criminalística, departamento territorial de Mladá Boleslav;
 •
-PČR, Sección de criminalidad general, Área territorial de Mladá Boleslav;
+PČR, Departamento de criminalidad general, departamento territorial de Mladá Boleslav;
 •
 ZZS SK, bases de intervención de Benátky nad Jizerou y Mladá Boleslav;
 •
-HZS de la Región de Bohemia Central, Área territorial de Mladá Boleslav;
+HZS del Kraje Středočeský, Departamento territorial de Mladá Boleslav;
 •
 HZS SŽ, JPO Nymburk;
 •
-HZS SŽ, JPO Praha.
+HZS SŽ, JPO Praga.
 ### 4 ANÁLISIS DEL SUCESO
 ### 4.1 Funciones y obligaciones
-### 4.1.1 Transportistas y explotadores de la infraestructura
-El explotador de la infraestructura estaba, de acuerdo con lo dispuesto en la Ley n.º 
-266/1994 Sb., obligado a explotar la infraestructura para las necesidades del transporte 
-ferroviario fluido y seguro de acuerdo con las normas de explotación de la infraestructura 
-y la autorización administrativa, y a garantizar que el sistema de seguridad del 
-explotador de la infraestructura por él establecido tuviera en cuenta el alcance y el 
-objeto de su actividad y de las actividades de los distintos transportistas realizadas en 
-la infraestructura por él explotada, permitiera la explotación de la infraestructura y del 
-transporte ferroviario de conformidad con las especificaciones técnicas de 
-interoperabilidad, otras disposiciones legales y los certificados del transportista, y fuera 
-cumplido.
-La persona que dirige el transporte ferroviario, es decir, también el jefe de estación DOZ, 
-estaba, al organizar y dirigir el transporte ferroviario, entre otras obligaciones, obligada 
-a cumplir el modo y las condiciones para la explotación de la infraestructura, la dirección 
-del transporte ferroviario, la supervisión de la capacidad de tránsito de la infraestructura, 
-la dirección operativa del transporte ferroviario y, en el
+### 4.1.1 Transportistas y explotadores de vías
+El explotador de la vía estaba obligado, según lo dispuesto en la Ley n.º 266/1994 Sb., a explotar la vía para las necesidades del transporte ferroviario fluido y seguro de acuerdo con las reglas para la explotación de la vía y la autorización administrativa, y a garantizar que el sistema de seguridad del explotador de la vía por él establecido tuviera en cuenta el alcance y el objeto de su actividad y de las actividades de los distintos transportistas realizadas en la vía por él explotada, permitiera la explotación de la vía y del transporte ferroviario de conformidad con las especificaciones técnicas de interoperabilidad, otras disposiciones legales y los certificados del transportista, y fuera cumplido.
+La persona que dirige el transporte ferroviario, es decir, también el jefe de estación DOZ, estaba obligada, entre otros, al organizar y dirigir el transporte ferroviario, a cumplir el modo y las condiciones para la atención de la vía, la dirección del transporte ferroviario, el seguimiento de la capacidad de tráfico de la vía, la dirección operativa del transporte ferroviario y en
 
 ## Página 52
+
 
 de servicio de la vía para la gestión del tráfico ferroviario, de utilizar las dependencias derivadas de la actividad del SZZ y TZZ operados. El jefe de estación DOZ debía cumplir siempre, en las actividades relacionadas con el servicio del SZZ y TZZ, también el conjunto de maniobras de tráfico y procedimientos de trabajo establecidos por las normas internas del operador de la vía.
 En el desempeño del servicio de tráfico, el jefe de estación DOZ era, entre otros, responsable de la gestión de la secuencia de trenes (horario de los trenes que circulan en la misma dirección por la misma TK) y de la organización del tráfico en las estaciones de tráfico asignadas, es decir, también en la desviación de Bezděčín y en la estación de Dobrovice, y en los tramos intermedios conexos, cuando debía organizar la circulación de los trenes según el horario y tener en cuenta al mismo tiempo el orden de importancia de los trenes, de modo que no se viera afectada la circulación de un tren de mayor importancia. En la gestión operativa del tráfico ferroviario, introducida para el máximo aprovechamiento de la capacidad de un tramo de vía determinado, puede establecerse un orden de importancia de los trenes diferente. Sin embargo, el jefe de estación DOZ debía, al mismo tiempo, en su demarcación, prever la evolución de la situación de tráfico, adoptar oportunamente medidas para la gestión correcta de la situación de tráfico y tener en cuenta y resolver en tiempo real las situaciones operativas, véanse los puntos 3.1.7, 3.1.8, 3.1.9 y 3.2.1 de esta ZZ.
 En relación con lo anterior, el jefe de estación DOZ supuso en primer lugar que el cruce del tren retrasado Pn 62422 y del tren Os 6051 lo realizaría en la estación de Dobrovice. Por ello, a las 15:58:25 h realizó la preparación de la vía de tren para la entrada del tren Pn 62422 desde la TK Luštěnice-Újezd – Dobrovice a la vía de servicio n.º 3 de la estación de Dobrovice. Posteriormente, ya a las 16:06:44 h, realizó la preparación de la vía de tren para el paso del tren Os 6051 que circula en sentido contrario desde la TK desviación de Bezděčín – Mladá Boleslav hl. n. por la vía de servicio n.º 1 de la desviación de Bezděčín a la TK Dobrovice – desviación de Bezděčín. Sin embargo, al observar la situación de tráfico en su demarcación, reconsideró su decisión inicial de realizar el cruce de trenes en la estación de Dobrovice y decidió realizar el cruce únicamente en la desviación de Bezděčín. En su decisión tuvo en cuenta la posible evolución posterior de la situación de tráfico en la estación de Mladá Boleslav hl. n., cuando, tras la salida del tren Os 6051 de esta estación hacia la desviación de Bezděčín, existía la posibilidad real de que, en coordinación con el jefe de estación principal de la estación de Mladá Boleslav hl. n., pudiera acordarse y, posteriormente, llevarse a cabo la circulación del tren retrasado Pn 62422 hacia la estación de Mladá Boleslav hl. n., en secuencia detrás del tren R 1208, tras el cruce realizado con el tren Pn 62422 en la desviación de Bezděčín y el adelantamiento de dicho tren por el tren R 1208. Por ello, a las 16:11:55 h anuló la vía de tren establecida para la entrada del tren Pn 62422 desde la TK Luštěnice-Újezd – Dobrovice a la vía de servicio n.º 3 de la estación de Dobrovice y 4 s después (a las 16:11:59 h) también la vía de tren establecida para la salida del tren Os 6051 desde la vía de servicio n.º 1 de la desviación de Bezděčín a la TK Dobrovice – desviación de Bezděčín. Tras la realización de las operaciones anteriores, el jefe de estación DOZ realizó posteriormente, entre las 16:12:01 h y las 16:12:04 h, la preparación de la vía de tren para el paso del tren Pn 62422 desde la TK Luštěnice-Újezd – Dobrovice por la vía de servicio n.º 1 de la estación de Dobrovice a la TK Dobrovice – desviación de Bezděčín. Dado que el tren retrasado Pn 62422 pasó por la estación de Luštěnice-Újezd a las 16:12:16 h y el tren Os 6051 tenía la salida regular programada desde la estación de Mladá Boleslav hl. n. a las 16:14 h, ambos conductores de los trenes en cuestión pudieron cumplir la indicación dada por la señalización cambiada de la señal de entrada de la estación de Dobrovice, respectivamente, de la desviación de Bezděčín. El jefe de estación DOZ, por tanto, pudo cambiar la señalización que permitía la circulación del tren por una señalización que la prohibía, respectivamente, ordenar una velocidad inferior mediante el cambio de la señalización, cuando en este caso concreto se trataba de cambios de las señalizaciones indicadas para el tren Pn 62422 por la señal de entrada L de la estación de Dobrovice y para el tren Os 6051 por la señal de entrada S y la señal de salida S1 de la desviación de Bezděčín.
 El jefe de estación DOZ debía organizar la gestión del tráfico ferroviario según el horario, en este caso concreto, los horarios de los trenes Pn 62422 y Os 6051. Para la evaluación de la situación de tráfico surgida debía utilizar asimismo el seguimiento de la posición actual del tren Pn 62422, cuando el tiempo de recorrido entre la estación de Luštěnice-Újezd y la desviación de Bezděčín fue fijado por el operador de la vía
 
-
 ## Página 53
+
 
 en el horario en 9 min. Con el paso real del tren Pn 62422 por la estación de Luštěnice-Újezd a las 16:12 h, dicho tren podría haber llegado teóricamente a la desviación de Bezděčín a más tardar a las 16:21 h, es decir, hasta 2 min después del paso del tren Os 6051 fijado por el horario. De lo anterior se desprende claramente que el jefe de estación DOZ, al gestionar el tráfico ferroviario, cuando con el cruce de los trenes Pn 62422 y Os 6051 en la desviación de Bezděčín afectó a la circulación del tren Os 6051, es decir, de un tren de mayor importancia, debió haber realizado el cruce de los trenes en cuestión en la estación de tráfico que él mismo había determinado inicialmente, es decir, en la estación de Dobrovice.
 Lo anterior no puede valorarse en relación causal con la aparición de la MU, porque la decisión incorrecta del jefe de estación DOZ de cruzar los trenes Pn 62422 y Os 6051 en la desviación de Bezděčín, de haberse respetado sus indicaciones dadas indirectamente mediante las señalizaciones de la señal de entrada S y la señal de salida S1 de la desviación de Bezděčín al conductor del tren Os 6051 (según el § 35 apartado 1 letra f) de la Ley n.º 266/1994 Sb., el transportista estaba obligado, al explotar el tráfico ferroviario, a ceñirse a las indicaciones del operador de la vía dadas al organizar el tráfico ferroviario), no habría conducido a la aparición de la MU, sino únicamente a una afectación de la regularidad del tráfico ferroviario en el orden de unidades de minutos.
@@ -2144,8 +2039,8 @@ g) hasta i) …;».
 El transportista estaba obligado a explotar el tráfico ferroviario de acuerdo con las reglas de explotación del tráfico ferroviario, la licencia vigente y el contrato celebrado con el operador de la vía para la explotación del tráfico ferroviario en la vía.
 La persona que conduce el vehículo ferroviario, es decir, también el conductor del tren Os 6051, estaba asimismo obligada, desde la cabina de mando del DV, a observar la vía y las señalizaciones, a actuar según los hechos constatados y a detener el tren con seguridad antes del lugar señalizado.
 
-
 ## Página 54
+
 
 La señalización «Aviso» se indica mediante un semáforo de aproximación independiente o una señal principal antes de la señalización «Alto» en la siguiente señal principal, situada al menos a la distancia de frenado. Si la señalización «Aviso» la indica una señal de entrada (de itinerario), el conductor del tren que pasa actúa a la entrada en la estación (desviación) como en un tren que se detiene regularmente y debe detener el tren en la estación (desviación) si no se cumplen las condiciones para la salida del tren.
 La persona que conduce el vehículo ferroviario, es decir, también el conductor del tren Os 6051, era responsable de todas las medidas de tráfico derivadas de la circulación del tren y del contacto con los empleados que gestionan y organizan el tráfico ferroviario. Con todos los medios disponibles estaba obligada a adoptar sin demora todas las medidas para detener el tren si constatara que su circulación no está permitida o si el tren está amenazado por algo. Cuando la conductora de la unidad motorizada de la serie 814 en cuestión constató que el freno actuaba incorrectamente, estaba obligada, según los procedimientos contenidos en la norma interna de ČD V15/I, entre otros, a:
@@ -2166,6 +2061,7 @@ manipulando repetidamente la palanca de conducción combinada con el fin de redu
 
 ## Página 55
 
+
 antes de la señal de salida S1 de la aguja Bezděčín, y a una distancia de 196 m antes de dicha señal se aplicó el frenado de acción rápida, véase el punto 3.1.7 de la presente ZZ);
 •
 con la aplicación del freno de acción directa, según su declaración, hasta inmediatamente antes de la señal de salida S1 de la aguja Bezděčín (en realidad a 176 m antes de la señal de salida S1);
@@ -2179,8 +2075,8 @@ Lo anterior no puede valorarse como una infracción de la normativa legal y de l
 La conductora del tren Os 6051 conducía el tren desde la cabina frontal en el sentido de la marcha. El nivel de la señal de entrada S, que indicaba la señal «Aviso», lo superó la conductora con el morro del tren a una velocidad de 75 km·h-1. Dicha señal le permitía efectivamente circular a la velocidad de la vía, pero a la vez le había preseñalizado la señal «Alto» en la señal principal siguiente. A pesar de ello, tras superar el nivel de la señal de entrada, la conductora continuó la marcha con la velocidad inalterada de 75 km·h-1 con el modo de conducción ARR seleccionado y la palanca de conducción combinada en la posición «J» – marcha, sin modificar en modo alguno la velocidad del tren tampoco en el punto de inicio de la visibilidad del morro del tren en sentido contrario Pn 62422.
 Aunque la conductora del tren Os 6051, al circular por la SK n.º 1 de la aguja Bezděčín y observar la vía, pudo ver a lo lejos el morro del tren en sentido contrario Pn 62422 (a las 16:18:42 h), que circulaba por la SK n.º 2 contigua, aproximadamente a los pocos de superar el edificio tecnológico con DK, a una distancia de 569 m antes de la señal de salida S1, tampoco reaccionó a este hallazgo y continuó la marcha con el tren a la velocidad inalterada. A una distancia de 307 m antes de la señal de salida S1, el morro del tren Os 6051 cruzó con el morro del tren en sentido contrario Pn 62422 (a las 16:18:54 h), habiéndose registrado el inicio del cambio de velocidad del tren Os 6051 a una distancia de 300 m antes de la señal de salida S1 (a las 16:18:55 h), es decir, en el punto de inicio de la visibilidad de la señal «Alto» emitida por dicha señal. La velocidad del tren descendió gradualmente durante 5 s, en un recorrido de 104 m, desde el valor de 75 km·h-1 hasta 73 km·h-1 (sin cambio alguno en la presión del aire en la tubería principal), momento en el que, a la vista de los resultados de las pruebas de verificación, es evidente que a la conductora se le desplazó la palanca de conducción combinada de la posición «J» – marcha a la posición «V» – arrastre. La primera maniobra de la conductora del tren Os 6051 con la palanca de conducción combinada para aplicar el frenado del tren, en este caso el frenado de acción rápida, se registró a una distancia de 196 m antes de la señal de salida S1 (a las 16:19:00 h) a una velocidad de 73 km·h-1, en el punto donde ya no era posible evitar la aparición de la MU, véanse los puntos 3.1.7 y 4.3.1 de la presente ZZ.
 
-
 ## Página 56
+
 
 ### Hallazgos:
 En la investigación se constató la infracción de la normativa legal y de las normas internas relativas a las funciones
@@ -2221,8 +2117,8 @@ art. 90 apartado 2 de la norma interna SŽ D1:
 art. 91 apartado 1 de la norma interna SŽ D1:
 «La señal Alto (luz roja) prohíbe al conductor la marcha del tren (PMD). El morro del tren en marcha (PMD) debe detenerse a 10 m (estimados) antes de la señal principal. … A una distancia de 10 m (estimados) antes de la señal principal se establece el lugar habitual de detención. … .»;
 
-
 ## Página 57
+
 
 •
 art. 436 apartado 4 de la norma interna SŽ D1:
@@ -2252,6 +2148,7 @@ a) las personas que acrediten la autorización para viajar en la cabina (en la c
 
 ## Página 58
 
+
 b) personas que acrediten con la correspondiente Autorización para la realización del reconocimiento de la línea según el anexo n.º 11 de la norma ČD D 2 y soliciten viajar en la cabina (en el puesto) del maquinista con el fin de realizar los viajes prescritos en los tramos de línea establecidos;
 c) empleados de ČD en la atención de otros puntos de maniobra durante la circulación con un tren de locomotora (excepto el tren conducido por un automotor o una unidad);
 d) miembros de la escolta del tren del transportista ČD que circulan con un tren de locomotora (excepto el tren conducido por un automotor o una unidad);
@@ -2266,48 +2163,48 @@ Las personas que se acreditaron con un permiso con autorización únicamente de 
 Para lo siguiente es necesario aclarar el término «viajar» en la cabina (en el puesto) del maquinista. Ni la normativa legal ni las normas internas del transportista ČD lo definen explícitamente. Sin embargo, del término «cabina (puesto) del maquinista» se deduce que se trata del espacio del puesto de trabajo del maquinista. Este está delimitado por paredes, suelo y techo, con una ejecución según el tipo de DV. En la unidad automotora de la serie 814, las cabinas (puestos) del maquinista se situaban en los lados exteriores de las carrocerías del HDV y del ŘDV. En las cabinas se situaba el pupitre de mando centrado del puesto del maquinista con asiento amortiguado del maquinista para permitir la observación ininterrumpida de la línea y de las señales y la actuación según los hechos constatados. El acceso a las cabinas (puestos) del maquinista era mediante puertas del vestíbulo delantero de acceso del HDV y del ŘDV, que se abrían hacia el exterior de la cabina (puesto). Atendiendo a la obligación anteriormente mencionada del maquinista de conducir (dirigir) el tren (DV) de manera que su circulación sea segura, ante la necesidad de minimizar el riesgo de desviar su atención de la observación de la línea y de las señales y de la actuación según los hechos constatados por otra información – fuente que distraiga la atención y la concentración en el trabajo que se está realizando, durante la circulación del tren (DV) la permanencia y el estacionamiento de una persona no autorizada, incluso en las puertas de acceso abiertas a la cabina (puesto) del maquinista, por las que así penetran en la cabina del maquinista sonidos distintos de los del DV que habitualmente se producen en la cabina (en el puesto) del maquinista, es indeseable.
 En el presente asunto es necesario añadir que la persona autorizada que solicita al maquinista el acceso a la cabina (puesto) del maquinista y se acredita ante él con la correspondiente autorización, no lo hace durante la circulación del tren (DV), sino en el momento de su detención, y tras permitirse el acceso a la cabina (puesto), dicha persona no permanece de pie durante la circulación en las puertas de acceso abiertas y no observa desde arriba la actividad del maquinista (no está de pie sobre el maquinista).
 
-
 ## Página 59
 
-### Sobre la base de lo anterior se puede concluir que también el estacionamiento de una persona no autorizada en las puertas de acceso abiertas a la cabina (puesto) del maquinista del HDV 814.194-7 durante la circulación del tren (DV) constituye un viaje en la cabina (puesto) del maquinista.
-A pesar de las declaraciones distintas e incluso contradictorias del maquinista y del jefe de tren del tren Os 6051 en relación con la entrada y el viaje del jefe de tren en la cabina (puesto) del maquinista, véase el punto 3.1.9 de la presente ZZ, es indudable que la maquinista del tren Os 6051 toleró la presencia del jefe de tren en la cabina del maquinista. No solo le permitió dejar su refrigerio en el pupitre del maquinista en la est. Mladá Boleslav hl. n., sino que durante la circulación del tren también permitió otras entradas y el viaje en la cabina (puesto), a pesar de que, según los procedimientos tecnológicos uniformes del transportista ČD, al jefe de tren le estaba asignado un lugar concreto y reservado, en el presente caso el lugar en la cabina trasera (en el puesto trasero) del maquinista de la unidad automotora, y no le exigió que antes de entrar en la cabina (puesto) se acreditara con la correspondiente autorización para circular en la cabina (puesto) del maquinista.
-Dicho hallazgo no puede valorarse, atendiendo a la contradicción de las declaraciones de la maquinista y del jefe de tren del tren Os 6051 en relación con la entrada y la permanencia del jefe de tren en la cabina (puesto) del maquinista, en combinación con la declaración de la maquinista sobre la influencia de la presencia del jefe de tren en su conducción del tren, en relación causal con la aparición del MU.
-### Hallazgos:
-En la investigación se constató la infracción de la normativa legal y de las normas internas relativas a las funciones y obligaciones del transportista ČD, al margen de la relación causal con la aparición del MU:
+### Sobre la base de lo anterior, puede resumirse que también la permanencia de una persona no autorizada en las puertas de entrada abiertas de la cabina (puesto de conducción) del conductor del HDV 814.194-7 durante la circulación del tren
+### (DV) constituye conducción en la cabina (puesto de conducción) del conductor.
+A pesar de las declaraciones diferentes, incluso contradictorias, del conductor y del jefe de tren del tren Os 6051 en relación con la entrada y la circulación del jefe de tren en la cabina (puesto de conducción) del conductor, véase el punto 3.1.9 de esta ZZ, es indudable que el conductor del tren Os 6051 toleró la presencia del jefe de tren en la cabina del conductor. No solo le permitió dejar su refrigerio en la mesa del conductor en la est. Mladá Boleslav hl. n., sino que durante la circulación del tren también permitió posteriores entradas y la circulación en la cabina (puesto de conducción), a pesar de que, según los procedimientos tecnológicos uniformes del transportista ČD, al jefe de tren le estaba asignado un lugar concreto reservado, en el presente caso el lugar en la cabina trasera (en el puesto de conducción trasero) del conductor de la unidad motorizada, y no le exigió que, antes de entrar en la cabina (puesto de conducción), acreditara la autorización correspondiente para circular en la cabina (puesto de conducción) del conductor.
+La constatación indicada no puede valorarse, atendiendo a la contradicción de las declaraciones del conductor y del jefe de tren del tren Os 6051 en relación con la entrada y la permanencia del jefe de tren en la cabina (puesto de conducción) del conductor, en combinación con la declaración del conductor sobre la influencia de la presencia del jefe de tren en su conducción del tren, en relación causal con la aparición del MU.
+### Constataciones:
+En la investigación se constató la infracción de disposiciones legales y normas internas relativas a las funciones y obligaciones del transportista ČD, al margen de la relación causal con la aparición del MU:
 •
-§ 35 apartado 1 letra a) de la Ley n.º 266/1994 Sb.:
-«El transportista está obligado a explotar el transporte ferroviario de acuerdo con las reglas de explotación del transporte ferroviario, la licencia vigente y el contrato celebrado con el operador de la infraestructura sobre la explotación del transporte ferroviario en la línea,»;
+§ 35 apartado 1 letra a) de la Ley núm. 266/1994 Sb.:
+"El transportista está obligado a explotar el transporte ferroviario de acuerdo con las reglas de explotación del transporte ferroviario, la licencia vigente y el contrato celebrado con el explotador de la vía sobre la explotación del transporte ferroviario en la vía";
 •
 artículo 204 letra a) de la norma interna ČD D 2:
-«En el puesto del maquinista, desde el que se conduce el vehículo de tracción, pueden viajar como máximo cuatro personas incluido el maquinista, siempre que el espacio de dicho puesto permita la conducción ininterrumpida del vehículo de tracción. Así pueden viajar en el puesto del maquinista:
-a) las personas que acrediten con la correspondiente autorización para circular en el puesto del maquinista según la norma ČD V 2 y solo cuando allí cumplan obligaciones en consonancia con el propósito para el que se emitió la autorización;»;
+"En el puesto de conducción desde el que se conduce la locomotora de tracción, pueden viajar como máximo cuatro personas, incluido el conductor, si el espacio de dicho puesto permite la conducción ininterrumpida de la locomotora de tracción. De este modo, pueden viajar en el puesto de conducción:
+a) las personas que acrediten la autorización correspondiente para circular en el puesto de conducción según la norma ČD V 2 y solo si allí cumplen las obligaciones de acuerdo con el propósito para el que se emitió la autorización";
 •
 artículo 91 letra a) de la norma interna ČD V 2:
-«El maquinista está especialmente obligado a dirigir el tren de manera que no se vea afectada la seguridad del tráfico ferroviario ...,».
-El responsable de la atención del tren, es decir, también el jefe de tren del tren Os 6051, entre otras funciones, garantizaba la escolta de trenes con transporte de pasajeros, cuando además de la atención de transporte de pasajeros le correspondía también el cumplimiento de otras obligaciones de transporte establecidas en los procedimientos tecnológicos uniformes del transportista. La forma de ocupar los trenes con transporte de pasajeros con personal de atención del tren, sus obligaciones y el tipo de atención de transporte los estableció el transportista ČD para el horario vigente mediante la norma ČD RODV. Según dicha norma, la tripulación del tren debía tener siempre asignado un puesto, siendo el lugar concreto y reservado en un tren compuesto de elementos motrices – en el presente caso un tren compuesto de una unidad automotora de la serie 814 – en la cabina trasera (en el puesto trasero) del maquinista. El jefe de tren, en el presente caso, debería recoger al subir al tren del maquinista la llave de repuesto de la cabina trasera (puesto trasero) del maquinista, previa presentación de la credencial de servicio. Si el jefe de tren abandona la cabina trasera del maquinista
-
+"El conductor está obligado, en particular, a conducir el tren de modo que no se vea afectada la seguridad del tráfico ferroviario ...".
+El jefe de servicio del tren, es decir, también el jefe de tren del tren Os 6051, entre otras funciones, garantizaba la escolta de trenes con transporte de pasajeros, cuando además de la atención al transporte de pasajeros le correspondía también el cumplimiento de otras obligaciones de tráfico establecidas en los procedimientos tecnológicos uniformes del transportista. La forma de dotar de personal los trenes con transporte de pasajeros, sus obligaciones y el tipo de atención al transporte los estableció el transportista ČD para el horario vigente mediante la norma ČD RODV. Según esta norma, la tripulación del tren debía tener siempre asignado un puesto de conducción, correspondiendo el lugar concreto reservado en el tren compuesto de elementos motorizados – en el presente caso, el tren compuesto de la unidad motorizada de la serie 814 – en la cabina trasera (en el puesto de conducción trasero) del conductor. El jefe de tren, en el presente caso, debería recoger, al subir al tren, del conductor la llave de repuesto de la cabina trasera (puesto de conducción trasero) del conductor, previa presentación de la credencial de servicio. Si el jefe de tren abandona la cabina trasera del conductor
 
 ## Página 60
 
-(p. ej., con el fin de controlar los documentos de viaje), está obligado a cerrar con llave dicha cabina. Al finalizar la prestación de servicio en el tren, el jefe de tren cierra con llave la cabina trasera (puesto trasero) del maquinista y entrega la llave al maquinista. En el relevo de la tripulación del tren en la estación se procede de manera análoga a la del acceso al tren. La cuestión de la permanencia del personal de atención del tren durante su circulación en la cabina del maquinista, desde la que la circulación del tren es dirigida por el maquinista, fue regulada por los procedimientos tecnológicos uniformes del transportista ČD mencionados anteriormente.
-El jefe de tren del tren Os 6051, según su declaración, entró en la cabina del maquinista antes de la salida del tren Os 6051 de la est. Mladá Boleslav hl. n., con el fin de dejar su vaso de café. En dicha cabina tenía también dejados sus objetos personales. Posteriormente, durante la circulación del tren Os 6051, y concretamente aproximadamente en la preseñal PřS de la señal de entrada S de la estación de enclavamiento Bezděčín, entró en la cabina del maquinista, desde la que la circulación del tren Os 6051 era dirigida por la maquinista, cerró la puerta tras de sí y bebió un poco de café. Conversó brevemente con la maquinista. El jefe de tren se encontraba también en la cabina del maquinista durante la circulación del tren Os 6051 tras el SK n.º 1 de la estación de enclavamiento Bezděčín, saliendo de la puerta de acceso a la cabina del maquinista solo antes de la colisión con el TDV del tren de mercancías Pn 62422 en sentido contrario, para que la maquinista permitiera una posible salida rápida de la cabina.
-Dicho hallazgo no puede valorarse, atendiendo a la contradicción de las declaraciones de la maquinista y del jefe de tren del tren Os 6051 en relación con la entrada y la permanencia del jefe de tren en la cabina (puesto) del maquinista, en combinación con la declaración de la maquinista sobre la influencia de la presencia del jefe de tren en su conducción del tren, en relación causal con la aparición del MU.
+(p. ej. con el fin de controlar los billetes de viaje), está obligado a cerrar con llave esta cabina. Al finalizar la prestación de servicio en el tren, el jefe de tren cierra con llave la cabina trasera (puesto trasero) del maquinista y entrega la llave al maquinista. En el relevo de la tripulación del tren en la ruta, se procede de manera análoga a la de la entrada al tren. La cuestión de la permanencia de la tripulación del tren durante su marcha en la cabina del maquinista, desde la cual se dirige la marcha del tren por el maquinista, fue regulada por los procedimientos tecnológicos uniformes del transportista ČD indicados anteriormente.
+El jefe de tren del tren Os 6051, según su declaración, entró en la cabina del maquinista antes de la salida del tren Os 6051 de la est. Mladá Boleslav hl. n., y ello con el fin de dejar su vaso de café. En esta cabina tenía también dejados sus objetos personales. Posteriormente, durante la marcha del tren Os 6051, y concretamente aproximadamente en la preseñal PřS de la señal de entrada S de la aguja Bezděčín, entró en la cabina del maquinista, desde la cual se dirigía la marcha del tren Os 6051 por el maquinista, cerró la puerta tras de sí y bebió un poco de café. Hablaron brevemente junto con el maquinista. El jefe de tren se encontraba también en la cabina del maquinista en el momento en que el tren Os 6051 circulaba por la SK n.º 1 de la aguja Bezděčín, si bien salió por la puerta de entrada a la cabina del maquinista solo antes de la colisión con el TDV del tren de mercancías Pn 62422 que circulaba en sentido contrario, a fin de permitir al maquinista una eventual salida rápida de la cabina.
+El hallazgo indicado no puede valorarse, atendiendo a la contradicción entre las declaraciones del maquinista y del jefe de tren del tren Os 6051 en relación con la entrada y la permanencia del jefe de tren en la cabina (en el puesto) del maquinista, en conexión con la declaración del maquinista sobre la influencia de la presencia del jefe de tren en la dirección del tren, en relación causal con la aparición del MU.
 ### Hallazgos:
-En la investigación se constató la infracción de la normativa legal y de las normas internas relativas a las funciones y obligaciones del transportista ČD, al margen de la relación causal con la aparición del MU:
+En la investigación se constató la infracción de disposiciones legales y de disposiciones internas relativas a las funciones y obligaciones del transportista ČD, al margen de la relación causal con la aparición del MU:
 •
-§ 35 apartado 1 letra a) de la Ley n.º 266/1994 Sb.:
-«El transportista está obligado a explotar el transporte ferroviario de acuerdo con las reglas de explotación del transporte ferroviario, la licencia vigente y el contrato celebrado con el operador de la infraestructura sobre la explotación del transporte ferroviario en la línea,»;
+§ 35 apartado 1 letra a) de la ley n.º 266/1994 Sb.:
+"El transportista está obligado a explotar el transporte ferroviario de acuerdo con las reglas de explotación del transporte ferroviario, la licencia vigente y el contrato celebrado con el explotador de la vía sobre la explotación del transporte ferroviario en la vía";
 •
-artículo 14 de la norma interna ČD D 2:
-«Durante la prestación del servicio de transporte, los empleados solo podrán ocuparse de actividades con las que cumplan las tareas laborales o que estén directamente relacionadas con el cumplimiento de las obligaciones laborales.»;
+art. 14 de la disposición interna de ČD D 2:
+"Durante la prestación del servicio de transporte, los empleados solo podrán ocuparse de actividades con las que cumplan las tareas laborales o que estén en relación directa con el cumplimiento de las obligaciones laborales";
 •
-artículo 204 letra a) de la norma interna ČD D 2:
-«En el puesto del maquinista, desde el que se conduce el vehículo de tracción, pueden viajar como máximo cuatro personas incluido el maquinista, siempre que el espacio de dicho puesto permita la conducción ininterrumpida del vehículo de tracción. Así pueden viajar en el puesto del maquinista:
-a) las personas que acrediten con la correspondiente autorización para circular en el puesto del maquinista según la norma ČD V 2 y solo cuando allí cumplan obligaciones en consonancia con el propósito para el que se emitió la autorización;».
+art. 204 letra a) de la disposición interna de ČD D 2:
+"En el puesto del maquinista, desde el cual se dirige la locomotora, podrán viajar como máximo cuatro personas incluido el maquinista, siempre que el espacio de dicho puesto permita la dirección ininterrumpida de la locomotora. De este modo, podrán viajar en el puesto del maquinista:
+a) las personas que acrediten la autorización correspondiente para viajar en el puesto del maquinista conforme a la disposición ČD V 2, y solo cuando allí cumplan las obligaciones en consonancia con el propósito para el cual se emitió la autorización;".
 ### 4.1.2 Entidades responsables del mantenimiento de los vehículos ferroviarios
-En la investigación no se constató infracción de las funciones y obligaciones de las entidades responsables del mantenimiento de DV.
+En la investigación no se constató infracción de las funciones y obligaciones de las entidades responsables del mantenimiento de los DV.
 
 ## Página 61
+
 
 ### 4.1.3 Fabricantes de vehículos ferroviarios u otros proveedores de instalaciones ferroviarias
 En la investigación no se constató infracción de las funciones y obligaciones de los fabricantes de DV ni de otros proveedores de productos ferroviarios.
@@ -2325,8 +2222,8 @@ Las funciones y obligaciones de otras personas u organismos no guardaban relaci�
 4.2.1 Factores o consecuencias derivados de la construcción de vehículos ferroviarios, de la infraestructura ferroviaria o de instalaciones técnicas
 En la investigación no se identificaron factores derivados de la construcción de DV, de la infraestructura ferroviaria o de instalaciones técnicas.
 
-
 ## Página 62
+
 
 4.2.2 Factores o consecuencias derivados de la instalación y de la puesta en servicio de vehículos ferroviarios, de la infraestructura ferroviaria o de instalaciones técnicas
 En la investigación no se identificaron factores derivados de la instalación y de la puesta en servicio de DV, de la infraestructura ferroviaria o de instalaciones técnicas.
@@ -2339,8 +2236,8 @@ En la investigación no se identificaron factores relacionados con el organismo 
 4.2.6 Otros factores o consecuencias que se consideren relevantes a efectos de la investigación
 Según la declaración del maquinista del tren Os 6051, durante la marcha desde la señal previa PřS de la señal de entrada S de la estación de enlace Bezděčín, el freno del tren no funcionaba correctamente (mediante la manipulación repetida de la palanca de conducción combinada no logró reducir la presión del aire en la tubería principal), véanse los puntos 3.1.9 y 4.1.1 de este ZZ, y dado que la no utilización del tirador (pomo de mando) del freno de emergencia en el puesto de conducción del HDV 814.194-7 fue justificada por la maquinista, entre otros motivos, por no estar segura de si ejercería «suficiente fuerza para arrancar el precinto y, a continuación, el cable que sujeta el mando» [tirador (pomo de mando) del freno de emergencia], el DI verificó la masa (fuerza) necesaria para liberar la tapa del freno de emergencia AK6 no solo en el MU en el que estuvo implicado el HDV 814.194-7, sino también en DV de unidades motoras de la serie 814 seleccionados aleatoriamente por el DI. Para ello se utilizó una báscula portátil (suspendida) de funcionamiento no automático del fabricante Bonso, modelo 393, que permite pesar cargas de hasta 50 kg, con un intervalo de 0,05 kg. La última calibración de esta báscula se realizó el 19. 5. 2023. Mediante la medición se obtuvieron los valores de las masas necesarias para arrancar (activar/liberar) la tapa del freno de emergencia AK6, que con el fin de convertirlos en fuerza de tracción se multiplicaron por la aceleración de la gravedad (se utilizó el valor de la aceleración de la gravedad g = 9,81 m·s-2) y, a continuación, se redondearon al alza a un decimal, véase la Tab. núm. 3.
 
-
 ## Página 63
+
 
 | Vehículo ferroviario | Valor medido de la masa necesaria para arrancar (activar) la tapa del freno de emergencia AK6 [kg] | Valor calculado de la fuerza de tracción necesaria para arrancar la tapa del freno de emergencia AK6 [N] |
 | 814 194 7 . - | 8 4 , | 82 4 , |
@@ -2370,8 +2267,8 @@ arrancada en la primera medición, ni siquiera al ejercer una fuerza de tracció
 ### cordón precinto era de 49 N (correspondiente a una masa de 5 kg), véase la Tab. núm. 3 y el punto 6 de este ZZ.
 Puede resumirse así que, pese al cumplimiento de los límites higiénicos tras el previo corte del cordón precinto (para la masa de una carga manipulada manualmente
 
-
 ## Página 64
+
 
 transportada por una mujer o un hombre en la elevación y el transporte ocasionales), la masa (fuerza) detectada como necesaria para la activación (liberación) del freno de emergencia en el puesto de conducción del ŘDV 95 54 5 914 073-2 no permitía su manejo sencillo;
 •
@@ -2396,6 +2293,7 @@ La maquinista del tren Os 6051 era, de conformidad con la normativa de la Repúb
 
 ## Página 65
 
+
 La revisión periódica de la ZOZ fue realizada por el transportista ČD en ciclos de tres años, como máximo a los 3 años desde la expedición de la licencia del maquinista o desde la realización del último examen o revisión de la ZOZ. El examen de ZOZ y la verificación de conocimientos para la conducción del tipo de vehículo ferroviario M (DV series 714, 809, 810, 814 y 914) lo realizó el maquinista del tren Os 6051 ante el transportista ČD el 21. 10. 2019, en el marco del 1.er examen de recuperación, y la primera revisión periódica de ZOZ el 30. 8. 2022.
 La experiencia en la conducción de DV en la vía ferroviaria fue precedida por la experiencia de la maquinista del tren Os 6051 en la conducción de DV de la vía de tranvía, según la información de DPP trabajó como conductora de tranvía en el período desde enero de 2008 hasta septiembre de 2017, de lo que se deduce una experiencia de más de 9,5 años.
 El conocimiento de las condiciones de la vía en la línea y en las instalaciones de servicio de la vía de ámbito nacional Nymburk hl. n. – Mladá Boleslav hl. n. lo confirmó la maquinista del tren Os 6051 de manera verificable en el documento „KARTA ZNALOSTI TRATĚ“ el 11. 12. 2022.
@@ -2409,8 +2307,8 @@ la forma incorrecta de conducción basada en la señal „Výstraha“ (Aviso) e
 la actuación tardía – la reacción (manipulación del elemento de mando para la activación del frenado rápido) a la señal „Stůj“ (Alto) emitida por la señal de salida S1, ante la cual reaccionó tras recorrer una distancia de 104 m y transcurrir 5 s desde el punto de inicio de la visión ininterrumpida de dicha señal (se presume un tiempo de reacción del maquinista de hasta 2 s), no pudiéndose determinar de manera inequívoca la causa de la reacción tardía atendiendo a la declaración de la maquinista del tren Os 6051.
 En la investigación no se detectaron factores relacionados con la formación profesional para la MU del empleado de SŽ (jefe de estación DOZ) y del empleado de ČD (jefe de tren del tren Os 6051) participantes, con su estado de salud y situación personal, incl. el estrés físico y psicológico.
 
-
 ## Página 66
+
 
 ### 4.3.2 Factores laborales
 En la investigación no se detectaron factores relacionados con el contenido del trabajo o la jornada laboral de los empleados del gestor de la vía y de los transportistas. En la investigación no se constató, respecto a dichos empleados, el incumplimiento de las condiciones de descanso antes del turno y de las pausas, respectivamente, del tiempo adecuado para el descanso y la alimentación durante el turno.
@@ -2435,8 +2333,8 @@ En los procedimientos, métodos, contenido y resultados de las actividades de ev
 ### 4.4.3 Sistema de garantía de seguridad de los transportistas y gestores de vías participantes
 En el sistema de seguridad del gestor de la vía y en el sistema de garantía de seguridad del transporte ferroviario de los transportistas, relacionados con las circunstancias de la aparición de la MU en cuestión, no se detectaron deficiencias.
 
-
 ## Página 67
+
 
 ### 4.4.4 Sistema de gestión de los sujetos responsables del mantenimiento de los vehículos ferroviarios y de los talleres de mantenimiento
 El sistema de gestión de los sujetos responsables del mantenimiento de DV y de los talleres de mantenimiento no guardaba relación con la aparición de la MU.
@@ -2464,8 +2362,8 @@ Causal factor:
 failure to stop of the regional passenger train No. 6051 in front of the main
 (departure) signal device S1 at Bezděčín overtaking station with signal „Stop”, due
 
-
 ## Página 68
+
 
 to incorrect driving style of the train driver of the regional passenger train No. 6051
 to the signal „Warning signal” signaled by the main (entrance) signal device S,
@@ -2510,6 +2408,7 @@ la rigidez del mecanismo de mando de la compuerta del freno de emergencia AK6 en
 
 ## Página 69
 
+
 ### Observaciones adicionales
 En el gestor de infraestructura SŽ:
 •
@@ -2534,15 +2433,15 @@ inspector
 Delegación Territorial de Ostrava
 Delegación Territorial de Ostrava
 
-
 ## Página 70
+
 
 ### ANEXOS
 Fig. n.º 8: Vista de la cabina del maquinista dañada y de la parte izquierda de la carrocería del tren Os 6051 en la posición final tras la ocurrencia del MU
 Fuente: DI
 
-
 ## Página 71
+
 
 Fig. n.º 9: Vista del frontal del tren Os 6051 desde el artículo "B" del TDV 23 54 4366 259-0 del tren Pn 62422 en la posición final tras la ocurrencia del MU
 Fuente: DI

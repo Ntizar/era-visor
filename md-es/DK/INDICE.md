@@ -44,7 +44,7 @@ Fidelidad = revisión IA del castellano contra el original (0-100).
 | [DK-10283 - Interim Statement - 2022-34 Foreløbig redegørelse Ejby hjulbrud.md](2022/DK-10283%20-%20Interim%20Statement%20-%202022-34%20Foreløbig%20redegørelse%20Ejby%20hjulbrud.md) | — | 5792 | ok |
 | [DK-10283 - Interim statment v2 -Statusopdatering 2022-34.md](2022/DK-10283%20-%20Interim%20statment%20v2%20-Statusopdatering%202022-34.md) | — | 668 | ok |
 | [DK-10295 - 2022-149 Langgade Station personpåkørsel (07-04-2022).md](2022/DK-10295%20-%202022-149%20Langgade%20Station%20personpåkørsel%20(07-04-2022).md) | — | 4895 | ok |
-| [DK-10304- 2022-364 Rapport Borris-Kibæk dæmningsskred (26-08-2022).md](2022/DK-10304-%202022-364%20Rapport%20Borris-Kibæk%20dæmningsskred%20(26-08-2022).md) | — | 87896 | ok |
+| [DK-10304- 2022-364 Rapport Borris-Kibæk dæmningsskred (26-08-2022).md](2022/DK-10304-%202022-364%20Rapport%20Borris-Kibæk%20dæmningsskred%20(26-08-2022).md) | — | 87896 | revisar |
 | [DK-10313 - SUMMARY in English.md](2022/DK-10313%20-%20SUMMARY%20in%20English.md) | — | 1979 | ok |
 | [DK-10321 - 2022-451 Statement Nivå personpåkørsel (02-10-2022).md](2022/DK-10321%20-%202022-451%20Statement%20Nivå%20personpåkørsel%20(02-10-2022).md) | — | 4207 | ok |
 | [DK-10334 - 2022-517 Statement Odense personpåkørsel (12-11-2022) (002).md](2022/DK-10334%20-%202022-517%20Statement%20Odense%20personpåkørsel%20(12-11-2022)%20(002).md) | — | 4975 | ok |
@@ -174,7 +174,7 @@ Fidelidad = revisión IA del castellano contra el original (0-100).
 
 | Informe | Págs | Caracteres | Verificación |
 |---|---|---|---|
-| [DK 03.12.2010 619-2011-33 PersonpÃ¥kÃ¸rsel HÃ¸jby (03.12.2010).md](2010/DK%2003.12.2010%20619-2011-33%20PersonpÃ¥kÃ¸rsel%20HÃ¸jby%20(03.12.2010).md) | — | 13857 | revisar |
+| [DK 03.12.2010 619-2011-33 PersonpÃ¥kÃ¸rsel HÃ¸jby (03.12.2010).md](2010/DK%2003.12.2010%20619-2011-33%20PersonpÃ¥kÃ¸rsel%20HÃ¸jby%20(03.12.2010).md) | — | 13857 | ok |
 
 ## 2009 (5)
 
@@ -209,7 +209,7 @@ Fidelidad = revisión IA del castellano contra el original (0-100).
 | [20060121_overkoersel-120-Skagen.md](2006/20060121_overkoersel-120-Skagen.md) | — | 10763 | ok |
 | [20060227_Pederstrup.md](2006/20060227_Pederstrup.md) | — | 15947 | ok |
 | [20060420_Rindsholm_ovk.md](2006/20060420_Rindsholm_ovk.md) | — | 10954 | ok |
-| [20060605_Brand_i_Storebæltstunnelen.md](2006/20060605_Brand_i_Storebæltstunnelen.md) | — | 111936 | ok |
+| [20060605_Brand_i_Storebæltstunnelen.md](2006/20060605_Brand_i_Storebæltstunnelen.md) | — | 111936 | revisar |
 | [20060728_hovedgaard-og-La.md](2006/20060728_hovedgaard-og-La.md) | — | 52084 | ok |
 | [20060908_Svenstrup-koll-ovk.md](2006/20060908_Svenstrup-koll-ovk.md) | — | 5765 | ok |
 | [20060914_lyntog_63_abne_dore.md](2006/20060914_lyntog_63_abne_dore.md) | — | 9670 | ok |

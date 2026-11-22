@@ -10,13 +10,14 @@ chars: 68190
 ratio_longitud: 1.31
 tokens_in: 31102
 tokens_out: 22014
-verificacion: revisar
-notas_cifras: ["bloque 1: original bilingüe: se compara contra el idioma principal (EN); cifras largas: 1/22", "bloque 2: original bilingüe: se compara contra el idioma principal (CS)", "bloque 3: cifras cortas: 2/64", "bloque 4: cifras cortas: 2/75", "bloque 5: original bilingüe: se compara contra el idioma principal (CS)", "bloque 7: original bilingüe: se compara contra el idioma principal (CS); cifras cortas: 4/60"]
-avisos: ["bloque 5: ratio 1.66", "bloque 7: ratio 1.79"]
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (PT); cifras largas: 1/18", "página 5: original bilingüe: se compara contra el idioma principal (EN)", "página 6: original bilingüe: se compara contra el idioma principal (CS)", "página 8: original bilingüe: se compara contra el idioma principal (CS); cifras cortas: 2/28", "página 10: cifras cortas: 2/46", "página 12: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 Inspección Ferroviaria
 República Checa
@@ -41,11 +42,12 @@ NIF:   75009561
 http://www.dicr.cz
 fax: (+420) 224 805 428
 
-
 ## Página 2
 
 
+
 ## Página 3
+
 
 # RESUMEN
 6 de noviembre de 2006, 17:16 (16:16 GMT)
@@ -67,11 +69,12 @@ Causa raíz:
 no investigada
 Recomendación: no emitida
 
-
 ## Página 4
 
 
+
 ## Página 5
+
 
 # ÍNDICE
  Resumen .............................................................................................................................3
@@ -102,6 +105,7 @@ incluidas las personas en relación contractual ................................
 
 ## Página 6
 
+
 proporción ...............................................................................................................12
 3.1.2 Otras personas .........................................................................................................14
 3.2 Sistema de garantía de la seguridad ...............................................................................15
@@ -131,8 +135,8 @@ proporción ....................................................................
 4.1.1 Descripción final del incidente basada en los hechos constatados en el punto 3 
 ............................................................................................................................21
 
-
 ## Página 7
+
 
 4.2 Análisis ......................................................................................................................22
 4.2.1 Evaluación de los hechos constatados según el punto 3 y presentación de las conclusiones sobre la causa del incidente y la actuación de los servicios de rescate ..........................................22
@@ -155,44 +159,40 @@ proporción ....................................................................
 ## Página 8
 
 ## 1 RESUMEN
-El 6 de noviembre de 2006 a las 17:16 h se produjo un suceso extraordinario en el transporte ferroviario a tenor del artículo 49 de la ley n.º 266/1994 Coll., sobre vías férreas, en su versión vigente (en adelante, SE), en el que en un paso a nivel de la línea regional Český Těšín – Frýdek-Místek en el pk 112,545 (línea 302B) colisionó un vehículo ferroviario que circulaba como el tren Os 12826 con un ciclista.
-En la SE se produjo una grave lesión corporal con resultado de muerte para el ciclista.
-El paso a nivel (en adelante, PP) está señalizado para los usuarios de la vía terrestre con un cartel de tráfico vertical de advertencia «Cruz de advertencia para paso a nivel de vía única» (A 32a) de conformidad con el decreto del Ministerio de Transporte y Comunicaciones (MDaS) n.º 30/2001 Coll., por el que se aplican las normas de circulación en las vías terrestres, y está protegido con un dispositivo de protección de pasos a nivel (en adelante, DPN) de la categoría PZS 3SI, tipo AŽD 71. La señalización y protección del PP en el pk 112,545 están en consonancia con los artículos 3 y 4 del decreto n.º 177/1995 Coll. y con la norma ČSN 73 6380.
-El daño en el vehículo motor ferroviario (en adelante, VMF) de la serie 810.088-5 asciende a 12.000,- Kč, y en la bicicleta a 5.000,- Kč.
-La causa de la SE fue la entrada ilegal del participante en la circulación terrestre —el ciclista— en el paso a nivel durante el paso del vehículo ferroviario —el tren Os 12826—.
-No se emitió ninguna recomendación de seguridad por parte de la Inspección Ferroviaria (en adelante, IF).
-
+El 6 de noviembre de 2006 a las 17:16 h se produjo un suceso extraordinario en el transporte ferroviario en el sentido del § 49 de la Ley núm. 266/1994 Sb., de ferrocarriles, en su versión vigente (en adelante MU), cuando en el paso a nivel de la línea regional Český Těšín – Frýdek-Místek en el km 112,545 (línea 302B) colisionó un vehículo ferroviario que circulaba como tren Os 12826 con un ciclista.
+En el MU se produjo un daño grave a la salud con resultado de muerte del ciclista.
+El paso a nivel (en adelante ŽP) está señalizado para los usuarios de la vía pública, en ambos sentidos, con una señal vertical de advertencia «Cruz de advertencia para paso a nivel de vía única» (A 32a) según el decreto del MDaS núm. 30/2001 Sb., por el que se establecen las normas de circulación en las vías públicas, y protegido con un dispositivo de seguridad de paso (en adelante PZZ) de categoría PZS 3SI tipo AŽD 71. La señalización y protección del ŽP en el km 112,545 se ajusta al § 3 y al § 4 del decreto núm. 177/1995 Sb. y a la ČSN 73 6380.
+Los daños en el vehículo ferroviario de tracción (en adelante HDV) de la serie 810.088-5 ascienden a 12.000,- CZK, y en la bicicleta a 5.000,- CZK.
+La causa de la aparición del MU fue la entrada no autorizada de un usuario de la vía pública –un ciclista– en el paso a nivel en el momento en que circulaba el vehículo ferroviario –el tren Os 12826–.
+No fue emitida ninguna recomendación de seguridad por parte de la Inspección Ferroviaria (en adelante DI).
 ## 2 DATOS RELATIVOS AL SUCESO EXTRAORDINARIO
 ### 2.1 Suceso extraordinario
 ### 2.1.1 Fecha, hora exacta y lugar del suceso extraordinario
-La SE se produjo el 6 de noviembre de 2006 a las 17 horas 16 minutos, en la línea regional Český Těšín – Frýdek-Místek (línea 302B), en el paso a nivel situado en el pk 112,545, entre las estaciones de tráfico —estaciones ferroviarias (en adelante, EF)— de Dobrá u Frýdku-Místku y Frýdek-Místek.
+El MU se produjo el día 6 de noviembre de 2006 a las 17 horas 16 minutos, en la línea regional Český Těšín – Frýdek-Místek (línea 302B), en el paso a nivel del km 112,545 entre las estaciones de tráfico –estaciones de ferrocarril (en adelante ŽST)– Dobrá u Frýdku-Místku – Frýdek-Místek.
+### 2.1.2 Descripción del suceso extraordinario y del lugar del accidente, incluida la actuación del sistema integrado de emergencias y del servicio de rescate
+A las 17:11:30 h, el tren Os 12826 partió de la ŽST Dobrá u Frýdku-Místku hacia la ŽST Frýdek-Místek. Durante la marcha hacia el paso a nivel (en adelante ŽP) del km 112,545, la persona que conducía el vehículo ferroviario (en adelante maquinista) registró a la derecha, en el sentido de la marcha, la aproximación de un ciclista por la vía de acceso, que también se acercaba al ŽP. Por la forma en que circulaba el ciclista, que adelantaba por la derecha los vehículos estacionados, el maquinista dedujo que el ciclista no tenía intención de detenerse ante el ŽP y por ello dio repetidamente la señal acústica «¡CUIDADO!» y al mismo tiempo aplicó el freno de acción rápida para detener el tren. A pesar de ello, el ciclista entró en el ŽP directamente ante el Os 12826 que se aproximaba. En el momento en que
 
-### 2.1.2 Descripción del suceso extraordinario y del lugar del accidente, incluida la actuación del sistema integrado de rescate y del servicio de rescate
-A las 17:11:30 h, el tren Os 12826 salió de la EF Dobrá u Frýdku-Místku con destino a la EF Frýdek-Místek.
-Al aproximarse al paso a nivel (en adelante, PP) situado en el pk 112,545, la persona que conducía el vehículo ferroviario (en adelante, maquinista) detectó, a la derecha en el sentido de la marcha, la aproximación de un ciclista por la vía de acceso, el cual también se acercaba al PP. A juzgar por la conducción del ciclista, que adelantaba por la derecha a los vehículos de carretera detenidos, el maquinista dedujo que el ciclista no tenía intención de detenerse antes del PP y, por ello, emitió repetidamente la señal acústica «ATENCIÓN» y, simultáneamente, aplicó el freno de emergencia para detener el tren. No obstante, el ciclista entró en el PP directamente por delante del tren Os 12826 que se aproximaba. En el momento en que la cabeza del tren se encontraba en el área del PP, se produjo el impacto en el lado derecho, en el sentido de la marcha, en la parte delantera del VMF. La cabeza del tren se detuvo en el pk 112,437, es decir, a 108 m del lugar de la SE.
-El ciclista fue proyectado fuera de las vías, a la derecha en el sentido de la marcha del tren Os 12826, de vuelta a la carretera por la que se aproximaba. Tras detener el tren, el maquinista del VMF del tren de la serie 810.088-5 notificó al despachador de la EF Frýdek-Místek la ocurrencia de la SE, de conformidad con el plan de notificación del explotador de la vía y del transporte ferroviario.
-El PP se encuentra en el pk 112,545 de la línea regional de vía única n.º 302B Český Těšín – Frýdek-Místek, entre las EF Dobrá u Frýdku-Místku y Frýdek-Místek, en el municipio de Frýdek-Místek. El ángulo de cruce de la vía con la vía terrestre en el lugar de la SE es de 65°.
-El PP está señalizado para los usuarios de la vía terrestre con un cartel de tráfico vertical de advertencia «Cruz de advertencia para paso a nivel de vía única» (A 32a) de conformidad con el decreto del Ministerio de Transporte y Comunicaciones (MDaS) n.º 30/2001 Coll., por el que se aplican las normas de circulación en las vías terrestres, y está protegido con un DPN de la categoría PZS 3SI, tipo AŽD 71. La señalización y protección del PP en el pk 112,545 están en consonancia con los artículos 3 y 4 del decreto n.º 177/1995 Coll. y con la norma ČSN 73 6380.
-La distancia de la «Cruz de advertencia» al eje de la vía es de 5,30 metros en el sentido de la marcha del ciclista, y de 5,20 metros en el sentido contrario.
-El sistema integrado de rescate (en adelante, SIR) se activó a las 17:20 h. En el lugar de la SE intervinieron el Servicio de Rescate Sanitario de Frýdek-Místek, el Servicio de Rescate de Bomberos de ČD Ostrava y la Inspección de Tráfico de la Policía de la República Checa de Frýdek-Místek.
+## Página 9
 
-### 2.1.3 Decisión de iniciar la investigación de las causas y circunstancias de la ocurrencia, composición del equipo de personas técnicamente competentes y método de realización de la investigación de las causas y circunstancias de la ocurrencia
-La ocurrencia de la SE fue notificada a la Inspección Ferroviaria, centro central de notificaciones de Praga (en adelante, COP), a las 17:35 h, por un empleado del explotador de la vía y del transporte ferroviario, que es České dráhy, a.s. (en adelante, ČD), inspector jefe del Departamento Regional de Inspección de Vías y Transporte Ferroviario (RIBŽD) de Ostrava.
-A las 17:38 h, el empleado de la COP decidió el desplazamiento y el inicio de la investigación de las causas y circunstancias de la ocurrencia de la SE en el lugar. La investigación de las causas y circunstancias de la ocurrencia de la SE fue encomendada al Inspector Jefe (VI) de la Oficina Regional de Inspección (ÚI) de Ostrava.
-La investigación de las causas y circunstancias de la ocurrencia de la SE se llevó a cabo de conformidad con el artículo 53b de la ley n.º 266/1994 Coll., sobre vías férreas, y con los artículos 11 y 12 del decreto n.º 376/2006 Coll., sobre el sistema de seguridad de la explotación de la vía y del transporte ferroviario y los procedimientos en caso de suceso extraordinario en las vías férreas.
-En representación del explotador de la vía, fue encomendada la investigación de las causas de la ocurrencia de la SE al inspector jefe del RIBŽD de Ostrava —persona técnicamente competente autorizada.
-
-### 2.2 Circunstancias del suceso extraordinario
-### 2.2.1 Empleados del explotador de la vía y del transportista participantes, personas en relación contractual y demás participantes y testigos
-Empleados del explotador de la vía y del transportista participantes:
-Maquinista del VMF del tren Os 12826;
+cuando el frente del tren se encontraba en el espacio ŽP, se produjo el impacto en el lado derecho en el sentido de la marcha en la parte frontal del HDV. El frente del tren se detuvo en el pk 112,437, es decir, 108 m detrás del lugar de origen del MU. El ciclista fue expulsado fuera de las bandas de la vía a la derecha en el sentido de la marcha del tren Os 12826 de vuelta a la carretera por la que circulaba. Tras la detención del tren, el maquinista del HDV de la serie 810.088-5 del tren comunicó al jefe de estación (ŽST) de Frýdek-Místek la ocurrencia del MU de conformidad con el calendario de comunicaciones del operador de la infraestructura ferroviaria y del transporte ferroviario.
+El ŽP se encuentra en el pk 112,545 de la línea regional de vía única nº 302B Český Těšín – Frýdek-Místek, entre el ŽST de Dobrá u Frýdku-Místku y el ŽST de Frýdek-Místek, en el municipio de Frýdek-Místek. El ángulo de cruce de la vía con la vía de comunicación terrestre en el lugar del MU es de 65°.
+El ŽP está señalizado a los usuarios de la vía de comunicación terrestre en ambos sentidos con una señal vertical de advertencia «Cruz de advertencia para paso a nivel de vía única» (A 32a) de acuerdo con la ordenanza del MDaS nº 30/2001 Sb., por la que se aplican las normas de circulación en las vías de comunicación terrestre, y protegido con PZZ de categoría PZS 3SI tipo AŽD 71. La señalización y la protección del ŽP en el pk 112,545 están en conformidad con el § 3 y el § 4 de la ordenanza nº 177/1995 Sb. y la ČSN 73 6380.
+La distancia de la «Cruz de advertencia» al eje de la vía es de 5,30 metros en el sentido de la marcha del ciclista y de 5,20 metros en el sentido contrario.
+El Sistema Integrado de Emergencias (en adelante, IZS) fue activado a las 17:20 h. En el lugar del MU intervinieron el Servicio de Emergencias Sanitarias de Frýdek-Místek, el Servicio de Emergencias de Bomberos de ČD Ostrava y la Policía de la República Checa, Inspección de Tráfico de Frýdek-Místek.
+2.1.3 Decisión de iniciar la investigación de las causas y circunstancias de la ocurrencia, composición del equipo de personas cualificadas y método de dirección de la investigación de las causas y circunstancias de la ocurrencia
+La ocurrencia del MU fue comunicada a la Inspección Ferroviaria, puesto central de comunicaciones de Praga (en adelante, COP), a las 17:35 h, por un empleado del operador de la infraestructura ferroviaria y del transporte ferroviario, que son los Ferrocarriles Checos, a.s. (en adelante, ČD), a través del inspector superior de RIBŽD Ostrava.
+A las 17:38 h, un empleado de la COP decidió el desplazamiento y el inicio de la investigación de las causas y circunstancias de la ocurrencia del MU en el lugar. La investigación de las causas y circunstancias de la ocurrencia del MU fue encomendada al VI ÚI Ostrava. La propia investigación de las causas y circunstancias de la ocurrencia del MU se realizó de conformidad con el § 53b de la ley nº 266/1994 Sb., de ferrocarriles, y el § 11 y el § 12 de la ordenanza nº 376/2006 Sb., sobre el sistema de seguridad de la explotación de la infraestructura ferroviaria y del transporte ferroviario y los procedimientos en caso de ocurrencia de sucesos excepcionales en las vías férreas.
+Por parte del operador de la infraestructura ferroviaria, la investigación de las causas de la ocurrencia del MU fue encomendada al inspector superior de RIBŽD Ostrava – persona cualificada designada.
+### 2.2 Circunstancias del suceso excepcional
+### 2.2.1 Empleados participantes del operador de la infraestructura ferroviaria y del transportista, personas en relación contractual y otros participantes y testigos
+Empleados participantes del operador de la infraestructura ferroviaria y del transportista:
+Maquinista del HDV del tren Os 12826;
 ●
 Acompañante del tren Os 12826;
 ●
 
-## Página 9
-
 ## Página 10
+
 
 Conductor del tren de maniobras HDV del tren de viajeros Os 12826.
 ●
@@ -215,8 +215,8 @@ La señalización y la seguridad del paso a nivel en el pk 112,545 están en con
 La velocidad máxima de línea en el lugar de producción de la colisión es de 70 km/h; la señal para la velocidad de línea con la indicación «Velocidad 70 km/h» está situada en el sentido de circulación del tren Os 12826 en el pk 116,590, es decir, a 4 045 m del lugar de producción de la colisión. La distancia de frenado en la línea es de 700 metros. La vía pública es recta y plana antes y después del paso a nivel. La superficie de la calzada en el lugar del paso a nivel y en sus alrededores estaba seca en el momento de la colisión, sin baches ni hundimientos evidentes.
 El paso a nivel está señalizado para los usuarios de la vía pública en ambos sentidos con una señal de tráfico vertical de advertencia «Cruz de advertencia para paso a nivel ferroviario de vía única» (A 32a) de conformidad con el Decreto del Ministerio de Transporte y Comunicaciones n.º 30/2001 Coll., por el que se aplican las normas de circulación en las vías públicas, y está equipado con un sistema de protección de pasos a nivel (PZZ) de categoría PZS 3SI tipo AŽD 71. La señalización y la seguridad del paso a nivel en el pk 112,545 están en conformidad con el artículo 3 y el artículo 4 del Decreto n.º 177/1995 Coll., y con la norma ČSN 73 6380.
 
-
 ## Página 11
+
 
 ### 2.2.4 Uso de medios de comunicación
 Durante la circulación del tren en el tramo entre la estación de clasificación ŽST de Dobrá u Frýdku-Místku y la estación de clasificación ŽST de Frýdek-Místek no se utilizan habitualmente medios de comunicación.
@@ -239,23 +239,22 @@ No se produjeron lesiones en la salud de los viajeros ni de los empleados del op
 
 ## Página 12
 
-### 2.3.2 En los objetos transportados, equipajes y demás bienes
-Se causaron daños en un vehículo no motorizado (bicicleta) por un importe de 5.000,- Kč, según tasación pericial de la Policía de la República Checa (PČR).
-### 2.3.3 En material rodante ferroviario, componentes de la vía y en el medio ambiente
-Mediante inspección comisionada del motorrail 810.088-5 realizada el 07. 11. 2006 en las instalaciones del Depósito de Material Rodante de Ostrava (en adelante, DKV Ostrava), se constató:
-deformación de la parte frontal derecha del faldón, del rincón derecho de la carrocería del motorrail, así como daños en el enchufe de la teleindicación y en el cableado del enchufe de la teleindicación. El daño en el material rodante de tracción (HDV) se cuantificó en 12.000,- Kč.
-El daño secundario causado por el material rodante de tracción (MU) a České dráhy (ČD) por retrasos de trenes de transporte de viajeros ascendió a 33.660,- Kč. El tráfico ferroviario se interrumpió en el tramo entre la Estación de Ferrocarril de Dobrá u Frýdku-Místku (ŽST Dobrá u Frýdku-Místku) y la Estación de Ferrocarril de Frýdek-Místek (ŽST Frýdek-Místek) el 06. 11. 2006 desde las 17:16 h hasta las 18:55 h del 06. 11. 2006, es decir, durante 99 min. El tren Os 12826 sufrió un retraso de +97 min y los trenes de enlace en la ŽST Frýdek-Místek: Sp 1641 +8 min., Os 3154 +6 min. Los trenes de transporte de viajeros Os 12828, Os 12829 y Os 12831 fueron sustituidos por autobuses de ČSAD Frýdek-Místek.
-El servicio en dicho tramo se reanudó el 06. 11. 2006 a las 18:55 h.
+### 2.3.2 Sobre las cosas transportadas, el equipaje y otros bienes
+En el vehículo de carretera no motorizado (bicicleta) se produjo un daño, según estimación cualificada de la PČR, por importe de 5.000,- Kč.
+### 2.3.3 Sobre los vehículos ferroviarios, los componentes de la vía de tráfico y sobre el medio ambiente
+De la inspección por comisión del motor 810.088-5, realizada el 07. 11. 2006 en el centro de trabajo Depósito de vehículos ferroviarios Ostrava (en adelante DKV Ostrava), se constató: la parte frontal derecha del limpiabarridos deformada, la esquina derecha de la carrocería del motor dañada y el enchufe del mando a distancia y el cableado del enchufe del mando a distancia dañados. El daño en el HDV se fijó en 12.000,- Kč.
+El daño secundario causado por el MU se originó en ČD por los retrasos de los trenes de transporte de pasajeros por importe de 33.660,- Kč. El tráfico ferroviario en el tramo ŽST Dobrá u Frýdku-Místku – ŽST Frýdek-Místek fue interrumpido el 06. 11. 2006 desde las 17:16 h hasta el 06. 11. 2006 a las 18:55 h, es decir, 99 min. Se retrasó el tren Os 12826 +97 min y los trenes de enlace en ŽST Frýdek-Místek: Sp 1641 +8 min., Os 3154 +6 min. Los trenes de transporte de pasajeros Os 12828, Os 12829 y Os 12831 fueron sustituidos por autobuses de ČSAD Frýdek-Místek.
+El servicio en el tramo indicado fue restablecido el 06. 11. 2006 a las 18:55 h.
 ### 2.4 Circunstancias externas
 ### 2.4.1 Condiciones meteorológicas y datos geográficos
-Clima: + 8º C, calma, penumbra, visibilidad superior a 100 m.
-## 3 REGISTRO DE LAS EXPLICACIONES PRESTADAS
-### 3.1 Resumen de las explicaciones prestadas (sujetas a protección de la identidad de las personas) y sobre la investigación técnica de las causas de la incidencia extraordinaria
-### 3.1.1 Empleados del titular de la infraestructura y del transportista, incluidas las personas en relación contractual
-El maquinista del tren de material rodante de tracción (HDV), en el «Registro con el empleado» elaborado el 13. 11. 2006, indica: «Inicié el turno a las 5:53 horas, el cual transcurrió sin incidencias. Durante la circulación del tren MOs 12826 desde la ŽST Dobrá u Fr. hasta la ŽST Frýdek-Místek, atropellé a un ciclista en un paso a nivel ferroviario protegido. El dispositivo de protección de pasos a nivel (PZZ) estaba en funcionamiento y ya había dos vehículos deteniéndose antes del mismo. De la conducción del ciclista se deducía que no tenía intención de cerciorarse de la distancia del tren ni de detenerse antes del paso a nivel. Yo lo vi a una distancia de unos 15 m. Apliqué inmediatamente el freno de emergencia del tren y la bocina del motorrail. El ciclista venía por el lado derecho, intentaba esquivar el tren, giró a la izquierda y se produjo una colisión frontal. Tras detenerme a unos 100 m después del paso a nivel, no comuniqué el incidente
-
+Meteorología: + 8º C, calma, penumbra, visibilidad superior a 100 m.
+## 3 REGISTRO DE LAS EXPLICACIONES PRESENTADAS
+### 3.1 Resumen de las explicaciones presentadas (sujetas a protección de la identidad de las personas) y del peritaje sobre las causas de la aparición del suceso excepcional
+### 3.1.1 Empleados del gestor de la vía y del transportista, incluidas personas en relación contractual
+El maquinista del HDV de tren, en el «Acta con el empleado» elaborada el 13. 11. 2006, declara: «Entré en el turno a las 5:53 horas, transcurrió sin incidencias. Durante la circulación del tren MOs 12826 desde ŽST Dobrá u Fr. hasta ŽST Frýdek-Místek atropellé a un ciclista en el paso a nivel protegido. El PZZ estaba en funcionamiento y antes de él ya se encontraban dos vehículos. Por la conducción del ciclista era evidente que no tenía la intención de comprobar la distancia del tren y detenerse antes del paso a nivel. Yo lo vi a una distancia de unos 15 m. Inmediatamente apliqué el frenado de acción rápida del tren y la bocina del motor. El ciclista circulaba por el lado derecho, intentó esquivar el tren, giró a la izquierda y se produjo un impacto frontal. Tras detenerme a unos 100 m después del paso a nivel, comuniqué el suceso
 
 ## Página 13
+
 
 al despachador de la ŽST Frýdek-Místek. El maquinista del coche de empuje del tren prestó los primeros auxilios al ciclista. Los daños en el motorrail se cuantificaron en aproximadamente 15.000,- Kč.»
 Registro complementario con el empleado del 15. 1. 2007:
@@ -276,6 +275,7 @@ Respuesta: Al jefe de turno, a la PČR de Frýdek Místek, a RZS, a HZS Ostrava,
 
 ## Página 14
 
+
 ### 3.1.2 Otras personas
 
 La testigo 1, en el «Acta de declaración explicativa de fecha 7.11.2006 de la Policía de la República Checa, ref. ORFM-2944/DN-BR-2006», declaró:
@@ -287,6 +287,7 @@ La testigo 2, en el «Acta de declaración explicativa de fecha 07.11.2006 de la
 «El 06.11.2006, aproximadamente a las 17:15 h, circulaba con el vehículo motorizado Ford Ka de mi marido por la localidad de Frýdek-Místek, por la calle Národních Mučedníků, en dirección desde el taller mecánico Bártek y hijos hacia la oficina central de correos. En el vehículo viajaba conmigo mi conocida …..(testigo 1), que ocupaba el asiento delantero junto al conductor. Por la calle Národních Mučedníků, en dirección desde el taller mecánico Bártek y hijos, llegué al paso a nivel, donde estaba encendido y en funcionamiento el dispositivo de señalización luminoso de color rojo, junto con el sonido de campanillas de dicho dispositivo; por ello, detuve mi vehículo aproximadamente a 6 m antes de dicho dispositivo y esperé a que pasara un tren por las vías. Inmediatamente después de detener el vehículo antes de dicho dispositivo, un ciclista pasó a gran velocidad por la carretera, por el lado izquierdo de mi vehículo, el cual, tras oír la bocina del tren que se aproximaba desde la localidad de Dobrá, miró en esa dirección y, probablemente, detectó dicho tren, intentando evitar la colisión con él girando el manillar de su bicicleta hacia la izquierda, en dirección al tren que se aproximaba, aunque posteriormente se produjo la colisión con dicho tren. Tras la colisión, el ciclista, junto con su bicicleta, fue arrojado hacia atrás en dirección a la vía por la que se aproximaba, y cayó al suelo delante del vehículo en el que yo iba sentada. Declaro que, en el momento anterior a la colisión del ciclista con el tren, el dispositivo de seguridad en este paso a nivel estaba correctamente en funcionamiento, era claramente visible y audible, y no presentaba averías. Posteriormente, nos
 
 ## Página 15
+
 
 ambas salieron rápidamente del vehículo y prestaron los primeros auxilios a este ciclista. Posteriormente …..
 (testigo 3), que estaba con su vehículo motorizado detrás de mi vehículo motorizado,
@@ -330,51 +331,29 @@ Ciclista: El paso a nivel (ŽP) está señalizado para los usuarios de la vía p
 conforme al Decreto del Ministerio de Transporte y Comunicaciones (MDaS) n.º 30/2001 Coll., por el que se desarrollan las normas de circulación en las vías públicas, y está dotado de un sistema de protección de pasos a nivel (PZZ) de categoría PZS 3SI, tipo AŽD 71. La señalización y la protección del
 paso a nivel en el pk 112,545 están en consonancia con los artículos 3 y 4 del Decreto n.º 177/1995 Coll., y con la norma ČSN 73 6380.
 
-
 ## Página 16
 
-### 3.2.2 Requisitos aplicables al personal del titular de la infraestructura y del transportista ferroviario y su cumplimiento
-La aptitud sanitaria y profesional del personal del titular de la infraestructura se rige por las disposiciones del
-Decreto n.º 101/1995 Coll., por el que se aprueba el Reglamento de aptitud sanitaria y profesional del personal
-en la explotación de la infraestructura ferroviaria y del transporte ferroviario (en lo sucesivo, Decreto n.º 101/1995 Coll.).
-El conductor del tren HDV realizó su última revisión médica periódica el 08. 12.
-2005, con una validez de 1 año.
-Los requisitos de aptitud profesional del personal del titular de la infraestructura se establecen en el reglamento interno
-ČD Ok 2 «REGULACIÓN DE FORMACIÓN Y EXÁMENES DE ČESKÉ DRÁHY, a. s.», aprobado
-mediante resolución del director general de České Dráhy, a. s., de fecha 19. 9. 2006, ref.
-60442/2006-O10, con efecto desde el 01 de octubre de 2006. Para las personas que conducen trenes HDV, el reglamento interno
-establece un examen profesional con el número «V-08 / conductor de locomotora». El conductor del tren
-HDV dispone de un «Certificado de aptitud para la conducción de vehículos ferroviarios n.º 004715, emitido
-por la Oficina Ferroviaria de Praga el 29. 03. 1996.
-La última formación con evaluación se realizó el 2 de mayo de 2002. El conocimiento de las condiciones de la vía por parte de la persona que conduce
-un vehículo ferroviario en las líneas y en las estaciones lo impone al titular del transporte ferroviario el artículo 35, apartado 1, letra a), del Decreto n.º 173/1995 Coll., por el que se aprueba el reglamento de circulación ferroviaria
-(en lo sucesivo, Decreto n.º 173/1995 Coll.). La forma de adquirir el conocimiento de las condiciones de la vía y locales por los conductores durante el día y la noche la establecen las prescripciones ČD V1, ČD V2, ČD D2. El conductor
-del tren HDV es una persona con aptitud profesional, con un conocimiento válido para la línea mencionada.
-### 3.2.3 Procedimiento de control interno de la seguridad y sus resultados
-Para garantizar la operatividad de la infraestructura y la seguridad del transporte ferroviario, se establece un intervalo temporal
-de inspecciones y mediciones de las construcciones de la vía en el Anexo n.º 1 del Decreto n.º 177/1995 Coll., por el que se aprueba el reglamento de construcción y técnica ferroviaria
-(en lo sucesivo, Decreto n.º 177/1995 Coll.). Para el paso a nivel (ŽP) se establece un intervalo de inspección de 12 meses. El titular de la infraestructura presentó el registro de la última
-inspección periódica del paso a nivel (ŽP) realizada el 1 de junio de 2006, sin incidencias detectadas.
-El titular de la infraestructura y del transporte ferroviario tiene establecidas las inspecciones y el mantenimiento del sistema de protección de pasos a nivel (PZZ) de conformidad con
-el anexo n.º 1 del Decreto n.º 177/1995 Coll.
-Se presentaron las actas de las inspecciones realizadas al equipo técnico determinado del sistema de protección de pasos a nivel (PZS)
-de categoría 3SNI con el dispositivo PZ 7816/96-E.42, de fecha 6 de diciembre de 1996:
-inspección quinquenal realizada el 28 de junio de 2006 sin incidencias;
+### 3.2.2 Requisitos de los empleados del gestor de la vía y del transportista y su aplicación
+La aptitud médica y profesional de los empleados del gestor se rige por las disposiciones del decreto n.º 101/1995 Sb., por el que se aprueba el Reglamento de aptitud médica y profesional de las personas para la explotación de la vía y el transporte ferroviario (en adelante, decreto n.º 101/1995 Sb.). El maquinista del HDV de tren realizó la última revisión médica periódica el 08. 12. 2005, con una vigencia de 1 año.
+Los requisitos de aptitud profesional de los empleados del gestor los establece la norma interna ČD Ok 2 «REGLAMENTO DE FORMACIÓN Y EXAMEN DE LOS FERROCARRILES CHECOS, a. s.», aprobada por decisión del director general de los Ferrocarriles Checos, a. s., el 19. 9. 2006 con el n.º de expediente 60442/2006-O10, en vigor desde el 01 de octubre de 2006. Para las personas que conducen HDV, la norma interna establece el examen profesional n.º «V-08 / maquinista». El maquinista del HDV de tren posee un «Certificado de aptitud para la conducción de vehículos ferroviarios n.º de registro 004715 expedido por la Autoridad Ferroviaria de Praga el 29. 03. 1996.
+La última formación con evaluación se realizó el 2. 5. 2002. La familiarización de la persona que conduce el vehículo ferroviario con las condiciones de la vía en las líneas y estaciones la impone al gestor del transporte ferroviario el § 35 apartado 1 letra a) del decreto n.º 173/1995 Sb., por el que se aprueba el Reglamento de circulación ferroviaria (en adelante, decreto n.º 173/1995 Sb.). La forma de conocer las condiciones de la vía y locales de los maquinistas durante el día y la noche la establecen las normas ČD V1, ČD V2, ČD D2. El maquinista del HDV de tren es una persona profesionalmente apta, con el reconocimiento válido para la línea indicada.
+### 3.2.3 Procedimiento de control interno de seguridad y sus resultados
+Para garantizar la operatividad de la vía y la seguridad del transporte ferroviario se establece el intervalo temporal de revisiones y mediciones de las obras ferroviarias en el Anexo n.º 1 del decreto n.º 177/1995 Sb., por el que se aprueba el Reglamento de construcción y técnico ferroviario (en adelante, decreto n.º 177/1995 Sb.). Para ŽP se establece un intervalo de revisión de 12 meses. El gestor de la vía presentó el registro de la última revisión periódica de ŽP celebrada el 1. 6. 2006 sin defectos detectados.
+El gestor de la vía y del transporte ferroviario tiene establecidas las revisiones y el mantenimiento de PZZ de conformidad con el anexo n.º 1 del decreto n.º 177/1995 Sb.,
+Se presentaron los registros de las revisiones realizadas del dispositivo técnico designado PZS categoría 3SNI con PZ 7816/96-E.42 de fecha 6. 12. 1996:
+revisión quinquenal realizada el 28. 6. 2006 sin defectos;
 –
-inspección bienal realizada el 17 de agosto de 2006 sin incidencias;
+revisión bienal realizada el 17. 8. 2006 sin defectos;
 –
-las inspecciones trimestrales se realizan periódicamente y las actas de su realización se
+las revisiones trimestrales se realizan periódicamente y los registros de su
 –
-inscriben en el «Registro de averías de los equipos de comunicación y protección»;
-### 3.2.4 Interfaces entre las distintas partes interesadas y las componentes de la ruta de circulación
-El propietario de la línea ferroviaria regional Český Těšín – Frýdek-Místek es Správa železniční
-dopravní cesty, con domicilio social en Prvního pluku 367/5, Praga 8, código postal 186 00.
-El titular de la infraestructura y del transporte ferroviario son České Dráhy, a. s., con domicilio social en Nábřeží L.
-Svobody 1222, Praga 1, código postal 110 15, en virtud de la Autorización oficial emitida por la
-Oficina Ferroviaria de Praga el 6 de mayo de 1996, ref. 1814/96-DÚ/O-Sl (n.º de registro ÚP/1996/1643) y la Licencia
-de titular de transporte ferroviario n.º de ref. 1 - 157/96-DÚ/O-Bp, n.º de registro: L/1996/5000, concedida por la Oficina
+realización se anotan en el «Registro de averías en los dispositivos de comunicación y seguridad»;
+### 3.2.4 Interfaz entre los distintos sujetos implicados y los componentes de la vía
+El propietario de la vía ferroviaria regional Český Těšín – Frýdek-Místek es la Administración de la Infraestructura Ferroviaria, con sede en Prvního pluku 367/5, Praga 8, CP 186 00.
+El gestor de la vía y del transporte ferroviario son los Ferrocarriles Checos, a.s., con sede en Nábřeží L. Svobody 1222, Praga 1, CP 110 15, en virtud de la Autorización Oficial expedida por la Autoridad Ferroviaria de Praga el 6. 5. 1996 con el n.º de expediente 1814/96-DÚ/O-Sl (n.º de registro ÚP/1996/1643) y la Licencia de gestor del transporte ferroviario n.º de expediente 1 - 157/96-DÚ/O-Bp, n.º de registro: L/1996/5000, concedida por la DÚ
 
 ## Página 17
+
 
 Praga, 21 de mayo de 1996, a la persona jurídica – transportista con la razón social «České dráhy, a. s.».
 Ciclista como participante en la circulación vial. Su comportamiento en el uso de la vía pública se regula por la ley n.º 361/2000 Coll., sobre la circulación en las vías públicas, en su redacción posterior.
@@ -419,6 +398,7 @@ La estación de control de tráfico de Frýdek-Místek está equipada con un dis
 
 ## Página 18
 
+
 Místek. La actividad del dispositivo de protección de vía de estación se registra en el módulo de memoria de los ordenadores tecnológicos ESA 11. El dispositivo de protección de vía de estado de funcionamiento sin averías antes y después del incidente.
 ### 3.4.2 Componentes de la vía
 El cruce ferroviario se encuentra en el pk 112,545 de la línea regional de vía única n.º 302B Český Těšín – Frýdek-Místek, entre las estaciones de control de tráfico de Dobrá u Frýdku-Místku y Frýdek-Místek, en el municipio de Frýdek-Místek. El ángulo de cruce de la vía con la vía pública es de 65°.
@@ -435,29 +415,20 @@ El tren Os 12826 salió de la estación de control de tráfico de Dobrá u Frýd
 
 ## Página 19
 
-colisión con un ciclista. La distancia de frenado es de aproximadamente 158 m. La velocidad del tren en el lugar de la colisión fue de 60 km/h. La distancia total recorrida desde la última parada en la estación de ferrocarril de Dobrá u Frýdku-Místku asciende a aproximadamente 4208 m. Mediante la evaluación de los datos del registrador de parámetros de marcha (RP) no se detectó en el tramo en cuestión ningún exceso de la velocidad máxima permitida.
-
-### 3.5 Documentación del sistema de explotación
-### 3.5.1 Medidas adoptadas por el personal del administrador de la infraestructura y del transportista, en lo relativo a la gestión, la señalización y la protección de la circulación
-
-El administrador de la infraestructura y del transporte ferroviario presentó los datos descargados del archivo de los ordenadores tecnológicos ESA 11 de Frýdek-Místek, con los que acreditó el estado sin averías del dispositivo de protección de la circulación (PZZ) en el punto kilométrico 112,545. El dispositivo de protección de la circulación luminoso no está equipado con diagnóstico.
-
-El tren de pasajeros Os 12826 salió de la estación de ferrocarril de Dobrá u Frýdku-Místku a las 17:11 h tras la autorización de salida otorgada por el despachador de la estación de ferrocarril de Dobrá u Frýdku-Místku. Antes de autorizar la salida del tren Os 12826, el despachador de la estación de ferrocarril de Dobrá u Frýdku-Místku comunicó mediante la conexión telefónica de vía la salida prevista del tren Os 12826 al despachador de la estación de ferrocarril de Frýdek-Místek y, a continuación, operó el dispositivo de protección de la circulación de la estación de conformidad con las prescripciones tecnológicas del administrador de la infraestructura.
-
-### 3.5.2 Intercambio de comunicaciones verbales en relación con el incidente, incluidas las pruebas procedentes del equipo de grabación
-
-Se considera que la primera comunicación verificada en relación con el incidente fue la notificación de la colisión en el paso a nivel (ŽP) realizada por el maquinista del tren Os 12826 al despachador de la estación de ferrocarril de Frýdek-Místek, registrada en la red TRS, en modo simplex, en la banda de 150 MHz. Otra comunicación verbal fue la notificación de la ocurrencia del incidente realizada por el despachador de la estación de ferrocarril de Frýdek-Místak al centro de gestión de emergencias (IZS).
-
-Las comunicaciones verbales mencionadas se derivan de las declaraciones explicativas presentadas por el personal participante, indicadas en el artículo 3.1.1.
-
-En la estación de ferrocarril de Frýdek-Místek está instalado un equipo de grabación REDAT tipo 2, número de fabricación 062, para la archivación de las instrucciones transmitidas por teléfono durante la organización y la explotación del transporte ferroviario. En el equipo de grabación no se registran las conversaciones por radio de las redes tecnológicas de radio locales en la banda de 150 MHz. Por esta razón, la comunicación del maquinista del tren Os 12826 al despachador de la estación de ferrocarril de Frýdek-Místek no fue grabada por el equipo de grabación.
-
-### 3.5.3 Medidas adoptadas para la protección y la seguridad del lugar del incidente
-
-Las medidas de protección y seguridad del lugar del incidente fueron aseguradas por el maquinista del tren Os 12826 hasta la llegada de la persona autorizada y técnicamente competente del administrador de la infraestructura y del transporte ferroviario. Tras la llegada de la persona autorizada y técnicamente competente del administrador de la infraestructura y del transporte ferroviario, las medidas de protección y seguridad del lugar del incidente fueron adoptadas por la persona autorizada en coordinación con las autoridades competentes en materia de procedimiento penal.
-
+colisión con ciclista. La distancia de frenado es de unos 158 m. La velocidad del tren en el punto de colisión era de 60 km/h. La distancia total recorrida desde la última parada en la estación Dobrá u Frýdku-Místku asciende a unos 4208 m. La evaluación del RP no detectó, en el tramo indicado, una superación de la velocidad máxima permitida.
+### 3.5 Documentación sobre el sistema de explotación
+### 3.5.1 Medidas adoptadas por los empleados del gestor de la infraestructura y del transportista en materia de conducción, señalización y seguridad del tráfico
+El gestor de la infraestructura y del transporte ferroviario aportó los datos extraídos del archivo de los ordenadores tecnológicos ESA 11 Frýdek-Místek, con los que acreditó el estado sin defectos del PZZ en el punto kilométrico 112,545. El PZZ luminoso no está equipado con diagnóstico.
+El tren Os 12826 partió de la estación Dobrá u Frýdku-Místku a las 17:11 h tras la autorización de salida dada por el jefe de estación de Dobrá u Frýdku-Místku. El jefe de estación de Dobrá u Frýdku-Místku, antes de efectuar la autorización de salida del tren indicado, comunicó mediante el enlace telefónico de vía la salida prevista del tren Os 12826 al jefe de estación de Frýdek-Místek y, a continuación, realizó la maniobra del aparato de enclavamiento de estación de conformidad con las instrucciones tecnológicas del gestor de la infraestructura.
+### 3.5.2 Intercambio de comunicaciones verbales en relación con la incidencia, incluidas las pruebas procedentes del dispositivo de registro
+Como primera comunicación acreditada en relación con la incidencia puede considerarse la notificación de la colisión en el ŽP por parte del maquinista del tren Os 12826 al jefe de estación de Frýdek-Místek, registrada en la red TRS, modo simplex, en la banda de 150 Mhz. La siguiente comunicación verbal fue la notificación de la incidencia por parte del jefe de estación de Frýdek-Místek al IZS.
+Las comunicaciones verbales indicadas se deducen de las declaraciones prestadas por los empleados implicados, recogidas en el artículo 3.1.1.
+En la estación Frýdek-Místek está instalado un dispositivo de registro REDAT tipo 2, n.º de fabricación 062, para archivar las instrucciones transmitidas telefónicamente al organizar y explotar el transporte ferroviario. En el dispositivo de registro no se registran las comunicaciones radiofónicas de las redes tecnológicas locales de radio en la banda de 150 Mhz. Por este motivo, la comunicación del maquinista del tren Os 12826 al jefe de estación de Frýdek-Místek no quedó registrada en el dispositivo de registro.
+### 3.5.3 Medidas adoptadas para la protección y la seguridad del lugar de la incidencia
+Las medidas de protección y seguridad del lugar de la incidencia fueron aseguradas por el maquinista del tren Os 12826 hasta la llegada de la persona autorizada y competente del gestor de la infraestructura y del transporte ferroviario. Tras la llegada de la persona autorizada y competente del gestor de la infraestructura y del transporte ferroviario, las medidas de protección y seguridad del lugar de la incidencia fueron adoptadas por dicha persona en colaboración con los órganos de justicia penal.
 
 ## Página 20
+
 
 ### 3.6 Condiciones laborales, sanitarias y de explotación
 ### 3.6.1 Jornada laboral del personal del administrador de la infraestructura y del transportista que fueron participantes en el incidente
@@ -486,6 +457,7 @@ En el paso a nivel (ŽP) indicado, el último incidente de carácter similar se 
 
 ## Página 21
 
+
 ## 4 ANÁLISIS Y CONCLUSIONES
 ### 4.1 Descripción final del incidente
 ### 4.1.1 Descripción final del incidente basada en los hechos constatados 
@@ -499,30 +471,27 @@ El paso a nivel está señalizado para los usuarios de la vía terrestre con una
 La distancia de la «Cruz de advertencia» al eje de la vía es de 5,30 metros en el sentido de la marcha del ciclista y de 5,20 metros en el lado opuesto.
 La circulación de los trenes entre la estación de Dobrá u Frýdku-Místku y la estación de Frýdek-Místek está protegida por el dispositivo de protección de línea de la 3.ª categoría: el bloqueo automático AH 88 sin semáforo de sección y sin transmisión de las indicaciones al HDV.
 
-
 ## Página 22
 
-El daño material en el HDV asciende a 12.000,- Kč, y en la bicicleta a 5.000,- Kč. El daño total causado como consecuencia del incidente se cuantificó en 17.000,- Kč.
-Además, se cuantificaron los costes secundarios:
-por la Administración de la Red de Transporte Ferroviario por la verificación del sistema de protección de pasos a nivel tras la ocurrencia del incidente, 2.900,- Kč; por los gastos de NAD ČSAD Frýdek Místek, 2.055,- Kč; por los gastos de transporte de la persona autorizada del operador, cuantificados por el Cuerpo de Bomberos y Salvamento de Ostrava en 889,20,- Kč; y por el daño causado al transportista České dráhy, a.s., por el retraso de los trenes, 33.660,- Kč.
+El daño material al material rodante asciende a 12.000,- Kč, y a la bicicleta 5.000,- Kč. El daño total derivado del accidente fue valorado en 17000,- Kč.
+Asimismo, se valoraron los costes secundarios:
+Por parte de la Administración de la Infraestructura Ferroviaria, la revalidación de la PZZ tras el accidente 2.900,- Kč, los costes del servicio alternativo de autobús de ČSAD Frýdek Místek 2.055,- Kč, los costes del transporte de la persona autorizada del gestor, valorados por el Servicio de Bomberos de Ostrava, en 889,20,- Kč, y el daño causado al transportista České dráhy, a.s., por la demora de trenes 33.660,- Kč.
 ### 4.2 Análisis
-### 4.2.1 Evaluación de los hechos constatados según el punto 3 y exposición de las conclusiones sobre la causa 
-del incidente y la actividad de los servicios de rescate
-La causa del incidente fue la entrada no autorizada del participante en el tráfico rodado (ciclista) en el paso a nivel durante la circulación del vehículo ferroviario (tren Os 12826).
-En el momento de la ocurrencia del incidente, el sistema de protección de pasos a nivel (PZZ) estaba en funcionamiento. Este hecho está documentado mediante la evaluación de los datos registrados en los ordenadores tecnológicos del dispositivo de protección de la estación de Frýdek-Místek, tipo ESA 11, y mediante las declaraciones testimoniales de los testigos del incidente.
-La señalización y protección del paso a nivel en el pk 112,545 están en consonancia con los artículos 3 y 4 del decreto n.º 177/1995 Coll. y con la norma ČSN 73 6380.
-El paso a nivel, por su ejecución, cumplía en el momento de la ocurrencia del incidente con los requisitos para la explotación segura de la vía y garantizaba la seguridad de los participantes en la vía terrestre.
-Mediante la evaluación de los datos registrados por el dispositivo de registro instalado en el HDV 810.088-5 se constató que no se superó la velocidad máxima permitida del tren Os 12826 en el tramo entre estaciones, entre la estación de Dobrá u Frýdku-Místku y la estación de Frýdek-Místek.
-El maquinista utilizó todos los medios disponibles para evitar la ocurrencia del incidente.
-En el lugar del incidente intervinieron el Servicio de Asistencia Médica de Frýdek-Místek, el Cuerpo de Bomberos y Salvamento de ČD Ostrava y la Inspección de Tráfico de la Policía de la República Checa de Frýdek-
-Místek. No se formularon observaciones sobre la actividad de los servicios de emergencia integrados (IZS).
-La Inspección Ferroviaria, durante la investigación de las causas y circunstancias de la ocurrencia del incidente, no constató ninguna omisión de las obligaciones del explotador de la vía ni del transportista, establecidas por la normativa jurídica para garantizar la explotación segura de la vía y del transporte ferroviario.
+### 4.2.1 Evaluación de los hechos constatados según el punto 3 y exposición de las conclusiones sobre la causa del accidente y la actuación de los servicios de emergencia
+La causa del accidente fue la entrada no autorizada de un participante en el tráfico por carretera, un ciclista, en la vía en el momento de la circulación del material rodante ferroviario, el tren Os 12826.
+En el momento del accidente, la PZZ estaba en funcionamiento. Este hecho queda acreditado por la evaluación de los datos registrados en los ordenadores tecnológicos de la señalización de la estación ŽST Frýdek-Místek ESA 11 y por las declaraciones testificales de los testigos del accidente.
+La señalización y protección de la vía en el punto kilométrico 112,545 cumple lo dispuesto en el § 3 y el § 4 del decreto nº 177/1995 Sb. y en la norma ČSN 73 6380.
+La vía, por su construcción, cumplía en el momento del accidente los requisitos para la explotación segura de la vía y garantizaba la seguridad de los participantes en la vía pública.
+De la evaluación de los datos registrados por el registrador instalado en el material rodante 810.088-5 se constató que no se superó la velocidad máxima autorizada del tren Os 12826 en el tramo entre las estaciones ŽST Dobrá u Frýdku-Místku – ŽST Frýdek-Místek.
+El maquinista utilizó todos los medios disponibles para evitar el accidente.
+En el lugar del accidente actuaron el Servicio Médico de Emergencias de Frýdek-Místek, el Servicio de Bomberos de ČD Ostrava y la Policía de la República Checa, Inspección de Tráfico de Frýdek-Místek. No se formularon objeciones a la actuación del sistema integrado de emergencias (IZS).
+La Inspección Ferroviaria, al investigar las causas y circunstancias del accidente, no constató ningún incumplimiento de las obligaciones del gestor de la vía ni del transportista establecidas por la normativa legal para garantizar la explotación segura de la vía y del transporte ferroviario.
 ### 4.3 Conclusiones
-4.3.1 Causas inmediatas del incidente, incluidos los factores que contribuyeron a él y que estaban relacionados con la actuación de las personas implicadas o con el estado de los vehículos ferroviarios o de los dispositivos técnicos
-La causa inmediata de la ocurrencia del incidente fue la entrada del ciclista en el paso a nivel en el momento en que se aproximaba a él un vehículo ferroviario. El participante en el tráfico rodado, con su actuación, infringió las disposiciones:
-
+4.3.1 Causas inmediatas del accidente, incluidos los factores que contribuyeron al mismo y que estuvieron relacionados con la actuación de las personas implicadas o con el estado de los material rodante o de las instalaciones técnicas
+La causa inmediata del accidente fue la entrada de un ciclista en la vía en el momento en que se aproximaba a ella un material rodante ferroviario. El participante en el tráfico por carretera, con su actuación, incumplió las disposiciones:
 
 ## Página 23
+
 
 del artículo 6, apartado 3, de la ley n.º 266/1994 Coll., sobre vías férreas, en su versión posterior, donde 
 ●
@@ -546,6 +515,7 @@ No fue necesario que el explotador de la vía y del transporte ferroviario adopt
 
 ## Página 24
 
+
 ## 6 RECOMENDACIONES DE SEGURIDAD
 La Inspección Ferroviaria no ha aceptado la recomendación de seguridad.
 En Ostrava, el 15 de febrero de 2007
@@ -556,14 +526,14 @@ director
 Inspección Territorial de Ostrava
 de la Inspección Territorial de Ostrava
 
-
 ## Página 25
+
 
 ## 7 ANEXOS
 Foto 1: Vista del lado derecho parcialmente deformado del vehículo de tracción HDV 810.088-5.
 Foto 2: Vista del paso a nivel desde la dirección de marcha del ciclista
 
-
 ## Página 26
+
 
 Foto 3: Vista del paso a nivel en sentido contrario a la dirección de marcha del ciclista

@@ -10,13 +10,14 @@ chars: 48069
 ratio_longitud: 1.23
 tokens_in: 27003
 tokens_out: 17171
-verificacion: revisar
-notas_cifras: ["bloque 2: original bilingüe: se compara contra el idioma principal (CS)", "bloque 3: original bilingüe: se compara contra el idioma principal (CS)", "bloque 5: original bilingüe: se compara contra el idioma principal (CS)", "bloque 7: original bilingüe: se compara contra el idioma principal (CS)"]
-avisos: ["bloque 5: ratio 1.63"]
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 6: original bilingüe: se compara contra el idioma principal (EN)", "página 7: original bilingüe: se compara contra el idioma principal (CS)", "página 8: original bilingüe: se compara contra el idioma principal (CS)", "página 11: original bilingüe: se compara contra el idioma principal (PT)", "página 12: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 Inspección Ferroviaria
 República Checa
@@ -41,11 +42,12 @@ CIF:   75009561
 http://www.dicr.cz
 fax: (+420) 224 805 428
 
-
 ## Página 2
 
 
+
 ## Página 3
+
 
 # RESUMEN
 Grado:
@@ -71,21 +73,21 @@ Factor contribuyente: el conductor del camión no respetó una señal de tráfic
 Causa subyacente:   incompatibilidad de la velocidad máxima de línea permitida y las condiciones de visibilidad
                                 del paso a nivel en términos de seguridad ferroviaria y vial
 
-
 ## Página 4
+
 
 Causa raíz:
  ninguna
 Recomendaciones: no emitidas
 Por la traducción al inglés es responsable: Ing. Hana Pechačová, DiS.
 
-
 ## Página 5
+
 
 Este informe final es público y todos los documentos y hechos están respaldados por el expediente de investigación.
 
-
 ## Página 6
+
 
 # Índice
  Resumen .............................................................................................................................3
@@ -121,6 +123,7 @@ Este informe final es público y todos los documentos y hechos están respaldado
 
 ## Página 7
 
+
 3.1.1 Empleados del gestor de la infraestructura y del transportista, incluidas las personas en relación contractual ...............................................................................................................15
 3.1.2 Otras personas .........................................................................................................15
 3.2 Sistema de garantía de la seguridad ...............................................................................15
@@ -150,8 +153,8 @@ Este informe final es público y todos los documentos y hechos están respaldado
 4.1 Descripción definitiva del suceso ferroviario ..........................................................................20
 4.1.1 Descripción definitiva del suceso ferroviario basada en los hechos constatados en el punto 3 ............................................................................................................................20
 
-
 ## Página 8
+
 
 4.2 Examen ......................................................................................................................20
 4.2.1 Evaluación de los hechos constatados de acuerdo con el punto 3 y formulación de conclusiones sobre la causa del suceso ferroviario y la actuación de los servicios de emergencia ..........................................20
@@ -170,7 +173,9 @@ Este informe final es público y todos los documentos y hechos están respaldado
 ## Página 9
 
 
+
 ## Página 10
+
 
 ## Lista de siglas y símbolos utilizados
 COP
@@ -195,6 +200,7 @@ AWT a. s.
 Advanced World Transport a. s.
 
 ## Página 11
+
 
 ## 1 RESUMEN
 Clasificación del suceso:
@@ -236,8 +242,8 @@ comunicación terrestre, protegido únicamente por cruces de advertencia en el p
 localmente señalizado como «paso a nivel E», en la vía 17 de la vía–ramal FOSFA, a. s., 
 donde las vías del ramal cruzan una vía de comunicaciones de servicio.
 
-
 ## Página 12
+
 
 Foto 1: Vista del lugar del SE
 ### 2.1.2 Descripción del suceso extraordinario y del lugar del accidente, incluida la actuación del 
@@ -249,8 +255,8 @@ del transportista Advanced World Transport a. s. con una composición de circula
 (1,5 m desde el extremo) y el frontal del material rodante en maniobra.
 En el SE no hubo heridos, el Sistema Integrado de Emergencias no fue activado.
 
-
 ## Página 13
+
 
 Foto 2: Situación del lugar del SE (fuente www.mapy.cz)
 2.1.3 Decisión de iniciar la investigación de las causas y circunstancias del origen, composición del equipo de personas cualificadas y forma de dirigir la investigación de las causas y circunstancias del origen
@@ -269,8 +275,8 @@ conductor de la composición de circulación (tractor con remolque).
 2.2.2 Trenes y su composición, incluidos los números de registro de cada material rodante
 La maniobra en maniobra estaba formada por el material rodante motriz 703.564-5 y el material rodante Uacs 83 54 9322 112-0. La longitud total de la maniobra en maniobra era de 21,69 m, la masa total de la maniobra en maniobra era de 98 t. La maniobra no estaba frenada de forma continua. El HDV es propiedad de la sociedad AWT a. s., el DV es propiedad de la sociedad FOSFA, a. s.
 
-
 ## Página 14
+
 
 ### 2.2.3 Descripción de los componentes de la vía de circulación de la vía, del sistema de señalización (es decir, en particular del estado de las vías, agujas, enclavamientos, señales y del dispositivo de seguridad de tren)
 El lugar de origen del SE se encuentra en un PN interno de doble vía en el pk 0,588 de la vía–ramal FOSFA, a. s., enlazada con la vía de ámbito nacional, línea 323D Břeclav – Znojmo, en la estación ferroviaria Boří les. Este PN permite el cruce de la vía ferroviaria con una vía de comunicaciones de servicio dentro de la instalación del ramal. La vía de comunicación terrestre cruza la vía–ramal en un ángulo de 80°. El PN está protegido únicamente por cruces de advertencia, es de doble vía, la estructura del paso a nivel es de paneles de hormigón, el tipo de calzada es con revestimiento bituminoso – asfalto. En el sentido de circulación NA, el cruce de advertencia estaba situado a la derecha de la vía de comunicación terrestre a una distancia de 3,6 m del eje de la vía exterior.
@@ -293,9 +299,9 @@ No se produjo ningún daño a la salud en los empleados del operador de la vía 
 ## Página 15
 
 ### 2.3.2 Sobre las cosas transportadas, el equipaje y otros bienes
-Como consecuencia del MU se dañó el remolque (cisterna). El daño se estimó en 400 000 Kč.
-### 2.3.3 Sobre los vehículos ferroviarios, los componentes de la vía de tráfico y el medio ambiente
-Los costes de reparación del DV Uacs 83 54 9322 112-0, propiedad de la sociedad FOSFA, a. s., se cifraron en 1 000 Kč.
+Como consecuencia del MU, el remolque (cisterna) resultó dañado. Los daños se estimaron en 400 000 Kč.
+### 2.3.3 Sobre el material rodante, los componentes de la vía de circulación y el medio ambiente
+Los costes de reparación del material rodante dañado Uacs 83 54 9322 112-0, en propiedad de la sociedad FOSFA, a. s., se cifraron en 1 000 Kč.
 ## 2.4
 ### Circunstancias externas
 ### 2.4.1 Condiciones meteorológicas y datos geográficos
@@ -307,23 +313,23 @@ Coordenadas GPS del lugar del MU: 48°44'18.9466''N, 16°51'50.0049''E.
 ## 3.1
 ### Resumen de las explicaciones presentadas (sujeto a protección de la identidad de las personas)
 ### 3.1.1 Empleados del gestor de la vía y del transportista, incluidas personas en relación contractual
-…..jefe de maniobras – del Registro con el empleado se desprende, entre otros:
+…..jefe de maniobras – del Acta con el empleado se desprende, entre otros:
 •
-estaba en el escalón derecho en el sentido de la marcha en la parte delantera del vagón empujado y estaba convencido de
+estaba en el escalón derecho en el sentido de la marcha, en la parte delantera del vagón empujado, y estaba convencido de
 ◦
 que tenía buena visibilidad desde el paso a nivel;
-al acercarse la sección de maniobras al ŽP, vio desde el lado izquierdo el NA que se aproximaba;
+al acercarse la sección de maniobras al PdN, vio desde el lado izquierdo el NA que se aproximaba;
 ◦
-saltó a la derecha desde el escalón porque estaba convencido de que se produciría un impacto; corrió hacia el maquinista y daba la señal «¡Alto!» y a sus espaldas oyó un golpe.  
+saltó a la derecha desde el escalón, porque estaba convencido de que se produciría un impacto; corrió hacia el maquinista y daba la señal «Alto», y a sus espaldas oyó un golpe.  
 ### 3.1.2 Otras personas
-En la producción del MU no participaron otras personas.
+En la ocurrencia del MU no participaron otras personas.
 ## 3.2
 ### Sistema de garantía de la seguridad
 ### 3.2.1 Organización marco y forma en que se emiten y ejecutan las instrucciones
 El gestor de la vía y el transportista AWT a. s. emitió la norma interna «PŘ vlečky FOSFA a. s.», en la que se indica que:
 
-
 ## Página 16
+
 
 Los pasos a nivel en el apartadero se vigilan en principio. Si el jefe de maniobras garantiza la marcha con
 •
@@ -347,8 +353,8 @@ La última inspección y medición del apartadero, incluida la inspección del �
 El propietario del apartadero FOSFA, a. s. es la sociedad Fosfa, a. s., Hraniční 268, Břeclav;
 •
 
-
 ## Página 17
+
 
 El gestor de la vía-apartadero y del tráfico ferroviario es Advaced World Transport a. s.,
 •
@@ -383,6 +389,7 @@ En el apartadero no existe ningún dispositivo de seguridad ni de registro. El p
 
 ## Página 18
 
+
 ### 3.4.2 Partes de la vía
 El SU se produjo en un cruce de vía de dos vías con carretera terrestre, protegido por cruces de advertencia, en el pk 0,588, localmente denominado «paso a nivel E», en la vía 17 de la vía – apartadero de FOSFA, a. s., donde las vías del apartadero cruzan una carretera de servicio. Durante la investigación en el lugar, la DI realizó mediciones en el PdV. Todas las longitudes de visibilidad medidas Lr y Lp cumplen en todos los cuadrantes la ČSN 73 6380 únicamente para una velocidad de línea de 5 km·h-1.
 ### 3.4.3 Medios de comunicación
@@ -408,32 +415,30 @@ Del registro del velocímetro no es posible determinar con certeza a qué veloci
 Las maniobras las dirigía el jefe de maniobras, que se encontraba en la cabeza de la sección de maniobras, en los escalones de la plataforma, a la derecha en el sentido de marcha. Cuando la sección de maniobras se encontraba justo antes del paso a nivel, el jefe de maniobras observó un camión de carga, un tracto con remolque cisterna, que entraba en el paso a nivel por la izquierda en el sentido de marcha de la sección de maniobras. El jefe de maniobras se asustó y saltó de los escalones de la plataforma del vagón al comienzo del paso a nivel. Comenzó a correr en sentido contrario al de la marcha de las maniobras y dio al maquinista la señal «Alto, deténgase por todos los medios». El maquinista recibió esta señal y frenó con el freno de mando directo. Sin embargo, prácticamente de inmediato se produjo el impacto en la parte trasera derecha del remolque cisterna.
 En el momento del empuje de la sección de maniobras, el PdV no estaba protegido por una persona cualificada, lo que es contrario a lo dispuesto en el § 16, apartado 5, del decreto nº 173/1995 Sb., reglamento de explotación de las vías, en su versión vigente.
 
-
 ## Página 19
 
-### 3.5.2 Intercambio de mensajes verbales en relación con el suceso excepcional, incluidos los documentos del dispositivo de registro
-Durante el empuje de la sección de maniobras se mantuvo comunicación entre el jefe de maniobras y el maquinista mediante una estación de radio.
-A una distancia de unos 20-30 m del PdV, el jefe de maniobras dio la señal «Despacio». Al acercarse al PdV, divisó por la izquierda un NA en aproximación. Saltó del estribo, corrió hacia el maquinista y dio verbalmente la señal «Alto».
-### 3.5.3 Medidas adoptadas para la protección y seguridad del lugar del suceso excepcional
-El lugar del SU fue protegido por la empresa explotadora de la vía de conformidad con el decreto 376/2006 Sb., sobre el sistema de seguridad de la explotación de la vía y del transporte ferroviario y los procedimientos en caso de producción de sucesos excepcionales en las vías, en su versión vigente. La autorización para liberar la vía fue concedida por la Inspección Ferroviaria el día 13. 08. 2010 a las 11:43 h.
+### 3.5.2 Intercambio de mensajes verbales en relación con la incidencia, incluidos los registros del dispositivo de grabación
+Durante el empujón de la maniobra de maniobras se produjo comunicación entre el jefe de maniobras y el maquinista mediante radio.
+A una distancia de unos 20-30 m antes del PFE, el jefe de maniobras dio la señal "Despacio". Al acercarse al PFE, vio desde el lado izquierdo una NA en aproximación. Saltó del estribo, corrió hacia el maquinista y dio verbalmente la señal "Alto".
+### 3.5.3 Medidas adoptadas para la protección y aseguramiento del lugar de la incidencia
+El lugar de la incidencia fue asegurado por el gestor de la infraestructura de conformidad con el decreto 376/2006 Sb., sobre el sistema de seguridad de la explotación de la infraestructura y del transporte ferroviario y los procedimientos en caso de producirse incidencias en las infraestructuras, en su versión vigente. La autorización para liberar la infraestructura fue concedida por la Inspección Ferroviaria el día 13. 08. 2010 a las 11:43 horas.
 ## 3.6
 ### Condiciones laborales, sanitarias y de explotación
-### 3.6.1 Jornada laboral de los empleados de la empresa explotadora de la vía y del transportista que fueron participantes en el suceso
-La jornada laboral de los empleados participantes de la empresa explotadora de la vía y del transportista no tuvo influencia en la producción del SU. El empleador garantizó las condiciones de descanso antes del turno de conformidad con el § 90 de la ley nº 262/2006 Sb.
-3.6.2 Estado de salud y situación personal que influyeron en el suceso excepcional, incluido el estrés físico o psíquico
-Los empleados participantes estaban, en el momento de producirse el SU, en condiciones de salud para el desempeño de
+### 3.6.1 Jornada laboral de los empleados del gestor de la infraestructura y del transportista que participaron en la incidencia
+La jornada laboral de los empleados participantes del gestor de la infraestructura y del transportista no tuvo influencia en la producción de la incidencia. El empleador garantizó las condiciones de descanso antes del turno de conformidad con el § 90 de la ley nº 262/2006 Sb.
+3.6.2 Estado de salud y situación personal que influyeron en la incidencia, incluido el estrés físico o psicológico
+Los empleados participantes estaban, en el momento de producirse la incidencia, aptos para el desempeño de
 •
-la función que desempeñaban. La investigación no arrojó datos de que la situación personal o el estado psíquico de las personas participantes en el SU hayan tenido influencia en la producción del SU.
-Los empleados de la empresa explotadora de la vía y del transportista se someten a reconocimientos médicos periódicos
-•
-de conformidad con lo dispuesto en el decreto nº 101/1995 Sb., por el que se aprueba el Reglamento de aptitud sanitaria y profesional de las personas para la explotación de la vía y del transporte ferroviario, en su versión vigente. No se detectaron estados de salud ni situaciones personales que pudieran haber influido en la producción del SU, incluido el estrés físico y psíquico.
+la función que desempeñaban. La investigación no arrojó que la situación personal o el estado psicológico de las personas participantes en la incidencia hubieran influido en la producción de la incidencia.
+Los empleados del gestor de la infraestructura y del transportista se someten a reconocimientos médicos periódicos de conformidad con la disposición del decreto nº 101/1995 Sb., por el que se aprueba el Reglamento sobre la aptitud sanitaria y profesional de las personas para la explotación de la infraestructura y del transporte ferroviario, en su versión vigente. No se detectaron estados de salud ni situaciones personales que pudieran haber influido en la producción de la incidencia, incluido el estrés físico y psicológico.
 3.6.3 Disposición del equipamiento del puesto de mando o del vehículo que influye en su manejo y uso
-La disposición del equipamiento del puesto de mando, ni la del vehículo, no tuvo influencia en la producción del SU.
+La disposición del equipamiento del puesto de mando, ni la del vehículo, no tuvo influencia en la producción de la incidencia.
 ## 3.7
-### Sucesos excepcionales anteriores de carácter similar
-En la vía – apartadero de FOSFA, a. s., se trata del primer SU de este tipo.
+### Incidencias anteriores de carácter similar
+En la infraestructura-ramal FOSFA, a. s., se trata de la primera incidencia de este tipo.
 
 ## Página 20
+
 
 ## 4 ANÁLISIS Y CONCLUSIONES
 ## 4.1
@@ -447,20 +452,20 @@ En el suceso ferroviario no hubo heridos, ni se produjo fuga de sustancias ecol�
 ## 4.2
 ### Análisis
 ### 4.2.1 Evaluación de los hechos constatados según el punto 3 y exposición de las conclusiones sobre la causa del suceso ferroviario y la actuación de los servicios de emergencia
-En todo el recinto de la empresa FOSFA, a. s., en el que se encuentra la vía férrea–ramal, la velocidad de los vehículos por carretera está limitada a 20 km·h-1. La entrada al recinto está señalizada con la señal vertical de tráfico IP25a «Zona con restricción de tráfico», sin la representación de la cruz de advertencia, con la representación de las señales de tráfico A30 «Paso a nivel sin barreras» y A22 «Otro peligro», y con el texto «Prioridad del tráfico ferroviario, separación lateral de las vías 1,5 m». Esta 
-
+En todo el recinto de la empresa FOSFA, a. s., en el que se encuentra la vía férrea–ramal, la velocidad de los vehículos por carretera está limitada a 20 km·h-1. La entrada al recinto está señalizada con la señal vertical de tráfico IP25a «Zona con restricción de tráfico», sin la representación de la cruz de advertencia, con la representación de las señales de tráfico A30 «Paso a nivel sin barreras» y A22 «Otro peligro», y con el texto «Prioridad del tráfico ferroviario, separación lateral de las vías 1,5 m». Esta
 
 ## Página 21
 
-configuración de la señal IP25a contradice la norma ČSN 73 6380 Pasos a nivel y pasos a nivel peatonales.
-La vía por la que llegaba al paso a nivel «E» el tractor con remolque cisterna estaba señalizada con la señal de tráfico B02 «Prohibido el paso de todo tipo de vehículos». El conductor del tractor no respetó la señal y circuló en sentido prohibido por esta vía de un solo sentido, lo que contradice el § 4 ap. c) de la Ley n.º 361/2000 Sb., sobre la circulación en las vías públicas y sobre la modificación de determinadas leyes, en su redacción vigente.
-No fue posible valorar la forma de conducción del tractor hacia el paso a nivel, en particular su velocidad, ya que la Policía de la República Checa no procedió a asegurar la grabación del tacógrafo de este vehículo de carretera de propiedad extranjera, a pesar de estar presente en el lugar y realizar actuaciones en el tractor con el remolque. Por tanto, no es posible confirmar ni descartar que la velocidad de conducción del tractor hacia el paso a nivel tuviera influencia en la producción del suceso ferroviario.
-El paso a nivel «E», en el que se produjo el suceso ferroviario, está protegido únicamente con cruces de advertencia. Sus distancias a los ejes de las vías exteriores en el momento del suceso ferroviario eran de solo 3,3 m y 3,6 m. Esto contradice la norma ČSN 73 6380 Pasos a nivel y pasos a nivel peatonales, que exige una distancia mínima de 4 m. El campo visual del conductor del tractor que se aproximaba al paso a nivel «E» estaba delimitado, hacia la sección de maniobra que se aproximaba, por la valla y el edificio adyacentes. La longitud visual Lr en este cuadrante era de 8,9 m en el momento del suceso ferroviario. Las longitudes visuales Lr en el paso a nivel en el momento del suceso ferroviario cumplían en todos los cuadrantes únicamente con la velocidad de vía de 5 km·h-1 en el sentido de la norma ČSN 73 6380 Pasos a nivel y pasos a nivel peatonales. Esta velocidad no debe ser superada por un material rodante que se dirija al paso a nivel no solo en todo el campo visual Lr, sino también en el campo visual Lp para el conductor del vehículo por carretera más lento. Sin embargo, del registro del velocímetro de la locomotora de maniobras 703.564-5 se desprende que la sección de maniobra, al desplazarse hacia el paso a nivel, lo hacía en el campo visual Lp a una velocidad de 11 km·h-1, lo que contradice el requisito de la norma ČSN 73 6380 Pasos a nivel y pasos a nivel peatonales sobre la protección del paso a nivel.
-En las proximidades inmediatas del paso a nivel, la sección en maniobra redujo la velocidad y se detuvo casi de inmediato a causa del suceso ferroviario. Del registro del velocímetro no es posible determinar con certeza a qué velocidad entró la sección de maniobra en el campo visual Lr, porque la lectura exacta de valores tan pequeños está más allá de las posibilidades técnicas de la tecnología de registro utilizada. Por tanto, no es posible confirmar ni descartar que la velocidad de paso de la sección de maniobra por el campo visual Lr tuviera influencia en la producción del suceso ferroviario.
-La velocidad de circulación de los materiales rodantes en el ramal está limitada por la norma interna «PŘ vlečky FOSFA a. s.» a 20 km·h-1, a 10 km·h-1 al dirigirse hacia el paso a nivel en una franja de 60 m antes del paso a nivel, y a 5 km·h-1 en las maniobras a través de los pasos a nivel. La distancia de 60 m antes del paso a nivel corresponde, según la norma ČSN 73 6380 Pasos a nivel y pasos a nivel peatonales, a la longitud visual Lp para una velocidad de vía de 10 km·h-1. Sin embargo, la velocidad de los materiales rodantes que se desplazan en los campos visuales Lp y Lr hacia pasos a nivel cuyas condiciones visuales no cumplen los requisitos de la norma ČSN 73 6380 Pasos a nivel y pasos a nivel peatonales ni siquiera para una velocidad de vía de 10 km·h-1, no está prevista desde el punto de vista de la seguridad del cruce de vía férrea y vía pública en la norma interna «PŘ vlečky FOSFA a. s.». Esta situación se da en el paso a nivel «E», donde las condiciones visuales y la velocidad de vía no están en concordancia mutua, y por tanto no se cumple el requisito de la norma ČSN 73 6380 Pasos a nivel y pasos a nivel peatonales sobre la protección de los pasos a nivel.
-La norma interna «PŘ vlečky FOSFA a. s.» indica dos formas de empuje a través de los pasos a nivel, a saber, «la circulación según las condiciones visuales» y «la circulación con precaución aumentada». La persona cualificada que, según la norma interna «PŘ vlečky FOSFA a. s.», garantiza la maniobra a través del paso a nivel, elige la forma de circulación según su criterio y la situación concreta. El jefe de maniobras, que desempeñó el papel de esta persona cualificada en el momento del suceso ferroviario, circulaba en la cabeza del vagón empujado, observando la vía que tenía delante y la situación en torno al paso a nivel. Como consideraba que debido al tráfico
+La ejecución de la marca IP25a es contraria a la norma ČSN 73 6380 Pasos a nivel y pasos peatonales.
+La vía por la que el tractor con remolque cisterna llegaba al paso a nivel «E» estaba señalizada con la señal de tráfico B02 «Prohibido el paso de todo tipo de vehículos». El conductor del tractor no respetó la señal y circuló en sentido prohibido por esta vía de un solo sentido, lo que es contrario al § 4, letra c), de la Ley n.º 361/2000 Sb., sobre la circulación en las vías terrestres y sobre la modificación de determinadas leyes, en su redacción vigente.
+No fue posible evaluar la forma de conducción del tractor hacia el paso a nivel, en particular su velocidad, ya que la Policía de la República Checa no procedió a asegurar la grabación del tacógrafo de este vehículo terrestre de propiedad extranjera, a pesar de estar presente en el lugar y realizar actuaciones en el tractor con remolque. Por tanto, no es posible confirmar ni descartar que la velocidad de circulación del tractor hacia el paso a nivel tuviera influencia en la aparición del MU.
+El paso a nivel «E», en el que se produjo el MU, está protegido únicamente con cruces de San Andrés. Sus distancias a los ejes de los raíles exteriores eran en el momento de la aparición del MU de solo 3,3 m y 3,6 m. Esto es contrario a la norma ČSN 73 6380 Pasos a nivel y pasos peatonales, que exige una distancia mínima de 4 m. El campo visual del conductor del tractor que se aproximaba al paso a nivel «E» estaba delimitado hacia la unidad de maniobras que se aproximaba por la valla contigua y el edificio. La longitud visual Lr en este cuadrante era en el momento de la aparición del MU de 8,9 m. Las longitudes visuales Lr en el paso a nivel en el momento de la aparición del MU cumplían en todos los cuadrantes la velocidad de vía de solo 5 km·h-1 en el sentido de la norma ČSN 73 6380 Pasos a nivel y pasos peatonales. Esta velocidad no debe ser superada por el vehículo ferroviario que circula hacia el paso a nivel no solo en todo el campo visual Lr, sino también en el campo visual Lp para el conductor del vehículo terrestre más lento. Sin embargo, del registro del velocímetro del HDV 703.564-5 se deduce que la unidad de maniobras se desplazaba al circular hacia el paso a nivel dentro del campo visual Lp a una velocidad de 11 km·h-1, lo que es contrario al requisito de la norma ČSN 73 6380 Pasos a nivel y pasos peatonales sobre la protección del paso a nivel.
+En las inmediaciones del paso a nivel, la unidad en maniobra redujo la velocidad y se detuvo casi de inmediato debido al MU. Del registro del velocímetro no es posible determinar con certeza a qué velocidad entró la unidad de maniobras en el campo visual Lr, porque la lectura precisa de valores tan pequeños está más allá de las posibilidades técnicas de la tecnología de registro utilizada. Por tanto, no es posible confirmar ni descartar que la velocidad de paso de la unidad de maniobras por el campo visual Lr tuviera influencia en la aparición del MU.
+La velocidad de circulación de los vehículos ferroviarios en el apartadero está limitada por la norma interna «PŘ vlečky FOSFA a. s.» a 20 km·h-1, al circular hacia el paso a nivel a 10 km·h-1 en la franja de 60 m antes del paso a nivel y en las maniobras a través de los pasos a nivel a 5 km·h-1. La distancia de 60 m antes del paso a nivel corresponde, según la norma ČSN 73 6380 Pasos a nivel y pasos peatonales, a la longitud visual Lp para una velocidad de vía de 10 km·h-1. Sin embargo, la velocidad de los vehículos ferroviarios que se desplazan en los campos visuales Lp y Lr hacia los pasos a nivel cuyas condiciones visuales no cumplen los requisitos de la norma ČSN 73 6380 Pasos a nivel y pasos peatonales ni siquiera para una velocidad de vía de 10 km·h-1, no está prevista por la norma «PŘ vlečky FOSFA a. s.» desde el punto de vista de la seguridad del cruce entre la vía y la vía terrestre. Esta situación se da en el paso a nivel «E», donde las condiciones visuales y la velocidad de vía no están en concordancia mutua, y por tanto no se cumple el requisito de la norma ČSN 73 6380 Pasos a nivel y pasos peatonales sobre la protección de los pasos a nivel.
+La norma interna «PŘ vlečky FOSFA a. s.» indica dos formas de empujar a través de los pasos a nivel, a saber, «la circulación según las condiciones visuales» y «la circulación con precaución aumentada». La persona cualificada que garantiza las maniobras a través del paso a nivel según la norma interna «PŘ vlečky FOSFA a. s.» elige la forma de circulación según su criterio y la situación concreta. El jefe de maniobras, que desempeñaba en el momento de la aparición del MU el papel de esta persona cualificada, circulaba en cabeza del vagón en maniobra, observaba la vía que tenía delante y la situación en torno al paso a nivel. Como consideraba que debido al tráfico
 
 ## Página 22
+
 
 con la señalización no puede llegar un vehículo desde la izquierda, observaba la carretera solo a la derecha en el sentido de circulación de la maniobra. Solo cuando la maniobra estaba justo antes del paso a nivel, el jefe de maniobras observó el tractor con remolque, que no reaccionaba a la maniobra que se aproximaba y entraba en el paso a nivel desde la izquierda en el sentido de circulación de la maniobra. El hecho de que se produjera la colisión demuestra que el paso por el paso a nivel no estaba asegurado, como exige de forma inequívoca el § 16 apartado 5 del decreto nº 173/1995 Sb., reglamento de circulación ferroviaria, en su versión vigente.
 La visibilidad desde la vía pública de la cruz de advertencia para el sentido de circulación contrario por el que se aproximaba el tractor con remolque, en el momento de la aparición de la UE, estaba limitada por el hecho de que, al circular por la vía pública hacia el paso a nivel, otra señal de tráfico la ocultaba intermitentemente. Por tanto, la visibilidad de esta cruz de advertencia no cumplía el requisito de la norma ČSN 73 6380 Pasos a nivel y pasos peatonales ferroviarios.
@@ -483,40 +488,25 @@ nivel desde el punto de vista de la garantía de la seguridad del tráfico ferro
 ### 4.3.3 Causas debidas al marco normativo y al uso del sistema de garantía de la seguridad
 No se detectaron.
 
-
 ## Página 23
 
 ## 4.4
 ### Hallazgos complementarios
-### 4.4.1 Deficiencias y omisiones detectadas durante la investigación de las causas y circunstancias de la aparición de la UE, que sin embargo no son relevantes para las conclusiones sobre las causas
-Durante la investigación de las causas y circunstancias de la aparición de la UE, se detectaron, al margen del nexo causal, las siguientes deficiencias:
-las distancias de las cruces de advertencia de los pasos a nivel «E» al eje del carril
-•
-exterior eran, en el momento de la aparición de la UE, de solo 3,3 m y 3,6 m (se trata del incumplimiento de la norma ČSN 73 6380 Pasos a nivel y pasos peatonales ferroviarios);
-la visibilidad de la cruz de advertencia para el sentido de circulación contrario por el
-•
-que se aproximaba el tractor con remolque era, en el momento de la aparición de la UE, insuficiente – desde algunas posiciones una señal de tráfico la ocultaba por completo (se trata del incumplimiento de la norma ČSN 73 6380 Pasos a nivel y pasos peatonales ferroviarios);
-el diseño gráfico de la señal de tráfico vertical IP25a «Zona con restricción de
-•
-tráfico», que indica un recinto cerrado, no se ajustaba a la norma ČSN 73 6380 Pasos a nivel y pasos peatonales ferroviarios.
+### 4.4.1 Deficiencias y omisiones detectadas durante la investigación de las causas y circunstancias del origen del suceso ferroviario, que sin embargo no son relevantes para las conclusiones sobre las causas
+Durante la investigación de las causas y circunstancias del origen del SU se detectaron, al margen de la relación causal, las siguientes deficiencias:
+• las distancias de las cruces de aviso de los pasos a nivel «E» al eje de la vía más alejada eran en el momento del origen del SU únicamente de 3,3 m y 3,6 m (se trata del incumplimiento de la norma ČSN 73 6380 Pasos a nivel y cruces peatonales ferroviarios);
+• la visibilidad de la cruz de aviso en el sentido de circulación contrario a aquel en el que se aproximaba el tractractor con remolque era en el momento del origen del SU insuficiente – desde algunas posiciones la ocultaba por completo una señal de tráfico (se trata del incumplimiento de la norma ČSN 73 6380 Pasos a nivel y cruces peatonales ferroviarios);
+• el diseño gráfico de la señal de tráfico vertical IP25a «Zona con restricción de tráfico», que indica un recinto cerrado, no cumplía la norma ČSN 73 6380 Pasos a nivel y cruces peatonales ferroviarios.
 ## 5 MEDIDAS ADOPTADAS
 ## 5.1
-### Lista de medidas que ya se han adoptado o tomado como consecuencia de la UE
-el propietario de la vía privada, el 01. 10. 2010, puso en conformidad con la norma
-•
-ČSN 73 6380 Pasos a nivel y pasos peatonales ferroviarios las distancias de las cruces de advertencia al eje del carril exterior;
-el propietario de la vía privada, el 01. 10. 2010, colocó una señal de tráfico en el
-•
-acceso al paso a nivel «E» de manera que no obstaculizara la visibilidad de la cruz de advertencia;
-el propietario de la vía privada, el 26. 11. 2010, en la entrada al recinto, puso en
-•
-conformidad con la norma ČSN 73 6380 Pasos a nivel y pasos peatonales ferroviarios el diseño gráfico de la señal de tráfico vertical IP25a «Zona con restricción de tráfico».
-el propietario de la vía privada, el 26. 11. 2010, equipó el paso a nivel con la señal
-•
-de tráfico P6 «¡Deténgase, ceda el paso!»;
-
+### Lista de medidas que ya se han tomado o adoptado como consecuencia del suceso ferroviario
+• el propietario de la vía industrial, el 01. 10. 2010, puso en conformidad con la norma ČSN 73 6380 Pasos a nivel y cruces peatonales ferroviarios las distancias de las cruces de aviso al eje de la vía más alejada;
+• el propietario de la vía industrial, el 01. 10. 2010, colocó una señal de tráfico en el acceso al paso a nivel «E» de modo que no obstaculizara la visibilidad de la cruz de aviso;
+• el propietario de la vía industrial, el 26. 11. 2010, en la entrada al recinto, puso en conformidad con la norma ČSN 73 6380 Pasos a nivel y cruces peatonales ferroviarios el diseño gráfico de la señal de tráfico vertical IP25a «Zona con restricción de tráfico».
+• el propietario de la vía industrial, el 26. 11. 2010, dotó el paso a nivel de la señal de tráfico P6 «¡Deténgase, ceda el paso!»;
 
 ## Página 24
+
 
 ## 6 RECOMENDACIONES DE SEGURIDAD
 No se emitieron.
@@ -528,8 +518,8 @@ Director
 de la Inspección Territorial de Brno
 de la Inspección Territorial de Brno
 
-
 ## Página 25
+
 
 ## 7 ANEXOS
 Foto 3: Vista del lugar de la UE

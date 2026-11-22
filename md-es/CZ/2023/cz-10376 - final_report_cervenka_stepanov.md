@@ -10,13 +10,14 @@ chars: 173077
 ratio_longitud: 1.25
 tokens_in: 81275
 tokens_out: 59098
-verificacion: revisar
-notas_cifras: ["bloque 1: original bilingüe: se compara contra el idioma principal (EN)", "bloque 2: original bilingüe: se compara contra el idioma principal (CS)", "bloque 4: original bilingüe: se compara contra el idioma principal (CS)", "bloque 5: original bilingüe: se compara contra el idioma principal (CS)", "bloque 8: cifras cortas: 3/56", "bloque 13: original bilingüe: se compara contra el idioma principal (CS)"]
-avisos: ["bloque 14: ratio 1.83"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 7: original bilingüe: se compara contra el idioma principal (CS)", "página 8: original bilingüe: se compara contra el idioma principal (CS)", "página 10: original bilingüe: se compara contra el idioma principal (PT)", "página 12: original bilingüe: se compara contra el idioma principal (CS)", "página 13: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -39,13 +40,13 @@ IČ: 75009561
 mail@dicr.cz
 tel.: +420 736 521 003
 
-
 ## Página 2
+
 
 El presente informe final es público y todos los hechos en él expuestos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ## 1 RESUMEN
 Fuente: České dráhy y Drážní inspekce (detalle en el recorte)
@@ -70,10 +71,10 @@ perturbación de la sección de gálibo de ambas vías de circulación por un ob
 arrancado e incorporado que crecía en la franja de protección de la vía, a la distancia de 
 caída de la sección de gálibo de las vías, como consecuencia de un fallo estático causado 
 por el estado sanitario (podredumbre interna) del árbol, cuando el estado sanitario real no 
-era posible determinar en este caso concreto mediante un método no destructivo (inspecciones 
-
+era posible determinar en este caso concreto mediante un método no destructivo (inspecciones
 
 ## Página 4
+
 
 visuales), así como por su copa asimétrica con una carga unidireccional que se dirigía 
 sobre el cuerpo de la vía, en relación con:
@@ -121,8 +122,8 @@ gestionar el bosque únicamente de tal modo que en la franja de protección de l
 cultive solo aquellas especies arbóreas que por su altura y su posición en la caída 
 no alcancen la sección de gálibo de la vía/vías de la vía férrea.
 
-
 ## Página 5
+
 
 ## RESUMEN
 13 de febrero de 2023, 19:22 (18:22 GMT).
@@ -175,8 +176,8 @@ Esta inclusión permitirá a los propietarios de los bosques gestionarlos de tal
 que solo se cultiven árboles que no caigan sobre la sección de gálibo de la vía 
 férrea.
 
-
 ## Página 6
+
 
 Dirigida al Ministerio de Transporte de la República Checa y a la Autoridad Nacional de 
 Seguridad Ferroviaria (NSA) de la República Checa:
@@ -192,6 +193,7 @@ permitirá a los propietarios de los bosques gestionarlos de tal modo que solo s
 árboles que no caigan sobre la sección de gálibo de la vía férrea.
 
 ## Página 7
+
 
 # Índice
 1 RESUMEN........................................................................................................................3
@@ -233,8 +235,8 @@ SUMMARY.........................................................................
 4.2 Vehículos ferroviarios e instalaciones técnicas........................................................42
 4.2.1 Factores o consecuencias derivados del diseño de los vehículos ferroviarios, de la infraestructura ferroviaria o de las instalaciones técnicas.........................42
 
-
 ## Página 8
+
 
 4.2.2 Factores o consecuencias derivados de la instalación y la puesta en servicio de los vehículos ferroviarios, de la infraestructura ferroviaria o de las instalaciones técnicas.....................................................................................................42
 4.2.3 Factores o consecuencias relacionados con los fabricantes de vehículos ferroviarios u otros proveedores de productos ferroviarios...................................43
@@ -263,8 +265,8 @@ SUMMARY.........................................................................
 6 RECOMENDACIONES DE SEGURIDAD...........................................................................54
 ANEXOS............................................................................................................................56
 
-
 ## Página 9
+
 
 ### Lista de siglas y símbolos utilizados
 AOPK ČR
@@ -336,8 +338,8 @@ informe final sobre los resultados de la investigación del suceso extraordinari
 žst.
 estación ferroviaria
 
-
 ## Página 10
+
 
 ### Lista de siglas de la legislación, normas y normativa interna aplicables
 Reglamento de la Comisión (UE) 2018/762
@@ -363,8 +365,8 @@ normativa interna del gestor de la infraestructura SŽ «SŽ S2/3 Organización 
 SŽ SMS IM
 documento del gestor de la infraestructura SŽ «SŽ SMS IM Resumen del manual del sistema de garantía de la seguridad de la explotación de la vía férrea en la organización estatal Administración Ferroviaria», en la versión vigente en el momento de la producción del SU
 
-
 ## Página 11
+
 
 MP STROMOVÍ
 instrucción metodológica del gestor de la infraestructura SŽ, «SŽ MP Instrucción metodológica para el mantenimiento de la arboleda», en la versión vigente en el momento de la producción del SU
@@ -373,38 +375,37 @@ instrucción del gestor de la infraestructura SŽ, «SŽ PO-65/2021 OŘ OVA Inst
 
 ## Página 12
 
-## 2 INVESTIGACIÓN Y SUS CONTEXTO
+## 2 INVESTIGACIÓN Y SUS RELACIONES
 ### 2.1 Decisión de iniciar la investigación
 El DI decidió iniciar la investigación de la MU en cuestión el 15. 2. 2023.
 ### 2.2 Fundamentación de la decisión de iniciar la investigación
-El DI decidió investigar la MU en cuestión sobre la base de su gravedad, repetitividad y de los impactos de la MU en la operación segura de la vía y del transporte ferroviario, en virtud de la autorización derivada de la disposición § 53b de la Ley núm. 266/1994 Sb.
+El DI decidió investigar la MU en cuestión en base a su gravedad, repetitividad y a los impactos de la MU sobre la explotación segura de la vía y del transporte ferroviario, en virtud de la autorización derivada de lo dispuesto en el § 53b de la ley núm. 266/1994 Sb.
 ### 2.3 Alcance y limitaciones de la investigación, incluida la fundamentación correspondiente
 El DI no se encontró, en el marco de la investigación de la MU en cuestión, con limitaciones que influyeran negativamente en el modo y los procedimientos de la investigación.
-### 2.4 Descripción resumida de las capacidades y funciones técnicas del equipo de investigación
+### 2.4 Descripción resumida de las capacidades técnicas y funciones del equipo de investigación
 Investigación del DI en el lugar de la MU:
 El DI no participó en la investigación en el lugar de la MU.
 Constitución del equipo de investigación:
 no fue necesario constituirlo.
 Se utilizó colaboración externa, con el sujeto:
 •
-PFO, que elaboró el documento «EVALUACIÓN TÉCNICA DE LOS CONTEXTOS CAUSALES DEL FALLO ESTÁTICO DEL ÁRBOL, EVALUACIÓN TÉCNICA DEL ESTADO SANITARIO Y DE LA SEGURIDAD OPERATIVA DE LOS ÁRBOLES SELECCIONADOS», de fecha 30. 3. 2023 (en adelante, Peritaje dendrológico Técnico).
-2.5 Comunicación y consultas durante la investigación con personas o sujetos
-que participaron en el suceso en cuestión
-Al investigar las causas y circunstancias de la aparición de la MU, el DI se basó principalmente en sus propios conocimientos, hallazgos y en su propia documentación fotográfica realizada tras el inicio de su propia investigación. Durante la investigación, el DI solicitó la documentación necesaria al operador de la vía SŽ, al transportista ČD, al ČHMÚ y a LČR.
-La investigación de las causas y circunstancias de la aparición de la MU se realizó de acuerdo con la Ley núm. 266/1994 Sb.
-y el decreto núm. 376/2006 Sb.
+PFO, que elaboró el documento «EVALUACIÓN TÉCNICA DE LAS RELACIONES CAUSALES DEL FALLO ESTÁTICO DEL ÁRBOL, EVALUACIÓN TÉCNICA DEL ESTADO SANITARIO Y DE LA SEGURIDAD OPERATIVA DE LOS ÁRBOLES SELECCIONADOS», de fecha 30. 3. 2023 (en adelante, Dictamen dendrológico técnico).
+2.5 Comunicación y consultas durante la investigación con las personas o sujetos
+que participaron en el acontecimiento de que se trata
+En la investigación de las causas y circunstancias del origen de la MU, el DI se basó principalmente en sus propios conocimientos, hallazgos y en su propia documentación fotográfica realizada tras el inicio de su propia investigación. Durante la investigación, el DI solicitó posteriormente la documentación necesaria al explotador de la vía SŽ, al transportista ČD, al ČHMÚ y al LČR.
+La investigación de las causas y circunstancias del origen de la MU se realizó de conformidad con la ley núm. 266/1994 Sb. y con el decreto núm. 376/2006 Sb.
 ### 2.6 Descripción del nivel de colaboración ofrecido por los sujetos participantes
 El nivel de colaboración con los representantes de los sujetos participantes en la MU fue estándar.
-### 2.7 Descripción de la investigación, métodos y técnicas utilizados para acreditar los hechos
+### 2.7 Descripción de la investigación, los métodos y las técnicas empleados para acreditar la situación de hecho
 y los hallazgos consignados en el informe
-En el marco de la investigación de la MU, el DI procedió de la siguiente manera, es decir, utilizó, entre otros, los siguientes métodos y técnicas:
+En el marco de la investigación de la MU, el DI procedió de la siguiente manera, y utilizó, entre otros, los siguientes métodos y técnicas:
 •
-análisis de la documentación solicitada al operador de la vía SŽ, al transportista ČD, al ČHMÚ y a LČR;
+análisis de la documentación solicitada al explotador de la vía SŽ, al transportista ČD, al ČHMÚ y al LČR;
 •
-análisis de los datos registrados por el SZZ de la est. Červenka y el TZZ del tramo entre estaciones Štěpánov – Červenka;
-
+análisis de los datos registrados por el SZZ de la estación Červenka y por el TZZ del tramo entre estaciones Štěpánov – Červenka;
 
 ## Página 13
+
 
 •
 análisis de los datos registrados por el RR del HDV D-RAILL 91 80 6 193 685-5 (en adelante, 193.685-5) del tren R 895;
@@ -440,8 +441,8 @@ Coordenadas GPS:
 ### 3.1.3 Descripción del lugar del suceso
 El tramo entre estaciones Štěpánov – Červenka es una vía de gran ancho delimitada a ambos lados por estaciones, siendo la frontera entre la vía de gran ancho y la est. la señal principal (de entrada) (en adelante, señal de entrada). En el caso de la est. Štěpánov se trata de las señales de entrada 1S y 2S, situadas en el pk 75,570, y en el caso de la est. Červenka se trata de las señales de entrada 1L y 2L, situadas en el pk 66,903. En todo el tramo entre estaciones descrito, la vía ferroviaria
 
-
 ## Página 14
+
 
 es de doble vía y está electrificada (electrificada) con un sistema de alimentación de corriente continua con una tensión de 3 kV. En el pk 71,362 se ha establecido la parada Střeň para el ascenso y descenso de pasajeros, con andenes a ambos lados de las dos vías.
 El lugar de la MU se encontraba en el pk 69,426, donde la vía, es decir, ambas vías, transcurre por la finca n.º 1288/3, situada en el municipio de Pňovice [552160], en el término municipal de Pňovice [722855], de tipo «otra superficie» y con forma de uso «vía» (véase el punto 3.1.6 de este II).
@@ -466,8 +467,8 @@ ni la superestructura de la vía n.º 1 y 2 ni el TZZ resultaron dañados como c
 con la MU resultó dañado el TV:
 ◦sobre la vía n.º 1, con la destrucción del conjunto de suspensión del TV en el soporte de tracción n.º 211,
 
-
 ## Página 15
+
 
 ◦sobre la vía n.º 2, con su arrastre en una extensión de 200 m y la destrucción del conjunto de suspensión del TV en el soporte de tracción n.º 212;
 •
@@ -501,8 +502,8 @@ instalaciones de la vía
 medio ambiente
 0 Kč.
 
-
 ## Página 16
+
 
 Con la MU, el daño producido en el DV, en los componentes de la vía y en el medio ambiente se cuantificó en total
 ### en 768 074 Kč.
@@ -528,6 +529,7 @@ El propietario de la vía ferroviaria, categoría nacional, Prosenice – Česk�
 El operador de la vía ferroviaria, categoría nacional, Prosenice – Česká Třebová, era SŽ.
 
 ## Página 17
+
 
 El transportista del tren R 895 eran ČD, con domicilio en Nábřeží L. Svobody 1222, Praha 1,
 CP 110 15.
@@ -615,8 +617,8 @@ a las 19:21:08 h
 (de salida) (en adelante, señal de salida) S1 de la est. Červenka; en el panel del repetidor de
 señalización brillaba la luz verde
 
-
 ## Página 18
+
 
 que, con excepción de breves apagados, permaneció encendida en el repetidor
 hasta la parada del tren en la posición final tras la MU.
@@ -677,8 +679,8 @@ despachante de sección 2C del CDP Přerov, desde la sala n.º 3), con posibilid
 control al puesto del jefe de estación de guardia de la est. Zábřeh na Moravě o al control local
 desde la oficina de circulación de la est. Červenka.
 
-
 ## Página 19
+
 
 La vía 1 discurría en sentido directo, es decir, desde el km 66,742 hasta el punto de producción de
 la MU en el km 69,426, y en el sentido de circulación del tren R 895 descendía con una pendiente
@@ -746,8 +748,8 @@ a las 19:11:58 h
 el tren Os 3739 liberó la vía de maniobras n.º 1 de la est. Červenka y se encontraba en
 la cabecera en dirección Štěpánov (en adelante, cabecera štěpánovská);
 
-
 ## Página 20
+
 
 •
 a las 19:12:04 h
@@ -819,6 +821,7 @@ a las 19:14:20 h
 la señal de salida S1 comenzó a indicar la señal «Alto»;
 
 ## Página 21
+
 
 •
 a las 19:14:25 h
@@ -896,8 +899,8 @@ el tren Ex 1263 liberó la KÚ «2T1_L», es decir, la última KÚ en la TK n.º
 Štěpánov – Červenka en el sentido de circulación del tren, y entró 
 entero en la
 
-
 ## Página 22
+
 
 est. Štěpánov;
 •
@@ -979,8 +982,8 @@ la SZZ de la est. Červenka y la TZZ del tramo intermedio Štěpánov – Červe
 presentaban, en el momento de la aparición de la MU, un funcionamiento 
 normal, es decir, un estado sin averías.
 
-
 ## Página 23
+
 
 Del análisis de los datos registrados por el sistema de mando automatizado – 
 el registro de explotación del electrodespachador, que contenía los estados de 
@@ -1045,70 +1048,34 @@ la orden para la finalización de la alimentación de la TV sobre la TK n.º 1
 Al mismo tiempo dejó de estar la TV sobre la TK n.º 1 Štěpánov – 
 Červenka alimentada.
 
-
 ## Página 24
 
 ### 3.1.9 Cualquier otra información relevante a efectos de la descripción del suceso y de la información básica
-Resumen de la explicación prestada por el empleado del transportista ČD:
+Resumen de la explicación prestada por el empleado de la empresa transportista ČD:
 •
 maquinista del tren R 895
-  – Acta con el empleado y Registro de la prestación de explicación 
+  – Acta con el empleado y Registro de prestación de explicación 
 DI:
-◦el 13. 2. 2023 incorporó al turno a las 11:30 h en la est. Přerov y durante 
-todo el tiempo de prestación de servicios (turno) condujo el HDV 193.685-5 
-en el marco de las circulaciones de los trenes R 888 y R 895;
-◦la prestación de servicios (turno) transcurrió sin incidencias ni anomalías (no 
-estuvo alterado por nada ni por nadie), hasta el momento posterior al paso 
-por la est. Červenka, cuando observó en el tramo entre la est. Červenka y 
-la parada Střeň un comportamiento anómalo (oscilación) de la TV sobre la 
-TK contigua, es decir, la TK n.º 2. Ante este estímulo inició el frenado de 
-explotación con el freno continuo del tren R 895;
-◦poco después de iniciar el frenado de explotación registró un destello 
-(descarga eléctrica) en el espacio de la TV, sin poder especificar si la 
-descarga eléctrica se produjo en el espacio sobre la TK n.º 2 o sobre la TK 
-n.º 1 que él circulaba;
-◦acto seguido siguió una fuerte oscilación de la TV sobre ambas TK. Ante la 
-situación creada reaccionó con la apertura del interruptor principal. En ese 
-momento reducía la velocidad del tren con frenado de explotación, pero 
-tras constatar los hechos anteriores aplicó, para detener el tren, el frenado 
-de acción rápida;
-◦tras ver en la vía, por delante del tren, un árbol caído sobre ambas vías en 
-el perfil de paso de la TK, quiso abandonar la cabina del maquinista 
-huyendo hacia la sala de máquinas. Durante un breve lapso de tiempo no 
-consiguió hacerlo por completo y, antes de la colisión, permaneció tendido 
-en el suelo del HDV en el espacio de la puerta que separa la cabina de la 
-sala de máquinas;
-◦seguidamente, el tren R 895, que estaba frenando, embistió el árbol 
-arrancado;
-◦con la MU no sufrió ninguna lesión;
-◦tras detener el tren encendió en el frente del HDV la señal «Alto, 
-deténgase por todos los medios» y comunicó la aparición de la MU al 
-puesto de aviso del explotador de la vía SŽ, es decir, al despachador de 
-vía del CDP Přerov;
-◦informó al jefe de tren de la aparición de la MU y le dio la instrucción de 
-comprobar si alguna de las personas transportadas había sufrido perjuicio 
-en su salud;
-◦tras asegurar el tren contra el movimiento, se dirigió a comprobar el 
-alcance de los daños en el HDV y el estado del TDV del tren;
-◦tras finalizar la investigación en el lugar de la MU y la parcial 
-restablecimiento de la explotación en el tramo intermedio Štěpánov – 
-Červenka, partió con el tren R 895 hacia la est. Olomouc hl. n., donde el 
-tren finalizó extraordinariamente su circulación.
+◦el 13. 2. 2023 se incorporó al turno a las 11:30 h en la est. Přerov y durante todo el tiempo de prestación de servicios (turno) condujo el HDV 193.685-5 en el marco de las circulaciones de los trenes R 888 y R 895;
+◦la prestación de servicios (turno) transcurrió sin averías ni incidencias (no se sintió alterado por nada ni por nadie), hasta el momento posterior al paso por la est. Červenka, cuando observó en el tramo entre la est. Červenka y la parada Střeň un comportamiento anómalo (oscilación) de la TV sobre la TK contigua, es decir, la TK n.º 2. Ante este estímulo inició el frenado de servicio con el freno continuo del tren R 895;
+◦poco después de iniciar el frenado de servicio registró un destello (descarga eléctrica) en el espacio de la TV, sin poder especificar si la descarga eléctrica se produjo en el espacio sobre la TK n.º 2 o sobre la TK n.º 1 que él circulaba;
+◦acto seguido se produjo una fuerte oscilación de la TV sobre ambas TK. Ante la situación creada reaccionó desconectando el interruptor principal. En ese momento estaba reduciendo la velocidad del tren con el frenado de servicio, pero tras constatar los hechos anteriormente indicados, estableció el frenado de acción rápida para detener el tren;
+◦una vez que en la vía avistó, delante del tren, en el perfil de paso un árbol caído sobre ambas vías, quiso abandonar la cabina del maquinista precipitándose hacia la sala de máquinas. Durante un breve tiempo no lo consiguió del todo y, antes de la colisión, permaneció tendido en el suelo del HDV en el espacio de la puerta que separa la cabina de la sala de máquinas;
+◦seguidamente, el tren R 895, que estaba frenando, embistió el árbol derribado;
+◦durante el MU no sufrió ninguna lesión;
+◦tras detener el tren encendió en el frontal del HDV la señal «Alto, deténgase por todos los medios» y comunicó el MU al puesto de aviso del explotador de la vía SŽ, es decir, al despachador de vía CDP Přerov;
+◦informó al jefe de tren de la producción del MU y le dio la instrucción de comprobar si alguna de las personas transportadas había sufrido perjuicio en su salud;
+◦tras asegurar el tren contra el movimiento, se dirigió a comprocar el alcance de los daños en el HDV y el estado del TDV del tren;
+◦tras finalizar la investigación en el lugar del MU y la parcial reanudación de la circulación en el tramo entre estaciones Štěpánov – Červenka, partió con el tren R 895 hacia la est. Olomouc hl. n., donde el tren terminó su circulación de forma extraordinaria.
 Resumen de la explicación prestada por el empleado del explotador de la vía SŽ:
 •
 jefe del departamento de medio ambiente de la OŘ Ostrava
-  – Registro de la prestación de explicación DI:
-◦la verificación y evaluación de árboles y otras vegetaciones crecidas en 
-terrenos de otros propietarios, que se encuentran en la llamada distancia de 
-impacto, se regía, en el momento de la aparición de la MU, por las 
-disposiciones de la MP STROMOVÍ y de la instrucción PO-65/2021;
-◦no le constaba que ninguna de las normas internas de SŽ prescribiera un 
-intervalo temporal de inspecciones periódicas orientadas a la detección de la 
-presencia de árboles y otras vegetaciones crecidas en terrenos de otros 
-propietarios que, al caer, pudieran alcanzar el perfil de paso de la vía, es 
-decir, árboles situados en la distancia de
+  – Registro de prestación de explicación DI:
+◦la verificación y evaluación de árboles y otras vegetaciones crecidas en terrenos de otros propietarios, que se encuentran en la llamada distancia de impacto, se regía en el momento de producción del MU por las disposiciones de la MP STROMOVÍ y de la instrucción PO-65/2021;
+◦no le constaba que alguna de las normas internas de SŽ prescribiera un intervalo temporal para las inspecciones periódicas encaminadas a detectar la presencia de árboles y otras vegetaciones crecidas en terrenos de otros propietarios que, al caer, pudieran alcanzar el perfil de paso de la vía, es decir, los árboles situados en la distancia de impacto
 
 ## Página 25
+
 
 distancias, según el cual los empleados de SŽ OŘ Ostrava, departamento de medio ambiente, debían realizar inspecciones con esta orientación. No se elaboró ningún plan de tiempo para la realización de inspecciones periódicas de arbolado o zonas verdes dentro de SŽ OŘ Ostrava, departamento de medio ambiente, porque los empleados correspondientes con la función laboral de especialista de sistema (los llamados ecólogos) realizaban las inspecciones basándose en el conocimiento local y también en colaboración con los empleados de la Administración de Líneas;
 ◦En el tramo entre la estación Červenka y la parada Střeň no realizó ninguna inspección centrada en la corrección y completitud de la determinación y evaluación de los árboles que crecen en la distancia de impacto. La actividad de inspección en el tramo del departamento de medio ambiente de SŽ OŘ Ostrava se llevaba a cabo de forma continua y por muestreo; sin embargo, en el tramo de línea mencionado anteriormente, durante su ejercicio como jefe del departamento de medio ambiente de SŽ OŘ Ostrava, es decir, desde el 1. 4. 2021, no realizó ninguna inspección con la orientación indicada hasta la ocurrencia de la ME en cuestión;
@@ -1120,8 +1087,8 @@ El espacio en el lugar de la ME no estaba monitorizado por un sistema de cámara
 ### 3.2.1 Secuencia de hechos que condujeron al suceso extraordinario
 El despachador de tramo 2C CDP Přerov estableció con la operación normal de SZZ la ruta de tren para la circulación del tren R 895 desde TK n.º 1 Moravičany – Červenka, a través de SK n.º 1 de la estación Červenka hacia TK n.º 1 Červenka – Štěpánov en el período comprendido entre las 19:14:34 h y las 19:15:07 h. El tren R 895 a las 19:21:29 h pasó por la estación Červenka a una velocidad de 159,9 km·h-1, es decir, la última estación de tráfico con desvío de vías antes de la ocurrencia de la ME, y entró en TK n.º 1 Červenka – Štěpánov. Tras el paso del tren R 895 por la estación Červenka, el maquinista, mediante la observación de la vía, detectó un comportamiento anómalo (oscilación) del TV sobre la TK adyacente, es decir, no la oscilación del TV sobre la TK que él circulaba. No obstante, por temor
 
-
 ## Página 26
+
 
 a un posible daño en el conjunto del TV sobre la vía que él circulaba, a las 19:21:52 h inició el frenado operativo del tren con el freno continuo. El frente del tren se encontraba en ese momento a una distancia de 875 m del lugar de ocurrencia de la ME y a 1 235 m del lugar de detención. Posteriormente, el maquinista del tren R 895 registró en el espacio del TV una descarga eléctrica, seguida de una fuerte oscilación del conjunto del TV sobre ambas TK. Sobre la base de los hechos determinados, el maquinista a las 19:22:02 h a una velocidad de 147,3 km·h-1 desconectó el interruptor principal, lo que tuvo como consecuencia la retracción de los colectores del HDV. El frente del tren se encontraba a una distancia de 412 m del lugar de ocurrencia de la ME y a 772 m del lugar de detención. 6 s después (a las 19:22:08 h) el maquinista a una velocidad de 134,7 km·h-1 aplicó el frenado de acción rápida. El frente del tren se encontraba a una distancia de 184 m del lugar de ocurrencia de la ME y a 544 m del lugar de detención. A las 19:22:13 h el frente del tren impactó a una velocidad de 115 km·h-1 contra el obstáculo, formado en km 69,426 por un árbol (roble invernal), situado en la sección de paso de la TK n.º 1 circulada por el tren R 895. El frente del tren se encontraba a una distancia de 360 m del lugar de detención. Tras transcurridos 26 s (a las 19:22:39 h) el tren se detuvo en la posición final tras la ME, con el frente del HDV en km 69,786.
 La circulabilidad de ambas TK en el tramo Štěpánov – Červenka en el lugar de la ME (km 69,426) antes de la circulación del tren R 895 queda demostrada fehacientemente por las circulaciones realizadas por trenes:
@@ -1139,8 +1106,8 @@ Ex 1263 por la TK adyacente n.º 2 en el período comprendido entre las 19:14:48
 •
 19:27 h el despachador operativo PD3 comunicó la ocurrencia de la ME a HZS SŽ JPO Přerov.
 
-
 ## Página 27
+
 
 •
 19:28 h el despachador operativo PD3 comunicó la ocurrencia de la ME al despachador de red del transportista ČD y 1 min después también al despachador regional del mismo transportista;
@@ -1178,6 +1145,7 @@ El operador de la vía tiene, según la normativa, entre otras, la obligación d
 
 ## Página 28
 
+
 En este punto es necesario señalar que la legislación no define explícitamente los términos «masa arbórea» y «otras vegetaciones», que se utilizaron en la disposición anteriormente citada de la Ley n.º 266/1994 Sb., y por ello es conveniente aclarar e interpretar, al menos de forma aproximada, el significado de estas palabras. El término «masa arbórea» tiene, desde el punto de vista puramente lingüístico, el significado de «masa de árboles», «árboles», entendiéndose por «árbol» un «leñoso con tronco que se ramifica de diversas maneras». El término «vegetación» significa, desde el punto de vista puramente lingüístico, «plantas que cubren algún lugar», entre las cuales cabe incluir sin duda también, por ejemplo, arbustos. Según la interpretación expuesta, es evidente que los conceptos en cuestión «masa arbórea» y «otras vegetaciones» corresponden a los procedimientos tecnológicos del operador de la infraestructura ferroviaria SŽ contenidos en el MP STROMOVÍ. De la Parte primera, Artículo 2, apartado 8 de este procedimiento tecnológico del operador de la infraestructura ferroviaria SŽ y de la lógica de la materia se puede deducir que también pueden considerarse masa arbórea el leñoso que crece fuera del bosque, la vegetación leñosa continua, el bosque (es decir, también el árbol que crece en la masa forestal) y la alineación arbórea (véase más abajo).
 Según las disposiciones de los artículos § 4 y 8 de la Ley n.º 266/1994 Sb.:
 •
@@ -1188,8 +1156,8 @@ El operador de la infraestructura ferroviaria SŽ, para cumplir la obligación d
 Aquí es pertinente señalar que, según la disposición del artículo § 8 apartado 2 de la Ley n.º 114/1992 Sb., «No se requiere permiso … para la eliminación de leñosos con el fin de garantizar la operatividad de la infraestructura ferroviaria o garantizar el transporte ferroviario fluido y seguro en dicha infraestructura … . La tala por estos motivos debe notificarse por escrito al organismo de protección de la naturaleza con al menos 15 días de antelación, el cual podrá suspenderla, limitarla o prohibirla si contradice los requisitos de protección de los leñosos; en el caso de la eliminación de leñosos con el fin de garantizar la operatividad de la infraestructura ferroviaria o garantizar el transporte ferroviario fluido y seguro en dicha infraestructura, solo podrá hacerlo sobre la base de un pronunciamiento vinculante de la autoridad administrativa ferroviaria.», y según la disposición del apartado 4 de dicho artículo, «No se requiere permiso para la tala de leñosos si su estado amenaza clara e inmediatamente la vida o la salud, o si existe riesgo de daños de gran envergadura. Quien realice la tala en estas condiciones la notificará al organismo de protección de la naturaleza dentro de los 15 días siguientes a la realización de la tala.».
 Para mayor completitud, es necesario señalar también que, según la disposición del artículo § 3 apartado 1 de la Ley n.º 114/1992 Sb., de acuerdo con:
 
-
 ## Página 29
+
 
 •
 la letra b) «el elemento paisajístico significativo, como parte ecológica, geomorfológica o estéticamente valiosa del paisaje, configura su aspecto típico o contribuye a mantener su estabilidad. Los elementos paisajísticos significativos son los bosques, las turberas, los cursos de agua, los estanques, los lagos, las llanuras aluviales. …». En este punto es pertinente señalar de nuevo que el árbol derribado sobre ambas TK crecía en la parcela n.º 1029, situada en el municipio de Pňovice [552160], en el término catastral de Pňovice [722855], con forma de protección de Parque Natural (CHKO) en la zona II, en un terreno destinado a cumplir las funciones del bosque, en la franja de protección de una fuente de agua de 2.º grado y en una zona de aves. El propietario del terreno es la República Checa; el derecho de gestionar el patrimonio del Estado corresponde en este caso concreto a LČR (véase el punto 3.1.3 de la presente ZZ);
@@ -1202,39 +1170,44 @@ Según las disposiciones de los artículos § 2 letra a) y c) de la Ley n.º 289
 «Si la garantía de la seguridad de las personas y de los bienes requiere, además de las medidas previstas en el apartado 1, un cambio en el modo de gestión del bosque o una limitación en el uso de los terrenos destinados a cumplir las funciones del bosque, el órgano de la administración estatal de los bosques decidirá sobre las medidas adicionales y determinará quién asumirá los costes asociados y quién indemnizará al propietario del bosque por los eventuales perjuicios. Las disposiciones de las regulaciones especiales permanecen intactas.».
 Parte del sistema establecido de garantía de seguridad del operador de la infraestructura ferroviaria SŽ fue, entre otros, el MP STROMOVÍ, que establece los procedimientos para la realización del mantenimiento de la masa arbórea, principalmente en las infraestructuras ferroviarias – en la obra de la infraestructura ferroviaria, incl. las obras en la infraestructura ferroviaria, o en el ámbito de la infraestructura ferroviaria, y asimismo en la franja de protección de la infraestructura ferroviaria. Esta directriz metodológica sirve también como guía y ayuda para la eliminación progresiva y a largo plazo de la masa arbórea, y su objetivo es, entre otros, armonizar el procedimiento de SŽ con la jurisprudencia actual y la interpretación de la legislación relacionada. También de los procedimientos tecnológicos del operador de la infraestructura ferroviaria SŽ se desprende que la masa arbórea que amenaza la seguridad o la fluidez del transporte ferroviario o la operatividad de la infraestructura ferroviaria es el árbol o arbusto que, al caer, puede alcanzar el perfil de paso de la infraestructura ferroviaria. En las condiciones de SŽ también puede considerarse masa arbórea el bosque, es decir, las masas forestales (árboles y arbustos de especies leñosas forestales) con su entorno y los terrenos destinados a cumplir las funciones del bosque (véase también más arriba), que en las condiciones
 
-
 ## Página 30
 
-dadas cumple las funciones del bosque (productivas y no productivas), si bien la cuestión de la masa forestal destinada a ser eliminada no está regulada de forma independiente por esta directriz metodológica. Sin embargo, del MP STROMOVÍ se desprende que el operador de la infraestructura ferroviaria debe abordar las fuentes existentes de amenaza para la infraestructura ferroviaria, es decir, también la masa arbórea (es decir, también la masa forestal) que amenaza la seguridad o la fluidez del transporte ferroviario o la operatividad de la infraestructura ferroviaria, y mantener la masa arbórea (es decir, también la masa forestal) de modo que cumpla los requisitos de una explotación segura.
-Para las necesidades del MP STROMOVÍ, se considera masa arbórea destinada a ser eliminada aquella que amenaza la explotación de la infraestructura ferroviaria para un transporte ferroviario seguro, por cuanto en caso de su caída o de la caída de sus partes aéreas (ramas, etc.) como consecuencia de condiciones meteorológicas adversas puede causar un riesgo para la vida o la salud y la producción de daños de gran envergadura. Es obligación del propietario del terreno cuidar de los leñosos (en particular, atenderlos y mantenerlos). El propietario del terreno es responsable de los daños que cause la caída de un leñoso o de una parte del mismo sobre los terrenos circundantes, si incumplió la obligación de cuidar de los leñosos según la frase anterior, y así impidió, en particular, que el leñoso se convirtiera en un leñoso destinado a ser eliminado. El MP STROMOVÍ define además, entre otros:
+en condiciones cumple la función del bosque (productiva y no productiva), si bien la problemática del arbolado destinado a su eliminación no está regulada de forma independiente por esta instrucción metodológica. 
+No obstante, del MP STROMOVÍ se desprende que el gestor de la vía debe abordar las fuentes existentes de riesgo para la vía, es decir, también el arbolado (también el arbolado forestal) que ponga en peligro la seguridad o la fluidez del tráfico ferroviario o la operatividad de la vía, y mantener el arbolado (también el arbolado forestal) de modo que cumpla los requisitos de una explotación segura.
+A efectos del MP STROMOVÍ, se considera arbolado destinado a su eliminación aquel que pone en peligro la explotación de la vía para un tráfico ferroviario seguro, en la medida en que, en caso de su caída o de la caída de sus partes aéreas (ramas, etc.) como consecuencia de condiciones meteorológicas adversas, pueda causar un riesgo para la vida o la salud y la producción de daños de considerables dimensiones. 
+Es obligación del propietario del terreno el cuidado de los árboles (en particular, su tratamiento y mantenimiento). 
+El propietario del terreno es responsable de los daños que cause la caída de un árbol o de una parte del mismo sobre terrenos circundantes, si incumplió la obligación de cuidar los árboles según la frase anterior, 
+y así impidió, en particular, que el árbol se convirtiera en un árbol destinado a su eliminación. 
+El MP STROMOVÍ define además, entre otros:
 •
-la franja de protección de la infraestructura ferroviaria – está constituida por el espacio a ambos lados de la infraestructura ferroviaria, cuyos límites están delimitados por una superficie vertical trazada a 60 m del eje del carril extremo en la línea ferroviaria de ámbito estatal y en la línea regional, y como mínimo a una distancia de 30 m de los límites del ámbito de la infraestructura ferroviaria. La franja de protección de la infraestructura ferroviaria tiene un régimen específico establecido por derecho público, en el que los derechos de los propietarios de los inmuebles adyacentes quedan limitados en interés público en una explotación segura y fluida de la infraestructura ferroviaria;
+la franja de protección de la vía – está constituida por el espacio a ambos lados de la vía, cuyos límites están delimitados por una superficie vertical trazada junto a la vía de ámbito nacional y junto a la vía regional a 60 m del eje del carril más alejado, como mínimo a una distancia de 30 m de los límites del perímetro de la vía. La franja de protección de la vía tiene un régimen específico establecido por derecho público, en el que los derechos de los propietarios de las fincas colindantes se ven limitados, en interés público, por la explotación segura y fluida de la vía;
 •
-la distancia de impacto – se entiende por ella la distancia del árbol o arbusto a partir de la cual, en caso de su caída directa, puede producirse un riesgo para la seguridad de la explotación de la infraestructura ferroviaria y del transporte ferroviario;
+la distancia de alcance – se entiende por ella la distancia de un árbol o arbusto a partir de la cual, en caso de su caída directa, puede producirse un riesgo para la seguridad de la explotación de la vía y del tráfico ferroviario;
 •
-la zona crítica – se entiende por ella la zona delimitada hasta una distancia de 6 m del eje del carril extremo a ambos lados de la vía férrea (véase la Fig. n.º 2);
+la zona crítica – se entiende por ella la zona delimitada hasta una distancia de 6 m del eje del carril más alejado a ambos lados de la vía férrea (véase Fig. n.º 2);
 •
-la zona de seguridad – se entiende por ella la zona inmediatamente contigua a la zona crítica y está delimitada por una distancia de 6 m desde el eje del carril extremo hasta una distancia de 20 m del eje del carril extremo a ambos lados de la vía férrea (véase la Fig. n.º 2);
+la zona de seguridad – se entiende por ella la zona inmediatamente contigua a la zona crítica y está delimitada por una distancia de 6 m desde el eje del carril más alejado hasta una distancia de 20 m del eje del carril más alejado a ambos lados de la vía férrea (véase Fig. n.º 2);
 •
-la zona de transición – se entiende por ella la zona inmediatamente contigua a la zona de seguridad y está delimitada por una distancia de 20 m desde el eje del carril extremo y el límite de la franja de protección de la infraestructura ferroviaria a ambos lados de la vía férrea (véase la Fig. n.º 2).
-Para garantizar la obligación de explotar la infraestructura ferroviaria para las necesidades del transporte ferroviario fluido y seguro, el operador de la infraestructura ferroviaria estableció mediante el contenido del MP STROMOVÍ que en:
+la zona de transición – se entiende por ella la zona inmediatamente contigua a la zona de seguridad y está delimitada por una distancia de 20 m desde el eje del carril más alejado y el límite de la franja de protección de la vía a ambos lados de la vía férrea 
+(véase Fig. n.º 2).
+Para garantizar la obligación de explotar la vía a efectos de un tráfico ferroviario fluido y seguro, el gestor de la vía estableció en el contenido del MP STROMOVÍ que en:
 •
-la zona crítica no creciera ningún leñoso, ni arbustos de más de 1 m de altura hasta una distancia de 6 m del eje del carril extremo;
+la zona crítica no creciera ningún árbol ni arbusto de más de 1 m de altura a una distancia de 6 m del eje del carril más alejado;
 •
-la zona de seguridad no se encontraran leñosos más altos que su distancia al eje del carril extremo, es decir, leñosos que excedan la distancia de impacto;
+la zona de seguridad no hubiera árboles más altos que su distancia al eje del carril más alejado, es decir, árboles que excedan la distancia de alcance;
 •
-la zona de transición, de acuerdo con la recomendación, se mantuvieran los leñosos en un estado tal que con su caída no afectaran a los leñosos de la zona de seguridad, es decir, eliminar los leñosos con defectos de crecimiento, atacados por hongos xilófagos, leñosos atacados por plagas, leñosos con la estática dañada (p. ej. por fenómenos naturales),
-recomendando preferentemente la tala en líneas con riesgo con caídas repetidas de árboles y en los corredores ferroviarios de tránsito. Para la eliminación de leñosos mediante tala con el fin de garantizar la operatividad de la infraestructura ferroviaria o garantizar el transporte ferroviario fluido y seguro en
+la zona de transición, de acuerdo con la recomendación, se mantuvieran los árboles en un estado tal que con su caída no afectaran a los árboles de la zona de seguridad, es decir, eliminar los árboles con defectos de crecimiento, atacados por hongos xilófagos, árboles atacados por plagas, árboles con la estructura dañada (por ejemplo, por fenómenos naturales),
+recomendando prioritariamente la tala en líneas de riesgo con caídas repetidas de árboles y en los corredores ferroviarios de tránsito. Para la eliminación de árboles mediante tala con el fin de garantizar la operatividad de la vía férrea o garantizar un tráfico ferroviario fluido y seguro en
 
 ## Página 31
 
-en esta vía no se requiere autorización del órgano de protección de la naturaleza conforme al § 8 apartado 2 de la Ley n.º 114/1992 Sb. La tala de vegetación por los motivos anteriormente indicados deberá notificarse por escrito con al menos 15 días de antelación al órgano de protección de la naturaleza competente en el lugar, el cual podrá suspenderla, limitarla o prohibirla si contradice los requisitos de protección de la vegetación. En este caso, el órgano de protección de la naturaleza solo podrá suspender, limitar o prohibir la eliminación de vegetación con el fin de garantizar la operatividad del ferrocarril o garantizar un tráfico ferroviario fluido y seguro en la vía, únicamente sobre la base de un pronunciamiento vinculante de la autoridad administrativa ferroviaria.
-### Fig. n.º 2: Delimitación de franjas sin vegetación y con vegetación para garantizar la operatividad de la vía o garantizar un tráfico ferroviario fluido y seguro
-Fuente: MP STROMOVÍ, elaboración DI
-Para la tala en terrenos pertenecientes a sujetos jurídicos ajenos en la franja de protección de la vía con el fin de garantizar la operatividad del ferrocarril, conforme a la Parte segunda, Artículo 4, apartado 1, MP STROMOVÍ, los propietarios de bienes inmuebles colindantes a la vía están obligados, al cuidar la vegetación en su terreno, a proceder con conocimiento de su obligación (el propietario vigila en su terreno los objetos y procesos que podrían amenazar el funcionamiento de la vía y se ocupa de su eliminación). El incumplimiento de esta obligación no tiene por qué ser solo una acción (p. ej., plantar un árbol en un lugar inadecuado), sino también una omisión (p. ej., dejar un árbol que creció por sí mismo en un lugar inadecuado sin intervención del propietario). El derecho de la autoridad administrativa ferroviaria de ordenar al propietario las medidas necesarias o, en su caso, decidir la eliminación de la fuente de amenaza a su costa, es solo una garantía operativa necesaria de la protección prioritaria de la operación segura de la vía y, por tanto, del interés público preeminente. La disposición del § 10 apartado 3 de la Ley n.º 266/1994 Sb. permite al explotador de la vía, entre otros, advertir a los propietarios de terrenos de su obligación y especificar los procedimientos en caso de que no actúen. En el caso de que, tras la advertencia previa del explotador de la vía (SŽ), su propietario no lo haya hecho en un plazo razonable y en la medida establecida en dicha advertencia, o si otras circunstancias lo requieren, el explotador de la vía procederá conforme a la Parte segunda, Artículo 4, apartado 2, MP STROMOVÍ de la siguiente manera:
-
+en esta vía no se requiere autorización del órgano de protección de la naturaleza según el § 8 apartado 2 de la Ley nº 114/1992 Sb. La tala de árboles por los motivos anteriormente indicados debe notificarse por escrito con al menos 15 días de antelación al órgano de protección de la naturaleza competente en el lugar, el cual puede suspenderla, limitarla o prohibirla si contradice los requisitos de protección de los árboles. En este caso, el órgano de protección de la naturaleza solo puede suspender, limitar o prohibir la eliminación de árboles con el fin de garantizar la operatividad del ferrocarril o de garantizar un tráfico ferroviario fluido y seguro en la vía, únicamente sobre la base de un dictamen vinculante de la autoridad administrativa ferroviaria.
+### Fig. nº 2: Delimitación de las franjas sin vegetación y con vegetación para garantizar la operatividad de la vía o garantizar un tráfico ferroviario fluido y seguro
+Fuente: MP STROMOVÍ, modificación DI
+Para la tala en terrenos de propiedad de sujetos jurídicos ajenos en la franja de protección de la vía con el fin de garantizar la operatividad del ferrocarril, según la Parte segunda, Artículo 4, apartado 1, MP STROMOVÍ, los propietarios de bienes inmuebles en las inmediaciones de la vía están obligados, al cuidar los árboles en su terreno, a proceder siendo conscientes de su obligación (el propietario vigila en su terreno los objetos y fenómenos que podrían poner en peligro la explotación de la vía, y se ocupa de su eliminación). El incumplimiento de esta obligación no tiene por qué ser solo una acción (por ejemplo, plantar un árbol en un lugar inadecuado), sino también una omisión (por ejemplo, dejar un árbol que creció por sí mismo, sin intervención del propietario, en un lugar inadecuado). El derecho de la autoridad administrativa ferroviaria de ordenar al propietario las medidas necesarias, o de decidir la eliminación de la fuente de peligro a su cargo, es solo una garantía operativa necesaria de la protección prioritaria de la explotación segura de la vía y, por tanto, del eminente interés público. La disposición del § 10 apartado 3 de la Ley nº 266/1994 Sb. permite al explotador de la vía, entre otros, advertir a los propietarios de terrenos de su obligación y especificar los procedimientos en caso de que no la cumplan. En el caso en que, tras la advertencia previa del explotador de la vía (SŽ), su propietario no la haya cumplido en el plazo adecuado y en la medida establecida en dicha advertencia, o si otras circunstancias así lo exigen, el explotador de la vía procede según la Parte segunda, Artículo 4, apartado 2, MP STROMOVÍ de la siguiente manera:
 
 ## Página 32
+
 
 •
 «a) Conforme al § 10 apartado 3 de la Ley n.º 266/1994 Sb.; Správa železnic requerirá en un plazo razonable a los propietarios de terrenos la eliminación de la vegetación en la distancia de alcance (también se puede hacer repetidamente), ...»;
@@ -1250,16 +1223,15 @@ Conforme a la Parte segunda, Artículo 4, apartado 5, MP STROMOVÍ, la eliminaci
 En el ámbito de actuación de la Jefatura de Región de Ostrava, es decir, de la unidad organizativa del explotador de la vía (SŽ), el MP STROMOVÍ se desarrolla mediante la instrucción PO-65/2021, que determina las obligaciones de los empleados en las actividades de garantía de la operación segura de la vía desde el punto de vista de la eliminación de la vegetación a lo largo del corredor de circulación ferroviaria y en la elaboración de la propuesta de intervención en la vegetación. En la Parte segunda, Artículo 7, de la instrucción PO-65/2021, para las necesidades de los requisitos de tala de arbolado en terrenos de LČR, se determina elaborar los documentos establecidos, garantizar a través de la persona designada (el ecólogo) la negociación con el representante correspondiente de LČR, siendo el solicitante obligado a participar en dicha negociación, y la realización de la tala posterior se llevará a cabo sobre la base de las conclusiones de la negociación.
 Para la tala en terrenos de otros propietarios, el ecólogo correspondiente de SŽ garantizará la elaboración del documento «Requerimiento de inspección periódica de bienes inmuebles y sus partes en la franja de
 
-
 ## Página 33
 
-protección de la vía», que se envía al propietario del terreno con la solicitud de un pronunciamiento por escrito sobre las medidas adoptadas o, en su caso, sobre los procedimientos previstos que el propietario del terreno vaya a realizar o ya haya realizado para prevenir la aparición de un riesgo que amenace la seguridad o la fluidez del tráfico ferroviario, dentro del plazo de 45 días desde la recepción del requerimiento. En el caso de que el propietario no se pronuncie dentro del plazo establecido, se enviará al propietario del terreno un «Requerimiento repetido», con el mismo número de días establecidos para reaccionar. El procedimiento posterior está regulado en la Parte segunda, Artículo 4, apartado 3, MP STROMOVÍ anteriormente indicada.
-### Fig. n.º 3: El arbolado como fuente potencial de amenaza para la seguridad o la fluidez del tráfico ferroviario o la operatividad de la vía
+pásmu dráhy", que se envía al propietario del terreno con la solicitud de un pronunciamiento por escrito sobre las medidas adoptadas o los procedimientos previstos que el propietario del terreno haya realizado o ya haya realizado para prevenir la aparición de un riesgo que amenace la seguridad o la fluidez del transporte ferroviario, en el plazo de 45 días desde la recepción de la citación. En caso de que el propietario no se pronuncie dentro del plazo establecido, se envía al propietario del terreno una "Citación repetida", con el mismo número de días establecidos para reaccionar. El procedimiento posterior está regulado en la Parte segunda, Artículo 4, apartado 3, MP STROMOVÍ, mencionados anteriormente.
+### Fig. n.º 3: Los árboles como potencial fuente de amenaza para la seguridad o la fluidez del transporte ferroviario o para la operatividad de la vía
 Fuente: DI con el uso de ilustraciones disponibles en internet
-En el caso de que el árbol señalado crezca en un terreno destinado a la función forestal (en la franja de protección de la vía) y sea necesario eliminarlo, el explotador de la vía procedió conforme al art. 4 MP STROMOVÍ y, en consecuencia, conforme al § 22 apartados 1 y 2 de la Ley n.º 289/1995 Sb. Sobre la adopción de la medida, su alcance y forma, y en su caso también sobre el cambio o la limitación en la forma de gestión forestal, sobre la determinación de la compensación de los costes asociados y sobre la indemnización de los posibles perjuicios, decidirá el órgano de la administración estatal de los bosques. Si el árbol señalado crece en un terreno donde
-
+En caso de que el árbol señalado crezca en un terreno destinado a cumplir la función forestal (en la franja de protección de la vía) y sea necesario eliminarlo, el operador de la vía actuó de conformidad con el art. 4 del MP STROMOVÍ y, en consecuencia, de conformidad con el § 22 apartados 1 y 2 de la ley n.º 289/1995 Sb. Sobre la adopción de medidas, su alcance y forma, o en su caso también sobre el cambio o la limitación en la forma de gestión forestal, sobre la determinación de la compensación de los costes relacionados con ello y sobre la indemnización de los posibles daños, decidirá el órgano de la administración estatal de los bosques. Si el árbol señalado crece en un terreno donde no tiene
 
 ## Página 34
+
 
 SŽ no tiene derecho de gestión, entonces SŽ enviará al propietario del terreno un requerimiento por escrito para la eliminación de la fuente de amenaza a la vía y fijará un plazo para la eliminación del árbol. Si en el terreno ajeno no se produce la eliminación de la fuente de amenaza a la vía (del árbol señalado) por parte del propietario o gestor del terreno sobre la base de un requerimiento por escrito de SŽ (incluso un requerimiento repetido), entonces el explotador de la vía (SŽ) tenía derecho a:
 •
@@ -1273,6 +1245,7 @@ Dado que la legislación actual no impone expresamente a los propietarios de ter
 El explotador de la vía (SŽ) realizó, antes del suceso, la última inspección integral de la vía en el tramo Brodek u Přerova – Červenka en el período del 3 de enero al 14 de abril de 2022, con vigencia hasta el 13 de abril de 2023. En el marco de la inspección se evaluó, entre otros, la «vegetación en la vía y en sus alrededores» con
 
 ## Página 35
+
 
 con la constatación «Eliminación continua de vegetación en todo el tramo de la vía (durante todo el año)», y ello sin ninguna especificación más detallada de los lugares de presencia de arbolado (vegetación) que debía eliminarse en virtud de las constataciones de la inspección integral realizada.
 El explotador de la vía SŽ entre las estaciones de Štěpánov y Červenka realizó asimismo, antes del suceso de MU, la última ronda de control con el fin de detectar las especies leñosas (arbolado y masas arbóreas continuas) que amenazaran la seguridad o la fluidez del transporte ferroviario o la operatividad de la vía, presentes exclusivamente en terrenos (tipo de parcela «otra superficie», forma de uso «vía») de propiedad de la República Checa, sobre cuyo patrimonio estatal ejerce el derecho de gestión SŽ, concretamente el 29. 8. 2022 a través del especialista de sistemas del departamento de medio ambiente de la Jefatura de Región de Ostrava (ecólogo). En base a sus constataciones, el explotador de la vía llevó a cabo, durante el periodo de reposo vegetativo, a partir del 1. 11. 2022, la eliminación de un total de 358 ejemplares de arbolado con perímetro superior a 80 cm (de 80 a 260 cm) y de 11 000 m2 de masas arbóreas continuas que amenazaban la seguridad o la fluidez del transporte ferroviario o la operatividad de la vía:
@@ -1355,8 +1328,8 @@ Olomouce [763438]
 Fuente: DI con la utilización de información de SŽ
 DI realizó, tras el suceso de MU, los días 17. y 25. 7. 2023, una ronda de inspección entre las estaciones de Štěpánov y Červenka. Mediante la inspección de los terrenos (tipo de parcela «otra superficie», forma de uso «vía») de propiedad de la República Checa, sobre cuyo patrimonio estatal ejerce el derecho de gestión SŽ, se detectaron al menos 261 restos de arbolado, de los cuales 154 restos de arbolado se encontraban en las inmediaciones del TK n.º 1 Štěpánov – Červenka y 107 restos de arbolado en las inmediaciones del TK n.º 2. La diferencia en el alcance del arbolado eliminado surgida entre la cantidad declarada por el explotador de la vía SŽ y la detectada por DI se debió, por una parte, a las posibilidades de verificación real del alcance en el terreno y, asimismo, al hecho de que en aproximadamente un tercio de los casos se eliminó el arbolado, incl. su sistema radicular, y por tanto no era posible localizar en el lugar ningún
 
-
 ## Página 36
+
 
 resto del mismo, respectivamente, el número de brotes que crecían originalmente a partir de un mismo sistema radicular.
 En el tramo de vía en cuestión, en los terrenos de propiedad de la República Checa, sobre cuyo patrimonio estatal ejerce el derecho de gestión SŽ, durante las rondas de inspección DI no detectó arbolado ni masas arbóreas continuas que constituyeran una fuente que amenazara la seguridad o la fluidez del transporte ferroviario o la operatividad de la vía.
@@ -1390,8 +1363,8 @@ n.º de parcela 1694, municipio de Štěpánov [505161], katastrální území d
 colindantes con los terrenos de propiedad de la República Checa, sobre cuyo patrimonio estatal ejerce el derecho de gestión SŽ, es decir, con terrenos de tipo «otra superficie» y con forma de uso establecida «vía». En la inspección local conjunta debía tenerse en cuenta por todas las partes implicadas el hecho de que los terrenos en cuestión se encuentran en el territorio del PCH Litovelské Pomoraví inscrito en el sistema de espacios protegidos Natura 2000, cuando, de conformidad con las leyes n.º 114/1992 Sb. y n.º 289/1995 Sb., no es posible realizar en dicha zona una tala masiva a gran escala, sino únicamente la tala denominada de forma casual mediante aclareo de la masa arbórea, sin que la superficie de la clarea en los enclaves de hábitats de bosque de ribera pudiera superar las 2 ha. El propietario del bosque estaba obligado a regenerar las masas arbóreas con especies leñosas adecuadas al hábitat y a cultivarlas de forma oportuna y continuada, de modo que mejorara su estado, aumentara su resistencia y, en definitiva, se mejorara el cumplimiento de las funciones del bosque.
 En el periodo comprendido entre el 1. 7. 2017 y la fecha del suceso de MU, con base en la selección y marcado de arbolado, LČR realizó en los terrenos antes mencionados una tala con un volumen total de 4 151,14 m3 de masa leñosa, de la cual los árboles peligrosos registrados supusieron una tala de 289,86 m3 de madera de distintas especies leñosas. Dado que LČR eliminó siempre, durante el periodo observado, en el periodo de reposo vegetativo, todos los árboles que, en el marco de las inspecciones locales conjuntas
 
-
 ## Página 37
+
 
 de SŽ y LČR, con la participación de AOPK ČR, fueron evaluados con potencial de amenaza inmediata para la seguridad o la fluidez del transporte ferroviario o la operatividad de la vía en caso de caída, el explotador de la vía SŽ no ejerció su derecho de eliminación, respectivamente de poda, del arbolado y otras masas (continuas) arbóreas en los terrenos antes mencionados.
 Sin embargo, mediante las inspecciones conjuntas realizadas no se seleccionó ni marcó todo el arbolado y otras masas arbóreas situadas
@@ -1402,8 +1375,8 @@ alcanzar el perfil de paso de la vía, y que por tanto constituían arbolado que
 Fuente: DI
 El explotador de la vía SŽ no adoptó ninguna otra medida para eliminar el arbolado y otras masas arbóreas restantes situados a distancia de caída hasta la fecha del suceso de MU, sin que
 
-
 ## Página 38
+
 
 para garantizar la explotación segura de la vía y del transporte ferroviario en dicho lugar hubiera adoptado ninguna medida, y explotó la vía en dicho lugar sin restricciones.
 En este punto es oportuno señalar que el explotador de la vía permitió en dicho lugar la circulación de DV a la velocidad de línea de 160 km·h-1, con una distancia de frenado de 1 000 m, cuando la circulación de trenes en el tramo entre estaciones Červenka – Štěpánov se regía mediante secciones espaciales con la utilización de las dependencias derivadas del funcionamiento del TZZ explotado.
@@ -1431,6 +1404,7 @@ En relación con MP STROMOVÍ es necesario señalar que en la PARTE PRIMERA, Art
 
 ## Página 39
 
+
 De lo anterior se desprende que el sistema establecido de garantía de seguridad del gestor de la vía SŽ presentaba deficiencias, en la medida en que la información parcial relativa a la seguridad contenida en el MP STROMOVÍ no era coherente (indiscutible).
 Dicho hallazgo no puede valorarse en relación causal con la aparición del MU, porque en la propia ambigüedad del término «dřevina» y en su uso no se detectó relación directa con la no eliminación del arbolado – del árbol crecido en la franja de protección de la vía, en la parcela p. č. 1029, situada en el municipio de Pňovice [552160], en el término catastral de Pňovice [722855], destinada según la certificación del registro de la propiedad inmobiliaria al cumplimiento de funciones forestales, que creó un obstáculo en las TK en servicio en el tramo entre estaciones Štěpánov – Červenka.
 ### Hallazgos:
@@ -1453,8 +1427,8 @@ El transportista está, entre otras cosas, obligado a garantizar que el maquinis
 Si el maquinista detecta cualquier daño en el colector del DV o de la TV, o tiene sospecha de la aparición de dicho daño (destellos, excluidos los destellos causados por la escarcha en la TV, y asimismo la oscilación de la TV, el desplome de los conductores de la TV, etc.), debe bajar los colectores del DV y detenerse de inmediato, es decir, iniciar el frenado (o bien debe permanecer detenido). Una vez detenido, tiene la obligación de comprobar con la vista desde la posición del maquinista el estado de los colectores y el estado de la TV a la distancia visible desde el HDV.
 En la investigación no se detectó infracción de las funciones y obligaciones del transportista.
 
-
 ## Página 40
+
 
 ### 4.1.2 Entidades responsables del mantenimiento de los vehículos ferroviarios
 En la investigación no se detectó infracción de las funciones y obligaciones de las entidades responsables del mantenimiento de los DV.
@@ -1471,8 +1445,8 @@ En la investigación no se detectó infracción de las funciones y obligaciones 
 ### 4.1.7 Cualquier otra persona o entidad
 Con la aparición del MU se relacionaban las funciones y la obligación del propietario del terreno en el que crecía el árbol en cuestión. Este, como ya se ha indicado anteriormente, crecía en la franja de protección de la vía, en la parcela p. č. 1029, situada en el municipio de Pňovice [552160], en el término catastral de Pňovice [722855], destinada según la certificación del registro de la propiedad inmobiliaria al cumplimiento de funciones forestales, y con su altura se encontraba
 
-
 ## Página 41
+
 
 a la distancia de caída dentro del perfil de paso de la vía. La distancia del lugar de crecimiento original del árbol desde el eje de la TK núm. 2 era de 23 m, siendo su altura de aproximadamente 26 m (véanse los puntos 3.1.3 y 4.1.1 de la presente ZZ).
 Atendiendo a la naturaleza de los árboles como organismos vivos y gracias a las influencias externas que actúan sobre ellos, no puede descartarse por completo el riesgo de caída de un árbol o de una parte del mismo, y con ello la aparición de un obstáculo en el perfil de paso de la vía, el peligro para la explotación segura y la posible aparición de daños, todo ello al margen del estado sanitario del árbol concreto, incluido su sistema radicular.
@@ -1481,6 +1455,7 @@ A efectos de completitud, es necesario repetir que persiste una discrepancia ent
 En el asunto en cuestión, el DI mantiene la opinión coherente de que todo arbolado que, por su altura y su lugar de crecimiento, pueda alcanzar al caer el perfil de paso de la vía, es una fuente de amenaza para la seguridad de la explotación de la vía y del transporte ferroviario, todo ello al margen del estado sanitario del árbol concreto, incluido su sistema radicular (véanse los puntos 4.3.5 y 4.5 de la presente ZZ), y que debería ser eliminado. El riesgo de amenaza de caída del arbolado (incluidos los árboles en el bosque) sobre el perfil de paso de la vía puede reducirse mediante la realización de evaluaciones del estado de la base de los árboles individuales y de sus sistemas radiculares mediante los más diversos métodos y procedimientos de detección. Debido a la elevada exigencia temporal y económica, unida a la necesidad de un número no desdeñable de personas cualificadas para la evaluación directa de la salud de los árboles y de la resistencia de sus sistemas radiculares, su aplicación a gran escala para la evaluación de cada árbol situado a la distancia de caída es prácticamente imposible, siendo un factor determinante la gran extensión de la red ferroviaria en la República Checa y también la abundante presencia de arbolado en sus inmediaciones.
 
 ## Página 42
+
 
 En la actualidad, para eliminar el riesgo de la amenaza de caída de arbolado en el perfil de paso de la vía, en el caso de esta concreta MU procedente del bosque, la solución más eficaz parece ser la posibilidad de trasladar una franja de bosque situada a lo largo de la línea ferroviaria a la categoría de «bosques de especial destinación», en los que otro interés público importante exige un modo de gestión diferente, de conformidad con lo dispuesto en el apartado 2, letra h), del artículo 8 de la Ley n.º 289/1995 Sb. En dicho terreno, a lo largo de la vía férrea, solo se cultivarían aquellas especies arbóreas que, en la distancia de impacto, no superaran la altura predeterminada (véase la Fig. n.º 2 y el punto 6 de la presente ZZ).
 En la investigación de la MU no se constató que el propietario del terreno tuviera la intención de eliminar el arbolado crecido en la parcela n.º 1029, situada en el municipio de Pňovice [552160], en el término catastral de Pňovice [722855], y que amenaza la seguridad o la continuidad del transporte ferroviario o la operatividad de la vía, incluido el árbol que el día 13. 2. 2023, con su caída, creó un obstáculo en la vía de circulación de la vía, o bien que ya los hubiera eliminado.
@@ -1501,8 +1476,8 @@ En la investigación no se detectaron factores derivados de la instalación y pu
 ### 4.2.3 Factores o consecuencias relacionados con el fabricante de los vehículos ferroviarios u otro proveedor de productos ferroviarios
 En la investigación no se detectaron factores relacionados con el fabricante de los VF u otro proveedor de productos ferroviarios.
 
-
 ## Página 43
+
 
 ### 4.2.4 Factores o consecuencias derivados del mantenimiento y la modificación de los vehículos ferroviarios o de las instalaciones técnicas
 En la investigación no se detectaron factores derivados del mantenimiento y la modificación de los VF o de las instalaciones técnicas.
@@ -1522,8 +1497,8 @@ En la investigación no se detectaron factores relacionados con el entorno labor
 ### 4.3.5 Otro factor relevante a efectos de la investigación
 El PNE Litovelské Pomoraví ocupa una estrecha franja de 3 a 8 km de anchura de bosques de ribera y praderas alrededor del río Morava entre las ciudades de Olomouc y Mohelnice, se extiende sobre una superficie de 96 km2 y todo el territorio del PNE se encuentra en la región de Olomouc, en los distritos de Olomouc y Šumperk. La misión del PNE es garantizar permanentemente una protección reforzada y una gestión ecológicamente respetuosa del paisaje del llano de inundación del río Morava, con una concentración excepcionalmente alta de valores naturales. La protección de la naturaleza y del paisaje en el PNE Litovelské Pomoraví la ejerce la AOPK ČR a través de la Administración del PNE. La actividad principal de la AOPK ČR es la administración pública en el ámbito de la protección de la naturaleza y del paisaje, así como la garantía de la atención a los emplazamientos valiosos y, por último, el seguimiento de las especies de interés y de su presencia en el territorio.
 
-
 ## Página 44
+
 
 El territorio del PNE Litovelské Pomoraví está dividido, desde el punto de vista de la protección del medio natural, en cuatro zonas de protección escalonada. El régimen de protección más estricto corresponde a la zona I y el más laxo a la zona IV. La explotación económica del PNE se realiza según las zonas de protección escalonada, de modo que se mantenga y mejore su estado natural y se conserven y creen las funciones ecológicas óptimas de dicho territorio. La zona II del PNE Litovelské Pomoraví, es decir, la zona en la que se encuentra también el terreno desde el que cayó sobre la vía el árbol que creó un obstáculo en las vías de circulación (TK) en servicio del tramo entre estaciones Štěpánov – Červenka, contiene, entre otros, territorios con valores naturales, especialmente bosques próximos a la naturaleza en un complejo continuo en el llano de inundación del río Morava, y superficies de agua más extensas y las masas de pradera que a ellas se vinculan.
 La DI, inmediatamente después de iniciar la investigación de la MU en cuestión, encargó la elaboración de un Dictamen dendrológico especial con el objetivo de evaluar las relaciones causales del fallo estático del árbol arrancado y de realizar una evaluación profesional del estado sanitario y de la seguridad operativa de los árboles seleccionados en sus inmediaciones. Para la determinación taxonómica de las especies arbóreas, la medición de las variables dendrométricas y la evaluación del estado sanitario de las especies arbóreas, el dendrólogo utilizó el Estándar de arboricultura SPPK A01 001:2018.
@@ -1539,8 +1514,8 @@ circunstancias sin relación causal con el fallo estático del árbol:
 ◦parte de la copa estaba seca, incluidas ramas esqueleto secas.
 El dendrólogo evaluador, con base en los resultados de la investigación realizada, declaró en el Dictamen dendrológico especial que «La causa de la caída del árbol es, sin duda, la sinergia de la carga unilateral del árbol con una copa asimétrica (borde de masa) y la destrucción masiva de la resistencia estática del sistema radicular por la caries radicular (Ustulina deusta).». Dado que en la base del tronco del árbol arrancado no se encontraban carpóforos de la caries radicular, no era posible determinar por método no destructivo, en el árbol en pie, su verdadero estado sanitario.
 
-
 ## Página 45
+
 
 De lo expuesto se desprende que la identificación de árboles concretos para la eliminación de la presencia de arbolado, en cuyo sistema radicular se produce/ha producido la destrucción de su resistencia estática por la presencia de caries radicular, es prácticamente imposible mediante las inspecciones visuales realizadas. La única posibilidad de prevenir el origen de MU similares consiste, por tanto, en la actividad preventiva exhaustiva del gestor de la vía, quien, en relación con las inspecciones realizadas, en las que se detecte la presencia de arbolado y otras masas vegetales que, al caer, puedan alcanzar el perfil de paso de la vía, es decir, arbolado que amenace la seguridad o la continuidad del transporte ferroviario o la operatividad de la vía, utilizará en la mayor medida posible la posibilidad de advertir (requerir) a los propietarios de los terrenos de la necesidad de eliminar y podar el arbolado y otras masas vegetales que amenacen la seguridad o la continuidad del transporte ferroviario o la operatividad de la vía. En los casos en que el propietario no lo haga dentro del plazo razonable y en el alcance establecidos en la advertencia (requerimiento) del gestor de la vía, este debería ejercer plenamente su derecho a eliminar y podar el arbolado y otras masas vegetales que amenacen la seguridad o la continuidad del transporte ferroviario o la operatividad de la vía, es decir, el arbolado y las masas vegetales situadas en la distancia de impacto, pero respetando lo dispuesto en el apartado 4 del artículo 10 de la Ley n.º 266/1994 Sb. [siendo el gestor de la vía, en el ejercicio de su derecho, entre otras obligaciones, el de respetar en la mayor medida posible los derechos de los propietarios y usuarios de las fincas afectadas (véase el punto 4.1.1 de la presente ZZ)].
 El Dictamen dendrológico especial incluía también, como se ha indicado más arriba, la evaluación profesional del estado sanitario y de la seguridad operativa de los árboles seleccionados que crecían en el borde de masa en las inmediaciones del árbol arrancado. El dendrólogo evaluó un total de 9 árboles [8x roble invernal, 1x tilo de hoja grande (Tilia plathypillos)], de los cuales 4 (en todos los casos se trataba de robles invernales de una altura comprendida entre 18 y 28 m, una circunferencia de tronco de 166 a 214 cm y un diámetro de copa de 5 a 10 m) identificó como potencialmente riesgosos, propensos al fallo estático, y recomendó su tala inmediata (véase la tabla n.º 2, las citas de los hallazgos del dendrólogo se indican en la tabla en cursiva).
@@ -1559,6 +1534,7 @@ adulto
 49.7068281N, 17.1336919E
 
 ## Página 46
+
 
 hacia las vías, sobre
 la catenaria, ramas esqueléticas
@@ -1595,8 +1571,8 @@ Fuente: Dictamen dendrológico especializado
 En este punto es necesario señalar que el gestor de la infraestructura, inmediatamente después del MU, adoptó medidas consistentes, por una parte, en la restricción temporal de la velocidad en vía mediante la imposición de una marcha lenta de 40, respectivamente 100 km·h-1 (véase el punto 3.1.5 de la presente ZZ), y, asimismo, en una investigación local conjunta con representantes de LČR – Gestión Forestal Šternberk, que tuvo lugar el día 16. 2. 2023 en terrenos gestionados por LČR y en cuyo marco se identificaron y posteriormente se procedió a la tala de otros aprox. 50 árboles que amenazaban la seguridad o la continuidad del transporte ferroviario o la operatividad de la infraestructura. Paralelamente a las medidas adoptadas, el gestor de la infraestructura, a lo largo de 2023, abordó en la localidad indicada una tala de árboles y vegetación asociada más extensa y posterior, situada en la distancia de impacto.
 Además de las actividades anteriores realizadas por el gestor de la infraestructura SŽ, AOPK ČR también llevó a cabo intervenciones, y hasta finales de abril de 2023 podó (se cortó la copa de los árboles en la base de la ramificación de las ramas esqueléticas del tronco) aprox. 10 árboles en la zona de no intervención del PNE Litovelské Pomoraví que potencialmente podían amenazar la seguridad o la continuidad del transporte ferroviario o la operatividad de la infraestructura.
 
-
 ## Página 47
+
 
 ČHMÚ no realiza mediciones ni observaciones meteorológicas en el tramo de la infraestructura en cuestión. Por este motivo, se remitieron a la DI las informaciones registradas por la estación climatológica Šternberk, de las que, entre otros, se desprende que el día 13. 2. 2023 la temperatura media diaria del aire fue de + 2,3 °C, la humedad relativa media del aire del 95 %, y la velocidad máxima del viento de 4 m·s-1 (3.er grado de velocidad del viento «viento débil» – todo clasificado según la escala Beaufort de velocidad del viento) de dirección nordeste se alcanzó a las 23:02 h. En el periodo comprendido entre las 19:00 h y las 19:30 h, es decir, en el periodo inmediatamente anterior y en el periodo inmediatamente posterior al MU, se registró una temperatura del aire en el intervalo de + 2,2 a + 2,7 °C, una humedad relativa del aire del 95 %, y una velocidad máxima del viento en el intervalo de 0 a 0,9 m·s-1 de dirección sur-sureste, este o este-noreste (a las 19:20 h se registró el 1.er grado de velocidad del viento «brisa», de dirección este-noreste con un valor de 0,9 m·s-1). Durante el periodo observado no se registraron precipitaciones.
 La estación climatológica Šternberk, en el periodo inmediatamente anterior a la ocurrencia del MU, registró el día/días:
@@ -1621,8 +1597,8 @@ En los procedimientos, métodos, contenido y resultados de las actividades de ev
 ### 4.4.3 Sistema de garantía de seguridad de los transportistas y gestores de la infraestructura implicados
 El gestor de la infraestructura tiene, entre otras, la obligación de garantizar que el sistema de seguridad del gestor de la infraestructura por él establecido, elaborado de conformidad con el reglamento directamente aplicable de la Unión Europea que regula los métodos comunes de seguridad relativos a los requisitos del sistema de garantía de seguridad, sea cumplido y que se adopten las medidas necesarias consistentes en el análisis, la evaluación y la gestión de riesgos, todo ello de conformidad con el reglamento directamente aplicable de la Unión Europea que regula el método común de seguridad para la evaluación y valoración de riesgos.
 
-
 ## Página 48
+
 
 En las condiciones del gestor de la infraestructura SŽ, la cuestión del riesgo relativa al § 10 apartado 3 de la Ley n.º 266/1994 Sb. está contenida en el documento SŽ SMS IM y, especialmente, en las MP STROMOVÍ relacionadas y en la instrucción PO-65/2021 (véase el punto 4.1.1 de la presente ZZ).
 En el sistema de garantía de seguridad del transporte ferroviario del transportista ČD, relacionado con las circunstancias de la ocurrencia del MU en cuestión, no se detectaron deficiencias.
@@ -1656,20 +1632,20 @@ Fuente: DI con la utilización de informaciones de DÚ
 DÚ, en base a sus hallazgos, requirió al gestor de la infraestructura SŽDC a elaborar la documentación para la eliminación (tala) de las masas arbóreas que, por su carácter/parámetros, en caso de caída (vuelco) sobre el cuerpo de la infraestructura, podían amenazar la seguridad o la continuidad del transporte ferroviario o la operatividad de la infraestructura. El gestor de la infraestructura SŽDC debía presentar posteriormente a DÚ la documentación elaborada para la tala de las masas arbóreas y, en base a la misma, proceder a continuación a la eliminación de las masas arbóreas – árboles y vegetación asociada de masas arbóreas y arbustos – y al recorte de las masas arbóreas que invadían las proximidades de la TV, con el condicionante de que la eliminación y el recorte de las masas arbóreas debían realizarse en el plazo hasta el 31. 3. 2018 (en el periodo de reposo vegetativo).
 El gestor de la infraestructura SŽDC, en base a este requerimiento de DÚ, elaboró y presentó el «Informe técnico – tala de riesgo en la franja de protección de la TV Štěpánov – Červenka», que junto con el listado de las masas arbóreas afectadas presentó a DÚ. Tras la discusión de dicho documento con la Gestión del
 
-
 ## Página 49
 
-PNE Litovelské Pomoraví, el gestor de la infraestructura procedió gradualmente, en base al mismo, a la tala y el recorte de las masas arbóreas en el km 68,890 – 72,600. Se trató en total de la tala de 911 árboles sin restricciones, 30 árboles con restricciones según el dictamen del PNE Litovelské Pomoraví, todo ello en los katastrální území Střeň y Štěpánov u Olomouce.
-Atendiendo a los factores y circunstancias de la ocurrencia del MU constatados, la supervisión de la autoridad de seguridad no guardaba relación con el MU en cuestión.
-### 4.4.6 Aprobaciones, certificados y dictámenes de evaluación emitidos por la agencia, las autoridades nacionales de seguridad u otros sujetos de evaluación de la conformidad
-El gestor de la infraestructura operaba la infraestructura en base a la autorización administrativa vigente y al certificado de seguridad del gestor de la infraestructura. El transportista ejercía el transporte ferroviario en base a la licencia vigente y al certificado del transportista.
+CHKO Litovelské Pomoraví, el gestor de la vía, ha ido realizando, sobre la base de la misma, la tala y la poda de vegetación en el pk 68,890 – 72,600. Se trató en total de la tala de 911 árboles sin restricciones, 30 árboles con restricciones según el dictamen de CHKO Litovelské Pomoraví, todo en el término municipal de Střeň y Štěpánov u Olomouce.
+Atendiendo a los factores y circunstancias constatados del origen de la MU, la supervisión del organismo de seguridad no guardaba relación con la MU en cuestión.
+### 4.4.6 Aprobaciones, certificados e informes de evaluación otorgados por la agencia, los organismos de seguridad nacionales u otros organismos de evaluación de la conformidad
+El gestor de la vía explotaba la vía al amparo de la autorización administrativa vigente y del certificado de seguridad del gestor de la vía. El transportista explotaba el transporte ferroviario al amparo de la licencia vigente y del certificado del transportista.
 ### 4.4.7 Otros factores sistémicos
-La DI, hasta la finalización de la investigación, registró la respuesta a las recomendaciones de seguridad emitidas para el MU ocurrido los días 21. 9. 2018 y 24. 7. 2019 (véase el punto 4.5 de la presente ZZ) relativas a los cambios solicitados en la Ley n.º 114/1992 Sb. y en la Ley n.º 289/1995 Sb. en respuesta a la modificación del § 10 de la Ley n.º 266/1994 Sb.
-En el documento remitido a la DI el día 23. 9. 2022 y en la comunicación por correo electrónico del día 15. 11. 2022 con informaciones complementarias, el Ministerio de Transporte de la ČR indica que mantuvo una serie de negociaciones con el Ministerio de Medio Ambiente de la ČR y, en última instancia, con el Ministerio de Agricultura de la ČR; no obstante, dichos departamentos no aceptan íntegramente la interpretación del § 10 de la Ley n.º 266/1994 Sb. y argumentan con la regulación legal que corresponde a su competencia. Se trata, especialmente, de las Leyes n.º 114/1992 Sb. y n.º 289/1995 Sb. Según la declaración del Ministerio de Transporte de la ČR, tampoco «respaldan» la jurisprudencia que se está formando y que «favorece» las normas del ámbito de la protección de la naturaleza. En las negociaciones interdepartamentales celebradas entre el Ministerio de Transporte de la ČR y el Ministerio de Agricultura de la ČR (con la participación de representantes de LČR), el Ministerio de Agricultura de la ČR comunicó que está preparado para volver a abordar la cuestión en cuestión con motivo de la próxima modificación de la Ley de Montes, a fin de que no se produzcan amenazas a la operación segura y continua del transporte ferroviario.
-La DI debe, por tanto, seguir constatando que no se han producido todavía los cambios por los que los propietarios y gestores de los terrenos en la franja de protección de la infraestructura tuvieran la obligación legal de mantener los árboles y arbustos a una altura tal que, en caso de caída, no amenazaran la operación de la infraestructura ni sus componentes, y no limitaran la seguridad y la continuidad del transporte ferroviario, y, a la vez, que dicha obligación fuera exigible por la ley mediante sanciones en caso de incumplimiento.
-Es evidente, por tanto, que el sistema jurídico derivado de la Constitución de la ČR, que reconoce la iniciativa legislativa, entre otras instituciones, también al Gobierno, ha sido activado por parte de los ministerios competentes. A pesar de todas las modificaciones legislativas y las negociaciones entre los ministerios de los departamentos relevantes celebradas hasta la fecha, las nuevas competencias actualmente atribuidas, las simplificaciones realizadas en el modo de posibilidad de eliminar las masas arbóreas en la distancia de impacto, no cabe sino constatar que el sistema actualmente configurado no es capaz de impedir en toda su extensión la caída de árboles en el perfil de paso de la infraestructura (véase el punto 6 de la presente ZZ).
+Hasta la finalización de la investigación, el DI registró la respuesta a las recomendaciones de seguridad emitidas respecto de las MU ocurridas los días 21. 9. 2018 y 24. 7. 2019 (véase el punto 4.5 de la presente ZZ) relativas a los cambios requeridos en la ley n.º 114/1992 Sb. y en la ley n.º 289/1995 Sb. en respuesta a la modificación del § 10 de la ley n.º 266/1994 Sb.
+En el documento remitido al DI el día 23. 9. 2022 y en la comunicación por correo electrónico del día 15. 11. 2022 con información aclaratoria, el Ministerio de Transporte de la R.C. indica que mantuvo una serie de negociaciones con el Ministerio de Medio Ambiente de la R.C. y, en última instancia, con el Ministerio de Agricultura de la R.C., no obstante lo cual dichos departamentos no aceptan íntegramente la interpretación del § 10 de la ley n.º 266/1994 Sb. y argumentan con la regulación legal que corresponde a su competencia. Se trata en particular de las leyes n.º 114/1992 Sb. y n.º 289/1995 Sb. Según la declaración del Ministerio de Transporte de la R.C., tampoco «se apoya en ella» la jurisprudencia en formación, que «favorece» las disposiciones del ámbito de la protección de la naturaleza. De las negociaciones interdepartamentales celebradas entre el Ministerio de Transporte de la R.C. y el Ministerio de Agricultura de la R.C. (con la participación de representantes de LČR), el Ministerio de Agricultura de la R.C. comunicó que está dispuesto a volver a abordar la cuestión planteada con motivo de la próxima modificación de la ley de montes, a fin de que no se ponga en peligro la explotación segura y fluida del transporte ferroviario.
+El DI debe, por tanto, seguir constatando que, hasta la fecha, no se han producido los cambios en virtud de los cuales los propietarios y gestores de terrenos dentro de la franja de protección de la vía tuvieran la obligación legal de mantener los árboles y arbustos a una altura tal que, en caso de caída, no pusieran en peligro la explotación de la vía ni sus componentes, ni limitaran la seguridad y la fluidez del transporte ferroviario, y al mismo tiempo que dicha obligación fuera exigible por la ley mediante sanciones en caso de incumplimiento.
+Es evidente, por tanto, que el sistema jurídico derivado de la Constitución de la R.C., que reconoce la iniciativa legislativa, entre otras instituciones, también al Gobierno, ha sido activado por parte de los ministerios competentes. A pesar de todas las modificaciones legislativas y de las negociaciones entre los ministerios de los departamentos relevantes celebradas hasta la fecha, las nuevas competencias actualmente atribuidas, las simplificaciones realizadas en el modo de poder eliminar vegetación en la distancia de alcance, no cabe sino constatar que el sistema actualmente establecido no es capaz de impedir en toda su extensión la caída de árboles en el perfil de paso de la vía (véase el punto 6 de la presente ZZ).
 
 ## Página 50
+
 
 ### 4.5 Eventos anteriores de naturaleza similar
 DI registra en el período desde el 1. 1. 2013 hasta la fecha de ocurrencia de la MU en cuestión en las vías ferroviarias, categoría nacional y regional (se incluyeron todos los gestores de la infraestructura), un total de 849 MU similares, cuya causa de ocurrencia fue la colisión de un tren con un obstáculo – un árbol o árboles (o sus partes), como consecuencia de la cual 12 personas resultaron lesionadas, en las que se produjo un daño material por importe de 94 136 999 Kč y el tráfico ferroviario se interrumpió en los tramos afectados en un total de 129 días, 9 h y 31 min. La causa de la ocurrencia de estas MU fue siempre un obstáculo – un árbol, respectivamente árboles (o sus partes), en la sección de paso de la vía en servicio.
@@ -1686,10 +1662,10 @@ en 294 casos (aprox. 34,6 %) la sección de paso de la vía fue perturbada por u
 •
 en 28 casos (aprox. 3,3 %) la sección de paso de la vía fue perturbada por un árbol que ya a simple vista presentaba defectos (pudrición, sequedad, etc.). En 12 casos la arboleda cayó bajo condiciones meteorológicas adversas (viento, nieve, impacto de un rayo), en 2 casos el sistema radicular del árbol/árboles estaba encharcado, en los otros 14 casos la causa fue otra influencia (caída sin determinación de la causa, caída de otro árbol, tala no profesional, etc.);
 •
-en 19 casos (aprox. 2,2 %) la sección de paso de la vía fue perturbada por un árbol cuyo estado de salud no era posible determinar de forma inequívoca a partir de la documentación de la que DI disponía. En 1 caso el árbol cayó bajo condiciones meteorológicas adversas (viento), 
-
+en 19 casos (aprox. 2,2 %) la sección de paso de la vía fue perturbada por un árbol cuyo estado de salud no era posible determinar de forma inequívoca a partir de la documentación de la que DI disponía. En 1 caso el árbol cayó bajo condiciones meteorológicas adversas (viento),
 
 ## Página 51
+
 
 en 1 caso el sistema radicular del árbol estaba encharcado, en los 17 casos restantes la causa fue otra influencia (caída sin determinación de la causa, caída de otro árbol, tala no profesional, etc.).
 Lo anterior demuestra la justificación de la disposición del § 10 apart. 3 de la ley nº 266/1994 Sb. y la necesidad de su cumplimiento estricto, ya que la perturbación de la sección de paso de la vía/vías por la caída de árbol/árboles se produce de forma repetida independientemente del estado de salud de la base de los árboles individuales y de su sistema radicular (véanse los puntos 4.1.1 y 4.3.5 de esta ZZ), cuando casi el 60 % de la arboleda arrancada estaba formada por árboles sanos que no presentaban signos de pudrición ni otros defectos.
@@ -1707,31 +1683,29 @@ del 24. 7. 2019 (4:36 h), entre žst. Nová Paka y Lázně Bělohrad, donde se p
 •
 del 17. 2. 2022 (7:32 h), entre žst. Žďárec u Skutče y Hlinsko v Čechách, donde se produjo la colisión del tren Os 5315 con árboles arrancados y su posterior descarrilamiento. La causa inmediata de la ocurrencia de la MU fue la perturbación de la sección de paso de la vía de tránsito por un obstáculo – los troncos de árboles arrancados crecidos en la franja de protección de la vía a distancia de impacto de la sección de paso de la vía, como consecuencia de fenómenos meteorológicos negativos acaecidos en los días anteriores a la ocurrencia de la MU en combinación con la situación meteorológica extrema vigente en el momento de su ocurrencia, a lo que precedió:
 
-
 ## Página 52
 
-◦la no detección y no evaluación a largo plazo de la arboleda crecida en el terreno que cumple función forestal, en la franja de protección de la vía y a distancia de impacto de la sección de paso de la vía, como fuente de amenaza para la seguridad o la continuidad del tráfico ferroviario o la operatividad de la vía;
-◦la no eliminación a largo plazo de la fuente de amenaza para la vía y el tráfico ferroviario, formada por los árboles en la franja de protección de la vía a distancia de impacto de la sección de paso de la vía;
-◦la no información al maquinista del tren Os 5315 mediante la orden escrita correspondiente sobre la situación meteorológica adversa y el peligro de aparición de un obstáculo en la vía.
-Los árboles caídos sobre la vía no presentaban signos de pudrición ni otros defectos.
-DI, con base en los resultados de la investigación de las causas y circunstancias de la ocurrencia de las MU anteriores, emitió varias Recomendaciones de seguridad a los sujetos pertinentes, véanse las referencias a las ZZ anteriores.
+◦la no comprobación y no evaluación a largo plazo de la arboleda crecida en la parcela que cumple función forestal, en la franja de protección de la vía y a la distancia de impacto de la sección pasante de la vía, como fuente de amenaza a la seguridad o a la continuidad del transporte ferroviario o a la operatividad de la vía;
+◦la no eliminación a largo plazo de la fuente de amenaza a la vía y al transporte ferroviario, que constituían los árboles situados en la franja de protección de la vía a la distancia de impacto de la sección pasante de la vía;
+◦la no notificación al maquinista del tren Os 5315 mediante la orden escrita correspondiente sobre la situación meteorológica desfavorable y el peligro de aparición de un obstáculo en la línea.
+Los árboles caídos sobre la línea no presentaban signos de pudrición ni de otro defecto.
+La DI, sobre la base de los resultados de la investigación de las causas y circunstancias de la aparición de las MU anteriormente mencionadas, emitió varias Recomendaciones de seguridad a los sujetos pertinentes, véanse las referencias a las ZZ anteriormente mencionadas.
 ## 5 CONCLUSIONES
-### 5.1 Resumen del análisis y conclusiones relativas a las causas del evento
-La causa inmediata del evento extraordinario fue:
+### 5.1 Resumen del análisis y conclusiones relativas a las causas del suceso
+La causa inmediata del suceso extraordinario fue:
 •
-la perturbación de la sección de paso de ambas vías de tránsito por un obstáculo – un árbol arrancado crecido en la franja de protección de la vía a distancia de impacto de la sección de paso de las vías, como consecuencia de un fallo estático causado por el estado de salud (pudrición interna) del árbol, cuando el estado de salud real no era posible determinar en este caso concreto mediante un método no destructivo (inspecciones visuales), así como por su copa asimétrica con una carga unidireccional orientada sobre el cuerpo de la vía, en combinación con:
-◦la no detección y no evaluación de toda la arboleda crecida en el terreno que cumple función forestal, en la franja de protección de la vía y a distancia de impacto de la sección de paso de la vía, como fuente de amenaza para la seguridad o la continuidad del tráfico ferroviario o la operatividad de la vía;
-◦la no eliminación de la fuente de amenaza para la vía y el tráfico ferroviario, formada por la arboleda crecida a distancia de impacto de la sección de paso de las vías.
-No se detectó ningún factor contribuyente por parte de DI.
-No se detectó ninguna causa sistémica por parte de DI.
-### A summary of the analysis and conclusions with regard to the causes of the 
-occurrence
-Causal factor:
+la alteración de la sección pasante de ambas vías de línea por un obstáculo – un árbol arrancado crecido en la franja de protección de la vía a la distancia de impacto de la sección pasante de las vías, como consecuencia de un fallo estático provocado por el estado sanitario (pudrición interna) del árbol, cuando el estado sanitario real no era posible determinar en este caso concreto mediante un método no destructivo (inspecciones visuales), así como por su copa asimétrica con una carga unilateral dirigida sobre el cuerpo de la vía, en combinación con:
+◦la no comprobación y no evaluación de toda la arboleda crecida en la parcela que cumple función forestal, en la franja de protección de la vía y a la distancia de impacto de la sección pasante de la vía, como fuente de amenaza a la seguridad o a la continuidad del transporte ferroviario o a la operatividad de la vía;
+◦la no eliminación de la fuente de amenaza a la vía y al transporte ferroviario, que constituía la arboleda crecida en la franja de protección de la vía a la distancia de impacto de la sección pasante de las vías.
+La DI no detectó ningún factor contribuyente.
+La DI no detectó ninguna causa sistémica.
+### Un resumen del análisis y las conclusiones relativas a las causas de la ocurrencia
+Factor causal:
 •
-disruption of the structure gauge of both line tracks by an obstacle – uprooted tree which grew in the railway protective area in the impact distance from the structure gauge, as a result of static failure which caused by health condition (internal rot) of tree when the actual state of health could not be ascertained in this particular case by a non-destructive method (visual inspections) and also its asymmetrical treetop with one-sided weight direction above railway, in connection with:
-
+la alteración de la sección pasante de ambas vías de línea por un obstáculo – un árbol arrancado que crecía en la franja de protección de la vía a la distancia de impacto de la sección pasante, como consecuencia de un fallo estático provocado por el estado sanitario (pudrición interna) del árbol, cuando el estado sanitario real no era posible determinar en este caso concreto mediante un método no destructivo (inspecciones visuales), así como por su copa asimétrica con una carga unilateral dirigida sobre la vía, en combinación con:
 
 ## Página 53
+
 
 ◦failure to detection and evaluation of all tree growing on a plot of a forest land, in the railway protective area and in the impact distance of a structure gauge of track, as a source of threat to the safety or continuity of railway traffic or the operability of the railway;
 ◦non-elimination of the source of threat to the railway and railway transport, which was formed by tree in the track protective zone at the impact distance of the structure gauge.
@@ -1767,16 +1741,16 @@ definition of term „woody plant“ in methodical direction STROMOVÍ was not c
 ## 6 RECOMENDACIONES DE SEGURIDAD
 La Inspección Ferroviaria, en virtud de lo dispuesto en el § 53e apartado 1 de la Ley núm. 266/1994 Sb., de ferrocarriles, en su redacción vigente, recomienda, con miras a la prevención de sucesos extraordinarios:
 Al Ministerio de Agricultura de la República Checa:
-◦como órgano central de la administración forestal, asegurar la modificación de la normativa legal correspondiente [Ley núm. 289/1995 Sb., de bosques y de modificación de determinadas leyes (Ley forestal), en su redacción consolidada], de modo que las partes de las masas forestales (bosques) situadas en la franja de protección ferroviaria se incluyan en la categoría «bosques de especial destinación», es decir, bosques en los que el interés público importante, que en este caso concreto es la explotación segura del ferrocarril para las necesidades del transporte ferroviario seguro y fluido, exige un modo de gestión diferente. La inclusión de un bosque situado en la franja de protección ferroviaria en la categoría «bosques de especial destinación» permitirá al propietario del bosque gestionarlo únicamente de tal manera que, en la franja de protección ferroviaria, cultive solo aquellas especies arbóreas que por su altura y ubicación, al caer, no alcancen la sección de paso de la vía/vías del ferrocarril.
-Al Ministerio de Transportes de la República Checa y a la Autoridad Ferroviaria:
-◦hasta la puesta en práctica de la recomendación de seguridad anteriormente mencionada, entablar negociaciones con el Ministerio de Agricultura de la República Checa, como órgano central de la administración forestal, a fin de que los órganos de la administración pública forestal, que son las oficinas municipales de los municipios con competencias ampliadas, las regiones y, por último, pero no menos importante, el Ministerio de Agricultura de la República Checa, por iniciativa propia, incluyan las partes de las masas forestales (bosques) situadas en la franja de protección ferroviaria en la categoría «bosques de especial destinación», es decir, bosques en los que el interés público importante, que en este caso concreto es la explotación segura del ferrocarril para las necesidades del transporte ferroviario seguro y fluido, exige un modo de gestión diferente. La inclusión de un bosque situado en la franja de protección ferroviaria en la categoría «bosques de especial destinación» permitirá al propietario del bosque gestionarlo únicamente de tal manera que, en la franja de protección ferroviaria, cultive solo aquellas especies arbóreas que por su altura y ubicación, al caer, no alcancen la sección de paso de la vía/vías del ferrocarril.».
+◦como órgano central de la gestión forestal, asegurar la modificación de la normativa legal correspondiente [Ley núm. 289/1995 Sb., de bosques y de modificación de determinadas leyes (Ley de bosques), en su redacción consolidada], de modo que las partes de las masas forestales (bosques) situadas en la franja de protección del ferrocarril se incluyan en la categoría «bosques de especial destinación», es decir, bosques en los que el interés público relevante, que en este caso concreto es la explotación segura del ferrocarril para las necesidades del transporte ferroviario seguro y fluido, exige un modo de gestión diferente. La inclusión de un bosque situado en la franja de protección del ferrocarril en la categoría «bosques de especial destinación» permitirá al propietario del bosque gestionar el bosque únicamente de tal manera que en la franja de protección del ferrocarril solo cultive especies arbóreas que por su altura y su ubicación, en caso de caída, no invadan la sección libre de la vía/vías del ferrocarril.
+Al Ministerio de Transporte de la República Checa y a la Autoridad Ferroviaria:
+◦hasta la puesta en práctica de la recomendación de seguridad anteriormente mencionada, entablar negociaciones con el Ministerio de Agricultura de la República Checa, como órgano central de la gestión forestal, a fin de que los órganos de la administración pública forestal, que son las oficinas municipales de los municipios con competencias ampliadas, las regiones y, por último, el Ministerio de Agricultura de la República Checa, por iniciativa propia, incluyan las partes de las masas forestales (bosques) situadas en la franja de protección del ferrocarril en la categoría «bosques de especial destinación», es decir, bosques en los que el interés público relevante, que en este caso concreto es la explotación segura del ferrocarril para las necesidades del transporte ferroviario seguro y fluido, exige un modo de gestión diferente. La inclusión de un bosque situado en la franja de protección del ferrocarril en la categoría «bosques de especial destinación» permitirá al propietario del bosque gestionar el bosque únicamente de tal manera que en la franja de protección del ferrocarril solo cultive especies arbóreas que por su altura y su ubicación, en caso de caída, no invadan la sección libre de la vía/vías del ferrocarril.».
 ## RECOMENDACIONES DE SEGURIDAD
 Dirigidas al Ministerio de Agricultura de la República Checa:
 •
-como órgano central de la administración forestal, asegurar la modificación de la normativa legal correspondiente [Ley núm. 289/1995 Sb., de bosques y de modificación de determinadas leyes (Ley forestal), en su redacción consolidada], de modo que las partes de los bosques situados en la franja de protección ferroviaria se incluyan en la categoría «bosques de especial destinación», es decir, bosques en los que el interés público (la explotación segura del ferrocarril) exige un modo de gestión diferente. Esta inclusión permitirá a los propietarios de los bosques gestionarlos de tal manera que solo se cultiven árboles que no caigan sobre la sección de paso del ferrocarril.
-
+como órgano central de la gestión forestal, para asegurar la modificación de la normativa legal correspondiente [Ley núm. 289/1995 Sb., de bosques y de modificación de determinadas leyes (Ley de bosques), en su redacción consolidada], de modo que las partes de los bosques situados en la franja de protección del ferrocarril se incluyan en la categoría «bosques de especial destinación», es decir, bosques en los que el interés público (la explotación segura del ferrocarril) exige un modo de gestión diferente. Esta inclusión permitirá a los propietarios de los bosques gestionarlos de tal manera que solo se cultiven árboles que no caigan sobre la sección libre del ferrocarril.
 
 ## Página 55
+
 
 Dirigidas al Ministerio de Transportes de la República Checa y a la Autoridad Nacional de Seguridad Ferroviaria (NSA) de la República Checa:
 •
@@ -1789,15 +1763,15 @@ inspector
 Inspección Territorial de Ostrava
 Inspección Territorial de Ostrava
 
-
 ## Página 56
+
 
 ## ANEXOS
 ### Fig. núm. 6, 7: Parte de la copa y del tronco de un árbol arrancado en el pk 69,426 sobre ambas vías del tramo entre estaciones Štěpánov – Červenka desde la finca p. č. 1029
 Fuente: ČD y SŽ
 
-
 ## Página 57
+
 
 Fig. núm. 8: Vista del cepellón y de parte del tronco de un árbol creciente en la finca p. č. 1029 arrancado en el pk 69,426 sobre ambas vías del tramo entre estaciones Štěpánov – Červenka
 Fuente: DI

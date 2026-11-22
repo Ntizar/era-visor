@@ -10,13 +10,14 @@ chars: 57944
 ratio_longitud: 1.26
 tokens_in: 26889
 tokens_out: 18165
-verificacion: revisar
-notas_cifras: ["bloque 1: original bilingüe: se compara contra el idioma principal (PT)", "bloque 2: original bilingüe: se compara contra el idioma principal (CS)", "bloque 3: cifras cortas: 12/112", "bloque 4: original bilingüe: se compara contra el idioma principal (PT)", "bloque 5: cifras cortas: 4/47", "bloque 8: original bilingüe: se compara contra el idioma principal (CS)"]
-avisos: ["bloque 4: ratio 1.73", "bloque 8: ratio 1.72"]
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 5: original bilingüe: se compara contra el idioma principal (EN)", "página 6: original bilingüe: se compara contra el idioma principal (CS)", "página 7: original bilingüe: se compara contra el idioma principal (PT); ratio 2.11", "página 8: cifras cortas: 11/60", "página 9: cifras cortas: 1/50", "página 10: original bilingüe: se compara contra el idioma principal (PT)"]
 ---
+
 ## Página 1
+
 
 República Checa
 Inspección Ferroviaria
@@ -43,11 +44,12 @@ IČO: 75009561
 http://www.dicr.cz
 fax: (+420) 224 805 428
 
-
 ## Página 2
 
 
+
 ## Página 3
+
 
 ### RESUMEN
 Fecha y hora:
@@ -69,11 +71,12 @@ supervisión inadecuada (los supervisores no habían reconocido la práctica ina
 Recomendación:
 no emitida
 
-
 ## Página 4
 
 
+
 ## Página 5
+
 
 # Índice
 RESUMEN....................................................................................................................3
@@ -118,6 +121,7 @@ RESUMEN.........................................................................
 
 ## Página 6
 
+
 señalización y garantía de la seguridad del tráfico.............................................................................................14
 3.5.2 Intercambio de mensajes verbales en relación con el incidente, incluidos los documentos del dispositivo de grabación................................................................................................................14
 3.5.3 Medidas adoptadas para proteger y asegurar el lugar del incidente................................14
@@ -149,27 +153,26 @@ seguridad.......................................................................
 de la recomendación, a otros organismos o personas...................................................................................17
 7 ANEXOS..................................................................................................................18
 
-
 ## Página 7
 
-### Ref. núm.: 6-41/2007/DI
+### Ref. n.º: 6-41/2007/DI
 ## Informe
-sobre los resultados de la investigación de las causas y las circunstancias de la aparición del incidente
+sobre los resultados de la investigación de las causas y circunstancias del surgimiento de la incidencia extraordinaria
 ### 1 RESUMEN
-El 10.09.2007 a las 14:36 horas se produjo en la línea ferroviaria, de ámbito regional, en el tramo comprendido entre las estaciones ferroviarias (en adelante, ef.) Praha-Braník – Praha-Modřany un incidente (en adelante, IE), circulación del tren Os 9009 hacia un bloque espacial ocupado por el tren Os 19010.
-En el IE no hubo fallecidos, no se produjeron lesiones ni daños materiales. El tráfico ferroviario se interrumpió de las 14:36 a las 15:56 horas del 10.09.2007.
-El gestor de infraestructura y el transportista (en adelante, gestor) son České dráhy, a. s. (en adelante, ČD, a. s.), con domicilio social: nábřeží Ludvíka Svobody 1222, código postal: 110 15, Praha 1. 
-De conformidad con la ley n.º 266/1994 Coll., sobre ferrocarriles, en su versión vigente (en adelante, ley), y con el decreto n.º 376/2006, sobre el sistema de seguridad de la explotación de la línea ferroviaria y del tráfico ferroviario y los procedimientos en caso de aparición de incidentes en las líneas ferroviarias (en adelante, decreto n.º 376), el IE se clasificó como peligro.
-A raíz de los resultados de la investigación de las causas y las circunstancias de la aparición del IE, la causa inmediata de la aparición del IE fue la autorización de la circulación del tren Os 9009 desde la ef. Praha-Braník hacia el bloque espacial ocupado por el tren Os 19010, sin adoptar otras medidas.
-### 2 DATOS RELATIVOS AL INCIDENTE
-### 2.1 Incidente
-### 2.1.1 Fecha, hora exacta y lugar del incidente
-El IE se produjo el 10.09.2007 a las 14:36 horas en la línea ferroviaria, de ámbito regional, 
-en el bloque espacial comprendido entre las ef. Praha-Braník y Praha-Modřany, en el pk 9,386.
-### 2.1.2 Descripción del incidente y del lugar del accidente, incluida la actividad del sistema integrado de rescate y del servicio de rescate
-El lugar del IE se encuentra en el ámbito del Centro Regional de Explotación (en adelante, CRE) de Praga, ámbito de atracción de la estación ferroviaria de nudo (en adelante, efn.) de Praga, línea n.º 523A Čerčany – Praha-Vršovice. El 10.09.2007, el despachador de servicio en las ef. Praha-Braník y Praha-Modřany acordaron el cambio del cruce de los trenes Os 9009 y Os 19010 a la ef. Praha-Braník. Tras la oferta y la aceptación del tren Os 19010 por parte del despachador de la ef. Praha-Braník, el despachador de la ef. Praha-Modřany autorizó la señal de entrada de la señal de entrada L y la señal de salida de la señal de salida L9 para el paso del tren en la ef. de Praha-Modřany. Cuando el tren Os 19010, según la salida prevista por el despachador de la ef. de Praha-Modřany, debía llegar a la ef. de Praha-Braník, el despachador de la ef. de Praha-Braník preguntó dónde se encontraba el tren Os 19010. A esta pregunta, el despachador de servicio de la ef. de Praha-Modřany le comunicó que el tren Os 19010 probablemente se encontraba detenido entre la ef. de Praha-Zbraslav y la ef. de Praha-Modřany. Tras el acuerdo de los despachadores, cancelaron la recepción y la salida prevista del tren Os 19010 desde la ef. de Praha-Modřany y el despachador de la ef. de Praha-Modřany recibió el tren Os 9009. El tren Os 9009, tras la correcta gestión del tráfico, salió de la ef. de Praha-Braník. Cuando el tren Os 9009 abandonaba el andén de la estación, el maquinista observó que la vía de circulación estaba ocupada por el tren Os 19010 detenido. Logró detenerse antes de dicho tren. El tren Os 9009 se detuvo de frente en el pk 9,446. El tren Os 19010 estaba detenido de frente en el pk 9,468, a una distancia de 22 metros del tren Os 9009. El despachador de la ef. de Praha-Braník fue informado de la aparición del IE y procedió de acuerdo con el plan de notificación. En el lugar intervinieron la Policía de la República Checa (PČR) y el Cuerpo de Bomberos y Protección Civil (HZS), ČD, a. s., Cuerpo de Bomberos y Protección Civil de Praga (JPO Praha).
+El 10. 09. 2007 a las 14:36 horas se produjo en la vía ferroviaria regional, en el tramo entre las estaciones de ferrocarril (en adelante est.) Praha-Braník – Praha-Modřany, una incidencia extraordinaria (en adelante MU), con la circulación del tren Os 9009 hacia un bloque de vía ocupado por el tren Os 19010.
+En la MU no falleció nadie, no se produjo ningún daño a la salud ni ningún perjuicio. La circulación ferroviaria se interrumpió desde las 14:36 hasta las 15:56 horas del día 10. 09. 2007.
+El explotador de la vía y de la circulación ferroviaria (en adelante explotador) son los Ferrocarriles Checos, a. s. (en adelante ČD, a. s.), con domicilio en: nábřeží Ludvíka Svobody 1222, CP: 110 15, Praga 1.
+De conformidad con la ley n.º 266/1994 Sb., de vías ferroviarias, en su redacción vigente (en adelante ley), y con la disposición n.º 376/2006, sobre el sistema de seguridad de la explotación de la vía y de la circulación ferroviaria y los procedimientos en caso de surgimiento de incidencias extraordinarias en las vías ferroviarias (en adelante disposición n.º 376), la MU fue clasificada como amenaza.
+En base a los resultados de la investigación de las causas y circunstancias del surgimiento de la MU, la causa inmediata del surgimiento de la MU fue la autorización de la circulación del tren Os 9009 desde la est. Praha-Braník hacia el bloque de vía ocupado por el tren Os 19010, sin la adopción de medidas adicionales.
+### 2 DATOS RELATIVOS A LA INCIDENCIA EXTRAORDINARIA
+### 2.1 Incidencia extraordinaria
+### 2.1.1 Fecha, hora exacta y lugar de la incidencia extraordinaria
+La MU se produjo el día 10. 09. 2007 a las 14:36 horas en la vía ferroviaria regional, en el bloque de vía entre las est. Praha-Braník y Praha-Modřany, en el km 9,386.
+### 2.1.2 Descripción de la incidencia extraordinaria y del lugar del accidente, incluida la actividad del sistema integrado de emergencia y del servicio de rescate
+El lugar de la MU se encuentra en el ámbito del Centro Regional de Explotación (en adelante RCP) Praga, ámbito de atracción de la estación ferroviaria de enlace (en adelante užst.) Praga, línea n.º 523A Čerčany – Praha-Vršovice. El día 10. 9. 2007 los jefes de estación en servicio en la est. Praha-Braník y en la est. Praha-Modřany acordaron trasladar el cruce de los trenes Os 9009 y Os 19010 a la est. Praha-Braník. Tras la oferta y la recepción del tren Os 19010 por parte del jefe de estación de la est. Praha-Braník, el jefe de estación de la est. Praha-Modřany autorizó la señal de aproximación de la señal de entrada L y de la señal de salida L9 para el paso del tren en la est Praha-Modřany. En el momento en que el tren Os 19010 debía llegar, según la salida prevista fijada por el jefe de estación de la est. Praha-Modřany, a la est. Praha-Braník, el jefe de estación de la est. Praha-Braník preguntó dónde se encontraba el tren Os 19010. A esta consulta, el jefe de estación en servicio de la est. Praha-Modřany le comunicó que el tren Os 19010 probablemente se encontraba detenido en algún punto entre la est. Praha-Zbraslav y la est. Praha-Modřany. Tras el acuerdo, los jefes de estación cancelaron la recepción y la salida prevista del tren Os 19010 desde la est. Praha-Modřany, y el jefe de estación de la est. Praha-Modřany recibió el tren Os 9009. El tren Os 9009 partió de la est. Praha-Braník tras la correspondiente expedición. Cuando el tren Os 9009 abandonaba el extremo de la estación, el maquinista observó que la vía de circulación estaba ocupada por el tren Os 19010 detenido. Logró detenerse antes de alcanzar dicho tren. El tren Os 9009 se detuvo con el morro en el km 9,446. El tren Os 19010 estaba detenido con el morro en el km 9,468, a una distancia de 22 metros del tren Os 9009. El surgimiento de la MU fue comunicado al jefe de estación de la est. Praha-Braník, que procedió según el plan de comunicaciones. En el lugar intervinieron la PČR y la HZS, ČD, a. s., JPO Praga.
 
 ## Página 8
+
 
 ### 2.1.3 Decisión de iniciar la investigación de las causas y las circunstancias de la ocurrencia, composición del equipo de personas técnicamente competentes y método de conducción de la investigación de las causas y las circunstancias de la ocurrencia
 La Inspección Ferroviaria (en lo sucesivo, II) inició la supervisión y la investigación de las causas y las circunstancias de la ocurrencia de la colisión (MU) de conformidad con lo dispuesto en el artículo 53b, apartado (1), de la ley y en el artículo 11, apartado (2), letra b), punto 2, del decreto ejecutivo n.º 376. En el lugar de la colisión se presentaron, en nombre de la II, el inspector superior (en lo sucesivo, IS) del Departamento de Inspección y el IS de la Inspección Territorial de Praga (en lo sucesivo, IT). Para la investigación de las causas y las circunstancias de la ocurrencia de la colisión se tuvieron en cuenta los conocimientos propios obtenidos en el lugar de la colisión, los resultados de la investigación realizada por el explotador y, además, las inspecciones estatales llevadas a cabo por la IT de la II el 19 de septiembre de 2007 y el 24 de octubre de 2007 en el explotador en la estación de Praga-Modřany. Las actas escritas forman parte del expediente de la colisión.
@@ -198,6 +201,7 @@ En dirección de circulación del tren Os 9009, que circulaba desde la estación
 El dispositivo de seguridad de vía en el tramo interstacional entre las estaciones de Praga-Modřany y Praga-Braník es de categoría 1, y las circulaciones de los trenes se aseguran mediante comunicación telefónica. La estación de Praga-Modřany está equipada con un dispositivo de seguridad de relés (en lo sucesivo, DSR) de tipo AŽD 71 según la norma técnica AŽD 8221 – 8281, año de fabricación 1994. El certificado de aptitud del dispositivo técnico designado fue emitido por la Oficina Ferroviaria el 15 de abril de 1997, bajo el número de registro PZ 1778/97–E.46. La última prórroga de la validez la realizó la Oficina Ferroviaria el 16 de septiembre de 2004, bajo el número de expediente 2–8246/04–OF, sobre la base del «Acta n.º 10/04–Kr/pz, sobre la inspección y prueba del dispositivo técnico designado del 20 de agosto de 2004», con validez hasta el 19 de agosto de 2009.
 
 ## Página 9
+
 
 El DSR en la estación de Praga-Modřany está fuera de servicio desde las inundaciones de 2002, incluidos los circuitos de vía y el dispositivo de seguridad de trenes (PZZ) en el pk 8,540. Las señales de entrada L y S y las señales de salida L3, L7, L9, S3, S7 y S9 están equipadas con señales de llamada, que maneja el despachador desde la oficina de tráfico, desde un panel de control provisional. En el momento de la ocurrencia de la colisión, estaban en servicio cuatro vías de tráfico, a saber, las vías números 3, 7, 9 y 9a, por las cuales y desde las cuales se permitía la entrada y la salida de trenes mediante señales de llamada.
 
@@ -233,20 +237,21 @@ En el momento de la ocurrencia de la colisión, la temperatura era de +15 °C, c
 
 ## Página 10
 
-### 3 REGISTRO DE LAS EXPLICACIONES PRESTADAS
-### 3.1 Resumen de las explicaciones prestadas 
-### 3.1.1 Empleados del administrador de la infraestructura y del transportista, incluidas las personas en relación contractual
-En el acta, el empleado, maquinista del tren Os 9009, indicó, entre otras cosas, que en la est. de Praha-Braník recibió información sobre el retraso del tren Os 19010 y sobre el cruce con dicho tren, de manera distinta a lo previsto en el horario, en la est. de Praha-Modřany. Tras la expedición y la salida del tren de la est. de Praha-Braník, tras salir de la curva a la izquierda, observó un tren procedente del sentido contrario. Aplicó inmediatamente el freno de emergencia y detuvo el tren.
-En el acta, el empleado, maquinista del tren Os 19010, indicó, entre otras cosas, que la marcha del tren se desarrolló sin incidentes; aproximadamente 100 metros antes de la señal de entrada de la est. de Praha-Braník, detuvo el tren porque la señal mostraba la indicación Alto. Poco después, observó un tren circulando en sentido contrario, intentó encender las luces rojas y abandonó el puesto de conducción.
-En el acta, el empleado, preparador del tren Os 19010, confirmó la declaración del maquinista del tren Os 19010.
-En el acta, el empleado, despachador de la est. de Praha-Braník, indicó, entre otras cosas, que a las 14:24 horas recibió el tren Os 19010 del despachador de la est. de Praha-Modřany con la salida prevista a las 14:28 horas. Cuando el tren Os 9009 se detuvo en la estación a las 14:30 horas y el despachador de la est. de Praha-Modřany no comunicó la salida real del tren Os 19010, realizó una consulta sobre el tren Os 19010. Del despachador de la est. de Praha-Modřany recibió la información de que el tren aún no había pasado, que aproximadamente estaba parado en la vía entre las estaciones de Praha-Zbraslav y Praha-Modřany. Por ello, a las 14:33 horas se canceló la oferta y la aceptación del tren Os 19010 y se realizó la oferta y la aceptación del tren Os 9009 con la salida prevista de la est. de Praha-Braník a las 14:35 horas. Aproximadamente 4-5 minutos después de la salida de este tren, el guardafrenos del tren Os 19010 comunicó que estaba parado frente al tren Os 9009 y que no había ocurrido nada a nadie.
-En el acta, el empleado, despachador de la est. de Praha-Modřany, confirmó, entre otras cosas, los datos indicados por el despachador de la est. de Praha-Braník. Además, indicó que, cuando mantenía pulsado el botón de la señal de llamada de la señal de entrada L para la entrada del tren Os 19010, sintió la necesidad de realizar una necesidad personal inmediata. Aseguró los botones de la señal de entrada y de salida de manera no autorizada, de modo que las señales L y S9 permitieran la entrada y la salida del tren Os 19010 mediante la señal de llamada, cerró con llave la puerta de la oficina de tráfico y se dirigió al aseo. Tras realizar la necesidad personal y lavarse las manos, aproximadamente 2-3 minutos después, a las 14:27 horas, regresó a la oficina de tráfico y esperaba la llegada del tren Os 19010, que debía pasar a las 14:28 horas. Aproximadamente a las 14:29 horas, consultó al despachador de la est. de Praha-Zbraslav si había comunicado algún problema al maquinista del tren Os 19010. En ese momento, también consultó al despachador de la est. de Praha-Braník sobre el paso real del tren Os 19010. Posteriormente, volvió a consultar al despachador de la est. de Praha-Zbraslav si el maquinista del tren Os 19010 se había puesto en contacto. Tras otra consulta del despachador de la est. de Praha-Braník sobre el tren Os 19010, los despachadores acordaron cancelar la aceptación del tren Os 19010 y aceptar el tren Os 9009. Tras la aceptación del tren Os 9009, retiró el dispositivo no autorizado del botón de la señal de llamada L9 y colocó la señal en la posición Alto. Preparó la vía del tren para el tren Os 9009 en la séptima vía y pulsó el botón de la señal de llamada S para la entrada del tren Os 9009 desde la est. de Praha-Braník. A continuación, el despachador de la est. de Praha-Braník comunicó que se había producido un MU. Los registros escritos forman parte del expediente del MU.
+### 3 REGISTRO DE EXPLICACIONES PRESENTADAS
+### 3.1 Resumen de las explicaciones presentadas 
+### 3.1.1 Empleados del gestor de la vía y del transportista, incluidas personas en relación contractual
+En la declaración con el empleado maquinista del tren Os 9009, entre otras cosas, indicó que en la estación de Praha-Braník recibió información sobre el retraso del tren Os 19010 y sobre el cruce con dicho tren de forma distinta al horario en la estación de Praha-Modřany. Tras la expedición y la salida del tren de la estación de Praha-Braník, detectó, tras salir de una curva a la izquierda, un tren desde el lado opuesto. Aplicó inmediatamente frenado de acción rápida y detuvo el tren.
+En la declaración con el empleado maquinista del tren Os 19010, entre otras cosas, indicó que la circulación del tren transcurrió sin incidencias, que a unos 100 metros antes de la señal de entrada de la estación de Praha-Braník detuvo el tren, ya que ésta mostraba la señal «Alto». Poco después detectó un tren en circulación desde la dirección opuesta, intentó encender las luces rojas y abandonó su puesto.
+En la declaración con el empleado maquinista en preparación del tren Os 19010 confirmó la declaración del maquinista del tren Os 19010.
+En la declaración con el empleado jefe de estación de la estación de Praha-Braník, entre otras cosas, indicó que a las 14:24 horas recibió el tren Os 19010 del jefe de estación de la estación de Praha-Modřany con previsión de salida a las 14:28 horas. Cuando a las 14:30 horas se detuvo en la estación el tren Os 9009 y el jefe de estación de la estación de Praha-Modřany no comunicó la salida real del tren Os 19010, realizó una consulta sobre el tren Os 19010. Del jefe de estación de la estación de Praha-Modřany recibió la información de que el tren aún no había pasado, que probablemente se encontraba detenido en la vía entre las estaciones de Praha-Zbraslav y Praha-Modřany. Por ello, a las 14:33 horas se anuló la oferta y recepción del tren Os 19010 y se realizó la oferta y recepción del tren Os 9009 con previsión de salida de la estación de Praha-Braník a las 14:35 horas. A unos 4-5 minutos de la salida de este tren, el jefe de tren del tren Os 19010 comunicó que se encontraba frente al tren Os 9009 y que no había ocurrido nada a nadie.
+En la declaración con el empleado jefe de estación de la estación de Praha-Modřany, entre otras cosas, confirmó los datos indicados por el jefe de estación en la estación de Praha-Braník. Asimismo indicó que, en el momento en que mantenía pulsado el botón de señal de aproximación de la señal de entrada L para la entrada del tren Os 19010, sintió la necesidad de acudir de inmediato a satisfacer una necesidad personal. Aseguró los botones de la señal de entrada y de salida de forma no autorizada de modo que las señales L y S9 permitieran la entrada y salida del tren Os 19010 con la señal de aproximación, cerró con llave la puerta de la oficina de tráfico y se dirigió al aseo. Tras satisfacer la necesidad personal y lavarse las manos, regresó a la oficina de tráfico a unos 2-3 minutos, a las 14:27 horas, y esperaba la llegada del tren Os 19010, que debía pasar a las 14:28 horas. Aproximadamente a las 14:29 horas preguntó al jefe de estación de la estación de Praha-Zbraslav si el maquinista del tren Os 19010 había comunicado algún problema. En ese momento, el jefe de estación de la estación de Praha-Braník también consultaba el paso real del tren Os 19010. Posteriormente, volvió a preguntar al jefe de estación de la estación de Praha-Zbraslav si el maquinista del tren Os 19010 se había puesto en contacto. Tras una nueva consulta del jefe de estación de la estación de Praha-Braník sobre el tren Os 19010, los jefes de estación acordaron anular la recepción del tren Os 19010 y recibir el tren Os 9009. Tras recibir el tren Os 9009, retiró el dispositivo no autorizado del botón de señal de aproximación L9      y puso la señal en posición «Alto». Estableció la ruta ferroviaria para el tren Os 9009 en la vía séptima y pulsó el botón de la señal de aproximación S para la entrada del tren Os 9009 desde la estación de Praha-Braník. A continuación, el jefe de estación de la estación de Praha-Braník comunicó que se había producido un MU. Los registros escritos forman parte del expediente del MU.
 ### 3.1.2 Otras personas
-Otras personas no participaron en la explotación de la infraestructura y del transporte ferroviario, ni fueron testigos del MU.
+Otras personas no participaron en la explotación de la vía ni en el transporte ferroviario, ni fueron testigos del MU.
 ### 3.2 Sistema de garantía de la seguridad
-Los requisitos de referencia para la explotación segura de la infraestructura y del transporte ferroviario están establecidos en las siguientes normas jurídicas y procedimientos tecnológicos contenidos en las normas internas del administrador.
+Los requisitos de referencia para la explotación segura de la vía y del transporte ferroviario están establecidos en las siguientes disposiciones legales y procedimientos tecnológicos contenidos en las normativas internas del gestor.
 
 ## Página 11
+
 
 Disposiciones jurídicas:
 § 22, apartado (1), letra a), de la ley:
@@ -277,6 +282,7 @@ El 14 de diciembre de 2003 entró en vigor la Orden del jefe de la estación de 
 El 1 de mayo de 2004 entró en vigor la Orden del jefe de la estación de Praha hlavní nádraží relativa al reglamento de la estación de Praha-Modřany número 1/2004-P, en relación con las medidas de transformación en ČD, a. s.
 
 ## Página 12
+
 
 Simultáneamente se derogó la validez de la orden anterior número 3/2003-P, ref.: 1721/2003-3.
 El 1. 6. 2005 entró en vigor la Orden del jefe de la estación de Praga Estación Principal relativa a la Estación de Praga-Modřany número 1/2005-P, en relación con la construcción de barreras contra inundaciones y cambios de personal. Simultáneamente se derogó la validez de la orden anterior número 1/2004-P.
@@ -310,6 +316,7 @@ Para la determinación de las causas y las circunstancias de la producción de e
 
 ## Página 13
 
+
 ČD V15/I – Prescripción para el funcionamiento y la manipulación de los dispositivos de frenado de los vehículos ferroviarios sobre raíles
 ČD Z1 – Prescripción para la manipulación de los dispositivos de seguridad de las estaciones y de la vía.
 ### 3.4 Actividad de los vehículos ferroviarios y de las instalaciones técnicas
@@ -329,6 +336,7 @@ El certificado de aptitud del vehículo ferroviario 714.010–6 fue emitido por 
 El certificado de aptitud para la circulación del vehículo motorizado 810.586–8 fue emitido por el DÚ el 15.01.1996 con el número PZ 0234/95–V.22. La última inspección técnica del vehículo motorizado se realizó el 09.05.2007. Mediante la evaluación de los datos de la cinta de registro del velocímetro con capa de carbono, número del registrador de velocidad 70010, del vehículo motorizado 810.586-8 y de la circulación del tren Os 19010 desde el último arranque hasta el lugar de detención en el pk 9,468, se determinó el arranque desde la parada
 
 ## Página 14
+
 
 Praga–Modřany a las 14:29,5 h, en un tramo de 200 metros se alcanzó una velocidad V = 40 km/h, en un tramo adicional de 120 metros se circuló a una velocidad V = 40 km/h, en un tramo adicional de 950 metros se aumentó la velocidad hasta un valor V = 75 km/h, en un tramo adicional de 580 metros se redujo la velocidad mediante frenado operativo hasta un valor V = 21 km/h y en un tramo adicional de 310 metros se detuvo en el pk 9,468 a las 14:33 h. El paso por la estación de Praga-Modřany se realizó a las 14:28 h a una velocidad V = 38 km/h. No se superó la velocidad máxima permitida para el tren Os 19010, que era de 80 km/h; el dispositivo de protección de tren estaba en funcionamiento y fue manejado por el maquinista durante toda la parte anterior del turno registrado.
 
@@ -354,28 +362,61 @@ Todos los empleados participantes en el IE estaban médicamente aptos; antes de 
 ### 3.6.3 Disposición del equipo del puesto de control o del vehículo, que influye en su manejo y uso.
 El explotador de la infraestructura, mediante la forma reglamentaria de manejo de las señales de llamada en el panel de control provisional y mediante los procedimientos tecnológicos establecidos en la estación de Praga-Modřany por los horarios de circulación para los pasos de los trenes de viajeros, creó una situación que no permitió al personal que regula el tráfico ferroviario seguir la circulación de los trenes durante el paso y la salida en todo el ámbito para la comprobación de la libertad de la vía de tren.
 
-
 ## Página 15
 
-### 3.7 Incidentes extraordinarios anteriores de carácter similar
-El 27.01.2007 a las 11:50 h se produjo en la línea n.º 534 A Kaštice – Kadaň-Prunéřov, entre las estaciones de Kadaň y Kadaň-Prunéřov, un IE - peligro, cuando el tren Os 17648 salió de la estación de Kadaň hacia la vía de línea en dirección contraria al tren Mn 97433 y se detuvo de frente a una distancia de 15 metros del tren de mercancías parado. Según la evaluación del explotador, la causa del IE fue la comunicación telefónica de la salida del tren Mn 97433, sin que este tren hubiera llegado a la estación de Kadaň, y el engaño del jefe de tráfico de la estación de Kadaň mediante la regulación incorrecta del tráfico ferroviario.
-
-El 19.02.2007 a las 06:24 h se produjo en la línea n.º 520 E Rakovník – Beroun, en la estación de Beroun-Závodí, un IE - peligro, cuando el tren Os 19900 salió de la estación de Beroun-Závodí, superó la señal de salida con la indicación «Alto», cortó el punto n.º 17 y entró en la vía de tren desde la dirección contraria del tren Os 7941 en circulación. Por coincidencia, los maquinistas de ambos trenes se detuvieron a una distancia de 9 metros entre sí mediante un frenado oportuno. Según la evaluación del explotador, la causa del IE fue la no detención del tren Os 19900 antes de la señal principal que prohibía la circulación continua.
-
-### 4 ANÁLISIS Y CONCLUSIONES
-### 4.1 Descripción final del incidente extraordinario
-### 4.1.1 Descripción final del incidente extraordinario basada en los hechos constatados en el punto 3
-Según el horario de circulación, los trenes Os 9009 y Os 19010 se cruzan regularmente en la estación de Praga-Modřany. El cruce se trasladó operativamente a la estación de Praga-Braník debido a un retraso del tren Os 9009 de 9,5 minutos. El jefe de tráfico de la estación de Praga-Braník aceptó el tren Os 19010; posteriormente, el jefe de tráfico de la estación de Praga-Modřany autorizó la circulación del tren Os 19010 hacia el bloque espacial entre las estaciones de Praga-Modřany y Praga-Braník mediante la señal de llamada en la señal de salida L9. De las anotaciones en los diarios de tráfico de las estaciones de Praga-Modřany y Praga-Braník se desprende que el tren Os 19010 fue aceptado por el jefe de tráfico de la estación de Praga-Braník; de la documentación sobre el estado de los contadores se desprende que el jefe de tráfico de la estación de Praga-Modřany realizó para este tren una vía de tren como si se tratara de un tren en tránsito. De la evaluación de la circulación del tren Os 19010, las declaraciones del maquinista y del maquinista en formación se desprende que el tren circuló por la estación de Praga-Modřany a la hora establecida por el horario de circulación del tren, a las 14:28 h. En la señal de salida L9 había una señal de llamada que autorizaba la circulación del tren hacia el bloque espacial entre las estaciones de Praga-Modřany y Praga-Braník. El jefe de tráfico de la estación de Praga-Modřany aseguró de forma no autorizada los botones de las señales de llamada y autorizó la circulación del tren. Posteriormente, abandonó el puesto de trabajo y, tras su regreso, no comprobó que el tren Os 19010 hubiera pasado por la estación. No verificó la posición real del tren Os 19010, canceló conjuntamente con el jefe de tráfico de la estación de Praga-Braník su aceptación y su salida prevista y a las 14:34 h aceptó en el bloque espacial ocupado por el tren Os 19010 el tren Os 9009. Por coincidencia, no se produjo posteriormente una colisión. El maquinista del tren Os 9009 utilizó el frenado rápido y el tren se detuvo a una distancia de 22 metros del tren Os 19010.
-
+### 3.7 Incidentes anteriores de carácter similar
+El 27.01. 2007 a las 11:50 horas se produjo en la línea número 534 A Kaštice – Kadaň-Prunéřov, entre
+la est. Kadaň – la est. Kadaň-Prunéřov, un incidente de seguridad, cuando el tren Os 17648 partió de la est. Kadaň
+hacia la vía de circulación en sentido contrario al tren Mn 97433 y se detuvo con el frente del tren a una distancia de 15 metros
+del tren de mercancías detenido. La causa del incidente, según la evaluación del operador, fue la transmisión
+de una notificación telefónica de anulación tras el tren Mn 97433, sin que dicho
+tren llegara a la est. Kadaň, y la inducción a error del jefe de estación de la est. Kadań mediante una incorrecta
+gestión del tráfico ferroviario.
+El 19.02. 2007 a las 06:24 horas se produjo en la línea número 520 E Rakovník – Beroun, en la est. Beroun-
+Závodí, un incidente de seguridad, cuando el tren Os 19900 partió de la est. Beroun-Závodí, pasó por la señal
+de salida con la indicación «Alto», cortó el desvío número 17 e invadió el tramo de vía del tren
+Os 7941 que circulaba en sentido contrario. Los conductores de ambos trenes, por una coincidencia de
+circunstancias, frenaron a tiempo y se detuvieron a una distancia de 9 metros el uno del otro. La causa del incidente, según la evaluación del operador, fue
+la no detención del tren Os 19900 antes de la señal principal que
+prohibía la continuación de la marcha.
+### 4 ANÁLISIS Y CONCLUSIONS
+### 4.1 Descripción final del incidente
+### 4.1.1 Descripción final del incidente basada en los hechos constatados
+en el punto 3
+Según el horario de circulación, los trenes Os 9009 y Os 19010 cruzan regularmente en la est. Praha-Modřany.
+El cruce se trasladó operativamente a la est. Praha-Braník debido al retraso de 9,5 minutos del tren Os 9009.
+El jefe de estación de la est. Praha-Braník recibió el tren Os 19010; a continuación, el jefe de estación en la est. Praha-
+Modřany permitió la circulación del tren Os 19010 hacia el tramo de vía entre la est. Praha-Modřany –
+Praha-Braník con la señal de llamada en la señal de salida L9. De los registros anotados
+en el diario de circulación de la est. Praha-Modřany y la est. Praha-Braník se desprende que el tren Os 19010 fue
+recibido por el jefe de estación de la est. Praha-Braník; de la documentación del estado de los contadores se desprende que el jefe de estación
+de la est. Praha-Modřany realizó para este tren un tramo de vía como para un tren de paso.
+De la evaluación de la circulación del tren Os 19010, de la declaración del conductor y del conductor
+en preparación se deduce que el tren pasó por la est. Praha-Modřany a la hora establecida en el horario
+del tren a las 14:28 horas. En la señal de salida L9 había una señal de llamada que permitía la circulación del tren
+hacia el tramo de vía entre la est. Praha-Modřany y la est. Praha-Braník. El jefe de estación de la est. Praha-
+Modřany aseguró los botones de las señales de llamada de forma no autorizada y permitió la circulación
+del tren. A continuación, abandonó su puesto de trabajo y, a su regreso, no comprobó que el tren Os 19010 hubiera
+pasado por la estación. No verificó la posición real del tren Os 19010, anuló junto con el jefe de estación de la est. Praha-Braník
+su recepción y salida prevista, y a las 14:34 horas recibió en el tramo de vía ocupado
+por el tren Os 19010 el tren Os 9009. A continuación, solo por una coincidencia de circunstancias, no se produjo una colisión.
+El conductor del tren Os 9009 utilizó el frenado de acción rápida y el tren se detuvo a una distancia de 22
+metros frente al tren Os 19010.
 ### 4.2 Análisis
-### 4.2.1 Evaluación de los hechos constatados según el punto 3 y presentación de las conclusiones sobre la causa del incidente extraordinario y la actividad de los servicios de rescate
-Mediante la investigación se constató:
-- el jefe de tráfico de la estación de Praga-Modřany, que regulaba el tráfico ferroviario, no garantizó la seguridad del tráfico ferroviario en el ámbito de su competencia profesional;
-- de forma no autorizada realizó el manejo de las señales de llamada para el paso del tren Os 19010, abandonó el puesto de trabajo y no siguió la circulación del tren;
-- no se convenció debidamente de la posición real del tren Os 19010, canceló conjuntamente con el jefe de tráfico de la estación de Praga-Braník su aceptación y su salida prevista y a las 14:34 h aceptó en el bloque ocupado por el tren Os 19010 el tren Os 9009.
-- durante la ejecución de las tareas de SD, la Inspección Ferroviaria constató que el jefe de tráfico, durante el manejo de las señales de llamada,
+### 4.2.1 Evaluación de los hechos constatados según el punto 3 y formulación de conclusiones sobre
+la causa del incidente y la actuación de los servicios de emergencia
+La investigación determinó lo siguiente:
+– el jefe de estación de la est. Praha-Modřany, que gestionaba el tráfico ferroviario, no garantizó la seguridad del tráfico
+ferroviario en el ámbito de su competencia profesional
+– realizó de forma no autorizada la operación de las señales de llamada para el paso del tren Os
+19010, abandonó su puesto de trabajo y no vigiló la circulación del tren
+– no se cercioró debidamente de la posición real del tren Os 19010, anuló junto con el jefe de estación
+de la est. Praha-Braník su recepción y salida prevista, y a las 14:34 horas recibió en el tramo
+de vía ocupado por el tren Os 19010 el tren Os 9009.
+– durante la actuación de la Dirección de Inspección Ferroviaria ante el incidente, se constató que el jefe de estación, al operar las señales de llamada
 
 ## Página 16
+
 
 la señalización en el panel de control provisional es observada por el empleado de tráfico únicamente a través de la puerta y la ventana de la oficina de tráfico. Esta perspectiva no permite observar la circulación de los trenes durante la salida en todo el perímetro para verificar la libertad de la vía del tren. El procedimiento tecnológico establecido no permite al empleado que dirige el tráfico ferroviario cumplir las instrucciones del administrador de la infraestructura durante el paso y la salida de los trenes. Se ha constatado la infracción del apartado 1 del artículo 20 del Decreto n.º 173 sobre las actividades de observación de la circulación de los vehículos ferroviarios en el tráfico ferroviario por parte de las personas que dirigen y participan en la dirección del tráfico ferroviario y de los procedimientos tecnológicos establecidos por el administrador de la infraestructura en el artículo 975 de la norma interna de ČD, a. s., ČD D2.
 
@@ -413,35 +454,24 @@ No se detectaron.
 ## Página 17
 
 ### 5 MEDIDAS ADOPTADAS
-### 5.1 Relación de las medidas que ya se han adoptado o tomado como consecuencia del incidente excepcional.
-
+### 5.1 Lista de medidas que, como consecuencia del suceso ferroviario, ya se han adoptado o tomado.
 ČD, a. s., adoptó las siguientes medidas:
-
-El Director del Instituto de Inspección de la Seguridad del Tráfico Ferroviario de ČD, a. s., emitió el 11 de septiembre de 2007, con el número de expediente 244/07-O18, una medida operativa con la descripción de las causas y las circunstancias de la aparición de este IE y ordenó simultáneamente a los jefes superiores de todas las estaciones que, a más tardar el 25 de septiembre de 2007, informaran de la medida operativa a todos los empleados que dirigen y organizan el tráfico ferroviario. Asimismo, ordenó centrar las actividades de control y prevención en la garantía de la seguridad de las circulaciones de los trenes.
-
-Al despachador de la estación de Praha-Modřany se le redujo la remuneración por rendimiento correspondiente al mes de septiembre de 2007 en un 100 % y se suspendió la actividad laboral del despachador hasta que haya superado con éxito el examen extraordinario.
-
-Al jefe de la estación de Praha-Vršovice se le redujo la remuneración por rendimiento correspondiente al mes de septiembre de 2007 en un 10 %.
-
-Al inspector de la estación de Praha-Braník se le redujo la remuneración por rendimiento correspondiente al mes de septiembre de 2007 en un 10 %.
-
-Todos los empleados operativos de la estación de Praha hlavní nádraží fueron informados del IE en la Orden de Análisis del Jefe Superior de la estación de Praha hlavní nádraží.
-
-El 31 de enero de 2008 a las 18:30 horas se activó en la estación de Praha-Modřany un nuevo dispositivo de seguridad de estación provisional, que se controla desde un puesto de servicio único del sistema de dirección tipo REMONTE 98, incluido el panel de operaciones de emergencia. La reconstrucción definitiva está prevista para el año 2008.
-
+El director de la Inspección de Seguridad del Transporte Ferroviario de ČD, a. s., emitió el día 11. 9. 2007 bajo el n.º de expediente 244/07-O18 una medida operativa con la descripción de las causas y circunstancias de la aparición de este SU y, al mismo tiempo, ordenó a los jefes de estación de todas las užst. que, en el plazo hasta el 25. 9. 2007, pusieran en conocimiento de todos los empleados que dirigen y organizan el transporte ferroviario la medida operativa. Asimismo, encomendó centrar la actividad de control y prevención en la seguridad de la circulación de los trenes.
+Al jefe de estación de žst. Praha-Modřany se le redujo la retribución por objetivos del mes de septiembre de 2007 en un 100 % y se le suspendió la actividad laboral del jefe de estación hasta la superación con éxito del examen extraordinario.
+Al jefe de estación de žst. Praha-Vršovice se le redujo la retribución por objetivos del mes de septiembre de 2007 en un 10 %.
+Al inspector de estación de žst. Praha-Braník se le redujo la retribución por objetivos del mes de septiembre de 2007 en un 10 %.
+Todos los empleados de explotación de la užst Praha hlavní nádraží fueron informados del SU en la Orden de Análisis del jefe de estación de la užst. Praha hlavní nádraží.
+El día 31 de enero de 2008 a las 18:30 horas se activó en la žst. Praha-Modřany un nuevo dispositivo de enclavamiento provisional de estación, que es controlado desde un puesto de operación único del sistema de mando tipo REMONTE 98, incluida la consola de operaciones de emergencia. La reconstrucción definitiva está prevista para el año 2008.
 ### 6 RECOMENDACIONES DE SEGURIDAD
-### 6.1 Las recomendaciones de seguridad están dirigidas a la Oficina Ferroviaria y, si la naturaleza de la recomendación lo requiere, también a otros organismos o personas.
-
-No se emitió ninguna.
-
-En Praga, el 28 de mayo de 2008
-
-František Paseka, v. r.
-Zdeněk Malý, v. r.
-
-Inspector superior de la Inspección Territorial de Praga
+### 6.1 Las recomendaciones de seguridad se dirigen a la Autoridad Ferroviaria y, si la naturaleza de la recomendación lo requiere, también a otras autoridades o personas.
+No se emitieron.
+En Praga, a: 28 de mayo de 2008
+František Paseka, fdo.
+Zdeněk Malý, fdo.
+Inspector jefe de la Inspección Territorial de Praga
 Director de la Inspección Territorial de Praga
 
 ## Página 18
+
 
 ### 7 ANEXOS

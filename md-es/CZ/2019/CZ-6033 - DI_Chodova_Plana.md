@@ -10,13 +10,14 @@ chars: 327605
 ratio_longitud: 1.26
 tokens_in: 141905
 tokens_out: 95781
-verificacion: revisar
-notas_cifras: ["bloque 1: original bilingüe: se compara contra el idioma principal (CS)", "bloque 3: original bilingüe: se compara contra el idioma principal (CS)", "bloque 10: original bilingüe: se compara contra el idioma principal (CS)", "bloque 14: original bilingüe: se compara contra el idioma principal (CS)", "bloque 15: original bilingüe: se compara contra el idioma principal (CS); cifras cortas: 7/129", "bloque 25: original bilingüe: se compara contra el idioma principal (CS)"]
-avisos: ["bloque 10: ratio 1.78"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 5: original bilingüe: se compara contra el idioma principal (CS)", "página 9: original bilingüe: se compara contra el idioma principal (EN)", "página 10: original bilingüe: se compara contra el idioma principal (PT)", "página 13: original bilingüe: se compara contra el idioma principal (ES)", "página 24: original bilingüe: se compara contra el idioma principal (CS)", "página 26: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -40,13 +41,13 @@ IČ:   75009561
 mail@dicr.cz
 tel.: +420 736 521 003
 
-
 ## Página 2
+
 
 Este informe final es público y todos los hechos en él expuestos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ## 1 RESUMEN
         Fuente: DI
@@ -67,8 +68,8 @@ daño total 27 996 729 Kč.
 Causa inmediata:
 exceso de la velocidad máxima permitida en 61 km.h-1 a la altura de la señal fija de velocidad N con la indicación „Velocidad de vía” con el dígito „30” por parte del maquinista del tren Pn 64520.
 
-
 ## Página 4
+
 
 Factores contribuyentes:
 ausencia de medios técnicos de seguridad que, ante un fallo (error o fallo) de la persona que conduce el vehículo ferroviario, mediante una intervención activa en la conducción del tren, hubieran impedido el exceso de la velocidad máxima permitida;
@@ -90,26 +91,54 @@ exigir la modificación de los artículos de la normativa interna del gestor de 
 recomendar a los gestores de vías la evaluación de la posibilidad de aplicación alternativa de la colocación de avisos de distancia o de las llamadas „señalizaciones previas repetidoras” en los casos de reducción fundamental de la velocidad de vía, cuyo incumplimiento podría conducir incluso a la producción de un accidente grave, de manera similar a como actualmente se colocan avisos de distancia antes de las señalizaciones previas de las señales principales o repetidores de paso a nivel;
 •
 
-
 ## Página 5
 
-exigir a los gestores de vías la mejora de la legibilidad de los datos en las TTP, el resaltado de sus cambios actuales, incluida la diferenciación por colores, y el resaltado de aquellas reducciones de velocidad que puedan tener una influencia fundamental en la seguridad del tráfico ferroviario, de modo que por su forma de tratamiento destaquen del marco general como datos de advertencia no pasados por alto por los maquinistas, o en su caso la separación de la información fundamental desde el punto de vista de la seguridad respecto de la demás, y su posterior clasificación según su importancia;
+exigir a los gestores de infraestructuras ferroviarias que mejoren la claridad de los datos en el TTP, resaltando
 •
-exigir a los transportistas la creación de un acto (sistema) de gestión para garantizar la detección inmediata y la adopción de medidas respecto de las personas que conducen vehículos ferroviarios que no hayan acreditado el conocimiento de los cambios en los parámetros técnicos de construcción de las vías que tienen una influencia directa en la garantía de la seguridad del tráfico ferroviario, y ello antes de poner en movimiento el vehículo ferroviario;
+sus cambios vigentes, incluida la diferenciación por colores, y resaltando aquellas reducciones
+de velocidad que puedan tener una influencia decisiva en la seguridad del tráfico ferroviario, de modo que
+por su forma de tratamiento destaquen del marco general, como datos de advertencia
+e ineludibles para los maquinistas, o bien la separación de la información esencial para la
+seguridad respecto de la demás y su posterior clasificación según su importancia;
+exigir a los transportistas la creación de un acto (sistema) de gestión para garantizar la
 •
-exigir a los transportistas, también en el marco de la concesión del Certificado de transportista y del ejercicio de la supervisión estatal en materia de vías, un método de acreditación del conocimiento por parte de las personas que conducen vehículos ferroviarios, totalmente unívoco y que excluya toda duda, especialmente respecto de los cambios en los parámetros técnicos de construcción de las vías y las TTP;
+detección inmediata y la adopción de medidas respecto de las personas que conducen el material rodante ferroviario que
+no hayan acreditado haberse familiarizado con los cambios de los parámetros técnicos de construcción de las infraestructuras ferroviarias que
+tengan una influencia directa en la garantía de la seguridad del tráfico ferroviario, y ello antes de poner
+el material rodante ferroviario en movimiento;
+exigir a los transportistas, también en el marco de la concesión del Certificado del transportista y del ejercicio
 •
-en interés de la seguridad de la explotación de la vía y del transporte ferroviario, iniciar la evaluación de la posibilidad de completar la TJŘ con una columna (columnas) que contenga datos fundamentales de las TTP, especialmente los que establecen o restringen fundamentalmente la velocidad de vía, sobre todo en los casos en que, según las TTP, se trate de una restricción de velocidad permanente;
+de la supervisión estatal en materia de infraestructuras ferroviarias, un método totalmente inequívoco
+y que excluya toda duda de la acreditación de la familiarización de las personas que conducen el material rodante ferroviario,
+en particular con los cambios de los parámetros técnicos de construcción de las infraestructuras ferroviarias y del TTP;
+en interés de la seguridad de la explotación de la infraestructura ferroviaria y del transporte ferroviario, iniciar la evaluación
 •
-recomendar a los transportistas la reducción del plazo de vigencia establecido del conocimiento de las condiciones de vía por parte de las personas que conducen vehículos ferroviarios, en relación con el hecho de que actualmente se están llevando a cabo en las ferrocarriles checas numerosas reconstrucciones, optimizaciones y construcciones que tienen como consecuencia muchos cambios en los parámetros técnicos de construcción de las vías y de las obras en la vía, con una influencia directa en la seguridad y la continuidad de la explotación del transporte ferroviario.
+de la posibilidad de completar el TJŘ con una columna (columnas) que contenga datos esenciales del TTP,
+en particular los que establezcan o limiten de forma decisiva la velocidad en tramo, especialmente
+en los casos en que, según el TTP, se trate de una limitación de velocidad permanente;
+recomendar a los transportistas la reducción del plazo de vigencia establecido del conocimiento de las circunstancias del trazo
+•
+para las personas que conducen el material rodante ferroviario, en relación con el hecho de que en la actualidad
+se están llevando a cabo en el ferrocarril checo numerosas reconstrucciones, optimizaciones
+y construcciones que dan lugar a muchos cambios de los parámetros técnicos de construcción
+de las infraestructuras ferroviarias y de las obras en la infraestructura con una influencia directa en la seguridad y la fluidez de la explotación
+del transporte ferroviario.
 ### Asimismo, la Inspección Ferroviaria recomienda a la Autoridad Ferroviaria:
-que, en el marco de sus competencias, garantice que el sistema de garantía de la seguridad adoptado, en particular el método de evaluación de riesgos y de adopción de medidas para la gestión de riesgos, sea aplicado por el gestor de modo que sus procedimientos y métodos de carácter general se apliquen de manera más eficaz también a situaciones operativas concretas;
+que, en el marco de sus competencias, garantice que el sistema de garantía de la seguridad adoptado,
 •
-iniciar la mejora de la colaboración y la cooperación mutua entre los gestores de vías y los transportistas en la gestión de riesgos, especialmente en los casos concretos en que se produce una interacción mutua en la interfaz común que afecta a la explotación de la vía con el riesgo de un posible fallo del factor humano en la explotación del transporte ferroviario por parte de los empleados de los transportistas, por ejemplo mediante disposiciones concretas en los Contratos de explotación del transporte ferroviario.
+en particular el método de evaluación de riesgos y de adopción de medidas para la gestión de riesgos,
+sea aplicado por el gestor de modo que sus procedimientos y métodos establecidos de forma general
+se apliquen de manera más eficaz también a situaciones operativas concretas;
+iniciar la mejora de la cooperación y la colaboración mutua entre los gestores de infraestructuras ferroviarias
 •
-
+y los transportistas en la gestión de riesgos, especialmente en los casos concretos en que se produce
+una interacción mutua en una interfaz común que afecta a la explotación de la infraestructura ferroviaria
+con el riesgo de un posible fallo del factor humano en la explotación del transporte ferroviario
+por parte de los empleados de los transportistas, por ejemplo mediante disposiciones concretas en los Contratos
+de explotación del transporte ferroviario.
 
 ## Página 6
+
 
 ## SUMMARY
 Grade: 
@@ -166,6 +195,7 @@ we recommend that the NSA require modification of articles of the internal
 
 ## Página 7
 
+
 reglamento del gestor de infraestructura, SŽDC D1, relativo a la ubicación de los carteles de aviso de velocidad y las señales indicadoras de velocidad. La redacción actual del artículo 197 «El cartel de aviso de velocidad es un dispositivo de señal fija, que advierte señalizando la velocidad de la línea desde
 ### la siguiente señal indicadora de velocidad.», el artículo 1331 «La señal A esperar
 velocidad de la línea...advise señalizando una reducción de velocidad desde la siguiente señal indicadora de velocidad hasta el maquinista...» y el artículo 1349 «El cartel de aviso de velocidad se instala delante de la siguiente señal indicadora de velocidad a una distancia de al menos …» en relación con el artículo 118 «La señalización de aviso es una actividad durante la que se da una instrucción que llama la atención sobre la señal que va a seguir.», excluyen la colocación de otras señales indicadoras de velocidad entre estos dispositivos de señal fija, incluso si los dispositivos de señal son necesarios en el tráfico ferroviario. Como parte de la modificación de estos artículos recomendamos, por ejemplo, considerar la integración de la obligación de colocar un cartel de aviso de velocidad repetidor a la altura de la señal indicadora de velocidad, que se instala entre el cartel de aviso de velocidad colocado a una distancia especificada de la señal indicadora de velocidad principal que le es aplicable;
@@ -179,8 +209,8 @@ recomendamos que la NSA exija una forma claramente definida y que no deje lugar 
 cómo acreditar la familiarización de los maquinistas, especialmente con los cambios en los parámetros técnicos de construcción de las vías y las tablas de características de la línea, por parte de las empresas ferroviarias al emitir el Certificado de Seguridad de la Empresa Ferroviaria y al realizar la supervisión estatal;
 recomendamos que la NSA inicie la evaluación de la posibilidad de complementar el horario tabular con una columna (columnas) que contenga datos esenciales de las tablas de características de la línea, especialmente los que determinan, resp. limitan fundamentalmente el
 
-
 ## Página 8
+
 
 la velocidad de la línea, especialmente en los casos en que el límite de velocidad de la línea es permanente según las tablas de características de la línea; esto debe realizarse en interés de la explotación del sistema ferroviario y de la seguridad de la explotación del transporte ferroviario;
 recomendamos que la NSA recomiende reducir el plazo de vigencia especificado del conocimiento de las condiciones de la vía para los maquinistas a las empresas ferroviarias, esto debe realizarse en relación con el hecho de que actualmente hay muchas reconstrucciones, optimizaciones y construcciones en los ferrocarriles checos, que resultan en muchos cambios en los parámetros técnicos de construcción de las vías y de las estructuras en la vía con un impacto directo en la seguridad y fluidez de la explotación del transporte ferroviario.
@@ -190,8 +220,8 @@ especialmente el método para la realización de la evaluación de riesgos y la 
 inicie la mejora de la cooperación mutua entre los gestores de infraestructura y las empresas ferroviarias •
 al ejecutar el control de riesgos, especialmente cuando existe interacción mutua en una interfaz común que interviene en la explotación del sistema ferroviario y cuando existe el riesgo de un posible fallo humano en la explotación del transporte ferroviario por parte de los empleados de las empresas ferroviarias, p. ej. a través de disposiciones específicas de los contratos de explotación del transporte ferroviario.
 
-
 ## Página 9
+
 
 # Índice
 1 RESUMEN........................................................................................................................3
@@ -243,6 +273,7 @@ circulación ferroviaria........................................................
 
 ## Página 10
 
+
 registro de datos.....................................................................................................50
 3.4.2 Componentes de la vía....................................................................................51
 3.4.3 Dispositivos de comunicación e información.........................................................53
@@ -282,8 +313,8 @@ sobre las causas................................................................
 .........................................................................................................................................91
 6 RECOMENDACIONES DE SEGURIDAD.....................................................................................92
 
-
 ## Página 11
+
 
 ## Lista de siglas y símbolos utilizados
 ARR
@@ -371,8 +402,8 @@ Informe final sobre los resultados de la investigación del suceso ferroviario
 žst.
 estación ferroviaria
 
-
 ## Página 12
+
 
 ## Lista de siglas de la legislación, normas y reglamentos internos 
 utilizados
@@ -425,8 +456,8 @@ SŽDC D1
 reglamento interno del gestor de la infraestructura SŽDC, «SŽDC D1 
 Reglamento de circulación y de señales», aprobado el 17. 12.
 
-
 ## Página 13
+
 
 2012, con el núm. de expediente: 55738S 48269/2012-OZŘP, en vigor 
 desde el 1. 7. 2013, en la redacción vigente en el momento de producirse 
@@ -464,8 +495,8 @@ común de seguridad para la evaluación y la valoración de riesgos y por el que
 el Reglamento (CE) núm. 352/2009 de 16 de octubre de 2018, en la redacción 
 vigente en el momento de producirse el suceso ferroviario
 
-
 ## Página 14
+
 
 ## 2 DATOS RELATIVOS AL SUCESO FERROVIARIO
 ### 2.1 Suceso ferroviario
@@ -491,8 +522,8 @@ El 28. 7. 2019 a las 14:38 h partió el maquinista del transportista ČDC con el
 64520 desde la estación de origen Beroun, estación de clasificación. La circulación del tren se desarrolló sin 
 anomalías y sin interrupciones. El tren Pn 64520 pasó también por la estación Plzeň hl. n. y se detuvo hasta las 16:04:42 h en la estación
 
-
 ## Página 15
+
 
 Ošelín debido a un cruce con el tren Sp 1989. Tras la salida de la estación Ošelín a las 16:12:36 h y hasta 
 el lugar de producción del suceso ferroviario, el maquinista tenía activado el modo ARR. El tren Pn 64520 
@@ -540,6 +571,7 @@ Lugar de la parada definitiva del tren Pn 64520:
 En la vía de tramo en el km 422,111 se encontraba el último vagón núm. 31 54 7986 991-1 (fin del tren).
 
 ## Página 16
+
 
 El extremo trasero del segundo HDV 91 54 7 363 511-7 se encontraba en el pk 422,339, el extremo del tren – HDV 91 54 7 363 502-6 – estaba en el pk 422,373.
 El tren Pn 64520 estaba compuesto por 2 HDV y 17 TDV (composición en el sentido de circulación del tren):
@@ -598,8 +630,8 @@ el terraplén a la derecha en el sentido de circulación del tren) y dañado;
   -VCS 83 54 9321 188-1 Uacs, masa total 76,30 t, peso frenante 49 t, modo de
 frenado «P», freno continuo activado, conmutadores en posición Pasajero y Mercancía,
 
-
 ## Página 17
+
 
 conexión de los acoples de freno no determinada debido a los daños, el vagón estaba
 descarrilado (el bogie trasero se encontraba sobre la infraestructura ferroviaria
@@ -664,8 +696,8 @@ sobre la mesa de control se encontraba la documentación del tren, el libro de e
 •
 del HDV, la tableta
 
-
 ## Página 18
+
 
 del maquinista del tren y la «Orden General para el tren Pn 64520», n.º 190/765,
 redactada el 28. 7. 2019 en la est. Plzeň hl. n. (patio de maniobras) para el tramo
@@ -723,8 +755,8 @@ fueron destruidos por completo los palos de catenaria P5, P6, en los demás palo
 catenaria se produjeron daños o el desprendimiento de sus brazos, soportes y el
 suelte de los contrapesos del anclaje móvil.
 
-
 ## Página 19
+
 
 Estado del aparato de señalización y de telecomunicaciones:
 en la est. Chodová Planá está instalado el aparato de señalización de estación ESA
@@ -791,6 +823,7 @@ fueron identificadas, al caminar por la vía en el sentido desde la est. Chodov�
 
 ## Página 20
 
+
 por primera vez identificada a 17,8 m del poste de tracción en el pk 420,516, es decir, con su visibilidad a una distancia de 140 m, las inscripciones en las mismas eran perfectamente distinguibles desde dicha distancia, la posición en pk de estas señales fijas se midió desde el poste de la línea de tracción en el pk 420,516;
 • la distancia del borde inferior del indicador de velocidad N «Velocidad de la vía» con el dígito «95» sobre la cabeza del raíl era de 1,87 m y cumplía así lo dispuesto en el art. 14, anexo 22, de la normativa interna del gestor de la infraestructura SŽDC D1;
 • la distancia del borde más cercano del indicador de velocidad 3 con la indicación «Velocidad de la vía» y de los indicadores de velocidad N con las indicaciones «Velocidad de la vía» desde el eje de la vía era de 2,97 m y cumplía así lo dispuesto en el art. 14, anexo 22, de la normativa interna del gestor de la infraestructura SŽDC D1;
@@ -817,8 +850,8 @@ por primera vez identificada a 17,8 m del poste de tracción en el pk 420,516, e
 • las dimensiones del indicador de velocidad N con la indicación «Velocidad de la vía» eran de 0,67 x 0,50 m, las dimensiones de la señal fija con la indicación «Fin de vigencia de los indicadores de velocidad NS» eran de 0,34 x 1,10 m y cumplían así la normativa correspondiente.
 • las señales fijas indicador de velocidad N con las indicaciones «Velocidad de la vía» y «Fin de vigencia de los indicadores de velocidad NS» fueron identificadas por primera vez, al caminar por la vía en el sentido desde la estación de Chodová Planá (en el sentido de circulación del tren Pn 64520), a 12 m del poste de tracción en el pk 421,916, es decir, a 163 m de las mismas, las inscripciones en las mismas eran perfectamente distinguibles desde dicha distancia, la posición en pk de las señales fijas indicador de velocidad N con la indicación «Velocidad de la vía» con el dígito «30» y «Fin de vigencia de los indicadores de velocidad NS» se midió desde el poste de la línea de tracción en el pk 422,065;
 
-
 ## Página 21
+
 
 ### • la distancia entre la señal fija preindicador N con la indicación
 ### «Espere velocidad de la vía» con el dígito "3", ubicada en el pk 420,508
@@ -844,8 +877,8 @@ A continuación se procedió a comprobar la visibilidad y ubicación de las señ
 • la distancia del borde más cercano del indicador de velocidad N con la indicación «Espere velocidad de la vía» y de la señal fija con la indicación «Espere fin de vigencia de los indicadores de velocidad NS» desde el eje de la vía era de 3,47 m y 3,60 m y cumplía así lo dispuesto en el art. 14, anexo 22, de la normativa interna del gestor de la infraestructura SŽDC D1;
 • las dimensiones del preindicador N con la indicación «Espere velocidad de la vía» eran de 0,83 x 0,83 x 0,84 m, las dimensiones de la señal fija con la indicación «Espere fin de vigencia de
 
-
 ## Página 22
+
 
 los indicadores de velocidad NS» eran de 0,34 x 1,10 m y cumplían así la normativa correspondiente;
 • las señales fijas indicador de velocidad N con las indicaciones «Velocidad de la vía» y «Fin de vigencia de los indicadores de velocidad NS» estaban ubicadas en el pk 422,305 en el poste de la línea de contacto;
@@ -881,8 +914,8 @@ Decisión del DI sobre el inicio de la investigación:
 | Investigación del DI en el lugar de la EM: | 1x director de ÚI Čechy 2x inspector de ÚI Čechy , . |
 | Constitución del equipo de investigación: | 1x director de ÚI Čechy 3x inspector de ÚI Čechy , . |
 
-
 ## Página 23
+
 
 Colaboración externa:
 no se utilizó.
@@ -923,6 +956,7 @@ Transportista (ČDC):
 
 ## Página 24
 
+
 | 12 . | 83549321285 5 – | P |
 | 13 . | 83549321278 0 – | P |
 | 14 . | 83549307960 1 – | P |
@@ -957,8 +991,8 @@ Condiciones de pendiente de la vía de la línea desde el km 422,013 hasta el km
 | 422 155 a 422 210 , , | Subida | 7 823 ‰ , |
 | 422 210 a 422 340 , , | Subida | 9 589 ‰ , |
 
-
 ## Página 25
+
 
  sentido de Mariánské Lázně
  km 422,162 – punto «0» (lugar de origen del MU)
@@ -984,8 +1018,8 @@ estación de radio TRS con el maquinista del tren Pn 64520, que le comunicó el 
 según el Cuadro de Comunicaciones al despachador de explotación CDP Praha.
 Toda la comunicación indicada fue grabada.
 
-
 ## Página 26
+
 
 ### 2.2.5 Trabajos realizados en el lugar y en sus inmediaciones
 En el lugar del MU, inmediatamente antes de su origen, la constructora SILNICE TOPOLANY a. s. estaba realizando trabajos de construcción con motivo de la construcción de la variante de carretera de Mariánské Lázně – construcción de una nueva estructura de puente ferroviario en el km 422,182 bajo la línea ferroviaria Plzeň hlavní nádraží – Cheb. El contratante e inversor de la obra era la Dirección y Mantenimiento de Carreteras de la Región de Karlovy Vary, organización de apoyo. La circulación en el lugar del MU y sus alrededores estaba en régimen limitado. Desde el km 422,085 hasta el km 422,271 se había construido la desviación de la vía existente, formada por tres arcos de sentido contrario con tramos rectos intercalados, con una longitud de 186 m y una velocidad máxima permitida de 30 km.h-1.
@@ -1029,8 +1063,8 @@ y Unidad de Salvamento de Zbiroh, Hlučín y Jihlava;
 Cuerpo de Bomberos Voluntarios de Teplá y Tři Sekyry.
 •
 
-
 ## Página 27
+
 
 ### 2.3 Fallecimientos, lesiones y daños causados
 2.3.1 En pasajeros y terceras personas, empleados del explotador de la vía y del transportista, incluidas personas en relación contractual
@@ -1075,8 +1109,8 @@ pasa a terraplén, que en el lugar del MU alcanza una altura de hasta 9 m, desde
 422,085 hasta el km 422,271 se había colocado en la vía de la línea una desviación
 con tres arcos de sentido contrario con tramos rectos intercalados.
 
-
 ## Página 28
+
 
 ## 3 REGISTRO DE LA INVESTIGACIÓN Y DE LAS EXPLICACIONES PRESENTADAS 
 ### 3.1 Resumen de las explicaciones presentadas (sujeto a protección de la identidad de las personas)
@@ -1127,6 +1161,7 @@ que dicho tramo de la línea estaba sin ningún tipo de cambios;
 
 ## Página 29
 
+
 ◦tras salir del arco vio el indicador de velocidad de 30 km.h-1, situado antes del desvío de la vía;
 ◦inmediatamente aplicó el frenado de acción rápida, pero debido a la corta distancia no logró reducir la velocidad a la velocidad señalizada de 30 km.h-1;
 ◦al entrar en los arcos se produjeron golpes transversales y, a continuación, el tren se detuvo; mirando desde la locomotora comprobó que se había producido un descarrilamiento;
@@ -1151,8 +1186,8 @@ en el marco de su declaración, indicó:
 ◦antes de incorporarse al turno del 28. 7. 2019 ni durante el mismo, hasta la aparición de la incidencia, no fue alterado por nadie ni por nada;
 ◦durante el turno no se produjeron complicaciones ni situaciones de estrés;
 
-
 ## Página 30
+
 
 ◦los acontecimientos de su vida privada no tuvieron ninguna influencia en el desempeño del servicio ni en su estado psicológico;
 ◦ningún acontecimiento en relación con sus compañeros de trabajo o superiores tuvo influencia en el desempeño del servicio.
@@ -1180,8 +1215,8 @@ de la despachadora de vía CDP Praha
 ◦a las 16.33 h, tras la consulta del despachador eléctrico de Plzeň sobre el corte de suministro de la línea de alimentación de tracción, llamó a las 16.34 h al maquinista del tren Pn 64520, quien le comunicó el descarrilamiento de los vagones en el km 422,060;
 ◦a continuación, comunicó el suceso conforme al Cuadro de comunicación.
 
-
 ## Página 31
+
 
 ### 3.1.2 Otros testigos
 Prestaron declaración ante la Policía ČR 10 testigos, obreros de la construcción que realizaban trabajos en la estructura de puente – desvío, empleados de las empresas contratistas Hures Group y Reader y Falge, de los que, entre otros, se desprende:
@@ -1202,8 +1237,8 @@ El explotador ferroviario emitió la norma interna SŽDC D1, mediante la cual es
 Conforme al § 2 apdo. 2 del decreto núm. 376/2006 Sb., los requisitos del sistema de garantía de la seguridad de la explotación de la vía y de la explotación del transporte ferroviario se indican en el anexo núm. 1 de dicho decreto.
 En el anexo núm. 1 del decreto núm. 376/2006 Sb. (Requisitos del sistema de garantía de la seguridad de la explotación de la vía y del transporte ferroviario en la vía de ámbito estatal y en la vía regional), en el § 2 apdo. 2 letra e), se establece: «El sistema de garantía de la seguridad de la explotación de la vía de ámbito estatal y regional y del transporte ferroviario en dichas vías debe establecer: procedimientos y métodos de evaluación del riesgo y de adopción de medidas para la gestión del riesgo en el caso de que el cambio de las condiciones de explotación o los materiales representen nuevos riesgos para la vía de circulación de la vía
 
-
 ## Página 32
+
 
 o para la explotación del transporte ferroviario».
 La Inspección Ferroviaria solicitó por escrito al explotador ferroviario información y documentación, entre otros, sobre la forma de identificación de riesgos en general, conforme a las normas pertinentes, mediante las cuales se establecen los procedimientos y métodos de evaluación del riesgo y de adopción de medidas para la gestión del riesgo cuando el cambio de las condiciones de explotación representa nuevos riesgos para la vía de circulación de la vía o para la explotación del transporte ferroviario, y además concretamente en la transición de la limitación temporal a la limitación permanente de velocidad en el km 422,060 hasta el 422,300 en el tramo entre estaciones Chodová Planá – Mariánské Lázně.
@@ -1221,6 +1256,7 @@ En la parte A. Riesgos relacionados con la actividad del explotador de la infrae
 - influencia de las personas y de la maquinaria en la explotación de la vía.
 
 ## Página 33
+
 
 En relación con los riesgos definidos anteriormente, se indica aquí que esta lista contiene riesgos que se han determinado a partir de la experiencia adquirida hasta la fecha en la explotación de la vía. Su enumeración no es exhaustiva y debe completarse progresivamente sobre la base de las nuevas experiencias adquiridas.
 En la parte A. se indican además los siguientes procedimientos:
@@ -1276,8 +1312,8 @@ ajustes y cambios en las normas y tecnologías elaboradas sobre la base de las m
 •
 adoptadas para prevenir la aparición de sucesos excepcionales.
 
-
 ## Página 34
+
 
 En la parte I. Garantía de la mejora continua se indican, entre otros:
 - Los procedimientos para revisiones periódicas del sistema de garantía de la seguridad, en los que se constata que este sistema está en constante evolución. Las normas internas de SŽDC, mediante las que se aplica el sistema de seguridad, se analizan, se actualizan, se introducen cambios en ellas en respuesta a nuevos equipos, a recomendaciones de seguridad, a las causas y circunstancias identificadas de aparición de sucesos excepcionales y a las medidas adoptadas para prevenirlos, y se emiten interpretaciones rectoras sobre las mismas en respuesta a consultas o comentarios.
@@ -1294,8 +1330,8 @@ vías ferroviarias de ámbito nacional y regional».
 En la parte K. Objetos cualitativos y cuantitativos en el ámbito de la conservación y el aumento de la seguridad y planes y procedimientos para la consecución de dichos objetivos se indican, entre otros:
 - Los procedimientos para la determinación y delimitación de los objetivos de seguridad pertinentes y para la evaluación periódica del rendimiento global en el ámbito de la seguridad de conformidad con los objetivos de seguridad de la organización, en los que se indica que el objetivo fundamental de SŽDC es la explotación segura y rentable
 
-
 ## Página 35
+
 
 de la vía y del transporte ferroviario en la infraestructura ferroviaria encomendada, su mantenimiento y modernización y la introducción de nuevos equipos técnicos y procedimientos tecnológicos, incluidos elementos en el ámbito de la interoperabilidad, y que la tarea prioritaria es la identificación y minimización de los riesgos de seguridad y de los sucesos excepcionales. Los procedimientos para la consecución de los objetivos de seguridad pertinentes se concretan para cada año y los objetivos fundamentales de seguridad, incluido el estado del sistema de garantía de seguridad del explotador de la vía, se indican y evalúan anualmente en el Informe anual sobre la seguridad de la explotación de la vía. El estado de la seguridad de la explotación de la vía se analiza y evalúa también en el informe Siniestralidad y sistema de garantía de la seguridad de la explotación de la vía y del transporte ferroviario en la organización estatal Administración de la Infraestructura de Transporte Ferroviario, que se elabora anualmente y se debate en la reunión de la dirección de SŽDC. Este informe contiene también las medidas adoptadas para aumentar la seguridad de la explotación de la vía y del transporte ferroviario.
 - Los procedimientos para el seguimiento y revisión periódicos de las medidas de explotación, en los que se indica, entre otros, que los objetivos de seguridad y las medidas para su consecución y cumplimiento se centran en los siguientes ámbitos:
@@ -1343,6 +1379,7 @@ En la parte M. Procedimientos y métodos de evaluación del riesgo y de aplicaci
 
 ## Página 36
 
+
 o interfaces, en los que se indica que el objetivo principal del gestor de la infraestructura es evaluar y valorar los riesgos en la explotación de la infraestructura. La evaluación y valoración inicial de los riesgos se realiza principalmente antes de la puesta en servicio de nuevos instalaciones de vía, procedimientos tecnológicos y cambios en la organización del trabajo. El proceso de valoración de riesgos determina las distintas medidas de seguridad posibles que podrían implantarse bien para eliminar el riesgo o bien para dirigir el riesgo hacia un nivel aceptable. Estas medidas de seguridad pueden ser técnicas, operativas u organizativas. La eficacia de las medidas de seguridad puede valorarse de forma cuantitativa o cualitativa. Los riesgos se buscan y actualizan continuamente durante el uso de nuevas instalaciones, tecnologías y la aplicación de cambios organizativos, sobre la base de los conocimientos y experiencias adquiridos durante el uso, de los incidentes y accidentes ocurridos. Asimismo, se evalúan y valoran los riesgos que podrían surgir en los interfaces con la operación humana y con las instalaciones y vehículos ferroviarios utilizados durante la explotación y el mantenimiento.
 - Procedimientos y métodos de valoración de riesgos, en los que se indica que el nivel de riesgo viene dado por la combinación de la probabilidad de que se produzca el suceso y la importancia de su influencia en la organización. Los riesgos pueden dividirse desde varios puntos de vista. Se puede elegir un indicador del tamaño del impacto en la organización, del carácter del impacto, del grado de probabilidad de que se produzca, de la influencia temporal, etc. Al buscar y evaluar los riesgos asociados a la explotación de la infraestructura, es posible partir del análisis de la producción de incidentes.
 
@@ -1356,37 +1393,36 @@ Categoría V. – riesgo inaceptable – detención inmediata de la actividad de
 
 La evaluación del riesgo es objeto de cada comprobación del puesto de trabajo y debe actualizarse si se producen cambios en el ámbito normativo, en los procedimientos tecnológicos, en los medios de trabajo, en las condiciones de trabajo, en el entorno de trabajo y en las influencias externas. La gestión de riesgos, que delimita las tareas y obligaciones de los distintos empleados responsables de la gestión de riesgos en el marco de la descripción de su actividad, se traslada al entorno de la organización en forma de principios y programas que han sido adoptados por la dirección de la organización.
 
-
 ## Página 37
 
-En la Declaración de la infraestructura ferroviaria estatal y regional, en el artículo 2.4.1 Normativa interna, entre otros, se indica que:
-- de conformidad con la disposición de la Ley de ferrocarriles, SŽDC emite normativa interna que establece las reglas de organización y aseguramiento de la explotación en las infraestructuras ferroviarias estatales y regionales explotadas por SŽDC, que son vinculantes para los operadores ferroviarios,
-- su listado figura en el «Portal de explotación de la infraestructura ferroviaria» y su enumeración es también parte del contrato de explotación del transporte ferroviario,
-- SŽDC tiene implantados procedimientos para reconocer la necesidad de una eventual colaboración con otros sujetos en los ámbitos en los que comparten interfaces y que podrían influir en la implantación de las medidas pertinentes para dirigir los riesgos de conformidad con los requisitos del Reglamento de la Comisión (UE) nº 1169/2010.
+V Declaración sobre la red ferroviaria estatal y regional se indica, entre otros, en el artículo 2.4.1 Normativa interna, que:
+- de conformidad con lo dispuesto en la Ley de ferrocarriles, SŽDC emite normativa interna que establece las reglas de organización y seguridad de la explotación en las redes ferroviarias estatales y regionales explotadas por SŽDC, que son de obligado cumplimiento para los operadores ferroviarios,
+- su listado figura en el «Portal de explotación ferroviaria» y su enumeración es asimismo parte del contrato de explotación del transporte ferroviario,
+- SŽDC dispone de procedimientos para reconocer la necesidad de una eventual colaboración con otros sujetos en los ámbitos en los que comparten interfaces y que podrían influir en la implantación de las medidas pertinentes para la gestión de riesgos de conformidad con los requisitos del Reglamento de la Comisión (UE) n.º 1169/2010.
 
-En la Declaración de la infraestructura ferroviaria estatal y regional, además, en el artículo 2.4.2 Comunicación mutua del gestor de la infraestructura con el operador ferroviario, entre otros, se indica que:
-- uno de los medios básicos de comunicación de SŽDC como gestor de la infraestructura con los operadores ferroviarios es el «Portal de explotación de la infraestructura ferroviaria» web, que proporciona información sobre la infraestructura, como las condiciones de acceso, los acuerdos fronterizos, la normativa interna del gestor de la infraestructura, la descripción de la red explotada (tablas de condiciones de trazado, documentación ferroviaria básica), las interrupciones en la red explotada por SŽDC, incluidos los planes y órdenes de interrupción, y el listado de circulaciones lentas,
-- además, en él se publican ayudas al horario de circulación, información para los operadores ferroviarios, contactos del aparato de despacho de SŽDC y enlaces a otras aplicaciones del gestor de la infraestructura a las que se ofrece a los operadores ferroviarios el acceso.
+En la Declaración sobre la red ferroviaria estatal y regional se indica además, en el artículo 2.4.2 Comunicación mutua del explotador de la infraestructura con el operador ferroviario, entre otros, que:
+- uno de los medios fundamentales de comunicación de SŽDC como explotador de la infraestructura con los operadores ferroviarios es el «Portal de explotación ferroviaria» web, que proporciona información sobre la infraestructura, tales como las condiciones de acceso, los acuerdos fronterizos, la normativa interna del explotador de la infraestructura, la descripción de la red explotada (tablas de condiciones de vía, documentación ferroviaria básica), las interrupciones de la red explotada por SŽDC, incluidos los planes y órdenes de interrupción, y el listado de circulaciones lentas,
+- asimismo, en él se publican ayudas para el horario de circulación, información para los operadores ferroviarios, contactos del aparato de despacho de SŽDC y enlaces a otras aplicaciones del explotador de la infraestructura a las que se ofrece a los operadores ferroviarios el acceso.
 
-En el Contrato de explotación del transporte ferroviario en la infraestructura estatal y en las infraestructuras regionales entre SŽDC y ČDC, en el artículo 4 Condiciones normativas, entre otros, se indica que:
-- el gestor está obligado a permitir al operador ferroviario el acceso al portal a la forma electrónica de su normativa interna que el operador ferroviario se ha comprometido a cumplir,
+En el Contrato de explotación del transporte ferroviario en la red estatal y las redes regionales entre SŽDC y ČDC se indica, entre otros, en el artículo 4 Condiciones reglamentarias, que:
+- el explotador está obligado a permitir al operador ferroviario el acceso al portal con la forma electrónica de su normativa interna, que el operador ferroviario se ha comprometido a cumplir,
 •
-tablas de condiciones de trazado,
+tablas de condiciones de vía,
 •
 documentación ferroviaria básica,
 •
 otras circulares y medidas necesarias para la explotación del transporte ferroviario.
 •
-- el operador ferroviario se compromete a cumplir la normativa interna correspondiente del gestor,
-- el operador ferroviario está obligado a conocer en tiempo y forma los documentos publicados y a informar de ellos a los empleados.
+- el operador ferroviario se compromete a cumplir la normativa interna correspondiente del explotador,
+- el operador ferroviario está obligado a conocer en tiempo los documentos publicados y a informar de ellos a los empleados.
 
-En el Contrato de explotación del transporte ferroviario en la infraestructura estatal y en las infraestructuras regionales entre SŽDC y ČDC, en el artículo 8 Limitaciones de la circulación de trenes, entre otros, se indica que:
-- las partes contratantes se comprometen a organizar la circulación de los trenes del operador ferroviario por la ruta acordada de modo que el transporte de los trenes se realice de forma segura y cumpliendo el horario de circulación vigente. Los empleados de ambas partes contratantes están obligados a informarse mutuamente sin demora indebida de cualquier hecho que tenga influencia en la circulación segura y fluida.
+En el Contrato de explotación del transporte ferroviario en la red estatal y las redes regionales entre SŽDC y ČDC se indica, entre otros, en el artículo 8 Limitaciones de la circulación de trenes, que:
+- las partes contratantes se comprometen a organizar la circulación de los trenes del operador ferroviario por la ruta acordada de modo que el transporte de trenes se realice de forma segura y cumpliendo el horario de circulación vigente. Los empleados de ambas partes contratantes están obligados a informarse mutuamente, sin demora indebida, de cualquier hecho que influya en la explotación segura y fluida.
 
-En la respuesta escrita a la solicitud de documentación relativa a la valoración concreta de los riesgos y las medidas adoptadas para dirigir los riesgos relacionados con el cambio de las condiciones de explotación durante el paso de la limitación transitoria a la limitación permanente de velocidad en el pk 422,060 hasta 422,300
-
+En la respuesta escrita a la solicitud de documentación relativa a la evaluación concreta de riesgos y las medidas adoptadas para la gestión de los riesgos relacionados con el cambio de condiciones de explotación al pasar de la limitación temporal a la limitación permanente de velocidad en el km 422,060 a 422,300
 
 ## Página 38
+
 
 en el tramo entre estaciones Chodová Planá – Mariánské Lázně, el gestor de la infraestructura, entre otros, indicó que:
 Con respecto al decreto nº 376/2006 Sb., Anexo nº 1, capítulo 2, apartado e), se
@@ -1416,34 +1452,32 @@ Con la aportación de la documentación, el gestor cumplió todos los presupuest
 
 ## Página 39
 
-parámetros de la vía y, a continuación, en las fases posteriores de la obra se abordó el cambio de velocidad como un paso siguiente lógicamente encadenado que modificaba el cambio permanente de velocidad.
-• El supuesto original de ejecución de la obra era, según el plan anual de interrupciones de circulación aprobado, que el cambio de parámetros sería permanente hasta la eliminación del desvío originalmente planificada para el 19. 4. 2020.
-• Para las necesidades de la administración ordinaria de la vía y atendiendo a la evolución posible y previsible en la obra, el gestor de la infraestructura ferroviaria esperaba que en las secciones del desvío pudiera surgir, debido al asentamiento del material o a circunstancias derivadas de la continuación de los trabajos, la necesidad de una restricción adicional o local de la velocidad. Atendiendo a este hecho y a la ulterior evolución de los trabajos de construcción, el cambio de la marcha lenta de 30 km/h a las señales clásicas de velocidad supuso una mejora para garantizar la operatividad de la vía.
-En cuanto a los documentos solicitados sobre la disposición de las señales fijas relativas al cambio de la restricción transitoria a la restricción permanente de velocidad en el tramo entre estaciones Chodová Planá – Mariánské Lázně, incluido el documento de evaluación de su correcta ubicación en relación con las señales fijas ya instaladas previamente que informan a las personas que conducen el vehículo ferroviario sobre la velocidad de la vía, el gestor de la infraestructura ferroviaria remitió la interpretación del gestor del reglamento interno SŽDC D1. A la primera pregunta planteada por el gestor, sobre si está prohibido situar otras señales de preaviso o señales de velocidad entre la señal de preaviso N con el número 3 y la señal de velocidad N con el número 30, entre otros aspectos, comunicó que en el reglamento SŽDC D1 esto no está expresamente prohibido y, además, abordó únicamente las combinaciones de ubicación de señales fijas para vehículos con cajas inclinables, lo cual no resulta aplicable a la MU en cuestión. A la segunda pregunta relativa a la determinación de la distancia entre la señal de preaviso N y la señal de velocidad N, se indicó que la ubicación de las señales de preaviso se rige según la velocidad máxima de la vía indicada en el TTP.
-En el sistema de garantía de la seguridad de la explotación de la infraestructura ferroviaria adoptado por el gestor de la infraestructura ferroviaria SŽDC, relacionado con las circunstancias del origen de la MU en cuestión, no se detectó deficiencia alguna.
-Las constataciones relativas al cumplimiento y aplicación del sistema de garantía de la seguridad se indican en el Análisis (véase el punto 4.2 de la presente ZZ).
-El transportista ČDC dispone de un sistema de garantía de la seguridad adoptado en virtud de lo dispuesto en la ley nº 266/1994 Sb.
-La Inspección Ferroviaria solicitó al transportista una comunicación escrita y documentos, entre otros, sobre el modo de llevar a cabo de forma verificable la instrucción en las vías por parte de los maquinistas, asimismo sobre el modo de llevar a cabo la instrucción verificable de los maquinistas sobre los cambios de los parámetros constructivo-técnicos de las vías que tienen una influencia directa en la seguridad y fluidez del transporte ferroviario, en especial los cambios en el TTP y en la señalización, y sobre el modo de búsqueda de riesgos por parte del transportista en general, de acuerdo con los reglamentos correspondientes, en los que se establecen los procedimientos y métodos de evaluación del riesgo y de adopción de medidas para la gestión del riesgo, cuando el cambio de las condiciones operativas representa nuevos riesgos para la vía de circulación o para la explotación del transporte ferroviario, y además, concretamente, documentos sobre la evaluación de los riesgos y las medidas adoptadas para la gestión de los riesgos relacionados con el cambio en el modo de instruir a los maquinistas sobre los cambios de los parámetros constructivo-técnicos de las vías y los cambios del TTP:
-- originalmente solo a través del Libro de Normas frente a firma, y posteriormente también mediante el procedimiento según la Medida nº 0029/2016 del Director de Explotación de ČD Cargo «Hoja informativa de cambios del TTP –
-
+parámetros de la vía y, posteriormente, en las fases siguientes de la obra se abordó el cambio de velocidad como un paso siguiente lógicamente encadenado que modificaba el cambio permanente de velocidad.
+- El supuesto original de ejecución de la obra, de acuerdo con el plan anual de interrupciones de circulación aprobado, era que el cambio de parámetros sería permanente hasta la eliminación del desvío originalmente planificada para el 19. 4. 2020.
+- Para las necesidades de la administración ordinaria de la vía y en vista del posible y previsible desarrollo de la obra, el gestor de la vía esperaba que, en determinados tramos del desvío, pudiera surgir, debido al asentamiento del material o a circunstancias derivadas de la continuación de los trabajos, la necesidad de una restricción adicional o local de la velocidad. Atendiendo a esta circunstancia y al ulterior desarrollo de los trabajos de construcción, el cambio de la marcha lenta de 30 km/h a señales de velocidad clásicas supuso una mejora para garantizar la operatividad de la vía.
+- En relación con los documentos solicitados sobre la disposición de señales fijas referentes al cambio de una restricción transitoria a una restricción permanente de velocidad en el tramo entre estaciones Chodová Planá – Mariánské Lázně, incluido el documento de evaluación de su correcta ubicación en relación con las señales fijas ya instaladas previamente que informan a las personas que conducen el vehículo ferroviario sobre la velocidad de la vía, el gestor de la vía remitió la interpretación del gestor de la normativa interna SŽDC D1. Respecto a la primera pregunta formulada por el gestor, sobre si está prohibido situar otras señales de aproximación o señales de velocidad entre la señal de aproximación N con el número 3 y la señal de velocidad N con el número 30, entre otras cuestiones, comunicó que la normativa SŽDC D1 no lo prohíbe expresamente y, además, únicamente abordó las combinaciones de ubicación de señales fijas para vehículos con cajas inclinables, lo cual no es aplicable a la MU en cuestión. En cuanto a la segunda pregunta relativa a la determinación de la distancia entre la señal de aproximación N y la señal de velocidad N, se indicó que la ubicación de las señales de aproximación se rige según la velocidad máxima de la vía indicada en el TTP.
+En el sistema de garantía de la seguridad de la explotación de la vía adoptado por el gestor de la vía SŽDC, relacionado con las circunstancias del origen de la MU en cuestión, no se detectó ninguna deficiencia. Los hallazgos relativos al cumplimiento y la aplicación del sistema de garantía de la seguridad se detallan en el Análisis (véase el punto 4.2 de la presente ZZ).
+El transportista ČDC dispone de un sistema de garantía de la seguridad adoptado en virtud de lo dispuesto en la Ley n.º 266/1994 Sb.
+La Inspección Ferroviaria solicitó al transportista una comunicación escrita y documentación, entre otros aspectos, sobre el modo de acreditar la instrucción de las vías por parte de los maquinistas, asimismo sobre el modo de llevar a cabo la instrucción acreditada de los maquinistas sobre los cambios de los parámetros constructivo-técnicos de las vías que tienen una influencia directa en la seguridad y la fluidez del transporte ferroviario, en particular los cambios en el TTP y en la señalización, y sobre el modo de identificación de riesgos por parte del transportista en general, de acuerdo con las normativas correspondientes en las que se establecen los procedimientos y métodos de evaluación del riesgo y la adopción de medidas para la gestión del riesgo, cuando el cambio de las condiciones operativas representa nuevos riesgos para la vía de circulación o para la explotación del transporte ferroviario, y además, concretamente, documentación sobre la evaluación de los riesgos y las medidas adoptadas para la gestión de los riesgos relacionados con el cambio en el modo de instruir a los maquinistas sobre los cambios de los parámetros constructivo-técnicos de las vías y los cambios en el TTP:
+- originalmente solo a través del Libro de Normas contra firma, posteriormente también mediante el procedimiento según la Medida n.º 0029/2016 del Director de Explotación de ČD Cargo «Hoja informativa de cambios en el TTP –
 
 ## Página 40
 
-prueba de servicio con vigencia desde el 1. 6. 2016, cuando esta prueba de servicio se desarrolló junto con la instrucción sobre los cambios de los parámetros constructivo-técnicos de las vías y los cambios del TTP también a través del Libro de Normas;
-- a través del dispositivo electrónico asignado (tablet) en el marco de la prueba de verificación «Digitalización de maquinistas» en base a la orden del transportista «Administración de documentación controlada – Digitalización de maquinistas» con vigencia desde el 1. 4. 2019, incluida la aportación de información sobre la forma en que se informó a los maquinistas del cambio fundamental en el modo de instruirse sobre los cambios de los parámetros constructivo-técnicos de las vías y los cambios del TTP únicamente a través de la tablet y no ya a través del Libro de Normas;
-- medida del transportista sobre la idoneidad de este modo de llevar a cabo la instrucción de los maquinistas sobre los cambios de los parámetros constructivo-técnicos de las vías, los cambios del TTP, etc., incluida la evaluación de la exclusión de la posibilidad de error por parte del maquinista debido a la posible falta de claridad de los distintos cambios insertados en relación con su diferenciación de los datos existentes, su tamaño y su número.
-De las respuestas escritas del transportista ČDC a las solicitudes anteriores se desprende, entre otros aspectos:
-El transportista emitió la norma interna ČDC PERs28-B-2009 Reglamento de Pruebas y Formación, donde en el capítulo 5. Conocimiento de las condiciones de la vía y locales se establecen los procedimientos sobre el modo de llevar a cabo la instrucción en las vías por parte de los maquinistas. Entre otros aspectos, en ella se indica que:
-- El maquinista, antes de ejercer de forma autónoma, debe instruirse, en el alcance de las actividades realizadas, sobre las condiciones de la vía en los tramos de vía recorridos, las condiciones locales de las estaciones de ferrocarril y de las vías privadas, así como sobre las disposiciones del ZDD y del TDPP y los reglamentos de enlace de las vías privadas y los reglamentos internos de los gestores de las vías privadas.
-- El conocimiento de las condiciones de la vía por parte de los empleados que conducen el HV se llevará a cabo recorriendo la vía correspondiente en ambos sentidos, dos veces de día y dos veces de noche (si en ella existe servicio nocturno). En el marco del conocimiento de las condiciones de la vía se realiza también el conocimiento práctico de las condiciones locales en las estaciones de ferrocarril, en las estaciones de mercancías y en los puestos de trabajo del transportista ČDC.
-- El conocimiento repetido de las condiciones de la vía y locales se realiza en el tramo de vía, estación o vía privada en el que el empleado haya perdido el conocimiento (tras 12 meses sin ejercer la actividad en esta vía o infraestructura, como máximo hasta los 25 meses). En el caso de los maquinistas se realiza recorriendo la vía una vez en ambos sentidos de día.
-- El conocimiento adicional de las condiciones de la vía y locales se realizará si se producen cambios extensos en los parámetros constructivo-técnicos de las obras de las vías y de las obras en la infraestructura (cambio del tipo de instalación de seguridad, electrificación de la vía, etc.), durante la vigencia de la certificación del conocimiento de las condiciones de la vía y locales. Esta instrucción sobre los cambios puede realizarse mediante una grabación visual desde un vehículo en movimiento en un PC, en un videogravador, etc.
-- El Director de la Unidad de Estructura Organizativa de ČDC puede, en su competencia, aumentar el número establecido de viajes (turnos) si se trata de tramos de vía difíciles o largos, estaciones de ferrocarril complejas, etc.
-- El empleado es responsable de mantener el alcance del conocimiento de las condiciones de la vía y locales. En caso de que el empleado detecte la finalización de la vigencia de la certificación del conocimiento de las condiciones de la vía y locales, está obligado a comunicar de forma verificable esta circunstancia a los empleados correspondientes con un mes de antelación, a fin de que no se produzca la pérdida del conocimiento de las condiciones de la vía y locales.
-- El registro de la instrucción y del conocimiento de las condiciones locales y de la vía se hace constar en el impreso «Ficha de conocimiento de la vía» en el Sistema de Información para el tratamiento de la presencia. Para los empleados que ejercen su actividad en puestos de trabajo de una sola estación de ferrocarril, puede hacerse constar en el «Libro
-
+prueba con vigencia desde el 1. 6. 2016, cuando esta prueba se llevó a cabo junto con la familiarización con los cambios de los parámetros técnicos de construcción de las vías y los cambios de TTP, también a través del Libro de normas;
+- a través del dispositivo electrónico asignado (tableta) en el marco de la operación de verificación "Digitalización de los maquinistas" en base a la orden del transportista "Administración de documentación controlada – Digitalización de los maquinistas" con vigencia desde el 1. 4. 2019, incluida la aportación de información sobre la forma en que se informó a los maquinistas del cambio fundamental en la forma de familiarizarse con los cambios de los parámetros técnicos de construcción de las vías y los cambios de TTP únicamente a través de la tableta y no ya a través del Libro de normas;
+- medida del transportista sobre la idoneidad de esta forma de llevar a cabo la familiarización de los maquinistas con los cambios de los parámetros técnicos de construcción de las vías, los cambios de TTP, etc., incluida la evaluación de la exclusión de la posibilidad de riesgo de error del maquinista en base a la posible falta de claridad de los cambios individuales insertados con respecto a su diferenciación de los datos existentes, su tamaño y su número.
+De las respuestas escritas del transportista ČDC a las solicitudes anteriores se desprende, entre otras cosas:
+El transportista emitió la norma interna ČDC PERs28-B-2009 Reglamento de pruebas y formación, donde en el capítulo 5. Conocimiento de las condiciones de vía y locales se establecen los procedimientos sobre la forma de llevar a cabo la familiarización de las vías por parte de los maquinistas. Entre otras cosas, en ella se indica que:
+- El maquinista, antes de realizar el trabajo de forma independiente, debe familiarizarse, en el alcance de las actividades realizadas, con las condiciones de vía en los tramos de vía recorridos, las condiciones locales de las estaciones de ferrocarril y de las vías privadas, así como con las disposiciones del ZDD y del TDPP y con los reglamentos de conexión de las vías privadas y las normas internas de los operadores de vías privadas.
+- El conocimiento de las condiciones de vía por parte de los empleados que dirigen HV se llevará a cabo recorriendo la vía correspondiente en ambos sentidos, es decir, dos veces de día y dos veces de noche (si en ella existe tráfico nocturno). En el marco del conocimiento de las condiciones de vía se realiza también el conocimiento práctico de las condiciones locales en las estaciones de ferrocarril, las estaciones de mercancías y los lugares de operación del transportista ČDC.
+- El conocimiento repetido de las condiciones de vía y locales se realiza en el tramo de vía, estación o vía privada donde el empleado haya perdido el conocimiento (después de 12 meses sin realizar la actividad en esta vía, en la vía, como máximo hasta los 25 meses). En el caso de los maquinistas se realiza recorriendo la vía una vez en ambos sentidos de día.
+- El conocimiento adicional de las condiciones de vía y locales se realizará si se producen cambios extensos en los parámetros técnicos de construcción de las obras de vía y de las obras en la vía (cambio del tipo de dispositivo de seguridad, electrificación de la vía, etc.), durante la vigencia de la confirmación del conocimiento de las condiciones de vía y locales. Esta familiarización con los cambios puede realizarse mediante una grabación visual desde un vehículo en marcha en un PC, un videorecorder, etc.
+- El Director de la Unidad de estructura organizativa de ČDC puede, en su competencia, aumentar el número establecido de viajes (turnos) si se trata de tramos de vía difíciles o largos, estaciones de ferrocarril complejas, etc.
+- El empleado es responsable de mantener el alcance del conocimiento de las condiciones de vía y locales. En caso de que el empleado detecte la vigencia caducada de la confirmación del conocimiento de las condiciones de vía y locales, está obligado a comunicar de forma verificable esta circunstancia a los empleados correspondientes con un mes de antelación, para que no se produzca la pérdida del conocimiento de las condiciones de vía y locales.
+- El registro de la familiarización y del conocimiento de las condiciones locales y de vía se indica en el impreso "Ficha de conocimiento de vía" en el Sistema de información para el procesamiento de la asistencia. Para los empleados con actividad en los puestos de trabajo de una sola estación de ferrocarril puede indicarse en el "Libro
 
 ## Página 41
+
 
 de instrucción» (de normas).
 - La documentación en las «Fichas de conocimiento de la vía» se lleva durante el período de vigencia del GVD. El Director de la Unidad de Estructura Organizativa de ČDC designa a la persona responsable de la actualización de los datos.
@@ -1462,6 +1496,7 @@ En esta Medida, entre otros aspectos, se indica que:
 • la memoria de datos de la tablet que utiliza el maquinista durante la ejecución del turno es solo un depósito local y parcial de datos electrónicos con una rotación de documentos gestionada dinámicamente de modo que
 
 ## Página 42
+
 
 el maquinista tuviera siempre a su disposición la versión vigente del documento necesario y, en caso de cambio previsto, también el documento con vigencia futura; los documentos con caducidad vencida se eliminan automáticamente.
 
@@ -1489,8 +1524,8 @@ En la norma interna PTs10-B-2011 Equipos de locomotora, capítulo 2. 4 Obligacio
 - Si al empleado se le ha asignado un dispositivo de datos electrónico para el desempeño del turno, está obligado a mantener el dispositivo en estado operativo en modo de comunicación en línea (es decir, en conexión activa directa en el sistema con el que está conceptualmente vinculado) durante todo el turno.
 - Avisar por escrito al jefe de locomotora, en tiempo y como máximo un mes antes de la expiración de la vigencia, de los tramos de línea no recorridos, con solicitud de asignación de turno por razón de la prórroga del plazo
 
-
 ## Página 43
+
 
 de conocimiento de la línea (véase IN PERs28-B-2009).
 
@@ -1516,8 +1551,8 @@ En este anexo se indica, entre otras cosas:
 - La explotación de verificación es el período en el que la Medida n.º 20/2018 establece procedimientos diferentes para la forma de obtención de datos por el maquinista sobre el transcurso de todo el turno del maquinista, o el desempeño del HV, o las reglas al utilizar la documentación de explotación.
 - «Zvoneček» es una función y un botón funcional en la pantalla de la tableta, que con color rojo avisa dinámicamente de información importante sobre el estado de la Aplicación de maquinista Cargo, mensajes, errores y actualizaciones. Al activar el botón funcional (si está en rojo) se invoca el diálogo de información «Info». Este muestra la información sobre todos los estados importantes que se han acumulado desde la última comprobación. El cierre de este diálogo de información se realiza con un clic repetido. Al cerrar el diálogo «Info», el «Zvoneček» se colorea en blanco (véase
 
-
 ## Página 44
+
 
 imagen n.º 5). El usuario, a quien el dispositivo electrónico permite la visualización segura de la documentación de explotación necesaria para el desempeño de la actividad, con este paso confirma que ha tomado conocimiento de la información mostrada.
 
@@ -1536,37 +1571,25 @@ Fig. n.º 4: Pantalla principal de la tableta de servicio del maquinista (con fl
 
 Otras reglas se refieren principalmente a la provisión de información de datos de explotación obtenida por el maquinista, p. ej. sobre el estado del HV en explotación en un tren, la ocupación del HV por el maquinista, el ingreso y la preparación del maquinista para el desempeño, información sobre el tren y su posición, etc., la soporte de aplicación del llamado Helpdesk de ČDC y los procedimientos de sustitución de la tableta en caso de funcionamiento incorrecto u otra avería de la tableta, incluidos los procedimientos en caso de pérdida de la visualización del TJŘ en la tableta.
 
-
 ## Página 45
 
-Los riesgos de seguridad enumerados del dispositivo electrónico y la comunicación en el espacio virtual se refieren principalmente a las posibilidades de actividades en modo privado y al procedimiento en caso de pérdida o robo de la tableta.
-
-Sobre los procedimientos de trabajo con la tableta, los maquinistas fueron formados con base en:
-
-Medida n.º 16/2017 del Director O10 de la Dirección General de ČD Cargo, Formación para el trabajo con la tableta y con las aplicaciones para maquinistas, vigente desde el 1. 1 . 2018
-
-Medida n.º 3/2019 del Director O10 de la Dirección General de ČD Cargo, Formación para el trabajo con las aplicaciones en la tableta para maquinistas – II.ª Convocatoria, vigente desde el 1. 2. 2019
-
-Según la información del transportista, el contenido de la formación está garantizado por la sociedad ČD-Informační systémy, a. s., y fue consultado con las unidades especializadas de la Dirección General de ČDC.
-
-En el marco de la formación de la II.ª convocatoria, los formadores utilizan un vídeo instructivo y demostraciones directas del trabajo con la tableta. Los participantes en la formación utilizan tabletas para el propio ensayo del trabajo con la tableta y sus aplicaciones. Parte de ambas formaciones es una prueba de verificación.
-
+Los riesgos de seguridad enumerados relativos al equipo electrónico y la comunicación en el espacio virtual se refieren principalmente a las posibilidades de actividades en modo privado y al procedimiento en caso de pérdida o sustracción de la tableta.
+Los maquinistas fueron formados sobre los procedimientos de trabajo con la tableta con base en:
+Medida n.º 16/2017 del Director O10 de la Dirección General de ČD Cargo, Formación para el trabajo con la tableta y con las aplicaciones para maquinistas, vigente desde el 1. 1. 2018
+Medida n.º 3/2019 del Director O10 de la Dirección General de ČD Cargo, Formación para el trabajo con las aplicaciones en la tableta para maquinistas – II. Turno, vigente desde el 1. 2. 2019
+Según la información facilitada por el transportista, el contenido de la formación está garantizado por la sociedad ČD-Informační systémy, a. s., y fue consultado con las unidades especializadas de la Dirección General de ČDC.
+En el marco de la formación del II. turno, los formadores utilizan un vídeo instructivo y demostraciones directas del trabajo con la tableta. Los participantes en la formación utilizan las tabletas para el propio ensayo del trabajo con la tableta y sus aplicaciones. Ambas formaciones incluyen un test de verificación.
 De la respuesta a la solicitud de la DI se desprende además que la cuestión de la evaluación de riesgos se resuelve en el entorno del transportista ČDC con base en:
-
 Medida n.º 0002/2015 del Presidente del Consejo de Administración de ČD Cargo, a.s., Declaración de seguridad, vigente desde el 15. 9. 2015
-
 En esta Medida se indica, entre otras cosas, que:
-
-- El propósito de esta Medida es establecer los procedimientos de ČDC para la presentación de la solicitud de aprobación o la notificación de cambio del sistema ferroviario ante la Autoridad Ferroviaria de la R.C., cuyo objeto es la modificación de las normas internas del transportista relacionadas con la entrada en vigor del Reglamento Delegado de la Comisión (UE) n.º 402/2013 y la emisión de la Directriz Metodológica de la DÚ para dicho reglamento.
-
-Otro contenido de esta Medida son las tareas y procedimientos establecidos relacionados con la elaboración de la presentación de la solicitud de aprobación o la notificación de cambio del sistema ferroviario y con la gestión del Registro de Declaraciones del Proponente sobre Seguridad de ČDC.
-
-En relación con la evaluación de riesgos y las medidas adoptadas para la gestión de los riesgos relacionados con el cambio en la forma de toma de conocimiento de los maquinistas sobre los cambios en los parámetros técnicos de construcción de las vías y los cambios en las TTP del transportista ČDC, en su respuesta a la solicitud de la DI indicó, entre otras cosas, que:
-
+- El propósito de esta Medida es establecer los procedimientos de ČDC para la presentación de la solicitud de aprobación o de la notificación de cambio del sistema ferroviario ante la Autoridad Ferroviaria de la República Checa (Drážní úřad ČR), cuyo objeto es la modificación de las normas internas del transportista relacionadas con la entrada en vigor del Reglamento Delegado de la Comisión (UE) n.º 402/2013 y con la emisión de la Guía Metodológica de la DÚ sobre dicho reglamento.
+El contenido adicional de esta Medida son las tareas y procedimientos establecidos relacionados con la tramitación de la solicitud de aprobación o de la notificación de cambio del sistema ferroviario y con la gestión del Registro de Declaraciones de Seguridad del Proponente de ČDC.
+En relación con la evaluación de riesgos y las medidas adoptadas para la gestión de los riesgos relativos al cambio en la forma de informar a los maquinistas sobre los cambios en los parámetros técnicos de construcción de las vías y sobre los cambios de TTP, el transportista ČDC indicó en su respuesta a la solicitud de la DI, entre otras cosas, que:
 - Dado que esta etapa parcial de la explotación de verificación «Electrificación de los maquinistas» no fue definida como un cambio del sistema ferroviario en el sentido del Reglamento Delegado (UE) n.º 402/2013, no se aplicó el procedimiento en el sentido de dicho reglamento.
-- El transportista ČDC aclaró además que no se produjo un cambio en la forma de toma de conocimiento de los maquinistas sobre los cambios en los parámetros técnicos de construcción de las vías y los cambios en las TTP; solo se produjo un cambio en el dispositivo de visualización, cuando el maquinista toma conocimiento de los propios documentos modificados a través de la tableta en lugar del PC original en los lugares de ingreso de los maquinistas, y con todas las ventajas positivas del dispositivo de visualización móvil con conexión a internet, cuando el maquinista no se ve limitado a la hora de tomar conocimiento de los cambios por el lugar de ingreso y el tiempo reservado, pudiendo tomar conocimiento de los cambios
+- El transportista ČDC precisó además que no se produjo un cambio en la forma de informar a los maquinistas sobre los cambios en los parámetros técnicos de construcción de las vías y sobre los cambios de TTP, sino únicamente un cambio en el dispositivo de visualización, de modo que el maquinista se informa de los propios documentos modificados mediante la tableta en lugar del PC original en los puestos de acceso de los maquinistas, y ello con todas las ventajas positivas de un dispositivo de visualización móvil con conexión a internet, por el que el maquinista no se ve limitado a la hora de informarse de los cambios por el puesto de acceso y el tiempo asignado, pudiendo informarse de los cambios
 
 ## Página 46
+
 
 con antelación o aprovechar las pausas y los tiempos improductivos durante el turno.
 - El transportista ČDC aclaró además que la Medida n.º 0029/2016 del Director de Operaciones de ČD Cargo «Hoja informativa de cambios de TTP» – cambio n.º 1, determina claramente que: «La Hoja informativa de cambios de TTP se ha creado como ayuda para una familiarización y asimilación más rápida y visual de los cambios por parte de los maquinistas. En ningún caso sustituye a la información sobre la descripción de los cambios contenida en los documentos vigentes publicados en el portal SŽDC ni a su conocimiento determinado por el gestor de la vía y por IN ČD Cargo. La Hoja informativa de cambios de TTP incluye un enlace a la versión (cambio) vigente y completa en el portal SŽDC».
@@ -1583,8 +1606,8 @@ En la Medida n.º 0029/2016 del Director de Operaciones de ČD Cargo, Hoja infor
 La solicitud de DI incluía también la petición de informar si, en interés de la explotación segura del transporte ferroviario por parte del transportista, se valora la claridad de las condiciones de explotación modificadas, que representan nuevos riesgos para la vía de circulación de la vía o para la explotación del transporte ferroviario, antes de la entrega de dichos cambios a los empleados del transportista para su conocimiento, y si, en este interés, el propio transportista los modifica previamente de forma adecuada.
 En su respuesta, el transportista ČDC indicó que la claridad de las condiciones de explotación modificadas
 
-
 ## Página 47
+
 
 que representan nuevos riesgos para la vía de circulación de la vía, es competencia claramente del gestor de la vía, que debería tener implantado, en el marco del Certificado de seguridad del gestor de la vía emitido, un sistema de garantía de la seguridad de la explotación de la vía, siendo el método y la forma de transmisión de la información sobre las condiciones de explotación modificadas a los empleados del transportista parte del mismo y debiendo estar en interés de la explotación segura del transporte ferroviario. Según la opinión del transportista, cualquier elemento adicional por el cual un empleado del transportista que valora y modifica documentos aprobados y emitidos por el gestor de la vía, genera el riesgo de un posible error que puede dar lugar a retrasos temporales o a la no familiarización de los empleados de ČDC con los cambios de las condiciones de explotación, y por tanto también a la puesta en riesgo de la seguridad de la explotación de la vía y del transporte ferroviario.
 En el sistema de garantía de la seguridad de la explotación del transporte ferroviario adoptado por el transportista ČDC, relacionado con las circunstancias de la aparición de la MU en cuestión, se detectó una deficiencia (véase el punto 4 de esta ZZ).
@@ -1598,8 +1621,8 @@ El gestor de la vía SŽDC tiene implantado un sistema de control de la segurida
 La reguladora de tráfico de CDP Praha es controlada en todo momento, durante el desempeño de su servicio en su puesto de trabajo, por los empleados superiores presentes en el turno correspondiente y, tras la aparición de la MU el 28. 7. 2019, se le realizó además, por parte del director de CDP Praha, un control de consumo de alcohol, con el resultado de «resultado negativo».
 El transportista ČDC tiene implantado un sistema de control de la seguridad de la explotación de la vía. La actividad de control es realizada por los empleados autorizados con derecho a realizar actividad de control.
 
-
 ## Página 48
+
 
 El maquinista del tren Pn 64520 fue controlado antes de la aparición de la MU los días 14. y 27. 2., 22. 6. y 11. 10. 2018, con enfoque en la ejecución directa del servicio de transporte, incluido el control de consumo de alcohol. Asimismo, se realizaron controles del desempeño del servicio del maquinista mediante el análisis de los registros de velocímetro, concretamente de los llamados «tiras de velocímetro» físicos entregados del 22. 4. y del 19. 5. 2019. En el año natural 2019 se realizaron además un total de 59 controles de registros electrónicos de velocímetro. El transportista evaluó todos los controles realizados como desempeño del servicio sin defectos.
 La Inspección Ferroviaria solicitó al transportista ČDC, en el marco de la investigación de la MU, entre otra documentación e información sobre:
@@ -1615,8 +1638,8 @@ El propietario de la vía ferroviaria, categoría nacional, Plzeň hl. n. – Ch
 El gestor de la vía ferroviaria, categoría nacional, Plzeň hl. n. – Cheb, era SŽDC.
 El transportista del tren Pn 64520 era ČDC, con domicilio en Jankovcova 1569/2c, Praha 7, PSČ 170 00.
 
-
 ## Página 49
+
 
 El transporte ferroviario se explotaba en virtud del contrato n.º PDD 9168/18 celebrado entre el gestor de la vía SŽDC y el transportista ČDC el 6. 12. 2018 (firma de ČDC), respectivamente el 18. 12. 2018 (firma de SŽDC), con efectos desde el 18. 12. 2018.
 En la interfaz entre los sujetos implicados no se detectó ninguna deficiencia.
@@ -1642,6 +1665,7 @@ En la investigación se detectó una infracción de las normas internas en relac
 
 ## Página 50
 
+
 influir), para que el maquinista pueda percibir correctamente las señales y ajustarse a ellas.";
 art. 1336, reglamento interno del operador ferroviario SŽDC, reglamento SŽDC D1:
 •
@@ -1660,8 +1684,8 @@ La inspección y prueba periódica del UTZ TZZ en el tramo de vía Chodová Plan
 En el momento del suceso del MU no constaba registrada ninguna avería o anomalía en el dispositivo de seguridad.
 Tanto en la est. Chodová Planá como en Mariánské Lázně está instalado un dispositivo de seguridad de estación ESA 11 con puesto de operación unificado (JOP). Los dispositivos de seguridad en el momento del suceso del MU eran controlados a distancia desde el puesto del despachador de vía CDP Praga.
 
-
 ## Página 51
+
 
 Tras el suceso del MU, el 1. 8. 2019, se realizó por parte de las personas cualificadas del operador ferroviario una verificación comisionada del funcionamiento del TZZ. Se constató que durante el MU no se produjo ningún daño en el mismo. Tanto el SZZ como el TZZ mostraban un funcionamiento normal y ni su estado técnico ni su modo de operación guardaban relación causal con la aparición del MU.
 No se detectaron deficiencias.
@@ -1684,8 +1708,8 @@ la evaluación de la estructura de encofrado de fecha 27. 1. 2019 (AZ SANACA a.s
 El objeto de la realización de la prueba de seguridad técnica se refería a la garantía del perfil de paso para los vehículos ferroviarios y del espacio libre transitable y de maniobra para los empleados implicados en la explotación de la vía y del transporte ferroviario, así como a los parámetros del cuerpo de tierra.
 Resultado de la prueba: «mediante la inspección y los registros aportados de las mediciones se verificó que
 
-
 ## Página 52
+
 
 los parámetros de la posición geométrica de la vía, del perfil de paso, del espacio libre transitable y de maniobra y del cuerpo de tierra en el lugar de la obra se ajustan a las condiciones técnicas establecidas por el decreto n.º 177/1994 Sb., en su redacción vigente.»
 Conclusión de la prueba: «la plataforma ferroviaria, incluida la infraestructura subterránea (cuerpo de tierra) descrita más arriba, es, desde el punto de vista de la consecución de los parámetros establecidos, de la función y de la seguridad de la explotación de la vía y del transporte ferroviario, apta para el servicio.»
@@ -1721,8 +1745,8 @@ en el tramo anterior al desvío transitorio no se detectaron anomalías;
 •
 en el tramo del desvío transitorio hasta el km 422,103 se midió un valor excedido de
 
-
 ## Página 53
+
 
 cambio de posición en la dirección transversal. Según la declaración escrita de SŽDC-OŘ Plzeň de fecha 16. 8. 2019, la posición incorrecta de la vía en la dirección transversal se produjo como consecuencia del MU, lo cual puede acreditarse con la medición de la vía en los distintos meses de explotación del desvío transitorio.
 En el tramo entre estaciones Chodová Planá – Mariánské Lázně se constató la ubicación de las señales fijas instaladas a ambos lados de la vía en el sentido de circulación del tren Pn 64520, concretamente entre la señal fija preaviso N con la señal para velocidad de vía «Espere velocidad de vía» con el dígito «3», ubicada en el poste común con la señal fija con la señal «Espere el fin de vigencia de las señales de velocidad NS» en el lado derecho en el sentido de circulación del tren en el km 420,508 y la señal fija señal de velocidad N con la señal «Velocidad de vía» con el dígito «30», ubicada en el poste común con la señal fija con la señal «Fin de vigencia de las señales de velocidad NS» en el km 422,067, es decir, el lugar a partir del cual se ordenó al maquinista no superar la velocidad de 30 km.h-1.
@@ -1742,54 +1766,26 @@ El uso de los dispositivos de comunicación, de telecomunicaciones e informació
 ## Página 54
 
 ### 3.4.4 Material rodante, incluido el dispositivo de registro automático de datos
-El HDV 363.502-6 disponía de un Certificado de aptitud del material rodante válido, n.º ev.: PZ3295/12-V.03, emitido por el DÚ el 14. 6. 2012. La última revisión técnica periódica anterior a la aparición del MU se realizó el 14. 6. 2019 con validez hasta el 14. 12. 2019, con el resultado de que el material cumple las condiciones de explotación en las vías.
-El HDV 363.511-7 disponía de un Certificado de aptitud del material rodante válido, n.º ev.: PZ3324/12-V.03, emitido por el DÚ el 5. 6. 2012. La última revisión técnica periódica anterior a la aparición del MU se realizó el 19. 2. 2019 con validez hasta el 19. 8. 2019, con el resultado de que el material cumple las condiciones de explotación en las vías.
-El HDV 363.502-6 estaba equipado, en el momento de la aparición del MU, con un dispositivo de registro automático de datos: el velocímetro electrónico Unicontrols Tramex – RE1xx, n.º 9116.
-De los datos registrados se deduce:
+El HDV 363.502-6 disponía de Certificado de aptitud del material rodante válido, n.º de inv.: PZ3295/12-
+V.03, expedido por el DÚ el 14. 6. 2012. La última revisión técnica periódica anterior al accidente ferroviario se realizó el 14. 6. 2019 con vigencia hasta el 14. 12. 2019, con el resultado de que el material rodante cumple las condiciones de explotación en las vías.
+El HDV 363.511-7 disponía de Certificado de aptitud del material rodante válido, n.º de inv.: PZ3324/12-
+V.03, expedido por el DÚ el 5. 6. 2012. La última revisión técnica periódica anterior al accidente ferroviario se realizó el 19. 2. 2019 con vigencia hasta el 19. 8. 2019, con el resultado de que el material rodante cumple las condiciones de explotación en las vías.
+El HDV 363.502-6 estaba equipado, en el momento del accidente ferroviario, con un dispositivo de registro automático de datos – un velocímetro electrónico Unicontrols Tramex – RE1xx, n.º 9116.
+De los datos registrados se desprende:
 16:04:42 h
 parada del tren Pn 64520 en la est. Ošelín;
 •
 16:12:36 h
 salida del tren de la est. Ošelín en dirección a Chodová Planá y Mariánské
 •
-Lázně, en el ARR se preseleccionó la velocidad de 60 km·h-1, en un tramo de
-1024 m se alcanzó la velocidad de 60 km·h-1;
-la velocidad de 60 km·h-1 se mantuvo constante durante un tramo de 745 m
-•
-adicionales. En un tramo de 748 m adicionales la velocidad disminuyó
-suavemente hasta 47 km·h-1 (circulación lenta en el tramo 399,700 –
-399,760). En un tramo de 96 m adicionales la velocidad se mantuvo
-constante. En un tramo de 1686 m adicionales la velocidad aumentó
-suavemente hasta 79 km·h-1. En un tramo de 4399 m adicionales la
-velocidad osciló en el rango de 79 – 80 km·h-1. En un tramo de 1626 m
-adicionales la velocidad aumentó suavemente hasta 90 km·h-1. En un
-tramo de 560 m adicionales la velocidad fue de 91 km·h-1. En un tramo
-de 1999 m adicionales la velocidad se mantuvo constante en 90 km·h-1.
-En un tramo de 979 m adicionales la velocidad disminuyó suavemente
-hasta 79 km·h-1. En un tramo de 711 m adicionales esta velocidad se
-mantuvo constante. En un tramo de 357 m adicionales el tren circuló a una
-velocidad de 80 km·h-1. En un tramo de 544 m adicionales la velocidad
-disminuyó suavemente hasta 72 km·h-1. En un tramo de 694 m
-adicionales la velocidad aumentó suavemente hasta 78 km·h-1. En un
-tramo de 221 m adicionales la velocidad se mantuvo constante. En un
-tramo de 1059 m adicionales la velocidad aumentó suavemente hasta
-89 km·h-1. En un tramo de 3058 m adicionales la velocidad osciló en el
-rango de 89 – 90 km·h-1. En un tramo de 770 m adicionales el tren
-circuló a una velocidad de 91 km·h-1. En un tramo de 3612 m
-adicionales la velocidad del tren osciló en el rango de 89 – 90 km·h-1.
-En un tramo de 150 m adicionales el tren circuló a una velocidad de
-91 km·h-1;
+Lázně, en la ARR se había predeterminado la velocidad de 60 km·h-1, en un trayecto de 1024 m se alcanzó la velocidad de 60 km·h-1;
+la velocidad de 60 km·h-1 se mantuvo constante en un trayecto de los siguientes 745 m. En un trayecto de los siguientes 748 m la velocidad disminuyó suavemente hasta 47 km·h-1 (marcha lenta en el tramo 399,700 – 399,760). En un trayecto de los siguientes 96 m la velocidad se mantuvo constante. En un trayecto de los siguientes 1686 m la velocidad aumentó suavemente hasta 79 km·h-1. En un trayecto de los siguientes 4399 m la velocidad se movió en el rango de 79 – 80 km·h-1. En un trayecto de los siguientes 1626 m la velocidad aumentó suavemente hasta 90 km·h-1. En un trayecto de los siguientes 560 m la velocidad fue de 91 km·h-1. En un trayecto de los siguientes 1999 m la velocidad se mantuvo constante en 90 km·h-1. En un trayecto de los siguientes 979 m la velocidad disminuyó suavemente hasta 79 km·h-1. En un trayecto de los siguientes 711 m esta velocidad se mantuvo constante. En un trayecto de los siguientes 357 m el tren circuló a una velocidad de 80 km·h-1. En un trayecto de los siguientes 544 m la velocidad disminuyó suavemente hasta 72 km·h-1. En un trayecto de los siguientes 694 m la velocidad aumentó suavemente hasta 78 km·h-1. En un trayecto de los siguientes 221 m la velocidad se mantuvo constante. En un trayecto de los siguientes 1059 m la velocidad aumentó suavemente hasta 89 km·h-1. En un trayecto de los siguientes 3058 m la velocidad se movió en el rango de 89 – 90 km·h-1. En un trayecto de los siguientes 770 m el tren circuló a una velocidad de 91 km·h-1. En un trayecto de los siguientes 3612 m la velocidad del tren se movió en el rango de 89 – 90 km·h-1. En un trayecto de los siguientes 150 m el tren circuló a una velocidad de 91 km·h-1;
 16:32:21 h
 inicio de la frenada continua;
-•
-tras recorrer 15 m se registra la aplicación de la frenada de acción rápida.
-En un tramo de 54 m adicionales la velocidad descendió hasta 90 km·h-1.
-La presión en la tubería principal descendió hasta el valor de 2,310 bar.
-En un tramo de 111 m adicionales la velocidad descendió hasta 73 km·h-1.
-La presión en la tubería principal se
-
+tras recorrer un trayecto de 15 m se registra la aplicación de la frenada de acción rápida. En un trayecto de los siguientes 54 m la velocidad descendió hasta 90 km·h-1. La presión en la tubería principal descendió hasta el valor de 2,310 bares. En un trayecto de los siguientes 111 m la velocidad descendió hasta 73 km·h-1. La presión en la tubería principal se
 
 ## Página 55
+
 
 recargó hasta el valor de 4,998 bar. En un tramo de 66 m adicionales la
 velocidad descendió hasta 49 km·h-1. La presión en la tubería principal
@@ -1846,8 +1842,8 @@ era de 91 km·h-1, el maquinista superó la velocidad máxima permitida de
 •
 El tiempo registrado por el velocímetro electrónico coincidía con el tiempo real. El protector automático de tren estaba en funcionamiento y era operado regularmente por el maquinista en función de la transmisión del código a la cabina del maquinista. Para la circulación se utilizó el ARR – regulación automática de velocidad. El HDV estaba en el modo «MASTER».
 
-
 ## Página 56
+
 
 Dada la amplitud de la escala de velocidad del velocímetro registrador UnicontrolsTramex (0 a 140 km·h-1) y la posibilidad real del maquinista de detectar visualmente una superación de velocidad de 1 km·h-1, lo que representa una superación de velocidad del 0,71 % de la amplitud de la escala del velocímetro registrador, dicha superación de la velocidad máxima permitida del tren por parte del maquinista no puede considerarse como incumplimiento de las disposiciones legales y de los procedimientos tecnológicos uniformes del transportista. Asimismo, dicho hallazgo no puede valorarse en relación causal con la aparición del MU.
 El 13. 8. y posteriormente el 23. 8. 2019, por personas cualificadas del transportista en presencia de inspectores del DI, se realizaron inspecciones comisionadas del HDV 363.502-6 tras el MU, mediante las cuales se constató que el estado técnico del HDV no guardaba relación causal con la aparición de este MU y que su daño se produjo como consecuencia del MU.
@@ -1864,8 +1860,8 @@ velocidad máxima permitida de 30 km·h-1 en 61 km·h-1 (véanse los puntos
 Tras la realización de la medición de la posición geométrica de la vía el 16. 5. 2019 y de la posición espacial de la vía el 17. 5. 2019, el desvío transitorio de la vía se puso en servicio el 20. 5. 2019 a las 16:00 h, estableciéndose en todo su tramo una velocidad de vía de 30 km.h-1. Simultáneamente, en virtud del telegrama electrónico n.º 2019-05-001835 emitido, mediante una limitación transitoria de la velocidad de vía, el explotador de la vía introdujo entre la est. Chodová Planá y Mariánské Lázně, en el km 422,060 hasta 422,290, una circulación lenta de 30 km.h-1. En virtud de otro telegrama electrónico n.º 2019-07-001273 del 12. 7. 2019, dicha circulación lenta se anuló con efectos desde el 15. 7. 2019, 00:00 h, estableciéndose en el km 422,060 hasta 422,300 una velocidad de vía de 30 km.h-1.
 El explotador de la vía publicó el cambio de los parámetros constructivo-técnicos de las obras de vía y de las obras sobre la vía, concretamente el cambio de TTP relativo al establecimiento de la velocidad de vía de 30 km.h-1 en el km 422,060 hasta 422,300 en la línea 713B, Plzeň hlavní nádraží – Cheb, el 24. 6. 2019 a las 15:12:32 h. La fecha y hora de publicación del TTP de la línea 713B, tabla 06b, en el «Portal de explotación de la vía» fue simultáneamente la hora de entrega del mencionado cambio de TTP a todos los transportistas. Cada
 
-
 ## Página 57
+
 
 usuario del «Portal de explotación de la vía» tiene la posibilidad de activar la herramienta denominada «novedades» o «novedades con confirmación», con la que el sistema, al llegar un nuevo día, genera un correo electrónico sobre los cambios producidos el día anterior. El archivo relativo al mencionado cambio de TTP se incluyó en las «novedades con confirmación» y se envió al transportista ČDC el 25. 6. 2019 a las 1:16:07 h. El transportista ČDC confirmó posteriormente la recepción y lectura del correo electrónico el 25. 6. 2019 a las 7:35:49 h.
 Antes de circular por el tramo Plzeň hlavní nádraží – Cheb, el maquinista del tren Pn 64520 fue informado de los cambios de los parámetros constructivo-técnicos de las obras de vía y de las obras sobre la vía mediante la orden escrita «V» n.º 190/765, emitida el 28. 7. 2019 en la est. Plzeň hlavní nádraží, distrito de la estación de clasificación, y ello antes de la circulación de la locomotora hasta la est. Beroun (estación de origen del tren Pn 64520). En dicha orden se indicaban la siguiente información:
@@ -1883,6 +1879,7 @@ El maquinista del tren Pn 64520, tras pasar junto a la señal fija del preseñal
 
 ## Página 58
 
+
 necesitando la reducción de velocidad necesaria del tren y, tras salir de la curva y avistar la señal invariable, el indicador de velocidad N con la indicación «Velocidad de vía» con el número «30», ya no fue capaz de reducir a tiempo la velocidad del tren mediante el servicio de freno continuo del tren, y así cumplir la velocidad prescrita desde este indicador de velocidad de 30 km·h-1, y a continuación el tren descarriló.
 Se detectó una deficiencia.
 Hallazgo:
@@ -1899,24 +1896,25 @@ Los empleadores garantizaron las condiciones para el descanso previo al turno y 
 
 ## Página 59
 
-3.6.2 Estado de salud y situación personal que tuvieron impacto en la excepcionalidad, incluido el estrés físico o psicológico
-Los empleados del explotador de la infraestructura y del transportista se sometían a exámenes médicos periódicos de conformidad con lo dispuesto en el decreto n.º 101/1995 Sb. y estaban, en el momento del origen de la ME, médicamente aptos para el desempeño de la función que ocupaban.
-Como parte de la investigación del factor humano del maquinista del tren Pn 64520, la Inspección Ferroviaria realizó, entre otras cosas, la evaluación de todas las influencias que pudieran actuar sobre el empleado implicado y que pudieran haber tenido, en su caso, influencia en el origen de la ME. Se trataba, además del estado de salud y la situación personal, principalmente de la evaluación de la capacidad de procesar información, de un posible estrés físico y psicológico, así como de la evaluación de la experiencia, los conocimientos, la antigüedad en el puesto y la carga laboral.
-La investigación determinó que:
-• Se trata de un empleado experimentado que lleva 33 años en la función de maquinista,
-• No desempeña actividad laboral para ningún otro transportista fuera de ČDC,
-• El maquinista del tren Pn 64520 se sentía descansado y sano antes de incorporarse al turno del 28 de julio de 2019,
-• Antes de incorporarse al turno del 28 de julio de 2019 ni durante el mismo, hasta el origen de la ME, no fue alterado por nadie ni por nada,
-• Los acontecimientos de la vida privada, ni en relación con los compañeros de trabajo ni con los superiores, no tuvieron ninguna influencia en la prestación de servicio ni en su estado psicológico,
-• Durante el turno no se produjeron complicaciones ni situaciones de estrés,
-• Todos los resultados de las comprobaciones centradas en la prestación directa del servicio de transporte dieron como resultado «sin anomalías»,
-• Se descartó la actuación rutinaria del maquinista, dado el hecho de que circulaba por la línea Plzeň hlavní nádraží – Cheb tras casi siete meses.
-No se detectaron el estado de salud ni la situación personal que pudieran haber tenido influencia en el origen de la ME, incluido el estrés físico y psicológico u otras influencias.
-3.6.3 Disposición del equipamiento del puesto de mando o del vehículo ferroviario que influye en su manejo y uso
-La disposición y el equipamiento del puesto de trabajo de los empleados del explotador de la infraestructura no guardaban relación con el origen de la ME.
-En cuanto a la disposición y el equipamiento del puesto de trabajo del maquinista del tren Pn 64520, es decir, la cabina de mando del HDV 363.502-6, que en el marco de su declaración a la Inspección Ferroviaria manifestó que «en ese momento circulaba contra el sol, que le deslumbraba parcialmente», la Inspección Ferroviaria llevó a cabo una investigación que no confirmó su afirmación (véase la fig. n.º 5).
+3.6.2 Estado de salud y situación personal que tuvieron incidencia en el suceso, incluido el estrés físico o psicológico
+Los empleados del gestor de la infraestructura y del transportista se sometían a reconocimientos médicos periódicos de conformidad con lo dispuesto en el decreto nº 101/1995 Sb. y, en el momento de producirse el suceso, estaban en condiciones de salud para desempeñar la función que ocupaban.
+Como parte de la investigación del factor humano en el maquinista del tren Pn 64520, la Inspección Ferroviaria llevó a cabo, entre otras cosas, la evaluación de todas las influencias que pudieron actuar sobre el empleado implicado y que pudieran haber tenido, en su caso, incidencia en la producción del suceso. Se trataba, además del estado de salud y de la situación personal, principalmente de la evaluación de la capacidad de procesar información, de un posible estrés físico y psicológico, así como de la evaluación de la experiencia, los conocimientos, la antigüedad en el puesto y la carga de trabajo.
+La investigación arrojó los siguientes resultados:
+• se trata de un empleado experimentado que lleva 33 años desempeñando la función de maquinista,
+• no realiza actividad laboral para ningún transportista distinto de ČDC,
+• el maquinista del tren Pn 64520 se sentía descansado y sano antes de incorporarse al turno del 28. 7. 2019,
+• antes de incorporarse al turno del 28. 7. 2019 ni durante el mismo, hasta la producción del suceso, no se vio alterado por nadie ni por nada,
+• los acontecimientos de su vida privada, ni en relación con sus compañeros de trabajo ni con sus superiores, no tuvieron ninguna influencia en el desempeño del servicio ni en su estado psicológico,
+• durante el turno no se produjeron complicaciones ni situaciones de estrés,
+• todos los resultados de las comprobaciones centradas en el desempeño directo del servicio de transporte dieron como resultado «sin anomalías»,
+• se descartó una actuación rutinaria del maquinista, dado que transcurrían casi siete meses desde que circulaba por la línea Plzeň hlavní nádraží – Cheb.
+No se detectaron estados de salud ni situaciones personales que pudieran haber tenido incidencia en la producción del suceso, incluido el estrés físico o psicológico u otras influencias.
+3.6.3 Disposición del equipamiento del puesto de mando o del vehículo ferroviario que incide en su conducción y utilización
+La disposición y el equipamiento del puesto de trabajo de los empleados del gestor de la infraestructura no guardaban relación con la producción del suceso.
+En relación con la disposición y el equipamiento del puesto de trabajo del maquinista del tren Pn 64520, es decir, la cabina de conducción del HDV 363.502-6, que, en el marco de su declaración ante la Inspección Ferroviaria, manifestó que «en ese momento circulaba contra el sol, que le deslumbraba parcialmente», la Inspección Ferroviaria llevó a cabo una investigación que no confirmó su afirmación (véase la fig. nº 5).
 
 ## Página 60
+
 
 ##  Dirección de los rayos solares
 ##  Dirección de la marcha del tren Pn 64520
@@ -1934,6 +1932,7 @@ El 28 de julio de 2019, tras la realización de la inspección técnica inicial 
 
 ## Página 61
 
+
 completa del freno, partió a las 14:38 h el maquinista del transportista ČDC con el tren de mercancías Pn 64520, conducido por HDV en mando múltiple (2x HDV de la serie 363), de la est. Beroun, ramal de la estación de clasificación. La circulación se desarrolló sin anomalías y sin interrupciones hasta la est. Ošelín, donde el tren Pn 64520 se detuvo a las 16:04:42 h debido al cruce con el tren Sp 1989. Tras la salida de la est. Ošelín a las 16:12:36 h, el maquinista del tren Pn 64520 tuvo en el HDV de cabeza, hasta el lugar de origen de la ME, el modo de marcha con ARR establecido. El tren Pn 64520 pasó por las siguientes estaciones, a saber, Pavlovice, Brod nad Tichou, Planá u Mariánských Lázní y Chodová Planá, habiendo pasado la señal de salida L1 situada en la última mencionada estación en el km 417,959 a una velocidad de 91 km.h-1.
 La señal invariable preseñal N con la indicación de velocidad de vía «Espere velocidad de vía» con el número «3», situada en el mismo poste que la señal invariable con la indicación «Espere el fin de vigencia de los indicadores de velocidad NS» en el lado derecho en el sentido de marcha del tren en el km 420,508, fue pasada por la cabeza del tren Pn 64520 a las 16:31:23 h a una velocidad de 89 km.h-1. Tras otros 130 m, concretamente en el km 420,638, la cabeza del tren Pn 64520 pasó, en el lado izquierdo en el sentido de marcha del tren, sobre el soporte de tracción, las señales invariables indicador de velocidad N con las indicaciones de velocidad de vía «Velocidad de vía» con el número «100», «Velocidad de vía» con el número «95» y el indicador de velocidad 3 con la indicación de velocidad de vía «Velocidad de vía» con el número «70». En el tramo siguiente, la velocidad del tren Pn 64520 continuó oscilando entre 89 km.h-1 y 91 km.h-1, hasta el km 422,032, cuando a las 16:32:21 h el maquinista inició el frenado continuo, tras el cual, a continuación, tras recorrer otros 15 m, es decir, en el km 422,047, a las 16:32:22 h, aplicó el frenado de acción rápida. En ese mismo momento se produjo también la acción del freno electrodinámico EDB1 y EDB2. A las 16:32:23 h, tras recorrer otros 20 m, el tren Pn 64520 pasó en el km 422,067 a una velocidad de 91 km.h-1 la señal invariable indicador de velocidad N con la indicación «Velocidad de vía» con el número «30», situada en el mismo poste que la señal invariable con la indicación «Fin de vigencia de los indicadores de velocidad NS». Al comienzo de la primera curva del desvío de la línea, la velocidad del tren era de 90 km.h-1. En el lugar de origen de la ME, el llamado punto «0», en el km 422,162, donde se registraron las primeras marcas relacionadas con el descarrilamiento de los vehículos ferroviarios, circulaba la cabeza del tren Pn 64520 a una velocidad de 86 km.h-1. La cabeza del primer TDV, que a las 16:32:26 h a continuación descarriló como primero, pasó por el punto «0» a una velocidad de 82 km.h-1. Siguió una mayor reducción de velocidad, hasta el km 422,373, donde a las 16:32:45 h se detuvo la cabeza del tren Pn 64520. Como consecuencia del origen de la ME se produjo el descarrilamiento del segundo HDV y de los primeros trece TDV, el daño total se cifró en 27 996 729 CZK.
 ### 4.2 Análisis
@@ -1942,6 +1941,7 @@ La ME se produjo en el lugar del desvío transitorio de la línea, que comenzaba
 El desvío transitorio de la línea estaba formado por tres curvas en sentido opuesto con tramos rectos intercalados y, tras la realización de la medición de la posición geométrica de la vía el 16 de mayo de 2019
 
 ## Página 62
+
 
 y de la posición espacial de la vía el 17 de mayo de 2019, se puso en servicio el 20 de mayo de 2019 a las 16:00 h, con la particularidad de que en todo su tramo se estableció una velocidad de vía de 30 km.h-1. Al mismo tiempo, en virtud del despacho electrónico n.º 2019-05-001835 emitido, en forma de limitación transitoria de la velocidad de vía, el explotador de la infraestructura introdujo entre las estaciones Chodová Planá y Mariánské Lázně, en el km 422,060 a 422,290, una marcha lenta de 30 km.h-1. En virtud de otro despacho electrónico n.º 2019-07-001273 del 12 de julio de 2019, la citada marcha lenta quedó anulada con efectos desde el 15 de julio de 2019, 00:00 h, estableciéndose en el km 422,060 a 422,300 una velocidad de vía de 30 km.h-1.
 Según los procedimientos tecnológicos recogidos en la normativa interna del explotador de la infraestructura SŽDC D1 Normativa de circulación y señales:
@@ -1960,13 +1960,14 @@ Cuando un tren circula por un tramo con limitación transitoria de la velocidad 
 
 ## Página 63
 
+
 «Inicio de la marcha lenta» ordena al maquinista no superar, a partir de esta señal, la velocidad de marcha lenta. La señal en la placa K «Fin de la marcha lenta» advierte al maquinista del punto en que finaliza la marcha lenta. Los procedimientos tecnológicos establecen además las normas para la colocación de los postes preseñalizadores y de las placas Z y K, la responsabilidad de los empleados designados y autorizados para la señalización de la marcha lenta con señales de marcha lenta y para la entrega de la información para la información al maquinista, así como las distancias mínimas a las que se coloca el poste preseñalizador antes de la señal con la indicación «Inicio de la marcha lenta» más próxima y siguiente.
 Al circular un tren por un tramo con limitación permanente de la velocidad de vía, el maquinista es informado de dicha limitación por los datos en el TTP y por la colocación de señales fijas preseñalizadoras («N», «NS», «3» y «R») y velocimétricas («N», «NS», «3» y «R») con las señales de velocidad de vía «Espere la velocidad de vía» y «Velocidad de vía». La señal en el preseñalizador «Espere la velocidad de vía» preseñaliza al maquinista la reducción de velocidad a partir del velocimétrico más próximo y siguiente. La señal en el velocimétrico «Velocidad de vía» ordena al maquinista no superar, a partir de esta señal, la velocidad indicada por la cifra. Para los trenes con cajas inclinables se colocan además señales fijas con las señales «Espere el fin de la vigencia de los velocimétricos NS», que preseñalizan al maquinista el fin de la vigencia de los velocimétricos NS, y «Fin de la vigencia de los velocimétricos NS», que finalizan el tramo en el que rigen los velocimétricos NS. A partir de esta señal, el maquinista se rige por los velocimétricos N. Los procedimientos tecnológicos establecen además las normas para la colocación y agrupación de los preseñalizadores y velocimétricos, así como las distancias mínimas a las que se coloca el preseñalizador antes del velocimétrico más próximo y siguiente.
 La velocidad establecida para el tren Pn 64520 según el TJŘ para el tramo Plzeň hlavní nádraží, distrito Jižní Předměstí hasta Lázně Kynžvart era de 90 km.h-1. Los vehículos ferroviarios incluidos en el tren Pn 64520 permitían, desde el punto de vista técnico y de construcción, una velocidad máxima de 100 km.h-1. Según la tabla 06b de la línea 713B, vigente desde el 15. 7. 2019, para el sentido de circulación Plzeň hlavní nádraží – Cheb, entre las estaciones Chodová Planá y Mariánské Lázně, entre km 422,060 y 422,300, se había ordenado una velocidad de vía de 30 km.h-1. En el tramo anterior a km 422,060, para los vehículos ferroviarios con caja inclinable se había ordenado una velocidad de vía de 125 km.h-1, para los vehículos ferroviarios que cumplían las condiciones para la circulación en curva con un déficit de sobreelevación de al menos 130 mm se había ordenado una velocidad de vía de 100 km.h-1, para los vehículos de tracción con transmisibilidad 3 se había ordenado una velocidad de vía de 70 km.h-1 y para los demás vehículos ferroviarios se había ordenado una velocidad de vía de 95 km.h-1, que también afectaba al tren Pn 64520.
 El gestor de la infraestructura SŽDC publica los cambios en el TTP en su «Portal de gestión de la infraestructura» con carácter general 21 días antes del día de su entrada en vigor. Así ocurrió también en el caso de la publicación del cambio de los parámetros técnico-constructorios de las obras ferroviarias y de las obras en la infraestructura, concretamente del cambio en el TTP relativo al establecimiento de una velocidad de vía de 30 km.h-1 en km 422,060 a 422,300 en la línea 713B, Plzeň hlavní nádraží – Cheb, a partir de las 0.00 horas del día 15. 7. 2019, que tuvo lugar el 24. 6. 2019 a las 15:12:32 h. La fecha y hora de publicación del TTP de la línea 713B, tabla 06b, en el «Portal de gestión de la infraestructura» fue simultáneamente la hora de entrega del mencionado cambio en el TTP a todos los operadores ferroviarios. Cada usuario del «Portal de gestión de la infraestructura» tiene la posibilidad de activar la herramienta denominada «novedades» o «novedades con confirmación», con la que el sistema, al llegar el nuevo día, genera un correo electrónico sobre los cambios producidos el día anterior. El archivo relativo al mencionado cambio en el TTP *713B_06b_20190715.pdf* fue incluido en las «novedades con confirmación» y enviado al operador ferroviario ČDC el 25. 6. 2019 a las 1:16:07 h. El operador ferroviario ČDC confirmó posteriormente la recepción y lectura del correo electrónico el 25. 6. 2019 a las 7:35:49 h. El gestor de la infraestructura SŽDC publicó el cambio en el TTP 21 días antes del día de su entrada en vigor y cumplió así lo dispuesto en el § 68 apartado 1 del decreto nº 173/1995 Sb. y de su
 
-
 ## Página 64
+
 
 norma interna SŽDC D1.
 En el momento del suceso, el maquinista del tren Pn 64520, que realizaba actividades en la explotación del transporte ferroviario, era profesional y médicamente apto para el desempeño de la función que ocupaba. El maquinista era titular de la licencia de maquinista con validez hasta el 27. 10. 2021 y del Certificado Complementario de Maquinista con validez hasta el 15. 6. 2020 para vehículos de tracción eléctricos y diésel, líneas de ámbito nacional, regionales y el Circuito Ferroviario de Pruebas de Cerhenice. Superó la última prueba de aptitud profesional el día 16. 6. 2017. Realizó la última formación periódica el día 5. 6. 2019. El maquinista del tren Pn 64520 participó asimismo en dos sesiones de formación en el uso de las tabletas de servicio, concretamente en la formación para el trabajo con la tableta y con las aplicaciones para maquinistas según la Medida ČDC nº 16/2017, que acreditadamente completó el día 15. 2. 2019, y en la formación para el trabajo con las aplicaciones en la tableta para maquinistas – II.ª sesión según la Medida ČDC nº 03/2019, que igualmente acreditadamente completó el día 16. 4. 2019.
@@ -1976,8 +1977,8 @@ Según los procedimientos tecnológicos indicados en la norma interna del operad
 El operador ferroviario ČDC tiene los procedimientos sobre el modo de llevar a cabo la familiarización con las líneas por parte de los maquinistas establecidos en las normas internas PERs28-B-2009 Reglamento de Pruebas y Formación, capítulo 5. Conocimiento de las condiciones de las líneas y locales, y PTs10-B-2011 Equipos de locomotoras, capítulo 3.3 Conocimiento de las condiciones de las líneas y locales, en los que se indica, entre otros, que el maquinista, antes del desempeño independiente del empleo, debe familiarizarse, en el alcance de las actividades realizadas, con las condiciones de las líneas en los tramos de línea por los que circula. El conocimiento de las condiciones de las líneas por parte de los empleados que conducen HV se llevará a cabo recorriendo la línea correspondiente en ambos sentidos, dos veces de día y dos veces de noche (si en ella existe explotación nocturna). El registro de la familiarización y del conocimiento de las condiciones de las líneas consta en el impreso «Ficha de conocimiento de la línea», donde el maquinista confirma con su firma y la indicación de la fecha dicho conocimiento de las condiciones de las líneas. El empleado es responsable del mantenimiento del alcance del conocimiento de las condiciones de las líneas. La confirmación del conocimiento de las condiciones de las líneas es válida durante los 12 meses siguientes a la realización del conocimiento de las condiciones de las líneas o desde el último desempeño independiente en el tramo de línea correspondiente. Al firmar la «Ficha de conocimiento de la línea» para un periodo posterior se confirma el conocimiento durante 12 meses desde la adquisición del conocimiento o, en su caso, desde el último desempeño independiente en el tramo correspondiente.
 El último turno antes del suceso de este SU lo realizó el maquinista del tren Pn 64520 en la línea
 
-
 ## Página 65
+
 
 Plzeň hlavní nádraží – Cheb el día 30. 12. 2018, cuando condujo, como persona que conduce un vehículo ferroviario, el tren Pn 64520/Pn 55439 en el tramo Plzeň hlavní nádraží – Nové Sedlo u Lokte y de vuelta. Entre la última circulación por la mencionada línea y la circulación del día 28. 7. 2019 transcurrieron casi siete meses. El maquinista del tren Pn 64520 confirmó con su firma en la Ficha de conocimiento de la línea la familiarización con las condiciones de las líneas para la línea Plzeň hlavní nádraží – Cheb, donde consta la fecha 1. 12. 2018.
 Según el § 68 apartado 2 del decreto nº 173/1995 Sb., la persona que conduce un vehículo ferroviario debe estar acreditadamente informada de los cambios en los parámetros técnico-constructorios de las obras ferroviarias y de las obras en la infraestructura que tienen una influencia directa en la seguridad y fluidez de la explotación del transporte ferroviario, y ello como máximo antes de la primera circulación en el tramo de la infraestructura afectado.
@@ -1985,6 +1986,7 @@ Según la declaración del operador ferroviario ČDC, solicitada por la DI con m
 Los procedimientos de trabajo y de familiarización con la documentación del maquinista electrónicamente a través de la tableta se establecen con base en la Medida nº 20/2018 del Director de Explotación, Explotación de verificación del proyecto Digitalización de maquinistas – III.ª Fase, donde se indica, entre otros, que, a diferencia del texto de la norma interna PTs10-B-2011, a partir del 9. 12. 2018 no formarán parte del inventario del vehículo de tracción las recopilaciones impresas de SJŘ y TTP que publica el gestor de la infraestructura SŽDC. En el Anexo 1 de la Medida nº 20/2018 Normas para el trabajo con el dispositivo electrónico en el entorno de explotación de ČDC en la obtención y compartición de información de datos de explotación se indica, entre otros, que se permite al maquinista utilizar antes de la circulación toda la información accesible en el dispositivo electrónico, p. ej. TTP, TJŘ, normas internas publicadas por ČDC, etc. Asimismo, en estas normas se indica que «Zvoneček» (campanilla) es una función y un botón funcional en la pantalla de la tableta que, en color rojo, avisa dinámicamente de información importante sobre el estado de la Aplicación de maquinista Cargo, mensajes, errores y actualizaciones. Tras activar el botón funcional (si está en rojo), se abre el diálogo informativo «Info». Este muestra la información sobre todos los estados importantes acumulados desde la última comprobación. El cierre de este diálogo informativo se realiza con un clic repetido. Al cerrar el diálogo «Info», la «Zvoneček» se colorea en blanco. El usuario, cuyo dispositivo electrónico permite la visualización segura de la documentación de explotación necesaria para el desempeño de la actividad, confirma mediante el botón funcional «Zvoneček» que se ha familiarizado con la información mostrada. En estas normas se indica asimismo que el maquinista está obligado, tras iniciar sesión al comienzo del turno, a permitir la actualización de los datos.
 
 ## Página 66
+
 
 La forma concreta de notificación acreditada de los cambios en los parámetros constructivo-técnicos de las obras ferroviarias y de las obras en la vía, que tienen una influencia directa en la seguridad y la fluidez de la explotación del transporte ferroviario en relación con esta MU, se indica en otro lugar de este análisis.
 
@@ -2005,8 +2007,8 @@ N = Gravedad de las consecuencias probables
 
 Los valores que pueden sustituirse en la fórmula anterior se indican en las tablas, cuyo contenido estableció el explotador de la vía de la siguiente manera:
 
-
 ## Página 67
+
 
 P – Probabilidad de que se produzca una situación no deseada, peligro
 | evaluación | probabilidad | expresión de la probabilidad | coeficiente |
@@ -2038,8 +2040,8 @@ La gravedad de las consecuencias probables fue evaluada por el explotador de la 
 El valor (tasa) de riesgo calculado es:
 R = P x E x N = 2 x 3 x 5 = 30
 
-
 ## Página 68
+
 
 Con base en la identificación del peligro relacionado con la actividad de los empleados de los transportistas y con base en el cálculo realizado del valor (tasa) de riesgo, el explotador de la vía evaluó su gravedad clasificándolo en la Categoría III, con la posibilidad de que se produzca un grave accidente. Como ya se indicó en el punto 3.2.1 de esta ZZ, la Categoría III es establecida por el explotador de la vía como un riesgo significativo, para el que es necesario realizar de forma inmediata medidas de seguridad con una verificación periódica. Para la reducción de este riesgo, el explotador de la vía estableció las siguientes medidas de seguridad:
 código de buenas prácticas,
@@ -2073,8 +2075,8 @@ ajenos, que el explotador de la infraestructura no es capaz de gestionar por sí
 
 Del pronunciamiento del explotador de la vía se desprende que, para la gestión de los riesgos relacionados con el paso de una limitación provisional a una limitación permanente de la velocidad de la vía en el pk 422,060 a 422,300 en el tramo entre estaciones Chodová Planá – Mariánské Lázně, utilizó únicamente el código de buenas prácticas, es decir, las disposiciones de las leyes, decretos, normas y reglamentos, concretamente mediante la instalación de señales fijas y la notificación al transportista de este cambio en el TTP. No realizó ninguna otra evaluación de los riesgos relacionada con este cambio concreto en las condiciones de explotación, ni la adopción de medidas para su gestión, incluso con base en el pronunciamiento de que no se trata de riesgos nuevos, sino, por el contrario, de riesgos previamente previstos y resueltos. Según el explotador de la vía, en este caso el código de buenas prácticas es el único método aplicable para la gestión de los riesgos, pero en su respuesta escrita no acreditó con base en qué procedimientos, métodos o criterios así decidió. El explotador de la vía también indica que el código de buenas prácticas se lleva a cabo mediante toda una serie de actividades, pero en su respuesta escrita tampoco indicó de qué actividades relacionadas con el cambio en las condiciones de explotación, es decir
 
-
 ## Página 69
+
 
 del paso de una limitación provisional a una limitación permanente de la velocidad de la vía en el tramo mencionado, se trataba concretamente.
 
@@ -2099,6 +2101,7 @@ dado que el conocimiento de las condiciones de la vía de los maquinistas tiene 
 •
 
 ## Página 70
+
 
 a habitualmente en esta línea conducen los maquinistas de paso, pero también maquinistas que acuden aquí en el marco de su turno una vez cada 11 semanas; depende bastante de que el maquinista advierta los anuncios previos «Espere velocidad de la vía».
 El transportista expresó a continuación su preocupación de que:
@@ -2141,8 +2144,8 @@ de la solución general del terraplén deduce que el cambio de la circulación l
 a «señales de velocidad» puede mantenerse,
 si desde la dirección se decide de otra manera, dicho cambio correspondiente se
 
-
 ## Página 71
+
 
 llevará a cabo.
 Como ya se ha indicado más arriba, el gestor de la infraestructura tiene la cuestión de la gestión y el control de riesgos elaborada principalmente en su norma interna Resumen del manual, donde se indican, entre otras cosas, los riesgos para las áreas establecidas, incluida la indicación de los procedimientos generales para la creación y aplicación de medidas de prevención de riesgos, procedimientos para el seguimiento de la eficacia de las medidas de gestión de riesgos, así como procedimientos y métodos de evaluación de riesgos y aplicación de medidas de gestión de riesgos en caso de que un cambio en las condiciones operativas o nuevos materiales representen nuevos riesgos para la infraestructura o la explotación (véase el punto 3.2.1 de la presente ZZ).
@@ -2186,35 +2189,63 @@ la comunicación con los transportistas mediante el «Portal de explotación de 
 infraestructura».
 En los procedimientos para la descripción del modo de eliminación de las deficiencias se indica además que
 
-
 ## Página 72
 
-se realiza un registro de la deficiencia detectada y, en caso necesario, se notifica demostrativamente a los empleados de SŽDC de forma general mediante un despacho electrónico; si la deficiencia detectada afecta (también) a los transportistas, se emiten las «Instrucciones del gestor de la infraestructura para garantizar un transporte ferroviario fluido y seguro», que se colocan en el «Portal de explotación de la infraestructura». La medida adoptada, si es necesario, se incorpora entonces en la próxima modificación en la norma interna correspondiente de SŽDC.
-En los procedimientos para la gestión de los cambios relativos a instalaciones, procedimientos, organización, número de empleados o interfaces se indica, entre otras cosas, que:
-el objetivo principal del gestor de la infraestructura es evaluar y valorar los riesgos
+o la deficiencia detectada se realiza un registro y, en caso necesario, se pone en conocimiento de los empleados de SŽDC de forma demostrable de manera general mediante un despacho electrónico, si la deficiencia detectada afecta también a los transportistas, se emiten las «Instrucciones del gestor de la infraestructura para garantizar un tráfico ferroviario fluido y seguro», que se colocan en el «Portal de explotación de la infraestructura». La medida adoptada, si es necesario, se incorpora posteriormente en la próxima modificación en la normativa interna correspondiente de SŽDC.
+En los procedimientos de gestión de cambios relacionados con instalaciones, procedimientos, organización, número de empleados o interfaces, se indica, entre otros, que:
+el objetivo principal del gestor de la infraestructura es evaluar y valorar los riesgos en la explotación de la
 •
-en la explotación de la infraestructura y determinar los distintos posibles medios de seguridad que podrían aplicarse bien para eliminar, bien para gestionar el riesgo a un nivel aceptable,
-los riesgos se buscan y actualizan continuamente durante el uso de nuevas
+infraestructura y determinar los distintos posibles medidas de seguridad que podrían implantarse bien para
+eliminar, bien para dirigir el riesgo a un nivel aceptable,
+los riesgos se buscan y actualizan continuamente durante el uso de nuevas instalaciones, tecnologías y la
 •
-instalaciones, tecnologías y la aplicación de cambios organizativos, sobre la base de los conocimientos y experiencias adquiridos durante su uso,
-también se evalúan y valoran los riesgos que podrían surgir en las interfaces con el
+aplicación de cambios organizativos, sobre la base de los conocimientos y experiencias adquiridos durante
+el uso,
+también se evalúan y valoran los riesgos que podrían surgir en las interfaces con el personal de servicio y
 •
-personal de servicio y en las instalaciones y vehículos ferroviarios utilizados durante la explotación y el mantenimiento.
-La identificación concreta de peligros, el cálculo del valor (grado) de riesgo y la evaluación del riesgo relacionado con la explotación de la infraestructura y con las actividades de los empleados de los transportistas se indican únicamente en la lista de riesgos básicos de seguridad en la explotación de la infraestructura en el Anexo 1 del mencionado manual, donde también se indican las medidas de seguridad concretas para la limitación de dicho riesgo.
-De lo anterior se deduce que el gestor de la infraestructura tiene en su norma interna Resumen del manual elaborados los procedimientos generales y los métodos de evaluación de riesgos y aplicación de medidas de gestión de riesgos de forma bastante extensa. Sin embargo, en relación con los transportistas, la posible colaboración, la comunicación mutua y el intercambio de información se limitan únicamente a los contratos de explotación del transporte ferroviario y a la Declaración de la infraestructura de ámbito nacional y regional, en los que la cuestión de la evaluación de riesgos no se resuelve de forma concreta. La posterior comunicación mutua e intercambio de información se realiza mediante la provisión de normas internas a los transportistas, la información sobre todos sus cambios y el uso del «Portal de explotación de la infraestructura». Se trata, por tanto, en su mayor parte, de una colaboración, comunicación mutua e intercambio de información más bien unidireccionales, es decir, del gestor de la infraestructura hacia el transportista. Sin embargo, en relación con la práctica operativa, puede ser un problema el hecho de que del mencionado manual no se desprende cómo aplicar eficazmente los procedimientos generales y métodos establecidos a situaciones operativas concretas.
-En los procedimientos para la descripción del modo de eliminación de las deficiencias se indica, entre otras cosas, que se realiza un registro de la deficiencia detectada y, si la deficiencia detectada afecta también a los transportistas, se emiten las «Instrucciones del gestor de la infraestructura para garantizar un transporte ferroviario fluido y seguro», que se colocan en el «Portal de explotación de la infraestructura». En su respuesta a las consultas del transportista ČD, el gestor de la infraestructura indica que el cambio en el modo de señalización fue discutido con la dirección, el cambio de los TTP afectados de la línea 713B Plzeň – Cheb se presentó en el plazo establecido, el método y la metodología de elaboración del cambio de TTP presuponen la notificación demostrable a todos los interesados del cambio concreto y que, desde el punto de vista del gestor de la infraestructura, no es del todo posible satisfacer cada solicitud individual de garantizar un control de varios niveles, y compara la situación operativa en el ferrocarril con la situación operativa en la carretera. Según
+las instalaciones y vehículos ferroviarios utilizados durante la explotación y el mantenimiento.
+La identificación concreta de peligros, el cálculo del valor (tasa) de riesgo y la evaluación del riesgo
+relacionado con la explotación de la infraestructura y la actividad de los empleados de los transportistas
+se indican únicamente en la lista de riesgos básicos de seguridad en la explotación de la infraestructura
+en el Anexo 1 del manual mencionado, donde también se indican las medidas de seguridad concretas
+para limitar este riesgo.
+De lo anterior se desprende que el gestor de la infraestructura tiene en su normativa interna «Resumen
+del manual» elaborados procedimientos generales y métodos de evaluación de riesgos y de implantación de
+medidas para dirigir los riesgos de forma bastante extensa. Sin embargo, en relación con los transportistas,
+la eventual cooperación, comunicación mutua e intercambio de información se limita únicamente a los
+contratos de explotación del transporte ferroviario y a las «Declaraciones de la infraestructura de ámbito
+nacional y regional», en los que la cuestión de la evaluación de riesgos no se aborda de forma concreta.
+La posterior comunicación mutua e intercambio de información se realiza mediante la facilitación de
+normativas internas a los transportistas, la información sobre todas sus modificaciones y el uso del «Portal
+de explotación de la infraestructura». Se trata, por tanto, mayoritariamente de una cooperación,
+comunicación mutua e intercambio de información más bien unidireccional, es decir, del gestor de la
+infraestructura hacia el transportista. No obstante, en relación con la práctica de explotación, puede ser
+un problema el hecho de que del manual mencionado no se desprende cómo aplicar eficazmente los
+procedimientos generales y métodos establecidos a situaciones de explotación concretas.
+En los procedimientos para la descripción de la forma de eliminación de deficiencias se indica, entre otros,
+que o la deficiencia detectada se realiza un registro y, si la deficiencia detectada afecta también a los
+transportistas, se emiten las «Instrucciones del gestor de la infraestructura para garantizar un tráfico
+ferroviario fluido y seguro», que se colocan en el «Portal de explotación de la infraestructura». En su
+respuesta a las consultas del transportista ČD, el gestor de la infraestructura indica que el cambio en el
+modo de señalización fue discutido con la dirección, que la modificación de los TTP de la línea 713B
+Plzeň – Cheb se presentó en el plazo ordinario, que el método y la metodología de elaboración de la
+modificación de TTP presuponen la puesta en conocimiento demostrable de todos los interesados con la
+modificación concreta, y que desde el punto de vista del gestor de la infraestructura no es del todo posible
+atender cada petición individual de garantizar un control de varios niveles, y compara la situación de
+explotación en el ferrocarril con la situación de explotación en la carretera. Según
 
 ## Página 73
 
-del operador de la infraestructura «es algo equivalente a cuando quiera afirmar al conductor de un automóvil que pasó por alto un cambio en la regulación de un cruce, a pesar de que está correctamente señalizado, y que, dada la preocupación por la posibilidad de que pase por alto, preferiremos proceder a informar de forma duplicada y repetida a todos los trenes de una limitación que puede resolverse de otra manera». Aunque no queda del todo claro, a partir de la afirmación anterior, qué se pretendía exactamente con esta comparación, y en la respuesta del operador de la infraestructura tampoco se indica de qué otra manera puede resolverse el problema que describe, es evidente que no es pertinente comparar el transporte por carretera y el ferroviario. Probablemente no sea necesario detallar aquí las especificidades y las diferencias entre ambos tipos de transporte. El propio hecho de que, cuando se producen accidentes graves en el ferrocarril, sin que se reduzca el impacto y las consecuencias de los accidentes por carretera, las consecuencias suelen ser incomparablemente mayores, exige garantizar un nivel de seguridad multinivel. En cuanto al número de elementos de seguridad relacionados concretamente con el paso de una limitación temporal a una limitación permanente de la velocidad en vía, no se puede estar totalmente de acuerdo tampoco con la afirmación del transportista de que, con el procedimiento del operador de la infraestructura, «llegó a una situación en la que antes, con la existencia de la marcha lenta, la percepción de una reducción tan drástica por parte del maquinista estaba garantizada de dos maneras, a saber, por orden escrita y por señales en la vía; ahora se ha eliminado una de las salvaguardias, la orden escrita». Al implantar una limitación permanente de la velocidad en vía, las señales fijas con indicaciones de marcha lenta se sustituyen por señales fijas con indicaciones de la velocidad en vía, y la notificación verificable por orden escrita se sustituye por los datos en el TTP (incluida la información sobre los cambios en el TTP), en los que se indican datos que tienen una influencia directa en la seguridad y la continuidad del transporte ferroviario. La importancia del TTP en la organización del transporte ferroviario, por tanto, en ningún caso puede ponerse en duda; por otro lado, tampoco puede sobrevalorarse el hecho de que la información a los maquinistas sobre el cambio de las condiciones operativas relacionado con el paso de una limitación temporal a una limitación permanente de la velocidad en vía «únicamente» a través del TTP y mediante la colocación de señales fijas con indicaciones de la velocidad en vía sea una solución ideal y la única posible. Tampoco puede sostenerse el argumento de que no se puede atender a cada petición individual, ya que el transportista ČD es, por un lado, efectivamente solo uno de los transportistas, pero, por otro lado, en las condiciones de la República Checa es el transportista claramente más grande y, en la mencionada línea Plzeň hlavní nádraží – Cheb, además con el volumen de transporte claramente más alto. Por ello, mayor debería ser el esfuerzo del operador de la infraestructura por ocuparse de la calidad y la cantidad de los elementos de seguridad en relación con el peligro y el riesgo potencial identificados, en conexión con los procedimientos generales declarados para la creación e implantación de medidas de prevención de riesgos, en este caso concreto, y ello especialmente en atención al hecho de que, según la comunicación del transportista, varios maquinistas ya le llamaron la atención sobre ello durante la operación normal del día 16. 7. 2019, es decir, poco después de la anulación de la limitación temporal y la implantación de la limitación permanente de la velocidad en vía el día 15. 7. 2019. Según la opinión del operador de la infraestructura, además, «las órdenes propias no resuelven nada fundamental y se llega e incluso se reciben consultas tales de que, si se indican una gran cantidad de marchas lentas, los despachos individuales son confusos y, en general, mal aceptables para los maquinistas». El análisis de la importancia de la notificación verificable por orden escrita en general y concretamente en relación con el cambio de la limitación temporal a la limitación permanente de la velocidad en vía en el pk 422,060 a 422,300 en el tramo entre estaciones Chodová Planá – Mariánské Lázně, y de los motivos por los que se producen estos cambios, incluso en los casos en que, desde el punto de vista de la temporalidad, no se trata de un estado permanente, se indica en otro lugar de este análisis. La argumentación del operador de la infraestructura relativa a la confusión de las órdenes escritas al indicar una gran cantidad de marchas lentas, sin embargo, puede ser engañosa para los menos conocedores, hasta el punto de una comprensión errónea de que los cambios de la limitación temporal a la limitación permanente de la velocidad en vía podrían producirse de forma interesada en interés de la claridad de los despachos individuales. No es así, pero desde el punto de vista del sistema de garantía de la seguridad y en relación
 
+del operador de la infraestructura «es algo equivalente a cuando quiera afirmar al conductor de un automóvil que pasó por alto un cambio en la regulación de un cruce, a pesar de que está correctamente señalizado, y que, dada la preocupación por la posibilidad de que pase por alto, preferiremos proceder a informar de forma duplicada y repetida a todos los trenes de una limitación que puede resolverse de otra manera». Aunque no queda del todo claro, a partir de la afirmación anterior, qué se pretendía exactamente con esta comparación, y en la respuesta del operador de la infraestructura tampoco se indica de qué otra manera puede resolverse el problema que describe, es evidente que no es pertinente comparar el transporte por carretera y el ferroviario. Probablemente no sea necesario detallar aquí las especificidades y las diferencias entre ambos tipos de transporte. El propio hecho de que, cuando se producen accidentes graves en el ferrocarril, sin que se reduzca el impacto y las consecuencias de los accidentes por carretera, las consecuencias suelen ser incomparablemente mayores, exige garantizar un nivel de seguridad multinivel. En cuanto al número de elementos de seguridad relacionados concretamente con el paso de una limitación temporal a una limitación permanente de la velocidad en vía, no se puede estar totalmente de acuerdo tampoco con la afirmación del transportista de que, con el procedimiento del operador de la infraestructura, «llegó a una situación en la que antes, con la existencia de la marcha lenta, la percepción de una reducción tan drástica por parte del maquinista estaba garantizada de dos maneras, a saber, por orden escrita y por señales en la vía; ahora se ha eliminado una de las salvaguardias, la orden escrita». Al implantar una limitación permanente de la velocidad en vía, las señales fijas con indicaciones de marcha lenta se sustituyen por señales fijas con indicaciones de la velocidad en vía, y la notificación verificable por orden escrita se sustituye por los datos en el TTP (incluida la información sobre los cambios en el TTP), en los que se indican datos que tienen una influencia directa en la seguridad y la continuidad del transporte ferroviario. La importancia del TTP en la organización del transporte ferroviario, por tanto, en ningún caso puede ponerse en duda; por otro lado, tampoco puede sobrevalorarse el hecho de que la información a los maquinistas sobre el cambio de las condiciones operativas relacionado con el paso de una limitación temporal a una limitación permanente de la velocidad en vía «únicamente» a través del TTP y mediante la colocación de señales fijas con indicaciones de la velocidad en vía sea una solución ideal y la única posible. Tampoco puede sostenerse el argumento de que no se puede atender a cada petición individual, ya que el transportista ČD es, por un lado, efectivamente solo uno de los transportistas, pero, por otro lado, en las condiciones de la República Checa es el transportista claramente más grande y, en la mencionada línea Plzeň hlavní nádraží – Cheb, además con el volumen de transporte claramente más alto. Por ello, mayor debería ser el esfuerzo del operador de la infraestructura por ocuparse de la calidad y la cantidad de los elementos de seguridad en relación con el peligro y el riesgo potencial identificados, en conexión con los procedimientos generales declarados para la creación e implantación de medidas de prevención de riesgos, en este caso concreto, y ello especialmente en atención al hecho de que, según la comunicación del transportista, varios maquinistas ya le llamaron la atención sobre ello durante la operación normal del día 16. 7. 2019, es decir, poco después de la anulación de la limitación temporal y la implantación de la limitación permanente de la velocidad en vía el día 15. 7. 2019. Según la opinión del operador de la infraestructura, además, «las órdenes propias no resuelven nada fundamental y se llega e incluso se reciben consultas tales de que, si se indican una gran cantidad de marchas lentas, los despachos individuales son confusos y, en general, mal aceptables para los maquinistas». El análisis de la importancia de la notificación verificable por orden escrita en general y concretamente en relación con el cambio de la limitación temporal a la limitación permanente de la velocidad en vía en el pk 422,060 a 422,300 en el tramo entre estaciones Chodová Planá – Mariánské Lázně, y de los motivos por los que se producen estos cambios, incluso en los casos en que, desde el punto de vista de la temporalidad, no se trata de un estado permanente, se indica en otro lugar de este análisis. La argumentación del operador de la infraestructura relativa a la confusión de las órdenes escritas al indicar una gran cantidad de marchas lentas, sin embargo, puede ser engañosa para los menos conocedores, hasta el punto de una comprensión errónea de que los cambios de la limitación temporal a la limitación permanente de la velocidad en vía podrían producirse de forma interesada en interés de la claridad de los despachos individuales. No es así, pero desde el punto de vista del sistema de garantía de la seguridad y en relación
 
 ## Página 74
 
+
 con la posible confusión de las órdenes escritas debido a la indicación de una gran cantidad de marchas lentas, es necesario indicar que en el art. 3261 de la norma interna de la SŽDC D1 el operador de la infraestructura tiene establecido, entre otras cosas, que: «las órdenes escritas deben ser claras, breves y bien legibles en todas las copias, de modo que se excluyan errores y dudas»; en otras palabras, es obligación del operador de la infraestructura garantizar que las órdenes escritas sean claras y bien aceptables para los maquinistas, lo que ciertamente, también en atención a la posibilidad de utilizar las tecnologías modernas actuales, está a su alcance. La confusión de las órdenes escritas puede, así, también en atención a la distinta importancia de la información transmitida, residir más en su estructura y en su forma gráfica que en su extensión. La polémica sobre la confusión de las órdenes escritas en este caso concreto no tiene sentido, ya que en el día de producción de la MU objeto de estudio, los maquinistas, antes de circular en el tramo Plzeň hlavní nádraží – Cheb, fueron informados por orden escrita únicamente de cinco marchas lentas, de las cuales tres se encontraban entre las estaciones mencionadas. El operador de la infraestructura, a partir de los hallazgos en la obra, deduce además que «la notificación por orden escrita para los maquinistas no significa que el 100% deba reducir la velocidad; pueden encontrarse y documentarse casos en los que no se cumplió la reducción de velocidad prescrita a pesar de que el tren fue notificado y en la vía se hubiera instalado el equipamiento correspondiente, incluso en el lugar concreto del cambio de trazado de la vía». A esto solo puede añadirse que, si el operador de la infraestructura disponía de información documentable sobre el incumplimiento de la reducción de velocidad prescrita, incluso en el lugar concreto del cambio de trazado (lugar de producción de la MU), era su obligación posterior, también en relación con su propia identificación del peligro y el cálculo del valor (grado) de riesgo relacionado con la actividad de los empleados de los transportistas, abordar esta infracción grave de los principios de seguridad con el propio transportista y, en caso de su respuesta inadecuada, con la Oficina Ferroviaria (Drážní úřad), que dispone, en relación con los operadores de la infraestructura, desde la posición de organismo nacional de seguridad, de facultades suficientes para lograr la corrección. El propio hecho de que, según su afirmación, no se producía la reducción de velocidad prescrita, debería ser suficientemente alarmante para el operador de la infraestructura, también en atención a otras posibles razones, derivadas, por ejemplo, de condiciones locales específicas, para que volviera a verificar el estado. A esto, sin embargo, claramente no se procedió y, en lugar de la colaboración mutua, que se estableció como una de las medidas de seguridad en relación con el riesgo identificado, este hallazgo, del que, a diferencia del operador de la infraestructura, la Inspección Ferroviaria (Drážní inspekce) no tiene ninguna prueba, se utilizó únicamente en el marco de la respuesta a la solicitud del transportista ČD de verificar el estado, la posible corrección y la adopción de medidas eficaces. Al final de su respuesta, el operador de la infraestructura informó al transportista de que «del tratamiento general del terraplén deduce que el cambio de la marcha lenta a “velocidades de línea” puede mantenerse». Sobre la base de qué procedimientos y métodos, también en relación con la evaluación y el tratamiento de los riesgos posibles, decidió así, ya no se deduce de su respuesta. El propio hecho de que el mencionado cambio de trazado se encuentre en un terraplén de hasta nueve metros de altura, en el que la vía ferroviaria forma un paso superior sobre la circunvalación en construcción y, en el caso de la MU producida, en caso de descarrilamiento en marcha del tren, amenazaría la caída de los vehículos ferroviarios con consecuencias mucho mayores, es una argumentación suficiente para que se abordara de otra manera dicho hallazgo. De ello, por lo demás, desde el punto de vista de las consecuencias consistentes en daños de considerable magnitud, dio fe el propio origen de este accidente grave. De la respuesta anterior del operador de la infraestructura, tomada en su conjunto, no queda claro de qué manera se realizó concretamente la evaluación del peligro y el riesgo potencial identificados y sobre la base de qué experiencias, procedimientos y métodos llegó a las conclusiones mencionadas. De la respuesta anterior del operador de la infraestructura y de su respuesta a la solicitud de la DI, en este caso concreto se evidencia su falta de voluntad para resolver posibles problemas, peligros o riesgos identificados por alguien de otra manera que no fuera dentro del código de buenas prácticas por él establecido. En la práctica, en la que es necesario evaluar operativamente el estado dado y resolverlo de forma mutua, se apoya únicamente
 
-
 ## Página 75
+
 
 en la práctica habitual, en las disposiciones de la normativa legal vigente, en las normas y en los procedimientos tecnológicos indicados en sus propias normas internas.
 
@@ -2225,6 +2256,7 @@ En relación con lo anterior, tampoco fue correcto el procedimiento posterior de
 La Inspección Ferroviaria (Drážní inspekce) solicitó además la aportación de documentos concretos relativos a la decisión del operador de la infraestructura de realizar el cambio de la limitación temporal a la limitación permanente de la velocidad en vía en el pk 422,060 a 422,300 en el tramo entre estaciones Chodová Planá – Mariánské Lázně, indicada en el TTP 713B, de acuerdo con el documento del operador de la infraestructura «Instrucción del director general n.º 6/2013 – Determinación del procedimiento administrativo en el cambio de la velocidad en vía», n.º de expediente S 7436/2013-OP de fecha 6 de marzo de 2013 con efectos desde
 
 ## Página 76
+
 
 11 de marzo de 2013. Concretamente, en relación con la solicitud de implantación de una limitación permanente de la velocidad en vía, se trataba de los siguientes documentos:
 • solicitud – justificación de la solicitud desde el punto de vista técnico, constructivo, económico y legislativo;
@@ -2241,8 +2273,8 @@ En relación con lo anterior y en el marco de una explicación adicional, el ges
 • Para las necesidades de la gestión ordinaria de la vía y atendiendo a la evolución posible y previsible en la obra, el gestor de la vía esperaba que en las partes de la desviación pudiera surgir, debido al asentamiento del material o a circunstancias derivadas de la continuación de los trabajos, la necesidad de una limitación adicional o local de la velocidad. Atendiendo a este hecho y a la evolución posterior de los trabajos de construcción, el cambio de la marcha lenta de 30 km.h-1 a señales de velocidad clásicas fue una ventaja para garantizar la explotabilidad de la vía.
 La Inspección Ferroviaria, respecto a lo comunicado anteriormente, constata que el gestor de la vía se contradice en sus propias afirmaciones. Si «el medio de implantación de una limitación permanente de la velocidad en vía se utiliza en los casos en que los parámetros del tramo de vía están definidos conforme a la documentación aprobada y, debido a la explotación, se producen deformaciones
 
-
 ## Página 77
+
 
 del carril, cambios de los parámetros operativos, ...» y, en contraste con la afirmación, se trata además de una obra en la que «la hipótesis original de ejecución de la obra, conforme al plan anual de vías muertas aprobado, era que la modificación de los parámetros sería permanente hasta la eliminación de la desviación, originalmente prevista para el 19. 4. 2020», siendo así que «atendiendo a la evolución posible y previsible en la obra, el gestor de la vía esperaba que en las partes de la desviación pudiera surgir, debido al asentamiento del material o a circunstancias derivadas de la continuación de los trabajos, la necesidad de una limitación adicional o local de la velocidad», no puede considerarse que esta declaración del gestor sea continua y lógica. El principio lógico de la implantación de una reducción permanente de la velocidad en vía son las razones derivadas de modificaciones permanentes de la infraestructura. Esto es lo que el propio gestor de la vía intenta defender en su declaración escrita a la Inspección Ferroviaria, pero mediante afirmaciones mutuamente contradictorias y sin argumentación lógica. Utilizar la implantación de una limitación permanente de la velocidad en vía allí donde objetivamente se trata de inversiones o trabajos de reparación cuyo resultado no es una modificación permanente del estado de la infraestructura, sino un retorno claramente previsible al estado original de la vía tras su finalización, es cuanto menos engañoso.
 La Inspección Ferroviaria constata asimismo que tampoco fue en interés de la explotación segura de la vía y del transporte ferroviario la decisión del gestor de la vía de no aplicar, para este caso concreto de cambio de una limitación temporal de la velocidad en vía ya implantada a una limitación permanente de la velocidad en vía, su propio documento mencionado «Instrucción del Director General n.º 6/2013 – Establecimiento del procedimiento administrativo en la modificación de la velocidad en vía», ya que con ello no se realizó ni se documentó la justificación desde el punto de vista técnico, constructivo, económico y legislativo. Además, no se aportaron documentos de las actuaciones, verificaciones y resultados de medición relacionados y que respaldan esta decisión, incluida la información y los documentos de las medidas de la dirección regional.
@@ -2250,8 +2282,8 @@ Tampoco es del todo clara la argumentación de que la mencionada «Instrucción 
 Tampoco puede considerarse que la otra afirmación del gestor de la vía, de que «en el marco de la obra se produjeron modificaciones de los parámetros técnicos de la vía, al producirse, tras la ejecución de la desviación temporal formada por tres curvas en sentido contrario, una limitación de la velocidad a 30 km.h-1 y, sobre la base de la verificación de la explotabilidad de la vía mediante el acta aportada de la prueba de seguridad técnica, la puesta en servicio de prueba de la nueva parte de la vía», constituya una afirmación que justifique la necesidad del cambio de una limitación temporal a una limitación permanente, y ello principalmente atendiendo al hecho de que, en la construcción de la variante, se planificaron, por etapas sucesivas, modificaciones adicionales en el trazado de la vía y, posteriormente (tras la finalización de los trabajos necesarios relacionados con dicha construcción, incluida la eliminación de las curvas en sentido contrario que limitaron de forma fundamental, aunque temporal, el transporte ferroviario), también el retorno de esta parte de la vía a su posición original.
 Atendiendo al hecho de que la limitación de la velocidad en vía, ya sea temporal o permanente, es numéricamente idéntica, de todos estos comunicados administrativos y polémicas relacionados con la persistencia del gestor de la vía en su afirmación sobre la necesidad de reducir la velocidad en vía «de forma permanente», tras la reducción de velocidad ya implantada «de forma temporal»,
 
-
 ## Página 78
+
 
 permanece como único motivo un motivo oculto. Para el gestor de la vía, la posibilidad de pasar de una limitación temporal a una limitación permanente de la velocidad en vía no está restringida por ninguna norma legal ni interna, por lo que para la Inspección Ferroviaria es muy difícil describir y, sobre todo, probar su verdadera motivación para la supresión de la marcha lenta y, con ello, la finalización de la información a los maquinistas mediante orden escrita y la implantación de la velocidad en vía, a pesar de que, en relación con la construcción de la variante, se trata de modificaciones temporales.
 De la respuesta escrita no se deduce en absoluto de qué experiencia con la limitación de la velocidad máxima en vía practicada en el ámbito de la actividad propia del gestor partió la decisión del gestor de la vía, ni en qué, atendiendo a su argumentación mencionada anteriormente y a la evolución posterior de los trabajos de construcción, el cambio de la marcha lenta de 30 km.h-1 a la velocidad en vía de 30 km.h-1 fue una ventaja para garantizar la explotabilidad de la vía.
@@ -2261,6 +2293,7 @@ La investigación de la Inspección Ferroviaria detectó asimismo, en el tramo e
 Respecto a los documentos solicitados sobre la distribución de las señales fijas relacionadas con el cambio de una limitación temporal a una limitación permanente de la velocidad en el tramo entre estaciones Chodová Planá – Mariánské Lázně, incluido el documento de evaluación de su correcta ubicación en relación con las señales fijas ya instaladas previamente que informan a las personas que conducen el vehículo ferroviario sobre la velocidad en vía, el gestor de la vía envió una interpretación en la que el gestor de la norma interna SŽDC D1 respondió a dos cuestiones formuladas por el Departamento de Seguridad de la Explotación de la Vía de SŽDC. A la primera cuestión planteada, sobre si está prohibido ubicar otras señales de preaviso o de velocidad entre la señal de preaviso N con el dígito 3 y la señal de velocidad N con el dígito 30, comunicó, entre otras cosas, que la norma SŽDC D1 no lo prohíbe expresamente, y a continuación abordó únicamente las combinaciones de ubicación de señales fijas para vehículos con cajas inclinables, lo cual no es aplicable a la MU en cuestión. A la segunda cuestión relativa a la determinación de la distancia entre la señal de preaviso N y la señal de velocidad N, se indicó que la ubicación de las señales de preaviso se rige por la velocidad máxima en vía indicada en el TTP. Si la ubicación de otras señales fijas de velocidad con la indicación «Velocidad en vía» entre la mencionada señal de preaviso N y la señal de velocidad N constituye, desde el punto de vista de la seguridad para las personas que conducen el vehículo ferroviario, un riesgo o no, no se indicó en la interpretación del gestor, ni se dedujo de su contexto de ninguna manera.
 
 ## Página 79
+
 
 El explotador de la vía tiene en su reglamento interno SŽDC D1 Reglamento de circulación y de señales los siguientes procedimientos tecnológicos:
 - artículo 118. – La preseñalización es la actividad en la que se da una instrucción que advierte sobre la señal que va a seguirse.
@@ -2274,19 +2307,18 @@ d) 1550 m – para líneas con velocidad superior a 120 km/h hasta 160 km/h, si 
 Dada la velocidad en la línea, el explotador de la vía tenía la obligación de colocar la señal fija preseñalizador N con la señal de velocidad de vía «Espere la velocidad de vía» con el dígito «3» antes del indicador de velocidad N con la señal «Velocidad de vía» con el dígito «30» en el pk 422,067 a una distancia de 1550 m. El explotador de la vía cumplió esta obligación, que también se deriva de la legislación vigente. Por otro lado, sin embargo, es problemática la correcta interpretación de todas las disposiciones anteriores en relación con los demás indicadores de velocidad que, dadas las condiciones de la línea, se encuentran entre el preseñalizador y el indicador de velocidad para el que rige dicho preseñalizador, ya que no se cumple de hecho el requisito de que el preseñalizador preseñalice la velocidad de vía desde el indicador de velocidad siguiente más próximo. Aunque, por la lógica de la cuestión y las distancias establecidas para la colocación de preseñalizadores e indicadores de velocidad, puede entenderse que el preseñalizador preseñaliza la velocidad de vía solo para el indicador de velocidad que se encuentra a la distancia requerida, es necesario, en relación con los artículos mencionados, considerar la colocación de otros indicadores de velocidad entre el preseñalizador y el indicador de velocidad para el que rige dicho preseñalizador, y ello, en ausencia de otras medidas, desde el punto de vista de la garantía de la seguridad, como una situación peligrosa que, bajo determinadas condiciones, puede constituir un riesgo que conduzca a que el maquinista pueda ser inducido a error. El elemento fundamental de seguridad en la explotación de la vía y del transporte ferroviario debe ser la univocidad y la precisión de los procedimientos tecnológicos establecidos. Por ello, según la opinión de la Inspección Ferroviaria, es necesario que el explotador de la vía adopte una medida que elimine dicha situación peligrosa y el posible riesgo, o bien lo limite de tal manera que el maquinista no pueda ser inducido a error en ninguna circunstancia. Con ello debería ir relacionada también la modificación de las disposiciones de los artículos anteriores, de modo que de ellos resulte completamente claro para qué indicador de velocidad rige dicho preseñalizador, y no que esto sea percibido y comprendido únicamente por la lógica de la cuestión.
 La Inspección Ferroviaria solicitó además al transportista ČDC una comunicación escrita y documentación sobre el método de identificación de riesgos del transportista en general, de acuerdo con los reglamentos pertinentes, en los que se establecen los procedimientos y métodos de evaluación del riesgo y de adopción de medidas para la gestión del riesgo, cuando el cambio de las condiciones operativas representa nuevos riesgos para la vía de circulación de la vía o para la explotación del transporte ferroviario, y además, concretamente, documentación sobre la evaluación de los riesgos y las medidas adoptadas para la gestión de los riesgos relacionados con el cambio del método de informar a
 
-
 ## Página 80
 
-los maquinistas sobre los cambios en los parámetros constructivo-técnicos de las vías y los cambios en las TTP:
-- originalmente solo a través del Libro de normas contra firma, y posteriormente también mediante el procedimiento según la Medida n.º 0029/2016 del Director de Explotación de ČD Cargo «Hoja informativa de cambios en las TTP – explotación de prueba con vigencia desde el 1. 6. 2016», cuando esta explotación de prueba se llevó a cabo junto con la información sobre los cambios en los parámetros constructivo-técnicos de las vías y los cambios en las TTP también a través del Libro de normas;
-- a través del dispositivo electrónico (tableta) asignado en el marco de la explotación de verificación «Digitalización de maquinistas» según la orden del transportista «Administración de documentación controlada – Digitalización de maquinistas» con vigencia desde el 1. 4. 2019, incluida la aportación de información sobre la forma en que se informó a los maquinistas del cambio fundamental en el método de información sobre los cambios en los parámetros constructivo-técnicos de las vías y los cambios en las TTP, únicamente a través de la tableta y no ya a través del Libro de normas;
-- medida del transportista sobre la evaluación de la idoneidad de este método de llevar a cabo la información de los maquinistas sobre los cambios en los parámetros constructivo-técnicos de las vías, los cambios en las TTP, etc., incluida la evaluación de la exclusión de la posibilidad de riesgo de error del maquinista debido a la posible falta de claridad de los cambios individuales insertados en relación con su diferenciación de los datos existentes, su tamaño y su número.
-De la respuesta a la solicitud de la Inspección Ferroviaria se desprende que la cuestión de la evaluación de riesgos en el transportista ČDC se resuelve sobre la base de la Medida n.º 0002/2015 del Presidente del Consejo de Administración de ČD Cargo, a.s., Declaración de Seguridad, vigente desde el 15. 9. 2015, donde, entre otros, se indica que el propósito de esta Medida es establecer los procedimientos de ČDC para la presentación de la solicitud de aprobación o notificación de cambio del sistema ferroviario a la Autoridad Ferroviaria de la RČ, cuyo objeto es la modificación de las normas internas del transportista relacionada con la entrada en vigor del Reglamento Delegado de la Comisión (UE) n.º 402/2013 y la emisión de la Guía Metodológica de la AU sobre dicho reglamento. El contenido de esta Medida es ya «solo» la determinación de las tareas y procedimientos relacionados con la elaboración de la presentación de la solicitud de aprobación o notificación de cambio del sistema ferroviario y la gestión del Registro de Declaraciones del Proponente de Seguridad de ČDC. Dado que en estos procedimientos se indica, entre otros, que el equipo de empleados responsable de la elaboración del documento destinado a su envío a la Autoridad Ferroviaria de la RČ realizará la evaluación y valoración de los riesgos y elaborará el tipo correspondiente de Declaración del Proponente de Seguridad, puede presumirse que el transportista ČDC se ha ocupado de la cuestión de la evaluación de riesgos de alguna manera, sin embargo, no presentó ningún otro documento en el que constara el método de evaluación de riesgos, incluida su enumeración, la indicación de los procedimientos generales y, para las áreas establecidas, también específicos para la adopción de medidas de prevención de riesgos y también los procedimientos para el seguimiento de su eficacia.
-Atendiendo al hecho de que la mencionada presentación de la solicitud de aprobación o notificación de cambio del sistema ferroviario a la Autoridad Ferroviaria de la RČ se refiere a la modificación de las normas internas del transportista, puede presumirse que la principal herramienta en la gestión de riesgos es también para el transportista ČDC la utilización del denominado código de buenas prácticas, es decir, un conjunto escrito de reglas establecidas en sus reglamentos internos.
-Según los procedimientos tecnológicos establecidos en la norma interna del transportista PERs28-B-2009 Reglamento de pruebas y formación, el Libro de información («de normas») es una forma de documentación gestionada en el puesto de trabajo correspondiente designado por el Director de la Unidad de la estructura organizativa sobre la información demostrable de los empleados de ČDC sobre las TNP (término común para las normas técnicas ferroviarias, las normas internas de ČDC y, en su caso, otros documentos de carácter similar) y otros documentos que contengan información relacionada con el desempeño de la actividad. El registro puede ser sustituido por una aplicación electrónica.
-
+de los maquinistas con cambios en los parámetros técnicos de construcción de las vías y cambios en las TTP:
+- originalmente solo a través del Libro de normas con firma, posteriormente también mediante el procedimiento según la Medida n.º 0029/2016 del Director de Explotación de ČD Cargo "Hoja informativa de cambios en las TTP – explotación de prueba con vigencia desde el 1 de junio de 2016, cuando esta explotación de prueba se llevó a cabo junto con la información sobre los cambios en los parámetros técnicos de construcción de las vías y cambios en las TTP también a través del Libro de normas;
+- a través del dispositivo electrónico asignado (tableta) en el marco de la explotación de verificación "Digitalización de los maquinistas" según la orden del transportista "Administración de documentación controlada – Digitalización de los maquinistas" con vigencia desde el 1 de abril de 2019, incluida la información sobre cómo se informó a los maquinistas del cambio fundamental en el modo de información sobre los cambios en los parámetros técnicos de construcción de las vías y cambios en las TTP solo a través de la tableta y ya no a través del Libro de normas;
+- medida del transportista sobre la evaluación de la idoneidad de este modo de llevar a cabo la información de los maquinistas sobre los cambios en los parámetros técnicos de construcción de las vías, cambios en las TTP, etc., incluida la evaluación de la exclusión de la posibilidad de error del maquinista debido a la posible falta de claridad de los cambios individuales insertados en relación con su diferenciación de los datos existentes, su tamaño y su número.
+De la respuesta a la solicitud de la Inspección Ferroviaria se desprende que la cuestión de la evaluación de riesgos en el transportista ČDC se resuelve según la Medida n.º 0002/2015 del Presidente del Consejo de Administración de ČD Cargo, a.s., Declaración de Seguridad, vigente desde el 15 de septiembre de 2015, donde se indica, entre otras cosas, que el propósito de esta Medida es establecer los procedimientos de ČDC para la presentación de la solicitud de aprobación o notificación de cambio del sistema ferroviario ante la Autoridad Ferroviaria de la República Checa, cuyo objeto es la modificación de las normas internas del transportista relacionada con la entrada en vigor del Reglamento Delegado de la Comisión (UE) n.º 402/2013 y la emisión de la Guía Metodológica de la AFRC para dicho reglamento. Otro contenido de esta Medida es "solo" el establecimiento de tareas y procedimientos relacionados con la elaboración de la presentación de la solicitud de aprobación o notificación de cambio del sistema ferroviario y la gestión del Registro de Declaraciones del Proponente sobre Seguridad de ČDC. Dado que en estos procedimientos se indica, entre otras cosas, que el equipo de empleados responsable de la elaboración del documento destinado a su envío a la Autoridad Ferroviaria de la República Checa realizará la evaluación y valoración de riesgos y elaborará el tipo correspondiente de Declaración del Proponente sobre Seguridad, puede suponerse que el transportista ČDC se ha ocupado de alguna manera de la cuestión de la evaluación de riesgos, sin embargo, no presentó ningún otro documento en el que se indicara el modo de evaluación de riesgos, incluida su enumeración, la indicación de procedimientos generales y, para las áreas establecidas, también concretos para la implantación de medidas de prevención de riesgos y también procedimientos para el seguimiento de su eficacia.
+Atendiendo al hecho de que la mencionada presentación de la solicitud de aprobación o notificación de cambio del sistema ferroviario ante la Autoridad Ferroviaria de la República Checa se refiere a la modificación de las normas internas del transportista, puede suponerse que la principal herramienta en la gestión de riesgos es también para el transportista ČDC el uso del denominado código de buenas prácticas, es decir, un conjunto escrito de reglas establecidas en sus normas internas.
+Según los procedimientos tecnológicos indicados en la norma interna del transportista PERs28-B-2009 Reglamento de Pruebas y Formación, el Libro de información ("de normas") es una forma de documentación llevada en el centro de trabajo correspondiente designado por el Director de la Unidad de la Estructura Organizativa sobre la información demostrable de los empleados de ČDC sobre las TNP (término común para las normas técnicas ferroviarias, las normas internas de ČDC y, en su caso, otros documentos de carácter similar) y otros documentos que contengan información relacionada con el desempeño de la actividad. El registro puede ser sustituido por una aplicación electrónica.
 
 ## Página 81
+
 
 En relación con la evaluación de los riesgos y las medidas adoptadas para la gestión de los riesgos relativos al cambio del método de información de los maquinistas sobre los cambios en los parámetros constructivo-técnicos de las vías y los cambios en las TTP, el transportista ČDC indicó en su respuesta a la solicitud de la DI, entre otros, que, dado que esta etapa parcial de la explotación de verificación «Digitalización de maquinistas» no fue definida como un cambio del sistema ferroviario en el sentido del Reglamento Delegado (UE) n.º 402/2013, no se aplicó el procedimiento en el sentido de dicho reglamento. El transportista ČDC aclaró además que no se produjo un cambio en el método de información de los maquinistas sobre los cambios en los parámetros constructivo-técnicos de las vías y los cambios en las TTP, sino que solo se produjo un cambio en el dispositivo de visualización, cuando el maquinista se informa de los propios documentos modificados a través de la tableta en lugar del PC original en los puestos de servicio de los maquinistas, y ello con todas las consecuencias positivas del dispositivo de visualización móvil con conexión a internet, cuando el maquinista no se ve limitado a la hora de informarse de los cambios por el puesto de servicio y el tiempo asignado, pudiendo informarse de los cambios con antelación o aprovechar los descansos y los tiempos improductivos durante el turno.
 Al respecto, la Inspección Ferroviaria constata que en la mencionada Guía Metodológica de la AU, a la que el transportista ČDC hace referencia en su Medida n.º 0002/2015 del Presidente del Consejo de Administración de ČD Cargo, a.s., Declaración de Seguridad, se indica, entre otros, que:
@@ -2300,27 +2332,75 @@ Sin embargo, de la respuesta del transportista ČDC a la solicitud de la Inspecc
 
 ## Página 82
 
+
 normalmente se basan únicamente en decisiones subjetivas, y en su mayoría negativas, de los propios gestores.
 A la solicitud de información sobre si, en interés de la explotación segura del transporte ferroviario, el gestor evalúa la claridad de las condiciones de explotación modificadas, que representan nuevos riesgos para la vía de circulación o para la explotación del transporte ferroviario, antes de la entrega de dichos cambios a los empleados del gestor para su conocimiento, y si en dicho interés el propio gestor los adecua previamente, en su respuesta el gestor ČDC indicó que la claridad de las condiciones de explotación modificadas, que representan nuevos riesgos para la vía de circulación, es inequívocamente competencia del gestor de la vía, que debería tener, en el marco del Certificado de seguridad del gestor de la vía emitido, un sistema implantado de garantía de la seguridad de la explotación de la vía, siendo que la forma y el modo de transmisión de la información sobre las condiciones de explotación modificadas a los empleados del gestor deberían formar parte de él y deberían estar en interés de la explotación segura del transporte ferroviario. Según la opinión del gestor, cualquier elemento adicional por el cual el empleado del gestor que evalúa y modifica documentos aprobados y emitidos por el gestor de la vía fuera a intervenir, genera el riesgo de un error posible que puede conllevar retrasos en el tiempo o el no conocimiento por parte de los empleados de ČDC de los cambios en las condiciones de explotación, y por tanto también la puesta en peligro de la seguridad de la explotación de la vía y del transporte ferroviario. La Inspección Ferroviaria en ningún caso discute sobre las obligaciones y competencias del gestor de la vía y en cierta medida también está de acuerdo con la afirmación de que un elemento adicional inadecuadamente incorporado puede generar en el sistema implantado de garantía de la seguridad el riesgo de un error. La Inspección Ferroviaria tampoco espera que el gestor participe de alguna manera directa en el sistema de garantía de la seguridad del gestor de la vía. El propósito de la consulta era averiguar de qué modo evalúa el gestor los riesgos detectados relacionados con la actividad del gestor de la vía, concretamente no solo en lo que respecta a la pertinencia y corrección de la documentación facilitada, sino también a su claridad, y en particular a los cambios en las TTP, que tienen una influencia directa en la seguridad del transporte ferroviario. Depende principalmente del gestor de la vía y del gestor si, en el marco de la comunicación y cooperación mutuas en la resolución de los problemas surgidos relacionados con la identificación de peligros y riesgos derivados de la interacción mutua en las interfaces entre ambos, contribuyen a elevar el estado de seguridad de forma bilateral, eficaz y mutua, o si se conforman simplemente con la recepción pasiva de información por parte del otro y con señalar las obligaciones de aquellos otros.
 En relación con la evaluación de riesgos, la Inspección Ferroviaria es de la opinión de que, en definitiva, ni siquiera es necesario que el proceso de gestión de riesgos deba evaluarse siempre conforme a la citada Reglamento (UE) nº 402/2013 de la Comisión. Esto es necesario únicamente en el caso de que, sobre la base de la evaluación según los criterios establecidos, el cambio se considere significativo. En el caso de que el cambio no se considere significativo, basta únicamente con conservar la documentación correspondiente en la que se haya justificado tal decisión. De la argumentación del gestor de la vía y del gestor, sin embargo, es evidente que no se lleva a cabo el procedimiento anteriormente indicado, y precisamente normalmente en relación con su decisión de que en absoluto se trata de un cambio de sistema. En el esfuerzo por la elevación continua del nivel de seguridad, lo cual es frecuentemente declarado por los gestores como uno de sus principales objetivos, los gestores deberían, en el marco de sus sistemas de garantía de la seguridad y también como titulares de certificados en el marco del sistema de gestión de la calidad (por ejemplo, ISO 9001), esforzarse por evaluar la significatividad de cualquier cambio que de alguna manera se relacione con la seguridad, y elaborar y conservar documentación al respecto. Esto debería valer también para los casos en que no se trate de riesgos nuevos, puesto que también estos es necesario actualizarlos sobre la base de los conocimientos adquiridos y de la experiencia de explotación.
 
 ## Página 83
 
+
 ### En relación con las actividades de los empleados de los gestores, el cambio de las condiciones de explotación relacionado con la construcción de la variante, la necesidad de una reducción drástica de la velocidad en el lugar del desvío temporal de la línea a 30 km.h-1 y la posterior transición de la restricción temporal a la restricción permanente de la velocidad de la línea en el pk 422,060 a 422,300 en el tramo entre estaciones Chodová Planá – Mariánské Lázně fue, desde el punto de vista de la seguridad, un cambio fundamental.
 Del modo en que prestó servicio el maquinista del tren Pn 64520, y también en consideración a que transcurridos casi siete meses volvió a circular por la citada línea y que por tanto no tenía por qué ser consciente de la restricción temporal de la velocidad de la línea anteriormente implantada en el tramo en cuestión, se puede deducir que el informar a la persona que conduce el vehículo ferroviario de una reducción tan fundamental de la velocidad de la línea «únicamente» administrativamente a través de las TTP y mediante la colocación de un solo señal fijo, y concretamente el preseñal en la vía al aire libre a la distancia establecida antes del señal de velocidad, ante el cual una posible reacción adicional ante la reducción drástica de la velocidad ya carece casi de objeto, acredita la fundadez de las preocupaciones de los maquinistas y también de su expectativa de las medidas correspondientes por parte del gestor de la vía. Aprovechando esta ocasión, es necesario indicar que existen también otros posibles riesgos actuantes que podrían contribuir a la posibilidad de pasar por alto los señales fijos. Este puede ser la visibilidad reducida debido a condiciones meteorológicas adversas. La posible omisión de los señales fijos puede relacionarse también con otras actividades de explotación, como las conversaciones relacionadas con la organización del transporte ferroviario, el mando y la comprobación de los elementos de mando e indicación en la HDV, la consulta al TJŘ o la posible alteración de la atención del maquinista por cualquier otra influencia externa del entorno. Aunque el citado maquinista es un empleado experimentado y, en lo que respecta a la actividad de control realizada relacionada con su prestación de servicio, también sin problemas, la investigación de la Inspección Ferroviaria acreditó que ante el señal fijo preseñal N con la señal para la velocidad de la línea «Espere velocidad de la línea» con el dígito «3», ya fuera por cualquier motivo, no reaccionó adecuadamente, porque continuó circulando sin la reducción de velocidad necesaria, y ello hasta la distancia de 35 m antes del señal N con la señal «Velocidad de la línea» con el dígito «30», donde con el inicio del frenado continuo y posteriormente también con la aplicación del frenado de acción rápida llegó su reacción ante la situación surgida. De lo anteriormente indicado, y también en consideración a su reacción inmediata justo después de la aparición de la MU, cuando en el marco de la conversación con la despachadora de línea indicó: «…yo en la orden no recibí marcha lenta, que aquí hay treinta, circulo y empecé a frenar en el último momento…», es evidente que el maquinista del tren Pn 64520 esperaba recibir la información de una reducción tan fundamental de la velocidad en la vía al aire libre a través de una orden escrita. Un hecho no despreciable fue también la circunstancia de que el maquinista del tren Pn 64520 realizó el último trayecto en este tramo aún en el periodo anterior al inicio de la construcción del desvío y a la posterior implantación de la marcha lenta, cuando a los maquinistas se les informaba de la implantación de la restricción temporal de la velocidad de la línea mediante orden escrita. Esto, por otro lado, lo confirma de nuevo otra reacción inmediata del maquinista justo después de la aparición de la MU, cuando en la conversación con la despachadora de línea y su indicación de que: «…ahora ya es velocidad de la línea…», indicó: «…yo no he estado aquí medio año…». Sin que la Inspección Ferroviaria de ninguna manera ponga en duda la importancia del conocimiento de las TTP y de sus cambios, de lo anteriormente indicado y también en consideración al periodo de validez de los conocimientos de las condiciones de la línea del maquinista de un año, cuando es teórica y prácticamente posible que el maquinista circule por la misma línea donde se han producido cambios significativos en los parámetros técnicos de construcción de las obras ferroviarias y de las obras en la vía, que tienen una influencia directa en la seguridad y fluidez de la explotación del transporte ferroviario (es decir, de facto se tratará de una línea completamente distinta a la que el maquinista circuló por última vez), se desprende que el informar de la restricción permanente de la velocidad de la línea únicamente en forma de datos de las TTP, en comparación con el elemento de seguridad consistente
 
 ## Página 84
 
-en el informe demostrable al maquinista mediante orden escrita, y siempre antes de cada trayecto por la línea donde se encuentra el tramo con dicha restricción, se presenta como una pérdida de un elemento de seguridad importante, en lugar de que, para los casos en que se produce una reducción tan fundamental de la velocidad, se encontraran elementos de seguridad adicionales. Dado que es prácticamente imposible utilizar las TTP durante la circulación, y también en consideración al hecho de que además durante la circulación del tren se prefiere el uso directo del TJŘ, se plantea como elemento de seguridad adicional la posibilidad de ampliar el TJŘ con una columna en la que, sobre la base de criterios establecidos, se indicaran los datos seleccionados de las TTP relativos a los lugares en los que, en relación con la restricción permanente, se produce una reducción drástica de la velocidad de la línea. Incluso así, sin embargo, hay que añadir que es necesario que los propios datos indicados en las TTP que señalan una reducción tan fundamental de la velocidad de la línea destaquen de alguna manera por su incorporación al marco general, como datos de advertencia, y no puedan así ser fácilmente pasados por alto por los maquinistas.
-En relación con los conocimientos de las condiciones de la línea, que son válidos durante los 12 meses siguientes a la adquisición de conocimientos de las condiciones de la línea o al último ejercicio autónomo en el tramo de línea correspondiente, cuando con la firma de la «Ficha de conocimiento de la línea» para el periodo siguiente se confirma el conocimiento durante 12 meses desde la adquisición de los conocimientos o, en su caso, desde el último ejercicio autónomo en el tramo correspondiente, y también en consideración a la aparición de esta MU, donde no desempeñó un papel menor la circunstancia de que el maquinista circuló por el tramo en cuestión recién transcurridos casi siete meses, y en consideración a la situación actual en los ferrocarriles checos, cuando cada vez en mayor medida se producen reconstrucciones y optimizaciones de líneas enteras, incluida la construcción de nuevos tramos de las líneas individuales, y con ello también cambios fundamentales relativos a las condiciones de la línea, se plantea también la posibilidad de valorar una eventual reducción del plazo de realización del conocimiento demostrable de las condiciones de la línea en las líneas y en las estaciones para las personas que conducen vehículos ferroviarios.
-Además de la reacción ya indicada en este punto del gestor ČDC a la solicitud de la Inspección Ferroviaria relativa al modo de realización demostrable del conocimiento de las líneas por parte de los maquinistas, y asimismo al modo de realización del conocimiento demostrable por parte de los maquinistas de los cambios en los parámetros técnicos de construcción de las vías que tienen una influencia directa en la seguridad y fluidez del transporte ferroviario, en particular de los cambios en las TTP, la Inspección Ferroviaria realizó, en el marco de la investigación del sistema de garantía de la seguridad para la claridad, un resumen adicional de las disposiciones parciales en las órdenes escritas del gestor relacionadas con la realización del conocimiento por parte de los maquinistas de los cambios en las TTP, esta vez con el propósito de evaluar el posible grado de error de los maquinistas en su suposición de, a través de qué forma o dispositivo, se pueden esperar dichos cambios.
-Se constató:
-Según la información del gestor ČDC, la «Medida nº 29/2016 del Director de Explotación de ČD Cargo – Hoja informativa de cambios en las TTP – cambio nº 1», vigente desde el 1. 6. 2016, sigue siendo el acto de gestión vigente del gestor, incluso después de la implantación de la «Digitalización de maquinistas». Sobre la base de los posteriores actos de gestión de ČDC indicados a continuación, sin embargo, ya no se incorporan al contenido de dicho conocimiento a través del «Libro de normas» los cambios en las TTP.
-El conocimiento de los documentos que eran contenido del Libro de normas lo confirmó con su firma el maquinista del tren Pn 64520, participante en la MU, al inicio del servicio el 28. 7. 2019.
-Sobre la base de la solicitud de la Inspección Ferroviaria, el gestor ČDC comunicó además, entre otras cosas, que:
-• con la «Digitalización de maquinistas» realizada no se produjo un cambio en el modo de conocimiento por parte de los maquinistas de los cambios en los parámetros técnicos de construcción de las vías y de los cambios en las TTP, se produjo únicamente un cambio en el dispositivo de visualización, cuando el maquinista conoce los propios documentos modificados a través de
+v prokazatelném zpravení strojvedoucího písemným rozkazem, a to vždy před každou
+jízdou na trať, kde se úsek s tímto omezením nachází, jeví jako ztráta důležitého
+bezpečnostního prvku, místo toho, aby pro případy, kdy dochází k tak zásadnímu snížení
+rychlosti, byly nalezeny bezpečnostní prvky další. Vzhledem k tomu, že je prakticky
+nemožné používat TTP při jízdě, a to i s ohledem na skutečnost, že je navíc při jízdě vlaku
+upřednostněn k přímému použití TJŘ, nabízí se jako další bezpečnostní prvek zvážení
+možnosti rozšíření TJŘ o sloupek, ve kterém by byly na základě stanovených kritérií
+uváděny vybrané údaje z TTP týkající se míst, ve kterých v souvislosti s trvalým
+omezením dochází k zásadnímu snížení traťové rychlosti. I tak je ale potřeba dodat, že je
+nutné, aby samotné údaje uvedené v TTP, které tak zásadní snížení traťové rychlosti
+udávají, vystupovaly svým způsobem zapracování do celkového rámce, jako údaje
+varovné a nemohly tak být strojvedoucími snadno přehlédnutelné.
+
+Ve vztahu ke znalostem traťových poměrů, které platí po dobu následujících 12
+měsíců od vykonaného poznání traťových poměrů nebo od posledního samostatného
+výkonu na příslušném traťovém úseku, kdy podepsáním „Karty znalosti tratě“ na další
+období se potvrzuje znalost na 12 měsíců od získání znalostí, případně od posledního
+samostatného výkonu na příslušném úseku, a také vzhledem ke vzniku této MU, kde
+nemalou roli hrála i skutečnost, že strojvedoucí jel předmětným úsekem až po téměř
+sedmi měsících a vzhledem k současné situaci na českých železnicích, kdy stále ve větší
+míře dochází k rekonstrukcím a optimalizacím celých tratí, včetně výstavby nových úseků
+jednotlivých tratí, a tím i k zásadním změnám týkajících se traťových poměrů, se nabízí
+i zvážení možnosti případného zkrácení doby provádění prokazatelného seznámení
+s traťovými poměry na tratích a v dopravnách pro osoby řídící drážní vozidlo.
+
+Vedle již v tomto bodě uvedené reakce dopravce ČDC na vyžádání Drážní inspekce
+týkající se způsobu prokazatelného provádění seznání tratí strojvedoucími a dále způsobu
+provádění prokazatelného seznámení strojvedoucích se změnami stavebně technických
+parametrů drah, které mají přímý vliv na bezpečnost a plynulost drážní dopravy, zejména
+se změnami v TTP, provedla dále Drážní inspekce v rámci šetření systému zajišťování
+bezpečnosti pro přehlednost ještě jednou shrnutí dílčích ustanovení v písemných
+nařízeních dopravce souvisejících s prováděním seznamování strojvedoucích se změnami
+v TTP, tentokrát za účelem posouzení možného stupně omylu strojvedoucích v jejich
+předpokladu, prostřednictvím jaké formy popř. zařízení lze tyto změny očekávat.
+
+Bylo zjištěno:
+
+Podle sdělení dopravce ČDC je „Opatření č. 29/2016 Provozního ředitele ČD Cargo
+•
+– Infomační list změn TTP – změna č. 1“ platné od 1. 6. 2016, stále aktuálním
+řídicím aktem dopravce, a to i po zavedení „Elektronizace strojvedoucích“. Na
+základě následných, níže uvedených řídicích aktů ČDC, však již do obsahu tohoto
+### seznámení prostřednictvím „Knihy normálií“ nejsou vkládány změny TTP.
+
+Seznámení s dokumenty, které byly náplní Knihy normálií, stvrdil svým podpisem
+na MU zúčastněný strojvedoucí vlaku Pn 64520 při nástupu služby dne 28. 7. 2019.
+
+Na základě vyžádání Drážní inspekce dopravce ČDC dále mimo jiné sdělil, že
+•
+prováděnou „Elektronizací strojvedoucích“ nedošlo ke změně způsobu
+seznamování strojvedoucích se změnami stavebně technických parametrů drah
+a změnami TTP, došlo pouze ke změně zobrazovacího zařízení, kdy se
+strojvedoucí seznamuje se samotnými změněnými dokumenty prostřednictvím
 
 ## Página 85
+
 
 tabletu.
 V «Medida n.º 9/2019 del Director de Explotación – Administración de documentación controlada –
@@ -2365,8 +2445,8 @@ Mediante la visualización del conjunto de archivos adjuntos en el directorio TT
 al origen de la MU en cuestión, se constató que el conductor de tren no realizó
 la descarga de dichas tablas.
 
-
 ## Página 86
+
 
 ### Mediante la visualización de las informaciones sobre las propiedades del conjunto de documentos Lista de cambios vigentes
 •
@@ -2413,8 +2493,8 @@ un ámbito tan fundamental con influencia directa en la explotación segura del 
 acreditación de la información de los conductores de tren, carece de otro método paralelo, pleno, que
 garantizara una acreditación indiscutible.
 
-
 ## Página 87
+
 
 Como ya se ha indicado, el operador de la vía está obligado a publicar la información sobre todos
 los cambios de la TTP con la suficiente antelación y con el suficiente margen de tiempo, siendo la entrega de dichas
@@ -2461,11 +2541,12 @@ caso, e incluso con la garantía de mantener el cien por cien de anonimato, no s
 
 ## Página 88
 
+
 a este respecto es necesario señalar que el estado de la llamada Cultura de la seguridad no se encuentra todavía en un buen nivel en la República Checa. El concepto de Cultura de la seguridad ya no se entiende en muchos otros países como la mera unión formal de dos palabras de significado indeterminado, por el contrario, la Cultura de la seguridad debe percibirse como un asunto programático y precisamente el aumento de su nivel fue una de las razones para la revisión de la Directiva 2004/49/CE sobre seguridad ferroviaria. En la nueva Directiva (UE) 2016/798 sobre seguridad ferroviaria, del contexto de las disposiciones que se refieren directamente al sistema de gestión de la seguridad se desprende que los gestores de la infraestructura y los transportistas deberían, a través del sistema de gestión de la seguridad, promover una cultura de confianza mutua, seguridad y aprendizaje, en la que se inste a los empleados a contribuir al desarrollo de la seguridad garantizando la confidencialidad. Esta relación entre la dirección de gestión, que debería ser responsable de la seguridad, y los empleados en la explotación, es conocida desde la perspectiva europea bajo el término de cultura justa (equitativa). Se trata de una relación en la que los empleados de explotación no tienen que temer ser castigados o de algún modo sancionados o acusados por los hechos que notifican, ya se refieran a la actividad realizada, a una posible omisión o a una decisión que, ante la existencia de una brecha de seguridad hasta entonces desconocida, podría haber conducido o haya conducido a una situación peligrosa. Sin embargo, al mismo tiempo, no debe tolerarse la negligencia grave ni ninguna infracción intencionada y consciente de las normas establecidas. Es necesario ser conscientes de que precisamente los empleados de explotación son, a la hora de identificar los posibles peligros y riesgos, el elemento de seguridad más importante y que precisamente la correcta configuración de la cultura justa facilita la notificación de posibles estados peligrosos. El resultado del esfuerzo de la Inspección Ferroviaria por establecer contacto con los maquinistas mostró así que, en el entorno checo, todavía no existen buenas condiciones para este método de identificación, descripción y resolución de estados peligrosos, ya sea en general o en relación con la Cultura de la seguridad mencionada anteriormente. Puede suponerse que precisamente el temor a posibles sanciones es, para los empleados de explotación que participan directamente en la explotación, el mayor obstáculo para el intercambio de información relacionada con la identificación de estados peligrosos que se hayan producido durante el desempeño de su empleo. Como ejemplo de una percepción y aplicación incorrecta de la Cultura de la seguridad dentro del sistema de gestión de la seguridad puede servir la redacción en el ya mencionado reglamento interno del gestor de la infraestructura SŽDC Resumen del manual, donde en la parte A. Riesgos relacionados con la actividad del gestor de la infraestructura, en los procedimientos para la creación y aplicación de medidas de prevención de riesgos, entre otros, se indica como uno de los métodos la represión. Este procedimiento, esté dirigido contra quien esté, puede tener algún efecto en los casos en que los empleados infringen intencionada y conscientemente las normas establecidas, pero no como medida de prevención de riesgos, ya sea en general o incluso en relación con la mencionada cultura justa, en la que, como ya se ha indicado, es necesario generar un estado tal que los empleados no tengan temor a una posible sanción al notificar los estados peligrosos detectados. Además, este procedimiento está también en claro contraste con la parte K. Objetivos cualitativos y cuantitativos en el ámbito de la conservación y el aumento de la seguridad y planes y procedimientos para el logro de estos objetivos, donde como uno de los procedimientos para alcanzar los objetivos de seguridad se indica, entre otros, el logro de un nivel de seguridad superior, especialmente mediante la implicación de todos los empleados en el cumplimiento de los compromisos y objetivos establecidos en el sistema de seguridad y la política de la organización. Sobre el estado actual de la Cultura de la seguridad en el entorno ferroviario de la República Checa, por ejemplo, da testimonio también la cuestionamiento de la necesidad de un mayor número de elementos de seguridad (control multinivel) dentro del propio procedimiento del gestor de la infraestructura SŽDC ante la solicitud del transportista ČD de verificación del estado, posible corrección (medida) y pronunciamiento sobre la situación detectada tras la supresión de la limitación transitoria y la implantación de la limitación permanente de la velocidad de la vía en el pk 422,060 a 422,300 en el tramo entre estaciones Chodová Planá – Mariánské Lázně, el 15. 7. 2019.
 En relación con la evaluación de riesgos, puede concluirse, por último, que de las respuestas del gestor de la
 
-
 ## Página 89
+
 
 infraestructura SŽDC y del transportista ČDC a la petición de la Inspección Ferroviaria, así como del procedimiento del gestor de la infraestructura SŽDC ante la solicitud del transportista ČD de verificación del estado, posible corrección (medida) y pronunciamiento sobre la situación detectada tras la supresión de la limitación transitoria y la implantación de la limitación permanente de la velocidad de la vía en el pk 422,060 a 422,300 en el tramo entre estaciones Chodová Planá – Mariánské Lázně, el 15. 7. 2019, se evidenció, hasta la producción de esta MU, en relación con la evaluación de riesgos y la adopción de medidas para la gestión de riesgos, una renuencia a resolver operativamente casos concretos y a no intervenir en los procedimientos ya establecidos. Cada parte percibía especialmente las obligaciones y los problemas de la otra y no estaba demasiado predispuesta a una colaboración mutua eficaz y bilateral.
 La producción de este grave accidente demostró que la evaluación de riesgos y la adopción de medidas para la gestión de riesgos, que son uno de los elementos básicos del sistema de gestión de la seguridad, deben resolverse operativamente caso por caso, y con un enfoque activo con la participación de todas las partes interesadas ya en la identificación del posible peligro precisamente por parte de los empleados que participan directamente en la explotación, y no ya en el marco de la adopción de medidas tras la producción de la MU.
@@ -2485,8 +2566,8 @@ el maquinista, al incorporarse al servicio el 28. 7. 2019, se familiarizó demos
 documentos que constituían el contenido del Libro de normativas (análisis del modo de familiarización demostrativa con las modificaciones de la TTP, véase más arriba),
 - del análisis del registro electrónico del velocímetro se dedujo que el maquinista del tren Pn 64520 no reaccionó adecuadamente a la señal fija preindicador N con la indicación para la velocidad de la vía «Espere la velocidad de la vía» con el dígito 3, porque continuó circulando sin la reducción de velocidad necesaria, hasta una distancia de 35 m antes del indicador de velocidad N con la indicación «Velocidad de la vía» con el dígito 30, cuando inició el frenado continuo, tras el cual, a continuación, tras recorrer otros 15 m, aplicó el frenado de acción rápida. A la altura del mencionado indicador de velocidad N pasó a una velocidad de 91 km.h-1, con lo que se produjo la superación de la velocidad máxima permitida
 
-
 ## Página 90
+
 
 en 61 km.h-1.
 - el descarrilamiento de los vehículos ferroviarios se produjo a causa de la superación de la velocidad en la curva de la vía provisional de desvío de un radio de 200 m, donde el proyecto había fijado una velocidad de 30 km.h-1.
@@ -2514,38 +2595,68 @@ Las causas del suceso excepcional originadas en el marco legal y en el uso del s
 ### 4.4 Hallazgos complementarios
 4.4.1 Deficiencias y omisiones detectadas durante la investigación, que no se refieren a las conclusiones sobre las causas
 
-
 ## Página 91
 
-En el gestor de la infraestructura SŽDC:
-en relación con la disposición de la Directiva SŽDC n.º 83 «Elaboración y uso de las
+Al operador de la vía SŽDC:
+en relación con lo dispuesto en la Directriz SŽDC n.º 83 «Creación y uso de las Tablas
 •
-Tablas de condiciones de la vía» – Tabla 06a – Condiciones de la vía que determinan la velocidad de la vía, punto 10.1, Variante a, punto 10.3 – Parte de datos de la tabla, punto 10.3.6, Columna 6, apartado 1. Establecimiento de la posición del cambio de velocidad en los tramos de vía, en relación con el punto 2.16 de la Tabla de condiciones de la vía – por tablas de condiciones de la vía se entiende el instrumento en el que se indican los parámetros constructivo-técnicos de las obras de la vía y de las obras sobre la vía y los datos técnico-explotación que tienen una influencia directa en la seguridad y la continuidad del transporte ferroviario, se detectó una diferencia en el establecimiento de la posición de la señal fija indicador de velocidad N con la indicación «Velocidad de la vía» con el dígito 30, ubicada en el poste común con la señal fija con la indicación «Fin de vigencia de los indicadores de velocidad NS» con la posición de pk indicada 422,060 en la TTP, es decir, con una diferencia de 7 m respecto a la posición de pk real detectada 422,067;
-la distancia del borde inferior del indicador de velocidad NS con la indicación «Velocidad
+de condiciones de vía» – Tabla 06a – Condiciones de vía determinantes de la velocidad
+de la vía, punto 10.1, Variante a, punto 10.3 – Parte de datos de la tabla, punto 10.3.6,
+Columna 6, apartado 1.
+Punto kilométrico de la posición de cambio de velocidad en los tramos de vía, en relación
+con el punto 2.16 de las Tablas de condiciones de vía – por Tablas de condiciones de vía
+se entiende el instrumento en el que se indican los parámetros constructivo-técnicos de
+las obras ferroviarias y de las obras en la vía, así como los datos técnico-operativos que
+tienen una influencia directa en la seguridad y continuidad del transporte ferroviario, se
+detectó una diferencia en el punto kilométrico de la señal fija de velocidad N con la
+señal «Velocidad de la vía» con el número 30, situada en el poste común con la señal
+fija con la señal «Fin de vigencia de las señales de velocidad NS», con el punto
+kilométrico indicado 422,060 en la TTP, es decir, con una diferencia de 7 m respecto
+al punto kilométrico real detectado 422,067;
+la distancia del borde inferior de la señal de velocidad NS con la señal «Velocidad de la
 •
-de la vía» con el dígito «125» tras el punto «0», en la dirección, tras la producción de la MU, de la circulación ya no realizada del tren Pn 64520, en el pk 422,272, fue determinada mediante inspección como 0,5 m por debajo del nivel de la cabeza del carril, es decir, 0,65 m inferior a lo que permite la disposición del art. 14, anexo 22, del reglamento interno del gestor de la infraestructura SŽDC D1.
-En el transportista ČDC:
+vía» con el número «125» tras el punto «0», en el sentido en que, tras la creación de la
+MU, ya no se realizó el trayecto del tren Pn 64520, en el km 422,272, fue determinada
+mediante inspección en 0,5 m por debajo del nivel de la cabeza del carril, es decir, 0,65 m
+por debajo de lo que permite lo dispuesto en el artículo 14, anexo 22, de la norma interna
+del operador de la vía SŽDC D1.
+
+Al transportista ČDC:
 no fueron detectadas por la Inspección Ferroviaria.
 •
 ## 5 MEDIDAS ADOPTADAS
-### 5.1 Lista de medidas que ya han sido tomadas o adoptadas como consecuencia del
-suceso excepcional
-Gestor de la infraestructura:
-dentro de la Evaluación de las causas y circunstancias de la producción del suceso
+### 5.1 Lista de medidas que ya han sido tomadas o adoptadas como
+consecuencia del suceso ferroviario
+
+Operador de la vía:
+en el marco de la Evaluación de las causas y circunstancias de la creación del suceso
 •
-excepcional no adoptó ni emitió ninguna medida;
-emitió la Instrucción del director general en materia de publicación de las modificaciones
+ferroviario, no adoptó ni emitió ninguna medida;
+emitió la Instrucción del Director General sobre la publicación de cambios en los
 •
-de los parámetros constructivo-técnicos de las obras de la vía y de las obras sobre la vía de la Administración de la Infraestructura Ferroviaria de Transporte, organización estatal, aprobada bajo el n.º de expediente 553108/2019-SŽDC-Gř-O11 el 7 de octubre de 2019 con efectos desde el día de su publicación, donde en el art. 5 se establece: «Sobre las modificaciones de los parámetros técnicos de las obras de la vía y de las obras sobre la vía que tienen una influencia directa en la seguridad y la continuidad de la explotación del transporte ferroviario (…), debe ser informado el maquinista de la siguiente manera:
-• si estas modificaciones se publicaron antes del día de entrada en vigor de las modificaciones (normalmente 21 días), la información se realizará 21 días a partir del día de entrada en vigor de las modificaciones en la TTP»,
+parámetros constructivo-técnicos de las obras ferroviarias y de las obras en la vía de la
+Administración de la Infraestructura Ferroviaria de Transporte, organización estatal,
+aprobada bajo el n.º de expediente 553108/2019-SŽDC-Gř-O11 el 7 de octubre de 2019
+con entrada en vigor desde la fecha de publicación, en la que se establece en el artículo 5:
+«Sobre los cambios en los parámetros técnicos de las obras ferroviarias y de las obras en
+la vía que tienen una influencia directa en la seguridad y continuidad de la explotación
+del transporte ferroviario (…), el maquinista debe ser informado de la siguiente manera:
+• si estos cambios se publicaron antes del día de entrada en vigor de los cambios
+(normalmente 21 días), la información se facilitará durante 21 días a partir del día de
+entrada en vigor de los cambios en la TTP»,
 implantó la explotación de verificación del nuevo método de elaboración de la TTP,
 •
-incluido el uso de un resaltado en color y gráfico para una mejor visibilidad de los datos indicados, con la puesta en marcha planificada de la llamada «explotación real» a partir del 1. 7. 2020.
-El transportista ČDC emitió, dentro de la Evaluación de las causas y circunstancias de la producción del suceso excepcional, las siguientes medidas:
+incluido el uso de resaltado en color y gráfico para una mejor visibilidad de los datos
+indicados, con la puesta en marcha prevista de la denominada «explotación real» a
+partir del 1. 7. 2020.
+
+El transportista ČDC emitió, en el marco de la Evaluación de las causas y circunstancias
+de la creación del suceso ferroviario, las siguientes medidas:
 emisión de la Hoja informativa para maquinistas Información para maquinistas. Inicial
 •
 
 ## Página 92
+
 
 aviso de un accidente grave,
 realización del análisis de riesgos del procedimiento de información de los maquinistas sobre los cambios en las TTP
@@ -2597,50 +2708,26 @@ vehículo ferroviario que no hayan acreditado haberse informado de los cambios e
 técnicos de construcción de las infraestructuras que tienen una influencia directa en la garantía
 de la seguridad del tráfico ferroviario, y ello antes de poner el vehículo ferroviario en movimiento;
 
-
 ## Página 93
 
-exigir a los transportistas, y ello también en el marco de la concesión del Certificado de transportista
+exigir a los transportistas, también en el marco de la concesión del Certificado de transportista y del ejercicio
 •
-y del ejercicio de la supervisión estatal en materia de infraestructuras, un método establecido de
-forma totalmente inequívoca y que excluya toda duda para el acreditado conocimiento de las personas
-que conducen un vehículo ferroviario, principalmente de los cambios en los parámetros técnicos de
-construcción de las infraestructuras y en las TTP;
-en interés de la seguridad de la explotación de la infraestructura y del transporte ferroviario, iniciar
+de la supervisión estatal en materia de ferrocarriles, un método establecido de forma totalmente inequívoca y que excluya toda duda para la acreditación documentada de las personas que conducen un vehículo ferroviario, en particular de los cambios en los parámetros constructivo-técnicos de las vías y de las TTP;
+en interés de la seguridad de la explotación de la vía y del transporte ferroviario, iniciar la evaluación
 •
-la evaluación de la posibilidad de completar la TJŘ con una columna (columnas) que contenga datos
-fundamentales de las TTP, principalmente los que establecen o restringen fundamentalmente la velocidad
-de la vía, especialmente en los casos en que, según las TTP, se trate de una restricción de velocidad
-permanente;
-recomendar a los transportistas la reducción del plazo de vigencia establecido del conocimiento de las
+de la posibilidad de completar el TJŘ con una columna (columnas) que contenga los datos esenciales de las TTP, en particular los que establecen, respectivamente, limitan de forma fundamental la velocidad en vía, especialmente en los casos en que, según las TTP, se trata de una limitación de velocidad permanente;
+recomendar a los transportistas la reducción del plazo establecido de vigencia del conocimiento de las
 •
-condiciones de la vía para las personas que conducen un vehículo ferroviario, en relación con el hecho
-de que actualmente se producen en el ferrocarril checo muchas reconstrucciones, optimizaciones
-y construcciones que tienen como consecuencia muchos cambios en los parámetros técnicos de
-construcción de las infraestructuras y de las obras en la infraestructura con influencia directa en la
-seguridad y la fluidez de la explotación del transporte ferroviario.
-### Además, la Inspección Ferroviaria recomienda al Organismo Ferroviario:
+circunstancias en vía para las personas que conducen un vehículo ferroviario, en relación con el hecho de que en la actualidad se están llevando a cabo en los ferrocarriles checos numerosas reconstrucciones, optimizaciones y construcciones que tienen como consecuencia muchos cambios en los parámetros constructivo-técnicos de las vías y de las obras en la vía, con una influencia directa en la seguridad y la fluidez de la explotación del transporte ferroviario.
+### Asimismo, la Inspección Ferroviaria recomienda a la Autoridad Ferroviaria:
 que, en el marco de sus competencias, garantice que el sistema de garantía de la seguridad adoptado,
 •
-en particular el método de evaluación de riesgos y de adopción de medidas para la gestión de riesgos,
-sea aplicado por el gestor de modo que sus procedimientos y métodos establecidos de forma general
-se apliquen de manera más eficaz también a situaciones operativas concretas;
-iniciar la mejora de la cooperación y la colaboración mutua entre los gestores de infraestructura
+en particular el método de evaluación de riesgos y de adopción de medidas para la gestión de riesgos, sea aplicado por el explotador de manera que sus procedimientos y métodos establecidos de forma general se apliquen de manera más eficaz también a situaciones operativas concretas;
+iniciar la mejora de la cooperación y la colaboración mutua entre los explotadores de vías
 •
-y los transportistas en la gestión de riesgos, especialmente en los casos concretos en que se produce
-una interacción mutua en una interfaz común que afecta a la explotación de la infraestructura
-con el riesgo de un posible fallo del factor humano en la explotación del transporte ferroviario
-por parte de los empleados de los transportistas, por ejemplo a través de disposiciones concretas
-en los Contratos de explotación del transporte ferroviario.
-El sentido de las recomendaciones de seguridad anteriormente indicadas es la prevención de la posible
-repetición del fallo del factor humano en la explotación del transporte ferroviario, la eliminación de
-los riesgos persistentes mediante su identificación y la adopción de medidas para su eliminación, principalmente
-en las interfaces con la operación humana y en los equipos y vehículos ferroviarios utilizados durante
-la explotación y el mantenimiento, la garantía de una aplicación más eficaz de los procedimientos establecidos
-de forma general relativos a la evaluación de riesgos en situaciones operativas concretas y la garantía de
-una redacción inequívoca de las disposiciones normativas de los gestores de infraestructura y del transporte
-ferroviario en los ámbitos que tienen una influencia inmediata y fundamental en la seguridad del tráfico
-ferroviario.
+y los transportistas en la gestión de riesgos, especialmente en los casos concretos en que se produce una interacción mutua en una interfaz común que afecta a la explotación de la vía con el riesgo de un posible fallo del factor humano en la explotación del transporte ferroviario por parte de los empleados de los transportistas, por ejemplo mediante disposiciones concretas en los Contratos de explotación del transporte ferroviario.
+El sentido de las recomendaciones de seguridad mencionadas más arriba es prevenir la posible
+repetición de un fallo del factor humano en la explotación del transporte ferroviario, eliminar los riesgos persistentes en su localización y en la adopción de medidas para su eliminación, especialmente en las interfaces con la manipulación humana y en los equipos y vehículos ferroviarios utilizados durante la explotación y el mantenimiento, garantizar una aplicación más eficaz de los procedimientos establecidos de forma general relacionados con la evaluación de riesgos a situaciones operativas concretas y garantizar una redacción inequívoca de las disposiciones normativas de los explotadores de vías y del transporte ferroviario en las áreas que tienen una influencia inmediata y fundamental en la seguridad de la explotación ferroviaria.
 En Plzeň, a 29 de mayo de 2020
 Jaroslav Říha v. r.
 Ing. Petr Mencl v. r.

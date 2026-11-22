@@ -10,13 +10,14 @@ chars: 49890
 ratio_longitud: 1.26
 tokens_in: 21800
 tokens_out: 13753
-verificacion: revisar
-notas_cifras: ["bloque 2: original bilingüe: se compara contra el idioma principal (CS)", "bloque 3: cifras cortas: 2/42", "bloque 5: original bilingüe: se compara contra el idioma principal (CS); cifras cortas: 1/26", "bloque 6: original bilingüe: se compara contra el idioma principal (CS); cifras cortas: 5/82", "bloque 8: original bilingüe: se compara contra el idioma principal (PT)"]
-avisos: ["bloque 5: ratio 1.90", "bloque 8: ratio 1.71"]
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (CS)", "página 5: original bilingüe: se compara contra el idioma principal (EN)", "página 6: original bilingüe: se compara contra el idioma principal (CS)", "página 7: original bilingüe: se compara contra el idioma principal (CS)", "página 8: original bilingüe: se compara contra el idioma principal (CS); cifras cortas: 2/17", "página 11: original bilingüe: se compara contra el idioma principal (PT)"]
 ---
+
 ## Página 1
+
 
 Inspección Ferroviaria
 República Checa
@@ -41,11 +42,12 @@ NIF: 75009561
 http://www.dicr.cz
 fax: (+420) 224 805 428
 
-
 ## Página 2
 
 
+
 ## Página 3
+
 
 # RESUMEN
 4 de julio de 2007, 18:44 (16:44 GMT)
@@ -67,13 +69,14 @@ no investigada
 Recomendación: 1) dirigida al gestor de infraestructura České dráhy, a. s., autoridad nacional de seguridad – Drážní úřad y propietario de la vía férrea SŽDC, s. o.:
 Se recomienda equipar el paso a nivel con barreras o
 ●
-sustituirlo por un cruce desnivelado. 
-
+sustituirlo por un cruce desnivelado.
 
 ## Página 4
 
 
+
 ## Página 5
+
 
 # Índice
  Resumen .............................................................................................................................3
@@ -102,6 +105,7 @@ sustituirlo por un cruce desnivelado.
 3.1.1 Empleados del gestor de la infraestructura y del transportista, incluidas las personas en
 
 ## Página 6
+
 
 proporción ...............................................................................................................12
 3.1.2 Otras personas .........................................................................................................12
@@ -132,8 +136,8 @@ proporción ....................................................................
 4.1.1 Descripción definitiva del incidente basada en los hechos constatados en el punto 3 
 ............................................................................................................................16
 
-
 ## Página 7
+
 
 4.2 Análisis ......................................................................................................................17
 4.2.1 Evaluación de los hechos constatados según el punto 3 y presentación de las conclusiones sobre la causa del incidente y la actuación de los servicios de emergencia ..........................................17
@@ -151,16 +155,15 @@ proporción ....................................................................
 
 ## Página 8
 
-## 1 RESUMEN
-El 4 de julio de 2007 a las 18:44 horas, se produjo en la vía nacional České Budějovice – Benešov u Prahy, explotada por ČD, a. s., un incidente extraordinario (IE) – accidente, a tenor de la ley n.º 266/1994 Coll., sobre vías férreas, en su redacción posterior (en adelante, la ley), en el que un tren de pasajeros R 648 colisionó con un camión de la marca Renault Midlum en un paso a nivel de vía única, situado en el punto kilométrico 56,245, dotado de un dispositivo de protección de pasos a nivel luminoso, sin señal positiva ni barreras, que se encontraba en funcionamiento. Como consecuencia de este IE, el conductor del camión sufrió lesiones graves y el maquinista del tren sufrió lesiones. No se produjeron lesiones entre los viajeros. La causa del IE fue la entrada ilegal del conductor del camión en el paso a nivel. No son necesarias medidas derivadas de este IE por parte del explotador de la vía y del transportista ferroviario – ČD, a. s., debido a la causa del incidente. Dada la elevada frecuencia de aparición de IE en este paso a nivel por las mismas causas, es decir, el incumplimiento de las señales del dispositivo de protección de pasos a nivel por parte de los usuarios de la vía, la Inspección Ferroviaria ya adoptó en el año calendario 2005 recomendaciones dirigidas al propietario de la vía, Správa železniční dopravní cesty (SŽDC, s. o.), y al explotador de la vía y del transporte ferroviario, České dráhy (ČD, a. s.). El organismo de seguridad, es decir, la Oficina Ferroviaria, conoce el «vicio» de los usuarios de la vía en este paso a nivel desde el año calendario 2003. A pesar de la iniciativa de la Inspección Ferroviaria y de las medidas parciales adoptadas en las reuniones convocadas, ninguno de los mencionados sujetos adoptó las medidas necesarias para garantizar la seguridad del transporte ferroviario. Por ello, tras la producción del último de estos IE, la Inspección Ferroviaria, para resolver esta grave cuestión, inició una intervención activa del representante de la unidad administrativa territorial superior de la República Checa – el gobernador de la región de Bohemia Meridional. Los resultados concretos, es decir, la adopción de medidas organizativas para aumentar la seguridad del transporte ferroviario y de carretera y la posible aplicación de un mayor nivel de protección en el paso a nivel, se conocerán a finales de los años calendario 2007/2008.
-
-## 2 DATOS RELATIVOS AL INCIDENTE EXTRAORDINARIO
-### 2.1 Incidente extraordinario
-### 2.1.1 Fecha, hora exacta y lugar del incidente extraordinario
-La producción de este IE tuvo lugar el 4 de julio de 2007, a las 18:44 horas, en la vía nacional České Budějovice – Benešov u Prahy, en el paso a nivel situado en el punto kilométrico 56,245, en el ámbito de la estación ferroviaria (ŽST) de Veselí nad Lužnicí.
-
+## 1 Resumen
+El 4 de julio de 2007 a las 18.44 horas, se produjo en la línea de ámbito nacional České Budějovice – Benešov u Prahy, explotada por ČD, a. s., un suceso excepcional (MU) – accidente, en el sentido de la Ley n.º 266/1994 Sb., de ferrocarriles, en su redacción vigente (en adelante, la Ley), cuando en el paso a nivel ferroviario de vía única en el km 56,245, protegido por instalación de enclavamiento de paso a nivel luminosa, sin señal positiva ni barreras, que estaba en servicio, colisionó el tren de transporte de pasajeros R 648 con un camión de la marca de fábrica Renault Midlum. En este MU se produjo una lesión grave en la salud del conductor del camión y una lesión en la salud del maquinista del tren. No hubo lesiones en pasajeros. La causa del MU fue la entrada indebida del conductor del camión en el paso a nivel. No se requieren medidas por parte del explotador de la línea y del transporte ferroviario – ČD, a. s., derivadas de este MU, dada la causa de origen del MU. Debido a la gran frecuencia de ocurrencia de MU en este paso a nivel por las mismas causas, es decir, la no respetación de la advertencia de la instalación de enclavamiento de paso a nivel por parte de los usuarios de la circulación rodoviaria, la Inspección Ferroviaria ya adoptó en el año natural 2005 recomendaciones dirigidas al propietario de la línea, la Administración de la Infraestructura Ferroviaria de Transporte (SŽDC, s. o.), y al explotador de la línea y del transporte ferroviario, los Ferrocarriles Checos (ČD, a. s.). El «defecto» de los usuarios de la circulación rodoviaria en este paso a nivel es conocido por el organismo de seguridad, es decir, la Autoridad Ferroviaria, desde el año natural 2003. A pesar de la iniciativa de la Inspección Ferroviaria y de las medidas parciales adoptadas en las reuniones convocadas, ninguno de los sujetos anteriormente mencionados llevó a cabo las medidas necesarias en interés de la explotación segura del transporte ferroviario. Tras la ocurrencia del último de estos MU, la Inspección Ferroviaria, para resolver esta grave problemática, inició la participación activa del representante de la entidad territorial superior de la R.C. – el gobernador de la Región de Bohemia del Sur. Los resultados concretos, es decir, la adopción de medidas organizativas en interés de aumentar la seguridad de la circulación ferroviaria y rodoviaria y la posible aplicación de un aumento del grado de protección en el paso a nivel, se conocerán a finales de los años naturales 2007/2008.
+## 2 Datos relativos al suceso excepcional
+### 2.1 Suceso excepcional
+### 2.1.1 Fecha, hora exacta y lugar del suceso excepcional
+Este MU se produjo el 4 de julio de 2007, a las 18.44 horas, en la línea de ámbito nacional České Budějovice – Benešov u Prahy, en el paso a nivel en el km 56,245, en el ámbito de la estación ferroviaria (ŽST) Veselí nad Lužnicí.
 
 ## Página 9
+
 
 ### 2.1.2 Descripción del incidente extraordinario y del lugar del accidente, incluida la actividad del sistema integrado de rescate y del servicio de rescate
 Durante la circulación del tren R 648 por el paso a nivel equipado con un dispositivo de protección de pasos a nivel luminoso sin barreras (en adelante, DPPP), que se encontraba en funcionamiento, se produjo una colisión con un camión. El DPPP es de tipo SSSR, categoría PZS 3SNI según la norma ČSN 34 2650, con cuatro señales luminosas AŽD 71, es decir, sin señal positiva (sin luz blanca intermitente); los elementos de control y mando se encuentran en poder del despachador de la estación ferroviaria (ŽST) de Veselí nad Lužnicí. La carretera es una vía local en el ámbito del municipio de Veselí nad Lužnicí, con firme asfáltico, que conecta la carretera de primera categoría České Budějovice – Praga con las instalaciones de la empresa GRENA, a. s. El paso a nivel tiene una longitud de 5,26 m, una anchura de 8,16 m y su firme está constituido por una estructura de hormigón armado. El ángulo de cruce entre la vía férrea y la carretera es de 72 grados; antes del paso a nivel, en el sentido de circulación del automóvil (a la izquierda en el sentido de circulación del tren), la carretera presenta una pendiente ascendente del 3,5 %. En la carretera, a ambos lados del paso a nivel ferroviario, se ha instalado la señalización de tráfico correspondiente. La vía se encuentra en nivelación nula en el sentido de circulación del tren. La velocidad máxima permitida para los trenes al cruzar el paso a nivel es de 100 km/h, y la velocidad real del tren fue de 85 km/h. Se activó el sistema integrado de rescate. En el lugar estaban presentes el Servicio de Rescate, el Servicio de Rescate Aéreo, el Servicio de Rescate de Bomberos (HZS) de Soběslav, el HZS de ČD, a. s., y la Policía de la República Checa – Oficina Regional de Tábor. El conductor del camión sufrió lesiones graves y fue trasladado por vía aérea al hospital de České Budějovice; el maquinista del tren fue atendido en el lugar.
@@ -173,6 +176,7 @@ La Inspección Ferroviaria inició la investigación de las causas y circunstanc
 El empleado participante del explotador de la vía y del transportista ferroviario fue el maquinista del tren R 648 del Taller de Vehículos sobre Ruedas (DKV) de Praga; la persona participante fue el conductor del camión en cuestión y, además, un testigo, conductor de un automóvil que circulaba inmediatamente antes de la producción del IE por la carretera principal.
 
 ## Página 10
+
 
 2.2.2 Trenes y su composición, incluidos los números de registro de cada vehículo ferroviario individual
 El tren R 648 estaba compuesto por una locomotora motriz (en adelante, LM) 363.080-3 de DKV Plzeň 
@@ -193,73 +197,80 @@ Durante la ejecución de las labores de rescate, se presentaron en el lugar del 
 ### 2.2.7 Activación del plan del sistema integrado de rescate, de la policía y del servicio de rescate sanitario 
 y secuencia de los acontecimientos
 El plan del sistema integrado de rescate se activó simultáneamente a la notificación de la ocurrencia 
-de dicho incidente a los órganos de investigación, de conformidad con el Cuadro de notificación de incidentes mencionado anteriormente. En el lugar de la ocurrencia del incidente fueron llegando sucesivamente el Servicio de Rescate, el Servicio de Rescate Aéreo, 
-
+de dicho incidente a los órganos de investigación, de conformidad con el Cuadro de notificación de incidentes mencionado anteriormente. En el lugar de la ocurrencia del incidente fueron llegando sucesivamente el Servicio de Rescate, el Servicio de Rescate Aéreo,
 
 ## Página 11
 
-los Cuerpos de Bomberos y Protección Civil de Soběslav, los Cuerpos de Bomberos y Protección Civil de ČD, a. s. – Unidad Operativa de České Budějovice y la Policía de la República Checa. El conductor del camión fue trasladado por vía aérea al hospital de České Budějovice tras recibir asistencia del Servicio de Rescate Sanitario; el maquinista del tren R 648 recibió asistencia en el lugar.
-### 2.3 Muertes, lesiones y daños materiales
-2.3.1 En viajeros y terceros, empleados del operador ferroviario y del transportista, 
-incluidas las personas en relación contractual
-En este incidente el conductor del camión sufrió lesiones graves y el maquinista del tren R 648 sufrió lesiones. No se produjeron lesiones a viajeros, terceros ni a otros empleados del operador ferroviario y del transportista.
-### 2.3.2 En las mercancías transportadas, equipajes y otros bienes
-Incidente sin daños en las mercancías transportadas ni en los equipajes. El daño al camión Renault se cuantificó en 1.500.000,- Kč.
-### 2.3.3 En los vehículos ferroviarios, en los componentes de la vía de circulación y en el medio ambiente
-En la locomotora motriz 
+HZS Soběslav, HZS ČD, a. s. – PJ Č. Budějovice y Policía ČR. El conductor del camión fue trasladado en helicóptero, tras recibir tratamiento del RZS, al hospital de České Budějovice; el maquinista del tren R 648 fue atendido en el lugar.
+### 2.3 Fallecimientos, lesiones y daños materiales
+2.3.1 En pasajeros y terceras personas, empleados del gestor de la vía y del transportista, incluidas personas en relación contractual
+En este MU el conductor del camión sufrió un daño grave para la salud y el maquinista del tren R 648 sufrió un daño para la salud. No se produjeron lesiones en pasajeros, terceras personas ni en otros empleados del gestor de la vía y del transportista.
+### 2.3.2 En objetos transportados, equipajes y otros bienes
+MU sin daños en objetos transportados y equipajes. El daño en el camión Renault fue valorado en 1.500.000,- Kč.
+### 2.3.3 En vehículos ferroviarios, componentes de la vía de tráfico y en el medio ambiente
+En HDV 
 363.080-3
 853.000,- 
 Kč
-| ● | En la locomotora motriz 363 .080 -3 | 853 000 . ,- | Kč |
+| ● | En HDV 363 .080 -3 | 853 000 . ,- | Kč |
 | ● | En los coches B 51 54 20 -41 611 -4 | 4 300 . ,- | Kč |
 |  | B 51 54 20 41 808 6 - - | 2 000 . ,- | Kč |
 |  | A51 54 19 41 107 6 - - | 6 670 . ,- | Kč |
 |  | BDs 50 54 82 -40 434 -8 | 4 695 40 . , | Kč |
 |  | BDbmse 51 54 82 -70 035 -5 | 75 000 . ,- | Kč |
-|  | es decir, en los coches de viajeros en total . | 92 665 40 . , | Kč |
-| ● | Daños en el patrimonio de SŽDC s o , . . | 45 600 . ,- | Kč |
+|  | es decir, en coches de pasajeros en total . | 92 665 40 . , | Kč |
+| ● | Daño en los bienes de SŽDC s o , . . | 45 600 . ,- | Kč |
 | ● | El daño material total asciende a | 991 265 40 . , | Kč |
-| ● | Daños por retrasos de trenes | 231 849 . ,- | Kč |
-No se produjeron daños al medio ambiente.
+| ● | Daño por retraso de trenes | 231 849 . ,- | Kč |
+No se produjo daño al medio ambiente.
 ●
-### 2.4 Factores externos
+### 2.4 Circunstancias externas
 ### 2.4.1 Condiciones meteorológicas y datos geográficos
-En el momento de la ocurrencia del incidente era de día, +17°C, nublado, calma.
+En el momento de producirse el MU era de día, +17°C, nublado, calma.
 
 ## Página 12
 
-## 3 REGISTRO DE LAS EXPLICACIONES PRESTADAS
-### 3.1 Resumen de las explicaciones prestadas (sujetas a protección de la identidad de las personas) y de la investigación técnica de las causas de la incidencia extraordinaria
-### 3.1.1 Empleados del gestor de la infraestructura y del transportista, incluidas las personas en relación contractual
-Según la explicación por escrito del despachador de la estación de Veselí nad Lužnicí, este, mediante inspección visual, al establecer la vía de circulación para el tren R 648, verificó el funcionamiento del dispositivo de protección de pasos a nivel (PZZ), el cual presentaba un funcionamiento correcto. Según la explicación por escrito, el maquinista, durante la conducción del tren R 648, vio cómo, por el lado izquierdo en el sentido de la marcha del tren, circulaba por la carretera de primera categoría, que discurre paralela a la vía férrea, un camión de carga que giró a la derecha hacia una vía local y entró en el paso a nivel ferroviario en cuestión justo antes de la llegada del tren, lo que provocó la subsiguiente colisión. El automóvil fue desviado hacia la derecha en el sentido de la marcha del tren. El maquinista aplicó inmediatamente el freno de emergencia, detuvo el tren e informó de la incidencia extraordinaria (MU) mediante radio al despachador de la estación de Veselí nad Lužnicí.
+## 3 RESUMEN DE LAS EXPLICACIONES PRESENTADAS
+### 3.1 Resumen de las explicaciones presentadas (sujetas a la protección de la identidad de las personas) y del peritaje sobre las causas de la aparición del suceso ferroviario
+### 3.1.1 Empleados del gestor de la infraestructura y del transportista, incluidas personas en relación contractual
+Según la explicación escrita del jefe de estación de la estación de ŽST Veselí nad Lužnicí, este, con la vista, al establecer la vía de tren para el tren R 648, comprobó el funcionamiento del PZZ, que mostraba un funcionamiento normal. Según la explicación escrita, el maquinista vio, mientras conducía el tren R 648, cómo, en el lado izquierdo en el sentido de la marcha del tren, circulaba por una carretera de primera clase, que discurría paralelamente a la línea, un camión, que giró a la derecha hacia una vía local y entró en el paso a nivel ferroviario objeto de investigación justo antes del tren que llegaba, lo que dio lugar a la colisión posterior. El vehículo fue empujado hacia la derecha en el sentido de la marcha del tren. El maquinista aplicó inmediatamente el frenado de emergencia, el tren se detuvo y notificó a la MU por radio al jefe de estación de la estación de ŽST Veselí nad Lužnicí.
 ### 3.1.2 Otras personas
-Según la explicación oral del testigo, conductor de otro camión de la marca AVIA, que circulaba inmediatamente antes de la producción de esta incidencia extraordinaria por la vía principal, el dispositivo de protección de pasos a nivel luminoso estaba en funcionamiento.
+Según la explicación oral del testigo – conductor de otro camión, marca AVIA, que circulaba inmediatamente antes de la aparición de este suceso ferroviario por la vía principal, el dispositivo de enclavamiento luminoso de paso a nivel estaba en funcionamiento.
 ### 3.2 Sistema de garantía de la seguridad
-### 3.2.1 Estructura organizativa general y la forma en que se dictan y ejecutan las instrucciones
-La explotación de la infraestructura ferroviaria y el transporte ferroviario se realizan sobre la base de la autorización administrativa y la licencia concedidas, de conformidad con las disposiciones de los reglamentos internos del gestor, en cumplimiento de lo establecido por la Ley n.º 266/1994 Coll., sobre ferrocarriles, y el Decreto n.º 173/1995 Coll., sobre el reglamento de circulación ferroviaria. El sistema de garantía de la seguridad de la explotación de la infraestructura ferroviaria y del transporte ferroviario incluye la designación de las unidades organizativas, sus competencias y la determinación de la responsabilidad de los distintos empleados. Durante la investigación de la incidencia extraordinaria, el gestor ČD, a. s., solicitó al órgano de seguridad, el Oficina Ferroviaria (Drážní úřad), la emisión del certificado de seguridad del gestor, de conformidad con las disposiciones de la Ley sobre ferrocarriles.
-### 3.2.2 Requisitos para los empleados del gestor de la infraestructura y del transportista y su cumplimiento
-Los requisitos para los empleados del gestor de la infraestructura y del transportista están establecidos por los actos directivos y los reglamentos internos del gestor, de conformidad con el Código del Trabajo y la normativa aplicable. Su cumplimiento se garantiza mediante la realización de controles y la adopción de medidas correctivas en todos los niveles de gestión de la actividad. El maquinista del tren cumple con la cualificación profesional y médica establecidas; los documentos correspondientes se encuentran archivados en el departamento de personal de DKV Praga.
+### 3.2.1 Organización marco y forma en que se emiten y ejecutan las instrucciones
+La explotación de la infraestructura y del transporte ferroviario se realiza sobre la base de la autorización administrativa y la licencia concedidas, de acuerdo con las disposiciones de las normas internas del gestor, en consonancia con las disposiciones de la Ley n.º 266/1994 Sb., de ferrocarriles, y del decreto n.º 173/1995 Sb., reglamento de circulación ferroviaria. El sistema de garantía de la seguridad de la explotación de la infraestructura y del transporte ferroviario contiene la determinación de los componentes organizativos, su competencia y el establecimiento de la responsabilidad de los distintos empleados. En el momento de la investigación del suceso ferroviario, el gestor ČD, a. s., solicitó al organismo de seguridad – Drážní úřad (Oficina de Ferrocarriles) la emisión del certificado de seguridad del gestor de acuerdo con las disposiciones de la Ley de ferrocarriles.
+### 3.2.2 Requisitos para los empleados del gestor de la infraestructura y del transportista y su aplicación
+Los requisitos para los empleados del gestor de la infraestructura y del transportista están determinados por los actos de gestión y las normas internas del gestor, de conformidad con el Código del Trabajo y la normativa correspondiente. Su aplicación viene dada por la realización de controles y la adopción de medidas correctivas en todos los niveles de gestión de la actividad. El maquinista del tren cumple la idoneidad profesional y sanitaria establecida, y los documentos correspondientes se encuentran archivados en el departamento de empleados de DKV Praha.
 
 ## Página 13
 
 ### 3.2.3 Procedimiento de control interno de seguridad y sus resultados
-Los procedimientos de control interno de seguridad se llevan a cabo de acuerdo con la normativa jurídica aplicable y las disposiciones del gestor en el área de actividad supervisada, especialmente sobre la base de las disposiciones del Decreto n.º 376/2006 Coll., sobre el sistema de seguridad de la explotación de la infraestructura ferroviaria y del transporte ferroviario y los procedimientos en caso de incidencia extraordinaria en las vías férreas, incluida la evaluación de los hallazgos y la adopción de medidas correctivas, en cumplimiento de las demás normas para garantizar la seguridad de la explotación, el trabajo y las instalaciones técnicas. La última inspección y mantenimiento del dispositivo de protección de pasos a nivel (PZZ) antes de la producción de esta incidencia extraordinaria, de conformidad con las disposiciones anteriores, se realizó el 20 de junio de 2007 y no se detectaron averías.
-### 3.2.4 Interfaces entre las distintas partes implicadas y las componentes de la vía de circulación
-La interfaz entre las partes implicadas y las componentes de la vía de circulación está regulada por las disposiciones de la Ley n.º 266/1994 Coll., sobre ferrocarriles, y de la Ley n.º 77/2002, sobre la sociedad anónima ČD, la organización estatal SŽDC y la modificación de algunas leyes, en su versión posterior. El gestor de la infraestructura y del transporte ferroviario en esta vía de ámbito nacional es la misma persona jurídica: ČD, a. s., por lo que no se celebran contratos. Las obligaciones del conductor de un vehículo de motor al utilizar un paso a nivel se regulan por la Ley n.º 361/2000 Coll., sobre la circulación en las vías públicas, en su versión posterior.
-### 3.3 Marco jurídico y otras disposiciones
-### 3.3.1 Normativa comunitaria y nacional aplicable
-La normativa comunitaria aplicable es la Directiva 2004/49/CE del Parlamento Europeo y del Consejo, de 29 de abril de 2004 (Directiva sobre la seguridad ferroviaria).
-Para la investigación de las causas y las circunstancias de la producción de esta incidencia extraordinaria se utilizaron las siguientes normas jurídicas nacionales:
-- Ley n.º 266/1994 Coll., sobre ferrocarriles, en su versión posterior;
-- Decreto n.º 100/1995 Coll., por el que se establecen las condiciones para la explotación, construcción y fabricación de determinados equipos técnicos y su concreción (Reglamento de equipos técnicos determinados), en su versión posterior;
-- Decreto n.º 101/1995 Coll., por el que se aprueba el Reglamento sobre la aptitud médica y profesional de las personas en la explotación de la infraestructura ferroviaria y del transporte ferroviario, en su versión posterior;
-- Decreto n.º 173/1995 Coll., por el que se aprueba el reglamento de circulación ferroviaria, en su versión posterior;
-- Decreto n.º 177/1995 Coll., por el que se aprueba el reglamento de construcción y técnica de las vías férreas, en su versión posterior;
-- Decreto n.º 376/2006 Coll., sobre el sistema de seguridad de la explotación de la infraestructura ferroviaria y del transporte ferroviario y los procedimientos en caso de incidencia extraordinaria en las vías férreas;
-- Ley n.º 361/2000 Coll., sobre la circulación en las vías públicas y la modificación de algunas leyes, en su versión posterior;
-- Norma ČSN 73 6380 Pasos a nivel y pasos peatonales.
+Los procedimientos de control interno de seguridad se llevan a cabo de acuerdo con las disposiciones legales y reglamentos del explotador aplicables en el ámbito de actividad controlado, en particular sobre la base de las disposiciones del decreto núm. 376/2006 Sb., sobre el sistema de seguridad de la explotación de la vía y del transporte ferroviario y los procedimientos en caso de ocurrencia de sucesos excepcionales en las vías, incluida la evaluación de los hallazgos y la adopción de medidas correctivas, en consonancia con las demás disposiciones para garantizar la seguridad de la explotación, del trabajo y de las instalaciones técnicas. La última inspección y mantenimiento del PZZ antes de la ocurrencia de este SU, de acuerdo con las disposiciones mencionadas anteriormente, se realizó el día 20. 6. 2007 y no se detectaron defectos durante la misma.
+### 3.2.4 Interfaz entre los distintos sujetos implicados y los componentes de la vía de circulación
+La interfaz entre los sujetos implicados y los componentes de la vía de circulación viene determinada por las disposiciones de la ley núm. 266/1994 Sb., de las vías, y de la ley núm. 77/2002, sobre la sociedad anónima ČD, la organización estatal SŽDC y la modificación de algunas leyes, en la redacción de las disposiciones posteriores. El explotador de la vía y del transporte ferroviario en esta vía de ámbito estatal es la misma persona jurídica – ČD, a. s., no se celebran contratos. Las obligaciones del conductor de un vehículo de carretera al utilizar un paso a nivel ferroviario las regula la ley núm. 361/2000 Sb., sobre la circulación en las vías de comunicación terrestre, en la redacción de las disposiciones posteriores.
+### 3.3 Regulación legal y de otro tipo
+### 3.3.1 Disposiciones legales comunitarias y nacionales pertinentes
+La disposición comunitaria pertinente es la Directiva del Parlamento Europeo y del Consejo 2004/49/ES de 29 de abril de 2004 (directiva sobre seguridad ferroviaria).
+Para la determinación de las causas y circunstancias de la ocurrencia de este SU se utilizaron las siguientes disposiciones legales nacionales:
+ley núm. 266/1994 Sb., de las vías, en la redacción de las disposiciones posteriores;
+●
+decreto núm. 100/1995 Sb., por el que se establecen las condiciones para la explotación, construcción y fabricación de instalaciones técnicas designadas y su concreción (Reglamento de instalaciones técnicas designadas), en la redacción de las disposiciones posteriores;
+●
+decreto núm. 101/1995 Sb., por el que se emite el Reglamento de aptitud sanitaria y profesional de las personas para la explotación de la vía y del transporte ferroviario, en la redacción de las disposiciones posteriores;
+●
+decreto núm. 173/1995 Sb., por el que se emite el reglamento de circulación de las vías, en la redacción de las disposiciones posteriores;
+●
+decreto núm. 177/1995 Sb., por el que se emite el reglamento de construcción y técnico de las vías, en la redacción de las disposiciones posteriores;
+●
+decreto núm. 376/2006 Sb., sobre el sistema de seguridad de la explotación de la vía y del transporte ferroviario y los procedimientos en caso de ocurrencia de sucesos excepcionales en las vías;
+●
+ley núm. 361/2000 Sb., sobre la circulación en las vías de comunicación terrestre y la modificación de algunas leyes, en la redacción de las disposiciones posteriores;
+●
+ČSN 73 6380 Pasos a nivel y pasos peatonales ferroviarios.
+●
 
 ## Página 14
+
 
 3.3.2 Otras normas, por ejemplo, el reglamento de explotación, el reglamento de trabajo, las normas de mantenimiento, las normas técnicas vigentes y otras normas internas
 ČD D1 Norma para el uso de las señales en la organización y la explotación del transporte ferroviario,
@@ -286,19 +297,20 @@ Se consideró que la actividad de los vehículos ferroviarios objeto de estudio,
 
 ## Página 15
 
-con la posibilidad de regulación automática de la velocidad, así como por la transmisión eléctrica de la fuerza de tracción. Según la evaluación de la cinta del registrador de velocidad, el maquinista accionó correctamente el botón de vigilancia y no superó la velocidad máxima permitida al cruzar el paso a nivel en cuestión.
-### 3.5 Documentación del sistema de explotación
-### 3.5.1 Medidas adoptadas por el personal del explotador de la vía y del transportista, en lo que respecta al control, la señalización y la protección del tráfico
-Se consideró que las medidas adoptadas por el personal del explotador de la vía y del transportista, en lo que respecta al control, la señalización y la protección del tráfico antes de la producción del incidente, estaban libres de defectos.
-### 3.5.2 Intercambio de comunicaciones verbales en relación con el incidente, incluidos los documentos del dispositivo de grabación
-El intercambio de comunicaciones verbales, realizado por el personal del explotador en relación con el incidente, permitió asegurar el lugar del incidente, notificar la producción del incidente, solicitar los servicios de emergencia y adoptar medidas alternativas debido a las anomalías surgidas en la posterior explotación de la vía y del transporte ferroviario. La comunicación entre el personal del explotador, implicado en la producción del incidente, se llevó a cabo en el lugar del incidente, bien de forma directa y oral (maquinista + tripulación del tren), bien mediante medios de comunicación, incluida la notificación de la producción del incidente (maquinista + despachador). La comunicación entre el despachador y el maquinista se documenta mediante el dispositivo de grabación de llamadas REDAT.
-### 3.5.3 Medidas adoptadas para la protección y la seguridad del lugar del incidente
-Las medidas de protección y seguridad del lugar del incidente en el lugar de producción del incidente las garantizó y organizó el comandante de la intervención del cuerpo de bomberos de ČD, a. s., en coordinación con los demás cuerpos de intervención e investigación. Las medidas adoptadas permitieron asegurar el lugar del incidente y adoptar medidas alternativas debido a las anomalías surgidas en la posterior explotación de la vía y del transporte ferroviario, garantizar la seguridad del tráfico, del trabajo y eliminar las consecuencias de la colisión en el lugar del incidente —fragmentos del camión procedentes de la sección de paso.
+con la posibilidad de regulación automática de velocidad, así como la transmisión eléctrica de la potencia de tracción. Según la evaluación de la cinta registradora de velocidad, el maquinista manejó correctamente el botón de alerta y no superó la velocidad máxima permitida en el paso a nivel en cuestión.
+### 3.5 Documentación sobre el sistema de explotación
+### 3.5.1 Medidas adoptadas por los empleados del gestor de la infraestructura y del transportista en lo que respecta a la conducción, la señalización y la seguridad del tráfico
+Las medidas adoptadas por los empleados del gestor de la infraestructura y del transportista en lo que respecta a la conducción, la señalización y la seguridad del tráfico antes de la aparición del MU se consideraron sin defectos.
+### 3.5.2 Intercambio de comunicaciones verbales en relación con el suceso excepcional, incluidas las pruebas del dispositivo de registro
+El intercambio de comunicaciones verbales, realizado por los empleados del gestor en relación con el suceso excepcional, condujo a la aseguración del lugar del MU, la notificación de la aparición del MU y la llamada a los servicios de emergencia (IZS), así como a la adopción de medidas sustitutivas en relación con las incidencias producidas en la explotación posterior de la infraestructura y del transporte ferroviario. La comunicación entre los empleados del gestor implicados en la aparición del MU fue en el lugar del MU, por un lado, directa —oral (maquinista + personal del tren)—, y por otro, gestionada por medios de comunicación, incluida la notificación de la aparición del MU (maquinista + jefe de estación). La comunicación entre el jefe de estación y el maquinista queda documentada mediante el dispositivo de registro de llamadas REDAT.
+### 3.5.3 Medidas adoptadas para la protección y la seguridad del lugar del suceso excepcional
+Las medidas de protección y seguridad del lugar del suceso excepcional en el lugar de aparición del MU fueron aseguradas y la actividad organizada por el jefe de intervención del cuerpo de bomberos HZS ČD, a. s., en colaboración con los demás cuerpos intervinientes e investigadores. Las medidas adoptadas condujeron a la aseguración del lugar del MU y a la adopción de medidas sustitutivas en relación con las incidencias producidas en la explotación posterior de la infraestructura y del transporte ferroviario, en el lugar del MU a la seguridad de la explotación, del trabajo y a la eliminación de las consecuencias de la colisión —partes del camión fuera del perfil de paso—.
 ### 3.6 Condiciones laborales, sanitarias y de explotación
-### 3.6.1 Horario laboral del personal del explotador de la vía y del transportista que fueron parte del incidente
-El maquinista del tren R 648 llevaba en servicio 6 horas y 24 minutos en el momento de la producción del incidente; el despachador de la estación de Veselí nad Lužnicí, 12 horas y 14 minutos. Ambos habían descansado adecuadamente antes del turno. La jornada laboral, los tramos recorridos, los números de los trenes y los turnos están establecidos en el horario de turnos, de conformidad con lo dispuesto en el Código del Trabajo y el Convenio Colectivo vigente.
+### 3.6.1 Jornada laboral de los empleados del gestor de la infraestructura y del transportista que fueron participantes en el suceso
+El maquinista del tren R 648, en el momento de la aparición del MU, llevaba 6 horas 24 minutos de servicio, y el jefe de estación de la estación de Veselí nad Lužnicí, 12 horas 14 minutos. Ambos tuvieron el descanso reglamentario antes del turno. La jornada laboral, los tramos de circulación recorridos, los números de los trenes individuales y los ciclos están establecidos en el Turnusový řád, de conformidad con lo dispuesto en el Código del Trabajo y en el Convenio Colectivo vigente.
 
 ## Página 16
+
 
 3.6.2 Estado de salud y situación personal que influyeron en el incidente, incluido el estrés físico o psicológico
 No se detectaron el estado de salud ni la situación personal que pudieran haber influido en la producción del incidente, incluido el estrés físico y psicológico por parte del personal del explotador de la vía y del transporte ferroviario. La prueba de detección de alcohol realizada al maquinista del tren R 648 dio resultado «negativo».
@@ -321,6 +333,7 @@ El incidente, la colisión del tren R 648 con un camión en el paso a nivel, se 
 
 ## Página 17
 
+
 en la redacción de las disposiciones posteriores, por parte del usuario de la vía pública: el conductor del camión.
 
 ### 4.2 Análisis
@@ -341,6 +354,7 @@ No se constató incumplimiento de las disposiciones internas ni de las disposici
 
 ## Página 18
 
+
 ### 4.3.3 Causas derivadas del marco normativo y del uso del sistema de garantía de la seguridad
 
 No se constataron causas derivadas del marco normativo y del uso del sistema de garantía de la seguridad por parte del titular de la vía y del explotador del tráfico ferroviario. No obstante, se constataron causas ocultas en el comportamiento de los participantes en la circulación por carretera, debido a la ubicación y al modo de protección del paso a nivel en cuestión.
@@ -359,22 +373,46 @@ No son necesarias medidas derivadas de este incidente extraordinario por parte d
 
 ## Página 19
 
-9. En 2007 se celebró una reunión de las partes responsables competentes en el lugar, cuyo objetivo fue evaluar las opciones de solución, proponer medidas inmediatas para mejorar la situación y discutir las condiciones para una solución de carácter conceptual. Según la declaración del representante del titular de esta vía, la situación en este paso a nivel se resolverá en el marco de la construcción del IV corredor de tránsito mediante un cruce fuera de nivel, aunque no antes de los años 2011-2013. Como resultado de esta reunión, se adoptaron en el lugar las siguientes recomendaciones: verificar la posible adición de más cajas de semáforos a las señales de paso a nivel existentes y su nueva redirección; aumentar el nivel de la alerta acústica de las señales de paso a nivel; realizar una pintura de señalización horizontal de tráfico «prohibido detenerse» detrás del límite de la zona peligrosa del paso a nivel en dirección a la fábrica Grena, a. s.; añadir de forma supraestándar señalización de tráfico rodado en la carretera principal antes de la desviación hacia el paso a nivel; e instalar prefabricados de hormigón en la zona delante del paso a nivel para orientar de manera más adecuada los vehículos que se acercan al paso a nivel.
-
+9. En 2007 se llevó a cabo una reunión de los correspondientes órganos responsables en el lugar, cuyo objetivo fue 
+valorar las posibles soluciones, proponer medidas inmediatas para mejorar la situación y discutir las 
+condiciones de una solución de fondo. Según la declaración del representante del propietario de esta vía, la situación en 
+este paso a nivel se resolverá en el marco de la construcción del IV Corredor de Tránsito con un cruce 
+a distinto nivel, pero no hasta los años 2011-2013. Como resultado de esta reunión se adoptaron 
+en el lugar recomendaciones para la verificación de la posible incorporación de otras 
+cajas de luces a las señales luminosas existentes del PZZ y su nueva 
+redirección, el aumento del nivel de la alerta sonora del PZZ, 
+la realización de una señalización horizontal de tráfico "prohibido detenerse" más allá del límite 
+de la banda de peligro del paso a nivel en dirección a la fábrica Grena, 
+a. s., la incorporación extraordinaria de señalización vial 
+en la principal vía de comunicación por carretera antes del desvío hacia el paso a nivel 
+y la colocación de prefabricados de hormigón en la superficie anterior al paso a nivel a causa de una 
+mejor orientación de los vehículos por carretera que se aproximan al paso a nivel.
 ## 6 RECOMENDACIONES DE SEGURIDAD
+La Inspección Ferroviaria, como órgano competente en la materia, en el sentido del § 53b apartado 5 de la Ley núm. 266/1994 
+Sb., de ferrocarriles, en la redacción de las disposiciones posteriores, sobre la base de los resultados de la investigación de las causas y 
+circunstancias de la aparición del MU y teniendo en cuenta el estado persistente e insatisfactorio de la sinistralidad 
+en el citado paso a nivel ferroviario, la afirmación continua sobre su estado correcto y seguro 
+y la falta de interés en avanzar en la cuestión planteada respecto a las posibilidades fundamentales de aumentar la 
+seguridad, o en su caso también el grado de protección del paso a nivel por parte del operador, 
+del propietario de la vía y del órgano de seguridad, en interés de la circulación ferroviaria (pero también vial) 
+segura, recomienda al órgano de seguridad (Oficina Ferroviaria), al propietario de la vía (SŽDC, s. o.) 
+y al operador de la vía y del transporte ferroviario (ČD, a. s.) la instalación de barreras, o en su caso 
+la construcción acelerada de un cruce a distinto nivel entre la citada vía de circulación ferroviaria 
+y la carretera en el lugar indicado, como la medida más eficaz contra la repetición de la aparición del 
+MU por las mismas causas repetidas, es decir, la no atención a la advertencia del 
+dispositivo de seguridad del paso a nivel luminoso, sin barreras, por parte de los usuarios de la circulación vial.
 
-La Inspección Ferroviaria, como autoridad competente a efectos de materia, en virtud del artículo 53b, apartado 5, de la ley n.º 266/1994 Coll., sobre ferrocarriles, en su redacción posterior, basándose en los resultados de la investigación de las causas y circunstancias de la aparición del accidente (MU) y teniendo en cuenta el persistente estado insatisfactorio de siniestralidad en el paso a nivel ferroviario en cuestión, la afirmación continua de su estado correcto y seguro, y la falta de interés por avanzar en esta problemática respecto a las posibilidades fundamentales de aumentar la seguridad, o incluso el nivel de protección del paso a nivel, por parte del explotador, el titular de la vía y el organismo de seguridad, en interés de la seguridad del tráfico ferroviario (y también del tráfico rodado), recomienda al organismo de seguridad (Autoridad Ferroviaria), al titular de la vía (SŽDC, s. o.) y al explotador de la vía y del tráfico ferroviario (ČD, a. s.) la instalación de barreras con vallas, o bien la construcción acelerada de un cruce fuera de nivel de la ruta de tráfico ferroviario en cuestión con la carretera en el lugar indicado, como la medida más eficaz para evitar la repetición del accidente (MU) por las mismas causas recurrentes, es decir, por el incumplimiento de las señales de protección del paso a nivel de tipo luminoso, sin barreras, por parte de los usuarios del tráfico rodado.
+En České Budějovice a 14 de marzo de 2008.
 
-En České Budějovice, el 14 de marzo de 2008.
-Jaroslav Říha, firma
-Ing. Petr Mencl, firma
+Jaroslav Říha s. f.
+Ing. Petr Mencl s. f.
 Inspector jefe
 Director
-Inspección Territorial de Pilsen
-Inspección Territorial de Pilsen
-
+de la Inspección Territorial de Plzeň
+de la Inspección Territorial de Plzeň
 
 ## Página 20
+
 
 ## 7 ANEXOS
 

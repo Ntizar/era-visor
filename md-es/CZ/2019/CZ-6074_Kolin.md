@@ -10,13 +10,14 @@ chars: 160022
 ratio_longitud: 1.28
 tokens_in: 92260
 tokens_out: 67354
-verificacion: revisar
-notas_cifras: ["bloque 1: original bilingüe: se compara contra el idioma principal (EN)", "bloque 2: original bilingüe: se compara contra el idioma principal (CS)", "bloque 3: original bilingüe: se compara contra el idioma principal (CS); cifras cortas: 1/98", "bloque 5: original bilingüe: se compara contra el idioma principal (CS)", "bloque 9: cifras cortas: 1/151", "bloque 10: original bilingüe: se compara contra el idioma principal (CS)"]
-avisos: ["bloque 3: ratio 1.63", "bloque 5: ratio 1.81", "bloque 10: ratio 1.73", "bloque 11: ratio 1.76"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 6: original bilingüe: se compara contra el idioma principal (EN)", "página 7: original bilingüe: se compara contra el idioma principal (PT)", "página 11: original bilingüe: se compara contra el idioma principal (CS)", "página 12: cifras cortas: 1/18", "página 13: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -39,13 +40,13 @@ IČ:   75009561
 mail@dicr.cz
 tel.: +420 736 521 003
 
-
 ## Página 2
+
 
 El presente informe final es público y todos los hechos en él expuestos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ## 1 RESUMEN
 Fuente: Drážní inspekce
@@ -66,8 +67,8 @@ Causa inmediata:
 no respetar la señal «Prohibido maniobrar» de la señal de enclavamiento Se81 de la estación de ferrocarril de Kolín por parte del jefe de cuadrilla de maniobras, quien era el empleado responsable de dirigir las maniobras, al que el transportista designó, durante la circulación de la maniobra de maniobras empujada, para supervisar la vía de estación por delante de los vehículos ferroviarios empujados y para dar las señales necesarias a la persona que conducía el vehículo ferroviario de la maniobra de maniobras empujada.
 •
 
-
 ## Página 4
+
 
 Factor contribuyente:
 no fue detectado por la Drážní inspekce.
@@ -82,8 +83,8 @@ Recomendación de seguridad:
 no fue emitida por la Drážní inspekce.
 •
 
-
 ## Página 5
+
 
 ## SUMMARY
 Grade: 
@@ -116,8 +117,8 @@ Root cause:
 none.
 Recommendation: not issued.
 
-
 ## Página 6
+
 
 # Índice
 1 RESUMEN........................................................................................................................3
@@ -159,6 +160,7 @@ SUMMARY.........................................................................
 3.4.1 Sistema de control, señalización y seguridad, incluidos los dispositivos para la automatización de
 
 ## Página 7
+
 
 registro de datos.....................................................................................................29
 3.4.2 Componentes de la vía....................................................................................33
@@ -204,8 +206,8 @@ ferroviario.....................................................................
 6 RECOMENDACIONES DE SEGURIDAD.................................................................................49
 7 ANEXOS..........................................................................................................................50
 
-
 ## Página 8
+
 
 ## Lista de siglas y símbolos utilizados
 CDP
@@ -277,8 +279,8 @@ Informe final sobre los resultados de la investigación del suceso ferroviario
 žst.
 estación de ferrocarril
 
-
 ## Página 9
+
 
 ## Lista de siglas de la legislación, normas y normativa interna
 utilizadas
@@ -340,8 +342,8 @@ enclavamiento", aprobada el 13. 11. 2018, con referencia
 núm.: 53217/2018-SŽDC-GŘ-O14, en vigor desde el 1. 6. 2019,
 en la redacción válida en el momento de producirse el SU
 
-
 ## Página 10
+
 
 SŽDC (ČD) Z1
 normativa interna del gestor de la infraestructura SŽDC, s. o.,
@@ -378,8 +380,8 @@ del transportista České dráhy, a.s.", aprobada el 15. 2. 2013,
 con referencia núm.: 55466/2013, en vigor desde el 1. 7. 2013,
 en la redacción válida en el momento de producirse el SU
 
-
 ## Página 11
+
 
 ## 2 DATOS RELATIVOS AL SUCESO FERROVIARIO
 ### 2.1 Suceso ferroviario
@@ -409,8 +411,8 @@ vía de circulación (de tren) (en adelante, vía de tren) establecida desde la 
 núm. 42 hasta la SK núm. 116 para el tren en circulación paralela Os 5914. El DV de la
 maniobra empujada y el del tren Os 5914 no colisionaron.
 
-
 ## Página 12
+
 
 De la inspección del lugar del SU se determinó, entre otros aspectos:
 el lugar de origen del SU se encontraba en la estación de ferrocarril Kolín, SK
@@ -449,17 +451,31 @@ empujada detuvo las ruedas del primer eje del bogie delantero en el sentido
 
 ## Página 13
 
-circulación en el desvío n.º 136 hasta detrás del corazón en su parte de cambio, no se produjo ningún daño en el desvío por una circulación no autorizada. En el momento del examen del lugar, la rueda MU del primer eje del bogie delantero se encontraba delante del contacto (raíz) de la lengüeta, es decir, en la parte central del desvío que une su parte de cambio con la parte de corazón, porque el jefe de la cuadrilla de maniobras dio, inmediatamente después de la aparición de la MU y de la parada del DV tras la MU, a la persona que dirige el DV de la sección de maniobras (en adelante, maquinista), la orden «Retirarse», para evitar la colisión del DV (véase también el punto 3.1.1 y 3.4.4 de la presente ZZ);
-• en la vía de tren del tren Os 5914, delante del desvío n.º 136 se encontraba el desvío de enlace n.º 129a/b, situado en el pk 298,062, cuya parte «b» era determinante en la vía de tren para la circulación alternativa del DV desde la vía n.º 42 a la vía n.º 114 o 116. El desvío de enlace estaba accionado en la dirección de circulación del tren Os 5914 desde la vía n.º 42 a través del desvío n.º 136 hasta la vía n.º 116b, es decir, en la vía secundaria de derecha a izquierda;
-• las cabezas de los cantos de las vías n.º 116a y del desvío n.º 136 estaban secas, sin contaminación por sustancias biológicas y oleosas. No se encontraron huellas del uso del equipo de arenado del DV de la sección de maniobras en las cabezas de los cantos de las vías ni en la superestructura;
-• en la vía de circulación (de maniobras) (en adelante, vía de maniobras) entre la señal principal (de vía) (en adelante, señal de vía) Lc44, situada en el pk 297,819 a la derecha justo junto a la vía n.º 44, y la señal de agrupamiento Se81, la distancia mutua era de 246 m;
-• en la vía de tren establecida para el tren Os 5914, entre la señal de vía Lc42, situada en el pk 297,823 a la derecha justo junto a la vía n.º 42, y la señal de vía Lc116, situada en el pk 298,306 a la derecha justo junto a la vía n.º 116, la distancia mutua era de 483 m, es decir, una distancia de frenado insuficiente;
-• el SZZ de la estación de Kolín era controlado por el DOZ desde la persona que dirige el tráfico ferroviario (en adelante, despachador de vía 115 CDP Praga o despachador de vía) desde el JOP, situado en la sala de despacho 4A del edificio CDP Praga. El SZZ presentaba un estado normal, es decir, sin averías, y todos los elementos de mando de emergencia del SZZ estaban provistos de precintos intactos. En la preparación de las vías de circulación para las maniobras permitidas en el período desde las 16.36.05 h hasta la aparición de la MU y para el tren Os 5914, no fueron utilizados los elementos de mando de emergencia del SZZ por el personal operativo;
-• la vía de maniobras establecida para la circulación de la sección de maniobras empujada desde la vía n.º 44 hasta la vía n.º 116a fue recorrida parcialmente por el DV tras la aparición de la MU, es decir, desde el circuito de vía (KO) del desvío n.º 97 hasta el KO de la señal de agrupamiento Se70, y por lo tanto no estaba bajo bloqueo. El KO de la parte restante de la vía de maniobras establecida, a partir de la vía n.º 116a, delimitada por las señales de agrupamiento Se70 y Se81, estaba ocupado por el DV de la sección de maniobras y en los monitores del SZZ el estado del tramo de vía (KÚ) estaba indicado cromáticamente con su coloración en rojo. Como consecuencia de la circulación no autorizada de la sección de maniobras más allá del nivel de la señal de agrupamiento Se81, el DV de esta sección de maniobras ocupaba también el KO del desvío n.º 136 (que no formaba parte de la vía de maniobras establecida), el cual estaba igualmente indicado cromáticamente con su coloración en rojo;
-• la primera parte de la vía de tren establecida para el tren Os 5914 en la estación de Kolín desde la vía n.º 2 Kutná Hora hl. n. – Kolín hasta la vía n.º 42 ya había sido recorrida por el DV tras la aparición de la MU, y por lo tanto no estaba bajo bloqueo. La parte restante de la vía de tren establecida para la circulación del tren Os 5914 entre las señales de vía Lc42 y Lc116 (a través de los desvíos n.º 111, 113, 129a/b, 136 y 137) estaba bajo bloqueo total, con lo que:
-
+circulación en el desvío n.º 136 hasta más allá de la aguja en su parte de cambio, no se produjo ningún daño en el desvío por una circulación no autorizada. En el momento del examen del lugar, la rueda del eje n.º 1 del bogie delantero se encontraba delante del contacto (raíz) de la lengüeta, es decir, en la parte central del desvío que une su parte de cambio con la parte de aguja, porque el jefe de la cuadrilla de maniobras dio, inmediatamente después de producirse el MU y de la parada del DV tras el MU, a la persona que dirigía el DV de la unidad de maniobras (en adelante, maquinista) la orden «Alejarse», para evitar la colisión del DV (véase también el punto 3.1.1 y 3.4.4 de esta ZZ);
+en la vía de circulación del tren Os 5914, delante del desvío n.º 136 se encontraba el desvío de enlace
+•
+n.º 129a/b, situado en el km 298,062, cuya parte «b» era determinante en la vía de circulación para la circulación alternativa del DV desde la SK n.º 42 hacia la SK n.º 114 o 116. El desvío de enlace estaba dispuesto en la posición en el sentido de circulación del tren Os 5914 desde la SK n.º 42 a través del desvío n.º 136 hacia la SK n.º 116b, es decir, en vía secundaria de derecha a derecha;
+las cabezas de los carriles de la SK n.º 116a y del desvío n.º 136 estaban secas,
+•
+sin contaminación por sustancias biológicas y petróleo. No se encontraron en las cabezas de los carriles ni en la superestructura huellas del uso del dispositivo de arenado del DV de la unidad de maniobras;
+en la vía de circulación (de maniobras) (en adelante, vía de maniobras) la distancia
+•
+mutua entre la señal principal (de vía) (en adelante, señal de vía) Lc44, situada en el km 297,819 a la derecha justo junto a la SK n.º 44, y la señal de agrupamiento Se81 era de 246 m;
+en la vía de circulación establecida para el tren Os 5914, la distancia mutua entre la
+•
+señal de vía Lc42, situada en el km 297,823 a la derecha justo junto a la SK n.º 42, y la señal de vía Lc116, situada en el km 298,306 a la derecha justo junto a la SK n.º 116, era de 483 m, es decir, una distancia de frenado insuficiente;
+el SZZ de la estación de Kolín estaba controlado por DOZ por la persona que dirigía el
+•
+tráfico ferroviario (en adelante, despachador de vía 115 CDP Praga o despachador de vía) desde el JOP, situado en la sala de despacho 4A del edificio de CDP Praga. El SZZ presentaba un estado normal, es decir, sin averías, y todos los elementos de mando de emergencia del SZZ estaban provistos de precintos intactos. En la preparación de las vías de circulación para las maniobras permitidas en el período desde las 16.36.05 h hasta la producción del MU y para el tren Os 5914, no fueron utilizados por el empleado operador los elementos de mando de emergencia del SZZ;
+la vía de maniobras establecida para la circulación de la unidad de maniobras empujada
+•
+desde la SK n.º 44 hacia la SK n.º 116a fue recorrida parcialmente por el DV tras producirse el MU, es decir, desde el circuito de vía (KO) del desvío n.º 97 hasta el KO de la señal de agrupamiento Se70, y por lo tanto no estaba bajo bloqueo. El KO de la parte restante de la vía de maniobras establecida, a partir de la SK n.º 116a, delimitada por las señales de agrupamiento Se70 y Se81, estaba ocupado por el DV de la unidad de maniobras, y en los monitores del SZZ el estado del tramo de vía (KÚ) se indicaba mediante su coloreado en rojo. Como consecuencia de la circulación no autorizada de la unidad de maniobras más allá del nivel de la señal de agrupamiento Se81, el KO del desvío n.º 136 (que no formaba parte de la vía de maniobras establecida) del DV de esta unidad de maniobras estaba también ocupado, el cual igualmente se indicaba mediante su coloreado en rojo;
+la primera parte de la vía de circulación establecida para el tren Os 5914 en la estación
+•
+de Kolín desde la TK n.º 2 Kutná Hora hl. n. – Kolín hacia la SK n.º 42 ya había sido recorrida por el DV tras producirse el MU, y por lo tanto no estaba bajo bloqueo. La parte restante de la vía de circulación establecida para la circulación del tren Os 5914 entre las señales de vía Lc42 y Lc116 (a través de los desvíos n.º 111, 113, 129a/b, 136 y 137) estaba bajo bloqueo total, con lo que:
 
 ## Página 14
+
 
 ◦desde el KO del desvío n.º 111 hasta la señal de agrupamiento Se78 estaba ocupado por el DV del tren y en los monitores del SZZ el estado del KÚ estaba indicado cromáticamente con coloración en rojo,
 ◦la parte no recorrida de la vía de tren establecida desde la señal de agrupamiento Se78 hasta la señal de vía Lc116, con la excepción del KO del desvío n.º 136, estaba libre (no estaba ocupada por ningún DV) y en los monitores del SZZ el estado del KÚ estaba indicado cromáticamente con su coloración en verde,
@@ -476,8 +492,8 @@ circulación en el desvío n.º 136 hasta detrás del corazón en su parte de ca
 ▪estación de radio de a bordo (RDST) con caja de mando VO79. Esta tenía configurado, para la comunicación por la red de radio STE 1 de la estación de Kolín durante las maniobras entre el despachador de vía, el maquinista y el jefe de la cuadrilla de maniobras en la red TRS, el canal 30 Simplex,
 ▪la palanca principal del controlador de circulación estaba en la posición «J» (circulación), el manómetro del conducto del freno automático de aire continuo (en adelante, conducto principal) mostraba un valor de presión de 4,4 bar,
 
-
 ## Página 15
+
 
 ▪la palanca del frenador del freno directo estaba en la posición «B2» (frenado total del DV), el manómetro de los cilindros de freno del HDV mostraba un valor de 3,8 bar;
 ◦con la realización de la prueba completa de freno de la sección de maniobras no se detectaron deficiencias en el funcionamiento de los frenos continuos del DV conectados al freno automático de aire;
@@ -501,36 +517,38 @@ el 29. 8. 2019, a las 16.59 h (es decir, 20 min. después de la aparición
 | Forma de comunicación: | telefónicamente . |
 | Comunicado por la persona autorizada en nombre de: | el gestor de la infraestructura (SŽDC s o ) y el transportista , . . , (ČD a s ) , . . . |
 
-
 ## Página 16
 
-Autorización del DI para la liberación de la vía:
+Aprobación del DI para la liberación de la vía:
 el 29. 8. 2019, a las 19.25 h (es decir, 2 h 36 min. después de la aparición de la MU).
-La comunicación de la MU por parte del gestor de la infraestructura y del transportista se ajustó a lo dispuesto en el § 49 apart. 3 letra a) de la Ley n.º 266/1994 Sb. y en el § 7 apart. 3 del Decreto n.º 376/2006 Sb.
-Decisión del DI sobre el inicio de la ISE:
-el 29. 8. 2019, y ello sobre la base de la repetición de MU similares y de la evaluación de todas las circunstancias, incl. los impactos en la explotación de la infraestructura y del transporte ferroviario.
-Investigación del DI en el lugar de la MU:
-2 inspectores de la ÚI Bohemia, centro de trabajo Praga.
+La notificación de la MU por parte del gestor de la vía y del transportista fue conforme a lo dispuesto en el § 49 apartado 3 letra a) de la ley nº 266/1994 Sb. y en el § 7 apartado 3 del decreto nº 376/2006 Sb.
+Decisión del DI sobre el inicio de la investigación:
+el 29. 8. 2019, y ello sobre la base de la repetición de MU similares y de la evaluación de todas las circunstancias, incl. los impactos en la explotación de la vía y del transporte ferroviario.
+Inspección del DI en el lugar de la MU:
+2 inspectores de la ÚI Čechy, centro de trabajo Praga.
 Constitución del equipo de investigación:
 no fue necesario constituirlo.
-Colaboración externa:
+Cooperación externa:
 no se utilizó.
-La investigación posterior de las causas y circunstancias de la aparición de la MU fue encomendada en el marco del DI a la ÚI Ostrava.
-En la investigación de las causas y circunstancias de la aparición de la MU, el DI partió de sus propios conocimientos y hallazgos, de su propia documentación fotográfica, de la documentación realizada durante la investigación por el gestor de la infraestructura SŽDC, s. o., y por el transportista ČD, a. s. La investigación de las causas y circunstancias de la aparición de la MU se realizó de acuerdo con la Ley n.º 266/1994 Sb. y el Decreto n.º 376/2006 Sb.
+La investigación posterior de las causas y circunstancias de la aparición de la MU fue encomendada dentro del DI a la ÚI Ostrava.
+En la investigación de las causas y circunstancias de la aparición de la MU, el DI partió de sus propios conocimientos y hallazgos, de su propia documentación fotográfica, de la documentación recabada durante la investigación por el gestor de la vía SŽDC, s. o., y por el transportista ČD, a. s. La investigación de las causas y circunstancias de la aparición de la MU se realizó de acuerdo con la ley nº 266/1994 Sb. y el decreto nº 376/2006 Sb.
+
 ### 2.2 Circunstancias del suceso excepcional
-### 2.2.1 Empleados implicados, personas en relación contractual y otros implicados y testigos
-Personas implicadas en nombre de:
-Gestor de la infraestructura (SŽDC, s. o.):
-despachador de vía 115 CDP Praga, empleado de SŽDC, s. o., CDP Praga.
-• Transportista (ČD, a. s.):
-jefe de la cuadrilla de maniobras, empleado de ČD, a. s., OCP Centro;
-•
-maquinista de la sección de maniobras, empleado de ČD, a. s., OCP Centro;
-•
-maquinista del tren Os 5914, empleado de ČD, a. s., OCP Este.
-•
+
+### 2.2.1 Empleados implicados, personas en relación contractual y demás implicados y testigos
+
+Personas implicadas por:
+
+Gestor de la vía (SŽDC, s. o.):
+• Despachante de línea 115 CDP Praga, empleado de SŽDC, s. o., CDP Praga.
+
+Transportista (ČD, a. s.):
+• Jefe de cuadrilla de maniobras, empleado de ČD, a. s., OCP Střed;
+• Maquinista de la unidad de maniobras, empleado de ČD, a. s., OCP Střed;
+• Maquinista del tren Os 5914, empleado de ČD, a. s., OCP Východ.
 
 ## Página 17
+
 
 2.2.2 Trenes y su composición, incluidos los números de registro de los vehículos ferroviarios individuales
 | Unidad de maniobras: |  | Composición de la unidad de maniobras: |  | Modo de frenado: |
@@ -570,8 +588,8 @@ a las 15.10 h;
 • el titular de todos los DV era ČD, a. s.
 El estado real del tren comprobado en el lugar de la MU correspondía a la documentación del tren.
 
-
 ## Página 18
+
 
 2.2.3 Descripción de los componentes de la vía y del sistema de señalización (es decir, en particular el estado de la vía, los desvíos, los aparatos de vía, las señales y el dispositivo de seguridad del tren)
 La est. Kolín se encuentra en las vías ferroviarias de categoría nacional «Česká Třebová –
@@ -617,8 +635,8 @@ respectivamente a traviesas de madera. Esta superestructura ferroviaria se intro
 a 1988 como material nuevo. El balasto de las SK está formado por árido natural triturado de fracción
 31,5/63 mm. La retención de los elementos de fijación era buena, los carriles estaban sin mayor desgaste.
 
-
 ## Página 19
+
 
 La SK n.º 116a, en la que se produjo la MU, está trazada en dirección recta, en pendiente de 1,41‰ en
 dirección de la señalización kilométrica, es decir, en la dirección de circulación de la unidad de maniobras empujada. La SK tiene una longitud de 149 m
@@ -665,8 +683,8 @@ mediante RDST, a saber:
 y el jefe de la cuadrilla de maniobras en el tiempo comprendido entre la parada del tren R 1107 en la est. Kolín en
 la SK n.º 114 y el inicio de la maniobras (la puesta en movimiento de la unidad de maniobras en la SK n.º 114 en
 
-
 ## Página 20
+
 
 movimiento), es decir, en un tiempo no especificable con mayor precisión desde las 16.32.20 h hasta las 16.36.34 h.
 En el marco de dicha comunicación se acordó la maniobra y el despachante de vía concedió
@@ -711,6 +729,7 @@ a las 21.40 h);
 
 ## Página 21
 
+
 19.15 h al operador de la infraestructura SŽDC, s. o., y al transportista ČD, a. s., se les concedió en el lugar del MU
 •
 el consentimiento del inspector DI presente para liberar la infraestructura;
@@ -744,22 +763,21 @@ jefe de cuadrilla de maniobras
 infraestructura SŽDC, s. o., y por el transportista ČD, a. s., entre otros, se desprende: 
 ◦durante la maniobra con DV desde el tren R 1107 cumplió, de conformidad con los procedimientos tecnológicos uniformes del transportista, las obligaciones del empleado que dirige la maniobra;
 
-
 ## Página 22
 
-◦tras la llegada del tren R 1107 a la SK n.º 114 de žst. Kolín acordó con el despachante de línea la maniobra desde la SK n.º 114 a través de la SK n.º 44 hasta la SK n.º 118 e informó verbalmente al maquinista de la maniobra;
-◦tras el consentimiento para la maniobra concedido por el despachante de línea con la señal «Maniobra permitida» del señal de itinerario Lc114, dio por medio de la RDST portátil la orden verbal «Alejar» al maquinista – el maquinista repitió la orden en la RDST y puso en movimiento el elemento de maniobra;
-◦tras la llegada del elemento de maniobra a la SK n.º 44 dio por medio de la RDST portátil la orden verbal «Despacio» y a continuación «Alto»;
-◦tras la detención en la SK n.º 44 y tras el consentimiento para la maniobra concedido por el despachante de línea con la señal «Maniobra permitida» indicada por el señal de itinerario Lc44, dio por medio de la RDST portátil la orden verbal «Empujamos» – el maquinista, ante esta orden, puso en movimiento el elemento de maniobra. Durante la marcha del elemento de maniobra empujado, este orden la repitió continuamente en la RDST;
-◦durante la marcha vio en el señal de agrupación Se81 la señal «Maniobra permitida», pero en cuanto el elemento de maniobra se aproximó inmediatamente a dicho señal, vio la señal «Maniobra prohibida». Ante este hecho reaccionó dando la orden verbal por medio de la RDST portátil al maquinista «Alto, alto, alto». En ese momento registró en la RDST la información del despachante de línea sobre el hecho de que el señal de agrupación Se81 indicaba la señal «Maniobra prohibida», y la advertencia de no avanzar con el elemento de maniobra más allá de su nivel;
-◦durante todo el tiempo de la marcha del elemento de maniobra empujado permaneció en el estribo delantero del TDV en el sentido de la marcha, y ello tras las puertas de paso cerradas – desde este lugar daba por medio de la RDST portátil las órdenes verbales al maquinista;
-◦durante todo el tiempo de la maniobra el señal de agrupación Se81 estaba iluminado por el resplandor del disco solar desde la izquierda en diagonal en el sentido de la marcha del empujón – determinadas condiciones lumínicas deben influir a mayor distancia en la nitidez (confundibilidad) de las señales luminosas indicadas.
-Nota del elaborador: inmediatamente antes de la aparición del MU y en el momento de su aparición, los rayos del disco solar procedían desde la izquierda en un ángulo de aprox. 65° respecto a la cara frontal del elemento de maniobra empujado, es decir, en contra del sentido de marcha del elemento de maniobra y hacia el lado no favorable del señal de agrupación Se81 – por tanto, la luz solar no podía influir de ninguna manera en la coloración de las lentes de vidrio de las lámparas de señal (véase también el punto 2.1.2 de esta ZZ);
-◦en el intento de evitar la colisión con otro DV tras la aparición del MU, dio tras la detención del elemento de maniobra al maquinista por medio de la RDST portátil la orden verbal «Alejar», porque comprobó que el desvío n.º 136 no estaba dispuesto para la marcha posterior del elemento de maniobra hacia la SK n.º 118.
-Nota del elaborador: aunque el jefe de cuadrilla de maniobras dio la orden «Alejar», con lo que inició en el lugar del MU la realización de cambios irreversibles, no habría evitado la amenaza de colisión con otro DV, porque el elemento de maniobra solo recorrió 2 m desde el lugar de la detención final tras el MU y el TDV, tras la marcha realizada en sentido contrario, permaneció detenido en el desvío n.º 136 (véase el punto 3.5.3 de esta ZZ).
-
+◦tras la llegada del tren R 1107 a la SK n.º 114 de la estación de Kolín, acordó con el despachador de línea el maniobrado desde la SK n.º 114 a través de la SK n.º 44 hasta la SK n.º 118, e informó verbalmente al maquinista del maniobrado;
+◦tras el consentimiento para el maniobrado otorgado por el despachador de línea mediante la señal "Posun dovolen" (maniobrado permitido) de la señal de camino Lc114, dio mediante la RDST portátil al maquinista la instrucción verbal "Vzdálit" (alejarse) – el maquinista repitió la instrucción RDST y puso en movimiento la unidad de maniobrado;
+◦tras la llegada de la unidad de maniobrado a la SK n.º 44, dio mediante la RDST portátil al maquinista la instrucción verbal "Pomalu" (despacio) y a continuación "Stůj" (alto);
+◦tras la parada en la SK n.º 44 y tras el consentimiento para el maniobrado otorgado por el despachador de línea mediante la señal "Posun dovolen" (maniobrado permitido) emitida por la señal de camino Lc44, dio mediante la RDST portátil al maquinista la instrucción verbal "Suneme" (empujamos) – el maquinista, ante esta instrucción, puso en movimiento la unidad de maniobrado. Durante el desplazamiento de la unidad de maniobrado empujada, repitió continuamente esta instrucción en la RDST;
+◦durante el desplazamiento, vio en la señal de clasificación Se81 la señal "Posun dovolen" (maniobrado permitido), pero en cuanto la unidad de maniobrado se aproximó inmediatamente a dicha señal, vio la señal "Posun zakázán" (maniobrado prohibido). Ante este hecho, reaccionó dando mediante la RDST portátil al maquinista la instrucción verbal "Stůj, stůj, stůj" (alto, alto, alto). En ese momento, registró en la RDST la información del despachador de línea sobre el hecho de que la señal de clasificación Se81 emitía la señal "Posun zakázán" (maniobrado prohibido), y la advertencia de no avanzar con la unidad de maniobrado más allá de su nivel;
+◦durante todo el desplazamiento de la unidad de maniobrado empujada, permaneció en el estribo delantero del TDV en el sentido de la marcha, y ello tras las puertas de paso cerradas – desde este lugar daba mediante la RDST portátil al maquinista las instrucciones verbales;
+◦durante todo el maniobrado, la señal de clasificación Se81 estaba iluminada desde la izquierda, en diagonal en el sentido de la marcha de empuje, por el resplandor del disco solar – determinadas condiciones lumínicas deben tener, a mayor distancia, influencia en la claridad (confundibilidad) de las señales luminosas emitidas.
+Nota del redactor: inmediatamente antes de la aparición de la MU y en el momento de su aparición, los rayos del disco solar procedían desde la izquierda en un ángulo de aprox. 65° respecto a la cara frontal de la unidad de maniobrado empujada, es decir, en sentido contrario a la marcha de la unidad de maniobrado y hacia el lado desfavorable de la señal de clasificación Se81 – por lo tanto, el resplandor solar no podía influir de ninguna manera en la coloración de las lentes de vidrio de las lámparas de señalización (véase también el punto 2.1.2 de esta ZZ);
+◦en el intento de evitar la colisión con otro DV tras la aparición de la MU, dio tras la parada de la unidad de maniobrado al maquinista mediante la RDST portátil la instrucción verbal "Vzdálit" (alejarse), porque comprobó que el desvío n.º 136 no estaba dispuesto para la siguiente marcha de la unidad de maniobrado hacia la SK n.º 118.
+Nota del redactor: aunque el jefe de la cuadrilla de maniobrado dio la instrucción "Vzdálit" (alejarse), con lo que en el lugar de la MU inició la realización de cambios irreversibles, no habría evitado la colisión inminente con otro DV, porque la unidad de maniobrado solo recorrió 2 m desde el punto de parada final tras la MU y el TDV, tras el desplazamiento realizado en sentido contrario, permaneció detenido en el desvío n.º 136 (véase el punto 3.5.3 de esta ZZ).
 
 ## Página 23
+
 
 maquinista del elemento de maniobra
   – de las Actas con el empleado, elaboradas por el
@@ -784,8 +802,8 @@ operador de la infraestructura SŽDC, s. o., y por el transportista ČD, a. s., 
 ◦el 29. 8. 2019 dirigió el HDV del tren Os 5914 en todo su recorrido, es decir, desde Havlíčkův Brod hasta Kolín. El tren no se retrasó durante la marcha, circuló puntual según el horario;
 ◦tras entrar en žst. Kolín continuó la marcha por la SK n.º 42 hasta el señal de itinerario Lc42, cuyo señal indicaba «Velocidad 40 km/h y repetición de la señal Aviso»;
 
-
 ## Página 24
+
 
 ◦aproximadamente a la altura del desvío n.º 124, que no formaba parte de su itinerario, comprobó, mirando las agujas del desvío de enlace n.º 129a/b, que la parte «b» estaba dispuesta en dirección a la SK n.º 116. Al mismo tiempo comprobó también que por la SK n.º 116a circulaba en el mismo sentido hacia la SK n.º 116 un elemento de maniobra, y por ello aplicó inmediatamente el frenado de acción rápida y detuvo el tren;
 ◦durante la marcha del tren en žst. Kolín no se comunicó con el jefe de estación de línea por medio de la RDST de a bordo en el sistema GSM-R CZ. Tras la detención del tren y el cambio de sintonía de la RDST de a bordo al canal 30 de la conexión simplex TRS, preguntó al despachante de línea «qué están haciendo ahí», pero no obtuvo respuesta.
@@ -804,6 +822,7 @@ Otras personas no presentaron explicaciones sobre las causas y circunstancias de
 
 ## Página 25
 
+
 ### 3.2 Sistema de garantía de la seguridad
 ### 3.2.1 Organización marco y forma de emisión y ejecución de instrucciones
 El gestor de la infraestructura SŽDC, s. o., y el operador ferroviario ČD, a. s., disponen de un sistema de garantía de la seguridad adoptado con base en lo dispuesto en la Ley n.º 266/1994 Sb., cuyo contenido incluye, entre otros, la organización marco y el modo establecido de ejecución de inspecciones y mediciones de las obras de las vías férreas para garantizar la operatividad de la vía y la seguridad del transporte ferroviario, la emisión y ejecución de instrucciones, y la utilización de DV para la circulación.
@@ -814,6 +833,7 @@ El despachante de vía solo podrá conceder el permiso para empujar vagones haci
 
 ## Página 26
 
+
 El maquinista, al dirigir un tren (DV), en el sentido del § 35 apartado 1 letra a) y g) de la Ley n.º 266/1994 Sb., § 35 apartado 1 del Decreto n.º 173/1995 Sb. y de las disposiciones correspondientes de la norma interna SŽDC D1 y de las normas internas del operador ČD, a. s., está obligado, entre otros, a dirigir el DV únicamente desde la posición que ofrezca la mejor visibilidad, por lo general desde la cabina delantera del maquinista en el sentido de la marcha, y a observar desde la parte delantera del DV la vía y las señales, actuando conforme a los hechos constatados. Durante la circulación no debe exceder la velocidad máxima permitida establecida en el horario o la velocidad limitada ordenada, p. ej., la indicada por la señal del señal principal.
 El maquinista tiene obligaciones análogas en el sentido del § 35 apartado 1 letra a) y g) de la Ley n.º 266/1994 Sb., § 16 y § 35 apartado 1 del Decreto n.º 173/1995 Sb. y de las disposiciones correspondientes de la norma interna SŽDC D1 y de las normas internas del operador ČD, a. s., durante las maniobras, en las que, además de dirigir el DV, cumple también las obligaciones del empleado que dirige la maniobra, entre ellas acordar la maniobra con la persona que dirige el transporte ferroviario (el despachante de vía). El maquinista puede realizar maniobras bien sin o bien con cuadrilla de maniobras. El operador, de conformidad con los procedimientos tecnológicos uniformes para maniobras con cuadrilla de maniobras en maniobras realizadas habitualmente, puede encargar de forma permanente el cumplimiento de las obligaciones del empleado que dirige la maniobra al jefe de cuadrilla de maniobras, es decir, también el acuerdo de la maniobra con el despachante de vía, y ello con base en un requerimiento acreditado del operador. Si la tecnología de maniobra requerida, es decir, los requisitos para la realización de la maniobra, las SK en las que se pretende realizar la maniobra y el tiempo previsto de maniobra, figuran en los medios tecnológicos GVD – Instrucciones para el desempeño del servicio de tráfico, el empleado que dirige la maniobra no tiene obligación de informar al despachante de vía sobre la tecnología de maniobra requerida antes del inicio de la maniobra. En el caso de que el operador haya encargado de forma permanente el cumplimiento de las obligaciones del empleado que dirige la maniobra al jefe de cuadrilla de maniobras, el maquinista no puede encomendar al jefe de cuadrilla de maniobras actividades que se deriven de las obligaciones y de la naturaleza del trabajo del maquinista, es decir, p. ej., la observación de las señales que ve durante la circulación del tramo de maniobra, o la libertad de la ruta de maniobra al arrastrar el tramo de maniobra, el servicio del freno continuo, o aquellas que deban cumplir simultáneamente tanto el maquinista como el jefe de cuadrilla de maniobras.
 La velocidad durante la maniobra se rige en función de cómo esté frenado el tramo de maniobra, de la longitud del tramo de maniobra, de la velocidad permitida de los vehículos y de otras circunstancias (p. ej., condiciones de pendiente). En la maniobra por arrastre no debe excederse la velocidad de 40 km·h-1, en la maniobra por empuje no debe excederse la velocidad de 30 km·h-1, siendo así que las limitaciones de velocidad de vía aplicables a los trenes se extienden también a las maniobras. El empleado que dirige la maniobra podrá cambiar el sentido de circulación del tramo de maniobra solo cuando todo el tramo de maniobra haya pasado la señal fija válida para maniobras, cuya indicación «Maniobra permitida» concederá el consentimiento de maniobra en sentido contrario.
@@ -822,25 +842,26 @@ El jefe de cuadrilla de maniobras, en las maniobras en las que se empujan DV, es
 
 ## Página 27
 
-En el sistema de garantía de la seguridad de la explotación de la vía del gestor de la infraestructura SŽDC, s. o., y en el sistema de garantía de la seguridad del transporte ferroviario del operador ČD, a. s., relacionados con las circunstancias del origen de la Mención Incidente (MU), no se detectó ninguna deficiencia.
-### 3.2.2 Requisitos para los empleados del gestor de la infraestructura y del operador y aplicación de dichos requisitos
-Los requisitos para los empleados del gestor de la infraestructura SŽDC, s. o., y del operador ČD, a. s., en particular los requisitos de idoneidad profesional y sanitaria, están establecidos por la Ley n.º 266/1994 Sb., el Decreto n.º 173/1995 Sb., el Decreto n.º 101/1995 Sb., el Decreto n.º 16/2012 Sb. y las normas internas del gestor de la infraestructura y del operador.
-En el momento del origen de la MU, todas las personas del gestor de la infraestructura SŽDC, s. o., y del operador ČD, a. s., involucradas en la MU que desempeñaban actividades en la explotación de la vía y del transporte ferroviario poseían la idoneidad profesional para el ejercicio de la función desempeñada.
-El jefe de cuadrilla de maniobras contaba con una práctica de casi 35 años en la función desempeñada y tenía conocimiento de las condiciones de vía en la estación (žst.) Kolín. Inició su carrera profesional en el operador ČD, a. s., respectivamente en los Ferrocarriles del Estado Checoslovacos, en el año 1982 y desde el año 1985 ejerce la profesión de jefe de maniobras, es decir, también de jefe de cuadrilla de maniobras (en casos seleccionados desempeñó en la žst. Kolín las obligaciones del empleado que dirige la maniobra).
-### 3.2.3 Procedimientos de control interno de seguridad y de auditoría y sus resultados
-El gestor de la infraestructura realizó en el año 2018, en el marco del control interno de seguridad, al despachante de vía 115 CDP, que en el momento del origen de la MU organizaba y dirigía el transporte ferroviario en la žst. Kolín entre las señales de entrada 1OS y 2OS (desde la dirección de la žst. Velký Osek) y 1KL y 2KL (desde la dirección de la žst. Kutná Hora hl. n.), es decir, en el 2.º recinto de la estación de viajeros en las SK n.º 108 a 122 y en el 2.º recinto de la estación de clasificación en las SK n.º 108 a 122, un total de 16 controles, durante los cuales, en la ejecución directa del servicio de tráfico, detectó 2 deficiencias, relativas a la no anotación de la preparación de un tren de mercancías para la salida y a la generación de retraso de un tren de viajeros causado por el incumplimiento de la prioridad en la circulación de trenes.
-El operador ČD, a. s., en el marco del control interno de seguridad, realizó:
+En el sistema de garantía de la seguridad de la explotación de la vía adoptado por el explotador de la vía SŽDC, s. o., y en el sistema de garantía de la seguridad del transporte ferroviario adoptado por el transportista ČD, a. s., relacionados con las circunstancias del origen de la MU en cuestión, no se detectó deficiencia alguna.
+### 3.2.2 Requisitos para el personal del explotador de la vía y del transportista y aplicación de dichos requisitos
+Los requisitos para el personal del explotador de la vía SŽDC, s. o., y del transportista ČD, a. s., en particular los requisitos de idoneidad profesional y sanitaria, están establecidos por la ley núm. 266/1994 Sb., por el decreto núm. 173/1995 Sb., por el decreto núm. 101/1995 Sb., por el decreto núm. 16/2012 Sb. y por las normas internas del explotador de la vía y del transportista.
+En el momento del origen de la MU en cuestión, todas las personas del explotador de la vía SŽDC, s. o., y del transportista ČD, a. s., participantes en la MU que desempeñaban actividades en la explotación de la vía y del transporte ferroviario poseían la idoneidad profesional para el ejercicio de la función desempeñada.
+El jefe de la cuadrilla de maniobras contaba con casi 35 años de experiencia en la función desempeñada y conocía las condiciones de la vía en la estación de Kolín. Inició su carrera profesional en el transportista ČD, a. s., respectivamente en los Ferrocarriles del Estado Checoslovaco, en el año 1982 y desde el año 1985 ejerce la profesión de jefe de maniobras, es decir, también de jefe de cuadrilla de maniobras (en casos seleccionados desempeñaba en la estación de Kolín las funciones del empleado responsable de las maniobras).
+### 3.2.3 Procedimientos de control interno de seguridad y auditoría y sus resultados
+El explotador de la vía realizó en el año 2018, en el marco del control interno de seguridad, al despachante de vía 115 CDP, que en el momento del origen de la MU organizaba y dirigía el transporte ferroviario en la estación de Kolín entre las señales de entrada 1OS y 2OS (desde la dirección de la estación de Velký Osek) y 1KL y 2KL (desde la dirección de la estación de Kutná Hora hl. n.), es decir, en el 2.º ámbito de la estación de viajeros en el SK núm. 108 a 122 y en el 2.º ámbito de la estación de clasificación en el SK núm. 108 a 122, un total de 16 controles, durante los cuales, en el ejercicio directo del servicio de tráfico, detectó 2 defectos, relativos a la no anotación de la preparación del tren de mercancías para la salida y a la generación de retraso del tren de viajeros causado por el incumplimiento de la prioridad en la circulación de los trenes.
+El transportista ČD, a. s., en el marco del control interno de seguridad, realizó:
 al maquinista del tren Os 5914 en los años 2018 y 2019 un total de 7 controles, de los cuales
 •
-6 se centraron en la ejecución de actividades durante la dirección del DV. En los controles realizados, el operador detectó 1 deficiencia, que no guardaba relación con la dirección del DV;
-al maquinista del tramo de maniobra en los años 2018 y 2019 (hasta el origen de la MU correspondiente)
+6 se centraron en el desempeño de actividades en la conducción de DV. En los controles realizados, el transportista detectó 1 defecto, que no guardaba relación con la conducción de DV;
+al maquinista de la sección de maniobras en los años 2018 y 2019 (hasta el origen de la MU en cuestión)
 •
-un total de 21 controles, de los cuales 20 se centraron en la ejecución de actividades durante la dirección del DV. En los controles realizados, el operador detectó un total de 3 deficiencias, de las cuales 1 consistió en el incumplimiento de la velocidad establecida en el recinto de desvíos adyacente a la señal principal, alrededor de la cual se permitió la circulación del tren con la señal de llamada. Las otras 2 deficiencias tenían carácter administrativo y no guardaban relación alguna con la dirección de HDV;
-al jefe de cuadrilla de maniobras se realizaron controles aleatorios, en el marco de los controles
+un total de 21 controles, de los cuales 20 se centraron en el desempeño de actividades en la conducción de DV. En los controles realizados, el transportista detectó un total de 3 defectos, de los cuales 1 consistía en el incumplimiento de la velocidad establecida en el ámbito de las agujas adyacente a la señal principal, alrededor de la cual se permitía la circulación del tren con señal de llamada. Los otros 2 defectos tenían carácter administrativo y no guardaban relación alguna con la conducción de HDV;
+al jefe de la cuadrilla de maniobras se realizaron controles aleatorios, en el marco de los controles
 •
-centrados en la ejecución de actividades durante la dirección del DV por parte de los maquinistas o en el estado técnico del DV, etc. En el periodo observado no se detectaron deficiencias.
+centrados en el desempeño de actividades en la conducción de DV por parte de los maquinistas o en el estado técnico de DV, etc. En el período observado no se detectaron deficiencias.
 
 ## Página 28
+
 
 En el curso de la auditoría interna de seguridad del gestor de la infraestructura y del transportista no se detectaron deficiencias.
 ### 3.2.4 Interfaz entre los distintos sujetos participantes y los componentes de la vía de circulación ferroviaria
@@ -864,8 +885,8 @@ En la investigación se constató la infracción de la normativa jurídica en re
 •
 "En las maniobras de vehículos ferroviarios por empuje, deberá viajar en el vehículo delantero … la persona cualificada designada, de modo que ... pueda tener visibilidad de la vía situada delante de los vehículos ferroviarios y dar las señales necesarias.".
 
-
 ## Página 29
+
 
 3.3.2 Otras normas, p. ej., reglamento de explotación, reglamento de trabajo, normas de mantenimiento, normas técnicas aplicables y otras normas internas
 En la investigación se constató la infracción de las normas internas en relación causal con la aparición de la MU:
@@ -897,8 +918,8 @@ art. 1767 letra d) de la norma interna del gestor de la infraestructura SŽDC D1
 ### 3.4.1 Sistema de control, señalización y seguridad, incluidos los dispositivos de registro automático de datos
 La est. Kolín está equipada con un SZZ eléctrico de 3.ª categoría según TNŽ 34 2620 (véase también el punto 2.2.3 de esta ZZ), para el cual el DÚ emitió el 8. 1. 2010, con el n.º de ref.: PZ 1755/09-E.45, el Certificado de idoneidad del UTZ eléctrico, con vigencia por tiempo indefinido. La última inspección y prueba del UTZ, dada la dimensión de la est. Kolín, se realizó en el plazo del 22. 1 al 10. 12. 2015, con vigencia hasta el 10. 12. 2020. El SZZ en cuestión es operado a través del DOZ por el
 
-
 ## Página 30
+
 
 despachante de línea 115 CDP Praha desde el JOP, cuyo puesto de operación se encuentra
 en la sala de despacho 4A del edificio CDP Praha en Praha-Libň. La configuración del SZZ de la est. Kolín permite la transferencia del DOZ al control local directamente desde el PPV de la est. Kolín – en este caso, el SZZ lo opera el jefe de estación de guardia del PPV desde la oficina de circulación situada en el edificio St. 2.
@@ -910,8 +931,8 @@ a las 16.21.46 h, mediante la operación normal del SZZ, se estableció para la 
 •
 desde el TK n.º 2 Velký Osek – Kolín, hasta el SK n.º 114g de la est. Kolín (2.º recinto de la estación de viajeros), posteriormente a las 16.23.28 h para la siguiente circulación del tren desde el SK n.º 114g, por el SK 114f, hasta el SK n.º 114e y después a las 16.24.57 h desde el SK n.º 114e, por el SK 114d, 114c, 114b y 114a, hasta el SK n.º 114. El semáforo de entrada 2OS indicaba la señal "Vía libre", el semáforo de ruta Sc114g indicaba también la señal "Vía libre" y el semáforo de ruta Sc114e,
 
-
 ## Página 31
+
 
 identificado con la placa indicadora con el número 5, indicaba la señal
 "Aviso". La ruta de tren terminaba en el SK n.º 114 a la altura del semáforo de ruta Sc114, que indicaba la señal "Alto";
@@ -950,6 +971,7 @@ a las 16.38.14 h el tren Os 5914 ocupó el KO del SK n.º 42;
 
 ## Página 32
 
+
 v 16.38.33 h el elemento de maniobra empujado ocupó el AE de la aguja n.º 97. 12 s después comenzó
 •
 el semáforo de vía Lc44 a indicar la señal «Alto»;
@@ -979,8 +1001,8 @@ el despachador de vía 115 CDP Praga dio autorización para empujar los DV desde
 
 El hallazgo indicado no puede valorarse en relación causal con la producción del MU (véase el punto 4.2.1 de esta ZZ).
 
-
 ## Página 33
+
 
 ### 3.4.2 Componentes de la vía
 Para garantizar la operatividad de la vía y la seguridad del transporte ferroviario, antes de la producción del MU, el explotador ferroviario realizó inspecciones y mediciones de las obras ferroviarias de conformidad con el § 26 apartados 1 y 2 del decreto n.º 177/1995 Sb.
@@ -1002,8 +1024,8 @@ La idoneidad técnica del ŘDV de tipo «1435 2‘ 2‘», serie 50 54 80-29 205
 
 El ŘDV 50 54 80-29 205-9 estaba, en el momento de la producción del MU, de conformidad con lo dispuesto en el art. 5 de la Parte II «Material rodante de la vía de ámbito nacional y de la vía regional, Otros requisitos» del Anexo n.º 3 al decreto n.º 173/1995 Sb., equipado con un dispositivo de registro automático de datos – registrador de velocidad (RR) con registro electrónico de las variables registradas Unicontrols Tramex
 
-
 ## Página 34
+
 
 RE1xx, n.º 7082, situado en la cabina del maquinista. De los datos registrados sobre la circulación del tren R 1107 y del elemento de maniobra en la est. de Kolín el 29. 8. 2019, redondeando el tiempo a segundos completos, la velocidad a km·h-1 completos y la distancia recorrida a metros completos, y teniendo en cuenta la desviación temporal entre el tiempo registrado por el RR y el tiempo real, se desprende, entre otros:
 v 16.26.46 h a una velocidad de 49 km·h-1 el tren R 1107 pasó el semáforo de entrada 2OS
@@ -1029,8 +1051,8 @@ v 16.39.05 h el maquinista, a una velocidad de 27 km·h-1, accionó el mando del
 encontraba en el pk 298,064, es decir, a 1 m del lugar de producción del MU. La presión del aire en la tubería principal descendió posteriormente de 4,975 bar al valor de 4,5 bar;
 ### 0,13 s después se produjo el MU – el elemento de maniobra empujado, a una velocidad de 27 km·h-1, pasó en el pk 298,065 con su frente el semáforo de clasificación Se81, que indicaba la señal «Maniobras prohibidas», y entró de forma no autorizada tras su altura;
 
-
 ## Página 35
+
 
 v 16.39.08 h el maquinista, a una velocidad de 26 km·h-1, accionó el mando del freno automático de aire, con el que introdujo el frenado de acción rápida, el elemento de maniobra se
 •
@@ -1057,60 +1079,62 @@ El HDV 362.121-6 estaba, en el momento de la producción del MU, de conformidad 
 
 v 16.37.35 h a una velocidad de 68 km·h-1 el tren pasó la señal de entrada 2KL y entró en
 •
-la est. Kolín. El tren se encontraba a una distancia de 1 433 m antes de la señal de
-circulación Lc42 y a 1 644 m antes del punto de parada;
-v 16.38.23 h el maquinista, para reducir la velocidad del tren, manejó el mando del freno
+la est. Kolín. El tren se encontraba a una distancia de 1 433 m antes de la
+señal de camino Lc42 y a 1 644 m antes del lugar de parada;
+v 16.38.23 h el maquinista, para reducir la velocidad del tren, accionó el mando del freno
 •
-automático de aire, con el que aplicó el frenado de servicio. El tren se encontraba en
-la SK n.º 42, a una distancia de 560 m antes de la señal de circulación Lc42
-y a 761 m antes del punto de parada;
-v 16.38.52 h como consecuencia del frenado de servicio aplicado, la velocidad del tren
+automático de aire, con el que aplicó el frenado en servicio. El tren se
+encontraba en el SK n.º 42, a una distancia de 560 m antes de la señal de
+camino Lc42 y a 761 m antes del lugar de parada;
+v 16.38.52 h como consecuencia del frenado en servicio aplicado, la velocidad del tren en
 •
-sobre la vía recorrida de 423 m comenzó a disminuir gradualmente hasta el valor de
-39 km·h-1. El tren se encontraba en la SK n.º 42, a una distancia de 137 m antes de la
-señal de circulación Lc42 y a 338 m antes del punto de parada;
-v 16.39.06 h mediante la marcha por inercia, la velocidad del tren disminuyó gradualmente
+la distancia recorrida de 423 m comenzó a disminuir gradualmente hasta el
+valor de 39 km·h-1. El tren se encontraba en el SK n.º 42, a una distancia de
+137 m antes de la señal de camino Lc42 y a 338 m antes del lugar de parada;
+v 16.39.06 h mediante la marcha por inercia, la velocidad del tren disminuyó gradualmente a
 •
-a 36 km·h-1, con esta velocidad pasó la señal de circulación Lc42 y se encontraba a
-201 m antes del punto de parada;
+36 km·h-1, con esta velocidad pasó la señal de camino Lc42 y se encontraba a
+201 m antes del lugar de parada;
 v 16.39.17 h el maquinista, a una velocidad de 35 km·h-1, a una distancia de 88 m antes
 •
-del punto de parada, manejó el mando del freno automático de aire, con el que aplicó el
-frenado de servicio y 1 s después el frenado de acción rápida. La presión del aire en la
-tubería principal posteriormente descendió al valor de 3 bar;
-v 16.9.31 h el tren, por efecto del frenado de acción rápida, se detuvo con el frontal del
+del lugar de parada, accionó el mando del freno automático de aire, con el
+que aplicó el frenado en servicio y 1 s después el frenado de emergencia. La
+presión de aire en la tubería principal posteriormente descendió al valor de
+3 bar;
+v 16.39.31 h el tren, por efecto del frenado de emergencia, se detuvo con el frontal del
 •
-HDV en la posición final tras la aparición de la MU en el pk 298,024, a una distancia de
-3 m detrás de la señal de clasificación Se78 y a 50 m antes del topador situado entre las
-ramas de la parte «a» de la aguja de enlace n.º 129a/b y a una distancia mutua de 86 m
-del frontal de la unidad de maniobras;
+HDV en la posición final tras la aparición de la MU en el km 298,024, a una
+distancia de 3 m detrás de la señal de agrupación Se78 y a 50 m antes del
+topón situado entre las ramas de la parte «a» de la aguja de cruce n.º 129a/b
+y a una distancia mutua de 86 m del frontal de la maniobra de maniobras;
+no se superó la velocidad máxima permitida durante la circulación del tren en la
 •
-no se superó la velocidad máxima permitida durante la marcha del tren en la est. Kolín;
+est. Kolín;
+durante todo el tiempo de circulación del tren en la est. Kolín hasta la aplicación del
 •
-durante todo el tiempo de marcha del tren en la est. Kolín hasta la aplicación del frenado
-de acción rápida, la parte móvil del asegurador automático de trenes estuvo activada y
-manejada periódicamente por el maquinista durante todo el transcurso de la marcha del
-tren;
+frenado de emergencia, la parte móvil del protector de tren estaba conectada y
+accionada periódicamente por el maquinista durante todo el transcurso de la
+circulación del tren;
+tras la parada en el km 298,024, el maquinista activó el freno directo del HDV, cuyo
 •
-tras detenerse en el pk 298,024, el maquinista activó el freno directo del HDV, cuyo
 efecto aseguró el tren contra el movimiento.
 No se detectaron deficiencias.
 ### 3.5 Documentación sobre el sistema de explotación
 ### 3.5.1 Medidas adoptadas por los empleados del gestor de la infraestructura y del
-transportista en lo que respecta a la regulación y aseguramiento del tráfico
-El despachador de línea 115 CDP Praga, en el marco de la preparación de las rutas de
-maniobra para la marcha de la unidad de maniobras (tras el acuerdo previo de la maniobra
-con el jefe de cuadrilla de maniobras), formada por DV que se separaban del tren R 1107,
-y de las rutas de tren para la entrada y la marcha del tren Os 5914 en/hacia la est. Kolín,
-realizó en el orden indicado el conjunto de operaciones de tráfico y procedimientos de
-trabajo, cuando:
+transportista en lo que respecta a la dirección y la seguridad del tráfico
+El despachador de línea 115 CDP Praga, en el marco de la preparación de los itinerarios de
+maniobras para la circulación de la maniobra de maniobras (tras el acuerdo previo de la
+maniobra con el jefe de la cuadrilla de maniobras), compuesta por los DV que se
+desprenden del tren R 1107, y de los itinerarios de tren para la entrada y la circulación del
+tren Os 5914 en/hacia la est. Kolín, realizó en el orden indicado el conjunto de
+operaciones de tráfico y procedimientos de trabajo, cuando:
+el itinerario de tren para la entrada del tren Os 5914 desde el TK n.º 2 Kutná Hora hl. n. –
 •
-la ruta de tren para la entrada del tren Os 5914 desde la TK n.º 2 Kutná Hora hl. n. –
-Kolín hacia la est. Kolín, a través de la SK de paso n.º 42a hacia la SK principal n.º 42
-(1.ª parte de la ruta de tren), es decir, hasta el 2.º circuito
-
+Kolín hasta la est. Kolín, a través del SK de paso n.º 42a al SK principal n.º 42 (1.ª parte
+del itinerario de tren), es decir, hasta el 2.º sector
 
 ## Página 37
+
 
 de la estación de clasificación, la estableció con la operación normal del SZZ ESA 11. La
 ruta de tren en cuestión estaba delimitada por el tramo de SK desde la señal de entrada 2KL
@@ -1173,8 +1197,8 @@ circulación Sc114. Sobre el hecho de que la señal de circulación Sc114 emitie
 que permite la maniobra y de que la ruta de maniobra desde la SK n.º 114, es decir, desde
 el 2.º circuito de la estación de viajeros
 
-
 ## Página 38
+
 
 hacia la SK n.º 44, es decir, hasta el 2.º circuito de la estación de clasificación, estuviera
 correctamente establecida, pudo convencerse durante todo el tiempo de la marcha mirando
@@ -1240,71 +1264,88 @@ lo antes posible, a pesar de que la señal
 
 ## Página 39
 
-„Posun zakázán“ indicada por la señal de maniobras de clasificación Se81 en el pk 298,065 era visible ya desde el nivel de la señal de camino Lc44, es decir, desde el pk 297,819. El jefe de cuadrilla de maniobras podía ver la señal de esta señal de clasificación ya a las 16.38.33 h, cuando la composición de maniobras empujada a una velocidad de 18 km·h-1 pasó con su frente la señal de camino Lc44, pero dio la orden de detención al maquinista solo después de transcurridos aprox. 28 s de la marcha de la composición de maniobras empujada, con un tiempo de reacción de 2 s tanto del jefe de maniobras como del maquinista. La señal que prohibía la marcha posterior en la SK n.º 118 la detectó tarde, y por ello no dio al maquinista la señal necesaria para que pudiera detener a tiempo la composición de maniobras antes del punto indicado, es decir, para que el frente de la composición de maniobras se detuviera aún antes de la señal de clasificación Se81 y no se produjera así la MU.
-Si la composición de maniobras empujada hubiera pasado la señal de camino Lc44 a la velocidad máxima permitida de 30 km·h-1, la señal „Posun zakázán“ indicada por la señal de clasificación Se81 habría sido visible durante 32 s.
-Tras detenerse la composición de maniobras en el desvío n.º 136, es decir, ya después de la MU, el jefe de cuadrilla de maniobras dio al maquinista la orden de cambiar el sentido de marcha y, a continuación, de poner la composición de maniobras en movimiento en sentido contrario hacia la SK n.º 116a, tras lo cual, después de recorrer 2 m, la composición de maniobras se detuvo. Esta maniobra se realizó de forma intuitiva, inmediatamente después de la detención del DV, en un intento de evitar la colisión con otro DV, es decir, de eliminar o reducir las consecuencias de la MU (véase el punto 3.5.3 de esta ZZ).
-Se detectó una deficiencia.
-Hallazgo:
-• el jefe de cuadrilla de maniobras, lo antes posible durante la marcha de la composición de maniobras empujada desde la SK n.º 44 y tras la SK n.º 116a, no detectó que la señal de clasificación Se81 no permitía la maniobra, y no dio a tiempo la orden de detención de la composición de maniobras al maquinista para que la composición de maniobras se detuviera con su frente antes de esta señal, lo que provocó la marcha no autorizada de la composición de maniobras más allá del nivel de la señal de clasificación Se81, que indicaba la señal „Posun zakázán“ y prohibía la maniobra posterior desde la SK n.º 116a a través de la SK n.º 116b hacia la SK n.º 118 (véanse los puntos 3.4.1, 3.4.4, 4.1.1 y 4.2.1 de esta ZZ).
-El maquinista del tren Os 5914 conducía la HDV serie 362.121-6 desde la cabina de conducción n.º 2, la delantera en el sentido de marcha del tren. Entró en la est. Kolín desde la TK n.º 2 Kutná Hora hl. n. – Kolín con la señal „Výstraha“ indicada por la señal de entrada 2KL. Durante la marcha por la est. Kolín desde la SK n.º 42, el maquinista observaba la vía y las señales, es decir, también la señal „Rychlost 40 km/h a opakování návěsti Výstraha“ indicada por la señal de camino Lc42, que le permitía continuar la marcha. Por ello, continuó con el tren desde la SK n.º 42, es decir, desde el 2.º ámbito de la estación de clasificación, hasta el 2.º ámbito de la estación de viajeros, donde debía detenerse y finalizar la marcha del tren en el espacio destinado al embarque y desembarque de pasajeros (junto al borde del andén n.º 5) en la SK n.º 114 o 116. Sin embargo, en cuanto, según la posición de las agujas del desvío de enlace n.º 129a/b, dirigidas hacia la SK n.º 116 (a través de la SK n.º 116b), comprobó el hecho de que tenía la vía de tren establecida en la SK n.º 116 y que en el desvío n.º 136, que formaba parte de su vía de tren, se encontraba un DV, actuó de acuerdo con los hechos comprobados y, por tanto, aplicó el frenado de acción rápida. A continuación, detuvo el tren con seguridad en el pk 298,024, a una distancia de 3 m tras la señal de clasificación Se78 y 50 m antes del hito situado entre las ramas de la parte „a“ del desvío de enlace n.º 129a/b y a una distancia mutua de 86 m del frente de la composición de maniobras, es decir, en el frente del TDV en marcha 50 54 21-29 346-3.
-No se detectaron deficiencias.
+„Movimiento prohibido“ indicado por la señal de maniobras de clasificación Se81 en el pk 298,065 era visible ya desde el nivel de la señal de trayecto Lc44, es decir, desde el pk 297,819. El jefe de cuadrilla de maniobras podía haber observado la señal de esta señal de maniobras de clasificación ya a las 16.38.33 h, cuando la unidad de maniobras empujada, a una velocidad de 18 km·h-1, pasó con su frente la señal de trayecto Lc44, pero dio la orden de detención al maquinista solo después de transcurridos aprox. 28 s de la marcha de la unidad de maniobras empujada, con un tiempo de reacción de 2 s tanto del jefe de maniobras como del maquinista. Detectó tarde la señal que prohibía la marcha posterior en la vía SK n.º 118 y, por tanto, no dio al maquinista la señal necesaria para que pudiera detener a tiempo la unidad de maniobras antes del punto indicado, es decir, para que el frente de la unidad de maniobras se detuviera aún antes de la señal de maniobras de clasificación Se81 y no se produjera así el MU.
 
+Si la unidad de maniobras empujada hubiera pasado la señal de trayecto Lc44 a la velocidad máxima permitida de 30 km·h-1, la señal „Movimiento prohibido“ indicada por la señal de maniobras de clasificación Se81 habría sido visible durante 32 s.
+
+Tras la detención de la unidad de maniobras en el desvío n.º 136, es decir, ya después del MU, el jefe de cuadrilla de maniobras dio al maquinista la orden de cambiar el sentido de marcha y, a continuación, de poner la unidad de maniobras en movimiento en sentido inverso hacia la vía SK n.º 116a, tras lo cual, después de recorrer 2 m, la unidad de maniobras se detuvo. Esta maniobra se realizó de forma intuitiva, inmediatamente después de la detención del DV, en un intento de evitar la colisión con otro DV, es decir, de eliminar o reducir las consecuencias del MU (véase el punto 3.5.3 de la presente ZZ).
+
+Se detectó una deficiencia.
+
+Hallazgo:
+• El jefe de cuadrilla de maniobras, lo antes posible durante la marcha de la unidad de maniobras empujada desde la vía SK n.º 44 y a lo largo de la vía SK n.º 116a, no detectó que la señal de maniobras de clasificación Se81 no autorizaba el movimiento de maniobras, y no dio a tiempo la orden de detención de la unidad de maniobras al maquinista para que la unidad de maniobras se detuviera con su frente antes de dicha señal, lo que provocó la marcha no autorizada de la unidad de maniobras más allá del nivel de la señal de maniobras de clasificación Se81, la cual indicaba la señal „Movimiento prohibido“ y prohibía el movimiento de maniobras posterior desde la vía SK n.º 116a a través de la vía SK n.º 116b hacia la vía SK n.º 118 (véanse los puntos 3.4.1, 3.4.4, 4.1.1 y 4.2.1 de la presente ZZ).
+
+El maquinista del tren Os 5914 conducía la locomotora de la serie 362.121-6 desde la cabina de conducción n.º 2, la delantera en el sentido de marcha del tren. Entró en la estación de Kolín desde la vía TK n.º 2 Kutná Hora hl. n. – Kolín con la señal „Aviso“ indicada por la señal de entrada 2KL. Durante la marcha por la estación de Kolín a lo largo de la vía SK n.º 42, el maquinista observaba la vía y las señales, es decir, también la señal „Velocidad 40 km/h y repetición de la señal Aviso“ indicada por la señal de trayecto Lc42, que autorizaba su marcha posterior. Por ello, continuó con el tren desde la vía SK n.º 42, es decir, desde el 2.º ámbito de la estación de clasificación, hacia el 2.º ámbito de la estación de viajeros, donde debía detenerse y finalizar la marcha del tren en el espacio destinado al embarque y desembarque de viajeros (junto al borde del andén n.º 5) en la vía SK n.º 114 o 116. Sin embargo, en cuanto, según la posición de las agujas del desvío de enclavamiento n.º 129a/b, dirigidas hacia la vía SK n.º 116 (a través de la vía SK n.º 116b), comprobó el hecho de que tenía la vía de tren establecida en la vía SK n.º 116 y que en el desvío n.º 136, que formaba parte de su vía de tren, se encontraba un DV, actuó de acuerdo con los hechos comprobados y, por tanto, aplicó el frenado de acción rápida. A continuación, detuvo el tren con seguridad en el pk 298,024, a una distancia de 3 m detrás de la señal de maniobras de clasificación Se78 y 50 m antes del límite de maniobra situado entre las ramas de la parte „a“ del desvío de enclavamiento n.º 129a/b, y a una distancia mutua de 86 m del frente de la unidad de maniobras, es decir, en el frente del TDV 50 54 21-29 346-3 en marcha.
+
+No se detectaron deficiencias.
 
 ## Página 40
 
-3.5.2 Intercambio de comunicaciones orales en relación con la incidencia, incluidos los datos del dispositivo de registro
-El despachador de vía inmediatamente antes de la producción de la MU advirtió directamente por RDST al jefe de cuadrilla de maniobras, es decir, a la persona que dirige la maniobra (y al maquinista de la composición de maniobras), del peligro de marcha no autorizada más allá de la señal de clasificación Se81, que indicaba la señal „Posun zakázán“. Dado que la ruta de maniobras estaba establecida (se concedió el permiso de maniobra con la señal de la señal de camino Lc 44) en la SK n.º 116a hasta un punto unívocamente definido por el nivel de la señal de clasificación Se81, y también por la ausencia de registro del uso de los medios de comunicación de la red local de radio en la est. Kolín (véase el punto 2.2.4 de esta ZZ), no fue posible, en la investigación de esta MU, determinar de forma comprobable si el jefe de cuadrilla de maniobras dio al maquinista de la composición de maniobras la orden de detener la maniobra antes de la advertencia del despachador de vía sobre el peligro de marcha no autorizada más allá de la señal de clasificación Se81, o solo sobre la base de este mensaje recibido (véanse los puntos 3.1.1 y 3.4.3 de esta ZZ).
-### 3.5.3 Medidas adoptadas para la protección y aseguramiento del lugar de la incidencia
-El lugar de la MU fue asegurado por la persona cualificada técnicamente competente designada del operador ferroviario y del transportista, de conformidad con el decreto n.º 376/2006 Sb.
-La marcha de la composición de maniobras realizada tras la producción de la MU desde la posición final del DV en el pk 298,110 en la vía 2 m en sentido contrario, es decir, hasta el pk 298,108 en dirección a la SK n.º 116a, no puede considerarse como falta de aseguramiento del lugar de la MU – incumplimiento de las disposiciones legales, porque el movimiento (cambio de la posición final del DV tras la MU) fue iniciado y realizado intuitivamente por los empleados del transportista ČD, a. s., inmediatamente después de la detención del DV, en un intento de evitar la colisión con otro DV, es decir, de eliminar o reducir las consecuencias de la MU. Sin embargo, el cambio realizado no fue suficiente, porque para evitar la colisión de DV habría sido necesario que el TDV se desplazara con su frente a una mayor distancia, preferiblemente hasta detrás del hito, es decir, la señal invariable que entre la SK n.º 116a y la SK por la que circulaba el tren Os 5914 establecía el límite entre dos SK contiguas, más allá del cual no debe sobrepasar el DV, para que no se vea amenazada la circulación del DV por la vía contigua (véase también el punto 3.1.1).
-### 3.6 Condiciones laborales, sanitarias y operativas
-### 3.6.1 Jornada laboral de los empleados del operador ferroviario y del transportista que participaron en la incidencia
-• Maquinista de la composición de maniobras, en turno del 29. 8. 2019 desde las 11.30 h, descanso previo al turno de 68.55 h. Debido a la hora de incorporación al turno, parte del período adecuado de descanso y alimentación antes de la producción de la MU se disfrutó en la est. Kolín en el período de 15.13 h a 15.38 h, debiendo disfrutarse la parte restante del período adecuado de descanso y alimentación tras la finalización de la maniobra en cuestión en la est. Kolín.
-• Jefe de cuadrilla de maniobras, en turno del 29. 8. 2019 desde las 15.45 h, descanso previo al turno de 57.45 h. Debido a la hora de incorporación al turno y a la hora de producción de la MU, no se disfrutó durante el turno de la pausa en el trabajo o, en su caso, del período adecuado de descanso y alimentación.
-• Maquinista del tren Os 5914, en turno del 29. 8. 2019 desde las 10.35 h, descanso previo al turno de 11.58 h. El período adecuado de descanso y alimentación estaba previsto en la composición del turno por el transportista ČD, a. s., hasta la hora de producción de la MU, y fue disfrutado por el maquinista del tren Os 5914
-
+3.5.2 Intercambio de comunicaciones orales en relación con el suceso excepcional, incluidos los datos del dispositivo de registro
+El despachador de línea advirtió directamente, justo antes de la producción del SE, al jefe del cuadrillo de maniobras vía RDST, es decir, a la persona que dirige la maniobra (y al maquinista de la unidad de maniobras), del peligro de paso indebido más allá de la señal de clasificación Se81, que mostraba la señal «Maniobras prohibidas». Dado que la ruta de maniobras estaba establecida (se concedió el permiso para la maniobra mediante la señal de la señal de ruta Lc 44) en el SK n.º 116a hasta un punto definido de forma unívoca por el nivel de la señal de clasificación Se81, así como por la ausencia de registro del uso de los medios de comunicación de la red local de radio en la est. Kolín (véase el punto 2.2.4 de la presente ZZ), no fue posible determinar de forma comprobable, en la investigación de este SE, si la orden de detener la maniobra la dio el jefe del cuadrillo de maniobras al maquinista de la unidad de maniobras antes de la advertencia del despachador de línea sobre el peligro de paso indebido más allá de la señal de clasificación Se81, o bien sobre la base de este mensaje recibido (véanse los puntos 3.1.1 y 3.4.3 de la presente ZZ).
+### 3.5.3 Medidas adoptadas para la protección y la seguridad del lugar del suceso excepcional
+El lugar del SE fue asegurado por la persona cualificada y competente designada del gestor de la infraestructura y del transportista, de conformidad con el decreto n.º 376/2006 Sb.
+La marcha de la unidad de maniobras realizada tras la producción del SE desde la posición final del DV en el km 298,110 en la vía 2 en sentido inverso, es decir, hasta el km 298,108 en sentido hacia el SK n.º 116a, no puede considerarse como falta de aseguramiento del lugar del SE – incumplimiento de la normativa legal, porque el movimiento (el cambio de la posición final del DV tras el SE) fue iniciado y realizado de forma intuitiva por los empleados de la transportista ČD, a. s., inmediatamente después de la detención del DV, con el fin de evitar una colisión con otro DV, es decir, de eliminar o reducir las consecuencias del SE. La maniobra realizada, sin embargo, no fue suficiente, porque para evitar la colisión de DV habría sido necesario que el TDV se desplazara con su frente a una mayor distancia, preferiblemente hasta más allá del námezník, es decir, la señal invariable que, entre el SK n.º 116a y el SK por el que circulaba el tren Os 5914, establecía el límite entre dos SK contiguas, más allá del cual no podía sobresalir el DV, para que no se viera amenazada la circulación del DV por la vía contigua (véase también el punto 3.1.1).
+### 3.6 Condiciones laborales, sanitarias y de explotación
+### 3.6.1 Jornada laboral de los empleados del gestor de la infraestructura y del transportista que participaron en el suceso excepcional
+Maquinista de la unidad de maniobras, en el turno del día 29. 8. 2019 a partir de las 11.30 h, descanso
+•
+previo al turno de 68.55 h. Debido a la hora de incorporación al turno, parte del período adecuado de descanso y alimentación antes de la producción del SE se disfrutó en la est. Kolín en el período comprendido entre las 15.13 h y las 15.38 h, correspondiendo la parte restante del período adecuado de descanso y alimentación disfrutarla tras la finalización de la maniobra en cuestión en la est. Kolín.
+Jefe del cuadrillo de maniobras, en el turno del día 29. 8. 2019 a partir de las 15.45 h, descanso previo
+•
+al turno de 57.45 h. Debido a la hora de incorporación al turno y a la hora de producción del SE, no se disfrutó durante el turno de descanso intermedio, en su caso, del período adecuado de descanso y alimentación.
+Maquinista del tren Os 5914, en el turno del día 29. 8. 2019 a partir de las 10.35 h, descanso previo
+•
+al turno de 11.58 h. El período adecuado de descanso y alimentación estaba previsto en la composición del turno por la transportista ČD, a. s., hasta la hora de producción del SE, y el maquinista del tren Os 5914
 
 ## Página 41
 
-en la est. Kolín en el período de 12.22 h a 12.42 h, es decir, con una duración de 20 min.
-Dado que al disfrute del período adecuado de descanso y alimentación precedió un viaje de servicio en el período de 10.55 h a 12.20 h, que con su duración de 1 h 25 min. proporcionó al maquinista sin duda un espacio suficiente también para el descanso y la alimentación (el maquinista no participó en el movimiento del DV), no puede considerarse en este caso concreto lo mencionado como incumplimiento de lo dispuesto en el § 88 apart. 1 de la ley n.º 262/2006 Sb., es decir, la no concesión de la pausa en el trabajo para la alimentación y el descanso como máximo cada 6 h de trabajo ininterrumpido con una duración mínima de 30 min., respect. del período adecuado de descanso y alimentación.
-• Despachador de vía, en turno del 29. 8. 2019 desde las 6.15 h, descanso previo al turno de 72 h. El período adecuado de descanso y alimentación se disfrutó en el período de 15.30 h a 16.00 h.
-Los empleadores garantizaron las condiciones para el descanso previo al turno y el período adecuado de descanso y alimentación durante el turno, de conformidad con la ley n.º 262/2006 Sb., respect. con el decreto gubernamental n.º 589/2006 Sb., por el que se establece una regulación diferenciada de la jornada laboral y del tiempo de descanso de los empleados en el transporte.
-3.6.2 Estado de salud y situación personal que tuvieron repercusión en la incidencia, incluido el estrés físico o psicológico
-Los empleados participantes del operador ferroviario y del transportista se sometían a exámenes médicos periódicos de conformidad con lo dispuesto en el decreto n.º 101/1995 Sb.
-No se detectó ningún estado de salud o situación personal que pudiera haber tenido influencia en la producción de la MU, incluido el estrés físico y psicológico.
-3.6.3 Disposición del equipamiento del puesto de mando o del vehículo ferroviario que influye en su conducción y uso
-La disposición y el equipamiento del puesto de trabajo de los empleados del operador ferroviario y del transportista no guardaban relación con la producción de la MU.
-### 3.7 Incidencias anteriores de carácter similar
-El DI, en el período desde el 1. 1. 2010 hasta la producción de la incidencia en cuestión, en las vías ferroviarias, categoría nacional y regional, registra un total de 39 MU similares, en las que se produjo, durante una maniobra realizada por empuje de DV, una marcha no autorizada más allá del nivel de la señal variable.
-La causa inmediata de estas MU radicaba en el incumplimiento (desobediencia) de la orden dada directamente por la señal de la señal variable, es decir, bien la señal „Posun zakázán“ o „Stůj“, que prohibían la maniobra posterior. Como consecuencia de las marchas no autorizadas, el suceso continuó en un total de 16 MU, a saber:
-• en 11 casos, en los que el DV descarriló y se produjo un daño de 5 086 913 Kč;
-• en 3 casos, en los que el DV colisionó con un equipo técnico de la vía y se produjo un daño de 601 050 Kč;
-• en 2 casos, en los que el DV colisionó con otros DV y se produjo un daño de 11 187 381 Kč.
-### En ninguna de las MU mencionadas se produjo daño a la salud de las personas y el daño total ascendió a 16 989 833 Kč.
-
+disfrutada en la estación de Kolín entre las 12.22 h y las 12.42 h, es decir, durante 20 min.
+Dado que el disfrute del tiempo adecuado de descanso y comida precedió a un viaje de servicio entre las 10.55 h y las 12.20 h, que con su duración de 1 h 25 min. proporcionó al maquinista sin duda un espacio suficiente también para el descanso y la comida (el maquinista no participó en el movimiento de la DV), en este caso concreto no puede considerarse lo anterior como incumplimiento de lo dispuesto en el § 88 apartado 1 de la ley núm. 262/2006 Sb., es decir, la no concesión de una pausa de trabajo para comer y descansar como máximo cada 6 h de trabajo ininterrumpido con una duración mínima de 30 min., respectivamente, del tiempo adecuado de descanso y comida.
+El despachista de vía, en el turno del día 29. 8. 2019 desde las 6.15 h, descanso previo al turno
+•
+72 h. El tiempo adecuado de descanso y comida se disfrutó entre las 15.30 h y las 16.00 h.
+Los empleadores garantizaron las condiciones para el descanso previo al turno y el tiempo adecuado de descanso y comida durante el turno, de conformidad con la ley núm. 262/2006 Sb., respectivamente, con el decreto gubernamental núm. 589/2006 Sb., por el que se establece una regulación diferenciada de la jornada laboral y del tiempo de descanso de los empleados en el transporte.
+3.6.2 Estado de salud y situación personal que tuvieron incidencia en el suceso excepcional, incluido el estrés físico o psicológico
+Los empleados participantes del gestor de la vía y del transportista se sometían a exámenes médicos periódicos de conformidad con lo dispuesto en la declaración núm. 101/1995 Sb.
+No se detectó ningún estado de salud ni situación personal que pudiera tener influencia en la aparición del SE, incluido el estrés físico y psicológico.
+3.6.3 Disposición del equipamiento del puesto de mando o del vehículo ferroviario que influye en su manejo y uso
+La disposición y el equipamiento del puesto de trabajo de los empleados del gestor de la vía y del transportista no guardaban relación con la aparición del SE.
+### 3.7 Sucesos excepcionales previos de carácter similar
+El DI, en el período desde el 1. 1. 2010 hasta la aparición del SE objeto de estudio en las vías ferroviarias, categorías nacional y regional, registra un total de 39 SE similares, en los que se produjo, durante un maniobra realizada por empuje de la DV, una circulación no autorizada más allá de la señalización variable.
+La causa inmediata de estos SE consistió en el incumplimiento (desobediencia) de la instrucción dada directamente por la señalización de la señal variable, es decir, bien la señalización «Maniobra prohibida» o «Alto», que prohibían la maniobra posterior. Como consecuencia de las circulaciones no autorizadas, el suceso continuó en un total de 16 SE, a saber:
+en 11 casos, en los que la DV descarriló y se produjo un daño de 5 086 913 Kč;
+•
+en 3 casos, en los que la DV colisionó con un equipo técnico de la vía y se produjo un daño de
+•
+601 050 Kč;
+en 2 casos, en los que la DV colisionó con otras DV y se produjo un daño de 11 187 381 Kč.
+•
+### En ninguno de los SE mencionados se produjeron daños personales y el daño total
+### ascendió a 16 989 833 Kč.
 
 ## Página 42
 
-En el período en cuestión, el DI investigó las causas y circunstancias en las vías ferroviarias, categoría nacional y regional, de estas 2 MU similares:
-• del 4. 4. 2017 (22.29 h) en la est. Ústí nad Labem hl. n., ámbito norte, señal de clasificación Se224, pk 519,258, cuando, tras la marcha no autorizada de la composición de maniobras empujada más allá del nivel de la señal de clasificación Se224, se produjo la entrada en la ruta de maniobras establecida para la marcha de la composición de maniobras remolcada y la posterior colisión del DV y descarrilamiento, con lo que:
-  ◦la causa inmediata de la producción de la MU fue la marcha no autorizada de la composición de maniobras empujada más allá de la señal de clasificación Se224, con la señal „Posun zakázán“, y la entrada en la ruta de maniobras establecida de la composición de maniobras remolcada,
-  ◦las causas fundamentales fueron:
-    ▪la marcha de la composición de maniobras empujada del transportista sin autorización de maniobra y permiso de maniobra más allá de la señal de clasificación Se224 con la señal „Posun zakázán“,
-    ▪la no comprobación por parte del maquinista, como empleado que dirige la maniobra, mediante observación o consulta antes de poner en movimiento la composición de maniobras empujada, de si la señal invariable Se224 permitía la maniobra para la marcha pretendida,
-    ▪la no comprobación de circunstancias que amenacen la seguridad durante la maniobra con el maniobrador, es decir, la no comprobación de la señal „Posun zakázán“ en la señal de clasificación Se224, y la no entrega inmediata de la orden al maquinista para detener la composición de maniobras empujada del transportista.
-En la MU se produjo un daño de 4 362 291 Kč.
-El DI, sobre la base de los resultados de la investigación de las causas y circunstancias de la producción de la MU en cuestión, no emitió recomendaciones de seguridad;
-• del 27. 5. 2018 (7.44 h) en la est. Praha-Vršovice estación de clasificación, señal principal (de salida) (en adelante, señal de salida) L1, pk 10,458, cuando, tras la marcha no autorizada de la composición de maniobras empujada más allá del nivel de la señal de salida L1, se produjo la entrada en la vía de tren establecida para la circulación del tren Sv 29997 sin más consecuencias, con lo que:
-  ◦la causa inmediata de la producción de la MU fue el incumplimiento de la señal „Stůj” de la señal principal (de salida) L1 en la estación ferroviaria Praha-Vršovice estación de clasificación, enlace Odjezd, por parte del maniobrador al frente de la composición de maniobras empujada.
-  ◦la causa fundamental fue la emisión de la orden para iniciar la maniobra con el maniobrador al frente de la composición de maniobras empujada tras su previa recepción errónea de la señal luminosa, inválida en su significado para la maniobra y dada por una señal variable invariable inválida para el carril con la composición de maniobras detenida.
-En la MU no se produjo daño.
-El DI, sobre la base de los resultados de la investigación de las causas y circunstancias de la producción de la MU en cuestión, emitió recomendaciones de seguridad, con las que recomendó al DÚ:
-1. la adopción de medidas propias que garanticen:
-   a) dentro de su propia actividad de control, un enfoque adecuado al cumplimiento de las reglas establecidas para la comunicación por radio entre los empleados del operador ferroviario y del transportista en la organización y realización de maniobras (especialmente en las estaciones de enlace);
-   b) por parte del operador de la vía privada y del operador de la vía nacional, que participan en la est. Praha-Vršovice estación de clasificación, enlace Odjezd, en la organización
+En el período examinado, la DI investigó las causas y circunstancias en las vías ferroviarias, categoría nacional y regional, en estos 2 accidentes ferroviarios análogos:
+• del 4. 4. 2017 (22.29 h) en la est. Ústí nad Labem hl. n., distrito norte, señal de clasificación Se224, pk 519,258, cuando tras la circulación no autorizada de la unidad de maniobra empujada más allá del nivel de la señal de clasificación Se224, se produjo la entrada en la vía de maniobra establecida para la circulación de la unidad de maniobra remolcada y la consiguiente colisión con el DV y el descarrilamiento, siendo:
+◦la causa inmediata de la producción del accidente ferroviario la circulación no autorizada de la unidad de maniobra empujada más allá de la señal de clasificación Se224, con la señal «Prohibido el paso de maniobras», y la entrada en la vía de maniobra establecida de la unidad de maniobra remolcada,
+◦las causas fundamentales fueron:
+▪la circulación de la unidad de maniobra empujada del transportista sin autorización para maniobras y sin consentimiento para maniobras más allá de la señal de clasificación Se224 con la señal «Prohibido el paso de maniobras»,
+▪la no verificación por parte del maquinista, como empleado que dirige las maniobras, mediante observación o consulta, antes de poner en movimiento la unidad de maniobra empujada, de si la señal no transponibile Se224 permite las maniobras para la circulación pretendida,
+▪la no verificación de las circunstancias que ponen en peligro la seguridad durante las maniobras por parte del operador de maniobras, es decir, la no verificación de la señal «Prohibido el paso de maniobras» en la señal de clasificación Se224, y la no emisión inmediata de la instrucción al maquinista para detener la unidad de maniobra empujada del transportista.
+Del accidente ferroviario se derivó un daño de 4 362 291 Kč.
+La DI, sobre la base de los resultados de la investigación de las causas y circunstancias de la producción del citado accidente ferroviario, no emitió recomendaciones de seguridad;
+• del 27. 5. 2018 (7.44 h) en la est. Praha-Vršovice estación de clasificación, señal principal (de salida) (en adelante, señal de salida) L1, pk 10,458, cuando tras la circulación no autorizada de la unidad de maniobra empujada más allá del nivel de la señal de salida L1, se produjo la entrada en la vía de tren establecida para la circulación del tren Sv 29997 sin más consecuencias, siendo:
+◦la causa inmediata de la producción del accidente ferroviario el incumplimiento de la señal «Alto» de la señal principal (de salida) L1 en la estación de ferrocarril Praha-Vršovice estación de clasificación, enlace Odjezd, por parte del operador de maniobras al frente de la unidad de maniobra empujada.
+◦la causa fundamental fue la emisión de la instrucción para iniciar las maniobras con el operador de maniobras al frente de la unidad de maniobra empujada tras su previa recepción errónea de la señal luminosa, sin validez por su significado para las maniobras y emitida por una señal no transponibile variable no válida para la vía con la unidad de maniobra detenida.
+Del accidente ferroviario no se derivó daño.
+La DI, sobre la base de los resultados de la investigación de las causas y circunstancias de la producción del citado accidente ferroviario, emitió recomendaciones de seguridad, con las que recomendó a la DÚ:
+1. la adopción de sus propias medidas que garanticen:
+a) dentro de su propia actividad de control, un enfoque adecuado en el cumplimiento de las normas establecidas para la comunicación por radio entre los empleados del operador de la vía y el transportista al organizar y realizar las maniobras (especialmente en las estaciones de enlace);
+b) en el operador de vía privada y en el operador de vía nacional, que participan en la est. Praha-Vršovice estación de clasificación, enlace Odjezd, en la organización de
 
 ## Página 43
+
 
 para la realización de maniobras entre el apartadero "DKV Praha PJ Vršovice" y la vía de ancho nacional, la reevaluación del sistema de control en relación con el cumplimiento de las reglas establecidas para la comunicación por radio;
 2. la adopción de una medida propia que garantice la modificación de los procedimientos tecnológicos correspondientes del operador del apartadero "DKV Praha PJ Vršovice" de modo que:
@@ -1317,32 +1358,68 @@ El DÚ, en relación con la recomendación de seguridad emitida, adoptó y emiti
 constatados en el punto 3
 Al suceso excepcional (MU) precedió la llegada del tren R 1107, circulando en el trayecto Rumburk – Kolín, compuesto por un total de 3 DV, que llegó a la est. Kolín a la SK nº 114, donde en el espacio destinado al embarque y desembarque de pasajeros (junto al borde del andén nº 5) a las 16.32.20 h se detuvo y finalizó su circulación. Posteriormente, a petición del operador ČD, a. s., y de acuerdo con la circulación vigente de los DV, del tren R 1107 debía acoplarse al final del tren el TDV 50 54 21-29 346-3, que debía ser estacionado mediante una maniobra en la SK nº 118. Tras concertar la maniobra, el despachista de línea 115 CDP Praga decidió la circulación de la unidad de maniobras, cuyo maquinista realizaba la maniobra con la cuadrilla de maniobras, desde la SK nº 114, situada en el 2º sector de la estación de pasajeros, hasta la SK nº 44, perteneciente al 2º sector de la estación de clasificación, y a las 16.36.05 h estableció la ruta de maniobras para la circulación de los DV. La circulación de la unidad de maniobras se realizó mediante una maniobra por tracción. En ese momento, el despachista de línea ya había establecido la ruta de tren para el tren Os 5914 desde la TK nº 2 Kutná Hora hl. n. – Kolín hasta el 2º sector de la estación de clasificación de la est. Kolín en la SK principal nº 42, que terminaba a la altura de la señal de vía Lc42. La unidad de maniobras por tracción, tras llegar a la SK nº 44 y detenerse en dicha SK más allá de la altura de la señal de vía Lc44, tras el cambio de dirección de la maniobra realizada, debía continuar la circulación, en la que debían ser empujados los DV, de vuelta al 2º sector de la estación de pasajeros, es decir, en dirección a la SK nº 118. Dado que no se trataba de una maniobra más urgente que la entrada de un tren, el despachista de línea, de acuerdo con los procedimientos tecnológicos del operador de la vía relativos a la organización y dirección del tráfico ferroviario, dio prioridad a la circulación del tren Os 5914 sobre la maniobra realizada. Por ello, para la siguiente circulación del tren Os 5914 en la est. Kolín a las 16.38.06 h
 
-
 ## Página 44
 
-estableció la ruta de tren desde la SK nº 42 hasta el 2º sector de la estación de pasajeros en la SK nº 116, donde en el espacio destinado al embarque y desembarque de pasajeros (junto al borde del andén nº 5) debía detenerse este tren y finalizar su circulación. Simultáneamente, para la maniobra detenida en la SK nº 44, estableció la ruta de maniobras de vuelta al 2º sector de la estación de pasajeros, pero solo hasta la SK nº 116a, donde la ruta de maniobras terminaba a la altura de la señal de clasificación Se81. La ruta de maniobras hasta la SK nº 118, donde debía estacionarse un DV de la unidad de maniobras, no pudo establecerse íntegramente, porque parte de la ruta de tren para el tren Os 5914 y la unidad de maniobras era común a través de los desvíos nº 136 y 137, y por tanto excluida. Sin embargo, la unidad de maniobras empujada que circulaba desde la SK nº 44 hacia la SK nº 116a no se detuvo con su frente delante de la señal de clasificación Se81 con la señal "Maniobra prohibida", donde terminaba la ruta de maniobras, y a las 16.39.05 h continuó indebidamente la circulación más allá de su altura y entró en la ruta de tren establecida para el tren Os 5914.
-Como consecuencia de la circulación indebida de la unidad de maniobras empujada más allá de la altura de la señal de vía Se81, el SZZ de la est. Kolín, con su actividad correcta, a las 16.39.06 h intervino en la ruta de tren establecida para el tren Os 5914 y cambió la señal "Velocidad 40 km/h y repetición de la señal Aviso", emitida por la señal de vía Lc42, por la señal "Alto". En ese momento, el frente del tren Os 5914 se encontraba a la altura de la señal de vía Lc42, es decir, que todas las luces de señalización de dicha señal ya estaban fuera del ángulo de visión del maquinista y este no podía detectar el cambio del signo de señalización. Sin embargo, en cuanto registró en el desvío nº 136 los DV detenidos, que habían entrado en la ruta de tren establecida para su circulación, actuó de acuerdo con los hechos constatados. A las 16.37.17 h, a una velocidad de 35 km·h-1, el maquinista del tren Os 5914 accionó el mando del freno automático de aire, con el que aplicó el frenado de servicio y 1 s después el frenado de emergencia.
-### Con la reacción correcta y oportuna del maquinista del tren Os 5914 se evitó la colisión con el TDV 50 54 21-29 346-3, detenido en el desvío nº 136, es decir, en la ruta de tren establecida para el tren por él conducido. En la posición final tras el MU, los frentes de la unidad de maniobras empujada, es decir, el TDV 50 54 21-29 346-3, y del tren Os 5914, es decir, el HDV 362.121-6, permanecieron a una distancia mutua de 86 m. Tras la detención del tren Os 5914, en el tiempo comprendido entre las 16.39.56 y las 16.39.58 h se realizó la circulación de la unidad de maniobras desde la posición final de los DV tras la ocurrencia del MU en el km 298,110 de la vía 2 m en dirección de vuelta, es decir, hasta el km 298,108 en dirección a la SK nº 116a.
+estableció la vía de tren desde SK n.º 42 al 2.º ámbito de la estación de pasajeros hacia SK n.º 116, donde
+en el espacio destinado al embarque y desembarque de pasajeros (junto al borde del andén n.º 5) debía
+este tren detenerse y finalizar su marcha. Simultáneamente, para el maniobrado estacionado en SK n.º 44
+estableció la vía de maniobra de vuelta al 2.º ámbito de la estación de pasajeros, pero solo hasta SK n.º 116a,
+donde la vía de maniobra terminaba a la altura de la señal de clasificación Se81. La vía de maniobra hasta
+SK n.º 118, donde debía ser estacionado un DV del tramo de maniobra, no pudo ser establecida completa,
+porque parte de la vía de circulación para el tren Os 5914 y el tramo de maniobra era común a través de los
+desvíos n.º 136 y 137, y por tanto excluida. Sin embargo, el tramo de maniobra empujado que circulaba
+desde SK n.º 44 hacia SK n.º 116a no se detuvo con su frente delante de la señal de clasificación Se81 con
+la señal «Maniobra prohibida», donde terminaba la vía de maniobra, y a las 16.39.05 h continuó indebidamente
+su marcha más allá de su altura y entró en la vía de tren establecida para el tren Os 5914.
+Como consecuencia de la marcha indebida del tramo de maniobra empujado más allá de la altura de la señal
+de circulación Se81, el SZZ de la est. Kolín intervino a las 16.39.06 h con su actividad correcta en la vía de tren
+establecida para el tren Os 5914 y cambió la señal «Velocidad 40 km/h y repetición de la señal Aviso»
+señalizada por la señal de circulación Lc42 por la señal «Alto». En ese momento, el frente del tren Os 5914
+se encontraba a la altura de la señal de circulación Lc42, es decir, que todas las luces de señalización de la
+señal en cuestión ya estaban fuera del ángulo de visión del maquinista y este no podía detectar el cambio
+del signo de señalización. Sin embargo, en cuanto registró en el desvío n.º 136 un DV estacionado, que
+entró en la vía de tren establecida para su circulación, actuó según los hechos constatados. A las 16.37.17 h,
+a una velocidad de 35 km·h-1, el maquinista del tren Os 5914 accionó el mando del freno automático de
+aire, con el que introdujo el frenado de servicio y 1 s después el frenado de acción rápida.
+### Con la reacción correcta y oportuna del maquinista del tren Os 5914 se evitó la colisión con el TDV
+50 54 21-29 346-3, estacionado en el desvío n.º 136, es decir, en la vía de tren establecida para el tren
+por él conducido. En la posición final tras la MU quedaron los frentes del tramo de maniobra empujado,
+es decir, el TDV 50 54 21-29 346-3, y del tren Os 5914, es decir, el HDV 362.121-6, detenidos a una
+distancia mutua de 86 m. Tras la detención del tren Os 5914, en el tiempo de 16.39.56 a 16.39.58 h se
+realizó la marcha del tramo de maniobra desde la posición final del DV tras la aparición de la MU en el
+km 298,110 de la vía 2 m en dirección de vuelta, es decir, hasta el km 298,108 en dirección hacia SK n.º 116a.
 ### 4.2 Análisis
-### 4.2.1 Evaluación de los hechos constatados en el punto 3 y exposición de las conclusiones sobre la causa del suceso excepcional y la actuación de los servicios de rescate
-Para garantizar la operatividad de la vía y la seguridad del tráfico ferroviario en la est. Kolín, antes de la ocurrencia del MU, el operador de la vía SŽDC, s. o., realizó inspecciones y mediciones de las obras de las vías de acuerdo con la normativa legal y los procedimientos tecnológicos del operador de la vía.
-Las circulaciones de los trenes R 1107 y Os 5914 y la maniobra realizada con los DV que se separaban del tren R 1107 estuvieron aseguradas en la est. Kolín de acuerdo con la normativa legal y los procedimientos tecnológicos del operador de la vía SŽDC, s. o., es decir, que el despachista de línea 115 CDP Praga, en el marco de la preparación de las rutas de tren para la circulación de los trenes en cuestión y de las rutas de maniobras para la maniobra realizada, efectuó el conjunto de las maniobras de tráfico (establecidas) y procedimientos de trabajo prescritos.
-Aunque el despachista de línea 115 CDP Praga dio, en contra de la normativa legal y los procedimientos tecnológicos del operador de la vía SŽDC, a. s., el permiso para empujar los DV del tren
-
+### 4.2.1 Evaluación de los hechos constatados en el punto 3 y formulación de conclusiones sobre la causa
+del suceso excepcional y la actuación de los servicios de rescate
+Para garantizar la operatividad de la vía y la seguridad del transporte ferroviario en la est. Kolín,
+antes de la aparición de la MU, el operador de la vía SŽDC, s. o., realizaba inspecciones y mediciones
+de las obras de las vías de acuerdo con las disposiciones legales y los procedimientos tecnológicos
+del operador de la vía.
+Las circulaciones de los trenes R 1107 y Os 5914 y la maniobra, realizada con DV que se separaban del tren
+R 1107, estaban aseguradas en la est. Kolín de acuerdo con las disposiciones legales y los procedimientos
+tecnológicos del operador de la vía SŽDC, s. o., es decir, que el despachador de línea 115 CDP Praga, en el
+marco de la preparación de las vías de tren para la circulación de los trenes en cuestión y de las vías de
+maniobra para la maniobra realizada, efectuó el conjunto de las maniobras de tráfico (establecidas) y de
+los procedimientos de trabajo prescritos.
+Aunque el despachador de línea 115 CDP Praga dio, en contra de las disposiciones legales
+y los procedimientos tecnológicos del operador de la vía SŽDC, a. s., el permiso para empujar el DV del tren
 
 ## Página 45
 
-R 1107 desde la SK nº 44 hasta la SK libre nº 116a de la est. Kolín, a pesar de tratarse de una SK que converge con la SK por la que posteriormente se estableció desde la SK nº 42 hasta la SK nº 116 la ruta de tren para el tren Os 5914, lo anterior no puede valorarse en relación causal con la ocurrencia del MU, porque:
-la ruta de tren para el tren Os 5914 estaba protegida, respecto de la unidad de maniobras empujada que circulaba en la misma dirección por la SK nº 116a (que converge con la ruta de tren para el tren Os 5914 en el desvío nº 136), por la señal de clasificación Se81, que emitía la señal unívoca "Maniobra prohibida", es decir, una señal que prohíbe la circulación de la unidad de maniobras;
-•
-como consecuencia de la circulación indebida de la unidad de maniobras más allá de la altura de dicha señal, no se produjo la colisión entre los DV de la unidad de maniobras y el tren Os 5914 (véase el punto 4.4.1 de esta ZZ).
-•
-La señal de clasificación Se81 de la est. Kolín era, por su construcción, una señal unidireccional, enana, con dos luces de señalización de luz blanca (superior) y azul (inferior). La señal y sus señales eran, de acuerdo con lo dispuesto en el § 7 apartado 4 del decreto nº 173/1995 Sb., desde la posición del maquinista del DV líder o, en el caso de maniobras por empuje de DV, cuando en el DV delantera circula un empleado profesionalmente competente del operador, en el presente caso el jefe de cuadrilla de maniobras, visibles de forma ininterrumpida desde una distancia superior a 245 m. De lo anterior se deduce que la posición y la construcción de la señal de clasificación Se81 permitían al jefe de cuadrilla de maniobras detectar dicha señal fija, incl. la señal prohibitoria de maniobras que emitía, significativamente antes de los 100 m (si la visibilidad no la obstruyen otros DV, al menos a una distancia de 50 m) establecidos por la normativa legal, incl. la adopción de las medidas correspondientes para detener oportunamente la unidad de maniobras antes del lugar señalizado.
-Todos los DV de los trenes R 1107 y Os 5914, es decir, también los DV de la unidad de maniobras que se separaba del tren R 1107, en el momento de la ocurrencia del MU eran utilizados por el operador ČD, a. s., en la explotación del tráfico ferroviario, de acuerdo con el § 35 apartado 1 letra d) de la ley nº 266/1994 Sb. y los procedimientos tecnológicos uniformes del operador, en un estado técnico que correspondía a la aptitud aprobada.
-El operador ČD, a. s., en el caso de la maniobra realizada con los DV que se separaban del tren R 1107, en relación con lo dispuesto en los arts. 329, 1545, 1750, 1753 y 1767 letra d) de la norma interna de SŽDC D1 y el § 16 apartados 2 y 4 del decreto nº 173/1995 Sb., de acuerdo con el § 35 apartado 1 letra a) y letra g) de la ley nº 266/1994 Sb., no explotó el tráfico ferroviario de acuerdo con las reglas de explotación del tráfico ferroviario, la licencia vigente y el contrato celebrado con el operador de la vía sobre la explotación del tráfico ferroviario en la vía, y en la explotación del tráfico ferroviario no se atuvo a las instrucciones del operador de la vía dadas en la organización del tráfico ferroviario, al no haber detectado (no haber observado) el jefe de cuadrilla de maniobras, durante la circulación de la unidad de maniobras empujada desde la SK nº 44 hacia la SK nº 116a, por una percepción errónea de la señal emitida por la señal de clasificación Se81, la señal "Maniobra prohibida" emitida por la señal de clasificación Se81 en un lugar y en un momento tales que diera al maquinista la señal necesaria para que este pudiera detener oportunamente la unidad de maniobras antes del lugar señalizado.
-El jefe de cuadrilla de maniobras entró en turno el día 29. 8. 2019 a las 15.45 h en la est. Kolín. En el momento de la entrada en turno y durante el mismo se sintió descansado, no estaba alterado por nada, no sentía fatiga. De la investigación realizada se desprende que el jefe de la unidad de maniobras no actuó con la intención de provocar el MU, y tampoco se constataron estímulos negativos o circunstancias,
+R 1107 a la vía de clasificación (SK) n.º 44 a la vía de clasificación (SK) libre n.º 116a de la estación de Kolín, a pesar de que se trataba de una SK que converge con una SK, tras la cual se estableció posteriormente, desde la SK n.º 42 a la SK n.º 116, un itinerario de tren para el tren Os 5914, lo anterior no puede valorarse en relación causal con la aparición de la MU, porque:
+• el itinerario de tren para el tren Os 5914 estaba protegido, frente a la unidad de maniobra empujada que circulaba en la misma dirección por la SK n.º 116a (que converge con el itinerario de tren del tren Os 5914 en el desvío n.º 136), por la señal de clasificación Se81, la cual indicaba la señal unívoca «Prohibido maniobrar», es decir, una señal que prohíbe la marcha de la unidad de maniobra;
+• como consecuencia de la marcha no autorizada de la unidad de maniobra más allá del nivel de la señal indicada, no se produjo la colisión de la cabeza de la unidad de maniobra con el tren Os 5914 (véase el punto 4.4.1 de la presente ZZ).
+
+La señal de clasificación Se81 de la estación de Kolín era, por su construcción, una señal unipolar, enana, con dos lámparas de señal, de luz blanca (superior) y azul (inferior). La señal y sus indicaciones cumplían lo dispuesto en el apartado 4 del artículo 7 del decreto n.º 173/1995 Sb., siendo visible de forma continua desde la posición del maquinista que conduce la cabeza de la locomotora o, en el caso de maniobras empujando la locomotora, cuando en la cabeza de la locomotora viaja un empleado del transportista con la cualificación profesional adecuada, en el presente caso el jefe de cuadrilla de maniobras, desde una distancia superior a 245 m. De lo anterior se deduce que la posición y la construcción de la señal de clasificación Se81 permitían al jefe de cuadrilla de maniobras detectar dicha señal fija, incluida la indicación de prohibición de maniobras que en ella se emitía, significativamente antes de los 100 m (si la visibilidad no la obstaculizan otras locomotoras, al menos a una distancia de 50 m) establecidos por las disposiciones legales, incluida la adopción de las medidas correspondientes para detener a tiempo la unidad de maniobras antes del lugar señalizado.
+
+Todas las locomotoras de los trenes R 1107 y Os 5914, es decir, también la locomotora de la unidad de maniobras que se separa del tren R 1107, eran utilizadas en el momento de la aparición de la MU por el transportista ČD, a. s., en la explotación del transporte ferroviario, de conformidad con el apartado 1, letra d), del artículo 35 de la ley n.º 266/1994 Sb. y con los procedimientos tecnológicos uniformes del transportista, en un estado técnico que correspondía a la aptitud aprobada.
+
+El transportista ČD, a. s., en el caso de las maniobras realizadas con las locomotoras que se separan del tren R 1107, en relación con lo dispuesto en los artículos 329, 1545, 1750, 1753 y 1767, letra d), de la normativa interna SŽDC D1 y en los apartados 2 y 4 del artículo 16 del decreto n.º 173/1995 Sb., de conformidad con el apartado 1, letras a) y g), del artículo 35 de la ley n.º 266/1994 Sb., no explotó el transporte ferroviario de acuerdo con las reglas de explotación del transporte ferroviario, la licencia vigente y el contrato celebrado con el explotador de la vía ferroviaria sobre la explotación del transporte ferroviario en la vía, y en la explotación del transporte ferroviario no se ajustó a las instrucciones del explotador de la vía ferroviaria impartidas en la organización del transporte ferroviario, al margen de que el jefe de cuadrilla de maniobras, durante la marcha de la unidad de maniobras empujada desde la SK n.º 44 a la SK n.º 116a, debido a una percepción incorrecta de la señal emitida por la señal de clasificación Se81, no detectó (no observó) la señal «Prohibido maniobrar» emitida por la señal de clasificación Se81 en un lugar y en un momento tales que pudiera dar al maquinista la señal necesaria para que este pudiera detener a tiempo la unidad de maniobras antes del lugar señalizado.
+
+El jefe de cuadrilla de maniobras entró en turno el día 29. 8. 2019 a las 15.45 h en la estación de Kolín. En el momento de entrar en turno y durante el mismo se sentía descansado, no estaba alterado por nada y no sentía fatiga. De la investigación realizada se desprende que el jefe de la unidad de maniobras no actuó con la intención de provocar la MU, y tampoco se detectaron ningún tipo de estímulos negativos o circunstancias,
 
 ## Página 46
+
 
 que hubieran demostrablemente influido en su comportamiento. El comportamiento del jefe de la cuadrilla de maniobras durante la marcha de la unidad de maniobras empujada desde la vía de clasificación n.º 44 a la vía de clasificación n.º 116a en la estación de Kolín fue causado por su falta de conocimiento, un error, cuando según su declaración durante la marcha vio en la señal de clasificación Se81 la señal "Maniobras permitidas", a pesar de que la señal indicaba permanentemente la señal "Maniobras prohibidas" (véase el punto 3.4.1 de esta IIA). Aunque conocía las condiciones de la vía en la estación, es decir, también su disposición direccional y espacial, incluida la ubicación (situación) de las señales individuales válidas para maniobras y la visibilidad de las señales de las señales concretas relacionadas con ello, se dio cuenta de su error solo inmediatamente antes de la señal de clasificación Se81, cuando con la vista comprobó la señal real indicada por la señal de clasificación Se81 "Maniobras prohibidas". Esta fue indicada durante todo el tiempo de la marcha de la unidad de maniobras empujada desde la vía de clasificación n.º 44 a la vía de clasificación n.º 116a y prohibía inequívocamente una marcha adicional de la unidad de maniobras más allá del nivel de la señal de clasificación Se81, es decir, desde la vía de clasificación n.º 116a a través de la vía de clasificación n.º 116b hasta la vía de clasificación n.º 118. Como el jefe de la cuadrilla de maniobras detectó tarde la señal "Maniobras prohibidas" indicada por la señal de clasificación Se81, no dio al maquinista la señal necesaria para que este pudiera detener a tiempo la unidad de maniobras antes del lugar indicado, es decir, para que el frente de la unidad de maniobras se detuviera aún antes de la señal de clasificación Se81.
 
@@ -1354,8 +1431,8 @@ Tras el cambio de sentido de la maniobra, el maquinista adaptó el modo de march
 
 El maquinista del tren Os 5914, de conformidad con la legislación y los procedimientos tecnológicos unificados del transportista ČD, a. s., entró con el tren desde la vía de trayecto n.º 2 Kutná Hora hl. n. – Kolín en la vía de clasificación n.º 42 de la estación de Kolín, que se encuentra en el 2.º recinto de la estación de clasificación, con la señal que permite la marcha del tren "Aviso" indicada por la señal de entrada 2KL de la estación de Kolín. Esta instrucción le informó de que la vía de tren termina en el nivel de la
 
-
 ## Página 47
+
 
 señal de trayecto Lc42. Durante la marcha por la vía de clasificación n.º 42, fue informado de la señal de la señal de trayecto Lc42 mediante la transmisión del código del freno automático de tren a través de su parte móvil, instalada en la HDV 362.121-6, que entre otras cosas garantizaba la visualización de sus señales en el repetidor de señal instalado en la cabina del maquinista. A partir de la información mostrada en el repetidor de señal y observando la vía de clasificación n.º 42, comprobó posteriormente que la señal de trayecto Lc42 permite la marcha hasta el 2.º recinto de la estación de viajeros y que indica la señal "Velocidad 40 km/h y repetición de la señal Aviso". Aunque durante la marcha observaba la vía y las señales, el maquinista no pudo detectar el cambio de la señal indicada de la señal de trayecto Lc42 a la señal "Alto", provocado por la intervención – la acción correcta del SZZ de la estación de Kolín como consecuencia de la marcha no autorizada de la unidad de maniobras empujada más allá del nivel de la señal de clasificación Se81. Tras comprobar que en la aguja n.º 136, que formaba parte de la vía de tren establecida para el tren que conducía, había una locomotora, actuó de forma oportuna y correcta según el hecho comprobado, mediante la aplicación del frenado de servicio, respectivamente de frenado rápido.
 
@@ -1376,8 +1453,8 @@ La causa fundamental del suceso ferroviario fue:
 
 No fue detectada por la Inspección Ferroviaria ninguna causa del suceso ferroviario debida al marco legal y al uso del sistema de garantía de la seguridad.
 
-
 ## Página 48
+
 
 ### 4.4 Hallazgos complementarios
 4.4.1 Deficiencias y omisiones detectadas durante la investigación que no se refieren a las conclusiones sobre las causas
@@ -1396,8 +1473,8 @@ El operador ferroviario y la DÚ no han adoptado ni emitido ninguna medida.
 
 El transportista ČD, a. s., emitió tras la ocurrencia del suceso ferroviario una medida para prevenir la ocurrencia de sucesos ferroviarios similares, consistente en la discusión de la causa del suceso ferroviario y de la responsabilidad por su ocurrencia en la reunión de dirección de OCP Střed.
 
-
 ## Página 49
+
 
 ## 6 RECOMENDACIONES DE SEGURIDAD
 
@@ -1412,13 +1489,13 @@ inspector
 Delegación Territorial de Ostrava
 Delegación Territorial de Ostrava
 
-
 ## Página 50
 
 ## 7 ANEXOS
-
-### Fig. n.º 3: Vista desde la ventana frontal derecha de la cabina del maquinista del tren Os 5914 de la unidad de maniobras empujada detenida en la vía de clasificación n.º 116a y en la aguja n.º 136 de la estación de Kolín.
-Fuente: DI
-
-### Fig. n.º 4: Captura que documenta las dos locomotoras de la unidad de maniobras empujada detenidas más allá del nivel de la señal de clasificación Se81 de la estación de Kolín, cuya señal "Maniobras prohibidas" prohibía la marcha desde la vía de clasificación n.º 116a a la vía de clasificación n.º 118.
+### Fig. n.º 3: Vista desde la ventana frontal derecha de la cabina del maquinero del tren Os 5914
+del tramo de maniobras empujado situado en la vía de clasificación n.º 116a y en el desvío n.º 136 de la estación de Kolín.
+Fuente: DI 
+### Fig. n.º 4: Imagen que documenta dos DV del tramo de maniobras empujado situado detrás
+del nivel de la señal de clasificación Se81 de la estación de Kolín, que con la señal "Maniobras prohibidas"
+prohibía la circulación desde la vía de clasificación n.º 116a a la vía de clasificación n.º 118.
               Fuente: DI

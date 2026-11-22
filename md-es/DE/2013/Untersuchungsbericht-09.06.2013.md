@@ -10,13 +10,15 @@ chars: 108654
 ratio_longitud: 1.07
 tokens_in: 49092
 tokens_out: 36564
-verificacion: revisar
-notas_cifras: ["bloque 3: cifras cortas: 1/58", "bloque 8: cifras cortas: 1/32", "bloque 11: cifras largas: 12/86; cifras cortas: 10/171", "bloque 13: cifras cortas: 2/107"]
-avisos: ["bloque 8: marcadores de página: 3 vs 2", "bloque 13: marcadores de página: 4 vs 3"]
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: revisar
+avisos: ["página 48: cifras largas: faltan 6/28 (21%)"]
+notas_cifras: ["página 11: cifras cortas: 1/10", "página 44: cifras largas: 2/23", "página 46: cifras cortas: 6/60"]
 ---
+
 ## Página 1
+
 
 Centro de Investigación
 de la Oficina Federal de Investigación de Accidentes Ferroviarios
@@ -34,8 +36,8 @@ Descarrilamiento de tren
 | Número de línea: | 3507 |
 | Kilómetro: | 76 950 , |
 
-
 ## Página 2
+
 
 ## Publicado por:
 Ministerio Federal de Transporte e Infraestructura Digital
@@ -43,8 +45,8 @@ Oficina Federal de Investigación de Accidentes Ferroviarios
 Robert-Schuman-Platz 1
 53175 Bonn
 
-
 ## Página 3
+
 
 # Índice:
 ### Página
@@ -97,10 +99,10 @@ Expediente de construcción y documentación ...................................
 Investigación de las condiciones del terreno en la obra de tierra.........................................31  
 4.5.4 
 Investigación de las instalaciones de drenaje..........................................................32  
-4.5.5 
-
+4.5.5
 
 ## Página 4
+
 
 Investigación de la superestructura...............................................................................36  
 | 4 5 6 . . | Investigación de la superestructura 36 ............................................................................... |
@@ -118,13 +120,14 @@ Investigación de la superestructura............................................
 | 6 | Medidas adoptadas hasta la fecha 66 ......................................................................... |
 | 7 | Recomendaciones de seguridad 66 ................................................................................. |
 
-
 ## Página 5
+
 
 # Anexos:
 1: Informe «Cálculos de simulación del descarrilamiento del tren en Lorch del 09.06.2013, así como cálculos de variantes para diferentes disposiciones de las vías», documento SIM042015BE del 03.07.2015
 
 ## Página 6
+
 
 # Índice de figuras: 
 Fig. 1: Lugar del descarrilamiento en el pk 76,950 entre el punto de parada Lorch y la estación de cruce Lorch..........................10  
@@ -152,10 +155,10 @@ Fig. 22: Unidad motriz EFR 1216950 procesada por EUB ...........................
 Fig. 23: Topes del vagón de transporte de vehículos descarrilado ...........................................................57  
 Fig. 24: Zona plana del eje 10003405......................................................................58  
 Fig. 25: Dispositivo de bloqueo de la plataforma elevadora ...............................................................58  
-Fig. 26: Eje descarrilado de un vagón Laaers................................................................59  
-
+Fig. 26: Eje descarrilado de un vagón Laaers................................................................59
 
 ## Página 7
+
 
 # Índice de abreviaturas 
 AEG 
@@ -209,10 +212,10 @@ Conjunto de medición de vías
 GSM/SSP 
 Máquina de escarificado de vías/Máquina de nivelación de balasto 
 GSM-R 
-Sistema Global de Comunicaciones Móviles – Ferrocarril 
-
+Sistema Global de Comunicaciones Móviles – Ferrocarril
 
 ## Página 8
+
 
 GeFo 
 Teléfono GSM-R fijo - fijo
@@ -255,10 +258,10 @@ Torsión
 VZG 
 Directorio de velocidades localmente permitidas 
 ZWL 
-Curva tiempo-distancia 
-
+Curva tiempo-distancia
 
 ## Página 9
+
 
 # 1 
 # Resumen 
@@ -276,15 +279,16 @@ Como consecuencia del descarrilamiento, la vía principal, incluidas las agujas 
 dañadas o destruidas en un tramo de aproximadamente 11 km. Además, los tres vehículos situados al final del DGS 90636 sufren daños parciales considerables. Los vehículos de pasajeros estacionados junto a la línea ferroviaria resultan dañados por las piedras de balasto proyectadas. No hay heridos. 
 ## 1.3 
 ## Causas 
-La causa del descarrilamiento del DGS 90636 se debe a varios errores de alineación de la vía que se produjeron uno tras otro, cuya aparición se atribuye a un drenaje del cuerpo de la vía que no funcionaba o funcionaba de forma limitada y, por consiguiente, a una capacidad de carga reducida de la subestructura de la vía en determinados tramos. 
-
+La causa del descarrilamiento del DGS 90636 se debe a varios errores de alineación de la vía que se produjeron uno tras otro, cuya aparición se atribuye a un drenaje del cuerpo de la vía que no funcionaba o funcionaba de forma limitada y, por consiguiente, a una capacidad de carga reducida de la subestructura de la vía en determinados tramos.
 
 ## Página 10
+
 
 Fig. 1: Lugar del descarrilamiento en el pk 76,950 entre el punto de parada Lorch y la estación de cruce Lorch 
 Fig. 2: Vagones descarrilados en la cola del tren en el tramo de entrada de la estación de Rüdesheim (Rh.)
 
 ## Página 11
+
 
 # 2 
 # Preámbulo 
@@ -297,10 +301,10 @@ Más detalles al respecto se encuentran disponibles en Internet en >> www.eisenb
 ## 2.2 
 ## Objetivo de la investigación de accidentes ferroviarios 
 El objetivo y la finalidad de las investigaciones es aclarar las causas de los sucesos peligrosos y extraer de ello indicaciones para la mejora de la seguridad. Las investigaciones de la EUB no tienen como objetivo determinar culpas ni aclarar cuestiones de responsabilidad o de otras reclamaciones de derecho civil, y se llevan a cabo independientemente de cualquier investigación judicial. 
-La investigación comprende la recopilación y evaluación de información, la elaboración de conclusiones, incluida la determinación de las causas, y, en su caso, la emisión de recomendaciones de seguridad. Las propuestas de la oficina de investigación para la prevención de accidentes y la mejora de la seguridad en el tráfico ferroviario se comunican a la autoridad de seguridad y, si es necesario, a otros órganos y autoridades o a otros Estados miembros de la UE en forma de recomendaciones de seguridad. 
-
+La investigación comprende la recopilación y evaluación de información, la elaboración de conclusiones, incluida la determinación de las causas, y, en su caso, la emisión de recomendaciones de seguridad. Las propuestas de la oficina de investigación para la prevención de accidentes y la mejora de la seguridad en el tráfico ferroviario se comunican a la autoridad de seguridad y, si es necesario, a otros órganos y autoridades o a otros Estados miembros de la UE en forma de recomendaciones de seguridad.
 
 ## Página 12
+
 
 ## 2.3 
 ## Partes implicadas y colaboradoras 
@@ -318,17 +322,17 @@ SIMTES – Simulación de sistemas técnicos, Bielefeld
 # Suceso 
 ## 3.1 
 # Desarrollo 
-El 08/09.06.2013, el DGS 90636 circula desde la estación de Bf Soe (Países Bajos) hacia Rumanía. El recorrido del tren pasa por la estación fronteriza de Emmerich (tratamiento de entrada a la frontera) hasta Oberlahnstein a través de la vía derecha del Rin en dirección a Passau. El DGS 90636 está compuesto por 20 vagones vacíos de transporte de automóviles (Laaers) y una locomotora motriz líder 90-81 1216 950-6 de Wiener Lokalbahnen Cargo GmbH. La salida en la estación de Emmerich se produce a las 1:20 horas. El tren atraviesa el tramo de vía 3507 entre las instalaciones de explotación de Kaub y Lorch (Rin) a una velocidad de 104 km/h. En el punto kilométrico 76,950, el vehículo que circula en último lugar, 23-88 4371 080-3, descarrila. 
-
+El 08/09.06.2013, el DGS 90636 circula desde la estación de Bf Soe (Países Bajos) hacia Rumanía. El recorrido del tren pasa por la estación fronteriza de Emmerich (tratamiento de entrada a la frontera) hasta Oberlahnstein a través de la vía derecha del Rin en dirección a Passau. El DGS 90636 está compuesto por 20 vagones vacíos de transporte de automóviles (Laaers) y una locomotora motriz líder 90-81 1216 950-6 de Wiener Lokalbahnen Cargo GmbH. La salida en la estación de Emmerich se produce a las 1:20 horas. El tren atraviesa el tramo de vía 3507 entre las instalaciones de explotación de Kaub y Lorch (Rin) a una velocidad de 104 km/h. En el punto kilométrico 76,950, el vehículo que circula en último lugar, 23-88 4371 080-3, descarrila.
 
 ## Página 13
 
+
 Fig. 3: Planos de situación entre Kaub y Assmannshausen 
 Fuente: Plano IVL DB Netz AG, elaborado por la EUB 
-Con una velocidad ligeramente decreciente, el DGS 90636 alcanza hacia las 5:26 horas la instalación de explotación con personal asignado del observador del paso a nivel en la estación de Assmannshausen. Durante la circulación a través de los bloques de vía de la vía libre, de la vía de cruce, así como de los puntos de aguja y los tramos de vía de la estación de Assmannshausen, se dañan o destruyen numerosas instalaciones técnicas en puntos de aguja, instalaciones de señalización e instalaciones de la superestructura. En el intervalo de tiempo comprendido entre las 5:25 y las 5:27 horas, el centro de control de Oberlahnstein-Süd, así como la observadora del paso a nivel en Assmannshausen, se ponen en contacto con los operarios de la central de maniobras en Rüdesheim (Rin) para la determinación de los hechos. Al entrar en la vía 2 de la estación de Rüdesheim (Rin), los puntos de aguja de entrada se dañan gravemente y la señal de salida N3 se derriba. El DGS 90636 se detiene mediante señal circular (Sh3) por un director de tráfico de la central de maniobras de Rüdesheim (Rin). La locomotora motriz líder se detiene aproximadamente en el punto kilométrico 65,300, casi a la altura del edificio de la central de maniobras. Los dos vagones descarrilados que circulaban en último lugar 
-
+Con una velocidad ligeramente decreciente, el DGS 90636 alcanza hacia las 5:26 horas la instalación de explotación con personal asignado del observador del paso a nivel en la estación de Assmannshausen. Durante la circulación a través de los bloques de vía de la vía libre, de la vía de cruce, así como de los puntos de aguja y los tramos de vía de la estación de Assmannshausen, se dañan o destruyen numerosas instalaciones técnicas en puntos de aguja, instalaciones de señalización e instalaciones de la superestructura. En el intervalo de tiempo comprendido entre las 5:25 y las 5:27 horas, el centro de control de Oberlahnstein-Süd, así como la observadora del paso a nivel en Assmannshausen, se ponen en contacto con los operarios de la central de maniobras en Rüdesheim (Rin) para la determinación de los hechos. Al entrar en la vía 2 de la estación de Rüdesheim (Rin), los puntos de aguja de entrada se dañan gravemente y la señal de salida N3 se derriba. El DGS 90636 se detiene mediante señal circular (Sh3) por un director de tráfico de la central de maniobras de Rüdesheim (Rin). La locomotora motriz líder se detiene aproximadamente en el punto kilométrico 65,300, casi a la altura del edificio de la central de maniobras. Los dos vagones descarrilados que circulaban en último lugar
 
 ## Página 14
+
 
 23 88 4371 098-5 y 23 88 4371 080-3 se encuentran a la altura de la señal N3 destruida, aproximadamente en el punto kilométrico 65,900. 
 Fig. 4: Plano de situación de la estación de Rüdesheim (Rin)  
@@ -354,6 +358,7 @@ Nublado con precipitaciones ligeras hasta fuertes en algunas zonas.
 
 ## Página 15
 
+
 # 4 
 # Acta de investigación 
 ## 4.1 
@@ -365,10 +370,10 @@ Tras haber pasado a posición de vía libre la señal de bloque 31210 de la Üst
 BÜ Observadora en Assmannshausen 
 Tras el establecimiento de los pasos a nivel para el tren 90636 desde Kaub hasta Rüdesheim (Rh.), se dirigió al aseo. Algunos minutos después percibió ruidos fuertes. Regresó inmediatamente a la sala de maniobras y comprobó los tramos de vía visibles, observando daños. Intentó llamar primero al Fdl Rüdesheim (Rh.) y posteriormente al Fdl Oberlahnstein. Dado que ambas líneas estaban ocupadas, intentó contactar con la observadora BÜ del Fdl Rüdesheim (Rh.). De la observadora BÜ supo que ambos Fdl estaban conversando. Poco después, a través de la centralita, logró contactar con el Fdl en Rüdesheim (Rh.) y le comunicó los daños en Assmannshausen. 
 Fdl de servicio Rüdesheim (Rh.) 
-Aproximadamente a las 5:27 h recibió una llamada del Fdl Oberlahnstein-Süd. Este le comunicó que algo no iba bien con el tren 90636. Juntamente con el relevo, observó el tren entrante. Durante la entrada, la W 40 en la vía contigua mostró de repente rojo y sonó la alarma. Además, durante la entrada del tren a la vía 2, la señal N3 se derribó. Inmediatamente puso la señal intermedia 
-
+Aproximadamente a las 5:27 h recibió una llamada del Fdl Oberlahnstein-Süd. Este le comunicó que algo no iba bien con el tren 90636. Juntamente con el relevo, observó el tren entrante. Durante la entrada, la W 40 en la vía contigua mostró de repente rojo y sonó la alarma. Además, durante la entrada del tren a la vía 2, la señal N3 se derribó. Inmediatamente puso la señal intermedia
 
 ## Página 16
+
 
 T 2 en posición de parada. Su colega dio al tren la señal circular. A continuación, bloqueó todas las vías de la estación de Rüdesheim (Rh.), así como el tramo libre Assmannshausen – Rüdesheim (Rh.) y la dirección contraria. Tras disolver la vía de salida, abrió los pasos a nivel cerrados para esa circulación. Posteriormente, se notificó a la central de gestión de emergencias. 
 Fdl de relevo Rüdesheim (Rh.) 
@@ -376,10 +381,10 @@ Aproximadamente a las 5:24 h entró en la sala de maniobras. El Fdl de servicio 
 ## 4.1.2 
 ## Personal del tren 
 Maquinista del DGS 90636 
-En la vía 15 de la estación de Emmerich, preparó la unidad motriz 1216 950-6. Tras la prueba de la PZB, activó el interruptor de avería LZB en ambas cabinas. A continuación, enganchó el tren 50583 procedente de Vlissingen. Realizó una prueba de frenos simplificada en el último vagón 23-88 4371 080-3. Además, comprobó la lista de vagones y la hoja de frenado, así como la posición de frenado «P» de todos los vagones y la presencia de la señal de final de tren Zg 2 (2 paneles). Tras la comunicación de la preparación para la salida, salió de Emmerich a las 1:22 h. En Oberlahnstein hizo una pausa de 4:22 h a 4:52 h. Debido a la limitación de velocidad para la entrada en la estación de Rüdesheim (Rh.), redujo la velocidad de aprox. 90 km/h a 60 km/h desde el pk 65,500. Al pasar por la sala de maniobras en Rüdesheim (Rh.), oyó una llamada desde la ventana lateral abierta de la sala de maniobras y percibió la señal circular Sh 3. Inició inmediatamente un frenado de emergencia. A continuación, corrió hacia el final del tren. Informó posteriormente al Fdl de que los dos últimos vagones del tren se habían descarrilado. 
-
+En la vía 15 de la estación de Emmerich, preparó la unidad motriz 1216 950-6. Tras la prueba de la PZB, activó el interruptor de avería LZB en ambas cabinas. A continuación, enganchó el tren 50583 procedente de Vlissingen. Realizó una prueba de frenos simplificada en el último vagón 23-88 4371 080-3. Además, comprobó la lista de vagones y la hoja de frenado, así como la posición de frenado «P» de todos los vagones y la presencia de la señal de final de tren Zg 2 (2 paneles). Tras la comunicación de la preparación para la salida, salió de Emmerich a las 1:22 h. En Oberlahnstein hizo una pausa de 4:22 h a 4:52 h. Debido a la limitación de velocidad para la entrada en la estación de Rüdesheim (Rh.), redujo la velocidad de aprox. 90 km/h a 60 km/h desde el pk 65,500. Al pasar por la sala de maniobras en Rüdesheim (Rh.), oyó una llamada desde la ventana lateral abierta de la sala de maniobras y percibió la señal circular Sh 3. Inició inmediatamente un frenado de emergencia. A continuación, corrió hacia el final del tren. Informó posteriormente al Fdl de que los dos últimos vagones del tren se habían descarrilado.
 
 ## Página 17
+
 
 Jefe de tren de Train Group (Países Bajos) 
 La tarde del sábado realizó en el terminal de la empresa Cobelfret una inspección de salida (Departure-Control) y una prueba completa de frenos. En esta comprobación no detectó defectos. 
@@ -410,6 +415,7 @@ EHG 2 llegó al lugar de intervención
 Fig. 5: Hoja de notificaciones de emergencias
 
 ## Página 18
+
 
 A continuación se presentan las horas de bloqueo determinadas en forma tabular:
 Vías de línea / Vías de estación
@@ -496,6 +502,7 @@ La supervisión del tráfico corresponde al özF Oberlahnstein-Süd para el áre
 
 ## Página 19
 
+
 heim (Rh.). No existen medidas restrictivas respecto a la circulación del tren a realizar. No se realizan acciones obligatorias de conteo por parte de los Jefes de Tráfico.
 El personal de explotación utilizado en el momento del incidente, presente en los centros de conmutación, cumplía los requisitos exigidos por los artículos 47, 48 y 54 de la Ordenanza de Construcción y Explotación Ferroviaria (EBO) para ser designados como Jefe de Tráfico o como Observador BÜ. Se acreditó la formación profesional completa prescrita, así como las medidas de formación y actualización. De acuerdo con la normativa interna de la empresa, se supervisó el desempeño de las funciones en los puestos de trabajo.
 La documentación de la historia del ESTW para el área de conmutación Oberlahnstein-Süd refleja los siguientes pasos de actuación del özF responsable.
@@ -505,6 +512,7 @@ No se emite ninguna orden de parada de emergencia a través de la radio de tren 
 El registro de viaje del DGS 90636 documentado en la EFR demuestra que se respetaron las velocidades del horario permitidas en los tramos de línea y de estación relevantes. No se pudieron detectar fluctuaciones fuertes de velocidad. La iniciación
 
 ## Página 20
+
 
 de la frenada de emergencia en Rüdesheim (Rh.) por parte del maquinista se debe a la emisión de la señal Sh 3.
 Conclusiones:
@@ -518,170 +526,136 @@ En la vía Kamp-Bornhofen – Loreley se encuentra el sistema de detección de r
 
 ## Página 21
 
-El tramo de vía (VZG 3507) dentro del ámbito de control del ESTW A - Assmannshausen está equipado con un sistema automático de ocupación de vía con contadores de ejes para todas las zonas de agujas y vías. Los dispositivos de ocupación de vía sirven para verificar la ocupación de zonas de vía, agujas y bloques por parte de vehículos sobre raíles. La contabilidad puntual de ejes se realiza mediante la influencia de los puntos de conteo por los ejes del vehículo sobre raíles. Al entrar o salir del tramo de ocupación de vía, se indica la ocupación o liberación necesaria.
-Los límites del sistema de ocupación de vía para las zonas de vía relevantes para el incidente se pueden consultar en la tabla siguiente. Los circuitos individuales de contadores de ejes están documentados en el plano de situación de las señales y en el plano resumen de contadores de ejes.
+El tramo de vía (VZG 3507) en el ámbito de servicio del ESTW A - Assmannshausen está equipado con una instalación automática de liberación de vía con contadores de ejes para todos los tramos de agujas y de vía. Los dispositivos de liberación de vía sirven para comprobar la ocupación de tramos de vía y agujas, así como de tramos de bloqueo, por parte de vehículos ferroviarios. El conteo puntual de ejes se realiza mediante la influencia en los puntos de conteo por parte de los juegos de ruedas del vehículo ferroviario. Al entrar o salir del tramo liberado, se indica la necesaria señalización de ocupación o de liberación.
+Los límites de la instalación de liberación de vía para los tramos de vía relevantes para el suceso se pueden consultar en la tabla siguiente. Los distintos circuitos de conteo de ejes están registrados en el esquema de posición de señales y en el esquema resumen de contadores de ejes.
 Üst Lorch
-procedente de
+desde dirección
 Altura
 km
-Kaub (vía principal)
+Kaub (vía normal)
 Bksig 31210
 75,500
 Kaub (vía contraria)
 Bksig 31112
 75,500
-Assmannshausen (vía principal)
+Assmannshausen (vía
 Bksig 31111
 74,800
-Assmannshausen (vía contraria)
+normal.)
+Assmannshausen (vía
 Bksig 31209
 74,800
-Estación Assmannshausen
-procedente de
+contraria.)
+Bf Assmannshausen
+desde dirección
 Altura
 km
-Kaub (vía principal)
+Kaub (vía normal)
 Esig 26F
 70,175
 Kaub (vía contraria)
 Esig 26FF
 70,175
-Rüdesheim (vía principal)
+Rüdesheim (vía normal)
 Esig 26A
 68,402
 Rüdesheim (vía contraria)
 Esig 26AA
 68,408
-Fig. 7: Límites del sistema de ocupación de vía (zona de control Oberlahnstein-Süd)
-Según el historial del ESTW, se mostraron las siguientes indicaciones de señalización en el ámbito de control relevante. Las documentaciones de las indicaciones de señalización en el plano de ampliación (Lupenplan) se muestran con un retraso temporal debido a las características del sistema respecto a la avería ocurrida realmente. En cursiva se muestran las explicaciones de la respectiva indicación de señalización.
-Fecha
-Hora
-Indicaciones de señalización
-en el ESTW
-Explicación
-09.06.
-5:22 h
-AUSF G 190336 VON FLOR
-Salida 90636 desde Hp Lorch hacia
-Üst. Lorch B 212 –B210
-31B212 NACH FLOU 31B
-3210
-09.06.
-5:22 h
-FLOU WG 31 W 1
-Avería: Aguja 1; Üst Lorch
-desplazada
-S, DESPLAZADA; FZ 055
-09.06.
-5:22 h
-STW AZA9 Zl:0C S, EAK 3.1
-Avería contador de ejes AZA9
-INTERROMPIDO R:1,2,3;FZ 495
-interrumpido
-09.06
-5:22 h
-FLOU GLS 31B3210 S,GFM­
-Avería: zona de ocupación de vía
-INTERVALO; FZ 118
-31B3210 interrumpida
-09.06
-5:22 h
-FLOU GLS 31G2210 S,GFM­
-Avería: zona de ocupación de vía
-INTERVALO; FZ 118
-31G2210 interrumpida
-09.06
-5:22 h
-FLOU WG 31W1 S,GFM­
-Avería: zona de ocupación de vía
-INTERVALO;FZ 118
-31W1 interrumpida
-09.06
-5:25 h
-LT US EINF 190636 VON FAH
-Paso del 90636 desde Lorch –
-26B206 NACH FAH 26G302
-Assmannshausen / B206 en Est.
-Assmannshausen / B 302
-09.06
-5:25 h
-FAH WG 26W11 GLS 26B206
-Avería: Aguja 11, Ass­
-S, INTERVALO DE OCUPACIÓN DE VÍA, FZ 055
-mannshausen desplazada
-09.06
-5:25 h
-FAH GLS 26G402 S,GFM­
-Avería: zona de ocupación de vía
-INTERVALO; FZ 118
-26G402 interrumpida
-09.06
-5:25 h
-FAH WG 26W10 S,
-Avería: Aguja 10 Ass­
-DESPLAZADA; FZ 055
-mannshausen desplazada
-09.06
-5:25 h
-FAH WG 26W11 S, GFM­
-Avería: zona de ocupación de vía
-INTERVALO: FZ 118
-26W11 Aguja 11, Ass­
-mannshausen interrumpida
+Fig. 7: Límites de la instalación de liberación de vía (distrito de control Oberlahnstein-Süd)
+Según el historial del ESTW, se mostraron las siguientes señales técnicas en el área de mando relevante. La documentación de las señales técnicas en el Lu-
 
 ## Página 22
 
-| 09 06 . | 5:26 h | LT US AUSF 190636 VON FAH 26G302 NACH FAH 26B204 | Paso del 90636 desde Lorch – Assmannshausen / G302 hacia Assmannshausen Rüdesheim – (Rh ) / B204 . |
-| 09 06 . | 5:26 h | FAH WG 26W2 S , DESPLAZADA; FZ 055 | Avería: Aguja 2 Ass­ mannshausen desplazada |
-| 09 06 . | 5:26 h | FAH WG 26W3 S , DESPLAZADA FZ 055 , | Avería: Aguja 3 Ass­ mannshausen desplazada |
-| 09 06 . | 5:26 h | FAH WG 26W1 S , DESPLAZADA FZ 055 , | Avería: Aguja 1 Ass­ mannshausen desplazada |
-| 09 06 . | 5:26 h | FAH WG 26W1 S GFM , ­ INTERVALO; FZ 118 | Avería: zona de ocupación de vía 26W1 Aguja 1 Ass­ , mannshausen interrumpida |
-| 09 06 . | 5:27 h | FAH GLS 26B204 S GFM , ­ INTERVALO; FZ 118 | Avería: zona de ocupación de vía 26B204 interrumpida |
-| 09 06 . | 5:28 h | FAH GLS 26B202 S GLM , ­ INTERVALO; FZ 118 | Avería: zona de ocupación de vía 26B202 interrumpida |
-Fig. 8: Plano de ampliación (resumen de averías del historial del ESTW Oberlahnstein)
-El puesto de trabajo del observador de pasos a nivel en Assmannshausen no está equipado con dispositivos de telecomunicación que permitan realizar directamente una llamada de emergencia a través de GSM-R. La consola de manejo dispone de botones de emergencia de señalización, que permiten detener las señales que cubren los pasos a nivel mediante el accionamiento del botón de emergencia de señalización y la BÜT/GT.
-Hallazgos:
-Las indicaciones de señalización en el ámbito de control del ESTW Assmannshausen se generaron a partir de las 5:22 h (hora del sistema ESTW). Al mismo tiempo, las averías estaban presentes en la consola de manejo del özF Oberlahnstein-Süd. La secuencia de las indicaciones de señalización así como de las averías demuestra que, en el periodo comprendido entre las 5:22 h y las 5:28 h (hora del ESTW­
+Los mensajes de la pantalla de planificación se muestran, por motivos del sistema, parcialmente con retraso respecto a la perturbación realmente ocurrida. En cursiva se presentan las explicaciones de cada mensaje de señalización.
+
+| Fecha | Hora | Mensajes de señalización | Explicación |
+|---|---|---|---|
+| 09.06. | 5:22 Uhr | AUSF G 190336 VON FLOR | Salida 90636 de Hp Lorch hacia Üst. Lorch B 212 –B210 |
+| | | 31B212 NACH FLOU 31B | 3210 |
+| 09.06. | 5:22 Uhr | FLOU WG 31 W 1 | Mensaje de perturbación: Aguja 1; Üst Lorch conmutada |
+| | | | S, AUFGEFAHREN; FZ 055 |
+| 09.06. | 5:22 Uhr | STW AZA9 Zl:0C S, EAK 3.1 | Mensaje de perturbación: Contador de ejes AZA9 |
+| | | GESTÖRT R:1,2,3,;FZ 495 | averiado |
+| 09.06 | 5:22 Uhr | FLOU GLS 31B3210 S,GFM­ | Mensaje de perturbación: Sección de |
+| | | ABSCHNITT; FZ 118 | liberación de vía 31B3210 averiada |
+| 09.06 | 5:22 Uhr | FLOU GLS 31G2210 S,GFM­ | Mensaje de perturbación: Sección de |
+| | | ABSCHNITT; FZ 118 | liberación de vía 31G2210 averiada |
+| 09.06. | 5:22 Uhr | FLOU WG 31W1 S,GFM­ | Mensaje de perturbación: Sección de |
+| | | ABSCHNITT;FZ 118 | liberación de vía 31W1 averiada |
+| 09.06 | 5:25 Uhr | LT US EINF 190636 VON FAH | Paso del 90636 de Lorch – |
+| | | 26B206 NACH FAH 26G302 | Assmannshausen / B206 en Ba |
+| | | | Assmannshausen / B 302 |
+| 09.06 | 5:25 Uhr | FAH WG 26W11 GLS 26B206 | Mensaje de perturbación: Aguja 11, Ass­ |
+| | | S, GFM-ABSCHNITT, FZ 055 | mannshausen conmutada |
+| 09.06 | 5:25 Uhr | FAH GLS 26G402 S,GFM­ | Mensaje de perturbación: Sección de |
+| | | ABSCHNITT; FZ 118 | liberación de vía 26G402 averiada |
+| 09.06 | 5:25 Uhr | FAH WG 26W10 S, | Mensaje de perturbación: Aguja 10 Ass­ |
+| | | | mannshausen conmutada |
+| | | AUFGEFAHREN; FZ 055 | |
+| 09.06 | 5:25 Uhr | FAH WG 26W11 S, GFM­ | Mensaje de perturbación: Sección de |
+| | | | liberación de vía 26W11 aguja 11, Ass­ |
+| | | ABSCHNITT: FZ 118 | mannshausen averiada |
 
 ## Página 23
 
-hora del sistema) se mostraron casi exclusivamente indicaciones relacionadas con la vía, comenzando con la zona de ocupación de vía 31B3210 y terminando con la zona de ocupación de vía 26B202.
-No era técnicamente posible emitir una orden de parada de emergencia para el tren DGS 90636 desde la consola de manejo del observador de pasos a nivel.
-El sistema de detección de ejes sobrecalentados n.º 195 en el pk 95,555 (Kamp-Bornhofen y Loreley) no proporcionó datos utilizables.
-## 4.5
-## Investigación de la infraestructura
-## 4.5.1
-## Datos generales sobre la infraestructura
-La línea 3507 es la línea principal de doble vía y electrificada que va desde Wiesbaden-Ost (pk 36,2) hasta Niederlahnstein (pk 127,5), clasificada como línea convencional (Categoría VII del TEN) del sistema ferroviario transeuropeo. La línea está clasificada como «D4», lo que indica que la carga máxima admisible por eje es de 22,5 t y el peso máximo admisible del vehículo por unidad de longitud es de 8,0 t/m. La distancia de frenado de la línea es de 1.000 m, la velocidad máxima permitida es Vmax = 130 km/h y está equipada con control puntual de trenes (PZB) y radio de trenes (GSM-R).
+| 09 06 . | 5:26 Uhr | LT US AUSF 190636 VON FAH 26G302 NACH FAH 26B204 | Durchfahrt des 90636 von Lorch – Assmannshausen / G302 nach Assmannshausen Rüdesheim – (Rh ) / B204 . |
+| 09 06 . | 5:26 Uhr | FAH WG 26W2 S , AUFGEFAHREN; FZ 055 | Störmeldung: Weiche 2 Ass­ mannshausen aufgefahren |
+| 09 06 . | 5:26 Uhr | FAH WG 26W3 S , AUFGEFAHREN FZ 055 , | Störmeldung: Weiche 3 Ass­ mannshausen aufgefahren |
+| 09 06 . | 5:26 Uhr | FAH WG 26W1 S , AUFGEFAHREN FZ 055 , | Störmeldung: Weiche 1 Ass­ mannshausen aufgefahren |
+| 09 06 . | 5:26 Uhr | FAH WG 26W1 S GFM , ­ ABSCHNITT; FZ 118 | Störmeldung: Gleisfreimeldeab ­ schnitt 26W1 Weiche 1 Ass­ , mannshausen gestört |
+| 09 06 . | 5:27 Uhr | FAH GLS 26B204 S GFM , ­ ABSCHNITT; FZ 118 | Störmeldung: Gleisfreimeldeab ­ schnitt 26B204 gestört |
+| 09 06 . | 5:28 Uhr | FAH GLS 26B202 S GLM , ­ ABSCHNITT; FZ 118 | Störmeldung: Gleisfreimeldeab ­ schnitt 26B202 gestört |
+Abb. 8: Lupenplan (Störmeldeübersicht aus der Historie des ESTW Oberlahnstein) 
+Der Arbeitsplatz des BÜ-Beobachter in Assmannshausen ist nicht mit nachrichtentechni­
+schen Einrichtungen versehen, die ein direktes Absetzen eines Notrufes über GSM-R er­
+möglichen. Der Bedienplatz verfügt über Signalnottasten, die den Haltfall der deckenden 
+Signale der Bahnübergänge durch Bedienen der Signalnottaste und der BÜT/GT ermögli­
+chen. 
+Feststellungen: 
+Die signaltechnischen Meldungen im Bedienbereich des ESTW Assmannshausen wurden ab 
+5:22 Uhr (ESTW-Systemzeit) generiert. Zeitgleich standen am Bedienplatz des özF Ober­
+lahnstein-Süd die Störungsmeldungen an. Die Abfolge der signaltechnischen Meldungen 
+sowie der Störmeldungen belegt, dass in der Zeit von 5:22 Uhr bis 5:28 Uhr (ESTW-
 
 ## Página 24
 
-En el tramo de vía
-del descarrilamiento
-se permite Vmax = 110 km/h
-Fig. 9: Extracto de la línea 3507
-Fuente: DB Netz AG, editado por EUB
-## 4.5.2
-## Investigación local del lugar del accidente
-El descarrilamiento se produjo poco después del Hp Lorch en una curva con radios ≥ 650 m. En este tramo de vía se encontraba la antigua Estación Lorch, de cuya transformación en 2010 surgió la parada Lorch. La superestructura de este tramo de vía es del tipo W14K-60-1667 B70. Las andenas se modificaron entonces de tal manera que, en lugar del andén central, se construyó un nuevo andén lateral. El drenaje profundo instalado con una pendiente suave permaneció entre las vías incluso después de la transformación en una parada, de modo que el agua generada pueda recogerse en la zona de la vía y evacuarse de forma específica. El drenaje profundo con pendiente suave pudo verificarse in situ mediante las cámaras encontradas. Además de los errores de alineación de la vía visibles a simple vista en la altura longitudinal,
+Systemzeit) casi exclusivamente mensajes relacionados con la vía, comenzando con el sector de liberación de vía 31B3210 y terminando con el sector de liberación de vía 26B202, fueron mostrados.
+La emisión de una orden de parada de emergencia para el tren DGS 90636 desde la posición de mando del observador del BÜ no era técnicamente posible.
+El localizador de ruedas calientes nº 195 en km 95,555 (Kamp-Bornhofen y Loreley) no proporcionó datos utilizables.
+## 4.5
+## Examen de la infraestructura
+## 4.5.1
+## Datos generales sobre la infraestructura
+La línea 3507 es la línea principal de doble vía y electrificada desde Wiesbaden-Ost (km 36,2) hasta Niederlahnstein (km 127,5), clasificada como línea convencional (categoría VII TEN) del sistema ferroviario transeuropeo. La línea está clasificada como «D4», lo que indica que la carga máxima por eje admisible es de 22,5 t y el peso máximo admisible del vehículo por unidad de longitud es de 8,0 t/m. La distancia de frenado de la línea es de 1.000 m, la velocidad máxima admisible es de Vmax = 130 km/h y está equipada con influencia puntual en el tren (PZB) y radio ferroviaria (GSM-R).
 
 ## Página 25
 
+En el tramo de vía 
+del punto de descarrilamiento 
+se admite Vmax = 110 km/h 
+Fig. 9: Extracto de la línea 3507 
+Fuente: DB Netz AG, elaborado por EUB 
+## 4.5.2 
+## Inspección local del lugar del accidente 
+El descarrilamiento se produjo justo detrás de la parada de Lorch, en tramo en curva con radios ≥ 650 m. En este tramo de vía se encontraba la antigua estación de Lorch, de cuya conversión en el año 2010 surgió la parada de Lorch. La superestructura en este tramo de vía es de la construcción W14K-60-1667 B70. Los andenes fueron modificados en su momento de tal manera que, en lugar del andén central, se construyó un nuevo andén lateral. El drenaje profundo instalado de instalación superficial permaneció, también después de la conversión en parada, entre las vías, de modo que el agua que se acumula en la zona de la vía pueda recogerse y drenarse de forma dirigida. El drenaje profundo de instalación superficial pudo verificarse en el lugar mediante los sumideros encontrados. Además de errores visibles en la posición de la vía en la altura longitudinal,
+
 ## Página 26
+
 
 en el lugar se podían distinguir zonas blancas en la balasto que indicaban movimientos de la vía con el correspondiente desgaste del balasto.
 Fig. 10: las «zonas blancas» en el balasto indican defectos en la vía
 Las excavaciones realizadas en la zona de descarrilamiento permitieron detectar acumulaciones de agua superficiales. Además, las excavaciones revelaron que el balasto de la superestructura estaba tan mezclado con materiales cohesivos bajo las traviesas de hormigón que ya no se garantizaba adecuadamente un drenaje controlado del agua sobre la plataforma. Como consecuencia de la contaminación y del agua no drenada, se formaron las zonas de lodo encontradas bajo las cargas procedentes del tráfico ferroviario.
 
-
 ## Página 27
+
 
 Fig. 11: punto de excavación en el lugar del descarrilamiento en el pk 76,950
 Aproximadamente 11 horas después del incidente, DB Netz AG realizó una medición de la alineación de la vía sin carga con el pequeño vehículo de medición Krabbe. En esta medición se registraron varias superaciones consecutivas del límite SR100 en la altura longitudinal, confirmando de este modo los defectos de alineación de la vía ya visibles a simple vista.
 A continuación se presentan la representación gráfica de la medición (Fig. 12) y el correspondiente protocolo de superaciones (Fig. 13).
 
-
 ## Página 28
+
 
 Primeras huellas de descarrilamiento
 ## 2 
@@ -695,8 +669,8 @@ Dirección derecha
 Fig. 12: Representación gráfica del pequeño vehículo de medición Krabbe del 09.06.2013
 Fuente: DB Netz AG, editado por EUB
 
-
 ## Página 29
+
 
 Véase la representación gráfica
 Fig. 12
@@ -709,8 +683,8 @@ Conclusiones:
 Mediante la medición de la alineación de la vía sin carga con el pequeño vehículo de medición Krabbe se confirmaron y documentaron, en particular, varias superaciones consecutivas del límite SR100 en la altura longitudinal del carril derecho. Estas se representan en el gráfico y en el protocolo de superaciones Krabbe, véanse las Fig. 12 y Fig. 13.
 En base a las conclusiones y los conocimientos obtenidos en el lugar, se iniciaron investigaciones adicionales sobre el estado de las instalaciones de drenaje y de la superestructura.
 
-
 ## Página 30
+
 
 ## 4.5.3 
 ## Expediente de construcción y documentación
@@ -719,8 +693,8 @@ En el registro de instalaciones de DB Station&Service AG no se encontraron insta
 Conclusiones:
 Se constató que no existía ningún puesto técnico para la profundidad de drenaje instalada superficialmente, ni tampoco un número de instalación para la tubería de drenaje como obra individual. Para el cuerpo de la vía existe un número de instalación para un tramo de vía más extenso. Este refleja el cuerpo de la vía en su conjunto, donde el drenaje representa solo una parte muy pequeña. Dado que la profundidad de drenaje instalada superficialmente no está asignada a un puesto técnico propio, en consecuencia no se generaron ni se realizaron inspecciones ni plazos de inspección por separado.
 
-
 ## Página 31
+
 
 ## 4.5.4 
 ## Investigación de las condiciones del terreno en la obra de tierra
@@ -729,6 +703,7 @@ Fig. 14: Extracto del informe geotécnico del proyecto de construcción Lorch (R
 Fuente: DE-Consult
 
 ## Página 32
+
 
 Los productos de meteorización de grano grueso a mixto investigados en aquel entonces eran permeables al agua y capaces de infiltrarse (véase la fig. 14). Debido al aumento de la saturación de humedad del subsuelo, se produce una mezcla con las capas cohesivas y, como consecuencia, un aumento de la proporción de finos en las capas permeables al agua. Con el aumento de la proporción de finos, la permeabilidad puede disminuir hasta el punto de que pueda formarse agua de capa y agua estancada. Debido a la alta humedad en combinación con la carga de tráfico, así como por el inicio de los efectos capilares, los componentes de grano fino del firme penetran cada vez más en la balasto de vía. La zona de mezcla entre el lecho de la vía y la balasto de vía aumenta aún más y, sin un mantenimiento adecuado, se desarrolla hasta convertirse en un «punto de lodo» (véase la fig. 11). 
 
@@ -744,6 +719,7 @@ La prescripción objetivo se deriva de la Ril 836.4603, apartado 3, la norma de 
 El drenaje de las instalaciones de vía y puntos de aguja debe realizarse, debido a la extensión de las superficies de las estaciones y a la pendiente longitudinal reducida en las estaciones de un máximo de 2,5 ‰, mediante una red de tuberías de infiltración y colectores. El agua superficial que fluye desde el lecho de la vía debe, en caso de que el subsuelo no sea capaz de infiltrarse, ser captada y conducida mediante drenajes profundos instalados superficialmente entre cada dos vías.
 
 ## Página 33
+
 
 Este tipo de instalaciones se suelen considerar parte de la ingeniería civil estructural. Como base para la evaluación, se debe poner a disposición del ALV KIB el libro de obras y el expediente de construcción. Entre ambas vías existe, conforme a la normativa, un drenaje profundo instalado superficialmente, ya que la señal de parada (Hp) Lorch se explotó como estación hasta el 05.12.2011.
 
@@ -779,7 +755,23 @@ Dirección de flujo real
 Dirección de flujo real
 Dirección de flujo real
 
+## Página 34
+
+hasta el día del descarrilamiento no existía un cuaderno de drenaje. El cuaderno de drenaje fue elaborado por DB Netz AG únicamente después de la solicitud de información de la EUB del 15.05.2014. En él se documentó que la tubería de drenaje fue inspeccionada el 19.09.2011 mediante inspección por televisión (TV). Los documentos originales de dicha inspección por televisión no pudieron ser aportados por DB Netz. Todas las indicaciones contenidas en el cuaderno de drenaje actualizado se refieren a una copia de la empresa ejecutora, que fue remitida a DB Netz AG en diciembre de 2014. En consecuencia, no es posible verificar si la revisión y evaluación de las imágenes fue realizada por el ALV KIB competente, ya que al respecto no se aportó documentación alguna. En la documentación gráfica posterior (imágenes 4 - 6) de la inspección por televisión del 19.09.2011 se indicó incorrectamente el sentido de la corriente.
+
+Imágenes 4 - 6:
+Las grabaciones de la
+inspección por cámara muestran que
+el agua se acumula parcialmente
+en la tubería.
+Sentido de la corriente real
+Fuente: cuaderno de drenaje
+de DB Netz AG
+Sentido de la corriente real
+Sentido de la corriente real
+
 ## Página 35
+
 
 Imagen 7: Fotografía del pozo final
 Fuente: Cuaderno de drenaje DB Netz AG
@@ -790,8 +782,8 @@ Los pedidos de inspección generados a partir de las bases de datos SAP sirven c
 Según el registro de activos técnicos, la posición técnica estaba registrada con la clase de estructura 2 y debería haberse inspeccionado al menos 1 vez cada 3 años.
 Según la directiva 836, el departamento de mantenimiento KIB es responsable de inspeccionar regularmente las obras civiles.
 
-
 ## Página 36
+
 
 ## 4.5.6
 ## Inspección de la superestructura
@@ -805,8 +797,8 @@ Los hundimientos se tratan de errores de altura longitudinal en el riel derecho 
 Además, en este tramo de vía se detectaron varias «zonas blancas», que indican una capacidad portante reducida. Las «zonas blancas» en la balasta se desarrollan debido a la adherencia de polvo de roca en las piedras de la balasta, lo cual se produce por el frotamiento mutuo cuando la vía presenta inestabilidad. Para la determinación ulterior de las causas, se incluyeron en las investigaciones las inspecciones de vía realizadas.
 Las especificaciones objetivo para la supervisión de las vías están recogidas en la directiva DB 821 «Inspeccionar la superestructura». Así, según esta directiva, las vías de DB Netz AG se supervisan varias veces al año mediante diferentes inspecciones. Las inspecciones periódicas de recorrido de vía tienen lugar, de acuerdo con el plan de pruebas en el sistema SAP para la vía afectada 2, en los meses de febrero, junio y octubre. En casos justificados, esto puede realizarse excepcionalmente hasta dos meses más tarde. Las inspecciones periódicas de medición de la geometría de la vía, que son acompañadas por el departamento de mantenimiento de superestructura, tienen lugar en los meses de marzo y septiembre. En casos justificados, esto puede realizarse excepcionalmente hasta dos meses más tarde.
 
-
 ## Página 37
+
 
 lo. Además, entre los recorridos de inspección de vía, tienen lugar con periodicidad regular inspecciones de vía con obligación de presentar pruebas por parte del departamento de mantenimiento de superestructura.
 ### Inspeccionar la superestructura
@@ -830,8 +822,8 @@ A las instalaciones ferroviarias pertenecen:
 La supervisión es la observación del estado real que es reconocible desde la zona de la vía.
 …
 
-
 ## Página 38
+
 
 ### 8 Plazos para la inspección
 ### Caso habitual/
@@ -857,6 +849,7 @@ recorrido de inspección de vía correspondientes a las instalaciones ferroviari
 
 ## Página 39
 
+
 El control del drenaje constituye una inspección visual desde la vía, que realiza el inspector durante el recorrido de la línea. En esta inspección visual periódica desde la vía no está previsto examinar con mayor detalle las cámaras o las alcantarillas ni introducirse en ellas. El control desde la vía se realiza generalmente por parte del nivel de maestranza o del personal con certificado de aptitud conforme a la RiL 046.2703 del área técnica de superestructura (Oberbau) y, por consiguiente, el centro de gravedad del control también recae sobre la superestructura. El ALV de superestructura debe inspeccionar la vía en un periodo de 24 meses. En el entorno de la vía, en las instalaciones de drenaje solo se presta atención a anomalías especiales, como por ejemplo cámaras dañadas o acumulaciones de agua en la cuneta lateral a la vía. Solo en caso de aparición repetida de un defecto de alineación de la vía en el mismo punto de la vía, ambos ALV (KIB y superestructura) deben, conforme a las disposiciones de la RiL 821, evaluar y valorar conjuntamente el defecto. En el caso presente, ambos estuvieron activos el 19.07.2011 y acordaron que debía realizarse un recorrido con cámara dentro de la tubería.
 
 Otro tipo de inspección es la verificación de la geometría de la vía mediante vehículos de medición de vía. Las inspecciones periódicas de medición de la geometría de la vía, que son acompañadas por el ALV de superestructura, están previstas para los meses de marzo y septiembre. En casos justificados, esta inspección puede realizarse excepcionalmente hasta dos meses más tarde.
@@ -876,8 +869,8 @@ Para esta inspección de las vías, la RiL 821.2001 establece las siguientes dis
 |  | la posición de altura mutua y la anchura de vía. De estos valores de medición . |  |  |
 |  | se calculan otros parámetros como la torsión del error de peralte , |  |  |
 
-
 ## Página 40
+
 
 el error de peralte residual, la desviación estándar y la anchura de vía media en 100 m (RAILab).
 
@@ -899,15 +892,15 @@ La valoración global de defectos individuales (EF-Gesamt) es una afirmación so
 
 Los defectos de alineación de la vía detectados con el GMFZ el 11.04.2013 durante la última inspección periódica previa al descarrilamiento presentaban errores de alineación marcados en el área del posterior lugar del descarrilamiento en la altura longitudinal (LH), la torsión (Vw) y la posición de altura mutua (GH). Según el protocolo de superación de los valores límite (fig. 17), un error de LH superó el SRlim en el pk 76,981. En la medida inmediata iniciada, el defecto se reparó mediante compactación manual. En el parámetro de torsión de la vía se superó el SR100 y en la posición de altura mutua solo se alcanzó el SR100, pero no se superó.
 
-
 ## Página 41
+
 
 Fig. 16: Registro de medición del GMFZ del 11.04.2013, procesado por EUB ORE Torsión GH=posición de altura mutua
 
 Fig. 17: Protocolo de superación de valores límite RAILab-1 del 11.04.2013
 
-
 ## Página 42
+
 
 Fig. 18: Protocolo de superación de SR100 del 11.04.2013
 
@@ -916,6 +909,7 @@ La RiL 821 regula qué valores límite deben respetarse en la manifestación de 
 En los registros de medición de las inspecciones periódicas anteriores al accidente, además de los defectos mencionados anteriormente del 11.04.13, se registraron otros defectos de alineación de la vía marcados en las
 
 ## Página 43
+
 
 se deducen de las fechas 19.03.2012 y 10.09.2012. Teniendo en cuenta que deben prestarse especial atención a los errores individuales que se producen combinadamente y la constatación de que las medidas de reparación llevadas a cabo hasta el momento no habían sido exitosas, medidas compensatorias adecuadas hasta la aclaración de la causa habrían podido aumentar la seguridad en el servicio ferroviario. Con una observancia consecuente de los resultados de las inspecciones anteriores, el responsable de la instalación habría podido, tras la inspección del 11.04.2013, supervisar las debilidades ya conocidas en intervalos más cortos. Asimismo, otras medidas operativas, como por ejemplo la reducción de la velocidad en el tramo de vía llamativo, habrían podido contribuir a aumentar la seguridad.
 
@@ -943,27 +937,35 @@ El responsable de la instalación según la RiL 820.0106 debe decidir sobre la n
 (2) En el marco de la planificación de las inspecciones, las inspecciones con vehículo y las inspecciones a pie deben coordinarse entre sí con desfase temporal de manera que se realicen con intervalos lo más uniformes posible.
 …
 
-
 ## Página 44
 
-Las inspecciones reglamentarias, a pie y con vehículo, se realizaron y documentaron conforme a la normativa, como se ha demostrado. Respecto a las inspecciones reglamentarias según la RiL 821, el ALV (responsable de la superestructura) realizó y documentó, como se ha demostrado, inspecciones adicionales.
+Las inspecciones reglamentarias de recorrido de vía y de medición de vía se llevaron a cabo y documentaron acreditativamente conforme a la normativa. Para las inspecciones reglamentarias según Ril 821, el ALV de superestructura realizó acreditativamente inspecciones adicionales y también las documentó.
+Las comunicaciones de hallazgos IH representadas en la tabla fueron presentadas por el operador de infraestructura:
 
-Los informes de hallazgos del IH (Inspección de la Superestructura) presentados en la tabla fueron aportados por el gestor de infraestructura:
+| Fecha |  | Línea/hallazgo IH | Medidas necesarias |  | Ejecución de las medidas |
+| Tipo de inspección |  | comunicación/lugar |  |  |  |
+|  |  |  | 2011 |  |  |
+| 28.02.2011 |  | Línea 3507 -2 | DUA de relleno con GSM/SSP | Medida acreditativamente ejecutada |  |
+| Recorrido de vía |  | Error en la altura | Longitud: 200 m |  |  |
+|  |  | longitudinal; Vía 2; pk |  |  |  |
+|  |  | 77100 a 76900 |  |  |  |
+| La orden de |  | La inspección y la | El tratamiento correspondiente del hallazgo se llevó a cabo acreditativamente con la |  |  |
+| inspección y la comunicación del 28.02.2011 se llevaron a cabo acreditativamente. |  |  |  |  |  |
+| 10/11.04.2011 |  | Línea 3507 -2 | Orden de reparación: | Anotación MKS GSM 08/32 |  |
+| Medición de vía |  | Error en la altura | DUA con GSM/SSP; Vía 2 | disponible. Elaboración mecánica |  |
+|  |  | longitudinal; Vía 2; pk | FLOR de pk 77,000 -76,700 | realizada el 10./11.04.2011. |  |
+|  |  | 77000 76700 – | Longitud: 300 m |  |  |
+La orden de inspección y el tratamiento correspondiente del hallazgo se llevaron a cabo acreditativamente con la comunicación del 10./11.04.2011.
 
-| Fecha | Tipo de inspección | Tramo/Informe de hallazgos IH / Ubicación | Medidas necesarias | Cumplimiento de las medidas |
-| :--- | :--- | :--- | :--- | :--- |
-| 28.02.2011 | Inspección a pie | Tramo 3507-2 <br> Error en la altura longitudinal; vía 2; pk 77,100 a 76,900 | DUA (medida urgente) con GSM/SSP <br> Longitud: 200 m | Las medidas se han cumplido, como se ha demostrado |
-| 10./11.04.2011 | Inspección con vehículo | Tramo 3507-2 <br> Error en la altura longitudinal; vía 2; pk 77,000 a 76,700 | Orden de reparación: <br> DUA con GSM/SSP; vía 2 <br> FLOR de FLOR de km 77,000 a 76,700 <br> Longitud: 300 m | MKS (registro de mantenimiento) GSM 08/32 <br> disponible. Procesamiento mecánico realizado el 10./11.04.2011. |
-
-La orden de inspección y la correspondiente elaboración del hallazgo se realizaron y documentaron conforme a la notificación del 28.02.2011.
-
-| Junio 2011 | Inspección a pie | NI01 Orden creada | Sin hallazgos | La medida se ha cumplido, como se ha demostrado, en el sistema SAP el 25.07.2011 |
-| :--- | :--- | :--- | :--- | :--- |
-| Septiembre 2011 | Inspección con vehículo | Orden creada | Sin hallazgos | La medida se ha cumplido, como se ha demostrado, en el sistema SAP el 29.11.2011 |
-| Octubre 2011 | Inspección a pie | NI01 Orden creada | Sin hallazgos | La medida se ha cumplido, como se ha demostrado, en el sistema SAP el 02.11.2011 |
-
+| Junio 2011 | Se creó la orden NI01 | Sin hallazgo | Medida acreditativamente cerrada en el sistema SAP el 25.07.2011 |
+| Recorrido de vía |  |  |  |
+| Septiembre 2011 | Se creó la orden | Sin hallazgo | Medida acreditativamente cerrada en el sistema SAP el 29.11.2011 |
+| Medición de vía |  |  |  |
+| Octubre 2011 | Se creó la orden NI01 | Sin hallazgo | Medida acreditativamente cerrada en el sistema SAP el 02.11.2011 |
+| Recorrido de vía |  |  |  |
 
 ## Página 45
+
 
 Diciembre 2011
 Inspección a pie adicional, NI01 Orden creada
@@ -980,8 +982,8 @@ DUA (medida urgente) con GSM/SSP.
 Fallo de la medida DUA debido a la avería del registrador multicanal. Inscripción para julio 2012.
 Registro gráfico de la medición del 19.03.2012
 
-
 ## Página 46
+
 
 Extracto del protocolo de superación del 19.03.2012
 
@@ -1013,38 +1015,62 @@ Orden de reparación:
 DUA vía FKAU-FLOR de km 77,400 – 76,700
 MKS registro GSM 09/32 disponible. Procesamiento mecánico realizado el 22./23.09.12.
 
-
 ## Página 47
+
 
 Debido a la avería del registrador multicanal no se llevó a cabo ninguna medida. La inscripción de la medida estaba prevista para julio 2012, pero dado que solo el 10.09.12 estaba disponible una GSM/SSP, la DUA se realizó tras la inspección con vehículo.
 
-
 ## Página 48
 
-Extracto del protocolo de superación del 10.09.2012
-
-| Km desde | Km hasta | Parámetro | Valor | Límite | Fecha insp. |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| 75,8+75 | 75,9+0 | ORE-Verw. | 101 | 100 | 10.09.2012 |
-| | | (3,65‰ a 1,5 m) | | (SR100 (GW2)/3,50‰)) | |
-| 76,9+75 | 77,0+0 | ORE-Verw. | 112 | 100 | 10.09.2012 |
-| | | (5,00‰ a 1,5 m) | | (SR100 (GW2)/3,50‰)) | |
-| | | GH Paso alto: | 12mm | 11mm | 10.09.2012 |
-| | | Superación SR 100+ | | | |
-
-Octubre 2012
-Inspección a pie
-Orden de inspección de la alineación de la vía mediante inspección a pie
-Sin hallazgos
-La medida se ha cumplido, como se ha demostrado, en el sistema SAP el 22.10.2012
-
-| 2013 | | | |
-| :--- | :--- | :--- | :--- |
-| Febrero 2013 <br> Inspección a pie | Tramo 3507-2 Vía 2 | Sin hallazgos | La lista de objetos está disponible, inspección a pie sin hallazgos. |
-| 27.03.2013 <br> Inspección con vehículo | Tramo 3507-2 Vía 2; pk 77,330 – 76,750. <br> Informe de avería nº 13005902. | Orden de eliminación de la avería inmediata el 27.03.13. | 27.03.2013 Eliminación de la avería. <br> Rotura de riel vía 1; pk 77,330 – 76,750. |
-| 04.04.2013 <br> Inspección a pie | Tramo 3507-2 Dirección 1 y 2 <br> Error en la altura longitudinal | Trabajos de parada para la eliminación de los errores de altura longitudinal. Período 08.04 a 30.04. | |
+Extracto del registro de desbordamientos del 10.09.2012 
+km desde 
+km hasta 
+Parámetro 
+Valor 
+Valor umbral 
+Fecha insp. 
+75,8+75 
+75,9+0 
+Gest. ORE 
+101 
+100 
+10.09.2012 
+(3,65‰ a 1,5m) 
+(SR100 
+(GW2)/3,50‰)) 
+76,9+75 
+77,0+0 
+Gest. ORE 
+112 
+100 
+10.09.2012 
+(5,00‰ a 1,5m) 
+(SR100 
+(GW2)/3,50‰)) 
+Filtro paso alto GH: 
+76,9+75 
+77,0+0 
+12mm
+11mm
+10.09.2012
+Desbordamiento 
+SR 100+ 
+Octubre 2012 
+Orden de inspección 
+Sin incidencias 
+Sin incidencias, 
+estado de la vía mediante 
+inspección visual de vía 
+Medida acreditada en el SAP 
+Inspección visual de vía 
+sistema cerrado el 22.10.2012 
+| 2013 |  |  |  |
+| Febrero 2013 inspección visual de vía | Línea 3507 -2 Vía 2 | Sin incidencias | Se dispone de la lista de objetos, inspección visual de vía sin incidencias. |
+| 27.03.2013 ensayo de medida de vía | Línea 3507 -2 Vía 2; pk 77,330 – 76,750. Aviso de anomalía nº 13005902. | Orden de eliminación inmediata de la anomalía el 27.03.14. | 27.03.2014 eliminación de la anomalía. Rotura de riel vía 1; pk 77,330 – 76,750. |
+| 04.04.2013 inspección visual de vía | Línea 3507 -2 dirección 1 y 2 errores en la altura longitudinal | Trabajos de parada para la eliminación de los errores de altura longitudinal periodo 8.4 hasta 30.4. |  |
 
 ## Página 49
+
 
 11.04.2013 
 Tramo 3507-2 
@@ -1059,10 +1085,10 @@ véase: Resultados de medición RAILab
 del 11.04.2013 y corrección 
 torsión 
 manual 
-Según el protocolo de superación del 11.04.2013, superación SR100 en la altura longitudinal (LH) y en la torsión. Defectos corregidos mediante corrección manual y DUA. 
-
+Según el protocolo de superación del 11.04.2013, superación SR100 en la altura longitudinal (LH) y en la torsión. Defectos corregidos mediante corrección manual y DUA.
 
 ## Página 50
+
 
 Extracto del protocolo de superación del 11.04.2013 
 | 76 8+50 , | 76 8+75 , | Torsión ORE | 103 | 100 | 11 04 2013 . . |
@@ -1075,17 +1101,17 @@ Extracto del protocolo de superación del 11.04.2013
 |  |  | ración SRlim+ |  |  |  |
 El 11.04.2013, a raíz del protocolo RAILab, se elaboró un acta y una evaluación de una medición manual tras una reparación realizada en la vía 2 desde el pk 76,985 hasta el 76,975. 
 Nota: La notificación de avería del 27.03.2013 con el nº 13005902 estaba registrada incorrectamente en el sistema SAP y no tiene relevancia para la causa del descarrilamiento. 
-El día del suceso, la posición de la vía se midió aproximadamente a las 16:49 h con el «vagón de medición pequeño Krabbe» desde el pk 77,415 hasta el pk 76,760. El resultado de esta medición sin carga se representa en las figs. 12 y 13. 
-
+El día del suceso, la posición de la vía se midió aproximadamente a las 16:49 h con el «vagón de medición pequeño Krabbe» desde el pk 77,415 hasta el pk 76,760. El resultado de esta medición sin carga se representa en las figs. 12 y 13.
 
 ## Página 51
 
+
 El 12.06.2013 se realizó una inspección especial complementaria con el vagón de medición para la inspección de vías (GMTZ). Los resultados de medición muestran, en el tramo relevante de vía en el pk 77,950, errores de posición de vía en la altura longitudinal de hasta 17 mm. Esto corresponde, según la tabla 2 de la Ril 821.2001, a una superación SR100. Debido a la naturaleza del defecto, se alcanza el límite SRlim, pero no se supera. 
 Fig. 19: Inspección especial del 12.06.2013 
-Fuente: DB Netz AG 
-
+Fuente: DB Netz AG
 
 ## Página 52
+
 
 Fig. 20: Protocolo de superación del 12.06.2013 
 Fuente: DB Netz AG 
@@ -1094,10 +1120,10 @@ Entre 2011 y el suceso se realizaron anualmente tres inspecciones ordinarias dur
 El resultado de la inspección geométrica de vía del 11.04.2013 muestra varios errores de posición de vía en la altura longitudinal con superaciones SR100, así como una superación del SRlim (LH 18 mm). La superación del SRlim constatada se eliminó como medida inmediata mediante corrección manual, lo cual se acreditó mediante medición manual el 12.04.2013. 
 Si se considera la evaluación del tramo del registro de medición en una longitud de 25 m, por un lado se documentaron varios errores consecutivos de altura longitudinal (LH), así como errores en la torsión según ORE y en la altura relativa en este tramo de vía. Según la Ril 821.2001, apartado 5, párrafo 2, las variables de comprobación altura longitudinal, torsión, ancho de vía, altura relativa y flecha son determinantes para la evaluación de los defectos individuales de la posición de vía. 
 La evaluación global de defectos individuales (EF-Gesamt) es una afirmación sobre el mayor defecto individual, referido al respectivo valor SR100, dentro de un tramo de 25 m. 
-En la evaluación de defectos individuales deben tenerse especialmente en cuenta los defectos individuales que se producen combinados. Por consiguiente, también deben considerarse y evaluarse como defectos individuales de la posición de vía que se producen combinados varios errores consecutivos de altura longitudinal en 
-
+En la evaluación de defectos individuales deben tenerse especialmente en cuenta los defectos individuales que se producen combinados. Por consiguiente, también deben considerarse y evaluarse como defectos individuales de la posición de vía que se producen combinados varios errores consecutivos de altura longitudinal en
 
 ## Página 53
+
 
 relación con errores en la torsión y en la altura relativa. 
 Por parte del ALV Oberbau, en el marco de la consideración de defectos individuales que se producen combinados, se acortaron los intervalos de inspección durante el recorrido a pie por la vía. En última instancia, estas medidas no dieron resultado, ya que solo se reaccionó a los defectos procedentes de la medición de la posición de vía. No se consideró la reducción de la velocidad máxima en el tramo relevante ni la acortamiento del plazo de inspección en la medición de la posición de vía. 
@@ -1108,6 +1134,7 @@ La medición geométrica de vía realizada el 12.06.2013 con el GMTZ muestra val
 A partir de la historia de mantenimiento presentada se puede constatar que en la zona del lugar del descarrilamiento ya se habían producido regularmente desde 2011 alteraciones de la posición de vía que, a pesar de las reparaciones acreditadas, no pudieron eliminarse de forma duradera y volvieron a aparecer regularmente. Incluso la medida de mantenimiento (IH) realizada aproximadamente 8 semanas antes del descarrilamiento no fue adecuada para garantizar un margen de desgaste suficiente y duradero para una explotación segura. Por tanto, se debe constatar que los procedimientos elegidos por DB Netz AG durante un período de varios años para la reparación de los defectos de posición de vía no fueron adecuados para eliminar los defectos de forma duradera.
 
 ## Página 54
+
 
 ## 4.6 
 ## Investigación de vehículos 
@@ -1150,10 +1177,10 @@ Centésimas de frenado disponibles
 Fig. 21: Datos procedentes de la hoja de frenado y de la lista de vagones 
 Una primera investigación de los vagones fue realizada por el inspector de vagones en el terminal de carga Soe de Train Group. En la estación de salida Soe se realiza otra investigación completa de los vagones por parte de la empresa de explotación ferroviaria (EVU) responsable LOCON Benelux Bv. En ambas investigaciones de los vagones no se documentan defectos técnicos. 
 Conclusiones: 
-Entre Train Group (terminal de carga) y LOCON Benelux Bv no existe un acuerdo de confianza. Por consiguiente, el tren en el terminal fue sometido a una investigación completa por parte del inspector de vagones. La empresa de explotación ferroviaria (EVU) competente en los Países Bajos asumió el tren en la estación de salida Soe y realizó aquí también una investigación completa de los vagones. 
-
+Entre Train Group (terminal de carga) y LOCON Benelux Bv no existe un acuerdo de confianza. Por consiguiente, el tren en el terminal fue sometido a una investigación completa por parte del inspector de vagones. La empresa de explotación ferroviaria (EVU) competente en los Países Bajos asumió el tren en la estación de salida Soe y realizó aquí también una investigación completa de los vagones.
 
 ## Página 55
+
 
 Esta fue realizada en el presente caso por el maquinista del 50583, quien posee tanto la cualificación de inspector de vagones como la de conductor de locomotora. El acuerdo de confianza entre IGE y LOCON Benelux Bv permite el tratamiento simplificado de entrada del DGS 90636 en la estación fronteriza de Emmerich. 
 ## 4.6.2 
@@ -1166,10 +1193,10 @@ a 92 km/h a las 3:26:29 (hora DSK) una velocidad en constante disminución hasta
 VStr= 110 km/h 
 Lugar de descarrilamiento pk76,950 
 VIst= 104 km/h 
-Fig. 22: EFR locomotora 1216950 procesada por EUB 
-
+Fig. 22: EFR locomotora 1216950 procesada por EUB
 
 ## Página 56
+
 
 Conclusiones: 
 A las 5:20:24 horas (indicación de tiempo corregida, tiempo real), el vagón de transporte de automóviles 23 88 4371 080-3, que circulaba al final del DGS 90636, atravesó la zona de descarrilamiento en el pk 76,950 con una velocidad registrada en el vehículo líder 91 81 1216 950-6 de 104 
@@ -1194,7 +1221,18 @@ serslautern:
 Fig. 23: Tope del vagón de transporte de automóviles descarrilado 
 Llamaba la atención únicamente que, en una medición de ruido realizada por DB Netz AG a lo largo de la vía en el último vagón con el número 23 TEN 88 B – Touax 4371 0803 del tren accidentado, se detectó una fuente de ruido. La causa de esto era la planicie del conjunto de ruedas 10003405 (en sentido de marcha, primer eje de 4), que se muestra en la Fig. 24.
 
+## Página 57
+
+presentaban, presentaban solo un desgaste leve. Los daños detectados en ejes, muelles y suspensiones se clasificaron como daños consecuentes. Los topes presentaban un estado de lubricación normal en los vagones descarrilados (véase Abb. 23).
+
+Toma de una foto de un tope en EuroMaint Rail GmbH en Kaiserslautern:
+
+Abb. 23: Tope del vagón de transporte de automóviles descarrilado
+
+Lo único llamativo era que, en una medición acústica realizada por DB Netz AG en el vía, en el último vagón con el número 23 TEN 88 B – Touax 4371 0803 del tren accidentado, se detectó una fuente de ruido. La causa de ello era la zona plana del juego de ruedas 10003405 (en el sentido de la marcha, 1.º eje de 4) representada en Abb. 24.
+
 ## Página 58
+
 
 Fig. 24: Desgaste plano del bogie 10003405 
 Dado que la magnitud del error del desgaste plano se encuentra por debajo del umbral de activación definido por el Anexo 9 de las AVV de 60 mm para diámetros de rueda superiores a 630 mm, debe clasificarse como no relevante para el descarrilamiento. 
@@ -1206,10 +1244,10 @@ en EuroMaint Rail
 GmbH en Kaiserslau­
 tern 
 Fig. 25: Dispositivo de bloqueo de la plataforma elevadora 
-La plataforma del último vagón estaba bajada unilateralmente. Al examinarlo con mayor detalle, se podía apreciar en las marcas de impacto del perno sobre el bloqueo que la plataforma debió encontrarse por encima del bloqueo antes del descarrilamiento. 
-
+La plataforma del último vagón estaba bajada unilateralmente. Al examinarlo con mayor detalle, se podía apreciar en las marcas de impacto del perno sobre el bloqueo que la plataforma debió encontrarse por encima del bloqueo antes del descarrilamiento.
 
 ## Página 59
+
 
 Para poder simular con precisión el comportamiento de los vagones, también se registró la curva característica de los muelles parabólicos en la empresa Langen & Sondermann en Lünen. En este caso, no se detectaron desviaciones de las curvas características. Se descartó considerar la humedad entre las hojas de los muelles como medio lubricante, ya que la posible humedad presente, debido a la alta fricción entre las hojas de los muelles, se evaporaría tras un breve periodo de circulación. 
 Fig. 26: bogie descarrilado de un vagón Laaers 
@@ -1217,10 +1255,10 @@ Conclusiones:
 Los vagones para el transporte de automóviles se encontraban técnicamente en buen estado. Los defectos encontrados, con la excepción del desgaste plano como consecuencia del descarrilamiento, deben clasificarse como tales. La extensión del desgaste plano se encontraba aún dentro de la tolerancia técnicamente admisible desde el punto de vista de la rodadura. 
 ## 4.7 
 ## Estudio de simulación 
-Debido a la causa del descarrilamiento sospechada pero no demostrable de manera inequívoca, se iniciaron investigaciones adicionales. El objetivo era representar con mayor detalle la interacción entre el vehículo y la vía en el área del lugar del descarrilamiento. En el Instituto de la empresa SIMTES se modelaron exhaustivamente la vía con los defectos de alineación de la vía y el vehículo descarrilado, y se simuló la circulación del tren en el tramo del lugar del descarrilamiento. Para ello, se construyó un modelo de multibody en SIMPACK versión 9.5/9.6 del vehículo, así como se modeló un tren de 2(2) vagones compuesto por 4 vagones acoplados. El modelo se basó 
-
+Debido a la causa del descarrilamiento sospechada pero no demostrable de manera inequívoca, se iniciaron investigaciones adicionales. El objetivo era representar con mayor detalle la interacción entre el vehículo y la vía en el área del lugar del descarrilamiento. En el Instituto de la empresa SIMTES se modelaron exhaustivamente la vía con los defectos de alineación de la vía y el vehículo descarrilado, y se simuló la circulación del tren en el tramo del lugar del descarrilamiento. Para ello, se construyó un modelo de multibody en SIMPACK versión 9.5/9.6 del vehículo, así como se modeló un tren de 2(2) vagones compuesto por 4 vagones acoplados. El modelo se basó
 
 ## Página 60
+
 
 en la documentación disponible, como planos, hojas de datos y datos CAD, estimándose los parámetros desconocidos o determinándose mediante cálculos (estabilidad de rodadura del vehículo, rigideces de la caja del vagón). En particular, la representación de los muelles de hojas con su histéresis y los soportes del bogie se representaron con detalle. Mediante cálculos de plausibilidad se verificó la correcta modelización y validez del modelo. 
 Junto con los datos medidos de la alineación de la vía y el trazado, se determinaron en este tramo de vía las fuerzas rueda/carril, el coeficiente de descarrilamiento Y/Q y el levantamiento de la rueda para diferentes velocidades (80 km/h – 140 km/h) y configuraciones (vehículo individual, tren de 2 vagones, cargado/descargado). 
@@ -1237,6 +1275,7 @@ que la primera alarma de avería a las 5:22 horas se evaluó como una avería de
 
 ## Página 61
 
+
 habría podido, a más tardar a las 5:26 horas, al paso del DGS 90636, debido a las demás señales de avería, en particular las señales de colisión consecutivas de puntos de aguja, la causa de la avería debe haber sido reconocida como una avería provocada por el tren. La evaluación de la imagen de las señales de avería de las instalaciones de ocupación de vía y de las averías de puntos de aguja en relación temporal con el recorrido del DGS 90636, que era el único tren en circulación en el tramo de vía relevante en ese momento, no permite otra conclusión. Por consiguiente, a más tardar a las 5:26 horas habría sido necesario emitir una orden de frenado de emergencia de acuerdo con la Ril 408.0581 3.
 Tanto el jefe de tráfico de Oberlahnstein-Süd como la observadora de la BÜ en Assmannshausen establecieron contacto con el Fdl Rüdesheim (Rh.) entre las 5:25 y las 5:27 horas para la investigación de los hechos. Cabe suponer que el jefe de tráfico de Oberlahnstein-Süd interpretó las señales de avería desde su perspectiva subjetiva como una señal de avería de las instalaciones de señalización.
 Si se sigue la perspectiva del jefe de tráfico de Oberlahnstein-Süd, la Ril 408.0581 - Principio general - no podía aplicarse. Por lo tanto, desde la perspectiva del jefe de tráfico, no procedía emitir la orden de frenado de emergencia.
@@ -1250,8 +1289,8 @@ Las señales mostradas desde el punto de vista de la señalización en el área 
 ## Infraestructura
 El drenaje profundo tendido en plano entre ambos raíles debía ser examinado regularmente por el ALV KIB de acuerdo con la Ril 836.8002, apartado 3, párrafo 2. Esto incluye, entre otras cosas,
 
-
 ## Página 62
+
 
 una inspección mediante espejo o cámara de las distintas secciones, cuyos resultados deben documentarse sistemáticamente en soportes de datos. En caso de suciedad de la TE por partículas en suspensión, como por ejemplo lodo o arena, la TE debe lavarse según sea necesario. La necesidad de mantenimiento se determina mediante inspecciones periódicas y su evaluación. A partir de la inspección por TV disponible, debió haber sido claramente reconocible que la mayor parte de las secciones estaban defectuosas y que no existía conexión con un cuerpo de agua receptor. No puede determinarse definitivamente en qué medida se llevó a cabo una evaluación de la inspección por TV. Las razones de la negligencia en la supervisión del drenaje parecen radicar en que a las instalaciones de drenaje, incluidas las libretas de drenaje que deben llevarse, no se les atribuye la importancia necesaria. Además, cabe constatar que las instalaciones de drenaje existentes a menudo no se registraron o no se registraron de forma completa, por lo que no se dispone el ALV de un catastro sobre el estado real de las instalaciones y su condición. Los resultados de investigación faltantes respecto a la inspección y reparación de las instalaciones de drenaje demuestran que la importancia relevante para la seguridad de un drenaje de agua funcional para la superestructura adyacente no recibe la atención necesaria. En el tipo de inspección "supervisión" de las instalaciones de drenaje según la Ril 836.8001, no se realiza una evaluación objetiva del objeto, sino una evaluación visual de las instalaciones durante el recorrido de la vía de acuerdo con la Ril 821.2003 desde la vía. En caso de anomalías o para la determinación y evaluación adicionales del estado de las tuberías de drenaje, debe llevarse a cabo y documentarse una investigación mediante inspección visual, espejo o mediante inspección con cámara.
 En la Ril 836.8001, apartado 8, párrafo 1, imagen 1, se definen más detalladamente los plazos y intervalos de tiempo a respetar para obras de tierra, obras de contención/canaletas y pasos/atravesamientos. Las instalaciones de drenaje no se suelen enumerar por separado ni se les asignan plazos de inspección propios, sino que se asignan predominantemente a una obra constructiva adyacente y están sujetas a su ritmo de inspección. Las inspecciones generadas a partir de ello las realiza el ALV KIB de acuerdo con el plan de plazos. Los intervalos de inspección para las obras de ingeniería constructivas, a las que a menudo se asignan las instalaciones de drenaje, dependen del tipo de instalación y oscilan entre un mínimo de 1 vez al año hasta un mínimo de 1 vez cada 3 años, y tienen por tanto un ritmo mucho más amplio que las inspecciones de la superestructura. Para las instalaciones de drenaje que no se han asignado a ninguna obra constructiva, la Ril 836 no prevé plazos de inspección separados.
@@ -1259,14 +1298,15 @@ Para las instalaciones de drenaje que tienen influencias en las instalaciones de
 
 ## Página 63
 
+
 permitir, de acuerdo con la Ril 836, llevar a cabo los plazos de inspección de manera adecuada y técnicamente competente.
 Las inspecciones requeridas por el reglamento en la superestructura se realizaron dentro de los plazos establecidos. Los defectos detectados durante las mismas fueron evaluados y subsanados de forma oportuna mediante compactación manual y tratamiento mecánico. Los resultados de la investigación disponibles demuestran que las medidas de mantenimiento realizadas no tuvieron un efecto duradero.
 La causa de los frecuentes intentos de reparación de la superestructura es la falta de determinación de la causa raíz por parte de los responsables de las instalaciones. La identificación de las relaciones entre las distintas especialidades técnicas, como por ejemplo la superestructura y la ingeniería estructural civil, incluida la drenaje, así como la ingeniería de terraplenes, se encuentra únicamente en el espectro de tareas de un ingeniero dentro de todo el rango de posibilidades. La mala interpretación de la causa de los defectos por parte del Responsable de la Superestructura (ALV Oberbau) durante las inspecciones realizadas con frecuencia permite concluir que existían déficits en la identificación de las relaciones globales. En el marco de las investigaciones de accidentes realizadas, la mala interpretación de las causas de los defectos de la superestructura ya se ha constatado en múltiples ocasiones. En particular, se remite a los informes de investigación sobre los descarrilamientos ocurridos el 11.02.2011 entre Gröbers – Großkugel y el 13.12.2012 en Löhne (Westf). Dado que los protocolos de excedencia solo indican errores individuales, corresponde exclusivamente al Responsable de la Superestructura (ALV Oberbau), en caso de que se presenten errores individuales combinados, evaluar técnicamente de manera inequívoca el término formulado de forma imprecisa en el reglamento «a tener especialmente en cuenta» y llevarlo a la práctica mediante medidas.
 La formulación «a tener especialmente en cuenta» concede al Responsable de la Superestructura (ALV Oberbau) un margen de discrecionalidad considerable respecto a la evaluación y subsanación de los errores individuales combinados de la posición de la vía. La base de evaluación para la subsanación de tareas relevantes para la seguridad, ya solo por la uniformidad del tratamiento, no puede ser más que el reglamento. Por consiguiente, el texto del reglamento debe redactarse de tal manera que pueda ser aplicado de forma inequívoca y sin lugar a dudas por el Responsable de la Superestructura (ALV).
 Al Responsable de la Superestructura (ALV Oberbau) se le deben poner a disposición documentos para la evaluación de los errores individuales que se producen cíclicamente, de los que se desprenda claramente qué medidas deben iniciarse cuando se presentan diferentes combinaciones de errores individuales. Además, falta una supervisión del Responsable de la Superestructura (ALV) para verificar si ha cumplido con sus obligaciones. Con un principio de «cuatro ojos» funcional, se habría detectado con seguridad, al evaluar los defectos constatados mediante los viajes de medición, que las medidas de mantenimiento realizadas no tenían un efecto duradero. Por consiguiente, habría sido posible una intervención temprana.
 
-
 ## Página 64
+
 
 ## 5.4 
 ## Vehículos
@@ -1283,14 +1323,15 @@ La causa del descarrilamiento son varios errores cíclicos de posición de la v�
 
 ## Página 65
 
+
 características influyen en la distancia y la magnitud de estos defectos de alineación de la vía. Si dichos defectos de alineación de la vía no se reparan de manera duradera, el número de defectos y su magnitud aumentan con el tiempo. La excitación dinámica resultante específicamente de defectos de alineación de la vía uniformes, que afecta especialmente a los vagones ligeros y vacíos, aumenta. Los vagones deforman el firme de forma análoga a su frecuencia propia. Cuando coinciden todos los factores que actúan de manera desfavorable, se produce el descarrilamiento.
 
 Las investigaciones realizadas demuestran que los vagones transportadores de automóviles descarrilados se ven excitados a movimientos de elevación marcados bajo las condiciones encontradas. En este contexto, el rebote de los vagones como primera reacción ante los defectos de perfil longitudinal es menos crítico que la reacción de descenso, que genera un movimiento de elevación. Si este movimiento de elevación es tan grande que el puente del portaejes choca contra el cojinete del eje, este impulso hace que el movimiento de elevación del eje siga aumentando, lo que en conjunto provoca un levantamiento crítico de la rueda. Los vagones transportadores de automóviles del tipo Laaers no pudieron compensar adecuadamente estas excitaciones adicionales procedentes de los defectos de alineación de la vía encontrados a la velocidad de 104 km/h debido a sus características constructivas y descarrilaron. Otra causa radica en la subestimación del potencial de peligro de los defectos individuales combinados (cíclicos) ocurridos por parte del personal de inspección y en la falta de regulación sobre su tratamiento en las directrices de DB AG.
 
 Cabe señalar al final que la anomalía encontrada en la vía excita de manera adicional a ciertas categorías de vagones de tal forma que puede producirse un descarrilamiento. En el momento del descarrilamiento, han existido aparentemente interacciones entre los vehículos, la vía y posiblemente también influencias meteorológicas que han provocado cambios en las excitaciones ya existentes, lo que ha llevado al descarrilamiento. Los cálculos de SIMTES demuestran que los defectos de alineación de la vía encontrados aumentan el riesgo de descarrilamiento, pero no conducen necesariamente a un descarrilamiento. Fueron las interacciones complejas, que no pudieron ser capturadas en su totalidad por los modelos de simulación utilizados, las que aparentemente contribuyeron al descarrilamiento del vehículo. No se puede cuantificar por separado qué parte corresponde a cada uno de los componentes. Más bien, debe considerarse el sistema global ferroviario, en el que todos los actores participantes están obligados a garantizar un funcionamiento ferroviario seguro. En este informe se muestran las posibilidades al respecto tanto desde el lado de la EIU como desde el lado de la EVU.
 
-
 ## Página 66
+
 
 # 6 
 # Medidas adoptadas hasta la fecha
@@ -1307,8 +1348,8 @@ De conformidad con el artículo 6 del Reglamento sobre la investigación de acci
 | n.º ord. | Recomendación de seguridad | afecta a la empresa |
 | 2/2017 | Las instalaciones de drenaje en la vía y en las inmediaciones de la vía pueden, en caso de fallos de funcionamiento, provocar la saturación de agua del firme de la vía, de lo que pueden derivarse defectos de alineación de la vía que ponen en peligro la explotación. El personal encargado de la inspección de las instalaciones de drenaje carece de un catastro exhaustivo de las instalaciones de drenaje existentes para poder planificar y realizar inspecciones periódicas. | Empresa de infraestructura ferroviaria (EIU) |
 
-
 ## Página 67
+
 
 Se recomienda registrar todas las instalaciones de drenaje por separado para poder planificar y realizar de manera oportuna inspecciones periódicas sobre el funcionamiento de cada instalación de drenaje.
 El objetivo de esta medida es el control completo y periódico de las instalaciones de drenaje en la vía y en las inmediaciones de la vía, para impedir el desarrollo de defectos de alineación de la vía que ponen en peligro la explotación, los cuales pueden originarse a partir de la saturación de agua del firme de la vía.

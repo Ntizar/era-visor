@@ -10,13 +10,14 @@ chars: 172347
 ratio_longitud: 1.27
 tokens_in: 84385
 tokens_out: 63258
-verificacion: revisar
-notas_cifras: ["bloque 2: original bilingüe: se compara contra el idioma principal (CS)", "bloque 4: cifras cortas: 1/197", "bloque 5: original bilingüe: se compara contra el idioma principal (CS)", "bloque 6: original bilingüe: se compara contra el idioma principal (CS)"]
-avisos: ["bloque 5: ratio 1.68", "bloque 6: ratio 1.83"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 3: original bilingüe: se compara contra el idioma principal (PL)", "página 7: original bilingüe: se compara contra el idioma principal (EN)", "página 8: original bilingüe: se compara contra el idioma principal (PT)", "página 9: original bilingüe: se compara contra el idioma principal (CS)", "página 12: original bilingüe: se compara contra el idioma principal (EN)"]
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -43,13 +44,13 @@ IČ:   75009561
 http://www.dicr.cz
 tel.: 224 805 444
 
-
 ## Página 2
+
 
 Este informe final es público y todos los hechos en él expuestos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ### 1 RESUMEN
 Fuente: Drážní inspekce
@@ -77,8 +78,8 @@ Staříč de la Vía privada Paskov;
 desde el ámbito Staříč hacia la vía de enlace n.º 90 del ámbito principal de la estación de vías privadas
 de Paskov de la Vía privada Paskov.
 
-
 ## Página 4
+
 
 Causas fundamentales:
 • no interconexión de la tubería del freno automático de aire continuo entre
@@ -116,8 +117,8 @@ de la maniobra de maniobras la realiza el propio maquinista.
 de seguridad anteriores también en otros operadores ferroviarios en
 los ferrocategoría vía privada, en la República Checa.
 
-
 ## Página 5
+
 
 ### SUMMARY 
 Grade:
@@ -168,8 +169,8 @@ national legislation, in internal regulations of the RU and by the
 decisions of government authorities, in technological procedures of
 the operation of rail transport on sidings;
 
-
 ## Página 6
+
 
 determine a obligation of engine driver to check the connection of
 •
@@ -181,8 +182,8 @@ it is recommended to take own measure forcing implementation of
 the above recommendations for other all RUs/IMs at all sidings in
 the Czech republic.
 
-
 ## Página 7
+
 
 ## Índice
 1 Resumen ...............................................................................................................................3
@@ -222,6 +223,7 @@ relación contractual ..........................................................
 
 ## Página 8
 
+
 3.2.1 Marco organizativo y forma en que se emiten y ejecutan las instrucciones .......28
 3.2.2 Requisitos del personal del gestor de la infraestructura y del transportista y su
 aplicación .......................................................................................................29
@@ -251,8 +253,8 @@ aplicación ....................................................................
 4.2.1 Evaluación de los hechos establecidos según el punto 3 y formulación de conclusiones sobre la causa del suceso extraordinario y la actuación de los servicios de emergencia ..........................................49
 4.3 Conclusiones .......................................................................................................................52
 
-
 ## Página 9
+
 
 4.3.1 Causas inmediatas del suceso extraordinario, incluidos los factores que contribuyeron al mismo y que estuvieron relacionados con la actuación de las personas implicadas o con el estado del material rodante o de las instalaciones técnicas ....................................................................52
 4.3.2 Causas fundamentales relacionadas con la cualificación, los procedimientos y el mantenimiento ............................52
@@ -264,8 +266,8 @@ aplicación ....................................................................
 6 Recomendaciones de seguridad .............................................................................................54
 7 Anexos .............................................................................................................................55
 
-
 ## Página 10
+
 
 ### Lista de siglas y símbolos utilizados
 AWT, a. s.
@@ -327,8 +329,8 @@ transporte y tráfico ferroviario
 ŽP
 paso a nivel
 
-
 ## Página 11
+
 
 ### Lista de siglas de la legislación, normas y normas internas utilizadas
 ley núm. 262/2006 Sb.
@@ -360,8 +362,8 @@ Okp2
 norma interna del gestor de la infraestructura y del transporte ferroviario
 OKD, D «NORMA SOBRE LA APTITUD SANITARIA Y PROFESIONAL DEL PERSONAL QUE PARTICIPA EN LA EXPLOTACIÓN DE LA VÍA Y EN LA EXPLOTACIÓN DEL TRANSPORTE FERROVIARIO», aprobada el 7. 3. 2013, en vigor desde el 1. 6. 2013
 
-
 ## Página 12
+
 
 PŘ vías interiores Paskov
 norma interna del gestor de la infraestructura «Reglamento de explotación de la vía interior Red de vías interiores OKD, Doprava, a. s., vía interior Paskov» (norma interna local de explotación y seguridad del gestor de la infraestructura y del explotador del transporte ferroviario), aprobada el 22. 8. 2014, en vigor desde el 1. 9. 2014
@@ -372,8 +374,8 @@ norma interna del gestor de la infraestructura «Organización e inspección de 
 ČSN 73 6360-2/Z1
 Norma técnica checa ČSN 73 6360 Diseño constructivo y geométrico de la vía de las vías férreas y su posición espacial – Parte 2: Construcción y recepción, explotación y mantenimiento, en la versión de la Modificación Z1, en vigor desde el 1. 3. 2013
 
-
 ## Página 13
+
 
 ### 2 DATOS RELATIVOS AL SUECO EXTRAORDINARIO
 ## 2.1
@@ -394,23 +396,24 @@ Fig. n.º 1:  Vista de parte de los materiales rodantes remolcados descarrilados
 ### 2.1.2 Descripción del suceso extraordinario y del lugar del accidente, incluida la actuación del sistema integrado de emergencias y del servicio de salvamento
 Al suceso extraordinario precedió una maniobra con la composición de la maniobra detenida en la vía n.º 6 de la zona Staříč de la Vía interior Paskov. Tras el desenganche y la conexión de la tubería principal entre los materiales rodantes remolcados, el empleado que dirigía la maniobra, jefe de maniobra, dio por medio de la RDST instrucciones a la persona que conducía el HDV (en adelante
 
-
 ## Página 14
 
-maquinista) de la maniobra para que arrastrara la maniobra en dirección a la zona principal vs. Paskov. El maquinista, ante esta instrucción, puso la maniobra en movimiento y continuó con la maniobra a través del extremo de Paskov de la zona Staříč hacia la vía de conexión n.º 90 de la zona principal vs. Paskov. Durante la marcha de la maniobra, el maquinista detectó el fallo de funcionamiento del freno continuo de la maniobra. Debido a la marcha en pendiente, la velocidad de la maniobra aumentaba gradualmente. Sobre el fallo de funcionamiento de los frenos de la maniobra y su marcha desasegurada (descontrolada), el maquinista informó por radio móvil al jefe de maniobra y a la persona que dirigía el transporte ferroviario – jefe de DPA (en adelante jefe de estación) en la zona principal vs. Paskov. Por ello, el jefe de estación estableció para la marcha de la maniobra una ruta de maniobra desde la vía de conexión n.º 90 hacia la vía de estación n.º 2 y n.º 102 no ocupadas de la zona principal vs. Paskov y, a continuación, hacia la vía de estación en sacacorchos n.º 102a.
-La velocidad de marcha de la maniobra en pendiente aumentaba descontroladamente hasta valores que superaban la velocidad establecida de 30 km·h-1. Al pasar por el extremo de Staříč de la zona principal vs. Paskov, fueron descarrilando progresivamente 21 materiales rodantes remolcados de la maniobra, que se descolgaban y volcaban.
-Fig. n.º 2: Zona Staříč, esquema del lugar de producción del suceso extraordinario.
+maquinista) de la maniobra la instrucción de remolcar la maniobra en dirección hacia el área principal vs. Paskov. El maquinista puso la maniobra en movimiento con esta instrucción y continuó con la maniobra en el siguiente trayecto a través de la aguja de Staříč hacia el vía de enlace n.º 90 del área principal vs. Paskov. Durante el trayecto de la maniobra, el maquinista detectó el fallo de funcionamiento del freno continuo de la maniobra. Debido al trayecto en pendiente, la velocidad de la maniobra aumentaba gradualmente. Sobre el fallo de funcionamiento de los frenos de la maniobra y su marcha desasegurada (incontrolada), el maquinista informó por radiotelefonía móvil al jefe de maniobras y a la persona que dirige el tráfico ferroviario – el encargado de DPA (en adelante, el jefe de estación) en el área principal vs. Paskov. Por ello, el jefe de estación dispuso para la marcha de la maniobra una ruta de maniobra desde la vía de enlace n.º 90 hacia la DV de las vías de estación no ocupadas n.º 2 y n.º 102 del área principal vs. Paskov y, a continuación, hacia la vía de estación a su fin n.º 102a.
+La velocidad de la marcha de la maniobra en pendiente aumentaba incontroladamente hasta valores que superaban la velocidad establecida de 30 km·h-1. Al pasar por la aguja de Staříč del área principal vs. Paskov, se descarrilaron progresivamente 21 TDV de la maniobra, que se descolgaban y volcaban.
+
+Fig. n.º 2: Área Staříč, esquema del lugar de origen del MU.
             Fuente: Inspección Ferroviaria
 
 ## Página 15
+
 
 Fig. n.º 3: Extremo de Staříč del circuito principal vs. Paskov, esquema del lugar del descarrilamiento de TDV de la unidad de maniobras.
 Fuente: Inspección Ferroviaria
 Del examen del lugar del MU se constató (toda la descripción se realiza en el sentido de marcha de la unidad de maniobras) que la unidad de maniobras estaba compuesta por el HDV 92 54 2 740 745-5 (en adelante, 740.745-5) encabezando 22 TDV de la serie Falls cargados con carbón de mina. El MU se produjo en la frontera entre el circuito de Staříč y el circuito principal vs. Paskov de la Vlečky Paskov, en el km 9,431, cuando la unidad de maniobras entró en marcha no asegurada (no controlada) en el enlace de vía n.º 90. Con esta marcha, la unidad de maniobras continuó desde el enlace de vía n.º 90 hacia el extremo de Staříč del circuito principal vs. Paskov.
 Al pasar el 1.º TDV tras el HDV por la aguja de enclavamiento n.º 44ab, en la parte «b», en el km 3,695 – punto «0», al marchar en dirección secundaria de derecha a izquierda, la rueda izquierda del eje delantero del bogie trasero «b» subió hasta la corona del lengüeta izquierda curvada (interna) de la aguja. Tras recorrer 78 cm, esta rueda cayó entre la lengüeta izquierda curvada (interna) y el soporte izquierdo de la parte «a» de la aguja n.º 44ab y, en el transcurso de la marcha posterior, chocó contra el doble corazón. La marcha de la unidad de maniobras por la aguja n.º 44ab ya dañada hizo descarrilar progresivamente a 21 TDV de la unidad de maniobras. Como consecuencia del descarrilamiento del 1.º TDV, el HDV se desenganchó automáticamente del convoy de la unidad de maniobras y, por efecto del freno neumático, se detuvo en la vía de estación n.º 2 en el km 3,352. No obstante, en el momento del examen del lugar del MU, el HDV se encontraba con el extremo delantero en el km 3,460. Los TDV descarrilados de la unidad de maniobras, con excepción del 21.º TDV tras el HDV, en la posición final tras la producción del MU, se encontraban dispuestos de forma desordenada en el espacio de las vías de estación n.º 1 a n.º 12, a lo largo de 160 m. Entre el extremo trasero del HDV y el TDV Falls 83 56 6675 004-6, situado sobre su flanco izquierdo, acoplado como 1.º TDV tras el HDV, había una separación de 37 m. El último, es decir, el 22.º TDV de la unidad de maniobras, permaneció de pie en la parte central de la aguja n.º 44ab, con el extremo trasero a una distancia de 2,3 m antes del punto «0». Como consecuencia del descarrilamiento, la superestructura ferroviaria y el dispositivo de señalización se vieron destructivamente dañados en
 
-
 ## Página 16
+
 
 el extremo de Staříč del circuito principal vs. Paskov, concretamente en el espacio desde la aguja n.º 44ab, pasando por las agujas n.º 43, n.º 42, n.º 40, n.º 39, n.º 38ab, n.º 36 y n.º 35 y las vías n.º 1, n.º 2, n.º 4, n.º 6 y n.º 12.
 El lecho de vía de las vías de estación y agujas del circuito de Staříč y del circuito principal vs. Paskov, incluido el enlace de vía n.º 90, estaba fuertemente contaminado por la caída de sustrato de los TDV que transportaban carbón de mina. El lecho de vía fuertemente contaminado con carbón de mina en los empalmes de las vías afectadas y en las agujas tenía, como consecuencia de la formación de zonas embarradas en la plataforma, una influencia negativa sobre la rigidez requerida del enrejado y la variación del GPK.
@@ -440,8 +443,8 @@ Del examen del convoy de TDV de la unidad de maniobras se constató que todas la
 - TDV Falls 83 56 6675 004-6, acoplado como 1.º TDV tras el HDV:
   ◦ Volcado sobre el flanco izquierdo, atravesando las vías n.º 2, 4 y 6, girado respecto al eje de las vías
 
-
 ## Página 17
+
 
 bajo un ángulo de aprox. 45º;
   ◦ Grifos de la tubería principal abiertos en ambos extremos en posición bloqueada;
@@ -471,8 +474,8 @@ bajo un ángulo de aprox. 45º;
   ◦ Grifo de la tubería principal en el extremo delantero deformado, grifo de la tubería principal en el extremo trasero abierto en posición bloqueada;
   ◦ Dispositivo de desenganche de freno activado, conmutador N-O en posición carga, conmutador P-L en posición cargado;
 
-
 ## Página 18
+
 
 - TDV Falls 33 56 6682 708-4, acoplado como 8.º TDV tras el HDV:
   ◦ De pie tras la altura de la aguja n.º 35, atravesando las vías, inclinado a la izquierda bajo un ángulo de aprox. 30º. El TDV quedó enclavado con su extremo delantero en el TDV 31 56 6683 326-6 y con su extremo trasero en el TDV 83 54 6680 507-3;
@@ -503,6 +506,7 @@ bajo un ángulo de aprox. 45º;
   ◦ Grifo de la tubería principal en el extremo delantero deformado, grifo de la tubería principal
 
 ## Página 19
+
 
 en el extremo trasero abierto en posición bloqueada;
 dispositivo de corte del freno conectado, conmutador N-O en posición intermedia, conmutador P-L
@@ -576,8 +580,8 @@ las vías n.º 1 y 2 y girado respecto al eje de la vía en un ángulo de aprox.
 el extremo trasero en el TDV 83 54 6680 409-2 y por el extremo delantero quedó encastrado el TDV en 35
 56 6682 629-0;
 
-
 ## Página 20
+
 
 grifos de la tubería principal en ambos extremos abiertos en posición bloqueada;
 ◦
@@ -635,8 +639,8 @@ Consentimiento del DI para la liberación de la vía:
 La comunicación del MU por parte del explotador de la vía y el transportista no se ajustó a lo dispuesto en el
 § 49 apartado 3 letra a) de la Ley n.º 266/1994 Sb. y el § 8 del Decreto n.º 376/2006 Sb.
 
-
 ## Página 21
+
 
 Decisión del DI sobre el inicio de la VŠ:
 19. 2. 2015, y ello sobre la base de los hechos
@@ -664,8 +668,8 @@ Explotador de la vía y transportista (AWT a. s.):
 • jefe de maniobras de la unidad de maniobras, empleado de AWT, a. s.;
 • jefe de estación del circuito principal vs. Paskov, empleado de AWT, a. s.
 
-
 ## Página 22
+
 
 2.2.2 Trenes y su composición, incluidos los números de registro de los distintos vehículos ferroviarios
 | Unidad de maniobras |  | Composición de la unidad de maniobras: |  | Propietario: |
@@ -709,6 +713,7 @@ vs. Paskov (de longitud 5 829 m), a través del extremo de Staříč del circuit
 mediante la aguja n.º P1, en sentido directo por la punta, hacia la vía n.º 1c, a través de la aguja n.º 51 en sentido directo
 
 ## Página 23
+
 
 en sentido contrario a la aguja, a la vía n.º 1b, a través de la aguja n.º 47, en sentido secundario a la izquierda en contra de la aguja, a través de la aguja de cruzamiento n.º 44ab en sentido secundario de derecha a derecha, a través de la aguja n.º 42 en sentido directo en contra de la aguja y a través de la aguja n.º 36 en sentido directo en contra de la aguja a la vía n.º 2.
 La aguja de cruzamiento n.º 44ab [en la que se produjo, en la parte "b", en el pk 3,695 (punto "0"), el descarrilamiento]
@@ -758,18 +763,10 @@ Toda la vía n.º 6 del sector Staříč, la cabecera de Paskov del sector Stař
 n.º 90 hasta el pk 9,324 descienden con una pendiente del 2,5‰. Desde el pk 9,324 hasta el pk 8,600, la vía de enlace
 n.º 90 desciende con una pendiente del 11,4 ‰. Desde el pk 8,600 hasta el pk 7,200, la vía desciende con una pendiente del 8,0 ‰, desde
 
-
 ## Página 24
 
-el pk 7,200 hasta el pk 6,640, la vía desciende con una pendiente del 11,0 ‰, desde el pk 6,640 hasta el pk 5,600, la vía desciende
-con una pendiente del 3,6 ‰, desde el pk 5,600 hasta el pk 4,674, la vía desciende con una pendiente del 11,0 ‰ y desde el pk 4,674 hasta
-el pk 4,597 (encuentro de la aguja n.º P1), la vía de enlace n.º 90 desciende con una pendiente del 3 ‰. Desde el pk 4,597,
-a través de la aguja n.º P1 y de la parte de la vía n.º 1c del sector principal vs. Paskov, la vía desciende con una pendiente
-del 3,0 ‰. Desde el pk 4,385, a través de la aguja n.º 51, la vía n.º 1b y a través de la aguja n.º 47, hasta el pk 3,710
-la vía desciende con una pendiente del 9,7 ‰. Desde el pk 3,710, a través de la aguja de cruzamiento n.º 44ab, la vía desciende
-con una pendiente del 3,61 ‰.
-La vía de enlace n.º 90 cruza 6 veces a nivel de la vía con vías de comunicación terrestre
-de uso específico, y ello a través de PCT:
+del pk 7,200 al pk 6,640 la vía desciende con una pendiente del 11,0 ‰, del pk 6,640 al pk 5,600 la vía desciende con una pendiente del 3,6 ‰, del pk 5,600 al pk 4,674 la vía desciende con una pendiente del 11,0 ‰ y del pk 4,674 al pk 4,597 (encuentro del desvío n.º P1) la vía de enlace n.º 90 desciende con una pendiente del 3 ‰. Desde el pk 4,597, a través del desvío n.º P1 y de una parte de la vía n.º 1c del circuito principal vs. Paskov, la vía desciende con una pendiente del 3,0 ‰. Desde el pk 4,385, a través del desvío n.º 51, la vía n.º 1b y a través del desvío n.º 47, hasta el pk 3,710 la vía desciende con una pendiente del 9,7 ‰. Desde el pk 3,710, a través del desvío de enlace n.º 44ab, la vía desciende con una pendiente del 3,61 ‰.
+La vía de enlace n.º 90 cruza 6 veces a nivel de vía con carreteras terrestres de servicio, y ello a través de:
 P 10649 en el pk 9,076;
 •
 P 10648 en el pk 8,309;
@@ -782,84 +779,67 @@ P 10645 en el pk 5,718;
 •
 P 10644 en el pk 5,496.
 •
-Estas PCT estaban señalizadas y protegidas con cruces de San Andrés, señales verticales de tráfico
-A32a "Cruce de San Andrés para paso a nivel de una sola vía" y complementadas en ambos lados de la
-vía de comunicación terrestre con señales verticales de tráfico P6 "¡Deténgase, ceda el paso!".
-El gestor de la infraestructura fijó la velocidad máxima permitida de circulación de DV en el Lateral Paskov
-en el valor de 30 km·h-1.
+Estos pasos a nivel estaban señalizados y protegidos con cruces de aviso, señales verticales de tráfico A32a «Cruce de aviso para paso a nivel de vía única» y completados, a ambos lados de la carretera terrestre, con señales verticales de tráfico P6 «¡Alto, ceda el paso!».
+El gestor de la infraestructura fijó la velocidad máxima permitida de circulación de las DV en el Ramal Paskov en el valor de 30 km·h-1.
 ### 2.2.4 Uso de los medios de comunicación
-el jefe de maniobras de la maniobra utilizó el RDST móvil, tipo HIT TC 700P, para dar
+el jefe de maniobras de la unidad de maniobras utilizó un RDST móvil, modelo HIT TC 700P, para dar
 •
-la instrucción al maquinista de la maniobra de arrastrar la maniobra en la vía n.º 6
-del sector Staříč.
-el jefe de maniobras de la maniobra, tras llegar el extremo de la maniobra al límite del sector
-Staříč, utilizó el RDST móvil para dar información al maquinista sobre la distancia del extremo
-trasero del último TDV hasta la punta de la lengüeta de la aguja n.º S2;
-el maquinista de la maniobra, durante la circulación no asegurada (no controlada), utilizó
+instrucciones al maquinista de la unidad de maniobras para que arrastrase la unidad de maniobras en la vía n.º 6 del circuito Staříč.
+el jefe de maniobras de la unidad de maniobras, tras llegar el extremo de la unidad de maniobras al límite del circuito
 •
-el RDST móvil, tipo KEY KM 208, para informar al jefe de maniobras de la imposibilidad
-de detener la maniobra;
-el maquinista de la maniobra utilizó el RDST móvil para comunicar la imposibilidad de detener
+Staříč, utilizó un RDST móvil para dar información al maquinista sobre la distancia del frente trasero del último TDV respecto al extremo de la lengüeta del desvío n.º S2;
+el maquinista de la unidad de maniobras, durante la circulación no asegurada (no controlada), utilizó
 •
-la maniobra al jefe de estación del sector principal vs. Paskov y para comunicar que la maniobra,
-debido a la circulación en pendiente, se estaba acelerando.
-El uso de los medios de comunicación no se registraba, de conformidad con los procedimientos tecnológicos
-del gestor de la infraestructura.
+un RDST móvil, modelo KEY KM 208, para informar al jefe de maniobras de la imposibilidad de detener la unidad de maniobras;
+el maquinista de la unidad de maniobras utilizó un RDST móvil para comunicar la imposibilidad de detener
+•
+la unidad de maniobras al jefe de estación del circuito principal vs. Paskov y para comunicar que la unidad de maniobras, debido a la circulación en pendiente, se estaba acelerando.
+El uso de los medios de comunicación no quedaba registrado, de conformidad con los procedimientos tecnológicos del gestor de la infraestructura.
 ### 2.2.5 Trabajos realizados en el lugar del suceso excepcional y en sus inmediaciones
-En el lugar del SE no se realizaban, inmediatamente antes de su producción, por parte del propietario, del gestor
-de la infraestructura ni de otras personas, ningún tipo de trabajos de reparación o de mantenimiento.
-
+En el lugar del SE no se estaban realizando, inmediatamente antes de su producción, por parte del propietario, del gestor de la infraestructura ni de otras personas, ningún tipo de trabajos de reparación o de mantenimiento.
 
 ## Página 25
 
-### 2.2.6 Activación del plan para caso de suceso excepcional en la infraestructura y secuencia de los hechos
-la producción del SE – la circulación no asegurada (no controlada) de la maniobra – fue comunicada
+### 2.2.6 Activación del plan para el caso de incidente en la vía y secuencia de acontecimientos
 •
-por el maquinista de la maniobra al jefe de estación del sector principal vs. Paskov;
-a las 16.30 h, el jefe de estación del sector principal vs. Paskov, según el horario de comunicación,
+El origen del incidente (MU) —la marcha no asegurada (descontrolada) de una maniobra— fue comunicado por el maquinista de la maniobra al jefe de circulación del sector vs. Paskov;
 •
-comunicó la producción del SE al despachador de AWT, a. s.;
-a las 16.46 h, el jefe de estación del sector principal vs. Paskov comunicó el SE a la PČR;
+A las 16.30 h, el jefe de circulación del sector vs. Paskov, de acuerdo con el horario de comunicaciones, comunicó el origen del incidente (MU) al despachador de AWT, a. s.;
 •
-a las 16.46 h, el SE fue comunicado por la persona autorizada, el despachador de AWT, a. s., al COP DI;
+A las 16.46 h, el jefe de circulación del sector vs. Paskov comunicó el origen del incidente (MU) a la PČR;
 •
-a las 17.40 h, inicio de la inspección del lugar de producción del SE por la persona autorizada del gestor
+A las 16.46 h, el incidente (MU) fue notificado por la persona autorizada, despachador de AWT, a. s., en el COP DI;
 •
-de la infraestructura y del transportista AWT, a. s., y por empleados del DI. En el lugar del SE estaban
-también presentes los jefes de los distintos componentes organizativos del gestor de la infraestructura
-y del transportista.
-### 2.2.7 Activación del plan del sistema integrado de emergencias, de la policia y del servicio médico de emergencias y secuencia de los hechos
-El SE fue comunicado por: el jefe de estación del sector principal vs. Paskov.
-Al lugar del SE acudió el componente del IZS:
-PČR, Jefatura Regional de Policía de la Región de Moravia-Silesia, Departamento Territorial de Frýdek –
+A las 17.40 h, comienzo de la inspección del lugar de origen del incidente (MU) por parte de la persona autorizada del operador de la vía y del transportista AWT, a. s., y de los empleados de DI. En el lugar del incidente (MU) estaban presentes también los directivos de las distintas divisiones organizativas del operador de la vía y del transportista.
+### 2.2.7 Activación del plan del sistema integrado de emergencias, policia y servicio médico de emergencias y secuencia de acontecimientos
+El incidente (MU) fue comunicado por: el jefe de circulación del sector vs. Paskov.
+Al lugar del incidente (MU) acudió el componente del IZS:
 •
-Místek, 1.ª Sección de Criminalidad General.
+PČR, Jefatura Regional de Policía de la Región de Moravia-Silesia, Departamento Territorial de Frýdek – Místek, 1.ª Sección de Criminalidad General.
 ## 2.3
 ### Fallecimientos, lesiones y daños materiales
-2.3.1 En pasajeros y terceras personas, empleados del gestor de la infraestructura y del transportista,
-incluidas personas en relación contractual
-En el SE no se produjo perjuicio para la salud de empleados del gestor de la infraestructura, del transportista,
-de personas en relación contractual ni de terceras personas.
-### 2.3.2 En las cosas transportadas, el equipaje y otros bienes
-Según la declaración del transportista AWT, a. s., en el SE no se produjo daño en la carga transportada (carbón de mina).
-### 2.3.3 En los vehículos ferroviarios, los componentes de la vía y en el medio ambiente
-El gestor de la infraestructura y el transportista cuantificaron el daño en:
+2.3.1 En pasajeros y terceras personas, empleados del operador de la vía y del transportista, incluidas personas en relación contractual
+En el incidente (MU) no se produjo daño alguno a la salud de empleados del operador de la vía, del transportista, de personas en relación contractual ni de terceras personas.
+### 2.3.2 En objetos transportados, equipaje y otros bienes
+Según la declaración del transportista AWT, a. s., en el incidente (MU) no se produjo daño en la carga transportada (carbón de mina).
+### 2.3.3 En vehículos ferroviarios, componentes de la vía de tráfico y en el medio ambiente
+El operador de la vía y el transportista cuantificaron el daño en:
 HDV de la maniobra
      54 154 CZK;
 •
 TDV de la maniobra
          17 380 022 CZK;
 •
-instalaciones de la infraestructura
+instalaciones de la vía
            4 300 630 CZK;
 •
-daño en el medio ambiente
+daño al medio ambiente
     0 CZK.
 •
-En el SE, el daño producido en los DV y en los componentes de la infraestructura se cuantificó en un total de: 21 734 806 CZK.
-
+En el incidente (MU), el daño causado en DV y en los componentes de la vía se cuantificó en un total de: 21 734 806 CZK.
 
 ## Página 26
+
 
 ## 2.4
 ### Circunstancias externas
@@ -916,168 +896,132 @@ manejo del regulador DAKO-BP, para detener la maniobra;
 
 ## Página 27
 
-en el momento en que la parte delantera de la unidad de maniobras ya se encontraba en el enlace
+en el momento en que la parte delantera de la maniobra ya se encontraba en el enlace
 •
-n.º 90 del circuito principal vs. Paskov y el extremo de la unidad de maniobras se aproximaba al límite
+n.º 90 del circuito principal vs. Paskov y el extremo de la maniobra se aproximaba al límite
 del circuito Staříč, el jefe de maniobras, a través del RDST móvil, dio instrucciones
-para detener la unidad de maniobras;
+para detener la maniobra;
 cuando, tras la aplicación del freno continuo y la posterior activación
 •
-del frenado de acción rápida, no se obtuvo el efecto de frenado, a través del RDST móvil
+del frenado de acción rápida, no se obtuvo efecto frenante, a través del RDST móvil
 informó al jefe de maniobras y al jefe de estación del circuito principal vs. Paskov
-de la imposibilidad de detener la unidad de maniobras en marcha;
-mediante la manipulación posterior de los frenos del freno continuo y del freno directo, intentó reducir la
+de la imposibilidad de detener la maniobra en marcha;
+mediante la manipulación posterior de los dispositivos del freno continuo y del freno
 •
-velocidad de la unidad de maniobras o, en su caso, detener la unidad de maniobras;
-por qué, tras la detención con la HDV de la unidad de maniobras en la posición final tras la creación de la MU
+directo intentó reducir la velocidad de la maniobra o, en su caso, detenerla;
+por qué, tras detener la HDV de la maniobra en la posición final tras la aparición de la MU
 en la vía n.º 2 del circuito principal vs. Paskov, manipuló sus elementos de mando
-y cambió la posición final de la HDV tras la creación de la MU, marchando de vuelta en dirección
-hacia los TDV descarrilados, no es capaz de explicarlo.
-•
+y cambió la posición final de la HDV tras la aparición de la MU, marchando de vuelta
+en dirección a los TDV descarrilados, no es capaz de explicarlo.
 jefe de maniobras – del Registro Oficial de la explicación presentada, del registro
-de la explicación presentada por el DI y de la acta con el empleado, entre otros, se desprende:
-antes de que la HDV entrara en el grupo de 21 TDV cargados en la vía n.º 6 del circuito Staříč, dio
 •
-instrucciones al maquinista para detener la HDV;
+de la explicación presentada por el DI y de la anotación con el empleado, entre otros, se desprende:
+antes de que la HDV accediera al grupo de 21 TDV cargados en la vía n.º 6 del circuito Staříč, dio
+•
+instrucción al maquinista para detener la HDV;
 la HDV se detuvo en la vía n.º 6 a unos 10 m de los TDV. Bajó de la HDV y retiró
 •
 los topes de seguridad. Estos no estaban en contacto con las ruedas del 1.º TDV. Tras retirarlos, dio
 al maquinista la instrucción de acoplarse al conjunto de TDV;
-tras acoplar la HDV al grupo de TDV, se situó entre la HDV y el 1.º TDV y realizó su
+tras acoplarse la HDV al grupo de TDV, se situó entre la HDV y el 1.º TDV y realizó su
 •
 enganche y conexión. Conectó las mangueras de los acoples de freno y abrió las llaves del conducto
 principal;
-aflojó el freno de mano en el 1.º y 2.º TDV. Durante la posterior caminata hasta el extremo del conjunto
+aflojó el freno de mano en el 1.º y 2.º TDV. Durante la posterior marcha hasta el extremo del conjunto
 •
-de la unidad de maniobras, verificó el enganche de los TDV, incluida su conexión con el conducto
+de la maniobra, verificó el enganche de los TDV, incluida su conexión al conducto
 principal;
-al llegar al extremo del conjunto de la unidad de maniobras, comprobó que a una distancia
+al llegar al extremo del conjunto de la maniobra, comprobó que a una distancia
 •
-de unos 5 m había otros TDV cargados. Por ello, dio al maquinista, a través del RDST móvil,
-la instrucción «Comprimir» y acopló este 22.º TDV al conjunto;
-durante la presentación de la explicación, se dio cuenta de que tras la conexión del conducto
-### principal entre el 21.º y el 22.º TDV y la apertura de sus llaves, no registró el paso
-de aire comprimido al 22.º TDV;
+de unos 5 m había otros TDV cargados. Por ello dio, a través del RDST móvil,
+al maquinista la instrucción «Comprimir» y acopló este 22.º TDV al conjunto;
+durante la prestación de la explicación se percató de que, tras la conexión del conducto principal
+•
+### entre el 21.º y el 22.º TDV y la apertura de sus llaves, no había registrado
+la entrada de aire comprimido en el 22.º TDV;
 la conexión de las mangueras del conducto principal y la apertura de las llaves de dicho conducto la realiza
 •
 de forma totalmente automática, admitiendo la posibilidad de que la llave del conducto principal
-de la HDV, al conectarla con el 1.º TDV en la vía n.º 6 del circuito Staříč, no se abriera;
-### no realizó la prueba de freno de forma diferente a los procedimientos contenidos en el PE del circuito Staříč
+de la HDV, al conectarla con el 1.º TDV en la vía n.º 6 del circuito Staříč, no se hubiera abierto;
+### la prueba de freno, de forma distinta a los procedimientos recogidos en el PE del circuito Staříč,
 •
-;
+no la realizó;
 tras enganchar y conectar el 22.º TDV, para comprobar si en algún TDV
 •
-tenía apretado el freno de mano, dio al maquinista, a través del RDST móvil, la instrucción de un
-movimiento más corto «Staříč en la vía n.º 6 tira», sin informar al maquinista
+estaba apretado el freno de mano, dio al maquinista, a través del RDST móvil, la instrucción
+de un movimiento más corto «Staříč en la vía n.º 6 tira», sin informar al maquinista
 del procedimiento de trabajo y de la forma de realizar la maniobra;
-el maquinista con la unidad de maniobras no realizó el «movimiento más corto», sino que continuó
+el maquinista con la maniobra no realizó el «movimiento más corto», sino que continuó
 •
-en la marcha en dirección al enlace n.º 90. Adquirió la impresión de que el maquinista
-con la unidad de maniobras se detendría en el enlace n.º 90 para que él pudiera, de conformidad
-con el PE del circuito Staříč, realizar las acciones con las que pondría los distintos elementos de la vía
-
+la marcha en dirección al enlace n.º 90. Tuvo la impresión de que el maquinista
+con la maniobra se detendría en el enlace n.º 90 para que él pudiera, de conformidad
+con el PE del circuito Staříč, realizar las operaciones con las que haría que los distintos elementos en la vía
 
 ## Página 28
 
-### en la posición básica. Posteriormente, pretendía realizar en dicha vía la prueba de freno
-de la unidad de maniobras;
-en el momento anterior a la creación de la MU, «en algunos casos» realizaban la prueba de freno
+### a la posición básica. A continuación, pretendía realizar en esta vía una prueba de freno
+de la maniobra;
+en el momento anterior a la aparición de la MU «en algunos casos» realizaban la prueba de freno
 •
-de la unidad de maniobras hasta el enlace n.º 90;
-en el momento en que la parte delantera de la unidad de maniobras ya se encontraba en el enlace
+de la maniobra hasta la vía de enlace n.º 90;
+en el momento en que la parte delantera de la maniobra ya se encontraba en la vía de enlace
 •
-n.º 90 del circuito principal vs. Paskov y el extremo de la unidad de maniobras se aproximaba al límite
-del circuito Staříč, dio al maquinista, a través del RDST móvil, instrucciones
-para detener la unidad de maniobras;
-posteriormente, fue informado por el maquinista, a través del RDST móvil, de que
+n.º 90 del sector principal vs. Paskov y el extremo de la maniobra se acercaba al límite
+del sector Staříč, dio al maquinista, a través de la RDST móvil, instrucciones
+para detener la maniobra;
+a continuación, el maquinista le informó, a través de la RDST móvil, de que
 •
-la unidad de maniobras no podía detenerse;
-conoce los procedimientos tecnológicos contenidos en el PE del circuito Staříč, incluidos los procedimientos
+la maniobra no podía detenerse;
+conoce los procedimientos tecnológicos contenidos en el PE del sector Staříč, incluidos los procedimientos
 •
-de realización de la prueba de freno, establecidos para la marcha de la unidad de maniobras desde el circuito
-Staříč hasta el circuito principal vs. Paskov.
-•
-jefe de estación del circuito principal vs. Paskov – del Registro Oficial de la explicación presentada
+de realización de la prueba de freno establecidos para la marcha de la maniobra desde el sector
+Staříč hasta el sector principal vs. Paskov.
+•  el jefe de estación del sector principal vs. Paskov – del Registro Oficial de la declaración prestada
 y del acta con el empleado, entre otros, se desprende:
-a través de la RDST de la base fue informado por el maquinista de la unidad de
+a través de la RDST de base, el maquinista de la maniobra le informó
 •
-maniobras de la marcha no asegurada (no controlada) de la unidad de maniobras;
-con base en esta información, con la operación de la SZZ del circuito principal vs. Paskov, estableció
+de la marcha no asegurada (no controlada) de la maniobra;
+con base en esta información, el personal del SZZ del sector principal vs. Paskov dispuso
 •
-la ruta de maniobras para la unidad de maniobras desde el enlace n.º 90 a la vía n.º 2, 102
-y posteriormente a la vía muerta n.º 102a;
-registró la marcha de la HDV de la unidad de maniobras por la vía n.º 2 del circuito
+un itinerario de maniobra para la maniobra desde la vía de enlace n.º 90 hasta la vía n.º 2, 102
+y posteriormente hasta la vía muerta n.º 102a;
+registró la marcha de la locomotora de la maniobra por la vía n.º 2 del sector principal
 •
-principal vs. Paskov desde el lugar de posición final tras la creación de la MU en dirección hacia los TDV
-descarrilados.
+vs. Paskov desde la posición final tras la aparición de la MU en dirección a los vehículos descarrilados.
 ### 3.1.2 Otras personas
-Otras personas no presentaron explicación sobre la MU.
+Otras personas no prestaron declaración sobre la MU.
 ## 3.2
 ### Sistema de garantía de la seguridad
 ### 3.2.1 Organización marco y forma en que se emiten y ejecutan las instrucciones
-El operador de la vía y el transportista AWT, a. s., tienen la organización marco y la forma
+El gestor de la vía y el transportista AWT, a. s., tienen la organización marco y la forma
 en que se emiten y ejecutan las instrucciones en el apartadero Vlečka Paskov contenidas en el PE
-del apartadero Paskov y el PE del circuito Staříč. Según los procedimientos contenidos en dichas
-normas, la marcha de la DV entre el circuito principal vs. Paskov y el circuito Staříč se realiza
-en forma de maniobras, cuya marcha organiza el jefe de estación del circuito principal vs. Paskov.
-Al entrar la unidad de maniobras en el circuito Staříč, la unidad de maniobras debe detenerse antes de la punta
-de la aguja n.º S2. El jefe de maniobras posteriormente liberará la llave resultante del dispositivo de
-protección lateral – el desvío VkS1 y la aguja n.º S6 del EMZ del puesto de agujas St. I, cambiará
-el desvío y las agujas para la marcha prevista y autorizará la marcha posterior. Tras la detención de la unidad
-de maniobras en la vía correspondiente, el jefe de maniobras cerrará con llave la llave resultante
-de vuelta en el EMZ y dará al jefe de estación del circuito principal vs. Paskov el aviso de la llegada
-de la unidad de maniobras al circuito Staříč.
-
+del apartadero Paskov y en el PE del sector Staříč. Según los procedimientos contenidos en dichas normas,
+la marcha de la LV entre el sector principal vs. Paskov y el sector Staříč se realiza en forma de maniobra,
+cuya marcha organiza el jefe de estación del sector principal vs. Paskov.
+Al entrar la maniobra en el sector Staříč, la maniobra debe detenerse antes de la punta
+del desvío n.º S2. El jefe de maniobra a continuación liberará la llave resultante del dispositivo de protección lateral –
+el desvío VkS1 y el desvío n.º S6 – desde el EMZ del puesto de desvíos St. I, colocará el desvío
+y el desvío para la marcha prevista y autorizará la siguiente marcha. Tras detenerse la maniobra en
+la vía correspondiente, el jefe de maniobra cerrará con llave la llave resultante de vuelta
+en el EMZ y dará al jefe de estación del sector principal vs. Paskov el aviso de llegada
+de la maniobra al sector Staříč.
 
 ## Página 29
 
-Antes de la salida de la unidad de maniobras del circuito Staříč hacia el circuito principal vs. Paskov,
-es decir, antes de la maniobra hacia el enlace n.º 90, todas las DV de la unidad de maniobras deben estar
-enganchadas y conectadas al freno continuo. La responsabilidad de la correcta conexión de la HDV con el 1.º TDV
-de la unidad de maniobras, es decir, la conexión de las mangueras de freno del conducto principal y la apertura
-de las llaves de acople en las caras de las DV enganchadas, corresponde al empleado del transportista que
-engancha la HDV al conjunto de la unidad de maniobras, en el presente caso es el jefe de maniobras. La obligación
-de comprobar el correcto enganche y conexión de la HDV con el 1.º TDV de la unidad de maniobras
-frenada por el freno automático neumático continuo no está impuesta por el transportista al maquinista.
-El último TDV del conjunto debe tener activado el freno continuo que funcione correctamente.
-El jefe de maniobras, en colaboración con el maquinista, que observa los datos en el manómetro de presión
-de aire del conducto principal y a la vez opera el freno del freno automático neumático en la HDV,
-comprobará el efecto del freno en el último TDV y en tantos TDV adicionales como sea necesario para alcanzar
-al menos el 23 % de frenado, es decir, 422 t de peso frenante para una unidad de maniobras de 1832 t
-de peso. Sobre la prueba de freno realizada no se levanta acta. Antes de la propia salida del circuito
-Staříč, el jefe de maniobras solicitará al jefe de estación del circuito principal vs. Paskov el permiso
-para la maniobra hacia el circuito principal. Tras recibir el consentimiento, debe liberar la llave resultante
-del desvío VkS1 y la aguja n.º S6 del EMZ y establecerá la ruta de maniobras para la marcha prevista.
-Después, el jefe de maniobras podrá dar al maquinista la instrucción de poner en movimiento
-la unidad de maniobras – maniobra hacia el enlace n.º 90 del circuito principal vs. Paskov, donde el maquinista
-a la instrucción correspondiente del jefe de maniobras detendrá la unidad de maniobras. Tras la detención
-de la unidad de maniobras, realizará las acciones con las que pondrá los distintos elementos de la vía en la
-posición básica, es decir, cambiará la aguja n.º S2 a la posición para la marcha en dirección directa y en dicha
-posición la cerrará con llave con el cerrojo de cambio mecánico, el dispositivo de protección lateral – el desvío
-VkS1 lo cambiará a la posición final, cuando el cuña de guiado esté en posición sobre el carril, y en dicha
-posición lo cerrará con llave con el cerrojo de desvío mecánico y la llave resultante la insertará en el EMZ
-del puesto de agujas St. I. Después, caminará a lo largo del conjunto de la unidad de maniobras estacionado en
-el enlace n.º 90 hasta la HDV y, tras subir a la cabina, dará al maquinista la instrucción de la marcha posterior
-en el circuito principal vs. Paskov.
-### El procedimiento de control orientado al cumplimiento de las normas de explotación del
-### transporte ferroviario contenidas en las normas internas del transportista en el apartadero Paskov y su
-### frecuencia no estaban definidos de forma unívoca por el transportista AWT, a. s., en el momento
-### anterior a la creación de la MU. El control del cumplimiento de las normas de explotación del
-transporte ferroviario por parte de las personas implicadas en la explotación del transporte ferroviario
-en el apartadero estaba establecido solo a un nivel general, derivado de la ficha de puestos de los
-jefes de empleados. No se trata, sin embargo, de una infracción de la normativa legal.
-Ninguna norma legal impone al transportista del apartadero tener establecido en el contenido de sus
-procedimientos tecnológicos uniformes lo anteriormente indicado, véase el punto 6 de la presente IZ.
-En la organización marco adoptada y la forma en que se emiten y ejecutan las instrucciones
-relacionadas con las circunstancias de la creación de la MU en cuestión, no se detectó deficiencia.
-Se detectó deficiencia en su cumplimiento por los empleados implicados en la MU, véase el punto 3.5.1
-de la presente IZ.
-### 3.2.2 Requisitos para los empleados del operador de la vía y del transportista y su
+Antes de la salida de la unidad de maniobras del área de Staříč al área principal vs. Paskov, es decir, antes de la maniobra sobre el vía de enlace n.º 90, deben estar suspendidos y conectados al freno continuo todos los DV de la unidad de maniobras. La responsabilidad de la correcta conexión del HDV con el 1.º TDV de la unidad de maniobras, es decir, la conexión de los acoples de freno de la tubería principal y la apertura de las llaves de acople en los extremos de los DV suspendidos, corresponde al empleado del operador que engancha el HDV al tren de la unidad de maniobras, en el presente caso es el jefe de maniobras. La obligación de comprobar la correcta suspensión y conexión del HDV con el 1.º TDV de la unidad de maniobras frenada por freno automático de aire continuo no está impuesta por el operador al maquinista. El último TDV del tren debe tener activado el freno continuo funcionando correctamente. El jefe de maniobras, en colaboración con el maquinista, que observa las indicaciones del manómetro de presión de aire en la tubería principal y al mismo tiempo opera el freno del freno automático de aire en el HDV, comprobará el efecto del freno en el último TDV y en tantos TDV adicionales como sea necesario para alcanzar al menos el 23 % de frenado, es decir, 422 t de peso frenante para una unidad de maniobras de 1832 t de masa. De la prueba de freno realizada no se levanta acta. Antes de la salida propiamente dicha del área de Staříč, el jefe de maniobras solicitará al jefe de estación del área principal vs. Paskov el permiso para la maniobra hacia el área principal. Tras obtener el consentimiento, debe liberar la llave resultante del desvío VkS1 y de la aguja n.º S6 del EMZ y establecer la ruta de maniobras para la marcha prevista. A continuación, el jefe de maniobras puede dar al maquinista la instrucción de poner en movimiento la unidad de maniobras – la maniobra hacia el vía de enlace n.º 90 del área principal vs. Paskov, donde el maquinista, tras la instrucción correspondiente del jefe de maniobras, detendrá la unidad de maniobras. Tras detener la unidad de maniobras, realizará las acciones mediante las cuales llevará los distintos elementos de la vía a la posición básica, es decir, colocará la aguja n.º S2 en la posición para la marcha en dirección directa y en esa posición la bloqueará con el cerrojo de cambio mecánico, el dispositivo de protección lateral – el desvío VkS1 – lo llevará a la posición final, cuando el cuña de encaje esté en posición sobre el carril, y en esa posición lo bloqueará con el cerrojo de desvío mecánico y la llave resultante la insertará en el EMZ del puesto de cambio St. I. A continuación, se dirigirá a lo largo del tren de la unidad de maniobras estacionado en el vía de enlace n.º 90 hacia el HDV y, tras subir a la cabina, dará al maquinista la instrucción para la siguiente marcha en el área principal vs. Paskov.
+### El procedimiento de control dirigido al cumplimiento de las normas de explotación del
+### transporte ferroviario contenidas en las disposiciones internas del operador en el
+### vlečka Paskov y su frecuencia no estaban claramente establecidos por el operador
+### AWT, a. s., en el momento anterior a la aparición de la MU. El control del cumplimiento
+### de las normas de explotación del transporte ferroviario por parte de las personas
+involucradas en la explotación del transporte ferroviario en el vlečka estaba establecido solo a un nivel general, derivado de la descripción de puestos de trabajo de los empleados directivos. Sin embargo, no se trata de una infracción de la normativa legal. Ninguna disposición legal obliga al operador del vlečka a tener establecido en el contenido de sus procedimientos tecnológicos unificados lo anteriormente indicado, véase el punto 6 de esta ZZ.
+En la organización marco adoptada y en la forma en que se emiten y ejecutan las instrucciones relacionadas con las circunstancias de la aparición de la MU en cuestión, no se ha detectado ninguna deficiencia. La deficiencia se ha detectado en su cumplimiento por parte de los empleados involucrados en la MU, véase el punto 3.5.1 de esta ZZ.
+### 3.2.2 Requisitos para los empleados del gestor de la vía y del operador y su
 ### aplicación
-Los requisitos para los empleados del operador de la vía y del transportista, en particular los
-requisitos de su idoneidad profesional y sanitaria, están establecidos por la Ley n.º 266/1994 Sb.,
+Los requisitos para los empleados del gestor de la vía y del operador, en particular los requisitos de idoneidad profesional y sanitaria, están establecidos por la ley n.º 266/1994 Sb.,
 
 ## Página 30
+
 
 por la disposición nº 173/1995 Sb., por la disposición nº 101/1995 Sb., por la disposición nº 16/2012 Sb. y por las normas internas del gestor de la infraestructura y del transportista.
 En el momento de la producción del siniestro objeto de estudio, todas las personas del gestor de la infraestructura y del transportista AWT, a. s., implicadas en el siniestro y que desempeñaban actividades en la explotación de la infraestructura y del transporte ferroviario, estaban cualificadas profesionalmente para el ejercicio de la función desempeñada.
@@ -1091,6 +1035,7 @@ Hallazgos:
 • el gestor de la infraestructura, al realizar la medición de los desvíos en el sector Staříč y en el sector principal vs. Paskov, de forma contraria a lo dispuesto en el § 22 apartado 1 letra a) de la ley nº 266/1994 Sb., el § 2 apartado 3 de la disposición nº 173/1995 Sb., el § 25 apartado 2 de la disposición nº 177/1995 Sb., los artículos 44, 45 y 46 de la norma interna Sp1, en los desvíos nº 2, 8, P1, 51, 47 y 44ab, no registró (no anotó)
 
 ## Página 31
+
 
 en los documentos «VÝHYBKOVÝ LIST» las magnitudes GPK medidas en las curvas adyacentes a los desvíos, y con ello no comprobaba si las GPK en dichas curvas cumplían los requisitos establecidos en la ČSN 73 6360-2/Z1.
 Dadas las causas y circunstancias de la producción del siniestro objeto de estudio, las deficiencias antedichas no pueden valorarse en relación causal con la producción del siniestro.
@@ -1115,6 +1060,7 @@ En la investigación del siniestro se constató la infracción de las siguientes
 
 ## Página 32
 
+
 • § 2 apartado 3 de la disposición nº 173/1995 Sb.:
 «La infraestructura debe ser inspeccionada y mantenida periódicamente para garantizar su operatividad. ...»;
 • artículo 9.7, Parte I. Señales básicas en la infraestructura de ámbito nacional, de ámbito regional y en la vía privada del Anexo 1 de la disposición nº 173/1995 Sb.:
@@ -1137,6 +1083,7 @@ En la investigación del siniestro se constató la infracción de las siguientes
 «... El procedimiento para la emisión de instrucciones mediante equipos de radio se indica en la norma Dp1. Si el maquinista detecta una avería o la interrupción de la comunicación por radio, debe detenerse inmediatamente y acordar con el empleado que dirige la maniobra el procedimiento a seguir.»;
 
 ## Página 33
+
 
 • artículo 293 letras b) y e) de la norma interna OKD, Doprava Dp2, donde se indica, entre otros:
 «El empleado que dirige la maniobra debe, antes de poner los vehículos en movimiento, garantizar:
@@ -1168,34 +1115,35 @@ Al empleado que dirige la maniobra, el maquinista está obligado a notificar sin
 
 art. 350 del reglamento interno OKD, Doprava Vp15, donde se indica, entre otros:
 •
-"El maquinista de cada (con excepción del inactivo) HV está obligado a vigilar todos los indicadores de estado y funcionamiento de los frenos de su propio HV y los valores de presión en el depósito de aire principal y en la tubería principal. ...";
-art. 39 del PŘ del sector Staříč, donde se indica, entre otros:
+«El maquinista de cada (con excepción del inactivo) HV está obligado a vigilar todos los indicadores de estado y funcionamiento de los frenos de su propio HV y los valores de presión en el depósito principal de aire y en la tubería principal. ...»;
+art. 39 del PR del sector Staříč, donde se indica, entre otros:
 •
-"Entrada al sector Staříč:
-… Una vez detenido el tramo de maniobra en la vía correspondiente, el empleado encargado de la maniobra cierra la llave resultante en el candado electromagnético y comunica al jefe del sector principal la llegada del tramo de maniobra al sector Staříč.
+«Entrada al sector Staříč:
+… Una vez detenido el elemento de maniobra en la vía determinada, el empleado que dirige la maniobra devuelve la llave resultante al cierre electromagnético y comunica al capataz del sector principal la llegada del elemento de maniobra al sector Staříč.
 Salida del sector Staříč:
-El empleado encargado de la maniobra solicita al jefe del sector principal el permiso para la maniobra hacia el sector principal. Una vez recibido el consentimiento, libera la llave resultante del desvío VkS1 y de la aguja nº S6 del candado electromagnético y establece la ruta de maniobra para la circulación prevista. El tramo de maniobra sale hacia la vía de enlace, donde se detiene a la orden del empleado encargado de la maniobra. ...";
-art. 55 del PŘ del sector Staříč, donde se indica:
+El empleado que dirige la maniobra solicita al capataz del sector principal el permiso para la maniobra hacia el sector principal. Una vez recibido el consentimiento, libera la llave resultante del desvío VkS1 y de la aguja n.º S6 del cierre electromagnético y establece la ruta de maniobra para la marcha prevista. El elemento de maniobra sale a la vía de enlace, donde se detiene a la orden del empleado director. ...»;
+art. 55 del PR del sector Staříč, donde se indica:
 •
-"Antes de que el tramo de maniobra salga hacia el sector principal vs Paskov, todos los vehículos del tren deben estar conectados al freno continuo. El último vehículo del tren debe tener el freno continuo activado y funcionando correctamente. El empleado encargado de la maniobra comprobará el efecto del freno en el último vehículo y en tantos vehículos adicionales como sea necesario para alcanzar al menos el 23 % de frenado.";
-art. 68 del PŘ del sector Staříč, donde se indica, entre otros:
+«Antes de la salida del elemento de maniobra hacia el sector principal vs Paskov, todos los vehículos del tren deben estar conectados al freno continuo. El último vagón del tren debe tener el freno continuo activado y funcionando correctamente. El empleado que dirige la maniobra comprueba el efecto del freno en el último vagón y en tantos vagones adicionales como sea necesario para alcanzar al menos el 23 % de frenado.»;
+art. 68 del PR del sector Staříč, donde se indica, entre otros:
 •
-"El sector Staříč constituye un único sector de maniobra … . Antes de iniciar la maniobra hacia la vía de enlace nº 90, el empleado encargado de la maniobra debe solicitar siempre el permiso al jefe del sector principal.";
+«El sector Staříč constituye un sector de maniobra ... . Antes de iniciar la maniobra hacia la vía de enlace n.º 90, el empleado que dirige la maniobra debe solicitar siempre el permiso al capataz del sector principal.»;
 art. 44 del reglamento interno OKD, Doprava Sp1, donde se indica, entre otros:
 •
-" … En la inspección periódica de las agujas se realiza la comprobación del estado de las agujas, de las estructuras de aguja, incluidas las agujas de las vías de desvío, del superestructura ferroviaria, de los pozos de inspección y de los frenos de vía, de las mesas giratorias, de los ejes y de los campos de conexión en las bifurcaciones de aguja, incluidos los arcos adyacentes a las agujas. En la inspección se comprueba además el funcionamiento, se evalúa el desgaste y los defectos de las piezas, la función y la disposición de los anclajes, el estado del lecho de vía y del drenaje y la corrección del funcionamiento del cierre de cambio y del cambiador, la funcionalidad de los circuitos de vía, incluidos los aislamientos. Asimismo se comprueba el levantamiento de las barras de unión, su aislamiento, el estado de las roscas y la separación de las lenguas, y se realiza la prueba de encaje.
-Parte de la inspección es la evaluación de las mediciones conforme a los artículos 34 a 38 de la sección D.";
+« ... En la inspección periódica de las agujas se realiza la comprobación del estado de las agujas, de las estructuras de aguja, incluidas las agujas de las vías de desviación, del superestructura ferroviaria, de los fosos de inspección y de los frenos de vía, de las mesas giratorias, de los ejes y de los campos de conexión en las bifurcaciones de aguja, incluidos los arcos adyacentes a las agujas. En la inspección se comprueba además el funcionamiento, se evalúa el desgaste y los defectos de las piezas, la función y el montaje de los elementos de fijación, el estado del lecho de la vía y del drenaje, y la correcta función del cierre de aguja y del conmutador de aguja, la funcionalidad de los circuitos de vía, incluidas las juntas aisladas.
+Además se comprueba la elevación de las varillas de conexión, su aislamiento, el estado de la roscada y la separación de las lenguas, y se realiza la prueba de enganche.
+La inspección incluye la evaluación de las mediciones de acuerdo con los artículos 34 a 38 de la sección D.»;
 art. 45 del reglamento interno OKD, Doprava Sp1, donde se indica:
 •
-"Las agujas, los cruzamientos, las estructuras de aguja, las uniones de aguja y los arcos adyacentes y demás instalaciones deben cumplir las condiciones establecidas en el anexo nº 6, parte B del decreto nº 177/1995 Sb., ČSN 73 6360-1, ČSN 73 6360-2 y demás documentación técnica para el montaje, la colocación y el mantenimiento de las agujas.";
+«Las agujas, los cruces, las estructuras de aguja, las conexiones de aguja y los arcos adyacentes y demás instalaciones deben cumplir las condiciones establecidas en el anexo n.º 6, parte B del decreto n.º 177/1995 Sb., ČSN 73 6360-1, ČSN 73 6360-2 y la restante documentación técnica para el montaje, la colocación y el mantenimiento de las agujas.»;
 art. 46 del reglamento interno OKD, Doprava Sp1, donde se indica:
 •
-"Los resultados de la inspección los registra el representante responsable del proveedor junto con el jefe de la unidad ejecutiva en el Libro nº 3 y el Libro nº 4, y ambos firmarán el registro.";
+«Los resultados de la inspección los registra el representante responsable del proveedor junto con el responsable de la unidad ejecutiva en el Libro n.º 3, el Libro n.º 4, y ambos firman las anotaciones.»;
 • art. 47 del reglamento interno OKD, Doprava Sp1, donde se indica, entre otros:
-"La inspección integral periódica de la vía lateral se realiza conforme al anexo nº 1 de este reglamento
-
+«La inspección integral periódica de la vía lateral se realiza de acuerdo con el anexo n.º 1 de este reglamento
 
 ## Página 35
+
 
 y al plan de inspecciones, siempre al finalizar el periodo invernal. La inspección la realiza el representante responsable del proveedor que realiza el mantenimiento de la instalación ferroviaria junto con el jefe de la unidad ejecutiva. .. En la inspección se determina el estado, la idoneidad técnica de la vía, se obtienen datos para verificar la fiabilidad y el funcionamiento de las instalaciones, el alcance del mantenimiento ordinario, la planificación de reparaciones y reconstrucciones.";
 • art. 49 del reglamento interno OKD, Doprava Sp1, donde se indica, entre otros:
@@ -1211,8 +1159,8 @@ El sector principal vs. Paskov y el sector Staříč de la Vlečka Paskov no est
 ### 3.4.2 Componentes de la vía
 La medición de la GPK en el sector principal vs. Paskov se realizó tras el descarrilamiento del TDV del tramo de maniobra que circulaba sin control, en los puntos de medición "+30" a "-10" con un paso de medición de 1 m, es decir, 30 m antes y 10 m después del punto "0" en el km 3,695. De la medición de la GPK en la parte de corazón de la aguja nº 47, en la vía de enlace de las agujas nº 47 y nº 44ab, parte "b", y en la aguja nº 44ab se deduce:
 
-
 ## Página 36
+
 
 las magnitudes medidas de sobreelevación de la vía PK (en adelante PK) en estado sin carga para
 •
@@ -1264,8 +1212,8 @@ en el punto de medición "+22", "+10", "-4" y "-8" se alcanza la desviación ope
 ◦
 ZR en grado IAL (+7 mm/2 m);
 
-
 ## Página 37
+
 
 en el punto de medición "+21" se supera la desviación operativa límite ZR en grado IAL
 ◦
@@ -1294,6 +1242,7 @@ El tramo de maniobra estaba compuesto por los siguientes 22 TDV de la serie Fall
 
 ## Página 38
 
+
 6. 31 56 6683 326-6, el titular del TDV era la sociedad TransLog Slovakia, s. r. o. El TDV estaba alquilado a la sociedad AWT, a. s. La última TK antes de la aparición de la MU se realizó el 30. 9. 2014, con una validez de 4 años;
 7. 31 56 6683 505-5, el titular del TDV era la sociedad TransLog Slovakia, s. r. o. El TDV estaba alquilado a la sociedad AWT, a. s. La última TK antes de la aparición de la MU se realizó el 30. 9. 2014, con una validez de 4 años;
 8. 33 56 6682 708-4, el titular del TDV era la sociedad TransLog Slovakia, s. r. o. El TDV estaba alquilado a la sociedad AWT, a. s. La última TK antes de la aparición de la MU se realizó el 11. 10. 2013, con una validez de 4 años;
@@ -1314,8 +1263,8 @@ El tramo de maniobra estaba compuesto por los siguientes 22 TDV de la serie Fall
 
 El HDV 740.745-5 disponía de un Certificado de aptitud de vehículo ferroviario válido, n.º de ref.: PZ 0947/00-V.20, expedido por el DÚ el 22. 5. 2000. La última TK ordinaria antes de la aparición de la MU fue realizada por el transportista el 8. 12. 2014, con validez hasta el 8. 6. 2015. El HDV fue utilizado por el transportista
 
-
 ## Página 39
+
 
 AWT, a. s., en el momento de la aparición de la MU, en un estado técnico que correspondía a la aptitud aprobada. El HDV estaba equipado con un dispositivo de registro automático de datos – CONJUNTO ELECTRÓNICO DE VELOCÍMETRO RE1XX, tipo RJE 151.J - UCT 1121, n.º 5507. De los datos registrados se desprende, entre otros:
 • 16.05.17 h, entrada del HDV en la maniobra de maniobras en la vía n.º 6 del sector Staříč. La caída de la presión de aire en la tubería principal desde el valor operativo de 4,775 bar no queda registrada hasta el momento de la posterior puesta en movimiento del HDV a las 16.09.56 h;
@@ -1332,8 +1281,8 @@ AWT, a. s., en el momento de la aparición de la MU, en un estado técnico que c
 • 16.16.52 h, a una velocidad de 25 km·h-1, a una distancia de 927 m desde la puesta en movimiento de la maniobra de maniobras, se registra la manipulación con el regulador del freno de mando directo DAKO-BP entre las posiciones liberado y frenado;
 • 16.18.40 h, a una velocidad de 36 km·h-1, a una distancia de 1 875 m desde la puesta en movimiento de la maniobra de maniobras, se registra la manipulación con el regulador del freno de mando directo DAKO-BP entre las posiciones liberado y frenado;
 
-
 ## Página 40
+
 
 • 16.19.19 h, a una velocidad de 41 km·h-1, a una distancia de 2 301 m desde la puesta en movimiento de la maniobra de maniobras, se registra la repetición (6 veces) de la señal «Atención» con la bocina de la locomotora, en intervalos de 1 – 10 s;
 • 16.19.33 h, a una velocidad de 43 km·h-1, a una distancia de 2 465 m desde la puesta en movimiento de la maniobra de maniobras, se registra la manipulación con el regulador del freno automático de aire DAKO-BS2 – aplicación de la sobrepresión y posterior nueva aplicación del frenado de acción rápida;
@@ -1354,8 +1303,8 @@ AWT, a. s., en el momento de la aparición de la MU, en un estado técnico que c
 • 16.25.04 h se registra la selección con la palanca de cambio de sentido de la dirección para la marcha en sentido opuesto a la de la marcha desasegurada (incontrolada) de la maniobra de maniobras – hacia delante con un largo avance;
 • 16.25.06 h el maquinista accionó el grado de marcha (de potencia) con un aumento de la corriente de tracción;
 
-
 ## Página 41
+
 
 ### • 16.25.09 h se registra la puesta en movimiento del HDV en sentido opuesto (hacia delante con un largo avance) al sentido original de la marcha desasegurada (incontrolada) de la maniobra de maniobras. En una distancia de 15 m se alcanzó una velocidad de 10 km·h-1. Esta velocidad fue regulada por el maquinista, mediante la manipulación del regulador del freno de mando directo DAKO-BP, en el intervalo de 3 a 5 km·h-1;
 • 16.26.29 h el HDV se detuvo tras recorrer una distancia de 108 m;
@@ -1377,6 +1326,7 @@ Durante el trayecto a pie del jefe de maniobras hacia el extremo de la maniobra 
 
 ## Página 42
 
+
 Por este motivo, desde tierra, comprobó la conexión con el TDV adyacente, pero no detectó que la llave de conexión de la tubería principal HDV no estaba abierta, y por tanto la no conexión de la tubería principal HDV con la tubería principal del TDV adyacente. A esto, en realidad, a diferencia de lo expresado por el maquinista, precedió el llenado de la tubería principal que él no había detectado. De los datos registrados por el dispositivo de registro instalado en el HDV se desprende que, en el momento posterior a la conexión del HDV con el tren de la maniobra de estacionamiento, cuando en la tubería principal del HDV había una presión de servicio de 4,775 bar y en la tubería principal del conjunto TDV de la maniobra de estacionamiento no había presión de aire (ni podía haberla), la presión en la tubería principal del HDV no cambió – no se produjo el llenado del freno del TDV de la maniobra de estacionamiento. Esto no se manifestó con una caída de la presión de aire en la tubería principal del HDV, con la consiguiente caída de la presión de aire en los depósitos de aire principales del HDV y la puesta en marcha del compresor.
 El jefe de maniobras, al llegar al final de la maniobra de estacionamiento, comprobó que a cierta distancia, en la misma vía, había otro TDV cargado. Decidió acoplar este TDV a la maniobra de estacionamiento como 22.º TDV. Para ello, dio al maquinista, a través del RDST móvil, la instrucción de comprimir la maniobra de estacionamiento. Tras bajar y conectar la tubería principal entre el 21.º y el 22.º TDV, en el extremo trasero del 22.º TDV, enganchó un destornillador al gancho de tracción del enganche de tracción y, a través del RDST móvil, dio al maquinista la instrucción de dar un tirón (un movimiento corto) a la maniobra de estacionamiento en dirección a la vía principal vs. Paskov. La razón era verificar el funcionamiento de los TDV de la maniobra de estacionamiento, para comprobar si en algún TDV seguía apretado el freno de mano. El jefe de maniobras, con esta instrucción al maquinista, no determinó ni el lugar de detención ni la distancia del movimiento corto. El maquinista, ante esta instrucción, aplicó potencia al HDV y a las 16.11.23 h puso la maniobra de estacionamiento en movimiento. El maquinista, con una puesta en marcha suave, alcanzó en una distancia de 85 m una velocidad de 9 km·h-1 y continuó con la maniobra de estacionamiento en el siguiente trayecto. Con ello, a diferencia de las normas de explotación del transporte ferroviario y de los procedimientos tecnológicos uniformes del transportista, no realizó con la maniobra de estacionamiento un movimiento corto, sino un movimiento de la maniobra de estacionamiento desde la vía n.º 6, a través de la aguja de salida del área de Staříč, hasta la vía de enlace n.º 90 de la vía principal vs. Paskov.
 Nota: aunque la legislación, los procedimientos tecnológicos del operador de la vía ni los procedimientos tecnológicos uniformes del transportista especifican una distancia concreta ni aproximada para el término «movimiento corto», en este caso concreto es evidente que no puede considerarse «movimiento corto» el trayecto de la maniobra de estacionamiento entre las distintas áreas de Vlečky Paskov.
@@ -1384,13 +1334,14 @@ Aunque antes de poner la maniobra de estacionamiento en movimiento el jefe de ma
 
 ## Página 43
 
-el maquinista detendría la maniobra de estacionamiento, comenzó en la aguja de salida del área de Staříč las acciones para colocar los distintos elementos de la vía en posición base.
-Al alcanzar la maniobra de estacionamiento la velocidad de 9 km·h-1, el maquinista continuó en el siguiente trayecto saliendo por la aguja de Paskov del área de Staříč hacia la vía de enlace n.º 90 de la vía principal vs. Paskov. La velocidad de circulación de la maniobra de estacionamiento aumentaba gradualmente. A una velocidad de 10 km·h-1, el maquinista utilizó el freno de acción directa del HDV. En una distancia de 125 m, la velocidad de circulación de la maniobra de estacionamiento se redujo a 8 km·h-1. Con esta velocidad, con el efecto permanente del freno de acción directa, la maniobra de estacionamiento continuó su circulación. Tras la entrada del HDV en el tramo de la vía de enlace n.º 90 con una pendiente longitudinal del 11,4 ‰, la velocidad de la maniobra de estacionamiento comenzó a aumentar. Tras recorrer 373 m desde la puesta en movimiento de la maniobra de estacionamiento, a las 16.14.30 h, a una velocidad de 9 km·h-1, cuando el final de la maniobra de estacionamiento se aproximaba al límite del área de Staříč, el maquinista desactivó el freno de acción directa y, por primera vez desde la puesta en movimiento de la maniobra de estacionamiento en la vía n.º 6 del área de Staříč, manipuló el mando del freno automático neumático DAKO-BS2, con el que, mediante frenado de servicio, redujo la presión en la tubería principal a 3,575 bar. En 2 s, a una velocidad de 9 km·h-1, mediante la operación del mando del freno automático neumático, repuso la presión en la tubería principal al valor de servicio de 4,775 bar. A las 16.14.36 h, a una velocidad de 8 km·h-1, tras recorrer 45 m (418 m desde la puesta en movimiento de la maniobra de estacionamiento), mediante la operación del mando del freno automático neumático DAKO-BS2, accionó el frenado de acción rápida. Como la tubería principal del HDV no estaba conectada con la tubería principal del TDV de la maniobra de estacionamiento, el accionamiento del frenado de acción rápida no puso en funcionamiento los frenos continuos de los TDV de la maniobra de estacionamiento. Esto tuvo como consecuencia, debido a la progresiva entrada de los TDV cargados acoplados tras el HDV en el conjunto de la maniobra de estacionamiento en el tramo de la vía de enlace n.º 90 con una pendiente longitudinal del 11,4 ‰, un nuevo aumento gradual de la velocidad de circulación. A las 16.15.45 h, a una velocidad de 12 km·h-1, tras recorrer 162 m desde el accionamiento del frenado de acción rápida (580 m desde la puesta en movimiento de la maniobra de estacionamiento), el maquinista comenzó a operar el dispositivo de arenado del HDV. Lo operó hasta la detención del HDV en la vía principal vs. Paskov. A las 16.21.13 h, a una velocidad de 52 km·h-1, tras recorrer 3 442 m desde el accionamiento del frenado de acción rápida (3 860 m desde la puesta en movimiento de la maniobra de estacionamiento), el maquinista, en un intento de aumentar el efecto de frenado, seleccionó con la palanca de reversa la dirección opuesta a la de la circulación de la maniobra de estacionamiento. Antes de que llegara a accionar el mando de potencia con el controlador de conducción, a las 16.21.15 h, a una velocidad de 52 km·h-1, tras recorrer 3 471 m desde el accionamiento del frenado de acción rápida (3 889 m desde la puesta en movimiento de la maniobra de estacionamiento), se produjo un brusco descenso de la velocidad registrada hasta la detención. Las ruedas dejaron de rodar, el dispositivo de registro registró una velocidad de 0 km·h-1, se produjo su derrape, que continuó hasta la detención del HDV en la vía principal vs. Paskov. A las 16.21.18 h el maquinista accionó el mando de conducción (de potencia), tras lo cual, 4 s después, se produjo la parada del motor de combustión.
-Durante la circulación no asegurada (no controlada) de la maniobra de estacionamiento, el maquinista informó progresivamente, a través del RDST móvil, al jefe de maniobras y al guardagujas de la vía principal vs. Paskov de que no podía detener la maniobra de estacionamiento y que esta aceleraba en su descenso. El guardagujas reaccionó ante la situación surgida estableciendo una ruta de maniobra con la operación normal del SZZ de la vía principal vs. Paskov desde la vía de enlace n.º 90 hacia las vías libres de estación n.º 2 y n.º 102 y, a continuación, a través de la aguja de Vratimov, hasta la vía muerta de estación n.º 102a.
-La velocidad de circulación de la maniobra de estacionamiento en el descenso, incluso durante el derrape del HDV, seguía aumentando. El maquinista, durante esta circulación no asegurada (no controlada), intentó reducir la velocidad de circulación de la maniobra de estacionamiento con la manipulación repetida del mando del freno de acción directa DAKO-BP. Estas manipulaciones no tuvieron ninguna influencia ni en la posterior velocidad de circulación de la maniobra de estacionamiento ni en el derrape de las ruedas, ya que desde la velocidad de 8 km·h-1 el maquinista había mantenido activado durante todo el tiempo de la circulación no asegurada (no controlada) de la maniobra de estacionamiento el frenado de acción rápida del HDV.
-La maniobra de estacionamiento circulaba por las agujas n.º 47 y 44ab de la vía principal vs. Paskov a una velocidad de 71,5 km·h-1. Durante el paso del TDV Falls 83 56 6675 004-6, acoplado como 1.º TDV tras
+El maquinista, con la maniobra de maniobras detenida, comenzó en la cabecera de salida del área de Staříč las operaciones para llevar los distintos elementos de la vía a su posición básica.
+Al alcanzar la velocidad de la maniobra de 9 km·h-1, el maquinista continuó con la marcha a través de la cabecera de Paskov del área de Staříč hacia la vía de enlace n.º 90 del área principal vs. Paskov. La velocidad de la maniobra aumentaba gradualmente. A una velocidad de 10 km·h-1, el maquinista aplicó el freno directo del HDV. En un recorrido de 125 m, la velocidad de la maniobra se redujo a 8 km·h-1. Con esta velocidad, con el freno directo aplicado de forma permanente, la maniobra continuó su marcha. Tras la entrada del HDV en el tramo de la vía de enlace n.º 90 con una pendiente longitudinal del 11,4 ‰, la velocidad de la maniobra comenzó a aumentar. Tras recorrer 373 m desde la puesta en movimiento de la maniobra, a las 16.14.30 h, a una velocidad de 9 km·h-1, cuando el extremo de la maniobra se aproximaba al límite del área de Staříč, el maquinista desaplicó el freno directo y, por primera vez desde la puesta en movimiento de la maniobra en la vía n.º 6 del área de Staříč, manipuló el regulador del freno automático de vacío DAKO-BS2, con lo que, mediante frenado en servicio, redujo la presión en la tubería principal a 3,575 bar. En 2 s, a una velocidad de 9 km·h-1, mediante la manipulación del regulador del freno automático de vacío, repuso la presión en la tubería principal al valor de servicio de 4,775 bar. A las 16.14.36 h, a una velocidad de 8 km·h-1, tras recorrer 45 m (418 m desde la puesta en movimiento de la maniobra), mediante la manipulación del regulador del freno automático de vacío DAKO-BS2, introdujo el frenado de acción rápida. Como la tubería principal del HDV no estaba conectada a la tubería principal del TDV de la maniobra, la introducción del frenado de acción rápida no puso en funcionamiento los frenos continuos del TDV de la maniobra. Esto tuvo como consecuencia, debido a la entrada progresiva en el tramo de la vía de enlace n.º 90 con una pendiente longitudinal del 11,4 ‰ de los TDV cargados acoplados detrás del HDV en el tren de la maniobra, un aumento adicional y gradual de la velocidad de marcha. A las 16.15.45 h, a una velocidad de 12 km·h-1, tras recorrer 162 m desde la introducción del frenado de acción rápida (580 m desde la puesta en movimiento de la maniobra), el maquinista comenzó a operar el dispositivo de arenado del HDV. Lo operó hasta la detención del HDV en el área principal vs. Paskov. A las 16.21.13 h, a una velocidad de 52 km·h-1, tras recorrer 3 442 m desde la introducción del frenado de acción rápida (3 860 m desde la puesta en movimiento de la maniobra), el maquinista, en un intento de aumentar el efecto de frenado, seleccionó con la palanca de reversa la dirección opuesta a la de la marcha de la maniobra. Antes de que pudiera accionar el controlador de marcha para seleccionar el escalón de potencia, se produjo, a las 16.21.15 h, a una velocidad de 52 km·h-1, tras recorrer 3 471 m desde la introducción del frenado de acción rápida (3 889 m desde la puesta en movimiento de la maniobra), un descenso brusco de la velocidad registrada hasta la detención. Las ruedas dejaron de rodar, el dispositivo de registro registró una velocidad de 0 km·h-1, se produjo su derrape, que continuó hasta la detención del HDV en el área principal vs. Paskov. A las 16.21.18 h, el maquinista seleccionó el escalón de marcha (de potencia), tras lo cual, 4 s después, se produjo la parada del motor de combustión.
+Durante la marcha desprotegida (descontrolada) de la maniobra, el maquinista informó progresivamente, a través del móvil RDST, al jefe de maniobras y al jefe de estación del área principal vs. Paskov de que no podía detener la maniobra y que esta aceleraba en la pendiente. El jefe de estación reaccionó a la situación creada estableciendo una ruta de maniobra con la operación normal del SZZ del área principal vs. Paskov desde la vía de enlace n.º 90 hacia las vías libres de estación n.º 2 y n.º 102 y, a continuación, a través de la cabecera de Vratimov hacia la vía muerta de estación n.º 102a.
+La velocidad de la maniobra en la pendiente, así como durante el derrape del HDV, seguía aumentando. El maquinista, durante esta marcha desprotegida (descontrolada), intentó reducir la velocidad de la maniobra mediante la manipulación repetida del regulador del freno directo DAKO-BP. Estas manipulaciones no tuvieron ninguna influencia ni en la velocidad posterior de la maniobra ni en el derrape de las ruedas, ya que desde la velocidad de 8 km·h-1 el maquinista había introducido, durante todo el tiempo de la marcha desprotegida (descontrolada) de la maniobra, el frenado de acción rápida del HDV.
+La maniobra pasó por los desvíos n.º 47 y 44ab del área principal vs. Paskov a una velocidad de 71,5 km·h-1. Durante el paso del TDV Falls 83 56 6675 004-6, acoplado como 1.º TDV detrás
 
 ## Página 44
+
 
 el HDV, por la aguja de cruzamiento n.º 44ab, en la parte «a», en el km 3,695, circulando por el itinerario secundario de derecha a derecha, a las 16.25 h, la rueda izquierda del eje delantero del bogie trasero «b», debido a que la velocidad de circulación de la maniobra de estacionamiento superaba la velocidad establecida de 30 km·h-1 en 41,5 km·h-1, es decir, en un 138,3 %, subió a la cabeza de la lengüeta izquierda curva (interna) de la aguja. Tras recorrer 78 cm, esta rueda cayó en la aguja n.º 44ab, en la parte «a», entre la lengüeta izquierda curva (interna) y el soporte izquierdo, y durante el posterior trayecto chocó contra el doble corazón. En el resto del trayecto de la maniobra de estacionamiento, en el espacio de la aguja ya dañada n.º 44ab, en la parte «a», se descarrilaron progresivamente otros 20 TDV de la maniobra de estacionamiento, que se descolgaron y, con excepción del 20.º TDV, volcaron. Por la dinámica del suceso, el HDV se desenganchó automáticamente del conjunto de la maniobra de estacionamiento y, con las ruedas bloqueadas, continuó derrapando por la vía de estación n.º 2. El HDV, en su posición final tras producirse el MU, se detuvo en el km 3,352, en la dirección de la circulación de la maniobra de estacionamiento con el extremo trasero a una distancia de 145 m detrás del TDV Falls 83 56 6675 004-6, que yacía de costado izquierdo, acoplado como 1.º TDV tras el HDV.
 Durante la circulación no asegurada (no controlada) de la maniobra de estacionamiento por la vía de enlace n.º 90 de la vía principal vs. Paskov, el maquinista no respetó la señal con la indicación «Pískejte» (Silba) situada a la derecha de la vía de enlace n.º 90 en el km 9,324 antes de la ŽP P 10649 en el km 9,076, ni la señal con la indicación «Pískejte» situada a la derecha de la vía de enlace n.º 90 en el km 8,257 antes de la ŽP P 10648 en el km 8,309. Dicho incumplimiento de las señales no puede considerarse una infracción de la legislación y de las normas del operador de la vía y del transportista, ya que fue causado por una situación de estrés provocada por la constatación de la ausencia de efecto del freno automático neumático de la maniobra de estacionamiento y por el aumento no controlado de la velocidad de circulación de la maniobra de estacionamiento. El maquinista, en un intento de corregir la velocidad de circulación de la maniobra de estacionamiento para detenerla, priorizó la operación del equipo de freno del HDV sobre la emisión de la señal «Pozor» (Atención).
@@ -1402,6 +1353,7 @@ de la maniobra de estacionamiento, cuando conectó los acoples neumáticos de la
 • tras la puesta en movimiento de la maniobra de estacionamiento en la vía n.º 6 del área de Staříč, según la instrucción del jefe de maniobras «Staříč na koleji č. 6 potáhni» (Staříč en la vía n.º 6, tira), con la que debía realizarse un movimiento corto de la maniobra de estacionamiento con el fin de comprobar si en algún TDV seguía apretado el freno de mano, cuando el maquinista continuó con la maniobra de estacionamiento en el siguiente trayecto desde la vía n.º 6 del área de Staříč hacia la aguja de salida del área de Staříč y posteriormente hacia la vía de enlace n.º 90 de la vía principal vs. Paskov, el jefe de maniobras, en relación con el art. 112 de la norma interna OKD, Doprava Dp1 y el art. 9.7 de la Parte I del Anexo 1 al Decreto n.º 173/1995 Sb., a diferencia de lo dispuesto en los arts. 24, 25 y 296 de la norma interna OKD, Doprava Dp2 y del § 35 apartado 1 letra a) de la Ley n.º 266/1994 Sb., no dio al maquinista la instrucción de detener la maniobra de estacionamiento aún dentro del área de Staříč. Aunque sabía que, a diferencia de lo dispuesto en los arts. 24, 25, 293 apartados b) y e) y 296 de la norma interna OKD, Doprava Dp2, arts. 331, 332 y 334 de la norma interna Vp15 y arts. 39, 55 y 68 de la PŘ del área de Staříč y del § 35 apartado 1 letra a)
 
 ## Página 45
+
 
 de la ley n.º 266/1994 Sb. para el maniobrado a la vía de enlace n.º 90 del sector principal vs. Paskov no solicitó el permiso del jefe de maniobras del sector principal vs. Paskov
 y no realizó la prueba de freno de la unidad de maniobras, subió a la plataforma con el freno de mano
@@ -1442,8 +1394,8 @@ El lugar de la MU no fue asegurado conforme a lo dispuesto en el § 49 apartado 
 apartado 3 del decreto n.º 376/2006 Sb., hasta la llegada de la persona designada del gestor de la vía y del
 transportista, véanse los puntos 2.1.3, 3.4.4 y 4.4.1 de la presente ZZ.
 
-
 ## Página 46
+
 
 ## 3.6
 ### Condiciones laborales, sanitarias y de explotación
@@ -1484,8 +1436,8 @@ A la producción de la MU precedió la maniobra con la composición de la unidad
 la vía n.º 6 del sector Staříč de las Vlečky Paskov. La composición estaba formada por 21 TDV cargados con carbón de extracción.
 A las 16.05.17 h, el HDV 740.745-5 entró en la composición estacionada. El HDV a la composición
 
-
 ## Página 47
+
 
 de la unidad de maniobras lo enganchó el jefe de maniobras. Para el acoplamiento del HDV y el TDV utilizó el tornillo de la 1.ª TDV
 serie Falls 83 56 6675 004-6. A continuación acopló las conexiones de manguera del tubo de freno automático de vacío (en adelante, tubo principal), abriendo únicamente la llave de conexión del TDV.
@@ -1524,29 +1476,28 @@ de modo que la unidad de maniobras liberara la aguja extrema n.º S2 y él pudie
 
 ## Página 48
 
-cerrar con el cerradura mecánica de cambio, el dispositivo de protección lateral – el desvío VkS1 – se debía colocar en la posición final, en la que el cuña de desvío está sobre el carril, y en esa posición cerrarlo con la cerradura mecánica del desvío y la llave resultante introducirla en el EMZ del puesto de maniobras St. I. Por este motivo, el jefe de maniobras, tras llegar con el extremo del conjunto de maniobras al límite del ámbito Staříč, saltó del TDV y comenzó a dar al maquinista, por medio de la RDST móvil, información en números de TDV sobre la distancia del extremo trasero del último TDV desde la punta de la lengüeta del desvío n.º S2 del ámbito Staříč y, posteriormente, instrucciones para detener el conjunto de maniobras. Tras dar las instrucciones para detener el conjunto de maniobras en el carril de enlace n.º 90 del ámbito principal vs. Paskov, cuando el jefe de maniobras suponía que el maquinista detendría el conjunto de maniobras, comenzó en la cabecera de salida del ámbito Staříč con las operaciones para llevar los distintos elementos de la vía a la posición básica.
-Al alcanzar la velocidad del conjunto de maniobras de 9 km·h-1, el maquinista continuó con la marcha por la cabecera de Paskov del ámbito Staříč hacia el carril de enlace n.º 90 del ámbito principal vs. Paskov, en el que entró con el HDV a las 16.12.50 h, a una velocidad de 10 km·h-1, tras recorrer 145 m desde la puesta en marcha del conjunto de maniobras – se produjo la MU. La velocidad de la marcha no asegurada (no controlada) del conjunto de maniobras aumentaba gradualmente. A una velocidad de 10 km·h-1, a las 16.12.50 h, el maquinista aplicó el freno directo del HDV, lo que condujo en un recorrido de 125 m a la reducción de la velocidad de marcha del conjunto de maniobras a 8 km·h-1. Con esta velocidad, con la acción permanente del freno directo, el conjunto de maniobras continuó la marcha y, tras la entrada del HDV en el tramo del carril de enlace n.º 90 con una pendiente longitudinal del 11,4 ‰, desde el cual ya no era posible detener el conjunto de maniobras con la acción del freno del HDV. La velocidad de marcha del conjunto de maniobras comenzó a aumentar de forma incontrolada. Tras recorrer 373 m desde la puesta en marcha del conjunto de maniobras, a las 16.14.30 h, a una velocidad de 9 km·h-1, cuando el extremo del conjunto de maniobras se aproximaba al límite del ámbito Staříč, el maquinista desactivó el freno directo y, por primera vez desde la puesta en marcha del conjunto de maniobras en el carril n.º 6 del ámbito Staříč, manipuló el regulador del freno automático de aire DAKO-BS2, con el que mediante el frenado de servicio redujo la presión en la tubería principal a 3,575 bar. En 2 s, a una velocidad de 9 km·h-1, mediante la manipulación del regulador del freno automático de aire, repuso la presión en la tubería principal al valor de servicio de 4,775 bar. A las 16.14.36 h, a una velocidad de 8 km·h-1, tras recorrer 45 m (418 m desde la puesta en marcha del conjunto de maniobras), mediante la manipulación del regulador del freno automático de aire DAKO-BS2, introdujo el frenado de aplicación rápida. Como la tubería principal del HDV no estaba conectada con la tubería principal del TDV del conjunto de maniobras, la introducción del frenado de aplicación rápida no puso en funcionamiento los frenos continuos del TDV del conjunto de maniobras. Esto tuvo como consecuencia, debido a la entrada progresiva de los TDV cargados acoplados detrás del HDV en el conjunto de maniobras en el tramo del carril de enlace n.º 90 con una pendiente longitudinal del 11,4 ‰, un aumento adicional y gradual de la velocidad de marcha. A las 16.15.45 h, a una velocidad de 12 km·h-1, tras recorrer 162 m desde la introducción del frenado de aplicación rápida (580 m desde la puesta en marcha del conjunto de maniobras), el maquinista comenzó a operar el dispositivo de arenado del HDV. Lo operó hasta la detención del HDV en el ámbito principal vs. Paskov. A las 16.21.13 h, a una velocidad de 52 km·h-1, tras recorrer 3 442 m desde la introducción del frenado de aplicación rápida (3 860 m desde la puesta en marcha del conjunto de maniobras), el maquinista, en un intento de aumentar el efecto de frenado, seleccionó con la palanca de reversa una dirección opuesta a la de la marcha del conjunto de maniobras. Antes de que pudiera accionar el controlador de marcha para acoplar el nivel de potencia, se produjo a las 16.21.15 h, a una velocidad de 52 km·h-1, tras recorrer 3 471 m desde la introducción del frenado de aplicación rápida (3 889 m desde la puesta en marcha del conjunto de maniobras), una brusca reducción de la velocidad registrada hasta la detención. Las ruedas dejaron de rodar, el dispositivo de registro registró una velocidad de 0 km·h-1, se produjo su derrape, que continuó hasta la detención del HDV en el ámbito principal vs. Paskov. A las 16.21.18 h el maquinista acopló el nivel de marcha (de potencia), tras lo cual 4 s después se produjo la parada del motor de combustión.
-Durante la marcha no asegurada (no controlada) del conjunto de maniobras, el maquinista informó progresivamente, por medio de la RDST móvil, al jefe de maniobras y al jefe de estación
-
+cerrar con el bloqueo mecánico de cambio, el dispositivo de protección lateral – el desvío VkS1 – se debía colocar en la posición final, en la que el cuña de derivación está sobre el carril, y en esa posición cerrarlo con el bloqueo mecánico del desvío e insertar la llave resultante en el EMZ del puesto de maniobras St. I. Por este motivo, el jefe de maniobras, tras llegar al final del tramo de maniobra hasta el límite del área de Staříč, saltó del TDV y comenzó a dar al maquinista, a través del RDST móvil, información en unidades TDV sobre la distancia del frente trasero del último TDV hasta la punta de la aguja de la vía n.º S2 del área de Staříč y, posteriormente, instrucciones para detener el tramo de maniobra. Tras dar las instrucciones para detener el tramo de maniobra en la vía de enlace n.º 90 del área principal vs. Paskov, cuando el jefe de maniobras suponía que el maquinista detendría el tramo de maniobra, comenzó en el extremo de salida del área de Staříč las operaciones para llevar cada uno de los elementos de la vía a su posición básica.
+Al alcanzar el tramo de maniobra una velocidad de 9 km·h-1, el maquinista continuó la marcha por el extremo de Paskov del área de Staříč hacia la vía de enlace n.º 90 del área principal vs. Paskov, en la que entró con el HDV a las 16.12.50 h, a una velocidad de 10 km·h-1, tras recorrer 145 m desde la puesta en marcha del tramo de maniobra – se produjo el MU. La velocidad de la marcha no asegurada (no controlada) del tramo de maniobra aumentaba gradualmente. A una velocidad de 10 km·h-1, a las 16.12.50 h, el maquinista aplicó el freno directo del HDV, lo que condujo, en un recorrido de 125 m, a la reducción de la velocidad de marcha del tramo de maniobra a 8 km·h-1. A esta velocidad, con el freno directo aplicado de forma permanente, el tramo de maniobra continuó la marcha y, tras entrar el HDV en el tramo de la vía de enlace n.º 90 con una pendiente longitudinal del 11,4 ‰, a partir de la cual ya no era posible detener el tramo de maniobra mediante el freno del HDV. La velocidad de marcha del tramo de maniobra comenzó a aumentar de forma incontrolada. Tras recorrer 373 m desde la puesta en marcha del tramo de maniobra, a las 16.14.30 h, a una velocidad de 9 km·h-1, cuando el extremo del tramo de maniobra se aproximaba al límite del área de Staříč, el maquinista soltó el freno directo y, por primera vez desde la puesta en marcha del tramo de maniobra en la vía n.º 6 del área de Staříč, manipuló el regulador del freno automático de aire DAKO-BS2, con el que, mediante frenado de servicio, redujo la presión en la tubería principal a 3,575 bar. En 2 s, a una velocidad de 9 km·h-1, mediante la operación del regulador del freno automático de aire, repuso la presión en la tubería principal al valor de servicio de 4,775 bar. A las 16.14.36 h, a una velocidad de 8 km·h-1, tras recorrer 45 m (418 m desde la puesta en marcha del tramo de maniobra), mediante la operación del regulador del freno automático de aire DAKO-BS2, aplicó el frenado de acción rápida. Como la tubería principal del HDV no estaba conectada con la tubería principal del TDV del tramo de maniobra, la aplicación del frenado de acción rápida no puso en funcionamiento los frenos continuos del TDV del tramo de maniobra. Esto tuvo como consecuencia, debido a la entrada progresiva en el tramo de la vía de enlace n.º 90 con una pendiente longitudinal del 11,4 ‰ de los TDV cargados acoplados detrás del HDV en la composición del tramo de maniobra, un aumento adicional y gradual de la velocidad de marcha. A las 16.15.45 h, a una velocidad de 12 km·h-1, tras recorrer 162 m desde la aplicación del frenado de acción rápida (580 m desde la puesta en marcha del tramo de maniobra), el maquinista comenzó a operar el dispositivo de areado del HDV. Lo operó hasta la detención del HDV en el área principal vs. Paskov. A las 16.21.13 h, a una velocidad de 52 km·h-1, tras recorrer 3 442 m desde la aplicación del frenado de acción rápida (3 860 m desde la puesta en marcha del tramo de maniobra), el maquinista, en un intento de aumentar el efecto de frenado, seleccionó con la palanca de reversa la dirección opuesta a la de la marcha del tramo de maniobra. Antes de que pudiera accionar el mando de control de marcha para acoplar el nivel de potencia, se produjo, a las 16.21.15 h, a una velocidad de 52 km·h-1, tras recorrer 3 471 m desde la aplicación del frenado de acción rápida (3 889 m desde la puesta en marcha del tramo de maniobra), una brusca reducción de la velocidad registrada hasta la detención. Las ruedas dejaron de rodar, el dispositivo de registro registró una velocidad de 0 km·h-1, se produjo su derrape, que continuó hasta la detención del HDV en el área principal vs. Paskov. A las 16.21.18 h el maquinista acopló el mando de marcha (de potencia), tras lo cual, 4 s después, se produjo la parada del motor de combustión.
+Durante la marcha no asegurada (no controlada) del tramo de maniobra, el maquinista informó progresivamente, a través del RDST móvil, al jefe de maniobras y al jefe de estación
 
 ## Página 49
 
-del ámbito principal vs. Paskov de que no podía detener el conjunto de maniobras y que este aceleraba por la pendiente. El jefe de estación reaccionó a la situación creada estableciendo una ruta de maniobras con la operación normal del SZZ del ámbito principal vs. Paskov desde el carril de enlace n.º 90 hacia los carriles de estación libres n.º 2 y n.º 102 y, a continuación, a través de la cabecera de Vratimov hacia el carril de estación muerto n.º 102a del ámbito principal vs. Paskov.
-La velocidad de marcha del conjunto de maniobras por la pendiente, incluso con la marcha por derrape del HDV, seguía aumentando. El maquinista, durante esta marcha no asegurada (no controlada), intentó reducir la velocidad de marcha del conjunto de maniobras mediante la manipulación repetida del regulador del freno directo DAKO-BP. Estas manipulaciones no tuvieron ningún efecto ni sobre la velocidad de marcha del conjunto de maniobras ni sobre el derrape de las ruedas, ya que desde la velocidad de 8 km·h-1 el maquinista había introducido durante todo el tiempo de la marcha no asegurada (no controlada) del conjunto de maniobras el frenado de aplicación rápida del HDV.
-El conjunto de maniobras pasó por los desvíos n.º 47 y 44ab del ámbito principal vs. Paskov a una velocidad de 71,5 km·h-1. Al pasar el TDV Falls 83 56 6675 004-6, acoplado como 1.º TDV detrás del HDV, por el desvío de cruce n.º 44ab, en la parte "a", en el km 3,695, circulando en dirección secundaria de derecha a izquierda, a las 16.25 h, el TDV descarriló. En el transcurso posterior de la marcha del conjunto de maniobras en el espacio ya dañado del desvío n.º 44ab, en la parte "a", descarrilaron progresivamente otros 20 TDV del conjunto de maniobras, que se descolgaron y, excepto el 20.º TDV, volcaron. Por la dinámica del suceso, el HDV se desacopló automáticamente del conjunto de maniobras y, con las ruedas bloqueadas, continuó derrapando por el carril de estación n.º 2. El HDV, en su posición final tras la producción de la MU, se detuvo en el km 3,352, en la dirección de marcha del conjunto de maniobras con el extremo trasero a una distancia de 145 m detrás del TDV Falls 83 56 6675 004-6, acoplado como 1.º TDV detrás del HDV, que yacía sobre su costado izquierdo.
-Con la MU no se produjeron daños a la salud de personas ni fugas de sustancias peligrosas. Se activó el IZS.
+del circuito principal vs. Paskov, que no puede detener la maniobra y esta se acelera por la pendiente. El jefe de estación reaccionó ante la situación creada estableciendo la ruta de maniobra con la maniobra normal SZZ del circuito principal vs. Paskov desde el desvío de enlace n.º 90 hacia las vías de estación libres n.º 2 y n.º 102 y, a continuación, a través de la aguja de Vratimov hacia la vía de estación a suelte n.º 102a del circuito principal vs. Paskov.
+La velocidad de la maniobra por la pendiente, incluso con el HDV en derrape, seguía aumentando. El maquinista, durante esta marcha asegurada (descontrolada), intentó reducir la velocidad de la maniobra mediante manipulaciones repetidas del freno de mando directo DAKO-BP. Estas manipulaciones no tuvieron ninguna influencia en la velocidad posterior de la maniobra ni en el derrape de las ruedas, ya que desde la velocidad de 8 km·h-1 el maquinista había activado el freno de acción rápida del HDV durante todo el tiempo de la marcha asegurada (descontrolada) de la maniobra.
+La maniobra pasó por las agujas n.º 47 y 44ab del circuito principal vs. Paskov a una velocidad de 71,5 km·h-1. Durante el paso del TDV Falls 83 56 6675 004-6, acoplado como 1.º TDV tras el HDV, por la aguja de cruce n.º 44ab, en la parte «a», en el km 3,695, circulando en sentido secundario de derecha a derecha, a las 16.25 h, el TDV descarriló. En el transcurso posterior de la marcha de la maniobra, en el espacio de la aguja ya dañada n.º 44ab, en la parte «a», descarrilaron progresivamente otros 20 TDV de la maniobra, que se descolgaron y, con excepción del 20.º TDV, se volcaron. Por la dinámica del suceso, el HDV se descolgó automáticamente del convoy de la maniobra y, con las ruedas bloqueadas, siguió derrapando por la vía de estación n.º 2. El HDV, en su posición final tras la producción de la MU, se detuvo en el km 3,352, en el sentido de la marcha de la maniobra con el extremo trasero a una distancia de 145 m detrás del TDV Falls 83 56 6675 004-6, acoplado como 1.º TDV tras el HDV, que yacía sobre su costado izquierdo.
+Con la MU no se produjeron daños personales ni fugas de sustancias peligrosas. Se activó el IZS.
 ## 4.2
 ### Análisis
-### 4.2.1 Evaluación de los hechos constatados de acuerdo con el punto 3 y formulación de conclusiones sobre la causa del suceso excepcional y la actuación de los servicios de rescate
-Garantización de la operatividad de la vía – Los apartaderos Paskov, incluidas las inspecciones periódicas y el mantenimiento de la vía, no guardaban relación alguna con las causas y circunstancias de la producción de la MU, ni tuvieron influencia en sus consecuencias.
-El transportista AWT, a. s., en relación con lo dispuesto en los arts. 24, 25 y 293 ap. b) y e) de la norma interna OKD, Doprava Dp2 y el art. 350 de la norma interna OKD, Doprava Vp15, en el sentido del § 35 ap. 1 ap. a) de la Ley n.º 266/1994 Sb., no realizó el transporte ferroviario de acuerdo con las reglas de explotación del transporte ferroviario y la licencia vigente, en el sentido de que:
-el jefe de maniobras, al acoplar el HDV 740.745-5 y el TDV Falls 83 56 6675 004-6
+### 4.2.1 Evaluación de los hechos constatados de acuerdo con el punto 3 y exposición de las conclusiones sobre la causa del suceso extraordinario y la actuación de los servicios de rescate
+Garantía de la operatividad de la vía – Los apartaderos Paskov, incluida la realización de controles periódicos y mantenimiento de la vía, no guardaba relación alguna con las causas y circunstancias de la producción de la MU ni tuvo influencia en sus consecuencias.
+El transportista AWT, a. s., en relación con lo dispuesto en los artículos 24, 25 y 293 apartados b) y e) de la norma interna OKD, Doprava Dp2 y el artículo 350 de la norma interna OKD, Doprava Vp15, en el sentido del § 35 apartado 1 letra a) de la Ley n.º 266/1994 Sb., no realizó el transporte ferroviario de acuerdo con las reglas de explotación del transporte ferroviario y la licencia vigente, al:
+el jefe de maniobra, al acoplar el HDV 740.745-5 y el TDV Falls 83 56 6675 004-6
 •
-del conjunto de maniobras en el carril n.º 6 del ámbito Staříč, que debía ser frenado por el freno automático de aire continuo, conectó los acoples de manguera de la tubería principal, abriendo únicamente la llave de acople en el extremo del 1.º TDV. Dejó cerrada la llave de acople en el extremo interior del HDV;
-el maquinista, tras la maniobra y el acople del HDV con el TDV del conjunto de maniobras, no vigiló en los manómetros del HDV los valores de presión del aire en el depósito de aire principal y en la tubería principal, y con ello no detectó la desconexión de la tubería principal del HDV con la tubería principal del TDV ni la no carga del freno del TDV del conjunto de maniobras.
-
+de la maniobra en la vía n.º 6 del circuito Staříč, que debía ser frenada por el freno automático de vacío continuo, conectó las acoples de la tubería principal, abriendo únicamente la llave de acople en el extremo del 1.º TDV. Dejó cerrada la llave de acople en el extremo interior del HDV;
+el maquinista, tras el descuelgue y la conexión del HDV con el TDV de la maniobra, no vigiló en los manómetros del HDV los valores de presión del aire en el depósito principal y la tubería principal, y con ello no detectó la no conexión de la tubería principal del HDV con la tubería principal del TDV y el no llenado del freno del TDV de la maniobra.
 
 ## Página 50
+
 
 Lo anterior tuvo como consecuencia la no carga del freno (del dispositivo de freno) del TDV del conjunto de maniobras con aire comprimido.
 El transportista AWT, a. s., en relación con lo dispuesto en el art. 112 de la norma interna OKD, Doprava Dp1, los arts. 24, 25 y 296 de la norma interna OKD, Doprava Dp2 y el art. 9.7, Parte I, del Anexo 1 de la disposición n.º 173/1995 Sb., en el sentido del § 35 ap. 1 ap. a) de la Ley n.º 266/1994 Sb., no realizó el transporte ferroviario de acuerdo con las reglas de explotación del transporte ferroviario y la licencia vigente, en el sentido de que, tras la puesta en marcha del conjunto de maniobras en el carril n.º 6 del ámbito Staříč, por la instrucción del jefe de maniobras "Staříč en el carril n.º 6, tira", en virtud de la cual debía realizarse un movimiento corto del DV del conjunto de maniobras, el maquinista continuó con el conjunto de maniobras la marcha desde el carril n.º 6 del ámbito Staříč hacia la cabecera de salida del ámbito Staříč y, a continuación, hacia el carril de enlace n.º 90 del ámbito principal vs. Paskov. Aunque las disposiciones legales, los procedimientos tecnológicos del explotador de la vía ni los procedimientos tecnológicos unificados del transportista especifican una distancia concreta ni aproximada para la expresión "movimiento corto" en las maniobras, en este caso concreto es evidente que no puede considerarse "movimiento corto" la marcha del conjunto de maniobras entre los distintos ámbitos de los apartaderos Paskov.
@@ -1554,6 +1505,7 @@ El transportista AWT, a. s., en relación con lo dispuesto en los arts. 24, 25 y
 El transportista AWT, a. s., en relación con lo dispuesto en el art. 112 de la norma interna OKD, Doprava Dp1, los arts. 24, 25, 284, 296, 299 ap. f) y 301 de la norma interna OKD, Doprava Dp2, los arts. 331, 332 y 334 de la norma interna OKD, Doprava Vp15 y el art. 55 del Reglamento de explotación del ámbito Staříč, en el sentido del § 35 ap. 1 ap. a) y g) de la Ley n.º 266/1994 Sb., no realizó el transporte ferroviario de acuerdo con las reglas de explotación del transporte ferroviario y la licencia vigente y, en la realización del transporte ferroviario, no se atuvo a las instrucciones del explotador de la vía impartidas en la organización del transporte ferroviario, en el sentido de que el maquinista, tras la puesta en marcha del conjunto de maniobras a las 16.11.23 h, en el carril n.º 6 del ámbito Staříč, por la instrucción del jefe de maniobras "Staříč en el carril n.º 6, tira", no realizó con el conjunto de maniobras un movimiento corto en la dirección indicada. Aunque las disposiciones legales, los procedimientos tecnológicos del explotador de la vía ni los procedimientos tecnológicos unificados del transportista especifican una distancia concreta ni aproximada para la expresión "movimiento corto", en este
 
 ## Página 51
+
 
 En el caso concreto, es evidente que el «movimiento corto» no puede considerarse la maniobra de la composición de maniobras entre los distintos circuitos de la Vlečka Paskov. El maquinista con la composición de maniobras continuó en una nueva marcha desde la vía n.º 6 del circuito Staříč, a través de la aguja de salida del circuito Staříč, hasta la vía de enlace n.º 90 del circuito principal vs. Paskov, sin haber recibido del jefe de maniobras instrucción para un nuevo movimiento (marcha), ni haberle sido comunicado el punto hasta el que le estaba permitido maniobrar, y antes de la marcha de la composición de maniobras hacia el circuito principal vs. Paskov se realizó la prueba de freno de la composición de maniobras. Como no recibió ninguna otra instrucción del jefe de maniobras, el maquinista debió suponer que se había producido una pérdida de comunicación entre el jefe de maniobras y él, llevada a cabo mediante RDST, y la composición de maniobras debió detenerse aún en el circuito Staříč.
 Lo anterior tuvo como consecuencia que a las 16.12.50 h, tras recorrer una distancia de 145 m desde la puesta en movimiento de la composición de maniobras, a una velocidad de 10 km·h-1, esta entrara indebidamente, sin el consentimiento del jefe de estación del circuito principal vs. Paskov, en la vía de enlace n.º 90 del circuito principal vs. Paskov – se produjo el MU. Hasta ese momento (durante la marcha por el circuito Staříč), el maquinista no había ajustado la velocidad de marcha de la composición de maniobras ni mediante el mando del freno de inmediato DAKO-BP ni mediante el mando del freno automático de aire DAKO-BS2. En ese momento aún no sabía que el freno automático de aire continuo TDV de la composición de maniobras no funcionaba. Tras recorrer 269 m desde la puesta en movimiento de la composición de maniobras, la HDV entró en la vía de enlace n.º 90 del circuito principal vs. Paskov con una marcha insegura (descontrolada) de la composición de maniobras, más allá del límite del inicio de la pendiente longitudinal del 11,4 ‰, desde donde ya no era posible detener la composición de maniobras mediante la acción del freno de la HDV. La velocidad de marcha de la composición de maniobras comenzó entonces a aumentar de forma descontrolada hasta el valor registrado de 71,5 km·h-1.
@@ -1564,24 +1516,25 @@ La DI no tiene observaciones sobre la actuación de los servicios del IZS que in
 
 ## 4.3
 ### Conclusiones
-4.3.1 Causas inmediatas del suceso excepcional, incluidos los factores que contribuyeron al mismo y que estuvieron relacionados con la actuación de las personas implicadas o con el estado del material rodante o de las instalaciones técnicas
-La causa inmediata del MU fue:
-• no finalizar la marcha de la composición de maniobras (no detenerla) en el circuito Staříč de la Vlečka Paskov;
-• no realizar la prueba de freno de la composición de maniobras antes de su marcha desde el circuito Staříč hasta la vía de enlace n.º 90 del circuito principal vs. Paskov de la Vlečka Paskov.
+4.3.1 Causas inmediatas del suceso ferroviario, incluidos los factores que contribuyeron al mismo y que estuvieron relacionados con la actuación de las personas implicadas o con el estado de los vehículos ferroviarios o de las instalaciones técnicas
+La causa inmediata del SU fue:
+• la no finalización de la maniobra de la formación de maniobras (su no detención) en el ámbito Staříč Vlečky Paskov;
+• la no realización de la prueba de freno de la formación de maniobras antes de su circulación desde el ámbito Staříč hasta la vía de enlace n.º 90 del ámbito principal vs. Paskov Vlečky Paskov. 
 ### 4.3.2 Causas fundamentales relacionadas con la cualificación, los procedimientos y el mantenimiento
-La causa fundamental del MU fue:
-• la no conexión de la tubería del freno automático de aire continuo entre la HDV y el 1.º TDV de la composición de maniobras (no apertura de la llave de acoplamiento en el extremo interior de la HDV);
-• la no detección de la no conexión de la tubería del freno automático de aire continuo entre la HDV y los TDV de la composición de maniobras, al no vigilar los valores de presión del aire en el depósito principal de aire y en la tubería del freno automático de aire continuo en los manómetros de la HDV.
-### 4.3.3 Causas debidas al marco normativo y al uso del sistema de aseguramiento de la seguridad
-No se detectó ninguna causa del MU debida al marco normativo y al uso del sistema de aseguramiento de la seguridad.
+La causa fundamental del SU fue:
+• la no conexión de la tubería del freno automático de vacío continuo entre la HDV y la 1.ª TDV de la formación de maniobras (la no apertura de la llave de acoplamiento en el frontal interior de la HDV);
+• la no detección de la no conexión de la tubería del freno automático de vacío continuo entre la HDV y la TDV de la formación de maniobras por no seguir los valores de presión del aire en el depósito principal de aire y en la tubería del freno automático de vacío continuo en los manómetros de la HDV.
+### 4.3.3 Causas derivadas del marco normativo y del uso del sistema de garantía de la seguridad
+No se ha detectado ninguna causa del SU derivada del marco normativo y del uso del sistema de garantía de la seguridad.
 ## 4.4
 ### Hallazgos complementarios
-### 4.4.1 Deficiencias y omisiones detectadas durante la investigación de las causas y circunstancias de la producción del suceso excepcional, que sin embargo no son relevantes para las conclusiones sobre las causas
-El explotador de la infraestructura y el transportista AWT, a. s.:
-• en relación con los arts. 13 y 33 y el anexo n.º 1 de la norma interna Sp1, el § 26 apartado 1 del decreto n.º 177/1995 Sb. y el § 2 apartado 3 del decreto n.º 173/1995 Sb., en el sentido del § 22 apartado 1 letra a) de la ley n.º 266/1994 Sb., no explotó la infraestructura para las necesidades del tráfico ferroviario fluido y seguro de acuerdo con las reglas de explotación de la infraestructura y la autorización administrativa, al no cumplir, durante la realización de las mediciones GPK de la vía de enlace n.º 90 con registro continuo, el intervalo de tiempo de 12 meses establecido en el anexo n.º 1 de la norma interna Sp1, ya que estas mediciones las realizó antes de la producción del MU los días 23. 10. 2013 y 19. 12. 2014;
-• en relación con los arts. 44, 45 y 46 de la norma interna Sp1, el § 25 apartado 2 del decreto n.º 177/1995 Sb. y el § 2 apartado 3 del decreto n.º 173/1995 Sb., en el sentido del § 22 apartado 1 letra a) de la ley n.º 266/1994 Sb., no explotó la infraestructura para las necesidades del tráfico ferroviario fluido y seguro de acuerdo con las reglas de explotación de la infraestructura y la autorización administrativa, al no cumplir durante
+### 4.4.1 Deficiencias y omisiones detectadas durante la investigación de las causas y circunstancias del suceso ferroviario, que sin embargo no son relevantes para las conclusiones sobre las causas
+El gestor de la vía y el transportista AWT, a. s.:
+• en relación con los arts. 13 y 33 y el anexo n.º 1 de la norma interna Sp1, el § 26 apartado 1 del decreto n.º 177/1995 Sb. y el § 2 apartado 3 del decreto n.º 173/1995 Sb., en el sentido del § 22 apartado 1 letra a) de la ley n.º 266/1994 Sb., no explotó la vía para los fines del tráfico ferroviario fluido y seguro de acuerdo con las reglas de explotación de la vía y la autorización administrativa, al no respetar, durante la realización de la medición GPK de la vía de enlace n.º 90 con registro continuo, el intervalo de tiempo de 12 meses establecido en el anexo n.º 1 de la norma interna Sp1, ya que dichas mediciones las realizó antes del SU los días 23. 10. 2013 y 19. 12. 2014;
+• en relación con los arts. 44, 45 y 46 de la norma interna Sp1, el § 25 apartado 2 del decreto n.º 177/1995 Sb. y el § 2 apartado 3 del decreto n.º 173/1995 Sb., en el sentido del § 22 apartado 1 letra a) de la ley n.º 266/1994 Sb., no explotó la vía para los fines del tráfico ferroviario fluido y seguro de acuerdo con las reglas de explotación de la vía y la autorización administrativa, al no respetar, durante la realización de
 
 ## Página 53
+
 
 las inspecciones y mediciones de agujas en el circuito Staříč y en el circuito principal vs. Paskov, al detectar en las agujas n.º 2, 8, P1, 51 y 44ab la superación de las desviaciones operativas en grado IL y de las desviaciones operativas límite en grado IAL. Sus hallazgos los indicó y evaluó en los documentos «VÝHYBKOVÝ LIST», pero, con excepción de la aguja n.º 8 del circuito Staříč, no los indicó en los documentos establecidos – Libro n.º 3 circuito Staříč y vía de enlace n.º 90 y Libro n.º 3 circuito principal vs. Paskov –, ni fijó plazos para la eliminación de las deficiencias detectadas, y las deficiencias detectadas no fueron eliminadas;
 • en relación con los arts. 44, 45 y 46 de la norma interna Sp1, el § 25 apartado 2 del decreto n.º 177/1995 Sb. y el § 2 apartado 3 del decreto n.º 173/1995 Sb., en el sentido del § 22 apartado 1 letra a) de la ley n.º 266/1994 Sb., no explotó la infraestructura para las necesidades del tráfico ferroviario fluido y seguro de acuerdo con las reglas de explotación de la infraestructura y la autorización administrativa, al no registrar (no anotar) en los documentos «VÝHYBKOVÝ LIST», durante la realización de las mediciones de agujas en el circuito Staříč y en el circuito principal vs. Paskov en las agujas n.º 2, 8, P1, 51, 47 y 44ab, las magnitudes GPK medidas en las curvas adyacentes a las agujas, y al no comprobar si las GPK en dichas curvas cumplen los requisitos establecidos en la norma ČSN 73 6360-2/Z1;
@@ -1594,21 +1547,24 @@ El explotador de la infraestructura y el transportista AWT, a. s., publicó tras
 
 ## Página 54
 
-• se publicó un nuevo «Reglamento de Explotación del circuito Staříč», aprobado el 17. 6. 2015, con efectos desde el 22. 6. 2015, mediante el cual se amplían y concretan los procedimientos de realización de maniobras, de ejecución de la prueba de freno de la composición de maniobras (en base a la prueba de freno realizada se impone al jefe de maniobras la obligación de elaborar un informe de frenado y de entregárselo de forma verificable al maquinista) y se introducen nuevos elementos de control (sistema de cámaras, registro electrónico de la llave EMZ SZZ del circuito Staříč).
+se emitió el nuevo "Reglamento de explotación del distrito de Staříč", aprobado el 17. 6. 2015, con efectos a partir del
+•
+22. 6. 2015, mediante el cual se amplían y concretan los procedimientos de realización de maniobras, la realización de la prueba de freno de la unidad de maniobras (en función de la prueba de freno realizada, se impone al jefe de maniobras la obligación de elaborar un informe de frenado y de entregarlo de forma acreditada al maquinista) y se introducen nuevos elementos de control (sistema de cámaras, registro electrónico de la clave EMZ SZZ del distrito de Staříč).
 ### 6 RECOMENDACIONES DE SEGURIDAD
-La Inspección Ferroviaria, como autoridad administrativa competente en la materia según la disposición del § 53b apartado 5 de la ley n.º 266/1994 Sb., de ferrocarriles, en su redacción vigente, en base al resultado de la investigación de las causas y circunstancias de la producción del suceso excepcional, recomienda al explotador de la infraestructura y al transportista Advanced World Transport, a. s.:
-• establecer, mediante el contenido de los procedimientos tecnológicos uniformes para la explotación del transporte ferroviario en vías privadas, la responsabilidad de los directivos y empleados en el aseguramiento del control del cumplimiento de las reglas de explotación del transporte ferroviario, incluidos los procedimientos y la frecuencia de los controles realizados, para asegurar el cumplimiento de las normas técnicas y operativas existentes, nuevas o modificadas u otras condiciones vinculantes contenidas en la legislación nacional, en las normas internas del transportista y en las resoluciones de los órganos de la administración del Estado;
-• establecer, mediante el contenido de los procedimientos tecnológicos uniformes para la explotación del transporte ferroviario en vías privadas, la responsabilidad del maquinista, tras acceder a la DV de la composición de maniobras que deba ser frenada con el freno automático de aire continuo, de comprobar visualmente el correcto enganche y conexión de la HDV con la 1.ª DV de la composición de maniobras. No se aplica a los casos en que el enganche y la conexión de la HDV con la 1.ª DV de la composición de maniobras los realiza el propio maquinista.
-De conformidad con la disposición del § 53b apartado 5 de la ley n.º 266/1994 Sb., de ferrocarriles, en su redacción vigente, o del anexo n.º 7 al decreto n.º 376/2006 Sb., sobre el sistema de seguridad de la explotación de la infraestructura y del transporte ferroviario y los procedimientos ante la producción de sucesos excepcionales en las infraestructuras, en su redacción vigente, la Inspección Ferroviaria recomienda a la Autoridad Ferroviaria la adopción de una medida propia encaminada a asegurar la realización de las recomendaciones de seguridad anteriores también en otros transportistas en las infraestructuras ferroviarias de la categoría vía privada, en la República Checa.
+La Inspección Ferroviaria, como autoridad administrativa competente en la materia según lo dispuesto en el apartado 5 del artículo 53b de la Ley núm. 266/1994 Sb., de ferrocarriles, en su redacción vigente, con base en el resultado de la investigación de las causas y circunstancias del suceso ferroviario, recomienda al explotador de la infraestructura y al transportista Advanced World Transport, a. s.:
+establecer, en el contenido de los procedimientos tecnológicos uniformes para la explotación del transporte ferroviario en vías privadas, la responsabilidad de los directivos y empleados en materia de garantizar el control del cumplimiento de las normas de explotación del transporte ferroviario, incluidos los procedimientos y la frecuencia de los controles realizados, para garantizar el cumplimiento de las normas técnicas y de explotación existentes, nuevas y modificadas, así como de otras condiciones vinculantes contenidas en la legislación nacional, en las normas internas del transportista y en las resoluciones de las autoridades de la administración pública;
+establecer, en el contenido de los procedimientos tecnológicos uniformes para la explotación del transporte ferroviario en vías privadas, la responsabilidad del maquinista, tras acoplarse a la DV de la unidad de maniobras, que debe ser frenada mediante el freno automático continuo por aire, de comprobar visualmente el correcto enganche y conexión de la HDV con la 1.ª DV de la unidad de maniobras. No se aplica a los casos en que el enganche y la conexión de la HDV con la 1.ª DV de la unidad de maniobras los realiza el propio maquinista.
+De conformidad con lo dispuesto en el apartado 5 del artículo 53b de la Ley núm. 266/1994 Sb., de ferrocarriles, en su redacción vigente, o con el anexo núm. 7 del decreto núm. 376/2006 Sb., sobre el sistema de seguridad de la explotación de la infraestructura y del transporte ferroviario y los procedimientos en caso de sucesos ferroviarios en las vías, en su redacción vigente, la Inspección Ferroviaria recomienda a la Autoridad Ferroviaria la adopción de una medida propia encaminada a garantizar la realización de las recomendaciones de seguridad anteriores también en otros transportistas en las vías ferroviarias, categoría vía privada, en la República Checa.
 En Ostrava, a 16. 9. 2015
 Ing. Petr Maikranz v. r.
 Ing. Vladimír Handl v. r.
 director
 inspector principal
-Delegación Territorial de Ostrava
-Delegación Territorial de Ostrava
+De la Inspección Territorial de Ostrava
+De la Inspección Territorial de Ostrava
 
 ## Página 55
+
 
 ### 7 ANEXOS
 Fig. n.º 4: Límite entre el circuito Staříč y el circuito principal vs. Paskov – aguja n.º S2.
@@ -1617,6 +1573,7 @@ Fig. n.º 5: Vista del punto «0».
         Fuente: Inspección Ferroviaria
 
 ## Página 56
+
 
 Fig. n.º 6: Vista del circuito principal vs. Paskov tras el MU.
         Fuente: Inspección Ferroviaria

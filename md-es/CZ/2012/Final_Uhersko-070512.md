@@ -10,13 +10,14 @@ chars: 56627
 ratio_longitud: 1.23
 tokens_in: 29370
 tokens_out: 21013
-verificacion: revisar
-notas_cifras: ["bloque 1: original bilingüe: se compara contra el idioma principal (EN)", "bloque 4: original bilingüe: se compara contra el idioma principal (CS)"]
-avisos: ["bloque 4: ratio 1.65"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 5: original bilingüe: se compara contra el idioma principal (EN)", "página 6: original bilingüe: se compara contra el idioma principal (PT)", "página 7: original bilingüe: se compara contra el idioma principal (CS)", "página 10: original bilingüe: se compara contra el idioma principal (CS)", "página 15: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 Inspección Ferroviaria
 República Checa
@@ -41,11 +42,12 @@ IČ:   75009561
 http://www.dicr.cz
 tel.: 224 805 444
 
-
 ## Página 2
 
 
+
 ## Página 3
+
 
 # RESUMEN
 Grado:
@@ -75,8 +77,8 @@ Causa subyacente: ninguna.
 Causa raíz:
 ninguna.
 
-
 ## Página 4
+
 
 Recomendaciones:
 1) Dirigidas al gestor de infraestructura Správa železniční dopravní cesty, s. o.:
@@ -101,8 +103,8 @@ a todos los titulares del permiso en la formación de competencia profesional.
 •
 El presente informe final es público y todos los documentos y hechos quedan respaldados por el expediente de investigación.
 
-
 ## Página 5
+
 
 # Índice
  Resumen .............................................................................................................................3
@@ -142,10 +144,10 @@ medio ambiente ....15
 3.1 Resumen de las declaraciones prestadas (sujeto a protección de la identidad de las
 personas) ................................15
 3.1.1 Empleados del gestor de la infraestructura y del transportista, incluidas las personas
-en relación contractual 
-
+en relación contractual
 
 ## Página 6
+
 
  ...............................................................................................................15
 3.1.2 Otras personas .........................................................................................................16
@@ -189,8 +191,8 @@ punto 3
 ............................................................................................................................21
 4.2 Examen ......................................................................................................................22
 
-
 ## Página 7
+
 
 4.2.1 Evaluación de los hechos constatados según el punto 3 y exposición de las
 conclusiones sobre la causa del suceso ferroviario y la actuación de los servicios de
@@ -216,17 +218,19 @@ ferroviario ....................................................................
  Fig. n.º 4: Vista de una parte del automóvil bajo el tren ...................................26
  Fig. n.º 5: Vista del paso a nivel desde el lado de llegada del conductor del automóvil .......................26
 
-
 ## Página 8
 
+
+
 ## Página 9
+
 
 ## Lista de abreviaturas y símbolos utilizados
 |  | Lista de abreviaturas y símbolos utilizados |
 | COP ČD ČNB DI DÚ DKV DV EC GPS HDV IZS MU OA PČR PP PZ PZS RZZ SZZ SŽDC TDV VI ŽP ŽSSK žst . | Centro de notificación central de České dráhy, a. s. Banco Nacional Checo Inspección Ferroviaria Oficina Ferroviaria Depósito de material rodante material rodante material rodante, EuroCity tren de categoría superior, Global Positioning System (Sistema de Posicionamiento Global) locomotora de tracción sistema integrado de emergencia suceso extraordinario automóvil Policía de la República Checa Estación de operaciones Certificado de aptitud cruce ferroviario protegido con señalización luminosa Instalación de enclavamiento de relés Instalación de enclavamiento de estación Administración de la Infraestructura del Transporte Ferroviario, organización estatal, material rodante remolcado inspector principal cruce ferroviario Železničná spoločnosť Slovensko, a. s., . . estación de ferrocarril |
 
-
 ## Página 10
+
 
 ## 1 RESUMEN
 Clasificación del suceso:
@@ -277,8 +281,8 @@ todos los solicitantes del permiso de conducir;
 todos los titulares del permiso de conducir en la formación sobre competencia profesional.
 ◦
 
-
 ## Página 11
+
 
 ## 2 DATOS RELATIVOS AL SUCESO EXTRAORDINARIO
 ## 2.1
@@ -295,10 +299,10 @@ que permite el cruce a nivel de la línea ferroviaria con una vía local de clas
 señalizado con cruces de aviso para cruces ferroviarios de varias vías y protegido con una instalación de enclavamiento de cruce tipo AŽD 71, PZS 3ZBI con barreras semiautomáticas y señalización positiva conectada a la instalación de enclavamiento de la est. Uhersko. 
 En el ŽP quedó atrapado el automóvil Škoda 105L, que no pudo ser retirado fuera del ŽP a pesar de los repetidos intentos. Tras activarse la señalización de aviso del ŽP, el acompañante corrió a la 
 oficina de tráfico para informar al personal de circulación de que detuvieran la circulación en la línea, pero no llegó a tiempo. El conductor, que permaneció en el lugar e intentaba empujar el automóvil, oyó llegar el tren y agitó la mano al maquinista para advertirle de que en el ŽP había un automóvil.  
-El tren EC 170 se aproximaba al ŽP en el pk 286,369 a una velocidad de 159 km.h-1 y, tras pasar la curva a la derecha, el maquinista divisó en el ámbito del ŽP un automóvil y un hombre agitando la mano. Según el registro 
-
+El tren EC 170 se aproximaba al ŽP en el pk 286,369 a una velocidad de 159 km.h-1 y, tras pasar la curva a la derecha, el maquinista divisó en el ámbito del ŽP un automóvil y un hombre agitando la mano. Según el registro
 
 ## Página 12
+
 
 del velocímetro de la locomotora, el maquinista en el intervalo 15:14:08 – 15:14:10 horas utilizó la 
 bocina de la locomotora, a las 15:14:11 horas aplicó el frenado de acción rápida. La colisión del tren ya no podía evitarse debido a la muy corta distancia. El frontal de la locomotora impactó en el flanco izquierdo del automóvil, que fue destrozado y arrastrado por la 2ª vía de estación bajo la locomotora hasta el punto de parada del tren; parte del automóvil fue dispersada por los alrededores. A continuación se produjo la ignición del automóvil situado bajo la parte delantera de la locomotora y, posteriormente, un incendio en la locomotora. El frontal del tren se detuvo en el pk 287,041, es decir, a 672 m del punto de producción del SE. El maquinista del tren EC 170 informó inmediatamente por teléfono móvil de la producción del SE al jefe de maniobras de la estación de operaciones Břeclav y el personal de acompañamiento del tren activó el IZS. 
@@ -309,8 +313,8 @@ El SE fue notificado al COP DI Praga el día 7. 5. 2012 a las 15:37 horas. Dadas
 § 53b apart. 1 de la ley n.º 266/1994 Sb., de ferrocarriles, en su redacción vigente (en adelante también ley 
 n.º 266/1994 Sb.). La investigación de las causas y circunstancias de la producción del SE fue encomendada a la Inspección Territorial de Brno.
 
-
 ## Página 13
+
 
 ## 2.2
 ### Circunstancias del suceso extraordinario
@@ -349,8 +353,8 @@ teléfono móvil, utilizado por el maquinista del tren EC 170, que notificó la 
 •
 al jefe de maniobras del DKV Brno, PP Břeclav;
 
-
 ## Página 14
+
 
 teléfono móvil, utilizado por el jefe del personal de acompañamiento del tren EC 170, con el que llamó 
 •
@@ -390,8 +394,8 @@ incluidas personas en relación contractual
 en el SE nadie resultó lesionado ni fallecido.
 •
 
-
 ## Página 15
+
 
 ### 2.3.2 En los objetos transportados, equipajes y demás bienes
 Como consecuencia del SE fue destruido el automóvil Škoda 105L. El daño fue estimado por la PČR en 
@@ -440,6 +444,7 @@ jefe de estación, empleado de SŽDC – del Acta con el empleado se desprende, 
 •
 
 ## Página 16
+
 
 estableció la vía de tren para el paso del tren EC 170;
 ◦
@@ -526,8 +531,8 @@ necesidad de llamar al número de emergencias.
 El explotador ferroviario tiene implantado un sistema de seguridad de explotación
 ferroviaria y ha emitido, entre otros,
 
-
 ## Página 17
+
 
 reglamentos internos de explotación ferroviaria, cuya parte integrante son los
 procedimientos tecnológicos por los que se rigen las actividades de aseguramiento de la
@@ -577,8 +582,8 @@ El explotador de la vía ferroviaria de ámbito nacional, línea 501A Česká T�
 Libeň, era la Administración de la Infraestructura Ferroviaria, organización estatal, con
 domicilio en Dlážděná 1003/7, Praha 1
 
-
 ## Página 18
+
 
 – Nové Město, CP 110 00, en virtud de la Autorización Administrativa emitida por la
 Autoridad Ferroviaria el 29. 5. 2008, con ref. núm.: 3-4277/07-DÚ/Le-DÚ/O-Sl (n.º de
@@ -626,8 +631,8 @@ validez fue prorrogada por tiempo indefinido en virtud del acta con ref. núm.:
 186/2011/UTZ/Va, de fecha 10. 5. 2011. Los elementos de control de dicho PZZ se
 encuentran en el panel de control del SZZ Uhersko, que contaba con un
 
-
 ## Página 19
+
 
 «Carné de aptitud de la instalación técnica designada» válido, n.º de ev. PZ 8401/96-E.45,
 emitido por la Autoridad Ferroviaria en Praga el 29. 11. 1996, cuya validez fue prorrogada
@@ -687,24 +692,24 @@ constató:
 
 ## Página 20
 
-El tren EC 170 se aproximaba al lugar de origen de la MU a una velocidad de 159 km.h-1. Antes del lugar de origen de la MU, en el tiempo de 15:14:08 horas hasta 15:14:10 horas, se registró el uso de la bocina de la locomotora. A las 15:14:10 horas se produjo la desconexión del interruptor principal de corriente continua. A las 15:14:11 horas, a una velocidad de 159 km.h-1, se produjo una fuerte caída de presión en la tubería principal, que corresponde a la activación del frenado de acción rápida. El tren se detuvo desde una velocidad de 159 km.h-1 en una distancia de 772 metros (desde el inicio del frenado de acción rápido – desde la caída de presión en la tubería principal). La velocidad máxima permitida de 160 km.h-1 no fue superada. La circulación del tren EC 170 se realizó sin anomalías y no tuvo relación causal con el origen de la MU.
+El tren EC 170 se aproximaba al lugar de origen de la UE a una velocidad de 159 km.h-1. Antes del lugar de origen de la UE se registra, en el tiempo de 15:14:08 horas a 15:14:10 horas, el uso de la bocina de la locomotora. A las 15:14:10 horas se produjo la desconexión del interruptor principal de corriente continua. A las 15:14:11 horas, a una velocidad de 159 km.h-1, se produjo una fuerte caída de presión en la tubería principal, que corresponde a la activación de la frenada de acción rápida. El tren se detuvo desde una velocidad de 159 km.h-1 en una distancia de 772 metros (desde el inicio de la frenada de acción rápida – desde la caída de presión en la tubería principal). La velocidad máxima permitida de 160 km.h-1 no fue superada. La circulación del tren EC 170 se realizó sin anomalías y no guardaba relación causal con el origen de la UE.   
 ## 3.5
-### Documentación sobre el sistema operativo
-### 3.5.1 Medidas adoptadas por los empleados del gestor de la infraestructura y del transportista en lo que respecta al control, señalización y seguridad del transporte
-El maquinista del tren EC 170, circulando a una velocidad de 159 km.h-1, al circular por una curva a la derecha antes del PFE en el km 286,369, avistó el VU (vehículo) detenido en el PFE, inmediatamente dio repetidamente la señal sonora "Atención" con la bocina de la locomotora. A continuación, activó el frenado de acción rápida. Sin deficiencias.
-### 3.5.2 Intercambio de informes verbales en relación con el suceso excepcional, incluidos los registros del dispositivo de registro
-El primer informe demostrado en relación con la MU puede considerarse la notificación del origen de la MU por parte del maquinista del tren EC 170 mediante teléfono móvil al jefe de maniobras del puesto de operaciones de Břeclav. Esta comunicación no fue grabada.
-### 3.5.3 Medidas adoptadas para la protección y seguridad del lugar del suceso excepcional
-Las medidas de protección y seguridad del lugar de la MU fueron aseguradas por el maquinista del tren EC 170 hasta la llegada de la Policía ČR y de la persona autorizada del gestor de la infraestructura y del transportista. El lugar de la MU fue asegurado por el gestor de la infraestructura de conformidad con el decreto n.º 376/2006 Sb.
+### Documentación sobre el sistema de explotación
+### 3.5.1 Medidas adoptadas por los empleados del gestor de la vía y del transportista en materia de conducción, señalización y seguridad del tráfico
+El maquinista del tren EC 170, circulando a una velocidad de 159 km.h-1, al circular por una curva a la derecha antes de la ŽP en el km 286,369, avistó al OA de pie en la ŽP, e inmediatamente dio repetidamente la señal sonora «Atención» con la bocina de la locomotora. A continuación, activó la frenada de acción rápida. Sin deficiencias.
+### 3.5.2 Intercambio de comunicaciones verbales en relación con la incidencia, incluidas las pruebas procedentes del dispositivo de registro
+La primera comunicación acreditada en relación con la UE puede considerarse la notificación del origen de la UE realizada por el maquinista del tren EC 170 por teléfono móvil al jefe de máquinas del puesto de explotación de Břeclav. Esta comunicación no fue registrada.
+### 3.5.3 Medidas adoptadas para la protección y la seguridad del lugar de la incidencia
+Las medidas de protección y seguridad del lugar de la UE fueron garantizadas por el maquinista del tren EC 170 hasta la llegada de la Policía ČR y de la persona designada por el gestor de la vía y el transportista. El lugar de la UE fue asegurado por el gestor de la vía de conformidad con el decreto n.º 376/2006 Sb.
 ## 3.6
-### Condiciones laborales, de salud y operativas
-### 3.6.1 Jornada laboral de los empleados del gestor de la infraestructura y del transportista que participaron en el suceso
-• el jefe de estación de la estación Uhersko estaba en turno el día 7. 5. 2012 desde las 5:15 horas, tenía un descanso antes del turno de 48 horas;
-• el maquinista estaba en turno el día 7. 5. 2012 desde las 12:35 horas, tenía un descanso antes del turno de 28 horas y 10 minutos.
-El empleador garantizó las condiciones para el descanso antes del turno de conformidad con el § 90 de la ley n.º 262/2006 Sb., Código del Trabajo, en su versión vigente, o bien el § 14 apartado 2 del decreto gubernamental n.º 589/2006 Sb., que establece la regulación diferenciada de la jornada laboral y del tiempo de descanso de los empleados en el transporte.
-
+### Condiciones laborales, sanitarias y de explotación
+### 3.6.1 Jornada laboral de los empleados del gestor de la vía y del transportista que fueron participantes en el incidente
+• el jefe de estación de la estación Uhersko estaba en turno el día 7. 5. 2012 a partir de las 5:15 horas, con un descanso previo al turno de 48 horas;
+• el maquinista estaba en turno el día 7. 5. 2012 a partir de las 12:35 horas, con un descanso previo al turno de 28 horas y 10 minutos.
+El empleador garantizó las condiciones de descanso previo al turno de conformidad con el § 90 de la ley n.º 262/2006 Sb., Código del Trabajo, en su versión vigente, o bien el § 14 apartado 2 del decreto gubernamental n.º 589/2006 Sb., por el que se establece un régimen diferenciado de la jornada laboral y del tiempo de descanso de los empleados en el transporte.
 
 ## Página 21
+
 
 3.6.2 Estado de salud y situación personal que influyeron en el suceso excepcional, incluido el estrés físico o psicológico
 Todos los empleados implicados estaban, en el momento del origen de la MU, médicamente aptos para el desempeño de la función que ocupaban. La investigación no determinó que la situación personal o el estado psicológico de las personas implicadas en la MU hubieran influido en el origen de la MU.
@@ -724,43 +729,45 @@ El día 7. 5. 2012 a las 15:15 horas se produjo en la estación Uhersko un suces
 En el PFE quedó atascado un Škoda 105L, que no pudo ser retirado del PFE ni siquiera tras repetidos intentos. Tras la activación de la señalización de advertencia del PFE, el acompañante del conductor intentó informar a los empleados de circulación para que detuvieran la circulación en la línea, pero no llegó a tiempo.
 El maquinista del tren EC 170, al comprobar que en el PFE había un VU, dio repetidamente la señal sonora "Atención" con la bocina de la locomotora y activó el frenado de acción rápida. La colisión no pudo evitarse debido a la alta velocidad del tren EC 170 y a la corta distancia desde el VU.
 
-
 ## Página 22
 
-Tras el impacto, el VU fue atrapado y empujado por la 2.ª vía de estación bajo la locomotora hasta el lugar de su detención. Parte del VU fue despedazada por el impacto en los alrededores del PFE. La parte delantera del tren EC 170 se detuvo en el km 287,041 m, es decir, a 672 m del lugar de origen de la MU.
-En la MU no se produjeron daños personales, descarrilamientos ni fugas de sustancias ecológicamente peligrosas.
-Se produjo un incendio en la locomotora, que se encendió por el VU en llamas.
-El PFE en el km 286,369 estaba protegido por un dispositivo de seguridad de paso PZS 3ZBI con barreras, tipo AŽD 71 con señalización positiva, complementado con una placa con la inscripción "Atención tren" y señalizado con cruces de advertencia para paso a nivel de varias vías y con un sistema uniforme de señalización (P4897).
+Tras el impacto de la locomotora, el vehículo de carretera fue embestido y arrastrado por la 2ª vía de estación bajo la locomotora hasta el lugar de su detención. Parte del vehículo de carretera fue despedida por el impacto en las inmediaciones del paso a nivel. El frente del tren EC 170 se detuvo en el pk 287,041 m, es decir, a 672 m del lugar de origen del accidente ferroviario.
+En el accidente ferroviario no hubo daños personales, descarrilamiento ni fuga de sustancias ecológicamente peligrosas.
+Se produjo un incendio en la locomotora, que se encendió a partir del vehículo de carretera en llamas.
+El paso a nivel en el pk 286,369 estaba protegido por el dispositivo de enclavamiento de paso PZS 3BI con barreras, tipo AŽD 71 con señalización positiva, complementado con una placa con la inscripción „Pozor vlak“ (Atención tren) y señalizado con cruces de advertencia para paso a nivel de vías múltiples y con un sistema uniforme de señalización (P4897).
 ## 4.2
 ### Análisis
-### 4.2.1 Evaluación de los hechos establecidos según el punto 3 y exposición de conclusiones sobre la causa del suceso excepcional y la actuación de los servicios de emergencia
-El día 7. 5. 2012, el conductor del VU llegó con su acompañante al PFE P 4897 en la estación Uhersko, donde se detuvo antes de las barreras, que estaban bajadas y funcionaba la señalización luminosa encendida. Tras el paso del tren, las barreras se levantaron, se apagó la señalización luminosa y sonora, y él se puso en marcha como primer vehículo en el PFE. En el PFE, en el espacio de la segunda vía de estación, se produjo la detención y el atasco del VU, que no pudo ser retirado ni siquiera tras repetidos intentos. Durante el intento de empujar el VU fuera del PFE, comenzó a emitirse la alerta luminosa y sonora del dispositivo de seguridad ferroviaria, y por ello el conductor envió a su acompañante para que corriera a la oficina de circulación a advertir a los empleados de que era necesario detener la circulación en la línea debido al coche detenido en el paso a nivel. El conductor permaneció junto al VU detenido e intentó empujarlo de nuevo, pero sin éxito. Oyó llegar un tren y de repente lo vio salir de la curva. Agitó la mano al maquinista del tren EC 170 que se aproximaba para advertirle del obstáculo en el PFE. El maquinista observó en el PFE, en la vía de estación n.º 2, por la que circulaba, un VU detenido. Dio repetidamente la señal "Atención" y a continuación activó el frenado de acción rápida, pero la colisión ya no pudo evitarse debido a la alta velocidad del tren y a la corta distancia hasta el VU. Tras el impacto en el flanco izquierdo del VU, este sufrió su destrucción, parte fue atrapada bajo la locomotora y empujada por la 2.ª vía de estación hasta el lugar de detención. Como consecuencia del impacto, el VU, que se encontraba bajo la locomotora, se incendió, y del VU en llamas se encendió también la parte delantera de la locomotora.
-La jefa de estación salió a observar la circulación del tren, miró a la izquierda para ver si la señal de salida estaba encendida, y vio cómo la locomotora del tren EC 170 empujaba delante de sí algo que chispeaba y ardía. Corrió a la oficina de circulación y ordenó al inspector de estación que fuera inmediatamente a comprobar el PFE y averiguara qué había ocurrido realmente. A continuación, detuvo los demás trenes en circulación hacia la estación Uhersko a través de las jefas de estación vecinas.
-Por no retirar oportunamente el VU del PFE, a pesar de los intentos del conductor, el usuario de la vía terrestre incumplió el § 28 apartado 4 de la ley n.º 361/2000 Sb. y el § 6 apartado 3 de la ley n.º 266/1994 Sb.
-El conductor del VU, en la explicación presentada, indicó que no sabía nada del hecho de que el PFE estuviera marcado con un número de identificación para la necesidad de llamar al número de emergencia 112 en caso de que se produjera una situación peligrosa en el espacio del PFE.
-El PFE en el km 286,369 está, desde el punto de vista ferroviario y de la topología viaria, señalizado con el sistema uniforme de señalización P4897 (véase la parte 7 del Anexo, fig. n.º 3: Vista de la señalización del paso a nivel P4897),
-
+### 4.2.1 Evaluación de los hechos constatados de acuerdo con el punto 3 y exposición de las conclusiones sobre la causa del accidente ferroviario y la actuación de los servicios de emergencia
+El 7 de mayo de 2012, el conductor del vehículo de carretera, acompañado de un pasajero, llegó al paso a nivel P 4897 en la estación de Uhersko, donde se detuvo antes de las barreras, que estaban bajadas y en funcionamiento la señalización luminosa encendida. Tras el paso del tren, las barreras se levantaron, se apagó la señalización luminosa y sonora, y él se puso en marcha como primer vehículo en el paso a nivel. En el paso a nivel, en el espacio de la segunda vía de estación, se produjo la detención y el atasco del vehículo de carretera, que no se logró eliminar ni siquiera tras intentos repetidos. Durante el esfuerzo por empujar el vehículo de carretera fuera del paso a nivel, comenzó a emitirse la alerta luminosa y sonora del dispositivo de enclavamiento ferroviario, y por ello el conductor envió a su acompañante para que corriera a la oficina de tráfico a advertir al empleado de que era necesario detener el tráfico en la línea debido a un coche detenido en el paso a nivel. El conductor permaneció junto al vehículo de carretera detenido e intentó empujarlo de nuevo, pero sin resultado. Oyó llegar un tren y de repente lo vio salir de la curva. Agitó los brazos hacia el maquinista del tren EC 170 que se aproximaba para advertirle del obstáculo en el paso a nivel. El maquinista observó en el paso a nivel, en la vía de estación nº 2, por la que circulaba, un vehículo de carretera detenido. Dio repetidamente la señal „Pozor“ (Atención) y a continuación aplicó el frenado de acción rápida, pero ya no fue posible evitar la colisión debido a la alta velocidad del tren y a la corta distancia hasta el vehículo de carretera. Tras el impacto en el flanco izquierdo del vehículo de carretera, este sufrió su destrucción, parte fue atrapada bajo la locomotora y arrastrada por la 2ª vía de estación hasta el lugar de detención. Como consecuencia del impacto se produjo la ignición del vehículo de carretera, que se encontraba bajo la locomotora, y a partir del vehículo de carretera en llamas se encendió también la parte delantera de la locomotora.
+La jefa de estación salió a observar la circulación del tren, miró a la izquierda para comprobar si la señal de salida estaba encendida, y vio cómo la locomotora del tren EC 170 empujaba delante de sí algo que chispeaba y ardía. Entró corriendo en la oficina de tráfico y ordenó al inspector de estación que fuera inmediatamente a comprobar el paso a nivel y averiguara qué había ocurrido realmente. A continuación, detuvo los demás trenes en circulación hacia la estación de Uhersko a través de las jefas de estación vecinas.
+Por la no retirada oportuna del vehículo de carretera del paso a nivel, a pesar de que el conductor lo intentó, se produjo por parte del usuario de la vía pública el incumplimiento del § 28 apartado 4 de la Ley nº 361/2000 Sb., y del § 6 apartado 3 de la Ley nº 266/1994 Sb.
+El conductor del vehículo de carretera, en la explicación presentada, indicó que no sabía nada del hecho de que el paso a nivel estuviera señalizado con un número de identificación para la necesidad de llamar al número de emergencias 112 en caso de producirse una situación peligrosa en el espacio del paso a nivel.
+El paso a nivel en el pk 286,369 está señalizado, desde el punto de vista ferroviario y de la topología viaria, con el sistema uniforme de señalización P4897 (véase la parte 7 del Anexo, figura nº 3: Vista de la señalización del paso a nivel P4897),
 
 ## Página 23
 
-que sirve para la identificación inequívoca e inconfundible del PFE tanto para los gestores de las infraestructuras ferroviarias y los transportistas, como también para los usuarios del tráfico por carretera y los servicios de emergencia (IZS). Esta señalización se utiliza para informar de posibles interrupciones o amenazas a la continuidad y seguridad del transporte ferroviario en el espacio del PFE. El conductor del VU, en su declaración, indicó que no conoce la existencia del sistema uniforme de señalización de PFE, ni cómo utilizarlo. A pesar de que esta señalización se introdujo ya el 1. 8. 2009 y que su uso repetido contribuyó a evitar el origen de MU, los usuarios de las vías terrestres no fueron oficialmente informados sobre el sistema de señalización de PFE. Y de ello se deduce que algunos usuarios de las vías terrestres no saben cómo actuar en caso de situaciones problemáticas similares en el PFE.
-Por ello es necesario, con el fin de aumentar la seguridad del transporte ferroviario y por carretera, incorporar a la normativa relativa al tráfico en las vías terrestres la obligación de informar a los conductores y al público sobre este sistema de señalización de PFE y su uso, así como garantizar, mediante campañas en medios de comunicación, la información al público sobre estos hechos, a pesar de que la Inspección Ferroviaria, en cada ocasión, especialmente en los medios de comunicación, informa sobre el sistema de señalización de PFE.
+destinado a la identificación unívoca e inequívoca de la ZP tanto por parte de los gestores de la infraestructura y los transportistas, como también de los participantes en el tráfico por carretera y de los servicios del sistema de emergencia. Esta denominación se utiliza para comunicar información sobre posibles alteraciones o amenazas a la continuidad y la seguridad del transporte ferroviario en el espacio de la ZP. El conductor del vehículo de motor, en su declaración, indicó que no conoce la existencia de un sistema unificado de denominación de la ZP, ni cómo utilizarlo. Aunque esta denominación se introdujo ya el 1. 8. 2009 y su uso en repetidas ocasiones contribuyó a evitar la aparición de un MU, los usuarios de las vías de comunicación no fueron oficialmente informados del sistema de señalización de la ZP. Y de ello se deduce que algunos usuarios de las vías de comunicación no saben cómo actuar ante situaciones problemáticas similares en la ZP.
+Por ello es necesario, con el fin de aumentar la seguridad del transporte ferroviario y por carretera, incorporar en la normativa relativa al tráfico en las vías de comunicación la obligación de informar a los conductores y al público de este sistema de denominación de la ZP y de su uso, así como garantizar mediante campañas en medios de comunicación la información al público de estos hechos, a pesar de que la Inspección Ferroviaria, en cada ocasión, especialmente en los medios de comunicación, informa sobre el sistema de denominación de la ZP.
 ## 4.3
 ### Conclusiones
-4.3.1 Causas inmediatas del suceso excepcional, incluidos los factores que contribuyeron al mismo y que estuvieron relacionados con la actuación de las personas implicadas o con el estado de los vehículos ferroviarios o de los dispositivos técnicos
-La causa inmediata de la MU fue:
-• la no retirada oportuna del automóvil atascado del paso a nivel P4897 durante la circulación del tren EC 170.
+4.3.1 Causas inmediatas del suceso excepcional, incluidos los factores que contribuyeron al mismo y que estuvieron relacionados con la actuación de las personas implicadas o con el estado de los vehículos ferroviarios o de las instalaciones técnicas
+La causa inmediata del MU fue:
+la no retirada oportuna del automóvil particular atascado en el paso a nivel P4897
+•
+en el momento en que circulaba el tren EC 170.
 ### 4.3.2 Causas fundamentales relacionadas con la cualificación, los procedimientos y el mantenimiento
-• la no advertencia al gestor de la infraestructura sobre el obstáculo en el paso a nivel P4897 debido a la urgencia temporal y al desconocimiento de la función del sistema uniforme de señalización de pasos a nivel.
-### 4.3.3 Causas derivadas del marco normativo y del uso del sistema de garantía de seguridad
-La DI no detectó causas derivadas del marco normativo y del uso del sistema de garantía de seguridad.
+la no comunicación al gestor de la infraestructura de la obstrucción en el paso a nivel P4897
+•
+debido a la urgencia temporal y al desconocimiento de la función del sistema unificado de señalización de pasos a nivel.
+### 4.3.3 Causas derivadas del marco normativo y del uso del sistema de garantía de la seguridad
+La DI no detectó causas derivadas del marco normativo y del uso del sistema de garantía de la seguridad.
 ## 4.4
 ### Hallazgos complementarios
-### 4.4.1 Deficiencias y omisiones detectadas durante la investigación de las causas y circunstancias del origen del suceso excepcional, que sin embargo no son relevantes para las conclusiones sobre las causas
+### 4.4.1 Deficiencias y omisiones detectadas durante la investigación de las causas y circunstancias de la aparición del suceso excepcional, que sin embargo no son relevantes para las conclusiones sobre las causas
 La DI no detectó ninguna.
 
-
 ## Página 24
+
 
 ## 5 MEDIDAS ADOPTADAS
 ## 5.1
@@ -785,14 +792,14 @@ Director
 De la Inspección Territorial de Brno
 De la Inspección Territorial de Brno
 
-
 ## Página 25
+
 
 ## 7 ANEXOS
 Fig. n.º 3: Vista de la señalización del paso a nivel P4897
 
-
 ## Página 26
+
 
 Fig. n.º 4: Vista de la parte del automóvil bajo la locomotora
 Fig. n.º 5: Vista del PFE desde el lado de llegada del conductor del automóvil

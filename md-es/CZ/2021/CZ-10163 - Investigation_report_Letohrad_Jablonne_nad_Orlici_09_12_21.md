@@ -10,13 +10,14 @@ chars: 137976
 ratio_longitud: 1.25
 tokens_in: 63204
 tokens_out: 42892
-verificacion: revisar
-notas_cifras: ["bloque 1: original bilingüe: se compara contra el idioma principal (EN)", "bloque 2: original bilingüe: se compara contra el idioma principal (CS)", "bloque 7: original bilingüe: se compara contra el idioma principal (CS)", "bloque 8: cifras cortas: 1/143", "bloque 10: original bilingüe: se compara contra el idioma principal (CS)", "bloque 11: original bilingüe: se compara contra el idioma principal (EN)"]
-avisos: ["bloque 7: ratio 1.65"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 3: original bilingüe: se compara contra el idioma principal (PT)", "página 5: original bilingüe: se compara contra el idioma principal (CS)", "página 6: original bilingüe: se compara contra el idioma principal (CS)", "página 10: original bilingüe: se compara contra el idioma principal (CS)", "página 12: original bilingüe: se compara contra el idioma principal (PT); ratio 2.15"]
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -42,13 +43,13 @@ IČ: 75009561
 mail@dicr.cz
 tel.: +420 736 521 003
 
-
 ## Página 2
+
 
 Este informe final es público y todos los hechos en él expuestos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ### 1 RESUMEN
 Fuente: Drážní inspekce
@@ -76,8 +77,8 @@ No se ha detectado ningún factor contribuyente por parte de Drážní inspekce.
 No se ha detectado ninguna causa sistémica por parte de Drážní inspekce.
 No se ha emitido ninguna recomendación de seguridad por parte de Drážní inspekce.
 
-
 ## Página 4
+
 
 ### SUMMARY
 9th December 2021, 7:56 (6:56 GMT).
@@ -109,8 +110,8 @@ Contributing factor: none.
 Systemic factor: none.
 Recommendation: not issued.
 
-
 ## Página 5
+
 
 # Índice
 1 RESUMEN........................................................................................................................3
@@ -169,8 +170,8 @@ ferroviarios....................................................................
 4.2.1 Factores o consecuencias derivados del diseño de los vehículos ferroviarios,
 la infraestructura ferroviaria o las instalaciones técnicas........................................40
 
-
 ## Página 6
+
 
 4.2.2 Factores o consecuencias derivados de la instalación y puesta en servicio de los
 vehículos ferroviarios, la infraestructura ferroviaria o las instalaciones técnicas......40
@@ -214,6 +215,7 @@ conformidad.....................................................................
 ANEXOS..............................................................................................................................52
 
 ## Página 7
+
 
 ### Lista de siglas y símbolos utilizados
 BD
@@ -287,8 +289,8 @@ paso a nivel ferroviario
 žst.
 estación de ferrocarril
 
-
 ## Página 8
+
 
 ### Lista de siglas de la legislación, normas y normativa interna utilizados
 ley núm. 13/1997 Sb.
@@ -344,8 +346,8 @@ en el momento de la ocurrencia de la ocurrencia extraordinaria
 Instalaciones de seguridad de paso a nivel», en la redacción vigente
 en el momento de la ocurrencia de la ocurrencia extraordinaria
 
-
 ## Página 9
+
 
 ČSN 73 6380
 ČSN 73 6380 «Pasos a nivel y pasos peatonales ferroviarios», en la
@@ -359,8 +361,8 @@ Norma técnica ferroviaria «TNŽ 34 2620 Instalaciones de seguridad
 ferroviarias; Instalaciones de seguridad de estación y de línea», en la redacción vigente
 en el momento de la ocurrencia de la ocurrencia extraordinaria
 
-
 ## Página 10
+
 
 ### 2 INVESTIGACIÓN Y SUS RELACIONES
 ### 2.1 Decisión de iniciar la investigación
@@ -406,8 +408,8 @@ declaraciones de las personas participantes;
 •
 análisis de los datos registrados por el registrador de velocidad del HDV participante.
 
-
 ## Página 11
+
 
 ### 2.8 Descripción de las dificultades y problemas concretos surgidos durante la investigación
 Durante la investigación de la MU no surgieron dificultades ni problemas que influyeran en el
@@ -450,37 +452,23 @@ la perspectiva del maquinista comenzaba aproximadamente en el pk 97,171, lo que 
 Al ŽP se accede desde el sentido de circulación del NA desde una vía de servicio – una salida
 de una cantera en dirección derecha a la carretera de segunda clase núm. 311.
 
-
 ## Página 12
 
-## Lugar de la MU
-Fig. núm. 1: Esquema del lugar de la ocurrencia de la MU
-Fuente: mapy.cz, edición de la DI
-De la inspección del lugar de la MU se constató:
-La inspección se realizó en sentido contrario a la circulación del tren, desde el lugar del remolque
-volcado del NA, hasta la posición final del frente de la unidad de tren diésel de dos piezas
-tipo LINT 41, CZ – LET 95 54 5 846 280-6 (en adelante DV 846 280-6) en el pk 97,358,
-a través del ŽP P4073 en el pk 97,346, hasta el lugar del final de la parte trasera de la unidad
-de tren diésel CZ – LET 95 54 5 846 780-5 (en adelante DV 846 780-5) en el pk
-97,316. La posibilidad de medición y su precisión estuvieron limitadas durante la inspección
-por el tren detenido, el NA dañado y los vehículos diésel detenidos del HZS y otra maquinaria.
-Por ello, algunos parámetros del ŽP solo pudieron medirse en una inspección posterior.
+## Lugar del accidente
+Fig. n.º 1: Esquema del lugar de producción del accidente
+Fuente: mapy.cz, edición DI
+Del examen del lugar del accidente se constató lo siguiente:
+El examen se realizó en sentido contrario a la marcha del tren, desde el lugar del semirremolque volcado NA, pasando por la posición final de la cabeza de la unidad de tren diésel de dos piezas tipo LINT 41, CZ – LET 95 54 5 846 280-6 (en adelante DV 846 280-6) en el pk 97,358, por el PPF P4073 en el pk 97,346, hasta el lugar del final de la parte trasera de la unidad de tren diésel CZ – LET 95 54 5 846 780-5 (en adelante DV 846 780-5) en el pk 97,316. La posibilidad de medición y su precisión estuvieron limitadas durante el examen por el tren detenido, el NA dañado y los vehículos diésel de HZS y otra técnica detenidos. Por ello, algunos parámetros del PPF solo pudieron medirse en un examen posterior.
 Estado de la infraestructura:
 •
-El ŽP P4073 estaba protegido por una instalación de seguridad de paso a nivel de la
-categoría PZS 3ZBI del tipo PZZ-EA con dependencias completas, con barreras y señal
-positiva;
+El PPF P4073 estaba protegido por un dispositivo de enclavamiento de paso a nivel de categoría PZS 3ZBI tipo PZZ-EA con dependencias completas, con barreras y señal positiva;
 •
-los mástiles de los semáforos del PZZ estaban situados en ambos lados del paso a nivel
-en el lado derecho de la vía;
+los mástiles de las señales de aviso del PZZ estaban situados, en ambos lados del paso a nivel, en el lado derecho de la vía;
 •
-El ŽP estaba señalizado, desde el sentido de circulación de los vehículos diésel procedentes
-de Jablonné nad Orlicí (en sentido contrario a la circulación del NA), con una cruz de
-advertencia, situada en el semáforo a una distancia de 5 m del eje de la vía. En dicho
-semáforo estaba situada una placa con la advertencia «¡CUIDADO, TREN!»;
-
+El PPF estaba señalizado, en el sentido de marcha de los vehículos diésel desde Jablonné nad Orlicí (en sentido contrario a la marcha del NA), con una cruz de aviso, situada en el poste de señalización a una distancia de 5 m del eje de la vía. En dicho poste de señalización se encontraba situada una placa con el aviso «¡CUIDADO, TREN!»;
 
 ## Página 13
+
 
 •
 en el sentido de llegada del NA, el mástil de los semáforos fue arrancado como consecuencia
@@ -537,6 +525,7 @@ antes de la circulación del tren Os 7153;
 
 ## Página 14
 
+
 •
 en la colisión se produjo el descarrilamiento del primer bogie del DV 846 280-6 con ambos ejes.
 En la construcción del paso a nivel no se encontraron huellas de rodadura de ruedas en estado descarrilado, por lo que es evidente que, tras el impacto, la parte delantera del DV 846 280-6 fue levantada por el remolque hasta su detención y, a continuación, rebotó hacia atrás;
@@ -554,8 +543,8 @@ Descripción de la imagen:
 9 – parte del semáforo del PZZ
 10 – vía de servicio desde la cantera
 
-
 ## Página 15
+
 
 Fig. 3: Identificación de la señal de la ŽP                                                                       Fuente: DI
 Inspección del dispositivo de seguridad:
@@ -575,8 +564,8 @@ tras la colisión se produjo el descarrilamiento del primer bogie del DV 846 280
 •
 el impacto se produjo con el frontal de la unidad diésel del tren Os 7153 contra la parte central del remolque de la NA, que se volcó de lado y fue empujado aproximadamente en un ángulo de 90° hacia
 
-
 ## Página 16
+
 
 la vía hasta el lugar de su detención. Tras la detención, la distancia entre el extremo del tren y la parte más próxima del remolque fue de 1 m;
 •
@@ -617,51 +606,60 @@ el tractor era de la marca DAF FTG XF 105.510T;
 •
 el remolque SCHWARZMULLER estaba cargado con material excavado (tierra y árido);
 
-
 ## Página 17
 
 •
-se dañó especialmente todo el bogie del remolque, la parte trasera del tractor y el dispositivo de anclaje del remolque. El daño en la NA, según la declaración de la PČR, se estimó en 700 000 Kč (250 000 Kč en el tractor y 450 000 Kč en el remolque);
+el vehículo afectado fue principalmente todo el bogie del remolque, la parte trasera del tractocamión y el dispositivo de acoplamiento del remolque. El daño en el NA, según declaración de la PČR, se estimó en 700 000 Kč (250 000 Kč en el tractocamión y 450 000 Kč en el remolque);
 •
-tras la ocurrencia de la MU se produjo el derrame de la carga del remolque;
+tras la producción del MU se produjo el derramamiento de la carga del remolque;
 •
-según la información del jefe de intervención de los Bomberos (HZS), no se produjo una catástrofe ecológica.
-Inspección de la sala de operaciones en la estación de Lichkov:
-Se realizó la documentación de los elementos indicadores del dispositivo de seguridad del paso a nivel de la ŽP P4073 en el monitor JOP. A continuación, se realizó la documentación de partes seleccionadas de la documentación operativa básica de la estación de Lichkov, con énfasis en los registros realizados el día de la ocurrencia de la MU.
-Los inspectores de la DI realizaron en el lugar de la MU, en registros independientes, la declaración de personas:
+según declaración del jefe de intervención de los HZS, no se produjo ninguna catástrofe ecológica.
+
+Inspección de la oficina de tráfico en la estación de Lichkov:
+
+Se procedió a la documentación de los elementos indicadores del dispositivo de enclavamiento de paso a nivel ŽP P4073 en el monitor JOP. Posteriormente, se realizó la documentación de partes seleccionadas de la documentación de tráfico básica de la estación de Lichkov, con énfasis en la evidencia realizada el día de producción del MU.
+
+Los inspectores de DI en el lugar del MU realizaron, en registros independientes, la declaración de explicaciones con las personas:
 •
 maquinista del tren Os 7153;
 •
-testigo – conductor de la segunda NA que circulaba hacia la ŽP tras la primera NA implicada en la MU.
+testigo – conductor del segundo NA que circulaba hacia el ŽP tras el primer NA implicado en el MU.
+
 Condiciones meteorológicas:
 horario diurno, cielo cubierto, chubascos de nieve, -2 °C, visibilidad
 no reducida.
+
 Datos geográficos:
 terreno accidentado, curva izquierda de radio 300 m con sobreelevación
-124 mm, pendiente de la línea 8,72 ‰.
-En el lugar de la MU no se realizaron, inmediatamente antes de su ocurrencia, por parte del propietario, del gestor de la infraestructura ni de otros sujetos, trabajos de reparación o de mantenimiento. La circulación en el lugar de la MU y sus alrededores se desarrolló en régimen normal.
-### 3.1.4 Fallecidos, heridos y daños materiales
-En la MU se produjo:
+de 124 mm, pendiente de la vía de 8,72 ‰.
+
+En el lugar del MU no se realizaron, inmediatamente antes de su producción, por parte del propietario, del explotador de la vía ni de otros sujetos, ninguna obra de reparación o de mantenimiento. La circulación en el lugar del MU y sus alrededores se desarrolló en régimen habitual.
+
+### 3.1.4 Fallecimientos, lesiones y daños materiales
+
+En el MU se produjo:
 •
-lesión en el auxiliar de a bordo del tren Os 7153.
-El gestor de la infraestructura y el transportista cuantificaron el daño en:
+perjuicio para la salud del auxiliar de a bordo del tren Os 7153.
+
+El explotador de la vía y el transportista cuantificaron el daño en:
 •
 HDV (tren Os 7153)
 12 000 000 Kč;
 •
-instalaciones de la infraestructura
+dispositivos de la vía
      793 269 Kč.
 *)
-En la MU, el daño causado en los vehículos ferroviarios, en las partes de la infraestructura y en el medio ambiente
+En el MU, el daño causado en los vehículos ferroviarios, en los componentes de la vía y en el medio ambiente
 ### se cuantificó en un total de 12 793 296 Kč.
-*) El daño total en las instalaciones de la infraestructura se indica incluidos los costes de los trabajos de restablecimiento tras la ocurrencia de la MU, por importe de 85 079,68 Kč.
-En la MU se produjo daño en:
+*) el daño total en los dispositivos de la vía se indica incluyendo los costes de las obras de restablecimiento tras la producción del MU, por importe de 85 079,68 Kč.
+
+En el MU se produjo daño en:
 •
-camión de la marca DAF
+camión de marca DAF
      700 000 Kč.
 
-
 ## Página 18
+
 
 En la MU, el daño causado en los objetos transportados, el equipaje y otros bienes
 ### se cuantificó en un total de 700 000 Kč.
@@ -698,8 +696,8 @@ El transporte ferroviario se prestaba en virtud de un contrato celebrado entre e
 | Porcentaje de frenado real (%): | 125 |  |  |  |
 | Porcentaje de frenado ausente (%): | 0 |  |  |  |
 
-
 ## Página 19
+
 
 | Velocidad máxima permitida del tren |  | 80 |
 | en el lugar de la MU (km .h-1): |  |  |
@@ -744,17 +742,17 @@ Hasta la emisión del ZZ no se fijó la fecha de la inspección por comisión. L
 
 ## Página 20
 
-En la parte delantera del DV 846 280-6 se había colocado una cámara que grababa la circulación del tren Os 7153, pero no registraba la hora. Del análisis de la grabación se constató que el tren Os 7153 se aproximaba al PFC por una curva a la izquierda. Al salir de esta curva, en el campo de visión de la cámara puede distinguirse a una persona que, a una distancia de aproximadamente 20 m del PFC, hace señas al tren y a continuación corre hacia la derecha, fuera de la vía. Antes del paso a nivel, en la intersección con la carretera que sale de la cantera, se ve a la derecha un camión estacionado, y además se ve un camión estacionado justo enfrente del PFC y la barra de cierre apoyada en el camión. En la grabación es posible reconocer el destello intermitente de las luces rojas de los semáforos de aviso. A continuación se registra el impacto contra el remolque del camión y la posterior rotura del cristal a través del cual la cámara grababa el espacio situado delante del DV.
+En la parte delantera del DV 846 280-6 se encontraba instalada una cámara que grababa la circulación del tren Os 7153, pero no registraba la hora. Del análisis de la grabación se constató que el tren Os 7153 se aproximaba al PFC por una curva a la izquierda. Al salir de dicha curva, en el campo de visión de la cámara puede distinguirse a una persona que, a una distancia aproximada de 20 m del PFC, hace señas al tren y a continuación corre hacia la derecha fuera de la vía. Antes del paso a nivel, en la intersección con la carretera que conduce desde la cantera, se ve a la derecha un NA estacionado, y además se ve un NA situado justo enfrente del PFC y el travesaño de barrera apoyado en el NA. En la grabación es posible reconocer el destello intermitente de las luces rojas de los semáforos de aviso. A continuación se registra el impacto contra el remolque del NA y la posterior rotura del cristal a través del cual la cámara grababa el espacio situado delante del DV.
 ### 3.1.8 Descripción de las partes correspondientes de la infraestructura y del sistema de señalización
-La vía, en el sentido de circulación del tren, discurre antes del punto del MU por una curva a la izquierda de radio 300 m, en un terraplén y en un corte a la derecha hasta el PFC P4073. Se trata de una vía de una sola vía, electrificada, en el punto del MU con una velocidad máxima permitida de 80 km.h-1.
-El PFC P4073 en el km 97,346 es de una sola vía y constituye un cruce a nivel de la línea ferroviaria 512B Lichkov frontera – Ústí nad Orlicí con la carretera de segunda clase n.º 311 entre los municipios de Bystřec y Jablonné nad Orlicí. Al PFC se accede, en el sentido de circulación del camión, tras entrar en la carretera de segunda clase n.º 311 desde una vía de servicio – la salida de la cantera. El PFC tiene una anchura de 13,5 m, una longitud de 10 m y el ángulo de cruce de la carretera con la vía es, según la documentación de SŽ, de 150º. La estructura del paso a nivel es de goma tipo STRAIL, y el tipo de firme es con revestimiento bituminoso – asfalto.
-El PZZ 3 ZBI tipo PZZ-EA con contadores de ejes dispone del Certificado de idoneidad del dispositivo técnico designado, n.º de ev.: PZ 2345/08-E.45, expedido por el DÚ el 25. 11. 2008, con vigencia por tiempo indefinido. La última inspección antes de la ocurrencia del MU se realizó el 29. 11. 2021. Este dispositivo estaba equipado con un sistema de registro automático de datos.
-Del análisis del archivo de datos descargado del PZZ se constató:
+La vía, en el sentido de circulación del tren, discurre antes del punto del MU por una curva a la izquierda de radio 300 m, en terraplén y corte a la derecha hasta el PFC P4073. Se trata de una vía de una sola vía, electrificada, en el punto del MU con una velocidad máxima permitida de 80 km.h-1.
+El PFC P4073 en el km 97,346 es de una sola vía y es un cruce a nivel de la línea ferroviaria 512B Lichkov frontera – Ústí nad Orlicí con la carretera de segunda clase nº 311 entre las localidades de Bystřec y Jablonné nad Orlicí. Al paso a nivel se accede, en el sentido de circulación del NA, tras entrar en la carretera de segunda clase nº 311 desde una vía de servicio – la salida de la cantera. El PFC tiene una anchura de 13,5 m, una longitud de 10 m y el ángulo de cruce de la carretera terrestre con la vía es, según la documentación de SŽ, de 150º. La estructura del paso a nivel es de caucho tipo STRAIL, y el tipo de firme es con revestimiento bituminoso – asfalto.
+El PZZ 3 ZBI tipo PZZ-EA con contadores de ejes dispone del Certificado de idoneidad del dispositivo técnico designado, nº de ev.: PZ 2345/08-E.45, expedido por el DÚ el 25. 11. 2008, con vigencia por tiempo indefinido. La última inspección antes de la ocurrencia del MU se realizó el 29. 11. 2021. Este dispositivo estaba equipado con un sistema de registro automático de datos.
+Del análisis del archivo de datos del PZZ descargado se constató:
 •
 7:55:45 h
-registro del fin de la emisión de la señalización positiva y del inicio de la alerta;
+registro de la finalización de la emisión de señalización positiva y del inicio de la alarma;
 •
-7:55:46 h
+7:56:46 h
 registro del inicio de la medición del tiempo de preaviso;
 •
 7:56:07 h
@@ -764,17 +762,17 @@ registro de la orden de descenso de las barreras;
 registro de la avería en el descenso de las barreras y de la indicación del estado de emergencia del PZZ;
 •
 7:56:42 h
-registro de la indicación de que no se encienden los hilos principales de las luces rojas de los semáforos de aviso B+C;
+registro de la indicación de no encendido de los filamentos principales de las luces rojas de los semáforos de aviso B+C;
 •
 7:56:44 h
 registro de la avería de la señalización acústica y de la indicación del estado de avería;
 •
 7:56:49 h
-registro de la avería en el encendido de las luces rojas de los semáforos de aviso B+C.
-De la grabación se deduce que la barra de cierre izquierda (en el sentido de circulación del tren) no alcanzó la posición inferior y se encontraba, antes de la colisión, en una posición intermedia – apoyada en la cabina del camión, como acredita también la grabación de la cámara instalada en la parte delantera del DV. El no alcanzar la posición final inferior de la barra de cierre fue evaluado por el PZZ como estado de emergencia, lo que significa que se trata de una avería que no pone en peligro la seguridad de la circulación en el paso a nivel. Esta avería, según la ČSN 34 2650 ed. 2, solo se evalúa obligatoriamente en los PZZ en tramos de línea por los que circulan trenes a una velocidad superior a 120 km.h-1, lo que no era el caso del tramo de línea en cuestión.
-
+registro de la avería del encendido de las luces rojas de los semáforos de aviso B+C.
+De la grabación se desprende que el travesaño de barrera izquierdo (en el sentido de circulación del tren) no alcanzó la posición inferior y se encontraba, antes de la colisión, en una posición intermedia – apoyado en la cabina del NA, como acredita también la grabación de la cámara instalada en la parte delantera del DV. La no consecución de la posición final inferior del travesaño de barrera fue evaluada por el PZZ como estado de emergencia, lo que significa que se trata de una avería que no pone en peligro la seguridad de la circulación en el paso a nivel. Esta avería, según la ČSN 34 2650 ed. 2, solo se evalúa obligatoriamente en los PZZ en el tramo de vía circulado a una velocidad superior a 120 km.h-1, lo que no era el caso del tramo de vía en cuestión.
 
 ## Página 21
+
 
 Del análisis de los datos descargados del PZZ se deduce que el dispositivo presentaba un funcionamiento normal y que el estado técnico del PZZ y su modo de operación no guardaban relación causal con la ocurrencia del MU. La estación Jablonné nad Orlicí estaba equipada con un SZZ de 3.ª categoría según la TNŽ 34 2620 tipo ESA 11, controlado desde el JOP PPV Lichkov o desde el CDP Praga. En el momento de la ocurrencia del MU, el SZZ era controlado desde el CDP Praga. El TZZ en el tramo afectado era del tipo AH-88A, habiendo sido dividido el tramo entre estaciones en dos secciones de vía mediante el enclavamiento automático Verměřovice.
 El DI verificó los tiempos indicados en la tabla del paso a nivel y los introdujo en la fórmula indicada en la ČSN 34 2650 ed. 2 para el cálculo del tiempo de aproximación tL – el tiempo más corto desde la orden de inicio de la alerta hasta el momento en que el frente del vehículo ferroviario puede entrar en el paso a nivel ferroviario, y del tiempo de preaviso tz – el tiempo desde el inicio de la alerta hasta el momento en que puede comenzar el descenso de la barra de cierre. Por cálculo se obtuvo un tiempo de aproximación tL = 40,34 s y un tiempo de preaviso tz = 20,33 s.
@@ -794,8 +792,8 @@ a continuación se produjo una reducción brusca de la velocidad. En ese momento
 De los cálculos del tiempo de aproximación tL se deduce claramente que el vehículo de carretera más largo (dS = 22 m) y más lento (vS = 5 km.h-1), que se encuentra a una distancia de 1 m del semáforo de aviso cuando se inicia la alerta del PZZ, cruzará el límite de la banda de peligro situada detrás del paso a nivel ferroviario, es decir, cruzará el paso a nivel ferroviario con seguridad antes de que el tren que se aproxima alcance el nivel del PFC, con lo que se garantiza la seguridad de la explotación de la vía, del transporte ferroviario y, a la vez, de los usuarios de la circulación en las carreteras.
 De los datos del dispositivo de registro del SZZ en la est. Lichkov del día 9. 12. 2021 se constató:
 
-
 ## Página 22
+
 
 •
 7:47:14 h 
@@ -824,8 +822,8 @@ Fig. n.º 4: Establecimiento de la ruta de tren hacia la est. Jablonné nad Orli
                    Fuente: SŽ
 Fig. n.º 5: Indicación del estado de emergencia en el PFC P4073                                                                     Fuente: SŽ
 
-
 ## Página 23
+
 
 Fig. n.º 6: Indicación de ocupación de la sección JV2 (sensor del contador de ejes)                                                Fuente: SŽ
 Fig. n.º 7: Indicación del estado de avería en el PFC P4073                                                                   Fuente: SŽ
@@ -834,10 +832,10 @@ A raíz del análisis de los datos indicados se constató que:
 la ruta de tren para el tren Os 7153 fue establecida por el operador normal del SZZ;
 •
 el SZZ y el TZZ en la est. Jablonné nad Orlicí y en el tramo entre estaciones Letohrad – Jablonné nad Orlicí funcionaron antes y después de la ocurrencia del MU del día 9. 12. 2021 sin averías y no presentaban estado de avería.
-El DI realizó una medición de control del paso a nivel, centrándose en la verificación de la conformidad de las condiciones de visibilidad medidas con la ČSN 73 6380. Se comprobó especialmente si se cumplían las longitudes mínimas de visibilidad para el vehículo de carretera más lento (Lp) en caso de avería del PZZ (velocidad máxima permitida de circulación del DV de 10 km.h-1). Se constató que en todos los cuadrantes estas longitudes cumplían los requisitos de la ČSN 73 6380. La visibilidad de los semáforos de aviso y de las cajas de luces de los semáforos de aviso en el sentido de circulación del camión no pudo medirse debido a su destrucción en el MU. En la inspección complementaria del día 13 de enero de 2022 ya se habían instalado nuevos semáforos de aviso y la visibilidad de los mismos era suficiente (conforme a la ČSN 73 6380, cuando el valor requerido Dz es de 40 m y el valor realmente medido fue de más de 40 m). 
-
+El DI realizó una medición de control del paso a nivel, centrándose en la verificación de la conformidad de las condiciones de visibilidad medidas con la ČSN 73 6380. Se comprobó especialmente si se cumplían las longitudes mínimas de visibilidad para el vehículo de carretera más lento (Lp) en caso de avería del PZZ (velocidad máxima permitida de circulación del DV de 10 km.h-1). Se constató que en todos los cuadrantes estas longitudes cumplían los requisitos de la ČSN 73 6380. La visibilidad de los semáforos de aviso y de las cajas de luces de los semáforos de aviso en el sentido de circulación del camión no pudo medirse debido a su destrucción en el MU. En la inspección complementaria del día 13 de enero de 2022 ya se habían instalado nuevos semáforos de aviso y la visibilidad de los mismos era suficiente (conforme a la ČSN 73 6380, cuando el valor requerido Dz es de 40 m y el valor realmente medido fue de más de 40 m).
 
 ## Página 24
+
 
 En la ficha de registro del paso a nivel P4073 figura el valor Dz = 50 m. El DI calculó el valor Dz según la fórmula indicada en la norma ČSN 73 6380. En el cálculo se tuvo en cuenta un tiempo de reacción del conductor de 1,5 s, por lo que el valor Dz resultó ser de 40 m.  
 De las conversaciones telefónicas registradas se constató (no se realizó corrección horaria):
@@ -875,33 +873,33 @@ maquinista del tren Os 7153
 
 ## Página 25
 
-◦le sorprendió que no hubiera habido una gran sacudida del convoy. En general, el golpe le pareció estable. Quizá fuera porque se había preparado subconscientemente para un golpe mucho más fuerte;
+◦le sorprendió que no se hubiera producido un gran balanceo del convoy. En general, el golpe le pareció estable. Quizá fuera porque se había preparado subconscientemente para un golpe mucho más fuerte;
 ◦con la energía del impacto siguió por el pasillo hasta las puertas. Al dejar de moverse el convoy, se detuvo;
-◦inmediatamente comenzó a comprobar el estado de los pasajeros, para ver si alguien estaba herido. En la parte delantera del convoy no detectó ninguna lesión, así que continuó hacia la parte trasera, donde se encontró con el sobrecargo, que le dijo que en la parte trasera también estaban todos bien y que iba a llamar al despachador;
-◦a continuación volvió a la cabina de conducción y apagó los motores;
-◦acto seguido le llamó el jefe de estación (despachador de vía), que le preguntó cómo estaban y le comunicó que ya había enviado allí a los servicios de emergencia (IZS);
+◦inmediatamente comenzó a comprobar el estado de los pasajeros, para ver si alguien estaba herido. En la parte delantera del convoy no detectó ninguna lesión, y así continuó hasta la parte trasera, donde encontró al sobrecargo, que le dijo que en la parte trasera también estaban todos bien y que iba a llamar al despachador;
+◦a continuación volvió a la cabina del maquinista y apagó los motores;
+◦acto seguido le llamó el jefe de estación (despachador de línea), que le preguntó cómo estaban y le comunicó que ya había enviado allí a los servicios de emergencia (IZS);
 ◦a su pregunta de si había heridos, respondió que visiblemente ninguno;
 ◦acto seguido se comunicó con la dirección de la compañía, comenzó progresivamente a comprobar el alcance de los daños, a realizar documentación fotográfica y a enviársela a la dirección de la compañía;
 ◦el sobrecargo, mientras tanto, atendía a los pasajeros;
-◦los primeros en llegar al lugar del accidente fueron los bomberos, después la Policía Nacional (PČR) y la ambulancia;
-◦los bomberos trasladaron a 9 pasajeros a la estación de Jablonné nad Orlicí y después le pidieron que "inmovilizara" la unidad, lo que hizo y, tras la llegada del responsable de mantenimiento, desconectó también las baterías;
-◦tras la llegada de la Policía Nacional (PČR) se le realizó una prueba de aliento con resultado negativo y se levantó acta;
+◦los bomberos fueron los primeros en llegar al lugar del accidente, seguidos de la PČR y la ambulancia;
+◦los bomberos trasladaron a 9 pasajeros a la estación de Jablonné nad Orlicí y después le pidieron la "inmovilización" de la unidad, lo que realizó y, tras la llegada del responsable de mantenimiento, desconectó también las baterías;
+◦tras la llegada de la PČR se le realizó una prueba de aliento con resultado negativo y se levantó acta;
 ◦a continuación esperaron la llegada de la DI y sus posibles peticiones.
 •
 maquinista del tren Os 7153
-  – Acta oficial sobre la declaración prestada, redactada por la DI en el lugar del MU:
-◦en este acta se recogen los hechos igual que en el acta anterior con el empleado;
-◦en el momento de conducir el tren se sentía sano y descansado;
-◦entró en turno el día 9. 12. 2021 a las 6:00 h y antes tuvo un descanso entre turnos de 24 h;
-◦está sano, no toma ningún medicamento ni sustancias estupefacientes o psicotrópicas. La visibilidad en el momento del MU no estaba reducida por el tiempo.
+  – Registro oficial de la declaración prestada, redactado por la DI en el lugar del MU:
+◦en este registro se recogen los mismos hechos que en el acta anteriormente mencionada con el empleado;
+◦durante la conducción del tren se sentía sano y descansado;
+◦comenzó su turno el 9. 12. 2021 a las 6:00 h y antes tuvo un descanso entre turnos de 24 h;
+◦está sano, no toma ningún medicamento ni sustancias estupefacientes o psicotrópicas. La visibilidad en el momento del MU no se vio reducida por el tiempo.
 •
 maquinista del tren Os 7153
-  – Acta oficial sobre la declaración prestada a la Policía Nacional (PČR):
-◦en este acta se recogen los hechos igual que en el acta anterior con el empleado;
-◦el despachador de vía le llamó al móvil, porque el transmisor quedó destruido por el impacto;
-
+  – Registro oficial de la declaración prestada a la PČR:
+◦en este registro se recogen los mismos hechos que en el acta anteriormente mencionada con el empleado;
+◦el despachador de línea le llamó al móvil, porque el transmisor quedó destruido por el impacto;
 
 ## Página 26
+
 
 ◦en la cabina del maquinista hay un sistema de cámaras, pero él no tiene acceso al mismo y, debido a los daños, no es capaz de decir si la grabación estará disponible;
 ◦en cuanto a la velocidad en el momento del impacto y la distancia de frenado, tampoco pudo estimarla, pero añadió que toda la información estará disponible a partir del dispositivo registrador.
@@ -924,8 +922,8 @@ conductor del NA
 ◦bajaba la colina indicada en dirección al PdP a una velocidad de unos 5 km.h-1;
 ◦al pie de la colina se vio obligado a girar mucho a la derecha y a entrar en la carretera principal. Antes del cruce con la carretera principal había una señal vertical de tráfico "STOP" y junto a esa señal detuvo el convoy;
 
-
 ## Página 27
+
 
 ◦cuando no circulaba nada por la carretera principal, pisó el pedal del acelerador, pero el modo D seguía "engranado". El NA arrancó normalmente y a velocidad lenta (aproximadamente a paso) giró hasta 90° a la derecha en dirección al PdP;
 ◦tras arrancar, soltó el pedal del acelerador, ya que tenía que girar en sentido contrario bastante a la izquierda para entrar en el PdP que quedaba a su derecha. En el modo D sin pisar el pedal del acelerador, el NA continuó en movimiento desde el "stop" hacia el área de la vía cuesta abajo;
@@ -944,8 +942,8 @@ conductor del NA
 ◦juntos recorrieron el tren junto con el sobrecargo y preguntaron a los pasajeros si alguien había sufrido alguna lesión. Ninguno de los pasajeros estaba herido y en cuanto a daños materiales tampoco dijo nadie nada a su pregunta;
 ◦la causa del accidente la ve en una avería técnica del NA, no sabe qué pudo fallar, simplemente tras pisar el pedal del acelerador el convoy no arrancaba y el motor no tiraba, solo subía de revoluciones;
 
-
 ## Página 28
+
 
 ◦nadie lo amenazó ni le impidió en el sentido de que hubiera entrado en el paso a nivel a consecuencia de la actuación de otro participante en el tráfico. En el momento del accidente allí solo estaban él y su compañero. No conoce a otro testigo del accidente;
 ◦además indicó que el NA fue retirado por orden de la Policía Nacional (PČR) a un servicio autorizado en Moravská Třebová con el fin de un examen pericial y no fue posible manipularlo más;
@@ -962,6 +960,7 @@ conductor del NA
 
 ## Página 29
 
+
 saltaron a unas 2 000 revoluciones por minuto al pisar el acelerador. Se oía el ruido del motor;
 ◦ seguía pisando en ese momento el acelerador y probando si arrancaba hacia adelante. En estos instantes el conjunto seguía circulando por inercia. Pensó que con esa inercia cruzaría el paso a nivel con todo el conjunto, pero no. El conjunto se detuvo de tal manera que en la vía quedó el remolque, ya todo el tractor estaba fuera de la vía. El acelerador no respondió desde el momento descrito de sus intentos repetidos de probarlo. Si hubiera sabido de la avería en el sentido de que no arrancaría con el conjunto, seguramente no habría entrado en el PAF;
 ◦ a la pregunta de qué habría hecho si se hubiera atascado con el vehículo en una superficie resbaladiza o en barro, indicó que habría activado el bloqueo del diferencial para que actuasen ambas ruedas del semieje motriz a la vez. Aquí antes del PAF ni siquiera en el descenso hacia el cruce era necesario tener el bloqueo activado. Si estuviera activado, le habría supuesto un problema en la conducción al girar, porque el conjunto, por ejemplo, es empujado hacia donde el conductor no quiere. El conjunto con el diferencial activado influye en la dirección, y el conductor lo nota. Sin embargo, en la cantera lo activó al salir de la carga hacia la báscula. Al arrancar desde la báscula el diferencial seguía activado, allí era resbaladizo;
@@ -970,8 +969,8 @@ saltaron a unas 2 000 revoluciones por minuto al pisar el acelerador. Se oía el
 ◦ a la pregunta de si al detenerse en el PAF no había intentado activar el bloqueo del diferencial al arrancar, respondió que ese momento temporal fue tan rápido que no lo sabe. No puede decir con certeza si lo intentó. En esa presión temporal, cuando comenzaron a parpadear las luces rojas y también oyó el sonido de la señalización y comenzaron a bajar las barreras, una persona empieza a actuar rápidamente. Intentó intuitivamente todo lo indicado más arriba, es decir, pisar el acelerador, 2 – 3 veces intentó cambiar del modo D al modo N y viceversa, lo cual no funcionaba. Cree que solo llegó a apagar el motor, lo intentó de nuevo y cambiaba de D a N y viceversa, pero el vehículo no respondía y en ese momento las barreras bajaban. Por eso no recuerda si intentó activar el diferencial. Había tan poco tiempo que no había tiempo para esa activación. Le interesaba principalmente de qué lado pasaría el tren. Ya lo describió más detalladamente en la declaración anterior;
 ◦ a la pregunta de en qué caso habría activado el bloqueo del diferencial, respondió que sería en el momento en que no estuviera seguro de poder subir la pendiente de la calzada (resbaladiza, embarrada, de grava), incluso en una carretera consolidada resbaladiza al arrancar y en calzada llana;
 
-
 ## Página 30
+
 
 ◦ a la pregunta de por qué no activó el bloqueo del diferencial al atascarse en el PAF, respondió que probablemente se le habría ocurrido, pero esa presión temporal causó lo suyo en su toma de decisiones y ya no sabe si intentó usarlo;
 ◦ a la pregunta de si existe alguna posibilidad de que hubiera vuelto a activar o desactivar el bloqueo del diferencial el día del suceso después de haber arrancado y luego bajar en dirección al cruce, respondió que allí ya no activó el diferencial. El conjunto circuló, como se indica más arriba;
@@ -989,91 +988,89 @@ conductor de NA
 ◦ participa en formaciones periódicas. La última antes del accidente fue en enero de 2021. Después del accidente fue en enero de 2022 en la empresa en la que trabajaba;
 ◦ a la pregunta de si se había encontrado en esta formación periódica o, por ejemplo, en la formación, la formación de ingreso, en la autoescuela o en otro lugar con información sobre cómo debe comportarse el conductor cuando se atasca en un PAF, respondió que sí, pero ya no recuerda dónde fue. Quizá ya fue en la autoescuela, quizá se lo dijeron en el ejército. En la formación se forma regularmente sobre esto. Por ejemplo, la última vez se mostró en la formación un vídeo de un accidente en un PAF, en el que decían que en caso de peligro siempre es mejor atravesar la barrera;
 
-
 ## Página 31
 
-◦ a la pregunta de si le es concretamente conocido cómo debe comportarse el conductor cuando se atasca con el vehículo en un paso a nivel ferroviario, respondió que sí, que en cada poste de un PAF hay un número y luego basta con llamar al 112 y comunicarlo;
-◦ asimismo indicó que cada PAF está identificado con un número situado en su señalización.
+◦a la pregunta de si le era concretamente conocido cómo debe comportarse el conductor cuando queda atascado con el vehículo en un paso a nivel, respondió que sí, que en cada poste junto al PÑ hay un número y que entonces basta con llamar al 112 y comunicarlo;
+◦asimismo indicó que cada PÑ está señalado con un número situado en su señalización.
+
 Resumen de las explicaciones prestadas por otros testigos:
+
 •
 testigo 1, conductor del segundo NA
-  – Registro oficial de la explicación prestada PČR:
-◦ el 9. 12. 2021 a unas 4:30 h se incorporaba al trabajo en su empleador en Jeseník con el fin de transportar material a granel con un conjunto de tractor y remolque. Desde la mañana estaba con su compañero. Primero fueron a Šumperk a descargar grava y desde allí fueron a la cantera de Jablonné nad Orlicí, cada uno circulaba con su propio conjunto. Allí cargaron un acopio que tenían que llevar a la obra de la circunvalación de Bludov. Su compañero fue a la báscula y a continuación iba el primero y él iba tras él;
-◦ después de salir de la cantera, el compañero se detuvo en la señal de stop que está desde la cantera al entrar en la carretera principal. Allí hay que maniobrar mucho con el conjunto hasta el sentido contrario y girar a través del PAF en dirección a la derecha hacia Jablonné nad Orlicí;
-◦ cuando el compañero giraba hacia el PAF, el conjunto se detuvo y quedó inmóvil. El remolque estaba aproximadamente en medio del PAF. En ese momento su compañero le llamó por radio y le dijo: «Llama a los ferrocarriles, no me arranca»;
-◦ él entró en pánico y por estrés marcó a las 7:55 h el número 221 111 122, que es la línea de información del transportista ČD. Allí les comunicó la situación cuando de pronto comenzó a encenderse en el PAF el rojo y la barrera cayó sobre el NA;
-◦ salió del vehículo y corrió hacia la caseta ferroviaria junto al PAF. Pensó que allí habría algún botón para detener el tren, pero no encontró nada;
-◦ después ya oyó el tren, pero no sabía de qué lado venía, así que fue en dirección a Jablonné nad Orlicí. Después lo vio llegar desde el otro lado;
-◦ a continuación el tren impactó contra el remolque y este cayó a la vía. Él estaba a un poco de distancia. Pensó que su compañero seguía en el NA, así que corrió inmediatamente al NA y comprobó que no estaba allí. Después fue al tren para comprobar si había alguien herido. Allí ya encontró a su compañero. Posteriormente llegaron al lugar los servicios del IZS y otras personas;
-◦ en cuanto a su compañero, es un amigo de muchos años. Trabajan juntos en la empresa como mecánicos y ocasionalmente también conducen el conjunto u otra maquinaria como relevos, cuando es necesario;
-◦ el compañero tiene al menos 15 años de experiencia y sabe cómo se conduce un vehículo de este tipo, por lo que no piensa que fuera su error, sino que tuvo una avería técnica. Podría tratarse de la electrónica, un fallo de la caja de cambios o del embrague. De este modo es difícil determinarlo. Los vehículos tienen recorridos de 500 – 800 mil km, pero la empresa invierte regularmente en ellos y están en buen estado técnico. En el vehículo ni él ni su compañero tienen ninguna cámara, solo están dotados del GPS de la empresa;
-◦ no reclama daños materiales y no ha sufrido lesiones.
-
+  – Registro oficial de la explicación prestada a la PČR:
+◦el 9 de diciembre de 2021, hacia las 4:30 h, se presentó a trabajar en su empresa en Jeseník con el fin de transportar material a granel con un conjunto de tractor y remolque. Desde la mañana estaba con su compañero. Primero se dirigieron a Šumperk para descargar grava y desde allí se dirigieron a la cantera de Jablonné nad Orlicí, cada uno con su propio conjunto. Allí cargaron una determinada excavación que debían transportar a la obra de la variante de Bludov. Su compañero fue a la báscula y luego iba primero, y él iba detrás;
+◦una vez que salieron de la cantera, su compañero se detuvo en la señal de stop que hay desde la cantera al acceder a la carretera principal. Allí hay que maniobrar mucho con el conjunto, adentrándose incluso en el sentido contrario, y girar a través del PÑ en dirección a Jablonné nad Orlicí;
+◦cuando su compañero giraba hacia el PÑ, el conjunto se detuvo y quedó inmóvil. El remolque estaba aproximadamente en medio del PÑ. En ese momento su compañero le llamó por radio y le dijo: «Llama a los ferrocarriles, no me arranca»;
+◦él entró en pánico y, por el estrés, a las 7:55 h marcó el número 221 111 122, que es la línea de información del transportista ČD. Allí les comunicó la situación, cuando en ese momento se encendió la luz roja en el PÑ y el cayó sobre el NA;
+◦salió del vehículo y corrió hacia la caseta ferroviaria junto al PÑ. Pensó que allí habría algún botón para detener el tren, pero no encontró nada;
+◦después ya oyó el tren, pero no sabía de qué lado venía, así que se dirigió hacia Jablonné nad Orlicí. Luego lo vio llegar desde el otro lado;
+◦acto seguido, el tren impactó contra el remolque y este cayó a la vía. Él estaba a pocos metros de allí. Pensó que su compañero seguía en el NA, así que corrió inmediatamente al NA y comprobó que no estaba allí. Después fue al tren para comprobar si había alguien herido. Allí ya se encontró con su compañero. Posteriormente llegaron al lugar los servicios del IZS y otras personas;
+◦en cuanto a su compañero, es un amigo suyo de muchos años. Trabajan juntos en la empresa como mecánicos y ocasionalmente conducen también el conjunto u otra maquinaria como relevos, cuando es necesario;
+◦el compañero tiene al menos 15 años de experiencia y sabe cómo se conduce un vehículo de este tipo, por lo que no cree que fuera su error, sino que tuvo una avería técnica. Podría tratarse de la electrónica, un fallo de la caja de cambios o del embrague. Así es difícil de determinar. Los vehículos tienen entre 500.000 y 800.000 km recorridos, pero la empresa invierte regularmente en ellos y se encuentran en buen estado técnico. En el vehículo ni él ni su compañero tienen ninguna cámara, solo están equipados con el GPS de la empresa;
+◦no reclama daños materiales y no sufrió lesiones.
 
 ## Página 32
 
 •
-testigo 1, 
+testigo 1,
  conductor del segundo NA
-  – Registro oficial de la explicación prestada, redactado por DI en el lugar del MU:
-◦ en este registro se indican los mismos hechos que más arriba;
-◦ después de que su compañero le dijera que llamara a alguien para que ayudara, comenzó a buscar en su teléfono algunos contactos en internet. Introdujo en el buscador la palabra clave «České dráhy». Se le mostró el número de teléfono 221 111 122, al que intentó llamar a las 7:55 h. La señal era mala y no se conectó con nadie;
-◦ durante menos de un minuto comenzó a sonar la alarma del dispositivo de seguridad de aviso del PAF y así terminó el intento de conexión, salió de la cabina del conductor y corrió a la derecha a lo largo de las vías;
-◦ cuando estaba junto a la caseta ferroviaria, oyó la frenada del tren, se dio la vuelta y corrió de regreso;
-◦ siguió el golpe cuando el tren impactó contra el remolque y lo volcó de lado;
-◦ afortunadamente su compañero no estaba en la cabina y no le ocurrió nada;
-◦ todo sucedió muy rápidamente. En el pánico no se dio cuenta de que debía haber llamado a la línea 112. De todos modos no habría sido posible evitar el accidente en cuanto al tiempo.
+  – Registro oficial de la declaración prestada, redactado por el DI en el
+lugar del SU:
+◦en este registro se consignan los mismos hechos que los anteriores;
+◦después de que su compañero le dijera que llamara a alguien para pedir ayuda, comenzó a buscar en su teléfono algunos contactos en internet. Introdujo en el buscador la palabra clave „České dráhy“. Se le mostró el número de teléfono 221 111 122, al que intentó llamar a las 7:55 h. Había mala señal y no se conectó con nadie;
+◦en menos de un minuto comenzó a sonar la alarma del dispositivo de seguridad de aviso ŽP y por lo tanto interrumpió el intento de conexión, salió corriendo de la cabina del conductor y corrió hacia la derecha a lo largo de las vías;
+◦cuando estaba junto a la caseta ferroviaria, oyó el frenado del tren, se dio la vuelta y corrió de regreso;
+◦siguió el golpe cuando el tren chocó con el remolque y lo volcó de lado;
+◦afortunadamente su compañero no estaba en la cabina y no le ocurrió nada;
+◦todo sucedió muy rápidamente. En el pánico no se dio cuenta de que debía llamar al número 112. De todos modos, no habría sido posible evitar el accidente en cuanto al tiempo.
 •
-testigo 1, 
- conductor del segundo NA 
- –  Registro de la explicación prestada DI:
-◦ en el momento de producirse el MU trabajaba como conductor de vehículo pesado y mecánico;
-◦ trabajaba en la empresa unos año y medio. Conducía distintos camiones y también trabajaba como técnico de servicio;
-◦ posee el certificado de aptitud profesional del conductor y participa en formaciones periódicas. La última antes del accidente fue en enero de 2021; 
-◦ a la pregunta de si se había encontrado en esta formación periódica o, por ejemplo, en la formación, la formación de ingreso, en la autoescuela o en otro lugar con información sobre cómo debe comportarse el conductor cuando se atasca en un paso a nivel ferroviario, respondió que sí, seguramente en la formación de conductores y además también en el marco de su actividad voluntaria en el cuerpo de bomberos voluntarios. Cierta conciencia también la tiene de los medios de comunicación públicos;
-◦ a la pregunta de si le es concretamente conocido cómo debe comportarse el conductor cuando se atasca con el vehículo en un paso a nivel ferroviario, respondió que si el vehículo se atasca en un PAF, debería coger el teléfono, averiguar el número del PAF, que está indicado en la parte trasera del señalizador, y llamar al número 158 o al 112;
-◦ asimismo indicó que no conoce el concepto de sistema unificado de identificación de pasos a nivel ferroviarios, pero supone que es ese número del PAF.
+testigo 1,
+ conductor del segundo NA
+  – Registro de la declaración prestada por el DI:
+◦en el momento del SU trabajaba como conductor de vehículo de carga y mecánico;
+◦trabajaba en la empresa aproximadamente un año y medio. Conducía distintos camiones de carga y también realizaba funciones de técnico de servicio;
+◦posee el certificado de aptitud profesional del conductor y participa en formaciones periódicas. La última vez antes del accidento fue en enero de 2021;
+◦a la pregunta de si se había encontrado con información sobre cómo debe comportarse un conductor cuando queda atrapado en un paso a nivel ferroviario durante esta formación periódica o, por ejemplo, durante la formación, la formación de ingreso, en la autoescuela o en otro lugar, respondió que sí, sin duda en la formación de conductores y además también en el marco de su actividad voluntaria en el cuerpo de bomberos voluntarios. Tiene cierto conocimiento también de los medios de comunicación públicos;
+◦a la pregunta de si le consta concretamente cómo debe comportarse un conductor cuando queda atrapado con el vehículo en un paso a nivel ferroviario, respondió que si el vehículo queda atrapado en el ŽP, debería coger el teléfono, averiguar el número del ŽP, que está indicado en la parte trasera de la señal de aviso, y llamar al número 158 o al 112;
+◦además indicó que no conoce el concepto de sistema uniforme de señalización de pasos a nivel ferroviarios, pero supone que es el número del ŽP.
 •
 testigo 2, auxiliar de a bordo en el tren Os 7153
-  – Registro oficial de la explicación prestada PČR:
-◦ el viaje del tren Os 7153 se desarrolló con normalidad el 9. 12. 2021, se circulaba según el horario;
-◦ en el momento previo al MU se circulaba por una curva larga a la izquierda en ascenso de la vía en dirección desde la est. Letohrad hacia la est. Jablonné nad Orlicí. En el tren viajaban unos 8 pasajeros;
-◦ como ya había comprobado los billetes, estaba sentado en el asiento;
+  – Registro oficial de la declaración prestada a la PČR:
+◦el trayecto del tren Os 7153 se realizó el 9. 12. 2021 con normalidad, se circulaba según el horario de trenes;
+◦en el momento previo al SU se circulaba por una curva larga a la izquierda en la pendiente de la vía en dirección desde la est. Letohrad hasta la est. Jablonné nad Orlicí. En el tren viajaban unos 8 pasajeros;
+◦como ya había comprobado los billetes, estaba sentado en el asiento;
 
 ## Página 33
 
-◦cuando pasaban por el tramo indicado, sintió que el maquinista había tirado del freno rápido. A veces ocurre, porque puede entrar fauna silvestre en la vía o alguien cruza los pasos a nivel en el último momento;
-◦en respuesta a eso se levantó y se puso de pie en el pasillo. El efecto del freno rápido consiste, sensiblemente, en que se siente un ligero tirón, y eso es lo que ocurrió. Inmediatamente después siguió una frenada intensa del tren durante unos 4 s;
-◦durante todo el tiempo estuvo de espaldas en la dirección de marcha del tren. Cuando se produjo el impacto, fue lanzado hacia la cabina del maquinista;
+◦cuando circulaba por el tramo indicado, sintió que el maquinista había tirado del freno de emergencia. A veces ocurre, porque puede entrar un animal salvaje en la vía o alguien cruza los pasos a nivel en el último momento;
+◦en respuesta a eso se levantó y se puso de pie en el pasillo. El efecto del freno de emergencia consiste, sensiblemente, en que se siente un ligero tirón, y eso es lo que ocurrió. Inmediatamente después siguió un frenado intenso del tren durante unos 4 s;
+◦durante todo el tiempo estuvo de espaldas en el sentido de la marcha del tren. Cuando se produjo el impacto, fue lanzado hacia la cabina del maquinista;
 ◦tras el impacto y su posterior movimiento involuntario, se agarraba con el codo izquierdo de su mano a los reposabrazos de los asientos de los pasajeros y, al caer al suelo del tren, sintió dolor en el pulgar derecho de la mano y, además, percibía que estaba en un estado de ligero shock;
-◦después preguntó a todos los pasajeros si alguien había sufrido lesiones. Nadie se quejó de nada y nadie solicitó atención médica;
-◦tras cumplir sus deberes, comenzó a percibir dolor en la pantorrilla derecha de la pierna, así como dolor en los dos tríceps de los brazos y dolor por encima de la rodilla izquierda en el músculo. Por ello, fue trasladado desde el lugar, tras un examen médico básico, al Hospital de Orlickoústecká;
+◦después preguntó a todos los pasajeros si alguien había resultado herido. Nadie se quejó de nada y nadie solicitó atención médica;
+◦tras cumplir sus deberes, comenzó a percibir dolor en la pantorrilla derecha de la pierna, así como dolor en dos tríceps de los brazos y dolor por encima de la rodilla izquierda en el músculo. Por ello fue trasladado del lugar, tras un examen médico básico, al Hospital de Orlickoústecká;
 ◦además de las lesiones indicadas, no sufrió ningún daño material;
-◦asimismo indicó que, tras revisar a los pasajeros, vio cómo el maquinista salió del tren y habló con el conductor del NA. Escuchó que el conductor del NA explicaba que no le funcionaba cambiar la marcha en la caja de cambios automática y que el vehículo no se movía. No se interesó más por el asunto, ya que en el lugar estaban, en poco tiempo, los servicios de IZS y él mismo estaba bajo atención médica.
-
+◦asimismo indicó que, tras revisar a los pasajeros, vio cómo el maquinista salió del tren y habló con el conductor del NA. Oyó cómo el conductor del NA explicaba que no le funcionaba el cambio de marcha en la caja de cambios automática y que el vehículo no se movía. No se interesó más por el asunto, ya que en el lugar estaban, en poco tiempo, los servicios de emergencia (IZS) y él mismo estaba bajo atención médica.
 ### 3.2 Descripción fáctica del suceso
-### 3.2.1 Secuencia de hechos que condujeron al suceso excepcional
-El 9 de 12 de 2021 a las 7:56 h se produjo, en el paso a nivel P4073, una colisión del tren Os 7153 con el NA, que había quedado detenido en el espacio del ŽP. El NA entró en el ŽP por el lado derecho desde una vía de servicio que conduce a la cantera. Una vez dentro del espacio del ŽP, el conductor comprobó que el pedal del acelerador no respondía al pisarlo. El tractor del NA no aceleró y ya no volvió a moverse por sus propios medios. Intentó salir del ŽP con el tractor por inercia, pero el NA solo salió del espacio del ŽP con la cabina del tractor, quedando el remolque cargado detenido en el centro del espacio del ŽP. En respuesta a la situación creada, el conductor llamó por radio interna a su compañero, que iba detrás, y le comunicó que no le funcionaba, para que llamara a pedir ayuda. El compañero intentó llamar a la línea de información de ČD, sin éxito. A las 7:55:46 h se activó la señal luminosa y sonora de aviso del PZZ, que advertía de la aproximación del tren Os 7153 que circulaba en dirección desde la estación de Letohrad. Además, el conductor intentó eliminar la avería probando unas 2 a 3 veces, mediante la desactivación y activación repetida en la caja de cambios automática, cambiar del modo D al modo N y viceversa. No sirvió de nada, así que apagó el encendido, volvió a arrancar, pero el NA seguía sin responder al pedal del acelerador y el conjunto permanecía detenido.
-A las 7:56:07 h se emitió en el PZZ la orden de bajar las barreras. Al bajar los travesaños de las barreras, no se alcanzó la posición final inferior de uno de los travesaños, que quedó apoyado en el tractor del NA. Esta avería en el descenso de las barreras se manifestó con la indicación del estado de emergencia del PZZ en el monitor del JOP del despachante de vía CDP Praga a las 7:56:15 h. Como las barreras ya estaban bajadas, el conductor salió de la cabina del NA e intentó caminar por la vía en dirección contraria al tren que se aproximaba
-
+### 3.2.1 Secuencia de hechos que condujeron al suceso extraordinario
+El 9 de diciembre de 2021 a las 7:56 h se produjo, en el paso a nivel P4073, una colisión entre el tren Os 7153 y un NA que había quedado detenido en el espacio del paso a nivel (ŽP). El NA entró en el ŽP por el lado derecho desde una vía de servicio que conduce a la cantera. Una vez dentro del ŽP, el conductor comprobó que el pedal del acelerador no respondía al pisarlo. El tractor del NA no aceleró y ya no volvió a moverse por sí mismo. Intentó salir del ŽP con el tractor por inercia, pero el NA solo salió del espacio del ŽP con la cabina del tractor, el remolque cargado permaneció detenido con su centro en el espacio del ŽP. En respuesta a la situación creada, el conductor llamó por radio interna a su compañero, que circulaba detrás de él, y le comunicó que no le funcionaba, para que llamara a pedir ayuda. El compañero intentó llamar a la línea de información de ČD, sin éxito. A las 7:55:46 h se activó la señal luminosa y sonora de aviso del PZZ, que advertía de la aproximación del tren Os 7153 circulando en dirección desde la estación de Letohrad. Además, el conductor intentó eliminar la avería probando unas 2 a 3 veces, mediante la desactivación y activación repetida en la caja de cambios automática, cambiar del modo D al modo N y viceversa. No sirvió de nada, así que apagó el encendido, volvió a arrancar, pero el NA seguía sin responder al pedal del acelerador y el conjunto permanecía detenido.
+A las 7:56:07 h se dio en el PZZ la orden de bajar las barreras. Al bajar los travesaños de las barreras no se alcanzó la posición final inferior de uno de los travesaños, que quedó apoyado contra el tractor del NA. Esta avería en el descenso de las barreras se manifestó mediante la indicación del estado de emergencia del PZZ en el monitor del JOP del despachante de vía CDP Praga a las 7:56:15 h. Como las barreras ya estaban bajadas, el conductor salió de la cabina del NA e intentó caminar por la vía en dirección contraria al tren que se aproximaba
 
 ## Página 34
 
-desde Verměřovice, para advertir al maquinista del obstáculo en el ŽP. Esto ya lo había registrado la cámara instalada en el frontal del DV, y su grabación lo confirma.
-El tren Os 7153 partió de la parada de Verměřovice a las 7:54:25 h. El maquinista de este tren respetó la velocidad máxima permitida y, en el ŽP P4073, donde ya estaba el NA, tenía visibilidad, tras salir de la curva izquierda, de unos 130 m antes del punto de colisión. Reaccionó al NA detenido y a la persona que le hacía señas inmediatamente después de verlos, mediante la aplicación de frenado de acción rápida, la sirena y, a continuación, abandonó la cabina del maquinista hacia el espacio para pasajeros, donde llegó a advertir a los pasajeros con el aviso: «Agárrense, hay un coche en el paso a nivel». Debido a la corta distancia, ya no le fue posible detener el tren e impedir la colisión. El tren Os 7153 impactó de frente contra la parte central del remolque y lo volcó de lado. Como consecuencia, se produjo el desplazamiento del remolque, el derrame parcial de la carga y el descarrilamiento del bogie delantero con ambos ejes. Dado que en la estructura del ŽP y detrás de él no se encontraron huellas de rodadura en estado de descarrilamiento, es evidente que, durante el impacto, la parte delantera del tren quedó elevada por el remolque hasta detenerse y, posteriormente, fue rechazada hacia atrás. El tren se detuvo tras la colisión de frente a una distancia de 12 m detrás del centro del ŽP, es decir, en el km 97,358.
-Fig. n.º 8: Imagen de la grabación de la cámara instalada en el frontal del DV del tren Os 7153. Vista del ŽP P4073 y del NA atascado justo antes de la colisión
+del tren desde Verměřovic, para advertir al maquinista sobre un obstáculo en el PdC. Esto ya lo había registrado la cámara situada en la parte delantera del DV, y su grabación lo confirma.
+El tren Os 7153 partió de la parada Verměřovice a las 7:54:25 h. El maquinista de este tren respetó la velocidad máxima permitida y en el PdC P4073, en el que ya se encontraba el AF, tenía visibilidad tras salir del arco izquierdo a una distancia de aprox. 130 m antes del punto de encuentro. Reaccionó de forma inmediata al avistar el AF detenido y a la persona que le agitaba la mano, iniciando una frenada de acción rápida, tocando el silbato y, a continuación, abandonando la cabina del maquinista para dirigirse al espacio para pasajeros, donde aún llegó a advertir a los pasajeros con el aviso: «Agárrense, un coche en el paso a nivel». Debido a la corta distancia, ya no le fue posible detener el tren e impedir el encuentro. El tren Os 7153 impactó de frente contra la parte central del remolque y lo volcó de lado. Como consecuencia, se produjo el desplazamiento del remolque, el derrame parcial de la carga y el descarrilamiento del bogie delantero con ambos ejes. Dado que en la estructura del PdC y detrás de él no se encontraron huellas de rodadura en estado descarrilado, es evidente que, durante el impacto, la parte delantera del tren fue levantada por el remolque hasta su detención y, posteriormente, rebotó hacia atrás. El tren se detuvo tras el impacto de frente a una distancia de 12 m detrás del centro del PdC, es decir, en el km 97,358.
+Fig. n.º 8: Captura de la grabación de la cámara situada en la parte delantera del DV del tren Os 7153. Vista del PdC P4073 y del AF atascado justo antes del encuentro
                                                Fuente: LET, edición DI
-
-### 3.2.2 Secuencia de hechos desde la producción del suceso excepcional hasta la finalización de las acciones de los servicios de rescate
+### 3.2.2 Secuencia de hechos desde la producción del suceso hasta la finalización de las acciones de los servicios de emergencia
 •
 7:59 h
-el maquinista comunicó la producción del suceso excepcional al despachante de vía CDP Praga;
+el maquinista comunicó la producción del suceso al despachador de vía CDP Praga;
 •
 8:00 h
-el despachante de vía CDP Praga comunicó el MU según el calendario de notificación a IZS;
-
+el despachador de vía CDP Praga comunicó el suceso (MU) conforme al calendario de notificación al SIE;
 
 ## Página 35
+
 
 •
 8:02 h
@@ -1116,8 +1113,8 @@ El cruce de la vía con la carretera a nivel de las vías debe estar señalizado
 El gestor de la vía tiene, entre otras, la obligación de señalizar el cruce de una vía ferroviaria de vía única con la carretera a nivel de las vías mediante la señal vertical de tráfico A 32a «Cruz de aviso para paso a nivel de vía única». La cruz de aviso se coloca en el borde derecho de la carretera (acera) en la dirección de marcha de los vehículos, de modo que ninguna parte de la cruz de aviso esté a menos de 4 m del eje de la vía exterior.
 Los pasos a nivel con velocidad de vía superior a 60 km·h-1 o con un valor de momento de tráfico que supere los 10 000 se protegen mediante un dispositivo de señalización luminosa de paso a nivel, que debe advertir a los usuarios de la carretera con la antelación suficiente de que se aproxima un tren o un vehículo ferroviario al ŽP, mediante luz roja intermitente y señal sonora intermitente. La ejecución y ubicación de los elementos de aviso deben ajustarse a las normas ČSN 73
 
-
 ## Página 36
+
 
 6380 y ČSN 34 2650 ed. 2, y los elementos de aviso deben ir complementados con una placa con la advertencia «ATENCIÓN TREN».
 Para el conductor de un vehículo de carretera debe garantizarse la visibilidad del elemento de aviso a una distancia tal que el conductor pueda detenerse de forma fiable antes del ŽP, es decir, a la distancia de parada Dz. Además, para el caso de avería o desconexión del dispositivo de protección de paso a nivel, debe garantizarse la distancia de visibilidad para el vehículo de carretera más lento Lp hacia el vehículo ferroviario desde una distancia de 4 m del eje de la vía. En dicho caso, el vehículo ferroviario tiene la obligación de circular a una velocidad de hasta 10 km·h-1.
@@ -1136,19 +1133,19 @@ La función de la Agencia de la Unión Europea para los Ferrocarriles es, ademá
 
 ## Página 37
 
-En la investigación no se detectó infracción de las funciones y obligaciones del organismo nacional de seguridad y de la Agencia Ferroviaria de la Unión Europea.
+En la investigación no se constató infracción de las funciones y obligaciones del organismo nacional de seguridad y de la Agencia Ferroviaria de la Unión Europea.
 ### 4.1.5 Entidades notificadas, entidades designadas y entidades de evaluación de riesgos
-En la investigación no se detectó infracción de las funciones y obligaciones de las entidades notificadas, de las entidades designadas y de las entidades de evaluación de riesgos.
+En la investigación no se constató infracción de las funciones y obligaciones de las entidades notificadas, de las entidades designadas y de las entidades de evaluación de riesgos.
 ### 4.1.6 Entidades de certificación responsables del mantenimiento de los vehículos ferroviarios
-En la investigación no se detectó infracción de las funciones y obligaciones de las entidades de certificación responsables del mantenimiento de los vehículos ferroviarios.
+En la investigación no se constató infracción de las funciones y obligaciones de las entidades de certificación responsables del mantenimiento de los vehículos ferroviarios.
 ### 4.1.7 Cualquier otra persona o entidad
-La DI se centró también, en el marco de la investigación, en el comportamiento de los usuarios de la vía pública, concretamente en el conductor del NA y en el testigo que circulaba detrás de él. La PČR hizo evaluar, entre otros datos, los datos del dispositivo de registro del NA (tacógrafo). De la pericia técnica se desprende que el vehículo se desplazaba, antes del MU, de forma intermitente a una velocidad lenta de hasta 9 km.h-1. En el intervalo de tiempo comprendido entre las 7:55:42 h y las 7:56:03 h se registra una velocidad nula, es decir, el tiempo en que el vehículo estaba detenido. A continuación sigue una breve aceleración hasta una velocidad de 9 km.h-1 y una parada, y otra aceleración hasta una velocidad de 7 km.h-1 y una parada a las 7:56:22 h. El siguiente registro de velocidad figura a las 7:56:33 h y es de 1 km.h-1 durante 4 s, lo que podría corresponder al impacto del tren Os 7153 contra el remolque del NA. Desde las 7:55:42 h hasta las 7:56:22 h, el NA recorrió 18 m. En este tiempo, lo más probable es que el NA entrara en el ámbito de la ŽP. Allí también se manifestó la avería técnica que su conductor intentó eliminar mediante la maniobra descrita en el capítulo 3.2.1. El conductor llegó aún a contactar con un colega y, a continuación, a salir de la cabina del conductor y correr en dirección al tren.
-Los datos indicados en la pericia técnica realizada para la PČR no son temporalmente pertinentes, ya que, al obtener el registro de datos de la unidad de a bordo, no se verificó la hora del sistema y las horas estimadas de producción del siniestro que se indican pueden diferir de las horas registradas por la unidad del NA. Estos dispositivos trabajan con una precisión mínima de la velocidad registrada de +/- 6 km.h-1, de acuerdo con los requisitos de los dispositivos de registro en el transporte por carretera establecidos por el Reglamento (UE) n.º 165/2014 y el n.º 3821/85. En lo que respecta a la hora de registro de las actividades y los acontecimientos, la unidad de a bordo puede desviarse de la hora real hasta en 20 minutos, sin que sea necesario realizar un nuevo ajuste de los valores.
+La DI, en el marco de la investigación, se centró también en el comportamiento de los participantes en el tráfico por carretera, concretamente en el conductor del NA y en el testigo que circulaba detrás de él. La PČR hizo evaluar, entre otros, los datos del dispositivo registrador del NA (tacógrafo). De la pericia técnica se desprende que el vehículo se desplazaba, antes de la MU, de forma intermitente a una velocidad lenta de hasta 9 km.h-1. En el intervalo comprendido entre las 7:55:42 h y las 7:56:03 h se registra una velocidad nula, es decir, el tiempo en que el vehículo estaba detenido. A continuación se produce una breve aceleración hasta una velocidad de 9 km.h-1 y detención, y otra aceleración hasta una velocidad de 7 km.h-1 y detención a las 7:56:22 h. El siguiente registro de velocidad figura a las 7:56:33 h y es de 1 km.h-1 durante 4 s, lo que podría corresponder al impacto del tren Os 7153 contra el remolque del NA. Desde las 7:55:42 h hasta las 7:56:22 h el NA recorrió 18 m. En este intervalo de tiempo probablemente se produjo la entrada del NA en el ámbito de la ŽP. Allí también se manifestó la avería técnica que su conductor intentó eliminar mediante la maniobra descrita en el capítulo 3.2.1. El conductor llegó aún a contactar con un colega y, a continuación, a salir de la cabina del conductor y correr en dirección al tren.
+Los datos figuran en la pericia técnica realizada para la PČR no son temporalmente relevantes, ya que en la obtención de la grabación de datos de la unidad de a bordo no se comprobó el sistema horario y los tiempos estimados de producción del accidente indicados pueden diferir de los tiempos registrados por la unidad del NA. Estos dispositivos trabajan con una precisión mínima de la velocidad registrada de +/- 6 km.h-1, de acuerdo con los requisitos de los dispositivos registradores en el transporte por carretera establecidos por el Reglamento (UE) nº 165/2014 y nº 3821/85. En lo que respecta al tiempo de registro de las actividades y de los acontecimientos, la unidad de a bordo puede desviarse del tiempo real hasta en 20 minutos, sin que sea necesario realizar un nuevo ajuste de los valores.
 Los hechos constatados que se derivan del registro del tacógrafo del NA son, por tanto, poco concluyentes para la DI; a partir de los datos registrados no es posible analizar de forma unívoca y totalmente precisa la marcha del NA hacia la ŽP y en la ŽP.
-De acuerdo con el § 6, apartado 3, de la Ley n.º 266/1994 Sb., cuando el cruce de una vía férrea con las vías de comunicación se realiza a nivel de las vías, el transporte ferroviario tiene prioridad sobre el tráfico en las vías de comunicación. En el § 22, apartado 4, de la misma ley se indica también que las personas que se encuentren en el ámbito de la vía están obligadas a velar por su seguridad, a atender a las instrucciones del gestor de la vía para garantizar la seguridad de las personas y la seguridad de la explotación de la vía y del transporte ferroviario, así como a las instrucciones para garantizar la protección de los bienes y el orden público, y están obligadas a abstenerse de todo aquello que pueda perturbar o poner en peligro la explotación de la vía y del transporte ferroviario, o que tenga como consecuencia la producción de daños en los componentes de la vía o en el vehículo ferroviario, o que perturbe el orden público.
-
+De acuerdo con el § 6, apartado 3, de la Ley nº 266/1994 Sb., en el cruce de una vía férrea con carreteras a nivel de las vías, el transporte ferroviario tiene prioridad sobre el tráfico en las carreteras. En el § 22, apartado 4, de la misma ley se indica también que las personas que se encuentren en el ámbito de la vía están obligadas a velar por su seguridad, a atender las instrucciones del gestor de la vía para garantizar la seguridad de las personas y la seguridad de la explotación de la vía y del transporte ferroviario, así como las instrucciones para garantizar la protección de la propiedad y el orden público, y están obligadas a abstenerse de todo lo que pueda perturbar o poner en peligro la explotación de la vía y del transporte ferroviario, o tener como consecuencia la producción de daños en los componentes de la vía o en el vehículo ferroviario, o perturbar el orden público.
 
 ## Página 38
+
 
 Los usuarios de la vía de comunicación deben, antes de un paso a nivel, de conformidad con el § 28, apartado 1, y el § 29, apartado 1, de la Ley n.º 361/2000 Sb., proceder con especial precaución y, en particular, deben asegurarse de que pueden cruzar el paso a nivel sin riesgo, sin que les sea permitido entrar en el paso a nivel si se está emitiendo la advertencia mediante dos luces rojas intermitentes alternas de la señal del dispositivo de enclavamiento del paso a nivel o mediante el sonido intermitente de su sirena o campana. Si el vehículo se detiene en el paso a nivel, su conductor, de conformidad con el § 28, apartado 4, de la Ley n.º 361/2000 Sb., debe retirar el vehículo fuera de la vía férrea y, si no puede hacerlo, debe actuar sin demora para que los conductores de los vehículos sobre raíles sean advertidos del peligro a tiempo.
 El conductor del NA, de conformidad con el § 28, apartado 4, de la Ley n.º 361/2000 Sb., hizo el esfuerzo de retirar el vehículo fuera de la vía férrea, por lo que no advirtió directamente ni mediante una llamada a la línea de emergencia del gestor de la vía (trasladó esta obligación a su colega, que circulaba justo detrás de él); sin embargo, al comprobar que la avería técnica le impedía hacerlo, intentó advertir al maquinista saliendo de la cabina y corriendo por la vía en sentido contrario al tren.
@@ -1168,19 +1165,18 @@ A31b junto con la señal A29 a una distancia de 168 m antes de la ŽP;
 •
 A31c a una distancia de 59 m antes de la ŽP.
 
-
 ## Página 39
 
-Fig. n.º 9: Señalización vial en el sentido de circulación desde la localidad de Bystřec
+Fig. n.º 9: Señalización vial en el sentido de la marcha desde la localidad de Bystřec
            Fuente: DI
-Las distancias de 80 m y 160 m no pueden cumplirse en este caso debido a la longitud de la salida lateral de la vertedera en explotación, a la que se une un estrecho puente sobre el río Orlice. La señal de tráfico A31a, por su parte, caería en el espacio de trabajo y en el paso por la cantera local.
-Los hallazgos indicados en relación con la señalización de tráfico no guardaban relación causal ni tuvieron influencia en la producción del MU, y fueron tratados con el gestor de la vía de comunicación, que comunicó a la DI que verificaría la situación.
-Fig. n.º 10: Señalización vial en el sentido de circulación desde la localidad de Jablonné
+Las distancias de 80 m y 160 m no pueden cumplirse en este caso debido a la longitud de la salida lateral de la vertedera en explotación, a la que se une un estrecho puente sobre el río Orlice. La señal de tráfico A31a queda entonces dentro del espacio de trabajo y del paso por la cantera local.
+Las observaciones indicadas relativas a la señalización de tráfico no guardaron relación causal ni tuvieron influencia en la aparición del MU y fueron tratadas con el gestor de la vía pública, que comunicó a la DI que verificaría la situación.
+Fig. n.º 10: Señalización vial en el sentido de la marcha desde la localidad de Jablonné
 nad Orlicí
            Fuente: DI
 
-
 ## Página 40
+
 
 Hallazgos:
 En la investigación se constató la infracción de normativa legal y de condiciones técnicas relativas a las funciones y obligaciones del gestor de la vía de comunicación, sin relación causal con la producción del MU:
@@ -1208,8 +1204,8 @@ En la investigación no se detectaron factores derivados de la construcción de 
 4.2.2 Factores o consecuencias derivados de la instalación y puesta en servicio de los vehículos ferroviarios, de la infraestructura ferroviaria o de la instalación técnica
 En la investigación no se detectaron factores derivados de la instalación y puesta en servicio de los vehículos ferroviarios, de la infraestructura ferroviaria o de la instalación técnica.
 
-
 ## Página 41
+
 
 ### 4.2.3 Factores o consecuencias relacionados con el fabricante de los vehículos ferroviarios u otro proveedor de productos ferroviarios
 En la investigación no se detectaron factores relacionados con el fabricante de los vehículos ferroviarios u otro proveedor de productos ferroviarios.
@@ -1224,6 +1220,7 @@ En el capítulo «Inspección técnica» se describe un listado de daños eviden
 
 ## Página 42
 
+
 por la declaración del conductor del camión. La deficiencia diferencial antes mencionada, relativa a la transmisión del par motor en el caso de que una de las ruedas motrices del vehículo patine, se elimina mediante el llamado bloqueo (cierre) del diferencial. Para bloquear el diferencial se utiliza, por ejemplo, un anillo deslizante, que se desplaza por las ranuras en uno de los ejes motrices de las ruedas de modo que, una vez insertado, une firmemente la jaula del diferencial con el engranaje planetario. De este modo, ni los satélites pueden girar y el diferencial queda fuera de servicio. Cuando patina una de las ruedas del eje motriz, se transmite entonces todo el par motor a la rueda que apoya sobre una superficie dura o rugosa, con lo que se desarrolla una fuerza motriz normalmente suficiente para liberar el vehículo. El conductor debe, sin embargo, desactivar el bloqueo del diferencial inmediatamente en cuanto el vehículo supere el punto difícil, porque de lo contrario el vehículo tendría características como sin diferencial. Al pasar el vehículo por una curva con el bloqueo del diferencial activo, la rueda interior del vehículo patinaría (las revoluciones de las ruedas son iguales), mientras que a la rueda exterior se le transmitiría, en el caso ideal, el par motor completo, lo que puede provocar, entre otros, la aparición de pares parásitos en el tren motriz con el consiguiente daño al diferencial o a los ejes motrices. El vehículo se aproximaba al lugar del accidente primero en una ligera pendiente descendente por una vía de servicio, la superficie de la calzada estaba formada por grava y una fina capa de nieve, en dirección al cruce con la carretera n.º II/311, por la que continuó a continuación hacia la derecha en dirección al PTF, en el que el conjunto de carga se detuvo como consecuencia del daño en el eje motriz izquierdo. El eje motriz del vehículo estaba equipado con bloqueo del diferencial.
 El daño en el eje motriz izquierdo pudo producirse durante la puesta en marcha del vehículo con la simultánea maniobra de giro a la derecha del conjunto de carga cargado hacia el espacio del PTF en el caso de que el bloqueo del diferencial estuviera activo. Según el manual del conductor del vehículo de la marca DAF, el bloqueo del diferencial solo puede utilizarse al circular por una superficie blanda o resbaladiza de la calzada, nunca sobre una superficie dura. Por la razón antes mencionada, sin embargo, el bloqueo del diferencial no debe utilizarse tampoco en el caso de que el vehículo pase por una curva. Puede concluirse, por tanto, que la causa del daño en el eje motriz izquierdo pudo ser un defecto material, cuya presencia no era posible descartar sobre la base de un análisis fractográfico más detallado debido al aplastamiento de la superficie de rotura del eje, o una técnica de conducción incorrecta del conductor en el caso de que, durante la puesta en marcha del vehículo con la simultánea maniobra de giro a la derecha del conjunto de carga cargado hacia el espacio de la vía, hubiera mantenido activado el bloqueo del diferencial...»
 En la conclusión del informe pericial se recogen las respuestas a las cuestiones técnicas formuladas, por ejemplo:
@@ -1231,22 +1228,22 @@ En la conclusión del informe pericial se recogen las respuestas a las cuestione
 «Evaluar el estado técnico del camión de la marca DAF, concretamente centrándose en la evaluación y diagnóstico del motor y de la caja de cambios a partir de los datos de la unidad de control del vehículo mencionado, su estado y funcionalidad en relación con la operación del vehículo y la producción del suceso del accidente.
 Respuesta: Mediante la inspección técnica realizada del estado técnico del vehículo dañado se verificó el estado técnico de los grupos seleccionados del vehículo. Sobre la base de los hechos constatados se evaluó el estado técnico del vehículo y se valoró la influencia de posibles defectos técnicos en la producción o el desarrollo del accidente de tráfico. Mediante la inspección técnica del estado técnico del vehículo no se detectaron defectos en el grupo Caja de cambios, distribuidor, ejes de transmisión articulados, la caja de cambios estaba funcional. Mediante la inspección técnica del estado técnico del vehículo se detectó daño en el grupo Ejes, suspensión de los ejes, concretamente en el eje motriz izquierdo, de carácter de avería súbita, que se produjo en un momento poco antes del accidente. El eje motriz no resultó dañado como consecuencia del accidente de tráfico en cuestión. Atendiendo a la naturaleza técnica del daño mencionado, puede constatarse que este correspondía en sus manifestaciones externas a la declaración del conductor del camión.
 
-
 ## Página 43
 
 •
-Determinar y verificar el estado técnico de la instalación de cableado y de las conexiones de contacto o de interconexión, incl. su fijación y estado (p. ej. corrosión en las conexiones, holgura en la interconexión, etc.) que van desde la unidad de control a la caja de cambios y de la caja de cambios al embrague.
-Respuesta: Mediante la inspección técnica del estado técnico del vehículo no se detectaron defectos en el grupo Caja de cambios, distribuidor, ejes de transmisión articulados, la caja de cambios estaba funcional. Por la razón indicada, se prescindió de la verificación del estado técnico del cableado, de las conexiones de contacto o de interconexión, incl. su fijación y estado, referentes al funcionamiento de la caja de cambios.
+Determinar y comprobar el estado técnico de la cableado y de las conexiones de contacto o de empalme, incl. su fijación y estado (p. ej. corrosión en las uniones, holgura en la conexión, etc.) que conducen desde la unidad de control a la caja de cambios y desde la caja de cambios al acoplamiento.
+Respuesta: Mediante la inspección técnica del estado técnico del vehículo no se detectaron defectos en el grupo Caja de cambios, distribuidor, ejes articulados; la caja de cambios estaba funcional. Por dicho motivo se prescindió de la comprobación del estado técnico del cableado, de las conexiones de contacto o de empalme, incl. su fijación y estado, referentes al funcionamiento de la caja de cambios.
 •
-Exponer otras circunstancias importantes que el perito considere relevante comunicar para el adecuado esclarecimiento del accidente de tráfico.
-Respuesta: La causa del daño en el eje motriz izquierdo pudo ser un defecto material, cuya presencia no era posible descartar sobre la base de un análisis fractográfico más detallado debido al aplastamiento de la superficie de rotura del eje, o una técnica de conducción incorrecta del conductor en el caso de que, durante la puesta en marcha del vehículo con la simultánea maniobra de giro a la derecha del conjunto de carga cargado hacia el espacio de la vía, hubiera mantenido activado el bloqueo del diferencial. En las imágenes que recogen el estado del panel de instrumentos combinados en el momento de la inspección del vehículo por parte de los agentes de la Policía Nacional Checa, el indicador del bloqueo del diferencial no figuraba como activo y tampoco de la declaración del conductor se desprende que hubiera manipulado el bloqueo de alguna manera.
-El hecho que reducía la precisión de la conclusión del informe pericial fue, especialmente en el caso de la valoración de la presencia de un defecto material en el eje motriz izquierdo, la circunstancia de que no era posible, debido al aplastamiento de la superficie de rotura del eje, realizar un análisis fractográfico más detallado, sobre cuya base sería posible descartar el defecto material del eje.»
-En la investigación no se detectaron otros factores relacionados con los vehículos ferroviarios, la infraestructura ferroviaria o las instalaciones técnicas.
-Fig. n.º 11: Daño en el eje motriz izquierdo del tractocamión NA
-         Fuente: Policía Nacional Checa
-
+Indicar otras circunstancias importantes que el perito considere relevante comunicar para el correcto esclarecimiento del accidente ferroviario.
+Respuesta: La causa del daño en el eje motriz izquierdo pudo ser un defecto material, cuya presencia no era posible excluir sobre la base de un análisis fractográfico más detallado debido al aplastamiento de la superficie de fractura del eje, o una técnica de conducción incorrecta del conductor en el caso de que, al arrancar el vehículo con la consiguiente inclinación de la composición de carga cargada hacia la derecha en el espacio de la vía, hubiera mantenido activado el bloqueo del diferencial. En las imágenes que recogen el estado del panel de instrumentos combinados en el momento de la inspección del vehículo por parte de los miembros de la Policía Nacional (PČR), el indicador del bloqueo del diferencial no estaba documentado como activo, y tampoco de la declaración del conductor se dedujera que hubiera manipulado el bloqueo de alguna manera.
+El hecho que reducía la precisión de la conclusión del dictamen pericial fue, especialmente en el caso de la evaluación de la presencia del defecto material del eje motriz izquierdo, la situación en la que no era posible, debido al aplastamiento de la superficie de fractura del eje, realizar un análisis fractográfico más detallado, sobre cuya base habría sido posible excluir el defecto material del eje."
+En la investigación no se detectaron otros factores relacionados con los vehículos ferroviarios, la infraestructura ferroviaria o los dispositivos técnicos.
+Fig. n.º 11: Daño en el eje motriz izquierdo del tractor NA
+         Fuente: PČR
 
 ## Página 44
+
+
 Del informe se deduce que la razón del atasco del NA en el espacio del PTF fue el daño en el eje motriz izquierdo. La causa de esta avería pudo ser un defecto material, cuya presencia no era posible descartar sobre la base de un análisis fractográfico más detallado debido al aplastamiento de la superficie de rotura del eje.
 El conductor del NA, tras detenerse en el espacio del PTF, desconocía su causa y tuvo que probar y evaluar primero si era posible retirar el vehículo del paso a nivel. Intentó hacerlo, y tampoco podía saber cuándo llegaría el tren. Por esta razón y, sobre todo, por la consiguiente urgencia temporal, el conductor del NA atascado intentó al menos advertir al maquinista corriendo hacia él y agitando la mano en sentido contrario a la marcha del tren Os 7153.
 ### 4.3 Factores humanos
@@ -1267,8 +1264,8 @@ Las condiciones pertinentes del marco regulatorio están establecidas en los Reg
 4.4.2 Procedimientos, métodos, contenido y resultados de las actividades de evaluación de riesgos y seguimiento realizadas por cualquiera de los sujetos implicados
 En los procedimientos, métodos, contenido y resultados de las actividades de evaluación de riesgos y seguimiento, relacionados con las circunstancias de producción de la MU en cuestión, no se detectaron deficiencias.
 
-
 ## Página 45
+
 
 ### 4.4.3 Sistema de garantía de seguridad de los transportistas y gestores de infraestructura implicados
 En el sistema de garantía de seguridad adoptado por el gestor de infraestructura y el transportista, relacionado con las circunstancias de producción de la MU en cuestión, no se detectaron deficiencias.
@@ -1285,6 +1282,7 @@ En el marco de la declaración prestada, se formularon al conductor del NA y al 
 Dado que no es posible determinar con total exactitud la hora a la que el NA quedó detenido en el PTF P4073, pero todo sucedió evidentemente con gran rapidez, puede compartirse la afirmación del conductor del segundo NA, recogida en su declaración prestada. En ella indicó que a las 7:55 h intentó llamar al número de información de ČD y que, tras menos de un minuto, se produjo la activación del PZZ. Esto concuerda también con el análisis del archivo del dispositivo de registro del PZZ del PTF P4073, con el que se constató que, en el periodo anterior a la producción de la MU, se inició la emisión de la advertencia luminosa y sonora (con intermitencia roja
 
 ## Página 46
+
 
 luz ligada a la alarma sonora) a las 7:55:46 h. A continuación, a las 7:56:07, se produjo la orden de bajar las barreras.
 Al bajar, un travesaño se apoyó en el tractocamión NA. Debido a que no se alcanzó la posición inferior del travesaño de la barrera, el SZZ en la PZZ evaluó a las 7:56:15 h un estado de emergencia. A continuación, a las 7:56:37 h, el tren pasó sobre el sensor del contador de ejes situado justo antes del paso a nivel.
@@ -1308,8 +1306,8 @@ del 8. 5. 2018 entre la aguja de Cejřov
  Chrast u Chrudimi
  , donde se produjo la colisión del tren Os 5340 con un remolque (una máquina agrícola – un pulverizador) en el paso a nivel P5321. La causa inmediata de la MU fue el atasco
 
-
 ## Página 47
+
 
 del remolque en el área del paso a nivel P5321, tras haberse desprendido previamente del tractor y haberse desplazado por sí mismo hasta el área del paso a nivel;
 •
@@ -1345,29 +1343,28 @@ La BD se emitió en relación con la investigación de la MU del 15. 3. 2014, cu
 •
 ampliar, mediante el contenido de la normativa que regula las reglas de circulación en las vías públicas, la obligación de los participantes en la circulación en dichas vías de conocer la ubicación de los números de identificación uniforme de los pasos a nivel y su uso al detectar una amenaza a la seguridad del transporte ferroviario en un paso a nivel;
 
-
 ## Página 48
 
 •
-aumentar la concienciación pública sobre la ubicación de los números de identificación uniforme de los pasos a nivel en los pasos a nivel, su propósito y forma de uso.
-En relación con lo anterior, la DI se dirigió al MD mediante el oficio Ref.: 240/2017/DI de fecha 3. 4. 2017 solicitando una respuesta por escrito sobre la forma en que el MD había dado cumplimiento a la BD emitida, a la que el MD respondió mediante el oficio Ref. 4/2017-130-OST/10 de fecha 12. 5. 2017. En el oficio, el MD indica, entre otras cosas, que la división de transporte ferroviario y por agua se dirigió a las unidades materiales y especializadas correspondientes solicitando un pronunciamiento parcial sobre la cuestión de la seguridad en los pasos a nivel, respectivamente, sobre las recomendaciones concretas antes mencionadas por parte de la Inspección Ferroviaria:
-«La sección BESIP está actualmente abordando, en colaboración con el Centro de Investigación del Transporte y los representantes del Ministerio de Transporte, un proyecto titulado "Análisis de la resolución de situaciones de crisis en los pasos a nivel". El objetivo del proyecto es mejorar sustancialmente los conocimientos de los conductores, los peatones y el público en general sobre el funcionamiento de los pasos a nivel y los procedimientos correctos en situaciones de riesgo o de crisis. Los resultados del proyecto deberían ser los siguientes:
-Análisis de la sinestralidad en los pasos a nivel (utilizando datos de la Policía de la CR, la Inspección Ferroviaria, análisis profundos de accidentes, datos internacionales ILCAD y ELCF, comparación con países seleccionados). El mismo incluirá un análisis de las causas de la alta sinestralidad de los conductores profesionales extranjeros en los pasos a nivel de la CR y propuestas para su resolución.
-Comparación de las reglas de circulación en los pasos a nivel y de los métodos de aseguramiento de los pasos a nivel en países europeos seleccionados, presentación de las diferencias relevantes que pueden ser arriesgadas desde el punto de vista del comportamiento (trampas y estados operativos inesperados, posible fuente de situaciones de crisis).
-Creación de breves anuncios fílmicos de una duración total de hasta 5 minutos que describan situaciones de crisis seleccionadas en los pasos a nivel con instrucciones para su resolución.»
-En el oficio del MD se indica además: «La finalización del proyecto está prevista para el mes de noviembre de 2017, a continuación se llevará a cabo la divulgación de los resultados antes mencionados no solo en las páginas web del Ministerio de Transporte, la sección BESIP y el Centro de Investigación del Transporte, sino también en las redes sociales. La divulgación de esta cuestión también se presentará en el marco de la actividad de los coordinadores regionales de BESIP a nivel regional.»
-En relación con la presente MU, la DI remitió al MD un acuerdo en el que solicitó una respuesta por escrito sobre cómo el MD había aplicado concretamente las BD antes mencionadas, solicitando principalmente información:
-- sobre cómo se había incorporado y en qué normativa relativa a la circulación en las vías públicas la obligación de informar a los conductores de vehículos automóviles sobre la ubicación y el significado de la señalización de los pasos a nivel, haciendo referencia a la posibilidad de su utilización en caso de aparición de situaciones peligrosas en el área del paso a nivel:
+ampliar la concienciación del público sobre la ubicación de los números de identificación única de los pasos a nivel ferroviarios en los pasos a nivel ferroviarios, su propósito y su forma de uso.
+En relación con lo anterior, la DI se dirigió al MD con la carta n.º ref. 240/2017/DI de fecha 3. 4. 2017 solicitando una declaración por escrito sobre la forma en que el MD había aplicado las BD emitidas, a la que el MD respondió con la carta n.º ref. 4/2017-130-OST/10 de fecha 12. 5. 2017. En la carta, el MD, entre otras cosas, indica que el departamento de transporte ferroviario y acuático se dirigió a las unidades materiales y especializadas correspondientes solicitando un pronunciamiento parcial sobre la cuestión de la seguridad en los pasos a nivel ferroviarios, respectivamente, sobre las recomendaciones concretas arriba mencionadas por parte de la Inspección Ferroviaria:
+«El departamento BESIP está actualmente, en colaboración con el Centro de Investigación del Transporte y representantes del Ministerio de Transporte, abordando un proyecto titulado – "Análisis de la resolución de situaciones de crisis en los pasos a nivel ferroviarios". El objetivo del proyecto es mejorar sustancialmente los conocimientos de los conductores, peatones y del público en general sobre el funcionamiento de los pasos a nivel ferroviarios y los procedimientos correctos en situaciones de riesgo o de crisis. Los resultados del proyecto deberían ser los siguientes:
+Análisis de la sinestralidad en los pasos a nivel ferroviarios (utilizando datos de la Policía de la República Checa, de la Inspección Ferroviaria, análisis en profundidad de accidentes, datos internacionales ILCAD y ELCF, comparación con países seleccionados). Ello incluirá un análisis de las causas de la alta sinestralidad de los conductores profesionales extranjeros en los pasos a nivel de la República Checa y propuestas para su resolución.
+Comparación de las normas de explotación en los pasos a nivel ferroviarios y de los métodos de aseguramiento de los pasos a nivel en países europeos seleccionados, presentación de las diferencias relevantes que puedan ser arriesgadas desde el punto de vista del comportamiento (trampas y estados operativos inesperados, posible origen de situaciones de crisis).
+Elaboración de breves anuncios fílmicos con una duración total de hasta 5 minutos que describan situaciones de crisis seleccionadas en los pasos a nivel ferroviarios con instrucciones para su resolución.»
+En la carta del MD se indica además: «La finalización del proyecto está prevista para el mes de noviembre de 2017, a continuación se llevará a cabo la divulgación de los resultados arriba mencionados no solo en las páginas web del Ministerio de Transporte, del departamento BESIP y del Centro de Investigación del Transporte, sino también en las redes sociales. La divulgación de esta cuestión también se presentará en el marco de la actividad de los coordinadores regionales de BESIP a nivel regional.»
+En relación con la MU en cuestión, la DI remitió al MD una resolución en la que solicitó una declaración por escrito sobre cómo el MD había aplicado concretamente las BD arriba mencionadas, en particular información:
+- sobre cómo se incorporó y en qué normativa jurídica relativa a la explotación en las vías públicas la obligación de informar a los conductores de vehículos sobre la ubicación y el significado de la señalización de los pasos a nivel ferroviarios, haciendo referencia a la posibilidad de su utilización en caso de que se produzcan situaciones de peligro en el ámbito del paso a nivel ferroviario:
 •
-a todos los solicitantes del permiso de conducir – acreditar que se había establecido en los programas de estudio o de otra forma para la formación de los conductores en las autoescuelas;
+a todos los solicitantes del permiso de conducir – acreditar que esto se estableció en los programas de estudios o de otra manera para la formación de los conductores en las autoescuelas;
 •
-a todos los titulares del permiso de conducir en la formación en competencia profesional – acreditar que se había establecido en los programas de dicha formación.
-El MD respondió mediante el oficio de fecha 31. 8. 2022, Ref.: MD-26760/2022-130/4, en el que, sobre la solicitud de la DI, comunicó lo siguiente: 
+a todos los titulares del permiso de conducir en la formación sobre competencia profesional – acreditar que esto se estableció en los programas de dichas formaciones.
+El MD respondió con la carta de fecha 31. 8. 2022, n.º ref.: MD-26760/2022-130/4, en la que, en relación con la petición de la DI, comunicó lo siguiente:
 ...
-«División de asuntos de los conductores:
-
+«Departamento de asuntos de los conductores:
 
 ## Página 49
+
 
 Las recomendaciones propuestas por la Inspección Ferroviaria, de competencia de la división de asuntos de los conductores, ya son contenido de las disposiciones correspondientes de la Ley núm. 361/2000 Sb. (§ 4 ap. b) y c), § 28, § 29), del decreto núm. 167/2002 Sb. (§ 19 ap. 2 ap. a) punto 2) y del decreto núm. 156/2008 Sb. (§ 2 ap. 1 ap. e). Las medidas propuestas por la Inspección Ferroviaria sobre la cuestión de los pasos a nivel son, atendiendo al texto de las disposiciones de la normativa antes citada, también contenido de las preguntas de aplicación de eTesty. Con base en lo anterior, la división de asuntos de los conductores constata que las recomendaciones propuestas por la Inspección Ferroviaria duplican las disposiciones de la normativa vigente relativa a la enseñanza, la formación y la realización de exámenes en el ámbito de las reglas de circulación vial, la obtención y la posterior mejora de la competencia profesional de los conductores. La división de asuntos de los conductores, en relación con la solicitud recibida, concluye constatando que hasta la fecha no ha registrado ninguna aportación ni estudio que evidencie el hecho de que a los conductores no les quede claro cómo comportarse al cruzar los pasos a nivel.
 Sección independiente BESIP:
@@ -1386,32 +1383,34 @@ BESIP - Pasos a nivel
 ## Página 50
 
 BESIP - Pasos a nivel ferroviarios - sabemos dónde fueron más fatales las consecuencias de los accidentes
-BESIP - Aumento del quinto en las colisiones con tren en los pasos a nivel ferroviarios
+BESIP - Aumento quintuple de colisiones con tren en los pasos a nivel ferroviarios
 BESIP - En los pasos a nivel ferroviarios no mueren solo los conductores
-Las actividades relacionadas con el tema en cuestión fueron, en los años siguientes:
-a) En 2018 se realizaron otras actividades de prevención de accesos no autorizados de personas al espacio ferroviario bajo el título «Accesos no autorizados de personas al espacio ferroviario: posibilidades de divulgación de determinados grupos de riesgo».
-b) En 2019 se publicó el documento «Pasos a nivel ferroviarios – Accidentes de tráfico y sus consecuencias» con el objetivo de crear, en forma de gráficos comentados, el material básico de la sección BESIP relativo a las estadísticas nacionales de accidentes de tráfico en los pasos a nivel ferroviarios y sus consecuencias, principalmente en el ámbito de las personas fallecidas y heridas...»
+Las actividades relacionadas con el tema en cuestión en los años posteriores fueron:
+a) En 2018 se llevaron a cabo otras actividades de prevención de accesos no autorizados de personas al espacio ferroviario bajo el nombre de «Accesos no autorizados de personas al espacio ferroviario: posibilidades de divulgación de determinados grupos de riesgo».
+b) En 2019 se publicó el documento «Pasos a nivel ferroviarios – Accidentes de tráfico y sus consecuencias» con el objetivo de crear, en forma de gráficos comentados, un material básico del departamento BESIP relativo a las estadísticas nacionales de accidentes de tráfico en los pasos a nivel ferroviarios y sus consecuencias, principalmente en el ámbito de personas fallecidas y heridas...»
 ### 5 CONCLUSIONES
 ### 5.1 Resumen del análisis y conclusiones relativas a las causas del suceso
-La causa inmediata del suceso extraordinario fue:
+La causa inmediata del suceso excepcional fue:
 •
 el atasco de un camión, causado por una avería técnica repentina e inesperada, en el perfil de paso de la vía en un paso a nivel ferroviario y su no retirada antes de la llegada del tren.
-No fue detectado por la Inspección Ferroviaria ningún factor contribuyente.
-No fue detectado por la DI ninguna causa sistémica.
+No se detectó ningún factor contribuyente por parte de la Inspección Ferroviaria.
+No se detectó ninguna causa sistémica por parte de la DI.
 ### A summary of the analysis and conclusions with regard to the causes of the
 occurrence
 Causal factor:
 •
-the lorry got stuck at loading gauge at the level crossing No. P4073 and it was not remove before the regional passenger train No. 7153 was arriving, caused by unexpected technical failure of the lorry.
+the lorry got stuck at loading gauge at the level crossing No. P4073 and it was not remove before the regional passenger train No. 7153 was arriving, caused by
+unexpected technical failure of the lorry.
 Contributing factor: none.
 Systemic factor: none.
-### 5.2 Medidas adoptadas para la prevención de sucesos extraordinarios
-El gestor de la infraestructura SŽ y el operador ferroviario LET no adoptaron ni emitieron ninguna medida.
+### 5.2 Medidas adoptadas para la prevención de sucesos excepcionales
+El gestor de la infraestructura SŽ y el operador ferroviario LET no adoptaron ni publicaron ninguna medida.
 ### Measures taken since the occurrence
-The infrastructure manager SŽ and the railway undertaking LET did not take any measures.
-
+The infrastructure manager SŽ and the railway undertaking LET did not take any
+measures.
 
 ## Página 51
+
 
 ### 5.3 Observaciones complementarias
 En la Administración y mantenimiento de carreteras de la Región de Pardubice:
@@ -1433,8 +1432,8 @@ director
 De la Inspección Territorial de Brno
 De la Inspección Territorial de Brno
 
-
 ## Página 52
+
 
 ### ANEXOS
 Fig. n.º 12: Vista del lugar del suceso extraordinario

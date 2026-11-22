@@ -12,8 +12,8 @@ tokens_in: 36600
 tokens_out: 24156
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-verificacion: revisar
-avisos: ["página 7: ratio 1.90", "página 13: ratio 1.85"]
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (HR)", "página 6: original bilingüe: se compara contra el idioma principal (EN)", "página 7: original bilingüe: se compara contra el idioma principal (EN)", "página 8: original bilingüe: se compara contra el idioma principal (HR)", "página 13: original bilingüe: se compara contra el idioma principal (HR)", "página 26: original bilingüe: se compara contra el idioma principal (HR)"]
 ---
 
 ## Página 1
@@ -211,26 +211,37 @@ La causa directa del accidente en cuestión es el descarrilamiento del remolque 
 
 ## Página 7
 
-Factores contribuyentes:
-- incumplimiento de los procesos de trabajo prescritos del operador interno de trenes en explotación (capítulos 3.6 y 4.1),
-- incumplimiento de los procesos de trabajo prescritos del operador externo en explotación (capítulos 3.6.4, 3.6.5 y 4.4),
-- incumplimiento de los procesos de trabajo prescritos por el conmutador de servicio del bloque II (capítulos 3.6.4, 3.6.5 y 4.4),
-- incumplimiento de los procesos de trabajo prescritos por el maquinista del tren implicado (capítulo 3.6).
-
-Factores organizativos:
-- salida del tren incluido desde la vía que no está prescrita de acuerdo con el Reglamento de Procedimiento de la Estación (capítulo 3.6),
-- intercambio de información entre el operador interno de trenes y el operador externo de trenes (capítulos 3.6.4, 3.6.5 y 4.4),
-- intercambio de información entre el operador interno de trenes y el conmutador del bloque II (capítulos 3.6.4, 3.6.5 y 4.4).
-
-### Recomendaciones de seguridad
-La Agencia de Investigación de Accidentes en el Transporte Aéreo, Marítimo y Ferroviario, basándose en la investigación llevada a cabo de este accidente, con el fin de mejorar la seguridad del sistema ferroviario, emite la siguiente recomendación de seguridad a la Agencia de Seguridad del Transporte Ferroviario:
-
-AIN/06 SR 01/2021: Las empresas ferroviarias deben prestar más atención a los procedimientos prescritos para la salida y el paso de los trenes en las estaciones y estaciones intermedias durante la formación periódica del personal mecánico.
-
-### 2. DATOS SOBRE EL INCIDENTE
-## 2.1.
-### Descripción del incidente
-El día 20 de marzo de 2020, el tren número 3300 circulaba por la línea Varaždin-Kotoriba. Al llegar a la estación de Čakovec, debido a la ocupación de la vía 2. (segunda) (vía prescrita por el Reglamento de Procedimiento de la Estación), se le asignó la vía 1. (primera) de la estación. A las 07:08 horas se autorizó al tren número 3300 en la estación de Čakovec para salir con destino a Čakovec – Kotoriba por la línea identificada como M501, mientras que el punto de desvío número 18. se encontraba en posición de circulación "en línea recta" y lo dirigía hacia la vía 21. (muerta). En la vía número 21. (vía muerta), como protección contra la circulación peligrosa, se había colocado un desvío de seguridad identificado como I-3. El tren número 3300 superó el punto de desvío número 18., y el maquinista en ese momento se dio cuenta de que se dirigía a la vía 21. (muerta) y aplicó el frenado de emergencia; el tren no logró detenerse antes del desvío de seguridad identificado como I-3, y en el PK 060+983 se produjo el descarrilamiento del tren, es decir, del DMG 7 121 028. En el accidente descarriló el remolque del DMG 4 121 028, parte del conjunto de viajeros 7 121 028, con el segundo eje del primer bogie giratorio sobre el desvío de seguridad identificado como I-3 en la vía 21. (muerta). El tren se detuvo a 22 metros del desvío de seguridad identificado como I-3. En el momento del accidente, había 5 pasajeros a bordo del tren.
+Factores contribuyentes: 
+- 
+incumplimiento de los procesos de trabajo prescritos del operador ferroviario interno 
+(capítulos 3.6 y 4.1), 
+- 
+incumplimiento de los procesos de trabajo prescritos del operador externo (capítulos 
+3.6.4, 3.6.5 y 4.4), 
+- 
+incumplimiento de los procesos de trabajo prescritos del cambiador de servicio del bloque II (capítulos 
+3.6.4, 3.6.5 y 4.4), 
+- 
+incumplimiento de los procesos de trabajo prescritos por parte del maquinista implicado (capítulo 3.6). 
+Factores organizativos:  
+- 
+salida del tren incluido de la vía que no está prescrita de acuerdo con el Reglamento de Estación (capítulo 3.6), 
+- 
+intercambio de información entre el operador ferroviario interno y el operador ferroviario externo (capítulos 3.6.4, 
+3.6.5 y 4.4), 
+- 
+intercambio de información entre el operador ferroviario interno y el cambiador del bloque II (capítulos 3.6.4, 
+3.6.5 y 4.4). 
+### Recomendaciones de seguridad 
+La Agencia de Investigación de Accidentes en el Transporte Aéreo, Marítimo y Ferroviario, con base en la 
+investigación realizada de este accidente, con el fin de mejorar la seguridad del sistema ferroviario, emite la siguiente 
+recomendación de seguridad a la Agencia de Seguridad del Transporte Ferroviario: 
+AIN/06 SR 01/2021:  Las empresas ferroviarias deberían prestar más atención a los procedimientos prescritos para la 
+salida y el paso de trenes en estaciones y estaciones intermedias durante la formación regular del personal mecánico. 
+### 2. DATOS DEL HECHO 
+## 2.1. 
+### Descripción del hecho 
+El 20 de marzo de 2020 el tren número 3300 circulaba en el tramo Varaždin-Kotoriba. Al llegar a la estación de Čakovec, debido a la ocupación de la 2.ª (segunda) vía (vía prescrita por el Reglamento de Estación), fue recibido en la 1.ª (primera) vía de la estación. A las 07:08 horas se dio salida al tren número 3300 en la estación de Čakovec en dirección Čakovec – Kotoriba en la línea de identificación M501, mientras que el desvío número 18. se encontraba en posición de circulación "en dirección" y conducía a la 21.ª (ciega) vía. En la vía número 21. (vía ciega) como protección contra la circulación peligrosa se había colocado un trampolín de identificación I-3. El tren número 3300 pasó el desvío número 18. y el maquinista en ese momento se percató de que iba hacia la 21.ª (ciega) vía y accionó el frenado rápido; el tren no logró detenerse antes del trampolín de identificación I-3, y en el mismo, en el PK 060+983, se produce el descarrilamiento del tren, es decir, del DMG 7 121 028. En el accidente descarriló el remolque del DMG 4 121 028, parte del conjunto de pasajeros 7 121 028, con el segundo eje del primer bogie de giro en el trampolín de identificación I-3 en la 21.ª (ciega) vía. El tren se detuvo a 22 metros del trampolín de identificación I-3. En el momento del accidente se encontraban en el tren 5 pasajeros.
 
 ## Página 8
 
@@ -326,28 +337,22 @@ Era un día soleado, la temperatura del aire era de 50 °C y la visibilidad era 
 
 ## Página 13
 
-### 3. REGISTROS DE INVESTIGACIÓN Y ANÁLISIS 
-## 3.1. 
-### Fuentes de prueba 
-- 
-actas de la inspección ocular realizadas por los investigadores de la AIN, 
-- 
-registros de las declaraciones a los participantes y testigos, 
-- 
-datos proporcionados por el Gestor de la Infraestructura y el Transportista Ferroviario, 
-- 
-registros procedentes del vehículo ferroviario, 
-- 
-documentación relativa a los vehículos ferroviarios, 
-- 
-documentación relativa a la infraestructura. 
-## 3.2. 
-### Inspección ocular  
-Tras recibir la notificación del despachador principal de la GI, los investigadores de accidentes ferroviarios de la AIN se desplazaron al lugar del suceso para realizar la inspección ocular. 
-Al llegar al lugar del accidente en la estación de Čakovec, se encontró el tren de pasajeros número 3300, compuesto por el conjunto motor diésel DMG 7121-028 y el remolque 4121-028, que se había salido de las vías en el desvío marcado con la designación I-3 en la vía 21. (muerta). El remolque del DMG 4 121 028, parte del conjunto de pasajeros 7 121 028, con el segundo bogie del primer conjunto rodante, se había salido de las vías en el desvío marcado con la designación I-3 en la vía 21. (muerta). La ruta prevista para el tren de pasajeros número 3300 era hacia la estación de Kotoriba, es decir, desde la vía 1, a través del punto de cruce número 18. (posición de desvío) hacia la vía número 2, y las agujas número 19. y número 22., continuando hacia la vía para la dirección Kotoriba. 
-En el lugar del suceso se realizó una inspección detallada con el fin de buscar rastros, marcarlos y medir las distancias recorridas. 
-El tren recorrió una distancia de 155 metros desde el punto de inicio del movimiento hasta el punto de detención del frontal del tren. Desde el desvío marcado con la designación I-3 hasta el punto de detención del frontal del tren se midieron 22 metros, y desde la punta de la aguja del punto de cruce número 18. (Figura 5.) hasta el punto de detención del frontal del tren se midieron 74 metros. 
-Mediante la inspección de la posición y el estado del punto de cruce número 18., que se encontraba en la ruta de circulación del tren 3300, se determinó que el punto de cruce número 18. estaba situado en la posición «en línea recta» y que no se había colocado para la ruta prevista hacia la estación de Kotoriba.
+### 3. REGISTROS DE INVESTIGACIÓN Y ANÁLISIS
+## 3.1.
+### Fuentes de pruebas
+- inspección de los investigadores de la AIN,
+- registros de las declaraciones de los participantes y testigos,
+- datos del Gestor de la infraestructura y del transportista ferroviario,
+- registros del vehículo ferroviario,
+- documentación sobre los vehículos ferroviarios,
+- documentación sobre la infraestructura.
+## 3.2.
+### Inspección
+Tras recibir el aviso por parte del jefe de despacho del GI, los investigadores de accidentes ferroviarios de la AIN se desplazaron al lugar de los hechos para realizar la inspección.
+Al llegar al lugar del accidente, en la estación de Čakovec, se encontró el tren de pasajeros número 3300, compuesto por la unidad diésel DMG 7121-028 y el remolque 4121-028, que se había descarrilado en la rampa de descarrilamiento designada I-3 en la vía 21. (ciega). Descarriló el remolque del DMG 4 121 028, parte de la unidad de pasajeros 7 121 028, con el segundo eje del primer bogie en la rampa de descarrilamiento designada I-3 en la vía 21. (ciega). El itinerario previsto para el tren de pasajeros número 3300 era en dirección a la estación de Kotoriba, es decir, desde la vía 1 a través de la aguja número 18. (posición en desvío) a la vía número 2, y a continuación a través de la aguja número 19. y la número 22. hasta la vía en dirección a Kotoriba.
+En el lugar de los hechos se realizó un examen detallado con el fin de encontrar rastros, marcar rastros y medir las distancias recorridas.
+El tren recorrió un trayecto de 155 metros desde el lugar de partida hasta el lugar de parada de la cabeza del tren. Desde la rampa de descarrilamiento designada I-3 hasta el lugar de parada de la cabeza del tren se midieron 22 metros, y desde la punta de la lengüeta de la aguja número 18. (Imagen 5.) hasta el lugar de parada de la cabeza del tren se midieron 74 metros.
+Tras examinar la posición y el estado de la aguja número 18., que se encontraba en el recorrido del tren 3300, se determinó que la aguja número 18. estaba colocada en la posición «en dirección» y que no estaba colocada para el itinerario previsto en dirección a la estación de Kotoriba.
 
 ## Página 14
 

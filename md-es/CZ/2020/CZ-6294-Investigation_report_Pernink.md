@@ -10,13 +10,14 @@ chars: 138762
 ratio_longitud: 1.25
 tokens_in: 80870
 tokens_out: 57736
-verificacion: revisar
-notas_cifras: ["bloque 2: original bilingüe: se compara contra el idioma principal (CS)", "bloque 4: original bilingüe: se compara contra el idioma principal (CS)", "bloque 5: original bilingüe: se compara contra el idioma principal (CS)", "bloque 6: original bilingüe: se compara contra el idioma principal (CS)", "bloque 7: cifras cortas: 1/112", "bloque 8: original bilingüe: se compara contra el idioma principal (CS)"]
-avisos: ["bloque 5: ratio 1.80", "bloque 6: ratio 1.72", "bloque 8: ratio 1.65", "bloque 9: ratio 1.62"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 4: original bilingüe: se compara contra el idioma principal (CS)", "página 7: original bilingüe: se compara contra el idioma principal (CS)", "página 8: original bilingüe: se compara contra el idioma principal (CS)", "página 13: original bilingüe: se compara contra el idioma principal (PT)", "página 14: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -39,13 +40,13 @@ IČ: 75009561
 mail@dicr.cz
 tel.: +420 736 521 003
 
-
 ## Página 2
+
 
 Este informe final es público y todos los hechos en él expuestos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ### 1 RESUMEN
 Fuente: Drážní inspekce
@@ -68,23 +69,38 @@ incumplimiento de la obligación de notificación por parte del maquinista del t
 •
 D3 Pernink, no esperar la llegada del tren que circulaba en sentido contrario, no solicitar el permiso de salida del tren y su salida no autorizada al sector de vía ocupado por el tren Os 17110.
 
-
 ## Página 4
 
 Factor contribuyente:
-ausencia de un dispositivo técnico (de seguridad) que eliminara el posible fallo
+ausencia de un dispositivo técnico (de señalización) que eliminara el posible fallo
 •
-del factor humano en interés de la explotación segura de la vía y del transporte ferroviario.
-No se ha determinado por parte de la Drážní inspekce ninguna causa en el sistema de seguridad.
+del factor humano en interés de la explotación segura de la vía y del transporte
+ferroviario.
+No se ha detectado ninguna causa en el sistema de seguridad por parte de la
+Inspección Ferroviaria.
 Recomendaciones de seguridad:
-La Drážní inspekce, en virtud de lo dispuesto en el § 53e apartado 1 de la Ley nº 266/1994 Sb., recomienda, en relación con la prevención de sucesos excepcionales:
-Al Drážní úřad:
-en el marco de su actividad como autoridad nacional de seguridad, la adopción de medidas que,
-•
-teniendo en cuenta ya los elementos del dispositivo de seguridad aplicados en la línea Karlovy Vary dolní nádraží – Potůčky státní hranice, en el tramo Nejdek – Potůčky státní hranice, como una de las variantes propuestas en el «Concepto de aumento de la seguridad en las líneas con gestión simplificada del tráfico ferroviario» del gestor de la infraestructura Správa železnic, státní organizace, garanten la evaluación y la realización de las distintas variantes, incluido el calendario establecido, tanto en las líneas D3 seleccionadas según el «Concepto de aumento de la seguridad en las líneas con gestión simplificada del tráfico ferroviario» como en las demás líneas de la red ferroviaria de la R.C., en las que actualmente el transporte ferroviario se organiza con gestión simplificada, con el objetivo de aumentar el nivel de seguridad de la circulación de los vehículos ferroviarios.
+La Inspección Ferroviaria, con base en lo dispuesto en el § 53e apartado 1 de la
+Ley n.º 266/1994 Sb., recomienda, en relación con la prevención de sucesos
+extraordinarios:
 
+Al Organismo Ferroviario:
+•
+en el marco de su actividad como autoridad nacional de seguridad, la adopción de
+medidas que, también teniendo en cuenta los elementos de señalización ya
+aplicados en la línea Karlovy Vary dolní nádraží – Potůčky státní hranice, en el
+tramo Nejdek – Potůčky státní hranice, como una de las variantes propuestas de
+la «Concepto de aumento de la seguridad en líneas con gestión simplificada del
+transporte ferroviario» del explotador de la vía Správy železnic, organización
+estatal, garantice la evaluación y la realización de las distintas variantes,
+incluido el calendario establecido, tanto en las líneas D3 seleccionadas según
+el «Concepto de aumento de la seguridad en líneas con gestión simplificada del
+transporte ferroviario» como en las demás líneas de la red ferroviaria de la
+República Checa, en las que actualmente el transporte ferroviario se organiza
+con gestión simplificada, con el objetivo de aumentar el nivel de seguridad de
+la circulación de los vehículos ferroviarios.
 
 ## Página 5
+
 
 ### RESUMEN
 7 de julio de 2020, 15:08 (13:08 GMT).
@@ -135,8 +151,8 @@ elementos del dispositivo de señalización aplicados en la línea Karlovy Vary 
 Potůčky state border, en el tramo Nejdek - Potůčky state border como una de las variantes propuestas
 del «Concepto de aumento de la seguridad en las líneas con gestión simplificada del tráfico
 
-
 ## Página 6
+
 
 control» del gestor de la infraestructura Správa železnic, státní organizace, garantice la evaluación y la
 realización de las distintas variantes, incluido el calendario establecido, en las líneas seleccionadas con
@@ -146,8 +162,8 @@ red ferroviaria de la R.C., en las que actualmente el transporte ferroviario se 
 simplificada del tráfico. Esto debe hacerse para aumentar el nivel de seguridad de los vehículos
 ferroviarios.
 
-
 ## Página 7
+
 
 # Índice
 1 RESUMEN........................................................................................................................3
@@ -191,6 +207,7 @@ SUMMARY.........................................................................
 
 ## Página 8
 
+
 4.2.2 Factores o consecuencias derivados de la instalación y puesta en servicio de vehículos ferroviarios, infraestructura ferroviaria o instalación técnica......................................................................36
 4.2.3 Factores o consecuencias relacionados con fabricantes de vehículos ferroviarios u otro proveedor de productos ferroviarios............................................................................36
 4.2.4 Factores o consecuencias derivados del mantenimiento y modificación de vehículos ferroviarios o instalaciones técnicas....................................................................................................36
@@ -220,8 +237,8 @@ y de los talleres de mantenimiento..............................................
 6 RECOMENDACIONES DE SEGURIDAD.....................................................................................48
 ANEXOS..............................................................................................................................49
 
-
 ## Página 9
+
 
 ### Lista de siglas y símbolos utilizados
 AG
@@ -311,8 +328,8 @@ pasaje a nivel
 žst.
 estación ferroviaria
 
-
 ## Página 10
+
 
 ### Lista de siglas de la legislación, normas y reglamentos internos utilizados
 ley núm. 266/1994 Sb.
@@ -343,8 +360,8 @@ reglamento interno del gestor de la vía SŽ, «Reglamento de ejecución para la
 Acuerdo adicional Potůčky – Johanngeorgenstadt
 reglamento interno del gestor de la vía SŽ, «Acuerdo adicional al Contrato de Conexión de Infraestructuras SŽDC –
 
-
 ## Página 11
+
 
 DB Netz AG y DB RegioNetz Infrastruktur GmbH para la vía fronteriza Potůčky – Johanngeorgenstadt», en la redacción vigente en el momento de la ocurrencia del suceso extraordinario
 SR est. Nejdek
@@ -352,8 +369,8 @@ reglamento interno del gestor de la vía SŽ, «Reglamento de Estación de la es
 ČD V 2
 reglamento interno del transportista ČD, «ČD V 2 Reglamento para las tripulaciones de locomotora» en la redacción vigente en el momento de la ocurrencia del suceso extraordinario
 
-
 ## Página 12
+
 
 ### 2 LA INVESTIGACIÓN Y SU CONTEXTO
 ### 2.1 Decisión de iniciar la investigación
@@ -391,23 +408,22 @@ análisis de los datos registrados por los registradores de velocidad de los veh
 •
 implicados;
 
-
 ## Página 13
 
 análisis de la documentación solicitada al gestor de la vía, al transportista, al HZS y a la PČR.
 •
-### 2.8 Descripción de las dificultades y problemas concretos surgidos durante la investigación
-Durante la investigación del suceso extraordinario no surgieron dificultades ni problemas que influyeran en el desarrollo de la investigación o en sus conclusiones.
+### 2.8 Descripción de las dificultades y problemas concretos que surgieron durante la investigación
+Durante la investigación de la MU no surgieron dificultades ni problemas que pudieran influir en el desarrollo de la investigación o en sus conclusiones.
 ### 2.9 Interacción con los órganos judiciales
-Durante la investigación del suceso extraordinario en cuestión, ni por parte de la DI ni por parte de los órganos judiciales se inició ninguna comunicación ni colaboración.
+Durante la investigación de la MU en cuestión, ni por parte de la DI ni por parte de los órganos judiciales se inició ninguna comunicación ni colaboración.
 ### 2.10 Cualquier otra información relevante para la investigación
-Todas las circunstancias esenciales halladas relativas al desarrollo de la investigación del suceso extraordinario en cuestión ya han sido indicadas más arriba.
+Todas las circunstancias esenciales detectadas relativas al desarrollo de la investigación de la MU en cuestión ya han sido mencionadas más arriba.
 ### 3 DESCRIPCIÓN DEL SUCESO
 ### 3.1 Descripción e información básica
 ### 3.1.1 Descripción del tipo de suceso
-Tipo de suceso extraordinario:
+Tipo de MU:
 colisión DV x DV.
-Grupo de suceso extraordinario:
+Grupo de MU:
 accidente grave.
 ### 3.1.2 Fecha, hora exacta y lugar del suceso
 Fecha:
@@ -415,25 +431,16 @@ Fecha:
 Hora:
 15:08 h.
 Lugar:
-vía ferroviaria, categoría regional, punto de medición de la aguja de desvío nº 2sv
-de la estación de maniobras D3 Pernink, km 36,125. El lugar de la colisión de los trenes se encontraba en
-vía abierta entre las estaciones de maniobras D3 Pernink y Nové Hamry en km 35,582.
+vía ferroviaria, categoría regional, marca de cambio de vía n.º 2sv
+de la estación de tráfico D3 Pernink, pk 36,125. El lugar de la colisión de los trenes se encontraba en la vía abierta entre las estaciones de tráfico D3 Pernink y Nové Hamry en el pk 35,582.
 Coordenadas GPS:
-50.3650483N, 12.7733686E – circulación no autorizada del tren Os 17113 más allá
-del punto de medición de la aguja de desvío nº 2sv;
-50.3617539N, 12.7777728E – colisión del tren Os 17113 con el tren
-Os 17110.
+50.3650483N, 12.7733686E – circulación no autorizada del tren Os 17113 más allá de la marca de cambio de vía n.º 2sv;
+50.3617539N, 12.7777728E – colisión del tren Os 17113 con el tren Os 17110.
 ### 3.1.3 Descripción del lugar del suceso
-La estación de maniobras D3 Pernink se encuentra en la vía ferroviaria regional Karlovy Vary-Sedlec – Potůčky
-frontera estatal en km 36,186 de la vía de una sola vía Karlovy Vary estación inferior – Potůčky
-frontera estatal. En el tramo de vía Nejdek – Potůčky frontera estatal, es decir, incluida la estación de maniobras D3 Pernink
-y el sector espacial adyacente Nové Hamry – Pernink, el transporte ferroviario se organiza mediante el llamado
-gestión simplificada del transporte ferroviario. El límite de la estación de maniobras D3 Pernink en el sentido
-desde la estación de maniobras D3 Nové Hamry está determinado por la señal no transmisible
-Tabulka Lichoběžníková con el número «1», es decir, el número de SK, en la que en posición básica
-están dispuestas las agujas de desvío. Lugar
+La estación de tráfico D3 Pernink se encuentra en la vía ferroviaria regional Karlovy Vary-Sedlec – Potůčky frontera estatal en el pk 36,186 de la vía de una sola vía Karlovy Vary estación inferior – Potůčky frontera estatal. En el tramo de vía Nejdek – Potůčky frontera estatal, es decir, incluida la estación de tráfico D3 Pernink y el sector espacial adyacente Nové Hamry – Pernink, el tráfico ferroviario se organiza mediante la denominada gestión simplificada del tráfico ferroviario. El límite de la estación de tráfico D3 Pernink en el sentido desde la estación de tráfico D3 Nové Hamry está determinado por una señal fija de tipo «tabla de trapecio» con el número «1», es decir, el número SK, en la que se encuentran en posición normal los desvíos. Lugar
 
 ## Página 14
+
 
 La colisión del tren Os 17113 con el tren Os 17110 se encontraba en el sector espacial Nové Hamry – Pernink en el km 35,582.
 ### estación D3      
@@ -466,8 +473,8 @@ en el km 35,570, es decir, 12 m detrás del lugar de la colisión (en el sentido
 •
 los frentes delanteros de ambos trenes encajados mutuamente entre sí.
 
-
 ## Página 15
+
 
 ### Tren Os 17113:
 el frente del tren Os 17113 estaba encajado en un tramo de 1,8 m en el espacio del ŘV 914.034-4 del tren
@@ -516,8 +523,8 @@ frenado que informaban del estado actual del freno:
 ➢bogie motriz bajo la cabina del elemento A – 2 indicadores del freno neumático estaban
 teñidos de rojo, el indicador del freno de seguridad de muelle estaba teñido en menor parte
 
-
 ## Página 16
+
 
 de rojo y en mayor parte de verde (freno neumático
 y freno de seguridad de muelle frenados con una presión en los cilindros de freno de unos 4,0 bar), en
@@ -570,8 +577,8 @@ la zona para pasajeros en el HDV, incluidos los asientos, no presentaba signos d
 •
 una mesa estaba desprendida;
 
-
 ## Página 17
+
 
 la consola de mando en la cabina del maquinista del HDV estaba desprendida y girada;
 •
@@ -625,8 +632,8 @@ señal Tabla trapezoidal en el km 35,913:
 ➢se trata de una señal fija con la señal «Límite de estación» (placa trapezoidal
 blanca con borde negro colocada sobre el lado más largo, en el centro de la
 
-
 ## Página 18
+
 
 placa estaba el número negro «1», es decir, el número de la SK a la que, en la posición base,
 están dispuestas las agujas);
@@ -679,64 +686,64 @@ En el MU se produjo:
 
 ## Página 19
 
-fallecimiento de 2 pasajeros en el tren Os 17110;
+fallecimiento de 2 viajeros en el tren Os 17110;
 •
-lesiones en el conductor y en el jefe de servicio del tren (en adelante, jefe de tren)
+lesiones en el conductor y el jefe de servicio del tren (en adelante, jefe de tren)
 •
 del tren Os 17110;
-lesiones en 7 pasajeros del tren Os 17110; *)
+lesiones en 7 viajeros del tren Os 17110; *)
 •
 lesiones en el jefe de tren del tren Os 17113;
 •
-lesiones en 12 pasajeros del tren Os 17113. *)
+lesiones en 12 viajeros del tren Os 17113. *)
 •
-*) El número final de heridos no se precisó a la fecha de elaboración del Informe de investigación (ZZ) debido a que el alcance de las lesiones de los pasajeros de nacionalidad extranjera era desconocido.
-El explotador de la infraestructura y el transportista calcularon los daños en:
+*) El número final de heridos no se precisó a la fecha de elaboración del ZZ debido a la magnitud desconocida de las lesiones de los viajeros de nacionalidad extranjera.
+El gestor de la infraestructura y el transportista calcularon los daños en:
 Material rodante motor (tren Os 17113)
-11 050 000 CZK;
+11 050 000 Kč;
 •
 Material rodante remolcado (tren Os 17110)
-12 500 000 CZK;
+12 500 000 Kč;
 •
 Material rodante motor (tren Os 17110)
-1 820 000 CZK;
+1 820 000 Kč;
 •
 instalaciones de la infraestructura
-0 CZK;
+0 Kč;
 •
 medio ambiente
-0 CZK.
+0 Kč.
 •
-En el accidente ferroviario (MU), los daños causados en el material rodante, en las partes de la infraestructura y en el medio ambiente
-### se calcularon en un total de 25 370 000 CZK.
-En el accidente ferroviario (MU) se produjeron daños en:
-objetos personales de los pasajeros
-20 500 CZK.
+En el MU, el daño causado en el material rodante, en los componentes de la infraestructura y en el medio ambiente
+### se calculó en un total de 25 370 000 Kč.
+En el MU se produjeron daños en:
+objetos personales de los viajeros
+20 500 Kč.
 •
-En el accidente ferroviario (MU), los daños causados en las mercancías transportadas, el equipaje y otros bienes
-### se calcularon en un total de 20 500 CZK. *)
-*) La cuantía de los daños a la fecha de elaboración del ZZ no era definitiva.
+En el MU, el daño causado en las mercancías transportadas, el equipaje y otros bienes
+### se calculó en un total de 20 500 Kč. *)
+*) La cuantía del daño a la fecha de elaboración del ZZ no era definitiva.
 ### 3.1.5 Descripción de otras consecuencias, incluido el impacto del suceso en las actividades regulares de los sujetos implicados
-Como consecuencia de la ocurrencia del accidente ferroviario (MU), se interrumpió la explotación entre las estaciones de servicio D3 Pernink y Nové Hamry desde las 15:08 h hasta las 23:30 h, momento en que se restableció la explotación.
+Como consecuencia de la ocurrencia del MU, se interrumpió la explotación entre las estaciones D3 Pernink y Nové Hamry desde las 15:08 h hasta las 23:30 h, momento en que se restableció la explotación.
 ### 3.1.6 Identificación de las personas, sus funciones y los sujetos implicados
-Personas implicadas por parte de:
-El explotador de la infraestructura (SŽ):
-jefe de estación de la estación 4 Karlovy Vary – jefe de estación DOZ Nejdek (también llamado despachador director),
+Personas implicadas por:
+Gestor de la infraestructura (SŽ):
+jefe de estación 4 est. Karlovy Vary – jefe de estación DOZ Nejdek (también llamado despachador director),
 •
 empleado de SŽ.
-El transportista (ČD):
+Transportista (ČD):
 conductor del tren Os 17113, empleado de ČD;
 •
 conductor del tren Os 17110, empleado de ČD.
 •
 Otras personas, testigos:
-jefe de tren del Os 17113, empleada de ČD;
+jefe de tren Os 17113, empleada de ČD;
 •
-jefe de tren del Os 17110, empleado de ČD.
+jefe de tren Os 17110, empleado de ČD.
 •
-
 
 ## Página 20
+
 
 Sujetos implicados:
 El propietario de la infraestructura ferroviaria, categoría regional, Karlovy Vary-Sedlec – Potůčky frontera estatal, era la República Checa. El derecho a administrar los bienes del Estado lo ejercía SŽ, con domicilio en Dlážděná 1003/7, Praha 1, CP 110 00.
@@ -769,8 +776,8 @@ El material rodante motor 844.005-9 estaba equipado, en el momento de la ocurren
 De los datos registrados se desprende:
 15:06:48 h – parada del tren Os 17113 en la SK n.º 3 en el pk 36,196 de la estación de servicio D3 Pernink;
 
-
 ## Página 21
+
 
 15:06:59 h – registro del uso de la bocina de la locomotora – emisión de la señal sonora
 •
@@ -828,8 +835,8 @@ Nota: la diferencia entre el tiempo registrado y el tiempo real fue de -9 s.
 *) Los demás datos registrados por el velocímetro electrónico después de la colisión con el tren Os 17110, que se produjo a las 15:08:24 h a una velocidad de 37 km·h-1, no pueden considerarse correctos. Los datos se vieron afectados por el comportamiento del material rodante remolcado después de la colisión, es decir, por un desplazamiento de 12 m en el sentido de la marcha del tren Os 17113.
 Del registro del velocímetro registrador del material rodante motor 844.005-9 se desprende que en el tramo entre la estación de servicio D3 Pernink y el lugar de la ocurrencia del accidente ferroviario no se superó la velocidad establecida (60 km·h-1) ni la velocidad de vía (50 km·h-1)
 
-
 ## Página 22
+
 
 del tren Os 17113. El protector automático de tren estaba en funcionamiento y durante la marcha del tren fue operado regularmente por el conductor.
 El 22. 7. 2020, por personal cualificado del transportista y en presencia del inspector de DI, se realizó una comprobación conjunta del estado técnico del material rodante motor 844.005-9 después del accidente ferroviario. El estado técnico del material rodante motor no guardaba relación causal con la ocurrencia de este accidente ferroviario y sus daños se produjeron como consecuencia de la colisión.
@@ -867,8 +874,8 @@ De los datos registrados se desprende:
 •
 37 km·h-1;
 
-
 ## Página 23
+
 
 15:05:12 h – marcha a velocidad constante en el intervalo de 33 – 34 km·h-1 a lo largo de
 •
@@ -904,6 +911,7 @@ Del examen del material rodante remolcado del tren Os 17110 se constató que, ad
 
 ## Página 24
 
+
 hasta el maquinista debido al encastramiento de la cabecera del tren Os 17113 en el espacio de la cabina de conducción (ŘV), la demolición del tabique que separa el puesto del maquinista y la embutición del puesto, incluido el pupitre de mando, en el compartimento para pasajeros.
 En la ŘV se constató además el desprendimiento de una mesa, un asiento dañado y las puertas de vidrio rotas del compartimento para pasajeros situado detrás del puesto del maquinista, los rellenos de vidrio rotos de los tabiques del compartimento trasero elevado a la derecha y a la izquierda, y las puertas de vidrio del compartimento para pasajeros en la HDV, donde solo se constató el desprendimiento de una mesa.
 Durante la investigación de MU del 20. 12. 2010 en la estación de Kamenné Žehrovice y del 2. 2. 2011 entre la estación de maniobras D3 Vodňany y la estación de Číčenice, se constataron lesiones de pasajeros como consecuencia del desprendimiento de placas de cubierta con bordes afilados de los montantes (cubiertas de los pilares) de los asientos. Con base en estos hallazgos, la Inspección Ferroviaria (Drážní inspekce) emitió al transportista ČD una recomendación de seguridad:
@@ -921,8 +929,8 @@ La velocidad máxima permitida de ambos trenes en el lugar de la colisión fue f
 Para garantizar la operatividad de la línea y la seguridad del transporte ferroviario, antes de la aparición de la MU el explotador de la línea realizó inspecciones y mediciones de las obras ferroviarias de conformidad con el § 26 apartados 1 y 2 del decreto n.º 177/1995 Sb. Las partes de la línea no guardaban relación causal con la aparición de la MU.
 En el tramo de la línea Karlovy Vary estación inferior – Nejdek, el transporte ferroviario se organiza según la norma interna del explotador de la línea SŽDC D1. En el tramo de la línea Nejdek – Potůčky, el transporte ferroviario se organiza según el § 19 del decreto 173/1995 Sb., mediante la denominada gestión simplificada del transporte ferroviario. Las reglas para la organización de la gestión simplificada y la garantía de la seguridad del transporte ferroviario las establece la norma interna del explotador de la línea SŽDC D3 y, además, la norma interna del explotador de la línea PND3 para la línea Nejdek – Potůčky. La sede del despachador director
 
-
 ## Página 25
+
 
 está en la estación de Karlovy Vary. La línea Karlovy Vary estación inferior – Potůčky frontera estatal en el tramo Nejdek – Potůčky estaba, en el momento de la aparición de la MU, dividida en 4 secciones espaciales y no estaba equipada con la parte de vía del protector de trenes. La sección espacial adyacente en el sentido de la marcha de ambos trenes (Nové Hamry – Pernink) no estaba equipada con dispositivo de seguridad de vía.
 En la estación de maniobras D3 Potůčky, a la línea Karlovy Vary estación inferior – Potůčky frontera estatal le continúa la línea fronteriza de vía única y no electrificada Potůčky – Johanngeorgenstadt, que no está equipada con dispositivo de seguridad de vía. Los trenes entre la estación de maniobras D3 Potůčky y la estación de Johanngeorgenstadt se organizan según la norma interna del explotador de la línea Acuerdo suplementario para la línea Potůčky – Johanngeorgenstadt.
@@ -962,91 +970,109 @@ THP8-9 y THP10-11;
 el tren Os 17110 ocupa el tramo de vía THP12-13 – el tren entró en el
 •
 
-
 ## Página 26
 
-tramo de aproximación ŽP P191 en el km 34,661;
+del tramo de aproximación ŽP P191 en el km 34,661;
 15:07:40 h –
-el tren Os 17110 se encuentra en el tramo de vía THP12-13 en la sección
+el tren Os 17110 se encuentra en el tramo de vía THP12-13 en el
 •
-espacial Nové Hamry – Pernink;
-el tren Os 17113 pasa por la aguja con enclavamiento autorretornante n.º 2sv
+sector espacial Nové Hamry – Pernink;
+el tren Os 17113 pasa por la aguja con mecanismo de retorno automático n.º 2sv
                                –
-en la estación de maniobras D3 Pernink – cambio de la aguja de la posición
-de prioridad por la circulación del tren hacia la sección espacial Nové Hamry –
-Pernink ocupada por el tren Os 17110;
+en el tráfico D3 Pernink – cambio de aguja de la posición de prioridad
+por la circulación del tren hacia el sector espacial Nové Hamry – Pernink
+ocupado por el tren Os 17110;
 15:08:01 h –
-el tren Os 17110 libera el tramo de vía THP12-13 – el tren abandona el
+el tren Os 17110 libera el tramo de vía THP12-13 – el tren abandona
 •
-tramo de alejamiento ŽP P191 en el km 35,219, es decir, 363 m antes del lugar
-de la colisión con el tren Os 17113.
-Nota: la diferencia entre el tiempo registrado y el tiempo real fue de - 8 s.
-Del análisis de los datos descargados del SZZ se deduce que el SZZ presentaba un funcionamiento normal y que el estado técnico del SZZ y su modo de operación no guardaban relación causal con la aparición de la MU. De los registros en el Registro de averías del dispositivo de comunicación y seguridad del SZZ se deduce que las inspecciones y el mantenimiento regulares se realizaron en los intervalos prescritos. En el momento de la aparición de la MU no constaba ninguna avería en el Registro de averías.
-### 3.1.9 Cualquier otra información relevante a efectos de la descripción del suceso y de la información básica
-Resumen de las explicaciones aportadas por los empleados del explotador de la línea y del transportista, incluidas las personas en relación contractual:
-despachador director DOZ Nejdek
+el tramo de alejamiento ŽP P191 en el km 35,219, es decir, 363 m antes del lugar de
+colisión con el tren Os 17113.
+Nota: la diferencia entre el tiempo registrado y el tiempo real fue de -8 s.
+Del análisis de los datos descargados del SZZ se desprende que el SZZ presentaba un
+funcionamiento normal y que el estado técnico del SZZ y su modo de operación no
+guardaban relación causal con la aparición de la MU. De los registros en el Registro de
+averías del equipo de comunicación y de seguridad del SZZ se desprende que las
+inspecciones y el mantenimiento periódicos se realizaron en los intervalos prescritos.
+En el momento de la aparición de la MU no constaba ninguna avería en el Registro de
+averías.
+### 3.1.9 Cualquier otra información relevante a efectos de la descripción del suceso y de
+la información básica
+Resumen de las explicaciones aportadas por los empleados del gestor de la
+infraestructura y del transportista, incluidas las personas con relación contractual:
+jefe de despacho DOZ Nejdek
   – Acta con el empleado:
 •
-◦el 7. 7. 2020 se incorporó al turno diurno como jefe de estación 4 DOZ Nejdek en la estación de Karlovy Vary, el turno transcurrió sin incidencias;
-◦tras la notificación del maquinista del tren Os 17113 desde la estación de maniobras D3 Potůčky, cuando este anunció su llegada a dicha estación de maniobras, solicitó al maquinista el consentimiento para la circulación posterior del tren Os 17113 hasta la estación de maniobras D3 Pernink;
-◦concedió al maquinista el consentimiento para la salida del tren Os 17113 de la estación de maniobras D3 Potůčky hacia la estación de maniobras D3 Pernink;
-◦la comunicación con el maquinista del tren Os 17113 se realizó mediante el dispositivo TRS, la llegada y la salida del tren Os 17113 a/desde la estación de maniobras D3 Potůčky las documentó en el GTN;
-◦a continuación se comunicó con el jefe de estación en la estación de Johanngeorgenstadt y le comunicó la llegada del tren Os 17113 a la estación de maniobras D3 Potůčky, lo cual también registró en el GTN;
-◦autorizó la salida del tren Os 17110 de la estación de Nejdek hacia la línea D3 mediante la operación del dispositivo de seguridad;
-◦la circulación del tren Os 17110 está autorizada por el horario tabular hasta la estación de maniobras D3 Pernink, donde tiene prescrita la primera obligación de notificación;
-◦las obligaciones de notificación regulares de cada tren figuran en el GTN, y así fue también en este caso;
-
+◦el 7 de julio de 2020 se incorporó al turno diurno como jefe de estación 4 DOZ
+Nejdek en la est. Karlovy Vary, el turno transcurrió sin incidencias;
+◦tras la notificación del maquinista del tren Os 17113 desde el puesto de tráfico D3
+Potůčky, cuando notificó su llegada a dicho puesto de tráfico, solicitó al maquinista el
+consentimiento para la continuación de la circulación del tren Os 17113 hasta el
+puesto de tráfico D3 Pernink;
+◦concedió al maquinista el consentimiento para la salida del tren Os 17113 del puesto
+de tráfico D3 Potůčky hacia el puesto de tráfico D3 Pernink;
+◦la comunicación con el maquinista del tren Os 17113 se realizó mediante el
+dispositivo TRS; la llegada y la salida del tren Os 17113 a/desde el puesto de tráfico
+D3 Potůčky las documentó en el GTN;
+◦a continuación, se comunicó con el jefe de estación de la est. Johanngeorgenstadt y le
+transmitió el aviso de la llegada del tren Os 17113 al puesto de tráfico D3 Potůčky,
+lo cual también registró en el GTN;
+◦autorizó la salida del tren Os 17110 de la est. Nejdek hacia la línea D3 mediante la
+operación del equipo de seguridad;
+◦la circulación del tren Os 17110 está autorizada por el horario tabular hasta el puesto
+de tráfico D3 Pernink, donde tiene establecida la primera obligación de aviso;
+◦las obligaciones de aviso periódicas de cada tren figuran en el GTN, y así fue también
+en este caso;
 
 ## Página 27
 
-◦aproximadamente a la hora de la llegada de ambos trenes a la estación de maniobras D3 Pernink comenzó a averiguar por qué los maquinistas no se notificaban;
-◦el establecimiento de la conexión lo realizó mediante la llamada dirigida en el dispositivo TRS, probablemente llamó primero al tren Os 17113, después llamó a ambos trenes, pero ya no recuerda el orden;
-◦sin embargo, considera que llamó al tren Os 17113 varias veces;
-◦escuchó el tono de llamada, pero ningún maquinista se notificó;
-◦también intentó comunicarse con los maquinistas mediante la comunicación de reserva, que son los teléfonos móviles;
+◦aproximadamente en el momento de la llegada de ambos trenes a la estación de trabajo D3 Pernink, comenzó a averiguar por qué los maquinistas no se comunicaban;
+◦establecía conexión con el equipo TRS mediante llamada direccional, presumiblemente llamó primero al tren Os 17113, después llamó a ambos trenes, pero ya no recuerda el orden;
+◦sin embargo, considera que al tren Os 17113 llamó varias veces;
+◦escuchó el tono de llamada, pero ningún maquinista se comunicó;
+◦intentó comunicarse con los maquinistas también a través de la conexión de reserva, que son los teléfonos móviles;
 ◦llamó a ambos maquinistas, a cuál primero ya no lo recuerda;
-◦durante la tentativa de establecer la conexión con los maquinistas tuvo una llamada entrante en el terminal táctil;
-◦tras aceptar la llamada, se identificó el oficial de operaciones de la Policía Nacional (PČR), que le informó de la aparición de la MU;
-◦a continuación actuó de conformidad con el Cuadro de notificaciones;
-◦durante su turno no se produjo ningún cambio en el cruce de trenes ni la anulación de la obligación de notificación, tampoco se produjo ninguna avería ni defecto entre la estación de Nejdek y la estación de maniobras D3 Potůčky;
-◦la posibilidad de anular la obligación de notificación la utiliza mínimamente, lo que también demuestra el hecho de que en la estación de maniobras D3 Nové Hamry no anuló la obligación de notificación del tren Os 17113;
+◦durante la prueba de establecer conexión con los maquinistas tuvo una llamada entrante en el terminal táctil;
+◦tras aceptar la llamada, se identificó el oficial operativo de la PČR, quien le informó de la aparición de un MU;
+◦posteriormente actuó conforme al Horario de Notificación;
+◦durante su turno no se produjo ningún cambio en el cruce de trenes ni la anulación de la obligación de notificación, tampoco se presentó ninguna avería ni defecto entre la estación Nejdek y la estación de trabajo D3 Potůčky;
+◦la posibilidad de anular la obligación de notificación la utiliza mínimamente, lo que demuestra también el hecho de que en la estación de trabajo D3 Nové Hamry no anuló la obligación de notificación del tren Os 17113;
 ◦para los trenes Os 17110 y Os 17113 no se emitió ni se dictó ninguna orden;
 maquinista del tren Os 17113
-  – Registro oficial de la explicación aportada a la PČR:
+  – Registro Oficial de la explicación presentada a la PČR:
 •
-◦el 7. 7. 2020 se incorporó al turno alrededor de las 12:50 h en la estación de Karlovy Vary a la composición del tren Os 17108 y circuló hasta la estación de Johanngeorgenstadt en Alemania;
-◦circuló según el horario y llegó a la estación de Johanngeorgenstadt con un retraso de aproximadamente 5 min;
-◦tras la llegada, notificó por teléfono, que está situado directamente en el andén de la estación de Johanngeorgenstadt y está destinado a tal fin, al jefe de estación alemán la llegada del tren y que está preparado para la salida de regreso hacia la estación de maniobras D3 Potůčky;
-◦la composición del tren Os 17108, tras la llegada a la estación de Johanngeorgenstadt, se convierte en el tren Os 17113;
-◦la notificación la realizó en lengua alemana con una frase aprendida, y el jefe de estación alemán repitió su notificación;
-◦para la salida de la estación de Johanngeorgenstadt hacia la estación de maniobras D3 Potůčky se guía por la indicación de la señal luminosa, con el tren Os 17113 partió con la indicación «Velocidad 40 km/h y aviso»;
-◦tras la llegada a la estación de maniobras D3 Potůčky se detuvo y notificó al despachador director la llegada del tren Os 17113 a las 14:53 h a dicha estación de maniobras y simultáneamente solicitó el consentimiento para la salida del tren Os 17113 a las 14:54 h de la estación de maniobras D3 Potůčky hacia la estación de maniobras D3 Pernink;
-◦a continuación, el despachador director le dio el consentimiento para la circulación hasta la estación de maniobras D3 Pernink;
+◦el 7. 7. 2020 incorporó a su turno alrededor de las 12:50 h en la estación Karlovy Vary a la formación del tren Os 17108 y viajó hasta la estación Johanngeorgenstadt en Alemania;
+◦viajó según el horario de circulación y llegó a la estación Johanngeorgenstadt con un retraso de aproximadamente 5 min;
+◦tras la llegada, informó por teléfono, que está situado directamente en el andén de la estación Johanngeorgenstadt y está destinado para ello, al jefe de estación alemán de la llegada del tren y de que está preparado para la salida de vuelta a la estación de trabajo D3 Potůčky;
+◦la formación del tren Os 17108 tras la llegada a la estación Johanngeorgenstadt se convierte en el tren Os 17113;
+◦el informe lo realizó en lengua alemana con una frase aprendida y el jefe de estación alemán repitió su informe;
+◦para la salida de la estación Johanngeorgenstadt a la estación de trabajo D3 Potůčky se rige por la señalización del semáforo, con el tren Os 17113 salió con la señal «Velocidad 40 km/h y aviso»;
+◦tras la llegada a la estación de trabajo D3 Potůčky se detuvo e informó al despachador director de la llegada del tren Os 17113 a las 14:53 h a esta estación de trabajo y simultáneamente solicitó el permiso para la salida del tren Os 17113 a las 14:54 h de la estación de trabajo D3 Potůčky a la estación de trabajo D3 Pernink;
+◦posteriormente el despachador director le dio el permiso para la marcha a la estación de trabajo D3 Pernink;
 
 ## Página 28
 
-◦a las 14:54 h partió de la estación de trabajo D3 Potůčky en dirección a la estación de trabajo D3 Pernink, pasó por la parada con señal Potůčky zastávka, nadie de los pasajeros bajó ni subió, y continuó el trayecto hasta la estación de trabajo D3 Horní Blatná, donde se detuvo;
-◦en la estación de trabajo D3 Horní Blatná el tren Os 17113 no tenía obligación de notificación, por lo que no llamó a nadie;
-◦llegó a la estación de trabajo D3 Pernink aproximadamente a las 15:05 h, donde la notificación se realiza llamando al despachador director y comunicando la llegada del tren Os 17113 a dicha estación de trabajo; después debe esperar la llegada del tren en sentido contrario y comunicar al despachador director que está listo para la salida;
+◦a las 14:54 h partió de la estación de tráfico D3 Potůčky en dirección a la estación de tráfico D3 Pernink, pasó por la parada con parada a demanda Potůčky zastávka, nadie de los viajeros bajó ni subió, y continuó el trayecto hasta la estación de tráfico D3 Horní Blatná, donde se detuvo;
+◦en la estación de tráfico D3 Horní Blatná el tren Os 17113 no tenía obligación de notificación, por lo que no llamó a nadie;
+◦llegó a la estación de tráfico D3 Pernink aproximadamente a las 15:05 h, donde la notificación se realiza llamando al despachador director y comunicando la llegada del tren Os 17113 a dicha estación; después debe esperar la llegada del tren en sentido contrario y comunicar al despachador director que está listo para la salida;
 ◦este es el régimen para día laborable; en día de descanso laboral y en festivo el régimen es distinto;
 ◦el mismo tren circuló el día anterior 6. 7. 2020, cuando era festivo nacional, el tren en sentido contrario no circulaba y no era necesario notificar;
-◦el 7. 7. 2020, tras la llegada del tren Os 17113 a la estación de trabajo D3 Pernink, no notificó al despachador director ni le comunicó que había salido de dicha estación de trabajo;
-◦no pudo explicar por qué no notificó la llegada a la estación de trabajo D3 Pernink, ni por qué salió de la estación de trabajo D3 Pernink, si es que lo confundió con el día festivo 6. 7. 2020, cuando el régimen era distinto;
-◦el 7. 7. 2020 salió con el tren Os 17113 de la estación de trabajo D3 Pernink aproximadamente a las 15:06 h y, tras recorrer unos 500 m en una curva a la derecha en el km 36,500 de la línea (Karlovy Vary dolní nádraží – Potůčky státní hranice), vio delante de sí, a una distancia de unos 100 m, el tren en sentido contrario;
-◦inmediatamente aplicó frenado de acción rápida, se giró en el asiento, se apartó hacia atrás del puesto del maquinista y, aproximadamente 3 s después, se produjo el choque;
-◦a continuación abrió la puerta de la cabina y fue a comprobar si los pasajeros estaban heridos;
-◦en el tren había aproximadamente 20 pasajeros, estaban conmocionados y varios de ellos resultaron heridos;
-◦tras comprobar todos los pasajeros, bajó del tren y llamó por teléfono móvil a su jefe de maniobras, quien le indicó que llamara al despachador director;
-◦al despachador director le contó lo que había ocurrido y solicitó el envío del servicio de emergencia;
-◦posteriormente fue al otro tren y ayudó a prestar primeros auxilios a los pasajeros heridos;
+◦el 7. 7. 2020, tras la llegada del tren Os 17113 a la estación de tráfico D3 Pernink, no notificó al despachador director ni le comunicó que había salido de dicha estación;
+◦no pudo explicar por qué no notificó la llegada a la estación de tráfico D3 Pernink, ni por qué salió de la estación de tráfico D3 Pernink, si es que lo confundió con el día festivo 6. 7. 2020, cuando el régimen era distinto;
+◦el 7. 7. 2020 salió con el tren Os 17113 de la estación de tráfico D3 Pernink aproximadamente a las 15:06 h y, tras recorrer unos 500 m en una curva a la derecha en el km 36,500 de la línea (Karlovy Vary dolní nádraží – Potůčky státní hranice), vio delante de sí, a una distancia de unos 100 m, el tren en sentido contrario;
+◦inmediatamente aplicó frenado de acción rápida, se giró en el asiento, se lanzó hacia atrás detrás de la posición del maquinista y, aproximadamente 3 s después, se produjo el choque;
+◦a continuación abrió la puerta de la cabina y fue a comprobar a los viajeros si estaban heridos;
+◦en el tren había aproximadamente 20 viajeros, estaban conmocionados y varios de ellos resultaron heridos;
+◦después de comprobar a todos los viajeros, bajó del tren y llamó por teléfono móvil a su jefe de maniobras, quien le indicó que llamara al despachador director;
+◦al despachador director le contó lo que había ocurrido y solicitó el envío del servicio de emergencias;
+◦a continuación fue al segundo tren y ayudó a prestar primeros auxilios a los viajeros heridos;
 a las preguntas complementarias respondió:
 •
-◦la obligación de notificación en la estación de trabajo D3 Pernink varía, no está fijada de forma permanente;
-◦en los días de descanso laboral y en los festivos nacionales en la estación de trabajo D3 Pernink no hay obligación de notificación, es decir, el lunes 6. 7. 2020 no había obligación de notificación, y en los días laborables en la estación de trabajo D3 Pernink sí hay obligación de notificación;
-◦el horario en formato cuadernillo lo lleva delante durante la circulación y se rige por él; el 7. 7. 2020 también lo tenía delante en su puesto;
-
+◦la obligación de notificación en la estación de tráfico D3 Pernink varía, no está fijada de forma permanente;
+◦en los días de descanso laboral y en los festivos nacionales en la estación de tráfico D3 Pernink no existe obligación de notificación, es decir, el lunes 6. 7. 2020 no había obligación de notificación, y en los días laborables en la estación de tráfico D3 Pernink sí hay obligación de notificación;
+◦el horario de trenes en cuadernillo lo lleva delante durante la circulación y se rige por él; el 7. 7. 2020 también lo tenía delante en su puesto;
 
 ## Página 29
+
 
 ◦además tiene allí un horario electrónico, que es solo informativo, y el «icono del teléfono» (símbolo en el horario tabular con el significado de obligación de notificación ordenada) no se muestra en él;
 ◦el 7. 7. 2020 miró el horario en formato cuadernillo, pero no estaba seguro de si concretamente en la estación de trabajo D3 Pernink;
@@ -1071,89 +1097,129 @@ maquinista del tren Os 17113
 jefe de tren del tren Os 17113 – Registro oficial de la declaración prestada PČR:
 •
 
-
 ## Página 30
 
-◦está empleada en la empresa ČD desde hace más de 12 años y actualmente trabaja como jefa de tren;
-◦del 7. 7. 2020 solo recordaba que viajaba como jefa de tren en un tren de pasajeros tipo Shark desde la est. Johanngeorgenstadt en dirección a la estación de trabajo D3 Potůčky;
-◦como jefa de tren tiene a su cargo la comprobación y venta de billetes, así como el despacho y la seguridad de los pasajeros en la llegada y salida de las distintas estaciones;
-◦de lo ocurrido y de que fue protagonista de una colisión de trenes se enteró por el personal sanitario del hospital al que fue trasladada;
-◦no recordaba qué ocurrió en el tren, dónde se produjo el accidente, quién resultó herido y cómo, ni cómo se lesionó ella misma;
+◦en el transportista ČD lleva más de 12 años empleada, en la actualidad trabaja en el puesto de jefa de tren;
+◦del día 7. 7. 2020 solo recordaba que viajaba como jefa de tren en un tren de pasajeros tipo Shark desde la est. Johanngeorgenstadt en dirección a la estación de maniobras D3 Potůčky;
+◦como jefa de tren tiene a su cargo el control y la venta de billetes, así como la atención y la seguridad de los pasajeros en la llegada y la salida de las distintas estaciones;
+◦de lo que sucedió, y de que fue participante en una colisión de trenes, se enteró por parte del personal sanitario del hospital al que fue trasladada;
+◦no recordaba lo que ocurrió en el tren, dónde se produjo el accidente, quién resultó herido y de qué manera, ni cómo se lesionó ella misma;
 maquinista del tren Os 17110
-  – Registro oficial de la declaración prestada PČR:
+  – Registro oficial de la declaración prestada ante la Policía:
 •
-◦trabaja como maquinista desde 2014 y ha circulado según el cuadrante de servicio en distintas líneas y con distintas composiciones de tren;
-◦del 7. 7. 2020 y todavía aproximadamente un mes después de la lesión no recordaba nada;
-◦de lo ocurrido se enteró por televisión, cuando el 7. 8. 2020 vio un reportaje sobre el accidente ferroviario en Pernink, y posteriormente solo por relatos;
-◦respecto al asunto añadió únicamente que en el accidente debía estar delante, en el puesto del maquinista;
-jefe de tren del tren Os 17110 – Registro oficial de la declaración prestada PČR:
+◦trabaja como maquinista desde el año 2014 y ha conducido según el horario de servicio en distintas líneas y con distintas composiciones de tren;
+◦del día 7. 7. 2020 y hasta aproximadamente un mes después de la lesión no recordaba nada;
+◦de lo que sucedió se enteró por la televisión, cuando el día 7. 8. 2020 vio un reportaje sobre el accidente ferroviario en Pernink, y posteriormente solo a través de relatos;
+◦sobre el asunto añadió únicamente que durante el accidente debía estar en la parte delantera, en el puesto de conducción;
+jefa de tren del tren Os 17110 – Registro oficial de la declaración prestada ante la Policía:
 •
-◦del accidente del 7. 7. 2020 no recordaba nada y hasta el día de la elaboración del Registro oficial, es decir, el 10. 10. 2020, no se le venían a la mente las circunstancias del accidente;
-◦posteriormente, por relatos y por los medios de comunicación, se enteró de que el 7. 7. 2020 trabajaba como jefe de tren en un tren de pasajeros tipo Regionova, que circulaba desde la est. Nejdek hasta la estación de trabajo D3 Pernink, y se produjo una colisión con la composición de tren en sentido contrario, con la que debían cruzarse en la estación de trabajo D3 Pernink;
-◦en el accidente debía encontrarse en la parte delantera del tren, porque según los relatos estaba de rodillas junto a la puerta del compartimento de pasajeros, y posteriormente fue extricado por los efectivos del HZS.
+◦del accidente del día 7. 7. 2020 no recordaba nada y hasta el día de la redacción del Registro oficial, es decir, el 10. 10. 2020, no le venían a la memoria las circunstancias del accidente;
+◦posteriormente, a través de relatos y de los medios de comunicación, se enteró de que el día 7. 7. 2020 trabajaba como jefa de tren en un tren de pasajeros tipo Regionova, que circulaba desde la est. Nejdek hasta la estación de maniobras D3 Pernink, y se produjo una colisión con la composición de tren que circulaba en sentido contrario, con la que debían cruzarse en la estación de maniobras D3 Pernink;
+◦durante el accidente debía encontrarse en la parte delantera del tren, porque según los relatos estaba de rodillas junto a la puerta del compartimento de pasajeros, y posteriormente fue extraviado por los miembros del HZS.
+
 ### 3.2 Descripción fáctica del suceso
 ### 3.2.1 Secuencia de hechos que condujeron al suceso excepcional
-El maquinista del tren Os 17113 se incorporó al turno el 7. 7. 2020 en la est. Karlovy Vary, primero para el tren Os 17108 con salida regular de la est. Karlovy Vary a las 13:10 h, en dirección a la est. Johanngeorgenstadt, donde tenía el enlace con el tren Os 17113 Johanngeorgenstadt – Karlovy Vary dolní nádraží. El tren Os 17108 llegó a las 13:52 h a la estación de trabajo D3 Nové Hamry, donde para este tren el TJŘ ordena la obligación de notificación. El maquinista del tren Os 17108 notificó al despachador director la hora de llegada a dicha estación de trabajo y, al mismo tiempo, solicitó el permiso de salida del tren Os 17108 a las 13:53 h hacia la estación de trabajo D3 Potůčky. Inmediatamente después, el despachador director concedió al maquinista el permiso de salida del tren Os 17108 hacia la estación de trabajo D3 Potůčky.
-A las 14:16 h el maquinista del tren Os 17108 notificó al despachador director un retraso de 5 min, quien a continuación, a las 14:22 h, ofreció al jefe de estación de la est. Johanngeorgenstadt el tren
 
+El maquinista del tren Os 17113 incorporó su turno el día 7. 7. 2020 en la est. Karlovy Vary, primero en el tren Os 17108 con salida regular de la est. Karlovy Vary a las 13:10 h, en dirección a la est. Johanngeorgenstadt, donde debía hacer transbordo al tren Os 17113 Johanngeorgenstadt – Karlovy Vary dolní nádraží. El tren Os 17108 llegó a las 13:52 h a la estación de maniobras D3 Nové Hamry, donde para este tren el TJŘ impone la obligación de notificación. El maquinista del tren Os 17108 notificó al despachador director la hora de llegada a esta estación de maniobras y simultáneamente solicitó el permiso de salida del tren Os 17108 a las 13:53 h hacia la estación de maniobras D3 Potůčky. El despachador director, inmediatamente después, concedió al maquinista el permiso de salida del tren Os 17108 hacia la estación de maniobras D3 Potůčky.
+
+A las 14:16 h, el maquinista del tren Os 17108 notificó al despachador director un retraso de 5 min, quien posteriormente, a las 14:22 h, ofreció al jefe de estación de la est. Johanngeorgenstadt el tren
 
 ## Página 31
-Os 17108 con salida de la estación de trabajo D3 Potůčky a las 14:25 h. El jefe de estación de la est. Johanngeorgenstadt aceptó el tren Os 17108.
-El tren Os 17108 llegó a la estación de trabajo D3 Potůčky a las 14:24 h con un retraso de 5 minutos. El maquinista notificó al despachador director la hora de llegada a dicha estación de trabajo y, al mismo tiempo, solicitó el permiso de salida del tren Os 17108 a las 14:25 h hacia la est. Johanngeorgenstadt. Inmediatamente después, el despachador director concedió el permiso de circulación del tren.
-A las 14:39 h el tren Os 17110 partió de la vía SK n.º 1 de la est. Nejdek de conformidad con el art. 82 de las Reglas de la est. Nejdek, con la señal que autoriza la circulación en la señal principal (de salida) L1 en dirección a la estación de trabajo D3 Nové Hamry, donde se detuvo a las 14:49 h. Tras el ascenso y descenso de pasajeros, el tren Os 17110 partió a las 14:50 h en dirección a la estación de trabajo D3 Pernink, donde para este tren el TJŘ ordena la obligación de notificación y el cruce regular con el tren Os 17113.
-A las 14:46 h el jefe de estación de la est. Johanngeorgenstadt ofreció al despachador director DOZ Nejdek el tren Os 17113 con salida de la est. Johanngeorgenstadt a las 14:50 h, y el despachador director aceptó el tren. El maquinista partió de la est. Johanngeorgenstadt con el tren Os 17113, según su declaración, con la señal del semáforo «Velocidad 40 km/h y aviso» en dirección a la estación de trabajo D3 Potůčky.
-El tren Os 17113 llegó a las 14:52 h a la estación de trabajo D3 Potůčky, donde para este tren el TJŘ ordena a diario la obligación de notificación. Según la conversación registrada en el dispositivo de grabación ReDat 3, el maquinista, de conformidad con los arts. 260 y 264 de la norma interna del gestor de la vía SŽDC D3, notificó al despachador director la hora de llegada a dicha estación de trabajo y, al mismo tiempo, solicitó el permiso de salida del tren Os 17113 a las 14:53 h hacia la estación de trabajo D3 Pernink. Inmediatamente después, el despachador director, de conformidad con el art. 263 de la norma interna del gestor de la vía SŽDC D3, concedió al maquinista el permiso de salida del tren Os 17113 hacia la estación de trabajo D3 Pernink:
-«Aquí el despachador director (apellido) recibe.
+
+Os 17108 con salida de la estación de maniobras D3 Potůčky a las 14:25 h. La jefa de estación de
+Johanngeorgenstadt recibió el tren Os 17108.
+El tren Os 17108 llegó a la estación de maniobras D3 Potůčky a las 14:24 h con 5 minutos de retraso.
+El maquinista informó al despachador director de la hora de llegada a esta estación de maniobras y
+simultáneamente solicitó la autorización para la salida del tren Os 17108 a las 14:25 h hacia la
+estación de Johanngeorgenstadt.
+El despachador director concedió inmediatamente después la autorización para la circulación del tren.
+A las 14:39 h partió el tren Os 17110 desde la vía n.º 1 de la estación de Nejdek de acuerdo con el
+art. 82 de las Instrucciones de Circulación de la estación de Nejdek, con la señal que autoriza la
+circulación en la señal principal (de salida) L1 en dirección a la estación de maniobras D3 Nové
+Hamry, donde se detuvo a las 14:49 h. Posteriormente, tras el ascenso y descenso de pasajeros, el tren
+Os 17110 partió a las 14:50 h en dirección a la estación de maniobras D3 Pernink, donde para este tren
+el TJŘ ordena la obligación de dar parte y el cruce regular con el tren Os 17113.
+A las 14:46 h la jefa de estación de Johanngeorgenstadt ofreció al despachador director del DOZ de
+Nejdek el tren Os 17113 con salida de la estación de Johanngeorgenstadt a las 14:50 h, y el despachador
+director aceptó el tren. Desde la estación de Johanngeorgenstadt partió el maquinista con el tren Os
+17113, según su declaración, con la señal del semáforo «Velocidad 40 km/h y aviso» en dirección a la
+estación de maniobras D3 Potůčky.
+El tren Os 17113 llegó a las 14:52 h a la estación de maniobras D3 Potůčky, donde para este tren el
+TJŘ ordena diariamente la obligación de dar parte. Según la conversación registrada en el equipo
+registrador ReDat 3, el maquinista, de acuerdo con los arts. 260 y 264 de la normativa interna del
+operador ferroviario SŽDC D3, informó al despachador director de la hora de llegada a esta estación de
+maniobras y simultáneamente solicitó la autorización para la salida del tren Os 17113 a las 14:53 h
+hacia la estación de maniobras D3 Pernink. El despachador director concedió inmediatamente después,
+de acuerdo con el art. 263 de la normativa interna del operador ferroviario SŽDC D3, al maquinista la
+autorización para la salida del tren Os 17113 hacia la estación de maniobras D3 Pernink:
+«Aquí el despachador director (apellido) recibo.
 •
-Y aquí Potůčky, maquinista del tren 17113 (apellido del maquinista). Tren 17113
+Y aquí Potůčky el maquinista del tren 17113 (apellido del maquinista). Tren 17113
 •
-en Potůčky a las 14:52. ¿Puede salir el tren 17113 a las 14:53 de Potůčky a Pernink (apellido del maquinista)?
+en Potůčky a las 14:52. ¿Puede salir el tren 17113 a las 14:53 de Potůčky a Pernink
+(apellido del maquinista)?
 Sí, el tren 17113 puede salir a las 14:53 de Potůčky a Pernink (apellido del despachador
 •
 director).
-Entendido (apellido del maquinista), fin.»
+Recibido (apellido del maquinista), fin.»
 •
-A continuación, a las 14:53 h, el despachador director, de conformidad con el art. 262 de la norma interna del gestor de la vía SŽDC D3, notificó al jefe de estación de la est. Johanngeorgenstadt la llegada del tren Os 17113 a la estación de trabajo D3 Potůčky, y el jefe de estación confirmó dicha notificación.
-El tren Os 17113 llegó a las 15:06:48 h a la estación de trabajo D3 Pernink, donde para este tren el TJŘ ordena a diario la obligación de notificación y, al mismo tiempo, en días laborables el cruce regular con el tren Os 17110. El maquinista del tren Os 17113 no notificó al despachador director la hora de llegada a la estación de trabajo D3 Pernink ni la liberación del tramo espacial, no esperó la llegada del tren en sentido opuesto, es decir, del tren Os 17110, no solicitó al despachador director el permiso de salida del tren y, tras finalizar el ascenso y descenso de pasajeros y realizar la comprobación del tren, partió de forma no autorizada de la estación de trabajo D3 Pernink hacia el tramo espacial Nové Hamry – Pernink.
-En el momento de la llegada del tren Os 17113 a la estación de trabajo D3 Pernink, a las 15:06:19 h, la circulación del tren Os 17110 provocó la activación del sensor del contador de ejes situado en el km 34,179, es decir, el tren Os 17110 entró en el tramo de aproximación ŽP P191 (tramo de vía THP12-13). A las 15:07:40 h, cuando el tren Os 17110 se encontraba en el tramo de vía THP12-13 del tramo espacial Nové Hamry – Pernink, se produjo el cambio del desvío con mecanismo de retorno automático n.º 2sv en la estación de trabajo D3 Pernink
+Posteriormente, a las 14:53 h, el despachador director, de acuerdo con el art. 262 de la normativa
+interna del operador ferroviario SŽDC D3, informó a la jefa de estación de Johanngeorgenstadt de la
+llegada del tren Os 17113 a la estación de maniobras D3 Potůčky, y la jefa de estación confirmó este
+aviso.
+El tren Os 17113 llegó a las 15:06:48 h a la estación de maniobras D3 Pernink, donde para este tren el
+TJŘ ordena diariamente la obligación de dar parte y simultáneamente en días laborables el cruce
+regular con el tren Os 17110. El maquinista del tren Os 17113 no informó al despachador director de la
+hora de llegada a la estación de maniobras D3 Pernink ni de la liberación del sector espacial, no
+esperó la llegada del tren en sentido contrario, es decir, el tren Os 17110, no solicitó al despachador
+director la autorización para la salida del tren y, tras finalizar el ascenso y descenso de pasajeros y
+realizar la maniobra del tren, partió indebidamente de la estación de maniobras D3 Pernink hacia el
+sector espacial Nové Hamry – Pernink.
+En el momento de la llegada del tren Os 17113 a la estación de maniobras D3 Pernink, a las 15:06:19 h,
+la circulación del tren Os 17110 provocó la activación del captador del contador de ejes situado en el
+pk 34,179, es decir, el tren Os 17110 entró en el tramo de aproximación de la ZP P191 (tramo de vía
+THP12-13). A las 15:07:40 h, cuando el tren Os 17110 se encontraba en el tramo de vía THP12-13 del
+sector espacial Nové Hamry – Pernink, se produjo el cambio de la aguja con enclavamiento automático
+n.º 2sv en la estación de maniobras D3 Pernink
 
 ## Página 32
 
-de la posición prioritaria con la circulación del tren Os 17113. A las 15:07:56 h el tren Os 17113 abandonó la estación de tráfico D3 Pernink en el km 35,913 y entró en el sector espacial Nové Hamry – Pernink, ocupado por el tren Os 17110, que a las 15:08:01 h liberó el tramo de vía THP12-13, es decir, abandonó el tramo de alejamiento ŽP P191 en el km 35,219.
-Tras el maquinista del tren Os 17113, según su declaración, al circular en una curva a la derecha vio delante de sí, a una distancia de unos 100 m, el tren que circulaba en sentido contrario, a pesar de que aplicó inmediatamente frenado de acción rápida, se produjo en el km 35,582 una colisión frontal entre los trenes. Como consecuencia de la colisión, el tren Os 17110 fue desplazado 12 m en sentido contrario a su marcha y los frentes de ambos trenes se detuvieron en el km 35,570.
-### 3.2.2 Secuencia de hechos desde la producción del suceso extraordinario hasta la finalización de las acciones de los servicios de emergencia
-15:08 h – producción del SE;
+de la posición prioritaria con la circulación del tren Os 17113. A las 15:07:56 h el tren Os 17113 abandonó el límite de la zona de circulación D3 Pernink en el km 35,913 y entró en el sector espacial Nové Hamry – Pernink, ocupado por el tren Os 17110, que a las 15:08:01 h liberó el tramo de vía THP12-13, es decir, abandonó el tramo de alejamiento ŽP P191 en el km 35,219.
+Una vez que el maquinista del tren Os 17113, según su declaración, al circular en una curva a la derecha vio delante de sí, a una distancia de unos 100 m, el tren que circulaba en sentido contrario, a pesar de que aplicó de inmediato el frenado de acción rápida, se produjo en el km 35,582 la colisión frontal de los trenes. Como consecuencia de la colisión, el tren Os 17110 fue desplazado 12 m en sentido contrario a su marcha y los frentes de ambos trenes se detuvieron en el km 35,570.
+### 3.2.2 Secuencia de hechos desde la ocurrencia del suceso extraordinario hasta la finalización de las acciones de los servicios de rescate
+15:08 h – ocurrencia del SE;
 •
-15:09 h – aviso de la producción del SE (impacto del tren contra un objeto desconocido) por parte de un pasajero del tren Os 17113 al número 155;
+15:09 h – notificación de la ocurrencia del SE (impacto del tren contra un objeto desconocido) por un pasajero del tren Os 17113 al número 155;
 •
-15:10 h – aviso de la producción del SE (colisión de dos trenes) por parte de un pasajero del tren Os 17110 al número 158;
+15:10 h – notificación de la ocurrencia del SE (colisión de dos trenes) por un pasajero del tren Os 17110 al número 158;
 •
-15:12 h – aviso de la producción del SE por el oficial de operaciones de la Policía Nacional Checa (PČR) al despachador director DOZ Nejdek y envío de una patrulla desde la Sección de Distrito de Pernink al lugar de producción del SE;
+15:12 h – notificación de la ocurrencia del SE por el oficial de operaciones de la PČR al despachador director del DOZ Nejdek y envío de una patrulla de la Sección de Distrito de Pernink al lugar de ocurrencia del SE;
 •
-15:15 h – aviso de la producción del SE por el despachador director DOZ Nejdek al sistema IZS (llamada directa al número 112);
+15:15 h – notificación de la ocurrencia del SE por el despachador director del DOZ Nejdek al IZS (llamada directa al número 112);
 •
-15:16 h – aviso de la producción del SE por el despachador director DOZ Nejdek al despachador operativo CDP Praha – OŘP para el área de Ústí nad Labem;
+15:16 h – notificación de la ocurrencia del SE por el despachador director del DOZ Nejdek al despachador operativo del CDP Praha – OŘP para la región de Ústí nad Labem;
 •
-15:19 h – aviso de la producción del SE por el despachador director DOZ Nejdek al despachador jefe CDP Praha – OŘP para el área de Ústí nad Labem;
+15:19 h – notificación de la ocurrencia del SE por el despachador director del DOZ Nejdek al jefe de despacho del CDP Praha – OŘP para la región de Ústí nad Labem;
 •
-15:22 h – aviso de la producción del SE por el despachador jefe CDP Praha – OŘP para el área de Ústí nad Labem a O18 SŽ;
+15:22 h – notificación de la ocurrencia del SE por el jefe de despacho del CDP Praha – OŘP para la región de Ústí nad Labem al O18 SŽ;
 •
-15:29 h – notificación de la producción del SE por la persona designada O18 SŽ a COP DI;
+15:29 h – comunicación de la ocurrencia del SE por la persona designada del O18 SŽ al COP DI;
 •
-18:15 h – inspección del lugar de producción del SE por empleados de DI;
+18:15 h – inspección del lugar de ocurrencia del SE por empleados del DI;
 •
-21:00 h – concesión de la autorización por el inspector de DI presente para la liberación de la vía;
+21:00 h – concesión del permiso para liberar la vía por el inspector del DI presente;
 •
 23:30 h – restablecimiento de la circulación.
 •
-El Plan IZS fue activado en función de la naturaleza del SE. El Plan IZS fue activado a las 15:09 h, es decir, 1 minuto después de la producción del SE, por un pasajero del tren Os 17113, y posteriormente a las 15:15 h, es decir, 7 minutos después de la producción del SE, por el despachador director DOZ Nejdek.
+El Plan IZS fue activado en función de la naturaleza del SE. El Plan IZS fue activado a las 15:09 h, es decir, 1 minuto después de la ocurrencia del SE, por un pasajero del tren Os 17113, y posteriormente a las 15:15 h, es decir, 7 minutos después de la ocurrencia del SE, por el despachador director del DOZ Nejdek.
 En el lugar del SE intervinieron los siguientes componentes del IZS:
-PČR, Jefatura de Policía de la Región de Karlovy Vary, Distrito de Karlovy Vary, Sección de Distrito de Pernink, Nejdek, Jáchymov, Karlovy Vary – ciudad, Karlovy Vary – Rybáře, Nová Role;
+PČR, Jefatura de Policía de la Región de Karlovy Vary, ÚO Karlovy Vary, Sección de Distrito de Pernink, Nejdek, Jáchymov, Karlovy Vary – ciudad, Karlovy Vary – Rybáře, Nová Role;
 •
-PČR, Jefatura de Policía de la Región de Karlovy Vary, Distrito de Karlovy Vary, Inspectorado de Tráfico de Karlovy Vary;
-
+PČR, Jefatura de Policía de la Región de Karlovy Vary, ÚO Karlovy Vary, Inspección de Tráfico de Karlovy Vary;
+•
 
 ## Página 33
+
 
 PČR, Jefatura de Policía de la Región de Karlovy Vary, Distrito de Karlovy Vary, 1.ª y 2.ª Sección de Criminalidad General de Karlovy Vary;
 •
@@ -1185,8 +1251,8 @@ En la investigación se detectó el incumplimiento de la normativa legal y de la
 •
 «El ferroviario está obligado a ceñirse, en la explotación del transporte ferroviario, a las instrucciones del gestor de la infraestructura emitidas en la explotación del transporte ferroviario»;
 
-
 ## Página 34
+
 
 § 19 apartado 4 del Decreto n.º 173/1995 Sb.:
 •
@@ -1217,8 +1283,8 @@ En la investigación se detectó el incumplimiento de la normativa legal y de la
 •
 «El ferroviario está obligado a explotar el transporte ferroviario de acuerdo con las reglas de explotación del transporte ferroviario, ...»;
 
-
 ## Página 35
+
 
 artículo 60 de la normativa interna de ČD V 2:
 •
@@ -1238,6 +1304,7 @@ En la investigación no se detectó incumplimiento de las funciones y obligacion
 En la investigación no se detectó incumplimiento de las funciones y obligaciones de las entidades de certificación responsables del mantenimiento del material rodante.
 
 ## Página 36
+
 
 ### 4.1.7 Cualquier otra persona o entidad
 Las tareas y obligaciones de otras personas o entidades no guardaban relación con la ocurrencia de la MU.
@@ -1259,31 +1326,36 @@ En la investigación no se detectaron otros factores relacionados con el materia
 Los requisitos aplicables a los empleados del gestor de la infraestructura y del transportista, en particular los relativos a su idoneidad profesional y sanitaria, están establecidos por la Ley n.º 266/1994 Sb., por el Decreto n.º 173/1995 Sb., por el Decreto n.º 101/1995 Sb., por el Decreto n.º 16/2012 Sb. y por las normas internas del gestor de la infraestructura y del transportista.
 El empleado del transportista ČD implicado, maquinista del tren Os 17113, se sometía a reconocimientos médicos periódicos de conformidad con lo dispuesto en el Decreto n.º 101/1995 Sb.
 
-
 ## Página 37
 
-y, en base al informe médico presentado sobre su idoneidad sanitaria para el trabajo, en el momento de la ocurrencia de la MU estaba sanitariamente apto para el desempeño de su función. Según su propia declaración, no se encontraba bajo ningún estrés psicológico al inicio de su turno el 7. 7. 2020 ni durante el mismo.
-La Inspección Ferroviaria, en la investigación del factor humano, trató de evaluar todas las influencias que pudieran haber actuado sobre los empleados implicados y que pudieran haber tenido, en su caso, incidencia en la ocurrencia de esta MU.
-En el caso del maquinista del tren Os 17113 se trató, en particular, de evaluar su experiencia, conocimientos y antigüedad en el puesto. Trabajó como maquinista de forma ininterrumpida desde abril de 2016 hasta la ocurrencia de la MU. El maquinista contaba, por tanto, con una antigüedad suficientemente larga y, según la documentación del transportista ČD, tenía conocimiento demostrado de las condiciones de la línea. Circuló por la línea Karlovy Vary dolní nádraží – Potůčky státní hranice durante aproximadamente 3 años, con un mínimo de siete veces al mes.
-La Inspección Ferroviaria determinó, mediante la investigación, que el maquinista estaba cualificado profesionalmente para el desempeño de la función de maquinista y que su antigüedad en el puesto, experiencia y conocimientos no tuvieron incidencia en la ocurrencia de esta MU.
-En la investigación no se detectaron factores relacionados con la formación profesional del empleado implicado, el maquinista del tren Os 17113, su estado de salud y su situación personal, incluidos el estrés físico y psicológico.
+a en base al dictamen médico presentado sobre la aptitud física para el trabajo, en el momento de la aparición del MU estaba físicamente apto para el desempeño de su función. Según su propia declaración, no estaba sometido a ningún estrés psicológico al inicio de su turno el 7. 7. 2020 ni durante el mismo.
+La Inspección Ferroviaria, en la investigación del factor humano, intentó evaluar todas las influencias que pudieran haber actuado sobre los empleados implicados y que pudieran haber tenido, en su caso, influencia en la aparición de este MU.
+En el caso del maquinista del tren Os 17113 se trató principalmente de evaluar sus experiencias, conocimientos y antigüedad en el puesto. Trabajó como maquinista de forma ininterrumpida desde abril de 2016 hasta la aparición del MU. El maquinista tenía, por tanto, una antigüedad suficientemente larga y, según la documentación del operador ČD, estaba demostradamente familiarizado con las condiciones de la línea. Circuló por la línea Karlovy Vary dolní nádraží – Potůčky státní hranice durante aproximadamente 3 años, al menos siete veces al mes.
+La Inspección Ferroviaria, mediante la investigación, constató que el maquinista estaba cualificado profesionalmente para el trabajo en la función de maquinista y que su antigüedad, experiencias y conocimientos no influyeron en la aparición de este MU.
+En la investigación no se detectaron factores relacionados con la formación profesional del empleado implicado, el maquinista del tren Os 17113, su estado de salud y su situación personal, incluido el estrés físico y psicológico.
 ### 4.3.2 Factores laborales
-La línea Karlovy Vary dolní nádraží – Potůčky státní hranice se encuentra, en el punto de la colisión de los trenes, en un terreno accidentado (masa forestal), en el sentido de circulación del tren Os 17113 en una curva de radio 200 m a la derecha, en una explanación a la derecha, en un terreno en pendiente. Por estas razones, los maquinistas de ambos trenes pudieron avistar el tren que circulaba en sentido contrario a una distancia de aproximadamente 85 m; la visibilidad en el momento de la ocurrencia de la MU no se vio reducida por influencias meteorológicas. Del análisis de los datos registrados por los registradores de velocidad electrónicos de ambos trenes se desprende que ambos maquinistas, tras avistar el tren que circulaba en sentido contrario, de conformidad con las normas internas del gestor de la infraestructura y del transportista, reaccionaron de inmediato a esta circunstancia aplicando frenado de acción rápida y, dadas las condiciones, adoptaron todas las medidas posibles para evitar, respectivamente reducir, las consecuencias de la colisión.
-Los maquinistas de ambos trenes disponían durante la circulación de la TJŘ de sus trenes (véanse las figuras n.º 2 y 3) y dichos horarios contenían todos los datos necesarios para garantizar la explotación segura del transporte ferroviario.
-Ambos trenes (Os 17110 y Os 17113) tenían impuesta, mediante sus TJŘ, en la estación de tráfico D3 Pernink la obligación de notificación (columna 2 «medidas especiales») y, además, en sus TJŘ, en la columna 10 «alcanza al tren n.º», figuraban los trenes con los que se cruzarían en la estación de tráfico. Las restricciones de circulación de los trenes indicados en esta columna figuraban en la nota al pie de la TJŘ.
-De todos los trenes que circulaban en el sentido desde la est. Karlovy Vary dolní nádraží (o, en su caso, solo desde la est. Karlovy Vary o la est. Nejdek) hasta la est. Johanngeorgenstadt (o, en su caso, solo hasta la estación de tráfico D3 Potůčky), es decir, un total de 10 trenes pares, el GVD y la TJŘ establecieron la obligación de notificación únicamente para el tren Os 17110 en la estación de tráfico D3 Pernink, como único tren regular de transporte de pasajeros. De los trenes que circulaban en el sentido desde la est. Johanngeorgenstadt (o, en su caso, solo desde la estación de tráfico D3 Potůčky) hasta la est. Karlovy Vary dolní nádraží (o, en su caso, solo hasta la est. Karlovy Vary), es decir, un total de 8 trenes impares, se estableció la obligación de notificación únicamente para el tren Os 17113 en la estación de tráfico D3 Pernink, como único tren regular de transporte de pasajeros. En la estación de tráfico D3 Pernink, el GVD y la TJŘ establecieron un cruce regular 1 vez al día, únicamente en días laborables, concretamente entre el tren Os 17113 y el tren Os 17110.
-
+La línea Karlovy Vary dolní nádraží – Potůčky státní hranice se encuentra en el lugar de la colisión de los trenes en un terreno accidentado (masa forestal), en el sentido de circulación del tren Os 17113 en una curva de radio 200 m a la derecha en un corte a la derecha en un terreno en pendiente. Por estas razones, los maquinistas de ambos trenes pudieron avistar el tren que circulaba en sentido contrario a una distancia de unos 85 m; la visibilidad en el momento de la aparición del MU no se vio reducida por influencias meteorológicas. Del análisis de los datos registrados por los velocímetros electrónicos de ambos trenes se desprende que ambos maquinistas, tras avistar el tren que circulaba en sentido contrario, de conformidad con las normas internas del operador de la infraestructura y del operador, reaccionaron de inmediato a esta circunstancia aplicando frenado de acción rápida y, en las condiciones dadas, adoptaron todas las medidas posibles para evitar, respectivamente, reducir las consecuencias de la colisión.
+Los maquinistas de ambos trenes tuvieron a su disposición durante la circulación el TJŘ de sus trenes (véase la fig. n.º 2 y 3) y estos horarios de circulación contenían todos los datos necesarios para garantizar la explotación segura del transporte ferroviario.
+Ambos trenes (Os 17110 y Os 17113) tenían, mediante sus TJŘ, en la estación de maniobras D3 Pernink, la obligación de notificación impuesta (columna 2 «medidas especiales») y, además, en sus TJŘ, en la columna 10 «tren que alcanza», figuraban los trenes con los que se encontrarían en la estación de maniobras. Las restricciones de circulación de los trenes indicados en esta columna figuraban en la nota al pie del TJŘ.
+De todos los trenes que circulaban en el sentido desde la est. Karlovy Vary dolní nádraží (o, en su caso, solo desde la est. Karlovy Vary o la est. Nejdek) hasta la est. Johanngeorgenstadt (o, en su caso, solo hasta la estación de maniobras D3 Potůčky), es decir, un total de 10 trenes pares, el GVD y el TJŘ establecieron la obligación de notificación únicamente para el tren Os 17110 en la estación de maniobras D3 Pernink como único tren regular de transporte de pasajeros. De los trenes que circulaban en el sentido desde la est. Johanngeorgenstadt (o, en su caso, solo desde la estación de maniobras D3 Potůčky) hasta la est. Karlovy Vary dolní nádraží (o, en su caso, solo hasta la est. Karlovy Vary), es decir, un total de 8 trenes impares, se estableció la obligación de notificación únicamente para el tren Os 17113 en la estación de maniobras D3 Pernink como único tren regular de transporte de pasajeros. En la estación de maniobras D3 Pernink, el GVD y el TJŘ establecieron un cruce regular 1 vez al día, únicamente en días laborables, concretamente del tren Os 17113 con el tren Os 17110.
 
 ## Página 38
 
-Figura n.º 2: TJŘ del tren Os 17110
+Fig. n.º 2: TJŘ del tren Os 17110
      Fuente: SŽ con modificación de DI
-Figura n.º 3: TJŘ del tren Os 17113
+Fig. n.º 3: TJŘ del tren Os 17113
      Fuente: SŽ con modificación de DI
-El maquinista del tren Os 17113 no pudo explicar por qué, tras la llegada del tren a las 14:56 h a la estación de tráfico D3 Pernink, no cumplió la obligación de notificación, a pesar de que, aún en la estación de tráfico anterior D3 Potůčky, había solicitado a las 14:52 h, según la conversación registrada en el dispositivo de registro ReDat 3, al despachador director el consentimiento para la salida del tren hacia la estación de tráfico D3 Pernink. El maquinista era, por tanto, consciente, aún en la estación de tráfico D3 Potůčky, de la obligación de notificación impuesta por la TJŘ en la estación de tráfico D3 Pernink. Sin embargo, admitió la posibilidad de que la causa de su
-
+El maquinista del tren Os 17113 no pudo explicar por qué, tras la llegada del tren a las
+14:56 h a la estación de tráfico D3 Pernink, no cumplió la obligación de notificación, a
+pesar de que, aún en la estación de tráfico anterior D3 Potůčky, había solicitado a las
+14:52 h, según la conversación registrada en el dispositivo de registro ReDat 3, al
+despachador director el consentimiento para la salida del tren hacia la estación de tráfico
+D3 Pernink. El maquinista era, por tanto, plenamente consciente, ya en la estación de
+tráfico D3 Potůčky, de la obligación de notificación ordenada por el TJŘ en la estación de
+tráfico D3 Pernink. Sin embargo, admitió la posibilidad de que la causa de su
 
 ## Página 39
+
 
 fallo pudiera ser el hecho de que el día anterior, 6. 7. 2020, que fue festivo nacional, no tenía en la estación de tráfico D3 Pernink ni obligación de notificación ni cruce.
 Por la Orden de interrupción n.º 73152, ref. 13908/2020-SŽ-OŘ UNL-NŘP, de fecha 7. 5. 2020 y su modificación con efectos desde el 12. 6. 2020, en el asunto: «Rehabilitación de un terraplén inestable del cuerpo de tierra en el tramo entre las estaciones de tráfico Hájek – Dalovice y en la estación de tráfico Dalovice y trabajos de mantenimiento en el tramo entre las estaciones de tráfico Ostrov nad Ohří – Hájek y en las estaciones de tráfico Hájek y Dalovice», se estableció que el tren Os 17112 en el tramo Karlovy Vary dolní nádraží – Johanngeorgenstadt circula desviado como tren Os 95998 y el tren Os 17113 en el tramo Johanngeorgenstadt – Karlovy Vary dolní nádraží desviado como tren Os 95999. En base a una solicitud debido a restricciones de la infraestructura, se asignó capacidad de vía al transportista ČD y se creó una TJŘ ad hoc para el tren, es decir, para un tren que circula en un itinerario excepcional debido a una interrupción prevista en el período del 20. 6. 2020 al 31. 10. 2020, únicamente los sábados, domingos y festivos reconocidos por el Estado.
@@ -1294,53 +1366,56 @@ El cumplimiento estricto de los procedimientos tecnológicos establecidos por pa
 
 ## Página 40
 
-de trenes. El incumplimiento de la obligación de notificación, la no solicitud de autorización para continuar la marcha y la posterior circulación no autorizada en el intervalo espacial de la vía, en el que en la mayoría de los casos se encuentra el tren contrario, supone siempre un riesgo de colisión de estos trenes y un peligro para la vida y la integridad física de los pasajeros, los jefes de tren y, en primer lugar, de los propios maquinistas de estos trenes.
-En la investigación no se detectaron factores relacionados con la jornada laboral de los empleados. Los empleadores garantizaron a los empleados las condiciones para el descanso antes del turno y durante el turno.
+de trenes. El incumplimiento de la obligación de notificación, la no solicitud de autorización para continuar la marcha y la posterior circulación no autorizada a un sector de vía, en el que en la mayoría de los casos se encuentra un tren circulando en sentido contrario, supone siempre un riesgo de colisión de dichos trenes y un peligro para la vida y la integridad física de los viajeros, del jefe de tren y, en primer lugar, también de los propios maquinistas de dichos trenes.
+En la investigación no se detectaron factores relacionados con la jornada laboral de los empleados.
+Los empleadores garantizaron a los empleados las condiciones para el descanso antes del turno y durante el turno.
 ### 4.3.3 Factores organizativos y tareas
 En la investigación no se detectaron factores relacionados con la organización del trabajo o con las tareas laborales.
 ### 4.3.4 Factores relacionados con el entorno laboral
 En la investigación no se detectaron factores relacionados con el entorno laboral.
 ### 4.3.5 Otro factor relevante a efectos de la investigación
 En la investigación no se detectaron otros factores relacionados con la actuación de las personas implicadas.
-### 4.4 Mecanismos de retroalimentación y mecanismos de control, incluida la gestión de riesgos
-y la garantía de seguridad, y procedimientos de seguimiento
+### 4.4 Mecanismos de retroalimentación y mecanismos de control, incluida la gestión del riesgo
+y la garantía de la seguridad, y los procedimientos de seguimiento
 ### 4.4.1 Condiciones pertinentes del marco regulatorio
-Las condiciones pertinentes del marco regulatorio están establecidas en los Reglamentos de la Unión Europea, en la Ley núm. 266/1994 Sb. y en los reglamentos de desarrollo.
+Las condiciones pertinentes del marco regulatorio están establecidas en los Reglamentos de la Unión Europea,
+en la Ley núm. 266/1994 Sb. y en los decretos de aplicación.
 4.4.2 Procedimientos, métodos, contenido y resultados de las actividades de evaluación de riesgos y seguimiento
 realizadas por cualquiera de los sujetos implicados
-En los procedimientos, métodos, contenido y resultados de las actividades de evaluación de riesgos y seguimiento, relacionados con las circunstancias del origen de la ME en cuestión, no se detectaron deficiencias.
-### 4.4.3 Sistema de garantía de seguridad de los operadores ferroviarios y gestores de infraestructura implicados
-En el sistema de garantía de seguridad adoptado por el gestor de infraestructura y el operador ferroviario, relacionado con las circunstancias del origen de la ME en cuestión, no se detectaron deficiencias.
+En los procedimientos, métodos, contenido y resultados de las actividades de evaluación de riesgos y seguimiento
+relacionados con las circunstancias del origen de la MIE en cuestión, no se detectaron deficiencias.
+### 4.4.3 Sistema de garantía de la seguridad de los operadores ferroviarios y gestores de infraestructura implicados
+En el sistema de garantía de la seguridad adoptado por el gestor de infraestructura y el operador ferroviario, relacionado
+con las circunstancias del origen de la MIE en cuestión, no se detectaron deficiencias.
 ### 4.4.4 Sistema de gestión de los sujetos responsables del mantenimiento del material rodante
 y de los talleres de mantenimiento
-El sistema de gestión de los sujetos responsables del mantenimiento del material rodante y de los talleres de mantenimiento no guardaba relación con el origen de la ME.
+El sistema de gestión de los sujetos responsables del mantenimiento del material rodante y de los talleres de mantenimiento
+no guardaba relación con el origen de la MIE.
 ### 4.4.5 Resultados de la supervisión realizada por las autoridades nacionales de seguridad
-Atendiendo a los factores detectados y a las circunstancias del origen de la ME, la supervisión de la autoridad de seguridad no guarda relación con la ME en cuestión.
-
+Atendiendo a los factores detectados y a las circunstancias del origen de la MIE, la supervisión de la autoridad de seguridad
+no guarda relación con la MIE en cuestión.
 
 ## Página 41
 
-### 4.4.6 Aprobaciones, certificados y evaluaciones emitidos por la agencia, las autoridades nacionales de seguridad u otros sujetos de evaluación de la conformidad
-El gestor de infraestructura explotó la vía al amparo de la autorización administrativa vigente y del certificado de seguridad del gestor de infraestructura. El operador ferroviario explotó el transporte ferroviario al amparo de la licencia vigente y del certificado del operador ferroviario.
+### 4.4.6 Aprobaciones, certificados y informes de evaluación otorgados por la agencia, las autoridades nacionales de seguridad u otros organismos de evaluación de la conformidad
+El gestor de la infraestructura ferroviaria explotó la infraestructura en virtud de una autorización administrativa vigente y de un certificado de seguridad del gestor de la infraestructura ferroviaria. El transportista explotó el transporte ferroviario en virtud de una licencia vigente y de un certificado del transportista.
 ### 4.4.7 Otros factores sistémicos
-En la investigación no se detectaron otros factores sistémicos.
+En el curso de la investigación no se detectaron otros factores sistémicos.
 ### 4.5 Sucesos anteriores de naturaleza similar
-El DI investigó las causas y circunstancias en el periodo comprendido entre el 1. 1. 2008 y la fecha de origen de la ME en cuestión en las vías ferroviarias, categoría regional, de las siguientes ME análogas:
-• del 2. 2. 2011 entre la estación de clasificación D3 Vodňany y la est. Číčenice, cuando se produjo una colisión
-entre el tren Os 18003 y el tren Mn 88850. Las causas inmediatas del origen de la ME fueron:
-➢la solicitud incorrecta realizada por el maquinista del tren Os 18003 al despachador director, ya en la estación de clasificación Bavorov, de la autorización para salir hasta la estación adyacente Číčenice, a pesar de que tenía la obligación de notificarlo aún en la estación de clasificación intermedia Vodňany;
-➢el incumplimiento de la obligación de notificación por parte del maquinista del tren Os 18003 en la estación de clasificación Vodňany, que tras su llegada no solicitó al despachador director la autorización para salir hacia la est. Číčenice y partió con el tren Os 18003 de forma no autorizada, sin esperar la llegada del tren contrario Mn 88850;
-➢la autorización del despachador director de la est. Prachatice al maquinista del tren Os 18003 para circular desde la estación de clasificación Bavorov hasta la est. Číčenice;
-➢la autorización del despachador director de la est. Prachatice al jefe de estación de la est. Číčenice para la circulación del tren Mn 88850 de Číčenice a Vodňany.
-La Inspección Ferroviaria emitió una Recomendación de Seguridad al gestor de infraestructura, por la que se ordenó a
-SŽ (antes SŽDC):
-➢instalar y poner en servicio pleno en las vías donde se aplica la gestión simplificada del transporte ferroviario conforme al § 19 del reglamento núm. 173/1995 Sb., por el que se aprueba el Reglamento de Circulación Ferroviaria, en su redacción vigente, con carácter prioritario en la vía ferroviaria regional Číčenice – Volary, dada la repetición de accidentes graves y la considerable intensidad del transporte ferroviario en dicha vía, instalaciones técnicas (de seguridad) que eliminen la posible falla del factor humano en interés de la explotación segura de la vía y del transporte ferroviario y, con ello, del origen de accidentes graves, accidentes y situaciones de peligro en el transporte ferroviario, es decir, fundamentalmente de las salidas no autorizadas de trenes de las estaciones de clasificación, que fueron la causa del origen de ya tres accidentes graves en la vía en cuestión.
-La Inspección Ferroviaria emitió una Recomendación de Seguridad a la Oficina Ferroviaria:
-➢la adopción de una medida propia encaminada a garantizar la realización de las recomendaciones de seguridad anteriores también en los demás gestores de infraestructura regional
-y en los demás operadores ferroviarios implicados.
-
+La DI investigó las causas y circunstancias en el periodo comprendido entre el 1. 1. 2008 y la fecha de ocurrencia de la MU objeto de estudio, en las infraestructuras ferroviarias, categoría regional, de las siguientes MU análogas:
+• del 2. 2. 2011, entre la estación de maniobras D3 Vodňany y la estación Číčenice, cuando se produjo una colisión
+entre el tren Os 18003 y el tren Mn 88850. Las causas inmediatas de la MU fueron:
+➢solicitud incorrecta del despachador director por parte del maquinista del tren Os 18003 ya en la estación de maniobras Bavorov, para obtener el permiso de salida hasta la estación adyacente Číčenice, pese a que tenía la obligación de notificar aún en la estación de maniobras intermedia Vodňany;
+➢incumplimiento de la obligación de notificación por parte del maquinista del tren Os 18003 en la estación de maniobras Vodňany, que tras su llegada no solicitó al despachador director el consentimiento para salir hacia la estación Číčenice y partió indebidamente con el tren Os 18003, sin esperar la llegada del tren en sentido contrario Mn 88850;
+➢permiso del despachador director de la estación Prachatice al maquinista del tren Os 18003 para circular desde la estación de maniobras Bavorov hasta la estación Číčenice;
+➢consentimiento del despachador director de la estación Prachatice al jefe de estación de la estación Číčenice para la circulación del tren Mn 88850 desde Číčenice hasta Vodňany.
+La Inspección Ferroviaria emitió una Recomendación de Seguridad al gestor de la infraestructura ferroviaria, que era SŽ (antes SŽDC):
+➢instalar y poner en pleno funcionamiento en las líneas donde se aplica la gestión simplificada del transporte ferroviario conforme al § 19 del decreto nº 173/1995 Sb., por el que se aprueba el reglamento de circulación ferroviaria, en su redacción vigente, con carácter prioritario en la línea ferroviaria regional Číčenice – Volary, dada la repetida ocurrencia de accidentes graves y la elevada intensidad del transporte ferroviario en dicha infraestructura, dispositivos técnicos (de seguridad) que eliminen la posible falla del factor humano en interés de la explotación segura de la infraestructura y del transporte ferroviario y, con ello, la ocurrencia de accidentes graves, accidentes y situaciones de peligro en el transporte ferroviario, es decir, fundamentalmente las salidas indebidas de trenes de las estaciones de maniobras, que fueron la causa de la ocurrencia de ya tres accidentes graves en la infraestructura objeto de estudio.
+La Inspección Ferroviaria emitió una Recomendación de Seguridad a la Autoridad Ferroviaria:
+➢adopción de medidas propias encaminadas a garantizar la realización de las recomendaciones de seguridad anteriores también por parte de los demás gestores de la infraestructura ferroviaria regional y de los demás transportistas implicados.
 
 ## Página 42
+
 
 • del 4. 2. 2014, cuando el tren Os 15966 salió de forma no autorizada de la estación de clasificación D3 Lípa.
 La causa inmediata del origen de la ME fue la salida del tren Os 15966 de la estación de clasificación D3 Lípa sin la autorización del despachador director hacia el intervalo ocupado por el tren Mn 82552;
@@ -1377,8 +1452,8 @@ Sin embargo, al mismo tiempo, las vías regionales suelen generar con dificultad
 alcanzar una valoración positiva de los proyectos. Para las vías regionales, por tanto, no cabe esperar
 que se produzca la aplicación del sistema ERTMS/ETCS, siendo excepción únicamente los casos
 
-
 ## Página 43
+
 
 de vías en las que, en el marco de la modernización, se incremente la velocidad por encima de 100 km/h. Con el
 requisito actual del Ministerio de Transportes, tampoco puede presumirse que fuera
@@ -1429,20 +1504,19 @@ las vías regionales requiere enormes costes económicos y solo es posible tras 
 
 ## Página 44
 
-de un estado estabilizado a largo plazo de la infraestructura ferroviaria conexa. Sin embargo, al mismo tiempo, las líneas regionales generan difícilmente beneficios económicos para alcanzar una valoración positiva y un plazo de retorno aceptable.
-La Oficina Ferroviaria ve la solución para las líneas menos utilizadas en la necesidad de garantizar el grado de seguridad y capacidad requerido de manera económicamente eficiente. Para las líneas con condiciones de explotación sencillas (típicamente reguladas según la norma D3) se pueden utilizar sistemas de señalización simplificados, que en combinación con TRS y VNPN aumentan sustancialmente el grado de seguridad y no requieren equipamiento no estándar de los vehículos, como por ejemplo el sistema Radioblok (D4). Otra vía que ve la Oficina Ferroviaria es la supresión progresiva de las líneas D3 y su sustitución por líneas reguladas según D1.
-La propia actualización del NIP, la acortación del plazo para la implantación de ERTMS, condicionar o no condicionar la implantación de ETCS a la implantación previa de GSM-R, etc., está fuera de las competencias de la Oficina Ferroviaria.
-En materia de aumento de la seguridad del tráfico ferroviario en las líneas con control de tráfico simplificado, la Oficina Ferroviaria está preparada, en el marco de la recomendación de seguridad, para cooperar con el Ministerio de Transportes."
+de un estado estabilizado a largo plazo de la infraestructura ferroviaria adyacente. Sin embargo, al mismo tiempo, las líneas regionales generan difícilmente beneficios económicos para alcanzar una valoración positiva y un plazo de retorno aceptable.
+La Oficina Ferroviaria ve la solución para las líneas menos utilizadas en la necesidad de garantizar el grado de seguridad y capacidad requerido de manera económicamente eficiente. Para las líneas con condiciones de explotación sencillas (típicamente reguladas según la norma D3) se pueden utilizar sistemas de señalización simplificados, que en combinación con TRS y VNPN aumentan sustancialmente el grado de seguridad y no requieren equipamiento estándar superior en los vehículos, como por ejemplo el sistema Radioblok (D4). Otra vía que ve la Oficina Ferroviaria es la supresión progresiva de las líneas D3 y su sustitución por líneas reguladas según D1.
+La propia actualización del NIP, la acortación del plazo de implementación de ERTMS, condicionar o no condicionar la implementación de ETCS a la implementación previa de GSM-R, etc., está fuera de las competencias de la Oficina Ferroviaria.
+En materia de aumento de la seguridad de la explotación ferroviaria en las líneas con control de tráfico simplificado, la Oficina Ferroviaria está preparada, en el marco de la recomendación de seguridad, para cooperar con el Ministerio de Transportes."
 ### 5 CONCLUSIONES
 ### 5.1 Resumen del análisis y conclusiones relativas a las causas del suceso
 La causa inmediata del suceso excepcional fue:
-el incumplimiento de la obligación de notificación por parte del maquinista del tren Os 17113 en el puesto de control de tráfico D3 Pernink, la no espera de la llegada del tren en sentido contrario, la no solicitud de autorización para la salida del tren y su salida no autorizada al sector de vía ocupado por el tren Os 17110.
+el incumplimiento de la obligación de notificación por parte del maquinista del tren Os 17113 en el puesto de control de explotación D3 Pernink, la no espera de la llegada del tren en sentido contrario, la no solicitud de autorización para la salida del tren y su salida no autorizada al tramo de vía ocupado por el tren Os 17110.
 •
-El factor contribuyente del suceso excepcional fue:
+Un factor contribuyente del suceso excepcional fue:
 la ausencia de equipamiento técnico (de señalización) que eliminara el posible fallo del factor humano en interés de la explotación segura de la vía y del transporte ferroviario.
 •
-No se detectó una causa sistémica por parte de la DI.
-
+La DI no detectó la causa sistémica.
 ### A summary of the analysis and conclusions with regard to the causes of the
 occurrence
 Causal factor:
@@ -1459,8 +1533,8 @@ failure of the human factor in the interest of safe operation of the railway and
 transport.
 Systemic factor: none.
 
-
 ## Página 45
+
 
 ### 5.2 Medidas adoptadas para prevenir los sucesos excepcionales
 El gestor de la vía SŽ adoptó las siguientes medidas tras la ocurrencia del SE:
@@ -1482,8 +1556,8 @@ En interés del aumento de la seguridad de la explotación en las líneas D3, se
 •
 En el marco del desarrollo desfavorable de la situación de explotación en el área del SE, se ordenó con efecto inmediato el "Aseguramiento del aumento de la actividad de control", ref. 46379/2020-SŽ-GŘ-O11, de fecha 15 de julio de 2020.
 
-
 ## Página 46
+
 
 Otras líneas en las que actualmente el transporte ferroviario se organiza con control simplificado:
 1. "Concepto de aumento de la seguridad en las líneas con control simplificado del transporte ferroviario", ref. S70561/2020-SŽ-GŘ-O26, de fecha 12 de noviembre de 2020 (posibilidad de solución para el aumento de la seguridad de las líneas con control simplificado del transporte ferroviario en el sentido del § 19 del decreto del Ministerio de Transportes nº 173/1995 Sb., por el que se dicta el reglamento de circulación ferroviaria, en la redacción de las normas posteriores).
@@ -1516,8 +1590,8 @@ when the signal device is in position „Stop”. The function issues (using the
 the command to stop all trains in range of the base station. The whole railway track is
 under the control of the dispatcher at Karlovy Vary station.
 
-
 ## Página 47
+
 
 Preparation of the change of security at the railway track between Nejdek station
 •
@@ -1569,6 +1643,7 @@ la no confirmación mediante firma de la recepción del HDV por parte del maquin
 
 ## Página 48
 
+
 ### Observaciones adicionales
 En la empresa ferroviaria ČD:
 • Falta de confirmación de la toma de posesión de la locomotora en el Libro de entrega al embarcar el tren n.º 17108 mediante la firma del maquinista.
@@ -1587,8 +1662,8 @@ inspector
 Inspectorado Territorial de Bohemia
 Inspectorado Territorial de Bohemia
 
-
 ## Página 49
+
 
 ### ANEXOS
 Fig. n.º 4: Vista del lugar de la colisión desde la dirección de circulación del tren Os 17113

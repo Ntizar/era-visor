@@ -10,13 +10,14 @@ chars: 109457
 ratio_longitud: 1.27
 tokens_in: 49395
 tokens_out: 34973
-verificacion: revisar
-notas_cifras: ["bloque 1: original bilingüe: se compara contra el idioma principal (EN); cifras cortas: 1/213", "bloque 3: original bilingüe: se compara contra el idioma principal (CS); cifras cortas: 1/162", "bloque 8: original bilingüe: se compara contra el idioma principal (CS)"]
-avisos: ["bloque 8: ratio 1.96"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 3: original bilingüe: se compara contra el idioma principal (PT); cifras cortas: 1/9", "página 6: original bilingüe: se compara contra el idioma principal (CS)", "página 7: original bilingüe: se compara contra el idioma principal (CS)", "página 11: original bilingüe: se compara contra el idioma principal (CS)", "página 12: original bilingüe: se compara contra el idioma principal (CS)", "página 13: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 República Checa
 Oficina de Inspección de Seguridad Ferroviaria
@@ -41,13 +42,13 @@ CIF: 75009561
 mail@dicr.cz
 tel.: +420 736 521 003
 
-
 ## Página 2
+
 
 Este informe final es público y todos los hechos en él expuestos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ### 1 RESUMEN
 Fuente: Správa železnic, organización estatal
@@ -78,14 +79,13 @@ factores situacionales y la presión de tiempo derivada de los mismos, que no
 fue eliminada subjetivamente por parte del jefe de estación debido a una
 insuficiente vigilancia y conciencia del riesgo.
 
-
 ## Página 4
 
-La causa sistémica no fue determinada por la Oficina de Inspección Ferroviaria.
-No se emitieron recomendaciones de seguridad por parte de la Oficina de Inspección Ferroviaria.
-
+No se ha determinado la causa sistémica por parte de la Inspección Ferroviaria.
+No se ha emitido ninguna recomendación de seguridad por parte de la Inspección Ferroviaria.
 
 ## Página 5
+
 
 ### RESUMEN
 15 de julio de 2020, 19:15 (17:15 GMT).
@@ -120,8 +120,8 @@ Factor sistémico:
 ninguno.
 Recomendación: no emitida.
 
-
 ## Página 6
+
 
 # Índice
 1 RESUMEN.......................................................................................................................3
@@ -180,8 +180,8 @@ ferroviarios....................................................................
 4.2.1 Factores o consecuencias derivados de la construcción de los vehículos
 ferroviarios, de la infraestructura ferroviaria o de las instalaciones técnicas..............28
 
-
 ## Página 7
+
 
 4.2.2 Factores o consecuencias derivados de la instalación y puesta en servicio de los
 vehículos ferroviarios, de la infraestructura ferroviaria o de las instalaciones
@@ -226,6 +226,7 @@ conformidad.....................................................................
 ANEXOS..............................................................................................................................42
 
 ## Página 8
+
 
 ### Lista de siglas y símbolos utilizados
 COP
@@ -299,8 +300,8 @@ Informe final sobre los resultados de la investigación del suceso excepcional
 žst.
 estación ferroviaria
 
-
 ## Página 9
+
 
 ### Lista de siglas de la legislación, normas y reglamentos internos utilizados
 ley núm. 266/1994 Sb.
@@ -358,8 +359,8 @@ reglamento interno del explotador ferroviario SŽ «Reglamento
 sobre la aptitud profesional y los conocimientos de las personas
 en la explotación
 
-
 ## Página 10
+
 
 ferroviaria y del transporte ferroviario», en la redacción vigente en el momento de la
 |  | ferroviaria y del transporte ferroviario» en la redacción vigente en el momento de la , |
@@ -380,8 +381,8 @@ ferroviaria y del transporte ferroviario», en la redacción vigente en el momen
 |  | excepcionales» en , la redacción vigente en el momento de la |
 |  | ocurrencia del suceso excepcional |
 
-
 ## Página 11
+
 
 ### 2 INVESTIGACIÓN Y SU RELACIÓN
 ### 2.1 Decisión de iniciar la investigación
@@ -426,8 +427,8 @@ medición de los parámetros de la superestructura ferroviaria;
 realización de la prueba de bloqueo de la aguja núm. 1;
 •
 
-
 ## Página 12
+
 
 medición de los parámetros del enganche de gancho;
 •
@@ -476,8 +477,8 @@ pk 83,494.
 Coordenadas GPS:
 49.9714494N, 15.7693642E.
 
-
 ## Página 13
+
 
 ### 3.1.3 Descripción del lugar del suceso
 La est. Medlešice se encuentra en el ferrocarril, categoría nacional, Havlíčkův Brod –
@@ -510,64 +511,42 @@ descarrilamiento del aro;
 pk 83,503 – primera huella del arado arrastrado por las cabezas del carril de apoyo;
 •
 
-
 ## Página 14
 
-pk 83,505 – primeras huellas visibles en los elementos de fijación entre el carril y el riel
+km 83,505 – primeras huellas visibles en los elementos de fijación entre la lengüeta y el soporte.
 •
-de apoyo.
-La circulación de la rueda descarrilada dañó otros elementos de fijación en el lado
-izquierdo del carril interior en la parte central y el bloqueo del carril;
-pk 83,513 – otras huellas visibles en las cabezas de los raíles y por el arrastre del arado
+El paso de la rueda descarrilada dañó otros elementos de fijación en el lado izquierdo del carril interior en la parte central y el cierre de la lengüeta;
+km 83,513 – otras huellas visibles en las cabezas de los carriles y tras el arrastre del rastrillo en las caras interiores de los carriles y en el corazón del cambio;
 •
-en las caras interiores de los raíles y en la brea;
-pk 83,531 – a la izquierda, huella visible por el salto de la rueda de la dirección de
+km 83,531 – huella visible a la izquierda del salto de la rueda desde la dirección de desvío hacia la dirección principal;
 •
-desvío a la dirección principal;
-pk 83,540 – últimas huellas visibles de descarrilamiento en el desvío. A partir de ahí
+km 83,540 – últimas huellas visibles de descarrilamiento en el desvío. A partir de aquí continuaron únicamente en la dirección principal;
 •
-continuaron únicamente en la dirección principal;
-pk 83,544 – huella negra y áspera visible, probablemente debida a la caja de
+km 83,544 – huella negra y áspera visible, probablemente debida a la caja de cambios de eje DV dañada, que continuaba paralela a las huellas del arrastre del rastrillo. En el carril izquierdo en el sentido de circulación del tren Os 5338 la huella era mucho más marcada que en el carril derecho;
 •
-transmisión del eje dañada del DV, que continuaba paralelamente a las huellas del
-arrastre del arado. En el carril izquierdo en el sentido de circulación del tren Os 5338 la
-huella era mucho más marcada que en el carril derecho;
-pk 83,591 – huella visible de aceite fresco;
+km 83,591 – huella visible de aceite fresco;
 •
-pk 83,603 – sensor del contador de ejes ligeramente dañado en la cara interior del carril.
+km 83,603 – sensor del contador de ejes ligeramente dañado en la cara interior del carril. Huellas claras y oscuras visibles que continuaron hasta el km 83,665, donde desaparecieron y volvieron a aparecer posteriormente, como si el objeto saltara;
 •
-Huellas claras y oscuras visibles que continuaban hasta el pk 83,665, donde
-desaparecían y volvían a aparecer, como si el objeto saltara;
-pk 83,675 – las huellas terminaban en el final del tren Os 5338.
+km 83,675 – las huellas terminaron en el final del tren Os 5338.
 •
-Desde la punta del carril de la aguja núm. 1, lado derecho, carril derecho curvado:
-pk 83,495 – en la punta del carril derecho, huella visible de un golpe de 17 cm de
+Desde la punta de la lengüeta del cambio n.º 1, lado derecho, lengüeta derecha curvada:
+km 83,495 – en la punta de la lengüeta derecha huella visible de impacto de 17 cm de longitud (véase fig. n.º 2);
 •
-longitud (véase la fig. núm. 2);
-pk 83,500 – inicio de la huella de fricción en la cara interior del carril;
+km 83,500 – inicio de la huella de rozamiento en la cara interior de la lengüeta;
 •
-pk 83,502 – huella visible de fricción en el riel de apoyo desde la cara interior;
+km 83,502 – huella visible de rozamiento en el soporte desde la cara interior;
 •
-pk 83,504 – huella visible en el riel de apoyo y en el carril por el descarrilamiento de la
+km 83,504 – huella visible en el soporte y en la lengüeta por el hundimiento de la rueda. Desde este punto en el sentido de circulación del tren Os 5338 continuaron las huellas en los elementos de fijación dañados, tornillos y cierre del cambio en el lado derecho a lo largo del soporte, donde desde el km 83,514 continuaron en el carril interior en la parte central del cambio. En este tramo eran visibles huellas del rastrillo DV en las cabezas de los carriles;
 •
-rueda. Desde este punto en el sentido de circulación del tren Os 5338 continuaban las
-huellas en los elementos de fijación, tornillos y bloqueo de la aguja dañados en el lado
-derecho a lo largo del riel de apoyo, donde desde el pk 83,514 continuaban en el carril
-interior en la parte central de la aguja. En este tramo eran visibles huellas del arado del
-DV en las cabezas de los raíles;
-pk 83,520 – en el lado derecho, en la parte de la brea, sujeción visiblemente dañada y
+km 83,520 – en el lado derecho, en la parte del corazón, sujeción visiblemente dañada y en ella huellas apreciables del rastrillo DV;
 •
-en ella huellas marcadas del arado del DV;
-pk 83,527 – otras huellas visibles de la circulación de la rueda del DV por la cabeza del
+km 83,527 – otras huellas visibles del paso de la rueda DV por la cabeza del carril, que terminaban en el km 83,528;
 •
-raíl, que terminaban en el pk 83,528;
-•
-a continuación continuaban las huellas en el centro de la vía sobre la superficie de las
-traviesas por la circulación de la rueda descarrilada hasta el pk 83,534. La huella en la
-cabeza del raíl derecho apareció en el pk 83,536, continuó y terminó en el pk 83,539.
-
+posteriormente continuaron las huellas en medio de la vía sobre la superficie de las traviesas por el paso de la rueda descarrilada hasta el km 83,534. La huella en la cabeza del carril derecho apareció en el km 83,536, continuó y terminó en el km 83,539.
 
 ## Página 15
+
 
 ## Lugar del SE
 Fig. núm. 2: Vista de la punta del carril derecho de la aguja núm. 1 golpeada   Fuente: DI
@@ -583,6 +562,7 @@ los elementos de mando e indicación estaban situados en el cuadro de mando de l
 oficina de tráfico (véase la fig. núm. 3);
 
 ## Página 16
+
 
 El SZZ provisional fue instalado en la est. Medlešice en el marco de la interrupción según la ROV n.º 55008
 •
@@ -635,8 +615,8 @@ En el accidente no se produjeron daños a la salud en los empleados del gestor d
 relación contractual, ni en los pasajeros ni en terceros.
 El gestor de la infraestructura y el transportista cuantificaron el daño en:
 
-
 ## Página 17
+
 
 HDV 
 530 000 Kč;
@@ -678,8 +658,8 @@ infraestructura SŽ y el transportista ČD el 20 de 1 de 2020, con efectos desde
 | Número de ejes: | 4 | HDV (tras la RV): |  |  |
 | Masa (t): | 47 | 1 . | 95545814018 8 - | P |
 
-
 ## Página 18
+
 
 | Porcentaje de frenado necesario (%): | 64 |
 | Porcentaje de frenado real (%): | 102 |
@@ -741,62 +721,61 @@ En el tramo evaluado, el maquinista del tren Os 5338 no superó la velocidad má
 
 ## Página 19
 
-Se constató que el estado técnico del HDV no guardaba relación causal con la producción del accidente y sus daños se produjeron únicamente como consecuencia del descarrilamiento.
-### 3.1.8 Descripción de las partes pertinentes de la infraestructura y del sistema de señalización
-La vía en el lugar del accidente en el sentido de circulación del tren Os 5338 se desarrolla en línea recta a la altura del terreno circundante y desciende con una pendiente del 7,49 ‰. Se trata de una vía de una sola vía, no electrificada, protegida por comunicación telefónica, en el lugar del accidente con una velocidad máxima permitida de 40 km·h-1. El desvío n.º 1 es de tipo J R65 1:11 – 300 L, montado sobre traviesas de madera, accionado por un motor eléctrico de cambio de aguja desde la oficina de tráfico de la est. Medlešice. Para garantizar la aptitud para el servicio de la vía y del transporte ferroviario, antes de la producción del accidente el gestor de la infraestructura realizaba inspecciones y mediciones de las obras ferroviarias centradas en el estado de la infraestructura ferroviaria de conformidad con el § 26 apartados 1 y 2 del decreto n.º 177/1995 Sb. Los componentes de la vía no guardaban relación causal con el accidente.
-El SZZ en la est. Medlešice era un sistema de señalización provisional con motores eléctricos de cambio de aguja y señales luminosas. Los elementos de mando e indicación estaban situados en el cuadro de mando de la oficina de tráfico. Según la TNŽ 34 2620 se trataba de un SZZ de 1.ª categoría.
+Se constató que el estado técnico del material rodante no guardaba relación causal con la aparición de la vía muerta y su daño se produjo únicamente como consecuencia del descarrilamiento.
+### 3.1.8 Descripción de las partes correspondientes de la infraestructura y del sistema de seguridad
+La vía en el lugar de la vía muerta en el sentido de circulación del tren Os 5338 discurre en línea recta a la altura del terreno circundante y desciende un 7,49 ‰. Se trata de una vía de una sola vía, no electrificada, protegida por comunicación telefónica, en el lugar de la vía muerta con una velocidad máxima permitida de 40 km.h-1. El desvío n.º 1 es del tipo J R65 1:11 – 300 L, montado sobre traviesas de madera, accionado por un aparato de maniobra electromotor desde el CD de la est. Medlešice. Para garantizar la operatividad de la vía y del transporte ferroviario, antes de la aparición de la vía muerta el explotador de la vía realizaba inspecciones y mediciones de las obras ferroviarias centradas en el estado de la infraestructura ferroviaria de conformidad con el § 26 apartados 1 y 2 del decreto n.º 177/1995 Sb. Las partes de la vía no guardaban relación causal con la vía muerta.
+El SZZ en la est. Medlešice era un dispositivo de señalización provisional con aparatos de maniobra electromotores y señales luminosas. Los elementos de mando e indicación estaban situados en el armario de mando de la sala de tráfico. Según la TNŽ 34 2620 se trataba de un SZZ de 1.ª categoría.
 ### 3.1.9 Cualquier otra información relevante a efectos de la descripción del suceso y de la información básica
-Resumen de las explicaciones prestadas por los empleados del gestor de la infraestructura y del transportista, incluidas las personas en relación contractual:
+Resumen de las explicaciones facilitadas por los empleados del explotador de la vía y del transportista, incluidas las personas con relación contractual:
 maquinista del tren Os 5338
   – Acta con el empleado:
 •
-◦el 15 de 7 de 2020 se incorporó al turno a las 9:41 h, que incluía también la conducción del tren Os 5338;
+◦el 15. 7. 2020 incorporó turno a las 9:41 h, cuya parte era también la conducción del tren Os 5338;
 ◦el turno transcurrió sin problemas;
-◦al conducir el tren Os 5338 desde la est. Chrudim registró en la señal previa hacia la est. Medlešice una advertencia, que posteriormente también tuvo en la señal de entrada;
-◦al pasar por el desvío n.º 1 se produjo un golpe extraño y una posterior oscilación del coche motor;
-◦se produjo el descarrilamiento del último eje del tren Os 5338 en el desvío n.º 1;
-◦una vez detenido el tren, se dirigió con la tripulación a comprobar a los pasajeros si les había ocurrido algo, así como si se producían fugas de líquidos de servicio, y aseguró la unidad automotora;
-◦informó al jefe de estación de la est. Medlešice del accidente, por teléfono al jefe de taller en Česká Třebová y al despachante regional;
+◦durante la conducción del tren Os 5338 desde la est. Chrudim registró en el preaviso hacia la est. Medlešice una advertencia, que posteriormente también tuvo en la señal de entrada;
+◦al pasar por el desvío n.º 1 se produjo un golpe extraño y la consiguiente oscilación del coche motor;
+◦se produjo la salida del último eje del tren Os 5338 en el desvío n.º 1;
+◦una vez detenido el tren, se dirigió con la tripulación del tren a comprobar a los pasajeros si les había ocurrido algo, así como si se estaban escapando fluidos de servicio, y aseguró la unidad motor;
+◦informó al jefe de estación de la est. Medlešice, por teléfono al maquinista jefe de Česká Třebová y al despachante regional;
 ◦tras la llegada de la PČR se sometió a la prueba de aliento con resultado negativo.
-jefe de estación de la est. 
+jefe de estación de la est.
  Medlešice
   – Acta con el empleado:
 •
-◦el 15 de 7 de 2020 se incorporó al turno nocturno regular en la est. Medlešice;
-◦con la entrada del tren Os 5338 actuó prematuramente sobre el cierre del desvío n.º 1 y con el conmutador cambió el desvío a la posición menos, lo que causó el accidente;
-
+◦el 15. 7. 2020 incorporó el turno nocturno regular en la est. Medlešice;
+◦con la entrada del tren Os 5338 actuó prematuramente el enclavamiento del desvío n.º 1 y con el conmutador accionó el desvío a la posición menos, con lo que causó la vía muerta;
 
 ## Página 20
 
-◦lamenta profundamente todo el suceso y se disculpa con todos.
-jefe de estación de la est. 
+◦la le ocurre mucho y se disculpa con todos.
+Jefe de estación
  Medlešice
-  – Registro oficial de la explicación prestada a la PČR:
+  – Registro oficial sobre la declaración prestada ante la Policía Nacional:
 •
-◦el 15 de 7 de 2020 se incorporó al turno nocturno aproximadamente a las 18:40 h;
-◦trabaja como jefe de estación desde el año 2004 y en la est. Medlešice aproximadamente 2 años;
-◦en el momento de producirse el accidente también se estaba llevando a cabo en la estación una interrupción del sistema de señalización del paso a nivel;
-◦aproximadamente a las 19:08 h recibió la oferta del tren Os 5338 del jefe de estación de la est. Chrudim, que registró en la aplicación de explotación y a continuación realizó las maniobras para
-establecer la vía de tren: comprobó la libertad de la vía, cambió el desvío a la posición requerida y girando la manivela puso la señal de entrada en la posición de vía libre en el sentido desde la est. Chrudim;
-◦a continuación estableció la vía de tren en la 3.ª vía también para el tren desde la est. Pardubice-Rosice nad Labem;
-◦observó la llegada del tren Os 5338 desde el porche de la oficina de tráfico;
-◦no valoró correctamente la situación de si el tren Os 5338 ya se encontraba en la estación más allá del desvío n.º 1, y realizó un cambio en dicho desvío en el momento en que el tren Os 5338 tenía el último eje antes de la punta de la aguja del desvío n.º 1;
-◦con ello se produjo la entrada del último eje en el desvío, que no había sido cambiado a ninguna de las posiciones finales;
-◦se encontraba bajo presión temporal, causada por el retraso del tren desde la est. Pardubice-Rosice nad Labem, por una necesidad biológica y porque estaba calentando comida;
-◦es consciente de su error, se disculpa con todos, le había ocurrido por primera vez.
-jefe de estación de la est. 
+◦el 15. 7. 2020 comenzó el turno de noche aproximadamente a las 18:40 h;
+◦trabaja como jefe de estación desde el año 2004 y en la estación de Medlešice aproximadamente 2 años;
+◦en el momento del suceso del accidente ferroviario también se estaba llevando a cabo en la estación una interrupción de la señalización de enclavamiento de pasos a nivel;
+◦aproximadamente a las 19:08 h recibió la oferta del tren Os 5338 por parte del jefe de estación de la estación de Chrudim, la cual registró en la aplicación operativa y a continuación realizó las maniobras para establecer la vía de tren – comprobó la libertad de la vía, accionó el desvío a la posición requerida y, girando la manivela, puso la señal de entrada en la posición de vía libre en el sentido desde la estación de Chrudim;
+◦a continuación estableció la vía de tren en la 3. SK también para el tren desde la estación de Pardubice-Rosice nad Labem;
+◦el arribo del tren Os 5338 lo vigiló desde la galería junto a la oficina de tráfico;
+◦no estimó correctamente la situación de si el tren Os 5338 ya se encontraba en la estación más allá del desvío n.º 1, y realizó un cambio en dicho desvío en el momento en que el tren Os 5338 tenía el último eje antes de la punta de la aguja del desvío n.º 1;
+◦con ello se produjo la entrada del último eje en el desvío, que no había sido accionado a ninguna de las posiciones finales;
+◦se encontraba bajo presión de tiempo, causada por el retraso del tren desde la estación de Pardubice-Rosice nad Labem, por una necesidad biológica y porque estaba calentándose comida;
+◦es consciente de su error, se disculpa con todos, le ocurrió por primera vez.
+Jefe de estación
  Medlešice
-  – Registro de la explicación prestada al DI:
+  – Registro sobre la declaración prestada ante el Inspector de Tráfico:
 •
-◦cuando el tren Os 5338 se aproximaba a la est. Medlešice, observó desde la ventana su entrada y a continuación volvió a la oficina de tráfico y solo quería cambiar la señal de entrada a la señal que prohíbe la circulación. Desafortunadamente también cambió el conmutador del desvío n.º 1, porque se aproximaba un tren desde el otro lado y en la est. Medlešice los trenes se cruzaban;
+◦cuando el tren Os 5338 se aproximaba a la estación de Medlešice, desde la ventana vigiló su entrada y a continuación volvió a la oficina de tráfico y quería únicamente accionar la señal de entrada a la señal que prohíbe la marcha. Desafortunadamente accionó también el mando del desvío n.º 1, porque se aproximaba un tren desde el otro lado y en la estación de Medlešice los trenes se cruzaban;
 ◦antes del turno tuvo un descanso suficiente y estaba descansado;
-◦aparte de la interrupción y de la nueva instalación del SZZ provisional, el turno transcurrió sin incidencias;
-◦no percibió tendencias a la actuación rutinaria, porque en el SZZ provisional llevaba aproximadamente el segundo turno;
-◦durante el turno y en la espera del tren Os 5338 no se encontraba agitado, pero estaba ocupado con las maniobras de tráfico habituales;
-◦el SZZ no presentaba ninguna avería;
-◦cuando el tren se aproximaba a la estación y lo avistó en la cabecera, se dirigió a la oficina de tráfico y en primer lugar cambió la señal a la posición «Alto». Después actuó sobre el cierre
+◦además de la interrupción y de la nueva instalación del sistema de enclavamiento de seguridad provisional, el turno transcurrió sin incidencias;
+◦no sentía tendencias a la actuación rutinaria, porque en el sistema de enclavamiento de seguridad provisional llevaba servido aproximadamente el segundo turno;
+◦durante el turno y en la espera del tren Os 5338 no estaba agitado, pero estaba ocupado con las maniobras de tráfico habituales;
+◦el sistema de enclavamiento de seguridad no presentaba ninguna avería;
+◦una vez que el tren se aproximaba a la estación y lo avistó en la cabecera, fue a la oficina de tráfico y como primera acción accionó la señal a la posición «Alto». Después atendió el enclavamiento
 
 ## Página 21
+
 
 de desvíos y el regulador del desvío n.º 1. No recuerda cuándo devolvió el desvío n.º 1 a la posición más;
 ◦a la pregunta de si estaba suficientemente formado en la operación del dispositivo de señalización provisional y cuándo y cómo se realizó dicha formación, respondió que el SZZ provisional se instaló solo unos días antes del MU. Durante su turno, justo desconectaron el SZZ TEST anterior e instalaron el SZZ provisional;
@@ -823,8 +802,8 @@ testigo, jefe de estación 1
 ◦conoció por primera vez la disposición complementaria para la operación del SZZ provisional en el turno del 8. 7. 2020, cuando llegó hacia las 15:45 h en forma de despacho;
 ◦cree que casi todos coincidieron en que el pupitre de mando es confuso y que la combinación de etiquetas y elementos indicadores es engañosa, por ejemplo, el regulador de la señal
 
-
 ## Página 22
+
 
 tras la conmutación apuntaba a la indicación de otra señal y la bombilla se encendía en otro lado;
 ◦en el pupitre de mando creó un plano de la estación para que fuera más claro, y también se creó una ayuda mnemotécnica de papel rojo sobre la ocupación de las vías, ya que tampoco estaban disponibles.
@@ -850,8 +829,8 @@ testigo, jefe de estación 3
 ◦en su tiempo libre, el día antes del turno que debía realizar en la est. Medlešice, realizó un reconocimiento ya en el SZZ provisional durante unas 8 horas. Aquí ya estaba disponible la DU;
 ◦fue formado por el jefe de estación en el momento en que allí realizaba el reconocimiento, y también al entregar el servicio.
 
-
 ## Página 23
+
 
 testigo, jefe de estación 4
   – Registro de la explicación prestada DI:
@@ -892,49 +871,49 @@ el jefe de estación llega al antiguo puesto de enclavamiento y espera la llegad
 el jefe de estación vuelve a la DK;
 •
 
-
 ## Página 24
 
 19:16:02 h
-se registra el movimiento del tren, que llega por la 1. SK (vía principal);
+se registró el movimiento del tren que llega por la 1.ª vía de clasificación;
 •
 19:16:17 h
-el jefe de estación sale delante de la DK y observa la llegada del tren;
+el jefe de estación sale del despacho de mando y observa la llegada del tren;
 •
 19:16:29 h
-el tren se detiene en la 1. SK;
+el tren se detiene en la 1.ª vía de clasificación;
 •
 19:21:03 h
-el jefe de estación sale de la DK en dirección al tren detenido.
+el jefe de estación abandona el despacho de mando en dirección al tren detenido.
 •
 ### 3.2 Descripción fáctica del suceso
-### 3.2.1 Secuencia de hechos que condujeron al suceso extraordinario
-El jefe de estación de la est. Medlešice entró en el turno nocturno el 15. 7. 2020 a las 18:33 h. Para la gestión del tráfico ferroviario utilizaba el SZZ provisional, que fue instalado en la est. Medlešice del 9. 7. al 10. 7. 2020 en el marco de la intervención «ROV n.º 55008». La circulación de los trenes se aseguraba mediante comunicación telefónica, es decir, con oferta, aceptación y anuncio telefónico. A las 19:06 h recibió el tren Os 5338 con salida de la est. Chrudim a las 19:11 h y a las 19:11 h recibió el tren Os 5323 con salida de la est. Pardubice-Rosice nad Labem a las 19:14 h. Registró los datos de recepción en la aplicación EDD. Según el SŘ (Reglamento de Circulación), la est. Medlešice constituía un solo sector para la comprobación de la libertad de la vía de tren, que se comprobaba visualmente.
+### 3.2.1 Secuencia de hechos que condujeron al suceso excepcional
+El jefe de estación de la est. Medlešice inició el turno nocturno el día 15. 7. 2020 a las 18:33 h. Para la gestión del tráfico ferroviario utilizaba una SZZ provisional, que fue instalada en la est. Medlešice el 9. 7. – 10. 7. 2020 en el marco de la interrupción de circulación «ROV n.º 55008». La circulación de los trenes se aseguraba mediante comunicación telefónica, es decir, con oferta, aceptación y anulación telefónica. A las 19:06 h aceptó el tren Os 5338 con salida de la est. Chrudim a las 19:11 h y a las 19:11 h aceptó el tren Os 5323 con salida de la est. Pardubice-Rosice nad Labem a las 19:14 h. Los datos de la aceptación los registró en la aplicación EDD. Según el SŘ, la est. Medlešice constituía un solo sector para la comprobación de la libertad de la vía de tren, que se comprobaba visualmente.
 El jefe de estación de la est. Medlešice inició la preparación de la vía de tren para el tren Os 5338:
-determinó la vía de entrada y comprobó visualmente a las 19:06 h en la vía su libertad;
+determinó la vía de entrada y comprobó visualmente a las 19:06 h en la plataforma su libertad;
 •
-a continuación, volvió a la DK e inició la operación del SZZ provisional en el armario de mando;
+a continuación regresó al despacho de mando y comenzó la operación de la SZZ provisional en el cuadro de mando;
 •
-conmutó el regulador de dos posiciones para el cambio del desvío n.º 1 a la posición más y pulsó
+el conmutador de dos posiciones para el cambio de la aguja n.º 1 lo colocó en la posición más y pulsó
 •
-el pulsador de retorno de dos posiciones «Cambio de desvío 1»;
-con ello se produjo el cambio del desvío a la posición seleccionada por el regulador;
+el botón de retorno de dos posiciones Cambio de aguja 1;
+con ello se produjo el cambio de la aguja a la posición seleccionada por el conmutador;
 •
-### con la pulsación del pulsador de retorno de tres posiciones «Enclavamiento de desvío 1» realizó el enclavamiento del desvío
+### pulsando el botón de retorno de tres posiciones Bloqueo de aguja 1 realizó el bloqueo de la aguja
 •
 en la vía de tren seleccionada;
-con ello se encendió con luz constante la indicación blanca sobre el pulsador «Enclavamiento de desvío 1»;
+con ello se encendió con luz permanente la indicación blanca sobre el botón Bloqueo de aguja 1;
 •
-### a continuación, conmutó el regulador de tres posiciones L/S1 a la posición requerida y en la señal de entrada L se encendió el símbolo autorizante.
+a continuación colocó el conmutador de tres posiciones L/S1 en la posición requerida y en la señal de
 •
-El jefe de estación de la est. Medlešice indicó en el registro de la explicación prestada que también había cambiado el desvío n.º 3 a la posición menos para la entrada del tren Os 5323 en la 3. SK. Esperaba la llegada del tren Os 5338 en el antiguo puesto de enclavamiento junto a la DK, desde el cual se veía la 1. SK desde la est. Chrudim. Cuando divisó el tren entrante en la cabecera de la est. Medlešice, volvió a la DK y, como primer acto, conmutó el regulador L/S1 a la posición básica (central) y en la señal L se encendió la señal «Alto». Tiró del pulsador «Enclavamiento de desvío 1», con lo que se produjo la anulación del enclavamiento del desvío n.º 1, conmutó el regulador del desvío n.º 1 a la posición menos y pulsó el pulsador «Cambio de desvío 1». Con ello, el desvío n.º 1 comenzó a cambiar bajo el tren en marcha Os 5338 y, por este motivo, se produjo el descarrilamiento de la locomotora 95 54 5 814 018-8 por el último eje.
-### 3.2.2 Secuencia de hechos desde la producción del suceso extraordinario hasta la finalización de las acciones de los servicios de emergencia
+entrada L se encendió la indicación autorizadora.
+El jefe de estación de la est. Medlešice, en el registro de la prestación de explicaciones, indicó que también había cambiado la aguja n.º 3 a la posición menos para la entrada del tren Os 5323 en la 3.ª vía de clasificación. La llegada del tren Os 5338 la esperaba en el antiguo puesto de enclavamiento junto al despacho de mando, desde el cual se veía la 1.ª vía de clasificación desde la est. Chrudim. Cuando divisó el tren que llegaba en la cabecera de la est. Medlešice, regresó al despacho de mando y, en primer lugar, colocó el conmutador L/S1 en la posición básica (central) y en la señal L se encendió la señal «Alto». Tiró del botón Bloqueo de aguja 1, con lo que se produjo la anulación del bloqueo de la aguja n.º 1, colocó el conmutador de la aguja n.º 1 en la posición menos y pulsó el botón Cambio de aguja 1. Con ello la aguja n.º 1 comenzó a cambiar bajo el tren en marcha Os 5338 y, por ese motivo, se produjo el descarrilamiento del HDV 95 54 5 814 018-8 por el último eje.
+### 3.2.2 Secuencia de hechos desde la producción del suceso excepcional hasta la finalización de las acciones de los servicios de rescate
 15. 7. 2020
-19:15 h producción del MU;
+19:15 h se produce el SE;
 •
-
 
 ## Página 25
+
 
 19:19 h el maquinista del tren Os 5338 comunicó la producción del MU al jefe de estación de la est. Medlešice;
 •
@@ -972,6 +951,7 @@ El gestor de la infraestructura estableció los procedimientos tecnológicos rel
 El jefe de estación de la est. Medlešice estaba obligado, al organizar y gestionar el tráfico ferroviario, a respetar el modo y las condiciones para la operación de la infraestructura, la gestión del tráfico ferroviario, el seguimiento de la DV (Disposición de Vía), la capacidad operativa de la infraestructura, la gestión operativa del tráfico ferroviario y, en la operación de la infraestructura para la gestión del tráfico ferroviario, a utilizar las dependencias derivadas de la actividad del SZZ y TZZ (Dispositivo de Señalización Temporal) en servicio. En las actividades relacionadas con la operación del SZZ y TZZ debe cumplir siempre también el conjunto de maniobras de tráfico y procedimientos de trabajo fijados por las normas internas del gestor de la infraestructura. Durante la circulación del tren en el sector de tráfico, los desvíos de paso y de apartadero deben estar en la posición correcta para la vía de tren correspondiente y no deben ser cambiados hasta que el tren no libere la parte correspondiente de la vía de tren. El jefe de estación solo puede manipular un desvío que forme parte de una vía de tren establecida en caso de evitar un peligro inminente (el procedimiento correcto descrito en el capítulo 4.3.2 ZZ).
 
 ## Página 26
+
 
 ### Hallazgos:
 Durante la investigación se constató la infracción de la normativa legal y de las normas internas relativas a las funciones
@@ -1020,53 +1000,27 @@ relación causal
 con la
 aparición del SU:
 
-
 ## Página 27
 
-art. 274 de la norma SŽDC D1:
+art. 274 del reglamento SŽDC D1:
 •
-«Todo empleado, con excepción de los empleados que realizan la organización y el control del servicio de tráfico,
-debe, antes de ser asignado al desempeño independiente del servicio de tráfico, familiarizarse con las disposiciones del ZDD (reglamento de explotación de la OS) que se refieren a su
-asignación laboral, así como con el conocimiento de las circunstancias locales y, en su caso, también de las circunstancias de la línea, incluida
-la operación del aparato de comunicación y de señalización y, en su caso, del aparato de tracción.
-De la disposición del ZDD (reglamento de explotación de la OS) deben ser reexaminados estos empleados.
-El conocimiento del ZDD (reglamento de explotación de la OS), de las circunstancias locales (y en su caso también de la línea)
-y de la operación del aparato de comunicación y de señalización y, en su caso, del aparato de tracción
-lo confirmará el propio empleado con su firma en el anexo del ZDD (reglamento de explotación de la OS);
-un empleado de otra OS confirmará el conocimiento del ZDD (reglamento de explotación de la OS) con su firma en el
-lugar designado por el empleado responsable de la OS. De la misma manera deben ser
-### reexaminados también los empleados del conocimiento de las modificaciones de las disposiciones del ZDD (reglamento de explotación
-de la OS) o de los cambios sustanciales en la operación del aparato de comunicación y de señalización,
-y en su caso del aparato de tracción, que se refieren a su actividad laboral, y confirmar este conocimiento.»;
-Anexo E, parte E.6.5 de la norma SŽ Zam1:
+"Todo empleado, a excepción de los empleados que realizan la organización y el control del servicio de tráfico, debe, antes de ser asignado al desempeño independiente del servicio de tráfico, familiarizarse con las disposiciones del ZDD (reglamento de explotación de la OS) que se refieren a su asignación laboral, así como con el conocimiento de las condiciones locales y, en su caso, también de las condiciones de la línea, incluida la operación de las instalaciones de comunicación y de seguridad, así como, en su caso, de las instalaciones de tracción. Estos empleados deben ser reexaminados sobre el conocimiento del ZDD (reglamento de explotación de la OS). El conocimiento del ZDD (reglamento de explotación de la OS), de las condiciones locales (y, en su caso, también de las de la línea) y de la operación de las instalaciones de comunicación y de seguridad, así como, en su caso, de las instalaciones de tracción, lo confirmará el propio empleado con su firma en el anexo del ZDD (reglamento de explotación de la OS); un empleado de otra OS confirmará el conocimiento del ZDD (reglamento de explotación de la OS) con su firma en el lugar designado por el responsable de la OS. De la misma manera, los
+### empleados deben ser reexaminados también sobre el conocimiento de las modificaciones de las disposiciones del ZDD (reglamento de explotación de la OS) o de cambios sustanciales en la operación de las instalaciones de comunicación y de seguridad, así como, en su caso, de las instalaciones de tracción, que se refieran a su actividad laboral, y confirmar este conocimiento.";
+Anexo E, parte E.6.5 del reglamento SŽ Zam1:
 •
-«E.6.5 Si se produce la adición o modificación de aparatos existentes que forman parte del ZPZ
-para la actividad laboral correspondiente indicada en el ZDD, se requiere la superación del ZPZ
-de la operación de este aparato, y si el ZPZ de estos aparatos no está indicado en el punto E.4 de este
-anexo, ni forma parte del ZDD, antes de su puesta en servicio debe:
-a) realizarse en el ZDD la modificación del programa del ZPZ existente por la adición o modificación del DAP
-relativo a la operación de este aparato, o en su caso el manual de operación o las Disposiciones
-Complementarias, y realizarse un reexamen práctico de los empleados operadores
-en el ámbito del ZPZ de la operación de este aparato, de modo que en la nota del Certificado
-de Idoneidad Técnica debe constar el reexamen solo de este aparato, o
-b) establecerse temporalmente en el ZDD el programa del ZPZ solo para este aparato. El programa de este
-ZPZ temporal debe ser el DAP relativo a la operación de este aparato, o en su caso el manual
-de operación o las Disposiciones Complementarias. El Certificado de este ZPZ es válido hasta la modificación
-del programa del ZPZ existente, incluida la elaboración de la tabla de correspondencia de reconocimiento de los exámenes
-realizados anteriormente y su incorporación al ZDD.»;
-art. 72 de la norma SŽDC D5:
+"E.6.5 Si se añade o modifica una instalación existente que forma parte del ZPZ para la actividad laboral correspondiente indicada en el ZDD, y se requiere la realización del ZPZ de operación de dicha instalación, y el ZPZ para estas instalaciones no está indicado en el punto E.4 de este anexo, ni forma parte del ZDD, antes de su puesta en servicio debe:
+a) realizarse en el ZDD una modificación del programa del ZPZ existente mediante la adición o modificación del DAP relativo a la operación de dicha instalación, o en su caso el manual de operación o las Disposiciones Complementarias, y realizarse un examen práctico de los empleados operadores en el ámbito del ZPZ de operación de dicha instalación, de modo que en la nota del Certificado de Aptitud Técnica debe constar el examen únicamente de dicha instalación, o
+b) establecerse temporalmente en el ZDD un programa de ZPZ solo para dicha instalación. El programa de este ZPZ temporal debe ser el DAP relativo a la operación de dicha instalación, o en su caso el manual de operación o las Disposiciones Complementarias. El Certificado de este ZPZ es válido hasta la modificación del programa de ZPZ existente, incluida la elaboración de la tabla de transición de reconocimiento de los exámenes realizados anteriormente y su incorporación al ZDD.";
+art. 72 del reglamento SŽDC D5:
 •
-«El ZDD y sus modificaciones deben ser elaborados y publicados al menos 7 días antes de su
-entrada en vigor.»
-El transportista está obligado a explotar el transporte ferroviario de acuerdo con las reglas de explotación del transporte ferroviario y a regirse por las instrucciones emitidas por el gestor de la infraestructura.
-Durante la investigación no se constató infracción de las funciones y obligaciones del transportista, tanto en relación causal
-como fuera de relación causal con la aparición del SU.
+"El ZDD y sus modificaciones deben ser elaborados y publicados al menos 7 días antes de su entrada en vigor."
+El transportista está obligado a explotar el transporte ferroviario de acuerdo con las reglas de explotación del transporte ferroviario y a regirse por las instrucciones impartidas por el explotador de la infraestructura.
+En la investigación no se detectó infracción de las funciones y obligaciones del transportista, tanto en relación causal como fuera de relación causal con la aparición del MU.
 ### 4.1.2 Entidades responsables del mantenimiento de los vehículos ferroviarios
-Durante la investigación no se constató infracción de las funciones y obligaciones de las entidades responsables del mantenimiento
-de los vehículos ferroviarios.
-
+En la investigación no se detectó infracción de las funciones y obligaciones de las entidades responsables del mantenimiento de los vehículos ferroviarios.
 
 ## Página 28
+
 
 ### 4.1.3 Fabricantes de vehículos ferroviarios u otros proveedores de aparatos ferroviarios
 Durante la investigación no se constató infracción de las funciones y obligaciones de los fabricantes de vehículos ferroviarios ni de otros
@@ -1102,8 +1056,8 @@ Las funciones y obligaciones de otras personas o entidades no guardaban relació
 4.2.1 Factores o consecuencias derivados de la construcción de los vehículos ferroviarios, de la infraestructura ferroviaria o de los aparatos técnicos
 Durante la investigación no se constataron factores derivados de la construcción de los vehículos ferroviarios, de la infraestructura ferroviaria o de los aparatos técnicos.
 
-
 ## Página 29
+
 
 4.2.2 Factores o consecuencias derivados de la instalación y puesta en servicio de los vehículos ferroviarios, de la infraestructura ferroviaria o del aparato técnico
 Durante la investigación no se constataron factores derivados de la instalación y puesta en servicio de los vehículos ferroviarios, de la infraestructura ferroviaria o del aparato técnico.
@@ -1136,6 +1090,7 @@ en un accidente fatal. Los demás componentes del sistema de transporte (la infr
 
 ## Página 30
 
+
 deben diseñarse de modo que sean capaces de absorber estos errores y prevenir accidentes graves (incluso asumiendo que el ser humano comete errores).
 Los errores son el resultado de actuaciones que no conducen a los resultados previstos y, en términos generales, pueden dividirse en dos categorías:
 1. categoría – la persona tiene la intención de realizar una determinada acción; la acción es correcta, pero se
@@ -1151,31 +1106,41 @@ La Inspección Ferroviaria, también con la ayuda del consultor experto, intent�
 
 ## Página 31
 
+seznámen (diseccionado más adelante en el capítulo 4.4.3), de las disposiciones generalmente aplicables, en particular de la norma SŽDC D1, estaba al tanto. Trabaja en el puesto de jefe de estación desde el año 2004 y contaba por tanto con una práctica suficiente. Lo que influyó en su comportamiento fueron principalmente los factores situacionales y la urgencia temporal que de ellos se derivaba.
 ### 4.3.2 Factores laborales
-La est. Medlešice constituye un solo sector para la comprobación de la libertad de la vía de circulación. La libertad de la vía de circulación se comprobaba visualmente. El jefe de estación era el responsable de la libertad de la vía de circulación en todo el sector para la comprobación de la libertad de la vía de circulación.
-El procedimiento correcto para la preparación y la posterior anulación de la vía de circulación debía realizarse en los siguientes pasos:
+La estación Medlešice constituye un solo ámbito para la comprobación de la libertad de la vía de tren. La libertad de la vía de tren se comprobaba visualmente. El jefe de estación era el responsable de la libertad de la vía de tren en todo el ámbito para la comprobación de la libertad de la vía de tren.
+El procedimiento correcto en la preparación y la posterior anulación de la vía de tren debía realizarse en los siguientes pasos:
 el jefe de estación determina la vía de entrada;
 •
-comprueba visualmente en la playa de vías, en su sector para la comprobación de la libertad de la vía de circulación, la libertad de dicha vía;
+comprueba visualmente en la vía su libertad en su ámbito para la comprobación de la
 •
-en el SZZ provisional, acciona el conmutador de la aguja correspondiente a la posición deseada;
+libertad de la vía de tren;
+en el SZZ provisional conmuta el conmutador de los desvíos correspondientes a la
 •
-pulsa el botón «Establecimiento de aguja», con lo que la aguja se establece en la posición deseada;
+posición deseada;
+pulsa el botón Conmutación de desvío, con lo que se conmuta el desvío a la posición
 •
-pulsa el botón «Enclavamiento de aguja», con lo que se establece el enclavamiento de la aguja correspondiente;
+deseada;
+pulsa el botón Bloqueo de desvío, con lo que se establece el bloqueo del desvío
 •
-acciona el conmutador del señal correspondiente a la posición deseada, con lo que en el señal se enciende la indicación que autoriza la circulación;
+correspondiente;
+conmuta el conmutador del señal correspondiente a la posición deseada, con lo que en el
 •
+señal se enciende la señal que permite la circulación;
 el jefe de estación espera la llegada del tren;
 •
-tras comprobar que el tren ha llegado completo a la vía designada (p. ej., visualmente la señal «Fin de tren»), acciona el conmutador del señal correspondiente a la posición central;
+tras comprobar que el tren ha llegado completo a la vía determinada (p. ej. visualmente
 •
-tira del botón «Enclavamiento de aguja», con lo que se anula el enclavamiento de la aguja correspondiente y la aguja puede volver a establecerse.
+la señal «Fin de tren»), conmuta el conmutador del señal correspondiente a la posición
+intermedia;
+tira del botón Bloqueo de desvío, con lo que se anula el bloqueo del desvío
 •
-En el momento de la ocurrencia del SU, la actividad laboral (las condiciones) del jefe de estación de la est. Medlešice se vio negativamente afectada por la intervención de SZZ en curso, en el marco de la cual se produjo el cambio del SZZ existente (TEST) por un SZZ provisional (véase también el punto 4.3.1 de esta ZZ). En el marco de este cambio, se impusieron al jefe de estación exigencias elevadas, tanto en lo que respecta a la realización de las operaciones ferroviarias en la dirección del tráfico ferroviario como a la propia operación del nuevo SZZ. Además, se implantó una limitación permanente de velocidad a 40 km.h-1 a través de la est. Medlešice.
-El jefe de estación de la est. Medlešice actuó, al realizar la preparación de la vía de circulación para los trenes Os 5338, de conformidad con los procedimientos tecnológicos prescritos establecidos en las normas internas del gestor de la infraestructura y en el Reglamento de Estación de la est. Medlešice. El jefe de estación incumplió los procedimientos tecnológicos en el momento en que, sin comprobar que el tren Os 5338 había llegado completo a la vía designada, anuló prematuramente la vía de circulación establecida y estableció la aguja n.º 1 con el tren en circulación.
+correspondiente y el desvío puede volver a conmutarse.
+En el momento de producirse el MU, la actividad laboral (las condiciones) del jefe de estación de Medlešice se vio negativamente afectada por la intervención en curso en el SZZ, en el marco de la cual se produjo el cambio del SZZ existente (TEST) por un SZZ provisional (véase también el punto 4.3.1 de esta ZZ). En el marco de este cambio se impusieron al jefe de estación exigencias incrementadas, tanto en la realización de las operaciones de tráfico en la dirección del tráfico ferroviario como en el propio manejo nuevo del SZZ. Además, se estableció una velocidad lenta permanente a través de la estación Medlešice de 40 km.h-1.
+El jefe de estación de Medlešice actuó en la realización de la preparación de la vía de tren para los trenes Os 5338 de conformidad con los procedimientos tecnológicos prescritos, indicados en las normas internas del operador de la vía y en el RFE de la estación Medlešice. El jefe de estación incumplió los procedimientos tecnológicos en el momento en que, sin comprobar que el tren Os 5338 había llegado completo a la vía determinada, anuló prematuramente la vía de tren establecida y conmutó el desvío n.º 1 bajo el tren en circulación.
 
 ## Página 32
+
 
 Fig. 4: Vista del cuadro de mando del SZZ provisional en la est. Medlešice       Fuente: DI
 Es evidente que el jefe de estación no actuó con la intención de provocar el SU. Su comportamiento estuvo influido por un error inconsciente – la falta de atención en la dirección del tráfico ferroviario y en la operación del SZZ –, cuando, debido a la realización de la intervención de SZZ en la est. Medlešice, no estaban en servicio los medios técnicos de seguridad que, ante un descuido (error o fallo) del jefe de estación, habrían impedido el establecimiento no autorizado de la aguja n.º 1 mientras estaba ocupada por el tren Os 5338.
@@ -1192,6 +1157,7 @@ En la investigación no se detectaron factores relacionados con el entorno de tr
 En la investigación no se detectaron otros factores relacionados con la actuación de las personas implicadas.
 
 ## Página 33
+
 
 ### 4.4 Mecanismos de retroalimentación y mecanismos de control, incluida la gestión de riesgos y la garantía de seguridad, y procedimientos de seguimiento
 
@@ -1217,59 +1183,27 @@ Esta declaración era, desde la perspectiva de la investigación del SU objeto d
 
 en el que de nuevo la DI solicitó una declaración oficial sobre todos los puntos anteriores y una aclaración de estos otros hechos:
 
-• «se alega que los empleados fueron informados sobre el servicio, acredite sobre la base de qué
+• «se alega que los empleados fueron informados sobre la explotación; acredite, en virtud de qué
 procedimientos tecnológicos, de qué manera, cuándo, dónde y qué jefes de estación fueron
-informados y puestos al corriente, y cómo se realizó realmente esta puesta al corriente sobre el servicio;
-durante la instalación del SZZ provisional también prestaron servicio en la est. Medlešice jefes de
-estación de otras estaciones, algunos tras un largo tiempo. Acredite también cómo se realizó su
-puesta al corriente sobre el servicio del nuevo SZZ provisional;
-algunos jefes de estación, sin embargo, indicaron que se produjo una puesta al corriente acreditable
-(probablemente se trataba, por tanto, de una disposición complementaria (DU) para el SZZ
-provisional), y que firmaron algo. Además, el 14. 7. 2020, el especialista de sistema de la OŘ Hradec
-Králové envió por correo electrónico la versión final de la DU y solicitó al PO su entrega en el puesto
-de trabajo correspondiente y la puesta al corriente acreditable de los empleados. Solicitamos
-aclaración y precisión de estos hechos.»
+informados y puestos al corriente, y cómo se llevó a cabo realmente dicha puesta al corriente sobre la explotación;
+• en el momento de la instalación del SZZ provisional servían en la est. Medlešice también jefes de estación de otras estaciones, algunos tras un largo tiempo. Acredite asimismo cómo se llevó a cabo también su puesta al corriente sobre la explotación del nuevo SZZ provisional;
+• sin embargo, algunos jefes de estación indicaron que se produjo una puesta al corriente acreditada (probablemente se tratara, por tanto, de una disposición complementaria (DU) al SZZ provisional), y que firmaron algo.
+Además, el 14 de julio de 2020, el especialista de sistemas de la OŘ Hradec Králové envió por correo electrónico la versión final de la DU y solicitó a la PO su entrega en el puesto de trabajo correspondiente y la puesta al corriente acreditada de los empleados. Solicitamos la aclaración y precisión de estos hechos.»
 
-El operador ferroviario SŽ envió a la DI esta respuesta:
+El operador ferroviario SŽ envió a la DI la siguiente respuesta:
 
-«La puesta al corriente de los empleados se realizó a través del ROV 55008 en su redacción de la 2.ª
-modificación de fecha 1. 7. 2020. En este documento se indican los procedimientos de los trabajos de
-vía. Los empleados fueron puestos acreditadamente al corriente del ROV indicado mediante la
-inclusión del ROV en el Libro de Normas. El 9. 7. 2020 se activó el SZZ provisional. Durante la
-activación, con la participación del especialista de sistema de la OŘ, se precisó la redacción de la DU
-para la norma SŽDC (ČD) Z1, respectivamente SŽDC (ČD) Z2 n.º de expediente 18443/2020-SŽ-OŘ
-HKR-NŘP, la cual, aunque en este día no estuviera plenamente aprobada, se dejó en el puesto de
-trabajo para su puesta al corriente sobre el servicio del SZZ provisional. La DU aprobada
-posteriormente era totalmente coherente. Según las disposiciones del ROV indicado, también se
-realizó una anotación en el Registro de Averías en el equipo de señalización y seguridad. Posteriormente,
-el ROV 55008 en su redacción de la 2.ª modificación se entregaba en el relevo de servicio, también con
-un aviso sobre la implantación del SZZ provisional. Dada la sencillez de manejo del SZZ provisional y
-asumiendo el cumplimiento de las disposiciones generalmente vigentes de las normas SŽDC D1 y SŽDC
-(ČD) Z1 relativas a la anulación o cancelación de la vía de circulación, a nuestro entender (SŽ) se trata
-de una acreditación suficiente de que los empleados, al recibir el servicio, conocían el manejo del SZZ
-provisional. Los documentos con el contenido de la formación no fueron archivados ni llevados, por la
-sencillez del equipo gestionado. No se cumplió la disposición de la norma interna SŽ Zam1 en su
-redacción vigente en el momento de la MU en la parte del anexo E.
+«La puesta al corriente de los empleados se llevó a cabo mediante el ROV 55008 en su redacción de la 2.ª modificación de fecha 1 de julio de 2020. En este documento se indican los procedimientos de trabajos en vía. Los empleados fueron puestos acreditadamente al corriente del mencionado ROV mediante la inclusión del ROV en el Libro de normas. El 9 de julio de 2020 se activó el SZZ provisional. En la activación, con la participación del especialista de sistemas de la OŘ, se precisó la redacción de la DU a la norma SŽDC (ČD) Z1, respectivamente SŽDC (ČD) Z2, ref. 18443/2020-SŽ-OŘ HKR-NŘP, la cual, aunque en ese día no estaba plenamente aprobada, se dejó en el puesto de trabajo para su puesta al corriente sobre la explotación del SZZ provisional. Posteriormente, la DU aprobada era totalmente coherente. De acuerdo con lo dispuesto en el mencionado ROV, se realizó también una anotación en el Registro de averías en el equipo de señalización y seguridad. Posteriormente, el ROV 55008 en su redacción de la 2.ª modificación se entregó en el relevo de servicio, junto con un aviso sobre la implantación del SZZ provisional. Dada la sencillez del mando del SZZ provisional y bajo el supuesto de que se cumplan las disposiciones generalmente vigentes de las normas SŽDC D1 y SŽDC (ČD) Z1 relativas a la anulación o cancelación de la ruta de tren, a nuestro juicio (SŽ) se trata de una acreditación suficiente de que los empleados, al recibir el servicio, conocían la explotación del SZZ provisional. Los documentos con el contenido de la formación no se archivaron ni se llevaron, por la sencillez del equipo explotado. No se cumplió la disposición del reglamento interno SŽ Zam1 en su redacción vigente en el momento de la MU, en la parte del anexo E.
 
-El especialista de sistema de la OŘ Hradec Králové efectivamente envió por correo electrónico el 14. 7.
-2020 la DU aprobada, pero no se logró acreditar su entrega en el puesto de trabajo del jefe de estación
-de la ŽST Medlešice.»
+El especialista de sistemas de la OŘ Hradec Králové efectivamente envió por correo electrónico el 14 de julio de 2020 la DU aprobada, pero no se logró acreditar su entrega en el puesto de trabajo del jefe de estación de la est. Medlešice.»
 
-En el marco de la interrupción de circulación según el ROV 55008 se estaba realizando la
-reconstrucción del equipo de enclavamiento de la estación en la est. Medlešice. La interrupción se
-dividió en varias fases. La fase A se llevó a cabo el 9 y 10. 7. 2020 y en ella se produjo la anulación del
-existente y la activación del SZZ provisional controlado desde una nueva caja de control instalada en la
-est. Medlešice.
+En el marco de la interrupción de circulación conforme al ROV 55008, se estaba realizando la reconstrucción del equipo de seguridad de estación en la est. Medlešice. La interrupción de circulación se dividió en varias fases. La fase A se llevó a cabo los días 9 y 10 de julio de 2020, y en ella se produjo la supresión del existente y la activación del SZZ provisional, mandado desde una nueva caja de mando instalada en la est. Medlešice.
 
 En la parte 6 Medidas operativas, de tráfico y de transporte del ROV 55008, sobre la fase A se indica:
 
-«En la estación de Medlešice, los elementos de control externos del ZZ se conmutarán progresivamente,
-tras acuerdo con el jefe de estación, al SZZ provisional (sobre la base de la anotación del OZOV en el
-Registro de Averías en el equipo de señalización y seguridad o, en su caso, de la circulación junto a la
-señal no atendida
-
+«En el área de tráfico Medlešice, los elementos de mando externos del ZZ se irán conmutando progresivamente, previo acuerdo con el jefe de estación, al SZZ provisional (con base en la anotación del OZOV en el Registro de averías en el equipo de señalización y seguridad, o en su caso en la circulación por el lado no explotado»
 
 ## Página 35
+
 
 cierre de las agujas con un candado portátil cerrable). Hasta la finalización de la activación del SZZ
 definitivo (finalización de la fase C):
@@ -1326,8 +1260,8 @@ del aparato de vía eléctrico tipo. Según el esquema, el conocimiento de la DU
 alcance de los conocimientos requeridos en la ZPZ. Que el conocimiento de la DU se verifique en el
 marco de la ZPZ se indica también en el art. 7 de la norma SŽDC (ČD) Z1.
 
-
 ## Página 36
+
 
 El capítulo III de la norma SŽDC (ČD) Z1 se dedica a la DU. En el art. 130 se indica que la
 documentación para la elaboración de la DU debe presentarse en un ejemplar y en formato electrónico en
@@ -1387,6 +1321,7 @@ prestaba servicio, pero falta por completo la firma y la fecha en que tomó nota
 
 ## Página 37
 
+
 confirmación de los empleados que tomaron nota de la 10.ª modificación del «Reglamento de estación de la est. •
 Medlešice» (ref. 14258/2020-SŽ-OŘHKR-NŘP) con efectos a partir de la finalización de la interrupción de servicio
 (10. 7. 2020).
@@ -1427,106 +1362,59 @@ en su cumplimiento.
 En el sistema de gestión de la seguridad adoptado por el transportista ČD, a. s., relacionado con las circunstancias
 de la aparición de la MU en cuestión, no se detectaron deficiencias.
 
-
 ## Página 38
 
-### 4.4.4 Sistema de gestión de los sujetos responsables del mantenimiento de los vehículos ferroviarios
-y de los talleres de mantenimiento
-El sistema de gestión de los sujetos responsables del mantenimiento de los vehículos ferroviarios y de los talleres de
-mantenimiento no guardaba relación con la aparición de la MU.
+### 4.4.4 Sistema de gestión de los sujetos responsables del mantenimiento de los vehículos ferroviarios y de los talleres de mantenimiento
+El sistema de gestión de los sujetos responsables del mantenimiento de los vehículos ferroviarios y de los talleres de mantenimiento no guardaba relación con la aparición del MU.
 ### 4.4.5 Resultados de la supervisión realizada por las autoridades nacionales de seguridad
-Atendiendo a los factores detectados y a las circunstancias de la aparición de la MU, la supervisión de la autoridad de
-seguridad no guarda relación con la MU en cuestión.
-### 4.4.6 Aprobaciones, certificados e informes de evaluación emitidos por la agencia, las autoridades nacionales
-de seguridad u otros sujetos de evaluación de la conformidad
-El gestor de la infraestructura ferroviaria explotó la infraestructura con base en la autorización administrativa vigente y el
-certificado de seguridad del gestor de la infraestructura ferroviaria. El transportista explotó el transporte ferroviario con
-base en la licencia vigente y el certificado del transportista.
+En vista de los factores y circunstancias de aparición del MU identificados, la supervisión de la autoridad de seguridad no guarda relación con el MU en cuestión.
+### 4.4.6 Aprobaciones, certificados e informes de evaluación otorgados por la agencia, las autoridades nacionales de seguridad u otros organismos de evaluación de la conformidad
+El gestor de la infraestructura explotaba la infraestructura en virtud de una autorización administrativa vigente y de un certificado de seguridad del gestor de la infraestructura. El operador ferroviario explotaba el transporte ferroviario en virtud de una licencia vigente y de un certificado del operador.
 ### 4.4.7 Otros factores sistémicos
-En la investigación no se detectaron otros factores sistémicos.
+En la investigación no se identificaron otros factores sistémicos.
 ### 4.5 Sucesos anteriores de naturaleza similar
-La DI investigó las causas y circunstancias en el periodo comprendido entre el 1. 1. 2008 y la aparición de la MU en
-cuestión en las infraestructuras ferroviarias, categoría nacional y regional, un total de 6 MU similares, en los que
-se produjo el cambio de aguja antes o bajo los vehículos en movimiento (DV) del tren:
-•
-del 6. 6. 2008 en la est. Čelákovice, en el que se produjo el descarrilamiento del DV durante la marcha del tren Os
-9407. La causa inmediata de la aparición de la MU fue la posición incorrecta de la aguja n.º 22 en el itinerario de
-circulación para el tren Os 9407 y su cambio bajo un vehículo intercalado en movimiento, incluido en dicho tren
-como segundo DV. En la MU no hubo heridos y el daño total se cifró en 4 227 500 Kč;
-•
-del 4. 8. 2015 en la est. Horažďovice předměstí, en el que se produjo una colisión
-entre el penúltimo y el último DV del tren R 668 con el tren R 667 y un posterior
-descarrilamiento. La causa inmediata de la aparición de la MU fue el cambio de la aguja n.º 28X
-por el operador St. 2, en el momento en que en dicha aguja se encontraba el DV del tren R 668,
-y la posterior marcha de la parte trasera del tren R 668 por una vía distinta de la
-destinada a la circulación de dicho tren. En la MU resultaron heridas 16 personas y el daño total se cifró en
-8 108 221 Kč;
-•
-del 16. 8. 2017 en la est. Praha-Čakovice, en el que se produjo el descarrilamiento del tren Os 9522.
-La causa inmediata de la aparición de la MU fue el cambio de la aguja n.º 1 por el jefe de estación de la est. Praha-
-Čakovice en el momento inmediatamente anterior a la marcha del DV del tren Os 9522. En la MU no hubo heridos
-y el daño total se cifró en 258 629 Kč;
-•
-del 2. 10. 2019 en la est. Omlenice
-, en el que se produjo el descarrilamiento del tren Os 18809.
-La causa inmediata de la aparición de la MU fue el cambio de la aguja n.º 1 bajo los vehículos en movimiento
-del tren Os 18809. En la MU no hubo heridos y el daño total se cifró en
-89 381 Kč;
-
+La DI investigó las causas y circunstancias en el período comprendido entre el 1. 1. 2008 y la aparición del MU en cuestión, en las vías ferroviarias, categoría nacional y regional, un total de 6 MU análogos, en los que se produjo el cambio de aguja antes o por debajo de los vehículos DV en marcha del tren:
+• del 6. 6. 2008 en la est. Čelákovice, en el que se produjo el descarrilamiento del DV durante la marcha del tren Os 9407. La causa inmediata de la aparición del MU fue la posición incorrecta de la aguja n.º 22 en el itinerario de vía para el tren Os 9407 y su cambio por debajo del vehículo de refuerzo en marcha, incluido en dicho tren como segundo DV. En el MU no hubo heridos y el daño total se cifró en 4 227 500 Kč;
+• del 4. 8. 2015 en la est. Horažďovice předměstí, en el que se produjo una colisión entre el penúltimo y el último DV del tren R 668 con el tren R 667 y el posterior descarrilamiento. La causa inmediata de la aparición del MU fue el cambio de la aguja n.º 28X por el operador de estación St. 2, en el momento en que en dicha aguja se encontraba el DV del tren R 668, y la posterior marcha de la parte trasera del tren R 668 por una vía distinta de la destinada a la marcha de dicho tren. En el MU resultaron heridas 16 personas y el daño total se cifró en 8 108 221 Kč;
+• del 16. 8. 2017 en la est. Praha-Čakovice, en el que se produjo el descarrilamiento del tren Os 9522. La causa inmediata de la aparición del MU fue el cambio de la aguja n.º 1 por el jefe de estación de la est. Praha-Čakovice en el momento inmediatamente anterior a la marcha del DV del tren Os 9522. En el MU no hubo heridos y el daño total se cifró en 258 629 Kč;
+• del 2. 10. 2019 en la est. Omlenice, en el que se produjo el descarrilamiento del tren Os 18809. La causa inmediata de la aparición del MU fue el cambio de la aguja n.º 1 por debajo de los DV en marcha del tren Os 18809. En el MU no hubo heridos y el daño total se cifró en 89 381 Kč;
 
 ## Página 39
 
-•
-del 18. 6. 2020 en la est. Obr
+del 18. 6. 2020 en la estación de Obr
 nice
-, en el que se produjo el descarrilamiento del tren Os 6704.
-La causa inmediata de la aparición de la MU fue el cambio no autorizado de la aguja de enlace n.º 25a bajo el tren en
-movimiento Os 6704, precedido por la no verificación de si el tren Os 6704 había llegado completo a la vía
-destinada, y la cancelación prematura del itinerario de circulación establecido para dicho tren. En la MU no hubo
-heridos y el daño total se cifró en 138 701 Kč.
+ , cuando se produjo el descarrilamiento del tren Os 6704.
+•
+La causa inmediata de la aparición del MU fue el cambio no autorizado del desvío de enlace n.º 25a bajo el tren en circulación Os 6704, precedido por la no verificación de si el tren Os 6704 había llegado completo a la vía designada, y la cancelación prematura de la vía de tren establecida para dicho tren. En el MU no resultó nadie herido y el daño total se cifró en 138 701 Kč.
 ### 5 CONCLUSIONES
 ### 5.1 Resumen del análisis y conclusiones relativas a las causas del suceso
-La causa inmediata del suceso extraordinario fue:
-•
-el cambio no autorizado de la aguja n.º 1 bajo el tren en movimiento Os 5338, precedido
-por la no verificación de si el tren Os 5338 había llegado completo a la vía
-destinada, y la cancelación prematura del itinerario de circulación establecido para dicho tren.
+La causa inmediata del suceso excepcional fue:
+el cambio no autorizado del desvío n.º 1 bajo el tren en circulación Os 5338, precedido por la no verificación de si el tren Os 5338 había llegado completo a la vía designada, y la cancelación prematura de la vía de tren establecida para dicho tren. 
 Factores contribuyentes:
-•
-factores situacionales y la presión temporal derivada de los mismos, que no fue subjetivamente
-eliminada correctamente por parte del jefe de estación debido a una vigilancia insuficiente y a una
-concienciación insuficiente del riesgo.
-La DI no detectó una causa sistémica.
+los factores situacionales y la presión temporal derivada de ellos, que no fue eliminada subjetivamente por parte del jefe de estación de forma correcta debido a una vigilancia insuficiente y a la falta de conciencia del riesgo.
+La causa sistémica no fue determinada por la DI. 
 ### A summary of the analysis and conclusions with regard to the causes of the
 occurrence
 Causal factor:
-•
 unauthorized change of position of the switch No. 1 at the time, when the rolling
+•
 stocks of the train No. 5338 were on the switch, which was preceded by a failure to
 detect whether the train No. 5338 has arrived whole at the designated track and
 premature cancellation of train route for this train.
 Contributing factor:
-•
 time pressure which was not properly eliminated by the station dispatcher due to
+•
 insufficient vigilance and awareness of risk.
 Systemic factor:
 none.
-### 5.2 Medidas adoptadas para la prevención de sucesos extraordinarios
-El gestor de la infraestructura ferroviaria SŽ adoptó, tras la aparición de la MU, las siguientes medidas:
-•
-la responsabilidad por la MU fue discutida y resuelta con el jefe de estación, en el sentido de la norma SŽDC D17 y del
-Código del Trabajo, en el marco de la relación laboral;
-•
-en el sentido de la norma SŽDC D17 y de la norma SŽ Zam1, se ordenó al jefe de estación someterse a una reexaminación
-conforme a las normas y en el ámbito de OZ N-07;
-•
-los empleados directivos de la PO fueron informados de las circunstancias y causas de la MU en la reunión consultiva
-del jefe de la PO. Los empleados operativos de la PO Česká Třebová fueron informados
-de las circunstancias y causas de la aparición de la MU en la «Comunicación interna»
-del jefe de la PO;
-
+### 5.2 Medidas adoptadas para la prevención de sucesos excepcionales
+El gestor de la vía SŽ adoptó, tras la aparición del MU, las siguientes medidas:
+la responsabilidad del MU fue discutida y resuelta con el jefe de estación en el marco de la relación laboral, en el sentido de la norma SŽDC D17 y del Código del Trabajo;
+en el sentido de la norma SŽDC D17 y de la norma SŽ Zam1, se ordenó al jefe de estación someterse a una reevaluación según las reglas y en el ámbito de OZ N-07;
+los directivos de la PO fueron informados de las circunstancias y causas del MU en la junta asesora del jefe de la PO. Los empleados operativos de la PO Česká Třebová fueron informados de las circunstancias y causas de la aparición del MU en el "Comunicado interno" del jefe de la PO;
 
 ## Página 40
+
 
 •
 los empleados de tráfico en la OŘ Hradec Králové fueron informados de las circunstancias
@@ -1576,8 +1464,8 @@ change of the category of station interlocking plant (safety to a lower level) a
 failure to ensure the perform a practical test at station dispatchers at change the
 basic transport documentation;
 
-
 ## Página 41
+
 
 •
 failure to ensure the test of performance of a practical competence with change of
@@ -1602,8 +1490,8 @@ inspector
 de la Inspección Territorial de Brno
 de la Inspección Territorial de Brno
 
-
 ## Página 42
+
 
 ### ANEXOS
 Fig. 5: Vista del DV descarrilado

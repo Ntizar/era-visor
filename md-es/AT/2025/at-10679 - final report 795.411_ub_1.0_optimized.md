@@ -10,21 +10,22 @@ chars: 279727
 ratio_longitud: 1.05
 tokens_in: 105611
 tokens_out: 85575
-verificacion: revisar
-notas_cifras: ["bloque 2: cifras cortas: 1/60", "bloque 3: original bilingüe: se compara contra el idioma principal (EN); cifras cortas: 2/47", "bloque 4: original bilingüe: se compara contra el idioma principal (EN)", "bloque 5: cifras cortas: 2/149", "bloque 6: cifras cortas: 6/137", "bloque 10: cifras largas: 1/77; cifras cortas: 1/111"]
-avisos: ["bloque 23: ratio 1.63"]
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 7: cifras cortas: 1/11", "página 13: cifras cortas: 2/14", "página 26: cifras cortas: 1/23", "página 27: cifras cortas: 1/45", "página 34: cifras cortas: 6/31", "página 59: cifras largas: 1/11; cifras cortas: 1/18"]
 ---
+
 ## Página 1
+
 
 Informe de investigación
 Exceso de velocidad en la estación de Ebreichsdorf en la zona de los desvíos 57 y 58 el 11 de marzo de 2025
 Ref.: 2025-0.952.479
 Viena, 2026
 
-
 ## Página 2
+
 
 ### Colofón
 Titular de los medios, editor y publicador:
@@ -38,8 +39,8 @@ El único objetivo de la investigación de seguridad es la prevención de futuro
 Toda la información relativa a la protección de datos se encuentra en el siguiente enlace:
 bmimi.gv.at/impressum/daten.html.
 
-
 ## Página 3
+
 
 ### Prefacio
 De conformidad con el § 4 UUG 2005, las investigaciones tienen como objetivo exclusivo la determinación de la causa del suceso, a fin de poder elaborar recomendaciones de seguridad que contribuyan a evitar sucesos similares o de características análogas en el futuro. La valoración jurídica de las circunstancias y causas no es, en modo alguno, objeto de la investigación. Por ello, tampoco es el propósito de este informe de investigación determinar culpa ni aclarar cuestiones de responsabilidad (véase el artículo 20, apartado 4, de la Directiva (UE) 2016/798). El informe de investigación debe, de conformidad con el § 15, apartado 2, UUG 2005, garantizar el anonimato de todos los participantes de tal manera que, en todo caso, no se incluyan nombres de las personas implicadas.
@@ -48,8 +49,8 @@ De conformidad con el § 14, apartado 2, UUG 2005, los dictámenes debidamente m
 De conformidad con el § 16, apartado 3, UUG 2005, en relación con el artículo 26, apartado 2, de la Directiva (UE) 2016/798, las recomendaciones de seguridad se dirigen a la autoridad de seguridad y, cuando la naturaleza de la recomendación lo requiera, a otros organismos o autoridades que puedan convertir la recomendación de seguridad en medidas adecuadas para la prevención de sucesos, o a otros Estados miembros. Los Estados miembros y sus autoridades de seguridad adoptarán las medidas necesarias para garantizar que las recomendaciones de seguridad de las oficinas de investigación se tengan debidamente en cuenta y, en su caso, se apliquen.
 La autoridad de seguridad y otras autoridades u organismos, así como, en su caso, otros Estados miembros a los que se dirijan las recomendaciones, informarán a la oficina de investigación, al menos una vez al año, sobre las medidas adoptadas o previstas en respuesta a la recomendación (véase el artículo 26, apartado 3, de la Directiva (UE) 2016/798).
 
-
 ## Página 4
+
 
 ### Nota
 ### El presente informe de investigación no podrá reproducirse, ni siquiera parcialmente, sin indicación de la fuente y sin la aprobación expresa de la Oficina Federal de Investigación de Seguridad.
@@ -57,8 +58,8 @@ De conformidad con el § 15, apartado 2, UUG 2005, el informe de investigación 
 En las representaciones de objetos y lugares (fotografías) incluidas en este informe, pueden aparecer personas ajenas al suceso, no implicadas en el accidente o con funciones organizativas, así como equipos de intervención, que deberán ser anonimizados en su caso. Dado que los colores de la ropa de estas personas (p. ej., los colores fluorescentes de los chalecos reflectantes) podrían desviar la atención del contenido de las representaciones, se han corregido digitalmente cuando ha sido necesario (p. ej., desaturándolos a gris).
 Cuando no exista información relevante o no sea necesaria debido a las circunstancias del suceso, se insertará —de conformidad con el anexo del Reglamento de ejecución (UE) 2020/572— la indicación «no procede» en los números y subpuntos correspondientes, con lo que se señalará que se consideran no relevantes para la investigación.
 
-
 ## Página 5
+
 
 ### Índice
 Prefacio ......................................................................................................................... 3
@@ -98,6 +99,7 @@ Factores contribuyentes ........................................................
 
 ## Página 6
 
+
 Conclusiones ................................................................................................................ 106 
 Resumen del análisis y de las conclusiones con respecto a las causas del suceso .. 106 
 Factores causales ........................................................................................................ 107 
@@ -123,10 +125,10 @@ Dictamen Verkehrs-Arbeitsinspektorat ...........................................
 Dictamen ÖBB Personenverkehr AG ......................................................................... 162 
 Dictamen ÖBB Produktion GmbH.............................................................................. 164 
 Dictamen ÖBB Infrastruktur AG ................................................................................ 166 
-Dictamen Oberste Eisenbahnbehörde ...................................................................... 170 
-
+Dictamen Oberste Eisenbahnbehörde ...................................................................... 170
 
 ## Página 7
+
 
 # 1 Resumen 
 ## Desarrollo de los hechos 
@@ -136,19 +138,19 @@ A causa del suceso no se produjeron daños personales ni daños materiales direc
 ## Factores causales 
 Los factores causales son acciones, omisiones, sucesos o circunstancias de cualquier tipo o una combinación de los mismos, cuya corrección, eliminación o evitación habría impedido el suceso con toda probabilidad.1 
 Como factor causal del suceso se considera la falta de percepción de la indicación de señal «Libre con 60 km/h» en la señal de salida «R202» y del simulador de señal «1R202» situado delante de la señal de salida «R202» con la indicación de señal «Señal principal muestra Libre con limitación de velocidad» por parte del:la conductor:ora del tren debido a su:sa 
-1 Un factor sistémico puede ser cualquier factor causal o contribuyente de carácter organizativo, de gestión, social o jurídico que pueda influir en sucesos futuros similares y relacionados, incluyendo en particular las condiciones marco jurídicas, la configuración y aplicación del sistema de gestión de seguridad, los conocimientos técnicos del personal, los procedimientos y el mantenimiento. 
-
+1 Un factor sistémico puede ser cualquier factor causal o contribuyente de carácter organizativo, de gestión, social o jurídico que pueda influir en sucesos futuros similares y relacionados, incluyendo en particular las condiciones marco jurídicas, la configuración y aplicación del sistema de gestión de seguridad, los conocimientos técnicos del personal, los procedimientos y el mantenimiento.
 
 ## Página 8
+
 
 expectativa de recibir la indicación «Libre», en combinación con una atención reducida en la observación de la señal de salida «R202» y del simulador de señal «1R202» situado delante. Como consecuencia de ello, los desvíos 57 y 58 fueron recorridos a 116 km/h en lugar de a la velocidad permitida de 60 km/h. 
 La configuración por parte de la infraestructura del sistema de control de velocidad del tren empleado debe señalarse igualmente como factor causal, ya que no pudo impedir que el tren ya pasara la señal de salida «R202» con una velocidad excesiva y continuara acelerando a continuación. Así, el tren no pudo ser detenido automáticamente por el sistema de control de velocidad del tren. Desde la finalización de la supervisión de 1000 Hz hasta la zona de los desvíos 57 y 58, el tren circuló técnicamente sin supervisión durante casi 1200 m. La configuración por parte de la infraestructura del sistema de control de velocidad del tren empleado debe considerarse también como factor sistémico, ya que puede producir efectos similares en otras circulaciones. Además, no puede descartarse que existan situaciones similares en otras estaciones de servicio. 
 Como otro factor causal se considera la larga distancia al señal previo de 1888 m. Debido a esta larga distancia, la supervisión de velocidad de la influencia de 1000 Hz finalizó ya a la altura del comienzo del andén. Así, tras la parada posterior en la estación de Ebreichsdorf, fue posible acelerar el tren sin supervisión técnica hasta la señal de salida «R202» primero a 84 km/h y posteriormente a 116 km/h. La gran distancia al señal previo debe considerarse también como factor sistémico, ya que puede producir efectos similares en otras circulaciones. Además, existen también en otras estaciones de servicio distancias al señal previo de tal magnitud que podrían tener efectos relevantes para la seguridad en las circulaciones. 
 ## Factores contribuyentes 
-Los factores contribuyentes son acciones, omisiones, sucesos o circunstancias de cualquier tipo que influyen en un suceso al aumentar su probabilidad, acelerar temporalmente su producción o agravar sus consecuencias, pero cuya eliminación no habría impedido el suceso.1  
-
+Los factores contribuyentes son acciones, omisiones, sucesos o circunstancias de cualquier tipo que influyen en un suceso al aumentar su probabilidad, acelerar temporalmente su producción o agravar sus consecuencias, pero cuya eliminación no habría impedido el suceso.1
 
 ## Página 9
+
 
 La configuración de los desvíos 57 y 58 constituye un factor contribuyente al suceso. Mediante la instalación de desvíos de 60 km/h en lugar de desvíos de 100 km/h en una línea de alta frecuencia y con circulaciones a velocidades muy elevadas, aumenta la probabilidad de descarrilamiento en funcionamiento PZB tras un comportamiento erróneo previo, ya que los trenes en esta zona realizan un cambio de vía no supervisado por el sistema de control de velocidad del tren ante una infracción de velocidad de 100 km/h. 
 La configuración de los desvíos debe considerarse también como factor sistémico, ya que puede producir efectos similares en otras circulaciones. Además, no puede descartarse que existan situaciones similares en otras estaciones de servicio, donde la configuración de los desvíos pueda tener un efecto negativo en situaciones operativas desfavorables. 
@@ -158,10 +160,10 @@ De conformidad con el § 16 Abs. 2 UUG 2005, una recomendación de seguridad deb
 No se emitió ninguna recomendación de seguridad de conformidad con el § 16 Abs. 2 UUG 2005. 
 ### Recomendaciones de seguridad de conformidad con el § 16 Abs. 1 UUG 2005 
 De conformidad con el § 16 Abs. 1 UUG 2005, una recomendación de seguridad es una propuesta para prevenir sucesos sobre la base de información obtenida durante la investigación de seguridad. Las recomendaciones de seguridad se emiten en principio en el marco de los informes de investigación y en ningún caso pueden contener afirmaciones o conjeturas sobre cuestiones de culpa o responsabilidad. 
-A modo introductorio, cabe señalar que la revisión de en qué medida las recomendaciones de seguridad tienen un significado más amplio para el sector ferroviario nacional (en el presente caso, principalmente la segunda recomendación de seguridad) corresponde a la autoridad nacional de seguridad. 
-
+A modo introductorio, cabe señalar que la revisión de en qué medida las recomendaciones de seguridad tienen un significado más amplio para el sector ferroviario nacional (en el presente caso, principalmente la segunda recomendación de seguridad) corresponde a la autoridad nacional de seguridad.
 
 ## Página 10
+
 
 La recomendación de seguridad A-2024/004 de la investigación del descarrilamiento de tren en la estación de Münchendorf del 09 de mayo de 2022 es igualmente aplicable a este suceso y debe seguirse. 
 Tabla 1 Recomendaciones de seguridad de conformidad con el § 16 Abs. 1 UUG 2005 
@@ -189,6 +191,7 @@ La situación podría, por ejemplo, crearse trasladando la señal previa «r» e
 
 ## Página 11
 
+
 Recomendación de seguridad vigente (causal del accidente)
 Se emite
 Afecta a
@@ -201,8 +204,8 @@ Como mostró el caso investigado, a pesar de la existencia y del buen funcionami
 La aplicación de esta recomendación de seguridad seguiría siendo pertinente incluso tras una futura implantación del funcionamiento con ETCS.
 El esfuerzo derivado de la reducción de la distancia de señal de aproximación parece a la Oficina Federal de Investigación de Seguridad
 
-
 ## Página 12
+
 
 Recomendación de seguridad vigente (causal del accidente)
 Se emite
@@ -222,8 +225,8 @@ Como se describe en el informe de investigación, en Austria se admiten distanci
 Dado que la recomendación se refiere únicamente a la comprobación de la posibilidad de futuras adaptaciones de las normas, el esfuerzo de aplicación consiste principalmente en la actividad de comprobación de la autoridad y del gestor de la infraestructura y, por su naturaleza, no puede ser cuantificado con exactitud por la Oficina Federal de Investigación de Seguridad. Que el gestor de la infraestructura ya haya anunciado a la Oficina Federal de Investigación de Seguridad, en respuesta al informe de investigación provisional, que tiene previsto adaptar sus normas en el sentido de esta recomendación de seguridad, indica que el esfuerzo no parece ser excesivo. El esfuerzo de aplicación de esta recomendación de seguridad parece, por tanto, razonable en relación con el beneficio que los resultados de la comprobación pueden aportar para la mejora de la seguridad ferroviaria.
 Fuente: SUB
 
-
 ## Página 13
+
 
 # Resumen
 ## Desarrollo del suceso
@@ -235,8 +238,8 @@ Los factores causales son acciones, omisiones, sucesos o circunstancias de cualq
 El factor causal del suceso es el no haberse percatado del mensaje de señal «Libre a 60 km/h» en la señal de salida «R202» y en el repetidor de señal «1R202» situado delante de la misma, correspondiente a la señal de salida «R202» con el aspecto de señal «Señal principal muestra libre con restricción de velocidad», por parte del conductor del tren, debido a su expectativa de recibir una señal «libre», combinada con una atención limitada al observar la señal de salida «R202» y el repetidor de señal «1R202» situado delante de la misma. Como resultado, los desvíos 57 y 58 fueron recorridos a 116 km/h en lugar de la velocidad permitida de 60 km/h.
 2 Un factor sistémico puede ser cualquier factor causal o contribuyente de naturaleza organizativa, de gestión, social o jurídica que pueda afectar a sucesos similares y relacionados en el futuro, incluyendo, en particular, el marco legal, el diseño y la aplicación del sistema de gestión de seguridad, los conocimientos del personal, los procedimientos y el mantenimiento.
 
-
 ## Página 14
+
 
 El diseño de la infraestructura del sistema de control de trenes utilizado debe citarse también como factor contribuyente, ya que no pudo impedir que el tren pasara la señal de salida «R202» a velocidad excesiva y acelerara posteriormente. Por ello, el sistema de control de trenes no pudo detener el tren automáticamente. Desde el final de la supervisión de 1000 Hz hasta la zona de desvío de los desvíos 57 y 58, el tren circuló sin supervisión técnica durante casi 1200 m. El diseño de la infraestructura del sistema de control de trenes utilizado debe considerarse también un factor sistémico, ya que puede tener un efecto similar en otros trayectos. Además, no puede descartarse que existan situaciones similares también en otras estaciones de servicio.
 Otro factor causal se considera la gran distancia de 1888 m entre la señal de aproximación de salida «r» y la señal de salida «R202». Debido a esta gran distancia, la supervisión de velocidad del sistema de control de 1000 Hz finalizó al comienzo del andén. Esto significó que, tras la posterior parada en la estación de Ebreichsdorf, era posible acelerar el tren sin supervisión técnica hasta 84 km/h y luego hasta 116 km/h hasta la señal de salida «R202». La gran distancia de señal de aproximación debe considerarse también un factor sistémico, ya que puede tener un efecto similar en otros trayectos. Además, existen también otras estaciones de servicio con tales grandes distancias de señal de aproximación, lo que podría tener implicaciones relacionadas con la seguridad para los trayectos.
@@ -244,8 +247,8 @@ Otro factor causal se considera la gran distancia de 1888 m entre la señal de a
 Los factores contribuyentes son acciones, omisiones, sucesos o circunstancias de cualquier tipo que afectan a un suceso aumentando su probabilidad, acelerando su aparición o agravando sus consecuencias, pero cuya exclusión no habría impedido el suceso.2
 El diseño de los desvíos 57 y 58 fue un factor contribuyente al suceso. El uso de desvíos de 60 km/h en lugar de desvíos de 100 km/h en una línea con mucho tráfico y velocidades muy altas aumenta la probabilidad de un descarrilamiento en funcionamiento con PZB en caso de un comportamiento erróneo previo, ya que los trenes en esta zona realizan un cambio de vía no supervisado por un sistema de control de trenes a una velocidad de 100 km/h. El diseño de los desvíos debe considerarse también un factor sistémico, ya que puede tener un efecto similar en otros trayectos. Además, no puede descartarse que existan situaciones similares en otras estaciones de servicio donde el diseño de los desvíos pueda tener un efecto negativo en situaciones operativas desfavorables.
 
-
 ## Página 15
+
 
 ## Recomendaciones de seguridad
 ### Recomendaciones de seguridad según el § 16 apartado 2 UUG 2005
@@ -270,6 +273,7 @@ Fundamento:
 En caso de puesta en servicio del ETCS Nivel 2, el potencial de riesgo de descarrilamientos relacionados con la velocidad en la zona de desvío o
 
 ## Página 16
+
 
 No. 
 Recomendación de seguridad (causante de accidente) 
@@ -317,8 +321,8 @@ PZB existente y funcional, los desvíos 57 y 58 se pasaron a una velocidad de
 acelerar sin monitorización técnica a lo largo de una distancia de
 aproximadamente 1000 m (e incluso casi 1200 m al pasar) después de
 
-
 ## Página 17
+
 
 No. 
 Recomendación de seguridad (causante de accidente) 
@@ -371,8 +375,8 @@ salida de 1500 m no solo mejoraría la seguridad, sino que también ofrecería
 ventajas operativas, ya que los trenes no tendrían que circular a velocidades
 lentas durante períodos innecesariamente largos
 
-
 ## Página 18
+
 
 No. 
 Recomendación de seguridad (causante de accidente) 
@@ -398,8 +402,8 @@ razonable en relación con los beneficios que los resultados de la revisión
 puedan aportar en términos de mejora de la seguridad ferroviaria.
 Fuente: SUB
 
-
 ## Página 19
+
 
 # 2 La investigación y su contexto
 ## 2.1
@@ -432,8 +436,8 @@ jurídico establecido por el UUG 2005.
 ## Alcance y límites de la investigación
 El objeto de la investigación abarca:
 
-
 ## Página 20
+
 
 •
 El desarrollo del incidente
@@ -493,6 +497,7 @@ mecánica, con experiencia
 
 ## Página 21
 
+
 Formaciones en el ámbito ferroviario (explotación ferroviaria, tecnología de seguridad y tecnología de vehículos) y en la investigación de accidentes, así como una amplia experiencia profesional relevante en el ámbito de la investigación de accidentes.
 En el marco de la lectura de control interna del informe de investigación, se involucró a otros empleados de la SUB (un investigador adicional; un jurista; un empleado de la gestión de la calidad).
 ## 2.5 
@@ -505,8 +510,8 @@ El informe de investigación provisional se remite a las partes interesadas dura
 Las partes interesadas fueron informadas por la SUB, en el marco del proceso de investigación, sobre la apertura de la investigación del accidente y sobre la persona responsable de la investigación3. La documentación solicitada a las partes interesadas fue recibida por la SUB, en principio, dentro del plazo establecido. Todas las partes interesadas se mostraron cooperativas con la SUB.
 3 Siempre que esto fuera previsible al comienzo de la investigación.
 
-
 ## Página 22
+
 
 ## 2.7 
 ## Métodos y técnicas de investigación 
@@ -520,10 +525,10 @@ La SUB no tiene conocimiento de investigaciones de la fiscalía sobre el present
 ## 2.10 Otra información 
 ### Competencia de la autoridad 
 La autoridad ferroviaria competente es el Ministro Federal de Innovación, Movilidad e Infraestructura.
-4 Las interrogatorios existentes realizados por las empresas también se utilizaron para la investigación, o bien la SUB solicitó la realización de un interrogatorio adicional. 
-
+4 Las interrogatorios existentes realizados por las empresas también se utilizaron para la investigación, o bien la SUB solicitó la realización de un interrogatorio adicional.
 
 ## Página 23
+
 
 # 3 Descripción del suceso 
 ## a) Información sobre el suceso y sus antecedentes 
@@ -534,10 +539,10 @@ Exceso de velocidad en la zona de desvíos
 ### Fecha y lugar del suceso 
 El suceso tuvo lugar el martes, 11 de marzo de 2025, a las aprox. 23:46 h (UTC +1) en la estación de Ebreichsdorf. 
 Figura 1 Croquis de las líneas ferroviarias de Austria 
-Fuente: BMIMI / SUB 
-
+Fuente: BMIMI / SUB
 
 ## Página 24
+
 
 ## 3. 
 ### Entorno y condiciones locales 
@@ -551,10 +556,10 @@ En el momento del suceso el cielo estaba despejado a parcialmente nublado, reina
 No hubo personas heridas ni fallecidas en el suceso.[3] 
 ### Daños en la mercancía, el equipaje y otros bienes 
 No se notificó a la SUB ningún daño en la mercancía, el equipaje u otros bienes. 
-5 También denominada Pottendorfer Linie a lo largo del informe 
-
+5 También denominada Pottendorfer Linie a lo largo del informe
 
 ## Página 25
+
 
 ### Daños en los vehículos, la infraestructura y el medio ambiente 
 A causa del suceso no se produjeron daños materiales directos. 
@@ -570,10 +575,10 @@ No hubo otras consecuencias del suceso.
 • 
 IB – ÖBB Infrastruktur AG 
 − 
-Jefe de estación de la zona de estación (Stellbereichs-Fdl) 
-
+Jefe de estación de la zona de estación (Stellbereichs-Fdl)
 
 ## Página 26
+
 
 − 
 Suplente del jefe de estación de la zona de estación (Stellbereichs-Fdl Verstärker) 
@@ -634,10 +639,10 @@ Longitud total
 [4] 
 Horario 
 Horario para Z 7638 
-[7][33] 
-
+[7][33]
 
 ## Página 27
+
 
 Z 7638 
 Fuente 
@@ -683,10 +688,10 @@ desde el punto de inicio hacia el punto final, circula en dirección 1
 desde el punto final hacia el punto de inicio, circula en dirección 2 
 6 Las clases de letras se indican con las letras mayúsculas de la A a la G para indicar la carga por eje y, en algunos casos, se subdividen con cifras para indicar la carga por metro.  
 D3 Carga por eje 22,5 t y carga por metro 7,2 t/m;  
-D4 Carga por eje 22,5 t y carga por metro 8,0 t/m 
-
+D4 Carga por eje 22,5 t y carga por metro 8,0 t/m
 
 ## Página 28
+
 
 según la orden de circulación definida en la hoja de título de la línea[12], es decir, a la derecha, circula por la 
 • 
@@ -701,6 +706,7 @@ Figura 3 Croquis de situación de la estación de Ebr con las distancias relevan
 Fuente: IB / SUB
 
 ## Página 29
+
 
 La figura 3 muestra un esquema de situación de la estación de Ebreichsdorf (Bf Ebreichsdorf). La estación está delimitada por los ES "Ag92" y "Bg91" o "Yh12" y "Zh11".
 En la figura se han representado las siguientes distancias esenciales para el informe de investigación:
@@ -726,8 +732,8 @@ Por el Z 7638 se recorrieron en la estación de Ebreichsdorf las agujas 57 y 58 
 El VzG es una base de datos elaborada y utilizada por ÖBB Infrastruktur AG para la representación de la infraestructura actual para los respectivos
 7 Los 1280 m se han tomado de la evaluación de datos de circulación[11] y corresponden a la distancia de supervisión registrada. Conforme a los reglamentos 13.01.02 y 50.02.07, la supervisión a lo largo de una longitud de 1250 m es suficiente. No obstante, en el UB se trabaja con los 1280 m efectivamente registrados en la evaluación de datos de circulación.
 
-
 ## Página 30
+
 
 periodos de horario. El VzG representa los datos de la infraestructura transitable por trenes y es la base para el horario.
 
@@ -744,8 +750,8 @@ Los datos del horario, así como las prescripciones de las zonas de velocidad re
 Conforme al horario del Z 7638, para la estación de Ebreichsdorf (y más allá) se indica una velocidad admisible de 160 km/h.[7] No obstante, estos 160 km/h solo pueden ser alcanzados si en las señales relevantes para los respectivos movimientos de tren se señala "Libre" y no existen reducciones de velocidad adicionales, como era el caso del Z 7638.
 8 DiLoc es el nombre del software en la tableta personal de los maquinistas (Tfzf) de la EVU. El software "TIM", utilizado en las ÖBB, probablemente sea más conocido.
 
-
 ## Página 31
+
 
 Del horario puede leerse una parada programada en la estación de Ebreichsdorf a las 23:46 h.
 
@@ -774,16 +780,16 @@ Las señales luminosas de preseñalización indican qué señal debe esperarse e
 9 Corresponde al dispositivo de seguridad nacional PZB/LZB. La circulación se realiza, por tanto, bajo la supervisión del dispositivo de seguridad nacional (PZB, LZB).[49]
 10 Se admite otra posición en las señales principales en tramos de vía con bloqueo automático de línea, o en las señales principales en instalaciones operativas que no participan en la regulación de la separación de trenes durante un período prolongado o en intervalos de tiempo que se repiten periódicamente.
 
-
 ## Página 32
+
 
 una ruta de tren es establecida por el Fdl competente, la imagen de la señal cambia a una indicación de vía libre (exceptuando las rutas auxiliares de tren y las rutas de sustitución). Qué indicación de vía libre ("Libre", "Libre con 60 km/h", "Libre con 40 km/h") se señala depende del itinerario a recorrer a continuación. El AS "R202" relevante para la investigación, en el km 27,888[18], está instalado a la derecha de la vía 202. Para la preanunciación del AS "R202", en el km 26,000 está instalado el AVS "r" con el correspondiente indicador previo de velocidad, en la misma ubicación que el ES "Ag92" con el correspondiente indicador de velocidad para la estación de Ebreichsdorf.[18] El siguiente VS "ah12, bh11" está situado en el km 28,360, es decir, aún antes de la unión de agujas de las agujas 57 y 58.[18]
 
 Figura 4 Imagen simbólica de la señalización en el ES "Ag92" con GA "apagado" y AVS "r" con GVA "apagado" para el Z 7638
 Fuente: EisbBBV / SUB
 
-
 ## Página 33
+
 
 Figura 5 Imagen simbólica de la señalización en el AS "R202"
 Fuente: EisbBBV / SUB
@@ -792,8 +798,8 @@ Fuente: EisbBBV / SUB
 
 En la siguiente tabla 4 se enumeran las señales luminosas relevantes y se explican detalladamente sus señalizaciones. Además, contiene la información del tipo de señal al que pertenecen, en qué km se encuentran, qué imágenes de señal pueden mostrarse, qué imágenes de señal fueron efectivamente señalizadas para el Z 7638 en el día del suceso y qué influencia en el tren está instalada.
 
-
 ## Página 34
+
 
 Tabla 4 Señales luminosas relevantes para el Z 7638
 | Señal | Tipo de señal | km | Imagen de señal posible[18] | Imagen de señal efectiva[19] | Influencia en el tren instalada[18] |
@@ -806,8 +812,8 @@ Tabla 4 Señales luminosas relevantes para el Z 7638
 | 1R202 | Repetidor de señal | 27,800 | • "Señal principal muestra Parada"<br>• "Señal principal muestra Libre"<br>• "Señal principal muestra Libre con restricción de velocidad" | "Señal principal muestra Libre con restricción de velocidad" | |
 11 La "Z" en la señal Zustimmung se ilumina siempre que la señal correspondiente indica una indicación de vía libre. Sin embargo, no dice nada sobre qué indicación de vía libre se muestra en la señal correspondiente. En el presente suceso, donde el AS "R202" mostró todo el tiempo una indicación de vía libre ("Libre con 60 km/h"), se iluminó de forma continua.[76]
 
-
 ## Página 35
+
 
 | Señal | Tipo de señal | km | Imagen de señal posible[18] | Imagen de señal efectiva[19] | Influencia en el tren instalada[18] |
 |---|---|---|---|---|---|
@@ -822,6 +828,7 @@ Las explicaciones de las distintas imágenes de señal se presentan en el capít
 
 ## Página 36
 
+
 ### Equipamiento de comunicación
 La comunicación entre el:la Tfzf y el:la Fdl responsable del sector de estación se realiza a través de radio de tren (GSM-R).[7] En el periodo comprendido entre las 23:20 h (11 de marzo de 2025) y las 00:20 h (12 de marzo de 2025) no se produjeron conversaciones vía GSM-R.[27]
 ### Sistema de seguridad de circulación
@@ -833,8 +840,8 @@ En la PZB 90 están instalados en vía imanes de carril que, al encontrarse sin 
 La PZB 90 es un sistema de seguridad de circulación que funciona de forma oculta. Por parte de la infraestructura existen fundamentalmente tres tipos distintos de imanes PZB (imanes de carril de 1000, 500 y 2000 Hz). Estos se representan a continuación en el modo de operación «O» (los parámetros del modo de operación «O», en el que circulaba el Z 7638, se muestran en color azul):
 Imán de carril de 1000 Hz
 
-
 ## Página 37
+
 
 Un imán de carril de 1000 Hz se instala a la altura de la ubicación de la señal, hasta 6 m (en la dirección de la marcha) antes de la señal correspondiente.
 Tras el paso por un imán de carril de 1000 Hz efectivo (p. ej., en una señal de aproximación que indica «Atención»), el:la Tfzf debe pulsar la tecla de vigilancia en un plazo de cuatro segundos, ya que de lo contrario se produce una frenada forzosa.
@@ -846,8 +853,8 @@ Un imán de carril de 500 Hz se sitúa normalmente a 250-300 m de una señal pri
 Al pasar por un imán de carril de 500 Hz efectivo (señal principal correspondiente en posición «Alto»), el tren no debe superar, según el modo de operación, una velocidad determinada (vmax = 65 km/h). Mediante la influencia de 500 Hz se hace efectiva una curva de supervisión de velocidad dependiente de la distancia, de acuerdo con el modo de operación seleccionado y el programa de explotación, a lo largo de 250 m (vmax a los 153 m = 45 km/h). Al superar la curva de supervisión se produce una frenada forzosa.
 Si el tren se encuentra al menos 15 segundos por debajo de la velocidad de conmutación durante la supervisión de 500 Hz (desde el imán de carril de 500 Hz hasta 153 m después se ha previsto una curva de velocidad de conmutación de 30 km/h que desciende hasta 10 km/h; a partir de 153 m después del imán de carril de 500 Hz hasta el final de la supervisión vmax = 10 km/h), el sistema conmuta de la curva normal de supervisión a la supervisión de velocidad restrictiva (desde el imán de carril de 500 Hz hasta 153 m después se ha previsto una curva de supervisión de velocidad restrictiva de 45 km/h que desciende hasta 25 km/h
 
-
 ## Página 38
+
 
 a partir de 153 m después del imán de carril de 500 Hz hasta el final de la supervisión vmax = 25 km/h). Si ya se había conmutado a la supervisión restrictiva durante la supervisión de 1000 Hz, esta se asume automáticamente para la supervisión de 500 Hz. No es posible una liberación anticipada de la supervisión.
 Imán de carril de 2000 Hz
@@ -858,15 +865,15 @@ El imán de carril de 1000/2000 Hz es un imán de carril que puede conectarse op
 Dispositivo de comprobación de velocidad (GPE)
 Las GPE sirven para supervisar las reducciones de velocidad mediante imanes de carril de 2000 Hz hasta una velocidad objetivo de 70 km/h, siempre que la reducción de velocidad sea de al menos 30 km/h (diferencial de velocidad), y activan en su caso una frenada forzosa. El lugar de instalación de una GPE depende de la velocidad inicial, de la velocidad objetivo y de la pendiente determinante, y debe realizarse de acuerdo con el Anexo 102 RW 13.01.02 Seguridad de circulación de trenes de punto (véase al respecto el capítulo «Marco jurídico aplicable»).
 
-
 ## Página 39
+
 
 Figura 7 Evolución de la circulación en el modo de operación «O» (1000 Hz y 500 Hz)
 Fuente: DU
 La figura 7 muestra esquemáticamente el funcionamiento de la PZB en el modo de operación «O» descrito anteriormente.
 
-
 ## Página 40
+
 
 ### ETCS Nivel 2[23]
 ETCS permite un tráfico interoperable transfronterizo y aumenta la seguridad y la capacidad de las líneas. En el ETCS Nivel 2 se posibilita una transmisión continua de datos entre el tren y el centro de control ETCS a través de GSM-R.
@@ -888,8 +895,8 @@ La información sobre la autorización de circulación, los límites de velocida
 ### Otra información
 No procede.
 
-
 ## Página 41
+
 
 ## b) Descripción objetiva
 ## 1.
@@ -901,8 +908,8 @@ Fuente: IB / SUB
 El recorrido del Z 7638 se ha representado en la figura 8 con una línea verde y la dirección de la marcha con una flecha verde. El Z 7638 circuló hasta la estación de Ebreichsdorf por la vía principal en la dirección 1, donde recorrió las vías de estación 102 y 202 y, al salir de la estación, cambió a la vía contraria, por la que recorrió la vía de estación 301 y a continuación el bloque de vía h11. Las señales que debían tenerse en cuenta para la ruta del Z 7638 se representaron enmarcadas en azul. El cambio de vía fue necesario porque entre la estación de Ebreichsdorf y la estación de Wampersdorf se estaban realizando trabajos planificados en la catenaria (véase al respecto el capítulo «Lugar y condiciones locales») y la vía principal después de la estación de Ebreichsdorf no podía ser utilizada por ello. Esta obra se hizo constar en la figura 8 con la anotación «BETRA 989672».
 La señal de entrada «Ag92» para la estación de Ebreichsdorf en el km 26,000, que fue pasada a las 23:44:56 h, permitía al:la Tfzf la entrada con la velocidad máxima de horario de
 
-
 ## Página 42
+
 
 160 km/h. Sin embargo, debido a la parada planificada en la estación de Ebreichsdorf, la velocidad debía elegirse de manera que el tren pudiera detenerse en el andén 2. La AVS «r», situada en la misma ubicación que la señal de entrada «Ag92», señalizaba que debía esperarse la «Señal principal libre con 60 km/h» correspondiente.[11][19] Debido a esta señalización, el Z 7638 recibió a través del imán de carril de 1000 Hz situado junto a la señal una influencia de 1000 Hz, que fue confirmada por el:la Tfzf mediante la tecla de vigilancia. A partir de este momento, el tren estuvo supervisado técnicamente durante los próximos 1280 m.[11]
 La parada para el cambio de pasajeros se realizó puntualmente a las 23:46 h en la vía 202 y duró 38 segundos.[11] En ese momento el tren ya no estaba siendo supervisado por la PZB.[11] A continuación, el Z 7638, según la señal de entrada «Ag92» que previamente indicaba «Libre», teóricamente habría podido volver a acelerar hasta la velocidad máxima de horario, antes de que la velocidad tuviera que reducirse, debido a la señalización «Libre con 60 km/h» en la señal «R202», hasta un máximo de 60 km/h hasta la ubicación de esta señal.12 Hasta el final de la zona de desvíos siguiente habría podido recorrerse la ruta con un máximo de 60 km/h. Tras el paso por el desvío 58, el Z 7638 habría podido, según el horario, en combinación con la señal de aproximación de entrada «ah12, bh11» que indicaba «Señal principal libre», lo que significa que debe esperarse la señal principal correspondiente en posición «Libre», volver a acelerar a 160 km/h.
@@ -910,6 +917,7 @@ De hecho, el Z 7638, tras la parada en la estación de Ebreichsdorf, aceleró de
 En general, el tren circuló puntualmente durante todo el recorrido, con desviaciones mínimas respecto a la hora prevista de como máximo un minuto. El tren llegó puntualmente a la estación de destino, Deutschkreutz, el 12 de marzo de 2025 a las 00:46 h.[28]
 
 ## Página 43
+
 
 ### Cadena de eventos
 Tabla 5 Secuencia de los acontecimientos del 11 de marzo de 2025
@@ -988,8 +996,8 @@ Inicio de una frenada de servicio a 116 km/h (pk 28,550).
 El Z 7638 ha ocupado la vía de estación 301.
 [19]
 
-
 ## Página 44
+
 
 Hora
 Descripción
@@ -1038,8 +1046,8 @@ tanto el EVU como el IB iniciaron su tratamiento (investigación del incidente).
 ### Procedimiento de emergencia de los servicios públicos
 No procede, ya que no estuvieron implicados servicios públicos.
 
-
 ## Página 45
+
 
 # 4 Evaluación del acontecimiento
 ## a) Tareas y obligaciones
@@ -1060,8 +1068,8 @@ los flujos de trabajo y la organización del trabajo y
 ### el comportamiento humano erróneo."
 De acuerdo con el § 7 ASchG, los empleadores deben aplicar, en el diseño de los centros de trabajo, los puestos de trabajo y los procesos de trabajo, en la selección y utilización de los medios de trabajo y las sustancias de trabajo, en la contratación de los trabajadores y en todas las medidas de protección de los trabajadores, los siguientes principios generales de prevención de riesgos:
 
-
 ## Página 46
+
 
 1. evitar los riesgos;
 2. evaluar los riesgos inevitables;
@@ -1088,8 +1096,8 @@ Cuando se instale un sistema de influencia en el tren de acuerdo con el § 24 Ab
 (Fuente: § 24 Abs. 4 EisbbBV)
 De los objetivos de protección identificables se derivan los siguientes requisitos para la técnica de seguridad ferroviaria:[22]
 
-
 ## Página 47
+
 
 •
 Detención del tren antes del punto de riesgo con diferente configuración de la longitud de una ruta de protección
@@ -1107,8 +1115,9 @@ Ya en incidentes anteriores similares se evidenció la misma problemática, lo q
 En este contexto, también debe hacerse referencia al punto 3.1.1.1 del Reglamento (UE) 2018/762, según el cual deben registrarse y analizarse todos los riesgos operativos, organizativos y técnicos relevantes para el tipo, el
 13 La estación de Münchendorf es la estación vecina de la estación de Ebreichsdorf y se encuentra en la misma línea. Esta se encuentra a solo unos 6 km de la estación de Ebreichsdorf.
 
-
 ## Página 48
+
+
 alcance y el ámbito de las actividades realizadas por la organización.
 Relación entre el EVU y el DU
 El DU puso a disposición del EVU, como servicio, al/de la Tfzf. La circulación se realizó según los SMS del EVU.
@@ -1130,6 +1139,7 @@ El Reglamento de Ejecución (UE) n.º 402/2013 de la Comisión, de 30 de abril d
 
 ## Página 49
 
+
 Las tareas y obligaciones de los órganos según los §§ 168 y 183 del EisbG no se analizaron en profundidad en el curso de esta investigación.
 ## 6.
 ### Órganos de certificación de las empresas de mantenimiento
@@ -1143,8 +1153,8 @@ Las personas Tfzf de la EVU son informadas por correo electrónico por la EVU de
 SKT empleado/a Z 7638
 Los empleados SKT son informados por correo electrónico por la EVU de que los sucesos deben comunicarse a la empresa mediante el formulario «Meldung Zugbegleiter / SKT über Ereignisse» (Comunicación del acompañante de tren / SKT sobre sucesos).[59][79] El formulario fue distribuido a todos los empleados ZUB y SKT. La obligación de comunicar sucesos también se trata siempre en las formaciones. El suceso no fue comunicado por el empleado SKT. Una comunicación del empleado sobre un tirón percibido y una puerta de aseo que se abrió en ese momento
 
-
 ## Página 50
+
 
 (sin lesiones), se comunicó por escrito el 13 de marzo de 2025, es decir, dos días después del suceso (sin indicación de motivos para el «tirón» percibido).[34] Al SUB le consta que el empleado SKT era consciente de la velocidad excesiva.[45] En el curso del análisis del suceso por parte de la EVU se realizó al empleado SKT una entrevista junto con información sobre la obligación de comunicar los sucesos de inmediato.[60]
 ## b) Vehículos e instalaciones técnicas
@@ -1155,8 +1165,8 @@ Fuente: IB / SUB
 En la figura 9 se resaltaron en azul los desvíos 1–4, en rojo los desvíos 55–58 y se representó con una flecha verde la dirección de circulación de Z 7638.
 En la estación de Ebreichsdorf, los desvíos 1–4 están ejecutados como desvíos de 100 km/h (transitable a 100 km/h en la desviación) y los desvíos 55–58 como desvíos de 60 km/h (transitable a 60 km/h en la desviación). Si un tren accede a la estación de Ebreichsdorf procedente de la estación de Münchendorf (dirección 1), un cambio de vía directamente después de la entrada en la estación es admisible a 100 km/h (salto de velocidad = 60 km/h). Si el cambio de vía se realiza en
 
-
 ## Página 51
+
 
 la misma dirección de circulación después de la circulación por la señal, este solo es admisible a 60 km/h (salto de velocidad = 100 km/h).
 Sin embargo, si un tren accede a la estación de Ebreichsdorf procedente de la estación de Wampersdorf (dirección 2), un cambio de vía directamente después de la entrada en la estación también es admisible solo a 60 km/h (salto de velocidad = 100 km/h). Si el cambio de vía se realiza en la misma dirección de circulación después de la señal, este es admisible a 100 km/h (salto de velocidad = 60 km/h).
@@ -1164,8 +1174,8 @@ Extracto del informe de investigación de la descarrilación en la estación de 
 «En el proyecto de presentación original de 2009 de la ampliación de doble vía de la línea de Pottendorf, los desvíos 1 y 2 en la estación de Münchendorf se presentaron como desvíos de 100 km/h y, en el transcurso del procedimiento de autorización, se modificaron a desvíos de 60 km/h (véase al respecto también el dictamen del VAI en el punto 5). Como motivo de la modificación, el IB indica que la SchiG cuestionó masivamente las numerosas conexiones de desvíos, en particular de este tipo de conexiones de desvíos, por motivos de coste. En el curso de controles de utilización de fondos, la SchiG se ocupó en el año 2013 del papel de los desvíos en la explotación ferroviaria, sobre todo en lo que respecta a costes, averías y dificultades operativas. El 10 de diciembre de 2013, el consejo de administración del IB, en presencia de un/a representante de la SchiG (sin voto), acordó la ampliación de Viena Blumental – Münchendorf y solicitó una nueva evaluación del número de desvíos incluidos en el proyecto, en coordinación con la SchiG. Una reunión de coordinación entre el consejo de administración del IB y la SchiG el 12 de febrero de 2014 arrojó que la supresión de desvíos no sería conveniente.[124] Por parte del IB se volvieron a examinar las conexiones de desvíos del proyecto de presentación. Como resultado del examen, debido a la conveniencia no se pudieron suprimir conexiones de desvíos, pero se instalaron más desvíos de 60 km/h (un desvío de 100 km/h es en la construcción aproximadamente un 58 % más caro que un desvío de 60 km/h). Las especificaciones fueron adaptadas en consecuencia por el IB y sometidas a una autorización de modificación de la EIA.[99]»
 En respuesta a una consulta al IB sobre si esto también se cumple en los desvíos 55–58 de la estación de Ebreichsdorf, se respondió que la estación de Ebreichsdorf se construyó cronológicamente después de la estación de Münchendorf, por lo que en la presentación estas objeciones de la SchiG ya se tuvieron en cuenta y
 
-
 ## Página 52
+
 
 la estación se planificó, presentó y autorizó con desvíos de 60 km/h en el extremo sur de la estación de Ebreichsdorf.[49]
 No existen prescripciones, ni internamente en el IB ni a nivel nacional o internacional, para la instalación de desvíos en función de la relación entre la velocidad permitida en la desviación y la de la posición recta, es decir, una regulación de la instalación de desvíos ante saltos de velocidad enormes[31].
@@ -1174,8 +1184,8 @@ Bases para la decisión de instalar desvíos de 100 km/h y 60 km/h (respuesta de
 Sobre la base del concepto de oferta planificado o futuro, se desarrolla, planifica y ejecuta la infraestructura. Las velocidades locales permitidas y las posibilidades de circulación necesarias para ello para la confección del horario son la base para la dimensionación y el diseño de la infraestructura. De este modo, en función de las paradas y de la cadencia de trenes, pueden producirse entradas y salidas tanto rápidas como lentas.
 Las conexiones de desvíos en sentido contrario son, en principio, solo necesarias para el caso de desvío (avería, mantenimiento, etc.). Para que también aquí exista una calidad o disponibilidad adecuada de la infraestructura, normalmente se construye un extremo de desvío con velocidades más altas, p. ej. 100 km/h, si esto es técnicamente viable con las condiciones topográficas. Debido a las distancias entre las estaciones de servicio, también es posible que solo se prevea en un lado o una conexión de desvíos en sentido contrario dividida. Asimismo, en este contexto, hay que tener en cuenta que para la explotación, para la maniobra de puntos de carga o líneas de enlace pueden ser necesarias las posibilidades de circulación para las maniobras. A los criterios de selección ya mencionados para una forma de desvío se añaden la categoría de línea y de vía, la carga de tráfico, la longitud disponible (en un punto de enlace debe calcularse al menos el doble) y, no por último, la disponibilidad (si un desvío, debido a los requisitos constructivos y a los aspectos de seguridad que de ellos se derivan, tiene varios
 
-
 ## Página 53
+
 
 cierres y comprobadores de posición final, la sensibilidad a averías aumenta notablemente) o bien la eliminación de la avería tarda más. P. ej., la duración para la liberación en caso de hielo en un desvío para velocidades más altas, con largos dispositivos de aguja, un corazón móvil, etc., es considerablemente mayor. Además de los componentes de desvío de la instalación de seguridad (p. ej., cierres de desvío, sistemas de cambio de desvío), también deben supervisarse los componentes de la vía (p. ej., posición de las agujas de desvío, variaciones de la medida de carril). Así pues, también el esfuerzo de inspección es un argumento, máxime cuando para los desvíos equipados con varias instalaciones técnicas se requiere un esfuerzo de inspección correspondientemente mayor. Es decir, también por el mayor esfuerzo de inspección (= más tiempo en el que el desvío no puede utilizarse) se reduce la disponibilidad.»
 Dispositivos de comprobación de velocidad (GPE)
@@ -1185,8 +1195,8 @@ Como ya se describió, Z 7638 estuvo técnicamente sin supervisión durante casi
 Para la supervisión o aseguramiento de saltos de velocidad en el sistema PZB existen dispositivos de comprobación de velocidad (GPE). La supervisión de una reducción de velocidad como la del día del suceso en la salida de la estación de Ebreichsdorf en dirección de circulación 1 mediante GPE sería, por tanto, fundamentalmente viable. Una situación así también es realizable mediante GPE conectados a la señal (GPE solo activos cuando no se señala «Libre» o «Alto»).
 En general, cabe señalar que los GPE, según el compendio normativo 13.01.02 «Punktförmige Zugbeeinflussung» (Supervisión puntual de trenes), solo pueden emplearse para la supervisión de reducciones de velocidad hasta una
 
-
 ## Página 54
+
 
 velocidad objetivo de 70 km/h (en el presente suceso la velocidad objetivo habría sido de 60 km/h). Asimismo, el Anexo 102 del compendio normativo 13.01.02 «Punktförmige Zugbeeinflussung» regula la disposición de los GPE (véase la figura 16). Con una velocidad inicial de 160 km/h y la velocidad objetivo mínima de 70 km/h, la velocidad de comprobación es de 95 km/h. En función de las pendientes, con una velocidad de comprobación de 95 km/h se obtienen distancias de 710–430 m para la colocación del GPE respecto de la señal a supervisar.
 El desarrollo posterior de los GPE sería fundamentalmente posible, ya que esto también se produjo en los años 2022–2023, cuando se incluyeron en el compendio normativo GPE para velocidades de comprobación de 20 km/h y 10 km/h (véase al respecto RW 13.01.02 punto 4.7.2 en el capítulo «Condiciones jurídicas pertinentes»). Así pues, también debería ser posible un desarrollo del Anexo 102 del compendio normativo 13.01.02 para velocidades menores o para saltos de velocidad mayores (p. ej. para velocidad objetivo de 60 km/h).
@@ -1196,6 +1206,7 @@ Figura 10 Croquis de situación de la estación de Ebreichsdorf para la ilustrac
 Fuente: IB / SUB
 
 ## Página 55
+
 
 En la Figura 10 se representó la situación de la GPE en la estación de Ebreichsdorf. Las descripciones siguientes se refieren siempre al caso de que deba producirse un cambio de vía en la estación.
 GPE 1: El área de la GPE para asegurar la reducción de velocidad de 160 km/h a 100 km/h para los desvíos 1–6 en una entrada en la estación de Ebreichsdorf en la dirección de circulación 1 se representó en la Figura 10 encerrada en un círculo amarillo. La GPE se refiere a la ES «Ag92» y «Bg91».
@@ -1207,8 +1218,8 @@ La salida de la estación de Ebreichsdorf en la dirección de circulación 1 con
 reducción de velocidad de 100 km/h no quedan asegurados mediante GPE.
 En resumen, puede señalarse que las GPE 1–3 están instaladas, ya que conforme al 4.5.3 (4c) RW 13.01.02 el imán de vía de 1000 Hz se pone fuera de servicio cuando en el HS se señala «Libre» y una cifra reflejante de 7 a 16 en el GVA (VS) y el GVA para el HS está apagado. Si un tren en esta situación operativa sale, por ejemplo, de la estación de Ebreichsdorf en la dirección de circulación 2, puede, debido al circuito de vía de 1000 Hz fuera de servicio, teóricamente pasar a 160 km/h por el AVS revalorado a 100 km/h sin ser frenado forzosamente. Si la velocidad no se reduce por debajo de 125 km/h hasta la ubicación del imán de vía de 2000 Hz de la GPE, se produce en ese punto una frenada forzosa. Es decir, en tales situaciones operativas la GPE actúa en lugar del imán de vía de 1000 Hz puesto fuera de servicio.
 
-
 ## Página 56
+
 
 Posible ubicación de la GPE inexistente para la salida en la dirección de circulación 1
 Dado que las GPE para velocidades objetivo de 60 km/h no están previstas según el compendio normativo, para este ejemplo se toma la GPE con velocidad objetivo de 70 km/h.
@@ -1221,8 +1232,8 @@ En la GPE inexistente para la salida en la dirección de circulación 1, el desv
 Para los trenes que salen de la estación de Ebreichsdorf, tras una parada previa a causa de
 14 Vale asimismo para el desvío 57, ya que el tren dispone de más tiempo para acelerar y la velocidad de comprobación se alcanzaría en cualquier caso.
 
-
 ## Página 57
+
 
 un cambio de viajeros, la GPE ficticia para la salida en la dirección de circulación 1 sería ineficaz, ya que la velocidad de comprobación no se alcanzaría.
 Para el suceso en cuestión puede señalarse en resumen que también una GPE referida al punto de peligro no habría podido evitar el suceso. Con una GPE solo podría mejorarse la situación para los trenes de paso, ya que los trenes no podrían acelerar más sin estar sometidos a supervisión técnica.
@@ -1235,8 +1246,8 @@ En Austria, por lo tanto, se admiten distancias de señal previa de hasta 2000 m
 La distancia de señal previa más frecuente en Alemania es de 1000 m.
 Debido a limitaciones locales, la señal previa normalmente no puede colocarse exactamente a esa distancia, por lo que para la distancia de señal previa admisible se define un rango con los límites de -5 a +50 %, es decir, en el caso de 1000 m, de 950 a 1500 m. La posible infracción del valor mínimo se debe al hecho de que un Tfzf normalmente inicia la frenada ya antes de la
 
-
 ## Página 58
+
 
 señal previa. El límite superior se justifica en que, tras iniciada la frenada ante una señal previa que indica parada, un Tfzf espera una señal principal correspondiente. Si esta se encontrara a una distancia considerablemente mayor que la distancia de frenado, habría que conducir innecesariamente despacio durante un tiempo prolongado. Además, existiría el riesgo de que se olvidara la advertencia de la señal previa.[72]
 Esto significa que en Alemania se admite un aumento de la distancia de señal previa hasta un máximo de 1500 m.
@@ -1244,8 +1255,8 @@ La larga distancia de señal previa en la estación de Ebreichsdorf de 1888 m (e
 En la evaluación de datos de circulación de Z 7638 se observa que con una potencia de tracción ajustada del 72 % se alcanzan los 45 km/h tras 120 m.[11] Es decir, que Z 7638, con una distancia de señal previa menor, habría recibido una frenada forzosa por la supervisión de velocidad restrictiva 120 m después de la salida del andén de la estación de Ebreichsdorf al superar los 45 km/h.
 Para un tren de paso, una distancia de señal previa menor probablemente tendría menos efectos, ya que el tren puede circular a un máximo de 85 km/h hasta el final de la supervisión (al superarlo se desencadenaría una frenada forzosa). Tras la supervisión de velocidad, el tren podría, debido a las condiciones locales, teóricamente volver a acelerar en la estación de Ebreichsdorf; en la práctica, sin embargo, esto sería improbable, ya que el Tfzf sería consciente, por la supervisión de velocidad y la señalización en la señal previa, de que va a producirse un cambio de vía. Tras una parada en la estación, el problema o el riesgo radica más bien en que se olvide la advertencia de la señal previa.
 
-
 ## Página 59
+
 
 Conforme al Anexo 6 EisbBBV también sería viable una distancia de señal previa inferior a 1500 m (véase el capítulo «Marco jurídico aplicable»). Esto aumentaría la supervisión de velocidad restrictiva de un tren tras una parada en la estación en la diferencia respecto a los 1500 m en que la señal previa se coloca más cerca de la señal principal.
 En la estación de Ebreichsdorf la pendiente máxima en la dirección de circulación 1 es de 6 ‰.[16] Z 7638 circulaba con 199 % de centésimas de freno.[4] Según el horario de Z 7638 se requieren 180 % de centésimas de freno.[7]
@@ -1265,6 +1276,7 @@ No procede.
 
 ## Página 60
 
+
 ## 5. 
 ### Lugares de mantenimiento, talleres de reparación y otras 
 ### empresas de mantenimiento
@@ -1283,8 +1295,8 @@ El/la Tfzf está activo/a como Tfzf desde el 30 de diciembre de 2021 y trabaja d
 El SUB dispone de la habilitación de conducción del/de la Tfzf con validez hasta el 29 de marzo de 2031.[43]
 Asimismo, el SUB dispone de un certificado adicional emitido por el DU, válido para el EVU hasta el 19 de febrero de 2028, con la anotación de que el tipo de vehículo empleado el día del suceso puede ser conducido desde el 30 de diciembre de 2021.[44]
 
-
 ## Página 61
+
 
 El/la Tfzf obtuvo su conocimiento de la línea para la línea 10601 con la prueba de servicio del 30 de diciembre de 2021.[47] Por última vez, el conocimiento de la línea para la línea 10601 se documentó el 28 de enero de 2025 y era, por tanto, válido hasta el 28 de enero de 2026.[48]
 La última comprobación de todos los conocimientos profesionales tuvo lugar el 28 de octubre de 2024.[44]
@@ -1304,8 +1316,8 @@ La primera circulación de trenes de la jornada de servicio la realizó el/la Tf
 La segunda circulación de trenes de la jornada de servicio la realizó el/la Tfzf de 20:13 – 20:39 h de la estación Deutschkreutz a la estación Wulkaprodersdorf como Z 7635.
 A continuación siguieron dos circulaciones «cortas» de la estación Wulkaprodersdorf a la estación Eisenstadt como
 
-
 ## Página 62
+
 
 Z 7832 (tercera circulación) y de vuelta como Z 7837 (cuarta circulación).
 A las 21:43 h se inició la quinta circulación de la estación Wulkaprodersdorf a Wien Hbf como Z 7637 y finalizó a las 22:37 h. También en esta circulación se atravesó la estación Ebreichsdorf, pero en la dirección contraria.
@@ -1314,10 +1326,10 @@ El último servicio antes del suceso se realizó desde el 09 de marzo de 2025 de
 La línea 10601 fue recorrida por el/la Tfzf en el año 2024 un total de 66 veces y en el año 2025 ya 6 veces, en ambos casos como S-Bahn. Como Regionalexpress, esta línea fue recorrida por el/la Tfzf por primera vez bajo su propia responsabilidad el día del suceso a las 18:23 h.[3] Según la declaración del/de la Tfzf, nunca se le había instruido sobre la desviación de la aguja 57 de la estación Ebreichsdorf.[45] Por tanto, fue la primera vez que se produjo para él/ella un cambio a la vía contraria en este tramo.
 Por este motivo puede presumirse que la expectativa del/de la Tfzf era salir de la estación Ebreichsdorf también en esta circulación por la vía principal y, por tanto, poder circular a la velocidad del horario. Él/ella no percibió la señalización real de la AS «R202» ni del imitador de señal «1R202» situado delante, ya que no esperaba una desviación a la vía contraria.
 El/la Tfzf declaró que, tras la salida de la estación Ebreichsdorf, se había asegurado en el horario de la próxima parada en la estación Pottendorf-Landegg en lugar de prestar atención a la señalización. Según sus propias declaraciones, el motivo de la fijación en el horario era que en la línea 10601 se producían con frecuencia pasos no autorizados de la estación Pottendorf-Landegg y quería evitarlo. No pudo responder por qué no se había asegurado de ello ya durante la estancia en la estación Ebreichsdorf.[45]
-Dado que ya en la señal previa «r» se señalizó la limitación de velocidad a esperar y el/la Tfzf la confirmó, puede presumirse que, debido a la parada en la estación Ebreichsdorf y el consiguiente cambio de pasajeros, esta señalización fue olvidada.  
-
+Dado que ya en la señal previa «r» se señalizó la limitación de velocidad a esperar y el/la Tfzf la confirmó, puede presumirse que, debido a la parada en la estación Ebreichsdorf y el consiguiente cambio de pasajeros, esta señalización fue olvidada.
 
 ## Página 63
+
 
 Debido a que la supervisión de velocidad de la influencia de 1000 Hz ya había transcurrido en el andén, esta no era ya visible para el/la Tfzf en la cabina de mando en la reanudación de la marcha16 y no tuvo ya influencia en la rápida aceleración del tren.
 ## 3. 
@@ -1331,8 +1343,8 @@ La visibilidad de la AS «R202» estuvo dada de forma continua y no tuvo influen
 16 En la cabina de mando existen varias lámparas indicadoras para la PZB. Si un tren recibe, en el modo de operación «O», como en el suceso objeto de este informe, una influencia de 1000 Hz, se ilumina inicialmente la lámpara indicadora «1000 Hz» (luz permanente) y la lámpara indicadora «85» (intermitente). A 700 m de la influencia de 1000 Hz se apaga la lámpara indicadora «1000 Hz». La lámpara indicadora «85» (que corresponde en el modo de operación «O» a la velocidad permitida de 85 km/h) sigue parpadeando hasta el final de la supervisión de velocidad.
 17 Tras la descarrilación en la estación Münchendorf, la VA «Gestión de desviaciones» fue revisada íntegramente y, a continuación, se elaboró el RW 30.04.29.02. La comunicación entre BFZ y Tfzf regulada en aquel momento ya no existe en esa forma.
 
-
 ## Página 64
+
 
 ## 5. 
 ### Otros factores relevantes
@@ -1351,6 +1363,7 @@ No procede.
 
 ## Página 65
 
+
 El requisito es que estas obras, modificaciones, puestas en servicio y demoliciones se ejecuten bajo la dirección de una persona inscrita en el registro conforme al § 40 y que no se vulneren derechos subjetivos públicos de terceros, a quienes, bajo el supuesto de una obligación de licencia de construcción para las obras, modificaciones y demoliciones indicadas en los apartados 1, 2 y 4, les hubiera correspondido la condición de parte. Dichas obras, modificaciones, puestas en servicio y demoliciones deben ejecutarse conforme al estado de la técnica. Se admiten desviaciones del estado de la técnica en casos excepcionales, cuando mediante medidas pueda garantizarse de otra forma la seguridad y el orden de la explotación del ferrocarril, de la explotación de vehículos sobre raíles en el ferrocarril y del tráfico en el ferrocarril.
 […]
 (3) No se requiere licencia de construcción ferroviaria para la construcción o modificación de instalaciones de seguridad ferroviaria, cuando su construcción o modificación deba realizarse conforme a una autorización técnica europea o cuando existan normas europeas, especificaciones europeas o especificaciones técnicas comunes para la instalación de seguridad ferroviaria de que se trate y su construcción o modificación deba realizarse conforme a dichas normas y especificaciones."
@@ -1358,8 +1371,8 @@ El requisito es que estas obras, modificaciones, puestas en servicio y demolicio
 "§ 105. (1) La solicitud de la autorización de puesta en servicio debe presentarse ante la autoridad. A la solicitud debe adjuntarse un expediente en dos ejemplares, en el que se acredite documentalmente lo siguiente:
 […]
 
-
 ## Página 66
+
 
 3. la integración segura de los nuevos subsistemas determinada conforme a las TSI pertinentes, la normativa nacional y los métodos de seguridad comunes;
 […]"
@@ -1376,8 +1389,8 @@ El requisito es que estas obras, modificaciones, puestas en servicio y demolicio
 "§ 27. (1) Las señales fijas deben instalarse de modo que se garantice la visibilidad necesaria. La visibilidad necesaria se refiere a la ubicación de la señal correspondiente y a la parte delantera de una circulación. Para determinar la visibilidad necesaria no se tienen en cuenta las influencias meteorológicas.
 […]
 
-
 ## Página 67
+
 
 ### (3) Si la visibilidad necesaria respecto de las señales fijas se determina en función de la velocidad, la visibilidad (expresada en metros) debe corresponder como mínimo a dos veces y media el valor de la velocidad autorizada en la ubicación de la señal (expresada en km/h), pero debe ser de al menos 100 m. Como velocidad autorizada no puede tomarse una superior a 160 km/h."
 Figura 11 Extracto del EisbBBV Anexo 5 Señales principales (§ 29)
@@ -1385,8 +1398,8 @@ Fuente: EisbBBV
 ### "§ 30. (5) La distancia entre la señal principal y la señal de aproximación correspondiente debe ser como mínimo igual a la longitud de la ruta de frenado (§ 102 apartados 2 y 3), pero de al menos 400 m.
 La determinación de la distancia de instalación debe realizarse conforme al Anexo 6 (tabla de frenado) teniendo en cuenta la pendiente longitudinal. Como velocidad inicial de frenado debe tomarse la velocidad autorizada en la ubicación de la señal de aproximación. Se admite un aumento de la distancia de la señal de aproximación hasta un máximo de 2000 m para
 
-
 ## Página 68
+
 
 1. obtener disposiciones de señales más claras o
 2. alcanzar la visibilidad necesaria o
@@ -1395,8 +1408,8 @@ La determinación de la distancia de instalación debe realizarse conforme al An
 Figura 12 Extracto del EisbBBV Anexo 5 Señal de aproximación (§ 30)
 Fuente: EisbBBV
 
-
 ## Página 69
+
 
 Figura 13 Extracto del EisbBBV Anexo 5 Indicador de velocidad (§ 32)
 Fuente: EisbBBV
@@ -1407,8 +1420,8 @@ Fuente: EisbBBV
 ### (3) Como longitud máxima de la ruta de frenado se admiten 1 500 m. Para los trenes guiados mediante control de la circulación de los trenes conforme al § 24 apartado 7, rinden rutas de frenado especiales."
 "§ 118. (1) El maquinista del vehículo motriz que encabeza el tren es el responsable del cumplimiento y la observancia de las señales. […]"
 
-
 ## Página 70
+
 
 ### Anexo 6 Tabla de frenado
 En este anexo se utilizan las siguientes abreviaturas:
@@ -1424,8 +1437,8 @@ Los campos relevantes se han marcado en amarillo.
 ### "§ 4. (1) Los incidentes deben comunicarse sin dilación al organismo localmente competente, en su caso a través de intermediación."
 ### 13.01.02 Control puntual de la circulación de los trenes (PZB)
 
-
 ## Página 71
+
 
 ### "4.5.3 Imán de vía 1000/2000 Hz Eficacia
 ### (4) Con un imán de vía (GM) 1000/2000 Hz en la ubicación de una señal principal con GVA (HS) y de una señal de aproximación con GVA (VS) (véase la figura 3), el circuito de acción de 2000 Hz conforme al 4.4.3 (1) debe ponerse fuera de servicio. El circuito de acción de 1000 Hz debe ponerse fuera de servicio con las siguientes señales:
@@ -1442,8 +1455,8 @@ c) un tramo de velocidad reducida mediante la señal – SEÑAL DE INICIO –."
 Nota SUB:
 El capítulo 4.7.2 y, por tanto, una "nueva" forma de GPE, se publicó por primera vez en el año 2022 y demuestra la posibilidad de modificar o ampliar el sistema del GPE. Frente a la SUB, el IB sostuvo en varias ocasiones la siguiente opinión cuando se trataba de comentar recomendaciones de seguridad de la SUB respecto al sistema PZB: "Las adaptaciones en el sistema PZB son contraproducentes, ya que tanto la ÖBB
 
-
 ## Página 72
+
 
 Infrastruktur AG como la industria emplean sus recursos prioritariamente para la implantación del ETCS Nivel 2. Es decir, cualquier desviación de este procedimiento iría en detrimento de los proyectos previstos y acarrearía retrasos en los mismos."
 La SUB es muy crítica con esta forma de pensar, ya que el impulso de la estrategia ETCS no excluye que se cierren las brechas de seguridad del PZB para contrarrestar los peligros en el lapso de tiempo hasta la implantación del ETCS-Only en esta línea (¡como más pronto en 2036!).[24]
@@ -1451,8 +1464,8 @@ Figura 16 Anexo 102 Normativa 13.01.02 Control puntual de la circulación de los
 Fuente: IB
 Los campos relevantes se han marcado en amarillo.
 
-
 ## Página 73
+
 
 ## 2.
 ### Actividades de evaluación y supervisión de riesgos
@@ -1472,6 +1485,7 @@ Se preguntó al IB si existen evaluaciones/análisis más detallados de los ries
 
 ## Página 74
 
+
 si tras el accidente en la estación de Münchendorf se habían vuelto a evaluar los riesgos. El IB respondió: «Nuestros análisis de riesgos de desarrollo/planificación/construcción y puesta en servicio se ajustan exactamente a las disposiciones del Reglamento (UE) 402/2013. Aquí, según el proceso representado en el anexo del Reglamento, existen 3 posibilidades de tramitar un análisis de riesgos explícito. Una de ellas es la aplicación de normativas existentes. Esto se aplicó en el análisis de riesgos RA 001-18 disponible ante la autoridad. Este exhaustivo análisis de riesgos cubre todos los escenarios posibles, por lo que no existen otros análisis de riesgos para el objeto en cuestión». No se realizó una nueva evaluación de los riesgos, ya que la probabilidad de ocurrencia, según el IB, se considera muy baja y, por tanto, no existiría una necesidad inmediata de actuación.[71]
 El IB también señala que el descarrilamiento en la estación de Münchendorf se produjo debido a una velocidad excedida masivamente y que todas las instalaciones del lado de la infraestructura se encontraban en un estado conforme a la ley/reglamento/normas y normativa.
 Al respecto, la SUB indica que, por un lado, la infraestructura, concretamente el sistema de señalización instalado, permitió esta excesiva velocidad, y por otro, un estado conforme a la normativa no significa automáticamente que no puedan producirse lagunas de seguridad.
@@ -1480,8 +1494,8 @@ Así pues, en un plazo de cuatro años se produjeron tres19 incidentes práctica
 18 El 01 de marzo de 2026 se produjo nuevamente un incidente de naturaleza similar (circulación con velocidad excesiva en la zona de agujas de la estación de Ebreichsdorf el 01 de marzo de 2026 – véase al respecto el capítulo «Eventos anteriores de naturaleza similar»).
 19 Con el incidente más reciente, en total fueron cuatro incidentes prácticamente idénticos.
 
-
 ## Página 75
+
 
 sobre sus resultados, los cuales, sin embargo, no se investigarán más a fondo en el marco de esta investigación.20
 Dado que el incidente en cuestión solo llegó a conocimiento por parte de un pasajero atento, no puede descartarse que la cifra oculta de los incidentes no comunicados, en los que se circuló por la zona de agujas con velocidad excesiva y no tuvo consecuencias, sea superior a la de los incidentes conocidos por la SUB.
@@ -1494,8 +1508,8 @@ Además, no puede presumirse que todas las personas implicadas cumplan las dispo
 20 § 6 (1) UUG 2005 El procedimiento de investigación debe llevarse a cabo de forma sencilla y adecuada, teniendo en cuenta el objetivo de una investigación de seguridad. […]
 21 La pregunta se completó con una expresión entre paréntesis que dice: «Aunque en el futuro ECTS-L2 esté en servicio, la situación del PZB seguirá existiendo durante mucho tiempo, por lo que los riesgos también seguirán existiendo»
 
-
 ## Página 76
+
 
 conlleva el mayor potencial de riesgo y se producen errores. Por este motivo es importante que existan medidas de protección (técnicas) que, en la medida de lo posible, también sean eficaces ante un comportamiento humano incorrecto (véanse al respecto las explicaciones en el capítulo «Empresas ferroviarias y/o gestor de infraestructura»).
 En resumen, tras la revisión de todos los documentos y respuestas disponibles, puede constatarse que, si bien se reconocieron y documentaron riesgos para las salidas de estaciones (entre otros, para los trenes en circulación, el peligro de descarrilamiento), estos se trataron de manera general. Tampoco hubo consideraciones de riesgo más detalladas tras los mencionados incidentes anteriores. En general, el IB sigue sin ver riesgos no tolerables relacionados con el sistema PZB que requieran una actuación inmediata.[71]
@@ -1508,8 +1522,8 @@ Formación y capacitación
 Sensibilización de los empleados (formación – lessons learned). El incidente y la información obtenida de las investigaciones se utilizaron para revisar la evaluación de riesgos y extraer lecciones en aras de mejorar la seguridad o la gestión de seguridad. La información obtenida se incorporó al programa de formación de la Raaberbahn AG. Desde el año 2021 se ha prestado mayor atención a ello en la formación.22
 22 Los contenidos de formación también se transmiten al DU para que se incorporen al programa de formación del DU. Este procedimiento también se realiza a la inversa, transmitiéndose y formándose en los contenidos de formación del DU al EVU.
 
-
 ## Página 77
+
 
 • 
 Acompañamiento en la circulación/verificación de seguridad
@@ -1542,6 +1556,7 @@ Como ya se ha mencionado, de conformidad con el § 4 apartado 1 ZSB 26 (véase e
 
 ## Página 78
 
+
 a través de intermediación – se notifique de inmediato. Esta disposición también forma parte del SG del EVU (Tfzf-Regelbuch y SKT-Regelbuch).
 Además de esta disposición, el personal del EVU debe realizar una notificación por escrito a la empresa mediante los formularios preestablecidos. Si bien el personal es informado de ello por correo electrónico y recibe formación continua sobre este tema, este proceso no está reflejado en el SG.[30] No existen disposiciones al respecto, por ejemplo, en el Tfzf-Regelbuch o en el SKT-Regelbuch. La información por correo electrónico tampoco contiene indicios sobre las disposiciones que determinen cuándo debe notificarse un incidente por escrito a la empresa (¿De inmediato? ¿En la próxima parada? ¿Al final del trayecto? ¿Al final del turno?). Conforme al punto 4.2.1.2.1 del Reglamento de Ejecución (UE) 2023/1693, debe elaborarse un manual de normas para todo el personal que desempeñe tareas de relevancia para la seguridad, en el que deben incorporarse, entre otras, las instrucciones del EVU.
 Tampoco está reflejado en el SG el proceso de las notificaciones por escrito obligatorias más allá de la disposición del § 4 apartado 1 ZSB 26, por ejemplo, la del personal asignado del DU. Como ya se ha mencionado, los Tfzf del DU notifican los incidentes a su empresa a través del sistema EBQS. El DU transmite los incidentes al EVU para el cual el Tfzf fue asignado. Se comunicó a la SUB que se trata de una práctica llevada a cabo durante años, aunque el proceso no está documentado de forma trazable.
@@ -1551,8 +1566,8 @@ Los dos sistemas DiLoc y TIM tienen, en cuanto a la representación, tanto en lo
 Las especificaciones para el sistema DiLoc están integradas en el SG del EVU.[77] Una descripción completa del funcionamiento del sistema está disponible en DiLoc para los Tfzf.[78]
 El software TIM es utilizado exclusivamente por los Tfzf del DU, el cual está obligado a emplear únicamente personal que cumpla todos los requisitos para la conducción y el manejo independiente de un Tfz en un ferrocarril. Todas las disposiciones sobre el manejo del software TIM se transmiten por parte del DU en el marco de la formación inicial y continua y no están descritas en el SG del EVU.
 
-
 ## Página 79
+
 
 Dado que el software TIM dispone adicionalmente de una función que contribuye a aumentar la seguridad (aplicación de alerta 223), el EVU considera conveniente que los Tfzf del DU, que son asignados al EVU, la utilicen. Para que todos los Tfzf asignados al EVU puedan utilizar el software TIM y, por tanto, también la aplicación de alerta 2, el EVU está en proceso de adquirir dicho software.
 Con la adquisición e implementación de este software en el EVU, se prevé integrar el software TIM en el SG del EVU.
@@ -1565,21 +1580,21 @@ Conforme al § 16 apartado 3 UUG 2005, en el ámbito ferroviario, la autoridad d
 Una información de este tipo sobre las medidas adoptadas en relación con las recomendaciones de seguridad emitidas por la SUB en el año 2024 llegó a la SUB el 18 de julio de 2025.[32] Entre otros, este escrito incluye la respuesta a las recomendaciones de seguridad emitidas con respecto al incidente «Descarrilamiento del tren Z 7657 en la estación de Münchendorf el 09 de mayo de 2022». Dado que este incidente transcurrió de forma idéntica en gran medida con el incidente objeto de investigación (véase al respecto el capítulo «Eventos anteriores de naturaleza similar»), las recomendaciones de seguridad A-2024/002 y A-2024/004 emitidas entonces resultan igualmente aplicables24 a este incidente. A estas recomendaciones de seguridad y a la respuesta del IB al respecto se hace referencia más detalladamente en el capítulo «Eventos anteriores de naturaleza similar».
 23 La aplicación de alerta es una herramienta de (alerta) de apoyo para los Tfzf, que está activa en segundo plano cuando se utiliza el TIM. La aplicación de alerta 2 compara la velocidad actual del tren con la velocidad permitida en ese momento en la vía. La información de posición y velocidad se obtiene mediante GPS y el sistema recibe la información de señalización a través del sistema ARAMIS del operador de infraestructura. Hasta ahora, la aplicación de alerta 2 se limita «únicamente» a la puesta en marcha y la aproximación a señales que indican «Alto». Si un tren se aproxima demasiado rápido a una señal que indica «Alto», suena a tiempo una alerta teniendo en cuenta la curva de frenado, para que aún se pueda reaccionar y detenerse antes de la señal. Sin embargo, no se activa una frenada de emergencia.[64] Se está planificando una evolución de la aplicación de alerta 2 en relación con las señales que indican «Vía libre con limitación de velocidad». Esto significa que en el futuro también habrá una alerta cuando un tren se aproxime demasiado rápido a una señal que indique «Vía libre con limitación de velocidad». Por lo tanto, incidentes como el objeto de investigación también quedarán cubiertos por la aplicación de alerta 2.
 
-
 ## Página 80
 
-La autoridad ferroviaria superior de supervisión anunció que la ÖBB Infrastruktur AG será incluida en el plan de supervisión para el año 2026. La implementación de las recomendaciones de seguridad A-2024/002 y A-2024/004 deberá ser verificada, en particular en cuanto al plazo y a la eficacia de las medidas, por la autoridad ferroviaria superior en el marco de la supervisión ordinaria en el año 2026.[32]25
-Por parte de la Autoridad Ferroviaria Superior de Supervisión se inició, con respecto al incidente objeto de investigación, un procedimiento de investigación el 20 de marzo de 2025 en forma de una actividad de supervisión específica. Tras conocerse la investigación de seguridad iniciada por la SUB el 15 de mayo de 2025, las investigaciones activas por parte de la Autoridad Ferroviaria Superior de Supervisión fueron suspendidas. En relación con los resultados de investigación solicitados por la SUB y las medidas adoptadas, la autoridad ferroviaria superior de supervisión transmitió la documentación recopilada hasta la fecha (un total de nueve anexos, entre ellos correos electrónicos con varios adjuntos).[63]
-Desde el punto de vista de la SUB, el procedimiento de supervisión por parte de la Autoridad Ferroviaria Superior no debería haberse suspendido tras conocerse una investigación de la SUB, ya que, por un lado, el propósito de las investigaciones es distinto y, por otro, la investigación de la SUB no sustituye a la actividad de supervisión de la Autoridad Ferroviaria Superior.
+las recomendaciones de seguridad A-2024/002 y A-2024/004 formuladas en su momento resultan aplicables de forma análoga a este suceso24. A estas recomendaciones de seguridad y a la reacción del IB al respecto se hará referencia más detalladamente en el capítulo «Sucesos anteriores de naturaleza similar».
+La autoridad ferroviaria superior de supervisión anunció que la ÖBB Infrastruktur AG será incluida en el plan de supervisión para el año 2026. La implementación de las recomendaciones de seguridad A-2024/002 y A-2024/004 será verificada en particular en cuanto al plazo temporal y a la eficacia de las medidas por parte de la autoridad ferroviaria superior de supervisión en el marco de la supervisión ordinaria del año 2026.[32]25
+Por parte de la Autoridad Ferroviaria Superior de Supervisión se inició, con respecto al suceso objeto de estudio, el 20 de marzo de 2025, un procedimiento de investigación en forma de actividad de supervisión motivada por el caso. Tras conocerse el inicio de la investigación de seguridad por parte de SUB el 15 de mayo de 2025, las investigaciones activas por parte de la Autoridad Ferroviaria Superior de Supervisión fueron suspendidas. En relación con los resultados de investigación solicitados por SUB y las medidas llevadas a cabo, la autoridad ferroviaria superior de supervisión transmitió la documentación recopilada hasta la fecha o disponible (un total de nueve anexos, entre ellos correos electrónicos con varios adjuntos).[63]
+Desde la perspectiva de SUB, el procedimiento de supervisión por parte de la Autoridad Ferroviaria Superior no debería haberse suspendido tras conocerse una investigación de SUB, ya que, por un lado, el propósito de las investigaciones es distinto y, por otro lado, la investigación de SUB no sustituye a la actividad de supervisión de la Autoridad Ferroviaria Superior.
 ## 6.
 ### Autorizaciones, certificados e informes de evaluación
-## SG
-Conforme al § 188 EisbG 1957, las empresas de transporte ferroviario y las empresas de infraestructura ferroviaria con sede en Austria deben implantar un sistema de gestión de seguridad […], para garantizar que en la explotación
-24 En la recomendación de seguridad A-2024/002, el enfoque, tal como se formula en la recomendación de seguridad, debe centrarse en soluciones alternativas que cumplan el mismo propósito. Por lo tanto, deben crearse soluciones que impidan que un tren pueda acelerar en la estación a lo largo de una distancia larga sin estar técnicamente supervisado.
-25 A petición de la IB, este comunicó recientemente que las recomendaciones de seguridad derivadas de la investigación del descarrilamiento en la estación de Münchendorf el 09 de mayo de 2022 no se han implementado/no se implementarán.[14][49]
-
+## SMS
+De conformidad con el § 188 de la Ley de Ferrocarriles de 1957 (EisbG 1957), las empresas de transporte ferroviario y las empresas de infraestructura ferroviaria con sede en Austria deben implantar un sistema de gestión de la seguridad […], con el fin de garantizar que en la explotación
+24 En la recomendación de seguridad A-2024/002, el enfoque, tal como se formula en la recomendación de seguridad, consiste en establecer soluciones alternativas que cumplan el mismo propósito. En consecuencia, deben crearse soluciones que impidan que un tren pueda acelerar en la estación de ferrocarril (Bf) a lo largo de una larga distancia sin estar técnicamente supervisado.
+25 A petición del IB, este comunicó más recientemente que las recomendaciones de seguridad derivadas de la investigación del descarrilamiento en la estación de ferrocarril (Bf) de Münchendorf del 09 de mayo de 2022 no se han implementado/no se implementarán.[14][49]
 
 ## Página 81
+
 
 de los ferrocarriles, la explotación de vehículos ferroviarios en ferrocarriles y el tráfico en ferrocarriles se puedan alcanzar al menos los objetivos comunes de seguridad, se cumplan los requisitos de seguridad establecidos en los TSI y se apliquen las partes pertinentes de los métodos comunes de seguridad y las normas nacionales de seguridad notificadas.
 El IB, el EVU y el DU involucrados en el incidente disponen de sistemas de gestión (de seguridad) certificados. Los certificados vigentes en el momento del incidente se encuentran en poder de la SUB:
@@ -1596,6 +1611,7 @@ A raíz de la investigación del descarrilamiento del 09 de mayo de 2022 en la e
 
 ## Página 82
 
+
 EisbG (véase al respecto «Condiciones jurídicas pertinentes») para el RBC Pottendorf recién construido, por lo que todavía se circula exclusivamente en funcionamiento PZB.
 Debido a la urgencia y a la necesidad de la puesta en servicio de ETCS Level 2 en la línea de Pottendorf, se preguntó tanto al operador de infraestructura como a la autoridad competente por qué la autorización de ETCS Level 2 sigue sin completarse y cuáles son los motivos.
 Atendiendo a la complejidad de este proceso de autorización, se citan a continuación las respuestas.
@@ -1607,8 +1623,8 @@ La autoridad competente en el BMIMI27 respondió el 06 de octubre de 2025 sobre 
 Mediante escrito de 22.10.2021, ÖBB Infrastruktur AG solicitó, para la implantación del sistema de seguridad de trenes ETCS L2 junto con la instalación del RBC Pottendorf con el ámbito de actuación de los tramos de la línea Ostbahn y de la línea de Pottendorf, la licencia de construcción ferroviaria conforme a los §§ 31 y ss. EisbG y la autorización de explotación conforme a los §§ 34 y ss. EisbG.
 27 BMIMI / Sección IV – Transporte / Departamento E2 – Autoridad Ferroviaria Suprema Autorización de Infraestructura y Transporte
 
-
 ## Página 83
+
 
 Al Verkehrs-Arbeitsinspektorat (VAI) se le dio, en el marco de la audiencia de partes conforme al § 45 apartado 3 AVG, la oportunidad de pronunciarse sobre la solicitud. El VAI alegó, en esencia, que el proyecto presentado no se ajustaba al estado de la técnica conforme al § 2 apartado 8 ASchG y que, con independencia de ello, podía ejecutarse sin autorización conforme al § 36 apartado 3 EisbG.
 Posteriormente, se requirió en varias ocasiones a ÖBB Infrastruktur AG y al VAI para que se pronunciaran sobre este asunto.
@@ -1619,8 +1635,8 @@ Mediante escrito de 26.06.2024, la autoridad emitió un requerimiento de subsana
 Posteriormente, la autoridad emitió dos requerimientos de subsanación adicionales. ÖBB Infrastruktur AG solo cumplió parcialmente con los mismos.
 Mediante escrito de 08.05.2025, ÖBB Infrastruktur AG retiró de nuevo la solicitud en cuestión, alegando que el proyecto puede ejecutarse sin autorización conforme al § 36 apartados 1 y 3 EisbG.
 
-
 ## Página 84
+
 
 Cabe señalar que, debido a la retirada unilateral de la solicitud, sigue sin aclararse según qué normas técnicas (europeas) y jurídicas se realiza la implantación de ETCS (en realidad ERTMS) en la línea existente y las interfaces, en particular con los aparatos de enclavamiento (RSTW y ESTW) y con el sistema nacional de seguridad de trenes PZB. En particular, es dudoso que la implantación de los componentes se realice íntegramente conforme a los procesos CENELEC. Solo sobre esa base es posible la valoración jurídica de si concurren los requisitos para la exención de autorización conforme al § 36 apartado 3 EisbG.
 ÖBB Infrastruktur AG ha solicitado asimismo, para el proyecto en cuestión, la concesión de la autorización de puesta en servicio ferroviaria conforme a los §§ 104 y ss. EisbG para el subsistema de conducción, seguridad de trenes y señalización.
@@ -1630,8 +1646,8 @@ La autorización de puesta en servicio no ha podido concederse hasta la fecha, y
 Sobre el tramo afectado de la línea de Pottendorf
 Con independencia del procedimiento anteriormente mencionado sobre el RBC Pottendorf, cabe señalar que, para el tramo de la línea de Pottendorf mencionado y en proceso de doble vía en explotación continua (línea ÖBB Viena Matzleinsdorf (Meidling) – Wiener Neustadt), en el tramo Ebreichsdorf (Münchendorf – Wampersdorf), km 20,4 hasta km 31,0, hasta la fecha no se han solicitado ni se han obtenido la autorización de explotación
 
-
 ## Página 85
+
 
 conforme al § 34b EisbG ni la puesta en servicio interoperable conforme a los §§ 104 y ss. EisbG (incluidos los subsistemas de infraestructura y energía).
 Dicha ampliación fue autorizada mediante la autorización de principios de esta Superioridad de 14 de marzo de 2016 conforme al § 24f apartados 9 y 10 UVP-G 2000, ref. BMVIT-820.376/0001-IV/SCH2/2016, así como mediante la autorización detallada de 11 de octubre de 2018, ref. BMVIT-820.376/0012-IV/IVVS4/2018, esta última incluida la autorización ferroviaria a partir del dictamen conforme al § 31a de la Ley de Ferrocarriles (EisbG), con dictamen para el ámbito de la técnica de seguridad y telecomunicaciones, y asimismo mediante la autorización de modificación (reforma de la estación de Wampersdorf) de 13 de octubre de 2020, ref. 2020-0.593.839. Conforme a la autorización detallada ferroviaria, el proyecto debe ejecutarse y abrirse a la explotación antes del 14 de marzo de 2026.»[70]
@@ -1640,8 +1656,8 @@ Para prevenir malentendidos respecto a la autorización de explotación ferrovia
 En síntesis, sobre estas aclaraciones cabe señalar que el IB (todavía) no ha elaborado, como se describe, todos los documentos necesarios para la instalación y no los ha remitido a la autoridad. Para poder obtener cuanto antes una autorización de puesta en servicio conforme a los §§ 104 y ss. EisbG, según la autoridad competente aún es necesario acreditar el cumplimiento del estado de la técnica y la seguridad y orden del funcionamiento ferroviario conforme a las disposiciones del § 36 EisbG, y acreditar la integración segura conforme al § 105 apartado 1 número 3 EisbG (véase al respecto «Condiciones jurídicas pertinentes»).
 Sobre el procedimiento de autorización de puesta en servicio en general y, en particular, sobre el requerimiento para acreditar el cumplimiento del estado de la técnica y la seguridad y orden del funcionamiento ferroviario conforme a las disposiciones del § 36 EisbG, se
 
-
 ## Página 86
+
 
 remite además a los puntos 4 y 14 del pronunciamiento del Verkehrs-Arbeitsinspektorat.
 ## 7.
@@ -1659,6 +1675,7 @@ El/la maquinista de maniobras (Tfzf) no se puso en contacto, tras la detención 
 
 ## Página 87
 
+
 informó, se produjeron malentendidos. El/la Tfzf interpretó esta conversación, tras una frenada forzada previa, como permiso para continuar la marcha y asumió que podía volver a dar «a tope». Otro malentendido se produjo en la comunicación sobre la forma de realizar el adelantamiento de un tren de pasajeros. El/la Tfzf pensó que el tren de pasajeros sería adelantado directamente en la estación de St. Valentin, sin embargo, el plan consistía en adelantar el tren de pasajeros por la vía contraria y, a continuación, circular por una longitud de unos 13 km. Una comunicación clara e inequívoca podría haber evitado el accidente. 
 Una combinación de la suposición del/la Tfzf de que podía volver a dar «a tope», de la habitual actitud de expectativa en la EE «A» de que se señaliza «Libre» y de la suposición de que el tren de pasajeros sería adelantado directamente en la estación de St. Valentin, podrían haber dado lugar a una percepción errónea de la señalización «Libre con 40 km/h» en la EE «A», por lo que el/la Tfzf pasó la señalización a unos 63 km/h y, a continuación, siguió acelerando. 
 ### Circulación con velocidad excesiva en la zona de agujas de la estación de Münchendorf el 
@@ -1667,10 +1684,10 @@ El 04 de junio de 2021, a las 11:32, se produjo, en la salida de la estación de
 Al/la Tfzf se le señalizó, como en la investigación «Descarrilamiento del Z 7657 en la estación de Münchendorf el 09 de mayo de 2022», en la AS «H1» «Libre con 60 km/h», ya que estaba previsto un cambio de vía por las agujas 2 y 1. A pesar de una velocidad en la zona de agujas de unos 105 km/h, no se produjo ningún descarrilamiento. 
 El/la Tfzf opinaba que se le había señalizado «Libre» en la AS «H1». Sin embargo, mediante una evaluación de las señalizaciones y pruebas posteriores al suceso en la AS «H1», se pudo determinar que la AS «H1» funcionaba sin problemas y señalizaba «Libre con 60 km/h». 
 Este suceso se trató de un tren en partida, en el que el/la Tfzf se liberó del programa de arranque PZB y, a continuación, pudo salir con una velocidad excesivamente alta. 
-Como medida, en la próxima formación normativa para Tfzf se incluyó el tema «tren en partida» como eje en la Raaberbahn AG. 
-
+Como medida, en la próxima formación normativa para Tfzf se incluyó el tema «tren en partida» como eje en la Raaberbahn AG.
 
 ## Página 88
+
 
 Nota: 
 En cuanto a paralelismos con el suceso objeto de consulta, véanse las notas al siguiente suceso, ya que este transcurrió de forma casi idéntica, solo que con consecuencias graves. Ambos sucesos en la estación de Münchendorf se asemejan en gran medida a aquel de la estación de Ebreichsdorf. 
@@ -1679,19 +1696,19 @@ El 09 de mayo de 2022 circuló el tren de pasajeros 7657 desde la estación de D
 La causa del descarrilamiento fue el fallo de la guiada en vía como consecuencia de una velocidad excesivamente alta en el área de las agujas 2 y 1. Debido a la actitud de expectativa del/la maquinista, se produjo una percepción errónea de la señalización en la señal de salida «H1», por lo que la zona de agujas posterior se recorrió a 145 km/h en lugar de a 60 km/h. 
 No se facilitó al/la maquinista, mediante radio de a bordo, información sobre la ruta de vía con cambio de vía establecida a corto plazo por la jefatura de tráfico. Este factor también fue clasificado como factor sistémico, ya que no se facilitó información, aunque la instrucción de procedimiento Gestión de desviaciones contiene una disposición al respecto.31 La Oficina Federal de Investigación de Seguridad Ferroviaria obtuvo la impresión de que esta disposición, probablemente debido a la finalidad de la gestión de desviaciones, que no está orientada primordialmente a la seguridad, no se valora en medida suficiente como relevante para la seguridad y, por este motivo, tampoco se cumple con la debida consecuencia. Conociendo esta información, se habría podido 
 30 Enlace al informe de investigación publicado: Descarrilamiento del Z 7657 en la estación de Münchendorf el 09 de mayo de 2022 
-31 Tras el accidente, la IP «Gestión de desviaciones» fue revisada íntegramente y, en consecuencia, se elaboró el RW 30.04.29.02. La comunicación entonces regulada entre BFZ y Tfzf ya no existe en esta forma. 
-
+31 Tras el accidente, la IP «Gestión de desviaciones» fue revisada íntegramente y, en consecuencia, se elaboró el RW 30.04.29.02. La comunicación entonces regulada entre BFZ y Tfzf ya no existe en esta forma.
 
 ## Página 89
+
 
 prevenir la actitud de expectativa del/la maquinista. Es muy improbable que la señal de salida «H1» se hubiera percibido erróneamente a pesar de saberse que iba a producirse un cambio de vía. 
 La configuración por parte de la infraestructura del sistema de protección de trenes empleado no pudo impedir que el tren ya pasara la señal de salida «H1» con velocidad excesivamente alta y, a continuación, siguiera acelerando. Por lo tanto, el tren no pudo ser detenido de forma automática por el sistema de protección de trenes. El tren estuvo técnicamente sin supervisión desde la finalización de la supervisión de 1000 Hz hasta la zona de agujas de las agujas 2 y 1, unos 1200 m. La configuración por parte de la infraestructura del sistema de protección de trenes empleado también debía considerarse como factor sistémico, ya que también puede afectar de forma similar a otras circulaciones. Además, no puede descartarse que también en otras estaciones existan situaciones similares. 
 La detección tardía de la iluminación en rojo del bloque «f51» o su procesamiento tardío también debían considerarse como factores causales del accidente. Ante una detección temprana de la iluminación en rojo y la correspondiente obtención del mensaje de completitud del tren anterior, no habría sido necesaria una medida sustitutiva mediante el establecimiento de una ruta de vía supervisionada por la seguridad de la circulación desde la señal de salida «H1» por la vía contraria. 
 Se consideró como factor sistémico que la iluminación en rojo solo se detectó tan tarde porque los ámbitos de responsabilidad de los jefes de tráfico en los centros de gestión de tráfico son cada vez mayores, de modo que ya no es posible tener una visión completa y constante de todo el ámbito de responsabilidad. Si bien existen límites técnicos máximos y delimitaciones organizativas de los ámbitos de responsabilidad, estos no impiden que puedan seguir ampliándose. Por lo tanto, no puede esperarse que una iluminación en rojo, que no se hace notar de forma acústica o visual, se detecte de inmediato. 
-La gran distancia de señal de aproximación entre la señal de aproximación de salida «h» y la señal de salida «H1» de 1667 m constituyó un factor contribuyente al accidente. Debido a esta gran distancia, fue posible al/la maquinista acelerar el tren durante más tiempo (394 m) ya tras la finalización de la supervisión de velocidad de 1000 Hz al aproximarse a la señal de salida «H1», ya que en este tramo no estaba técnicamente supervisado. Con una menor distancia de señal de aproximación entre ambas señalizaciones, el descarrilamiento se habría producido muy probablemente igualmente, aunque quizás las consecuencias se podrían haber reducido con una velocidad menor en el punto de descarrilamiento 
-
+La gran distancia de señal de aproximación entre la señal de aproximación de salida «h» y la señal de salida «H1» de 1667 m constituyó un factor contribuyente al accidente. Debido a esta gran distancia, fue posible al/la maquinista acelerar el tren durante más tiempo (394 m) ya tras la finalización de la supervisión de velocidad de 1000 Hz al aproximarse a la señal de salida «H1», ya que en este tramo no estaba técnicamente supervisado. Con una menor distancia de señal de aproximación entre ambas señalizaciones, el descarrilamiento se habría producido muy probablemente igualmente, aunque quizás las consecuencias se podrían haber reducido con una velocidad menor en el punto de descarrilamiento
 
 ## Página 90
+
 
 La gran distancia de señal de aproximación debía considerarse como factor sistémico, ya que también puede afectar de forma similar a otras circulaciones. Además, no podía descartarse que también en otras estaciones se hubieran planificado distancias de señal de aproximación tan grandes, con efectos relevantes para la seguridad sobre las circulaciones. 
 Nota: 
@@ -1712,10 +1729,10 @@ En ambas estaciones, los trenes pueden circular unos 1200 m tras una supervisió
 En ambas estaciones, en un lado de la estación están instaladas «agujas para 100 km/h» y en el otro lado de la estación «agujas para 60 km/h», lo que tiene como consecuencia que, por un lado, al realizar un cambio de vía por las «agujas para 100 km/h» se necesite un salto de velocidad de 60 km/h y, por otro lado, al realizar un cambio de vía por las «agujas para 60 km/h» (como en los sucesos) se necesite un salto de velocidad de 100 km/h. 
 • 
 En ambos sucesos, nunca fue necesario para los Tfzf empleados realizar un cambio de vía en las conexiones de agujas que se recorrieron con velocidad excesivamente alta (rutina). 
-32 Se comunicó a la SUB que la estación de Achau y la estación de Wampersdorf están configuradas de forma similar y, por tanto, presentan las mismas problemáticas que las estaciones de Münchendorf y Ebreichsdorf. Sin embargo, estas no fueron objeto de la investigación, por lo que no se verificaron. 
-
+32 Se comunicó a la SUB que la estación de Achau y la estación de Wampersdorf están configuradas de forma similar y, por tanto, presentan las mismas problemáticas que las estaciones de Münchendorf y Ebreichsdorf. Sin embargo, estas no fueron objeto de la investigación, por lo que no se verificaron.
 
 ## Página 91
+
 
 • 
 En ambos sucesos, los Tfzf recorrieron las conexiones de agujas que se recorrieron con velocidad excesivamente alta ya el mismo día o en el mismo turno, pero en posición recta y, por tanto, con los 160 km/h permitidos. 
@@ -1730,6 +1747,7 @@ Justificación:
 Como mostró el suceso investigado, a pesar de la existencia y del buen funcionamiento del sistema de protección de trenes «Protección de trenes de tipo puntual», se produjo un descarrilamiento con graves consecuencias, ya que era posible acelerar el tren, desde la finalización de la supervisión de velocidad de 1000 Hz, durante una distancia de unos 1200 m sin supervisión técnica. Con la medida recomendada no puede excluirse por completo el paso por la zona de agujas con velocidad excesivamente alta, sin embargo, esto solo podría producirse con una velocidad con la que, según todo pronóstico, no se produzca ningún descarrilamiento.
 
 ## Página 92
+
 
 La realización de un dispositivo de verificación de velocidad representa, al igual que la posible adaptación de las normas, un esfuerzo razonable en relación con el aumento del nivel de seguridad en la estación de Münchendorf y, en consecuencia, en general en la red ferroviaria.“
 
@@ -1747,6 +1765,7 @@ No existe ninguna prescripción sobre la instalación de agujas en cuanto a la r
 
 ## Página 93
 
+
 La aplicación de esta recomendación de seguridad es principalmente de carácter puramente organizativo, por lo que representa un esfuerzo razonable en relación con el aumento del nivel de seguridad. Si debido a las medidas recomendadas, al construir una instalación, por ejemplo, se requiriera en lugar de una aguja de 60 km/h una aguja de 100 km/h, los costes serían aproximadamente un 58 % superiores. Sin embargo, como con una aguja de mayor calidad puede reducirse la probabilidad de descarrilamiento por velocidad excesiva, los mayores costes de construcción parecen justificados desde el punto de vista de la SUB.»
 
 Inicialmente, el IB respondió a estas dos recomendaciones de seguridad con la siguiente negativa: «Las adaptaciones en el sistema PZB son contraproducentes, ya que tanto ÖBB Infrastruktur AG como la industria emplean sus recursos prioritariamente para la implantación de ETCS Nivel 2. Es decir, cualquier desviación de este procedimiento iría en detrimento de proyectos planificados y provocaría retrasos en los mismos.»
@@ -1758,6 +1777,7 @@ En la respuesta del IB se subestima, a juicio de la SUB, el potencial de peligro
 33 El 01 de marzo de 2026 se produjo nuevamente un incidente de características similares. Este también se describe en este capítulo.
 
 ## Página 94
+
 
 Por otra parte, la impulsión de la estrategia ETCS no excluye que las brechas de seguridad del PZB se cierren mediante otras medidas adecuadas, a fin de evitar los peligros en el periodo de tiempo hasta la implantación de ETCS exclusivo en esta línea (¡a partir de 2036 como fecha más temprana!).[24]
 
@@ -1774,6 +1794,7 @@ No obstante, en la SUB persistían dudas sobre la aplicación de estas recomenda
 35 A la pregunta del 21 de agosto de 2025 sobre cómo se había aplicado en la práctica esta medida anunciada, el operador de infraestructura respondió que los expertos del grupo de trabajo, al analizar la problemática, llegaron a la conclusión de que esta medida solo desplazaría el riesgo de los conductores de tren a los reguladores de tráfico, por lo que se decidió no aplicarla. La evaluación de medidas sigue siendo un tema en el grupo de trabajo.[49]
 
 ## Página 95
+
 
 El IB respondió que las recomendaciones no se han aplicado.36[14][49]
 
@@ -1794,6 +1815,7 @@ Si en el futuro tampoco se adoptan medidas de protección adecuadas que puedan e
 
 ## Página 96
 
+
 # 5 Conclusiones
 ## a) Resumen de la evaluación y conclusiones sobre las
 ## causas del suceso
@@ -1802,8 +1824,8 @@ El/la maquinista de locomotora implicado/a en el suceso se encontraba en el mome
 El suceso se produjo en el sexto trayecto de tren del turno del/la maquinista de locomotora. En este trayecto se volvió a pasar por la estación Ebreichsdorf. En la señal de entrada «Ag92» de la estación Ebreichsdorf se señalizó «Libre» y en la preseñal de salida «r», a diferencia de lo anterior, se señalizó que en la señal principal correspondiente cabe esperar «Libre con 60 km/h». El sistema de control de la circulación PZB estaba encendido de forma continua y no había ninguna avería. El control de velocidad, que estaba activo debido a la preseñal de salida «r» que indicaba «cabe esperar señal principal correspondiente Libre con 60 km/h» y a la influencia de 1000 Hz asociada a la misma, fue respetado y finalizó aproximadamente a la altura del comienzo del andén. A partir de ese momento, es decir, tras la parada programada, era posible para el/la maquinista de locomotora acelerar el tren sin supervisión técnica. La distancia a la preseñal es de 1888 m. Esto significa que, hasta la señal de salida «R202», un tren no está supervisado por el sistema de control de la circulación durante unos 608 m y, hasta la aguja 57, situada unos 564 m después de la señal de salida «R202», durante unos 1172 m en total.
 Dado que durante la salida de la estación el foco de atención del/la maquinista de locomotora estaba en el horario y este/a nunca había abandonado la estación Ebreichsdorf por la vía contraria, no percibió la señal de salida «R202» ni el imitador de señal «1R202» situado delante de la misma
 
-
 ## Página 97
+
 
 El/la maquinista de locomotora esperaba una señalización de «Libre», por lo que el tren se aceleró de forma continua. A la altura de la señal de salida «R202», el tren 7638 ya alcanzaba una velocidad de 84 km/h y, hasta la zona de las agujas 57 y 58, una velocidad de 116 km/h. Desde el sistema de control de la circulación PZB ya no podía impedirse la infracción de velocidad tras el transcurso de los 1280 m de control de velocidad derivado de los 1000 Hz (según la evaluación de los datos de circulación[11]).
 Esta situación de PZB con lagunas desde el punto de vista de la seguridad de la circulación conlleva, en combinación con las agujas 57 y 58 instaladas, un potencial de peligro especial en lo que respecta a una posible descarrilación. Las dos agujas están ejecutadas como agujas de 60 km/h, a pesar de que, en un cambio de vía, resulta necesaria una reducción de velocidad de 160 km/h en la vía principal continua a 60 km/h en la desviación y de que los trenes no están supervisados técnicamente en este cambio de vía.
@@ -1811,8 +1833,8 @@ Sobre la base de los datos empíricos de los sucesos similares ya conocidos en l
 No existen prescripciones para la instalación de agujas en lo que respecta a la relación entre la velocidad autorizada en la desviación y la de la posición de paso recto.
 La visibilidad de la señal de salida «R202» estaba dada y se ajusta a las directrices de planificación vigentes.
 
-
 ## Página 98
+
 
 ### Factores causales
 Los factores causales son acciones, omisiones, sucesos o circunstancias de cualquier tipo o una combinación de los mismos, cuya corrección, exclusión o evitación habría evitado el suceso con toda probabilidad.37
@@ -1821,8 +1843,8 @@ La configuración por parte de la infraestructura del sistema de control de la c
 Como otro factor causal se considera la larga distancia a la preseñal de 1888 m. Debido a esta larga distancia, el control de velocidad de la influencia de 1000 Hz finalizó ya a la altura del comienzo del andén. Así, tras la parada siguiente en la estación Ebreichsdorf, era posible acelerar el tren sin supervisión técnica hasta la señal de salida «R202» inicialmente a 84 km/h y, a continuación, a 116 km/h.
 37 Un factor sistémico puede ser cualquier factor causal o contribuyente de naturaleza organizativa, de gestión, social o jurídica que previsiblemente tenga efecto en el futuro sobre sucesos similares y relacionados con el mismo, incluyendo especialmente el marco normativo, la configuración y aplicación del sistema de gestión de la seguridad, los conocimientos especializados del personal, los procedimientos y el mantenimiento.
 
-
 ## Página 99
+
 
 La gran distancia a la preseñal debe considerarse asimismo como factor sistémico, ya que puede tener un efecto similar en otros trayectos. Además, existen también en otras instalaciones de operación distancias a la preseñal tan grandes que podrían tener repercusiones relevantes para la seguridad en los trayectos.
 ### Factores contribuyentes
@@ -1834,8 +1856,8 @@ La configuración de las agujas debe considerarse también como factor sistémic
 •
 Con motivo del suceso se emitió una instrucción escrita «Información de seguridad: casi accidente debido a velocidad excesiva en la zona de agujas de la estación Ebreichsdorf» relativa a la observancia de condiciones locales especiales en varias estaciones (observancia exacta de las señales y observancia de la extensión de la zona de agujas en las estaciones Münchendorf, Ebreichsdorf y Wampersdorf) a todos los maquinistas de locomotora de la empresa de transporte ferroviario. La ÖBB Produktion GmbH, la ÖBB Personenverkehr AG y la ÖBB Infrastruktur AG fueron igualmente informadas de la instrucción.
 
-
 ## Página 100
+
 
 •
 Sensibilización del personal (formaciones – lessons learned). La información obtenida se incorporará al programa de formación de la Raaberbahn AG y se abordará con mayor énfasis en la formación. Se indicará a los maquinistas de locomotora los más diversos sucesos y sus causas.
@@ -1858,6 +1880,7 @@ La información de seguridad emitida por la empresa de transporte ferroviario fu
 En la estación Ebreichsdorf no se encuentran actualmente previstas medidas en relación con la situación de PZB de la infraestructura que, desde el punto de vista de la SUB, conlleva riesgo. Esto significa que, incluso si se inicia la operación con ETCS, siguen siendo posibles sucesos de la misma naturaleza si un vehículo no circula gestionado por ETCS, sino en operación PZB
 
 ## Página 101
+
 
 es, aunque con ello se minimiza el riesgo, ya que el número de circulaciones con PZB disminuye en consecuencia.[49][71]
 ### Medidas acordadas conjuntamente por las empresas de transporte ferroviario y el operador de infraestructura
@@ -1884,8 +1907,8 @@ A este respecto, el operador de infraestructura anunció que, para la larga
 distancia previa a la señal principal (>1500 m), el programa de circulación durante
 38 Las entidades responsables de la implementación acordada se indican además entre paréntesis.
 
-
 ## Página 102
+
 
 las obras se diseñará, si es posible, de manera que ya se realice un cambio de vía en el
 lado de entrada.
@@ -1925,8 +1948,8 @@ transporte ferroviario y el operador de infraestructura, ya que la empresa de se
 en dicha reunión. Sin embargo, dos medidas difieren en los detalles (medidas 3 y 5).
 41 Las entidades responsables de la implementación definidas se indicaron de nuevo entre paréntesis.
 
-
 ## Página 103
+
 
 2. Warn-App 2 – Supervisión de la velocidad en la zona de agujas; aviso en caso de
 exceso o ya aviso temprano en el TIM de la persona conductora de locomotora
@@ -1970,8 +1993,8 @@ errores también pueden ser potencialmente relevantes para la seguridad sin
 repercusión (en este caso podría haber habido daños en componentes de agujas y en
 el bogie del vehículo).
 
-
 ## Página 104
+
 
 Nueva medida: «Coaching de concienciación del riesgo» se está probando en el proyecto
 «Cultura de errores Nueva línea del Franz-Josefs-Bahn». (ÖBB Produktion GmbH)
@@ -2004,8 +2027,8 @@ Las dos medidas de evaluación de qué otras líneas con las mismas
 características de línea están en planificación sin supervisión técnica y de la
 evaluación de la programación de programas de circulación durante las obras en operación automática de
 
-
 ## Página 105
+
 
 enclavamiento, difieren sin embargo un poco de las medidas elaboradas conjuntamente.
 De estas dos medidas, el operador de infraestructura solo tuvo conocimiento detallado a
@@ -2024,6 +2047,7 @@ pasajeros. Ningún pasajero cayó.[64]
 
 ## Página 106
 
+
 # Conclusiones
 ## Resumen del análisis y de las conclusiones respecto a las causas
 del suceso
@@ -2032,8 +2056,8 @@ El maquinista implicado en el suceso se encontraba en su sexta hora de servicio 
 El suceso se produjo durante el sexto viaje del tren del turno del maquinista. Durante este trayecto, el tren volvió a pasar por la estación de Ebreichsdorf. En la señal de entrada «Ag92» de la estación de Ebreichsdorf, se señalizó «vía libre» y en la señal de aproximación de salida «r», a diferencia de antes, se señalizó que debía esperarse «vía libre a 60 km/h» en la señal principal correspondiente. El sistema de control de tren PZB estuvo activado en todo momento y no se produjeron averías. El control de velocidad, que estaba activo debido a que la señal de aproximación de salida «r» mostraba «esperar vía libre en la señal principal asociada a 60 km/h» y la influencia asociada de 1000 Hz, se respetó y finalizó aproximadamente al comienzo del andén. A partir de este punto, o después de la parada prevista, era técnicamente posible para el maquinista acelerar el tren sin supervisión. La distancia entre la señal de aproximación de salida «r» y la señal de salida «R202» es de 1888 m. Esto significa que hasta la señal de salida «R202», un tren no está supervisado por el sistema de control de tren durante aproximadamente 608 m y hasta el desvío 57, que se encuentra aproximadamente a 564 m después de la señal de salida «R202», en un total de aproximadamente 1172 m.
 Dado que el foco de atención del maquinista estaba en el horario durante la salida de la estación y que nunca había abandonado la estación de Ebreichsdorf por la vía contraria, no se percató de la señal de salida «R202» ni del repetidor de señal «1R202» situado delante de la misma. El maquinista esperaba una señal de «vía libre», por lo que el tren continuó acelerando. En la señal de salida «R202»
 
-
 ## Página 107
+
 
 el tren 7638 ya había alcanzado una velocidad de 84 km/h y, cuando llegó a los desvíos 57 y 58, había alcanzado una velocidad de 116 km/h. El sistema de control de tren PZB no pudo impedir la infracción no autorizada de la velocidad después de que el sistema de control de velocidad de 1000 Hz hubiera estado en funcionamiento durante 1280 m (según el análisis de los datos de circulación[11]).
 Esta laguna relacionada con la seguridad en el sistema PZB, en combinación con los desvíos 57 y 58 instalados, plantea un riesgo particular de descarrilamiento. Los dos desvíos están diseñados como desvíos de 60 km/h, aunque es necesaria una reducción de velocidad desde 160 km/h en la vía principal de paso hasta 60 km/h en la desviación al cambiar de vía, y los trenes no están técnicamente supervisados durante este cambio de vía.
@@ -2045,8 +2069,8 @@ Los factores causales son acciones, omisiones, hechos o circunstancias de cualqu
 El factor causal del suceso es no haber percibido la indicación de señal «vía libre a 60 km/h» en la señal de salida «R202» y en el repetidor de señal «1R202» situado delante de la misma para la señal de salida
 42 Un factor sistémico puede ser cualquier factor causal o contribuyente de naturaleza organizativa, de gestión, social o jurídica que probablemente afecte a sucesos similares y relacionados en el futuro, incluyendo, en particular, el marco legal, el diseño y la aplicación del sistema de gestión de la seguridad, los conocimientos del personal, los procedimientos y el mantenimiento.
 
-
 ## Página 108
+
 
 «R202» con la indicación de señal «señal principal muestra vía libre con restricción de velocidad» por parte del maquinista, debido a su expectativa de recibir una señal de «vía libre», combinada con una atención limitada al observar la señal de salida «R202» y el repetidor de señal «1R202» situado delante de la misma. Como resultado, los desvíos 57 y 58 se pasaron a 116 km/h en lugar de la velocidad permitida de 60 km/h.
 El diseño de la infraestructura del sistema de control de tren utilizado también debe citarse como factor contribuyente, ya que no pudo impedir que el tren pasara por la señal de salida «R202» a velocidad excesiva y continuara acelerando después. El sistema de control de tren no pudo, por tanto, detener el tren automáticamente. Desde el final del control de 1000 Hz hasta la zona de los desvíos 57 y 58, el tren circuló sin supervisión técnica durante casi 1200 m. El diseño de la infraestructura del sistema de control de tren utilizado también debe considerarse un factor sistémico, ya que puede tener un efecto similar en otros trayectos. Además, no puede descartarse que también existan situaciones similares en otros emplazamientos de explotación.
@@ -2055,8 +2079,8 @@ Otro factor causal se considera la gran distancia de 1888 m entre la señal de a
 Los factores contribuyentes son acciones, omisiones, hechos o circunstancias de cualquier tipo que afectan a un suceso aumentando su probabilidad, acelerando su producción o agravando sus consecuencias, pero cuya exclusión no habría impedido el suceso.42
 Los factores contribuyentes son acciones, omisiones, hechos o circunstancias de cualquier tipo que afectan a un suceso aumentando su probabilidad, acelerando su producción o agravando sus consecuencias, pero cuya exclusión no habría impedido el suceso.36
 
-
 ## Página 109
+
 
 El diseño de los desvíos 57 y 58 fue un factor contribuyente al suceso. El uso de desvíos de 60 km/h en lugar de desvíos de 100 km/h en una línea con mucho tráfico y velocidades muy elevadas aumenta la probabilidad de un descarrilamiento en funcionamiento PZB en caso de actuación previa indebida, ya que los trenes en esta zona realizan un cambio de vía no supervisado por un sistema de control de tren con una reducción de velocidad de 100 km/h. El diseño de los desvíos también debe considerarse un factor sistémico, ya que puede tener un efecto similar en otros trayectos. Además, no puede descartarse que existan situaciones similares en otros emplazamientos de explotación donde el diseño de los desvíos pueda tener un efecto negativo en situaciones de explotación desfavorables.
 ## Medidas adoptadas desde el suceso
@@ -2074,8 +2098,8 @@ Además, el plan de control, que ya había sido adaptado tras sucesos anteriores
 −
 Aumento de las actividades de control (supervisión del personal de conducción mediante comprobaciones de seguridad).
 
-
 ## Página 110
+
 
 −
 Modificación del programa de auditoría (realización de una auditoría al proveedor relacionada con el suceso en ÖBB Produktion GmbH)
@@ -2097,6 +2121,7 @@ véase el capítulo «Autorizaciones, certificados e informes de evaluación»
 
 ## Página 111
 
+
 Una revisión interna del gestor de la infraestructura ha demostrado que no es posible implementar esta medida. Sin embargo, cabe señalar que, una vez que el ETCS esté en servicio, todos los vehículos de tracción equipados con ETCS deben operar realmente en modo ETCS. Esto reduce automáticamente el riesgo, ya que el número de viajes con PZB se reduce en consecuencia.[71]
 3. Entrevista MOF con el maquinista afectado para conocer más sobre las causas humanas del suceso. (Raaberbahn / ÖBB Produktion GmbH)[67]
 4. Determinación de medidas adicionales basadas en los resultados de la entrevista MOF. (Raaberbahn / ÖBB Produktion GmbH / ÖBB Infrastruktur AG)
@@ -2108,8 +2133,8 @@ Cuando se le preguntó el 21 de agosto de 2025 cómo se había implementado en l
 8. El suceso de Ebreichsdorf se está abordando actualmente en la formación en servicio para maquinistas. (Raaberbahn / ÖBB Produktion GmbH)
 44 La medida derivada en el curso del análisis de factores humanos, a saber, evaluar la programación de los programas de conducción para trabajos de construcción en modo de autorregulación automática y no «manualmente» por el centro de control de tráfico correspondiente en caso de suceso, no era conocida por el operador de la infraestructura, ya que esta medida no se comunicó más allá. [71] A 16 de octubre de 2025 no se había iniciado ninguna evaluación en esta dirección. En modo automático, el riesgo para los reguladores de tráfico sería significativamente menor, ya que no se requeriría una intervención manual para cada viaje, sino solo una vez al poner en servicio la zona de obras.
 
-
 ## Página 112
+
 
 ### Proveedor de servicios[67]
 Se desarrollaron once medidas como parte de un análisis de factores humanos del maquinista por parte del proveedor de servicios.45 46
@@ -2124,8 +2149,8 @@ Se desarrollaron once medidas como parte de un análisis de factores humanos del
 45 Las medidas desarrolladas en el curso del análisis de factores humanos no se presentaron al gestor de la infraestructura. Esencialmente, estas medidas, de las que es responsable el gestor de la infraestructura, se basan en aquellas medidas que se decidieron en la reunión entre la empresa ferroviaria y el gestor de la infraestructura para discutir riesgos comunes, ya que el proveedor de servicios también participó en esta reunión. Sin embargo, dos medidas difieren en detalle (medidas 3 y 5).
 46 Los puntos definidos a implementar se volvieron a colocar entre paréntesis junto a ellos.
 
-
 ## Página 113
+
 
 9. Vídeo de concienciación sobre desvíos peligrosos en la ruta 10601 con referencia al accidente en Münchendorf, el suceso en Ebreichsdorf y desvíos peligrosos en general a través de DU Info / BIS Monitor en el espíritu de aprender de los errores. (ÖBB Produktion GmbH)
 10. Información de seguridad ÖBB-Personenverkehr AG / ÖBB Produktion GmbH – «Report it» – de acuerdo con la normativa de notificación, los incidentes también deben ser notificados independientemente del impacto/error sin impacto. (ÖBB Produktion GmbH / ÖBB Personenverkehr AG)
@@ -2137,8 +2162,8 @@ Si no hubiera sido por la notificación (queja de cliente) del suceso por parte 
 Una vez conocido el suceso y tras la posterior investigación interna, la empresa ferroviaria pudo notificar el suceso, entre otros, a la Autoridad Federal de Investigación de Seguridad.
 ### Medidas de comunicación
 
-
 ## Página 114
+
 
 Las medidas desarrolladas por el proveedor de servicios en el curso del análisis de «factores humanos» del maquinista, que conciernen al gestor de la infraestructura, no se comunicaron a este.
 Esencialmente, estas medidas se basan en las decididas en la reunión entre el operador de la infraestructura y la empresa ferroviaria para discutir riesgos comunes, ya que el proveedor de servicios también participó en esta reunión.
@@ -2147,8 +2172,8 @@ Sin embargo, las dos medidas de la evaluación, que conciernen a otras rutas con
 En el curso de las investigaciones internas de la empresa ferroviaria, las grabaciones de vídeo del compartimento de pasajeros deberían haberse custodiado para determinar cómo afectó el suceso al compartimento de pasajeros.
 Sin embargo, se cometió un error al custodiar estas grabaciones de vídeo. El empleado responsable de custodiar las grabaciones las sobrescribió accidentalmente, lo que resultó en su borrado irrecuperable. Sin embargo, él había visto las grabaciones previamente. Según su declaración, se podía observar un sacudón en el compartimento de pasajeros. Ningún pasajero cayó.[64]
 
-
 ## Página 115
+
 
 # 6 Recomendaciones de seguridad
 ## 6.1
@@ -2162,6 +2187,7 @@ A modo introductorio, cabe señalar que la verificación de en qué medida las r
 La recomendación de seguridad A-2024/004 de la investigación del descarrilamiento en la estación de Münchendorf del 09 de mayo de 2022 es también aplicable a este suceso y debe ser objeto de seguimiento.
 
 ## Página 116
+
 
 Tabla 7 Recomendaciones de seguridad según el § 16 apartado 1 UUG 2005
 | Número consecutivo | Recomendación de seguridad (causal del accidente) | Se emite a | Afecta a |
@@ -2177,6 +2203,7 @@ Tabla 7 Recomendaciones de seguridad según el § 16 apartado 1 UUG 2005
 
 ## Página 117
 
+
 | Número consecutivo | Recomendación de seguridad (causal del accidente) | Se emite a | Afecta a |
 |---|---|---|---|
 | | en qué estaciones de servicio se dan situaciones similares (potencial de descarrilamiento debido a velocidades excesivas, causadas por una aceleración excesiva en un área no supervisada técnicamente por la PZB) en funcionamiento PZB como en el suceso objeto de investigación, de modo que la aplicación de esta recomendación de seguridad pueda examinarse también en estas estaciones de servicio. | | |
@@ -2187,6 +2214,7 @@ Tabla 7 Recomendaciones de seguridad según el § 16 apartado 1 UUG 2005
 
 ## Página 118
 
+
 | Número consecutivo | Recomendación de seguridad (causal del accidente) | Se emite a | Afecta a |
 |---|---|---|---|
 | A-2026/003 | Se recomienda comprobar si, respecto a nuevas construcciones y reformas integrales, es posible y pertinente una adaptación de las normas nacionales y, por tanto, también de las del gestor de infraestructura, en relación con una reducción de la distancia máxima admisible de señal de aviso para aumentar el nivel de seguridad. En una eventual adaptación debería orientarse por las disposiciones alemanas, que admiten una distancia máxima de señal de aviso de 1500 m. | NSA | NSA E4, IB |
@@ -2195,6 +2223,7 @@ Tabla 7 Recomendaciones de seguridad según el § 16 apartado 1 UUG 2005
 | | Dado que la recomendación se refiere únicamente a la comprobación de la posibilidad de futuras adaptaciones de las normas, el esfuerzo de aplicación consiste principalmente en la actividad de comprobación de la autoridad y del gestor de infraestructura y, por su naturaleza, no puede cuantificarse con exactitud por la Oficina Federal de Investigación de Seguridad. El hecho de que el gestor de infraestructura ya haya anunciado a la Oficina Federal de Investigación de Seguridad, en respuesta al informe de investigación provisional, su intención de adaptar sus normas en el sentido de esta recomendación de seguridad, apunta a que el esfuerzo no parece desmesurado. El esfuerzo de aplicación de esta recomendación de seguridad parece, por tanto, razonable en relación con el beneficio que los resultados de la comprobación pueden aportar para la mejora de la seguridad ferroviaria. | | |
 
 ## Página 119
+
 
 # Recomendaciones de seguridad
 ## Recomendaciones de seguridad según el § 16 apartado 2 UUG 2005
@@ -2206,6 +2235,7 @@ En primer lugar, debe señalarse que corresponde a la autoridad nacional de segu
 La recomendación de seguridad A-2024/004 de la investigación sobre el descarrilamiento de un tren en la estación de Münchendorf el 9 de mayo de 2022 es también aplicable a este suceso y debería dar seguimiento.
 
 ## Página 120
+
 
 Tabla 8 Recomendaciones de seguridad según el § 16 (1) UUG 2005
 | Núm. | Recomendaciones de seguridad | Dirigida a | Afecta a |
@@ -2221,6 +2251,7 @@ Tabla 8 Recomendaciones de seguridad según el § 16 (1) UUG 2005
 
 ## Página 121
 
+
 No. 
 Recomendaciones de seguridad 
 Abordan 
@@ -2235,10 +2266,10 @@ Se recomienda comprobar si, en el caso de nuevas NSA
 NSA E4, 
 construcciones y reformas extensas, es posible y conveniente 
 IM 
-adaptar la normativa nacional y, por tanto, también la del operador de infraestructura con respecto a la reducción de la distancia máxima permitida entre la señal de aproximación de salida y la señal de salida para aumentar el nivel de seguridad. Cualquier ajuste debería basarse en las especificaciones alemanas, que permiten una distancia máxima entre la señal de aproximación de salida y la señal de salida de 1,500 metros. 
-
+adaptar la normativa nacional y, por tanto, también la del operador de infraestructura con respecto a la reducción de la distancia máxima permitida entre la señal de aproximación de salida y la señal de salida para aumentar el nivel de seguridad. Cualquier ajuste debería basarse en las especificaciones alemanas, que permiten una distancia máxima entre la señal de aproximación de salida y la señal de salida de 1,500 metros.
 
 ## Página 122
+
 
 No. 
 Recomendaciones de seguridad 
@@ -2246,10 +2277,10 @@ Abordan
 preocupaciones 
 Motivo: 
 Como se describe en el informe de investigación, en Austria se permiten distancias de hasta 2000 m entre la señal de aproximación de salida y la señal de salida. Una distancia máxima entre la señal de aproximación de salida y la señal de salida de 1500 m no solo mejoraría la seguridad, sino que también ofrecería ventajas operativas, ya que los trenes no tendrían que viajar a velocidades lentas durante períodos innecesariamente largos cuando se ven afectados por el sistema. En el incidente en cuestión, el tren pudo acelerar a una velocidad excesiva después de la parada planificada porque en ese punto ya no era supervisado por el sistema de control de tren debido a la gran distancia entre la señal de aproximación de salida y la señal de salida. Esto no habría sido posible con una distancia menor a la señal lejana. 
-Dado que la recomendación solo se refiere al examen de la posibilidad de futuras enmiendas a la normativa, el esfuerzo de implementación consiste principalmente en las actividades de revisión de la autoridad y del operador de infraestructura y, por su propia naturaleza, no puede ser cuantificado con precisión por la Autoridad Federal de Investigación de Seguridad. El hecho de que el operador de infraestructura ya haya indicado a la Autoridad Federal de Investigación de Seguridad, en respuesta al informe de investigación preliminar, que tiene la intención de adaptar su normativa de acuerdo con esta recomendación de seguridad, sugiere que el coste no parece ser excesivo. El coste de implementación de esta recomendación de seguridad, por tanto, parece razonable en relación con los beneficios que los resultados de la revisión pueden aportar en términos de mejora de la seguridad ferroviaria. 
-
+Dado que la recomendación solo se refiere al examen de la posibilidad de futuras enmiendas a la normativa, el esfuerzo de implementación consiste principalmente en las actividades de revisión de la autoridad y del operador de infraestructura y, por su propia naturaleza, no puede ser cuantificado con precisión por la Autoridad Federal de Investigación de Seguridad. El hecho de que el operador de infraestructura ya haya indicado a la Autoridad Federal de Investigación de Seguridad, en respuesta al informe de investigación preliminar, que tiene la intención de adaptar su normativa de acuerdo con esta recomendación de seguridad, sugiere que el coste no parece ser excesivo. El coste de implementación de esta recomendación de seguridad, por tanto, parece razonable en relación con los beneficios que los resultados de la revisión pueden aportar en términos de mejora de la seguridad ferroviaria.
 
 ## Página 123
+
 
 # Consideración de las alegaciones 
 Las alegaciones deben realizarse, de conformidad con el § 14 Abs. 1 UUG 2005, respecto de los hechos y conclusiones relevantes para el incidente. De acuerdo con el Art. 23 Abs. 3 de la Directiva (UE) 2016/798, el procedimiento de alegaciones debe dar a los interesados la posibilidad 
@@ -2272,10 +2303,10 @@ Oberste Eisenbahnbehörde
 Debido a las alegaciones recibidas al informe de investigación preliminar del 
 20 de noviembre de 2025, se realizaron modificaciones o adiciones en los capítulos Resumen; Alcance y límites de la investigación; Viajes implicados; Infraestructura y sistema de señalización; Descripción del suceso; Factores del puesto de trabajo; Marco jurídico aplicable; SMS de las empresas ferroviarias y del operador de infraestructura; Resultados de la actividad de supervisión de las autoridades nacionales de seguridad; Autorizaciones, certificados e informes de evaluación; Factores causales; Recomendaciones de seguridad y Listado de normas. 
 ### Aclaración sobre las alegaciones  
-Raab-Oedenburg-Ebenfurter Eisenbahn AG 
-
+Raab-Oedenburg-Ebenfurter Eisenbahn AG
 
 ## Página 124
+
 
 En el informe de investigación preliminar existía otra recomendación de seguridad relativa a la EVU, en relación con el tema tratado en el capítulo "SMS de las empresas ferroviarias y del operador de infraestructura" sobre la notificación escrita de incidentes por parte del personal de la EVU a la empresa. Como se describió, no existían disposiciones al respecto en el SMS de la EVU. Por parte de la SUB se recomendó integrar en el SMS tales disposiciones, de las que se desprenda qué, cómo, a dónde y cuándo debe notificarse por escrito. 
 Ya durante el proceso de investigación, la EVU manifestó la intención de incluir procesos para ello en el SMS de la EVU. Tras la remisión del informe de investigación preliminar, esta promesa también se llevó a la práctica. 
@@ -2286,17 +2317,17 @@ Oberste Eisenbahnbehörde
 Sobre la alegación de la Oberste Eisenbahnbehörde se señala, en general, que esta se refiere en gran medida a qué aspectos, desde su punto de vista, no se han investigado o no se han investigado suficientemente. El procedimiento de investigación de la Autoridad Federal de Investigación de Seguridad debe llevarse a cabo de forma sencilla y adecuada, de conformidad con el § 6 Abs. 1 UUG 2005, teniendo en cuenta el objetivo de una investigación de seguridad. El informe de investigación debe ajustar su contenido a la naturaleza y gravedad del incidente. El alcance de la investigación y 
 ### los procedimientos a aplicar en ella quedan determinados por la SUB de conformidad con el § 6 Abs. 2 UUG 2005, en función de los hallazgos que pretende obtener para mejorar la seguridad. Las alegaciones de los interesados deben referirse, de conformidad con el § 14 Abs. 1 UUG 
 ### 2005, a los hechos y conclusiones relevantes. La Oberste Eisenbahnbehörde tiene, en el marco de su propio ámbito de competencia, la posibilidad de convertir en objeto de un procedimiento de supervisión los temas tratados por la SUB (o incluso temas adicionales) que, desde su punto de vista, no se han investigado o no se han investigado suficientemente, pero que son necesarios para sus fines. 
-En general, en relación con las alegaciones sobre las recomendaciones de seguridad, cabe señalar que la verificación de en qué medida las recomendaciones de seguridad tienen una 
-
+En general, en relación con las alegaciones sobre las recomendaciones de seguridad, cabe señalar que la verificación de en qué medida las recomendaciones de seguridad tienen una
 
 ## Página 125
 
+
 significación más amplia para el sector ferroviario nacional corresponde a la autoridad nacional de seguridad. En consecuencia, el esfuerzo de una recomendación de seguridad que tenga una significación más amplia para o un mayor ámbito de influencia sobre todo el sector ferroviario nacional solo puede ser determinado por la Oberste Eisenbahnbehörde. Según la Guía para recomendaciones de seguridad de la Agencia Ferroviaria de la Unión Europea, las recomendaciones de seguridad se dirigen principalmente a la autoridad nacional de seguridad, entre otros motivos, porque esta dispone de toda la información necesaria para comprobar si la recomendación afecta a un espectro más amplio de empresas ferroviarias, gestores de vía u otras partes del sector ferroviario nacional. El objetivo exclusivo de la SUB es determinar las posibles causas de un incidente para poder elaborar recomendaciones de seguridad que contribuyan a evitar futuros incidentes de la misma naturaleza o de características similares. 
 De conformidad con la Directiva (UE) 2016/798, los destinatarios de las recomendaciones de seguridad deberían implementar las recomendaciones y notificar a la autoridad de investigación las medidas de seguimiento. La autoridad nacional de seguridad debe, de conformidad con el Art. 26 Abs. 2 de la Directiva (UE) 2016/798, dentro del marco de su competencia, adoptar las medidas necesarias para garantizar que las recomendaciones de seguridad de las autoridades de investigación se tengan debidamente en cuenta y, en su caso, se implementen. 
-Si una implementación exacta de las recomendaciones de seguridad no fuera posible desde el punto de vista de la Oberste Eisenbahnbehörde – por las razones que fueren –, desde el punto de vista de la SUB sería tarea de la autoridad nacional de seguridad, no obstante, adoptar medidas en el sentido del Art. 26 Abs. 2 de la Directiva (UE) 2016/798 para que las recomendaciones se tengan debidamente en cuenta y, en la medida de lo posible, se atienda a su sentido y propósito evidente, a fin de aumentar la seguridad en el transporte ferroviario. 
-
+Si una implementación exacta de las recomendaciones de seguridad no fuera posible desde el punto de vista de la Oberste Eisenbahnbehörde – por las razones que fueren –, desde el punto de vista de la SUB sería tarea de la autoridad nacional de seguridad, no obstante, adoptar medidas en el sentido del Art. 26 Abs. 2 de la Directiva (UE) 2016/798 para que las recomendaciones se tengan debidamente en cuenta y, en la medida de lo posible, se atienda a su sentido y propósito evidente, a fin de aumentar la seguridad en el transporte ferroviario.
 
 ## Página 126
+
 
 ### Índice de tablas 
 Tabla 1 Recomendaciones de seguridad de conformidad con el § 16 Abs. 1 UUG 2005 ..................................... 10 
@@ -2309,6 +2340,7 @@ Tabla 7 Recomendaciones de seguridad de conformidad con el § 16 Abs. 1 UUG 2005
 Table 8 Safety recommendations according to § 16 (1) UUG 2005 ................................... 120
 
 ## Página 127
+
 
 ### Índice de figuras 
 Figura 1 Esquema de las líneas ferroviarias de Austria ................................................................... 23 
@@ -2326,10 +2358,10 @@ Figura 12 Extracto del EisbBBV Anexo 5 Señal previa (§ 30) ...................
 Figura 13 Extracto del EisbBBV Anexo 5 Indicador de velocidad (§ 32) .......................... 69 
 Figura 14 Extracto del EisbBBV Anexo 5 Preindicador de velocidad (§ 33)..................... 69 
 Figura 15 Extracto del EisbBBV Anexo 6 Tabla de frenado ............................................................ 70 
-Figura 16 Anexo 102 Reglamento 13.01.02 Señalización de protección puntual de trenes ................ 72 
-
+Figura 16 Anexo 102 Reglamento 13.01.02 Señalización de protección puntual de trenes ................ 72
 
 ## Página 128
+
 
 ### Índice de normativa 
 Ley federal sobre ferrocarriles, vehículos sobre raíles en ferrocarriles y el tráfico en ferrocarriles (Ley de ferrocarriles de 1957 – EisbG), BGBl. n.º 60/1957, modificada por última vez por BGBl. I n.º 50/2025 
@@ -2345,17 +2377,17 @@ BGBl. I n.º 56/2024
 Directiva 2016/798 del Parlamento Europeo y del Consejo, de 11 de mayo de 2016, sobre la seguridad ferroviaria en la Comunidad, en su versión vigente 
 Reglamento de ejecución (UE) 2020/572 de la Comisión, de 24 de abril de 2020, sobre la estructura de presentación de informes que debe seguirse para los informes de investigación de accidentes e incidencias ferroviarias 
 ### Reglamento delegado (UE) 2018/762 de la Comisión, de 8 de marzo de 2018, sobre métodos comunes de seguridad en relación con los requisitos de los sistemas de gestión de seguridad conforme a la Directiva (UE) 2016/798 del Parlamento Europeo y del Consejo y por el que se derogan los Reglamentos (UE) n.º 1158/2010 y 
-(UE) n.º 1169/2010, en su versión vigente 
-
+(UE) n.º 1169/2010, en su versión vigente
 
 ## Página 129
 
+
 ### Reglamento de ejecución (UE) 402/2013 de la Comisión, de 30 de abril de 2013, sobre el método común de seguridad para la evaluación y valoración de riesgos y por el que se deroga el Reglamento (CE) n.º 352/2009, en su versión vigente 
 ### Reglamento de ejecución (UE) 2019/773 de la Comisión, de 16 de mayo de 2019, sobre la especificación técnica de interoperabilidad del subsistema «Explotación y gestión del tráfico» del sistema ferroviario en la Unión Europea y por el que se deroga la Decisión 2012/757/UE, en su versión vigente 
-### Reglamento (UE) 1078/2012 de la Comisión, de 16 de noviembre de 2012, sobre un método común de seguridad para la supervisión que deben aplicar las empresas ferroviarias y los gestores de infraestructura a las que se haya expedido un certificado de seguridad o una autorización de seguridad, así como los organismos responsables del mantenimiento 
-
+### Reglamento (UE) 1078/2012 de la Comisión, de 16 de noviembre de 2012, sobre un método común de seguridad para la supervisión que deben aplicar las empresas ferroviarias y los gestores de infraestructura a las que se haya expedido un certificado de seguridad o una autorización de seguridad, así como los organismos responsables del mantenimiento
 
 ## Página 130
+
 
 ### Índice de normativa IB47 
 30.01 
@@ -2383,10 +2415,10 @@ Ebreichsdorf
 Bsb Bf 
 Descripción de puestos de explotación Estación de Wampersdorf 
 Wampersdorf 
-47 Se utilizaron, salvo que se indique lo contrario, siempre las versiones de la normativa vigentes en el momento del suceso para la investigación. 
-
+47 Se utilizaron, salvo que se indique lo contrario, siempre las versiones de la normativa vigentes en el momento del suceso para la investigación.
 
 ## Página 131
+
 
 ### Índice de fuentes 
 Los datos del presente informe de investigación se han extraído de las siguientes fuentes (los números de identificación no tienen por qué ser necesariamente consecutivos): 
@@ -2437,10 +2469,10 @@ Normativa 50.02.07 Requisitos para PZB 90; 07.12.2022; IB
 Dictamen de ingeniería 24008.901.03 sobre la valoración 
 de las tasas de riesgo en la aproximación a un paso a nivel 
 y a un punto de peligro, teniendo en cuenta la normativa 
-pertinente así como sus medidas de seguridad bajo 
-
+pertinente así como sus medidas de seguridad bajo
 
 ## Página 132
+
 
 el punto de vista del estado de la técnica; 08.11.2024; CERSS 
 Kompetenzzentrum Bahnsicherungstechnik GmbH 
@@ -2495,10 +2527,10 @@ Correo electrónico sobre el conocimiento de la línea 10601 para Tfzf Z 7638;
 [48] 
 Conocimientos de la línea Tfzf Z 7638; 14.03.2025; EVU 
 [49] 
-Preguntas respondidas de la SUB; 08.09.2025; IB  
-
+Preguntas respondidas de la SUB; 08.09.2025; IB
 
 ## Página 133
+
 
 [50] 
 Informe de investigación del descarrilamiento del tren Z 7657 en la estación de Münchendorf el 
@@ -2553,10 +2585,10 @@ Preguntas respondidas de la SUB; 15.10.2025; IB
 [72] 
 Ulrich Maschek: Protección del tráfico ferroviario; Fundamentos y 
 planificación de la tecnología de mando y seguridad. Springer Vieweg, 4.ª edición; 
-2018  
-
+2018
 
 ## Página 134
+
 
 [73] 
 Extracto del EVR segundo tramo de tren; 18.02.2026; EVU 
@@ -2577,10 +2609,10 @@ Preguntas respondidas de la SUB; 04.03.2026; IB
 Notificación de sucesos extraordinarios (complementario a ZSB 26); 
 10.12.2025; EVU 
 [81] 
-Evaluación de datos de circulación Z 7624; 01.03.2026; EVU 
-
+Evaluación de datos de circulación Z 7624; 01.03.2026; EVU
 
 ## Página 135
+
 
 ### Siglas 
 Sig. 
@@ -2637,6 +2669,7 @@ Control de Trenes)
 
 ## Página 136
 
+
 EVR 
 Registro Europeo de Vehículos 
 EVU 
@@ -2692,10 +2725,10 @@ Enclavamiento de relés
 RW 
 Reglamento 
 SchiG 
-Sociedad de servicios de infraestructura ferroviaria 
-
+Sociedad de servicios de infraestructura ferroviaria
 
 ## Página 137
+
 
 SKT 
 Personal de servicio y de control 
@@ -2732,140 +2765,173 @@ Tren
 ZL 
 Director de tren 
 ZUB 
-Auxiliar de a bordo 
-
+Auxiliar de a bordo
 
 ## Página 138
 
 
+
 ## Página 139
 
-# Anexo 1 – Dictámenes 
-## Dictamen de Raab-Oedenburg-Ebenfurter Eisenbahn AG 
 
+# Anexo 1 – Dictámenes 
+## Dictamen de Raab-Oedenburg-Ebenfurter Eisenbahn AG
 
 ## Página 140
+
 
 
 ## Página 141
 
 
+
 ## Página 142
 
-## Dictamen de la Inspección de Trabajo y Transporte 
 
+## Dictamen de la Inspección de Trabajo y Transporte
 
 ## Página 143
+
 
 
 ## Página 144
 
 
+
 ## Página 145
+
 
 
 ## Página 146
 
 
+
 ## Página 147
+
 
 
 ## Página 148
 
 
+
 ## Página 149
+
 
 
 ## Página 150
 
 
+
 ## Página 151
+
 
 
 ## Página 152
 
 
+
 ## Página 153
+
 
 
 ## Página 154
 
 
+
 ## Página 155
+
 
 
 ## Página 156
 
 
+
 ## Página 157
+
 
 
 ## Página 158
 
 
+
 ## Página 159
+
 
 
 ## Página 160
 
 
+
 ## Página 161
+
 
 
 ## Página 162
 
-## Dictamen de ÖBB Personenverkehr AG 
 
+## Dictamen de ÖBB Personenverkehr AG
 
 ## Página 163
 
 
+
 ## Página 164
 
-## Dictamen de ÖBB Produktion GmbH 
 
+## Dictamen de ÖBB Produktion GmbH
 
 ## Página 165
 
 
+
 ## Página 166
 
-## Dictamen de ÖBB Infrastruktur AG 
 
+## Dictamen de ÖBB Infrastruktur AG
 
 ## Página 167
+
 
 
 ## Página 168
 
 
+
 ## Página 169
+
 
 
 ## Página 170
 
-## Dictamen de la Autoridad Ferroviaria Suprema 
 
+## Dictamen de la Autoridad Ferroviaria Suprema
 
 ## Página 171
+
 
 
 ## Página 172
 
 
+
 ## Página 173
+
 
 
 ## Página 174
 
 
+
 ## Página 175
+
 
 
 ## Página 176
 
 
+
 ## Página 177
+
 
 
 ## Página 178

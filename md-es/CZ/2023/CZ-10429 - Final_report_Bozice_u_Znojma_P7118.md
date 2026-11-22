@@ -10,13 +10,14 @@ chars: 100838
 ratio_longitud: 1.25
 tokens_in: 48387
 tokens_out: 33761
-verificacion: revisar
-notas_cifras: ["bloque 1: original bilingüe: se compara contra el idioma principal (EN)", "bloque 3: original bilingüe: se compara contra el idioma principal (CS)", "bloque 4: cifras cortas: 4/98", "bloque 5: cifras cortas: 3/161"]
-avisos: ["bloque 3: ratio 1.66"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 3: original bilingüe: se compara contra el idioma principal (CS)", "página 4: original bilingüe: se compara contra el idioma principal (CS)", "página 6: original bilingüe: se compara contra el idioma principal (CS)", "página 7: original bilingüe: se compara contra el idioma principal (CS)", "página 8: original bilingüe: se compara contra el idioma principal (EN)"]
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -41,13 +42,13 @@ IČ: 75009561
 mail@dicr.cz
 tel.: +420 736 521 003
 
-
 ## Página 2
+
 
 El presente informe final es público y todos los hechos en él expuestos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ### 1 RESUMEN
 Fuente: Drážní inspekce
@@ -77,10 +78,10 @@ Factor contribuyente:
 •
 empeoramiento de la visibilidad hacia el señal de advertencia del paso a nivel en el sentido de 
 circulación de la combinación de vehículos debido a la parada de otro camión con 
-remolque de caja en el arcén derecho de la vía de carretera a una distancia de 12,5 m 
-
+remolque de caja en el arcén derecho de la vía de carretera a una distancia de 12,5 m
 
 ## Página 4
+
 
 del paso a nivel (señal de tráfico A 32a «Cruz de advertencia para paso a nivel 
 de vía única» y señal de advertencia del paso a nivel) en combinación con la 
@@ -99,8 +100,8 @@ señales verticales de tráfico A 31c «Panel señalizador (80 m)» y A 29 «Pas
 barreras» de conformidad con las condiciones técnicas TP 169 Principios para la señalización de 
 situaciones de tráfico en las vías de carretera y TP 65 Principios para la señalización de tráfico en las vías de carretera.
 
-
 ## Página 5
+
 
 ### SUMMARY
 10th July 2023, 6:21 (4:21 GMT).
@@ -147,8 +148,8 @@ traffic signing A 31c „Signal board (80 m)” and A29 „Level crossing with b
 accordance with the technical conditions of TP 169 Principles for marking traffic 
 situations on roads and TP 65 Principles for road markings on roads.
 
-
 ## Página 6
+
 
 # Índice
 1 RESUMEN........................................................................................................................3
@@ -198,6 +199,7 @@ ferroviaria o de las instalaciones técnicas....................................
 
 ## Página 7
 
+
 4.2.2 Factores o consecuencias derivados de la instalación y puesta en servicio de vehículos ferroviarios, infraestructura ferroviaria o instalaciones técnicas.....................................29
 4.2.3 Factores o consecuencias relacionados con los fabricantes de vehículos ferroviarios u otro proveedor de productos ferroviarios...........................................................................29
 4.2.4 Factores o consecuencias derivados del mantenimiento y modificación de vehículos ferroviarios o instalaciones técnicas..................................................................................................29
@@ -227,8 +229,8 @@ y talleres de mantenimiento.....................................................
 6 RECOMENDACIONES DE SEGURIDAD...................................................................................36
 ANEXOS............................................................................................................................38
 
-
 ## Página 8
+
 
 ### Lista de siglas y símbolos utilizados
 COP
@@ -284,8 +286,8 @@ paso a nivel ferroviario
 žst.
 estación de ferrocarril
 
-
 ## Página 9
+
 
 ### Lista de siglas de los reglamentos legales, normas y normativas internas utilizados
 ley núm. 266/1994 Sb. 
@@ -343,44 +345,42 @@ Condiciones Técnicas del Ministerio de Transportes de la RCh 169
 públicas», en la redacción vigorosa en el momento de 
 producirse el suceso extraordinario
 
-
 ## Página 10
 
-### 2 INVESTIGACIÓN Y SU CONTEXTO
-### 2.1 Decisión de iniciar la investigación
-La DI decidió iniciar la investigación del suceso extraordinario objeto de este informe el 10. 7. 2023.
-### 2.2 Fundamentación de la decisión de iniciar la investigación
-La DI decidió investigar el suceso extraordinario objeto de este informe en función de las repercusiones del suceso extraordinario sobre la explotación segura de la infraestructura y del transporte ferroviario, de su gravedad y de su recurrencia, en virtud de la facultad que se deriva del apartado § 53b de la ley núm. 266/1994 Sb.
+### 2 INVESTIGACIÓN Y SUS RELACIONES
+### 2.1 Decisión sobre el inicio de la investigación
+El DI decidió iniciar la investigación de la MU en cuestión el 10. 7. 2023.
+### 2.2 Fundamentación de la decisión sobre el inicio de la investigación
+El DI decidió investigar la MU en cuestión sobre la base de los impactos del suceso ferroviario en la explotación segura de la vía y del transporte ferroviario, de su gravedad y de su repetitividad, en virtud de la autorización derivada de la disposición § 53b de la ley núm. 266/1994 Sb.
 ### 2.3 Alcance y limitaciones de la investigación, incluida la fundamentación correspondiente
-La DI no se encontró, en el marco de la investigación del suceso extraordinario objeto de este informe, con limitaciones que influyeran negativamente en el modo y los procedimientos de la investigación.
-### 2.4 Descripción general de las capacidades y funciones técnicas del equipo de investigación
-Investigación de la DI en el lugar del suceso extraordinario:
-3x inspector del ÚI Brno.
+El DI no se encontró, en el marco de la investigación de la MU en cuestión, con limitaciones que influyeran negativamente en el modo y los procedimientos de la investigación.
+### 2.4 Descripción resumida de las capacidades y funciones técnicas del equipo de investigación
+Investigación del DI en el lugar de la MU:
+3x inspector de la ÚI Brno.
 Constitución del equipo de investigación:
 no fue necesario constituirlo.
 Colaboración externa:
 no se utilizó.
-2.5 Comunicación y consultas durante la investigación con las personas o sujetos que participaron en el suceso
-En la investigación de las causas y circunstancias de producción del suceso extraordinario, la DI se basó principalmente en sus propios conocimientos, hallazgos y en su propia documentación fotográfica. Durante la investigación, la DI solicitó la documentación necesaria al gestor de la infraestructura, al transportista y a la PČR.
-La investigación de las causas y circunstancias de producción del suceso extraordinario se realizó de acuerdo con la ley núm. 266/1994 Sb. 
-y el decreto núm. 376/2006 Sb. 
-### 2.6 Descripción del nivel de colaboración ofrecido por los sujetos implicados
-El nivel de colaboración con los representantes de los sujetos implicados en el suceso extraordinario fue estándar.
-### 2.7 Descripción de la investigación, métodos y técnicas utilizados para acreditar los hechos y los hallazgos recogidos en el informe
-En el marco de la investigación del suceso extraordinario, la DI procedió de la siguiente manera, es decir, utilizó, entre otros, los siguientes métodos y técnicas:
+2.5 Comunicación y consultas durante la investigación con las personas o entidades que participaron en el suceso en cuestión
+En la investigación de las causas y circunstancias de la MU, el DI se basó principalmente en sus propios conocimientos, hallazgos y en su propia documentación fotográfica. Durante la investigación, el DI solicitó la documentación necesaria al explotador de la vía, al transportista y a la PČR.
+La investigación de las causas y circunstancias de la MU se realizó de acuerdo con la ley núm. 266/1994 Sb. y con el decreto núm. 376/2006 Sb.
+### 2.6 Descripción del nivel de colaboración ofrecido por las entidades participantes
+El nivel de colaboración con los representantes de las entidades participantes en la MU fue estándar.
+### 2.7 Descripción de la investigación, los métodos y las técnicas utilizados para acreditar los hechos y los hallazgos expuestos en el informe
+En el marco de la investigación de la MU, el DI procedió de la siguiente manera, es decir, utilizó, entre otros, los siguientes métodos y técnicas:
 •
-inspección del lugar del suceso extraordinario, incluidos los vehículos ferroviarios implicados, las instalaciones técnicas, la infraestructura ferroviaria y el NA;
+inspección del lugar del suceso ferroviario, incluidos los vehículos ferroviarios participantes, las instalaciones técnicas, la infraestructura de la vía y la NA;
 •
-participación en la inspección comisionada de los vehículos ferroviarios implicados;
+participación en la inspección comisionada de los vehículos ferroviarios participantes;
 •
-medición de las condiciones de visibilidad en el paso a nivel ferroviario;
+medición de las condiciones de visibilidad en el paso a nivel;
 •
-análisis de la documentación solicitada al gestor de la infraestructura, al transportista y a la PČR;
+análisis de la documentación solicitada al explotador de la vía, al transportista y a la PČR;
 •
-análisis de las grabaciones de cámara del NA y de la estación de servicio cercana al ŽP;
-
+análisis de las grabaciones de las cámaras de la NA y de la estación de servicio cercana al ŽP;
 
 ## Página 11
+
 
 •
 análisis de los datos registrados por el registrador de velocidad del vehículo ferroviario implicado;
@@ -412,8 +412,8 @@ Coordenadas GPS:
 ### 3.1.3 Descripción del lugar del suceso
 El paso a nivel ferroviario de vía única P7118 en el km 7,491 en la est. Božice u Znojma permite el cruce de la vía ferroviaria con la carretera de segunda clase núm. 397 en el término municipal de Božice. La línea ferroviaria no electrificada es de vía única en los tramos entre estaciones, el ŽP está protegido por una instalación de seguridad de paso a nivel luminosa sin barreras, categoría PZS 1SNI. La vía y la vía pública se cruzan con un ángulo de 73° (según los datos del gestor de la infraestructura). El propietario de la carretera adyacente de segunda clase núm. 397 es el Jihomoravský kraj y su gestión corresponde a la Správa a údržba silnic Jihomoravského kraje, zona oeste, centro de trabajo Lechovice. Antes del ŽP a la izquierda en el sentido de circulación del NA con remolque, se conectaba a la carretera de segunda clase núm. 397 una carretera de tercera clase núm. 3975, que conducía a la est. Božice u Znojma. Esta carretera también estaba bajo la gestión de la Správa a údržba silnic Jihomoravského kraje, zona oeste, centro de trabajo Lechovice.
 
-
 ## Página 12
+
 
 ## sentido de llegada del NA con 
 ## NA con remolque cerrado
@@ -448,6 +448,7 @@ los dos amortiguadores, el gancho de enganche, el tornillo y el arado del HDV en
 
 ## Página 13
 
+
 •
 el bogie delantero en el sentido de la marcha del tren estaba girado unos 80° a la derecha, descarrilado por ambos ejes, con la parte delantera fuera del perfil DV, incrustado en el balasto. Delante de la parte trasera del bogie, que sobresalía del perfil DV, se encontraba, en el espacio entre los raíles, en la aguja n.º 12, la rampa de acceso derecha arrancada del remolque de suelo bajo;
 •
@@ -473,57 +474,57 @@ en el sentido de la marcha del NA desde la localidad de Božice, delante del pas
 •
 la cruz de aviso y la caja lumínica del señal de aviso a la derecha eran visibles, en el momento de la inspección, desde el sentido de la marcha del NA con remolque a una distancia de más de Dz > 69 m, lo que es más que el valor requerido Dz = 20 m (para la caja del señal de aviso, incluidas ambas luces de aviso) para detener un vehículo rodante. Sin embargo, de la grabación de la cámara del NA con remolque se dedujo que, en el momento de la aparición de la MU, otro NA blanco con señalización en caja (además, un camión estacionado) se encontraba delante del paso a nivel a la derecha, pegado al arcén, que ocultaba significativamente la cruz de aviso y el señal de aviso, y acortaba considerablemente las longitudes de visibilidad hacia el señal de aviso en el sentido de la marcha del NA con remolque (véase la Fig. n.º 4 y para más detalles el cap. 3.1.9 y 4.3.5 ZZ);
 
-
 ## Página 14
 
 •
-la longitud de visibilidad para el vehículo rodante más lento en el caso de avería o desconexión del PZZ fue medida en el sentido de la marcha del NA hacia el tren Os 4505 en más de 60 m. Con Dp = 6,7 m y una velocidad de marcha del DV de 10 km·h-1 a través del paso a nivel, el valor Lp establecido es de 58 m;
+la distancia de visibilidad para el vehículo rodado más lento en caso de fallo o desconexión del PZZ fue medida, en el sentido de circulación NA hacia el tren Os 4505, superior a 60 m. Con Dp = 6,7 m y una velocidad de circulación DV de 10 km·h-1 a través del ŽP, el valor Lp queda establecido en 58 m;
 •
-a la izquierda delante del paso a nivel desde el punto de vista de la marcha del NA se encontraba el caseta de tecnología del PZZ, que por su ubicación no creaba un obstáculo en el campo visual. En la caseta de tecnología del PZZ se descargaron los datos de archivo del dispositivo de registro con el fin de su evaluación por parte de una persona cualificada del operador de la vía. Asimismo, se documentó el Registrador de averías del equipo de comunicaciones y de seguridad, el plan de mantenimiento y los protocolos de las mediciones en servicio;
+a la izquierda del ŽP desde el punto de vista de la circulación NA se encontraba el edificio de tecnología del PZZ, que por su ubicación no creaba un obstáculo en el campo de visión. En el edificio de tecnología del PZZ se descargaron los datos de archivo del dispositivo de registro con el fin de su evaluación por parte de una persona cualificada del explotador de la vía. Asimismo, se documentó el Registrador de averías del equipo de señalización y seguridad, el plan de mantenimiento y los protocolos de las mediciones en servicio;
 •
-la superficie de la carretera contigua al paso a nivel era de asfalto, la calzada del paso a nivel estaba formada por paneles de caucho-metal STRAIL. La anchura del paso a nivel era de 6 m, la anchura de la estructura del paso a nivel de 8,5 m y la anchura de la carretera antes y después del paso a nivel de 6,2 m. La calzada del paso a nivel era transitable sin limitaciones. En ambos lados del paso a nivel, en el eje de la vía, se situaban cuñas de protección y el estado de los canales para el flanco del DV se encontraba en estado y anchura satisfactorios;
+la superficie de la carretera contigua al ŽP era de asfalto, y la calzada del paso a nivel estaba formada por paneles de caucho-metal STRAIL. La anchura del ŽP era de 6 m, la anchura de la estructura del paso a nivel de 8,5 m y la anchura de la carretera antes y después del ŽP era de 6,2 m. La calzada del paso a nivel era transitable sin limitaciones. En ambos lados del ŽP se encontraban, en el eje de la vía, los calzos protectores, y el estado de los canales para el flanco DV se encontraba en estado y anchura satisfactorios;
 •
-la circulación del HDV en estado descarrilado dañó las traviesas y los tornillos de fijación tras el paso a nivel P7118 en el sentido de la marcha del tren hasta el primer juego de ruedas descarrilado. Se produjo una deformación direccional de la vía debido a la rotación del primer bogie y a la inclinación del HDV hacia la derecha. Al mismo tiempo, se dañaron también componentes del tendido de cables que discurre junto a la vía, y se dañó igualmente la aguja n.º 12.
-Fig. n.º 2: Visibilidad del paso a nivel desde una distancia de 72 m
+con la circulación del HDV en estado descarrilado se dañaron las traviesas y los tornillos de fijación tras el ŽP P7118 en el sentido de circulación del tren hasta el primer bogie descarrilado. Se produjo una deformación direccional de la vía debido a la rotación del primer bogie y a la inclinación del HDV hacia el lado derecho. Al mismo tiempo, se dañaron también los componentes del conducto de cables que discurre a lo largo de la vía, y asimismo se dañó la aguja n.º 12.
+Fig. n.º 2: Campo de visibilidad del ŽP desde una distancia de 72 m
     Fuente: DI
-
 
 ## Página 15
 
 Estado del NA con remolque:
 •
-el NA estaba formado por un tractocamión de la marca Volvo FH con un remolque de suelo bajo de tres ejes de la marca NOTEBOOM. El propietario del NA era ČSOB Leasing, a. s., el propietario del remolque eran Technické služby CZ s.r.o. En el remolque se transportaba la carga: un cargador de ruedas de la marca Liu Gong 856H;
+El NA estaba formado por un tractocamión de la marca Volvo FH con un remolque de tres ejes de suelo bajo de la marca NOTEBOOM acoplado. El propietario del NA era ČSOB Leasing, a. s., el propietario del remolque eran Technické služby CZ s.r.o. En el remolque había una carga: un cargador de ruedas de la marca Liu Gong 856H transportado;
 •
-el NA con remolque entró en el paso a nivel P7118 por la izquierda en el sentido de la marcha del tren; durante la MU, el tren Os 4505 impactó contra el extremo del lado derecho del remolque. Debido al impacto, el remolque fue lanzado contra la vallada del recinto de la empresa a la izquierda tras el paso a nivel (en el sentido de la marcha del NA), se produjo un daño en la valla y el descarrilamiento del HDV del tren Os 4505. El NA se detuvo a continuación a una distancia de 38 m tras el paso a nivel, en el eje del carril de la carretera destinado a la circulación en dirección al paso a nivel desde el lado opuesto;
+El NA con remolque entró en la vía P7118 por la izquierda en el sentido de circulación del tren, en el momento del accidente el tren Os 4505 impactó en el extremo derecho del remolque. Como consecuencia del impacto, el remolque fue lanzado contra la valla del recinto de la empresa situada a la izquierda de la vía (en el sentido de circulación del NA), se produjo daños en la valla y el NA del tren Os 4505 descarriló. El NA se detuvo a continuación a una distancia de 38 m de la vía, en el eje del carril de la carretera destinado a la circulación en dirección a la vía desde el sentido contrario;
 •
-debido al impacto, fue demolido asimismo el mástil con el señal de aviso, que se encontraba más adelante en el sentido de la marcha del NA a la izquierda junto al arcén; la caja lumínica del señal de aviso fue lanzada al recinto de la empresa tras la vallada a la izquierda tras el paso a nivel;
+como consecuencia del impacto, fue asimismo demolido el mástil con el semáforo, que se encontraba más adelante en el sentido de circulación del NA a la izquierda junto al arcén; la caja luminosa del semáforo fue lanzada al recinto de la empresa tras la valla a la izquierda de la vía;
 •
-se produjo un daño en la carga – el cargador de ruedas fijado al remolque de suelo bajo, que debido al impacto se salió por la parte trasera con la rueda derecha fuera de la superficie de carga del remolque (véase la Fig. n.º 3);
+se produjeron daños en la carga – el cargador de ruedas sujeto al remolque de suelo bajo, que a causa del golpe se deslizó con su parte trasera y la rueda derecha fuera de la superficie de carga del remolque (véase Fig. n.º 3);
 •
-se produjo el arranque de la rampa de acceso derecha del remolque, y la rampa de acceso izquierda quedó parcialmente abatida y dañada;
+se produjo el desprendimiento de la rampa de acceso derecha del remolque, y la rampa de acceso izquierda quedó parcialmente plegada y dañada;
 •
-en el parabrisas del NA con remolque se situaba una cámara que grababa el espacio delante del NA durante su circulación.
+en el parabrisas del NA con remolque había colocada una cámara que grababa el espacio situado delante del NA durante su circulación.
 Fig. n.º 3: Lugar de detención del NA con remolque, estado tras el impacto 
     Fuente: DI
 
-
 ## Página 16
 
-Fig. n.º 4: Visibilidad de la advertencia del PZZ desde la cámara situada en el parabrisas del NA con remolque
+Fig. n.º 4: Visibilidad de la advertencia PZZ desde la cámara situada en el parabrisas frontal del NA con señal luminosa
 Fuente: PČR
-Durante la MU no se produjo ninguna catástrofe ecológica ni fuga de fluidos de servicio.
+En el MU no se produjo catástrofe ecológica ni fuga de fluidos de servicio.
 Condiciones meteorológicas:
 despejado, + 20 °C, visibilidad no reducida.
 Datos geográficos:
-la vía férrea en el tramo del paso a nivel discurre en dirección recta, al nivel del terreno circundante, con una pendiente de -4,5 ‰.
-En el lugar de la MU no se realizaron, inmediatamente antes de su aparición, por parte del propietario, del operador de la vía ni de otros sujetos, ninguna obra de reparación o de mantenimiento. La circulación en el lugar de la MU y sus alrededores se desarrollaba en régimen normal.
-### 3.1.4 Fallecidos, heridos y daños materiales
-Durante la MU se produjo:
+la línea ferroviaria en el tramo ŽP discurre en dirección recta 
+a la cota del terreno circundante, con pendiente de -4,5 ‰.
+En el lugar del MU no se realizaron, inmediatamente antes de su producción, por parte del propietario, del gestor de la vía 
+ni de otros sujetos, trabajos de reparación o de mantenimiento. La circulación en el lugar del MU 
+y sus alrededores se desarrollaba en régimen normal.
+### 3.1.4 Fallecimientos, lesiones y daños materiales
+En el MU se produjo:
 •
-lesiones en el maquinista del tren Os 4505;
+daño en la salud del maquinista del tren Os 4505;
 •
-lesiones en 2 pasajeros del tren Os 4505.
-El operador de la vía y el transportista cuantificaron el daño en:
+daño en la salud de 2 viajeros en el tren Os 4505.
+El gestor de la vía y el transportista cuantificaron el daño en:
 •
 HDV (tren Os 4505)
 17 750 000 Kč;
@@ -536,12 +537,12 @@ puesta en servicio de la vía de circulación
 •
 medio ambiente
 0 Kč.
-Durante la MU, el daño causado en los vehículos ferroviarios, en los componentes de la vía y en el medio ambiente 
+En el MU, el daño causado en los vehículos ferroviarios, en los componentes de la vía y en el medio ambiente 
 ### se cuantificó en un total de 18 574 497 Kč.
-Durante la MU se produjo un daño en:
-
+En el MU se produjo daño en:
 
 ## Página 17
+
 
 •
 NA Volvo FH
@@ -581,8 +582,8 @@ El operador de la vía férrea, categoría regional, Břeclav – Znojmo, era S�
 El transportista del tren Os 4505 eran ČD, con domicilio en Nábřeží L. Svobody 1222, Praha 1, PSČ 110 15.
 El transporte ferroviario se explotaba en virtud de un contrato celebrado entre el operador de la vía SŽ y el transportista ČD el 29. 9. 2022, con efectos desde el 30. 9. 2022.
 
-
 ## Página 18
+
 
 ### 3.1.7 Descripción de los vehículos ferroviarios y de sus composiciones, incluidos los números de registro
 Tren:
@@ -647,6 +648,7 @@ reducción de la velocidad del tren a 40 km·h-1;
 
 ## Página 19
 
+
 •
 paso de la cabeza del tren Os 4505 por el punto de colisión a 40 km.h-1,
 6:21:28 h
@@ -662,8 +664,8 @@ En el tramo entre estaciones Hodonice – Božice u Znojma no se había instalad
 Las cruces de aviso y las cajas luminosas de los avisadores del PZZ en el sentido de circulación de la NA con remolque estaban situadas en la carretera de 2.ª clase n.º 397 de acuerdo con la norma ČSN 73 6380. La visibilidad de la cruz de aviso, de la caja luminosa del avisador y de la señalización luminosa de aviso en el sentido de circulación de la NA con remolque desde la localidad de Božice se constató en más de 20 m. La norma ČSN 73 6380 establece el valor mínimo de esta visibilidad para las vías de comunicación terrestre – carreteras, en función de su pendiente longitudinal, en 20 m. El valor de la pendiente de la PK en el sentido de circulación de la NA con remolque antes del PŽ era, según la documentación del explotador de la vía, del 1,5 %.
 El PŽ P7118 estaba protegido por un PZZ luminoso de categoría PZS 1SNI, tipo VÚD, sin barreras, sin señalización positiva, y estaba equipado con un dispositivo de registro. El PZZ se activa (en el sentido de circulación de los trenes desde la estación de Hodonice) automáticamente en función del funcionamiento del SZZ
 
-
 ## Página 20
+
 
 en la estación de Božice u Znojma, debido a la ocupación del circuito de vía para el lanzamiento automático de la advertencia. La interdependencia entre el PZZ y la señal mecánica del SZZ se realizó mediante un cierre electromagnético (EMZ-S) y un cierre de palanca de la palanca de la señal S (entrada desde la estación de Hodonice).
 El PŽ P7118 dispone de un Certificado de idoneidad del dispositivo técnico designado – dispositivo de seguridad, cuyos circuitos eléctricos cumplen la función de garantía directa de la seguridad del transporte ferroviario, n.º de expediente: PZ 7649/96-E.43, emitido por el DÚ el 17 de diciembre de 1996, con vigencia por tiempo indefinido.
@@ -693,35 +695,34 @@ maquinista del tren Os 4505
 ◦el 10 de julio de 2023 conducía el tren Os 4505 y en el PŽ de la estación de Božice u Znojma se produjo una colisión con una NA (nota DI: NA con remolque). No recuerda la colisión;
 ◦no recibió ninguna orden para el tren Os 4505. No comunicó el origen de la MU debido a sus lesiones tras el origen de la MU. El origen de la MU lo comunicó el jefe de tren.
 
-
 ## Página 21
 
 •
-jefe de tren del tren Os 4505
+maquinista del tren Os 4505
   – Acta con el empleado:
-◦el 10 de julio de 2023 conducía el tren Os 4505 desde la estación de Znojmo hasta la estación de Břeclav. Al entrar en la estación de Božice u Znojma se produjo una colisión con un tractor (nota DI: NA con remolque);
-◦la colisión fue tan violenta que se produjo el descarrilamiento del tren. Antes del origen de la MU se encontraba en la parte trasera de la HDV 854.002-3 y escuchó el sonido del PŽ;
-◦tras la detención del tren, en su camino hacia la cabina del maquinista, comprobó el estado de los pasajeros (todos estaban bien). Antes de llegar a la cabina del maquinista, que estaba completamente destrozada, ya le estaban ayudando al maquinista herido las personas que esperaban en el andén a la llegada del tren. Estas personas también activaron el IZS;
-◦tras comprobar el estado (las lesiones) del maquinista, comunicó el origen de la MU al despachante regional, se dirigió al segundo DV del tren, desbloqueó las puertas para los pasajeros y también apagó todos los interruptores de toda la unidad del tren;
-◦continuó después con su turno.
+◦el 10. 7. 2023 conducía el tren Os 4505 desde la est. Znojmo hasta la est. Břeclav. Al entrar en la est. Božice u Znojma se produjo una colisión con un tractomóvil (nota DI: NA con remolque);
+◦la colisión fue tan violenta que se produjo el descarrilamiento del tren. Antes de producirse el MU se encontraba en la parte trasera del HDV 854.002-3 y escuchó el sonido de la PZZ;
+◦tras detener el tren, en su camino hacia el puesto de conducción, comprobó el estado de los pasajeros (todos estaban bien). Antes de llegar al puesto de conducción, que estaba completamente destruido, ya estaban ayudando al maquinista herido personas que esperaban en el andén la llegada del tren. Estas personas también activaron el IZS;
+◦tras comprobar el estado (las heridas) del maquinista, comunicó la aparición del MU al despachista regional, se dirigió al segundo DV del tren, desbloqueó las puertas para los pasajeros y también apagó todos los interruptores de todo el conjunto del tren;
+◦a continuación, continuó con su turno.
 •
-jefe de estación de la estación de Božice u Znojma
+jefe de estación de la est. Božice u Znojma
   – Acta con el empleado:
-◦el turno transcurrió de forma estándar. Tras acordar la circulación del tren Os 4505, realizó la preparación de la ruta de tren para la entrada del tren en la estación, incluida la operación del paso a nivel P7118. La señalización del estado del PŽ indicaba un estado sin averías;
-◦a continuación salió al andén delante del edificio de estación y esperaba la entrada del tren Os 4505, mientras escuchaba el sonido del estado de advertencia del PŽ;
-◦observaba la circulación del tren y de repente entró en el PŽ por la derecha una NA con una pala cargada (nota DI: NA con remolque con carga de una cargadora de ruedas). Se produjo una colisión, se oyó un fuerte golpe y el tren Os 4505 descarriló;
-◦a continuación procedió según el horario de comunicaciones.
-Resumen de las explicaciones facilitadas por otras personas implicadas:
+◦el turno transcurría de forma estándar. Tras acordar la circulación del tren Os 4505, realizó la preparación de la vía para el tren, incluida la operación del paso a nivel P7118. La señalización del estado de la PZZ indicaba un estado sin averías;
+◦a continuación, salió al andén delante del edificio de estación y esperaba la entrada del tren Os 4505, mientras escuchaba el sonido del estado de alerta de la PZZ;
+◦observaba la circulación del tren y de repente entró en el ŽP por la derecha un NA con un excavador cargado (nota DI: NA con remolque con carga de un cargador de ruedas). Se produjo una colisión, se oyó un fuerte estruendo y el tren Os 4505 descarriló;
+◦a continuación, procedió según el horario de comunicaciones.
+Resumen de las explicaciones presentadas por otras personas implicadas:
 •
-conductor de la NA implicado en la MU
-  – Registro oficial de la explicación facilitada a la PČR:
-◦era titular del permiso de conducir para la conducción de vehículos a motor en los grupos AM, A1, A2, A, B1, B, C1, C, D1, D, BE, C1E, CE, D1E, DE y T. Tiene experiencia en la conducción de unidades de circulación de vehículos de carga desde el año 2012. No tiene ninguna limitación de salud para conducir vehículos a motor;
-◦ese día circulaba con la unidad de vehículos desde Božice, en dirección a la localidad de Hrádek. Al acercarse al PŽ, delante de él había un camión junto a la carretera en el lado derecho. Puso el intermitente para adelantarlo, para que no le alcanzara la cuchara de la cargadora (nota DI: cargadora de ruedas cargada en el remolque);
-◦cuando, al adelantarlo, se encontró delante del camión, miró a la derecha antes del PŽ, momento en el que no se percató de que el PŽ estaba en advertencia y parpadeaba con luces rojas. No vio ningún tren. Luego miró a la izquierda, y tampoco vio ningún tren. Concluyó que podía pasar y cruzó el PŽ. En cuanto lo cruzó, a los unos 3 – 4 s se produjo el golpe de la colisión y se dio cuenta de que circulaba un tren;
-◦no oyó el sonido de la campana del PŽ, ya que tenía las ventanas cerradas en la NA. Tras la colisión bajó inmediatamente y caminó con paso rápido hacia el tren para comprobar si a alguien le había ocurrido algo, si todos estaban bien;
-
+conductor del NA, implicado en el MU
+  – Registro oficial de la explicación presentada ante la PČR:
+◦era titular del permiso de conducir para la conducción de vehículos a motor en los grupos AM, A1, A2, A, B1, B, C1, C, D1, D, BE, C1E, CE, D1E, DE y T. Tiene experiencia en la conducción de conjuntos de vehículos de carga desde el año 2012. No tiene ninguna limitación de salud para la conducción de vehículos a motor;
+◦ese día circulaba con un conjunto de vehículos desde Božic, en dirección a la localidad de Hrádek. Al acercarse al ŽP, delante de él había un camión junto a la carretera en el lado derecho. Puso el intermitente para adelantarlo, para que no le alcanzara la cuchara del cargador (nota DI: cargador de ruedas cargado en el remolque);
+◦cuando, al adelantarlo, se encontró delante del camión, miró a la derecha delante del ŽP, momento en el que no se percató de que el ŽP estaba en alerta y parpadeaba con luces rojas. No vio el tren. Luego miró a la izquierda, allí tampoco vio ningún tren. Concluyó que podía circular y pasó el ŽP. Al pasarlo, a los unos 3 – 4 s se produjo un estruendo por la colisión y se dio cuenta de que circulaba un tren;
+◦no escuchó el sonido de la campana del ŽP, ya que tenía las ventanas cerradas en el NA. Tras la colisión, bajó inmediatamente y caminó rápidamente hacia el tren para comprobar si a alguien le había pasado algo, si todos estaban bien;
 
 ## Página 22
+
 
 ◦cuando llegó al tren, el maquinista ya estaba fuera y había a su lado algunas personas que le estaban atendiendo. Otras personas llamaron a la ambulancia y, a continuación, llegó la ambulancia, cuya tripulación se ocupó del maquinista;
 ◦a continuación llegaron también los bomberos y la PČR. Con la PČR resolvió las cuestiones relativas a la investigación del accidente de tráfico. Los bomberos enviaron al lugar, mientras tanto, una grúa con la que la cargadora fue devuelta al remolque. Tras finalizar la investigación del accidente de tráfico, abandonó el lugar con la NA con remolque y se dirigió a la cantera de Křídlůvky;
@@ -739,6 +740,7 @@ conductor de la NA implicado en la MU
 ◦a la pregunta de si conocía el lugar del accidente de tráfico y, en caso afirmativo, cuántas veces había pasado por allí antes, indicó que había ido allí unas 5 veces;
 
 ## Página 23
+
 
 ◦a la pregunta de en qué ve la causa del accidente ferroviario y quién cree que lo causó, declaró que lo causó él mismo, debido a la circulación por el PFE. No se percató de las luces de advertencia del PFE, ya que se concentraba en que la pala cargadora (nota DI: cargadora de ruedas sobre NA con remolque) no golpeara el camión estacionado.
 En la NA se había colocado detrás del parabrisas una cámara (tipo 70Mai M300, según la marca de producto en la grabación) que filmaba el espacio en la dirección de circulación de la NA con remolque. En la grabación figuraba una fecha coincidente con el día del suceso y, al mismo tiempo, en la grabación se mostraba también una marca temporal; el tiempo estaba retrasado en 53 s respecto al registro del dispositivo de registro del PFE. Mediante el análisis de los datos de la grabación de la cámara se constató (datos indicados con corrección de tiempo):
@@ -770,8 +772,8 @@ Tras el PFE P7118, a la derecha en la dirección de circulación de la NA con re
 •
 6:21:32 h la NA con remolque se detuvo en el carril contrario de la carretera tras el PFE. Además, en la grabación se observa una nube de polvo, tras el lanzamiento del remolque (tras la colisión con el tren Os 4505) fuera de la carretera;
 
-
 ## Página 24
+
 
 •
 6:25:00 h tras disiparse la nube de polvo, que avanza en dirección a la cámara, el conductor de la NA con remolque cerró las puertas abiertas en el lado del conductor. Cuándo abrió estas puertas y bajó no se deduce de la grabación.
@@ -794,54 +796,53 @@ Del registro del tacógrafo y también de la grabación de la cámara instalada 
 ### 3.2.1 Secuencia de hechos que condujeron al suceso excepcional
 El 10 de julio de 2023 a las 6:13:44 h partió de la estación de Hodonice el tren Os 4505 hacia la vía de tráfico en dirección a la estación de Božice u Znojma. La NA con remolque con una cargadora de ruedas cargada circulaba por la carretera de II clase n.º 397 desde la localidad de Božice en dirección al PFE P7118. Antes del PFE, el conductor rodeaba el camión estacionado con las luces de advertencia encendidas, que estaba estacionado en la intersección a la derecha junto al arcén. Del análisis de los datos de diagnóstico del dispositivo de registro del PFE se constató que el tren Os 4505 activó a las 6:20:59 h la alarma del APN en el PFE P7118. La NA con remolque, al circular hacia el PFE, lo hacía a una velocidad superior a 50 km·h-1 y no reducía la velocidad ni a una distancia de 30 m antes del PFE; después, tras rodear el camión estacionado, no se detuvo y continuó circulando a pesar de la alarma luminosa y sonora del APN en funcionamiento. Al cruzar el PFE se produjo la colisión del tren Os 4505 con la parte trasera del remolque de plataforma baja. A consecuencia de la colisión, el rodadura motriz descarriló con ambos ejes a la derecha en la dirección de circulación y, en estado descarrilado, recorrió todavía 69 m. El remolque de plataforma baja fue, a causa del impacto, lanzado a la izquierda fuera de la vía en dirección a la valla del recinto de la empresa Land-product a.s., produciéndose primero la destrucción del semáforo del PFE en el lado opuesto y, además, el daño en la valla. Por el impacto también se dañó la carga – la cargadora de ruedas, cargada sobre el remolque – y se arrancó la rampa de acceso derecha del remolque, que después el tren Os 4505 empujó con su bogie descarrilado desalineado
 
-
 ## Página 25
 
-por delante de sí hasta el lugar de detención. La NA con remolque se detuvo a 38 m del PFE. En el suceso resultaron heridos el maquinista y dos pasajeros en el tren Os 4505.
-### 3.2.2 Secuencia de hechos desde el suceso hasta la finalización de las acciones de los servicios de emergencia
+con el vagón de plataforma delante hasta el lugar de parada. NA con remolque se detuvo a 38 m de la ŽP. En el MU resultaron lesionados el maquinista y dos pasajeros del tren Os 4505.
+### 3.2.2 Secuencia de hechos desde la producción del suceso extraordinario hasta la finalización de las acciones de los servicios de emergencia
 •
 6:21 h
-suceso; tras la detención del tren Os 4505, se realizó la evacuación de los pasajeros del tren por parte del jefe de tren;
+producción del MU, tras la parada del tren Os 4505 se procedió a la evacuación de los pasajeros del DV por parte del jefe de tren;
 •
 6:21 h
-activación de los componentes del SAE por el jefe de estación de Božice u Znojma;
+activación de los componentes del IZS por el jefe de estación de Božice u Znojma;
 •
 6:26 h
-comunicación del suceso por el jefe de estación de Božice u Znojma según el horario de comunicación;
+notificación de la producción del MU por el jefe de estación de Božice u Znojma conforme al calendario de notificaciones;
 •
 6:28 h
-comunicación del suceso por el jefe de estación de Božice u Znojma al jefe de despachador del Centro de Despacho Central de Přerov;
+notificación de la producción del MU por el jefe de estación de Božice u Znojma al jefe de despacho del Centro de Despacho Central de Přerov;
 •
 6:51 h
-notificación del suceso por la persona autorizada O18 de SŽ al COP de la DI;
+comunicación de la producción del MU por la persona autorizada O18 de SŽ en el COP DI;
 •
 8:00 h
-inspección del lugar del suceso por empleados de la DI, SŽ, ČD y PČR;
+inspección del lugar de producción del MU por empleados de DI, SŽ, ČD y PČR;
 •
-10:05 h concesión de la autorización para la liberación de la vía por el inspector de la DI presente;
-11 de julio de 2023:
+10:05 h concesión del permiso para la liberación de la vía por el inspector de DI presente;
+11. 7. 2023:
 •
-14:45 h reanudación de la circulación con limitación de velocidad al cruzar la aguja n.º 12;
-12 de julio de 2023:
+14:45 h reanudación de la circulación con limitación de velocidad al pasar por el desvío n.º 12;
+12. 7. 2023:
 •
 14:50 h reanudación de la circulación sin limitaciones.
-El Plan del SAE fue activado en función de la naturaleza del suceso. El Plan del SAE lo activó a las 6:21 h, es decir, inmediatamente después del suceso, el jefe de estación de Božice u Znojma. El SAE fue también activado inmediatamente por los pasajeros que esperaban en la estación de Božice u Znojma el tren Os 4505.
-En el lugar del suceso intervinieron los siguientes componentes del SAE:
+El Plan IZS fue activado en función del carácter del MU. El Plan IZS fue activado a las 6:21 h, es decir, inmediatamente después de la producción del MU, por el jefe de estación de Božice u Znojma. El IZS fue también activado inmediatamente por los pasajeros que esperaban en la estación de Božice u Znojma el tren Os 4505.
+En el lugar del MU intervinieron los siguientes componentes del IZS:
 •
-PČR, Inspección de Tráfico de Znojmo;
+PČR, Inspección de Transporte de Znojmo;
 •
-Servicio de Emergencias Sanitarias de la Región de Moravia del Sur, base de salida de Znojmo;
+Servicio de Emergencia Sanitaria del Región de Moravia del Sur, base de salida de Znojmo;
 •
-HZS de SŽ, Unidad de Protección contra Incendios de Brno;
+HZS de SŽ, Unidad de Protección Contra Incendios de Brno;
 •
 HZS de la Región de Moravia del Sur.
 ### 4 ANÁLISIS DEL SUCESO
-### 4.1 Funciones y obligaciones
-### 4.1.1 Transportistas y gestores de la vía
-El cruce de la vía con la vía de comunicación terrestre a nivel de los raíles debe estar señalizado y protegido. En el cruce de la vía férrea con la vía de comunicación terrestre a nivel de los raíles, el transporte ferroviario tiene prioridad sobre la circulación en la vía de comunicación terrestre. El gestor de la vía tiene, entre otras, la obligación de señalizar el cruce de una vía férrea de vía única con la vía de comunicación terrestre a nivel de los raíles con la señal de tráfico vertical A 32a «Cruz de advertencia para paso a nivel de vía única». El cruz de advertencia se coloca en el borde derecho de la vía de comunicación terrestre (acera) en la dirección de circulación de los vehículos de manera que ninguna parte del cruz de advertencia esté a menos de 4 m del eje del raíl exterior.
-
+### 4.1 Tareas y obligaciones
+### 4.1.1 Transportistas y gestores de vías
+El cruce de la vía con la carretera a nivel de las vías debe estar señalizado y protegido. En el cruce de la vía férrea con la PK a nivel de las vías, el transporte ferroviario tiene prioridad sobre la circulación en la PK. El gestor de la vía tiene, entre otras, la obligación de señalizar el cruce de una vía férrea de vía única con la carretera a nivel de las vías mediante la señal vertical de tráfico A 32a «Cruz de aviso para paso a nivel de vía única». La cruz de aviso se coloca en el borde derecho de la PK (acera) en el sentido de circulación de los vehículos de manera que ninguna parte de la cruz de aviso se encuentre a menos de 4 m del eje de la vía exterior.
 
 ## Página 26
+
 
 Los pasos a nivel con velocidad de tráfico superior a 60 km·h-1 o con un valor de momento de tráfico que supere los 10 000 se protegen con un dispositivo de señalización luminoso de paso a nivel, que debe advertir a los usuarios de la vía de comunicación terrestre con la antelación suficiente de que un tren o un vehículo ferroviario se aproxima al PFE, mediante una luz roja intermitente y una señal sonora intermitente. La ejecución y ubicación de los semáforos debe corresponder a las normas ČSN 73 6380 y ČSN 34 2650 ed. 2 y los semáforos deben estar complementados con una placa con el aviso «ATENCIÓN TREN».
 Para el conductor de un vehículo terrestre debe garantizarse la visibilidad al semáforo del PFE a una longitud tal que el conductor pueda detenerse de forma fiable antes del PFE, es decir, a la longitud de parada Dz. Además, en caso de avería o desconexión del APN, debe garantizarse la longitud de visibilidad para el vehículo terrestre más lento Lp hacia el vehículo ferroviario desde una distancia de 4 m del eje del raíl. En dicho caso, el vehículo ferroviario tiene la obligación de circular a una velocidad de hasta 10 km·h-1.
@@ -856,6 +857,7 @@ La autoridad nacional de seguridad es la DÚ, que de acuerdo con la Ley n.º 266
 La función de la Agencia de la Unión Europea para los Ferrocarriles es, además de garantizar, en el marco de sus competencias, que se mantenga y, si es posible, se aumente de forma sistemática la seguridad de los ferrocarriles, entre otras, la emisión, renovación, suspensión y modificación de certificados únicos de seguridad, la limitación de su vigencia o su anulación, en cuestión en la que coopera con las autoridades nacionales de seguridad; además, emite autorizaciones para la puesta en
 
 ## Página 27
+
 
 de vehículos ferroviarios y de tipos de vehículos al mercado y está facultada para renovar, modificar, suspender o retirar los permisos que haya emitido. La Agencia evalúa además las propuestas de normativa nacional, etc.
 En la investigación no se detectó incumplimiento de las funciones y obligaciones del organismo nacional de seguridad y de la Agencia Ferroviaria de la Unión Europea.
@@ -879,24 +881,23 @@ En la investigación se detectó el incumplimiento de la normativa relativa a la
 § 28, apartado 3, de la Ley n.º 361/2000 Sb.:
 «A una distancia de 50 m antes de un paso a nivel y durante su cruce, el conductor puede circular a una velocidad máxima de 30 km.h-1. Si brilla la luz blanca intermitente del dispositivo de enclavamiento del paso a nivel, puede circular a una velocidad máxima de 50 km.h-1 a 50 m antes del paso a nivel y durante su
 
-
 ## Página 28
 
-cruce. Al cruzar un paso a nivel, el conductor no debe prolongar innecesariamente el tiempo de cruce.»;
+cruzar a una velocidad máxima de 50 km.h-1. Al cruzar un paso a nivel, el conductor no debe prolongar innecesariamente el tiempo de cruce.«;
 •
-§ 29, apartado 1, letra a), de la Ley n.º 361/2000 Sb.:
-«El conductor no debe entrar en un paso a nivel si se emite la advertencia con dos luces rojas intermitentes alternas de la señal del dispositivo de enclavamiento del paso a nivel, ...»;
+§ 29 apartado 1 letra a) de la Ley núm. 361/2000 Sb.:
+«El conductor no debe entrar en un paso a nivel si se emite la advertencia con dos luces rojas intermitentes alternas de la señalización del dispositivo de seguridad del paso a nivel, ...»;
 •
-§ 29, apartado 1, letra b), de la Ley n.º 361/2000 Sb.:
-«El conductor no debe entrar en un paso a nivel si se emite la advertencia con el sonido intermitente de la sirena o campana del dispositivo de enclavamiento del paso a nivel, ...».
-El gestor de la carretera tiene la obligación de colocar antes del paso a nivel la señalización vial A 30 (paso a nivel sin barreras) y, según la situación, antes del paso a nivel las señales indicativas n.º A 31a (señal indicativa 240 m), n.º A 31b (señal indicativa 160 m) y n.º A 31c (señal indicativa 80 m) a las distancias indicadas. El problema es que la colocación de las señales indicativas y la visibilidad de las señales de tráfico no están establecidas con carácter jurídicamente vinculante. La forma de colocación de las señales indicativas la establece el decreto n.º 294/2015 Sb., no obstante, este no establece la obligación de colocar señales indicativas. Las condiciones de colocación de las señales indicativas las regulan más concretamente las TP 65 y TP 169. Sin embargo, las condiciones técnicas son en general no vinculantes, y esto también se aplica a este caso. Del mismo modo, la visibilidad de las señales de tráfico se regula en el § 2 del decreto n.º 294/2015 Sb., que establece únicamente de forma general: «Las señales de tráfico verticales se colocarán de manera que sean visibles con antelación y desde una distancia suficiente para los usuarios del tráfico en las carreteras para las que están destinadas.». Los valores concretos de visibilidad mínima los establece el art. 7.4 de las TP 65, y por tanto se trata nuevamente solo de condiciones técnicas no vinculantes jurídicamente.
-Un presupuesto fundamental para el cumplimiento de las obligaciones del conductor antes del paso a nivel es que el conductor detecte con suficiente antelación que se aproxima al paso a nivel. Para ello sirven las señales de tráfico A 31a, A 31b y A 31c «Señal indicativa», o en su defecto la suficiente visibilidad de la señal de tráfico A 32 «Cruz de advertencia para paso a nivel».
-A una distancia de 30 m antes del paso a nivel en el sentido de circulación del NA con remolque, se unía desde la izquierda a la carretera de clase II n.º 397 una carretera de clase III n.º 3975, que tiene una longitud de construcción de solo 0,303 m. Esta carretera proviene de la est. Božice u Znojma y el hecho de que al girar a la izquierda se encuentre en la carretera de clase II un paso a nivel, el conductor lo detecta solo al mirar a la izquierda hacia la cruz de advertencia y la caja luminosa del avisador. En este giro en una intersección muy amplia, puede encontrarse en el punto límite de visibilidad del avisador, es decir, a una distancia Dz = 20 m. En la carretera de clase III n.º 3975 no había, en el sentido de circulación desde esta carretera para el caso de giro a la izquierda, colocada ninguna señalización vial que informara al conductor de la circulación en dirección al paso a nivel P7118.
-La última señalización vial vertical antes del paso a nivel en el sentido de circulación del NA con remolque colocada en la carretera de clase II n.º 397, la señal indicativa n.º A 31c a una distancia de 69 m (izquierda y derecha), no fue colocada a la distancia prescrita de 80 m. Las señales indicativas n.º A 31a (señal indicativa 240 m), n.º A 31b (señal indicativa 160 m) fueron colocadas a la distancia requerida. Tras el paso a nivel, por el otro lado, las señales indicativas n.º A 31a, A 31b y A 31c fueron colocadas a la distancia requerida.
-Los hallazgos indicados relacionados con la colocación de la señalización vial no guardaban relación causal con la aparición del MU.
-
+§ 29 apartado 1 letra b) de la Ley núm. 361/2000 Sb.:
+«El conductor no debe entrar en un paso a nivel si se emite la advertencia con sonido intermitente de la bocina o de la campana del dispositivo de seguridad del paso a nivel, …».
+El gestor de la vía tiene la obligación de colocar antes del PL la señalización de tráfico A 30 (paso a nivel sin barreras) y, según la situación, antes del PL las placas señalizadoras n.º A 31a (placa señalizadora 240 m), n.º A 31b (placa señalizadora 160 m) y n.º A 31c (placa señalizadora 80 m) a las distancias indicadas. El problema es que la colocación de las placas señalizadoras y la visibilidad de las señales de tráfico no están establecidas con carácter jurídicamente vinculante. La forma de colocación de las placas señalizadoras la establece el decreto núm. 294/2015 Sb., sin embargo, este no establece la obligación de colocar placas señalizadoras. Más concretamente, las condiciones de colocación de las placas señalizadoras las regulan las TP 65 y TP 169. No obstante, las condiciones técnicas son en general no vinculantes, y esto también se aplica a este caso. Asimismo, la visibilidad de las señales de tráfico se regula en el § 2 del decreto núm. 294/2015 Sb., que establece únicamente de forma general: «Las señales de tráfico verticales se colocarán de manera que sean visibles con antelación y a distancia suficiente para los usuarios de la vía pública para los que están destinadas.». Los valores concretos de visibilidad mínima los establece el art. 7.4 de las TP 65, y por tanto se trata nuevamente únicamente de condiciones técnicas no vinculantes jurídicamente.
+Un presupuesto fundamental para el cumplimiento de las obligaciones del conductor antes del PL es que el conductor detecte con suficiente antelación que se aproxima al PL. Para ello sirven las señales de tráfico A 31a, A 31b y A 31c «Placa señalizadora», o en su defecto la suficiente visibilidad de la señal de tráfico A 32 «Cruz de advertencia para paso a nivel».
+A una distancia de 30 m antes del PL en el sentido de circulación NA con remolque, desde la izquierda se unía a la carretera de clase II n.º 397 una carretera de clase III n.º 3975, que tiene una longitud de construcción de solo 0,303 m. Esta carretera parte de la estación de Božice u Znojma y el hecho de que al girar a la izquierda se encuentre un PL en la carretera de clase II lo detecta el conductor solo al mirar a la izquierda hacia la cruz de advertencia y la caja luminosa del semáforo de advertencia. En este giro en una intersección muy amplia puede encontrarse en el límite de visibilidad del semáforo de advertencia, es decir, a una distancia Dz = 20 m. En la carretera de clase III n.º 3975 no se había colocado, en el sentido de circulación desde dicha carretera para el caso de giro a la izquierda, ninguna señalización de tráfico que informara al conductor de la circulación en dirección al PL P7118.
+La última señalización vertical antes del PL en el sentido de circulación NA con remolque, colocada en la carretera de clase II n.º 397, la placa señalizadora n.º A 31c a una distancia de 69 m (izquierda y derecha), no se había colocado a la distancia prescrita de 80 m. Las placas señalizadoras n.º A 31a (placa señalizadora 240 m), n.º A 31b (placa señalizadora 160 m) se habían colocado a la distancia requerida. Del otro lado, detrás del PL, las placas señalizadoras n.º A 31a, A 31b y A 31c se habían colocado a la distancia requerida.
+Los hallazgos indicados relacionados con la colocación de la señalización de tráfico no guardaban relación causal con la aparición del MU.
 
 ## Página 29
+
 
 ### Hallazgos:
 En la investigación se detectó el incumplimiento de la normativa y de las normas técnicas relativas a las funciones y obligaciones de los gestores de las carreteras afectadas, fuera
@@ -920,8 +921,8 @@ En la investigación no se detectaron factores relacionados con el fabricante de
 ### 4.2.4 Factores o consecuencias derivados del mantenimiento y la modificación de los vehículos ferroviarios o de las instalaciones técnicas
 En la investigación no se detectaron factores derivados del mantenimiento y la modificación de los vehículos ferroviarios o de las instalaciones técnicas.
 
-
 ## Página 30
+
 
 ### 4.2.5 Factores o consecuencias relacionados con el organismo responsable del mantenimiento de los vehículos ferroviarios, los talleres de mantenimiento y otros prestadores de servicios de mantenimiento
 En la investigación no se detectaron factores relacionados con el organismo responsable del mantenimiento de los vehículos ferroviarios, los talleres de mantenimiento y otros prestadores de servicios de mantenimiento.
@@ -942,6 +943,7 @@ El conductor del NA con remolque fue advertido de la circulación en dirección 
 
 ## Página 31
 
+
 con un fondo retroreflectante fluorescente amarilloverde, situados a la derecha. La señalización de tráfico cumplía con las normas de circulación para la circulación en las vías públicas. La señalización de tráfico en el sentido de marcha NA con remolque estaba, en el momento del examen, inmediatamente después de la creación de la MU, sin daños y bien visible; en las imágenes de la grabación de la cámara de la estación de servicio adyacente también se podía ver la señalización de tráfico A32a «Cruz de advertencia para paso a nivel de vía única» y las luces de los semáforos en el lado opuesto del P7118, antes de su destrucción por el remolque durante la MU.
 Fig. n.º 5: Camión estacionado a la derecha del P7118 P7118 durante la marcha NA con remolque hacia el P7118, el tren Os 4505 aparece entre los árboles a la derecha
                           Fuente: PČR
@@ -949,78 +951,103 @@ DI realizó una verificación de la visibilidad de las cruces de advertencia, de
 ### de tráfico o una señal horizontal de tráfico «Flechas direccionales» o «Inscripción en la calzada». La investigación determinó que el camión estacionado estaba con el frontal a una distancia de 12,5 m del paso a nivel (señales de tráfico A 32a «Cruz de advertencia para paso a nivel de vía única» y semáforo – situación antes de la MU, véase Fig. n.º 5), y durante mucho tiempo los ocultó en el momento en que el NA con remolque se acercaba al P7118, hasta el momento en que el NA con remolque rodeaba el camión estacionado (véase Fig. n.º 4).
 La advertencia PZZ emitida mediante dos luces rojas intermitentes alternas y la señal de tráfico A 32a «Cruz de advertencia para paso a nivel de vía única» delante del P7118 P7118 eran plenamente visibles y fiablemente reconocibles desde una distancia de 20 m (determinado en el eje del carril de circulación PK), la longitud de visibilidad requerida hacia las cruces de advertencia, respectivamente, las cajas de luz de los semáforos, para PK – carretera de clase II es, según la ČSN 73 6380, establecida como mínimo en 20 m. La distancia de 20 m mencionada anteriormente y, al mismo tiempo, el tiempo durante el cual las VK y la advertencia eran visibles, se relacionaron, en función de la protección del P7118, con la velocidad máxima permitida para el vehículo por carretera antes del P7118 (en este caso era de 30 km.h-1). Debido a la desviación parcial del NA con remolque al carril contiguo al rodear el camión estacionado, esta distancia era de unos 25 m para el conductor que estaba sentado a la izquierda en el NA con remolque.
 
-
 ## Página 32
 
-### Hallazgos:
-La investigación determinó una infracción de la normativa legal relativa a las funciones y obligaciones del usuario de la vía pública – el conductor del camión estacionado con remolque de caja,
-v   como factor contribuyente
+### Constatación:
+En la investigación se constató la infracción de la normativa relativa a las funciones y obligaciones del usuario 
+de la vía pública – el conductor del camión estacionado con remolque de caja,
+en   el factor contribuyente
 ##   MU:
 •
-§ 27 apartado 1 letra g) de la Ley n.º 361/2000 Sb.:
-«El conductor no debe detenerse y estacionarse
-en el paso a nivel, en un paso inferior y en un túnel, y a una distancia inferior a 15 m antes y después de ellos».
-No se detectó la posibilidad de deslumbramiento del conductor del NA con remolque por el sol, ni un fuerte deslumbramiento de los semáforos y, por tanto, una reducción de la percepción de la advertencia luminosa en las cajas de luz de los semáforos, teniendo en cuenta incluso la declaración del conductor del NA con remolque y la hora de la creación de la MU.
+§ 27 apartado 1 letra g) de la Ley núm. 361/2000 Sb.:
+«El conductor no debe detenerse ni estacionarse 
+en un paso a nivel, en un paso inferior y en un túnel, y a una distancia inferior a 15 m 
+antes y después de ellos».
+No se constató la posibilidad de deslumbramiento del conductor del NA con remolque por el sol, 
+ni un fuerte deslumbramiento de las señales luminosas y la consiguiente reducción de la percepción 
+de la señal luminosa en las cajas de las señales, teniendo en cuenta también la declaración 
+del conductor del NA con remolque y el momento de producción de la MU.
 De lo anterior se desprende:
 •
-el conductor del NA con remolque, en contra de las obligaciones establecidas por la normativa legal, no actuó con especial precaución delante del P7118 P7118, al acercarse al P7118 a una velocidad superior a la permitida;
+el conductor del NA con remolque, en contra de las obligaciones establecidas por la normativa, 
+no actuó con especial precaución ante el paso a nivel P7118, al acercarse al paso a nivel 
+con una velocidad superior a la permitida;
 •
-debido al camión estacionado a la derecha delante del P7118, la percepción de la advertencia del P7118 y la visibilidad de la VK para el conductor del NA con remolque se redujeron solo a unos 20 – 25 m, pero la visibilidad mínima requerida de 20 m se mantuvo;
+debido al camión estacionado a la derecha ante el paso a nivel, la percepción de la señal del paso a nivel 
+y la visibilidad de la VK para el conductor del NA con remolque se redujeron solo a unos 20 – 25 m, 
+pero se mantuvo la visibilidad mínima exigida de 20 m;
 •
-habría sido más fácil para el conductor notar la advertencia PZZ y reaccionar a ella si hubiera circulado a una velocidad de hasta 30 km.h-1, con la que podría haber cruzado el P7118 en caso de que se lo hubiera permitido;
+habría sido más fácil para el conductor notar la señal del PZZ y reaccionar a ella 
+si hubiera circulado a una velocidad de hasta 30 km·h-1, con la que podría haber cruzado el paso a nivel 
+en caso de que se lo hubiera permitido;
 •
-el conductor del NA con remolque, por tanto, a pesar de la señal luminosa y acústica de advertencia del P7118, no se detuvo antes del P7118, no se aseguró de si podía cruzar el P7118 con seguridad, y entró indebidamente en el P7118 P7118 en el momento en que se acercaba a él el tren Os 4505, a pesar de contar con el tiempo mínimo prescrito de visibilidad libre hacia la cruz de advertencia y la caja de luz del semáforo con la advertencia emitida, que, sin embargo, era en realidad más corto debido a su actuación (exceso de la velocidad máxima permitida) y a otra circunstancia (estacionamiento indebido del camión estacionado delante del P7118);
+el conductor del NA con remolque, a pesar de la señal luminosa y sonora del PZZ, no se detuvo ante el paso a nivel, 
+no se comprobó si podía cruzar el paso a nivel con seguridad, y entró indebidamente en el paso a nivel P7118 
+en el momento en que se aproximaba el tren Os 4505, a pesar de contar con el tiempo mínimo prescrito 
+de campo visual libre hacia la cruz de señalización y la caja luminosa de la señal con la señalización emitida, 
+que sin embargo era en realidad más corto debido a su actuación (superación de la velocidad máxima permitida) 
+y a otra circunstancia (estacionamiento indebido del camión ante el paso a nivel);
 •
-no se puede deducir de qué manera habría reaccionado el conductor del NA con remolque a la advertencia del P7118 en el caso de que no hubiera estado allí el camión estacionado y, por tanto, hubiera tenido un tiempo de visibilidad libre aún mayor hacia la cruz de advertencia, respectivamente, la caja de luz del semáforo con la advertencia emitida en el centro del campo visual.
-
+no puede deducirse de qué manera habría reaccionado el conductor del NA con remolque ante la señal del paso a nivel 
+si no hubiera estado estacionado el camión y hubiera tenido así un tiempo de campo visual libre aún mayor 
+hacia la cruz de señalización, o bien hacia la caja luminosa de la señal con la señalización emitida 
+en el centro del campo visual.
 
 ## Página 33
 
-Fig. n.º 6: El tren Os 4505 aparece en la imagen de la cámara antes de que el NA con remolque entre en el P7118 P7118 (hora real 6:21:25, es decir, 2 s antes de la colisión)
+Obr. n.º 6: El tren Os 4505 aparece en la toma de la cámara antes de la entrada a NA con el tráiler en el PZ P7118 
+(hora real 6:21:25, es decir, 2 s antes de la colisión)
  Fuente: PČR
-### 4.4 Mecanismos de retroalimentación y mecanismos de control, incluida la gestión de riesgos y la garantía de seguridad, y procedimientos de seguimiento
+### 4.4 Mecanismos de retroalimentación y mecanismos de control, incluida la gestión de riesgos 
+y la garantía de seguridad, y procedimientos de seguimiento
 ### 4.4.1 Condiciones pertinentes del marco regulatorio
-Las condiciones pertinentes del marco regulatorio están establecidas en los Reglamentos de la Unión Europea, en la Ley n.º 266/1994 Sb. y en los decretos de aplicación.
-4.4.2 Procedimientos, métodos, contenido y resultados de las actividades de evaluación de riesgos y seguimiento realizadas por cualquiera de las partes implicadas
-No se detectaron deficiencias en los procedimientos, métodos, contenido y resultados de las actividades de evaluación de riesgos y seguimiento relacionados con las circunstancias de la creación de la MU en cuestión.
+Las condiciones pertinentes del marco regulatorio están establecidas en los Reglamentos de la Unión Europea, 
+en la ley n.º 266/1994 Sb. y en los decretos de aplicación.
+4.4.2 Procedimientos, métodos, contenido y resultados de las actividades de evaluación de riesgos y seguimiento que 
+realiza cualquiera de los sujetos implicados
+En los procedimientos, métodos, contenido y resultados de las actividades de evaluación de riesgos y seguimiento, 
+relacionados con las circunstancias de la aparición de la MU en cuestión, no se detectaron deficiencias.
 ### 4.4.3 Sistema de garantía de seguridad de los transportistas y gestores de infraestructura implicados
-No se detectaron deficiencias en el sistema de seguridad del gestor de infraestructura ni en el sistema de garantía de seguridad del transporte ferroviario del transportista, relacionados con las circunstancias de la creación de la MU en cuestión.
-### 4.4.4 Sistema de gestión de las entidades responsables del mantenimiento de los vehículos ferroviarios y de los talleres de mantenimiento
-El sistema de gestión de las entidades responsables del mantenimiento de los vehículos ferroviarios y de los talleres de mantenimiento no guardaba relación con la creación de la MU.
-
+En el sistema de seguridad del gestor de la infraestructura y en el sistema de garantía de seguridad del transporte 
+ferroviario del transportista, relacionados con las circunstancias de la aparición de la MU en cuestión, no se detectaron 
+deficiencias.
+### 4.4.4 Sistema de gestión de los sujetos responsables del mantenimiento de los vehículos ferroviarios 
+y de los talleres de mantenimiento
+El sistema de gestión de los sujetos responsables del mantenimiento de los vehículos ferroviarios y de los talleres de mantenimiento 
+no guardaba relación con la aparición de la MU.
 
 ## Página 34
 
 ### 4.4.5 Resultados de la supervisión realizada por las autoridades nacionales de seguridad
-En relación con los factores y circunstancias detectados de la creación de la MU, la supervisión de la autoridad de seguridad no guarda relación con la MU en cuestión.
-### 4.4.6 Aprobaciones, certificados y informes de evaluación emitidos por la agencia, las autoridades nacionales de seguridad u otras entidades de evaluación de la conformidad
-El gestor de infraestructura explotó la infraestructura al amparo de la autorización administrativa vigente y del certificado de seguridad del gestor de infraestructura. El transportista explotó el transporte ferroviario al amparo de la licencia vigente y del certificado del transportista.
+Atendiendo a los factores y circunstancias de la aparición del MU constatados, la supervisión de la autoridad de seguridad no guarda relación con el MU en cuestión.
+### 4.4.6 Aprobaciones, certificados e informes de evaluación concedidos por la agencia, las autoridades nacionales de seguridad u otros organismos de evaluación de la conformidad
+El gestor de la infraestructura explotó la infraestructura al amparo de una autorización administrativa vigente y de un certificado de seguridad del gestor de la infraestructura. El transportista explotó el transporte ferroviario al amparo de una licencia vigente y de un certificado del transportista.
 ### 4.4.7 Otros factores sistémicos
-La investigación no detectó otros factores sistémicos.
+En la investigación no se constataron otros factores sistémicos.
 ### 4.5 Sucesos anteriores de naturaleza similar
-DI registra en las líneas de ámbito nacional y regional, en el período comprendido entre el 1. 1. 2008 y la fecha de la creación de la MU en cuestión, 1 162 MU similares, en los que se produjo una colisión entre DV y vehículos a motor por carretera en pasos a nivel protegidos con PZS sin barreras. En estas MU resultaron muertas 189 personas, 874 personas sufrieron lesiones y se produjo un daño de 695 373 311 CZK.
-En el P7118 P7118 en cuestión, la Inspección Ferroviaria registra en el período indicado 2 MU similares:
+La DI registra en las infraestructuras de ámbito nacional y regional, en el periodo comprendido entre el 1 de enero de 2008 y la fecha de aparición del MU en cuestión, 1 162 MU análogos, en los que en el PZ protegido por PZS sin barras de cierre se produjo la colisión de un DV con vehículos automóviles de carretera. En estos MU resultaron fallecidas 189 personas, 874 personas sufrieron lesiones y se produjo un daño de 695 373 311 Kč.
+En el PZ P7118 en cuestión, la Inspección Ferroviaria registra en el periodo indicado 2 MU análogos:
 •
-del 29. 1. 2010, en el que se produjo una colisión entre el tren Os 4515 y un camión. En la MU, el conductor del camión sufrió lesiones. El daño total se valoró en 123 240 CZK;
+del 29 de enero de 2010, en el que se produjo la colisión del tren Os 4515 con un camión. En el MU sufrió lesiones el conductor del camión. El daño total se cifró en 123 240 Kč;
 •
-del 18. 1. 2012, en el que se produjo una colisión entre el tren Os 4519 y un automóvil. En la MU, el conductor del automóvil sufrió lesiones. El daño material total se valoró en 71 340 CZK.
-La causa inmediata de la creación de todas las MU mencionadas anteriormente fue la entrada indebida de un vehículo a motor por carretera en el P7118 en el momento en que se emitía la advertencia luminosa y acústica del dispositivo de seguridad del paso a nivel y en el que un tren se acercaba al paso a nivel.
-DI ha recomendado repetidamente desde 2012 al gestor de infraestructura SŽ (antes SŽDC), con el fin de garantizar la máxima seguridad en las líneas ferroviarias de ámbito nacional y regional, que se eleve el nivel de protección de los P7118 de modo que, en las reconstrucciones y modernizaciones de líneas y P7118, ya solo se proyecte e instale el dispositivo de seguridad del paso a nivel luminoso complementado con barreras. DI, al mismo tiempo, mediante estas recomendaciones de seguridad, recomendó a DÚ que adoptara sus propias medidas encaminadas a garantizar la realización de las recomendaciones de seguridad mencionadas anteriormente también en los demás gestores de infraestructura ferroviaria en la República Checa. Desde el 1. 4. 2017, fecha en que entró en vigor la enmienda a la Ley n.º 266/1994 Sb., las recomendaciones de seguridad de carácter similar se destinaron, de conformidad con el § 53e de la Ley n.º 266/1994 Sb., únicamente a DÚ. El motivo para emitir estas recomendaciones fue el hecho de que las colisiones con vehículos por carretera con las consecuencias más graves se producen históricamente en los P7118 protegidos con dispositivo de seguridad del paso a nivel sin barreras, mientras que, por el contrario, históricamente, desde el punto de vista de la sinestralidad y de las consecuencias, el tipo de protección de los P7118 más favorable es precisamente el dispositivo de seguridad del paso a nivel complementado con barreras. El gestor de infraestructura de la época, SŽDC, reaccionó a estas recomendaciones, entre otros, de la siguiente manera: «en caso de sustitución de los PZM existentes (dispositivo de seguridad del paso a nivel mecánico, nota de DI) y PZS
-
+del 18 de enero de 2012, en el que se produjo la colisión del tren Os 4519 con un automóvil. En el MU sufrió lesiones el conductor del automóvil. El daño material total se cifró en 71 340 Kč.
+La causa inmediata de la aparición de todos los MU anteriormente indicados fue la entrada no autorizada de un vehículo automóvil de carretera en el PZ en el momento en que se emitía la alerta luminosa y sonora del dispositivo de enclavamiento de paso a nivel y en el que se aproximaba un tren al paso a nivel ferroviario.
+La DI ha recomendado reiteradamente desde 2012 al gestor de la infraestructura SŽ (anteriormente SŽDC), con el fin de garantizar la máxima seguridad en las infraestructuras ferroviarias de ámbito nacional y regional, que eleve el nivel de protección del PZ de modo que, en las reconstrucciones y modernizaciones de líneas y PZ, ya solo se proyecten e instalen dispositivos de enclavamiento de paso a nivel luminosos complementados con barras de cierre. La DI, al mismo tiempo, mediante estas recomendaciones de seguridad, recomendó a la DÚ que adoptara sus propias medidas encaminadas a garantizar la realización de las recomendaciones de seguridad anteriormente indicadas también en los demás gestores de infraestructuras ferroviarias de la República Checa. Desde el 1 de abril de 2017, fecha en que entró en vigor la modificación de la Ley n.º 266/1994 Sb., las recomendaciones de seguridad de carácter similar se dirigieron, de conformidad con el § 53e de la Ley n.º 266/1994 Sb., únicamente a la DÚ. El motivo de la emisión de estas recomendaciones fue el hecho de que las colisiones con vehículos de carretera de consecuencias más graves se producen de forma prolongada en los PZ protegidos por dispositivos de enclavamiento de paso a nivel sin barras, mientras que, por el contrario, desde el punto de vista de la siniestralidad y de las consecuencias, el tipo de protección del PZ más favorable es precisamente el dispositivo de enclavamiento de paso a nivel complementado con barras de cierre. El entonces gestor de la infraestructura SŽDC respondió a estas recomendaciones, entre otras medidas, en el sentido de que «en caso de sustitución de los PZM existentes (dispositivo de enclavamiento de paso a nivel mecánico, nota de la DI) y PZS
 
 ## Página 35
 
-por tecnología moderna, en el proyecto se priorizará la construcción de dispositivos de seguridad del paso a nivel con barreras, salvo que existan obstáculos técnicos o de explotación significativos. La instalación de un dispositivo de seguridad del paso a nivel concreto respetará siempre la decisión vigente de la Oficina Ferroviaria sobre el alcance y el modo de protección del P7118». DÚ, entre otras, envió como medida la siguiente declaración: «La Oficina Ferroviaria, como autoridad administrativa ferroviaria, recomienda así permanentemente a Administrace železnic, como gestor de infraestructura, incluir en la mayor medida posible en el plan de inversiones la instalación de barreras en los dispositivos de seguridad del paso a nivel luminosos existentes. Deberían ser prioritarios los pasos a nivel con alto volumen de tráfico y con sucesos extraordinarios recurrentes». DI sigue apoyando la instalación de barreras en los pasos a nivel (de forma prioritaria en aquellos con mayor volumen de tráfico y condiciones locales desfavorables), pero, en el caso de emitir nuevas recomendaciones de seguridad para sucesos extraordinarios concretos, tiene en cuenta las características específicas de dicho paso a nivel y emite dicha recomendación de seguridad de forma más concreta – véase cap. 6 ZZ.
+con la tecnología moderna se preferirá, en la fase de proyecto, la construcción de instalaciones de enclavamiento de paso a nivel con barreras, salvo que existan obstáculos técnicos o de explotación relevantes. La instalación de una instalación concreta de enclavamiento de paso a nivel respetará en todo caso la decisión vigente de la Oficina Ferroviaria sobre el alcance y la forma de proteger el PNa.“. La OF, entre otras, envió como medida la siguiente declaración: „La Oficina Ferroviaria, como autoridad administrativa ferroviaria, recomienda así permanentemente a Správa železnic, como gestor de la infraestructura ferroviaria, incluir en la mayor medida posible en el plan de inversiones la dotación de barreras de madera a las instalaciones existentes de enclavamiento de paso a nivel con señalización luminosa. Deberían ser prioritarios los pasos a nivel con alto momento de tráfico y con eventos extraordinarios recurrentes.“ El DI sigue apoyando la dotación de barreras de madera en los pasos a nivel ferroviarios (con prioridad en aquellos con mayor momento de tráfico y condiciones locales desfavorables), sin embargo, en el caso de la emisión de recomendaciones de seguridad adicionales sobre eventos extraordinarios concretos, tiene en cuenta las características específicas del paso a nivel ferroviario en cuestión y emite dicha recomendación de seguridad de forma más concreta – véase el cap. 6 ZZ.
 ### 5 CONCLUSIONES
 ### 5.1 Resumen del análisis y conclusiones relativas a las causas del suceso
-La causa inmediata del suceso extraordinario fue:
+La causa inmediata del evento extraordinario fue:
 •
-la entrada indebida de la composición ferroviaria en el paso a nivel P7118 en el momento en que se acercaba a él el tren Os 4505, causada por la actuación del conductor del camión, que no respetó la advertencia luminosa y acústica del dispositivo de seguridad del paso a nivel y no se aseguró de si podía entrar en el paso a nivel con seguridad.
+la entrada no autorizada de la composición de vehículos en el paso a nivel P7118 en el momento en que se aproximaba a él el tren Os 4505, causada por la actuación del conductor del camión de carga, que no respetó la alerta luminosa y acústica de la instalación de enclavamiento de paso a nivel y no se aseguró de si podía entrar en el paso a nivel ferroviario de forma segura.
 Factor contribuyente:
 •
-la reducción de la longitud de visibilidad hacia el semáforo del paso a nivel en el sentido de marcha del camión debido al estacionamiento de otro camión con remolque de caja a la derecha en el arcén de la vía pública a una distancia de 12,5 m del paso a nivel (señales de tráfico A 32a «Cruz de advertencia para paso a nivel de vía única» y semáforo) en combinación con el exceso de la velocidad máxima permitida (en unos 26 km.h-1) por parte del conductor del camión antes del paso a nivel.
-DI no detectó una causa sistémica.
-### A summary of the analysis and conclusions with regard to the causes of the occurrence
+la reducción de la longitud de visibilidad hacia la señal vial de advertencia del paso a nivel ferroviario en la dirección de circulación del camión de carga debido a la parada de otro camión de carga con remolque de caja a la derecha en el arcén de la vía de comunicación terrestre a una distancia de 12,5 m del paso a nivel (señal de tráfico A 32a „Cruz de advertencia para paso a nivel ferroviario de vía única“ y de la señal de advertencia), en combinación con la superación de la velocidad máxima permitida (en unos 26 km.h-1) por parte del conductor del camión de carga antes del paso a nivel ferroviario.
+No se ha identificado por parte del DI una causa sistémica.
+### A summary of the analysis and conclusions with regard to the causes of the 
+occurrence
 Causal factor:
 •
 an unauthorized entrance of the combination of vehicles at the level crossing No. 
@@ -1035,6 +1062,7 @@ combination of vehicles due to stopping other van truck on right shoulder of roa
 distance 12,5 metres from the level crossing (traffic sign A32a „Warning cross for
 
 ## Página 36
+
 
 cruce de vía única“ y señal vial de aviso de paso a nivel) en combinación con la infracción del límite de velocidad (aprox. ca. 26 km.h-1) por parte del conductor del conjunto de vehículos antes del paso a nivel.
 Factor sistémico: ninguno.
@@ -1060,8 +1088,8 @@ La Inspección Ferroviaria, con base en lo dispuesto en el § 53e apartado 1 de 
 •
 completar la señalización vial en la carretera de clase III n.º 3975, que advierte a los conductores al girar a la izquierda sobre la aproximación al paso a nivel ferroviario P7118, es decir, colocar allí al menos
 
-
 ## Página 37
+
 
 las señales verticales A 31c «Placa de señal (80 m)» y A 29 «Paso a nivel con barreras» de conformidad con las condiciones técnicas TP 169 Principios para la señalización de situaciones de tráfico en las vías públicas y TP 65 Principios para la señalización vial en las vías públicas.
 ### RECOMENDACIONES DE SEGURIDAD
@@ -1076,8 +1104,8 @@ director
 de la Inspección Territorial de Brno
 de la Inspección Territorial de Brno
 
-
 ## Página 38
+
 
 ### ANEXOS
 Fig. n.º 7: Vista de los daños en la vallada y el vehículo NA detenido con remolque
@@ -1085,8 +1113,8 @@ Fig. n.º 7: Vista de los daños en la vallada y el vehículo NA detenido con re
 Fig. n.º 8 Fin del tren Os 4505, daños en la vía tras el descarrilamiento
        Fuente: DI
 
-
 ## Página 39
+
 
 Fig. n.º 9: Visibilidad del señal de aviso a una distancia Dz desde la cámara instalada en el NA con remolque
         Fuente: DI

@@ -10,13 +10,14 @@ chars: 335586
 ratio_longitud: 1.26
 tokens_in: 165717
 tokens_out: 118705
-verificacion: revisar
-notas_cifras: ["bloque 1: original bilingüe: se compara contra el idioma principal (EN)", "bloque 2: original bilingüe: se compara contra el idioma principal (PT)", "bloque 3: cifras cortas: 1/77", "bloque 4: original bilingüe: se compara contra el idioma principal (CS)", "bloque 5: cifras largas: 1/106", "bloque 8: cifras cortas: 7/49"]
-avisos: ["bloque 4: ratio 1.97", "bloque 10: ratio 1.65", "bloque 11: marcadores de página: 2 vs 1", "bloque 21: ratio 1.94", "bloque 28: ratio 1.69", "bloque 38: ratio 1.90"]
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 3: original bilingüe: se compara contra el idioma principal (PT)", "página 4: original bilingüe: se compara contra el idioma principal (EN)", "página 5: original bilingüe: se compara contra el idioma principal (PT)", "página 6: original bilingüe: se compara contra el idioma principal (CS)", "página 7: cifras cortas: 1/18"]
 ---
+
 ## Página 1
+
 
 Inspección Ferroviaria
 República Checa
@@ -41,11 +42,12 @@ NIF: 75009561
 http://www.dicr.cz
 fax: (+420) 224 805 428
 
-
 ## Página 2
 
 
+
 ## Página 3
+
 
 # RESUMEN
 Gravedad:
@@ -77,8 +79,8 @@ Causa raíz:
 organización del trabajo / auditorías y supervisión del SMS
 Recomendaciones: no emitidas
 
-
 ## Página 4
+
 
 # Índice
  Resumen .............................................................................................................................3
@@ -115,6 +117,7 @@ incluidas las personas en relación contractual ................................
 
 ## Página 5
 
+
 3.1.2 Otras personas .........................................................................................................29
 3.2 Sistema de garantía de la seguridad ...............................................................................34
 3.2.1 Estructura marco y forma en que se emiten y ejecutan las instrucciones .......34
@@ -144,8 +147,8 @@ incluidas las personas en relación contractual ................................
 ............................................................................................................................70
 4.2 Análisis ......................................................................................................................72
 
-
 ## Página 6
+
 
 4.2.1 Evaluación de los hechos constatados según el punto 3 y presentación de conclusiones sobre la causa del incidente y la actuación de los servicios de rescate ..........................................72
 4.3 Conclusiones .......................................................................................................................79
@@ -169,6 +172,7 @@ Pn 66161 .......................................................................
 
 ## Página 7
 
+
 ## 1 RESUMEN
 Grupo de acontecimiento: accidente grave
 Ocurrido el: 13.09.2008, a las 02:21:59 horas
@@ -186,8 +190,8 @@ Causa fundamental: incumplimiento de los procedimientos tecnológicos del gestor
 Causa derivada del uso del sistema de garantía de seguridad: incumplimiento por parte del gestor de la línea del sistema de garantía de seguridad establecido, consistente en la ineficacia e ineficiencia para verificar el cumplimiento de las condiciones obligatorias establecidas en las normas internas del gestor de la línea.
 Recomendaciones de seguridad: no se han emitido por la Inspección Ferroviaria.
 
-
 ## Página 8
+
 
 ## 2 DATOS RELATIVOS AL ACONTECIMIENTO EXTRAORDINARIO
 ### 2.1 Acontecimiento extraordinario
@@ -205,18 +209,15 @@ La salida prevista del tren Pn 66161 de la est. Lukavice na Moravě hacia la est
 
 ## Página 9
 
-formuló la oferta de consentimiento para la circulación del tren Pn 66161 hacia el tramo interstacional entre las estaciones de Mohelnice y Moravičany por la vía de línea n.º 1 del despachador de la estación de Moravičany, quien, por tanto, no otorgó el consentimiento para la circulación del tren Pn 66161 hacia el tramo interstacional entre las estaciones de Mohelnice y Moravičany por la vía de línea n.º 1 mediante su aceptación. A pesar de las circunstancias mencionadas, el despachador de la estación de Mohelnice, para la circulación del tren Pn 66161, utilizó una vía de tren previamente establecida para un tren imaginario desde la vía de línea n.º 1 de Lukavice na Moravě – Mohelnice hasta la vía de estación n.º 1 de la estación de Mohelnice y desde la vía de estación n.º 1 hasta la vía de línea n.º 1 del tramo interstacional Mohelnice – Moravičany. El tren Pn 66161 atravesó la estación de Mohelnice a las 02:01:20 h y posteriormente se detuvo en el PK 54,833, es decir, a 317 m antes de la señal de entrada 1S de la estación de Moravičany que indicaba la señal «Alto». Dado que el despachador de la estación de Moravičano no fue solicitado por el despachador de la estación de Mohelnice, mediante oferta, para otorgar el consentimiento para la circulación del tren Pn 66161 por la vía de línea n.º 1 hacia el tramo interstacional Mohelnice – Moravičany y no otorgó el consentimiento para la circulación de dicho tren hacia el tramo interstacional mencionado mediante su aceptación, y por tanto no conocía la circulación del tren en el tramo interstacional, no realizó la maniobra de la señal de entrada 1S ni ninguna otra maniobra de tráfico para permitir la entrada del tren Pn 66161 en la estación de Moravičany.
-
-La salida prevista del tren subsiguiente Nex 54053 desde la estación de Lukavice na Moravé hacia la estación de Mohelnice fue anunciada (comunicada) por el despachador de la estación de Lukavice na Moravé a las 02:12 h a través del circuito telefónico de línea, indicando que el tren Nex 54053 pasaría por la estación de Lukavice na Moravé a las 02:19 h. Posteriormente, el despachador de la estación de Mohelnice preparó la vía de tren para el tren Nex 54053 y, a continuación, estableció la vía de tren desde la vía de línea n.º 1 de Lukavice na Moravé – Mohelnice hasta la vía de estación n.º 1 de la estación de Mohelnice. El despachador de la estación de Mohelnice, a las 02:12 h, es decir, tras recibir la salida prevista desde la estación de Lukavice na Moravé, solicitó mediante oferta el consentimiento para la circulación del tren Nex 54053 hacia el tramo interstacional entre las estaciones de Mohelnice y Moravičany por la vía de línea n.º 1, con la salida prevista de la estación de Mohelnice a las 02:23 h. El despachador exterior de la estación de Moravičany, autorizado por el despachador de control, otorgó el consentimiento para la circulación del tren Nex 54053 hacia el tramo interstacional entre las estaciones de Mohelnice y Moravičany por la vía de línea n.º 1 mediante su aceptación. Tras esta maniobra, el despachador de la estación de Mohelnice preparó la vía de tren y, a continuación, estableció la vía de tren desde la vía de estación n.º 1 hasta la vía de línea n.º 1 del tramo interstacional Mohelnice – Moravičany. El tren Nex 54053 atravesó la estación de Mohelnice a las 02:21:34 h y posteriormente entró en el tramo interstacional Mohelnice – Moravičany ocupado por el tren Pn 66161, donde a las 02:21:59 h, en el PK 54,397, chocó contra la parte trasera del tren Pn 66161 detenido.
-
-Como consecuencia de la colisión entre los trenes Nex 54053 y Pn 66161, la locomotora de tracción (en adelante, LDT) del tren Nex 54053 descarriló con la primera bogie en el sentido de la marcha hacia la derecha. La parte frontal de la LDT se encontraba en el PK 54,410,1, es decir, a 13,1 m detrás del punto de origen de la colisión, cuñaada hasta una profundidad de 0,9 m en la parte trasera de la caja del vagón de señalización del tren Pn 66161. La dinámica del incidente provocó además la deformación de la parte frontal de la LDT, incluido el puesto de conducción 1, hasta el nivel de la puerta de la caja de electrónica. Asimismo, resultaron dañados 3 de los 4 vagones de tracción remolcada (en adelante, VTR) del tren Nex 54053, que transportaban envíos postales, siendo el VTR situado como primero detrás de la LDT descarrilado con todas sus ruedas. El tren Pn 66161 fue desplazado 5 m por el impacto. Resultaron dañados 6 de los 32 VTR del tren, cargados con subproducto de carbón lignito. Las dos últimas VTR del tren Pn 66161 (situadas como la 31. y 32. VTR detrás de la LDT) descarrilaron como consecuencia de la colisión: la 31. VTR con dos ruedas del bogie «a» (2. bogie en el sentido de la marcha) y la 32. VTR con todas sus ruedas. Ambas VTR en su posición final tras la colisión se extendían hacia el perfil de paso de la vía de línea n.º 2 adyacente. Las VTR sufrieron deformaciones extensas y quedaron cuñadas entre sí.
-
-Inmediatamente después de la colisión entre los trenes Nex 54053 y Pn 66161, el maquinista del tren Pn 66161 observó el tren Pn 60398 que circulaba en sentido contrario por la vía adyacente. Para evitar el peligro, decidió detener el tren que circulaba en sentido contrario mediante la señal «Alto, deténgase con todos los medios». El maquinista del tren Pn 60398 respondió a esta orden aplicando el frenado de emergencia y detuvo el tren antes de alcanzar el obstáculo creado en la vía de circulación.
-
-Mediante la inspección de los vehículos del tren Nex 54053 se determinó:
-En el momento de la colisión, la LDT de tipo 69 Er, serie 362.165-3, estaba siendo conducida por el conductor de vehículos ferroviarios (en adelante, maquinista) desde el puesto de conducción frontal, puesto 1. El impacto contra los VTR detenidos del tren Pn 66161 en el PK 54,397 provocó la deformación de la parte frontal de la LDT, incluido el puesto de conducción 1, hasta
+formó la oferta de consentimiento para la circulación del tren Pn 66161 en el intervalo entre las estaciones de Mohelnice y Moravičany por la vía de tráfico n.º 1 del jefe de estación de Moravičany, quien por tanto no dio el consentimiento para la circulación del tren Pn 66161 en el intervalo entre las estaciones de Mohelnice y Moravičany por la vía de tráfico n.º 1 mediante la recepción. A pesar de las circunstancias anteriormente mencionadas, el jefe de estación de Mohelnice utilizó para la circulación del tren Pn 66161 una ruta de tren ya previamente establecida para un tren imaginario desde la vía de tráfico n.º 1 Lukavice na Moravě – Mohelnice hasta la vía de estación n.º 1 de la estación de Mohelnice y desde la vía de estación n.º 1 hasta la vía de tráfico n.º 1 del intervalo entre estaciones Mohelnice – Moravičany. El tren Pn 66161 pasó por la estación de Mohelnice a las 02:01:20 h y posteriormente se detuvo en el km 54,833, es decir, a 317 m de la señal de entrada 1S de la estación de Moravičany, que indicaba la señal «Alto». Dado que el jefe de estación de Moravičany no fue solicitado por el jefe de estación de Mohelnice, mediante oferta, el consentimiento para la circulación del tren Pn 66161 por la vía de tráfico n.º 1 en el intervalo entre estaciones Mohelnice – Moravičany, y no concedió el consentimiento para la circulación de dicho tren en el intervalo entre estaciones mencionado mediante la recepción, y por tanto no sabía que el tren circulaba en el intervalo entre estaciones, no realizó la maniobra de la señal de entrada 1S ni ninguna otra operación de tráfico para permitir la entrada del tren Pn 66161 en la estación de Moravičany.
+La salida prevista del tren sucesivo Nex 54053 de la estación de Lukavice na Moravě a la estación de Mohelnice fue comunicada (anunciada) mediante el circuito telefónico de vía por el jefe de estación de Lukavice na Moravě a las 02:12 h, con el indicio de que el tren Nex 54053 circularía por la estación de Lukavice na Moravě a las 02:19 h. A continuación, el jefe de estación de Mohelnice preparó la ruta de tren para el tren Nex 54053 y posteriormente estableció la ruta de tren desde la vía de tráfico n.º 1 Lukavice na Moravě – Mohelnice hasta la vía de estación n.º 1 de la estación de Mohelnice. El jefe de estación de Mohelnice a las 02:12 h, es decir, después de recibir la salida prevista de la estación de Lukavice na Moravě, solicitó mediante oferta el consentimiento para la circulación del tren Nex 54053 en el intervalo entre estaciones entre Mohelnice y Moravičany por la vía de tráfico n.º 1 con la salida prevista de la estación de Mohelnice a las 02:23 h. El jefe de estación exterior de Moravičany dio, por delegación del jefe de estación de despacho, el consentimiento para la circulación del tren Nex 54053 en el intervalo entre estaciones entre Mohelnice y Moravičany por la vía de tráfico n.º 1 mediante la recepción. Tras esta operación, el jefe de estación de Mohelnice preparó la ruta de tren y posteriormente estableció la ruta de tren desde la vía de estación n.º 1 hasta la vía de tráfico n.º 1 del intervalo entre estaciones Mohelnice – Moravičany. El tren Nex 54053 pasó por la estación de Mohelnice a las 02:21:34 h y a continuación entró en el intervalo entre estaciones Mohelnice – Moravičany, ocupado por el tren Pn 66161, donde a las 02:21:59 h, en el km 54,397, chocó contra el extremo del tren Pn 66161 detenido.
+Como consecuencia de la colisión de los trenes Nex 54053 y Pn 66161, el vehículo ferroviario motriz (en adelante HDV) del tren Nex 54053 descarriló con el primer eje en el sentido de circulación a la derecha. El frontal del HDV se encontraba en el km 54,410,1, es decir, a 13,1 m del lugar de producción de MU, encastrado a una profundidad de 0,9 m en la parte trasera de la carrocería del vagón de señalización del tren Pn 66161. Por la dinámica del suceso accidental, el frontal del HDV, incluida la cabina del conductor 1, se deformó hasta el nivel de la puerta de la caja de electrónica. Además, se dañaron 3 de los 4 vehículos ferroviarios remolcados (en adelante TDV) del tren Nex 54053, que estaban cargados con envíos postales, siendo el TDV acoplado como 1.º tras el HDV descarrilado con todos los ejes. El tren Pn 66161 fue desplazado 5 m por el impacto. Se dañaron 6 de los 32 TDV del tren, cargados con sustrato de carbón bituminoso. Los dos últimos TDV del tren Pn 66161 (acoplados como 31.º y 32.º TDV tras el HDV) descarrilaron como consecuencia de MU – el 31.º TDV con dos ejes del bogie «a» (2.º bogie en el sentido de circulación) y el 32.º TDV con todos los ejes. Ambos TDV, en la posición final tras MU, invadían el perfil de circulación de la vía de tráfico adyacente n.º 2. Los TDV estaban ampliamente deformados y encastrados mutuamente entre sí.
+Inmediatamente después de la colisión de los trenes Nex 54053 y Pn 66161, el conductor del tren Pn 66161 divisó el tren en sentido contrario Pn 60398, que circulaba por la vía adyacente. Para evitar el peligro, decidió detener el tren en sentido contrario con la señal «Alto, deténgase por todos los medios». El conductor del tren Pn 60398 reaccionó a esta orden utilizando el frenado de acción rápida y detuvo el tren antes del obstáculo surgido en la vía de circulación.
+Del examen de los vehículos del tren Nex 54053 se constató:
+En el momento de producción de MU, el HDV de tipo 69 Er de la serie 362.165-3 estaba conducido por una persona que conduce el vehículo ferroviario (en adelante conductor) desde la cabina delantera del conductor, cabina 1. Por el impacto contra los TDV detenidos del tren Pn 66161 en el km 54,397, se produjo la deformación del frontal del HDV, incluida la cabina del conductor 1, hasta
 
 ## Página 10
+
 
 por debajo del nivel de las puertas de la caja electrónica y descarrilamiento del primer bogie en el sentido de circulación del tren hacia la derecha. Las posiciones de todos los elementos de control, comprobación y señalización en la cabina del maquinista 1 no pudieron analizarse debido a la considerable destrucción de la cabina. En la posición final del HDV tras el MU, la parte delantera del HDV se encontraba en el pk 54,410,1, es decir, 13,1 m detrás del punto de origen del MU, cuñaada hasta una profundidad de 0,9 m en la parte trasera de la caja del vehículo de señalización del tren Pn 66161.
 
@@ -261,8 +262,8 @@ En el momento de producirse el MU, el HDV tipo 71 E1 de la serie 163.014-4 estab
 La parte trasera (en el sentido de circulación de los trenes afectados) del vehículo de señalización 81 54 6675 468-7 se encontraba en la posición final tras el MU en el pk 54,410,1 m, es decir, 13,1 m detrás del punto de origen del MU, mientras que la parte trasera de la caja del vehículo de señalización estaba cuñada contra la parte delantera del HDV del tren Nex 54053 hasta una profundidad de 0,9 m. 
 La parte delantera del vehículo de señalización se encontraba en el pk 54,4205 m, cuñada aproximadamente 5 m en la caja del TDV 81 54 6675 772-2, que estaba compuesto como el 31.º vehículo detrás del HDV. La parte trasera de este TDV se encontraba en la posición final tras el MU en el pk 54,4205 m, y la parte delantera en el pk 54,4293 m. Como consecuencia del MU, las cajas de los TDV 81 54 6675 772-2 y 81 54 6675 468-7 se deformaron de tal manera que invadían el perfil de paso de la vía adyacente.
 
-
 ## Página 11
+
 
 Como consecuencia de la producción del MU, resultaron dañados un total de 6 de los 32 TDV del tren Pn 66161, que transportaban mercancías según la nomenclatura armonizada de mercancías 270210000 «Carbón lignito, incluso en polvo, no aglomerado».
 1. 33 78 6650 258-2
@@ -326,65 +327,62 @@ sin daños;
 ## Página 12
 
 dañado;
-28. 33 78 6650 150-1, de la serie Fals-z, propietario NH-TRANS, SE, arrendatario ČD Cargo, a. s., 
+28. 33 78 6650 150-1, serie Fals-z, propietario NH-TRANS, SE, arrendatario ČD Cargo, a. s., 
 dañado;
-29. 81 54 6675 897-7, de la serie Falls, propietario ČD Cargo, a. s., sin daños;
-30. 81 54 6676 490-0, de la serie Falls, propietario ČD Cargo, a. s., sin daños;
-31. 81 54 6675 772-2, de la serie Falls, propietario ČD Cargo, a. s., dañado, descarrilado con dos 
-ejes del bogie «a» (2.º bogie en sentido de marcha), posteriormente desguazado y desmontado 
-en el lugar;
-32. 81 54 6675 468-7, de la serie Falls, propietario ČD Cargo, a. s., dañado, descarrilado con todos 
-los ejes, posteriormente desguazado y desmontado en el lugar.
-Mediante la inspección de los componentes de la infraestructura ferroviaria se constató:
-Como consecuencia del accidente (MU), en el lugar de su ocurrencia se produjo la alteración de la 
-posición geométrica de la vía nº 1, daños en las traviesas de hormigón y en los sistemas de 
-sujeción, y contaminación de la cama de balasto del ferrocarril con sustrato (carbón) vertido desde 
-los vehículos de transporte de mercancías (TDV) descarrilados 81 54 6675 772-2 y 81 54 6675 468-7. 
-No se produjeron daños en la línea de catenaria ni en los postes de soporte de la catenaria.
-El maquinista comunicó la ocurrencia del accidente (MU) al jefe de estación de la estación de 
-Mohelnice, acompañando a la locomotora inactiva de la serie T448P-084, acoplada al tren Pn 60398. 
-Posteriormente, el operador de la infraestructura ferroviaria notificó el accidente (MU) al Sistema 
-Integrado de Rescate (en adelante, IZS), conforme al Decreto nº 376/2006 Coll., sin demora 
-inmediata tras la detección de los hechos por parte del jefe de estación de la estación de Moravičany, 
-a petición del jefe de estación de la estación de Mohelnice.
-En el lugar del accidente (MU) intervinieron las siguientes unidades del Sistema Integrado de 
-Rescate (IZS):
-Cuerpo de Bomberos y Rescate de la Región de Olomouc, cuartel de Zábřeh;
+29. 81 54 6675 897-7, serie Falls, propietario ČD Cargo, a. s., no dañado;
+30. 81 54 6676 490-0, serie Falls, propietario ČD Cargo, a. s., no dañado;
+31. 81 54 6675 772-2, serie Falls, propietario ČD Cargo, a. s., dañado, descarrilado con dos 
+ejes del bogie „a" (2.º bogie en sentido de marcha), posteriormente dado de baja y 
+desguazado en el lugar;
+32. 81 54 6675 468-7, serie Falls, propietario ČD Cargo, a. s., dañado, descarrilado con todos 
+los ejes, posteriormente dado de baja y desguazado en el lugar.
+Del examen de los componentes de la infraestructura ferroviaria se constató:
+Como consecuencia del MU se produjo, en el lugar de origen del MU, la alteración de la 
+posición geométrica de la vía de circulación n.º 1, el daño en los traviesas de hormigón y 
+elementos de fijación y la contaminación del balasto del perfil ferroviario con el sustrato 
+(carbón) derramado de los TDV 81 54 6675 772-2 y 81 54 6675 468-7 descarrilados. La 
+catenaria, incluidos los soportes de catenaria, no resultó dañada.
+El origen del MU lo comunicó el maquinista – acompañante del HDV inactivo serie T448P-084, 
+enganchado en el tren Pn 60398, al jefe de estación de la est. Mohelnice. Posteriormente, el 
+MU fue comunicado por el gestor de la vía al Sistema Integrado de Emergencia (en adelante 
+IZS), en el sentido del decreto n.º 376/2006 Sb., sin demora innecesaria, inmediatamente 
+después de que el jefe de estación de la est. Moravičany constatara los hechos, y ello a 
+petición del jefe de estación de la est. Mohelnice.
+En el lugar del MU intervinieron los siguientes componentes del IZS:
+Cuerpo de Bomberos y Rescate de la Región de Olomouc, parque de bomberos de Zábřeh;
 –
-Cuerpo de Bomberos y Rescate del operador de la infraestructura ferroviaria, unidad de 
-Protección contra Incendios (PO) Olomouc;
+Cuerpo de Bomberos y Rescate del gestor de la vía, unidad PO Olomouc;
 –
-Unidad de los Bomberos Voluntarios de Moravičany;
+Unidad del cuerpo de bomberos voluntarios de Moravičany;
 –
-Servicio de Rescate Sanitario de la Región de Olomouc – Servicio de Rescate Rápido (grupo de 
+Servicio de Emergencias Sanitarias de la Región de Olomouc – Servicio Rápido de 
 –
-despliegue Mohelnice);
+Emergencias (grupo de salida de Mohelnice);
 Policía de la República Checa – Servicio de Policía Criminal e Investigación (Departamento de 
 –
 Criminalidad General) Šumperk;
 Policía de la República Checa – Servicio de Policía Criminal e Investigación (Departamento de 
 –
-Criminalidad General) Šumperk, oficina de Mohelnice.
-2.1.3 Decisión de iniciar la investigación de las causas y circunstancias de la ocurrencia, 
-composición del equipo de personas técnicamente competentes y método de conducción de la 
-investigación de las causas y circunstancias de la ocurrencia
-La Inspección Ferroviaria (en adelante, DI) fue notificada de la ocurrencia del accidente (MU) en la 
-Oficina Central de Notificaciones de Praga (en adelante, COP) a las 03:10 h, es decir, 45 minutos 
-después de la ocurrencia del accidente (MU), por un empleado del operador de la infraestructura 
-ferroviaria y, en representación del operador del transporte ferroviario. El empleado de la COP, 
-sobre la base de los hechos notificados, decidió a las 03:16 h el desplazamiento y el inicio de la 
-investigación de las causas y circunstancias de la ocurrencia del accidente (MU). 
-La Inspección Ferroviaria inició sus actividades en el lugar del accidente (MU) a las 04:30 h, con la 
-composición de director de la Inspección Territorial de Ostrava y un inspector superior.
-La Inspección Territorial de Ostrava fue encargada de la investigación posterior de las causas y 
-circunstancias de la ocurrencia del accidente (MU). 
-La investigación de las causas y circunstancias de la ocurrencia del accidente (MU) se llevó a cabo 
-de conformidad con el artículo 53, letra b), de la Ley nº 266/1994 Coll., sobre ferrocarriles, en su 
-redacción posterior (en adelante, Ley nº 266/1994 Coll.), y con los artículos 11 y 12 del Decreto 
-nº 376/2006 Coll.
-
+Criminalidad General) Šumperk, centro de trabajo de Mohelnice.
+2.1.3 Decisión de iniciar la investigación de las causas y circunstancias del origen, composición 
+del equipo de personas cualificadas y método de dirección de la investigación de las causas y 
+circunstancias del origen
+El origen del MU fue comunicado a la Inspección Ferroviaria (en adelante DI) en el Centro de 
+Notificación Central de Praga (en adelante COP) a las 03:10 h, es decir, 45 minutos después 
+del origen del MU, por un empleado del gestor de la vía y en representación y por cuenta 
+también del gestor del transporte ferroviario. El empleado del COP, sobre la base de los hechos 
+comunicados, decidió a las 03:16 h el desplazamiento y el inicio de la investigación de las 
+causas y circunstancias del origen del MU. La Inspección Ferroviaria inició la actividad en el 
+lugar del MU a las 04:30 h, con la composición del director de la Inspección Territorial de 
+Ostrava y un inspector superior.
+La posterior investigación de las causas y circunstancias del origen del MU fue encomendada 
+a la Inspección Territorial de Ostrava. La propia investigación de las causas y circunstancias 
+del origen del MU se realizó de conformidad con el § 53, letra b), de la ley n.º 266/1994 Sb., 
+de ferrocarriles, en la redacción de las modificaciones posteriores (en adelante ley n.º 
+266/1994 Sb.), y con el § 11 y el § 12 del decreto n.º 376/2006 Sb.
 
 ## Página 13
+
 
 ### 2.2 Circunstancias del incidente extraordinario
 ### 2.2.1 Empleados del operador de la infraestructura ferroviaria y del transportista 
@@ -460,6 +458,7 @@ desactivación del freno automático continuo
 
 ## Página 14
 
+
 los frenos de aire 1 TDV tuvo como consecuencia la reducción de la masa frenante total del tren y, con ello, la reducción de los porcentajes reales de frenado a un valor del 86 (déficit del 23 % de frenado). Para garantizar la parada segura del tren dentro de la distancia de frenado, se redujo la velocidad del tren Nex 54053 en los tramos de vía indicados a continuación a los valores indicados a continuación (véase la tabla n.º 1), de lo cual el maquinista del tren fue informado de manera fehaciente mediante una orden general por escrito n.º 0000862-259 expedida por el jefe de estación de la estación de Česká Třebová.
 
 | Tramo de vía | V máx (km h-1) . . |  |
@@ -489,6 +488,7 @@ La estación de origen del tren Pn 66161 era la estación de Světec-Ledvice, y 
 12. 33 78 6650 151-9, serie Fals-z, propietario NH-TRANS, SE, arrendatario ČD Cargo, a. s.;
 
 ## Página 15
+
 
 13. 33 78 6650 139-4, serie Fals-z, propietario NH-TRANS, SE, arrendatario ČD Cargo, a. s.;
 14. 81 54 6676 251-6, serie Falls, propietario ČD Cargo, a. s.;
@@ -520,6 +520,7 @@ La vía de circulación n.º 1 entre las estaciones de Mohelnice – Moravičany
 
 ## Página 16
 
+
 nivel de la señal de entrada 1S de la estación de Moravičany en el pk 55,150, con una curva a la izquierda de radio r=30.000 m, sin peralte (p=0 mm). La pendiente de la vía entre los pk 54,317 y 54,400 es de -2 ‰ en descenso, entre los pk 54,400 y 55,000 es de -3,93 ‰ en descenso y entre los pk 55,000 y 55,150 es de -4,25 ‰ en descenso.
 El tramo de vía Dluhonice – Hoštejn está cubierto por la señal «Vf» de la red de radio despachos (en adelante, SRD) a través del sistema de radio de vía (en adelante, TRS), sistema de isla, que permite en el canal agrupado de la banda nº 64 con cuádruple frecuencia 64A, 64B, 64C y 64D la comunicación entre los despachadores de las estaciones de este tramo y los maquinistas de las unidades de tracción y dirección (HDV) equipadas con la parte móvil del TRS. Las islas de la red SRD constituyen las estaciones de radio base situadas en las distintas estaciones. El tramo de vía Mohelnice – Moravičany, incluidas ambas estaciones adyacentes, funciona en el canal agrupado de la banda 64 con la frecuencia asignada de 467,925 MHz (64B). La orden para cambiar el grupo de canales es dada por el maquinista mediante la señal de radio con la indicación «Cambie el grupo de canales» en la dirección Přerov – Česká Třebová en el pk 184,395, y en la dirección Česká Třebová – Přerov en el pk 28,150. De conformidad con la Decisión del PARLAMENTO EUROPEO Y DEL CONSEJO nº 679/2006/CE, se trata de un dispositivo de comunicación de clase «B».
 La velocidad de vía en ambas vías del tramo entre las estaciones de Mohelnice – Moravičany está establecida, según la documentación del explotador «ESQUEMA PLANO MU A1, 13. 09. 2008 ESTACIÓN DE MOHELNICE – ESTACIÓN DE MORAVIČANY», ref.: 1-1619/2008/2008, de fecha 22. 09. 2008, en V=130 km/h, para las unidades con carrocería inclinada en Vk=160 km/h. En el tramo de vía en cuestión, la velocidad de vía excepcional está establecida en Vexcep=140 km/h.
@@ -534,6 +535,7 @@ enlace telefónico de servicio (red telefónica de explotación de ČD) de la ce
 radioteléfono de a bordo del HDV tipo 71 E1 de la serie 163.014-4, tipo VS 47 (nº 1614), del tren Pn 66161, utilizado por el maquinista del tren Pn 66161, que se encontraba detenido en el momento de la producción del accidente (MU) en el pk 54,833, es decir, a 317 m antes de la señal de entrada 1S de la estación de Moravičany, durante los intentos de establecer conexión de radio con el despachador de la estación de Moravičany – no se logró establecer la conexión de radio entre el llamante y el llamado;
 
 ## Página 17
+
 
 radio de tren HDV tipo 71 E2 serie 163.037-5, tipo VS 47 (n.º 0494), del tren 60398 
 ●
@@ -563,10 +565,10 @@ En el marco de la modernización del II corredor ferroviario de tránsito (obra 
 Con motivo de la activación del nuevo sistema de protección de trenes electrónico tipo ABE-1, incluida la parte de línea del sistema de protección de trenes (en adelante, SPT), se llevó a cabo, de conformidad con la Orden de Circulación ROVZZ n.º 14N32 (etapa B1), un cierre del SPT y del SPT de la vía de línea n.º 1 entre la estación de Mohelnice y la estación de Moravičany, en el horario comprendido entre las 08:05 h del 08. 09. 2008, durante el cual se desactivó el SPT tipo AB, incluido el SPT con transmisión de código de 50 Hz. 
 ### 2.2.6 Activación del plan de emergencia ferroviaria y secuencia de los acontecimientos
 En caso de notificación de un accidente en la vía, el explotador de la vía Správa železniční dopravní cesty, s. o. 
-(en adelante, SŽDC, s. o.), ha emitido una norma interna SŽDC (ČD) Dp 17 «Reglamento para la notificación y la investigación de incidentes», aprobada con el n.º de registro: 70778/2006, el 31. 10. 2006, con efecto desde el 
-
+(en adelante, SŽDC, s. o.), ha emitido una norma interna SŽDC (ČD) Dp 17 «Reglamento para la notificación y la investigación de incidentes», aprobada con el n.º de registro: 70778/2006, el 31. 10. 2006, con efecto desde el
 
 ## Página 18
+
 
 01. 01. 2007, en su versión vigente, que fue asumida por el explotador de la vía SŽDC, s. o., en el sentido del 
 BOLETÍN DE TRANSPORTE Y TARIFAS n.º 29-30 del 16 de julio de 2008. El despachador de la estación de Moravičany actuó de conformidad con lo dispuesto en dicho reglamento, SEGUNDA PARTE NOTIFICACIÓN DE INCIDENTES, Capítulo I «Obligación de notificación» artículos 42 y 46. El despachador actuó simultáneamente de acuerdo con el PLAN DE NOTIFICACIÓN del explotador de la vía elaborado para la estación de Moravičany. La producción del accidente se notificó al jefe de turno del Centro Regional de Operaciones de Ostrava y al SIS.
@@ -599,36 +601,33 @@ Como consecuencia del accidente, una persona sufrió lesiones con resultado de m
 
 ## Página 19
 
-### 2.3.2 En las mercancías transportadas, equipajes y demás bienes
-El daño en las mercancías transportadas – envíos postales cargados en el tren de mercancías Nex 54053 – se cuantificó, a la fecha de emisión del informe sobre los resultados de la investigación de las causas y circunstancias de la colisión (en adelante, informe final), en una cantidad total de 22.165,- Kč.
-El daño en las mercancías transportadas – mercancías (carbón lignito, incluso en polvo, no aglomerado) cargadas en el tren de mercancías Pn 66161 – se cuantificó, a la fecha de emisión del informe final, en una cantidad total de 41.202,- Kč.
-El daño total en las mercancías transportadas asciende a 63.367,- Kč.
-### 2.3.3 En los vehículos ferroviarios, componentes de la vía y en el medio ambiente
-Daños materiales causados en la colisión en los vehículos ferroviarios del tren Nex 54053 (locomotora + 4 vagones), operador
-ČD Cargo, a. s.:
-0. El daño en la locomotora de tipo 69 Er, serie 362.165-3, propietaria ČD, a. s., arrendataria ČD Cargo, a. s., según la inspección comisionada realizada, asciende a 8.795.500,- Kč.
-Según la decisión del operador, en el acta «Acta de inspección comisionada del estado técnico del vehículo ferroviario (de las instalaciones ferroviarias) de la locomotora de tipo 69 Er, serie 362.165-3, realizada en presencia del inspector de circulación en la Estación de Cesión de Vehículos de Česká Třebová el 19.09.2008, se indica lo siguiente: «La extensión final del daño de las distintas unidades de la locomotora se determinará tras la desmontaje». La comisión, además, basándose en la inspección comisionada realizada, constató que el estado técnico de la locomotora no estaba en relación causal con la producción de la colisión. Para la realización de la reparación, la locomotora fue conducida a DPOV, a. s., en Přerov. Dado que la reparación efectiva no se había iniciado a la fecha de elaboración del informe final, el operador no cuantificó el daño real.
-1. El daño en el vagón 56 54 90-78 359-6, serie Post w, propietaria Česká pošta, s. p., asciende a 870.759,- Kč. La reparación del vagón la realizó la empresa especializada ATECO, s. r. o.
-La comisión, basándose en la inspección comisionada realizada, constató que el estado técnico del vagón no estaba en relación causal con la producción de la colisión.
-2. El daño en el vagón 56 54 90-78 374-5, serie Post w, propietaria Česká pošta, s. p., asciende a 547.947,- Kč. La reparación del vagón la realizó la empresa especializada ATECO, s. r. o.
-La comisión, basándose en la inspección comisionada realizada, constató que el estado técnico del vagón no estaba en relación causal con la producción de la colisión.
-3. El daño en el vagón 56 54 90-78 357-0, serie Post w, propietaria Česká pošta, s. p., asciende a 416.392,- Kč. La reparación del vagón la realizó la empresa especializada ATECO, s. r. o.
-La comisión, basándose en la inspección comisionada realizada, constató que el estado técnico del vagón no estaba en relación causal con la producción de la colisión.
-4. No se produjo daño en el vagón 56 54 90-78 353-9, serie Post w, propietaria Česká pošta, s. p.
-El daño total causado en los vehículos ferroviarios del tren Nex 54053 del operador ČD Cargo, a. s., ascendía, a la fecha de elaboración del informe final, a 10.630.598,- Kč.
-Daños materiales causados en la colisión en los vehículos ferroviarios del tren Pn 66161 (locomotora + 32 vagones), operador
-ČD Cargo, a. s.:
+### 2.3.2 Sobre las mercancías transportadas, equipajes y otros bienes
+Los daños sufridos por las mercancías transportadas – envíos postales cargados en los vagones de viajeros del tren Nex 54053 –, a la fecha de emisión del informe de resultados de la investigación de las causas y circunstancias de la aparición del MU (en adelante, informe final), se han cuantificado en un importe total de 22.165,- Kč.
+Los daños sufridos por las mercancías transportadas – mercancía (carbón marrón, también en polvo, no aglomerado) cargada en los vagones de mercancías del tren Pn 66161 –, a la fecha de emisión del informe final, se han cuantificado en un importe total de 41.202,- Kč.
+El daño total a las mercancías transportadas asciende a 63.367,- Kč.
+### 2.3.3 Sobre el material rodante, los componentes de la vía y el medio ambiente
+Daños materiales sufridos en el material rodante del tren Nex 54053 (locomotora + 4 vagones de viajeros), operador ČD Cargo, a. s.:
+0. El daño a la locomotora tipo 69 Er serie 362.165-3, propietaria ČD, a. s., arrendataria ČD Cargo, a. s.), según la inspección colegiada realizada, asciende a 8.795.500,- Kč.
+De acuerdo con la decisión del operador, en el acta "Acta de la inspección colegiada del estado técnico del material rodante (instalaciones ferroviarias) de la locomotora tipo 69 Er serie 362.165-3 realizada en presencia del DI en el DKV Česká Třebová el 19. 09. 2008" se indica que: "El alcance final de los daños en los distintos conjuntos de la locomotora se determinará tras la desmontaje realizado." La comisión, asimismo, sobre la base de la inspección colegiada realizada, constató que el estado técnico de la locomotora no guardaba relación causal con la aparición del MU. Para la reparación, la locomotora fue trasladada a DPOV, a. s., en Přerov. Dado que la reparación propiamente dicha no se había iniciado en el momento de la elaboración del informe final, el operador no cuantificó el daño real.
+1. El daño al vagón de viajeros 56 54 90-78 359-6, serie Post w, propietaria Česká pošta, s. p., asciende a 870.759,- Kč. La reparación del vagón fue realizada por la empresa especializada ATECO, s. r. o.
+La comisión, sobre la base de la inspección colegiada realizada, constató que el estado técnico del vagón no guardaba relación causal con la aparición del MU.
+2. El daño al vagón de viajeros 56 54 90-78 374-5, serie Post w, propietaria Česká pošta, s. p., asciende a 547.947,- Kč. La reparación del vagón fue realizada por la empresa especializada ATECO, s. r. o.
+La comisión, sobre la base de la inspección colegiada realizada, constató que el estado técnico del vagón no guardaba relación causal con la aparición del MU.
+3. El daño al vagón de viajeros 56 54 90-78 357-0, serie Post w, propietaria Česká pošta, s. p., asciende a 416.392,- Kč. La reparación del vagón fue realizada por la empresa especializada ATECO, s. r. o.
+La comisión, sobre la base de la inspección colegiada realizada, constató que el estado técnico del vagón no guardaba relación causal con la aparición del MU.
+4. No se produjo daño en el vagón de viajeros 56 54 90-78 353-9, serie Post w, propietaria Česká pošta, s. p.
+El daño total sufrido en el material rodante del tren Nex 54053 del operador ČD Cargo, a. s., ascendió, en el momento de la elaboración del informe final, a 10.630.598,- Kč.
+Daños materiales sufridos en el material rodante del tren Pn 66161 (locomotora + 32 vagones de mercancías), operador ČD Cargo, a. s.:
 0.
- No se produjo daño en la locomotora de tipo 71 E1, serie 163.014-4, propietaria ČD Cargo, a. s.
-1. No se produjo daño en el vagón 33 78 6650 258-2, serie Fals-z, propietaria NH-TRANS, SE, arrendataria
-ČD Cargo, a. s.
-2. No se produjo daño en el vagón 81 54 6679 691-0, serie Falls, propietaria ČD Cargo, a. s.
-3. No se produjo daño en el vagón 81 54 6676 667-2, serie Falls, propietaria ČD Cargo, a. s.
-4. No se produjo daño en el vagón 81 54 6681 919-1, serie Falls, propietaria ČD Cargo, a. s.
-5. No se produjo daño en el vagón 81 54 6683 089-1, serie Falls, propietaria ČD Cargo, a. s.
-
+ No se produjo daño en la locomotora tipo 71 E1 serie 163.014-4, propietaria ČD Cargo, a. s.
+1. No se produjo daño en el vagón de mercancías 33 78 6650 258-2, serie Fals-z, propietaria NH-TRANS, SE, arrendataria ČD Cargo, a. s.
+2. No se produjo daño en el vagón de mercancías 81 54 6679 691-0, serie Falls, propietaria ČD Cargo, a. s.
+3. No se produjo daño en el vagón de mercancías 81 54 6676 667-2, serie Falls, propietaria ČD Cargo, a. s.
+4. No se produjo daño en el vagón de mercancías 81 54 6681 919-1, serie Falls, propietaria ČD Cargo, a. s.
+5. No se produjo daño en el vagón de mercancías 81 54 6683 089-1, serie Falls, propietaria ČD Cargo, a. s.
 
 ## Página 20
+
 
 6. No se produjo daño en el vagón 33 78 6650 185-7, serie Fals-z, propietaria NH-TRANS, SE, arrendataria
 ČD Cargo, a. s.
@@ -681,42 +680,38 @@ Daños materiales causados en la colisión en los vehículos ferroviarios del tr
 
 ## Página 21
 
-32. El daño causado en el vagón de mercancías (TDV) 81 54 6675 468-7, de la serie Falls, propiedad de ČD Cargo, a. s., asciende a 54.960,- Kč. Debido a la destrucción total del vagón de mercancías, el propietario decidió dar de baja el vehículo y desmontarlo en el lugar de producción del accidente (MU).
-El daño total causado en los vehículos ferroviarios del tren Pn 66161 del transportista ČD Cargo, a. s., ascendía, en el momento de elaboración del informe final, a 287.111,- Kč.
-En los componentes de la vía de circulación —balasto y subbalasto de la vía nº 1— se detectó el siguiente alcance de daños:
-● se alteró la posición geométrica de la vía en una longitud total de aproximadamente 75 m;
-● se dañaron las placas de las carriles en una longitud total de aproximadamente 75 m;
-● se dañaron las traviesas de hormigón y los sistemas de fijación;
-● se ensució el lecho de la vía en una longitud total de aproximadamente 150 m;
-●
-El daño total en la infraestructura ferroviaria, es decir, en el subbalasto y balasto de la vía del operador de la infraestructura, asciende a 662.420,82 Kč.
-Durante el accidente (MU) no se dañó la catenaria de la vía nº 1, incluidas las pantógrafos de apoyo, ni se produjo tampoco un desastre ecológico.
+32. El daño sufrido en el TDV 81 54 6675 468-7, serie Falls, propietario ČD Cargo, a. s., asciende a 54.960,- Kč. Debido a la destrucción total del TDV, el propietario decidió dar de baja el vehículo y desguazarlo en el lugar del MU.
+El daño total sufrido en los vehículos ferroviarios del tren Pn 66161 del operador ČD Cargo, a. s., ascendía, en el momento de la elaboración del informe final, a 287.111,- Kč.
+En los componentes de la vía de circulación —la superestructura y la subestructura de la vía de la vía nº 1— se detectó el siguiente alcance de daños:
+- se vio alterada la posición geométrica de la vía en una longitud total de aprox. 75 m;
+- se dañaron los carriles en una longitud total de aprox. 75 m;
+- se dañaron los traviesas de hormigón y los sistemas de fijación;
+- se ensució el lecho de la vía en una longitud total de aprox. 150 m;
 
+El daño total a la infraestructura ferroviaria, es decir, la subestructura y la superestructura del operador de la vía, asciende a 662.420,82 Kč.
+En el MU no se dañó la línea de contacto de la vía de la vía nº 1, incluidos los soportes de contacto, ni se produjo ninguna fuga ecológica.
 ### 2.4 Circunstancias externas
 ### 2.4.1 Condiciones meteorológicas y datos geográficos
-Clima: temperatura del aire +12ºC, cielo parcialmente nublado, calma, período nocturno, la visibilidad no se vio reducida por las condiciones meteorológicas, siendo superior a 100 m.
-El lugar del accidente (MU) se encuentra en el término catastral de Moravičany, coordenadas GPS: Loc: 49°45'N, 16°57'E.
+Tiempo: temperatura del aire +12ºC, parcialmente nublado, calma, período nocturno, la visibilidad por encima de 100 m no se vio reducida por influencias meteorológicas.
+El lugar del MU se encuentra en el término municipal de Moravičany, coordenadas GPS: Loc: 49°45'N, 16°57'E.
+## 3 REGISTRO DE LAS EXPLICACIONES PRESENTADAS
+### 3.1 Resumen de las explicaciones presentadas
+### 3.1.1 Empleados del operador de la vía y del operador ferroviario, incluidas personas en relación contractual
+### Jefe de maniobras de la est. Moravičany
+En el documento "Registro oficial de la explicación presentada" elaborado por la Policía de la República Checa en Mohelnici el 13. 09. 2008 de 06:50 a 08:34 h., entre otros, indicó:
+"El 12. 9. 2008 comencé mi turno nocturno planificado 12./13.9.2008 como jefe de maniobras (en términos populares, principal). Tomé el turno a las 17:52 h., lo cual está documentado en la entrega de servicio y en el diario de circulación."
+"El turno transcurrió, teniendo en cuenta la activación del nuevo sistema electrónico de enclavamiento de estación, bastante bien, sin complicaciones. Me gustaría señalar el hecho de que entre las estaciones
 
-## 3 REGISTRO DE LAS EXPLICACIONES PRESTADAS
+## Página 22
 
-### 3.1 Resumen de las explicaciones prestadas
-### 3.1.1 Empleados del operador de la infraestructura y del transportista, incluidas las personas en relación contractual
-
-### Despachador de tráfico de la estación de Moravičany
-En el documento "Registro oficial de la explicación prestada" elaborado por la Policía de la República Checa en Mohelnice el 13.09.2008 de 06:50 a 08:34 horas, se indicó, entre otros aspectos:
-"El 12.9.2008 comencé mi turno nocturno planificado del 12./13.9.2008 como despachador de tráfico (en lenguaje coloquial, jefe de turno). El turno lo asumí a las 17:52 horas, lo cual está documentado en el traspaso del servicio y en el diario de tráfico."
-
-"El turno transcurrió, teniendo en cuenta la activación del nuevo dispositivo electrónico de protección de la estación, de manera bastante buena, sin complicaciones. Quisiera señalar el hecho de que entre las estaciones se circulaba interstacionalmente por ambas vías de circulación, al igual que se circulaba interestacionalmente entre las estaciones ferroviarias de Moravičany – Červenka por ambas vías de circulación, todo ello de conformidad con la Orden de exclusión del dispositivo de protección nº 14N32 del 21.8.2008 y de conformidad con las anotaciones en el registro de averías de los equipos de comunicación y protección de la estación de Moravičany. La circulación de los trenes se aseguraba de la siguiente manera: en la primera vía de circulación entre las estaciones de Mohelnice – Moravičany, mediante comunicación telefónica (lo que significa que la circulación de cada tren se aseguraba mediante una oferta telefónica, aceptación telefónica y cancelación telefónica); en la segunda vía de circulación de la estación de Moravičany – Mohelnice, la circulación de los trenes se aseguraba mediante la actividad del dispositivo de protección. Para completar la información, indico que los trenes que circulaban por la primera vía de circulación desde Mohelnice hacia Moravičany salían de la estación de Mohelnice bajo la señal de salida permisible del semáforo de salida, es decir, los trenes entraban en la estación de Moravičany por la entrada de Moravičany bajo la señal luminosa de llamada de entrada en el semáforo de entrada."
-
-"En lo que respecta a la circulación del tren 66161, no puedo proporcionar ninguna información, ya que el despachador de la estación de Mohelnice no me informó en absoluto sobre la circulación de este tren; es decir, hablo del tren que permaneció antes del semáforo de entrada de la estación de Moravičany, es decir, del tren en el que se entró en colisión. Sin embargo, lo que puedo confirmar inequívocamente es que, tras el último tren que circulaba en dirección impar (63101), se dio correctamente por mi parte la cancelación y, tras esta, hubo una pausa de tráfico de aproximadamente 20 minutos (es decir, no circulaba ningún tren en ninguna dirección), y a las 02:25 horas circulaba por la segunda vía de estación y hacia la segunda vía de circulación hacia Mohelnice un tren de mercancías, cuyo número no recuerdo, el despachador exterior colega ...... (se indica el apellido del despachador exterior de la estación de Moravičany) observaba la circulación de este tren, cuando tras el paso de la locomotora y los primeros vagones, este tren comenzó a frenar bruscamente; para ello, en condiciones normales de explotación, no habría motivo, lo que me alertó de que ocurría algo. El tren se detuvo de tal manera que los últimos vagones aún estaban en la segunda vía de estación. Inmediatamente me puse en contacto mediante radio de vía (TRS – radio transmisor) con el maquinista de este tren par, quien me informó de que se detuvo debido a la detección de luces rojas del tren impar que permanecía antes del semáforo de entrada de la estación de Moravičany. Estas luces rojas están situadas en cada locomotora, su función es tal que, en condiciones normales de explotación, las luces de la locomotora son de color blanco y el maquinista cambia a las luces rojas únicamente en caso de evento extraordinario o de evitar un peligro inminente; así entendí, tras la conversación con el maquinista del tren par, que había ocurrido algo. Además, a través de la TRS, el maquinista del tren par me informó de que había hablado con el maquinista del tren que estaba junto al semáforo de entrada (en la primera vía de circulación), que había sentido un impacto por la parte trasera y había avanzado con el tren unos 4 metros hacia adelante. Tras esto, acordamos con el maquinista del tren par que continuaría la circulación a paso lento hacia la estación de Mohelnice para averiguar qué había ocurrido. Posteriormente, perdí el contacto con el maquinista de este tren (probablemente debido a que el maquinista cambió a otro canal). Obtuve otra información del despachador de la estación de Mohelnice, con el paso del tiempo no recuerdo exactamente lo que me dijo."
-
-"Según mi orden, el colega exterior ...... (se indica el apellido del despachador exterior de la estación de Moravičany) se comunicó con el despachador en Mohelnice a las 02:18 horas. En relación con la recepción del tren NEX en dirección desde Mohelnice, con el fin de que este tren pasara por la estación de Mohelnice a las 02:23 horas. Mediante este procedimiento prescrito, se permitió al despachador de la estación de Mohelnice realizar la circulación del tren NEX hacia Moravičany por la primera vía de circulación. Indico esto para completar la información, ya que lo que he indicado anteriormente precedió al propio paso del tren a las 02:25 horas en dirección a Mohelnice por la segunda vía de circulación, su frenado y los acontecimientos subsiguientes. Como he indicado, la oferta y la recepción del tren NEX desde Mohelnice, según mi orden, las gestionaba el despachador ...... (se indica el apellido del despachador exterior de la estación de Moravičany), la preparación de la ruta del tren y la operación del dispositivo de protección ya las realizaba yo (la señal luminosa de llamada era dada por mí)."
-
-"Por lo tanto, es evidente de lo anterior que no fui informado por el despachador de la estación de Mohelnice de que algún tren hubiera entrado en la primera vía de circulación; subrayo que no di mi consentimiento para la circulación de ningún tren en la primera vía de circulación Mohelnice – Moravičany; dicho consentimiento (oferta + aceptación) se dio únicamente para el tren NEX y, por tanto, no sabía que el tren NEX circulaba por la primera vía de circulación ocupada."
-
-"En relación con la comunicación con el despachador de la estación de Mohelnice, ante la pregunta, indico que, además de la conexión telefónica directa de vía con este despachador, estuve en contacto con él también a través del teléfono ferroviario
+Entre Mohelnice y Moravičany se circulaba entre estaciones por ambas vías de tráfico, igualmente se circulaba entre estaciones entre las estaciones de ferrocarril Moravičany – Červenka por ambas vías de tráfico, todo en conformidad con la Orden de corte del dispositivo de enclavamiento nº 14N32 de fecha 21. 8. 2008 y en conformidad con las anotaciones en el registro de averías de los dispositivos de comunicación y enclavamiento de la est. Moravičany. La circulación de los trenes se aseguraba de la siguiente manera: En la primera vía de tráfico entre la est. Mohelnice – Moravičany mediante comunicación telefónica (lo cual significa que la circulación de cada tren estaba asegurada con una oferta telefónica, una aceptación telefónica y una anulación telefónica), en la segunda vía de tráfico est. Moravičany – Mohelnice la circulación de los trenes se aseguraba mediante la acción del dispositivo de enclavamiento. Para mayor claridad indico que los trenes que circulaban por la primera vía de tráfico desde Mohelnice hasta Moravičany salían de la est. Mohelnice con la indicación autorizadora de la señal de salida, es decir, en la cabecera de salida de Moravičany hacia la est. Moravičany los trenes entraban con la señal luminosa de llamada en la señal de entrada."
+"En cuanto a la circulación del tren 66161 no puedo facilitar ninguna información, porque no fui informado en absoluto por el jefe de estación de la est. Mohelnice sobre la circulación de este tren, es decir, hablo del tren que permaneció delante de la señal de entrada hacia la est. Moravičany, es decir, del tren en el que se embistió. Lo que sí puedo confirmar de forma inequívoca es que tras el último tren en circulación de dirección impar (63101) fue dada por mí debidamente la anulación y tras ella siguió una pausa de tráfico de unos 20 minutos (es decir, no circulaba nada en ninguna dirección), y posteriormente a las 02:25 h circulaba por la segunda vía de estación y por la segunda vía de tráfico hacia Mohelnice un tren de mercancías, el número no lo recuerdo, el compañero jefe de estación exterior ...... (indicado el apellido del jefe de estación exterior de la est. Moravičany) observaba la circulación de este tren, cuando tras el paso de la locomotora y los primeros vagones este tren comenzó a frenar bruscamente, a lo que en condiciones normales de explotación no habría motivo, eso me alertó de que algo estaba ocurriendo. El tren se detuvo de manera que los últimos vagones aún se encontraban en la segunda vía de estación. Inmediatamente me puse en contacto mediante el enlace radiofónico de vía (TRS – walkie-talkie) con el maquinista de este tren par, que me informó de que se había detenido debido a la detección de luces rojas del tren impar, que se encontraba detenido delante de la señal de entrada hacia la est. Moravičany. Estas luces rojas están situadas en cada locomotora, su función es tal que en condiciones normales de explotación las luces de la locomotora son de color blanco y el maquinista conmuta a las luces rojas únicamente en caso de incidencia excepcional o para evitar un peligro inminente, así lo comprendí tras la conversación con el maquinista de la dirección par, que algo había ocurrido. Además, a través del TRS del maquinista del tren par supe que había hablado con el maquinista del tren detenido junto a la señal de entrada (en la primera vía de tráfico), que había sentido un golpe por detrás y había avanzado con el tren unos 4 metros. Tras esto me puse de acuerdo con el maquinista del tren par para que continuara la marcha a paso de tren hasta la est. Mohelnice y averiguara qué había ocurrido. Posteriormente perdí la comunicación con el maquinista de este tren (probablemente debido a que el maquinista conmutó a otro canal). La información posterior la obtuve del jefe de estación de la est. Mohelnice, con el paso del tiempo no soy capaz de recordar exactamente lo que me dijo."
+"Por mi indicación, el compañero exterior ...... (indicado el apellido del jefe de estación exterior de la est. Moravičany) se comunicó con el jefe de estación en Mohelnice a las 02:18 h. En relación con la recepción del tren NEX en dirección desde Mohelnice, con el hecho de que este tren debía circular por la est. Mohelnice a las 02:23 h. Con este procedimiento prescrito permitió al jefe de estación de la est. Mohelnice efectuar la circulación del tren NEX hacia Moravičany por la primera vía de tráfico. Lo indico para mayor claridad, pues lo que he indicado anteriormente precedió al paso propiamente dicho del tren a las 02:25 h en dirección a Mohelnice por la segunda vía de tráfico, su frenado y los acontecimientos posteriores. Como he indicado, la oferta y la aceptación del tren NEX desde Mohelnice según mi indicación las realizaba el jefe de estación ...... (indicado el apellido del jefe de estación exterior de la est. Moravičany), la preparación de la vía del tren y la maniobra del dispositivo de enclavamiento ya las realizaba yo (la señal luminosa de llamada era dada por mí)."
+"De lo anteriormente expuesto se deduce, por tanto, que no fui informado por el jefe de estación de la est. Mohelnice de que algún tren circulara por la primera vía de tráfico, subrayo que no di mi consentimiento para la circulación de ningún tren por la primera vía de tráfico Mohelnice – Moravičany, ese consentimiento (oferta + aceptación) fue dado únicamente para el tren NEX y por tanto desconocía que el tren NEX circulara por la primera vía de tráfico ocupada."
+"En cuanto a la comunicación con el jefe de estación en la est. Mohelnice, indico a petición que, además de la conexión telefónica directa de vía con este jefe de estación, me encontraba en comunicación con él también a través del teléfono ferroviario
 
 ## Página 23
+
 
 conexión, creo que fue él quien me llamó por primera vez de esta manera, pero fue después de los acontecimientos; antes no me había comunicado con mi compañero de Mohelnice de esta manera, al menos no lo recuerdo. Para explicarlo, la conexión telefónica directa de vía está destinada y funciona únicamente entre las estaciones ferroviarias vecinas, en el caso de la estación de Moravičany, es decir, solo para la conexión con las estaciones de Mohelnice y Červenka. El segundo tipo de conexión puede utilizarse para comunicarse con cualquier estación dentro de la red de transporte ferroviario en el territorio de la república. Por lo tanto, hablamos a través de esta segunda red, aunque no recuerdo con exactitud el contenido de las conversaciones, pero sin duda se referían al incidente.”
 “Para concluir, quiero señalar que no soy consciente de ninguna infracción de los reglamentos de servicio ni de ningún hecho que haya conducido a la aparición de este incidente extraordinario. Tras la detección del incidente extraordinario, a petición de mi compañero ...... (se indica el apellido del despachador de la estación de Mohelnice) de la estación de Mohelnice, procedí conforme al plan de notificación establecido en los reglamentos internos.”
@@ -736,6 +731,7 @@ En el documento «Acta oficial de la declaración prestada», elaborado por la P
 
 ## Página 24
 
+
 el maquinista recibió la señal: Alto, deténgase con todos los medios. Esta señal le fue dada por el maquinista del tren en la vía impar mediante el encendido de la luz roja en su locomotora. Posteriormente, el despachador de tráfico me envió para que fuera a averiguar qué había ocurrido. Mientras tanto, el tren en la vía par había comenzado a avanzar a paso lento hacia adelante; más tarde supe del despachador de tráfico que este había dado instrucciones al maquinista de dicho tren par para que continuara avanzando a paso lento y averiguara qué había ocurrido. Por lo tanto, me dirigí a pie por la vía en dirección a Mohelnice y, en el semáforo de entrada en dirección procedente de Mohelnice, comprobé que en la vía impar se encontraba detenido un tren de mercancías. Respecto a este tren, declaro que ni yo ni el despachador de tráfico sabíamos que dicho tren se encontraba en la vía impar. Probablemente el telegrafista de Mohelnice lo había hecho pasar sin notificárnoslo. Dicho semáforo de entrada se encuentra, a mi estimación, a unos 600 metros de nuestra oficina de tráfico, y el tren en la vía impar, o más concretamente su locomotora, estaba detenido a unos 100 metros del semáforo de entrada, en dirección a Mohelnice. Se trataba de un tren de mercancías cuya longitud estimo en unos 500 metros y, posteriormente, a través del ordenador, supe que su masa total era de aproximadamente 1.600 toneladas.“
 
 «Interrogué al maquinista de este tren impar sobre por qué había dado al tren par la señal de Alto, deténgase con todos los medios, a lo cual el maquinista me respondió que se encontraba detenido ante el semáforo de entrada de la estación de ferrocarril de Moravičany y que había sentido un impacto por la parte trasera de su tren; como no sabía de qué se trataba y vio que desde la dirección de Moravičany se acercaba el tren par, decidió dar al tren par la señal de Alto, deténgase con todos los medios, por si acaso no ocurriera nada.»
@@ -749,6 +745,7 @@ el maquinista recibió la señal: Alto, deténgase con todos los medios. Esta se
 ### Telegrafista de la estación de Mohelnice
 
 ## Página 25
+
 
 En el documento «Acta oficial de la declaración prestada», elaborado por la Policía de la República Checa en Mohelnice el 13.09.2008, de 09:15 a 10:14 h, se indica, entre otros aspectos, lo siguiente:
 «Cuando comencé el turno, sentía que estaba cansado, nervioso y llevaba ya unos 15 días cansado, pero no tomo ningún medicamento».
@@ -764,6 +761,7 @@ En el documento «Acta oficial de ampliación de la declaración prestada», ela
 «En relación con la explicación, indico que parte de esta seguridad de circulación del tren es la llamada oferta y aceptación, y cancelación tras el tren. El procedimiento es tal que, mediante una formulación verbal vinculante estrictamente definida, ofrezco el tren a la estación adyacente de la siguiente manera: ¿acepta el tren 66161 con paso por Mohelnice a las ....
 
 ## Página 26
+
 
 horas, como firma pondré mi nombre ...... (se indica el apellido), el despachador de la estación adyacente recibe 
 el tren de la siguiente manera: «sí, acepto el tren 66161 con paso por Mohelnice .... horas, como firma pondré 
@@ -809,6 +807,7 @@ asiento, golpeé la pared trasera de la cabina y caí al suelo. Aturdido, perman
 
 ## Página 27
 
+
 sobre el suelo. Tras un tiempo me puse en pie y vi las luces del tren que atravesaba la estación. Encendí la luz roja en el lado izquierdo del frontal de la locomotora y parpadeé con el faro y, a continuación, bajé de la locomotora al lado izquierdo entre las vías 1.ª y 2.ª y corrí contra el tren que se acercaba por la vía 2.ª y, con la linterna encendida en la mano, di la señal de «Alto, deténganse con todos los medios». El maquinista del tren que venía en sentido contrario me parpadeó con la luz del faro y oí el frenado del tren y vi cómo reducía la velocidad hasta detenerse a unos 180 metros delante de mí. Yo estaba a unos 30 metros de mi locomotora. Me dirigí hacia la locomotora del tren detenido y, en sentido contrario, venía el maquinista de la locomotora acoplada detrás de la locomotora de cabeza del tren de mercancías contrario. Con este maquinista coincidí aproximadamente a mitad de camino y acordamos con él que él iría a inspeccionar mi locomotora y yo iría hacia el maquinista del tren contrario. En la cabina del maquinista le expliqué lo ocurrido y él, aproximadamente por segunda vez, estableció la conexión de radio con el despachador de la estación de Mohelnice, a quien comuniqué el número del tren y que se había producido una colisión contra el final de mi tren. Él afirmó que no sabía nada de ello y que no había pasado ningún tren por allí. Le dije que enviara a alguien, que se había producido una colisión. A continuación, se produjeron algunas preguntas y conversaciones por la radio a las que ya no recuerdo con exactitud. Acordamos con el maquinista del tren contrario que él investigaría lo ocurrido y, basándonos en su propuesta, que nos comunicaríamos mediante las radios en el canal n.º 12. Regresé a mi tren y el compañero que estaba vigilando la locomotora también regresó a su tren. Yo aseguré la locomotora y el tren aplicando el número necesario de frenos de mano y cambié la radio al canal acordado n.º 12, en espera de que se necesitara mi ayuda. El tren contrario en la vía 2.ª se desplazó ligeramente hacia el final de mi tren y, a continuación, escuché en la emisora que se había producido una colisión, con la solicitud de llamar a una ambulancia y a la policía. Él me dijo entonces que no se necesitaba mi ayuda».
 
 Pregunta n.º 1: ¿Cómo tenía configurada la radio en la locomotora antes del incidente?
@@ -824,6 +823,7 @@ En el documento «Acta de la explicación prestada por el testigo del incidente 
 «El 13.09.2008 llegaba con el tren Pn 66161 a la estación de Moravičany; el semáforo de entrada estaba en «Alto»; me detuve antes de lo previsto debido a la reconstrucción de la línea, por temor a la colocación de señales portátiles para el servicio eléctrico, aunque no había recibido una orden escrita sobre su colocación. En el pasado me había ocurrido en varias ocasiones durante la construcción del corredor que se instalaran señales portátiles para el servicio eléctrico y yo no hubiera recibido una orden escrita al respecto. Tras la parada, completé los papeles y transcurrieron 5, 6, 7 minutos, no lo puedo estimar ahora, cuando salí a satisfacer una necesidad. Regresé y por la radio, que estaba en la cinta, canal 64, llamé directamente al despachador y todas las luces indicadoras de la radio se apagaron, es decir, no se iluminaba el canal libre. Dado que no se estableció la conexión, solicité una llamada y ocurrió prácticamente lo mismo, es decir, se apagaron todas las luces indicadoras. Una vez más no logré establecer la llamada con el despachador, porque el tren estaba detenido en un lugar donde probablemente no hay cobertura. A este respecto indico que mi radio estaba en buen estado, lo cual verifiqué mediante la inscripción «D test» en la estación de Česká Třebová y posteriormente al cambiar al canal 64 antes de la estación de Hoštejn. En ambos casos me fue confirmado por la luz indicadora. Decidí ir a llamar mediante el teléfono de línea hasta el semáforo, que sería»
 
 ## Página 28
+
 
 más seguro. Me llevé todas las cosas, es decir, el lápiz, la linterna, las órdenes, y luego encendí el faro y consideré que estaba lejos, unos 150 a 180 metros. Para no tener que asegurar el tren, decidí mover el tren. El tren tenía los frenos liberados. Cuando cruzaba en la cabina de un lado a otro para liberar los frenos de la locomotora y mover el tren, se produjo una colisión. Golpeé con la cabeza y el hombro contra la pared y caí sobre el asiento. Cuando me levanté del suelo, ya no recuerdo si activé reflexivamente el freno de emergencia. Vi las luces del tren contrario, encendí una luz roja más cerca de la vía adyacente, parpadeé varias veces con el faro de largo alcance y, como tenía una linterna grande con luz roja, bajé de la cabina y corrí hacia ese tren dando la señal «Alto, deténganse con todos los medios». Al cabo de un momento, el maquinista del tren contrario me parpadeó y oí el frenado de ese tren. En ese tren contrario había dos maquinistas y con uno de ellos me encontré a mitad de camino entre nuestros trenes. Acordamos que el compañero vigilara mi tren y yo siguiera hasta la locomotora del tren contrario para, a través de su radio, averiguar qué había ocurrido, dado que su locomotora estaba en otro lugar que la mía y, por tanto, suponía que se podría establecer la comunicación. Si bien recuerdo, ya ha pasado bastante tiempo, logré establecer la comunicación con la estación de Mohelnice, donde comuniqué al despachador que se había producido una colisión contra mi tren. Él me dijo que no podía haberse producido ninguna colisión, porque ningún tren me seguía. No recuerdo con exactitud el resto de la comunicación con el despachador, pero recuerdo que el despachador de Mohelnice me aseguraba que no había pasado nada por allí. Me presenté de nuevo ante él indicando el número del tren y recuerdo bien que me dijo algo así como «¿y tú sigues ahí?». Ya no hablé más con él. Posteriormente, acordé con los maquinistas del tren contrario que yo regresaría a mi locomotora, es decir, aseguraría el tren, aseguraría la locomotora y, si fuera necesario, volvería a reunirme con ellos. Tras regresar a la locomotora, tras acordarlo con los maquinistas del tren contrario, pasamos al canal simplex de la radio de a bordo y, tras un tiempo, me comunicaron a través de la radio que un tren me había impactado por la parte trasera y que me quedara en la locomotora, que llamarían tanto a la policía como a la ambulancia.»
 
@@ -841,6 +841,7 @@ Pregunta n.º 6: ¿Tuvo a disposición el teléfono móvil de servicio durante e
 Respuesta: «Sí, lo llevaba conmigo.»
 
 ## Página 29
+
 
 Pregunta n.º 7: En el encabezamiento de la declaración explica que, para advertir al despachador del tren detenido en el semáforo de entrada durante más de 10 minutos, utilizó la radio de a bordo, pero no logró establecer la comunicación. ¿Por qué no utilizó los dispositivos de telecomunicaciones, es decir, el teléfono móvil de servicio, que, como indica anteriormente, tenía a su disposición, para advertir al despachador?
 Respuesta: «Porque no tenía el número del despachador de la estación de Moravičany ni el de los despachadores de las estaciones vecinas.»
@@ -864,6 +865,7 @@ Pregunta n.º 6: ¿Considera que la realización del control del cumplimiento de
 Respuesta: «Definitivamente no, pero teniendo en cuenta el hecho de que, durante el período analizado, se estaba llevando a cabo una intensa actividad de interrupción del tráfico en las estaciones de Mohelnice, Moravičany y Lukavice na Moravě: la construcción del corredor ferroviario y la activación de nuevos dispositivos de seguridad, por lo que, en
 
 ## Página 30
+
 
 na svou funkci vykonával kontrolní činnost zaměřenou i na tuto oblast.“
 ### Empleado n.º 2 encargado de realizar actividades de control en el ámbito de la estación de ferrocarril de nodos de Olomouc / 
@@ -899,6 +901,7 @@ elaborado por la Inspección Ferroviaria, en Olomouc el 10. 12. 2008 de 11:30 a 
 
 ## Página 31
 
+
 Pregunta n.º 1: ¿En virtud de qué documento fue usted, en el período comprendido entre el 01. 01. 2008 y el 13. 09. 2008,
 empleado encargado de realizar actividades de control en el ámbito de la estación de ferrocarril de nodos
 Olomouc / del Distrito Operativo de Olomouc?
@@ -933,6 +936,7 @@ Pregunta n.º 4: ¿Utilizó, durante el control del cumplimiento de la disciplin
 
 ## Página 32
 
+
 ¿mediante el dispositivo ReDat 3, que se encuentra instalado en las instalaciones de la estación de Mohelnice?
 ### Respuesta: «No».
 Pregunta n.º 5: ¿Considera usted que la realización del control del cumplimiento de la disciplina de la comunicación sin utilizar el dispositivo de grabación instalado ReDat 3, es decir, únicamente mediante la escucha de la comunicación directa llevada a cabo por las personas que dirigen el tráfico ferroviario en el momento en que las personas controladas son conscientes de la realización de la actividad de control, es eficaz y eficiente?
@@ -959,6 +963,7 @@ Desde diciembre de 2007 se han facilitado teléfonos móviles de servicio a los 
 
 ## Página 33
 
+
 Pregunta n.º 1: ¿Puede confirmar esta información?
 Respuesta: «Sí, sobre la base de las ayudas ya elaboradas anteriormente, de diversas listas, elaboré a principios de enero de 2008 la primera versión de la lista de teléfonos, que contenía, entre otros, los números de teléfono de contacto de los despachadores de las estaciones ferroviarias seleccionadas, del brazo de tracción y del brazo de acompañamiento de la unidad operativa de Česká Třebová. Esta lista de teléfonos la actualicé y completé progresivamente. Creé estas listas para las necesidades de trabajo de los jefes de máquina y de los maquinistas. Tras copiarlas, las puse a disposición libre de los maquinistas, quienes las podían recoger progresivamente. La recogida de la lista de teléfonos por parte de los maquinistas fue voluntaria; no documenté la recogida en ningún lugar ni me consta que se hiciera. A la lista de teléfonos creada por mí siguió una lista que contenía los nombres de las estaciones ferroviarias, divididas por líneas según los cuadernos de horarios, los números de teléfono de los despachadores, el número del grupo de canales en la red de radio, los números de las estaciones ferroviarias para su introducción en el velocímetro electrónico. Esta lista fue elaborada por un empleado que desempeñaba la función de ingeniero de tráfico ferroviario como ayuda para reducir los errores al rellenar los registros del operador. La lista se distribuyó nuevamente de forma libre entre los maquinistas, quienes podían recogerla. La recogida de esta lista por parte de los maquinistas fue voluntaria; no se documentó la recogida en ningún lugar.»
 ### Maquinista del tren Nex 54053 en el tramo Praha-Malešice – Pardubice
@@ -970,18 +975,19 @@ En el documento «Acta con el empleado» elaborado por ČD Cargo, a. s. – PJ O
 
 ## Página 34
 
-acompañando a la locomotora de maniobras HDV serie 448P-084). Tras un tiempo, vimos bajo la luz de los faros que entraban en el perfil de la segunda vía de circulación restos de vagones de mercancías. Detuve el tren y, junto con el Sr. ....... (se indica el apellido del maquinista que acompañaba a la locomotora de maniobras HDV serie 448P-084), fuimos a averiguar exactamente qué había ocurrido. Vimos que la locomotora del tren de correos había impactado contra el extremo del tren de mercancías. El Sr. ....... (se indica el apellido del maquinista que acompañaba a la locomotora de maniobras HDV serie 448P-084), desde nuestra locomotora, llamó por radio al jefe de estación y le informó de lo ocurrido, pidiéndole que llamara a los servicios de emergencia. La locomotora del tren de correos estaba considerablemente destrozada. Junto con el Sr. ....... (se indica el apellido del maquinista que acompañaba a la locomotora de maniobras HDV serie 448P-084), intentamos acceder a la locomotora del tren de correos, pero no lo logramos debido al daño de las puertas en la segunda cabina. Regresé corriendo a mi locomotora y cogí un martillo con el que rompí la ventana lateral de las puertas de la segunda cabina. Entramos y atravesamos la sala de máquinas hasta la primera cabina. Logramos abrir las puertas de la cabina y allí, tras las puertas entre los escombros de la cabina, encontramos al maquinista. Intenté comprobar si estaba con vida, pero no le encontré pulso ni se observaban signos de vida. Tras un breve momento, ya llegaron los servicios de emergencia, a los que informamos del estado y les ayudamos a acceder a la locomotora. Posteriormente, regresé a mi locomotora y, junto con el Sr. ....... (se indica el apellido del maquinista que acompañaba a la locomotora de maniobras HDV serie 448P-084), esperé la llegada de los investigadores. Antes de las ocho de la mañana, siguiendo las instrucciones, retrocedimos con el tren hasta la estación de ŽST Moravičany“.
-### Jefe de trenes de ČD Cargo, a. s. - PJ Česká Třebová
-En el documento «Acta con el empleado» elaborado por ČD Cargo, a. s. – PJ Česká Třebová, en Česká Třebová el 15. 09. 2008 de 09:30 a 10:00 horas, se indica, entre otras cosas:
-«Aproximadamente a las 1:00, el jefe de panelista SEVER me comunicó por radio que el tren Nex 54053 circulaba por la vía 2, donde supuestamente ya había problemas de frenado desde Pardubice. Llegué a la vía n.º 2 en el momento en que el tren se detenía. Inmediatamente observé una fuga audible de aire del circuito de frenado del último vagón n.º 56 54 90 78 357-0. Comprobé que la varilla del descargador automático estaba atascada. A pesar de ello, el vagón estaba frenado. Durante la inspección visual, comprobé que algunos cuñas de freno estaban sobrecalentadas y desintegradas, y faltaban dos por completo. La superficie de rodadura de las cuatro ruedas estaba en orden, sin quemaduras ni zonas planas. Para permitir la continuación del viaje con los vagones hasta la estación de destino, desactivé el freno de presión del vagón y purgué los espacios del freno y el circuito».
-«Posteriormente, de acuerdo con el reglamento V15/I, hice reencolar el vagón de manera que se clasificara como penúltimo y, a continuación, realicé la prueba completa del freno en el tren. El vagón desactivado lo señalé con las pegatinas 5 304 y 5 311. Informé al maquinista y al jefe de estación en la plataforma 3 de las operaciones realizadas, indicando que sería necesario reducir la velocidad del tren».
+locomotora de apoyo de la serie 448P-084). Tras un rato vimos, con la luz del proyector lejano, que en el perfil de la segunda vía de circulación se adentraban partes de vagones de mercancías. Detuve el tren y, junto con el Sr. ....... (indicado el apellido del maquinista que acompañaba a la locomotora de la serie 448P-084), fuimos a comprobar exactamente qué había ocurrido. Vimos que la locomotora del tren de correos había embestido el final del tren de mercancías. El Sr. ....... (indicado el apellido del maquinista que acompañaba a la locomotora de la serie 448P-084) llamó por radio desde nuestra locomotora al jefe de estación y le contó lo que había ocurrido, y le pidió que llamara a los servicios de emergencia. La locomotora del tren de correos quedó considerablemente destruida. Con el Sr. ....... (indicado el apellido del maquinista que acompañaba a la locomotora de la serie 448P-084) intentamos acceder a la locomotora del tren de correos, pero no lo conseguimos debido a los daños en la puerta del segundo puesto de conducción. Corrí de vuelta a mi locomotiva y cogí un martillo, con el que rompí la ventana lateral de la puerta del segundo puesto de conducción. Entramos en el interior y atravesamos la sala de máquinas hasta el primer puesto de conducción. Logramos abrir la puerta del puesto y allí, tras la puerta, entre los restos del puesto, encontramos al maquinista. Intenté comprobar si estaba con vida, pero no le encontré pulso ni se apreciaba que diera signos de vida. Al poco llegaron los servicios de emergencia, a los que informamos de la situación y ayudamos a subir a la locomotiva. Después regresé a mi locomotiva y allí, junto con el Sr. ....... (indicado el apellido del maquinista que acompañaba a la locomotora de la serie 448P-084), esperamos la llegada de los investigadores. Antes de las ocho de la mañana, según las instrucciones recibidas, retiramos el tren de vuelta a la EST Moravičany".
+### Jefe de tren ČD Cargo, a. s. - Unidad de producción Česká Třebová
+En el documento "Acta con el empleado" elaborado por ČD Cargo, a. s. – PJ Česká Třebová, en Česká Třebová el 15. 09. 2008 de 09:30 a 10:00 horas, entre otros, declara:
+"Aproximadamente a la 1:00, el jefe de estación del panel SEVER me comunicó por radio que por la vía 2 circulaba el tren Nex 54053, que supuestamente presentaba problemas de frenado ya desde Pardubice. Llegué a la vía n.º 2 en el momento en que el tren se detuvo. Inmediatamente percibí una fuga de aire audible en la tubería de freno del último vagón n.º 56 54 90 78 357-0. Comprobé que la varilla del desconector automático de freno estaba atascada. Aun así, el vagón estaba ligeramente frenado. En la inspección visual comprobé que algunas zapatas de freno estaban sobrecalentadas y desintegradas, y dos faltaban por completo. La superficie de rodadura de los cuatro juegos de ruedas estaba en buen estado, sin rebabas ni zonas planas. Para permitir la circulación posterior de los vagones hasta la estación de destino, desconecté el freno de aire del vagón y ventilaron las cámaras de freno y la tubería."
+"A continuación, de conformidad con la norma V15/I, hice reubicar el vagón de modo que quedara en la posición penúltima y, posteriormente, realicé una prueba completa de freno en el tren. Marqué el vagón desconectado con las etiquetas 5 304 y 5 311. Comunicé las actividades realizadas al maquinista y al jefe de estación del andén n.º 3, indicando que sería necesario reducir la velocidad del tren."
 ### 3.2 Sistema de garantía de la seguridad
-### 3.2.1 Organización marco y forma en que se dictan y ejecutan las instrucciones
-La organización marco y la forma de dictar y ejecutar las instrucciones en la explotación de la vía férrea y del transporte ferroviario en relación con el accidente objeto de investigación se establecen mediante los procedimientos tecnológicos contenidos en las normas internas del administrador de la infraestructura y del operador de transporte ferroviario, entre las que se pueden citar:
-Norma interna de SŽDC (ČD) D1 «NORMA PARA EL USO DE LAS SEÑALES EN LA ORGANIZACIÓN Y EXPLOTACIÓN DEL TRANSPORTE FERROVIARIO», aprobada por decisión del director general de Česká dráha el 15 de abril de 1997, ref.: 55216/97-O11, en su versión vigente, que fue asumida por el administrador de la infraestructura SŽDC, s. o., en el sentido del BOLETÍN DE TRANSPORTE Y TARIFAS n.º 29-30, del 16 de julio de 2008, art. 114, donde se indica:
-«La señal 26, Precaución (luz amarilla) permite al maquinista circular con el tren y anticipa la señal Alto en el siguiente semáforo principal».
+### 3.2.1 Organización marco y forma en que se emiten y ejecutan las instrucciones
+La organización marco y la forma de emisión y ejecución de las instrucciones en la explotación de la vía y del transporte ferroviario en relación con el MU en cuestión viene determinada por los procedimientos tecnológicos contenidos en las normas internas del explotador de la vía y del explotador del transporte ferroviario, entre los que se pueden incluir:
+Norma interna SŽDC (ČD) D1 "NORMA PARA EL USO DE SEÑALES EN LA ORGANIZACIÓN Y EXPLOTACIÓN DEL TRANSPORTE FERROVIARIO", aprobada por decisión del director general de los Ferrocarriles Checos el 15 de abril de 1997, n.º de expediente: 55216/97-O11, en su versión vigente, que fue asumida por el explotador de la vía SŽDC, s. o., en el sentido del BOLETÍN DE TRANSPORTE Y TARIFAS n.º 29-30, de 16 de julio de 2008, art. 114, donde se indica:
+"La señal 26, Aviso (luz amarilla) permite al maquinista la circulación del tren y anuncia la señal Párese en la siguiente señal principal."
 
 ## Página 35
+
 
 El reglamento interno de SŽDC (ČD) D1 «NORMATIVA PARA EL USO DE LAS SEÑALES EN LA ORGANIZACIÓN Y EXPLOTACIÓN DEL TRÁFICO FERROVIARIO», aprobado por decisión del director general de České Dráhy el 15 de abril de 1997, ref.: 55216/97-O11, en su versión vigente, que fue asumido por el gestor de infraestructura SŽDC, s. o., a tenor del BOLETÍN DE TRANSPORTE Y TARIFAS n.º 29-30, de 16 de julio de 2008, art. 120, donde se establece:
 
@@ -1010,6 +1016,7 @@ El reglamento interno de SŽDC (ČD) D2 «NORMATIVA PARA LA ORGANIZACIÓN Y EXPL
 «Los trenes se ofrecen desde la estación de maniobras con ramificación de vías ocupada por un despachador de tráfico hacia la estación de maniobras con ramificación de vías ocupada por un despachador de tráfico. No se debe despachar ningún tren, para el cual se haya ordenado garantizar la circulación del tren mediante oferta y aceptación, desde la estación (desvío) hasta que sea aceptado por el despachador de tráfico de la estación (desvío) adyacente. No es admisible combinar la oferta o la aceptación con otra orden de tráfico.»
 
 ## Página 36
+
 
 o notificación.”
 
@@ -1045,6 +1052,7 @@ El reglamento interno de SŽDC (ČD) D2 «NORMATIVA PARA LA ORGANIZACIÓN Y EXPL
 
 ## Página 37
 
+
 del BOLETÍN DE TRANSPORTE Y TARIFAS n.º 29-30, de 16 de julio de 2008, artículo 249, donde se indica:
 «Los despachadores de tráfico están obligados a conservar y exigir el cumplimiento estricto de las fórmulas verbales prescritas. Si en la oferta no se utiliza la fórmula prescrita, no se deberá aceptar el tren. Si no se utiliza la fórmula prescrita al aceptar, no se deberá autorizar la salida del tren.»
 
@@ -1071,6 +1079,7 @@ El reglamento interno de SŽDC (ČD) D2 «NORMAS PARA LA ORGANIZACIÓN Y LA EXPL
 
 ## Página 38
 
+
 el maquinista o el miembro de la tripulación del tren responde y debe cumplirlas”.
 El reglamento interno de SŽDC (ČD) D2 «NORMA PARA LA ORGANIZACIÓN Y EL EXPLOTACIÓN DEL TRÁFICO FERROVIARIO», aprobado por decisión del director general de České dráhy el 13 de marzo de 1997, ref.: 55079/97-O11, en su versión vigente, que fue asumido por el administrador de la infraestructura SŽDC, s. o., en el sentido del BOLETÍN DE TRANSPORTE Y TARIFAS n.º 29-30, de 16 de julio de 2008, art. 605, donde se indica, entre otras cosas:
 «El maquinista debe ser informado de manera fehaciente, mediante orden escrita, sobre los cambios temporales de los parámetros constructivos y técnicos de las construcciones de la vía y de las construcciones en la vía, que tengan una influencia directa en la seguridad y la fluidez del tráfico ferroviario, si son conocidos por el despachador de tráfico, incluidas las medidas necesarias».
@@ -1094,6 +1103,7 @@ c) vigilar y controlar si los responsables de las estaciones ferroviarias garant
 h) someter a examen y aprobar los cambios elaborados en el sentido del reglamento ČD D 5, ČD 1/D5
 
 ## Página 39
+
 
 y las medidas relacionadas antes del inicio de los trabajos de interrupción o del desactivado o activado del dispositivo de seguridad, incluidas las acciones que provocan cambios en la documentación técnica y de tráfico de la estación de tráfico (ŽST).“
 
@@ -1128,6 +1138,7 @@ frenar el conjunto con el freno continuo reduciendo la presión en la tubería p
 asegurar el vehículo traccionador contra la entrada de personas ajenas (si no permanece otro empleado de ČD en el vehículo traccionador,
 
 ## Página 40
+
 
 b) alejarse del vehículo traccionador, cuando el maquinista realiza las actividades necesarias relacionadas con el desempeño del servicio a una distancia superior a 50 m desde su propio vehículo traccionador. El maquinista debe:
 realizar todas las acciones del apartado a),
@@ -1171,6 +1182,7 @@ punto 10. LIMITACIÓN DE VELOCIDAD, en el que se indica, entre otras cosas, que 
 
 ## Página 41
 
+
 punto 11. MEDIDAS DE SEGURIDAD, en el que se indica, entre otras cosas, que en el marco de la ejecución de la interrupción según la etapa B1:
 ### a) «El despachador de la estación ferroviaria (ŽST) de Moravičany establecerá la comunicación telefónica en la primera vía de vía única Moravičany – Mohelnice.»;
 b) «El tráfico entre la estación ferroviaria (ŽST) de Moravičany y Mohelnice será de doble vía, de sentido único, por la derecha.»;
@@ -1187,35 +1199,24 @@ El maquinista del tren Nex 54053 fue informado de manera demostrativa de los cam
 
 ## Página 42
 
-### 3.2.2 Requisitos aplicables al personal del administrador de la infraestructura y del transportista y su cumplimiento
-
-La aptitud sanitaria del personal del administrador de la infraestructura y del transportista se evalúa conforme a lo dispuesto en el Decreto n.º 101/1995 Coll., por el que se aprueba el Reglamento sobre la aptitud sanitaria y profesional de las personas que intervienen en la explotación de la red ferroviaria y del transporte ferroviario, en su versión vigente.
-
-En el momento de la producción del accidente ferroviario (MU) de que se trata, todo el personal del administrador de la infraestructura y del transportista participante en el MU disponía de un dictamen médico de aptitud sanitaria válido. Las anotaciones escritas forman parte del expediente.
-
-Los requisitos aplicables a la aptitud profesional del personal de SŽDC, s. o., así como el modo de su cumplimiento, los establece el documento interno del administrador de la infraestructura SŽDC Zam1 «Reglamento sobre la aptitud profesional del personal de la Administración de la Infraestructura Ferroviaria, organismo estatal», aprobado por el Director General de SŽDC el 30.06.2008, ref. n.º 23138/08-OKS, con efecto desde el 01.07.2008, en su versión vigente.
-
-Los requisitos aplicables a la aptitud profesional del personal de ČD Cargo, a. s., así como el modo de su cumplimiento, los establece el documento interno del transportista «ČD Ok 2 REGLAMENTO DE FORMACIÓN Y EXAMEN DE LOS FERROCARRILES CHECOS, a. s.», aprobado el 07.12.2005, bajo ref. n.º 61773/05-O10, con efecto desde el 01.01.2006, en su versión vigente. En el caso del transportista ČD Cargo, a. s., la organización de la formación y los exámenes se especifica ulteriormente mediante la medida «Medida del Director del Departamento de Recursos Humanos y del Director del Departamento de Tecnología y Organización del Transporte relativa a la organización de la formación y los exámenes en ČD Cargo, a. s.», emitida el 25.06.2008, bajo ref. n.º 1620/2008 ŘTOD-O13/22, con efecto desde el 01.07.2008. Dicha medida es aplicable hasta la aprobación de la norma interna que sustituya al documento ČD Ok 2.
-
-En el momento de la producción del accidente ferroviario (MU) de que se trata, todo el personal del administrador de la infraestructura y del transportista participante en el MU poseía la aptitud profesional necesaria para el desempeño del cargo que ocupaba. Los documentos que acreditan la aptitud profesional de todas las personas participantes forman parte del expediente.
-
-La condición de aptitud para la conducción de vehículos ferroviarios la establece el artículo 45 de la Ley n.º 266/1994 Coll., sobre ferrocarriles, en su versión vigente.
-
-El maquinista del tren Pn 66161 era titular de un Certificado de aptitud para la conducción de vehículos ferroviarios válido, n.º de registro 010196, emitido por la Oficina Ferroviaria de Praga el 27.05.1996, para las categorías de vehículos MM, MH, ME, MK, E, y para las categorías de red C, R, V.
-
-El maquinista del tren Nex 54053 era titular de un Certificado de aptitud para la conducción de vehículos ferroviarios válido, n.º de registro 503230, emitido por la Oficina Ferroviaria de Praga el 06.12.2007, con validez hasta el 06.12.2017, para las categorías de vehículos E1, E3, y la categoría de red ferroviaria C.
-
-### 3.2.3 Procedimiento de la inspección interna de seguridad y sus resultados
-
-En el marco de la investigación de las causas y las circunstancias de la producción de un accidente grave en el transporte ferroviario, el 26.11.2008 se realizó una inspección estatal en materia de ferrocarriles por parte de la Oficina Ferroviaria, en el ámbito de las competencias delegadas de la empresa České dráhy, a. s., Centro Regional de Operaciones de Ostrava, Sector Operativo de Olomouc, del administrador de la infraestructura SŽDC, s. o., durante la cual se constataron los hechos que se detallan a continuación, los cuales figuran en el documento «ACTA de la realización de la inspección estatal en materia de ferrocarriles», ref. n.º 1-1959/2008/DI-2, de fecha 26.11.2008, que forma parte integrante del expediente del MU.
-
-El administrador de la infraestructura, conforme al artículo 22, apartado 1, letra b), de la Ley n.º 266/1994 Coll., y al artículo 2, apartado 4, del Decreto n.º 173/1995 Coll., por el que se aprueba el Reglamento de circulación ferroviaria, en su versión vigente (en lo sucesivo, «Decreto n.º 173/1995 Coll.»), emitió procedimientos para garantizar el cumplimiento de las normas técnicas y de explotación existentes, nuevas y modificadas, o de otras condiciones obligatorias establecidas en las disposiciones de los siguientes documentos internos del administrador de la infraestructura:
-
-ČD D 15 «Reglamento para las actividades de control en la organización y la explotación del transporte ferroviario»
+### 3.2.2 Requisitos de los empleados del gestor de la infraestructura y del transportista y su cumplimiento
+La aptitud médica de los empleados del gestor de la infraestructura y del transportista se valora en el sentido de las disposiciones del decreto n.º 101/1995 Sb., por el que se aprueba el Reglamento sobre la aptitud médica y profesional de las personas para la explotación de la infraestructura y el transporte ferroviario, en su versión vigente.
+En el momento de producirse la MU en cuestión, todos los empleados del gestor de la infraestructura y del transportista participantes en la MU disponían de un dictamen válido de aptitud médica. Los registros escritos forman parte del expediente.
+Los requisitos de aptitud profesional de los empleados de SŽDC, s. o., incluido el modo de hacerlos cumplir, los establece la norma interna del gestor de la infraestructura SŽDC Zam1 «Norma sobre la aptitud profesional de los empleados de la Administración de la Infraestructura Ferroviaria, organización estatal», aprobada por el director general de SŽDC el 30. 06. 2008, n.º de expediente: 23138/08-OKS, en vigor desde el 01. 07. 2008, en su versión vigente.
+Los requisitos de aptitud profesional de los empleados de ČD Cargo, a. s., incluido el modo de hacerlos cumplir, los establece la norma interna del transportista «ČD Ok 2 REGLAMENTO DE FORMACIÓN Y EXÁMENES DE LOS FERROCARRILES CHECOS, a. s.», aprobado el 07. 12. 2005, n.º de expediente: 61773/05-O10, en vigor desde el 01. 01. 2006, en su versión vigente. En el caso del transportista ČD Cargo, a. s., la organización de las formaciones y exámenes se especifica además mediante la medida «Medida del director del departamento de recursos humanos y del director del departamento de tecnología y organización del transporte sobre la organización de las formaciones y exámenes en ČD Cargo, a.s.», emitida el 25. 06. 2008, n.º de expediente 1620/2008 ŘTOD-O13/22, en vigor desde el 01. 07. 2008. La medida en cuestión permanece vigente hasta la aprobación de la norma interna que sustituya a la norma ČD Ok 2.
+En el momento de producirse la MU en cuestión, todos los empleados del gestor de la infraestructura y del transportista participantes en la MU eran profesionalmente competentes para el desempeño de la función que ocupaban. Los documentos que acreditan la competencia profesional de todas las personas participantes forman parte del expediente.
+La condición de aptitud para conducir un vehículo ferroviario la establece el § 45 de la ley n.º 266/1994 Sb., de ferrocarriles, en su versión vigente.
+El maquinista del tren Pn 66161 era titular de un Carné de Aptitud para Conducir Vehículos Ferroviarios válido, n.º de referencia 010196, expedido por la Autoridad Ferroviaria de Praga, el 27. 05. 1996, para los tipos de vehículo MM, MH, ME, MK, E, tipos de ferrocarril C, R, V.
+El maquinista del tren Nex 54053 era titular de un Carné de Aptitud para Conducir Vehículos Ferroviarios válido, n.º de referencia 503230, expedido por la Autoridad Ferroviaria de Praga, el 06. 12. 2007, con validez hasta el 06. 12. 2017, para los tipos de vehículo E1, E3, categoría de ferrocarril C.
+### 3.2.3 Procedimiento de control interno de seguridad y sus resultados
+En el marco de la investigación de las causas y circunstancias de la producción de un accidente grave en el transporte ferroviario, se realizó el 26. 11. 2008, en el gestor de la infraestructura SŽDC, s. o., en el ámbito de las competencias delegadas en la empresa České dráhy, a. s., Centro Regional de Explotación Ostrava, Distrito Operativo Olomouc, una inspección estatal en materia de ferrocarriles, durante la cual se constataron los hechos que se indican a continuación, los cuales figuran en el documento «ACTA de la realización de la inspección estatal en materia de ferrocarriles», n.º de expediente 1-1959/2008/DI-2, de fecha 26. 11. 2008, que forma parte integrante del expediente de la MU.
+El gestor de la infraestructura, en el sentido del § 22 apartado 1 letra b) de la ley n.º 266/1994 Sb. y del § 2 apartado 4 del decreto n.º 173/1995 Sb., por el que se aprueba el Reglamento de Circulación de los Ferrocarriles, en su versión vigente (en adelante, decreto n.º 173/1995 Sb.), emitió procedimientos para garantizar el cumplimiento de las normas técnicas y operativas existentes, nuevas y modificadas, u otras condiciones obligatorias establecidas por las disposiciones de las siguientes normas internas del gestor de la infraestructura:
+ČD D 15 «Norma para la actividad de control en la organización y explotación del transporte ferroviario»
 ●
-aprobado el 28.02.2000 bajo ref. n.º 60 949/99-O11, con efecto desde el 01.07.2000,
+aprobada el 28. 02. 2000, n.º de expediente: 60 949/99-O11, en vigor desde el 01. 07. 2000,
 
 ## Página 43
+
 
 en su versión vigente. Mediante la modificación de la transferencia de las actividades del administrador de la infraestructura, este reglamento fue asumido como documento del administrador de la infraestructura «Orden del Director General n.º 8/2008, en la versión de la modificación n.º 1», emitida con el número de registro: 12 026/08-OKS el 26.05.2008, con efecto desde el 01.07.2008, y mediante el documento «BOLETÍN DE TRANSPORTE Y TARIFAS 29-30» del 16.07.2008, fue asumido bajo la competencia de SŽDC, s. o., como reglamento interno de SŽDC (ČD) D 15 «Reglamento para la actividad de control en la organización y explotación del transporte ferroviario», aprobado el 28.02.2000 con el número de registro: 60 949/99-O11, con efecto desde el 01.07.2000 [en adelante, SŽDC (ČD) D 15].
 
@@ -1261,52 +1262,47 @@ controles en días de descanso laboral,
 controles ordenados por los órganos superiores,
 –
 
-
 ## Página 44
 
-controles que no pueden documentarse en las posiciones de control controladas.
+controles que no pueden documentarse en los puestos controlados.
 –
-### El alcance del control no está establecido por el reglamento de control, y tampoco se regula la llevanza de documentación escrita sobre el alcance y la focalización del control.
-El libro «Libro de inspecciones del jefe de PO y libro de inspecciones del jefe de estación – K n.º 2»
+### El alcance de la inspección no está establecido por el reglamento de inspección, ni está regulada la llevanza de la documentación escrita sobre el alcance y la orientación de la inspección.
+Libro «Libro de inspecciones del jefe de PO y libro de inspecciones del jefe de estación – K č.2»
 ●
-de las distintas estaciones ferroviarias se lleva únicamente en formato electrónico sobre la base de la orden dps n.º 2008-08-003595 del 29.08.2008 (07:36 h.), mientras que los empleados autorizados para la actividad de control tienen acceso personal a esta aplicación en la dirección electrónica correspondiente.
-
-Los resultados de los controles realizados se registran en el documento «Evaluación de la actividad de control de la estación central de Olomouc correspondiente al primer semestre del año 2008», del cual se desprenden los siguientes datos:
-número de controles realizados por los empleados superiores de la estación central de Olomouc e inscritos en el libro K2 (Libro de inspecciones n.º 2):
+en las distintas estaciones de ferrocarril, con base en el despacho dps n.º 2008-08-003595 de fecha 29. 08. 2008 (07:36 h.), se llevan únicamente en formato electrónico, siendo que los empleados encargados de la actividad de inspección disponen de acceso personal a esta aplicación en la dirección electrónica correspondiente.
+Los resultados de las inspecciones realizadas quedan registrados en el documento «Evaluación de la actividad de inspección de UŽST Olomouc del primer semestre del año 2008», del cual se desprenden los siguientes datos:
+número de inspecciones realizadas por los empleados directivos de UŽST inscritas en el libro K2 (Libro de inspecciones n.º 2):
 •
 286;
-número de anomalías detectadas: 367;
+número de defectos detectados: 367;
 •
-número de controles realizados por los órganos de control e inscritos en el libro K1 (Libro de inspecciones n.º 1): 68;
+número de inspecciones de los órganos de inspección inscritas en el libro K1 (Libro de inspecciones n.º 1): 68;
 •
-número de anomalías detectadas: 181.
+número de defectos detectados: 181.
 •
-El administrador de la infraestructura, en el ejercicio de la supervisión estatal en materia de ferrocarriles, presentó las medidas «Medidas y debate de las anomalías detectadas», de las cuales se desprenden, entre otros datos, los siguientes:
-Anomalías detectadas por los empleados superiores de la estación central de Olomouc:
+El gestor de la vía, en el ejercicio de la supervisión estatal en materia de vías, acreditó la medida «Medidas y deliberación de los defectos detectados», de la cual se desprenden, entre otros, los siguientes datos:
+Defectos detectados por los empleados directivos de UŽST:
 ●
-violación del código laboral: 1;
+infracción del Código del Trabajo: 1;
 •
-exención del servicio: 1.
+separación del servicio: 1.
 •
-Anomalías detectadas por los órganos de control:
+Defectos detectados por los órganos de inspección:
 ●
-violación del código laboral: 0;
+infracción del Código del Trabajo: 0;
 •
-exención del servicio: 0.
+separación del servicio: 0.
 •
-En la actividad de control realizada por los empleados autorizados de PO Olomouc y documentada con el documento «Actividad de control de PO Olomouc – tercer trimestre de 2008» (evaluación de los libros de inspecciones n.º 1), se desprende que se detectaron 105 anomalías. Según el documento «Evaluación de la actividad de control de los empleados superiores de la estación – tercer trimestre de 2008» (evaluación de los libros de inspecciones n.º 2), durante el período analizado se detectaron 182 anomalías.
-
-El administrador de la infraestructura no lleva ningún registro sobre el alcance y la focalización de los controles realizados, en los que se indique el alcance y la focalización del control.
-
-Además, en el marco de la investigación de las causas y las circunstancias de la aparición del grave accidente en el transporte ferroviario del 12.12.2008, ante el administrador de la infraestructura SŽDC, s. o., en el ámbito de las competencias delegadas de la empresa České dráhy, a. s., Centro Regional de Operaciones de Ostrava, se ejerció la supervisión estatal en materia de ferrocarriles, durante la cual se detectaron los siguientes hechos, que se indican en el documento «ACTA sobre el ejercicio de la supervisión estatal en materia de ferrocarriles», n.º de registro 1-2191/2008/DI-2, del 12.12.2008, que forma parte integrante del expediente MU. Del documento mencionado se desprende, entre otras cosas:
-
-El administrador de la infraestructura, en virtud del apartado 1, letra b) del artículo 22 de la ley n.º 266/1994 Coll., y del apartado 4 del artículo 2 del decreto n.º 173/1995 Coll., emitió procedimientos para garantizar el cumplimiento de las normas técnicas y de explotación existentes, nuevas y modificadas, o de otras condiciones obligatorias establecidas por las disposiciones de los siguientes reglamentos internos del administrador de la infraestructura:
-
-El reglamento interno SŽDC (ČD) D 15 es, entre otras cosas, vinculante para la actividad del inspector central de tráfico, los inspectores principales de tráfico (en adelante, HDK), los inspectores de tráfico (en adelante, DK) y los jefes de estación. El reglamento, en relación con la actividad de control de los empleados superiores mencionados, autorizados para la actividad de control, no especifica más el contenido de los controles realizados, ni indica los procedimientos concretos del método de control del cumplimiento de las formulaciones verbales prescritas durante el uso de los equipos de comunicación, ni otra focalización en el control de los datos registrados por los dispositivos de grabación.
-
-Sobre el control realizado por los HDK y los DK se elaboran:
+De la actividad de inspección realizada por los empleados encargados de PO Olomouc y acreditada en el documento «Actividad de inspección de PO Olomouc – 3.er trimestre de 2008» (evaluación de los libros de inspecciones n.º 1) se desprende que se detectaron 105 defectos. Según el documento «Evaluación de la actividad de inspección de los empleados directivos de estación – 3.er trimestre de 2008» (evaluación de los libros de inspecciones n.º 2), durante el período observado se detectaron 182 defectos.
+El gestor de la vía no lleva ningún registro sobre el alcance y la orientación de las inspecciones realizadas, en el que conste el alcance y la orientación de la inspección.
+Asimismo, en el marco de la investigación de las causas y circunstancias del accidente grave en el transporte ferroviario del día 12. 12. 2008, se ejerció la supervisión estatal en materia de vías en el gestor de la vía SŽDC, s. o., en el ámbito de la competencia transferida en la empresa České dráhy, a. s., Centro Regional de Operaciones Ostrava, durante la cual se detectaron los hechos que se indican a continuación, los cuales constan en el documento «ACTA sobre el ejercicio de la supervisión estatal en materia de vías», n.º de referencia 1-2191/2008/DI-2, de fecha 12. 12. 2008, que forma parte integrante del expediente MU. Del mencionado documento se desprende, entre otros:
+El gestor de la vía, en el sentido del § 22 apartado 1 letra b) de la ley n.º 266/1994 Sb. y del § 2 apartado 4 del decreto n.º 173/1995 Sb., ha emitido los procedimientos para garantizar el cumplimiento de las normas técnicas y de explotación existentes, nuevas y modificadas, así como de otras condiciones vinculantes establecidas por las disposiciones de los reglamentos internos del gestor de la vía que se indican a continuación:
+El reglamento interno de SŽDC (ČD) D 15 es, entre otros, vinculante para la actividad del controlador de tráfico central, de los controladores de tráfico principales (en adelante HDK), de los controladores de tráfico (en adelante DK) y de los jefes de est. El reglamento, en relación con la actividad de inspección de los empleados antes mencionados encargados de la actividad de inspección, no especifica más detalladamente el contenido de las inspecciones realizadas, ni tampoco indica los procedimientos concretos del modo de comprobar el cumplimiento de las formulaciones verbales prescritas al utilizar el equipo de comunicación y otros aspectos de la comprobación de los datos registrados por el equipo de registro.
+●
+Sobre la inspección realizada, los HDK y DK elaboran:
 
 ## Página 45
+
 
 - Acta del resultado de la inspección (en lo sucesivo, acta),
 - Informe del resultado de la inspección (en lo sucesivo, informe).
@@ -1344,6 +1340,7 @@ estación de Moravičany
 
 ## Página 46
 
+
 se centraron en las actividades de interrupción del servicio, la documentación básica de tráfico, la documentación de tráfico, la actividad y la manipulación de los dispositivos de seguridad y el desempeño del servicio por parte de los empleados que dirigen el tráfico ferroviario. El control del desempeño del servicio por parte de los empleados que dirigen el tráfico ferroviario consistió en la verificación de la preparación de la vía para el tren R 707 y el EC 144, la disciplina de comunicación, la llevanza de la documentación de tráfico y la organización de los trabajos de interrupción del servicio. El informe no especifica el alcance y el método del control de la disciplina de comunicación, es decir, si se realizó un control de los datos registrados por el dispositivo de grabación ubicado en la estación de Mohelnice. Mediante el control realizado no se detectaron defectos.
 est. Mohelnice
 ●
@@ -1355,6 +1352,7 @@ est. Lukavice na Moravě
 - El 21.02.2008 se realizó un control ordinario de la organización y explotación del tráfico ferroviario, con especial atención, entre otros aspectos, a la eliminación de defectos detectados anteriormente, a la llevanza de la documentación de tráfico, a las órdenes por escrito, a la manipulación de los dispositivos de seguridad, a la disciplina de comunicación y al desempeño del servicio por parte de la persona que dirige el tráfico ferroviario. El informe no especifica el alcance y el método del control de la disciplina de
 
 ## Página 47
+
 
 kázně, es decir, si se realizó el control de los datos registrados por el dispositivo de grabación instalado en la estación de Mohelnice. Mediante el control realizado se detectaron, entre otras cosas, las siguientes deficiencias: la no inclusión del número de vía (de entrada / de salida) en el diario de tráfico para el tren Pn 63001 del día 20.02.2008; el punto 4 sin cumplimentar en el traspaso de servicio del día 19.02.2008; en la orden «Z» n.º 117986 se indicaba el nombre incorrecto de la estación Zábřeh (el correcto es Zábřeh na Moravě) y no se invalidaba la sección «Otras órdenes»; en las órdenes «Z» n.º 117973 a 117983 se indicaba el nombre incorrecto de la estación Zábřeh (el correcto es Zábřeh na Moravá). Las deficiencias fueron tratadas con el jefe superior de la estación de Olomouc. El documento «Deficiencias – tratamiento», de fecha 05.03.2008, emitido bajo el número de registro 530/2008, se adjunta al informe.
 
@@ -1378,8 +1376,8 @@ Decreto n.º 376/2006 Coll., sobre el sistema de seguridad de la explotación de
 Ley n.º 262/2006 Coll., Código del trabajo, en su versión modificada por la Ley n.º 585/2006 Coll., en su versión posterior;
 ●
 
-
 ## Página 48
+
 
 posterior.
 3.3.2 Otras normas, por ejemplo, reglamento de explotación, reglamento de trabajo, normas de mantenimiento, normas técnicas vigentes y otras normas internas
@@ -1414,6 +1412,7 @@ norma interna SŽDC Zam1 «Reglamento sobre la aptitud profesional de los emplea
 norma interna SŽDC (ČD) Z 1 «REGAMENTO PARA EL MANEJO DE LOS DISPOSITIVOS DE SEGURIDAD DE ESTACIÓN Y DE LÍNEA», aprobada por decisión del director general de los Ferrocarriles
 
 ## Página 49
+
 
 drah dne 26. 03. 2007, č. j.: 56 704/2007, v platném znění;
 vnitřní předpis ČD V2 „PŘEDPIS pro lokomotivní čety“, schválený rozhodnutím vrchního 
@@ -1466,6 +1465,7 @@ Mohelnice byla postavena ve 02:14:12 hod., vjezdové návěstidlo indikovalo ná
 
 ## Página 50
 
+
 A las 02:18:32 h se estableció la vía de circulación desde la vía de estación n.º 1 hacia la vía de línea n.º 1 del interestación Mohelnice – Moravičany; el semáforo de salida S1 indicaba la indicación «Precaución». Como consecuencia de este hecho, y de acuerdo con las dependencias generadas, el SZZ electrónico cambió la indicación del semáforo de entrada 1S a la indicación «Vía libre» a las 02:18:34 h. Como consecuencia de la circulación del tren Nex 54053, a las 02:20:28 h se ocupó el tramo 1SK y, posteriormente, a las 02:20:29 h, cambió la indicación del semáforo de entrada 1S a la indicación «Alto». A las 02:20:49 h, el tren mencionado ocupó la vía de estación n.º 1. Como consecuencia de la circulación del tren Nex 54053, a las 02:21:27 h cambió la indicación del semáforo de salida S1 a la indicación «Alto». Según los datos registrados, el tren Nex 54053 atravesó la est. Mohelnice a las 02:21:34 h y, posteriormente, entró en el interestación Mohelnice – Moravičany ocupado por el tren Pn 66161, donde a las 02:21:59 h, en el pk 54,397, se produjo la colisión entre los trenes Nex 54053 y Pn 66161.
 
 En el momento de la aparición de la IU, el SZZ de la est. Mohelnice se encontraba en estado operativo y presentaba un funcionamiento correcto. Mediante la clavija de exclusión, de conformidad con la OVRZZ n.º 14N32, etapa B1, se realizó una modificación de la vinculación del SZZ y el TZZ en la vía de línea n.º 1 Mohelnice – Moravičany, que permitía las salidas de trenes desde la est. Mohelnice desde la vía de estación n.º 1 hacia la vía de línea n.º 1 con la indicación «Precaución» y desde las vías de estación n.º 2, 3, 4 y 6 con la indicación «Velocidad 40 km/h y Precaución», incluso con el TZZ desactivado. La última avería está registrada en el libro «Registro de averías de los equipos de telecomunicaciones y de seguridad» el 06.09.2008 (registro n.º 19), cuando se produjo un cambio anticipado de la indicación del semáforo de salida S1. La causa de la avería fue un cortocircuito en el bloque de bornes. La avería se subsanó el 06.09.2008. Los hechos anteriormente mencionados están documentados en el documento «Acta de inspección de los equipos de seguridad tras un incidente extraordinario», elaborado el 16.09.2008 por una persona cualificada del operador de la infraestructura. El documento mencionado es parte integrante del expediente de la IU.
@@ -1479,6 +1479,7 @@ La IU se produjo en una línea ferroviaria, categoría nacional Přerov – Čes
 La vía de línea n.º 1 entre las est. Mohelnice – Moravičany, por la que circularon los trenes Pn 66161 y Nex 54053, desde el nivel del semáforo de entrada 1L de la est. Mohelnice en el pk 54,317 hasta el pk 54,790, transcurre por una curva a la izquierda de radio r=942 m con peralte p=116 mm; desde el pk 54,790 hasta el pk 55,048, la vía de línea mencionada transcurre en línea recta y, a continuación, continúa desde el pk 55,048 hasta el nivel del semáforo de entrada 1S de la est. Moravičany en el pk 55,150 por una curva a la izquierda de radio r=30.000 m sin peralte (p=0 mm). La pendiente de la línea entre el pk 54,317 y el 54,400 es de -2 ‰ en descenso, entre el pk 54,400 y el 55,000 es de -3,93 ‰ en descenso y entre el pk 55,000 y el 55,150 es de -4,25 ‰ en descenso.
 
 ## Página 51
+
 
 La velocidad de línea en ambas vías de línea entre las est. Mohelnice – Moravičany, según la documentación del operador «PLANO ESQUEMÁTICO DE LA IU A1, 13.09.2008 EST. MOHELNICE - EST. MORAVIČANY», n.º de registro: 1-1619/2008/2008, del 22.09.2008, se establece en V=130 km/h, para las unidades con carrocería inclinable en Vk=160 km/h. En el tramo de línea en cuestión, la velocidad de línea excepcional se establece en Vex=140 km/h.
 
@@ -1509,6 +1510,7 @@ Las comunicaciones de voz realizadas a través de las líneas telefónicas y red
 
 ## Página 52
 
+
 ### 3.4.4 Vehículos ferroviarios, incluidos los dispositivos de grabación automática de datos
 
 El vehículo conductor (HDV) del tren Pn 66161, de tipo 71 E1, serie 163.014-4, en el momento de la colisión (MU) estaba equipado con un velocímetro mecánico tipo 662A109, n.º de registro 87056, situado en la cabina del maquinista 1. La corrección temporal de los datos grabados por el velocímetro mecánico se realizó comparándolos con los datos temporales de la grabación de la marcha del tren Nex 54053. Según la grabación del velocímetro mecánico de la marcha del tren Pn 66161, la colisión (MU) se produjo a las 02:24:30 h. Según los datos grabados por el dispositivo de grabación del HDV del tren Nex 54053, tras la correspondiente corrección de los datos temporales, la colisión (MU) con el dispositivo de señalización y protección de vías (SZZ) de la estación de Mohelnice se produjo a las 02:21:59 h. La desviación temporal entre los datos grabados por los dispositivos de grabación de los trenes mencionados es de aproximadamente 00:02:30 h. Según el registro del dispositivo de señalización y protección de vías (SZZ) de la estación de Mohelnice, el cambio de la señal de partida del semáforo de partida S1 de la estación de Mohelnice, influenciado por la marcha del tren Pn 66161, se registró a las 02:00:42 h. Según el registro del velocímetro mecánico del HDV del tren Pn 66161, el paso tras el semáforo de partida S1 de la estación de Mohelnice se registró a las 02:03:00 h, que, tras aplicar la corrección, corresponde a las 02:00:30 h. Los valores temporales indicados a continuación ya incluyen esta corrección.
@@ -1538,6 +1540,7 @@ A las 02:21:27 h, el tren Nex 54053 pasó el semáforo de partida S1 de la estac
 
 ## Página 53
 
+
 En el pk 53,942, es decir, a 455 m del semáforo de salida S1 de la estación de Mohelnice, se actuó sobre el freno automático continuo de presión a una velocidad de 76 km/h; la presión en la tubería del freno continuo descendió hasta alcanzar un valor de 4 bares, se llenaron los cilindros de freno y, posteriormente, se desactivó el freno automático continuo de presión.
 
 En el pk 54,027, a las 02:21:39 h, a una velocidad de 76 km/h, se registró el inicio del frenado por EDB (el frenado por EDB se mantiene hasta el final del registro).
@@ -1561,8 +1564,8 @@ Las medidas adoptadas por el personal del gestor de infraestructura en relación
 ### 3.5.2 Intercambio de mensajes verbales en relación con el incidente extraordinario, incluidos los documentos procedentes del equipo de grabación
 Transcripción de las grabaciones de conversaciones mantenidas a través de circuitos telefónicos, registradas por el dispositivo de grabación electrónico ReDat 3, ubicado en la estación de Mohelnice, del 13.09.2008, relativas a las circulaciones de los trenes Pn 63101, Pn 66161 y Nex 54053 (elaborado por el gestor de infraestructura; las expresiones vulgares en el texto siguiente se han abreviado como DI):
 
-
 ## Página 54
+
 
 01:19:44 h.
   – conexión telefónica entre la estación de Mohelnice / la estación de Lukavice na Moravě
@@ -1605,6 +1608,7 @@ jefe de tráfico de la estación de Lukavice na Moravě. «Trece, entendido. Aqu
 jefe de tráfico de la estación de Lukavice na Moravě: «Allí luego pasa el 60398, supongo.»
 
 ## Página 55
+
 
 jefe de estación de Mohelnice: «No lo sé».
 jefe de estación de Lukavice na Moravě: «¿No lo sabes? Te suena el timbre».
@@ -1649,8 +1653,8 @@ jefe de estación de Mohelnice: «Jesús María José. Mira, siempre ha valido l
 02:25:10 h. – conexión telefónica entre la estación de Mohelnice / la estación de Lukavice na Moravě / la estación de Moravičany /
 ## TRS
 
-
 ## Página 56
+
 
 jefe de estación de Mohelnice: «Vale».
 jefe de estación de Lukavice na Moravě: «¿Qué pasa con ese tren, está solicitando a alguien allí?».
@@ -1701,100 +1705,102 @@ jefe de estación de Mohelnice: «Ahí normalmente, algo apesta allí, joder, jo
 
 ## Página 57
 
-jefe de estación de la estación de Lukavice na Moravě: «Porque, para, supongo que le bajes esa salida, porque ya no lo vas a poder meter aquí».
-jefe de estación de la estación de Mohelnice: «Ya ha pasado».
-jefe de estación de la estación de Lukavice na Moravě: «Sí, y yo ya me lo he quedado».
-jefe de estación de la estación de Mohelnice: «Ahí tiene que haber hecho algo el cartero, joder, pero».
-jefe de estación de la estación de Lukavice na Moravě: «No sé lo que ha pasado ahí».
-jefe de estación de la estación de Mohelnice: «Mmm».
-jefe de estación de la estación de Lukavice na Moravě: «El tren está en la vía».
-jefe de estación de la estación de Mohelnice: «A mí no me importa».
-jefe de estación de la estación de Lukavice na Moravě: «Y si luego quieres, supongo que te preguntaré cuando haya otros».
-jefe de estación de la estación de Mohelnice: «A mí no me importa, circula si, cómo».
-jefe de estación de la estación de Lukavice na Moravě: «Bueno, ya no eres inflable. Depende de cuánto tiempo se quede ahí, ¿no?».
-jefe de estación de la estación de Mohelnice: «Bueno, infla. No lo resuelvas, por la noche no pasa nada. Vale, entonces, entonces eso, eso te lo digo yo».
-jefe de estación de la estación de Lukavice na Moravě: «Envía el expreso después».
-jefe de estación de la estación de Mohelnice: «Si hay por dónde».
-jefe de estación de la estación de Lukavice na Moravě: «Bueno, yo te lo mando ahí, bueno, como que sí».
-jefe de estación de la estación de Mohelnice: «Como que por ahí no pueden, joder, porque ellos no pueden apartarse, porque lo tienen todo cerrado ahí, tendrían que abrirlo, joder, y da igual, porque no tienen acoplamiento, joder».
-jefe de estación de la estación de Lukavice na Moravě: «No, por ahí no. Tú tienes que adelantarle ahí».
-jefe de estación de la estación de Mohelnice: «Pero bien, si, pero, si ellos tienen por dónde pasar».
-jefe de estación de la estación de Lukavice na Moravě: «Bueno, vale, sí, sí».
-jefe de estación de la estación de Mohelnice: «Sí».
-### 02:32:15 h – conexión telefónica entre la estación de Mohelnice / la estación de Moravičany
-jefe de estación de la estación de Mohelnice: «Mohelnice».
-jefe de estación de la estación de Moravičany, encargado de la circulación: «Sí».
-jefe de estación de la estación de Mohelnice: «Llámame al teléfono lateral».
-jefe de estación de la estación de Moravičany, encargado de la circulación: «¿Qué?».
-jefe de estación de la estación de Mohelnice: «Llámame al cuatro cinco cinco quinientos cincuenta y cinco».
-jefe de estación de la estación de Moravičany, encargado de la circulación: «Sí».
-### 02:32:44 h – conexión telefónica entre la estación de Mohelnice / la estación de Moravičany
-jefe de estación de la estación de Mohelnice: «Mohel».
-jefe de estación de la estación de Moravičany, encargado de la circulación: «Sí».
-### jefe de estación de la estación de Mohelnice: «¿Dónde tienes el 66 ciento sesenta y uno?».
-### jefe de estación de la estación de Moravičany, encargado de la circulación: «No lo tengo».
-### jefe de estación de la estación de Mohelnice: «¿Y dónde lo tienes?».
-### jefe de estación de la estación de Moravičany, encargado de la circulación: «Bueno, no lo tengo».
-### jefe de estación de la estación de Mohelnice: «¿Pero dónde está?».
-### jefe de estación de la estación de Moravičany, encargado de la circulación: «Bueno, no lo tengo anotado».
-### jefe de estación de la estación de Mohelnice: «¿Cómo que no?».
-jefe de estación de la estación de Moravičany, encargado de la circulación: «Bueno, es que nadie me lo ha dado. Yo solo tengo anotado aquí el ## 54053».
-### 02:33:02 h – conexión telefónica entre la estación de Mohelnice / la estación de Moravičany
-### jefe de estación de la estación de Mohelnice: «El 66 ciento sesenta y uno ha pasado por aquí a las 1:53».
-jefe de estación de la estación de Moravičany, encargado de la circulación: «Bueno, pero no lo tengo anotado en el diario de circulación. No he recibido nada».
-### jefe de estación de la estación de Mohelnice: «Pero si te lo he dado».
-
+Jefe de estación de la estación de Lukavice na Moravě: «Porque, pro, quizá te quite esa salida, porque ya no la conseguirás aquí.»
+Jefe de estación de la estación de Mohelnice: «Ya ha pasado.»
+Jefe de estación de la estación de Lukavice na Moravě: «Sí, y yo eso entonces.»
+Jefe de estación de la estación de Mohelnice: «Alguien, el del correo, tiene que haber hecho algo ahí, tío, pero.»
+Jefe de estación de la estación de Lukavice na Moravě: «No sé qué ha pasado ahí.»
+Jefe de estación de la estación de Mohelnice: «Mm.»
+Jefe de estación de la estación de Lukavice na Moravě: «El tren está en la vía.»
+Jefe de estación de la estación de Mohelnice: «A mí no me importa.»
+Jefe de estación de la estación de Lukavice na Moravě: «Y si quieres después, pues probablemente te preguntaré cuando haya otros, alguno.»
+Jefe de estación de la estación de Mohelnice: «A mí no me importa, circula lo que, como.»
+Jefe de estación de la estación de Lukavice na Moravě: «Bueno, pues ya no eres inflable. Depende de cuánto tiempo vaya a estar ahí parado, vamos.»
+Jefe de estación de la estación de Mohelnice: «Bueno, inflable. Está bien, no lo resuelvas, de noche no pasa nada. Sí, así que, así que eso, eso te lo diré yo.»
+Jefe de estación de la estación de Lukavice na Moravě: «Manda después un rápido.»
+Jefe de estación de la estación de Mohelnice: «Si hay por dónde.»
+Jefe de estación de la estación de Lukavice na Moravě: «Bueno, pues yo te ahí, bueno, pues como.»
+Jefe de estación de la estación de Mohelnice: «Como por dónde ellos, tío, porque no pueden desviarse, que lo tienen ahí cerrado con llave, tendrían que forzarlo, tío, y da igual, porque no tienen enganche, tío.»
+Jefe de estación de la estación de Lukavice na Moravě: «No ellos. Tú tienes que adelantarlo ahí.»
+Jefe de estación de la estación de Mohelnice: «Pero bien, pero si, pero si ellos van a tener por dónde pasar.»
+Jefe de estación de la estación de Lukavice na Moravě: «Bueno, vale, sí, sí.»
+Jefe de estación de la estación de Mohelnice: «Sí.»
+### 02:32:15 h – enlace telefónico estación de Mohelnice / estación de Moravičany
+Jefe de estación de la estación de Mohelnice: «Mohelnice.»
+Jefe de estación de despacho de la estación de Moravičany: «Dime.»
+Jefe de estación de la estación de Mohelnice: «Llámame al teléfono de al lado.»
+Jefe de estación de despacho de la estación de Moravičany: «¿Qué?»
+Jefe de estación de la estación de Mohelnice: «Llámame al cuatro cinco quinientos cincuenta y cinco.»
+Jefe de estación de despacho de la estación de Moravičany: «Sí.»
+### 02:32:44 h – enlace telefónico estación de Mohelnice / estación de Moravičany
+Jefe de estación de la estación de Mohelnice: «Mohel.»
+Jefe de estación de despacho de la estación de Moravičany: «Dime.»
+### Jefe de estación de la estación de Mohelnice: «¿Dónde tienes el 66 ciento sesenta y uno?»
+### Jefe de estación de despacho de la estación de Moravičany: «No lo tengo.»
+### Jefe de estación de la estación de Mohelnice: «¿Y dónde lo tienes?»
+### Jefe de estación de despacho de la estación de Moravičany: «Pues no lo tengo.»
+### Jefe de estación de la estación de Mohelnice: «¿Pero dónde está?»
+### Jefe de estación de despacho de la estación de Moravičany: «Pues no lo tengo anotado.»
+### Jefe de estación de la estación de Mohelnice: «¿Cómo que no?»
+Jefe de estación de despacho de la estación de Moravičany: «Pues, a mí no me lo ha dado nadie. Yo tengo anotado aquí solo el 54053.»
+### 02:33:02 h – enlace telefónico estación de Mohelnice / estación de Moravičany
+### Jefe de estación de la estación de Mohelnice: «El 66 ciento sesenta y uno ha pasado por aquí a las 1:53.»
+Jefe de estación de despacho de la estación de Moravičany: «Pues, pero yo no lo tengo anotado en el diario de circulación. Yo no he recibido nada.»
+### Jefe de estación de la estación de Mohelnice: «Pero si te lo he dado yo.»
 
 ## Página 58
 
-### jefe de estación de la estación de Moravičany, encargado de la circulación: «Pero no me has dado nada».
-### 02:33:12 h – conexión telefónica entre la estación de Mohelnice / la estación de Moravičany
-### jefe de estación de la estación de Mohelnice: «Joder, no es posible».
-jefe de estación de la estación de Moravičany, encargado de la circulación: «Es que no es posible, no lo tengo, bueno, tengo anotado aquí cero cincuenta, 54 053, bueno. 54 053, bueno».
-### jefe de estación de la estación de Mohelnice: «Hacia Prčic, bueno, ese tren se está quedando en la entrada».
-### jefe de estación de la estación de Moravičany, encargado de la circulación: «¿Qué?».
-### jefe de estación de la estación de Mohelnice: «Se está quedando en la entrada, joder».
-### jefe de estación de la estación de Moravičany, encargado de la circulación: «¿Quién?».
-### jefe de estación de la estación de Mohelnice: «Bueno, el 66 161».
-jefe de estación de la estación de Moravičany, encargado de la circulación: «Espera, bueno ...... (se indica el nombre del jefe de estación exterior de la estación de Moravičany) ha ido allí, así que no sé lo que está pasando».
-### jefe de estación de la estación de Mohelnice: «¿Qué?».
-### jefe de estación de la estación de Moravičany, encargado de la circulación: «No sé lo que está pasando».
-### jefe de estación de la estación de Mohelnice: «El 66 ciento sesenta y uno se está quedando en la entrada».
-### jefe de estación de la estación de Moravičany, encargado de la circulación: «Bueno, ¿y entonces ese 54 053 le ha entrado por dentro?».
-### jefe de estación de la estación de Mohelnice: «Bueno, un poco, sí».
-jefe de estación de la estación de Moravičany, encargado de la circulación: «Entonces espera. ...... (se indica el nombre del jefe de estación exterior de la estación de Moravičany), ¿tiene que ir allí o qué está pasando?».
-### jefe de estación de la estación de Mohelnice: «Bueno, que vaya allí, sí».
-### jefe de estación de la estación de Moravičany, encargado de la circulación: «Bueno, espera».
-### 02:35:21 h – conexión telefónica entre la estación de Mohelnice / la estación de Moravičany
-jefe de estación de la estación de Moravičany, encargado de la circulación: «Mora».
-jefe de estación de la estación de Mohelnice: «¿Ha ido?».
-### jefe de estación de la estación de Moravičany, encargado de la circulación: «Bueno, ¿y le has llamado a alguien o algo?».
-### jefe de estación de la estación de Mohelnice: «No, no ha llamado».
-### jefe de estación de la estación de Moravičany, encargado de la circulación: «Entonces hay que llamar a alguien, ¿no?».
-### jefe de estación de la estación de Mohelnice: «¿Para qué, por qué?».
-### jefe de estación de la estación de Moravičany, encargado de la circulación: «Bueno, si están uno sobre el otro?».
-### jefe de estación de la estación de Mohelnice: «No están uno sobre el otro. Creo que no están uno sobre el otro».
-jefe de estación de la estación de Moravičany, encargado de la circulación: «Él me dijo que se había sacudido, ahora he hablado con el de la señalización».
-jefe de estación de la estación de Mohelnice: «Él dijo que se había sacudido un poco, joder. Yo tenía la sensación de que te lo he dicho».
-### jefe de estación de la estación de Moravičany, encargado de la circulación: «Bueno, no lo tengo anotado».
-### jefe de estación de la estación de Mohelnice: «Joder, pero si lo tengo anotado en el....».
-jefe de estación de la estación de Moravičany, encargado de la circulación: «Bueno, es que no lo tengo. Bueno, ¿qué te voy a decir, no?».
-### jefe de estación de la estación de Mohelnice: «Yo lo tengo anotado».
-jefe de estación de la estación de Moravičany, encargado de la circulación: «Tengo el sesenta trescientos uno y luego solo tengo hasta el 54 053».
-### jefe de estación de la estación de Mohelnice: «Tienes el 63 101».
-### jefe de estación de la estación de Moravičany, encargado de la circulación: «Bueno, no lo tengo aquí».
-### jefe de estación de la estación de Mohelnice: «Bueno, espera. 63 101».
-### jefe de estación de la estación de Moravičany, encargado de la circulación: «El 63 101 lo tengo».
-### jefe de estación de la estación de Mohelnice: «¿A qué hora fue la baja detrás de él?».
-### jefe de estación de la estación de Moravičany, encargado de la circulación: «La baja a las 1:44».
-### jefe de estación de la estación de Mohelnice: «1:44 encaja».
-jefe de estación de la estación de Moravičany, encargado de la circulación: «Espera, a la 1 hora 35, es decir, así, a las 44 fue de Červenka».
-### jefe de estación de la estación de Mohelnice: «Bueno».
-jefe de estación de la estación de Moravičany, encargado de la circulación: «Luego tengo, luego tengo el 3 par y luego solo tengo el 54 053».
-### jefe de estación de la estación de Mohelnice: «Luego tienes el 420, el 51 422 y el 1. siguiente el 60 580, ¿verdad?».
-### jefe de estación de la estación de Moravičany, encargado de la circulación: «Sí».
+### Jefe de maniobras de la estación de Moravičany: "Pero él no me daba nada."
+### 02:33:12 h. – conexión telefónica estación de Mohelnice / estación de Moravičany
+### Jefe de estación de Mohelnice: "Joder, eso no es posible."
+Jefe de maniobras de la estación de Moravičany: "No, de verdad que no, no tengo, no, pues aquí tengo escrito cero cincuenta, 54 053, no. 54 053, no."
+### Jefe de estación de Mohelnice: "A Prčice, no, ese tren está parado en la entrada."
+### Jefe de maniobras de la estación de Moravičany: "¿Qué?"
+### Jefe de estación de Mohelnice: "Está parado en la entrada, joder."
+### Jefe de maniobras de la estación de Moravičany: "¿Quién?"
+### Jefe de estación de Mohelnice: "No, 66 161."
+Jefe de maniobras de la estación de Moravičany: "Espera, no ...... (indicado el nombre del jefe de estación exterior de la estación de 
+### Moravičany) fue allí, así que no sé qué está pasando."
+### Jefe de estación de Mohelnice: "¿Qué?"
+### Jefe de maniobras de la estación de Moravičany: "No sé qué está pasando."
+### Jefe de estación de Mohelnice: "El 66 161 está parado en la entrada."
+### Jefe de maniobras de la estación de Moravičany: "¿Y entonces el 54 053 se metió en eso?"
+### Jefe de estación de Mohelnice: "Un poco, no."
+Jefe de maniobras de la estación de Moravičany: "Entonces espera. ...... (indicado el nombre del jefe de estación exterior de la 
+### estación de Moravičany), ¿tiene que ir allí o, qué está pasando?"
+### Jefe de estación de Mohelnice: "No, que vaya allí, no."
+### Jefe de maniobras de la estación de Moravičany: "No, espera."
+### 02:35:21 h. – conexión telefónica estación de Mohelnice / estación de Moravičany
+Jefe de maniobras de la estación de Moravičany: "Mora."
+Jefe de estación de Mohelnice: "¿Fue allí?"
+### Jefe de maniobras de la estación de Moravičany: "¿Y llamaste a alguien o algo?"
+### Jefe de estación de Mohelnice: "No, no llamé."
+### Jefe de maniobras de la estación de Moravičany: "Entonces hay que llamar a alguien, ¿no?"
+### Jefe de estación de Mohelnice: "¿Para qué, por qué?"
+### Jefe de maniobras de la estación de Moravičany: "Pues, ¿cuándo están en contacto?"
+### Jefe de estación de Mohelnice: "No están en contacto. Yo creo que no están en contacto."
+Jefe de maniobras de la estación de Moravičany: "Él me dijo que eso rebotó, ahora he hablado con el maquinista."
+Jefe de estación de Mohelnice: "Él dijo que rebotó un poco, joder. Yo tenía la sensación de que te lo había dado."
+### Jefe de maniobras de la estación de Moravičany: "No, no lo tengo escrito."
+### Jefe de estación de Mohelnice: "Joder, si lo tengo escrito, puta..."
+Jefe de maniobras de la estación de Moravičany: "No, pues no lo tengo. Pues, ¿qué te voy a decir, no?"
+### Jefe de estación de Mohelnice: "Yo lo tengo escrito."
+Jefe de maniobras de la estación de Moravičany: "Tengo el 60 301 y luego tengo justo el 54 053."
+### Jefe de estación de Mohelnice: "Tienes el 63 101."
+### Jefe de maniobras de la estación de Moravičany: "No, no lo tengo aquí."
+### Jefe de estación de Mohelnice: "No, espera. 63 101."
+### Jefe de maniobras de la estación de Moravičany: "63 101 lo tengo."
+### Jefe de estación de Mohelnice: "¿Y la anulación de él fue a qué hora?"
+### Jefe de maniobras de la estación de Moravičany: "Anulación a la 1:44."
+### Jefe de estación de Mohelnice: "1:44 encaja."
+Jefe de maniobras de la estación de Moravičany: "Espera, a la 1 hora 35, es decir, así, el 44 fue de Červenka."
+### Jefe de estación de Mohelnice: "Pues eso."
+Jefe de maniobras de la estación de Moravičany: "Luego tengo, luego tengo el 3 de pares y luego tengo justo el 54 053."
+### Jefe de estación de Mohelnice: "Luego tienes el 420, el 51 422 y el 1.º consecutivo 60 580, ¿verdad?"
+### Jefe de maniobras de la estación de Moravičany: "Sí."
 
 ## Página 59
+
 
 jefe de estación de Mohelnice: «No».
 TRS: «60 398 a la recepción».
@@ -1836,10 +1842,10 @@ jefe de estación de Lukavice na Moravě: «Ya».
 ### jefe de estación de Mohelnice: «Pero eso tendría que ser una autorización».
 ### 02:41:31 h – conexión telefónica entre la estación de Mohelnice / la estación de Lukavice na Moravě
 jefe de estación de Lukavice na Moravě: «Entonces el 66, el seiscientos sesenta y uno, estaba en la entrada o qué?»
-jefe de estación de Mohelnice: «Bueno, en la entrada de Moravičany. Él afirma, pero el jefe de estación 
-
+jefe de estación de Mohelnice: «Bueno, en la entrada de Moravičany. Él afirma, pero el jefe de estación
 
 ## Página 60
+
 
 de Moravičany, que no lo tiene anotado, que no me lo llevó. Yo lo tengo anotado, que se lo di, joder, a las 1:53».
 ### jefe de estación de Lukavice na Moravě: «Joder. ¿Y qué está pasando entonces?»
@@ -1882,6 +1888,7 @@ jefe de estación de Mohelnice: «Pero joder, eso, eso lo tengo anotado el 63 16
 jefe de estación de Moravičany: «Bueno, estás enfadado, entonces yo, ¿cómo te iba a dar la recepción aquí?»
 
 ## Página 61
+
 
 ### jefe de estación de Mohelnice: «Solo pregunto. No sé, coño».
 jefe de tráfico de Moravičany: «Vale».
@@ -1926,101 +1933,104 @@ Centro de Respuesta (TRS): Mohelnice. «Señor jefe de estación, en el tren 60 
 jefe de tráfico de Moravičany: «Moravičany».
 jefe de estación de Mohelnice: «Espera, espera aquí».
 
-
 ## Página 62
 
-jefe de estación de Mohelnice: «Moravičany».
-servicio de urgencias de accidentes de la Estación de Gestión de Tráfico (UŽST) de Olomouc: «Vale, hola, Olomouc».
-jefe de estación de Mohelnice: «Vale».
-servicio de urgencias de accidentes de la Estación de Gestión de Tráfico (UŽST) de Olomouc: «¿Tenéis algo allí?».
-jefe de estación de Mohelnice: «Vale, tenemos algún problema allí, vale».
-servicio de urgencias de accidentes de la Estación de Gestión de Tráfico (UŽST) de Olomouc: «¿Y qué hay?».
-jefe de estación de Mohelnice: «Pues. Parece que están chocados. Normalmente, el 66 161 y el 54 053. Es para el perfil, no es transitable».
-servicio de urgencias de accidentes de la Estación de Gestión de Tráfico (UŽST) de Olomouc: «66 161 y espera. ¿Qué ha pasado, para saber qué decirle al operativo?».
-jefe de estación de Mohelnice: «54 053, vale, parece que ha pasado, vale».
-servicio de urgencias de accidentes de la Estación de Gestión de Tráfico (UŽST) de Olomouc: «54 053, ¿vale?».
-jefe de estación de Mohelnice: «Vale, ha embestido al 66 161, vale».
-servicio de urgencias de accidentes de la Estación de Gestión de Tráfico (UŽST) de Olomouc: «¿Como chocados, vale?».
-jefe de estación de Mohelnice: «Vale, por detrás».
-servicio de urgencias de accidentes de la Estación de Gestión de Tráfico (UŽST) de Olomouc: «Ya. Espera, y allí circuláis realmente eso».
-jefe de estación de Mohelnice: «Entre estaciones».
-servicio de urgencias de accidentes de la Estación de Gestión de Tráfico (UŽST) de Olomouc: «Entre estaciones, ya. 66 161 en, en, ¿en cuál?».
-jefe de estación de Mohelnice: «No, el 54 053 sobre el 66 161».
-servicio de urgencias de accidentes de la Estación de Gestión de Tráfico (UŽST) de Olomouc: «54 053 sobre el 66 161, ¿vale?».
-jefe de estación de Mohelnice: «Vale».
-servicio de urgencias de accidentes de la Estación de Gestión de Tráfico (UŽST) de Olomouc: «Bien. ¿Y eso está entre Mohelnice y Moravičany?».
-jefe de estación de Mohelnice: «Y Moravičany, vale».
-servicio de urgencias de accidentes de la Estación de Gestión de Tráfico (UŽST) de Olomouc: «J.... Pues yo ya le llamo al operativo. Bien».
-jefe de estación de Mohelnice: «Vale, vale».
-### 02:52:34 h – comunicación telefónica entre la estación de Mohelnice y la estación de Moravičany
-jefe de tráfico de Moravičany: «Mora».
-jefe de estación de Mohelnice: «Por favor, llama a la ambulancia y a la policía, vale».
-jefe de tráfico de Moravičany: «Mm».
-jefe de estación de Mohelnice: «Vale».
-jefe de tráfico de Moravičany: «Vale, vale».
+Jefe de estación de la est. de Mohelnice: «Moravičany.»
+Servicio de emergencia por accidentes de UŽST Olomouc: «Buenas, Olomouc.»
+Jefe de estación de la est. de Mohelnice: «Buenas.»
+Servicio de emergencia por accidentes de UŽST Olomouc: «¿Tiene algo ahí?»
+Jefe de estación de la est. de Mohelnice: «Bueno, tenemos ahí un problema, sí.»
+Servicio de emergencia por accidentes de UŽST Olomouc: «¿Y qué hay ahí?»
+Jefe de estación de la est. de Mohelnice: «Mire. Parece que están uno encima del otro. Normalmente, que el 66 161 y el 54 053. 
+Está en el perfil, es impracticable.»
+Servicio de emergencia por accidentes de UŽST Olomouc: «66 161 y espera. ¿Qué ha salido ahí, para que sepa qué tengo que 
+decirle al jefe de explotación?»
+Jefe de estación de la est. de Mohelnice: «54 053, bueno, parece que ha salido, sí.»
+Servicio de emergencia por accidentes de UŽST Olomouc: «54 053, ¿eh?»
+Jefe de estación de la est. de Mohelnice: «Bueno, ha embestido al 66 161, sí.»
+Servicio de emergencia por accidentes de UŽST Olomouc: «¿El uno al otro, eh?»
+Jefe de estación de la est. de Mohelnice: «Bueno, por detrás.»
+Servicio de emergencia por accidentes de UŽST Olomouc: «Ah. Espera, y ahí circulan en realidad eso.»
+Jefe de estación de la est. de Mohelnice: «Entre estaciones.»
+Servicio de emergencia por accidentes de UŽST Olomouc: «Entre estaciones, ah. 66 161, ¿a, a cuál?»
+Jefe de estación de la est. de Mohelnice: «No, 54 053 al 66 161.»
+Servicio de emergencia por accidentes de UŽST Olomouc: «54 053 al 66 161, ¿eh?»
+Jefe de estación de la est. de Mohelnice: «Sí.»
+Servicio de emergencia por accidentes de UŽST Olomouc: «Vale. ¿Y eso está entre Mohelnice y Moravičany?»
+Jefe de estación de la est. de Mohelnice: «Y Moravičany, sí.»
+Servicio de emergencia por accidentes de UŽST Olomouc: «Mierda... Entonces ya le llamo yo al jefe de explotación. Vale.»
+Jefe de estación de la est. de Mohelnice: «Sí, sí.»
+### 02:52:34 h – conexión telefónica est. de Mohelnice / est. de Moravičany
+Jefe de estación de despacho de la est. de Moravičany: «Mora.»
+Jefe de estación de la est. de Mohelnice: «Te pido que llames a la ambulancia y a la policía, ¿vale?»
+Jefe de estación de despacho de la est. de Moravičany: «Mm.»
+Jefe de estación de la est. de Mohelnice: «Sí.»
+Jefe de estación de despacho de la est. de Moravičany: «Sí, sí.»
 02:53:45 h 
- – comunicación telefónica entre la estación de Mohelnice y el Centro de Control de Tráfico (RCP) de Ostrava
-jefe de estación de Mohelnice: «Mohelnice».
-operador del Centro de Control de Tráfico (RCP) de Ostrava: «Ostrava, operativo».
-jefe de estación de Mohelnice: «¿Ya te lo ha llamado el de Olomouc?».
-operador del Centro de Control de Tráfico (RCP) de Ostrava: «No, no. He oído algo. Y ya no pasaremos, ¿verdad?».
-jefe de estación de Mohelnice: «No, no pasaremos. Ahora me acaba de llamar el del 60 398, que el 66 161 está parado en la entrada, hacia Moravičany».
-operador del Centro de Control de Tráfico (RCP) de Ostrava: «Vale».
-jefe de estación de Mohelnice: «Y sobre él está el 54 053 y la máquina está aplastada por ambos lados en el perfil. Y ya hemos llamado, a la ambulancia, a la policía».
-operador del Centro de Control de Tráfico (RCP) de Ostrava: «¿Y dónde está el 60 398? ¿Ha pasado o...?».
-jefe de estación de Mohelnice: «Ese está parado en la vía paralela, ese está bien. Me ha dicho que retrocederá hacia Moravičany».
-operador del Centro de Control de Tráfico (RCP) de Ostrava: «Pero está delante de ellos, ¿no?».
-jefe de estación de Mohelnice: «Está delante de ellos, vale, pero de todos modos».
-operador del Centro de Control de Tráfico (RCP) de Ostrava: «¿Y no pasa?».
-jefe de estación de Mohelnice: «No, no es transitable, me ha dicho».
-operador del Centro de Control de Tráfico (RCP) de Ostrava: «Mm. Pues eso es genial, ya hemos llegado. Bien».
-jefe de estación de Mohelnice: «El 421 está parado, está parado aquí, se ha detenido, no sé, lo anoto a las 2:48».
+ – conexión telefónica est. de Mohelnice / RCP Ostrava
+Jefe de estación de la est. de Mohelnice: «Mohelnice.»
+Operador de RCP Ostrava: «Ostrava explotación.»
+Jefe de estación de la est. de Mohelnice: «¿Ya te lo, te ha llamado el de Olomouc?»
+Operador de RCP Ostrava: «No, no. Algo he oído. ¿Y eso ya no lo pasaremos, verdad?»
+Jefe de estación de la est. de Mohelnice: «No, eso no lo pasaremos. Ahora me ha llamado el del 60 398, que en la entrada está el 66 161, 
+en dirección a Moravičany.»
+Operador de RCP Ostrava: «Sí.»
+Jefe de estación de la est. de Mohelnice: «Y encima tiene embestido el 54 053 y la máquina está aplastada por ambos lados dentro del perfil. Y 
+ya hemos llamado a la ambulancia y a la policía.»
+Operador de RCP Ostrava: «¿Y ese 60 398 dónde está? ¿Ha pasado o...?»
+Jefe de estación de la est. de Mohelnice: «Ese está en la otra vía, ese, ese está bien. Él dijo que dará marcha atrás hasta Moravičany.»
+Operador de RCP Ostrava: «¿Pero está delante de ellos, como...?»
+Jefe de estación de la est. de Mohelnice: «Está delante de ellos, sí, pero en cualquier caso.»
+Operador de RCP Ostrava: «¿Y no pasará?»
+Jefe de estación de la est. de Mohelnice: «No, es impracticable, dijo.»
+Operador de RCP Ostrava: «Mm. Pues eso está estupendo, con eso hemos terminado. Vale.»
+Jefe de estación de la est. de Mohelnice: «El 421 está, está parado en el mío, se ha detenido, no sé, 2:48 lo anoto.»
 
 ## Página 63
 
-despachador RCP Ostrava: «Golpea ahí o yo golpeo ahí, 2:48, vale.»
-jefe de estación de la estación de Mohelnice: «Sí.»
-despachador RCP Ostrava: «Vale.»
-### 02:55:45 h – conexión telefónica entre la estación de Mohelnice / la estación de Lukavice na Moravě
-jefe de estación de la estación de Lukavice na Moravě: «Lukavice.»
-jefe de estación de la estación de Mohelnice: «Bueno, ahí en esa vía están uno encima del otro, así que es infranqueable y, de hecho, hasta el perfil.»
-jefe de estación de la estación de Lukavice na Moravě: «¿Es hasta el perfil, sí?»
-jefe de estación de la estación de Mohelnice: «Sí. Dicen que la máquina está aplastada y llamé a ese tío del... del nexu y no se presenta en absoluto, joder, así que Dios sabe qué hay ahí.»
-jefe de estación de la estación de Lukavice na Moravě: «Vaya, joder.»
-jefe de estación de la estación de Mohelnice: «Así que es simplemente infranqueable, joder. Es un desastre de la hostia.»
-jefe de estación de la estación de Lukavice na Moravě: «Vaya, es de puta madre.»
-### jefe de estación de la estación de Mohelnice: «Pero coño... yo lo tengo escrito, joder, él no lo tiene escrito.»
-### 02:56:16 h – conexión telefónica entre la estación de Mohelnice / la estación de Lukavice na Moravě
-jefe de estación de la estación de Lukavice na Moravě: «Vaya, puta madre.»
-### 02:56:20 h – conexión telefónica entre la estación de Mohelnice / la estación de Lukavice na Moravě
-jefe de estación de la estación de Lukavice na Moravě: «Bueno, supongo que ya no vas a coger otro tren por ahí, ¿verdad?»
-jefe de estación de la estación de Mohelnice: «No, ya estaría atascado.»
-jefe de estación de la estación de Lukavice na Moravě: «Bueno, ¿para qué lo ibas a traer ahí?»
-jefe de estación de la estación de Mohelnice: «Vale. Pero coño, mira, mira, yo se lo he dicho, joder, se lo he dicho.
-### A la mierda, yo lo tengo escrito, joder, todo. Él no tiene escrito nada.»
-### 02:56:34 h – conexión telefónica entre la estación de Mohelnice / la estación de Lukavice na Moravě
-jefe de estación de la estación de Lukavice na Moravě: «¿Dónde está el 398?»
-jefe de estación de la estación de Mohelnice: «Ese está en la otra. Ese fue a echar un vistazo para ver qué pasa ahí.»
-jefe de estación de la estación de Lukavice na Moravě: «¿Como en la otra vía?»
-jefe de estación de la estación de Mohelnice: «Bueno, bueno, bueno.»
-### 02:56:43 h – conexión telefónica entre la estación de Mohelnice / la estación de Lukavice na Moravě
-### jefe de estación de la estación de Mohelnice: «Eso es, de hecho, justo después de la entrada, un poco, ¿no?»
-jefe de estación de la estación de Lukavice na Moravě: «Vaya, hijo de puta.»
-### jefe de estación de la estación de Mohelnice: «Chocó contra él con el cartero detrás, vale.»
-jefe de estación de la estación de Lukavice na Moravě: «Bueno, ya sabes.»
-### 02-56-52 h – conexión telefónica entre la estación de Mohelnice / la estación de Lukavice na Moravě
-jefe de estación de la estación de Lukavice na Moravě: «Y ese fue, sin duda, como una vaca.»
-jefe de estación de la estación de Mohelnice: «Sin duda como un cerdo, vale.»
-### 02:56:57 h – conexión telefónica entre la estación de Mohelnice / la estación de Lukavice na Moravě
-jefe de estación de la estación de Lukavice na Moravě: «Vaya, joder.»
-### jefe de estación de la estación de Mohelnice: «Bueno, es porque fue en parada intermedia, ¿verdad?»
-### 02:57:05 h – conexión telefónica entre la estación de Mohelnice / la estación de Lukavice na Moravě
-### jefe de estación de la estación de Mohelnice: «Yo lo tengo escrito. Él no lo tiene escrito, el 66 161.»
-### 02:57:12 h – conexión telefónica entre la estación de Mohelnice / la estación de Lukavice na Moravě
-jefe de estación de la estación de Mohelnice: «Bueno, por aquí pasó a las 1:53 y el correo pasó después, el correo pasó después, a las 2:23 por aquí
-
+Despachador RCP Ostrava: "Púlsalo tú o yo lo púlsaré, 2:48, bien."
+Jefe de estación de la est. de Mohelnice: "Sí."
+Despachador RCP Ostrava: "Bien."
+### 02:55:45 h – Comunicación telefónica est. de Mohelnice / est. de Lukavice na Moravě
+Jefe de estación de la est. de Lukavice na Moravě: "Lukavice."
+Jefe de estación de la est. de Mohelnice: "Bueno, en esa vía están uno encima del otro, así que está impracticable y en realidad todo hasta el perfil."
+Jefe de estación de la est. de Lukavice na Moravě: "Está hasta el perfil, ¿sí?"
+Jefe de estación de la est. de Mohelnice: "Sí. La locomotora parece que está hecha un amasijo y llamé a ese maquinista de la, de la Nexu y no contesta en absoluto, tío, así que Dios sabe lo que hay ahí."
+Jefe de estación de la est. de Lukavice na Moravě: "Bueno, tío."
+Jefe de estación de la est. de Mohelnice: "Así que está simplemente impracticable, tío. Es un lío como las nubes."
+Jefe de estación de la est. de Lukavice na Moravě: "Bueno, eso es una mierda, entonces."
+### Jefe de estación de la est. de Mohelnice: "Pero coño, yo lo tengo escrito, tío, él no lo tiene escrito."
+### 02:56:16 h – Comunicación telefónica est. de Mohelnice / est. de Lukavice na Moravě
+Jefe de estación de la est. de Lukavice na Moravě: "Vaya vaca."
+### 02:56:20 h – Comunicación telefónica est. de Mohelnice / est. de Lukavice na Moravě
+Jefe de estación de la est. de Lukavice na Moravě: "Bueno, supongo que por lo tanto ya no aceptarás más trenes, ¿verdad?"
+Jefe de estación de la est. de Mohelnice: "No, ya estaría atascado."
+Jefe de estación de la est. de Lukavice na Moravě: "Bueno, ¿para qué más lo ibas a traer ahí?"
+Jefe de estación de la est. de Mohelnice: "De acuerdo. Pero coño, es que yo, es que yo se lo di, tío, se lo di. 
+### Mierda, lo tengo escrito, tío, todo. Él no tiene escrito nada."
+### 02:56:34 h – Comunicación telefónica est. de Mohelnice / est. de Lukavice na Moravě
+Jefe de estación de la est. de Lukavice na Moravě: "¿Dónde está la 398?"
+Jefe de estación de la est. de Mohelnice: "La otra está parada. Esa se fue allí a ver qué pasa, qué está pasando allí."
+Jefe de estación de la est. de Lukavice na Moravě: "¿Como en la segunda vía de servicio?"
+Jefe de estación de la est. de Mohelnice: "Bueno, bueno, bueno."
+### 02:56:43 h – Comunicación telefónica est. de Mohelnice / est. de Lukavice na Moravě
+### Jefe de estación de la est. de Mohelnice: "Está justo un poco después de la entrada, ¿verdad?"
+Jefe de estación de la est. de Lukavice na Moravě: "Gilipollas."
+### Jefe de estación de la est. de Mohelnice: "Chocó con él con el furgón de correos por detrás, sí."
+Jefe de estación de la est. de Lukavice na Moravě: "Bueno, ya sabes."
+### 02-56-52 h – Comunicación telefónica est. de Mohelnice / est. de Lukavice na Moravě
+Jefe de estación de la est. de Lukavice na Moravě: "Y ese iba seguro como una vaca."
+Jefe de estación de la est. de Mohelnice: "Seguro como un cerdo, sí."
+### 02:56:57 h – Comunicación telefónica est. de Mohelnice / est. de Lukavice na Moravě
+Jefe de estación de la est. de Lukavice na Moravě: "Tío."
+### Jefe de estación de la est. de Mohelnice: "Bueno, es que, porque circulaba entre estaciones, ¿verdad?"
+### 02:57:05 h – Comunicación telefónica est. de Mohelnice / est. de Lukavice na Moravě
+### Jefe de estación de la est. de Mohelnice: "Yo lo tengo escrito. Él no lo tiene escrito, la 66 161."
+### 02:57:12 h – Comunicación telefónica est. de Mohelnice / est. de Lukavice na Moravě
+Jefe de estación de la est. de Mohelnice: "Bueno, con eso aquí pasó a las 1:53 y el correo fue hasta, el correo fue hasta, 2:23 aquí
 
 ## Página 64
+
 
 pasaba, joder, 20 minutos después.»
 jefe de estación de la estación de Lukavice na Moravě: «Mhm.»
@@ -2063,6 +2073,7 @@ Transcripción de las grabaciones del sistema de radio de vía registradas por e
 •
 
 ## Página 65
+
 
 02:24:26 h.
 «60398, solicita conversación.»
@@ -2134,76 +2145,94 @@ he sentido como si algo me embestía.»
 «De repente un golpe y tres metros hacia adelante.»
 •
 
-
 ## Página 66
 
-«A no ser que sujetara el último vagón, estaba estirado y solo… no me parece que se haya
-aflojado, que se haya estirado todo, que…»
-«Tampoco sé nada.»
+«Sólo si el último vagón lo mantenía, estaba estirado y solo… no me parece que eso
 •
-«¿Cuánto tiempo? Un cuarto de hora, un cuarto de hora he estado parado.»
+cediera, que se estirara todo, que eso…»
+«Yo tampoco sé nada.»
+•
+«¿Cuánto tiempo? Un cuarto de hora, estuve parado un cuarto de hora.»
+•
 «Bueno, tráfico Mohel.»
-«Bueno, aún estoy a la escucha.»
-«Bueno, y tú de qué tren eres, por favor?»
-«Soy un tal señor de la otra parte, soy del tren 66161, que he pasado por Mohelnice y
-estuve parado aquí a la entrada durante un cuarto de hora, y luego de repente el tren se movió tres metros hacia adelante,
-¿verdad?»
-«Bien, ¿y qué más? ¿No ha pasado nada? ¿Cómo?»
+•
+«Bueno, pues sigo en recepción.»
+•
+«¿Y tú de dónde eres, por favor?»
+•
+«Soy un tal señor del del otro lado, vengo del tren 66161, que pasé por Mohelnice y
+•
+estuve parado aquí en la entrada un cuarto de hora, y luego de repente el tren avanzó
+tres metros hacia delante, ¿verdad?»
+«Bien, ¿y qué pasa con ustedes? ¿No ha pasado nada? ¿Cómo?»
 •
 «¿Qué?»
+•
 «¿No ha pasado nada?»
 •
-«No sé, no sé qué hay detrás, o cuánto ha pasado. ¿No tienes nada de Mohelnice, que algo venga hacia ti?»
-«Bueno, espera. Por allí iba, es decir, iba el correo, pero es que…. es decir, iba el correo, bueno.»
+«No sé, no sé qué hay detrás, o cuánto ha ocurrido. ¿Tú no tienes nada de Mohelnice,
 •
-«¿Correo? ¿Pasaba todavía?»
-«Sí, el correo iba todavía.»
+que venga algo hacia mí?»
+«Espera. Por ahí circulaba, es decir, circulaba el correo, pero eso como… es decir,
 •
-«Detrás de mí, ¿sí?»
+circulaba el correo, vaya.»
+«¿El correo? ¿Todavía circulaba?»
+•
+«Vaya, el correo todavía circulaba.»
+•
+«¿Detrás de mí, eh?»
+•
 «Sí.»
-«Entonces tenía que ser él.»
 •
-«Él probablemente no te ha arrastrado.»
-«Él no me ha arrastrado, entonces tenía que ser él el que me ha dado un golpe.»
+«Pues ese tenía que ser él, probablemente.»
 •
-«Bueno, bien, ¿ha pasado algo, no ha pasado nada?»
-«No sé, no he ido a mirar. No podía contactar por radio, así que
-he parado el tren y llamo desde él. Así que…»
-«Claro, claro.»
+«Él no te habrá arrastrado.»
+•
+«No me habrá arrastrado, pues ese tenía que ser el que me golpeó.»
+•
+«Bueno, ¿ha pasado algo, no ha pasado?»
+•
+«No sé, no he ido a mirar. No me pude comunicar por radio, así que paré el tren y
+•
+llamo desde él. Así que..»
+«Entendido, entendido.»
 •
 «Así que él…»
 •
-«Bien, bien, no pasa nada, por favor. Bien, me pondré de acuerdo aquí con el de al lado, vale.»
+«Bien, bien, no pasa nada, por favor. Bien, yo me entiendo aquí con el de al lado, ¿vale?»
 •
 «Bien.»
+•
 «Sí.»
 •
 02:36:16 h.
-«Tren 60398 solicita conversación.»
+«El tren 60398 solicita comunicación.»
 •
 «Tráfico.»
 •
-«Y aquí el maquinista del tren 60398. Así que el maquinista del tren adyacente estaba hablando
+«Y aquí el maquinista del tren 60398. Así que el maquinista del tren de al lado habló
+•
 aquí…»
 02:37:05 h.
-«Tren 60398 a la escucha.»
+«El tren 60398 está en recepción.»
 •
-«¿Ha caído desde Moravičany?»
-«Según dicen, alguien envió un correo detrás de ese tren en la vía opuesta, vale.»
+«¿Eso cayó desde Moravičany?»
 •
-02:47:19 h.
-«Tren 60398 solicita conversación.»
+«Pues supuestamente tras ese tren alguien envió al del correo en sentido contrario, ¿vale?»
 •
 02:47:19 h.
-«Tren 60398 solicito conversación.»
+«El tren 60398 solicita comunicación.»
 •
-«Tren 60398 a la escucha.»
+02:47:19 h.
+«Tren 60398 solicito comunicación.»
 •
-«Maquinista, tráfico?»
+«Tren 60398 en recepción.»
 •
-
+«Maquinista, ¿tráfico?»
+•
 
 ## Página 67
+
 
 02:48:06 h.
 «Tren 60398 a la escucha.»
@@ -2266,6 +2295,7 @@ la máquina está completamente destrozada por ambos lados, dos vagones están e
 estoy yo con el tractor. Está todo obstruido aquí, dos vagones están en el perfil, la locomotora
 
 ## Página 68
+
 
 je z obou stran zdemolovaná, tak se tam utíkáme podívat. Volal jsem, nikoho jsme neviděli. 
 Nikoho jsem neslyšel. Volejte policajty, volejte záchranku. My zatím jdeme hledat.“
@@ -2338,8 +2368,8 @@ zaznamenaných zařízením ReDat 3 jsou registrované pokusy o navázání spoj
 (neidentifikovatelné šumy), u nichž lze předpokládat, že se jedná i o neúspěšné pokusy o navázání 
 spojení prostřednictvím TRS mezi strojvedoucím vlaku Pn 66161 a výpravčím žst. Moravičany.
 
-
 ## Página 69
+
 
 ### 3.5.3 Opatření přijatá k ochraně a zabezpečení místa mimořádné události
 Ochrana a zabezpečení místa vzniku MU byla zajištěna ve spolupráci s PČR a dalšími složkami 
@@ -2384,6 +2414,7 @@ Mohelnice dle svého vyjádření cítil asi 1 měsíc unavený a nervózní. P�
 
 ## Página 70
 
+
 El 2008, según su declaración, se sentía bastante bien, pero durante el turno, alrededor de las 23:00 h, comenzó a sentir fatiga. Dado que, según la explicación presentada, tenía problemas familiares personales que debía resolver de inmediato, solo había dormido aproximadamente 1 a 2 horas antes del turno en cuestión. Al mismo tiempo, indicó que el nivel de fatiga y su estado no eran tales que le impidieran realizar adecuadamente el servicio de despachador de tráfico. Asimismo, en su declaración señaló que, si observara que su estado era tal que no podría realizar el servicio de despachador de tráfico, solicitaría relevo.
 
 En la investigación de las causas y circunstancias del accidente grave en cuestión, no se detectaron en las personas involucradas en el incidente (IU) circunstancias relacionadas con el estado de salud ni con el estrés físico que influyeran en la aparición del IU.
@@ -2411,6 +2442,7 @@ El IU se produjo el 13 de septiembre de 2008 a las 02:21:59 h, en la línea ferr
 La salida prevista del tren Pn 66161 desde la estación de Lukavice na Moravě con destino a la estación de Mohelnice fue autorizada, según los datos registrados por el dispositivo de grabación digital universal ReDat 3 y el diario de tráfico, mediante el circuito telefónico de vía por el despachador de la estación de Lukavice na Moravě a las 01:50 h.
 
 ## Página 71
+
 
 s tím, že vlak Pn 66161 projede v žst. Lukavice na Moravě 01:56 hod. Přestože bylo v souladu 
 s ROVZZ č. 14N32 (etapa B1) zavedeno v traťové koleji č. 1 mezi žst. Moravičany – 
@@ -2467,6 +2499,7 @@ Bezprostředně po srážce vlaků Nex 54053 a Pn 66161 spatřil strojvedoucí v
 
 ## Página 72
 
+
 tren Pn 60398, que circulaba por la vía adyacente. Para evitar el peligro, se decidió detener el tren que circulaba en sentido contrario mediante la indicación «Alto, deténgase con todos los medios». El maquinista del tren Pn 60398 reaccionó a esta orden aplicando el frenado de emergencia y detuvo el tren antes de que alcanzara el obstáculo que se había formado en la vía de circulación.
 
 ### 4.2 Análisis
@@ -2485,6 +2518,7 @@ La Inspección Ferroviaria, al determinar las causas y las circunstancias de la 
 a las 01:32:41 h., tras la entrada del tren Pn 63101, se produjo un cambio de la indicación de la señal de entrada 1S de la estación de Moravičany, pasando de la indicación «Señal de llamada» a la indicación «Alto» (durante el periodo comprendido entre las 01:32:41 h. y las 02:22:51 h., la señal de entrada 1S de la estación de Moravičany indicaba «Alto»);
 
 ## Página 73
+
 
 el despachador de la estación de Mohelnice recibió a las 01:34 h. del despachador de la estación de Moravičany la confirmación de salida del
 ●
@@ -2548,6 +2582,7 @@ el despachador de tráfico de la estación de Moravičany y el despachador exter
 
 ## Página 74
 
+
 nejen con otra orden de tráfico o aviso, sino también con comunicaciones que no guardaban relación alguna con la organización del tráfico ferroviario.
 
 El titular de la infraestructura, en aplicación de lo dispuesto en el apartado 4 del artículo 2 del Decreto n.º 173/1995 Sb. y del apartado a) del artículo 6 de la «PRIMERA PARTE DISPOSICIONES GENERALES» del reglamento interno de SŽDC (ČD) Z1, en el sentido del apartado 1, letra a) del artículo 22 de la Ley n.º 266/1994 Sb., no garantizó la explotación de la infraestructura para las necesidades de un tráfico ferroviario fluido y seguro conforme a las normas de explotación de la infraestructura y a la autorización administrativa, al permitir, tras recibir la notificación de salida del despachador de la estación de Moravičany correspondiente al tren Pn 63101, que en la estación de Mohelnice se autorizara sin justificación, mediante las señales de las señales de entrada 1S y de salida S1, la circulación de un tren imaginario hacia el bloque intermedio Mohelnice – Moravičany a las 01:38:32 h., sin que dicha circulación del tren imaginario estuviera asegurada mediante oferta y aceptación.
@@ -2570,6 +2605,7 @@ El titular de la infraestructura, en aplicación de lo dispuesto en el apartado 
 
 ## Página 75
 
+
 no garantizó la explotación de la vía para las necesidades de un tráfico ferroviario fluido y seguro conforme a las normas de explotación de la vía y a la autorización administrativa, al no respetarse la formulación verbal prescrita en la oferta de los trenes Pn 63101 y Nex 54053 durante la comunicación entre el despachador de la estación de ### Mohelnice, el despachador exterior y el despachador de tráfico de la estación de Moravičany.
 Dadas las causas y las circunstancias de la aparición del AT, no puede considerarse este hallazgo en relación causal con la aparición del AT en cuestión.
 Mediante el control y la comparación de los registros escritos sobre el desarrollo del tráfico ferroviario llevados a cabo en los diarios de tráfico de las estaciones de Mohelnice, ref.: 1-1507/2008/DI, de fecha 15.09.2008, y Moravičany, ref.: 1-1506/2008/DI, de fecha 15.09.2008, se constató que en el diario de tráfico de la estación de Mohelnice, para el tren Pn 63101, en la columna 16 «Anulación enviada/recibida» se indica un dato horario incorrecto 01:44 h (correcto 01:35 h) y, para el tren Pn 66161, en la columna 2 «Recepción – Enviado/Recibido» se indica un dato horario incorrecto 01:50 h (correcto: ningún dato – el tren no fue ofrecido por el despachador de la estación de Mohelnice y, por tanto, no fue recibido por el despachador de la estación de Moravičany); en la columna 3 «Salida prevista de la estación – Propia/Adyacente» se indica un dato horario incorrecto 01:53 h (correcto: ningún dato – el tren no fue ofrecido por el despachador de la estación de Mohelnice y, por tanto, no fue recibido por el despachador de la estación de Moravičany). Asimismo, en la columna 13 «Llegada/Salida» se indica un dato horario incorrecto 01:53 h (correcto 02:01 h) y, en la columna 16 «Anulación enviada/recibida», se indica un dato horario incorrecto 01:59 h (correcto: ningún dato – la anulación correspondiente al tren no fue enviada por el despachador de la estación de Moravičany al despachador de la estación de Mohelnice, dado que el despachador de la estación de Moravičany no concedió el consentimiento para la circulación del tren Pn 66161 y no tenía ninguna información sobre la circulación de dicho tren en el bloque espacial).
@@ -2581,16 +2617,56 @@ Mediante el análisis de las órdenes escritas mencionadas se constató que el m
 
 ## Página 76
 
-110 km/h, no fue informado en el sentido del artículo 2 apartado 4, artículo 7 apartado 3 y artículo 68 apartado 2 del Decreto n.º 173/1995 Coll. y del artículo 616 de la norma interna SŽDC (ČD) D2, sobre la limitación de velocidad a 100 km/h en el tramo de vía en cuestión al circular por la vía de línea n.º 1.
-El administrador de la infraestructura ferroviaria, en aplicación de lo dispuesto en el artículo 2 apartado 4, artículo 7 apartado 3 y artículo 68 apartado 3 del Decreto n.º 173/1995 Coll. y del artículo 616 de la norma interna SŽDC (ČD) D2, en el sentido del artículo 22 apartado 1 letra a) de la Ley n.º 266/1994 Coll., no garantizó la explotación de la línea ferroviaria para las necesidades de un tráfico ferroviario fluido y seguro conforme a las normas de explotación de la línea y a la autorización administrativa, al permitir la circulación del tren a una velocidad superior a 100 km/h en un tramo donde la información sobre las señales de las señales principales no se transmitía a la unidad motriz principal.
-El tramo de vía Dluhonice – Hoštejn está cubierto por la señal «Vf» de la red SRD a través del sistema TRS, de tipo isla, que permite en el canal compartido de la banda n.º 64 con el cuarteto de frecuencias 64A, 64B, 64C y 64D la comunicación entre los despachadores de las estaciones de este tramo y los maquinistas de las UMP equipados con la parte móvil del TRS. Las islas de la red SRD constituyen las estaciones de radio base situadas en las distintas estaciones.
-El tramo de vía Mohelnice – Moravičany, incluidas las dos estaciones adyacentes, funciona en el canal compartido de la banda 64 con la frecuencia asignada de 467,925 MHz (64B). La instrucción para cambiar el grupo de canales es dada por el maquinista mediante la señal de radio con la indicación «Cambie el grupo de canales» en el sentido Přerov – Česká Třebová en el pk 184,395, y en el sentido Česká Třebová – Přerov en el pk 28,150. Los maquinistas están informados sobre la cobertura de la línea Přerov – Česká Třebová (línea n.º 309) por el TRS y sobre los números de los grupos de canales también mediante los datos de la Tabla 1 de las Tablas de las condiciones de la línea TTP 309.
-El tren Pn 66161 pasó por la estación de Mohelnice a las 02:01:20 h y posteriormente se detuvo a las 02:02:30 h en el pk 54,833, es decir, 317 m antes de la señal de entrada 1S de la estación de Moravičany que indicaba la señal «Alto».
-Dado que el despachador de la estación de Moravičany no fue solicitado por el despachador de la estación de Mohelnice mediante una oferta a prestar su consentimiento para la circulación del tren Pn 66161 por la vía de línea n.º 1 hacia el tramo intermedio Mohelnice – Moravičany y no otorgó el consentimiento para la circulación de este tren hacia el tramo intermedio en cuestión mediante su aceptación y, por tanto, no conocía la circulación del tren en el tramo intermedio, no realizó la maniobra de la señal de entrada 1S ni ninguna otra operación de tráfico para permitir la entrada del tren Pn 66161 en la estación de Moravičany. Tras transcurrir 10 minutos, durante los cuales el tren Pn 66161 permaneció detenido ante la señal de entrada 1S de la estación de Moravičany, el maquinista, según su declaración en los documentos «Acta con el empleado», n.º de registro: 1-1570/2008, de fecha 19.09.2008, y «Acta sobre la explicación prestada con testigo de un incidente extraordinario en el tráfico ferroviario», n.º de registro: 1-2368/2008, de fecha 22.12.2008, intentó establecer la comunicación con el despachador de la estación de Moravičanos a través de la estación de radio del vehículo VS 47 situada en la UMP de tipo 71 E1 de la serie 163.014-4, con el fin de advertir al despachador sobre el tren detenido junto a la señal de entrada. A pesar de los intentos repetidos, no logró establecer la comunicación con el despachador de la estación de Moravičany. Por ello, decidió establecer la comunicación a través del teléfono situado en una caja cerrada con llave junto a la señal de entrada 1S de la estación de Moravičany. Tras iluminar el espacio delante del tren con el faro de largo alcance de la UMP, el maquinista se dio cuenta de que la distancia entre la parte delantera de la UMP y la señal de entrada 1S de la estación de Moravičany era superior a 50 m y que, antes de abandonar la UMP, estaría obligado a realizar todas las operaciones relacionadas con el abandono de la UMP conforme a los procedimientos tecnológicos unificados del transportista contenidos en el artículo 51 letra b) de la norma interna ČD V2 «NORMA para las tripulaciones de locomotoras», aprobada por decisión del director general de la División Comercial y de Explotación de fecha 08.01.1998, n.º de registro: 60 796/97- O18, en su versión vigente (norma interna de ČD, a. s., transferida el 01.12.2007 a ČD Cargo, a. s., con la garantía propia subsiguiente de ČD Cargo, a. s.). Por ello, decidió avanzar con el tren hasta la señal de entrada a una distancia inferior a 50 m. Antes de poner el tren en movimiento se produjo una colisión, durante la cual el maquinista saltó por encima del asiento del maquinista y posteriormente cayó al suelo.
-Del documento «Manifestación sobre el estado del TRS», n.º de registro: 1-72/2009, de fecha 09.01.2009, elaborado por la empresa ČD – Telematika, a. s., se desprende, entre otras cosas, que en el tramo de vía Mohelnice – Moravičany, en el momento de la producción del incidente, estaban en funcionamiento las ER 47 del TRS en las estaciones de Lukavice na Moravě y Moravičany. Ambas ER 47 estaban en funcionamiento en el grupo de canales 64. En el momento de la producción del incidente no se había notificado ninguna avería en el TRS y el equipo TRS estaba plenamente funcional durante el incidente en cuestión.
-También no se puede pasar por alto el hecho de que el maquinista del tren Pn 66161, en el momento de la producción del incidente, estaba equipado por el empleador, es decir, el transportista, también con un teléfono móvil de servicio, que es un elemento
+110 km.h-1, no fue informado, en el sentido del § 2 apartado 4, § 7 apartado 3 y § 68 apartado 2 del decreto nº 173/1995 Sb. 
+y del artículo 616 de la normativa interna de SŽDC (ČD) D2, de la limitación de velocidad a 100 km.h-1 
+en el tramo de vía objeto de mención al circular por la vía nº 1.  
+El explotador de la infraestructura, en relación con las disposiciones del § 2 apartado 4, § 7 apartado 3 y § 68 apartado 3 
+del decreto nº 173/1995 Sb. y del artículo 616 de la normativa interna de SŽDC (ČD) D2, en el sentido del § 22 apartado 1 
+letra a) de la ley nº 266/1994 Sb., no garantizó la explotación de la infraestructura para las necesidades del tráfico 
+ferroviario fluido y seguro según las reglas de explotación de la infraestructura y la autorización administrativa, al 
+permitir la circulación de un tren a una velocidad superior a 100 km.h-1 en un tramo en el que la información de las señales 
+de los señales principales no se transmitía a la locomotora de cabeza. 
+El tramo Dluhonice – Hoštejn está cubierto por la señal "Vf" de la red SRD mediante el TRS, sistema de islas, que permite en el canal combinado de la banda nº 64 con el cuadruple de frecuencias 64A, 
+64B, 64C y 64D la conexión entre los jefes de estación de este tramo y los maquinistas en HDV equipados con la 
+parte móvil del TRS. Las islas de la red SRD están formadas por estaciones de radio base situadas en las distintas estaciones. 
+El tramo Mohelnice – Moravičany, incluidas ambas estaciones adyacentes, opera en el canal combinado 
+de la banda 64 con la frecuencia asignada de 467,925 MHz (64B). La instrucción de cambio de grupo de canales es 
+dada al maquinista por la señal de radio con la señal "Cambie el grupo de canales" en el sentido Přerov – Česká Třebová en km 184,395, en el sentido Česká Třebová – Přerov en km 28,150. Los maquinistas son 
+informados de la cobertura de la línea Přerov – Česká Třebová (línea nº 309) por TRS y de los números de grupos de canales también por los datos de la Tabla 1 de las Tablas de condiciones de línea TTP 309. 
+El tren Pn 66161 pasó por la estación de Mohelnice a las 02:01:20 h y posteriormente a las 02:02:30 h se detuvo en km 
+54,833, es decir, 317 m antes de la señal de entrada 1S de la estación de Moravičany que indicaba la señal "Alto". 
+Dado que el jefe de estación de Moravičany no fue solicitado por el jefe de estación de Mohelnice, mediante oferta, del consentimiento para la circulación del tren Pn 66161 por la vía nº 1 en el intervalo entre estaciones Mohelnice – Moravičany 
+y no concedió el consentimiento para la circulación de dicho tren en el intervalo entre estaciones objeto de mención mediante la recepción y, por tanto, 
+no sabía de la circulación del tren en el intervalo entre estaciones, no realizó la maniobra de la señal de entrada 1S ni 
+ninguna otra maniobra de tráfico para permitir la entrada del tren Pn 66161 en la estación de Moravičany. Transcurridos 
+10 minutos, cuando el tren Pn 66161 estaba detenido ante la señal de entrada 1S de la estación de Moravičany, el maquinista, 
+según su declaración en los documentos "Acta con empleado", ref. nº: 1-1570/2008, de fecha 19. 09. 
+2008 y "Acta de declaración prestada por testigo de incidencia excepcional en el tráfico ferroviario", ref. nº: 1-
+2368/2008, de fecha 22. 12. 2008, intentó establecer comunicación con el jefe de estación de Moravičany 
+mediante la estación de radio de a bordo VS 47 situada en el HDV de tipo 71 E1 serie 163.014-4, 
+por motivo de avisar al jefe de estación del tren detenido ante la señal de entrada. A pesar de los intentos repetidos, 
+no logró establecer comunicación con el jefe de estación de Moravičany. Por ello decidió establecer comunicación 
+mediante el teléfono situado en el armario cerrable con llave junto a la señal de entrada 1S de la estación de 
+Moravičany. Tras iluminar el espacio delante del tren con el proyector de larga distancia del HDV, el maquinista se 
+dio cuenta de que la distancia entre el frontal del HDV y la señal de entrada 1S de la estación de Moravičany era mayor 
+que 50 m y antes de abandonar el HDV estaría obligado a realizar todas las maniobras relacionadas con el alejamiento 
+del HDV en el sentido de los procedimientos tecnológicos uniformes del explotador contenidos en el artículo 51 letra b) 
+de la normativa interna de ČD V2 "REGLAMENTO para las cuadrillas de locomotora", aprobado por decisión del director general 
+de la División Comercial-Operativa de fecha 08. 01.1998, ref. nº: 60 796/97- O18, en su versión vigente (normativa interna 
+de ČD, a. s., transferida a fecha 01. 12. 2007 a ČD Cargo, a. s., con la garantía propia consecuente de ČD Cargo, a. s.). Por ello decidió 
+desplazar el tren hasta la señal de entrada a una distancia inferior a 50 m. Antes de poner el tren en 
+movimiento se produjo un golpe, en el que el maquinista cayó por encima del 
+asiento del maquinista y posteriormente cayó al suelo. 
+Del documento "Declaración sobre el estado del TRS", ref. nº: 1-72/2009, de fecha 09. 01. 2009, 
+elaborado por la sociedad ČD – Telematika, a. s., entre otros se deduce que en el tramo Mohelnice – Moravičany en 
+el momento de la incidencia se encontraban en servicio las ZR 47 TRS en las estaciones de Lukavice na Moravě y Moravičany. Ambas ZR 47 
+operaban en el grupo de canales 64. En el momento de la incidencia no se reportó ninguna avería en el 
+TRS y el equipo TRS se encontraba en el momento de la incidencia objeto de mención plenamente funcional. 
+No puede tampoco omitirse el hecho de que el maquinista del tren Pn 66161, en el momento de la incidencia, 
+fue equipado por el empleador, es decir, el explotador, también con un teléfono móvil de servicio, que es un elemento
 
 ## Página 77
+
 
 24 del reglamento interno de SŽDC (ČD) D2 definido por el explotador, junto con el teléfono y el equipo de radio, como uno de los tipos de equipos de telecomunicaciones. El transportista equipó a los maquinistas con teléfonos corporativos para la comunicación interna dentro de la empresa ČD Cargo, a. s., especialmente para permitir el contacto con el jefe de turno, el ayudante de locomotora, el grupo de tripulación de locomotoras, el equipo de control de tráfico y, por tanto, no están destinados principalmente a la comunicación del maquinista con el despachador de tráfico u otra persona que dirija el tráfico ferroviario. Según la declaración incluida en el documento «Solicitud de información sobre el accidente – respuesta», ref.: 1-275/2009/DI, de fecha 02. 02. 2009, el transportista constata que para la comunicación con empleados de otras entidades o para las operaciones de tráfico están destinadas las estaciones de radio situadas en las cabinas de control de tráfico (HDV) y los teléfonos de vía, almacenados en armarios con cerradura, siendo cada maquinista equipado con una llave universal destinada a abrir estos armarios.
 
@@ -2614,6 +2690,7 @@ El acta del control en el Libro de inspecciones n.º 2 se realiza únicamente en
 
 ## Página 78
 
+
 ### El alcance y la orientación de la inspección no están establecidos por el reglamento y tampoco se regula la elaboración de documentación escrita sobre el alcance y la orientación de la inspección.
 El documento "Sistema de inspección de la estación de tráfico de Olomouc" (en adelante, Reglamento de inspección), vigente desde
 ●
@@ -2636,8 +2713,8 @@ De los hechos mencionados anteriormente se desprende que los requisitos del sist
 ### seguridad de la explotación de la vía, como lo demuestran también los contenidos de los documentos "Acta de la explicación presentada por un testigo de un incidente extraordinario en el transporte ferroviario", n.º de registro: 1-2336/2008, 1-
 2337/2008 y 1-2338/2008 del 22. 12. 2008 y n.º de registro: 1-61/2009 y 1-62/2009 del 09. 01. 2009.
 
-
 ## Página 79
+
 
 ### 4.3 Conclusiones
 4.3.1 Causas inmediatas del incidente extraordinario, incluidos los factores que contribuyeron a él y que estaban relacionados con la actuación de las personas implicadas o con el estado de los vehículos ferroviarios o de los equipos técnicos
@@ -2650,6 +2727,7 @@ El operador de la vía, en relación con las disposiciones del artículo 2 apart
 Al investigar las causas y las circunstancias de la aparición del incidente (MU), no se pudo determinar y demostrar de manera probatoria la causa de la falta de conexión del maquinista del tren Pn 66161 con el despachador de la estación de Moravičany a través del TRS, identificar los tiempos de las conexiones no realizadas y, por tanto, obtener el margen de tiempo posible para la recepción y aplicación de medidas eficaces que condujeran a la prevención de la colisión entre los trenes Pn 66161 y Nex 54053. Por lo tanto, no se puede determinar el grado del factor consistente en la falta de aviso del despachador de la estación de Moravičany por parte del maquinista sobre el tren Pn 66161 detenido junto a la señal de entrada 1S de la estación de Moravičany.
 
 ## Página 80
+
 
 ### 4.3.2 Causas principales relacionadas con la cualificación, los procedimientos y el mantenimiento
 
@@ -2672,6 +2750,7 @@ El administrador de la infraestructura, en relación con lo dispuesto en el apar
 La persona técnicamente cualificada para investigar las causas y las circunstancias de la aparición del accidente (en lo sucesivo, la persona autorizada) del administrador de la infraestructura SŽDC, s. o., durante la investigación de las causas y las circunstancias de la aparición del accidente, no detectó y no incluyó en el documento «Evaluación de las causas y las circunstancias de la aparición del incidente excepcional – accidente grave»,
 
 ## Página 81
+
 
 n.º de registro: 50873/08, de fecha 19 de diciembre de 2008, que el documento «ORDEN GENERAL para el tren n.º 54053» n.º 0000862-861, de fecha 13 de septiembre de 2008, emitido al maquinista del tren Nex 54053 en la estación de Česká Třebová, no contenía la orden de no superar la velocidad de 100 km/h en el tramo intermedio entre las estaciones de Mohelnice y Moravičany al circular por la vía de línea n.º 1. Dado que se trataba de un tren para el que estaba establecida una velocidad superior a 100 km/h, el maquinista del tren Nex 54053 debía haber sido informado de manera demostrable mediante una orden de no superar la velocidad de 100 km/h en el tramo intermedio entre las estaciones de Mohelnice y Moravičany al circular por la vía de línea n.º 1.
 
@@ -2699,63 +2778,58 @@ c) Los jefes de turno garantizarán la realización de controles de cada puesto 
 
 ## Página 82
 
-«Medidas del jefe de la Oficina de Operaciones de Olomouc n.º 3/2008 – actividad de control en el ámbito de la Oficina de Operaciones de Olomouc»
+"Medida del jefe de PO Olomouc n.º 3/2008 – actividad de control en
+  el ámbito de PO Olomouc"
 , 
 –
-con eficacia desde el 01. 10. 2008, que establece las obligaciones, condiciones e intervalos para la organización, 
-realización, evaluación, documentación y archivo de los resultados de los controles. Parte integrante 
-de este documento son los siguientes capítulos:
+con efectos desde el 01. 10. 2008, que establece obligaciones, condiciones e intervalos, en la organización, 
+realización, evaluación, documentación y archivo de los resultados de los controles. Parte integrante de 
+este documento son los capítulos indicados a continuación:
 I. Enfoque de la actividad de control,
 •
-II. Grupo de empleados que realizan el control,
+II. Círculo de empleados que realizan el control,
 •
-III. Líneas principales de la actividad de control,
+III. Principales líneas de la actividad de control,
 •
 IV. Organización de los controles,
 •
-V. Llevanza de los libros de inspección,
+V. Llevanza de los libros de inspecciones,
 •
 VI. Llevanza de otros libros de registro,
 •
 VII. Evaluación de la actividad de control,
 •
-VIII. Responsabilidad en la materia,
+VIII. Responsabilidad por el área correspondiente,
 •
 IX. Protección contra el alcoholismo y otras toxicomanías,
 •
 X. Frecuencia mínima de los controles.
 •
-La Medida n.º 3 establece, entre otras cosas, las líneas principales de la actividad de control, entre las que se incluye el cumplimiento 
-de la disciplina y la ordenación, el respeto de la disciplina laboral y tecnológica, sin especificar procedimientos concretos sobre la forma de controlar el cumplimiento de las fórmulas verbales prescritas al utilizar 
-el equipo de comunicaciones y con un enfoque parcial en el control de los datos registrados por el dispositivo de grabación. La Medida establece la obligación del empleado encargado de la actividad de control 
-de realizar de inmediato, a más tardar el siguiente día laborable, la anotación del control realizado en el libro «Libro de inspecciones del jefe de la Oficina de Operaciones y libro de inspecciones del jefe de la estación – N.º 2», y esto 
-únicamente en los casos:  
-detección de una avería,
+La medida n.º 3, entre otros, establece las principales líneas de la actividad de control, entre las que se incluye el cumplimiento de la disciplina y el orden, el cumplimiento de la disciplina laboral y tecnológica, sin indicar los procedimientos concretos del modo de control del cumplimiento de las redacciones verbales prescritas al utilizar el equipo de comunicación y un enfoque parcial en la verificación de los datos registrados por el equipo de registro. La medida establece la obligación del empleado encargado de la actividad de control de realizar inmediatamente, como máximo el siguiente día laborable, la anotación del control realizado en el libro "Libro de inspecciones del jefe de PO y libro de inspecciones del jefe de estación – K n.º 2", y ello solo en los casos:
+detección de una anomalía,
 –
-controles nocturnos,
+control nocturno,
 –
-controles en días de descanso laboral,
+control en días de descanso laboral,
 –
-controles ordenados por las autoridades superiores,
+control ordenado por los órganos superiores,
 –
-controles que no pueden documentarse en las posiciones de control inspeccionadas.
+controles que no pueden documentarse en los puestos de control.
 –
-Los controles realizados por los empleados encargados de la actividad de control se documentan en rojo en una línea libre del diario de circulación (cuaderno de teléfono, cuaderno de libertad y correcta configuración 
-de la vía del tren, entrega del servicio, etc.).
-El alcance del control no está definido por la Medida n.º 3 y tampoco se regula la llevanza de la documentación escrita sobre el alcance y el enfoque del control. 
-La Orden interna del jefe de la Oficina de Operaciones de Olomouc «Verificaciones del trabajo vivo» del 16. 10. 2008, por la que 
+Los controles de los empleados encargados de la actividad de control se documentan en rojo en una línea libre del diario de circulación (del cuaderno telefónico, del cuaderno de libertad y correcta posición de la vía del tren, de la entrega de servicio, etc.).
+El alcance del control no está establecido por la medida n.º 3, ni tampoco está regulada la llevanza de la documentación escrita sobre el alcance y el enfoque del control. 
+Instrucción interna del jefe de PO Olomouc "Verificación del trabajo en vivo" de fecha 16. 10. 2008, por la que 
 –
-se ordenaba la realización de una verificación del trabajo vivo en la estación de Olomouc hl. n. con un enfoque en la información a los viajeros y en las estaciones de Mohelnice y Moravičany con un enfoque en la disciplina verbal – control 
-de los datos registrados por el dispositivo de grabación ReDat.
-Se realizó un control del servicio del personal de circulación de las estaciones de Mohelnice y Moravičany con 
+se ordenó la realización de una verificación del trabajo en vivo en la est. Olomouc hl. n. con enfoque en la información a los pasajeros y en la est. Mohelnice y est. Moravičany con enfoque en la disciplina verbal – verificación de los datos registrados por el equipo de registro ReDat.
+Se realizó un control del servicio de los empleados de circulación de las est. Mohelnice y Moravičany con 
 –
-un enfoque en la llevanza de la documentación de circulación, la disciplina verbal y el control de los datos 
-registrados por el dispositivo de grabación digital universal ReDat 3 desde el 23. 10. 2008 – 
-17:30 h. hasta el 24. 10. 2008 – 06:02 h. Las averías detectadas y las medidas adoptadas para las averías detectadas se indican en su integridad en el documento «Acta de la verificación del trabajo vivo en las estaciones de Mohelnice y Moravičany del 24. 10. 2008». El documento mencionado es un anexo inseparable del expediente 
-MU.
-
+enfoque en la llevanza de la documentación de circulación, la disciplina verbal y la verificación de los datos 
+registrados por el equipo de registro digital universal ReDat 3 desde el 23. 10. 2008 – 
+17:30 h hasta el 24. 10. 2008 – 06:02 h. Las anomalías detectadas y las medidas adoptadas en relación con las 
+anomalías detectadas se indican íntegramente en el documento "Acta de la verificación del trabajo en vivo en la EST Mohelnice y Moravičany el 24. 10. 2008". El documento en cuestión es un anexo integrante del expediente MU.
 
 ## Página 83
+
 
 ## 6 RECOMENDACIONES DE SEGURIDAD
 No se emitió ninguna recomendación de seguridad por parte de la Inspección Ferroviaria ni al administrador de la infraestructura ni al operador del transporte ferroviario.
@@ -2767,16 +2841,17 @@ director
 Inspección Territorial de Ostrava
 Inspección Territorial de Ostrava
 
-
 ## Página 84
+
 
 ## 7 ANEXOS
 ### 7. 1 Documentación fotográfica del lugar del incidente
 
-
 ## Página 85
 
 
+
 ## Página 86
+
 
 ### 7.2 Plano del lugar del incidente

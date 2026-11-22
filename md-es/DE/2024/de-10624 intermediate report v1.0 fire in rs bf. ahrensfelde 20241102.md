@@ -10,10 +10,10 @@ chars: 3882
 ratio_longitud: 1.04
 tokens_in: 1903
 tokens_out: 989
-verificacion: ok
-notas_cifras: ["bloque 1: cifras largas: 1/12; cifras cortas: 4/53"]
+verificacion: revisar
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+avisos: ["página 3: cifras largas: faltan 1/1 (100%)"]
 ---
 ## Página 1
 

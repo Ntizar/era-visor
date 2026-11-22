@@ -23,7 +23,7 @@ Fidelidad = revisión IA del castellano contra el original (0-100).
 
 | Informe | Págs | Caracteres | Verificación |
 |---|---|---|---|
-| [lv-10482 - final report 5_02_1_23_lv.md](2023/lv-10482%20-%20final%20report%205_02_1_23_lv.md) | — | 92793 | revisar |
+| [lv-10482 - final report 5_02_1_23_lv.md](2023/lv-10482%20-%20final%20report%205_02_1_23_lv.md) | — | 92793 | ok |
 
 ## 2022 (2)
 
@@ -81,5 +81,5 @@ Fidelidad = revisión IA del castellano contra el original (0-100).
 
 | Informe | Págs | Caracteres | Verificación |
 |---|---|---|---|
-| [Bolderaja_Nr_2008_1_Report-050208.md](2008/Bolderaja_Nr_2008_1_Report-050208.md) | — | 41739 | ok |
+| [Bolderaja_Nr_2008_1_Report-050208.md](2008/Bolderaja_Nr_2008_1_Report-050208.md) | — | 41739 | revisar |
 | [Ventspils_p_20.12.2008.md](2008/Ventspils_p_20.12.2008.md) | — | 107058 | ok |

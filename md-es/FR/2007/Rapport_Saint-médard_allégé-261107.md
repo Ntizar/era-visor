@@ -10,35 +10,57 @@ chars: 81430
 ratio_longitud: 1.07
 tokens_in: 73431
 tokens_out: 83347
-verificacion: revisar
-notas_cifras: ["bloque 2: cifras cortas: 1/252", "bloque 3: cifras cortas: 4/592", "bloque 4: cifras cortas: 20/781", "bloque 6: cifras cortas: 5/759", "bloque 7: cifras cortas: 891/894", "bloque 9: cifras cortas: 18/602"]
-avisos: ["bloque 7: cifras largas: faltan 47/47 (100%)", "bloque 10: marcadores de página: 3 vs 1; cifras largas: faltan 17/27 (63%); ratio 2.14"]
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: revisar
+avisos: ["página 24: cifras largas: faltan 4/17 (24%)"]
+notas_cifras: ["página 8: cifras cortas: 1/209", "página 9: original bilingüe: se compara contra el idioma principal (PT)", "página 11: cifras cortas: 2/391", "página 13: cifras cortas: 2/197", "página 15: cifras cortas: 3/330", "página 16: cifras cortas: 11/255"]
 ---
+
 ## Página 1
+
+
 
 ## Página 2
 
+
+
 ## Página 3
 
-# 3.6-5=$NV.V"=$%-$=&-.@5"!..-A-.#
-# -#$%0$%V@-=!  -A-.#$%0"B=-
- !! "#%&-. /001
-# e0"-0$%&M./01#-6$60"$=-6$f335%-.#6$
-# %-$F".6 !"#$F-""-6#"-
-23345. 6=>?2@@A/00BA0!B
-#   !"#$%&-./01#-$#-34.5/0-
-# 60"$=$3!==565!.$%0$>?$.!@-AB"-$>CCD
-# -.#"-$0.$FM$-#$0.$ !5%6$=!0"%
-# 0$ 66N-$O$.5@-0$.QRR
-# O$S5.#TUV%"%T60"T^==-$_`ab
-!
 
+# 3.6-5=$NV.V"
+=$%-$=&-.@5"!..-A-.#
+# -#$%0$%V@-=!  -A-.#$%0"
+B=-
+ !! "#%&-. /001
+# e0"-
+0$%&M./01#-6$60"$=-6$f335%-.#6$
+# %-$F"
+.6 !"#$F-""-6#"-
+23345. 6=>?2@@A/00BA0!B
+# 
+
+  !"#$%&-./01#-$#-34.5/0-
+# 60"$=
+$3!==565!.$%0$>?$.!@-AB"-$>CCD
+# -.#"-$0.$FM
+$-#$0.$ !5%6$=!0"%
+# 
+0$ 
+66
+N-$O$.5@-
+0$.QRR
+# O$S
+5.#TUV%
+"%T60"T^==-$_`ab
+!
 
 ## Página 4
 
-# e!"%-"-0$%!30A-.#5"-
+
+# e!"%-"-
+0$%!30A-.#
+5"-
 C.D465E& FEM %N&&46"5O45. FEM P Q565EOR. " TU?%NTND5V " TU?6.D5V "] ^#_TN``&6O "].4-T 
 O " T4 Q.V 6 %a4.D "E @%a6NTND5E _.OE O "E b#DN%54O5N6E E]. T %T5&4O c Q??^^Q
 C.D465E& FEM 4]O]. FEM P >].4] "U?6d]eOE E]. TE 2%%5"6OE " @.46E`N.O @..EO. c >?2A@@
@@ -48,8 +70,8 @@ b=qpmb P ?tA>?2@@AA01A!rAum
 v.N`NE5O5N6 " &NOEA%T#E P `4EE4D o 65_4]V O.4_4]}V E5D64T5E4O5N6 O&`N.45.V 4TO.64O5N6 " 
 /
 
-
 ## Página 5
+
 
 ### f@-"#566-A-.#
 U6d]eO O%a65d] 345E46O TUN-ÄO "] `.#E6O .4``N.O EO .#4T5E# "46E T 
@@ -64,16 +86,23 @@ TÖ]O5T5E4O5N6 " % .4``N.O o "Ö4]O.E 356E d] T4 `.#_6O5N6 `N]..45O %N6"]5.
 o "E 56O.`.#O4O5N6E ..N6#E~
 r
 
-
 ## Página 6
+
 
 
 ## Página 7
 
-# S!AA5"-
-m=!665"-nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnD
-V60AVnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn c
-RT$d!.6##6$5AAV%5#6$-#$-.NN-A-.#$%-$=&-./01#-nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn RR
+
+# S!AA
+5"-
+m=!66
+5"-nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnD
+
+V60AVnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn c
+RT$d!.6#
+#6$5AAV%5
+#6$-#$-.N
+N-A-.#$%-$=&-./01#-nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn RR
 !~!A É5.%N6EO46%E " TU4%%5"6O~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~!!
 !~/A p%N].E O -5T46~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~!!
 !~rA ?6D4D&6O O N.D465E4O5N6 " TU6d]eO~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~!!
@@ -85,7 +114,8 @@ RT$d!.6##6$5AAV%5#6$-#$-.NN-A-.#$%-$=&-./01#-nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn 
 /~r~/A @.435% O 4%%5"6O4T5O#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~!Å
 /~ÅA Éa46O5. " T4 D4. " p456OAQ#"4."AE].AqTT~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ !Å
 /~sA 2%%5"6OE S]. LE `4EE4DE o 65_4]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~!s
-`T$d!A #-$"-.%0$%-6$5.@-6#5N#5!.6nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnRD
+`T$d!A #-$"-.%0$%-6$5.@-6#5N
+#5!.6nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnRD
 r~!A m#E]&#E "E O#&N5D64DE~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~!B
 r~!~!A @#&N5D64D "] %N6"]%O]. "] @~?~m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ !B
 r~!~/A @#&N5D64D "] %N6"]%O]. " TU6E&-T .N]O5.~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ !B
@@ -113,6 +143,7 @@ s
 
 ## Página 8
 
+
 r~s~sA vNE5O5N66 & 6O "] O.4%O ]. 4D.5%NT "46E T E #_#6 & 6OE 6. D5EO.#E~~~~~~~~~~~~~~~~~~~~~~~~~~~~r0
 # qT$rV"!0=-A-.#$"-3!.6#5#0V$%-$=& 335%-.#$-#$%-6$6-3!0"6nnnnnnnnnnnnnnnnnnnnnnn`R
 Å~!A áO4O " E T5 ]} 4_46O TU4%%5" 6O~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~r!
@@ -121,7 +152,10 @@ r~s~sA vNE5O5N66 & 6O "] O.4%O ]. 4D.5%NT "46E T E #_#6 & 6OE 6. D5EO.#E~~~~~~~~
 Å~ÅA 2%%.N%a4D " T4 "&5A-4..5R.~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~r/
 Å~sA ÉNTT5E5N6~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~rr
 Å~nA p%N].E O -5T46~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~rr
-aT$f.=s6-$%-6$306-6$-#$!"5-.##5!.6$ "V@-.#5@-6nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn`a
+aT$f.
+=s6-$%-6$3
+06-6$-#$!"5-.#
+#5!.6$ "V@-.#5@-6nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn`a
 s~!A ÉN6"]5O " TU6E&-T .N]O5.~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ rs
 s~!~!A 264TÑE~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ rs
 s~!~/A C.56O4O5N6 `N]. T4 `.#_6O5N6~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~rs
@@ -139,7 +173,9 @@ s~Å~/A C.56O4O5N6 `N]. L4 `.#_6O5N6~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 s~sA Q#%465E&E L#E5N66TE "E `4EE4DE "] O.456~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ r1
 s~s~!A 264TÑE~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ r1
 s~s~/A C.56O4O5N6 `N]. L4 `.#_6O5N6~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~r1
-?T$d!.3=065!.6$-#$"-3!AA.%#5!.6nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn qR
+?T$d!.3=065!.6$-#$"-3!AA
+.%
+#5!.6nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn qR
 n~!A É4]EE " LU4%%5"6O~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Å!
 n~/A m%N&&46"4O5N6E~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Å!
 fttMuMSnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnq`
@@ -152,22 +188,28 @@ E#%].5O# E]. LE `4EE4DE o 65_4] ëM~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 266} n P mRDTE " E#%].5O# E]. LE `4EE4DE o 65_4] F"#`T546O ^pÉmM~~~~~~~~~~~~sÅ
 n
 
-
 ## Página 9
 
-m=!665"-
+
+m=!66
+5"-
 ### vt P v4EE4D o b5_4]
-### SV#" Pp._5% "U?O]"E E]. LE @.46E`N.OEV LE mN]OE O L].E 2&#64D&6OE
-### FnMn P @.456 ?}`.EE m#D5N64T
+### SV#"
+ Pp._5% "U?O]"E E]. LE @.46E`N.OEV LE mN]OE O L].E 2&#64D&6OE
+### FnMn
+ P @.456 ?}`.EE m#D5N64T
 ### fvf}M P 2EEN%54O5N6 "E v.N`.5#O45.E "U2``4.5TE o é4`]. O áT%O.5d]E
 ### v^S P vT46 "Uq6O._6O5N6 O " p#%].5O#
-d!!"%5.#-0"$SvS P %NN."564O]. 6 &4O5R. " p#%].5O# O " v.NO%O5N6 " L4 p46O#
+d!!"%5.
+#-0"$SvS P %NN."564O]. 6 &4O5R. " p#%].5O# O " v.NO%O5N6 " L4 p46O#
 B
-
 
 ## Página 10
 
+
+
 ## Página 11
+
 
 # 60AV
 	 La línea 6N_&-. /00B _.E !Ba00V ]6 6E&-T .N]O5. %a4.D# " D.4_5. %5.%]T46O E].. 
@@ -204,18 +246,24 @@ Q!"#%0 %# 1%"$0 RBC.?%B%#0 SOC#$.T 0"$ 1%0 #$.5."U = /$!U3B3#C 4%0 V] %# = %-
 $C@1%U3!0 %"$!/C%%0 % -!"$0 0"$ 1. 13B3#.#3! 4% 12.?$%00353#C 4%0 03^?%0 4% #$.3 % -.0 4% -A!-_
 1
 
-
 ## Página 12
+
 
 
 ## Página 13
 
+
 # RT$
-# $$ $$$$d!.6##6$5AAV%5#6$-#$-.NN-A-.#$%-$=&-./01#-
+# $$ $$$$d!.6#
+#6$5AAV%5
+#6$-#$-.N
+N-A-.#$%-$=&-./01#-
 # $$
 ### RnRT$
 ### $$
-$$$$d5"3!.6#.3-6$%-$=&335%-.#
+$$$$d5"3!.6#
+.3-6$%-$=&
+335%-.#
 ### $$
 	 La línea 6N_&-. /00B _.E !Ba00V E]. L `4EE4D o 65_4] FvbM 6=!! o p456OAQ#"4."A
 E].AqTT F"#`4.O&6O "UqTTAOAé5T456MV ]6 `N5"E TN]." %a4.D# " D.4_5. %5.%]T46O E]. L4 .N]O 
@@ -224,7 +272,8 @@ m66E î p456OAQ4TN~
 ### Rn>T$
 ### $$
 ### $$$$S-
-### $$ 3!0"6$-#$B5=.
+### $$ 3!0"6$-#$B5=
+.
 ### $$
 	4 `.#3%O]. "#%T6%a L vT46 .N]D O L4 pN%5#O# b4O5N64T "E Éa&56E " 3. u.46ï45E 
 FpbÉuM L vT46 "Uq6O._6O5N6 O " p#%].5O# FvqpM~
@@ -233,7 +282,10 @@ aì`5O4]} " L4 .#D5N6~
 	4 %5.%]T4O5N6 3..N_545. EO 56O..N&`] Ä]Ed]U4]} 6_5.N6E " // a].E~
 ### Rn`T$
 ### $$
-### $$$$M.NN-A-.#$-#$!"N.56#5!.$%-$=&-./01#-
+### $$$$M.N
+N-A-.#$-#$!"N
+.56
+#5!.$%-$=&-./01#-
 ### $$
 ÉN&`O O6] "E %5.%N6EO46%E " %O 4%%5"6OV L "5.%O]. "] -].4] "U6d]eOE E]. LE 
 4%%5"6OE " O.46E`N.O O..EO. F>?2A@@M 4 N]_.O ]6 6d]eO O%a65d] L /Ç 6N_&-. /00B 
@@ -247,17 +299,23 @@ o .6%N6O.. ]TO#.5].&6O LE .`.#E6O46OE "E N.D465E&E 5&`T5d]#E "46E L %
 LU6d]eOV O 6NO4&&6O " LU6d]eO " 3T4D.46%~
 !!
 
-
 ## Página 14
 
+
+
 ## Página 15
+
 
 # >T$
 # $$ $$$$o=VA-.#6$%-$3!.#-p#-
 # $$
 ### >nRT$
 ### $$
-### $$$$~5N.-$Ä-""!@55"-$-..-6TS5.#TU=!
+### $$$$~5N.-$Ä-""!@5
+5"-$
+-..-6TS
+5.#TU
+=!
 ### $$
 4 T5D6 3..N_545. m66E A p456OAQ4TN %N&`N.O "]} _N5E O EO #T%O.535#~ ?TT EO 
 `4.%N].] ÄN].6TT&6O `4. 6_5.N6 Bs O.456E~  /n 6N_&-. /00BV ÄN]. " TU4%%5"6O T4 
@@ -268,7 +326,10 @@ vN]. ]6 O.456 4..5_46O " m66EV T4 _5E5-5T5O# "] vb EO .#"]5O `4. T4 %N].- 
 T .4ÑN6 EO " BsÇ &RO.E~
 ### >n>T$
 ### $$
-### $$$$!0#-$%V "#-A-.#=-$.QRC?
+### $$$$
+!0#-$%V 
+"#-A-.#
+=-$.QRC?
 ### $$
 4 m^ 6=!0n "#%.5O ]6 4.% " %.%T o ]6 _56DO456 " †5TN&RO.E 4] 6N." " TU4DDTN&#.4O5N6 
 " m66E F_N5. `T46 6 466} /M~ ?TT .T5 O.N5E 4}E .N]O5.E 5&`N.O46OEV "UN]EO 6 EOV T4 
@@ -280,11 +341,16 @@ TUN]EO " p456OAQ#"4."AE].AqTTV EO "U6_5.N6 !B00 _#a5%]TEíÄN].V "N6O r00 
 " Ä]5TTO /00BM~ 
 ### >n`T$
 ### $$
-### $$$$v66N-$O$.5@-0$.QRR
+### $$$$v
+66
+N-$O$.5@-
+0$.QRR
 ### $$
 ### >n`nRT$
 ## $$
-### $$$$d"3#V"56#5/0-6$
+### $$$$d
+"
+3#V"56#5/0-6$
 ## $$
  vb 6=!! EO E5O]# 6 EN.O5 "] -N].D " p456OAQ#"4."AE].AqTTV 4`.RE T %464T "UqTTAOA
 m46%V 6 "5.%O5N6 " T4 %N&&]6 " Ü]5`T~ 4 _N5 3..# EO O.4_.E# 6 N-T5d] `4. T4 
@@ -304,24 +370,45 @@ a4]O o T4 &456 %4. TTE .ON&-6O `4. D.4_5O#~ ÉE -4..5R.E `]_6O eO. %4E
 L %a4]EE# F_N5. 466} Å î vaNONE s o 1M~
 !r
 
-
 ## Página 16
+
 
 ÉN&& ON]E LE vb " OÑ` p2/V L vb 6=!! EO #d]5`# " d]4O. 3]} .N]DE %T5D6NO46OE 
 " OÑ` m/ÅV "]} "46E %a4d] E6E " %5.%]T4O5N6V " `4.O O "U4]O. " L %a4]EE#~ 
 qT EO E5D64T#46E %a4d] E6E `4. ]6 `4664] " OÑ` 2B Fè `4EE4D o 65_4] &]65 " 
 -4..5R.EëM O `.#AE5D64T# `4. O.N5E -4T5EE " OÑ` ê!0~
-### Å5Nn$>$Ç$v..-0$fD$65N.=.#$0.$ 66N-$O$
-### Å5Nn$R$Ç$Å-0$"!0N-$3=5N.!#.#$>q$5A !6.#$
-## .5@-0$A0.5$%-$B""5É"-6
-## =&""1#
-### Å5N$`$Ç$e=56-6$ÑRC$ "VT65N.=.#$0.$ 66N-$O$
-## .5@-0
+### Å5Nn$>$Ç$v
+..-
+0$fD$65N.
+=
+.#$0.$ 
+66
+N-$O$
+### Å5Nn$R$Ç$Å-0$"!0N-$3=5N.!#
+.#$
+>q$5A !6
+.#$
+## .5@-
+0$A0.5$%-$B
+""5É"-6
+## =&
+""1#
+### Å5N$`$Ç$e
+=56-6$ÑRC$ "VT65N.
+=
+.#$0.$ 
+66
+N-$O$
+## .5@-
+0
 E "]} ".65R.E _5E5OE " %N6O.ìT "E 56EO4TT4O5N6E F/Å N%ON-. /00n O Å Ä]56 /00BMV 
 456E5 d] L _#.535%4O5N6 33%O]# d]Td]E ÄN].E 4`.RE LU4%%5"6O 6UN6O `4E .L_# "U46N&4T5E~
 ### >n`n>T$
 ## $$
-## $$$$F"Ä53$-#$335%-.#=5#V
+## $$$$F"
+Ä53$-#$
+335%-.#
+=5#V
 ## $$
  &N&6O "] vb EO EO5&# `4. L pbÉu o !!s /00 F!sr0 _#a5%]TEíÄN]. } Bs O.456EíÄN].M~ 
  vb 6UEO `4E %T4EE# %N&& `.#N%%]`46O~
@@ -333,7 +420,12 @@ o ]6 †5TN&RO. 6_5.N6 4] 6N." " p456OAQ#"4."AE].AqTT~
 O.4_.E45O L vb 3.&# 4 #O# a].O# `4. ]6 O.456~
 ### >nqT$
 ### $$
-### $$$$d4.#5-"$%-$=$N"-$%-$S5.#TUV%"%T60"T^==-
+### $$$$d4
+.#5-"$%-$=
+$N
+"-$%-$S
+5.#TUV%
+"%T60"T^==-
 ### $$
 £6 %a46O5. " .#3%O5N6 " L D4. " p456OAQ#"4."AE].AqTT Fd]45E O 4-N."E " L D4.M #O45O 
 6 %N].E L ÄN]. " LU4%%5"6O 4]} 4-N."E "] vb O " L m^ 6=!0n~
@@ -343,8 +435,8 @@ O.4_.E45O L vb 3.&# 4 #O# a].O# `4. ]6 O.456~
 `T]E `4.O5%]T5R.&6O `4. LU2D6% >§O5&6O O á6.D5~
 !Å
 
-
 ## Página 17
+
 
 E O.4_4]} #O456O .#4T5E#E `4. L EN%5#O# ?].N_54~ 
 4 %NN."564O5N6 6 &4O5R. " p#%].5O#V " v.NO%O5N6 O " p46O# "E `.EN66TE "] %a46O5. 
@@ -357,7 +449,10 @@ m^ 6=!0nV `N]. `.NO#D. LE `.EN66TE `NE46O "E -N."].E " O.NOON5. o TU}O.#
 LN6D46O L .N]O "#`4.O&6O4TV %ìO# p456OAQ#"4."AE].AqTT~
 ### >naT$
 ### $$
-### $$$$f335%-.#6$60"$=-6$ 66N-6$O$.5@-0
+### $$$$f335%-.#6$60"$=-6$ 
+66
+N-6$O$.5@-
+0
 ### $$
 ?6 /00ÇV E]. LE !n ssÅ vb `N]. 4]ON&N-5TE .%6E#EV N6O #O# "#6N&-.#E !!s %NTT5E5N6E 
 d]5 N6O %4]E# L "#%RE " rÇ `.EN66E FEN].%E P muu O pbÉuM~ 
@@ -369,17 +464,22 @@ d] L %5.%]T4O5N6 .N]O5R. "N]-T45O "46E L &e& `#.5N"~
 .5Ed] "U4%%5"6OE %NTT%O53E `N]. L %N6"]%O]. O LE `4EE4D.E "] O.456
 !s
 
-
 ## Página 18
+
+
 
 ## Página 19
 
+
 # `T$
-# $$ $$$$d!A #-$"-.%0$%-6$5.@-6#5N#5!.6
+# $$ $$$$d!A #-$"-.%0$%-6$5.@-6#5N
+#5!.6
 # $$
 ### `nRT$
 ### $$
-### $$$$V60AV6$%-6$#VA!5N.N-6
+### $$$$
+V60AV6$%-6$#VA!5N.
+N-6
 ### $$
 E .#E]&#E `.#E6O#E %5A"EEN]E EN6O #O4-T5E `4. TE 6d]eO].E O%a65d]E E]. T4 -4E "E 
 "#%T4.4O5N6E "E 4D6OE "N6O 5TE N6O ] %N6645EE46%~ qTE .O5666O TE #T#&6OE }`NE#E d]5 
@@ -389,7 +489,9 @@ qT `]O "N6% Ñ 4_N5. "5_.D6% 6O. TE "533#.6OE "#%T4.4O5N6E N] 4_% "E 
 3N.&]T# "46E T %a4`5O. Å F^#.N]T&6O .%N6EO5O]# " TU4%%5"6O O "E E%N].EM~
 ### `nRnRT$
 ## $$
-### $$$$FVA!5N.N-$%0$3!.%03#-0"$%0$FnMn
+### $$$$FVA!5N.
+N-$%0$3!.%03#-0"$%0$FnMn
+
 ## $$
  %N6"]%O]. %5.%]T E]. %OO T5D6 "`]5E !B 46E~
  @?m 4 d]5OO# T4 D4. " m66E o !naÅs~ 2]%]6 4..eO 6U#O45O `.#_] o T4 D4. " p456OA
@@ -404,7 +506,8 @@ qT 4 "#%T6%a# 5&&#"54O&6O TU4..eO "U].D6% "] O.456V EO EN.O5 " E4 %4-56V
 O T4 `.NO%O5N6 "E O.456E~
 ### `nRn>T$
 ## $$
-## $$$$FVA!5N.N-$%0$3!.%03#-0"$%-$=&-.6-AB=-$"!0#5-"
+## $$$$FVA!5N.
+N-$%0$3!.%03#-0"$%-$=&-.6-AB=-$"!0#5-"
 ## $$
  %N6"]%O]. " TU6E&-T .N]O5. }.% ]6 4%O5_5O# "46E TE O.46E`N.OE .N]O5.E "`]5E 
 `T]E " O.6O 46E~ ^`]5E "5} 46EV 5T EO &`TNÑ# `4. ]6 6O.`.5E E`#%54T5E# "46E TE T5_.45EN6E 
@@ -422,8 +525,8 @@ TU4..eO 4] 3] "U4TO.64O O&`N.45. 4] .N]D d]U5T E5O] o ]6 %56d]46O456 " 
 qT 6U4 `4E `.ï] TE E5D64]} "U466N6% "] O.456 F3]} .N]DE %T5D6NO46OE O E5D64T EN6N.M~
 !B
 
-
 ## Página 20
+
 
 Üe6# `4. T4 `.#E6% "U]6 O.4%O]. 4D.5%NT d]5 _646O 6 E6E 56_.EV `]5E E].`.5E `4. 
 TU4-45EE&6O " T4 "&5A-4..5R. " E6E N``NE# d]5 EUEO 56O.%4T# 6O. T4 %4-56 O T4 E&5A
@@ -433,7 +536,11 @@ TU4-45EE&6O " T4 "&5A-4..5R. " E6E N``NE# d]5 EUEO 56O.%4T# 6O. T4 %
 2 % &N&6OV T O.456 EO 4..5_# o `T56 _5OEE O 4 `.%]O# T4 E&5A.&N.d]~ 
 ### `nRn`T$
 ## $$
-## $$$$FVA!5N.N-$%0$3!.%03#-0"$%0$#"3#-0"$N"53!=-$@-..#$-.$6-.6$5.@-"6-
+## $$$$FVA!5N.
+N-$%0$3!.%03#-0"$%0$#"
+3#-0"$
+N"53!=-$@-.
+.#$-.$6-.6$5.@-"6-
 ## $$
 £6 O.4%O]. 4D.5%NT d]5 _645O 6 E6E 56_.E #O45O 4..eO# " TU4]O. %ìO# "] vbV 4] 3] 
 "U4TO.64O O&`N.45. 4] .N]D~ 
@@ -445,7 +552,13 @@ u4% 4]} "5335%]TO#E .6%N6O.#E `4. T %N6"]%O]. " TU6E&-T .N]O5. `N]. .
 EN]"456 "] O.456 TU6 4 &`e%a#~
 ### `nRnqT$
 ## $$
-$$$$FVA!5N.N-6$%-6$0#"-6$3!.%03#-0"6$-#$%-6$ -"6!..-6$#"@5==.#$60"$=-$34.#5-"
+$$$$FVA!5N.
+N-6$%-6$
+0#"-6$3!.%03#-0"6$-#$%-6$ -"6!..-6$#"
+@
+5==
+.#$60"$=-$34
+.#5-"
 ## $$
 E %N6"]%O].E "E 4]O.E _#a5%]TE `.#E6OEV a4-5O]#E "E T5]}V N6O 6NO# T "#`N.O " 
 TU6E&-T .N]O5. _.E E4 D4]%a TN.E "] 3.46%a5EE&6O "] vbV % d]5 EO T %4EV %N635.&6OA5TEV " 
@@ -457,11 +570,14 @@ TU4%%5"6T 4OOEO6O "] -N6 3N6%O5N66&6O "E 4T.OE EN6N.E O _5E]TTE "U46
 O.456~ 
 ### `n>T$
 ### $$
-### $$$$FM$-#$-.6-AB=-$"!0#5-"$335%-.#V6
+### $$$$FM
+$-#$-.6-AB=-$"!0#5-"$
+335%-.#V6
 ### $$
 ### `n>nRT$
 ## $$
-## $$$$FM
+## $$$$FM
+
 ## $$
 `.$.-#C$30#3a"%0
  @.456 ?}`.EE m#D5N64T 6=ÇsÅrsr EO %N&`NE# " O.N5E _N5O].E `N]EE#E `4. T4 
@@ -472,6 +588,7 @@ qT 4EE]. T4 T545EN6 m66E A p456OAQ4TN F"#`4.O " m66E o !naÅs O 4..5_# o
 !Ç
 
 ## Página 21
+
 
 bC?c#0 -!0#.#C0
 E `.56%5`4]} "#D§OE "] O.456 E E5O]6O 4] 65_4] "] `NEO " %N6"]5O d]5 4 `.%]O# " 
@@ -518,8 +635,8 @@ d]5 O.4"]5O ]6 T#D. "#`4EE&6O~
 %4&5N6 O T %a4]33]. 5&`T5d]#E "46E TU4%%5"6T~
 !1
 
-
 ## Página 22
+
 
  %N6"]%O]. O TU6E&-T .N]O5. 5&`T5d]#E "46E TU4%%5"6T #O456T "`]5E n 46E &5E o L4 
 "5E`NE5O5N6 }%T]E5_ " L4 EN%5#O# pNDO.4 d]5 }`TN5O "]} %4..5R.E "N6O %TT " p456OAQ#"4."A
@@ -528,13 +645,26 @@ E].AqTT~
 O.46E`N.OE `N]. ]6 %N&`N.O&6T 563.4%O5N665EO~
 ### `nqT$
 ### $$
-### $$$$Ö"N.56#5!.$%0$34.#5-"$%-$=$N"-$-#$N-6#5!.$%-$=&=#-".#$"!0#5-"
+### $$$$Ö"N
+.56
+#5!.$%0$34
+.#5-"$%-$=
+$N
+"-$-#$N-6#5!.$%-$=&
+=#-".
+#$"!0#5-"
 ### $$
 ### $
-### -.3%".#$=-$vt$.QRR
+### -.3
+%"
+.#$=-$vt$.QRR
 ### `nqnRT$
 ## $$
-## $$$$^.6#==#5!.$%-$=&=#-".#$"!0#5-"$
+## $$$$^.6#
+==
+#5!.$%-$=&
+=#-".
+#$"!0#5-"$
 ## $$
 vN]. 563N.&4O5N6V ]6 4TO.64O .N]O5. EO ]6 E5D64T5E4O5N6 T&`N.45. d]5 4 `N]. N-ÄOV E]. 
 ]6 .N]O o "N]-T E6E " %5.%]T4O5N6 "N6T L4 L4.D]. .#"]5O T&`N.45.&6T 6 `.&T `T]E L 
@@ -575,108 +705,136 @@ m66E~
 
 ## Página 23
 
-TRANSPORTE DE TRENES POR VÍA ÚNICA MEDIANTE AUTORIZACIÓN DE CONDUCCIÓN POR EL CONDUCTOR DEL TREN (PCC). Este método de explotación se utiliza cuando no hay sistemas de bloqueo automático o de control de trenes (ATP) y se requiere una autorización escrita del Jefe de Estación para circular por la vía única. Este método se aplica en líneas donde no existe bloqueo automático ni sistemas de control de trenes.
-
-El transporte de trenes por vía única mediante autorización de conducción por el conductor del tren (PCC) se utiliza cuando no hay sistemas de bloqueo automático o de control de trenes (ATP) y se requiere una autorización escrita del Jefe de Estación para circular por la vía única. Este método se aplica en líneas donde no existe bloqueo automático ni sistemas de control de trenes.
-
-### PCC
-
+TU4&#T5N.4O5N6 " T4 E#%].5O# O T E]5_5 "E vb O 4]d]T `]_6O .%N].5. T E E._5%E TN%4]} 6 %4E
+"U56O..ND4O5N6 E]. T E %N6E#d]6% " O.4_4]} N] "U]6 4&#64D&6O E]. T4 E#%].5O# "U]6 vb~
+^#-]O 6N_&-. /00BV TN.Ed] TU4_46%&6O "E O.4_4]} TU4 .6"] 6#%EE45.V TU6O.`.5E
+?].N_54 4 ENTT5%5O# TU]ON.5E4O5N6 "U56EO4TT4O5N6 " %O 4TO.64O 4]`.RE "] &45. " T4 %N&&]6 " 
+p456OAQ#"4."AE].AqTT~ ÉOO 4]ON.5E4O5N6 4 #O# "#T5_.# "46E T E ÄN].E E]5_46OE `4. 4..eO# &]65%5`4T
+"] !n 6N_&-. /00B E]. `.#E6O4O5N6 "] %N&`O.A.6"] " T4 .#]65N6 %N&&]6 " E#%].5O#~
+U4TO.64O &4O#.54T5E# `4. "E 3]} O.5%NTN.E O&`N.45.E 4 #O# 56EO4TT# `4. T `..EN66T " 
+TU6O.`.5E ?].N_54V "46E T E ÄN].E E]5_46OEV o `4.O5. "E 563N.&4O5N6E O .%N&&46"4O5N6E "] D]5"
+O%a65d] f Omn]RomORPmp] PdVpQRmQ E o%0 .1#%$.#0 q "] p#O.4V E46E 56O._6O5N6 N] 
+.#4%O5N6 "] &4óO. "UN]_. O "] E._5% "U}`TN5O4O5N6 3..N_545.~ É D]5" " .#3#.6% `N]. T E 
+`.4O5%56E " O..456 6U4-N." `4E T4 `.N-T#&4O5d] `4.O5%]T5R. " T4 `.N}5&5O# "E `4EE4D E o 
+65_4]~
+### `nqn>T$
 ## $$
-## $$$$TRANSPORTE DE TRENES POR VÍA ÚNICA MEDIANTE AUTORIZACIÓN DE CONDUCCIÓN POR EL CONDUCTOR DEL TREN (PCC)
+## $$$$Å!.3#5!..-A-.#$%-$=&=#-".#$"!0#5-"
 ## $$
-
-El transporte de trenes por vía única mediante autorización de conducción por el conductor del tren (PCC) se utiliza cuando no hay sistemas de bloqueo automático o de control de trenes (ATP) y se requiere una autorización escrita del Jefe de Estación para circular por la vía única. Este método se aplica en líneas donde no existe bloqueo automático ni sistemas de control de trenes.
-
-Los trenes que circulan mediante PCC deben mantener una separación mínima de 10 minutos entre ellos.
-
-La información de los trenes no tiene ninguna limitación de velocidad. Los trenes que circulan mediante PCC deben mantener una separación mínima de 10 minutos entre ellos.
-
-Los trenes que circulan mediante PCC deben mantener una separación mínima de 10 minutos entre ellos.
-
-### PCC
-
-## $$
-## $$$$TRANSPORTE DE TRENES POR VÍA ÚNICA MEDIANTE AUTORIZACIÓN DE CONDUCCIÓN POR EL CONDUCTOR DEL TREN (PCC)
-## $$
-
-El transporte de trenes por vía única mediante autorización de conducción por el conductor del tren (PCC) se utiliza cuando no hay sistemas de bloqueo automático o de control de trenes (ATP) y se requiere una autorización escrita del Jefe de Estación para circular por la vía única. Este método se aplica en líneas donde no existe bloqueo automático ni sistemas de control de trenes.
-
-Los trenes que circulan mediante PCC deben mantener una separación mínima de 10 minutos entre ellos.
-
-La información de los trenes no tiene ninguna limitación de velocidad. Los trenes que circulan mediante PCC deben mantener una separación mínima de 10 minutos entre ellos.
-
-Los trenes que circulan mediante PCC deben mantener una separación mínima de 10 minutos entre ellos.
+U4TO.64O .N]O5. 6%4". T vb~ 4 _N5 " %5.%]T4O5N6 _646O " p456OAQ#"4."AE].AqTTV E6E 
+" %5.%]T4O5N6 " TU6E&-T .N]O5. 4%%5"6O# F_N5. 466} r P mT_# "] T5] " TU4%%5"6OM EO 
+6]O.4T5E# 4] &NÑ6 " %ì6E " %a46O5.~
+E 3T]} " %5.%]T4O5N6 EN6O .#DT#E o %a4d] }O.#&5O# " TU4TO.64O `4. ]6 3] O.5%NTN. " 
+OÑ` °m!!~
+U5&`T46O4O5N6 "E 3]} 6U4 `4E #O# .T_# `.#%5E#&6O 4`.RE TU4%%5"6O~ E O#&N5D64D E 
+56"5d]6O d] %T]5 %ìO# Ü]5`T E O.N]_45O o ]6 "5ü46 " &RO.E "] vb O %T]5 %ìO# p456OA
+Q#"4."AE].AqTT o ]6 "5EO46% %N&`.5E 6O. r0 O s0 &RO.E~
+ 3]} O.5%NTN. " OÑ` °m!!V E 
+%4.4%O#.5E `4. T .&`T4%&6O "] _O 35} "] 
+3] O.5%NTN. O.4"5O5N66TV `4. ]6 Ä4]6 %T5D6NO46O 
+"EO56# o 56%5O. T E %N6"]%O].E o T4 `.]"6%~
+4 E]%%5N6 "E `a4E `N]. %a4d] 
+3] EO P Ä4]6 %T5D6NO46O í Ä4]6 35} í .N]D 
+35}~ N.Ed]U]6 3] E &O 4] .N]DV TU]O. 6 
+### Å5N$q$Ç$Å-0$#"53!=!"-$ÜRR$%&=#-".#$
+`4EE 4] Ä4]6 %T5D6NO46O d]U4`.RE ]6 %.O456 
+## "!0#5-"
+"#T45 `.&OO46O T4 EN.O5 "E _#a5%]T E 6D4D#E 
+E]. T4 _N5 ]65d] 6O. T E "]} 3]} c %OO 
+`a4E EO 4``T# è .N]D -4..4Dë~
+ÉO 4TO.64O 4 3N6%O5N66# E46E `.N-TR& `4.O5%]T5. Ä]Ed] "46E T E 56EO6OE `.#%#"46O 
+TU4%%5"6O~
+/!
 
 ## Página 24
 
-### PCC
-
+### `nqn`T$
 ## $$
-### $$$$TRANSPORTE DE TRENES POR VÍA ÚNICA MEDIANTE AUTORIZACIÓN DE CONDUCCIÓN POR EL CONDUCTOR DEL TREN (PCC)
+### $$$$m-6#5!.$%-$=&=#-".#$"!0#5-"$0$A!A-.#$%-$=&335%-.#
 ## $$
-
-Debido a la falta de un sistema de bloqueo automático, el transporte de trenes por vía única mediante autorización de conducción por el conductor del tren (PCC) se utiliza cuando no hay sistemas de bloqueo automático o de control de trenes (ATP) y se requiere una autorización escrita del Jefe de Estación para circular por la vía única. Este método se aplica en líneas donde no existe bloqueo automático ni sistemas de control de trenes.
-
-Los trenes que circulan mediante PCC deben mantener una separación mínima de 10 minutos entre ellos.
-
-La información de los trenes no tiene ninguna limitación de velocidad. Los trenes que circulan mediante PCC deben mantener una separación mínima de 10 minutos entre ellos.
-
-Los trenes que circulan mediante PCC deben mantener una separación mínima de 10 minutos entre ellos.
-
-### PCC
-
+2_ T4 356 " T4 ÄN].6# " %a46O5.V TU4TO.64O .N]O5. #O45O 6 %N].E " 6]O.4T5E4O5N6
+%N63N.&#&6O 4]} .%N&&46"4O5N6E "] D]5" "] p#O.4 P
+E %ì6E "#T5&5O46O T4 _N5 6]O.4T5E# _6456O "UeO. .4&6#E T TN6D "E -N."].E "
+O.NOON5. d]5 _6456O "UeO. `NE#E 4356 " `.NO#D. T]. E%TT&6O F_N5. 466} Å vaNONE n O
+BM~ 4 %a4]EE#V .T4O5_&6O #O.N5O E]. T vbV _NÑ45O E4 T4.D]. 6%N. T#DR.&6O .#"]5OV
+% d]5 `N]_45O 345. %.N5. 4]} ]E4D.E d]U5TE E O.N]_456O 6%N. E]. ]6 _N5 o E6E ]65d]~
+pTN6 TU6O.`.5EV T E 3]} "U4TO.64O 4TT456O eO. &5E 6 _5TT FT E]} 3]} 6 Ä4]6
+%T5D6NO46OM &45E 3N6%O5N66456O 6%N. E]5_46O T E %Ñ%TE " %5.%]T4O5N6 4TO.6# E]. T _N5
+]65d] " %5.%]T4O5N6~
+C.V T O.4%O]. 6O TU6E&-T .N]O5. E EN6O `.#E6O#E E5&]TO46#&6O o TU6O.# "] vbV 4TN.E
+d]U]6 4TO.64O 6EO .#DT# `.#%5E#&6O `N]. #_5O. % OÑ` " %N63T5O~
+qT .EEN.O "E O#&N5D64D.E d] T O.4%O]. 4D.5%NT TU6E&-T .N]O5. EU#O456O 4..eO#E 4]}
+3]} "E "]} %ìO#E " TU4TO.64O 6 4_456O ."#&4..# TN.Ed] %E 3]} #O456O `4EE#E 4] Ä4]6
+%T5D6NO46O~
+ÉN&`O 6] " T4 "5EO46% `T]E 5&`N.O46O d] TU6E&-T .N]O5. "_45O `4.%N].5. 6O. T
+3] "U4TO.64O 6 TU6O.# "] vbV 5T 6EO _.45E&-T4-T d] TU6E&-T .N]O5. 45O "#&4..# T `.&5.~
+3] "U4TO.64O "] O.4%O].V %ìO# Ü]5`TV 6EO `4EE# 4] Ä4]6 %T5D6NO46O 4_46O d] TU6E&-T
+.N]O5. 6U45O O.&56# EN6 3.46%a5EE&6O~
+É `a#6N&R6 `4.4óO "5335%5T&6O `}T5%4-T 6 "aN.E "U]6 &5E 6 _5TT " TU4TO.64O~
+^46E ]6 O T %4EV T4 &5E 6 _5TT 6EO "#%T6%a# `4. TUN`#.4O].V 4] &NÑ6 "U]6 -N5O5. "
+O#T#%N&&46" 6 4 `N]. 33O " 345. `4EE. T E "]} 3]} 6 Ä4]6 %T5D6NO46O~ qT 6EO ON]O3N5E
+`NEE5-T d] T O&`E " è .N]D -4..4D ë 45O #O# .#DT# ]6 `] O.N` %N].O `4. .4``N.O 4] "#&4..4D
+"U]6 `N5"E TN]." ]6 `] T6OV N] d]U]6 "ÑE3N6%O5N66&6O &4O#.5T EN5O 56O._6~
+### `nqnqT$
 ## $$
-## $$$$TRANSPORTE DE TRENES POR VÍA ÚNICA MEDIANTE AUTORIZACIÓN DE CONDUCCIÓN POR EL CONDUCTOR DEL TREN (PCC)
+## $$$$U-60"-6$ "56-6$ "É6$=&335%-.#
 ## $$
-
-El transporte de trenes por vía única mediante autorización de conducción por el conductor del tren (PCC) se utiliza cuando no hay sistemas de bloqueo automático o de control de trenes (ATP) y se requiere una autorización escrita del Jefe de Estación para circular por la vía única. Este método se aplica en líneas donde no existe bloqueo automático ni sistemas de control de trenes.
-
-Los trenes que circulan mediante PCC deben mantener una separación mínima de 10 minutos entre ellos.
-
-La información de los trenes no tiene ninguna limitación de velocidad. Los trenes que circulan mediante PCC deben mantener una separación mínima de 10 minutos entre ellos.
-
-Los trenes que circulan mediante PCC deben mantener una separación mínima de 10 minutos entre ellos.
+T6"&456 " TU4%%5"6OV T E 3]} " E5D64T5E4O5N6 O&`N.45. N6O #O# .&`T4%#E `4. ]6
+D4."5664D &46]T~ £6 %NN."N664O]. `.#_645O T E "]} N`#.4O].EV ]6 " %a4d] %ìO# "] vbV "RE
+T "#%T6%a&6O "E 4T.O EN6N.E 6 _5E]TT E "U466N6% "U4..5_# "] O.456~ ÉE N`#.4O].E
+`.#E6O456O 4TN.E "E "5Ed]E .N]D E "U4..eO 4]} ]E4D.E " T4 .N]O "E "]} E6E " %5.%]T4O5N6~
+//
 
 ## Página 25
 
-### PCC
-
+### `naT$
 ### $$
-### $$$$TRANSPORTE DE TRENES POR VÍA ÚNICA MEDIANTE AUTORIZACIÓN DE CONDUCCIÓN POR EL CONDUCTOR DEL TREN (PCC)
+### $$$$f.=s6-$%-6$-."-N56#"-A-.#6$
 ### $$
-### PCC
-
+### `nanRT$
 ## $$
-### $$$$TRANSPORTE DE TRENES POR VÍA ÚNICA MEDIANTE AUTORIZACIÓN DE CONDUCCIÓN POR EL CONDUCTOR DEL TREN (PCC)
+### $$$$f.=s6-$%-$=$B.%-$N" 45/0-$%&-."-N56#"-A-.#$%0$FM
 ## $$
-
-El Jefe de Estación es el responsable de la seguridad del tráfico ferroviario en las estaciones.
-
-Los trenes que circulan mediante PCC deben mantener una separación mínima de 10 minutos entre ellos.
-
-La información de los trenes no tiene ninguna limitación de velocidad. Los trenes que circulan mediante PCC deben mantener una separación mínima de 10 minutos entre ellos.
-
-Los trenes que circulan mediante PCC deben mantener una separación mínima de 10 minutos entre ellos.
-
-### PCC
-
+U464TÑE " T4 -46" D.4`a5d] "U6.D5EO.&6O "] @?m 345O .EEN.O5.TE #T#&6OE
+E]5_46OE P
+v4. .4``N.O o EN6 ".65. 4..eO 6 D4.V T O.456 %5.%]T o TUa].~
+4 _5OEE "] O.456 o TU4``.N%a "] vb EO " !!s †&ía~
+ê]EO 4_46O TU4%%5"6OV T 3.564D "U].D6% EO "#%T6%a#~
+4 _5OEE "] O.456 TN.E " TU5&`4%O EO " !0ÇA!01 †&ía~
+Ua]. " TU5&`4%O EO !Ba0/~
+ O.456 EU4..eO 4] v° r1Ç¢rs0V EN5O rs0 &RO.E 4`.RE T vb 6=!!~
+### `nan>T$
 ## $$
-### $$$$TRANSPORTE DE TRENES POR VÍA ÚNICA MEDIANTE AUTORIZACIÓN DE CONDUCCIÓN POR EL CONDUCTOR DEL TREN (PCC)
+### $$$$f.=s6-$%0$Ss6#ÉA-$%&f5%-$O$=$U5.#-.3-$_S^fUb$%0$ 66N-$O$.5@-0
 ## $$
-
-El Jefe de Estación es el responsable de la seguridad del tráfico ferroviario en las estaciones.
-
-Los trenes que circulan mediante PCC deben mantener una separación mínima de 10 minutos entre ellos.
-
-La información de los trenes no tiene ninguna limitación de velocidad. Los trenes que circulan mediante PCC deben mantener una separación mínima de 10 minutos entre ellos.
-
-Los trenes que circulan mediante PCC deben mantener una separación mínima de 10 minutos entre ellos.
+U464TÑE "] pÑEOR& "U25" o T4 Q456O646% Fpq2QM `.&O 6NO4&&6O " .O.N]_. TE
+aN.45.E "#%T6%a&6O "E E5D64]} "U4T.O "U4..5_# "] O.456V " 3.&O]. 33%O5_ "E "&5A
+-4..5R.E O "#.46D&6OE #_6O]TE " T]. 3N6%O5N66&6O~
+4 %a.N6NTND5 EO T4 E]5_46O P
+RDÇCCÇaq P 266N6% " TU4..5_# "] O.456V TE 3]} .N]DE %T5D6NO46OE O T4 EN66.5 E
+"#%T6%a6O
+### RDÇCRÇRR$Ç$u56 " "E%6O "E "&5A-4..5R.E~
+### RDÇCRÇR> P pN]TR_&6O " T4 "&5A-4..5R. %ìO# Ü]5`T~
+### RDÇCRÇ>`$Ç$mON&-# " T4 "&5A-4..5R. %ìO# Ü]5`T~
+RDÇCRÇ>a P 2..5_# "] O.456 E].T vb F%aN%M O EN]TR_&6O " T4 "&5A-4..5R. %ìO# Ü]5`T
+E]5O 4] %aN%~
+ "#T45 EU#%N]T46O 6O.TU466N6% "] O.456 O EN6 4..5_# 33%O5_ E].T vb EO " r! E%N6"E
+O %N63N.& 4]} "5E`NE5N6E " TU4..eO# "] !Ç &4.E !11! d]5 `.#_N5O ]6 &565&]& " /0 E%N6"E~
+qT 4``4.4óO d]U]6 _#a5%]T TN]." EU6D4D46O E].T vb 4] &N&6O " TU466N6% " TU4..5_#
+"U]6 O.456 "N5O `N]_N5. O.4_.E. % `4EE4D o 65_4] 6 &N56E " !0 E%N6"E 6_5.N6 `N]. 6 `4E
+eO. 56O.%`O# `4. T4 -4..5R. " TU4]O. E6E " %5.%]T4O5N6 TN.E " E4 "E%6O F#O46O "N66# d] % `
+N5"E TN]." EO %N6O.456O `4. T4 D#N&#O.5 "] vb o "#-N." . " E4 &N5O5# " %a4]EE#M~
+/r
 
 ## Página 26
 
+
 ### `nan`T$
 ## $$
-### $$$$f.=s6-$%0$34"!.!#34sN" 4-$V=-3#"!.5/0-$%-$=&-.6-AB=-$"!0#5-"
+### $$$$f.
+=s6-$%0$34"!.!#
+34sN"
+ 4-$V=-3#"!.5/0-$%-$=&-.6-AB=-$"!0#5-"
 ## $$
 4 35D]. s %5A"EEN]E &N6O. ]6 4D.46"5EE&6O " T4 356 " TU6.D5EO.&6O "] 
 %a.N6NO4%aÑD.4`a " TU6E&-T .N]O5. FEN].% P "NEE5. Ä]"5%545.MV %N..E`N6"46O 4] 
@@ -692,12 +850,20 @@ R
 NO
 PO
 OQ
-Å5N$a$Ç$fN".%566-A-.#$%-$=&-."-N56#"-A-.#$%0$34"!.!#34sN" 4-$0$Ä".34566-A-.#$
-## %0$ 66N-$O$.5@-0
+Å5N$a$Ç$fN"
+.%566-A-.#$%-$=&-."-N56#"-A-.#$%0$34"!.!#
+34sN"
+ 4-$
+0$Ä"
+.34566-A-.#$
+## %0$ 
+66
+N-$O$.5@-
+0
 /Å
 
-
 ## Página 27
+
 
 r5^%B%#0 $%/C$.61%0
 p]. %O 6.D5EO.&6OV N6 `]O .`#.. %.O456E #_#6&6OE 4_% ]6 `T]E N] &N56E D.46" 
@@ -739,8 +905,8 @@ o !BP0/PÅÇ~
 "&5A-4..5R.V EO .ON].6# o EN6 _NT46O O 4 O6O# "U4_46%. Ä]EO 4_46O T %aN%~
 /s
 
-
 ## Página 28
+
 
 É%5 %N6"]5O o "]} aÑ`NOaREE P
 ¶Ñ`NOaRE ! P T4 O6O4O5_ " EN]TR_&6O " T4 "&5A-4..5R. 4 ] T5] ]6 `] 4_46O 
@@ -758,7 +924,11 @@ EN.O5~
 E #T#&6OE .%]5TT5E 6 `.&OO6O `4E " O.46%a. 6O. TU]6 N] TU4]O. " %E aÑ`NOaREE~
 ### `nanqT$
 ## $$
-### $$$$U56-$-.$"-=#5!.$%-6$%!..V-6$Ä!0".5-6$ "$=-$S^fU$-#$=-$34"!.!#34sN" 4-$%0
+### $$$$U56-$-.$"-=
+#5!.$%-6$%!..V-6$Ä!0".5-6$ 
+"$=-$S^fU$-#$=-$34"!.!#
+34sN"
+ 4-$%0
 ## $$
 ## $
 ##  !5%6$=!0"%
@@ -773,8 +943,8 @@ _#a5%]TV `N]. "E%6". " E4 %4-56 O EN]T_. L4 "&5A-4..5R.V % EN]TR_&
 pq2Q~  "#%4T4D "E 6.D5EO.&6OE EO "N6% " ! &6 rÇ E~
 /n
 
-
 ## Página 29
+
 
 C6 4-N]O5O "N6% 4]} %a.N6NTND5E E]5_46OEV 6 .4&646O LE #_#6&6OE L5#E 4] `N5"E TN]." 
 "46E TU#%aTT " O&`E "] pq2Q P
@@ -850,8 +1020,8 @@ V]^RV^N`
 TU6.D5EO.&6O "] %a.N6NO4%aÑD.4`a "] `N5"E TN]."V .%4T#E "46E TUaN.45. "] pq2Q P
 /B
 
-
 ## Página 30
+
 
 c0-23"/5Cv/56#5/=2>"#3?2"
 @??F?b#/5"32!?
@@ -874,11 +1044,17 @@ V]^RR^PR
 V]^RR^RR
 C3F43#$$!F?/5Cv
 }aq?#&#?"$6#33Fa!2!3#$
-### Å5N$?$Ç$r!..V-6$%-$=&-."-N56#"-A-.#$%0$34"!.!#34sN" 4-$%0$ !5%6$=!0"%E$
-### "-3=V-6$%.6$=&4!"5"-$%0$S^fU$T$ás !#4É6-$R$
+### Å5N$?$Ç$r!..V-6$%-$=&-."-N56#"-A-.#$%0$34"!.!#
+34sN"
+ 4-$%0$ !5%6$=!0"%E$
+### "-3
+=V-6$%
+.6$=&4!"
+5"-$%0$S^fU$T$ás !#4É6-$R$
 /Ç
 
 ## Página 31
+
 
 c0-23" /5 Cv /5 6#5 /=2>"#3?"
 @33A" /5 Cv n >=#?"30# /5 CD
@@ -901,8 +1077,13 @@ V]^RR^PR
 V]^RV^RR
 C3F43#$$!F? /5 Cv
 }aq?#&#?"$ 6#33Fa!2!3#$
-### Å5N$D$Ç$r!..V-6$%-$=&-."-N56#"-A-.#$%0$34"!.!#34sN" 4-$%0$ !5%6$=!0"%E$
-### "-3=V-6$%.6$=&4!"5"-$%0$S^fU$T$ás !#4É6-$>$
+### Å5N$D$Ç$r!..V-6$%-$=&-."-N56#"-A-.#$%0$34"!.!#
+34sN"
+ 4-$%0$ !5%6$=!0"%E$
+### "-3
+=V-6$%
+.6$=&4!"
+5"-$%0$S^fU$T$ás !#4É6-$>$
 E %a.N6NTND5E 456E5 #O4-T5E &N6O.6O d] %E "]} aÑ`NOaREE EN6O `NEE5-TE c N.V TTE 
 `.#E6O6O ]6 #%4.O 6NO4-T d]46O o TUaN.45. "] "#&4..4D "] `N5"E TN]." 4] 3] " TU4TO.64O~
 p5 TUN6 4ÄN]O o %O #T#&6O TU56%.O5O]" E]. T4 `NE5O5N6 "] 3] "U4TO.64O O TU5&`.#%5E5N6 E]. T4 
@@ -911,12 +1092,15 @@ _5OEE "] `N5"E TN]." d]5 6U#O45O `4E .#D]T5R.V T >?2A@@ %N6E5"R. d] TE #T
 %N6"]%O]. EO `4EE# o E4 a4]O].~ 
 /1
 
-
 ## Página 32
+
 
 ### `nanaT$
 ## $$
-### $$$$v!65#5!..-A-.#$%0$#"3#-0"$N"53!=-$%.6$=-6$V@V.-A-.#6$-."-N56#"V6
+### $$$$v!65#5!..-A-.#$%0$#"
+3#-0"$
+N"53!=-$%
+.6$=-6$V@V.-A-.#6$-."-N56#"V6
 ## $$
 £6 O.4%O]. 4D.5%NT EUEO `.#E6O# o TU6O.# N``NE# "] vbV `.Ed]U6 &e& O&`E d] T 
 `N5"E TN]."~
@@ -929,15 +1113,20 @@ pq2QM~
 4D.5%NTV TT 4 "N6% "Æ E `.N"]5. #D4T&6O o ]6 &N&6O O.RE `.N%a " TU466N6% "] O.456~
 r0
 
-
 ## Página 33
 
+
 # qT$
-# $$ $$$$rV"!0=-A-.#$"-3!.6#5#0V$%-$=&335%-.#$-#$%-6$6-3!0"6
+# $$ $$$$rV"!0=-A-.#$"-3!.6#5#0V$%-$=&
+335%-.#$-#$%-6$6-3!0"6
 # $$
 ### qnRT$
 ### $$
-$$$$o##$%-6$=5-0p$@.#$=&335%-.#
+$$$$o#
+#$%-6$=5-0p$
+@
+.#$=&
+335%-.#
 ### $$
  vb EO EE 4%%RE .N]O5.E `.#E6O6O ]6 D#N&#O.5 "5335%5T d]5 %N6O.456O LE _#a5%]TE " 
 D.NE D4-4.5O o %5.%]T. O o 3.46%a5. L vb o _5OEE .#"]5O EO E "#`N.O46O _.E L &5T5] " L 
@@ -959,7 +1148,11 @@ TU4%%5"6O~
 " L O.46%a# " E%TT&6O "U]6 O.6T456 " %6T5&RO.E " L4.D~ 
 ### qn>T$
 ### $$
-### $$$$}V4530=-6$""1#V6$0p$Ä-0p$%-$=&=#-".#
+### $$$$}V4530=-6$
+""1#V6$
+0p$Ä-0p$%-$=&
+=#-".
+#
 ### $$
 ^]} _#a5%]TE EN6O 4..eO#E 4]} 3]} "U4TO.64O P
 %ìO# p456OAQ#"4."AE].AqTT P TU6E&-T .N]O5. 5&`T5d]# "46E L `.#E6O 4%%5"6O d]5 33%O] 
@@ -970,7 +1163,14 @@ E4 ".65R. L5_.45EN6 " D.4_5. O `4EE `N]. L "]}5R& 3N5E " L ÄN].6# `
 "#Äo `4EE# `4. %O 4TO.64O 4] %N].E " L ÄN].6#~
 ### qn`T$
 ### $$
-### $$$$rVA""N-$%0$Ä-0$%&=#-".#$-#$-.#"V-$60"$=-$ 66N-$O$.5@-0
+### $$$$rVA
+""
+N-$%0$Ä-0$%&
+=#-".
+#$-#$-.#"V-$60"$=-$ 
+66
+N-$O$.5@-
+0
 ### $$
 v] 4`.RE !Ba00 L 3] "U4TO.64O %ìO# p456OAQ#"4."AE].AqTT `4EE "] .N]D 35} 4] Ä4]6 
 %T5D6NO46O O TU6E&-T .N]O5. "#&4.. `] 4`.RE~ 
@@ -982,30 +1182,65 @@ r!
 
 ## Página 34
 
-U6E &-T .N]O5 . EU 6D4D o 4TT]. .#"]5O E]. T vb~
-%N6"]%O]. 6 ` .ïN5O `4E T E E5D64]} "U466N6% "U4..5_# "] O.456 c " ]} aÑ`NOaRE E ` ]_ 6O }T5d] . % OO 4-E6% " ` .%`O5N6 P
-T E E5D64]} 6 E "#%T6%a6O d]U4`.RE d] T %N6"]%O]. `4EE o T]. a4]O]. c
-T E E5D64]} E "#%T6%a6O 4_46OV &45E TU4OO6O5N6 "] %N6"]%O]. EU EO %N6%6O.# E]. T4
-&46N]._. 33%O]. . `N]. O.4_ E. T vb c 5T "N5O 6NO4&&6O -56 #O]"5 E4 O.4Ä%ON5. `N]. `.6". T _5.4D " EN.O5 O _#.535 d]U4]%]6 4]O. _#a5%]T 6 ` .E 6 E 5_ . ~ ?6 N]O.V TU 6_5.N66 6 & 6O " %a46O5 T 3 %T5D6NO46O Ä4]6 " TU4TO.64O d] T %N6"]%O]. 4 3.46%a5 N6O ` 4OO#6] E _5E5-5T5O ] 3 ] vbV _N5 %.# ]6 %N3]E5N6~
-^46E T " ]} aÑ`NOaRE V N6 ` ]O E]``NE d] T E _5O. E ] _#a5%]L 3 .&# E O T4 .4"5N 4TT]&# .#"]5E45 6O T4 ` .%`O5N6 EN6N. " -.]5OE }O#.5].E 6NO4&&6O " EN66 .5 " vb c `T]EV 5T %N6_5 6O " 6NO . d] L E %N6"]%O].E .N]O5 EN6O ` a4-5O] 4]} 4T.O EN6N.EV T4 E5D64T5E4O5N .N]R. #O46O `. Ed] ONO4T & 6O _5E]TT ~
-2TN.E d]U5T E ` .E 4] vbV T %N6"]%O]. " TU 6E &-T .N]O5 _N5O " LU4]O. %ìO# " vbV 6 E 56_ .E V T O.4%O]. 4D.5%NT d]5 _5 6O . "#&4.. . " 3] "U4TO.64O " LU4]O. E 6E " %5.%]T4O5N6~
-4 %4]E " ` .E 6O4O5N6 E5&]TO46# " " ]} _#a5%]L 4] vb F.#DT4D " LU4TO.64O 564"4`O#V &5E 5 _ 5TT N] "ÑE3N6%O5N66 6 & 6O " LU4TO.64OM 6U4 `] eO. "#O .&56# F_N5. •rAÅArM~
-ÉN&& %.N5E 6O " " ]} _#a5%]L " % OÑ` 6U EO `4E `NEE5-T E]. L vbV TU 6E &-T .N]O5V .4T 6O5OV "46E TU4OO6O d] L O.4%O]. . %]L `N]. L]5 ` .& OO. `4EE ~
-qT 34]O 6NO . d] L E " ]} _#a5%]L 6U4_45 6O `.N-4-T & 6O `4E 46O5%5`# % `.N-TR& " %.N5E 6O . D4."46O " LU4]O. %ìO# " vbV "RE L]. . "#&4..4D 3] " LU4TO.64O c 33 .5 6 L]. ` .& OO45O 4_N5. d]U5TE E .O.N]_ 45 6O 34% o 34%~ qTE `N]_45 6O %a4%]6 E %.N5 6%N 6 E 6E ]65d] 6 .5Ed]46O `4E " %.N5E ]6 4]O. ]E4D. .N]O5 ~
+O 6E &-T .N]O5. EU 6D4D o 4TT]. .#"]5O E]. T vb~
+%N6"]%O]. 6 ` .ïN5O `4E T E5D64]} "U466N6% "U4..5_# "] O.456 c "]} aÑ`NOaRE E `]_ 6O `}T5d]. %OO 4-E6% " `.%`O5N6 P
+T E5D64]} 6 E "#%T6%a6O d]U4`.RE d] T %N6"]%O]. `4EE o T]. a4]O]. c
+T E5D64]} E "#%T6%a6O 4_46OV &45E TU4OO6O5N6 "] %N6"]%O]. EU EO %N6%6O.# E]. T4
+&46N]_. o 33%O] `. N]. O.4_.E. T vb c 5T "N5O 6NO4&&6O -56 #O]"5. E4 O.4Ä%ON5. `N]. `.6". T _5.4D " EN.O5 O _#.535. d]U4]%]6 4]O. _#a5%]T 6 E `.#E6O 6 E6E 56_.E~ ?6 N]O.V TU6_5.N66&6O " %a46O5. O T 3] %T5D6NO46O Ä4]6 " TU4TO.64O d] T %N6"]%O]. 4 3.46%a5 N6O `] 4OO#6]. E4 _5E5-5T5O# "] 3] "] vbV _N5. %.#. ]6 %N63]E5N6~
+^46E T E "]} aÑ`NOaRE EV N6 `]O E]``NE. d] T E _5O.E "] _#a5%]T 3.#E O T4 .4"5N 4TT]&# .#"]5E456O T4 `.%`O5N6 EN6N. "E -.]5OE }O#.5].E O 6NO4&&6O " T4 EN66.5 "] vb c " `T]EV 5T %N6_56O " 6NO. d] T E %N6"]%O].E .N]O5.E EN6O `] a4-5O]#E 4]} 4T.OE EN6N.EV T4 E5D64T5E4O5N6 .N]O5R. #O46O `.Ed] ONO4T&6O _5E]TT~
+2TN.E d]U5T E `.#E6O 4] vbV T %N6"]%O]. " TU6E&-T .N]O5. _N5O " TU4]O. %ìO# "] vb 6 E6E 56_.EV T O.4%O]. 4D.5%NT d]5 _56O " ."#&4..] "] 3] "U4TO.64O " TU4]O. E6E " %5.%]T4O5N6~
+4 %4]E " T4 `.#E6O4O5N6 E5&]TO46# "E "]} _#a5%]T E 4] vb F.#DT4D " TU4TO.64O 564"4`O#V &5E 6 _5TT N] "ÑE3N6%O5N66&6O " TU4TO.64OM 6U4 `] eO. "#O.&56# F_N5. •rAÅArM~
+ÉN&& T %.N5E&6O " "]} _#a5%]T E " % OÑ` 6U EO `4E `NEE5-T E]. T vbV TU6E&-T .N]O5.V .4T6O5OV "46E TU4OO6O d] T O.4%O]. .%]T `N]. T]5 `.&OO. " `4EE.~
+qT 34]O 6NO. d] T E "]} _#a5%]T E 6U4_456O `.N-4-T&6O `4E 46O5%5`# % `.N-TR& " %.N5E&6O 6 .D4."46O " TU4]O. %ìO# "] vb "RE T]. ."#&4..4D "] 3] " TU4TO.64O c 6 33OV .56 6 T]. `.&OO45O " E4_N5. d]U5TE E .O.N]_456O 34% o 34%~ qTE `N]_456O %a4%]6 E %.N5. 6%N. 6 E6E ]65d] O 6 .5Ed]46O `4E " %.N5E. ]6 4]O. ]E4D. .N]O5.~
 ### qnqT$
 ### $$
-### $$$$f33"!34 N-$%-$= %-A5TB ""5É"-
+### $$$$f33"!34N-$%-$=$%-A5TB""5É"-
 ### $$
-4 %N6"]%O]. " O.4%O]. 4D.5%NT d]5 _N5O TU 6E &-L .N]O5 `.ND. EE. "46E E4 "5. %O5N6V 4..eO EN6 O.4%O]. . %]L~ v 6"46O % OO &46N]._. TU 6E &-L .N]O5 4_46% o 4TT]. .#"]5O "46E TU4OO6O " L4 T5-#.4O5N6 " `4EE4D V F5T 6U EO `4E 5&`NEE5-T d] TU 6E &-L .N]O5 45O &e& &4.d] 4TN.E ]6 `. &5 4..eOMV O EU 6D4D E]. L vb~
-?6O O &`E L E " &5A-4..5R. N6O %N&& 6%# o EU4-45EE ~
-ÉN&& TU 6E &-L .N]O5 %5.%]L 4] &5T5 ] " L4 %a4]EE#V EN6 %N6"]%O]. EO E].`.5 `4. L " E% 6O " L4 " &5A-4..5R " LU4]O. E 6E " %5.%]L4O5N6~ qT `. 6 4TN.E %N6E%5 6% " LU4..5_# ` N%a456 " O.456V &45E 6 .#4T5E `4E d] % OO 4..5_# ` ]O 56O . 5. ]6 " 5ü456 " E %N6" 4`.RE TU4-45EE & 6O " E " &5A-4..5R ~ qT 6 ` ]O 4TN.E d]5OO . 335E4&& 6O _5O L vb O &`e%a . d] % OO " &5A-4..5R 6 EU4-45EE .O. L4 %4-56 6 T E &5A. &N.d] c 5T 4..eO 4TN.E EN6 _#a5%]L 4356 " 6 `4E L4 %4EE ~
-4 E " &5A-4..5R EN6 4-45EE ~ 4 EN66 .5 " vb EU56O ..N&`O ~ 4 3 .} .N]D " vb %N6O56] 6 o %T5D6NO ~
-4 %N6"]%O]. " `N5"E TN]." " E% 6" " EN6 _#a5%]LV O 6OV 6 _456V " .L _ . L4 -4..5R . &N6O 46E EN6 _#a5%]L O %T 6% 6 6 5O 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6
+%N6"]%O]. "] O.4%O]. 4D.5%NT d]5 _N5O TU6E&-T .N]O5. `.ND.EE. "46E E4 "5.%O5N6V 4..eO EN6 O.4%O]. O .%]T~ v6"46O %OO &46N]_. TU6E&-T .N]O5. 4_46% o 4TT]. .#"]5O.V "46E TU4OO6O " T4 T5-#.4O5N6 "] `4EE4DV F5T 6U EO `4E 5&`NEE5-T d] TU6E&-T .N]O5. 45O &e& &4.d]# 4TN.E ]6 `.&5. 4..eOMV O EU6D4D E]. T vb~
+?6O. O&`E T E "&5A-4..5R.E N6O %N&&6%# o EU4-45EE.~
+ÉN&& TU6E&-T .N]O5. %5.%]T 4] &5T5] " T4 %a4]EE#V EN6 %N6"]%O]. EO E].`.5E `4. T4 "E%6O " T4 "&5A-4..5R. " TU4]O. E6E " %5.%]T4O5N6~ qT `.6" 4TN.E %N6E%56% " TU4..5_# `.N%a456 "] O.456V &45E 6 .#4T5E `4E d] %OO 4..5_# `]O 56O._65. ]6 "5ü456 " E%N6"E 4`.RE TU4-45EE&6O "E "&5A-4..5R.E~ qT 6 `]O 4TN.E d]5OO. E]335E4&&6O _5O T vb O &`e%a. d] %OO "&5A-4..5R. 6 EU4-45EE 6O. T4 %4-56 O T4 E&5A.&N.d] c 5T 4..eO 4TN.E EN6 _#a5%]T 4356 " 6 `4E T4 %4EE.~
+E "&5A-4..5R.E EN6O 4-45EE#E~ 4 EN66.5 "] vb EU56O..N&`O~ E 3]} .N]D E "] vb %N6O56]6O o %T5D6NO.~
+%N6"]%O]. "] `N5"E TN]." "E%6" " EN6 _#a5%]T V O6O V 6 _456 V " .T_. T4 -4..5R.V .&N6O "46E EN6 _#a5%]T O 6%T6%a ]6 _5OEE `N]. O6O. " "#D4D. T vbV T ON]O 6 ]6 "5ü456 " E%N6"E~ %N6"]%O]. "] O.4%O]. 4D.5%NT V O#&N56 " T4 E%R6 V 6O.`.6" V E46E E]%%RE V " .T_. T4 "&5A-4..5R.~
+r/
+
+## Página 35
+
+### qnaT$
+### $$
+$$$$d!==565!.
+### $$
+@.456 ?}`.EE m#D5N64T F@?mM 6=ÇsÅÅsr 6 `.N_646% " m66E O o "EO564O5N6 " p456OAQ4TN EN.O " T4 %N].- `.#%#"46O T vb o T4 _5OEE " !!s †&ía~ 2 T4 _] " T4 E&5A.&N.d] 6 O.4_.E " E4 _N5 " %5.%]T4O5N6 F_N5 !MV T %N6"]%O]. "] @?m "#%T6%a T 3.564D "U].D6%~ qT d]5OO T4 %4-56 " %N6"]5O V 4_.O5O TE `4EE4D.E " T4 `.&5R. _N5O]. " TU5&&566% "] %aN% O E ÄOO 4] ENT~
+@?m `.%]O T4 E&5A.&N.d] o T4 _5OEE " !0Ç †&ía~ Ua]. "] %aN% EO %N&`.5E V ETN6 TE 6.D5EO.&6OEV 6O. !Ba 0!&6 /sE Fpq2Q "] vbM O !Ba 0r&6 0rE F%a.N6NO4%aÑD.4`a "] `N5"E TN]."M~
+pN]E T %aN%V T4 E&5A.&N.d] EO "#ENT5"4.5E# " EN6 O.4%O]. O `.NÄO# aN.E E _N5E~ D.4_5. d]UTT O.46E`N.O EO "5E`.E# 4]} 4T6ON].E~ O.4%O]. .N]O5. EO `.NÄO# _.E TU4_46O O `.%]O ]6 4]ON&N-5T 6 EO4O5N66&6O~
+O.456 EU5&&N-5T5E rs0 &RO.E 4`.RE T vb~ qT 6D4D T D4-4.5O " TU4]O. _N5~
+### qn?T$
+### $$
+### $$$$S-3!0"6$-#$B5=.
+### $$
+O%-!"$0
+E E%N].E EN6O 4T.O#E o `4.O5. " !Ba0Ç `4. TE O#&N56EV O T4 pbÉu `4. T %N6"]%O]. "] O.456~
+%N6"]%O]. "] O.456 `.6" TE &E].E " `.&5R. ].D6% `N]. T4 `.NO%O5N6 "UN-EO4%T F`NE "U]6 -4.. %N].OA%5.%]5O E]. TU4]O. _N5 V 4TT]&4D "U]6 ON.%a o 3T4&& .N]D V %N]_.O]. "UN-EO4%T `4. ]6 ".4`4] .N]D O "E `#O4."E E]. TE .45TEM OV 4] &NÑ6 "] O#T#`aN6 "U4T4.& E5O]# 4] v° r1Ç¢100V "&46" T4 %N]`]. "U].D6% "] %N].46O~
+%N6"]%O]. "] O.456 O T4 %N6O.ìT]E 4EE].6O ]6 `.&5R. `.5E 6 %a4.D "E `4EE4D.E~
+4 `.#3%O]. "UqTTA OAé5T456 "#%T6%a T `T46 .N]D O &N-5T5E ON]E TE &NÑ6E " E%N].E "] "#`4.O&6O d]5 %N&&6%6O o 4..5_. E]. TE T5]} "46E TE &56]O E d]5 E]5_6O~
+4 "5.%O5N6 .#D5N64T " T4 pbÉu "#%T6%a T vqp O 4%O5_ ]6 %TT]T " %.5E~
+4 %5.%]T4O5N6 3..N_545. EO 56O..N&`]~ ?TT E.4 .#O4-T5 _.E // a].E~
+u31.
+-5T46 "#3565O53 " TU4%%5"6O EO " Å0 `.EN66E -TEE#EV ON]O E `4EE4DR.E "] O.456 "N6O // N6O #O# #_4%]#E _.E TE aì`5O4]} " T4 .#D5N6~
+4 `T]`4.O "E -TEE#E `.#E6O6O "E O.4]&4O5E& E 34%54]} O 4-"N&564]} `.N_Nd]#E `4. T]. `.NÄ%O5N6 %N6O. TE "NEE5.E "E E5RD EV TE O4-TOOE 4-45EE#E N] TE `.EN66E 4EE5E 6 _5EA oA_5E~
+rr
+
+## Página 36
+
+
 
 ## Página 37
 
+
 # aT$
-# $$ $$$$f.=s6-$%-6$306-6$-#$!"5-.##5!.6$ "V@-.#5@-6
+# $$ $$$$f.
+=s6-$%-6$3
+06-6$-#$!"5-.#
+#5!.6$ "V@-.#5@-6
 # $$
 E 56_EO5D4O5N6E .#4T5E#E 4&R66O o .%a.%a. TE 34%O].E %4]E4]} O .%N&&46"4O5N6E 
 `.#_6O5_E ]O5TE "46E T %56d "N&456E E]5_46OE P
@@ -1027,7 +1262,8 @@ TE &#%465E&E T#E5N66TE "E `4EE4D.E "] O.456~
 ### $$
 ### anRnRT$
 ## $$
-$$$$f.=s6-
+$$$$f.
+=s6-
 ## $$
 e$.-A300%B%# 4" @%" 4" /.00.?% = 35%."
 U6E&-T .N]O5. EUEO 6D4D# o `O5O _5OEE E]. L vbV E6E5-T&6O 4] &e& &N&6O 
@@ -1045,7 +1281,9 @@ d]5 EU#O45O 56O.%4T# 6O. L %4-56 O L E&5A.&N.d]V `]5E 4 EE4Ñ# " "#
 6%N. 56O#D.#E `4. ON]E L %N6"]%O].EV &e& TN.Ed]U5T EU4D5O " `.N3EE5N66TE }`#.5&6O#E~
 ### anRn>T$
 ## $$
-## $$$$Ö"5-.##5!.$ !0"$=$ "V@-.#5!.
+## $$$$Ö"5-.#
+#5!.$ !0"$=
+$ "V@-.#5!.
 ## $$
 E .RDTE #T#&6O45E " E#%].5O# `N]. L 3.46%a5EE&6O "U]6 vb EN6O L4.D&6O 
 6E5D6#E O "533]E#EV O 6NO4&&6O %TTE d]5 4].456O `.&5E "U#_5O. %OO %NTT5E5N6 P è 6 `4E 
@@ -1059,8 +1297,8 @@ F4..eO# "] r Ä46_5. /00ÇV `]-T5# 4] êN].64T C335%5T "] /1 Ä46_5. /00ÇV O
 U}4&6 Oa#N.5d] D#6#.4T "] `.&5E " %N6"]5. "N5O 56O#D.. "E d]EO5N6E E]. LE vb~
 rs
 
-
 ## Página 38
+
 
 ^E 4%O5N6E " `.#_6O5N6 _.E ON]E LE ]E4D.E " L .N]O EN6O .#D]T5R.&6O &6#E `4. LE 
 `N]_N5.E `]-T5%EV 456E5 `4. }&`T 6 /00Ç P
@@ -1077,13 +1315,19 @@ L pbÉu O L v.#_6O5N6 .N]O5R. F_N5. ]6 }O.45O "] "NEE5. " `.EE 6 466
 o% uREPP % /%"# a"2353#%$ 1%0 /!"5!3$0 /"613-0 = /!"$0"35$% 4% #%11%0 .-#3!0_
 ### an>T$
 ### $$
-### $$$$mV!AV#"5-$%0$ 66N-$O$.5@-0$-#$%5ÄÄ530=#V6$%-$Ä".34566-A-.#$ "$=-6
+### $$$$mV!AV#"5-$%0$ 
+66
+N-$O$.5@-
+0$-#$%5ÄÄ530=#V6$%-$Ä"
+.34566-A-.#$ 
+"$=-6
 ### $$
 ### $
 ### @V4530=-6$=!0"%6
 ### an>nRT$
 ## $$
-$$$$f.=s6-
+$$$$f.
+=s6-
 ## $$
 4 D#N&#O.5 "5335%5T " % vb F#O.N5OEE " L %a4]EE#V _5.4D " 345-T .4ÑN6 `.#%#"46O L 
 vb %ìO# Ü]5`TV "NE "U§6 E]. L `T4OT4DM %N6O.456O LE _#a5%]TE TN]."E o E "#`N.O. 4] &5T5] " 
@@ -1112,27 +1356,61 @@ rn
 
 ## Página 39
 
+
 ### an>n>T$
 ## $$
-## $$$$Ö"5-.##5!.$ !0"$=$ "V@-.#5!.
+## $$$$Ö"5-.#
+#5!.$ !0"$=
+$ "V@-.#5!.
 ## $$
 U464TÑE `.#%#"6O &N6O. TU].D6% d]5 EU4OO4%a o #O]"5. O &OO. 6 N]_. TE &E].E 
 "U4&#64D&6O&6O O "U}`TN5O4O5N6 4`OE o E#%].5E. T 3.46%a5EE&6O " % vb `4. TE _#a5%]TE 
 TN]."E~
 É%5 4&R6 T >?2A@@ o 3N.&]T. T4 .%N&&46"4O5N6 E]5_46O P
--3!AA.%#5!.$R$_rV "#-A-.#$%&^==-T-#T}5=5.-$-#$V6-0$Å-""V$%-$Å".3-b$Ç$o#0%5-"$-#$
-A-##"-$-.$!-0@"-$%-6$A-60"-6$ #-6$O$Ä35=5#-"$=-$Ä".34566-A-.#$%-6$ !5%6$=!0"%6$-#$=-0"$
-3"!56-A-.#$60"$3-$ 66N-$O$.5@-0$_AV.N-A-.#6$!0$A-60"-6$%&-p =!5##5!.E$"!0#5-"6$!0$
-### Ä-""!@55"-6b
+
+-3!AA
+.%
+#5!.$
+R$_rV 
+"#-A-.#$%&^==-T-#T}5=
+5.-$-#$
+V6-
+0$Å-""V$%-$Å"
+.3-b$Ç$o#0%5-"$-#$
+A-##"-$-.$!-0@"-$%-6$A-60"-6$
+ #-6$O$Ä
+35=5#-"$=-$Ä"
+.34566-A-.#$%-6$ !5%6$=!0"%6$-#$=-0"$
+3"!56-A-.#$60"$3-$ 
+66
+N-$O$.5@-
+0$_
+AV.
+N-A-.#6$!0$A-60"-6$%&-p =!5#
+#5!.E$"!0#5-"6$!0$
+### Ä-""!@5
+5"-6b
 ### an`T$
 ### $$
-### $$$$Ö"N.56#5!.$%0$34.#5-"$%-$=$N"-$%-$S5.#TUV%"%T60"T^==-$é!0p#.#$=-
+### $$$$Ö"N
+.56
+#5!.$%0$34
+.#5-"$%-$=
+$N
+"-$%-$S
+5.#TUV%
+"%T60"T^==-$é!0p#
+.#$=-
 ### $$
 ### $
-###  66N-$O$.5@-0
+###  
+66
+N-$O$.5@-
+0
 ### an`nRT$
 ## $$
-$$$$f.=s6-
+$$$$f.
+=s6-
 ## $$
 ^46E T %4". " T4 E#%].5O# "] %a46O5. " .#3%O5N6 "E d]45E O 4-N."E " T4 D4. " p456OA
 Q#"4."AE].AqTTV EO 4``4.] T4 6#%EE5O# " `.NO#D. TE N]_.5.E `NE46O "E -N."].E " O.NOON5.E T 
@@ -1147,7 +1425,9 @@ E._5%E N] `.EN66E 4`OE o `.#%5E. TE &E].E " E#%].5O# 6#%EE45.E #O45O
 C. TU}`.O vb " T4 "5.%O5N6 .#D5N64T 6U4 `4E #O# E45E5~
 ### an`n>T$
 ## $$
-## $$$$Ö"5-.##5!.$ !0"$=$ "V@-.#5!.
+## $$$$Ö"5-.#
+#5!.$ !0"$=
+$ "V@-.#5!.
 ## $$
 qT 4``4.4óO d] TE .5Ed]E 56"]5OE `4. "E O.4_4]} }#%]O#E o `.N}5&5O# "U]6 vbV `N]. TE 
 %5.%]T4O5N6E d]5 TU&`.]6O6OV 6 EN6O `4E ON]ÄN].E 34%5T o "#O%O.~ ^U4]O. `4.OV T4 "#3565O5N6 "E 
@@ -1160,21 +1440,50 @@ vN]. T4 "#3565O5N6 " %E &E].EV TE E._5%E TN%4]} `]_6O 345. 4``T 4] E
 E`#%54T5E# "46E T4 DEO5N6 "E vb d]5 E E5O] D#6#.4T&6O 4] 65_4] " T4 "5.%O5N6 .#D5N64T~ qT EO 
 EN]a45O4-T d] %OO %N6E]TO4O5N6 EN5T `T]E D#6#.4T&6O `.4O5d]#~
 É%5 4&R6 L >?2A@@ o 3N.&]T. T4 .%N&&46"4O5N6 E]5_46O P
--3!AA.%#5!.$>$_StdÅb$Ç$^.#VN"-"E$%.6$=-6$#-p#-6$"VN566.#$=$Aè#"56-$%&!-0@"-$StdÅE$
-=$3!.60=##5!.$%-$=&-p -"#$v66N-$O$t5@-0$"VN5!.=$ !0"$#!06$=-6$34.#5-"6$6063- #5B=-6$
-### %&ÄÄ-3#-"$=$6V30"5#V$%&0.$ 66N-$O$.5@-0n
-rB
 
+-3!AA
+.%
+#5!.$
+>$_StdÅb$Ç$^.#VN"-"E$%
+.6$=-6$#-p#-6$"VN566
+.#$=
+$A
+è#"56-$%&!-0@"-$StdÅE$
+=
+$3!.60=#
+#5!.$%-$=&-p -"#$v
+66
+N-$O$t5@-
+0$"VN5!.
+=$ !0"$#!06$=-6$34
+.#5-"6$6063- #5B=-6$
+### %&
+ÄÄ-3#-"$=
+$6V30"5#V$%&0.$ 
+66
+N-$O$.5@-
+0n
+rB
 
 ## Página 40
 
+
 ### anqT$
 ### $$
-### $$$$f=#-".#$%-$34.#5-"$ "$Ä-0p$#"53!=!"-6$-.3%".#$=-$ 66N-$O$.5@-0
+### $$$$f=#-".
+#$%-$34
+.#5-"$ 
+"$Ä-0p$#"53!=!"-6$-.3
+%"
+.#$=-$ 
+66
+N-$O$.5@-
+0
 ### $$
 ### anqnRT$
 ## $$
-$$$$f.=s6-
+$$$$f.
+=s6-
 ## $$
 ÉO 4TO.64O 6%4".46O ]6 vb 4 3N6%O5N66# E46E 56%5"6O Ä]Ed] "46E TE 56EO46OE `.#%#"46O 
 TU4%%5"6O~
@@ -1209,9 +1518,12 @@ rÇ
 
 ## Página 41
 
+
 ### anqn>T$
 ## $$
-## $$$$Ö"5-.##5!.$ !0"$=$ "V@-.#5!.
+## $$$$Ö"5-.#
+#5!.$ !0"$=
+$ "V@-.#5!.
 ## $$
 4 d]EO5N6 " T4 %N&`4O5-5T5O# 6O. ]6 vb O ]6 4TO.64O .N]O5. O&`N.45. `]O eO. 
 4-N."# "46E "]} "N%]&6OE O%a65d]E #T4-N.#E `4. T p#O.4 P
@@ -1233,22 +1545,58 @@ TU56O."5%O5N6 " "5E`NE. ]6 4TO.64O `4. 3]} o %a_4T E]. ]6 vb O "UÑ 4OO5.
 T4 6#%EE5O# " %N6E]TO. TU}`TN5O46O 3..N_545. TN.Ed]U]6 4TO.64O EO E]E%`O5-T " &N"535. 
 TE %N6"5O5N6E "U}`TN5O4O5N6 "U]6 vb~
 É%5 4&R6 T >?2A@@ o 3N.&]T. T4 .%N&&46"4O5N6 E]5_46O P
-## -3!AA.%#5!.$`$_
+## 
+-3!AA
+.%
+#5!.$
+`$_
 $$
 $$
-rV=VN#5!.$%-$=$SV30"5#V$-#$%-$=$d5"30=#5!.$!0#5É"-6$-#$S-"@53-$%&M#0%-6
+rV=VN
+#5!.$%-$=
+$SV30"5#V$-#$%-$=
+$d5"30=
+#5!.$
+!0#5É"-6$-#$S-"@53-$%&M#0%-6
 $
-60"$=-6$F".6 !"#6E$=-6$!0#-6$-#$=-0"6$fAV.N-A-.#6b$Ç$d!A =V#-"$=-$N05%-$60"$=$ë$65N.=56#5!.$
-#-A !"5"-$T$=-6$=#-".#6$í$=!"6$%-$6$ "!345.-$A56-$O$é!0"E$ "$%-6$%56 !65#5!.6$6 V35Ä5/0-6$
-0p$ 66N-6$O$.5@-0E$.!#AA-.#E$-.$  -=.#$O$3!.60=#-"$=&-p =!5#.#$Ä-""!@55"-$=!"6/0-$=-$
-### "VN5A-$%&-p =!5##5!.$%&0.$vt$-6#$6063- #5B=-$%&1#"-$A!%5Ä5Vn
+60"$=-6$F"
+.6 !"#6E$=-6$
+!0#-6$-#$=-0"6$fAV.
+N-A-.#6b$Ç$d!A =V#-"$=-$N05%-$60"$=
+$ë$65N.
+=56
+#5!.$
+#-A !"
+5"-$T$=-6$
+=#-".
+#6$í$=!"6$%-$6
+$ "!34
+5.-$A56-$O$é!0"E$ 
+"$%-6$%56 !65#5!.6$6 V35Ä5/0-6$
+
+0p$ 
+66
+N-6$O$.5@-
+0E$.!#
+AA-.#E$-.$
+  -=
+.#$O$3!.60=#-"$=&-p =!5#
+.#$Ä-""!@5
+5"-$=!"6/0-$=-$
+### "VN5A-$%&-p =!5#
+#5!.$%&0.$vt$-6#$6063- #5B=-$%&1#"-$A!%5Ä5Vn
 ### anaT$
 ### $$
-### $$$$UV3.56A-6$=V65!..-=6$%-6$ 66N-"6$%0$#"5.
+### $$$$UV3
+.56A-6$=V65!..-=6$%-6$ 
+66
+N-"6$%0$#"
+5.
 ### $$
 ### ananRT$
 ## $$
-$$$$f.=s6-
+$$$$f.
+=s6-
 ## $$
 E Å0 `.EN66E -TEE#EV "N6O /0 N6O #O# #_4%]#EV EN6O ON]OE `4EE4DR.E "] O.456V % d]5 
 EO `] 3.#d]6O "46E % OÑ` " %NTT5E5N6~
@@ -1256,25 +1604,32 @@ $$$$f.=s6-
 `.NÄ%O5N6 %N6O. TE "NEE5.E "E E5RDEV O TE O4-TOOE TN.Ed]UTTE #O456O 4-45EE#E ~
 ### anan>T$
 ## $$
-## $$$$Ö"5-.##5!.$ !0"$=$ "V@-.#5!.
+## $$$$Ö"5-.#
+#5!.$ !0"$=
+$ "V@-.#5!.
 ## $$
 £6 .#3T}5N6 EO 6 %N].E 4] 65_4] ].N`#6 F`.ND.4&& " .%a.%a è E4356O.5N. ëMV 
 `N]. #O4-T5. "E E`#%535%4O5N6E _5E46O o .6". TE E5RDE &N56E 4D.EE53E `N]. TE _NÑ4D].E 6 %4E 
 " %aN%~ o% uREPP % /%"# a"2%-!"$.?%$ "% #%11% 4CB.$-A%_
 r1
 
-
 ## Página 42
+
 
 
 ## Página 43
 
+
 # ?T$
-# $$ $$$$d!.3=065!.6$-#$"-3!AA.%#5!.6
+# $$ $$$$d!.3=065!.6$-#$"-3!AA
+.%
+#5!.6
 # $$
 ### ?nRT$
 ### $$
-$$$$d06-6$%-$=&335%-.#
+$$$$d
+06-6$%-$=&
+335%-.#
 ### $$
  T]6"5 /n 6N_&-. /00B _.E !Ba00V ]6 6E&-T .N]O5. %a4.D# " D.4_5. %5.%]T46O E]. 
 T4 .N]O "#`4.O&6O4T Fm^M 6=!0n 4 #O# `.%]O# `4. ]6 @.456 ?}`.EE m#D5N64T F@?mM 4EE].46O T4 
@@ -1306,32 +1661,105 @@ TU4-E6% " "#O%O5N6 "] .5Ed] `.#E6O# `4. %O 4TO.64OV "] 345O 6NO4&&6O "
 56O#.5].E O 6NO4&&6O %N6O. LE E5RDE~
 ### ?n>T$
 ### $$
-### $$$$-3!AA.%#5!.6
+### $$$$
+-3!AA
+.%
+#5!.6
 ### $$
 U464TÑE "E 34%O].E " TU4%%5"6O %N6"]5O o #&OO. O.N5E .%N&&46"4O5N6E P
--3!AA.%#5!.$R$_rV "#-A-.#$%&^==-T-#T}5=5.-$-#$V6-0$Å-""V$%-$Å".3-b$Ç$o#0%5-"$-#$
-A-##"-$-.$!-0@"-$%-6$A-60"-6$ #-6$O$Ä35=5#-"$=-$Ä".34566-A-.#$%-6$ !5%6$=!0"%6$-#$=-0"$
-3"!56-A-.#$60"$3-$ 66N-$O$.5@-0$_AV.N-A-.#6$!0$A-60"-6$%&-p =!5##5!.E$"!0#5-"6$!0$
-### Ä-""!@55"-6bn
--3!AA.%#5!.$>$_StdÅb$Ç$^.#VN"-"E$%.6$=-6$#-p#-6$"VN566.#$=$Aè#"56-$%&!-0@"-$StdÅE$
-=$3!.60=##5!.$%-$=&-p -"#$v66N-$O$t5@-0$"VN5!.=$ !0"$#!06$=-6$34.#5-"6$6063- #5B=-6$
-### %&ÄÄ-3#-"$=$6V30"5#V$%&0.$ 66N-$O$.5@-0n
-Å!
 
+-3!AA
+.%
+#5!.$
+R$_rV 
+"#-A-.#$%&^==-T-#T}5=
+5.-$-#$
+V6-
+0$Å-""V$%-$Å"
+.3-b$Ç$o#0%5-"$-#$
+A-##"-$-.$!-0@"-$%-6$A-60"-6$
+ #-6$O$Ä
+35=5#-"$=-$Ä"
+.34566-A-.#$%-6$ !5%6$=!0"%6$-#$=-0"$
+3"!56-A-.#$60"$3-$ 
+66
+N-$O$.5@-
+0$_
+AV.
+N-A-.#6$!0$A-60"-6$%&-p =!5#
+#5!.E$"!0#5-"6$!0$
+### Ä-""!@5
+5"-6bn
+
+-3!AA
+.%
+#5!.$
+>$_StdÅb$Ç$^.#VN"-"E$%
+.6$=-6$#-p#-6$"VN566
+.#$=
+$A
+è#"56-$%&!-0@"-$StdÅE$
+=
+$3!.60=#
+#5!.$%-$=&-p -"#$v
+66
+N-$O$t5@-
+0$"VN5!.
+=$ !0"$#!06$=-6$34
+.#5-"6$6063- #5B=-6$
+### %&
+ÄÄ-3#-"$=
+$6V30"5#V$%&0.$ 
+66
+N-$O$.5@-
+0n
+Å!
 
 ## Página 44
 
-### -3!AA.%#5!.$`$_rV=VN#5!.$%-$=$SV30"5#V$-#$%-$=$d5"30=#5!.$!0#5É"-6$-# $
+
+### 
+-3!AA
+.%
+#5!.$
+`$_rV=VN
+#5!.$%-$=
+$SV30"5#V$-#$%-$=
+$d5"30=
+#5!.$
+!0#5É"-6$-# $
 ## $$
 ## S-"@53-
 ## $$
 ## $
-### %&M#0%-6$60"$=-6$F".6 !"#6E$=-6$!0#-6$-#$=-0"6$fAV.N-A-.#6
+### %&M#0%-6$60"$=-6$F"
+.6 !"#6E$=-6$
+!0#-6$-#$=-0"6$fAV.
+N-A-.#6
 ## $$
-### b$$ Ç$d!A =V#-"$=-$N05%-$60"$=$
-ë$65N.=56#5!. $ #-A !"5"- $ T $ =-6 $ =#-".#6$í $ =!"6 $ %- $ 6 $ "!345.- $ A56- $ O $ é!0"E $ " $ %-6$
-%56 !65#5!.6 $ 6 V35Ä5/0-6 $ 0p $ 66N-6 $ O $ .5@-0E $ .!#AA-.#E $ -. $   -=.# $ O $ 3!.60=#-"$
-=&-p =!5#.#$Ä-""!@55"-$=!"6/0-$=-$"VN5A-$%&-p =!5##5!.$%&0.$vt$-6#$6063- #5B=-$%&1#"-$A!%5Ä5Vn
+### b$$ Ç$d!A =V#-"$=-$N05%-$60"$=
+$
+ë$65N.
+=56
+#5!. $ #-A !"
+5"- $ T $ =-6 $ 
+=#-".
+#6$í $ =!"6 $ %- $ 6
+ $ "!34
+5.- $ A56- $ O $ é!0"E $ 
+" $ %-6$
+%56 !65#5!.6 $ 6 V35Ä5/0-6 $ 
+0p $ 
+66
+N-6 $ O $ .5@-
+0E $ .!#
+AA-.#E $ -. $ 
+  -=
+.# $ O $ 3!.60=#-"$
+=&-p =!5#
+.#$Ä-""!@5
+5"-$=!"6/0-$=-$"VN5A-$%&-p =!5#
+#5!.$%&0.$vt$-6#$6063- #5B=-$%&1#"-$A!%5Ä5Vn
  !"#$%& -% $.//!$# %0# 12!--.03! 42353#%$ 1%0 /!"5!3$0 /"613-0 = /!"$0"35$% 1. 
 0%0363130.#3! 4%0 "0.?%$0 ." @$.-A300%B%# 4%0 /.00.?%0 = 35%."& = C1.$?3$& ."E4%1= 4%0 0%"10 
 B.F#$%0 42!%"5$% $!"#3%$0& 1. 43@@"03! 4%0 4!-"B%#0 4" O%$53-% 42#"4%0 0"$ 1%0 P$.0/!$#0& 1%0 
@@ -1339,8 +1767,8 @@ Q!"#%0 %# 1%"$0 RBC.?%B%#0 SOC#$.T 0"$ 1%0 #$.5."U = /$!U3B3#C 4%0 V] %# = %-
 $C@1%U3!0 %"$!/C%%0 % -!"$0 0"$ 1. 13B3#.#3! 4% 12.?$%00353#C 4%0 03^?%0 4% #$.3 % -.0 4% -A!-_
 Å/
 
-
 ## Página 45
+
 
 # fttMuMS
 266} ! P ^#%5E5N6 "UN]_.O]. "U6d]eO
@@ -1352,18 +1780,22 @@ TE `4EE4DE o 65_4]M
 266} n P mRDTE " E#%].5O# E]. TE `4EE4DE o 65_4] F"#`T546O ^pÉmM
 År
 
-
 ## Página 46
 
 
+
 ## Página 47
+
 
 ### f..-p-$R$Ç$rV3565!.$%&!0@-"#0"-$%&-./01#-
 Ås
 
 ## Página 48
 
-### f..-p-$>$Ç$v=.6$%-$65#0#5!.
+
+### f..-p-$>$Ç$v=
+.6$%-$65#0
+#5!.
 u2!?"Å2>F
 v#ÅF?"u2!?"Å!bU#>
 ## O@.P/Q./RS?TT@Q.6"
@@ -1383,79 +1815,144 @@ u"p@5M!?p
 /=@5M!4?0
 Ån
 
-
 ## Página 49
 
-ÅB
-### f..-p-$`$Ç$-=-@V$%0$=5-0$%-$=&335%-.#
 
+ÅB
+### f..-p-$`$Ç$
+-=-@V$%0$=5-0$%-$=&
+335%-.#
 
 ## Página 50
 
-### f..-p-$q$Ç$v4!#!N" 45-6
-### v4!#!$R$Ç$~$6-A5T"-A!"/0-$é06#-$ "É6$=&335%-.#
-### v4!#!$>$Ç$~-$FnMnn$335%-.#V
-ÅÇ
 
+### f..-p-$q$Ç$v4!#!N"
+ 45-6
+### v4!#!$R$Ç$~
+$6-A5T"-A!"/0-$é06#-$
+ "É6$=&
+335%-.#
+### v4!#!$>$Ç$~-$FnMn
+n$
+335%-.#V
+ÅÇ
 
 ## Página 51
 
-### v4!#!$`$Ç$~-6$%!6$%-$65ÉN-E$"-3!0@-"#6$%-$ =6#5/0-$%0"E$-#$#B=-##-6$%0$#"5.$
-### 3!.#"-$=-6/0-=6$%-6$ 66N-"6$6-$6!.#$B=-66V6n
-### v4!#!$q$Ç$f33É6$0$ 66N-$O$.5@-0$-.$@-..#$%-$S5.#TUV%"%T60"T^==-n$
+
+### v4!#!$`$Ç$~-6$%!6$%-$65ÉN-E$"-3!0@-"#6$%-$ =
+6#5/0-$%0"E$-#$#
+B=-##-6$%0$#"
+5.$
+### 3!.#"-$=-6/0-=6$%-6$ 
+66
+N-"6$6-$6!.#$B=-66V6n
+### v4!#!$q$Ç$f33É6$
+0$ 
+66
+N-$O$.5@-
+0$-.$@-.
+.#$%-$S
+5.#TUV%
+"%T60"T^==-n$
 4 _5OEE EO T5&5O# o s0 †&ía~ 
 Å1
 
-
 ## Página 52
 
-### v4!#!$a$Ç$~-$ 66N-$O$.5@-0$-.$@-..#$%-$S5.#TUV%"%T60"T^==-n$
+
+### v4!#!$a$Ç$~-$ 
+66
+N-$O$.5@-
+0$-.$@-.
+.#$%-$S
+5.#TUV%
+"%T60"T^==-n$
  3] O.5%NTN. " %a46O5. #O45O 5&`T46O# T TN6D "] O.NOON5. ".N5O
-v4!#!$?$Ç$~-$ 66N-$O$.5@-0$=-$=-.%-A5.$%-$=&335%-.#$-.$@-..#$%-$S5.#TUV%"%T60"T^==-n
+v4!#!$?$Ç$~-$ 
+66
+N-$O$.5@-
+0$=-$=-.%-A
+5.$%-$=&
+335%-.#$-.$@-.
+.#$%-$S
+5.#TUV%
+"%T60"T^==-n
 ###  %4&5N6 E "#`N.O 4] &5T5] " T4 %a4]EE#n
 s0
 
-
 ## Página 53
 
-### v4!#!$D$Ç$~-6$#"@0p$O$=&!"5N5.-$%-$=&=#-".#$#-A !"5"-n
-s!
 
+### v4!#!$D$Ç$~-6$#"
+@
+0p$O$=&!"5N5.-$%-$=&
+=#-".
+#$#-A !"
+5"-n
+s!
 
 ## Página 54
 
-### v4!#!$ì$Ç$~-$ 66N-$O$.5@-0$-.$@-..#$%-$m05 -=n$
+
+### v4!#!$ì$Ç$~-$ 
+66
+N-$O$.5@-
+0$-.$@-.
+.#$%-$m05 -=n$
  %4&5N6 E "#`N.O 4] &5T5] " T4 %a4]EE#~
-### v4!#!$c$Ç$~-$ 66N-$O$.5@-0$-.$@-..#$%-$m05 -=n$
+### v4!#!$c$Ç$~-$ 
+66
+N-$O$.5@-
+0$-.$@-.
+.#$%-$m05 -=n$
 E %4&5N6E 6 `]_6O E %.N5E.~ ÉT]5 " ".N5O EUEO .46D# E]. TU4%%NO&6O n
 s/
 
-
 ## Página 55
 
-### f..-p-$a$Ç$ÉN=-6$O$"-6 -3#-"$60"$=-6$ 66N-6$O$.5@-0$_ë$Ñ!0".V-$.#5!.=-$%-$
-### =$6V30"5#V$60"$=-6$ 66N-6$O$.5@-0$íb
-sr
 
+### f..-p-$a$Ç$
+ÉN=-6$O$"-6 -3#-"$60"$=-6$ 
+66
+N-6$O$.5@-
+0$_ë$Ñ!0".V-$.
+#5!.
+=-$%-$
+### =
+$6V30"5#V$60"$=-6$ 
+66
+N-6$O$.5@-
+0$íb
+sr
 
 ## Página 56
 
-### f..-p-$?$Ç$ÉN=-6$%-$6V30"5#V$60"$=-6$ 66N-6$O$.5@-0$_%V =5.#$rSdb
-sÅ
 
+### f..-p-$?$Ç$
+ÉN=-6$%-$6V30"5#V$60"$=-6$ 
+66
+N-6$O$.5@-
+0$_%V =5
+.#$rSd
+b
+sÅ
 
 ## Página 57
 
+
 ss
 
-
 ## Página 58
+
 
 
 ## Página 59
 
 
+
 ## Página 60
+
 
 Presente
 para el futuro

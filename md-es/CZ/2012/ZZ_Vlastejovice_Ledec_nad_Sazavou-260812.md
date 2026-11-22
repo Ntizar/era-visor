@@ -11,9 +11,9 @@ ratio_longitud: 1.29
 tokens_in: 33681
 tokens_out: 24979
 verificacion: ok
-notas_cifras: ["bloque 2: cifras cortas: 7/149", "bloque 5: cifras cortas: 13/142", "bloque 6: cifras cortas: 5/75"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (PT)", "página 5: original bilingüe: se compara contra el idioma principal (EN)", "página 6: original bilingüe: se compara contra el idioma principal (PT)", "página 7: original bilingüe: se compara contra el idioma principal (PT)", "página 9: cifras cortas: 1/10", "página 10: original bilingüe: se compara contra el idioma principal (HR)"]
 ---
 ## Página 1
 

@@ -10,13 +10,14 @@ chars: 132352
 ratio_longitud: 1.25
 tokens_in: 80374
 tokens_out: 57075
-verificacion: revisar
-notas_cifras: ["bloque 1: original bilingüe: se compara contra el idioma principal (EN)", "bloque 2: original bilingüe: se compara contra el idioma principal (CS)", "bloque 4: original bilingüe: se compara contra el idioma principal (CS)", "bloque 5: original bilingüe: se compara contra el idioma principal (CS)", "bloque 6: original bilingüe: se compara contra el idioma principal (CS)", "bloque 9: original bilingüe: se compara contra el idioma principal (CS)"]
-avisos: ["bloque 5: ratio 1.63", "bloque 9: ratio 1.74", "bloque 10: ratio 1.67"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 8: original bilingüe: se compara contra el idioma principal (EN)", "página 9: original bilingüe: se compara contra el idioma principal (PT)", "página 10: original bilingüe: se compara contra el idioma principal (PT)", "página 18: original bilingüe: se compara contra el idioma principal (CS)", "página 21: original bilingüe: se compara contra el idioma principal (PT)"]
 ---
+
 ## Página 1
+
 
 Inspección Ferroviaria
 República Checa
@@ -41,13 +42,13 @@ IČ:   75009561
 http://www.dicr.cz
 tel.: 224 805 444
 
-
 ## Página 2
+
 
 Este informe final es público y todos los documentos y hechos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ## 1 RESUMEN
 Fuente: PČR
@@ -76,8 +77,8 @@ puesta en marcha del tren Os 3229 en la estación-parada de carga Bystřička
 con una pasajera atrapada por las puertas de acceso traseras derechas
 del último vehículo ferroviario del tren.
 
-
 ## Página 4
+
 
 Factor contribuyente:
 ausencia de un dispositivo (elemento de seguridad) que, con las puertas de acceso
@@ -127,8 +128,8 @@ desde su posición de conducción visibilidad, y no a través de los retrovisore
 el cierre de todas las puertas de acceso y la finalización segura de la salida y entrada de
 pasajeros.
 
-
 ## Página 5
+
 
 De conformidad con lo dispuesto en el apartado 5 del artículo 53b de la ley n.º 266/1994 Sb., de vías ferroviarias,
 en su redacción vigente, o en el anexo n.º 7 del decreto n.º 376/2006 Sb., sobre el sistema de seguridad
@@ -138,8 +139,8 @@ la adopción de una medida propia encaminada a garantizar la realización de las
 anteriores por parte de todos los transportistas que, en su caso, utilicen para la explotación del transporte ferroviario
 vehículos ferroviarios de las series 460, o 560, y 063.
 
-
 ## Página 6
+
 
 ## SUMMARY
 Grade:
@@ -192,16 +193,16 @@ closed after door-closed indication was received. This check should be applied f
 all rolling stock without door-closed detection system reliably indicating whether
 doors are tightly closed along the full length of their edge.
 
-
 ## Página 7
+
 
 Addressed to Czech National Safety Autority (NSA):
 to take own measure forcing implementation of the above recommendations
 •
 for other railway undertakings (RU) in the Czech Republic.
 
-
 ## Página 8
+
 
 # Índice
 1 Resumen ........................................................................................................................3
@@ -237,6 +238,7 @@ incluidas personas en relación contractual ....................................
 
 ## Página 9
 
+
 3.1 Resumen de las explicaciones facilitadas (sujeto a la protección de la identidad de las personas) ................................22
 3.1.1 Empleados del gestor de la infraestructura y del transportista, incluidas las personas en relación contractual ...............................................................................................................22
 3.1.2 Otras personas .........................................................................................................24
@@ -264,10 +266,10 @@ incluidas personas en relación contractual ....................................
 3.7 Excepcional anteriores de carácter similar ............................................39
 4 Análisis y conclusiones ............................................................................................................40
 4.1 Descripción final de la excepcional ..........................................................................40
-4.1.1 Descripción final de la excepcional basada en los hechos constatados en el punto 3 
-
+4.1.1 Descripción final de la excepcional basada en los hechos constatados en el punto 3
 
 ## Página 10
+
 
 ............................................................................................................................40
 4.2 Análisis ......................................................................................................................41
@@ -290,11 +292,12 @@ Fuente: DI .....................................................................
  Fig. n.º 7: Vista del indicador de estado de las puertas de acceso en el puesto de mando del HDV 460.075-5        
 Fuente: DI ....................................................................................................................47
 
-
 ## Página 11
 
 
+
 ## Página 12
+
 
 ## Lista de siglas y símbolos utilizados
 COP
@@ -359,8 +362,8 @@ estación de radio de base
 žst. 
 estación de ferrocarril
 
-
 ## Página 13
+
 
 ## Lista de siglas de la legislación, normas y normas internas 
 utilizadas
@@ -393,8 +396,8 @@ norma interna del gestor de la infraestructura SŽDC, s. o., SŽDC (ČD) D2 Norm
 norma SŽDC (ČD) D5
 norma interna del gestor de la infraestructura SŽDC, s. o., SŽDC (ČD) D5 Directriz para la elaboración de la documentación de transporte básica, n.º de expediente: 40521/11-O11, de fecha 01. 09. 2011, en vigor desde el 01. 09. 2011, en su versión vigente
 
-
 ## Página 14
+
 
 norma SŽDC (ČD) 1/D5
 norma interna del gestor de la infraestructura SŽDC, s. o., SŽDC (ČD) 1/D5 Medidas de ejecución de la directriz para la elaboración y el tratamiento de la documentación de transporte básica, n.º de expediente: 40522/11-O11, de fecha 01. 09. 2011, en vigor desde el 01. 09. 
@@ -424,6 +427,7 @@ norma interna del transportista ČD, a. s., 2/91 - PMR Directriz para la explota
 
 ## Página 15
 
+
 ## 2 DATOS RELATIVOS AL SUCESO EXTRAORDINARIO
 ## 2.1
 ### Suceso extraordinario
@@ -440,16 +444,16 @@ GPS:
 49°25'2.053"N, 17°57'31.658"E
 Fig. 1: Vista del lugar de caída de la viajera arrastrada             Fuente: PČR
 
-
 ## Página 16
+
 
 ### 2.1.2 Descripción del suceso extraordinario y del lugar del accidente, incluida la actuación del sistema integrado de emergencias y del servicio de rescate
 El 14. 01. 2013 el tren Os 3229 (Přerov – Vsetín) se detuvo en la nz. Bystřička junto al andén de la 1. TK. Cuando la jefa de servicio del tren (en adelante jefa de tren) dio a la persona que conduce el vehículo ferroviario (en adelante maquinista) la señal manual «Autorización para la salida», el maquinista accionó el mando, en el sentido de la marcha del tren, de las puertas de acceso derechas, a la posición cerrada «Z». Durante el cierre de las puertas de acceso, una viajera que descendía quedó atrapada entre el marco de las puertas de acceso y la hoja de la puerta, por las puertas de acceso de una sola hoja traseras del último DV del tren. A continuación, el maquinista puso el tren en movimiento con la viajera atrapada. Esta fue arrastrada por el tren hasta el punto en el que el maquinista, mediante la operación del mando de las puertas de acceso derechas, permitió la apertura y el cierre breves de las puertas de acceso derechas no cerradas y no aseguradas del tren en marcha. Con ello se produjo la liberación de la viajera atrapada, su caída al andén y al espacio comprendido entre el borde del andén y la TK transitada. No se produjo un contacto posterior de la viajera arrastrada con la parte trasera del último DV del tren que se alejaba.
 Del examen del lugar del suceso extraordinario se constató que el andén a nivel de la nz. Bystřička, situado a la derecha de la 1. TK, tiene una longitud constructiva de 215 m. El espacio destinado al desembarque y embarque de viajeros está delimitado, en el sentido de la marcha del tren Os 3229, por el inicio del andén en el pk 32,533 y finaliza con una señal con la indicación «Fin de andén», situada a la derecha de la 1. TK en el pk 32,722, 26 m antes del final constructivo del andén en el pk 32,748. La longitud útil del andén es de 189 m. El andén fue despejado de nieve y hielo a lo largo de 80 m, desde el pk 32,604 hasta el pk 32,684. La superficie del andén en los tramos despejados de nieve y hielo estaba cubierta por una ligera capa de nieve en polvo, la superficie del andén no era resbaladiza, es decir, se garantizaba la circulación segura de los viajeros. Las restantes superficies del andén, donde la nieve y el hielo no habían sido despejados, estaban cubiertas por una capa de nieve de unos 15 cm de altura. En el pk 32,602, es decir, 2 m antes del inicio de la superficie del andén despejada de nieve y hielo, se detectaron las primeras huellas de arrastre de la viajera atrapada. La huella de una de las extremidades inferiores discurre por el borde del andén junto con la huella del bastón para apoyo al andar. La huella de la otra extremidad inferior discurre en el espacio comprendido entre el borde del andén y el raíl derecho de la vía transitada. En el punto final de las huellas de arrastre dejadas siguen huellas de la caída de la viajera sobre el borde del andén y en el espacio comprendido entre el borde del andén y la TK transitada. Las huellas terminan en el pk 32,692, es decir, a 90 m de la primera huella de arrastre. El tren Os 3229 se detuvo en la nz. Bystřička con el frente en el pk 32,689510, es decir, 32,49 m antes del nivel de la señal con la indicación «Fin de andén», con el centro de las puertas de acceso delanteras del primer DV del tren en el pk 32,679020, es decir, en el punto despejado de nieve y hielo de la superficie del andén, y con el centro de las puertas de acceso traseras del último DV del tren en el pk 32,602, es decir, en el punto no despejado de nieve y hielo de la superficie del andén.
 Del examen del DV 94 54 1 460076-3 (en adelante 460.076-3) enganchado al final del tren Os 3229 en la estación Vsetín se constató que la superficie de los escalones de acceso de las puertas de acceso traseras de una sola hoja derechas, en el sentido de la marcha del tren, no era resbaladiza, no estaba cubierta de hielo y en las juntas de los escalones de acceso había nieve arrastrada por el viento. Los escalones de acceso estaban iluminados con las puertas de acceso abiertas. En la inspección de los perfiles de caucho (juntas) del marco de la puerta y de la hoja de la puerta no se detectaron defectos. La anchura de los perfiles de caucho del marco de las puertas de acceso era de 5,1 cm en la junta interior y de 3,1 cm en el perfil exterior. La anchura del perfil de caucho (junta) de la hoja de las puertas de acceso era de 3,9 cm en el perfil interior y de 4,0 cm en el perfil exterior. Tras el cierre de las puertas, la anchura total de los perfiles en contacto del marco de las puertas de acceso y de la hoja de la puerta era de 7,2 cm. En la inspección del mecanismo de apertura y cierre de las puertas mencionadas y la verificación de su funcionamiento no se detectaron defectos. Mediante la verificación de la función de cierre e indicación de estado, en el sentido de la marcha del tren Os 3229, de las puertas de acceso derechas del DV 460.076-3 en la estación Vsetín, se constató, según la documentación
 
-
 ## Página 17
+
 
 del transportista, que tras accionar el mando de las puertas de acceso derechas en la cabina de conducción del DV 94 54 1 460075-5 (en adelante 460.075-5) a la posición cerrada «Z», las puertas de acceso se cerraron en 2 s. Durante este proceso, los pestillos mecánicos superior e inferior de aseguramiento de las puertas se engancharon y se accionó el interruptor final de las puertas. En la cabina de conducción del DV 460.075-5, el indicador de estado de las puertas de acceso, complementado con un LED rojo y un LED verde, señalizaba mediante la posición vertical del indicador y la luz del LED verde (el LED rojo se apagó) las puertas de acceso cerradas. Al introducir un objeto de 2 cm de diámetro entre el perfil de caucho del marco de las puertas de acceso y el perfil de caucho de la hoja de la puerta, las puertas de acceso volvieron a cerrarse correctamente y en la cabina de conducción del DV 460.075-5 se señalizó el cierre de las puertas de acceso derechas. El objeto introducido quedó comprimido en los perfiles de caucho del marco y de la hoja de la puerta. El tiempo de cierre de las puertas de acceso en este caso también fue de 2 s.
 El IZS fue activado por la persona que dirige el tráfico ferroviario (en adelante jefe de estación) de la estación Jablůnka. En el lugar del suceso extraordinario intervinieron la ZSS Valašské Meziříčí y la PČR, SKPV Vsetín.
@@ -467,48 +471,47 @@ Autorización del DI para la liberación de la vía:
 14. 01. 2013, 19:08 h (es decir, 31 min. después del origen del 
 suceso extraordinario).
 
-
 ## Página 18
 
-El suceso extraordinario fue comunicado en nombre del explotador ferroviario y del transportista de acuerdo con lo dispuesto en el § 49 apartado 3 letra a) de la ley núm. 266/1994 Sb. y el § 8 del decreto núm. 376/2006 Sb.
-Decisión del DI sobre el inicio de la VŠ:
+La MU fue notificada en calidad de gestor de la vía y transportista de conformidad con lo dispuesto en el § 49 apartado 3 letra a) de la ley núm. 266/1994 Sb. y el § 8 del decreto núm. 376/2006 Sb.
+Decisión del DI sobre el inicio de la investigación de seguridad (VŠ):
 16. 01. 2013.
-Composición del VI DI en el lugar del suceso extraordinario:
+Composición del VI del DI en el lugar de la MU:
 no estuvo presente.
-Formación del equipo de investigación:
-no fue necesario formarlo. 
-Cooperación externa:
-no se utilizó. 
-La posterior investigación de las causas y circunstancias del origen del suceso extraordinario fue encomendada, en el marco del DI, al ÚI Ostrava. 
-En la investigación de las causas y circunstancias del origen del suceso extraordinario, el DI se basó en sus propios conocimientos y hallazgos, en su propia documentación fotográfica y en la documentación solicitada elaborada durante la investigación por el explotador ferroviario, el transportista y la PČR.
-La investigación de las causas y circunstancias del origen del suceso extraordinario se realizó de conformidad con lo dispuesto en el § 53b de la ley núm. 266/1994 Sb. y el § 11 del decreto núm. 376/2006 Sb.
+Constitución del equipo de investigación:
+no fue necesario constituirlo.
+Colaboración externa:
+no se utilizó.
+La posterior investigación de las causas y circunstancias de la aparición de la MU fue encomendada en el marco del DI al ÚI Ostrava.
+En la investigación de las causas y circunstancias de la aparición de la MU, el DI se basó en sus propios conocimientos y hallazgos, en su propia documentación fotográfica, en la documentación solicitada elaborada durante la investigación por el gestor de la vía, el transportista y la PČR.
+La investigación de las causas y circunstancias de la aparición de la MU se llevó a cabo de conformidad con lo dispuesto en el § 53b de la ley núm. 266/1994 Sb. y el § 11 del decreto núm. 376/2006 Sb.
 ## 2.2
-### Circunstancias del suceso extraordinario
-### 2.2.1 Empleados implicados del explotador ferroviario y del transportista, personas en relación contractual y demás implicados y testigos
-Personas implicadas en nombre de:
+### Circunstancias del suceso excepcional
+### 2.2.1 Empleados participantes del gestor de la vía y del transportista, personas en relación contractual y demás participantes y testigos
+Personas participantes por:
 Transportista (ČD, a. s.):
-maquinista del tren Os 3229, empleado de ČD, a. s., DKV Olomouc, PJ Valašské 
+maquinista del tren Os 3229, empleado de ČD, a. s., DKV Olomouc, PJ Valašské
 •
 Meziříčí;
-jefa de tren del tren Os 3229, empleada de ČD, a. s., RCVD Valašské Meziříčí.
+jefe de tren del tren Os 3229, empleado de ČD, a. s., RCVD Valašské Meziříčí.
 •
-Explotador ferroviario (SŽDC, s. o.):
-jefe de estación de la estación Jablůnka, empleado de SŽDC, s. o., OŘ Olomouc.
+Gestor de la vía (SŽDC, s. o.):
+jefe de estación de la est. Jablůnka, empleado de SŽDC, s. o., OŘ Olomouc.
 •
-Tercero:
-viajera herida, que descendía del tren Os 3229.
+Tercera parte:
+pasajera herida, que bajaba del tren Os 3229.
 •
 Otras personas, testigos:
-jefe de PS Vsetín, empleado de SŽDC, s. o., OŘ Olomouc, que descendió del tren Os 3216 
+jefe de PS Vsetín, empleado de SŽDC, s. o., OŘ Olomouc, que bajó del tren Os 3216
 •
-en la nz. Bystřička – testigo n.º 1;
-persona que esperaba en la nz. Bystřička a un viajero (testigo n.º 3) – testigo n.º 2;
+en la nz. Bystřička – testigo núm. 1;
+persona que esperaba en la nz. Bystřička a un pasajero (testiga núm. 3) – testigo núm. 2;
 •
-viajera que descendió del tren Os 3229 en la nz. Bystřička – testigo n.º 3.
+pasajera que bajó del tren Os 3229 en la nz. Bystřička – testiga núm. 3.
 •
-
 
 ## Página 19
+
 
 2.2.2 Trenes y su composición, incluidos los números de registro de los distintos vehículos ferroviarios
 | Tren: | Os3229 |  | Composición del tren: | Propietario: |
@@ -529,6 +532,7 @@ La estación nz. Bystřička está formada por dos andenes a nivel, a ambos lado
 
 ## Página 20
 
+
 Desde el punto kilométrico 33,476 la TK se encuentra en el sentido de circulación del tren Os 3229 en una curva a izquierda de radio r = 591 m, con sobreelevación D = 87 mm.
 En la oscuridad y con visibilidad reducida, el espacio del andén nz. Bystřička está iluminado por luminarias de descarga de tipo SHLP, con descarga de 210 W, instaladas en postes, y por luminarias de descarga, con descarga de 70 W, instaladas en el edificio de la estación.
 El espacio del andén nz. Bystřička no está equipado con un sistema de videovigilancia que registre la situación y el movimiento de personas en el andén.
@@ -542,32 +546,47 @@ La comunicación entre el maquinista del tren Os 3229, que también fue detenido
 ### 2.2.5 Trabajos realizados en el lugar del suceso excepcional y en sus proximidades
 En el lugar del MU no se realizaron, inmediatamente antes de su origen, por parte del propietario, del gestor de la vía ni de otras personas, trabajos de reparación o de mantenimiento.
 
-
 ## Página 21
 
-### 2.2.6 Activación del plan para el caso de suceso excepcional en la vía y secuencia de acontecimientos
-• 18:40 h, el jefe de estación de žst. Jablůnka activó los componentes del IZS;
-• 18:52 h, tras comprobar que el MU se produjo durante la salida del tren Os 3229, el jefe de estación de žst. Jablůnka comunicó el origen del MU según el cuadro de comunicaciones;
-• 19:06 h, la persona autorizada del gestor de la vía y del transportista comunicó el origen del MU en el COP DI;
-• 19:08 h, el DI dio su consentimiento para la liberación de la vía;
-• 19:30 h, la PČR y la persona autorizada del gestor de la vía y del transportista iniciaron la inspección del lugar de origen del MU;
-• 19:47 h, se reanudó la circulación en la 1.ª TK Valašské Meziříčí – Jablůnka.
-### 2.2.7 Activación del plan del sistema integrado de emergencia, de la policia y del servicio de emergencia sanitaria, y secuencia de acontecimientos
-El MU fue comunicado por: el testigo n.º 1, el jefe de PS Vsetín, el jefe de estación de žst. Jablůnka a las 18:37:30 h sin indicar el número del tren durante cuya salida se produjo el suceso.
-El IZS fue activado a las 18:40 h por el jefe de estación de žst. Jablůnka. Al lugar del MU acudieron los componentes del ZZS Valašské Meziříčí y de la PČR, SKPV Vsetín.
+### 2.2.6 Activación del plan para el caso de incidente en la vía y secuencia de eventos
+18:40 h activadas por el jefe de estación de la est. Jablůnka las unidades del IZS;
+•
+18:52 h, tras constatar que el incidente (MU) se produjo con la salida del tren Os 3229, comunicado por el jefe de estación
+•
+de la est. Jablůnka el origen del MU conforme al horario de comunicación;
+19:06 h comunicado el origen del MU a la persona autorizada del gestor de la vía y del transportista en
+•
+el COP DI;
+19:08 h concedido el DI el consentimiento para la liberación de la vía;
+•
+19:30 h iniciada la inspección del lugar del origen del MU por la PČR y la persona autorizada
+•
+del gestor de la vía y del transportista;
+19:47 h reanudada la circulación en la 1. TK Valašské Meziříčí – Jablůnka.
+•
+### 2.2.7 Activación del plan del sistema integrado de emergencias, policía y servicio médico de emergencias y secuencia de eventos
+El MU fue comunicado por: el testigo n.º 1, el jefe de la PS Vsetín, el jefe de estación de la est. Jablůnka a las 18:37:30 h sin
+indicar el número de tren con cuya salida se produjo el incidente.
+El IZS fue activado a las 18:40 h por el jefe de estación de la est. Jablůnka. Al lugar del MU acudieron
+las unidades del ZZS Valašské Meziříčí y de la PČR, SKPV Vsetín.
 ## 2.3
 ### Fallecimientos, lesiones y daños materiales
-2.3.1 En viajeros y terceras personas, empleados del gestor de la vía y del transportista, incluidas personas en relación contractual
+2.3.1 En pasajeros y terceras personas, empleados del gestor de la vía y del transportista,
+incluidas personas en relación contractual
 En el MU se produjo:
-• una lesión grave en la salud de una viajera que descendía del tren Os 3229.
-En el MU no se produjo lesión en la salud de empleados del gestor de la vía, del transportista ni de personas en relación contractual.
+lesión grave en la salud de una pasajera que descendía del tren Os 3229.
+•
+En el MU no se produjo lesión en la salud de empleados del gestor de la vía, del transportista
+ni de personas en relación contractual.
 ### 2.3.2 En objetos transportados, equipajes y otros bienes
-A la fecha de emisión de este Informe sobre los resultados de la investigación de las causas y circunstancias del origen del MU, la daño en los objetos transportados y equipajes de la viajera lesionada no había sido cuantificado.
-### 2.3.3 En vehículos ferroviarios, componentes de la vía de circulación y en el medio ambiente
-No se produjo daño en vehículos ferroviarios, componentes de la vía de circulación ni en otros bienes.
-
+A la fecha de emisión de este Informe de resultados de la investigación de las causas y circunstancias del origen del MU, no se había
+cuantificado el daño en los objetos transportados y equipajes de la pasajera lesionada.
+### 2.3.3 En vehículos ferroviarios, componentes de la vía y en el medio ambiente
+No se produjo daño en los vehículos ferroviarios, componentes de la vía
+ni en otros bienes.
 
 ## Página 22
+
 
 ## 2.4
 ### Circunstancias externas
@@ -590,71 +609,107 @@ maquinista del tren Os 3229
 • tras recorrer una corta distancia, el tren volvió a detenerse excepcionalmente en la línea. El motivo fue la activación de la parte móvil del VZ y, a continuación, continuó la marcha hasta žst. Jablůnka;
 • en el momento del origen del MU no registró ninguna avería en el mando y funcionamiento de las puertas de acceso del tren.
 
-
 ## Página 23
 
 maquinista del tren Os 3229
-  – del Registro Oficial de la explicación presentada, elaborado por la PČR, entre otros, se desprende:
-• durante el turno no se produjo ninguna avería en el mando y funcionamiento de las puertas de acceso del tren;
-### en nz. Bystřička nevaba. Tenía visión de la situación a lo largo de todo el tren
-### Os 3229, el tren se encontraba en una vía recta. Desde las puertas derechas abiertas de la cabina del maquinista del HDV 460.075-5 observaba el descenso y ascenso de pasajeros;
-• tras finalizar el descenso y ascenso de pasajeros, la jefa de tren avisó con el silbato a los pasajeros de la salida prevista y le dio la señal «Autorización para la salida» con la luz de la linterna de mano;
-• tras recibir esta señal, se sentó ante la consola de mando del puesto y accionó el mando de las puertas derechas a la posición «Z» cerrado. El indicador de estado de las puertas derechas, junto con el encendido del LED rojo, señalizaba las puertas de acceso abiertas. No pudo averiguar desde la señalización en el puesto del maquinista qué puertas de acceso concretas permanecían abiertas (sin cerrar);
-• se aseguró de la situación a lo largo del tren mirando al espejo retrovisor derecho. Debido a la nevada, a través del espejo retrovisor solo alcanzó a ver aproximadamente hasta el centro del tren. No se aseguró de la situación a lo largo del tren mediante la vista directa desde la ventana lateral del puesto del maquinista ni de otra manera, no averiguó el motivo del no cierre de las puertas y puso el tren en movimiento;
-• durante la salida del tren, accionó brevemente el mando de las puertas derechas a la posición «O» abierto e inmediatamente de vuelta a la posición «Z» cerrado. Tras esta manipulación del mando, el indicador de estado de las puertas derechas, junto con el encendido del LED verde, señalizaba las puertas de acceso cerradas;
-• tras recorrer aproximadamente 300 m, actuó repentinamente la parte móvil del VZ del HDV 460.075-5, con el resultado de la parada del tren Os 3229 en la línea;
-• que el tren Os 3229 había sido detenido de emergencia, a través de TRS, por la orden «GENERÁLNÍ STOP», lo descubrió solo cuando quiso activar la parte móvil del VZ. No fue informado del motivo de la parada de emergencia, no estableció contacto con la persona que dirige el tráfico ferroviario y no averiguó el motivo de la parada del tren. A continuación, puso el tren en movimiento;
-• es consciente de que, en la operación de las puertas de acceso en el momento anterior a la salida de nz. Bystřička y durante la marcha posterior, no actuó conforme a los procedimientos contenidos en la Directiva para la explotación de las unidades eléctricas de las series 460, 560;
-• poner en movimiento un tren destinado al transporte de pasajeros desde el espacio destinado al descenso y ascenso de pasajeros puede hacerse, con independencia de la señalización de no cierre de las puertas de acceso de cierre central, solo si se tiene la certeza de que ha finalizado el descenso y ascenso de pasajeros. Los procedimientos que lo permiten no sabe especificarlos con más detalle;
-jefa de tren del tren Os 3229
-  – del Acta con la empleada, elaborada por el transportista, entre otros, se desprende:
-• las operaciones antes de la salida del tren de nz. Bystřička las realizó desde las puertas traseras del penúltimo DV del tren;
-• no recuerda si nevaba en nz. Bystřička;
+  – del Registro Oficial de la declaración prestada, 
+•
+elaborado por la Policía Nacional, entre otros, se desprende:
+durante el turno no se produjo ninguna avería en el mando y el funcionamiento de las puertas de acceso del tren 
+•
+;
+### En la estación de Bystřička nevaba. Tenía visión de la situación a lo largo de todo el tren 
+### Os 3229, el tren se encontraba en una vía recta. Desde las puertas derechas abiertas de la cabina 
+del maquinista del HDV 460.075-5 observaba el desembarque y el embarque de los pasajeros;
+tras finalizar el desembarque y el embarque de los pasajeros, el jefe de tren avisó con el silbato 
+•
+a los pasajeros de la salida prevista y le dio la señal "Autorización para salir" 
+con la linterna manual;
+tras recibir esta señal, se sentó en la consola de mando del puesto y accionó el mando 
+•
+### de las puertas de acceso derechas a la posición "Z" cerrado. El indicador de estado de las puertas de acceso derechas, junto con el encendido del LED rojo, señalizaba 
+### puertas de acceso abiertas. Qué puertas de acceso concretas permanecían abiertas 
+(no cerradas), no pudo averiguarlo a partir de la señalización en el puesto del maquinista;  
+de la situación a lo largo del tren se aseguró mirando en el espejo retrovisor derecho. 
+•
+### Debido a la nevada, solo pudo comprobar a través del espejo retrovisor 
+### hasta aproximadamente el centro del tren. No se aseguró de la situación a lo largo del 
+tren mediante la vista directa desde la ventana lateral del puesto del maquinista ni de otra manera, no averiguó la causa del no cierre de las puertas y puso el tren 
+en marcha;
+durante la puesta en marcha del tren, accionó momentáneamente el mando de las puertas 
+•
+### de acceso derechas a la posición "O" abierto e inmediatamente de vuelta a la posición "Z" 
+### cerrado. Tras esta manipulación del mando, el indicador de estado de las puertas de acceso derechas, junto con el encendido del LED verde, señalizaba puertas de acceso cerradas;
+tras recorrer unos 300 m, actuó repentinamente la parte móvil del VZ del HDV 460.075-5, lo que 
+•
+tuvo como consecuencia la parada del tren Os 3229 en la vía;
+que el tren Os 3229 había sido parado de emergencia mediante el TRS con la orden 
+•
+### "PARADA GENERAL", lo averiguó solo cuando quiso activar la parte móvil del VZ. No fue informado del motivo 
+de la parada de emergencia, no estableció contacto con la persona que dirige el tráfico ferroviario 
+### y no averiguó el motivo de la parada del tren. Después puso el tren en 
+marcha;
+es consciente de que, en la operación de las puertas de acceso durante el periodo anterior a la salida de la estación de Bystřička y durante el trayecto posterior, no actuó según los procedimientos contenidos 
+•
+en la Directiva para la explotación de las unidades eléctricas de las series 460, 560;
+que poner en marcha un tren destinado al transporte de pasajeros desde el espacio destinado al desembarque 
+•
+y embarque de pasajeros puede hacerse, con independencia de la señalización de no cierre 
+de las puertas de acceso de cierre central, solo si está seguro de que ha finalizado el desembarque y el embarque de los pasajeros. Los procedimientos que lo permiten no puede especificarlos con más detalle; 
+jefe de tren del tren Os 3229
+  – del Acta con el empleado, elaborada por el 
+•
+transportista, entre otros, se desprende:
+las operaciones previas a la salida del tren de la estación de Bystřička las realizó desde las puertas de acceso traseras 
+•
+del penúltimo DV del tren;
+si nevaba en la estación de Bystřička, no lo recuerda;
 •
 
 ## Página 24
 
-de las DV delanteras bajaron dos mujeres. No recuerda si las últimas puertas de acceso estaban abiertas antes de dar la señal "Permiso
+de las puertas delanteras de los DV salían dos mujeres. No recuerda si las últimas puertas de entrada estaban abiertas antes de dar la señal "Permiso
 •
-para la salida"; está absolutamente segura de que en el momento de dar la señal "Permiso para la salida" nadie bajaba del tren;
+para la salida"; está absolutamente segura de que en el momento de dar la señal "Permiso para la salida" nadie salía del tren;
 •
 no recuerda si el maquinista recibió la señal "Permiso para la salida" directamente con la vista o a través del espejo retrovisor derecho del HDV.
+•
 ### 3.1.2 Otras personas
 Testigo n.º 1
-  – del Acta oficial con el testigo, elaborada por la Policía (PČR), entre otros se desprende:
+  – del Acta oficial con el testigo, elaborada por la Policía, entre otros se desprende:
 •
 bajó del tren Os 3216 en la parada Bystřička;
 •
-en el momento de la salida del tren Os 3229 se encontraba junto al edificio de la estación de la parada Bystřička,
+en el momento de la salida del tren Os 3229 se encontraba junto al edificio de la estación de la parada Bystřička, mientras hablaba por teléfono con la jefa de estación de la estación Jablůnka. No prestó atención a la salida del tren;
 •
-mientras hablaba por teléfono con la jefa de estación de la estación Jablůnka. No prestó atención a la salida del tren;
-tras ponerse el tren Os 3229 en marcha, registró "algún grito". Al mirar el tren que arrancaba, vio en las últimas puertas de acceso de la última DV a una pasajera atrapada, que era arrastrada por el tren;
+tras ponerse el tren Os 3229 en movimiento, registró "algún grito". Al mirar el tren que se ponía en marcha, vio en las últimas puertas de entrada del último DV a una pasajera atrapada, que era arrastrada por el tren;
 •
-informó inmediatamente a la jefa de estación de la estación Jablůnka de la situación surgida y, al mismo tiempo, le solicitó el paro de emergencia del tren con la orden "GENERÁLNÍ STOP" y la activación del IZS;
+informó inmediatamente de la situación a la jefa de estación de la estación Jablůnka y, al mismo tiempo, le solicitó la parada de emergencia del tren con la orden "GENERÁLNÍ STOP" y la activación del IZS;
 •
 durante la comunicación con la jefa de estación, vio la liberación de la pasajera atrapada y su caída al borde del andén y al espacio entre el borde del andén y la vía por la que circulaba;
+•
 el tren continuó su marcha y se detuvo tras recorrer unos 100 m desde la liberación de la pasajera arrastrada;
 •
 junto con el testigo n.º 2, corrió hacia la pasajera herida;
 •
-durante la prestación de los primeros auxilios a la pasajera, fue contactado por teléfono móvil por la despachadora del ZZS de Valašské Meziříčí, que le dio instrucciones para la prestación de ayuda adicional hasta la llegada del vehículo del ZZS.
+durante la prestación de los primeros auxilios a la pasajera, fue contactado por teléfono móvil por la despachadora del ZZS Valašské Meziříčí, que le dio instrucciones para la prestación de ayuda adicional hasta la llegada del vehículo del ZZS.
 Testigo n.º 2
-  – del Acta oficial con el testigo, elaborada por la Policía (PČR), entre otros se desprende:
+  – del Acta oficial con el testigo, elaborada por la Policía, entre otros se desprende:
 •
 esperaba, junto con su perro, junto al edificio de la estación de la parada Bystřička la llegada del tren Os 3229, con el que debía llegar la testigo n.º 3;
 •
-tras ponerse el tren en marcha, oyó gritos. Al mirar el tren Os 3229 que arrancaba, vio en las últimas puertas de acceso, de la última DV, a una pasajera atrapada, que era arrastrada por el tren. Al mismo tiempo, registró la presencia del testigo n.º 1;
+tras ponerse el tren en movimiento, oyó gritos. Al mirar el tren Os 3229 que se ponía en marcha, vio en las últimas puertas de entrada, del último DV, a una pasajera atrapada, que era arrastrada por el tren. Al mismo tiempo, registró la presencia del testigo n.º 1;
 •
-junto con la testigo n.º 3, llamaron sin éxito al tren que arrancaba, con el fin de detenerlo;
+junto con la testigo n.º 3, llamaron sin éxito al tren que se ponía en marcha, con el fin de detenerlo;
 •
 no es consciente de hasta dónde fue arrastrada la pasajera ni de cómo se produjo su liberación y caída;
 •
-corrió junto con el testigo n.º 1 hacia la pasajera herida. No recuerda en qué posición se encontraba la pasajera. Para prestar los primeros auxilios utilizó el equipo de la farmacilla de su automóvil particular;
+junto con el testigo n.º 1, corrió hacia la pasajera herida. No recuerda en qué posición se encontraba la pasajera. Para prestar los primeros auxilios, utilizó el equipo del botiquín de su automóvil particular;
 •
-prestó ayuda a la pasajera herida junto con el testigo n.º 1 hasta la llegada del ZZS de Valašské Meziříčí.
-
+prestó ayuda a la pasajera herida junto con el testigo n.º 1 hasta la llegada del ZZS Valašské Meziříčí.
 
 ## Página 25
+
 
 Testigo n.º 3
   – del Acta oficial con la testigo, elaborada por la Policía (PČR), entre otros se desprende:
@@ -695,8 +750,8 @@ recuerda que el tren continuó su marcha y se acercaron a ella "algunas personas
 El gestor ferroviario SŽDC, s. o., tiene un sistema de garantía de seguridad adoptado con base en las disposiciones de la Ley n.º 266/1994 Sb. En la organización marco del gestor ferroviario relacionada con las circunstancias de la aparición de la MU en cuestión, se constató la deficiencia indicada a continuación.
 Los procedimientos del gestor ferroviario SŽDC, s. o., para garantizar la bajada y el acceso de los pasajeros en el periodo invernal, en cuya base se retira la nieve y el hielo de la superficie de las zonas destinadas a la bajada y el acceso de los pasajeros en las paradas del tramo de la línea Valašské Meziříčí – Vsetín, es decir, incluida la parada Bystřička, se contienen exclusivamente en:
 
-
 ## Página 26
+
 
 "Directriz organizativa del director de la Dirección Regional de Olomouc n.º OS OŘ OLC 300/9
 •
@@ -714,8 +769,8 @@ Los requisitos para los empleados del gestor ferroviario y del transportista, en
 y por las normas internas del gestor ferroviario y del transportista.
 En el momento de la aparición de la MU en cuestión, todas las personas del gestor ferroviario SŽDC, s. o., y del transportista ČD, a. s., involucradas en la MU y que realizaban actividades en la explotación de la vía y del transporte ferroviario eran profesionalmente idóneas para el desempeño de la función que ocupaban.
 
-
 ## Página 27
+
 
 ### 3.2.3 Procedimiento de control interno de seguridad y sus resultados
 En los procedimientos de control interno de seguridad del gestor ferroviario se constató, en relación con las circunstancias de la aparición de esta MU, una deficiencia. El gestor ferroviario, en la comprobación de la limpieza de la superficie del andén de la parada Brňov y de la parada Bystřička de nieve y hielo, se centró únicamente en el cumplimiento de los procedimientos por él establecidos, contenidos en la Medida del director de la Dirección Regional, que ordenaba limpiar la superficie de los andenes en una longitud de 80 m. Sin embargo, el gestor ferroviario no realizó una comprobación de la corrección de esta medida, es decir, si se garantiza la bajada segura de los pasajeros de la DV, en particular de los pasajeros con discapacidad y de los pasajeros con capacidad limitada de movimiento y orientación, a un andén limpio de nieve y hielo, dada la longitud útil de los andenes y la longitud de los trenes de pasajeros, véase el punto 3.2.1.
@@ -749,6 +804,7 @@ la reparación media en taller "ES" debe realizarse tras recorrer de 200000 a 24
 En el manual de mantenimiento, en la sección "Techo", punto 3 "Mando de puertas", se regula el contenido del mantenimiento del equipo eléctrico del mando de las puertas de acceso en los distintos tipos de reparaciones (niveles de mantenimiento), cuando:
 
 ## Página 28
+
 
 en la revisión periódica pequeña "EM" se comprueban las válvulas electropneumáticas
 ◦
@@ -795,8 +851,8 @@ reparación periódica de ajuste "EVY" (corresponde a la reparación media segú
 ◦
 documentación del fabricante) con límite superior de km recorridos de 360000 km;
 
-
 ## Página 29
+
 
 reparación periódica principal "EH" con límite superior de km recorridos de 720000 km;
 ◦
@@ -835,8 +891,8 @@ bajo el n.º de orden 6 "Caja del vehículo", según el punto 6.10, comprobació
 ◦
 el mando de las puertas de acceso;
 
-
 ## Página 30
+
 
 bajo el n.º de orden 6 "Caja del vehículo", según el punto 6.26, comprobación del funcionamiento de las puertas de
 ◦
@@ -865,8 +921,8 @@ En los procedimientos de control interno del transportista centrados en la actua
 El propietario de la vía férrea, categoría estatal, Horní Lideč st. hr. – Hranice na Moravě, es la República Checa en derecho de gestión de la Administración de la Vía de Circulación Ferroviaria, organización estatal, con domicilio en Dlážděná 1003/7, Praha 1 – Nové město, CP 110 00.
 El explotador de la vía férrea, categoría estatal, Horní Lideč st. hr. – Hranice na Moravě, es el SŽDC, s. o., con domicilio en Dlážděná 1003/7, Praha 1 – Nové Město, CP 110 00, en virtud de la Autorización Administrativa emitida por el DÚ el 29. 5. 2008, bajo el n.º de referencia: 3-4277/07-DÚ/Le, n.º de registro: ÚP/2008/9002, en su versión vigente.
 
-
 ## Página 31
+
 
 El explotador de la vía era titular del Certificado de Seguridad del Explotador de la Vía, emitido por el DÚ el 30. 06. 2008, bajo el n.º de referencia: 3-4274/07- DÚ-Pd, n.º de registro: OSPD/2008/007.
 El transportista del tren Os 3229 eran las ČD, a. s., con domicilio en Nábřeží L. Svobody 1222, Praha 1, CP 110 15, en virtud de la Licencia de Transportista concedida por decisión del DÚ el 17. 09. 2003, bajo el n.º de referencia: 3-2169/03-DÚ/Bp, n.º de registro: L/2003/9000, en su versión vigente.
@@ -895,6 +951,7 @@ art. 15 de la directriz del transportista Directriz para las series 460, 560:
 
 ## Página 32
 
+
 art. 16 de la instrucción del operador. Instrucción para las series 460, 560:
 •
 ### «Si el indicador señala puertas abiertas incluso cuando las puertas están cerradas centralmente, el maquinista debe suponer que algún pasajero ha abierto alguna puerta, que hay un cuerpo extraño entre las puertas o que se ha producido una avería. Si tras un desbloqueo y cierre repetidos de las puertas el indicador señala puertas abiertas, aunque al mirar el conjunto de vehículos todas las puertas parezcan cerradas, el maquinista ordenará al personal de tren que investigue la causa. El personal de tren comprueba primero la posición de los picaportes de las puertas por el interior. Si la avería no puede eliminarse de inmediato, la puerta averiada se asegura en posición cerrada y se marca con una etiqueta bilateral 735 1 5337 «Puerta inutilizable» de acuerdo con la norma ČSD V 62. En la primera ocasión adecuada, el maquinista eliminará la avería, si es posible. Cuando se trate exclusivamente de una avería de la señalización de puertas, el maquinista anulará permanentemente la acción de la señalización en dichas puertas.»;
@@ -915,8 +972,8 @@ Los componentes de la infraestructura no guardaban relación causal con la apari
 ### 3.4.3 Medios de comunicación
 Los medios de comunicación relacionados con el MU se utilizaron en relación con la aparición del MU únicamente después de la misma, a saber:
 
-
 ## Página 33
+
 
 teléfono móvil del testigo nº 1, jefe de la PS Vsetín;
 •
@@ -935,8 +992,8 @@ La construcción y el circuito de la señalización del estado de las puertas de
 ### El HDV de la serie 460, es decir, también el HDV 460.075-5 y 460.076-3, no está equipado, de conformidad con las PT aprobadas, con un dispositivo que, con las puertas de acceso abiertas o no cerradas completamente y con la señalización de apertura de las puertas de acceso mediante el indicador de estado de las puertas en la cabina del maquinista, impidiera la puesta en movimiento del HDV.
 En el estado técnico del DV 460.076-3, es decir, también de las puertas de acceso traseras derechas nº 23, incluida la función de señalización del estado de dichas puertas mediante los indicadores de estado de las puertas de acceso en la cabina del maquinista del HDV 460.075-5, desde el que se controlaba la marcha del tren Os 3229, no se detectaron deficiencias. El HDV 460.075-5 y 460.076-3 fueron utilizados por el operador ferroviario en el momento de la aparición del MU, en el
 
-
 ## Página 34
+
 
 ejercicio del transporte ferroviario, de conformidad con lo dispuesto en el § 35 apartado 1 letra d) de la ley nº 266/1994 Sb.
 Durante la investigación de las causas y circunstancias del MU en cuestión, se realizó una verificación de la función del cierre central, del bloqueo neumático de las puertas de acceso y de la señalización de la posición de las puertas mediante el indicador de estado de las puertas de acceso en la cabina del maquinista, de forma aleatoria en las unidades eléctricas 460.001-1/073-0 y 460.085-4/086-2. Progresivamente desde el borde inferior se introducían prismas de 30 cm en 30 cm, que a continuación se aprisionaban entre las juntas de caucho de las puertas de acceso exteriores y las juntas de caucho del marco de las puertas, respectivamente las juntas de caucho de las puertas de acceso del espacio de acceso central de los DV insertados.
@@ -975,222 +1032,172 @@ El HDV 460.075-5, desde el que se controlaba la marcha del tren Os 3229, estaba 
 
 ## Página 35
 
-abiertas, véase más abajo;
-18:37:01 h el tren se detuvo en la parada técnica Bystřička con un retraso de 7 min y 1 s;
+abierto, véase más abajo;
+18:37:01 h el tren se detuvo en la parada Bystřička con un retraso de 7 min y 1 s;
 •
-18:37:02 h el indicador de estado de las puertas de acceso señalizó la apertura de las puertas 
+18:37:02 h el indicador de estado de las puertas de acceso señaliza la apertura de las 
 •
-derechas;
-18:37:19 h el maquinista colocó el mando de las puertas de acceso derechas en la posición «Z» 
+puertas derechas;
+18:37:19 h el maquinista colocó el mando de las puertas de acceso derechas en la 
 •
-cerrado. El indicador de estado de las puertas de acceso señalizó la apertura de las puertas 
-de acceso;
-### 18:37:24 h el maquinista puso el tren en movimiento – hora de producción del SU. El indicador 
+posición "Z" cerrado. El indicador de estado de las puertas de acceso señala la 
+apertura de las puertas de acceso;
+### 18:37:24 h el maquinista puso el tren en marcha – hora de producción del MU. El 
 •
-### de estado de las puertas de acceso continuó señalizando las puertas de acceso abiertas, véase 
-### el punto 3.5.1;
-### 18:37:41 h, tras recorrer 80 m desde el punto de arranque en la parada técnica Bystřička, el 
+indicador de estado de las puertas de acceso seguía señalizando las puertas de 
+acceso abiertas, véase el punto 3.5.1;
+### 18:37:41 h, tras recorrer 80 m desde el punto de arranque en la parada Bystřička, el 
 •
-### maquinista, a una velocidad de 36 km·h-1, colocó el mando de las puertas de acceso 
-### derechas en la posición «O» abierto, véase el punto 3.5.1. El tren continuó acelerando, el 
-### indicador de estado de las puertas de acceso señalizaba las puertas de acceso abiertas;
-18:37:42 h, tras recorrer otros 11 m, el maquinista, a una velocidad de 40 km·h-1, colocó 
+### maquinista, a una velocidad de 36 km·h-1, colocó el mando de las puertas de 
+### acceso derechas en la posición "O" abierto, véase el punto 3.5.1. El tren 
+seguía acelerando, el indicador de estado de las puertas de acceso señalizaba las 
+puertas de acceso abiertas;
+18:37:42 h, tras recorrer otros 11 m, el maquinista, a una velocidad de 40 km·h-1, 
 •
-### el mando de las puertas de acceso derechas en la posición «Z» cerrado. El indicador de 
-### estado de las puertas de acceso seguía señalizando la apertura de las puertas;
-18:37:44 h, tras recorrer 115 m desde el punto de arranque, a una velocidad de 44 km·h-1, el 
+### colocó el mando de las puertas de acceso derechas en la posición "Z" cerrado. El 
+indicador de estado de las puertas de acceso seguía señalizando la apertura de las 
+puertas;
+18:37:44 h, tras recorrer 115 m desde el punto de arranque, a una velocidad de 
 •
-indicador de estado de las puertas de acceso señalizó el cierre de las puertas de acceso;
-18:37:52 h, tras recorrer una distancia de 238 m desde el punto de arranque en la parada 
+44 km·h-1, el indicador de estado de las puertas de acceso señalizó el cierre de las 
+puertas de acceso;
+18:37:52 h, tras recorrer una distancia de 238 m desde el punto de arranque en la 
 •
-técnica Bystřička, a una velocidad de 65 km·h-1, en respuesta a la orden «PARADA GENERAL», 
-se desconectó la válvula neumatoeléctrica de la parte móvil del VZ;
-18:37:54 h, a una velocidad de 67 km·h-1, entró en funcionamiento el freno rápido. Se registra 
+parada Bystřička, a una velocidad de 65 km·h-1, en respuesta a la orden "PARADA 
+GENERAL", se desactivó la válvula electropneumática de la parte móvil del VZ;
+18:37:54 h, a una velocidad de 67 km·h-1, actuó el freno rápido. Se registra una 
 •
-una caída de presión en la tubería del freno automático continuo por debajo de 3 bar, se 
-desconectó el interruptor principal con la consiguiente desconexión del colector de corriente 
-de tracción;
-18:38:06 h, tras recorrer una distancia de 414 m desde el punto de arranque en la parada 
+caída de presión en la tubería del freno automático continuo por debajo de 3 bar, 
+se desconectó el interruptor principal con la consiguiente caída del colector de 
+corriente de tracción;
+18:38:06 h, tras recorrer una distancia de 414 m desde el punto de arranque en la 
 •
-técnica Bystřička, el tren se detuvo de emergencia en la vía;
+parada Bystřička, el tren se detuvo de emergencia en la vía;
 18:39:35 h se repuso la presión en la tubería del freno automático continuo;
 •
-### 18:39:53 h el maquinista puso el tren en movimiento con la parte móvil del VZ desconectada, 
+### 18:39:53 h el maquinista puso el tren en marcha con la parte móvil del VZ 
 •
-véase el punto 3.5.1. Con un arranque suave se alcanzó una velocidad de 86 km·h-1;
+desconectada, véase el punto 3.5.1. Con un arranque suave se alcanzó una velocidad 
+de 86 km·h-1;
 18:42:25 h el tren se detuvo de nuevo de forma excepcional en la vía mediante frenado 
 •
-operativo;
-18:42:48 h el maquinista, tras conectar la parte móvil del VZ, puso el tren en movimiento;
+de servicio;
+18:42:48 h el maquinista, tras conectar la parte móvil del VZ, puso el tren en marcha;
 •
 18:44:40 h el tren se detuvo en la estación Jablůnka.
 •
-De lo anterior se deduce que el tren Os 3229 permaneció detenido en la parada técnica 
-Bystřička durante 23 s. El tiempo transcurrido entre la detención y la colocación del mando 
-de las puertas de acceso derechas por parte del maquinista en la posición «Z» cerrado fue de 
-18 s. Dentro de este tiempo, la jefa de tren, según su declaración, advirtió a los pasajeros con 
-el silbato de señales de la salida prevista del tren y, a continuación, con la luz blanca de la 
-linterna manual dio al maquinista, en dirección a la parte delantera del tren, la señal manual 
-«Autorización para la salida». El maquinista, según su declaración, tras recibir esta señal, se 
-sentó en el asiento del puesto de conducción y colocó el mando de las puertas de acceso 
-derechas en la posición «Z» cerrado. Esta actividad de la jefa de tren y del maquinista pudo 
-durar mín. 3 s. El tiempo reservado para el descenso de los pasajeros pudo ser entonces de 
-15 s. Este tiempo debería ser suficiente para un pasajero preparado para descender del DV 
-(que espera la detención del tren).  
-Del análisis de los datos registrados y de las variables complementarias sobre la manipulación 
-del mando de las puertas de acceso durante la circulación del tren Os 3229 en el tramo 
-Přerov–Bystřička se deduce que el maquinista en la parada Osek nad Bečvou, en la estación 
-Lipník nad Bečvou, en la estación Drahotuše, 
-
+De lo anterior se deduce que el tren Os 3229 permaneció detenido en la parada 
+Bystřička durante 23 s. El tiempo transcurrido entre la detención y la colocación del 
+mando de las puertas de acceso derechas por parte del maquinista en la posición "Z" 
+cerrado fue de 18 s. Durante este tiempo, la jefa de tren, según su declaración, avisó a 
+los pasajeros con el silbato de señalización de la salida prevista del tren y, a 
+continuación, con la luz blanca de la linterna manual, dirigiéndose hacia la parte 
+delantera del tren, dio al maquinista la señal manual "Autorización para la salida". 
+El maquinista, según su declaración, tras recibir esta señal, se sentó en el asiento 
+del maquinista en la cabina y colocó el mando de las puertas de acceso derechas en 
+la posición "Z" cerrado. Esta actividad de la jefa de tren y del maquinista pudo 
+durar un mínimo de 3 s. El tiempo reservado para el descenso de los pasajeros 
+podría haber sido de 15 s. Este tiempo debería ser suficiente para un pasajero 
+preparado para descender del DV (que espera la detención del tren).  
+Del análisis de los datos registrados y de las variables complementarias sobre la 
+manipulación del mando de las puertas de acceso durante el trayecto del tren Os 
+3229 en el tramo Přerov–Bystřička se deduce que el maquinista, en la parada Osek 
+nad Bečvou, en la estación Lipník nad Bečvou, en la estación Drahotuše,
 
 ## Página 36
 
-### en la estación Hranice na Moravě město, en la parada Teplice nad Bečvou, en la parada 
-### Černotín, en la parada Špičky, en la estación Hustopeče nad Bečvou, en la estación 
-### Lhotka nad Bečvou, en la estación Valašské Meziříčí, en la parada Brňov, en la parada técnica 
-### Bystřička, en la estación Jablůnka y en la estación Vsetín colocó el mando de las puertas de 
-### acceso en la posición «O» abierto, y con ello permitió la apertura local de las puertas de 
-### acceso con el pomo, incluso antes de la detención del tren, y ello a una velocidad de hasta 
-### 8 km·h-1.
-La constatación indicada, en relación con lo dispuesto en el art. 14 de la Directiva para las 
-series 460, 560 y en el § 33 apartados 1 y 2 del decreto nº 173/1995 Sb., constituye un 
-incumplimiento del § 35 apartado 1 letra a) de la ley nº 266/1994 Sb. Dadas las causas y 
-circunstancias de producción del SU en cuestión, la constatación indicada no puede 
-valorarse en relación causal con la producción del SU.
-El maquinista del tren Os 3229, en el mismo turno de servicio y antes del tren Os 3229, 
-condujo el tren Os 3324 (Studénka – Přerov). La composición del tren Os 3324 estaba 
-formada por los mismos DV que la composición del tren posterior Os 3229. El maquinista 
-dirigió la circulación del tren desde el puesto de conducción del HDV 460.076-3. De los 
-datos registrados de la circulación del tren Os 3324 se deduce, entre otros, que en:
-16:31:16 h el tren se detuvo en la estación Polom. Al mismo tiempo, el maquinista colocó 
+### en la estación de Hranice na Moravě město, en la parada de Teplice nad Bečvou, en la parada 
+### de Černotín, en la parada de Špičky, en la estación de Hustopeče nad Bečvou, en la estación de Lhotka nad 
+### Bečvou, en la estación de Valašské Meziříčí, en la parada de Brňov, en la nz. de Bystřička, en la estación de 
+Jablůnka y en la estación de Vsetín colocó el mando de las puertas de acceso en la posición «O» abierto, 
+y con ello permitió la apertura local de las puertas de acceso con la manija, incluso antes de la 
+detención del tren, y esto a una velocidad de hasta 8 km·h-1.
+La constatación indicada constituye, en relación con lo dispuesto en el artículo 14 de la Instrucción para las series 460, 
+560 y el § 33 apartados 1 y 2 del decreto nº 173/1995 Sb., un incumplimiento del § 35 apartado 1 letra a) 
+de la ley nº 266/1994 Sb. Dadas las causas y circunstancias de la aparición de la MU en cuestión, la 
+constatación indicada no puede valorarse en relación causal con la aparición de la MU.
+El maquinista del tren Os 3229, en el mismo turno, antes del tren Os 3229, condujo el tren 
+Os 3324 (Studénka – Přerov). La composición del tren Os 3324 estaba formada por las mismas DV 
+que la composición del tren posterior Os 3229. El maquinista condujo el tren desde la cabina de 
+mando del maquinista del HDV 460.076-3. De los datos registrados de la circulación del tren Os 3324 se desprende, entre otros, 
+que a las:
+16:31:16 h el tren se detuvo en la estación de Polom. A la misma hora el maquinista colocó 
 •
 el mando de las puertas de acceso derechas en la posición «O» abierto;
 16:38:16 h el maquinista colocó el mando de las puertas de acceso derechas en la posición «Z» 
 •
-cerrado. El indicador de estado de las puertas de acceso señalizaba las puertas de acceso 
-abiertas;
-### 16:38:20 h el maquinista puso el tren en movimiento. El indicador de estado de las 
+cerrado. El indicador de estado de las puertas de acceso señalizaba las puertas de acceso abiertas;
+### 16:38:20 h el maquinista puso el tren en movimiento. El indicador de estado de las puertas de 
 •
-### puertas de acceso continuó señalizando las puertas de acceso abiertas. Dado el tiempo 
-### de colocación del mando de las puertas de acceso derechas en la posición «Z» cerrado 
-### y el tiempo de salida de la estación Polom, es evidente que el maquinista no investigó la 
-### causa del cierre incompleto de las puertas de acceso, que a su indicación la jefa de 
-### tren no comprobó la posición de los pomos de las puertas y que el maquinista no 
-### subsanó de inmediato la avería eventual;
-16:39:00 h, el maquinista, durante la circulación y a una velocidad de 39 km·h-1, colocó 
+### acceso seguía señalizando las puertas de acceso abiertas. Dado el tiempo de 
+### colocación del mando de las puertas de acceso derechas en la posición «Z» cerrado 
+### y la hora de salida de la estación de Polom, es evidente que el maquinista no 
+investigó la causa del cierre incompleto de las puertas de acceso; a su indicación, el jefe de tren 
+no comprobó la posición de las manijas de las puertas y el maquinista no subsanó 
+inmediatamente la avería en caso de existir;
+16:39:00 h, el maquinista, en marcha a una velocidad de 39 km·h-1, colocó temporalmente 
 •
-### temporalmente el mando de las puertas de acceso derechas en la posición «O» abierto 
-### y de vuelta a la posición «Z» cerrado. El tren continuó acelerando, el indicador de 
-### estado de las puertas de acceso, incluso tras esta maniobra con el mando, señalizó 
-### las puertas de acceso abiertas hasta la detención en la parada Bělotín;
-16:41:59 h el tren se detuvo en la parada Bělotín;
+### el mando de las puertas de acceso derechas en la posición «O» abierto y de vuelta a la posición 
+### «Z» cerrado. El tren continuó acelerando, el indicador de estado de las puertas de acceso también tras 
+esta maniobra con el mando seguía señalizando las puertas de acceso abiertas hasta la 
+detención en la parada de Bělotín;
+16:41:59 h el tren se detuvo en la parada de Bělotín;
 •
 16:42:01 h el maquinista colocó el mando de las puertas de acceso derechas en la posición «O» 
 •
-abierto. El indicador de estado de las puertas de acceso continuó señalizando las puertas de 
+abierto. El indicador de estado de las puertas de acceso seguía señalizando las puertas de 
 acceso abiertas;
 16:42:14 h el maquinista colocó el mando de las puertas de acceso derechas en la posición «Z» 
 •
 cerrado. El indicador de estado de las puertas de acceso seguía señalizando las puertas de 
 acceso abiertas;
-### 16:42:20 h el maquinista puso el tren en movimiento. El indicador de estado de las 
+### 16:42:20 h el maquinista puso el tren en movimiento. El indicador de estado de las puertas de 
 •
-### puertas de acceso continuó señalizando las puertas de acceso abiertas. Dado el tiempo 
-### de colocación del mando de las puertas de acceso derechas en la posición «Z» cerrado 
-### y el tiempo de salida de la parada Bělotín, es evidente que el maquinista de nuevo no 
-### investigó la causa del cierre incompleto de las puertas de acceso, que a su indicación 
-### la jefa de tren no comprobó la posición de los pomos de las puertas y que el maquinista 
-### no subsanó de inmediato la avería eventual. La señalización de las puertas de acceso 
-### abiertas se mantuvo hasta la detención en la estación Hranice na Moravě;
-16:46:39 h, antes de la detención en la estación Hranice na Moravě, a una velocidad de 
+### acceso seguía señalizando las puertas de acceso abiertas. Dado el tiempo de 
+### colocación del mando de las puertas de acceso derechas en la posición «Z» cerrado 
+### y la hora de salida de la parada de Bělotín, es evidente que el maquinista de nuevo no 
+investigó la causa del cierre incompleto de las puertas de acceso; a su indicación, el jefe de tren 
+no comprobó la posición de las manijas de las puertas y el maquinista no subsanó 
+### inmediatamente la avería en caso de existir. La señalización de las puertas de acceso abiertas 
+persistió hasta la detención en la estación de Hranice na Moravě;
+16:46:39 h, antes de la detención en la estación de Hranice na Moravě, a una velocidad de 6 km·h-1, 
 •
-### 6 km·h-1, colocó el mando de las puertas de acceso izquierdas en la posición «O» abierto. 
-### Con ello 
-
+### colocó el mando de las puertas de acceso izquierdas en la posición «O» abierto. Con ello
 
 ## Página 37
 
-### permitió la apertura local de las puertas de acceso con el pomo y la apertura de las 
-### puertas de acceso no cerradas, incluso antes de la detención del tren;
-16:47:22 h puso el tren en movimiento en la estación Hranice na Moravě. Los indicadores de 
+permitió la apertura local de las puertas de acceso con la manivela y la apertura de las puertas de acceso no cerradas, aún antes de la parada del tren;
+a las 16:47:22 h puso el tren en movimiento en la est. Hranice na Moravě. Los indicadores de estado
 •
-### estado de las puertas de acceso (izquierdas y derechas) señalizaban las puertas de acceso 
-### cerradas.
-### La constatación indicada, en relación con lo dispuesto en los arts. 14, 15 y 16 de la 
-### Directiva para las series 460, 560 y en el § 33 apartados 1 y 2 del decreto nº 173/1995 Sb., 
-### constituye un incumplimiento del § 35 apartado 1 letra a) de la ley nº 266/1994 Sb. Dadas 
-### las causas y circunstancias de producción del SU en cuestión, la constatación indicada no 
-### puede valorarse en relación causal con la producción del SU.
+de las puertas de acceso (izquierdas y derechas) señalizaban las puertas de acceso cerradas.
+### La comprobación indicada, en relación con lo dispuesto en los artículos 14, 15 y 16 de la Directiva para las series 460, 560 y el § 33 apartados 1 y 2 del decreto nº 173/1995 Sb., constituye un incumplimiento del § 35 apartado 1 letra a) de la ley nº 266/1994 Sb. Dadas las causas y circunstancias del origen de la mencionada MU, la comprobación indicada no puede valorarse en relación causal con el origen de la MU.
 ## 3.5
 ### Documentación sobre el sistema de explotación
-### 3.5.1 Medidas adoptadas por los empleados del gestor de la infraestructura y del 
-### transportista en lo que respecta a la dirección, señalización y seguridad del tráfico
-Tras la detención del tren Os 3229 en la parada técnica Bystřička, la jefa de tren debía 
-supervisar el descenso y el ascenso de los pasajeros. Cuando la jefa de tren, según su 
-declaración, adquirió la impresión de que el descenso y el ascenso de los pasajeros había 
-finalizado, con el silbato de señales advirtió a los pasajeros desde las puertas de acceso 
-traseras del penúltimo DV del tren de la salida prevista del tren y, a continuación, con la 
-luz blanca de la linterna manual dio al maquinista, en dirección a la parte delantera del tren, 
-la señal manual «Autorización para la salida». El maquinista, según su declaración, recibió 
-esta señal en las puertas abiertas del puesto de conducción. Tras recibir esta señal, el 
-maquinista se sentó detrás de la pupitre de mando del puesto y colocó el mando de las 
-puertas de acceso derechas en la posición «Z» cerrado. En el periodo anterior a la colocación 
-del mando de las puertas de acceso derechas en la posición «Z» por parte del maquinista, 
-comenzó el descenso de una pasajera desde las últimas puertas de acceso del DV trasero del 
-tren. No fue posible determinar de forma fehaciente la hora exacta en que esta pasajera 
-comenzó su descenso. Durante su descenso, cuando aún no se había colocado firmemente en el 
-andén, las puertas de acceso del DV comenzaron a cerrarse centralmente y atraparon el 
-miembro superior izquierdo de la pasajera que descendía entre los perfiles de goma del marco 
-y la hoja de la puerta de tal forma que no pudo liberarlo. El indicador de estado de las puertas 
-de acceso derechas, junto con el resplandor del LED rojo, señalizó al maquinista las puertas de 
-acceso abiertas. El maquinista no pudo determinar a partir de la señalización en el puesto de 
-conducción de qué puertas de acceso concretas se trataba. A pesar de que el maquinista 
-registró la señalización de puertas abiertas en el puesto de conducción, no investigó la causa 
-del cierre incompleto de las puertas de acceso, no la determinó y puso el tren Os 3229 en 
-movimiento con la pasajera atrapada. 
-### La constatación indicada, en relación con lo dispuesto en los arts. 15 y 16 de la Directiva 
-### para las series 460, 560 y en el § 33 apartados 1 y 2 del decreto nº 173/1995 Sb., constituye 
-### un incumplimiento del § 35 apartado 1 letra a) de la ley nº 266/1994 Sb. 
-La pasajera atrapada fue arrastrada por el tren con las extremidades inferiores por el andén y 
-en el espacio entre el borde del andén y el raíl derecho del carril por el que circulaba el 
-material rodante, hasta el momento en que el maquinista, durante la circulación del tren Os 
-3229, colocó el mando de las puertas de acceso derechas en la posición «O» abierto y 
-### de inmediato de vuelta a la posición «Z» cerrado. 
-La constatación indicada, en relación con lo dispuesto en el art. 14 de la Directiva para las 
-series 460, 560 y en el § 33 apartados 1 y 2 del decreto nº 173/1995 Sb., constituye un 
-incumplimiento del § 35 apartado 1 letra a) de la ley nº 266/1994 Sb. Dadas las causas y 
-circunstancias de producción del SU en cuestión, la constatación indicada no puede 
-valorarse en relación causal con la producción del SU. Mediante la manipulación no permitida 
-del mando de las puertas de acceso durante la circulación del tren, el maquinista impidió 
-inconscientemente un daño más extenso para la salud de la pasajera arrastrada con 
-consecuencias fatales, que habría tenido como consecuencia su arrastre adicional.
+### 3.5.1 Medidas adoptadas por los empleados del gestor de la infraestructura y del transportista en lo que respecta a la conducción, la señalización y la seguridad del tráfico
+Tras la parada del tren Os 3229 en la nz. Bystřička, la jefa de tren debía supervisar la bajada y el embarque de los pasajeros. Cuando la jefa de tren, según su declaración, adquirió la impresión de que la bajada y el embarque de los pasajeros había finalizado, desde las puertas de acceso traseras del penúltimo DV del tren avisó a los pasajeros con el silbato de señal de la salida prevista del tren y a continuación, con la luz blanca de la linterna manual, dio al maquinista, en dirección hacia la cabeza del tren, la señal manual «Autorización para la salida». El maquinista, según su declaración, recibió esta señal en las puertas abiertas de la cabina del maquinista. Tras recibir esta señal, el maquinista se sentó ante el pupitre de mando de la cabina y accionó el mando de las puertas de acceso derechas a la posición «Z» cerrado. En el momento anterior a que el maquinista accionara el mando de las puertas de acceso derechas a la posición «Z», una pasajera inició la bajada desde las últimas puertas de acceso del DV trasero del tren. La hora exacta del inicio de la bajada de esta pasajera no pudo determinarse de forma verificable. Durante su bajada, cuando aún no se había colocado firmemente en el andén, las puertas de acceso del DV comenzaron a cerrarse centralmente y atraparon la extremidad superior izquierda de la pasajera que bajaba entre los perfiles de goma del marco y la hoja de la puerta de tal forma que no pudo liberarla. El indicador de estado de las puertas de acceso derechas, junto con el resplandor del LED rojo, señalizaba al maquinista las puertas de acceso abiertas. El maquinista no pudo determinar, a partir de la señalización en la cabina del maquinista, de qué puertas de acceso concretas se trataba. A pesar de que el maquinista registró la señalización de puertas abiertas en la cabina del maquinista, no investigó la causa del no cierre de las puertas de acceso, no la determinó y puso el tren Os 3229 en movimiento con la pasajera atrapada.
+### La comprobación indicada, en relación con lo dispuesto en los artículos 15 y 16 de la Directiva para las series 460, 560 y el § 33 apartados 1 y 2 del decreto nº 173/1995 Sb., constituye un incumplimiento del § 35 apartado 1 letra a) de la ley nº 266/1994 Sb.
+La pasajera atrapada fue arrastrada por el tren con las extremidades inferiores por el andén y en el espacio entre el borde del andén y el raíl derecho del VT circulado hasta el momento en que el maquinista, durante la marcha del tren Os 3229, accionó el mando de las puertas de acceso derechas a la
+### posición «O» abierto e inmediatamente de vuelta a la posición «Z» cerrado.
+La comprobación indicada, en relación con lo dispuesto en el artículo 14 de la Directiva para las series 460, 560 y el § 33 apartados 1 y 2 del decreto nº 173/1995 Sb., constituye un incumplimiento del § 35 apartado 1 letra a) de la ley nº 266/1994 Sb. Dadas las causas y circunstancias del origen de la mencionada MU, la comprobación indicada no puede valorarse en relación causal con el origen de la MU. Con la manipulación no permitida del mando de las puertas de acceso durante la marcha del tren, el maquinista impidió inconscientemente un daño más extenso para la salud de la pasajera arrastrada con consecuencias fatales, que habría tenido como consecuencia su arrastre adicional.
 
 ## Página 38
 
-Las puertas de acceso derechas del tren en marcha, no cerradas y no aseguradas, se abrieron y cerraron brevemente. Con ello se produjo la liberación de la viajera aprisionada, su caída al borde del andén y, por efecto de la energía cinética, posteriormente al espacio comprendido entre el borde del andén y la vía circulada.
-Testigo del siniestro fue un empleado del gestor de la infraestructura SŽDC, s. o., que llegó a la est. Bystřička en el tren Os 3216 (Horní Lideč – Hranice na Moravě) y, en el momento de producirse el siniestro, comunicaba por teléfono móvil con la jefa de estación de žst. Jablůnka. Sobre la lesión sufrida por la viajera arrastrada, durante dicha conversación, informó inmediatamente a la jefa de estación y corrió hacia la viajera herida. La jefa de estación de žst. Jablůnka, ante la situación creada, de conformidad con los procedimientos tecnológicos del gestor de la infraestructura, reaccionó enviando la orden «GENERÁLNÍ STOP» para la detención de trenes y, a continuación, activó los servicios del IZS. Al alcance del ZRDS de žst. Jablůnka fueron detenidos
-### los trenes Os 3229 y Os 3216. El maquinista del tren Os 3229, tras la parada de emergencia del tren en la vía por la orden «GENERÁLNÍ STOP», no estableció contacto con el gestor de la infraestructura y, sin la autorización del gestor de la infraestructura, puso el tren en movimiento.
-### El hallazgo indicado, en relación con lo dispuesto en el art. 53 de la norma del transportista ČD Z11 y en el § 33 apartados 1 y 2 del decreto nº 173/1995 Sb., constituye un incumplimiento del § 35 apartado 1 letra a) de la ley nº 266/1994 Sb. Dadas las causas y circunstancias de la producción del siniestro en cuestión, dicho hallazgo no puede valorarse en relación causal con la producción del siniestro.
-El maquinista puso el tren en movimiento con la parte móvil del VZ desconectada.
-### El hallazgo indicado, en relación con lo dispuesto en el art. 91 de la norma del transportista
-### ČSD T 108 y en el art. 5, Parte II, Anexo 3, y en el § 33 apartados 1 y 2 del decreto nº 173/1995 Sb.,
-### constituye un incumplimiento del § 35 apartado 1 letra a) de la ley nº 266/1994 Sb. Dadas las causas
-y circunstancias de la producción del siniestro en cuestión, dicho hallazgo no puede valorarse en relación causal con la
-producción del siniestro.
-El maquinista se percató de no haber conectado el VZ tras la puesta en marcha del tren y, por ello, con el tren Os 3229
-volvió a detenerse de forma excepcional en la vía. Conectó la parte móvil del VZ y continuó la marcha hacia la
-žst. Jablůnka. En la žst. Jablůnka, la jefa de estación, mediante consulta, comprobó con el maquinista y el jefe de tren
-si al salir de la est. Bystřička se había producido el siniestro. Dado que ambos respondieron negativamente,
-expidió el tren hacia la estación de destino Vsetín.
-### 3.5.2 Intercambio de comunicaciones verbales en relación con el suceso excepcional, incluidos
-### los registros del dispositivo registrador
-En relación con el siniestro no se produjo comunicación verbal que influyera en la producción del siniestro.
-### 3.5.3 Medidas adoptadas para la protección y aseguramiento del lugar del suceso excepcional
-El lugar del siniestro fue asegurado, tras la localización del tren con cuya salida se produjo el siniestro, por la persona cualificada designada del gestor de la infraestructura y del transportista, de conformidad con el decreto
-nº 376/2006 Sb.
-
+Las puertas de acceso derechas, no cerradas y no aseguradas, del tren en marcha se abrieron y cerraron temporalmente. De este modo se liberó a la pasajera que había quedado atrapada, cayó al borde del andén y, debido a la energía cinética, acabó en el espacio comprendido entre el borde del andén y la vía circulable (TK).
+Testigo del accidente fue un empleado del gestor de la infraestructura SŽDC, s. o., que había llegado a la estación de Bystřička con el tren Os 3216 (Horní Lideč – Hranice na Moravě) y que, en el momento en que se produjo el accidente, estaba comunicándose por teléfono móvil con la jefa de estación de la estación Jablůnka. Durante dicha conversación, informó inmediatamente a la jefa de estación de las lesiones sufridas por la pasajera arrastrada y corrió hacia la pasajera herida. La jefa de estación de la estación Jablůnka, de conformidad con los procedimientos tecnológicos del gestor de la infraestructura, reaccionó a la situación enviando la orden «GENERÁLNÍ STOP» (parada general) para detener los trenes y, a continuación, activó los servicios de emergencia. En el ámbito de acción del ZRDS de la estación Jablůnka se detuvieron
+### los trenes Os 3229 y Os 3216. El maquinista del tren Os 3229, tras la parada de emergencia del tren en la vía por la orden «GENERÁLNÍ STOP», no estableció contacto con el gestor de la infraestructura y, sin la autorización del gestor de la infraestructura, puso el tren en marcha.
+### El hallazgo anterior se refiere a lo dispuesto en el artículo 53 de la norma del transportista ČD Z11 y en el apartado 33.1 y 33.2 del decreto n.º 173/1995 Sb., constituyendo un incumplimiento del apartado 35.1.a) de la ley n.º 266/1994 Sb. Dadas las causas y circunstancias de la producción del accidente objeto de estudio, dicho hallazgo no puede valorarse en relación causal con la producción del accidente.
+El maquinista puso el tren en marcha con la parte móvil del VZ desactivada.
+### El hallazgo anterior se refiere a lo dispuesto en el artículo 91 de la norma del transportista ČSD T 108 y en el artículo 5, Parte II, Anexo 3, y en el apartado 33.1 y 33.2 del decreto n.º 173/1995 Sb.,
+### constituyendo un incumplimiento del apartado 35.1.a) de la ley n.º 266/1994 Sb. Dadas las causas
+y circunstancias de la producción del accidente objeto de estudio, dicho hallazgo no puede valorarse en relación causal con la producción del accidente.
+El maquinista se percató de que no había activado el VZ una vez que el tren había arrancado y, por ello, detuvo nuevamente el tren Os 3229 de forma extraordinaria en la vía. Activó la parte móvil del VZ y continuó la marcha hacia la estación Jablůnka. En la estación Jablůnka, la jefa de estación preguntó al maquinista y al jefe de tren si se había producido algún accidente en la salida de la estación de Bystřička. Dado que ambos respondieron negativamente, despachó el tren hacia la estación de destino Vsetín.
+### 3.5.2 Intercambio de comunicaciones verbales en relación con el suceso extraordinario, incluidas las pruebas procedentes del dispositivo de registro
+En relación con el accidente no se produjo ninguna comunicación verbal que influyera en la producción del accidente.
+### 3.5.3 Medidas adoptadas para la protección y aseguramiento del lugar del suceso extraordinario
+El lugar del accidente fue asegurado, una vez identificado el tren cuya salida dio lugar al accidente, por la persona cualificada y competente designada por el gestor de la infraestructura y por el transportista, de conformidad con el decreto n.º 376/2006 Sb.
 
 ## Página 39
+
 
 ## 3.6
 ### Condiciones laborales, sanitarias y operativas
@@ -1224,54 +1231,80 @@ La causa inmediata de la producción de los siniestros indicados, a excepción d
 ### no cerradas y con la señalización de puertas de acceso abiertas en
 ### el puesto del maquinista, la puesta en movimiento del HDV (tren).
 
-
 ## Página 40
 
 ## 4 ANÁLISIS Y CONCLUSIONES
 ## 4.1
 ### Descripción final del suceso excepcional
 ### 4.1.1 Descripción final del suceso excepcional basada en los hechos constatados
-### en el punto 3
-Tras la detención del tren Os 3229 junto al andén 1 de la TK de la est. Bystřička, la jefe de tren debía supervisar el embarque y desembarque de pasajeros. Cuando la jefe de tren, según su declaración, adquirió la impresión de que el embarque y desembarque de pasajeros estaba finalizado, con el silbato de señalización advirtió a los pasajeros, desde las puertas de acceso traseras del penúltimo DV del tren, de la salida prevista del tren y, a continuación, con la luz blanca de la linterna manual, dio al maquinista, en dirección a la cabecera del tren, la señal manual «Autorización para la salida». Si lo hizo ya durante el desembarque o en el momento previo al inicio del desembarque de la pasajera afectada, es decir, antes de la finalización del desembarque de pasajeros, no fue posible determinarlo de forma verificable. La razón es la ausencia de un dispositivo registrador que registrara la situación en el andén de la est. Bystřička y el movimiento de personas en el espacio de acceso del DV de la serie 460, así como la ausencia de testigos en la dotación del tren. El maquinista, según su declaración, recibió esta señal en las puertas abiertas de la cabina del maquinista. Tras recibir esta señal, el maquinista se sentó ante la consola de mando del puesto y accionó el mando de las puertas de acceso derechas a la posición «Z» cerrado. En el momento previo a que el maquinista accionara el mando de las puertas de acceso derechas a la posición «Z» cerrado, la pasajera inició el desembarque por las puertas de acceso traseras derechas del último DV del tren. Durante su desembarque, cuando aún no se encontraba firmemente en el andén, las puertas de acceso del DV comenzaron a cerrarse centralmente y aprisionaron la extremidad superior izquierda de la pasajera que descendía entre los perfiles de goma del marco y la hoja de la puerta de tal forma que no pudo liberarla. El indicador de estado de las puertas de acceso derechas, junto con el resplandor del LED rojo, señalizaba en el puesto del maquinista puertas de acceso abiertas. De qué puertas de acceso concretas se trataba, no pudo determinarlo el maquinista a partir de la señalización en el puesto del maquinista. A pesar de que el maquinista registró la señalización de puertas abiertas en el puesto del maquinista, no investigó la causa del no cierre de las puertas de acceso, no la determinó y a las 18:37:24 h puso el tren Os 3229 en movimiento con la pasajera aprisionada.
-La pasajera aprisionada fue arrastrada por el tren con las extremidades inferiores por el andén
-y por el espacio comprendido entre el borde del andén y el raíl derecho de la vía circulada. Tras recorrer 80 m desde el punto de arranque, el maquinista, a una velocidad de 36 km·h-1, accionó el mando de las puertas de acceso derechas a la posición «O» abierto e inmediatamente de vuelta a la posición «Z» cerrado. Las puertas de acceso traseras derechas, no cerradas y no aseguradas, situadas en la cola del tren formado por el HDV 460.076-3, se abrieron y cerraron brevemente. Con ello se produjo la liberación de la pasajera aprisionada, su caída al borde del andén y, por efecto de la energía cinética, posteriormente al espacio comprendido entre el borde del andén y la vía circulada. Las huellas de arrastre y la posterior caída de la pasajera arrastrada terminan a una distancia de 90 m del punto de inicio del arrastre.
-Testigo del siniestro fue un empleado del gestor de la infraestructura SŽDC, s. o. (testigo nº 1),
-que llegó a la est. Bystřička en el tren Os 3216 (Horní Lideč – Hranice na Moravě) y, en el momento de producirse el siniestro, comunicaba por teléfono móvil con la jefa de estación de žst. Jablůnka. Sobre la lesión sufrida por la viajera arrastrada, durante dicha conversación, informó inmediatamente a la jefa de estación y corrió hacia la viajera herida. Junto con el testigo nº 2, prestó primeros auxilios a la viajera herida. Durante la prestación de ayuda a la viajera, el testigo nº 1 fue contactado por teléfono móvil por la operadora del ZZS de Valašské Meziříčí, que, hasta la llegada del vehículo del ZZS, le daba instrucciones para la prestación de ayuda adicional. La jefa de estación de žst. Jablůnka, ante la situación creada, reaccionó enviando la orden «GENERÁLNÍ STOP» para la detención de trenes y, a continuación,
-
+en el punto 3
+Tras la parada del tren Os 3229 en el andén 1. TK nz. Bystřička, la jefa de tren debía
+supervisar el desembarque y el embarque de los pasajeros. Cuando la jefa de tren, según
+su declaración, adquirió la impresión de que el desembarque y el embarque de los
+pasajeros había finalizado, con el silbato de señales de la puerta trasera de embarque
+del penúltimo DV del tren avisó a los pasajeros de la salida prevista del tren y, a
+continuación, con la luz blanca de la linterna manual, dirigió hacia la cabecera del tren
+al maquinista la señal manual «Autorización para la salida». No fue posible constatar de
+manera verificable si lo hizo ya durante el desembarque o en el momento previo al
+inicio del desembarque de la pasajera afectada, es decir, antes de la finalización del
+desembarque de los pasajeros. El motivo es la ausencia de un dispositivo de registro que
+registrara la situación en el andén nz. Bystřička y el movimiento de personas en la zona
+de embarque del DV serie 460, así como la ausencia de testigos del servicio del tren.
+El maquinista, según su declaración, recibió esta señal con las puertas de la cabina del
+maquinista abiertas. Tras recibir esta señal, el maquinista se sentó en el puesto de
+mando y accionó el mando de las puertas de embarque derechas a la posición «Z»
+cerrado. En el momento previo a que el maquinista accionara el mando de las puertas de
+embarque derechas a la posición «Z» cerrado, la pasajera inició el desembarque por las
+puertas traseras derechas de embarque del último DV del tren. Durante su desembarque,
+cuando aún no se había apoyado firmemente en el andén, las puertas de embarque del DV
+comenzaron a cerrarse centralmente y atraparon el miembro superior izquierdo de la
+pasajera que descendía entre los perfiles de goma del marco y la hoja de la puerta de
+tal manera que no pudo liberarse. El indicador de estado de las puertas de embarque
+derechas, junto con el encendido del LED rojo, en el puesto del maquinista señalizaba
+las puertas de embarque abiertas. El maquinista no pudo determinar a partir de la
+señalización en su puesto de mando de qué puerta de embarque concreta se trataba. A
+pesar de que el maquinista registró la señalización de puertas abiertas en su puesto de
+mando, no investigó, ni determinó, la causa del cierre incompleto de las puertas de
+embarque, y a las 18:37:24 h puso en movimiento el tren Os 3229 con la pasajera
+atrapada.
+La pasajera atrapada fue arrastrada por el tren con las extremidades inferiores por el
+andén y por el espacio entre el borde del andén y el carril derecho por el que circulaba
+la TK. Tras recorrer 80 m desde el punto de arranque, el maquinista, a una velocidad de
+36 km·h-1, accionó el mando de las puertas de embarque derechas a la posición «O»
+abierto e inmediatamente de vuelta a la posición «Z» cerrado. Las puertas traseras
+derechas de embarque, no cerradas y no aseguradas, situadas en el extremo del tren
+formado por el HDV 460.076-3, se abrieron y cerraron brevemente. Con ello se liberó a
+la pasajera atrapada, que cayó sobre el borde del andén y, por efecto de la energía
+cinética, posteriormente al espacio entre el borde del andén y la TK por la que circulaba.
+Las huellas de arrastre y de la posterior caída de la pasajera arrastrada terminan a una
+distancia de 90 m del punto de inicio del arrastre.
+Testigo del MU fue un empleado del operador ferroviario SŽDC, s. o. (testigo n.º 1),
+que llegó a nz. Bystřička en el tren Os 3216 (Horní Lideč – Hranice na Moravě) y en el
+momento de producirse el MU se comunicaba por teléfono móvil con la jefa de estación
+de žst. Jablůnka. Informó de inmediato a la jefa de estación de la lesión sufrida por la
+pasajera arrastrada durante esta conversación y corrió hacia la pasajera herida.
+Junto con el testigo n.º 2, prestó primeros auxilios a la pasajera herida. Durante la
+prestación de ayuda a la pasajera, el testigo n.º 1 fue contactado por teléfono móvil por
+la operadora del ZZS de Valašské Meziříčí, que le dio instrucciones para prestar ayuda
+adicional hasta la llegada del vehículo del ZZS. La jefa de estación de žst. Jablůnka
+reaccionó a la situación creada enviando la orden «PARADA GENERAL» para la parada
+de trenes y, a continuación,
 
 ## Página 41
 
-activó los servicios del IZS. Al alcance del ZRDS de žst. Jablůnka fueron detenidos los trenes Os 3229
-y Os 3216.
-El maquinista del tren Os 3229, tras la parada de emergencia del tren en la vía por la orden
-«GENERÁLNÍ STOP», no estableció contacto con el gestor de la infraestructura (jefa de estación de žst. Jablůnka o Valašské
-Meziříčí) y, sin la autorización del gestor de la infraestructura, puso el tren en movimiento.
-Dado que, tras la puesta en marcha del tren, se percató de no haber conectado la parte móvil del VZ, el tren Os 3229
-volvió a detenerse de forma excepcional en la vía. Conectó la parte móvil del VZ y continuó la marcha hacia la
-žst. Jablůnka. En la žst. Jablůnka, la jefa de estación, mediante consulta, comprobó con la dotación del tren Os 3229
-si al salir de la est. Bystřička se había producido el siniestro. Dado que la dotación respondió
-negativamente, expidió el tren hacia la estación de destino Vsetín.
-El maquinista del tren Os 3216, tras la parada de emergencia del tren en la vía por la orden
-«GENERÁLNÍ STOP», fue contactado por las jefas de estación de la I. y II. žst. de Valašské Meziříčí
-y se le preguntó si al salir de la est. Bystřička se había producido el siniestro y en qué punto de la vía se cruzó
-con el tren en sentido contrario Os 3229. Tras la respuesta negativa sobre la posibilidad de producción del siniestro y la determinación
-del punto de cruce con el tren Os 3229 en el tramo entre la est. Bystřička y la parada Brňov, el
-maquinista fue informado del motivo de la parada de emergencia en la vía. A continuación, recibió la autorización
-para continuar la marcha hacia la žst. Valašské Meziříčí.
+activaba los componentes del sistema de emergencia (IZS). Al alcance del ZRDS de la estación de Jablůnka se detuvieron los trenes Os 3229 y Os 3216.
+El maquinista del tren Os 3229, tras la parada de emergencia del tren en la vía por la orden „GENERÁLNÍ STOP“, no estableció contacto con el gestor de la vía (el jefe de estación de Jablůnka o de Valašské Meziříčí) y puso el tren en marcha sin el permiso del gestor de la vía. Dado que, tras la puesta en marcha del tren, se dio cuenta de que no había activado la parte móvil del VZ, el tren Os 3229 volvió a detenerse de forma extraordinaria en la vía. Activó la parte móvil del VZ y continuó la marcha hasta la estación de Jablůnka. En la estación de Jablůnka, la jefa de estación comprobó preguntando al acompañamiento del tren Os 3229 si en la salida de la estación de Bystřička se había producido un MU. Como el acompañamiento respondió negativamente, despachó el tren hasta la estación de destino de Vsetín.
+El maquinista del tren Os 3216, tras la parada de emergencia del tren en la vía por la orden „GENERÁLNÍ STOP“, fue contactado por los jefes de estación I y II de Valašské Meziříčí y se le preguntó si en la salida de la estación de Bystřička se había producido un MU y en qué punto de la vía se había cruzado con el tren en sentido contrario Os 3229. Tras la respuesta negativa sobre la posible producción de un MU y la determinación del punto de cruce con el tren Os 3229 en el tramo entre la estación de Bystřička y la parada de Brňov, se informó al maquinista del motivo de la parada de emergencia en la vía. A continuación recibió el permiso para continuar la marcha hasta la estación de Valašské Meziříčí.
 ## 4.2
 ### Análisis
-### 4.2.1 Evaluación de los hechos constatados según el punto 3 y exposición de las conclusiones sobre la causa
-### del suceso excepcional y la actuación de los servicios de emergencia
-Dada la ausencia de un dispositivo registrador que registrara la situación en el andén de la est. Bystřička y el movimiento de personas en el espacio de acceso del DV 460.0776-3, y la ausencia de testigos en la dotación del tren Os 3229, no es posible determinar de forma verificable si el desembarque de la pasajera afectada se inició antes o después de que la jefe de tren advirtiera a los pasajeros, con el silbato de señalización, de la salida prevista del tren y diera la señal «Autorización para la salida» al maquinista, ni si la pasajera afectada inició el desembarque del tren a tiempo. El tiempo reservado para el embarque y desembarque de pasajeros del tren Os 3229 en la est. Bystřička fue de 15 s. Este tiempo debería ser suficiente para un pasajero preparado para el desembarque del DV (que espera la detención del tren).
-El transportista, en relación con lo dispuesto en los arts. 15 y 16 de la Directiva para las series 460, 560
-y en el § 33 apartados 1 y 2 del decreto nº 173/1995 Sb., en el sentido del § 35 apartado 1 letra a) de la ley
-nº 266/1994 Sb., no garantizó la explotación del transporte ferroviario de acuerdo con las reglas de explotación del transporte ferroviario y la licencia vigente, al poner el maquinista del tren Os 3229 el tren en movimiento a pesar de
-que el indicador de estado de las puertas de acceso derechas en el puesto del maquinista, junto con
-el resplandor del LED rojo, señalizaba puertas de acceso abiertas.
-Los HDV de la serie 460, es decir, también el HDV 460.075-5 y el 460.076-3, no están dotados, de conformidad con los TP aprobados, de un dispositivo que, con las puertas de acceso abiertas o no cerradas y la señalización de puertas de acceso abiertas por el indicador de estado de las puertas en el puesto del maquinista, impidiera la puesta en movimiento del HDV. Este elemento de seguridad, dispositivo, no habría impedido el posible aprisionamiento de un pasajero por las puertas de acceso. Sin embargo, no habría permitido la puesta en marcha del HDV y, con ello, habría evitado la producción del siniestro excepcional que tuvo como consecuencia la lesión causada por el arrastre de un pasajero aprisionado por las puertas de acceso.
-El fallo involuntario del maquinista del tren Os 3229 en el momento de producirse el siniestro estuvo influido por su desconocimiento de los procedimientos previos a la puesta en movimiento del tren ante la señalización de puertas de acceso abiertas por el indicador de estado de las puertas en el puesto del maquinista tras accionar
+### 4.2.1 Evaluación de los hechos constatados de acuerdo con el punto 3 y formulación de conclusiones sobre la causa del suceso extraordinario y la actuación de los servicios de rescate
+Debido a la ausencia de un dispositivo de registro que registrara la situación en el andén de la estación de Bystřička y el movimiento de personas en el espacio de andén del DV 460.0776-3, y a la ausencia de testigos del despacho del tren Os 3229, no es posible determinar de manera demostrable si el descenso de la pasajera afectada se inició antes o después de la advertencia a los pasajeros por parte de la jefa de tren sobre la salida prevista del tren mediante el silbato de señalización y la indicación de la señal „Souhlas k odjezdu“ (Permiso para la salida) al maquinista, ni si la pasajera afectada inició el descenso del tren a tiempo. El tiempo previsto para el descenso y el ascenso de pasajeros del tren Os 3229 en la estación de Bystřička fue de 15 s. Este tiempo debería ser suficiente para un pasajero preparado para descender del DV (que espera la parada del tren).
+El transportista, en relación con lo dispuesto en los artículos 15 y 16 de la Directiva para las series 460, 560 y el apartado 1 y 2 del artículo 33 del decreto nº 173/1995 Sb., en el sentido del apartado 1, letra a), del artículo 35 de la ley nº 266/1994 Sb., no garantizó la explotación del transporte ferroviario de acuerdo con las normas de explotación del transporte ferroviario y la licencia vigente, al poner el maquinista del tren Os 3229 el tren en marcha a pesar de que el indicador de estado de las puertas de andén derechas en la cabina del maquinista, junto con el encendido del LED rojo, señalizaba las puertas de andén abiertas.
+Las unidades de tracción de la serie 460, es decir, también las unidades de tracción 460.075-5 y 460.076-3, no están dotadas, de acuerdo con las TP aprobadas, de un dispositivo que, con las puertas de andén abiertas o no cerradas y la señalización de puertas de andén abiertas mediante el indicador de estado de las puertas en la cabina del maquinista, impidiera la puesta en marcha de la unidad de tracción. Este elemento de seguridad, dispositivo, no habría impedido el atrapamiento de un pasajero entre las puertas de andén. Sin embargo, no habría permitido la puesta en marcha de la unidad de tracción y, con ello, habría evitado la producción de un MU que tuviera como consecuencia un perjuicio para la salud causado por el arrastre de una pasajera atrapada entre las puertas de andén.
+La falta no consciente del maquinista del tren Os 3229 en el momento de la producción del MU estuvo influida por su desconocimiento de los procedimientos previos a la puesta en marcha del tren ante la señalización de puertas de andén abiertas mediante el indicador de estado de las puertas en la cabina del maquinista tras la maniobra
 
 ## Página 42
+
 
 mandos de las puertas de acceso a la posición "Z" cerrado, contenidos en la Directiva para las series 460, 
 560, y la indiferencia ante los riesgos asociados a la circulación del DV (tren) con las puertas de acceso abiertas o no cerradas 
@@ -1296,89 +1329,64 @@ no fueron detectadas por la DI. •
 En el explotador de la infraestructura SŽDC, s. o.:
 en el sentido del § 22 apartado 1 letra a) de la Ley núm. 266/1994 Sb., no garantizó la explotación de la infraestructura para •
 las necesidades del transporte ferroviario fluido y seguro, al exigir mediante sus procedimientos contenidos en el documento "Medidas del Director de la Oficina Regional" una longitud de limpieza de la superficie de la plataforma de la parada Brňov y de la parada nz. Bystřička de nieve y hielo de 80 m, sin tener en cuenta la longitud útil de las plataformas y sin especificar el inicio y el final de la superficie limpiada. 
-Según los procedimientos contenidos en el art. 978 de la norma SŽDC (ČD) D1 y en el art. 1330 de la norma SŽDC (ČD) D2, el maquinista de un tren que para regularmente para el ascenso y descenso de pasajeros 
-
+Según los procedimientos contenidos en el art. 978 de la norma SŽDC (ČD) D1 y en el art. 1330 de la norma SŽDC (ČD) D2, el maquinista de un tren que para regularmente para el ascenso y descenso de pasajeros
 
 ## Página 43
 
-en una parada debe detenerse con el primer DV para el transporte de pasajeros en el tren lo más cerca posible del 
-señal con la indicación "Fin de plataforma". En los trenes más cortos que la longitud de la plataforma, el maquinista 
-debe detenerse de manera que el DV para pasajeros esté lo más cerca posible de la persona que se encuentra 
-en la plataforma más próxima al señal con la indicación "Fin de plataforma" y al mismo tiempo 
-todos los DV con pasajeros deben estar junto a la plataforma. Dada la longitud útil de la plataforma 
-de la parada Brňov de 240 m y de la parada nz. Bystřička de 189 m, la longitud mínima de limpieza de la plataforma de 
-nieve y hielo de 80 m y la longitud de la composición planificada de DV de los trenes de pasajeros de 98 m, se produce 
-que los pasajeros que bajan del primer o del último DV para el transporte de pasajeros, 
-bajan a una parte de la plataforma que no ha sido limpiada de nieve y hielo. Tal fue el caso 
-de la pasajera afectada que bajaba del tren Os 3229 en la parada nz. Bystřička. Con el descenso 
-de los pasajeros del DV a una plataforma cuya superficie no está limpia de nieve y hielo, se pone en peligro 
-la salida segura de estos pasajeros, en particular de los pasajeros con discapacidad 
-y de los pasajeros con capacidad reducida de movimiento y orientación, por resbalón, caída (por ejemplo 
-entre el borde de la plataforma y el DV), y no se garantiza un movimiento seguro, fluido y cómodo 
-en los espacios destinados al público pasajero.
-En el transportista ČD, a. s.:
-en relación con lo dispuesto en el art. 14 de la Directiva para las series 460, 560 y el § 33 apartados 1 y 2 •
-de la ordenanza núm. 173/1995 Sb., en el sentido del § 35 apartado 1 letra a) de la Ley núm. 266/1994 Sb., 
-no explotó el transporte ferroviario de acuerdo con las reglas de explotación del transporte ferroviario, al:
-el maquinista, durante la circulación del tren Os 3324 tras la salida de la estación Polom, a una velocidad de ◦
-39 km·h-1, conmutó temporalmente el mando de las puertas traseras derechas a la posición "O" 
-abierto y de vuelta a la posición "Z" cerrado;
-el maquinista del tren Os 3324 en la estación Hranice na Moravě conmutó el mando de las puertas ◦
-izquierdas a la posición "O" abierto, permitiendo así la apertura local de las puertas izquierdas 
-mediante el pomo y la apertura de las puertas de acceso no cerradas correctamente, 
-incluso antes de la detención del tren, y ello a una velocidad de 6 km·h-1;
-en relación con lo dispuesto en los arts. 15 y 16 de la Directiva para las series 460, 560 y el § 33 apartados 1 •
-y 2 de la ordenanza núm. 173/1995 Sb., en el sentido del § 35 apartado 1 letra a) de la Ley 
-núm. 266/1994 Sb., no explotó el transporte ferroviario de acuerdo con las reglas de explotación del transporte 
-ferroviario, al haber puesto el maquinista en movimiento el tren del tren Os 3324 anterior en la estación Polom y en 
-la parada Bělotín, a pesar de que el indicador de estado de las puertas de acceso 
-señalizaba puertas de acceso abiertas;
-en relación con lo dispuesto en el art. 14 de la Directiva para las series 460, 560 y el § 33 apartados 1 y 2 •
-de la ordenanza núm. 173/1995 Sb., en el sentido del § 35 apartado 1 letra a) de la Ley núm. 266/1994 Sb., 
-no explotó el transporte ferroviario de acuerdo con las reglas de explotación del transporte ferroviario, al:
-el maquinista del tren Os 3229 en la parada Osek nad Bečvou, en la estación Lipník nad ◦
-Bečvou, en la estación Drahotuše, en la estación Hranice na Moravě, en la estación Hranice na Moravě 
-město, en la parada Teplice nad Bečvou, en la parada Černotín, en la parada 
-Špičky, en la estación Hustopeče nad Bečvou, en la estación Lhotka nad Bečvou, en la estación Valašské 
-Meziříčí, en la parada Brňov, en la parada nz. Bystřička, en la estación Jablůnka y en la estación Vsetín 
-conmutó el mando de las puertas de acceso a la posición "O" abierto, permitiendo así la apertura local 
-de las puertas de acceso mediante el pomo, incluso antes de la detención del tren, y ello a una velocidad 
-de hasta 8 km·h-1;
-el maquinista, durante la circulación del tren Os 3229 tras la salida de la parada nz. Bystřička, conmutó ◦
-el mando de las puertas traseras derechas temporalmente a la posición "O" abierto y de vuelta a la 
-posición "Z" cerrado. Esta manipulación no autorizada atenuó sustancialmente las consecuencias del SF;
+en la parada detener con el primer DV para el transporte de pasajeros en el tren lo más cerca posible antes de la señal con la indicación «Fin del andén». En los trenes más cortos que la longitud del andén, el maquinista debe detenerse de manera que el DV para pasajeros esté lo más cerca posible de la persona que se encuentra en el andén como la más próxima antes de la señal con la indicación «Fin del andén», y al mismo tiempo todos los DV con pasajeros deben estar junto al andén. Dada la longitud útil del andén de la parada Brňov de 240 m y la nz. Bystřička de 189 m, la longitud mínima despejada de nieve y hielo del andén de 80 m y la longitud de la composición planificada de DV de los trenes de pasajeros de 98 m, se produce que los pasajeros que bajan del primer o del último DV para el transporte de pasajeros bajan a una parte del andén que no está despejada de nieve y hielo. Así fue también en el caso de la pasajera afectada que bajó del tren Os 3229 en la nz. Bystřička. Con la bajada de los pasajeros del DV a un andén cuya superficie no está despejada de nieve y hielo, se pone en peligro la bajada segura de estos pasajeros, en particular de los pasajeros con discapacidad y de los pasajeros con capacidad reducida de movimiento y orientación, por resbalón, caída (por ejemplo, entre el borde del andén y el DV), y no se garantiza un movimiento seguro, fluido y cómodo en los espacios destinados al público de pasajeros.
 
+Al transportista ČD, a. s.:
+
+• en relación con lo dispuesto en el art. 14 de la Directiva para las series 460, 560 y el § 33 apartados 1 y 2 del decreto nº 173/1995 Sb., en el sentido del § 35 apartado 1 letra a) de la ley nº 266/1994 Sb., no explotó el transporte ferroviario de acuerdo con las reglas de explotación del transporte ferroviario, en el sentido de que:
+
+◦ el maquinista, durante la marcha del tren Os 3324 tras la salida de la est. Polom, a una velocidad de 39 km·h-1, conmutó momentáneamente el mando de las puertas de acceso derechas a la posición «O» abierto y de vuelta a la posición «Z» cerrado;
+
+◦ el maquinista del tren Os 3324 en la est. Hranice na Moravě conmutó el mando de las puertas de acceso izquierdas a la posición «O» abierto, y con ello permitió la apertura local de las puertas de acceso izquierdas con la manivela y la apertura de las puertas de acceso no cerradas, aún antes de la detención del tren, y ello a una velocidad de 6 km·h-1;
+
+• en relación con lo dispuesto en los arts. 15 y 16 de la Directiva para las series 460, 560 y el § 33 apartados 1 y 2 del decreto nº 173/1995 Sb., en el sentido del § 35 apartado 1 letra a) de la ley nº 266/1994 Sb., no explotó el transporte ferroviario de acuerdo con las reglas de explotación del transporte ferroviario, en el sentido de que el maquinista del tren Os 3324 anterior en la est. Polom y en la parada Bělotín puso el tren en marcha, a pesar de que el indicador del estado de las puertas de acceso señalizaba las puertas de acceso abiertas;
+
+• en relación con lo dispuesto en el art. 14 de la Directiva para las series 460, 560 y el § 33 apartados 1 y 2 del decreto nº 173/1995 Sb., en el sentido del § 35 apartado 1 letra a) de la ley nº 266/1994 Sb., no explotó el transporte ferroviario de acuerdo con las reglas de explotación del transporte ferroviario, en el sentido de que:
+
+◦ el maquinista del tren Os 3229 en la parada Osek nad Bečvou, en la est. Lipník nad Bečvou, en la est. Drahotuše, en la est. Hranice na Moravě, en la est. Hranice na Moravě město, en la parada Teplice nad Bečvou, en la parada Černotín, en la parada Špičky, en la est. Hustopeče nad Bečvou, en la est. Lhotka nad Bečvou, en la est. Valašské Meziříčí, en la parada Brňov, en la nz. Bystřička, en la est. Jablůnka y en la est. Vsetín conmutó el mando de las puertas de acceso a la posición «O» abierto, y con ello permitió la apertura local de las puertas de acceso con la manivela, aún antes de la detención del tren, y ello a una velocidad de hasta 8 km·h-1;
+
+◦ el maquinista, durante la marcha del tren Os 3229 tras la salida de la nz. Bystřička, conmutó momentáneamente el mando de las puertas de acceso derechas a la posición «O» abierto y de vuelta a la posición «Z» cerrado. Esta manipulación no autorizada atenuó sustancialmente las consecuencias de la MU;
 
 ## Página 44
 
-en relación con lo dispuesto en el art. 53 de la norma del transportista ČD Z11 y el § 33 apartados 1 y 2 •
-de la ordenanza núm. 173/1995 Sb., en el sentido del § 35 apartado 1 letra a) de la Ley núm. 266/1994 Sb., 
-no explotó el transporte ferroviario de acuerdo con las reglas de explotación del transporte ferroviario, al no 
-establecer el maquinista del tren Os 3229, tras la parada de emergencia del tren en la vía por la orden 
-"GENERÁLNÍ STOP", contacto con el explotador de la infraestructura con el fin de determinar el motivo de la parada 
-del servicio, y poner el tren en movimiento sin la autorización del explotador de la infraestructura;
-en relación con lo dispuesto en el art. 91 de la norma del transportista ČSD T 108 y el art. 5, Parte II, •
-Anexo 3 y el § 33 apartados 1 y 2 de la ordenanza núm. 173/1995 Sb., en el sentido del § 35 apartado 1 letra 
-a) de la Ley núm. 266/1994 Sb., no explotó el transporte ferroviario de acuerdo con las reglas 
-de explotación del transporte ferroviario, al poner el maquinista del tren Os 3229, tras la parada de emergencia 
-del tren en la vía por la orden "GENERÁLNÍ STOP", el tren en movimiento 
+en relación con lo dispuesto en el artículo 53 de la normativa del transportista ČD Z11 y el § 33 apartados 1 y 2 
+•
+del decreto nº 173/1995 Sb., en el sentido del § 35 apartado 1 letra a) de la ley nº 266/1994 Sb., 
+no realizó el transporte ferroviario de acuerdo con las reglas de explotación del transporte ferroviario, en el sentido de que 
+el maquinista del tren Os 3229, tras la parada de emergencia del tren en la vía por la orden „GENERÁLNÍ STOP“, 
+no estableció contacto con el explotador de la vía con el fin de determinar el motivo de la parada 
+del servicio y, sin autorización del explotador de la vía, puso el tren en movimiento;
+en relación con lo dispuesto en el artículo 91 de la normativa del transportista ČSD T 108 y el artículo 5, Parte II, 
+•
+del Anexo 3 y el § 33 apartados 1 y 2 del decreto nº 173/1995 Sb., en el sentido del § 35 apartado 1 letra 
+a) de la ley nº 266/1994 Sb., no realizó el transporte ferroviario de acuerdo con las reglas 
+de explotación del transporte ferroviario, en el sentido de que el maquinista del tren Os 3229, tras la parada de emergencia 
+del tren en la vía por la orden „GENERÁLNÍ STOP“, puso el tren en movimiento 
 con la parte móvil del VZ desconectada.
 ## 5 MEDIDAS ADOPTADAS
 ## 5.1
-### Lista de medidas que ya se han tomado o adoptado como consecuencia del suceso ferroviario
-El explotador de la infraestructura SŽDC, s. o., en relación con sus propias constataciones, no emitió tras la 
-ocurrencia del SF ninguna medida para prevenir la ocurrencia de SF.
-El transportista ČD, a. s., en relación con sus propias constataciones, emitió tras la ocurrencia del SF las siguientes 
-medidas para prevenir la ocurrencia de SF:
-Medida del Jefe de Tráfico DKV Olomouc, ref. núm.: 3093/13 P1-8, de fecha 04. 02. •
-2013, por la cual:
-ordenó acreditadamente informar al resto de maquinistas sobre el desarrollo, las causas •
-y las consecuencias de este SF;
+### Lista de medidas que, como consecuencia del suceso ferroviario, ya se han adoptado 
+o tomado
+El explotador de la vía SŽDC, s. o., en relación con sus propias constataciones, no emitió tras la 
+ocurrencia del SU ninguna medida para prevenir la ocurrencia del SU.
+El transportista ČD, a. s., en relación con sus propias constataciones, emitió tras la ocurrencia del SU las siguientes 
+medidas para prevenir la ocurrencia del SU:
+Medida del jefe de estación DKV Olomouc, ref. nº: 3093/13 P1-8, de fecha 04. 02. 
+•
+2013, por la que:
+ordenó acreditar fehacientemente a los demás maquinistas sobre el desarrollo, las causas 
+◦
+y las consecuencias de este SU;
 suspendió al maquinista del tren Os 3229 la aptitud profesional y sanitaria para 
-la función de maquinista. 
-
+◦
+la función de maquinista.
 
 ## Página 45
+
 
 ## 6 RECOMENDACIONES DE SEGURIDAD
 La Inspección Ferroviaria, como autoridad administrativa competente en la materia según lo dispuesto en el § 53b apartado 5 
@@ -1422,8 +1430,8 @@ Director
 De la Inspección Territorial de Ostrava
 De la Inspección Territorial de Ostrava
 
-
 ## Página 46
+
 
 ## 7 ANEXOS
 Fig. núm. 4: Vista de la plataforma de la parada nz. Bystřička                   Fuente: DI
@@ -1431,8 +1439,8 @@ Fig. núm. 5: Vista exterior de las puertas traseras derechas del HDV
 de la serie 460    
                          Fuente: DI
 
-
 ## Página 47
+
 
 Fig. núm. 6: Vista interior de las puertas traseras derechas 
 del HDV de la serie 460                                     Fuente: DI

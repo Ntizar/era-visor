@@ -10,13 +10,14 @@ chars: 94218
 ratio_longitud: 1.10
 tokens_in: 56610
 tokens_out: 41889
-verificacion: revisar
-notas_cifras: ["bloque 2: cifras cortas: 212/212", "bloque 4: cifras largas: 1/59", "bloque 6: original bilingüe: se compara contra el idioma principal (CS); cifras cortas: 1/132"]
-avisos: ["bloque 2: marcadores de página: 7 vs 0; cifras largas: faltan 81/81 (100%); ratio 0.01"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 5: original bilingüe: se compara contra el idioma principal (CS)", "página 8: original bilingüe: se compara contra el idioma principal (EN)", "página 9: original bilingüe: se compara contra el idioma principal (PT)", "página 10: original bilingüe: se compara contra el idioma principal (CS)", "página 12: cifras cortas: 2/16"]
 ---
+
 ## Página 1
+
 
 Inspección Ferroviaria
 República Checa
@@ -41,13 +42,13 @@ IČ:   75009561
 http://www.dicr.cz
 tel.: 224 805 444
 
-
 ## Página 2
+
 
 Este informe final es público y todos los documentos y hechos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ## 1 RESUMEN
        Fuente: Inspección Ferroviaria
@@ -72,8 +73,8 @@ Causa inmediata:
 del bloque de transmisión de las fuerzas de tracción del bogie trasero de la
 locomotora 242.203-8.
 
-
 ## Página 4
+
 
 Factores contribuyentes:
 no fueron detectados por la Inspección Ferroviaria.
@@ -120,13 +121,13 @@ de las fuerzas de tracción de la forma prescrita por el fabricante de la locomo
 perforar las cabezas de los tornillos de unión, pasar por estos orificios un alambre de
 seguridad que debe unir dos cabezas de tornillos de unión, y apretar firmemente.
 
-
 ## Página 5
+
 
 De conformidad con lo dispuesto en el apartado 5 del artículo 53b de la Ley n.º 266/1994 Sb., de vías, en su redacción vigente, o en el anexo n.º 7 de la disposición n.º 376/2006 Sb., sobre el sistema de seguridad de la explotación de la vía y del transporte ferroviario y los procedimientos en caso de origen de incidencias excepcionales en las vías, en su redacción vigente, la Inspección Ferroviaria recomienda al Órgano Ferroviario la adopción de una medida propia, encaminada a garantizar la realización de la recomendación de seguridad anteriormente indicada también para los demás transportistas que exploten locomotoras de las series 230, 240 y 242.
 
-
 ## Página 6
+
 
 ## SUMMARY
 Grade:
@@ -183,8 +184,8 @@ to make checking focused on tightening of screws of traction force
 transmission;
 to secure screws of traction force transmission in the way set by
 
-
 ## Página 7
+
 
 locomotive manufacture.
 3) Addressed to Czech National Safety Autority (NSA):
@@ -193,8 +194,8 @@ to take own measure forcing implementation of the above
 recommendations for other (RU), operating locomotives No. 230, 240
 and 242.
 
-
 ## Página 8
+
 
 # Índice
 1 Resumen ........................................................................................................................3
@@ -240,36 +241,243 @@ personas en relación contractual ..............................................
 
 The request was rejected because it was considered high risk
 
+## Página 9
+
+3.1.2 Otras personas .....................................................................................................23
+3.2 Sistema de garantía de la seguridad ........................................................................23
+3.2.1 Organización marco y forma en que se emiten y aplican las instrucciones .......23
+3.2.2 Requisitos para el personal del gestor de la infraestructura y del transportista y su 
+aplicación .......................................................................................................23
+3.2.3 Procedimiento de control interno de la seguridad y sus resultados .......................24
+3.2.4 Interfaz entre los distintos sujetos implicados y los componentes de la vía férrea ...28
+3.3 Regulación jurídica y otra normativa ........................................................................28
+3.3.1 Legislación comunitaria y nacional aplicable ........................................................28
+3.3.2 Otras normas, p. ej., reglamento de explotación, reglamento de trabajo, normas de mantenimiento, normas técnicas vigentes y otras normas internas ...........................................................29
+3.4 Funcionamiento de los vehículos ferroviarios y de las instalaciones técnicas ......................29
+3.4.1 Sistema de control, señalización y seguridad, incluidos los dispositivos de registro automático de datos ...........................................................................................29
+3.4.2 Componentes de la vía férrea ...................................................................................29
+3.4.3 Medios de comunicación ....................................................................................30
+3.4.4 Vehículos ferroviarios, incluidos los dispositivos de registro automático de datos .............30
+3.5 Documentación del sistema de explotación ........................................................................33
+3.5.1 Medidas adoptadas por el personal del gestor de la infraestructura y del transportista en materia de control, señalización y seguridad del tráfico .....................................................33
+3.5.2 Intercambio de comunicaciones verbales en relación con el suceso excepcional, incluidos los documentos procedentes del dispositivo de registro .........................................................................33
+3.5.3 Medidas adoptadas para la protección y la seguridad del lugar del suceso excepcional .............33
+3.6 Condiciones laborales, sanitarias y de explotación ................................................................33
+3.6.1 Jornada laboral del personal del gestor de la infraestructura y del transportista que participó en el suceso ..............................................................................................33
+3.6.2 Estado de salud y situación personal que influyeron en el suceso excepcional, incluido el estrés físico o psicológico ...................................................................33
+3.6.3 Disposición del equipamiento del puesto de mando o del vehículo que influye en su manejo y utilización .............................................................................................34
+3.7 Sucesos excepcionales anteriores de carácter similar ............................................34
+4 Análisis y conclusiones ............................................................................................................35
+4.1 Descripción definitiva del suceso excepcional ..........................................................................35
+4.1.1 Descripción definitiva del suceso excepcional basada en los hechos establecidos en el punto 3 
+............................................................................................................................35
+4.2 Análisis ......................................................................................................................36
+4.2.1 Evaluación de los hechos establecidos en el punto 3 y formulación de conclusiones sobre la causa
+
+## Página 10
+
+mimořádné události a činnosti záchranných služeb ..........................................36
+4.3 Závěry .......................................................................................................................42
+4.3.1 Bezprostřední příčiny mimořádné události, včetně faktorů, které k ní přispěly 
+a které souvisely s jednáním zúčastněných osob nebo se stavem drážních 
+vozidel nebo technických zařízení ....................................................................42
+4.3.2 Zásadní příčiny související s kvalifikací, postupy a údržbou ............................42
+4.3.3 Příčiny, které jsou způsobeny předpisovým rámcem a v používání systému 
+zajišťování bezpečnosti .....................................................................................42
+4.4 Doplňující zjištění ......................................................................................................42
+4.4.1 Nedostatky a opomenutí zjištěné během zjišťování příčin a okolností vzniku 
+mimořádné události, které však nejsou významné pro závěry o příčinách ......42
+5 Přijatá opatření ...............................................................................................................43
+5.1 Seznam opatření, která byla v důsledku mimořádné události již učiněna nebo přijata 
+...................................................................................................................................43
+6 Bezpečnostní doporučení .............................................................................................43
+7 Přílohy .............................................................................................................................45
+
+## Página 11
+
+## Lista de siglas y símbolos utilizados
+BD
+recomendación de seguridad
+CDP
+Puesto central de despacho
+COP
+Puesto central de notificación
+ČD
+České dráhy, a. s.
+DI
+Inspección Ferroviaria
+DKV
+Depósito de material rodante
+DPOV
+Talleres de reparación de material rodante
+DÚ
+Autoridad Ferroviaria
+DV
+material rodante, material rodante
+GŘ
+dirección general
+HDV
+material rodante de tracción
+HZS
+Servicio de Bomberos y Salvamento
+IZS
+sistema integrado de salvamento
+JPO
+Unidad de Protección contra Incendios
+MU
+acontecimiento excepcional
+OO
+Departamento de Distrito
+OŘ
+Dirección Regional
+OSB
+Departamento del Sistema de Seguridad de la Explotación Ferroviaria
+P ČR
+Policía de la República Checa
+PJ
+Unidad Operativa
+PO
+Área Operativa
+RCVD
+Centro Regional de Acompañamiento de Trenes
+SK
+vía de estación
+SKPV
+Servicio de Policía Criminal e Investigación
+St.
+enclavamiento
+SZZ
+aparataje de seguridad de estación
+SŽDC
+Administración de la Vía Ferroviaria de Transporte, organización estatal
+TDV
+material rodante remolcado
+TRS
+sistema radiofónico de vía
+ÚI
+Inspectorado Territorial
+VDOD
+acompañamiento de trenes de transporte de viajeros
+VI
+inspector superior, inspectores superiores
+VP
+jefe superior
+VŠ
+investigación propia
+ŽKV
+material rodante ferroviario
+ŽP
+paso a nivel
+
+## Página 12
+
+## Lista de abreviaturas de disposiciones legales, normas y reglamentos internos
+ley núm. 266/1994 Sb.
+ley núm. 266/1994 Sb., de ferrocarriles, en su versión vigente
+ley núm. 262/2006 Sb.
+Código del Trabajo, en su versión vigente
+decreto núm. 376/2006 Sb.
+decreto núm. 376/2006 Sb., sobre el sistema de seguridad de la explotación del ferrocarril y del transporte ferroviario y los procedimientos en caso de ocurrencia de sucesos excepcionales en los ferrocarriles, en su versión vigente
+decreto núm. 173/1995 Sb.
+decreto núm. 173/1995 Sb., reglamento de circulación ferroviaria, en su versión vigente
+decreto núm. 177/1995 Sb.
+decreto núm. 177/1995 Sb., reglamento de construcción y técnico ferroviario, en su versión vigente
+decreto núm. 101/1995 Sb.
+decreto núm. 101/1995 Sb., Reglamento de aptitud sanitaria y profesional de las personas en la explotación del ferrocarril y del transporte ferroviario, en su versión vigente
+decreto núm. 16/2012 Sb.
+decreto núm. 16/2012 Sb., sobre la aptitud profesional de las personas que conducen vehículos ferroviarios y de las personas que realizan revisiones, inspecciones y ensayos de dispositivos técnicos designados, y sobre la modificación del decreto del Ministerio de Transportes núm. 101/1995 Sb., por el que se aprueba el Reglamento de aptitud sanitaria y profesional de las personas en la explotación del ferrocarril y del transporte ferroviario, en su versión vigente
+decreto núm. 100/1995 Sb.
+decreto núm. 100/1995 Sb., Reglamento de dispositivos técnicos designados, en su versión vigente
+decreto núm. 175/2000 Sb.
+decreto núm. 175/2000 Sb., sobre el reglamento de transporte para el transporte público ferroviario y por carretera de pasajeros, en su versión vigente
+ČD V 25
+reglamento interno del operador České dráhy, a. s., ČD V 25 «Reglamento para la organización del mantenimiento de vehículos de tracción eléctricos y diésel, de pasajeros, de remolques intercalados y de mando», aprobado por decisión del director general de la División Comercial-Explotación de fecha 20 de septiembre de 2000, ref. núm.: 59213/00-O12, en vigor desde el 1 de octubre de 2000
+ČD V 1
+reglamento interno del operador České dráhy, a. s., ČD V 1 «Reglamento para la organización de la explotación en depósitos de vehículos ferroviarios», aprobado por decisión del director general de la División Comercial-Explotación de fecha 20 de marzo de 1998, ref. núm.: 55027/98-O18, en vigor desde el 22 de abril de 1998
+
+## Página 13
+
+## 2 DATOS RELATIVOS AL SUCESO EXTRAORDINARIO
+## 2.1
+### Suceso extraordinario
+### 2.1.1 Fecha, hora exacta y lugar del suceso extraordinario
+Fecha:
+20. 5. 2013.
+Hora:
+18:35 h.
+Vía:
+ferroviaria, nacional.
+Lugar:
+línea 709 B České Budějovice – Plzeň hl. n., estación de Nepomuk, 1.ª vía, 
+aguja n.º 22, pk 314,248.
+GPS:
+49°30'3.628"N, 13°36'28.333"E.
+Fig. n.º 1: Vista de la locomotora descarrilada 
+Fuente: DI
+
+## Página 14
+
+### 2.1.2 Descripción del suceso excepcional y del lugar del accidente, incluida la actividad del sistema integrado de protección y del servicio de rescate
+El día 20. 5. 2013, según la persona que conducía el vehículo ferroviario (en adelante, el maquinista), se realizaba el viaje del tren R 923 desde la est. Plzeň hl. n. hasta la est. Nepomuk de forma estándar. El maquinista no registró ninguna conducta anómala en las características de marcha del HDV, ruidos atípicos ni vibraciones. Al entrar en la cabecera de la est. Nepomuk, el maquinista escuchó un golpe procedente de la parte de bogies del HDV. Tras la parada del tren, comprobó mediante inspección el descarrilamiento del bogie trasero del HDV.
+Fig. 2: Plano del lugar del suceso excepcional
+ Fuente: www.mapy.cz    
+Mediante la inspección del lugar del suceso excepcional se constató que el HDV 242.203-8 descarriló con el bogie n.º 1, que era el bogie trasero del HDV en el sentido de marcha del tren R 923. El punto «0» (es decir, la primera huella tras el descarrilamiento) se localizó en el km 314,248, en la parte central del desvío n.º 22 circulado en sentido directo. El bogie trasero descarriló a la izquierda en el sentido de marcha del tren hacia la 2. SK y a continuación se
+
+## Página 15
+
+a la altura del desvío, situado entre la 1.ª y la 2.ª vía en el pk 314,222, volvió hacia atrás a través de los carriles en dirección a la 1.ª vía, como consecuencia de lo cual se produjo la rotura del desvío. En estado descarrilado, la locomotora pasó por el paso a nivel en el pk 314,191 y por la aguja n.º 21 en el pk 314,190. Desde el punto "0" en el pk 314,248, progresivamente en el sentido de la marcha del tren R 923 hasta el pk 314,130, hasta el lugar de la posición final del bogie trasero descarrilado de la locomotora tras la parada del tren, eran visibles huellas de daños en la superestructura ferroviaria – aguja n.º 22 (durmientes de madera dañados, espigas dañadas y arrancadas, soportes de sujeción dañados y volcados), 1.ª vía entre las agujas n.º 22 y n.º 21 (durmientes de madera dañados, durmientes de hormigón rotos, espigas dañadas y arrancadas) y aguja n.º 21 (durmientes de madera dañados, espigas dañadas y arrancadas, carriles deformados y rotura del corazón de la aguja). En la aguja n.º 21 se produjeron daños en el cierre de gancho, incluido el motor eléctrico de cambio de aguja.
+
+En el bogie trasero descarrilado de la locomotora, toda la estructura del dispositivo de transmisión de fuerzas de tracción se apoyaba en el carril izquierdo en el sentido de la marcha del tren (véase la fig. n.º 3). La parte inferior de la caja de guía de la piedra de transmisión de fuerzas de tracción estaba suelta, y los cables de retención de las barras inclinadas y horizontales de transmisión de fuerzas de tracción estaban dañados. Del cárter de aceite en el que está alojada la piedra guía, se derramó aceite sobre el lecho de balasto.
+
+Fig. n.º 3: Dispositivo de transmisión de fuerzas de tracción
+Fuente: DI
+
+El tren R 923, formado por la locomotora de la serie 242 y 5 vagones de viajeros remolcados, se detuvo tras la aparición de la MU con el extremo delantero en el pk 314,120, es decir, 128 m detrás del punto "0".
+
+El 20. 5. 2013, aún antes de la concesión del DI para la liberación de la vía, y al día siguiente 21. 5. 2013, el VI ÚI Plzeň realizó una inspección del tramo de vía estación de Nepomuk – parada de Šťáhlavy, comprobando también el estado de la estructura de paso a nivel en 15 pasos a nivel ferroviarios (P1184 hasta P1198). Ya en las estructuras de los pasos a nivel P1198 en el pk 334,234 (es decir, 19,986 km antes del punto "0") y P1197 en el pk 331,469 (es decir, 17,221 km antes del punto "0") se encontraron huellas insignificantes de contacto con componentes de la locomotora. Significativas y demostrables
+
 ## Página 16
 
-Se localizaron huellas en la construcción del paso a nivel P1196 en el pk 331,019, es decir, 16,771 km antes del punto «0». En los cantos del panel de hormigón que constituye la construcción del paso a nivel eran visibles huellas de desprendimiento reciente de hormigón y en su cara superior huellas de fricción de componentes del HDV (véanse las figs. 8 y 9).
-Con la MU se activó el IZS.
-2.1.3 Decisión de iniciar la investigación de las causas y circunstancias de la ocurrencia, composición del equipo de personas cualificadas y forma de dirigir la investigación de las causas y circunstancias de la ocurrencia
+se localizaron en la estructura del paso a nivel P1196 en el pk 331,019, es decir, 16,771 km 
+antes del punto «0». En los cantos del panel de hormigón que constituye la estructura del 
+paso a nivel, se observaron huellas de desprendimiento reciente de hormigón y en su cara 
+superior huellas de roce de componentes del HDV (véanse las figs. 8 y 9). 
+En el MU se activó el IZS.
+2.1.3 Decisión de iniciar la investigación de las causas y circunstancias de su producción, composición del equipo de personas cualificadas y método de dirección de la investigación de las causas y circunstancias de su producción
 MU comunicada al COP DI el:
-20. 5. 2013, 18:43 h (es decir, 00:08 h después de la ocurrencia de la MU).
-| MU comunicada al COP DI el: | 20 5 2013 18:43 h (es decir, 00:08 h después de la ocurrencia de la MU) . . , . . |
-| Forma de comunicación: | telefónica . |
-| Comunicado por la persona autorizada en nombre de: | el explotador de la vía (SŽDC) y el transportista (ČD) . |
-| Consentimiento del DI para la liberación de la vía: | 20 5 2013 21:15 h (es decir, 02:40 h después de la ocurrencia . . , . de la MU) . |
-La comunicación de la MU por parte del explotador de la vía y del transportista se ajustó a lo dispuesto en el § 49 apartado 3 letra a) de la Ley núm. 266/1994 Sb. y en el § 8 del Decreto núm. 376/2006 Sb.
+20. 5. 2013, 18:43 h (es decir, 00:08 h después de la producción del MU).
+| MU comunicada al COP DI el: | 20 5 2013 18:43 h (es decir, 00:08 h después de la producción del MU) . . , . . |
+| Forma de comunicación: | telefónicamente . |
+| Comunicado por la persona autorizada en nombre de: | el gestor de la vía (SŽDC) y el transportista (ČD) . |
+| Consentimiento del DI para la liberación de la vía: | 20 5 2013 21:15 h (es decir, 02:40 h después de la producción . . , . del MU) . |
+La comunicación del MU por parte del gestor de la vía y del transportista se ajustó a lo 
+dispuesto en el § 49 apartado 3 letra a) de la Ley núm. 266/1994 Sb. y en el § 8 del 
+decreto núm. 376/2006 Sb.
 Decisión del DI de iniciar la VŠ:
 20. 5. 2013.
-Composición del VI DI en el lugar de la MU:
+Composición del VI DI en el lugar del MU:
 2x VI ÚI Plzeň.
 Constitución del equipo de investigación:
 no fue necesario constituirlo.
-Colaboración externa:
-no se utilizó.
-La posterior investigación de las causas y circunstancias de la ocurrencia de la MU fue encomendada dentro del DI al ÚI Plzeň.
-En la investigación de las causas y circunstancias de la ocurrencia de la MU, el DI partió de sus propios conocimientos y hallazgos, de su propia documentación fotográfica y de la documentación solicitada elaborada durante la investigación por el explotador de la vía y el transportista.
-La investigación de las causas y circunstancias de la ocurrencia de la MU se llevó a cabo de conformidad con lo dispuesto en el § 53b de la Ley núm. 266/1994 Sb. y en el § 11 del Decreto núm. 376/2006 Sb.
+Cooperación externa:
+no se utilizó. 
+La posterior investigación de las causas y circunstancias de la producción del MU fue 
+encomendada por el DI al ÚI Plzeň. 
+En la investigación de las causas y circunstancias de la producción del MU, el DI partió 
+de sus propios conocimientos y hallazgos, de su propia documentación fotográfica y de la 
+documentación solicitada elaborada durante la investigación por el gestor de la vía y el 
+transportista.
+La investigación de las causas y circunstancias de la producción del MU se realizó de 
+conformidad con lo dispuesto en el § 53b de la Ley núm. 266/1994 Sb. y en el § 11 del 
+decreto núm. 376/2006 Sb.
 ## 2.2
 ### Circunstancias del suceso excepcional
-### 2.2.1 Empleados implicados del explotador de la vía y del transportista, personas en relación contractual y demás implicados y testigos
-Personas implicadas por:
-
+### 2.2.1 Empleados participantes del gestor de la vía y del transportista, personas en 
+relación contractual y demás participantes y testigos
+Personas participantes en nombre de:
 
 ## Página 17
+
 
 Transportista (ČD):
 maquinista del tren R 923, empleado de ČD, DKV Plzeň, PJ České Budějovice;
@@ -299,8 +507,8 @@ La estación de ferrocarril Nepomuk se encuentra en el pk 313,860 de la línea d
 El tramo intermedio de línea Nepomuk – Ždírec u Plzně está equipado con dispositivo de señalización de línea de 3.ª categoría – barrera automática AHP-03 sin barrera en la línea y sin transmisión de códigos del dispositivo de señalización.
 El lugar de la ocurrencia de la MU se encuentra en el pk 314,248 de la línea de vía única České Budějovice – Plzeň
 
-
 ## Página 18
+
 
 hl. n., en la est. Nepomuk, en la SK núm. 1, en el desvío núm. 22. El desvío núm. 22 es maniobrado centralmente por el operador de señalización desde St. 2 de la est. Nepomuk y está protegido con un cambiador electromotor y un cerrojo electromotor.
 La línea en el lugar de la ocurrencia de la MU en el sentido de marcha del tren discurre en una curva derecha a la cota del terreno circundante con un radio de 2200 m y una pendiente del 3,30 ‰. La vía de línea en el lugar de la ocurrencia de la MU está formada por carriles de perfil S49, año de fabricación 1988, colocados en 2011, fijación rígida de nervadura sobre traviesas de madera, año de fabricación 1997, colocadas en 2011, separación de traviesas «e».
@@ -328,24 +536,25 @@ En el lugar de la MU no se realizaron, inmediatamente antes de su ocurrencia, po
 •
 19:50 h inspección del lugar de la ocurrencia de la MU por los inspectores superiores del DI, P ČR y las personas autorizadas de
 
-
 ## Página 19
 
-OSB SŽDC Plzeň;
-21:15 h otorgado por el VI DI presente el consentimiento para la liberación de la vía;
+con personas OSB SŽDC Plzeň;
+21:15 h a los presentes VI DI se concedió la autorización para liberar la vía;
 •
-21. 5. 2013 a las 00:45 h inicio de los trabajos de limpieza;
+21. 5. 2013 a las 00:45 h inicio de las labores de despeje;
 •
-21. 5. 2013 a las 12:00 h restablecimiento del servicio en las SK pares;
+21. 5. 2013 a las 12:00 h restablecimiento de la explotación en las vías pares;
 •
-24. 5. 2013 a las 16:00 h restablecimiento completo del servicio (servicio restablecido también en las SK impares).
+24. 5. 2013 a las 16:00 h restablecimiento total de la explotación (explotación restablecida también en las vías impares).
 •
-En el lugar de la MU estuvieron presentes también los empleados directivos de las distintas divisiones organizativas del explotador de la vía y del transportista.
-Con la participación del VI DI se realizó una inspección comisionada del lugar de la MU, incluida la elaboración de un acta.
-### 2.2.7 Activación del plan del sistema integrado de emergencia, de la policía y del servicio médico de emergencia y secuencia de acontecimientos
-La MU fue comunicada por: el maquinista del tren R 923 al jefe de estación de la est. Nepomuk.
-El plan del IZS fue activado. El plan del IZS fue activado a las 18:37 h por el jefe de estación de la est. Nepomuk.
-Al lugar de la MU acudieron los servicios del IZS:
+En el lugar del MU estaban también presentes los responsables de las distintas
+divisiones organizativas del explotador de la vía y del transportista.
+Con la presencia de VI DI se realizó la inspección comisionada del lugar del MU, incluida la
+elaboración del acta.
+### 2.2.7 Activación del plan del sistema integrado de emergencias, policía y servicio médico de emergencias y secuencia de acontecimientos
+El MU lo comunicó: el maquinista del tren R 923 al jefe de estación de la estación de Nepomuk.
+El plan IZS fue activado. El plan IZS fue activado a las 18:37 h por el jefe de estación de la estación de Nepomuk.
+Al lugar del MU acudieron los componentes del IZS:
 Bomberos SŽDC JPO České Budějovice;
 •
 Bomberos SŽDC JPO Plzeň;
@@ -356,11 +565,13 @@ P ČR OO Nepomuk.
 •
 ## 2.3
 ### Fallecimientos, lesiones y daños materiales
-2.3.1 En pasajeros y terceras personas, empleados del explotador de la vía y del transportista, incluidas personas en relación contractual
-Con la MU no se produjo perjuicio para la salud de los empleados del explotador de la vía, del transportista, de las personas en relación contractual, ni de los pasajeros y terceras personas.
-### 2.3.2 En objetos transportados, equipaje y demás bienes
-No se produjo daño en los objetos transportados, el equipaje y demás bienes.
-### 2.3.3 En vehículos ferroviarios, componentes de la vía de circulación y en el medio ambiente
+2.3.1 En cuanto a pasajeros y terceras personas, empleados del explotador de la vía y del transportista,
+incluidas personas en relación contractual
+En el MU no se produjo daño a la salud en los empleados del explotador de la vía, del transportista,
+de las personas en relación contractual, ni en los pasajeros y terceras personas.
+### 2.3.2 En las cosas transportadas, equipajes y otros bienes
+No se produjo daño en las cosas transportadas, equipajes y otros bienes.
+### 2.3.3 En los vehículos ferroviarios, componentes de la vía y en el medio ambiente
 El explotador de la vía y el transportista cuantificaron el daño en:
 HDV (tren R 923)
    625 950 Kč;
@@ -369,8 +580,8 @@ TDV (tren R 923)
            100 000 Kč;
 •
 
-
 ## Página 20
+
 
 dispositivos de la vía
            1 750 899 Kč;
@@ -425,6 +636,7 @@ en el primer DV vio el HDV apoyado contra el coche;
 •
 
 ## Página 21
+
 
 tras descender del tren, el maquinista ya estaba en el lugar;
 •
@@ -497,94 +709,84 @@ Jefe de estación de la est. Starý Plzenec
  – del Registro con el empleado se desprende, entre otras cosas:
 •
 
-
 ## Página 22
 
-el 20. 5. 2013 el tren R 923 pasó por la est. Starý Plzenec a las 18:17 h;
+el día 20. 5. 2013 el tren R 923 pasaba por la estación de Starý Plzenec a las 18:17 h;
 •
-durante el paso del tren estaba de pie delante de la oficina de tráfico y observaba 
+al paso del tren estaba de pie delante de la oficina de tráfico y observaba su circulación;
 •
-su circulación;
-no vio ni oyó nada sospechoso o anormal que pudiera perturbar la circulación 
+no vio ni oyó nada sospechoso ni anormal que pudiera perturbar la circulación
 •
 del tren;
-Jefe de estación de la est. Nezvěstice 
- – del Registro con el empleado se desprende, entre otras cosas:
+jefe de estación de Nezvěstice
+ – del Acta con el empleado se desprende, entre otras cosas:
 •
-el 20. 5. 2013 observó la circulación del tren R 923 que pasaba, delante de la 
+el día 20. 5. 2013 observaba la circulación del tren R 923 que pasaba, delante de la puerta de la oficina
 •
-puerta de la oficina de tráfico;
-durante la circulación del tren no registró ningún defecto en la locomotora ni en 
+de tráfico;
+durante la circulación del tren no registró ningún defecto en el HDV ni en el TDV;
 •
-el material rodante;
-Jefe de estación de la est. Blovice 
- – del Registro con el empleado se desprende, entre otras cosas:
+jefe de estación de Blovice
+ – del Acta con el empleado se desprende, entre otras cosas:
 •
-el 20. 5. 2013 el tren R 923 pasó por la est. Blovice por el primer carril de vía 
+el día 20. 5. 2013 el tren R 923 pasaba por la estación de Blovice tras la primera SK a velocidad
 •
-sin reducir la velocidad;
+no reducida;
 estaba de pie delante de la oficina de tráfico y observaba la circulación del tren;
 •
-a simple vista la composición no presentaba defectos y de la locomotora no 
+a simple vista la composición estaba sin defectos y del HDV no procedían
 •
-provenían sonidos anormales;
-Jefe de estación de la est. Ždírec u Plzně 
- – del Registro con el empleado se desprende, entre otras cosas:
+sonidos anormales;
+jefe de estación de Ždírec u Plzně
+ – del Acta con el empleado se desprende, entre otras cosas:
 •
-el 20. 5. 2013 observó la circulación del tren R 923 a las 18:30 h delante de la 
+el día 20. 5. 2013 observaba la circulación del tren R 923 a las 18:30 h delante de la puerta de la oficina
 •
-puerta de la oficina de tráfico;
-durante la circulación del tren no apreció ninguna anomalía en la locomotora y en 
+de tráfico;
+durante la circulación del tren no apreció ninguna anomalía en el HDV y el TDV;
 •
-el material rodante;
-no vio ningún defecto en la locomotora ni oyó sonidos durante el paso del tren 
+no vio ningún defecto en el HDV ni oyó sonidos al pasar el tren junto a la oficina
 •
-por delante de la oficina de tráfico;
-   Mecánico del DKV Plzeň 
+de tráfico;
+   mecánico DKV Plzeň
 1.
- – del Registro con el empleado se desprende, entre otras cosas:
+ – del Acta con el empleado se desprende, entre otras cosas:
 •
-el 15. 5. 2013 incorporó el turno nocturno a las 18:00 h;
+el día 15. 5. 2013 entró en el turno nocturno a las 18:00 h;
 •
-entre otras cosas, realizó el mantenimiento operativo de la locomotora 242.203-8, 
+entre otras cosas realizaba el mantenimiento en servicio del HDV 242.203-8, habiendo sido asignados
 •
-siendo designados 2 empleados para la comprobación del bogie de la serie 242;
-en el mantenimiento operativo de esta serie de locomotoras se realiza la 
+2 empleados para la comprobación del bastidor del HDV de la serie 242;
+en el mantenimiento en servicio de esta serie de HDV realiza la comprobación de las barras inclinadas, el asiento
 •
-comprobación de las barras inclinadas, el asiento de la piedra guía y el apriete de 
-los tornillos de unión de la guía superior e inferior;
-los tornillos de unión de la guía superior e inferior se comprueban siempre 
+de la piedra guía y el apriete de los tornillos de unión de la conducción superior e inferior;
+los tornillos de unión de la conducción superior e inferior los comprueba siempre golpeando con un martillo,
 •
-golpeándolos con un martillo y, en caso de que estén flojos, se procede a su 
-apriete;
-además, se realiza la comprobación de los cables de suspensión en las barras 
+y en caso de que estén flojos, procede a su apriete;
+además realiza la comprobación de los cables de suspensión en las barras inclinadas y horizontales, principalmente
 •
-inclinadas y horizontales, principalmente para que no estén deshilachados, 
-oxidados y para que estén debidamente fijados en los ojales;
-la longitud de los cables de suspensión se comprueba visualmente para que no 
+para que no estén deshilachados, oxidados y para que estén debidamente fijados en los ojales;
+la longitud de los cables de suspensión se comprueba visualmente para que no estén colgando;
 •
-estén colgando;
-en el mantenimiento operativo también se comprueba el asiento de la piedra, para 
+en el mantenimiento en servicio comprueba también el asiento de la piedra, para ver si no está hundido;
 •
-ver si no está hundido;
-el canal de montaje tiene su iluminación y el mecánico tiene asignada para el 
+el canal de montaje tiene su iluminación y el mecánico tiene asignada para el trabajo una linterna
 •
-trabajo una linterna manual, que utiliza;
-los tornillos de unión de la guía superior e inferior de la piedra están excepcionalmente 
+manual, que utiliza;
+los tornillos de unión de la conducción superior e inferior de la piedra suelen estar excepcionalmente flojos
 •
-flojos media vuelta y no recuerda ningún tornillo de unión ausente;
+medio giro y no recuerda ningún tornillo de unión ausente;
 2. me
-cánico del DKV Plzeň 
- – del Registro con el empleado se desprende, entre otras cosas:
+ cánico DKV Plzeň
+ – del Acta con el empleado se desprende, entre otras cosas:
 •
-el 15. 5. 2013 incorporó el turno nocturno a las 18:00 h;
+el día 15. 5. 2013 entró en el turno nocturno a las 18:00 h;
 •
-entre otras cosas, realizó el mantenimiento operativo de la locomotora 242.203-8, 
+entre otras cosas realizaba el mantenimiento en servicio del HDV 242.203-8, habiendo sido asignados
 •
-siendo designados 2 empleados para la comprobación del
-
 
 ## Página 23
+
 
 bogie de la locomotora;
 en la locomotora indicada comprobó visualmente ambos bogies y su parte mecánica;
@@ -638,8 +840,8 @@ particular los requisitos de idoneidad técnica y sanitaria, están establecidos
 ley n.º 266/1994 Sb., el decreto n.º 173/1995 Sb., el decreto n.º 101/1995 Sb., el 
 decreto n.º 16/2012 Sb. y las normas internas del gestor de la vía y del transportista.
 
-
 ## Página 24
+
 
 En el momento de la aparición del MU en cuestión, todas las personas del gestor 
 de la vía SŽDC participantes en el MU que desempeñaban actividades en la 
@@ -683,8 +885,8 @@ tabla n.º 1.»
 | Reparacionesno planificadasen servicio | SO | SO | SO | SO | SO |
 | Cambios deestado aprobado | ZS | ZS | ZS | ZS | ZS |
 
-
 ## Página 25
+
 
 en el art. 16 se indica:
 ●
@@ -741,6 +943,7 @@ referencia 05-12/2-3492, de fecha 15. 12. 2005, autoriza en la competencia
 
 ## Página 26
 
+
 de los jefes de servicio en sus DKV decidir, en casos justificados, sobre el desplazamiento del límite superior de km recorridos para las revisiones Bp, O y M hasta 1,5 veces el mismo. Esta decisión no exime al DKV de la responsabilidad por el estado técnico de los vehículos.
 El jefe de servicio del DKV Plzeň, con efectividad desde el 15. 1. 2006, mediante la Orden n.º 004/2006, de conformidad con la medida n.º de ref. 05.12/2-3492 de fecha 15. 12. 2005, estableció el límite superior de km recorridos para las revisiones O y M en determinadas series de HDV de forma diferente a los recorridos establecidos por la medida n.º de ref. 05-12/2-2845 de fecha 21. 10. 2005, sin que por esta medida el DKV Plzeň quede exento de la responsabilidad por el estado técnico de los vehículos con los km recorridos modificados según
 ### la presente orden. Para la serie HDV 242, la norma de recorrido para el mantenimiento operativo E0
@@ -760,8 +963,8 @@ Aunque en el título se indica que la medida se refiere al año 2005, hasta la f
 Si la medida hubiera dejado de ser válida el 31. 12. 2005, además habría sido necesario emitir una medida para la realización de las revisiones V periódicas en los vehículos que en el año 2005 superaron el km recorrido prescrito para la revisión V, lo cual no ocurrió. Además, ya se habían establecido por decreto las inspecciones técnicas con periodicidad prescrita, que deben garantizar el estado seguro de los vehículos ferroviarios en explotación, por lo que, en nuestra opinión, el no realizar las revisiones V no tiene influencia en la seguridad, en todo caso en la fiabilidad de nuestros vehículos ferroviarios.»
 El alcance de las actividades de control y mantenimiento en los distintos niveles de mantenimiento, en relación con la verificación de la transmisión de fuerzas de tracción, es para el HDV 242.203-8 el siguiente:
 
-
 ## Página 27
+
 
 «Serie 242 – Mantenimiento operativo»
 •
@@ -791,8 +994,8 @@ recorrió desde la última EVY realizada antes de la ocurrencia del MU 652 696 k
 •
 el transportista no realizó en el HDV la reparación periódica mayor EH, a pesar de que el HDV recorrió
 
-
 ## Página 28
+
 
 desde la última EH realizada antes de la ocurrencia del MU 2 253 715 km, siendo la norma de recorrido kilométrico para la reparación periódica mayor de 1 100 000 km;
 •
@@ -815,8 +1018,8 @@ En la investigación del MU se constató la infracción de las siguientes normas
 •
 ### «No debe utilizarse para la circulación un vehículo ferroviario que presente daños o deformaciones en la carrocería o en el tren de rodadura, o que tenga otros defectos
 
-
 ## Página 29
+
 
 que amenacen directamente la seguridad de la explotación de la vía o de la explotación del transporte ferroviario ...».
 3.3.2 Otras normas, p. ej., reglamento de explotación, reglamento de trabajo, normas de mantenimiento, normas técnicas vigentes y otras normas internas
@@ -839,6 +1042,7 @@ Los componentes de la vía no guardaban relación causal ni no causal con la ocu
 No se detectaron deficiencias.
 
 ## Página 30
+
 
 ### 3.4.3 Medios de comunicación
 El uso de los medios de comunicación antes de la aparición de la AE no tuvo relación con la aparición de la AE.
@@ -875,8 +1079,8 @@ guía superior e inferior del bloque de transmisión de fuerzas de tracción;
 falta el tornillo de unión frontal izquierdo de la guía superior e inferior del bloque de •
 transmisión de fuerzas de tracción;
 
-
 ## Página 31
+
 
 tornillo de unión trasero izquierdo cortado de la guía superior e inferior del bloque de •
 transmisión de fuerzas de tracción.
@@ -901,8 +1105,8 @@ cortado en la ojilla superior;
 cable de retención derecho de la barra diagonal de transmisión de fuerzas de tracción •
 deshilachado;
 
-
 ## Página 32
+
 
 cable de retención izquierdo de la barra diagonal de transmisión de fuerzas de tracción •
 cortado en la ojilla superior.
@@ -911,8 +1115,8 @@ Fuente: DI
 Fig. n.º 7: Detalle del fragmento de tornillo de unión
 Fuente: DI
 
-
 ## Página 33
+
 
 ## 3.5
 ### Documentación del sistema de explotación
@@ -937,30 +1141,28 @@ El empleador garantizó las condiciones para el descanso preturno de conformidad
 3.6.2 Estado de salud y situación personal que influyeron en la excepcionalidad, incluido el estrés físico o psíquico
 Los empleados participantes del gestor de la infraestructura y del transportista estaban, en el momento de la aparición de la AE, médicamente aptos para el desempeño de la función que ocupaban. La investigación no arrojó que la aparición de la AE estuviera influida por la situación personal o el estado psíquico de las personas participantes en la AE.
 
-
 ## Página 34
 
-Los empleados del gestor de la infraestructura y del transportista se sometían a reconocimientos médicos periódicos de conformidad con la disposición del decreto n.º 101/1995 Sb. No se detectó ningún estado de salud ni situación personal que pudiera haber influido en la aparición de la AE, incluido el estrés físico y psíquico.
-3.6.3 Disposición del equipamiento del puesto de mando o del material rodante que influye en su manejo y uso
-La disposición y el equipamiento de los puestos de trabajo de los empleados del gestor de la infraestructura y del transportista no tuvo relación con la aparición de la AE.
+Los empleados del gestor de la infraestructura ferroviaria y del transportista se sometían a exámenes médicos periódicos de conformidad con lo dispuesto en el decreto n.º 101/1995 Sb. No se detectó ningún estado de salud ni situación personal que pudiera tener influencia en la aparición de un SU, incluido el estrés físico y psicológico.
+3.6.3 Disposición del equipamiento del puesto de mando o del vehículo que influye en su manejo y uso
+La disposición y el equipamiento de los puestos de los empleados del gestor de la infraestructura ferroviaria y del transportista no guardaban relación con la aparición del SU.
 ## 3.7
-### Excepcionalidades anteriores de carácter similar
-La Inspección Ferroviaria registra una excepcionalidad similar el 16. 4. 2010 en la estación Golčův Jeníkov, cuando durante la circulación del tren Nex 40737 se produjo una colisión del HDV 230.103-4 con un dispositivo técnico de la infraestructura y un posterior descarrilamiento. Las causas inmediatas de la AE fueron la caída de los tornillos de unión de la carcasa de la guía del bloque de transmisión de fuerzas de tracción del 1.º bogie del HDV 230.103-4 y el fallo de los cables de retención de las barras diagonales y horizontales de transmisión de fuerzas de tracción del 1.º bogie del HDV 230.103-4.
-La Inspección Ferroviaria emitió a los transportistas que explotan material rodante motriz de las series 230, 240 y 242, con base en los resultados de la investigación de las causas y circunstancias de la aparición de la AE del 16. 4. 2010 a las 11:01 h en la estación Golčův Jeníkov, la Recomendación de Seguridad n.º de ref.: 6-1371/2010/DI, de fecha 21. 2. 2011.
-El objeto de la Recomendación de Seguridad fue:
-al transportista ČD Cargo, a. s.: establecer en la norma Kvsl-B-2009 «Mantenimiento •
-y reparaciones de material rodante motriz», en el grado de reparación «períodica de •
-ajuste V», un límite superior de kilometraje;
-a los transportistas que explotan material rodante motriz de las series 230, 240 y 242: •
-incluir la comprobación de los cables de retención de la transmisión de fuerzas de tracción en el grado de reparación que respete para esta comprobación el kilometraje recomendado por el fabricante;
-a los transportistas que explotan material rodante motriz de las series 230, 240 y 242: •
-realizar una comprobación puntual centrada en el estado técnico y los parámetros de los cables de retención de las barras diagonales y horizontales de transmisión de fuerzas de tracción, la comprobación de las horquillas del bloque y el apriete de los tornillos de unión de la guía del bloque de transmisión de fuerzas de tracción.
-El transportista ČD Cargo, a. s., adoptó y emitió medidas en relación con la BD DI emitida:
-«en todos los HDV de las series 230, 240 y 340, en la revisión periódica más próxima o •
-en la reparación no planificada, se realizó una inspección exhaustiva del sistema de transmisión de fuerzas de tracción, centrándose en la comprobación de las horquillas y las pletinas del brazo de la horquilla, el apriete de los tornillos de unión de la guía del bloque de transmisión de fuerzas de tracción, y en el estado técnico y los parámetros de los cables de retención de las barras diagonales y horizontales de transmisión de fuerzas de tracción. La comprobación en todos estos HDV ya se ha realizado y las averías detectadas han sido reparadas»;
-
+### Incidentes anteriores de carácter similar
+La Inspección Ferroviaria registra un incidente similar el 16 de abril de 2010 en la estación Golčův Jeníkov, cuando durante la circulación del tren Nex 40737 se produjo una colisión de la locomotora 230.103-4 con un dispositivo técnico de la infraestructura ferroviaria y el posterior descarrilamiento. Las causas inmediatas del SU fueron la caída de los tornillos de unión del bastidor de la caja de la piedra de transmisión de las fuerzas de tracción del primer bogie de la locomotora 230.103-4 y el fallo de los tirantes de retención de las barras diagonales y horizontales de transmisión de las fuerzas de tracción del primer bogie de la locomotora 230.103-4.
+La Inspección Ferroviaria emitió a los transportistas que operan locomotoras de las series 230, 240 y 242, con base en los resultados de la investigación de las causas y circunstancias de la aparición del SU del 16 de abril de 2010 a las 11:01 h en la estación Golčův Jeníkov, la Recomendación de Seguridad n.º de expediente: 6-1371/2010/DI, de fecha 21 de febrero de 2011.
+El objeto de la Recomendación de Seguridad era:
+al transportista ČD Cargo, a. s.: establecer en la directiva Kvsl-B-2009 «Mantenimiento y reparación de locomotoras», en el grado de reparación «períodica de ajuste V», un límite superior de recorrido en kilómetros;
+•
+a los transportistas que operan locomotoras de las series 230, 240 y 242: incluir la comprobación de los tirantes de transmisión de las fuerzas de tracción en el grado de reparación que respete para dicha comprobación el recorrido en kilómetros recomendado por el fabricante;
+•
+a los transportistas que operan locomotoras de las series 230, 240 y 242: realizar una comprobación única centrada en el estado técnico y los parámetros de los tirantes de retención de las barras diagonales y horizontales de transmisión de las fuerzas de tracción, la comprobación de las horquillas de la piedra y el apriete de los tornillos de unión del bastidor de la caja de la piedra de transmisión de las fuerzas de tracción.
+•
+El transportista ČD Cargo, a. s., adoptó y emitió medidas en relación con la RS DI emitida:
+«en todas las locomotoras de las series 230, 240 y 340 se realizó, en la inspección periódica más próxima o en la reparación no programada, una inspección exhaustiva del sistema de transmisión de las fuerzas de tracción, centrándose en la comprobación de las horquillas y las pletinas del brazo de la horquilla, el apriete de los tornillos de unión del bastidor de la caja de la piedra de transmisión de las fuerzas de tracción, el estado técnico y los parámetros de los tirantes de retención de las barras diagonales y horizontales de transmisión de las fuerzas de tracción. La comprobación en todas estas locomotoras ya se ha realizado y las anomalías detectadas han sido reparadas»;
+•
 
 ## Página 35
+
 
 «atendiendo a que en la comprobación puntual de las partes de transmisión de fuerzas •
 de tracción se detectaron averías también en vehículos con un kilometraje inferior al recomendado para la realización de la reparación periódica de ajuste, se emitió la medida del director O12 n.º de ref. 594/2011-12/1, que establece las comprobaciones de los mecanismos de transmisión de fuerzas de tracción de los HDV de las series 230, 240 y 340 como parte de la prueba de detección de defectos de los extremos de perno de las bielas de transmisión de fuerzas de tracción. Dichas comprobaciones son ordenadas por esta medida con un kilometraje de 180 000 km. El kilometraje entre las comprobaciones ordenadas es, por tanto, unas 3 veces inferior al kilometraje recomendado para la reparación de ajuste».
@@ -980,6 +1182,7 @@ En el bogie trasero descarrilado del HDV, toda la estructura del dispositivo de 
 
 ## Página 36
 
+
 hallado en la rosca de la guía superior de la piedra en la inspección comisionada del HDV, los cables de retención de las barras diagonales y horizontales de transmisión de las fuerzas de tracción estaban dañados – tres cables estaban rotos y el cuarto cable estaba deshilachado. Del cárter de aceite, en el que está alojada la piedra guía, se derramó aceite sobre el lecho de balasto.
 El tren R 923, compuesto por el HDV de la serie 242 y 5 DV remolcados, se detuvo tras la aparición de la MU con el extremo delantero en el km 314,120, es decir, 128 m detrás del punto "0".
 El 20. 5. 2013, aún antes de que la DI concediera la autorización para liberar la vía, y al día siguiente, 21. 5. 2013, el VI ÚI Plzeň realizó la inspección del tramo de vía estación de Nepomuk – parada de Šťáhlavy, comprobando también el estado de la estructura del paso a nivel en 15 pasos a nivel ferroviarios (P1184 hasta P1198). Ya en las estructuras de los pasos a nivel ferroviarios P1198 en el km 334,234 (es decir, 19,986 km antes del punto "0") y P1197 en el km 331,469 (es decir, 17,221 km antes del punto "0") se hallaron vestigios leves de contacto con componentes del HDV. Se detectaron vestigios significativos y evidentes en la estructura del paso a nivel ferroviario P1196 en el km 331,019, es decir, 16,771 km antes del punto "0". En los cantos del panel de hormigón que forma la estructura del paso a nivel ferroviario eran visibles vestigios de desprendimiento reciente de hormigón y en su superficie superior vestigios de fricción de componentes del HDV.
@@ -998,8 +1201,8 @@ Los procedimientos tecnológicos uniformes del transportista, contenidos en la n
 indicados son recomendados. ..."
 El HDV 242.203-8 recorrió 652 696 km en lugar de los 550 000 km recomendados por el transportista sin haber realizado la EVY, y 2 253 715 km en lugar de los 1 100 000 km recomendados por el transportista sin haber realizado la EH. En el caso de la reparación periódica principal, se trata de un múltiplo de exceso del recorrido kilométrico, aunque según lo recomendado por el transportista. En el caso de no establecerse un límite superior vinculante de los recorridos kilométricos, esto en la explotación significa que el transportista puede explotar el HDV con un recorrido kilométrico sin límite, sin incumplir las disposiciones de la norma interna
 
-
 ## Página 37
+
 
 ČD V 25. Tal explotación del HDV, atendiendo a su antigüedad (año de fabricación 1975) y a 38 años de explotación, no puede considerarse segura.
 El alcance del mantenimiento de las piezas de transmisión de las fuerzas de tracción en la reparación periódica EVY y EH está establecido sobre la base de las directrices elaboradas por el fabricante ŠKODA Plzeň:
@@ -1013,8 +1216,8 @@ A la Solicitud de la Inspección Ferroviaria de fecha 28. 6. 2013, ref. 6-1528/2
 A la Solicitud de la Inspección Ferroviaria de fecha 29. 7. 2013, ref. 6-1528/2013/DI-2, el transportista en el documento ref. 1315/2013-O 12 de fecha 2. 8. 2013 indicó:
 "Desde la posición de la GŘ no se producen denegaciones de la inclusión solicitada en las reparaciones periódicas. Ya que están limitados tanto los fondos para la realización de reparaciones periódicas como la capacidad de los reparadores y, por último, también la reserva de vehículos operativos, no es posible dejar que se incluyan en las reparaciones periódicas todos los vehículos que hayan alcanzado o superado el km recorrido para el nivel de reparación periódica correspondiente. La selección de vehículos para las reparaciones periódicas se realiza sobre la base de la sumarización de las solicitudes de los distintos depósitos de vehículos ferroviarios, en su caso tras consulta con los representantes de los distintos depósitos, atendiendo al plan financiero de las reparaciones periódicas, la capacidad de los reparadores, las necesidades y los rendimientos previstos de los vehículos respectivamente de la serie correspondiente en el período futuro. Con ello los depósitos no se eximen de la obligación de explotar únicamente vehículos cuyo estado garantice una explotación segura. Si una explotación segura no puede garantizarse sin la realización de una reparación periódica, los vehículos se retiran de la explotación.
 
-
 ## Página 38
+
 
 En las inspecciones realizadas hasta la fecha sobre la base de las medidas adoptadas por el director del Departamento de vehículos ferroviarios de la GŘ ČD, a. s., no se detectaron otras averías en el nudo inspeccionado."
 En el art. 22 de la norma interna ČD V 25 se indica: "Al decidir sobre las solicitudes de inclusión de ŽKV en las reparaciones periódicas en el período siguiente, es necesario partir siempre del estado técnico real del ŽKV y del estado técnico previsto que tendrá el ŽKV en el período considerado de inclusión. ...".
@@ -1024,17 +1227,21 @@ Fig. n.º 8: Vestigios en la estructura del paso a nivel en el km 331,019
   Fuente: DI
 En los cantos del panel de hormigón que forma la estructura del paso a nivel ferroviario eran visibles vestigios de desprendimiento reciente de hormigón y en su superficie superior vestigios de fricción de las cabezas de las barras horizontales y diagonales.
 
-
 ## Página 39
 
-Posteriormente, durante la marcha del R 923, se produjo el corte del cuarto tornillo de unión restante por efecto del cruce de la estructura del bastidor respectivamente de todo el dispositivo de transmisión de las fuerzas de tracción y con ello su posterior caída y colgamiento. Desde ese momento, el dispositivo de transmisión de las fuerzas de tracción quedó suspendido únicamente de los cuatro cables de retención de las barras horizontales y diagonales. Con la caída de todo el dispositivo de transmisión de las fuerzas de tracción, las cabezas de las barras horizontales y diagonales, tanto en el lado derecho como en el izquierdo, al amortiguarse el HDV, dejaban vestigios significativos en las estructuras de los pasos a nivel ferroviarios (véase fig. n.º 9).
-Fig. n.º 9: Vestigios en la estructura del paso a nivel en el km 329,051
+Posteriormente, durante la circulación del R 923, se produjo el corte del cuarto y último tornillo de unión debido al cruce de la estructura de la caja, respectivamente, de todo el dispositivo de transmisión de fuerzas de tracción, y en consecuencia a su posterior descenso y flecha. A partir de este momento, el dispositivo de transmisión de fuerzas de tracción quedó suspendido únicamente en cuatro cables de retención de las barras horizontales y diagonales. Con el descenso de todo el dispositivo de transmisión de fuerzas de tracción, las cabezas de las barras horizontales y diagonales, tanto en el lado derecho como en el izquierdo, dejaban marcas notables en las estructuras de los pasos a nivel durante la flexión del HDV (véase la fig. n.º 9).
+
+Fig. n.º 9: Marcas en la estructura del paso a nivel en el km 329,051
 Fuente: DI
-Descripción técnica y explicación del principio de transmisión de fuerzas y de la conexión del bogie con el bastidor de la locomotora (fuente: Locomotora eléctrica monofásica S 489.0 – Ing. František Pavlík y equipo)
-"La conexión del bogie con el bastidor del HDV debe ser tal que, en la transmisión de las fuerzas verticales, longitudinales y transversales que actúan mutuamente, se permita también el movimiento mutuo de ambas partes, derivado de la marcha sobre las vías (p. ej., al pasar por curvas, ante irregularidades fortuitas de la vía). Las fuerzas longitudinales son especialmente las fuerzas de tracción y de frenado, que actúan en el eje longitudinal del HDV y se generan entre las ruedas y el raíl. Se transmiten desde el eje motriz al larguero del bastidor del HDV, posteriormente al bulón giratorio, desde donde se transmiten mediante la abrazadera de transmisión de las fuerzas de tracción y las barras horizontales y diagonales, a través de las ménsulas, a los travesaños de los bastidores principales y a ambos sus largueros. Las fuerzas en sentido longitudinal, es decir, de tracción y de frenado, alcanzan valores relativamente grandes, por lo que es importante el modo en que se transmiten. Especialmente ante la acción de una fuerza de tracción o de frenado, es necesaria la transmisión de la componente de fricción en el movimiento transversal, para que la solicitación de las barras horizontales y diagonales por la transmisión de las fuerzas longitudinales no se desvíe en sentido transversal.
-Las barras diagonales de transmisión de las fuerzas de tracción están fijadas mediante silentbloques cilíndricos a los bulones de la guía inferior, en cuyo lado trasero están soldadas las bielas de transmisión de las fuerzas longitudinales – las barras horizontales. En la superficie superior de la guía inferior se ha formado un remate guarnecido por una brida, que está unida por cuatro tornillos de unión a la guía superior de la piedra. Esta tiene en la parte inferior
+
+Descripción técnica y explicación del principio de transmisión de fuerzas y de la unión del bogie con la caja de la locomotora (fuente: Locomotora eléctrica monofásica S 489.0 – Ing. František Pavlík y colaboradores)
+
+«La unión del bogie con la caja del HDV debe ser tal que, durante la transmisión de las fuerzas verticales, longitudinales y transversales que actúan mutuamente, se permita también el movimiento relativo de ambas partes, derivado de la circulación sobre las vías (por ejemplo, al pasar por curvas o ante irregularidades fortuitas de la vía). Las fuerzas longitudinales son especialmente las fuerzas de tracción y de frenado, que actúan en el eje longitudinal del HDV y se generan entre las ruedas y el raíl. Se transmiten desde el eje motriz al larguero del bastidor del HDV, y posteriormente al bulón de giro, desde donde se transmiten mediante la abrazadera de transmisión de fuerzas de tracción y las barras horizontales y diagonales, a través de las ménsulas, a los travesaños de los bastidores principales y a ambos de sus largueros. Las fuerzas en sentido longitudinal, es decir, de tracción y de frenado, alcanzan valores relativamente grandes, por lo que es importante el modo en que se transmiten. Especialmente cuando actúa una fuerza de tracción o de frenado, es necesaria la transmisión del componente de fricción durante el movimiento transversal, de modo que la solicitación de las barras horizontales y diagonales por la transmisión de las fuerzas longitudinales no se desplace al sentido transversal.
+
+Las barras diagonales de transmisión de fuerzas de tracción están fijadas mediante bujes de goma cilíndricos a los bulones de guiado inferior, en cuyo lado trasero están soldadas las tirantes de transmisión de fuerzas longitudinales – las barras horizontales. En la cara superior del guiado inferior se ha formado un remate delimitado por una brida, que está unida por cuatro tornillos de unión al guiado superior de la piedra. Este tiene en la parte inferior»
 
 ## Página 40
+
 
 plochamente soldada. El guía, que forma parte de la caja de transmisión de las fuerzas de tracción y que está insertado entre las placas de manganeso, se desplaza transversalmente sobre ellas. Y es aquí donde se transmite principalmente la componente vertical de la fuerza que se origina en las barras inclinadas durante la transmisión de las fuerzas de tracción o, en su caso, de frenado. Si el dispositivo de transmisión de las fuerzas de tracción está en buen estado, esta fuerza es recogida por el guía y por la transmisión de las fuerzas de tracción anclada al bastidor del bogie."
 A consecuencia de los golpes dinámicos sobre el HDV producidos por las fuerzas longitudinales durante el frenado del tren R 923 hacia la estación de Nepomuk, y debido a la pérdida absoluta de la transmisión adecuada de las fuerzas longitudinales y transversales, por no haberse asegurado una conexión segura entre la guía superior y la inferior, se produjo, tras la entrada del HDV en el desvío n.º 22, una acción de fuerza transversal no reducida sobre el bogie trasero, de modo que la rueda izquierda del eje delantero del bogie trasero subió hasta la cabeza del raíl y posteriormente bajó hasta los elementos de fijación. Simultáneamente se produjo la rotura del cable de retención derecho e izquierdo de las barras horizontales de transmisión de las fuerzas de tracción (en el sentido de la marcha del HDV) en el ojal superior, la rotura del cable de retención izquierdo de la barra inclinada en el ojal superior y el descarrilamiento de todo el bogie trasero del HDV hacia la izquierda en el sentido de la marcha del R 923.
@@ -1042,8 +1249,8 @@ Los tres tornillos de unión ausentes de la guía superior e inferior de la tran
 Los cables de retención de las barras horizontales e inclinadas de transmisión de las fuerzas de tracción fueron remedidos tras su desmontaje. La posterior comparación de los valores medidos con la documentación de planos del fabricante del HDV permitió comprobar que las longitudes y diámetros de los cables de retención de ambas barras horizontales, así como el del cable de retención izquierdo de la barra inclinada (en el sentido de la marcha del HDV), corresponden a la documentación de planos. En el caso del cable de retención derecho de la barra inclinada no fue posible evaluar objetivamente la longitud medida debido al deshilachado del cable y, en consecuencia, a su considerable alargamiento, durante el suceso del accidente. El valor medido del diámetro del cable de retención derecho de la barra inclinada en las proximidades de ambos ojales correspondía a la documentación de planos.
 El fabricante del HDV ŠKODA Plzeň prescribe en la documentación de planos el método de aseguramiento de los tornillos de unión de la guía superior e inferior de la transmisión de las fuerzas de tracción. De la «Vista Z» de la documentación de planos se desprende que las cabezas de los tornillos de unión deben estar taladradas y que por estos orificios debe pasar un alambre de aseguramiento. El alambre de aseguramiento debe unir siempre 2 cabezas de tornillos de unión y debe estar firmemente apretado (véase fig. n.º 10).
 
-
 ## Página 41
+
 
 Fig. n.º 10: Aseguramiento de los tornillos de unión
               Fuente: Documentación de planos del fabricante
@@ -1053,8 +1260,8 @@ Debido a la ubicación de los tornillos de unión de la guía superior e inferio
 En relación con la BD (Decisión) de la Inspección Ferroviaria n.º de expediente: 6-1371/2010/DI de fecha 21. 2. 2011, el operador ferroviario adoptó y emitió el 21. 3. 2011 las «Medidas para la reducción del riesgo de aparición de MU», n.º de expediente 500/2011-O12, en la que establece: «... en las inspecciones M y superiores prestar una atención especial al apriete de los tornillos de unión de la guía del guía y, una sola vez, en todas las locomotoras, en la inspección M más próxima, volver a comprobar la longitud y el estado de los cables de retención y comprobar su ajuste periódicamente, siempre que se manipulen durante la reparación de la locomotora».
 En virtud de la Solicitud de la Inspección Ferroviaria de fecha 18. 9. 2013, n.º de expediente 6-1528/2013/DI-3, el operador ferroviario remitió la documentación acreditativa de la ejecución de esta medida. Tanto en DKV Plzeň como en DKV Brno, que operan HDV de la serie 242, se realizaron en 2011, de acuerdo con la medida, comprobaciones de los cables de retención y del apriete de los tornillos de unión. En el HDV 242.203-8, el apriete de los tornillos de unión y la comprobación de los cables de retención se realizaron el 30. 3. 2011.
 
-
 ## Página 42
+
 
 ## 4.3
 ### Conclusiones
@@ -1086,26 +1293,26 @@ En el operador ferroviario ČD, a. s.:
 no se detectaron deficiencias.
 •
 
-
 ## Página 43
 
-## 5 MEDIDAS ADOPTADAS
+## 5 Medidas adoptadas
 ## 5.1
-### Lista de medidas que ya se han tomado o adoptado como consecuencia del suceso excepcional
-El operador ferroviario SŽDC, s. o., emitió tras la aparición del MU las siguientes medidas:
-El operador ferroviario no adoptó ni emitió ninguna medida.
-El operador ferroviario České dráhy, a. s., emitió tras la aparición del MU las siguientes medidas:
-         Directiva del Director O12 n.º 6/2013 «Aseguramiento de las barras inclinadas en la serie 242» n.º de expediente 966/2013-O12 de fecha 10. 6. 2013, con efectos desde el 10. 6. 2013 y vigencia hasta el 31. 12. 2013:
-«El 20. 2. 2013 se produjo en la estación de Nepomuk el descarrilamiento de la locomotora 242.203-8 por el bogie trasero. La causa fue la caída de la suspensión de las barras inclinadas bajo el travesaño del bogie. Durante la inspección comisionada constatamos que de los cuatro tornillos que sujetan la guía de las barras inclinadas en el soporte «V» bajo el travesaño del bogie, faltaban dos sin daño aparente en las roscas y uno estaba roto.
-El reglamento de mantenimiento establece únicamente una inspección visual de este conjunto. En caso de que se produzca un aflojamiento progresivo de los tornillos, esto no tiene por qué ser detectado mediante una inspección visual, ya que la guía de las barras inclinadas descansa sobre las cabezas de los tornillos y la superficie de separación entre esta guía y el soporte «V» está cubierta por una junta tórica.
-En el plano del fabricante se prescribe taladrar las cabezas de los tornillos y asegurarlos con alambre. En su lugar, se utilizan habitualmente arandelas elásticas. En el próximo mantenimiento periódico, compruebe el estado y el apriete de los mencionados tornillos y envíe el resultado a O12 – basta con un correo electrónico al gestor de la serie. A continuación, asegure los tornillos con alambre de acuerdo con la documentación de planos.»
-El operador ferroviario adoptó medidas que forman parte de la Evaluación de las causas y circunstancias de la aparición del MU, n.º de expediente 57097/2013-O12:
-1. «La causa del MU y la responsabilidad por su aparición serán debatidas en el órgano consultivo del VP DKV Plzeň, en un plazo hasta el 30. 9. 2013.»;
-2. «ČD, a. s., emitieron medidas para el aseguramiento de las barras inclinadas en los HDV de la serie 242 (Directiva del Director O12 GŘ n.º 6/2013), con efectos desde el 10. 6. 2013 y vigencia hasta el 31. 12. 2013.»;
-3. «El personal de mantenimiento del DKV Plzeň que pueda verse afectado será informado sobre la Directiva del Director O12/2013, en un plazo hasta el 30. 9. 2013.»
-
+### Lista de medidas que, como consecuencia del suceso ferroviario, ya se han adoptado o tomado
+El gestor de la infraestructura SŽDC, s. o., emitió, tras la aparición del SU, las siguientes medidas:
+El gestor de la infraestructura no adoptó ni emitió ninguna medida.
+El transportista České dráhy, a. s., emitió, tras la aparición del SU, las siguientes medidas:
+         Instrucción del director O12 n.º 6/2013 «Aseguramiento de las barras diagonales en la l. 242» n.º ref. 966/2013-O12
+de fecha 10. 6. 2013, con entrada en vigor a partir del 10. 6. 2013 y validez hasta el 31. 12. 2013:
+«El 20. 2. 2013 se produjo en la est. Nepomuk el descarrilamiento de la locomotora 242.203-8 por el bogie trasero. La causa fue la caída del montaje de las barras diagonales bajo el frontal del bogie. En la inspección por comisión constatamos que, de los cuatro tornillos que sujetan la guía de las barras diagonales en el enganche «V» bajo el frontal del bogie, faltaban dos sin daño aparente de las roscas y uno estaba roto.
+El reglamento de mantenimiento establece únicamente una inspección visual de este conjunto. En caso de aflojamiento progresivo de los tornillos, no tiene por qué detectarse mediante esta inspección visual, ya que sobre las cabezas de los tornillos descansa la guía de las barras diagonales y la superficie de separación entre dicha guía y el enganche «V» está cubierta por el guardapolvo.
+En el plano del fabricante se prescribe taladrar las cabezas de los tornillos y asegurarlos con alambre. En su lugar, habitualmente se utilizan arandelas elásticas. En el próximo mantenimiento ordinario, compruebe el estado y el apriete de los mencionados tornillos y envíe el resultado a O12 – basta con un correo electrónico al gestor de la serie. A continuación, asegure los tornillos con alambre conforme a la documentación de planos.»
+El transportista adoptó medidas que forman parte de la Evaluación de las causas y circunstancias de la aparición del SU, n.º ref. 57097/2013-O12:
+1. «La causa del SU y la responsabilidad por su aparición se debatirán en el órgano consultivo del VP DKV Plzeň, en el plazo hasta el 30. 9. 2013.»;
+2. «ČD, a. s., emitieron medidas para el aseguramiento de las barras diagonales en el material rodante de la serie 242 (Instrucción del director O12 GŘ n.º 6/2013), con entrada en vigor a partir del 10. 6. 2013 y validez hasta el 31. 12. 2013.»;
+3. «El personal de mantenimiento del DKV Plzeň que entre en consideración será informado de la Instrucción del director O12/2013, en el plazo hasta el 30. 9. 2013.»
 
 ## Página 44
+
 
 ## 6 RECOMENDACIONES DE SEGURIDAD
 La Inspección Ferroviaria, como autoridad administrativa competente en virtud de lo dispuesto en el apartado 5 del artículo 53b de la Ley n.º 266/1994 Sb., de ferrocarriles, en su redacción vigente, sobre la base del resultado de la investigación de las causas y circunstancias de la aparición del suceso excepcional, recomienda:
@@ -1135,8 +1342,8 @@ inspectora jefe
 Inspectorado Territorial de Plzeň
 Inspectorado Territorial de Plzeň
 
-
 ## Página 45
+
 
 ## 7 ANEXOS
 Fig. n.º 11: Vía de estación 2 dañada
@@ -1144,8 +1351,8 @@ Fuente: DI
 Fig. n.º 12: Bogie trasero del HDV descarrilado
 Fuente: DI
 
-
 ## Página 46
+
 
 Fig. n.º 13: Corazón de aguja del desvío n.º 21 dañado
 Fuente: DI

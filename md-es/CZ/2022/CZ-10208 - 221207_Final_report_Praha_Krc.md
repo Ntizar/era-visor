@@ -10,13 +10,14 @@ chars: 149625
 ratio_longitud: 1.26
 tokens_in: 82071
 tokens_out: 59473
-verificacion: revisar
-notas_cifras: ["bloque 3: cifras cortas: 4/183", "bloque 4: original bilingüe: se compara contra el idioma principal (CS)", "bloque 5: cifras largas: 1/96; cifras cortas: 1/129", "bloque 7: original bilingüe: se compara contra el idioma principal (CS)", "bloque 9: original bilingüe: se compara contra el idioma principal (CS)", "bloque 10: cifras cortas: 1/106"]
-avisos: ["bloque 4: ratio 1.64", "bloque 9: ratio 1.70", "bloque 11: ratio 1.72"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 6: original bilingüe: se compara contra el idioma principal (CS)", "página 7: original bilingüe: se compara contra el idioma principal (CS)", "página 10: original bilingüe: se compara contra el idioma principal (CS)", "página 11: original bilingüe: se compara contra el idioma principal (CS)", "página 13: original bilingüe: se compara contra el idioma principal (CS); cifras cortas: 1/44", "página 14: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -39,13 +40,13 @@ IČ: 75009561
 mail@dicr.cz
 tel.: +420 736 521 003
 
-
 ## Página 2
+
 
 El presente informe final es público y todos los hechos en él expuestos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ## 1 RESUMEN
 Fuente: Drážní inspekce
@@ -79,8 +80,8 @@ instalación de enclavamiento de la estación de Praha-Krč en servicio para
 realizar el cierre del itinerario de tren mediante la acción automática de la instalación de
 enclavamiento de la estación
 
-
 ## Página 4
+
 
 y no permitió la entrada del tren Os 9013 mediante la operación normal de la señal
 principal (de entrada) S.
@@ -88,8 +89,8 @@ No fue detectado por la Drážní inspekce ningún factor contribuyente.
 No fue detectada por la Drážní inspekce ninguna causa sistémica.
 No fue emitida por la Drážní inspekce ninguna recomendación de seguridad.
 
-
 ## Página 5
+
 
 ## SUMMARY
 23rd March 2022, 15:15 (13:15 GMT).
@@ -124,8 +125,8 @@ Contributing factor: none.
 Systemic factor: none.
 Recommendation: not issued.
 
-
 ## Página 6
+
 
 # Índice
 1 RESUMEN........................................................................................................................3
@@ -175,6 +176,7 @@ ferroviaria o de las instalaciones técnicas....................................
 
 ## Página 7
 
+
 4.2.2 Factores o consecuencias derivados de la instalación y puesta en servicio de vehículos ferroviarios, infraestructura ferroviaria o instalaciones técnicas......................................40
 4.2.3 Factores o consecuencias relacionados con fabricantes de vehículos ferroviarios u otros proveedores de productos ferroviarios............................................................................40
 4.2.4 Factores o consecuencias derivados del mantenimiento y modificación de vehículos ferroviarios o instalaciones técnicas....................................................................................................40
@@ -204,6 +206,7 @@ ferroviaria o de las instalaciones técnicas....................................
 ANEXOS..............................................................................................................................48
 
 ## Página 8
+
 
 ### Lista de siglas y símbolos utilizados
 ARR
@@ -301,6 +304,7 @@ estación ferroviaria
 
 ## Página 9
 
+
 ### Lista de siglas de la legislación, normas y reglamentos internos utilizados
 ley n.º 266/1994 Sb.
 ley n.º 266/1994 Sb., de vías férreas, en la redacción vigente en el momento de la ocurrencia del SU
@@ -323,38 +327,38 @@ reglamento interno del transportista ČD, «ČD V 2 Reglamento para las cuadrill
 
 ## Página 10
 
-## 2 INVESTIGACIÓN Y SU CONTEXTO
+## 2 INVESTIGACIÓN Y SUS RELACIONES
 ### 2.1 Decisión de iniciar la investigación
-La DI decidió iniciar la investigación del SU en cuestión el 23. 3. 2022.
+La DI decidió iniciar la investigación de la MU en cuestión el 23. 3. 2022.
 ### 2.2 Fundamentación de la decisión de iniciar la investigación
-La DI decidió investigar el SU en cuestión sobre la base de su gravedad, su recurrencia, los efectos del SU sobre la explotación segura del transporte ferroviario y la facultad derivada de la disposición § 53b de la ley n.º 266/1994 Sb.
+La DI decidió investigar la MU en cuestión sobre la base de su gravedad, su repetitividad, los efectos de la MU sobre la explotación segura del transporte ferroviario y la facultad derivada de la disposición § 53b de la Ley núm. 266/1994 Sb.
 ### 2.3 Alcance y limitaciones de la investigación, incluida la fundamentación correspondiente
-La DI no se encontró, en el marco de la investigación del SU en cuestión, con limitaciones que influyeran negativamente en el modo y los procedimientos de la investigación.
-### 2.4 Descripción resumida de las capacidades y funciones técnicas del equipo de investigación
-Investigación de la DI en el lugar del SU:
-3x inspector del ÚI Čechy, puesto de Praga (la investigación de las causas y circunstancias de la ocurrencia del SU fue encomendada al ÚI Ostrava).
+La DI no se encontró, en el marco de la investigación de la MU en cuestión, con limitaciones que influyeran negativamente en el modo y los procedimientos de la investigación.
+### 2.4 Descripción resumida de las capacidades técnicas y funciones del equipo de investigación
+Investigación de la DI en el lugar de la MU:
+3x inspector de la ÚI Čechy, centro de trabajo de Praga (la investigación de las causas y circunstancias de la MU fue encomendada a la ÚI Ostrava).
 Constitución del equipo de investigación:
-no fue necesario constituirla.
+no fue necesario constituirlo.
 Colaboración externa:
-no se utilizó.
-2.5 Comunicación y consultas durante la investigación con las personas o sujetos que participaron en el suceso en cuestión
-En la investigación de las causas y circunstancias de la ocurrencia del SU, la DI se basó principalmente en sus propios conocimientos, hallazgos y en su propia documentación fotográfica. Durante la investigación del SU, la DI solicitó la documentación necesaria al gestor de la vía férrea SŽ y al transportista ČD.
-La investigación de las causas y circunstancias de la ocurrencia del SU se realizó de conformidad con la ley n.º 266/1994 Sb. y el decreto n.º 376/2006 Sb.
-### 2.6 Descripción del nivel de colaboración ofrecido por los sujetos implicados
-El nivel de colaboración con los representantes de los sujetos implicados en el SU fue estándar; la DI recibió la información requerida para la investigación de las causas y circunstancias de la ocurrencia del SU.
-### 2.7 Descripción de la investigación, los métodos y las técnicas utilizados para acreditar los hechos y los hallazgos recogidos en el informe
-En el marco de la investigación del SU, la DI procedió de la siguiente manera, es decir, utilizó, entre otros, los siguientes métodos y técnicas:
+no fue utilizada.
+2.5 Comunicación y consultas durante la investigación con las personas o entidades que participaron en el suceso
+En la investigación de las causas y circunstancias de la MU, la DI se basó principalmente en sus propios conocimientos, hallazgos y en su propia documentación fotográfica. Durante la investigación de la MU, la DI solicitó posteriormente la documentación necesaria al explotador de la vía SŽ y al transportista ČD.
+La investigación de las causas y circunstancias de la MU se realizó de conformidad con la Ley núm. 266/1994 Sb. y el decreto núm. 376/2006 Sb.
+### 2.6 Descripción del nivel de colaboración ofrecido por las entidades participantes
+El nivel de colaboración con los representantes de las entidades participantes en la MU fue estándar; la DI recibió la información requerida para la investigación de las causas y circunstancias de la MU.
+### 2.7 Descripción de la investigación, los métodos y las técnicas utilizados para acreditar los hechos y los hallazgos consignados en el informe
+En el marco de la investigación de la MU, la DI procedió de la siguiente manera, y utilizó, entre otros, los siguientes métodos y técnicas:
 •
-inspección del lugar del SU – la infraestructura de la vía férrea y los DV de los trenes Os 9013 y Ex 561 en la estación Praha-Krč;
+inspección del lugar de la MU – la infraestructura de la vía y los DV de los trenes Os 9013 y Ex 561 en la est. Praga-Krč;
 •
-análisis de la documentación solicitada al gestor de la vía férrea SŽ y al transportista ČD;
+análisis de la documentación solicitada al explotador de la vía SŽ y al transportista ČD;
 •
 análisis de los datos registrados por los registradores de velocidad de los DV de los trenes Os 9013 y Ex 561;
 •
-recomprobación del funcionamiento correcto de la SZZ de la estación Praha-Krč con la utilización de la ruta de tren variante n.º 122 según la ZT (véanse los puntos 3.2.1, 4.1.1 y el Anexo de esta ZZ);
-
+comprobación del funcionamiento correcto de la SZZ de la est. Praga-Krč mediante el uso de la ruta de tren alternativa núm. 122 según el ZT (véanse los puntos 3.2.1, 4.1.1 y el Anexo de esta ZZ);
 
 ## Página 11
+
 
 •
 participación en la inspección comisionada de los DV implicados;
@@ -387,6 +391,7 @@ incidente.
 
 ## Página 12
 
+
 ### 3.1.3 Descripción del lugar del suceso
 La estación de tráfico (est.) Praha-Krč se encuentra en las vías ferroviarias, categoría nacional Praha-Zahradní Město – desv. Závodiště y Praha-Krč – Praha-Vršovice y categoría regional Čerčany – Praha-Krč, siendo para la vía regional estación de desvío. Los tramos intermedios adyacentes de las vías ferroviarias, categoría nacional, y todos los tramos de vía (SK) de la est. Praha-Krč están electrificados (electrificados) con sistema de corriente continua de 3 kV de tensión. Por el contrario, en el tramo intermedio adyacente de la vía ferroviaria, categoría regional, la línea no está electrificada.
 Fig. n.º 1: Esquema del lugar de origen del SU.
@@ -397,8 +402,9 @@ Estado de la infraestructura:
 •
 El desvío simple de izquierda n.º 32, situado en el pk 5,542, estaba apoyado sobre soportes de riel de madera (en adelante, traviesa). Su lengüeta izquierda (directa) (en adelante, lengüeta directa) estaba en contacto en posición final con el soporte (el gancho izquierdo de retención de la lengüeta estaba enganchado) – el desvío estaba dispuesto en la dirección principal para la marcha del DV en dirección directa hacia/desde el SK n.º 1b. El cambiador electromotor EP600 y el contrapeso de cambio se situaban a la izquierda del ZV. El cambiador no presentaba signos de cambio forzado del desvío – corte (en adelante, corte), la polea guía correspondiente encajaba en el hueco de la placa guía (del disco de retención), y la barra de control correspondiente estaba enganchada en la regla de control. El contrapeso de cambio, pintado de amarillo y marcado con el número "32" en negro, apuntaba hacia la vía, es decir, estaba en consonancia con la posición real del desvío.
 
-
 ## Página 13
+
+
 Las puntas de las lengüetas del desvío n.º 32 en el pk 5,54363 no presentaban ninguna marca de golpe de los aros del DV. A una distancia de 7,17 m de la punta de la lengüeta izquierda, es decir, en el pk 5,550 80, se encontraba la marca del deslizamiento de la rueda izquierda del eje del bogie delantero de un solo eje (descrito en el sentido de marcha del tren Os 9013) del HDV delantero CZ-ČD 95 54 5 814 215-0 (en adelante, 814.215-0) de la unidad motriz trasera, fuera del soporte izquierdo, mientras que a otros 20 cm, es decir, en el pk 5,551, se encontraba la marca de la rueda descarrilada en el corto enlace de la lengüeta izquierda, seguida en el pk 5,55150 por marcas en el 3.º y en el pk 5,55265 por marcas en el 4.º soporte de lengüeta de la lengüeta izquierda. A una distancia de 9,47 m de la punta de la lengüeta izquierda, es decir, en el pk 5,55310, se encontraba la marca del deslizamiento de la rueda derecha del bogie delantero de un solo eje del HDV delantero 814.215-0 de la unidad motriz trasera, fuera del soporte derecho. En el pk 5,55330 se encontraba un tornillo golpeado del sujetador del carril izquierdo (tras la rueda izquierda descarrilada) y en el pk 5,55380 un tornillo golpeado del sujetador del carril derecho (tras la rueda derecha descarrilada). En ambos carriles se observaban en el pk 5,55620 en los cierres contra el desplazamiento de las lengüetas las marcas de la rueda izquierda, respectivamente derecha, descarrilada del bogie delantero de un solo eje del HDV delantero 814.215-0 de la unidad motriz trasera. En ambas ramas del desvío n.º 32, sobre las traviesas entre los carriles, se encontraban marcas de los aros de las ruedas descarriladas, concretamente en el pk 5,55685 hasta 5,55770 se hallaban marcas del aro de la rueda izquierda descarrilada y en el pk 5,55905 y 5,56690 marcas del aro de la rueda derecha descarrilada.
 El 24 de marzo de 2022 se verificaron mediante medición los parámetros mecánicos del desvío:
 |  | izquierda | derecha |
@@ -410,8 +416,9 @@ El 24 de marzo de 2022 se verificaron mediante medición los parámetros mecáni
 El desvío de cruzamiento completo n.º 30ab de forma T-6º Lp, situado en el pk 5,604, estaba apoyado sobre traviesas de madera. Las lengüetas de los desvíos estaban en contacto con los soportes en posición para la marcha desde la derecha/hacia la izquierda, es decir, en el sentido de marcha del bogie 1.º y 2.º del DV del tren Os 9013. La parte de cambio 30b (recorrida por el tren Os 9013 contra la punta) no presentaba signos de corte, las puntas de las lengüetas no habían sido golpeadas por las ruedas del DV. Ambas lengüetas derechas (en el sentido de marcha del tren Os 9013) estaban en contacto con los soportes, los ganchos de retención estaban enganchados. El cambiador electromotor situado a la izquierda en el sentido de marcha del tren Os 9013 no presentaba signos de corte. El contrapeso de cambio, pintado de amarillo y marcado con el número "30B" en negro, apuntaba hacia fuera de la vía según la posición real del desvío.
 La parte de cambio 30a (recorrida por el tren Os 9013 por la punta) presentaba signos de corte. Ambas lengüetas izquierdas (en el sentido de marcha del tren) estaban en contacto con los soportes, pero los ganchos de retención estaban solo parcialmente enganchados. El cambiador electromotor situado a la izquierda en el sentido de marcha del tren Os 9013 presentaba signos de corte, cuando la polea guía correspondiente no encajaba en el hueco de la placa guía (del disco de retención) y a la vez la barra de control correspondiente no encajaba en el hueco previsto de la regla de control. El contrapeso de cambio
 
-
 ## Página 14
+
+
 pintado de amarillo y marcado con el número "30A" en negro, resultó dañado como consecuencia del SU.
 Estado del SZZ y de la documentación de tráfico de la est. Praha-Krč:
 a) elementos internos del SZZ – en el panel indicador con el esquema gráfico de la vía de la estación de tráfico en el DK:
@@ -428,23 +435,24 @@ a) elementos internos del SZZ – en el panel indicador con el esquema gráfico 
 ▪n.º 8, con la placa "8", estaba encendida con luz roja permanente, lo que indicaba el hecho de que los tramos estaban ocupados, es decir, que en los tramos en cuestión se encontraba un DV, concretamente el tren Ex 561,
 ▪n.º 10, con la placa "10", estaba encendida con luz roja permanente, lo que indicaba el hecho de que los tramos estaban ocupados, es decir, que en los tramos en cuestión se encontraba un DV, en relación con una interrupción prolongada planificada según ROV 60001 A (véase el punto 3.1.8 de esta ZZ),
 
-
 ## Página 15
-◦la luz indicadora verde encendida permanentemente del conmutador de tres posiciones – conjunto de cambio individual de desvíos (en adelante, conmutador de tres posiciones) del par de desvíos n.º 27a y 29, con la placa "+ 27a/29 -", del desvío n.º 26 con la placa "+ 26 -" y del n.º 27 con la placa "+ 27 -", indicaba la información de la posición de los desvíos "+", estando los conmutadores de tres posiciones de los desvíos mencionados en posición extrema a la izquierda,
-◦los conmutadores de tres posiciones del par de desvíos n.º 31 y 34, con la placa "+ 31/34 -", del n.º 28 y n.º 30b, con la placa "+ 28/30b -", del desvío n.º 25, con la placa "+ 25 -", del n.º 23, con la placa "+ 23 -", del par de desvíos n.º 21a y n.º 22, con la placa "+ 21a/22 -" y de los apartadores Vk3 y desvío n.º 21b, con la placa "+ Vk3/21b -", se encontraban en posición central. Las luces indicadoras de posición de los desvíos (apartadores) mencionados no estaban encendidas,
-◦la luz indicadora roja encendida permanentemente del conmutador de tres posiciones del par de desvíos n.º 30a y 32 con la placa "+ 30a/32 -" indicaba la información de la pérdida de supervisión de la posición final del desvío. La indicación estaba causada por el cambio forzado del desvío n.º 30a por las ruedas del DV del tren Os 9013 (el llamado corte del desvío). El conmutador de tres posiciones estaba en posición extrema a la derecha, es decir, en la posición "-",
-◦los precintos de los pulsadores "Liberación de emergencia de los cambios" no estaban violados,
-◦ninguno de los conmutadores de tres posiciones de todos los desvíos recorridos y de desvío, que formaban parte del itinerario de tren establecido para la entrada del tren Os 9013 desde el TK n.º 1 Praha-Krč – Praha-Vršovice hacia la est. Praha-Krč, estaba provisto de un dispositivo de recordatorio (véase el punto 4.1.1 de esta ZZ),
-◦en el extremo de Vršovice no se había realizado el cierre de ningún KÚ del itinerario de tren;
-◦las señales de entrada S y VS y las señales principales (de salida) (en adelante, señal de salida) L1, L2, L3, L4, L6, L8 y L10 de la est. Praha-Krč estaban en posición de prohibición de marcha;
+
+◦la luz indicadora verde encendida permanentemente del mando de tres posiciones del conjunto de cambio individual de agujas (en adelante, mando de tres posiciones) del par de agujas n.º 27a y n.º 29, provisto de la placa «+ 27a/29 -», de la aguja n.º 26, provisto de la placa «+ 26 -», y de la n.º 27, provisto de la placa «+ 27 -», indicaba la información sobre la posición de las agujas «+», estando los mandos de tres posiciones de las agujas mencionadas en la posición extrema a la izquierda,
+◦los mandos de tres posiciones del par de agujas n.º 31 y 34, provisto de la placa «+ 31/34 -», n.º 28 y n.º 30b, provisto de la placa «+ 28/30b -», de las agujas n.º 25, provisto de la placa «+ 25 -», n.º 23, provisto de la placa «+ 23 -», del par de agujas n.º 21a y n.º 22, provisto de la placa «+ 21a/22 -», y de la desviadora Vk3 y la aguja n.º 21b, provisto de la placa «+ Vk3/21b -», se encontraban en la posición central. Las luces indicadoras de posición de las agujas mencionadas (desviadoras) no estaban encendidas,
+◦la luz indicadora roja encendida permanentemente del mando de tres posiciones del par de agujas n.º 30a y n.º 32, provisto de la placa «+ 30a/32 -», indicaba la información sobre la pérdida de supervisión de la posición final de la aguja. La indicación fue causada por el cambio forzado de la aguja n.º 30a por las ruedas DV del tren Os 9013 (el llamado corte de aguja). El mando de tres posiciones se encontraba en la posición extrema a la derecha, es decir, en la posición «-»,
+◦los precintos de los botones «Liberación de emergencia de agujas» no habían sido violados,
+◦ninguno de los mandos de tres posiciones colocados de todas las agujas de paso y de apartadero que formaban parte del itinerario de tren establecido para la entrada del tren Os 9013 desde la TK n.º 1 Praha-Krč – Praha-Vršovice a la est. Praha-Krč estaba provisto de un dispositivo de recordatorio (véase el punto 4.1.1 de la presente ZZ),
+◦en el extremo de Vršovice no se había realizado el cierre de ningún KÚ de itinerario de tren;
+◦las señales de entrada S y VS y las señales principales (de salida) (en adelante, señal de salida) L1, L2, L3, L4, L6, L8 y L10 de la est. Praha-Krč se encontraban en posición de prohibición de marcha;
 ◦el estado (número) del contador de maniobras PN:
-▪el de la señal de entrada RL era en el momento de la inspección "5254", mientras que en el momento de la entrega/recepción del servicio del empleado de tráfico el 23 de marzo de 2022 figuraba en la aplicación electrónica "Entrega de servicio de tráfico" el estado del contador de maniobras PN de la señal de entrada RL "5252" (véase más abajo y el punto 4.1.1 de esta ZZ),
-▪el de las señales de salida L10, L8, L6, L4, L2, L1 y L3 era en el momento de la inspección "2418", mientras que en el momento de la entrega/recepción del servicio del empleado de tráfico el 23 de marzo de 2022 figuraba en la aplicación electrónica "Entrega de servicio de tráfico" el estado del contador de maniobras PN de las señales de salida mencionadas "2414" (véase más abajo y el punto 4.1.1 de esta ZZ),
-▪el de la señal de entrada S era en el momento de la inspección "5946", mientras que en el momento de la entrega/recepción del servicio del empleado de tráfico el 23 de marzo de 2022 figuraba en la aplicación electrónica "Entrega de servicio de tráfico" el estado del contador de maniobras PN de la señal de entrada S "5944" (véase más abajo y el punto 4.1.1 de esta ZZ),
+▪de la señal de entrada RL era, en el momento del examen, «5254», mientras que en el momento de la entrega/recepción del servicio del empleado de tráfico el 23. 3. 2022, en la aplicación electrónica «Odevzdávka dopravní služby» figuraba el estado del contador de maniobras PN de la señal de entrada RL «5252» (véase más abajo y el punto 4.1.1 de la presente ZZ),
+▪de las señales de salida L10, L8, L6, L4, L2, L1 y L3 era, en el momento del examen, «2418», mientras que en el momento de la entrega/recepción del servicio del empleado de tráfico el 23. 3. 2022, en la aplicación electrónica «Odevzdávka dopravní služby» figuraba el estado del contador de maniobras PN de las señales de salida mencionadas «2414» (véase más abajo y el punto 4.1.1 de la presente ZZ),
+▪de la señal de entrada S era, en el momento del examen, «5946», mientras que en el momento de la entrega/recepción del servicio del empleado de tráfico el 23. 3. 2022, en la aplicación electrónica «Odevzdávka dopravní služby» figuraba el estado del contador de maniobras PN de la señal de entrada S «5944» (véase más abajo y el punto 4.1.1 de la presente ZZ),
 b) elementos internos del SZZ – en la sala tecnológica (de relés):
-◦el fusible fundido que registraba el corte del par de desvíos n.º 30a/32, el relé de supervisión 30a/32 DP y 30a/32 DM y el relé de mando 30a32 ŘM y 30a/32 ŘP estaba desprendido, el ancla polarizada del relé 30a/32 D, tipo KR2-600, del par de desvíos n.º 30a/32 estaba en posición correspondiente a la posición positiva del cambio de desvíos (la última orden de cambio completada era hacia la posición "+". El conmutador se había desplazado a la posición "-" solo tras la ocupación del KO del tramo 32Vk), el ancla neutra de dicho relé estaba desprendida; la posición del ancla polarizada del relé 30a/32 VS situado en el armario de relés en la vía
+◦el fusible fundido que registraba la división del par de agujas n.º 30a/32, los relés de supervisión 30a/32 DP y 30a/32 DM y los relés de cambio 30a32 ŘM y 30a/32 ŘP estaba fundido, el ancla polarizada del relé 30a/32 D, tipo KR2-600, del par de agujas n.º 30a/32 se encontraba en la posición correspondiente a la posición positiva del cambio de agujas (la última orden de cambio completada fue hacia la posición «+». El mando fue conmutado a la posición «-» solo después de la ocupación del KO del tramo 32Vk), el ancla neutra de este relé estaba fundida; la posición del ancla polarizada del relé 30a/32 VS situado en el armario de relés en la vía
 
 ## Página 16
+
 
 correspondía, según el esquema de conexión, a la última conmutación a la posición «-», lo que confirmaba la última conmutación realizada a la posición «+». Posteriormente, mediante una prueba de verificación, se demostró la discrepancia entre la documentación y la conexión real de los conductores en los contactos de este relé, la cual, sin embargo, no tuvo influencia en la función de la SZZ, y también el estado de este relé confirmó que la última conmutación realizada había sido a la posición «+»,
 ◦en los registros de medida del circuito de vía 32Vk se indicaban mensualmente los valores de Ukd para el periodo 1/2021 hasta 3/2022 en el rango de 90,0 a 90,3 V (último registro realizado el 4. 3. 2022), mientras que el valor permitido según la norma interna de la SŽDC T120 estaba establecido en 70 a 84 V. En el momento de la inspección se midió un valor de 66,5 V (véanse los puntos 4.1.1 y 5.3 de esta ZZ),
@@ -466,122 +474,170 @@ salida real de odb. Tunel a Praha-Krč a las 14:21 h (realizada mediante la apli
 •
 salida prevista de Praha-Krč a Praha-Vršovice a las 14:26 h (realizada mediante la aplicación EDD por la jefa de estación de Praha-Krč) por la TK n.º 1,
 
-
 ## Página 17
 
 •
-salida real (paso) de Praha-Krč a Praha-Vršovice a las 14:27 h
-(realizada mediante la aplicación EDD por la jefa de estación de Praha-Krč) por la TK n.º 1,
+salida real (paso) de Praha-Krč a Praha-Vršovic a las 14:27 h
+(fijada por la aplicación EDD por el jefe de estación de Praha-Krč) por la
+vía TK n.º 1,
 •
-en la estación de Praha-Krč se estableció la ruta de tren desde la TK n.º 1 Praha-Krč –
-odb. Tunel hasta la SK n.º 1 y a continuación desde la SK n.º 1 hasta la TK n.º 1 Praha-Krč – Praha-
+en la estación de Praha-Krč se estableció la ruta de tren desde la vía TK
+n.º 1 Praha-Krč – desvío Tunel hacia la vía SK n.º 1 y, a continuación,
+desde la vía SK n.º 1 hacia la vía TK n.º 1 Praha-Krč – Praha-
 Vršovice,
 •
 en la nota se indicó:
-◦el número del contador de operaciones «PN L1: 2416», es decir, el registro (asiento) sobre el uso del elemento de emergencia de la señal de salida L1 (sin asiento
-justificativo de la circulación en PN, véanse los puntos 4.1.1 y 5.3 de esta ZZ),
-◦que el tren había sido dirigido en el trayecto Řevnice – Praha hl. n. por el desvío planificado,
+◦el número del contador de operaciones «PN L1: 2416», es decir, el
+registro (asiento) de la utilización del elemento de emergencia de la
+señal de salida L1 (sin registro de la justificación de la circulación
+en PN, véanse los puntos 4.1.1 y 5.3 de la presente ZZ),
+◦que el tren circuló en el trayecto Řevnice – Praha hl. n. por el
+desvío planificado,
 ▪Os 2015
-  en el tramo Praha-Vršovice – Praha-Krč – Praha-Braník:
+  en el tramo Praha-Vršovic – Praha-Krč – Praha-Braník:
 •
-salida prevista de Praha-Vršovice a Praha-Krč a las 14:35 h (realizada mediante la aplicación EDD por el despachante de vía del CDP Praha) por la TK n.º 1,
+salida prevista de Praha-Vršovic a Praha-Krč a las 14:35 h (fijada por
+la aplicación EDD por el despachador de línea del CDP Praha) por la vía
+TK n.º 1,
 •
-salida real de Praha-Vršovice a Praha-Krč a las 14:35 h (realizada mediante la aplicación EDD por el despachante de vía del CDP Praha) por la TK n.º 1,
+salida real de Praha-Vršovic a Praha-Krč a las 14:35 h (fijada por la
+aplicación EDD por el despachador de línea del CDP Praha) por la vía
+TK n.º 1,
 •
-llegada a la estación de Praha-Krč a las 14:42 h, 
+llegada a la estación de Praha-Krč a las 14:42 h,
 •
-salida prevista de Praha-Krč a Praha-Braník a las 14:43 h (realizada mediante la aplicación EDD por la jefa de estación de Praha-Krč) por la TK n.º 1,
+salida prevista de Praha-Krč a Praha-Braník a las 14:43 h (fijada por la
+aplicación EDD por el jefe de estación de Praha-Krč) por la vía TK n.º 1,
 •
-salida real de Praha-Krč a Praha-Braník a las 14:43 h (realizada mediante la aplicación EDD por la jefa de estación de Praha-Krč) por la TK n.º 1,
+salida real de Praha-Krč a Praha-Braník a las 14:43 h (fijada por la
+aplicación EDD por el jefe de estación de Praha-Krč) por la vía TK n.º 1,
 •
-en la estación de Praha-Krč se estableció la ruta de tren desde la TK n.º 1 Praha-Krč – Praha-
-Vršovice hasta la SK n.º 1 y a continuación desde la SK n.º 1 hasta la TK n.º 1 Praha-Braník – Praha-
+en la estación de Praha-Krč se estableció la ruta de tren desde la vía TK
+n.º 1 Praha-Krč – Praha-Vršovice hacia la vía SK n.º 1 y, a continuación,
+desde la vía SK n.º 1 hacia la vía TK n.º 1 Praha-Braník – Praha-
 Krč,
 •
-en la nota se indicó el número del contador de operaciones «PN S: 5945», es decir, el registro (asiento) sobre el uso del elemento de emergencia de la señal de entrada S (sin asiento
-justificativo de la circulación en PN, véanse los puntos 4.1.1 y 5.3 de esta ZZ),
+en la nota se indicó el número del contador de operaciones «PN S: 5945»,
+es decir, el registro (asiento) de la utilización del elemento de
+emergencia de la señal de entrada S (sin registro de la justificación de
+la circulación en PN, véanse los puntos 4.1.1 y 5.3 de la presente ZZ),
 ▪Os 10071
-  en el tramo odb. Tunel – Praha-Krč – Praha-Vršovice:
+  en el tramo desvío Tunel – Praha-Krč – Praha-Vršovic:
 •
-salida prevista de odb. Tunel a Praha-Krč a las 14:49 h (realizada mediante la aplicación EDD por la jefa de estación de Praha-Radotín) por la TK n.º 1,
+salida prevista del desvío Tunel a Praha-Krč a las 14:49 h (fijada por la
+aplicación EDD por el jefe de estación de Praha-Radotín) por la vía TK
+n.º 1,
 •
-salida real de odb. Tunel a Praha-Krč a las 14:48 h (realizada mediante la aplicación EDD por la jefa de estación de Praha-Radotín) por la TK n.º 1,
+salida real del desvío Tunel a Praha-Krč a las 14:48 h (fijada por la
+aplicación EDD por el jefe de estación de Praha-Radotín) por la vía TK
+n.º 1,
 •
-salida prevista de Praha-Krč a Praha-Vršovice a las 14:53 h (realizada mediante la aplicación EDD por la jefa de estación de Praha-Krč) por la TK n.º 1,
+salida prevista de Praha-Krč a Praha-Vršovic a las 14:53 h (fijada por la
+aplicación EDD por el jefe de estación de Praha-Krč) por la vía TK n.º 1,
 •
-salida real (paso) de Praha-Krč a Praha-Vršovice a las 14:54 h
-(realizada mediante la aplicación EDD por la jefa de estación de Praha-Krč) por la TK n.º 1,
+salida real (paso) de Praha-Krč a Praha-Vršovic a las 14:54 h
+(fijada por la aplicación EDD por el jefe de estación de Praha-Krč) por la
+vía TK n.º 1,
 •
-en la estación de Praha-Krč se estableció la ruta de tren desde la TK n.º 1 Praha-Krč –
-odb. Tunel hasta la SK n.º 1 y a continuación desde la SK n.º 1 hasta la TK n.º 1 Praha-Krč – Praha-
+en la estación de Praha-Krč se estableció la ruta de tren desde la vía TK
+n.º 1 Praha-Krč – desvío Tunel hacia la vía SK n.º 1 y, a continuación,
+desde la vía SK n.º 1 hacia la vía TK n.º 1 Praha-Krč – Praha-
 Vršovice,
 •
-en la nota se indicó el hecho de que el tren había sido dirigido en el trayecto Řevnice –
-Praha hl. n. por el desvío planificado,
+en la nota se indicó el hecho de que el tren circuló en el trayecto
+Řevnice – Praha hl. n. por el desvío planificado,
 •
-en la nota no se indicó (no se asentó) el número del contador de operaciones «PN L1:
-2417», es decir, el registro (asiento) sobre el uso del elemento de emergencia de la señal de salida L1 y no se asentó la justificación de la circulación en PN (véanse los puntos 4.1.1 y 5.3
-de esta ZZ),
-
+en la nota no se indicó (no se registró) el número del contador de
+operaciones «PN L1: 2417», es decir, el registro (asiento) de la
+utilización del elemento de emergencia de la señal de salida L1 y no se
+registró la justificación de la circulación en PN (véanse los puntos 4.1.1
+y 5.3 de la presente ZZ),
 
 ## Página 18
 
 ▪Os 2014
   en el tramo Praha-Braník – Praha-Krč – Praha-Vršovice:
 •
-salida prevista de Praha-Braník a Praha-Krč a las 14:49 h (realizada mediante la aplicación EDD por el jefe DOZ I de la estación de Vrané nad Vltavou) por la TK n.º 1,
+salida prevista de Praha-Braník a Praha-Krč a las 14:49 h (establecida
+mediante la aplicación EDD por el jefe de estación DOZ I de la estación
+Vrané nad Vltavou) por la vía TK n.º 1,
 •
-salida real de Praha-Braník a Praha-Krč a las 14:51 h (realizada mediante la aplicación EDD por el jefe DOZ I de la estación de Vrané nad Vltavou) por la TK n.º 1,
+salida real de Praha-Braník a Praha-Krč a las 14:51 h (establecida
+mediante la aplicación EDD por el jefe de estación DOZ I de la estación
+Vrané nad Vltavou) por la vía TK n.º 1,
 •
-llegada a la estación de Praha-Krč a las 14:57 h, 
+llegada a la estación Praha-Krč a las 14:57 h, 
 •
-salida prevista de Praha-Krč a Praha-Vršovice a las 14:57 h (realizada mediante la aplicación EDD por la jefa de estación de Praha-Krč) por la TK n.º 1,
+salida prevista de Praha-Krč a Praha-Vršovice a las 14:57 h (establecida
+mediante la aplicación EDD por el jefe de estación de la estación
+Praha-Krč) por la vía TK n.º 1,
 •
-salida real de Praha-Krč a Praha-Vršovice a las 14:59 h (realizada mediante la aplicación EDD por la jefa de estación de Praha-Krč) por la TK n.º 1,
+salida real de Praha-Krč a Praha-Vršovice a las 14:59 h (establecida
+mediante la aplicación EDD por el jefe de estación de la estación
+Praha-Krč) por la vía TK n.º 1,
 •
-en la estación de Praha-Krč se estableció la ruta de tren desde la TK n.º 1 Praha-Braník– Praha-
-Krč hasta la SK n.º 1 y a continuación desde la SK n.º 1 hasta la TK n.º 1 Praha-Krč – Praha-Vršovice,
+en la estación Praha-Krč se estableció la ruta de tren desde la vía TK
+n.º 1 Praha-Braník– Praha-Krč hasta la vía SK n.º 1 y a continuación
+desde la vía SK n.º 1 hasta la vía TK n.º 1 Praha-Krč – Praha-Vršovice,
 •
-en la nota se indicó el número del contador de operaciones «PN L1: 2418», es decir, el registro (asiento) sobre el uso del elemento de emergencia de la señal de salida L1 (sin asiento
-justificativo de la circulación en PN, véanse los puntos 4.1.1 y 5.3 de esta ZZ),
+en la nota se indicó el número del contador de maniobras «PN L1: 2418»,
+es decir, el registro (anotación) del uso del elemento de emergencia de la
+señal de salida L1 (sin anotación de la justificación de la circulación
+en PN, véanse los puntos 4.1.1 y 5.3 de la presente ZZ),
 ▪Ex 561
-  en el tramo odb. Tunel – Praha-Krč – Praha-Vršovice:
+  en el tramo de la parada Tunel – Praha-Krč – Praha-Vršovice:
 •
-salida prevista de odb. Tunel a Praha-Krč a las 15:02 h (realizada mediante la aplicación EDD por la jefa de estación de Praha-Radotín) por la TK n.º 1,
+salida prevista de la parada Tunel a Praha-Krč a las 15:02 h (establecida
+mediante la aplicación EDD por el jefe de estación de la estación
+Praha-Radotín) por la vía TK n.º 1,
 •
-salida real de odb. Tunel a Praha-Krč a las 15:01 h (realizada mediante la aplicación EDD por la jefa de estación de Praha-Radotín) por la TK n.º 1,
+salida real de la parada Tunel a Praha-Krč a las 15:01 h (establecida
+mediante la aplicación EDD por el jefe de estación de la estación
+Praha-Radotín) por la vía TK n.º 1,
 •
-llegada a la estación de Praha-Krč a las 15:06 h, 
+llegada a la estación Praha-Krč a las 15:06 h, 
 •
-salida prevista de Praha-Krč a Praha-Vršovice a las 15:15 h (realizada mediante la aplicación EDD por la jefa de estación de Praha-Krč) por la TK n.º 1,
+salida prevista de Praha-Krč a Praha-Vršovice a las 15:15 h (establecida
+mediante la aplicación EDD por el jefe de estación de la estación
+Praha-Krč) por la vía TK n.º 1,
 •
-en la estación de Praha-Krč se estableció la ruta de tren desde la TK n.º 1 Praha-Krč –
-odb. Tunel hasta la SK n.º 8,
+en la estación Praha-Krč se estableció la ruta de tren desde la vía TK
+n.º 1 Praha-Krč – parada Tunel hasta la vía SK n.º 8,
 •
-en la nota se indicó el hecho de que el tren había sido dirigido en el trayecto Praha-Radotín –
-Praha hl. n. por la ruta alternativa,
+en la nota se indicó el hecho de que el tren fue conducido en el tramo
+Praha-Radotín – Praha hl. n. por una ruta desviada,
 ▪Os 9013
   en el tramo Praha-Vršovice – Praha-Krč – Praha-Braník:
 •
-salida prevista de Praha-Vršovice a Praha-Krč a las 15:09 h (realizada mediante la aplicación EDD por el despachante de vía del CDP Praha) por la TK n.º 1,
+salida prevista de Praha-Vršovice a Praha-Krč a las 15:09 h (establecida
+mediante la aplicación EDD por el despachador de línea CDP Praha) por la
+vía TK n.º 1,
 •
-salida real de Praha-Vršovice a Praha-Krč a las 15:09 h (realizada mediante la aplicación EDD por el despachante de vía del CDP Praha) por la TK n.º 1,
+salida real de Praha-Vršovice a Praha-Krč a las 15:09 h (establecida
+mediante la aplicación EDD por el despachador de línea CDP Praha) por la
+vía TK n.º 1,
 •
-salida prevista de Praha-Krč a Praha-Braník a las 15:16 h (realizada mediante la aplicación EDD por la jefa de estación de Praha-Krč) por la TK n.º 1,
+salida prevista de Praha-Krč a Praha-Braník a las 15:16 h (establecida
+mediante la aplicación EDD por el jefe de estación de la estación
+Praha-Krč) por la vía TK n.º 1,
 •
-en la estación de Praha-Krč se estableció la ruta de tren desde la TK n.º 1 Praha-Krč – Praha-
-Vršovice hasta la SK n.º 1,
+en la estación Praha-Krč se estableció la ruta de tren desde la vía TK
+n.º 1 Praha-Krč – Praha-Vršovice hasta la vía SK n.º 1,
 •
 en la nota:
-◦no se indicó (no se asentó) el número del contador de operaciones «PN S: 5946»,
-es decir, el registro (asiento) sobre el uso del elemento de emergencia de la señal de entrada S y no se asentó la justificación de la circulación en PN (véanse los puntos 4.1.1 y 5.3 de esta ZZ),
-◦se indicó el registro sobre la anulación de la salida prevista de Praha-Krč a
-Praha-Braník (realizada a las 15:24 h mediante la aplicación EDD por la jefa de estación de Praha-Krč)
-por la TK n.º 1,
-◦en el momento de la producción de la MU, el operador de la vía tenía registrada una avería en la SZZ – en el Registro de averías del dispositivo de enclavamiento, la jefa de estación de Praha-Krč
-
+◦no se indicó (no se anotó) el número del contador de maniobras «PN S:
+5946», es decir, el registro (anotación) del uso del elemento de
+emergencia de la señal de entrada S y no se anotó la justificación de la
+circulación en PN (véanse los puntos 4.1.1 y 5.3 de la presente ZZ),
+◦se indicó el registro de la anulación de la salida prevista de Praha-Krč
+a Praha-Braník (establecida a las 15:24 h mediante la aplicación EDD por
+el jefe de estación de la estación Praha-Krč) por la vía TK n.º 1,
+◦en el momento de producirse el MU, el gestor de la vía tenía registrada
+una avería en el SZZ – en el Registro de averías del equipo de
+seguridad, el jefe de estación de la estación Praha-Krč
 
 ## Página 19
+
 
 realizó un registro sobre la avería del circuito de vía 1bK en la SK n.º 1b de la estación de Praha-Krč que contenía en el lado izquierdo del cuaderno, entre otros, el texto: «Tras la salida del tren 763, tramo 1b no liberado. Comunicado verbalmente (personalmente) … a las 13.53 h». La avería quedó registrada bajo el n.º 11 (numerado desde el comienzo del año natural 2022). En el lado derecho figuraba un registro de un empleado del operador de la vía del departamento de mantenimiento de la SZZ realizado a las 15:00 h y que contenía el texto: «Sospecha de cable defectuoso. La reparación se llevará a cabo durante el turno diurno. La avería persiste.».
 Estado de la DV del tren Os 9013:
@@ -597,6 +653,7 @@ la persona que dirigía la DV (en adelante el maquinista) dirigía el tren Os 90
 en la posición final tras la MU el tren Os 9013 se detuvo en el extremo de Praha-Vršovice de la estación de Praha-Krč, encontrándose el testero delantero del tren en el km 5,649 a una distancia de 107,85 m detrás de la ZV n.º 32 y el testero trasero en el km 5,580 a una distancia de 38,25 m detrás de la ZV n.º 32;
 
 ## Página 20
+
 
 •
 todos los DV del tren, con excepción del HDV 814.215-0 delantero del tren de motor (véase más abajo), se encontraban tras la colisión en estado no descarrilado;
@@ -627,8 +684,8 @@ el grifo situado antes de la electroválvula del dispositivo de control de vigil
 como consecuencia de la colisión se produjeron daños en:
 ◦el HDV 814.108-7 trasero del tren de motor delantero – el mecanismo de enganche y de tracción en el lado de la cabina del maquinista (en el sentido de circulación del tren se trataba del extremo trasero de la unidad), es decir, en el lado de la conexión con el HDV 814.215-0 delantero del tren de motor trasero,
 
-
 ## Página 21
+
 
 ◦el HDV 814.215-0 delantero del tren de motor trasero – la carrocería de los extremos delantero y trasero, el mecanismo de enganche y de tracción en ambos extremos, el fuelle intermedio, la pasarela de paso, los enchufes intermedios y los cables de conexión (RDST, alimentación, puesta a tierra, Wi-Fi), la tapa de la caja de la batería de a bordo, el alojamiento de los amortiguadores, el bastidor de los accionamientos auxiliares, el tirante torsional del bogie motriz, la caja de la transmisión del eje y el chasis del DV, cuando las superficies de rodadura de las ruedas de ambos bogies presentaban huellas de circulación en estado descarrilado sobre el balasto y también estrías por el contacto con el material menor de la vía. En el caso del bogie 2 se produjo asimismo la deformación de elementos de la suspensión primaria,
 ◦el VDV 014.008-7 del tren de motor trasero – la carrocería, el mecanismo de enganche y de tracción y los enchufes intermedios y cables de conexión (RDST, alimentación, puesta a tierra, Wi-Fi), y esto en el lado de la conexión con el HDV 814.215-0 delantero.
@@ -649,8 +706,8 @@ finalización del cambio de los aparatos de vía del par de agujas n.º 30a y n.
 •
 inversión del cambio de los aparatos de vía del par de agujas n.º 30a y n.º 32 tras el inicio del cambio de dichos aparatos de la posición «-» a la posición «+», bloqueo del KO del tramo 32Vk y posterior emisión de la orden para cambiar los aparatos de vía del citado par de agujas de vuelta a la posición negativa, con el resultado de que la inversión con el KO bloqueado no se produjo y se finalizó el cambio de los aparatos de vía de las agujas a la posición positiva.
 
-
 ## Página 22
+
 
 Mediante el ensayo de verificación se demostró la actividad correcta del SZZ de la est. Praha-Krč.
 Condiciones meteorológicas:
@@ -676,8 +733,8 @@ No se produjo daño en las mercancías transportadas, el equipaje ni otros biene
 Como consecuencia de la producción de la colisión, desde las 15:15 h (hora de detención de los DV del tren Os 9013 en la posición final tras la colisión) del 23. 3. 2022 hasta las 2:20 h del día siguiente se interrumpió la explotación del transporte ferroviario entre las est. Praha-Krč y Praha-Vršovice. La explotación del transporte ferroviario se restableció el 24. 3. 2022 a las 2:20 h en su totalidad entre las est. Praha-Krč y Praha-Vršovice, si bien en la cabeza de Vršovice el servicio se restableció con limitación – mediante la implantación de una circulación lenta, cuando para la circulación de los DV por la SK n.º 1b se redujo transitoriamente la velocidad de la línea a 10 km·h-1. La explotación completa del transporte ferroviario en el ámbito original se restableció en la cabeza de Vršovice de la est. Praha-Krč el 25. 3. 2022 a las 15:13 h.
 Los trenes de transporte de pasajeros no fueron sustituidos, durante el periodo en que no se explotó el transporte ferroviario, por autobuses de transporte de sustitución. Los pasajeros tuvieron la posibilidad de utilizar otros tipos de medios de transporte colectivo (tranvía, autobús, metro) que prestan servicio a las líneas incluidas en el sistema de Transporte Integrado de Praga.
 
-
 ## Página 23
+
 
 ### 3.1.6 Identificación de las personas, sus funciones y los sujetos participantes
 Personas participantes por:
@@ -720,6 +777,7 @@ el titular de todos los DV era ČD.
 
 ## Página 24
 
+
 El HDV 814.108-7 del tren Os 9013 estaba equipado, de conformidad con lo dispuesto en el artículo 5 de la Parte II «Material rodante de la red ferroviaria general y de la red ferroviaria regional, Otros requisitos» del Anexo n.º 3 de la Decisión n.º 173/1995 Sb., con un dispositivo de registro automático de datos – RR con registro electrónico de datos Unicontrols Tramex RE1xx, n.º 9153. De los datos registrados sobre la circulación del tren Os 9013 el 23. 3. 2022 en el tiempo transcurrido desde la puesta en marcha en la parada Praha-Kačerov hasta la detención en la posición final tras la aparición de la MU, tras redondear los parámetros de tiempo a segundos completos, la velocidad a décimas de km·h-1 y la distancia a metros completos, entre otros, se desprende:
 •
 a las 15:13:18 h el tren se puso en marcha en la parada Praha-Kačerov; en la salida, el retraso era de 9 min. El tren se encontraba a una distancia de 706 m antes de la señal de entrada S de la est. Praha-Krč;
@@ -743,8 +801,8 @@ a las 15:15:17 h el tren, circulando a una velocidad de 37 km·h-1, se encontrab
 
 Al mismo tiempo, el eje delantero del HDV 814.215-0 delantero
 
-
 ## Página 25
+
 
 de la unidad motorizada trasera se encontraba al comienzo de los labios de la aguja n.º 32 dispuesta para la circulación en dirección a la aguja de enlace n.º 30ab;
 •
@@ -766,8 +824,8 @@ la velocidad máxima permitida del tren de 40 km·h-1 no fue superada en el tram
 ### 3.1.8 Descripción de las partes pertinentes de la infraestructura y del sistema de seguridad
 La SK del extremo Vršovice, que era continuación de la TK desde la señal de entrada S de la est. Praha-Krč, situada en el km 4,213 a la derecha de la TK n.º 1 Praha-Krč – Praha-Vršovice, se trazó hasta el km 4,494 en un arco compuesto a la derecha con radios de 358 m y 366 m sin transiciones intermedias, y del km 4,494 al km 4,514 (= 5,542, es decir, el ZV de la aguja n.º 32) en dirección recta, con una pendiente longitudinal media (subida) del 7,12 ‰. La superestructura de la SK estaba formada por raíles de vía ancha de forma S 49 insertados en 1988, con un sistema de fijación rígida de los raíles a las traviesas prefabricadas de hormigón armado mediante soportes de fijación nervurados con distribución «d». El balasto era de piedra triturada de fracción 31,5/63 mm. En el km 5,542 se insertó en la SK una aguja simple n.º 32, de forma J S49 1:9-300 LI, con corazón montado, sobre traviesas de madera, con un motor eléctrico de cambio y cierre de gancho. Se insertó en la vía del extremo Vršovice en 1984 y se soldó a la vía continua. Detrás de la dirección de desviación de la aguja n.º 32, en el km 5,604, se insertó la aguja de enlace completa n.º 30ab, de forma C T-6º Lp, sobre traviesas de madera, que fue
 
-
 ## Página 26
+
 
 soldada a la vía continua en 1980. La aguja n.º 32 en la dirección de desviación a través de la aguja de enlace n.º 30a/b permitía la circulación de DV desde/hacia todas las SK de la est. Praha-Krč. Los raíles de las agujas n.º 32 y n.º 30ab estaban fijados a las traviesas mediante un sistema de fijación rígida con soportes de fijación nervurados.
 En el punto de la MU, el operador ferroviario había fijado una velocidad de línea de 80 km·h-1. Sin embargo, la PN indicada por la señal de entrada S, que permitía la entrada del tren Os 9013 en la est. Praha-Krč, ordenaba al maquinista del tren, en el ámbito de las agujas adyacentes a dicha señal de entrada, circular a una velocidad máxima de 40 km·h-1 y circular según las condiciones de visibilidad hasta la siguiente señal principal.
@@ -789,37 +847,36 @@ jefa de estación de la est. Praha-Krč – Acta con el empleado y Registro de a
 ◦el descanso antes de la jornada diurna lo pasó durmiendo en el alojamiento de Praha-Libeň;
 ◦durante la jornada no fue alterada por nadie ni por nada,
 
-
 ## Página 27
 
-◦el descanso para comer y descansar lo disfrutó durante la jornada en las paradas de tren adecuadas,
-◦el 23. 3. 2022 a las 13:51 h se produjo la ocupación del KO 1bK, lo que comunicó a un empleado de la organización de SŽ encargada del mantenimiento del SZZ de la est. Praha-Krč (en adelante, empleado SSZT Praga),
-◦el empleado SSZT Praga, tras comprobar el estado real en la vía de la est. Praha-Krč, permitió la circulación de DV por la SK n.º 1b. Desde ese momento, la circulación de trenes a través de la SK n.º 1b la permitía la PN de las señales principales correspondientes, cuando los conmutadores de aguja «26», «27b», «27a/29» y «30a/32» estaban conmutados a la posición «+». Al preparar ninguna ruta de tren cuya parte fuera la circulación a través de la SK n.º 1b, hasta el momento de la aparición de la MU, no utilizó para su aseguramiento el cierre de la ruta de maniobras, y la posición de las agujas en la ruta de tren solo la verificó mediante la iluminación de los indicadores en el panel indicador del SZZ (véase también más abajo),
-◦la entrada del tren Os 9013 desde la dirección de la est. Praha-Vršovice la permitió con la señal PN de la señal de entrada S. De este hecho también informó con antelación al maquinista del tren Os 9013 mediante el dispositivo de telecomunicaciones,
-◦no supo explicar por qué permitió la entrada del tren Os 9013 con la señal PN de la señal de entrada S, en lugar de establecer para el tren Os 9013 una ruta de tren alternativa a través de las agujas n.º 30a/b, 29 y 27, cuando habría sido posible establecer la ruta de tren mediante la operación del SZZ por el método de enlace con el cierre completo de la ruta de circulación y permitir la entrada del tren Os 9013 con la señal «Velocidad 40 km/h y aviso» de la señal de entrada S,
-◦conocía la existencia de la ruta de tren alternativa descrita anteriormente, pero a la vez indicó que, en la dirección del tráfico ferroviario y la operación del SZZ de la est. Praha-Krč, dicha ruta de tren no se utiliza, porque las personas que dirigen el tráfico ferroviario en la est. Praha-Krč y operan el SZZ utilizan preferentemente para la circulación de trenes hacia la SK n.º 1 la ruta de circulación a través de la SK n.º 1b, es decir, en dirección recta, sin especificar si se trata de la operación del SZZ en su estado normal sin desviaciones, o de la operación en caso de avería del SZZ,
-◦la circulación del tren Os 9013 en el extremo Vršovice, respectivamente extremo, no la siguió con la vista en la vía, sino exclusivamente en el DK con la vista en el panel indicador del SZZ de la est. Praha-Krč con el esquema gráfico de la estación,
-◦tras la ocupación del primer KÚ tras la señal de entrada S de la est. Praha-Krč, es decir, en el momento en que el extremo frontal del tren Os 9013 pasó dicha señal de entrada, con lo que se dieron las condiciones para finalizar el encendido de la PN, liberó el botón de retorno correspondiente de la PN,
-◦el tiempo hasta la llegada del tren Os 9013 lo utilizó para informar a los pasajeros de la llegada de dicho tren por megafonía de estación y para introducir la salida prevista del tren Ex 561 hacia la est. Praha-Vršovice en la aplicación EDD,
-◦a continuación, realizó, en el marco de la preparación de la ruta de tren para la salida del tren Ex 561 desde la SK n.º 8, una manipulación con el conmutador de aguja «+30a/32-» a la posición «-», porque suponía que el tren Os 9013 ya había liberado el extremo Vršovice y había entrado en la SK n.º 1b (en el tramo de KO ocupado 1b). Esta su suposición, según su declaración, la acreditaba el hecho de que, al mirar el panel indicador del SZZ de la est. Praha-Krč, no veía, además del tramo de KO ocupado 1b, ningún otro indicador encendido.
-Nota DI: en realidad, en ese momento el tren Os 9013 seguía encontrándose en el extremo Vršovice, es decir, antes de la aguja n.º 32 (véanse los puntos 3.2.1 y 4.1.1 de esta ZZ),
+◦la pausa para comer y descanso la aprovechó durante el turno en las pausas de tren adecuadas,
+◦el 23. 3. 2022 a las 13:51 h se produjo la ocupación del KO 1bK, lo que comunicó a un empleado de la unidad organizativa de SŽ encargada del mantenimiento de la SZZ de la est. Praha-Krč (en adelante, empleado de SSZT Praha),
+◦el empleado de SSZT Praha, tras comprobar el estado real en la vía de la est. Praha-Krč, permitió la circulación de DV por la SK n.º 1b. A partir de ese momento, la circulación de trenes por la SK n.º 1b la permitía la PN de los principales señales correspondientes, con los enclavamientos de aguja "26", "27b", "27a/29" y "30a/32" establecidos en la posición "+". En la preparación de ninguna vía de tren cuya parte fuera la circulación por la SK n.º 1b, hasta el momento de la aparición de la MU, utilizó para su aseguramiento el bloqueo de la vía de maniobras, y la posición de las agujas en la vía de tren solo la verificó mediante la iluminación de los testigos de la placa indicadora de la SZZ (véase también más abajo),
+◦la entrada del tren Os 9013 desde la dirección de la est. Praha-Vršovice la permitió con la señal PN de la señal de entrada S. De este hecho también informó con antelación al maquinista del tren Os 9013 mediante el aparato de telecomunicaciones,
+◦no supo explicar por qué permitió la entrada del tren Os 9013 con la señal PN de la señal de entrada S, en lugar de establecer para el tren Os 9013 una vía de tren alternativa por las agujas n.º 30a/b, 29 y 27, con lo que habría sido posible establecer la vía de tren mediante el servicio de la SZZ en modo de vía con bloqueo completo de la vía de circulación y permitir la entrada del tren Os 9013 con la señal "Velocidad 40 km/h y aviso" de la señal de entrada S,
+◦conocía la existencia de la vía de tren alternativa descrita más arriba, pero a la vez indicó que, en la gestión del tráfico ferroviario y el servicio de la SZZ de la est. Praha-Krč, esta vía de tren no se utiliza, porque los empleados que gestionan el tráfico ferroviario en la est. Praha-Krč y los que prestan servicio en la SZZ utilizan para la circulación de trenes en la SK n.º 1 preferentemente la vía de circulación por la SK n.º 1b, es decir, en dirección directa, sin especificar si se trata del servicio de la SZZ en su estado normal sin desviaciones o del servicio en caso de avería de la SZZ,
+◦la circulación del tren Os 9013 en el extremo de Vršovice, respectivamente en el extremo, no la siguió con la vista en la vía, sino exclusivamente en el DK con la vista en la placa indicadora de la SZZ de la est. Praha-Krč con el esquema gráfico de la instalación,
+◦tras la ocupación del primer KÚ tras la señal de entrada S de la est. Praha-Krč, es decir, en el momento en que el frente del tren Os 9013 pasó la mencionada señal de entrada, con lo que se dieron las condiciones para finalizar el encendido de la PN, liberó el botón de retorno correspondiente de la PN,
+◦el tiempo hasta la llegada del tren Os 9013 lo utilizó para informar a los pasajeros de la llegada de este tren por el megafón de la estación y para introducir la salida prevista del tren Ex 561 hacia la est. Praha-Vršovice en la aplicación EDD,
+◦a continuación, en el marco de la preparación de la vía de tren para la salida del tren Ex 561 desde la SK n.º 8, maniobró el enclavamiento de aguja "+30a/32-" a la posición "-", porque suponía que el tren Os 9013 ya había liberado el extremo de Vršovice y había entrado en la SK n.º 1b (en el tramo KO ocupado 1b). Esta su suposición, según su declaración, la acreditaba el hecho de que, con la vista en la placa indicadora de la SZZ de la est. Praha-Krč, no veía, aparte del tramo KO ocupado 1b, ningún otro testigo encendido.
+Nota DI: en realidad, en ese momento el tren Os 9013 aún se encontraba en el extremo de Vršovice, es decir, antes de la aguja n.º 32 (véanse los puntos 3.2.1 y 4.1.1 de esta ZZ),
 
 ## Página 28
 
-◦inmediatamente después de la maniobra con el conmutador de agujas „+30a/32-“ a la posición „-“, las luces de control se iluminaron en rojo, a lo que reaccionó devolviendo el conmutador de agujas „+30a/32-“ a la posición „+“. A continuación sonó la campana de corte y se ocuparon los circuitos de vía adyacentes,
-◦seguidamente, a partir de la información del maquinista del tren Os 9013, se enteró de la aparición de una EM – descarrilamiento de tren, lo que posteriormente comunicó según el plan de comunicaciones de SŽ,
-◦el hecho de que el tren Os 9013 hubiera pasado con la primera unidad, formada por una unidad motorizada de la serie 814, por la aguja n.º 32 en contra de la aguja, establecida en vía lateral para la circulación sobre la aguja de cruzamiento n.º 30ab, sin descarrilar, y con la unidad trasera, formada por una unidad motorizada de la serie 814.2, hubiera descarrilado, mientras que el HDV de la unidad trasera circulaba con el eje delantero sobre la aguja n.º 32 establecida en vía lateral para la circulación sobre la aguja de cruzamiento n.º 30a/b y su eje trasero sobre la aguja n.º 32 establecida en vía directa para la circulación DV sobre el SK n.º 1b, lo explicó por el hecho de que, al girar el conmutador de agujas 30a/32 a la posición „-“, el tren Os 9013 probablemente se encontraba delante de la aguja de la aguja n.º 32, por lo que la parte delantera del tren circulaba por la desviación y, cuando, tras unos 2 s, giró el conmutador de agujas a la posición „+“, probablemente se encontraba en la aguja n.º 32 el coche intermedio, que descarriló,
-◦antes de la aparición de la EM, asimismo, permitió la salida de los trenes Os 10069 y Os 10071 de la est. Praha-Krč en dirección a la est. Praha-Vršovice con la señal PN, en estos casos concretos la PN de la señal de salida L1, en lugar de establecer para dichos trenes una ruta de tren alternativa a través de las agujas n.º 27, 29 y 30a/b, con lo que habría sido posible establecer la ruta de tren por parte del operador del SZZ en modo de ruta con cierre completo de la ruta y permitir la salida de los mencionados trenes con la señal „Velocidad 40 km/h y vía libre“ de la señal de salida L1. Esta circunstancia la justificó de nuevo argumentando que, al dirigir el tráfico ferroviario y operar el SZZ de la est. Praha-Krč, esta ruta de tren no se utiliza, porque los empleados que dirigen el tráfico ferroviario en la est. Praha-Krč y operan el SZZ utilizan para la circulación de trenes desde el SK n.º 1 la ruta a través del SK n.º 1b, es decir, en vía directa, sin especificar si se trata de la operación del SZZ en su estado normal sin desviaciones o de la operación en caso de avería del SZZ,
-◦no recordaba el motivo por el que no anotó en la documentación de tráfico – aplicación EDD, en el registro de salida del tren Os 10071 desde el SK n.º 1 en dirección a la est. Praha-Vršovice, en el campo de observaciones el motivo del uso de la señal PN de la señal de salida L1, incl. el número en el contador de operación del botón „Señal de llamada L10,8,6,4,2,1,3“, es decir, el dato de la actuación obligatoriamente documentada,
-◦respecto al hecho de que, tras la aparición de la EM, las agujas n.º 28 y la parte „b“ de la aguja de cruzamiento n.º 30ab se establecieron en posición para la circulación DV desde el SK n.º 8 en dirección desde/hacia la est. Praha-Vršovice, indicó que las agujas n.º 28 y la parte „b“ de toda la aguja de cruzamiento n.º 30ab las estableció con el conmutador de agujas en la posición „-“ en el marco de la preparación de la ruta de tren para la salida del rápido Ex 561 desde el SK n.º 8 hacia la est. Praha-Vršovice, devolviendo el conmutador de agujas „+28/30b-“ a la posición intermedia tras establecer las agujas en la posición requerida;
+◦inmediatamente después de la maniobra con el enclavador de agujas „+30a/32-“ a la posición „-“, los indicadores luminosos se tornaron rojos, ante lo cual reaccionó devolviendo el enclavador de agujas „+30a/32-“ a la posición „+“. A continuación sonó la campana de sección y se ocuparon los KÚ adyacentes,
+◦seguidamente, a partir de la información del maquinista del tren Os 9013, se enteró de la aparición de un MU – descarrilamiento del tren, lo que posteriormente comunicó conforme al plan de comunicaciones de SŽ,
+◦el hecho de que el tren Os 9013 hubiera pasado con la primera formación, compuesta por la unidad motorizada serie 814, por la aguja n.º 32 en dirección contraria a la punta, dispuesta en dirección lateral para la circulación hacia la aguja de cruce n.º 30ab, sin descarrilar, y con la segunda formación, compuesta por la unidad motorizada serie 814.2, hubiera descarrilado, mientras que el HDV de la primera formación de la segunda composición circulaba con el primer eje por la aguja n.º 32 dispuesta en dirección lateral para la circulación hacia la aguja de cruce n.º 30a/b y su eje trasero por la aguja n.º 32 dispuesta en dirección directa para la circulación DV hacia la SK n.º 1b, lo explicaba de la siguiente manera: al girar el enclavador de agujas 30a/32 a la posición „-“, el tren Os 9013 se encontraba probablemente delante de la punta de la aguja n.º 32, por lo que la parte delantera del tren circulaba hacia el desvío y, cuando tras unos 2 s giró el enclavador a la posición „+“, probablemente se encontraba en la aguja n.º 32 el vagón intermedio, que descarriló,
+◦antes de la aparición del MU, asimismo, permitió con la señal PN las salidas de los trenes Os 10069 y Os 10071 desde la est. Praha-Krč en dirección a la est. Praha-Vršovice; en estos casos concretos, la PN de la señal de salida L1, en lugar de establecer para dichos trenes una ruta alternativa a través de las agujas n.º 27, 29 y 30a/b, cuando habría sido posible establecer la ruta ferroviaria mediante la operación del SZZ en modo de ruta con cierre completo de la ruta ferroviaria y permitir la salida de los mencionados trenes con la señal „Velocidad 40 km/h y libre“ de la señal de salida L1. Este hecho lo justificó nuevamente indicando que, al dirigir el tráfico ferroviario y operar el SZZ de la est. Praha-Krč, dicha ruta ferroviaria no se utiliza, ya que los empleados que dirigen el tráfico ferroviario en la est. Praha-Krč y operan el SZZ utilizan para la circulación de los trenes desde la SK n.º 1 la ruta ferroviaria a través de la SK n.º 1b, es decir, en dirección directa, sin especificar si se trata de la operación del SZZ en su estado normal sin desviaciones o de la operación en caso de avería del SZZ,
+◦no recordaba el motivo por el que no anotó en la documentación de tráfico – aplicación EDD, en el registro de salida del tren Os 10071 desde la SK n.º 1 en dirección a la est. Praha-Vršovice, en el campo de observaciones el motivo del uso de la señal PN de la señal de salida L1, incl. el número en el contador de operación del botón „Señal de llamada L10,8,6,4,2,1,3“, es decir, el dato de la actuación obligatoriamente documentada,
+◦respecto al hecho de que, tras la aparición del MU, las agujas n.º 28 y la parte „b“ de la aguja de cruce n.º 30ab se dispusieron en posición para la circulación DV desde la SK n.º 8 en dirección hacia/desde la est. Praha-Vršovice, indicó que las agujas n.º 28 y la parte „b“ de toda la aguja de cruce n.º 30ab las dispuso con el enclavador de agujas en la posición „-“ en el marco de la preparación de la ruta ferroviaria para la salida del rápido Ex 561 desde la SK n.º 8 hacia la est. Praha-Vršovice, devolviendo el enclavador de agujas „+28/30b-“ tras colocar las agujas en la posición deseada a la posición intermedia;
 •
 maquinista del tren Os 9013
-  – Acta con el empleado y Registro de presentación de explicaciones DI:
-◦entró en servicio el 23. 3. 2022 descansado física y mentalmente,
-◦durante el servicio y antes de la EM condujo el tren Sv 9013, compuesto por dos unidades motorizadas, desde el depósito Praha-Libeň (Centro Regional de Mantenimiento Centro, Estación de Mantenimiento
-
+  – Registro con el empleado y Declaración de presentación de explicaciones DI:
+◦incorporó a la turno el día 23. 3. 2022 descansado física y psicológicamente,
+◦durante el turno, antes del MU, condujo el tren Sv 9013, compuesto por dos unidades motorizadas, desde el depósito Praha-Libeň (Centro Regional de Mantenimiento Střed, Estación de Mantenimiento
 
 ## Página 29
+
 
 Praha-Libeň) hasta la est. Praha hl. n., que debía continuar posteriormente como tren Os 9013 en el trayecto Praha hl. n. – Čerčany,
 ◦antes de la parada Praha-Kačerov fue contactado por el equipo de telecomunicaciones por el jefe de estación de la est. Praha-Krč, quien le informó de que la entrada en la est. Praha-Krč se permitiría con PN,
@@ -842,8 +899,8 @@ jefe de tren del tren Os 9013
 ◦seguidamente, tras bajar de la unidad motorizada trasera y subir a la unidad motorizada delantera, comprobó también en esta unidad si algún pasajero había sufrido daños en la salud, tras lo cual constató que ninguno de los pasajeros transportados por el tren resultó herido,
 ◦comunicó la aparición de la EM al despachante regional del transportista ČD. Dado sus hallazgos indicados más arriba, no informó a los servicios de emergencia (IZS) sobre la aparición de la EM;
 
-
 ## Página 30
+
 
 •
 maquinista del tren Ex 561
@@ -861,31 +918,33 @@ De conformidad con lo dispuesto en la Ordenanza de Estación de la est. Praha-Kr
 
 ## Página 31
 
+
 itinerarios de circulación, es decir, atender el botón inicial y final en el panel de indicación del SZZ. Las agujas y los apartaderos que se encontraban en el itinerario de circulación debía la jefa de estación conmutar de acuerdo con la tabla de bloqueos de forma manual, es decir, mediante la conmutación de los mandos de tres posiciones para el cambio individual de las agujas a las posiciones deseadas. La avería tuvo asimismo como consecuencia la no realización del bloqueo del itinerario de tren que impedía la manipulación de los elementos del SZZ que formaban parte del itinerario de circulación establecido. Tras la realización de las medidas anteriores, sin que hubiera asegurado el itinerario de tren o una parte del mismo con un bloqueo de itinerario de maniobras, la jefa de estación permitió la circulación del tren hacia la est. Praha-Krč bajo PN. Para encender el PN en la señal de entrada, tuvo que atender el elemento de emergencia: pulsar el botón PN con registro de maniobra para la maniobra del PN correspondiente a la señal de entrada. El PN permanecía encendido durante el tiempo que se mantenía pulsado el botón, y simultáneamente se encendían la luz indicadora «Funcionamiento del oscilador» y la luz indicadora de encendido del PN en la maqueta de la señal de entrada manejada. Si se daban las condiciones para finalizar el encendido del PN, es decir, el frente del DV, desde el que se dirige la circulación del tren, había pasado la señal de entrada, la jefa de estación de Praha-Krč podía soltar el botón. Con la excepción de la posibilidad de evitar un peligro inminente, tenía prohibido conmutar agujas justo delante de DV en movimiento o agujas ocupadas por DV. Las agujas que formaban parte del itinerario de tren solo podían conmutarse tras comprobar que el tren había pasado íntegramente (por ejemplo, mirando la señal «Fin de tren» o preguntando a un miembro de la tripulación del tren).
 
 La jefa de estación en la maniobra del SZZ de la est. Praha-Krč no utilizó plenamente las dependencias derivadas del funcionamiento del SZZ en servicio, porque al preparar el itinerario de tren desde TK n.º 1 Praha-Krč – Praha-Vršovice hacia SK n.º 1 no priorizó la maniobra normal del SZZ utilizando el itinerario de tren alternativo n.º 122 conducido fuera de SK n.º 1b (gravado con la avería KO 1bK), es decir, a través de las agujas n.º 30a/b, 29 y 27, con lo que habría eliminado por completo el riesgo de circulación del tren por un itinerario de tren que no estaba asegurado con un bloqueo de itinerario de circulación. Con la elección de este itinerario de tren alternativo, habría podido establecer el itinerario de tren mediante la maniobra del SZZ en modo de itinerario con bloqueo de itinerario de circulación, que se habría convertido, con la circulación del tren, al ocuparse cualquier KÚ entre el lugar de visibilidad prescrita de la preseñal de la señal de entrada S y la señal de entrada S con una señal que permite la circulación, en un bloqueo completo del itinerario de circulación, y permitir la entrada del tren Os 9013 con la señal «Velocidad 40 km/h y aviso» de la señal de entrada S.
 
 La jefa de estación de Praha-Krč inició la preparación del itinerario de tren para la entrada del tren Os 9013 desde TK n.º 1 Praha-Krč – Praha-Vršovice hacia SK n.º 1 de la est. Praha-Krč a través de SK n.º 1b en el momento en que a las 15:06 h, en SK n.º 8, en el km 5,879, se detuvo el tren Ex 561, conducido en ruta de desvío por la vía de desvío. Tras comprobar la libertad del itinerario de tren desde TK n.º 1 Praha-Krč – Praha-Vršovice hacia SK n.º 1 de la est. Praha-Krč a través de SK n.º 1b (gravado con la avería KO 1bK), a continuación, para conmutar las agujas n.º 26, 27ab, 29, 30a y 32, conmutó los mandos de tres posiciones «26», «27b», «27a/29» y «30a/32» a la posición deseada, es decir, a la posición «+» (luz indicadora verde encendida permanentemente), sin marcar ni asegurar estos elementos de mando con un dispositivo de memoria. Tras la iluminación del itinerario de tren, realizada mediante la retroiluminación de la imagen luminosa de la vía para comprobar la posición de las agujas, atendió, en el momento en que el tren Os 9013, según la indicación de funcionamiento del TZZ en el panel del RZZ, ocupó el tramo de aproximación «T1 Kr-Vr» antes de la señal de entrada S, pulsando el botón de retorno «Señal de aproximación S» con registro de maniobra n.º 5946, con el que encendió en la señal de entrada S la señal PN. Simultáneamente se encendieron las luces indicadoras «Funcionamiento del oscilador» y encendido del PN en la maqueta de la señal de entrada S. La jefa de estación de Praha-Krč mantuvo pulsado el botón de retorno de la señal de entrada en cuestión hasta que el DV del tren Os 9013, según la indicación del RZZ en el panel con el esquema gráfico de la estación, ocupó el KO del tramo «SK», es decir, el primer KÚ tras la señal de entrada S (SK en el extremo de Vršovice). Lo anterior demostraba que el frente del tren había pasado la señal de entrada S y había entrado en el extremo de Vršovice de la est. Praha-Krč. Sin que la jefa de estación
 
-
 ## Página 32
 
-se hubiera cerciorado (comprobado) de forma correspondiente de que el tren Os 9013 había abandonado la vía del extremo de Vršovice, incl. SK n.º 1b (KO 1bK, debido a la avería, indicaba permanentemente la ocupación de SK), y había entrado íntegramente en SK n.º 1, conmutó el mando de tres posiciones «+30a/32-» de la posición «+» a la posición «-», es decir, a la posición que permite la circulación de DV por la vía del extremo de Vršovice, entre otros, desde/hacia SK n.º 8. Con la maniobra del elemento del SZZ especificado anteriormente, se conmutó la aguja n.º 32 a la posición «-» y se produjo la circulación de la primera unidad automotriz, compuesta por ŘDV 914.108-6 y HDV 814.108-7, en dirección a SK n.º 8 de la est. Praha-Krč, incluso antes de que el tren Os 9013 entrara desde el extremo de Vršovice en el extremo de Vršovice. En el momento en que el HDV 814.215-0 delantero de la unidad automotriz trasera circulaba por la aguja n.º 32 y su bogie delantero de un eje pasó por la lengüeta de la aguja, conmutó el mando de tres posiciones «+30a/32-» de vuelta a la posición «+», lo que a continuación condujo a que el bogie delantero de un eje circulara en dirección a SK n.º 8 y el bogie trasero de un eje en dirección a SK n.º 1b, primero en estado sin descarrilar y posteriormente, debido a la llamada circulación en horquilla, a su descarrilamiento con ambos bogies de un eje. Los demás DV que formaban la unidad automotriz trasera, es decir, VDV 014.008-7 y HDV 814.216-8, permanecieron tras la producción de la MU detenidos en la rama recta de la aguja n.º 32 y en SK n.º 1b sin descarrilar.
+de la manera correspondiente se convenció (comprobó) de que el tren Os 9013 había abandonado la vía de la cabecera de Vršovice, incl. SK n.º 1b (KO 1bK a causa de una avería indicaba permanentemente ocupación de la SK), y entró íntegramente en la SK n.º 1, accionó el conmutador de tres posiciones „+30a/32-“ de la posición „+“ a la posición „-“, es decir, a la posición que permite la circulación de DV por la vía de la cabecera de Vršovice, entre otros desde/hacia la SK n.º 8. Con la maniobra del elemento SZZ especificado más arriba, antes de la entrada del tren Os 9013 desde la cabecera de Vršovice a la cabecera de Vršovice, se produjo el cambio de la aguja n.º 32 a la posición „-“ y la circulación de la unidad motriz delantera, formada por ŘDV 914.108-6 y HDV 814.108-7, en dirección a la SK n.º 8 est. Praha-Krč. En el momento en que el HDV 814.215-0 delantero de la unidad motriz trasera circulaba por la aguja n.º 32 y su bogie delantero de un solo eje pasó por la lengüeta de la aguja, el conmutador de tres posiciones „+30a/32-“ volvió a la posición „+“, lo que posteriormente condujo a la circulación del bogie delantero de un solo eje en dirección a la SK n.º 8 y del bogie trasero de un solo eje en dirección a la SK n.º 1b, primero en estado sin descarrilamiento y posteriormente, debido a la llamada circulación en horquilla, a su descarrilamiento con ambos bogies de un solo eje. El resto de DV que formaban la unidad motriz trasera, es decir, VDV 014.008-7 y HDV 814.216-8, permanecieron tras la aparición de la MU detenidos en la rama recta de la aguja n.º 32 y en la SK n.º 1b sin descarrilar.
 
-La MU tuvo, además de los daños en los DV del tren Os 9013, como consecuencia también el daño en los elementos exteriores de la infraestructura de la vía en el extremo de Vršovice de la est. Praha-Krč (véase el punto 3.1.3 de esta ZZ).
-### 3.2.2 Secuencia de hechos desde la producción del suceso extraordinario hasta la finalización de las acciones de los servicios de rescate
-| • 15:15 h | producción de la MU; |
-| • 15:16 h | el maquinista del tren Os 9013 comunicó la producción de la MU a la jefa de estación de Praha-Krč; . |
-| • 15:17 h | la jefa de estación de Praha-Krč comunicó la producción de la MU, según el horario de comunicación, . de la est. Praha-Krč al despachista operativo PD 2 CDP Praha (en adelante PD2 . CDP Praha); |
-| • 15:20 h | PD 2 CDP Praha comunicó la producción de la MU al sustituto del jefe de despacho de CDP Praha (en adelante sustituto del JD CDP Praha); |
-| • 15:22 h | PD 2 CDP Praha preguntó a la jefa de estación de Praha-Krč por las consecuencias de la MU . relativas a lesiones en la salud de las personas afectadas. Al mismo tiempo comunicó . la producción de la MU el jefe de tren del tren Os 9013 al despachista regional de ČD; |
+La MU tuvo como consecuencia, además de los daños en los DV del tren Os 9013, también daños en los elementos exteriores de la infraestructura de la vía en la cabecera de Vršovice est. Praha-Krč (véase el punto 3.1.3 de esta ZZ).
+
+### 3.2.2 Secuencia de hechos desde la aparición de la incidencia extraordinaria hasta la finalización de las acciones de los servicios de rescate
+
+| • 15:15 h | aparición de la MU; |
+| • 15:16 h | el maquinista del tren Os 9013 comunicó la aparición de la MU al jefe de estación de est Praha-Krč; . |
+| • 15:17 h | la jefa de estación de est Praha-Krč comunicó la aparición de la MU según el horario de comunicaciones . de est Praha-Krč al despachista operativo PD 2 CDP Praha (en adelante PD2 . CDP Praha); |
+| • 15:20 h | PD 2 CDP Praha comunicó la aparición de la MU al sustituto del jefe de despacho de CDP Praha (en adelante sustituto VD CDP Praha); |
+| • 15:22 h | PD 2 CDP Praha preguntó a la jefa de estación de est Praha-Krč por las consecuencias de la MU . relativas a daños personales de las personas implicadas. Al mismo tiempo comunicó . la aparición de la MU el jefe de tren del tren Os 9013 al despachista regional de ČD; |
 | • 15:23 h | el despachista regional del transportista ČD activó el plan IZS; |
-| • 15:27 h | el jefe de despacho de CDP Praha (en adelante JD CDP Praha) comunicó la producción de la MU a la persona autorizada del operador de la vía SŽ, Departamento del Sistema de Seguridad – Explotación de la vía Ú, centro de trabajo de Praga. Al mismo tiempo, el sustituto del JD , . CDP Praha comunicó la producción de la MU al despachista central de SŽ ; |
-| • 15:29 h | el sustituto del JD CDP Praha comunicó la producción de la MU al empleado del operador de la vía SŽ – inspector de explotación de la est. Praha hl . n . Al mismo tiempo, el JD CDP Praha comunicó la producción de la MU al empleado del operador de la vía SŽ – despachista eléctrico de la Dirección de Ingeniería Eléctrica y Energética OŘ Praga; , |
-| • 15:32 h | el sustituto del JD CDP Praha comunicó la producción de la MU al empleado del operador de la vía SŽ de guardia de accidentes (llamada guardia de accidentes) OŘ Praga – . Al mismo tiempo, el JD CDP Praha comunicó la producción de la MU al empleado del operador de la vía SŽ de guardia de accidentes CDP Praha; – |
-
+| • 15:27 h | el jefe de despacho de CDP Praha (en adelante VD CDP Praha) comunicó la aparición de la MU a la persona designada del operador de la vía SŽ – Departamento del Sistema de Seguridad – Explotación de la vía Ú, centro de trabajo de Praga. Al mismo tiempo el sustituto de VD , . CDP Praha comunicó la aparición de la MU al despachista central de SŽ ; |
+| • 15:29 h | el sustituto de VD CDP Praha comunicó la aparición de la MU al empleado del operador de la vía SŽ – inspector de explotación de est . Praha hl . n . Al mismo tiempo VD CDP Praha comunicó la aparición de la MU al empleado del operador de la vía SŽ – electrodespachista de la Dirección de Ingeniería Eléctrica y Energética OŘ Praga; , |
+| • 15:32 h | el sustituto de VD CDP Praha comunicó la aparición de la MU al empleado del operador de la vía SŽ de guardia de accidentes (llamada guardia de accidentes) OŘ Praga – . . Al mismo tiempo VD CDP Praha comunicó la aparición de la MU al empleado del operador de la vía SŽ de guardia de accidentes de CDP Praha; – |
 
 ## Página 33
+
 
 | • 15:34 h | el sustituto del JD CDP Praha intentó sin éxito 2 veces comunicar la producción de la MU al HZS SŽ – llamada no realizada, la línea telefónica del abonado llamado estaba ocupada. La producción de la MU fue comunicada al HZS SŽ a las 15:43 h; . |
 | • 15:40 h | notificación inicial de la producción de la MU por la persona autorizada del operador de la vía SŽ y del transportista ČD en el COP DI; |
@@ -907,28 +966,34 @@ El motivo de la circulación bajo PN lo anota la jefa de estación en el diario 
 
 ## Página 34
 
-La jefa de estación de la est. Praha-Krč el 23. 3. 2022, desde la aparición de la avería de KO 1bK, es decir, desde las 13:51 h, no tuvo
-posibilidad de realizar la comprobación de la libertad del itinerario de tren en la SK n.º 1b mediante la acción del SZZ, pero
-las dependencias del SZZ en servicio permitían eliminar por completo la influencia de la avería en la seguridad del itinerario de tren para
-el tren Os 9013 utilizando el itinerario de tren alternativo n.º 122 circulado fuera de la SK n.º 1b (gravada por la avería de KO 1bK), es decir, a través de los desvíos n.º 30a/b, 29 y 27, con el cierre del
-itinerario de maniobra y permitir la circulación junto a la señal de entrada S con la operación normal del SZZ.
-Fig. n.º 3: Representación gráfica del itinerario de tren alternativo n.º 122 según el ZT de la est. Praha-Krč.
-Fuente: DI utilizando la base cartográfica del operador de la vía SŽ
-A pesar de ello, la jefa de estación decidió establecer el itinerario de tren para el tren Os 9013 desde la TK n.º 1 Praha-Krč – Praha-Vršovice a la SK n.º 1 de la est. Praha-Krč a través de la SK n.º 1b, cuyo KO estaba en avería y no permitía que la acción automática del SZZ realizara el cierre del itinerario de tren. Como decidió permitir la entrada del tren Os 9013 en la est. Praha-Krč con PN de la señal de entrada S, no aseguró, antes de permitir la circulación del tren, el itinerario de tren o una parte del mismo con el cierre del itinerario de maniobra en el extremo de Vršovice, el cual podía y, según los procedimientos tecnológicos unificados del operador de la vía, debía utilizar, ni marcó, respectivamente, aseguró, tras la maniobra con ellos, los conmutadores de tres posiciones «26», «27b», «27a/29» y «30a/32» con un medio de recordatorio que impidiera su operación.
-Fig. n.º 4: Representación gráfica del itinerario de tren establecido por la jefa de estación de la est. Praha-Krč el 23. 3. 2022 para la entrada
+El jefe de estación de la estación de Praha-Krč el 23 de 3 de 2022, desde la aparición de la avería de KO 1bK, es decir, desde las 13:51 h, no tuvo
+posibilidad de realizar la comprobación de la libre circulación en la vía de tren SK n.º 1b mediante la actividad de SZZ, pero
+las dependencias del SZZ en servicio permitían eliminar por completo la influencia de la avería en la seguridad de la vía de tren para
+el tren Os 9013 mediante el uso de la vía de tren alternativa n.º 122, transcurrida fuera de la SK n.º 1b
+(afectada por la avería KO 1bK), es decir, a través de los desvíos n.º 30a/b, 29 y 27, con
+el cierre de la ruta de circulación y permitir la circulación junto a la señal de entrada S con la operación normal de SZZ.
+Fig. n.º 3: Representación gráfica de la vía de tren alternativa n.º 122 según el ZT de la estación de Praha-Krč.
+Fuente: DI con utilización del fondo cartográfico del operador de la infraestructura SŽ
+No obstante, el jefe de estación decidió establecer la vía de tren para el tren Os 9013 desde la TK n.º 1 Praha-Krč – Praha-Vršovice a la SK n.º 1 de la estación de Praha-Krč a través de la SK n.º 1b, cuyo KO estaba en avería
+y no permitía realizar mediante la actividad automática de SZZ el cierre de la vía de tren. Debido a que
+decidió permitir la entrada del tren Os 9013 en la estación de Praha-Krč con PN de la señal de entrada S,
+no aseguró, antes de permitir la circulación del tren, la vía de tren o una parte de la misma con el cierre de la ruta de maniobras en el extremo de Vršovice, el cual
+podía y, según los procedimientos tecnológicos uniformes del operador de la infraestructura, debía utilizar, ni tampoco los enclavamientos de tres posiciones „26“, „27b“, „27a/29“ y „30a/32“ tras manipularlos
+los marcó, respectivamente, los aseguró con un dispositivo de recordatorio que impedía su operación.
+Fig. n.º 4: Representación gráfica de la vía de tren establecida por el jefe de estación de Praha-Krč el 23 de 3 de 2022 para la entrada
 del tren Os 9013.
-Fuente: DI utilizando la base cartográfica del operador de la vía SŽ
-Tras permitir la circulación del tren Os 9013 en la est. Praha-Krč con PN de la señal de entrada S y finalizar
-la emisión de PN (en el momento en que el tren que entraba se encontraba en el extremo de Vršovice), con carácter indebido conmutó
-el conmutador de tres posiciones «+30a/32-» de la posición «+» a la posición «-», sin comprobar (verificar) de la manera correspondiente
-que el tren Os 9013 hubiera abandonado la vía del extremo de Vršovice, incl. la SK n.º 1b, y hubiera entrado
-entero en la SK n.º 1. Lo anterior tuvo como consecuencia el cambio del desvío n.º 32 a la vía lateral
-y la circulación de la primera unidad automotora del tren Os 9013 en dirección a la SK n.º 8. En el momento en que el desvío n.º 32
-estaba siendo recorrido (ocupado) por el DV del tren Os 9013, de nuevo de la manera correspondiente
-no comprobó (no verificó) que el tren Os 9013 hubiera abandonado la vía del extremo de Vršovice, incl. la SK n.º 1b,
-
+Fuente: DI con utilización del fondo cartográfico del operador de la infraestructura SŽ
+Tras permitir la circulación del tren Os 9013 en la estación de Praha-Krč con PN de la señal de entrada S y finalizar
+la emisión de PN (en el momento en que el tren que entraba se encontraba en el extremo de Vršovice), trasladó
+indebidamente el enclavamiento de tres posiciones „+30a/32-“ de la posición „+“ a la posición „-“, sin comprobar
+(de forma correspondiente) que el tren Os 9013 hubiera abandonado la vía del extremo de Vršovice, incl. la SK n.º 1b, y hubiera
+entrado íntegramente en la SK n.º 1. Lo anterior tuvo como consecuencia el cambio del desvío n.º 32 a la vía secundaria
+y la circulación de la unidad motriz delantera del tren Os 9013 en dirección a la SK n.º 8. En el momento en que el desvío n.º 32
+fue recorrido (ocupado) por el DV del tren Os 9013, de nuevo no comprobó
+(de forma correspondiente) que el tren Os 9013 hubiera abandonado la vía del extremo de Vršovice, incl. la SK n.º 1b,
 
 ## Página 35
+
 
 y hubiera entrado entero en la SK n.º 1, conmutó el conmutador de tres posiciones «+30a/32-» de vuelta a la posición «+», lo que tuvo como
 consecuencia el cambio del desvío n.º 32 a la vía directa, lo que condujo primero a la denominada circulación en horquilla seguida del descarrilamiento del
@@ -981,8 +1046,8 @@ art. 997 de la norma interna SŽDC D1:
 «Si no es posible, por avería o también por otra causa, permitir la circulación junto a la señal principal
 con su operación normal, la permite el jefe de estación o el guardián del sector PN. …»;
 
-
 ## Página 36
+
 
 •
 art. 70 de la norma interna SŽDC Z1:
@@ -1031,55 +1096,27 @@ art. 997 de la norma interna SŽDC D1:
 «Si no es posible, por avería o también por otra causa, permitir la circulación junto a la señal principal
 con su operación normal, la permite el jefe de estación o el guardián del sector PN. …».
 
-
 ## Página 37
 
-La jefa de estación de la est. Praha-Krč el 23. 3. 2022 no indicó (no registró) en el registro por ella llevado
-sobre el transcurso de la dirección del transporte ferroviario – aplicación EDD, en los trenes Os 8841 y R 763, el motivo de la circulación de los trenes con
-PN y, a continuación, desde la aparición de la avería del KO del tramo 1b a las 13:51 h hasta la aparición de la MU no indicó (no registró) en el registro por ella llevado sobre el transcurso de la dirección del transporte ferroviario – aplicación EDD, en los trenes Os 10069,
-Os 2015, Os 10071, Os 2014 y Os 9013, el motivo de la circulación de los trenes con PN y, en los trenes Os 10071
-y Os 9013, los números de los contadores de elementos de emergencia (PN) con los que se permitieron las circulaciones de los trenes
-desde/hacia la est. Praha-Krč.
-La utilización de elementos de emergencia del SZZ para permitir las circulaciones de trenes por la jefa de estación de la est. Praha-Krč quedó demostrada de forma inequívoca
-mediante la comparación física de los datos sobre los estados numéricos de los contadores, indicados en la toma de servicio en el documento «Entrega del servicio de tráfico», y los concretos estados numéricos de los contadores en el panel de indicación con el esquema de vía gráficamente representado de la estación tras la aparición de la MU. En el caso del registro de la operación del botón para la operación de PN:
+La jefa de estación de la estación de Praha-Krč, el día 23. 3. 2022, no indicó (no registró) en el registro por ella llevado sobre el transcurso de la dirección del transporte ferroviario – aplicación EDD – de los trenes Os 8841 y R 763 el motivo de la circulación de los trenes en PN y, a continuación, desde la aparición de la avería del sector KO 1b a las 13:51 h hasta la aparición de la MU, no indicó (no registró) en el registro por ella llevado sobre el transcurso de la dirección del transporte ferroviario – aplicación EDD – de los trenes Os 10069, Os 2015, Os 10071, Os 2014 y Os 9013 el motivo de la circulación de los trenes en PN y, en los trenes Os 10071 y Os 9013, los números de los contadores de elementos de emergencia (PN) con los que se permitió la circulación de los trenes hacia/desde la estación de Praha-Krč.
+El uso de los elementos de emergencia de la SZZ para permitir la circulación de los trenes por la jefa de estación de la estación de Praha-Krč quedó demostrado de forma inequívoca mediante la comparación física de los datos sobre los estados numéricos de los contadores, indicados en la toma de servicio en el documento «Odevzdávka dopravní služby» (Entrega del servicio de tráfico), y los estados numéricos concretos de los contadores en el panel indicador con el esquema gráfico de la estación tras la aparición de la MU. En el caso del registro de la operación del botón de operación de PN:
 •
-de la señal de entrada RL de la est. Praha-Krč, en la toma de servicio, se registró el dato numérico
-«5252», pero tras la aparición de la MU el contador de operación de este elemento indicó el dato numérico «5254»,
-lo que demuestra de forma inequívoca la utilización del elemento de emergencia de dicha señal al permitir la entrada
-de trenes desde la TK n.º 1 Praha-Krč – ramal Tunel hacia la est. Praha-Krč en 2 casos (números de contador
-«5253» y «5254»), es decir, para permitir la entrada de los trenes Os 8841 y R 763;
+de la señal de entrada RL de la estación de Praha-Krč, en la toma de servicio se registró el dato numérico «5252», pero tras la aparición de la MU el contador de operación de este elemento indicó el dato numérico «5254», lo que acredita de forma inequívoca el uso del elemento de emergencia de esta señal al permitir la entrada de los trenes desde la TK n.º 1 Praha-Krč – desvío Tunel hacia la estación de Praha-Krč en 2 casos (números de contador «5253» y «5254»), es decir, para permitir la entrada de los trenes Os 8841 y R 763;
 •
-de las señales de salida L10, L8, L6, L4, L2, L1 y L3 de la est. Praha-Krč, en la toma de servicio, se registró el dato numérico «2414», pero tras la aparición de la MU el contador de operación de este elemento
-indicó el dato numérico «2418», lo que demuestra de forma inequívoca la utilización del elemento de emergencia de dichas
-señales al permitir la entrada de trenes desde la SK hacia la TK n.º 1 Praha-Krč – Praha-Vršovice,
-respectivamente Praha-Zahradní Město – Praha-Krč, en 4 casos (números de contador «2416» hasta
-«2418»), es decir, para permitir la salida de los trenes Os 10069, Os 10071 y Os 2014 con PN
-de la señal de salida L1 desde la SK n.º 1 hacia la TK n.º 1 Praha-Krč – Praha-Vršovice, si bien
-la utilización del elemento de emergencia de las señales de salida L10, L8, L6, L4, L2, L1 y L3 con el dato
-numérico «2415» no fue registrada ni justificada en el EDD (véase también el punto 3.1.3 de la
-presente ZZ);
+de las señales de salida L10, L8, L6, L4, L2, L1 y L3 de la estación de Praha-Krč, en la toma de servicio se registró el dato numérico «2414», pero tras la aparición de la MU el contador de operación de este elemento indicó el dato numérico «2418», lo que acredita de forma inequívoca el uso del elemento de emergencia de estas señales al permitir la entrada de los trenes desde la SK hacia la TK n.º 1 Praha-Krč – Praha-Vršovice, respectivamente Praha-Zahradní Město – Praha-Krč, en 4 casos (números de contador «2416» hasta «2418»), es decir, para permitir la salida de los trenes Os 10069, Os 10071 y Os 2014 PN de la señal de salida L1 desde la SK n.º 1 hacia la TK n.º 1 Praha-Krč – Praha-Vršovice, si bien el uso del elemento de emergencia de las señales de salida L10, L8, L6, L4, L2, L1 y L3 con el dato numérico «2415» no fue registrado ni justificado en la EDD (véase también el punto 3.1.3 de esta ZZ);
 •
-de la señal de entrada S de la est. Praha-Krč, en la toma de servicio, se registró el dato numérico
-«5944», pero tras la aparición de la MU el contador de operación de este elemento indicó el dato numérico «5946»,
-lo que demuestra de forma inequívoca la utilización del elemento de emergencia de dicha señal de entrada al
-permitir la entrada de trenes desde la TK n.º 1 Praha-Krč – Praha-Vršovice hacia la est. Praha-Krč en
-2 casos (números de contador «5945» y «5946»), es decir, para permitir la entrada de los trenes Os 2015
-y Os 9013 (véase también el punto 3.1.3 de la presente ZZ).
-Lo anterior no puede valorarse en relación causal con la aparición de la MU, ya que el no registro
-y la no justificación de la utilización de PN es una deficiencia de carácter administrativo que no tiene ninguna
-influencia en el transportista (maquinista), el cual, al explotar la vía, debe regirse por las instrucciones del operador de la vía
-dadas al organizar el transporte ferroviario, entre otras, mediante las indicaciones de las señales luminosas de las señales principales.
+de la señal de entrada S de la estación de Praha-Krč, en la toma de servicio se registró el dato numérico «5944», pero tras la aparición de la MU el contador de operación de este elemento indicó el dato numérico «5946», lo que acredita de forma inequívoca el uso del elemento de emergencia de esta señal de entrada al permitir la entrada de los trenes desde la TK n.º 1 Praha-Krč – Praha-Vršovice hacia la estación de Praha-Krč en 2 casos (números de contador «5945» y «5946»), es decir, para permitir la entrada de los trenes Os 2015 y Os 9013 (véase también el punto 3.1.3 de esta ZZ).
+Lo anterior no puede valorarse en relación causal con la aparición de la MU, porque el no registro y la no justificación del uso de la PN es una deficiencia de carácter administrativo que no tiene ninguna influencia en el transportista (maquinista), quien al explotar la vía debe regirse por las instrucciones del explotador de la vía impartidas al organizar el transporte ferroviario, dadas, entre otras, por las señales de los semáforos principales.
 ### Hallazgos: 
-En la investigación se constató también la infracción de normas jurídicas y normas internas relativas a
-las funciones y obligaciones del operador de la vía SŽ fuera de la relación causal con la aparición de la MU:
+En la investigación se constató también la infracción de disposiciones legales y normas internas relativas a las funciones y obligaciones del explotador de la vía SŽ, al margen de la relación causal con la aparición de la MU:
 •
-§ 22 apartado 1 letra a) de la ley n.º 266/1994 Sb.:
-«El operador de la vía está obligado a explotar la vía para las necesidades del transporte ferroviario fluido y seguro
-según las reglas para la explotación de la vía y la autorización administrativa»;
+§ 22 apartado 1 letra a) de la Ley n.º 266/1994 Sb.:
+«El explotador de la vía está obligado a explotar la vía para las necesidades del transporte ferroviario fluido y seguro de acuerdo con las reglas para la explotación de la vía y la autorización administrativa,»;
 •
-§ 12 apartado 4 del decreto n.º 173/1995 Sb.:
+§ 12 apartado 4 del Decreto n.º 173/1995 Sb.:
 
 ## Página 38
+
 
 «Los elementos de mando con los que se realiza la maniobra de emergencia deben estar provistos de cierres de seguridad o contadores de maniobra, o su uso debe ser documentado por un dispositivo técnico. Cada uso de elementos de mando para la maniobra de emergencia o para la eliminación de cierres de seguridad debe estar justificado y registrado.»;
 •
@@ -1103,8 +1140,8 @@ En la investigación no se constató incumplimiento de las funciones y obligacio
 ### 4.1.3 Fabricantes de vehículos ferroviarios u otros proveedores de instalaciones ferroviarias
 En la investigación no se constató incumplimiento de las funciones y obligaciones de los fabricantes de DV o de otros proveedores de productos ferroviarios.
 
-
 ## Página 39
+
 
 ### 4.1.4 Autoridades nacionales de seguridad y Agencia Ferroviaria de la Unión Europea
 La autoridad nacional de seguridad es el DÚ, que de acuerdo con la Ley n.º 266/1994 Sb. es una autoridad administrativa dependiente del Ministerio de Transportes. Su función es, entre otras, el ejercicio de la supervisión estatal en materia de ferrocarriles y en materia de la autoridad de construcción, el ejercicio de la autoridad de construcción especial para obras ferroviarias y obras en el ferrocarril, la aprobación de nuevos y modernizados vehículos ferroviarios y dispositivos técnicos designados, y la tramitación de infracciones. El DÚ tiene la obligación de comunicar al DI, en el plazo de 12 meses desde la fecha de publicación del informe final que contenga las recomendaciones de seguridad dirigidas a él, qué medida ha adoptado en relación con dicha recomendación de seguridad, realizando esta comunicación de forma regular, al menos una vez al año, hasta la adopción de las medidas correspondientes.
@@ -1120,8 +1157,8 @@ Las funciones y obligaciones de otras personas o entidades no guardaban relació
 4.2.1 Factores o consecuencias derivados de la construcción de vehículos ferroviarios, de la infraestructura ferroviaria o de los dispositivos técnicos
 En la investigación no se identificaron factores derivados de la construcción de DV, de la infraestructura ferroviaria o de los dispositivos técnicos.
 
-
 ## Página 40
+
 
 4.2.2 Factores o consecuencias derivados de la instalación y puesta en servicio de vehículos ferroviarios, de la infraestructura ferroviaria o del dispositivo técnico
 En la investigación no se identificaron factores derivados de la instalación y puesta en servicio de DV, de la infraestructura ferroviaria o del dispositivo técnico.
@@ -1142,8 +1179,8 @@ art. 3.3.1 de la normativa interna de SŽ T100:
 art. 248 de la normativa interna de SŽDC T120:
 «Si el empleado de mantenimiento de OUZZ constata que el ZKV o la sección de vía del VZ no presenta un estado, una función y parámetros operativos conformes a las normas, reglamentos, al acta de ajuste de DLZT, a las directrices, a las hojas modelo, a las medidas operativas y a la documentación técnica para su funcionamiento, dicho estado debe considerarse como una amenaza para la explotación y deben tomarse las medidas de acuerdo con el art. 249.».
 
-
 ## Página 41
+
 
 En el caso de este MU concreto, es necesario relacionar la disposición anterior con la siguiente:
 ◦art. 249 de la normativa interna de SŽDC T120:
@@ -1165,6 +1202,7 @@ En la investigación no se identificaron otros factores relacionados con DV, la 
 
 ## Página 42
 
+
 ### 4.3 Factores humanos
 ### 4.3.1 Características humanas e individuales
 En la investigación no se detectaron factores relacionados con la formación profesional de los empleados, el estado de salud y la situación personal, incluido el estrés físico y psicológico.
@@ -1175,7 +1213,6 @@ En la investigación no se detectaron factores relacionados con la jornada labor
 ### 4.3.3 Factores organizativos y tareas
 En la investigación no se detectaron factores relacionados con la organización del trabajo o con las tareas laborales.
 
-
 ## Página 43
 
 ### 4.3.4 Factores relacionados con el entorno laboral
@@ -1185,67 +1222,94 @@ En la investigación no se detectaron otros factores relacionados con la actuaci
 ### 4.4 Mecanismos de retroalimentación y mecanismos de control, incluida la gestión de riesgos
 y la garantía de seguridad, y los procedimientos de seguimiento
 ### 4.4.1 Condiciones pertinentes del marco regulatorio
-Las condiciones pertinentes del marco regulatorio están establecidas en los Reglamentos de la Unión Europea, en la ley n.º 266/1994 Sb. y en los decretos de aplicación.
-4.4.2 Procedimientos, métodos, contenido y resultados de las actividades de evaluación de riesgos y de seguimiento que
-realiza cualquiera de las partes implicadas
-En los procedimientos, métodos, contenido y resultados de las actividades de evaluación de riesgos y de seguimiento, relacionados con las circunstancias de producción del MU en cuestión, no se detectaron deficiencias.
-### 4.4.3 Sistema de garantía de seguridad de los operadores ferroviarios y gestores de la infraestructura implicados
-En el sistema de seguridad del gestor de la infraestructura y en el sistema de garantía de seguridad del tráfico ferroviario del operador ferroviario, relacionados con las circunstancias de producción del MU en cuestión, no se detectaron deficiencias.
-### 4.4.4 Sistema de gestión de las entidades responsables del mantenimiento de los vehículos ferroviarios
+Las condiciones pertinentes del marco regulatorio están establecidas en los Reglamentos de la Unión Europea,
+en la ley núm. 266/1994 Sb. y en los decretos de aplicación.
+4.4.2 Procedimientos, métodos, contenido y resultados de las actividades de evaluación de riesgos y seguimiento que
+realiza cualquiera de los sujetos implicados
+En los procedimientos, métodos, contenido y resultados de las actividades de evaluación de riesgos y seguimiento,
+relacionados con las circunstancias de la aparición de la MU en cuestión, no se detectaron deficiencias.
+### 4.4.3 Sistema de garantía de seguridad de los transportistas y gestores de infraestructura implicados
+En el sistema de seguridad del gestor de infraestructura y en el sistema de garantía de seguridad del transporte ferroviario
+del transportista, relacionados con las circunstancias de la aparición de la MU en cuestión, no se detectaron
+deficiencias.
+### 4.4.4 Sistema de gestión de los sujetos responsables del mantenimiento de los vehículos ferroviarios
 y de los talleres de mantenimiento
-El sistema de gestión de las entidades responsables del mantenimiento de DV y de los talleres de mantenimiento no guardaba relación con la producción del MU.
+El sistema de gestión de los sujetos responsables del mantenimiento de los VF y de los talleres de mantenimiento no guardaba relación
+con la aparición de la MU.
 ### 4.4.5 Resultados de la supervisión realizada por las autoridades nacionales de seguridad
-Atendiendo a los factores detectados y a las circunstancias de producción del MU, la supervisión de la autoridad de seguridad no guarda relación con el MU en cuestión.
-### 4.4.6 Aprobaciones, certificados y informes de evaluación emitidos por la agencia, las autoridades nacionales
-de seguridad u otras entidades de evaluación de la conformidad
-El gestor de la infraestructura explotaba la infraestructura en virtud de una autorización administrativa vigente y de un certificado de seguridad del gestor de la infraestructura. El operador ferroviario explotaba el tráfico ferroviario en virtud de una licencia vigente y de un certificado del operador ferroviario.
+Atendiendo a los factores detectados y a las circunstancias de la aparición de la MU, la supervisión de la autoridad de seguridad
+no guarda relación con la MU en cuestión.
+### 4.4.6 Aprobaciones, certificados y dictámenes de evaluación emitidos por la agencia, las autoridades nacionales
+de seguridad u otros sujetos de evaluación de la conformidad
+El gestor de infraestructura explotaba la infraestructura en virtud de una autorización administrativa vigente y de un
+certificado de seguridad del gestor de infraestructura. El transportista explotaba el transporte ferroviario en virtud de
+una licencia vigente y de un certificado del transportista.
 ### 4.4.7 Otros factores sistémicos
 En la investigación no se detectaron otros factores sistémicos.
 
-
 ## Página 44
 
-### 4.5 Sucesos anteriores de naturaleza similar
-La DI registra en el periodo desde el 1 de enero de 2010 hasta la producción del MU en cuestión 12 casos análogos, en los que, durante la circulación del tren por la vía de la cabecera de la estación, se descarrilaron DV, y en 1 caso se produjo posteriormente una colisión de DV de 2 trenes de pasajeros. La causa de la producción de dichos MU fue la operación no autorizada de elementos del SZZ por parte de empleados del gestor de la infraestructura que participan en la explotación de la infraestructura, con el resultado de que se accionara un desvío en el momento en que estaba ocupado por DV en movimiento. En
-### dichos MU resultaron heridas 16 personas y se produjo un daño por importe de 17 120 678 Kč.
-La DI, en el periodo examinado, investigó, o investiga en la actualidad, las causas y circunstancias de un total de 6 MU análogos en las líneas ferroviarias, de categoría nacional y regional, en los que se produjo
-un accionamiento no autorizado de un desvío antes o bajo los DV en movimiento de un tren:
+### 4.5 Eventos anteriores de naturaleza similar
+El DI registra en el período comprendido entre el 1. 1. 2010 y la ocurrencia de la MU objeto de estudio 12 casos análogos, en los que
+durante la circulación de un tren por la vía de la estación se descarriló un DV, habiendo dado lugar en 1 caso a una
+colisión de DV de 2 trenes de transporte de viajeros. La causa de la ocurrencia de dichas MU fue la maniobra no autorizada
+de elementos de SZZ por parte de empleados del explotador ferroviario que participan en la explotación de la vía, con
+el resultado de la conmutación de un desvío en el momento en que estaba ocupado por DV en movimiento. En
+### dichas MU resultaron heridas 16 personas y se produjo un daño por importe de 17 120 678 Kč.
+El DI investigó, respectivamente investiga en la actualidad, en el período examinado las causas y circunstancias en vías
+### ferroviarias, categoría nacional y regional, un total de 6 MU análogos, en los que se produjo
+la conmutación no autorizada de un desvío delante o debajo de DV en movimiento de un tren:
 •
-del 4 de agosto de 2015 (13:19 h) en la est. Horažďovice předměstí, en el que se produjo una colisión entre el penúltimo y el último DV del tren R 668 con el tren R 667 y un posterior descarrilamiento. La causa inmediata de la producción del MU fue el accionamiento del desvío n.º 28X por el señalero St. 2 en el momento en que en dicho desvío se encontraban los DV del tren R 668, y la posterior circulación de la parte trasera del tren R 668 por una vía distinta de la que estaba destinada a la circulación de dicho tren;
+del 4. 8. 2015 (13:19 h) en la est. Horažďovice předměstí, en el que se produjo la colisión
+del penúltimo y último DV del tren R 668 con el tren R 667 y el consiguiente
+descarrilamiento. La causa inmediata de la ocurrencia de la MU fue la conmutación del desvío n.º 28X
+por el operador de señalización St. 2 en el momento en que en dicho desvío se encontraba el DV del tren R 668,
+y la posterior circulación de la parte trasera del tren R 668 por una vía distinta de la destinada
+a la circulación de dicho tren;
 •
-del 16 de agosto de 2017 (7:04 h) en la est. Praha-Čakovice, en el que se produjo el descarrilamiento del tren Os 9522. La causa inmediata de la producción del MU fue el accionamiento del desvío n.º 1 por el jefe de estación de la est. Praha-Čakovice en el momento justo antes de la circulación de los DV del tren Os 9522;
+del 16. 8. 2017 (7:04 h) en la est. Praha-Čakovice, en el que se produjo el descarrilamiento del tren
+Os 9522. La causa inmediata de la ocurrencia de la MU fue la conmutación del desvío n.º 1 por el jefe de estación
+de la est. Praha-Čakovice en el momento inmediatamente anterior a la circulación del DV del tren Os 9522;
 •
-del 2 de octubre de 2019 (18:00 h) en la est. Omlenice, en el que se produjo el descarrilamiento del tren Os 18809. La causa inmediata de la producción del MU fue el accionamiento del desvío n.º 1 bajo los DV en movimiento del tren Os 18809;
+del 2. 10. 2019 (18:00 h) en la est. Omlenice, en el que se produjo el descarrilamiento del tren
+Os 18809. La causa inmediata de la ocurrencia de la MU fue la conmutación del desvío n.º 1 debajo
+de los DV en movimiento del tren Os 18809;
 •
-del 18 de junio de 2020 (8:05 h) en la est. 
+del 18. 6. 2020 (8:05 h) en la est. 
  O  brnice
  , en el que se produjo el descarrilamiento del tren Os 6704.
-La causa inmediata de la producción del MU fue el accionamiento no autorizado del desvío de cruzamiento n.º 25a bajo el tren en movimiento Os 6704, precedido por la no comprobación de si el tren Os 6704 llegó completo a la vía designada, y la cancelación prematura de la vía de tren establecida para dicho tren;
+La causa inmediata de la ocurrencia de la MU fue la conmutación no autorizada del desvío de enlace
+n.º 25a debajo del tren en movimiento Os 6704, precedida por la no verificación de si
+el tren Os 6704 había llegado íntegro a la vía destinada, y la anulación prematura de la vía de tren establecida
+para dicho tren;
 •
-del 15 de julio de 2020 (19:15 h) en la est.
+del 15. 7. 2020 (19:15 h) en la est.
    Medleš
  ice
   , en el que se produjo el descarrilamiento del tren
-Os 5338. La causa inmediata de la producción del MU fue el accionamiento no autorizado del desvío
-n.º 1 bajo el tren en movimiento Os 5338, precedido por la no comprobación de si el tren
-Os 5338 llegó completo a la vía designada, y la cancelación prematura de la vía de tren
-establecida para dicho tren;
+Os 5338. La causa inmediata de la ocurrencia de la MU fue la conmutación no autorizada del desvío
+n.º 1 debajo del tren en movimiento Os 5338, precedida por la no verificación de si
+el tren Os 5338 había llegado íntegro a la vía destinada, y la anulación prematura de la vía de tren establecida
+para dicho tren;
 •
-del 13 de agosto de 2020 (9:14 h) en la est.
+del 13. 8. 2020 (9:14 h) en la est.
    Tišnov
  , en el que se produjo el descarrilamiento del tren R 975.
-La causa inmediata de la producción del MU fue la operación no autorizada de elementos del SZZ de la est. Tišnov
-con el resultado de que se accionara el desvío n.º 33 en el momento en que estaba ocupado
-por los DV en movimiento del tren R 975, causada por una falta inconsciente (error)
-de la persona profesionalmente cualificada que operaba dicho dispositivo.
-La DI, en 1 caso, concretamente en el MU producido el 4 de agosto de 2015 (13:19 h) en la est. Horažďovice
-předměstí, emitió una recomendación de seguridad, en la que, sobre la base de los resultados de la determinación de las causas y circunstancias de producción del MU, para reducir la probabilidad de producción de MU similares, recomendó:
+La causa inmediata de la ocurrencia de la MU fue la maniobra no autorizada de elementos de SZZ de la est. Tišnov,
+con el resultado de la conmutación del desvío n.º 33 en el momento en que estaba ocupado
+por DV en movimiento del tren R 975, causada por una omisión inconsciente (error)
+de la persona cualificada que opera dicho dispositivo.
+El DI, en 1 caso, concretamente en la MU ocurrida el 4. 8. 2015 (13:19 h) en la est. Horažďovice
+předměstí, emitió una recomendación de seguridad, en la que, con base en los resultados de la investigación de las causas
+y circunstancias de la ocurrencia de la MU, para reducir la probabilidad de ocurrencia de MU similares, recomendó:
 •
-al gestor de la infraestructura Správa železniční dopravní cesty, s. o. (en la actualidad SŽ), en las líneas explotadas:
-◦comprobar si el ZDD, y en particular los regímenes de estación de los tráficos, establecen de manera unívoca (en el sentido del art. 2859 de la norma interna D1 de SŽDC) los ámbitos
-
+al explotador de la vía Správa železniční dopravní cesty, s. o. (en la actualidad SŽ),
+en las vías explotadas:
+◦verificar si los ZDD, y en particular los reglamentos de estación de las estaciones,
+establecen de manera unívoca (en el sentido del art. 2859 de la norma interna de SŽDC D1) los ámbitos
 
 ## Página 45
+
 
 para la comprobación de la libre vía de tren y si además establecen de qué manera se comprueba la libre vía de tren,
 ◦comprobar si los datos sobre la infraestructura y los procedimientos tecnológicos de explotación de la infraestructura indicados en el ZDD corresponden al estado vigente a la fecha de la comprobación y, en caso de detectar deficiencias, adoptar sin demora las medidas para poner el ZDD en un estado que corresponda al estado vigente,
@@ -1277,6 +1341,7 @@ Systemic factor: none.
 
 ## Página 46
 
+
 ### 5.2 Medidas adoptadas para prevenir sucesos
 El gestor de la infraestructura SŽ, s. o., adoptó, tras la producción del suceso, las siguientes medidas:
 •
@@ -1306,8 +1371,8 @@ no indicación (no registro) en el registro del transcurso de la gestión del tr
 •
 valor de tensión excedido, respectivamente, insuficiente tras el suceso, del KO del sector 32Vk del APE de la estación Praha-Krč.
 
-
 ## Página 47
+
 
 ### Hallazgos adicionales
 En el gestor de la infraestructura SŽ:
@@ -1331,16 +1396,16 @@ inspector
 De la Inspección Territorial de Ostrava
 De la Inspección Territorial de Ostrava
 
-
 ## Página 48
+
 
 ## ANEXOS
 Fig. n.º 5: Imagen de la locomotora 814.215-0 descarrilada en su posición final tras el suceso, tomada desde el espacio contiguo a la SK n.º 1b.
         Fuente: DI
 Fig. n.º 6: Vista general del tren Os 9013 desde el lado del final del tren en su posición final tras el suceso.   Fuente: DI
 
-
 ## Página 49
+
 
 Fig. n.º 7: Imagen que documenta el resultado de la comprobación del funcionamiento correcto del APE de la estación Praha-Krč con la colocación del itinerario de tren variante n.º 122 según el ZT circulado fuera de la SK n.º 1b, es decir, a través de los desvíos n.º 30a/b, 29 y 27. Para la validez de la prueba de verificación se provocó la avería KO 1bK, es decir, una avería de elemento análoga a la producida en el suceso del 23 de marzo de 2022. 
         Fuente: DI

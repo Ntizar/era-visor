@@ -10,13 +10,14 @@ chars: 58337
 ratio_longitud: 1.22
 tokens_in: 32988
 tokens_out: 22415
-verificacion: revisar
-notas_cifras: ["bloque 2: original bilingüe: se compara contra el idioma principal (PT)", "bloque 3: original bilingüe: se compara contra el idioma principal (CS)", "bloque 4: original bilingüe: se compara contra el idioma principal (CS)", "bloque 7: original bilingüe: se compara contra el idioma principal (CS)", "bloque 8: original bilingüe: se compara contra el idioma principal (CS)"]
-avisos: ["bloque 7: ratio 1.71"]
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 6: original bilingüe: se compara contra el idioma principal (EN)", "página 7: original bilingüe: se compara contra el idioma principal (PT)", "página 8: original bilingüe: se compara contra el idioma principal (CS)", "página 11: original bilingüe: se compara contra el idioma principal (PT)", "página 13: original bilingüe: se compara contra el idioma principal (CS); ratio 1.89"]
 ---
+
 ## Página 1
+
 
 Inspección Ferroviaria
 República Checa
@@ -44,11 +45,12 @@ IČ:   75009561
 http://www.dicr.cz
 tel.: 224 805 444
 
-
 ## Página 2
 
 
+
 ## Página 3
+
 
 # RESUMEN
 Grado:                     accidente.
@@ -76,8 +78,8 @@ AWT, a. s. (IM y RU);
 E S B, a. s. (operadora del equipo de maniobras por cable);
 ČD Cargo, a. s. (propietaria de los vehículos ferroviarios).
 
-
 ## Página 4
+
 
 Consecuencias:
 sin heridos;
@@ -109,13 +111,13 @@ recomendación anterior también para otros gestores de infraestructura (IM) y
 empresas ferroviarias (RU) en las vías muertas donde se utilice la maniobra de 
 maniobras por cable.
 
-
 ## Página 5
+
 
 Este informe final es público y todos los documentos y hechos están respaldados por el expediente de investigación.
 
-
 ## Página 6
+
 
 # Índice
  Resumen .............................................................................................................................3
@@ -160,6 +162,7 @@ las personas) ................................16
 
 ## Página 7
 
+
 proporción ...............................................................................................................16
 3.1.2 Otras personas ................................................................................................17
 3.2 Sistema de garantía de la seguridad .....................................................................17
@@ -199,8 +202,8 @@ manejo y utilización ..........................................................
 punto 3 ........................................................................................................22
 4.2 Análisis ..................................................................................................................23
 
-
 ## Página 8
+
 
 4.2.1 Evaluación de los hechos constatados según el punto 3 y formulación de conclusiones
 sobre la causa del suceso excepcional y la actuación de los servicios de
@@ -225,17 +228,19 @@ excepcional ....................................................................
  Fig. n.º 4: Lugar del SE ..............................................................................................27
  Fig. n.º 5: Vista de los bogies descarrilados ....................................................................28
 
-
 ## Página 9
 
 
+
 ## Página 10
+
 
 ## Lista de siglas y símbolos utilizados
 |  | Lista de siglas y símbolos utilizados |
 | AWT a s , . . COP ČDC ČEZ DI DV GPS HZS JPO MU OKV RZZ SOKV SŽDC s o , . . TNŽ TP VI ZZ žst . | Advanced World Transport a s , . . Centro Central de Notificación ČD Cargo a s ene, rg. ti. Č es ké e cké závody a s , . . Inspección Ferroviaria vehículo ferroviario vehículos ferroviarios , Global Positioning System (Sistema de Posicionamiento Global) Cuerpo de Bomberos Unidad de Protección Contra Incendios suceso excepcional taller de reparación de vehículos sobre raíles dispositivo de seguridad con relés centro de reparación de vehículos sobre raíles Administración de la Vía de Tránsito Ferroviario organización estatal , norma técnica ferroviaria condiciones técnicas inspector superior dispositivo de seguridad estación de ferrocarril |
 
 ## Página 11
+
 
 ## 1 RESUMEN
 Clasificación del suceso:
@@ -278,8 +283,8 @@ elaborar procedimientos tecnológicos para ferrocarriles-ramales donde se utilic
 la maniobra por cable de modo que prescriban procedimientos suficientemente eficaces para
 el aseguramiento del DV frente a la puesta en marcha no controlada.
 
-
 ## Página 12
+
 
 2. A la Autoridad Ferroviaria:
 adopción de una medida de seguridad propia, encaminada a garantizar la
@@ -299,30 +304,17 @@ integrado de protección y del servicio de rescate
 El día 8. 12. 2011 a las 6:48 h, durante la maniobra del DV vacío 81 54 5978 299-2 desde el volcador 
 rotativo, situado en la vía n.º 104b, a la vía n.º 102 mediante maniobra por cable, 
 la circulación de dicho DV continuó por inercia por la vía n.º 102 hacia el lugar donde se encontraban colocados dos 
-topes, destinados a detener el DV. Debido al fuerte viento que sopló contra el DV, se produjo 
-
+topes, destinados a detener el DV. Debido al fuerte viento que sopló contra el DV, se produjo
 
 ## Página 13
 
-un aumento significativo de su velocidad. La rápida circulación del DV hizo que los topes fueran derribados, y por 
-tanto no detuvieron su marcha. El DV continuó su circulación no controlada desde la vía n.º 102 por las vías 
-n.º 101b, 101a, 100a hasta la vía 100b, donde pasó por la aguja de descarrilamiento Vk7 no plegada (véase Fig. 
-n.º 2: Plano de la parte del ramal donde se produjo el SE) y, a continuación, descarriló con ambos ejes del 
-bastidor delantero y un eje del trasero hacia la derecha en la dirección de circulación. Durante el 
-descarrilamiento se produjo daños en el aparato de cambio de la aguja n.º 23. Por la vía libre n.º 102, con 
-un intervalo de tiempo de 3 minutos, circuló otro DV vacío 81 54 5974 851-4, que debía 
-detenerse en la vía n.º 102 tras el anterior (pero ya puesto en marcha) DV, y por lo tanto continuó 
-su circulación no controlada por las vías n.º 101b, 101a, 100a y 100b, donde, tres minutos después del 
-descarrilamiento del primer DV, lo embistió. El DV recorrió en circulación no controlada desde el lugar de derribo de 
-los topes hasta la aguja de descarrilamiento Vk7 una distancia de 452 m.
-En la circulación no controlada también se pasaron las señales S102, S101b, S101a, S100 
-en posición «Alto» y el paso a nivel protegido por un dispositivo de enclavamiento de paso a nivel 
-luminoso, activado por la circulación del DV, en el pk 0,534.
-Fig. n.º 2: Plano de la parte del ramal donde se produjo el SE
-Fig. n.º 3: Situación del lugar del SE (fuente www.mapy.cz) 
-
+a una marcada aceleración de su velocidad. Con la marcha rápida del DV se derribaron los topes, y así no detuvieron su marcha. El DV continuó con una marcha incontrolada desde la vía n.º 102 por las vías n.º 101b, 101a, 100a hasta la vía 100b, donde entró en el desvío Vk7 no plegado (véase Fig. n.º 2: Plano de parte de la vía lateral donde se produjo el MU) y posteriormente descarriló con ambos ejes del bogie delantero y un eje del bogie trasero hacia la derecha en el sentido de la marcha. En el descarrilamiento se produjo daños en el desplazador del cambio n.º 23. Tras la vía libre n.º 102, con un intervalo de tiempo de 3 minutos, se produjo la marcha de otro DV vacío 81 54 5974 851-4, que debía detenerse en la vía n.º 102 tras el DV anterior (pero ya marchado), y por lo tanto continuó con una marcha incontrolada por las vías n.º 101b, 101a, 100a y 100b, donde tres minutos después del descarrilamiento del primer DV chocó contra él. El DV recorrió con marcha incontrolada desde el lugar de derribo de los topes hasta el desvío Vk7 una distancia de 452 m.
+Con la marcha incontrolada se produjo también el paso de las señales S102, S101b, S101a, S100 en posición «Alto» y del paso a nivel protegido con dispositivo de señalización de paso a nivel luminoso, activado por la marcha del DV, en el km 0,534.
+Fig. n.º 2: Plano de parte de la vía lateral donde se produjo el MU
+Fig. n.º 3: Situación del lugar del MU (fuente www.mapy.cz)
 
 ## Página 14
+
 
 2.1.3 Decisión de iniciar la investigación de las causas y circunstancias de su origen, composición del equipo de personas 
 con competencia profesional y forma de dirigir la investigación de las causas y circunstancias de su origen
@@ -383,6 +375,7 @@ El patio de vías se encontraba en un estado técnico satisfactorio. La actuaci�
 
 ## Página 15
 
+
 ### 2.2.4 Uso de medios de comunicación
 El jefe de estación de AWT, a. s., al observar que se indicaba el bloqueo del tramo de vía 101a sin que se estuviera realizando maniobras en dicha vía, llamó inmediatamente por teléfono al jefe de estación de la est. Řečany nad Labem, indicándole que probablemente se había escapado un DV. A continuación, prohibió telefónicamente la descarga posterior de vagones de carbón en el volcador rotatorio y, mediante teléfono móvil, comunicó al jefe de la vía lateral la aparición de la MU.
 ### 2.2.5 Trabajos realizados en el lugar del suceso excepcional y en sus inmediaciones
@@ -418,8 +411,8 @@ daño total
 ###            168.128 Kč
 •
 
-
 ## Página 16
+
 
 ## 2.4
 ### Circunstancias externas
@@ -477,68 +470,63 @@ dado que la cámara está situada en el edificio del volcador con una toma en el
 vías n.º 101 y 102, no observó ninguna anomalía en el movimiento de los vagones en la
 imagen de la cámara.
 
-
 ## Página 17
 
 ### 3.1.2 Otras personas
-Otras personas no presentaron explicaciones sobre la MU.
+Las demás personas no aportaron explicaciones a la MU.
 ## 3.2
 ### Sistema de garantía de la seguridad
 ### 3.2.1 Organización marco y forma en que se emiten y ejecutan las instrucciones
-El explotador de la vía lateral y transportista AWT, a. s., emitió la norma interna "Provozní řád vlečky ČEZ, a.s. - ELEKTRÁRNA CHVALETICE", en la que se indica que:
-entre la vía lateral y la est. Řečany nad Labem se circula en forma de maniobras, ya sea
+El gestor de la vía lateral y el transportista AWT, a. s., emitió la norma interna «Reglamento de explotación de la vía lateral de ČEZ, a.s. - CENTRAL TÉRMICA CHVALETICE», en la que se indica que:
+entre la vía lateral y la estación Řečany nad Labem se circula en forma de maniobras, ya sea por tracción o
 •
-arrastrando o empujando según la situación operativa y las tecnologías establecidas;
-las salidas de maniobras se acuerdan telefónicamente entre el jefe de estación (supervisor
+empuje según la situación de explotación y las tecnologías establecidas;
+las circulaciones de maniobras se acuerdan telefónicamente entre el jefe de estación (supervisor de estación) de la vía lateral y el jefe de estación de la estación
 •
-de estación) de la vía lateral y el jefe de estación de la est. Řečany nad Labem;
-las salidas están además protegidas mediante la transmisión de autorizaciones.
+Řečany nad Labem;
+las circulaciones están además protegidas mediante la transmisión de autorizaciones.
 •
-El explotador de la vía lateral y transportista AWT, a. s., emitió asimismo el documento "Příloha č. 37 k PŘ vlečky Chvaletice", en el que se indica, entre otras cosas, que:
-en las vías n.º 101 y 102 se agrupan los DV descargados en el volcador rotatorio;
+El gestor de la vía lateral y el transportista AWT, a. s., emitió asimismo el documento «Anexo n.º 37 al Reglamento de explotación de la vía lateral de Chvaletice», en el que, entre otras cosas, se indica que:
+en las vías n.º 101 y 102 se acumulan los vagones DV descargados en el volcador rotativo;
 •
-los DV se acercan progresivamente con vagones de maniobras desde la vía n.º 104C;
+los vagones DV se acercan progresivamente con vagones de maniobra desde la vía n.º 104C;
 •
-para asegurar los DV agrupados en las vías n.º 101 y 102, el empleado del equipo de
+para asegurar los vagones DV acumulados en las vías n.º 101 y 102, un empleado
 •
-maniobras de AWT, a. s., tras la salida de los vagones vacíos de las vías n.º 101 y 102,
-colocará un tope en cada banda de carril al mismo nivel, en el lugar señalizado con una
-banda amarilla (delante de las señales S101 y S102).
-### 3.2.2 Requisitos para los empleados del explotador de la vía y del transportista y su aplicación
-La idoneidad profesional y sanitaria de las personas que participan en la explotación del tráfico ferroviario la establece el § 35 apartado (1) letra f) de la ley n.º 266/1994 Sb.
-La idoneidad profesional y sanitaria de las personas que participan en la explotación de la vía la establece el § 22 apartado (1) letra c) de la ley n.º 266/1994 Sb.
-Los requisitos de idoneidad sanitaria y profesional de los empleados de AWT, a. s., incluido el modo de su aplicación, los establece la norma interna "Okp2 VÝCVIKOVÝ A ZKUŠEBNÍ ŘÁD PRO ČINNOSTI PŘI PROVOZOVÁNÍ DRÁHY A DRÁŽNÍ DOPRAVY", en vigor desde el 15. 6. 2001, en su versión vigente.
-Los requisitos de idoneidad sanitaria y profesional de los empleados de E S B, a. s., incluido el modo de su aplicación, los establece la norma interna "PŘEDPIS o podmínkách způsobilosti zaměstnanců uživatelů vleček", en vigor desde el 15. 4. 2004, en su versión vigente.
-Los empleados implicados disponían de certificados de idoneidad válidos de idoneidad sanitaria para el trabajo de acuerdo con el § 6 apartado (2) del decreto n.º 101/1995 Sb., Reglamento de idoneidad sanitaria y profesional de las personas en la explotación de la vía y del tráfico ferroviario, en su versión vigente.
-Todos los empleados implicados del explotador de la vía y del transportista eran, en el momento de la aparición de la MU, profesional y sanitariamente idóneos para el desempeño de la función que ocupaban.
+del equipo de maniobras de AWT, a. s., colocará, tras la salida de los vagones vacíos de las vías n.º 101 y 102, un tope en cada banda de raíl a la misma altura, en el lugar señalizado con una franja amarilla (delante de las señales S101 y S102).
+### 3.2.2 Requisitos aplicables a los empleados del gestor de la vía y del transportista y su cumplimiento
+La aptitud profesional y sanitaria de las personas que participan en la explotación del transporte ferroviario viene determinada por el apartado (1), letra f), del § 35 de la Ley n.º 266/1994 Sb.
+La aptitud profesional y sanitaria de las personas que participan en la explotación de la vía viene determinada por el apartado (1), letra c), del § 22 de la Ley n.º 266/1994 Sb.
+Los requisitos de aptitud sanitaria y profesional de los empleados de AWT, a. s., incluido el modo de hacerlos cumplir, vienen determinados por la norma interna «Okp2 REGLAMENTO DE FORMACIÓN Y EXAMEN PARA LAS ACTIVIDADES DE EXPLOTACIÓN DE LA VÍA Y DEL TRANSPORTE FERROVIARIO», en vigor desde el 15 de junio de 2001, en su versión vigente.
+Los requisitos de aptitud sanitaria y profesional de los empleados de E S B, a. s., incluido el modo de hacerlos cumplir, vienen determinados por la norma interna «REGLAMENTO sobre las condiciones de aptitud de los empleados de los usuarios de vías laterales», en vigor desde el 15 de abril de 2004, en su versión vigente.
+Los empleados implicados disponían de certificados de aptitud válidos en materia de aptitud sanitaria para el trabajo de conformidad con el apartado (2) del § 6 del Decreto n.º 101/1995 Sb., Reglamento sobre la aptitud sanitaria y profesional de las personas en la explotación de la vía y del transporte ferroviario, en su versión vigente.
+Todos los empleados implicados del gestor de la vía y del transportista eran, en el momento en que se produjo la MU, apta tanto desde el punto de vista profesional como sanitario para el desempeño de la función que ocupaban.
 
 ## Página 18
 
 ### 3.2.3 Procedimiento de control interno de seguridad y sus resultados
-Tras la aparición de la primera, análoga MU el 12. 10. 2011, el explotador de la vía lateral (dráha-vlečka) emitió la medida:
-«Sobre la base de la aparición de la MU del 12. 10. 2011, establezco con efectos desde el 15. 10. 2011 
-las siguientes medidas para la prestación del servicio de transporte en la vía lateral ECHVA:
-Seguimiento de la llegada del primer vagón a las vías libres 101 y 102, prestación de una atención 
-aumentada a las condiciones climáticas que puedan influir en el movimiento de los vagones ferroviarios y en las condiciones de adherencia.»
-El cumplimiento de esta medida fue controlado visualmente de forma continua por el jefe de la vía lateral. Las anotaciones de los controles realizados se encuentran archivadas en el jefe de explotación en la carpeta «Órdenes del jefe de explotación».
-Antes de la aparición de la MU del 8. 12. 2011, el explotador de la vía lateral AWT, a. s., en el sentido de la norma interna Sp1 y del decreto n.º 177/1995 Sb., ordenanza de construcción y técnica de las vías, en su redacción vigente, realizó el 10. 11. 2011 una medición de la vía lateral con el hallazgo de que: los valores medidos no superan las desviaciones operativas límite establecidas.
+Tras la primera MU similar ocurrida el 12 de octubre de 2011, el explotador de la vía lateral (vlečka) emitió la medida:
+«En base a la MU ocurrida el 12 de octubre de 2011, establezco con efecto desde el 15 de octubre de 2011 las siguientes medidas para la prestación del servicio de transporte en la vía lateral ECHVA:
+Seguimiento de la llegada del primer vagón a las vías libres 101 y 102, prestación de una atención reforzada a las condiciones climáticas que puedan influir en el movimiento de los vagones ferroviarios y en las condiciones de adherencia.»
+El cumplimiento de esta medida fue controlado visualmente de forma continuada por el jefe de la vía lateral. Las anotaciones de los controles realizados se encuentran en poder del jefe de explotación en la carpeta «Órdenes del jefe de explotación».
+Antes de la MU ocurrida el 8 de diciembre de 2011, el explotador de la vía lateral AWT, a. s., en el sentido del reglamento interno Sp1 y del decreto n.º 177/1995 Sb., ordenanza de construcción y técnica de las vías, en su versión vigente, realizó el 10 de noviembre de 2011 una medición de la vía lateral, con el resultado: los valores medidos no superan las desviaciones operativas límite establecidas.
 ### 3.2.4 Interfaz entre los distintos sujetos implicados y los componentes de la vía de circulación
 El propietario de la vía lateral «Vlečka ČEZ, a.s. - elektrárna Chvaletice» es ČEZ, a. s., con domicilio en Jungmannova 29, 111 48 Praha 1.
-El explotador de la vía lateral «Vlečka ČEZ, a.s. - elektrárna Chvaletice» es la sociedad AWT, a. s., organización sucesora de OKD Doprava, akciová společnost, en virtud de la Autorización Administrativa n.º de expediente: 1-159/96-DÚ/O-Bp, n.º de registro ÚP/1996/1885, del 1. 7. 1996, en su redacción vigente.
-La explotación del transporte ferroviario en la vía lateral «Vlečka ČEZ, a.s. - elektrárna Chvaletice» se realiza sobre la base del contrato: «CONTRATO n.º ECH279 909 Explotación de la vía y del transporte ferroviario, suministro de carbón, depósitos de combustibles y otras actividades – ECH» con vigencia desde el 1. 1. 2008, celebrado entre ČEZ, a. s. y OKD Doprava, akciová společnost.
-La explotación del transporte ferroviario en la vía lateral «Vlečka ČEZ, a.s. - elektrárna Chvaletice» se realiza sobre la base de la licencia para la explotación del transporte ferroviario L/1995/0002, concedida a la sociedad AWT, a. s., organización sucesora de OKD Doprava, akciová společnost, por resolución de la Autoridad Ferroviaria (Drážní úřad) del 11. 4. 1995 y la resolución vigente de modificación de licencia del 17. 5. 2010 n.º de registro L/2010002-48.
+El explotador de la vía lateral «Vlečka ČEZ, a.s. - elektrárna Chvaletice» es la sociedad AWT, a. s., organización sucesora de OKD Doprava, akciová společnost, en virtud de la Autorización Administrativa n.º de expediente: 1-159/96-DÚ/O-Bp, n.º de registro ÚP/1996/1885, de fecha 1 de julio de 1996, en su versión vigente.
+La explotación del transporte ferroviario en la vía lateral «Vlečka ČEZ, a.s. - elektrárna Chvaletice» se realiza en virtud del contrato: «CONTRATO n.º ECH279 909 Explotación de la vía y del transporte ferroviario, suministro de carbón, depósitos de combustibles y otras actividades – ECH», con efectos desde el 1 de enero de 2008, celebrado entre ČEZ, a. s. y OKD Doprava, akciová společnost.
+La explotación del transporte ferroviario en la vía lateral «Vlečka ČEZ, a.s. - elektrárna Chvaletice» se realiza en virtud de la licencia para la explotación del transporte ferroviario L/1995/0002, concedida a la sociedad AWT, a. s., organización sucesora de OKD Doprava, akciová společnost, por resolución de la Autoridad Ferroviaria de fecha 11 de abril de 1995 y por la resolución vigente de modificación de la licencia de fecha 17 de mayo de 2010, n.º de registro L/2010002-48.
 ## 3.3
 ### Regulación jurídica y de otro tipo
 ### 3.3.1 Normativa jurídica comunitaria y nacional aplicable
-En la investigación de la MU se constató la infracción de las normas jurídicas:
+En la investigación de la MU se constató la infracción de las disposiciones jurídicas:
 § 22 apartado 1 letra a) de la ley n.º 266/1994 Sb.:
 •
 «explotar la vía para las necesidades del transporte ferroviario fluido y seguro de acuerdo con las reglas para la explotación de la vía y la autorización administrativa»;
 § 23 apartado 8 del decreto n.º 173/1995 Sb.:
 •
 
-
 ## Página 19
+
 
 «si en la vía lateral se pone en movimiento un vehículo ferroviario mediante un vehículo no ferroviario, un dispositivo de cable o manualmente, debe garantizarse que el vehículo ferroviario no se desplace a otra vía.»
 3.3.2 Otras normas, p. ej. ordenanza de explotación, ordenanza de trabajo, normas de mantenimiento, normas técnicas vigentes y otras normas internas
@@ -563,6 +551,7 @@ El volcador rotativo sirve para el descargue de materiales a gravedad desde DV d
 
 ## Página 20
 
+
 Los DV se desplazan desde el volcador rotativo de la vía n.º 104b a la vía n.º 102 mediante maniobras de tracción por cable, que empujan los DV a la vía y los DV se detienen solos aproximadamente a media longitud de la vía (la vía es sin pendiente); en el lugar designado de la vía se colocan topes, contra los que los DV maniobrados se comprimen progresivamente y posteriormente se descuelgan.
 La maniobra de tracción por cable de los DV está destinada al desplazamiento de DV individuales para el servicio del volcador rotativo. Se utiliza un total de siete sistemas de maniobras de tracción por cable que difieren entre sí en algunos detalles constructivos. Las maniobras de tracción por cable sirven para el suministro de DV cargados desde las vías n.º 104 y 106 al volcador y su retirada en estado vacío a las vías n.º 101 y 102.
 La maniobra de tracción por cable n.º VII está destinada a la colaboración con el volcador. El conjunto principal de la maniobra de tracción por cable es el vagón lateral doble Pwd, que con su enganche captura la primera rueda del DV en la dirección de su marcha y la introduce en la curva. El vagón es arrastrado en ambas direcciones mediante un sistema de tracción por cable que es accionado mediante una estación motriz. El vagón se mueve por la playa de vías, que se compone de los raíles de la playa de vías de vagones 101 y 102 y de un tercer raíl adicional de forma S 49. La velocidad de marcha del vagón es de 2,7 m·s-1. Esta velocidad la comunica el vagón al DV, que a continuación continúa su marcha hacia las vías n.º 101 y 102.
@@ -575,8 +564,8 @@ El DV de la serie Eas 81 54 5974 851-4 descarrilado tenía emitido el Certificad
 El estado técnico del DV no guardaba relación causal con la aparición de la MU.
 El dispositivo de maniobras de tracción por cable fue aprobado el día 30. 12. 1994 por la Autoridad Ferroviaria bajo el n.º de ref. 25 899-3/94-0210. El explotador del dispositivo de maniobras de tracción por cable es la firma E S B, a. s., y el propietario es la firma ČEZ, a. s. Su estado técnico no guardaba relación causal con la aparición de la MU.
 
-
 ## Página 21
+
 
 ## 3.5
 ### Documentación sobre el sistema de explotación
@@ -604,6 +593,7 @@ El empleador garantizó las condiciones para el descanso antes del turno de conf
 
 ## Página 22
 
+
 3.6.2 Estado de salud y situación personal que influyeron en el suceso ferroviario, incluido el estrés físico o psicológico
 Todos los empleados implicados estaban, en el momento de producirse el suceso ferroviario, aptos para el desempeño de la función que ocupaban. La investigación no arrojó datos de que la situación personal o el estado psicológico de las personas implicadas en el suceso ferroviario hubieran influido en la producción del mismo.
 3.6.3 Disposición del equipamiento del puesto de mando o del vehículo que influye en su manejo y utilización
@@ -618,21 +608,22 @@ La Inspección Ferroviaria registra un suceso ferroviario análogo en la vía la
 El suceso ferroviario se produjo el día 8. 12. 2011 a las 6:48 h en el desvío Vk7 en el pk 0,058 de la vía-lateral „Vlečka ČEZ, a.s. - elektrárna Chvaletice“.
 En el momento de maniobrar el DV vacío 81 54 5978 299-2 mediante maniobra de tracción por cable, el DV continuó su marcha por inercia por la vía n.º 102 hacia el lugar de colocación de dos topes. Debido a las condiciones meteorológicas adversas – fuerte viento de racheo –, el DV tuvo que adquirir una velocidad mayor, y de tal magnitud que, con su marcha, era capaz de derribar los topes de los raíles. La marcha del DV no se detuvo en el lugar destinado a tal fin y el DV continuó con una marcha incontrolada desde la vía n.º 102 por las vías n.º 101b, 101a, 100a hasta la vía 100b, donde entró en el desvío Vk7 y posteriormente descarriló con ambos ejes del bogie delantero y un eje del bogie trasero. Tras la vía libre n.º 102 siguió la marcha incontrolada de otro DV 81 54 5974 851-4, que circuló por las vías n.º 101b, 101a, 100a y 100b, donde a los tres minutos chocó contra el primer DV descarrilado. El movimiento de los demás DV se detuvo mediante las medidas adoptadas por el jefe de maniobras y el jefe de estación.
 
-
 ## Página 23
 
 ## 4.2
 ### Análisis
-### 4.2.1 Evaluación de los hechos constatados según el punto 3 y exposición de las conclusiones sobre la causa del suceso ferroviario y la actuación de los servicios de rescate
-La organización del tráfico ferroviario en la vía lateral „Vlečka ČEZ, a.s. - elektrárna Chvaletice“ se realiza con base en la norma interna „Provozní řád vlečky ČEZ, a.s. - elektrárna Chvaletice“, parte „ORGANIZACE DOPRAVNÍHO PROVOZU A POSUNU“, en vigor desde el 15. 7. 2008, y asimismo según el anexo „Příloha č. 37 k PŘ vlečky Chvaletice“ - Procedimientos tecnológicos para las distintas actividades, en vigor desde el 1. 1. 2008.
-El traslado de los DV vacíos desde el volcador rotativo se llevaba a cabo de manera que los DV eran progresivamente maniobrados con los vagones de maniobra de la maniobra de tracción por cable desde la vía n.º 104c a las vías n.º 101 y 102. Para asegurar los DV acumulados en las vías n.º 101, 102, colocó, según su declaración, un empleado del equipo de maniobras de AWT, a. s., un tope en cada banda de raíl a la misma altura, en el lugar señalizado con una franja amarilla antes de las señales S101 y S102. La finalización de la acumulación de DV en las vías n.º 101 y 102 fue comunicada por el operador del volcador al jefe de estación de la vía lateral. Entre la vía lateral y la est. Řečany nad Labem el servicio se realiza en forma de maniobra, es decir, mediante tracción o empuje según la situación operativa. Estas marchas las acuerdan telefónicamente el jefe de estación de la vía lateral y el jefe de estación de Řečany nad Labem.
-El día 12. 10. 2011 se produjo la salida de tres DV de la vía n.º 101 y el posterior descarrilamiento del primer DV en la vía n.º 100b, a través del desvío Vk7. En el momento de producirse el suceso ferroviario el viento de racheo del oeste soplaba en la dirección de marcha del DV. Con motivo de la producción de este suceso ferroviario, el gestor de la vía-lateral estableció, con efectos desde el 15. 10. 2011, las siguientes medidas para el desempeño del servicio de tráfico en la vía-lateral:
-„Seguimiento de la llegada del primer DV a las vías libres 101 y 102, prestación de una atención especial a las condiciones climáticas que puedan influir en el movimiento de los vagones ferroviarios y en las condiciones de adherencia“.
-A pesar de la medida antes mencionada, un suceso ferroviario análogo se repitió en circunstancias casi idénticas el día 8. 12. 2011. De ello se deduce que la medida adoptada no fue suficiente.
-El día 8. 12. 2011, en el momento de maniobrar el DV vacío 81 54 5978 299-2 mediante maniobra de tracción por cable, el DV continuó su marcha por inercia por la vía n.º 102, donde se acumulan los DV descargados del volcador rotativo. Para asegurar los DV acumulados en la vía n.º 102, colocó, según su declaración, el empleado responsable, de conformidad con la „Příloha č. 37 PŘ vlečky Chvaletice“, un tope en cada banda de raíl a la misma altura, en el lugar señalizado con franjas amarillas (antes de la señal S102). Debido a las condiciones meteorológicas adversas – fuerte viento de racheo en la dirección de marcha del DV –, el primer DV, tras finalizar la maniobra de tracción por cable, adquirió una velocidad mayor y, debido a la alta velocidad de su marcha, se produjo el derribo de los topes de los raíles. En ese momento, sin embargo, ningún empleado implicado seguía el DV, lo que contravenía la medida del jefe de explotación en vigor desde el 15. 10. 2011. La marcha del DV no se detuvo en el lugar destinado a tal fin y el DV continuó, sin conocimiento de los empleados implicados, con una marcha incontrolada desde la vía n.º 102 por las vías n.º 101b, 101a, 100a hasta la vía 100b, donde entró en el desvío Vk7 no plegado y descarriló con ambos ejes del bogie delantero y un eje del bogie trasero.
-Mientras tanto, el jefe de estación de AWT, a. s., se percató de que se indicaba ocupado el tramo de vía 101a sin que se estuviera realizando maniobra alguna, y llamó de inmediato al jefe de estación de Řečany nad Labem para comunicarle que probablemente había salido un DV. Al mismo tiempo, el jefe de maniobras, desde la mirada desde el puesto de enclavamiento, comprobó que se escapaba un DV de la vía n.º 102. Corrió desde el puesto de enclavamiento en dirección al DV que se escapaba, al que, sin embargo, no alcanzó. Siguió la marcha incontrolada del segundo DV, que circuló por las vías n.º 101b, 101a, 100a y 100b y por
+### 4.2.1 Evaluación de los hechos constatados según el punto 3 y exposición de las conclusiones sobre la causa del suceso excepcional y la actuación de los servicios de rescate
+La organización del tráfico ferroviario en el apartadero "Vlečka ČEZ, a.s. - elektrárna Chvaletice" se realiza con base en la norma interna "Reglamento de explotación del apartadero ČEZ, a.s. - central térmica Chvaletice", parte "ORGANIZACIÓN DEL TRÁFICO Y DE LAS MANIOBRAS", con vigencia desde el 15. 7. 2008, y asimismo según el anexo "Anexo n.º 37 al RE del apartadero Chvaletice" - Procedimientos tecnológicos para las distintas actividades, con vigencia desde el 1. 1. 2008.
+El traslado de los DV vacíos desde el volcador rotativo se llevaba a cabo de manera que los DV se iban desplazando progresivamente mediante los vagones de maniobra del tracción por cable desde la vía n.º 104c a las vías n.º 101 y 102. Para asegurar los DV acumulados en las vías n.º 101 y 102, según su declaración, un empleado del cuadrillo de maniobras de AWT, a. s., colocó en cada banda de raíl un tope a la misma altura, en el lugar señalizado con franja amarilla antes de las señales S101 y S102. El operador del volcador comunicó al jefe de estación del apartadero la finalización de la acumulación de DV en las vías n.º 101 y 102.
+Entre el apartadero y la est. Řečany nad Labem el servicio se realiza en forma de maniobra, es decir, mediante tracción o empuje según la situación de explotación. Estos movimientos se acuerdan telefónicamente por el jefe de estación del apartadero y el jefe de estación de Řečany nad Labem.
+El 12. 10. 2011 se produjo el desprendimiento de tres DV de la vía n.º 101 y el posterior descarrilamiento del primer DV en la vía n.º 100b, a través del desvío Vk7. En el momento de producirse el suceso excepcional había viento de embate del oeste en la dirección de marcha del DV. Con motivo de la producción de este suceso excepcional, el gestor de la vía-apartadero estableció, con efectos desde el 15. 10. 2011, las siguientes medidas para el desempeño del servicio de explotación en la vía-apartadero:
+"Seguimiento de la llegada del primer DV a las vías libres 101 y 102, prestación de una atención especial a las condiciones climáticas que puedan influir en el movimiento de los vagones ferroviarios y en las condiciones de adherencia".
+A pesar de la medida antes mencionada, un suceso excepcional análogo se repitió en circunstancias casi idénticas el 8. 12. 2011. De ello se deduce que la medida adoptada no fue suficiente.
+El 8. 12. 2011, durante la maniobra del DV vacío 81 54 5978 299-2 mediante tracción por cable, el DV continuó su marcha por inercia por la vía n.º 102, donde se acumulan los DV descargados del volcador rotativo. Para asegurar los DV acumulados en la vía n.º 102, según su declaración, el empleado responsable colocó, de conformidad con el "Anexo n.º 37 al RE del apartadero Chvaletice", en cada banda de raíl un tope a la misma altura, en el lugar señalizado con franjas amarillas (antes de la señal S102). A causa de las condiciones meteorológicas adversas –viento de embate fuerte en la dirección de marcha del DV–, el primer DV, tras finalizar la tracción por cable, adquirió una velocidad mayor y, debido a la alta velocidad de su marcha, se produjo el desprendimiento de los topes de los raíles. Sin embargo, en ese momento ninguno de los empleados implicados seguía la marcha del DV, lo que contravenía la medida del responsable de explotación vigente desde el 15. 10. 2011. La marcha del DV no se detuvo en el lugar destinado a tal efecto y el DV continuó, sin conocimiento de los empleados implicados, una marcha incontrolada desde la vía n.º 102 por las vías n.º 101b, 101a, 100a hasta la vía 100b, donde embistió el desvío Vk7 no rebajado y descarriló con ambos ejes del bogie delantero y un eje del bogie trasero.
+Mientras tanto, el jefe de estación de AWT, a. s., se percató de que se indicaba ocupado el tramo de vía 101a sin que se estuviera realizando ninguna maniobra, y llamó de inmediato al jefe de estación de Řečany nad Labem para informarle de que probablemente se había desprendido un DV. Al mismo tiempo, el jefe de maniobras, desde la cabina de señales, comprobó que un DV se estaba desprendiendo de la vía n.º 102. Corrió desde la cabina de señales en dirección al DV que se desprendía, aunque no logró alcanzarlo. A continuación se produjo la marcha incontrolada del segundo DV, que circuló por las vías n.º 101b, 101a, 100a y 100b y por
 
 ## Página 24
+
 
 tras tres minutos chocó contra el primer DV descarrilado. Los otros dos DV ya los detuvo el jefe de maniobras colocando más topes. Al mismo tiempo, el jefe de estación dio por teléfono instrucciones al puesto de la volcadora rotatoria para que finalizara la descarga de DV y, a continuación, informó por teléfono de la aparición de la MU al jefe de la vía privada.
 Por parte del explotador de la vía privada, la insuficiente inmovilización de los DV frente a la salida se tradujo repetidamente en el incumplimiento de:
@@ -660,8 +651,8 @@ La causa fundamental del suceso fue la insuficiente inmovilización de los DV fr
 ### 4.3.3 Causas derivadas del marco normativo y del uso del sistema de garantía de la seguridad
 El procedimiento tecnológico del explotador de la vía privada, que no establecía de forma suficiente el modo de inmovilizar los DV frente a la salida a otra vía en condiciones meteorológicas adversas.
 
-
 ## Página 25
+
 
 ## 4.4
 ### Hallazgos complementarios
@@ -687,8 +678,8 @@ una placa metálica, en el lugar marcado con la tercera franja de color en la di
 La retirada de los elementos de inmovilización según los puntos 1.-3. del párrafo anterior (es decir, el primer, segundo y tercer grupo) corresponde al empleado del equipo de maniobras cuya locomotora esté realizando en ese momento la maniobra en las vías n.º 101 y n.º 102.»
 El 24. 1. 2012, la Inspección Ferroviaria realizó la supervisión estatal en materia de ferrocarriles con enfoque en las medidas internas adecuadas para prevenir los sucesos. Entre otros asuntos, también se examinaron las medidas citadas anteriormente.
 
-
 ## Página 26
+
 
 ## 6 RECOMENDACIONES DE SEGURIDAD
 La Inspección Ferroviaria, como autoridad administrativa competente en la materia de acuerdo con lo dispuesto en el § 53b apartado (5) de la Ley núm. 266/1994 Sb., de ferrocarriles, en su redacción vigente, sobre la base del resultado de la investigación de las causas y circunstancias del suceso, recomienda al explotador de la vía privada y al transportista AWT, a. s.:
@@ -705,13 +696,13 @@ Director
 Delegación Territorial de Brno
 Delegación Territorial de Brno
 
-
 ## Página 27
+
 
 ## 7 ANEXOS
 Fig. n.º 4: Lugar del suceso
 
-
 ## Página 28
+
 
 Fig. n.º 5: Vista de los bogues descarrilados

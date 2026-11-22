@@ -10,13 +10,14 @@ chars: 52985
 ratio_longitud: 0.97
 tokens_in: 34550
 tokens_out: 23032
-verificacion: revisar
-notas_cifras: ["bloque 1: original bilingüe: se compara contra el idioma principal (EN)", "bloque 3: original bilingüe: se compara contra el idioma principal (CS)", "bloque 5: cifras cortas: 110/110", "bloque 6: cifras cortas: 2/30"]
-avisos: ["bloque 5: marcadores de página: 5 vs 0; cifras largas: faltan 47/47 (100%); ratio 0.01"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 3: original bilingüe: se compara contra el idioma principal (PT)", "página 4: original bilingüe: se compara contra el idioma principal (PT)", "página 6: original bilingüe: se compara contra el idioma principal (EN)", "página 7: original bilingüe: se compara contra el idioma principal (PT)", "página 16: original bilingüe: se compara contra el idioma principal (PT)"]
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -43,13 +44,13 @@ IČ:   75009561
 mail@dicr.cz
 tel.: +420 736 521 003
 
-
 ## Página 2
+
 
 Este informe final es público y todos los hechos en él recogidos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ## 1 Resumen
         Fuente: DI
@@ -79,8 +80,8 @@ Factor contribuyente:
 no fue detectado por la Inspección Ferroviaria.
 •
 
-
 ## Página 4
+
 
 Causa fundamental:
 la actuación del conductor del camión delante del paso a nivel, donde no actuó 
@@ -100,8 +101,8 @@ P3762, en particular la incorporación de la señal de tráfico V6b «Línea
 transversal continua STOP» de acuerdo con las Condiciones Técnicas 133 y a una 
 distancia mínima de 2200 mm del eje de la vía según la ČSN 73 6380.
 
-
 ## Página 5
+
 
 ## SUMMARY
 Grade: 
@@ -145,8 +146,8 @@ continuous STOP“ according to the Technical Conditions 133 (Principles for
 horizontal road traffic marking) which will be placed at a minimum distance of 2200 
 mm from the track axis according to the ČSN 73 6380.
 
-
 ## Página 6
+
 
 # Índice
 1 Resumen........................................................................................................................3
@@ -198,6 +199,7 @@ normas técnicas aplicables y otras normas internas.............................
 
 ## Página 7
 
+
 registro de datos.....................................................................................................20
 3.4.2 Componentes de la vía....................................................................................21
 3.4.3 Dispositivos de comunicación e información.........................................................21
@@ -228,8 +230,8 @@ registro de datos...............................................................
 6 RECOMENDACIONES DE SEGURIDAD.....................................................................................30
 7 ANEXOS..........................................................................................................................31
 
-
 ## Página 8
+
 
 ## Lista de siglas y símbolos utilizados
 COP
@@ -270,8 +272,8 @@ pasaje a nivel
 žst.
 estación de ferrocarril
 
-
 ## Página 9
+
 
 ## Lista de siglas de la legislación, normas y normativa interna 
 utilizadas
@@ -318,8 +320,8 @@ reglamento (CE) núm. 561/2006
 reglamento del Parlamento Europeo y del Consejo (CE) 
 núm. 561/2006, sobre la armonización de determinadas disposiciones en materia social relativas al transporte por carretera, en la redacción válida en el momento de la producción del suceso ferroviario
 
-
 ## Página 10
+
 
 ČSN 73 6380
 ČSN 73 6380 «Pasajes a nivel y pasos peatonales», en la redacción 
@@ -330,8 +332,8 @@ Reglamento de Circulación y Señalización», en la redacción válida en el mo
 TP 133
 condiciones técnicas TP 133 «Principios para la señalización horizontal en las vías de comunicación terrestre», en la redacción válida en el momento de la producción del suceso ferroviario
 
-
 ## Página 11
+
 
 ## 2 DATOS RELATIVOS AL SUCESO FERROVIARIO
 ### 2.1 Suceso ferroviario
@@ -351,8 +353,8 @@ GPS:
  .
 Fig. n.º 1: Vista de los vehículos en la posición final tras la producción del SF               Fuente: DI
 
-
 ## Página 12
+
 
 ### 2.1.2 Descripción del desarrollo del suceso ferroviario y del lugar de producción, incluida la actuación del sistema integrado de emergencias y del servicio de emergencia
 El 21. 8. 2019, un camión que transportaba traviesas planas entró en el área del pasaje a nivel P3762. Dicho pasaje a nivel estaba protegido únicamente con cruces de advertencia, es decir, se trataba de un pasaje a nivel sin protección técnica. El camión entró en el pasaje a nivel en el momento en que se aproximaba al mismo, en el sentido de procedencia de la estación D3 Ronov nad Doubravou, el tren Os 15929. Se produjo una colisión, como consecuencia de la cual el tren descarriló.
@@ -368,8 +370,8 @@ Del examen del lugar del SF se constató:
 El tren estaba formado por el automotor n.º 810 616-3, conducido desde la cabina n.º 1. El automotor estaba equipado con un registrador mecánico de velocidad. La prueba de alcoholemia al maquinista fue realizada por la PČR con resultado negativo.
 El HDV del tren Os 15929 se encontraba en el área del pasaje a nivel P3762, donde se detuvo con el frontal en el pk 16,385. El automotor, que era de dos ejes, quedó encastrado en la mitad trasera del camión y descarriló con el primer eje a la derecha en el sentido de circulación. En estado descarrilado, el material rodante recorrió aproximadamente 4 m. Como consecuencia de la colisión, se produjo la deformación del frontal de la caja del automotor en el área de la cabina n.º 1. La caja de la cabina en la parte delantera del vehículo fue
 
-
 ## Página 13
+
 
 desprendida de su bastidor, se dañó el tabique entre la cabina y el espacio de acceso, se deformó el techo del vehículo, se dañó el dispositivo de freno, el travesaño y el enganche de choque en el lado de la cabina n.º 1, así como la consola de mando de dicha cabina.
 En el examen de la cabina, los manómetros de los indicadores de presión de aire en el cilindro de freno, en el depósito de aire principal y en la tubería principal mostraban el valor 0 bar debido al daño en los dispositivos como consecuencia de la colisión. El regulador de freno de servicio directo tipo Dako-BP estaba en la posición Desfrenado, el regulador de freno continuo tipo Dako-BS2 estaba en la posición Frenado.
@@ -393,6 +395,7 @@ fue concedida por el inspector de la Inspección Ferroviaria presente tras la do
 22:49 h (es decir, 2 h 5 min después de la producción del SF).
 
 ## Página 14
+
 
 La notificación de MU por parte del gestor de la vía y del transportista fue conforme a lo dispuesto en el § 49 apartado 3 letra a) de la ley nº 266/1994 Sb. y en el § 7 apartado 3 del decreto nº 376/2006 Sb. En la notificación inicial, a pregunta directa, se indicó que no se había producido el descarrilamiento del tren, cuando en el lugar de origen de la MU el descarrilamiento era absolutamente evidente.
 Decisión de la DI sobre el inicio de la investigación:
@@ -421,8 +424,8 @@ jefe de tren del tren Os 15929;
 pasajeros del tren Os 15929.
 •
 
-
 ## Página 15
+
 
 2.2.2 Trenes y su composición, incluidos los números de registro de los distintos vehículos ferroviarios
 | Tren: | Os15929 | Composición del tren: |  | Régimen de frenado: |
@@ -449,64 +452,64 @@ En relación con la MU no se registró ninguna comunicación que influyera en su
 ### 2.2.5 Trabajos realizados en el lugar y en sus inmediaciones
 En el lugar de la MU no se realizaron, inmediatamente antes de su origen, por parte del propietario, del gestor de la vía ni de otras personas, ningún tipo de trabajos de reparación o mantenimiento.
 
-
 ## Página 16
 
-### 2.2.6 Activación del plan para casos de suceso excepcional en la vía y procedimientos conexos
-19:49 h notificación de la MU por el maquinista del tren Os 15929 al despachador director;
+### 2.2.6 Activación del plan para el caso de incidente en la vía y procedimientos conexos
+19:49 h comunicación del incidente por el maquinista del tren Os 15929 al despachador director;
 •
-19:50 h notificación de la MU por el jefe de tren del tren Os 15929 a la línea de emergencia;
+19:50 h comunicación del incidente por el jefe de tren del tren Os 15929 al número de emergencia;
 •
-19:51 h salida de los servicios del IZS al lugar de la MU;
+19:51 h salida de los servicios de emergencia al lugar del incidente;
 •
-19:58 h llegada de la primera unidad del IZS al lugar de la MU (JSDH Třemošnice);
+19:58 h llegada de la primera unidad de emergencia al lugar del incidente (JSDH Třemošnice);
 •
-20:14 h notificación de la MU por la persona designada O18 SŽDC al COP de la DI;
+20:14 h comunicación del incidente por la persona autorizada O18 SŽDC en el COP DI;
 •
-20:39 h incorporación de la información sobre el descarrilamiento del tren por la persona designada O18 SŽDC
+20:39 h adición de la información sobre el descarrilamiento del tren por la persona autorizada O18 SŽDC
 •
-al COP de la DI, lo que condujo a la decisión de salida de los inspectores de la DI al lugar de la MU;
-22:00 h inicio de la inspección del lugar de la MU por los inspectores de la DI presentes;
+en el COP DI, lo que condujo a la decisión de salida de los inspectores de DI al lugar del incidente;
+22:00 h inicio de la inspección del lugar del incidente por los inspectores de DI presentes;
 •
-22:49 h concesión del permiso para la liberación de la vía por el inspector de la DI presente;
+22:49 h concesión del permiso para la liberación de la vía por el inspector de DI presente;
 •
-22. 8. 2019 a las 1:40 h finalización de la inspección del lugar de la MU por los inspectores de la DI presentes;
+22. 8. 2019 a las 1:40 h finalización de la inspección del lugar del incidente por los inspectores de DI presentes;
 •
-22. 8. 2019 a las 5:45 h reanudación de la explotación del tráfico ferroviario.
+22. 8. 2019 a las 5:45 h reanudación de la explotación del transporte ferroviario.
 •
-### 2.2.7 Activación del plan del sistema integrado de emergencia, de los servicios de emergencia policiales y sanitarios y procedimientos conexos
-El plan del IZS se activó a las 19:50 h, es decir, 6 minutos después del origen de la MU, mediante una llamada del jefe de tren del Os 15929 al número de la línea de emergencia.
-En el lugar de la MU intervinieron los siguientes servicios del IZS:
-PČR, servicio de inspección de tráfico de Chrudim;
+### 2.2.7 Activación del plan del sistema integrado de emergencia, de los servicios de rescate policiales y sanitarios y de los procedimientos conexos
+El plan IZS fue activado a las 19:50 h, es decir, 6 minutos después de la producción del incidente, mediante una llamada del jefe de tren del Os 15929 al número de emergencia.
+En el lugar del incidente intervinieron los siguientes componentes del IZS:
+PČR, inspectorado de tráfico de Chrudim;
 •
 JSDH Třemošnice;
 •
-HZS del Pardubický kraj, unidad de protección contra incendios de Chrudim;
+HZS de la región de Pardubice, unidad de protección contra incendios de Chrudim;
 •
 HZS de SŽDC, unidad de protección contra incendios de Havlíčkův Brod;
 •
-Servicio de emergencia sanitaria del Pardubický kraj.
+Servicio de emergencia sanitaria de la región de Pardubice.
 •
 ### 2.3 Fallecimientos, lesiones y daños causados
-2.3.1 En pasajeros y terceras personas, empleados del gestor de la vía y del transportista, incluidas personas en relación contractual
-En la MU se produjo:
-lesión en la salud del maquinista del tren Os 15929;
+2.3.1 En pasajeros y terceros, empleados del explotador de la vía y del transportista,
+incluidas personas en relación contractual
+En el incidente se produjo:
+daño a la salud del maquinista del tren Os 15929;
 •
-lesión en la salud del jefe de tren del tren Os 15929;
+daño a la salud del jefe de tren del tren Os 15929;
 •
-lesión en la salud de 1 pasajera del tren Os 15929.
+daño a la salud de 1 pasajero en el tren Os 15929.
 •
-### 2.3.2 En las mercancías transportadas, el equipaje y otros bienes
-En la MU se produjeron daños en:
+### 2.3.2 En las cosas transportadas, equipajes y otros bienes
+En el incidente se produjo daño en:
 camión
  150 000 Kč; *)
 •
-En la MU, los daños causados en las mercancías transportadas, el equipaje y otros bienes
-### se cifraron en un total de 150 000 Kč. *)
+En el incidente, el daño producido en las cosas transportadas, equipajes y otros bienes
+### fue cifrado en un total de 150 000 Kč. *)
 *) Según estimación de la PČR.
 
-
 ## Página 17
+
 
 ### 2.3.3 En los vehículos ferroviarios, los componentes de la vía y el medio ambiente
 El gestor de la vía y el transportista cifraron los daños en:
@@ -547,8 +550,8 @@ maquinista del tren Os 15929
 ◦cuando vio que no podía evitar la colisión, abandonó su puesto;
 ◦se produjo la colisión del automotor con el camión y el posterior descarrilamiento del automotor hacia la derecha en el sentido de circulación;
 
-
 ## Página 18
+
 
 ◦inmediatamente después del origen de la MU la notificó al despachador director y el jefe de tren activó el IZS, ya que en la MU se produjeron lesiones;
 ◦a continuación esperaron la llegada del IZS;
@@ -583,8 +586,8 @@ se desprende, además del Acta con el empleado, la siguiente información:
 ◦lamenta mucho su responsabilidad.
 De los registros oficiales de declaración presentada a la PČR levantados con otros testigos, que también forman parte de la documentación del expediente de la Inspección Ferroviaria, no se desprenden hechos que aclaren mejor el suceso del accidente ni que describan posibles riesgos relacionados con el origen de la MU.
 
-
 ## Página 19
+
 
 ### 3.2 Sistema de garantía de la seguridad
 ### 3.2.1 Organización marco y forma de emisión y ejecución de instrucciones
@@ -603,6 +606,7 @@ El transportista del tren Os 15929 era ČD, con domicilio en Nábřeží L. Svob
 El tráfico ferroviario se explotaba con base en el contrato celebrado entre el gestor de la vía SŽDC y el transportista ČD el 21. 8. 2013, con efectos desde el 1. 9. 2013.
 
 ## Página 20
+
 
 En la interfaz entre los sujetos participantes no se detectó ninguna deficiencia.
 ### 3.3 Regulación jurídica y otra normativa
@@ -626,8 +630,8 @@ En la investigación de la AE no se constató infracción de las normativas inte
 ### 3.4.1 Sistema de control, señalización y seguridad, incluidos los dispositivos de registro automático de datos
 El paso a nivel P3762 no estaba equipado con dispositivo de seguridad de paso a nivel.
 
-
 ## Página 21
+
 
 ### 3.4.2 Componentes de la infraestructura
 El paso a nivel P3762 se construyó en 2007, por lo que a sus parámetros les son plenamente aplicables las disposiciones de la norma técnica ČSN 73 6380.
@@ -646,8 +650,8 @@ las disposiciones infringidas mencionadas condujeron al incumplimiento del § 4 
 ### 3.4.3 Dispositivos de comunicación y de información
 El uso de los dispositivos de comunicación, transmisión y información no guardó relación con la aparición de la AE.
 
-
 ## Página 22
+
 
 ### 3.4.4 Vehículos ferroviarios, incluidos los dispositivos de registro automático de datos
 El HDV 810.616-3 contaba con un Certificado de aptitud del vehículo ferroviario válido, n.º de ref.: PZ 0109/02-V.22, expedido por el DÚ el 28. 3. 2002. La última revisión técnica periódica antes de la aparición de la AE se realizó el 27. 3. 2019 con una validez de 6 meses y con el resultado: «El vehículo cumple las condiciones de explotación en las vías.»
@@ -675,8 +679,8 @@ No se detectaron deficiencias.
 ### 3.5.1 Medidas adoptadas por los empleados del gestor de la infraestructura y del operador ferroviario en materia de control y seguridad del tráfico
 En relación con la AE, antes de su aparición no se adoptó ninguna medida por parte de los empleados del gestor de la infraestructura y del operador ferroviario relacionada con la aparición de la AE.
 
-
 ## Página 23
+
 
 3.5.2 Intercambio de comunicaciones verbales en relación con el suceso excepcional, incluidos los datos del dispositivo de registro
 En relación con la AE no se produjo ninguna comunicación verbal que influyera en su aparición.
@@ -695,8 +699,8 @@ En la composición del turno no se concedió al empleado, como máximo después 
 El empleado del operador ferroviario implicado se encontraba, en el momento de la aparición de la AE, médicamente apto para el desempeño de la función que ocupaba y se sometía a exámenes médicos periódicos de conformidad con la disposición del decreto núm. 101/1995 Sb. No se detectó ningún estado de salud ni situación personal que pudiera haber influido en la aparición de la AE, incluido el estrés físico y psicológico.
 No se detectaron deficiencias.
 
-
 ## Página 24
+
 
 3.6.3 Disposición y equipamiento del puesto de mando o del vehículo ferroviario que influye en su control y uso
 La disposición y el equipamiento del puesto de trabajo de los empleados del gestor de la infraestructura y del operador ferroviario no guardaron relación con la aparición de la AE.
@@ -717,7 +721,103 @@ El miércoles 21 de agosto de 2019, por la tarde, circulaba un camión DAF CF 43
 
 The request was rejected because it was considered high risk
 
+## Página 25
+
+¡en la marcha!"
+Al mismo tiempo que el camión se aproximaba al paso a nivel, circulaba por la vía desde la estación de clasificación D3 Ronov nad Doubravá el tren Os 15929 compuesto por la unidad de tracción serie 810. El tren circulaba puntual según el horario. A bordo del tren se encontraban el maquinista, el jefe de tren y una pasajera. El maquinista del tren vio el camión que se aproximaba y su comportamiento, por el cual parecía que frenaba antes del paso a nivel. Sin embargo, antes de detenerse por completo, el camión aceleró en dirección al paso a nivel. Debido a la corta distancia, al maquinista no le fue posible detener el tren y a las 19:44 h se produjo la colisión del tren Os 15929 con el camión.
+Como consecuencia de la colisión se produjo el descarrilamiento del tren, daños materiales en los vehículos, daños en los elementos constructivos del paso a nivel y lesiones en la salud de las tres personas a bordo del tren Os 15929.
+### 4.2 Análisis
+### 4.2.1 Evaluación de los hechos constatados en el punto 3 y conclusiones sobre la causa del suceso excepcional y la actuación de los servicios de rescate
+El paso a nivel P3762 se estableció en el año 2007, sus parámetros se evalúan, en relación con el § 4 apartado 7 del decreto nº 177/1995 Sb., de acuerdo con la norma ČSN 73 6380. En la medición de las condiciones de visibilidad se constataron deficiencias, al acortar la vegetación arbustiva la longitud de visibilidad para el vehículo rodado más lento (Lp). Esta deficiencia afectaba también al cuadrante en el que el conductor del camión debía avistar el tren que se aproximaba. Concretamente, en dicho cuadrante se midió una longitud de visibilidad Lp = 205 m frente a la longitud establecida Lp = 286 m. Este hecho constatado, sin embargo, no guarda relación directa con la producción del suceso excepcional. Las longitudes Lp establecidas normativamente se calculan, en efecto, para el vehículo rodado más largo admitido a la circulación en la vía pública correspondiente, a fin de que dicho vehículo pueda cruzar el paso a nivel con seguridad y abandonar su banda de peligro antes de la llegada del vehículo ferroviario. En el caso del paso a nivel P3762, la longitud del vehículo rodado más largo que puede utilizar el paso a nivel no estaba limitada, es decir, en el cálculo de la longitud establecida Lp se partió de una longitud de vehículo de 22 m. Asimismo, se tiene en cuenta la velocidad media más baja de dicho vehículo al cruzar el paso a nivel, que fue fijada por la norma ČSN 73 6380, en la redacción vigente en el momento de la producción del suceso excepcional, en 5 km·h-1. Además, en el cálculo de dicha longitud interviene la velocidad de la vía antes del paso a nivel. En el caso concreto se partió de una velocidad de 50 km·h-1.
+El camión DAF CF 430 FN implicado tenía una longitud de 10 m, en el momento de la colisión circulaba a una velocidad de 18 km·h-1 (en ese instante, en el registro de su tacógrafo se registra un descenso brusco de la velocidad de 18 km·h-1 a 8 km·h-1, y la velocidad sigue descendiendo). El tren Os 15929 se aproximaba al paso a nivel a una velocidad comprendida entre 39 y 40 km·h-1, con la que circuló aproximadamente 205 metros antes de la colisión. Desde el punto de visibilidad Lp, el tren que circulaba a 40 km·h-1 era visible unos 18 segundos antes de su llegada al paso a nivel. En el caso del cálculo de Lp para un vehículo rodado de 10 m que cruza el paso a nivel P3762 a una velocidad media de 5 km·h-1, con visibilidad sobre la vía por la que el vehículo ferroviario circula a 40 km·h-1, la longitud Lp resulta de 132 m, lo que en el caso concreto estaba garantizado. En otras palabras, el camión implicado habría cruzado el paso a nivel P3762 sin consecuencias, bajo el supuesto de una marcha constante a 5 km·h-1, incluso en el momento en que el tren Os 15929, que circulaba a 40 km·h-1, se encontraba a una distancia de 132 m de dicho paso a nivel.
+
+## Página 26
+
+La Inspección Ferroviaria, en el marco de la medición de control de las condiciones de visibilidad, midió también la longitud de visibilidad para vehículo de carretera (Lr), que en caso de utilización de la señal de tráfico P6 «¡Alto, ceda el paso!» no se evalúa. La medición determinó que la señal P6 «¡Alto, ceda el paso!» debe instalarse en el paso a nivel dado debido a la imposibilidad de cumplir los requisitos de Lr en el cuadrante que atravesaba el camión en marcha por el lado izquierdo. En el cuadrante en cuestión, que se encontraba a la derecha en el sentido de marcha del camión, la Inspección Ferroviaria midió una longitud de Lr > 100 m, lo que supera la Lr = 59 m establecida por la ČSN 73 6380. Estos hallazgos llevan a la Inspección Ferroviaria a concluir que el conductor tenía, en el caso de este cuadrante concreto del paso a nivel ferroviario P3762, garantizada de hecho una visibilidad suficiente del tren que se aproximaba, incluso para el caso de cruzar el paso sin detenerse. Sin embargo, esto no le eximía de la obligación de detenerse antes del paso a nivel ferroviario en el que la cruz de advertencia estaba complementada con la señal de tráfico P6 «¡Alto, ceda el paso!», ya que el conductor desconocía la situación en el cuadrante del lado izquierdo en su sentido de marcha. Al no respetar esta señal de tráfico, infringió el § 28 apartado 5 de la Ley n.º 361/2000 Sb.
+
+En el registro del tacógrafo del camión puede rastrearse que aproximadamente 50 m antes del paso a nivel ferroviario circulaba a una velocidad media de 15 km·h-1. Ante la cruz de advertencia, el camión redujo progresivamente la velocidad hasta 5 km·h-1 y a continuación volvió a acelerar. En el momento de iniciar la aceleración, es decir, cuatro segundos antes de la colisión, el tren se encontraba a una distancia de unos 44 metros del paso y, según las conclusiones de la medición de las condiciones de visibilidad, el conductor tenía por tanto la posibilidad de avistar el tren.
+
+El maquinista, en respuesta a la entrada del vehículo en el paso a nivel ferroviario, utilizó el freno de acción directa (a diferencia de su declaración, en la que habla de la aplicación de frenado de acción rápida), que en el caso de la circulación de la unidad de tracción autónoma permitía un establecimiento más rápido del efecto de frenado. Sin embargo, no logró reducir la velocidad de hecho antes del impacto, ya que aún 4 segundos antes de la colisión podía esperar legítimamente que el camión se detuviera ante la cruz de advertencia. Cuando el vehículo comenzó a arrancar en sentido contrario, el maquinista tuvo primero que evaluar esta circunstancia y a continuación aplicar el frenado. Tras el tiempo de reacción (reacción psíquica y muscular), cuyo límite superior es de 0,79 segundos en el caso de que el maquinista observe el objeto crítico, siguió el establecimiento
+
+## Página 27
+
+del efecto del freno directo, que en el vehículo en cuestión es de como máximo 1 segundo. El propio frenado pudo durar como máximo unos 2 segundos.1 Esta es la razón por la que en la banda de velocímetro del velocímetro mecánico no fue posible identificar de forma inequívoca la deceleración (véase el punto 3.4.4 de la presente ZZ).
+
+En el marco de la investigación, el maquinista comunicó además que en el paso a nivel P3762 nunca había tenido ningún problema con los participantes en el tráfico por carretera. El conductor del camión comunicó a la Inspección Ferroviaria que conoce bien el paso a nivel en cuestión y que viaja a Třemošnice desde hace 12 años. En el momento de producirse el MU, lo cruzaba por quinta vez ese mismo día.
+
+Fig. n.º 3: Las condiciones de visibilidad desde el camión se vieron empeoradas por matorrales sin podar
+Fig. n.º 3: Condiciones de visibilidad desde el camión (foto ilustrativa de otro vehículo)
+y por el espejo retrovisor (foto ilustrativa de otro vehículo)
+    Fuente: DI
+    Fuente: DI
+
+Según los hallazgos de la Policía, el conductor cumplió las condiciones de tiempo de trabajo establecidas por el Reglamento CE n.º 561/2006. El propio conductor comentó la aparición del suceso excepcional diciendo que no sabe exactamente qué ocurrió y que probablemente no vio el tren a través del pilar derecho y del espejo. De los hallazgos de la Inspección Ferroviaria se desprende que la disposición del puesto de trabajo del conductor del camión pudo influir en las condiciones de visibilidad hacia el paso a nivel (véase la Fig. n.º 3). Asimismo, la visibilidad hacia el paso a nivel en el momento de producirse el MU pudo verse desfavorablemente afectada por el sol, que estaba veinte minutos antes de la puesta y brillaba hacia el conductor desde la derecha y delante, con un ángulo de aproximadamente 69°, es decir, en la dirección de la visibilidad hacia la vía férrea, y con un ángulo horizontal de solo 2,38°. Sin embargo, el conductor del camión no mencionó el deslumbramiento solar en sus declaraciones.
+
+Aunque la disposición del puesto de trabajo del conductor del camión o la luz solar pudieron contribuir desfavorablemente a la aparición del MU, la causa fundamental de su aparición fue la actuación
+1
+BRADÁČ, A., KREJČÍŘ, P., LUKAŠÍK, L., OŠLEJŠEK, J., PLCH, J.: Soudní inženýrství. Akademické nakladatelství CERM Brno,
+
+## Página 28
+
+del conductor del camión antes del paso a nivel, que en el sentido del § 28 apartado 1 de la ley nº 361/2000 Sb. no actuó con especial cuidado y no se comprobó si podía cruzar el paso a nivel de forma segura.
+
+Fig. nº 4: Posición del sol en el momento de la ocurrencia del MU
+→ = dirección de circulación del camión
+→ = dirección de la luz solar
+Fuente: SunEarthTools.com; Modificación: DI
+
+Teniendo en cuenta el desarrollo del suceso, en particular la actuación del conductor del camión, que no se detuvo ante el paso a nivel ante la indicación de la señal de tráfico P6 «¡Alto, ceda el paso!», la Inspección Ferroviaria recomienda a la autoridad administrativa de carreteras competente la complementación de la señalización horizontal en el ámbito del paso a nivel P3762, en particular la complementación de la señal de tráfico V6b «Línea transversal continua ¡ALTO!» de conformidad con la TP 133 y a una distancia mínima de 2200 mm del eje de la vía según la ČSN 73 6380.
+
+### 4.3 Conclusiones
+
+4.3.1 Causas directas e inmediatas del suceso excepcional, incluidos los factores que contribuyeron al mismo y que estuvieron relacionados con la actuación de las personas implicadas o con el estado de los vehículos ferroviarios o de las instalaciones técnicas
+
+La causa inmediata del suceso excepcional fue:
+
+• la entrada no autorizada del camión en el paso a nivel P3762 en el momento en que se aproximaba el tren Os 15929 y era posible verlo.
+
+## Página 29
+
+Factor contribuyente del suceso ferroviario:
+no fue detectado por la Inspección Ferroviaria.
+•
+### 4.3.2 Causas fundamentales relacionadas con la cualificación, los procedimientos y el mantenimiento
+La causa fundamental del suceso ferroviario fue:
+la actuación del conductor del camión antes del paso a nivel, donde no actuó con
+•
+especial cautela, en particular no comprobó si podía cruzar el paso a nivel
+de forma segura.
+### 4.3.3 Causas originadas en el marco normativo y en el uso del sistema de garantía de
+seguridad
+La causa del suceso ferroviario originada en el marco normativo y en el uso del sistema
+de garantía de seguridad:
+no fue detectada por la Inspección Ferroviaria.
+•
+### 4.4 Hallazgos complementarios
+4.4.1 Deficiencias y omisiones detectadas durante la investigación que no se refieren a las
+conclusiones sobre las causas
+En el gestor de la vía SŽDC:
+en virtud del § 4 apartado 7 del decreto n.º 177/1995, la longitud de visibilidad para
+•
+el vehículo rodado más lento (Lp) no cumplía en ambos cuadrantes en el sentido hacia
+el tráfico D3 Ronov nad Doubravou la longitud exigida por la ČSN 73 6380, es decir,
+era inferior a 286 m; las señales con la indicación «Pískejte» no estaban situadas a la
+distancia exigida por la ČSN 73 6380, es decir, 286 m; la señal con la indicación
+«Pískejte» en el sentido de circulación DV desde el tráfico D3 Ronov nad Doubravou
+no era de construcción reflectante ni contenía reflectores en los campos rojos, con lo
+que no se cumplía lo dispuesto en el punto 7.1 del anexo n.º 1 del decreto
+n.º 173/1995 Sb.
+
+En el operador ČD:
+en la composición del turno del maquinista no se concedió al empleado, después de
+•
+seis horas de trabajo ininterrumpido como máximo, un descanso con una duración
+mínima de 30 minutos. Solo se concedió una parte del mismo, con una duración de
+15 minutos. Con ello no se cumplió lo dispuesto en el § 88 apartado 1 de la ley
+n.º 262/2006 Sb.
+
 ## Página 30
+
 
 ## 5 MEDIDAS ADOPTADAS
 ### 5.1 Lista de medidas que ya se han tomado o adoptado como consecuencia del suceso ferroviario
@@ -743,8 +843,8 @@ de la Inspección Territorial de Bohemia
 Ing. Petr Mencl v. r.
 director de la Inspección Territorial de Bohemia
 
-
 ## Página 31
+
 
 ## 7 ANEXOS
 Fig. n.º 5: Enclavamiento mutuo de los vehículos.
@@ -752,16 +852,16 @@ Fig. n.º 5: Enclavamiento mutuo de los vehículos.
 Fig. n.º 6: Camión en su posición final tras el suceso ferroviario. 
     Fuente: DI
 
-
 ## Página 32
+
 
 Fig. n.º 7: Puesto del maquinista deformado     
       Fuente: DI
 Fig. n.º 8: Eje trasero de la locomotora   
     Fuente: DI
 
-
 ## Página 33
+
 
 Fig. n.º 9: Falta del elemento reflectante de la estaca de advertencia 
       Fuente: DI

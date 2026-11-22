@@ -12,8 +12,8 @@ tokens_in: 7283
 tokens_out: 3573
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-verificacion: revisar
-avisos: ["página 2: cifras largas: faltan 2/9 (22%)"]
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (FR)"]
 ---
 
 ## Página 1
@@ -29,44 +29,85 @@ Diciembre 2013
 ## Página 2
 
 ## Resumen
-
-La verificación de la vía y de los desvíos permitió distinguir claramente las consecuencias del descarrilamiento, pero no permitió señalar defectos que pudieran haber provocado el descarrilamiento o haber contribuido a él.
-
-El viernes 28 de enero, el tren de viajeros Ostende - Eupen (E507) sale de la estación de Lieja-Guillemins con destino a Eupen. El tren E507, compuesto por 12 coches y empujado por una locomotora de tipo 13, circula por la vía A de la línea 37 y se prevé su llegada a Verviers-Central a las 10h25.
-
-Según las normas UIC, para una curva y una contracurva de igual radio y un ancho de vía de 1440 a 1450 mm, no es necesario ningún alineamiento intermedio entre la curva y la contracurva cuando los radios son superiores a 200 metros.
-
-Las condiciones de implantación de la vía en el presente caso son cercanas a estos límites, pero son conformes a las normas UIC.
-
-El gestor identificó correctamente el riesgo de un descarrilamiento debido a una velocidad excesiva en esta situación (los desvíos forman una curva en S): impone una limitación de velocidad a 40 km/h para permitir el paso por los desvíos.
-
-Durante el recorrido y debido a obras en los túneles entre Olne y Pepinster, el tren E507 se desvió a la vía contraria (vía B). Superada esta zona de obras, el maquinista encuentra un señal de advertencia que presenta el verde amarillo horizontal: esta señal indica que se impone una restricción de velocidad en la señal siguiente. Inicia un frenado.
-
+La verificación de la vía y los desvíos ha permitido distinguir claramente las consecuencias del descarrilamiento pero no ha permitido señalar
+El viernes 28 de enero, el tren de viajeros Oostende - Eupen (E507) sale de la estación de Liège-
+defectos que podrían haber conducido al
+Guillemins con dirección a Eupen. El tren E507, compuesto por 12 coches y empujado por una loco-
+descarrilamiento, o incluso contribuir a él.
+motora de tipo 13, toma la vía A de la línea 37 y se espera en Verviers-Central a las 10h25.
+Según las normas UIC, para una
+curva y una contracurva de
+En el trayecto y a raíz de obras en los túneles entre Olne y Pepinster, el tren E507 es
+mismo radio y un ancho de
+desviado a contravía (vía B). Tras esta zona de obras, el conductor encuentra una señal
+vía de 1440 a 1450 mm, ningún
+avisadora presentando el verde amarillo horizontal: esta señal indica que se impone una restricción de velocidad en
+alineamiento intermedio entre la
+la señal siguiente. Inicia una frenada.
+curva y la contracurva es ne-
 La señal siguiente está abierta (verde) y presenta:
-• una pantalla complementaria inferior con la indicación 4: la velocidad de 40 km/h debe respetarse a partir del primer desvío encontrado,
-• una pantalla complementaria superior con una flecha, que indica al maquinista un cambio de régimen: el tren pasa de la vía contraria a la vía normal.
-
-A la altura de la señal, el maquinista del tren E507 constata que la velocidad de su tren es de 33 km/h. Esta continuará disminuyendo durante el paso por los desvíos.
-
-Tres segundos después de haber superado la señal, acelera para mantener cierta velocidad.
-
-Según nuestro análisis, durante la aceleración del tren, el movimiento empujado generó importantes fuerzas laterales, suficientes para provocar el levantamiento de las ruedas del coche. El levantamiento de la rueda provoca una pérdida de guiado por los raíles y el vehículo, al no estar guiado, desvía su trayectoria, provocando un primer descarrilamiento y causando un principio de enganche de topes entre los coches situados en la posición 10 y en la posición 11. La insuficiencia de peralte, el movimiento de balanceo y la diferencia de voladizo (coche de tipo diferente) se suman y han contribuido probablemente a la desaparición parcial o total de la superficie de contacto entre las placas del tope.
-
-Las inspecciones del material rodante y las verificaciones de documentos llevaron a las siguientes constataciones: los topes, las ruedas y las pestañas son conformes a las normas UIC.
-
-El desvío cerrado del desvío, ayudado por las placas de unión, obliga a las ruedas descarriladas a subir a la vía.
-
-El sistema de registro a bordo de un tren permite registrar información como la velocidad del tren, pero también los mandos de tracción. El sistema no registra las velocidades de forma continua, sino por escalones, lo que proporciona un cierto margen de error.
-
-La aceleración y la velocidad no se miden directamente, sino que se calculan a partir de datos temporales (reloj) y de una media sobre el recuento del número de vueltas de las ruedas (distancia recorrida). Los datos solo se registran cuando hay una variación de la velocidad del 5 %.
-
-Tras el análisis de los registros, la velocidad del tren en los desvíos se estima en 42 km/h en lugar de 40 km/h.
-
-Los enganches que unen los coches en las posiciones 9, 10 y 11 no están ajustados correctamente: el enganche del coche en la posición 10 está demasiado ajustado por delante y insuficientemente ajustado por detrás.
-
-Todos los demás enganches se ejecutan conforme a las instrucciones de la SNCB.
-
-Un enganche aflojado aumenta el riesgo de rotura del enganche y es probablemente una causa agravante del descarrilamiento en la medida en que este enganche no compensaría completamente las fuerzas ejercidas durante la aceleración.
+cesaria cuando los radios son supé-
+• un panel complementario inferior con la indicación 4: la velocidad de 40km/h debe ser
+riores a 200 metros.
+respetada a partir del primer desvío encontrado,
+Las condiciones de implantación de la
+• un panel complementario superior con una flecha, indicando al conductor un
+vía en el caso presente son próximas
+cambio de régimen: el tren pasa de la contravía a la vía normal.
+a estos límites pero son conformes
+a las normas UIC.
+A la altura de la señal, el conductor del tren E507 constata que la velocidad de su tren es de 33 km/h.
+El gestor ha identificado bien el
+Esta seguirá disminuyendo durante el paso por los desvíos.
+riesgo de un descarrilamiento debido a una
+Tres segundos después de haber pasado la señal, acelera para conservar cierta velocidad.
+velocidad excesiva en esta situación
+(desde que los desvíos forman una curva
+Según nuestro análisis, durante la aceleración del tren, el movimiento empujado ha creado importantes
+en S): impone una limitación de la
+fuerzas laterales, suficientes para provocar un levantamiento de las ruedas del coche. El levanta-
+velocidad a 40 km/h para permitir el
+miento de la rueda provoca una pérdida de guiado de los raíles y el vehículo no guiado se desvía de su
+paso por los desvíos.
+trayectoria, provocando un primer descarrilamiento y un comienzo de encaje de topes entre los coches en posición 10 y en posición 11. La insuficiencia de peralte, el movimiento de
+balanceo y la diferencia de vuelo (coche de tipo diferente) se suman y han pro-
+Las inspecciones del material rodante y las verificaciones de documentos han llevado a las constata-
+bablemente contribuido a la desaparición parcial o incluso total de la superficie de contacto entre los pla-
+ciones siguientes: los discos de topes, las ruedas y los frisos son conformes a las normas UIC.
+teos de tope.
+La aguja cerrada del desvío, ayudada por los raíles de guarda, obliga a las ruedas descarriladas a remontar sobre la vía.
+El sistema de registro a bordo de un tren permite registrar información como
+Sobreviene un segundo descarrilamiento del coche 11, seguido de otro encaje de topes que im-
+la velocidad del tren, pero también los mandos de tracción. El sistema no registra las
+pede probablemente el escuadramiento del coche. El coche sale del gálibo de la vía A y
+velocidades de forma continua sino por escalones, dando un cierto margen de error.
+embiste de través el coche de cabeza del tren E5280 que está detenido en la vía B.
+La aceleración y la velocidad no se miden directamente sino que se calculan a partir de datos
+El choque es violento. La colisión detiene bruscamente los 2 últimos coches así como la locomo-
+temporales (reloj) y de una media sobre el recuento del número de vueltas de rueda (distancia
+tora del tren E507. El enganche entre los coches 10 y 11 se desengancha, el cable de alimentación es
+recorrida). Los datos solo se registran cuando hay una variación de la velocidad del 5%.
+arrancado y la conducción general es desconectada: se activa una frenada de emergencia.
+Tras el análisis de los registros, la velocidad del tren en los desvíos se estima en 42 km/h
+Los 10 primeros coches se desprenden de la parte trasera del tren dejando un vacío de 50 metros entre
+en lugar de 40km/h.
+las 2 partes del tren. La colisión daña seriamente la cabina del conductor del auto-
+Los enganches que unen los coches en
+móvil detenido: el conductor resulta levemente herido. Nueve pasajeros son trasladados para
+posición 9, 10 y 11 no están apretados
+examen al hospital de Verviers y abandonan el hospital el mismo día. El accidente ha causado da-
+correctamente: el enganche del coche
+ños al material rodante y a la infraestructura así como retrasos en la red ferroviaria.
+en posición 10 está demasiado apretado en la parte delantera y
+insuficientemente apretado en la parte trasera.
+Todos los demás enganches están ejecutados
+conforme a las instrucciones SNCB.
+Un enganche flojo aumenta el riesgo de
+rotura de enganche y es probablemente
+una causa agravante del descarrilamiento
+en la medida en que este enganche no
+compensaría totalmente las fuerzas
+ejercidas durante la aceleración.
 
 ## Página 3
 

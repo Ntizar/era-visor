@@ -19,7 +19,7 @@ Fidelidad = revisión IA del castellano contra el original (0-100).
 
 | Informe | Págs | Caracteres | Verificación |
 |---|---|---|---|
-| [EE 12.03.2017 Sompa 12.03.17 EE OJK.md](2017/EE%2012.03.2017%20Sompa%2012.03.17%20EE%20OJK.md) | — | 67605 | revisar |
+| [EE 12.03.2017 Sompa 12.03.17 EE OJK.md](2017/EE%2012.03.2017%20Sompa%2012.03.17%20EE%20OJK.md) | — | 67605 | ok |
 
 ## 2014 (1)
 
@@ -37,7 +37,7 @@ Fidelidad = revisión IA del castellano contra el original (0-100).
 
 | Informe | Págs | Caracteres | Verificación |
 |---|---|---|---|
-| [Aegviidu.23.12.2010.md](2010/Aegviidu.23.12.2010.md) | — | 231987 | ok |
+| [Aegviidu.23.12.2010.md](2010/Aegviidu.23.12.2010.md) | — | 231987 | revisar |
 | [Manniku.16.04.2010.md](2010/Manniku.16.04.2010.md) | — | 66149 | ok |
 | [Pikkjarve.21.01.10.md](2010/Pikkjarve.21.01.10.md) | — | 66119 | ok |
 
@@ -45,13 +45,13 @@ Fidelidad = revisión IA del castellano contra el original (0-100).
 
 | Informe | Págs | Caracteres | Verificación |
 |---|---|---|---|
-| [Suigu.03.06.08[1].md](2008/Suigu.03.06.08[1].md) | — | 52119 | revisar |
+| [Suigu.03.06.08[1].md](2008/Suigu.03.06.08[1].md) | — | 52119 | ok |
 
 ## 2007 (4)
 
 | Informe | Págs | Caracteres | Verificación |
 |---|---|---|---|
-| [Hertu.14.04.07[1].md](2007/Hertu.14.04.07[1].md) | — | 51341 | revisar |
-| [Manniku.24.06.07.md](2007/Manniku.24.06.07.md) | — | 51159 | revisar |
-| [Paldiski.08.09.07.md](2007/Paldiski.08.09.07.md) | — | 57912 | revisar |
-| [Toila.10.07.07.md](2007/Toila.10.07.07.md) | — | 55590 | revisar |
+| [Hertu.14.04.07[1].md](2007/Hertu.14.04.07[1].md) | — | 51341 | ok |
+| [Manniku.24.06.07.md](2007/Manniku.24.06.07.md) | — | 51159 | ok |
+| [Paldiski.08.09.07.md](2007/Paldiski.08.09.07.md) | — | 57912 | ok |
+| [Toila.10.07.07.md](2007/Toila.10.07.07.md) | — | 55590 | ok |

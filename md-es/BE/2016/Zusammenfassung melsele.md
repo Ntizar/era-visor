@@ -12,8 +12,7 @@ tokens_in: 10256
 tokens_out: 5399
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-verificacion: revisar
-avisos: ["página 2: cifras largas: faltan 2/5 (40%)", "página 3: cifras largas: faltan 3/4 (75%); ratio 0.67"]
+verificacion: ok
 ---
 
 ## Página 1
@@ -32,78 +31,120 @@ Abril 2020
 ## RESUMEN
 ## TABLA DE VERSIONES DEL INFORME
 | Número de versión |  | Motivo de la revisión |  | Fecha |  |  |
-| 10 . |  | Primera versión |  | 17/04/2020 . . |  | El 15/10/2016, un tren de pasajeros choca contra el brazo de una excavadora de doble vía en Melsele, en . . |
-|  |  |  |  |  |  | una zona en la que se realizan trabajos en vía . . |
-En el marco de un «acuerdo marco», el gestor de la infraestructura planea, en particular, la renovación de las vías de la vía B entre Y-Melsele y Y-Fort Zwijndrecht. Estas obras las ejecuta una empresa contratista y están previstas para realizarse del 15 al 17 de octubre de 2016. 
-El gestor de la infraestructura exige a la empresa contratista la aplicación de una serie de normas generales de seguridad para llevar a cabo estas obras. Estas medidas se mencionan en documentos contractuales, por ejemplo, en el cuaderno 61 «Normas generales para la ejecución de contratos públicos» y en el cuaderno 63 «Medidas de seguridad y protección de la salud durante la ejecución de contratos». 
-El gestor de la infraestructura añade también medidas de seguridad específicas, tal como se prevén en las Normas Generales de Explotación (RGE/ARE1), entre otras, en las «Instrucciones Locales Provisionales» (ILT/TPO2), las «Instrucciones de Seguridad» (CS/VC3) y los «Avisos de reducción temporal de velocidad» (ART/BTS4). 
-El boletín informativo BNX del 10/10 prevé que, en la zona entre Melsele-Rooster y Zwijndrecht-Wijksporen: 
-• La vía A de la línea L.59 está bloqueada el 15/10 de las 00.00 a las 07.00 horas y que la vía puede circular en un solo sentido a partir de las 07.00 horas;
-• La vía B de la línea L.59 está bloqueada de forma continua, desde el 15/10 a las 00.00 horas hasta el 17/10 a las 04.10 horas.
-• «Posible restricción del perfil de liberación de la vía A entre ... y ... en ambos sentidos de circulación, protección mediante señales de parada grandes accionadas. Utilizar S_460».
-A través del «Boletín de obras» (BNX), esta información se comunica automáticamente a los servicios correspondientes del gestor de la infraestructura y de las empresas ferroviarias. Las empresas contratistas reciben una copia de este BNX a petición.
-Para la realización de estas obras, una empresa contratista emplea dos equipos. Cada equipo es asistido por una excavadora de doble vía.
-El 15/10, entre las 00.00 y las 07.00 horas, un equipo trabaja en el lado de Melsele, aguas abajo del paso a nivel 9.
-El 15/10, entre las 00.00 y las 07.00 horas, otro equipo trabaja en la vía B de la línea L.59, a la altura de la señal FX-C.12. El equipo es asistido por una excavadora de doble vía posicionada en la vía adyacente A. 
-El 15/10, poco antes de las 07.00 horas, el capataz da a ambos equipos la orden verbal prevista en el plan «Liberar la vía A», con el fin de preparar la medida de seguridad me
-Cualquier uso de este informe con un objetivo distinto a la prevención de accidentes -por ejemplo, 
-todología 2. La metodología 2 se refiere al «procedimiento S_460», 
-para determinar la responsabilidad - en particular individual o colectiva - constituiría una distorsión completa 
-que prevé una ayuda contra la intrusión mediante señales de parada grandes accionadas. Para ello se asignan vigilantes. 
-de los objetivos de este informe, de los métodos utilizados para su elaboración, 
-de la selección de los hechos recopilados, del tipo de preguntas planteadas y de la organización de las 
-ideas, a las que el concepto de responsabilidad es ajeno. Las conclusiones que de ello se derivaran 
-serían, por tanto, abusivas en sentido literal.
+| 10 . |  | Primera versión |  | 17042020 . . |  | El 15102016, un tren de pasajeros choca en Melsele contra el brazo de una excavadora de dos vías en . . , |
+|  |  |  |  |  |  | una zona en la que se realizan trabajos en la vía , . |
+En el marco de un «Acuerdo marco», el gestor de infraestructuras planifica en particular la
+renovación de los raíles de la vía B entre Y-Melsele y Y-Fort Zwijndrecht. Estos trabajos
+serán realizados por un contratista y deberán ejecutarse del 15 al 17 de octubre de 2016.
+El gestor de infraestructuras exige al contratista la aplicación de una serie de reglas
+generales de seguridad para la realización de estos trabajos. Estas medidas se mencionan en
+documentos contractuales, por ejemplo, en el folleto 61 «Reglas generales para la ejecución de
+contratos públicos» y en el folleto 63 «Medidas de seguridad y protección de la salud en la
+ejecución de contratos».
+El gestor de infraestructuras añade igualmente medidas de seguridad específicas, tal como
+están previstas en las Reglas Generales de Explotación (RGE/ARE1), entre otras en las
+«Instrucciones Locales Temporales» (ILT/TPO2), las «Instrucciones de Seguridad» (CS/VC3) y
+los «Avisos de reducción temporal de velocidad» (ART/BTS4).
+El boletín informativo BNX del 10.10 prevé que en la zona entre Melsele-Rooster y
+Zwijndrecht-Wijksporen:
+•	 La vía A de la línea L.59 estará cerrada el 15.10 de 00.00 a 07.00 horas y la
+línea podrá ser utilizada a partir de las 07.00 horas en vía única;
+•	 La vía B de la línea L.59 estará cerrada de forma ininterrumpida, desde el 15.10 a las 00.00
+horas hasta el 17.10 a las 04.10 horas.
+•	 «Posible restricción de la caja de gálibo de la vía A entre ... y ... en ambos sentidos de
+circulación, protección mediante señales de parada grandes maniobradas. Utilice S_460».
+A través del «Boletín de trabajos» (BNX), esta información se comunica automáticamente a los
+servicios correspondientes del gestor de infraestructuras y de las empresas ferroviarias. Las
+empresas reciben, a petición, una copia de este BNX.
+Para la realización de estos trabajos, un contratista despliega dos equipos. Cada equipo cuenta
+con el apoyo de una excavadora de dos vías.
+El 15.10, entre las 00.00 y las 07.00 horas, un equipo trabaja en el lado de Melsele, aguas
+abajo del paso a nivel 9.
+El 15.10, entre las 00.00 y las 07.00 horas, otro equipo trabaja en la vía B de la línea L.59,
+a la altura de la señal FX-C.12. El equipo cuenta con el apoyo de una excavadora de dos vías
+posicionada en la vía A adyacente.
+El 15.10, poco antes de las 07.00 horas, el capataz da a ambos equipos la orden verbal prevista
+en la planificación «despejar la vía A», para preparar así el método de seguridad
+Cualquier uso de este informe con un objetivo distinto de la prevención de accidentes - por ejemplo,
+método 2 previsto. El método de seguridad 2 se trata del «Procedimiento S_460»,
+para determinar la responsabilidad - en particular la culpa individual o colectiva - constituiría una
+que prevé una ayuda contra la invasión mediante señales de parada grandes maniobradas. A
+distorsión completa de los objetivos de este informe, de los métodos utilizados para su
+tal efecto se despliegan centinelas.
+elaboración, de la selección de los hechos recopilados, de la naturaleza de las preguntas
+formuladas y de las ideas que las organizan, en las que el concepto de responsabilidad es
+desconocido. Las conclusiones que de ello se pudieran extraer serían, por tanto, en sentido
+literal, abusivas.
 RGE : Règlement Général d'Exploitation - ARE: Algemeen Reglement van de Exploitatie
-En caso de discrepancia entre determinadas palabras y términos, prevalecerá la versión neerlandesa.
+En caso de contradicción entre determinadas palabras y términos, la versión neerlandesa
 ILT : Instructions Locales Temporaires - TPO: Tijdelijke Plaatselijke Onderrichtingen
-CS : Consignes de Sécurité - VC: Veiligheidsconsignes
+prevalece.
+CS :  Consignes de Sécurité - VC: Veiligheidsconsignes
 ART: Avis de Ralentissement Temporaire - BTS: Bericht van Tijdelijke Snelheidsbeperking
 
 ## Página 3
 
-Sin embargo, el funcionario de tráfico decide aplicar un método de seguridad distinto al previsto.
-El vigilante en la señal FX-C.12 ve aproximarse el tren y observa que la situación
-pone en peligro al operario de la grúa. Intenta advertir al operario de la grúa del acercamiento
-del tren mediante su bocina. El operario de la grúa, en la cabina de la excavadora anfibía, se encuentra
-ya a una distancia de aproximadamente 270 m y no oye la bocina.
-El equipo y el operario de la grúa, que trabajan en el lado de Zwijndrecht, finalizan sus trabajos
+Sin embargo, el jefe de maniobras decide aplicar un método de seguridad distinto del previsto.
+El guardia de la señal FX-C.12 ve el tren que se aproxima y observa que la situación
+peligra para el conductor de la grúa. Intenta advertir al conductor de la grúa, mediante su
+pitarra, del tren que se aproxima. El conductor de la grúa, en la cabina de la excavadora
+de dos vías, se encuentra a unos 270 m de distancia y no oye la pitarra.
+Aplica en su lugar un «método de seguridad 3» no previsto, que
+no se inicia eficazmente. Este método de seguridad no previsto conlleva la
+paralización de los trabajos.
+El equipo y el conductor de la grúa, que trabajan en el lado de Zwijndrecht, terminan sus trabajos
 y abandonan las vías.
-Mientras el tren se acerca por la parte trasera a la excavadora anfibía, la excavadora se detiene aguas arriba
-del paso a nivel. Un trabajador se coloca delante de la excavadora anfibía para retirar una
-barra de transporte.
-El equipo y el operario de la grúa, que trabajan en el lado de Melsele, aún no han finalizado sus
-trabajos. El operario de la grúa interrumpe sus trabajos en la vía A y desplaza su
-excavadora anfibía de la vía A a la vía B a través del paso a nivel 9 y continúa en direc­
-ción a la señal FX-C.12. El capataz se encuentra en el paso a nivel y ve la excava­
-dora anfibía alejarse en dirección a la señal.
-Abandona las vías mientras el operario de la grúa y los trabajadores de su equipo finalizan su tarea en la
+Mientras el tren se aproxima a la excavadora de dos vías por la parte trasera, la excavadora se detiene
+aguas arriba del paso a nivel. Un trabajero se coloca delante de la excavadora de dos vías para retirar una
+barra de volteo transportada.
+El equipo y el conductor de la grúa, que trabajan en el lado de Melsele, aún no han
+terminado sus trabajos. El conductor de la grúa interrumpe sus trabajos en la vía A y mueve su
+excavadora de dos vías de la vía A a la vía B a través del paso a nivel 9 y continúa en dirección
+a la señal FX-C.12. El capataz se encuentra en el paso a nivel y ve la excavadora
+de dos vías alejarse en dirección a la señal.
+El resto del equipo de trabajo se encuentra en el cazo de la excavadora de dos vías y debe ser
+transbordado a una furgoneta. Esta furgoneta se encuentra al otro lado
+de la vía. El conductor de la grúa pretende izar el equipo de trabajo del cazo de la
+excavadora de dos vías de la vía B, por encima de la vía A, hasta la furgoneta.
+Abandona las vías mientras el conductor de la grúa y los trabajeros de su equipo terminan su tarea en la
 señal.
-Alrededor de las 07:27 h, el tren que circula por la vía contigua se acerca a la excavadora anfibía por la parte
-trasera. Mientras el trabajador se encuentra delante de la excavadora anfibía, el operario de la grúa eleva el
-equipo de trabajo del cucharón y gira el brazo hacia la vía A. El maquinista
-del tren ve el brazo giratorio de la grúa y aplica el freno de emergencia, pero no puede
-evitar el impacto contra el brazo de la excavadora.
-La vibración provocada por el tren empuja la excavadora anfibía hacia adelante, la cual descarrila. Como
-consecuencia, se vuelca una vía que aún no estaba fijada. El pie del trabajador, que se encuentra directamente delante de la excava­
-dora anfibía, queda atrapado, con graves y permanentes lesiones como
-consecuencia. El equipo de trabajo contenido en el cucharón es lanzado y daña el vehícu­
-lo de motor de un vecino que reside cerca.
-La causa directa del accidente es la intrusión del brazo de la excavadora en el perfil de carga de la
-vía contigua y el hecho de que el tren pudo circular en esta zona sin que se hubiera activado eficazmente un
-método de seguridad.
+Hacia las 07.27 h, el tren que circula por la vía contigua se aproxima a la excavadora de dos vías por
+la parte trasera. Mientras el trabajero se encuentra delante de la excavadora de dos vías, el conductor de la grúa iza el
+equipo de trabajo del cazo y gira el brazo hacia la vía A. El maquinista
+del tren ve el brazo giratorio de la grúa y acciona una frenada de emergencia, pero no puede
+impedir el impacto contra el brazo de la excavadora.
+Hay también un guardia presente en la vía, a la altura de la señal. Espera instrucciones
+para iniciar el «Procedimiento S_460».
+La sacudida provocada por el tren empuja la excavadora de dos vías hacia adelante, que descarrila. Como
+consecuencia, se vuelca un raíl aún no fijado. El pie del trabajero, que se encuentra justo delante de la excavadora
+de dos vías, queda atrapado, con lesiones graves y permanentes como
+consecuencia. El equipo de trabajo del cazo es lanzado y daña el vehículo
+de un residente que vive en las cercanías.
+Una vez finalizada su tarea, los trabajeros cargan el equipo de trabajo en el cazo de la
+excavadora de dos vías. Dos de ellos se dirigen hacia el paso a nivel 9, seguidos de
+cerca por la excavadora de dos vías.
+Hacia las 07.20 h, mientras el equipo termina los trabajos, el tren E727 se aproxima a la
+obra y se detiene al pie de la señal en posición de aviso DX-C.12 (véase esquema más abajo). El
+tren permanece retenido allí hasta las 07.24 h.
+A las 07.24 h (RT + 11), el maquinista del tren IC E727 recibe una señal sin restricción
+de avanzar y continúa en dirección al paso a nivel 9, teniendo en cuenta
+la condición de una limitación de velocidad temporal (ART-BTS). A la
+altura de la señal FX-C.12, el maquinista ve un equipo de trabajo que, a lo largo de las vías,
+se encuentra posicionado con una distancia de seguridad suficiente. Interrumpe brevemente la tracción
+y vuelve a acelerar a continuación.
 ### Recomendación 1 – factor directo
-El gestor de la infraestructura debe velar por que, durante la ejecución de los trabajos,
-### se aplique siempre un método de seguridad.
-### Esquema: Plano esquemático de la señalización (SPS)
+El operador de infraestructura debe velar por que, en la ejecución de trabajos, siempre
+### se aplique activamente un método de seguridad.
+### Esquema: Plan esquemático de la señalización (SPS)
  Zona de los trabajos;
-                                Delimitación CTL (Coupures Totales 
-de Lignes = interrupción del tráfico 
+                                Delimitación CTL (Coupures Totales
+de Lignes = interrupción del tráfico
 ferroviario);
- Tramo recorrido por el tren (representado como una línea 
-continua desde la señal de «vía libre sin restricciones» DX-C.12);
- Tramo recorrido por la 
-excavadora anfibía, poco antes del accidente.
+ Recorrido realizado por el tren (como línea
+continua desde la señal sin restricción
+de avanzar DX-C.12);
+ Recorrido realizado por la excavadora de dos vías,
+poco antes del accidente.
 
 ## Página 4
 

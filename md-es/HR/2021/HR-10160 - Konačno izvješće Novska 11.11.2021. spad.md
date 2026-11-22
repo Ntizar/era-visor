@@ -12,8 +12,8 @@ tokens_in: 32636
 tokens_out: 21556
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-verificacion: revisar
-avisos: ["página 3: cifras largas: faltan 4/7 (57%)"]
+verificacion: ok
+notas_cifras: ["página 9: cifras cortas: 2/31", "página 14: cifras largas: 2/19", "página 17: cifras cortas: 1/36", "página 22: cifras cortas: 1/29", "página 24: cifras cortas: 5/46", "página 25: cifras largas: 3/16; cifras cortas: 2/29"]
 ---
 
 ## Página 1
@@ -50,18 +50,20 @@ El informe final no podrá utilizarse como prueba en un procedimiento judicial d
 
 ## Página 3
 
-### Prefacio  
-La Agencia de Investigación de Accidentes en el Tráfico Aéreo, Marítimo y Ferroviario (en lo sucesivo: AIN) fue creada por la Ley de Creación de la Agencia de Investigación de Accidentes en el Tráfico Aéreo, Marítimo y Ferroviario (Gaceta Oficial de la República de Croacia, n.º 54/13, 96/18) como persona jurídica con poderes públicos. El fundador de la Agencia es la República de Croacia, y el ejercicio de los derechos de fundación corresponde al Gobierno de la República de Croacia. 
-En la forma de realización de las tareas de la Agencia se aplican las disposiciones especiales, es decir, las leyes que regulan el tráfico aéreo, la marina, así como la seguridad y la interoperabilidad del tráfico ferroviario, o las disposiciones adoptadas para su ejecución.  
-La Sección de Investigaciones de Accidentes Ferroviarios es una unidad organizativa autónoma e independiente de la AIN que realiza tareas técnicas relacionadas con las investigaciones de accidentes graves e incidentes extraordinarios en el tráfico ferroviario en la red ferroviaria de la República de Croacia. Las investigaciones se llevan a cabo sobre la base de las disposiciones de la Ley de Seguridad e Interoperabilidad del Sistema Ferroviario (Gaceta Oficial de la República de Croacia, n.º 63/20) y de la Directiva (UE) 2016/798 del Parlamento Europeo y del Consejo, de 11 de mayo de 2016, relativa a la seguridad ferroviaria (reforma), así como sobre la base de las directrices de la Agencia Ferroviaria de la Unión Europea. 
-La AIN investiga todos los accidentes graves en el tráfico ferroviario, es decir, todos los incidentes que impliquen colisión de trenes o descarrilamiento de trenes que tengan como consecuencia la muerte de al menos una persona o lesiones graves de cinco o más personas, o daños importantes en los vehículos, la infraestructura ferroviaria o el medio ambiente, así como cualquier otro accidente similar con evidente impacto en la seguridad del sistema ferroviario o en la gestión de la seguridad. 
-La AIN puede investigar también aquellos accidentes e incidentes que, bajo circunstancias ligeramente diferentes, podrían haber conducido a accidentes graves, incluidas las averías técnicas en el funcionamiento de subsistemas estructurales o de sus componentes. 
-La AIN realiza investigaciones de seguridad con el fin de prevenir accidentes y graves incidentes, lo que incluye la recopilación y análisis de datos, la elaboración de conclusiones, incluida la determinación de las causas y, cuando sea procedente, la elaboración de recomendaciones de seguridad para prevenir accidentes e incidentes en el futuro y mejorar la seguridad en el tráfico ferroviario. 
-|  | Nombre | Cargo | Fecha | Firma |
-| Elaborado por: | Tomislav Antun Biber | Investigador responsable | 28.10.2022 . . . |  |
-|  | Sandra Lovrić | Asesor técnico superior | 28.10.2022 . . . |  |
-| Revisado por: | Ivica Majdanđić | Investigador de accidentes | 28.10.2022 . . . |  |
-| Aprobado por: | Tomislav Antun Biber | Investigador principal | 28.10.2022 . . . |  |
+### Prefacio
+La Agencia de Investigación de Accidentes del Tránsito Aéreo, Marítimo y Ferroviario (en adelante: 
+AIN) fue creada por la Ley de Creación de la Agencia de Investigación de Accidentes del Tránsito Aéreo, Marítimo y Ferroviario («Narodne novine», número 54/13, 96/18) como persona jurídica con competencias públicas. 
+El fundador de la Agencia es la República de Croacia, y los derechos de fundación los ejerce el Gobierno de la República de Croacia. 
+Al modo de realización de las actividades de la Agencia se aplican las disposiciones especiales, es decir, las leyes por las que se regulan el tránsito aéreo, la marina, y la seguridad y la interoperabilidad del tránsito ferroviario, así como las disposiciones adoptadas para su aplicación. 
+El Departamento de Investigación de Accidentes del Tránsito Ferroviario es una unidad organizativa autónoma e independiente de la AIN que desempeña las funciones profesionales relativas a la investigación de accidentes graves y sucesos extraordinarios en el tránsito ferroviario en la red ferroviaria de la República de Croacia. Las investigaciones se realizan con base en las disposiciones de la Ley sobre la Seguridad y la Interoperabilidad del Sistema Ferroviario («Narodne novine», número 63/20) y de la Directiva (UE) 2016/798 del Parlamento Europeo y del Consejo de 11 de mayo de 2016 relativa a la seguridad ferroviaria (recodificación), y con base en las directrices de la Agencia de la Unión Europea para los Ferrocarriles. 
+La AIN investiga todos los accidentes graves en el tránsito ferroviario, que son todos los sucesos que implican la colisión de trenes o el descarrilamiento de un tren que tenga como consecuencia la muerte de al menos una persona o lesiones graves de cinco o más personas, o daños importantes en los vehículos, la infraestructura ferroviaria o el medio ambiente, así como cualquier otro accidente similar con una influencia manifiesta en la seguridad del sistema ferroviario o en la gestión de la seguridad. 
+La AIN puede investigar también aquellos accidentes e incidentes que, en circunstancias ligeramente diferentes, podrían haber conducido a accidentes graves, incluidas las averías técnicas en el funcionamiento de los subsistemas estructurales o de sus componentes. 
+La AIN realiza investigaciones de seguridad con el fin de prevenir accidentes y siniestros graves, lo que incluye la recopilación y el análisis de datos, la elaboración de conclusiones, incluida la determinación de las causas y, cuando proceda, la formulación de recomendaciones de seguridad para prevenir accidentes e incidentes en el futuro y mejorar la seguridad en el tránsito ferroviario.
+|  | Nombre | Puesto de trabajo | fecha | firma |
+| Elaborado por: | TomislavAntunBiber | Investigadorresponsable | 28102022 . . . |  |
+|  | SandraLovrić | Asesorprofesionalsuperior | 28102022 . . . |  |
+| Revisado por: | IvicaMajdanđić | Investigadordeaccidentes | 28102022 . . . |  |
+| Aprobado por: | TomislavAntunBiber | Investigadorprincipal | 28102022 . . . |  |
 
 ## Página 4
 

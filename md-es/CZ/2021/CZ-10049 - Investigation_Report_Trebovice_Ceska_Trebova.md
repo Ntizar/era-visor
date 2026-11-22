@@ -10,13 +10,14 @@ chars: 157863
 ratio_longitud: 1.25
 tokens_in: 68519
 tokens_out: 48314
-verificacion: revisar
-notas_cifras: ["bloque 1: original bilingüe: se compara contra el idioma principal (EN)", "bloque 5: cifras cortas: 10/83", "bloque 12: original bilingüe: se compara contra el idioma principal (EN)"]
-avisos: ["bloque 12: ratio 1.78"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 7: original bilingüe: se compara contra el idioma principal (CS)", "página 8: original bilingüe: se compara contra el idioma principal (CS)", "página 10: original bilingüe: se compara contra el idioma principal (CS)", "página 11: original bilingüe: se compara contra el idioma principal (CS)", "página 12: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -39,13 +40,13 @@ IČ: 75009561
 mail@dicr.cz
 tel.: +420 736 521 003
 
-
 ## Página 2
+
 
 Este informe final es público y todos los hechos en él expuestos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ## 1 Resumen
 Fuente: Drážní inspekce
@@ -71,8 +72,8 @@ Factor contribuyente:
 •
 no fue detectado por la DI.
 
-
 ## Página 4
+
 
 Causa sistémica:
 •
@@ -89,8 +90,8 @@ en la vía pública – carretera de primera clase n.º 14, en los tramos donde 
 •
 realizar la identificación de lugares en la red de carreteras donde la vía pública se encuentre tan próxima a la infraestructura ferroviaria estatal y regional que, en caso de que un vehículo de carretera se salga del arcén fuera del carril de circulación, exista riesgo de su caída o de vertido de la carga al perfil de paso de la vía. Posteriormente, en los lugares identificados, proceder a la instalación de sistemas de retención que eliminen dicho riesgo, o bien adoptar otras medidas adecuadas encaminadas a aumentar la seguridad en los alrededores de la línea ferroviaria.
 
-
 ## Página 5
+
 
 ## SUMMARY
 5th May 2021, 14:19 (12:19 GMT).
@@ -143,8 +144,8 @@ to improve the quality of the verge and place a restraint system (crash barrier)
 take other appropriate measures to increase safety around the railway line on the
 road of 1st class No. 14 in places where there is a parallel with the railway line.
 
-
 ## Página 6
+
 
 Addressed to the Ministry of Transport of the Czech Republic:
 •
@@ -155,8 +156,8 @@ Consequently to perform the installation of restraint systems which eliminate th
 risk or take other appropriate measures to increase safety around the railway line at
 the identified places.
 
-
 ## Página 7
+
 
 # Índice
 1 Resumen........................................................................................................................3
@@ -200,6 +201,7 @@ SUMMARY.........................................................................
 
 ## Página 8
 
+
 4.2.2 Factores o consecuencias derivados de la instalación y puesta en servicio de vehículos ferroviarios, infraestructura ferroviaria o instalaciones técnicas......................................44
 4.2.3 Factores o consecuencias relacionados con fabricantes de vehículos ferroviarios u otros proveedores de productos ferroviarios............................................................................44
 4.2.4 Factores o consecuencias derivados del mantenimiento y modificación de vehículos ferroviarios o instalaciones técnicas....................................................................................................44
@@ -228,8 +230,8 @@ SUMMARY.........................................................................
 6 RECOMENDACIONES DE SEGURIDAD.....................................................................................55
 ANEXOS..............................................................................................................................57
 
-
 ## Página 9
+
 
 ### Lista de siglas y símbolos utilizados
 CDP
@@ -285,8 +287,8 @@ Informe final sobre los resultados de la investigación del suceso extraordinari
 žst.
 estación de ferrocarril
 
-
 ## Página 10
+
 
 ### Lista de siglas de la legislación, normas y normativa interna utilizadas
 ley núm. 266/1994 Sb.
@@ -312,8 +314,8 @@ normativa interna del gestor de infraestructura SŽ «Reglamento sobre la compet
 SZB 
 normativa interna del gestor de infraestructura SŽ «Resumen del manual del sistema de aseguramiento de la seguridad de la explotación de la vía en la Gestión de la Vía de Transporte Ferroviario, organización estatal», en vigor desde el 14 de mayo de 2018, en la redacción vigente en el momento de producirse el suceso extraordinario
 
-
 ## Página 11
+
 
 ## 2 LA INVESTIGACIÓN Y SU CONTEXTO
 ### 2.1 Decisión de iniciar la investigación
@@ -347,8 +349,8 @@ declaraciones de los empleados implicados;
 •
 análisis de los datos registrados por el SZZ y el TZZ;
 
-
 ## Página 12
+
 
 •
 análisis de la extracción del GTN;
@@ -379,10 +381,10 @@ vía férrea, categoría nacional, línea 309A Přerov – Česká Třebová, en
 Coordenadas GPS:
 49.8794575N, 16.4710303E.
 ### 3.1.3 Descripción del lugar del suceso
-La línea 309A Přerov – Česká Třebová en el lugar del suceso extraordinario, en el sentido de la marcha del tren, discurre en una ligera trinchera a la derecha y desciende con una pendiente de 2,44 ‰. Se trata de una línea de doble vía electrificada, protegida por instalación de enclavamiento de línea de 3.ª categoría, con bloque automático bidireccional ABE-1 con transmisión de código VZ en ambos sentidos. En el lugar de producción del suceso extraordinario existe la convergencia de dos líneas de doble vía, la 309A y la 326A. A la izquierda en el sentido de la marcha del tren, discurre paralelamente a la convergencia de líneas una vía de servicio, a la derecha discurre paralelamente la carretera de 1.ª clase n.º 14. 
-
+La línea 309A Přerov – Česká Třebová en el lugar del suceso extraordinario, en el sentido de la marcha del tren, discurre en una ligera trinchera a la derecha y desciende con una pendiente de 2,44 ‰. Se trata de una línea de doble vía electrificada, protegida por instalación de enclavamiento de línea de 3.ª categoría, con bloque automático bidireccional ABE-1 con transmisión de código VZ en ambos sentidos. En el lugar de producción del suceso extraordinario existe la convergencia de dos líneas de doble vía, la 309A y la 326A. A la izquierda en el sentido de la marcha del tren, discurre paralelamente a la convergencia de líneas una vía de servicio, a la derecha discurre paralelamente la carretera de 1.ª clase n.º 14.
 
 ## Página 13
+
 
                  Fuente: ww
  w.
@@ -403,44 +405,46 @@ la vía estaba dividida en dos carriles por la señalización horizontal V 2b «
 ## Página 14
 
 •
-en el sentido de la marcha, la vía NA por el lado izquierdo de la carretera estaba bordeada por una cuneta de carretera con césped, a la que seguía un campo. En el lugar del accidente de tráfico, a la derecha, el terraplén de la carretera, que ascendía gradualmente, terminaba en una cuneta de drenaje junto a la vía y ya sobrepasaba notablemente, unos 2 m, la nivelación de la vía;
+en el sentido de la marcha NA, la vía de comunicación estaba bordeada por el lado izquierdo por un zanja de carretera con césped, a la que seguía un campo. En el lugar del accidente de tráfico, a la derecha, el terraplén de la vía de comunicación, que ascendía gradualmente, terminaba en una zanja de drenaje junto a la vía y ya sobrepasaba de forma notable, aproximadamente 2 m, la nivelación de la vía;
 •
-la superficie de la carretera terrestre estaba compuesta de asfalto. En el momento de la inspección estaba seco tras una breve lluvia, sin daños, suciedad ni defectos de circulación;
+la superficie de la vía de comunicación estaba compuesta por betún. En el momento de la inspección estaba seco tras una breve lluvia, sin daños, suciedad ni defectos de la vía;
 •
-sobre el lugar de origen de la MU, entre la carretera paralela de clase I n.º 14 y la 2.ª TK, se encontraba un camión de carga volcado de marca VOLVO FH con semirremolque de marca SCHWARZMÜLLER KIS3/E;
+sobre el lugar de origen de la MU, entre la carretera de clase I n.º 14 y la 2.ª TK, se encontraba un camión de carga volcado de la marca VOLVO FH con remolque de la marca SCHWARZMÜLLER KIS3/E;
 •
-del semirremolque del camión volcado, se derramó la carga cuesta abajo por el talud de la zanja hasta el espacio de la 2.ª TK, tierra que contenía grandes piedras.
+del remolque del camión volcado se derramó la carga, tierra que contenía grandes piedras, cuesta abajo por el talud de la zanja hasta el espacio de la 2.ª TK.
+
 Estado de los vehículos ferroviarios del tren Ex 1254:
 •
-el tren estaba formado por una unidad eléctrica Stadler Flirt CZ LE 94 54 1 480 004-1 (en adelante solo 480 004-1) con la cabina de conducción en el extremo delantero y con la clase 1 en la parte delantera de la unidad en el sentido de la marcha;
+el tren estaba formado por la unidad eléctrica Stadler Flirt CZ LE 94 54 1 480 004-1 (en adelante solo 480 004-1) con la cabina del maquinista en la parte delantera y con la clase 1 en la parte frontal de la unidad en el sentido de la marcha;
 •
-en la MU se produjeron daños en el arado frontal, incluidos los amortiguadores de impacto, el sensor SHP (sistema de seguridad de tren polaco) con sus soportes y cableado, el choque de los bogies, la unidad de freno, los amortiguadores, la calefacción del arenador, la caja de cambios, el suelo, las cajas de aspiración del WC y el cableado de diversos tipos;
+en la MU se produjeron daños en el arado frontal, incluidos los amortiguadores de impacto, el sensor SHP (sistema de seguridad ferroviario polaco) incluidos los soportes y el cableado, el choque de los bogies, la unidad de freno, los amortiguadores, la calefacción del arenador, la caja de cambios, el suelo, las cajas de aspiración del WC y el cableado de diversos tipos;
 •
-la inspección detallada, debido a la visibilidad limitada y al acceso bajo el HDV, se realizó únicamente en la inspección comisionada;
+la inspección detallada, debido a la limitada visibilidad y acceso bajo el HDV, se realizó únicamente en la inspección por comisión;
 •
 en el HDV, el DI documentó la documentación del tren y el transportista realizó la descarga de datos del dispositivo de registro del HDV;
 •
-en presencia del DI, se realizó la prueba de alcoholemia al conductor con resultado negativo;
+en presencia del DI, se realizó la prueba de alcoholemia al maquinista con resultado negativo;
 •
 en el momento del origen de la MU viajaban en el tren 43 pasajeros y 2 auxiliares de a bordo;
 •
-en el lugar de la MU, el daño estimado al DV ascendía a 10 000 000 CZK.
+en el lugar de la MU, el daño estimado al DV ascendía a 10 000 000 Kč.
+
 De la inspección de la infraestructura se constató:
 •
 no se detectaron daños en la superestructura ferroviaria;
 •
 en el lugar de origen de la MU se encontraron en el carril derecho huellas de tierra arcillosa derramada y polvo de piedras trituradas de fracción menor;
 •
-una de las piedras más grandes, de un tamaño de unos 50x40x40 cm, se encontró triturada en trozos más pequeños entre los raíles en la 2.ª TK;
+una de las piedras más grandes, de un tamaño de aproximadamente 50x40x40 cm, se encontró triturada en trozos más pequeños entre los raíles en la 2.ª TK;
 •
-desde el punto de colisión hasta el final del tren Ex 1254 se encontraron en la superestructura ferroviaria trozos de piedras desprendidos y huellas de impactos de piedras en las traviesas de hormigón, los raíles y los sistemas de fijación de raíles;
+desde el punto de colisión hasta el final del tren Ex 1254 se encontraron en la superestructura ferroviaria trozos de piedra desprendidos y huellas de impactos de piedras en las traviesas de hormigón, los raíles y los sistemas de fijación de raíles;
 •
 el estado del SZZ y del TZZ no se evaluó en el lugar de la MU. Los elementos exteriores del TZZ no estaban dañados;
 •
 los datos del archivo del SZZ y del TZZ se solicitaron en la fase posterior de la investigación de la MU, tras verificar los tipos concretos de SZZ y TZZ;
 
-
 ## Página 15
+
 
 •
 la línea de contacto estaba en estado operativo en el momento del origen de la MU, no estaba dañada y, en relación con el suceso accidentológico constatado, no fue necesario examinar más detenidamente el estado de este componente de la infraestructura.
@@ -481,8 +485,8 @@ El transportista LE:
 •
 conductor del tren Ex 1254, empleado de Leo Express s. r. o.
 
-
 ## Página 16
+
 
 Tercera parte:
 •
@@ -534,8 +538,8 @@ Nota sobre el tren Ex 1254:
 •
 el tren estaba formado por una unidad eléctrica Stadler de cinco coches, de piso bajo, tipo FLIRT Leo Express, destinada al transporte de pasajeros. La estación de origen del tren era žst. Ostrava-Svinov y la estación de destino era žst. Praha hl. n.;
 
-
 ## Página 17
+
 
 •
 en el momento del origen de la MU viajaban en el tren 43 pasajeros, 2 conductores y 2 auxiliares de a bordo. El estado real del tren Ex 1254 constatado en el lugar de la MU correspondía a la documentación del tren.
@@ -569,8 +573,8 @@ el extremo delantero del tren Ex 1254 pasó la señal S2 en el km 6,332;
 14:18:33 h
 el extremo delantero del tren Ex 1254 pasó la señal L2 en el km 5,548 (ver Fig. n.º 3);
 
-
 ## Página 18
+
 
 14:18:50 h
 el extremo delantero del tren Ex 1254 pasó la señal 2S en el km 4,970;
@@ -589,14 +593,15 @@ Fig. n.º 2: El extremo delantero del tren Ex 1254 pasó la señal de entrada 2L
 Fig. n.º 3: El extremo delantero del tren Ex 1254 pasó la señal de salida L2
                        Fuente: SŽ, edición del DI
 
-
 ## Página 19
+
 
 Del análisis de los datos descargados sobre el funcionamiento del SZZ y del TZZ se desprende que estos dispositivos presentaban un funcionamiento normal y que su estado técnico y su modo de operación no guardaban relación causal con el origen de la MU.
 La comunicación radio básica en el tramo de vía donde se produjo la MU era la red GSM-R. La infraestructura fija de la parte de vía de la red la constituye un sistema de estaciones base con antenas direccionales (en adelante «BTS»), situadas a lo largo de las vías equipadas y que garantizan la cobertura de todas las áreas de interés con una señal de radio del nivel y la calidad necesarios. Las distintas ramas de BTS se conectan, mediante unidades de control, a la central de la red de radio del sistema GSM-R. Los elementos de mando para la operación y la comunicación en la red de radio del sistema GSM-R son los terminales táctiles finales situados en los puestos de trabajo de los empleados de gestión de la circulación. Los requisitos de la parte móvil del dispositivo de radio se establecen para los transportistas en el § 71 apart. 5 del decreto n.º 173/1995 Sb. «El transportista está obligado a utilizar para la explotación vehículos ferroviarios equipados con una parte funcional de dispositivo de radio compatible y, si la parte de vía del dispositivo de radio del tren permite enviar una orden de parada automática del vehículo ferroviario, el vehículo ferroviario debe estar equipado con los medios técnicos para su realización». Según la comunicación del transportista LE, el tren Ex 1254 estaba equipado con los medios técnicos para la realización de la parada automática del tren en la red GSM-R, y podía, por tanto, detenerse en caso de uso de la función «EMERGENCIA TREN», es decir, la llamada grupal de emergencia 299 con la máxima prioridad, complementada por la segunda llamada «PARADA TREN», que es una llamada grupal unidireccional 499 (también denominada orden).
 La activación de estas funciones puede realizarla el jefe de estación o el despachador desde el terminal táctil pulsando el botón PARADA TREN en la pestaña GSM-R EMERGENCIA. Tras la pulsación, se inicia inmediatamente la llamada grupal de emergencia 299 y la llamada grupal unidireccional 499. Si la radiotelefonía del vehículo detecta la combinación de estas dos llamadas, activa la válvula de freno y el tren se detiene. Simultáneamente, a través de la llamada 299, se reproduce una advertencia de voz automática para la parada del tren. Según la comunicación del explotador de la vía, la llamada grupal 299 es recibida por el vehículo en unos 4 s. Para que se produzca la parada del tren, debe activarse también la llamada grupal 499, y esto 1 s después de la 299. La llamada grupal 499 es recibida por el vehículo en unos 5 s. La información sobre la parada del vehículo llega, por tanto, al HDV en unos 6 s. Casi inmediatamente después se produce la activación de la válvula de freno.
 
 ## Página 20
+
 
 Fig. n.º 4: Cobertura informativa de la red GSM-R por las distintas BTS
          Fuente: SŽ, modificación DI
@@ -612,8 +617,8 @@ maquinista del tren Ex 1254
 ◦al circular desde la est. Třebovice v Čechách, tras salir de la curva, vio algo en la vía. Supuso que se trataba de fauna;
 ◦se concentró en ese objeto y cree que utilizó la bocina de la locomotora;
 
-
 ## Página 21
+
 
 ◦al acercarse, comprobó que se trataba de piedras o un bloque de hormigón;
 ◦primero inició el frenado de servicio y a continuación, de inmediato, el frenado de acción rápida;
@@ -640,34 +645,33 @@ conductor del camión
 ◦se acercaron a él personas de los vehículos que circulaban detrás y le preguntaron si estaba bien. A la vez le dijeron que estaban llamando al 112, pues había piedras en la vía;
 ◦una persona llamaba y otra le aconsejaba cómo salir del vehículo;
 
-
 ## Página 22
 
-◦al poco se marcharon para no entorpecer el tráfico. Llamó a su despachante y acto seguido llegó un tren que embistió las piedras vertidas. Fue a refugiarse al otro lado del vehículo, en la carretera, pues volaban pedazos de piedra;
-◦el tren se detuvo un poco más adelante en dirección a Česká Třebová. Al poco llegaron al lugar los bomberos y la PČR, que le realizó una prueba de alcoholemia y un test de drogas con resultado negativo, y documentó el accidente;
-◦en el momento del accidente, el permiso de conducción para el conjunto indicado lo tenía desde hacía tres días. Los tres días condujo con el conjunto. Con otras máquinas llevaba un año.
+◦en un momento se marcharon para no entorpecer la circulación. Llamó a su despachador y enseguida llegó un tren que chocó contra la piedra derramada. Se fue a refugiar al otro lado del coche, en la carretera, ya que salían volando trozos de piedra;
+◦el tren se detuvo un poco más adelante, en dirección a Česká Třebová. Al lugar llegaron en un momento los bomberos y la PČR, que le realizó una prueba de aliento y un test de drogas con resultado negativo, y documentó el accidente;
+◦el permiso de conducir para el conjunto indicado lo tenía desde hacía tres días en el momento del accidente. Los tres días completos condujo con el conjunto. Con otras locomotoras llevaba un año conduciendo.
 •
-testigo 1, conductor de un vehículo turismo
-  – Registro oficial de la explicación aportada a la PČR:
-◦el 5. 5. 2021 circulaba por la tarde desde Česká Třebová hasta Třebovice v Čechách;
-◦circulaba detrás del camión. Había mucho tráfico y no podía adelantarlo;
-◦cuando estaba a unos 30 m del camión, vio cómo se cruzaba con otro camión. El conjunto se desvió ligeramente a la derecha y se produjo que levantaba polvo tras la rueda trasera derecha del semirremolque debido a que había salido al borde no pavimentado. A continuación, el semirremolque se inclinó y se salió al arcén, donde todo el camión volcó sobre el lado derecho y la carga se derramó sobre la vía;
-◦detuvo el vehículo de inmediato y corrió hacia el conductor del camión. Mientras tanto, ya estaba llamando al 112;
-◦desde la caída del vehículo hasta la llamada al 112 transcurrieron unos 30 s;
-◦en el número indicado comunicó el accidente indicado, advirtiendo al principio de la conversación que era necesario detener el tráfico en la primera vía desde la carretera, y comunicando a continuación el lugar exacto del accidente;
-◦tras finalizar la conversación, junto con otro conductor que se había detenido, comprobaron si el conductor estaba bien y durante un rato dirigieron el tráfico allí, pues se detenían muchos vehículos;
+testigo 1, conductor de automóvil particular
+  – Registro oficial de la declaración prestada ante la PČR:
+◦el 5 de 5 de 2021, por la tarde, conducía desde Česká Třebová hacia Třebovice v Čechách;
+◦iba detrás de un NA. Había mucho tráfico y no podía adelantarlo;
+◦cuando estaba a unos 30 m detrás del NA, vio cómo se cruzaba con otro NA. El conjunto se desvió ligeramente a la derecha y se produjo que levantaba polvo tras la rueda trasera derecha del remolque debido a haberse salido al acotamiento sin pavimentar. A continuación el remolque se inclinó y se salió al zanja, donde todo el camión volcó sobre el lado derecho y la carga se derramó sobre la vía;
+◦se detuvo inmediatamente y corrió hacia el conductor del NA. Mientras tanto ya había llamado al número 112;
+◦desde la caída del vehículo hasta la llamada al número 112 transcurrieron unos 30 s;
+◦en el número indicado comunicó el accidente indicado, advirtiendo ya al principio de la conversación que era necesario detener la circulación en la primera vía desde la carretera, y además comunicó el lugar exacto del accidente;
+◦tras finalizar la conversación, junto con otro conductor que se había detenido, comprobaron si el conductor estaba bien y durante un momento dirigieron allí la circulación, ya que se detenían muchos coches;
 ◦unos 9 minutos después se marchó del lugar del accidente. Antes de la localidad de Třebovice v Čechách le llamó un testigo para decirle que veía llegar un tren Leo Express por la primera vía;
-◦no vio la colisión del tren con las piedras.
+◦no vio la colisión del tren con la piedra.
 •
-testigo 2, conductor de un vehículo turismo
-  – Registro oficial de la explicación aportada a la PČR:
-◦el 5. 5. 2021 circulaba por la tarde desde Česká Třebová hasta Třebovice v Čechách;
-◦tras salir de Česká Třebová llegó a una cola de vehículos y vio que a la derecha había un camión volcado. Dio la vuelta a la cola y se detuvo delante del primer vehículo parado; a continuación preguntó si hacía falta algo;
-◦el conductor del camión estaba sentado en la cabina, así que le advirtió que mejor bajara, pues había piedras en las vías y, si llegaba un tren, corría el riesgo de que las piedras volaran y le hirieran;
-◦con el testigo que había comunicado el accidente acordaron que ya estaba todo gestionado, por lo que se subió al vehículo y se marchó en dirección a Třebovice;
-
+testigo 2, conductor de automóvil particular
+  – Registro oficial de la declaración prestada ante la PČR:
+◦el 5 de 5 de 2021, por la tarde, conducía desde Česká Třebová hacia Třebovice v Čechách;
+◦al salir de Česká Třebová llegó a una cola de vehículos y vio que a la derecha había un vehículo pesado volcado. Dio la vuelta a la cola y se detuvo delante del primer vehículo parado; a continuación preguntó si hacía falta algo;
+◦el conductor del NA estaba sentado en la cabina, así que le advirtió que mejor bajara, ya que había piedras en las vías y si llegaba un tren corría el riesgo de que las piedras salieran volando y le hirieran;
+◦con el testigo que había comunicado el accidente acordaron que todo estaba arreglado, por lo que se subió al coche y se marchó en dirección a Třebovice;
 
 ## Página 23
+
 
 ◦tras recorrer unos 1 km vio que por las vías, en dirección hacia él, circulaba un tren. Cogió el teléfono y llamó al testigo que había comunicado el accidente (se conocían) y le comunicó que un tren se estaba acercando al lugar del accidente de tráfico y que se apartaran de la vía. Este le indicó que ya tampoco estaba en el lugar del accidente y que iba detrás de él;
 ◦no vio la colisión del tren con las piedras. Recuerda que entre la primera vía había un gran bloque de hormigón y que además había muchas otras piedras y escombros justo al lado de la vía.
@@ -687,25 +691,25 @@ testigo 3, operador de la línea de emergencia IZS
 testigo 4, oficial de operaciones de la IZS
   – Registro de la aportación de explicaciones a la DI:
 
-
 ## Página 24
 
-◦ejerce la profesión desde 2009 y su función consiste en el envío de fuerzas y medios al lugar del suceso según su carácter;
-◦el turno del 5. 5. 2021 comenzó a las 7:00 h y estaba descansado;
-◦a la pregunta de cómo trabajó a continuación, o de cómo reaccionó concretamente al aviso del 5. 5. 2021, cuando recibieron en la línea de emergencia el aviso de un camión volcado cuya carga se había derramado sobre la vía, respondió que se enteró mediante una trama de datos que llegó a su puesto de trabajo, en el ordenador, desde el operador de la línea 112;
-◦tras recibir la trama de datos, procesó el suceso y envió unidades al lugar. Concretamente, se trató de la unidad profesional del HZS Ústí nad Orlicí. Del suceso se desprendió que la carga también se había vertido sobre la vía, por lo que envió también a los bomberos ferroviarios del HZS SŽ Česká Třebová. La trama de datos fue también a los bomberos ferroviarios del HZS SŽ y a la vez les informó por teléfono. En la conversación les comunicó qué suceso y dónde se había producido, con la determinación de la posición en km y con la petición de detener el tráfico. A continuación, ya no llamó por teléfono a ningún sitio sobre el suceso;
-◦procedió así con arreglo a las normas internas y según el diseñador de sucesos. Se trata de una herramienta metodológica destinada a los oficiales de operaciones, en la que, según el tipo de suceso concreto, se recomiendan los medios y las fuerzas a enviar al lugar del suceso;
-◦a la pregunta de si tiene establecidos en su función (oficial de operaciones) procedimientos sobre cómo actuar cuando se comunica en la línea de emergencia información sobre una amenaza a la infraestructura ferroviaria (tráfico ferroviario), o bien una solicitud de detención del tráfico, respondió que, en caso de sucesos relacionados con la infraestructura ferroviaria, siempre llama a los bomberos ferroviarios. Ya no recuerda los documentos o la metodología exactos;
-◦a la pregunta de si están formados en los procedimientos sobre cómo actuar cuando se les comunica información sobre una amenaza a la infraestructura ferroviaria, o bien una solicitud de detención del tráfico, respondió que se realizan formaciones periódicas de unas 3 al mes. Ya no recuerda si se trataba del contenido de la problemática de accidentes y sucesos en la infraestructura ferroviaria.
+◦la ejerce desde el año 2009 y consiste en el envío de fuerzas y medios al lugar del suceso según su carácter;
+◦el turno del día 5. 5. 2021 lo comenzó a las 7:00 h y estaba descansado;
+◦a la pregunta de cómo trabajó a continuación, o cómo concretamente reaccionó al aviso del día 5. 5. 2021, cuando en la línea de emergencia recibieron el aviso de un camión de carga volcado cuya carga había sido vertida en la vía, respondió que se enteró de ello mediante un mensaje de datos que llegó a su puesto de trabajo en el ordenador desde el operador de la línea 112;
+◦tras recibir el mensaje de datos, procesó el suceso y envió unidades al lugar. Concretamente se trataba de la unidad profesional HZS Ústí nad Orlicí. Del suceso se desprendió que la carga también se había vertido en la vía, por lo que también envió a los bomberos ferroviarios HZS SŽ Česká Třebová. El mensaje de datos fue también a los bomberos ferroviarios HZS SŽ y a la vez les informó por teléfono. En la conversación les comunicó qué suceso había ocurrido y dónde, con la determinación del km de la ubicación y con la petición de detener la circulación. A continuación, ya por teléfono, no llamó a ningún otro lugar sobre el suceso;
+◦así procedió en base a las instrucciones internas y según el diseñador del suceso. Se trata de una ayuda metodológica destinada a los oficiales de operaciones, en la que, según el tipo de suceso concreto, se recomiendan los medios y fuerzas a enviar al lugar del suceso;
+◦a la pregunta de si tiene establecidos en su función (oficial de operaciones) procedimientos sobre cómo actuar si se comunica en la línea de emergencia información sobre amenaza a la vía (tráfico ferroviario), respectivamente petición de detener la circulación, respondió que si son sucesos relacionados con la vía, siempre llama a los bomberos ferroviarios. Ya no recuerda los documentos o la metodología exactos;
+◦a la pregunta de si están formados en los procedimientos sobre cómo actuar si se les comunica información sobre amenaza a la vía, respectivamente petición de detener la circulación, respondió que se realizan formaciones continuamente, unas 3 al mes. Ya no recuerda si se trataba de contenido sobre la problemática de accidentes y sucesos en la vía.
 •
-testigo 5, bombero especialista del HZS SŽ
-  – Registro de la aportación de explicaciones a la DI:
-◦ejerce la profesión desde 2007. El contenido de su trabajo es una combinación de la función de operador del centro de operaciones y, a la vez, presta servicio en la unidad de intervención. El contenido del trabajo en el centro de operaciones consiste en recibir información sobre sucesos, evaluarlos, enviar unidades y ser de apoyo al jefe de la intervención;
-◦el turno del 5. 5. 2021 lo comenzó a las 7:00 h y estaba descansado;
-◦ya no recuerda cómo transcurrió el turno del 5. 5. 2021. Cree que, hasta la aparición de la MU, fue un turno estándar;
-◦respecto al aviso del 5. 5. 2021, cuando recibió en la línea de emergencia el aviso de un camión volcado cuya carga se había derramado sobre la vía, reagió recibiendo primero esta información del centro de operaciones regional (KOPIS). Ya no recuerda el contenido exacto de la información comunicada, pero progresivamente, durante la conversación con el KOPIS, dedujeron que sería necesario detener el tráfico. Por ello, con prioridad, llamó al CDP Přerov, donde les explicó lo que había ocurrido;
+testigo 5, bombero HZS SŽ especialista
+  – Registro de la declaración prestada ante el DI:
+◦la ejerce desde el año 2007. El contenido del trabajo es una combinación de la función de operador del centro de operaciones y a la vez sirve en la unidad de intervención. El contenido del trabajo en el centro de operaciones es recibir información sobre sucesos, evaluarlos, enviar una unidad y ser de apoyo al jefe de la intervención;
+◦al turno del día 5. 5. 2021 se incorporó a las 7:00 h y estaba descansado;
+◦sobre cómo transcurrió el turno del día 5. 5. 2021 ya no lo recuerda. Cree que hasta la ocurrencia del SU fue un turno estándar;
+◦al aviso del día 5. 5. 2021, cuando en la línea de emergencia recibió el aviso de un camión de carga volcado cuya carga había sido vertida en la vía, reaccionó de forma que primero recibió esta información desde el centro de operaciones regional (KOPIS). Ya no recuerda el contenido exacto de la información comunicada, pero progresivamente durante la conversación con KOPIS se dieron cuenta de que sería necesario detener la circulación. Por ello, prioritariamente llamó al CDP Přerov, donde les explicó lo que había ocurrido;
 
 ## Página 25
+
 
 ◦z CDP Přerov lo remitieron a CDP Praha indicando que no estaba en su distrito. Llamó
 por tanto a CDP Praha. Tras comunicarlo todo al jefe de despachante, este le colgó y le
@@ -754,8 +758,8 @@ circulación si procede petición de IZS, y ello en colaboración con el despach
 circulación, que tiene visibilidad del tramo de línea asignado. Este procedimiento se
 deduce aparentemente de la lógica, si procede tal petición de IZS;
 
-
 ## Página 26
+
 
 ◦el jefe de despachante no tiene desde su puesto de trabajo la posibilidad de detener la
 circulación en cualquier lugar de la República Checa;
@@ -801,8 +805,8 @@ Operador de IZS: Sí.
 Denunciante del accidente de tráfico: …aquí se ha salido el vehículo del arcén y ha
 arrojado piedras a la vía, ...que
 
-
 ## Página 27
+
 
 así lo denunciaría, aquí el camión en el cunero.
 Operador de IZS: ..y se ha volcado, se ha volcado, es decir, a la vía, a la vía…
@@ -842,49 +846,41 @@ de tráfico, un camión se ha vuelto en el cunero, y parte de la carga es piedra
 Operador de HZS SŽ: Bueno…
 Operador de IZS: Es, te ruego, por ahí el kilómetro 243 aproximadamente.
 
-
 ## Página 28
 
-Operador de HZS SŽ: Hmm, ¿y dónde?
-Operador de IZS: Donde están Třebovice.
-Operador de HZS SŽ: Hmm..
-Operador de IZS: Bueno, Třebovice, cuando vas hacia el estanque, pues justo en esa llanura,
-¿sabes?, hacia Česká.
-Operador de HZS SŽ: Hmm..
-Operador de IZS: Pues por ahí donde está el almacén, depósito y todo esto…
-Operador de HZS SŽ: Hm…
-Operador de IZS: Y al lado el vertedero de material, ¿eh.
-Operador de HZS SŽ: Bueno…
-Operador de IZS: Pues te ruego, allí iréis probablemente con la Scania, ¿verdad,
-Operador de HZS SŽ: Hmm..
-Operador de IZS: Y si puedes avisar a alguien que se encarga de la línea, para que lo paren
-allí o algo antes de que llegue alguien, para que se averigüe qué está pasando allí, para que
-algún tren no se meta en eso…
-Operador de HZS SŽ: Sí, bueno, llamaré probablemente al despachante, bueno.
-Operador de IZS: Bueno, al despachante, antes de que lleguen los nuestros o vosotros, para
-que se averigüe cómo está eso, para que por si acaso algún tren…
-Operador de HZS SŽ: 243, ¿eh?
-Operador de IZS: Hm…, por ahí por esos lugares.
-Operador de HZS SŽ: Sí.
-Operador de IZS: Sí.
-Operador de HZS SŽ: O sea, será un problema, porque es una línea de corredor, bueno, no les
-va a gustar mucho…
-Operador de IZS: Pues claro, pero…
-Operador de HZS SŽ: Yo allí, yo allí enviaré…
-Operador de IZS: No hay nadie allí, así que no sabemos cómo está, ¿sabes?, por si acaso.
-Operador de HZS SŽ: Pues claro, enviaré la Scania para que lo más rápido posible… Ellos lo
-pararán un rato…
-Operador de IZS: Y yo te envío allí enseguida a todos, ¿vale, bien?, lo tendrás allí, en un
-momento lo tienes.
-Operador de HZS SŽ: Allí lo envío.
-Operador de IZS: Bien.
-Operador de HZS SŽ: Sí sí, bien.
+Operador HZS SŽ: Hmm, ¿y dónde?
+Operador IZS: ¿Cómo están Třebovice?
+Operador HZS SŽ: Hmm..
+Operador IZS: Bueno, Třebovice, cuando vas hacia el estanque, pues en realidad en esa llanura, ¿verdad?, hacia Česká.
+Operador HZS SŽ: Hmm..
+Operador IZS: Pues en algún lugar donde está el almacén del depósito y todo esto…
+Operador HZS SŽ: Hm…
+Operador IZS: Y al lado, vertedero de material, ¿vale?
+Operador HZS SŽ: Bueno..
+Operador IZS: Pues te lo ruego, allí probablemente iréis con la Scania, ¿verdad?
+Operador HZS SŽ: Hmm..
+Operador IZS: Y si puedes informar a alguien que se encarga de la línea, si detienen allí o algo antes de que llegue alguien allí, para que se averigüe qué es lo que está pasando allí, para que algún tren no se meta en ello…
+Operador HZS SŽ: Sí, bueno, yo llamaré probablemente al despachador, bueno.
+Operador IZS: Bueno, al despachador, antes de que lleguen allí los nuestros o vosotros, para que se averigüe del todo cómo está la cosa allí, para que por si acaso algún tren...
+Operador HZS SŽ: 243, ¿vale?
+Operador IZS: Hm…, en algún lugar por esos parajes.
+Operador HZS SŽ: Sí.
+Operador IZS: Sí.
+Operador HZS SŽ: O sea, será un problema, porque es una línea de corredor, bueno, probablemente no les va a hacer mucha gracia…
+Operador IZS: No, desde luego, pero…
+Operador HZS SŽ: Yo allí, yo allí enviaré...
+Operador IZS: No hay nadie allí, así que no sabemos cómo está la cosa, ¿verdad?, por si acaso.
+Operador HZS SŽ: No, desde luego, yo allí enviaré la Scania, para que lo más rápido posible… Ellos lo detendrán un rato…
+Operador IZS: Y yo allí te enviaré enseguida a todos, ¿vale, bien?, lo tendrás allí, en un momento lo tienes.
+Operador HZS SŽ: Allí lo envío.
+Operador IZS: Bien.
+Operador HZS SŽ: Sí sí, bien.
 Archivo: 2021_05_05_14-18-21_0.08_HZS_SŽ_CDP_PREROV.wav
-Inicio de la llamada: 5 de mayo de 2021, 14:18:21 h
+Inicio de la llamada: 5. 5. 2021, 14:18:21 h
 Contenido de la transcripción: grabación completa
 
-
 ## Página 29
+
 
 Jefe de despachante de CDP Přerov: CDP Přerov, jefe de despachante.
 Operador de HZS SŽ: Aquí bomberos ferroviarios de Česká Třebová. Me acaban de comunicar
@@ -929,6 +925,7 @@ acuerdo con el jefe para que llame enseguida a ver cómo está eso, si dejaremos
 
 ## Página 30
 
+
 Archivo: 2021_05_05_14-22-21_0.08_CDP_PRAHA_HZS_SŽ.wav
 Inicio de la llamada: 5. 5. 2021, 14:22:21 h
 Contenido de la transcripción: grabación completa
@@ -948,8 +945,8 @@ Operador HZS SŽ: Sí, sí, de acuerdo. Hasta luego.
 Al suceso excepcional (MU) precedió un accidente de tráfico en la carretera de primera clase nº 14. El 5. 5. 2021, un conductor de un vehículo de motor (NA) con un remolque cargado de árido circulaba desde la localidad de Rybník en dirección a la localidad de Třebovice v Čechách.
 A las 14:12 h, en el punto kilométrico 188,282 de la carretera, el NA con el remolque entró en el arcén. Posteriormente, las ruedas traseras derechas del conjunto salieron de la calzada, el NA se volcó y quedó tendido junto a la carretera sobre su lado derecho. Al volcarse, se desprendió la carga transportada, compuesta por árido y escombros, que se deslizó cuesta abajo y cuya parte, por inercia, se desbordó hasta el perfil de paso de la 2. TK. Hacia ese lugar se aproximaba por la 2. TK el tren Ex 1254 del transportista LE, con destino a la est. Praha hl. n., y en el momento del accidente se encontraba tras la parada de Krasíkov, a unos 18 km del lugar del suceso excepcional. A las 14:14 h el tren Ex 1254 pasó por la est. Rudoltice v Čechách y a las 14:18:33 h rebasó la señal de salida L2 de la est. Třebovice v Čechách en el km 5,548, es decir, 2,602 km antes del lugar del suceso excepcional. Tras salir de la curva situada tras la est. Třebovice v Čechách, el maquinista advirtió un obstáculo en la vía (primero pensó que era un animal) y a continuación inició un frenado de emergencia. No logró detenerse antes del obstáculo y a las 14:19:52 h, en el km 2,946, se produjo la colisión.
 
-
 ## Página 31
+
 
 Fig. nº 5: Línea temporal de las notificaciones 1
                 Fuente: DI
@@ -970,8 +967,8 @@ precisó el lugar y que se trataba del km 243 (determinó el km a partir de una 
 ### la llamada finalizó a las 14:17:59 h, la llamada duró 1 minuto y 26 s. En el momento de finalizar la llamada, el tren Ex 1254 se encontraba en el km 6,696, a una distancia de 3,750 km del lugar del suceso excepcional.
 ### 14:18:21 h – el operador de HZS SŽ llamó al jefe de despachador de CDP Přerov:
 
-
 ## Página 32
+
 
 •
 la llamada comenzó a las 14:18:32 h, cuando faltaban 1 minuto y 20 s para la colisión del tren con el obstáculo;
@@ -998,42 +995,42 @@ el operador de HZS SŽ le respondió que en CDP Přerov le habían dicho lo mism
 •
 la llamada finalizó a las 14:23:40 h y duró 1 minuto y 19 s.
 
-
 ## Página 33
 
-Fig. nº 6: Línea temporal de las notificaciones 2
+Obr. č. 6: Cronología de notificaciones 2
               Fuente: DI
-### 3.2.2 Secuencia de hechos desde la producción del suceso excepcional hasta la finalización de las actuaciones de los servicios de emergencia
+### 3.2.2 Secuencia de hechos desde la aparición del suceso extraordinario hasta la finalización de las acciones de los servicios de emergencia
 •
 14:20 h
-el maquinista del tren Ex 1254 comunicó la producción del suceso excepcional al jefe de estación de Česká Třebová;
+el maquinista del tren Ex 1254 notificó la aparición del SE al jefe de estación de la estación de Česká Třebová;
 •
 14:21 h
-el jefe de estación de Česká Třebová comunicó la producción del suceso excepcional a la guardia de emergencia del ámbito de explotación;
+el jefe de estación de la estación de Česká Třebová notificó la aparición del SE a la guardia de accidentes del distrito de explotación;
 •
 14:35 h
-restablecimiento del tráfico en la 1. TK;
+restablecimiento de la circulación en el 1. TK;
 •
 14:39 h
-el jefe de despachador de CDP Praha comunicó la producción del suceso excepcional a la persona autorizada O18 de SŽ;
+el jefe de despacho del CDP Praga notificó la aparición del SE a la persona autorizada O18 SŽ;
 •
 15:03 h
-la persona autorizada O18 de SŽ comunicó la producción del suceso excepcional al COP de DI;
+la persona autorizada O18 SŽ notificó la aparición del SE en el COP DI;
 •
 17:15 h
-inicio de la inspección del lugar del suceso excepcional por parte de los inspectores de DI;
+inicio de la inspección del lugar del SE por parte de los inspectores de DI;
 •
 17:40 h
-el inspector de DI presente dio su consentimiento para la liberación de la vía;
+el inspector de DI presente concedió la autorización para liberar la vía;
 •
 19:45 h
-restablecimiento del tráfico en la 2. TK.
-El plan del IZS se activó ya antes de la producción del suceso excepcional, concretamente a raíz de la producción del accidente de tráfico a las 14:13 h. El plan del IZS lo activó a las 14:13 h un participante en el tráfico rodado (testigo). En el lugar del suceso excepcional intervinieron los siguientes cuerpos del IZS:
+restablecimiento de la circulación en el 2. TK.
+El plan IZS ya se había activado antes de la aparición del SE, con base en la aparición de un accidente de tráfico a las 14:13 h. El plan IZS fue activado a las 14:13 h por un participante en el tráfico rodoviario (testigo).
+En el lugar del SE intervinieron los siguientes componentes del IZS:
 •
-Policía de la República Checa, servicio de inspección de tráfico de Ústí nad Orlicí;
-
+Policía ČR, servicio de inspección de tráfico de Ústí nad Orlicí;
 
 ## Página 34
+
 
 •
 HZS SŽ Unidad de protección contra incendios de Česká Třebová;
@@ -1058,6 +1055,7 @@ respete la circulación de los trenes en las rutas solicitadas por los transport
 
 ## Página 35
 
+
 •
 responde por garantizar la realización de las solicitudes de detención o limitación de la circulación por
 ### parte de los servicios de emergencia (IZS) en caso de producirse una emergencia o ante incidencias,
@@ -1081,8 +1079,8 @@ Breve resumen de los hechos y la hora de la llamada telefónica relevante (detal
 •
 14:19:16 h – 14:19:20 h: jefe de despacho del CDP Přerov: «Ah, entre Česká Třebová y Třebovice, pues eso lo tiene el compañero de Praga» (nota del DI: el despachador se equivocó e identificó incorrectamente el tramo de línea donde se produjo la MU desde el punto de vista de la gestión del transporte ferroviario – en el tramo afectado no gestiona el transporte ferroviario el CDP Praga, sino el CDP Přerov –, y no inició el proceso para evitar el peligro inminente. Al finalizar esta parte de la llamada faltaban 32 s para la colisión).
 
-
 ## Página 36
+
 
 En la actuación del operador del HZS SŽ existió incertidumbre en la localización del lugar de la MU y, en comparación con la notificación anterior realizada por el operador del IZS, faltó una mayor urgencia y la solicitud de detención de la circulación. La conducta del jefe de despacho en prácticas del CDP Přerov puede explicarse por su inexperiencia y su casi nula práctica en este puesto. Por ello, en esta situación debió intervenir el jefe de despacho bajo cuya supervisión en prácticas trabajaba y resolver la situación. Cabe señalar, no obstante, que el jefe de despacho en prácticas del CDP Přerov trabajó los 9 años anteriores como despachador de explotación y que su competencia profesional incluye también el examen para la función de jefe de estación. El desconocimiento del ámbito y la inacción en la situación en la que, tras finalizar la llamada con el operador del HZS SŽ, el jefe de despacho en prácticas del CDP Přerov no comenzó a adoptar, dentro de sus posibilidades, medidas para garantizar la seguridad del transporte ferroviario, ni siquiera intentó transmitir la solicitud de detención del transporte ferroviario al despachador de línea correspondiente, a pesar de que en el ámbito del CDP Přerov se encuentra la área gestionada en la que se produjo la MU, resulta sorprendente.
 Las llamadas siguientes se produjeron cuando la MU ya se había producido. La comunicación entre el operador del HZS SŽ y el jefe de despacho del CDP Praga comenzó tras un tono de llamada previo de 23 segundos a las 14:20:29 h. El jefe de despacho del CDP Praga, tras recibir la notificación, se dirigió a la sala 4A del CDP Praga, desde la que se volvió a dirigir al operador del HZS SŽ mediante una llamada a las 14:22:21 h y le solicitó que precisara el lugar. En la llamada ya se mencionó, sin embargo, que se había producido la MU. A continuación, el jefe de despacho del CDP Praga informó al operador del HZS SŽ de que a las 14:20 h se detenía la circulación.
@@ -1102,8 +1100,8 @@ al despachador de línea 2C del CDP Přerov, que gestionaba dicha línea;
 •
 al jefe de estación en la estación Česká Třebová (St 019);
 
-
 ## Página 37
+
 
 •
 al jefe de estación en la estación Česká Třebová (St 014);
@@ -1132,8 +1130,8 @@ justo en esa llanura, ¿verdad?, hacia Česká.
 Operador del HZS SŽ: Mmm...
 Operador del IZS: Pues por ahí donde está el almacén, el depósito y todo esto…
 
-
 ## Página 38
+
 
 Operador del HZS SŽ: Mmm…
 Operador del IZS: Y al lado un vertedero de material, ¿vale.
@@ -1176,6 +1174,7 @@ derramado parcialmente gravilla sobre la vía. Es
 
 ## Página 39
 
+
 es la vía del corredor junto a la carretera número 14, kilómetro 243.
 Jefe de despachador CDP Přerov: Espere… voy a mirar en el mapa.
 14:18:56 h – 14:19:07 h
@@ -1214,8 +1213,8 @@ Análisis de la situación desde el punto de vista de la prolongación innecesar
 Ad 1) El ahorro de tiempo pudo haberse producido ya en la llamada que mantuvieron el operador de IZS y el operador de HZS SŽ.
 El operador de HZS SŽ sabía a más tardar a las 14:17:20 h, es decir, 2 minutos y 32 s antes de la aparición de la MU, lo que había ocurrido, dónde se encontraba el lugar y que era necesario detener la circulación. La información facilitada en la llamada posteriormente, entre las 14:17:20 h y las 14:17:59 h, era innecesaria e irrelevante desde el punto de vista del peligro de demora, y solo alargó la llamada. Esta discusión posterior no aportó ningún hecho nuevo y solo puso de manifiesto la incertidumbre y cierto temor del operador de HZS SŽ ante la reacción del CDP a la
 
-
 ## Página 40
+
 
 solicitud de detener la circulación, lo cual no le corresponde. El tiempo total que pudo haberse ahorrado en esta llamada asciende a 39 s.
 ### La MU se produjo a las 14:19:52 h
@@ -1225,8 +1224,8 @@ Además, en vista de la gravedad y urgencia de la situación notificada, es nece
 La llamada, en la que el operador de IZS llamó al operador de HZS SŽ, comenzó a sonar a las 14:16:31 h, la MU se produjo a las 14:19:52 h. El tiempo disponible para realizar las llamadas y detener la circulación, desde este punto de vista, fue de 3 minutos y 21 s en total. Si tenemos en cuenta que, debido a la urgencia de la situación y la gravedad de la información recibida, era necesario actuar con rapidez por el peligro de demora, la información sobre la necesidad de detener la circulación por razones de seguridad debió ser, si era posible, lo más concisa posible y libre de información innecesaria – por ejemplo, acordar quién irá al lugar del obstáculo y con qué, a quién no le gustará o a quién pertenece qué tramo de vía en su ámbito. La duración de las llamadas debe ser en tales situaciones lo más breve posible y la reacción de los implicados lo más decidida y rápida posible. Para una transmisión clara y concisa de dicha información basta sobradamente un tiempo de 25 – 30 s por llamada; contando dos llamadas, los tiempos de tono de llamada y la reacción posterior de la persona al final de la cadena de transmisión de esta información, toda la acción puede realizarse, incluso en el sistema actualmente establecido de su transmisión, en un tiempo que no exceda de 1,5 – 2 minutos. El tiempo de 3 minutos y 21 s era, por tanto, suficiente para detener el tren. En el caso de que en el futuro se modifique todo el sistema y se acorte notablemente la transmisión de información, este tiempo se reducirá aún más.
 Sobre la base de los análisis anteriores, que se basan en el estado real, puede constatarse que el operador de HZS SŽ y el jefe de despachador de CDP Přerov percibieron insuficientemente el riesgo de la situación producida. En sus llamadas, que fueron demasiado largas y extensas en relación con la situación, se apreció no solo incertidumbre en la localización del lugar de la MU, sino también una falta de mayor urgencia y énfasis con respecto a
 
-
 ## Página 41
+
 
 la infracción del perfil de carga, la aparición de un obstáculo y la posterior necesidad, ya indudable, de detener la circulación en la vía lo antes posible por razones de seguridad. El trabajo de los operadores requiere una combinación de conocimientos profesionales, habilidades de comunicación y destrezas técnicas, también para que no se produzcan demoras temporales innecesarias – las llamadas deben durar mucho menos tiempo.
 Sin embargo, en el resultado final se sumaron todos los negativos (el sistema actualmente establecido en el proceso de notificación de incidencias desde IZS a través de intermediarios y las demoras temporales innecesarias en las llamadas) y el tiempo resultante (32 s) que realmente quedaba para realizar las acciones necesarias para detener el tren ya no garantizaba que se pudiera evitar la MU. Pero si la comunicación se hubiera realizado de forma más concisa y urgente (por ejemplo, solo transmitiendo la escueta información sobre la necesidad de detener la circulación en el tramo entre estaciones correspondiente, sin más información que retrasa la propia detención de la circulación y que puede comunicarse posteriormente), no se habría producido la prolongación innecesaria de las llamadas ajena a la urgencia de la situación, el jefe de despachador habría reaccionado correctamente y con prontitud, de modo que es real que, en el plazo de 71 s, incluso con un sistema de notificación configurado de forma incorrecta desde el punto de vista de la seguridad, hubiera sido posible evitar la MU y detener el tren a tiempo.
@@ -1239,8 +1238,8 @@ En la investigación se constató la infracción de normas legales y reglamentos
 •
 artículo 272 del reglamento interno SŽDC D1:
 
-
 ## Página 42
+
 
 «Cada empleado es personalmente responsable del correcto desempeño del servicio de tráfico. Si al empleado le son conocidas circunstancias que ponen en peligro la seguridad, debe tomar de inmediato todas las medidas para evitar el peligro y advertir de ello al empleado superior directo»;
 •
@@ -1261,6 +1260,7 @@ En la investigación no se constató infracción de las funciones y obligaciones
 
 ## Página 43
 
+
 ### 4.1.3 Fabricantes de material rodante ferroviario u otros proveedores de instalaciones ferroviarias
 En la investigación no se detectó infracción de las funciones y obligaciones de los fabricantes de material rodante ferroviario ni de otros proveedores de productos ferroviarios.
 ### 4.1.4 Autoridades nacionales de seguridad y Agencia Ferroviaria de la Unión Europea
@@ -1277,8 +1277,8 @@ El concepto de «accidente de tráfico» está definido en la disposición § 47
 La citada disposición de la Ley n.º 361/2000 Sb. establece igualmente las obligaciones del conductor que participó en el accidente de tráfico y las obligaciones de los participantes en el accidente de tráfico.
 De la fuente https://www.policie.cz/clanek/vysetrovani-dopravnich-nehod.aspx se deduce que:
 
-
 ## Página 44
+
 
 •
 la metodología de investigación de accidentes de tráfico está regulada por la instrucción vinculante n.º 160/2009 del presidente de la Policía, por la que se regula el procedimiento en el ámbito de la seguridad y la fluidez del tráfico por carretera;
@@ -1298,8 +1298,8 @@ En la investigación no se detectaron factores derivados del mantenimiento y la 
 ### 4.2.5 Factores o consecuencias relacionados con el organismo responsable del mantenimiento del material rodante ferroviario, los talleres de mantenimiento y otros prestadores de servicios de mantenimiento
 En la investigación no se detectaron factores relacionados con el organismo responsable del mantenimiento del material rodante ferroviario, con los talleres de mantenimiento ni con otros prestadores de servicios de mantenimiento.
 
-
 ## Página 45
+
 
 4.2.6 Otros factores o consecuencias que se consideren relevantes a efectos de la investigación
 En la investigación no se detectaron otros factores relacionados con el material rodante ferroviario, la infraestructura ferroviaria o las instalaciones técnicas.
@@ -1322,44 +1322,42 @@ En los procedimientos, métodos, contenido y resultados de las actividades de ev
 ### 4.4.3 Sistema de garantía de la seguridad de los transportistas y gestores de vías implicados
 En el sistema de garantía de la seguridad adoptado por el gestor de la vía, relacionado con las circunstancias de la aparición de la MU en cuestión, se detectaron deficiencias en el sistema actualmente configurado, concretamente en el proceso de notificación de emergencias desde el IZS a través de intermediarios (operadores del HZS SŽ y jefes de despacho del CDP), que no pueden detener la circulación en la vía (fuera de los pasos a nivel ferroviarios
 
-
 ## Página 46
 
-). De este modo se produce una prolongación y ralentización significativas de todo el proceso que conduce a la detención de la circulación en el momento en que existe riesgo de demora. Los operadores del IZS no tienen así la posibilidad de llamar directamente a los contactos de los empleados operativos correspondientes, que tienen la posibilidad directa de detener de inmediato la circulación en la línea afectada (para más detalles, véanse los capítulos 4.1.1 y 4.1.7 de este ZZ).
-En el sistema de garantía de la seguridad adoptado por el transportista, relacionado con las circunstancias de la aparición de la MU en cuestión, no se detectó ninguna deficiencia.
-### 4.4.4 Sistema de gestión de los organismos responsables del mantenimiento del material rodante ferroviario y de los talleres de mantenimiento
-El sistema de gestión de los organismos responsables del mantenimiento del material rodante ferroviario y de los talleres de mantenimiento no guardaba relación con la aparición de la MU.
+paso a nivel). De este modo se produce una prolongación y ralentización significativas de todo el proceso que conduce a la paralización de la explotación en el momento en que existe riesgo de demora. Los operadores del SIU (servicio de emergencias) no tienen así la posibilidad de llamar directamente a los contactos de los empleados operativos correspondientes que tienen la posibilidad directa de detener inmediatamente la explotación en la línea afectada (para más detalles, véanse los apartados 4.1.1 y 4.1.7 de la presente ZZ). En el sistema de garantía de seguridad del transportista adoptado, relacionado con las circunstancias de la aparición de la MU en cuestión, no se detectó ninguna deficiencia.
+### 4.4.4 Sistema de gestión de los sujetos responsables del mantenimiento del material rodante y de los talleres de mantenimiento
+El sistema de gestión de los sujetos responsables del mantenimiento del material rodante y de los talleres de mantenimiento no guardaba relación con la aparición de la MU.
 ### 4.4.5 Resultados de la supervisión realizada por las autoridades nacionales de seguridad
-Atendiendo a los factores detectados y a las circunstancias de la aparición de la MU, la supervisión de la autoridad de seguridad no guarda relación con la MU en cuestión.
-### 4.4.6 Aprobaciones, certificados e informes de evaluación emitidos por la agencia, las autoridades nacionales de seguridad u otros organismos de evaluación de la conformidad
-El gestor de la vía explotaba la vía en virtud de una autorización administrativa vigente y de un certificado de seguridad del gestor de la vía. El transportista explotaba el transporte ferroviario en virtud de una licencia vigente y de un certificado del transportista.
+En vista de los factores y circunstancias detectados relativos a la aparición de la MU, la supervisión de la autoridad de seguridad no guarda relación con la MU en cuestión.
+### 4.4.6 Aprobaciones, certificados y dictámenes de evaluación emitidos por la agencia, las autoridades nacionales de seguridad u otros sujetos de evaluación de la conformidad
+El gestor de la infraestructura explotaba la infraestructura en virtud de una autorización administrativa vigente y de un certificado de seguridad del gestor de la infraestructura. El transportista explotaba el transporte ferroviario en virtud de una licencia vigente y de un certificado del transportista.
 ### 4.4.7 Otros factores sistémicos
-En la investigación se detectaron factores sistémicos adversos que actúan en la interfaz entre el IZS y el gestor de la vía SŽ en la transmisión de la información de seguridad sobre la aparición de una amenaza a la vía y al transporte ferroviario (fuera de los pasos a nivel ferroviarios) al empleado competente, que tiene la posibilidad de detener de inmediato la circulación.
-A partir del análisis temporal expuesto en el capítulo 3.2.1 y dado que desde el momento de la aparición del accidente de tráfico en la vía pública hasta la colisión del tren Ex 1254 con el obstáculo transcurrieron más de 7 minutos, el DI realizó un análisis de la configuración de las reglas de comunicación entre el KOPIS del HZS ČR (así como de sus posibilidades técnicas en el ámbito del apoyo informático) y el gestor de la vía SŽ en la transmisión de la información de seguridad sobre amenazas a la seguridad de la explotación de la vía y del transporte ferroviario fuera de los pasos a nivel ferroviarios.
-La recepción de la llamada de emergencia al número 112 se rige por el documento «Pravidla pro činnost telefonních center tísňového volání 112» emitido por la GŘ del HZS ČR, en la versión del documento vigente n.º de referencia MV-157308-4/PO-OPŘ-2020 de fecha 24 de febrero de 2020. En él se establecen concretamente los procedimientos que deben seguir los operadores en estas situaciones. El procedimiento de detención del transporte ferroviario se regula asimismo en el «Acuerdo de cooperación» entre el Ministerio del Interior, GŘ del HZS ČR, y el SŽ de fecha 14. 2. 2012, emitido bajo el n.º de referencia MV-16663-1/PO-IZS-2012, y en su anexo n.º 8 «Procedimiento para garantizar la seguridad en el ferrocarril» (en adelante también el acuerdo). Dicho acuerdo regula los principios de colaboración entre el SŽ y el HZS ČR en la realización de trabajos de rescate en incendios, catástrofes naturales y otros acontecimientos excepcionales en el ferrocarril y fuera de él, especialmente en el ámbito del uso y la utilización de los medios y recursos del HZS SŽ.
+En el curso de la investigación se detectaron factores sistémicos desfavorables que actúan en la interfaz entre el SIU y el gestor de la infraestructura SŽ en la transmisión de la información de seguridad relativa a la aparición de una amenaza a la infraestructura y al transporte ferroviario (fuera de los pasos a nivel) al empleado competente que tiene la posibilidad de detener inmediatamente la explotación.
+A partir del análisis temporal expuesto en el apartado 3.2.1 y dado que desde el momento de la aparición del accidente de tráfico en la vía pública hasta la colisión del tren Ex 1254 con el obstáculo transcurrieron más de 7 minutos, la DI realizó un análisis de la configuración de las reglas de comunicación entre el KOPIS HZS ČR (así como de sus posibilidades técnicas en el ámbito del soporte informático) y el gestor de la infraestructura SŽ en la transmisión de las informaciones de seguridad relativas a la amenaza a la seguridad de la explotación de la infraestructura y del transporte ferroviario fuera de los pasos a nivel.  
+La recepción de la llamada de emergencia al número 112 se rige por el documento «Pravidla pro činnost telefonních center tísňového volání 112» (Reglas para el funcionamiento de los centros telefónicos de llamadas de emergencia 112) emitido por la GŘ HZS ČR, en la versión del documento vigente n.º de referencia MV-157308-4/PO-OPŘ-2020 de fecha 24 de febrero de 2020. En él se establecen concretamente los procedimientos que deben seguir los operadores en estas situaciones. El procedimiento de paralización del transporte ferroviario también se recoge en el «Dohoda o spolupráci» (Acuerdo de colaboración) entre el Ministerio del Interior, GŘ HZS ČR, y SŽ de fecha 14. 2. 2012, emitido bajo el n.º de referencia MV-16663-1/PO-IZS-2012, y en su anexo n.º 8 «Postup pro zajištění bezpečnosti na železnici» (Procedimiento para garantizar la seguridad en el ferrocarril) (en lo sucesivo, también acuerdo). Este acuerdo regula los principios de colaboración entre SŽ y HZS ČR en la realización de las labores de salvamento en incendios, catástrofes naturales y otros acontecimientos excepcionales en el ferrocarril y fuera de él, especialmente en el ámbito del empleo y utilización de los efectivos y medios de HZS SŽ.
 
 ## Página 47
 
-En el anexo n.º 8 del acuerdo anteriormente mencionado se indica que HZS SŽ, en caso de que lo solicite el KOPIS correspondiente para resolver una emergencia en el ferrocarril, garantizará para las unidades JPO de HZS ČR:
+En el anexo n.º 8 del acuerdo anteriormente mencionado se indica que HZS SŽ, en caso de solicitud del KOPIS correspondiente para resolver una incidencia ferroviaria, garantizará para las JPO de HZS ČR:
 •
-el corte de la catenaria por parte del despachador eléctrico correspondiente y la posterior garantía de un estado seguro de la catenaria mediante cortocircuito, ya sea por parte de empleados de HZS SŽ o del despachador eléctrico;
+el corte de la catenaria por parte del electrodespachador correspondiente y la posterior garantía del estado seguro de la catenaria mediante cortocircuito, ya sea por parte de empleados de HZS SŽ o del electrodespachador;
 •
-la parada de la circulación ferroviaria a través del despachador de explotación correspondiente o del despachador central;
+la parada de la explotación ferroviaria a través del despachador de explotación correspondiente o del despachador central;
 •
-la notificación a los empleados responsables correspondientes que dirigen la circulación en las estaciones ferroviarias principales de la solicitud de parada de la circulación en el lugar de resolución de la emergencia en el tramo ferroviario correspondiente.
-La solicitud del KOPIS debe contener claramente, entre otros:
+la notificación a los empleados responsables correspondientes que dirigen la explotación en las estaciones ferroviarias nodales de la solicitud de parada de la explotación en el lugar de resolución de la incidencia en el tramo ferroviario correspondiente.
+La solicitud del KOPIS debe contener de forma inequívoca, en particular:
 •
-si se solicita una unidad JPO de HZS SŽ;
+si se solicita una JPO de HZS SŽ;
 •
 si se solicita el corte de la catenaria;
 •
-si se solicita la parada de la circulación ferroviaria.
-En este acuerdo, como socios de contacto para el KOPIS de HZS ČR, se designan las Centrales de Incendios (Ohlašovny požáru) de HZS SŽ (las unidades JPO individuales de HZS). La información sobre la necesidad de detener la circulación ferroviaria viaja así primero a la organización de SŽ, que no tiene relación directa con la organización del transporte ferroviario. La Central de Incendios de HZS SŽ, de acuerdo con el contrato, garantiza a continuación la información al resto de componentes, en concreto al jefe de despacho en el CDP Praga o Přerov y al despachador eléctrico. Corresponde, por tanto, al jefe de despacho contactar con el empleado de explotación correspondiente que tiene la posibilidad de detener la circulación en el tramo en cuestión.
-El operador de la línea de emergencias 112 recibió el aviso de un accidente de tráfico de un testigo. Realizó la extracción de la información del suceso con la mayor rapidez posible, cumplimentó la información del suceso en el mensaje de datos y transmitió el suceso para su resolución a los componentes del IZS – HZS y PČR. Tal como indicó en su declaración de explicación, dado que el informante comunicaba que había carga derramada en la vía, para enfatizar la importancia informó verbalmente al oficial de operaciones que se encontraba en la misma sala sobre el hecho de que sería necesario detener la circulación en el tramo. Con la información trabajó a continuación el oficial de operaciones, cuya función es el envío de fuerzas y medios al lugar del suceso según su carácter. Además del mensaje de datos, que envió también a HZS SŽ, contactó al operador de HZS SŽ de la unidad JPO Česká Třebová, y ello sobre la base del acuerdo descrito anteriormente. Tal como indicó también en su declaración de explicación, en los sucesos relacionados con la vía llama siempre a HZS SŽ.
-Los operadores del IZS disponen de un sistema de información geográfica al que es posible añadir diversas capas dinámicas o cartográficas predefinidas que los operadores pueden visualizar según el tipo de sucesos y en las que se muestran información y contactos importantes. En relación con el ferrocarril, allí están disponibles, por ejemplo, la posición en km del tramo, la visualización de paradas ferroviarias, estaciones y pasos a nivel. En los pasos a nivel, el sistema está configurado de tal manera que en este sistema de información geográfica (entre otra información) se importan datos de la llamada Informe de pasos a nivel (Tabla de pasos a nivel) emitido con periodicidad semanal por el explotador de la vía SŽ, que contiene contactos de los jefes de estación (výpravčí) capaces de detener la circulación en el tramo correspondiente, y de los despachadores, incluida la prioridad de notificación. Al resolver el suceso, se llama al número de teléfono prioritario y, al mismo tiempo, se informa a HZS SŽ del suceso. En la capa cartográfica, el operador del IZS dispone así de 3 contactos: el número de teléfono del jefe de estación, el número de teléfono del despachador 1 (despachador de explotación) y el número de teléfono del despachador 2 (jefe de despacho).
-
+si se solicita la parada de la explotación ferroviaria.
+En este acuerdo, como socios de contacto para el KOPIS de HZS ČR, se designan las Estaciones de Incendio de HZS SŽ (las JPO individuales de HZS). La información sobre la necesidad de parar la explotación ferroviaria viaja así primero a la unidad organizativa de SŽ, que no tiene relación directa con la organización del transporte ferroviario. La Estación de Incendio de HZS SŽ garantiza, según el contrato, la información al resto de unidades, en particular al jefe de despacho en CDP Praha o Přerov y al electrodespachador. Corresponde así al jefe de despacho contactar al empleado de explotación correspondiente que tiene la posibilidad de parar la explotación en la vía en cuestión.
+El operador de la línea de emergencia 112 recibió la notificación de un accidente de tráfico de un testigo. Realizó la extracción de la información del suceso con la mayor rapidez posible, cumplimentó la información del suceso en la frase de datos y transmitió el suceso para su resolución a las unidades del IZS – HZS y PČR. Como indicó en su declaración de explicación, dado que el informante comunicaba que había carga volcada en la vía, para enfatizar la importancia informó verbalmente al oficial de operaciones que se encontraba en la misma sala de la circunstancia de que habría que parar la explotación en la vía. Con esa información trabajó a continuación el oficial de operaciones, cuya función es el envío de fuerzas y medios al lugar del suceso según su carácter. Además de la frase de datos, que envió también a HZS SŽ, contactó al operador de HZS SŽ JPO Česká Třebová, y ello sobre la base del acuerdo descrito anteriormente. Como indicó también en su declaración de explicación, en los sucesos relacionados con la vía llama siempre a HZS SŽ.
+Los operadores del IZS disponen de un sistema de información geográfica, al que es posible añadir diferentes capas dinámicas o cartográficas predefinidas que los operadores pueden visualizar según el tipo de sucesos y en las que se muestran información y contactos importantes. En relación con el ferrocarril, allí están disponibles, por ejemplo, los puntos kilométricos de la posición de la vía, la visualización de paradas ferroviarias, estaciones y pasos a nivel. En los pasos a nivel, el sistema está configurado de tal manera que en este sistema de información geográfica (además de otra información) se importan datos de la llamada Sestava přejezdů (Tabla de pasos a nivel) emitida con periodicidad semanal por el explotador de la vía SŽ, que contiene contactos a los jefes de estación, que son capaces de parar la explotación en el tramo en cuestión, y a los despachadores, incluida la prioridad de notificación. Al resolver el suceso se llama al número de teléfono prioritario y, al mismo tiempo, se informa a HZS SŽ del suceso. En la capa cartográfica, el operador del IZS dispone así de 3 contactos – el número de teléfono del jefe de estación, el número de teléfono del despachador 1 (despachador de explotación) y el número de teléfono del despachador 2 (jefe de despacho).
 
 ## Página 48
+
 
 La emergencia en cuestión ocurrió en un tramo al aire libre, en el tramo entre estaciones. No está configurado en los centros de operaciones de HZS ČR un sistema eficaz de orientación electrónica y de posibilidad inmediata de generar contactos de los empleados de SŽ que dirigen la circulación ante una amenaza en el espacio de vías fuera de los pasos a nivel. En este caso, los operadores del IZS no tienen la posibilidad, sobre la base cartográfica del sistema de información geográfica, al visualizar la kilométrica del tramo o del área cercana al lugar en la vía, de generar contactos de los empleados de explotación correspondientes que tienen la posibilidad directa de detener la circulación en el tramo en cuestión.
 Del comportamiento anteriormente descrito de los empleados del KOPIS de HZS ČR (operadores del IZS), que garantiza el funcionamiento de la línea 112, no se produjo ninguna infracción de normas ni de procedimientos de trabajo; sin embargo, al contactar el oficial de operaciones, en el sistema configurado, al operador de HZS SŽ, se produjo en la notificación posterior la intervención de un intermediario que no puede detener la circulación en la vía, y con ello una ralentización significativa de todo el proceso que conduce a la parada de la circulación.
@@ -1370,8 +1368,8 @@ SŽ: el explotador de la vía indicó que las obligaciones y medidas del explota
 2) Con qué procedimientos contaban, en el momento de la ocurrencia de la emergencia en cuestión, los jefes de despacho del CDP Praga y del CDP Přerov para la recepción de una solicitud de detención del transporte ferroviario (en adelante, circulación) en su ámbito de dirección o en el ámbito vecino.
 SŽ: los ámbitos de competencia territorial de los jefes de despacho están recogidos en la Orden de Ejecución de la norma SŽDC D7 parte A. El jefe de despacho detiene la circulación a través del despachador de tramo o del jefe de estación que dirige la circulación en la estación correspondiente o en el tramo ferroviario correspondiente. También puede solicitar la colaboración del despachador de explotación para la parada de la circulación.
 
-
 ## Página 49
+
 
 3) Cómo estaba compuesto, en el momento de la ocurrencia de la emergencia en cuestión, y qué contactos contenía la cadena para la transmisión de la solicitud de parada de la circulación desde el jefe de despacho del CDP Praga y del CDP Přerov hacia el empleado de dirección de la circulación, capaz de ejecutar la solicitud anteriormente mencionada mediante medios técnicos.
 SŽ: tras recibir la información de HZS, el jefe de despacho del CDP Praga contactó personalmente con el despachador de explotación en la sala de tráfico correspondiente (fue necesario precisar el lugar del obstáculo tras la información imprecisa de HZS). A continuación, la información se dirige al despachador de tramo (jefe de estación), que garantiza la parada de la circulación. El CDP Přerov indicó que, en la emergencia en cuestión, se utilizaron los contactos predefinidos en el panel de comunicaciones del puesto de trabajo del jefe de despacho del CDP Přerov, donde están almacenados contactos importantes de empleados de explotación y de transportistas. En este caso, el jefe de despacho del CDP Přerov remitió al representante de HZS SŽ al jefe de despacho del CDP Praga, dado que la posición kilométrica comunicada por parte de HZS SŽ era errónea. Esta posición, según la afirmación de SŽ, se refería directamente a la estación Česká Třebová. (Nota de la DI: la posición kilométrica del lugar de la emergencia fue comunicada casi con exactitud, solo que el km de otro tramo, que sin embargo es paralelo al tramo y al lugar de la emergencia; al final se comunicó que estaba entre la estación Třebovice v Čechách y la estación Česká Třebová).
@@ -1384,6 +1382,7 @@ SŽ: en el CDP Přerov transcurrió la formación en el puesto de jefe de despac
 
 ## Página 50
 
+
 las funciones individuales (actividades) relacionadas con la explotación de la vía y la organización del transporte ferroviario, instrucciones organizativas y programas de exámenes técnicos prescritos para alcanzar el grado requerido de cualificación profesional de las actividades laborales individuales (funciones).
 En esta respuesta, SŽ no indicó las disposiciones concretas a partir de las cuales fuera apreciable cómo se resuelven sistemáticamente estas situaciones. En las normativas indicadas, además de los artículos mencionados anteriormente de la norma SŽDC D1 y del reglamento de ejecución de la norma SŽDC D7, los artículos tienen más bien un carácter general o se refieren a situaciones posteriores a la producción de la MU. No obstante, el explotador de la vía indicó que el jefe de despacho, tras recibir información de los servicios del SIU sobre una posible amenaza a la explotación, contacta directamente con el jefe de estación o el despachador de línea y ordena adoptar medidas para la parada inmediata de la explotación y la evitación de la MU. La solución de la situación es considerablemente individual y parte también de una cierta lógica de los hechos. En base a lo anterior, es por tanto deseable que el explotador de la vía especifique de forma más detallada y concreta en sus normas internas y en las obligaciones de los distintos empleados los riesgos junto con las medidas que tiene indicadas en el SZB, a fin de que quede claro cómo deben reaccionar en situaciones similares.
 Ambos jefes de despacho de CDP Přerov y CDP Praha, en lugar de establecer, en base a la información y a la petición de parada de la explotación, un estado seguro —lo cual en este caso era la parada de la explotación en el tramo que les había sido claramente identificado—, abordaron, entre otras, una cuestión totalmente secundaria: si el tramo afectado entre Česká Třebová y Třebovice v Čechách se encontraba en el ámbito de CDP Přerov o en el de CDP Praha. No se comunicaron directamente entre sí, aunque pudieron hacerlo, sino que dejaron que esta cuestión se resolviera telefónicamente a través de otro intermediario, el operador HZS SŽ. Con ello se producía una demora adicional e innecesaria del acto importante en ese momento, que era la parada de la explotación, y una prolongación significativa del tiempo que se iba acortando hasta la producción de la MU. Ya el jefe de despacho de CDP Přerov debió intentar sin demora parar la explotación (aunque en este caso ya no habría llegado a tiempo) e intentar evitar la posibilidad de producción de la MU. Es necesario señalar que ni el jefe de despacho ni el despachador operativo disponen de medios técnicos para la parada de emergencia de trenes.
@@ -1391,24 +1390,32 @@ El acuerdo de colaboración descrito al comienzo de este capítulo está enfocad
 La generación de contactos dirigidos a empleados del explotador de la vía que sean capaces de parar la explotación ante la producción de una amenaza en la vía al aire libre o en el ámbito de las estaciones de tráfico no está configurada actualmente y no corresponde con el sistema ya configurado de transmisión de información sobre la producción de amenazas a la vía y al transporte ferroviario en el espacio de los pasos a nivel ferroviarios. Este fue elaborado y configurado eficazmente gracias a la reacción de los órganos competentes a la recomendación de seguridad de la Inspección Ferroviaria (véase el capítulo 4.5 de este ZZ).
 Para el caso de una petición y necesidad de parada inmediata y rápida de la explotación, es imprescindible eliminar de la cadena de llamadas a los sujetos que no son capaces de ello de forma inmediata (no está técnica y operativamente en sus posibilidades). En este caso concreto se trata del HZS SŽ y de los jefes y despachadores operativos de CDP Přerov y CDP Praha, ya que con ello en una situación crítica solo se prolongan las duraciones de las distintas llamadas y se retrasa el acto necesario
 
-
 ## Página 51
 
-que, con una ejecución oportuna, en el caso extremo, puede evitar la producción de la MU y sus consecuencias.
-Si el oficial de operaciones del SIU tuviera en el fondo cartográfico, al trabajar con la capa que muestra la kilométrica de la línea, también la posibilidad de mostrar el contacto directo con el empleado que dirige en dicho tramo de línea el transporte ferroviario con la posibilidad de pararlo directamente, se habría producido en la cadena de transmisión de la información un salto de los intermediarios mencionados anteriormente con suficiente antelación antes de la producción de la MU en cuestión y a una distancia suficiente del tren respecto al lugar de la MU. En el caso de que este empleado hubiera reaccionado correctamente y sin demoras innecesarias a la información de relevancia para la seguridad, podría haber dado la orden de parar el tren Ex 1254. Con un sistema configurado y funcionando de esta manera, esta MU no habría tenido por qué producirse en absoluto.
-De las reuniones y entrevistas personales entre DI, HZS ČR y HZS SŽ se desprende que las posibilidades actuales permitirían ampliar la tecnología, que ya es funcional en los pasos a nivel ferroviarios, a los tramos de estaciones ferroviarias y de líneas entre las distintas estaciones mostrados.
-Del análisis general de la forma de transmisión de la información con la petición de parada del transporte ferroviario en el tiempo anterior a la producción de la MU en cuestión se desprende que la forma básica que conduce a la parada oportuna del tren es configurar el sistema de modo que, en la transmisión de la información de relevancia para la seguridad, figure el número mínimo de participantes y sin intermediarios adicionales. Este hallazgo fue tenido en cuenta por DI en el capítulo 6 de este ZZ en el texto de la propuesta de recomendación de seguridad.
-### 4.5 Sucesos anteriores de naturaleza similar
-DI investigó en el período comprendido entre el 1. 1. 2010 y la fecha de producción de la MU en cuestión, en las vías ferroviarias de categoría nacional y regional,² 2 MU análogas, en las que se produjo la aparición de un obstáculo (en los casos indicados a continuación, un vehículo motorizado por carretera) en el perfil de paso de la vía explotada, con el consiguiente intento de parada del transporte ferroviario:
-•
-del día 15. 3. 2014 entre las estaciones Červenka y Moravičany, donde se produjo la colisión del tren Ex 444 con un automóvil en el PPF P6520. La causa inmediata de la producción de la MU fue el atasco del automóvil en el paso a nivel ferroviario P6520 y la no parada del transporte ferroviario entre las estaciones ferroviarias Červenka y Moravičany, en el paso a nivel ferroviario P6520, tras recibir la petición de parada. En la MU no se produjeron lesiones y el daño material total se cifró en 1 513 132 Kč.
-•
-del día 18. 9. 2018 en la estación Kralupy nad Vltavou předměstí, donde se produjo la colisión del tren Os 9705 con una formación de circulación en el paso a nivel ferroviario P2114. La causa inmediata de la producción de la MU fue el atasco de la formación de circulación en el perfil de paso de la vía en el paso a nivel ferroviario, su no retirada antes de la llegada del tren y la no advertencia al maquinista ni al explotador de la vía de este peligro. En la MU se produjo daño a la salud en 3 pasajeros del tren Os 9705. El daño material total se cifró en 3 431 500 Kč.
-DI emitió al explotador de la vía SŽDC, en base a los resultados de la investigación de las causas y circunstancias de la producción de la MU del día 15. 3. 2014 a las 4:19 h entre las estaciones Červenka y Moravičany, la Recomendación de Seguridad n.º de ref.: 748/2014/DI, del día 8. 12. 2014.
-El objeto de la Recomendación de Seguridad fue:
+acción que, en caso de realizarse a tiempo, en el peor de los casos, podría evitar la aparición de MU y sus consecuencias.
 
+Si el oficial de operaciones de IZS tuviera en el fondo cartográfico, al trabajar con la capa que muestra la kilométrica de la línea, también la posibilidad de mostrar el contacto directo con el empleado que dirige el tráfico ferroviario en el tramo de línea correspondiente, con la posibilidad de detenerlo directamente, se produciría en la cadena de transmisión de información un salto de los intermediarios mencionados anteriormente, con suficiente antelación antes de la aparición de la MU en cuestión y a una distancia suficiente del tren respecto al lugar de la MU. En caso de que este empleado reaccionara correctamente y sin demoras innecesarias a la información de relevancia para la seguridad, podría dar la orden de detener el tren Ex 1254. Con un sistema configurado y funcionando de esta manera, la aparición de esta MU no tendría por qué haberse producido en absoluto.
+
+De las reuniones y conversaciones personales entre DI, HZS ČR y HZS SŽ se desprende que las posibilidades actuales permitirían ampliar la tecnología, que ya es funcional en los pasos a nivel ferroviarios, a las secciones de estaciones ferroviarias y tramos de líneas entre las distintas estaciones mostrados.
+
+Del análisis general de la forma de transmisión de la información con la solicitud de detener el tráfico ferroviario en el periodo anterior a la aparición de la MU en cuestión se desprende que la forma básica que conduce a la detención oportuna del tren es la configuración del sistema en la transmisión de la información de relevancia para la seguridad de manera que en ella figure el número mínimo de participantes y sin intermediarios adicionales. Este hallazgo fue tenido en cuenta por DI en el capítulo 6 de esta ZZ en el texto de la propuesta de recomendación de seguridad.
+
+### 4.5 Sucesos anteriores de naturaleza similar
+
+DI investigó en el periodo desde el 1. 1. 2010 hasta la aparición de la MU en cuestión, en las vías ferroviarias de categoría nacional y regional,2 2 MU similares, en las que se produjo la aparición de un obstáculo (en los casos indicados a continuación, un vehículo motorizado por carretera) en el perfil de paso de la vía en servicio, con el posterior intento de detener el tráfico ferroviario:
+
+•
+del 15. 3. 2014 entre las estaciones Červenka y Moravičany, donde se produjo la colisión del tren Ex 444 con un automóvil en el paso a nivel P6520. La causa inmediata de la aparición de la MU fue el atasco del automóvil en el paso a nivel ferroviario P6520 y la no detención del tráfico ferroviario entre las estaciones ferroviarias Červenka y Moravičany, en el paso a nivel ferroviario P6520, tras recibir la solicitud de detenerlo. En la MU no se produjeron lesiones y el daño material total se cifró en 1 513 132 Kč.
+
+•
+del 18. 9. 2018 en la estación Kralupy nad Vltavou předměstí, donde se produjo la colisión del tren Os 9705 con un tren de vehículos en el paso a nivel ferroviario P2114. La causa inmediata de la aparición de la MU fue el atasco del tren de vehículos en el perfil de paso de la vía en el paso a nivel ferroviario, su no retirada antes de la llegada del tren y la no advertencia al maquinista ni al gestor de la vía de este peligro. En la MU se produjeron lesiones en 3 pasajeros del tren Os 9705. El daño material total se cifró en 3 431 500 Kč.
+
+DI emitió al gestor de la vía SŽDC, con base en los resultados de la investigación de las causas y circunstancias de la aparición de la MU del 15. 3. 2014 a las 4:19 h entre las estaciones Červenka y Moravičany, la Recomendación de Seguridad n.º de expediente: 748/2014/DI, de fecha 8. 12. 2014.
+
+El objeto de la Recomendación de Seguridad era:
 
 ## Página 52
+
 
 •
 establecer para el sistema integrado de emergencia la prioridad (importancia en el orden) de los contactos telefónicos a los que debe el operador del sistema integrado de emergencia, ante un peligro inminente de retraso, contactar con el explotador de la vía y transmitir la petición de adopción de medidas para garantizar la explotación segura de la vía y del transporte ferroviario.
@@ -1428,6 +1435,7 @@ en el sistema configurado figure, en la transmisión de la información, el núm
 
 ## Página 53
 
+
 •
 el contacto preferido se determinará de tal manera que se elimine al máximo su confusión con otros contactos;
 •
@@ -1444,8 +1452,8 @@ la creación de un obstáculo por el vertido de carga en el perfil de paso de la
 •
 la no detención del tráfico ferroviario entre las estaciones de Třebovice v Čechách y Česká Třebová.
 
-
 ## Página 54
+
 
 Factor contribuyente:
 •
@@ -1479,8 +1487,8 @@ el jefe de despachadores del CDP Přerov, después de enterarse de la violación
 ### Additional observations
 At infrastructure manager SŽ:
 
-
 ## Página 55
+
 
 •
 the dispatcher supervisor of CDP Přerov did not act in such a way as to prevent an
@@ -1521,8 +1529,8 @@ Addressed to the Ministry of Transport of the Czech Republic:
 to select places in the road network where the road is so close to the national and
 regional railway that in the event of a road vehicle coming off the verge there is a
 
-
 ## Página 56
+
 
 risk of the cargo falling or dumped into the structure gauge of the operated track.
 Consequently to perform the installation of restraint systems which eliminate this
@@ -1536,8 +1544,8 @@ director
 de la Inspección Territorial de Brno
 de la Inspección Territorial de Brno
 
-
 ## Página 57
+
 
 ## ANEXOS
 Fig. núm. 7: Vista de la carga vertida del camión                          Fuente: DI

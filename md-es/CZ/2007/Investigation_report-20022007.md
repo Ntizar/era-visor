@@ -10,13 +10,14 @@ chars: 98781
 ratio_longitud: 1.27
 tokens_in: 42684
 tokens_out: 28523
-verificacion: revisar
-notas_cifras: ["bloque 1: original bilingüe: se compara contra el idioma principal (EN)", "bloque 2: original bilingüe: se compara contra el idioma principal (CS)", "bloque 4: original bilingüe: se compara contra el idioma principal (CS)", "bloque 9: original bilingüe: se compara contra el idioma principal (CS)", "bloque 12: original bilingüe: se compara contra el idioma principal (CS)", "bloque 13: cifras cortas: 2/51"]
-avisos: ["bloque 4: ratio 1.63", "bloque 9: ratio 1.92", "bloque 12: ratio 1.66"]
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (PT)", "página 5: original bilingüe: se compara contra el idioma principal (EN)", "página 6: original bilingüe: se compara contra el idioma principal (CS)", "página 9: original bilingüe: se compara contra el idioma principal (CS)", "página 11: original bilingüe: se compara contra el idioma principal (CS)", "página 15: original bilingüe: se compara contra el idioma principal (CS); ratio 1.88"]
 ---
+
 ## Página 1
+
 
 República Checa
 Inspección Ferroviaria
@@ -40,11 +41,12 @@ NIF: 75009561
 http://www.dicr.cz
 fax: (+420) 224 805 428
 
-
 ## Página 2
 
 
+
 ## Página 3
+
 
 ### RESUMEN
 | Fecha y hora: Tipo de ocurrencia: Tipo de tren: Ubicación: | 20 de febrero de 2007 11:48 (10:48 GMT), descarrilamiento del tren de mercancías n.º 85956 entre las estaciones de Mníšek pod Brdy y Čisovice |
@@ -55,11 +57,12 @@ fax: (+420) 224 805 428
 | Recomendación: | dirigida al gestor de infraestructura České dráhy a.s.: 1) desarrollar normas de seguridad centradas en el mantenimiento de la infraestructura |
 |  | realizado por un proveedor externo (mantenimiento externalizado) 2) supervisar el cumplimiento de las normas de seguridad del proveedor externo |
 
-
 ## Página 4
 
 
+
 ## Página 5
+
 
 # Índice
 RESUMEN.................................................................................................................3
@@ -103,6 +106,7 @@ RESUMEN.........................................................................
 
 ## Página 6
 
+
 3.5 Documentación o sistema de explotación............................................................20
 3.5.1 Medidas adoptadas por el personal del gestor de infraestructura y del transportista, en lo que respecta a la gestión de la señalización y de la seguridad de la circulación..................................................................................................20
 3.5.2 Intercambio de comunicaciones verbales en relación con el incidente, incluidos los documentos procedentes del dispositivo de grabación.....................................................................................................................20
@@ -131,6 +135,7 @@ RESUMEN.........................................................................
 
 ## Página 7
 
+
 Ref.: 6-13/2007/DI
 ## Informe
 sobre los resultados de la investigación de las causas y circunstancias de la aparición de un incidente extraordinario
@@ -153,6 +158,7 @@ El primer VF detrás del VFI era un coche de servicio ocupado por la tripulació
 En el coche de servicio resultaron heridos el responsable de la operación y 1 miembro de la tripulación del tren de mercancías. El segundo VF detrás del VFI no descarriló; otros 5 VF cargados descarrilaron con uno o dos ejes - véase
 
 ## Página 8
+
 
 punto 2.2.2 (todas las referencias a los puntos individuales se refieren a este informe, no se indicará posteriormente).
 El acta de la inspección del lugar del IE forma parte del expediente.
@@ -179,51 +185,62 @@ La composición del tren estaba de acuerdo con los procedimientos tecnológicos 
 
 ## Página 9
 
-Composición del tren:
+Composición del DV:
 Daad 40 54 890 029-8 – ocupado por la tripulación del tren de mercancías, descarriló con ambos ejes, 
-y posteriormente se salió del terraplén;
-Es 21 54 555 7476-8 – cargado con troncos, descarriló con el eje trasero en dirección de la marcha;
-Es 21 54 555 5279-8 – cargado con troncos, descarriló con ambos ejes;
-Es 21 54 554 1887-5 – cargado con troncos, descarriló con ambos ejes;
-Res 31 54 393 6639-6 – cargado con troncos, descarriló con ambos bogies;
-Res 31 54 393 7492-9 – cargado con troncos, descarriló con el eje delantero en dirección de la marcha.
+y a continuación se deslizó fuera del terraplén;
+Es 21 54 555 7476-8 - cargado con madera rolliza, descarriló con el eje trasero en el sentido de la marcha;
+Es 21 54 555 5279-8 - cargado con madera rolliza, descarriló con ambos ejes;
+Es 21 54 554 1887-5 - cargado con madera rolliza, descarriló con ambos ejes;
+Res 31 54 393 6639-6- cargado con madera rolliza, descarriló con ambos bogies;
+Res 31 54 393 7492-9- cargado con madera rolliza, descarriló con el eje delantero en el sentido de la marcha.
 Vehículo dañado:
-Eaos 33 56 633 6127-9 – cargado con troncos, dañado en el frontal delantero por impacto contra el lateral 
-de un vehículo de servicios.
-### 2.2.3 Descripción de los componentes de la vía férrea, del sistema de seguridad (es decir, 
-especialmente el estado de las vías, las agujas, los cuarteles de mando, las señales y el 
-dispositivo de seguridad de trenes)
-La vía de línea en el lugar de la aparición de la IU se encuentra sobre un terraplén en una curva izquierda de radio 180 metros 
-y desciende (22 por mil). El carril tiene perfil T, los durmientes son de madera, la distribución es «c» con fijaciones 
+Eaos 33 56 633 6127-9 - cargado con madera rolliza, frontal delantero dañado por el impacto contra el costado 
+del coche de servicio.
+### 2.2.3 Descripción de los componentes de la vía de circulación de la vía férrea, del sistema de señalización (es decir, 
+en particular el estado de las vías, los desvíos, las cajas de enclavamiento, los señales y del 
+dispositivo de seguridad ferroviaria del tren)
+La vía principal en el lugar de producción del MU se encuentra sobre un terraplén en una curva izquierda de radio 180 metros 
+y en descenso (22 por mil). La superestructura es de tipo T, los traviesas son de madera, el balasto es de tipo "c" con elementos de fijación 
 S-49/T5.
-El método de seguridad para la circulación de trenes es de categoría I, comunicación telefónica.
-Durante la inspección del lugar de la IU se constató que, en dirección de la marcha del tren Mn 85956, en el segundo durmiente 
-antes del cruce de vías en el PK 15,992, bajo el riel derecho, la placa base carecía de tuercas y pernos de mariposa. En el riel izquierdo, en este mismo durmiente, faltaba la placa base sin tuercas. 
-En el cruce de vías en el PK 15,992 estaba fijado un soporte adicional de estabilidad de la vía (denominado «stahovák», 
-es decir, un dispositivo no oficial para ajustar el ancho de vía), el cual presentaba rastros frescos de manipulación (sin oxidar, superficies brillantes en las tuercas, en la tuerca exterior la rosca interior estaba desde el borde de la tuerca aproximadamente hasta la mitad de esta, es decir, hasta el final del tornillo, brillante sin corrosión). En el segundo, 
-tercer y cuarto durmiente después del cruce de vías, en el riel derecho antes del lugar 
-de descarrilamiento (punto «0»), se constató que las placas base de tipo «S 4», provistas de tuercas, no estaban 
-fijadas a los durmientes mediante pernos de mariposa. Además, en el tercer durmiente, en el lado interior del riel izquierdo, faltaba la tuerca en la placa base de tipo «TS 5». Asimismo, se detectó fatiga del segundo al 
-quinto durmiente después del cruce de vías (estado en el que no se garantiza la suficiente sujeción de las fijaciones) y su desplazamiento hacia el lado interior de la curva.
-Como consecuencia de la IU, en el riel izquierdo, a 5 metros del cruce de vías, se volcó el riel y en el octavo, noveno y décimo durmiente después del cruce se rompieron en el lado exterior del riel derecho las fijaciones.
-La medición del carril ferroviario se realizó de forma comisionada el 21. 2. 2007, es decir, el segundo día después de 
-la aparición de la IU, debido a la necesidad de liberar parte de la vía medida, sobre la cual se encontraban los vehículos descarrilados (punto «0», es decir, la primera huella de descarrilamiento, estaba bajo el vehículo descarrilado). Sin esta liberación de la vía no era posible realizar la medición. Antes del inicio de la medición se constató 
-que, debido al daño de la vía antes y en el lugar del descarrilamiento causado por el arrastre del vehículo descarrilado de vuelta 
-a través del lugar del descarrilamiento, ya no era posible medir la ampliación y el desnivel de la vía en los puntos +3 a -10 y 
-la posición direccional de la vía (flecha) en los puntos +13 a -10, y por tanto, evaluar el estado del carril ferroviario 
-en el momento del descarrilamiento. 
-De la medición realizada y la evaluación subsiguiente se puede concluir que las deficiencias, es decir, los valores límite del ancho de vía (en lo sucesivo, AV) en 1 metro de longitud, detectados en la parte del carril ferroviario 
-que fue posible medir – véase más arriba, no fueron la causa directa del descarrilamiento, pero pudieron influir en la 
-marcha inestable del tren antes del lugar del descarrilamiento.
-Las actas de medición del carril ferroviario y su evaluación forman parte del expediente.
-### 2.2.4 Uso de medios de comunicación
-No se demostró el uso de medios de comunicación entre el responsable de los trabajos y el despachador de la estación de Mníšek pod Brdy 
-con respecto a la solicitud de información sobre las circulaciones de trenes antes de la aparición de la IU.
-### 2.2.5 Trabajos realizados en el lugar de la incidencia extraordinaria y en sus inmediaciones
-Antes de la IU, con base en el contrato de adjudicación para el suplemento n.º 5 al contrato n.º 30003/ZP-07, 
-celebrado entre el explotador y la empresa, el 20 de febrero de 2007, los empleados de la empresa
+El modo de aseguramiento de la circulación de los trenes es de categoría I, comunicación telefónica.
+En la inspección del lugar del MU se constató que, en el sentido de la marcha del tren Mn 85956, en la segunda traviesa 
+antes de la unión de vía en el pk 15,992, bajo el carril derecho había una placa base sin 
+abrazaderas y sin tornillos. En el carril izquierdo, en esta misma traviesa, había una placa base sin abrazaderas. 
+En la unión de vía en el pk 15,992 estaba montado un soporte adicional de estabilidad de la vía (el llamado "stahovák", 
+es decir, un dispositivo no oficial para el ajuste del ancho de vía), que presentaba huellas frescas de 
+manipulación (superficies brillantes sin corrosión en las tuercas; en la tuerca exterior, la rosca interior iba 
+desde el borde de la tuerca aproximadamente hasta la mitad de la misma, es decir, hasta el extremo del tornillo, 
+brillante y sin corrosión). En la segunda, tercera y cuarta traviesa después de la unión de vía, en el carril derecho 
+antes del punto de descarrilamiento (punto "0"), se constató que las placas base de tipo "S 4", provistas de abrazaderas, 
+no estaban fijadas a las traviesas con tornillos. Además, en la tercera traviesa, en el lado interior del carril izquierdo, 
+en la placa base de tipo "TS 5" faltaba una abrazadera. Asimismo, se detectó el desgaste de la segunda a la 
+quinta traviesa después de la unión de vía (estado en el que no se garantiza una suficiente 
+retención de los elementos de fijación) y su desplazamiento hacia el lado interior de la curva.
+Como consecuencia del MU, en el carril izquierdo, a 5 metros de la unión de vía, se arrancó 
+el carril y en la octava, novena y décima traviesa después de la unión se rompieron, en el lado exterior 
+del carril derecho, los elementos de fijación.
+La medición de la superestructura ferroviaria fue realizada por comisión el día 21. 2. 2007, es decir, el segundo día después de 
+la producción del MU, debido a la necesidad de liberar parte de la vía medida, sobre la que se encontraban los coches descarrilados 
+(punto "0", es decir, la primera huella tras el descarrilamiento, estaba bajo el coche descarrilado). Sin esta 
+liberación de la vía no era posible realizar la medición. Antes de iniciar la medición se constató 
+que, debido al daño de la vía antes y en el lugar del descarrilamiento causado por el arrastre del coche descarrilado de vuelta 
+a través del lugar del descarrilamiento, ya no era posible medir la ampliación y el sobreelevación de la vía en los puntos +3 a -10 
+ni la posición direccional de la vía (alabeo) en los puntos +13 a -10, y por tanto evaluar el estado de la superestructura 
+ferroviaria en el momento del descarrilamiento. 
+De la medición realizada y la evaluación posterior puede concluirse que las anomalías, es decir, los valores límite 
+del ancho de vía (en adelante RK) por metro de longitud, detectados en la parte de la superestructura ferroviaria 
+que pudo medirse – véase más arriba, no fueron la causa directa del descarrilamiento, pero pudieron tener influencia en 
+la marcha inestable del tren antes del lugar del descarrilamiento.
+Las actas de la medición de la superestructura ferroviaria y su evaluación forman parte del expediente.
+### 2.2.4 Uso de los medios de comunicación
+No se acreditó el uso de los medios de comunicación entre el responsable de los trabajos y el jefe de estación de Mníšek pod Brdy 
+en relación con la solicitud de información sobre la circulación de los trenes antes de la producción del MU.
+### 2.2.5 Trabajos realizados en el lugar del suceso excepcional y en sus proximidades
+Antes del MU, en virtud del protocolo de adjudicación del anexo n.º 5 al contrato n.º 30003/ZP-07, 
+celebrado entre el operador y la empresa, el día 20 de febrero de 2007, los empleados de la empresa
 
 ## Página 10
+
 
 sustitución de las placas de apoyo, fijaciones y reparación del ancho entre las estaciones de Mníšek pod Brdy y Čísovice 
 en el pk 15,900 hasta el 16,030, tanto antes como después del cruce en el pk 15,992.
@@ -269,70 +286,71 @@ del 12 de marzo de 2007, realizado en la DKV Ústí nad Labem, se cuantificó el
 DV ČD 21 54 555 7 476-8, situado como tercero en el tren. En el reconocimiento comisionado del 
 12 de marzo de 2007, realizado en la DKV Ústí nad Labem, se cuantificó el daño en 17 240,- Kč.
 
-
 ## Página 11
 
-Los siguientes DV fueron inspeccionados en el reconocimiento comisionado del 12 de marzo de 2007 en la DKV Ústí 
+Los siguientes DV fueron inspeccionados en la inspección comisionada el 12 de marzo de 2007 en DKV Ústí 
 nad Labem.
-DV ČD n.º 31 54 594 7 194-4. En el reconocimiento comisionado del estado técnico del DV se propuso la baja del vagón. El valor residual es nulo. El valor de la chatarra se determinará posteriormente.
-DV DB n.º 33 80 792 1 068-2. En el reconocimiento comisionado del estado técnico del DV se cuantificó el daño 
-en 28 000 Kč.
-DV ČD n.º 21 54 554 3 290-0. En el reconocimiento comisionado del estado técnico del DV se cuantificó el daño 
-en 12 200 Kč.
-DV ČD n.º 31 54 596 0799-2. En el reconocimiento comisionado del estado técnico del DV se cuantificó el daño 
-en 14 200 Kč.
-DV ČD n.º 31 54 596 1 273-7. En el reconocimiento comisionado del estado técnico del DV se cuantificó el daño 
-en 10 100 Kč.
-En el balasto de la infraestructura del operador, Administración de la Vía Praga, se produjo un daño por un importe de 
+DV ČD n.º 31 54 594 7 194-4. En la determinación comisionada del estado técnico del DV, el vagón 
+fue propuesto para desguace. El valor residual es cero. El valor del desguace se determinará 
+posteriormente.
+DV DB n.º 33 80 792 1 068-2. En la determinación comisionada del estado técnico del DV, el daño 
+ascendió a 28 000 Kč.
+DV ČD n.º 21 54 554 3 290-0. En la determinación comisionada del estado técnico del DV, el daño 
+ascendió a 12 200 Kč.
+DV ČD n.º 31 54 596 0799-2. En la determinación comisionada del estado técnico del DV, el daño 
+ascendió a 14 200 Kč.
+DV ČD n.º 31 54 596 1 273-7. En la determinación comisionada del estado técnico del DV, el daño 
+ascendió a 10 100 Kč.
+En la superestructura ferroviaria del operador, Správa dopravní cesty Praha, se produjo un daño por importe de 
 100 000,- Kč.
-En total, en el IE se produjeron daños materiales por un importe de 1 009 120,- Kč.
-### 2.4 Factores externos
+En total, como consecuencia del MU se produjo un daño material por importe de 1 009 120,- Kč.
+### 2.4 Circunstancias externas
 ### 2.4.1 Condiciones meteorológicas y datos geográficos.
-En el momento de la producción del IE, la temperatura era de +6 °C, cielo parcialmente despejado, visibilidad no reducida.
-### 3 REGISTRO DE LAS EXPLICACIONES PRESTADAS
-### 3.1 Resumen de las explicaciones prestadas (sujetas a protección de la identidad de las personas) y sobre la 
-investigación técnica de las causas de la producción del incidente
-### 3.1.1 Empleados del operador de la infraestructura y del transportista, incluidas las personas en relación contractual 
-Las explicaciones oficiales sobre el IE prestaron:
+En el momento de producirse el MU la temperatura era de +6 °C, cielo parcialmente nublado, visibilidad no reducida.
+### 3 REGISTRO DE LAS EXPLICACIONES PRESENTADAS
+### 3.1 Resumen de las explicaciones presentadas (sujetas a la protección de la identidad de las personas) y sobre la investigación 
+profesional de las causas de la producción del suceso excepcional
+### 3.1.1 Empleados del operador de la vía y del transportista, incluidas personas en relación contractual
+Las explicaciones protocolarias sobre el MU las presentaron: 
 El maquinista del tren Mn 85956, quien, entre otras cosas, indicó que:
-el turno transcurrió sin incidentes, en la estación de Dobříš el equipo del tren realizó la prueba completa del freno 
-–
+el turno transcurrió sin incidencias; en la estación de Dobříš el personal del tren realizó la prueba completa del freno –
 y se le entregó la documentación del tren;
-recibió de la despachadora de la estación de Dobříš una orden escrita para las marchas lentas en la línea, no se le 
+del jefe de estación de Dobříš recibió una orden escrita sobre circulaciones lentas en la línea, no fue 
 –
-informó de ningún lugar de trabajo en la línea;
-en la estación de Mníšek pod Brdy se detuvo debido al cruce con el tren de viajeros Os 19005;
+informado de ningún puesto de trabajo en la línea;
+en la estación de Mníšek pod Brdy se detuvo debido a un cruce con el tren Os 19005;
 –
-a las 11:44 horas partió tras la autorización de salida adecuada de la estación de Mníšek pod Brdy, no recibió 
+a las 11:44 horas partió tras la expedición regular de la estación de Mníšek pod Brdy, no recibió allí 
 –
-aquí ninguna orden escrita;
-antes de la parada de Rymáně, en el lugar de la señal «Precaución», dio repetidamente la señal de «PRECAUCIÓN» 
+ninguna orden escrita;
+antes de la parada de Rymáně, en el lugar de la señal "Pískejte", dio repetidamente la señal "¡CUIDADO" 
 –
 con la bocina de la locomotora;
-tras el paso por la parada a una velocidad de 33 km/h, al atravesar una curva a la izquierda, sintió sacudidas 
+al pasar por la parada a una velocidad de 33 km/h, al recorrer un arco a la izquierda, sintió sacudidas 
 –
-repentinas de la locomotora, utilizó inmediatamente el frenado de emergencia y detuvo el tren aproximadamente a 80 m de 
-su uso;
-durante la detención del tren vio alejarse a los empleados de la «vía» desde el andén a la derecha;
+súbitas de la locomotora, inmediatamente aplicó el frenado de acción rápida y detuvo el tren unos 80 m después 
+de su aplicación;
+al detener el tren vio alejarse a un empleado de la "cuadrilla de vía" del lado derecho de la vía;
 –
-tras la detención del tren se produjo aún un fuerte golpe contra la parte trasera de la locomotora y, mirando por la 
+tras la detención del tren se produjo todavía un golpe violento en la parte trasera de la locomotora y, mirando 
 –
-ventana, comprobó que la locomotora había descarrilado y que el vagón de servicio estaba fuera del andén;
-corrió inmediatamente para comprobar si no se habían producido lesiones al equipo del tren y luego notificó el IE mediante la 
+por la ventana, comprobó que la locomotora estaba descarrilada y el vehículo de servicio fuera de la vía;
+corrió inmediatamente a comprobar si se habían producido lesiones en el personal del tren y luego comunicó el MU por radio 
 –
-radiocomunicación a la despachadora de la estación de Mníšek pod Brdy y por teléfono móvil al jefe de máquinas;
-tras la notificación fue a comprobar el estado de los vagones y, al preguntar a los empleados de la «vía» qué habían 
+al jefe de estación de Mníšek pod Brdy y por teléfono móvil al jefe de máquinas;
+tras la comunicación, fue a comprobar el estado de los vagones y, mientras tanto, preguntó a los empleados de la "cuadrilla de vía" qué 
 –
-dejado allí, uno de ellos le respondió que no tenían el acoplamiento de la carril;
-esta respuesta la oyó con total claridad también el conductor del tren;
+habían dejado allí, y uno de ellos le respondió que no tenían allí un empalme de raíl;
+esta respuesta la oyó con total claridad también el jefe de tren;
 –
-antes de la llegada del SRS, la PČR y los inspectores, colocaron inmediatamente dicho acoplamiento y apretaron los tornillos 
+antes de la llegada de HZS, PČR y los investigadores, colocaron inmediatamente este empalme y apretaron los tornillos, 
 –
-y quedó debajo del último vagón sobre el carril derecho;
-los empleados colocaron el acoplamiento con el uniforme de trabajo debajo de las traviesas, donde había 
+y estaba bajo el último vagón en el raíl derecho;
+el empalme lo colocaron empleados con ropa de trabajo bajo las bandas de vía, donde estaba 
 –
 
 ## Página 12
+
 
 el balasto fue retirado, en posición horizontal (paralelo a las traviesas), la tuerca se ajustó en el lado exterior de la curva;
 la luz de advertencia intermitente que señalaba el lugar de trabajo no fue colocada en la dirección de circulación del tren –
@@ -415,6 +433,7 @@ la práctica es tal que, durante la investigación del accidente por la Inspecci
 
 ## Página 13
 
+
 donde debería medirse el ancho de vía y el desnivel, y esto ocurrió hasta el miércoles por la mañana,
 cuando todas las pruebas que habrían jugado a mi favor, es decir, que la vía tenía el ancho correcto
 y que no había nada allí que no debería haber estado, fueron destruidas por las obras en curso para
@@ -469,6 +488,7 @@ Medidas en el lugar del incidente - § 9 apartado (3) del Decreto n.º 376:
 (3) Los cambios del estado original en el lugar del incidente son admisibles hasta la llegada de los órganos competentes
 
 ## Página 14
+
 
 v trestním řízení a zaměstnance Drážní inspekce jen po souhlasu velitele zásahu integrovaného 
 záchranného systému. Nezasahují-li tyto osoby, jsou změny původního stavu na místě mimořádné 
@@ -532,34 +552,35 @@ s prokazatelným záznamem komunikace obou stran.
 ## Página 15
 
 B) Procedimientos tecnológicos contenidos en las normas internas del operador:
-B1) ČD Op16 – Norma de seguridad y protección de la salud en el trabajo,
-Capítulo III Trabajo en el recinto de las estaciones, en las vías de línea y en las vías de otras unidades organizativas:
-art. 26. El responsable del trabajo garantizará personalmente la seguridad de los empleados del grupo de trabajo o a través de un empleado designado para la vigilancia (guardias de seguridad)......
-art. 40. Por razones de mayor seguridad del tráfico ferroviario y de seguridad de los empleados, el puesto de trabajo o los vehículos especiales que se utilicen en el puesto de trabajo pueden estar equipados con una luz intermitente o con luces intermitentes que se enciendan cíclicamente, visibles desde ambas direcciones de circulación.
-art. 41. El responsable del trabajo está obligado a señalizar el lugar de trabajo en vía libre con señales de advertencia según la norma ČD D1......
-art. 42. No se colocan los balizas de advertencia si se trata de un grupo de trabajo completo de un máximo de cinco empleados (incluido el responsable del trabajo y la guardia de seguridad, si la hubiera) y este grupo de trabajo se desplaza continuamente durante el turno de trabajo.....
-art. 43. Si el grupo de trabajo trabaja en las vías de la OS (en adelante, unidad organizativa) o en vía libre, su seguridad debe estar garantizada mediante vigilancia. Esta vigilancia la realiza el responsable del trabajo o la guardia de seguridad designada por él......
-art. 44. Guardias de seguridad:
-f) el responsable del trabajo y las guardias de seguridad deben llevar consigo y tener en su puesto las señales designadas por el responsable de la OS de acuerdo con la norma ČD D1. El responsable del trabajo solicitará al empleado de tráfico información detallada sobre la situación del tráfico. Debe disponer de un reloj preciso y de la lista de trenes para los empleados de línea o del horario de trenes esquemático.
-B2) ČD D1 – Norma para el uso de señales en la organización y explotación del tráfico ferroviario,
-Séptima parte, Capítulo II Señales de las señales de advertencia portátiles:
-art. 660. La señal «Puesto de trabajo, silbato» advierte sobre el puesto de trabajo y ordena al maquinista dar la señal «Atención».
-art. 673. La baliza de advertencia solo puede colocarse en vía libre allí donde el puesto de trabajo esté adyacente a la EST en la que el encargado de tráfico ha sido informado de su colocación. La información al encargado de tráfico sobre la colocación de la baliza de advertencia debe contener su posición kilométrica y para qué vías de línea es necesario informar a los maquinistas. El responsable del trabajo es responsable de informar a los encargados de tráfico sobre la colocación (retirada) de las balizas de advertencia.
-art. 676. La señal «Puesto de trabajo, silbato», que se da con una luz intermitente o con una barra de luces con una serie de luces intermitentes que se encienden cíclicamente, puede colocarse tanto en vía libre como en las plataformas de tráfico. …....Sobre el lugar así señalizado no se informa al maquinista.
-Novena parte, Capítulo VIII Uso de señales para proteger lugares no transitables en vía libre o vías de línea:
-art. 890. El empleado que haya detectado la no transitabilidad repentina del lugar debe informar lo antes posible a al menos un encargado de tráfico de alguna estación adyacente......
-art. 891. Los lugares no transitables en vía libre, si la vía de línea no está excluida, deben protegerse con señales de prohibición de circulación desde ambos lados; delante del obstáculo se coloca una señal portátil «Alto» y la señal «Peligro».
-B3) ČD D2 – Norma para la organización y explotación del tráfico ferroviario, Segunda parte, Capítulo II, E. Bloqueos de vías:
-art. 914. Sin orden de bloqueo, el encargado de tráfico puede establecer un bloqueo no previsto.......
-c) sobre la base de la solicitud del empleado de SDC para realizar una reparación o mantenimiento de las instalaciones, pero sin una alteración sustancial del tráfico. Tales trabajos solo pueden realizarse en una interrupción del tráfico de trenes.
-art. 928. …...Si la vía de línea se vuelve no transitable en algún lugar, el empleado que haya detectado el lugar no transitable debe informar inmediatamente a los encargados de tráfico de ambas estaciones adyacentes y, si es posible, a todas las posiciones de línea. En el informe indicará la posición del lugar no transitable, la causa y la extensión de la no transitabilidad.....
+B1) ČD Op16 – Reglamento de seguridad y salud en el trabajo,
+Capítulo III Trabajo en el ámbito de las estaciones, en las vías de tráfico y en la vía de otras unidades organizativas:
+art. 26. La seguridad del personal del grupo de trabajo la garantizará el responsable del trabajo personalmente o mediante un empleado de vigilancia designado (patrulla de seguridad)......
+art. 40. Por razones de mayor seguridad del transporte ferroviario y de seguridad de los empleados, el puesto de trabajo o los vehículos especiales utilizados en el lugar de trabajo pueden equiparse con una luz intermitente o con luces intermitentes encendidas cíclicamente, visibles desde ambos sentidos de circulación.
+art. 41. El responsable del trabajo está obligado a señalizar el lugar de trabajo en plena línea con señales de advertencia conforme al reglamento ČD D1......
+art. 42. No se colocarán conos de advertencia cuando se trate de un grupo de trabajo integrado por un máximo de cinco empleados (incluido el responsable del trabajo y, en su caso, la patrulla de seguridad) y dicho grupo de trabajo se desplace de forma continua durante la jornada laboral.....
+art. 43. Si el grupo de trabajo opera en vías de OS (en adelante, unidad organizativa) o en plena línea, su seguridad debe garantizarse mediante vigilancia. Dicha vigilancia la ejercerá el responsable del trabajo o la patrulla de seguridad designada por él......
+art. 44. Patrullas de seguridad:
+f) el responsable del trabajo y las patrullas de seguridad deben llevar consigo y en su puesto las señales designadas por el responsable de OS conforme al reglamento ČD D1. El responsable del trabajo solicitará al empleado de tráfico información detallada sobre la situación del tráfico. Debe disponer de un reloj exacto y de una lista de trenes para el personal de tráfico o de un horario gráfico.
+B2) ČD D1 – Reglamento para el uso de señales al organizar y explotar el transporte ferroviario,
+Parte séptima, Capítulo II Señales de advertencia portátiles:
+art. 660. La señal Lugar de trabajo, pite avisa sobre un lugar de trabajo e indica al maquinista que debe emitir la señal Atención.
+art. 673. El cono de advertencia solo puede colocarse en plena línea allí donde el lugar de trabajo linda con una estación (ŽST) en la que se haya informado al jefe de estación de su colocación. La información al jefe de estación sobre la colocación del cono de advertencia debe contener su posición kilométrica y las vías de tráfico para las que es necesario informar a los maquinistas. La responsabilidad de informar a los jefes de estación sobre la colocación (retirada) de los conos de advertencia corresponde al responsable del trabajo.
+art. 676. La señal Lugar de trabajo, pite, emitida mediante una luz intermitente o una rampa luminosa con una serie de luces intermitentes encendidas cíclicamente, puede colocarse tanto en plena línea como en las estaciones de tráfico. ….... Sobre el lugar así señalizado no se informa al maquinista.
+Parte novena, Capítulo VIII Uso de señales para cubrir lugares no transitables en plena línea o en vías de tráfico:
+art. 890. Sobre la no transitabilidad repentina de un lugar debe informar lo antes posible el empleado que la haya detectado, al menos a un jefe de estación de alguna estación vecina......
+art. 891. Los lugares no transitables en plena línea, si la vía de tráfico no ha sido excluida, deben cubrirse con señales de prohibición de circulación por ambos lados; delante del obstáculo se colocará la señal portátil Alto y la señal Aviso.
+B3) ČD D2 – Reglamento para organizar y explotar el transporte ferroviario, Parte segunda, Capítulo II, E. Exclusiones de vías:
+art. 914. Sin orden de exclusión, el jefe de estación podrá establecer una exclusión no prevista.......
+c) a petición de un empleado de SDC para realizar reparaciones o mantenimiento de instalaciones, pero sin alteración sustancial del tráfico. Dicho trabajo solo puede realizarse durante la parada de trenes.
+art. 928. …...Si una vía de tráfico resulta no transitables en algún punto, el empleado que haya detectado el lugar no transitable deberá comunicar el caso de inmediato a los jefes de estación de ambas estaciones vecinas y, de ser posible, también a todos los puestos de tráfico. En la comunicación indicará la ubicación del lugar no transitable, la causa y el alcance de la no transitabilidad.....
 B4) Capítulo V, E. Comunicación del tráfico de trenes a los empleados en la línea:
-art. 1081. El encargado de tráfico no comunica a los empleados que trabajan en la línea ni a los inspectores el tráfico de trenes. Sin embargo, si se informa al inspector o al responsable de la cuadrilla de trabajo que trabaja en la línea sobre el tráfico de trenes, el encargado de tráfico está obligado a comunicarle la situación inmediata del tráfico de trenes (trenes establecidos y cancelados, retrasos o adelantos de trenes).
-B5) Tercera parte, Capítulo I, C Condiciones para el uso y transporte de otros vehículos, Condiciones generales para la incorporación de vehículos al tren:
-art. 1167. Los vagones de pasajeros de construcción ligera (según el Complemento) se colocan en el tren detrás de los vagones de construcción normal, colocando preferentemente los vagones de dos ejes detrás de los vagones de cuatro ejes.
-Detrás de los vagones de construcción ligera se pueden colocar vehículos de construcción normal, cuya masa total no debe ser superior a 65 toneladas y que deben tener el freno continuo activado y funcionando correctamente. Delante de los vehículos de construcción
+art. 1081. Al personal que trabaja en la línea y a los inspectores de ronda, el jefe de estación no les comunica el tráfico de trenes. No obstante, si el inspector de ronda o el jefe de cuadrilla que trabaja en la línea solicita información sobre el tráfico de trenes, el jefe de estación estará obligado a comunicarle la situación inmediata del tráfico de trenes (trenes establecidos y cancelados, retrasos o adelantos de trenes).
+B5) Parte tercera, Capítulo I, C Condiciones para el uso y el transporte de otros vehículos, Condiciones generales para la incorporación de vehículos al tren:
+art. 1167. Los coches de pasajeros de construcción ligera (según el Apéndice) se disponen en el tren detrás de los coches de construcción normal, con preferencia los de dos ejes hasta detrás de los de cuatro ejes.
+Detrás de los coches de construcción ligera es posible disponer vehículos de construcción normal, cuya masa total no debe superar las 65 toneladas y que deben tener activado y funcionando correctamente el freno continuo. Delante de los vehículos de normal
 
 ## Página 16
+
 
 En las formaciones solo se podrán colocar como máximo 3 vagones de construcción ligera, cuyo freno continuo deberá estar desconectado en los trenes de mercancías frenados mediante el segundo método.
 art. 1170. Los trenes de mercancías se componen según la composición por estación, por destino o por grupos del tren, teniendo en cuenta la masa de transporte y la longitud del tren. En los trenes de la ČD, los vagones destinados a estaciones intermedias se colocan generalmente según la composición por estación del tren.
@@ -589,6 +610,7 @@ además, en la parte B. punto 18 se indica: el operador de la vía, al establece
 El mantenimiento del balasto y la vía de la Administración de Líneas Praga Oeste se ha pactado en el contrato de obra n.º 30003/ ZP – 07, fechado el 10. 01. 2007, celebrado entre el operador, representado por el jefe superior de la Administración de la Vía de Circulación Praga, y la empresa, representada por el administrador
 
 ## Página 17
+
 
 de la empresa, incluidos los suplementos a este contrato relativos a la línea Dobříš – Vrané nad Vltavou, a saber: el suplemento n.º 1 y 2 de fecha 11.01.2007, el suplemento n.º 5 de fecha 16.01.2007, el suplemento n.º 6 de fecha 19.02.2007.
 
@@ -640,52 +662,33 @@ A la pregunta de la DI (Dirección de Investigación) de si era necesario crear 
 
 ## Página 18
 
-### 3.2.2 Requisitos aplicables al personal del administrador de la infraestructura y del transportista y su cumplimiento
-
-Todos los empleados del administrador de la infraestructura implicados estaban cualificados profesionalmente para el desempeño de sus funciones en el momento de producirse el accidente. Las constancias escritas forman parte del expediente.
-
-La cualificación profesional del personal de la empresa está establecida por la normativa jurídica (véase el punto 3.2. A7, A12) y, además, por el reglamento interno del administrador ČD Ok 2. Según la declaración del administrador ante la inspección estatal de ferrocarriles, citada en el punto 3.2.1, el administrador realiza el control de la cualificación profesional del personal de la empresa antes de la emisión de la «Autorización para la entrada de personas ajenas al recinto reservado de ČD, a. s.».
-
-El administrador exige la cualificación profesional del personal de empresas y organizaciones externas que participan en las reparaciones y reconstrucciones de la vía, según su propia declaración, únicamente para el cargo de jefe de obra, mediante la prueba profesional número F-01, conforme al reglamento interno ČD Ok 2. En el caso de los obreros de vía, solo exige la formación en las normas de explotación relativas a la seguridad y la protección de la salud en el trabajo, en el ámbito de los trabajos que hayan de realizar, sin verificar los conocimientos ni realizar formaciones periódicas.
-
-### 3.2.3 Procedimientos de control interno de la seguridad y sus resultados
-
-La obligación de realizar un control continuo por parte del administrador sobre la actividad de las empresas y organizaciones externas que participan en las reparaciones y reconstrucciones de la vía (en este caso, el personal de la empresa) se deriva del sistema de garantía de la seguridad de la explotación de la vía establecido en el artículo 2 del Decreto n.º 376 (véase el punto 3.2. A5) y, además, de las disposiciones del reglamento interno ČD S3/1 (véase el art. 3.2. B9).
-
-Según la declaración del administrador ante la inspección estatal de ferrocarriles, citada en el art. 3.2.1, el control del cumplimiento de los reglamentos internos del administrador se realiza de forma aleatoria y las posibles deficiencias se registran en el diario de obra. Según las distintas anotaciones en el diario de obra, que se adjuntan como anexos a los suplementos números 1, 2 y 5, no se detectaron deficiencias durante esta actividad de control.
-
-Las comprobaciones sobre la realización de los trabajos individuales se registraban en el diario de obra (forma parte del expediente); los controles parciales aleatorios no se registraban por escrito.
-
-Se presentó el «Diario de controles y actividades del jefe de la unidad operativa del Distrito de Vías Bráník», del que se desprende que las inspecciones y mediciones planificadas se realizaron de conformidad con el anexo n.º 1 del Decreto n.º 177 y con el reglamento interno del administrador ČD S2/3.
-
-Antes de la producción del incidente extraordinario se realizaron:
-
-una prueba de circulación el 10.01.2007, una inspección a pie de vía el 06.02.2007, una medición del ancho de vía el 15.11.2006 (con una dresina de medición), una inspección primaveral integral el 13.04.2006 y un control no destructivo de los rieles el 30.04.2005 mediante un defectoscopio.
-
-En el lugar de producción del incidente extraordinario, en el pk 15,993, no se detectaron deficiencias.
-
-Se presentó además:
-
-el cuaderno de servicio del inspector, inspección realizada el 15.02.2007 sin deficiencias detectadas; y
-el acta de control del director de la Dirección de Vías, de fecha 17.01.2007, sin deficiencias que afecten a la seguridad y la fluidez del tráfico ferroviario.
-
-### 3.2.4 Interfaces entre las distintas partes implicadas y las componentes de la ruta de circulación
-
-En virtud de las relaciones contractuales, el administrador encomendó a una empresa la ejecución de determinadas actividades para garantizar la operatividad de la vía en el lugar de producción del accidente. Se trataba concretamente del cambio de las traviesas, los elementos de sujeción y la regulación del ancho de vía.
-
-### 3.3 Marco jurídico y otras disposiciones
-
-### 3.3.1 Normativa comunitaria y nacional aplicable
-
-Para la determinación de las causas y las circunstancias de la producción de este accidente se aplicaron las siguientes normas nacionales:
-
-Ley n.º 266/1994 Coll., sobre ferrocarriles, en su versión vigente.
-
-Decreto n.º 376/2006 Coll., sobre el sistema de seguridad de la explotación de la vía y del tráfico ferroviario y los procedimientos en caso de producción de incidentes extraordinarios en las vías férreas.
-
-Decreto del Ministerio de Transportes n.º 173/1995 Coll., por el que se aprueba el reglamento de circulación de las vías férreas, en su versión vigente.
+### 3.2.2 Requisitos de los empleados del gestor de la vía y del transportista y su cumplimiento
+Todos los empleados del gestor implicados eran, en el momento de producirse el MU, competentes para el desempeño de la función que ocupaban. Los registros escritos forman parte del expediente.
+La competencia de los empleados de la empresa está establecida por la normativa legal (véase el punto 3.2. A7, A12) y, además, por la norma interna del gestor ČD Ok 2. Según la declaración del gestor en la supervisión estatal en materia de vías, citada en el punto 3.2.1, la verificación de la competencia de los empleados de la empresa es realizada por el gestor antes de la emisión del «Permiso para el acceso de personas ajenas al recinto reservado de ČD, a. s.».
+La competencia de los empleados de empresas y organizaciones externas que participan en las reparaciones y reconstrucciones de la vía es exigida, según su declaración, por el gestor únicamente para la función de jefe de obra, mediante el examen técnico número F-01 conforme a la norma interna ČD Ok 2.
+Para los obreros de vía exige únicamente la formación en las normas operativas sobre seguridad y salud en el trabajo, en el alcance de las obras que vayan a realizar, sin verificación de conocimientos ni formación periódica.
+### 3.2.3 Procedimientos de control interno de seguridad y sus resultados
+La obligación de control continuo por parte del gestor sobre la actividad de empresas y organizaciones externas que participan en las reparaciones y reconstrucciones de la vía (en este caso, los empleados de la empresa) se deriva del sistema de garantía de la seguridad de la explotación de la vía establecido en el § 2 del decreto nº 376 (véase el punto 3.2. A5) y, además, de las disposiciones de la norma interna ČD S3/1 (véase el art. 3.2. B9).
+Según la declaración del gestor en la supervisión estatal en materia de vías, citada en el art. 3.2.1, el cumplimiento de las normas internas del gestor se verifica de forma aleatoria, y las posibles anomalías se hacen constar en el diario de obra. Según las distintas anotaciones en el diario de obra, que son un anexo de los suplementos números 1, 2 y 5, no se detectaron anomalías en esta actividad de control.
+Las verificaciones de la ejecución de las distintas obras se registraban en el diario de obra (forma parte del expediente); las verificaciones aleatorias parciales no se registraban por escrito.
+Se presentó al DI el «Diario de verificaciones y actividades del jefe de la unidad operativa del Distrito de Vía Bráník», del cual se desprende que las inspecciones y mediciones planificadas se realizaron conforme al anexo nº 1 del decreto nº 177 y a la norma interna del gestor ČD S2/3.
+Antes de producirse el suceso extraordinario se realizaron:
+viaje de control el 10. 01. 2007, recorrido de vías el 06. 02. 2007, medición de la anchura de vía el 15. 11. 2006 (con vagoneta de medición), inspección integral de primavera el 13. 04. 2006, verificación no destructiva de los raíles el 30. 04. 2005 con aparato de detección de defectos.
+En el lugar de producción del suceso extraordinario, en el km 15,993, no se detectaron anomalías.
+Además, se presentó:
+libreta del vigilante, recorrido realizado el 15. 02. 2007 sin anomalías detectadas;
+registro de la verificación del jefe de la Administración de Vías de fecha 17. 01. 2007 sin anomalías que pongan en peligro la seguridad y la fluidez del tráfico ferroviario.
+### 3.2.4 Interfaz entre los distintos sujetos implicados y los componentes de la vía de circulación
+En virtud de las relaciones contractuales, el gestor cedió a la empresa la realización de algunas actividades para garantizar la aptitud para la explotación de la vía en el lugar de producción del MU. Concretamente, se trataba del cambio de las bases de balasto, de los elementos de fijación y del ajuste de la anchura de vía.
+### 3.3 Regulación legal y de otro tipo
+### 3.3.1 Normativa legal comunitaria y nacional aplicable
+Para la determinación de las causas y circunstancias de la producción de este MU se aplicaron las siguientes normas legales nacionales:
+Ley nº 266/1994 Sb., de vías, en su versión vigente.
+Decreto nº 376/2006 Sb., sobre el sistema de seguridad de la explotación de la vía y del transporte ferroviario y los procedimientos en caso de sucesos extraordinarios en las vías.
+Decreto del Ministerio de Transporte nº 173/1995 Sb., por el que se aprueba el reglamento de circulación ferroviaria, en su versión vigente.
 
 ## Página 19
+
 
 Decreto del Ministerio de Transportes n.º 101/1995 Coll., por el que se establece el reglamento sobre la aptitud sanitaria y profesional para la explotación de las vías férreas y el transporte ferroviario, en su redacción posterior.
 Decreto del Ministerio de Transportes n.º 177/1995 Coll., por el que se aprueba el reglamento de construcción y técnica de las vías férreas, en su versión vigente.
@@ -718,36 +721,44 @@ Mediante la evaluación de la banda del velocímetro del vehículo motor del tre
 
 ## Página 20
 
-La composición del tren, el frenado y la velocidad del tren estaban en consonancia tanto con la normativa legal (véase el punto 3.2. A10, A11), como con los procedimientos tecnológicos recogidos en las normas internas del explotador (véase el punto 3.2. B5).
+La composición del tren, la frenación y la velocidad del tren eran conformes tanto con la normativa legal (véase el punto 3.2. A10, A11) como con los procedimientos tecnológicos establecidos en las normativas internas del operador (véase el punto 3.2. B5).
 
 ### 3.5 Documentación del sistema de explotación
-### 3.5.1 Medidas adoptadas por el personal del explotador ferroviario y del transportista en relación con la gestión de la señalización y la seguridad del tráfico
-El responsable de la obra garantizó el puesto de trabajo en la vía principal mediante la colocación de guardas de seguridad y la instalación de una luz intermitente, de conformidad con el procedimiento tecnológico contenido en la norma interna del explotador ČD Op 16. Dado que no utilizó otras opciones para proteger el puesto de trabajo con señales de advertencia, el personal encargado de dirigir el tráfico ferroviario (el despachador de la estación de Mníšek pod Brdy y el de la estación de Čísovice) no fue informado sobre el puesto de trabajo, por lo que no surgió para ellos la obligación de informar al personal encargado de conducir los vehículos ferroviarios sobre la existencia de un puesto de trabajo en la vía principal, en el sentido del apartado 7 del artículo 15 del Decreto n.º 173 o del Anexo n.º 1, parte I, punto 7.2 de dicho Decreto (véase el punto 3.2. A13).
 
-Al no comunicar la aparición de un punto no transitable (véase el punto 3.4.2) al personal encargado de dirigir el tráfico ferroviario mencionado anteriormente, conforme a los procedimientos tecnológicos contenidos en las normas internas del explotador ČD D1 y ČD D2 (véase el punto 3.2. B2, B3), no existía motivo para impedir la circulación del tren Mn 85956 por la vía principal hacia la estación de Čísovice.
+### 3.5.1 Medidas adoptadas por los empleados del operador de la infraestructura y del transportista en materia de señalización y seguridad del tráfico
 
-### 3.5.2 Intercambio de comunicaciones verbales en relación con el incidente, incluidos los documentos procedentes del dispositivo de grabación
-Puede considerarse acreditada la entrega personal de la información sobre la circulación de trenes de mercancías en el turno de día, entre el despachador de la estación de Mníšek pod Brdy y el responsable de la obra de la empresa, en la sala adyacente a la oficina de tráfico de la estación de Mníšek pod Brdy, aproximadamente a las 7 horas 40 minutos. Ante la pregunta del responsable de la obra sobre cuándo circularían dichos trenes de mercancías, el despachador no pudo responder en ese momento.
+El jefe de trabajos aseguró el puesto de trabajo en la vía de tráfico mediante la colocación de guardias de seguridad y la instalación de una luz intermitente, de conformidad con el procedimiento tecnológico recogido en la normativa interna del operador ČD Op 16. Dado que no utilizó la posibilidad adicional de proteger el puesto de trabajo con señales de aviso, los responsables de la dirección del tráfico ferroviario (el jefe de estación de Mníšek pod Brdy y el de Čísovice) no fueron informados del puesto de trabajo, y en consecuencia no les surgió la obligación de informar a los responsables de la conducción de los vehículos ferroviarios sobre el puesto de trabajo en la vía de tráfico en el sentido del § 15 apartado (7) del decreto n.º 173 o, en su caso, del Anexo n.º 1, parte I, 7.2 de dicho decreto (véase el punto 3.2. A13).
 
-Asimismo, puede considerarse acreditada la información sobre la aparición del incidente, transmitida al despachador de la estación de Mníšek pod Brdy por el maquinista del tren Mn 85956 a las 11 horas 55 minutos.
+Al no comunicar la existencia de un punto no transitable (véase el punto 3.4.2) a los mencionados responsables de la dirección del tráfico ferroviario, conforme a los procedimientos tecnológicos recogidos en las normativas internas del operador ČD D1, ČD D2 (véase el punto 3.2. B2, B3), no existía motivo para no realizar la circulación del tren Mn 85956 por la vía de tráfico hasta la estación de Čísovice.
 
-Puede considerarse no acreditada la afirmación del responsable de la obra de que se había acordado con el despachador de la estación de Mníšek pod Brdy la comunicación sobre las circulaciones de trenes de mercancías.
+### 3.5.2 Intercambio de comunicaciones verbales en relación con la excepción, incluidas las pruebas del dispositivo de registro
 
-### 3.5.3 Medidas adoptadas para la protección y seguridad del lugar del incidente
-El lugar del incidente no fue asegurado de conformidad tanto con la normativa legal (véase el punto 3.2. A6), como con los procedimientos tecnológicos recogidos en las normas internas del explotador ČD D 2 y ČD D 17 (véase el punto 3.2. B6, B11). Según las explicaciones prestadas por el maquinista y el jefe de tren del tren Mn 85956, así como por el personal del explotador implicado en el incidente, en el lugar de aparición del incidente, aún antes de la llegada del equipo de investigación (DI), el personal de la empresa manipulaba lo que se denomina "stahovák" (dispositivo de tracción/estiramiento) y se trasladaba la luz intermitente desde el puesto de trabajo hacia la estación de Mníšek pod Brdy.
+Puede considerarse acreditada la entrega personal de información sobre la circulación de trenes de mercancías en el turno diurno, entre el jefe de estación de Mníšek pod Brdy y el jefe de trabajos de la empresa, en la sala contigua a la oficina de tráfico de la estación de Mníšek pod Brdy, aproximadamente a las 7 horas 40 minutos. Ante la pregunta del jefe de trabajos sobre cuándo circularían dichos trenes de mercancías, la jefa de estación no supo responder en ese momento.
 
-A esta explicación corresponden también las huellas encontradas en la tuerca de este dispositivo (véase el punto 2.2.3). Actas con el personal, véase el punto 3.1.1.
+Asimismo, puede considerarse acreditada la información sobre la producción de la excepción, comunicada por el maquinista del tren Mn 85956 a la jefa de estación de Mníšek pod Brdy a las 11 horas 55 minutos.
 
-La manipulación de las luces intermitentes queda confirmada en los documentos remitidos al equipo de investigación (DI) también por el administrador de la empresa. Los documentos forman parte del expediente.
+Puede considerarse no acreditada la afirmación del jefe de trabajos de que había acordado con la jefa de estación de Mníšek pod Brdy la información sobre la circulación de trenes de mercancías.
+
+### 3.5.3 Medidas adoptadas para la protección y seguridad del lugar de la excepción
+
+El lugar de la excepción no fue asegurado conforme tanto a la normativa legal (véase el punto 3.2. A6) como a los procedimientos tecnológicos establecidos en las normativas internas del operador ČD D 2 y ČD D 17 (véase el punto 3.2. B6, B11). Según las explicaciones facilitadas por el maquinista y el jefe de tren del tren Mn 85956, empleados del operador implicados en la excepción, en el lugar de producción de la excepción, incluso antes de la llegada del DI, los empleados de la empresa manipularon el denominado «tirador» y trasladaron la luz intermitente delante del puesto de trabajo en dirección a la estación de Mníšek pod Brdy.
+
+A la mencionada explicación corresponden también las huellas detectadas en la tuerca de dicho dispositivo (véase el punto 2.2.3). Actas con los empleados, véase el punto 3.1.1.
+
+La manipulación de las luces intermitentes es confirmada, en los documentos remitidos al DI, también por el administrador de la empresa. Los documentos forman parte del expediente.
 
 ### 3.6 Condiciones laborales, sanitarias y de explotación
-### 3.6.1 Jornada laboral del personal del explotador ferroviario y del transportista que fueron parte en el incidente
-La investigación determinó que la jornada laboral de todas las personas implicadas en el incidente estaba en consonancia con el Código del Trabajo o con el calendario de turnos de ČD, a. s.
 
-3.6.2 Estado de salud y situación personal que influyeron en el incidente, incluido el estrés físico o psicológico
-La investigación no determinó que la situación personal, el estado de salud, el estado psicológico y físico de todas las personas implicadas en el incidente hubieran influido en la aparición del incidente.
+### 3.6.1 Jornada laboral de los empleados del operador de la infraestructura y del transportista que fueron participantes en la excepción
+
+La investigación determinó que la jornada laboral de todas las personas implicadas en la excepción era conforme al Estatuto de los Trabajadores o, en su caso, al cuadrante de turnos de ČD, a. s.
+
+3.6.2 Estado de salud y situación personal que influyeron en la excepción, incluido el estrés físico o psicológico
+
+La investigación no determinó que la situación personal, el estado de salud, psicológico y físico de todas las personas implicadas en la excepción hubieran influido en la producción de la excepción.
 
 ## Página 21
+
 
 3.6.3 Disposición del equipamiento del puesto de control o del vehículo, que influye en su manejo y uso.
 ### La investigación no determinó ninguna relación con la causa del incidente.
@@ -784,6 +795,7 @@ El responsable de la obra, además de garantizar la seguridad mediante guardas d
 
 ## Página 22
 
+
 de la luz amarilla, también tiene la posibilidad de señalizar el lugar de trabajo en vía libre con señales de advertencia y, de este modo, garantizar que se dé la indicación «Atención» por parte de los maquinistas de los trenes antes del lugar de trabajo.
 El responsable del trabajo no hizo uso de la posibilidad de colocar señales de advertencia antes del lugar de trabajo.
 Al detectar un tramo no transitable, los procedimientos tecnológicos imponen la obligación de comunicar este hecho al despachador de la estación adyacente y garantizar su protección. En caso de necesidad, el responsable del trabajo puede solicitar al despachador de la estación adyacente la instauración de una interrupción no planificada.
@@ -803,6 +815,7 @@ Desde el punto de vista de la actividad de los componentes del sistema integrado
 Al determinar las causas y las circunstancias de la aparición del accidente (MU), la DI también tuvo en cuenta el dictamen de la empresa.
 
 ## Página 23
+
 
 ### 4.3 Conclusiones
 ### 4.3.1 Causas inmediatas del incidente, incluidos los factores que contribuyeron a su ocurrencia y que están relacionados con la actuación de las personas implicadas o con el estado de los vehículos ferroviarios o de los equipos técnicos
@@ -837,49 +850,39 @@ Evaluación), bajo la letra h), el explotador afirma que no tiene responsabilida
 
 ## Página 24
 
-Este criterio jurídico del explotador es incorrecto, especialmente en el sentido de que el explotador de la vía no puede transferir contractualmente o de otro modo a otros sujetos las obligaciones que le impone la ley.
-La responsabilidad incorrectamente determinada se refleja posteriormente en el nivel de las medidas adoptadas 
-para prevenir incidentes. 
-La medida adoptada por parte del explotador fue la emisión de una nota informativa, cuyo contenido tiene únicamente carácter informativo y concluye nuevamente afirmando que el explotador no asume ninguna responsabilidad por la ocurrencia del incidente.
-Con su decisión, el explotador creó una situación en la que no tiene que proceder de acuerdo con lo dispuesto en el § 13 del Decreto n.º 376 (es decir, adoptar medidas propias adecuadas para prevenir incidentes y garantizar el cumplimiento de las inspecciones periódicas de su ejecución). 
-Sobre la base de la Evaluación del explotador, la empresa también emitió una nota informativa, cuyo contenido está, sin embargo, en contradicción fundamental con los resultados de la investigación de las causas y las circunstancias de la ocurrencia de este incidente. 
-Las notas informativas forman parte del expediente.
+Esta interpretación jurídica del operador es incorrecta, especialmente en el sentido de que el operador de la vía no puede transferir contractualmente o por otros medios a terceros las obligaciones que le impone la ley. La responsabilidad determinada incorrectamente se manifiesta a continuación en el nivel de las medidas adoptadas para prevenir los sucesos excepcionales.
+La medida adoptada por parte del operador fue la emisión de una hoja informativa, cuyo contenido tiene sin embargo únicamente carácter informativo y concluye de nuevo con la afirmación de que el operador no asume ninguna responsabilidad por la ocurrencia de un SE.
+El operador, con su decisión, ha creado una situación en la que no tiene que proceder conforme a lo dispuesto en el apartado § 13 del decreto n.º 376 (es decir, adoptar sus propias medidas adecuadas para prevenir los sucesos excepcionales y garantizar las revisiones periódicas de su cumplimiento).
+Sobre la base de la Evaluación del operador, la empresa emitió asimismo una hoja informativa, cuyo contenido se encuentra sin embargo en contradicción fundamental con los resultados de la investigación de las causas y circunstancias de la ocurrencia de este SE.
+Las hojas informativas forman parte del expediente.
 ### 6 RECOMENDACIONES DE SEGURIDAD
-### 6.1 Las recomendaciones de seguridad están dirigidas a la Oficina Ferroviaria y, si la naturaleza de la recomendación lo requiere, también a otros órganos o personas.
-La DI, como autoridad administrativa competente de acuerdo con lo dispuesto en el § 53b apartado (5) de la Ley n.º 266/1994 Coll., sobre ferrocarriles, en su versión vigente, sobre la base de los resultados de la investigación de las causas y las circunstancias de la ocurrencia del incidente, recomienda al explotador de la vía ČD, a. s.: 
-a) establecer en su norma interna la cualificación profesional, el conocimiento, el método de verificación 
-de los conocimientos y el sistema de formación periódica, de acuerdo con lo dispuesto en el § 22 apartado 1 letra b) de la 
-Ley n.º 266/1994 Coll., sobre ferrocarriles, en su versión vigente, para todas las personas de entidades físicas y jurídicas ajenas que, en base a una relación contractual con el explotador ČD, a. s., realizan actividades laborales 
-en la vía de circulación, el lecho ferroviario y la superestructura, y que, durante su actividad laboral, emiten señales o se rigen por ellas (véase el § 67 apartado 2 del Decreto n.º 173/1995 Coll., por el que se aprueba el reglamento de circulación ferroviaria, 
-en su versión vigente);
-b) adoptar medidas para aumentar la eficacia del control del cumplimiento de los procedimientos tecnológicos 
-contenidos en las normas internas del explotador por parte de personas cualificadas profesionalmente de entidades físicas y jurídicas ajenas que, en base a una relación contractual con el explotador ČD, a. s., realizan 
-actividades laborales independientes en la vía de circulación, el lecho ferroviario y la superestructura, sobre la base 
-de la responsabilidad del explotador de la vía por su actividad, en el sentido del § 22 apartado (1) de la Ley n.º 266/1994 
-Coll., sobre ferrocarriles, en su versión vigente.
-En Praga, el 25 de febrero de 2008
-Marian Konvalinka, v. r.
-Zdeněk Malý, v. r.
-inspector superior de la Inspección Territorial
-director de la Inspección Territorial 
+### 6.1 Las recomendaciones de seguridad están dirigidas a la Oficina Ferroviaria y, si la naturaleza de la recomendación lo requiere, también a otras oficinas o personas.
+La DI, como autoridad administrativa competente en la materia conforme a lo dispuesto en el apartado § 53b (5) de la ley n.º 266/1994 Sb., de ferrocarriles, en su versión vigente, sobre la base de los resultados de la investigación de las causas y circunstancias de la ocurrencia del SE, recomienda al operador de la vía ČD, a. s.,:
+a) establecer en su normativa interna la competencia profesional, los conocimientos, el método de verificación de los conocimientos y el sistema de formación periódica conforme a lo dispuesto en el apartado § 22 (1) b) de la ley n.º 266/1994 Sb., de ferrocarriles, en su versión vigente, para todas las personas de personas físicas y jurídicas ajenas que, sobre la base de una relación contractual con el operador ČD, a. s., realicen actividades laborales en la vía de tráfico, en la infraestructura y superestructura ferroviarias, y que en el desarrollo de su actividad laboral emitan señales o se guíen por ellas (véase el apartado § 67 (2) del decreto n.º 173/1995 Sb., por el que se aprueba el Reglamento de Circulación Ferroviaria, en su versión vigente);
+b) adoptar medidas para aumentar la eficacia del control del cumplimiento de los procedimientos tecnológicos contenidos en la normativa interna del operador por parte de personas competentes de personas físicas y jurídicas ajenas que, sobre la base de una relación contractual con el operador ČD, a. s., realicen actividades laborales de forma independiente en la vía de tráfico, en la infraestructura y superestructura ferroviarias, y ello sobre la base de la responsabilidad del operador de la vía por su actividad en el sentido del apartado § 22 (1) de la ley n.º 266/1994 Sb., de ferrocarriles, en su versión vigente.
+En Praga, a 25 de febrero de 2008
+Marian Konvalinka, f. s.
+Zdeněk Malý, f. s.
+Inspector jefe de la Inspección Territorial
+Director de la Inspección Territorial
 Praga
 Praga
-
 
 ## Página 25
+
 
 ### 7 ANEXOS
 Posición final de los vehículos descarrilados desde el final del tren
 Bogía descarrilada HDV 749.081-6
 
-
 ## Página 26
+
 
 Elementos de sujeción faltantes en el riel izquierdo
 Elementos de sujeción faltantes en el lugar del descarrilamiento en el riel derecho
 
-
 ## Página 27
+
 
 Elementos de sujeción faltantes en el lugar del descarrilamiento en el riel derecho.
 Vehículo ferroviario descarrilado situado detrás de la locomotora.

@@ -12,8 +12,8 @@ tokens_in: 47715
 tokens_out: 32350
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-verificacion: revisar
-avisos: ["página 8: ratio 2.05", "página 16: ratio 1.80", "página 36: ratio 2.36"]
+verificacion: ok
+notas_cifras: ["página 5: original bilingüe: se compara contra el idioma principal (HR)", "página 8: original bilingüe: se compara contra el idioma principal (HR); ratio 1.96", "página 12: original bilingüe: se compara contra el idioma principal (HR)", "página 14: cifras largas: 1/21", "página 15: cifras largas: 1/25; cifras cortas: 8/18", "página 16: original bilingüe: se compara contra el idioma principal (IT)"]
 ---
 
 ## Página 1
@@ -196,23 +196,23 @@ no adopción de las medidas preventivas necesarias de acuerdo con los resultados
 
 ## Página 8
 
-### Recomendaciones de seguridad4
-La Agencia de Investigación de Accidentes en el Tráfico Aéreo, Marítimo y Ferroviario, tras la realización de la investigación de este incidente, con el fin de aumentar la seguridad del sistema ferroviario, emite a la Agencia de Seguridad del Tráfico Ferroviario las siguientes recomendaciones de seguridad:
-
-AIN/06-SR-03/2025: Sobre la base de los resultados de esta investigación, así como según las consideraciones adicionales en todas las conclusiones de los informes de investigación ID-3 mencionados en el punto 4.5., el gestor de infraestructura (HŽI) debería, en un plazo de 18 meses, automatizar la activación de los pasos a nivel (ŽCP) «Krčeni put» y «Rade Končar» para permitir una circulación más segura de vehículos ferroviarios y viarios en el tramo con tráfico ferroviario muy intenso y tráfico viario excepcionalmente frecuente, y reducir los riesgos de actuación humana derivados de la gestión de su protección.
-
-AIN/06-SR-04/2025: El gestor de infraestructura (HŽI) debería, tras la automatización, también considerar la posibilidad de iniciar el procedimiento de resolución de los pasos a nivel (ŽCP) en cuestión fuera del nivel (desnivel), lo cual es la única solución permanente y segura debido al aumento del número de usuarios de los pasos a nivel y a las congestiones de tráfico.
-
-AIN/06-SR-05/2025: El gestor de infraestructura (HŽI) debería prestar más atención a las consideraciones adicionales de sus informes de investigación (ID-3) y acelerar el proceso de respuesta a las mismas, a fin de poder gestionar en el menor tiempo posible los posibles cambios y las medidas preventivas con el objetivo de la mejora continua y el aumento de la seguridad del tráfico.
-
-### RESUMEN
-El 18 de julio de 2024, a las 12:27, el paso a nivel (LC) «Krčeni put» no fue protegido a tiempo (las barreras semibarrera se encontraban en posición vertical - abiertas) durante el paso del tren de viajeros número 210. Tras avistar el tren, el despachador de trenes/guardi del paso a nivel activó la protección del paso a nivel.
-
-El paso a nivel (LC) «Krčeni put» (protegido mediante señales acústicas y luminosas y semibarreras) se encuentra entre las estaciones de Sesvete y Dugo Selo, en el punto kilométrico 440+295, en la línea M102, que está controlada manualmente por el despachador de trenes/guardi del paso a nivel con un dispositivo desde la parada de Sesvetski Kraljevec (así como el paso a nivel (LC) «Rade Končar» en el pk 439+470, mientras que el paso a nivel (LC) «Sesvetska Selnica» en el pk 436+329 tiene protección automática con control remoto desde la estación de Sesvete).
-
-No hubo víctimas mortales ni heridos en el incidente, ni daños materiales en la infraestructura ni en el material rodante ferroviario.
-
-4 Las recomendaciones de seguridad se citan exclusivamente para evitar la ocurrencia de incidentes similares en el futuro. Si no se citan recomendaciones de seguridad, debe justificarse. Las recomendaciones de seguridad se basan en los hechos establecidos y en las consideraciones adicionales sobre los mismos, así como en su análisis, sobre el cual se emiten conclusiones sobre las causas y las consecuencias del incidente relevantes para la seguridad. Las recomendaciones de seguridad también pueden emitirse en relación con observaciones adicionales, independientemente de la causalidad o del contexto que contribuya al incidente. (REGULACIÓN DE EJECUCIÓN DE LA COMISIÓN (UE) 2020/572 de 24 de abril de 2020)
+### Recomendaciones de seguridad4 
+La Agencia de Investigación de Accidentes en el transporte aéreo, marítimo y ferroviario, con base en la investigación realizada sobre este incidente, con el fin de aumentar la seguridad del sistema ferroviario, emite a la Agencia de Seguridad del Tráfico Ferroviario las siguientes recomendaciones de seguridad:  
+AIN/06-SR-03/2025: Con base en los resultados de esta investigación, así como según las consideraciones adicionales en todas las conclusiones de los informes de investigación ID-3 mencionados en el punto 4.5., el gestor de infraestructura (HŽI) debería, en un plazo de 18 meses, automatizar la activación de los PFC «Krčeni put» y «Rade Končar» a fin de permitir una circulación más segura de los vehículos ferroviarios y por carretera en un tramo con tráfico ferroviario muy intenso y tráfico de vehículos por carretera extremadamente frecuente, y reducir los riesgos de intervención humana derivados de la manipulación de su protección.  
+AIN/06-SR-04/2025: El gestor de infraestructura (HŽI) debería, tras la automatización, considerar también la posibilidad de iniciar el procedimiento de resolución de los mencionados PFC a nivel distinto (desnivelación), que es la única solución permanente y segura debido al aumento del número de usuarios del paso y a las congestiones de tráfico. 
+AIN/06-SR-05/2025: El gestor de infraestructura (HŽI) debería prestar más atención a las consideraciones adicionales de sus informes de investigación (ID-3) y acelerar el proceso de respuesta a los mismos, a fin de poder gestionar en el plazo más breve posible los posibles cambios y las medidas preventivas con el objetivo de la mejora continua y el aumento de la seguridad del tráfico. 
+### SUMMARY 
+On July 18, 2024, at 12:27 p.m., the LC "Krčeni put" was untimely protected (the half-guards were in a 
+vertical position - open) during passing of passenger train number 210. After spotting the train, the 
+train dispatcher/LC guard turned on the LC protection. 
+The LC "Krčeni put" (secured by sound and light signals and half-bumpers) is located between the 
+stations Sesvete and Dugo Selo, at km 440+295, on the line M102, which is manually controlled by the 
+train dispatcher/LC guard with a device from the stop Sesvetski Kraljevec (as well as the LC "Rade 
+Končar" at km 439+470, while the LC "Sesvetska Selnica" at km 436+329 has automatic protection with 
+remote control at the station Sesvete).  
+No one was fatally injured or injured in the incident, nor was there any material damage to the 
+infrastructure and railway vehicles. 
+4 Las recomendaciones de seguridad se indican exclusivamente para prevenir sucesos extraordinarios similares en el futuro. Si no se indican recomendaciones, es necesario justificarlo. Las recomendaciones de seguridad se basan en los hechos establecidos y en las consideraciones adicionales sobre los mismos, así como en su análisis, sobre la base del cual se extraen conclusiones sobre las causas y consecuencias del suceso extraordinario importantes para la seguridad. Las recomendaciones de seguridad también pueden emitirse en relación con observaciones adicionales, independientemente de la causalidad o del contexto que contribuya al suceso extraordinario. (REGLAMENTO DE EJECUCIÓN DE LA COMISIÓN (UE) 2020/572 de 24 de abril de 2020.)
 
 ## Página 9
 
@@ -388,24 +388,24 @@ Pasos a nivel ferroviarios (ŽCP) y pasos peatonales (PP):
 
 |  |  |  |  |  | D 5D 6 - , - |  |
 |  | NadioniciSesvete-ZagrebBorongaj -ZagrebResnik |  |  |  |  |  |
-| PP Sopnička“ „ |  | 433+389 (1+606) | svjetlosniizvučnisignali , Andrijinkriž mimoilazna , ograda | Sesvete | sign br 562 . . , 561011 izl , , . sign .E -5 E -6 , |  |
-| ŽCP Retkovec „ I“ |  | 432+393 | svjetlosniizvučnisignali , polubranici znakstop , | Zagreb Borongaj | sign br . . 571 572 , |  |
-| ŽCP Retkovec „ II“ |  | 2+594 | svjetlosniizvučnisignali , polubranici znakstop , | ZagrebResnik | sign br 012 . . , izl sign .E -5 i . E -6;izl sign - . D 3 - |  |
-En la Figura 2 se muestran los pasos a nivel controlados por personal (ŽCP) y las paradas (PP) en el área de la estación de Sesvete y en el tramo Dugo Selo-Sesvete. 
-Figura 2. – ŽCP y PP en el área de la estación de Sesvete y en el tramo Dugo Selo-Sesvete (Fuente de la imagen: Google 
+| PP Sopnička“ „ |  | 433+389 (1+606) | señales luminosas y acústicas , Andrijinkriž paso a nivel , vallado | Sesvete | sign br 562 . . , 561011 sal , , sign .E -5 E -6 , |  |
+| ŽCP Retkovec „ I“ |  | 432+393 | señales luminosas y acústicas , semibarreras señal de stop , | Zagreb Borongaj | sign br . . 571 572 , |  |
+| ŽCP Retkovec „ II“ |  | 2+594 | señales luminosas y acústicas , semibarreras señal de stop , | ZagrebResnik | sign br 012 . . , sal sign .E -5 i . E -6;sal sign - . D 3 - |  |
+En la Figura 2 se muestran los ŽCP y PP en la zona de la estación de Sesvete y en el tramo Dugo Selo-Sesvete. 
+Figura 2. – ŽCP y PP en la zona de la estación de Sesvete y en el tramo Dugo Selo-Sesvete (Fuente de la imagen: Google 
 Earth, AIN) 
-En caso de avería repentina del paso a nivel controlado por personal (ŽCP) "Krčeni put" y del ŽCP "Rade Končar" en la parada de Sesvetski Kraljevec, 
-el agente de tráfico de trenes/custodio del ŽCP de la parada puede proteger los pasos a nivel mediante señales espaciales número 
-522 y número 531, que a su vez son las señales de protección de la parada. 
-Distribución de las señales espaciales del APB en los tramos entre estaciones (entre las estaciones de Sesvete-Dugo 
-Selo) (Figura 3.): 
+En caso de avería repentina del ŽCP „Krčeni put“ y del ŽCP „Rade Končar“ en la parada de Sesvetski Kraljevec, 
+el despachador de trenes / guardián del ŽCP de la parada puede proteger los pasos a nivel mediante las señales espaciales número 
+522 y número 531, que son a su vez las señales de protección de la parada. 
+Distribución de las señales espaciales del APB en los tramos intermedios entre estaciones (entre las estaciones Sesvete-Dugo 
+Selo) (Figura 3): 
 Dugo Selo – Sesvete 
-• 502 en el pk 443+447 
-• 512 en el pk 442+080 
-• 522 en el pk 440+880 de protección 
-• 532 en el pk 439+650 
-• 542 en el pk 438+350 
-• 552 en el pk 437+052 (señal de aproximación)
+• 502 en km 443+447 
+• 512 en km 442+080 
+• 522 en km 440+880 de protección 
+• 532 en km 439+650 
+• 542 en km 438+350 
+• 552 en km 437+052 (presignales)
 
 ## Página 17
 
@@ -786,21 +786,17 @@ El gestor de la infraestructura nos indicó en su carta, al facilitar la documen
 
 ## Página 36
 
-- también se menciona que PRJP Centar propuso adicionalmente iniciar el procedimiento de resolución del paso a nivel (ŽCP) fuera del nivel jerárquico correspondiente, ya que esto es lo único que puede resolver completamente el problema mencionado, el cual aumenta cada día debido al incremento del tráfico y del número de usuarios de los referidos pasos a nivel (ŽCP).
-HŽI, por su parte, para los planes de solución del referido paso a nivel (ŽCP), indica que el paso a nivel (ŽCP) “Krčeni put” estará asegurado (junto con otro paso a nivel) en el marco de la seguridad de la estación de Dugo Selo a través del proyecto Dugo Selo – Križevci.
-
-### 5.3. Consideraciones adicionales
-Los incidentes anteriores, el presente y los posteriores en el referido paso a nivel (ŽCP) pueden, bajo circunstancias ligeramente diferentes, dar lugar a accidentes graves, por lo que es extremadamente importante que la solución de modernización se lleve a cabo en el plazo más breve posible. En este incidente, el maquinista del tren n.º 210 evitó mediante una reacción rápida la colisión con un vehículo de transporte por carretera que cruzaba el paso no asegurado, y con ello evitó un posible accidente.
-
-En el Programa de resolución de los pasos a nivel (ŽCP) y pasos a desnivel (PP) a través de la vía para el período comprendido entre 2023 y 2027, aprobado por el ministro del Ministerio del Mar, del Transporte y de la Infraestructura, se ha establecido una lista de prioridades para la resolución de los pasos a nivel (ŽCP) y pasos a desnivel (PP) en la República de Croacia, en la cual la solución actual de seguridad (luz + sonido + barrera parcial + vigilante) de los pasos a nivel (ŽCP) “Krčeni put” y “Rade Končar” está clasificada con los números 6. y 7. para la solución técnica definitiva (luz + sonido + barrera parcial). Los métodos previstos de resolución de los pasos a nivel (ŽCP) y pasos a desnivel (PP) a través de la vía en el programa son la desnivelación, la supresión con o sin reducción de desnivel, la seguridad mediante dispositivo, la ampliación o la modificación del método de seguridad existente mediante dispositivo.
-
-Nuestra recomendación de seguridad, que se refiere a la necesidad de que el gestor de la infraestructura automatice la activación de los pasos a nivel (ŽCP) “Krčeni put” y “Rade Končar” en el plazo indicado, se menciona en el informe independientemente de la información de HŽI de que los pasos a nivel (ŽCP) estarán asegurados en el marco de la seguridad de la estación de Dugo Selo a través del proyecto Dugo Selo – Križevci, con el fin de garantizar su ejecución real sobre la base del análisis establecido.
-
-### CONCLUSIONES
-5.1. Resumen del análisis y las conclusiones respecto a las causas del suceso
-El error humano del trabajador (acción no intencionada y percepción errónea) en este incidente fue influenciado por diversos factores relacionados con el trabajo en sí mismo, así como por factores organizativos.
-El 18 de julio de 2024, el despachador de trenes/vigilante del paso a nivel (LC) recibió 45 avisos anticipados de trenes procedentes de las estaciones de Dugo Selo y Sesvete antes del incidente. El despachador de trenes/vigilante del paso a nivel (LC) trabajó en la estación de Sesvete durante la primera mitad de julio, y en la parada de Sesvetski Kraljevec durante la segunda mitad. Cambió sus tareas laborales según el horario y, al hacerlo, operó diferentes versiones de los dispositivos de señalización y seguridad conforme a diferentes instrucciones de explotación y realizó diversas funciones/tareas prescritas en la estación de Sesvete y en la parada de Sesvetski Kraljevec.
-Una revisión de los informes de investigación anteriores (y de uno posterior a este incidente) preparados por el gestor de la infraestructura y las empresas ferroviarias para incidentes similares de aseguramiento tardío del paso a nivel (LC) "Krceni put" mencionado en el punto 4.5 anterior, en todos los incidentes la causa fue el error personal del empleado ejecutivo del gestor de la infraestructura (despachador de trenes/vigilante del paso a nivel). El error en el
+- también mencionan que, por parte de PRJP Centar, se propuso adicionalmente iniciar el procedimiento de resolución del PFC fuera del nivel, ya que es lo único que puede resolver por completo el problema indicado, que es cada vez mayor a diario debido al aumento del tráfico y al aumento del número de usuarios de dichos PFC.  
+HŽI, además, en cuanto a los planes de solución del mencionado PFC, indica que el PFC «Krčeni put» será asegurado (junto con otro PFC más) en el marco de la aseguración de la estación de Dugo Selo a través del proyecto Dugo Selo – Križevci. 
+### 5.3. Consideraciones adicionales  
+Los incidentes anteriores, el presente y los posteriores en el mencionado PFC pueden, en circunstancias ligeramente diferentes, dar lugar a accidentes graves, por lo que es extremadamente importante que la solución de modernización se lleve a cabo en el plazo más breve posible. En este incidente, el maquinista del tren n.º 210 evitó, mediante una reacción rápida, la colisión con un vehículo de carretera de carga que cruzaba el paso a nivel no asegurado, y con ello el posible accidente.  
+En el Programa de resolución de PFC y PP sobre la vía para el período de 2023 a 2027, que aprueba el ministro del Ministerio de Marina, Transporte e Infraestructura, se ha establecido la lista de prioridades de resolución de PFC y PP en la República de Croacia, en la que la solución existente de aseguramiento (luz + sonido + semibarrera + guardia) de los PFC «Krčeni put» y «Rade Končar» está clasificada con los números 6. y 7. para la solución técnica definitiva (luz + sonido + semibarrera). Los modos previstos de resolución de PFC y PP sobre la vía en el programa son: desnivelación, supresión con o sin reducción, aseguramiento mediante dispositivo, complemento o cambio del modo existente de aseguramiento mediante dispositivo.  
+Nuestra recomendación de seguridad relativa a la necesidad de que el gestor de infraestructura automatice, en el plazo indicado, la activación de los PFC «Krčeni put» y «Rade Končar» se indica en el informe de forma independiente a la información de HŽI de que los PFC serán asegurados en el marco de la aseguración de la estación de Dugo Selo a través del proyecto Dugo Selo – Križevci, a fin de que, sobre la base del análisis establecido, se garantice su efectiva ejecución.  
+### CONCLUSIONES  
+5.1. Resumen del análisis y de las conclusiones respecto a las causas de la ocurrencia  
+El error humano del trabajador (acción involuntaria y percepción errónea) en este incidente estuvo influenciado por diversos factores relacionados con el propio trabajo, así como por factores organizativos.  
+El 18 de julio de 2024, el despachador de trenes/guardia de PFC recibió 45 avisos previos de trenes de las estaciones de Dugo Selo y Sesvete antes del incidente. El despachador de trenes/guardia de PFC trabajó en la estación de Sesvete durante la primera mitad de julio y en la parada de Sesvetski Kraljevec durante la segunda mitad. Cambió las tareas de trabajo según el horario y, al hacerlo, operó diferentes versiones de los dispositivos de señalización y seguridad según diferentes instrucciones de explotación y realizó diversas funciones/tareas prescritas en la estación de Sesvete y en la parada de Sesvetski Kraljevec.  
+Una revisión de los informes de investigación anteriores (y uno posterior a este incidente) elaborados por el gestor de infraestructura y las empresas ferroviarias para incidentes similares de aseguramiento intempestivo del PFC «Krceni put» mencionado en el punto 4.5 anterior, en todos los incidentes la causa fue el error personal del empleado ejecutivo del gestor de infraestructura (despachador de trenes/guardia de PFC). El error en el
 
 ## Página 37
 

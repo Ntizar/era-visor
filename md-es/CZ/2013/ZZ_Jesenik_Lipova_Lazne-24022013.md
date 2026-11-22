@@ -10,13 +10,14 @@ chars: 161956
 ratio_longitud: 1.28
 tokens_in: 76001
 tokens_out: 57831
-verificacion: revisar
-notas_cifras: ["bloque 1: original bilingüe: se compara contra el idioma principal (EN)", "bloque 3: original bilingüe: se compara contra el idioma principal (CS); cifras cortas: 1/114", "bloque 4: original bilingüe: se compara contra el idioma principal (CS)", "bloque 5: cifras cortas: 7/118", "bloque 8: original bilingüe: se compara contra el idioma principal (CS)", "bloque 9: original bilingüe: se compara contra el idioma principal (CS); cifras cortas: 6/209"]
-avisos: ["bloque 3: ratio 2.05"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 7: original bilingüe: se compara contra el idioma principal (EN)", "página 8: original bilingüe: se compara contra el idioma principal (PT)", "página 9: original bilingüe: se compara contra el idioma principal (CS)", "página 12: original bilingüe: se compara contra el idioma principal (CS)", "página 13: original bilingüe: se compara contra el idioma principal (EN)"]
 ---
+
 ## Página 1
+
 
 Inspección Ferroviaria
 República Checa
@@ -41,13 +42,13 @@ IČ:   75009561
 http://www.dicr.cz
 tel.: 224 805 444
 
-
 ## Página 2
+
 
 Este informe final es público y todos los documentos y hechos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ## 1 RESUMEN
 Fuente: Inspección Ferroviaria 
@@ -80,8 +81,8 @@ que afectó a la construcción del vehículo y supuso una desviación del tipo a
 (consistente, entre otros, en un aumento sustancial del peso correspondiente al
 eje 1 al montar ruedas monolíticas, fundidas en acero fundible
 
-
 ## Página 4
+
 
 con diseño según el plano n.º 2-131-01-2/D) y la autorización al transportista para operar
 el vehículo ferroviario de tracción especial 99 54 9 628 130-5 con la fresadora de nieve
@@ -111,8 +112,8 @@ transportistas y la adopción de una medida que excluya la aprobación de modifi
 no se ajusten a los requisitos de seguridad del transporte ferroviario de las personas
 operadoras y transportadas y de las mercancías.
 
-
 ## Página 5
+
 
 ## RESUMEN 
 Clasificación:
@@ -159,11 +160,12 @@ la República Checa y adoptar una medida que excluya la aprobación de
 modificaciones en el material rodante que no se ajusten a los requisitos de
 seguridad del transporte ferroviario.
 
-
 ## Página 6
 
 
+
 ## Página 7
+
 
 # Índice
 1 Resumen ...............................................................................................................................3
@@ -201,6 +203,7 @@ contractual ....................................................................
 3.2 Sistema de garantía de la seguridad ...............................................................................25
 
 ## Página 8
+
 
 3.2.1 Marco organizativo y forma en que se emiten y ejecutan las instrucciones .......25
 3.2.2 Requisitos del personal del gestor de la infraestructura y del transportista y su
@@ -240,8 +243,8 @@ punto 3 ........................................................................
 sobre la causa del suceso ferroviario y la actuación de los servicios de emergencia ..........................................48
 4.3 Conclusiones .......................................................................................................................49
 
-
 ## Página 9
+
 
 4.3.1 Causas inmediatas del suceso ferroviario, incluidos los factores que contribuyeron al
 mismo y que se relacionaron con la actuación de las personas implicadas o con el estado de
@@ -260,8 +263,8 @@ ferroviario ....................................................................
 6 Recomendaciones de seguridad .............................................................................................52
 7 Anexos .............................................................................................................................54
 
-
 ## Página 10
+
 
 ## Lista de siglas y símbolos utilizados
 BNT 
@@ -338,8 +341,8 @@ ferroviario
 žst. 
 estación ferroviaria
 
-
 ## Página 11
+
 
 ## Lista de siglas de la normativa legal, normas y normas internas
 utilizadas
@@ -409,16 +412,15 @@ especiales», aprobada el 14. 12. 2011, núm. de expediente:
 S56660/2011-OP, en vigor desde el 1. 1. 2012, en su versión
 vigente
 
-
 ## Página 12
 
-| SŽDC(ČD)S8/3 | norma interna del transportista SŽDC s o SŽDC (ČD) S 8/3 , . ., Reglamento para la explotación de vehículos especiales según tipos» « , aprobada el 12 8 2004 con el núm. de expediente: 59438/2004 . . , . . , en vigor desde el 1 7 2005 en su versión vigente . . , |
-| Organizačnísměrniceč 300/52 . | Directriz organizativa de ČD a s SDC Olomouc núm. 300/52 , . ., . «Inspecciones establecidas de las líneas nacionales y regionales en el distrito de SDC Olomouc» núm. de expediente: 563/08OP de fecha 29 5 , . . , . . 2008 en vigor desde el 1 6 2008 en su versión vigente , . . , |
-| ČSN422660 | ČSN 42 2660 «ACERO PARA FUNDICIONES de carbono» , en vigor desde el 1 1 1975 . . |
-| ČSNEN13262 | ČSN EN 13262 «Aplicaciones ferroviarias - Bogies y bastidores - Ruedas - Requisitos del producto» , en vigor desde enero de 2005 |
-
+| SŽDC(ČD)S8/3 | norma interna del transportista SŽDC s o SŽDC (ČD) S 8/3 , . ., Norma para la circulación de vehículos especiales según tipos“ „ , aprobada el 12 8 2004 con n.º ref. : 59438/2004 . . , . . , en vigor desde el 1 7 2005 en su versión vigente . . , |
+| Organizačnísměrniceč 300/52 . | Directriz organizativa de ČD y s SDC Olomouc n.º 300/52 , . ., . Controles establecidos de las líneas nacionales y regionales „ en el ámbito de SDC Olomouc“ n.º ref. : 563/08OP el 29 5 , . . , . . 2008 en vigor desde el 1 6 2008 en su versión vigente , . . , |
+| ČSN422660 | ČSN 42 2660 ACERO PARA FUNDICIONES“ de carbono“ , en vigor desde el , 1 1 1975 . . |
+| ČSNEN13262 | ČSN EN 13262 „Aplicaciones ferroviarias - Bogies y bastidores - Ruedas - Requisitos del producto“ , en vigor desde enero de 2005 |
 
 ## Página 13
+
 
 ## 2 DATOS RELATIVOS AL SUCESO FERROVIARIO
 ## 2.1
@@ -440,8 +442,8 @@ y parte del bastidor del SHDV 99 54 9 628 130-5 inmediatamente
 después de la producción del suceso ferroviario.
 Fuente: www.k-report.net
 
-
 ## Página 14
+
 
 ### 2.1.2 Descripción del suceso ferroviario y del lugar del accidente, incluida la actuación
 del sistema integrado de emergencias y del servicio de salvamento
@@ -462,20 +464,20 @@ Fuente: DI con utilización de los portales cartográficos www.cd.cz y http://gi
 
 ## Página 15
 
-Dado que el explotador de la vía y el transportista (SŽDC, s. o.), en contradicción con lo dispuesto en el § 49 apartado 3 letras a) y b) de la Ley núm. 266/1994 Sb. y en el § 8 apartado 1 y el § 9 apartado 3 del Decreto núm. 376/2006 Sb., no notificó a la DI la aparición de la MU en cuestión de forma inmediata (véase el punto 3.5.3), es decir, sin demora indebida, y realizó en el lugar de la MU modificaciones inadmisibles del estado original, no fue posible inspeccionar por la DI el lugar de aparición de la MU. La aparición de la MU fue comunicada a la DI el 28. 2. 2013 mediante una iniciativa, ref. núm.: 223/2013/DI-5, y ello en forma de carta anónima – envío postal ordinario – entregado por Česká pošta, s. p. S base en esta iniciativa, la DI realizó el 1. 3. 2013 al explotador de la vía y al transportista (SŽDC, s. o.) una primera averiguación de las circunstancias de la aparición de la MU y la obtención de documentación sobre la MU en cuestión.
+Dado que el explotador de la vía y el transportista (SŽDC, s. o.), en contradicción con lo dispuesto en el § 49 apartado 3 letras a) y b) de la ley nº 266/1994 Sb. y en el § 8 apartado 1 y el § 9 apartado 3 del decreto nº 376/2006 Sb., no notificó a la DI la aparición de la MU en cuestión sin demora (véase el punto 3.5.3), es decir, sin dilación indebida, y realizó en el lugar de la MU modificaciones inadmisibles del estado original, no pudo la DI inspeccionar el lugar de aparición de la MU. La aparición de la MU fue comunicada a la DI el 28 de febrero de 2013 mediante una iniciativa, ref. nº: 223/2013/DI-5, y ello en forma de carta anónima – envío postal ordinario – entregado por Česká pošta, s. p. En virtud de esta iniciativa, la DI realizó el 1 de marzo de 2013, ante el explotador de la vía y el transportista (SŽDC, s. o.), una primera investigación de las circunstancias de la aparición de la MU y la obtención de documentación sobre la MU en cuestión.
 
-Mediante la inspección del SHDV 99 54 9 628 130-5 se constató una rotura circular de la placa de la rueda maciza derecha del primer eje. Hacia el exterior de la rueda se desprendió una parte del disco de la rueda n.º VS141, incluida la superficie de rodadura de la rueda. La parte desprendida de la rueda tocaba con su superficie de rodadura la cabeza del carril, y por tanto no se produjo el descarrilamiento del SHDV. Sin embargo, no cumplía la función de guiado y soporte del SHDV. Se movía libremente por el buje de la rueda maciza, en el espacio delimitado por la parte no desprendida de la rueda del SHDV y el mando del freno de disco. La parte no desprendida, restante, de la rueda derecha del vehículo (de forma de círculo irregular), que permaneció firmemente unida (prensada) al buje del eje, con lo que siguió siendo parte del SHDV, no tocaba con ninguna parte la cabeza del carril derecho. Con la rotura circular de la rueda derecha se produjo una modificación no autorizada de los parámetros de la rueda, consistente en la pérdida de las funciones básicas de todo el bogie y en la modificación de las fuerzas verticales de rueda en las ruedas restantes del SHDV. La rueda izquierda del primer eje y las ruedas izquierda y derecha del segundo eje del SHDV 99 54 9 628 130-5, pese a la modificación fundamental de las fuerzas verticales de rueda, no descarrilaron – las tres ruedas restantes del SHDV no abandonaron con su superficie de contacto la cabeza del carril TK.
+Mediante la inspección de la SHDV 99 54 9 628 130-5 se constató una rotura circular de la placa de la rueda maciza derecha del eje nº 1. Por la parte exterior circular de la rueda se desprendió una parte del disco de la rueda n.º VS141, incluida la superficie de rodadura de la rueda. La parte desprendida de la rueda tocaba con su superficie de rodadura la cabeza del carril, por lo que no se produjo el descarrilamiento de la SHDV. Sin embargo, no cumplía la función de guiado y soporte de la SHDV. Se movía libremente por el buje de la rueda maciza, en el espacio delimitado por la parte no desprendida de la rueda de la SHDV y el brazo del freno de disco. La parte derecha no desprendida, restante, de la rueda del vehículo (de forma de círculo irregular), que permaneció firmemente unida (prensada) al buje del eje, con lo que siguió siendo parte de la SHDV, no tocaba con ninguna parte la cabeza del carril derecho. Con la rotura circular de la rueda derecha se produjo una modificación no autorizada de los parámetros de la rueda, consistente en la pérdida de las funciones básicas de todo el bogie y en la modificación de las fuerzas verticales de rueda sobre las ruedas restantes de la SHDV. La rueda izquierda del eje nº 1 y las ruedas izquierda y derecha del eje nº 2 de la SHDV 99 54 9 628 130-5, pese a la modificación sustancial de las fuerzas verticales de rueda, no descarrilaron – las tres ruedas restantes de la SHDV no abandonaron con su superficie de contacto la cabeza del carril de la vía.
 
-La parte desprendida de la rueda tenía forma de anillo irregular, limitada por el interior por la superficie de rotura de la placa de la rueda y por el exterior por la superficie de rodadura de la rueda original del vehículo. La parte desprendida de la rueda se desplazó hacia el exterior de la rueda del vehículo y quedó libre sobre el buje de la rueda maciza, por el que se movía libremente en el espacio delimitado por la parte no desprendida de la rueda del SHDV y el mando del freno de disco. En la parte desprendida de la rueda eran visibles huellas de rozadura contra las bielas y los elementos de fijación del freno de disco. Las huellas de rozadura tenían forma de círculos irregulares. En el buje de la rueda maciza, fuera de la parte restante de la rueda del vehículo, eran patentes huellas claras de rozadura de la superficie interior de la parte desprendida de la rueda. La rozadura tenía en el buje de la rueda maciza apariencia de metal pulido. Estas huellas atestiguaban el movimiento rotativo de la parte desprendida de la rueda sobre el buje, o bien el movimiento rotativo mutuo del buje de la rueda maciza y de la parte desprendida de la rueda.
+La parte desprendida de la rueda tenía la forma de un anillo irregular, delimitado en su cara interior por la superficie de rotura de la placa de la rueda y en su cara exterior por la superficie de rodadura de la rueda original del vehículo. La parte desprendida de la rueda se desplazó hacia el exterior de la rueda del vehículo y quedó libre sobre el buje de la rueda maciza, por el que se movía libremente en el espacio delimitado por la parte no desprendida de la rueda de la SHDV y el brazo del freno de disco. En la parte desprendida de la rueda eran visibles huellas de rozadura contra las varillas y los elementos de fijación del freno de disco. Las huellas de rozadura tenían la forma de círculos irregulares. En el buje de la rueda maciza, en el exterior de la parte restante de la rueda del vehículo, eran apreciables huellas claras de rozadura de la cara interior de la parte desprendida de la rueda. La rozadura en el buje de la rueda maciza tenía apariencia de metal pulido. Estas huellas acreditaban el movimiento rotativo de la parte desprendida de la rueda sobre el buje, o bien el movimiento rotativo mutuo del buje de la rueda maciza y de la parte desprendida de la rueda.
 
-Los hechos anteriores, constatados por la DI el 1. 3. 2013, fueron documentados por la persona profesionalmente cualificada para la averiguación de las causas y circunstancias de la aparición de la MU en el lugar de la MU (en adelante, persona designada) ya el 24. 2. 2013, y ello en el lugar de parada del tren Lv 76280, unos 25 minutos después de la aparición de la MU. Asimismo, la DI constató el 1. 3. 2013 que:
+Los hechos anteriores, constatados por la DI el 1 de marzo de 2013, fueron documentados por una persona profesionalmente cualificada para la investigación de las causas y circunstancias de la aparición de la MU en el lugar de la MU (en adelante, persona designada) ya el 24 de febrero de 2013, y ello en el lugar de parada del tren Lv 76280, unos 25 minutos después de la aparición de la MU. Asimismo, la DI constató el 1 de marzo de 2013 que:
 
-• con la rotura de la rueda en la explotación del transporte ferroviario, en este caso concreto con la rotura circular de la rueda n.º VS141 producida en el SHDV 99 54 9 628 130-5, empleado en el tren Lv 76280, se cumplió, según lo dispuesto en el § 49 apartado 1 de la Ley núm. 266/1994 Sb., el tipo penal de la aparición de la MU;
-• la MU se produjo el 24. 2. 2013, a las 15.55.56 h, en la vía ferroviaria, categoría estatal, Mikulovice st. hr. – Hanušovice, en la TK explotada entre las estaciones Jeseník y Lipová Lázně, en el km 31,780, y ello durante la marcha del tren Lv 76280, del transportista SŽDC, s. o., en trayecto desde la estación Jeseník hasta la estación Lipová Lázně. El explotador de la vía y el transportista era SŽDC, s. o.;
-• según declaración oral de los empleados del explotador de la vía (SŽDC, s. o.), durante la marcha del tren Lv 76280 desde la estación Jeseník hasta la estación Lipová Lázně, se produjo en el SHDV una rotura de rueda (sin descarrilamiento del SHDV) y a continuación se interrumpió la explotación del transporte ferroviario;
-
+• con la rotura de la rueda durante la explotación del transporte ferroviario, en este caso concreto con la rotura circular de la rueda n.º VS141 producida en la SHDV 99 54 9 628 130-5, utilizada en el tren Lv 76280, se cumplió, conforme a lo dispuesto en el § 49 apartado 1 de la ley nº 266/1994 Sb., el tipo penal de la aparición de la MU;
+• la MU se produjo el 24 de febrero de 2013, a las 15.55.56 h, en la vía ferroviaria, categoría nacional, Mikulovice frontera – Hanušovice, en la vía explotada entre las estaciones Jeseník y Lipová Lázně, en el km 31,780, y ello durante la circulación del tren Lv 76280, transportista SŽDC, s. o., en trayecto desde la estación Jeseník hasta la estación Lipová Lázně. El explotador de la vía y el transportista fue SŽDC, s. o.;
+• según declaración verbal de los empleados del explotador de la vía (SŽDC, s. o.), durante la circulación del tren Lv 76280 desde la estación Jeseník hasta la estación Lipová Lázně, se produjo en la SHDV una rotura de rueda (sin descarrilamiento de la SHDV) y, a continuación, se interrumpió la explotación del transporte ferroviario;
 
 ## Página 16
+
 
 • el tren Lv 76280 estaba compuesto por un SHDV de dos ejes que circulaba de forma independiente, 99 54 9 628 130-5, con una pala de nieve ferroviaria KSF 70.1, n.º 148;
 • el SHDV llegó a la estación Jeseník el 24. 2. 2013 a las 13.27 h como tren Lv 76281;
@@ -494,44 +496,44 @@ Tras las averiguaciones anteriores del 1. 3. 2013, la DI realizó a continuació
 
 • rotura circular de la placa de la rueda maciza n.º VS141, y ello en el lugar entre el buje de la rueda maciza y los cuatro orificios de transmisión. El disco de la rueda se desprendió hacia el exterior, en dirección al disco de freno TAKB, con la superficie de rotura en posición radial y con propagación tangencial posterior;
 
-
 ## Página 17
 
-• huellas de rozadura (movimiento rotativo) en la parte delantera del buje de la rueda maciza, causadas por el contacto con velocidades angulares mutuas incompatibles entre la parte desprendida de la rueda y la parte de la rueda unida firmemente al primer eje, siendo las velocidades angulares del primer eje las correspondientes a las de la rueda izquierda;
-• estriado en la superficie de rodadura de la parte desprendida de la rueda n.º VS141 en todo el perímetro, de unos 5 mm de ancho y 1 mm de profundidad, producido por el contacto mutuo de la parte desprendida de la rueda con las partes de los tornillos de fijación del sistema de freno del SHDV en el horario desde la aparición de la MU hasta la parada del tren;
-• estriado en el canto, presente en todo el perímetro de la parte desprendida de la rueda n.º VS141, producido por el contacto mutuo de la parte desprendida de la rueda con las partes de los tornillos de fijación del sistema de freno del SHDV en el horario desde la aparición de la MU hasta la parada del tren;
-• huella de rozadura en todo el perímetro de la cara exterior en la zona de unión entre el aro y el disco de la parte desprendida de la rueda n.º VS141, en el espacio sobre los orificios de transmisión. La rozadura fue causada por el tornillo de ajuste del soporte de las zapatas de freno de los frenos de disco al girar el disco de rueda desprendido en el horario desde la aparición de la MU hasta la parada del tren;
-• virutas metálicas y huellas circulares de rozadura del borde de la superficie de rodadura y de la cara frontal exterior del aro del disco de rueda desprendido n.º VS141 en el árbol de transmisión derecho (cardán), que forma parte de la cadena cinemática destinada al accionamiento de la pala de nieve ferroviaria KSF 70.1, causadas por el giro de esta rueda en el horario desde la aparición de la MU hasta la parada del tren. Con el contacto de la parte desprendida de la rueda n.º VS141 con el tubo del cardán se produjo su deformación;
-• huellas de los impactos de la parte desprendida de la rueda n.º VS141 sobre el tornillo de ajuste y el soporte deformado de las zapatas de freno de los frenos de disco TAKB (la pintura de los impactos fue eliminada hasta el metal), causadas por el giro de la parte desprendida de la rueda en el horario desde la aparición de la MU hasta la parada del tren;
-• grieta visible (de unos 2 cm) en el disco de freno derecho TAKB del eje motriz, que se extiende desde el borde exterior hacia el centro. La misma grieta fue constatada también en el disco derecho del eje normal (trasero);
-### Fig. núm. 4: Rueda derecha rota n.º VS141, cuyo disco se desprendió hacia el exterior en dirección al disco de freno TAKB.
+marcas de desgaste (por movimiento rotativo) en la parte frontal del buje de la rueda íntegra, causadas por
+•
+el contacto a velocidades angulares mutuas desiguales entre la parte arrancada de la rueda y la parte de la rueda firmemente unida al primer eje, siendo las velocidades angulares del eje 1 correspondientes a las velocidades angulares de la rueda izquierda;
+estriado en la superficie de rodadura de la parte arrancada de la rueda n.º VS141 a lo largo de toda la circunferencia, de unos 5 mm de ancho y 1 mm de profundidad, originado en el contacto mutuo entre la parte arrancada de la rueda y las partes de los tornillos de fijación del sistema de freno SHDV desde la aparición de la MU hasta la parada del tren;
+estriado en el aro, situado a lo largo de toda la circunferencia de la parte arrancada de la rueda n.º VS141, originado en el contacto mutuo entre la parte arrancada de la rueda y las partes de los tornillos de fijación del sistema de freno SHDV desde la aparición de la MU hasta la parada del tren;
+marca de desgaste a lo largo de toda la circunferencia del lado exterior en la zona de unión entre la llanta y el disco de la parte arrancada de la rueda n.º VS141, en el espacio por encima de los orificios de arrastre. El desgaste fue causado por el tornillo de ajuste del soporte de las zapatas de freno de los frenos de disco al girar el disco de rueda arrancado desde la aparición de la MU hasta la parada del tren;
+virutas metálicas y marcas circulares de desgaste del borde de la superficie de rodadura y del frontal exterior de la llanta de la parte arrancada del disco de la rueda n.º VS141 en el árbol de transmisión derecho (cardán), que forma parte de la cadena cinemática destinada al accionamiento de la quitanieves ferroviaria KSF 70.1, causadas por el giro de esta rueda desde la aparición de la MU hasta la parada del tren. El contacto de la parte arrancada de la rueda n.º VS141 con el tubo del cardán provocó su deformación;
+marcas de impactos de la parte arrancada de la rueda n.º VS141 sobre el tornillo de ajuste y el soporte deformado de las zapatas de freno de los frenos de disco TAKB (la pintura de los impactos fue eliminada hasta el metal), causadas por el giro de la parte arrancada de la rueda desde la aparición de la MU hasta la parada del tren;
+grieta visible (de unos 2 cm) en el disco de freno derecho TAKB del eje motriz, que se extiende desde el borde exterior hacia el centro. La misma grieta fue detectada también en el disco derecho del eje normal (trasero);
+### Fig. n.º 4: Rueda derecha rota n.º VS141, cuyo disco fue arrancado hacia el exterior en dirección al disco de freno TAKB.
 Fuente: DI
-
 
 ## Página 18
 
-• más roturas y grietas en la zona de los orificios de transmisión de la parte desprendida de la rueda n.º VS141.
-Con la MU se activó el IZS.
-
-2.1.3 Decisión de iniciar la averiguación de las causas y circunstancias de la aparición, composición del equipo de personas profesionalmente cualificadas y método de dirección de la averiguación de las causas y circunstancias de la aparición
-| MU notificada a la COP de la DI el: | 10. 4. 2013, 13:39 h (es decir, 44 días, 21.43 h después de la aparición de la MU y 40 días naturales después de que la DI iniciara, al explotador de la vía y al transportista, los actos relacionados con la averiguación de las causas y circunstancias de esta MU) |
-| Forma de notificación: | telefónica. |
-| Notificado por la persona designada en representación de: | el explotador de la vía y el transportista (SŽDC, s. o.). |
-| Consentimiento de la DI para la liberación de la vía: | no fue concedido. |
-La notificación de la MU por parte del explotador de la vía y del transportista (SŽDC, s. o.) no se realizó conforme a lo dispuesto en el § 49 apartado 3 letra a) de la Ley núm. 266/1994 Sb. y en el § 8 del Decreto núm. 376/2006 Sb. (véase el punto 2.1.2 y más abajo).
-| Decisión de la DI de iniciar la VŠ: | 4. 4. 2013 con base en sus propios conocimientos. |
-| Composición del VI de la DI en el lugar de la MU: | la DI no estuvo presente en el lugar de la MU por no haberse notificado la aparición de la MU. |
-| Constitución del equipo de investigación: | no fue necesario constituirlo. |
-| Colaboración externa: | VTC BNT. |
-Dado que el explotador de la vía y el transportista (SŽDC, s. o.) no notificó a la DI de forma inmediata la aparición de la MU en cuestión, ningún VI de la DI estuvo presente en el lugar de la MU. Por este motivo, la DI no tuvo la posibilidad de, entre otros, realizar la inspección del lugar de la MU, ni tampoco pudo emitir al explotador de la vía y al transportista implicados en la MU (SŽDC, s. o.) el consentimiento para la liberación de la vía, es decir, para el inicio de las labores de despeje.
-
-La posterior averiguación de las causas y circunstancias de la aparición de la MU fue encomendada dentro de la DI al ÚI Ostrava.
-
-En la averiguación de las causas y circunstancias de la aparición de la MU, la DI partió de sus propios conocimientos y constataciones, de su propia documentación fotográfica, de la documentación solicitada elaborada en la investigación por el explotador de la vía y el transportista (SŽDC, s. o.) y de los dictámenes periciales.
-
-La averiguación de las causas y circunstancias de la aparición de la MU se realizó conforme a lo dispuesto en el § 53b de la Ley núm. 266/1994 Sb. y en el § 11 del Decreto núm. 376/2006 Sb.
+posteriores roturas y grietas en la zona de los orificios de montaje de la parte desprendida de la rueda n.º VS141.
+•
+Con el siniestro se activó el servicio de emergencia.
+2.1.3 Decisión de iniciar la investigación de las causas y circunstancias de su producción, composición del equipo de personas cualificadas y forma de dirigir la investigación de las causas y circunstancias de su producción
+Siniestro comunicado al COP DI el día:
+10. 4. 2013, 13:39 h (es decir, 44 días, 21.43 h después de la producción
+| Siniestro comunicado al COP DI el día: | 10 4 2013 13:39 h (es decir 44 días 21 43 h después de la producción . . , . , . del siniestro y 40 días naturales después de que la DI iniciara, en el gestor de la vía y el transportista, las actuaciones relacionadas con la investigación de las causas y circunstancias de este siniestro) . |
+| Forma de comunicación: | telefónicamente . |
+| Comunicado por la persona autorizada en nombre de: | el gestor de la vía y el transportista (SŽDC s o) , . . . |
+| Consentimiento de la DI para la liberación de la vía: | no fue concedido . |
+La notificación del siniestro por parte del gestor de la vía y el transportista (SŽDC, s. o.) no se realizó de conformidad con lo dispuesto en el § 49 apartado 3 letra a) de la Ley n.º 266/1994 Sb. y el § 8 del Decreto n.º 376/2006 Sb. (véase el punto 2.1.2 y más abajo).
+| Decisión de la DI sobre el inicio de la investigación: | 4 4 2013 sobre la base de sus propios conocimientos . . |
+| Composición de la VI de la DI en el lugar del siniestro: | La DI, debido a la no comunicación de la producción del siniestro, no estuvo presente en el lugar del siniestro . |
+| Constitución del equipo de investigación: | no fue necesario constituirlo . |
+| Colaboración externa: | VTC BNT , . |
+Debido a que el gestor de la vía y el transportista (SŽDC, s. o.) no comunicó a la DI la producción del siniestro en cuestión sin dilación, ninguna VI de la DI estuvo presente en el lugar del siniestro. Por este motivo, la DI no tuvo la posibilidad, entre otras cosas, de realizar la inspección del lugar del siniestro y tampoco pudo emitir al gestor de la vía y transportista participante en el siniestro (SŽDC, s. o.) el consentimiento para la liberación de la vía, es decir, para el inicio de los trabajos de limpieza.
+La posterior investigación de las causas y circunstancias de producción del siniestro fue encomendada dentro de la DI a la ÚI Ostrava.
+En la investigación de las causas y circunstancias de producción del siniestro, la DI partió de sus propios conocimientos y hallazgos, de su propia documentación fotográfica, de la documentación solicitada elaborada durante la investigación por el gestor de la vía y el transportista (SŽDC, s. o.) y de los dictámenes periciales.
+La investigación de las causas y circunstancias de producción del siniestro se llevó a cabo de conformidad con lo dispuesto en el § 53b de la Ley n.º 266/1994 Sb. y el § 11 del Decreto n.º 376/2006 Sb.
 
 ## Página 19
+
 
 ## 2.2
 ### Circunstancias del suceso ferroviario
@@ -557,8 +559,8 @@ De acuerdo con lo dispuesto en el artículo 7 del anexo IX/1 de la norma interna
 ### 2.2.3 Descripción de los componentes de la vía de circulación de la infraestructura, del sistema de señalización (es decir, en particular del estado de los raíles, agujas, aparatos de enclavamiento, señales y del dispositivo de seguridad del tren)
 La superestructura ferroviaria entre las estaciones Jeseník y Lipová Lázně está formada, desde el pk 35,299 hasta el pk 33,760, por raíles de perfil S49 sobre soportes transversales de hormigón de perfil SB6, año de fabricación e inserción en la vía 1974, con reparto «c», y desde el pk 33,760 hasta el pk 31,780, sobre soportes transversales de madera de haya, año de inserción en la vía 1974, con reparto «d». En el tramo de vía en cuestión, desde el pk 35,280 hasta el pk 33,774, desde el pk 33,349 hasta el pk 33,199, desde el pk 32,376 hasta el pk 32,026 y desde el pk 31,926 hasta el pk 31,776, las uniones de las dos bandas de raíl están soldadas, con lo que se establece una vía sin juntas. El resto de tramos de vía son
 
-
 ## Página 20
+
 
 formados por vía con juntas, al igual que la vía de estación n.º 3 y las agujas de la entrada de Lipová de la estación Jeseník, que no están soldadas a la vía sin juntas. Desde el 31,899 hasta el pk 31,780, es decir, también en el lugar de origen del SU en el pk 31,780, la vía de circulación discurre en línea recta, con una pendiente del 20,98 ‰. La velocidad máxima permitida desde el pk 35,746, es decir, desde el nivel de la oficina de tráfico de la estación Jeseník, para la circulación de vehículos ferroviarios desde la vía de estación n.º 3 en dirección a la estación Lipová Lázně hasta el nivel de la última aguja recorrida, la n.º 12, situada en el pk 35,322, ha sido establecida por el gestor de la infraestructura en v = 40 km·h-1. La velocidad máxima permitida – velocidad de línea en el tramo de vía correspondiente – ha sido establecida por el gestor de la infraestructura en v = 50 km·h-1.
 El tramo de vía en cuestión está equipado con un TZZ eléctrico de 2.ª categoría – bloqueo semiautomático de relés, tipo RBP 71, que cumple la función directa de garantizar la seguridad del transporte ferroviario entre las estaciones Jeseník y Lipová Lázně. El TZZ se puso en servicio en el año 2001 y en el momento del origen del SU presentaba un funcionamiento normal, es decir, un estado sin averías.
@@ -573,8 +575,8 @@ La velocidad máxima permitida del tren Lv 76280 en el lugar de origen del SU er
 • de 16.16.18 a 16.17.17 h el jefe de estación de la estación Lipová Lázně preguntó al conductor del SHDV del tren Lv 76280 el número de teléfono de su móvil, que este le facilitó. Posteriormente, el jefe de estación de la estación Lipová Lázně informó al conductor del SHDV del tren Lv 76280 de que el supervisor de tráfico de PO Olomouc se pondría en contacto con él mediante el teléfono móvil.
 La comunicación entre el conductor del SHDV del tren Lv 76280 y el jefe de estación de la estación Lipová Lázně, mantenida a través de la red de radio ferroviaria mediante la estación de radio de a bordo MOS del SHDV y la estación de radio base TRS de la estación Lipová Lázně, fue registrada por la unidad de registro ReDat2,
 
-
 ## Página 21
+
 
 situada en la estación Jeseník. La comunicación posterior entre el conductor del SHDV del tren Lv 76280 y el supervisor de tráfico de PO Olomouc, mantenida a través de la red telefónica móvil, no fue registrada.
 ### 2.2.5 Trabajos realizados en el lugar del suceso ferroviario y en sus proximidades
@@ -599,95 +601,99 @@ Procedimiento de actuación del IZS tras la comunicación de la indisponibilidad
 • 21.00 h el jefe de la intervención dictó la orden de empleo de la técnica auxiliar – del conjunto de enganche a raíles HOESCH, destinado a la inserción del bogie de sustitución para el transporte del SHDV hasta la estación Lipová Lázně;
 • 22.05 h el SHDV dañado fue estacionado en la vía de estación n.º 3 de la estación Lipová Lázně;
 
-
 ## Página 22
 
-• 0.35 h (del 25. 2. 2013) salida del IZS – SŽDC, s. o., HZS JPO Česká Třebová, ÚO Ústí nad Orlicí, del lugar del SU;
-• 0.45 h (del 25. 2. 2013) salida del IZS – SŽDC, s. o., HZS JPO Přerov del lugar del SU.
+0.35 h (día 25. 2. 2013) salida IZS – SŽDC, s. o., HZS JPO Česká Třebová,
+•
+ÚO Ústí nad Orlicí, desde el lugar del MU;
+0.45 h (día 25. 2. 2013) salida IZS – SŽDC, s. o., HZS JPO Přerov desde el lugar del MU.
+•
 ## 2.3
-### Fallecimientos, lesiones y daños materiales
-2.3.1 En pasajeros y terceros, empleados del gestor de la infraestructura y del transportista, incluidas personas en relación contractual
-En el SU no se produjo daño alguno a la salud de los empleados del gestor de la infraestructura y del transportista (SŽDC, s. o.), de las personas en relación contractual, ni tampoco de los pasajeros y terceros.
-### 2.3.2 En los objetos transportados, equipajes y demás bienes
-No se produjo daño en los objetos transportados, equipajes y demás bienes.
-### 2.3.3 En los vehículos ferroviarios, componentes de la vía de circulación y en el medio ambiente
-El gestor de la infraestructura y el transportista (SŽDC, s. o.) cuantificaron el daño en:
+### Fallecidos, heridos y daños materiales
+2.3.1 En cuanto a pasajeros y terceras personas, empleados del gestor de la vía y del transportista, incluidas personas en relación contractual
+En el MU no se produjo perjuicio para la salud de los empleados del gestor de la vía y del transportista (SŽDC, s. o.), de las personas en relación contractual, ni de los pasajeros y terceras personas.
+### 2.3.2 En cuanto a las cosas transportadas, el equipaje y otros bienes
+No se produjo daño en las cosas transportadas, el equipaje ni otros bienes.
+### 2.3.3 En cuanto a los vehículos ferroviarios, los componentes de la vía de tráfico y el medio ambiente
+El gestor de la vía y el transportista (SŽDC, s. o.) cuantificó el daño en:
 SHDV 99 54 9 628 130-5 
-54 780 CZK;
-• instalaciones de la infraestructura
-         0 CZK;
-• daño en el medio ambiente
-         0 CZK.
-### En el SU, el daño producido en el vehículo ferroviario fue cuantificado en un total de: 54 780 CZK.
+54 780 Kč;
+•
+instalaciones de la vía
+         0 Kč;
+•
+daño al medio ambiente
+         0 Kč.
+•
+### En el MU, el daño producido en el vehículo ferroviario se cuantificó en un total de: 54 780 Kč.
 ## 2.4
 ### Circunstancias externas
 ### 2.4.1 Condiciones meteorológicas y datos geográficos
 Condiciones meteorológicas:
-nublado, en el periodo comprendido desde las 14.00 h hasta el origen del SU sin precipitaciones,
-en el periodo desde las 14.00 h hasta el origen del SU temperatura máx. + 4,9 °C, en el momento del origen del SU temperatura de + 2,9 a + 3,1 °C, ráfaga máxima de viento de 1,9 a 2 m·s-1 (dirección del viento nor-noro a norte),
+cielo cubierto, en el período desde las 14.00 h hasta la ocurrencia del MU sin precipitaciones,
+en el período desde las 14.00 h hasta la ocurrencia del MU temperatura máx. + 4,9 °C, en el momento de la ocurrencia del MU temperatura + 2,9 a + 3,1 °C, ráfaga máxima de viento
+1,9 a 2 m·s-1 (dirección del viento nor-noroeste a norte),
 visibilidad superior a 100 m – no reducida por la nieve.
 
 ## Página 23
 
 ## 3 REGISTRO DE EXPLICACIONES PRESENTADAS
 ## 3.1
-### Resumen de las explicaciones presentadas (sujeto a la protección de la identidad de las personas)
-### 3.1.1 Empleados del gestor de la infraestructura y del transportista, incluidas personas en relación contractual
+### Resumen de las explicaciones presentadas (sujeto a protección de la identidad de las personas)
+### 3.1.1 Empleados del gestor de la vía y del transportista, incluidas personas en relación contractual
 conductor del SHDV del tren Lv 76280
-  – del Acta con el empleado y de la Explicación presentada, entre otros, se desprende:
+  – del Registro con el empleado y de la Presentación de explicaciones, entre otros, se desprende:
 •
-que, tras incorporarse al turno el 24 de febrero de 2013, realizó visualmente la inspección diaria del SHDV
 ◦
-99 54 9 628 130-5, consistente, entre otros, en la comprobación del tren de rodadura y del sistema de frenado;
-que, mediante la inspección, no detectó la formación de roturas, grietas o muescas en ninguna de las partes del SHDV;
+tras incorporarse al turno el 24. 2. 2013, realizó visualmente la inspección diaria del SHDV
+99 54 9 628 130-5, consistente, entre otros, en la comprobación del tren de rodaje y del sistema de frenado;
+mediante la inspección no detectó en ninguna parte del SHDV la formación de roturas, grietas o muescas;
 ◦
-que la realización de la inspección diaria la registró en el libro «Libro de entrega, explotación y reparaciones
+el cumplimiento de la inspección diaria lo registró en el libro «Libro de entrega, explotación y
+reparaciones del vehículo especial MUV 69.2 022»;
 ◦
-del vehículo especial MUV 69.2 022»;
-que, dado que las inspecciones diarias no se realizan en el foso de inspección, no pudo,
+como las inspecciones diarias no se realizan en el foso de inspección, no pudo, dada la
+construcción del SHDV, detectar la formación de roturas y grietas en las ruedas;
+no realiza las inspecciones preventivas P1 ni participa en ellas;
 ◦
-dada la construcción del SHDV, detectar la formación de roturas y grietas en las ruedas;
-que no realiza ni participa en las inspecciones preventivas P1;
+llegó a la est. Jeseník con el SHDV 99 54 9 628 130-5 como PMD procedente de la dirección de la
+est. Píseñná a las 14.02 h, en la vía de estación n.º 1. A continuación, mediante maniobras, movió el
+SHDV a la vía de estación n.º 3, hasta la altura de la oficina de tráfico, donde en el km 35,746 permaneció
+detenido hasta la salida como tren Lv 76280;
 ◦
-que llegó a la estación de Jeseník con el SHDV 99 54 9 628 130-5 como PMD procedente de la dirección de la
-◦
-estación de Písečná a las 14.02 h, en la vía de estación n.º 1. A continuación, el SHDV, mediante maniobras de
-clasificación, lo desplazó a la vía de estación n.º 3, hasta la altura de la oficina de tráfico, donde permaneció
-detenido en el pk 35,746 hasta su salida como tren Lv 76280;
-que la última inspección visual del tren de rodadura del SHDV 99 54 9 628 130-5 antes de la producción del MU
-◦
-la realizó antes de la salida del tren Lv 76280 de la estación de Jeseník. A la inspección precedió la
+la última inspección visual del tren de rodaje del SHDV 99 54 9 628 130-5 antes de la producción del
+MU la realizó antes de la salida del tren Lv 76280 de la est. Jeseník. A la inspección precedió la
 limpieza de la máquina de la nieve;
-que, tras la expedición del tren Lv 76280 mediante orden verbal, dada por el jefe de estación de la estación de
 ◦
-Jeseník mediante un dispositivo de telecomunicaciones a las 15.50.31 h, puso el SHDV en movimiento tras
-transcurridos aproximadamente 1 minuto (desbloqueo del freno de estacionamiento y puesta en marcha del
-mando de velocidad) y partió en dirección a la estación de Lipová Lázně;
-que con el tren Lv 76280, desde la salida de la estación de Jeseník hasta el momento de la «reducción
+tras la expedición del tren Lv 76280 mediante orden verbal, dada por el jefe de estación de la est.
+Jeseník mediante dispositivo de telecomunicaciones a las 15.50.31 h, puso el SHDV en movimiento
+transcurridos unos 1 minuto (desbloqueo del freno de estacionamiento y puesta en marcha del mando de
+velocidad) y partió en dirección a la est. Lipová Lázně;
 ◦
-inesperada de velocidad» y la consiguiente parada extraordinaria del SHDV en la línea, alcanzó una
-velocidad máxima de 35 km·h-1;
-que, debido a la «reducción inesperada de velocidad», el SHDV detuvo el tren en el pk 31,800, es decir, en el
+con el tren Lv 76280, desde la salida de la est. Jeseník hasta el momento de la «reducción
+imprevista de velocidad» y la posterior parada excepcional del SHDV en la vía, alcanzó una velocidad
+máxima de 35 km·h-1;
 ◦
-lugar donde la TK discurre en una curva a la izquierda y en un desnivel de 20,78 ‰; aproximadamente 30
-segundos después, aseguró el SHDV contra el movimiento mediante el apriete del freno de mano, bajó y se
-dirigió a comprobar el motivo de la «reducción inesperada de velocidad»;
-que, según sus experiencias de explotación, consideraba que la «reducción inesperada de velocidad» estaba
+a causa de la «reducción imprevista de velocidad», el SHDV se detuvo con el tren en el km 31,800,
+es decir, en el punto donde la TK discurre en una curva a la izquierda y en una pendiente de 20,78 ‰;
+transcurridos unos 30 segundos, inmovilizó el SHDV contra el movimiento mediante el apriete del freno de
+mano, descendió y se fue a comprobar el motivo de la «reducción imprevista de velocidad»;
 ◦
-causada por la acumulación de nieve, o bien de hielo, en los discos de freno del SHDV, gracias a lo cual se
-aumentó la resistencia del vehículo, lo que tuvo como consecuencia la «reducción inesperada de velocidad».
-Que ya había registrado la aparición de esta clase de avería en el periodo invernal con anterioridad;
-que, tras transcurridos aproximadamente 1 minuto desde la parada extraordinaria en la línea y el aseguramiento
+según sus experiencias de explotación, consideraba que la «reducción imprevista de velocidad» estaba
+causada por la acumulación de nieve, o bien de hielo, en los discos de freno del SHDV, gracias a lo cual
+aumentó la resistencia al avance del vehículo, que tuvo como consecuencia la «reducción imprevista de
+velocidad». Este tipo de avería ya la había registrado en el pasado durante el período invernal;
 ◦
-del SHDV contra el desplazamiento, comenzó a limpiar el tren de rodadura del SHDV de la acumulación de
-nieve, o bien de hielo, mediante un martillo de aproximadamente un cuarto de kilo. Durante la limpieza del
-eje 1 se produjo la rotura repentina de la rueda derecha en el sentido de la marcha del tren;
-que no puede precisar el tiempo transcurrido entre la parada extraordinaria del tren Lv 76280 en el pk 31,780
+transcurridos unos 1 minuto desde la parada excepcional en la vía y la inmovilización del SHDV
+contra el desplazamiento, comenzó a limpiar el tren de rodaje del SHDV del depósito de nieve, o bien de
+hielo, mediante un martillo de aproximadamente un cuarto de kilo. Durante la limpieza del eje 1 se
+produjo la rotura repentina de la rueda derecha en el sentido de marcha del tren;
 ◦
-y la comunicación de la situación producida al jefe de estación de la estación de Lipová Lázně;
-
+no puede precisar el tiempo transcurrido entre la parada excepcional del tren Lv 76280 en el km
+31,780 y la comunicación de la situación producida al jefe de estación de la est. Lipová Lázně;
 
 ## Página 24
+
 
 que el maquinista de la quitanieves ferroviaria KSF 70.1, en ese momento, limpiaba con un rastrillo el eje 2
 ◦
@@ -750,56 +756,59 @@ que, tras finalizar la actividad de control en la estación de Branná, se prese
 en el lugar de producción del MU, donde el SHDV inmovilizado se había detenido extraordinariamente en la
 línea (lugar de producción del MU), y, en colaboración con el jefe del centro de explotación TO Jeseník
 
-
 ## Página 25
 
-realizó la inspección del lugar de producción del MU;
-que, tras constatar los hechos y atendiendo al hecho de que el SHDV del tren Lv 76280 no se había descarrilado,
+realizó la inspección del lugar de origen de la MU;
+tras constatar los hechos y atendiendo al hecho de que el SHDV del tren Lv 76280 no se
 ◦
-junto con el jefe del centro de explotación TO Jeseník, valoraron este MU como una avería técnica;
-que a las aproximadamente 20.00 h partió del lugar de producción del MU.
+desvió, junto con el jefe del centro de explotación TO Jeseník evaluaron esta MU como
+una avería técnica;
+a las aprox. 20.00 h partió del lugar de origen de la MU.
 ◦
-jefe del centro de explotación TO Jeseník – del Acta con el empleado, entre otros, se
+jefe del centro de explotación TO Jeseník – de la Acta con el empleado, entre otros,
 •
-desprende:
-que el 24 de febrero de 2013 desempeñó también el cargo de jefe de la guardia de nieve de TO Jeseník;
+se desprende:
+el 24. 2. 2013 actuó también como jefe de la guardía de nieve de TO Jeseník;
 ◦
-que a las aproximadamente 16.00 h recibió del conductor del SHDV del tren Lv 76280 información sobre un
+a las aprox. 16.00 h recibió del conductor del SHDV del tren Lv 76280 información
 ◦
-SHDV con quitanieves inmovilizado, que, según esta comunicación, se encontraba tras la parada extraordinaria
-en la línea, en la señal previa PřL de la estación de Lipová Lázně;
-que inmediatamente después de recibir la información anterior, se desplazó en un vehículo de carretera
+sobre el SHDV con quitanieves, que según este informe se encontraba tras una parada
+anormal en la vía, en la señal de aproximación PřL de la estación Lipová Lázně;
+inmediatamente después de recibir la información anterior, partió con el vehículo
 ◦
-motorizado de servicio al lugar de la parada extraordinaria del SHDV en la línea (lugar de producción del MU);
-que, aún durante el desplazamiento, fue contactado por el supervisor de explotación PO Olomouc, quien
+rodoviario de motor de servicio al lugar de la parada anormal del SHDV en la vía
+(lugar de origen de la MU);
+aún durante el trayecto, fue contactado por el inspector de explotación PO Olomouc,
 ◦
-igualmente le informó de la situación producida durante la marcha del tren Lv 76280 en la señal previa PřL de
-la estación de Lipová Lázně;
-que, tras llegar al lugar de la parada extraordinaria del SHDV en la línea (producción del MU), comenzó a
+quien también le informó de la situación surgida durante la circulación del tren
+Lv 76280 en la señal de aproximación PřL de la estación Lipová Lázně;
+tras llegar al lugar de la parada anormal del SHDV en la vía (origen de la MU), comenzó
 ◦
-realizar la inspección de dicho lugar, la cual finalizó posteriormente en colaboración con el supervisor de
-explotación PO Olomouc;
-que, tras constatar los hechos, consistentes, entre otros, en la constatación de una rotura circular de la llanta
+a realizar la inspección de dicho lugar, que posteriormente completó en colaboración
+con el inspector de explotación PO Olomouc;
+tras constatar los hechos, consistentes entre otros en la constatación de una fractura
 ◦
-de la rueda maciza, dicha rotura de la rueda, junto con el supervisor de explotación PO Olomouc, no la
-valoraron como un MU, sino como una avería técnica.
-No había otras personas presentes en la producción del MU en cuestión.
+circular de la llanta de la rueda maciza, esta fractura de la rueda, junto con el inspector
+de explotación PO Olomouc, no la evaluaron como MU, sino como una avería técnica.
+No había otras personas presentes en el origen de la mencionada MU.
 ## 3.2
-### Sistema de garantía de la seguridad
+### Sistema de garantía de seguridad
 ### 3.2.1 Organización marco y forma en que se emiten y ejecutan las instrucciones
-El gestor de la infraestructura y el transportista (SŽDC, s. o.) tiene un sistema de garantía de la seguridad
-adecotado en base a las disposiciones de la Ley n.º 266/1994 Sb.
-En el sistema de garantía de la seguridad adecotado por el gestor de la infraestructura y el transportista
-(SŽDC, s. o.) se detectaron deficiencias (véanse los puntos 2.1.3, 3.5.3 y 4.4.1), que, sin embargo, no se
-relacionaban con las causas de la producción del MU en cuestión.
-### 3.2.2 Requisitos para los empleados del gestor de la infraestructura y del transportista y su aplicación
-Los requisitos para los empleados del gestor de la infraestructura y del transportista, en particular los
-requisitos de idoneidad técnica y sanitaria, están establecidos por la Ley n.º 266/1994 Sb., el Decreto
-n.º 173/1995 Sb., el Decreto n.º 101/1995 Sb., el Decreto n.º 16/2012 Sb. y las normas internas del gestor de
-la infraestructura y del transportista (SŽDC, s. o.).
-
+El gestor de la infraestructura y el transportista (SŽDC, s. o.) tiene un sistema de
+garantía de seguridad adoptado con base en las disposiciones de la Ley n.º 266/1994 Sb.
+En el sistema de garantía de seguridad adoptado por el gestor de la infraestructura y el
+transportista (SŽDC, s. o.) se detectaron deficiencias (véanse los puntos 2.1.3, 3.5.3 y
+4.4.1), que sin embargo no guardaban relación con las causas del origen de la mencionada MU.
+### 3.2.2 Requisitos para los empleados del gestor de la infraestructura y del
+transportista y su aplicación
+Los requisitos para los empleados del gestor de la infraestructura y del transportista,
+en particular los requisitos de idoneidad profesional y de salud, están establecidos por
+la Ley n.º 266/1994 Sb., el Decreto n.º 173/1995 Sb., el Decreto n.º 101/1995 Sb., el
+Decreto n.º 16/2012 Sb. y las normas internas del gestor de la infraestructura y del
+transportista (SŽDC, s. o.).
 
 ## Página 26
+
 
 En el momento de la producción del MU en cuestión, todas las personas del gestor de la infraestructura y del
 transportista (SŽDC, s. o.) que participaban en las actividades de MU realizadas en la explotación de la
@@ -855,6 +864,7 @@ el art. 65: «Por el correcto funcionamiento del freno y del dispositivo de aren
 correcta de frenado durante la circulación del vehículo con propulsión propia del tren de rodadura y por
 
 ## Página 27
+
 
 velocidad de circulación.";
 "PARTE TERCERA MANTENIMIENTO Y REPARACIONES DE VEHÍCULOS ESPECIALES", en el capítulo I
@@ -918,26 +928,17 @@ dispositivos de aviso y los dispositivos que limitan, por motivos de seguridad, 
 movimiento de las partes de las máquinas respecto a la vía adyacente o a la línea de
 tracción.
 
-
 ## Página 28
 
-El proveedor que se encarga de determinar los pesos sobre las ruedas (pesaje de la
-máquina), de medir el bastidor de la máquina, los bogies, los juegos de ruedas, incluido el
-contorno de rodadura de las ruedas y de las máquinas, también debe disponer del certificado.
-… .";
-### en el art. 145 se indica: "El maquinista del SHV anota brevemente las reparaciones
+El certificado debe tenerlo también el proveedor que se encarga de la determinación de pesos sobre las ruedas (pesaje de la máquina), de la medición del bastidor de la máquina, de los bogies, de los ejes con el perfil de rodadura de las ruedas y de las máquinas. … .“;
+### En el art. 145 se indica: «El maquinista de SHV anotará brevemente las
 ▪
-### realizadas en la máquina en el Libro de entrega, explotación y reparaciones de los VE.
-Asimismo, anota en este libro las inspecciones preventivas realizadas (mantenimiento de la
-máquina de mayor alcance, no la atención operativa).
-Las reparaciones planificadas realizadas, las reparaciones periódicas del tren de rodadura
-(revisiones) y las reparaciones no planificadas de mayor alcance las anota el empleado
-designado del operador del VE o el taller de reparación en el "Libro de explotación del
-vehículo especial".";
-en el art. 147, entre otros, se indica: "El alcance mínimo de la atención diaria PO en los
+### reparaciones realizadas en la máquina en el Libro de entrega, explotación y reparaciones de SV. Asimismo, anotará en este libro las revisiones preventivas realizadas (mantenimiento de la máquina de mayor alcance, no el servicio de explotación).
+Las reparaciones planificadas realizadas, las reparaciones periódicas del bogie (revisiones) y las reparaciones no planificadas de mayor alcance las anotará el empleado designado del explotador de SV o el taller en el «Libro de explotación del vehículo especial»»;
+En el art. 147, entre otros, se indica: «El alcance mínimo del servicio diario de PO en SV depende de su configuración conceptual y construcción y, en general, lo forman:
 ▪
-VE depende de su disposición conceptual y de su construcción y, en general, lo forman:
-a) inspección visual del estado general del vehículo con especial atención a:
+a) la inspección visual del estado general del vehículo con especial atención a:
+▪
 desgaste masivo y/o desigual;
 ▪
 ...;
@@ -947,48 +948,38 @@ formación de roturas, grietas y muescas en puntos críticos;
 ...;
 ▪
 b) hasta k) … .
-El maquinista tiene la cualificación para decidir sobre la ineptitud de explotación del
-vehículo.";
-en el art. 148, entre otros, se indica: "El alcance mínimo de la inspección preventiva P1 es
-▪
-en general el mismo que en la atención operativa PO (ver art. 147) y además … .";
-en el art. 149, entre otros, se indica: "El alcance mínimo de la inspección preventiva P2
-▪
-en los VE, que se realiza en los talleres y que en parte debe realizarse en el canal de
-inspección, incluye las acciones de la inspección preventiva P1 (ver art. 148) y además:
-a) limpieza del bastidor del VE y de los bastidores de sus bogies e inspección visual de
-los mismos en busca de grietas;
+El maquinista tiene la cualificación para decidir sobre la inoperatividad del vehículo»;
+En el art. 148, entre otros, se indica: «El alcance mínimo de la revisión preventiva P1 es, en general, el mismo que el del servicio de explotación PO (véase el art. 147) y además … .»;
+En el art. 149, entre otros, se indica: «El alcance mínimo de la revisión preventiva P2 en SV, que se realiza en los talleres y que en parte debe realizarse en el foso de inspección, incluye las acciones de la revisión preventiva P1 (véase el art. 148) y además:
+a) la limpieza del bastidor de SV y de los bastidores de sus bogies y su inspección visual en busca de grietas;
 b, c) …;
-d) inspección visual de los juegos de ruedas en busca de grietas, comprobación de la
-suspensión y de la guía de los ejes, incluida la comprobación de las superficies guía en
-busca de grietas, engrase de las superficies guía;
-e hasta p) ...";
-"Anexo 14 – Plazos de mantenimiento de los vehículos especiales (normativo)", se indica,
-entre otros:
+d) la inspección visual de los ejes en busca de grietas, la comprobación de la suspensión y la guía de los ejes, incluida la comprobación de las superficies de guiado en busca de grietas, y la lubricación de las superficies de guiado;
+e hasta p) ...»;
+En el «Anexo 14 – Plazos de mantenimiento de los vehículos especiales (normativo)», entre otros, se indica:
 ◦
-### para el tipo de vehículo ferroviario especial "SHV con vel. máx. de hasta 40 km·h-1
+### para el tipo de vehículo ferroviario especial «SHV con velocidad máx. de hasta 40 km·h-1
 ▪
-incluidos:"
-atención operativa PO: antes del empleo diario;
+incluido:»
 •
-inspección preventiva P1: 60 días;
+servicio de explotación PO: antes del despliegue diario;
 •
-inspección preventiva P2, PP: 2 años;
+revisión preventiva P1: 60 días;
+•
+revisión preventiva P2, PP: 2 años;
 •
 reparación periódica REV: 6 años;
 •
-control técnico TK: 2 años;
+inspección técnica TK: 2 años;
 •
-"Anexo 18 – Explotación y servicio de los aparatos de freno de los vehículos especiales
+En el «Anexo 18 – Explotación y servicio de los aparatos de freno de los vehículos especiales (normativo)»
 ◦
-(normativo)" (en adelante Anexo 18), se indica:
-### en el art. 28: "El registro de la prueba de freno realizada del SHV lo realiza
+(en adelante, Anexo 18), en:
+### el art. 28 se indica: «El maquinista de SHV registrará diariamente la
 ▪
-### diariamente el maquinista del SHV en el Libro de entrega, explotación y reparaciones de
-los VE: ZBHV - sin defectos, firma del maquinista del SHV y fecha y hora de la prueba.";
-
+### acta de la prueba de freno de SHV realizada en el Libro de entrega, explotación y reparaciones de SV: ZBHV - sin defectos, firma del maquinista de SHV y fecha y hora de la prueba»;
 
 ## Página 29
+
 
 la norma SŽDC (ČD) S8/3, donde se indica:
 •
@@ -1049,8 +1040,8 @@ el transportista con el documento "Libro de entrega, explotación y reparaciones
 especial MUV 69.2 022", iniciado el 22. 11. 2007, con el último registro del 24. 2. 2013
 a las 6.30 h (en adelante Libro de entrega), donde, entre otros, se indica:
 
-
 ## Página 30
+
 
 ### el último registro de la realización de la inspección preventiva P1 del 6. 9. 2010. El
 •
@@ -1112,6 +1103,7 @@ Dlážděná 1003/7, Praha 1 – Nové Město, PSČ 110 00.
 
 ## Página 31
 
+
 El explotador de la vía férrea de categoría estatal, Mikulovice st. hr. –
 Hanušovice, es SŽDC, s. o., con domicilio en Dlážděná 1003/7, Praha 1 – Nové Město,
 CP 11000, en virtud de la Autorización oficial emitida por el DÚ el 29. 5. 2008, n.º de expediente:
@@ -1152,8 +1144,8 @@ En la investigación del MU se constató la infracción de las siguientes normas
 •
 «En las vías puede explotarse un vehículo ferroviario cuya construcción y estado técnico correspondan a los requisitos de seguridad del transporte ferroviario, del personal de servicio, de las personas transportadas y de las mercancías … .»;
 
-
 ## Página 32
+
 
 § 49 apartado 3 letra a) de la Ley n.º 266/1994 Sb.:
 •
@@ -1192,8 +1184,8 @@ En la investigación del MU se constató la infracción de las siguientes normas
 •
 «El tren no debe exceder la velocidad máxima permitida, que se determina como el valor más bajo de la velocidad máxima de explotación de los vehículos ferroviarios de los que se compone el tren»;
 
-
 ## Página 33
+
 
 § 8 apartado 1 del Decreto n.º 376/2006 Sb.:
 •
@@ -1224,48 +1216,46 @@ art. 506 de la norma interna de SŽDC (ČD) D2:
 •
 «En las estaciones en las que no sea posible realizar el despacho del tren según el art. 502, el tren debe ser siempre despachado con la señal Salida o con un orden verbal (escrito); el jefe de estación puede
 
-
 ## Página 34
 
-realizar el despacho del tren también mediante un dispositivo de telecomunicaciones. … El despacho del tren
-mediante un dispositivo de telecomunicaciones lo realiza el jefe de estación de la siguiente manera:
-«Tren 88 256 de la quinta vía a Kladno, salida.»;
+realizar el despacho de tren también por medio de aparato de telecomunicaciones. … El despacho de tren por medio de aparato de telecomunicaciones lo realizará el jefe de estación de la siguiente manera:
+„Tren 88 256 desde la quinta vía hacia Kladno, salida.“;
 art. 31 de la norma interna de SŽDC Dp17:
 •
-«La rotura de la rueda o del eje de un vehículo ferroviario es una infracción de la integridad de la rueda (eje) causada por influencias internas y externas (defectos de material y de fabricación, …), por la que es necesario retirar el DV de la explotación.»;
+„La rotura de una rueda o de un eje de un vehículo ferroviario es una violación de la integridad de la rueda (eje) causada por influencias internas y externas (defectos de material y de fabricación, …), por la cual es necesario retirar el DV de la explotación.“;
 art. 46 de la norma interna de SŽDC Dp17:
 •
-«El puesto de notificación, tras la producción de una incidencia durante la explotación de la vía y del transporte ferroviario, según la naturaleza de esta, adoptará sin demora indebida medidas para evitar la producción de daños adicionales y notificará inmediatamente la producción de la incidencia:
-a la Inspección Ferroviaria según el art. 71,
+„El puesto de notificación, tras la aparición de un SU durante la explotación de la vía y del transporte ferroviario, de acuerdo con su naturaleza, adoptará sin demora innecesaria medidas para evitar la aparición de daños adicionales y notificará de inmediato la aparición del SU:
+a la Inspección Ferroviaria de acuerdo con el art. 71,
 ◦
-…,»;
+…,“;
 ◦
 art. 102 de la norma interna de SŽDC Dp17:
 •
-«Está prohibido mover todos los vehículos ferroviarios y de otro tipo implicados, manipular los elementos de mando y operar de cualquier modo los dispositivos implicados que tengan influencia en la incidencia, así como trasladar objetos relacionados con la incidencia, hasta la emisión del consentimiento para el inicio de los trabajos de limpieza, con la excepción del caso en que sea necesario para la realización de trabajos de rescate o cuando lo permita lo dispuesto en las normas jurídicas especiales.»;
+„Está prohibido mover todos los vehículos ferroviarios y otros implicados, manipular los elementos de mando y operar de cualquier manera los equipos implicados que tengan influencia en el suceso excepcional, así como trasladar objetos relacionados con el SU, hasta la emisión del consentimiento para el inicio de los trabajos de limpieza, con la excepción del caso en que sea necesario para la realización de trabajos de rescate o cuando lo permita la disposición de las normas jurídicas especiales.“;
 art. 103 de la norma interna de SŽDC Dp17:
 •
-«Los cambios del estado original en el lugar de la incidencia son admisibles hasta la llegada de los órganos actuantes en el procedimiento penal y del empleado de la DI solo con el consentimiento del jefe de intervención de los servicios del sistema integrado de emergencia. Si estas personas no intervienen, los cambios del estado original en el lugar de la incidencia son admisibles con el consentimiento de la persona autorizada por el explotador de la vía o del transporte ferroviario, cuando se trate de la realización de trabajos de rescate, o de conformidad con lo dispuesto en las normas jurídicas especiales. … .»;
+„Los cambios del estado original en el lugar del SU son admisibles hasta la llegada de los órganos actuantes en el procedimiento penal y del empleado de la DI, solo con el consentimiento del jefe de intervención de los cuerpos del sistema integrado de protección. Si estas personas no intervienen, los cambios del estado original en el lugar del suceso excepcional son admisibles con el consentimiento de la persona autorizada del explotador de la vía o del transporte ferroviario, cuando se trate de la realización de trabajos de rescate, o de acuerdo con la disposición de las normas jurídicas especiales. … .“;
 art. 106 de la norma interna de SŽDC Dp17:
 •
-«Los trabajos de limpieza para restablecer la explotación de la vía solo pueden iniciarse con el consentimiento de la persona responsable correspondiente en el lugar de la incidencia cuando se hayan documentado todos los hechos disponibles relacionados con la producción de la incidencia. Se entiende por persona responsable al jefe de los servicios del IZS o de los órganos actuantes en el procedimiento penal, o en su caso al representante de la DI, si intervienen en el lugar, y asimismo a la persona con competencia profesional del explotador de la vía o del transporte ferroviario autorizada para documentar las circunstancias de la producción de la incidencia.»;
+„Los trabajos de limpieza para la restitución de la explotación de la vía podrán comenzar solo con el consentimiento de la persona responsable correspondiente en el lugar del SU, siempre que estén documentados todos los datos disponibles relacionados con la aparición del SU. Por persona responsable se entiende al jefe de los cuerpos del IZS o de los órganos actuantes en el procedimiento penal, o en su caso al representante de la DI, si intervienen en el lugar, así como a la persona cualificada del explotador de la vía o del transporte ferroviario encargada de la documentación de las circunstancias de la aparición del SU.“;
 art. 147 de la norma interna de SŽDC Dp17:
 •
-«Las incidencias son:
+„Los sucesos excepcionales son:
 …,
 ◦
-la rotura de la rueda o del eje de un vehículo ferroviario,
-◦
-… .»;
+rotura de una rueda o de un eje de un vehículo ferroviario,
+… .“;
 ◦
 art. 198 de la norma interna de SŽDC (ČD) S8:
 •
-«... El esquema del sistema de mantenimiento de los vehículos especiales se indica en el anexo 23 de esta norma.»;
+„... El resumen del sistema de mantenimiento de los vehículos especiales se indica en el anexo 23 de esta norma.“;
 art. 319 de la norma interna de SŽDC (ČD) S8:
 •
-«El jefe de locomotora anotará brevemente las reparaciones realizadas en la locomotora en el «Libro de entrega, explotación y reparación del vehículo especial». Asimismo, anotará en este libro las revisiones preventivas realizadas (mantenimiento de la locomotora de mayor alcance, no el servicio de explotación).»;
+„El conductor de la locomotora anotará brevemente las reparaciones realizadas en la locomotora en el «Libro de entrega, explotación y reparación del vehículo especial». Asimismo, anotará en este libro las revisiones preventivas realizadas (mantenimiento de mayor alcance de la locomotora, no el servicio de explotación).“;
 
 ## Página 35
+
 
 «Anexo 23 - SISTEMA DE MANTENIMIENTO DE VEHÍCULOS ESPECIALES» (en adelante, anexo 23)
 •
@@ -1312,8 +1302,8 @@ art. 4 del anexo n.º 18 del reglamento interno de SŽDC S8:
 la velocidad de vía en el tramo de vía correspondiente; ◦
 la velocidad máxima de explotación de los SV de los que se compone el tren; ◦
 
-
 ## Página 36
+
 
 …; ◦
 la velocidad permitida establecida por las señales, … .»; ◦
@@ -1340,8 +1330,8 @@ Hallazgo:
 •
 la última inspección no destructiva de los carriles TK en el tramo Jeseník – Lipová Lázně fue realizada por el explotador de la vía antes de la ocurrencia de la MI, el 22. 10. 2010. El explotador de la vía no cumplió el procedimiento establecido en la Directriz organizativa n.º 300/52, en la que fijó el intervalo de tiempo para la realización de la inspección no destructiva de los carriles 1x cada 2 años. El explotador de la vía no dispone de documentación acreditativa de la realización de la
 
-
 ## Página 37
+
 
 inspección no destructiva de los carriles TK en el tramo Jeseník – Lipová Lázně con fecha de realización en el año 2012 o 2013.
 Los componentes de la vía no guardaron relación causal ni a causal con la ocurrencia de la MI.
@@ -1375,53 +1365,57 @@ un motor de combustión Z 8703.000 y una cabina elevada PUŠL (aprobado por DÚ 
 una caja de cambios LKT-TEES Praktis (aprobada por DÚ bajo el n.º de expediente: 2-1147/04-DÚ, el 17. 2. 2004).
 Tras la reconversión realizada en el SHDV, ČD, a. s., Depósito de material rodante Brno realizó el 14. 6.
 
-
 ## Página 38
 
-2007 una medición de su peso y de la carga sobre las ruedas y los ejes. El documento «ACTA DE MEDICIÓN DEL PESO DEL VEHÍCULO Y DE LA CARGA SOBRE LA RUEDA Y EL EJE», de fecha 14. 6. 2007, contiene, entre otros, una tabla con los resultados de la medición de la carga y del peso, de la que se desprende:
+En 2007 se realizó la medición de su peso y de la carga sobre las ruedas y los ejes. El documento «PROTOKOL O MĚŘENÍ HMOTNOSTI VOZIDLA A ZATÍŽENÍ NA KOLO A NÁPRAVU», de fecha 14. 6. 2007, contiene, entre otros, una tabla con los resultados de la medición de la carga y del peso, de la que se desprende:
 peso total del SHDV
 8 970 kg;
 •
 peso medio por eje
 4 485 kg;
 •
-peso sobre la rueda izquierda del 1.º eje
+peso en la rueda izquierda del 1.er eje
 2 670 kg;
 •
-peso sobre la rueda derecha del 1.º eje
+peso en la rueda derecha del 1.er eje
 2 890 kg;
 •
-peso total sobre el 1.º eje
-5 560 kg;
+peso total en el 1.er eje
+5 560 kg; 
 •
-peso sobre la rueda izquierda del 2.º eje
+peso en la rueda izquierda del 2.º eje
 1 680 kg;
 •
-peso sobre la rueda derecha del 2.º eje
+peso en la rueda derecha del 2.º eje
 1 730 kg;
 •
-peso total sobre el 2.º eje
+peso total en el 2.º eje
 3 410 kg.
 •
 Bajo la tabla, con base en los resultados de la medición de la carga y del peso de las ruedas y los ejes, se indica que:
-### «EL VEHÍCULO NO CUMPLE EL DECRETO DEL MINISTERIO DE TRANSPORTES». De los datos técnicos indicados sobre los pesos se desprende que la diferencia de pesos correspondiente al 1.º y 2.º eje del SHDV tras la reconversión asciende a 2 150 kg (23,97 %). Según TPP 01-72, la diferencia de pesos correspondiente al 1.º y 2.º eje asciende a 2 320 kg. Dado que para el SHDV reconstruido son aplicables las condiciones técnicas y la documentación técnica para la aprobación de tipo TPP 01-72, complementada con la documentación que determina el cambio realizado, cuya esencia fue la intervención en la construcción del vehículo mencionada anteriormente, que supone una desviación del tipo aprobado, el cambio en el SHDV y la idoneidad técnica del SHDV 99 54 9 628 130-5 fueron aprobados por DÚ. El motivo de la aprobación de la idoneidad técnica del SHDV, y ello a pesar de que el SHDV no cumple, en el sentido del punto 10.4.2.1 del Anexo n.º 3 al decreto n.º 173/1995 Sb., con su construcción y sus características técnico-explotadoras los requisitos para el SHDV, cuando en un SHDV de dos ejes la diferencia de peso entre los ejes debe ser inferior al 20 %, es decir, en el SHDV 99 54 9 628 130-5 inferior a 1 794 kg, fue la aprobación del SHDV 99 54 9 628 130-5 (originalmente MUV 69-022) según TPP 01-72 antes de la entrada en vigor de dicho decreto. Dicho hallazgo no puede considerarse, en el sentido del § 76 apartado 4 del decreto n.º 173/1995 Sb., como incumplimiento de la normativa legal.
-El SHDV 99 54 9 628 130-5 (originalmente MUV 69-022) disponía, en el momento de la ocurrencia de la MI, de un «CERTIFICADO DE IDONEIDAD DEL VEHÍCULO FERROVIARIO», emitido por DÚ con el n.º de ev. PZ 4413/08-V.34, el 25. 11. 2008, para la vagoneta motriz universal MUV 69.2 con quitanieves ferroviario KSF 70.1 según TPP 01-72, aditamento n.º 2 y TP 132 05 (en adelante, PZ SHDV). El contenido del PZ SHDV incluye, entre otros, los datos técnicos básicos del SHDV sin KSF 70.1, donde se indica, entre otros:
-peso del vehículo vacío
+### «EL VEHÍCULO NO CUMPLE EL DECRETO DEL MINISTERIO DE TRANSPORTES». De los datos técnicos indicados sobre los pesos se desprende que la diferencia de pesos correspondiente al 1.er y al 2.º eje del SHDV tras la reconstrucción asciende a 2 150 kg (23,97 %). Según el TPP 01-72, la diferencia de pesos correspondiente al 1.er y al 2.º eje asciende a 2 320 kg. Dado que para el SHDV reconstruido resultan de aplicación las condiciones técnicas y la documentación técnica para la aprobación de tipo TPP 01-72, completada con la documentación que determina la modificación realizada, cuya esencia era la intervención en la estructura del vehículo indicada más arriba, que suponía una desviación del tipo aprobado, la modificación del SHDV y la idoneidad técnica del SHDV 99 54 9 628 130-5 DÚ fueron aprobadas. El motivo de la aprobación de la idoneidad técnica del SHDV, y ello a pesar de que el SHDV no cumple, en el sentido del punto 10.4.2.1 del Anexo 3 del decreto núm. 173/1995 Sb., con su construcción y sus características técnico-operativas, los requisitos exigidos al SHDV, cuando en un SHDV de dos ejes la diferencia de pesos entre los ejes debe ser inferior al 20 %, es decir, en el SHDV 99 54 9 628 130-5 inferior a 1 794 kg, fue la aprobación del SHDV 99 54 9 628 130-5 (originalmente MUV 69-022) según el TPP 01-72 con anterioridad a la entrada en vigor de dicho decreto. El hallazgo indicado no puede considerarse, en el sentido del § 76 apartado 4 del decreto núm. 173/1995 Sb., como incumplimiento de una norma jurídica.
+El SHDV 99 54 9 628 130-5 (originalmente MUV 69-022) disponía en el momento de producirse el MU de un «PRŮKAZ ZPŮSOBILOSTI DRÁŽNÍHO VOZIDLA» vigente, expedido por el DÚ con el n.º de registro PZ 4413/08-V.34, de fecha 25. 11. 2008, para el vagón motor universal MUV 69.2 con fresadora de nieve sobre vía KSF 70.1 según el TPP 01-72, aditamento núm. 2 y TP 132 05 (en adelante, PZ SHDV). El contenido del PZ SHDV incluye, entre otros, los datos técnicos básicos del SHDV sin la KSF 70.1, donde se indica, entre otros:
+peso del vehículo en vacío
      7 480 kg;
 •
 peso máximo del vehículo cargado   15 650 kg.
 •
-El PZ SHDV tiene como parte integrante el documento «ANEXO n.º 01 al PZ 4413/08-V.34», emitido por DÚ el 25. 11. 2008, que contiene la descripción de la «Reconversión a MUV 69.2 según TPP 01-72 y aditamento n.º 2 del 56.3.1996 (correctamente 17. 2. 2004) incluidos los cambios aprobados» (en adelante, reconversión a MUV 69.2):
+El PZ SHDV tiene como parte integrante el documento «PŘÍLOHA č. 01 k PZ 4413/08-V.34», expedido por el DÚ el 25. 11. 2008, que contiene la descripción de la «Reconstrucción a MUV 69.2 según el TPP 01-72 y el aditamento núm. 2 del 56.3.1996 (correctamente 17. 2. 2004) incluidas las modificaciones aprobadas» (en adelante, reconstrucción a MUV 69.2):
+cambio del motor de combustión por el tipo Z 8703.000 y ampliación de la cabina PUŠL, aprobado por el DÚ
 •
-cambio del motor de combustión por el tipo Z 8703.000 y elevación de la cabina PUŠL, aprobado por DÚ bajo el n.º de expediente: 2-6672/02-DÚ, el 30. 7. 2002:
+con el n.º de expediente: 2-6672/02-DÚ, de fecha 30. 7. 2002:
+cambio de la caja de cambios por el tipo LKT-TEES Praktis, aprobado por el DÚ con el n.º de expediente:
 ◦
-cambio de la caja de cambios por el tipo LKT-TEES Praktis, aprobado por DÚ bajo el n.º de expediente: 2-1147/04-DÚ, el 17. 2. 2004;
+2-1147/04-DÚ, de fecha 17. 2. 2004;
+instalación de la fresadora de nieve sobre vía modernizada tipo KSF 70.1, n.º de fabricación 148, según el TP
 ◦
-instalación del quitanieves ferroviario modernizado tipo KSF 70.1, n.º de fab. 148, según TP 132 05, aprobada por DÚ bajo el n.º de expediente: 2-5690/06, el 27. 6. 2006;
+132 05, aprobada por el DÚ con el n.º de expediente: 2-5690/06, de fecha 27. 6. 2006;
+cambio del 1.er eje (delantero) (el eje original de 110 mm de diámetro sustituido por un eje
 •
-cambio del 1.º (delantero) eje (el eje original de diámetro 110 mm sustituido por un nuevo eje de diámetro 130 mm) y de la suspensión según TP 132 05 D1, aprobado por DÚ bajo el n.º de expediente:
+nuevo de 130 mm de diámetro) y de la suspensión según el TP 132 05 D1, aprobados por el DÚ con el n.º de expediente:
 
 ## Página 39
+
 
 2-6673/07-DÚ, de 5 de junio de 2007. En virtud de esta modificación, el SHDV en cuestión está destinado a la explotación en dos modos:
 ◦ como SHDV MUV 69.2 sin fresadora de nieve de vía KSF 70.1, con un peso total de 8 900 kg, con una velocidad máxima establecida de 40 km·h-1;
@@ -1462,8 +1456,8 @@ la diferencia de pesos correspondientes a los ejes 1 y 2 del SHDV tras la recons
 •
 (30,63 % – no se produjo un aumento del porcentaje de diferencia de pesos entre los ejes, establecido en el TPP 01-72);
 
-
 ## Página 40
+
 
 no se puede deducir si, con un peso total del SHDV de 17 990 kg, se produjo un aumento
 •
@@ -1475,8 +1469,8 @@ Fuente: MTH Praha, a. s.
 Según el TPP 01-72, el SHDV MUV 69 estaba originalmente equipado con ruedas monolíticas (sin bandaje) fundidas en acero fundido de 700 mm de diámetro y 130 mm de ancho, que se montan en el eje de 110 mm de diámetro sobre el cono del asiento de la rueda del eje con dos pestañas y se aprietan con una tuerca y arandela de seguridad. El SHDV reconstruido 99 54 9 628 130-5 con fresadora de nieve de vía KSF 70.1 está, según las condiciones técnicas TP 132 05 D1 y la hoja de dimensiones del bogie, equipado con ruedas monolíticas (sin bandaje) fundidas en acero fundido de calidad según la norma ČSN 42 2660 de 700 mm de diámetro y 135 mm de ancho, que se montan en el eje 1 n.º 05-2007 N/N de 130 mm de diámetro sobre el cono del asiento de la rueda del eje con dos pestañas y se aprietan con una tuerca y arandela de seguridad. En el eje 1 estaban montadas, en el momento de la aparición de la MU mencionada anteriormente, ruedas tipo BC 5037, n.º de serie VS143, colada n.º 05061 [rueda izquierda (en adelante, rueda n.º de serie VS143)] y n.º de serie VS141, colada n.º 05050 (rueda derecha). Las ruedas fueron fabricadas, según el documento «CERTIFICADO DE PRUEBA DE RECEPCIÓN INSPECTION CERTIFIKATE», n.º 142/06, de 16 de febrero de 2006, por la sociedad Vítkovické slévárny, s. r. o., según las condiciones de suministro establecidas en la norma ČSN 42
 1261. 14+19, y el plano n.º 2-131-01-2/D (en adelante, documento n.º 142/06). El transportista no disponía de ninguna
 
-
 ## Página 41
+
 
 documentación de planos de las ruedas, suministradas según el documento n.º 142/06, ni de otra documentación que contuviera los parámetros de resistencia de las ruedas del SHDV 99 54 9 628 130-5.
 La última inspección técnica periódica del SHDV 99 54 9 628 130-5 fue realizada por el transportista el 11 de octubre de 2012, con validez hasta el 11 de octubre de 2013, sin tener en cuenta el peso de las personas de servicio y transportadas ni el peso de la nieve retirada con la máxima capacidad de la fresadora de nieve de vía de 3 000 t·h-1. En el documento «Acta de la inspección técnica del vehículo especial de tracción», de 11 de octubre de 2012, se indica, entre otros:
@@ -1508,6 +1502,7 @@ En relación con los parámetros de peso determinados del SHDV 99 54 9 628 130-5
 
 ## Página 42
 
+
 consistente, entre otros, en el parámetro de resistencia de la rueda. Por ello, se realizó el cálculo de resistencia para la rueda en versión forjada y laminada con material conforme a la norma ČSN EN 13262. En los cálculos de resistencia no se tuvo en cuenta el peso de las personas de servicio y transportadas ni el peso de la nieve despejada con la potencia máxima de la fresadora de nieve ferroviaria de 833 kg·s-1 (3 000 t·h-1). De los cálculos de resistencia realizados se desprende que la rueda en versión forjada y laminada de aceros al carbono medio templados según ČSN EN 13262 no cumple los criterios exigidos. No puede, por tanto, esperarse que la rueda fabricada en acero fundido de calidad ČSN 42 2660.5 cumpla los criterios exigidos, con la carga actual del SHDV con la fresadora de nieve ferroviaria KSF 70.1, ya que las ruedas de material forjado presentan, frente a las ruedas de material fundido, una mayor tenacidad a la fractura. Debido a la construcción y a la forma geométrica de la rueda maciza, la resistencia a las fracturas, con propagación radial de las grietas, es menor en su disco.
 
 Por la comparación de la posición y la forma de la superficie de fractura del disco de la rueda n.º de inventario VS141 con los resultados de los cálculos de carga por fatiga, se constató una coincidencia muy buena. Los cálculos confirmaron la posición radial de la superficie de fractura y su iniciación en el lado interior del disco, en un radio de aproximadamente 122 a 125 mm, con una posterior propagación tangencial.
@@ -1521,8 +1516,8 @@ El SHDV 99 54 9 628 130-5 no estaba equipado, en el momento del suceso, de acuer
 Se detectó una deficiencia.
 Hallazgos:
 
-
 ## Página 43
+
 
 • aprobación de la modificación en el vehículo ferroviario tras la reconstrucción realizada, que afectó a la construcción del vehículo y supuso una desviación del tipo aprobado (consistente, entre otros, en un aumento fundamental del peso correspondiente al primer eje con la instalación de ruedas macizas fundidas en acero fundido de calidad ČSN 42 2660 con diseño según el plano n.º 2-131-01-2/D), sin evaluar sus parámetros de resistencia y permitiendo al operador ferroviario explotar el SHDV 99 54 9 628 130-5 con la fresadora de nieve ferroviaria KSF 70.1 en las vías, cuya construcción, con la carga excesiva del material de ambas ruedas del primer eje por flexión, no cumplía los requisitos de seguridad del transporte ferroviario, de las personas de servicio y transportadas y de las cosas;
 • uso del SHDV 99 54 9 628 130-5 con la fresadora de nieve ferroviaria KSF 70.1 en la explotación del transporte ferroviario, en la circulación del tren Lv 76280, en un estado técnico que no corresponde a la aptitud aprobada – con grietas en partes del SHDV importantes para la explotación, es decir, en el disco de la rueda n.º de inventario VS141;
@@ -1534,8 +1529,8 @@ El 24. 2. 2013, entre las 13.36 h y las 14.02 h, con el fin de despejar la nieve
 
 El SHDV 99 54 9 628 130-5 con la fresadora de nieve ferroviaria KSF 70.1 estaba detenido, antes de la salida del tren Lv 76280, en el pk 35,746 en la vía de estación n.º 3 de la est. de Jeseník, es decir, a la altura de la oficina de tráfico. El tren Lv 76280 fue despachado desde la vía de estación n.º 3 de la est. de Jeseník mediante orden verbal del jefe de estación de Jeseník, dada mediante dispositivo de telecomunicaciones el 24. 2. 2013 a las 15.50.31 h, de forma distinta a la establecida por el operador de la vía en el art. 497 de la normativa interna de SŽDC (ČD) D2. Tras transcurrir aprox. 1 minuto (desbloqueo del freno de estacionamiento y puesta en marcha de la marcha), el conductor del SHDV puso en movimiento el tren Lv 76280 a las aprox. 15.51.31 h y partió en dirección a la est. de Lipová Lázně. Tras el suceso, el tren Lv 76280 se detuvo excepcionalmente en el pk 31,780 TK entre las est. de Jeseník y Lipová Lázně. Posteriormente, ya a las 15.55.56 h, el conductor del SHDV comunicó desde el lugar de la detención excepcional del tren Lv 76280 en la vía el origen de la fractura circular de la rueda n.º de inventario VS141 (origen fáctico del suceso) al jefe de estación de Lipová Lázně (véase el punto 2.1.2). La comunicación del origen del suceso fue precedida, según las declaraciones del conductor y del maquinista del SHDV, por la eliminación progresiva de depósitos de hielo con un «martillo de un cuarto de kilo» y un rascador, cuando «Al golpear el hielo del eje delantero se produjo la rotura repentina de la rueda de rodadura - en el lado derecho en sentido de circulación». Los hechos mencionados, en relación con la investigación metalográfica realizada de la rueda n.º de inventario VS141, el ensayo de detección de defectos de la rueda n.º de inventario VS143, las condiciones
 
-
 ## Página 44
+
 
 meteorológicas (véase el punto 2.4.1) y la fotodocumentación del SHDV realizada en la est. de Jeseník (véase la fig. n.º 6) inmediatamente tras el origen del suceso (véase las fig. n.º 1, 7 y 8), no se ajustan a la verdad. El tren de rodadura del SHDV estaba limpio, en algunos puntos húmedo, sin rastro alguno de nieve o hielo, en el momento de la llegada del PMD a la est. de Jeseník y en el momento de la documentación del SHDV tras el origen del suceso. La fotodocumentación del tren de rodadura del SHDV del tren Lv 76280 tras el origen del suceso fue realizada por la persona autorizada del operador ferroviario el 24. 2. 2013 a partir de las 16.11 h, es decir, 15 min tras el origen y la comunicación del origen del suceso.
 
@@ -1547,25 +1542,49 @@ Hallazgos:
 • el jefe de estación de Jeseník despachó el tren Lv 76280 con una instrucción dada mediante orden verbal, por medio de un dispositivo de telecomunicaciones, con la redacción «De la vía 3 salida a Lipová Lázně», sin cumplir la redacción textual obligatoria de la instrucción establecida por el operador de la vía mediante procedimientos tecnológicos, de importancia fundamental para garantizar la seguridad de la explotación de la vía y del transporte ferroviario, que dice «Tren 76280 de la vía 3 salida a Lipová Lázně»;
 • el conductor del SHDV puso en movimiento el tren Lv 76280 sin que el despacho del tren se hubiera
 
-
 ## Página 45
 
-realizado de la manera establecida en la instrucción, véase el párrafo anterior;
-• el conductor del SHDV recorrió con el tren Lv 76280 una distancia de 3 966 m en 4 min. 25 s. La velocidad media (velocidad constante sin tener en cuenta la aceleración al arrancar y la deceleración al detener el SHDV) fue de 54 km·h-1:
-▪ es decir, al menos 14 km·h-1 (35 %) más que la velocidad máxima permitida [en el perímetro de los desvíos adyacentes a la señal principal (de salida) L1-3] establecida desde el punto de puesta en movimiento del tren Lv 76280 en el pk 35,746 hasta la altura del último desvío circulado n.º 12 de la est. de Jeseník, situado en el pk 35,322, en v = 40 km·h-1;
-▪ es decir, al menos 4 km·h-1 (8 %) más que la velocidad máxima permitida (velocidad de vía) establecida desde la altura del último desvío circulado n.º 12 de la est. de Jeseník, situado en el pk 35,322, hasta el pk 31,780 en v = 50 km·h-1, con la que puede circularse, según el TTP, el punto determinado en la vía (tramo de vía);
-▪ es decir, al menos 19 km·h-1 (54,29 %) más que la velocidad máxima de construcción (la velocidad máxima con la que el SHDV con la fresadora de nieve ferroviaria KSF 70.1 puede circular en servicio regular debido a su construcción) establecida para el SHDV con la fresadora de nieve ferroviaria KSF 70.1 en v = 35 km·h-1.
-### 3.5.2 Intercambio de comunicaciones verbales en relación con el suceso, incluidos los registros del dispositivo de registro
-En relación con el suceso no se produjo ninguna comunicación verbal que influyera en su origen.
-### 3.5.3 Medidas adoptadas para la protección y seguridad del lugar del suceso
-El operador de la vía y el operador ferroviario no consideraron, según su declaración posterior, a diferencia de lo dispuesto en los arts. 31 y 147 de la normativa interna de SŽDC Dp17, la fractura circular de la rueda maciza derecha del primer eje del SHDV 99 54 9 628 130-5, para la que era necesario retirar el SHDV de la explotación, como un suceso, sino como una avería técnica del SHDV.
+realizada según el método establecido en la instrucción, véase el párrafo anterior;
+el conductor de la SHDV recorrió con el tren Lv 76280 una distancia de 3 966 m en 4 min. 25 s. La velocidad
+•
+media (velocidad constante sin tener en cuenta la aceleración de la velocidad al arrancar
+y la reducción de la velocidad al detener la SHDV) fue por tanto de 54 km·h-1:
+es decir, al menos 14 km·h-1 (35 %) más que la velocidad máxima permitida
+▪
+[en el ámbito de los desvíos adyacentes a la señal principal (de salida) L1-3]
+establecida desde el punto de puesta en marcha del tren Lv 76280 en km 35,746 hasta el nivel
+del último desvío circulado n.º 12 de la est. Jeseník, situado en km 35,322, de
+v = 40 km·h-1;
+es decir, al menos 4 km·h-1 (8 %) más que la velocidad máxima permitida
+▪
+(velocidad de vía) establecida desde el nivel del último desvío circulado n.º 12 de la est.
+Jeseník, situado en km 35,322, hasta km 31,780 de v = 50 km·h-1, con la que puede circularse
+según el TTP por el punto determinado en la vía (tramo de vía);
+es decir, al menos 19 km·h-1 (54,29 %) más que la velocidad máxima de construcción
+▪
+(velocidad máxima a la que puede circular la SHDV con la fresadora de nieve ferroviaria KSF 70.1
+en servicio regular debido a su construcción) establecida para la SHDV
+con la fresadora de nieve ferroviaria KSF 70.1 de v = 35 km·h-1.
 
-Durante la propia investigación del suceso por parte del operador de la vía y del operador ferroviario en el lugar del suceso, no se manipuló de ninguna manera el SHDV 99 54 9 628 130-5. El 24. 2. 2013 a las 21.00 h, el operador de la vía y el operador ferroviario iniciaron las actividades para garantizar la liberación de la vía, a pesar de que en el lugar del suceso no se estaban realizando trabajos de rescate y el empleado de la DI no dio su consentimiento para su inicio. Tras la colocación de un bogie de sustitución bajo el SHDV intransitable del tren Lv 76280, el SHDV dañado fue trasladado a la est. de Lipová Lázně y, posteriormente, el 24. 2. 2013 a las 22.05 h, fue estacionado en la vía de estación n.º 3. El SHDV en cuestión fue trasladado, tras ser cargado en el vehículo ferroviario remolcado 83 54 3959 132-1, a las instalaciones de SŽDC, s. o., Unidad de Explotación Šumperk. El operador de la vía y el operador ferroviario notificaron el origen del suceso a la DI solo el 10. 4. 2013 a las 13.39 h (es decir, 44 días, 21.43 h después del origen del suceso y 40 días naturales después de que la DI iniciara con el operador de la vía y el operador ferroviario las actuaciones relacionadas con la propia investigación de las causas y circunstancias de este suceso). El empleado de la DI no emitió el consentimiento para el inicio de los trabajos de despeje.
+### 3.5.2 Intercambio de comunicaciones verbales en relación con el suceso extraordinario, incluidas las pruebas del dispositivo de registro
+
+En relación con el SU no se produjo comunicación verbal que influyera en la aparición del SU.
+
+### 3.5.3 Medidas adoptadas para la protección y aseguramiento del lugar del suceso extraordinario
+
+El gestor de la vía y el transportista no consideraron, según su declaración posterior, a diferencia de lo dispuesto en los arts. 31 y 147 de la norma interna SŽDC Dp17, la rotura circular de la rueda maciza n.º 1 del eje 1 de la SHDV 99 54 9 628 130-5, por la que fue necesario retirar la SHDV del servicio, como un SU, sino como una avería técnica de la SHDV.
+
+Durante la propia investigación del suceso por parte del gestor de la vía y el transportista en el lugar del SU, no se manipuló de ninguna manera la SHDV 99 54 9 628 130-5. El 24. 2. 2013 a las 21.00 h, el gestor de la vía y el transportista iniciaron las actividades para asegurar la liberación de la vía, a pesar de que en el lugar del SU no se estaban realizando trabajos de rescate y el empleado de la DI no dio su consentimiento para su inicio. Tras la inserción de un bogie de sustitución bajo la SHDV inmovilizada del tren Lv 76280, la SHDV dañada fue transportada a la est. Lipová Lázně y posteriormente el 24. 2. 2013 a las 22.05 h fue estacionada en la vía de estación n.º 3. La SHDV en cuestión fue trasladada, tras ser cargada en el vehículo ferroviario remolcado 83 54 3959 132-1, a las instalaciones de SŽDC, s. o., Unidad Operativa Šumperk. El gestor de la vía y el transportista notificaron el SU a la DI únicamente el 10. 4. 2013 a las 13.39 h (es decir, 44 días, 21.43 h después de la aparición del SU y 40 días naturales después de que la DI hubiera iniciado ante el gestor de la vía y el transportista los actos relacionados con la propia determinación de las causas y circunstancias de dicho SU). El empleado de la DI no emitió el consentimiento para el inicio de los trabajos de retirada de los restos.
+
 Se detectó una deficiencia.
-Hallazgos:
-• el operador de la vía y el operador ferroviario no impidieron el movimiento en el lugar del suceso
+
+Hallazgo:
+
+el gestor de la vía y el transportista no impidieron el acceso al lugar del SU
+•
 
 ## Página 46
+
 
 del vehículo SHDV del tren Lv 76280 y admitió la realización de cambios inadmisibles del estado original en el lugar de la MU, a pesar de que en el lugar de la MU no se estaban realizando trabajos de rescate y el empleado de DI no dio su consentimiento para el inicio de los trabajos de despeje.
 ## 3.6
@@ -1585,8 +1604,8 @@ La disposición y el equipamiento del puesto de trabajo de los empleados del ges
 ### Sucesos excepcionales anteriores de carácter similar
 No consta registrado en DI ningún suceso excepcional (MU) similar en la explotación del transporte ferroviario SHDV.
 
-
 ## Página 47
+
 
 ## 4 ANÁLISIS Y CONCLUSIONES
 ## 4.1
@@ -1605,15 +1624,15 @@ En la MU no se produjeron daños a la salud de personas.
 ### 4.2.1 Evaluación de los hechos constatados según el punto 3 y exposición de las conclusiones sobre la causa del suceso excepcional y la actuación de los servicios de emergencia
 En el SHDV 99 54 9 628 130-5 (originalmente MUV 69-022) se llevó a cabo en el año 2007 por las empresas
 
-
 ## Página 48
+
 
 OHL ŽS, a. s., división 2050 Brno y MTH Praha, a. s., una reconstrucción a MUV 69.2 de acuerdo con TPP 01-72 y el aditamento n.º 2, que supone una desviación del tipo aprobado y consiste en el montaje del motor de combustión Z 8703.000, la caja de cambios LKT-TEES Praktis, la cabina elevada PUŠL y la adaptación del SHDV para la explotación con la quitanieves ferroviaria KSF 70.1, n.º 148, de acuerdo con TP 132 05. Debido al aumento de peso del SHDV con la superestructura de la quitanieves ferroviaria KSF 70.1, la empresa MTH Praha, a. s., realizó el montaje del eje 1 de diámetro 130 mm n.º 5-2007 N/N. Tras la evaluación del TP 132 05 D1, del cálculo de resistencia del eje para el SHDV tipo (serie) MUV 69.2 y de la hoja de pesaje del SHDV 99 54 9 628 130-5, el DÚ constató que «nada impide la aprobación de este cambio» y emitió la Resolución de aprobación de cambio, de fecha 5. 6. 2007, a pesar de que, sin computar el peso de las personas operadoras y transportadas y el peso de la nieve despejada con la máxima capacidad de la quitanieves ferroviaria de 3 000 t·h-1, el peso total del SHDV era de 17 990 kg, el peso correspondiente al eje 1 era de 11 750 kg (peso correspondiente a la rueda izquierda del eje 1 de 5 800 kg, peso correspondiente a la rueda derecha del eje 1 de 5 950 kg) con el montaje de ruedas monolíticas, fundidas en acero fundido de calidad según ČSN 42 2660, de diámetro 700 mm y anchura 135 mm, con diseño según el plano n.º 2-131-01-2/D. Con la aprobación del cambio en el vehículo ferroviario tras la reconstrucción realizada, que afectó a la construcción del vehículo y supuso una desviación del tipo aprobado (consistente, entre otros, en un aumento fundamental del peso correspondiente al eje 1 con el montaje de ruedas monolíticas, fundidas en acero fundido con diseño según el plano n.º 2-131-01-2/D), el DÚ permitió al transportista la explotación del SHDV 99 54 9 628 130-5 con la quitanieves ferroviaria KSF 70.1, n.º 148, en las líneas que, en el sentido del § 43 apartado 1 de la Ley núm. 266/1994 Sb., por su construcción no correspondían a los requisitos de seguridad del transporte ferroviario, de las personas operadoras y transportadas y de las cosas. La explotación de este vehículo daba lugar a una sobrecarga del material de ambas ruedas del eje 1 por flexión, con la consecuencia de la producción y propagación progresiva de grietas iniciales en los discos de las ruedas n.º VS141 y VS143 hasta la fractura definitiva de la rueda derecha n.º VS141 (véase «INFORME METALOGRÁFICO de la hoja de ensayo n.º 51/2013», n.º de protocolo m/29/13, de fecha 5. 6. 2013). Lo anterior lo confirman asimismo los cálculos de resistencia de la rueda derecha, de diámetro 700 mm y anchura 135 mm, con diseño según el plano n.º 2-131-01-2/D, con la carga actual del SHDV por la quitanieves ferroviaria KSF 70.1, que demostraron que el SHDV con ruedas montadas de acero fundido de calidad ČSN 42 2660.5 no cumplía los requisitos de seguridad del transporte ferroviario, de las personas operadoras y transportadas y de las cosas.
 Sobre la base de las causas y circunstancias constatadas de la producción de esta MU, se cumple simultáneamente la obligación legal del DI de presentar al órgano administrativo ferroviario, en el sentido del § 53b apartado 4 letra c) de la Ley núm. 266/1994 Sb., una propuesta para iniciar el procedimiento de resolución sobre la ineptitud del SHDV con la quitanieves ferroviaria KSF 70.1, que están montadas con ruedas monolíticas fundidas en acero fundido con diseño según el plano n.º 2-131-01-2/D, para la explotación.
 El transportista, en relación con lo dispuesto en el art. 35 de la norma interna S8 y el § 34 apartado 1 letra a) y f) de la Decisión núm. 173/1995 Sb., en el sentido del § 35 apartado 1 letra d) de la Ley núm. 266/1994 Sb., utilizó el SHDV 99 54 9 628 130-5 en la explotación del transporte ferroviario en un estado técnico que no correspondía a la aptitud aprobada, al utilizar para la marcha del tren Lv 76280 un SHDV con grietas iniciales en los discos de las ruedas íntegras n.º VS141 y VS143. Las grietas en el disco de la rueda derecha del eje 1 causaron la consumación de la fractura circular de dicha rueda y la producción de la MU en cuestión. La investigación metalográfica realizada determinó que la composición química, la dureza y la microestructura de la rueda n.º VS141 cumplían los requisitos para el acero al carbono para piezas fundidas de calidad ČSN 42 2660 en estado normalizado y revenido. La presencia de defectos internos de carácter de cavidades y porosidades en el disco de la rueda solo aceleró ligeramente el proceso de daño, debido a la sobrecarga de las ruedas, sin que su presencia tuviera una influencia decisiva en el mecanismo de daño de la integridad de la rueda. La influencia decisiva en la producción de las grietas iniciales la tuvo la sobrecarga de las ruedas del eje 1 en el uso del SHDV con la quitanieves ferroviaria KSF 70.1 (véase arriba y el punto 3.4.4).
 
-
 ## Página 49
+
 
 El transportista, en relación con lo dispuesto en el art. 65 y el art. 4 del anexo n.º 18 de la norma interna SŽDC S8, el § 35 apartado 1 letra i) y el § 37 apartado 7 letra a) y b) de la Decisión núm. 173/1995 Sb., en el sentido del § 35 apartado 1 letra a) de la Ley núm. 266/1994 Sb., no explotó el transporte ferroviario de acuerdo con las reglas de explotación del transporte ferroviario, al superar el conductor del SHDV durante la marcha del tren Lv 76280 la velocidad máxima permitida en al menos 19 km·h-1 (54,29 %) por encima de la velocidad máxima de construcción establecida para el SHDV con la quitanieves ferroviaria KSF 70.1 de v = 35 km·h-1 (véase el punto 3.5.1). La superación de la velocidad máxima de construcción del SHDV 99 54 9 628 130-5 con KSF 70.1, n.º 148, condujo también al aumento de las fuerzas centrífugas de las ruedas. La magnitud de estas fuerzas, a pesar de la carga inadmisible del material de ambas ruedas ya sobrecargadas y dañadas por fracturas de las ruedas n.º VS141 y VS 143 del eje 1, no influyó (no aceleró) la mayor propagación de las grietas por fatiga en los discos de dichas ruedas.
 ## 4.3
@@ -1632,17 +1651,57 @@ No se detectaron causas de la producción de la MU debidas al marco normativo y 
 ## 4.4
 ### Hallazgos complementarios
 ### 4.4.1 Deficiencias y omisiones detectadas durante la investigación de las causas y circunstancias del
-origen del suceso ferroviario, que sin embargo no son relevantes para las conclusiones sobre las causas
-En el gestor de la infraestructura y el transportista (SŽDC, s. o.):
-• En relación con las disposiciones de la «Tabla A – parte de vía» del anexo n.º 1 de la Directiva Organizativa n.º 300/52 y del § 2 apartado 3 del decreto n.º 173/1995 Sb., en el sentido del § 22 apartado 1 letra a) de la ley n.º 266/1994 Sb., no operó la infraestructura de acuerdo con las reglas de explotación de la misma, al haber realizado la última inspección no destructiva de los raíles en el tramo Jeseník – Lipová Lázně el 22. 10. 2010, incumpliendo así el procedimiento establecido en la Directiva Organizativa n.º 300/52, que fijaba el intervalo de tiempo para la realización de la inspección no destructiva de los raíles en 1 vez cada 2 años;
-• En relación con las disposiciones de la «Tabla A – parte de vía» del anexo n.º 1 de la Directiva Organizativa n.º 300/52, del § 2 apartado 3 del decreto n.º 173/1995 Sb. y del § 2 apartado 2 y del anexo 1 artículo 2 letra c) del decreto n.º 376/2006 Sb., en el sentido del § 22 apartado 2 letra d) de la ley n.º 266/1994 Sb., no garantizó el cumplimiento del sistema establecido de garantía de seguridad en la explotación de la infraestructura, al no realizar un control eficaz del cumplimiento de sus propios procedimientos de explotación de la infraestructura para las necesidades del tráfico ferroviario fluido y seguro de acuerdo con las reglas de explotación de la infraestructura, puesto que mediante el control interno de seguridad no detectó el incumplimiento del intervalo de tiempo fijado para la realización de la inspección no destructiva de los raíles en el tramo Lipová Lázně – Jeseník. Mediante la Directiva Organizativa n.º 300/52 se fija el intervalo de realización de la inspección no destructiva de los raíles en 1 vez cada 2 años;
-• En relación con las disposiciones de los artículos 4, 497 y 506 de la normativa interna de SŽDC (ČD) D2, del § 14 apartado 5 y del § 15 apartado 8 del decreto n.º 173/1995 Sb., en el sentido del § 22 apartado 1 letra a) de la ley n.º 266/1994 Sb., no operó la infraestructura de acuerdo con las reglas de explotación de la misma, al haber modificado y no respetado el jefe de estación de la est. Jeseník, de forma arbitraria, durante la expedición del tren Lv 76280, mediante una orden verbal dada por un dispositivo de telecomunicaciones, la redacción verbal vinculante de la instrucción de expedición del tren establecida por el gestor de la infraestructura mediante procedimientos tecnológicos, la cual tiene una importancia fundamental para garantizar la seguridad de la explotación de la infraestructura y del tráfico ferroviario;
-• En relación con las disposiciones de los artículos 4, 496, 497 letra b) y 506 de la normativa interna de SŽDC (ČD) D2 y del artículo , del § 14 apartado 5 y del § 15 apartado 8 del decreto n.º 173/1995 Sb., en el sentido del § 22 apartado 1 letra a) de la ley n.º 266/1994 Sb., no operó el tráfico ferroviario de acuerdo con las reglas de explotación del tráfico ferroviario, al haber puesto el conductor del SHDV el SHDV del tren Lv 76280 en movimiento sobre la base de una expedición del tren realizada por el jefe de estación de la est. Jeseník de una manera distinta a la establecida por los procedimientos tecnológicos. La orden verbal del jefe de estación de la est. Jeseník para la expedición del tren Lv 73280 decía «De la vía 3 a Lipová Lázně salida». La redacción de la instrucción establecida por el gestor de la infraestructura es «Tren 76280 de la vía 3 a Lipová Lázně salida»;
-• En relación con las disposiciones del artículo 65 y del artículo 4 del anexo 18 de la normativa interna de SŽDC S8 y del § 35 apartado 1 letra i) y del § 37 apartado 7 letra b) del decreto n.º 173/1995 Sb., en el sentido del § 35 apartado 1 letra a) de la ley n.º 266/1994 Sb., no operó el tráfico ferroviario de acuerdo con las reglas de explotación del tráfico ferroviario, al haber superado el conductor del SHDV durante la marcha del tren Lv 76280 la velocidad máxima permitida en al menos 19 km·h-1 (54,29 %) por encima de la velocidad máxima de construcción establecida para el SHDV con la quitanieves ferroviaria KSF 70.1 en v = 35 km·h-1;
-• En relación con las disposiciones del artículo 28 del anexo 18 de la normativa interna de SŽDC S8 y del § 33 apartado 2 del decreto n.º 173/1995 Sb., en el sentido del § 35 apartado 1 letra a) de la ley n.º 266/1994 Sb., no operó el tráfico ferroviario de acuerdo con las reglas de explotación del tráfico ferroviario, al no contener las anotaciones sobre la prueba de freno realizada en el Libro de entrega del SHDV 99 54 9 628 130-5, con excepción de las anotaciones
+accidente, que sin embargo no son significativas para las conclusiones sobre las causas
 
+En el gestor de la infraestructura y el transportista (SŽDC, s. o.):
+• en relación con las disposiciones de la «Tabla A – parte de vía» del anexo n.º 1 de la Instrucción organizativa
+n.º 300/52 y del § 2 apartado 3 del decreto n.º 173/1995 Sb., en el sentido del § 22 apartado 1 letra a) de la ley
+n.º 266/1994 Sb., no explotó la infraestructura de acuerdo con las reglas de explotación de la misma, al haber
+realizado la última inspección no destructiva de los raíles en el tramo Jeseník – Lipová Lázně el 22. 10.
+2010, incumpliendo así el procedimiento establecido en la Instrucción organizativa n.º 300/52, por el que se
+fijaba el intervalo de tiempo para la realización de la inspección no destructiva de los raíles de 1x cada 2 años;
+• en relación con las disposiciones de la «Tabla A – parte de vía» del anexo n.º 1 de la Instrucción organizativa
+n.º 300/52, del § 2 apartado 3 del decreto n.º 173/1995 Sb. y del § 2 apartado 2 y del anexo 1 artículo 2 letra c)
+del decreto n.º 376/2006 Sb., en el sentido del § 22 apartado 2 letra d) de la ley n.º 266/1994 Sb.,
+no garantizó el cumplimiento del sistema establecido de garantía de la seguridad de la explotación de la
+infraestructura, al no realizar un control eficaz del cumplimiento de sus propios procedimientos de explotación
+de la infraestructura para las necesidades del transporte ferroviario fluido y seguro de acuerdo con las reglas
+de explotación de la infraestructura, ya que mediante el control interno de seguridad no detectó el incumplimiento
+del intervalo de tiempo fijado para la realización de la inspección no destructiva de los raíles en el tramo
+Lipová Lázně – Jeseník. Mediante la Instrucción organizativa n.º 300/52 se fija el intervalo de realización
+de la inspección no destructiva de los raíles en 1x cada 2 años;
+• en relación con las disposiciones de los artículos 4, 497 y 506 de la norma interna de SŽDC (ČD) D2, del § 14
+apartado 5 y del § 15 apartado 8 del decreto n.º 173/1995 Sb., en el sentido del § 22 apartado 1 letra a) de la ley
+n.º 266/1994 Sb., no explotó la infraestructura de acuerdo con las reglas de explotación de la misma, al haber
+modificado el jefe de estación de la est. Jeseník arbitrariamente, durante la expedición del tren Lv 76280, mediante
+una orden verbal transmitida por un dispositivo de telecomunicaciones, y no haber respetado la redacción verbal
+vinculante de la instrucción de expedición del tren, establecida por el gestor de la infraestructura mediante
+procedimientos tecnológicos, la cual tiene una importancia fundamental para garantizar la seguridad de la
+explotación de la infraestructura y del transporte ferroviario;
+• en relación con las disposiciones de los artículos 4, 496, 497 letra b) y 506 de la norma interna de SŽDC (ČD)
+D2 y del artículo , del § 14 apartado 5 y del § 15 apartado 8 del decreto n.º 173/1995 Sb., en el sentido del § 22
+apartado 1 letra a) de la ley n.º 266/1994 Sb., no explotó el transporte ferroviario de acuerdo con las reglas
+de explotación del transporte ferroviario, al haber puesto el conductor del SHDV el SHDV del tren Lv 76280
+en movimiento sobre la base de una expedición del tren realizada por el jefe de estación de la est. Jeseník de
+una manera distinta a la establecida por los procedimientos tecnológicos. La orden verbal del jefe de estación
+de la est. Jeseník para la expedición del tren Lv 73280 decía «De la vía 3 a Lipová Lázně, salida». La redacción
+de la instrucción establecida por el gestor de la infraestructura es «Tren 76280 de la vía 3 a Lipová Lázně,
+salida»;
+• en relación con las disposiciones del artículo 65 y del artículo 4 del anexo n.º 18 de la norma interna de SŽDC S8
+y del § 35 apartado 1 letra i) y del § 37 apartado 7 letra b) del decreto n.º 173/1995 Sb., en el sentido del § 35
+apartado 1 letra a) de la ley n.º 266/1994 Sb., no explotó el transporte ferroviario de acuerdo con las reglas
+de explotación del transporte ferroviario, al haber superado el conductor del SHDV durante la marcha del tren
+Lv 76280 la velocidad máxima permitida en al menos 19 km·h-1 (54,29 %) por encima de la velocidad
+constructiva máxima establecida para el SHDV con la quitanieves ferroviaria KSF 70.1 en
+v = 35 km·h-1;
+• en relación con las disposiciones del artículo 28 del anexo 18 de la norma interna de SŽDC S8 y del § 33 apartado 2
+del decreto n.º 173/1995 Sb., en el sentido del § 35 apartado 1 letra a) de la ley n.º 266/1994 Sb.,
+no explotó el transporte ferroviario de acuerdo con las reglas de explotación del transporte ferroviario, al no
+figurar las anotaciones relativas a la prueba de freno realizada en el Libro de entrega del SHDV 99 54 9 628 130-5,
+a excepción de las anotaciones
 
 ## Página 51
+
 
 de los días 5. 1. 2012, 4. y 7. 1. 2013, 20., 23. y 24. 2. 2013, la hora de realización de la prueba de freno;
 • En relación con las disposiciones del artículo 7 del anexo IX/1 de la normativa SŽDC (ČD) S8/3 y del § 33 apartado 2 del decreto n.º 173/1995 Sb., en el sentido del § 35 apartado 1 letra a) de la ley n.º 266/1994 Sb., no operó el tráfico ferroviario de acuerdo con las reglas de explotación del tráfico ferroviario, al estar la anotación sobre la prestación de la quitanieves ferroviaria KSF 70.1, n.º de serie 148, en el Registro Operativo del SHDV del mes de febrero de 2013, registrada en motohoras, en lugar de en metros lineales;
@@ -1653,25 +1712,30 @@ de los días 5. 1. 2012, 4. y 7. 1. 2013, 20., 23. y 24. 2. 2013, la hora de rea
 • En relación con los artículos 31, 46, 71, 73 y 147 de la normativa interna de SŽDC Dp17 y del § 2 apartado 2, § 8 apartado 1, § 9 apartado 3 y del Anexo 1 artículo 2 letra i) del decreto n.º 376/2006 Sb., mediante el incumplimiento de las disposiciones del § 35 apartado 2 letra f) y del § 49 apartado 3 letra a) de la ley n.º 266/1994 Sb., no garantizó el cumplimiento del sistema establecido de garantía de seguridad en la explotación del tráfico ferroviario y no notificó sin demora al DI el origen del suceso ferroviario en cuestión, al notificar el origen del suceso ferroviario en cuestión al DI únicamente el día 10. 4. 2013 a las 13:39 h (es decir, 44 días y 21.43 h después del origen del suceso ferroviario y 44 días y 16.38 h después del inicio de las actividades para asegurar la liberación de la infraestructura, durante las cuales se manipuló con el SHDV implicado en el suceso ferroviario). Se realizaron cambios inadmisibles del estado original en el lugar del suceso ferroviario a pesar de que en el lugar del suceso ferroviario no se estaban realizando trabajos de rescate y el empleado del DI no dio su consentimiento para su inicio;
 • En relación con los artículos 102, 103 y 106 de la normativa interna de SŽDC Dp17 y del § 2 apartado 2, § 8 apartado 1, § 9 apartado 3 y 4 letra a) y del Anexo 1 artículo 2 letra i) del decreto n.º 376/2006 Sb.,
 
-
 ## Página 52
 
-mediante el incumplimiento de las disposiciones del § 35 apartado 2 letra f) y del § 49 apartado 3 letra b) de la ley n.º 266/1994 Sb., no garantizó el cumplimiento del sistema establecido de garantía de seguridad en la explotación del tráfico ferroviario y no notificó sin demora al DI el origen del suceso ferroviario en cuestión, al no impedir, sin la emisión del consentimiento por parte del empleado del DI para el inicio de los trabajos de despeje, el movimiento del SHDV implicado en el suceso ferroviario del tren Lv 76280 y al permitir la realización de cambios inadmisibles del estado original en el lugar del suceso ferroviario a pesar de que en el lugar del suceso ferroviario no se estaban realizando trabajos de rescate. El consentimiento para el inicio de los trabajos de despeje no fue emitido por el empleado del DI.
+por el incumplimiento de lo dispuesto en el § 35 apartado 2 letra f) y el § 49 apartado 3 letra b) de la Ley núm. 266/1994 Sb., no garantizó el cumplimiento del sistema establecido de garantía de la seguridad de la explotación del transporte ferroviario y no comunicó de inmediato al DI el surgimiento de la MU en cuestión, al no impedir, sin la emisión del consentimiento para el inicio de los trabajos de limpieza por parte del empleado del DI, el movimiento en la MU del SHDV del tren Lv 76280 participante y al permitir la realización de cambios inadmisibles del estado original en el lugar de la MU, a pesar de que en el lugar de la MU no se estaban realizando trabajos de rescate. El consentimiento para el inicio de los trabajos de limpieza no fue emitido por el empleado del DI.
 ## 5 MEDIDAS ADOPTADAS
 ## 5.1
-### Lista de medidas que ya se han tomado o adoptado como consecuencia del suceso ferroviario
-El transportista SŽDC, s. o., emitió tras el origen del suceso ferroviario las siguientes medidas:
-• «Realizar una inspección visual de las ruedas del tipo MUV 69 con especial atención a las ruedas con números de serie VS 136 – VS 140, VS 142, VS 144 – 150. Número de modelo de la rueda BC 5037. Es necesario limpiar la superficie de la llanta de la rueda. … . En caso de detectar una grieta en la llanta de la rueda, retirar el vehículo del servicio y asegurar la realización de una inspección por control no destructivo de toda la rueda. Plazo de realización de las inspecciones hasta el 31. 05. 2013. … .».
-De las inspecciones visuales de ruedas realizadas en un total de 348 SHDV del tipo MUV 69 y modificaciones derivadas, se constató que solo el SHDV MUV 69.2-1098, adscrito al OŘ Ostrava (véase más abajo), está equipado con ruedas del tipo y número de serie anteriormente mencionados;
-• «Inspección de ruedas en MUV 69», realizada una inspección visual de las ruedas en los SHDV seleccionados de la serie MUV 69.2 (MUV 69.2-271 con superestructura KSF 70.1, MUV 69.2-1092 con superestructura KSF 70.1, MUV 69.2-1098 con superestructura PUŠL y MUV 69.2-1141 con superestructura KSF 70.1).
+### Lista de medidas que, como consecuencia del suceso ferroviario, ya se han adoptado o tomado
+El transportista SŽDC, s. o., emitió, tras el surgimiento de la MU, las siguientes medidas:
+"Realizar una inspección visual de las ruedas de tipo MUV 69, con especial atención a las ruedas de números de serie
+•
+VS 136 – VS 140, VS 142, VS 144 – 150. Número de modelo de la rueda BC 5037. La superficie de la placa de la rueda debe limpiarse. … . Si se detecta una grieta en la placa de la rueda, el vehículo debe retirarse del servicio y debe garantizarse la realización de una inspección por corrientes de Foucault de la rueda completa. Plazo de realización de las inspecciones hasta el 31. 05. 2013. … .".
+De las inspecciones visuales de ruedas realizadas, en un total de 348 SHDV de tipo MUV 69 y modificaciones derivadas, se constató que solo el SHDV MUV 69.2-1098, adscrito al OŘ Ostrava (véase más abajo), está equipado con ruedas del tipo y n.º de serie mencionados;
+"Inspección de ruedas en MUV 69", en los SHDV seleccionados de la serie MUV 69.2 (MUV 69.2-271
+•
+con estructura KSF 70.1, MUV 69.2-1092 con estructura KSF 70.1, MUV 69.2-1098 con estructura PUŠL y MUV 69.2-1141 con estructura KSF 70.1) se realizó una inspección visual de las ruedas.
 ## 6 RECOMENDACIONES DE SEGURIDAD
-La Inspección Ferroviaria, como autoridad administrativa competente en la materia de acuerdo con la disposición del § 53b apartado 5 de la ley n.º 266/1994 Sb., de ferrocarriles, en su texto vigente, sobre la base del resultado de la investigación de las causas y circunstancias del origen del suceso ferroviario, recomienda:
+La Inspección Ferroviaria, como autoridad administrativa competente en la materia de conformidad con lo dispuesto en el § 53b apartado 5 de la Ley núm. 266/1994 Sb., de ferrocarriles, en su redacción vigente, sobre la base del resultado de la investigación de las causas y circunstancias del surgimiento del suceso ferroviario, recomienda:
 Al transportista SŽDC, s. o.:
-• Equipar los SHDV utilizados con la quitanieves ferroviaria KSF 70.1 con ruedas de unas tales características y diseño que el SHDV utilizado con la quitanieves ferroviaria KSF 70.1, por su construcción y su estado técnico, corresponda a los requisitos de seguridad del tráfico ferroviario, de las personas y cosas transportadas y atendidas.
-De acuerdo con la disposición del § 53b apartado 5 de la ley n.º 266/1994 Sb., de ferrocarriles, en su texto vigente, o del anexo n.º 7 al decreto n.º 376/2006 Sb., sobre el sistema de seguridad de la explotación de la infraestructura y del tráfico ferroviario y los procedimientos en caso de sucesos ferroviarios en las infraestructuras, en su texto vigente, la Inspección Ferroviaria recomienda al Órgano Ferroviario la adopción de una medida propia encaminada a la realización de la recomendación de seguridad anteriormente mencionada también con los demás transportistas, y la adopción de una medida que excluya la aprobación de cambios en el DV que no estén
-
+Equipar los SHDV utilizados con la quitanieves ferroviaria KSF 70.1 con ruedas de
+•
+tales parámetros y diseño, de modo que los SHDV utilizados con la quitanieves ferroviaria KSF 70.1 correspondan, por su construcción y su estado técnico, a los requisitos de seguridad del transporte ferroviario, de las personas y cosas transportadas y atendidas.
+De conformidad con lo dispuesto en el § 53b apartado 5 de la Ley núm. 266/1994 Sb., de ferrocarriles, en su redacción vigente, o bien el anexo núm. 7 del decreto núm. 376/2006 Sb., sobre el sistema de seguridad de la explotación del ferrocarril y del transporte ferroviario y los procedimientos en caso de sucesos ferroviarios en los ferrocarriles, en su redacción vigente, la Inspección Ferroviaria recomienda al Ferrocarril la adopción de una medida propia encaminada a la realización de la recomendación de seguridad mencionada más arriba también en los demás transportistas, y la adopción de una medida que excluya la aprobación de cambios en el DV que no
 
 ## Página 53
+
 
 en consonancia con los requisitos de seguridad del tráfico ferroviario de las personas y cosas transportadas y atendidas.
 En Ostrava, a 16. 1. 2014
@@ -1682,8 +1746,8 @@ director
 de la Inspección Territorial de Ostrava
 de la Inspección Territorial de Ostrava
 
-
 ## Página 54
+
 
 ## 7 ANEXOS
 ### Fig. n.º 7: Rueda derecha rota n.º de serie VS141 inmediatamente después del origen del suceso ferroviario.
@@ -1691,14 +1755,14 @@ Fuente: www-report.net
 Fig. n.º 8: Detalle de la rueda derecha rota n.º de serie VS141, tomado 22 minutos después del origen del suceso ferroviario.
 Fuente: SŽDC, s. o.
 
-
 ## Página 55
+
 
 ### Fig. n.º 9: Detalle de parte de la superficie de rotura del segmento de la rueda derecha rota n.º de serie VS141, que permaneció firmemente montado en el cono del asiento de la rueda del eje n.º 05-2007 N/N (1.er eje del SHDV 99 54 9 628 130-5).
 Fuente: DI
 
-
 ## Página 56
+
 
 ### Fig. n.º 10: Parte de la superficie de rotura del segmento de la rueda derecha rota n.º de serie VS141, con la indicación del defecto interno del material.
 Fuente: DI

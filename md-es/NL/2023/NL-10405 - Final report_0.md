@@ -12,8 +12,7 @@ tokens_in: 203182
 tokens_out: 136785
 fecha_proceso: 2026-11-18
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-verificacion: revisar
-avisos: ["página 4: ratio 0.58", "página 59: cifras largas: faltan 2/4 (50%)", "página 83: cifras largas: faltan 2/8 (25%)", "página 134: cifras largas: faltan 4/9 (44%)"]
+verificacion: ok
 notas_cifras: ["página 15: cifras cortas: 1/7", "página 17: original bilingüe: se compara contra el idioma principal (EN)", "página 23: cifras cortas: 1/8", "página 24: cifras cortas: 2/13", "página 28: cifras cortas: 3/22", "página 34: cifras cortas: 8/24"]
 ---
 
@@ -49,60 +48,60 @@ Correo electrónico: info@onderzoeksraad.nl
 
 ## Página 4
 
-## ÍNDICE
+## CONTENIDO
 Resumen.............................................................................................................. 6
-Consideraciones..............................................................................................................11
-Recomendaciones........................................................................................................... 15
-Lista de abreviaturas.................................................................................................. 17
-Glosario de términos............................................................................................................. 19
-1	 Introducción............................................................................................................... 23
+Consideración......................................................................................................11
+Recomendaciones...............................................................................................15
+Lista de abreviaturas..........................................................................................17
+Glosario.............................................................................................................19
+1	 Introducción................................................................................................. 23
 1.1	
-Motivo de la investigación23
+Motivo de la investigación.............................................................................23
 1.2	
-Planteamiento del problema y objetivos24
+Planteamiento del problema y objetivos............................................................24
 1.3	
-Preguntas de investigación25
+Preguntas de investigación.............................................................................25
 1.4	
-Enfoque y delimitación25
+Enfoque y delimitación....................................................................................25
 1.5	
-Partes implicadas26
+Partes implicadas............................................................................................26
 1.6	
-Otras investigaciones29
+Otras investigaciones.....................................................................................29
 1.7	
-Marco de referencia29
+Marco de referencia.......................................................................................29
 1.8	
-Guía de lectura33
-2	 Suceso y escenarios....................................................................................... 34
+Guía de lectura...............................................................................................33
+2	 Desarrollo y escenarios................................................................................ 34
 2.1	
-Trabajos entre La Haya y Leiden34
+Trabajos entre La Haya y Leiden.....................................................................34
 2.2	
-Ejecución de los trabajos40
+Ejecución de los trabajos...............................................................................40
 2.3	
-Colisiones46
+Colisiones.......................................................................................................46
 2.4	
-Asistencia y víctimas50
+Asistencia y víctimas......................................................................................50
 2.5	
-Escenarios51
-3	 Análisis................................................................................................................ 54
+Escenarios......................................................................................................51
+3	 Análisis........................................................................................................ 54
 3.1	
-Trabajos con paso de trenes55
+Trabajos por los que circulan trenes...............................................................55
 3.2	
-Protección de la zona de trabajo y orientación64
+Aislamiento del lugar de trabajo y orientación................................................64
 3.3	
-Comunicación y acompañamiento76
+Comunicación y acompañamiento...................................................................76
 3.4	
-Los trabajos nocturnos como factor de aumento del riesgo86
-4	 Factores a nivel sistémico..................................................................................94
+Trabajo nocturno como factor de aumento del riesgo........................................86
+4	 Factores a nivel de sistema...........................................................................94
 4.1	
-Las partes aprenden limitadamente de los accidentes94
+Las partes aprenden poco de los accidentes.....................................................94
 4.2	
-Riesgos identificados pero no seguidos96
+Riesgos reconocidos pero no atendidos...........................................................96
 4.3	
-Presión del Ministerio de Infraestructura y Gestión del Agua (IenW) sobre ProRail como gestor98
+Presión de IenW sobre ProRail como gestor.....................................................98
 4.4	
-ProRail externaliza la responsabilidad en materia de seguridad99
+ProRail externaliza la responsabilidad de seguridad.........................................99
 4.5	
-El mantenimiento de vía tiene baja prioridad en la supervisión102
+Mantenimiento ferroviario de baja prioridad en la supervisión.........................102
 
 ## Página 5
 
@@ -259,6 +258,7 @@ Presidente
 Secretario-director
 
 ## Página 17
+
 
 ## LISTA DE ABREVIATURAS
 Abreviatura
@@ -1025,6 +1025,7 @@ Basado en datos telefónicos.
 
 ## Página 46
 
+
 2.2.6	 Cruce de la grúa
 Según la instrucción de seguridad del puesto de trabajo, las vías 1 y 2 debían volver a sacarse fuera de servicio durante un breve periodo antes de que el equipo de trabajo pudiera abandonar la vía 4 a través del punto de acceso ferroviario. Esto debía realizarse de la misma manera que en el despliegue de los vehículos (figura 12).
 A la llegada de la grúa al punto de acceso ferroviario, las vías 3 y 4 (puesto de trabajo A) seguían aún fuera de servicio. Aproximadamente a las 03:21 horas63, el maquinista de la grúa conmutó esta desde su cabina para pasar del modo ferroviario al modo carretera. Esto significaba que las ruedas de ferrocarril se elevaban para que la grúa pudiera seguir circulando sobre neumáticos. En la grúa había instalado un módulo de registro con el que quedaron grabados algunos movimientos de la grúa. Entre 
@@ -1316,20 +1317,23 @@ El accidente de Voorschoten tuvo lugar en un tramo de cuatro vías. Dos de las c
 
 ## Página 59
 
-Ambigüedad sobre la vía de amortiguación
-En una serie de entrevistas realizadas por el Consejo de Investigación, los agentes del sector ferroviario han hablado del fenómeno de la «vía de amortiguación» (*bufferspoor*), también en relación con el accidente de Voorschoten. El sentido de las observaciones era que es posible trabajar con seguridad en un tramo de cuatro vías porque las vías en las que trabajan los operarios de infraestructura no son adyacentes a las vías por las que circulan los trenes, y que esto también sería el caso en Voorschoten. La expresión «vía de amortiguación» no está definida de manera unívoca y no figura en las directrices sectoriales para el trabajo seguro en la vía. Al consultar al respecto, se entiende por vía de amortiguación: «una vía en la que no se trabaja y por la que tampoco circulan trenes». Dicha vía de amortiguación debería evitar que los operarios de infraestructura accedan involuntariamente a la vía por la que circulan los trenes. En el accidente de Voorschoten no existía ninguna vía de amortiguación. En dos de las cuatro vías se realizaban trabajos y por las otras dos vías podían circular trenes.
-
+Falta de claridad sobre la vía muerta
+En una serie de entrevistas realizadas por el Consejo de Investigación, representantes del sector ferroviario han hablado del fenómeno de la vía muerta, también en relación con el accidente en Voorschoten. El contenido de las observaciones fue que es posible trabajar con seguridad en un tramo de cuatro vías porque las vías en las que los trabajadores de vía están trabajando no limitan con las vías por donde circulan los trenes, y que este también sería el caso en Voorschoten. Una vía muerta es un término que no está definido de forma unívoca y que no aparece en las directrices del sector para el trabajo seguro en la vía. Tras consulta, se constata que por vía muerta se entiende: «una vía en la que no se trabaja y por la que tampoco circulan trenes». Una vía muerta de este tipo debería impedir que los trabajadores de vía acabaran sin querer en la vía por donde circulan los trenes. En el accidente de Voorschoten no hubo vía muerta. En dos de las cuatro vías se realizaban trabajos y en las otras dos vías podían circular los trenes.
 Velocidad de los trenes que pasan
-En el accidente de Voorschoten, como es habitual actualmente, los trenes podían circular a su velocidad máxima permitida en el tramo.⁹⁹ El tren de mercancías circulaba a unos 97 km/h en el momento de la colisión, y el tren de pasajeros a 140 km/h.
+En el accidente de Voorschoten, tal y como es habitual en este momento, los 
 
-Además de la decisión de circular o no junto a los trabajos, ProRail, los contratistas de mantenimiento y las empresas ferroviarias pueden decidir conjuntamente hacer circular los trenes a una velocidad reducida junto a la zona fuera de servicio. A pesar de la menor velocidad, una colisión con un operario de infraestructura seguirá siendo mortal en muchos casos. En caso de colisión de material pesado con un tren de pasajeros o de mercancías (con o sin sustancias peligrosas), la escalada será menor debido a la menor energía. No obstante, existen actualmente varios factores que hacen que una velocidad reducida no sea algo evidente en este momento.
+trenes podían circular a la velocidad máxima permitida del tramo.99 El tren de mercancías circulaba en el momento de la colisión a unos 97 km por hora, el tren de pasajeros a 140 km por hora. 
 
-Una velocidad reducida consume capacidad debido a los mayores tiempos de recorrido de un tren. El tren de mercancías implicado en Voorschoten circulaba desde Sittard hasta Beverwijk y pasó junto a varios trabajos durante el trayecto. Las zonas fuera de servicio por trabajos tienen a veces decenas de kilómetros de longitud y el tren deberá mantener una velocidad reducida a lo largo de toda la extensión de la zona fuera de servicio. La razón es que el maquinista no sabe exactamente dónde están trabajando los operarios. Actualmente, con el sistema convencional de protección de trenes, no es posible imponer técnicamente una limitación de velocidad de forma breve.¹⁰⁰
+Además de la decisión de circular o no junto a los trabajos, ProRail, 
 
-Asimismo, un jefe de circulación puede emitir una instrucción europea («limitar la velocidad» o «circular a vista»), pero su aplicación va en contra de la filosofía de estas instrucciones. Estas instrucciones están previstas, por ejemplo, para incidentes en un tramo pequeño.
+los contratistas de mantenimiento y las empresas ferroviarias pueden tomar conjuntamente la decisión de hacer circular los trenes a una velocidad reducida junto a la puesta fuera de servicio. A pesar de una velocidad menor, una colisión con un trabajador de vía seguirá conduciendo en muchos casos a un accidente mortal. En caso de colisión de material pesado con un tren de pasajeros o de mercancías (con o sin mercancías peligrosas), la escalación – debido a la menor energía – será menor. Sin embargo, en este momento existen varios factores que no hacen que una velocidad reducida sea algo evidente en la actualidad. Una velocidad reducida va en detrimento de la capacidad, debido a los tiempos de circulación más largos de un tren. El tren de mercancías implicado en Voorschoten circulaba de Sittard a Beverwijk y pasaba por varios trabajos en su recorrido. Las puestas fuera de servicio por trabajos son a veces de decenas de kilómetros de longitud y el tren deberá seguir circulando a una velocidad reducida durante toda la longitud de la puesta fuera de servicio. La razón de ello es que el maquinista no sabe exactamente dónde están trabajando los operarios. En este momento, con la señalización ferroviaria convencional no es posible imponer técnicamente, de forma temporal, una limitación de velocidad.100
 
-⁹⁹ Para los trenes implicados en este accidente regían otras velocidades máximas permitidas: 140 km/h (tren Intercity) y 80 km/h (tren de mercancías). Véase el anexo D.1.1.
-¹⁰⁰ La limitación temporal de velocidad se indica -procedimentalmente- mediante señales, las llamadas señales LAE [las señales LAE son señales situadas en el lugar de una limitación temporal de velocidad. La señal L advierte de que se aproxima una limitación de velocidad. La limitación de velocidad comienza donde está situada la señal A y termina donde está situada la señal E]. Para la instalación de estas señales también son necesarias medidas de gestión de la seguridad, lo que reducirá el tiempo efectivo de trabajo en la zona fuera de servicio y requerirá más personal.
+Además, un jefe de explotación puede emitir una instrucción europea «limitar velocidad» o «circular a la vista», pero su aplicación va en contra de la filosofía de estas instrucciones. Las instrucciones están, por ejemplo, destinadas a incidentes en un pequeño tramo 
+99	
+Para los trenes implicados en este accidente regían otras velocidades máximas permitidas: 140 km por hora 
+(interurbano) y 80 km por hora (tren de mercancías). Véase el anexo D.1.1.
+100	 La limitación temporal de velocidad se indica - proceduralmente - mediante señales, los llamados carteles LAE 
+[Los carteles LAE son señales que se sitúan en el lugar de una limitación temporal de velocidad. La señal L advierte de que se aproxima una limitación de velocidad. La limitación de velocidad comienza donde está la señal A y termina donde está la señal E]. Para la colocación de estos carteles también son necesarias medidas de control de seguridad, por lo que el tiempo de trabajo efectivo de la puesta fuera de servicio disminuirá y se necesitará más personal.
 
 ## Página 60
 
@@ -1437,6 +1441,7 @@ Como se describe en el capítulo 2, el equipo de trabajo debe acceder a su lugar
 
 ## Página 66
 
+
 Cruzar vías en servicio, como es necesario en una puesta fuera de servicio de vía central, entraña riesgos para los trabajadores de la vía y los trenes que pasan. El grado de riesgo viene determinado también por cómo esté configurado el lugar de despliegue.
 Medidas técnicas
 Para la circulación ferroviaria, la filosofía es que el sistema de vía garantiza una forma robusta y a prueba de fallos (fail-safe) de guiar el tráfico ferroviario. Si la señal está en verde, el maquinista puede continuar su ruta con seguridad o el usuario de la vía puede cruzar el paso a nivel con seguridad. Cuando se realizan trabajos de mantenimiento en una zona donde el tren y los trabajadores de la vía pueden entrar en contacto, la filosofía es que las medidas técnicas aíslen los trabajos del tráfico ferroviario. Y viceversa: el tráfico ferroviario queda protegido frente a los trabajos en los que se utiliza maquinaria pesada. Antes de que alguien pueda cruzar, el jefe de circulación pone fuera de servicio el tramo de vía correspondiente y el responsable de la protección del puesto de trabajo instala medios técnicos auxiliares para poner el tramo fuera de servicio. Ambas medidas evitan que los trenes entren inadvertidamente en el puesto de trabajo.
@@ -1446,6 +1451,7 @@ El 22 de diciembre de 2023, un jefe de circulación asigna un puesto de trabajo 
 112	 ProRail, Ficha informativa Aviso de seguridad Jefe de circulación asigna un puesto de trabajo a un RPPW mientras aún hay un tren en marcha, 4 de enero de 2024.
 
 ## Página 67
+
 
 Medios auxiliares para el aislamiento y la orientación en el lugar de trabajo
 Como se ha explicado en el apartado anterior, es importante para los trabajadores del ferrocarril saber si las vías que cruzan o junto a las cuales caminan están fuera de servicio o no, y si acceden a las vías correctas en la ubicación adecuada. Sucede con regularidad que los trabajadores accedan involuntariamente a vías en servicio, como se ilustra en el apartado 3.2.3.
@@ -1463,6 +1469,7 @@ X sistemas automáticos de advertencia, ya sea en terminales portátiles o no;
 113 Nota a LOPC/Landelijk Platform Overleg, Aanpak bijna aanrijdingen baanwerkers (ProRail interno, 2012).
 
 ## Página 68
+
 
 paneles de orientación y paneles de vía.
 X
@@ -1555,6 +1562,7 @@ Una de las recomendaciones que ProRail dirigió a sí misma tras el mencionado a
 
 ## Página 72
 
+
 cumplan todos los requisitos de calidad y ofrezcan todas las instalaciones (p. ej.: interruptores de zona de trabajo121, iluminación y medios de orientación). ProRail también recomendó evaluar todas las zonas de colocación de vías existentes conforme a este proyecto de norma que se iba a establecer y, si era necesario, adaptarlas. Además, ProRail quería abordar las diez zonas de colocación de vías más riesgosas basándose en los incidentes por región.
 La recomendación de mejorar la seguridad de las zonas de colocación de vías para los trabajadores y los trenes que pasaban había sido parcialmente seguida en el momento del accidente en Voorschoten. En 2016, ProRail estableció un proyecto de norma para las zonas de colocación de vías. Este proyecto de norma no contenía la distinción recomendada en clases de gravedad y no especificaba qué dispositivos de seguridad debían aplicarse para evitar el riesgo de colisión. Las siguientes disposiciones de este proyecto de norma están relacionadas con los riesgos que desempeñaron un papel en el accidente de Voorschoten.
 Proyecto de norma sobre zonas de colocación de vías (ProRail)
@@ -1570,6 +1578,7 @@ ProRail no evaluó las zonas de colocación de vías que ya estaban en uso en es
 122	 Estrictamente hablando, la zona de colocación de vías en Voorschoten sí cumple el punto 19 (accesible desde la vía pública solo desde un lado). En combinación con el hecho de que la zona de colocación de vías fue construida sobre cuatro vías, contraviniendo el punto 18c, eso fue precisamente un factor de aumento del riesgo en el diseño.
 
 ## Página 73
+
 
 Con motivo del accidente en Voorschoten, ProRail inició una investigación nacional sobre los puntos de acceso a la vía con riesgo elevado. ProRail ha identificado qué puntos de acceso a la vía cruzan tres o más vías. Resultaron ser 34. A continuación, ProRail evaluó esos 34 puntos de acceso a la vía basándose en el reglamento de diseño de 2016. De ello se desprende que ProRail clasificó 7 de los 34 puntos de acceso a la vía como de muy alto riesgo. El punto de acceso a la vía en Voorschoten es uno de los puntos de acceso a la vía más riesgosos. En el momento de redactar este informe, ProRail estaba deliberando sobre un enfoque.123
 ProRail disponía desde 2012 de indicios de que ciertos puntos de acceso a la vía eran riesgosos. Con motivo de esto, ProRail establece desde 2016 nuevos requisitos para los nuevos puntos de acceso a la vía, pero no para los ya existentes. Los riesgos relacionados con los puntos de acceso ya existentes no salieron a la luz y persistieron.
@@ -1749,6 +1758,7 @@ En todos los casos, la persona que opera un vehículo ferroviario debe estar ins
 
 ## Página 81
 
+
 Al circular con vehículos ferroviarios por vías fuera de servicio se establecen los siguientes requisitos:
 X Circular en todo momento a la vista, con una velocidad máxima de 40 km/h;
 X La velocidad máxima en las proximidades del personal en el lugar de trabajo es de 10 km/h;
@@ -1774,6 +1784,7 @@ Este endurecimiento no distinguía entre tramos de vía donde todos los carriles
 
 ## Página 82
 
+
 no circulasen trenes, los vehículos mixtos ferrocarril-carretera debían ser escoltados. Esto condujo el 4 de agosto de 2023 a una actualización que mencionaba la siguiente excepción.
 Actualización138
 «Las excepciones a la escolta in situ durante la colocación y retirada de un vehículo mixto ferrocarril-carretera en un punto de acceso ferroviario o paso a nivel son las situaciones en las que se cumple lo siguiente y así consta también en la RI&E:
@@ -1790,13 +1801,26 @@ El 23 de agosto de 2020, una grúa depositó materiales sobre una vía en servic
 
 ## Página 83
 
-se encontraban más adelante. Para ello, el operador de la grúa debía retirar la grúa del carril en la ubicación de los materiales y recoger las piezas auxiliares. En el momento en que la grúa fue retirada del carril (aproximadamente 6 minutos antes del final de la zona de trabajo temporal), el jefe de seguridad de la zona de trabajo se puso en contacto con el jefe de seguridad local. El jefe de seguridad local indicó que la grúa estaba apagada y que el carril podía volver a entrar en servicio. Esto también lo había comunicado al supervisor de ejecución. El supervisor de ejecución le dijo al operador de la grúa que ya podía preparar las cosas. El operador de la grúa interpretó esto como que podía volver a colocar la grúa sobre el carril.
-El 29 de octubre de 2017, una grúa salió de la puesta fuera de servicio. El acompañante de la puesta fuera de servicio instruyó al operador de maquinaria de herramientas para que avanzara hasta «el viaducto». Con esto, el acompañante de la puesta fuera de servicio se refería al paso superior (fly-over). El operador de maquinaria de herramientas condujo por sí mismo hasta la zona de trabajo y pasó junto al paso superior buscando «el viaducto». En el proceso, pasó varias señales de parada. El jefe de circulación ferroviaria vio una ocupación de vía en su pantalla y contactó con el jefe de seguridad de la zona de trabajo. El jefe de seguridad de la zona de trabajo llamó al acompañante de la puesta fuera de servicio, quien llamó al operador de maquinaria de herramientas para corregir el error.
-Una suposición incorrecta conduce regularmente a situaciones inseguras. Un ejemplo de ello es la suposición de que un determinado carril ya está fuera de servicio, cuando aún no es así. Esto puede deberse, entre otras causas, a una mala comunicación, un patrón de expectativas incorrecto, un error al leer el plano de instrucciones de trabajo o porque el trabajador de vía o el responsable de seguridad cree estar en una ubicación diferente a la real.
-El 25 de agosto de 2022 se realizaron trabajos de mantenimiento de zonas verdes junto al carril. Dado que el vigilante de límite¹³⁹ de estos trabajos no había visto tráfico ferroviario, llamó al jefe de seguridad de la zona de trabajo porque también quería realizar trabajos entre dos carriles. El jefe de seguridad de la zona de trabajo no había sido informado previamente sobre los trabajos de mantenimiento de zonas verdes junto al carril. El vigilante de límite solicitó permiso para realizar trabajos de mantenimiento de zonas verdes entre dos carriles. El jefe de seguridad de la zona de trabajo indicó que los carriles estaban en servicio y que había pruebas de marcha programadas. El vigilante de límite declaró que no entraría en el carril, ante lo cual el jefe de seguridad de la zona de trabajo supuso que solo realizaban los trabajos desde el sendero de inspección.¹⁴⁰ Basándose en esta suposición, el jefe de seguridad de la zona de trabajo dio permiso para los trabajos. Como resultado, el vigilante de límite y su equipo realizaron trabajos en el carril en servicio. Debido a que en ese momento no pasaba ningún tren, esto quedó sin consecuencias.
-El 9 de septiembre de 2018, se transportó una vagoneta (lorrie) sobre un carril en servicio. Un equipo de soldadura realizó trabajos en el carril. Tras finalizar los
-139	 Persona competente que vigila que los trabajadores y las herramientas no entren inadvertidamente en una zona adyacente. Fuente: railAlert.
-140	 Un sendero de inspección es un camino peatonal directo hacia el carril para realizar trabajos de inspección mientras el carril está en uso sin limitaciones de velocidad (fuente: ProRail Spoorse begrippen, 2011).
+verderop estaban. Para ello, el operador de grúa debía desvía la grúa en la ubicación de los materiales y recoger los accesorios. En el momento en que la grúa había sido desviada (aproximadamente 6 minutos antes del final del puesto de trabajo temporal), el responsable de protección del puesto de trabajo tenía contacto con el responsable de seguridad local. El responsable de seguridad local indicó que la grúa había sido retirada y que la vía podía volver a ponerse en servicio. Esto también se lo había comunicado al ejecutor. El ejecutor le dijo al operador de grúa que ya podía preparar las cosas. Esto fue interpretado por el operador de grúa como que podía volver a entrar en la vía.
+
+El 29 de octubre de 2017, una grúa salió de la puesta fuera de servicio. El acompañante de la puesta fuera de servicio instruyó al operador de la máquina de herramientas para que avanzara hasta "el viaducto". El acompañante de la puesta fuera de servicio se refería con esto al fly-over. El operador de la máquina de herramientas se dirigió por su cuenta al puesto de trabajo y pasó por el fly-over en busca de "el viaducto". Al hacerlo, pasó varias señales de parada. El jefe de tráfico ferroviario vio una ocupación de vía en su pantalla y se puso en contacto con el responsable de protección del puesto de trabajo. El responsable de protección del puesto de trabajo llamó al acompañante de la puesta fuera de servicio, quien llamó al operador de la máquina de herramientas para corregir el error.
+
+Una suposición incorrecta conduce regularmente a situaciones inseguras. Un ejemplo de esto es la suposición de que una vía determinada ya está fuera de servicio, cuando aún no es el caso. Esto puede deberse, entre otras cosas, a una mala comunicación, un patrón de expectativas incorrecto, un error en la lectura del plano de instrucciones de trabajo o porque
+
+el trabajador de vía o el funcionario de seguridad cree encontrarse en una ubicación distinta de la que realmente es.
+
+El 25 de agosto de 2022 se realizaron trabajos de jardinería junto a la vía. Como el vigilante de límites139 de estos trabajos no había visto tráfico ferroviario, llamó al responsable de protección del puesto de trabajo porque también quería realizar trabajos entre dos vías. El responsable de protección del puesto de trabajo no conocía previamente los trabajos de jardinería junto a la vía. El vigilante de límites solicitó permiso para realizar trabajos de jardinería entre dos vías. El
+
+responsable de protección del puesto de trabajo indicó a su vez que las vías estaban en servicio y que
+
+habían previsto trenes de prueba. El vigilante de límites indicó que no entraría en la vía, por lo que el responsable de protección del puesto de trabajo supuso que solo realizaban trabajos desde la senda de inspección.140 Sobre la base de esta suposición, el
+
+responsable de protección del puesto de trabajo concedió permiso para los trabajos. Como resultado de esto, el vigilante de límites y su equipo realizaron trabajos en la vía en servicio. Dado que en ese momento no pasaba ningún tren, esto no tuvo consecuencias.
+
+El 9 de septiembre de 2018 se transportó un lorry por una vía en servicio. Un equipo de soldadura realizaba trabajos en la vía. Al finalizar los
+
+139 Persona autorizada que vigila que los trabajadores y las herramientas no entren de forma inintencionada en una zona adyacente. Fuente: railAlert.
+140 Una senda de inspección es un camino de acceso directo a la vía para trabajos de inspección mientras la vía está en uso sin restricciones de velocidad (fuente: ProRail Términos ferroviarios, 2011).
 
 ## Página 84
 
@@ -2797,32 +2821,62 @@ El tren de mercancías se acercaba a la estación de Voorschoten a una velocidad
 ## Página 134
 
 Daños en la infraestructura
-Solo es posible ofrecer una indicación global de los daños en la infraestructura como consecuencia del impacto de la grúa contra el tren de mercancías, dado que el segundo impacto dañó aún más la infraestructura. Durante la inspección in situ se constató que el andén (entre las vías 1 y 2) había sufrido daños graves. Es probable que estos fueran causados en gran parte por el hecho de que la grúa golpeó el andén cuando, tras el impacto con el tren de mercancías, se desplazó hacia la vía 1. No fue posible determinar con claridad los daños en los rieles y traviesas. En D.3.2 figura una breve descripción de los daños en la infraestructura en la situación final.
-
-D.3.2	Impacto grúa – tren de pasajeros
-
+De los daños en la infraestructura como consecuencia de la colisión de la grúa con el tren de mercancías solo es posible una indicación general, ya que la segunda colisión dañó más la infraestructura. En la inspección sobre el terreno se constató que el andén (entre las vías 1 y 2) había sufrido daños graves. Es probable que esto se debiera en gran medida a que la grúa golpeó el andén cuando, tras la colisión con el tren de mercancías, se había dirigido hacia la vía 1. Los daños en los raíles y las traviesas no pudieron determinarse. En D.3.2 se encuentra una breve descripción de los daños en la infraestructura en la situación final.
+D.3.2	
+Colisión de grúa – tren de viajeros
 Grúa
-Tras el impacto de la grúa por parte del tren de mercancías, la grúa quedó situada en la vía 1. NS examinó el patrón de daños en el tren de pasajeros y llegó a la conclusión de que es muy probable que la grúa fuera impactada frontalmente por el tren de pasajeros. La grúa estaba situada en el centro de la vía 1 – con la pluma y la pinza de clasificación en la parte delantera – orientada en dirección al tren de pasajeros que se aproximaba.
-
-Tren de pasajeros
-El martes por la mañana, 4 de abril, el tren 1409 salió de Utrecht Centraal a las 02.15 horas. En el tren se encontraban un maquinista y dos jefes de tren de NS. En Utrecht subieron aproximadamente 275 viajeros; en Amsterdam Centraal bajó alrededor de la mitad y, posteriormente, en Schiphol Airport y Leiden Centraal, otra parte. El tren circuló desde Utrecht hasta Leiden Centraal completamente según el horario (tabla 3). A la salida de la estación Leiden Centraal, había 39 viajeros en el tren. Tras salir de Leiden Centraal, el tren pasó por la estación De Vink a las 03.25 horas y se aproximó a la estación Voorschoten a una velocidad de aproximadamente 140 km/h.²²⁵
-
-Tabla 3: Horario del tren de pasajeros 1409.
-
-| Estación | Llegada / salida | Servicio previsto | Ejecución | Nº de viajeros a la salida²²⁶ |
-| :--- | :--- | :--- | :--- | :--- |
-| Utrecht Centraal | salida | 02.16 | 02.15 | 89 |
-| Amsterdam Centraal | llegada | 02.44 | 02.41 | celda vacía |
-| Amsterdam Centraal | salida | 02.46 | 02.45 | 70 |
-| Schiphol Airport | llegada | 03.01 | 03.01 | celda vacía |
-| Schiphol Airport | salida | 03.05 | 03.05 | 46 |
-| Leiden Centraal | llegada | 03.21 | 03.19 | celda vacía |
-| Leiden Centraal | salida | 03.23 | 03.22 | 39 |
-
-²²⁵ NS, Geplande en uitgevoerde dienstregeling 1409.xlsx.
-²²⁶ Recuento basado en imágenes de cámaras.
+Tras la colisión de la grúa por el tren de mercancías, la grúa acabó en la vía 1. NS ha examinado los daños en el tren de viajeros y llega a la conclusión de que es muy probable que la grúa fuera chocada de frente por el tren de viajeros. La grúa se encontraba en el centro de la vía 1 – con el brazo y el agarre clasificador en la parte delantera – en la dirección del tren de viajeros que se aproximaba.
+Tren de viajeros
+El martes 4 de abril, el tren 1409 partió a las 02.15 horas de Utrecht Centraal. En el tren se encontraban un maquinista y dos jefes de tren de NS. En Utrecht subieron unos 275 viajeros, en Amsterdam Centraal bajó aproximadamente la mitad y, a continuación, en Schiphol Airport y Leiden Centraal bajó una parte más. El tren circuló de Utrecht a Leiden Centraal íntegramente según el horario (tabla 3). A la salida de la estación Leiden Centraal se encontraban en el tren 39 viajeros. Tras la salida de Leiden Centraal, el tren pasó a las 03.25 horas por la estación De Vink y se aproximó a la estación Voorschoten a una velocidad de unos 140 km por hora.225
+T Tabla 3: Horario del tren de viajeros 1409.
+Estación
+Llegada 
+Horario
+Tiempo de 
+Número de viajeros en
+/ salida
+salida226
+ejecución
+Utrecht Centraal
+salida
+02.16
+02.15
+89
+Amsterdam Centraal
+llegada
+02.44
+02.41
+celda vacía
+Amsterdam Centraal
+salida
+02.46
+02.45
+70
+Schiphol Airport
+llegada
+03.01
+03.01
+celda vacía
+Schiphol Airport
+salida
+03.05
+03.05
+46
+Leiden Centraal
+llegada
+03.21
+03.19
+celda vacía
+Leiden Centraal
+salida
+03.23
+03.22
+39
+225	 NS, Geplande en uitgevoerde dienstregeling 1409.xlsx.
+226	 Recuento a partir de imágenes de cámara.
 
 ## Página 135
+
 
 Estación
 Llegada / Salida
@@ -3297,6 +3351,7 @@ Para la circulación de trenes y la gestión de la infraestructura ferroviaria, 
 
 ## Página 152
 
+
 Bajo la Ley de Ferrocarriles se incluyen varios decretos y reglamentos. Así, el Decreto sobre el tráfico ferroviario (*Besluit spoorverkeer*) y el Reglamento sobre el tráfico ferroviario (*Regeling spoorverkeer*) describen, entre otros aspectos, los requisitos para la circulación de trenes.258,259 La forma en que ProRail debe distribuir la capacidad está descrita en el Decreto sobre la distribución de capacidad de la infraestructura ferroviaria principal (*Besluit capaciteitsverdeling hoofdspoorweginfrastructuur*).260
 En la Ley de Condiciones de Trabajo (*Arbeidsomstandighedenwet*) y en el Decreto de Condiciones de Trabajo (*Arbeidsomstandighedenbesluit*) figuran normas que tanto el empleador como el trabajador deben cumplir para gestionar los riesgos laborales.261,262
 La Ley de Jornada Laboral (*Arbeidstijdenwet*) establece cuántas horas puede trabajar un empleado al día y a la semana, y cuándo tiene derecho a pausas o tiempo de descanso. Estas normas existen con miras a la salud, la seguridad y el bienestar, pero también para poder combinar el trabajo, la vida privada y las tareas de cuidado. En el Decreto de Jornada Laboral (*Arbeidstijdenbesluit*) figuran excepciones y complementos a la Ley de Jornada Laboral. Además de las excepciones generales, existen normas adicionales para algunos sectores laborales.263,264
@@ -3655,6 +3710,7 @@ Tras el accidente ferroviario en Voorschoten, DB Cargo no ve necesidad de revisa
 299	 DB Cargo, RI&E Line Haul (circulación de trenes), 15 de enero de 2019.
 
 ## Página 162
+
 
 D.9.5	
 NS

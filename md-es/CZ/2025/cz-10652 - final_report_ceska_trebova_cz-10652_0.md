@@ -10,13 +10,14 @@ chars: 121214
 ratio_longitud: 1.27
 tokens_in: 66294
 tokens_out: 48870
-verificacion: revisar
-notas_cifras: ["bloque 1: original bilingüe: se compara contra el idioma principal (EN)", "bloque 3: cifras cortas: 1/290", "bloque 5: cifras cortas: 1/97", "bloque 6: original bilingüe: se compara contra el idioma principal (CS)", "bloque 9: original bilingüe: se compara contra el idioma principal (EN)"]
-avisos: ["bloque 6: ratio 1.75", "bloque 9: ratio 1.76"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 3: original bilingüe: se compara contra el idioma principal (PL)", "página 6: original bilingüe: se compara contra el idioma principal (CS)", "página 7: original bilingüe: se compara contra el idioma principal (CS)", "página 11: original bilingüe: se compara contra el idioma principal (CS)", "página 13: cifras cortas: 1/19", "página 16: original bilingüe: se compara contra el idioma principal (PT)"]
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -41,14 +42,14 @@ IČ: 75009561
 mail@di.gov.cz
 tel.: +420 736 521 003
 
-
 ## Página 2
+
 
 El presente informe final es público y todos los hechos en él recogidos están respaldados por el expediente de investigación. 
 La Inspección Ferroviaria no se ocupa, en el marco de la investigación, de la responsabilidad penal o administrativa, y por ello no puede deducirse de este informe final. La investigación se llevó a cabo de forma independiente con el objetivo de determinar las causas y circunstancias del suceso ferroviario.
 
-
 ## Página 3
+
 
 ## 1 RESUMEN
 Fuente: ČD Cargo, a. s.
@@ -76,15 +77,15 @@ definición incorrecta del lugar de la avería por parte de empleados de la enti
 •
 no detención del tren Nex 48336 por parte del maquinista tras detectar la pérdida de alimentación de la catenaria.
 
-
 ## Página 4
+
 
 La Inspección Ferroviaria no detectó factores contribuyentes.
 La Inspección Ferroviaria no detectó causas sistémicas.
 La Inspección Ferroviaria no emitió recomendaciones de seguridad.
 
-
 ## Página 5
+
 
 ## SUMMARY
 22nd January 2025, 15:25 (14:25 GMT).
@@ -121,8 +122,8 @@ Systemic factor:
 none.
 Recommendation: not issued.
 
-
 ## Página 6
+
 
 ## Índice
 1 RESUMEN.......................................................................................................................... 3
@@ -166,6 +167,7 @@ SUMMARY.........................................................................
 
 ## Página 7
 
+
 4.2.2 Factores o consecuencias derivados de la instalación y puesta en servicio de vehículos ferroviarios, infraestructura ferroviaria o instalaciones técnicas.....................................................................40
 4.2.3 Factores o consecuencias relacionados con los fabricantes de vehículos ferroviarios u otros proveedores de productos ferroviarios...........................................................................40
 4.2.4 Factores o consecuencias derivados del mantenimiento y modificación de vehículos ferroviarios o instalaciones técnicas..................................................................................................40
@@ -194,8 +196,8 @@ SUMMARY.........................................................................
 6 RECOMENDACIONES DE SEGURIDAD...................................................................................46
 ANEXOS............................................................................................................................ 47
 
-
 ## Página 8
+
 
 ### Lista de siglas y símbolos utilizados
 ARR
@@ -271,8 +273,8 @@ informe final de resultados de la investigación del suceso extraordinario
 žst.
 estación ferroviaria
 
-
 ## Página 9
+
 
 ### Lista de siglas de la legislación, normas y normativa interna utilizadas
 ley núm. 266/1994 Sb.
@@ -292,8 +294,8 @@ directiva interna del transportista ČDC "Equipos de locomotora, PTs-10-B-2011 S
 Reglamento de explotación
 Reglamento de explotación del Electrodespacho de la Dirección Regional Hradec Králové, en la redacción vigente en el momento de la ocurrencia del SU
 
-
 ## Página 10
+
 
 ## 2 LA INVESTIGACIÓN Y SU CONTEXTO
 ### 2.1 Decisión de iniciar la investigación
@@ -325,8 +327,8 @@ viaje de verificación en HDV para determinar las condiciones de visibilidad;
 •
 análisis de la documentación solicitada al gestor de infraestructura, al transportista y a la PČR (actas de inspección, registros de la inspección colegiada del DV, declaraciones de personas de la PČR);
 
-
 ## Página 11
+
 
 •
 análisis de los datos registrados por el registrador de velocidad del vehículo ferroviario implicado;
@@ -359,8 +361,8 @@ Coordenadas GPS:
 ### 3.1.3 Descripción del lugar del suceso
 La estación ferroviaria Česká Třebová y su parte correspondiente al grupo de vías de entrada se encuentran en una línea de categoría nacional, en el lugar del SU en la confluencia de las vías de trazado desde la est. Třebovice v Čechách, desde el desvío Zádulka y la salida de la vía de entrada núm. 100 desde el desvío Parník. Estas vías sirven para la entrada, especialmente de trenes de mercancías, al nudo Česká Třebová para las maniobras de clasificación.
 
-
 ## Página 12
+
 
 ### Lugar del SU
 Fig. núm. 1: Esquema del lugar de ocurrencia del SU
@@ -385,6 +387,7 @@ tras la detención del tren, la consola L1 permanecía colgada del TP 16V por el
 la consola L3 quedó unida a la consola L2 y su otro extremo descansaba sobre el techo del HDV;
 
 ## Página 13
+
 
 •
 la consola del montante TP 15V yacía sobre el hilo de contacto y su extremo entre el segundo y el tercero (desde el frente del tren) OA en la plataforma superior del coche de dos plantas;
@@ -427,8 +430,8 @@ Datos geográficos:
 terreno accidentado, lugar del MU en un corte inmediatamente después del paso superior de las vías de trayecto del tramo apeadero Zádulka – Česká Třebová grupo de pasajeros.
 En el lugar del MU se estaban realizando trabajos de CPS fuera de la vía, relacionados con la modernización del nudo Česká Třebová, consistentes en la tala de árboles. Por parte de CPS no se planteó ninguna solicitud de limitación de la circulación. La circulación en el lugar del MU y su entorno se desarrollaba en régimen normal.
 
-
 ## Página 14
+
 
 ### 3.1.4 Fallecidos, heridos y daños materiales
 En el MU no se produjeron daños a la salud en los empleados del gestor de la vía, del transportista, de personas en relación contractual, ni en los pasajeros ni en terceras personas.
@@ -472,8 +475,8 @@ trabajadores de CPS – de la empresa Urban Forestry s.r.o. (en adelante trabaja
 Sujetos participantes:
 El propietario de la vía ferroviaria, categoría de ámbito nacional Odb. Zádulka – Česká Třebová vj. sk., era la República Checa. El derecho a administrar los bienes del Estado lo ejercía SŽ, con domicilio en Dlážděná 1003/7, Praha 1, PSČ 110 00, que era asimismo el gestor de esta vía.
 
-
 ## Página 15
+
 
 El transportista del tren Nex 48336 era ČDC, con domicilio en Jankovcova 1569/2c, Praha 7, PSČ 170 00.
 El transporte ferroviario se prestaba en virtud de un contrato celebrado entre el gestor de la vía SŽ y el transportista ČDC con efectos desde el 26. 8. 2024.
@@ -507,8 +510,8 @@ el tren estaba compuesto exclusivamente por coches de dos plantas para el transp
 el titular del HDV era ČDC, el titular de los coches era la empresa BLG Logistics Group AG & CO. KG.
 El HDV 363.059-7 contaba con un certificado de idoneidad válido con número de registro PZ5918/98/-V.03, expedido por el DÚ el 14. 6. 2018. La última inspección técnica se realizó el 10. 1. 2025 con vigencia hasta el 10. 7. 2025, con el resultado de que «el vehículo cumple las condiciones de explotación en las vías y está conforme con la TP de la serie ŽKV indicada.».
 
-
 ## Página 16
+
 
 El HDV 363.059-7 estaba, en el momento de la aparición del MU, equipado con un dispositivo de registro automático de datos – tipo CONJUNTO VELOCIOMÉTRICO ELECTRÓNICO Teloc, n.º 21080483.
 De los datos registrados se desprende:
@@ -578,8 +581,8 @@ registrada la señal para bajar el colector n.º 1 a una velocidad de 31,87 km.h
 15:25:15 h
 126 m antes del lugar de aparición del MU;
 
-
 ## Página 17
+
 
 •
 registrada la aplicación del freno de emergencia a una velocidad de 34,95 km.h-1, 61 m antes
@@ -610,6 +613,7 @@ en el periodo siguiente el electrodespachador delimitó el lugar de las averías
 
 ## Página 18
 
+
 •
 la operación adicional de los desacopladores manuales fue realizada por empleados de OTV Česká Třebová en el ámbito del grupo de entrada a las 16:06:24 h.
 Fig. n.º 2: Recorte con el suministro del grupo de entrada representado. Los círculos negros sólidos son desacopladores de sección controlados manualmente que están conectados, los círculos negros con borde blanco son desacopladores de sección controlados a distancia. Los círculos blancos son desacopladores de sección controlados manualmente que están desconectados.
@@ -625,8 +629,8 @@ maquinista del tren Nex 48336
 ◦en la est. Kúty relevó al maquinista en el «eje» en el tren 48336;
 ◦partió de la est. Kúty con el tren a las 12:30 h;
 
-
 ## Página 19
+
 
 ◦el transcurso fue sin problemas durante todo el trayecto;
 ◦el tren estaba encaminado a través del grupo de entrada de la est. Česká Třebová;
@@ -657,8 +661,8 @@ maquinista del tren Nex 48336
 ◦no se estaba produciendo ninguna llamada telefónica antes de la aparición de la MU;
 ◦tiene conocimiento de la locomotora de la serie 363 y el puesto del maquinista estaba sin defectos;
 
-
 ## Página 20
+
 
 ◦tiene conocimiento del tramo de línea por el que circulaba y la última vez que lo recorrió antes de la MU fue en diciembre.
 •
@@ -686,8 +690,8 @@ jefe de estación norte de la est. Česká Třebová
 ◦durante todo el tiempo estuvo convencido de que la empresa trabajaba cerca de la vía 100 en el lugar que le habían indicado en la primera llamada, y que por tanto se trataba de la línea de tracción en la vía 100;
 ◦a continuación actuó según el horario de comunicaciones;
 
-
 ## Página 21
+
 
 ◦unos 30 min después le llamó el jefe de vía diciéndole que el lugar no se encontraba en la vía 100, sino en la estación de entrada en la vía de entrada desde la estación de enlace Zádulka, y que ya se había producido la entrada del tren en la línea de tracción dañada;
 ◦con base en esta información modificó la información sobre la MU según el horario de comunicaciones.
@@ -714,8 +718,8 @@ jefe de estación norte de la est. Česká Třebová
 ◦ya en la primera llamada la CPS quería cruzar la vía n.º 100, y también le comunicó que iba a realizar una poda de vegetación junto a la vía n.º 100;
 ◦el lugar de la caída del árbol sobre la línea de tracción estaba a 6 km de su puesto de trabajo en el enclavamiento 019;
 
-
 ## Página 22
+
 
 ◦la llamada telefónica con la CPS, en la que comunicaba la caída de un árbol sobre la catenaria, no estaba grabada;
 ◦el primer aviso sobre la MU lo registró solo tras la entrada del tren contra el árbol (aparición de la MU), la información sobre el árbol caído no tenía que anotarla en ningún sitio y solo debía transmitir la información, lo que hizo;
@@ -739,6 +743,7 @@ trabajador de la CPS
 ◦esperaba que el jefe de estación le preguntara por las circunstancias o el alcance de los daños, pero solo dijo que enviaba a alguien allí y que debía permanecer en el lugar;
 
 ## Página 23
+
 
 ◦ a las 15:13 h llamó el jefe de estación diciendo que la situación se estaba resolviendo y que en 10 minutos estarían allí los «empleados de estación»;
 ◦ tras 16 min llegó un empleado de SŽ, pero desafortunadamente también un tren, que entró en el catenaria colgada y el resto del árbol talado – 42 min después de la notificación;
@@ -769,8 +774,8 @@ trabajador de CPS
   – Registro oficial complementario de la declaración prestada ante la Policía Nacional (PČR):
 ◦ tenía guardado el número del jefe de estación, por si hacía falta resolver algo con urgencia;
 
-
 ## Página 24
+
 
 ◦ a las 12:25 h contactó con el jefe de estación para saber si era posible moverse libremente por la vía n.º 100. Necesitó unos 15 min.;
 ◦ incluso antes de llamar al jefe de estación a las 14:46 h, llamó al jefe de vía, pero este no le cogió y no devolvió la llamada (nota DI: estaba de vacaciones);
@@ -794,8 +799,8 @@ electrodespachador
 ◦ durante todo el tiempo, desde la detección del primer corte hasta la entrada del tren en el punto dañado, trabajó prioritariamente en la delimitación de la avería;
 ◦ durante todo el tiempo trabajaron con información engañosa, según la cual el lugar de la avería estaba en otro sitio distinto al real.
 
-
 ## Página 25
+
 
 Resumen de las declaraciones prestadas por otros testigos:
 •
@@ -829,63 +834,62 @@ Transcripción de la comunicación entre los componentes de SŽ en la notificaci
 | DŽIN | Sí. ¿Pero no lo arrancó? Solo eso . ... |
 | Jefe de estación norte | No, no, no lo arrancó, solo se les apoyó, sí, ellos se apoyaron como en el poste, pero las ramas están en la catenaria , , , , , , . |
 
-
 ## Página 26
 
-| DŽIN | Sí, sí, sí, bien. ¿Y cuánto surgió de eso? , , . . |
-| Jefe de estación norte | 14:47 Pues nada, gracias . , . |
-| DŽIN | Gracias . |
-Tab. n.º 2: notificación de la avería de la TV por el jefe de estación norte a la DŽIN
-Inicio de la conversación (tras corrección): 22. 1. 2025, 14:51:00 h                                                                  Duración de la grabación: 110 s
+| DŽIN | Sí sí sí, bien. ¿Y qué es lo que ha pasado? , , . . |
+| Jefe de estación norte | 14:47 Sí, gracias. , . |
+| DŽIN | Gracias. |
+Tab. n.º 2: notificación de avería del TV por el jefe de estación norte DŽIN
+Inicio de la conversación (tras la corrección): 22. 1. 2025, 14:51:00 h                                                                  Duración de la grabación: 110 s
 Contenido de la transcripción: grabación completa
 jefe de estación norte
 Česká Třebová.
 ED
-Sí, te saludo, electrodespacho Pardubice. Por favor, ahora he hablado con un colega, oye, ¿de dónde tienes la información sobre ese árbol?
+Sí, te saludo, despacho eléctrico de Pardubice. Por favor, ahora mismo he hablado con un compañero, oye, ¿dónde tienes la información sobre ese árbol?
 jefe de estación norte
-Me lo notificó el señor …, es la empresa que está talando ahí.
+Me lo comunicó el señor …, es la empresa que está talando ahí.
 ED
-Pero ¿no sabes en qué punto están?
+¿Pero no sabes en qué punto están?
 Jefe de estación norte
-Sí, es el poste 967 en el km 1,1, está al lado de la vía n.º 100.
+Sí, es el poste 967 en el km 1,1, está al lado de la vía 100.
 ED
 ¿Y la parte A, B, C?
 Jefe de estación norte
-¿Nosotros tenemos la centena en dos partes?
+¿Nosotros tenemos la 100 en dos tramos?
 ED
-Pues nosotros la tenemos aquí como A, B, ¿verdad? Es como desde la cuatrocientos sesenta. Oye, te voy a coger en el otro teléfono y me das entonces alguna información, o sea, el mástil y todo, ¿sí?
+Bueno, nosotros aquí lo tenemos como A, B, ¿verdad? Es como desde la cuatrocientos sesenta. Oye, te voy a coger en el otro teléfono y me das entonces alguna información, o sea, el poste y todo eso, ¿vale?
 Jefe de estación norte
 Sí, sí.
 ED
-Sí, porque nosotros, si lo partimos aquí en la centena, eso desemboca después en la entrada, igual nos cae. Entonces, igual, si es desde la cuatrocientos sesenta hasta la entrada, o si es como la vía n.º 100?
+Sí, porque nosotros, si lo partimos aquí en la 100, eso desemboca después en la entrada, entonces igual nos cae. Entonces igual, si es desde la cuatrocientos sesenta hasta la entrada, o si es como si fuera la 100 de vía general?
 Jefe de estación norte
-La vía n.º 100 debería ser.
+Debería ser la 100 de vía general.
 ED
-Pues porque es raro que ni aguante la entrada...
+Bueno, porque es raro que ni siquiera sostenga la entrada...
 Jefe de estación norte
-Ajá... Bueno.
+Ah... No.
 ED
-Bien, bien, oye. Ya ha enviado el colega a los chicos. Por favor, te paso a un colega y él anotará el mástil y los kilómetros y todo.
+Bien, bien, oye. Ya ha enviado el compañero a los chicos. Por favor, te paso al compañero y él anota el poste y los kilómetros y todo.
 Jefe de estación norte
 Sí, bien.
 ED 2
-Pues vale, ¿entonces podemos con el kilómetro?
+Vale, entonces ¿podemos con el kilómetro?
 Jefe de estación norte
-Kilómetro 1,1 y el mástil es el 967.
+Kilómetro 1,1 y el poste es el 967.
 ED 2
-…mástil 967. Bien. Pues nada, vale, pues veremos cómo lo arreglamos. Bien, hasta luego.
+…poste 967. Vale. Bueno, pues nada, ya veremos cómo lo arreglamos. Vale, hasta luego.
 Jefe de estación norte
-Dicen que está como apoyado en un poste, pero las ramas están en la catenaria.
+Dicen que está apoyado de alguna manera en un poste, pero las ramas están en la catenaria.
 ED 2
-Claro, pero necesitamos averiguar dónde, porque en Třebová no me funciona, desde el alimentador no se puede activar nada de la entrada.
+Claro, pero necesitamos averiguar dónde, porque en Třebová no me funciona nada desde el alimentador, no puedo conectar la entrada.
 Jefe de estación norte
 Sí, sí, sí, sí.
 ED 2
-Bien, pues nada, hasta luego.
-Tab. n.º 3: El electrodespachador llama al jefe de estación norte para completar información y entrega el teléfono al segundo electrodespachador
-
+Vale, pues nada, hasta luego.
+Tab. n.º 3: El despachador eléctrico llama al jefe de estación norte para completar la información y le pasa el teléfono al segundo despachador eléctrico
 
 ## Página 27
+
 
 Inicio de la conversación (tras corrección): 22. 1. 2025, 14:53:04 h                                                                    Duración de la grabación: 84 s
 Contenido de la transcripción: grabación completa
@@ -939,6 +943,7 @@ Tab. n.º 4: Notificación de la avería de la TV por el jefe de estación norte
 
 ## Página 28
 
+
 | Jefe de estación norte | 967 . |
 | CDP Praga | 967 Oye, ninguna amenaza, nada de eso, nada cruzándose ahí. Ahora simplemente esperaremos aquí. , , , . , hasta que lleguen los de la línea. |
 | Jefe de estación norte | Sí. |
@@ -973,87 +978,50 @@ Tab. n.º 7: Consulta del maquinista MVTV sobre la situación respecto a la circ
 El 22. 1. 2025, el CPS realizaba la tala de árboles con motivo de la modernización que se iniciaba de la estación de 
 Česká Třebová. Los trabajos en sí se desarrollaban fuera de la vía, por lo que el CPS no fue registrado 
 en la aplicación para el CPS. Aproximadamente a las 11:30 h, un trabajador del CPS se puso por teléfono 
-en contacto con el jefe de estación de Česká 
-
+en contacto con el jefe de estación de Česká
 
 ## Página 29
 
-Třebová norte para decirle que necesitarían cruzar la vía y si era posible (nota DI: el jefe de estación 
-norte indica en las explicaciones presentadas una hora en torno a las 14:00 h, se trata claramente de un dato 
-horario incorrecto sin influencia en las circunstancias reales del SU). Tras acordarlo, se comprobó que 
-se trataba de la TK n.º 100, que sirve de entrada para los trenes de mercancías desde la estación de Parník (desde 
-Praga), transcurre a lo largo de toda la estación de Česká Třebová y está enlazada con el grupo de entrada de la estación de Česká 
-Třebová. Dado que la vía estaba libre, se permitió a los trabajadores del CPS cruzarla. Estos trabajaron 
-a continuación en la tala de vegetación entre la cabecera de la TK n.º 100 y la cabecera de la 4. TK desde la estación de Zádulka 
-en el grupo de entrada de la estación de Česká Třebová. 
-Durante la tala de un chopo (altura de unos 15 m), este cayó sobre la línea de 
-tracción por encima de la vía de entrada desde la estación de Zádulka y dañó las ménsulas TP n.º 
-15V y 16V. Sin embargo, la línea de tracción no fue derribada. Los trabajadores del CPS intentaron cortar 
-parte del árbol y retirarlo de la línea de tracción. 
-Dado que se produjeron chispas, se alejaron del lugar y a las 14:46 h informaron al jefe de estación 
-norte de la situación surgida. Durante la conversación, el jefe de estación preguntó por el lugar de origen de la excepcionalidad y se le 
-comunicó que se trataba del km 1,1, en el TP n.º 967 y «ahí, junto a esos 2 puentes». A partir del movimiento 
-anterior de los empleados del CPS y de la señalización kilométrica, el jefe de estación dedujo que 
-se trataba de la TK n.º 100. El número de TP comunicado se encuentra también en la vía n.º 100, 
-pero ya en la cabecera del grupo de entrada. Por lo tanto, 
-allí se detuvo la circulación y el jefe de estación actuó según el horario de avisos. 
-Al lugar fue enviado un empleado de SŽ. El jefe de estación de la estación de Zádulka ni el jefe de estación del grupo de entrada 
-fueron informados de la línea de tracción dañada. A las 15:25 h, en el momento en que el empleado de SŽ 
-llegó al lugar para la comprobación y el trabajador de OTV a los desconectores de accionamiento manual en la otra 
-parte del grupo de entrada, el tren Nex 48336, que circulaba desde la estación de 
-Zádulka, embistió el árbol caído, y así se produjo el SU.
-### 3.2.2 Secuencia de hechos desde la producción del suceso excepcional hasta la finalización de las acciones de los servicios de 
-rescate
+Třebová sever, indicando que necesitarían cruzar la vía y si era posible (nota DI: el jefe de estación norte indica en las explicaciones presentadas una hora en torno a las 14:00 h, se trata claramente de una indicación horaria incorrecta sin influencia en las circunstancias reales de la MU). Tras acordarlo, se comprobó que se trataba de la TK n.º 100, que sirve como vía de entrada para los trenes de mercancías desde la estación de enlace Parník (desde Praga), discurre a lo largo de toda la estación de Česká Třebová y está enlazada al grupo de entrada de la estación de Česká Třebová. Al estar la vía libre, se permitió a los trabajadores de la CPS cruzarla. Estos trabajaron entonces en la tala de vegetación entre el extremo de la TK n.º 100 y el extremo de la 4.ª TK desde la estación de enlace Zádulka en el grupo de entrada de la estación de Česká Třebová.
+Al talar un chopo (altura de unos 15 m) cayó sobre la línea de contacto aérea sobre la vía de entrada desde la estación de enlace Zádulka y dañó las ménsulas TP n.º 15V y 16V. Sin embargo, la línea de contacto aérea no fue arrancada. Los trabajadores de la CPS intentaron cortar parte del árbol y retirarlo de la línea de contacto aérea. Como se produjeron chispas, se alejaron del lugar y a las 14:46 h informaron al jefe de estación norte de la situación surgida. Durante la conversación, el jefe de estación preguntó por el lugar de origen de la incidencia y se le comunicó que se trataba del km 1,1, junto a la TP n.º 967 y «allí, junto a esos 2 puentes». A partir del movimiento anterior de los empleados de la CPS y de la señalización kilométrica, el jefe de estación dedujió que se trataba de la TK n.º 100. El número de TP comunicado se encuentra también en la vía n.º 100, pero ya en el extremo del grupo de entrada. Por ello, se detuvo allí la circulación y el jefe de estación actuó conforme al plan de notificación. Se envió al lugar a un empleado de SŽ. Ni el jefe de estación de la estación de enlace Zádulka ni el jefe de estación del grupo de entrada fueron informados del daño en la línea de contacto aérea. A las 15:25 h, en el momento en que el empleado de SŽ llegó al lugar para la comprobación y el trabajador de OTV a los desacopladores de mando manual en el otro lado del grupo de entrada, el tren Nex 48336, que circulaba desde la estación de enlace Zádulka, embistió el árbol caído, produciéndose así la MU.
+### 3.2.2 Secuencia de hechos desde el origen del incidente hasta la finalización de las acciones de los servicios de emergencia
 •
-15:26 h el maquinista del tren Nex 48336 informó de la producción del SU al jefe de estación del grupo de 
-entrada de la estación de Česká Třebová;
+15:26 h el maquinista del tren Nex 48336 informó del origen de la MU al jefe de estación del grupo de entrada de la estación de Česká Třebová;
 •
-15:50 h el jefe de despacho del CDP Praga informó del SU a la O18 de SŽ;
+15:50 h el jefe de despacho de CDP Praga informó de la MU a O18 SŽ;
 •
-16:04 h la persona autorizada de la O18 de SŽ informó de la producción del SU al COP DI;
+16:04 h la persona autorizada de O18 SŽ informó del origen de la MU a COP DI;
 •
-16:16 h la persona autorizada de la O18 de SŽ añadió más información al COP DI;
+16:16 h la persona autorizada de O18 SŽ añadió información adicional a COP DI;
 •
-16:17 h el inspector en el COP DI concedió el permiso para la liberación de la vía;
+16:17 h el inspector en COP DI concedió la autorización para la liberación de la vía;
 •
-23:08 h restablecimiento completo de la circulación.
-El Plan de IZS fue activado en función del carácter del SU. El Plan de IZS fue activado a las 15:30 h, es decir, 5 min 
-tras la producción del SU, por el jefe de estación norte de la estación de Česká Třebová.
-En el lugar del SU intervinieron los siguientes cuerpos del IZS:
+23:08 h restablecimiento total de la circulación.
+El Plan IZS fue activado en función del carácter de la MU. El Plan IZS fue activado a las 15:30 h, es decir, 5 min después del origen de la MU, por el jefe de estación norte de la estación de Česká Třebová.
+En el lugar de la MU intervinieron los siguientes servicios del IZS:
 •
-Policía de la República Checa, Departamento Territorial de Ústí nad Orlicí;
+Policía ČR, Departamento Territorial de Ústí nad Orlicí;
 •
-Cuerpo de Bomberos de Rescate de SŽ Česká Třebová.
-
+Cuerpo de Bomberos y Salvamento de SŽ Česká Třebová.
 
 ## Página 30
 
 ## 4 ANÁLISIS DEL SUCESO
-### 4.1 Funciones y obligaciones
-### 4.1.1 Transportistas y gestores de la infraestructura
-El gestor de la infraestructura tiene, entre otras, la obligación de explotar la infraestructura para las necesidades del transporte ferroviario fluido y seguro de acuerdo con las normas de explotación de la infraestructura y la autorización administrativa. Tras la notificación de la excepcionalidad (caída de un árbol sobre la LT) al jefe de estación norte, este comenzó a actuar inmediatamente. 
-Notificó la excepcionalidad al correspondiente centro de despacho eléctrico (ED) en la estación de Pardubice hl. n. y continuó según el horario de avisos – aviso al CDP Praga y al despachante del transporte ferroviario (DŽIN). El jefe de estación detuvo la circulación en la TK n.º 100, ya que los trabajadores del CPS que talaban árboles se movían por esta vía. También el km 1,1 comunicado se encuentra en la TK n.º 100, aunque esta señalización kilométrica aparece en el nudo de Česká Třebová en varios lugares:
+### 4.1 Tareas y obligaciones
+### 4.1.1 Ferroviarios y gestores de infraestructura
+El gestor de la infraestructura tiene, entre otras, la obligación de explotar la infraestructura para las necesidades del tráfico ferroviario fluido y seguro conforme a las reglas de explotación de la infraestructura y a la autorización administrativa. Tras comunicar la anomalía (caída de un árbol sobre la TV) al jefe de estación norte, este comenzó a actuar inmediatamente. Comunicó la anomalía al despacho eléctrico correspondiente (ED) en la est. Pardubice hl. n. y continuó conforme al plan de comunicaciones – notificación al CDP Praga y al despachante de tráfico ferroviario (DŽIN). El jefe de estación detuvo la circulación en la TK n.º 100, ya que los trabajadores de la CPS que talaban árboles se movían por el entorno de dicha vía. Asimismo, el km 1,1 comunicado se encuentra en la TK n.º 100, aunque esta kilometración aparece en el nudo Česká Třebová en varios lugares:
 •
-cerca del lugar del SU, donde se trata de la posición kilométrica de la 4. TK al grupo de entrada desde Třebovice v Čechách (línea 309C y distrito del jefe de estación del grupo de entrada);
+cerca del lugar del SU, donde se trata de la posición kilométrica de la 4. TK del grupo de entrada desde Třebovice v Čechách (líneas 309C y distrito del jefe de estación del grupo de entrada);
 •
 en la TK n.º 100, a unos 740 m en línea recta del lugar del SU (posición km en la TK n.º 100 y distrito del jefe de estación norte);
 •
-entre las vías en la coincidencia de las vías n.º 100 y n.º 200, a unos 2 880 m en línea recta del lugar del SU (posición km en la vía n.º 200 y distrito del jefe de estación norte);
+entre las vías en el tramo compartido de las vías n.º 100 y n.º 200, a unos 2 880 m en línea recta del lugar del SU (posición km en la vía n.º 200 y distrito del jefe de estación norte);
 •
-en la cabecera de la 2. TK a la estación de pasajeros desde Třebovice v Čechách, a unos 
-3 120 m en línea recta del lugar del SU (posición km en la línea 309A Přerov – Česká Třebová y distrito 
-del jefe de estación panel Jih).
-Sin embargo, el lugar real de la caída del árbol sobre la LT se encontraba en el distrito del grupo de entrada 
-de la estación de Česká Třebová y la posición kilométrica del poste de LT comunicado está aproximadamente en el km 0,2 en 
-la 100. TK. En la llamada aclaradora entre el despachante eléctrico SEE Pardubice y el jefe de estación 
-norte se escuchó la afirmación de que «no funciona el grupo de entrada». De esta información, sin embargo, 
-no se dedujo de forma inequívoca que allí debiera estar detenida la circulación, ya que el grupo de entrada 
-contiene varias secciones individuales de alimentación de la LT con conexión a toda la vía n.º 100 
-(dividida según la alimentación en 2 secciones) a través de un desconector de accionamiento remoto n.º 460. No se escuchó 
-ninguna otra información sobre el fallo de la alimentación de la LT durante todo el tiempo hasta la producción del SU.
-
+en la cabecera de la 2. TK de la estación de viajeros desde Třebovice v Čechách, a unos 3 120 m en línea recta del lugar del SU (posición km en la línea 309A Přerov – Česká Třebová y distrito del panel Sur del jefe de estación).
+Sin embargo, el lugar real de la caída del árbol sobre la TV se encontraba en el distrito del grupo de entrada de la est. Česká Třebová y la posición kilométrica del poste de TV comunicado está aproximadamente en el km 0,2 de la 100. TK. En la llamada telefónica de precisión entre el despachante eléctrico SEE Pardubice y el jefe de estación norte se escuchó la afirmación de que «el grupo de entrada no funciona». De esta información, sin embargo, no se dedujo de manera inequívoca que debiera detenerse la circulación allí, ya que el grupo de entrada contiene varias secciones individuales de alimentación de la TV con conexión a toda la vía n.º 100 (dividida según la alimentación en 2 secciones) mediante el seccionador remoto n.º 460. No se escuchó ninguna otra información sobre el fallo de la alimentación de la TV durante todo el tiempo hasta la aparición del SU.
 
 ## Página 31
+
 
 Fig. n.º 3: Esquema de las posiciones cercanas al km 1,1 junto al grupo de entrada           Fuente: www.mapy.com, edición DI 
 Según la declaración del ED con sede en la estación de Pardubice hl. n., la localización de la avería de la LT se realizó 
@@ -1077,8 +1045,8 @@ estación de entrada ÚO466, ÚO467, ÚO477, ÚO465, ÚO465x y en Česká Třebo
 La ubicación y la conexión de los desconectores de sección a la LT y su estado conectado = relleno negro, 
 desconectado = relleno blanco se muestra en los anexos.
 
-
 ## Página 32
+
 
 El ED recibió la información de que el OTV esperaba con el equipo de montaje para la reparación de la LT en el grupo de salida 
 de Česká Třebová y, tras acordarlo con el jefe de cuadrilla del OTV, se envió a un electrotécnico 
@@ -1128,48 +1096,48 @@ Cabe señalar que en la TK n.º 100 en el km 1,1 no se encuentra ninguna otra v�
 
 ## Página 33
 
-a el lugar se encuentra en una zona no arbolada. Los trabajadores de la CPS también podrían haber intentado precisar el lugar y proporcionar una mejor descripción en la notificación inicial y transmitir esta información de inmediato. Asimismo, los trabajadores de la CPS no tenían conocimiento de la topografía de toda la intersección. Sin embargo, debido a que SŽ realizaba las llamadas en un teléfono no grabado, no fue posible averiguar qué información se mencionó en las conversaciones. El contacto del jefe de estación norte hacia el teléfono no grabado fue facilitado a los trabajadores de la CPS por el subcontratista de toda la obra.
-Poco antes de la aparición del accidente ferroviario llegó al lugar un trabajador de la gestión de vías como sustituto del jefe de vías (este estaba de vacaciones). El lugar de llegada a la cabecera en las inmediaciones del lugar del accidente ferroviario se deduce de la lógica de accesibilidad por carreteras, ya que el supuesto lugar de caída del árbol se encuentra en campos fuera de las carreteras. Sin embargo, de la documentación no quedó claro de quién y cómo obtuvo la información.
-Dado que el jefe de estación de la sección Zádulka y los grupos de entrada de la estación Česká Třebová aún no habían sido informados sobre el alcance de la avería de la línea de contacto, la colocación de las vías de circulación y la habilitación de la circulación del tren Nex 48336 no supuso ninguna infracción por su parte; estaban realizando correctamente el servicio de tráfico y no preveían una avería de la línea de contacto.
-La propia caída del árbol y el daño a la línea de contacto no constituyen un accidente ferroviario desde la perspectiva de la Ley n.º 266/1994 Sb., sino únicamente una incidencia. La situación se convirtió en accidente ferroviario en el momento de la colisión del tren Nex 48336 con el obstáculo formado por el árbol caído sobre la línea de contacto y la línea de contacto/los soportes de los soportes de tracción colgados. Desde la perspectiva del gestor de la infraestructura, se tomaron y aceptaron medidas para localizar el lugar de la avería y la incidencia fue notificada según el horario de notificación.
+a el lugar se encuentra en una zona sin bosque. Los trabajadores de la CPS también podrían haber intentado precisar el lugar y proporcionar una mejor descripción en la notificación inicial, y transmitir de inmediato esta información. Asimismo, los trabajadores de la CPS no tenían conocimiento de la topografía de toda la estación. Sin embargo, debido a que SŽ mantenía las conversaciones en un teléfono no grabado, no fue posible averiguar qué información se mencionó en las conversaciones. El contacto del jefe de estación norte hacia el teléfono no grabado fue facilitado a los trabajadores de la CPS por el subcontratista de toda la obra.
+Poco antes de la aparición del MU, llegó al lugar un trabajador de la gestión de vías en calidad de sustituto del jefe de vías (este estaba de vacaciones). El lugar de llegada a la cabecera en las cercanías del lugar del MU se deduce de la lógica de accesibilidad por carreteras, ya que el supuesto lugar de caída del árbol se encuentra en campos fuera de las carreteras. Sin embargo, de la documentación no quedó claro de quién y cómo recibió la información.
+Dado que el jefe de estación de servicio Zádulka y el grupo de entrada de la estación Česká Třebová aún no habían sido informados sobre el alcance de la avería de la TV, el establecimiento de las rutas de tren y la habilitación de la circulación del tren Nex 48336 no supuso por su parte ninguna infracción, cumplían correctamente el servicio de tráfico y no preveían una avería de la TV.
+La propia caída del árbol y el daño a la TV no constituyen un MU desde la perspectiva de la ley n.º 266/1994 Sb., sino únicamente una incidencia. La situación se convirtió en un MU en el momento de la colisión del tren Nex 48336 con el obstáculo formado por el árbol caído sobre la TV y la TV/consolas de los soportes de tracción colgadas. Desde la perspectiva del gestor de la vía, se tomaron y aceptaron medidas para localizar el lugar de la avería y la incidencia fue notificada según el calendario de notificaciones.
 La localización de la avería y del lugar de caída del árbol por parte de SŽ se resumió de la siguiente manera:
 •
 14:45:07 h
-caída del árbol sobre la línea de contacto, actuación de las protecciones y corte del suministro a la línea de contacto;
+caída del árbol sobre la TV, actuación de las protecciones y corte del suministro a la TV;
 •
 14:46:00 h
-notificación de la caída del árbol sobre la línea de contacto al jefe de estación norte;
+notificación de la caída del árbol sobre la TV al jefe de estación norte;
 •
 14:48:32 h
-notificación de la caída del árbol sobre la línea de contacto por el jefe de estación norte al ED OŘ;
+notificación de la caída del árbol sobre la TV por el jefe de estación norte a ED OŘ;
 •
 14:49:30 h
-notificación de la caída del árbol por el jefe de estación norte al DŽIN OŘ;
+notificación de la caída del árbol por el jefe de estación norte a DŽIN OŘ;
 •
 14:51:00 h
 el despachador eléctrico llamó al jefe de estación norte para obtener información complementaria;
 •
 14:53:03 h
-el jefe de estación norte notificó la caída del árbol sobre la línea de contacto al CDP Praga;
+el jefe de estación norte notificó la caída del árbol sobre la TV a CDP Praga;
 •
 14:59:05 h
-el CDP Praga contactó con el jefe de estación norte para obtener información complementaria;
+CDP Praga contactó con el jefe de estación norte para obtener información complementaria;
 •
 15:09:13 h
-el CDP Praga recibió información del jefe de estación norte de que el OTV había salido con el MVTV;
+CDP Praga recibió información del jefe de estación norte de que OTV había salido con MVTV;
 •
 15:21:05 h
-el maquinista del MVTV preguntó por radio al jefe de estación, al jefe de estación central, cuándo se establecería la vía para el grupo de entrada;
+el maquinista de MVTV preguntó por radio al jefe de estación hacia el jefe de estación central cuándo se establecería la ruta hacia el grupo de entrada;
 •
 15:25:00 h
 el sustituto del jefe de vías llegó al lugar de caída del árbol;
 •
 15:25:28 h
-el trabajador del OTV enviado en automóvil (debido al retraso del MVTV) a los desconectores manuales del grupo de entrada llegó al lugar de la incidencia (junto al panel de maniobras del grupo de entrada), el trabajador de la gestión de vías de SŽ llegó al lugar de caída del árbol sobre la línea de contacto y simultáneamente se produjo la entrada del tren Nex 48336 en el árbol en la línea de contacto, dando lugar a la aparición del accidente ferroviario.
-### Debido a la complejidad de toda la situación, en los 40 min transcurridos desde la notificación de la caída del árbol sobre la línea de contacto hasta la aparición del accidente ferroviario no se localizó el lugar exacto de la caída del árbol sobre la línea de contacto y no se informó al jefe de estación
-
+el trabajador de OTV enviado en coche (debido al retraso de MVTV) a los desconectores manuales del grupo de entrada llegó al lugar de la incidencia (junto al enclavamiento del grupo de entrada), el trabajador de la gestión de vías de SŽ llegó al lugar de caída del árbol sobre la TV y simultáneamente se produjo la entrada del tren Nex 48336 en el árbol sobre la TV, dando lugar a la aparición del MU.
+### Debido a la complejidad de toda la situación, en los 40 minutos transcurridos desde la notificación de la caída del árbol sobre la TV hasta la aparición del MU no se localizó el lugar exacto de la caída del árbol sobre la TV y no se informó a los jefes de estación
 
 ## Página 34
+
 
 ### del grupo de entrada de la estación Česká Třebová ni a la sección Zádulka del corte de la línea de contacto sobre la cabecera y las cabeceras del grupo de entrada. El problema fue un error en la comunicación inicial con la determinación del lugar de caída del árbol sobre la línea de contacto.
 La no implantación de las condiciones de circulación DV en el tramo con la avería de la línea de contacto y la no impedimenta de la circulación del tren hacia el tramo con la avería de la línea de contacto son una de las causas inmediatas de la aparición del accidente ferroviario.
@@ -1186,8 +1154,8 @@ El transportista está, entre otras obligaciones, obligado a asegurar que el maq
 Fig. n.º 4: Vista desde el HDV desde el lugar desde el que era posible ver la línea de contacto dañada con el árbol
         Fuente: DI
 
-
 ## Página 35
+
 
 Tras el paso por la sección Zádulka hacia la vía de enlace n.º 4 (en adelante 4. TK) y tras recorrer el tramo con la necesidad de circular con el pantógrafo retraído, al elevar el pantógrafo del HDV no se detectó tensión de la línea de contacto. El maquinista debe, en caso de avería del suministro, de acuerdo con el artículo 381 apartado 3 de la norma interna de SŽ D1, detenerse y ponerse en contacto con el jefe de estación/despachador (artículo 381 apartado 4 de la norma interna de SŽ D1). Sin embargo, el maquinista, según su declaración, quería primero eliminar una posible avería en el HDV. Por ello, retrae el pantógrafo n.º 2 y eleva el pantógrafo n.º 1 (617 m hasta el lugar del accidente ferroviario y 99 s hasta el lugar de visibilidad del árbol en la línea de contacto). Ni en este momento el HDV detectó tensión en la línea de contacto. Dado que el HDV no mostraba ningún estado de avería, ya en este momento era evidente que se trataba de una avería del suministro de la línea de contacto, y el maquinista debió comenzar a actuar de acuerdo con la norma SŽ D1 e iniciar la frenada del tren. El maquinista retrae el pantógrafo n.º 1 y decide que la avería del suministro la resolverá solo tras llegar al grupo de entrada de la estación Česká Třebová (según su declaración para el DI).
 Tras el registro de la retracción del pantógrafo n.º 1 por el dispositivo de registro del HDV, restaban 126 m hasta el lugar de aparición del accidente ferroviario (7 s de marcha hasta avistar el obstáculo y 13 s hasta el lugar del accidente ferroviario). Para detenerse antes del lugar del accidente ferroviario habría sido necesario utilizar la frenada de emergencia (distancia de frenado de 96 m en el accidente ferroviario), lo que, sin embargo, la norma interna de SŽ D1 no exige (al constatar la pérdida de suministro de la línea de contacto). La no detención del tren por el maquinista tras la constatación de la pérdida de suministro del HDV es una de las causas inmediatas de la aparición del accidente ferroviario. Desde el lugar de elevación del pantógrafo (tras el paso previo por el lugar con señalización de circulación con pantógrafo retraído) hasta el lugar de aparición del accidente ferroviario la distancia era de 836 m y era suficiente para detener el tren desde la velocidad máxima permitida de 30 km.h-1 con frenada operativa normal incluso en un fuerte desnivel.
@@ -1209,8 +1177,8 @@ artículo 3.7.2 de la instrucción interna Pts-10 de ČDC:
 •
 al constatar la pérdida de tensión en la línea de contacto o
 
-
 ## Página 36
+
 
 •
 al dañarse el pantógrafo o
@@ -1233,6 +1201,7 @@ artículo 158 apartado 1 de la norma interna de SŽ D1:
 
 ## Página 37
 
+
 •
 art. 2.5.2.2 de la normativa interna Pts-10 de ČDC:
 "El maquinista está además obligado a:
@@ -1252,8 +1221,8 @@ En la investigación no se detectó infracción de las funciones y obligaciones 
 ### 4.1.5 Entidades notificadas, entidades designadas y entidades dedicadas a la evaluación de riesgos
 En la investigación no se detectó infracción de las funciones y obligaciones de las entidades notificadas, de las entidades designadas y de las entidades dedicadas a la evaluación de riesgos.
 
-
 ## Página 38
+
 
 ### 4.1.6 Entidades de certificación responsables del mantenimiento de los vehículos ferroviarios
 En la investigación no se detectó infracción de las funciones y obligaciones de las entidades de certificación responsables del mantenimiento de los vehículos ferroviarios.
@@ -1262,22 +1231,32 @@ Los trabajadores de CPS realizaron la tala de vegetación sobre la base de contr
 Durante el trabajo y la tala en la zona del grupo de entrada entre las vías de entrada desde la desviación Parník y la desviación Zádulka, se produjo la caída de un árbol talado (un chopo) a la TV. Según las marcas en el tronco, la cuña del árbol talado se cortó en dirección desde las vías hacia el espacio libre. Debido a una ráfaga de viento, la inclinación del árbol y, según la declaración de explicaciones, también a una técnica de corte incorrectamente elegida, el árbol cayó al lado opuesto, hacia la TK. Los trabajadores de CPS intentaron retirar el árbol caído en el lugar, pero debido a las chispas se alejaron del árbol hacia la vía de entrada desde la desviación Parník (el extremo de la TK núm. 100). Contactaron de inmediato con el jefe de estación norte, que inició los trámites necesarios relacionados con la caída del árbol a la TV. Sin embargo, debido al desconocimiento del terreno por parte de los trabajadores de CPS, no fue posible determinar la posición exacta donde se produjo la caída del árbol. Al jefe de estación norte le comunicaron la posición km 1,1 y el número de TP 967. Sin embargo, esta se encontraba justo junto a la vía núm. 100 (ya en el extremo del grupo de entrada), junto a la cual habían realizado la tala anteriormente. De este modo, indujeron a error al jefe de estación norte, ya que este creía que la caída del árbol se había producido en su zona.
 En la declaración de explicaciones prestada ante la PČR por un trabajador de CPS, se hizo constar que el jefe de estación no preguntó por una determinación más precisa del lugar, teniendo en cuenta también el hecho de que el km 1,1 se encuentra en la zona de la estación de Česká Třebová un total de 4 veces, de las cuales 2 en las proximidades del lugar de origen del MU (véase la fig. núm. 3 del punto 4.1.1 del ZZ). No obstante, el propio trabajador de CPS pudo haber facilitado una mejor descripción del lugar (número de vías circundantes, punto de referencia específico importante, etc.) incluso sin que el jefe de estación se lo preguntara. De las distintas declaraciones de explicaciones se desprende que la comunicación fue problemática, insuficiente y que ambas partes debieron haber realizado un mayor esfuerzo para determinar el lugar correcto (con las posibilidades técnicas actuales, por ejemplo, coordenadas GPS). Qué información se dijo exactamente en las llamadas telefónicas no se sabe, ya que las llamadas no fueron grabadas y toda la información procede de las declaraciones de explicaciones de las personas implicadas.
 
-
 ## Página 39
 
-Fig. núm. 5: Vista del árbol caído con el tocón y la cuña cortada visible en dirección desde la vía
-        Fuente: SŽ, con edición de DI
-En toda la cadena de acontecimientos desde el origen de la incidencia (la caída del árbol a la TV) hasta la aparición del MU, fue esencial el desconocimiento de la topografía del nudo de Česká Třebová, y ello especialmente por parte de los trabajadores de CPS de todos los contratistas y subcontratistas. SŽ, como una de las medidas, facilitó a todos los contratistas información sobre la topografía para todos los trabajadores de CPS participantes en la construcción y modernización del nudo de Česká Třebová (véase el punto 5.2 del ZZ).
-Los trabajadores de CPS, con su actuación, pusieron en peligro la seguridad de la explotación de la vía y del tráfico ferroviario, aunque no era necesario suponer que el árbol talado, incluso con el corte de la cuña correctamente realizado en dirección desde las vías hacia el espacio libre, caería a la TV (nota de DI: el corte de la cuña correctamente realizado no obstante no significa la técnica de corte globalmente correcta, según se desprende de la declaración de explicaciones del trabajador de CPS).
+Obra n.º 5: Vista del árbol caído con el tocón y la cuña cortada visible desde la vía
+        Fuente: SŽ, editado por DI
+En toda la cadena de acontecimientos desde el origen de la incidencia (caída del árbol en la vía de tren) hasta la aparición de la MU
+fue esencial el desconocimiento de la topografía del nudo de Česká Třebová, y ello especialmente por parte
+de los trabajadores de la CPS de todos los contratistas y subcontratistas. SŽ, como una de las medidas, facilitó
+a todos los contratistas información sobre la topografía para todos los trabajadores de la CPS que participan en la
+construcción y modernización del nudo de Česká Třebová (véase el punto 5.2 ZZ).
+Los trabajadores de la CPS, con su actuación, pusieron en peligro la seguridad de la explotación de la vía y del transporte ferroviario,
+aunque no era necesario suponer que el árbol que se talaba, a pesar de que la cuña se hubiera cortado correctamente
+en dirección desde las vías hacia el espacio libre, caería en la vía de tren (nota DI: un corte de cuña
+correctamente ejecutado no significa, sin embargo, una técnica de corte globalmente correcta derivada de la declaración
+de explicaciones del trabajador de la CPS).
 ### Hallazgos:
-En la investigación se detectó infracción de la normativa legal y de la normativa interna relativa a las funciones
-### y obligaciones de los trabajadores de CPS, en relación causal con el MU:
+En la investigación se constató la infracción de normas legales y normas internas relativas a las funciones
+### y obligaciones de los trabajadores de la CPS, en relación causal con la MU:
 •
-§ 22, apartado 4 de la Ley núm. 266/1994 Sb.:
-"Las personas que se encuentren en la zona de la vía están obligadas a velar por su seguridad, a cumplir las instrucciones del explotador de la vía para garantizar la seguridad de las personas y la seguridad de la explotación de la vía y del tráfico ferroviario, así como las instrucciones para garantizar la protección de la propiedad y el orden público, y están obligadas a abstenerse de todo lo que pueda perturbar o poner en peligro
-
+§ 22, apartado 4 de la Ley n.º 266/1994 Sb.:
+"Las personas que se encuentren en el ámbito de la vía están obligadas a velar por su seguridad, a atender a las
+instrucciones del explotador de la vía para garantizar la seguridad de las personas y la seguridad
+de la explotación de la vía y del transporte ferroviario, y a las instrucciones para garantizar la protección del patrimonio
+y del orden público, y están obligadas a abstenerse de todo aquello que pueda perturbar o poner en peligro
 
 ## Página 40
+
 
 la explotación de la vía y del tráfico ferroviario, o tener como consecuencia la producción de daños en los elementos de la vía o en el vehículo ferroviario, o perturbar el orden público.";
 •
@@ -1300,61 +1279,59 @@ En la investigación no se detectaron factores relacionados con la entidad respo
 4.2.6 Otros factores o consecuencias que se consideren relevantes a efectos de la investigación
 En la investigación no se detectaron otros factores relacionados con los vehículos ferroviarios, la infraestructura ferroviaria o las instalaciones técnicas.
 
-
 ## Página 41
 
 ### 4.3 Factores humanos
 ### 4.3.1 Características humanas e individuales
-En la investigación no se detectaron factores relacionados con la formación profesional de los empleados, el estado de salud y la situación personal, incluido el estrés físico y psicológico.
+En la investigación no se detectaron factores relacionados con la formación profesional de los empleados, su estado de salud y su situación personal, incluido el estrés físico y psicológico.
 ### 4.3.2 Factores laborales
-En la investigación no se detectaron factores relacionados con el contenido del trabajo o la jornada laboral de los empleados. En la investigación no se detectó, en los empleados implicados, el incumplimiento de las condiciones de descanso antes del turno y de los descansos, o del tiempo adecuado para el reposo y la alimentación durante el turno.
+En la investigación no se detectaron factores relacionados con el contenido del trabajo o la jornada laboral de los empleados. En la investigación no se constató, en los empleados implicados, el incumplimiento de las condiciones de descanso antes del turno y de los descansos, respectivamente, del tiempo adecuado de descanso y alimentación durante el turno.
 ### 4.3.3 Factores organizativos y tareas
-Desde 2024 hasta la aparición del MU se realizaron un total de 7 inspecciones con presencia del jefe de estación implicado. En 4 casos las inspecciones fueron sin defectos, en 2 casos con un defecto y su discusión en el lugar (disciplina telefónica) y en 1 caso un defecto con advertencia (firma de la documentación).
-El operador ferroviario realizó, desde 2024 hasta la aparición del MU, un total de 5 inspecciones al maquinista implicado. En 1 caso se detectó una falta (aparcamiento incorrecto del HDV), que se subsanó en el lugar y se discutió verbalmente.
+Desde 2024 hasta la ocurrencia de la MU se realizaron un total de 7 inspecciones con presencia del jefe de estación implicado. En 4 casos las inspecciones fueron sin anomalías, en 2 casos con anomalía y su discusión en el lugar (disciplina en las comunicaciones orales) y en 1 caso anomalía con advertencia (firma de documentación).
+El transportista realizó desde 2024 hasta la ocurrencia de la MU un total de 5 inspecciones al maquinista implicado. En 1 caso se detectó una infracción (aparcamiento incorrecto de la HDV), que se subsanó en el lugar y se discutió verbalmente.
 En la investigación no se detectaron factores relacionados con la organización del trabajo o con las tareas laborales.
 ### 4.3.4 Factores relacionados con el entorno laboral
 En la investigación no se detectaron factores relacionados con el entorno laboral.
-### 4.3.5 Otro factor relevante a efectos de la investigación
+### 4.3.5 Otro factor significativo a efectos de la investigación
 En la investigación no se detectaron otros factores relacionados con la actuación de las personas implicadas.
-### 4.4 Mecanismos de retroalimentación y mecanismos de control, incluida la gestión de riesgos y la garantía de seguridad, y procedimientos de seguimiento
+### 4.4 Mecanismos de retroalimentación y mecanismos de control, incluida la gestión de riesgos y la garantía de la seguridad, y procedimientos de seguimiento
 ### 4.4.1 Condiciones pertinentes del marco regulatorio
 Las condiciones pertinentes del marco regulatorio están establecidas en los Reglamentos de la Unión Europea, en la Ley núm. 266/1994 Sb. y en los decretos de aplicación.
-4.4.2 Procedimientos, métodos, contenido y resultados de las actividades de evaluación de riesgos y de seguimiento realizadas por cualquiera de las entidades implicadas
-En los procedimientos, métodos, contenido y resultados de las actividades de evaluación de riesgos y de seguimiento relacionados con las circunstancias del origen del MU en cuestión, no se detectaron deficiencias.
+4.4.2 Procedimientos, métodos, contenido y resultados de las actividades de evaluación de riesgos y seguimiento realizadas por cualquiera de los sujetos implicados
+En los procedimientos, métodos, contenido y resultados de las actividades de evaluación de riesgos y seguimiento, relacionados con las circunstancias de la ocurrencia de la MU en cuestión, no se detectaron deficiencias.
 
 ## Página 42
 
 ### 4.4.3 Sistema de garantía de la seguridad de los transportistas y gestores de infraestructura participantes
-El gestor de la infraestructura SŽ tiene un sistema de garantía de la seguridad (en adelante SZB) adoptado en virtud de las disposiciones de la Ley n.º 266/1994 Sb. En el SZB, cuyo propósito y objetivo principal es la explotación segura, eficaz y económica de la infraestructura en las líneas nacionales y regionales que gestiona, se enumeran, entre otros, los riesgos para las áreas establecidas, incluida la indicación de los procedimientos para la creación y aplicación de medidas de prevención de riesgos. Asimismo, los procedimientos para el seguimiento de la eficacia de las medidas de gestión de riesgos.
-La actividad constructiva realizada en el lugar de origen del MU fue una combinación de varios factores. Se trató de una actividad constructiva, no obstante, fuera de la vía de circulación explotada. En el marco de los riesgos tratados, estos trabajos pertenecen a varias categorías según el Anexo D Independiente del manual «Sistema de seguridad de la explotación de la infraestructura y del transporte ferroviario de la organización estatal Správa železnic», se trata principalmente de la actividad de los contratantes, la intervención en el perfil de la vía explotada y parcialmente de fenómenos externos inevitables (entre otros, la caída de árboles y el tiempo meteorológico).
-En el marco del SZB se emitieron las normas internas de SŽ Bp1 y Bp3. En el marco de la actividad constructiva se firmaron acuerdos de seguridad en el marco de las medidas contractuales. Se firmó un contrato de PRL (Prevención de Riesgos Laborales) entre SŽ y los constructores de la obra (se designó un coordinador de PRL). Los trabajadores de CPS tenían contacto con el empleado que dirige la explotación (jefe de estación norte) y con el correspondiente jefe de sección. Los trabajadores de CPS tenían un acceso válido a la vía de circulación explotada. Tras la caída del árbol, los trabajadores de CPS comenzaron a realizar las medidas necesarias para evitar el peligro contactando con el jefe de estación norte, quien en base a la comunicación detuvo la explotación en la TK n.º 100 e informó posteriormente, según el horario de notificación, a los demás componentes de SŽ y se comunicó con estos componentes.
-El SZB incluye la norma interna de SŽ D1, que establece, entre otros, el comportamiento de los empleados ante las situaciones excepcionales – notificación de situaciones excepcionales, MU, establecimiento de las condiciones de explotación ante estos eventos y otros.
-En el sistema de seguridad del gestor de la infraestructura y en el sistema de garantía de la seguridad del transporte ferroviario del transportista, relacionados con las circunstancias de origen del MU en cuestión, no se detectaron deficiencias.
+El gestor de la infraestructura SŽ tiene un sistema de garantía de la seguridad (en adelante, SZB) aprobado en virtud de las disposiciones de la Ley n.º 266/1994 Sb. En el SZB, cuyo propósito y objetivo principal es la explotación segura, eficaz y económica de la infraestructura en las líneas nacionales y regionales que gestiona, se enumeran, entre otros, los riesgos para las áreas establecidas, incluida la indicación de los procedimientos para la creación y aplicación de medidas de prevención de riesgos. Asimismo, los procedimientos para el seguimiento de la eficacia de las medidas de gestión de riesgos.
+La actividad constructiva realizada en el lugar del accidente ferroviario (MU) fue una combinación de varios factores. Se trataba de una actividad constructiva, no obstante, fuera de la vía de tráfico explotada. En el marco de los riesgos elaborados, estos trabajos se engloban en varias categorías según el Anexo D independiente del manual «Sistema de seguridad de la explotación de la infraestructura y del transporte ferroviario del organismo estatal Správa železnic», se trata principalmente de la actividad de los proveedores, la intervención en el perfil de la vía explotada y, parcialmente, de fenómenos externos inevitables (entre otros, la caída de árboles y el tiempo meteorológico).
+En el marco del SZB se emitieron las normas internas de SŽ Bp1 y Bp3. En el marco de la actividad constructiva se firmaron acuerdos de seguridad en el marco de las medidas contractuales. Se firmó un contrato de PRL (Prevención de Riesgos Laborales) entre SŽ y los constructores de la obra (se designó un coordinador de PRL). Los trabajadores de CPS tenían contacto con el empleado responsable de la explotación (jefe de estación norte) así como con el correspondiente jefe de sección. Los trabajadores de CPS tenían un acceso válido a la vía de tráfico explotada. Tras la caída del árbol, los trabajadores de CPS comenzaron a realizar las medidas necesarias para evitar el peligro poniéndose en contacto con el jefe de estación norte, quien, sobre la base de la comunicación, detuvo la explotación en la TK n.º 100 e informó posteriormente, según el horario de notificación, a los demás componentes de SŽ y se comunicó con estos componentes.
+El SZB incluye la norma interna de SŽ D1, que establece, entre otros, el comportamiento de los empleados ante las situaciones excepcionales: notificación de situaciones excepcionales, MU, establecimiento de las condiciones de explotación ante estos sucesos, etc.
+En el sistema de seguridad del gestor de la infraestructura y en el sistema de garantía de la seguridad del transporte ferroviario del transportista, relacionados con las circunstancias del origen de la MU en cuestión, no se detectaron deficiencias.
 ### 4.4.4 Sistema de gestión de los sujetos responsables del mantenimiento de los vehículos ferroviarios y de los talleres de mantenimiento
-El sistema de gestión de los sujetos responsables del mantenimiento de los vehículos ferroviarios y de los talleres de mantenimiento no guardaba relación con el origen del MU.
+El sistema de gestión de los sujetos responsables del mantenimiento de los vehículos ferroviarios y de los talleres de mantenimiento no guardaba relación con el origen de la MU.
 ### 4.4.5 Resultados de la supervisión realizada por las autoridades de seguridad nacionales
-Atendiendo a los factores y circunstancias detectados de origen del MU, la supervisión de la autoridad de seguridad no guarda relación con el MU en cuestión.
-### 4.4.6 Aprobaciones, certificados e informes de evaluación otorgados por la agencia, las autoridades de seguridad nacionales u otros sujetos de evaluación de la conformidad
-El gestor de la infraestructura explotaba la infraestructura en base a una autorización administrativa vigente y a un certificado de seguridad del gestor de la infraestructura. El transportista explotaba el transporte ferroviario en base a una licencia vigente y a un certificado del transportista.
-
+Atendiendo a los factores y circunstancias detectados del origen de la MU, la supervisión de la autoridad de seguridad no guarda relación con la MU en cuestión.
+### 4.4.6 Aprobaciones, certificados e informes de evaluación emitidos por la agencia, las autoridades de seguridad nacionales u otros sujetos de evaluación de la conformidad
+El gestor de la infraestructura explotaba la infraestructura sobre la base de una autorización administrativa vigente y de un certificado de seguridad del gestor de la infraestructura. El transportista explotaba el transporte ferroviario sobre la base de una licencia vigente y de un certificado del transportista.
 
 ## Página 43
 
 ### 4.4.7 Otros factores sistémicos
 En la investigación no se detectaron otros factores sistémicos.
-### 4.5 Eventos anteriores de naturaleza similar
-La DI investigó en el periodo desde el 1. 1. 2014 hasta la fecha de origen del MU en cuestión en las infraestructuras ferroviarias, categoría nacional y regional 1, un MU análogo, cuando se produjo como consecuencia de la actividad humana la aparición de un obstáculo en el perfil de circulación de la vía explotada con el consiguiente intento de detener el transporte ferroviario:
+### 4.5 Sucesos anteriores de naturaleza análoga
+La DI investigó en el periodo comprendido entre el 1. 1. 2014 y la fecha de ocurrencia de la MU objeto de estudio, en las vías ferroviarias, categoría estatal y regional 1, un suceso análogo a la MU, en el que se produjo, como consecuencia de la actividad humana, la aparición de un obstáculo en el perfil de paso de la vía en servicio, con el consiguiente intento de detener el transporte ferroviario:
 •
-del 5. 5. 2021 entre la est. Třebovice v Čechách y Česká Třebová, donde se produjo una colisión del tren Ex 1254 con piedra arrojada a la vía desde un camión durante un accidente de tráfico en la vía pública. Las causas inmediatas del MU fueron la creación de un obstáculo por el vertido de la carga en el perfil de circulación de la vía explotada desde el camión volcado durante un accidente de tráfico en la vía pública y la no detención del transporte ferroviario entre las estaciones de ferrocarril Třebovice v Čechách y Česká Třebová.
+del 5. 5. 2021, entre las estaciones de Třebovice v Čechách y Česká Třebová, donde se produjo la colisión del tren Ex 1254 con piedras arrojadas a la vía desde un camión como consecuencia de un accidente de tráfico en la vía pública. Las causas inmediatas de la MU fueron la creación de un obstáculo por el vertido de la carga en el perfil de paso de la vía en servicio desde un camión volcado como consecuencia de un accidente de tráfico en la vía pública, y la no detención del transporte ferroviario entre las estaciones de Třebovice v Čechách y Česká Třebová.
 ## 5 CONCLUSIONES
-### 5.1 Resumen del análisis y conclusiones relativas a las causas del evento
+### 5.1 Resumen del análisis y conclusiones relativas a las causas del suceso
 Causas inmediatas:
 •
-la no establecimiento de las condiciones para la circulación de los vehículos ferroviarios por parte del despachador eléctrico y la circulación del tren Nex 48336 en un tramo con avería en la línea de contacto como consecuencia de la delimitación incorrecta del lugar de la avería por parte de los empleados de un sujeto jurídico externo y del gestor de la infraestructura tras la situación excepcional (caída de un árbol en la línea de contacto durante la realización de la tala por trabajadores de un sujeto jurídico externo);
+la no fijación de las condiciones para la circulación de los vehículos ferroviarios por parte del despachador eléctrico y la circulación del tren Nex 48336 en un tramo con avería en la línea de contacto como consecuencia de la delimitación incorrecta de la ubicación de la avería por parte de los empleados de la entidad jurídica externa y del gestor de la infraestructura tras la producción de la incidencia (caída de un árbol en la línea de contacto durante la tala realizada por empleados de la entidad jurídica externa);
 •
-la no detención del tren Nex 48336 por parte del maquinista tras detectar la pérdida de alimentación de la línea de contacto.
-No fue detectado por la Inspección Ferroviaria ningún factor contribuyente.
-No fue detectado por la Inspección Ferroviaria ninguna causa sistémica.
+la no detención del tren Nex 48336 por parte del maquinista tras la detección de la pérdida de alimentación de la línea de contacto.
+La Inspección Ferroviaria no detectó ningún factor contribuyente.
+La Inspección Ferroviaria no detectó ninguna causa sistémica.
 ### A summary of the analysis and conclusions with regard to the causes of the 
 occurrence
 Causal factors:
@@ -1366,47 +1343,38 @@ the external legal entity and the infrastructure manager after the extraordinari
 (fell of the tree to the contact line during felling by employees of the external legal 
 entity);
 •
-failure to stop of the freight train No. 48336 by the train driver after detecting loss of 
-a power from the contact line.
-
+failure to stop of the freight train No. 48336 by the train driver after detecting loss 
+of a power from the contact line.
 
 ## Página 44
 
-Contributing factor: none.
-Systemic factor: none.
-### 5.2 Medidas adoptadas para la prevención de situaciones excepcionales
-El gestor de la infraestructura SŽ adoptó tras el origen del MU las siguientes medidas:
+Factor contribuyente: ninguno.
+Factor sistémico: ninguno.
+### 5.2 Medidas adoptadas para prevenir sucesos extraordinarios
+El gestor de la infraestructura SŽ adoptó, tras la producción del SE, las siguientes medidas:
 •
-según el artículo 380 apartado 3 de la norma interna de SŽ D1, recomendó que el despachador eléctrico informara al jefe de estación correspondiente y al despachador de explotación en caso de avería (defecto) mediante texto:
-«Línea de contacto sobre las vías ....................... sin tensión. Prohíbo la circulación de vehículos de tracción dependiente por estas vías, hasta que el lugar no haya sido inspeccionado por los trabajadores de OTV y se confirme la circulabilidad de la TV sobre estas vías.»;
+de acuerdo con el artículo 380, apartado 3 de la norma interna de SŽ D1, se recomendó que el despachador eléctrico informara al despachador de estación correspondiente y al despachador de explotación en caso de avería (defecto) mediante el texto:
+„La línea de contacto sobre las vías ....................... sin tensión. Prohíbo la circulación de vehículos de tracción dependiente por estas vías hasta que el lugar haya sido inspeccionado por los trabajadores de OTV y se haya confirmado la circulabilidad de la línea de contacto sobre estas vías.“;
 •
-el MU fue debatido en la fecha límite del 30. 9. 2025 en la reunión del director de la OŘ Hradec Králové;
+el SE fue debatido en la reunión del director de la OŘ Hradec Králové en el plazo hasta el 30. 9. 2025;
 •
-el 30. 1. 2025 se celebró en Česká Třebová una reunión con los representantes del contratante convocada por el jefe de la PO Česká Třebová, en la que se entregaron a los representantes del contratante información para la orientación de los empleados que trabajan en la obra en el nudo de Česká Třebová;
+el 30. 1. 2025 se celebró en Česká Třebová una reunión con representantes del contratista, convocada por el jefe de PO Česká Třebová, en la que se entregaron a los representantes del contratista información para la orientación de los empleados que trabajan en la obra en el nudo de Česká Třebová;
 •
-el MU fue debatido el 13. 3. 2025 por la O18 de Správa železnic con los representantes de la obra «Modernización del nudo ferroviario de Česká Třebová», con un recordatorio sobre la necesidad de comunicación con los empleados correspondientes en caso de situaciones de crisis y de la gestión de los trabajos realizados en el registro de accesos de CPS de Správa železnic;
+el SE fue debatido el 13. 3. 2025 por la O18 de Správy železnic con los representantes del contratista de la obra „Modernización del nudo ferroviario de Česká Třebová“, con un recordatorio sobre la necesidad de comunicarse con los empleados correspondientes en situaciones de crisis y de llevar los trabajos realizados en el registro de accesos CPS de Správy železnic;
 •
-el 5. 2. 2025 el jefe de la PO Česká Třebová emitió el «Decálogo» para los jefes de estación de ŽST Česká Třebová en relación con la actividad constructiva en curso, con el que estos empleados fueron debidamente familiarizados en la fecha límite del 30. 6. 2025;
+el 5. 2. 2025 el jefe de PO Česká Třebová emitió el „Decálogo“ para los jefes de estación de ŽST Česká Třebová en relación con la actividad constructiva en curso, con el cual dichos empleados fueron debidamente informados en el plazo hasta el 30. 6. 2025;
 •
-todos los empleados del puesto de trabajo del centro de despacho eléctrico de la OŘ Hradec Králové serán informados sobre el desarrollo y las conclusiones de la investigación en la fecha límite del 30. 9. 2025;
+todos los empleados del puesto de despacho eléctrico de la OŘ Hradec Králové serán informados sobre el desarrollo y las conclusiones de la investigación en el plazo hasta el 30. 9. 2025;
 •
-al operador del transporte ferroviario ČD Cargo, a.s. se le requirió para la adopción de una medida eficaz de prevención de situaciones excepcionales debido a su responsabilidad parcial en el origen del MU.
-El transportista ČDC emitió tras el origen del MU las siguientes medidas:
+al operador del transporte ferroviario ČD Cargo, a.s. se le requirió para la adopción de una medida eficaz de prevención de sucesos extraordinarios debido a su responsabilidad parcial en la producción del SE.
+El transportista ČDC emitió, tras la producción del SE, las siguientes medidas:
 •
-el tema «Uso de colectores durante las interrupciones de tensión» en la TV se incorporará a la tabla «Temas de seguridad e información para la formación de los empleados de ČD Cargo, a.s.» (área temática «Documentación del sistema de garantía de seguridad»);
+el tema „Uso de los colectores en caso de cortes de tensión“ en la línea de contacto se incorporará a la tabla „Temas de seguridad e información para la formación de los empleados de ČD Cargo, a.s.“ (área temática „Documentación del sistema de garantía de seguridad“);
 •
-el tema «Uso de colectores durante las interrupciones de tensión en la TV» se incluirá en los escenarios del Simulador en preparación.
-### Measures taken since the occurrence
-The infrastructure manager SŽ took the following measures after the occurrence:
-•
-it was recommended that an electrical dispatcher notifies a relevant station 
-dispatcher and operational dispatcher in case of a malfunction (defect) according to 
-the article 380, paragraph 3 of the internal regulation SŽ D1 by text: „Contact line 
-above the tracks ....................... without voltage. I prohibit the movement of 
-dependent traction vehicles on these tracks until the place will be inspected by 
-
+el tema „Uso de los colectores en caso de cortes de tensión en la línea de contacto“ se incluirá en los escenarios en preparación del Simulador.
 
 ## Página 45
+
 
 contact line repair workers and passability of the contact line to pass over these 
 tracks will be confirmed”;
@@ -1456,8 +1424,8 @@ At the railway undertaking ČDC:
 exceeding the maximum permitted speed by the train driver of the freight train 
 No. 48336.
 
-
 ## Página 46
+
 
 ## 6 RECOMENDACIONES DE SEGURIDAD
 Atendiendo a las causas detectadas y a las circunstancias de origen de la situación excepcional, la Inspección Ferroviaria no emite recomendaciones de seguridad, ya que no se detectaron datos que justificasen la emisión de una recomendación de seguridad en el marco de la prevención del origen de situaciones excepcionales.
@@ -1478,8 +1446,8 @@ Certificado del autor de la firma:
 Nombre: Drážní inspekce
 Emitido por: PostSignum Qualified CA 4
 
-
 ## Página 47
+
 
 ## ANEXOS
 Fig. n.º 6: Vista del lugar de origen del MU en sentido contrario a la dirección de circulación del tren desde la vía n.º 100     
@@ -1487,8 +1455,8 @@ Fig. n.º 6: Vista del lugar de origen del MU en sentido contrario a la direcci�
 Fig. n.º 7: Soporte TP liberado
                     Fuente: SŽ
 
-
 ## Página 48
+
 
 Fig. n.º 8: OA dañado en la plataforma superior de TDV
 Fuente: ČDC

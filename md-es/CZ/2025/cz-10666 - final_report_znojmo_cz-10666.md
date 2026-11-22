@@ -10,13 +10,14 @@ chars: 147948
 ratio_longitud: 1.26
 tokens_in: 68985
 tokens_out: 48101
-verificacion: revisar
-notas_cifras: ["bloque 1: original bilingüe: se compara contra el idioma principal (CS)", "bloque 3: original bilingüe: se compara contra el idioma principal (CS)", "bloque 4: cifras cortas: 1/26", "bloque 5: original bilingüe: se compara contra el idioma principal (CS)", "bloque 6: original bilingüe: se compara contra el idioma principal (CS)", "bloque 8: cifras cortas: 4/59"]
-avisos: ["bloque 11: ratio 1.79"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 3: original bilingüe: se compara contra el idioma principal (PT)", "página 5: original bilingüe: se compara contra el idioma principal (CS)", "página 6: original bilingüe: se compara contra el idioma principal (CS)", "página 9: original bilingüe: se compara contra el idioma principal (CS)", "página 10: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -41,13 +42,13 @@ IČ: 75009561
 mail@di.gov.cz
 tel.: +420 736 521 003
 
-
 ## Página 2
+
 
 El presente informe final es público y todos los hechos en él expuestos están respaldados por el expediente de investigación. La Inspección de Ferrocarriles no se ocupa, en el marco de la investigación, de la responsabilidad por delito o por infracción administrativa, y por ello no puede deducirse de este informe final. La investigación se llevó a cabo de forma independiente con el objetivo de determinar las causas y circunstancias de la incidencia.
 
-
 ## Página 3
+
 
 ### 1 RESUMEN
 Fuente: Inspección de Ferrocarriles
@@ -77,8 +78,8 @@ No fue detectado por la Inspección de Ferrocarriles ningún factor contribuyent
 No fue detectado por la Inspección de Ferrocarriles ninguna causa sistémica.
 No fue emitida por la Inspección de Ferrocarriles ninguna recomendación de seguridad.
 
-
 ## Página 4
+
 
 ### SUMMARY
 12th March 2025, 14:58 (13:58 GMT).
@@ -113,8 +114,8 @@ Systemic factor:
 none.
 Recommendation: not issued.
 
-
 ## Página 5
+
 
 ## Índice
 1 RESUMEN........................................................................................................................3
@@ -156,8 +157,8 @@ SUMMARY.........................................................................
 4.2 Vehículos ferroviarios e instalaciones técnicas...........................................................................33
 4.2.1 Factores o consecuencias derivados del diseño de los vehículos ferroviarios, de la infraestructura ferroviaria o de las instalaciones técnicas.....................................................................33
 
-
 ## Página 6
+
 
 4.2.2 Factores o consecuencias derivados de la instalación y puesta en servicio de los vehículos ferroviarios, de la infraestructura ferroviaria o de las instalaciones técnicas......................................33
 4.2.3 Factores o consecuencias relacionados con los fabricantes de vehículos ferroviarios u otros proveedores de productos ferroviarios............................................................................33
@@ -188,6 +189,7 @@ SUMMARY.........................................................................
 ANEXOS..............................................................................................................................53
 
 ## Página 7
+
 
 ### Lista de abreviaturas y símbolos utilizados
 ARRIVA
@@ -277,8 +279,8 @@ informe final sobre los resultados de la investigación de la ocurrencia extraor
 žst.
 estación de ferrocarril
 
-
 ## Página 8
+
 
 ### Lista de abreviaturas de normativas legales, normas y disposiciones internas utilizadas
 ley n.º 266/1994 Sb.
@@ -300,8 +302,8 @@ SŽ TNŽ 34 2620 «Dispositivos de enclavamiento ferroviario, Dispositivos de en
 disposición interna SŽDC (ČD) T121
 disposición interna del explotador de la línea SŽ, «SŽDC (ČD) T121 Mantenimiento de dispositivos de enclavamiento exteriores», en la redacción vigente en el momento de la ocurrencia de la MU
 
-
 ## Página 9
+
 
 ### 2 INVESTIGACIÓN Y SUS RELACIONES
 ### 2.1 Decisión sobre el inicio de la investigación
@@ -333,8 +335,8 @@ análisis de los datos registrados por el registrador de velocidad de los materi
 •
 análisis de los archivos del SZZ en la žst. Znojmo;
 
-
 ## Página 10
+
 
 •
 declaraciones de los empleados implicados;
@@ -368,26 +370,25 @@ Coordenadas GPS:
 48.8542667N, 16.0615444E (inicio de la circulación no autorizada del tren Os 4521 más allá de la señal L2);
 48.8556644N, 16.0636961E (lugar del descarrilamiento del tren Os 4521).
 ### 3.1.3 Descripción del lugar del suceso
-La žst. Znojmo se sitúa en el km 100,149 de la línea nacional 322A Znojmo frontera estatal – Okříšky. La línea es de vía única en los tramos adyacentes entre estaciones. En el tramo de línea Retz (ÖBB) – Šatov frontera est. – Znojmo está electrificada con sistema de tracción alterna de 15 kV/16,7 Hz. 
-
+La žst. Znojmo se sitúa en el km 100,149 de la línea nacional 322A Znojmo frontera estatal – Okříšky. La línea es de vía única en los tramos adyacentes entre estaciones. En el tramo de línea Retz (ÖBB) – Šatov frontera est. – Znojmo está electrificada con sistema de tracción alterna de 15 kV/16,7 Hz.
 
 ## Página 11
 
-Fig. n.º 1: Esquema del lugar de origen de la MU
+Obra n.º 1: Esquema del lugar de origen del MU
         Fuente: SŽ y DI
-Asimismo, la žst. Znojmo se sitúa en la línea regional 323D Břeclav – Znojmo. Esta línea también es de vía única en el tramo adyacente entre estaciones.
-La estación estaba, en el momento de la MU, controlada localmente por el jefe de estación desde la DK, que también controlaba a distancia la žst. Šatov. 
-La comunicación básica de radio para la circulación de trenes era en la red GSM-R. 
-De la inspección del lugar de la MU se constató:
-La inspección del lugar de origen de la MU se realizó en dos días. El día de la ocurrencia de la MU se llevó a cabo simultáneamente la inspección del convoy del tren Os 4521 (en adelante también tren), de la infraestructura desde la señal L2 hasta el lugar del descarrilamiento y, a la vez, la inspección de la DK y del SZZ.
-El 13. 3. 2025 se realizó una inspección complementaria de parte de la infraestructura en el espacio de la línea industrial «ČD, a. s. – Znojmo» (tras la realineación y el apartamiento de la unidad motorizada descarrilada).
-Estado de la infraestructura de SŽ en el distrito de la línea nacional:
+Asimismo, la estación de Znojmo se encuentra en la línea regional 323D Břeclav – Znojmo. Esta línea también es de vía única en el tramo intermedio adyacente entre estaciones.
+La estación estaba, en el momento del MU, controlada localmente por el jefe de estación desde el DK, que también controlaba a distancia la estación de Šatov.
+La comunicación radio básica para la circulación de trenes se realizaba en la red GSM-R.
+Del examen del lugar del MU se constató lo siguiente:
+El examen del lugar de origen del MU se realizó en dos días. El día de origen del MU se llevó a cabo simultáneamente el examen del convoy del tren Os 4521 (en adelante también tren), de la infraestructura desde la señal L2 hasta el lugar del descarrilamiento, y a la vez se realizaba el examen del DK y del SZZ.
+El 13. 3. 2025 se realizó un examen complementario de una parte de la infraestructura en el espacio del apartadero "ČD, a. s. – Znojmo" (tras la realineación y el apartado de la unidad motorizada descarrilada).
+Estado de la infraestructura de SŽ en el ámbito de la vía de ancho nacional:
 •
-no se produjo daño en la infraestructura en el distrito de la línea nacional en la žst. Znojmo. 
-No fue necesario realizar una inspección detallada, dada la naturaleza del accidente (inspección del SZZ ver más abajo).
-
+no se produjo daño en la infraestructura en el ámbito de la vía de ancho nacional en la estación de Znojmo.
+No fue necesario realizar un examen detallado, atendiendo al suceso del accidente (examen del SZZ, véase más abajo).
 
 ## Página 12
+
 
 Estado de la infraestructura de ČD, a. s. en el distrito de la línea industrial:
 •
@@ -424,8 +425,8 @@ El valor medido de 10,6 V cumplía la tolerancia permitida de 10,2 V – 11,2 V 
 •
 el estado de aislamiento de la distribución interna a las distintas luces de la señal L2 estaba sin defectos;
 
-
 ## Página 13
+
 
 Fig. n.º 2: Visibilidad de la señal L2 en el momento de la ocurrencia de la MU, desde el lugar de parada del frente del tren Os 4521 (condiciones de luz similares a las del momento de la ocurrencia de la MU)
 Fuente: DI
@@ -450,27 +451,27 @@ el tren estaba, en el momento de la inspección, marcado con las señales «Inic
 ## Página 14
 
 •
-en el puesto de conducción del maquinista se había seleccionado el sentido de marcha hacia adelante, la palanca de conducción combinada estaba en la posición «0», el freno de acción directa en la posición «0». El freno de estacionamiento estaba activo (testigo encendido). El motor estaba apagado, el vehículo se había puesto en estado seguro contra el arrastre;
+en el puesto de conducción del maquinista se había seleccionado el sentido de marcha hacia adelante, la palanca de mando combinada estaba en posición «0», el freno de acción directa en posición «0». El freno de estacionamiento estaba activo (testigo encendido). El motor estaba apagado, el vehículo se había puesto en estado seguro contra arrastre;
 •
-el panel de control de la estación de radio en el puesto de conducción indicaba el registro en la red de radio GSM-R bajo el número de tren 4521 y estaba sintonizado también el canal n.º 27 MRS;
+el panel de control de la estación de radio en el puesto de conducción indicaba el registro en la red de radio GSM-R bajo el número de tren 4521 y también estaba sintonizado el canal n.º 27 MRS;
 •
 en el puesto se encontraba la unidad de control de la estación de radio VS67;
 •
 se había realizado la corrección de la hora del velocímetro respecto a la hora exacta (desviación horaria del velocímetro +12 s);
 •
-en el puesto del maquinista no se encontraba ninguna orden con información sobre cambios en los parámetros constructivo-técnicos de la vía;
+en el puesto del maquinista no se encontraba ninguna orden con información sobre cambios de parámetros constructivo-técnicos de la vía;
 •
-en el puesto del maquinista estaba colocada una nota permanente sobre el frenado;
+en el puesto del maquinista estaba colocada una mensaje permanente sobre el frenado;
 •
-la unidad 848 415-6 descarriló en el punto de paso de las ruedas izquierdas de todos los ejes sobre el cuña del descarrilador n.º Vk101 en sentido contrario a su dirección de enclavamiento. Tras pasar la cuña, solo el primer bogie permaneció descarrilado a la derecha (2 ejes) en el sentido de marcha y se encontraba en la parte de corazón de la rama recta del desvío n.º 101. El segundo y el tercer bogie (4 ejes en total) permanecieron de pie tras el recolocamiento sobre la vía. El segundo bogie se encontraba en la parte de lengüeta del desvío n.º 101 y apuntaba hacia la rama desviada;
+la unidad 848 415-6 descarriló en el punto de paso de las ruedas izquierdas de todos los ejes sobre la cuña del desviador n.º Vk101 en sentido contrario a su dirección de enclavamiento. Tras pasar la cuña, solo el primer bogie permaneció descarrilado a la derecha (2 ejes) en el sentido de marcha y se encontraba en la parte de corazón de la rama recta del desvío n.º 101. El segundo y el tercer bogie (4 ejes en total) permanecieron de pie tras el recolocamiento sobre la vía. El segundo bogie se encontraba en la parte de lengüeta del desvío n.º 101 y apuntaba hacia la rama desviada;
 •
-daños en el coche de mando 948 415-2:
+daños en el coche de mando de cabeza 948 415-2:
 ◦en el 1.º bogie en el sentido de marcha, daños en las viguetas del freno electromagnético, cable de accionamiento del velocímetro desprendido y cable de puesta a tierra dañado;
-◦el arado frontal tenía marcas de roce sobre las cabezas de los raíles en la parte inferior;
+◦el arado frontal tenía marcas de roce con las cabezas de los raíles en la parte inferior;
 ◦en el flanco derecho, desde la ventana abrible del puesto del maquinista hasta el final de la 1.ª ventana del espacio para pasajeros, era apreciable el daño en la pintura a lo largo de 2 m tras el contacto con la señal alta de cambio de aguja del desvío n.º 101;
-◦en el 3.º bogie en el sentido de marcha estaban dañadas las viguetas del freno electromagnético;
+◦en el 3.º bogie en el sentido de marcha se encontraban dañadas las viguetas del freno electromagnético;
 •
-la segunda unidad 848 421-4 no resultó dañada en el MU;
+la segunda unidad 848 421-4 no resultó dañada en la MU;
 •
 la cabeza del tren se encontraba en el km 100,565 junto a las puntas de las lengüetas del desvío n.º 103;
 •
@@ -487,10 +488,10 @@ Condiciones meteorológicas:
 parcialmente nublado a nublado, +17 °C, visibilidad no reducida.
 Datos geográficos:
 terreno llano, luz solar en contra de la señal L2, sin influencia en la
-producción del MU (véase la Fig. n.º 2).
-
+producción de la MU (véase Fig. n.º 2).
 
 ## Página 15
+
 
 En el lugar del MU no se realizaron, inmediatamente antes de su producción, trabajos de reparación o mantenimiento por parte del propietario, del explotador de la vía ni de otros sujetos. Solo en el tramo Znojmo – Olbramkostel transcurría una interrupción planificada por motivo de trabajos de mantenimiento (no se trataba del tramo de circulación no autorizada del tren Os 4521). La circulación se vio afectada por el NAD y posibles retrasos en la circulación. La interrupción finalizó a las 14:30 h, es decir, 28 min antes de la producción del MU.
 ### 3.1.4 Fallecimientos, lesiones y daños materiales
@@ -525,8 +526,8 @@ maquinista de una unidad de motor de la serie 814, situada en la vía lateral, e
 Sujetos participantes:
 El propietario de la vía ferroviaria, categoría de ámbito nacional, Šatov st. hr. – Okříšky, era la República Checa. El derecho a administrar el patrimonio del Estado lo ejercía SŽ, con domicilio en Dlážděná 1003/7, Praha 1, PSČ 110 00, que era asimismo el explotador de esta vía.
 
-
 ## Página 16
+
 
 Propietario y explotador de la vía, vía lateral ČD a. s. – Znojmo, n.º 5427, eran ČD, con domicilio en Nábřeží L. Svobody 1222, Praha 1, PSČ 110 15.
 El transportista del tren Os 4521 era ARRIVA vlaky, s. r. o., Křižíkova 148/34, 186 00 Praha 8 - Karlín.
@@ -565,8 +566,8 @@ el tren Os 4521 descarriló sobre el descarrilador n.º Vk 101 en el espacio de 
 el tren Os 4521 se detuvo en el espacio de la vía lateral en el km 100,565.
 El estado real del tren comprobado en el lugar del MU correspondía a la documentación del tren.
 
-
 ## Página 17
+
 
 ### 3.1.8 Descripción de las partes pertinentes de la infraestructura y del sistema de señalización
 La est. Znojmo estaba equipada con instalación de señalización de estación de 3.ª categoría según SŽ TNŽ 34 2620 – enclavamiento electrónico ESA 11. Desde el Puesto de Mando del SZZ ESA 11 en la est. Znojmo se operaba a distancia también el SZZ del mismo tipo en la est. Šatov. Los tramos de vía estaban equipados con contadores de ejes.
@@ -603,8 +604,8 @@ De los datos del SZZ, entre otros, se desprende:
 •
 del análisis de los datos registrados se desprende que el SZZ presentaba una actividad normal antes de la producción del MU y en el momento de su producción;
 
-
 ## Página 18
+
 
 •
 la ruta de tren para el tren Os 4521 no se estableció, ya que se había establecido la ruta de tren de entrada para el tren retrasado Os 4516 que circulaba en sentido contrario (desde la est. Hodonice);
@@ -636,53 +637,52 @@ maquinista del tren Os 4521 – Acta complementaria con el empleado:
 ## Página 19
 
 •
- maquinista del tren Os 4521 – Registro de declaración prestada ante el DI;
-◦ejercía la profesión de maquinista desde hacía unos tres meses (nota del DI: detalles en el capítulo 4.3.1 de este II);
-◦no había trabajado en ninguna función para otro empleador;
-◦durante el descanso anterior al turno no ocurrió nada negativo que influyera en el desempeño de su turno, en el que se produjo el MU;
-◦durante el turno cambió de unidad y también hubo problemas con la segunda. En la primera unidad había defectos en los fuelles de suspensión secundaria. Tras el primer trayecto Břeclav – Znojmo y de vuelta, recibió otra unidad, en la que sin embargo no desfrenaba el módulo intermedio y siempre, tras detenerse, tenía que ir a desfrenar el módulo. En la penúltima parada antes de Znojmo se escapó el aire de un fuelle (se reventó). Tras la llegada a Znojmo, estuvo dando vueltas alrededor de la unidad durante unos 40 minutos y acoplándola con otra unidad. Hasta entonces, los turnos anteriores los había tenido sin problemas;
-◦no sintió, durante el turno y hasta la producción del MU, ninguna necesidad biológica urgente (sed, hambre, uso del WC, etc.);
-◦no se sintió alterado por nada durante el turno, solo resolvía cuestiones operativas relativas a averías de las unidades;
-◦disfrutó de la pausa, o bien del tiempo razonable de descanso y comida durante el turno, en la estación de Břeclav;
-◦el equipamiento y la disposición de la cabina de conducción en la unidad diésel Stadler GTW, que componía el tren Os 4521, le resultaban adecuados;
-◦los defectos (averías en la composición) existentes antes de la salida del tren Os 4521 de la estación de Znojmo fueron eliminados;
-◦el tren Os 4521 lo conducía habitualmente dentro del grupo de turnos;
-◦la estación de Znojmo, desde el punto de vista de la ubicación de los principales señales en la vía, principalmente la señal L2 junto a la 2.ª vía, la conocía bien;
-◦observó, antes de la salida del tren de la estación de Znojmo, también el resto del tráfico en la estación, pero no se le ocurrió que debía salir hasta que llegara el tren contrario, que estaba retrasado;
-◦declara que la indicación en la señal L2, desde el momento en que puso el tren en marcha desde el andén junto a la 2.ª vía, hasta el momento en que la cabeza del tren pasó su posición física en la vía, era «40 km/h y Libre»;
-◦respecto a la captación de su atención justo antes de la producción del MU, declara que entró en la cabina una persona con la que se saludó y que ésta se situó en la parte trasera de la cabina. Él entonces se ocupó de sus asuntos. Miraba el cierre de las puertas, porque no estaba presente el jefe de tren. Tras el cierre de las puertas, arrancó;
-◦según él, la persona tenía autorización para estar en la cabina y no le molestó en el cumplimiento de sus obligaciones;
-◦la simultaneidad del cumplimiento de las obligaciones del maquinista antes de poner el tren en marcha y durante la circulación no autorizada por la 2.ª vía le resultaba manejable;
-◦tenía la radio de a bordo sintonizada en GSM-R en el momento de la arrancada y de la circulación no autorizada del tren, y no se le ocurrió el canal MRS;
-
+ registro de declaración de explicaciones del conductor del tren Os 4521 – Záznam o podání vysvětlení DI;
+◦ejercía la profesión de conductor de tren desde hacía unos tres meses (nota DI: detalles en el capítulo 4.3.1 de este ZZ);
+◦no trabajaba en ningún puesto para otro empleador;
+◦durante el descanso antes del turno no ocurrió nada negativo que pudiera influir en su desempeño del turno en el que se produjo el MU;
+◦durante el turno cambió de unidad y también con la segunda hubo problemas. En la primera unidad había bolsas de aire defectuosas de la suspensión secundaria. Después del primer trayecto Břeclav – Znojmo y de vuelta, recibió otra unidad, en la que sin embargo no desfrenaba el módulo intermedio y siempre después de detenerse tenía que ir a desfrenar el módulo. En la penúltima parada antes de Znojmo se escapó el aire de una bolsa (estalló). Tras llegar a Znojmo, estuvo rondando la unidad durante unos 40 minutos y acoplándola con otra unidad. Los turnos anteriores los había tenido hasta entonces sin problemas;
+◦no sintió durante el turno, hasta la aparición del MU, ninguna necesidad biológica aguda (sed, hambre, uso del WC, etc.);
+◦no se sintió alterado por nada durante el turno, solo atendía asuntos operativos relativos a averías de las unidades;
+◦la pausa, es decir, el tiempo adecuado de descanso y comida durante el turno, lo disfrutó en la est. Břeclav;
+◦el equipamiento y la disposición de la cabina del conductor en la unidad motor Stadler GTW, que formaba el tren Os 4521, le resultaban adecuados;
+◦los defectos (averías en la composición) en el momento anterior a la salida del tren Os 4521 de la est. Znojmo fueron subsanados;
+◦el tren Os 4521 lo conducía regularmente dentro del grupo de turnos;
+◦la est. Znojmo, desde el punto de vista de la ubicación de los principales señales en la vía, especialmente la señal L2 junto a la 2. SK, la conocía bien;
+◦antes de la salida del tren de la est. Znojmo observaba también el resto de la circulación en la estación, pero no se le pasó por la cabeza que debía salir cuando llegara el tren en sentido contrario, que estaba retrasado;
+◦declara que la indicación en la señal L2, desde el momento en que puso el tren en marcha desde el andén junto a la 2. SK, hasta el momento en que el frente del tren pasó su posición física en la vía, era «40 km/h y Libre»;
+◦respecto a la captación de su atención justo antes de la aparición del MU, declara que llegó a la cabina una persona con la que se saludó y ésta se situó detrás en la cabina. Él entonces atendió sus asuntos. Miraba el cierre de las puertas, porque no estaba presente el jefe de tren. Tras cerrarse las puertas, arrancó;
+◦según él, la persona tenía autorización para estar en la cabina y no le molestaba en el cumplimiento de sus deberes;
+◦la simultaneidad del cumplimiento de los deberes del conductor antes de poner el tren en marcha y durante la circulación no autorizada por la 2. SK le resultaba manejable;
+◦en el momento de la arrancada y de la circulación no autorizada del tren, tenía la radio de a bordo sintonizada en GSM-R y no se acordó del canal MRS;
 
 ## Página 20
 
-◦no oyó las llamadas de voz del jefe de estación de Znojmo para detenerse durante la circulación no autorizada del tren, emitidas por la radio de a bordo;
-◦la comunicación con el jefe de estación de Znojmo se produjo tras la aparición del MU. Llamó en simplex (nota del DI: del registro se constató el canal n.º 27 de MRS, en el que el jefe de estación emitía las llamadas para detenerse);
-◦admitió, durante el desempeño del servicio, una tendencia a la actuación rutinaria, ya que solo circulaba por dos líneas, Břeclav – Znojmo y Zaječí – Hodonín. Según su declaración, en la línea de Hodonín el servicio era monótono. En un turno recorría la línea hasta quince veces. La línea de Břeclav le resultaba, en el desempeño del servicio, más variada.
+◦las llamadas de voz del jefe de estación de la estación de Znojmo para detenerse durante la circulación no autorizada del tren no las oyó desde el aparato de radio del vehículo;
+◦la comunicación con el jefe de estación de la estación de Znojmo se produjo tras el origen de la MU. Llamó en simplex (nota DI: del registro se constata el canal n.º 27 MRS en el que el jefe de estación emitía las llamadas para detenerse);
+◦admitió durante el desempeño del servicio una tendencia a la actuación rutinaria, ya que solo circulaba por dos líneas, Břeclav – Znojmo y Zaječí – Hodonín. Según la declaración del servicio, en la línea de Hodonín este era uniforme. En un turno recorría la línea hasta quince veces. La línea de Břeclav era para él, durante el desempeño del servicio, más diversa.
 •
-jefe de estación de Znojmo
+jefe de estación de la estación de Znojmo
   – Acta con el empleado:
-◦desde el inicio, el turno transcurrió de forma estándar, con tráfico intenso ocasional en el ámbito de la estación y en el tramo de mando a distancia;
-◦en la última hora antes de la producción del MU hubo tráfico intenso debido al final de la intervención en la vía, incluidas las maniobras con trenes de mercancías y composiciones de la compañía ARRIVA para el tren Os 4521;
-◦la comunicación con los maquinistas de ARRIVA la realizaba en el canal n.º 27 de MRS, destinado a las maniobras con trenes de transporte de viajeros;
-◦tras finalizar todas las maniobras, estableció la ruta de tren desde Hodonice hacia la 4.ª vía para el tren Os 4516;
-◦la llegada del tren Os 4516 la preveía aproximadamente a la hora de salida del tren Os 4521;
-◦tras la indicación de la posición del tren Os 4516 en el monitor JOP, delante de la señal de entrada, se levantó de su puesto de trabajo del SZZ y fue hacia la salida del DK al andén a observar la entrada del tren Os 4516;
-◦todavía desde la zona de la puerta del DK vio, a través del vestíbulo acristalado, la composición del tren Os 4521 en movimiento, con la mirada ya a la altura de las luces de cola, y seguía acelerando;
-◦inmediatamente se percató de la salida no autorizada del tren Os 4521;
-◦corrió hacia el puesto del JOP con consciencia de la urgencia temporal, en cuestión de segundos;
-◦vio que la ruta de entrada establecida para el tren Os 4516 estaba protegida por la posición del par de agujas 23/31, y que por tanto no estaba amenazada por la circulación no autorizada del tren Os 4521;
-◦lo más rápido posible quiso, en su apremio temporal, establecer comunicación con el maquinista del tren Os 4521, y para ello usó el canal n.º 27 de MRS, por el que con anterioridad transcurría la comunicación durante el tiempo de maniobras;
-◦simultáneamente observaba en el JOP la posición de todas las agujas, también de las de derivación, para determinar hacia dónde se dirigía, según su posición, la circulación no autorizada del tren Os 4521;
-◦según las indicaciones del JOP, el tren se dirigía hacia el desvío n.º Vk101 y de ahí a la vía de servicio;
-◦a continuación usó el GSM-R y para detener el tren la orden «alto, deténgase por todos los medios»;
-◦paralelamente, en las cámaras de aquella época, veía que el tren Os 4521 se encontraba detenido en la zona de entrada a la vía de servicio;
+◦desde el inicio, el turno transcurrió de forma estándar con un tráfico ocasionalmente más intenso en el ámbito de la estación y en el tramo de mando a distancia;
+◦en la última hora antes del origen de la MU hubo un tráfico intenso debido a la finalización de la intervención en la vía, incluidas maniobras con trenes de mercancías y composiciones de la compañía ARRIVA para el tren Os 4521;
+◦la comunicación con los maquinistas de ARRIVA la realizaba en el canal n.º 27 MRS, destinado a las maniobras con trenes de transporte de viajeros;
+◦tras finalizar todas las maniobras, estableció la vía de tren desde Hodonice hacia la 4.ª vía para el tren Os 4516;
+◦el arribo del tren Os 4516 lo preveía aproximadamente a la hora de salida del tren Os 4521;
+◦tras la indicación de la posición del tren Os 4516 en el monitor JOP ante la señal de entrada, se levantó del puesto de mando de la SZZ y se dirigió a la salida del DK hacia el andén para observar la entrada del tren Os 4516;
+◦aún desde la zona de la puerta del DK vio a través del vestíbulo acristalado la composición del tren Os 4521 en movimiento, con la mirada ya a la altura de las luces de cola, y seguía acelerando;
+◦de inmediato se percató de la salida no autorizada del tren Os 4521;
+◦corrió hacia el puesto de JOP con consciencia de la urgencia temporal en cuestión de segundos;
+◦vio que la vía de tren de entrada establecida para el tren Os 4516 estaba protegida por la posición del par de agujas 23/31, y por tanto no estaba amenazada por la circulación no autorizada del tren Os 4521;
+◦lo más rápido posible quiso, en la urgencia temporal, establecer comunicación con el maquinista del tren Os 4521, y para ello usó el canal n.º 27 MRS, por el que con anterioridad transcurría la comunicación durante el tiempo de maniobra;
+◦simultáneamente observaba en el JOP la posición de todas las agujas, también de las de apartadero, para determinar hacia dónde se dirigía, según su posición, la circulación no autorizada del tren Os 4521;
+◦según las indicaciones en el JOP, el tren se dirigía hacia la aguja de apartadero n.º Vk101 y posteriormente a la vía de servicio;
+◦a continuación usó el GSM-R y para detener el tren mediante «alto, deténgase por todos los medios»;
+◦paralelamente, en las cámaras veía en ese momento que el tren Os 4521 se encontraba detenido en la zona de entrada a la vía de servicio;
 ◦desde el punto de vista de las cámaras se apreciaba que la situación producida no amenazaba al tren entrante Os 4516, que inmediatamente después apareció en el encuadre de las cámaras;
 
-
 ## Página 21
+
 
 ◦todas las acciones descritas que realizaba las llevaba a cabo con una gran urgencia temporal;
 ◦a continuación le fue posible comunicar con el maquinista del tren Os 4521, el cual no era consciente ni de la circulación no autorizada junto a la señal L2 ni del descarrilamiento;
@@ -703,8 +703,8 @@ jefe de estación de Znojmo
 ◦el tren saliente Os 4521 lo detectó al ir, según lo previsto, hacia el tren contrario entrante, a través de la ventana de la oficina de tráfico, cuando divisó sus luces de cola;
 ◦no usó la parada de emergencia en la red GSM-R debido a la urgencia temporal y, en relación con la comunicación anterior en la red MRS, también por la experiencia previa de que los maquinistas estaban presentes en la red MRS. Eligió este método también porque, al mismo tiempo, podía realizar otras actividades importantes, como la comprobación de la posición de las agujas, la posición
 
-
 ## Página 22
+
 
 del tren contrario entrante, la posición del desvío de derivación en el depósito, donde esperaba la llegada de la composición de ČD;
 ◦en el pasado, en servicio, no había usado la función «Llamada de emergencia» en la red GSM-R, solo de forma de prueba;
@@ -727,6 +727,7 @@ Resumen de las declaraciones prestadas por otros testigos:
 ◦el tren de ARRIVA se aproximaba a la aguja n.º 101 y empezó a saltar el desvío. En ese momento se percató de que venía hacia él;
 
 ## Página 23
+
 
 ◦Quería asomarse a la ventanilla para dar también la señal manual «Alto, deténgase por todos los medios», pero la composición de ARRIVA ya había descarrilado con el primer bogie y se detuvo a unos 28 m del desviador de seguridad;
 ◦Bajó de su composición y fue a ver qué había ocurrido. El maquinista de ARRIVA asomó la cabeza por la ventanilla y le respondió que había visto la señal «40 km/h y vía libre»;
@@ -762,8 +763,8 @@ Transcripción de la comunicación del jefe de estación de la est. Znojmo – l
 | Jefedeestacióniniciodelallamadaverbaldurantelagrabación: 14:58:34h | 4521totalparadaduracióndelallamadaverbal2s) “ , . |
 | Jefedeestacióniniciodelallamadaverbaldurantelagrabación: 14:58:38h | Tren4521totalparadatren4521paradaduracióndelallamadaverbal3s) “ , , . |
 
-
 ## Página 24
+
 
 Jefe de estación inicio 
 «Tren 4521 s….(palabra completa no registrada, la codificación se activó antes de tiempo, duración de la llamada 
@@ -802,40 +803,41 @@ a que la línea regional 323D Břeclav – Znojmo es de vía única en todo su t
 el retraso en la llegada del tren Os 4516 a la est. Znojmo se reflejó en la salida programada 
 del tren Os 4521 desde la est. Znojmo.
 
-
 ## Página 25
 
-La descripción posterior de los hechos del accidente se completa con los tiempos ya corregidos con el tiempo exacto, que 
-la DI obtuvo del archivo de la grabación de vídeo desde el puesto del maquinista, del registrador de velocidad del tren Os 4521, del archivo del SZZ ESA 11 y del dispositivo de registro de la comunicación telefónica y radiofónica ReDat.
-A las 14:58:12 h, la cámara frontal en el puesto del maquinista del tren Os 4521 y los datos del registrador de velocidad de la HDV registraron la salida del tren por la 2.ª SK en dirección a la señal de salida L2. Del vídeo se aprecia la iluminación de la señal «Alto» en la señal mencionada y la señal «Alto» la indica también el símbolo de la señal L2 en el archivo del SZZ ESA 11. En el momento de la salida del tren Os 4521, circulaba en sentido contrario y con retraso el tren Os 4516, que se encontraba aún en el punto de influencia del dispositivo de seguridad de paso a nivel en el paso a nivel P7128, situado en el pk 
-23,670, en el segundo tramo de aproximación antes de la est. Znojmo. Simultáneamente se le había establecido una ruta de entrada de tren en la 4.ª SK.
-La puesta en movimiento no autorizada del tren Os 4521 fue registrada por el jefe de estación de la est. Znojmo, que entre las 14:58:25 h (inicio de la primera llamada verbal) y las 14:59:30 h (fin de la última llamada verbal) emitió 
-cinco llamadas verbales de parada dirigidas al maquinista a través del canal 27 
-de la red radiofónica MRS (detalles en los capítulos 3.1.9 y 4.1.1 de esta ZZ).
-El maquinista del tren Os 4521 no reaccionó a estas llamadas (según su declaración a la DI no las oyó) y a las 14:58:39 h hizo pasar la cabeza del tren junto a la señal L2 con la indicación «Alto». A las 14:58:47 h, durante la circulación no autorizada continuada, el tren liberó la 2.ª SK. A las 14:58:52 h, la circulación no autorizada del tren Os 4521 fue desviada por la posición final de la aguja n.º 23 hacia el recinto de la vía lateral. A las 14:58:58 h se produjo, a una velocidad de 46 km·h-1, el descarrilamiento al circular por el cuña de desvío del desviador de seguridad n.º Vk 101 en sentido contrario al de su desvío. 
-A las 14:59:04 h el tren Os 4521 se detuvo en estado descarrilado en el pk 100,565 en la vía lateral de ČD a. s. – Znojmo.
-### 3.2.2 Secuencia de hechos desde la producción del suceso excepcional hasta la finalización de las acciones de los servicios de rescate
-•
-15:02 h el jefe de estación de la est. Znojmo comunicó el SE al servicio de emergencia de la SŽ PO Břeclav;
-•
-15:08 h el jefe de estación de la est. Znojmo comunicó el SE al jefe de despachador del CDP Přerov;
-•
-15:10 h el jefe de estación de la est. Znojmo comunicó el SE al despachador de la infraestructura ferroviaria OŘ Brno;
-•
-15:20 h el jefe de despachador del CDP Přerov comunicó la producción del SE al HZS SŽ JPO Brno;
-•
-15:25 h el jefe de despachador del CDP Přerov comunicó el SE al Departamento 18 de la SŽ;
-•
-15:29 h la persona designada del Departamento 18 de la SŽ comunicó la producción del SE al puesto central de notificación de la DI;
-•
-15:36 h la Unidad HZS ČR Znojmo, en colaboración con los empleados de los operadores, evacuó a 85 personas a las zonas de la est. Znojmo reservadas a los pasajeros;
-•
-16:58 h inspección del lugar de producción del SE por parte de los empleados de la DI;
-•
-18:00 h el inspector de la DI presente autorizó la liberación de la vía;
+La descripción adicional de los acontecimientos en el suceso del accidente se completa con las horas tras la corrección con la hora exacta, que la DI obtuvo del archivo de la grabación de vídeo desde el puesto de conducción del maquinista, del registrador de velocidad del tren Os 4521, del archivo del SZZ ESA 11 y del dispositivo de registro de la comunicación telefónica y radiofónica ReDat.
 
+A las 14:58:12 h, la cámara frontal en el puesto de conducción del maquinista del tren Os 4521 y los datos del registrador de velocidad del HDV registraron la salida del tren por la 2.ª vía (SK) en dirección a la señal de salida L2. En la grabación de vídeo se aprecia la señalización «Alto» en la señal mencionada anteriormente, y el símbolo de la señal L2 en el archivo del SZZ ESA 11 también indica la señal «Alto». En el momento de la salida del tren Os 4521, el tren de sentido contrario y con retraso Os 4516 se encontraba aún en el punto de influencia del dispositivo de seguridad de paso a nivel en el paso a nivel P7128, situado en el km 23,670, en el segundo tramo de aproximación antes de la est. Znojmo. Al mismo tiempo, para él se había establecido la vía de tren de entrada en la 4.ª vía (SK).
+
+La puesta en movimiento no autorizada del tren Os 4521 fue registrada por el jefe de estación de la est. Znojmo, y en el período comprendido entre las 14:58:25 h (inicio de la primera llamada verbal) y las 14:59:30 h (fin de la última llamada verbal) realizó cinco llamadas orales de parada dirigidas al maquinista a través del canal 27 de la red radiofónica MRS (detalles en los capítulos 3.1.9 y 4.1.1 de esta ZZ).
+
+El maquinista del tren Os 4521 no respondió a estas llamadas (según su declaración a la DI, no las oyó) y a las 14:58:39 h hizo pasar la parte delantera del tren junto a la señal L2 con la señal «Alto». A las 14:58:47 h, durante la continuación de la circulación no autorizada, el tren liberó la 2.ª vía (SK). A las 14:58:52 h, la circulación no autorizada del tren Os 4521 fue dirigida mediante la posición final del desvío n.º 23 hacia el recinto de la vía industrial. A las 14:58:58 h se produjo, a una velocidad de 46 km·h-1, un descarrilamiento al circular por el cuña de desvío del descarrilador n.º Vk 101 en sentido contrario a su dirección de desvío.
+
+A las 14:59:04 h el tren Os 4521 se detuvo en estado descarrilado en el km 100,565 en la vía industrial de ČD a. s. – Znojmo.
+
+### 3.2.2 Secuencia de hechos desde la producción del suceso extraordinario hasta la finalización de las acciones de los servicios de rescate
+
+•
+15:02 h el jefe de estación de la est. Znojmo comunicó el SU a la guardia de accidentes de la SŽ PO Břeclav;
+•
+15:08 h el jefe de estación de la est. Znojmo comunicó el SU al jefe de despachador del CDP Přerov;
+•
+15:10 h el jefe de estación de la est. Znojmo comunicó el SU al despachador de infraestructura ferroviaria del OŘ Brno;
+•
+15:20 h el jefe de despachador del CDP Přerov comunicó la producción del SU al HZS SŽ JPO Brno;
+•
+15:25 h el jefe de despachador del CDP Přerov comunicó el SU al Departamento 18 de la SŽ;
+•
+15:29 h la persona designada del Departamento 18 de la SŽ comunicó la producción del SU al puesto central de notificación de la DI;
+•
+15:36 h la Unidad HZS ČR Znojmo, en colaboración con los empleados de las empresas de transporte, evacuó a 85 personas a las zonas de la est. Znojmo reservadas a los pasajeros;
+•
+16:58 h inspección del lugar de producción del SU por parte de los empleados de la DI;
+•
+18:00 h el inspector de la DI presente concedió la autorización para liberar la vía;
 
 ## Página 26
+
 
 •
 18:40 h restablecimiento de la circulación en la est. Znojmo en el sentido hacia la est. Olbramkostel interrumpido por el SE;
@@ -868,63 +870,57 @@ y obligaciones del gestor de la infraestructura, sin relación causal con la pro
 ## Página 27
 
 •
-art. 25 apartado 11 del reglamento interno SŽ D1:
-„Todo empleado debe velar por el cumplimiento estricto de las disposiciones del reglamento para la explotación de la vía y por la seguridad en la explotación de la vía y del transporte ferroviario, que tiene prioridad sobre todas las demás actividades. Si a los empleados les son conocidas circunstancias que pongan en peligro la seguridad de la explotación de la vía y del transporte ferroviario, deben adoptar de inmediato todas las medidas para evitar el peligro (p. ej., la parada de la explotación) e informar de ello sin demora al empleado superior.“;
+artículo 25 apartado 11 de la norma interna SŽ D1:
+"Todo empleado debe velar por el cumplimiento estricto de las disposiciones de la norma para la explotación de la vía y por la seguridad en la explotación de la vía y del transporte ferroviario, que tiene prioridad sobre todas las demás actividades. Si a los empleados les son conocidas circunstancias que ponen en peligro la seguridad de la explotación de la vía y del transporte ferroviario, deben adoptar de inmediato todas las medidas para evitar el peligro (p. ej., la parada de la explotación) e informar de ello sin demora al empleado superior.";
 •
-parte cuarta, capítulo III, art. 55 apartado 1 del reglamento interno SŽ Z11:
-„En caso de amenaza inmediata a la seguridad del tráfico ferroviario, especialmente si se ponen en peligro vidas humanas y existe riesgo de demora, deben realizarse las actividades conducentes a la parada de la explotación de HDV“;
+parte cuarta, capítulo III, artículo 55 apartado 1 de la norma interna SŽ Z11:
+"En caso de amenaza inmediata a la seguridad de la explotación ferroviaria, especialmente si se ponen en peligro vidas humanas y existe riesgo de demora, deben realizarse las actividades conducentes a la parada de la explotación de HDV";
 •
-parte cuarta, capítulo III, art. 55 apartado 3 del reglamento interno SŽ Z11:
-„Para la parada de la explotación en la zona de radio controlada GSM-R en las líneas donde no se ha implantado la explotación exclusiva ETCS L2 (nivel 2), debe utilizarse prioritariamente la orden G‑STOP desde GSM-R, destinada a la parada de todos los HDV al alcance de las BTS afectadas en la zona“.
-
-El transportista está obligado, conforme a las disposiciones de la Ley núm. 266/1994 Sb., entre otros, a explotar el transporte ferroviario de acuerdo con las reglas de explotación del transporte ferroviario, la licencia vigente y el contrato celebrado con el explotador de la vía sobre la explotación del transporte ferroviario en la vía, y, al explotar el transporte ferroviario, a regirse por las instrucciones del explotador de la vía impartidas al organizar el transporte ferroviario. Conforme a las disposiciones del decreto núm. 173/1995 Sb., el transportista está obligado a garantizar que el maquinista conduzca el DV únicamente desde el puesto desde el que exista la mejor visibilidad, por lo general desde la cabina delantera del maquinista en el sentido de la marcha, que desde el DV delantero observe la vía y las señales y actúe según los hechos constatados y detenga el tren de forma segura antes del lugar señalizado.
-
-A las 14:58:12 h el maquinista puso en movimiento el tren Os 4521, a pesar de que del registro de vídeo de la cámara situada en el frontal del HDV se evidencia la emisión de la señal „Stůj“ (Alto) en la señal L2. La señal „Stůj“ (Alto) indica en el citado tiempo también el símbolo de la señal L2 en el archivo SZZ ESA 11. El jefe de estación de la est. Znojmo, entre las 14:58:28 h y las 14:58:38 h, transmitió cinco llamadas verbales de parada dirigidas al maquinista a través del canal núm. 27 de la red de radio MRS, que el maquinista del tren Os 4521 no escuchó.
-
-Nota DI: durante la inspección del tren del Os 4521, la DI constató que la radio de a bordo estaba sintonizada en GSM-R y en el canal núm. 27 MRS. La radio base MRS y las llamadas de parada transmitidas por el jefe de estación de la est. Znojmo se estaban emitiendo, ya que las captó la radio de a bordo encendida del DV del transportista ČD, sintonizada en el canal núm. 27 MRS. El maquinista del tren Os 4521, que circulaba indebidamente, utilizó tras la MU la radio de a bordo y el canal núm. 27 MRS para comunicarse con el jefe de estación, con lo que se confirmó también el funcionamiento de la radio de a bordo del tren Os 4521. Por qué el maquinista no escuchó las llamadas de parada transmitidas, atendiendo al contenido de la declaración de explicaciones presentada en el capítulo 3.1.9 de la presente ZZ, no fue posible determinarlo.
-
-A las 14:58:39 h el tren Os 4521 pasó indebidamente junto a la señal L2 con la señal „Stůj“ (Alto). A las 14:58:52 h la circulación indebida continuada del tren Os 4521 fue encaminada, mediante la posición final del desvío núm. 23, al recorrido de la vía lateral, donde a las 14:58:58 h, a una velocidad de 46 km·h-1, se produjo un descarrilamiento al circular en sentido contrario al de su guía a través del cuña de guiado del descarrilador núm. Vk 101.
-
+parte cuarta, capítulo III, artículo 55 apartado 3 de la norma interna SŽ Z11:
+"Para la parada de la explotación en la zona de radio controlada GSM-R en las líneas donde no está implantada la explotación exclusiva ETCS L2 (nivel 2), debe utilizarse prioritariamente la orden G‑STOP desde GSM-R, destinada a la parada de todos los HDV al alcance de las BTS afectadas en la zona".
+El transportista está obligado, conforme a las disposiciones de la Ley n.º 266/1994 Sb., entre otros, a explotar el transporte ferroviario de acuerdo con las reglas de explotación del transporte ferroviario, la licencia vigente y el contrato celebrado con el explotador de la vía sobre la explotación del transporte ferroviario en la vía, y, al explotar el transporte ferroviario, a regirse por las instrucciones del explotador de la vía impartidas al organizar el transporte ferroviario. Conforme a las disposiciones del decreto n.º 173/1995 Sb., el transportista está obligado a garantizar que el maquinista conduzca el DV únicamente desde el puesto desde el que existe la mejor visibilidad, normalmente desde la cabina delantera del maquinista en el sentido de la marcha, que desde el mando del DV observe la vía y las señales y actúe según los hechos constatados y detenga el tren de forma segura antes del lugar señalizado.
+A las 14:58:12 h el maquinista puso en marcha el tren Os 4521, a pesar de que en la grabación de vídeo de la cámara situada en el frontal del HDV es visible la señalización de la señal "Alto" en la señal L2. La señal "Alto" indica, en el citado tiempo, también el símbolo de la señal L2 en el archivo SZZ ESA 11. El jefe de estación de la estación de Znojmo, entre las 14:58:28 h y las 14:58:38 h, transmitió cinco llamadas verbales de parada dirigidas al maquinista a través del canal n.º 27 de la red de radio MRS, que el maquinista del tren Os 4521 no escuchó.
+Nota DI: durante la inspección de la composición del tren Os 4521, la DI constató que la radio de a bordo estaba sintonizada en GSM-R y en el canal n.º 27 MRS. La radio base MRS y las llamadas de parada transmitidas por el jefe de estación de la estación de Znojmo se estaban emitiendo, ya que las captó la radio de a bordo encendida del DV del transportista ČD, sintonizada en el canal n.º 27 MRS. El maquinista del tren Os 4521, que circulaba indebidamente, utilizó después de la MU la radio de a bordo y el canal n.º 27 MRS para comunicarse con el jefe de estación, con lo que se confirmó también el funcionamiento de la radio de a bordo del tren Os 4521. Por qué el maquinista no escuchó las llamadas de parada que se le transmitían no pudo determinarse, atendiendo al contenido de la declaración de aclaraciones presentada en el capítulo 3.1.9 de la presente ZZ.
+A las 14:58:39 h el tren Os 4521 circuló indebidamente más allá de la señal L2 con la señal "Alto". A las 14:58:52 h, la circulación indebida continuada del tren Os 4521 fue dirigida, mediante la posición final del desvío n.º 23, al recorrido de la vía de la línea industrial, donde a las 14:58:58 h se produjo, a una velocidad de 46 km·h-1, un descarrilamiento al circular en sentido contrario al de enclavamiento del tronco de la aguja de descarrilamiento n.º Vk 101.
 
 ## Página 28
 
-A las 14:59:04 h el tren Os 4521 se detuvo en estado descarrilado en el pk 100,565 en la vía lateral de ČD a. s. – Znojmo.
-### Constataciones:
-En la investigación se constató la infracción de normativa legal y de reglamentos internos, relativos a las funciones
-### y obligaciones del transportista, en relación causal con la MU:
+A las 14:59:04 h el tren Os 4521 se detuvo en estado descarrilado en el pk 100,565 de la vía privada de ČD a. s. – Znojmo.
+### Hallazgos:
+En la investigación se constató la infracción de normas legales y normas internas relativas a las funciones y obligaciones del transportista, en relación causal con el MU:
 •
-§ 35 apartado 1 letra a) de la Ley núm. 266/1994 Sb.:
-„El transportista está obligado a explotar el transporte ferroviario de acuerdo con las reglas de explotación del transporte ferroviario, la licencia vigente y el contrato celebrado con el explotador de la vía sobre la explotación del transporte ferroviario en la vía,“;
+§ 35 apartado 1 letra a) de la Ley nº 266/1994 Sb.:
+"El transportista está obligado a explotar el transporte ferroviario de acuerdo con las reglas de explotación del transporte ferroviario, la licencia vigente y el contrato celebrado con el explotador de la vía sobre la explotación del transporte ferroviario en la vía,";
 •
-§ 35 apartado 1 letra f) de la Ley núm. 266/1994 Sb.:
-„El transportista está obligado a regirse, al explotar el transporte ferroviario, por las instrucciones del explotador de la vía impartidas al organizar el transporte ferroviario,“;
+§ 35 apartado 1 letra f) de la Ley nº 266/1994 Sb.:
+"El transportista está obligado a guiarse, al explotar el transporte ferroviario, por las instrucciones del explotador de la vía impartidas al organizar el transporte ferroviario,";
 •
-§ 46t apartado 1 letra a) de la Ley núm. 266/1994 Sb.:
-„La persona que conduce un vehículo ferroviario en la vía de ámbito estatal, regional o local o en una vía lateral debe detener el vehículo ferroviario a tiempo antes de la señal que prohíbe la circulación,“;
+§ 46t apartado 1 letra a) de la Ley nº 266/1994 Sb.:
+"La persona que conduce un vehículo ferroviario en una vía nacional, regional o local o en una vía privada debe detener el vehículo ferroviario a tiempo antes de la señal que prohíbe la circulación,";
 •
-§ 35 apartado 1 letra f) del decreto núm. 173/1995 Sb.:
-„Para la conducción de un vehículo ferroviario debe garantizarse que la persona que conduce el vehículo ferroviario observe, desde el vehículo ferroviario delantero, la vía y las señales y actúe según los hechos constatados,“;
+§ 35 apartado 1 letra f) del Decreto nº 173/1995 Sb.:
+"Para la conducción de un vehículo ferroviario debe garantizarse que la persona que conduce el vehículo ferroviario observe desde el vehículo ferroviario de mando la vía y las señales y actúe de acuerdo con los hechos constatados,";
 •
-§ 35 apartado 1 letra h) del decreto núm. 173/1995 Sb.:
-„Para la conducción de un vehículo ferroviario debe garantizarse que la persona que conduce el vehículo ferroviario ponga en movimiento el vehículo ferroviario motriz únicamente ante la señal „Odjezd“ (Salida) u otra autorización establecida por el explotador de la vía, o la señal correspondiente para el maniobrar en el sentido establecido, siempre que conozca el modo y el destino de la circulación,“;
+§ 35 apartado 1 letra h) del Decreto nº 173/1995 Sb.:
+"Para la conducción de un vehículo ferroviario debe garantizarse que la persona que conduce el vehículo ferroviario ponga en movimiento el vehículo ferroviario de tracción solo con la señal 'Salida' u otra autorización establecida por el explotador de la vía, o la señal correspondiente para el maniobrar en la dirección establecida, con la condición de que conozca la forma y el destino de la circulación,";
 •
-§ 35 apartado 1 letra m) del decreto núm. 173/1995 Sb.:
-„Para la conducción de un vehículo ferroviario debe garantizarse que la persona que conduce el vehículo ferroviario detenga el tren de forma segura antes del lugar señalizado,“;
+§ 35 apartado 1 letra m) del Decreto nº 173/1995 Sb.:
+"Para la conducción de un vehículo ferroviario debe garantizarse que la persona que conduce el vehículo ferroviario detenga el tren de forma segura antes del lugar señalizado,";
 •
-art. 1.1 del anexo núm. 1 al decreto núm. 173/1995 Sb.:
-„antes de la señal „Stůj“ (Alto) debe detenerse todo tren“;
+artículo 1.1 del anexo nº 1 del Decreto nº 173/1995 Sb.:
+"antes de la señal 'Alto' debe detenerse todo tren";
 •
-art. 90 apartado 2 del reglamento interno SŽ D1:
-„La señal Stůj (Alto) en la señal principal prohíbe la circulación del tren, las demás señales (excepto la señal Posun dovolen – Maniobra permitida) permiten la circulación del tren ...“;
+artículo 90 apartado 2 de la norma interna SŽ D1:
+"La señal Alto en la señal principal prohíbe la circulación del tren, las demás señales (excepto la señal Maniobra permitida) permiten la circulación del tren ...";
 •
-art. 90 apartado 3 del reglamento interno SŽ D1:
-„En la señal principal válida tanto para la circulación del tren como para el maniobrar, la señal Stůj (Alto) prohíbe la circulación del tren, del PMD o de la unidad de maniobra.“;
+artículo 90 apartado 3 de la norma interna SŽ D1:
+"En la señal principal válida tanto para la circulación del tren como para el maniobrar, la señal Alto prohíbe la circulación del tren, del PMD o de la unidad de maniobra.";
 •
-art. 91 apartado 1 del reglamento interno SŽ D1:
-„La señal Stůj (Alto) (luz roja) prohíbe al maquinista la circulación del tren (PMD). ...“;
-
+artículo 91 apartado 1 de la norma interna SŽ D1:
+"La señal Alto (luz roja) prohíbe al maquinista la circulación del tren (PMD). ...";
 
 ## Página 29
+
 
 •
 art. 329 apartado 1 del reglamento interno SŽ D1:
@@ -948,8 +944,8 @@ En el sentido del § 33 apartados 1 y 2 del decreto núm. 173/1995 Sb., debe gar
 
 La DI, en su constatación siguiente, se basa también en la literatura especializada (JUDr. Jaroslav Soušek, JUDr. Kamil Watras, Ing. Přemysl Herejk, Ing. Miroslav Stehlík: „Prováděcí předpisy k zákonu o dráhách 2 s komentářem“, editorial ANAG, 1995), que contiene, entre otros, la edición comentada del decreto núm. 173/1995 Sb.), la cual indica respecto al § 33 del decreto núm. 173/1995 Sb. que „Por reglas de explotación del transporte ferroviario en la vía se entienden las condiciones para el uso del vehículo ferroviario, para la conducción del vehículo ferroviario, para la formación y el frenado del tren, las condiciones de escolta del tren y las condiciones para la señalización de los vehículos ferroviarios con señales. Se trata, ante todo, de la regulación jurídica de las normas de conducta de las personas participantes en la explotación del transporte ferroviario, es decir, por lo general de los empleados del transportista, comunes a todos los tipos de vías. Las instrucciones detalladas para garantizar las distintas actividades en la explotación del transporte ferroviario se contienen en los procedimientos tecnológicos, que forman parte de los reglamentos internos del transportista. Estos procedimientos tecnológicos deben elaborarse para las distintas actividades laborales conforme a las disposiciones correspondientes de este decreto, en las que se delimita materialmente el objeto de la regulación exigida. Se trata de reglamentos internos que no tienen carácter jurídico de obligatoriedad general y cuyo cumplimiento se deriva de la relación laboral del empleado con el empleador (transportista).“ Y respecto al § 35 del decreto núm. 173/1995 Sb. indica que „Para la vía de ámbito estatal, la vía regional y la vía lateral se establecen las condiciones básicas para la conducción del vehículo ferroviario, que no están dirigidas directamente a la persona que conduce el vehículo ferroviario y cuyo cumplimiento debe garantizar el transportista
 
-
 ## Página 30
+
 
 en la persona que conduce el vehículo ferroviario en el marco de la relación laboral o de una relación análoga. Por ello es necesario que el transportista asuma estas obligaciones y, en su caso, las amplíe o precise según las condiciones locales en su reglamento interno y establezca el modo de control de su cumplimiento. El alcance de las condiciones conforme a esta disposición, sin embargo, debe respetarse siempre.“.
 
@@ -981,6 +977,7 @@ del decreto núm. 173/1995 Sb. con la disposición definitoria:
 
 ## Página 31
 
+
 «Para garantizar las actividades según el apartado 1 y para determinar la competencia profesional de las personas implicadas en la explotación del transporte ferroviario, si estas actividades las realizan empleados del operador, sirven los procedimientos tecnológicos uniformes contenidos en las normas internas del operador»;
 •
 § 35 apartado 1 letra p), q), s), t) del decreto n.º 173/1995 Sb.:
@@ -1006,8 +1003,8 @@ En el caso de este MU concreto es necesario relacionar la disposición anterior 
 •
 artículo 52 de la norma interna PERS 02 del operador ARRIVA:
 
-
 ## Página 32
+
 
 «El maquinista está obligado a requerir a las personas designadas por la norma PD 01 que, antes incluso de entrar en la cabina del vehículo de tracción, presenten para su control la autorización vigente de acceso o de circulación en la cabina de conducción del vehículo de tracción».
 ### 4.1.2 Entidades responsables del mantenimiento de los vehículos ferroviarios
@@ -1025,8 +1022,8 @@ Durante la investigación no se constató infracción de las funciones y obligac
 ### 4.1.7 Cualquier otra persona u entidad
 Las funciones y obligaciones de otras personas o entidades no guardaban relación con la ocurrencia del MU.
 
-
 ## Página 33
+
 
 ### 4.2 Vehículos ferroviarios y dispositivos técnicos
 4.2.1 Factores o consecuencias derivados de la construcción de los vehículos ferroviarios, de la infraestructura ferroviaria o de los dispositivos técnicos
@@ -1047,8 +1044,8 @@ El jefe de estación de la estación de Znojmo estaba habilitado profesional y m
 De las declaraciones del jefe de estación de la estación de Znojmo se desprende que, en el marco de su formación, no se realizó
  simulación de conducción del transporte ferroviario con la creación de una situación de crisis con la exigencia de su evaluación inmediata y correcta y, posteriormente, formación en la respuesta correspondiente a la amenaza inmediata para la explotación segura del transporte ferroviario con el fin de evitar
 
-
 ## Página 34
+
 
 la ocurrencia de MU o reducir sus consecuencias. A pesar de las BD ya emitidas (véase el capítulo 4.5 de esta II), no se produjo por parte del explotador de la vía SŽ su cumplimiento respecto al jefe de estación de la estación de Znojmo.
 Atendiendo a la declaración del jefe de estación y a su actuación en el momento en que registró la circulación no autorizada del tren Os 4521, el DI vuelve a remitirse a las BD anteriores, ya que también este MU es prueba de lo importante que es ensayar las respuestas de los empleados ante situaciones de crisis.
@@ -1076,6 +1073,7 @@ De las declaraciones del único jefe de estación de la estación de Znojmo en e
 en el momento de observar la entrada del tren Os 4516 en el punto de salida del DK al andén, a través de la puerta acristalada, advirtió el comienzo de la circulación no autorizada del tren Os 4521. Corrió inmediatamente desde la puerta de vuelta al puesto de JOP con conciencia de la urgencia temporal. Primero, mirando el monitor del JOP, comprobó que los trenes, dada la posición de los desvíos, no se pondrían en peligro mutuo y luego intentó establecer contacto lo más rápidamente posible mediante MRS con el tren Os 4521 y dio la orden de detención.
 
 ## Página 35
+
 
 Durante la investigación, el MU DI constató una discrepancia en la documentación interna del gestor de la infraestructura ferroviaria vigente en el momento de la ocurrencia del MU, a saber, el Reglamento de Servicio (SŘ) vigente para la estación de Znojmo y el plano de la estación de Znojmo. La discrepancia se refería al número de jefes de estación (výpravčí) en el turno. El SŘ indica un jefe de estación y el plano de la estación menciona un jefe de estación de servicio exterior y un jefe de estación de servicio interior.
 El hecho de que en el pasado esta situación la resolvieran dos jefes de estación, y atendiendo a la negligencia (ajena a la relación causal) del único jefe de estación en servicio el día de la ocurrencia del MU, indicada en el capítulo 4.4.1 de esta ZZ, llevó al DI a comenzar a verificar la situación real del número de jefes de estación en el turno y a recopilar documentación sobre esta cuestión.
@@ -1109,6 +1107,7 @@ documento denominado por el DI «Notas de los jefes de estación 2».
 documento «declaración de OŘ Brno sobre la decisión de reducir el número de jefes de estación en la oficina de tráfico de la estación de Znojmo», n.º de referencia 20740/2025-SŽ-OŘ-BNO-NŘP de fecha 18 de septiembre de 2025.
 
 ## Página 36
+
 
 ### A3. Documentación solicitada del periodo anterior a la racionalización, recibida del representante de la Dirección General de SŽ Praga:
 •
@@ -1149,8 +1148,8 @@ es responsable del equipamiento completo y actualizado de la bolsa de emergencia
 •
 en caso de necesidad, asume el desempeño del servicio de tráfico en la estación de Šatov».
 
-
 ## Página 37
+
 
 Jefe de estación de servicio interior:
 •
@@ -1180,8 +1179,8 @@ Las principales diferencias que, en nuestra opinión, no se tuvieron en absoluto
 ◦1. Amplias maniobras, de modo que incluso con los trenes de mercancías que figuran en las estadísticas como de tránsito, en el 99 % de los casos se realizan maniobras bastante extensas.
 ◦2. La necesidad de conversar con los jefes de estación y los maquinistas de ÖBB en alemán, lo que, ante las frecuentes incidencias (NAD, retrasos, acordar posiciones horarias adecuadas para los trenes de mercancías, órdenes, etc.), es un factor que aumenta notablemente la exigencia temporal y psíquica.
 
-
 ## Página 38
+
 
 ◦3. La propia configuración de la estación de Znojmo, que causa muchos problemas a la hora de resolver situaciones de tráfico (vías de tráfico utilizables muy cortas para la circulación de trenes Jihlava-Břeclav, paso a nivel muy transitado, frecuentes entradas y salidas del depósito, entrega complicada de órdenes, etc.).
 ◦4. La organización complicada del tráfico con ÖBB, en la que la circulación de trenes entre las estaciones de Šatov y Retz se garantiza mediante oferta, aceptación y despacho sin una indicación fiable de la disponibilidad de dicho tramo, la garantía del paso necesario de algunos trenes de mercancías en la estación de Šatov, etc.
@@ -1216,6 +1215,7 @@ Puesto de respaldo para DOZ Šatov;
 
 ## Página 39
 
+
 Seguimiento y garantía de las correspondencias en el marco del IDS-JMK (mapas);
 Introducción de datos en INISS (retrasos, interrupciones, otros avisos)".
 ### Documento "Observaciones sobre la reducción de personal prevista en la est. Znojmo":
@@ -1238,8 +1238,8 @@ Documento n.º de registro 20740/2025-SŽ-OŘ-BNO-NŘP de fecha 18. 9. 2025:
 "Declaración del OŘ Brno sobre la decisión de reducir el número de jefes de estación en la oficina de circulación de la est. Znojmo
 Carga del puesto de trabajo
 
-
 ## Página 40
+
 
 La tabla siguiente muestra la carga de trabajo de los jefes de estación en función del tipo de equipo de aseguramiento, la intensidad de la circulación y la cantidad de trabajo local. Para mayor claridad, se seleccionaron en el OŘ Brno estaciones comparables a la estación Znojmo en cuanto al número de unidades de rendimiento y que, al mismo tiempo, estén dirigidas por un solo jefe de estación. Otro aspecto de la carga del jefe de estación es la frecuencia de las llamadas.
 Como muestra representativa se seleccionó un día laborable (martes) en el intervalo horario de 6:00 – 18:00 h. La tabla anterior expresa el número de llamadas del jefe de estación en la hora dada. El mayor número de llamadas se realiza entre las 6 y las 7 de la mañana. A partir de ahí, la cantidad de llamadas disminuye.
@@ -1250,8 +1250,8 @@ Ergonomía del puesto de trabajo
 Para la posibilidad de reducir el número de jefes de estación en turno en la estación Znojmo fue necesario adoptar varias medidas, relacionadas especialmente con ajustes en la ergonomía del puesto de trabajo.
 Entre los ajustes más fundamentales se incluyen:
 
-
 ## Página 41
+
 
 •
 fusión de los monitores en una sola matriz;
@@ -1266,10 +1266,10 @@ La norma SŽ D1 permite no seguir un tren en su entrada, si le impide realizarlo
 Desde el 1 de noviembre de 2022 se produjo la transferencia progresiva de las actividades relacionadas con la redacción de instrucciones relativas a la formación de trenes a la circulación rutinaria en el puesto de trabajo CENTRO BRNO.
 El equipo de aseguramiento en vía ZG62 en el tramo Šatov – Retz y sus conexiones con el ESA en Šatov fue aprobado como plenamente funcional, de lo que se derivó la posibilidad de asegurar las circulaciones de trenes con este equipo y eliminar así la comunicación telefónica que duraba 13 años.
 Negociaciones con los jefes de estación y los socios sindicales:
-La cuestión de la medida de racionalización de los empleados de circulación de la est. Znojmo fue debatida a largo plazo con los jefes de estación afectados y posteriormente tratada el día 22. 11. 2022 
-
+La cuestión de la medida de racionalización de los empleados de circulación de la est. Znojmo fue debatida a largo plazo con los jefes de estación afectados y posteriormente tratada el día 22. 11. 2022
 
 ## Página 42
+
 
 con los representantes de la dirección del ÚŘP OŘ Brno, de la dirección del PO Břeclav, de un representante de OSŽ y de los jefes de estación de la est. Znojmo. En esta reunión se presentó la propuesta y se acordaron los pasos necesarios para llevar a cabo la mencionada racionalización.
 El acta de esta reunión, incluida la lista de asistencia, se adjunta a la presente declaración. Posteriormente, se convocó para el día 11. 1. 2023 una inspección local con el fin de definir los pasos necesarios para fusionar los dos puestos de trabajo existentes en uno solo.
@@ -1292,8 +1292,8 @@ el empleador no aportó ningún material de la época en que se decidió sobre l
 •
 la tabla de carga de los jefes de estación contiene datos del año 2025 y no de la época de la decisión sobre la racionalización;
 
-
 ## Página 43
+
 
 •
 los datos de la tabla son, según la declaración de los representantes del empleador, destinados prioritariamente a la clasificación salarial del jefe de estación;
@@ -1312,6 +1312,7 @@ En la investigación no se detectaron otros factores relacionados con la actuaci
 Las condiciones pertinentes del marco regulatorio están establecidas en los Reglamentos de la Unión Europea, en la Ley n.º 266/1994 Sb. y en los reglamentos de desarrollo.
 
 ## Página 44
+
 
 4.4.2 Procedimientos, métodos, contenido y resultados de las actividades de evaluación de riesgos y seguimiento que realiza cualquiera de los sujetos participantes
 
@@ -1341,8 +1342,8 @@ Del contenido seleccionado del SZB se desprende que el cambio organizativo, el c
 
 Como se indica en el capítulo 4.3.3 de la presente ZZ, la DI no recibió del empleador ningún dato del periodo de racionalización con mención del método y acreditación de los datos de la metodología empleada por él al elaborar la evaluación de la dificultad de las condiciones de trabajo para un solo jefe de estación en turno. Por tanto, no disponía de información alguna sobre las mediciones utilizadas para determinar
 
-
 ## Página 45
+
 
 los criterios que expresan el grado de carga psicológica, la probabilidad de riesgo para la salud y la comparación de la dificultad del régimen de trabajo de dos frente a un jefe de estación.
 
@@ -1355,8 +1356,8 @@ En la Fig. n.º 3 se muestra un gráfico que compara el número de itinerarios d
 
 Del gráfico se desprende que, en el periodo de realización de la reorganización, el número de maniobras realizadas aseguradas por la atención de la SZZ por el jefe de estación de žst. Znojmo (sin la entrega de desvíos auxiliares al operador) en la parte matutina del turno fue un 204 % mayor y un año después un 181 % mayor que en el día en que la DI realizó el seguimiento del trabajo del propio jefe de estación en septiembre de 2025. A pesar de que el gráfico
 
-
 ## Página 46
+
 
 muestra también valores de la mañana del 12. 3. 2025, cuando se produjo la MU, la DI no utilizó estos valores para la comparación, dada la actividad de corte de tráfico y la NAD. El número de itinerarios de tren es irrelevante en sus diferencias y no puede variarse significativamente en función de las capacidades de las vías.
 
@@ -1367,8 +1368,8 @@ En la Fig. n.º 4 se muestra un gráfico que compara el número de itinerarios d
 
 Del gráfico se desprende que, en el periodo de realización de la reorganización, el número de maniobras realizadas aseguradas por la atención de la SZZ por el jefe de estación de žst. Znojmo (sin la entrega de desvíos auxiliares al operador) en la parte vespertina del turno fue un 308 % mayor y un año después un 585 % mayor que en el día en que la DI realizó el seguimiento del trabajo del propio jefe de estación en septiembre de 2025. La DI no utilizó los valores de la tarde del 12. 3. 2025, dada la influencia de la aparición de la MU en el tráfico. El número de itinerarios de tren es irrelevante en sus diferencias y no puede variarse significativamente en función de las capacidades de las vías. A ambos gráficos mencionados cabe añadir que, debido a la gran diferencia en el número de maniobras realizadas por el jefe de estación de žst. Znojmo, también debió existir una gran diferencia en el número de otras operaciones realizadas durante el servicio, principalmente en la atención de la MRS para el cumplimiento de las obligaciones previas a la autorización de cada maniobra.
 
-
 ## Página 47
+
 
 Además, el jefe de estación debía realizar el seguimiento estándar de los trenes, la atención del conmutador telefónico, asegurar las posibles órdenes con cambios de parámetros de la vía y transmitir dichas órdenes a los maquinistas, realizar llamadas mediante el teléfono móvil de servicio, tratar personalmente con los representantes de los operadores y otras personas y colaborar en el mantenimiento de la infraestructura del gestor de la infraestructura. La DI dispone de estos datos del 24. y 25. 9. 2025, pero no tiene la posibilidad de compararlos, véase el capítulo 4.3.3 de la presente ZZ.
 ### La DI no recibió ningún documento que haya evaluado el cambio de naturaleza organizativa del sistema ferroviario, relativo al subsistema de estructuras de mando y explotación, respectivamente ejecutivas, del gestor de la infraestructura, y lo haya identificado como fuente de peligro. O, en caso contrario, que haya aplicado al peligro identificado el proceso de gestión de riesgos definido en el anexo I del REGLAMENTO DE EJECUCIÓN DE LA COMISIÓN (UE) n.º 402/2013, de 30 de abril de 2013, relativo al método común de seguridad para la evaluación y la gestión de riesgos y por el que se deroga el Reglamento (CE) n.º 352/2009.
@@ -1388,33 +1389,25 @@ SZB – parte «M. Procedimientos y métodos de evaluación de riesgos y adopci�
 ### su puesta en servicio... de cambios en la organización del trabajo. El proceso de evaluación de riesgos determina las distintas medidas de seguridad posibles que podrían adoptarse bien para eliminar el riesgo o para gestionar el riesgo hasta un nivel aceptable. Estas medidas de seguridad pueden ser técnicas, de explotación u organizativas. La eficacia de las medidas de seguridad puede evaluarse de forma cuantitativa o cualitativa».
 ### «Los riesgos se buscan y actualizan de forma continua durante... la aplicación de cambios organizativos sobre la base de los conocimientos y la experiencia adquiridos en el uso, de las incidencias ocurridas y de los accidentes. Asimismo, se evalúan y valoran los riesgos que podrían surgir en las interfaces con la operación humana y con las instalaciones y vehículos ferroviarios utilizados durante la explotación y el mantenimiento.
 
-
 ## Página 48
 
-### 4.4.3 Sistema de garantía de seguridad de los operadores y gestores de infraestructura participantes
-
-En el gestor de la infraestructura SŽ se constató una deficiencia en la no evaluación de la posible aparición de peligros y riesgos antes de la implantación del cambio organizativo consistente en la reducción del número de jefes de estación en servicio en la žst. Znojmo. Esta cuestión se analiza en los capítulos 4.3.3 y 4.4.2 de la presente ZZ.
-
-En el operador ARRIVA se constató una deficiencia en la no incorporación de las obligaciones establecidas en el § 33 apartados 1 y 2 y § 35 apartado 1 del decreto n.º 173/1995 Sb., al no haberse establecido para los maquinistas todas las obligaciones, respectivamente, no haberse incluido en los procedimientos tecnológicos uniformes del operador las que se derivan de dichas disposiciones. Esta cuestión se analiza en el capítulo 4.1.1 de la presente ZZ.
+### 4.4.3 Sistema de garantía de la seguridad de los transportistas y gestores de infraestructura participantes
+En el gestor de infraestructura SŽ se detectó una deficiencia en la no evaluación de la posible aparición de peligros y riesgos antes de la introducción de un cambio organizativo consistente en la reducción del número de jefes de estación en servicio en la est. Znojmo. Esta cuestión se analiza en los capítulos 4.3.3 y 4.4.2 de la presente ZZ.
+En el transportista ARRIVA se detectó una deficiencia en la no incorporación de las obligaciones establecidas en el § 33 apartado 1 y apartado 2 y el § 35 apartado 1 del decreto nº 173/1995 Sb., al no haberse establecido a los maquinistas todas las obligaciones, es decir, no se habían incluido en los procedimientos tecnológicos uniformes del transportista derivados de dichas disposiciones. Esta cuestión se analiza en el capítulo 4.1.1 de la presente ZZ.
 ### 4.4.4 Sistema de gestión de los sujetos responsables del mantenimiento de los vehículos ferroviarios y de los talleres de mantenimiento
-
-El sistema de gestión de los sujetos responsables del mantenimiento de los vehículos ferroviarios y de los talleres de mantenimiento no guardaba relación con la aparición de la MU.
+El sistema de gestión de los sujetos responsables del mantenimiento de los vehículos ferroviarios y de los talleres de mantenimiento no guardaba relación con la aparición del MU.
 ### 4.4.5 Resultados de la supervisión realizada por las autoridades nacionales de seguridad
-
-En relación con los factores y circunstancias constatados de la aparición de la MU, la supervisión de la autoridad de seguridad no guarda relación con la MU en cuestión.
+En vista de los factores y circunstancias detectados relativos a la aparición del MU, la supervisión de la autoridad de seguridad no guarda relación con el MU en cuestión.
 ### 4.4.6 Aprobaciones, certificados y informes de evaluación emitidos por la agencia, las autoridades nacionales de seguridad u otros sujetos de evaluación de la conformidad
-
-El gestor de la infraestructura explotaba la vía en virtud de la autorización administrativa vigente y del certificado de seguridad del gestor de la infraestructura. El operador explotaba el transporte ferroviario en virtud de la licencia vigente y del certificado del operador.
+El gestor de infraestructura explotaba la infraestructura en virtud de una autorización administrativa vigente y de un certificado de seguridad del gestor de infraestructura. El transportista explotaba el transporte ferroviario en virtud de una licencia vigente y de un certificado del transportista.
 ### 4.4.7 Otros factores sistémicos
-
-En la investigación no se constataron otros factores sistémicos.
+En la investigación no se detectaron otros factores sistémicos.
 ### 4.5 Sucesos anteriores de naturaleza similar
-
-La DI, en el periodo desde el 1. 1. 2019 hasta la aparición de la MU en cuestión, registra en las vías ferroviarias, categoría nacional y regional, un total de 173 MU similares, cuya causa de aparición fue la puesta en movimiento no autorizada de un tren con transporte de pasajeros – salida no autorizada del tren del espacio destinado al desembarque y embarque de pasajeros, seguida de la circulación no autorizada de dichos trenes más allá de la señal principal con la indicación «Alto», en estaciones donde la orden de salida del tren la da el jefe de estación al maquinista mediante la colocación de la señal principal en la indicación que permite la circulación. De este número, posteriormente se produjo en 3 casos una colisión de DV y en 4 casos un descarrilamiento de DV. Como consecuencia de estas circulaciones no autorizadas se produjo la muerte de 1 persona y 36 personas resultaron heridas. El daño total ascendió a 313 545 692 Kč.
-
-La DI no registra en el periodo anteriormente indicado en la žst. Znojmo ninguna MU similar en la que se hubiera producido la circulación no autorizada de un tren más allá de la señal principal con la indicación «Alto».
+El DI, en el período comprendido entre el 1. 1. 2019 y la aparición del MU en cuestión, registra en las vías ferroviarias, categoría nacional y regional, un total de 173 MU similares, cuya causa de aparición fue la puesta en movimiento no autorizada de un tren con transporte de pasajeros – salida no autorizada del tren del espacio destinado al desembarque y embarque de pasajeros, seguida de la circulación no autorizada de dichos trenes más allá de la señal principal con la señal «Alto», en estaciones donde la orden de salida del tren la da el jefe de estación al maquinista mediante la colocación de la señal principal en la señal que permite la circulación. De este número, se produjo posteriormente una colisión de DV en 3 casos y un descarrilamiento de DV en 4 casos. Como consecuencia de estas circulaciones no autorizadas, se produjo la muerte de 1 persona y 36 personas resultaron con lesiones. El daño total ascendió a 313 545 692 Kč.
+El DI, en el período anteriormente indicado, no registra en la est. Znojmo ningún MU similar en el que se hubiera producido la circulación no autorizada de un tren más allá de la señal principal con la señal «Alto».
 
 ## Página 49
+
 
 En relación con lo anterior, es necesario mencionar que la DI, de conformidad con lo dispuesto en el apartado 3 del § 53e de la Ley núm. 266/1994 Sb., envió el día 5. 4. 2022 al DÚ el «Informe final sobre los resultados de la investigación del suceso extraordinario», que tuvo lugar el día 6. 5. 2021 a las 12:35 h en la estación de Roztoky u Praha, en el nivel de la señal L1 en el km 421,938. El informe final contenía recomendaciones de seguridad para el DÚ, en las que la DI recomendó, con miras a la prevención de sucesos extraordinarios (nota de la DI: las recomendaciones de seguridad mencionadas anteriormente contienen también informes finales sobre sucesos extraordinarios posteriores en la estación Praha Masarykovo nádraží y en la estación Chodov):
 •
@@ -1431,8 +1424,8 @@ puesta en movimiento no autorizada del tren Os 4521 y no respeto de la señal «
 No fue detectado ningún factor contribuyente por la Inspección Ferroviaria.
 No fue detectada ninguna causa sistémica por la Inspección Ferroviaria.
 
-
 ## Página 50
+
 
 ### Resumen del análisis y conclusiones relativas a las causas del suceso
 Factor causal:
@@ -1464,8 +1457,8 @@ el transportista ferroviario ARRIVA debatió el suceso en una reunión de la dir
 
 El operador de la infraestructura del apartadero ČD, a. s. – Znojmo no adoptó ninguna medida.
 
-
 ## Página 51
+
 
 ### 5.3 Hallazgos complementarios
 En el operador de la infraestructura SŽ:
@@ -1500,8 +1493,8 @@ No se detectó nada en el operador de la infraestructura del apartadero ČD, a. 
 ### 6 RECOMENDACIONES DE SEGURIDAD
 Atendiendo a las causas y circunstancias detectadas de la aparición del suceso extraordinario, la DI no emite recomendaciones de seguridad, porque no se han detectado datos que justificasen la emisión de una recomendación de seguridad en el marco de la prevención de la aparición de sucesos extraordinarios.
 
-
 ## Página 52
+
 
 ### RECOMENDACIONES DE SEGURIDAD
 La Inspección Ferroviaria no emite ninguna recomendación de seguridad en relación con las causas y circunstancias detectadas, porque no hemos detectado datos que justificasen la emisión de una recomendación de seguridad en el marco de la prevención de sucesos.
@@ -1519,8 +1512,8 @@ Certificado del autor de la firma:
 Nombre: Inspección Ferroviaria
 Emitido por: PostSignum Qualified CA 4
 
-
 ## Página 53
+
 
 ### ANEXOS
 Fig. núm. 5: Extremo trasero del tren Os 4521 después de la detención
@@ -1528,8 +1521,8 @@ Fig. núm. 5: Extremo trasero del tren Os 4521 después de la detención
 Fig. núm. 6: Desviador dañado núm. Vk101
          Fuente: DI
 
-
 ## Página 54
+
 
 Fig. núm. 7: Vista del primer bogie descarrilado en el sentido de circulación del tren Os 4521
            Fuente: DI

@@ -10,13 +10,14 @@ chars: 95154
 ratio_longitud: 1.29
 tokens_in: 43267
 tokens_out: 30430
-verificacion: revisar
-notas_cifras: ["bloque 1: original bilingüe: se compara contra el idioma principal (EN)", "bloque 2: original bilingüe: se compara contra el idioma principal (CS)", "bloque 3: original bilingüe: se compara contra el idioma principal (CS); cifras cortas: 4/74", "bloque 4: cifras cortas: 2/80", "bloque 5: original bilingüe: se compara contra el idioma principal (CS); cifras cortas: 3/50", "bloque 6: cifras cortas: 6/63"]
-avisos: ["bloque 3: ratio 1.80", "bloque 5: ratio 1.75", "bloque 11: ratio 1.67"]
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 5: original bilingüe: se compara contra el idioma principal (EN)", "página 6: original bilingüe: se compara contra el idioma principal (CS)", "página 7: original bilingüe: se compara contra el idioma principal (CS)", "página 9: cifras cortas: 1/19", "página 10: cifras cortas: 3/52"]
 ---
+
 ## Página 1
+
 
 Inspección Ferroviaria
 República Checa
@@ -43,11 +44,12 @@ N.º de identificación de la empresa (IČO): 75009561
 http://www.dicr.cz
 fax: (+420) 224 805 428
 
-
 ## Página 2
 
 
+
 ## Página 3
+
 
 # RESUMEN
 Grado:
@@ -77,11 +79,12 @@ Causa raíz:
 no investigada
 Recomendaciones: no emitidas
 
-
 ## Página 4
 
 
+
 ## Página 5
+
 
 # Índice
  Resumen .............................................................................................................................3
@@ -119,6 +122,7 @@ contractual ....................................................................
 
 ## Página 6
 
+
 3.1.2 Otras personas .........................................................................................................17
 3.2 Sistema de garantía de la seguridad ...............................................................................17
 3.2.1 Estructura organizativa general y forma en que se emiten y ejecutan las instrucciones .......17
@@ -148,8 +152,8 @@ contractual ....................................................................
 ............................................................................................................................27
 4.2 Análisis ......................................................................................................................29
 
-
 ## Página 7
+
 
 4.2.1 Evaluación de los hechos constatados en el punto 3 y presentación de conclusiones sobre la causa del incidente y la actuación de los servicios de rescate ..........................................29
 4.3 Conclusiones .......................................................................................................................31
@@ -169,10 +173,12 @@ contractual ....................................................................
  Foto 4: Topes de vía St 2 de la estación de Čelákovice ...........................................................35
  Foto 5: Cambiante eléctrico destruido .................................................................36
 
-
 ## Página 8
 
+
+
 ## Página 9
+
 
 ## 1 RESUMEN
 Grupo de acontecimientos:
@@ -207,8 +213,8 @@ Causas en el sistema de seguridad:
 no detectadas
 No se emitió ninguna recomendación de seguridad por parte de la Inspección Ferroviaria.
 
-
 ## Página 10
+
 
 ## 2 DATOS RELATIVOS AL ACONTECIMIENTO EXTRAORDINARIO
 ### 2.1 Acontecimiento extraordinario
@@ -245,42 +251,37 @@ cualificadas y método de dirección de la investigación de las causas y las ci
 La producción del AE se notificó a la Inspección Ferroviaria (en adelante, IF) en la Central de Notificaciones (en adelante, 
 COP) a las 7:47 horas por parte de un empleado del explotador.
 
-
 ## Página 11
 
-A las 7:50 horas, el inspector jefe (en adelante, IH) de la COP decidió la salida y el inicio de la investigación 
-de las causas y las circunstancias en el lugar de producción del AE. La investigación de las causas y las circunstancias de la producción del AE fue encomendada al IH de la Inspección Territorial de Praga. Posteriormente, el Inspector General de la IF envió a otro IH de la Inspección Territorial de Praga al lugar de producción del AE.
-La propia investigación de las causas y las circunstancias de la producción del AE fue realizada por la IF de conformidad con el artículo 53, letra b), de la ley n.º 266/1994 Coll., sobre las vías férreas, en su versión vigente (en adelante, ley) y los artículos 11 y 12 
-del decreto n.º 376/2006 Coll., sobre el sistema de seguridad de la explotación de las vías férreas y el transporte ferroviario 
-y los procedimientos en caso de producción de acontecimientos extraordinarios en las vías férreas (en adelante, decreto n.º 376).
-El método de actuación para la investigación de las causas y las circunstancias de la producción del AE se determinó de forma operativa según el desarrollo de la investigación, incluida la utilización de consultas con otras personas cualificadas de la IF. Durante la investigación se partió de los conocimientos propios, de las constataciones en el lugar del AE y, además, de la documentación elaborada por el explotador de la vía y del transporte ferroviario, incluidas las actas con los empleados participantes.
-### 2.2 Circunstancias del acontecimiento extraordinario
-### 2.2.1 Empleados participantes del explotador de la vía y del transportista, personas en relación contractual y otros participantes y testigos
+A las 7:50 horas el inspector superior (en adelante, VI) de la COP decidió el desplazamiento y el inicio de la investigación de las causas y circunstancias en el lugar de origen del SU. La investigación de las causas y circunstancias del origen del SU fue encomendada al VI del Inspectorado Territorial de Praga. Por el Inspector General de la DI fue enviado posteriormente al lugar de origen del SU otro VI del Inspectorado Territorial de Praga.
+La propia investigación de las causas y circunstancias del origen del SU fue realizada por la DI de conformidad con el § 53, letra b), de la ley nº 266/1994 Sb., de ferrocarriles, en su versión vigente (en adelante, la ley) y con los §§ 11 y 12 del decreto nº 376/2006 Sb., sobre el sistema de seguridad de la explotación del ferrocarril y del transporte ferroviario y los procedimientos en caso de ocurrencia de sucesos excepcionales en los ferrocarriles (en adelante, el decreto nº 376). El modo de proceder en la investigación de las causas y circunstancias del origen del SU fue determinado de forma operativa según la evolución de la investigación, incluido el uso de consultas con otras personas profesionalmente competentes de la DI. En la investigación se partió de los propios conocimientos, de los hallazgos en el lugar del SU y, asimismo, de la documentación elaborada por el explotador del ferrocarril y del transporte ferroviario, incluidas las actas con los empleados participantes.
+### 2.2 Circunstancias del suceso excepcional
+### 2.2.1 Empleados participantes del explotador del ferrocarril y del transportista, personas en relación contractual y demás participantes y testigos
 Empleados participantes del explotador:
-el maquinista del tren Os 9407, empleado de ČD, a. s., del Depósito de Vehículos sobre Ruedas (en 
+maquinista del tren Os 9407, empleado de ČD, a. s., Depósito de material rodante (en adelante
 ●
-adelante, DVR) de Praga;
-el despachador de la est. fer. de Čelákovice, empleado de ČD, a. s., de la est. fer. de nudo de Praga;
+DKV) de Praga;
+jefe de estación de la est. Čelákovice, empleado de ČD, a. s., estación nodal de Praga;
 ●
-el señalista del conmutador St 2 de la est. fer. de Čelákovice, empleado de ČD, a. s., de la est. fer. de nudo de Praga;
+señalero del puesto de enclavamiento St 2 de la est. Čelákovice, empleado de ČD, a. s.,
 ●
-el técnico de señales, empleado de ČD, a. s., de la Administración de la Vía de Transporte de Praga;
+estación nodal de Praga;
+técnico de señalización, empleado de ČD, a. s., Dirección de la vía de Praga;
 ●
-2.2.2 Trenes y su composición, incluidos los números de registro de cada vehículo ferroviario
-La est. fer. de origen del tren Os 9407 fue la est. fer. de Praga Masarykovo nádraží y la est. fer. de destino Kolín. El tren 
-estaba destinado al transporte de viajeros, tenía una longitud de 79 metros, 12 ejes y un peso de 180 toneladas. El tren 
-estaba frenado de la I.ª manera, el porcentaje de frenado normativo necesario era del 103 %, el porcentaje de frenado real era del 140 %. La UME estaba compuesta por 3 vehículos ferroviarios (en adelante, VF) en la siguiente composición:
-coche piloto 971.032-8, propietario ČD, a. s., en el estado de registro del DVR de Praga, incluido como 
+2.2.2 Trenes y su composición, incluidos los números de registro de cada uno de los vehículos ferroviarios
+La estación de origen del tren Os 9407 era la est. Praha Masarykovo nádraží y la estación de destino Kolín. El tren estaba destinado al transporte de pasajeros, tenía una longitud de 79 metros, 12 ejes, una masa de 180 toneladas. El tren estaba frenado por el método I, normativo de porcentajes de frenado necesarios 103, porcentajes de frenado reales 140. La EMJ estaba compuesta por 3 vehículos ferroviarios (en adelante, DV) con la siguiente composición:
+coche de mando 971.032-8, propietario ČD, a. s., en situación de registro del DKV de Praga,
 ●
-primero;
-coche intercalado 071.032-7, propietario ČD, a. s., en el estado de registro del DVR de Praga, incluido 
+incluido como primero;
+coche intercalado 071.032-7, propietario ČD, a. s., en situación de registro del DKV de Praga,
 ●
-como segundo;
-coche eléctrico 471.031-5, propietario ČD, a. s., en el estado de registro del DVR de Praga, incluido 
+incluido como segundo;
+coche eléctrico 471.031-5, propietario ČD, a. s., en situación de registro del DKV de Praga,
 ●
-como tercero.
+incluido como tercero.
 
 ## Página 12
+
 
 ### 2.2.3 Descripción de los componentes de la vía de circulación ferroviaria, del sistema de seguridad (es decir, en particular del estado de las vías, de los puntos de vía, de los cuadros de mando, de las señales y del equipo de seguridad a bordo)
 
@@ -306,8 +307,8 @@ El punto de vía n.º 17a en dirección recta, el cierre de gancho estaba cerrad
 
 El punto de vía n.º 22 estaba en dirección recta, la aguja izquierda adherida al riel, el cierre de ● gancho estaba cerrado. Se detectó la aguja derecha golpeada. El motor de maniobra estaba en la posición final de más. En la placa de vía, indicación con luz verde. El conmutador del punto de vía n.º 20a/22 en posición más a la izquierda. En la sala de relés del bloque Vt P64/91, revisión 11.12.2007, se había tirado el relé KP y DP, el interruptor automático activado y el fusible de corte intacto.
 
-
 ## Página 13
+
 
 La posición del punto de vía n.º 20a1 en dirección derivada, el cierre de gancho no estaba cerrado. ● El motor de maniobra estaba destruido. En la caja del conmutador no hay indicación y la luz roja está encendida. El conmutador del punto de vía n.º 20a/22 en posición más a la izquierda. En la sala de relés del bloque Vt P209/91, revisión 4.1.2005, se había tirado el relé SP, el interruptor automático activado, el fusible de corte intacto.
 
@@ -337,85 +338,61 @@ Tras la fuerte lluvia del 1 de junio de 2008, se inundaron los puntos de vía en
 
 ## Página 14
 
-### 2.2.6 Activación del plan para situaciones de emergencia en la vía y secuencia de los hechos
-
-Tras la notificación de la aparición de la IE (Incidente/Excepción), el despachador de tráfico, siguiendo el Plan de Notificación del operador, procedió conforme a lo establecido. La aparición de la IE fue notificada al jefe de turno del Centro Regional de Tráfico de Praga, a la Policía de la República Checa, al VI (Inspector) del VI (Sexto) Inspector Regional de Seguridad del Transporte Ferroviario de Praga de ČD, a. s. (en adelante, RIBŽD), quien notificó la aparición de la IE en el COP DI a las 7:47 horas. El VI del COP DI notificó a las 7:50 horas la aparición de la IE a la Inspección Territorial de Praga.
-
-La IE fue notificada a la DI (Dirección de la Industria/Departamento de Inspección) por parte de la DI en el sentido del Decreto n.º 376 sin demora innecesitaria, inmediatamente después de conocer los hechos necesarios para la notificación inicial. Para la investigación de las causas y circunstancias de la aparición de la IE, en nombre del operador fueron autorizados tres inspectores del RIBŽD, personas autorizadas y con competencia profesional.
-
-Se respetó el procedimiento establecido en el plan de notificación de ČD, a. s.
-
-Tras la inspección del lugar de la IE por parte de la Policía de la República Checa, el RIBŽD y los inspectores de la DI presentes, el 6 de junio de 2008 a las 11:30 horas se otorgó a la DI el consentimiento para iniciar las labores de desescombro.
-
-En el lugar de la IE se aseguraron los documentos de tráfico y se obtuvieron los datos del velocígrafo electrónico para evaluar la evolución del viaje antes de la aparición de la IE.
-
-El maquinista del tren Os 9407 y el señalista del puesto de señalización 2 fueron sometidos a una prueba de alcoholímetro con resultado negativo. Las actas forman parte del expediente.
-
-Para la eliminación de las consecuencias de la IE se utilizaron los medios auxiliares de accidente de DKV Praga de ČD, a. s., con la asistencia de HZS ČD, a. s.
-
-### 2.2.7 Activación del plan del sistema integrado de rescate, la policía y el servicio de rescate sanitario, y secuencia de los hechos
-
-La IE fue notificada al sistema integrado de rescate por el despachador de tráfico de la estación de Čelákovice, conforme al Decreto n.º 376.
-
-En el lugar intervinieron HZS JPO Praga de ČD, a. s. y la Policía de la República Checa. No fue necesario activar el servicio rápido de rescate sanitario.
-
-### 2.3 Muertes, lesiones y daños materiales
-
-2.3.1 En viajeros y terceros, empleados del operador de la infraestructura y del transportista, incluidas las personas en relación contractual
-
-No hubo ninguna muerte durante la IE, ni lesiones a la salud de los viajeros, empleados del operador ni de otras personas durante la IE.
-
-### 2.3.2 En mercancías transportadas, equipajes y otros bienes
-
-No se detectaron daños en las mercancías transportadas, equipajes ni otros bienes.
-
+### 2.2.6 Activación del plan para el caso de una incidencia en la vía y secuencia de acontecimientos
+Tras la notificación de la incidencia (MU) por parte del señalizador de la estación de enclavamiento St 2, el jefe de estación actuó conforme al Cuadro de notificaciones del explotador. La incidencia fue notificada al jefe de turno del Centro Regional de Explotación de Praga, a la Policía de la República Checa. El VI del Inspectorado Regional de Seguridad del Transporte Ferroviario de Praga de ČD, a. s., (en adelante RIBŽD) notificó la incidencia al COP DI a las 7:47 horas. El VI COP DI notificó la incidencia al Inspectorado Territorial de Praga a las 7:50 horas.
+La incidencia fue notificada a la DI en el sentido del decreto n.º 376 sin demora innecesaria, inmediatamente después de conocer los hechos necesarios para la notificación inicial. Por parte del explotador, fueron designados para la investigación de las causas y circunstancias de la incidencia tres VI del RIBŽD, personas designadas y profesionalmente competentes. Se cumplió el procedimiento conforme al cuadro de notificaciones de ČD, a. s.
+Tras la inspección del lugar de la incidencia por la Policía de la República Checa, el VI del RIBŽD y los VI de la DI presentes, el día 6. 6. 2008 a las 11:30 horas se concedió a la DI el permiso para iniciar los trabajos de limpieza.
+En el lugar de la incidencia se aseguró la documentación de tráfico y se obtuvieron datos del registrador de velocidad electrónico para evaluar el desarrollo de la marcha antes de la incidencia.
+El maquinista del tren Os 9407 y el señalizador de la estación de enclavamiento 2 fueron sometidos a la prueba de alcoholemia con resultado negativo. Las anotaciones forman parte del expediente.
+Para eliminar las consecuencias de la incidencia se utilizaron medios auxiliares de accidente del DKV Praga de ČD, a. s., con la asistencia del HZS de ČD, a. s.
+### 2.2.7 Activación del plan del sistema integrado de rescate, policía y servicio de emergencias médicas y secuencia de acontecimientos
+La incidencia fue notificada al sistema integrado de rescate conforme al decreto n.º 376 por el jefe de estación de Čelákovice.
+En el lugar actuaron el HZS JPO Praga de ČD, a. s., y la Policía de la República Checa. No fue necesario activar el servicio de emergencias médicas.
+### 2.3 Fallecimientos, lesiones y daños materiales
+2.3.1 En pasajeros y terceras personas, empleados del explotador de la vía y del transportista, incluidas personas en relación contractual
+En la incidencia no falleció nadie, y no se produjo ningún daño a la salud de pasajeros, empleados del explotador ni de otras personas en la incidencia.
+### 2.3.2 En objetos transportados, equipaje y otros bienes
+No se detectaron daños en objetos transportados, equipaje y otros bienes.
 ### 2.3.3 En vehículos ferroviarios, componentes de la vía y en el medio ambiente
-
-Mediante la inspección comisionada de los vehículos ferroviarios descarrilados y dañados (EMJ) realizada el 17 de junio de 2008 por DKV Praga, Centro de Trabajo de Praga Libeň, se determinó:
-
-*   los costes de reparación del vehículo ferroviario motorizado 471.031-5 se estimaron en 2 300 000,- Kč.
-*   los costes de reparación del vehículo ferroviario 071.032-7 se estimaron en 1 850 000,- Kč.
+De la inspección comisionada de los vehículos ferroviarios descarrilados y dañados (EMJ) realizada el 17. 6. 2008 por el DKV Praga, Centro de Explotación de Praga Libeň, se constató:
+costes de reparación del vehículo ferroviario motriz 471.031-5 estimados en 2 300 000,-
+●
+Kč.
+costes de reparación del vehículo ferroviario 071.032-7 estimados en 1 850 000,- Kč.
+●
 
 ## Página 15
 
-*   los costes de reparación del vehículo ferroviario 971.032-8 se estimaron en 2 500,- Kč.
-
-Los registros escritos forman parte del expediente de la IE.
-
-Durante el descarrilamiento, se produjeron los siguientes daños en los componentes de la vía de propiedad de SŽDC, s. o., bajo la gestión de la empresa ČD, a. s., Dirección de la Vía de Praga, en la estación de Čelákovice:
-
-*   Puntera n.º 22: punta derecha golpeada;
-*   Puntera n.º 20a1 (punta): actuador destruido;
-*   Puntera n.º 20a2 (corazón): actuador destruido;
-*   Puntera n.º 20b1 (punta): punta exterior derecha golpeada, rastro de cambio forzado en la segunda y tercera mesa deslizante;
-
-El daño en los componentes de la vía de propiedad de SŽDC, s. o., se estimó en 75 000,- Kč.
-
-No se produjeron daños al medio ambiente durante la IE.
-
-El daño total causado por la IE asciende a 4 227 500,- Kč.
-
-Los registros escritos forman parte del expediente de la IE.
-
-### 2.4 Factores externos
-
+los costos de reparación del vehículo ferroviario 971.032-8 estimados en 2 500,- Kč.
+●
+Los registros escritos forman parte del expediente del accidente ferroviario.
+Con motivo del descarrilamiento se produjeron los siguientes daños en las instalaciones de SŽDC, s. o., en gestión de la sociedad ČD, a. s., Dirección de la Vía de Circulación de Praga, en los componentes de la vía de circulación en la estación Čelákovice:
+Aguja n.º 22: lengüeta derecha embestida,
+●
+Aguja n.º 20a1 (lengüeta): cambiador destruido;
+●
+Aguja n.º 20a2 (corazón): cambiador destruido;
+●
+Aguja n.º 20b1 (lengüeta): lengüeta derecha exterior embestida, huella de un cambio
+●
+forzado en el segundo y el tercer soporte deslizante;
+El daño en los componentes de la vía de circulación propiedad de SŽDC, s. o. fue estimado en 75 000,-
+Kč.
+No se produjo daño medioambiental con motivo del accidente ferroviario.
+El daño total causado por el accidente ferroviario es de 4 227 500,-Kč.
+Los registros escritos forman parte del expediente del accidente ferroviario.
+### 2.4 Circunstancias externas
 ### 2.4.1 Condiciones meteorológicas y datos geográficos
-
-Clima: temperatura del aire +18° C, despejado, calma, visibilidad no reducida.
-
-El lugar de la IE se encuentra en el catastro del municipio de Čelákovice.
-
-## 3 REGISTRO DE LAS EXPLICACIONES PRESTADAS
-
-### 3.1 Resumen de las explicaciones prestadas
-
-### 3.1.1 Empleados del operador de la infraestructura y del transportista, incluidas las personas en relación contractual
-
-El maquinista del tren Os 9407, en el «Acta con el empleado», elaborada por el operador el 6 de junio de 2008, indicó:
-
-«Me incorporé al turno sin estrés a las 3:59 h en el PP Nymburk. El turno transcurrió sin incidentes hasta la entrada del tren 9407 en la EST. Čelákovice. Entré bajo la señal de llamada por la primera vía de línea, a una velocidad de 40 km/h, en el HDV 471.031/971.032. En la cabeza del tren había una unidad de mando. Vi que las punteras n.º 22 y 20a estaban preparadas para la segunda vía de estación. Vi que en el andén de la segunda vía esperaban viajeros. De repente, se produjo una fuga de aire en el tren»
+Meteorología: temperatura del aire +18° C, despejado, en calma, visibilidad no reducida.
+El lugar del accidente ferroviario se encuentra en el término municipal de Čelákovice.
+## 3 REGISTRO DE LAS EXPLICACIONES PRESENTADAS
+### 3.1 Resumen de las explicaciones presentadas
+### 3.1.1 Empleados del gestor de la vía y del transportista, incluidas personas en relación contractual
+El maquinista del tren Os 9407, en el «Registro con el empleado», elaborado por el gestor el 6. 6. 2008, indicó:
+«Entré en el turno sin estrés en PP Nymburk a las 3.59 h. El turno transcurrió sin incidencias hasta la entrada del tren 9407 en la estación Čelákovice. Entraba bajo señal de llamada por la primera vía de circulación, a una velocidad de 40 km/h, con HDV 471.031/971.032. En la cabeza del tren había un coche de mando. Vi que la aguja n.º 22 y la 20a estaban dispuestas en la vía de estación n.º 2. Vi que en el andén junto a la vía n.º 2 esperaban pasajeros. De repente se produjo una fuga de aire en la composición
 
 ## Página 16
+
 
 a detención voluntaria del tren. Abrí de emergencia una puerta y fui a averiguar qué había ocurrido. Se produjo el descarrilamiento de un vagón intercalado y del segundo bogie 471.031 en el sentido de la marcha. Informé de la situación al jefe de estación a través del señalista y acordé que desembarcaría a los viajeros. Recorrí el tren, comprobé que nadie resultara herido y desembarqué a los viajeros. A continuación, esperé la llegada de los órganos investigadores.“
 ### El jefe de estación de la estación de Čelákovice, en el «Acta con el empleado», elaborado por el titular el 6 de junio de 2008, declaró:
@@ -426,56 +403,56 @@ El técnico de señales, en el «Acta con el empleado», elaborado por el titula
 «El lunes, tras incorporarme al servicio, comprobé que se habían inundado las agujas y los mecanismos de cambio en el ámbito de St. 2. Se trataba de las agujas 18, 16, 14a, 14b, 13, 15a/b, 17a/b. El resto de las agujas estaban en orden, lo cual comprobamos mediante mediciones. Durante la semana laboral realizamos la limpieza, secado y lavado de las agujas inundadas. Las agujas no conformes fueron desconectadas del conmutador central. Hoy estuve en Lysá nad Labem y a las 7:32 me llamó el señalista del conmutador 2.º de la estación de Čelákovice por teléfono móvil, y fue desde un teléfono móvil. Preguntó si era posible cambiar de la primera a la segunda. No recuerdo el texto exacto de la pregunta. Le dije que sí. Las agujas están en orden y han sido verificadas. Más tarde me enteré de que en Čelákovice se había producido un accidente.»
 El señalista de la estación de Čelákovice, en el «Acta con el empleado», elaborado por el titular el 24 de junio de 2008, declaró:
 
-
 ## Página 17
 
-«Para complementar mi acta del 6 de junio de 2028 sobre el incidente extraordinario en la estación de Čelákovice, añado:
-El jefe de estación me preguntó, tras el informe de la preparación de la vía de circulación, si era posible circular a través del cruce. Tras una consulta telefónica con el técnico de seguridad, intenté cambiar la aguja y luego devolverla. Como no sonó la campana de corte, no me percaté de la posición final de las agujas y cambié el cierre de vía. Tras la orden de accionar del jefe de estación, manejé la señal de llamada. De este modo, el tren 9407 pudo entrar en la vía 2.ª.»
+«Para complementar mi acta del 6 de junio de 2028 sobre el suceso excepcional en la estación de Čelákovice, añado:
+El jefe de estación me preguntó, tras el aviso de preparación de la vía ferroviaria, si era posible circular por el cruce. Tras una consulta telefónica con el técnico de señalización, intenté mover la aguja y devolverla. Como no sonó la campana de corte, no me di cuenta de la posición final de los desvíos y accioné el cerrón de vía. Tras la orden de maniobra del jefe de estación, maniobré la señal de llamada. De este modo pudo entrar el tren 9407 en la vía 2.»
 ### 3.1.2 Otras personas
-Otras personas no participaron en la explotación de la vía férrea y del transporte ferroviario.
+Otras personas no participaron en la explotación de la vía y del transporte ferroviario.
 ### 3.2 Sistema de garantía de la seguridad
-### 3.2.1 Organización marco y forma en que se dictan y ejecutan las órdenes
-Los requisitos de referencia para la explotación segura de la vía férrea están establecidos en las siguientes disposiciones legales y procedimientos tecnológicos contenidos en las normas internas del titular:
-### A) Disposiciones legales:
-### A1) Obligaciones del propietario de la vía - § 20 apartado (1) de la ley:
-(1) El propietario de la vía está obligado a garantizar el mantenimiento y la reparación de la vía en la medida necesaria para su aptitud para el servicio y a permitir el enlace de la vía con otras vías.
-### A2) Obligaciones del titular de la vía – § 22 apartado (1) letras a), b), c) de la ley:
-(1) El titular de la vía está obligado a
-a) explotar la vía para las necesidades de un transporte ferroviario fluido y seguro, de conformidad con las normas de explotación de la vía y la autorización oficial,
-b) emitir, a partir de la fecha de inicio de la explotación de la vía, una norma interna sobre la explotación de la vía y sobre la cualificación profesional y el conocimiento de las personas que garantizan la explotación de la vía, así como el método de su verificación, incluido el sistema de formación periódica,
-c) garantizar que la explotación de la vía sea realizada por personas que estén capacitadas desde el punto de vista médico y profesional.
-### A3) Obligaciones del transportista – § 35 apartado (1) letras a), b), d), e), f), g) de la ley:
-(1) El transportista está obligado a
-a) explotar el transporte ferroviario de conformidad con las normas de explotación del transporte ferroviario, la licencia vigente y el contrato celebrado con el titular de la vía sobre la explotación del transporte ferroviario en la vía,
-b) emitir, a partir de la fecha de inicio de la explotación del transporte ferroviario, una norma interna sobre la cualificación profesional y el conocimiento de las personas que garantizan la explotación del transporte ferroviario y el método de su verificación, incluido el sistema de formación periódica,
-d) durante la explotación del transporte ferroviario, utilizar material rodante ferroviario y equipos técnicos designados con un certificado de aptitud válido y en un estado técnico que corresponda a la aptitud aprobada,
-e) garantizar que el material rodante ferroviario sea conducido por personas que posean un certificado de aptitud para la conducción válido,
+### 3.2.1 Organización marco y forma en que se emiten y ejecutan las instrucciones
+Los requisitos de referencia para la explotación segura de la vía se establecen en los siguientes preceptos legales y procedimientos tecnológicos contenidos en las normas internas del explotador:
+### A) Preceptos legales:
+### A1) Obligaciones del propietario de la vía – § 20 apartado (1) de la ley:
+(1) El propietario de la vía está obligado a garantizar el mantenimiento y la reparación de la vía en la medida necesaria para su aptitud de explotación y a permitir la conexión de la vía con otras vías.
+### A2) Obligaciones del explotador de la vía – § 22 apartado (1) letras a), b), c) de la ley:
+(1) El explotador de la vía está obligado a
+a) explotar la vía para las necesidades del transporte ferroviario fluido y seguro de acuerdo con las reglas para la explotación de la vía y la autorización administrativa,
+b) emitir con motivo del inicio de la explotación de la vía una norma interna sobre la explotación de la vía y sobre la idoneidad profesional y los conocimientos de las personas que garantizan la explotación de la vía y el método de su verificación, incluido el sistema de formación periódica,
+c) garantizar que la explotación de la vía la realicen personas que estén sanas y sean profesionalmente idóneas.
+### A3) Obligaciones del operador ferroviario – § 35 apartado (1) letras a), b), d), e), f), g) de la ley:
+(1) El operador ferroviario está obligado a
+a) explotar el transporte ferroviario de acuerdo con las reglas de explotación del transporte ferroviario, la licencia vigente y el contrato celebrado con el explotador de la vía sobre la explotación del transporte ferroviario en la vía,
+b) emitir con motivo del inicio de la explotación del transporte ferroviario una norma interna sobre la idoneidad profesional y los conocimientos de las personas que garantizan la explotación del transporte ferroviario y el método de su verificación, incluido el sistema de formación periódica,
+d) utilizar en la explotación del transporte ferroviario vehículos ferroviarios y dispositivos técnicos designados con certificado de idoneidad vigente y en un estado técnico que corresponda a la idoneidad aprobada,
+e) garantizar que los vehículos ferroviarios sean conducidos por personas que posean certificado de idoneidad para conducir vigente,
 
 ## Página 18
 
-f) garantizar que el transporte ferroviario sea realizado por personas que estén capacitadas desde el punto de vista médico y profesional,
-g) seguir las instrucciones del titular de la infraestructura impartidas durante la organización del transporte ferroviario en el ejercicio de la actividad de transporte ferroviario.
-### A4) Titular de la infraestructura y transportista están obligados – § 49 apartado (3) letra b) de la ley:
-b) garantizar el lugar del incidente y realizar la documentación del estado en el momento de la aparición del incidente.
-A5) Normas de explotación ferroviaria – § 2 apartado (4) del decreto nº 173/1995 Coll., por el que se aprueba el reglamento de circulación ferroviaria, en su versión vigente (en adelante, decreto nº 173):
-(4) Para garantizar las actividades y establecer la capacitación profesional de las personas participantes en la seguridad de la infraestructura, la maniobra de la infraestructura y la organización del transporte ferroviario, cuando estas actividades las realicen empleados del titular de la infraestructura, se utilizan los procedimientos tecnológicos contenidos en las normas internas del titular de la infraestructura.
-### A6) Normas de explotación ferroviaria – § 10 del decreto nº 173:
-Para garantizar la explotación de la infraestructura se utilizan las normas que establecen el modo y las condiciones de la maniobra de la infraestructura a través de las centrales de maniobras y las estaciones, y para la maniobra de las agujas y del dispositivo de seguridad.
-### A7) Normas de explotación ferroviaria – § 11 del decreto nº 173:
-(4) Para cada central de maniobras con ramificación de vías se elaboran, por una persona capacitada profesionalmente, los procedimientos tecnológicos de las actividades de explotación de la infraestructura y del transporte ferroviario, según los datos sobre el equipamiento técnico de la central de maniobras y su modo de utilización.
-### A8) Normas de explotación ferroviaria – § 12 apartados (1, 2, 3, 4,) del decreto nº 173:
-(1) Las agujas solo pueden ser manipuladas por una persona capacitada profesionalmente. No se permite cambiar la posición de una aguja frente a vehículos ferroviarios en movimiento de manera que se ponga en peligro la seguridad de su circulación, bajo vehículos en movimiento, con excepción de las agujas que se cambian directamente mediante vehículos, y en casos de eliminación del peligro.
-(2) Las agujas de las derivaciones de vía deben quedar, tras finalizar la maniobra, en la posición concordante que permita la circulación en dirección recta o lateral.
-(3) El dispositivo de seguridad solo puede ser manipulado por una persona capacitada profesionalmente.
-(4) Los elementos de control mediante los que se realiza la maniobra de emergencia deben estar provistos de seguros de seguridad o contadores de maniobras, o bien su uso debe ser documentado por un dispositivo técnico. Cada uso de los elementos de control para la maniobra de emergencia o la retirada de los seguros de seguridad debe estar justificado y registrado.
-### A9) Normas de explotación ferroviaria – § 14 apartados (1, 4) del decreto nº 173:
-(1) La dirección del transporte ferroviario se organiza según el horario de circulación. Durante la maniobra de la infraestructura, para la dirección del transporte ferroviario se utilizan las dependencias que se derivan de la actividad del dispositivo de seguridad en funcionamiento.
-(4) El transporte ferroviario... solo puede ser dirigido o participar en la dirección del transporte ferroviario por personas capacitadas profesionalmente.
-### A10) Normas de explotación ferroviaria – § 15 apartados (1, 2, 8) letra b) del decreto nº 173:
-(1) La entrada de un tren en una central de maniobras con ramificación de vías, la circulación del tren en la central de maniobras y la salida del tren de la central de maniobras pueden permitirse sin la introducción de otras medidas, si se cumplen las siguientes condiciones:
-b) los dispositivos que protegen la vía de tren contra la circulación de vehículos ferroviarios procedentes de vías que no están
+f) garantizar que el transporte ferroviario lo realicen personas que estén sanamente y profesionalmente cualificadas,
+g) atenerse, en la explotación del transporte ferroviario, a las instrucciones del explotador de la infraestructura impartidas al organizar el transporte ferroviario.
+### A4) El explotador de la infraestructura y el transportista están obligados – § 49 apartado (3) letra b) de la ley:
+b) asegurar el lugar del suceso excepcional y realizar la documentación del estado en el momento de producirse el suceso excepcional.
+A5) Reglas de explotación de la infraestructura – § 2 apartado (4) del decreto n.º 173/1995 Sb., por el que se dicta el Reglamento de circulación ferroviaria, en su redacción vigente (en adelante, decreto n.º 173):
+(4) Para garantizar las actividades y para determinar la cualificación profesional de las personas participantes en la seguridad de la infraestructura, en la operación de la infraestructura y en la organización del transporte ferroviario, si estas actividades las realizan empleados del explotador de la infraestructura, sirven los procedimientos tecnológicos contenidos en las normas internas del explotador de la infraestructura.
+### A6) Reglas de explotación de la infraestructura – § 10 del decreto n.º 173:
+Para garantizar la explotación de la infraestructura sirven las reglas mediante las que se establecen el modo y las condiciones de operación de la infraestructura a través de estaciones y puestos de mando, y para la maniobra de agujas y del aparato de enclavamiento.
+### A7) Reglas de explotación de la infraestructura – § 11 del decreto n.º 173:
+(4) Para cada estación con bifurcación de vías se elaboran, por una persona profesionalmente cualificada, los procedimientos tecnológicos de las actividades en la explotación de la infraestructura y en la explotación del transporte ferroviario, de acuerdo con los datos sobre el equipamiento técnico de la estación y la forma de su utilización.
+### A8) Reglas de explotación de la infraestructura – § 12 apartados (1, 2, 3, 4,) del decreto n.º 173:
+(1) Las agujas solo pueden ser operadas por una persona profesionalmente cualificada. No está permitido conmutar una aguja delante de vehículos ferroviarios en movimiento de manera que se vea amenazada la seguridad de su circulación, por debajo de vehículos en movimiento, con excepción de las agujas que se conmutan directamente por los vehículos, y en los casos de avertimiento de un peligro.
+(2) Las agujas de los enlaces de vías deben ser, tras la maniobra finalizada, conmutadas a la posición de concordancia que permita la circulación en sentido directo o lateral.
+(3) El aparato de enclavamiento solo puede ser operado por una persona profesionalmente cualificada.
+(4) Los elementos de mando con los que se realiza la operación de emergencia deben estar provistos de cierres de seguridad o contadores de operación, o su utilización debe ser documentada por un dispositivo técnico. Cada utilización de los elementos de mando para la operación de emergencia o la retirada de los cierres de seguridad debe ser justificada y registrada.
+### A9) Reglas de explotación de la infraestructura – § 14 apartados (1, 4) del decreto n.º 173:
+(1) La dirección del transporte ferroviario se organiza según el horario de circulación. En la operación de la infraestructura, para la dirección del transporte ferroviario se aprovechan las dependencias derivadas de la actividad del aparato de enclavamiento en explotación.
+(4) El transporte ferroviario... solo puede ser dirigido o participar en la dirección del transporte ferroviario personas profesionalmente cualificadas.
+### A10) Reglas de explotación de la infraestructura – § 15 apartados (1, 2, 8) letra b) del decreto n.º 173:
+(1) La entrada de un tren en una estación con bifurcación de vías, la circulación del tren en la estación y la salida del tren de la estación pueden autorizarse sin la adopción de medidas adicionales, si se cumplen las siguientes condiciones:
+b) el dispositivo que protege la ruta del tren contra la circulación de vehículos ferroviarios desde vías que no son
 
 ## Página 19
+
 
 destinadas a la circulación de trenes, las agujas transitadas y las agujas de desvío deben estar en la posición correcta para la vía de tren correspondiente y no deben ser cambiadas hasta que el tren no haya liberado la parte correspondiente de la vía de tren (con excepción de las agujas de auto-restablecimiento, transitadas por la punta de las lenguas).
 (2) La entrada de un tren en una central de maniobras con ramificación de vías solo puede permitirse sin la introducción de otras medidas si la vía de tren está correctamente establecida y libre según las condiciones del apartado 1.
@@ -502,31 +479,31 @@ artículo 87:
 
 ## Página 20
 
-Para las circulaciones de trenes, PMD y para las maniobras, las conmutaciones son atendidas por los conmutadores y estos últimos son responsables de su correcto posicionamiento en la vía designada...
+Para las circulaciones de trenes, PMD y para las maniobras, los desvíos son atendidos y por su correcta colocación en la vía designada responden los encargados de desvíos...
 ### B4) ČD D2 – Preparación de la vía de tren
 artículo 460:
-...En los casos en que el dispositivo de seguridad no muestre un funcionamiento correcto, o bien no exista en absoluto, debe comprobarse especialmente la posición de las conmutaciones en la vía de tren y de las conmutaciones de desvío (o bien de otros dispositivos de protección lateral directa) antes de la salida del tren, según su modo de aseguramiento y atención, ya sea desde el cuadro de conmutación o mediante su inspección in situ.
+...En los casos en que el aparato de enclavamiento no presenta un funcionamiento correcto, o en caso de que no exista, deberá comprobarse especialmente la posición de los desvíos en la vía de tren y de los desvíos de apartadero (o de otros dispositivos de protección lateral directa) antes de la circulación del tren, y ello según el modo de su aseguramiento y atención, bien en el puesto de mando, bien mediante su inspección en el lugar.
 Artículo 461:
-Debe comprobarse la posición correcta de las conmutaciones y los desvíos en la vía de tren:
-d) cuando no sea posible, debido a una avería u otra causa, cerrar el cierre de vía;
-f) a petición del empleado de mantenimiento durante las labores de mantenimiento o reparación del dispositivo de seguridad;
-g) en caso de avería de los elementos indicadores de la posición de la conmutación o del desvío.
+Debe comprobarse la posición correcta de los desvíos y de los apartaderos en la vía de tren:
+d) cuando no sea posible, por avería o por otra causa, cerrar el bloqueo de aguja;
+f) a petición del empleado de mantenimiento durante el mantenimiento o la reparación del aparato de enclavamiento;
+g) en caso de avería de los elementos indicadores de la posición del desvío o del apartadero.
 Artículo 462:
-La posición correcta de las conmutaciones y los desvíos en la vía de tren se comprobará de la siguiente manera:
-b) en los cuadros de conmutación mecánicos y electromecánicos, mediante el desplazamiento del cierre de vía;
-c) en los cuadros de conmutación electromecánicos, donde las conmutaciones están equipadas con actuadores eléctricos, mediante la comprobación de la posición de las conmutaciones y los desvíos según la inspección visual y el desplazamiento del cierre de vía.
+La posición correcta de los desvíos y de los apartaderos en la vía de tren se comprueba así:
+b) en los puestos de mando mecánicos y electromecánicos, mediante el paso del cierre de vía;
+c) en los puestos de mando electromecánicos, donde los desvíos disponen de motores de cambio de aguja, mediante la comprobación de la posición de los desvíos y de los apartaderos según la comprobación visual y mediante el paso del cierre de vía.
 Artículo 463:
-La posición correcta de las conmutaciones y los desvíos será comprobada por los empleados responsables de la preparación de la vía de tren en sus puestos de trabajo.
-En caso de necesidad (avería del dispositivo de seguridad, etc.) es necesario comprobar la posición correcta de las conmutaciones y los desvíos in situ.
-Si la comprobación de la posición de las conmutaciones y los desvíos la realiza el conmutador, este deberá notificarlo al despachador de tráfico y anotarlo en el cuaderno del puesto de trabajo indicando la hora, el número del tren esperado y la vía de entrada (o de salida) o directamente en el diario de tráfico, si comparten el mismo puesto de trabajo.
+La posición correcta de los desvíos y de los apartaderos la comprueban en sus puestos de trabajo los empleados responsables de la preparación de la vía de tren.
+En caso de necesidad (avería del aparato de enclavamiento, etc.) es necesario comprobar en el lugar la posición correcta de los desvíos y de los apartaderos.
+Si la posición de los desvíos y de los apartaderos la comprueba el encargado de desvíos, comunicará la comprobación al jefe de estación y la anotará en el cuaderno del puesto de trabajo indicando la hora, el número del tren esperado y la vía de entrada (de salida), o directamente en el diario de tráfico, si comparte puesto de trabajo con él.
 Artículo 464:
-Si las conmutaciones de maniobra manual, las conmutaciones con puntas móviles, las conmutaciones de desvío y los desvíos no están excepcionalmente cerradas ni bloqueadas con cerraduras mecánicas, el personal autorizado comprobará su posición mediante inspección in situ.
-Al hacerlo, debe asegurarse de que la hoja se adhiere al contrafuerte, que en las puntas con partes móviles las puntas se adhieren a las carriles de ala o a las carriles de codo, y que sus cierres (si no están cubiertos) y los dispositivos de conmutación funcionan correctamente. Las conmutaciones de cruz sin puntas con partes móviles o las conmutaciones simples se asegurarán con un candado de conmutación portátil y se vigilarán o se asegurarán con un candado de conmutación portátil bloqueable. Las conmutaciones de cruz con puntas con partes móviles y las cruces de vía con puntas con partes móviles deben estar equipadas con candados de conmutación, mediante los cuales se asegurarán tanto la zona de la conmutación como la de la punta.
-Se procederá de la misma manera si no es posible comprobar la posición correcta de las conmutaciones y los desvíos equipados con actuadores mecánicos o eléctricos, cuando no pueda comprobarse según el art. 462.
+Cuando no se bloqueen ni se cierren con cerraduras mecánicas los desvíos manuales, los desvíos recorridos en punta de flecha, los desvíos con aguja móvil, los desvíos de apartadero y los apartaderos, los empleados autorizados comprobarán su posición mediante inspección en el lugar.
+Al efecto, deberán asegurarse de que la lengüeta se apoya en el riel de apoyo, de que en los desvíos con partes móviles las puntas se apoyan en los rieles de rama o de cruzamiento y de que sus bloqueos (si no están cubiertos) y el dispositivo de cambio funcionan correctamente. Los desvíos de cruzamiento sin partes móviles o los desvíos simples se aseguran con una cerradura de aguja portátil y se vigilan o se aseguran con una cerradura de aguja portátil cerrable. Los desvíos de cruzamiento con partes móviles y los cruces de vía con partes móviles deben estar dotados de cerraduras de aguja con las que se aseguran en la zona de cambio también las agujas móviles.
+Se procede igualmente cuando no sea posible comprobar la posición correcta de los desvíos y de los apartaderos dotados de motores mecánicos o eléctricos de cambio de aguja, si no puede comprobarse según el art. 462.
 Artículo 467:
 
-
 ## Página 21
+
 
 ...El empleado al que se haya asignado el ámbito de responsabilidad correspondiente es responsable de la ejecución de la preparación de la vía de tren en su ámbito de responsabilidad asignado y de la emisión del aviso prescrito de la vía de tren preparada.
 Artículo 468:
@@ -553,62 +530,54 @@ Artículo 69:
 
 ## Página 22
 
-Las palancas de maniobra, manivelas, selectores o botones deben ser accionados, pulsados o tirados por el empleado encargado de la operación hasta la posición final. Tras desplazar el elemento de control que dispone de un seguro manual, el empleado encargado de la operación debe verificar el correcto enganche del seguro manual. El empleado encargado de la operación debe asegurarse, tras la manipulación del elemento de control ZZ, de que la orden ha sido recibida por ZZ y se está ejecutando o ha sido ejecutada.
-
-### 3.2.2 Requisitos aplicables al personal del administrador de la infraestructura y del transportista y su cumplimiento
-
-La aptitud sanitaria del personal del administrador de la infraestructura y del transportista se evalúa conforme a lo dispuesto en el Decreto n.º 101/1995 Coll., por el que se aprueba el Reglamento sobre la aptitud sanitaria y profesional de las personas en la explotación de la infraestructura ferroviaria y del transporte ferroviario, en su versión vigente.
-
-En el momento de la producción del incidente en cuestión, todo el personal del administrador de la infraestructura y del transporte ferroviario participante en el incidente disponía de un informe de aptitud sanitaria válido.
-
-Los requisitos de aptitud profesional, incluido el modo de su cumplimiento, se establecen en el reglamento interno del administrador de la infraestructura y del transportista «ČD Ok 2 Reglamento de formación y exámenes de České Dráhy, a. s.», aprobado el 07.12.2005, con número de referencia: 61773/05-O10, con efecto desde el 01.01.2006, en su versión vigente.
-
-Todo el personal participante del administrador de la infraestructura y del transporte ferroviario disponía, en el momento de la producción del incidente, de la aptitud profesional necesaria para el desempeño del cargo desempeñado.
-
-La condición de aptitud para la conducción de vehículos ferroviarios la establece el artículo 45 de la Ley n.º 266/1994 Coll., sobre vías férreas, en su versión vigente.
-
-El maquinista es titular de un Certificado de aptitud para la conducción de vehículos ferroviarios, n.º de registro 015439, emitido por la Oficina Ferroviaria de Praga el 17.10.1997, para las categorías de vehículos MM, MH, ME, MK, E, S, ES, en las líneas C, R, V. La última verificación de conocimientos, en el ámbito del examen V - 08 para maquinistas, la realizó el 10.6.2002, con el resultado – aprobado. El conocimiento por parte del maquinista de las condiciones de las vías en las líneas y en las estaciones de maniobra es una obligación del operador de transporte ferroviario, conforme al apartado 1, letra a), del artículo 35 del Decreto n.º 173/1995 Coll. El modo de adquirir el conocimiento por parte del maquinista de las condiciones de las líneas y locales durante el día y la noche se establece en las normas ČD V 1, ČD V 2 y ČD D 2. El maquinista era una persona con la aptitud profesional necesaria y con un conocimiento válido.
-
-Los registros por escrito forman parte del expediente del incidente.
-
+Las palancas de cambio, manivelas, conmutadores o botones deben ser accionados, presionados o levantados por el empleado operador hasta la posición final. Tras accionar un elemento de control con trinquete manual, el empleado operador debe comprobar el enganche correcto del trinquete manual. Después de operar un elemento de control del ZZ, el empleado operador debe asegurarse de que la orden ha sido recibida por el ZZ y se está ejecutando o ha sido ejecutada.
+### 3.2.2 Requisitos para los empleados del gestor de la vía y del transportista y su aplicación
+La aptitud física de los empleados del gestor de la vía y del transportista se evalúa en el sentido de lo dispuesto en el decreto nº 101/1995 Sb., por el que se dicta la Ordenanza sobre la aptitud física y profesional de las personas para la explotación de la vía y el transporte ferroviario, en su redacción vigente. En el momento de producirse el MU en cuestión, todos los empleados del gestor de la vía y del transporte ferroviario participantes en el MU disponían de un dictamen válido de aptitud física.
+Los requisitos de aptitud profesional, incluido el modo de su aplicación, los establece el reglamento interno del gestor de la vía y del transportista "ČD Ok 2 Reglamento de formación y de exámenes de los Ferrocarriles Checos, a. s.", aprobado el 07. 12. 2005, con el nº de expediente: 61773/05-O10, con efectos desde el 01. 01. 2006, en su redacción vigente.
+Todos los empleados del gestor de la vía y del transporte ferroviario participantes eran, en el momento de producirse el MU, profesionalmente aptos para el desempeño de la función que ocupaban.
+La condición de aptitud para la conducción de un vehículo ferroviario la establece el § 45 de la ley nº 266/1994 Sb., de vías, en su redacción vigente.
+El maquinista es titular de un Certificado de aptitud para la conducción de vehículos ferroviarios válido, nº de expediente 015439, expedido por la Autoridad Ferroviaria en Praga, el 17. 10. 1997, para los tipos de vehículos MM, MH, ME, MK, E, S, ES, en las vías C, R, V. La última verificación de conocimientos, en el alcance del examen V - 08 para maquinistas, la realizó el 10. 6. 2002, con el resultado – aprobado. La familiarización del maquinista con las condiciones de la línea en las líneas y en las estaciones la impone al gestor del transporte ferroviario el apartado 1, letra a), del § 35 del decreto nº 173/1995 Sb. El modo de reconocimiento de las condiciones de la línea y locales del maquinista durante el día y la noche lo establecen los reglamentos ČD V 1, ČD V 2 y ČD D 2. El maquinista era una persona profesionalmente apta, con reconocimiento válido.
+Los registros escritos forman parte del expediente del MU.
 ### 3.2.3 Procedimiento de control interno de seguridad y sus resultados
-
-Los procedimientos tecnológicos para las actividades de control figuran en los reglamentos internos y otras medidas del administrador, no habiéndose constatado incumplimientos en relación con las causas y las circunstancias de la producción del incidente. En la estación de Čelákovice se llevan registros de los controles internos realizados por el administrador. Dichos registros no contienen ninguna constatación relacionada con este incidente.
-
-### 3.2.4 Interfaces entre las distintas partes participantes y las componentes de la ruta de circulación
-
-El propietario de la línea ferroviaria nacional Lysá nad Labem – Praha-Vysočany es Správa železniční dopravní cesty, con domicilio social en Dlážděná 1003/7, Praha 1 Nové Město, código postal 110 00.
-
-El administrador de la infraestructura y del transporte ferroviario era České Dráhy, a. s., con domicilio social en Nábřeží L. Svobody 1222, Praha 1, código postal 110 15, en virtud de la autorización administrativa emitida por la Oficina Ferroviaria de Praga el 6.5.1996, con número de referencia 1814/96-DÚ/O-SI, número de registro ÚP/1996/1643, y de la Licencia de administrador de transporte ferroviario, número de referencia 1 – 157/96-DÚ/O-Bp, número de registro L/1996/5000, concedida por la Oficina Ferroviaria de Praga el 21 de mayo de 1996 a la persona jurídica – transportista, con la razón social «České Dráhy, a. s.».
-
-La interfaz entre las partes participantes no guarda relación con la causa del incidente extraordinario.
-
-### 3.3 Marco jurídico y otras disposiciones
-
-### 3.3.1 Normativa comunitaria y nacional aplicable
-
-Para la determinación de las causas y las circunstancias de la producción de este incidente se aplicaron las siguientes normas nacionales:
-
-- Ley n.º 266/1994 Coll., sobre vías férreas, en su versión modificada;
-- Decreto n.º 100/1995 Coll., por el que se establecen las condiciones para la explotación, la construcción y la fabricación de determinados equipos técnicos y su concreción (Reglamento de equipos técnicos determinados), en su versión modificada;
-- Decreto n.º 101/1995 Coll., por el que se aprueba el Reglamento sobre la aptitud sanitaria y profesional de las personas en la explotación de la infraestructura ferroviaria y del transporte ferroviario, en su versión modificada;
-- Decreto n.º 173/1995 Coll., reglamento de circulación de las vías férreas, en su versión modificada;
-- Decreto n.º 177/1995 Coll., por el que se aprueba el reglamento de construcción y técnica de las vías férreas;
-- Decreto n.º 376/2006 Coll., sobre el sistema de seguridad de la explotación de la infraestructura ferroviaria y del transporte ferroviario y los procedimientos en caso de producción de incidentes extraordinarios en las vías férreas;
-- Ley n.º 262/2006 Coll., Código del Trabajo, en su versión modificada por la Ley n.º 585/2006 Coll.;
-
-### 3.3.2 Otras normas, por ejemplo, reglamento de explotación, reglamento de trabajo, normas de mantenimiento, normas técnicas vigentes y otros reglamentos internos
-
-Para la determinación de las causas y las circunstancias de la producción de este incidente se aplicaron los procedimientos tecnológicos contenidos en los siguientes reglamentos internos del administrador de la infraestructura y del transporte ferroviario, aprobados por resolución de la persona con la aptitud profesional necesaria:
-
-- Reglamento interno ČD D 1 - Reglamento para el uso de las señales en la organización y la explotación del transporte ferroviario, aprobado por resolución del Director General de České Dráhy el 15.04.1997, número de referencia: 55 216/97-O11, en su versión vigente;
-- Reglamento interno ČD D 2 - Reglamento para la organización y la explotación del transporte ferroviario, aprobado por resolución del Director General de České Dráhy el 13.03.1997, número de referencia: 55 097/97-O11, en su versión vigente;
-- Reglamento interno ČD D 17 - Reglamento para la notificación y la investigación de incidentes extraordinarios, aprobado por resolución del Director General de České Dráhy el 31.10.2006, número de referencia: 70 778/2006, en su versión vigente;
-- Reglamento interno ČD Ok 2 - Reglamento de formación y exámenes de České Dráhy, a. s., aprobado por resolución el 07.12.2005, número de referencia: 61773/05-O 10, en su versión vigente;
+Los procedimientos tecnológicos para la actividad de control se encuentran contenidos en los reglamentos internos y otras medidas del gestor; no se ha detectado su incumplimiento en relación con las causas y circunstancias de la producción del MU. En la estación de Čelákovice se llevan registros de los controles internos realizados por el gestor. Estos registros no contienen ningún hallazgo relacionado con este MU.
+### 3.2.4 Interfaz entre los distintos sujetos participantes y los componentes de la vía de circulación
+El propietario de la vía ferroviaria nacional Lysá nad Labem – Praha-Vysočany es la Administración de la Infraestructura Ferroviaria, con sede en Dlážděná 1003/7, Praha 1 Nové Město, código postal 110 00.
+El gestor de la vía y del transporte ferroviario eran los Ferrocarriles Checos, a. s., con sede en Nábřeží L. Svobody 1222, Praha 1, código postal 110 15, en virtud de la autorización administrativa expedida por la Autoridad Ferroviaria
 
 ## Página 23
 
+del organismo Praha de fecha 6. 5. 1996 con el n.º de expediente 1814/96-DÚ/O-SI, n.º de registro ÚP/1996/1643, y la Licencia de explotador del transporte ferroviario, n.º de expediente 1 – 157/96-DÚ/O-Bp, n.º de registro L/1996/5000, concedida por el Organismo Ferroviario de Praha el 21 de mayo de 1996 a la persona jurídica – transportista, con la denominación social «České dráhy, a. s.».
+La interfaz entre los sujetos implicados no guarda relación con la causa del suceso ferroviario.
+### 3.3 Regulación jurídica y otra
+### 3.3.1 Normativa comunitaria y nacional aplicable
+Para la determinación de las causas y circunstancias de la aparición de este SU se aplicaron las siguientes normas nacionales:
+Ley n.º 266/1994 Sb., de ferrocarriles, en su redacción vigente;
+–
+Decreto n.º 100/1995 Sb., por el que se establecen las condiciones para la explotación, construcción y fabricación de instalaciones técnicas designadas y su concreción (Reglamento de instalaciones técnicas designadas), en su redacción vigente;
+–
+Decreto n.º 101/1995 Sb., por el que se dicta el Reglamento de aptitud sanitaria y profesional de las personas para la explotación del ferrocarril y del transporte ferroviario, en su redacción vigente;
+–
+Decreto n.º 173/1995 Sb., reglamento de circulación ferroviaria, en su redacción vigente;
+–
+Decreto n.º 177/1995 Sb., por el que se dicta el reglamento de construcción y técnica ferroviaria;
+–
+Decreto n.º 376/2006 Sb., sobre el sistema de seguridad de la explotación del ferrocarril y del transporte ferroviario y los procedimientos en caso de sucesos ferroviarios en las vías;
+–
+Ley n.º 262/2006 Sb., Estatuto de los Trabajadores, en su redacción según la Ley n.º 585/2006 Sb.;
+–
+3.3.2 Otras normas, p. ej., reglamento de explotación, reglamento laboral, normas de mantenimiento, normas técnicas vigentes y otras normas internas
+Para la determinación de las causas y circunstancias de la aparición de este SU se aplicaron los procedimientos tecnológicos contenidos en las siguientes normas internas del explotador del ferrocarril y del transporte ferroviario, aprobadas por decisión de la persona profesionalmente competente:
+norma interna ČD D 1 - Norma para la utilización de señales en la organización y explotación del transporte ferroviario, aprobada por decisión del director general de České dráhy de fecha 15. 04 1997, n.º de expediente: 55 216/97-O11, en su redacción vigente;
+–
+norma interna ČD D 2 - Norma para la organización y explotación del transporte ferroviario, aprobada por decisión del director general de České dráhy de fecha 13. 03 1997, n.º de expediente: 55 097/97-O11, en su redacción vigente;
+–
+norma interna ČD D 17 - Norma para la notificación e investigación de sucesos ferroviarios, aprobada por decisión del director general de České dráhy de fecha 31. 10. 2006, n.º de expediente: 70 778/2006, en su redacción vigente;
+–
+norma interna ČD Ok 2 - Reglamento de formación y exámenes de České dráhy, a. s., aprobada por decisión de fecha 07. 12. 2005, n.º de expediente: 61773/05-O 10, en su redacción vigente;
+–
+
 ## Página 24
+
 
 norma interna ČD Z 1 - Norma para la explotación de los dispositivos de seguridad de estación y de vía; aprobada por resolución de fecha 26. 03. 2007, ref.: 56 704/2007, en su versión vigente;
 norma interna ČD T - 100 Explotación de los dispositivos de seguridad, aprobada por resolución 
@@ -636,9 +605,10 @@ Según las constataciones realizadas en la inspección del lugar de la aparició
 ### 3.4.2 Componentes de la vía
 Sobre la base de los resultados de la inspección del lugar de la aparición del accidente (MU) y de los resultados de las mediciones realizadas del balasto ferroviario, incluido el desvío n.º 22, puede afirmarse que el estado técnico de los componentes de la ruta de circulación no estuvo en relación causal con la aparición del accidente (MU). Las actas de medición del balasto ferroviario posteriores al accidente (MU) forman parte del expediente.
 ### 3.4.3 Medios de comunicación
-La línea nacional Lysá nad Labem – Praha-Vysočany está equipada y explotada con el sistema de radio de vía (en lo sucesivo, TRS). El TRS permite la conexión de radio de vía, que permite 
+La línea nacional Lysá nad Labem – Praha-Vysočany está equipada y explotada con el sistema de radio de vía (en lo sucesivo, TRS). El TRS permite la conexión de radio de vía, que permite
 
 ## Página 25
+
 
 transmitir instrucciones, mensajes, órdenes codificadas, mensajes codificados y otra información para la gestión del tráfico.
 La comunicación entre el despachador de la estación (žst.) de Čelákovice y el señalista del cuadro de mando 2 de la estación (žst.) de Čelákovice se realizó mediante la conexión de conmutadores.
@@ -672,6 +642,7 @@ En el cuadro de mando St 2 de la estación (žst.) de Čelákovice se lleva un �
 
 ## Página 26
 
+
 Dado que el dispositivo de seguridad no garantizaba el funcionamiento correcto, se estableció la comunicación telefónica sobre la ejecución de la preparación de la vía del tren entre el conmutador St 2 y la oficina de tráfico. La entrada de los trenes desde la estación de Mstětice (žst. Mstětice) hacia la estación de Čelákovice (žst. Čelákovice) se autorizaba mediante la señal de llamada en la señal de entrada S. La orden para operar la señal de llamada fue dada por el despachador de tráfico únicamente después de que los señalistas de los conmutadores St 2 y St 1 informaran de que la vía del tren Os 9407 estaba preparada y libre.
 El señalista del conmutador St 2, ante la pregunta del despachador de tráfico durante la orden de preparación de la vía del tren 9407 sobre si se podían cambiar los puntos de la vía 1 a la vía 2, verificó esta posibilidad telefónicamente con el técnico de señales y, tras obtener una respuesta afirmativa, verificó aún más la posibilidad de cambiar los puntos manualmente moviendo el controlador de puntos 20a/22 y cambiando los puntos de la vía 1 a la 2 y de vuelta.
 Sin verificar tras esta operación la posición final de las agujas del punto nº 22, atendió la señal de llamada tras la llamada para su operación.
@@ -694,26 +665,26 @@ el señalista del conmutador 2 de la estación de Čelákovice comenzó su turno
 –
 el 6 de junio de 2008, a las 06:00 horas. El descanso previo al turno fue conforme al artículo 90 de la Ley nº 262/2006 Coll., Código del Trabajo, en la redacción de la Ley nº 585/2006 Coll.;
 
-
 ## Página 27
 
-La investigación determinó que el horario laboral de todas las personas involucradas en el incidente excepcional fue conforme al Código del Trabajo y al reglamento de turnos de ČD, a. s.
-3.6.2 Estado de salud y situación personal que influyeron en el incidente excepcional, incluido el estrés físico o psicológico
-Todos los empleados participantes estaban médicamente aptos para el desempeño de su cargo en el momento de la ocurrencia del incidente excepcional. La investigación no demostró que hubieran estado expuestos a estrés físico ni psicológico antes de la ocurrencia del incidente excepcional.
-Se realizó una prueba de aliento orientativa para detectar la ingesta de alcohol al señalista del conmutador St 2 y al maquinista del tren Os 9407 por parte del VI RIBŽD Praha, ČD, a. s., con resultado negativo.
-Los registros escritos forman parte del expediente del incidente excepcional.
-3.6.3 Disposición del equipamiento del puesto de control o del vehículo, que influye en su manejo y uso
-El tren Os 9407 estaba conducido por la unidad de control 971.032-8. Su panel de control está dispuesto ergonómicamente de tal manera que nada impide al maquinista tener visibilidad hacia adelante del vehículo de maniobras (DV). En la dirección de circulación del tren Os 9407, en el lugar del incidente excepcional, no se detectó nada que empeorara la visibilidad del maquinista. La disposición del puesto del maquinista no tiene relación causal con la ocurrencia del incidente excepcional.
-### 3.7 Incidentes excepcionales anteriores de carácter similar
-No se registraron incidentes excepcionales similares en la estación de Čelákovice.
-## 4 ANÁLISIS Y CONCLUSIONES
-### 4.1 Descripción final del incidente excepcional
-### 4.1.1 Descripción final del incidente excepcional basada en los hechos establecidos en el punto 3
-El 6 de junio de 2008 a las 07:33 horas se produjo un incidente excepcional en el transporte ferroviario a los efectos del artículo 49 de la Ley, cuando el tren Os 9407 descarriló en la línea ferroviaria nacional, tramo 524A Lysá nad Labem – Praha-Vysočany, en la estación de Čelákovice, en el punto nº 22, en el pk 8,713.
-En el incidente excepcional no hubo fallecidos ni daños a la salud. El daño total determinado asciende a 4 227 500,- Kč.
-El tren Os 9407 estaba destinado al transporte de pasajeros desde la estación de origen de la Estación Masaryk de Praga (Praha Masarykovo nádraží) hasta la estación de destino de Kolín. El tren estaba compuesto por una unidad de control, un vagón intermedio y un vagón eléctrico EMJ 971.032-8/071.032-7/471.031-5. Longitud de 79 metros, 12 ejes, peso de 180 toneladas. El tren estaba frenado según el método I, el porcentaje de frenado normativo necesario era del 103 %, el porcentaje de frenado real era del 140 %.
+La investigación determinó que la jornada laboral de todas las personas implicadas en el siniestro era conforme al Código del Trabajo y al reglamento de turnos de ČD, a. s.
+3.6.2 Estado de salud y situación personal que influyeron en el suceso ferroviario, incluido el estrés físico o psicológico
+Todos los empleados implicados estaban, en el momento de producirse el suceso ferroviario, médicamente aptos para desempeñar la función que ocupaban. La investigación no acreditó que hubieran estado expuestos a estrés físico ni psicológico antes de la producción del suceso ferroviario.
+Se realizó a la señalera de la estación de enclavamiento St 2 y al maquinista del tren Os 9407 una prueba de alcoholemia orientativa por parte de VI RIBŽD Praha, ČD, a. s., con resultado negativo.
+Los registros escritos forman parte del expediente del suceso ferroviario.
+3.6.3 Disposición del equipamiento del puesto de mando o del vehículo que influye en su manejo y uso
+El tren Os 9407 era conducido por el coche de mando 971.032-8. Su pupitre de mando está dispuesto ergonómicamente de manera que nada obstaculiza al maquinista la visibilidad delante del DV. En el sentido de la marcha del tren Os 9407, en el lugar del suceso ferroviario, no se detectó nada que empeorara la visibilidad del maquinista. La disposición del puesto del maquinista no guarda relación causal con la producción del suceso ferroviario.
+### 3.7 Sucesos ferroviarios anteriores de carácter similar
+No constaba registrado en la estación de Čelákovice ningún suceso ferroviario análogo.
+## 4 ANÁLISIS Y CONCLUSIONS
+### 4.1 Descripción final del suceso ferroviario
+### 4.1.1 Descripción final del suceso ferroviario basada en los hechos establecidos en el punto 3
+El 6 de junio de 2008 a las 07:33 horas se produjo un suceso ferroviario en el transporte ferroviario en el sentido del § 49 de la ley, al descarrilar el tren Os 9407 en la vía férrea de ámbito nacional, línea 524A Lysá nad Labem – Praha-Vysočany, en la estación de Čelákovice, en el desvío n.º 22, en el pk 8,713.
+Con motivo del suceso ferroviario no hubo ninguna víctima mortal ni se produjo ningún daño a la salud. El daño total detectado asciende a 4 227 500,- CZK.
+El tren Os 9407 estaba destinado al transporte de pasajeros desde la estación de origen Praha Masarykovo nádraží hasta la estación de destino Kolín. El tren estaba compuesto por un coche de mando, un coche intercalado y un coche eléctrico EMJ 971.032-8/071.032-7/471.031-5. Longitud de 79 metros, 12 ejes, peso de 180 toneladas. El tren estaba frenado por el procedimiento I, normativo de porcentajes de frenado necesarios 103, porcentajes de frenado reales 140.
 
 ## Página 28
+
 
 El 6 de junio de 2008, en la estación de Čelákovice se estableció la comunicación telefónica para la preparación de la vía de circulación entre el puesto de maniobras St 2 y la sala de despachos, dado que el dispositivo de seguridad no garantizaba el funcionamiento correcto tras la inundación de la zona de entradas de Praga provocada por una crecida repentina el 1 de junio de 2008. La entrada de los trenes procedentes de la estación de Mstětice hacia la estación de Čelákovice se autorizaba mediante la señal de llamada en el semáforo de entrada S.
 
@@ -731,8 +702,8 @@ La explotación del transporte ferroviario se interrumpió entre las estaciones 
 
 La explotación del transporte ferroviario entre las estaciones de Čelákovice y Brandýs nad Labem se interrumpió desde las 11:15 hasta las 21:00 horas del 6 de junio de 2008.
 
-
 ## Página 29
+
 
 ### 4.2 Análisis
 ### 4.2.1 Evaluación de los hechos constatados según el punto 3 y presentación de las conclusiones sobre la causa del incidente y la actividad de los servicios de salvamento
@@ -768,6 +739,7 @@ para garantizar las actividades de manejo de la vía y la organización del tran
 
 ## Página 30
 
+
 para las actividades de conducción de trenes.
 –
 ### § 10 del Decreto n.º 173 [véase el art. 3.2.1 A6) del presente informe]:
@@ -790,27 +762,26 @@ se constató la no realización de la verificación de la posición de la aguja 
 
 ## Página 31
 
-1. comprobando si la orden de conmutación fue recibida y se está ejecutando por el dispositivo de seguridad, o si se ha ejecutado,
-2. verificando si las conmutaciones de las agujas están en la posición final,
-3. verificando si el elemento de control (mando) coincide con la posición de las conmutaciones, incluida la indicación luminosa
-[véase también el art. 3.2.1 B4, arts. 462, 463, 464, B5, arts. 51, 69) del presente informe].
-85, 467, 468, ČD D2 [véase el art. 3.2.1 B4) del presente informe]:
-se constató que el señalista del St. 2 informó al despachador de la colocación y la libertad de la vía de tren para el tren Os 9407, a pesar de no haberse asegurado de la correcta colocación de las agujas. El despachador, basándose en este informe, permitió la entrada del tren Os 9407 a la estación de Čelákovice.
-La investigación no demostró si la conmutación de la conmutación de la aguja n.º 22 bajo el vagón intercalado en circulación del tren Os 9407 se debió a una avería técnica (la conmutación de la aguja n.º 22 no se conmutó tras el cambio del mando y esto ocurrió únicamente debido al paso del tren por dicha aguja) o a la intervención humana.
-Con base en lo anterior, se puede afirmar que el 6 de junio de 2008, en la estación de Čelákovice, durante la entrada del tren Os 9407, no se garantizó el cumplimiento de las obligaciones impuestas al explotador de la vía por el § 22, apartado (1), letra a), de la Ley.
-No se detectaron averías en el funcionamiento del sistema integrado de rescate durante las labores de rescate y la eliminación de las consecuencias del accidente.
+1. la verificación de si la orden de cambio de aguja fue recibida por el dispositivo de seguridad y se está ejecutando, o si ya se había ejecutado,
+2. la comprobación de si los cambios de aguja se encuentran en la posición terminal,
+3. la comprobación de si el elemento de mando (selector) coincide con la posición de los cambios de aguja, incluida la indicación luminosa
+[véase también el art. 3.2.1 B4 arts. 462, 463, 464, B5 arts. 51, 69) de este informe].
+85, 467, 468, ČD D2 [véase el art. 3.2.1 B4) de este informe]:
+se constató que el señalero St. 2 comunicó al jefe de estación la posición y la libertad de la vía para el tren Os 9407, a pesar de no haberse cerciorado de la correcta posición de las agujas. Sobre la base de esta comunicación, el jefe de estación autorizó la entrada del tren Os 9407 en la est. Čelákovice.
+La investigación no pudo determinar si el cambio de la aguja n.º 22 bajo el coche motor intercalado en marcha del tren Os 9407 se produjo por una avería técnica (la aguja n.º 22 no cambió tras la conmutación del selector, y solo lo hizo por efecto del paso del tren por dicha aguja) o por un factor humano.
+Sobre lo anterior, puede constatarse que el 6 de junio de 2008, en la est. Čelákovice, con la entrada del tren Os 9407, no quedó garantizado el cumplimiento de las obligaciones impuestas al explotador de la vía por el apartado (1) letra a) del § 22 de la ley.
+En la actividad del sistema integrado de emergencia no se detectaron defectos durante las labores de rescate y en la eliminación de las consecuencias del MU.
 ### 4.3 Conclusiones
-4.3.1 Causas inmediatas del incidente, incluidos los factores que contribuyeron a él y que estaban relacionados con la actuación de las personas implicadas o con el estado de los vehículos ferroviarios o de los dispositivos técnicos
-### La causa inmediata del accidente fue:
-la posición incorrecta de la aguja n.º 22 en la vía de tren para el tren Os 9407 y su conmutación bajo un vagón intercalado en circulación, incluido en este tren como segundo vehículo ferroviario.
+4.3.1 Causas inmediatas del suceso excepcional, incluidos los factores que contribuyeron al mismo y que estuvieron relacionados con la actuación de las personas implicadas o con el estado de los vehículos ferroviarios o de los equipos técnicos
+### La causa inmediata del MU fue:
+la posición incorrecta de la aguja n.º 22 en la vía para el tren Os 9407 y su cambio bajo el coche motor intercalado en marcha, incluido en dicho tren como segundo vehículo ferroviario.
 ### 4.3.2 Causas fundamentales relacionadas con la cualificación, los procedimientos y el mantenimiento
-### La causa fundamental del accidente fue:
-el incumplimiento de los procedimientos tecnológicos para la maniobra de la vía y de las normas para la maniobra de las agujas y del dispositivo de seguridad del explotador de la vía, mediante el cual, con el sistema establecido de
-### comunicación telefónica sobre la realización de la preparación de la vía de tren entre el puesto de maniobra St 2 y la sala de despachos, se realizó el informe de colocación y libertad de la vía de tren para el tren Os 9407 hacia la vía 1 sin verificar la posición correcta de las agujas n.º 22 y 20a,
-y con ello se permitió la entrada de este tren hacia la aguja n.º 22 colocada incorrectamente.
-
+### La causa fundamental de la aparición del MU fue:
+el incumplimiento de los procedimientos tecnológicos para la explotación de la vía y de las reglas para la maniobra de agujas y del dispositivo de seguridad del explotador de la vía, al haberse realizado, en el marco del
+### sistema establecido de comunicación telefónica sobre la ejecución de la preparación de la vía entre el puesto de maniobras St 2 y la oficina de tráfico, la comunicación de la posición y la libertad de la vía para el tren Os 9407 en la vía 1 sin comprobar la correcta posición de las agujas n.º 22 y 20a, permitiendo con ello la entrada de dicho tren sobre la aguja n.º 22 mal colocada.
 
 ## Página 32
+
 
 ### 4.3.3 Causas que son consecuencia del marco normativo y del uso del sistema de garantía de la seguridad
 No se detectaron.
@@ -827,8 +798,8 @@ al señalista del puesto de maniobra 2 de la estación de Čelákovice se le sus
 la cualificación profesional para el desempeño de la función hasta la realización del examen profesional;
 todos los empleados operativos de la estación de cruce de Praga serán informados de las causas y las circunstancias de la aparición del accidente de manera demostrable antes del 31 de agosto de 2008.
 
-
 ## Página 33
+
 
 ## 6 RECOMENDACIONES DE SEGURIDAD
 No se emitió ninguna.
@@ -840,20 +811,19 @@ director
 Inspección Territorial de Praga
 de la Inspección Territorial de Praga
 
-
 ## Página 34
+
 
 ## 7 ANEXOS
 Foto 1: Vista general del conjunto descarrilado
 Foto 2: Bogía descarrilada del conjunto
 
-
 ## Página 35
 
-Foto 3: Placa de vía del puesto de maniobra St 2 de la estación de Čelákovice
-Foto 4: Cerraduras de vía del puesto de maniobra St 2 de la estación de Čelákovice
-
+Foto 3: Vía de la vía St 2 est. Čelákovice
+Foto 4: Cierres de vía St 2 est. Čelákovice
 
 ## Página 36
+
 
 Foto 5: Conmutador electromecánico destruido

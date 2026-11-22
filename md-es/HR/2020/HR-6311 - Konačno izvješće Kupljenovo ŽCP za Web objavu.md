@@ -12,8 +12,8 @@ tokens_in: 54191
 tokens_out: 34729
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-verificacion: revisar
-avisos: ["página 7: ratio 2.07", "página 8: ratio 2.17", "página 31: ratio 2.06"]
+verificacion: ok
+notas_cifras: ["página 6: original bilingüe: se compara contra el idioma principal (HR)", "página 7: original bilingüe: se compara contra el idioma principal (EN); ratio 1.98", "página 8: original bilingüe: se compara contra el idioma principal (HR); ratio 1.87", "página 18: cifras cortas: 1/17", "página 31: original bilingüe: se compara contra el idioma principal (HR)", "página 42: cifras cortas: 1/32"]
 ---
 
 ## Página 1
@@ -202,45 +202,74 @@ SMS
 ## Página 7
 
 ### 1. RESUMEN 
-El 22 de junio de 2020 a las 18:50 horas, en el paso a nivel protegido (PPN) "Kupljenovo", activamente protegido (luz, sonido y barrera semiautomática), en la línea R201 en el PK 010+383, se produjo la colisión de un vehículo de pasajeros contra el lateral del tren de tracción número 29713, que circulaba por la línea Varaždin-Zagreb Glavni kolodvor.  
-En el accidente resultó ligeramente herido el conductor del vehículo de pasajeros, y se produjeron daños materiales menores en el conjunto motor y daños materiales mayores en el vehículo de pasajeros.  
-El factor causal de este accidente es el cruce del vehículo de carretera por el PPN cuando se aproximaba el tren de tracción número 29713, mientras estaba activada la señalización luminosa-acústica y las barreras estaban levantadas, y se produjo la colisión del vehículo de pasajeros contra el tren número 29713 (capítulo 3.2.).              
-Factor contributivo:  
+El 22 de junio de 2020 a las 18:50 horas, en el PAF "Kupljenovo", activamente asegurado (luz, sonido y semibarrera), en la línea R201 en PK 010+383, se produjo el alcance de un vehículo de turismo por la parte lateral del tren de máquinas número 29713 que circulaba en el tramo Varaždin-Zagreb Glavni kolodvor.  
+En el accidente resultó levemente herido el conductor del vehículo de turismo, y se produjo un daño material menor en la composición motriz y un daño material mayor en el vehículo de turismo.  
+El factor causal de este accidente fue la cruzada de un vehículo de carretera de turismo por el PAF cuando el mismo era alcanzado por el tren de máquinas número 29713, mientras la señalización luminosa y sonora estaba activada y las semibarreras levantadas, y se produjo el alcance del vehículo de turismo por la composición del tren número 29713 (capítulo 3.2.).              
+Factor contribuyente:  
 - 
-ninguno.
+ninguno. 
 Factores sistémicos:  
 - 
-no detención del conductor del vehículo de pasajeros antes del PPN (capítulo 3.2., 4.1.7.), 
+no detención del conductor del vehículo de turismo antes del PAF (capítulo 3.2., 4.1.7.), 
 - 
-activación tardía del dispositivo de protección del PPN (capítulo 3.2., 4.2.1.). 
+activación extemporánea del dispositivo de aseguramiento del PAF (capítulo 3.2., 4.2.1.). 
 ### Recomendaciones de seguridad 
-La Agencia para la Investigación de Accidentes en el Tráfico Aéreo, Marítimo y Ferroviario, basándose en la investigación llevada a cabo de este accidente, y con el objetivo de mejorar la seguridad del sistema ferroviario, emite a la Agencia de Seguridad del Tráfico Ferroviario la siguiente recomendación de seguridad: 
-AIN/06 SR 03/2021: El gestor de la infraestructura debería desarrollar procedimientos adicionales en relación con la fiabilidad del funcionamiento de los dispositivos en los tramos de vía donde están instalados dispositivos de protección del PPN de tipo KŽCP-DK-EM del fabricante Končar KET (equipados con un sistema de activación/desactivación de tipo MS2000), y donde se ha reducido la intensidad del tráfico (puede aparecer oxidación en la parte rodante del riel), durante el paso de los trenes por los PPN mencionados. 
-### RESUMEN 
-El 22 de junio de 2020 a las 18:50 horas, en el paso a nivel (PN) "Kupljenovo", activamente protegido (luz, sonido y barrera semiautomática), en la línea R201 en el PK 010 + 383, un vehículo de pasajeros colisionó contra el lateral del tren de tracción número 29713, que circulaba por la línea Varaždin-Zagreb Glavni kolodvor. 
-El conductor del vehículo de pasajeros resultó ligeramente herido en el accidente, lo que causó daños materiales menores al conjunto motor y daños materiales mayores al vehículo de pasajeros. 
-El factor causal de este accidente es el cruce de un vehículo de carretera por el PN cuando el tren de tracción número 29713 se aproximaba a él, mientras estaba activada la señalización luminosa y acústica y las barreras estaban levantadas, y se produjo la colisión del vehículo de pasajeros contra el tren número 29713 (Capítulo 3.2.). 
-Factor contributivo: 
--  ninguno. 
-Factores sistémicos: 
--  fallo del conductor de un vehículo de pasajeros para detenerse antes del PN (Capítulo 3.2, 4.1.7.),
+La Agencia de Investigación de Accidentes en el Tráfico Aéreo, Marítimo y Ferroviario, con base en la investigación realizada de este accidente, y con el fin de mejorar la seguridad del sistema ferroviario, emite a la Agencia de Seguridad del Tráfico Ferroviario la siguiente recomendación de seguridad: 
+AIN/06 SR 03/2021: El gestor de infraestructura debería, en los tramos de líneas donde están instalados dispositivos SS de aseguramiento del PAF de tipo KŽCP-DK-EM del fabricante Končar KET (equipados con un sistema de tipo MS2000 de inclusión-exclusión), y en los que se ha reducido la intensidad del tráfico (es posible la aparición de oxidación en la parte de rodadura del carril), elaborar procedimientos adicionales en relación con la fiabilidad de funcionamiento de los dispositivos durante la circulación de trenes por los mencionados PAF. 
+### SUMMARY 
+On June 22, 2020 at 06:50 p.m. at the LC "Kupljenovo", actively secured (light, sound and half-
+bumper), on the line R201 at KM 010 + 383, a personal vehicle ran into the side of the machine train 
+number 29713, which operated on the route Varaždin-Zagreb Central Station. 
+The driver of the personal vehicle was slightly injured in the accident, which caused minor material 
+damage to the motor set and greater material damage to the personal vehicle. 
+The causal factor of this accident is the crossing of a personal road vehicle over the LC when the 
+machine train number 29713 arrived on it while the light and sound signaling was on and the bumpers 
+were raised, and a personal vehicle ran into the train composition number 29713 (Chapter 3.2). 
+Contributing factor: 
+-  none. 
+Systemic factors: 
+-  failure of a personal vehicle driver to stop before the LC (Chapter 3.2, 4.1.7.),
 
 ## Página 8
 
-- activación intempestiva del dispositivo de seguridad LC (Capítulo 3.2., 4.2.1.). 
+-  activación intempestiva del dispositivo de aseguramiento de LC (Capítulo 3.2., 4.2.1.). 
 ### Recomendaciones de seguridad 
-La Agencia de Investigación de Accidentes del Tráfico Aéreo, Marítimo y Ferroviario, con base en la investigación llevada a cabo de este accidente, con el fin de aumentar la seguridad del sistema ferroviario, emite la siguiente recomendación de seguridad a la Agencia de Seguridad Ferroviaria: 
-AIN/06 SR 03/2021: El Gestor de la Infraestructura debería, en los tramos de líneas ferroviarias donde están instalados dispositivos de seguridad de señales para la seguridad de los pasos a nivel (LC) de tipo KŽCP-DK-EM fabricados por Končar KET (equipados con sistema de encendido-apagado tipo MS2000), y en los que se ha reducido la intensidad del tráfico (es posible la oxidación en la parte de rodadura de la vía), desarrollar procedimientos adicionales respecto a la fiabilidad del funcionamiento del dispositivo cuando los trenes circulen por los mencionados pasos a nivel. 
-### 2. INVESTIGACIÓN Y SU CONTEXTO 
-### 2.1. Decisión de incoar la investigación 
-Tras la inspección ocular realizada el 25 de junio de 2020 por parte de la AIN, Departamento de Investigación de Accidentes en el Tráfico Ferroviario, y el análisis de la información y las pruebas recopiladas, se determinó que en el accidente en cuestión se había puesto en peligro la seguridad del sistema ferroviario, por lo que el investigador principal de accidentes ferroviarios dictó el 22 de julio de 2020 la Decisión de incoar la investigación de este accidente con arreglo al artículo 126, apartado 3, de la Ley de Seguridad e Interoperabilidad del Sistema Ferroviario (Narodne novine, n.º 63/20). La notificación de la incoación de la investigación de este accidente se envió el 22 de julio de 2020 a todas las partes implicadas, al organismo nacional competente en materia de seguridad, la Agencia de Seguridad del Tráfico Ferroviario (ASŽ), al gestor de la infraestructura HŽ Infrastruktura d.o.o., al transportista ferroviario HŽ Putnički prijevoz d.o.o. y al conductor del vehículo particular (usuario del paso a nivel). 
-La Agencia Ferroviaria de la Unión Europea (ERA) fue informada el 25 de julio de 2020 de la incoación de la investigación a través de la base de datos ERAIL https://erail.era.europa.eu/, conforme al plazo de siete días desde la fecha de adopción de la decisión de incoar la investigación, de conformidad con el artículo 133, apartados 1 y 2, de la Ley de Seguridad e Interoperabilidad del Sistema Ferroviario (Narodne novine, n.º 63/20).  
-### 2.2. Fundamentos de la Decisión de incoar la investigación 
-La Decisión de incoar la investigación del accidente en cuestión se dictó con arreglo al artículo 127, apartados 2 y 3, punto a), de la Ley de Seguridad e Interoperabilidad del Sistema Ferroviario (Narodne novine, n.º 63/20), es decir, al artículo 20, apartado 2, punto a), de la Directiva (UE) 2016/798 del Parlamento Europeo y del Consejo, de 11 de mayo de 2016, relativa a la seguridad ferroviaria (reforma). 
-### 2.3. Alcance y limitaciones de la investigación  
-El alcance de la investigación se detalla más ampliamente en el punto 4 del presente informe, mientras que no hubo limitaciones ni retrasos. 
-### 2.4. Descripción general de las capacidades técnicas y las funciones de las personas del equipo de investigadores 
-La AIN recibió la denuncia del accidente el 22 de junio de 2020 a las 19:00 horas por parte del despachador principal de HŽI, Sector de Tráfico. Con base en la información recopilada, se decidió que los investigadores de accidentes ferroviarios de la AIN se desplazaran al lugar del suceso para realizar la inspección ocular y recabar pruebas y hechos del accidente mencionado. La investigación fue llevada a cabo por el investigador principal y los investigadores de accidentes ferroviarios de la AIN.
+La Agencia de Investigación de Accidentes del Tráfico Aéreo, Marítimo y Ferroviario, con base en la 
+investigación realizada sobre este accidente, con el fin de aumentar la seguridad del sistema ferroviario, 
+emite la siguiente recomendación de seguridad a la Agencia de Seguridad Ferroviaria: 
+AIN/06 SR 03/2021: El gestor de infraestructura debería, en los tramos de líneas ferroviarias donde 
+estén instalados dispositivos de seguridad de señalización para asegurar LC del tipo KŽCP-DK-EM 
+fabricados por Končar KET (equipados con sistema de encendido/apagado del tipo MS2000), y en los 
+que se reduce la intensidad del tráfico (es posible la oxidación en la parte de rodadura de la vía), 
+desarrollar procedimientos adicionales sobre la fiabilidad del funcionamiento del dispositivo cuando 
+los trenes circulan por las mencionadas LC. 
+### 2. ISTRAGA I NJEZIN KONTEKST 
+### 2.1. Odluka o pokretanju istrage 
+Nakon obavljenog očevida dana 25. lipnja 2020. godine od strane AIN, Odjela za istrage nesreća u 
+željezničkom prometu, te analizom prikupljenih informacija i dokaza, utvrđeno je da je u predmetnoj 
+nesreći došlo do ugrožavanja sigurnosti željezničkog sustava stoga je glavni istražitelj željezničkih 
+nesreća donio dana 22. srpnja 2020. godine Odluku o pokretanju istrage ove nesreće temeljem članka 
+126. stavka 3. Zakona o sigurnosti i interoperabilnosti željezničkog sustava („Narodne novine“, broj 
+63/20). Obavijest o pokretanju istrage ove nesreće poslana je dana 22. srpnja 2020. godine svim 
+uključenim stranama, nacionalnom tijelu nadležnom za sigurnost - Agenciji za sigurnost željezničkog 
+prometa (ASŽ), upravitelju infrastrukture HŽ Infrastruktura d.o.o., željezničkom prijevozniku HŽ 
+Putnički prijevoz d.o.o. te vozaču osobnog vozila (korisniku ŽCP-a). 
+Agencija Europske unije za željeznice (ERA) obaviještena je dana 25. srpnja 2020. godine o pokretanju 
+istraživanja putem baze podataka ERAIL https://erail.era.europa.eu/, sukladno roku od sedam dana 
+od dana donošenja odluke o pokretanju istraživanja, članka 133. stavka 1. i 2. Zakona o sigurnosti i 
+interoperabilnosti željezničkog sustava („Narodne novine“, broj 63/20).  
+### 2.2. Obrazloženje Odluke o pokretanju istrage 
+Odluka o pokretanju istraživanja predmetne nesreće donesena je na temelju članka 127. stavaka 2. i 
+3. točke a) Zakona o sigurnosti i interoperabilnosti željezničkog sustava („Narodne novine“, broj 
+63/20) tj. članka 20. stavak 2. točke (a) Direktive (EU) 2016/798 Europskog parlamenta i Vijeća od 11. 
+svibnja 2016. o sigurnosti željeznica (preinaka). 
+### 2.3. Opseg i ograničenja istrage  
+Opseg istrage naveden je detaljnije u točki 4. ovog izvješća, dok ograničenja i kašnjenja nije bilo. 
+### 2.4. Skupni opis tehničkih mogućnosti i funkcija osoba u timu istražitelja 
+AIN je dojavu o nesreći zaprimio dana 22. lipnja 2020. godine u 19:00 sati od strane glavnog dispečera 
+HŽI, Sektora za promet. Temeljem prikupljenih informacija odlučeno je da će istražitelji željezničkih 
+nesreća AIN-a izaći na mjesto događaja radi obavljanja očevida i prikupljanja dokaza i činjenica 
+navedene nesreće. Istraživanje su proveli glavni istražitelj i istražitelji željezničkih nesreća AIN-a.
 
 ## Página 9
 
@@ -852,38 +881,38 @@ Artículo 44.
 
 ## Página 31
 
-(3) Los dispositivos de seguridad de los pasos a nivel controlados por personal (ŽCP) están en buen estado si, durante la inspección y verificación de su correcto funcionamiento, se determina que cumplen las siguientes condiciones:
-- una avería que se manifieste como un fallo en el dispositivo de seguridad del paso a nivel controlado por personal (ŽCP) debe provocar la indicación de prohibición de circulación en las señales principales que dependen del dispositivo de seguridad del paso a nivel controlado por personal (ŽCP),
-- el fallo del dispositivo de seguridad del paso a nivel controlado por personal (ŽCP), cuyo estado se controla mediante señales luminosas de control, debe transmitirse a la señal luminosa de control correspondiente de manera que la señal indique el fallo del dispositivo de seguridad del paso a nivel controlado por personal (ŽCP),
-- una avería que se manifieste como un fallo o perturbación en el dispositivo de seguridad del paso a nivel controlado por personal (ŽCP), cuyo estado se controla a distancia desde una caseta de mando ocupada permanentemente, debe indicarse en el dispositivo de control remoto mediante indicadores acústicos y ópticos y mediante el incremento del contador de registros,
-- los dispositivos automáticos de seguridad de los pasos a nivel controlados por personal (ŽCP) se activan con la llegada del vehículo ferroviario al punto de activación, y se desactivan con el cruce del vehículo ferroviario por el punto de desactivación,
-- si no se ha producido la desactivación en el punto de desactivación, el dispositivo se desactiva automáticamente y vuelve a su posición base transcurrido un tiempo de diseño determinado que no podrá ser inferior a 240 segundos,
-- en los casos de dependencia del dispositivo de seguridad del paso a nivel controlado por personal (ŽCP) con el dispositivo APB o con el dispositivo de seguridad de la estación, el dispositivo del paso a nivel controlado por personal (ŽCP) no se activa con el cruce del vehículo ferroviario por el punto de activación cuando la señal principal indica prohibición de circulación; el dispositivo realiza la función de memoria de activación; cuando se creen las condiciones para continuar la circulación mediante el cambio de la indicación de la señal en la señal principal a indicación de circulación permitida, el dispositivo para el paso a nivel controlado por personal (ŽCP) se activa para entrar en funcionamiento.
-Mantenimiento de los elementos de raíles para la activación y desactivación del dispositivo del paso a nivel controlado por personal (ŽCP)
+(3) Los dispositivos de seguridad de ŽCP son correctos si, durante la inspección y la comprobación de su correcto funcionamiento, se determina que cumplen las siguientes condiciones:
+- la avería que se manifiesta como fallo en el dispositivo de seguridad de ŽCP debe provocar la indicación de prohibición de circulación en los semáforos principales que dependen del dispositivo de seguridad de ŽCP,
+- el fallo del dispositivo de seguridad de ŽCP cuyo correcto funcionamiento se controla mediante señales luminosas de control debe transmitirse a la señal luminosa de control correspondiente de modo que la señal indique la avería del dispositivo de seguridad de ŽCP,
+- la avería que se manifiesta como fallo o interferencia en el dispositivo de seguridad de ŽCP cuyo correcto funcionamiento se controla a distancia desde un puesto de servicio permanentemente ocupado, debe indicarse en el dispositivo de control a distancia mediante indicadores acústicos y ópticos y mediante el incremento del número en el contador de registro,
+- el dispositivo automático de seguridad de ŽCP se activa con la aproximación del vehículo ferroviario al punto de activación, y se desactiva con el paso del vehículo ferroviario sobre el punto de desactivación,
+- si no se ha producido la desactivación en el punto de desactivación, el dispositivo se desactiva automáticamente y vuelve a la posición básica transcurrido un tiempo predeterminado de diseño que no puede ser inferior a 240 segundos,
+- en los casos de dependencia del dispositivo de seguridad de ŽCP con el dispositivo APB o con el dispositivo de seguridad de la estación, el dispositivo ŽCP no se activa con el paso del vehículo ferroviario sobre el punto de activación cuando el semáforo principal indica prohibición de circulación; el dispositivo almacena la función de activación; cuando se crean las condiciones para continuar la circulación mediante el cambio de la señal en el semáforo principal a circulación permitida, el dispositivo ŽCP entra en funcionamiento.
+
+Mantenimiento de los elementos de vía para la activación y desactivación del dispositivo ŽCP
 Artículo 51.
- (1) Por punto de activación o desactivación se entiende el lugar en la vía en el que se instala el dispositivo de detección de trenes en raíles (sensor electrónico, contacto de raíles, tramo aislado u otra solución técnica) mediante el cual se activa o desactiva automáticamente el dispositivo del paso a nivel controlado por personal (ŽCP).
- (2) Durante la inspección y el mantenimiento de los puntos de activación y desactivación se debe:
-- controlar el estado mecánico,
+(1) Se entiende por punto de activación o, respectivamente, de desactivación el lugar de la vía en el que se instala el dispositivo de detección de trenes de vía doble (sensor electrónico, contacto de vía, sección aislada u otra solución técnica) mediante el cual se activa o, respectivamente, se desactiva automáticamente el dispositivo ŽCP.
+(2) Durante la inspección y el mantenimiento de los puntos de activación y desactivación se debe:
+- controlar la corrección mecánica,
 - controlar la funcionalidad,
 - medir los parámetros eléctricos,
-- verificar que todas las partes del contacto de raíles estén firmemente unidas a la vía a la distancia reglamentaria y que no estén dañadas,
-- verificar que todos los cables de raíles de conexión y conmutación estén intactos y firmemente conectados a la vía.
+- comprobar que todas las partes del contacto de vía están firmemente unidas a la vía y en la distancia prescrita de la vía y sin daños, - comprobar que todos los cables de vía de conexión y de enlace están sin daños y firmemente conectados a la vía.
 Artículo 52.
-(1) En los elementos de raíles para la detección de trenes se debe realizar mensualmente:
-- verificar la posición correcta junto a la vía, así como cualquier daño en el elemento de detección y en los protectores correspondientes,
-- verificar la fijación y cualquier daño en el cable de conexión y en el conductor de puesta a tierra,
-- verificar la corrección de las conexiones de los cables de conexión en los raíles,
-- verificar la posición y cualquier daño en la carcasa de la electrónica correspondiente del detector de trenes,
-- verificar la respuesta del dispositivo ante la simulación de un tren,
+(1) En los elementos de vía de detección de trenes es necesario una vez al mes:
+- comprobar la posición correcta junto a la vía y posibles daños en el elemento de detección y en los protectores correspondientes,
+- comprobar la fijación y posibles daños en el cable de conexión y en el conductor de puesta a tierra,
+- comprobar la corrección de las uniones de los cables de conexión en las vías,
+- comprobar la posición y posibles daños en la carcasa de la electrónica correspondiente del detector de trenes,
+- comprobar la respuesta del dispositivo ante la simulación de un tren,
 - limpiar, si es necesario, las virutas en el elemento de detección.
- (2) En los elementos de raíles para la detección de trenes se debe realizar semestralmente:
- a. detectores electrónicos de trenes:
-- medir los voltajes y corrientes de alimentación y de las señales de retorno de detección,
-- probar la funcionalidad del dispositivo.
- b. contactos magnéticos de raíles:
-- medir la longitud de contacto y, si es necesario, regularla,
-- verificar la altura y la distancia respecto a la vía,
-- limpiar la regleta del distribuidor de cables.
+(2) En los elementos de vía de detección de trenes es necesario una vez cada seis meses:
+a. detectores electrónicos de trenes:
+- medir las tensiones y corrientes de alimentación y de las señales de retorno de detección,
+- ensayar la funcionalidad del dispositivo.
+b. contactos magnéticos de vía:
+- medir la longitud de contacto y regular si es necesario,
+- comprobar la altura y la distancia de la vía,
+- limpiar la regleta del repartidor de cables.
 
 ## Página 32
 

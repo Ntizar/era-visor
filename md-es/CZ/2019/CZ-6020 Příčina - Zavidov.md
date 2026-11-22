@@ -10,13 +10,14 @@ chars: 85801
 ratio_longitud: 1.25
 tokens_in: 50998
 tokens_out: 35282
-verificacion: revisar
-notas_cifras: ["bloque 2: original bilingüe: se compara contra el idioma principal (CS)", "bloque 4: original bilingüe: se compara contra el idioma principal (CS)", "bloque 6: original bilingüe: se compara contra el idioma principal (CS)", "bloque 7: original bilingüe: se compara contra el idioma principal (CS)"]
-avisos: ["bloque 4: ratio 1.73", "bloque 6: ratio 1.81", "bloque 7: ratio 1.62"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 3: original bilingüe: se compara contra el idioma principal (CS)", "página 7: original bilingüe: se compara contra el idioma principal (EN)", "página 8: original bilingüe: se compara contra el idioma principal (PT)", "página 12: original bilingüe: se compara contra el idioma principal (PT)", "página 13: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -40,13 +41,13 @@ IČ:   75009561
 mail@dicr.cz
 tel.: +420 736 521 003
 
-
 ## Página 2
+
 
 Este informe final es público y todos los hechos en él recogidos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ### 1 RESUMEN
     Fuente: DI
@@ -76,8 +77,8 @@ entrada no autorizada de la furgoneta en el paso a nivel P1735 en el momento en 
 se aproximaba al mismo el tren Os 17750 y se estaba emitiendo la advertencia
 lumínica y acústica por parte del dispositivo de seguridad del paso a nivel.
 
-
 ## Página 4
+
 
 Factor contribuyente:
 no fue detectado por la Inspección Ferroviaria.
@@ -117,10 +118,10 @@ la adopción de una medida que garantice que las señales de tráfico verticales
 nivel sin barreras», A 31b «Placa indicadora» (160 m) y A 31c «Placa indicadora»
 (80 m) situadas antes del paso a nivel P1735 en ambos sentidos, se doten de un
 fondo retroreflectante amarillo y verde con el fin de resaltar las señales de tráfico
-mencionadas. 
-
+mencionadas.
 
 ## Página 5
+
 
 ### SUMMARY
 Grade: 
@@ -174,8 +175,8 @@ which from the point of view as an optical barrier will reduce probability of th
 driver's entrance at the level crossing when a driver does not respond to the light
 and acoustic warning of the level crossing safety equipment.
 
-
 ## Página 6
+
 
 Addressed to the Municipal Authority of Rakovník as the Road Administration Office in the
 field of roads II. Class:
@@ -186,8 +187,8 @@ m)" and A 31c "Signboard (80 m)” which are placed before the level crossing No
 P1735 in both directions, will be retrofitted with yellow reflective coloring to highlight
 the designated traffic signs.
 
-
 ## Página 7
+
 
 # Índice
 1 RESUMEN........................................................................................................................3
@@ -238,6 +239,7 @@ técnicas aplicables y otras normas internas....................................
 
 ## Página 8
 
+
 3.4.1 Sistema de control, señalización y seguridad, incluido el dispositivo de registro automático de datos.....................................................................................................27
 3.4.2 Componentes de la vía....................................................................................................28
 3.4.3 Dispositivos de comunicación e información.........................................................................28
@@ -268,8 +270,8 @@ establecidos en el punto 3......................................................
 .........................................................................................................................................37
 6 RECOMENDACIONES DE SEGURIDAD.....................................................................................37
 
-
 ## Página 9
+
 
 ### Lista de siglas y símbolos utilizados
 COP
@@ -315,8 +317,8 @@ paso a nivel
 žst.
 estación de ferrocarril
 
-
 ## Página 10
+
 
 ### Lista de siglas de la legislación, normas y normativa interna utilizadas
 ley núm. 262/2006 Sb.
@@ -338,8 +340,8 @@ decreto núm. 376/2006 Sb., sobre el sistema de seguridad de la explotación de 
 ČSN 34 2650 ed. 2
 ČSN 34 2650 "Dispositivos de seguridad ferroviaria – Dispositivos de seguridad de paso a nivel", en la redacción vigente en el momento de producirse el suceso ferroviario
 
-
 ## Página 11
+
 
 | ČSN 73 6380 Z3 | ČSN 73 6380 "Pasos a nivel y pasos peatonales ferroviarios", en la redacción vigente en el momento de producirse el suceso ferroviario |
 | SŽDC D3 | normativa interna de la empresa explotadora de la vía SŽDC, s. o., |
@@ -351,12 +353,11 @@ decreto núm. 376/2006 Sb., sobre el sistema de seguridad de la explotación de 
 |  | aprobada el día 5. 11. 2018, en vigor desde el 15. 11. 2018, |
 |  | en la redacción vigente en el momento de producirse el suceso ferroviario |
 
-
 ## Página 12
 
-### 2 DATOS RELATIVOS AL SUCESO FERROVIARIO
-### 2.1 Suceso ferroviario
-### 2.1.1 Fecha, hora exacta y lugar del suceso ferroviario
+### 2 DATOS RELATIVOS AL SUCESO EXTRAORDINARIO
+### 2.1 Suceso extraordinario
+### 2.1.1 Fecha, hora exacta y lugar del suceso extraordinario
 Fecha:
 13. 7. 2019.
 Hora:
@@ -364,18 +365,28 @@ Hora:
 Vía:
 ferroviaria, categoría regional, Rakovník – Mladotice.
 Lugar:
-línea 522A Rakovník – Mladotice, entre las estaciones de tráfico D3 Lubná y Zavidov, paso a nivel P1735, pk 8,544.
+línea 522A Rakovník – Mladotice, entre las estaciones de tráfico D3 Lubná y Zavidov,
+paso a nivel ferroviario P1735, pk 8,544.
 GPS:
 50.0675414N, 13.
  6561764E
  .
-Fig. 1: Vista del lugar del SF
+Fig. n.º 1: Vista del lugar del SE
       Fuente: DI
-### 2.1.2 Descripción del desarrollo del suceso ferroviario y del lugar de producción, incluida la actuación del Sistema Integrado de Salvamento y del servicio de salvamento
-El día 13. 7. 2019, una furgoneta (en adelante también furgoneta) entró en el paso a nivel P1735, en el momento en que se aproximaba al paso a nivel, en dirección desde la estación de tráfico D3 Lubná, el tren Os 17750. Se produjo una colisión, durante la cual el tren impactó contra el lado derecho delantero de la furgoneta, que fue despedida por el impacto fuera de la vía pública hacia la izquierda en el sentido de la marcha, hacia el prado adyacente. El tren Os 17750 descarriló en el ámbito del paso a nivel con el bogie delantero hacia la derecha en el sentido de la marcha y a los 12 m se produjo el desprendimiento de su parte delantera del terraplén ferroviario hacia abajo, al prado situado a la derecha de la vía de la línea.
-
+### 2.1.2 Descripción del desarrollo del suceso extraordinario y del lugar de origen, incluida la
+actuación del sistema integrado de protección civil y del servicio de rescate
+El 13. 7. 2019 un vehículo de reparto (en adelante también furgoneta) accedió al paso
+a nivel ferroviario P1735, en el momento en que se aproximaba al paso a nivel ferroviario,
+en el sentido procedente de la estación de tráfico D3 Lubná, el tren Os 17750. Se produjo
+una colisión, durante la cual el tren impactó contra el lado delantero derecho del furgoneta,
+que fue despedido por el impacto fuera de la vía de comunicación terrestre hacia la izquierda
+en el sentido de la marcha, aterrizando en el prado adyacente. El tren Os 17750 descarriló
+en el espacio del paso a nivel ferroviario con el bogie delantero hacia la derecha en el
+sentido de la marcha y, tras 12 m, su parte delantera se deslizó
+del terraplén ferroviario abajo hacia el prado a la derecha de la vía de circulación.
 
 ## Página 13
+
 
 ## Sentido de marcha del Os 17750
 ##  Parada Causa
@@ -413,52 +424,34 @@ la cruz de advertencia y la caja luminosa del avisador eran visibles desde el se
 •
 distancia de 160 m;
 
-
 ## Página 14
 
-la longitud de visibilidad para el vehículo rodado más lento en caso de avería o apagado
-•
-del PZZ fue medida en el sentido de la marcha de la furgoneta y de la marcha del tren Os 17750 en 61 m;
-Fig. 3: Señalización vial en el sentido de la marcha de la furgoneta        Fuente: DI
-en los alrededores del ŽP no había vegetación ni obstáculos en el campo visual;
-•
-la caseta tecnológica del PZZ se encontraba, desde el punto de vista de la marcha de la furgoneta, a la izquierda antes del ŽP
-•
-y su ubicación no creaba un obstáculo en el campo visual, es decir, se garantizaba al conductor una
-visión despejada de la vía;
-la superficie de la vía pública adyacente al ŽP era asfáltica, la calzada del paso a nivel estaba
-•
-compuesta por una estructura de tipo STRAIL;
-en la superficie de la vía pública de clase II ni en la calzada del paso a nivel se detectaron
-•
-huellas de neumáticos tras la frenada de la furgoneta;
-la calzada del paso a nivel se encontraba en estado satisfactorio y era transitable sin limitaciones;
-•
-en la vía pública antes del ŽP en dirección desde la localidad de Příčina había surcos
-•
-y huellas de rozadura de los neumáticos traseros de la furgoneta, que se produjeron como consecuencia del impacto del tren contra la
-furgoneta;
-en ambos lados del ŽP en el eje del raíl se encontraban los calzos protectores y el estado de los canales para el
-•
-flange del vehículo ferroviario estaba en estado satisfactorio;
-el punto "0", es decir, la primera huella tras el descarrilamiento, donde el flange del raíl derecho del bogie delantero del
-•
-HDV trepó hasta la cabeza del raíl del carril derecho en el sentido de la marcha del tren y dejó en él una huella visible, fue detectado en el ámbito del ŽP en el pk 8,541;
-a una distancia de 17 m del ŽP se encontraba el bogie trasero del tren Os 17750, cuando ambos
-•
-raíles del bogie se apoyaban en el carril derecho en el sentido de la marcha del tren (véase fig.
-4);
-en todo el tramo de marcha en estado descarrilado el HDV dejó huellas en el
-•
-balasto – en las traviesas de madera y en los sistemas de fijación;
-la parte delantera del tren Os 17750 deslizó del terraplén ferroviario de unos 4 m de altura hacia abajo al
-•
-prado a la derecha de la vía de la línea;
-los amortiguadores delanteros del HDV se apoyaban en el suelo del prado bajo el terraplén ferroviario, bajo el
-•
-amortiguador izquierdo quedaron encajadas las puertas delanteras derechas de la furgoneta, el bogie delantero y la parte inferior del HDV estaban hundidos en la balasta del terraplén ferroviario (véase fig. 5);
+• visibilidad de observación para el vehículo rodado más lento en caso de avería o desconexión
+• La señal de protección de paso a nivel (PZZ) fue medida en la dirección de circulación de la furgoneta y de la circulación del tren Os 17750 en 61 m;
+Fig. n.º 3: Señalización vial en la dirección de circulación de la furgoneta        Fuente: DI
+• En las inmediaciones del paso a nivel (ŽP) no se encontraba ninguna vegetación ni obstáculos en el campo de visión;
+• El edificio tecnológico de la PZZ se situaba, desde el punto de vista de la circulación de la furgoneta, a la izquierda y delante del paso a nivel (ŽP)
+• y, por su ubicación, no creaba ningún obstáculo en el campo de visión, es decir, se garantizaba al conductor una visión ininterrumpida de la vía;
+• El pavimento de la carretera contigua al paso a nivel (ŽP) era de asfalto, y la calzada del paso a nivel estaba
+• constituida por una estructura tipo STRAIL;
+• No se detectaron huellas de neumáticos por frenada de la furgoneta ni en el pavimento de la carretera de II.ª clase ni en la calzada del paso a nivel;
+• La calzada del paso a nivel se encontraba en estado satisfactorio y era transitable sin limitaciones;
+• En la carretera antes del paso a nivel (ŽP) en la dirección procedente de la localidad de Příčina se apreciaban surcos claros
+• y huellas de desgaste de los neumáticos traseros de la furgoneta, que se produjeron como consecuencia del impacto del tren contra la furgoneta;
+• A ambos lados del paso a nivel (ŽP), en el eje de la vía, estaban colocados los calzos protectores y el estado de los canales para el borde de rodadura del vehículo ferroviario
+• era satisfactorio;
+• El punto «0», es decir, la primera huella tras el descarrilamiento, donde el borde de rodadura de la rueda delantera del bogí delantero de la locomotora (HDV) subió hasta la cabeza del raíl del carril derecho en la dirección de circulación del tren y dejó en él una huella visible, fue detectado en el espacio del paso a nivel (ŽP) en el pk 8,541;
+• A una distancia de 17 m del paso a nivel (ŽP) se encontraba el bogí trasero del tren Os 17750, cuando ambas
+• ruedas del bogí se apoyaban en el carril derecho en la dirección de circulación del tren (véase la fig.
+• n.º 4);
+• En todo el tramo de circulación en estado de descarrilamiento, la locomotora (HDV) dejó huellas en la superestructura ferroviaria – traviesas de madera y sistemas de fijación;
+• La parte delantera del tren Os 17750 descendió del terraplén ferroviario de unos 4 m de altura hacia abajo hasta
+• una pradera a la derecha de la vía de servicio;
+• Los topes delanteros de la locomotora (HDV) estaban apoyados en el suelo de la pradera bajo el terraplén ferroviario, bajo
+• el top izquierdo quedaron encajadas las puertas delanteras derechas de la furgoneta, y el bogí delantero y la parte inferior de la locomotora (HDV) quedaron hundidos en la balastro del terraplén ferroviario (véase la fig. n.º 5);
 
 ## Página 15
+
 
 a una distancia de unos 10 m de la parte delantera de la HDV se encontraba en la pradera una furgoneta
 •
@@ -482,8 +475,8 @@ de daños;
 frenado total;
 ➢el conmutador de sentido de marcha estaba en posición «marcha adelante»;
 
-
 ## Página 16
+
 
 ➢la palanca de conducción estaba en posición «0»;
 ➢las baterías de la HDV no estaban encendidas, todos los instrumentos de control, es decir, los indicadores de
@@ -533,8 +526,8 @@ La comunicación del MU por parte del operador de la vía y del transportista se
 § 49 apartado 3 letra a) de la Ley n.º 266/1994 Sb. y en el § 7 apartado 3 del Decreto n.º
 376/2006 Sb.
 
-
 ## Página 17
+
 
 Decisión de la DI de iniciar la investigación:
 13. 7. 2019, y ello en base a la gravedad
@@ -582,8 +575,8 @@ Os 17750;
 testigo – conductor de un turismo que circulaba detrás de la furgoneta implicada en el MU.
 •
 
-
 ## Página 18
+
 
 2.2.2 Trenes y su composición, incluidos los números de registro de los distintos vehículos ferroviarios
 | Tren: | Os17750 | Composición del tren: |  | Régimen de frenado: |
@@ -621,8 +614,8 @@ contador de ejes situado en el pk 7,810 de la línea Rakovník – Mladotice.
 La línea Rakovník – Mladotice no está equipada con la parte de línea del enclavador de tren.
 El bloque espacial adyacente en el sentido de marcha del tren Os 17750 Lubná – Zavidov no está equipado con
 
-
 ## Página 19
+
 
 dispositivo de enclavamiento de línea. El tráfico ferroviario se organiza con una gestión simplificada por el despachador director con sede en la est. Rakovník.
 ### 2.2.4 Uso de los medios de comunicación
@@ -668,8 +661,8 @@ y sanitarios y de los procedimientos conexos
 El plan del IZS fue activado dada la naturaleza del MU. El plan del IZS lo activó a las 15.16 h, es decir,
 2 minutos después de la producción del MU, el despachador director de la est. Rakovník.
 
-
 ## Página 20
+
 
 En el lugar del MU intervinieron los siguientes cuerpos del IZS:
 Servicio de Bomberos y Salvamento de SŽDC, Unidad de Protección Contra Incendios de Plzeň;
@@ -731,37 +724,37 @@ Con el MU, el daño causado en los vehículos ferroviarios, los componentes de l
 ### 2.4 Circunstancias externas
 ### 2.4.1 Condiciones meteorológicas y datos geográficos
 Condiciones meteorológicas:
-parcialmente nublado, + 23 °C, la visibilidad no se vio reducida por influencias
-meteorológicas.
+parcialmente nublado, + 23 °C, la visibilidad no se vio reducida por
+causas meteorológicas.
 ### 3 REGISTRO DE LA INVESTIGACIÓN Y DE LAS EXPLICACIONES PRESENTADAS 
-### 3.1 Resumen de las explicaciones presentadas (sujeto a la protección de la identidad de las personas)
-### 3.1.1 Empleados del gestor de la infraestructura y del transportista, incluidas las personas en relación contractual
+### 3.1 Resumen de las explicaciones presentadas (sujeto a protección de la identidad de las personas)
+### 3.1.1 Empleados del gestor de la infraestructura y del transportista, incluidas personas en relación contractual
 maquinista del tren Os 17750
-  – del Acta con el empleado, entre otros, se desprende:
+  – Del Acta con el empleado se desprende, entre otras cosas:
 •
-◦se aproximaba al paso a nivel P1735 en el punto kilométrico 8,544 a una velocidad de hasta 60 km·h-1 y escuchó la alerta sonora del PZZ;
+◦se aproximaba al paso a nivel P1735 en el punto kilométrico 8,544 a una velocidad de hasta 60 km·h-1 y escuchó la señal acústica de la SPP;
 ◦en el paso a nivel no veía debido a la curva;
-◦al acercarse al paso a nivel, en el lado derecho en el sentido de circulación del tren Os 17750, vio a un motociclista de pie en el camino de campo;
+◦al acercarse al paso a nivel, en el lado derecho en el sentido de circulación del tren Os 17750, vio a un motociclista parado en el camino de campo;
 ◦prestó atención a este, ya que parecía que quería continuar a través del paso a nivel en dirección a Rakovník;
-◦al entrar en el paso a nivel, de repente y sin ningún aviso se produció un impacto y el coche de motor descendió del terraplén ferroviario hacia la derecha en el sentido de circulación del tren Os 17750;
-◦se produjo una colisión con una furgoneta que entró en el paso a nivel desde el lado izquierdo en el sentido de circulación del tren Os 17750 y que no vio en absoluto;
+◦tras entrar en el paso a nivel, de repente y sin ningún aviso se produció un impacto y el automotor se salió del terraplén ferroviario a la derecha en el sentido de circulación del tren Os 17750;
+◦se produjo una colisión con una furgoneta que entró en el paso a nivel por el lado izquierdo en el sentido de circulación del tren Os 17750 y que no llegó a ver;
 maquinista del tren Os 17750
-  – del Registro Oficial de la explicación presentada de la PČR
+  – Del Registro Oficial de la explicación presentada a la PČR
 •
 se desprende:
-◦el 13. 7. 2019 a las 15.02 h partió con el tren Os 17750 de la estación de Rakovník hacia la estación de tráfico D3 Lubná, donde se detuvo;
-◦tras recibir el permiso del despachador director, continuó la marcha, pasó la parada Příčina, que es de señal;
+◦el día 13. 7. 2019 a las 15.02 h partió con el tren Os 17750 de la estación de Rakovník hacia la estación de maniobras D3 Lubná, donde se detuvo;
+◦tras recibir el permiso del despachador director, continuó la marcha, pasó por la parada Příčina, que es de señal;
 ◦antes del paso a nivel P1735 hay una señal que le indica la protección del paso a nivel;
-◦ya que según la señalización el paso a nivel estaba protegido (es decir, el PZZ estaba en alerta), continuó la marcha a una velocidad de alrededor de 55 km·h-1;
-◦al paso a nivel se entra desde una curva, en el lado derecho bajo el paso a nivel vio a un motociclista de pie, al que prestó atención;
-◦en ese momento se produjo un impacto, no sabía contra qué chocó, no llegó a reaccionar de ninguna manera – aplicar el freno de emergencia, etc.;
-◦tras el impacto el tren descarriló y cayó del terraplén hacia la derecha en el sentido de circulación, la parte trasera del tren permaneció sobre el terraplén y la parte delantera quedó en el prado;
-◦quiso pasar por la zona de pasajeros, pero no pudo salir de la cabina, detrás de la puerta yacía una pasajera herida;
+◦ya que según la señalización el paso a nivel estaba protegido (es decir, la SPP estaba en alarma), continuó la marcha a una velocidad de alrededor de 55 km·h-1;
+◦al paso a nivel se entra desde una curva, en el lado derecho bajo el paso a nivel vio a un motociclista parado, al que prestó atención;
+◦en ese momento se produjo un impacto, no sabió con qué chocó, no llegó a reaccionar de ninguna manera – aplicar el freno rápido, etc.;
+◦tras el impacto el tren descarriló y se cayó del terraplén al lado derecho en el sentido de circulación, la parte trasera del tren permaneció sobre el terraplén y la parte delantera quedó en el prado;
+◦quiso pasar por el espacio para pasajeros, pero no pudo salir de la cabina, detrás de la puerta yacía una pasajera herida;
 ◦saltó por la ventana lateral del tren y corrió de vuelta al tren para comprobar el estado de los pasajeros;
 ◦llamó inmediatamente al despachador director, que organizó los trabajos de rescate;
 
-
 ## Página 22
+
 
 ◦al salir del tren vio que en el paso a nivel había chocado con una furgoneta que había sido lanzada de lado al prado;
 ◦en el momento anterior a la colisión tenía la ventana de la cabina entreabierta y escuchó la alerta sonora del paso a nivel;
@@ -796,115 +789,134 @@ de la PČR se desprende:
 ◦no sabía por qué no percibió la señal luminosa de aviso, si estaba en funcionamiento, no la registró, de lo contrario no habría entrado en el paso a nivel;
 ◦le duele inmensamente todo lo que ocurrió;
 
-
 ## Página 23
 
 testigo, acompañante en la furgoneta implicada en el MU
   – del Registro Oficial
 •
-de la explicación presentada de la PČR se desprende:
-◦el regreso a casa a Ucrania lo organizó con un transportista privado mediante una furgoneta, en la que subió con su hija en Beroun entre las 14.00 h y las 15.00 h;
-◦en la furgoneta se sentó en la última fila en el centro, la hija a su izquierda junto a la ventana en el asiento infantil y ambas iban abrochadas;
-◦al subir a la furgoneta, a su izquierda junto a la ventana ya se sentaba una mujer, si iba abrochada con el cinturón de seguridad no lo sabía, pero el conductor avisó a todos para que se abrocharan;
-◦antes del accidente se detuvieron en un pueblo, donde subió un joven, después se durmió y no recordaba nada en absoluto ni entendió lo que había ocurrido;
-◦estaba en el suelo y no podía ponerse de pie, vio la furgoneta chocada y el tren descarrilado;
-◦buscaba a su hija, a la que una mujer sostenía en brazos y le dijo que estaba bien;
-◦junto con su hija fueron trasladadas al hospital para ser atendidas;
+de la declaración prestada ante la PČR se desprende:
+◦el traslado a su casa en Ucrania lo organizó con un transportista privado mediante
+una furgoneta, en la que embarcó con su hija en Beroun entre las 14.00 h y las 15.00 h;
+◦en la furgoneta se sentaba en la última fila en el centro, su hija a la izquierda junto a ella
+en el asiento junto a la ventana en una silla infantil, y ambas iban abrochadas;
+◦al embarcar en la furgoneta, delante de ellas, a la izquierda junto a la ventana,
+ya se sentaba una mujer; no sabía si iba abrochada con el cinturón de seguridad,
+pero el conductor avisó a todos de que se abrocharan;
+◦antes del accidente se detuvieron en un pueblo, donde embarcó un joven;
+después se quedó dormida y no recordaba nada en absoluto ni entendió qué había ocurrido;
+◦estaba en el suelo y no podía ponerse de pie; vio la furgoneta choca
+y el tren descarrilado;
+◦buscaba a su hija, que una mujer sostenía en brazos y le dijo que estaba bien;
+◦junto con su hija fueron trasladadas al hospital para recibir tratamiento;
 testigo 1, pasajero en el tren Os 17750
-  – del Registro Oficial de la explicación presentada
+  – del Registro Oficial de la declaración prestada
 •
-de la PČR se desprende:
-◦el 13. 7. 2019 viajó con su hija en el tren Os 17750 desde Rakovník hasta la localidad de Čistá;
-◦durante el viaje su hija necesitó ir al baño, por lo que se fue con ella al WC;
-◦unos 3 minutos después se produjo un impacto y un golpe, rápidamente cogió a su hija en brazos para evitar que se lesionara;
-◦tras la detención del tren comprobó que la parte delantera del tren estaba fuera de los raíles y la parte trasera (el WC) estaba en el aire;
-◦cuando abandonaban el WC con su hija, les venía al encuentro una señora y les preguntaba cómo estaban;
-◦intentó salir rápidamente del tren, no se preocupó de si estaba herido, abrió la puerta y junto con su hija abandonaron el tren;
-◦a continuación se ocupó del traslado de su hija, que no estaba herida, y él fue trasladado al hospital para ser atendido;
-testigo 2, pasajera en el tren Os 17750
-  – del Registro Oficial de la explicación presentada
+ante la PČR se desprende:
+◦el 13. 7. 2019 viajaba con su hija en el tren Os 17750 desde Rakovník hasta la localidad de Čistá;
+◦durante el viaje su hija necesitaba ir al baño, por lo que se fue con ella al WC;
+◦unos 3 minutos después se produjo un impacto y un golpe; rápidamente cogió a su hija
+en brazos para evitar que se lesionara;
+◦tras la detención del tren comprobó que la parte delantera del tren estaba fuera de la vía
+y la parte trasera (el WC) estaba en el aire;
+◦cuando salían del WC con su hija, les venía una señora al encuentro y les preguntaba
+cómo estaban;
+◦intentó salir rápidamente del tren; no se preocupó de si estaba herido; abrió la puerta
+y junto con su hija abandonaron el tren;
+◦a continuación se aseguró del traslado de su hija, que no resultó herida,
+y él fue trasladado al hospital para recibir tratamiento;
+testigo 2, pasajero en el tren Os 17750
+  – del Registro Oficial de la declaración prestada
 •
-de la PČR se desprende:
-◦el 13. 7. 2019 viajó con su novio en el tren Os 17750 desde Rakovník hasta la localidad de Čistá;
-◦tras la salida de Rakovník estuvo charlando con su novio hasta la localidad de Lubná, donde sacó el teléfono móvil y jugó a juegos;
-◦en la parada de Příčina el tren frenó ligeramente, pero dado que nadie se bajaba, continuó la marcha hacia la localidad de Zavidov;
-◦antes del paso a nivel entre las localidades de Příčina y Petrovice el tren empezó a pitar a distintos intervalos;
-◦cuando el tren estaba en algún punto del paso a nivel, de repente se oyó un estruendo y el tren empezó a girar, su parte trasera apuntaba hacia la localidad de Příčina y la parte delantera estaba inclinada fuera de la vía hacia abajo en dirección a la localidad de Petrovice;
-◦estaba sentada en un asiento junto a la ventana a la izquierda y de espaldas en el sentido de circulación, por lo que tras el impacto se mantuvo en el asiento;
-◦el novio, que estaba sentado frente a ella junto a la ventana, cayó sobre ella y se lesionó en la pierna;
-
+ante la PČR se desprende:
+◦el 13. 7. 2019 viajaba con su novio en el tren Os 17750 desde Rakovník hasta la localidad
+de Čistá;
+◦después de salir de Rakovník estuvo charlando con su novio hasta la localidad de Lubná,
+donde sacó el teléfono móvil y jugaba a juegos;
+◦en la parada de Příčina el tren frenó algo, pero dado que nadie se bajaba,
+continuó su marcha hacia la localidad de Zavidov;
+◦antes del ŽP entre las localidades de Příčina y Petrovice el tren empezó a pitar
+en distintos intervalos;
+◦cuando el tren se encontraba en algún punto del espacio del ŽP, se oyó de pronto
+un golpe y el tren empezó a girar; su parte trasera apuntaba hacia la localidad de Příčina
+y la parte delantera estaba inclinada fuera de la vía hacia abajo, en dirección a la localidad
+de Petrovice;
+◦estaba sentada en un asiento junto a la ventana a la izquierda y de espaldas en el sentido
+de la marcha, de modo que tras el impacto se mantuvo en el asiento;
+◦su novio, que estaba sentado enfrente junto a la ventana, cayó sobre ella y se lesionó
+en la pierna;
 
 ## Página 24
 
-◦cuando el tren dejó de moverse, se arrastró a cuatro patas hacia la parte trasera del tren en dirección al WC, donde se encontraba un señor con su hija;
-◦comprobó que estaban bien, bajó del tren y fue a ayudar a los heridos;
+◦cuando el tren dejó de moverse, se arrastró a cuatro patas hasta la parte trasera del tren en dirección al WC, donde se encontraba un señor con su hija;
+◦comprobó que estaban bien, salió del tren y fue a ayudar a los heridos;
 testigo 3, pasajero en el tren Os 17750
-  – del Registro Oficial de la explicación presentada
+  – Del Registro Oficial de la declaración prestada
 •
 de la PČR se desprende:
 ◦el 13. 7. 2019 viajó con su pareja en el tren Os 17750 desde Rakovník hasta la localidad de Čistá;
-◦estaban sentados en la segunda fila desde el maquinista, en el lado izquierdo en el sentido de circulación;
-◦delante de ellos, en el lado derecho en el sentido de circulación del tren, estaba sentada una mujer mayor;
-◦en el tren había además con ellos un hombre con su hija, que en el momento del accidente, según él, estaban en el WC;
-◦en el momento del impacto se estaba atando el cordón del zapato, por lo que no miraba por la ventana;
-◦tras el impacto cayó sobre su novia, a la que cogió y sostuvo hasta que el tren se detuvo;
-◦el tren fue lanzado hacia la derecha en el sentido de circulación, estaba completamente fuera de los raíles y con la parte delantera en el prado;
-◦tras comprobar que su novia no estaba herida, se dirigió hacia la señora mayor, que yacía junto a la puerta del maquinista, que no podía abrir la puerta de la cabina;
+◦se sentaban en la segunda fila desde el maquinista, a la izquierda en el sentido de la marcha;
+◦delante de ellos, a la derecha en el sentido de la marcha del tren, se sentaba una mujer mayor;
+◦en el tren había además con ellos un hombre con su hija, que según él en el momento del accidente estaban en el WC;
+◦en el momento del impacto se estaba ajustando el cordón del zapato, por lo que no miraba por la ventana;
+◦tras el impacto cayó sobre su novia, a la que agarró y sostuvo hasta que el tren se detuvo;
+◦el tren fue desviado a la derecha en el sentido de la marcha, quedó completamente fuera de la vía y con la parte delantera en el prado;
+◦tras comprobar que su novia no estaba herida, se dirigió a la señora mayor que yacía junto a la puerta del maquinista, el cual no podía abrir la puerta de la cabina;
 ◦la mujer decía que no podía respirar, por lo que le puso su sudadera bajo la cabeza;
-◦vio cómo del WC salía un hombre con su hija, a los que su novia ayudó a salir del tren;
-◦saltó del tren y vio la furgoneta averiada, hacia la que corrió;
+◦vio cómo del WC salió un hombre con su hija, a los que su novia ayudó a salir del tren;
+◦saltó del tren y vio la furgoneta accidentada, hacia la que corrió;
 ◦ya había allí otras personas e intentaban ayudar a los heridos, a los que, tras arrancar la puerta, extraían de la furgoneta;
-◦a continuación fue trasladado por los bomberos al hospital para ser atendido;
-◦tras bajar del tren escuchó la señal sonora de aviso en el paso a nivel;
+◦a continuación fue trasladado por los bomberos al hospital para su tratamiento;
+◦tras salir del tren oyó la señal sonora de aviso en el ŽP;
 testigo 4, pasajera en el tren Os 17750
-  – del Registro Oficial de la explicación presentada
+  – Del Registro Oficial de la declaración prestada
 •
 de la PČR se desprende:
-◦el 13. 7. 2019 subió en Rakovník a un tren de cercanías en dirección a Kralovice, tenía el billete comprado hasta la localidad de Zavidov;
-◦en el tren se sentó detrás del maquinista, a la derecha en el sentido de circulación, donde estaba sentada sola;
-◦entre las localidades de Příčina y Zavidov hay un paso a nivel, al que se entra desde una curva;
-◦como estaba sentada a la derecha, no veía la carretera desde la localidad de Příčina;
-◦recordaba que el maquinista pitó antes del paso a nivel, en ese momento ya se estaba preparando mentalmente para bajarse;
-◦de repente llegó un impacto, como consecuencia del cual fue lanzada hacia delante desde el asiento y cayó al lado izquierdo, con los pies en el pasillo central;
+◦el 13. 7. 2019 subió en Rakovník al tren de pasajeros con destino a Kralovice, tenía el billete comprado hasta la localidad de Zavidov;
+◦en el tren se sentó detrás del maquinista, a la derecha en el sentido de la marcha, donde iba sola;
+◦entre las localidades de Příčina y Zavidov hay un paso a nivel, al que se accede desde una curva;
+◦como se sentaba a la derecha, no podía ver la carretera desde la localidad de Příčina;
+◦recordaba que el maquinista pitó antes del ŽP, en ese momento ya se estaba preparando mentalmente para bajarse;
+◦de repente llegó un impacto, como consecuencia del cual fue expulsada hacia delante del asiento y cayó al lado izquierdo, quedando los pies en el pasillo central;
 ◦estaba tumbada de espaldas y tardó un poco en orientarse;
-◦tras un momento se acercó un compañero de viaje y le preguntó si le dolía algo;
-◦no quería que la movieran antes de que llegara el médico, para que le resultara más fácil respirar le colocaron algo bajo la cabeza;
-◦a continuación la sacaron por la ventana del tren en una camilla, donde la examinó una médica, y posteriormente fue trasladada en avión al hospital;
-testigo, motociclista de pie en el camino de campo a la derecha del paso a nivel en el sentido de circulación del tren Os
+◦al poco rato se acercó un compañero de viaje y le preguntó si le dolía algo;
+◦no quería que la movieran antes de que llegara el médico, para que le resultara más fácil respirar, le apoyaron la cabeza;
+◦a continuación la sacaron por la ventana del tren en una camilla, donde la examinó una médica, y posteriormente fue trasladada en helicóptero al hospital;
+testigo, motociclista que se encontraba en un camino de campo a la derecha del ŽP en el sentido de la marcha del tren
 •
-     17750
-  – de la Resolución de la PČR se desprende:
-◦con su motocicleta estaba detrás del paso a nivel, donde se estaba refrescando;
+    17750
+Os
+  – Del Acuerdo de la PČR se desprende:
+◦con su motocicleta estaba detrás del ŽP, donde se estaba refrescando;
 
 ## Página 25
 
-◦vio parpadear la luz de aviso, también oyó el sonido de aviso de la barrera;
-◦a continuación oyó un golpe terrible a su espalda, no vio la propia colisión;
+◦vio parpadear la luz de aviso, también oyó el sonido de aviso de la barrera de paso;
+◦a continuación oyó detrás de él un golpe terrible, no vio la propia colisión;
 ◦seguidamente fue a ayudar a los pasajeros y abandonó el lugar del accidente;
 testigo, conductor de un automóvil que circulaba detrás de la furgoneta implicada en el MU
   –
 •
-Del Registro Oficial de la declaración prestada ante la Policía Nacional se desprende:
-◦el 13. 7. 2019 viajaba con su novia desde Rakovník hasta la localidad de Petrovice;
+Del Registro Oficial de la declaración prestada por la Policía Nacional (PČR) se desprende:
+◦el 13. 7. 2019 circulaba con su novia desde Rakovník hasta la localidad de Petrovice;
 ◦entre las localidades de Brant y Příčina alcanzaron una furgoneta azul, detrás de la cual circularon durante todo el recorrido por la localidad de Příčina;
-◦a continuación la furgoneta aceleró, de modo que se alejó hacia la barrera;
-◦en ese momento oyeron la señal sonora del tren que llegaba desde Rakovník, al que sin embargo no pudieron ver debido al lugar;
-◦en el momento en que la furgoneta entró en la barrera, se encontraba con su vehículo a unos 100 – 150 m por detrás de la furgoneta y desde ese lugar ambos ya registraron que en la barrera parpadeaban luces rojas, y como tenía la ventana abierta, también oyeron la señalización sonora;
+◦a continuación la furgoneta aceleró, de modo que se alejó hacia la barrera de paso;
+◦en ese momento oyeron la señal sonora del tren que llegaba desde Rakovník, pero debido a la ubicación no lo vieron;
+◦en el momento en que la furgoneta entró en la barrera de paso, él se encontraba con su vehículo a unos 100 – 150 m por detrás de la furgoneta y desde ese lugar ambos ya registraron que en la barrera de paso parpadeaban luces rojas, y como tenía la ventana abierta, también oyeron la señalización acústica;
 ◦no se percata de si a la furgoneta se le encendieron las luces de frenado, pero como le parecía que no se acercaba de ninguna manera a la furgoneta, cree que en absoluto no redujo la velocidad;
-◦de repente oyeron un golpe y vieron cómo el tren embistió a la furgoneta, que salió volando por los aires en dirección al lado izquierdo de la localidad de Příčina;
-◦a continuación el tren descarriló, quedó colgado con la parte delantera hacia abajo desde el terraplén en dirección a la localidad de Petrovice y la parte trasera sobre el raíl derecho;
-◦se desplazó con su vehículo hacia el lado derecho y su novia llamó al número 155;
+◦de repente oyeron un golpe y vieron cómo el tren embistió a la furgoneta, que salió volando hacia la izquierda respecto a la localidad de Příčina;
+◦a continuación el tren descarriló, quedando la parte delantera colgando del terraplén hacia abajo en dirección a la localidad de Petrovice y la parte trasera sobre el raíl derecho;
+◦con su vehículo se dirigió a la derecha y su novia llamó al número 155;
 ◦en ese momento ya se habían detenido en el lugar varios vehículos y todos ayudaban a extraer a las personas de la furgoneta.
 ### 3.2 Sistema de garantía de la seguridad
 ### 3.2.1 Organización marco y forma de emisión y ejecución de instrucciones
 El gestor de la infraestructura y el transportista cuentan con un sistema de garantía de la seguridad adoptado con base en las disposiciones de la Ley n.º 266/1994 Sb.
-En el sistema de garantía de la seguridad de la explotación de la infraestructura adoptado por el gestor de la infraestructura SŽDC, relacionado con las circunstancias del origen del MU en cuestión, no se detectó ninguna deficiencia.
-En el sistema de garantía de la seguridad de la explotación del transporte ferroviario adoptado por el transportista ČD, relacionado con las circunstancias del origen del MU en cuestión, no se detectó ninguna deficiencia.
-### 3.2.2 Requisitos para los empleados del gestor de la infraestructura y del transportista y aplicación de dichos requisitos
-Los requisitos para los empleados del gestor de la infraestructura y del transportista, en particular los requisitos de idoneidad profesional y sanitaria, están establecidos por la Ley n.º 266/1994 Sb., el Decreto n.º 173/1995 Sb., el Decreto n.º 101/1995 Sb., el Decreto n.º 16/2012 Sb. y las normas internas del gestor de la infraestructura y del transportista.
-
+En el sistema de garantía de la seguridad de la explotación de la infraestructura adoptado por el gestor de la infraestructura SŽDC, relacionado con las circunstancias de la ocurrencia del MU en cuestión, no se detectó ninguna deficiencia.
+En el sistema de garantía de la seguridad de la explotación del transporte ferroviario adoptado por el transportista ČD, relacionado con las circunstancias de la ocurrencia del MU en cuestión, no se detectó ninguna deficiencia.
+### 3.2.2 Requisitos aplicables al personal del gestor de la infraestructura y del transportista y aplicación de dichos requisitos
+Los requisitos aplicables al personal del gestor de la infraestructura y del transportista, en particular los requisitos de idoneidad profesional y de idoneidad médica, están establecidos en la Ley n.º 266/1994 Sb., en el Decreto n.º 173/1995 Sb., en el Decreto n.º 101/1995 Sb., en el Decreto n.º 16/2012 Sb. y en las normas internas del gestor de la infraestructura y del transportista.
 
 ## Página 26
+
 
 En el momento del origen del MU, la persona del transportista ČD implicada en el MU que realizaba actividades en la explotación del transporte ferroviario (maquinista del tren Os 17750) era profesionalmente idónea para el desempeño de la función que ocupaba.
 ### 3.2.3 Procedimientos de control interno de la seguridad y de auditoría y sus resultados
@@ -918,8 +930,8 @@ El transportista del tren Os 17750 fue ČD, con domicilio en Nábřeží L. Svob
 El transporte ferroviario se explotó con base en el contrato celebrado entre el gestor de la infraestructura SŽDC y el transportista ČD el 21. 8. 2013, con efectos desde el 1. 9. 2013.
 En la interfaz entre los sujetos implicados no se detectó ninguna deficiencia.
 
-
 ## Página 27
+
 
 ### 3.3 Regulación legal y de otro tipo
 ### 3.3.1 Normativa legal nacional y normativa de la Unión Europea aplicables
@@ -946,8 +958,8 @@ Del análisis del archivo de datos descargado del dispositivo de registro del di
 •
 PB1 en km 7,810 por la circulación del tren Os 17750 – inicio de la advertencia del PZZ
 
-
 ## Página 28
+
 
 y encendido de la señal «Paso a nivel cerrado» en la señal principal
 X79;
@@ -974,8 +986,8 @@ El uso de los dispositivos de comunicación, transmisión y información no guar
 ### 3.4.4 Vehículos ferroviarios, incluidos los dispositivos de registro automático de datos
 El HDV 810.585-0 disponía de un Certificado de aptitud de vehículo ferroviario válido, n.º de ref.: PZ 4553/04-V.22, emitido por DÚ el 9. 4. 2004. La última inspección técnica periódica antes del origen del MU se realizó el 6. 6. 2019, con vigencia hasta el 6. 12. 2019, con el resultado de que el estado técnico del HDV corresponde a la aptitud aprobada.
 
-
 ## Página 29
+
 
 El HDV 810.585-0 estaba equipado, en el momento del origen del MU, con un dispositivo de registro automático de datos – un velocímetro registrador mecánico Metra, tipo E611/VIII, n.º de fab. 76060.
 De los datos registrados se desprende:
@@ -1005,108 +1017,104 @@ El tren Os 17750 llegó a las 15.09 h a la estación de tráfico D3 Lubná, dond
 
 ## Página 30
 
-této dopravny y a la vez solicitaba el consentimiento para la salida del tren desde la estación de mando D3 Lubná hacia la estación de mando D3 Čistá. El despachador director concedió inmediatamente después al maquinista el consentimiento para la salida del tren Os 17750 desde Lubná hacia Čistá.
+de la estación de maniobras y, al mismo tiempo, solicitaba el consentimiento para la salida del tren desde la estación de maniobras D3 Lubná hasta la estación de maniobras D3 Čistá. El despachador director, inmediatamente después, concedió al maquinista el consentimiento para la salida del tren Os 17750 desde Lubná hasta Čistá.
 No se detectaron deficiencias.
-3.5.2 Intercambio de comunicaciones orales en relación con el suceso ferroviario, incluidos los datos del dispositivo registrador
-En relación con el SU no se produjo comunicación verbal que influyera en su origen.
-### 3.5.3 Medidas adoptadas para la protección y la seguridad del lugar del suceso ferroviario
-El lugar del SU fue asegurado por la persona cualificada profesionalmente designada del gestor de la infraestructura y del operador ferroviario, de conformidad con el decreto n.º 376/2006 Sb.
-### 3.6 Condiciones laborales, sanitarias y operativas
-### 3.6.1 Jornada laboral de los empleados del gestor de la infraestructura y del operador ferroviario que fueron partes en el suceso ferroviario
-maquinista del tren Os 17750, en el turno del día 13. 7. 2019 desde las 12.10 h, descanso previo
-•
-al turno de 21 h; el descanso para la comida debía disfrutarse desde las 15.30 h hasta las 16 h tras la llegada del tren Os 17750 a la estación de mando D3 Čistá. Sin embargo, el descanso no se disfrutó debido a la ocurrencia del suceso ferroviario.
+3.5.2 Intercambio de comunicaciones orales en relación con el suceso excepcional, incluidos los datos del registrador
+En relación con el SE no se produjo comunicación verbal que influyera en su ocurrencia.
+### 3.5.3 Medidas adoptadas para la protección y la seguridad del lugar del suceso excepcional
+El lugar del SE fue asegurado por la persona cualificada designada del gestor de la infraestructura y del transportista, de conformidad con el decreto n.º 376/2006 Sb.
+### 3.6 Condiciones laborales, sanitarias y de explotación
+### 3.6.1 Jornada laboral de los empleados del gestor de la infraestructura y del transportista que fueron partes en el suceso excepcional
+• maquinista del tren Os 17750, en el turno del 13 de julio de 2019 desde las 12.10 h, descanso previo al turno de 21 h; el descanso para la comida y el reposo debía disfrutarse desde las 15.30 h hasta las 16 h tras la llegada del tren Os 17750 a la estación de maniobras D3 Čistá. Sin embargo, dicho descanso no se disfrutó debido a la ocurrencia del suceso excepcional.
 El empleador garantizó las condiciones para el descanso previo al turno y durante el turno, de conformidad con la ley n.º 262/2006 Sb., o bien con el decreto gubernamental n.º 589/2006 Sb., por el que se establece un régimen diferenciado de la jornada laboral y del tiempo de descanso de los empleados en el transporte.
-3.6.2 Estado de salud y situación personal que tuvieron impacto en el suceso ferroviario, incluido el estrés físico o psicológico
-Los empleados participantes del gestor de la infraestructura y del operador ferroviario estaban, en el momento de la ocurrencia del SU, médicamente aptos para el desempeño de la función que ocupaban. La investigación no determinó que la situación personal o el estado psicológico de las personas involucradas en el SU tuvieran influencia en la ocurrencia del SU.
-Los empleados del gestor de la infraestructura y del operador ferroviario se sometían a exámenes médicos periódicos de conformidad con la disposición del decreto n.º 101/1995 Sb. No se detectaron problemas de salud ni situaciones personales que pudieran haber influido en la ocurrencia del SU, incluido el estrés físico y psicológico.
-
+3.6.2 Estado de salud y situación personal que tuvieron incidencia en el suceso excepcional, incluido el estrés físico o psíquico
+Los empleados participantes del gestor de la infraestructura y del transportista estaban, en el momento de la ocurrencia del SE, aptos para el desempeño de la función que desempeñaban. La investigación no determinó que la situación personal o el estado psíquico de las personas participantes en el SE hubieran influido en la ocurrencia del SE.
+Los empleados del gestor de la infraestructura y del transportista se sometían a reconocimientos médicos periódicos de conformidad con lo dispuesto en el decreto n.º 101/1995 Sb. No se detectaron el estado de salud ni la situación personal que pudieran haber influido en la ocurrencia del SE, incluido el estrés físico y psíquico.
 
 ## Página 31
 
-3.6.3 Disposición del equipamiento del puesto de mando o del vehículo ferroviario que influye en su manejo y uso
-La disposición y el equipamiento del puesto de trabajo de los empleados del gestor de la infraestructura y del operador ferroviario no guardaban relación con la ocurrencia del SU.
-### 3.7 Sucesos ferroviarios anteriores de carácter similar
-La Inspección Ferroviaria registra en las líneas de ámbito nacional y regional, en el período comprendido desde el 1. 1. 2008 hasta la ocurrencia del SU en cuestión, 890 SU similares, en los que en pasos a nivel protegidos con SPGS sin barreras se produjo la colisión de un vehículo o de un tren con un vehículo motor por carretera. La causa inmediata de la ocurrencia de estos SU fue la entrada no autorizada de un vehículo motor por carretera en el paso a nivel en el momento en que un vehículo o un tren se aproximaba al paso a nivel. En estos SU fallecieron 150 personas, 638 personas resultaron lesionadas y el daño causado ascendió a
-453 776 108 CZK.
-En el paso a nivel P1735, en el período comprendido desde el 1. 1. 2008 hasta la ocurrencia del SU en cuestión, la Inspección Ferroviaria no registra ningún SU.
-Dado que la mayoría de las colisiones en pasos a nivel y con las peores consecuencias se producen precisamente en pasos a nivel protegidos con SPGS sin barreras, la IF, con base en los resultados de la investigación de las causas y circunstancias de la ocurrencia de SU anteriores de carácter similar, emitió recomendaciones de seguridad que, con la referencia n.º 877/2012/DI, de fecha 14. 11. 2012, y las posteriores, recomendaban al gestor de la infraestructura SŽDC, con el fin de garantizar la máxima seguridad en las líneas ferroviarias de ámbito nacional y regional, aumentar el nivel de protección de los pasos a nivel de modo que, en las reconstrucciones y modernizaciones de líneas y pasos a nivel, ya se proyectara e instalara únicamente equipamiento de señalización luminoso de paso a nivel complementado con barreras. La IF, al mismo tiempo, mediante estas recomendaciones de seguridad, recomendó al DÚ adoptar sus propias medidas encaminadas a garantizar la realización de las recomendaciones de seguridad mencionadas anteriormente también en los demás gestores de infraestructuras ferroviarias en la República Checa. Desde el 1. 4. 2017, fecha en que entró en vigor la enmienda a la ley n.º 266/1994 Sb., conforme a la ley n.º 319/2016 Sb., las recomendaciones de seguridad de carácter similar, a partir de la emisión del Informe Final sobre los resultados de la investigación del suceso ferroviario con referencia n.º 6-2611/2017/DI, de fecha 2. 11. 2017, y las posteriores, se destinaron, de conformidad con el § 53e de la ley n.º 266/1994 Sb., únicamente a la Autoridad Ferroviaria.
+3.6.3 Disposición del equipo del puesto de mando o del vehículo ferroviario que influye en su conducción y utilización
+La disposición y el equipo del puesto de trabajo de los empleados del gestor de la infraestructura y del transportista no guardaban relación con la aparición de la MU.
+### 3.7 Incidentes anteriores de carácter similar
+La Inspección Ferroviaria registra en las líneas de ámbito nacional y regional desde el 1. 1. 2008 hasta la fecha de aparición de la MU en cuestión 890 MU similares, en los que en el PFE protegido por SAE sin barreras hubo una colisión de un DV o un tren con un vehículo motor por carretera. La causa inmediata de la aparición de estas MU fue la entrada no autorizada de un vehículo motor por carretera en el PFE en el momento en que se aproximaba al PFE un DV o un tren. En estas MU fallecieron 150 personas, 638 personas resultaron heridas y el daño causado ascendió a 453 776 108 CZK.
+En el paso a nivel P1735, desde el 1. 1. 2008 hasta la fecha de aparición de la MU en cuestión, la Inspección Ferroviaria no registra ninguna MU.
+Dado que la mayoría de las colisiones en los PFE, y con las peores consecuencias, se producen precisamente en los PFE protegidos por SAE sin barreras, la DI, con base en los resultados de la investigación de las causas y circunstancias de la aparición de incidentes anteriores de carácter similar, emitió recomendaciones de seguridad que, con el n.º de ref.: 877/2012/DI, de fecha 14. 11. 2012, y las siguientes, recomendaban al gestor de la infraestructura SŽDC, con el fin de garantizar la máxima seguridad en las líneas ferroviarias de categoría nacional y regional, aumentar el nivel de protección de los PFE de modo que, en las reconstrucciones y modernizaciones de líneas y PFE, ya solo se proyectara e instalara equipo de señalización de paso a nivel luminoso complementado con barreras. La DI, al mismo tiempo, mediante estas recomendaciones de seguridad, recomendó al DÚ adoptar sus propias medidas encaminadas a garantizar la ejecución de las recomendaciones de seguridad antedichas también en los demás gestores de líneas ferroviarias en la República Checa. Desde el 1. 4. 2017, fecha en que entró en vigor la modificación de la Ley n.º 266/1994 Sb., conforme a la Ley n.º 319/2016 Sb., las recomendaciones de seguridad de carácter similar, a partir de la emisión del Informe final sobre los resultados de la investigación del incidente n.º de ref.: 6-2611/2017/DI, de fecha 2. 11. 2017, y las siguientes, se emitieron conforme al § 53e de la Ley n.º 266/1994 Sb. únicamente a la Autoridad Ferroviaria.
 ### 4 ANÁLISIS Y CONCLUSIONES
-### 4.1 Descripción final del suceso ferroviario
-### 4.1.1 Elaboración de las conclusiones sobre el suceso ferroviario basadas en los hechos
-determinados en el punto 3
-El 13. 7. 2019 a las 15.14 h, entre las estaciones de mando D3 Lubná y Zavidov, en el espacio del paso a nivel ferroviario de vía única P1735 en el pk 8,544, protegido con SPGS luminoso con señalización positiva sin complemento de barreras, el tren Os 17750 colisionó con una furgoneta
-
+### 4.1 Descripción final del incidente
+### 4.1.1 Elaboración de conclusiones sobre el incidente basadas en los hechos
+establecidos en el punto 3
+El 13. 7. 2019 a las 15.14 h, entre las estaciones D3 Lubná y Zavidov, en el tramo del paso a nivel ferroviario de vía única P1735 en el km 8,544, protegido por un SAE luminoso con señalización positiva sin complemento de barreras, colisionó el tren Os 17750 con una furgoneta
 
 ## Página 32
 
-de la marca Mercedes-Benz. El tren Os 17750 entraba en el paso a nivel, en el que se estaba emitiendo la alerta luminosa (con dos luces rojas intermitentes alternas) y sonora del equipamiento de señalización de paso a nivel. El conductor de la furgoneta no respetó la alerta luminosa y sonora del SPGS, que le informaba de que un tren se aproximaba al paso a nivel, y entró en el paso a nivel. Como consecuencia de la colisión, en la que el tren impactó contra el lado derecho delantero de la furgoneta, esta fue despedida fuera de la vía de comunicación terrestre hacia la izquierda en el sentido de la marcha, hacia el prado adyacente. El tren Os 17750 descarriló en el espacio del paso a nivel con el bogie delantero hacia la derecha en el sentido de la marcha y, tras 12 m, su parte delantera se salió del terraplén ferroviario hacia abajo, al prado situado a la derecha de la vía de la línea.
-En el SU se produjeron lesiones con resultado de fallecimiento de 1 acompañante en la furgoneta, lesiones al conductor y a 3 acompañantes en la furgoneta y, asimismo, lesiones a 3 pasajeros en el tren Os 17750. El daño en el material rodante fue estimado por la inspección comisionada en 5 000 000 CZK, no se produjo daño en el equipamiento del gestor de la infraestructura y el daño en la furgoneta fue estimado en 200 000 CZK.
+automóvil de la marca Mercedes-Benz. El tren Os 17750 entraba en el paso a nivel, en el que se emitía la señalización luminosa (dos luces rojas intermitentes alternas) y sonora del dispositivo de seguridad del paso a nivel. El conductor de la furgoneta no respetó la señalización luminosa y sonora del dispositivo de seguridad del paso a nivel, que le informaba de que un tren se aproximaba al paso a nivel, y entró en el paso a nivel. Como consecuencia de la colisión, en la que el tren impactó contra el lado delantero derecho de la furgoneta, esta fue expulsada fuera de la vía de circulación rodada hacia la izquierda en el sentido de la marcha, hacia el prado adyacente. El tren Os 17750 descarriló en el espacio del paso a nivel con el bogie delantero hacia la derecha en el sentido de la marcha y, tras 12 m, la parte delantera del tren se desprendió del terraplén ferroviario hacia abajo, hasta el prado situado a la derecha de la vía férrea.
+En el accidente se produjeron lesiones con desenlace mortal para 1 acompañante en la furgoneta, lesiones para el conductor y 3 acompañantes en la furgoneta y, asimismo, lesiones para 3 viajeros en el tren Os 17750. El daño en el material rodante fue estimado por la comisión de inspección en 5 000 000 Kč, no se produjo daño en las instalaciones del gestor de la infraestructura y el daño en la furgoneta fue estimado en 200 000 Kč.
 ### 4.2 Análisis
-### 4.2.1 Evaluación de los hechos determinados en el punto 3 y exposición de las conclusiones sobre la causa del suceso ferroviario y la actuación de los servicios de emergencia
-Tras la salida del tren Os 17750 de la estación de mando D3 Lubná, no se produjo ninguna anomalía durante la marcha hacia el paso a nivel P1735; el maquinista operaba regularmente el freno automático de tren, y, según el análisis de los datos registrados, no se superó la velocidad máxima permitida (60 km·h-1) del tren Os 17750.
-Al aproximarse al paso a nivel P1735, el maquinista, según su declaración, escuchó la alerta sonora, pero no vio el paso a nivel debido a la curva. Prestó atención a un motociclista en el camino de campo antes del paso a nivel, a la derecha de la vía de la línea y, posteriormente, tras la entrada del tren Os 17750 en el paso a nivel, se produjo de golpe un impacto y el tren se salió del terraplén ferroviario hacia el prado situado a la derecha en el sentido de la marcha. Solo entonces el maquinista se percató de que se había producido una colisión con la furgoneta, que había entrado en el paso a nivel desde la izquierda en el sentido de marcha del tren. Dadas las circunstancias de la ocurrencia del SU, el maquinista no pudo evitar la colisión con la furgoneta.
-El conductor de la furgoneta fue advertido, en el paso a nivel P1735 en el sentido de la marcha por la vía de comunicación terrestre – carretera de clase II n.º 229 desde la localidad de Příčina, mediante señalización vertical, al estar colocada, a una distancia de 240 m antes del paso a nivel, la señal de tráfico A 31a «Placa indicadora» complementada con la señal de tráfico A 30 «Paso a nivel sin barreras» y, además, las señales de tráfico A 31b «Placa indicadora» (160 m) y A 31c «Placa indicadora» (80 m). El paso a nivel P1735 estaba señalizado, en el sentido de marcha de la furgoneta, con la señal de tráfico de advertencia A 32a «Cruz de advertencia para paso a nivel de vía única» en acabado reflectante con realce mediante fondo fluorescente retroreflectante amarillo-verde, colocada a la derecha en la vía de comunicación terrestre, bajo la cual se encontraba la caja luminosa del piloto de advertencia del SPGS, complementada con la placa «Cuidado tren».
-La señalización de tráfico en la vía de comunicación terrestre cumplía con la normativa aplicable a la circulación en vías de comunicación terrestre. Las señales de tráfico estaban, en el momento de la inspección inmediatamente después de la ocurrencia del SU, sin daños y bien visibles. La cruz de advertencia y la caja luminosa del piloto de advertencia eran visibles, desde el sentido de marcha de la furgoneta, a una distancia de 160 m.
-
+### 4.2.1 Evaluación de los hechos constatados en el punto 3 y exposición de las conclusiones sobre la causa del accidente y la actuación de los servicios de emergencia
+Tras la salida del tren Os 17750 de la estación D3 Lubná, no se produjo ninguna anomalía durante la marcha hacia el paso a nivel P1735; el maquinista operaba regularmente el asegurador de tren y, según el análisis de los datos registrados, no se superó la velocidad máxima permitida (60 km·h-1) del tren Os 17750.
+Al aproximarse al paso a nivel P1735, el maquinista, según su declaración, oyó la señalización sonora, pero no pudo ver el paso a nivel debido a una curva. Prestaba atención a un motociclista en el camino de campo situado delante del paso a nivel, a la derecha de la vía férrea, y, a continuación, tras la entrada del tren Os 17750 en el paso a nivel, se produjo de golpe un impacto y el tren se salió del terraplén ferroviario hacia el prado a la derecha en el sentido de la marcha. Solo después se percató el maquinista de que se había producido una colisión con la furgoneta, que había entrado en el paso a nivel por el lado izquierdo en el sentido de marcha del tren. Dadas las circunstancias en que se produjo el accidente, el maquinista no pudo evitar la colisión con la furgoneta.
+El conductor de la furgoneta fue advertido, en el paso a nivel P1735 en el sentido de marcha por la vía de circulación rodada – carretera de II clase n.º 229 desde la localidad de Příčina – mediante señales de tráfico verticales, de modo que a una distancia de 240 m antes del paso a nivel se encontraba colocada la señal de tráfico A 31a «Señal de aviso», complementada con la señal de tráfico A 30 «Paso a nivel sin barreras», y, además, las señales de tráfico A 31b «Señal de aviso» (160 m) y A 31c «Señal de aviso» (80 m). El paso a nivel P1735 estaba señalizado, en el sentido de marcha de la furgoneta, con la señal de tráfico de advertencia A 32a «Cruz de advertencia para paso a nivel de vía única» en acabado reflectante con realce mediante fondo fluorescente retroreflectante amarillo-verde, colocada a la derecha de la vía de circulación rodada, bajo la cual se encontraba situada la caja luminosa del semáforo del dispositivo de seguridad del paso a nivel, complementada con la placa «Cuidado con el tren».
+La señalización de tráfico en la vía de circulación rodada cumplía la normativa aplicable para la circulación en las vías de circulación rodada. Las señales de tráfico estaban intactas y bien visibles en el momento de la inspección inmediatamente posterior a la producción del accidente. La cruz de advertencia y la caja luminosa del semáforo eran visibles desde el sentido de marcha de la furgoneta a una distancia de 160 m.
 
 ## Página 33
 
-La visibilidad de la cruz de advertencia y de la alerta luminosa en la caja luminosa del piloto de advertencia está establecida para las vías de comunicación terrestres de clase II por la norma ČSN 73 6380 Z3 a una distancia mínima de 40 m. Desde esta distancia, la alerta del SPGS era fiablemente reconocible para el conductor de la furgoneta. En caso de avería o desconexión del SPGS, el conductor de la furgoneta tenía, desde el nivel de los pilotos de advertencia del SPGS, una visión despejada de la línea de 61 m en el sentido de marcha del tren Os 17750.
-El 16. 7. 2019, los inspectores de la IF realizaron una verificación de la visibilidad tanto de las señales de tráfico verticales en la vía de comunicación terrestre como de la visibilidad de la alerta luminosa en la caja luminosa del piloto de advertencia del SPGS en el sentido de marcha de la furgoneta, en un horario coincidente con la hora de la ocurrencia del SU y bajo las mismas condiciones meteorológicas – lumínicas.
-El resultado fue la medición de distancias de visibilidad idénticas a las del momento de la inspección del lugar del SU tras su ocurrencia el 13. 7. 2019. La visibilidad de la cruz de advertencia y de la alerta luminosa en la caja luminosa del piloto de advertencia fue asimismo documentada tanto desde una distancia de 80 m (véase la fig. n.º 6) como desde una distancia de 40 m (véase la fig. n.º 7), que está establecida para las vías de comunicación terrestres de clase II por la norma ČSN 74 3680 como mínima. Desde esta distancia, la alerta del SPGS era fiablemente reconocible.
-Fig. n.º 6: Visibilidad de la alerta desde una distancia de 80 m       Fuente: IF
-La Inspección Ferroviaria verificó también la posibilidad de que el conductor de la furgoneta fuera deslumbrado por el sol. Durante todo el trayecto por la vía de comunicación terrestre, los rayos solares incidían desde el lado izquierdo hacia el conductor de la furgoneta en un ángulo de aprox. 145° (véase la fig. n.º 8). Sin embargo, su intensidad no era tal que pudiera causar tanto un efecto deslumbrante para el conductor de la furgoneta como una influencia – una reducción – en la percepción de la alerta luminosa en la caja luminosa del piloto de advertencia.
-La posibilidad de deslumbramiento la descartó también el propio conductor de la furgoneta, quien en su declaración indicó: «En el momento del accidente hacía buen tiempo, brillaba el sol. No fui deslumbrado por el sol.»
+La visibilidad de la cruz de señalización y de la señalización luminosa en la caja luminosa del señalizador se establece, para la carretera de clase II, en la norma ČSN 73 6380 Z3 a una distancia mínima de 40 m. Desde esta distancia, la alarma PZZ era fiablemente reconocible para el conductor de la furgoneta. En caso de avería o desconexión de la PZZ, el conductor de la furgoneta disponía, desde el nivel de los señalizadores PZZ, de una visión despejada de la vía de 61 m en el sentido de circulación del tren Os 17750.
 
+El 16 de julio de 2019, los inspectores de la DI llevaron a cabo una verificación de la visibilidad tanto de las señales verticales en la carretera como de la señalización luminosa en la caja luminosa del señalizador PZZ en el sentido de circulación de la furgoneta, en un momento idéntico al de la ocurrencia del MU y bajo las mismas condiciones meteorológicas y de iluminación.
+
+El resultado fue la medición de distancias de visibilidad idénticas a las del momento del examen del lugar del MU tras su ocurrencia el 13 de julio de 2019. La visibilidad de la cruz de señalización y de la señalización luminosa en la caja luminosa del señalizador quedó igualmente documentada tanto desde una distancia de 80 m (véase la fig. n.º 6) como desde una distancia de 40 m (véase la fig. n.º 7), que es la establecida como mínima para la carretera de clase II por la norma ČSN 74 3680. Desde esta distancia, la alarma PZZ era fiablemente reconocible.
+
+Fig. n.º 6: Visibilidad de la alarma desde una distancia de 80 m       Fuente: DI
+
+La Inspección Ferroviaria verificó asimismo la posibilidad de que el conductor de la furgoneta fuera deslumbrado por el sol. Durante todo el trayecto por la carretera, los rayos solares incidían desde el lado izquierdo sobre el conductor de la furgoneta en un ángulo de aproximadamente 145° (véase la fig. n.º 8). Sin embargo, su intensidad no era tal que pudiera causar tanto un efecto deslumbrante para el conductor de la furgoneta como una influencia —una reducción— en la percepción de la señalización luminosa en la caja luminosa del señalizador.
+
+La posibilidad de deslumbramiento fue descartada también por el propio conductor de la furgoneta, quien en su declaración indicó: «En el momento del accidente hacía buen tiempo, brillaba el sol. No fui deslumbrado por el sol.»
 
 ## Página 34
 
-Fig. n.º 7: Visibilidad de la alerta desde una distancia de 40 m       Fuente: IF
-### Sentido de marcha de la furgoneta
-Fig. n.º 8: Posición del sol en el momento de la ocurrencia del SU
-  Fuente: IF
-La operación segura del transporte ferroviario y la seguridad de los usuarios de la circulación en la vía de comunicación terrestre está garantizada en el paso a nivel P1735 por la acción del SPGS, que advierte con la antelación suficiente a los usuarios de la vía de comunicación terrestre de que un tren se aproxima al paso a nivel.
-La activación del SPGS del paso a nivel P1735, es decir, el inicio de la emisión de la alerta con luces rojas intermitentes combinada con la alerta sonora, en el sentido de marcha de los trenes desde la estación de mando D3 Lubná, es decir, en el sentido de marcha del tren Os 17750, se produce al ocupar el tramo de aproximación mediante la activación del sensor del contador de ejes situado en el pk 7,810 por la circulación del tren. La longitud del tramo de aproximación en el paso a nivel P1735 es, por tanto, de 730 m.
-
+Fig. n.º 7: Visibilidad de la señal de aviso desde una distancia de 40 m       Fuente: DI
+### Dirección de circulación de la furgoneta
+Fig. n.º 8: Posición del sol en el momento del origen del MU
+  Fuente: DI
+La seguridad de la explotación del transporte ferroviario y la seguridad de los usuarios de la vía pública en el punto de cruce P1735 está garantizada por la acción del PZZ, que avisa con la antelación suficiente a los usuarios de la vía pública de que se aproxima un tren al punto de cruce.
+A la activación del PZZ del punto de cruce P1735, es decir, al inicio de la emisión de la señal de aviso con luces rojas intermitentes combinadas con una señal de aviso sonora, en el sentido de circulación de los trenes desde la estación de maniobras D3 Lubná, es decir, en el sentido de circulación del tren Os 17750, se llega mediante la ocupación del tramo de aproximación por la influencia en el sensor del contador de ejes situado en el km 7,810 con la circulación de un tren. La longitud del tramo de aproximación en el punto de cruce P1735 es, por tanto, de 730 m.
 
 ## Página 35
 
-Cálculo del tiempo que emplea un vehículo ferroviario en recorrer la distancia desde el sensor del contador de ejes en el pk 7,810 hasta el nivel del paso a nivel en el pk 8,540 a la velocidad de la línea de 60 km·h-1:
+Cálculo del tiempo que emplea un vehículo ferroviario en recorrer la distancia desde el sensor del contador de ejes en el km 7,810 hasta el nivel del paso a nivel en el km 8,540 a la velocidad de la línea de 60 km·h-1:
 t = s / v
 t = 730 / 16,66 ═►t = 43,82 s
 donde:
 v – velocidad de la línea del vehículo ferroviario en m·s-1;
 s – distancia del sensor del contador de ejes hasta el nivel (borde) del paso a nivel.
-En el cálculo anteriormente mencionado se consideró, en todo el tramo de aproximación, la velocidad de la línea de 60 km·h-1. Del análisis del registrador de velocidad del material rodante 810.585-0 se desprende que el maquinista del tren Os 17750 no superó la velocidad máxima permitida en todo el tramo de marcha del tren evaluado, es decir, incluido el tramo de aproximación.
-La Inspección Ferroviaria realizó una verificación del tiempo de emisión de la alerta con luces rojas intermitentes combinada con la alerta sonora del SPGS del paso a nivel P1735 a los usuarios de la vía de comunicación terrestre, es decir, del tiempo de aproximación, mediante la circulación de un tren en el sentido desde la estación de mando D3 Lubná. Con la medición se determinó que, hasta el momento en que el material rodante del tren Os 17712 alcanzó el nivel del paso a nivel (véase la fig. n.º 9), la alerta duró 48 s.
-Fig. n.º 9: Verificación del tiempo de alerta (tiempo de aproximación) durante
-la circulación del tren Os 17712
-                       Fuente: IF
-Del análisis del archivo de datos descargado del dispositivo registrador del equipamiento de señalización de paso a nivel se determinó que, a las 15.13.50 h, se produjo la activación del SPGS, es decir, el inicio de la emisión de la alerta con luces rojas intermitentes combinada con la alerta sonora, al ocupar el tramo de aproximación por la circulación del tren Os 17750.
-La alerta luminosa y sonora del SPGS se emitió durante 44 s, hasta el momento en que el tren Os 17750 activó con su circulación los sensores del contador de ejes PB2 en el pk 8,532, es decir, 12 m antes del paso a nivel, a las 15.14.34 h, y entró seguidamente en el paso a nivel. El tiempo de aproximación, en relación con la longitud del paso a nivel P1735 y la velocidad de la línea, corresponde al valor establecido indicado en la tabla del paso a nivel (33,83 s) con un margen adicional y es conforme a la disposición de la norma ČSN 34 2650
+En el cálculo anterior se consideró en todo el tramo de aproximación la velocidad de la línea de 60 km·h-1. Del análisis del registrador de velocidad de la locomotora HDV 810.585-0 se desprende que el maquinista del tren Os 17750 no superó la velocidad máxima permitida en todo el tramo de circulación del tren objeto de examen, es decir, incluido el tramo de aproximación.
+La Inspección Ferroviaria realizó la verificación del tiempo de emisión de la señal de aviso con luces rojas intermitentes combinadas con la señal sonora de aviso PZZ del paso a nivel P1735 a los usuarios de la vía pública, es decir, el tiempo de aproximación, mediante la circulación de un tren en el sentido desde la estación D3 Lubná. Con la medición se constató que, hasta el momento en que la locomotora del tren Os 17712 alcanzó el nivel del paso a nivel (véase la fig. n.º 9), la señal de aviso duró 48 s.
+Fig. n.º 9: Verificación del tiempo de señal de aviso (tiempo de aproximación) en la circulación del tren Os 17712
+                       Fuente: DI
+Del análisis del archivo de datos descargado del dispositivo de registro del equipo de seguridad del paso a nivel se constató que a las 15.13.50 h se produjo la activación del PZZ, es decir, el inicio de la emisión de la señal de aviso con luces rojas intermitentes combinadas con la señal sonora de aviso, por la ocupación del tramo de aproximación con la circulación del tren Os 17750.
+La señal de aviso luminosa y sonora del PZZ se emitió durante 44 s, hasta el momento en que el tren Os 17750, con su circulación, afectó a los sensores del contador de ejes PB2 en el km 8,532, es decir, 12 m antes del paso a nivel, a las 15.14.34 h, y posteriormente entró en el paso a nivel ferroviario. El tiempo de aproximación, en relación con la longitud del paso a nivel P1735 y la velocidad de la línea, corresponde al valor establecido indicado en la tabla del paso a nivel (33,83 s) con un margen adicional y es conforme a lo dispuesto en la norma ČSN 34 2650
 
 ## Página 36
 
-ed. 2. De lo anterior se deduce que el conductor de la furgoneta fue advertido a tiempo por la actuación de la PZZ ŽP P1735 de que se aproximaba un tren a la ŽP.
-El estado sin averías de la ŽP fue confirmado de forma independiente también por los testigos de la MU, quienes en sus declaraciones coincidieron en señalar que tanto la alerta luminosa como la sonora de la PZZ estaban en funcionamiento.
-Tras la evaluación de la documentación y los registros, de las conclusiones de las inspecciones comisionales, del examen del lugar de origen de la MU, de la verificación del funcionamiento del dispositivo de seguridad y de otros hechos documentados, se constató que ni el estado de la PZZ, ni el estado técnico del material rodante, ni el proceder de los empleados del gestor de la infraestructura y del transportista guardaban relación causal con la aparición de la MU. El conductor del vehículo de reparto, a pesar de la alerta luminosa y sonora emitida por la PZZ, accedió indebidamente a la ŽP en el momento en que se aproximaba a ella el tren Os 17750.
+ed. 2. De lo anterior se deduce que el conductor de la furgoneta fue advertido a tiempo por la señalización de paso a nivel PZZ ŽP P1735 de que se aproximaba un tren a ŽP.
+El estado sin averías de ŽP fue confirmado de forma independiente también por los testigos de MU, quienes en sus declaraciones coincidieron en señalar que tanto la alerta luminosa como la acústica de la PZZ estaban en funcionamiento.
+Mediante la evaluación de la documentación y los registros, de las conclusiones de las inspecciones comisionales, del examen del lugar donde se produjo la MU, de la verificación del funcionamiento del dispositivo de seguridad y de otros hechos documentados, se constató que ni el estado de la PZZ, ni el estado técnico de los vehículos ferroviarios, ni el procedimiento de los empleados del gestor de la vía y del transportista guardaban relación causal con la aparición de la MU. El conductor del vehículo de furgoneta, a pesar de la alerta luminosa y acústica emitida por la PZZ, accedió indebidamente a ŽP en el momento en que se aproximaba el tren Os 17750.
 ### 4.3 Conclusiones
-4.3.1 Causas directas e inmediatas del suceso excepcional, incluidos los factores que contribuyeron al mismo y que estuvieron relacionados con la actuación de las personas implicadas o con el estado del material rodante o de los dispositivos técnicos
+4.3.1 Causas directas e inmediatas del suceso excepcional, incluidos los factores que contribuyeron al mismo y que estuvieron relacionados con la actuación de las personas implicadas o con el estado de los vehículos ferroviarios o de los dispositivos técnicos
 La causa inmediata del suceso excepcional fue:
-• el acceso indebido de un vehículo de reparto al paso a nivel P1735 en el momento en que se aproximaba a él el tren Os 17750 y se estaba emitiendo la alerta luminosa y sonora por parte del dispositivo de seguridad del paso a nivel.
+• el acceso indebido de un vehículo de furgoneta al paso a nivel ferroviario P1735 en el momento en que se aproximaba el tren Os 17750 y se emitía la alerta luminosa y acústica del dispositivo de seguridad del paso a nivel.
 ### 4.3.2 Causas fundamentales relacionadas con la cualificación, los procedimientos y el mantenimiento
 Las causas fundamentales del suceso excepcional fueron:
-• la no atención a la alerta luminosa y sonora del dispositivo de seguridad del paso a nivel por parte del conductor del vehículo de reparto;
-• la actuación del conductor del vehículo de reparto ante el paso a nivel, donde no actuó con especial precaución.
-### 4.3.3 Causas originadas en el marco legal y en el uso del sistema de garantía de la seguridad
-No se detectó ninguna causa del suceso excepcional derivada del marco legal o del uso del sistema de garantía de la seguridad.
+• la no atención a la alerta luminosa y acústica del dispositivo de seguridad del paso a nivel por parte del conductor del vehículo de furgoneta;
+• la actuación del conductor del vehículo de furgoneta ante el paso a nivel ferroviario, donde no actuó con especial cautela.
+### 4.3.3 Causas originadas en el marco jurídico y en el uso del sistema de garantía de la seguridad
+No se detectó ninguna causa del suceso excepcional derivada del marco jurídico o del uso del sistema de garantía de la seguridad.
 ### 4.4 Hallazgos complementarios
-4.4.1 Deficiencias y omisiones detectadas durante la investigación que no se refieren a las conclusiones sobre las causas
+4.4.1 Deficiencias y omisiones detectadas durante la investigación que no se relacionan con las conclusiones sobre las causas
 No fueron detectadas por la Inspección Ferroviaria.
 
-
 ## Página 37
+
 
 ### 5 MEDIDAS ADOPTADAS
 ### 5.1 Lista de medidas que ya se han adoptado o tomado como consecuencia del suceso excepcional

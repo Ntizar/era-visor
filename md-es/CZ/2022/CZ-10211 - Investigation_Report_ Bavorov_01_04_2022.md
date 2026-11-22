@@ -10,13 +10,14 @@ chars: 112815
 ratio_longitud: 1.27
 tokens_in: 70559
 tokens_out: 50329
-verificacion: revisar
-notas_cifras: ["bloque 1: original bilingüe: se compara contra el idioma principal (EN)", "bloque 4: original bilingüe: se compara contra el idioma principal (CS)", "bloque 5: original bilingüe: se compara contra el idioma principal (CS)", "bloque 6: original bilingüe: se compara contra el idioma principal (CS)", "bloque 7: original bilingüe: se compara contra el idioma principal (CS); cifras largas: 1/20", "bloque 8: original bilingüe: se compara contra el idioma principal (CS)"]
-avisos: ["bloque 5: ratio 1.68", "bloque 6: ratio 1.79", "bloque 7: ratio 1.63", "bloque 8: ratio 1.62"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 3: original bilingüe: se compara contra el idioma principal (PT)", "página 6: original bilingüe: se compara contra el idioma principal (CS)", "página 7: original bilingüe: se compara contra el idioma principal (CS)", "página 10: original bilingüe: se compara contra el idioma principal (CS)", "página 11: original bilingüe: se compara contra el idioma principal (CS)", "página 12: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -40,13 +41,13 @@ IČ: 75009561
 mail@dicr.cz
 tel.: +420 736 521 003
 
-
 ## Página 2
+
 
 Este informe final es público y todos los hechos en él expuestos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ### 1 RESUMEN
 Fuente: Drážní inspekce
@@ -71,15 +72,15 @@ No fue detectada por la Drážní inspekce ninguna causa sistémica.
 Recomendaciones de seguridad:
 La Drážní inspekce, con base en lo dispuesto en el § 53e apartado 1 de la Ley n.º 266/1994 Sb., recomienda, atendiendo a los hallazgos expuestos en el punto 3.1.8 de este informe final:
 
-
 ## Página 4
+
 
 Al Drážní úřad:
 •
 en el marco de su actividad como autoridad nacional de seguridad, la adopción de una medida que garantice, en todos los gestores de la vía que utilicen agujas de retorno automático del fabricante AŽD Praha s. r. o., la instalación de una modificación constructiva del soporte del pasador del mecanismo de retorno automático que impida el bloqueo de la cerradura de unión sin que la aguja se encuentre en el modo de conmutación de retorno automático.
 
-
 ## Página 5
+
 
 ### SUMMARY
 1st April 2022, 5:56 (3:56 GMT).
@@ -121,8 +122,8 @@ mechanism which prevent to locked up of connecting lock (without the switch bein
 in resetting mode) at all IMs who operates switches which are equipped by
 mechanism of self-returning switch by producer AŽD Praha s. r. o.
 
-
 ## Página 6
+
 
 # Índice
 1 RESUMEN....................................................................................................................3
@@ -164,8 +165,8 @@ SUMMARY.........................................................................
 4.2 Vehículos ferroviarios e instalaciones técnicas...........................................................................37
 4.2.1 Factores o consecuencias derivados de la construcción de los vehículos ferroviarios, la infraestructura ferroviaria o las instalaciones técnicas.....................................................................37
 
-
 ## Página 7
+
 
 4.2.2 Factores o consecuencias derivados de la instalación y puesta en servicio de los vehículos ferroviarios, la infraestructura ferroviaria o las instalaciones técnicas......................................37
 4.2.3 Factores o consecuencias relacionados con los fabricantes de vehículos ferroviarios u otros proveedores de productos ferroviarios............................................................................37
@@ -195,6 +196,7 @@ SUMMARY.........................................................................
 6 RECOMENDACIONES DE SEGURIDAD.....................................................................................43
 
 ## Página 8
+
 
 ### Lista de siglas y símbolos utilizados
 AŽD
@@ -260,8 +262,8 @@ pasaje a nivel
 žst.
 estación ferroviaria
 
-
 ## Página 9
+
 
 ### Lista de siglas de la legislación, normas y normativa interna utilizadas
 ley núm. 266/1994 Sb.
@@ -332,8 +334,8 @@ normativa interna del explotador del ferrocarril SŽ, «SŽDC
 D4 Reglamento para la Gestión del Transporte Ferroviario
 en tramos equipados con
 
-
 ## Página 10
+
 
 radioenlace», en la
 redacción vigorosa en el
@@ -389,8 +391,8 @@ Mecanismo de Aguja de Retorno Automático con Enganche
 de Gancho MSV HZ», en la redacción vigorosa en el
 momento de la ocurrencia de la ocurrencia extraordinaria
 
-
 ## Página 11
+
 
 ### 2 INVESTIGACIÓN Y SUS RELACIONES
 ### 2.1 Decisión sobre el inicio de la investigación
@@ -436,8 +438,8 @@ hechos y los hallazgos expuestos en el informe
 En el marco de la investigación de la MU, la DI procedió de la siguiente manera, es decir,
 utilizó, entre otros, los siguientes métodos y técnicas:
 
-
 ## Página 12
+
 
 •
 inspección del lugar de la MU, incluidos los DV participantes, las instalaciones
@@ -484,8 +486,8 @@ nº 2sv, pk 12,342.
 Coordenadas GPS:
 49.1270422N, 14.0843217E.
 
-
 ## Página 13
+
 
 ### 3.1.3 Descripción del lugar del suceso
 La estación de maniobras RB Bavorov se encuentra en el ferrocarril regional en el pk
@@ -525,8 +527,8 @@ lugar de la posición final tras la MU se encontraba en la parte de la aguja de 
 2sv en el pk 12,361, es decir, 25 m después del inicio de la aguja nº 2sv y 19 m después
 del punto «0»;
 
-
 ## Página 14
+
 
 •
 el HDV 654.017-2 era conducido desde el puesto 1, donde se encontraba ubicada la
@@ -574,6 +576,7 @@ tren) en el pk 12,3367.
 
 ## Página 15
 
+
 Fig. n.º 2: Primer bogie descarrilado del tren Os 18000
      Fuente: DI
 Estado de la infraestructura y del dispositivo de señalización:
@@ -604,8 +607,8 @@ aguja n.º 1 en el pk 12,309:
 ◦la aguja estaba dotada de ganchos de bloqueo y equipada con el contrapeso
 del cambio y la señal de aguja;
 
-
 ## Página 16
+
 
 ◦la aguja estaba señalizada con una placa con la cifra «1»;
 ◦la aguja fue recorrida por el tren Os 18000 en sentido contrario a la punta;
@@ -633,8 +636,8 @@ Fig. n.º 3: Vista de la aguja n.º 2sv
 directo, es decir, el sentido preferente para la circulación hacia la SK n.º 1, ni
 en el sentido secundario (de desvío) para la circulación hacia la SK n.º 3;
 
-
 ## Página 17
+
 
 ◦la lengüeta izquierda de la aguja no estaba en contacto con el riel de apoyo
 izquierdo, la separación de la lengüeta directa izquierda era de 123 mm (véase
@@ -656,64 +659,29 @@ posición preferente terminal en la SK n.º 1 (véase la fig. n.º 6);
 Fig. n.º 6: Traba del mecanismo de retorno automático no enganchada 
      Fuente: DI
 
-
 ## Página 18
 
-◦el cerrojo de enlace de control estaba en posición cerrada, en el cerrojo
-estaba fijada la llave maestra común de los sencillos cerrojos de cambio de la aguja;
-◦ambos sencillos cerrojos de cambio de la aguja tenían los ganchos de cierre
-fijados en posición plegada, en los cerrojos de cambio estaban fijadas las llaves
-maestras;
-◦tras abrir la tapa de la caja de control eléctrico, la leva unida a las lengüetas
-de la aguja tocaba los taquillos del conmutador – los contactos estaban abiertos;
-◦todos los deslizadores de la aguja estaban cubiertos de grasa;
-◦el punto de descarrilamiento – el punto «0» se localizó en el pk 12,342 en la
-aguja n.º 2sv, donde el paso de rueda de la rueda derecha del primer bogie
-(monoje) del HDV subió hasta la cabeza del riel de apoyo derecho (en el sentido
-de circulación del tren Os 18000), a una distancia de 4,5 m de la punta de la
-lengüeta derecha de la aguja;
-◦en el pk 12,3446, es decir, a una distancia de 2,6 m del punto «0», se produjo
-el salto de la rueda derecha de la cabeza del riel de apoyo derecho y, a
-continuación, la caída de todo el primer bogie del tren Os 18000;
-◦desde el punto «0» se encontraron, entre el riel de apoyo derecho y la
-lengüeta derecha de la aguja, así como entre el riel de apoyo izquierdo y la
-lengüeta izquierda de la aguja, huellas de circulación del bogie descarrilado
-sobre los elementos de fijación, los tornillos y los deslizadores de las lengüetas
-de la aguja;
-◦la circulación del HDV en estado descarrilado provocó daños en los elementos
-de fijación, las lengüetas, los rieles de apoyo, las placas base, los tornillos de
-carril, los apoyos de lengüeta, el riel de sujeción derecho en la parte de corazón
-de la aguja y los traviesas de madera;
+◦el enclavamiento de control de enlace estaba en posición cerrada, en el enclavamiento estaba fijada la llave maestra común de los enclavamientos simples de cambio de la aguja;
+◦ambos enclavamientos simples de cambio de la aguja tenían los ganchos de cierre fijados en posición plegada, en los enclavamientos de cambio estaban fijadas las llaves maestras;
+◦tras abrir la tapa del armario de control eléctrico, la leva conectada a las agujas del cambio tocaba los taquillos del conmutador – los contactos estaban abiertos;
+◦todos los deslizadores del cambio estaban cubiertos de grasa;
+◦el punto de descarrilamiento – el punto «0» – se localizó en el pk 12,342 en el cambio n.º 2sv, donde el borde de la rueda derecha del primer bogie (de un solo eje) del HDV trepó hasta la cabeza del apoyo derecho (en el sentido de circulación del tren Os 18000), a una distancia de 4,5 m de la punta de la aguja derecha del cambio;
+◦en el pk 12,3446, es decir, a una distancia de 2,6 m del punto «0», se produjo el deslizamiento de la rueda derecha desde la cabeza del apoyo derecho y, a continuación, el hundimiento de todo el primer bogie del tren Os 18000;
+◦desde el punto «0» se encontraron, entre el apoyo derecho y la aguja derecha del cambio, así como entre el apoyo izquierdo y la aguja izquierda del cambio, huellas de circulación del bogie descarrilado sobre los elementos de fijación, los tornillos y los deslizadores de las agujas del cambio;
+◦la circulación del HDV en estado descarrilado provocó daños en los elementos de fijación, las agujas, los apoyos, las placas base, los tornillos de traviesa, los apoyos de aguja, el carril de retención derecho en la parte de corazón del cambio y las traviesas de madera;
 •
-señal luminosa de la aguja con desviador de retorno automático Sv2 en el pk 12,337:
-◦se trata de una señal fija que en el momento de la inspección no indicaba la
-correcta desviación de la aguja a la posición preferente al circular por la aguja
-en sentido contrario a la punta, es decir, la indicación «Jízda zajištěna» (destello
-blanco);
-◦la señal de poste bajo estaba señalizada con una placa de identificación negra
-con borde blanco, que contenía la inscripción blanca «Sv2», y con un disco de
-señalización de borde amarillo;
-◦la señal Sv2 estaba situada a la derecha, justo al lado de la SK (en el sentido
-de circulación del tren Os 18000).
-Parte de la inspección del lugar de origen del MU fue la comprobación del
-funcionamiento del desviador de retorno automático de la aguja n.º 2sv, incluida
-la dependencia de la señal luminosa Sv2:
+la señal luminosa del cambio con enclavamiento automático de retorno Sv2 en el pk 12,337:
+◦se trata de una señal no transmisible que, en el momento de la inspección, no indicaba la correcta colocación del cambio en la posición preferente al circular por el cambio en sentido contrario a la punta, es decir, la señal «Circulación asegurada» (destello de luz blanca);
+◦la señal de mástil baja estaba marcada con una placa de identificación negra con borde blanco, que contenía la inscripción blanca «Sv2», y un placa de señal con borde amarillo;
+◦la señal Sv2 estaba situada a la derecha, justo al lado del SK (en el sentido de circulación del tren Os 18000).
+Parte de la inspección del lugar de origen del MU fue la comprobación del funcionamiento del enclavamiento automático de retorno del cambio n.º 2sv, incluida la dependencia de la señal luminosa Sv2:
 •
-en el modo de desviación manual de la aguja n.º 2sv se realizó la prueba de
-bloqueo completa con la galga de prueba prescrita de 6 mm:
-◦entre la lengüeta izquierda y el riel de apoyo se insertó la galga de prueba de
-6 mm y, a continuación, la aguja se desvió al sentido preferente (hacia la SK
-n.º 1), la aguja alcanzó la posición terminal, el gancho de bloqueo se enganchó
-y en la señal luminosa Sv2 se encendió la indicación «Jízda zajištěna». Este
-estado era consecuencia de la circulación del HDV en estado descarrilado y de
-los daños en la superestructura ferroviaria;
-◦entre la lengüeta derecha y el riel de apoyo se insertó la galga de prueba de
-6 mm y, a continuación, la aguja se desvió al sentido preferente (hacia la SK
-n.º 1), la aguja no alcanzó la posición terminal, el gancho de bloqueo no se
-enganchó y en la señal luminosa Sv2 no se encendió la indicación «Jízda zajištěna»;
-
+en el modo de cambio manual del cambio n.º 2sv se realizó la prueba completa de enclavamiento con la galga de prueba prescrita de 6 mm:
+◦entre la aguja izquierda y el apoyo se insertó la galga de prueba de 6 mm y, a continuación, se colocó el cambio en la dirección preferente (hacia el SK n.º 1), el cambio alcanzó la posición final, el cierre de gancho se enganchó y en la señal luminosa Sv2 se encendió la señal «Circulación asegurada». Este estado era consecuencia de la circulación del HDV en estado descarrilado y de los daños en la superestructura ferroviaria;
+◦entre la aguja derecha y el apoyo se insertó la galga de prueba de 6 mm y, a continuación, se colocó el cambio en la dirección preferente (hacia el SK n.º 1), el cambio no alcanzó la posición final, el cierre de gancho no se enganchó y en la señal luminosa Sv2 no se encendió la señal «Circulación asegurada»;
 
 ## Página 19
+
 
 ◦tras retirar la galga de prueba de 6 mm la aguja alcanzó la posición terminal
 prescrita y en la señal luminosa se encendió la indicación «Jízda zajištěna»;
@@ -767,8 +735,8 @@ El gestor de la vía y el transportista cuantificaron el daño en:
 HDV
 49 000 Kč;
 
-
 ## Página 20
+
 
 •
 equipos de la vía
@@ -821,6 +789,7 @@ los números de registro
 
 ## Página 21
 
+
 | Porcentaje de frenado ausente (%): | 0 |
 | Velocidad máxima permitida del tren en el lugar del MU (km·h-1): | 40 |
 | Modo de frenado: | I . |
@@ -854,8 +823,8 @@ circulación del tren Os 18000 junto a la señal Lichoběžníková tabulka con 
 •
 5:56:25 h – paso del tren Os 18000 por el ŽP P1432 en el pk 12,298 a una velocidad de 26 km·h-1;
 
-
 ## Página 22
+
 
 •
 5:56:26 h – entrada del tren Os 18000 en el desvío n.º 1 de la estación de tráfico RB Bavorov en el pk 12,309 a una velocidad de 26 km·h-1;
@@ -874,8 +843,8 @@ El HDV 654.017-2 disponía de un Certificado de idoneidad del dispositivo técni
 La estación de tráfico RB Bavorov se sitúa en la vía ferroviaria regional en el pk 12,413 de la línea de vía única Číčenice – Volary. El límite de la estación de tráfico RB Bavorov en el sentido de la estación de tráfico RB Vodňany está determinado por la señal fija Lichoběžníková tabulka con el número „1“, es decir, el número SK, en la que se encuentran en posición normal los desvíos. Según el PN RB Číčenice – Volary, las vías SK n.º 1 y 3 en la estación de tráfico RB Bavorov son vías de tráfico, siendo la SK n.º 1 la vía principal, destinada preferentemente a la entrada de trenes desde la estación de tráfico RB Vodňany, la SK n.º 3 destinada preferentemente a la entrada de trenes desde la estación de tráfico RB Strunkovice nad Blanicí y la SK n.º 2 la vía de maniobras. La longitud útil de la SK n.º 1 está delimitada por la posición de los topes de los desvíos n.º 2sv y 3 y asciende a 83 m.
 El desvío n.º 2sv de la estación de tráfico RB Bavorov de forma „J S49 1:9-190 Ll d nov.“ en el pk 12,336 se encuentra instalado sobre traviesas de madera con fijación rígida a las zapatas nervuradas, insertado en el año 2009. El desvío está equipado con cierres de espiga de gancho, asegurado con un aparato de cambio automático con cerradura de control de espiga y dos cerraduras simples de
 
-
 ## Página 23
+
 
 espiga para el bloqueo del gancho en ambas posiciones. El desvío está dotado de calefacción eléctrica de desvíos, cuya indicación de estado se transmite al PC de diagnóstico en el puesto de trabajo SSZT en la est. Prachatice.
 Se trata de un desvío de retorno automático equipado con el mecanismo de desvío de retorno automático MSV del fabricante AŽD, año de activación 2006. La parte básica del mecanismo es el aparato de cambio automático compuesto por un amortiguador hidráulico con muelle recuperador, una reductora y una varilla de cambio. Otros conjuntos funcionales del mecanismo de desvío de retorno automático son el transmisor con la varilla de la señal de desvío, la barra con cerradura y, además, los captadores de posición SPA41 con las varillas de los captadores y la cerradura con control eléctrico de bloqueo, que garantizan, en la posición preferente del desvío, el control eléctrico de la posición de la aguja adyacente, el control eléctrico de la posición de la aguja alejada y el control eléctrico de la posición final del mecanismo de cambio, y con ello indirectamente también el cierre del cierre de espiga en la posición preferente del desvío. El mecanismo equipado con captadores y cerradura con control eléctrico permite utilizar para la señalización de la posición preferente del desvío la señal luminosa de desvío de retorno automático, en el caso de este MU la señal luminosa Sv2. El aparato de cambio automático garantiza la fuerza de sujeción del desvío en la posición preferente y, tras el cambio no destructivo de la rueda del vehículo al circular por la punta del desvío por la aguja alejada, su retorno automático a la posición preferente, es decir, para la circulación del DV contra la punta en la SK n.º 1.
@@ -897,8 +866,8 @@ la revisión integral periódica de la línea Číčenice – Volary, concretame
 las actividades de mantenimiento relativas al aparato de cambio automático, según la norma interna del explotador de la vía SŽDC T300, entre otras la comprobación de la cantidad de aceite en el cilindro, la comprobación del tiempo de retorno del pistón, la comprobación del funcionamiento del dispositivo de control incluida la holgura entre la barra de control y el reglaje de control, y la comprobación de la resistencia de cambio del desvío, se realizaron el 22. 3. 2022 sin defectos apreciados.
 En la Hoja de Instalación ZL 7/1997-SZ y en la Descripción Técnica T 03 021, el tiempo total de cambio se fija en un intervalo de 13 s a 25 s. Inmediatamente después de la aparición del MU, como parte de la reprobación del mecanismo de desvío de retorno automático n.º 2sv, entre otras cosas se midió también el tiempo de cambio, es decir, el tiempo necesario para devolver la parte de cambio del desvío a la posición final preferente y la posterior encendido de la indicación „Jízda zajištěna“ en la señal luminosa Sv2, en el que
 
-
 ## Página 24
+
 
 en dos ensayos de verificación se obtuvieron tiempos de 28 s y 24 s. En virtud de este hecho, el 5. 4. 2022 se realizó posteriormente por parte de los inspectores de la DI una nueva medición del tiempo de cambio mediante la circulación del tren Os 18007, con un resultado de 15 s.
 Inmediatamente después de la aparición del MU, el explotador de la vía, en presencia de los inspectores de la DI, realizó la medición de los parámetros del superestructura ferroviaria, incluida la medición del desvío n.º 2sv. De la evaluación de los valores medidos según la norma técnica ČSN 73 6360-2 y la norma interna del explotador de la vía SŽDC S3 se constató, entre otros:
@@ -927,28 +896,54 @@ La última comprobación de la visibilidad de las señales durante la circulaci�
 
 ## Página 25
 
-La estación de Prachatice está equipada con un sistema de señalización automática tipo REMOTE 98 con JOP. Según TNŽ 34 2620 se trata de un sistema de señalización de categoría 3, que se controla localmente desde la oficina de tráfico mediante el JOP.
-El sistema de señalización automática de la estación de Prachatice dispone de un Certificado de idoneidad del dispositivo técnico designado, n.º de ev.:
-PZ 2367/04-E.48, emitido por el DÚ el 15. 9. 2004, con vigencia por tiempo indefinido. El dispositivo técnico es apto para la explotación con base en el Acta de inspección y ensayo técnico n.º 18/2009/LP de fecha 2. 9. 2009. La última inspección y ensayo del dispositivo técnico se realizó con base en el Acta de inspección y ensayo n.º 14/2019/-LP el 23. 5. 2019 con la conclusión:
-«El sistema de señalización inspeccionado y ensayado indicado en la presente acta sigue desempeñando la función de garantía directa de la seguridad del transporte ferroviario y es apto para la explotación.»
-En los tramos intermedios adyacentes Prachatice – estación de enlace RB Husinec y Prachatice – estación de enlace RB Chroboly está activado el sistema de señalización de bloqueo por radio, que permite organizar el transporte ferroviario en un área delimitada mediante autorizaciones transmitidas a la locomotora a través de una red de radio con transmisión de información por datos o por voz y la posterior verificación de la marcha de la locomotora según las autorizaciones emitidas. Las normas para la organización del transporte ferroviario y la garantía de la seguridad del ferroviario las establecen las disposiciones internas del explotador de la vía SŽDC D4 y el PN RB Číčenice – Volary. Según el art. 3.1 de la disposición interna del explotador de la vía DU de la estación de Prachatice, no existe enlace del sistema de señalización de bloqueo por radio con el JOP de la estación de Prachatice.
-El sistema de señalización del tramo intermedio Číčenice – Volary dispone de un Certificado de idoneidad del dispositivo técnico designado – Parte fija del sistema de señalización integrado de estación y de tramo Radioblok RBA-10, tipo Central de bloqueo por radio RBS-100, n.º de ev.:
-PZ 1198/15-E.48, emitido por el DÚ el 12. 8. 2015, sin limitación de vigencia. La última inspección y ensayo del dispositivo técnico se realizó con base en el Acta de inspección y ensayo n.º 40/2020/-LP del 10. 7. 2020 al 20. 7. 2020 con la conclusión: «El sistema de señalización inspeccionado y ensayado indicado en la presente acta sigue desempeñando la función de garantía directa de la seguridad del transporte ferroviario y es apto para la explotación.»
-Del análisis del archivo de datos de la Central de bloqueo por radio RBS-100 se desprende:
+La estación de Prachatice está equipada con SZZ tipo REMOTE 98 con JOP. Según TNŽ 34 2620 se trata de un dispositivo de señalización de 3.ª categoría, que se controla localmente desde la oficina de tráfico mediante JOP.
+El SZZ de la estación de Prachatice dispone de un Certificado de idoneidad del dispositivo técnico designado, n.º de ev.:
+PZ 2367/04-E.48, emitido por DÚ el 15. 9. 2004, con vigencia por tiempo indefinido. El UTZ es
+idóneo para la explotación con base en el Protocolo de inspección técnica y ensayo n.º 18/2009/LP
+de fecha 2. 9. 2009. La última inspección y ensayo del UTZ se realizó con base en el Protocolo
+de inspección y ensayo n.º 14/2019/-LP el 23. 5. 2019 con la conclusión:
+„El dispositivo de señalización inspeccionado y ensayado indicado en el presente protocolo sigue
+cumpliendo la función de garantizar directamente la seguridad del transporte ferroviario y es
+idóneo para la explotación.“
+En los tramos intermedios adyacentes Prachatice – estación de enlace RB Husinec y Prachatice –
+estación de enlace RB Chroboly está activado el TZZ radioblok, que permite organizar el transporte
+ferroviario en un área delimitada mediante autorizaciones transmitidas al HDV a través de la red
+radio con transmisión de datos o de voz y la posterior verificación de la marcha del HDV según
+las autorizaciones emitidas. Las normas para organizar el transporte ferroviario y garantizar la
+seguridad del transporte ferroviario las establecen las disposiciones internas del operador de la
+vía SŽDC D4 y el PN RB Číčenice – Volary. Según el art. 3.1 de la disposición interna del operador
+de la vía DU de la estación de Prachatice, no existe enlace del TZZ radioblok con el JOP de la
+estación de Prachatice.
+El TZZ del tramo intermedio Číčenice – Volary dispone de un Certificado de idoneidad del
+dispositivo técnico designado – Parte estacionaria del dispositivo de señalización integrado de
+estación y línea Radioblok RBA-10, tipo Central de radiobloqueo RBS-100, n.º de ev.:
+PZ 1198/15-E.48, emitido por DÚ el 12. 8. 2015, sin limitación de vigencia. La última
+inspección y ensayo del UTZ se realizó con base en el Protocolo de inspección y ensayo n.º 40/2020/-LP
+del 10. 7. 2020 al 20. 7. 2020 con la conclusión: „El dispositivo de señalización inspeccionado
+y ensayado indicado en el presente protocolo sigue cumpliendo la función de garantizar directamente
+la seguridad del transporte ferroviario y es idóneo para la explotación.“
+Del análisis del archivo de datos de la Central de radiobloqueo RBS-100 se desprende:
 •
-1:34:05 h – autorización para la marcha desde la estación de enlace RB Bavorov hasta la estación de Číčenice para el tren Mn 88853;
+1:34:05 h – autorización de marcha desde la estación de enlace RB Bavorov hacia la estación de Číčenice para el tren
+Mn 88853;
 •
-4:30:54 h – autorización para la marcha desde la estación de Prachatice hasta la estación de Číčenice para el tren Os 18021;
+4:30:54 h – autorización de marcha desde la estación de Prachatice hacia la estación de Číčenice para el tren Os 18021;
 •
-5:24:27 h – autorización para la marcha desde la estación de Číčenice hasta la estación de enlace RB Bavorov para el tren Os 18000 y desde la estación de Prachatice hasta la estación de enlace RB Bavorov para el tren Os 18001;
+5:24:27 h – autorización de marcha desde la estación de Číčenice hacia la estación de enlace RB Bavorov para el tren
+Os 18000 y desde la estación de Prachatice hacia la estación de enlace RB Bavorov para el tren
+Os 18001;
 •
-5:56:49 h – llegada del tren Os 18001 a la estación de enlace RB Bavorov.
+5:56:49 h – llegada del tren Os 18001 a la estación de enlace RB Bavorov. 
 Nota: no se detectó diferencia entre el tiempo registrado y el tiempo real.
-De los datos registrados se desprende que todos los trenes en el período de tiempo dado marcharon según las autorizaciones para la marcha del tren emitidas por la Central de bloqueo por radio RBS-100 con base en la reserva previa de la ruta por parte del despachador de RB.
-En la inspección del lugar del accidente inmediatamente después de su producción, concretamente en el desvío n.º 2sv, se comprobó que la traba del mecanismo de retorno automático del desvío no estaba encajada en los pasadores
-
+De los datos registrados se desprende que todos los trenes en el período de tiempo indicado circularon según
+las autorizaciones de marcha del tren emitidas por la Central de radiobloqueo RBS-100 con base en
+la reserva previa de itinerario por parte del despachador RB.
+En la inspección del lugar del MU inmediatamente después de su producción, concretamente en el
+desvío n.º 2sv, se constató que la barra del mecanismo de retorno automático del desvío no estaba
+encajada en los ejes
 
 ## Página 26
+
 
 del amortiguador hidráulico, es decir, el desvío no estaba retenido en la posición preferente de extremo en la vía de clasificación n.º 1. El cerrojo de enlace de control estaba en posición cerrada, en el cerrojo estaba fijada la llave maestra común de los cerrojos simples de cambio del desvío y la llave resultante del cerrojo de enlace de control había sido extraída. La comprobación eléctrica no señalizó el cierre del enganche de gancho ni el bloqueo del cerrojo y en el semáforo luminoso Sv2 no se encendió la señalización «Marcha garantizada».
 En el marco de la verificación comisionada del funcionamiento del cambiador de retorno automático del desvío n.º 2sv inmediatamente después de la producción del accidente el 1. 4. 2022 y posteriormente el 28. 4. 2022 con personas cualificadas del explotador de la vía, se realizó un ensayo de verificación para determinar si es posible bajar la traba del mecanismo de retorno automático, cerrar el cerrojo y extraer la llave resultante también en una posición distinta de la posición preferente de extremo del desvío.
@@ -959,134 +954,143 @@ Fig. n.º 7: Traba del mecanismo de retorno automático no encajada – el desv�
     Fuente: DI
 Con base en lo anterior, la Inspección Ferroviaria entabló negociaciones con el fabricante del cambiador de retorno automático para los fines de la correcta redacción objetiva, desde el punto de vista constructivo-técnico, de la recomendación de seguridad planteada. Por parte del representante del fabricante
 
-
 ## Página 27
 
-del cambiador de retorno automático se propuso la posibilidad de una modificación constructiva del soporte de la traba, que impediría el cierre del cerrojo de enlace sin que la traba se encaje en los pasadores del amortiguador hidráulico, es decir, sin que el desvío no esté en el modo de accionamiento de retorno automático. La variante de modificación mecánica del soporte de la traba, que será objeto de ulteriores modificaciones, fue presentada a la Inspección Ferroviaria por el representante del fabricante en una reunión conjunta el 30. 8. 2022 directamente en el desvío n.º 2sv en la estación de enlace RB Bavorov.
-Fig. n.º 8: Traba encajada en los pasadores – el desvío está en el modo de
-   accionamiento de retorno automático
-     Fuente: DI
-### 3.1.9 Cualquier otra información relevante para los fines de la descripción del suceso y de la información básica
-Resumen de las explicaciones facilitadas por los empleados del explotador de la vía y del transportista, incluidas las personas en relación contractual:
+del desvío de retorno automático se propuso la posibilidad de una modificación constructiva del soporte del portabarrera, que impediría el bloqueo de la cerradura de enganche sin que el portabarrera encajara en los ejes del amortiguador hidráulico, es decir, sin que el desvío estuviera en el modo de cambio de aguja de retorno automático. La variante de modificación mecánica del soporte del portabarrera, que será objeto de ulteriores modificaciones, fue presentada a la Inspección Ferroviaria por el representante del fabricante en una reunión conjunta el día 30. 8. 2022 directamente en el desvío n.º 2sv en la estación de tráfico RB Bavorov.
+Fig. n.º 8: Portabarrera encajado en los ejes – el desvío está en el modo de cambio de aguja de retorno automático
+   Fuente: DI
+### 3.1.9 Cualquier otra información relevante a los efectos de la descripción del suceso y de la información básica
+Resumen de las explicaciones aportadas por los empleados del gestor de la infraestructura ferroviaria y del transportista, incluidas las personas en relación contractual:
 •
 maquinista del tren Os 18000
-  – Registro de la explicación facilitada DI:
-◦el 1. 4. 2022 entró de servicio a las 3:35 h en la estación de Prachatice para el tren Os 18021 hasta la estación de Číčenice;
-◦la marcha del tren Os 18000 desde la estación de Číčenice hasta la estación de Volary transcurrió sin incidencias;
-◦durante la marcha del tren Os 18000 hacia la estación de enlace RB Bavorov comprobó visualmente el paso a nivel (nota DI: paso a nivel P1432), el estado de las agujas y, al entrar en la estación de enlace, comprobó que no se encendía la luz intermitente;
-◦aplicó el frenado de acción rápida, pero no le fue posible detener el tren y se produjo el descarrilamiento;
-◦tras detener el tren, comunicó al despachador de RB de la estación de Prachatice la producción del accidente;
-◦en el momento de la producción del accidente estaba oscuro y llovía;
-
+  – Registro de la explicación aportada ante la DI:
+◦el 1. 4. 2022 se incorporó al turno a las 3:35 h en la est. Prachatice para el tren Os 18021 con destino a la est. Číčenice;
+◦la circulación del tren Os 18000 desde la est. Číčenice hasta la est. Volary se realizó sin anomalías;
+◦durante la circulación del tren Os 18000 hacia la estación de tráfico RB Bavorov, comprobó visualmente el paso a nivel (nota de la DI: paso a nivel P1432), el estado de la cabeza de la estación y, al entrar en la estación de tráfico, detectó que no se encendía la luz intermitente;
+◦aplicó frenado de acción rápida, pero no logró detener el tren y se produjo el descarrilamiento;
+◦tras detener el tren, comunicó al despachador de RB de la est. Prachatice la producción de la MU;
+◦en el momento de la producción de la MU estaba oscuro y llovía;
 
 ## Página 28
 
-◦antes de la producción del accidente no se produjo ninguna circunstancia que pudiera distraer su atención, influir en ello o contribuir a la producción del accidente.
-Resumen de las explicaciones facilitadas por otras personas y testigos:
+◦antes de la aparición de MU no se produjo ningún hecho que pudiera distraer su atención, influir en él o contribuir a la aparición de MU.
+Resumen de las explicaciones presentadas por otras personas y testigos:
 •
-despachador de RB
-  de la estación de Prachatice
+despachador RB
+  estación Prachatice
   – Acta con el empleado:
-◦el 1. 4. 2022 a las 5:56 h el maquinista del tren Os 18000 le comunicó que en la estación de enlace Bavorov pasó por alto la luz intermitente apagada del desvío n.º 2sv y descarriló en dicho desvío;
-◦comunicó el accidente según el Cuadro de comunicaciones y lo registró en el Registro de comunicación inicial del accidente;
-◦detuvo la explotación en la cabecera de Vodňany de la estación de enlace Bavorov;
-◦durante el turno nadie le comunicó ningún problema con el funcionamiento del cambiador de retorno automático del desvío n.º 2sv en la estación de enlace Bavorov;
-◦el 1. 4. 2022 entre las 1:15 h y las 1:30 h maniobró en la estación de enlace Bavorov el maquinista del tren Mn 88853, que tampoco le comunicó ningún problema con dicho desvío ni con sus cerrojos;
+◦el 1. 4. 2022 a las 5:56 h el maquinista del tren Os 18000 le comunicó que en la estación de Bavorov había pasado por alto el destello apagado del desvío n.º 2sv y que había descarrilado en dicho desvío;
+◦MU lo comunicó según el Horario de Comunicaciones y lo registró en el Registro de Comunicación Inicial de MU;
+◦detuvo la circulación en la cabecera de Vodňany de la estación de Bavorov;
+◦durante el turno nadie le comunicó ningún problema con el funcionamiento del desplazador autorretornable del desvío n.º 2sv en la estación de Bavorov;
+◦el 1. 4. 2022 entre las 1:15 h y las 1:30 h maniobraba en la estación de Bavorov el maquinista del tren Mn 88853, quien tampoco le comunicó ningún problema con este desvío ni con sus cerraduras;
 •
 jefe de maniobras del tren Mn 88853
-  – Registro de la explicación facilitada DI:
-◦el 31. 3. 2022 entró de servicio a las 18:55 h descansado y se sentía bien;
-◦trabaja como jefe de maniobras desde el año 2008 y estaba acreditadamente informado de las condiciones locales de la estación de enlace RB Bavorov y de la Orden de ejecución para el tramo equipado con bloqueo por radio Číčenice – Volary;
-◦en la estación de enlace RB Bavorov realiza maniobras en los últimos 2 años de una a dos veces al mes, en el período anterior incluso de cinco a seis veces al mes;
-◦la posición básica – preferente del desvío n.º 2sv en la estación de enlace RB Bavorov es la vía de clasificación n.º 1;
-◦tiene experiencias muy negativas con la maniobra de desvíos de retorno automático en todas las estaciones de enlace de este tramo;
-◦al manipular los cambiadores de retorno automático ocurre a menudo que, al desconectar del modo de accionamiento de retorno automático al accionamiento manual, tras desbloquear no se puede liberar fácilmente el mecanismo de bloqueo del desvío, y ocurre lo mismo al bloquear el desvío en el modo de retorno automático;
-◦el 1. 4. 2022 llegaron con el tren Mn 88853, que tenía 12 vagones de carga y 1 vagón de servicio, a la estación de enlace RB Bavorov, donde debían recoger de la vía de clasificación n.º 2 1 vagón cargado;
-◦informó al maquinista y al maniobrador del tren Mn 88853 de la forma de realizar las maniobras, recibió las llaves del maquinista y fue a la estación de enlace RB Bavorov, donde insertó las llaves recibidas en el panel de control y liberó las llaves necesarias para el desvío n.º 2sv y el aparato de vía;
-◦desbloqueó el aparato de vía en la vía de clasificación n.º 2 y, tras bajarlo, fue al desvío n.º 1, que desbloqueó;
-
+  – Registro de la explicación presentada a DI:
+◦el 31. 3. 2022 se incorporó al turno a las 18:55 h descansado y sintiéndose bien;
+◦trabaja como jefe de maniobras desde el año 2008 y estaba acreditadamente familiarizado con las condiciones locales de la estación de RB Bavorov y con la Orden Ejecutiva para la línea equipada con radio bloque Číčenice – Volary;
+◦en la estación de RB Bavorov realiza maniobras durante los últimos 2 años una o dos veces al mes, en el periodo anterior incluso cinco o seis veces al mes;
+◦la posición básica – preferente del desvío n.º 2sv en la estación de RB Bavorov es en SK n.º 1;
+◦tiene experiencias muy negativas con la operación de desvíos autorretornables en todas las estaciones de esta línea;
+◦al manipular los desplazadores autorretornables ocurre frecuentemente que, al desactivar el modo de desplazamiento autorretornable a desplazamiento manual tras el desbloqueo, no se puede liberar libremente el mecanismo de bloqueo del desvío, y ocurre lo mismo al bloquear el desvío en modo autorretornable;
+◦el 1. 4. 2022 llegaron con el tren Mn 88853, que tenía 12 vagones de carga y 1 vagón de servicio, a la estación de RB Bavorov, donde debían tomar de SK n.º 2 1 vagón cargado;
+◦informó al maquinista y al maniobrador del tren Mn 88853 sobre la forma de realizar la maniobra, recibió las llaves del maquinista y se dirigió a la estación de RB Bavorov, donde insertó las llaves recibidas en el panel de control y liberó las llaves necesarias para el desvío n.º 2sv y el aparato de desvío;
+◦desbloqueó el aparato de desvío en SK n.º 2 y, tras plegarlo, se dirigió al desvío n.º 1, que desbloqueó;
 
 ## Página 29
 
-◦tras entrar la locomotora del tren Mn 88853 desde la vía de clasificación n.º 3 detrás del desvío n.º 1 y detenerse en la cabecera de Vodňany, accionó dicho desvío hacia la vía de clasificación n.º 2,
-◦la locomotora entró en la vía de clasificación n.º 2 ocupada para el vagón cargado y él pasó al desvío n.º 2sv y lo desbloqueó;
-◦al liberar el mecanismo de bloqueo, es decir, al conmutar del modo de retorno automático al accionamiento manual, el mecanismo no se desbloqueó fácilmente, tuvo que «torcerlo» y, a continuación, accionó el desvío n.º 2sv a la vía de clasificación n.º 3;
-◦tras salir la unidad de maniobras de la vía de clasificación n.º 2 detrás del desvío n.º 1, accionó dicho desvío a la vía de clasificación n.º 1 y comunicó a su colega que también el desvío n.º 2sv estaba accionado a la vía de clasificación n.º 3 ocupada;
-◦tras entrar la unidad de maniobras en la vía de clasificación n.º 3, bloqueó el desvío n.º 1, fue al aparato de vía en la vía de clasificación n.º 2, que accionó y bloqueó;
-◦a continuación accionó manualmente el desvío n.º 2sv a la vía de clasificación n.º 1, lo bloqueó y llevó las llaves del desvío n.º º 2sv y del aparato de vía de vuelta a la estación de enlace RB Bavorov y las insertó en el panel de control;
-◦seguidamente extrajo del panel de control las llaves, que devolvió al maquinista;
-◦tras realizar la prueba de freno en el tren, introdujo el dato del vagón en el sistema informático y comunicó al maquinista que podía comunicar el fin de las maniobras y acordar la salida del tren;
-◦estaba plenamente convencido de que había vuelto a conectar el desvío n.º 2sv en el modo de accionamiento de retorno automático;
-◦tras bloquear el desvío n.º 2sv y extraer la llave, iluminó con la linterna el desvío para comprobar si estaba correctamente accionado y bloqueado, no detectó ninguna incidencia;
+◦poté, con la HDV del tren Mn 88853, entró desde la vía de clasificación n.º 3 más allá del desvío n.º 1 y se detuvo en la cabecera de Vodňany, cambió este desvío hacia la vía de clasificación n.º 2, 
+◦la HDV entró en la vía de clasificación n.º 2 ocupada para el vagón cargado y él se dirigió al desvío n.º 2sv y lo desbloqueó;
+◦al liberar el mecanismo de seguridad, es decir, al conmutar del modo de retorno automático al cambio manual, el mecanismo no se desbloqueaba fácilmente, tuvo que forzarlo llamado «kvrdlat», y a continuación cambió el desvío n.º 2sv a la vía de clasificación n.º 3;
+◦tras la salida de la unidad de maniobras de la vía de clasificación n.º 2 más allá del desvío n.º 1, cambió este desvío a la vía de clasificación n.º 1 y comunicó a su colega que el desvío n.º 2sv también estaba cambiado a la vía de clasificación n.º 3 ocupada;
+◦tras la entrada de la unidad de maniobras en la vía de clasificación n.º 3, bloqueó el desvío n.º 1, se dirigió al desvío de vía muerta en la vía de clasificación n.º 2, que acopló y bloqueó;
+◦a continuación cambió manualmente el desvío n.º 2sv a la vía de clasificación n.º 1, lo bloqueó y llevó las llaves del desvío n.º 2sv y del desvío de vía muerta de vuelta a la estación de maniobras RB Bavorov y las introdujo en la tabla de control;
+◦seguidamente retiró de la tabla de control las llaves, que devolvió al maquinista;
+◦tras realizar la prueba de freno en el tren, introdujo el dato del vagón en el sistema informático y comunicó al maquinista que podía declarar el fin de las maniobras y acordar la salida del tren;
+◦estaba plenamente convencido de que había vuelto a activar el desvío n.º 2sv en el modo de cambio automático;
+◦tras bloquear el desvío n.º 2sv y retirar la llave, iluminó con la linterna el desvío para comprobar si estaba correctamente cambiado y bloqueado, no detectó ningún defecto;
 ◦la cabecera de Vodňany no está iluminada y en el momento de la comprobación caía nieve con lluvia;
-◦además, también con la propia liberación de la llave del desvío n.º 2sv estaba convencido de que el desvío estaba correctamente accionado;
-◦el correcto accionamiento del desvío lo comprueba visualmente, si el tramo de aguja está pegado al contrarriel, si el desvío está accionado en la dirección correcta y el gancho correctamente encajado en toda su longitud;
-◦la comprobación del correcto accionamiento del desvío n.º 2sv a su posición de extremo tras volver a conectarlo en el modo de accionamiento de retorno automático la realizó visualmente y se iluminó con la linterna al hacerlo;
-◦en el pasado no sentía tendencia a la actuación rutinaria durante el desempeño de su servicio;
+◦además, también al liberar la llave del desvío n.º 2sv estaba convencido de que el desvío estaba correctamente cambiado;
+◦el cambio correcto del desvío lo comprueba visualmente, si el corazón está en contacto con el asiento, si el desvío está cambiado en la dirección correcta y el gancho enganchado correctamente en toda su longitud;
+◦la comprobación del cambio correcto del desvío n.º 2sv a su posición final tras la reactivación del modo de cambio automático la realizó visualmente y se iluminó con la linterna al hacerlo;
+◦en el pasado no sentía tendencia a la actuación rutinaria durante el desempeño del servicio;
 •
 maquinista del tren Mn 88853
   – Acta con el empleado:
-◦durante la marcha del tren Mn 88853 el 1. 4. 2022 desde la estación de Volary hasta la estación de enlace RB Bavorov tenían 12 vagones de carga con un vagón de servicio;
-◦tras llegar a la estación de enlace Bavorov se detuvieron en la vía de clasificación n.º 3 y comunicó al despachador de la estación de Prachatice la llegada del tren Mn 88853 y acordó los trabajos de maniobra, que consistían en recoger un vagón cargado en la vía de clasificación n.º 2;
+◦durante la circulación del tren Mn 88853 el 1. 4. 2022 desde la estación de Volary hasta la estación de maniobras RB Bavorov tenían 12 vagones de carga con un vagón de servicio;
+◦tras la llegada a la estación de maniobras Bavorov se detuvieron en la vía de clasificación n.º 3 y comunicó al despachador de la estación de Prachatice la llegada del tren Mn 88853 y acordó los trabajos de maniobras, que consistían en la recepción de un vagón cargado en la vía de clasificación n.º 2;
 
 ## Página 30
 
-◦con el permiso del despachador de la estación de Prachatice, informó al jefe de maniobras de las maniobras y le encomendó la realización de las mismas;
-◦entregó el manojo de llaves al jefe de maniobras, que a continuación se dirigió a la sala de tráfico, donde tomó las llaves correspondientes de la aguja de apartadero y de la aguja n.º 2sv, y después se le vio ir a la cabecera de Číčenice (nota DI: es decir, la cabecera de Vodňany);
-◦a través de la radio, recibió del jefe de maniobras la instrucción de poner en movimiento la HDV con el coche de servicio en dirección más allá de la aguja n.º 1, donde se detuvo, y, tras la instrucción, volvió a poner en movimiento la sección de maniobras hacia el SK n.º 2;
-◦tras acoplarse al coche cargado estacionado en el SK n.º 2, el maniobrador acopló el coche de servicio con el coche estacionado y realizó una prueba simple de freno;
-◦el jefe de maniobras le comunicó que podía maniobrar y que la aguja n.º 1 estaba dispuesta para su circulación desde el SK n.º 2;
-◦tras detener la sección de maniobras más allá de la aguja n.º 1, el jefe de maniobras le comunicó que podían maniobrar hacia el SK n.º 3;
-◦tras acoplarse y acoplar los coches, el maniobrador realizó una prueba simple de freno y vio cómo se movía el jefe de maniobras entre las agujas n.º 1, 2sv y la aguja de apartadero, y a continuación se dirigió a la sala de tráfico;
+◦con el despachador de la estación de Prachatice, informó al jefe de maniobras de la maniobra y le encomendó la realización de la maniobra;
+◦entregó el manojo de llaves al jefe de maniobras, que a continuación se dirigió a la sala de tráfico, donde tomó las llaves correspondientes de la aguja de desvío y del desvío n.º 2sv, y a continuación se le vio ir a la cabecera de Číčenice (nota DI: es decir, la cabecera de Vodňany);
+◦a través de la estación de radio recibió del jefe de maniobras la instrucción de poner en movimiento el HDV con el vehículo de servicio en dirección más allá del desvío n.º 1, donde se detuvo, y a continuación, tras la instrucción, puso de nuevo en movimiento la sección de maniobras hacia la SK n.º 2;
+◦tras acceder al vagón cargado estacionado en la SK n.º 2, el maniobrador acopló el vehículo de servicio con el vagón estacionado y realizó una prueba simple de freno;
+◦el jefe de maniobras le comunicó que podía maniobrar y que el desvío n.º 1 estaba dispuesto para su circulación desde la SK n.º 2;
+◦tras detener la sección de maniobras más allá del desvío n.º 1, el jefe de maniobras le comunicó que podían maniobrar hacia la SK n.º 3;
+◦tras acceder y acoplar los vagones, el maniobrador realizó una prueba simple de freno y vio cómo se movía el jefe de maniobras entre los desvíos n.º 1, 2sv y la aguja de desvío, y a continuación se dirigió a la sala de tráfico;
 ◦el jefe de maniobras le entregó el manojo completo de llaves, que comprobó y no faltaba ninguna llave;
-◦comunicó al despachador de la estación de Prachatice la finalización de las maniobras en la estación de clasificación RB Bavorov y solicitó la salida del tren Mn 88853 desde la estación de clasificación RB Bavorov hacia la estación de Číčenice;
+◦al despachador de la estación de Prachatice le comunicó la finalización de la maniobra en la estación de tráfico RB Bavorov y solicitó la salida del tren Mn 88853 desde la estación de tráfico RB Bavorov hacia la estación de Číčenice;
 ◦tras la llegada a la estación de Číčenice, comunicó al despachador de la estación de Prachatice la llegada del tren, se dio de baja del bloque radio y entregó el manojo completo de llaves;
-◦en las agujas n.º 1 y 2sv de la estación de clasificación RB Bavorov vio al jefe de maniobras manipulando con las llaves y los cerraduras, pero no vio cómo disponía las agujas;
-◦al pasar por las agujas n.º 2sv y 1, registró únicamente una circulación normal;
-◦el jefe de maniobras no se quejó en ningún momento de averías ni de una manipulación dificultosa de las llaves y del disponer en la aguja de apartadero y en las agujas n.º 1 y 2sv;
+◦en los desvíos n.º 1 y 2sv en la estación de tráfico RB Bavorov vio al jefe de maniobras manipulando con las llaves y los cerraduras, pero no vio cómo disponía los desvíos;
+◦al pasar por los desvíos n.º 2sv y 1, registró únicamente una circulación normal;
+◦el jefe de maniobras no se quejó en ningún caso de averías ni de una manipulación dificultosa de las llaves y del disponer en la aguja de desvío y en los desvíos n.º 1 y 2sv;
 •
 maniobrador del tren Mn 88853
   – Acta con el empleado:
-◦durante la circulación del tren Mn 88853 el día 1. 4. 2022 desde la estación de Volary hacia la estación de clasificación RB Bavorov, disponían de 12 coches de carga con un coche de servicio;
-◦tras la detención en la estación de clasificación RB Bavorov en el SK n.º 3, el maquinista acordó las maniobras y entregó las llaves al jefe de maniobras, que se dirigió a la estación de clasificación;
-◦desacopló el coche de servicio y la HDV del grupo de coches y esperó la instrucción del jefe de maniobras para iniciar las maniobras;
-◦salieron del SK n.º 3 más allá de la aguja n.º 1, el jefe de maniobras abrió esta aguja con llave y la dispuso hacia el SK n.º 2;
-◦tras entrar en esta vía, acopló el coche cargado, aflojó el freno, retiró los tope y, según la instrucción del jefe de maniobras, salieron de nuevo más allá de la aguja n.º 1 y, una vez que el jefe de maniobras abrió con llave el desvío automático (nota DI: la aguja n.º 2sv), volvieron al SK n.º 3;
-
+◦durante la circulación del tren Mn 88853 el día 1. 4. 2022 desde la estación de Volary hacia la estación de tráfico RB Bavorov, disponían de 12 vagones de carga con un vehículo de servicio;
+◦tras la detención en la estación de tráfico RB Bavorov en la SK n.º 3, el maquinista acordó la maniobra y entregó las llaves al jefe de maniobras, que se dirigió a la estación de tráfico;
+◦desacopló el vehículo de servicio y el HDV del grupo de vagones y esperó la instrucción del jefe de maniobras para iniciar la maniobra;
+◦salieron de la SK n.º 3 más allá del desvío n.º 1, el jefe de maniobras abrió este desvío con llave y lo dispuso hacia la SK n.º 2;
+◦tras acceder a esta vía, acopló el vagón cargado, aflojó el freno, retiró los tope y, según la instrucción del jefe de maniobras, salieron de nuevo más allá del desvío n.º 1 y, después de que el jefe de maniobras abriera con llave el desvío de retorno (nota DI: el desvío n.º 2sv), volvieron a la SK n.º 3;
 
 ## Página 31
 
-◦acopló la sección de maniobras al grupo de coches estacionados, realizó una prueba simple de freno y se dirigió al coche de servicio;
-◦vio cómo se movía el jefe de maniobras entre la aguja de apartadero y las agujas y manipulaba con ellas;
-◦no vio con exactitud si abría o cerraba con llave, estaba lejos y era de noche.
+◦acopló la unidad de maniobras al grupo de vagones estacionado, realizó una prueba simple de freno y se dirigió al vagón de servicio;
+◦vio cómo el jefe de maniobras se movía entre el desvío de maniobra y los desvíos y manipulaba los mismos;
+◦no vio con precisión si abría o cerraba, estaba lejos y era de noche.
 ### 3.2 Descripción fáctica del suceso
 ### 3.2.1 Secuencia de hechos que condujeron al suceso excepcional
-El maquinista del tren Os 18000 incorporó su turno el día 31. 3. 2022 a las 18:30 h en la estación de Volary.
-Posteriormente, tras la interrupción del turno desde las 22:45 h hasta las 3:49 h del día 1. 4. 2022 en la estación de Prachatice, continuó su turno incorporándose primero al tren Os 18021 con salida regular de la estación de Prachatice a las 4:34 h en dirección a la estación de Číčenice, donde, con la prestación del servicio, continuó con el tren Os 18000 Číčenice – Volary. El tren Os 18000 salió de la estación de Číčenice a las 5:38:27 h y, según la declaración del maquinista y también según los datos registrados por el dispositivo de seguridad INDUSI, la circulación transcurrió sin anomalías. La última parada para el ascenso y descenso de viajeros antes de la estación de clasificación RB Bavorov fue la parada de Pražák.
-Durante la circulación hacia la estación de clasificación RB Bavorov, el maquinista, según su declaración:
+El maquinista del tren Os 18000 comenzó su turno el día 31. 3. 2022 a las 18:30 h en la est. Volary.
+Posteriormente, tras la interrupción del turno desde las 22:45 h hasta las 3:49 h del día 1. 4. 2022 en la est. Prachatice,
+continuó el turno incorporándose primero al tren Os 18021 con salida regular de la est.
+Prachatice a las 4:34 h en dirección a la est. Číčenice, donde, con la prestación del servicio, continuó en el tren
+Os 18000 Číčenice – Volary. El tren Os 18000 partió de la est. Číčenice a las 5:38:27 h y, según
+declaración del maquinista y también según los datos registrados por el dispositivo de seguridad
+INDUSI, la circulación se desarrolló sin anomalías. La última parada para el desembarque y embarque de
+pasajeros antes de la estación de tráfico RB Bavorov fue la parada Pražák.
+Durante la circulación hacia la estación de tráfico RB Bavorov, el maquinista, según su declaración:
 •
-comprobó el paso a nivel P1432 y el estado de la cabecera de la estación de clasificación;
+comprobó el paso a nivel P1432 y el estado de la cabecera de la estación de tráfico;
 •
-al entrar en la estación de clasificación, comprobó que no se encendía la luz intermitente, es decir, la señal «Circulación asegurada», en el semáforo de la aguja con desvío automático Sv2;
+al entrar en la estación de tráfico, comprobó que no se encendía la luz intermitente, es decir, la señal «Circulación
+asegurada», en el semáforo del desvío con cambio automático Sv2;
 •
-aplicó el frenado de acción rápida, pero ya no logró detener el tren y entró en la aguja n.º 2sv, que no estaba dispuesta en sentido recto, es decir, en la posición prioritaria para la circulación hacia el SK n.º 1.
-En el km 12,342 se produjo a continuación el descarrilamiento del primer bogie de la unidad automotora. Tras el paso de este bogie, la lengua derecha de la aguja se apoyó en el riel de apoyo derecho, lo que permitió que el segundo y el tercer bogie de la unidad automotora circularan por la aguja en sentido de desvío hacia el SK n.º 3 sin descarrilarse. La cabeza del tren Os 18000 se detuvo en el km 12,361.
-### 3.2.2 Secuencia de hechos desde la producción del suceso excepcional hasta la finalización de las acciones de los servicios de emergencia
+aplicó el frenado de acción rápida, pero ya no logró detener el tren y entró en el desvío
+n.º 2sv, que no estaba cambiado en dirección directa, es decir, en la posición preferente para la circulación
+en la SK n.º 1.
+En el km 12,342 se produjo a continuación el descarrilamiento del primer bogie de la unidad motorizada. Tras
+el paso de este bogie, la lengua derecha del desvío se apoyó en el soporte derecho, lo que permitió
+al segundo y tercer bogie de la unidad motorizada circular por el desvío en dirección de desvío hacia la SK n.º 3
+en estado no descarrilado. La cabeza del tren Os 18000 se detuvo en el km 12,361.
+### 3.2.2 Secuencia de hechos desde la producción del suceso excepcional hasta la finalización de las acciones de los servicios de rescate
 •
 5:56 h –
 producción del SE;
 •
 5:57 h –
-comunicación de la producción del SE por el maquinista del tren Os 18000 al despachador de RB de la estación de Prachatice;
+comunicación de la producción del SE por el maquinista del tren Os 18000 al despachador RB est. Prachatice;
 •
 5:57 h –
-comunicación de la producción del SE por el despachador de RB de la estación de Prachatice al IZS;
+comunicación de la producción del SE por el despachador RB est. Prachatice al IZS;
 •
 5:58 h –
-comunicación de la producción del SE por el despachador de RB de la estación de Prachatice al jefe despachador de CDP Praha – OŘP para el área de Praga;
+comunicación de la producción del SE por el despachador RB est. Prachatice al jefe
+de despacho CDP Praha – OŘP para el área de Praga;
 •
 6:05 h –
-comunicación de la producción del SE por el jefe despachador de CDP Praha – OŘP para el área de Praga a O18 SŽ;
+comunicación de la producción del SE por el jefe de despacho CDP Praha – OŘP para
+el área de Praga a O18 SŽ;
 •
 6:07 h –
 notificación de la producción del SE por la persona autorizada del transportista GWTR a COP DI;
@@ -1094,8 +1098,8 @@ notificación de la producción del SE por la persona autorizada del transportis
 6:12 h –
 notificación de la producción del SE por la persona autorizada de O18 SŽ a COP DI;
 
-
 ## Página 32
+
 
 •
 9:15 h –
@@ -1123,8 +1127,8 @@ El maquinista del tren Os 18000, en su declaración, entre otras cosas, indicó:
 •
 «Prachatice, despachador (apellido del despachador de RB de la estación de Prachatice).
 
-
 ## Página 33
+
 
 •
 A, (nombre de pila del despachador de RB de la estación de Prachatice), pr***r. He descarrilado en Bavorov en el desvío automático.
@@ -1155,29 +1159,28 @@ En la investigación se detectó infracción de las disposiciones legales y de l
 ## Página 34
 
 •
-art. 329 del reglamento interno SŽDC D1:
-«… El empleado al que se dirijan las señales debe garantizar las condiciones (si puede influir en ellas) para que pueda percibir las señales y regirse por ellas.»;
+art. 329 del reglamento interno de SŽDC D1:
+"… El empleado al que se dirigen las señales debe garantizar las condiciones (si puede influir en ellas) para que pueda percibir las señales y regirse por ellas.";
 •
-art. 432, letra c), del reglamento interno SŽDC D1:
-«Salvo la posibilidad de evitar un peligro inminente, está prohibido maniobrar sobre agujas o sobre agujas y cruces con PHS que no estén dispuestos para la dirección de circulación requerida, salvo que estén construidos para ello y que tal forma de maniobrar sobre ellos no esté permitida...»;
+art. 432, letra c), del reglamento interno de SŽDC D1:
+"Salvo la posibilidad de evitar un peligro inminente, está prohibido maniobrar con agujas o agujas y cruces de vía con PHS que no estén dispuestos para el sentido de circulación requerido, salvo que estén construidos para ello y que tal forma de maniobrar con ellos no esté permitida ...";
 •
-art. 529 del reglamento interno SŽDC D1:
-«Si en el semáforo de aguja con desvío automático no está encendida la señal Circulación asegurada, no se permite circular por la aguja con desvío automático hasta haberse comprobado la correcta disposición de la aguja. De ello responde el maquinista o, en su caso, el empleado al frente del tren empujado (de maniobra).»;
+art. 529 del reglamento interno de SŽDC D1:
+"Si en la señal luminosa de una aguja con enclavamiento de retorno automático no hay la señal de Circulación garantizada, solo se podrá circular por la aguja con enclavamiento de retorno automático tras comprobar la correcta disposición de la aguja. De ello responde el maquinista o, en su caso, el empleado al frente del tren empujado (de maniobras).";
 •
 art. 36, apartado c), letra i), del reglamento interno GWTR 2019/06:
-«El maquinista está obligado, en particular, a observar durante la circulación del tren, del PMD y de la maniobra la vía y la aguja, incluida la línea de tracción, y a regirse por las señales,»;
+"El maquinista está obligado, en particular, a observar durante la circulación del tren, la maniobra y el movimiento de vía y de la vía férrea, incluido el hilo de contacto, y a regirse por las señales,";
 •
 art. 112 del reglamento interno GWTR 2019/06:
-«El maquinista está obligado:
-a) durante la circulación a vigilar la vía y la aguja por delante del vehículo ferroviario que encabeza la marcha y, en la vía electrificada, también la línea de tracción,
-b) actuar de manera que la circulación del tren sea segura,
-d) conducir el tren de modo que no se vea afectada la seguridad del transporte ferroviario...».
-El 1. 4. 2022 llegó el tren Mn 88853 del transportista ČDC a la estación RB Bavorov en la vía SK n.º 3.
-Según la conversación registrada en el dispositivo de registro ReDat 3, el maquinista del tren Mn 88853 comunicó a las 1:18:26 h al despachador de la estación de Prachatice la llegada del tren a la estación RB Bavorov. Simultáneamente le solicitaba permiso para realizar una maniobra en dicha estación, que consistía en acoplar el DV cargado en la vía SK n.º 2. El despachador de la estación de Prachatice concedió al maquinista el permiso para la maniobra con hora de finalización hasta las 1:50 h. El maquinista, según su declaración, informó a continuación al jefe de tren del permiso concedido para la maniobra, de la tecnología de la maniobra y le encomendó la realización de la misma.
-El jefe de maniobra, según su declaración, tras obtener las llaves necesarias del desvío n.º Vk1 y de la aguja n.º 2sv del cerradura central en la estación RB Bavorov, abrió y bajó el desvío y, tras entrar el equipo de maniobra en el extremo de Vodňany de la estación RB Bavorov más allá de la aguja n.º 1, dispuso esta aguja en dirección a la vía SK n.º 2. A continuación conmutó la aguja n.º 2sv del modo automático al modo de cambio manual y dispuso la aguja hacia la vía SK n.º 3. Tras entrar el equipo de maniobra en la vía SK n.º 2 ocupada, acoplar el DV cargado retirado y realizar una prueba simple de freno con el maniobrador, el jefe de maniobra dio por radio al maquinista la instrucción de sacar el equipo de maniobra de la vía SK n.º 2 más allá de la aguja n.º 1. Tras sacar el equipo de maniobra de la vía SK n.º 2 más allá de la aguja n.º 1, el jefe de maniobra devolvió esta aguja a la vía SK n.º 1 y, a continuación, tras entrar el equipo de maniobra en la vía SK n.º 3, dispuso la aguja n.º 2sv en la posición preferente hacia la vía SK n.º 1, la cerró con llave y retiró la llave. El jefe de maniobra, según su declaración, comprobó la activación de la aguja n.º 2sv en el modo de cambio automático y asimismo realizó la comprobación de la correcta disposición de la aguja n.º 2sv en su posición final tras volver a activarla en el
-
+"El maquinista está obligado:
+a) durante la circulación, a vigilar la vía y la vía férrea situadas delante del vehículo ferroviario de cabeza y, en vía electrificada, también el hilo de contacto,
+b) a actuar de manera que la circulación del tren sea segura,
+d) a conducir el tren de modo que no se vea afectada la seguridad del transporte ferroviario ...".
+El 1. 4. 2022, el tren Mn 88853 del transportista ČDC llegó a la estación de maniobras RB Bavorov en la SK n.º 3. Según la conversación registrada en el dispositivo de registro ReDat 3, el maquinista del tren Mn 88853 comunicó a las 1:18:26 h al despachador de la est. Prachatice la llegada del tren a la estación de maniobras RB Bavorov. Simultáneamente, le solicitó autorización para realizar maniobras en dicha estación, consistentes en acoplar el DV cargado en la SK n.º 2. El despachador de la est. Prachatice concedió al maquinista la autorización para maniobrar con hora de finalización hasta las 1:50 h. El maquinista, según su declaración, informó a continuación al jefe de tren de la autorización concedida para maniobrar, de la tecnología de maniobra y le encomendó la realización de la maniobra.
+El jefe de maniobras, según su declaración, tras obtener las llaves necesarias de la desviadora n.º Vk1 y de la aguja n.º 2sv del cerradura central en la estación de maniobras RB Bavorov, abrió y bajó la desviadora y, tras entrar el equipo de maniobras en el extremo de Vodňany de la estación de maniobras RB Bavorov más allá de la aguja n.º 1, dispuso esta aguja en dirección a la SK n.º 2. A continuación, conmutó la aguja n.º 2sv del modo de retorno automático al accionamiento manual y dispuso la aguja hacia la SK n.º 3. Tras entrar el equipo de maniobras en la SK n.º 2 ocupada, acoplar el DV cargado estacionado y realizar una prueba simple de freno con el maniobrador, el jefe de maniobras dio por radio al maquinista la instrucción de sacar el equipo de maniobras de la SK n.º 2 más allá de la aguja n.º 1. Tras sacar el equipo de maniobras de la SK n.º 2 más allá de la aguja n.º 1, el jefe de maniobras devolvió esta aguja a la SK n.º 1 y, posteriormente, tras entrar el equipo de maniobras en la SK n.º 3, dispuso la aguja n.º 2sv a la posición preferente hacia la SK n.º 1, la cerró con llave y extrajo la llave. El jefe de maniobras, según su declaración, comprobó la activación de la aguja n.º 2sv en el modo de enclavamiento de retorno automático y asimismo realizó la comprobación de la correcta disposición de la aguja n.º 2sv en su posición final tras la reactivación a
 
 ## Página 35
+
 
 modo de cambio automático mediante inspección visual, iluminándose con una linterna, y no detectó ningún defecto.
 Sin embargo, del análisis del archivo de datos del sistema de diagnóstico REMOTE 96 se desprende de forma inequívoca que, en el intervalo comprendido entre las 1:25:22 h y las 11:43:04 h, se produjo la pérdida de la posición preferente de la aguja n.º 2sv y el apagado de la señal «Circulación asegurada» en el semáforo Sv2.
@@ -1202,8 +1205,8 @@ art. 39 del reglamento interno SŽDC (ČD) Z1, Anexo 1:
 «El empleado que la opera comprueba el correcto cierre del tramo de aguja o del PHS de la siguiente manera:
 a) en la aguja con cierre de gancho del tramo, debe enganchar el gancho de cierre del tramo adyacente de la aguja detrás de la parte curva de la mandíbula de cierre (el lóbulo) al menos 5 cm desde su parte de cierre, es decir, 5/6 Z (Z = 6 cm).»
 
-
 ## Página 36
+
 
 ### 4.1.2 Entidades responsables del mantenimiento de los vehículos ferroviarios
 En la investigación no se constató infracción de las funciones y obligaciones de las entidades responsables del mantenimiento de los vehículos ferroviarios.
@@ -1220,28 +1223,29 @@ En la investigación no se constató infracción de las funciones y obligaciones
 ### 4.1.7 Cualquier otra persona o entidad
 Las funciones y obligaciones de otras personas o entidades no guardaban relación con la aparición de la MU.
 
-
 ## Página 37
 
-### 4.2 Vehículos ferroviarios y dispositivos técnicos
-4.2.1 Factores o consecuencias derivados de la construcción de los vehículos ferroviarios, de la infraestructura ferroviaria o de los dispositivos técnicos
-En la investigación no se detectaron factores derivados de la construcción de los vehículos ferroviarios, de la infraestructura ferroviaria o de los dispositivos técnicos.
-4.2.2 Factores o consecuencias derivados de la instalación y puesta en servicio de los vehículos ferroviarios, de la infraestructura ferroviaria o de los dispositivos técnicos
-En la investigación no se detectaron factores derivados de la instalación y puesta en servicio de los vehículos ferroviarios, de la infraestructura ferroviaria o de los dispositivos técnicos.
-### 4.2.3 Factores o consecuencias relacionados con los fabricantes de vehículos ferroviarios u otros proveedores de productos ferroviarios
-En la investigación no se detectaron factores relacionados con los fabricantes de vehículos ferroviarios u otros proveedores de productos ferroviarios.
-### 4.2.4 Factores o consecuencias derivados del mantenimiento y de la modificación de los vehículos ferroviarios o de los dispositivos técnicos
-En la investigación no se detectaron factores derivados del mantenimiento y de la modificación de los vehículos ferroviarios o de los dispositivos técnicos.
-### 4.2.5 Factores o consecuencias relacionados con la entidad responsable del mantenimiento de los vehículos ferroviarios, los talleres de mantenimiento y otros prestadores de servicios de mantenimiento
-En la investigación no se detectaron factores relacionados con la entidad responsable del mantenimiento de los vehículos ferroviarios, los talleres de mantenimiento y otros prestadores de servicios de mantenimiento.
+### 4.2 Material rodante e instalaciones técnicas
+4.2.1 Factores o consecuencias derivados de la construcción del material rodante, de la infraestructura ferroviaria o de las instalaciones técnicas
+En la investigación no se detectaron factores derivados de la construcción del material rodante, de la infraestructura ferroviaria o de las instalaciones técnicas.
+4.2.2 Factores o consecuencias derivados de la instalación y de la puesta en servicio del material rodante, de la infraestructura ferroviaria o de las instalaciones técnicas
+En la investigación no se detectaron factores derivados de la instalación y de la puesta en servicio del material rodante, de la infraestructura ferroviaria o de las instalaciones técnicas.
+### 4.2.3 Factores o consecuencias relacionados con los fabricantes de material rodante u otros proveedores de productos ferroviarios
+En la investigación no se detectaron factores relacionados con los fabricantes de material rodante u otros proveedores de productos ferroviarios.
+### 4.2.4 Factores o consecuencias derivados del mantenimiento y de la modificación del material rodante o de las instalaciones técnicas
+En la investigación no se detectaron factores derivados del mantenimiento y de la modificación del material rodante o de las instalaciones técnicas.
+### 4.2.5 Factores o consecuencias relacionados con el sujeto responsable del mantenimiento del material rodante, los talleres de mantenimiento y otros prestadores de servicios de mantenimiento
+En la investigación no se detectaron factores relacionados con el sujeto responsable del mantenimiento del material rodante, los talleres de mantenimiento y otros prestadores de servicios de mantenimiento.
 4.2.6 Otros factores o consecuencias que se consideren relevantes a efectos de la investigación
-En la investigación no se detectaron otros factores relacionados con los vehículos ferroviarios, la infraestructura ferroviaria o los dispositivos técnicos.
+En la investigación no se detectaron otros factores relacionados con el material rodante, la infraestructura ferroviaria o las instalaciones técnicas.
 ### 4.3 Factores humanos
 ### 4.3.1 Características humanas e individuales
-Los requisitos aplicables a los empleados del gestor de la vía y del transportista, en particular los requisitos de idoneidad profesional y sanitaria, están establecidos por la Ley n.º 266/1994 Sb., el Decreto n.º 173/1995 Sb., el Decreto n.º 101/1995 Sb., el Decreto n.º 16/2012 Sb. y los reglamentos internos del gestor de la vía y del transportista.
-La Inspección Ferroviaria, en la investigación del factor humano, intentó evaluar todas las influencias que pudieron actuar sobre los empleados implicados y que pudieron tener, en su caso, incidencia en la aparición de esta MU. En el caso del maquinista del tren Os 18000 se trató, en particular, de evaluar su experiencia, conocimientos y antigüedad en el puesto. Trabajó como maquinista de forma ininterrumpida desde el año 2006 hasta la aparición de la MU. Circuló regularmente por la línea Číčenice – Volary desde diciembre de 2017. El maquinista tenía
+Los requisitos aplicables al personal de la empresa explotadora de la vía y al transportista, en particular los requisitos de idoneidad profesional y médica, están establecidos por la Ley núm. 266/1994 Sb., el decreto núm. 173/1995 Sb., el decreto núm. 101/1995 Sb., el decreto núm. 16/2012 Sb. y las normas internas de la empresa explotadora de la vía y del transportista.
+La Inspección Ferroviaria, en su investigación del factor humano, trató de evaluar todas las influencias que pudieron afectar a los empleados implicados y que pudieran haber tenido, en su caso, incidencia en la producción de este AM.
+En el caso del maquinista del tren Os 18000, se trató principalmente de evaluar su experiencia, conocimientos y antigüedad en el puesto. Trabajó como maquinista de forma ininterrumpida desde el año 2006 hasta la producción del AM. Circulaba habitualmente por la línea Číčenice – Volary desde diciembre de 2017. El maquinista contaba con
 
 ## Página 38
+
 
 tud, así como una práctica suficientemente larga y, según la documentación del operador GWTR, estaba demostradamente familiarizado con las condiciones de la vía.
 La Inspección Ferroviaria, en su investigación, constató que el maquinista estaba cualificado profesionalmente para desempeñar la función de maquinista y que la duración de su práctica, sus experiencias y sus conocimientos no influyeron en la aparición de este MU.
@@ -1264,8 +1268,8 @@ Las condiciones pertinentes del marco regulatorio están establecidas en los Reg
 realiza cualquiera de los sujetos implicados
 En los procedimientos, métodos, contenido y resultados de las actividades de evaluación de riesgos y de seguimiento, relacionados con las circunstancias de la aparición del MU en cuestión, no se detectaron deficiencias.
 
-
 ## Página 39
+
 
 ### 4.4.3 Sistema de garantía de seguridad de los operadores y gestores de infraestructura implicados
 En el sistema de seguridad del gestor de infraestructura y en el sistema de garantía de seguridad del transporte ferroviario del operador, relacionados con las circunstancias de la aparición del MU en cuestión, no se detectaron deficiencias.
@@ -1291,8 +1295,8 @@ v  , donde se produjo una marcha no asegurada del tren Os 5452 con su posterior 
 •
 del 29. 4. 2018, en la estación de maniobras D3 Lhotka u Mělníka, donde se produjo una marcha no asegurada del tren Os 8532 con su posterior descarrilamiento. La causa inmediata de la aparición del MU fue el incumplimiento de la instrucción del gestor de infraestructura dada mediante la señal Sv1
 
-
 ## Página 40
+
 
 al maquinista del tren Os 8532 antes de la entrada en el desvío n.º 1sv de la estación de maniobras D3
 Lhotka u Mělníka;
@@ -1308,41 +1312,34 @@ En base a los resultados de la investigación de las causas y circunstancias de 
 La Inspección Ferroviaria recibió de la Oficina Ferroviaria, de conformidad con lo dispuesto en el apartado 4 del artículo 53e de la ley n.º 266/1994 Sb., las medidas adoptadas en relación con la recomendación de seguridad emitida en base a los resultados de la investigación de las causas y circunstancias del MU del 28. 6. 2019. En la carta «Medidas de la Oficina Ferroviaria para el cumplimiento de la recomendación de seguridad de la DI» de fecha 2. 7. 2020, n.º de expediente: DUCR-
 38137/20/Lv y n.º de expediente: OU-JOU0003/20-110/Lv, se indica que la Oficina Ferroviaria instó al gestor de infraestructura SŽ, mediante la carta n.º de expediente DUCR-8687/20/Lv de fecha 13. 2. 2020, a la adopción de medidas en el sentido de la recomendación de seguridad.
 
-
 ## Página 41
 
-El gestor de infraestructura SŽ, en su carta n.º de expediente 20930/2020-SŽDC-GŘ-O 14 de fecha
-26. 3. 2020, respondió que, en el marco de las modificaciones en la estación de maniobras D3 Vysoké Mýto, se había complementado la señal Sv1 con una lámpara de color rojo para la posible verificación futura de la solución técnica de la señal que prohíbe la marcha para los casos en que el desvío en modo automático no esté correctamente conmutado en la posición de prioridad. Dado que la aplicación de esta modificación requiere modificaciones no despreciables en los circuitos de supervisión técnica del desvío en modo automático, la verificación de la visibilidad diurna y nocturna de la señal propuesta y la modificación de las condiciones de organización y dirección del tráfico ferroviario, se puede prever una primera implantación posible, en el marco de una explotación de verificación, en la segunda mitad del año 2020.
-El gestor de infraestructura SŽ, además, en su reglamento interno revisado SŽ D1, en vigor desde el 1. 7. 2022, en el artículo 63 «Averías de los desvíos con mecanismo de cambio automático», indica:
-«El hecho de que un desvío equipado con señal luminosa de desvío con mecanismo de cambio automático, en el modo de cambio automático, no esté correctamente conmutado en la posición de prioridad, se indica al maquinista durante la marcha contra la aguja de la siguiente manera:
-a) en la señal luminosa de desvío con mecanismo de cambio automático no se enciende la señal
+El operador de la vía SŽ, en su carta n.º de referencia 20930/2020-SŽDC-GŘ-O 14 de fecha 26. 3. 2020, respondió que, en el marco de las modificaciones en el puesto de mando D3 Vysoké Mýto, la señal Sv1 se había dotado de una lámpara de color rojo para posibilitar la futura verificación de la solución técnica de la señal que prohíbe la marcha en los casos en que el desvío en modo de retorno automático no esté correctamente conmutado en la posición de prioridad. Dado que la aplicación de esta modificación requiere no pocas modificaciones en los circuitos de supervisión técnica del desvío en modo de retorno automático, la verificación de la visibilidad diurna y nocturna de la señal propuesta y una modificación en las condiciones de organización y dirección del tráfico ferroviario, es posible prever la primera aplicación, en el marco de la explotación de verificación, en la segunda mitad del año 2020.
+El operador de la vía SŽ, asimismo, en su reglamento interno revisado SŽ D1, en vigor desde el 1. 7. 2022, en el art. 63 Averías de los desvíos con accionamiento de retorno automático, indica:
+«El hecho de que un desvío dotado de una señal luminosa de desvío con accionamiento de retorno automático, en el modo de conmutación de retorno automático, no esté correctamente conmutado en la posición de prioridad, se indica al maquinista, en la marcha en sentido de la aguja, de la siguiente manera:
+a) en la señal luminosa de desvío con accionamiento de retorno automático no se enciende la señal
 ### Marcha asegurada …, o
-b) en la señal luminosa de desvío con mecanismo de cambio automático se enciende una luz roja intermitente …».
+b) en la señal luminosa de desvío con accionamiento de retorno automático se enciende una luz roja intermitente …».
 ### 5 CONCLUSIONES
 ### 5.1 Resumen del análisis y conclusiones relativas a las causas del suceso
 La causa inmediata del suceso excepcional fue:
 •
-el incumplimiento de la instrucción del gestor de infraestructura dada mediante la señal luminosa Sv2 al maquinista del tren Os 18000 antes de la entrada en el desvío n.º 2sv de la estación de maniobras RB Bavorov, la no parada del tren Os 18000 antes del desvío n.º 2sv y la no comprobación de su correcta conmutación.
-La DI no detectó ningún factor contribuyente.
-La DI no detectó ninguna causa sistémica.
-### A summary of the analysis and conclusions with regard to the causes of the
-occurrence
-Causal factor:
+el incumplimiento de la instrucción del operador de la vía dada mediante la señal luminosa Sv2 al maquinista del tren Os 18000 antes de la entrada en el desvío n.º 2sv del puesto de mando RB Bavorov, la no detención del tren Os 18000 antes del desvío n.º 2sv y la no comprobación de su correcta conmutación.
+No se detectó ningún factor contribuyente por parte de la DI.
+No se detectó ninguna causa sistémica por parte de la DI.
+### Un resumen del análisis y las conclusiones relativas a las causas del suceso
+Factor causal:
 •
-the train driver of the regional passenger train No. 18000 did not respect the
-instruction by IM of the signal device Sv2 before entering on the spring switch No.
-2sv at Bavorov operating control point, the regional passenger train No. 18000 did
-not stop before spring switch No. 2sv and the train driver did not check correct
-transfer of this switch.
-Contributing factor:
+el maquinista del tren de pasajeros regional n.º 18000 no respetó la instrucción del operador de la vía dada mediante el dispositivo de señal Sv2 antes de entrar en el desvío de retorno automático n.º 2sv del puesto de mando Bavorov; el tren de pasajeros regional n.º 18000 no se detuvo antes del desvío de retorno automático n.º 2sv y el maquinista no comprobó la correcta conmutación de dicho desvío.
+Factor contribuyente:
 •
-none.
-Systemic factor:
+ninguno.
+Factor sistémico:
 •
-none.
-
+ninguno.
 
 ## Página 42
+
 
 ### 5.2 Medidas adoptadas para la prevención de sucesos excepcionales
 El gestor de infraestructura SŽ no adoptó ni emitió ninguna medida.
@@ -1384,6 +1381,7 @@ non-renewal of the switch No. 2sv to the end position at Bavorov operating contr
 point by the head of the shunting from the freight train No. 88853.
 
 ## Página 43
+
 
 ### 6 RECOMENDACIONES DE SEGURIDAD
 La Inspección Ferroviaria, en virtud de lo dispuesto en el § 53e apartado 1 de la Ley núm. 266/1994 Sb., recomienda, en consideración a los hallazgos indicados en el punto 3.1.8 de la presente ZZ:

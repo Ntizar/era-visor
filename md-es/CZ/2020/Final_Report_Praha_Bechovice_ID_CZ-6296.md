@@ -10,13 +10,14 @@ chars: 269240
 ratio_longitud: 1.25
 tokens_in: 141229
 tokens_out: 101016
-verificacion: revisar
-notas_cifras: ["bloque 5: original bilingüe: se compara contra el idioma principal (CS)", "bloque 7: original bilingüe: se compara contra el idioma principal (CS)", "bloque 9: original bilingüe: se compara contra el idioma principal (CS)", "bloque 10: original bilingüe: se compara contra el idioma principal (CS)", "bloque 11: original bilingüe: se compara contra el idioma principal (CS)", "bloque 16: cifras cortas: 4/79"]
-avisos: ["bloque 5: ratio 1.70", "bloque 7: ratio 1.69", "bloque 9: ratio 1.61", "bloque 10: ratio 1.62", "bloque 18: ratio 1.81"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 3: original bilingüe: se compara contra el idioma principal (ES)", "página 7: original bilingüe: se compara contra el idioma principal (CS)", "página 8: original bilingüe: se compara contra el idioma principal (CS)", "página 11: original bilingüe: se compara contra el idioma principal (PT); cifras cortas: 1/6", "página 13: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -39,13 +40,13 @@ IČ: 75009561
 mail@dicr.cz
 tel.: +420 736 521 003
 
-
 ## Página 2
+
 
 Este informe final es público y todos los hechos en él expuestos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ## 1 RESUMEN
 Fuente: Drážní inspekce
@@ -62,8 +63,8 @@ Consecuencias:
 sin daños personales;
 daño total 20 117 368 Kč.
 
-
 ## Página 4
+
 
 Causa inmediata:
 inicio no autorizado de la maniobra de la composición del tren regional de pasajeros Os 8856 más allá de la señal de maniobras Se6 
@@ -89,8 +90,8 @@ garantizar en todos los transportistas de la red de Správa železnic, státní 
 ◦dentro de los procedimientos tecnológicos uniformes, garantizar que el maquinista tenga siempre a su disposición, en el puesto desde el que dirige el tren, los formularios correspondientes para la redacción de órdenes;
 ◦la mejora de la eficacia y el refuerzo de las actividades de control dirigidas a la aplicación rigurosa de los procedimientos tecnológicos existentes para las maniobras (con énfasis en la comunicación entre los empleados).
 
-
 ## Página 5
+
 
 ## RESUMEN
 10 de julio de 2020, 17:39 (15:39 GMT).
@@ -127,8 +128,8 @@ garantizar en el gestor de la infraestructura Správa železnic, státní organi
 •
 ◦la mejora de la eficacia y el refuerzo de las actividades de control dirigidas a la aplicación rigurosa de los procedimientos tecnológicos existentes para las maniobras (con énfasis en la comunicación entre los empleados) hasta la puesta en marcha de la simplificación de los procedimientos tecnológicos para las maniobras;
 
-
 ## Página 6
+
 
 ◦la preparación y la puesta en marcha de una simplificación global de los procedimientos tecnológicos para las maniobras (con énfasis en la comunicación), de modo que su falta de practicidad no conduzca a su incumplimiento;
 ◦en colaboración con los transportistas ferroviarios, la consideración del uso de tecnologías modernas que, además de los métodos actuales, permitirían informar a los trenes sin contacto personal mediante el uso de la comunicación de datos (por ejemplo, en una aplicación móvil que garantice la aceptación de la orden y la confirmación de haberse enterado de la misma), la cual ofrece también la posibilidad de aprovechar otros beneficios, como avisos sobre hechos relevantes en función de la posición actual del tren o de la maniobra entre puntos de control de explotación.
@@ -139,6 +140,7 @@ infraestructura Správa železnic, státní organizace:
 ◦la mejora de la eficacia y el refuerzo de las actividades de control dirigidas a la aplicación rigurosa de los procedimientos tecnológicos existentes para las maniobras (con énfasis en la comunicación entre los empleados).
 
 ## Página 7
+
 
 # Índice
 1 RESUMEN.......................................................................................................................3
@@ -180,8 +182,8 @@ SUMMARY.........................................................................
 4.2 Vehículos ferroviarios e instalaciones técnicas..........................................................62
 4.2.1 Factores o consecuencias derivados del diseño de los vehículos ferroviarios, de la infraestructura ferroviaria o de las instalaciones técnicas.....................................................................................................................62
 
-
 ## Página 8
+
 
 4.2.2 Factores o consecuencias derivados de la instalación y de la puesta en servicio de los vehículos ferroviarios, de la infraestructura ferroviaria o de las instalaciones técnicas......................................................................................62
 4.2.3 Factores o consecuencias relacionados con los fabricantes de vehículos ferroviarios u otros proveedores de productos ferroviarios.................................62
@@ -210,8 +212,8 @@ SUMMARY.........................................................................
 6 RECOMENDACIONES DE SEGURIDAD...........................................................................83
 ANEXOS..............................................................................................................................85
 
-
 ## Página 9
+
 
 ### Lista de siglas y símbolos utilizados
 CDP
@@ -255,8 +257,8 @@ Informe Final sobre los resultados de la investigación del suceso extraordinari
 žst.
 estación de ferrocarril
 
-
 ## Página 10
+
 
 ### Lista de siglas de la legislación, normas y normativa interna utilizadas
 ley núm. 262/2006 Sb.
@@ -280,15 +282,16 @@ normativa interna del gestor de infraestructura SŽ, «SŽDC Z1 Reglamento para 
 SŽDC (ČD) Z11
 normativa interna del gestor de infraestructura SŽ, «SŽDC (ČD) Z11 Reglamento para la explotación de las instalaciones de radio», en la redacción vigente en el momento de la producción del suceso extraordinario
 
-
 ## Página 11
 
 SŽDC Zam1
-normativa interna del gestor de infraestructura SŽ, «SŽDC Zam1 Reglamento sobre la cualificación y los conocimientos de las personas en la explotación de la infraestructura ferroviaria y del transporte ferroviario», en la redacción vigente en el momento de la producción del suceso extraordinario (a partir del 1. 1. 2021 el reglamento pasó a denominarse SŽ Zam1)
+norma interna del gestor de la vía SŽ, "SŽDC Zam1
+Norma sobre la competencia profesional y los conocimientos de las personas en la explotación de la vía y el transporte ferroviario", en la redacción vigente en el momento de producirse la incidencia extraordinaria (a partir del 1 de enero de 2021 la norma pasó a denominarse SŽ Zam1)
 ČD V2
-normativa interna del transportista ČD, «ČD V2 Reglamento para las tripulaciones de locomotoras», en la redacción vigente en el momento de la producción del suceso extraordinario
+norma interna del transportista ČD, "ČD V2 Norma para las tripulaciones de locomotoras", en la redacción vigente en el momento de producirse la incidencia extraordinaria
 
 ## Página 12
+
 
 ## 2 INVESTIGACIÓN Y SUS CONTEXTO
 ### 2.1 Decisión de iniciar la investigación
@@ -314,8 +317,8 @@ El nivel de colaboración con los representantes de las entidades implicadas en 
 y los hallazgos recogidos en el informe
 En el marco de la investigación del SU, DI actuó de la siguiente manera, es decir, utilizó, entre otros, los siguientes métodos y técnicas:
 
-
 ## Página 13
+
 
 inspección del lugar del suceso excepcional, incluidos los vehículos ferroviarios implicados,
 •
@@ -361,8 +364,8 @@ en el desvío núm. 19 en el pk 398,019.
 Coordenadas GPS:
 50.0845306N, 14.5833119E (semáforo de maniobras Se6);
 
-
 ## Página 14
+
 
 50.0842122N, 14.5845981E (lugar de la colisión).
 ### 3.1.3 Descripción del lugar del suceso
@@ -372,35 +375,62 @@ La estación está dividida en dos circuitos: de Pasajeros y de Mercancías. En 
 La inspección del lugar del SU se llevó a cabo, debido a la ocurrencia del SU en el área controlada por CDP Praha, en dos lugares, cuando un grupo de inspectores de DI inspeccionó el lugar de ocurrencia del SU y otro el salón de tráfico 4B de CDP Praha, desde donde dicha est. estaba siendo controlada en el momento de la ocurrencia del SU.
 Condiciones meteorológicas:          temperatura exterior 29 °C, nublado, visibilidad no reducida.
 
-
 ## Página 15
 
 Datos geográficos:
-lugar del SU en la estación de ferrocarril en terreno llano en el límite entre
-el núcleo urbano y la periferia.
-En el lugar del SU no se realizaron, inmediatamente antes de su ocurrencia, por parte del propietario, del gestor de la vía ni de otras entidades, ningún tipo de trabajos de reparación o de mantenimiento.
-El tráfico en el lugar del SU se vio afectado por otro suceso excepcional, la colisión del tren Ex 506 con una persona en la 2.ª vía, en las proximidades del andén de la est. Praha-Běchovice (pk 397,100).
-La evacuación de los pasajeros de dicho tren debía realizarse con el tren Os 8856 (Český Brod – Beroun), que debía salir de la 3.ª vía hacia la composición del tren Ex 506, cuyo frente se detuvo en la 2.ª vía en el pk 397,771. Inmediatamente antes de la ocurrencia del SU, el tren Os 8856 se encontraba en el circuito de la estación en el extremo de Libeň de la 0.ª vía, tras el semáforo Se6. Aproximadamente a la misma hora, entraba en la estación desde la est. Praha-Libeň el tren R 989 (Praha hl. n. – Žďár nad Sázavou), que tenía establecida la itinerancia desde la 1.ª vía principal a través del enlace de vías formado por los desvíos núm. 21 y 19 hacia la 0.ª vía. La composición del tren Os 8856, posteriormente, durante una marcha no autorizada de vuelta hacia la composición detenida del tren Ex 506, entró en la itinerancia establecida del tren R 989 que circulaba paralelamente. En el espacio del desvío núm. 19 se produjo una colisión lateral de VF. Descarriló el primer bogie de la composición del tren Os 8856, el tren R 989 no descarriló, pero se produjeron daños en el lado izquierdo de todos los vehículos ferroviarios excepto la locomotora, que no resultó dañada.
-### Mediante la inspección del lugar del SU se constató:
+lugar del accidente en una estación de ferrocarril en terreno llano en el límite entre
+el casco urbano y el extrarradiado.
+En el lugar del accidente no se realizaron, por parte del propietario, del gestor de la
+vía ni de otros sujetos, inmediatamente antes de su producción, obras de reparación
+o de mantenimiento alguno.
+La circulación en el lugar del accidente se vio afectada por otro suceso excepcional,
+la colisión del tren Ex 506 con una persona en la 2.ª vía, en las proximidades del
+andén de la est. Praha-Běchovice (pk 397,100).
+La evacuación de los pasajeros de dicho tren debía realizarse con el tren Os 8856
+(Český Brod – Beroun), que debía salir de la 3.ª vía hacia la formación del tren Ex 506,
+cuya cabeza se detuvo en la 2.ª vía en el pk 397,771. Inmediatamente antes de la
+producción del accidente, el tren Os 8856 se encontraba en el ámbito de la estación
+en el extremo de 0.ª vía del lado de Libeň, tras la señal Se6. Aproximadamente a la
+misma hora entraba en la estación procedente de la est. Praha-Libeň el tren R 989
+(Praha hl. n. – Žďár nad Sázavou), que tenía establecida la ruta desde la 1.ª vía
+principal a través del enlace de vías formado por los desvíos n.º 21 y 19 hacia la 0.ª vía.
+La formación del tren Os 8856 posteriormente, en una marcha no autorizada de vuelta
+hacia la formación detenida del tren Ex 506, entró en la ruta de tren establecida del
+tren R 989 que circulaba paralelamente. En el espacio del desvío n.º 19 se produjo una
+colisión lateral de vehículos. Descarriló el primer bogie de la formación del tren
+Os 8856, el tren R 989 no descarriló, pero se produjeron daños en el lado izquierdo de
+todos los vehículos ferroviarios excepto la locomotora, que no resultó dañada.
+### Del examen del lugar del accidente se constató:
 ### Estado de la infraestructura:
-El lugar de ocurrencia del SU, el semáforo Se6, se encontraba en la intersección del extremo de Libeň de la 0.ª vía y el extremo de la est. Praha-Běchovice. Las vías de la estación discurren aquí en dirección recta. El lugar de la colisión estaba en el desvío núm. 19, que estaba establecido en dirección de desvío (para la marcha de VF desde la 1.ª vía principal a la 0.ª vía). Como consecuencia del descarrilamiento del primer bogie de la composición del tren Os 8856, en el lugar de impacto de la rueda izquierda del primer eje se desprendió la cabeza de una traviesa de hormigón. La propia rueda quedó hundida en la balast tras la cabeza de dicha traviesa. En el lugar del descarrilamiento no se encontraron rastros de salida de los labrados de las ruedas izquierdas por encima de la cabeza del raíl ni de deslizamiento de las ruedas derechas de la cabeza del raíl. El frente de la composición del tren Os 8856 fue arrancado de la vía por el tren R 989 que pasaba a su izquierda.
+El lugar de producción del accidente, la señal Se6, se encontraba en la interfaz del
+extremo de 0.ª vía del lado de Libeň y del extremo de la est. Praha-Běchovice del lado
+de Libeň. Las vías de estación aquí discurrían en dirección recta. El lugar de la colisión
+estaba en el desvío n.º 19, que estaba dispuesto en dirección de desvío (para la
+circulación de vehículos desde la 1.ª vía principal a la 0.ª vía). Como consecuencia del
+descarrilamiento del primer bogie de la formación del tren Os 8856, en el lugar de
+impacto de la rueda izquierda del primer eje se desprendió la cabeza de una traviesa
+de hormigón. La propia rueda quedó hundida en la balasta detrás de la cabeza de
+dicha traviesa. En el lugar del descarrilamiento no se encontraron huellas de
+salida de los labios de las ruedas izquierdas por encima de la cabeza del raíl ni de
+deslizamiento de las ruedas derechas de la cabeza del raíl. La cabeza de la formación
+del tren Os 8856 fue arrancada de la vía por el tren R 989 que pasaba a su izquierda.
 Tabla de mediciones:
 | Punto | Punto kilométrico (km) |
 | final del tren Ex 506 (calculado) | 397623 , |
 | inicio del tren Ex 506 | 397771 , |
-| hito pk 397800 (punto de partida de la medición) , | 397800 , |
+| hito 397800 (punto de partida de la medición) , | 397800 , |
 | inicio del tren R 989 | 397823 , |
-| hito pk 397900 , | 397900 , |
-| puntas del desvío núm. 19 . | 397935 , |
-| hito pk 398000 , | 398000 , |
-| frente de la locomotora de mando de la composición del tren Os 8856 | 398007 , |
+| hito 397900 , | 397900 , |
+| puntas del desvío n.º 19 . | 397935 , |
+| hito 398000 , | 398000 , |
+| cabeza del vehículo de mando de la formación del tren Os 8856 | 398007 , |
 | final del tren R 989 | 398011 , |
 | lugar de la colisión (calculado) | 398019 , |
-| puntas del desvío núm. 20 . | 398024 , |
-| frente de la locomotora de la composición del tren Os 8856 | 398086 , |
-
+| puntas del desvío n.º 20 . | 398024 , |
+| cabeza de la locomotora de la formación del tren Os 8856 | 398086 , |
 
 ## Página 16
+
 
 | hito pk 398100 , | 398099 , |
 | semáforo Se6 (lugar de ocurrencia del SU) | 398137 , |
@@ -420,6 +450,7 @@ El daño en el flanco comenzaba en el 1.er vagón de la composición (51 54 20-4
 
 ## Página 17
 
+
 del revestimiento rayado del lateral, destrucción de los escalones de acceso y daños en los equipos instalados en la parte inferior de los coches. El HDV 362 030-9 no resultó dañado.
 ### Estado de los vehículos ferroviarios de la composición del tren Os 8856:
 El extremo delantero de la composición del tren Os 8856 se detuvo en la aguja de la estación de Praga-Běchovice en el extremo de Praga-Libeň, en el espacio de la aguja n.º 19 en el pk 398,007, y el extremo trasero de la composición del tren se encontraba en el pk 398,086. El tren Os 8856 estaba formado por 3 DV (unidad «CityElefant»). La composición estaba, en el momento de la aparición de la MU, dirigida desde el coche de mando CZ-ČD 94 54 1 971 046-8 (en adelante también coche de mando o 971). El HDV CZ-ČD 94 54 1 471 046-5 (en adelante también HDV 471) estaba enganchado en tercer lugar. Como consecuencia de la MU se produjo el descarrilamiento del primer bogie a la izquierda en el sentido de la marcha y daños en el coche de mando. En ambos extremos de la composición del tren Os 8856 estaban encendidos un par de luces de señalización blancas (es decir, la señal Vehículo motriz en maniobras).
@@ -432,8 +463,8 @@ Como consecuencia de la aparición de la MU, el coche de mando resultó gravemen
 ### Otros:
 El tren Ex 506 estaba formado por una unidad eléctrica «Pendolino» encabezada por el coche eléctrico n.º 93 54 6 681 005-5, estaba compuesto por 7 DV, tenía una longitud de 148 m, 28 ejes y un peso de 412 toneladas. Del tren era necesario evacuar a unos 150 pasajeros.
 
-
 ## Página 18
+
 
 ### 3.1.4 Fallecimientos, lesiones y daños materiales
 En la MU en cuestión no se produjeron daños a la salud en los empleados del gestor de la infraestructura, del transportista, de las personas en relación contractual, ni en los pasajeros ni en terceras personas.
@@ -477,8 +508,8 @@ maquinista del tren R 989, empleado de ČD;
 maquinista del tren Os 8856, empleado de ČD.
 •
 
-
 ## Página 19
+
 
 Otras personas, testigos:
 despachador jefe de CDP Praga, empleado de SŽ;
@@ -514,8 +545,8 @@ De los datos registrados se desprende:
 | 17:38:49 | 398 362 , | 29 | registrada la velocidad de 29 km·h-1 |
 | 17:39:11 | 398 191 , | 28 | hora de arranque de la composición del tren Os 8856 |
 
-
 ## Página 20
+
 
 | 17:39:16 | 398 148 , | 27 | el extremo del tren R 989 adelanta al extremo delantero de la composición del tren Os 8856 (hora aproximada ± 1 s) |
 | 17:39:19 | 398 131 , | 26 | hora de aparición de la MU (la composición del tren Os 8856 pasa junto a la señal Se6) |
@@ -557,8 +588,8 @@ debido al movimiento inverso de la composición, la formación en la MU era cont
 •
 indicada en la tabla (el HDV estaba al final).
 
-
 ## Página 21
+
 
 La composición estaba equipada con velocímetros electrónicos con registro de datos del fabricante 
 UniControls – Tramex, tipo RE1xx. El coche de mando de la serie 971 (en el extremo de la composición) tenía el velocímetro 
@@ -684,34 +715,57 @@ opuesto
 
 ## Página 22
 
-### 3.1.8 Descripción de las partes pertinentes de la infraestructura y del sistema de señalización
-En el lugar de origen del MU había 5 vías de estación paralelas, dos vías continuaban hacia la est. Praha-Malešice y tres vías continuaban hacia la est. Praha Libeň. Las vías de estación discurrían en dirección recta en el lugar del MU. La superestructura ferroviaria estaba formada por carriles UIC60 con fijación elástica sobre traviesas de hormigón.
-Según el TTP para la línea 501A, la velocidad de la línea en el tramo dado era de 130 km·h-1. Sin embargo, en el lugar del MU, en la 2. SK se estaba llevando a cabo la investigación de una emergencia, el choque del tren Ex 506 con una persona, y el servicio se adaptó a ello. No obstante, el tren Os 8856 tenía en el lugar del MU una velocidad reducida por orden a 30 km·h-1. Al tren R 989, en lugar de una orden, se le dio una instrucción verbal para circular a una velocidad máxima de 30 km·h-1 por medio de la estación de radio (analizado en el capítulo 4.1.1 de esta ZZ).
-La est. Praha-Běchovice estaba equipada con un aparato de enclavamiento de estación ESA 11 (3.ª categoría según TNŽ 34 2620). Este SZZ está equipado con un dispositivo de registro. Del análisis de los datos registrados por el SZZ se constató, entre otros:
-| Tiempo tras la corrección | Descripción del estado registrado |
-|---|---|
-| 17:13:43 | el tren Os 8856 entró íntegramente en la 3. SK |
-| 17:30:20 | orden de cancelación de la ruta de tren para el tren Os 8853 desde la señal 1S en la 101. SK |
-| 17:33:21 | anulación del cierre de la ruta de tren para el tren Os 8853 desde la señal 1S en la 101. SK |
-| 17:33:23 | establecida la ruta de tren para el tren Os 8856 desde la señal L3 en la 0. TK |
-| 17:33:38 | ruta de tren para el tren Os 8856 desde la señal L3 en la 0. TK establecida – en la señal L3, señal que autoriza la circulación |
-| 17:34:37 | el tren Os 8856 pasó la señal de salida L3 – circuito de vía V118 ocupado |
-| 17:35:56 | el tren Os 8856 liberó el circuito de vía de agujas V17-18 |
-| 17:36:07 | orden de la ruta de tren para el tren Os 8853 desde la señal 1S en la 1. SK |
-| 17:36:21 | ruta de tren para el tren Os 8853 desde la señal 1S en la 1. SK establecida – en la señal 1S, señal que autoriza la circulación |
-| 17:36:21 | el tren Os 8856 liberó el circuito de vía V19-20, y por tanto está íntegramente tras la señal Se6 (donde se detuvo) |
-| 17:37:35 | el tren Os 8853 liberó el circuito de vía V21 |
-| 17:37:37 | orden de la ruta de tren para el tren R 989 desde la señal 1S en la 0. SK |
-| 17:37:52 | ruta de tren para el tren R 989 desde la señal 1S en la 0. SK establecida – en la señal 1S, señal que autoriza la circulación |
-| 17:38:41 | el tren R 989 pasó la señal de salida 1S – circuito de vía 1SK ocupado |
-| 17:39:20 | la composición del tren Os 8856 pasó (en movimiento de retroceso) la señal Se6 – circuito de vía V19-20 ocupado, origen del MU |
-| 17:39:25 | el tren R 989 pasó la señal Se5 – circuito de vía V21 ocupado |
-| 17:39:39 | pérdida de la posición de extremo de la aguja n.º 20 (como consecuencia de la colisión y el descarrilamiento del DV) |
-| 17:39:47 | el tren R 989 ocupó el circuito de vía V17-18 |
-| 17:40:06 | el tren R 989 liberó el circuito de vía V21 |
-
+### 3.1.8 Descripción de las partes de infraestructura y del sistema de señalización correspondientes
+En el lugar de producción del MU había 5 vías de estación paralelas; dos vías continuaban 
+hasta la est. Praha-Malešice y tres vías continuaban hasta la est. Praha Libeň. Las vías de 
+estación en el lugar del MU discurrían en dirección recta. La superestructura ferroviaria 
+estaba formada por carriles UIC60 con fijación elástica sobre traviesas de hormigón.
+Según el TTP para la línea 501A, la velocidad de la línea en el tramo en cuestión era de 
+130 km·h-1. Sin embargo, en el lugar del MU, en la 2. SK se estaba llevando a cabo la 
+investigación de un suceso excepcional, el choque del tren Ex 506 con una persona, y la 
+circulación se había adaptado a ello. No obstante, el tren Os 8856 tenía en el lugar del MU 
+una velocidad reducida por orden a 30 km·h-1. Al tren R 989, en lugar de una orden, se le 
+dio una instrucción verbal para circular a una velocidad máxima de 30 km·h-1 por medio de 
+la estación de radio (explicado en el capítulo 4.1.1 de este ZZ).
+La est. Praha-Běchovice estaba equipada con un aparato de enclavamiento de estación ESA 11 
+(3.ª categoría según TNŽ 34 2620). Este SZZ está equipado con un dispositivo de registro. 
+Mediante el análisis de los datos registrados por el SZZ se constató, entre otros:
+Hora tras 
+Descripción del estado registrado
+la corrección
+17:13:43 el tren Os 8856 entró íntegramente en la 3. SK
+17:30:20 introducción de la anulación del itinerario de tren para el tren Os 8853 desde la 
+señal 1S hasta la 101. SK
+17:33:21 anulación del bloqueo del itinerario de tren para el tren Os 8853 desde la señal 1S 
+hasta la 101. SK
+17:33:23 introducido el itinerario de tren para el tren Os 8856 desde la señal L3 hasta la 
+0. TK
+17:33:38 itinerario de tren para el tren Os 8856 desde la señal L3 hasta la 0. TK 
+establecido – en la señal L3, señal que permite la circulación
+17:34:37 el tren Os 8856 pasó la señal de salida L3 – circuito de vía V118 ocupado
+17:35:56 el tren Os 8856 liberó el circuito de vía de los desvíos V17-18
+17:36:07 introducción del itinerario de tren para el tren Os 8853 desde la señal 1S hasta la 
+1. SK
+17:36:21 itinerario de tren para el tren Os 8853 desde la señal 1S hasta la 1. SK 
+establecido – en la señal 1S, señal que permite la circulación
+17:36:21 el tren Os 8856 liberó el circuito de vía V19-20, y por lo tanto está íntegramente 
+detrás de la señal Se6 (donde se detuvo)
+17:37:35 el tren Os 8853 liberó el circuito de vía V21
+17:37:37 introducción del itinerario de tren para el tren R 989 desde la señal 1S hasta la 
+0. SK
+17:37:52 itinerario de tren para el tren R 989 desde la señal 1S hasta la 0. SK establecido – 
+en la señal 1S, señal que permite la circulación
+17:38:41 el tren R 989 pasó la señal de salida 1S – circuito de vía 1SK ocupado
+17:39:20 la composición del tren Os 8856 pasó (en movimiento de retroceso) la señal Se6 – 
+circuito de vía V19-20 ocupado, producción del MU
+17:39:25 el tren R 989 pasó la señal Se5 – circuito de vía V21 ocupado
+17:39:39 pérdida de la posición final del desvío n.º 20 (como consecuencia del choque y 
+descarrilamiento del DV)
+17:39:47 el tren R 989 ocupó el circuito de vía V17-18
+17:40:06 el tren R 989 liberó el circuito de vía V21
 
 ## Página 23
+
 
 Como inicio del análisis del registro del SZZ se eligió el momento en que el tren Os 8856 entró íntegramente en la 3. SK de la est. Praha-Běchovice.
 Antes de la salida del tren Os 8856 se produjo la cancelación de la ruta de tren para el tren Os 8853 desde la est. Praha-Libeň, que había sido establecida en la 101. SK, es decir, fuera del andén. Dos segundos después del cierre de la ruta de tren se ordenó la ruta de salida para el tren Os 8856 en la 0. TK.
@@ -734,29 +788,28 @@ El SZZ estaba en estado sin averías y su funcionamiento no guardaba relación c
 ◦Respondió que en la est. Praha-Běchovice esperaría tranquilamente 20 minutos, pero que quería la orden;
 ◦A continuación comenzó, con el despachador de línea CDP Praha, una escalada progresiva en la comunicación;
 
-
 ## Página 24
 
-◦Posteriormente, junto con el jefe de tren, informaron a los pasajeros y les permitieron bajar, recomendándoles que para el traslado utilizaran el tren siguiente. Esta actuación fue decisión propia;
-◦Los pasajeros bajaron y, tras unos diez minutos, el despachador de línea CDP Praha le contactó por radio para preguntarle si estaba informado y listo para la circulación;
-◦Preguntó al despachador de línea CDP Praha de qué modo iba a salir y de qué modo se realizaría la evacuación;
-◦El despachador de línea CDP Praha le respondió que saldría como tren;
-◦Además, considera que le comunicó el contacto del jefe de intervención HZS para que se pusiera en contacto con él y consultara las condiciones de la evacuación;
-◦Tras unos cinco minutos, en la señal de salida se encendió la señal Velocidad 40 km/h y Libre;
-◦Realizaron con el jefe de tren los procedimientos previos a la salida del tren y se puso en contacto con el jefe de intervención HZS por teléfono móvil. A continuación puso en movimiento el tren Os 8856 y, durante la circulación, se comunicó con el jefe de intervención. Acordaban el lugar de detención;
-◦Según la orden escrita V, debía detenerse en el kilómetro 397,600. Ese era un lugar en las agujas y estaba situado a más de dos vías de estación del lugar de la evacuación;
-◦El jefe de intervención HZS le comunicó que el lugar estaba bastante lejos y que la evacuación sería complicada, y le preguntó si no sería posible detenerse en algún punto más cercano;
-◦A esto respondió que se detendría en un lugar adecuado e intentaría acordar con el despachador de línea CDP Praha un lugar más conveniente para la evacuación de pasajeros;
-◦Cuando pasó por el lugar donde debía realizarse la evacuación según la orden escrita V, llegó a la misma opinión que el jefe de intervención HZS y, por estos motivos, no se detuvo en el kilómetro 397,600, que estaba fijado en la orden escrita V, continuó la circulación y se detuvo en un lugar adecuado, que estaba tras la señal Se6;
-◦Consideraba que sería mejor dirigirse al lugar de la evacuación por la vía de maniobras y, por ello, había preguntado repetidamente antes al despachador de línea CDP Praha cómo iba a salir desde la 3. SK;
-◦Tras detenerse, pasó al segundo puesto de conducción del maquinista, donde activó el mando y marcó la composición de la unidad como elemento de maniobra;
-◦Se comunicó por radio con el despachador de línea CDP Praha y le informó de que se había detenido tras la señal Se6 en la vía cero y, además, de que había hablado con el jefe de intervención HZS y de que necesitaba circular por la vía cero hacia el «Pendolino» para una mejor evacuación. En la señal Se6 estaba la señal Maniobras prohibido;
-◦El despachador de línea CDP Praha le comunicó que era un tren y que no le iba a encender nada;
-◦Le respondió que no entendía y que necesitaba trasladarse por la vía cero, hacia el «Pendolino», por la vía de maniobras;
-◦El despachador de línea CDP Praha le dio el permiso para circular. Que debía circular y que tenía su autorización;
-
+◦Posteriormente, junto con el jefe de tren, informó a los pasajeros y les hizo descender, recomendándoles que para el traslado utilizaran el tren siguiente. Esta actuación fue por su propia decisión;
+◦Los pasajeros descendieron y, aproximadamente diez minutos después, el despachador de vía CDP Praha le contactó por radio para preguntarle si estaba informado y listo para la marcha;
+◦Preguntó al despachador de vía CDP Praha de qué manera iba a salir y de qué manera se llevaría a cabo la evacuación;
+◦El despachador de vía CDP Praha le respondió que saldría como tren;
+◦Además, considera que le facilitó el contacto del jefe de intervención de HZS para que se pusiera en contacto con él y consultara las condiciones de la evacuación;
+◦Aproximadamente cinco minutos después, en la señal de salida se encendió la señal Velocidad 40 km/h y Libre;
+◦Realizó con el jefe de tren los procedimientos previos a la salida del tren y se puso en contacto con el jefe de intervención de HZS por teléfono móvil. A continuación, puso en movimiento el tren Os 8856 y, durante la marcha, comunicó con el jefe de intervención. Acordaban el lugar de detención;
+◦Según la orden escrita V, debía detenerse en el kilómetro 397,600. Ese era un lugar en los desvíos y estaba situado a más de dos vías de estación de distancia del lugar de la evacuación;
+◦El jefe de intervención de HZS le indicó que el lugar estaba bastante lejos y que la evacuación sería complicada, y le preguntó si no sería posible detenerse en algún punto más cercano;
+◦A esto respondió que se detendría en un lugar adecuado e intentaría acordar con el despachador de vía CDP Praha un lugar más conveniente para la evacuación de los pasajeros;
+◦Cuando pasó por el lugar donde debía realizarse la evacuación según la orden escrita V, llegó a la misma opinión que el jefe de intervención de HZS y, por estos motivos, no se detuvo en el kilómetro 397,600, que estaba fijado en la orden escrita V, continuó la marcha y se detuvo en un lugar adecuado, que estaba detrás de la señal Se6;
+◦Consideraba que sería mejor llegar al lugar de la evacuación por la vía de maniobras y, por ello, había preguntado repetidamente al despachador de vía CDP Praha cómo iba a salir de la 3. SK;
+◦Tras detenerse, pasó al segundo puesto de conducción, donde activó el mando y marcó el conjunto de la unidad como parte de maniobra;
+◦Se comunicó por radio con el despachador de vía CDP Praha e informó de que estaba detenido detrás de la señal Se6 en la vía 0 y, además, de que había hablado con el jefe de intervención de HZS y de que necesitaba circular por la vía 0 hacia el «Pendolino» para una mejor evacuación. En la señal Se6 había la señal Maniobra prohibida;
+◦El despachador de vía CDP Praha le indicó que era un tren y que no le iba a encender nada;
+◦Le respondió que no entendía y que necesitaba pasar por la vía 0, hacia el «Pendolino», por la vía de maniobras;
+◦El despachador de vía CDP Praha le dio autorización para la marcha. Que debía circular y que tenía su permiso;
 
 ## Página 25
+
 
 ◦Esto lo consideró como autorización para la maniobra y se puso en marcha por la vía cero «contra el azul» en la señal Se6 en dirección al «Pendolino»;
 ◦Esta comunicación también la oyó el jefe de tren, que estaba junto a las puertas abiertas del puesto, lo que le comunicó tras la producción de la emergencia;
@@ -776,6 +829,7 @@ El SZZ estaba en estado sin averías y su funcionamiento no guardaba relación c
 
 ## Página 26
 
+
 ◦En el puesto de conducción estaba solo;
 ◦Ante la pregunta de por qué el tren Os 8856 no circulaba con la composición prevista (2 unidades "CityElefant"), respondió que se debía a la orden de corte de tráfico;
 ◦Ante la pregunta de si ya había conducido algún tren seleccionado para la evacuación de pasajeros, respondió: "Sí, una vez. Fue una evacuación en la línea. Me detuve al lado de un tren rápido y también fui informado por escrito mediante una orden V. Los pasajeros cruzaron por las pasarelas. Precisamente por eso pensé que en este caso sería mejor hacerlo de manera similar.";
@@ -793,8 +847,8 @@ El SZZ estaba en estado sin averías y su funcionamiento no guardaba relación c
 ◦Ante la pregunta de si había formularios en papel de la orden Pv disponibles en el puesto del jefe de DV del tren Os 8856, respondió que no estaban en el puesto del jefe de DV del tren y, entre otros motivos, por esta razón propuso que sería más apropiado redactar la orden V en el PPV del jefe de estación;
 ◦Ante la pregunta de si había experimentado anteriormente alguna situación en la que el despachador CDP le diera instrucciones que debían transmitirse mediante orden y en realidad no se redactara la orden, respondió: "Creo que no. Yo siempre solicitaría una orden por escrito.;
 
-
 ## Página 27
+
 
 ◦A lo anterior añade que la comunicación con el Despachador de Línea CDP Praga fue no estándar y en ocasiones bastante tensa. Desde su punto de vista, el despachador aparentemente no se interesaba mucho por la evacuación de pasajeros del "Pendolino", sino por la regularidad en el tráfico, intentando acelerar todo. Tras el suceso excepcional, junto con el jefe de tren se preguntaban de dónde había salido el tren rápido cuando debía realizarse la evacuación de pasajeros.
 **maquinista del tren Os 8856** – Registro oficial de la declaración prestada ante la PČR (mencionada únicamente la información que complementa el Registro con el empleado):
@@ -815,30 +869,29 @@ El SZZ estaba en estado sin averías y su funcionamiento no guardaba relación c
 ◦Al entrar en la vía 0, en el HDV actuó el interruptor principal;
 ◦Comprobó la diagnóstica del vehículo, en la que vio que había actuado la protección 1P – sobrecalentamiento de la calefacción y otras protecciones, cuáles fueron concretamente ya no se acuerda;
 
-
 ## Página 28
 
-◦Durante la comprobación de la diagnóstica seguía observando la situación que tenía delante y notó que uno de los bomberos le daba la señal de "Alto, deténgase por todos los medios";
-◦Activó inmediatamente el frenado de acción rápida y detuvo el tren;
-◦Tras detenerse comprobó que se había producido la entrada de la unidad eléctrica desde la vía 0 en la composición de su tren;
+◦Durante la comprobación de diagnóstico seguía observando la situación que tenía delante y notó que uno de los bomberos le daba la señal de Orden, deténgase por todos los medios;
+◦Inmediatamente aplicó el frenado de acción rápida y detuvo el tren;
+◦Tras detenerse comprobó que se había producido la entrada de la unidad eléctrica de la vía 0 en la composición de su tren;
 ◦A continuación esperó la llegada de los órganos investigadores y se sometió a la prueba de alcoholemia, que dio resultado negativo;
-◦En relación con el MU no alega avería técnica en el vehículo motriz;
-◦El turno en cuestión le asignó el jefe de mecánicos, se trataba de un turno por turnos con entrada el 10. 7. 2020 a las 9:37 h;
-◦Durante el turno disfrutó de un descanso en Praga en la estación de aparcamiento Jih y lo pasó en el vehículo motriz;
-◦Durante la marcha del tren R 989 se sintió descansado;
-◦Ante la pregunta de si comunicó durante la marcha del tren R 989 con el despachador de red de ČD, respondió que no comunicó;
-◦Ante la pregunta de si sabía del suceso excepcional, la colisión de un tren con una persona en la estación Praha-Běchovice antes de pasar por esta estación, respondió que se enteró de esta información de la comunicación con el despachador CDP;
-◦Ante la pregunta de si fue informado de que tendría que esperar para pasar por la estación Praha-Běchovice y que pasaría por ella solo después de la realización de los trabajos de evacuación, o en general de que se realizarían trabajos de evacuación, respondió: "No, no recibí ninguna información de ese tipo.";
-◦Ante la pregunta de cuándo, dónde, cómo y por quién fue informado de la marcha lenta de seguridad en la estación Praha-Běchovice, respondió que se lo informó el despachador CDP, como ya había indicado;
-◦Ante la pregunta de si había experimentado anteriormente alguna situación en la que el despachador CDP le diera instrucciones que debían constar en la orden y en realidad no se redactara la orden, respondió que no se acuerda;
-◦Ante la pregunta de si al entrar en la estación Praha-Běchovice registró el movimiento de la unidad de la serie 471 en la vía 0, respondió que no registró;
-◦Ante la pregunta de por qué utilizó el silbato de la locomotora aproximadamente 3 segundos antes de la colisión y aproximadamente 3 segundos después de la colisión, respondió que el motivo era dar la señal de "Atención" según la instrucción del despachador CDP;
-◦Ante la pregunta de con base en qué activó el frenado después de pasar por el enlace de vías entre la vía 1 y la vía 0, respondió que activó el frenado con base en la señal de "Alto, deténgase por todos los medios" dada por uno de los bomberos, sobre lo cual ya se había mencionado;
-◦Al apagado automático del interruptor principal y al descenso del pantógrafo reaccionó con la comprobación de la diagnóstica del vehículo motriz;
-◦Ante la pregunta de por qué no frenó inmediatamente después del apagado del interruptor principal y del descenso del pantógrafo, respondió que durante la comprobación de la diagnóstica registró que uno de los bomberos le daba la señal de "Alto, deténgase por todos los medios", a la que reaccionó;
-
+◦En relación con el MU no alega defecto técnico en el vehículo de tracción;
+◦El turno en cuestión le asignó el jefe de máquinas, se trataba de un turno por rotación con entrada el 10. 7. 2020 a las 9:37 h;
+◦Durante el turno disfrutó de la pausa en Praga en la estación de apartadero Jih y la pasó en el vehículo de tracción;
+◦Durante la circulación del tren R 989 se sentía descansado;
+◦A la pregunta de si se comunicó durante la circulación del tren R 989 con el despachador de red de ČD, respondió que no se comunicó;
+◦A la pregunta de si sabía del suceso excepcional, el choque del tren con una persona en la est. Praha-Běchovice antes de pasar por dicha estación, respondió que se enteró de esta información a través de la comunicación con el despachador CDP;
+◦A la pregunta de si fue informado de que tendría que esperar para pasar por la est. Praha-Běchovice y de que pasaría por ella solo tras la realización de los trabajos de evacuación, o en general de que se realizarían trabajos de evacuación, respondió: «No, no he recibido ninguna información de ese tipo»;
+◦A la pregunta de cuándo, dónde, cómo y por quién fue informado de la marcha lenta de seguridad en la est. Praha-Běchovice, respondió que se lo comunicó el despachador CDP, como ya había indicado;
+◦A la pregunta de si había experimentado anteriormente alguna situación en la que el despachador CDP le diera instrucciones que debían constar en una orden y en realidad no se llegara a redactar la orden, respondió que no lo recordaba;
+◦A la pregunta de si, al entrar en la est. Praha-Běchovice, registró el movimiento de la unidad de la serie 471 en la vía 0, respondió que no lo registró;
+◦A la pregunta de por qué utilizó el silbato de locomotora aproximadamente 3 segundos antes del choque y aproximadamente 3 segundos después del choque, respondió que el motivo era dar la señal de Atención según la instrucción del despachador CDP;
+◦A la pregunta de en virtud de qué aplicó el frenado tras pasar por el enlace de vías entre la vía 1 y la vía 0, respondió que aplicó el frenado en virtud de la señal Orden, deténgase por todos los medios dada por uno de los bomberos, sobre lo que ya se había mencionado;
+◦Ante el apagado automático del interruptor principal y el descenso del pantógrafo, reaccionó comprobando el diagnóstico del vehículo de tracción;
+◦A la pregunta de por qué no frenó inmediatamente tras el apagado del interruptor principal y el descenso del pantógrafo, respondió que durante la comprobación de diagnóstico registró que uno de los bomberos le daba la señal Orden, deténgase por todos los medios, a la que reaccionó;
 
 ## Página 29
+
 
 ◦Ante la pregunta de si había formularios en papel de la orden Pv disponibles en el puesto del HDV desde el que condujo el tren R 989, respondió que no los buscó dado que no se le había requerido para redactar la orden Pv;
 ◦Ante la pregunta de si ya había conducido algún tren seleccionado para la evacuación de pasajeros, respondió que sí. A la pregunta complementaria sobre el desarrollo de la evacuación, respondió que se detuvo con el tren al lado de la composición evacuada y los pasajeros transbordaron con la ayuda de los bomberos por una pasarela provisional.
@@ -861,25 +914,25 @@ El SZZ estaba en estado sin averías y su funcionamiento no guardaba relación c
 
 ## Página 30
 
-◦Le había establecido la vía de tren para el tren Os 8853 desde la 1. TK hasta la 1. SK;
-◦El tren Os 8853 entró y a continuación estableció la vía de tren para el tren R 989 desde la 1. TK hasta la 0. SK;
-◦Se puso en contacto con él el maquinista del tren Os 8856, lo cual vio en la pantalla del conmutador telefónico, y solicitó que se encendiera la «ranžírka» (nota DI: la señal de clasificación). A esto respondió que no le encendería ninguna «ranžírka» porque circula como tren, y que se detuviera donde fuera necesario;
-◦En ese momento suponía que estaba teniendo lugar otra parte de la evacuación en la dirección de circulación del tren, cuando previamente se había evacuado la parte trasera del Ex 506, ahora se evacuaría la parte delantera del Ex 506;
+◦A continuación estableció la vía de tren para el tren Os 8853 desde el 1. TK hasta el 1. SK;
+◦El tren Os 8853 entró y a continuación estableció la vía de tren para el tren R 989 desde el 1. TK hasta el 0. SK;
+◦Se puso en contacto con él el maquinista del tren Os 8856, lo cual vio en la pantalla visualizadora del enlace telefónico, y exigía que se encendiera la «ranžírka» (nota DI: señal de clasificación). A esto respondió que no le encendería ninguna «ranžírka» porque circulaba como tren, y que se detuviera donde fuera necesario;
+◦En ese momento suponía que se estaba llevando a cabo otra parte de la evacuación en la dirección de circulación del tren, cuando previamente se había evacuado la parte trasera del Ex 506, y ahora se evacuaría la parte delantera del Ex 506;
 ◦No seguía la ocupación de los tramos de vía por el tren R 989;
-◦Se dio cuenta de que algo andaba mal cuando se produjo el aviso tecnológico «rozřez výhybky č. 20»;
-◦No registró nada anómalo en el esquema de la vía; el tren R 989 entraba en la est. Praha-Běchovice y el tren Os 8856 estaba detenido más allá del nivel de la señal de clasificación Se6. El tramo de la vía de tren entre Se6 y 0S permaneció ocupado (rojo) y tras un momento se convirtió en turquesa;
-◦Aproximadamente a las 17:40 h se puso en contacto con él el maquinista del tren Os 8856 y le comunicó que se había producido una colisión con un tren que circulaba en la 0. SK. La conversación fue confusa, emotiva y solo tras un momento comprendió la situación real en la vía;
-◦Se aseguró aún con una conversación con el maquinista del tren R 989 sobre el estado en el lugar y a continuación informó a MU según el horario de avisos;
-◦En el CDP dirige regularmente la est. Praha-Libeň y la est. Praha-Běchovice. Dirige la est. Praha-Běchovice en dos turnos durante diez días;
-◦A la pregunta de si el maquinista del tren R 989 había sido informado de la circulación lenta de 30 km·h-1 y por quién, respondió: «Sí, fue informado mediante orden Pv por el despachador de línea 212 Praha-Libeň, que informaba de los trenes "impares", mientras que él mismo informaba de los trenes "pares"»;
-◦A la pregunta de cómo, según él, se desarrolla generalmente la evacuación de pasajeros de un tren a otro tren, respondió que generalmente en la línea se detienen en una vía lateral, pero en este caso sabía que la evacuación se realizaría a través de una vía. Contaba con que la cabeza de vía estaría bloqueada, pero le parecía que esta variante era más segura que la maniobra de maniobras. Presumía que en el tren Os 8856, como habitualmente, iba acoplada una pareja de unidades «CityElefant», por lo que no eligió la maniobra de maniobras también para que el maquinista no tuviera que cruzar por el exterior del tren;
-◦Habría considerado la maniobra de maniobras si lo hubiera requerido el jefe de intervención de HZS, pero este no planteó tal requerimiento;
-◦No recibió instrucciones adicionales para la realización de la evacuación por parte de otra persona;
-◦A la pregunta de quién determina generalmente a qué tren se realizará la evacuación, respondió que el despachador del operador plantea la solicitud y se pone de acuerdo con el responsable, o en su caso con el despachador de explotación;
-◦No sabe quién eligió el tren del Os 8856 en este caso concreto; él mismo recibió la información del despachador de explotación;
-
+◦Se dio cuenta de que algo no estaba en orden cuando se produjo la señal tecnológica «rozřez výhybky č. 20» (corte del desvío n.º 20);
+◦En el esquema de la vía no registró nada anormal, el tren R 989 entraba en la est. Praha-Běchovice y el tren Os 8856 estaba detenido más allá del nivel de la señal de clasificación Se6. El tramo de vía de tren entre Se6 y 0S permaneció ocupado (rojo) y tras un momento se convirtió en turquesa;
+◦Aproximadamente a las 17:40 h se puso en contacto con él el maquinista del tren Os 8856 y le comunicó que se había producido una colisión con un tren que circulaba en el 0. SK. La conversación fue confusa, emotiva, y solo tras un momento comprendió la situación real en la vía;
+◦Se aseguró aún mediante una conversación con el maquinista del tren R 989 sobre el estado en el lugar, y a continuación lo comunicó a MU según el horario de comunicaciones;
+◦En el CDP dirige regularmente la est. Praha-Libeň y la est. Praha-Běchovice. La est. Praha-Běchovice la dirige en dos turnos durante diez días;
+◦A la pregunta de si el maquinista del tren R 989 había sido informado de la circulación lenta de 30 km·h-1 y por quién, respondió: «Sí, fue informado Pv por orden del despachante de línea 212 Praha-Libeň, que informaba de los trenes "impares", mientras que él mismo informaba de los trenes "pares"»;
+◦A la pregunta de cómo, según él, se lleva a cabo generalmente la evacuación de pasajeros de un tren a otro tren, respondió que generalmente en la línea se detienen en una vía lateral, pero en este caso sabía que la evacuación se realizaría a través de una sola vía. Contaba con que la cabecera quedaría bloqueada, pero le parecía que esta variante era más segura que la maniobra de empuje. Presumía que en el tren Os 8856, como habitualmente, estaba acoplado un par de unidades «CityElefant», por lo que no eligió la maniobra de empuje también para que el maquinista no tuviera que cruzar por el exterior del tren;
+◦Consideraría la maniobra de empuje si la exigiera el jefe de intervención de los HZS, pero este no planteó tal exigencia;
+◦No tenía otras instrucciones para la realización de la evacuación por parte de otra persona;
+◦A la pregunta de quién determina generalmente a qué tren se realizará la evacuación, respondió que el despachante del transportista plantea la solicitud y se pone de acuerdo con el jefe de estación o, en su caso, con el despachante de explotación;
+◦Quién eligió el tren del tren Os 8856 en este caso concreto, no lo sabe, él mismo recibió la información del despachante de explotación;
 
 ## Página 31
+
 
 ◦A la pregunta de quién determinó que el tren Os 8856 durante la evacuación circularía como tren, respondió: «Yo.»
 ◦A la pregunta de con qué conocimiento tiene de la estación, si se orienta según las posiciones en km y si sabe dónde se encuentra aproximadamente la curva con sobreelevación, respondió que conoce la estación y que la curva termina aproximadamente en el lugar de la evacuación;
@@ -901,8 +954,8 @@ jefe de intervención de HZS SŽ
 ◦Aproximadamente hacia las 17:30 h le llamó al teléfono móvil profesional el despachador de CDP Praha y le comunicó que en unos 5 a 6 minutos llegaría el tren de evacuación. Esa fue la única información por parte del despachador sobre la evacuación;
 ◦En ese intervalo de tiempo llegó a la «vía contigua ob» una unidad «CityElefant»;
 
-
 ## Página 32
+
 
 ◦La unidad se detuvo a la altura del «Pendolino» que debía ser evacuado y el maquinista le comunicó que acordaría con el despachador que le estableciera una vía de maniobras a la vía contigua, la vía cero, junto al tren evacuado;
 ◦A continuación, el tren de evacuación se puso en marcha y se marchó;
@@ -922,89 +975,87 @@ jefe de intervención de HZS SŽ
 ◦A la pregunta: «¿Es habitual que la persona que organiza y dirige el tráfico ferroviario (p. ej. el jefe de estación) le encomiende la comunicación con el maquinista y la emisión de la señal para detener el tren en el lugar de la evacuación?» respondió: «Esta no es una pregunta dirigida a prestar declaración sobre la MU concreta en Běchovice.»;
 ◦A la pregunta: «¿Por qué no detuvo al maquinista emitiendo la señal correspondiente, como le pidió en la llamada el despachador de línea?» respondió: «La pregunta es ambigua,
 
-
 ## Página 33
 
-no se deduce de ella cuándo debí hacerlo; además, en relación con los tiempos, nadie me lo pidió.»;
-◦A la pregunta: «¿Cómo se desarrolló la comunicación entre usted y el maquinista del tren Os 8856?» respondió: «A eso ya he respondido.»;
-◦A la pregunta de cuál fue el objeto de la conversación telefónica con el maquinista, que duró más de 2 minutos, realizada antes de la aparición de la MU, respondió que no tiene constancia de tal conversación;
-◦A la pregunta: «¿Quién propuso que el tren de evacuación se introdujera más allá de la señal Se6 y posteriormente regresara a la 0. SK junto al tren Ex 506?» respondió: «Eso no puedo saberlo, es una pregunta para otra persona y no para mí. Remito a lo que ya he dicho sobre la dirección y organización del movimiento del tren de sustitución.»;
-◦A la pregunta de si estuvo de acuerdo con el procedimiento según la pregunta anterior y, en caso afirmativo, por qué se inclinó por él, respondió: «Esa es una pregunta absolutamente ilógica y hay que partir de lo que he dicho en la pregunta anterior.»;
-◦A la pregunta de si se comunicó, además de la conexión telefónica con el maquinista del Os 8856, también de otra manera, p. ej. verbalmente a través de la ventanilla de la cabina o mediante gestos, respondió que ya se había pronunciado al respecto en la introducción del acta;
-◦A la pregunta de qué hacía inmediatamente antes de la colisión, si registró la circulación simultánea de vehículos ferroviarios en el momento previo a ella, respondió: «A eso ya se ha respondido.»;
-◦A la pregunta de si se produjo la salida de pasajeros del tren Ex 506 con el fin de transbordar al tren de evacuación, respondió que no se produjo;
-◦Al caso indicado, además quiere añadir que, según lo que «solo hoy» sabe de toda la situación, la responsabilidad recae en otro participante de la MU y la búsqueda de más supuestos culpables no tiene lugar. Con lo que remite a las preguntas formuladas por la Inspección Ferroviaria.
+no se deduce de ello cuándo debí hacerlo, además, en relación con los tiempos, nadie me lo solicitó.";
+◦A la pregunta: «¿Cómo se desarrolló la comunicación entre usted y el maquinista del tren Os 8856?», respondió: «A eso ya he respondido»;
+◦A la pregunta sobre cuál fue el objeto de la conversación telefónica con el maquinista, que duró más de 2 minutos, realizada antes de la aparición de la MU, respondió que no tiene constancia de dicha conversación;
+◦A la pregunta: «¿Quién propuso que el tren de evacuación se desplazara más allá de la señal Se6 y posteriormente regresara a la 0. SK junto al tren Ex 506?», respondió: «Eso no puedo saberlo, es una pregunta para otra persona y no para mí. Me remito a lo que ya he dicho sobre la dirección y organización del movimiento del tren de sustitución»;
+◦A la pregunta sobre si estuvo de acuerdo con el procedimiento según la pregunta anterior y, en caso afirmativo, por qué se inclinó por él, respondió: «Esa es una pregunta absolutamente ilógica y hay que partir de lo que he dicho en la pregunta anterior»;
+◦A la pregunta sobre si se comunicó, además de la conexión telefónica con el maquinista del Os 8856, también de otra manera, por ejemplo verbalmente a través de la ventana de la cabina de mando, o mediante gestos, respondió que ya se había pronunciado al respecto al comienzo del acta;
+◦A la pregunta sobre qué hacía inmediatamente antes de la colisión, si registró la circulación simultánea de vehículos ferroviarios en el momento previo a ella, respondió: «A eso ya se ha respondido»;
+◦A la pregunta sobre si se produjo el desembarque de pasajeros del tren Ex 506 con el fin de transbordar al tren de evacuación, respondió que no se produjo;
+◦Al caso indicado, aún quiere añadir que, según lo que «solo hoy» sabe de toda la situación, la responsabilidad recae en otro participante de la MU y la búsqueda de más supuestos culpables no tiene lugar. Con lo que se remite a las preguntas formuladas por la Inspección Ferroviaria.
 jefe de estación PPV est. Praha-Běchovice
-  – Acta con el empleado en presencia de DI:
+  – Acta con el empleado en presencia de la DI:
 •
-◦El 10. 7. 2020 entró en el turno nocturno en el momento en que se estaba realizando la investigación de la persona atropellada y la circulación en la est. Praha-Běchovice estaba restringida;
-◦Recibía toda la información de tráfico del despachador de línea de CDP Praha;
-◦Hacia las 17:30 h el despachador de línea de CDP Praha le dictó el texto de la orden V para el tren Os 8856;
-◦El texto de la orden era exactamente según la solicitud del despachador de línea de CDP Praha;
-◦Redactó la orden, la entregó e informó al despachador de línea a las 17:29 h de la realización de la actuación;
+◦El 10. 7. 2020 entró en el turno nocturno en el momento en que se estaba investigando la persona atropellada y el servicio en la est. Praha-Běchovice estaba restringido;
+◦Recibía toda la información de tráfico del despachador de vía CDP Praha;
+◦Alrededor de las 17:30 h el despachador de vía CDP Praha le dictó el texto de la orden V para el tren Os 8856;
+◦El texto de la orden era de hecho exactamente según la solicitud del despachador de vía CDP Praha;
+◦Redactó la orden, la entregó e informó al despachador de vía a las 17:29 h de la realización de la actuación;
 ◦A continuación se dedicó al servicio de tráfico;
-◦Se enteró de la aparición de la MU por parte del despachador de línea y actuó según sus instrucciones;
-◦A la pregunta de si alguien trató con él el método de evacuación, respondió que no. Además, comunicó que no habló con el jefe de intervención de HZS y si se utilizarían los puentes o
+◦Se enteró de la aparición de la MU por parte del despachador de vía y actuó según sus instrucciones;
+◦A la pregunta sobre si alguien le planteó el método de evacuación, respondió que no. Además, comunicó que no habló con el jefe de intervención de los Bomberos (HZS) y si se utilizarían andamios, o
 
 ## Página 34
 
-si la evacuación se llevaría a cabo de otra manera, nadie lo planteó con él y él mismo no lo planteó ni con el maquinista.
-jefe de despachador CDP Praga
+si llevara a cabo la evacuación de otra manera, nadie lo había tratado con él y él mismo tampoco lo había tratado ni con el maquinista.
+jefe de despacho CDP Praga
   – Acta con el empleado en presencia del DI:
 •
-◦Entró en el turno nocturno sano y descansado, durante el turno estuvo sin estrés y otras molestias;
-◦Tras incorporarse al turno, fue informado de la situación en la est. Praha-Běchovice, donde había un suceso excepcional en la 2. SK;
-◦Acordó con el jefe de intervención de los Bomberos (HZS) la posibilidad de evacuación del tren Ex 506;
-◦Acordó con el despachador de red de los Ferrocarriles Checos (ČD) la posibilidad de evacuación al tren Os 8856;
-◦Se dirigió a la sala 4B, donde informó al despachador de explotación y al despachador de línea de la evacuación desde el tren Ex 506 al tren Os 8856 y, a continuación, informó al jefe de intervención de los Bomberos (HZS) de dicha evacuación;
-◦El jefe de intervención de los Bomberos (HZS) le fijó el kilómetro de parada del tren, 398,000, para llevar a cabo la evacuación del tren Ex 506;
-◦A continuación, llamó al maquinista del tren Os 8856 y le facilitó el número del jefe de intervención de los Bomberos (HZS) para una eventual comunicación;
-◦Regresó a su puesto de trabajo y hacia las 17:43 h le llamó el jefe de intervención de los Bomberos (HZS) e informó de otro suceso excepcional;
-◦A continuación, procedió de conformidad con las normativas en el desempeño de su función;
-◦A la pregunta de cómo, según él, se desarrolla en general la evacuación de pasajeros de un tren a otro tren, respondió que en los casos de evacuación se procede según las instrucciones de los servicios de emergencia (IZS);
-◦A la pregunta de si había hablado, antes de producirse el suceso excepcional (MU), con el jefe de intervención de los Bomberos (HZS) sobre el método y el desarrollo previsto de la evacuación, respondió que el jefe de intervención de los Bomberos (HZS) le comunicó el km del lugar de parada del tren de evacuación y él le comunicó que el tren de evacuación sería el Os 8856. Sobre por qué vía, no hablaron;
-◦A la pregunta de si había recibido alguna otra instrucción para llevar a cabo la evacuación por parte de otra persona, respondió que no;
-◦A la pregunta de quién determina en general a qué tren se llevará a cabo la evacuación, respondió que, tras un acuerdo y según la situación, el despachador del operador ferroviario;
-◦A la pregunta de quién determinó que el Os 8856 se desplazaría al lugar de la evacuación como tren, respondió que no se le había planteado la solicitud de remitir el tren como maniobra en la 0. SK;
-◦A la pregunta de si el jefe de intervención de los Bomberos (HZS) sabía que el tren Os 8856 estaba parado en la 3. SK y que no era posible que en el kilómetro indicado pasara a la 0. SK, respondió que de él no;
-◦A la pregunta de si en el CDP Praga es habitual que, para la marcha lenta y la señal de Aviso, se emita al maquinista únicamente una instrucción verbal y no se le emitan órdenes, respondió: «No, está excluido, reciben la orden V o Pv.»
-jefe de despachador CDP Praga
-  – Registro oficial de la declaración prestada ante la Policía Nacional (PČR)
+◦Entró en el turno nocturno sano y descansado, durante el turno estuvo sin estrés y sin otras molestias;
+◦Al incorporarse al turno fue informado de la situación en la est. Praga-Běchovice, donde había un suceso excepcional en la 2. SK;
+◦Acordó con el jefe de intervención del HZS la posibilidad de evacuar el tren Ex 506;
+◦Acordó con el despachador de red de ČD la posibilidad de evacuar al tren Os 8856;
+◦Se dirigió a la sala 4B, donde informó al despachador de explotación y al despachador de línea de la evacuación del tren Ex 506 al tren Os 8856 y, a continuación, informó al jefe de intervención del HZS de dicha evacuación;
+◦El jefe de intervención del HZS le fijó el kilómetro de parada del tren, 398,000, para llevar a cabo la evacuación del tren Ex 506;
+◦A continuación llamó al maquinista del tren Os 8856 y le facilitó el número del jefe de intervención del HZS para una eventual comunicación;
+◦Regresó a su puesto de trabajo y hacia las 17:43 h le llamó el jefe de intervención del HZS e informó de otro suceso excepcional;
+◦A continuación actuó conforme a las normas en el desempeño de su función;
+◦A la pregunta de cómo, según él, se desarrolla en general la evacuación de pasajeros de un tren a otro tren, respondió que en los casos de evacuación se procede según las instrucciones del IZS;
+◦A la pregunta de si había hablado, antes de producirse el suceso excepcional, con el jefe de intervención del HZS sobre el método y el desarrollo previsto de la evacuación, respondió que el jefe de intervención del HZS le comunicó el km del lugar de parada del tren de evacuación y él le comunicó que el tren de evacuación sería el Os 8856. Sobre por qué vía, no hablaron;
+◦A la pregunta de si había recibido alguna otra instrucción para llevar a cabo la evacuación de otra persona, respondió que no;
+◦A la pregunta de quién determina en general a qué tren se llevará a cabo la evacuación, respondió que, de acuerdo y según la situación, el despachador del transportista;
+◦A la pregunta de quién determinó que el Os 8856 circularía hasta el lugar de evacuación como tren, respondió que a él no se le había planteado la solicitud de aportar un tren como pieza de maniobra en la 0. SK;
+◦A la pregunta de si el jefe de intervención del HZS sabía que el tren Os 8856 estaba parado en la 3. SK y que no era posible que en el kilómetro indicado pasara a la 0. SK, respondió que de él no;
+◦A la pregunta de si en el CDP Praga es habitual que para la marcha lenta y la señal Aviso se dé al maquinista solo una instrucción verbal y no se les emitan órdenes, respondió: «No, está excluido, reciben la orden V o Pv.»
+jefe de despacho CDP Praga
+  – Registro oficial de la declaración prestada ante la PČR
 •
 (solo se mencionan las informaciones que complementan el Acta con el empleado):
 
-
 ## Página 35
 
-◦Su contenido de trabajo es la responsabilidad de la dirección operativa del trabajo de explotación, en el turno para la República Checa. Supervisa a los despachadores de explotación, a los despachadores de línea y, además, a todos los jefes de estación en Bohemia;
-◦En lo que respecta al procedimiento propio de la evacuación y la posterior puesta en servicio del itinerario de tren, este es competencia de los despachadores de línea;
+◦Su contenido de trabajo consiste en la responsabilidad de la dirección operativa del trabajo de explotación, en el turno para la República Checa. Supervisa a los despachadores de explotación, a los despachadores de línea y, además, a todos los jefes de estación en Bohemia;
+◦En lo que respecta al procedimiento propio de evacuación y a la posterior puesta en servicio del trayecto ferroviario, este es competencia de los despachadores de línea;
 ◦El propio accidente, la colisión de trenes, es competencia de los órganos investigadores; para él solo se deriva la restablecimiento de la explotación en la línea.
 jefe de tren
   del tren
- Os 8856
+  Os 8856
   – Acta con el empleado en presencia del DI:
 •
-◦Entró en el turno descansado, sobrio y sin estrés psicológico ni físico;
-◦Tras la salida del tren Os 8856, se enteró por teléfono móvil del maquinista, aproximadamente en la est. Úvaly o en la parada Praha-Klánovice, de que de su tren harían un tren de evacuación para los pasajeros del tren Ex 506 en la est. Praha-Běchovice;
-◦Llegaron a la est. Praha-Běchovice y se detuvieron junto al primer andén;
+◦Entró en turno descansado, sobrio y sin estrés psíquico ni físico;
+◦Tras la salida del tren Os 8856, se enteró por teléfono móvil del maquinista aproximadamente en la estación de Úvaly o en la parada de Praha-Klánovice de que de su tren harían un tren de evacuación para los pasajeros del tren Ex 506 en la estación de Praha-Běchovice;
+◦Llegaron a la estación de Praha-Běchovice y se detuvieron junto al primer andén;
 ◦Fue a preguntar al maquinista si la evacuación seguía vigente;
 ◦El maquinista le respondió que sí;
-◦A continuación, fue a informar a los pasajeros del tren Os 8856 de la situación producida;
-◦Dijo a los pasajeros que de este tren se haría un tren de evacuación para los pasajeros del tren Ex 506 y que bajaran y utilizaran el tren siguiente;
-◦Recorrió todo el tren para ver si había quedado algún pasajero; nadie quedó en el tren;
-◦Después fue con el maquinista al frente, a la ventana en la cabecera del tren;
+◦A continuación fue a informar a los pasajeros del tren Os 8856 de la situación surgida;
+◦Les dijo a los pasajeros que de este tren se haría un tren de evacuación para los pasajeros del tren Ex 506 y que bajaran y utilizaran el tren posterior;
+◦Recorrió todo el convoy para comprobar si quedaba algún pasajero; nadie quedó en el convoy;
+◦Después fue con el maquinista hacia la parte delantera, a la ventana junto al frente del tren;
 ◦El maquinista hablaba por radio con el despachador del CDP, luego colgó y le comunicó que había solicitado una orden escrita de evacuación y que no se la querían facilitar;
-◦Unos 10 minutos después, el jefe de estación PPV trajo al maquinista una orden escrita; a continuación, pasaron varios trenes de larga distancia en dirección desde Praga;
-◦A continuación, desde el andén vio cómo en el semáforo se encendió la señal de Velocidad 40 km/h y Libre;
-◦El maquinista dio la señal de Aviso de atención; ante esto, él, desde el espacio del andén, comprobó la finalización del desembarque y embarque de pasajeros y dio al maquinista la señal de Permiso de salida;
+◦Aproximadamente 10 minutos después, el jefe de estación PPV trajo al maquinista una orden escrita; a continuación pasaron varios trenes de larga distancia en dirección desde Praga;
+◦Después, desde el andén, vio cómo en el semáforo se encendieron la señal Velocidad 40 km/h y la señal Libre;
+◦El maquinista dio la señal Aviso de preparación; con ello, él, desde el espacio del andén, comprobó la finalización del descenso y del ascenso de pasajeros y dio al maquinista la señal Permiso de salida;
 ◦El maquinista recibió la señal, cerró las puertas y puso el tren en movimiento;
-◦El maquinista se detuvo en la vía 0 y a continuación empezó a cruzar al otro lado del tren. Él se unió a él y juntos llegaron al puesto de conducción opuesto;
-◦El maquinista preparaba la unidad para la marcha en el segundo sentido hacia el «Pendolino»;
-◦Escuchó al maquinista hablar probablemente con el despachador del CDP por radio;
-◦Escuchó al maquinista solicitar al despachador del CDP que encendiera el semáforo en dirección hacia el «Pendolino»;
-
+◦El maquinista se detuvo en la vía 0 y a continuación empezó a cruzar al otro lado del convoy. Él se unió a él y juntos llegaron al puesto de conducción opuesto;
+◦El maquinista preparaba la unidad para circular en el segundo sentido hacia el «Pendolino»;
+◦Oyó al maquinista hablar probablemente con el despachador del CDP por radio;
+◦Oyó al maquinista solicitar al despachador del CDP que encendiera el semáforo en dirección al «Pendolino»;
 
 ## Página 36
+
 
 ◦A continuación, el maquinista terminó la conversación y le comunicó que el despachador del CDP le dijo: «para qué le iba a establecer una vía de maniobras si va como tren» y que le dio permiso para continuar;
 ◦Después se situó delante del puesto de conducción y esperó;
@@ -1027,8 +1078,8 @@ despachador de red SD1 de los ČD
 ◦No tenía idea de en qué fase se encontraban los bomberos, por lo que esperó alguna información al respecto;
 ◦No se comunicó directamente con los bomberos;
 
-
 ## Página 37
+
 
 ◦Tras un tiempo, volvió a contactar con el jefe de despachador; esta vez ya habló con el jefe de despachador del turno nocturno, quien le comunicó que la evacuación era posible de inmediato;
 ◦Junto con el jefe de despachador, seleccionaron el tren al que se realizaría la evacuación;
@@ -1045,6 +1096,7 @@ despachador de red SD1 de los ČD
 ◦A la pregunta de cómo explicaría que la evacuación con el tren Os 8856 ya la había acordado, antes de su llamada al jefe de despachador, su colega, el despachador de red SD3, con el despachador de explotación de la Administración Ferroviaria (PD3), respondió que no habló en absoluto con el despachador de explotación, porque el jefe de despachador actúa directamente con los bomberos. Además, añadió que, dada la exigencia del turno, no puede seguir las conversaciones de sus colegas. La información a través del jefe de despachador va dirigida más bien a los bomberos, mientras que la información de su
 
 ## Página 38
+
 
 colegas SD3 dirigidos al despachador de explotación se dirigen más bien a los empleados
 que dirigen la explotación.
@@ -1089,8 +1141,8 @@ de los Ferrocarriles Checos (Českých drah), Správa železnic solo le facilita
 selección del tren de evacuación deciden siempre de acuerdo con Správa železnic.
 Por parte del despacho de ČD se trata de una propuesta de tren, no de una decisión;
 
-
 ## Página 39
+
 
 ◦A la pregunta de si sabía dónde exactamente se detuvo el tren Ex 506 en la est. Praha-Běchovice tras la colisión
 con la persona, respondió que solo sabía que estaba fuera del andén en la vía
@@ -1132,48 +1184,42 @@ Despachador de línea CDP: Te saludo, por favor, allí la quinientas-seis ha atr
 Maquinista del Os 8856: ... ya lo sé, ya he pasado por allí...
 Despachador de línea CDP: ... y vamos, vamos, vamos por la cero ahora hacia Libeň y tienes que detenerte allí junto a
 
-
 ## Página 40
 
-ese Pendolino, allí habrá además un embarque de unos presuntos viajeros, ¿sí? O sea, de ese Pendolino, ¿sí?
-Maquinista del Os 8856: ¿Y sabes que yo también tengo viajeros en el tren para las siguientes paradas, o sea, tengo que echarlos fuera de ese tren?
-Despachador de línea CDP: Bueno, tienes que anunciarles que debido a un suceso no se prestará servicio en
-Praha-Kyje y Praha-Horní Počernice*, ¿sí?
-Maquinista del Os 8856: Sí...
-Despachador de línea CDP: En este caso.
-Maquinista del Os 8856: ... oye, sería bueno tener para eso quizás incluso alguna orden, mejor.
-Despachador de línea CDP: ¿Tienes preparada la orden Pv?
-Maquinista del Os 8856: ¿Aquí no hay nadie en Běchovice? ¿Para que me lo imprimiera...
-Despachador de línea CDP: Joder, eso va a tardar, ¿sabes cuánto va a tardar? Ahora hay una oportunidad enorme
-para entrar allí, detenerse junto al Pendolino, allí en algún punto está el jefe de intervención, la gente transbordará del Pendolino, simplemente están allí los bomberos, van a eva' va' eee, realizarán la evacuación a, a, a tu tren, al ocho-ocho-cincuenta-
-y-seis.
-Maquinista del Os 8856: Bueno, vale, pero sabes que yo soy el que no les gusta mucho hacerlo así a medias.
-Despachador de línea CDP: Lo sé que no, pero o sea tú [inaudible] ...
-Maquinista del Os 8856: Y los viajeros también nos comerán la cabeza...
-Despachador de línea CDP: O sea sí, pero o sea, ¿qué se puede hacer...
-Maquinista del Os 8856: ... [inaudible] ... allí tenemos gente, vaya.
-Despachador de línea CDP: Bueno, pues allí hay una persona muerta, vaya, pues eso lo entenderán, ¿no? O sea, vaya.
-Maquinista del Os 8856: Pues lo anunciaré, vaya, para que entonces por si acaso salgan, vaya, si tienen prisa extra, vaya.
-Despachador de línea CDP: Bueno, vale, vaya, pues yo...
-Maquinista del Os 8856: [inaudible]
-Despachador de línea CDP: [risas] ... Vale, vale...
-Maquinista del Os 8856: O sea, digo, hasta entonces podrían intentar imprimir algún papel o algo, vaya, si alguien molesta... Pero lo hago no solo por mí, sino también por ustedes, ¿verdad?
-Despachador de línea CDP: Lo entiendo, lo entiendo, pero...
-Maquinista del Os 8856: Bueno... Entonces, si alguien tiene curiosidad o qué está pasando, tenemos un problema, ¿verdad? Tengo que estar informado de eso y preferiblemente por orden escrita.
-Despachador de línea CDP: Vale, vale. Entonces estaremos allí parados veinte minutos y luego eso. Yo lo resuelvo, yo lo
-resuelvo así, ¿sí?
-Maquinista del Os 8856: Sí, o sea, ... [inaudible] ...
-Despachador de línea CDP: No conozco los kilómetros, yo no conozco los kilómetros de la colisión, ¿sabes? Yo no conozco los kilómetros ni de la
-colisión, ¿sabes? Entonces eso es difícil, vaya.
-Maquinista del Os 8856: Sí, vale...
-Despachador de línea CDP: Hmm... Vale, vale, vale. Entonces yo lo resolveré de alguna manera.
-Maquinista del Os 8856: Lo hago también, también por ustedes, vaya.
-Despachador de línea CDP: Sí, sí, sí, yo lo resolveré de alguna manera, ¿sí?
-Maquinista del Os 8856: Pues vale... Pues vale, yo aquí de momento anuncio a la gente' (fin de la grabación)
+toho Pendolína, ¿habrá ahí todavía un embarque de unos supuestos pasajeros, ¿eh? ¿Como de ese Pendolína, ¿eh?
+Maquinista Os 8856: ¿Y sabes que yo tengo pasajeros también en el tren también para las siguientes paradas, como, ¿los tengo que echar fuera de ese tren?
+Jefe de circulación CDP: Bueno, tienes que comunicarles que debido a un suceso excepcional no se prestará servicio en Praha-Kyje y Praha-Horní Počernice*, ¿eh?
+Maquinista Os 8856: ¿Eh…
+Jefe de circulación CDP: En este caso.
+Maquinista Os 8856: ...oye, sería bueno tener para eso, por ejemplo, incluso quizás alguna orden, mejor.
+Jefe de circulación CDP: ¿Tienes preparada la orden Pv?
+Maquinista Os 8856: ¿Aquí no se sienta nadie en Běchovice? ¿Para que me lo imprimiera…
+Jefe de circulación CDP: Joder, eso va a tardar, ¿sabes cuánto va a tardar? Ahora hay una oportunidad estupenda para entrar ahí, parar junto a ese Pendolína, ahí está en algún sitio el jefe de intervención, la gente cambiará del Pendolína, simplemente están ahí los bomberos, van a te- va- eee, realizarán la evacuación a, a, a tu tren, al ocho-ocho-cincuenta y seis.
+Maquinista Os 8856: Bueno, está bien, pero sabes que yo soy el que no les gusta mucho del todo hacerlo así a medias.
+Jefe de circulación CDP: Ya sé que no, ¿no? Pero como esas averías… [ilegible: nesrozumitelné]…
+Maquinista Os 8856: Y los pasajeros también nos van a comer la cabeza…
+Jefe de circulación CDP: Como sí, pero como, ¿qué se puede hacer…
+Maquinista Os 8856: … [ilegible: nesrozumitelné] … tenemos gente ahí, ¿no?
+Jefe de circulación CDP: Bueno, pues hay una persona muerta ahí, bueno, pues eso lo entenderán, ¿no? Como, ¿no?
+Maquinista Os 8856: Pues yo lo anunciaré, ¿no? Para que entonces, por si acaso, salgan, es decir, si tienen prisa extra, ¿no?
+Jefe de circulación CDP: Bueno, está bien, ¿no? Pues yo…
+Maquinista Os 8856: [ilegible: nesrozumitelné]
+Jefe de circulación CDP: risas … Está bien, está bien…
+Maquinista Os 8856: Como digo, hasta entonces podrían intentar imprimir algún papel o algo, ¿no? Por si alguien molesta… Pero lo hago no solo por mí, sino también por ustedes, ¿verdad?
+Jefe de circulación CDP: Lo entiendo, lo entiendo, pero…
+Maquinista Os 8856: Bueno… Entonces, si alguien está curioso o pasa algo, tenemos un problema, ¿verdad? Tengo que estar informado de eso y preferiblemente con una orden por escrito.
+Jefe de circulación CDP: Está bien, está bien. Pues estaremos aquí parados veinte minutos y luego eso. Yo lo resolveré, yo lo resolveré así, ¿eh?
+Maquinista Os 8856: Sí, como… [ilegible: nesrozumitelné]…
+Jefe de circulación CDP: No conozco los kilómetros, yo no conozco los kilómetros de esa colisión, ¿sabes? Yo no conozco los kilómetros ni de esa colisión, ¿sabes? Entonces eso es difícil, ¿no?
+Maquinista Os 8856: Sí, ya veo…
+Jefe de circulación CDP: Hmm… Está bien, está bien, está bien. Pues yo lo solucionaré de alguna manera.
+Maquinista Os 8856: Lo hago también, también por ustedes, ¿no?
+Jefe de circulación CDP: Sí, sí, sí, yo lo solucionaré de alguna manera, ¿eh?
+Maquinista Os 8856: Pues vale… Pues vale, yo lo anuncio aquí por ahora, gente' (fin de la grabación)
 * Nota DI: el nombre correcto de la parada es Praha-Dolní Počernice
 
-
 ## Página 41
+
 
 Archivo: 2020_07_10_17-17-01_2.14_1073_LABEL_PHACDP_TD222_DT.mp3
 Inicio de la conversación: 10. 7. 2020, 17:17:01 h
@@ -1213,40 +1259,40 @@ Despachador de línea CDP: ... vale.
 ## Página 42
 
 Archivo: 2020_07_10_17-24-42_2.14_1073_LABEL_PHACDP_TD222_DT.mp3
-Inicio de la conversación: 10. 7. 2020, 17:24:42 h
+Inicio de la conversación: 10/07/2020, 17:24:42 h
 Contenido de la transcripción: grabación completa
 Maquinista Os 8856: Sí, ocho-ocho-cinco-seis.
-Jefe de circulación CDP: El jefe de estación te lleva allí la orden, por favor. Llega un tren por la cero, luego llegará otro más y luego saldremos por la cero, ¿vale?
+Jefe de circulación CDP: El jefe de estación te lleva allí la orden, por favor. Llega un tren por la cero, luego llegará otro más y después saldremos por la cero, ¿vale?
 Maquinista Os 8856: Vale, saldré por la señal, o por, por la cero...
 Jefe de circulación CDP: No, no, por, por la señal, por la señal, por supuesto.
 Maquinista Os 8856: Vale, de acuerdo.
 Jefe de circulación CDP: Como tren saldremos, como tren, por supuesto como tren, ¿vale?
 Maquinista Os 8856: Vale, genial. Hemos expulsado a la mayoría de los pasajeros y...
 Jefe de circulación CDP: Entendido, entendido, entendido...
-Maquinista Os 8856: ... ahora va a ser, ahora va a ser kosher ... [ilegible: ininteligible] ... Como digo...
-Jefe de circulación CDP: Vale, sin problema, sin problema, sin problema. Bien, entonces hasta luego, hasta luego. Cinco minutos, cinco minutos, hasta que llegue desde la, desde la, desde Libeň y vamos por la cero.
+Maquinista Os 8856: ... ahora será, ahora será kosher ... ininteligible... Como digo...
+Jefe de circulación CDP: Vale, sin problema, sin problema, sin problema. Bien, pues hasta luego, hasta luego. Cinco minutos, cinco minutos, hasta que llegue desde el, desde el, desde Libeň y vamos por la cero.
 Maquinista Os 8856: Sí.
-Jefe de circulación CDP: Hay algún jefe de intervención allí y él te indicará dónde, dónde parar exactamente, ¿vale?
+Jefe de circulación CDP: Hay en algún lugar un jefe de intervención y él te indicará dónde, dónde parar exactamente, ¿vale?
 Maquinista Os 8856: Vale.
-Jefe de circulación CDP: Se lo diré yo... Todavía no le he dicho que te indique, pero te indicará dónde parar, ¿vale?
+Jefe de circulación CDP: Se lo diré yo... Todavía no se lo he dicho para que te indique, pero te indicará dónde parar, ¿vale?
 Maquinista Os 8856: Vale. De acuerdo.
 Jefe de circulación CDP: Bien.
-Maquinista Os 8856: Iré igualmente despacio, la verdad.
-Jefe de circulación CDP: Despacito, por supuesto, por supuesto, desde luego. ¿Vale? De acuerdo.
-Maquinista Os 8856: Entonces vale ta' (fin de la grabación)
+Maquinista Os 8856: De todas formas iré igual de despacio.
+Jefe de circulación CDP: Despacito, por supuesto, por supuesto, claro que sí. ¿Vale? De acuerdo.
+Maquinista Os 8856: Pues vale, ta' (fin de la grabación)
 Archivo: 2020_07_10_17-25-43_2.14_1073_LABEL_PHACDP_TD222_DT.mp3
-Inicio de la conversación: 10. 7. 2020, 17:25:43 h
+Inicio de la conversación: 10/07/2020, 17:25:43 h
 Contenido de la transcripción: grabación completa
 Jefe de intervención HZS: A la escucha, jefe de intervención.
-Jefe de circulación CDP: Escuche, señor jefe, aquí Běchovice, jefe de circulación CDP. En cinco minutos probablemente saldrá de Běchovice por la vía tercera el tren hacia la cero. El Panťák. Es un Panťák doble. Hacia Praga. Y le he dicho que usted le indicará dónde parar, ¿vale? Que estará allí esperando y que le dará alguna señal de dónde debe parar, ¿vale?
-Jefe de intervención HZS: Ciertamente, ciertamente. Vale.
+Jefe de circulación CDP: Pues escuche, señor jefe, aquí Běchovice, jefe de circulación CDP. En cinco minutos probablemente saldrá de Běchovice por la vía tercera ese tren hacia la cero. Vapor. Es un vapor doble. A Praga. Y le he dicho que usted le indicará dónde parar, ¿vale? Que estará usted allí esperando y que le dará usted alguna señal de dónde debe parar, ¿vale?
+Jefe de intervención HZS: Desde luego, desde luego. Vale.
 Jefe de circulación CDP: Gracias, gracias.
 Jefe de intervención HZS: Pues nosotros también damos las gracias y estaremos esperando.
-Jefe de circulación CDP: De acuerdo, de acuerdo, entonces hasta luego, hasta luego.
-Jefe de intervención HZS: Entonces vale, hasta luego, hasta la vista.
-
+Jefe de circulación CDP: De acuerdo, de acuerdo, pues hasta luego, hasta luego.
+Jefe de intervención HZS: Pues vale, hasta luego, hasta la vista.
 
 ## Página 43
+
 
 Archivo: 2020_07_10_17-27-30_2.65_1073_LABEL_PHACDP_PDVD_DECT.mp3
 Inicio de la conversación: 10. 7. 2020, 17:27:30 h
@@ -1282,8 +1328,8 @@ Jefe de circulación CDP: ... hace un momento hablé con él, ¿vale?
 Maquinista Os 8856: Vale, de acuerdo.
 Jefe de circulación CDP: Entonces vale, llámelo para que lleven a cabo allí la evacuación.
 
-
 ## Página 44
+
 
 Maquinista Os 8856: Entonces vale, sí.
 Jefe de circulación CDP: Muchas gracias.
@@ -1319,8 +1365,8 @@ Jefe de circulación CDP: Bueno, desde luego.
 Jefe de estación Běchovice: Si se hubiera dejado cruzar por el jefe de intervención, estaría en un lío, ¿verdad?
 Jefe de circulación CDP: Exacto, exacto. Jejeje, exacto... [risas]
 
-
 ## Página 45
+
 
 Jefe de estación Běchovice: [risas]
 Jefe de circulación CDP: De acuerdo, nombre.
@@ -1357,8 +1403,8 @@ Jefe de intervención HZS: Vale, vale, se dieron de lado, ¿vale?
 Jefe de circulación CDP: De lado, ¿vale?
 Jefe de intervención HZS: Vamos allí. Vale, vamos allí, ¿vale?
 
-
 ## Página 46
+
 
 Jefe de circulación CDP: De acuerdo, entiendo, gracias.
 Jefe de intervención HZS: Vale, hasta la vista.
@@ -1394,40 +1440,40 @@ Maquinista Os 8856: No, me pasé y negocié para poder entrar allí. Entré por 
 
 ## Página 47
 
-preguntamos.
-Jefe de tren Os 8856: (voz a lo lejos) Por lo demás, estamos vacíos.
-Maquinista Os 8856: No, por lo demás deberíamos estar vacíos, yo tenía que ir al lado de ese Pendolino para la evacuación de pasajeros. Ahora lo llamo al CDP para que... Cometieron un error bastante gordo.
-Jefe de circulación CDP: ¿Qué error, por favor, si tú circulas como tren por la vía 0... (inspiración, fin de la grabación)
+zeptáme.
+Maquinista del Os 8856: (voz a lo lejos) Por lo demás, vamos vacíos.
+Maquinista del Os 8856: Bueno, por lo demás deberíamos ir vacíos, yo tenía que ir al lado a hacer la evacuación de pasajeros de ese Pendolino. Ahora lo llamo al CDP para decirle que eso… Han cometido un error bastante gordo.
+Jefe de circulación del CDP: ¿Qué error, por favor, si tú circulas como tren por la vía cero… (inspiración, fin de la grabación)
 Archivo: 2020_07_10_17-52-52_2.65_1073_LABEL_PHACDP_PDVD_DECT.mp3
-Inicio de la llamada: 10. 7. 2020, 17:52:52 h
-Contenido de la transcripción: desde el tiempo 2:54 hasta el tiempo 3:53
+Inicio de la llamada: 10 de julio de 2020, 17:52:52 h
+Contenido de la transcripción: desde el minuto 2:54 hasta el minuto 3:53
 ...
-Jefe de despacho CDP: Justo ahora, ¿me entiendes?, lo que me preocupa es qué pasa con esa gente en ese Pendolino.
-Persona autorizada: No, eso no lo sé en absoluto. Bueno, el Pendolino podría salir en un rato, es decir, bueno. Pero probablemente tendremos que meterlo, es decir, por el otro lado, bueno.
-Jefe de despacho CDP: Sí.
-Persona autorizada: Porque aquí, aquí como... aquí no lo sé. Bueno, se alargaría, bueno. Pero yo, es decir, no querría, no querría meterme en eso. Más bien que apareciera por aquí un jefe de vía.
-Jefe de despacho CDP: ¿Ese tren de pasajeros está desviado, desviado demasiado mal, o qué?
-Persona autorizada: No, bueno, está desviado como hacia, hacia la otra, bueno, así que...
-Jefe de despacho CDP: Sí...
-Persona autorizada: No me gusta nada, es decir, bueno...
-Jefe de despacho CDP: ¿A la, a la otra o a la primera? ¿A la segunda, sí?
-Persona autorizada: A la segunda, a la segunda... delante de ese Pendolino...
-Jefe de despacho CDP: ah, así, ... Entonces es una mierda.
-Persona autorizada: Está delante de ese Pendolino, bueno.
-Jefe de despacho CDP: Sí, sí. (hace una pausa) Bueno, en ese caso aquí probablemente lo paramos todo. Oye, pues arrancad ese Pendolino y sin evacuación, que ya se vaya a Praga...
+Jefe de despacho del CDP: Lo que pasa ahora, ¿entiendes?, es que me preocupa qué hacemos con esa gente en ese Pendolino.
+Persona autorizada: Bueno, eso no lo sé en absoluto. Bueno, el Pendolino podría salir en un momento, es decir, bueno. Pero probablemente tendremos que meterlo por el otro lado, bueno.
+Jefe de despacho del CDP: Sí.
+Persona autorizada: Porque aquí, aquí como… aquí no lo sé. Bueno, se alargaría, bueno. Pero yo, es decir, no querría, no querría meterme en eso. Más bien que apareciera aquí algún jefe de vía.
+Jefe de despacho del CDP: ¿Ese tren de mercancías está desviado, desviado demasiado hacia algún lado, mal, sí?
+Persona autorizada: No, bueno, está desviado como hacia, hacia la otra, bueno, así que…
+Jefe de despacho del CDP: Sí…
+Persona autorizada: No me gusta nada, es decir, bueno…
+Jefe de despacho del CDP: ¿Hacia la, hacia la otra o hacia la primera? ¿Hacia la segunda, sí?
+Persona autorizada: Hacia la segunda, hacia la segunda… delante de ese Pendolino…
+Jefe de despacho del CDP: ah, así, … Entonces está jodido.
+ Persona autorizada: Está delante de ese Pendolino, bueno.
+Jefe de despacho del CDP: Sí, sí. (hace una pausa) Bueno, en ese caso aquí probablemente paramos todo. Oye, pues poned en marcha ese Pendolino y sin evacuación, que ya se vaya a Praga…
 Persona autorizada: Hmm.
-Jefe de despacho CDP: ... porque ya esa gente, para que no nos maten, llevan dos horas ahí, y el resto de la evacuación de aquí, hasta Běchovice, ya lo veríamos después.
+Jefe de despacho del CDP: … porque ya esa gente, para que no nos maten, llevan dos horas ahí, bueno, y el resto de la evacuación aquí, hasta Běchovice, ya veríamos después.
 ...
 Archivo: [10.99.12.81[Primario]][ETH--Act.-H323-2-08][2020-07-10_18-31-25].mp3
-Inicio de la llamada: 10. 7. 2020, 18:31:25 h
+Inicio de la llamada: 10 de julio de 2020, 18:31:25 h
 Contenido de la transcripción: grabación completa
-Jefe de intervención HZS: Le escucho, recibido.
-Jefe de circulación CDP: Sí, le saludo, aquí CDP para Praha-Běchovice. Quería preguntarle, cuando ese tren salía hacia la vía 0, circulaba como tren, como 8-8-56. ¿De quién fue la idea de que el maquinista pasara al otro lado y quisiera entrar en la estación como maniobras? ¿De quién fue esta idea, esto?
-Jefe de intervención HZS: Eso no lo sé, mire usted, él...
-Jefe de circulación CDP: Circulaba como tren y no como maniobras. Sí, el maquinista estaba informado de ello y tenía
-
+Jefe de intervención del HZS: Le escucho, recibo.
+Jefe de circulación del CDP: Sí, le saludo, aquí el CDP para Praga-Běchovice. Quería preguntarle, cuando ese tren salía hacia la vía cero, circulaba como tren, como ocho-ocho-cincuenta-y-seis. ¿De quién fue la idea de que el maquinista pasara al otro lado y quisiera entrar en la estación como maniobra? ¿De quién fue la idea esto, como?
+Jefe de intervención del HZS: Eso no lo sé, oiga, él…
+Jefe de circulación del CDP: Eso circulaba como tren y no como maniobra. Sí, el maquinista estaba informado de eso y debía
 
 ## Página 48
+
 
 orden. Yo, no se me habría ocurrido en la vida que pasara al otro lado y de repente quisiera entrar en la estación. Yo le dije que podía parar en cualquier sitio, como, sí, donde fuera necesario, y si para, no sé, si esos quince, diez metros, si algo como salvar, salvó, quería, quería salvar, para estar más cerca por el hecho de que iba a volver a la estación, perfectamente podría haber bloqueado la aguja, si podía parar en cualquier sitio, porque era tren, yo contaba con eso, pero no contaba con que se convertiría en maniobras y con que entraría en la estación.
 Jefe de intervención HZS: Pero eso no lo sé, cómo habían quedado, yo estaba aquí en el lugar de la intervención, y eso no lo sé...
@@ -1461,8 +1507,8 @@ Jefe de circulación CDP: ...la vía de tren, ¿verdad?
 Jefe de intervención HZS: ... claro, claro,...
 Jefe de circulación CDP: Bueno...
 
-
 ## Página 49
+
 
 Jefe de intervención HZS: claro. ¡Bien!
 Jefe de circulación CDP: Bien, bien, pues solo eso. Pues hasta luego, hasta luego, hasta luego.
@@ -1519,107 +1565,111 @@ inmediatamente después de liberar la parte correspondiente de la aguja por el t
 • 17:37:55 h
 registro del código del círculo amarillo en la HDV del tren R 989;
 
-
 ## Página 50
 
 • 17:38:02 h
-puesta en marcha de la HDV del tren R 989;
+puesta en marcha de la locomotora del tren R 989;
 • 17:38:21 h
-activación del mando desde el coche de mando 971 de la composición del tren Os 8856;
+activado el mando desde el coche de mando 971 de la composición del tren Os 8856;
 • 17:38:35 h
-el maquinista del tren Os 8856 solicita al jefe de circulación CDP el establecimiento
+el maquinista del tren Os 8856 solicita al despachista de línea CDP la formación 
 de una vía de maniobras (fin de la llamada a las 17:39:09 h);
-el tren R 989 pasa junto a la señal de entrada 1S a una velocidad de 28 km·h-1;
 • 17:38:40 h
-• 17:39:?? h* el maquinista del tren Os 8856 contacta por tercera vez, brevemente, con el jefe de intervención HZS
-(llamada de 8 segundos);
+el tren R 989 pasa la señal de entrada 1S a una velocidad de 28 km·h-1;
+• 17:39:?? h* el maquinista del tren Os 8856 contacta por tercera vez, brevemente, con el jefe 
+de la intervención del HZS (llamada de 8 segundos);
 • 17:39:11 h
-salida de la composición del tren Os 8856;
+arranque de la composición del tren Os 8856;
 • 17:39:16 h
-el tren R 989 adelanta a la composición del tren Os 8856 (tiempo aproximado ± 1s);
+el tren R 989 adelanta a la composición del tren Os 8856 (tiempo aproximado ± 1 s);
 • 17:39:19 h
-la composición del tren Os 8856 pasa junto a la señal Se6 (hora de producción de la MU);
+la composición del tren Os 8856 pasa la señal Se6 (hora de producirse de la MU);
 • 17:39:25 h
-el tren R 989 entra en las puntas de la aguja n.º 21, que está
-establecida en dirección de desviación;
-registrado el uso del silbato del tren R 989 a una velocidad de 28 km·h-1,
+el tren R 989 entra en las puntas del desvío n.º 21, que está dispuesto en 
+dirección de desvío;
 • 17:39:33 h
-en la composición del tren Os 8856 en el mismo segundo registrada la velocidad
+registrado el uso del silbato del tren R 989 a una velocidad de 28 km·h-1, 
+en la composición del tren Os 8856 registrada en el mismo segundo una velocidad 
 de 26 km·h-1;
 • 17:39:34 h
 registrado el uso del freno de emergencia en la composición del tren Os 8856;
 • 17:39:37 h
-colisión de vehículos ferroviarios en la aguja n.º 19;
+colisión de vehículos ferroviarios en el desvío n.º 19;
 • 17:39:41 h
-parada de la composición del tren Os 8856 tras la MU;
+detención de la composición del tren Os 8856 tras la MU;
 • 17:39:56 h
-registro del uso del freno de emergencia en la HDV del tren R 989;
+registro del uso del freno de emergencia en la locomotora del tren R 989;
 • 17:40:06 h
-parada del tren R 989.
-* = La Inspección Ferroviaria no dispone de datos de segundos, porque de los listados de llamadas del operador de telefonía móvil no es posible obtener otros datos que la hora de inicio de la llamada en minutos y su duración.
-### Desarrollo del suceso extraordinario:
-El 10. 7. 2020 a las 16:13 h se produjo en la 2. SK de la est. Praha-Běchovice cerca del andén
-un suceso extraordinario en el transporte ferroviario – la colisión del tren Ex 506 con una persona. Los empleados de CDP
-Praga, en colaboración con los empleados del centro de control de red de ČD, eligieron como composición
-adecuada para la evacuación de pasajeros del tren Ex 506 el tren Os 8856. Al maquinista del tren
-Os 8856 le informó primero el jefe de circulación de ČD del hecho de que su tren sería
-el de evacuación. Tras la parada del tren en la 3. SK de la est. Praha-Běchovice, le contactó el jefe de
-circulación CDP, del cual este maquinista solicitó una orden escrita para el procedimiento posterior.
-El jefe de circulación, en respuesta a la solicitud de orden escrita, comenzó a averiguar la posición
-kilométrica del tren Ex 506 detenido junto al jefe de intervención HZS. El maquinista del tren Os 8856, en
-colaboración con el jefe de tren, mientras tanto por iniciativa propia recomendó a los pasajeros que bajaran
-del tren y esperaran al tren siguiente.
-
-Tras averiguar la posición kilométrica del tren Ex 506 detenido, el jefe de circulación CDP contactó
-con el jefe de estación PPV de la est. Praha-Běchovice, al que dictó la orden para el tren Os 8856 con
-el siguiente texto: «De Praha-Běchovice a Praha-Libeň circula por la vía principal 0. Las paradas Praha-
-Kyje, Praha-Dolní Počernice páselas. En el kilómetro 397,300 hasta 397,700 velocidad 30
+detención del tren R 989.
+* = La Inspección Ferroviaria no dispone de los datos de segundos, porque de las listas de llamadas 
+del operador móvil no pueden obtenerse otros datos que el inicio de la llamada en minutos y su duración.
+### Desarrollo del suceso excepcional:
+El 10 de julio de 2020 a las 16:13 h se produjo en la 2.ª vía principal de la estación de 
+Praga-Běchovice, cerca del andén, un suceso excepcional en el tráfico ferroviario – 
+colisión del tren Ex 506 con una persona. Los empleados de CDP Praga, en colaboración 
+con los empleados del despacho de red de ČD, eligieron como composición adecuada para 
+la evacuación de los pasajeros del tren Ex 506 el tren Os 8856. El despachista de red 
+de ČD informó primero al maquinista del tren Os 8856 de que su tren sería el de 
+evacuación. Tras la detención del tren en la 3.ª vía principal de la estación de 
+Praga-Běchovice, le contactó el despachista de línea CDP, al que este maquinista 
+solicitó una orden escrita para la ulterior actuación. El despachista de línea, en 
+respuesta a la solicitud de orden escrita, comenzó a averiguar la posición kilométrica 
+del tren Ex 506 detenido con el jefe de la intervención del HZS. El maquinista del 
+tren Os 8856, en colaboración con el jefe de tren, mientras tanto recomendó por 
+iniciativa propia a los pasajeros que abandonaran el tren y esperaran al tren siguiente.
+Tras averiguar la posición kilométrica del tren Ex 506 detenido, el despachista de 
+línea CDP contactó con el jefe de estación PPV de la estación de Praga-Běchovice, al 
+que dictó la orden para el tren Os 8856 con el siguiente texto: «De Praga-Běchovice a 
+Praga-Libeň circula por la vía principal n.º 0. Las paradas de Praga-Kyje y 
+Praga-Dolní Počernice páselas sin detener. En el kilómetro 397,300 hasta 397,700 
+velocidad 30
 
 ## Página 51
+
 
 kilómetros por hora y la señal Aviso. En el kilómetro 397,600, deténgase para la evacuación de los pasajeros del tren 506." El jefe de maniobras del PPV transmitió posteriormente esta orden al maquinista del tren Os 8856. Además, el maquinista fue instruido telefónicamente por un empleado del CDP Praga de que el punto de detención para la evacuación se lo indicaría el jefe de intervención del HZS, quien previamente había confirmado telefónicamente este requerimiento al despachador de línea del CDP Praga.
 A las 17:33:38 h se estableció la vía de tren para el tren Os 8856 desde la 3.ª SK a la 0.ª TK. En cumplimiento de la señal del señalizador L3, el tren Os 8856 se puso en marcha. En lugar de detenerse en el kilómetro 397,600 ordenado, es decir, en el punto establecido por la instrucción del jefe de intervención del HZS, con quien había estado hablando por teléfono durante casi todo el trayecto, el maquinista continuó la marcha a través de la cabeza de estación hacia el extremo de la 0.ª SK, donde se detuvo en el espacio entre los señalizadores de agrupamiento Se6 y Se8.
 En cuanto el tren Os 8856 abandonó los enlaces de vía entre la 1.ª SK y la 0.ª SK, el despachador de línea del CDP estableció la vía de entrada para el tren Os 8853 desde la 1.ª TK a la 1.ª SK de la est. Praga-Běchovice. Cuando la composición del tren Os 8856 ya estaba detenida entre los señalizadores Se6 y Se8, el tren Os 8853 abandonó el circuito de vía de la aguja n.º 21. Inmediatamente después, el despachador de línea del CDP comenzó a establecer la vía de entrada para el tren R 989 desde la 1.ª TK a la 0.ª SK de la est. Praga-Běchovice. A las 17:38:02 h el tren R 989 se puso en marcha hacia la est. Praga-Běchovice. A las 17:38:21 h el maquinista del tren Os 8856 activó el mando en el otro extremo de la unidad "CityElefant". Posteriormente, este maquinista contactó a las 17:38:35 h con el despachador de línea del CDP solicitando el establecimiento de una vía de maniobra "al lado de ese Pendolino". El jefe de maniobras se negó a establecer la vía de maniobra y enfatizó en varias ocasiones que circulaba como tren, además le comunicó, entre otras cosas, "puedes ir como tren, puedes … puedes, donde quieras. Detente donde necesites" y "tienes para ello mi permiso y conformidad". Dicha conversación finalizó a las 17:39:09 h; dos segundos después, el maquinista puso la composición del tren Os 8856 en movimiento de regreso hacia el tren Ex 506 en forma de maniobra contra el señalizador Se6 con la señal Maniobra prohibida. Aproximadamente cinco segundos después (a las 17:39:16 h ± 1 s), el frente de la composición del tren Os 8856 fue adelantado por el frente del tren R 989, que circulaba por la vía contigua. Posteriormente, ambas composiciones circularon una al lado de la otra a velocidad similar (en el rango de 25–28 km·h-1).
 A las 17:39:25 h el frente del tren R 989 entró en las puntas de la aguja n.º 21, que estaba establecida en sentido de desviación, ya que la vía de tren del tren R 989 iba desde la 1.ª TK a la 0.ª SK. A las 17:39:34 h se registró el uso de la frenada de emergencia por parte del maquinista de la composición del tren Os 8856, quien según su declaración reaccionó al establecimiento incorrecto de la aguja n.º 19. Tres segundos después se produjo la colisión de los vehículos ferroviarios en el espacio de la aguja n.º 19 (que forma el enlace de vía entre la 1.ª y la 0.ª SK en pareja con la aguja n.º 21). En el tiempo comprendido entre las 17:39 h y las 17:40 h tuvo lugar todavía una breve conversación telefónica (8 segundos) del maquinista de la composición del tren Os 8856 con el jefe de intervención del HZS. La Inspección Ferroviaria no puede determinar su ubicación temporal exacta debido al redondeo del tiempo de la conversación hacia abajo a minutos completos. El maquinista del tren R 989 reaccionó a la situación utilizando la frenada de emergencia únicamente en cumplimiento de la señal Alto, deténgase por todos los medios, que le dio un empleado del HZS. El uso de la frenada de emergencia fue registrado por el dispositivo de registro del HDV del tren R 989 a las 17:39:56 h y este tren se detuvo a las 17:40:06 h.
 
-
 ## Página 52
 
-### 3.2.2 Secuencia de hechos desde la ocurrencia del suceso extraordinario hasta la finalización de las acciones de los servicios de rescate
+### 3.2.2 Secuencia de hechos desde la aparición del suceso anómalo hasta la finalización de las acciones de los servicios de rescate
 ## 10. 7. 2020
-• 17:40:15 h el jefe de intervención del HZS comunicó la ocurrencia del SE al jefe de despachadores del CDP;
-• 17:40:16 h el maquinista del tren Os 8856 comunicó la ocurrencia del SE al despachador de línea del CDP;
-• 17:42:31 h el despachador de línea preguntó al maquinista del tren R 989 sobre la situación;
-• 18:05:00 h la persona autorizada O18 de SŽ notificó la ocurrencia del SE en el COP DI;
-• 19:00:00 h los inspectores del DI iniciaron la inspección en la sala de tráfico 4B del CDP Praga;
-• 19:05:00 h los inspectores del DI iniciaron la inspección del lugar del SE;
-• 21:05:00 h el inspector del DI presente concedió la autorización para la liberación de la vía;
+• 17:40:15 h el jefe de intervención de HZS comunicó la aparición del SA al jefe de despacho de CDP;
+• 17:40:16 h el maquinista del tren Os 8856 comunicó la aparición del SA al despachador de vía de CDP;
+• 17:42:31 h el despachador de vía preguntó al maquinista del tren R 989 sobre la situación;
+• 18:05:00 h la persona autorizada O18 de SŽ notificó la aparición del SA en el COP DI;
+• 19:00:00 h los inspectores de DI iniciaron la inspección en la sala de circulación 4B de CDP Praga;
+• 19:05:00 h los inspectores de DI iniciaron la inspección del lugar del SA;
+• 21:05:00 h el inspector de DI presente concedió la autorización para liberar la vía;
 ## 11. 7. 2020
-• 07:10:00 h se restableció plenamente la circulación en el lugar del SE.
-El Plan de IZS se activó dada la naturaleza del SE. Dado que en dicho lugar se estaban eliminando las consecuencias de un SE anterior (colisión del tren Ex 506 con una persona), algunos componentes del IZS ya se encontraban en el lugar en el momento de la ocurrencia del SE.
-En el lugar del SE intervinieron los siguientes componentes del IZS:
-Policía de la República Checa;
+• 07:10:00 h se restableció plenamente la circulación en el lugar del SA.
+El plan de IZS se activó dada la naturaleza del SA. Dado que en dicho lugar se estaban eliminando las consecuencias de un SA anterior (colisión del tren Ex 506 con una persona), algunos componentes de IZS se encontraban en el lugar en el momento de la aparición del SA.
+En el lugar del SA intervinieron los siguientes componentes de IZS:
+Policía ČR;
 •
-Servicio Médico de Emergencias;
+Servicio de Emergencias Médicas;
 •
-Cuerpo de Bomberos de la República Checa;
+Cuerpo de Bomberos de rescate de ČR;
 •
-Cuerpo de Bomberos de SŽ.
+Cuerpo de Bomberos de rescate de SŽ.
 •
 ## 4 ANÁLISIS DEL SUCESO
 ### 4.1 Tareas y obligaciones
-### 4.1.1 Transportistas y gestores de infraestructura
-Správa železnic, en su condición de gestor de la infraestructura, estableció los procedimientos tecnológicos de organización, la forma de emitir y ejecutar instrucciones en la explotación de la infraestructura y del transporte ferroviario. Estos se encuentran contenidos principalmente en la norma interna SŽDC D1. Las disposiciones de la norma SŽDC D1 son asimismo vinculantes para el transportista, que está obligado a explotar el transporte ferroviario de acuerdo con las reglas de explotación del transporte ferroviario, la licencia vigente y el contrato celebrado con el gestor de la infraestructura sobre la explotación del transporte ferroviario en la infraestructura.
-Al SE en cuestión precedió en la est. Praga-Běchovice otro suceso extraordinario, la colisión del tren Ex 506 con una persona. La mencionada norma SŽDC D1 en el artículo 3247 establece en general que de los sucesos extraordinarios relativos a la explotación de la infraestructura se informa a los miembros del acompañamiento del tren mediante una orden escrita. Además, el artículo 3281 de la misma norma precisa que, aparte de los casos ordenados por disposiciones individuales de las normas para la explotación de la infraestructura y la organización del transporte ferroviario, se informa a los maquinistas mediante una orden escrita, p. ej., sobre circulaciones lentas, circulaciones lentas temporales y circulaciones lentas no señalizadas (letra g) del artículo), si es necesario advertir al maquinista de otros sucesos extraordinarios que conciernen a
-
+### 4.1.1 Transportistas y gestores de vías
+Správa železnic, en su condición de gestor de la vía, estableció los procedimientos tecnológicos de organización, de forma de impartición y de ejecución de instrucciones en la explotación de la vía y del transporte ferroviario. Estos se encuentran contenidos, en particular, en la norma interna SŽDC D1. Las disposiciones de la norma SŽDC D1 son asimismo vinculantes para el transportista, que está obligado a explotar el transporte ferroviario de acuerdo con las reglas de explotación del transporte ferroviario, la licencia vigente y el contrato celebrado con el gestor de la vía sobre la explotación del transporte ferroviario en la vía.
+A la aparición del SA en cuestión precedió otra situación anómala en la est. Praha-Běchovice, la colisión del tren Ex 506 con una persona. La mencionada norma SŽDC D1 establece en el artículo 3247, con carácter general, que sobre las situaciones anómalas relativas a la explotación de la vía se informa a los miembros de la dotación del tren mediante una orden escrita. Asimismo, se precisa en el artículo 3281 de la misma norma que, aparte de los casos ordenados por disposiciones individuales de las normas de explotación de la vía y de organización del transporte ferroviario, se informa a los maquinistas mediante una orden escrita, p. ej., sobre las marchas lentas, las marchas lentas temporales y las marchas lentas no señalizadas (letra g) del artículo), si es necesario advertir al maquinista sobre otras situaciones anómalas que conciernen a
 
 ## Página 53
+
 
 su circulación (letra i) del artículo), así como sobre la supresión de la parada del tren para el ascenso y descenso de pasajeros en la estación o en la parada debido a la circulación por un itinerario alternativo (letra l) del artículo).
 Puede afirmarse en general que los maquinistas fueron informados de este (anterior) suceso extraordinario por los despachadores de línea del CDP Praga. La comunicación estaba dividida de modo que los trenes que llegaban a la est. Praga-Běchovice desde la est. Úvaly debían ser informados por el despachador de línea que controlaba la est. Praga-Běchovice. Los trenes que llegaban desde la est. Praga-Libeň debían ser informados por el despachador de línea que controlaba la est. Praga-Libeň. Sin embargo, ambos despachadores, probablemente con el fin de una explotación más rápida, no informaban a los trenes mediante una orden escrita, salvo que el maquinista lo solicitara expresamente, como ocurrió en el caso del tren implicado Os 8856. En los registros del dispositivo ReDat de los que dispone la Inspección Ferroviaria, en el tiempo desde las 16:30 h hasta la ocurrencia del SE en cuestión (17:39 h) se registraron un total de 11 llamadas telefónicas del despachador de línea implicado con los maquinistas, en las que solo les comunicaba lo que iba a suceder, pero no les informaba mediante ninguna orden. El único que en el mencionado período de tiempo se opuso a este procedimiento y exigió al despachador de línea una orden fue el maquinista implicado del tren Os 8856. Uno de los trenes no informados mediante orden fue también el tren de entrada implicado R 989, cuyo maquinista contactó el despachador de línea del CDP para la est. Praga-Libeň.
 Al jefe de despachadores del CDP se le preguntó, en relación con las deficiencias detectadas en la información a los trenes mediante órdenes, si era habitual en el CDP Praga que para la circulación lenta y la señal Aviso se emitiera al maquinista solo una instrucción verbal y no se les emitieran órdenes. Respondió: "No, está excluido, reciben la orden V o Pv." Una pregunta similar se formuló también al despachador de línea implicado del CDP, quien participó él mismo en la mencionada notificación simplificada a los maquinistas. Respondió que en una situación de apremio puede ocurrir, pero que no es habitual. Además, refirió que los maquinistas a veces no tienen en el puesto de mando los formularios para la orden Pv. La primera parte de la respuesta del despachador de línea del CDP debe confrontarse con las mencionadas más arriba registros de conversaciones del dispositivo ReDat, donde en 11 llamadas telefónicas comunicaba a diversos maquinistas lo que iba a suceder, sin redactar una orden, pero también con la comunicación concreta en una de las conversaciones registradas, cuya transcripción se indica en el capítulo 3.1.9 de esta ZZ, donde él mismo a la pregunta del jefe de maniobras del PPV de la est. Praga-Běchovice sobre la información a otros trenes respondió que se "pondría de acuerdo" con ellos y que el maquinista del tren Os 8856 "fue precavido". La afirmación de la segunda parte de la respuesta del despachador de línea del CDP sobre la ausencia del formulario de la orden Pv en el puesto del maquinista puede, por el contrario, respaldar la declaración del maquinista del tren Os 8856, quien a la pregunta de si había disponibles en el puesto del jefe de DV del tren Os 8856 formularios en papel de la orden Pv, respondió que no estaban en el puesto del jefe de DV del tren y, entre otras cosas, por este motivo propuso que sería más apropiado redactar la orden V por el jefe de maniobras del PPV. El propio equipamiento del HDV con formularios de la orden Pv lo regula el artículo 3325 de SŽDC D1, que establece que el juego de órdenes Pv debe estar almacenado en cada vehículo motriz activo o preparado para el servicio (SHV) que circule por la línea. Según el art. 32 de la misma norma, se considera vehículo motriz también el coche de mando, si desde él se controla la circulación del tren. Esto resuelve adecuadamente la situación en la que el tren está compuesto por un HDV y un coche de mando. Sin embargo, el problema surge en el caso en que el HDV y el coche de mando, o bien 2 HDV, forman parte de una composición que en explotación no es desacoplable – las unidades. La unidad es, según el artículo 26 de SŽDC D1, considerada un solo vehículo motriz. De conformidad con la norma SŽDC D1 sería correcto, por tanto, que en la unidad "CityElefant" (es decir, vehículo motriz según SŽDC D1) que formaba el tren Os 8856, los formularios de la orden Pv estuvieran almacenados solo en el puesto remoto de su otro extremo. Por muy incómoda que sea para los despachadores de línea la situación en la que el maquinista puede tener los formularios de la orden en el otro lado de la unidad, cabe añadir que el despachador de línea implicado del CDP no sabía si los maquinistas tenían disponibles los formularios de la orden Pv.
 
 ## Página 54
+
 
 En efecto, en ninguna de las conversaciones registradas, el despachador de vía CDP instó por iniciativa propia al maquinista a redactar la orden Pv, e inmediatamente transmitía la información mediante una simple comunicación, lo que los maquinistas aceptaron, con la excepción del maquinista del tren Os 8856. La afirmación del jefe de despachadores de CDP de que la situación de la simple información telefónica queda excluida y que los maquinistas son informados mediante la orden V o Pv, puede rechazarse también en relación con los hallazgos de la Inspección Ferroviaria (Drážní inspekce) durante la investigación de la incidencia extraordinaria que ocurrió cuatro días después, el 14. 7. 2020, entre las estaciones de ferrocarril Úvaly y Český Brod. También aquí, la Inspección Ferroviaria constató deficiencias en la información de los trenes en la vía gestionada a distancia, aparte de la relación causal.
 Un papel fundamental en el suceso de la incidencia extraordinaria en cuestión lo desempeñó el malentendido de varios empleados implicados. El maquinista del tren Os 8856, tras recibir la orden del despachador de vía CDP, fue instruido para comunicarse con el jefe de intervención del HZS (Cuerpo de Bomberos), quien debía mostrarle al maquinista el lugar de detención del tren para los fines de la evacuación (aunque la orden establecía un lugar concreto de detención en el km 397,600). Con él mantuvo casi durante todo el trayecto desde el andén contacto telefónico, por lo que no se produjo la detención del tren Os 8856 en el kilómetro 397,600 para la evacuación de los pasajeros del tren Ex 506.
@@ -1630,12 +1680,14 @@ El maquinista del tren Os 8856 podría, en relación con la disposición del art
 
 ## Página 55
 
+
 con el despachador de vía CDP solicitando permiso para la maniobra y, ni siquiera después de ser interrumpido por el despachador de vía, se transmitió la información fundamental de que el siguiente movimiento lo planeaba en dirección opuesta y, en su caso, por qué. El maquinista del tren Os 8856, por tanto, no cumplió la disposición del art. 3975 SŽDC D1. Si actuó de acuerdo con las disposiciones aplicables a las maniobras y cumplió el mencionado art. 3974 SŽDC D1, se analiza detalladamente más abajo.
 El despachador de vía, en la conversación de la que ya se ha citado más arriba y cuya transcripción se encuentra en el capítulo 3.1.9 de esta ZZ, continuó con las frases: «Bueno, ya ves, sin problema, sin problema. Si quieres, detente realmente donde necesites. ¿Sí? … Tienes mi permiso y conformidad para ello, tienes mi permiso y conformidad para ello. ¿Sí?» Como ya se ha indicado, todo esto lo decía el despachador de vía CDP en un momento en que no sospechaba que el maquinista del tren Os 8856 estaba preparado en la cabecera opuesta de la unidad para maniobrar de vuelta hacia el tren Ex 506. Según su declaración, el despachador de vía CDP evaluó la situación de que ya se había evacuado la parte trasera del tren Ex 506 y que ahora procedería la evacuación de la parte delantera del Ex 506 (por mucho que la situación en el esquema JOP no correspondiera a ello).
 Mientras el despachador de vía CDP organizaba la marcha del tren, que según sus palabras «solo puede ir hacia adelante», o sea, según la definición de tren en el § 1 letra k) del decreto nº 173/1995 Sb., ir según el horario o según la instrucción de la persona cualificada que dirige el tráfico ferroviario, el maquinista del tren Os 8856, en atención a la marcación de la unidad eléctrica con señales de maniobra (en ambos extremos) y también según su declaración en el acta con el empleado, consideró la marcha hacia atrás como maniobra. Al maquinista del tren Os 8856 también se le preguntó posteriormente, en el marco del acta con el empleado, si sabía qué es, según el reglamento SŽDC D1, el permiso para maniobrar, cuáles son sus requisitos y de qué es necesario informar al jefe de estación (despachador de vía) para que pueda concedérselo. A esta pregunta respondió: «Sí, lo sé. Soy consciente de que no todo se ha dicho según el reglamento SŽDC D1.»
 El artículo 1648 SŽDC D1, en relación con el § 1 letra n) del decreto nº 173/1995 Sb., define que por maniobra se entiende toda marcha de vehículos realizada intencionada y organizadamente, salvo que se trate de la marcha de un tren o de una maniobra entre estaciones. Aunque el maquinista del tren Os 8856 valoró la situación de otra manera, en el momento del origen de la incidencia extraordinaria (MU) no se trataba de una marcha organizada de vehículos ferroviarios. La composición que circulaba hacia atrás como tren Os 8856 tampoco podía serlo, pues en el momento del origen de la MU no circulaba según el horario de este tren (ni siquiera en la misma dirección, y la marcha hacia atrás de un tren solo se admite al regreso del tren desde la vía, lo que no es este caso). La composición tampoco circulaba según la instrucción de la persona cualificada que dirige el tráfico ferroviario, y por tanto no se cumplía la definición de tren según el § 1 letra k) del decreto nº 173/1995 Sb. (análogamente la definición según el art. 29 SŽDC D1). Por ello, desde el momento en que se inició la marcha hacia atrás, en esta ZZ se designa la unidad «CityElefant» como «composición del tren Os 8856». Al maquinista del tren Os 8856 se le confronta, en virtud de su afirmación de que maniobraba, con el hecho de que él mismo no actuó como habría debido en una maniobra hipotética, ya que antes de iniciar la maniobra no informó al despachador de vía CDP sobre la tecnología de maniobra solicitada plenamente de acuerdo con el art. 1744 SŽDC D1 (fue interrumpido durante la transmisión de la información sobre en qué vías tenía la intención de realizar la maniobra), y en contra de lo dispuesto en el art. 1687 SŽDC D1 puso en movimiento el «tramo de maniobras» sin haber recibido del jefe de estación el permiso para maniobrar según el art. 1692 SŽDC D1. Tampoco contaba con la conformidad debida según el art. 1746 SŽDC D1. En este caso, habría de tratarse, atendiendo a la circulación junto a la señal Se6 con la indicación Maniobra prohibida, de una conformidad dada por el dispositivo de radio según el art. 1714 letra c) SŽDC D1, y el despachador de vía CDP habría tenido que utilizar la fórmula verbal vinculante: «La señal Se6 no se opera, tren 8856 en Běchovice desde la cabecera de la vía cero a la vía cero de estación, maniobra permitida.» Con la circulación junto a la señal Se6 con la indicación Maniobra prohibida, sin que se hubiera pronunciado la fórmula verbal mencionada, el maquinista infringió también los arts. 1545 y 1753 letra a) SŽDC D1, por los que se le imponía cumplir las instrucciones dadas por las señales de los aparatos de señalización fijos
 
 ## Página 56
+
 
 aplicables a las maniobras. A la vez, no puede afirmarse que el maquinista del tren Os 8856, antes de poner los vehículos en movimiento, no comprobara si para la circulación prevista los aparatos de señalización fijos aplicables a las maniobras permitían la maniobra en el sentido del art. 1750 SŽDC D1, pero fue su error fundamental el conformarse, en lugar de con la fórmula verbal vinculante según el art. 1714 del mismo reglamento, con la afirmación del despachador de vía CDP: «No te daré la blanca, ¿sabes? Ve como tren, no eres como maniobra. ¿Sí?» Posteriormente puso conscientemente la composición del tren Os 8856 en movimiento contra la señal Se6 con la indicación Maniobra prohibida, considerando permitida la circulación contra una señal con dicho indicativo. Al poner los DV en movimiento en contra de las disposiciones aplicables a las maniobras (véase más arriba), tampoco cumplió el mencionado art. 3974 SŽDC D1. El maquinista, además, en general no actuó según el art. 23 letra k) del reglamento ČD V2, que le impone el deber de atender a todas las órdenes y disposiciones contenidas en las disposiciones de los reglamentos, en los decretos y en las órdenes. Con ello, el transportista no cumplió la disposición del § 35 apartado 1 letra h) del decreto nº 173/1995 Sb., y por tanto tampoco el § 35 apartado 1 letra g) de la ley nº 266/1994 Sb.
 Lo anterior es suficiente para determinar la causa del origen de la incidencia extraordinaria. La Inspección Ferroviaria, sin embargo, en su investigación aborda también las circunstancias, es decir, los factores contribuyentes.
@@ -1647,6 +1699,7 @@ Esta intención la tenía el maquinista del tren Os 8856 en la frase: «Saludos,
 
 ## Página 57
 
+
 En las comunicaciones no se descartó por parte de él un posible malentendido (véase más arriba y las transcripciones de las conversaciones en el punto 3.1.9 de la presente ZZ). El maquinista, antes de ser interrumpido, daba al despachista de línea una instrucción en forma de su solicitud de realizar una maniobra de maniobras. No comunicó la información concreta de que se había detenido en la cabecera, de que la evacuación aún no se había llevado a cabo y de que para llevarla a cabo sería necesario circular en sentido contrario (y por tanto, precisamente por eso, solicitaba la maniobra de maniobras). El despachista de línea no admitía la maniobra de maniobras y seguía considerando únicamente la circulación del tren, no la circulación del tramo de maniobras. El maquinista tampoco, en el resto de la conversación, comunicó al despachista de línea la información fundamental de que deseaba maniobrar de vuelta desde la cabecera, es decir, en sentido contrario.
 La forma de dirigir la comunicación entre el maquinista del tren Os 8856 y el despachista de línea CDP condujo, por tanto, a un malentendido fundamental, como demuestran no solo sus distintas declaraciones en los registros con el empleado, sino, sobre todo, su actuación, ya que, tras finalizar esta conversación, el maquinista del tren Os 8856 actuó de manera diametralmente opuesta a lo que suponía el despachista de línea. También en este caso no se cumplió la obligación derivada de lo dispuesto en el apartado 5 del § 14 del decreto nº 173/1995 Sb., de que las instrucciones impartidas durante la dirección del tráfico deben ser breves y comprensibles y no deben poner en peligro la seguridad del transporte ferroviario.
 Además de la propia forma de dirigir la comunicación, pudo contribuir a la aparición del mencionado malentendido la confusión de términos, o el uso de términos similares en diferentes situaciones. En efecto, en la continuación de la misma conversación, el despachista de línea comunicó repetidamente al maquinista del tren Os 8856: «tienes mi permiso y consentimiento para ello». Ante la pregunta de si era consciente de que los términos «permiso» y «consentimiento» se utilizan, entre otros casos, en las maniobras de maniobras, el despachista de línea CDP respondió en el registro con el empleado: «Sí, pero no se utilizan solo en las maniobras de maniobras y yo no autoricé la circulación junto a una señal no atendida. El permiso y el consentimiento no contenían los requisitos reglamentarios para las maniobras de maniobras». El despachista de línea CDP, en primer lugar, en esa misma conversación, insistía en que el Os 8856 no era un tramo de maniobras, sino un tren, de modo que el «permiso y consentimiento» no podía ser «permiso para maniobrar» y «consentimiento para maniobrar». Su comentario «el permiso y el consentimiento no contenían los requisitos reglamentarios para las maniobras de maniobras» es, si bien cierto, y la actuación posterior del maquinista, cuando se conformó con un «permiso» y un «consentimiento» de este tipo y puso en marcha la marcha hacia atrás, constituye una infracción fundamental del maquinista, sin embargo, la forma de comunicación por parte del despachista de línea tampoco puede considerarse reglamentaria, es decir, que excluya cualquier malentendido.
@@ -1654,8 +1707,8 @@ En este punto es necesario constatar que la Inspección Ferroviaria detecta un p
 Si aplicamos estas prácticas operativas relacionadas con la concertación de la maniobra de maniobras a la situación en la que se encontraba el maquinista del tren Os 8856 durante la conversación con el despachador CDP justo antes de la aparición del suceso excepcional (MU), es necesario ver en el procedimiento incorrecto de este maquinista un ejemplo de una práctica incorrecta que es habitual en la organización de las maniobras de maniobras en la red SŽ.
 Un problema similar, en el que el carácter de la explotación lleva a simplificar lo establecido, podemos observarlo también en la cuestión analizada más arriba relativa a la (no) realización de la instrucción de los trenes mediante órdenes. En este caso desempeña un papel la acumulación del trabajo de varios empleados en un solo puesto de trabajo, lo que supone una mayor carga para cada empleado individual y, en combinación con la mayor intensidad de la explotación en los últimos años, conlleva con cada incidencia
 
-
 ## Página 58
+
 
 operativa una mayor carga para el individuo de la que era habitual en el ferrocarril anteriormente. Pues, aunque tanto el carácter de la explotación como las posibilidades de la tecnología han experimentado cambios, algunas disposiciones reglamentarias permanecen más o menos inmutables. Desde la perspectiva de la Inspección Ferroviaria, aquí existe margen para considerar el uso de tecnologías modernas que, más allá de los métodos actuales, permitieran la instrucción de los trenes sin contacto personal mediante el uso de la comunicación de datos (por ejemplo, en una aplicación móvil que garantice la recepción de la orden y la confirmación de haberse familiarizado con la misma). En efecto, a raíz de la comunicación de datos se plantea también la posibilidad de aprovechar sus demás beneficios, por ejemplo, avisos sobre hechos relevantes en función de la posición actual del tren o del PMD.
 ### Hallazgos:
@@ -1679,8 +1732,8 @@ Las disposiciones de este reglamento aplicables a las maniobras de maniobras rel
 «El permiso para las maniobras de maniobras es el conjunto de información necesaria para la realización segura de las maniobras de maniobras. En las estaciones con maniobras de maniobras permanentes, el permiso para las maniobras de maniobras puede sustituirse por las instrucciones indicadas en el ZDD. Sin el permiso concedido no se puede iniciar la maniobra de maniobras. …»;
 ◦ art. 1692 SŽDC D1:
 
-
 ## Página 59
+
 
 «En los carriles destinados a la circulación de trenes solo se puede maniobrar con el permiso del jefe de estación. El jefe de estación solo puede dar el permiso para las maniobras de maniobras cuando conozca el operador ferroviario que va a maniobrar, la tecnología de maniobra de maniobras requerida por el operador ferroviario y la tracción (es decir, eléctrica, diésel, vapor) de todos los vehículos de tracción activos incluidos en el tramo de maniobras.
 Con este permiso, el jefe de estación comunicará al empleado que dirige la maniobra de maniobras o al jefe de la cuadrilla de maniobras, si está encargado de la concertación de la maniobras de maniobras, y a los cambiavías, en cuyo ámbito de maniobras se va a maniobrar:
@@ -1696,8 +1749,8 @@ Con este permiso, el jefe de estación advertirá al empleado que dirige la mani
 «Si el cambiavías no ha dado el consentimiento para las maniobras de maniobras al empleado que dirige la maniobra de maniobras directamente o a través del jefe de la cuadrilla de maniobras, en la maniobra de maniobras con cuadrilla de maniobras, el empleado que dirige la maniobra de maniobras no puede iniciar la maniobra de maniobras en el ámbito de maniobras del cambiavías.»;
 ◦ art. 1753 letra a) SŽDC D1:
 
-
 ## Página 60
+
 
 «El maquinista (incluso en el caso de que, de acuerdo con las disposiciones de este reglamento, no sea el empleado que dirige la maniobra de maniobras) está obligado durante la maniobra de maniobras a:
 a) cumplir las instrucciones dadas por las señales de los aparatos de señalización fijos aplicables a las maniobras de maniobras;»;
@@ -1732,6 +1785,7 @@ En la investigación se detectó la infracción de la normativa legal y de las n
 
 ## Página 61
 
+
 art. 3247 SŽDC D1:
 •
 "De las anomalías relativas a la explotación de la vía, se informa a los miembros de la escolta del tren mediante una orden escrita. …";
@@ -1750,8 +1804,8 @@ La autoridad nacional de seguridad es la Oficina de Ferrocarriles (Drážní ú�
 La función de la Agencia Ferroviaria de la Unión Europea es, además de garantizar, en el marco de sus competencias, que se mantenga y, en la medida de lo posible, se aumente sistemáticamente la seguridad de los ferrocarriles, entre otras, la emisión, renovación, suspensión y modificación de certificados únicos de seguridad, la limitación de su validez o su anulación, en cuestión en la que colabora con las autoridades nacionales de seguridad; además, emite autorizaciones para la comercialización de vehículos ferroviarios y de tipos de vehículos y está facultada para renovar, modificar, suspender o retirar las autorizaciones que haya emitido. La Agencia evalúa asimismo los proyectos de normativa nacional, etc.
 En la investigación no se detectó infracción de las funciones y obligaciones de la autoridad nacional de seguridad y de la Agencia Ferroviaria de la Unión Europea.
 
-
 ## Página 62
+
 
 ### 4.1.5 Entidades notificadas, entidades designadas y entidades dedicadas a la evaluación de riesgos
 En la investigación no se detectó infracción de las funciones y obligaciones de las entidades notificadas, las entidades designadas y las entidades dedicadas a la evaluación de riesgos.
@@ -1773,8 +1827,8 @@ En la investigación no se detectaron factores relacionados con la entidad respo
 4.2.6 Otros factores o consecuencias que se consideren relevantes a efectos de la investigación
 En la investigación no se detectaron otros factores relacionados con los vehículos ferroviarios, la infraestructura ferroviaria o las instalaciones técnicas.
 
-
 ## Página 63
+
 
 ### 4.3 Factores humanos
 ### 4.3.1 Características humanas e individuales
@@ -1792,8 +1846,8 @@ El § 22 apartado 1 letra c) de la Ley n.º 266/1994 Sb. establece la obligació
 En el momento de la ocurrencia de la anomalía (MU) en cuestión no estaba profesionalmente cualificado. A la Inspección Ferroviaria le fueron remitidos por el empleador únicamente, en primer lugar, los documentos de reexamen de la persona en el sentido del trabajo profesional del empleado del HZS. Sin embargo, los jefes de intervención del HZS SŽ tienen prescrita por el empleador la cualificación profesional y los conocimientos en la explotación de la vía y del tráfico ferroviario que incluyen, por ejemplo, artículos seleccionados de la norma SŽDC D1, que deben conocer para casos como el de la anomalía en cuestión, en la que se encomendó al jefe de intervención del HZS SŽ detener el tren Os 8856 en un lugar concreto con el fin de la evacuación. Para ello necesitaba conocer, por ejemplo, la señal manual "Alto" (Stůj) definida en el art. 1076 SŽDC D1.
 Los requisitos concretos y las normas para la obtención, el mantenimiento y la verificación de la cualificación profesional de los empleados de la Administración de Infraestructura Ferroviaria (Správa železnic) los establecía la norma SŽDC Zam1. La cualificación profesional y los conocimientos se adquirían de acuerdo con las normas y en el alcance de los requisitos establecidos por dicha norma (art. 3 de la parte segunda, capítulo I de SŽDC Zam 1). Los requisitos para el examen y para la actividad laboral de mando en la intervención se establecían, de acuerdo con el artículo 2 de la parte cuarta, capítulo I de SŽDC Zam1, mediante el programa de cualificación profesional. Para el examen complementario ND-HZS (mando en la intervención) estaba vigente en el momento de la ocurrencia de la MU la tabla E.6.40. Para superar dicho examen la persona debía cumplir los criterios en forma de cualificación electrotécnica de persona instruida de acuerdo con el decreto n.º 100/1995 Sb. y de cualificación profesional básica en forma de la formación inicial VŠ-01. La Inspección Ferroviaria, con referencia a la norma SŽDC Zam1, solicitó al HZS SŽ la remisión de los documentos de cualificación profesional de acuerdo con las disposiciones de dicha norma. Esto, sin embargo, no llegó a producirse, porque el jefe de intervención del HZS SŽ implicado no tenía los exámenes prescritos, como se desprende de la respuesta:
 
-
 ## Página 64
+
 
 "El examen complementario ND-HZS (mando en la intervención) de acuerdo con la norma Zam1 deben tenerlo los empleados del HZS que desempeñan la actividad de mando en la intervención (jefe de intervención). Este examen, sin embargo, no permite al titular dirigir el tráfico ferroviario de ninguna manera (debería ser al menos un examen de maniobras); todos los asuntos llamados 'de circulación' para la circulación del tren o para las maniobras debe resolverlos el maquinista con el jefe de estación o con el jefe de circulación. El jefe de intervención se comunica directamente con el jefe de estación o con el jefe de circulación, principalmente sobre la detención de la circulación o, en su caso, sobre la reanudación de la circulación con marcha lenta por la vía lateral en determinadas condiciones, etc. El jefe de intervención puede solicitar, por ejemplo, al maquinista que mueva la composición unos metros, de modo que se pueda realizar el trayecto más corto para el trasbordo de los pasajeros a la composición de sustitución; el maquinista, sin embargo, debe decir si es posible o no y acordar la posibilidad de la solución de la evacuación de los pasajeros.
 En la actualidad, los jefes de intervención del Cuerpo de Bomberos y Socorro de la Administración de Infraestructura Ferroviaria, organización estatal, tienen la cualificación profesional de dirección táctica o dirección táctico-estratégica en el marco de la formación profesional y la aptitud de acuerdo con las normas de protección contra incendios.
@@ -1805,6 +1859,7 @@ Por parte de la Administración de Infraestructura Ferroviaria se respondió: "E
 El jefe de intervención del HZS de la Administración de Infraestructura Ferroviaria, con el examen ND-HZS, puede en general realizar actividades que puedan calificarse como explotación de la vía, por ejemplo, dar instrucciones para la detención de un vehículo ferroviario mediante la señalización del lugar de detención debido a la evacuación de personas del tren."
 
 ## Página 65
+
 
 El jefe de intervención no tenía superado el examen profesional exigido por la normativa SŽDC Zam1, por lo que el operador ferroviario no cumplía íntegramente lo dispuesto en el apartado 1, letra c), del artículo 22 de la Ley n.º 266/1994 Sb.
 En relación con la mencionada UE y con la autorización del jefe de intervención de HZS SŽ para detener el tren en un lugar concreto, podría haber sido relevante si el jefe de intervención hubiera tenido cualquier otro examen profesional que incluyera esta actividad. No obstante, el operador ferroviario tampoco acreditó el cumplimiento de dicho otro examen profesional.
@@ -1835,8 +1890,8 @@ Durante la circulación del R 989, según su declaración en el registro con el 
 Tuvo 13 h y 12 min de descanso antes del turno. Según su declaración en el registro con el empleado, inició el turno descansado, sobrio y sin estrés psíquico o físico.
 Durante el turno tuvo dos periodos de descanso y comida de media hora. Durante la circulación del tren Os 8856, según su declaración en el registro con el empleado, se sintió descansado.
 
-
 ## Página 66
+
 
 ### Jefe de circulación de CDP:
 Según el cuadrante, debió tener 24 h de descanso antes del turno, pero en la práctica pudo ser menor. Según su declaración en el registro con el empleado, inició el turno el 10 de julio de 2020 a las 16:40 h, sano y descansado. Sin embargo, según el horario de turnos, el inicio debía ser a las 18:30 h. Durante el turno, según su declaración en el registro con el empleado, estuvo sin estrés ni otras molestias.
@@ -1852,8 +1907,8 @@ Gran cantidad de empleados implicados, poca información sobre la colisión del 
 Para la ilustración del desarrollo del accidente fueron absolutamente fundamentales las grabaciones de las comunicaciones del dispositivo ReDat. Las transcripciones de las grabaciones seleccionadas se encuentran en el capítulo 3.1.9 de la presente II.
 La selección del tren Os 8856 como tren de evacuación se acordó entre los empleados de CDP Praga y del despacho de red de ČD. De las grabaciones se desprende que la selección del tren de evacuación la resolvieron de forma independiente dos despachos de red de ČD y dos empleados de CDP (el despacho de explotación PD3 y el jefe de despacho). De ambas conversaciones se concluyó que para la evacuación del tren Ex 506 serviría el tren Os 8856. Al maquinista de dicho tren se le informó telefónicamente de este hecho por primera vez a las 17:03:50 h por el despacho de red de ČD y, tras la parada en la estación de Praga-Běchovice, a las 17:14:27 h también le llamó el jefe de circulación de CDP con información similar. El maquinista quería ser informado de la actuación por el jefe de circulación de CDP mediante una orden, lo cual era obligación del jefe de circulación. En respuesta a la solicitud del maquinista del tren Os 8856, el jefe de circulación de CDP le propuso dictarle la orden Pv, a lo que el maquinista respondió pidiéndole que se lo comunicara por escrito el jefe de estación de PPV, que se encontraba presente en la estación de ferrocarril en cuestión. Ante ello, el jefe de circulación de CDP intentó convencerle, en interés de resolver la situación rápidamente: "¡Jesús, eso va a tardar, ¿sabes cuánto va a tardar? Ahí hay una oportunidad terrible para
 
-
 ## Página 67
+
 
 entrar ahí…" A continuación, el jefe de circulación comunicó con énfasis: "Vale, vale. Entonces estaremos aquí veinte minutos y luego eso. Yo lo resolveré, yo lo resolveré así, ¿vale?" y admitió: "No conozco los kilómetros, yo no conozco los kilómetros de la colisión, ¿sabes?, yo no conozco los kilómetros ni de la colisión, ¿sabes? Así que es difícil, ¿no?". Sin embargo, el maquinista insistió en la entrega de la orden por escrito con las palabras: "Yo lo hago también, también por ustedes, ¿no?". A la pregunta formulada durante el registro con el maquinista del tren Os 8856 sobre si había formularios en papel de la orden Pv disponibles en el puesto de conducción del tren Os 8856, respondió que no estaban en el puesto de conducción del tren y, entre otros motivos, por esta razón propuso que sería más conveniente redactar la orden V por el jefe de estación de PPV.
 A continuación, el jefe de circulación de CDP comenzó a indagar ante el jefe de intervención de HZS SŽ la posición kilométrica del tren Ex 506 para poder formular la orden. En la conversación telefónica con él, entre otras cuestiones, mencionó al jefe de intervención: "Y además, cuando ese tren de pasajeros salga hacia la vía cero, ¿va a bloquear de alguna manera ahí, vale… No sé, va a estar ahí… Va a bloquear los desvíos, ¿verdad?, ¿o no?". No obtuvo respuesta a esta pregunta, no obstante, es una prueba importante sobre el razonamiento de este jefe de circulación, que también más tarde, en su declaración, se expresó en el sentido de la intención de evacuar el tren Ex 506 al tren Os 8856 en el espacio de los enlaces de vía. El jefe de intervención solo respondió en la conversación que el último vagón del tren "Pendolino" se encontraba en el kilómetro 397,6. Dicha posición, sin embargo, estaba referida al señalizador más cercano (según la medición de la Inspección Ferroviaria, el final del tren Ex 506 se encontraba en el kilómetro 397,623 y el inicio del tren estaba en el kilómetro 397,771). A partir de este dato proporcionado por el jefe de intervención de HZS SŽ, el jefe de circulación de CDP formuló la orden, que con el texto: "De Praga-Běchovice a Praga-Libeň circula por la vía cero. Pase las paradas Praga-Kyje y Praga-Dolní Počernice. En el kilómetro 397,300 hasta 397,700 velocidad 30 kilómetros por hora y señal Precaución. En el kilómetro 397,600 deténgase para la evacuación de pasajeros del tren 506." dictó al jefe de estación de PPV de la estación de Praga-Běchovice. De la forma en que el jefe de circulación de CDP formuló la orden se desprende que probablemente consideró el kilómetro 397,600 como la posición kilométrica del inicio del tren Ex 506 ("Pendolino"), con el objetivo de detener ambos trenes con los inicios uno al lado del otro y, además, añadir 100 m de marcha lenta antes y después del tren Ex 506. En su lugar, como lugar de parada del inicio del tren Os 8856, determinó por orden la posición kilométrica del final del tren Ex 506 y finalizó la marcha lenta 100 m más allá, es decir, aún en el lugar donde se encontraba la composición del tren Ex 506 de 148 m de longitud. De hecho, de respetarse el lugar de parada determinado por la orden, las composiciones de los trenes ni siquiera habrían quedado una al lado de la otra, lo que supondría una distancia de acceso innecesariamente mayor para los pasajeros evacuados.
@@ -1861,6 +1916,7 @@ Antes de la salida del tren Os 8856, el jefe de circulación de CDP contactó co
 Tras informar al maquinista del tren de evacuación, el jefe de circulación de CDP contactó telefónicamente con el jefe de intervención de HZS SŽ, al que le mencionó: "Entonces escuche, señor jefe, aquí Běchovice, jefe de circulación de CDP. En cinco minutos probablemente saldrá de Běchovice desde la tercera vía ese tren hacia la cero. El Panťák. Es un Panťák doble. Hacia Praga. Y le he dicho que le mostrará dónde detenerse, ¿vale? Que estará ahí esperando y que le dará alguna señal de dónde debe detenerse, ¿vale?". Sobre la cuestión de la instrucción para la parada, el jefe de intervención confirmó con las palabras: "Seguramente, seguramente. Vale." El jefe de circulación de CDP comunicó al jefe de intervención, entre otras cosas, la información errónea de que el tren Os 8856 es
 
 ## Página 68
+
 
 „doble pantógrafo“, es decir, está compuesto por dos unidades eléctricas unidas „CityElefant“. 
 Eso no era cierto ese día: el tren estaba formado únicamente por una unidad eléctrica 
@@ -1872,10 +1928,10 @@ La establecimiento de esta vía de tren se produjo a las 17:33:38 h y el tren Os
 km·h-1), sino que continuó la marcha del tren por los enlaces de vía hasta el ámbito de la cabecera 0. SK, donde se detuvo entre el par de señales de maniobras Se6 y Se8 a las 17:36:29 h y a continuación a las 17:36:43 h apagó el mando del HDV 471. El tiempo de marcha del tren Os 8856 desde la 3. SK hasta la cabecera 0. SK fue de 17:34:02 h a 17:36:29 h, es decir, 2 minutos y 27 segundos. La llamada del maquinista del tren Os 8856 al jefe de intervención HZS SŽ comenzó en un momento entre las 17:34 h y las 17:35 h (su ubicación temporal exacta, debido al redondeo del tiempo de la llamada hacia abajo a minutos completos, no puede determinarla la Inspección Ferroviaria) y duró 2 minutos y 15 segundos. Puede deducirse, por tanto, que durante casi todo el trayecto hacia la cabecera 0. SK, el maquinista del tren Os 8856 y el jefe de intervención HZS SŽ estuvieron comunicándose.
 Poco después de liberarse el circuito de vía de los desvíos n.º 17 y 18 por el paso del tren Os 8856, el despachador de línea CDP introdujo a las 17:36:07 h la vía de tren para el tren Os 8853 desde la señal 1S a la 1. SK. Sobre esta maniobra, el despachador de línea CDP se pronunció en la declaración con el empleado tras el suceso excepcional: «Observaba en el esquema de la estación la salida del tren Os 8856 y tuve la impresión de que se había detenido en el punto acordado, es decir, en el par de desvíos 121/15. Tras un momento continuó y liberó toda la cabecera de salida, lo que consideré como la finalización de la evacuación. Según mi estimación, la detención del tren fue de unos 2 minutos. No sabía el número de personas evacuadas, por lo que adquirí la impresión de que la evacuación de personas estaba finalizada. A continuación establecí la vía de tren para el tren Os 8853 desde la 1. TK a la 1. SK.» En cuanto el tren Os 8853, que entraba en la 1. SK, liberó a las 17:37:35 h el circuito de vía del desvío n.º 21, el despachador de línea CDP introdujo a las 17:37:37 h la vía de tren para el tren R 989 desde la señal 1S 
 a la 0. SK. A las 17:38:02 h el tren R 989 se puso en movimiento en dirección a la est. Praha-Běchovice.
-A las 17:38:21 h el maquinista del tren Os 8856 completó el traslado al puesto de conducción en el extremo opuesto de la unidad „CityElefant“ en el coche de mando 971, momento en el que se registró la activación del mando en el puesto del coche de mando. A continuación, a las 17:38:35 h, el maquinista del tren Os 8856 contactó con el despachador de línea CDP: «Saludos, ¿podría encenderme Maniobra permitida 
-
+A las 17:38:21 h el maquinista del tren Os 8856 completó el traslado al puesto de conducción en el extremo opuesto de la unidad „CityElefant“ en el coche de mando 971, momento en el que se registró la activación del mando en el puesto del coche de mando. A continuación, a las 17:38:35 h, el maquinista del tren Os 8856 contactó con el despachador de línea CDP: «Saludos, ¿podría encenderme Maniobra permitida
 
 ## Página 69
+
 
 junto a ese Pendolino en Se…»; en esa frase le interrumpió el despachador de línea, que le insistió: «Circulas como tren, circulas como tren, no, puedes ir, yo no lo voy a encender, …» 
 El maquinista del tren Os 8856 en toda la conversación (véase también la transcripción de la llamada en el capítulo 3.1.9 de esta ZZ) no mencionó que se había trasladado al otro lado de la unidad „CityElefant“. Mediante la expresión «junto a ese Pendolino», el maquinista quería indicar dónde deseaba realizar la maniobra; sin embargo, tal denominación no es unívoca (no excluye un malentendido) y al oyente (al despachador de línea CDP) dicha expresión pudo asociársele, por ejemplo, con la designación del lugar donde en ese momento se encontraba el tren Os 8856. A continuación, el despachador de línea CDP interrumpió repetidamente al maquinista en la llamada y no le dejó terminar su mensaje. Al final de la frase inicial, el maquinista indicó el número de la señal, y no puede decirse qué más información habría comunicado el maquinista al despachador de línea CDP de no haber sido interrumpido. En cualquier caso, el maquinista del tren Os 8856 no describió al despachador de línea CDP su situación tras la detención del tren en la cabecera (véase el capítulo 4.1.1 de esta ZZ).
@@ -1883,13 +1939,13 @@ Al mismo tiempo, cabe mencionar que el despachador de línea CDP ya en el moment
 En la declaración con el empleado sobre la llamada en cuestión, el despachador de línea CDP manifestó: «Se puso en contacto el maquinista del tren Os 8856, lo que vi en la pantalla de visualización Touchcall, y solicitaba que se encendiera la “maniobra”. A lo que respondí que no le iba a encender ninguna “maniobra”, porque circula como tren, y que se detuviera donde fuera necesario. En ese momento yo creía que se estaba produciendo otra parte de la evacuación en el sentido de la marcha del tren (antes la parte trasera del Ex 506, ahora la parte delantera del Ex 506).» El despachador de línea CDP, por tanto, revisó su concepción previa sobre la finalización de la evacuación, tras la cual establecía las vías de tren de entrada (véase el tramo subrayado de la parte citada de la declaración de explicaciones más arriba). En la llamada con el maquinista del tren Os 8856, el despachador de línea CDP no verificó su nueva suposición de que se estaba produciendo otra parte de la evacuación en la parte delantera del tren Ex 506 (mientras que la parte trasera del tren Ex 506 ya había sido evacuada).
 A pesar de que el despachador de línea CDP no contaba con información relevante sobre el desarrollo de la evacuación, aseguró al maquinista que podía poner en movimiento el vehículo ferroviario, entre otras cosas el despachador de línea CDP indicó: «Bueno, sí, sin problema, sin problema. Si quieres, detente realmente donde lo necesites. ¿Sí? … Tienes para eso mi permiso y conformidad, tienes para eso mi permiso y conformidad. ¿Sí?» El despachador de línea CDP actuó de esta manera en una situación en la que, hacia el lugar que en su declaración de explicaciones designó como primera fase de la evacuación, estaba entrando el tren R 989 y, al mismo tiempo, cuando en el esquema JOP podía ver que el tren Os 8856, cuyo maquinista estaba hablando, ya estaba detenido más allá del lugar donde se encontraba el tren Ex 506, del que debía realizarse la evacuación, y una marcha adicional hacia adelante no tendría, por tanto, sentido para la evacuación. Las afirmaciones realizadas por el despachador de línea CDP en la declaración con el empleado deben rechazarse enérgicamente; su actuación, por el contrario, da testimonio de que en el momento de la llamada con el maquinista del tren Os 8856 no se orientaba en la situación, a pesar de lo cual no formuló preguntas complementarias al maquinista y se concentró en el paso más rápido posible de los trenes siguientes.
 
-
 ## Página 70
+
 
 La Inspección Ferroviaria, en su investigación del suceso excepcional en cuestión, también se ocupó de cómo se desarrolla de forma estándar la evacuación de pasajeros de un tren a otro. Las respuestas que pueden extraerse del capítulo 3.1.9 de esta ZZ pueden resumirse en que, en la mayoría de los casos, la evacuación de un tren se realiza mediante la colocación de un tren en la vía contigua, cuando HZS inserta pasarelas de evacuación entre las puertas de acceso de los vehículos ferroviarios de los trenes. Sin embargo, en la est. Praha-Běchovice eso era difícilmente posible, porque la 0. SK, es decir, la vía contigua a la 2. SK, en la que se encontraba el tren Ex 506, no estaba equipada con andenes y el tren Os 8856 debía detenerse en la estación para el descenso de pasajeros. Otro tren adecuado que no se detuviera en la est. Praha-Běchovice y que, por tanto, pudiera detenerse directamente en la 0. SK junto a la unidad „Pendolino“, en ese momento no circulaba en dirección a Praga. Los supuestos sobre el desarrollo de la evacuación podían, sin embargo, diferir entre los distintos actores según el estándar establecido. Algunos de los empleados consultados, no obstante, mencionaron que ya habían vivido la situación en la que se produjo una evacuación de un tren a otro a través de varias vías. También era erróneo el supuesto de que el tren Os 8856 debía detenerse en los enlaces de vía para la evacuación, lo que probablemente partía de la premisa de que la composición del tren Os 8856 estaba formada por dos unidades „CityElefant“. De la figura n.º 3 (abajo) se desprende que, en caso de un punto de detención bien determinado, una unidad „CityElefant“ podía detenerse en un tramo recto de vía.
 
-
 ## Página 71
+
 
 Sobre la situación en la que el tren Os 8856 pasó por el lugar donde debía realizarse la evacuación, el jefe de intervención HZS SŽ manifestó que la unidad „CityElefant“ se detuvo a la altura del „Pendolino“, que debía ser evacuado, y el maquinista le comunicó que acordaría con el despachador que le estableciera una vía de maniobra hacia la vía contigua «cero» junto al tren Ex 506. El maquinista del tren Os 8856 describió la situación de manera similar: durante la marcha se comunicaba con el jefe de intervención y acordaban el punto de detención. El establecido en la orden (km 397,600) se encontraba en el ámbito de los desvíos y estaba a más de dos vías de estación del punto de evacuación. Cuando el maquinista circulaba por el kilómetro 397,600, donde debía producirse la evacuación según la orden escrita V, no se detuvo allí. El jefe de intervención le habría comunicado que el lugar estaba bastante lejos y que la evacuación sería complicada, y le preguntó si no sería posible detenerse en algún lugar más cercano. A lo que el maquinista del tren Os 8856, según su declaración, respondió que se detendría en un lugar adecuado e intentaría acordar con el despachador de línea CDP Praga un lugar más conveniente para la evacuación de pasajeros.
 Fig. n.º 3: Esquema de una posible detención durante la evacuación de modo que el Os 8556 no estuviera en los desvíos
@@ -1901,12 +1957,13 @@ De la comparación de las declaraciones facilitadas se evidencia una contradicci
 
 ## Página 72
 
-del maquinista del tren Os 8856 en relación con el cambio de tecnología de realización de la evacuación. Sin embargo, puede constatarse que dicho cambio de tecnología se produjo mediante comunicación mutua, es decir, de forma coordinada. El despachador de vía CDP no se enteró de dicho cambio.
-Desde el punto de vista de la amplitud de los conocimientos de las disposiciones de la norma SŽDC D1, que los jefes de intervención de HZS SŽ deben tener, puede constatarse que el jefe de intervención de HZS SŽ participante no tenía la competencia profesional para acordar maniobras. Sus ideas y requisitos sobre la tecnología de realización de la evacuación pudo haberlos consultado con el despachador de vía CDP, pero no lo hizo y confirmó su participación en el desarrollo de la evacuación organizada por el despachador de vía CDP, al prometer que el tren Os 8856 se detendría en el lugar de la evacuación.
-Cuando el maquinista del tren Os 8856 intentó acordar una maniobra de vuelta hacia el tren Ex 506 de modo que los convoyes quedaran en vías adyacentes, el despachador de vía CDP no dejó que el maquinista terminara de hablar y se produjo un malentendido. Tras repetir dos veces el despachador de vía CDP la frase: «Tienes para ello mi permiso y consentimiento», que contenía las palabras «permiso» y «consentimiento» definidas por la norma SŽDC D1 en relación con la habilitación para iniciar una maniobra (véase el capítulo 4.1.1 de la presente ZZ), el maquinista del tren Os 8856 se convenció de que podía poner el convoy del tren Os 8856 en marcha de vuelta en dirección a la unidad «Pendolino» (véase la declaración del maquinista en su escrito de aclaraciones: «El despachador de vía CDP de Praga me dio el consentimiento para la marcha, y que debía circular, que tenía su permiso. Yo lo consideré como consentimiento para la maniobra y me puse en marcha por la vía 0 en sentido contrario a la señal azul en la señal Se6 en dirección a Pendolino.»). Dos segundos después de finalizar la llamada telefónica con el despachador de vía CDP, a las 17:39:11 h, el maquinista del tren Os 8856 puso el convoy en movimiento en dirección contraria. Aproximadamente cinco segundos después, el convoy del tren Os 8856, al acelerar, fue adelantado por el tren R 989 que circulaba a una velocidad de 26 km·h-1 por la vía adyacente. Dos segundos después, a las 17:39:19 h, se produjo la ocurrencia de una circunstancia excepcional: la circulación no autorizada del convoy del tren Os 8856 más allá de la señal Se6 con la indicación «Maniobra prohibida». Se trató de una circulación no autorizada porque durante la comunicación entre el maquinista del tren Os 8856 y el despachador de vía CDP no se autorizó la circulación más allá de la señal Se6 de conformidad con las disposiciones de la norma SŽDC D1, según las cuales se acuerda la maniobra (de nuevo, véase el capítulo 4.1.1 de la presente ZZ). La cuestión del acuerdo de maniobras desempeña a menudo un papel en el suceso de la circunstancia excepcional, está condicionada por la actuación según costumbres y las propias disposiciones normativas, dada la naturaleza de la explotación, están establecidas de forma poco práctica (exigencia de información que en algunos casos es superflua, estructura poco clara desde el punto de vista del orden de las actuaciones y nomenclatura problemática), lo que con frecuencia incita a los participantes en la explotación ferroviaria a simplificarlas y, por tanto, a no cumplirlas. Sobre esta cuestión se escribe más en el capítulo 4.4.2 de la presente ZZ.
-Aunque el maquinista del tren Os 8856 no recibió del despachador de vía CDP el permiso para la maniobra y, en especial, el consentimiento para la maniobra de circular en sentido contrario a la señal Se6 con la indicación que prohíbe la circulación en forma de texto verbal vinculante, consideró la maniobra pretendida como acordada y autorizada. Por ello, continuó deliberadamente la circulación más allá de la señal Se6 con la indicación «Maniobra prohibida» en dirección al convoy detenido del tren Ex 506. El convoy del tren Os 8856 y el R 989 circulaban antes de la colisión uno al lado del otro en la misma dirección y a una velocidad casi idéntica. A las 17:39:20 h se registró a través del SZZ y se mostró en el relieve JOP la ocupación del circuito de vía de los desvíos n.º 19 y 20, con lo que quedó evidente el movimiento regresivo del convoy del tren Os 8856. Cinco segundos después, a las 17:39:25 h, la parte delantera del tren R 989 se encontraba en la punta del desvío n.º 21, que estaba dispuesto en dirección de desvío para la circulación hacia la 0. SK, a la que simultáneamente circulaba también el convoy del tren Os 8856. A las 17:39:33 h el convoy del tren Os 8856 alcanzó una velocidad de 26 km·h-1, un segundo después se registró la aplicación del freno de emergencia.
+del maquinista del tren Os 8856 en el sentido del cambio de la tecnología de realización de la evacuación. Sin embargo, puede constatarse que dicho cambio de tecnología se produjo mediante comunicación mutua, es decir, de forma conjunta. El despachador de vía CDP no se enteró de dicho cambio.
+Desde el punto de vista de la extensión de los conocimientos de las disposiciones de la norma SŽDC D1, que los jefes de intervención de HZS SŽ deben tener, puede constatarse que el jefe de intervención de HZS SŽ participante no tenía la cualificación profesional para acordar maniobras. Sus ideas y requisitos sobre la tecnología de realización de la evacuación pudo haberlos consultado con el despachador de vía CDP, pero no lo hizo y confirmó su participación en el desarrollo de la evacuación organizada por el despachador de vía CDP, cuando prometió que el tren Os 8856 se detendría en el lugar de la evacuación.
+Cuando el maquinista del tren Os 8856 intentó acordar la maniobra de vuelta hacia el tren Ex 506 de modo que los convoyes quedaran en vías adyacentes, el despachador de vía CDP no dejó que el maquinista terminara de hablar y se produjo un malentendido. Tras repetir dos veces el despachador de vía CDP la frase: «Tienes para ello mi permiso y consentimiento», que contenía las palabras «permiso» y «consentimiento» definidas por la norma SŽDC D1 en relación con la posibilidad de iniciar la maniobra (véase el capítulo 4.1.1 de esta ZZ), el maquinista del tren Os 8856 se convenció de que podía arrancar el convoy del tren Os 8856 en sentido contrario hacia la unidad «Pendolino» (véase la declaración del maquinista en su escrito de aclaraciones: «El despachador de vía CDP de Praga me dio su consentimiento para la circulación, y que debía circular, que tenía su permiso. Yo lo consideré como consentimiento para la maniobra y arranqué por la vía 0 en sentido contrario a la señal azul de la señal Se6 hacia el Pendolino.»). Dos segundos después de finalizar la conversación telefónica con el despachador de vía CDP, a las 17:39:11 h, el maquinista del tren Os 8856 puso el convoy en movimiento en sentido contrario. Aproximadamente cinco segundos después, el convoy del tren Os 8856, al acelerar, fue adelantado por el tren R 989 que circulaba a 26 km·h-1 por la vía adyacente. Dos segundos después, a las 17:39:19 h, se produjo la eventualidad excepcional, la circulación no autorizada del convoy del tren Os 8856 más allá de la señal Se6 con la indicación «Maniobra prohibida». Se trató de una circulación no autorizada porque durante la comunicación entre el maquinista del tren Os 8856 y el despachador de vía CDP no se autorizó la circulación más allá de la señal Se6 de conformidad con las disposiciones de la norma SŽDC D1, según las cuales se acuerda la maniobra (de nuevo, véase el capítulo 4.1.1 de esta ZZ). La cuestión del acuerdo de maniobras desempeña a menudo un papel en el desarrollo accidentológico de las eventualidades excepcionales, está condicionada por la actuación según costumbres y las propias disposiciones normativas, dada la naturaleza del servicio, están establecidas de forma poco práctica (exigencia de información que en algunos casos es superflua, estructura poco clara desde el punto de vista del orden de las actuaciones y nomenclatura problemática), lo que en muchas ocasiones induce a los participantes en el servicio ferroviario a simplificarlas y, por tanto, a no cumplirlas. Sobre esta cuestión se escribe más en el capítulo 4.4.2 de esta ZZ.
+Aunque el maquinista del tren Os 8856 no recibió del despachador de vía CDP el permiso para la maniobra y, en especial, el consentimiento para la maniobra de circular en contra de la señal Se6 con la indicación que prohíbe la circulación en forma de formulación verbal vinculante, consideró la maniobra prevista como acordada y autorizada. Por ello, continuó deliberadamente la circulación más allá de la señal Se6 con la indicación «Maniobra prohibida» en dirección al convoy detenido del tren Ex 506. El convoy del tren Os 8856 y el R 989 circulaban antes de la colisión uno al lado del otro en la misma dirección y a una velocidad casi idéntica. A las 17:39:20 h se registró a través del SZZ y se mostró en el relieve del JOP la ocupación del circuito de vía de los desvíos n.º 19 y 20, con lo que quedó evidente el movimiento en sentido contrario del convoy del tren Os 8856. Cinco segundos después, a las 17:39:25 h, la parte delantera del tren R 989 se encontraba en la punta del desvío n.º 21, que estaba dispuesto en sentido de desvío para la circulación por la 0. SK, a la que simultáneamente circulaba también el convoy del tren Os 8856. A las 17:39:33 h el convoy del tren Os 8856 alcanzó la velocidad de 26 km·h -1, un segundo después se registró la aplicación del freno de emergencia.
 
 ## Página 73
+
 
 En la reacción del maquinista del convoy del tren Os 8856 ante la situación pudo desempeñar un papel no solo la concentración en el tren Ex 506, sino también el uso del teléfono móvil, ya que en el intervalo este maquinista contactó brevemente por teléfono con el jefe de intervención de HZS (la llamada duró 8 segundos). A las 17:39:37 h se produjo el impacto del coche de mando del convoy del tren Os 8856 contra el costado del primer coche del convoy del tren R 989, es decir, contra el punto situado a una distancia de 21,2 m del comienzo de dicho tren. El maquinista del tren R 989 no reaccionó de ninguna manera a este hecho, solo registró que tras entrar en la 0. SK le había actuado en el HDV el interruptor principal, lo que confirma el registro del velocímetro, donde a las 17:39:40 h se registra la desconexión de la calefacción. El maquinista del tren R 989, en relación con la situación, comprobó el diagnóstico del vehículo, a continuación, a las 17:39:56 h, en base a la señal «Alto, deténgase por todos los medios», que le dio el miembro de HZS presente, detuvo el tren.
 De lo anterior se desprende que los empleados participantes tomaron decisiones con información insuficiente, bajo la presión de realizar la evacuación lo más rápidamente posible, lo que provocó varios malentendidos fundamentales. El despachador de vía CDP contaba con que la cabecera quedaría bloqueada, pero según su declaración le parecía que la variante de evacuación elegida era más segura que la maniobra.
@@ -1916,19 +1973,19 @@ El despachador de vía CDP no tenía en las normas internas una obligación conc
 
 ## Página 74
 
-Sobre todo da fe de ello su actuación en el momento en que el despachador de vía CDP no tenía información sobre la finalización de la evacuación en el tren Os 8856 e inmediatamente tras la liberación del circuito de vía en el itinerario de tren pretendido, lo que ocurrió muy pronto después de la salida del tren Os 8856, autorizaba la entrada de otros trenes en la est. Praha-Běchovice. La autorización de la entrada del tren Os 8853 llegó desproporcionadamente pronto tras la salida del tren Os 8856 del andén de la est. Praha-Běchovice, y por tanto era evidente que la evacuación no se estaba produciendo tal como el despachador de vía CDP planeaba. En lugar de informarse sobre lo que ocurría en el lugar (la finalización de la evacuación y la ausencia de personas en la vía), autorizó a continuación también la entrada del tren R 989 en la 0. SK, es decir, en la vía adyacente junto a la unidad «Pendolino», lo que no puede considerarse adecuado desde el punto de vista de la seguridad. Si bien el jefe de intervención no planteó la exigencia de no realizar transporte ferroviario por la 0. SK y la velocidad del tren R 989 se limitó a 30 km·h-1, pero por otro lado el propio despachador de vía, según su declaración, sabía que la evacuación se realizaría a través de la 0. SK. Pese a que, por tanto, era posible disponer el itinerario de tren para el tren R 989 de forma normal, ya que en ese momento el tren Os 8856 se encontraba en la cabecera y el despachador de vía no autorizó a este tren la circulación de vuelta en dirección a la 0. SK, no puede considerarse su actuación en los contextos temporales dados (véase el capítulo 3.2.1 de la presente ZZ) y sin más información, conforme al artículo 261 de SŽDC D1.
-En el cumplimiento de la obligación de un transporte ferroviario seguro, regular y fluido no se puede ceñirse únicamente a disposiciones normativas concretas, sino que es necesario, en este interés, dedicar espacio también a la comunicación mutua de sus participantes, con la que se puede prevenir la actuación basada en suposiciones erróneas y malentendidos. Esto se deriva precisamente de las disposiciones normativas generales. Además, el § 14 apartado 5 del decreto n.º 173/1995 Sb. y el artículo 307 de la norma SŽDC D1 establecen que las instrucciones utilizadas en la explotación de la vía deben ser breves y comprensibles, de modo que se excluya cualquier malentendido, no deben poner en peligro la seguridad de la explotación de la vía y del transporte ferroviario y deben ser acordes con la competencia profesional tanto del empleado que da la instrucción como del empleado que debe ejecutarla. La frase del despachador de vía CDP: «Tienes para ello mi permiso y consentimiento», que contiene las palabras «permiso» y «consentimiento» definidas por la norma SŽDC D1 en relación con la habilitación para iniciar una maniobra, que el maquinista solicitaba en la llamada de referencia, condujo claramente a un malentendido, por lo que dicho artículo no fue cumplido.
-Del suceso de la circunstancia excepcional y de los hechos descritos en el capítulo 4.1.1 se desprende que debía actuar según el artículo 261 de SŽDC D1 citado anteriormente también el maquinista del tren Os 8856, quien no atendió al estricto cumplimiento de las normas, sino que, por el contrario, aunque según su declaración en el acta con el empleado era consciente de que lo que consideraba como permiso para la maniobra no tenía los requisitos según la norma SŽDC D1, pese a ello, en tal situación, puso el convoy en movimiento.
+resolución de la situación. Sobre todo da fe de ello la actuación en el momento en que el despachador de línea CDP no tenía información de la finalización de la evacuación en el tren Os 8856 e inmediatamente tras la salida del área de vías en la ruta de tren prevista, que se produjo muy poco después de la salida del tren Os 8856, autorizaba la entrada de otros trenes en la est. Praha-Běchovice. La autorización de la entrada del tren Os 8853 llegó desproporcionadamente pronto tras la salida del tren Os 8853 del andén de la est. Praha-Běchovice, y por tanto era evidente que la evacuación no se estaba desarrollando tal como el despachador de línea CDP había previsto. En lugar de informarse sobre lo que ocurría en el lugar (la finalización de la evacuación y la ausencia de personas en la vía), autorizó a continuación también la entrada del tren R 989 en la 0. SK, es decir, en la vía contigua junto a la unidad «Pendolino», lo que no puede considerarse adecuado desde el punto de vista de la seguridad. Si bien el jefe de la intervención no planteó la exigencia de no prestar servicio ferroviario en la 0. SK y la velocidad del tren R 989 se limitó a 30 km·h-1, por otro lado el propio despachador de línea, según su declaración, sabía que la evacuación se realizaría a través de la 0. SK. Aunque por tanto era posible establecer la ruta de tren para el tren R 989 de forma normal, dado que en ese momento el tren Os 8856 se encontraba en la cabecera y el despachador de línea no autorizó a este tren a circular de regreso en dirección a la 0. SK, no puede considerarse su actuación en los contextos temporales dados (véase el capítulo 3.2.1 de esta ZZ) y sin más información, conforme al artículo 261 de las Normas SŽDC D1. En el cumplimiento de la obligación de un servicio ferroviario seguro, regular y fluido, no puede centrarse únicamente en disposiciones reglamentarias concretas, sino que es necesario, en este interés, dedicar también espacio a la comunicación mutua entre sus participantes, con la que puede prevenirse una actuación basada en suposiciones erróneas y malentendidos. Esto se desprende precisamente de las disposiciones reglamentarias generales. Asimismo, el § 14 apartado 5 del Decreto nº 173/1995 Sb. y el artículo 307 de las Normas SŽDC D1 establecen que las instrucciones utilizadas en la explotación de la vía deben ser breves y comprensibles, de modo que se excluya cualquier malentendido, no deben poner en peligro la seguridad de la explotación de la vía y del transporte ferroviario y deben ser coherentes con la cualificación profesional del empleado que emite la instrucción y del empleado que debe ejecutarla. La frase del despachador de línea CDP: «Tienes mi autorización y consentimiento para ello», que contiene las palabras «autorización» y «consentimiento» definidas por las Normas SŽDC D1 en relación con la posibilidad de iniciar una maniobra de maniobras, por la que el maquinista solicitaba en la conversación en cuestión, condujo claramente a un malentendido, por lo que dicho artículo no fue cumplido.
+Del suceso del accidente y de los hechos descritos en el capítulo 4.1.1 se desprende que debía actuar conforme al artículo 261 antes citado de las Normas SŽDC D1 también el maquinista del tren Os 8856, que no atendió al cumplimiento estricto de las normas, sino que, por el contrario, aunque según su declaración en el acta con el empleado era consciente de que lo que consideraba una autorización para la maniobras no reunía sus requisitos conforme a las Normas SŽDC D1, no obstante, en tal situación, puso la composición en movimiento.
 ### Hallazgos:
-En la investigación se constató la infracción de normativas legales, normas internas, relativas a las tareas y obligaciones del explotador de la vía y del transportista, en relación causal, o bien como
-### factor contribuyente en la ocurrencia de la circunstancia excepcional:
-art. 261 SŽDC D1:
+En la investigación se constató la infracción de normativa legal, normativa interna, relativa a las funciones y obligaciones del gestor de la infraestructura y del transportista, en relación causal, o bien como
+### factor contribuyente a la aparición de la MU:
+art. 261 de las Normas SŽDC D1:
 •
-«La seguridad de la explotación de la vía y del transporte ferroviario consiste en el conocimiento y el estricto cumplimiento de las normas internas de SŽDC, o incluso de otras medidas relativas a la explotación, por parte de todas las personas participantes, que deben por ello atender siempre a su exacto cumplimiento. Todo empleado debe en primer lugar velar por la seguridad y después por la exactitud (puntualidad) del transporte. Esto tiene prioridad sobre todas las demás actividades.»;
-art. 264 SŽDC D1:
+«La seguridad de la explotación de la vía y del transporte ferroviario consiste en el conocimiento y el cumplimiento estricto de las normas internas de SŽDC, o bien de otras medidas relativas a la explotación, por parte de todas las personas implicadas, que deben por ello atender siempre a su estricto cumplimiento. Todo empleado debe atender en primer lugar a la seguridad y después a la exactitud (puntualidad) del transporte. Esto tiene prioridad sobre todas las demás actividades.»;
+art. 264 de las Normas SŽDC D1:
 •
 
 ## Página 75
+
 
 „En el sentido de las normas para la explotación de la vía y la organización del tráfico ferroviario, es necesario actuar también en aquellos casos que en ellas no se mencionan expresamente, y ello según el mejor conocimiento y conciencia, de modo que se garantice la seguridad, la regularidad y la fluidez de la explotación de la vía y del tráfico ferroviario. Cada empleado que desempeña servicio de tráfico es plenamente responsable de garantizar la seguridad de la explotación de la vía y del tráfico ferroviario en el ámbito de su competencia profesional.“;
 las disposiciones normativas vulneradas ya mencionadas en el capítulo 4.1.1 no se vuelven a
@@ -1946,8 +2003,8 @@ Las condiciones pertinentes del marco regulatorio están establecidas en los Reg
 Como se indicó en el capítulo 4.3.3 de la presente ZZ, la cuestión de la concertación de maniobras desempeña a menudo un papel en el desarrollo del suceso de los sucesos extraordinarios, está condicionada por la actuación según costumbres y las propias disposiciones normativas, atendiendo al carácter de la explotación, están establecidas de forma poco práctica (nomenclatura problemática, exigencia incluso de informaciones que en algunos casos son superfluas) y ordenadas de forma poco clara, lo que con frecuencia incita a los participantes en la explotación ferroviaria a simplificarlas y, por tanto, a no cumplirlas.
 En el caso del suceso extraordinario objeto de investigación, el maquinista del tren Os 8856 inició la marcha (maniobra) hacia una señal con indicación que prohibía la marcha tras la comunicación del despachador de línea CDP, en la que, entre otras cosas, resonaron las palabras „svolení“ (autorización) y „souhlas“ (consentimiento) asociadas a la nomenclatura básica del capítulo Posun (Maniobra) de la norma SŽDC D1. A la pregunta de si era consciente de que los términos „svolení“ y „souhlas“ se utilizan, entre otros casos, en las maniobras, el despachador de línea CDP, en la anotación con el empleado, respondió: „Sí, pero no se utilizan solo en las maniobras y yo no autorizé la marcha junto a
 
-
 ## Página 76
+
 
 una señal no atendida. La autorización y el consentimiento no contenían los requisitos normativos para las maniobras.“ Esta afirmación es cierta, pero no puede ignorarse la realidad de la concertación de maniobras en la red del explotador de la vía SŽ, donde con frecuencia se da la situación en la que a la producción de un suceso extraordinario le preceden deficiencias en la comunicación, una comunicación similar no conforme a la normativa o incluso la ausencia de comunicación antes del inicio de la maniobra.
 En el marco de la investigación del suceso extraordinario objeto de investigación, es necesario, por tanto, responder a la pregunta de por qué se produce tal actuación, analizar el sistema existente como tal, las medidas adoptadas para prevenir los sucesos extraordinarios y la actividad de control que debería garantizar su cumplimiento y, a la vez, servir como retroalimentación de su correcta configuración.
@@ -1971,8 +2028,8 @@ qué vías destinadas a la circulación de trenes podrán quedar ocupadas tras
 •
 finalizar la maniobra;
 
-
 ## Página 77
+
 
 la hora a la que deben liberarse las demás vías destinadas a la circulación de trenes;
 •
@@ -1997,14 +2054,15 @@ Merece atención también el art. 1744 de la norma SŽDC D1, que en esencia desc
 
 ## Página 78
 
+
 Desde el punto de vista de la Inspección Ferroviaria, es realmente innecesario comunicar, en los maniobras más sencillos en estaciones con señales de clasificación, la duración de la maniobra, si no existe el riesgo de que no pueda iniciarse de inmediato o, por el contrario, de que más tarde pueda convertirse en una maniobra que interrumpa. También podría plantearse la modificación de la obligación de enumerar, en el marco del permiso de maniobra, todos los vías en las que se permite maniobrar, si no existe una ruta alternativa.
 Sin embargo, en primer lugar es necesario resolver la nomenclatura (la intercambiabilidad de contenido de las palabras «permiso» y «consentimiento», su uso también en otras instrucciones distintas de las de maniobra, la denominación de las mismas actuaciones de forma diferente en el propio reglamento, cuando el «permiso de maniobra» es denominado en otro lugar «permiso del jefe de estación», todo ello véase más arriba) y las definiciones ausentes de conceptos, como por ejemplo el frecuentemente utilizado «concertación de la maniobra» (proceso de solicitud del permiso de maniobra y su concesión).
 Es absolutamente fundamental la creación de un procedimiento tecnológico cronológico coherente. Actualmente, el capítulo de maniobra de SŽDC D1 está dividido en disposiciones generales, definiciones de conceptos y obligaciones de los distintos empleados; a esto es necesario considerar las disposiciones de otras partes del reglamento que, sin embargo, influyen en el procedimiento correcto (secuencia de actuaciones). Si intentamos encontrar en el reglamento SŽDC D1 el orden de actuaciones en una maniobra ordinaria, lo encontramos en el orden de los artículos 1744 (informar al jefe de estación de la tecnología de maniobra solicitada), 1692 respectivamente 1709 (concesión del permiso de maniobra), 1745 (informar a todos los empleados implicados del procedimiento de trabajos), 1687 (solo con el permiso concedido se puede iniciar la maniobra), 431 (cambio de agujas sobre la base de la instrucción del empleado del transportista), 1746 y 1714 (concesión del consentimiento de maniobra), 1715 (instrucción para poner en movimiento la unidad de maniobra) y 1687 (puesta en movimiento de la unidad de maniobra).
 A la comunicación hay que darle mayor orden, mayor énfasis en la sistematicidad y univocidad de los conceptos. En los casos en que no sea realista establecer una redacción verbal vinculante, es necesario al menos considerar las partes obligatorias y opcionales del mensaje (para que no sea necesario enumerar cosas completamente evidentes) y su orden; en cuanto a las partes obligatorias, es necesario exigir siempre una responsabilidad bilateral por su omisión. En contra de una mayor utilización de redacciones verbales vinculantes en la maniobra se sitúa el hecho de que un cambio así supondría una intervención más profunda en la concepción de las estaciones de ferrocarril como tales. Sería necesario denominar algunos lugares de la estación que no tienen una denominación simple y unívoca, o que están denominados de forma compleja o con nombres locales (por ejemplo, «bajo la vieja muralla»); asimismo, todos los vehículos ferroviarios de tracción ocupados tendrían que obtener su indicativo de llamada apropiado. Un cambio así reduciría las denominaciones coloquiales y otras excepciones no sistemáticas. La prevención del fallo del factor humano se ve muy favorecida, en efecto, por la claridad, la comprensibilidad y la previsibilidad. En el entorno checo, estos ideales los sustituye el apelar al conocimiento, mientras que el volumen de información que deben conocer las personas profesionalmente cualificadas en el transporte ferroviario aumenta, y no solo con el mayor número de kilómetros recorridos por turno de los maquinistas y la necesidad de conocer un mayor número de estaciones, con la actual desconexión de su conocimiento físico por parte de los despachadores en las líneas controladas a distancia desde CDP, sino también con las disposiciones reglamentarias crecientes. La gran cantidad de conocimientos requeridos en forma de familiarización con las estaciones y los tramos de línea es a menudo confirmada por los maquinistas solo formalmente, con la firma de un documento, durante cuya vigencia pueden además producirse numerosos cambios con los que es necesario familiarizar de forma demostrable al maquinista (véase ZZ relativa a MU Vuelco de un vehículo ferroviario de tracción y 13 vehículos ferroviarios remolcados durante la circulación del tren Pn 64520 entre las estaciones de ferrocarril Chodová Planá y Mariánské Lázně).
 El sistema ferroviario debería en general aspirar al ideal en el que la infraestructura sea lo más previsible posible y los maquinistas, gracias a ello, puedan orientarse en las estaciones y tramos de línea sin necesidad de tales familiarizaciones. La época actual, en la que a pesar de la modernización progresiva del ferrocarril en la República Checa siguen operando varias generaciones anteriores
 
-
 ## Página 79
+
 
 de tecnologías ferroviarias, no favorece tal ideal y lo hace utópico a corto plazo; no obstante, debería tenerse en cuenta la orientación hacia tal objetivo, especialmente en las estaciones controladas desde CDP.
 En general, puede constatarse que la realidad de la concertación de la maniobra, incluida la concesión del permiso y el consentimiento de maniobra, rara vez coincide en la práctica con los reglamentos. Esto introduce en la operación en las vías, donde se organiza según el reglamento SŽDC D1, una letargia con la que la percepción de cómo se concierta la maniobra, de qué es el permiso o el consentimiento de maniobra, se desplaza a un plano más laxo que puede desembocar en un malentendido. De los resultados de la investigación de MU por parte de la DI se desprende que se trata de un problema muy extendido, ya que la DI detecta estas deficiencias en casi todas las MU en las que se ocupa de la problemática de la maniobra, y así ocurre también en la MU en cuestión, como se desprende de la declaración del maquinista del tren Os 8856.
@@ -2012,8 +2070,8 @@ Si bien la Inspección Ferroviaria señala aquí ciertas deficiencias de las reg
 Por parte de los transportistas se adoptan medidas para prevenir la aparición de sucesos excepcionales en forma de reciclajes repetidos de los empleados a partir de las conclusiones de la investigación de las causas y circunstancias de la aparición de MU. No obstante, la situación en la que en la práctica se producen simplificaciones de los procedimientos tecnológicos de maniobra establecidos por el reglamento SŽDC D1 permanece invariable.
 La Inspección Ferroviaria, en relación con las conclusiones de la investigación de la MU antes mencionada, circulación no autorizada en la est. Kolín, y también en relación con las conclusiones de la investigación de la MU Circulación no asegurada de una unidad de maniobra y posterior colisión con un vehículo ferroviario de tracción estacionado en la estación de ferrocarril Mělník, emitió recomendaciones de seguridad al Drážní úřad para que, en el marco de su propia actividad de control, se centrara en el cumplimiento de las reglas establecidas en la organización y ejecución de las maniobras por los empleados del gestor de la infraestructura SŽDC y de los transportistas, e instó también a los gestores
 
-
 ## Página 80
+
 
 implicados. El propósito de estas recomendaciones de seguridad era, en interés de la prevención de sucesos excepcionales, alertar al organismo nacional de seguridad sobre los posibles riesgos que se producen al organizar y ejecutar las maniobras, especialmente el incumplimiento de las disposiciones de los arts. 1687, 1692 (análogamente 1709), 1744 y 1745 de SŽDC D1 y de los arts. 58 y 73 c) de SŽDC (ČD) Z1. Las costumbres en la ejecución de la maniobra de forma distinta a las disposiciones del reglamento SŽDC D1, sin embargo, siguen prevaleciendo en la operación.
 El objetivo inmediato para garantizar la seguridad debería seguir siendo el énfasis en garantizar la operación conforme a las disposiciones reglamentarias, y ello principalmente mediante la mencionada actividad de control. Dado que dicha actuación no reglamentaria no se ha logrado eliminar a largo plazo, es necesario constatar que, a pesar de todo el esfuerzo, la actividad de control en este ámbito no es lo suficientemente eficaz como para ser suficiente para resolver la situación, y por tanto es pertinente centrarse, en un horizonte más largo, en el objetivo que debería ser la preparación y realización de una simplificación general y una mayor claridad de los procedimientos tecnológicos de maniobra (con énfasis en la comunicación antes de su inicio) de modo que su impracticabilidad no conduzca en la práctica a su incumplimiento. En este espíritu, la Inspección Ferroviaria formula, al final de este Informe Final, recomendaciones de seguridad.
@@ -2024,44 +2082,33 @@ En el sistema de garantía de la seguridad adoptado por el gestor de la infraest
 
 ## Página 81
 
-### 4.4.4 Sistema de gestión de los sujetos responsables del mantenimiento de los vehículos ferroviarios
-y de los talleres de mantenimiento
-El sistema de gestión de los sujetos responsables del mantenimiento de los vehículos ferroviarios y de los talleres de mantenimiento
-no guardaba relación con la ocurrencia de la MU.
+### 4.4.4 Sistema de gestión de los sujetos responsables del mantenimiento de los vehículos ferroviarios y de los talleres de mantenimiento
+El sistema de gestión de los sujetos responsables del mantenimiento de los vehículos ferroviarios y de los talleres de mantenimiento no guardaba relación con la aparición del SU.
 ### 4.4.5 Resultados de la supervisión realizada por las autoridades nacionales de seguridad
-Atendiendo a los factores y circunstancias de la ocurrencia de la MU identificados, la supervisión de la autoridad de seguridad
-no guarda relación con la MU en cuestión.
-### 4.4.6 Aprobaciones, certificados y evaluaciones emitidos por la agencia, las autoridades nacionales de
-seguridad u otros sujetos de evaluación de la conformidad
-El gestor de la infraestructura explotaba la infraestructura al amparo de una autorización administrativa vigente y de un certificado
-de seguridad del gestor de la infraestructura. El operador ferroviario explotaba el transporte ferroviario al amparo de una licencia
-vigente y de un certificado del operador ferroviario.
+Atendiendo a los factores y circunstancias detectados relativos a la aparición del SU, la supervisión de la autoridad de seguridad no guarda relación con el SU en cuestión.
+### 4.4.6 Aprobaciones, certificados y informes de evaluación emitidos por la agencia, las autoridades nacionales de seguridad u otros sujetos de evaluación de la conformidad
+El gestor de la infraestructura explotaba la infraestructura en virtud de una autorización administrativa vigente y de un certificado de seguridad del gestor de la infraestructura. El operador ferroviario explotaba el transporte ferroviario en virtud de una licencia vigente y de un certificado del operador.
 ### 4.4.7 Otros factores sistémicos
-En la investigación no se identificaron otros factores sistémicos.
+En el curso de la investigación no se detectaron otros factores sistémicos.
 ### 4.5 Sucesos anteriores de naturaleza similar
-La DI registra en el periodo comprendido entre el 1. 1. 2008 y la fecha de ocurrencia de la MU en cuestión, en las vías férreas
-de categoría nacional y regional, un total de 44 MU análogas, en las que se produjo en el ámbito de una estación ferroviaria
-la colisión de un tren con otro tren o con un DV.
-Como consecuencia de estas MU, resultó muerta 1 persona, 104 personas resultaron lesionadas y el daño total
-se cifró en 141 472 147 CZK.
+La DI registra en el período comprendido entre el 1. 1. 2008 y la fecha de aparición del SU en cuestión, en las vías ferroviarias de categoría nacional y regional, un total de 44 SU análogos, en los que se produjo en el ámbito de la estación ferroviaria una colisión de un tren con otro tren o con un DV.
+Como consecuencia de estos SU, resultó muerta 1 persona, 104 personas resultaron lesionadas y el daño total se cifró en 141 472 147 Kč.
 ## 5 CONCLUSIONES
 ### 5.1 Resumen del análisis y conclusiones relativas a las causas del suceso
 La causa inmediata del suceso extraordinario fue:
 el inicio no autorizado de la maniobra de la composición procedente del tren Os 8856 más allá de la señal Se6
 •
-con la señalización «Maniobra prohibida» y la continuación de la marcha hasta la aguja n.º 19, que se
-encontraba en el itinerario de tren para el tren R 989.
-El factor contribuyente del suceso extraordinario fue:
-deficiencias en la comunicación entre las personas que participaban en la preparación de la evacuación
+con la señal Movimiento prohibido y la continuación de la marcha hasta el desvío n.º 19, que se encontraba en la ruta de tren para el tren R 989.
+El factor contribuyente al suceso extraordinario fue:
+las deficiencias en la comunicación entre las personas que participaban en la preparación de la evacuación
 •
-de los pasajeros del tren Ex 506, concretamente entre el maquinista del tren Os 8856, el regulador de
-circulación del CDP, el jefe de reguladores del CDP Praga y el jefe de la intervención del HZS SŽ.
+de los pasajeros del tren Ex 506, concretamente entre el maquinista del tren Os 8856, el despachador de vía CDP, el despachador jefe de CDP Praga y el jefe de intervención de HZS SŽ.
 La causa sistémica del suceso extraordinario:
-no fue identificada por la Inspección Ferroviaria.
+no fue detectada por la Inspección Ferroviaria.
 •
-
 
 ## Página 82
+
 
 ### Un resumen del análisis y las conclusiones relativas a las causas del suceso
 Factor causal:
@@ -2103,56 +2150,34 @@ En el gestor de la infraestructura SŽ:
 ausencia de una parte de la competencia profesional del jefe de la intervención del HZS.
 •
 
-
 ## Página 83
 
-### Hallazgos complementarios
-En el gestor de la infraestructura SŽ:
-al jefe de la intervención del Servicio de Bomberos le faltaba una parte de la competencia
+### Observaciones adicionales
+En el gestor de infraestructura SŽ:
+el responsable del Servicio de Bomberos omitió la parte de la competencia 
 •
 profesional.
-## 6 RECOMENDACIONES DE SEGURIDAD
-La Inspección Ferroviaria, con base en lo dispuesto en el § 53e apartado 1 de la Ley n.º 266/1994 Sb., recomienda,
-en relación con la prevención de sucesos extraordinarios:
-Al Órgano Ferroviario:
-garantizar en el gestor de la infraestructura Správa železnic, organización estatal:
+## 6 BEZPEČNOSTNÍ DOPORUČENÍ
+Drážní inspekce, en virtud de lo dispuesto en el § 53e, apartado 1, de la Ley núm. 266/1994 Sb., recomienda, con vistas a la prevención de sucesos extraordinarios:
+Al Drážní úřad:
+garantir, en el operador ferroviario Správa železnic, státní organizace:
 •
-◦la mejora de la eficacia y el refuerzo de la actividad de control centrada en el cumplimiento
-efectivo de los procedimientos tecnológicos existentes para la maniobra (con énfasis en la
-comunicación de los empleados) hasta la puesta en práctica de la simplificación de los
-procedimientos tecnológicos para la maniobra;
-◦la preparación y puesta en práctica de una simplificación general de los procedimientos
-tecnológicos para la maniobra (con énfasis en la comunicación), de modo que su
-impracticabilidad no conduzca a su incumplimiento;
-◦en colaboración con los operadores ferroviarios, la consideración de la utilización de
-tecnologías modernas que, más allá de los métodos actuales, permitieran informar a los
-trenes sin contacto personal mediante el uso de la comunicación de datos (p. ej. en una
-aplicación móvil que garantice la aceptación de la orden y la confirmación de haberse
-enterado de la misma), que ofrece además la posibilidad de aprovechar otros de sus
-beneficios, p. ej. avisos sobre hechos relevantes en función de la posición actual del tren
-o de la maniobra.
-garantizar en todos los operadores ferroviarios de la red de Správa železnic, organización estatal:
+◦la mejora de la eficacia y el refuerzo de las actividades de control centradas en el cumplimiento estricto de los procedimientos tecnológicos existentes para las maniobras de maniobra (con énfasis en la comunicación entre los empleados) hasta la puesta en práctica de la simplificación de los procedimientos tecnológicos para las maniobras de maniobra;
+◦la preparación y ejecución de una simplificación general de los procedimientos tecnológicos para las maniobras de maniobra (con énfasis en la comunicación), de modo que su impracticabilidad no conduzca a su incumplimiento;
+◦en colaboración con los operadores ferroviarios, la consideración del uso de tecnologías modernas que, más allá de los métodos actuales, permitieran la instrucción de trenes sin contacto personal mediante el uso de comunicaciones de datos (por ejemplo, en una aplicación móvil que garantice la recepción de la orden y la confirmación de haberse familiarizado con ella), que ofrece además la posibilidad de aprovechar otros beneficios de la misma, p. ej., avisos sobre hechos relevantes en función de la posición actual del tren o del PMD.
+garantir, en todos los operadores ferroviarios de la red de Správa železnic, státní organizace:
 •
-◦dentro de los procedimientos tecnológicos uniformes, garantizar que el maquinista tenga
-siempre a su disposición, en el puesto de conducción desde el que dirige el tren, los
-formularios correspondientes para la redacción de órdenes;
-◦la mejora de la eficacia y el refuerzo de la actividad de control centrada en el cumplimiento
-efectivo de los procedimientos tecnológicos existentes para la maniobra (con énfasis en la
-comunicación de los empleados).
+◦dentro de los procedimientos tecnológicos uniformes, garantizar que el maquinista tenga siempre a su disposición, en el puesto desde el que conduce el tren, los formularios correspondientes para la redacción de las órdenes;
+◦la mejora de la eficacia y el refuerzo de las actividades de control centradas en el cumplimiento estricto de los procedimientos tecnológicos existentes para las maniobras de maniobra (con énfasis en la comunicación entre los empleados).
 ## RECOMENDACIONES DE SEGURIDAD
-Dirigidas a la Autoridad Nacional de Seguridad Checa (la ANS):
-garantizar en el gestor de la infraestructura Správa železnic, organización estatal:
+Dirigidas a la Autoridad Nacional Checa de Seguridad (la NSA):
+garantizar, en el gestor de infraestructura Správa železnic, státní organizace:
 •
-◦una mayor eficacia y el refuerzo de las actividades de control dirigidas al cumplimiento
-consistente de los procedimientos tecnológicos existentes para la maniobra (con énfasis en
-la comunicación de los empleados) hasta que se implemente la simplificación de los
-procedimientos tecnológicos para la maniobra;
-◦la preparación e implementación de una simplificación general de los procedimientos
-tecnológicos para la maniobra (con énfasis en la comunicación) de modo que la
-impracticabilidad de estos procedimientos no conduzca a su incumplimiento;
-
+◦una mayor eficacia y el refuerzo de las actividades de control dirigidas al cumplimiento estricto de los procedimientos tecnológicos existentes para las maniobras de maniobra (con énfasis en la comunicación entre los empleados) hasta que se implemente la simplificación de los procedimientos tecnológicos para las maniobras de maniobra;
+◦la preparación y ejecución de una simplificación general de los procedimientos tecnológicos para las maniobras de maniobra (con énfasis en la comunicación), de modo que la impracticabilidad de estos procedimientos ya no conduzca a su incumplimiento;
 
 ## Página 84
+
 
 ◦en cooperación con los operadores ferroviarios, considerar el uso de tecnologías modernas
 que, además de los métodos actuales, permitirían informar a los trenes sin contacto personal
@@ -2180,23 +2205,23 @@ de la Inspección Territorial de Bohemia
 Ing. Petr Mencl v. r.
 director de la Inspección Territorial de Bohemia
 
-
 ## Página 85
+
 
 ## ANEXOS
 Fig. n.º 4: Testero de la composición descarrilada procedente del tren Os 8856 tras la MU
         Fuente: DI
 
-
 ## Página 86
+
 
 Fig. n.º 5: Peldaños de acceso dañados en uno de los coches del R 989
          Fuente: DI
 Fig. n.º 6: Revestimiento del flanco dañado en uno de los coches del R 989
         Fuente: DI
 
-
 ## Página 87
+
 
 Fig. n.º 7: Lugar de la colisión, enlace de vías de las agujas n.º 21 y 19
          Fuente: DI

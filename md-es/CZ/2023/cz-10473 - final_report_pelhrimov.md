@@ -10,13 +10,14 @@ chars: 104702
 ratio_longitud: 1.23
 tokens_in: 48824
 tokens_out: 33580
-verificacion: revisar
-notas_cifras: ["bloque 1: original bilingüe: se compara contra el idioma principal (EN)", "bloque 5: cifras cortas: 1/113", "bloque 6: cifras cortas: 2/75", "bloque 8: original bilingüe: se compara contra el idioma principal (EN); cifras cortas: 1/70"]
-avisos: ["bloque 8: ratio 1.79"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 3: original bilingüe: se compara contra el idioma principal (PT)", "página 6: original bilingüe: se compara contra el idioma principal (CS)", "página 7: original bilingüe: se compara contra el idioma principal (CS)", "página 9: original bilingüe: se compara contra el idioma principal (CS)", "página 10: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -39,13 +40,13 @@ IČ: 75009561
 mail@di.gov.cz
 tel.: +420 736 521 003
 
-
 ## Página 2
+
 
 Este informe final es público y todos los hechos en él expuestos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ### 1 RESUMEN
 Fuente: Drážní inspekce
@@ -70,15 +71,15 @@ No se detectó ninguna causa sistémica por parte de la Drážní inspekce.
 Recomendaciones de seguridad:
 La Drážní inspekce, con base en lo dispuesto en el § 53e apartado 1 de la Ley n.º 266/1994 Sb., recomienda, en relación con la prevención de sucesos ferroviarios:
 
-
 ## Página 4
+
 
 A la Drážní úřad:
 •
 iniciar una reunión entre la Drážní úřad, el Ayuntamiento de Pelhřimov, la Dirección de Carreteras y Autopistas (Ředitelstvím silnic a dálnic, s. p.) y la Správa železnic, státní organizace, con el fin de eliminar el riesgo detectado de suceso ferroviario derivado de la configuración del paso a nivel P6353 y de la intersección de carretera adyacente.
 
-
 ## Página 5
+
 
 ### SUMMARY
 9th November 2023, 8:16 (7:16 GMT).
@@ -109,8 +110,8 @@ Addressed to the Czech National Safety Authority (NSA):
 •
 to initiate a meeting between the NSA, Municipality of Pelhřimov, Road and Motorway directorate and IM for the purpose to eliminate the identified risk which follow from configuration the level crossing No. P6353 and adjacent crossroad.
 
-
 ## Página 6
+
 
 # Índice
 1 RESUMEN..................................................................................................................3
@@ -152,8 +153,8 @@ SUMMARY.........................................................................
 4.2 Vehículos ferroviarios e instalaciones técnicas..........................................................................33
 4.2.1 Factores o consecuencias derivados del diseño de los vehículos ferroviarios, de la infraestructura ferroviaria o de las instalaciones técnicas....................................................................33
 
-
 ## Página 7
+
 
 4.2.2 Factores o consecuencias derivados de la instalación y la puesta en servicio de los vehículos ferroviarios, de la infraestructura ferroviaria o de las instalaciones técnicas.....................................34
 4.2.3 Factores o consecuencias relacionados con los fabricantes de vehículos ferroviarios u otros proveedores de productos ferroviarios...........................................................................34
@@ -184,6 +185,7 @@ SUMMARY.........................................................................
 ANEXOS............................................................................................................................39
 
 ## Página 8
+
 
 ### Lista de siglas y símbolos utilizados
 CDP
@@ -262,8 +264,8 @@ servicio de emergencias médicas
 žst.
 estación de ferrocarril
 
-
 ## Página 9
+
 
 ### Lista de siglas de la legislación, normas y normativa interna utilizadas
 ley núm. 13/1997 Sb.
@@ -311,10 +313,10 @@ vigente en el momento de la ocurrencia de la MU
 normativa ČD V15/I 
 ČD V15/I "Normativa para la explotación y el servicio de los dispositivos 
 de freno del material rodante ferroviario" en la versión 
-vigente en el momento de la ocurrencia de la MU 
-
+vigente en el momento de la ocurrencia de la MU
 
 ## Página 10
+
 
 ### 2 INVESTIGACIÓN Y SUS RELACIONES
 ### 2.1 Decisión de iniciar la investigación
@@ -355,8 +357,8 @@ análisis de la documentación solicitada al operador de la infraestructura, al 
 •
 evaluación de los datos registrados por el registrador de velocidad del material rodante ferroviario participante;
 
-
 ## Página 11
+
 
 •
 evaluación de los datos del dispositivo de registro del PZZ;
@@ -397,10 +399,10 @@ PZS 3ZI. La vía y la vía pública se cruzan en un ángulo de 90° (según los 
 de la infraestructura SŽ). La vía pública que atraviesa el paso a nivel es local – de servicio, su 
 propietario es la ciudad de Pelhřimov. Desde la izquierda en el sentido de circulación del tren, se une una vía pública 
 local que atraviesa el paso a nivel hasta una intersección con la carretera I/34 České Budějovice – Svitavy, 
-cuyo propietario es la República Checa. 
-
+cuyo propietario es la República Checa.
 
 ## Página 12
+
 
 ## Lugar de la MU
 Fig. n.º 1: Esquema del lugar de la ocurrencia de la MU
@@ -409,8 +411,8 @@ Fig. n.º 1: Esquema del lugar de la ocurrencia de la MU
 Fig. n.º 2: NA detenido en el paso a nivel y delante de él un NA cediendo el paso.  
   Fuente: PČR (captura de vídeo del testigo de la MU).
 
-
 ## Página 13
+
 
 De la inspección del lugar de la MU se constató:
 La inspección del lugar de la MU se realizó en el sentido de circulación del tren, compuesto por la unidad motor "Regionova" 
@@ -462,6 +464,7 @@ la circulación del tren hacia el paso a nivel situado en el extremo de la TK en
 
 ## Página 14
 
+
 El paso a nivel de vía única P6353 es un cruce de la vía con una carretera terrestre local, la calle «Za Náspem», y, además del uso habitual en la aglomeración urbana, da acceso a una zona industrial. El paso a nivel estaba protegido por un dispositivo de enclavamiento de paso a nivel luminoso con barreras (PZS 3ZI tipo AŽD PZZ-EA), que en el momento de la inspección inicial estaba en alerta.
 El paso a nivel, en el sentido de circulación NA desde la zona industrial, estaba señalizado con tres señales de tráfico A32a «Cruz de aviso para paso a nivel de vía única», colocadas 2x a la izquierda y 1x a la derecha (la VK derecha dañada por la acción del MU) junto al borde del camino, en un poste común con dos semáforos de aviso (izquierda) a 5,60 m y con un semáforo de aviso (derecha) a una distancia de 5,50 m del eje de la vía. Asimismo, en el sentido de circulación NA desde la zona industrial, el paso a nivel estaba equipado a izquierda y derecha con un soporte de barrera. Desde el lado opuesto del paso a nivel (desde la carretera I/34), el paso a nivel estaba señalizado a la derecha con una VK en un poste común con un semáforo de aviso a una distancia de 5,60 m. La VK izquierda y el semáforo de aviso, incluido el poste portante, estaban dañados y en el lugar de su ubicación original solo quedaba en el suelo una base de hormigón para la estructura portante. Todas las VK y semáforos de aviso (excepto los dañados) estaban en buen estado técnico. Todos los semáforos de aviso llevaban en su parte trasera una marcación alfanumérica legible. En todos los semáforos de aviso del paso a nivel (excepto el dañado, situado bajo el NA volcado) estaba activada la alerta (destello intermitente de luces rojas y alerta acústica) y en ellos estaban colocadas placas con el aviso «POZOR VLAK» (ATENCIÓN AL TREN).
 A la derecha en el sentido de circulación del tren, tras la banda de peligro del paso a nivel, se encuentra una rotonda. Para circular desde el paso a nivel hacia este lado por la carretera «principal» que atraviesa el paso a nivel (calle «Za Náspem») no hay problema para despejar el paso a nivel. En el caso de circular hacia la carretera secundaria (calle «U Agrostroje»), si se debe ceder el paso al girar a la izquierda, es posible resolver esta situación circulando por la dirección principal (calle «Za Náspem»).
@@ -471,8 +474,8 @@ Los valores y hechos más importantes detectados durante las inspecciones del lu
 •
 el semáforo de aviso derecho en el sentido de circulación de los vehículos terrestres hacia el paso a nivel desde la carretera I/34 (izquierda en el sentido de circulación del tren) está orientado con el frente hacia la izquierda y con su luz cubre el parámetro medido Dz 20 m para los vehículos terrestres que giran desde la carretera 1/34 girando a la izquierda
 
-
 ## Página 15
+
 
 (desde la dirección recta hacia el centro de la ciudad de Pelhřimov). A la vez, también se garantiza la visibilidad de la barra de barrera bajada que bloquea también la acera (véase más abajo). Por su ubicación, también sirve para advertir a los peatones en la acera contigua a la calle «Za Náspem»;
 •
@@ -498,8 +501,8 @@ Evaluación del estado de la señalización vertical de tráfico antes del paso 
 La distancia de la señalización vertical de tráfico en la carretera local (calle «Za Náspem») antes del paso a nivel en el sentido de circulación NA (la única señal de tráfico de aviso A 31c «Placa de señal» complementada con la señal de tráfico A 29) «Paso a nivel con barreras» era de 83 m.
 En la carretera local (calle «U Agrostroje»), el conductor no era informado mediante ninguna señalización de tráfico sobre la circulación hacia el paso a nivel. Sin embargo, al entrar en la intersección con la carretera «Za náspem», estaba obligado a detenerse, gracias a la colocación de la señal de tráfico vertical P6 «¡ALTO, ceda el paso!». De este modo se interrumpe su circulación, que el conductor debería modificar, si estuviera informado del paso a nivel próximo (lo cual no ocurre desde esta dirección), de acuerdo con la obligación indicada en el § 28
 
-
 ## Página 16
+
 
 apartado 3 de la Ley núm. 361/2000 Sb. «A una distancia de 50 m antes de un paso a nivel y al atravesarlo, el conductor solo puede circular a una velocidad máxima de 30 km.h-1». Desde el lugar de detención y cesión del paso, se garantizaba la visibilidad del semáforo de aviso y de las barras de barrera bajadas.
 La distancia de la señalización vertical de tráfico en la carretera I/34 (calle «Nádražní») en el sentido de circulación desde el centro de la ciudad de Pelhřimov a la derecha hacia el paso a nivel (las únicas señales de tráfico de aviso A 31c complementadas con la señal de tráfico A 29 y E 7b) era de 62 m.
@@ -533,8 +536,8 @@ En el MU, el daño causado en los objetos transportados, el equipaje y otros bie
 ### 3.1.5 Descripción de otras consecuencias, incluido el impacto del suceso en las actividades habituales de los sujetos implicados
 Como consecuencia de la producción del MU, se interrumpió el tráfico ferroviario en la est. Pelhřimov, cabecera en dirección Nová Cerekev, desde las 8:16 h del día 9. 11. 2023 hasta las 4:30 h del día 10. 11. 2023.
 
-
 ## Página 17
+
 
 ### 3.1.6 Identificación de las personas, sus funciones y los sujetos implicados
 Personas implicadas por:
@@ -576,6 +579,7 @@ en negrita se indica el RV descarrilado 914 153-2;
 el titular del DV era ČD.
 
 ## Página 18
+
 
 El estado real del tren Os 18404 constatado en el lugar del SU correspondía a la documentación del tren.
 MV 814 153-3 disponía del Certificado de aptitud del vehículo ferroviario válido, n.º de reg.: PZ9128/11-V.22,
@@ -641,8 +645,8 @@ desde el km 19,126 hasta el lugar de producción del SU en el km 14,441 – la v
  -1   ya no fue excedida
    km.h
 
-
 ## Página 19
+
 
 •
 8:15:52 h
@@ -699,8 +703,8 @@ el tren Os 18404 entró en el circuito de vía «2J», cuya ocupación, en
 el caso de una ruta de tren establecida hacia la est. Pelhřimov desde la señal
 de entrada «S» (situación antes de la producción del SU), activó la alerta del PZZ;
 
-
 ## Página 20
+
 
 • 8:15:39 h
 el PZZ emitió la orden de iniciar el descenso de las barreras;
@@ -747,8 +751,8 @@ jefe de estación de la est. Pelhřimov
   – Acta con el empleado:
 ◦tras la salida del tren Os 18404 de la est. Nová Cerekev, estableció la ruta de tren;
 
-
 ## Página 21
+
 
 ◦el PZZ en el km 18,441 mostraba un funcionamiento correcto;
 ◦al entrar el tren, oyó un golpe y fue a ver qué había ocurrido;
@@ -790,6 +794,7 @@ acción rápida, pero debido a la corta distancia se produjo la colisión. Tras 
 comunicó la producción del suceso extraordinario.
 
 ## Página 22
+
 
 ### 3.2.2 Secuencia de hechos desde la aparición del suceso hasta la finalización de las acciones de los servicios de emergencia
 9. 11. 2023
@@ -843,6 +848,7 @@ El gestor de la vía tiene, entre otras, la obligación de señalizar el paso a 
 
 ## Página 23
 
+
 Los pasos a nivel con velocidad de línea superior a 60 km.h-1 o con un valor de momento de tráfico que supere los 10 000 se protegen mediante un dispositivo de señalización luminoso de paso a nivel, que debe advertir a los usuarios de la vía pública con la antelación suficiente de que se aproxima a un paso a nivel un vehículo ferroviario, mediante luz roja intermitente y señal sonora intermitente. El paso a nivel P6353 estaba protegido también con una barrera mecánica (barras de barrera rebatidas). Los pasos a nivel protegidos de esta manera deben estar señalizados, según las reglas establecidas para su ubicación, con una placa con la inscripción «POZOR VLAK» (ATENCIÓN TREN). Asimismo, debe garantizarse la distancia de visibilidad Dz hacia la cruz de aviso, el anunciador y, en el caso del paso a nivel P6353, también hacia la barra de barrera rebatida. En caso de avería o desconexión del PZZ, debe garantizarse la distancia de visibilidad para el vehículo rodado más lento Lp hacia el vehículo ferroviario desde una distancia perpendicular de 4 m del eje de la vía exterior. En dicho caso, el vehículo ferroviario tiene la obligación de circular a una velocidad de hasta 10 km.h-1.
 La DI, al evaluar el paso a nivel P6353 y su PZZ, se guió por el principio generalmente aceptado de que la conformidad de una obra con la ley se evalúa según la legislación vigente en el momento de su construcción. Por ello, la DI solicitó al gestor de la vía y a la DÚ los siguientes documentos:
 •
@@ -863,6 +869,7 @@ el gestor de la vía SŽ presentó el documento «Tabulka přejezdu» (Tabla del
 
 ## Página 24
 
+
 ### 1. Evaluación del estado del paso a nivel y de algunos parámetros del PZZ:
 El paso a nivel evaluado, P6353, estaba protegido por un PZZ luminoso de categoría PZS 3ZI, tipo AŽD PZZ-EA, con tres barras de barrera accionadas por un mecanismo tipo PINTSCH BAMAG, cinco anunciadores AŽD 97 (sin señalización positiva) con cinco placas con la inscripción «POZOR VLAK» (ATENCIÓN TREN). Los soportes con anunciadores estaban también equipados con cinco señales verticales A 32a «Cruz de aviso para paso a nivel ferroviario de vía única».
 No se detectó deficiencia en la ubicación de las cruces de aviso, los anunciadores y los soportes de las barras de barrera.
@@ -881,8 +888,8 @@ Criterios importantes para la evaluación:
 •
 según el documento del gestor de la vía «Souhrnné údaje o přejezdu» (Datos resumidos del paso a nivel), el paso a nivel fue instalado el 16. 12. 1888. La DI no recibió de la DÚ ninguna de la documentación constructiva solicitada. Por tanto, no se llevó a cabo ninguna modificación constructiva sometida al proceso de declaración de la obra al ayuntamiento o a la ejecución de la obra con licencia de construcción. El paso a nivel pasó su última reparación el 30. 6. 2007. La DI evaluó así el estado de la superficie del paso a nivel y de otros
 
-
 ## Página 25
+
 
 parámetros relevantes para esta parte de la evaluación, según la ČSN 73 6380 Z1, según la cual, según la documentación, el gestor de la vía explota el paso a nivel;
 •
@@ -897,6 +904,7 @@ A la izquierda en el sentido de circulación del tren, conecta con la vía que a
 
 ## Página 26
 
+
 cruces) comienza en el límite de 5,70 m desde la zona de peligro del paso a nivel. La señal de tráfico longitudinal «Línea transversal continua» (el segundo límite posible del cruce) no estaba instalada en la calzada en el sentido desde el paso a nivel hacia la carretera I/34.
 ### Descripción del riesgo:
 Dada la intensidad del tráfico en la carretera principal I/34 y los vehículos largos detenidos al ceder el paso desde la vía local que atraviesa el paso a nivel, parte del vehículo detenido permanece en la zona de peligro del paso a nivel e invade el perfil de paso de la vía (véase Fig. n.º 3). El PZZ no puede reaccionar ante esta situación y durante la circulación del tren existe el riesgo de daño al travesaño de los raíles tras su descenso sobre la estructura del vehículo y de colisión del tren con la parte trasera del vehículo.
@@ -910,8 +918,8 @@ Conclusión de la DI sobre la parte de evaluación del cumplimiento de las oblig
 ### la aparición del MU:
 No fue posible localizar, debido a la falta de información, las normas y reglamentos vigentes en la época de la construcción del tramo de cuatro carriles a través de la ciudad de Pelhřimov (carretera I/34, calle «Nádražní») que hubieran exigido la modificación de la distancia del límite del cruce desde la zona de peligro del paso a nivel. En el mencionado período, el paso a nivel se operaba localmente, es decir, estaba presente el factor humano que participaba en la comprobación de la evacuación del paso a nivel antes de la circulación del tren – el riesgo no se generaba (véase más arriba).
 
-
 ## Página 27
+
 
 Paradójicamente, la aparición del riesgo se data en la fecha de la elevación del grado de protección del paso a nivel, ya que el PZZ automático no puede supervisar la evacuación del paso a nivel. La obra que acogió la elevación del grado de protección no está, por su contenido, vinculada a la evaluación y consideración del art. 5.2. de la ČSN 73 6380 Z1.
 En la investigación no se detectó infracción de las funciones y obligaciones del operador de la infraestructura; sin embargo, el riesgo detectado, que en el pasado ya estuvo en relación causal con la aparición de un MU en el paso a nivel P6353 (véase el capítulo 4.5 de esta ZZ), es el motivo para que la DI emita una recomendación de seguridad.
@@ -943,8 +951,8 @@ Superación de la velocidad máxima permitida por el maquinista del tren:
 «El tren no debe superar la velocidad máxima permitida, que se determina como el valor más bajo de
 a) la velocidad de vía en el tramo de vía correspondiente,
 
-
 ## Página 28
+
 
 d) la velocidad permitida establecida por las señales, por orden escrita o
 por orden dada mediante equipo de telecomunicaciones.»;
@@ -958,8 +966,8 @@ Las especificaciones técnicas de interoperabilidad no exigen que el DV esté eq
 El transportista ČD, al explotar el transporte ferroviario, utilizaba para el tren Os 18404 un vehículo ferroviario de tracción cuyo radioteléfono instalado a bordo no tenía instalada la tarjeta SIM para la comunicación en la red GSM-R CZ adaptada para la recepción de la llamada unidireccional 499 – «STOP VLAK».
 Dado el suceso del accidente y el lugar del MU con una infraestructura equipada con un sistema de radio de vía analógico TRS, se trata de un hallazgo al margen de la causa de la aparición del MU.
 
-
 ## Página 29
+
 
 ### Hallazgos:
 En la investigación se detectó infracción de la normativa legal y de las normativas internas, relativas a las funciones
@@ -979,6 +987,7 @@ En la investigación no se detectó infracción de las funciones y obligaciones 
 
 ## Página 30
 
+
 ### 4.1.5 Entidades notificadas, entidades designadas y entidades de evaluación de riesgos
 En la investigación no se detectó incumplimiento de las funciones y obligaciones de las entidades notificadas, las entidades designadas y las entidades de evaluación de riesgos.
 ### 4.1.6 Entidades de certificación responsables del mantenimiento del material rodante
@@ -997,25 +1006,23 @@ En la investigación se detectó el incumplimiento de la normativa relativa a la
 § 29, apartado 1, letra f), de la Ley núm. 361/2000 Sb.:
 «El conductor no debe entrar en el paso a nivel si la situación tras el paso a nivel no permite cruzarlo de forma segura y continuar la marcha.»
 
-
 ## Página 31
 
-### Gestor de la vía local (Ayuntamiento de Pelhřimov)
-La DI, durante la investigación del MU, sobre la base de los hallazgos indicados en el capítulo 3.1.3 de la presente ZZ, solicitó al Ayuntamiento de Pelhřimov el siguiente pronunciamiento:
+### Gestor de la vía pública (Ayuntamiento de Pelhřimov)
+Durante la investigación, la DI, sobre la base de los hallazgos indicados en el capítulo 3.1.3 de este Informe, solicitó al Ayuntamiento de Pelhřimov el siguiente pronunciamiento:
 Solicitud de la DI:
-«Durante la investigación, la DI comprueba, entre otros aspectos, la ubicación de la señalización de tráfico en la carretera que atraviesa el paso a nivel, incluidas las vías que se incorporan en las proximidades del paso a nivel a la vía que se cruza. En el caso de la vía denominada "U Agrostroje", no se informa al conductor mediante ninguna señalización de tráfico de que se dirige hacia un paso a nivel. No obstante, al entrar en la intersección desde las vías "Za náspem", está obligado a detenerse gracias a la colocación de una señal vertical de tráfico que regula la preferencia "P 6 ¡Alto, ceda el paso!". De este modo se interrumpe su marcha, que el conductor debería, si estuviera informado del paso a nivel próximo (lo cual no ocurre desde esta dirección), ajustar según la regla general "el conductor puede circular por el paso a nivel y 50 metros antes del mismo a una velocidad máxima de 30 km/h". Desde el lugar de ceder el paso se ve con fiabilidad el elemento de advertencia izquierdo o las barras de barrera bajadas… Conforme a la metodología interna de investigación de la DI, solicitaría alguna decisión/pronunciamiento del gestor de la vía denominada "U Agrostroje" que precediera a la solución de señalización de tráfico antes del paso a nivel descrita anteriormente».
-En la respuesta de la DI del Ayuntamiento de Pelhřimov se indica:
-«El Ayuntamiento de Pelhřimov, departamento de gestión de carreteras, que de conformidad con el § 40, apartado 4, letra a), de la Ley núm. 13/1997 Sb., de carreteras, en su versión vigente (en adelante, Ley de carreteras), es la autoridad administrativa de carreteras competente en materia de carreteras de segunda y tercera clase y de vías de uso público en el distrito administrativo del municipio con competencias ampliadas de Pelhřimov, en respuesta a su solicitud relativa al pronunciamiento sobre la calle U Agrostroje, donde no se informa al conductor mediante ninguna señalización de tráfico de que se dirige hacia el próximo paso a nivel ferroviario, comunica lo siguiente:
+«Durante la investigación, la DI, entre otras cosas, verifica también la ubicación de la señalización de tráfico en la vía pública que atraviesa el paso a nivel, incluidas las vías que se incorporan en las proximidades del paso a nivel a la vía que se cruza. En el caso de la vía denominada "U Agrostroje", mediante ninguna señalización de tráfico se informa al conductor de la circulación hacia el paso a nivel. Sin embargo, al mismo tiempo, al entrar en la intersección desde las vías "Za náspem", está obligado a detenerse, gracias a la ubicación de la señal vertical de prioridad "P 6 ¡Alto, ceda el paso en la circulación!". De este modo se interrumpe su circulación, que el conductor debería, si se le informara del paso a nivel próximo (lo cual no ocurre desde esta dirección), ajustar según la regla general "el conductor puede circular en el paso a nivel y 50 metros antes de él a una velocidad máxima de 30 km/h". Desde el lugar de cesión del paso en la circulación se ve con fiabilidad el semáforo izquierdo o las barreras bajadas… De acuerdo con la metodología interna de investigación de la DI, solicitaría alguna decisión/pronunciamiento del gestor de la vía denominada "U Agrostroje", que precediera a la solución de señalización de tráfico antes del paso a nivel descrita anteriormente».
+En la respuesta del Ayuntamiento de Pelhřimov a la DI se indica:
+«El Ayuntamiento de Pelhřimov, departamento de gestión de carreteras, que de conformidad con el apartado 4, letra a), del artículo 40 de la Ley núm. 13/1997 Sb., de vías públicas, en la redacción de las disposiciones posteriores (en adelante, la Ley de vías públicas), es la autoridad administrativa de carreteras competente en materia de carreteras de clase II y III y de vías de uso público con destino específico en el distrito administrativo del municipio con competencias ampliadas de Pelhřimov, en respuesta a su solicitud relativa al pronunciamiento sobre la calle U Agrostroje, donde mediante ninguna señalización de tráfico se informa al conductor de la circulación hacia el paso a nivel ferroviario próximo, comunica lo siguiente:
 ### Pronunciamiento
-Dado que al entrar desde la calle U Agrostroje en la intersección con la vía "Za náspem" el conductor está obligado a detenerse, debido a la colocación de la señal vertical de tráfico que regula la preferencia P6 (¡Alto, ceda el paso!), y que desde el lugar de ceder el paso se ve con fiabilidad el elemento de advertencia izquierdo o las barras de barrera bajadas conforme a los requisitos de la ČSN 76 6380, no observamos aquí ningún problema de seguridad.»
+Dado que al entrar desde la calle U Agrostroje en la intersección con la vía "Za náspem" el conductor está obligado a detenerse, debido a la ubicación de la señal vertical de prioridad P6 (¡Alto, ceda el paso en la circulación!), y desde el lugar de cesión del paso en la circulación se ve con fiabilidad el semáforo izquierdo o las barreras bajadas según el requisito de la norma ČSN 76 6380, no se constata aquí ningún problema de seguridad».
 ### Dirección de Carreteras y Autopistas, s. p.
-La DI, durante la investigación del MU, sobre la base de los hallazgos indicados en el capítulo 3.1.3 de la presente ZZ («La distancia de la señal vertical de tráfico en la carretera I/34 (calle Nádražní) en el sentido de circulación desde el centro de la ciudad de Pelhřimov hacia la derecha al paso a nivel (las únicas señales de advertencia A 31c complementadas con la señal A 29 y E 7b) era de 62 m. En la carretera I/34 (calle "Nádražní") en el sentido de circulación hacia el centro de la ciudad de Pelhřimov hacia la izquierda al paso a nivel, no se informaba a los conductores mediante ninguna señalización de tráfico de que se dirigen hacia el paso a nivel»), solicitó a la Dirección de Carreteras y Autopistas, s. p., el siguiente pronunciamiento:
+Durante la investigación, la DI, sobre la base de los hallazgos indicados en el capítulo 3.1.3 de este Informe («La distancia de la señalización vertical en la carretera I/34 (calle Nádražní) en el sentido de circulación desde el centro de la ciudad de Pelhřimov hacia la derecha hasta el paso a nivel (la única señal de advertencia A 31c complementada con la señal A 29 y E 7b) era de 62 m. En la carretera I/34 (calle "Nádražní") en el sentido de circulación hacia el centro de la ciudad de Pelhřimov hacia la izquierda hasta el paso a nivel, mediante ninguna señalización de tráfico se informaba a los conductores de la circulación hacia el paso a nivel»), solicitó a la Dirección de Carreteras y Autopistas, s. p., el siguiente pronunciamiento:
 Solicitud de la DI:
-«Durante el examen del lugar del MU, los inspectores de la Inspección Ferroviaria (DI) comprobaron también la ubicación de la señal vertical de tráfico antes del paso a nivel en la carretera de primera clase núm. 34.
-Se midió la distancia de la placa indicativa A 31c, complementada en el soporte con la placa complementaria E 7b y la señal de advertencia A 29, al elemento de advertencia del dispositivo de enclavamiento del paso a nivel
-
+«Durante el reconocimiento del lugar, los inspectores de la Inspección Ferroviaria (DI) verificaron también la ubicación de la señalización vertical antes del paso a nivel en la carretera de clase I núm. 34. Se midió la distancia de la placa de señal A 31c, complementada en el soporte con la placa complementaria E 7b y la señal de advertencia A 29, desde el semáforo del paso a nivel del sistema de seguridad
 
 ## Página 32
+
 
 ubicado en el sentido de circulación de los vehículos por carretera que giran a la derecha hacia el paso a nivel desde la carretera de primera clase núm. 34.
 ### La ubicación encontrada a una distancia de 62 m no corresponde a los requisitos de distancia establecidos en el § 4 del Decreto núm. 294/2015 Sb., por el que se aplican las normas de circulación en las carreteras, y en el punto 9.2.1 de las condiciones técnicas TP 65 Directrices para la señalización de tráfico en las carreteras.
@@ -1038,8 +1045,8 @@ En respuesta a su solicitud, hemos realizado en el lugar indicado nuestra propia
 Dada la relativa falta de visibilidad del lugar en el tramo indicado de la carretera I/34, verificaremos aún, en colaboración con nuestros especialistas, la realización de posibles modificaciones o complementos de la señalización horizontal».
 El gestor de la carretera tiene la obligación de colocar antes del paso a nivel la señal A 30 (paso a nivel sin barreras) y, según la situación, antes del paso a nivel las placas indicativas núm. A 31a (placa indicativa 240 m), núm. A 31b (placa indicativa 160 m) y núm. A 31c (placa indicativa 80 m) a las distancias indicadas. El problema es que la colocación de las placas indicativas y la visibilidad de las señales de tráfico no están establecidas con carácter jurídicamente vinculante. La forma de ubicación de las placas indicativas la establece el Decreto
 
-
 ## Página 33
+
 
 núm. 294/2015 Sb., sin embargo, este no establece la obligación de colocar placas indicativas. Más concretamente, las condiciones de colocación de las placas indicativas las regulan la TP 65 y la TP 169. Las condiciones técnicas son, no obstante, en general no vinculantes, y esto también se aplica a este caso. Del mismo modo, la visibilidad de las señales de tráfico se regula en el § 2 del Decreto núm. 294/2015 Sb., que establece únicamente de forma general «Las señales verticales de tráfico se colocarán de modo que sean visibles con antelación y a una distancia suficiente para los usuarios de la circulación en las carreteras para las que están destinadas.». Los valores concretos de visibilidad mínima los establece el art. 7.4 de la TP 65, y por tanto se trata nuevamente solo de condiciones técnicas no vinculantes jurídicamente.
 ### Policía de la República Checa, Inspección de Tráfico de Pelhřimov.
@@ -1061,6 +1068,7 @@ En la investigación no se detectaron factores derivados de la construcción del
 
 ## Página 34
 
+
 4.2.2 Factores o consecuencias derivados de la instalación y puesta en servicio de vehículos ferroviarios, infraestructura ferroviaria o instalaciones técnicas
 En la investigación no se detectaron factores derivados de la instalación y puesta en servicio de vehículos ferroviarios, infraestructura ferroviaria o instalaciones técnicas.
 ### 4.2.3 Factores o consecuencias relacionados con el fabricante de vehículos ferroviarios u otro proveedor de productos ferroviarios
@@ -1081,8 +1089,8 @@ En la investigación no se detectaron factores relacionados con la organización
 ### 4.3.4 Factores relacionados con el entorno laboral
 En la investigación no se detectaron factores relacionados con el entorno laboral.
 
-
 ## Página 35
+
 
 ### 4.3.5 Otro factor relevante a efectos de la investigación
 En la investigación no se detectaron otros factores relacionados con la actuación de las personas implicadas.
@@ -1102,43 +1110,42 @@ El gestor de infraestructura explotaba la infraestructura en virtud de una autor
 ### 4.4.7 Otros factores sistémicos
 En la investigación no se detectaron otros factores sistémicos.
 
-
 ## Página 36
 
-### 4.5 Sucesos anteriores de naturaleza similar
-La Inspección Ferroviaria (DI) registra en las líneas de ámbito nacional y regional, en el periodo del 1 de enero de 2008 hasta la fecha de origen de la MU en cuestión, 126 MU similares, en los que se produjo la colisión de trenes con vehículos de motor de carretera en pasos a nivel (ŽP) protegidos por señales de paso a nivel (PZZ) con barreras. En estos MU resultaron fallecidas 9 personas, 68 personas resultaron heridas y los daños causados ascendieron a 242 035 742 CZK.
-En el periodo indicado, la DI registra en el paso a nivel P 6353 dos MU similares:
+### 4.5 Eventos anteriores de naturaleza similar
+DI registra en las líneas nacionales y regionales, en el período desde el 1. 1. 2008 hasta la fecha de ocurrencia de la MU en cuestión, 126 MU similares, en las que en PP protegidos por PZZ con barreras tuvo lugar la colisión de trenes con vehículos automotores de carretera. En estas MU resultaron fallecidas 9 personas, 68 personas sufrieron daños a la salud y el daño causado ascendió a 242 035 742 CZK.
+En el período indicado, DI registra en el PP P 6353 dos MU similares:
 •
-del 8 de marzo de 2011, en el que se produjo la colisión del tren Os 18411 con un camión. En el MU no se produjeron daños personales. Los daños totales se valoraron en 16 226 CZK;
-De la documentación e información recabadas por la DI se desprende que la causa del origen del MU fue el riesgo existente detectado por la DI en esta ZZ:
+del 8. 3. 2011, en la que tuvo lugar la colisión del tren Os 18411 con un camión. En la MU no se produjeron daños a la salud. El daño total se valoró en 16 226 CZK;
+De la documentación e información recabadas por DI se concluyó que la causa de la MU fue el riesgo existente detectado por DI en esta ZZ:
 •
-el conductor entró en el paso a nivel con un vehículo largo (NA) en un momento en que le estaba permitido hacerlo;
+el conductor entró en el paso a nivel con un NA largo en el momento en que se le permitía hacerlo;
 •
-sin embargo, se produjo una larga parada en el espacio comprendido entre la franja peligrosa del paso a nivel y el límite de la intersección con la calle „Nádražní“ (cedencia de paso);
+sin embargo, se produjo una larga parada en el espacio entre la banda de peligro del paso a nivel y el límite de la intersección con la calle „Nádražní“ (cedencia de paso en la circulación);
 •
-la posterior circulación del tren y la actuación de la PZZ no eliminaron en modo alguno el riesgo existente, con el que se produjo la intrusión de la parte trasera del vehículo largo (NA) detenido en el perfil de circulación de la vía en el espacio del paso a nivel.
+posteriormente, la circulación del tren y la acción del PZZ no eliminaron de ninguna manera el riesgo existente, con el que se produjo la invasión de la parte trasera del NA largo detenido en la sección de paso de la vía en el espacio del paso a nivel.
 •
-del 13 de enero de 2015, en el que se produjo la colisión del tren Os 18411 con un automóvil. En el MU no se produjeron daños personales. Los daños totales se valoraron en 31 750 CZK. La causa del origen del MU fue la no atención a la advertencia luminosa y sonora de la PZZ y la posterior encierro del conductor del automóvil en el espacio del paso a nivel entre las barreras bajadas.
+del 13. 1. 2015, en la que tuvo lugar la colisión del tren Os 18411 con un automóvil. En la MU no se produjeron daños a la salud. El daño total se valoró en 31 750 CZK. La causa de la MU fue la no atención de la advertencia luminosa y sonora del PZZ y la posterior encierro del conductor del automóvil en el espacio del paso a nivel entre las barreras bajadas.
 ### 5 CONCLUSIONES
 ### 5.1 Resumen del análisis y conclusiones relativas a las causas del suceso
 La causa inmediata del suceso extraordinario fue:
 •
-la entrada de un camión en el paso a nivel P6353 en un momento en que la situación más allá del paso a nivel no le permitía cruzarlo de forma segura y continuar la marcha.
-No se detectó por parte de la DI ningún factor contribuyente al suceso extraordinario.
-No se detectó por parte de la DI ninguna causa sistémica.
-### A summary of the analysis and conclusions with regard to the causes of the
+la entrada de un camión en el paso a nivel P6353 en el momento en que la situación más allá del paso a nivel no le permitía cruzarlo con seguridad y continuar la marcha.
+No fue detectado por DI ningún factor contribuyente del suceso extraordinario.
+No fue detectada por DI ninguna causa sistémica.
+### A summary of the analysis and conclusions with regard to the causes of the 
 occurrence
 Causal factor:
 •
-entrance of the lorry at the level crossing No. P6353 at the time when the situation
-behind the level crossing did not allow its safe cross over and continuation in next
+entrance of the lorry at the level crossing No. P6353 at the time when the situation 
+behind the level crossing did not allow its safe cross over and continuation in next 
 ride.
 Contributing factor: none.
 Systemic factor:
 none.
 
-
 ## Página 37
+
 
 ### 5.2 Medidas adoptadas para la prevención de sucesos extraordinarios
 El gestor de infraestructura SŽ adoptó tras el origen del MU las siguientes medidas:
@@ -1184,8 +1191,8 @@ At the railway undertaking ČD:
 exceeding the maximum permitted speed of the regional passenger train No.
 18404;
 
-
 ## Página 38
+
 
 •
 use of locomotive which was not equip technical resources for realization automatic
@@ -1215,8 +1222,8 @@ inspector
 Inspección Ferroviaria Territorial de Brno
 Inspección Ferroviaria Territorial de Brno
 
-
 ## Página 39
+
 
 ### ANEXOS
 Fig. n.º 4: Vista del lugar del MU desde la derecha en el sentido de circulación del tren

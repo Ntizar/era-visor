@@ -10,13 +10,14 @@ chars: 94115
 ratio_longitud: 1.23
 tokens_in: 45805
 tokens_out: 31005
-verificacion: revisar
-notas_cifras: ["bloque 1: original bilingüe: se compara contra el idioma principal (EN)", "bloque 2: original bilingüe: se compara contra el idioma principal (CS)", "bloque 3: cifras cortas: 3/170", "bloque 4: cifras cortas: 11/96", "bloque 5: original bilingüe: se compara contra el idioma principal (CS)", "bloque 7: original bilingüe: se compara contra el idioma principal (CS)"]
-avisos: ["bloque 7: ratio 1.74"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 3: original bilingüe: se compara contra el idioma principal (PT)", "página 4: original bilingüe: se compara contra el idioma principal (CS)", "página 6: original bilingüe: se compara contra el idioma principal (CS)", "página 7: original bilingüe: se compara contra el idioma principal (CS)", "página 8: original bilingüe: se compara contra el idioma principal (PL)"]
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -43,13 +44,13 @@ IČ: 75009561
 mail@dicr.cz
 tel.: +420 736 521 003
 
-
 ## Página 2
+
 
 El presente informe final es público y todos los hechos en él recogidos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ### 1 RESUMEN
 Fuente: Drážní inspekce
@@ -81,8 +82,8 @@ Recomendaciones de seguridad:
 La Drážní inspekce, con base en lo dispuesto en el § 53e apartado 1 de la Ley n.º 266/1994 Sb.,
 recomienda, en relación con la prevención de sucesos excepcionales:
 
-
 ## Página 4
+
 
 A la Drážní úřad:
 •
@@ -91,8 +92,8 @@ protegido por un dispositivo de seguridad luminoso, con barreras, que desde el p
 de la barrera óptica reduzca la probabilidad de que el conductor entre en el paso a nivel
 cuando no responda a la señalización luminosa del paso a nivel en estado de advertencia.
 
-
 ## Página 5
+
 
 ### SUMMARY
 29th December 2021, 5:45 (4:45 GMT).
@@ -135,8 +136,8 @@ equipped with barriers which with regard to point of view of optical and manual
 barrier will reduce probability of the driver’s entrance at the level crossing when he
 does not respond to light signalization in the warning state.
 
-
 ## Página 6
+
 
 # Índice
 1 RESUMEN........................................................................................................................3
@@ -186,6 +187,7 @@ ferroviaria o de las instalaciones técnicas....................................
 
 ## Página 7
 
+
 4.2.2 Factores o consecuencias derivados de la instalación y puesta en servicio de vehículos ferroviarios, infraestructura ferroviaria o instalaciones técnicas......................................31
 4.2.3 Factores o consecuencias relacionados con los fabricantes de vehículos ferroviarios u otro proveedor de productos ferroviarios............................................................................31
 4.2.4 Factores o consecuencias derivados del mantenimiento y modificación de vehículos ferroviarios o instalaciones técnicas....................................................................................................31
@@ -214,8 +216,8 @@ ferroviaria o de las instalaciones técnicas....................................
 6 RECOMENDACIONES DE SEGURIDAD.....................................................................................35
 ANEXOS..............................................................................................................................36
 
-
 ## Página 8
+
 
 ### Lista de siglas y símbolos utilizados
 CDP
@@ -276,8 +278,8 @@ estación ferroviaria
 ZZS 
 Servicio de Emergencias Sanitarias
 
-
 ## Página 9
+
 
 ### Lista de siglas de los reglamentos legales, normas y disposiciones internas utilizados
 ley núm. 266/1994 Sb. 
@@ -326,61 +328,60 @@ producirse el suceso extraordinario
 ČSN 73 6380 «Pasos a nivel y pasos peatonales ferroviarios», en la redacción
 de la modificación Z1
 
-
 ## Página 10
 
-### 2 INVESTIGACIÓN Y SU CONTEXTO
-### 2.1 Decisión de iniciar la investigación
-La DI decidió iniciar la investigación del suceso extraordinario en cuestión el 29. 12. 2021.
-### 2.2 Fundamentación de la decisión de iniciar la investigación
-La DI decidió investigar el suceso extraordinario en cuestión en función de su gravedad, la repetitividad de este tipo de sucesos extraordinarios y el impacto del suceso extraordinario en el gestor de la infraestructura y el transportista.
+### 2 INVESTIGACIÓN Y SUS RELACIONES
+### 2.1 Decisión sobre el inicio de la investigación
+El DI decidió iniciar la investigación de la MU en cuestión el 29. 12. 2021.
+### 2.2 Fundamentación de la decisión sobre el inicio de la investigación
+El DI decidió investigar la MU en cuestión sobre la base de su gravedad, la repetitividad de este tipo de MU y el impacto de la MU en el gestor de la vía y el transportista.
 ### 2.3 Alcance y limitaciones de la investigación, incluida la fundamentación correspondiente
-La DI no se encontró, en el marco de la investigación del suceso extraordinario en cuestión, con limitaciones que influyeran negativamente en el modo y los procedimientos de la investigación.
+El DI no se encontró, en el marco de la investigación de la MU en cuestión, con limitaciones que influyeran negativamente en el modo y los procedimientos de la investigación.
 ### 2.4 Descripción resumida de las capacidades y funciones técnicas del equipo de investigación
-Investigación de la DI en el lugar del suceso extraordinario:
+Investigación del DI en el lugar de la MU:
 1x inspector de la ÚI Brno.
 Constitución del equipo de investigación:
 no fue necesario constituirlo.
 Colaboración externa:
 no se utilizó.
-2.5 Comunicación y consultas durante la investigación con las personas o sujetos
+2.5 Comunicación y consultas durante la investigación con las personas o entidades
 que participaron en el suceso en cuestión
-Al investigar las causas y circunstancias de producción del suceso extraordinario, la DI se basó principalmente en sus propios conocimientos, hallazgos y en su propia documentación fotográfica. Durante la investigación, la DI solicitó la documentación necesaria al gestor de la infraestructura, al transportista y a la PČR.
-La investigación de las causas y circunstancias de producción del suceso extraordinario se realizó de acuerdo con la ley núm. 266/1994 Sb. y el decreto núm. 376/2006 Sb.
-### 2.6 Descripción del nivel de colaboración ofrecido por los sujetos implicados
-El nivel de colaboración con los representantes de los sujetos implicados en el suceso extraordinario fue estándar.
-### 2.7 Descripción de la investigación, los métodos y las técnicas utilizados para acreditar los hechos y los hallazgos recogidos en el informe
-En el marco de la investigación del suceso extraordinario, la DI procedió como sigue, es decir, utilizó, entre otros, los siguientes métodos y técnicas:
+En la investigación de las causas y circunstancias de la MU, el DI se basó principalmente en sus propios conocimientos, hallazgos y en su propia documentación fotográfica. Durante la investigación, el DI solicitó la documentación necesaria al gestor de la vía, al transportista y a la PČR.
+La investigación de las causas y circunstancias de la MU se realizó de acuerdo con la ley núm. 266/1994 Sb. y con la orden núm. 376/2006 Sb.
+### 2.6 Descripción del nivel de colaboración ofrecido por las entidades participantes
+El nivel de colaboración con los representantes de las entidades participantes en la MU fue estándar.
+### 2.7 Descripción de la investigación, los métodos y las técnicas utilizados para acreditar los hechos
+y los hallazgos indicados en el informe
+En el marco de la investigación de la MU, el DI procedió de la siguiente manera, es decir, utilizó, entre otros, los siguientes métodos y técnicas:
 •
-inspección del lugar del suceso extraordinario, incluidos los vehículos ferroviarios implicados, las instalaciones técnicas y la infraestructura ferroviaria;
+inspección del lugar del suceso excepcional, incluidos los vehículos ferroviarios participantes, las instalaciones técnicas y la infraestructura de la vía;
 •
-participación en la inspección comisionada de los vehículos ferroviarios implicados;
+participación en la inspección comisionada de los vehículos ferroviarios participantes;
 •
 medición de las condiciones de visibilidad en el paso a nivel ferroviario;
 •
-análisis de la documentación solicitada al gestor de la infraestructura, al transportista y a la PČR;
+análisis de la documentación solicitada al gestor de la vía, al transportista y a la PČR;
 •
-análisis de los datos registrados por el registrador de velocidad del vehículo ferroviario implicado;
-
+análisis de los datos registrados por el registrador de velocidad del vehículo ferroviario participante;
 
 ## Página 11
 
 •
-análisis de los datos de archivo del dispositivo de registro de la PZS y del correcto funcionamiento de la PZS;
+análisis de los datos de archivo del dispositivo de registro PZS y del funcionamiento correcto del PZS;
 •
 declaraciones de las personas implicadas.
 ### 2.8 Descripción de las dificultades y problemas concretos surgidos durante la investigación
-Durante la investigación del suceso extraordinario no surgieron dificultades ni problemas que influyeran en el desarrollo de la investigación o en sus conclusiones.
-### 2.9 Interacción con los órganos judiciales
-Durante la investigación del suceso extraordinario en cuestión no se inició, ni por parte de la DI ni por parte de los órganos judiciales, ninguna comunicación ni colaboración.
+Durante la investigación del SU no se han planteado dificultades ni problemas que pudieran influir en el desarrollo de la investigación o en sus conclusiones.
+### 2.9 Interacción con las autoridades judiciales
+Durante la investigación del SU mencionado no se ha iniciado, ni por parte de DI ni por parte de las autoridades judiciales, ninguna comunicación ni colaboración.
 ### 2.10 Cualquier otra información relevante para la investigación
-Todas las circunstancias esenciales relativas al desarrollo de la investigación del suceso extraordinario en cuestión ya se han mencionado anteriormente.
+Todas las circunstancias esenciales detectadas relativas al desarrollo de la investigación del SU mencionado ya se han indicado más arriba.
 ### 3 DESCRIPCIÓN DEL SUCESO
 ### 3.1 Descripción e información básica
 ### 3.1.1 Descripción del tipo de suceso
-Tipo de suceso extraordinario:
-colisión en un paso a nivel ferroviario.
-Grupo de suceso extraordinario:
+Tipo de SU:
+colisión en un paso a nivel.
+Grupo de SU:
 accidente.
 ### 3.1.2 Fecha, hora exacta y lugar del suceso
 Fecha:
@@ -389,32 +390,32 @@ Hora:
 5:45 h.
 Lugar:
 vía ferroviaria, categoría regional, Tišnov – Žďár nad Sázavou,
-tramo intermedio Rožná – Bystřice nad Pernštejnem, paso a nivel
-ferroviario PZS P7054, pk 69,846.
+tramo entre estaciones Rožná – Bystřice nad Pernštejnem, paso a nivel
+PZS P7054, pk 69,846.
 Coordenadas GPS:
 49.4791417N, 16.2384044E.
 ### 3.1.3 Descripción del lugar del suceso
-El ŽP P7054 se sitúa en la vía ferroviaria, categoría regional, Tišnov – Žďár nad Sázavou, en el tramo de vía única entre la est. Rožná y la est. Bystřice nad Pernštejnem en el pk 69,846 y está protegido por una instalación de seguridad de paso a nivel luminosa sin barreras, categoría PZS 3SBI. La vía ferroviaria y la vía pública se cruzan con un ángulo de 60° (según los datos del gestor de la infraestructura). La vía pública es la carretera de III.ª clase núm. 38811, cuyo propietario es Kraj Vysočina y cuyo gestor es Krajská správa a údržba silnic Vysočiny, centro de trabajo Žďár nad Sázavou. Justo antes del ŽP, desde el lado de la localidad de Zlatkov, se une a la carretera III/38811 una vía local que conduce desde/hacia la aldea Dvořiště, la cual discurre paralela a la vía ferroviaria. Esta vía está en propiedad y gestión del municipio de Rožná.
-
+El PN P7054 se encuentra en la vía ferroviaria, categoría regional, Tišnov – Žďár nad Sázavou, en la línea de vía única entre la est. Rožná y la est. Bystřice nad Pernštejnem en el pk 69,846 y está protegido por un dispositivo de señalización de paso a nivel luminoso sin barreras, categoría PZS 3SBI. La vía y la carretera se cruzan en un ángulo de 60° (según los datos del gestor de la vía). La carretera es de clase III n.º 38811, el propietario es el Kraj Vysočina y el gestor la Krajská správa a údržba silnic Vysočiny, centro de trabajo Žďár nad Sázavou. Justo antes del PN, desde el lado de la parte municipal de Zlatkov, se une a la carretera III/38811 una vía municipal que conduce desde/hacia la aldea Dvořiště, la cual discurre paralela a la vía. Esta vía es propiedad y está bajo la gestión del municipio de Rožná.
 
 ## Página 12
 
-## Lugar del suceso extraordinario
-Fig. núm. 1: Esquema del lugar de producción del suceso extraordinario
+## Lugar del MU
+Fig. n.º 1: Esquema del lugar de origen del MU
             Fuente: Mapy.cz y DI
-De la inspección del lugar del suceso extraordinario se constató:
-La inspección del lugar de producción del suceso extraordinario se realizó en el sentido de circulación del tren, compuesto por el tren automotor Regionova Trio, desde la posición final de la parte trasera del HDV CZ-ČD 95 54 5 814 227-5 (en adelante también HDV 814 227-5) en el pk 69,839, a través del ŽP P7054, alrededor del DV intercalado CZ-ČD 95 54 5 014 014-5 (en adelante DV intercalado), hasta la posición final de la parte delantera del HDV CZ-ČD 95 54 5 814 228-3 (en adelante también HDV 814 228-3) en el pk 68,882.
+Del examen del lugar del MU se constató lo siguiente:
+El examen del lugar de origen del MU se realizó en el sentido de marcha del tren, formado por el conjunto motor Regionova Trio, desde la posición final de la parte trasera del HDV CZ-ČD 95 54 5 814 227-5 (en adelante también HDV 814 227-5) en el km 69,839, a través del ŽP P7054, alrededor del DV intercalado CZ-ČD 95 54 5 014 014-5 (en adelante DV intercalado), hasta la posición final de la parte delantera del HDV CZ-ČD 95 54 5 814 228-3 (en adelante también HDV 814 228-3) en el km 68,882.
 Estado de los vehículos ferroviarios:
 •
-el tren estaba compuesto por un tren automotor de tres vehículos «Regionova» de la serie 814, formado por el HDV 814 228-3) a la cabeza, el DV intercalado y el HDV 814 227-5 al final del tren;
+el tren estaba formado por el conjunto motor de tres vehículos "Regionova" serie 814, compuesto por el HDV 814 228-3) en cabeza, el DV intercalado y el HDV 814 227-5 en la cola del tren;
 •
-la parte delantera del HDV 814 228-3 en la posición final tras el suceso extraordinario se detuvo en la vía de tráfico en el pk 68,882, es decir, 36 m después del ŽP P7054;
+la parte delantera del HDV 814 228-3 en la posición final tras el MU se detuvo en la vía de servicio en el km 68,882, es decir, 36 m detrás del ŽP P7054;
 •
-el HDV 814 228-3 a la cabeza del tren y el DV intercalado descarrilaron con todos los ejes hacia la derecha en el sentido de circulación del tren. Estos DV quedaron sobre los bogies con las ruedas incrustadas en la superestructura ferroviaria e inclinados hacia el lado derecho. El HDV 814 227-5 al final del tren permaneció detenido sin descarrilar en el espacio del ŽP;
+el HDV 814 228-3 en cabeza del tren y el DV intercalado descarrilaron con todos los ejes hacia la derecha en el sentido de marcha del tren. Estos DV quedaron sobre los bogies con las ruedas incrustadas en la superestructura ferroviaria e inclinados hacia el lado derecho. El HDV 814 227-5 en la cola del tren permaneció detenido sin descarrilar en el ámbito del ŽP;
 •
-en la cabina de conducción del HDV 814 228-3 estaba adherido un mensaje permanente de frenado. La cabina estaba equipada con un indicador electrónico de velocidad Unicontrols – Tramex. El selector de control estaba posicionado para la marcha hacia adelante, la regulación automática de velocidad estaba ajustada a 50 km.h-1, el mando del freno directo se encontraba en la posición B2 – completamente
+en la cabina de conducción del HDV 814 228-3 estaba adherido un mensaje permanente de frenado. La cabina estaba equipada con un velocímetro indicador electrónico Unicontrols – Tramex. El conmutador de control estaba seleccionado para marcha hacia adelante, la regulación automática de velocidad estaba ajustada a 50 km.h-1, el mando del freno directo se encontraba en la posición B2 – completamente
 
 ## Página 13
+
 
 detenido. En la cabina del maquinista se aseguró, entre otros, documentalmente la documentación del tren;
 •
@@ -432,8 +433,8 @@ Estado de la infraestructura y del dispositivo de seguridad:
 El paso a nivel de vía única P7054 es un cruce de la vía con una vía de comunicación terrestre, carretera de clase III n.º 38811. El paso a nivel estaba protegido por un dispositivo de seguridad de paso luminoso sin barreras (PZS 3SBI tecnología VÚD), que en el momento de la inspección inicial se encontraba en aviso. El paso a nivel, en el sentido de circulación del vehículo motor desde la parte local de Zlatkov, estaba señalizado con la señal de tráfico A32a «Cruz de aviso para paso a nivel ferroviario de vía única», colocada en el brazo sobre el semáforo a una distancia de 4,60 m del eje del TK. Desde el mismo lado, el paso a nivel estaba señalizado con otra VK, en el sentido de la vía local que conduce desde la aldea Dvořiště, que discurre paralela a la vía y se une desde la derecha a la carretera III/38811 justo antes del paso a nivel. Desde el lado opuesto del paso a nivel, desde el centro de la localidad de Rožná, el paso a nivel estaba igualmente señalizado con una VK, colocada en el brazo sobre el semáforo a una distancia de 5,00 m del eje de la vía. La parte superior de esta VK con el semáforo estaba, en la dirección perpendicular al eje de la vía, desviada de la vertical unos 15° hacia el lado de la nivelación ascendente del terreno. Todas las VK se encontraban en buen estado técnico, al igual que todos los semáforos, y en su cara trasera llevaban una identificación alfanumérica legible. En todos los semáforos del paso a nivel estaba activada la señalización de aviso activa (destello alternante de luces rojas + campana del PZS activada) y debajo de ellos había placas con el aviso «¡CUIDADO, TREN!».
 La calzada del paso a nivel y la vía de comunicación terrestre adyacente estaban, en el momento de la inspección inicial, cubiertas por una capa de nieve pisoteada. En la calzada nevada del paso a nivel, desde el lado del paso a nivel de la parte local de Zlatkov en el sentido de circulación del tren, se encontraban huellas de derrape por el roce de las ruedas de un vehículo de carretera que se dirigía hacia la zanja de drenaje junto a la vía, en la que se encontraba la parte frontal del NA Mercedes Benz Actros 3344 AK volcado sobre su flanco derecho en versión para el mantenimiento
 
-
 ## Página 14
+
 
 invernal de calzadas. La parte trasera del citado NA invadía la vía. En el lado de la vía orientado hacia el centro de la localidad de Rožná, en el sentido de circulación del tren, en el desmonte de la vía de tierra en un tramo de 30 m de longitud desde el paso a nivel, se encontraban huellas grabadas por el roce de las ruedas de los DV descarrilados en las estructuras del superestructura e infraestructura del ferrocarril. El HDV en cabeza y el DV intercalado estaban descarrilados en todos sus ejes y, con las ruedas incrustadas en la superestructura del ferrocarril, apoyados parcialmente con el flanco derecho en la pendiente del desmonte. En el lugar donde finaliza el paso de hormigón estaba instalada una señal fija de aviso «Hito de aviso» con la señal «Pite», que estaba desviada de la vertical unos 40° hacia la pendiente. En la pendiente superior se encontraba el edificio de tecnología PZZ.
 En el edificio de tecnología PZZ se descargaron los datos de archivo del dispositivo de registro con el fin de su evaluación por parte de una persona cualificada del operador de la vía. Además, allí se documentó fotográficamente el Registrador de averías del equipo de comunicaciones y seguridad, el plan de mantenimiento y los protocolos de las mediciones en servicio.
@@ -469,8 +470,8 @@ a la izquierda en el sentido de circulación del tren (carretera III/38811 desde
 •
 a la izquierda en el sentido de circulación del tren (vía local paralela al eje de la vía desde la aldea Dvořiště), distancia de la señal de tráfico:
 
-
 ## Página 15
+
 
 ◦A 31c + A 30 + E 7b – 71 m;
 ◦A 31b – 150 m;
@@ -520,8 +521,8 @@ Con motivo del MU se produjo daño en:
 el camión marca Mercedes Actros
 2 000 000 Kč;
 
-
 ## Página 16
+
 
 •
 la pantalla del teléfono móvil
@@ -565,8 +566,8 @@ El transporte ferroviario se prestaba en virtud de un contrato celebrado entre e
 | Porcentajes de frenado necesarios (%): | 79 |  |  |  |
 | Porcentajes de frenado reales (%): | 101 |  |  |  |
 
-
 ## Página 17
+
 
 | Porcentajes de frenado faltantes (%): | 0 |
 | Velocidad máxima permitida del tren en el lugar del MU (km.h-1): | 50 |
@@ -617,6 +618,7 @@ parada del tren en el km 69,882.
 
 ## Página 18
 
+
 El maquinista manejó correctamente el sistema de señalización del tren durante todo el trayecto y no superó la velocidad máxima permitida. La prueba de alcoholemia de orientación practicada al maquinista por miembros de la Policía Nacional dio como resultado «negativa». El estado real del tren comprobado en el lugar por el MU correspondía a la documentación del tren. La aparición del MU no guardaba relación causal con el estado técnico de la DV (unidad de motor).
 
 ### 3.1.8 Descripción de las partes pertinentes de la infraestructura y del sistema de señalización
@@ -641,8 +643,8 @@ Sobre la base del análisis de los datos registrados se constató que el circuit
 
 Las inspecciones periódicas del PZS se realizaron conforme al plan de mantenimiento aprobado. La última inspección del paso a nivel antes de la aparición del MU tuvo lugar el 23 de abril de 2021. La última inspección integral de los aparatos de comunicación y señalización del PZS antes de la aparición del MU se realizó el 1 de abril de 2020 sin defectos constatados, con la conclusión de que el aparato inspeccionado y ensayado es operativamente apto. La última revisión periódica de la instalación eléctrica del PZS tuvo lugar el 1 de abril de 2020 con 1 defecto constatado (en la caseta tecnológica no es posible desconectar los circuitos de alimentación de las baterías – sin peligro directo para la seguridad). La última inspección y medición del PZS conforme al plan de mantenimiento tuvo lugar el 13 de diciembre de 2021, con la conclusión de que el aparato de señalización se encuentra en un estado operativo-técnico satisfactorio.
 
-
 ## Página 19
+
 
 El paso a nivel P7054 en el pk 69,846 es de vía única, tiene una anchura de 6,2 m, una longitud de 6,3 m, una longitud constructiva de la estructura de paso de 9 m y un ángulo de cruce de la carretera con la vía de 60º. La estructura de paso es de aglomerado asfáltico, el tipo de firme es con revestimiento bituminoso – asfalto. Los calzos protectores se instalaron en el eje de la vía a ambos lados del paso a nivel, las anchuras de los canales para el borde de la rueda estaban en orden.
 
@@ -673,38 +675,37 @@ maquinista del tren
 ◦el conductor parecía estar en shock y le sangraba la cabeza. Decía que no tenía dientes y que «esto es para el penal»;
 ◦a los pocos minutos llegaron al lugar los bomberos y se hicieron cargo del conductor del vagón esparcidor;
 
-
 ## Página 20
 
-◦volvió al puesto del maquinista y, por el posible riesgo de incendio, apagó los motores y la calefacción;
+◦volvió a la cabina de conducción y, por el posible incendio, apagó los motores y la calefacción;
 ◦no resultó herido en el MU, pero se le rompió la pantalla del teléfono móvil;
-◦el tren estaba técnicamente en orden antes del MU.
+◦el tren estaba técnicamente en buen estado antes del MU.
 •
 maquinista del tren 
  Os 14901
   – Acta con el empleado de ČD: 
-◦el 28 de diciembre de 2021 incorporó turno según el cuadrante de turnos a las 19:42 h;
-◦el turno transcurrió sin incidencias hasta aproximadamente las 5:39 h del 29 de diciembre de 2021, cuando conducía el tren Os 14901 en el tramo entre la estación de Bystřice nad Pernštejnem y Rožná;
-◦al cruzar la señal previa de la señal de entrada de la estación de Rožná, observó en la carretera a la izquierda del paso a nivel un vagón esparcidor, detenido con la cabina y el arado orientados hacia el paso a nivel. En ese momento ya parpadeaban las luces rojas de advertencia del PZZ en el paso a nivel;
-◦en el momento en que el tren se encontraba a unos 20 m del paso a nivel, el vagón esparcidor comenzó a avanzar hacia el paso a nivel. Utilizó la bocina y abandonó con rapidez el puesto del maquinista dirigiéndose al compartimento de pasajeros;
-◦allí registró un impacto muy fuerte y varios impactos, sacudidas y vibraciones más. Tras la detención del tren, fueron junto con el jefe de tren a comprobar el estado y a prestar primeros auxilios a los pasajeros;
-◦el primer pasajero tenía una herida leve en la cara, el segundo pasajero no estaba herido y les comunicó que tenía prisa para un examen, y abandonó el tren por una de las ventanas rotas;
-◦seguidamente comunicó el MU a los servicios del IZS, al jefe de estación de Rožná y al maquinista de servicio. La jefe de tren informó al aparato de despacho y permaneció con el pasajero herido en el vagón;
+◦el 28. 12. 2021 entró en turno según el horario de turnos a las 19:42 h;
+◦el turno transcurrió sin incidencias hasta aproximadamente las 5:39 h del 29. 12. 2021, cuando conducía el tren Os 14901 en el tramo entre la est. Bystřice nad Pernštejnem y Rožná;
+◦al cruzar la señal de aproximación de la señal de entrada de la est. Rožná, avistó en la carretera a la izquierda del paso a nivel un vehículo salazón, estacionado con la cabina y el arado en dirección al paso a nivel. En ese momento ya parpadeaban las luces rojas de advertencia PZZ en el paso a nivel;
+◦en el momento en que el tren se encontraba a unos 20 m del paso a nivel, el vehículo salazón se puso en marcha en dirección al paso a nivel. Utilizó la bocina y abandonó rápidamente la cabina de conducción en dirección al compartimento para pasajeros;
+◦allí registró un golpe muy fuerte y varios golpes más, sacudidas y vibraciones. Tras la parada del tren, se dirigió junto con la jefa de tren a comprobar el estado y a prestar primeros auxilios a los pasajeros;
+◦el primer pasajero tenía una pequeña herida en la cara, el segundo pasajero no estaba herido y este les comunicó que tenía prisa para un examen, y abandonó el tren por una de las ventanas rotas;
+◦a continuación, el MU comunicó a los servicios de IZS, al jefe de estación de Rožná y al maquinista de servicio. La jefa de tren informó al aparato de despacho y permaneció con el pasajero herido en el vagón;
 ◦él fue a comprobar el estado del conductor del vehículo volcado y le ayudó a salir de su cabina. El conductor estaba en shock y tenía heridas sangrantes en la cara;
-◦seguidamente esperó la llegada de los servicios del IZS y de los órganos investigadores;
-◦la jefe de tren se quejó de dolores, por los cuales posteriormente buscó atención médica. Él mismo no resultó herido;
-◦para la circulación del tren Os 14901 no recibió ninguna orden ni información sobre la necesidad de una conducción prudente o de una circulación a velocidad reducida;
-◦debido a la urgencia del tiempo, no recuerda si utilizó los medios para detener la composición del tren. 
+◦a continuación, esperó la llegada de los servicios de IZS y de los órganos investigadores;
+◦la jefa de tren se quejó de dolores, por los que posteriormente buscó atención médica. Él mismo no resultó herido;
+◦para la circulación del tren Os 14901 no recibió ninguna orden ni información sobre la necesidad de una conducción prudente o a velocidad reducida;
+◦debido a la urgencia temporal, no recuerda si utilizó los medios para detener la composición del tren. 
 •
 maquinista del tren Os 14901
-  – Registro de la explicación prestada a DI:
-◦incorporó el turno del 28 de diciembre de 2021 sano, descansado y en buena forma;
-◦en el periodo anterior al MU no padecía ningún problema de salud más grave ni tomaba medicamentos;
-◦durante la circulación no utilizó el teléfono móvil ni ningún otro aparato de telecomunicaciones o audiovisuales y se dedicó correctamente a la conducción del tren durante todo el trayecto;
-◦la estación de radio en el coche de mando estaba en el punto del MU sintonizada en el canal simplex 12;
-
+  – Registro de la declaración prestada ante la DI: 
+◦entró en el turno del 28. 12. 2021 sano, descansado y en buena forma;
+◦en el periodo anterior al MU no padecía ningún problema de salud grave ni tomaba medicamentos;
+◦durante la marcha no utilizó el teléfono móvil ni ningún otro dispositivo de telecomunicaciones o audiovisuales y durante todo el tiempo se dedicó adecuadamente a la conducción del tren;
+◦la estación de radio en el vagón de mando estaba sintonizada en el lugar del MU en el canal simplex 12;
 
 ## Página 21
+
 
 ◦el vagón esparcidor detenido antes del paso a nivel comenzó a avanzar hacia el paso a nivel cuando el morro del tren que conducía se encontraba a unos 60 m del paso a nivel;
 ◦cree que tras pitó intentó tirar del freno, pero no está seguro de si lo logró;
@@ -730,6 +731,7 @@ jefa de tren del tren Os 14901
 ◦al pasajero mayor lo trasladó del lugar el servicio de ambulancia, al conductor del vagón esparcidor no lo vio en absoluto;
 
 ## Página 22
+
 
 ◦tras el golpe, presentaba problemas de salud que se manifestaban con dolor en el lado derecho de las costillas y en la zona de la espalda. Mediante un examen de rayos X se le detectó la fractura de 2 costillas, con lo que estuvo en baja laboral hasta el 21. 2. 2022. No fue hospitalizada, ni tampoco se vio limitada en su forma de vida habitual.
 •
@@ -759,32 +761,32 @@ pasajero del tren
 ◦no oyó ninguna señal acústica ni si el tren pitaba. No tuvo la sensación de que el tren frenara antes del choque;
 ◦primero quiso ir normalmente al trabajo, pero después le empezó a dar mareos, por lo que se dejó llevar junto con el conductor del vehículo esparcidor en una ambulancia al
 
-
 ## Página 23
 
-hospital de Nové Městě na Moravě. Le atendieron un rasguño en el lado izquierdo de la frente y un chichón en la cabeza. Mediante un examen de rayos X no se le detectó nada, por lo que lo dieron de alta del hospital de inmediato, no estuvo en baja laboral, y al día siguiente fue normalmente al trabajo. El conductor del vehículo esparcidor tenía los dientes destrozados y estaba magullado en la cabeza;
-◦en el MU, no sufrió daños materiales.
+hospital en Nové Město na Moravě. Le trataron un rasguño en el lado izquierdo de la frente y un bulto en la cabeza. En la radiografía no se le detectó nada, por lo que lo dieron de alta del hospital de inmediato, no estuvo de baja laboral, al día siguiente fue a trabajar con normalidad. El conductor del vehículo esparcidor tenía los dientes destrozados y golpes en la cabeza;
+◦en el MU no sufrió daños en sus bienes.
+
 •
 conductor del NA implicado en el MU
-  – Registro oficial de la explicación prestada a la PČR:
-◦está empleado como conductor en la empresa Krajská správa a údržba silnic Vysočiny, organización con dotación presupuestaria, en la estación de Bystřice nad Pernštejnem. Lleva empleado en esta empresa unos 4 años, de los cuales 3 años conduce el vehículo esparcidor;
-◦antes de trabajar en la carretera, fue conductor de autobús durante varios años. Nunca tuvo ningún accidente de tráfico, no sabe cuántos km ha recorrido en total;
-◦tiene experiencia conduciendo el vehículo Mercedes Benz, con el que tuvo el 29. 12. 2021 un accidente de tráfico, durante casi un año. Asimismo, tiene experiencia con la caja de cambios automática en vehículos de carga, su uso no le supone problema;
-◦el 28. 12. 2021, acudió al trabajo a las 20:30 h descansado y sano, sin ningún tipo de problemas;
-◦hasta aproximadamente las 1:00 h del 29. 12. 2021, estuvo en la sala de descanso, no sabe si durmió. Posteriormente, el despachador lo envió al terreno para despejar y esparcir sal en las carreteras;
+  – Registro oficial de la declaración prestada ante la Policía:
+◦está empleado como conductor en la empresa Krajská správa a údržba silnic Vysočiny, organización de apoyo, en la estación de Bystřice nad Pernštejnem. Lleva empleado en esta empresa unos 4 años, de los cuales 3 años conduce un vehículo esparcidor;
+◦antes de empezar a trabajar en la empresa de carreteras, fue conductor de autobús durante varios años. Nunca ha tenido ningún accidente de tráfico, no sabe cuántos km ha recorrido en total;
+◦tiene experiencia conduciendo el Mercedes Benz con el que sufrió el accidente de tráfico el 29. 12. 2021, durante casi un año. También tiene experiencia con la caja de cambios automática en vehículos de carga, su uso no le supone problema;
+◦el 28. 12. 2021 se incorporó al trabajo a las 20:30 h descansado y sano, sin ningún problema;
+◦hasta aproximadamente las 1:00 h del 29. 12. 2021 estuvo en la sala de descanso, no sabe si durmió. Después el despachador lo envió al terreno para despejar y esparcir sal en las carreteras;
 ◦salió hacia las 1:00 h por su ruta habitual, se sentía normal, nada le molestaba;
-◦durante la noche, esparció en la calzada dos depósitos completos y parte de un tercero de grava. Al amanecer, justo antes del final del turno, llegó al PŽ en Rožná;
-◦antes del paso a nivel, se detuvo a una distancia segura y se planteaba si lo cruzaba al otro lado en dirección al centro de la localidad de Rožná, o si daba la vuelta con una marcha atrás hacia la derecha y volvía a la estación;
-◦lo último que recuerda es una luz parpadeando en blanco, probablemente se trataba de la luz de la señalización de la seguridad del paso a nivel, pero no lo sabe con certeza;
-◦estuvo de pie brevemente antes del paso a nivel, unos 5 segundos, después ya no sabe qué ocurrió a continuación;
-◦posteriormente, solo recuerda el hecho de que el maquinista lo saca de la cabina del esparcidor por la puerta;
-◦no sabe cómo decidió justo antes del MU si continuar a través del paso a nivel o si retroceder con el esparcidor;
-◦el MU se produjo cuando ya estaba justo antes del final del turno. Ya no recuerda cómo se sentía en ese momento ni si estaba cansado;
-◦no recuerda las luces rojas parpadeantes del dispositivo de seguridad del paso a nivel, ni tampoco recuerda haber oído la bocina del tren;
-◦en el momento del MU estaba solo en el vehículo, no llevaba abrochado el cinturón de seguridad debido a la operación del dispositivo del vehículo esparcidor;
-
+◦durante la noche esparció en las calzadas dos depósitos completos y parte de un tercero de grava. Al amanecer, justo antes del final del turno, llegó al PFE en Rožné;
+◦antes del paso a nivel se detuvo a una distancia segura y se planteaba si lo cruzaba al otro lado en dirección al centro de la localidad de Rožná, o si daba la vuelta marcha atrás a la derecha y volvía a la estación;
+◦lo último que recuerda es una luz parpadeando en blanco, probablemente se trataba de la luz de la señalización de seguridad del paso a nivel, pero no lo sabe con certeza;
+◦estuvo parado brevemente antes del paso a nivel, unos 5 segundos, después ya no sabe qué ocurrió a continuación;
+◦posteriormente solo recuerda el hecho de que el maquinista lo saca de la cabina del esparcidor por la puerta;
+◦cómo se decidió justo antes del MU si continuar a través del paso a nivel o marcha atrás con el esparcidor, no lo sabe;
+◦el MU se produjo cuando ya estaba a punto de finalizar su turno. Ya no recuerda cómo se sentía en ese momento ni si estaba cansado;
+◦no recuerda las luces parpadeando en rojo del dispositivo de seguridad del paso a nivel, ni recuerda haber oído la sirena del tren;
+◦en el momento del MU estaba solo en el vehículo, no llevaba abrochado el cinturón de seguridad por motivo de la operación del dispositivo del vehículo esparcidor;
 
 ## Página 24
+
 
 ◦no sabe qué marcha tenía seleccionada en el vehículo. Descartó una selección errónea o accidental de la marcha del mando de la caja de cambios debido a la necesidad de pulsar simultáneamente la segura. Si en el momento de la inspección del vehículo estaba seleccionada la marcha atrás, entonces tuvo que elegirla antes del MU, pero esto ya no lo recuerda;
 ◦no manipuló con el teléfono móvil mientras conducía ni realizaba otras actividades que limitaran su atención al conducir;
@@ -808,53 +810,53 @@ conductor del NA implicado en el MU
 ◦las balizas naranjas estuvieron en funcionamiento durante todo el tiempo, pero su luz no le influyó. Utiliza las balizas habitualmente y está acostumbrado a ellas;
 ◦ninguna influencia externa (por ejemplo, la radio a un volumen alto, el teléfono móvil) le distrajo, no tienen radio en el vehículo;
 
-
 ## Página 25
 
-◦en el accidente, sufrió lesiones;
-◦realiza formación profesional para conductores cada año en el marco de su actividad laboral. No recuerda que en estas formaciones se tratara nunca la cuestión de la señalización de pasos a nivel ferroviarios y su uso en la declaración de accidentes de tráfico.
+◦en el accidente sufrió lesiones;
+◦pasa cada año por la formación profesional de los conductores en el marco de su actividad laboral. No recuerda que en dichas formaciones se haya tratado alguna vez la cuestión de la señalización de los pasos a nivel y su uso en la declaración de accidentes de tráfico.
 ### 3.2 Descripción fáctica del suceso
 ### 3.2.1 Secuencia de hechos que condujeron al suceso extraordinario
-El 29. 12. 2021 a las 5:37:13 h, el tren Os 14901 partió de la est. Bystřice nad Pernštejnem hacia la vía de tráfico en dirección a la est. Rožná. En 495 m de vía y en 59 s, el tren alcanzó la velocidad de 50 km.h-1, que el maquinista mantuvo con el regulador automático de velocidad hasta el PŽ P7054. Al pasar la preseñal del señal de entrada de la est. Rožná, el maquinista divisó a la izquierda del paso a nivel un NA (vehículo esparcidor) con la cabina y el pala en dirección al paso a nivel, y al mismo tiempo observó que parpadeaban las luces rojas de advertencia de la PZZ. A unos 60 m del PŽ, el NA se puso de repente en marcha hacia el PŽ. El maquinista utilizó inmediatamente la advertencia «Atención» con la bocina de la locomotora, abandonó urgentemente su puesto y saltó al compartimento de pasajeros, ya que por la corta distancia ya no podía evitar el choque. Se produjo el choque con el NA, el descarrilamiento de la HDV de cabeza y del coche inserto de la unidad motorizada, y el lanzamiento del NA al zanja de drenaje junto a la vía. Tras detenerse la cabeza del tren en el km 69,882, es decir, 36 m tras el punto del choque, el personal del tren comprobó el estado de salud actual de los implicados en el MU, comunicó la producción del MU a los servicios del IZS y a la jefa de estación de la est. Rožná, la cual procedió a continuación conforme al plan de avisos. 
-### 3.2.2 Secuencia de hechos desde la producción del suceso extraordinario hasta la finalización de las acciones de los servicios de rescate
+El 29 de diciembre de 2021 a las 5:37:13 h, el tren Os 14901 partió de la est. Bystřice nad Pernštejnem hacia la vía de trayecto en dirección a la est. Rožná. En la vía 495 m en 59 s el tren alcanzó la velocidad de 50 km·h-1, que el maquinista mantuvo mediante el regulador automático de velocidad hasta la señal de paso P7054. Al cruzar el preaviso de la señal de entrada de la est. Rožná, el maquinista divisó a la izquierda del paso a nivel un NA (vía de salazón) estacionado con la cabina y el arado en dirección al paso a nivel y, al mismo tiempo, notó que parpadeaban las luces rojas de aviso del PZZ. A unos 60 m de la señal de paso, el NA se puso en marcha de forma repentina en dirección a la señal de paso. El maquinista utilizó inmediatamente la advertencia «¡Atención!» mediante la bocina de la locomotora, abandonó con rapidez su puesto y saltó al compartimento de pasajeros, ya que por la corta distancia ya no podía evitar la colisión. Se produjo la colisión con el NA, el descarrilamiento de la HDV motriz y del coche inserto de la unidad motorizada, y el NA fue lanzado al zanja de drenaje junto a la vía. Tras detenerse la cabeza del tren en el km 69,882, es decir, 36 m del lugar de la colisión, el personal del tren comprobó el estado de salud actual de los participantes del SU, comunicó el SU a los servicios de IZS y a la jefa de estación de la est. Rožná, que procedió según el plan de notificación.
+### 3.2.2 Secuencia de hechos desde la aparición del suceso extraordinario hasta la finalización de las acciones de los servicios de rescate
 •
 5:45 h
-producción del MU;
+aparición del SU;
 •
 5:46 h
-el personal del servicio del tren Os 14901 inició la comprobación del estado de salud actual de los pasajeros;
+el personal del tren Os 14901 inició la comprobación del estado de salud actual de los pasajeros;
 •
 5:50 h
-el maquinista del tren Os 14901 comunicó telefónicamente la producción del MU a la línea 112 del IZS;
+el maquinista del tren Os 14901 comunicó telefónicamente la aparición del SU a la línea 112 IZS;
 •
 5:52 h
-la jefa de estación de la est. Rožná contactó telefónicamente con el personal del servicio del tren Os 14901 y se enteró de la producción del MU;
+la jefa de estación de la est. Rožná contactó telefónicamente con el personal del tren Os 14901 y se enteró de la aparición del SU;
 •
 5:53 h
-la jefa de estación de la est. Rožná comunicó telefónicamente la producción del MU conforme al plan de avisos a la ZZS y a la PČR;
+la jefa de estación de la est. Rožná comunicó telefónicamente la aparición del SU según el plan de notificación a ZZS y PČR;
 •
 5:54 h
-la jefa de estación de la est. Rožná comunicó telefónicamente la producción del MU al despachador del CDP Přerov;
+la jefa de estación de la est. Rožná comunicó telefónicamente la aparición del SU al despachador de CDP Přerov;
 •
 5:58 h
-el despachador del CDP Přerov comunicó telefónicamente el MU a la O18 de SŽ;
+el despachador de CDP Přerov comunicó telefónicamente el SU a O18 SŽ;
 •
 6:04 h
-la persona responsable de la O18 de SŽ comunicó telefónicamente la producción del MU al COP DI;
+la persona designada de O18 SŽ comunicó telefónicamente la aparición del SU a COP DI;
 •
 6:27 h
-la jefa de estación de la est. Rožná comunicó telefónicamente la producción del MU a la HZS de SŽ;
+la jefa de estación de la est. Rožná comunicó telefónicamente la aparición del SU a HZS SŽ;
 •
 8:10 h
-inicio de la inspección del lugar de producción del MU por parte de un empleado de la DI;
+inicio de la inspección del lugar de aparición del SU por parte de un empleado de DI;
 •
 9:00 h
-el inspector de la DI presente dio su autorización para la liberación de la vía;
+el inspector de DI presente dio su consentimiento para la liberación de la vía;
 •
 11:10 h
-finalización de la inspección del lugar de producción del MU por parte de un empleado de la DI;
+finalización de la inspección del lugar de aparición del SU por parte de un empleado de DI;
 
 ## Página 26
+
 
 •
 00:35 h del día
@@ -884,8 +886,8 @@ En la investigación no se constató infracción de las tareas y obligaciones de
 ### 4.1.4 Autoridades nacionales de seguridad y Agencia de la Unión Europea para el Ferrocarril
 La autoridad nacional de seguridad es el DÚ, que de conformidad con la Ley n.º 266/1994 Sb. es una autoridad administrativa dependiente del Ministerio de Transportes. Su función es, en particular, el ejercicio de la supervisión estatal en materia de infraestructura ferroviaria y en materia de la autoridad de construcción, el ejercicio de la autoridad de construcción especial para obras de la infraestructura ferroviaria y obras sobre la misma, la aprobación de nuevos
 
-
 ## Página 27
+
 
 y modernizados vehículos ferroviarios y dispositivos técnicos designados, así como la tramitación de infracciones. La obligación del DÚ es comunicar al DI, en un plazo de 12 meses a partir de la fecha de publicación del informe final que contenga las recomendaciones de seguridad dirigidas a él, qué medida ha adoptado en relación con dicha recomendación de seguridad; esta comunicación se realiza de forma regular, al menos una vez al año, hasta la adopción de las medidas correspondientes.
 La función de la Agencia de la Unión Europea para el Ferrocarril es, además de garantizar, en el marco de sus competencias, que se mantenga y, en la medida de lo posible, se aumente de forma sistemática la seguridad de los ferrocarriles, entre otras, la emisión, renovación, suspensión y modificación de certificados únicos de seguridad, la limitación de su vigencia o su cancelación, en cuestión en la que coopera con las autoridades nacionales de seguridad; asimismo, emite autorizaciones para la comercialización de vehículos ferroviarios y tipos de vehículos, y está facultada para renovar, modificar, suspender o cancelar las autorizaciones que haya emitido. La Agencia evalúa asimismo los proyectos de normativa nacional, etc.
@@ -899,8 +901,8 @@ De conformidad con el apartado 1 del artículo 28 de la Ley n.º 361/2000 Sb., e
 Según los datos registrados, el testimonio del conductor del tren Os 14901 y el de uno de los pasajeros, el conductor NA entró en el paso a nivel a pesar de que el PZZ estaba activo y emitía la advertencia luminosa de que se aproximaba un tren.
 De los datos registrados del PZZ se desprende que el circuito de activación del paso a nivel fue correctamente influenciado por la circulación del tren Os 14901 y el PZZ comenzó a emitir la advertencia básica (con dos luces rojas intermitentes alternas y señal sonora intermitente) 36 s antes de que la cabeza del tren entrase en el paso a nivel, lo que corresponde al requisito de la tabla de paso a nivel aprobada y vigente.
 
-
 ## Página 28
+
 
 ### Hallazgo: 
 En la investigación se constató la infracción de la normativa legal relativa a las tareas y obligaciones de otras
@@ -939,8 +941,8 @@ n.º A 31b a una distancia de 152 m antes del paso a nivel;
 n.º A 31c a una distancia de 73 m antes del paso a nivel.
 Sobre estos hechos indicados se puso en conocimiento del gestor de la vía pública, Krajská správa a údržba silnic Vysočiny, organización de apoyo. Según su declaración, tras la verificación del estado
 
-
 ## Página 29
+
 
 se decidió que la señalización de tráfico en la carretera de clase III n.º 38811 se reubicaría a las distancias conformes a las disposiciones del decreto n.º 294/2015 Sb., TP 65 y TP 169.
 La señalización de tráfico en la vía municipal desde la aldea de Dvořiště, que se une a la carretera III/38811 justo antes del paso a nivel, era visible, pero estaba colocada en contradicción con el decreto n.º 294/2015 Sb., TP 65 y TP 169. Las señales de tráfico estaban colocadas:
@@ -977,49 +979,30 @@ Anexo n.º 1, parte A 31c del decreto n.º 294/2015 Sb.:
 •
 art. 9.2.1.35 TP 65 – Paso a nivel sin barreras (n.º A 30):
 «La señal n.º A 30 se utiliza para advertir de un paso a nivel sin barreras según los mismos principios que se aplican a la colocación de la señal n.º A 29.»…;
-Esta disposición debe relacionarse con la disposición del art. 9.2.1.34 TP 65 –
-Paso a nivel con barreras (n.º A 29):
-… «La señal n.º A 29 se coloca a una distancia de 240 m antes del paso a nivel
-con barreras, sobre la señal n.º A 31a "Placa indicadora (240 m)".»…;
-… «Si el paso a nivel con barreras se encuentra en una carretera terrestre de
-importancia vial que se bifurca, a una distancia inferior a 240 m de la intersección,
-se coloca en la carretera terrestre antes de la bifurcación, a una distancia de 240 m
-del paso a nivel, la señal n.º A 29 con el panel complementario n.º E 7b "Flecha
-direccional" junto con la señal n.º A 31a "Placa indicadora (240 m)"…;
-… «La distancia establecida para la colocación de la señal n.º A 29 se refiere al
-nivel de colocación de la cruz de advertencia de paso a nivel (n.º A 32a o n.º A 32b).»;
+Esta disposición debe relacionarse con la disposición del art. 9.2.1.34 TP 65 – Paso a nivel con barreras (n.º A 29):
+… «La señal n.º A 29 se coloca a una distancia de 240 m antes del paso a nivel con barreras, por encima de la señal n.º A 31a "Placa indicadora (240 m)".»…;
+… «Si un paso a nivel con barreras se encuentra en una carretera terrestre de importancia para el tráfico que se bifurca, a una distancia inferior a 240 m de la intersección, se coloca en la carretera terrestre antes de la bifurcación, a una distancia de 240 m del paso a nivel, la señal n.º A 29 con la placa complementaria n.º E 7b "Flecha direccional" junto con la señal n.º A 31a "Placa indicadora (240 m)"…;
+… «La distancia establecida para la colocación de la señal n.º A 29 se refiere al nivel de colocación de la cruz de advertencia de paso a nivel (n.º A 32a o n.º A 32b).»;
 •
 art. 9.2.1.36 TP 65 – Placa indicadora (240 m) (n.º A 31a):
-«La señal n.º A 31a se utiliza para advertir de un paso a nivel en combinación con
-la señal n.º A 29 o n.º A 30.»…;
- … «La señal n.º A 31a se coloca bajo la señal n.º A 29 o n.º A 30 a una distancia
-de 240 m del paso a nivel.»…;
-… «Sobre la señal A 31a se coloca el panel complementario n.º E 7b "Flecha
-direccional", si el paso a nivel se encuentra en una carretera terrestre que se bifurca.;
-La distancia establecida para la colocación de la señal n.º A 31a se refiere al
-nivel de colocación de la cruz de advertencia de paso a nivel (n.º A 32a o A 32b).»;
+«La señal n.º A 31a se utiliza para advertir de un paso a nivel en combinación con la señal n.º A 29 o n.º A 30.»…;
+… «La señal n.º A 31a se coloca por debajo de la señal n.º A 29 o n.º A 30 a una distancia de 240 m del paso a nivel.»…;
+… «Por encima de la señal A 31a se coloca la placa complementaria n.º E 7b "Flecha direccional", si el paso a nivel se encuentra en una carretera terrestre que se bifurca.;
+La distancia establecida para la colocación de la señal n.º A 31a se refiere al nivel de colocación de la cruz de advertencia de paso a nivel (n.º A 32a o A 32b).»;
 •
 art. 9.2.1.37 TP 65 – Placa indicadora (160 m) (n.º A 31b):
-«La señal n.º A 31b se coloca a una distancia de 160 m antes del paso a nivel
-y se utiliza según los mismos principios que se aplican a la señal n.º A 31a.»…;
-… «Si el paso a nivel se encuentra en una carretera terrestre de importancia vial
-que se bifurca, se coloca sobre la señal n.º A 31b el panel complementario n.º E 7b
-"Flecha direccional".»…;
+«La señal n.º A 31b se coloca a una distancia de 160 m antes del paso a nivel y se utiliza según los mismos principios que se aplican a la señal n.º A 31a.»…;
+… «Si un paso a nivel se encuentra en una carretera terrestre de importancia para el tráfico que se bifurca, se coloca por encima de la señal n.º A 31b la placa complementaria n.º E 7b "Flecha direccional".»…;
 •
 art. 9.2.1.38 TP 65 – Placa indicadora (80 m) (n.º A 31c):
-«La señal n.º A 31c "Placa indicadora (80 m)" se coloca a una distancia de 80 m
-antes del paso a nivel y se utiliza según los mismos principios que se aplican a la
-señal n.º A 31a.»…;
-… «Si el paso a nivel se encuentra en una carretera terrestre de importancia vial
-que se bifurca, se coloca sobre la señal n.º A 31c el panel complementario n.º E 7b
-"Flecha direccional".»…;
+«La señal n.º A 31c "Placa indicadora (80 m)" se coloca a una distancia de 80 m antes del paso a nivel y se utiliza según los mismos principios que se aplican a la señal n.º A 31a.»…;
+… «Si un paso a nivel se encuentra en una carretera terrestre de importancia para el tráfico que se bifurca, se coloca por encima de la señal n.º A 31c la placa complementaria n.º E 7b "Flecha direccional".»…;
 •
 art. 9.2.3 TP 169 – Paso a nivel sin barreras:
-«El paso a nivel sin barreras se señala con la señal n.º A 30. El resto de principios
-relativos al uso y colocación de las placas indicadoras son idénticos a los del art. 9.2.2.»;
-
+«El paso a nivel sin barreras se señala con la señal n.º A 30. Los demás principios relativos al uso y la colocación de las placas indicadoras son idénticos a los del art. 9.2.2.»;
 
 ## Página 31
+
 
 Esta disposición debe relacionarse con la disposición del art. 9.2.2 TP 169 –
 Paso a nivel con barreras:
@@ -1063,8 +1046,8 @@ En la investigación no se detectaron factores relacionados con el sujeto respon
 del mantenimiento de vehículos ferroviarios, los talleres de mantenimiento y otros
 proveedores de servicios de mantenimiento.
 
-
 ## Página 32
+
 
 4.2.6 Otros factores o consecuencias que se consideren relevantes a efectos de la investigación
 En la investigación no se detectaron otros factores relacionados con los vehículos
@@ -1105,88 +1088,49 @@ En el sistema de garantía de la seguridad adoptado por el gestor de infraestruc
 y el transportista, relacionado con las circunstancias del origen de la MU en cuestión,
 no se detectaron deficiencias.
 
-
 ## Página 33
 
-### 4.4.4 Sistema de gestión de los sujetos responsables del mantenimiento de
-vehículos ferroviarios y de los talleres de mantenimiento
-El sistema de gestión de los sujetos responsables del mantenimiento de vehículos
-ferroviarios y de los talleres de mantenimiento no guardaba relación con el origen
-de la MU.
+### 4.4.4 Sistema de gestión de los sujetos responsables del mantenimiento de los vehículos ferroviarios y de los talleres de mantenimiento
+El sistema de gestión de los sujetos responsables del mantenimiento de los vehículos ferroviarios y de los talleres de mantenimiento no guardaba relación con la aparición del SU.
 ### 4.4.5 Resultados de la supervisión realizada por las autoridades nacionales de seguridad
-Atendiendo a los factores detectados y a las circunstancias del origen de la MU, la
-supervisión de la autoridad de seguridad no guarda relación con la MU en cuestión.
-### 4.4.6 Aprobaciones, certificados y evaluaciones emitidos por la Agencia, las
-autoridades nacionales de seguridad u otros sujetos de evaluación de la conformidad
-El gestor de infraestructura explotaba la infraestructura al amparo de la autorización
-administrativa vigente y del certificado de seguridad del gestor de infraestructura.
-El transportista explotaba el transporte ferroviario al amparo de la licencia vigente
-y del certificado del transportista.
+Atendiendo a los factores y circunstancias de aparición del SU identificados, la supervisión de la autoridad de seguridad no guarda relación con el SU en cuestión.
+### 4.4.6 Aprobaciones, certificados y dictámenes de evaluación emitidos por la agencia, las autoridades nacionales de seguridad u otros organismos de evaluación de la conformidad
+El gestor de la infraestructura explotaba la infraestructura al amparo de una autorización administrativa vigente y de un certificado de seguridad del gestor de la infraestructura. El transportista explotaba el transporte ferroviario al amparo de una licencia vigente y de un certificado del transportista.
 ### 4.4.7 Otros factores sistémicos
-En la investigación no se detectaron otros factores sistémicos.
+En la investigación no se identificaron otros factores sistémicos.
 ### 4.5 Sucesos anteriores de naturaleza similar
-La Inspección Ferroviaria registra en las líneas de ámbito nacional y regional, en el
-período comprendido desde el 1. 1. 2008
-### hasta la fecha de origen de la MU en cuestión, 1055 MU similares, en las que se
-produjo la colisión de un DV con vehículos a motor de carretera en pasos a nivel
-protegidos por PZS sin barreras. En estas MU resultaron fallecidas 176 personas,
-753 personas resultaron heridas y el daño causado ascendió a 553 357 438 CZK.
-La Inspección Ferroviaria registra en el PA P7054, en el período indicado, 1 MU
-similar, a saber:
+La Inspección Ferroviaria registra en las infraestructuras de ámbito nacional y regional, en el período comprendido desde el 1 de enero de 2008
+### hasta la aparición del SU en cuestión, 1055 SU análogos, en los que se produjo la colisión de un DV con vehículos a motor de carretera en pasos a nivel protegidos por PZS sin barreras. En dichos SU fallecieron 176 personas, 753 personas resultaron heridas y el daño causado ascendió a 553 357 438 CZK.
+La Inspección Ferroviaria registra en el P7054, en el período indicado, 1 SU análogo, a saber:
 •
-del 23. 1. 2019, en la que se produjo la colisión del tren Os 14925 con un automóvil.
-En la MU no se produjeron daños personales y el daño total se valoró en 119 760
-CZK.
-La causa inmediata del origen de todas las MU anteriores fue la entrada no autorizada
-de un vehículo a motor de carretera en el PA en el momento en que se emitía la
-señalización luminosa y sonora del dispositivo de enclavamiento de paso a nivel y en
-el que un tren se aproximaba al paso a nivel.
-La DI, desde 2012, ha recomendado repetidamente al gestor de infraestructura SŽ
-(anteriormente SŽDC), con el fin de garantizar la máxima seguridad en las líneas
-ferroviarias de ámbito nacional y regional, elevar el nivel de protección de los pasos
-a nivel de modo que, en las reconstrucciones y modernizaciones de líneas y pasos
-a nivel, ya se proyectara e instalara únicamente el dispositivo de enclavamiento de
-paso a nivel luminoso complementado con barreras. La DI, al mismo tiempo, mediante
-estas recomendaciones de seguridad, recomendó a la DÚ adoptar sus propias medidas
-encaminadas a garantizar la realización de las recomendaciones de seguridad
-anteriores también en los demás gestores de infraestructura ferroviaria de la República
-Checa. Desde el 1. 4. 2017, fecha en que entró en vigor la enmienda a la Ley n.º
-266/1994 Sb., las recomendaciones de seguridad de carácter similar se destinaron,
-conforme al § 53e de la Ley n.º 266/1994 Sb., únicamente a la DÚ. El motivo para
-la emisión de estas recomendaciones fue el hecho de que las colisiones con vehículos
-de carretera con las consecuencias más graves se producen, a largo plazo, en los
-pasos a nivel protegidos por dispositivos de enclavamiento de paso a nivel sin
-barreras, mientras que, a largo plazo, desde el punto de vista de la sinistralidad y de
-las consecuencias, es el tipo de protección de los pasos a nivel ferroviarios más
+del 23 de enero de 2019, en el que se produjo la colisión del tren Os 14925 con un automóvil. En el SU no se produjeron lesiones personales y el daño total se cifró en 119 760 CZK.
+La causa inmediata de la aparición de todos los SU anteriormente indicados fue la entrada no autorizada de un vehículo a motor de carretera en el P7054 en el momento en que se emitía la señalización luminosa y acústica del dispositivo de enclavamiento del paso a nivel y en el que se aproximaba un tren al paso a nivel.
+La DI, desde 2012, ha recomendado reiteradamente al gestor de la infraestructura SŽ (antes SŽDC), con el fin de garantizar la máxima seguridad en las infraestructuras ferroviarias de ámbito nacional y regional, elevar el nivel de protección de los pasos a nivel de modo que, en las reconstrucciones y modernizaciones de líneas y pasos a nivel, ya se proyectara e instalara únicamente dispositivo de enclavamiento del paso a nivel luminoso complementado con barreras. La DI, asimismo, mediante estas recomendaciones de seguridad, recomendó a la DÚ adoptar sus propias medidas encaminadas a garantizar la aplicación de las recomendaciones de seguridad anteriormente indicadas también por parte de los demás gestores de infraestructuras ferroviarias en la República Checa. Desde el 1 de abril de 2017, fecha en que entró en vigor la modificación de la Ley núm. 266/1994 Sb., las recomendaciones de seguridad de carácter similar se dirigieron, de conformidad con el § 53e de la Ley núm. 266/1994 Sb., únicamente a la DÚ. El motivo de la emisión de estas recomendaciones fue el hecho de que las colisiones con vehículos de carretera de consecuencias más graves se producen de forma prolongada en los pasos a nivel protegidos por dispositivo de enclavamiento del paso a nivel sin barreras, mientras que, por el contrario, desde el punto de vista de la sinestralidad y de las consecuencias, el tipo de protección de los pasos a nivel
 
 ## Página 34
 
-de pasajes a nivel, precisamente el dispositivo de seguridad de paso a nivel complementado con barreras. El entonces gestor de la infraestructura ferroviaria SŽDC reaccionó a estas recomendaciones, entre otros medios, de la siguiente manera: «en caso de sustitución de los PZM existentes (dispositivo de seguridad de paso a nivel mecánico, nota de la DI) y PZS por tecnología moderna, en el diseño se priorizará la construcción de dispositivos de seguridad de paso a nivel con barreras, salvo que existan obstáculos técnicos u operativos significativos que lo impidan. La instalación de un dispositivo de seguridad de paso a nivel concreto respetará en todo caso la decisión vigente de la Oficina Ferroviaria sobre el alcance y el modo de aseguramiento del paso a nivel ferroviario». La Oficina Ferroviaria, entre otros medios, envió como medida la siguiente declaración: «La Oficina Ferroviaria, como autoridad administrativa ferroviaria, recomienda así permanentemente a la Administración de Infraestructuras Ferroviarias, como gestor de la infraestructura, incluir en la mayor medida posible en el plan de inversiones la dotación de barreras a los pasos a nivel con señalización luminosa existentes. Deberían ser prioritarios los pasos a nivel con alto volumen de tráfico y con eventos excepcionales recurrentes».
-La DI sigue apoyando la dotación de barreras en los pasos a nivel ferroviarios (con prioridad en aquellos con mayor volumen de tráfico y condiciones locales desfavorables), sin embargo, en el caso de emitir nuevas recomendaciones de seguridad sobre eventos excepcionales concretos, tiene en cuenta las características específicas del pasaje a nivel ferroviario en cuestión y emite dicha recomendación de seguridad de forma más concreta – véase el punto 6 RR.
+de pasos a nivel, precisamente el dispositivo de seguridad de paso a nivel complementado con barreras. El entonces gestor de la infraestructura SŽDC reaccionó a estas recomendaciones, entre otros medios, de la siguiente manera: «en caso de sustitución de los PZM existentes (dispositivo de seguridad de paso a nivel mecánico, nota de la DI) y PZS por tecnología moderna, en el diseño se priorizará la construcción de dispositivos de seguridad de paso a nivel con barreras, salvo que existan obstáculos técnicos o de explotación significativos que lo impidan. La instalación de un dispositivo de seguridad de paso a nivel concreto respetará siempre la decisión vigente de la Oficina Ferroviaria sobre el alcance y el modo de protección del paso a nivel ferroviario». La Oficina Ferroviaria (DÚ) envió, entre otros medios, como medida la siguiente declaración: «La Oficina Ferroviaria, como autoridad administrativa ferroviaria, recomienda así permanentemente a Správa železnic, como gestor de la infraestructura, incluir en el mayor grado posible en el plan de inversiones la complementación de barreras en el dispositivo de seguridad de paso a nivel luminoso existente. Deberían ser prioritarios los pasos a nivel con un elevado momento de tráfico y con eventos extraordinarios recurrentes».
+La DI sigue apoyando la complementación de barreras en los pasos a nivel ferroviarios (de forma prioritaria en aquellos con un mayor momento de tráfico y condiciones locales desfavorables), sin embargo, en caso de emitir nuevas recomendaciones de seguridad con respecto a eventos extraordinarios concretos, tiene en cuenta las características específicas del paso a nivel ferroviario en cuestión y emite dicha recomendación de seguridad de forma más concreta – véase el punto 6 ZZ.
 ### 5 CONCLUSIONES
-### 5.1 Resumen del análisis y conclusiones relativas a las causas del suceso
-La causa inmediata del evento excepcional fue:
+### 5.1 Resumen del análisis y conclusiones relativas a las causas del evento
+La causa inmediata del evento extraordinario fue:
 •
-la entrada no autorizada de un camión en el paso a nivel ferroviario P7054 en el momento en que se aproximaba a él el tren Os 14901, causada por la actuación del conductor del camión, que no respetó la alerta luminosa y acústica del dispositivo de seguridad de paso a nivel y no se aseguró de si podía entrar en el paso a nivel ferroviario de forma segura.
-No se identificó ningún factor contribuyente por parte de la DI.
-No se identificó ninguna causa sistémica por parte de la DI.
-### A summary of the analysis and conclusions with regard to the causes of the
-occurrence
-Causal factor:
+la entrada no autorizada de un camión en el paso a nivel P7054 en el momento en que se aproximaba el tren Os 14901, causada por la conducta del conductor del camión, que no respetó la alerta luminosa y acústica del dispositivo de seguridad de paso a nivel y no se comprobó si podía entrar en el paso a nivel ferroviario de forma segura.
+No se ha identificado ningún factor contribuyente por parte de la DI.
+No se ha identificado ninguna causa sistémica por parte de la DI.
+### Un resumen del análisis y conclusiones relativas a las causas del evento
+Factor causal:
 •
-an unauthorized entrance of the lorry at the level crossing No. P7054 at the time
-when the train No. 14901 was arriving, caused by behavior of the driver of the lorry,
-who did not respect the light and acoustic warning of the level crossing safety
-equipment and did not make sure whether he could safely pass the level crossing.
-Contributing factor: none.
-Systemic factor: none.
-### 5.2 Medidas adoptadas para la prevención de eventos excepcionales
-El gestor de la infraestructura SŽ y el transportista ČD no adoptaron ni emitieron ninguna medida.
-### Measures taken since the occurrence
-The infrastructure manager SŽ and the railway undertaking ČD did not take any measures.
-
+la entrada no autorizada de un camión en el paso a nivel n.º P7054 en el momento en que se aproximaba el tren n.º 14901, causada por la conducta del conductor del camión, que no respetó la alerta luminosa y acústica del dispositivo de seguridad de paso a nivel y no se comprobó si podía cruzar el paso a nivel de forma segura.
+Factor contribuyente: ninguno.
+Factor sistémico: ninguno.
+### 5.2 Medidas adoptadas para prevenir eventos extraordinarios
+El gestor de la infraestructura SŽ y el operador ferroviario ČD no adoptaron ni emitieron ninguna medida.
+### Medidas adoptadas desde el evento
+El gestor de la infraestructura SŽ y el operador ferroviario ČD no adoptaron ninguna medida.
 
 ## Página 35
+
 
 ### 5.3 Hallazgos complementarios
 En el gestor de la vía pública – Administración y mantenimiento de carreteras de Vysočina, organización de apoyo:
@@ -1226,9 +1170,8 @@ inspector
 de la Inspección Territorial de Brno
 de la Inspección Territorial de Brno
 
-
 ## Página 36
 
 ### ANEXOS
-Fig. n.º 2: Vista del camión volcado y la posición final del tren tras el evento excepcional           Fuente: DI
-Fig. n.º 3: Vista de los vagones descarrilados desde el ŽP, desde el centro del municipio de Rožná           Fuente: DI
+Fig. n.º 2: Vista del NA volcado y la posición final del tren tras el MU           Fuente: DI
+Fig. n.º 3: Vista de los DV descarrilados desde el lado del ŽP hacia el centro de la localidad de Rožná           Fuente: DI

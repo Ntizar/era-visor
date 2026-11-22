@@ -12,8 +12,8 @@ tokens_in: 44717
 tokens_out: 29957
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-verificacion: revisar
-avisos: ["página 3: cifras largas: faltan 4/7 (57%)", "página 11: ratio 1.68", "página 26: ratio 2.34"]
+verificacion: ok
+notas_cifras: ["página 8: cifras cortas: 1/23", "página 9: cifras cortas: 2/30", "página 11: original bilingüe: se compara contra el idioma principal (HR)", "página 15: original bilingüe: se compara contra el idioma principal (HR)", "página 17: original bilingüe: se compara contra el idioma principal (HR)", "página 22: cifras largas: 1/19"]
 ---
 
 ## Página 1
@@ -50,19 +50,23 @@ El informe final no podrá utilizarse como prueba en un procedimiento judicial d
 
 ## Página 3
 
-### Prefacio  
-La Agencia de Investigación de Accidentes en el Tráfico Aéreo, Marítimo y Ferroviario (en lo sucesivo: AIN) fue creada por la Ley de Creación de la Agencia de Investigación de Accidentes en el Tráfico Aéreo, Marítimo y Ferroviario (Gaceta Oficial de la República de Croacia, n.º 54/13, 96/18) como persona jurídica con poderes públicos. El fundador de la Agencia es la República de Croacia, y el ejercicio de los derechos de fundación corresponde al Gobierno de la República de Croacia. 
-En el ejercicio de las funciones de la Agencia se aplican disposiciones especiales, es decir, leyes que regulan el tráfico aéreo, la marina mercante, así como la seguridad y la interoperabilidad del tráfico ferroviario, o las disposiciones adoptadas para su ejecución.  
-La Sección de Investigaciones de Accidentes Ferroviarios es una unidad organizativa autónoma e independiente de la AIN que realiza tareas técnicas relacionadas con las investigaciones de accidentes graves e incidentes graves en el tráfico ferroviario en la red ferroviaria de la República de Croacia. Las investigaciones se llevan a cabo con arreglo a lo dispuesto en la Ley sobre la seguridad y la interoperabilidad del sistema ferroviario (Gaceta Oficial de la República de Croacia, n.º 63/20) y la Directiva (UE) 2016/798 del Parlamento Europeo y del Consejo, de 11 de mayo de 2016, relativa a la seguridad ferroviaria (revisión), así como con arreglo a las directrices de la Agencia Ferroviaria de la Unión Europea. 
-La AIN investiga todos los accidentes graves en el tráfico ferroviario, es decir, todos los incidentes que impliquen colisión de trenes o descarrilamiento de trenes que tengan como consecuencia la muerte de al menos una persona o lesiones graves de cinco o más personas, o daños considerables en el material rodante, la infraestructura ferroviaria o el medio ambiente, así como cualquier otro accidente similar con evidente repercusión en la seguridad del sistema ferroviario o en la gestión de la seguridad. 
-La AIN puede investigar también aquellos accidentes e incidentes que, bajo circunstancias ligeramente diferentes, podrían haber dado lugar a accidentes graves, incluidas las averías técnicas de los subsistemas estructurales o de sus componentes. 
-La AIN realiza investigaciones de seguridad con el fin de prevenir accidentes e incidentes graves, lo que incluye la recopilación y el análisis de datos, la elaboración de conclusiones, incluida la determinación de las causas y, cuando proceda, la formulación de recomendaciones de seguridad para prevenir accidentes e incidentes en el futuro y mejorar la seguridad en el tráfico ferroviario. 
-|  | Nombre | Cargo | Fecha | Firma |
-| Elaborado por: | Ivica Majdanđić | Investigador responsable | 12.12.2024 . . . |  |
-| Revisado por: | Tomislav Antun Biber | Investigador principal | 12.12.2024 . . . |  |
-|  | Sandra Lovrić | Investigadora | 12.12.2024 . . . |  |
-| Aprobado por: | Tomislav Antun Biber | Investigador principal | 12.12.2024 . . . |  |
-ÍNDICE
+### Prefacio
+La Agencia de Investigación de Accidentes en el Tráfico Aéreo, Marítimo y Ferroviario (en lo sucesivo: AIN) fue creada por la Ley de Creación de la Agencia de Investigación de Accidentes en el Tráfico Aéreo, Marítimo y Ferroviario («Narodne novine», número 54/13, 96/18) como persona jurídica con competencias públicas. El fundador de la Agencia es la República de Croacia, y los derechos de fundación los ejerce el Gobierno de la República de Croacia. En la forma de realización de las actividades de la Agencia se aplican las disposiciones especiales, es decir, las leyes que regulan el tráfico aéreo, la marina, y la seguridad e interoperabilidad del tráfico ferroviario, así como las disposiciones adoptadas para su aplicación.
+
+El Departamento de Investigación de Accidentes en el Tráfico Ferroviario es una unidad organizativa autónoma e independiente de la AIN que desempeña las funciones profesionales relacionadas con la investigación de accidentes graves y sucesos extraordinarios en el tráfico ferroviario en la red ferroviaria de la República de Croacia. Las investigaciones se llevan a cabo con base en las disposiciones de la Ley sobre Seguridad e Interoperabilidad del Sistema Ferroviario («Narodne novine», número 63/20) y de la Directiva (UE) 2016/798 del Parlamento Europeo y del Consejo de 11 de mayo de 2016 sobre la seguridad ferroviaria (recodificación), así como con base en las directrices de la Agencia Ferroviaria de la Unión Europea.
+
+La AIN investiga todos los accidentes graves en el tráfico ferroviario, que son todos los sucesos que implican la colisión de trenes o el descarrilamiento de un tren que tenga como consecuencia la muerte de al menos una persona o lesiones graves a cinco o más personas, o daños importantes a los vehículos, a la infraestructura ferroviaria o al medio ambiente, así como cualquier otro accidente similar con una influencia evidente en la seguridad del sistema ferroviario o en la gestión de la seguridad.
+
+La AIN puede investigar también aquellos accidentes e incidentes que, en circunstancias ligeramente diferentes, podrían haber dado lugar a accidentes graves, incluidos los fallos técnicos en el funcionamiento de los subsistemas estructurales o de sus componentes.
+
+La AIN realiza investigaciones de seguridad con el fin de prevenir accidentes y sucesos graves, lo que incluye la recopilación y el análisis de datos, la elaboración de conclusiones, incluida la determinación de las causas y, cuando resulte apropiado, la formulación de recomendaciones de seguridad para prevenir accidentes e incidentes en el futuro y mejorar la seguridad en el tráfico ferroviario.
+
+|  | Nombre | Puesto de trabajo | fecha | firma |
+| Elaboró: | IvicaMajdanđić | Investigador responsable | 12122024 . . . |  |
+| Revisaron: | TomislavAntunBiber | Investigador principal | 12122024 . . . |  |
+|  | SandraLovrić | Investigadora | 12122024 . . . |  |
+| Aprobó: | TomislavAntunBiber | Investigador principal | 12122024 . . . |  |
+CONTENIDO
 
 ## Página 4
 
@@ -263,50 +267,46 @@ Fuentes de pruebas, información y hechos:
 ## Página 11
 
 Técnicas de análisis:
-- análisis temporal de los hechos,
-- análisis de los procesos de formación y capacitación del personal operativo,
-- análisis de los procesos de mantenimiento de la infraestructura y del material rodante,
+- análisis temporal de los acontecimientos,
+- análisis del proceso de formación y enseñanza de los trabajadores ejecutivos,
+- análisis del proceso de mantenimiento de la infraestructura y del material rodante,
 - análisis del procedimiento de conducción del tren.
-
-Relación de los actos jurídicos, leyes nacionales y actos normativos así como de las instrucciones internas utilizadas durante la investigación del accidente mencionado:
-
+Lista de actos jurídicos, leyes nacionales y actos sublegales e instrucciones internas utilizados durante la investigación del accidente indicado:
 ### a) normativa de la Unión Europea:
--
-Directiva (UE) 2016/798 del Parlamento Europeo y del Consejo, de 11 de mayo de 2016, relativa a la seguridad ferroviaria (revisión) (DO L 138, 26.5.2016, p. 102),
--
-Reglamento de Ejecución (UE) 2020/572 de la Comisión, de 24 de abril de 2020, por el que se establece la estructura de la información que debe respetarse en los informes sobre accidentes e incidentes ferroviarios (DO L 132, 27.4.2020, p. 10-18),
--
-Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016, relativo a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos y por el que se deroga la Directiva 95/46/CE (Reglamento General de Protección de Datos) (DO L 119, 4.5.2016, p. 1),
--
-Reglamento Delegado (UE) 2018/762 de la Comisión, de 8 de marzo de 2018, por el que se establecen métodos de seguridad comunes en relación con los requisitos del sistema de gestión de la seguridad en virtud de la Directiva (UE) 2016/798 del Parlamento Europeo y del Consejo y por el que se derogan los Reglamentos (UE) n.º 1158/2010 y (UE) n.º 1169/2010 de la Comisión (DO L 129, 25.5.2018, p. 26),
--
-Reglamento (UE) n.º 1169/2010 de la Comisión, de 10 de diciembre de 2010, por el que se establece un método de seguridad común para la evaluación de la conformidad con los requisitos para la obtención de la resolución de seguridad para la gestión de la infraestructura ferroviaria (DO L 327, 11.12.2010, p. 13-25);
-
-b) leyes nacionales y actos normativos
--
-Ley sobre la seguridad y la interoperabilidad del sistema ferroviario («Narodne novine», n.º 63/20),
--
-Reglamento sobre el modo y las condiciones para la circulación y gestión seguras del tráfico ferroviario («Narodne novine», n.º 107/16),
--
-Reglamento sobre las señales, las marcas de señalización y las indicaciones de señalización en el tráfico ferroviario («Narodne novine», n.º 94/15),
--
-Reglamento sobre las condiciones técnicas del subsistema de infraestructura ferroviaria de gestión del tráfico y de señalización y seguridad («Narodne novine», n.º 97/2015).
-
-c) instrucciones internas de las empresas de transporte ferroviario
--
-Estatuto sobre la organización del sistema de gestión de la seguridad en HŽPP d.o.o.,
--
+- 
+Directiva (UE) 2016/798 del Parlamento Europeo y del Consejo, de 11 de mayo de 2016, sobre la seguridad ferroviaria (refundición) (DO L 138 de 26.5.2016, p. 102),
+- 
+Reglamento de Ejecución de la Comisión (UE) 2020/572, de 24 de abril de 2020, sobre la estructura de notificación que debe observarse en los informes sobre accidentes e incidentes ferroviarios (DO L 132 de 27.4.2020, p. 10–18),
+- 
+Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016, relativo a la protección de las personas físicas en lo que respecta al tratamiento de sus datos personales y a la libre circulación de dichos datos, y por el que se deroga la Directiva 95/46/CE (Reglamento general de protección de datos) (DO L 119 de 4.5.2016, p. 1),
+- 
+Reglamento Delegado de la Comisión (UE) 2018/762, de 8 de marzo de 2018, por el que se establecen métodos comunes de seguridad en relación con los requisitos del sistema de gestión de la seguridad en virtud de la Directiva (UE) 2016/798 del Parlamento Europeo y del Consejo, y se derogan los Reglamentos de la Comisión (UE) n.º 1158/2010 y (UE) n.º 1169/2010 (DO L 129 de 25.5.2018, p. 26),
+- 
+Reglamento de la Comisión (UE) n.º 1169/2010, de 10 de diciembre de 2010, sobre el método común de seguridad para la evaluación de la conformidad con los requisitos para la obtención de resoluciones de seguridad para la gestión de la infraestructura ferroviaria (DO L 327 de 11.12.2010, p. 13–25);
+b) leyes nacionales y actos sublegales
+- 
+Ley sobre la seguridad y la interoperabilidad del sistema ferroviario («Narodne novine», número 63/20),
+- 
+Reglamento sobre el modo y las condiciones para la realización y gestión seguras del tráfico ferroviario («Narodne novine», número 107/16),
+- 
+Reglamento sobre las señales, los signos de señalización y las marcas de señalización en el tráfico ferroviario («Narodne novine», número 94/15),
+- 
+Reglamento sobre las condiciones técnicas del subsistema ferroviario de infraestructura de gestión del tráfico y de señalización y seguridad («Narodne novine», número 97/2015).
+c) instrucciones internas de los operadores ferroviarios
+- 
+Reglamento sobre la organización del sistema de gestión de la seguridad en HŽPP d.o.o.,
+- 
 Política de seguridad de HŽPP d.o.o.,
--
+- 
 Plan operativo de aplicación de la política de seguridad para HŽPP d.o.o.,
--
-Instrucción sobre los procedimientos en caso de acontecimiento extraordinario en HŽPP d.o.o.,
--
-Reglamento sobre la formación, capacitación y comprobación de conocimientos de los maquinistas en HŽPP d.o.o.,
--
-Reglamento sobre el trabajo del centro de formación de maquinistas en HŽPP d.o.o.,
--
-Instrucción sobre el mantenimiento de las locomotoras en HŽPP d.o.o. (Boletín Oficial 15/22),
+- 
+Instrucción sobre los procedimientos en caso de acontecimiento excepcional en HŽPP d.o.o.,
+- 
+Reglamento sobre la formación, la enseñanza y la verificación de los conocimientos de los maquinistas en HŽPP d.o.o.,
+- 
+Reglamento sobre el funcionamiento del centro de formación de maquinistas en HŽPP d.o.o.,
+- 
+Instrucción sobre el mantenimiento de los vehículos de tracción en HŽPP d.o.o. (Sl.vj. 15/22),
 
 ## Página 12
 
@@ -644,8 +644,9 @@ Tras recibir la notificación del director de tráfico principal de HŽ Infrastr
 
 ## Página 26
 
-En el lugar del suceso se realizó un examen detallado con el fin de buscar rastros y marcarlos. Durante la investigación se examinaron los registros de tráfico, los registros de mantenimiento de los dispositivos de señalización y seguridad (SS) y de telecomunicaciones (TK), los registros de mantenimiento de la locomotora, los registros del personal implicado y el registro de velocidad del tren número 787. El día del accidente se examinaron los elementos externos del dispositivo de señalización y seguridad. En la “Señal de control KS1” procedente de la dirección de Sveti Ivan Žabno hacia Bjelovar (Imagen 7.) estaba encendida una luz amarilla fija, lo que indica la señalización “Dispositivo en el paso a nivel ferroviario-carretero defectuoso”. La caseta del paso a nivel ferroviario-carretero (ŽCP), donde se encuentra el dispositivo de protección del paso a nivel, fue examinada el 19.02.2024. En el panel de relés estaba encendida la luz piloto roja “LN” (Imagen 8.), lo que indica que el dispositivo está averiado.
-### Imagen 7. Señal de control KS1 desde la dirección de Sveti Ivan Žabno (Fuente de la imagen: AIN)
+En el lugar del accidente se realizó un examen detallado con el fin de localizar y marcar rastros. 
+Durante la investigación se revisaron los registros de circulación, los registros de mantenimiento de los aparatos SS y TK, los registros de mantenimiento de la unidad de tracción, los registros de los trabajadores implicados, el registro de la velocidad de circulación del tren número 787. El día del accidente se examinaron los elementos externos del aparato de señalización y seguridad. En la "Señal de control KS1" en el sentido desde Sveti Ivan Žabno hacia Bjelovar (Figura 7.) estaba encendida una luz amarilla fija que indica la señal "Aparato en el paso a nivel ferroviario-carretera averiado". La caseta del paso a nivel, donde se encuentra el aparato de seguridad del paso a nivel, fue examinada el 19.02.2024. En el soporte de relés estaba encendida la bombilla de control roja "LN" (Figura 8.) que indica que el aparato está averiado.   
+### Figura 7. Señal de control KS1 desde Sveti Ivan Žabno (Fuente de la imagen: AIN)
 
 ## Página 27
 

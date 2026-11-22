@@ -10,13 +10,14 @@ chars: 100400
 ratio_longitud: 1.22
 tokens_in: 65200
 tokens_out: 45467
-verificacion: revisar
-notas_cifras: ["bloque 1: original bilingüe: se compara contra el idioma principal (EN)", "bloque 2: original bilingüe: se compara contra el idioma principal (CS)", "bloque 3: cifras cortas: 2/86", "bloque 5: original bilingüe: se compara contra el idioma principal (CS)", "bloque 6: original bilingüe: se compara contra el idioma principal (CS)", "bloque 8: original bilingüe: se compara contra el idioma principal (CS)"]
-avisos: ["bloque 5: ratio 1.71", "bloque 6: ratio 1.82", "bloque 8: ratio 1.98"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 3: original bilingüe: se compara contra el idioma principal (PT)", "página 4: original bilingüe: se compara contra el idioma principal (CS)", "página 6: original bilingüe: se compara contra el idioma principal (CS)", "página 7: original bilingüe: se compara contra el idioma principal (CS)", "página 9: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -39,13 +40,13 @@ IČ: 75009561
 mail@dicr.cz
 tel.: +420 736 521 003
 
-
 ## Página 2
+
 
 El presente informe final es público y todos los hechos en él expuestos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ## 1 RESUMEN
 Fuente: Drážní inspekce
@@ -75,8 +76,8 @@ seguridad del paso a nivel y no se cercioró de si podía cruzar el paso a nivel
 con seguridad.
 No fue detectado ningún factor contribuyente por parte de Drážní inspekce.
 
-
 ## Página 4
+
 
 No fue detectada ninguna causa sistémica por parte de Drážní inspekce.
 Recomendaciones de seguridad:
@@ -85,8 +86,8 @@ Al Drážní úřad:
 •
 la adopción de medidas que garanticen la dotación del paso a nivel P7414, actualmente protegido por un dispositivo de seguridad del paso a nivel luminoso, con barreras, que desde el punto de vista de la barrera óptica reduzcan la probabilidad de que el conductor entre en el paso a nivel cuando no responda a la señalización luminosa del paso a nivel en estado de alerta.
 
-
 ## Página 5
+
 
 ## RESUMEN
 11 de octubre de 2022, 14:50 (13:50 GMT).
@@ -116,8 +117,8 @@ Dirigida a la Autoridad Nacional de Seguridad Checa (NSA):
 •
 adoptar una medida propia para garantizar la dotación del paso a nivel n.º P7414, actualmente protegido por un sistema de señalización luminosa de paso a nivel, con barreras, que desde el punto de vista de la barrera óptica y manual reduzca la probabilidad de que el conductor entre en el paso a nivel cuando no responda a la señalización luminosa en estado de alerta.
 
-
 ## Página 6
+
 
 # Índice
 1 RESUMEN..................................................................................................................3
@@ -161,6 +162,7 @@ SUMMARY.........................................................................
 
 ## Página 7
 
+
 4.2.2 Factores o consecuencias derivados de la instalación y puesta en servicio de vehículos ferroviarios, infraestructura ferroviaria o instalaciones técnicas.....................................30
 4.2.3 Factores o consecuencias relacionados con fabricantes de vehículos ferroviarios u otro proveedor de productos ferroviarios...........................................................................30
 4.2.4 Factores o consecuencias derivados del mantenimiento y modificación de vehículos ferroviarios o instalaciones técnicas..................................................................................................30
@@ -189,8 +191,8 @@ SUMMARY.........................................................................
 6 RECOMENDACIONES DE SEGURIDAD...................................................................................36
 ANEXOS............................................................................................................................37
 
-
 ## Página 8
+
 
 ### Lista de siglas y símbolos utilizados
 ARRIVA
@@ -260,8 +262,8 @@ Zdravotnická záchranná služba Zlínského kraje
 žst.
 železniční stanice
 
-
 ## Página 9
+
 
 ### Lista de siglas de las disposiciones legales, normas y normativa interna utilizadas
 zákon č. 266/1994 Sb.
@@ -293,41 +295,40 @@ změny Z1
 Přejezdová zabezpečovací zařízení“, ve znění platném 
 v době vzniku MU
 
-
 ## Página 10
 
-## 2 INVESTIGACIÓN Y SU CONTEXTO
-### 2.1 Decisión de iniciar la investigación
-DI decidió iniciar la investigación del suceso objeto de mención el 11. 10. 2022.
-### 2.2 Fundamentación de la decisión de iniciar la investigación
-DI decidió investigar el suceso objeto de mención en base a su gravedad, reiteración y a los impactos del suceso sobre la explotación segura de la vía y del transporte ferroviario, y a la obligación derivada de la disposición § 53b de la ley č. 266/1994 Sb., tras recibir la información de 6 personas heridas, respectivamente 5 personas heridas en el tren (véase el punto 3.2.2 de la presente ZZ).
-### 2.3 Alcance y limitaciones de la investigación, incluida la fundamentación pertinente
-DI, en el marco de la investigación del suceso objeto de mención, hasta la recepción de nueva información surgida de las observaciones del operador ARRIVA al proyecto de ZZ en discusión, no se encontró con limitaciones (véase el punto 2.8 de la presente ZZ).
+## 2 INVESTIGACIÓN Y SUS RELACIONES
+### 2.1 Decisión sobre el inicio de la investigación
+La DI decidió iniciar la investigación de la MU en cuestión el 11. 10. 2022.
+### 2.2 Fundamentación de la decisión sobre el inicio de la investigación
+La DI decidió investigar la MU en cuestión sobre la base de su gravedad, reiteración y de los impactos de la MU sobre la explotación segura de la vía y del transporte ferroviario, y de la obligación derivada de la disposición § 53b de la Ley núm. 266/1994 Sb., una vez recibida la información sobre 6 personas heridas, respectivamente 5 personas heridas en el tren (véase el punto 3.2.2 de la presente ZZ).
+### 2.3 Alcance y limitaciones de la investigación, incluida la fundamentación correspondiente
+La DI, en el marco de la investigación de la MU en cuestión, hasta la recepción de la nueva información surgida de las observaciones del transportista ARRIVA sobre la propuesta de ZZ en tramitación, no se encontró con limitaciones (véase el punto 2.8 de la presente ZZ).
 ### 2.4 Descripción resumida de las capacidades y funciones técnicas del equipo de investigación
-Investigación de DI en el lugar del suceso:
-2x inspector de ÚI Ostrava.
+Investigación de la DI en el lugar de la MU:
+2x inspector de la ÚI Ostrava.
 Constitución del equipo de investigación:
 no fue necesario constituirlo.
 Colaboración externa:
 no se utilizó.
 2.5 Comunicación y consultas durante la investigación con las personas o entidades que participaron en el suceso
-En la investigación de las causas y circunstancias del suceso, DI se basó principalmente en sus propios conocimientos, hallazgos y en su propia documentación fotográfica. Durante la investigación, DI solicitó la documentación necesaria al gestor de la infraestructura SŽ, al operador ARRIVA y a PČR (véase el punto 2.8 de la presente ZZ).
-La investigación de las causas y circunstancias del suceso se realizó de acuerdo con la ley č. 266/1994 Sb. y la vyhláška č. 376/2006 Sb.
-### 2.6 Descripción del nivel de colaboración ofrecido por las entidades implicadas
-El nivel de colaboración con los representantes de las entidades implicadas en el suceso fue estándar.
-### 2.7 Descripción de la investigación, métodos y técnicas utilizados para acreditar los hechos y los hallazgos recogidos en el informe
-En el marco de la investigación del suceso, DI procedió de la siguiente manera, respectivamente utilizó, entre otros, los siguientes métodos y técnicas:
+En la investigación de las causas y circunstancias del origen de la MU, la DI se basó principalmente en sus propios conocimientos, hallazgos y en su propia documentación fotográfica. Durante la investigación, la DI solicitó la documentación necesaria al explotador de la vía SŽ, al transportista ARRIVA y a la PČR (véase el punto 2.8 de la presente ZZ).
+La investigación de las causas y circunstancias del origen de la MU se realizó de acuerdo con la Ley núm. 266/1994 Sb. y con el Decreto núm. 376/2006 Sb.
+### 2.6 Descripción del nivel de colaboración ofrecido por las entidades participantes
+El nivel de colaboración con los representantes de las entidades participantes en la MU fue estándar.
+### 2.7 Descripción de la investigación, los métodos y las técnicas utilizados para acreditar los hechos y los hallazgos recogidos en el informe
+En el marco de la investigación de la MU, la DI procedió de la siguiente manera, respectivamente, utilizó, entre otros, los siguientes métodos y técnicas:
 •
-inspección del lugar del suceso, incl. los DV implicados, las instalaciones técnicas y la infraestructura de la vía;
+inspección del lugar de la MU, incl. los DV participantes, las instalaciones técnicas y la infraestructura de la vía;
 •
-medición de las condiciones de visibilidad en el ŽP;
+medición de las condiciones de visibilidad en el Punto de cambio de vía (ŽP);
 •
 recomprobación del funcionamiento correcto del PZS;
 •
-participación en la inspección comisionada de los DV implicados;
-
+participación en la inspección comisionada de los DV participantes;
 
 ## Página 11
+
 
 •
 análisis de la documentación solicitada al gestor de la infraestructura SŽ, al operador ARRIVA y a PČR;
@@ -361,8 +362,8 @@ Fecha:
 Hora:
 14:50 h.
 
-
 ## Página 12
+
 
 Lugar:
 vía ferroviaria, categoría regional, Rožnov pod Radhoštěm – 
@@ -378,6 +379,7 @@ Fig. n.º 1: Esquema del lugar del suceso.
 Fuente: DI con base en el mapa: https://mapy.cz/
 
 ## Página 13
+
 
 El paso a nivel ŽP P7414 estaba señalizado por ambos lados con señales de tráfico verticales A 32a «Cruz de aviso para paso a nivel de vía única» (en adelante también cruz de aviso) situadas a la derecha de la vía de servicio, en un total de 4 unidades. Las cruces de aviso estaban montadas en los mástiles de las cajas luminosas de los avisadores y eran visibles desde todas las direcciones para los conductores de los vehículos que se aproximaban, es decir:
 •
@@ -409,40 +411,40 @@ en el reverso de todos los avisadores se encontraban etiquetas fácilmente legib
 •
 ni las cruces de aviso ni los avisadores estaban dañados, ni siquiera como consecuencia del accidente;
 
-
 ## Página 14
 
 •
-el NA se aproximaba al ŽP P7414 desde la carretera I/35, concretamente desde la dirección de Valašské Meziříčí, cuando en el punto de desembocadura de la vía de servicio en la carretera I/35 giró a la izquierda hacia dicha vía que atraviesa el ŽP P7414. A continuación continuó la marcha hacia el ŽP y en dirección al vertedero de residuos;
+NA se aproximaba al paso a nivel ŽP P7414 desde la carretera I/35, concretamente desde la dirección de Valašské Meziříčí, cuando en el punto de desembocadura de la vía de servicio en la carretera I/35 giró a la izquierda hacia dicha vía que atraviesa el paso a nivel ŽP P7414. A continuación continuó su marcha hacia el paso a nivel y en dirección al vertedero de residuos;
 •
-a lo largo de ambos lados de la carretera I/35, es decir, a la derecha y a la izquierda de la carretera en dirección tanto desde Valašské Meziříčí como desde Rožnov pod Radhoštěm, estaban situadas antes del ŽP P7414 señales de tráfico verticales de aviso A 31a «Placa indicadora (240 m)», A 31b «Placa indicadora (160 m)», A 31c «Placa indicadora (80 m)». Las señales de tráfico A 31a «Placa indicadora (240 m)» estaban complementadas con la señal de tráfico de aviso A 30 «Paso a nivel sin barreras», y todas las señales de tráfico verticales, así como la señal de tráfico (placa complementaria) E 7b «Flecha direccional»;
+a ambos lados de la carretera I/35, es decir, a la derecha y a la izquierda de la carretera tanto en la dirección desde Valašské Meziříčí como desde Rožnov pod Radhoštěm, se habían colocado antes del paso a nivel ŽP P7414 señales verticales de tráfico de advertencia A 31a «Návěstní deska (240 m)», A 31b «Návěstní deska (160 m)», A 31c «Návěstní deska (80 m)». Las señales de tráfico A 31a «Návěstní deska (240 m)» se complementaron con la señal de tráfico de advertencia A 30 «Železniční přejezd bez závor» y todas las señales verticales de tráfico, así como con la señal de tráfico (placa complementaria) E 7b «Směrová šipka»;
 •
-a la derecha de la carretera I/35, en dirección desde Valašské Meziříčí a una distancia de 56 m antes del ŽP y en dirección desde Rožnov pod Radhoštěm a una distancia de 88 m antes del ŽP, estaban situadas señales de tráfico verticales de prohibición B 17 «Prohibido el acceso de vehículos o conjuntos cuya longitud supere el límite indicado» con la indicación de una longitud de 17 m, complementadas con la señal de tráfico (placa complementaria) E 7b «Flecha direccional»;
+a la derecha de la carretera I/35 en la dirección desde Valašské Meziříčí a una distancia de 56 m antes del paso a nivel y en la dirección desde Rožnov pod Radhoštěm a una distancia de 88 m antes del paso a nivel, se habían colocado señales verticales de tráfico de prohibición B 17 «Zákaz vjezdu vozidel nebo souprav, jejichž délka přesahuje vyznačenou mez» con indicación de una longitud de 17 m, complementadas con la señal de tráfico (placa complementaria) E 7b «Směrová šipka»;
 •
-la superficie de la vía de servicio contigua al ŽP P7414 era asfáltica. La calzada del paso a nivel era desmontable, constituida por una estructura de paso a nivel de caucho-metal STRAIL sobre soportes de carril de hormigón. La adaptación constructiva de la superficie del paso a nivel correspondía a la carga del tráfico rodado y garantizaba la seguridad de la explotación del transporte ferroviario. En el momento del accidente, la superficie de la vía de servicio y de la calzada del ŽP, incl. los cantos de los raíles de la TK, estaba seca;
+la superficie de la vía de servicio adyacente al paso a nivel ŽP P7414 era de asfalto. La calzada del paso a nivel era desmontable, constituida por una estructura de paso a nivel de caucho-metal STRAIL sobre soportes de carril de hormigón. La modificación constructiva de la superficie del paso a nivel correspondía a la carga del tráfico rodado y garantizaba la seguridad de la explotación del transporte ferroviario. En el momento de producirse el MU, la superficie de la vía de servicio y la calzada del paso a nivel ŽP, incl. los cantos de los raíles TK, estaba seca;
 •
-las cruces de aviso y los avisadores situados antes del ŽP P7414 eran visibles a una distancia de la longitud de visibilidad para detenerse Dz = 35 m, si bien desde el sentido de circulación del NA por la carretera I/35 desde Valašské Meziříčí la cruz de aviso y el avisador eran visibles a una distancia de 45 m;
+las cruces de advertencia y los señales de advertencia colocados antes del paso a nivel ŽP P7414 eran visibles a una distancia de la longitud de visibilidad para detener Dz = 35 m, siendo que desde la dirección de marcha de NA por la carretera I/35 desde Valašské Meziříčí la cruz de advertencia y la señal de advertencia eran visibles a una distancia de 45 m;
 •
-el ŽP P7414 en el km 3,779, según medición del DI, tenía una anchura de 9,6 m, una longitud de 6,34 m y el ángulo de cruce de la vía terrestre con la TK era de 52º;
+el paso a nivel ŽP P7414 en el km 3,779 según medición de DI tenía una anchura de 9,6 m, una longitud de 6,34 m y el ángulo de cruce de la vía de comunicación terrestre con TK era de 52º;
 •
-los conos de protección estaban situados en el eje de la TK por ambos lados del ŽP. El estado de los canales para el pasador del DV cumplía los requisitos para la explotación segura del transporte ferroviario;
+los cuñas de protección se encontraban situados en el eje de TK a ambos lados del paso a nivel. El estado de los canales para el aro DV cumplía las condiciones para la explotación segura del transporte ferroviario;
 •
-la estructura de la calzada del ŽP fue dañada por el accidente, si bien la TK fue desplazada lateralmente hacia la derecha, en el sentido de circulación del tren, por el DV descarrilado en el punto del ŽP;
+la estructura de la calzada del paso a nivel ŽP resultó dañada por el accidente, habiendo sido desplazada la TK en el punto del paso a nivel lateralmente hacia la derecha en la dirección de marcha del tren por el DV descarrilado;
 •
-la velocidad de línea en el ŽP y en el tramo contiguo de la vía era de 60 km·h⁻¹ en ambos sentidos;
+la velocidad de la vía en el paso a nivel y en el tramo adyacente de la vía era de 60 km·h-1 en ambas direcciones;
 •
-la longitud de visibilidad para el conductor del vehículo rodado más lento Lp, en el caso de avería o desconexión del PZS, en el sentido de circulación del NA desde la carretera I/35 y en el sentido de circulación del DV desde la estación de maniobras Rožnov pod Radhoštěm, era de Lp = 160 m medida a una distancia de 4 m perpendicular al eje de la TK; en los demás cuadrantes esta longitud era >160 m;
 •
-no se encontraron huellas del uso del dispositivo de arenado del DV en las cabezas de los carriles ni en el balasto de la TK;
+la longitud de visibilidad para el conductor del vehículo rodado más lento Lp en caso de fallo o desconexión del PZS en la dirección de marcha de NA desde la carretera I/35 y en la dirección de marcha de DV desde la estación Rožnov pod Radhoštěm, a una distancia de 4 m perpendicularmente desde el eje de TK, se midió una longitud de visibilidad Lp = 160 m, en los demás cuadrantes esta longitud era >160 m;
 •
-el espacio del ŽP no estaba monitorizado por un sistema de cámaras.
+no se encontraron rastros de la utilización del equipo de arenado del DV en las cabezas de las bandas de raíles ni en la superestructura de TK;
+•
+el espacio del paso a nivel no estaba monitorizado por un sistema de cámaras.
 
 Estado del PZS:
 •
-El ŽP P7414 estaba protegido por un PZS del tipo PZZ-RE, sin complemento de barreras, y los avisadores eran del tipo AŽD 97, con los luminarios de señal positiva blanca conectados;
-
+el paso a nivel ŽP P7414 estaba protegido por un PZS, tipo PZZ-RE, sin complemento de barreras, las señales de advertencia eran del tipo AŽD 97, estando conectadas las luminarias de señal positiva blanca;
 
 ## Página 15
+
 
 •
 los mástiles de los avisadores estaban pintados de gris; el estado de las pinturas de protección y seguridad era satisfactorio;
@@ -458,8 +460,8 @@ el tren estaba formado por una unidad de tracción autopropulsada que circulaba 
 Fig. n.º 2: Vista del KŘV-B 948.702-6 descarrilado del tren Os 14342 encastrado en el tractocamión NA volcado.
 Fuente: DI
 
-
 ## Página 16
+
 
 •
 el frontal del KŘV-B 948.702-6 se encontraba en su posición final tras el accidente en el km 3,770, es decir, 9 m detrás del punto de colisión, encastrado en el tractocamión NA volcado; el bogie estaba descarrilado en ambos ejes y todo el DV estaba inclinado unos 20° hacia la derecha respecto al eje de la TK, si bien el STD 848.202-8 descarriló con el eje delantero, como consecuencia de lo cual se produjo en:
@@ -474,6 +476,7 @@ los pasajeros, junto con el revisor del tren Os 14342, se encontraban en el mome
 el tren era conducido por el maquinista desde el puesto situado en la cabina del conductor del KŘV-B 948.702-6, es decir, la cabina del conductor frontal en el sentido de circulación del tren. La cabina del conductor del KŘV-B 948.702-6 estaba dañada como consecuencia del accidente;
 
 ## Página 17
+
 
 •
 En la cabina del maquinista KŘV-B 948.702-6 se encontraba, durante la circulación del tren hacia ŽP P7414, únicamente el maquinista, hasta el momento en que la abandonó apresuradamente, justo antes de la colisión, dirigiéndose al compartimento para pasajeros;
@@ -499,8 +502,8 @@ En el lugar del MU no se realizaron, inmediatamente antes de su aparición, por 
 ### 3.1.4 Fallecimientos, lesiones y daños materiales
 En el MU resultaron con daños a la salud 6 personas – 3 pasajeros en el tren Os 14342, el maquinista y el revisor del tren Os 14342 y el conductor del NA. El daño a la salud de las personas que se encontraban en el tren fue causado exclusivamente como consecuencia de la colisión del tren con el NA, por la acción de las fuerzas de inercia (orientadas en el sentido de la marcha del tren) en el momento de la colisión.
 
-
 ## Página 18
+
 
 El gestor de la vía y el transportista cuantificaron los daños en:
 •
@@ -553,8 +556,8 @@ Sujetos implicados:
 El propietario de la vía ferroviaria, categoría regional, Rožnov pod Radhoštěm – Valašské Meziříčí, era la República Checa. El derecho a administrar los bienes del Estado lo ejercía SŽ, con domicilio en Dlážděná 1003/7, Praha 1, PSČ 110 00, que era también el gestor de esta vía.
 El transportista del tren Os 14342 era ARRIVA, con domicilio en Křižíkova 148/34, Praha 8 – Karlín, PSČ 186 00.
 
-
 ## Página 19
+
 
 El tráfico ferroviario se prestaba en virtud de un contrato celebrado entre el gestor de la vía SŽ y el transportista ARRIVA, de fecha 6. 4. 2022, con efectos desde el 12. 4. 2022.
 ### 3.1.7 Descripción de los vehículos ferroviarios y sus composiciones, incluidos los números de registro
@@ -582,8 +585,8 @@ La unidad motorizada del tren Os 14342 estaba equipada, en el momento de la apar
 | • a las 14:50:30 h | el tren, circulando a 48 km·h-1, se encontraba con su extremo delantero a una distancia de 160 m antes del ŽP P7414, en el punto donde comienza su visibilidad no obstruida desde una distancia de 4 m perpendicular al eje de la TK en el sentido de la marcha del NA desde la carretera I/35; |
 | • a las 14:50:31 h | el extremo delantero del tren, circulando a 48 km·h-1, pasó el señalizador de velocidad N con la cifra 60” (en el km 3 928), por el que el gestor de la vía “ , , había aumentado la velocidad de la línea de 50 km·h-1 a 60 km·h-1 El tren se . encontraba a 149 m antes del ŽP P7414 en el km 3 779 , . 3 s después (a las 14:50:34 h), el tren, circulando a 49 km·h-1 |
 
-
 ## Página 20
+
 
 pasó con toda la longitud del conjunto el señalizador de velocidad N con la cifra „60“ (en el km
 3,928). El tren se encontraba a 110 m antes del ŽP P7414 en el km 3,779;
@@ -616,6 +619,7 @@ La vía de servicio terrestre antes y después del ŽP P7414 discurría, en el s
 El ŽP P7414 estaba protegido por un PZS 3SBI según la ČSN 34 2650 ed. 2, tipo PZZ-RE con contadores de ejes tipo AzF Frauscher con salidas direccionales, sin barras de cierre, para las que expidió
 
 ## Página 21
+
 
 DÚ del 7. 4. 2015, bajo el n.º de registro PZ 1510/15-E.41, Certificado de aptitud de la UTZ eléctrica,
 con vigencia por tiempo indefinido.
@@ -654,61 +658,40 @@ básica
 Resumen de las explicaciones aportadas por los empleados del operador de la vía y del transportista, incl. personas en
 relación contractual:
 
-
 ## Página 22
 
 •
 maquinista del tren Os 14342
   – Acta con el empleado:
-◦el 11. 10. 2022 incorporó al turno a las 5:20 h, el turno hasta la ocurrencia de la MU transcurrió
-sin incidencias,
-◦condujo el tren Os 14342 formado por una unidad automotora de la serie 848.2, desde la
-estación D3 Rožnov pod Radhoštěm hasta la est. Valašské Meziříčí. Debido al cruce
-con un tren en sentido contrario en la estación D3 Střítež nad Bečvou, el tren Os 14342
-se retrasó unos 4 min,
-◦durante la marcha hacia el ŽP P7414, a muy corta distancia, el NA registró
-que se aproximaba por la izquierda. Porque, según su declaración, "evaluó la situación como
-muy peligrosa y comenzó a dar la señal de atención con la bocina de la locomotora"
-e inició una frenada de urgencia. A continuación abandonó la cabina del maquinista hacia el compartimento para
-pasajeros,
+◦el 11. 10. 2022 se incorporó al turno a las 5:20 h, el turno hasta la ocurrencia del MU transcurrió sin incidencias,
+◦condujo el tren Os 14342 formado por la unidad automotora de la serie 848.2, desde la estación de maniobras D3 Rožnov pod Radhoštěm hasta la estación Valašské Meziříčí. Debido al cruce con el tren en sentido contrario en la estación de maniobras D3 Střítež nad Bečvou, el tren Os 14342 se retrasó unos 4 min,
+◦durante la marcha hacia el PZ P7414, a muy corta distancia, registró un NA procedente de la izquierda. Según su declaración, «evaluó la situación como muy peligrosa y comenzó a dar la señal de aviso con la bocina de locomotora», y activó el frenado de acción rápida. A continuación abandonó la cabina del maquinista hacia el compartimento para pasajeros,
 ◦seguidamente se produjo la colisión del tren con el NA,
-◦tras la colisión con el NA se encontró en el suelo del compartimento para pasajeros. Inmediatamente comenzó a comprobar
-si los pasajeros habían sufrido daños en su salud,
-◦al lugar de la MU acudió en muy poco tiempo la unidad RZP,
-◦del lugar de la MU fue trasladado por la RZP al hospital de Valašské Meziříčí para su examinación.
+◦tras la colisión con el NA, se encontró en el suelo del compartimento para pasajeros. Inmediatamente comenzó a comprobar si los pasajeros habían sufrido daños en su salud,
+◦al lugar del MU acudió en muy poco tiempo la unidad RZP,
+◦desde el lugar del MU fue trasladado en RZP al hospital de Valašské Meziříčí para su examen.
 •
-despachante director en la est. Valašské Meziříčí
+despachador director en la estación Valašské Meziříčí
   – Acta con el empleado:
-◦al mirar el monitor de la línea D3 Valašské Meziříčí – Rožnov pod Radhoštěm
-vio que el tren Os 14342 estaba detenido en el ámbito de la parada Hrachovec, es decir, también en el ŽP P7414,
-◦mediante consulta telefónica al maquinista del tren Os 14342 para comprobar
-si se trataba de una avería técnica del tren, fue informado por el maquinista de la colisión del tren con el NA
-en el ŽP P7414, del descarrilamiento del tren y también de la activación de los servicios IZS,
-◦la misma información le fue comunicada simultáneamente por teléfono también por el despachante de explotación
-del CDP Přerov.
+◦al mirar el monitor de la línea D3 Valašské Meziříčí – Rožnov pod Radhoštěm, vio que el tren Os 14342 se encontraba detenido en el ámbito de la parada Hrachovec, es decir, también en el PZ P7414,
+◦mediante consulta telefónica al maquinista del tren Os 14342 para determinar si se trataba de una avería técnica del tren, el maquinista le informó de la colisión del tren con el NA en el PZ P7414, del descarrilamiento del tren y también de la activación de los servicios IZS,
+◦la misma información se la comunicó simultáneamente por teléfono también el despachador de explotación del CDP Přerov.
 •
 revisor del tren Os 14342
   – Acta con el empleado:
-◦el 11. 10. 2022 incorporó al turno con inicio a las 6:10 h, el turno hasta la ocurrencia de la MU transcurrió
-sin incidencias,
-◦tras finalizar la revisión de títulos de transporte en la parada Zašová, se sentó en
-el asiento del KŘV-A 948.202-7 y se preparaba para las actividades relacionadas con la circulación del
-tren siguiente en sentido contrario,
-◦oyó la emisión de la señal sonora "Atención" con la bocina de la locomotora y simultáneamente
-registró la frenada intensa del tren, a la que siguió la colisión con el NA.
-Por el impacto fue expulsado sentado bajo el asiento del frente,
-◦cuando el tren se detuvo, comenzó a comprobar el estado de los pasajeros y a organizar la evacuación
-de los pasajeros de la unidad. Informó del suceso a los servicios IZS y al despacho del transportista
-ARRIVA.
-Resumen de las explicaciones aportadas por otras personas implicadas:
+◦el 11. 10. 2022 se incorporó al turno con inicio a las 6:10 h, el turno hasta la ocurrencia del MU transcurrió sin incidencias,
+◦tras finalizar la revisión de los títulos de transporte después de la parada Zašová, se sentó en el asiento de la KŘV-A 948.202-7 y se preparaba para las actividades relacionadas con la marcha del siguiente tren en sentido contrario,
+◦escuchó la emisión de la señal sonora de aviso «Pozor» con la bocina de locomotora y simultáneamente registró el frenado intenso del tren, tras el cual se produjo la colisión con el NA. Con el impacto fue expulsado sentado bajo el asiento del lado opuesto,
+◦cuando el tren se detuvo, comenzó a comprobar el estado de los pasajeros y a organizar la evacuación de los pasajeros de la unidad. Informó del suceso a los servicios IZS y a la central de explotación del operador ARRIVA.
+
+Resumen de las explicaciones presentadas por otras personas implicadas:
 •
 conductor del NA
-  – Registro oficial de la explicación aportada a la PČR:
-◦es titular del permiso de conducir de todos los grupos, excepto el grupo D – Autobuses.
-Asimismo, es titular de la licencia profesional de conductor,
-
+  – Registro oficial de la explicación presentada ante la PČR:
+◦es titular del permiso de conducir de todas las categorías, excepto la categoría D – Autobuses. Asimismo, es titular del certificado profesional de conductor,
 
 ## Página 23
+
 
 ◦conduce el NA profesionalmente unos 8 meses, en 2022 cometió una infracción de tráfico, al
 exceder la velocidad en un núcleo urbano,
@@ -759,117 +742,94 @@ registraron también la salida del maquinista de la cabina del maquinista y su g
 sentido de "Atención, va a haber un impacto" y su posterior caída al suelo causada
 por la colisión,
 
-
 ## Página 24
 
-◦durante la colisión cayeron de sus asientos y chocaron contra el asiento del frente o se golpearon
-con otro pasajero,
-◦el maquinista tras la colisión abrió las puertas de acceso en el KŘV-A 948.202-7 y les
-permitió abandonar el tren. Al descender se dieron cuenta de que el PZS del ŽP P7414 estaba en
-funcionamiento y daba advertencia luminosa y sonora.
-De los datos registrados por el sistema de cámaras instalado en el DV en el KŘV-B 948.702-6
-del tren Os 14342, esto es, desde la puesta en marcha del tren en la parada Zašová hasta la detención tras
-la ocurrencia de la MU, se desprende, entre otros:
+◦ durante la colisión cayeron de sus asientos y chocaron contra el asiento que tenían delante o se golpearon contra otro pasajero,
+◦ el maquinista abrió tras la colisión las puertas de acceso en KŘV-A 948.202-7 y les permitió abandonar el tren. Tras descender, se percataron de que el PZS ŽP P7414 estaba en funcionamiento y emitía tanto aviso luminoso como acústico.
+De los datos registrados por el sistema de cámaras instalado en la DV en KŘV-B 948.702-6 del tren Os 14342, y ello desde la puesta en marcha del tren en la parada Zašová hasta la detención tras la producción del MU, entre otros, se desprende:
 •
 a las 14:47:53 h
-el tren fue puesto en marcha en la parada Zašová (en la salida
-retrasado 6 min). A continuación se produce la aceleración suave del tren;
+el tren fue puesto en marcha en la parada Zašová (con 6 min de retraso en la salida). A continuación se produce una aceleración suave del tren;
 •
 a las 14:50:27 h
-en la carretera I/35 se vio un NA, en cuyo frontal brillaban luces atenuadas,
-que giraba a la izquierda hacia la vía de servicio en dirección al ŽP
-P7414, no siendo captada su marcha posterior por el sistema de cámaras durante los 10 s
-siguientes. El motivo fue la vegetación crecida
-entre la carretera I/35 y el TK;
+en la carretera I/35 se observó un NA, con las luces atenuadas encendidas en su frontal, que giraba a la izquierda hacia una vía de servicio en dirección al ŽP P7414, si bien su posterior circulación no fue captada por el sistema de cámaras durante los 10 s siguientes. El motivo fue la vegetación crecida existente entre la carretera I/35 y la TK;
 •
 a las 14:50:31 h
-el frente del tren pasó el indicador de velocidad N con la cifra "60" (pk 3,928);
-la marcha del NA, debido a la vegetación crecida entre la carretera I/35
-y el TK, dejó de ser captada por el sistema de cámaras.
-Al mismo tiempo se registró el inicio de la visión
-desobstruida del espacio del ŽP P7414;
+el frontal del tren pasó el señalizador de velocidad N con el número «60» (pk 3,928); la circulación del NA, debido a la vegetación crecida existente entre la carretera I/35 y la TK, dejó de ser captada por el sistema de cámaras.
+Al mismo tiempo se registró el inicio de la visión ininterrumpida del espacio del ŽP P7414;
 •
 a las 14:50:37 h
-desde detrás de la vegetación crecida entre la carretera I/35 y el TK apareció una parte de la
-cabina blanca del NA que se aproximaba por la izquierda al ŽP P7414.
-1 s después (a las 14:50:38 h) ya era visible toda la cabina del NA,
-incl. parte del remolque;
+desde detrás de la vegetación crecida entre la carretera I/35 y la TK apareció parte de la cabina blanca del NA que se aproximaba por la izquierda al ŽP P7414.
+1 s después (a las 14:50:38 h) ya era visible toda la cabina del NA, incl. parte del remolque;
 •
 a las 14:50:39 h
-el NA pasó sin detenerse la altura de los semáforos de advertencia (B1 y B2) situados
-antes del ŽP P7414 por el lado de la carretera I/35 y entró por la izquierda en el ŽP;
+el NA pasó sin detenerse el nivel de los señalizadores (B1 y B2) situados delante del ŽP P7414 por el lado de la carretera I/35 y entró por el lado izquierdo en el ŽP;
 •
 a las 14:50:41 h
-toda la cabina del NA en marcha se encontraba sobre el TK en el ŽP; el NA continuó
-su marcha;
+toda la cabina del NA en marcha se encontraba sobre la TK en el ŽP, y el NA continuó su circulación;
 •
 a las 14:50:42 h
-el NA abandonó con la cabina del conductor el espacio del ŽP, en el que desde ese momento
-se encontraba únicamente su remolque;
+el NA abandonó con su cabina el espacio del ŽP, en el que a partir de ese momento solo se encontraba su remolque;
 •
 a las 14:50:43 h
-### Ocurrencia de la MU – el frente del tren impactó en el lado derecho del remolque del NA.
-En el mismo segundo se produjo la destrucción del parabrisas de la cabina
-del maquinista KŘV-B 948.702-6.
+### producción del MU – el frontal del tren impactó contra el lado derecho del remolque del NA.
+En el mismo segundo se produjo la destrucción del parabrisas de la cabina del maquinista de KŘV-B 948.702-6.
 ### 3.2 Descripción fáctica del suceso
-### 3.2.1 Secuencia de hechos que condujeron al suceso
-En la estación D3 Střítež nad Bečvou se realizó el cruce regular de los trenes Os 14342
-(Rožnov pod Radhoštěm – Valašské Meziříčí) y Os 3913 (Kojetín – Rožnov pod
-Radhoštěm). Tras la llegada del tren Os 3913, es decir, del tren en sentido contrario, el maquinista
-del tren Os 14342 solicitó a las 14:44 h al despachante director el permiso de salida hacia la est. Valašské
-Meziříčí, que le fue concedido. Antes de la salida del tren Os 14342, el maquinista a través del
-mando a distancia en el manojo de llaves de la D3 atendió la señal de protección LkV. Tras el cambio de señal
+### 3.2.1 Secuencia de hechos que condujeron al suceso ferroviario
+En el ámbito de circulación D3 Střítež nad Bečvou se realizó el cruce regular de los trenes Os 14342 (Rožnov pod Radhoštěm – Valašské Meziříčí) y Os 3913 (Kojetín – Rožnov pod Radhoštěm). Tras la llegada del tren Os 3913, es decir, del tren en sentido contrario, el maquinista del tren Os 14342 solicitó a las 14:44 h al despachador director el permiso de salida hacia la est. Valašské Meziříčí, que le fue concedido. Antes de la salida del tren Os 14342, el maquinista, mediante el mando a distancia en el manojo de llaves D3, accionó la señal de protección LkV. Tras el cambio de señal
 
 ## Página 25
 
-«Stůj» (Alto) en la señal «Volno» (Libre) puso el tren en movimiento. El tren Os 14342 salía de la estación de tráfico D3 Střítež nad Bečvou con un retraso de 5 min. A continuación, la parada Zašová, que era una parada a petición, en la que el tren se detuvo. Desde la parada, el tren partió a las 14:47:53 h con un retraso de 6 min.
-De los datos registrados por el sistema de cámaras instalado en el DV del tren Os 14342, entre otros, se dedujo que, mientras el tren se dirigía al ŽP P7414, a las 14:50:37 h apareció desde detrás de la vegetación situada entre la carretera I/35 y la TK una parte blanca de la cabina del NA que se aproximaba desde la izquierda por la vía de servicio hacia el ŽP P7414. Al mismo tiempo, el maquinista del tren Os 14342 reaccionó a este hecho accionando el elemento de mando para la emisión de la señal sonora «Pozor» (Atención), cuya emisión confirmaron tanto los pasajeros del tren Os 14342 como el revisor de dicho tren. El tren se encontraba en ese momento con su frontal a 81 m del ŽP. El NA continuó su marcha, pasando a las 14:50:39 h sin detenerse el nivel de los semáforos de aviso situados delante del ŽP P7414 y entrando en el ŽP. Al mismo tiempo, cuando el tren se encontraba a 53 m del ŽP, el maquinista, a una velocidad de 49 km·h-1, inició el frenado de acción rápida. A las 14:50:41 h, cuando el tren se encontraba a 24 m del ŽP, el maquinista finalizó la emisión de la señal sonora «Pozor» (Atención). Esta fue emitida por el maquinista durante 4 s. A continuación, el maquinista abandonó la cabina de conducción y pasó al compartimento de pasajeros KŘV-B 948.702-6, donde advirtió a los pasajeros del inminente choque. 2 s después, a las 14:50:43 h, el tren, a una velocidad de 33 km·h-1, impactó contra el lado derecho del NA. Como consecuencia del choque, el tren descarriló con ambos ejes del KŘV-B 948.702-6 y con el eje delantero del STD 848.202-8, y el NA, cargado con sustrato de hormigón, volcó sobre su lado izquierdo. El frontal del tren se encontraba en la posición final tras la MU a 9 m por detrás del punto de choque, es decir, en el km 3,770, encastrado en el NA volcado. En la MU resultaron heridas 6 personas.
-### 3.2.2 Secuencia de hechos desde la ocurrencia de la excepción hasta la finalización de las acciones de los servicios de rescate
+«Stůj» («Alto») ante la señal «Libre» puso el tren en movimiento. El tren Os 14342 partía de la estación de tráfico D3 Střítež nad Bečvou con un retraso de 5 min. A continuación se encontraba la parada Zašová, que era una parada a petición, en la que el tren se detuvo. Desde la parada el tren partió a las 14:47:53 h con un retraso de 6 min.
+De los datos registrados por el sistema de vídeo instalado en el DV del tren Os 14342, entre otros, se dedujo que, mientras el tren se dirigía hacia el ŽP P7414, a las 14:50:37 h apareció desde detrás de la vegetación situada entre la carretera I/35 y la TK una parte de la cabina blanca del NA que se aproximaba por la izquierda por la vía de servicio hacia el ŽP P7414. Al mismo tiempo, el maquinista del tren Os 14342 reaccionó a esta circunstancia accionando el elemento de mando para emitir la señal sonora «Pozor» («Atención»), cuya emisión confirmaron tanto los pasajeros del tren Os 14342 como el revisor de dicho tren. El tren se encontraba en ese momento con el frontal a 81 m del ŽP. El NA continuó su marcha y, a las 14:50:39 h, sin detenerse, pasó el nivel de los semáforos situados antes del ŽP P7414 y entró en el ŽP. Al mismo tiempo, cuando el tren se encontraba a 53 m del ŽP, el maquinista, a una velocidad de 49 km·h-1, aplicó el frenado de acción rápida. A las 14:50:41 h, cuando el tren se encontraba a 24 m del ŽP, el maquinista dejó de emitir la señal sonora «Pozor». Esta fue emitida por el maquinista durante 4 s. A continuación, el maquinista abandonó la cabina del maquinista y pasó al compartimento de pasajeros KŘV-B 948.702-6, donde advirtió a los pasajeros del inminente choque. 2 s después, a las 14:50:43 h, el tren, a una velocidad de 33 km·h-1, impactó contra el lado derecho del NA. Como consecuencia del choque, el tren descarriló con ambos ejes del KŘV-B 948.702-6 y con el eje delantero del STD 848.202-8, y el NA, cargado con sustrato de hormigón, fue volcado sobre el lado izquierdo. El frontal del tren se encontraba en la posición final tras la MU a 9 m del punto de choque, es decir, en el km 3,770, encastrado en el NA volcado. En la MU resultaron heridas 6 personas.
+### 3.2.2 Secuencia de hechos desde la producción del suceso excepcional hasta la finalización de las acciones de los servicios de rescate
 | 11 10 2022 . . |  |
-| • 14:50 h | ocurrencia de la MU; |
-| • 14:53 h | el maquinista del tren Os 14342 comunicó la ocurrencia de la MU al puesto de notificación del transportista ARRIVA; |
-| • 14:54 h | la dotación de la RZP interviene en el lugar de la ocurrencia de la MU. Al mismo tiempo, la socorrista de la dotación de la RZP comunicó la ocurrencia de la MU al despacho del ZZS ZLK y el maquinista del tren Os 14342 realizó la ampliación de la notificación original de la ocurrencia de la MU al puesto de notificación del transportista ARRIVA; |
-| • 14:55 h | el operador del puesto de notificación del transportista ARRIVA comunicó la ocurrencia de la MU al puesto de notificación del operador de la vía SŽ y el despachador director en la est. Valašské Meziříčí comunicó la ocurrencia de la MU al jefe de despachadores del CDP Přerov y al HZS SŽ; |
-| • 14:58 h | la primera patrulla de la PČR llegó al lugar de la ocurrencia de la MU; |
-| • 15:05 h | el jefe de despachadores del CDP Přerov comunicó la ocurrencia de la MU a la O18 SŽ; |
-| • 15:07 h | el grupo de intervención del HZS ZLK se presentó en el lugar de la ocurrencia de la MU; |
-| • 15:10 h | la persona autorizada de la O18 SŽ notificó la ocurrencia de la MU al COP DI como un choque del tren Os 14342 con un NA en el ŽP P7414, en el que el tren Os 14342 descarriló, se produjo un daño personal a 1 persona y se estimó que se había producido un daño por un importe de |
-
+| • 14:50 h | producción de la MU; |
+| • 14:53 h | el maquinista del tren Os 14342 comunicó la producción de la MU al puesto de comunicación del transportista ARRIVA; |
+| • 14:54 h | la dotación de la RZP interviene en el lugar de producción de la MU. Al mismo tiempo, la socorrista de la dotación de la RZP comunicó la producción de la MU al despacho del ZZS ZLK y el maquinista del tren Os 14342 completó la comunicación inicial de la producción de la MU al puesto de comunicación del transportista ARRIVA; |
+| • 14:55 h | el operador del puesto de comunicación del transportista ARRIVA comunicó la producción de la MU al puesto de comunicación del gestor de la vía SŽ y el despachador director de la estación Valašské Meziříčí comunicó la producción de la MU al jefe de despacho del CDP Přerov y al HZS SŽ; |
+| • 14:58 h | la primera patrulla de la PČR llegó al lugar de producción de la MU; |
+| • 15:05 h | el jefe de despacho del CDP Přerov comunicó la producción de la MU al O18 SŽ; |
+| • 15:07 h | el grupo de intervención del HZS ZLK se presentó en el lugar de producción de la MU; |
+| • 15:10 h | la persona designada del O18 SŽ notificó la producción de la MU al COP DI como choque del tren Os 14342 contra el NA en el ŽP P7414, en el que el tren Os 14342 descarriló, se produjo un perjuicio para la salud en 1 persona y se estimó que se había producido un daño por importe de |
 
 ## Página 26
 
-|  | 300 000 Kč. El empleado en el COP DI, sobre la base de los hechos notificados, concedió al notificante el permiso para liberar la vía; |
-| • 16:05 h | la persona autorizada de la O18 SŽ amplió la notificación original de la ocurrencia de la MU al COP DI con el aumento de la estimación inicial del daño a 1 000 000 Kč; |
-| • 16:15 h | la persona autorizada de la O18 SŽ volvió a ampliar la notificación de la ocurrencia de la MU al COP DI con el aumento del número de personas que, como consecuencia del choque, resultaron heridas, a 6 (el conductor del NA, el maquinista y el revisor del tren Os 14342 y 3 pasajeros). El empleado en el COP DI, sobre la base de la ampliación de los hechos notificados, retiró el permiso ya concedido para liberar la vía e informó a la persona autorizada de la O18 SŽ de que la DI se desplazaba al lugar de la MU; |
-| • 17:40 h | inicio de la inspección del lugar de la ocurrencia de la MU por parte de los inspectores de la DI; |
-| • 18:45 h | el inspector de la DI presente concedió el permiso para liberar la vía y la persona autorizada de la O18 SŽ concedió el permiso para iniciar los trabajos de despeje; |
-| • 23:30 h | la JPO del HZS SŽ Přerov realizó la realineación de la unidad motorizada del tren Os 14342; |
+|  | 300 000 Kč El empleado en el COP DI, sobre la base de los hechos notificados, concedió al notificante el consentimiento para la liberación de la vía; |
+| • 16:05 h | la persona autorizada O18 SŽ completó la notificación original de la aparición de la MU en el COP DI con el aumento de la estimación inicial de los daños a 1 000 000 Kč; |
+| • 16:15 h | la persona autorizada O18 SŽ volvió a completar la notificación de la aparición de la MU en el COP DI con el aumento del número de personas que resultaron heridas como consecuencia de la colisión a 6 (el conductor NA, el maquinista y el revisor del tren Os 14342 y 3 pasajeros). El empleado en el COP DI, sobre la base de la nueva completación de los hechos notificados, retiró el consentimiento ya concedido para la liberación de la vía e informó a la persona autorizada O18 SŽ de que la DI se desplazaba al lugar de la MU; |
+| • 17:40 h | comienzo de la inspección del lugar de aparición de la MU por parte de los inspectores de la DI; |
+| • 18:45 h | el inspector de la DI presente concedió el consentimiento para la liberación de la vía y la persona autorizada O18 SŽ concedió el consentimiento para el inicio de los trabajos de despeje; |
+| • 23:30 h | la JPO HZS SŽ Přerov realizó la colocación sobre raíles de la unidad motorizada del tren Os 14342; |
 | 12 10 2022 . . |  |
 | • 21:30 h | se reanudó la explotación del transporte ferroviario. |
-El Plan IZS fue activado, dada la naturaleza de la MU, por la dotación de la RZP a las 14:54 h, es decir, 4 min después de la ocurrencia de la MU, que circulaba por la carretera I/35 junto al lugar de la MU.
+El Plan IZS fue activado, dada la naturaleza de la MU, por la dotación de la RZP a las 14:54 h, 
+es decir, 4 min después de la aparición de la MU, que circulaba por la carretera I/35 junto al lugar de la MU.
 En el lugar de la MU intervinieron los siguientes componentes del IZS:
 •
 PČR, Jefatura Regional de la PČR de la Región de Zlín, grupo de accidentes de tráfico de Vsetín;
 •
-PČR, Jefatura Regional de la PČR de la Región de Zlín, Departamento de Criminalidad General, Distrito Territorial de Vsetín;
+PČR, Jefatura Regional de la PČR de la Región de Zlín, Departamento de Delincuencia General, 
+Sección Territorial de Vsetín;
 •
 ZZS ZLK – 1x RZP y 1x RLP;
 •
-JPO del HZS ZLK Distrito Territorial de Vsetín y Zlín;
+JPO HZS ZLK Sección Territorial de Vsetín y Zlín;
 •
-JPO del HZS SŽ Ostrava;
+JPO HZS SŽ Ostrava;
 •
-JPO del HZS SŽ Přerov;
+JPO HZS SŽ Přerov;
 •
 Unidades del cuerpo de bomberos voluntarios de Rožnov pod Radhoštěm y Hrachovec.
 ## 4 ANÁLISIS DEL SUCESO
 ### 4.1 Tareas y obligaciones
-### 4.1.1 Transportistas y operadores de vías
-El cruce de la vía con la vía de comunicación a nivel de las vías debe estar señalizado y protegido, siendo que el transporte ferroviario tiene, según las disposiciones legales, prioridad sobre el tráfico en la vía de comunicación. El cruce de la vía de ámbito nacional, de la vía regional y del apartadero con la vía de comunicación a nivel de las vías (ŽP) se señaliza con una cruz de aviso, en el caso de un ŽP de vía única, con la señal vertical de tráfico A 32a «Cruz de aviso para el paso a nivel ferroviario de vía única». Si en el ŽP el momento de tráfico supera el valor de 10 000, el paso a nivel debe estar protegido con PZS.
-El operador de la vía registró en el ŽP P7414 un momento de tráfico de 13 750, con una intensidad del tráfico por carretera de 1 000 vehículos por 24 h y una intensidad media de circulación de 33 trenes por 24 h. En el ŽP P7414 estaba instalado un PZS que advertía a los usuarios de la vía de comunicación con la suficiente
-
+### 4.1.1 Transportistas y explotadores de vías
+El cruce de la vía con la carretera a nivel de las vías debe estar señalizado y protegido, 
+siendo el transporte ferroviario, según las disposiciones legales, prioritario respecto a la circulación en la carretera. El cruce de la vía de ancho nacional, de la vía regional y del apartadero con la carretera a nivel de las vías (ŽP) se señaliza con una cruz de aviso, en el caso de un ŽP de vía única con la señal vertical de tráfico A 32a «Cruz de aviso para paso a nivel de ferrocarril de vía única». Si en el ŮP el momento de tráfico supera el valor de 10 000, el paso a nivel debe estar protegido con PZS.
+El explotador de la vía registraba en el ŽP P7414 un momento de tráfico de 13 750, con una intensidad del tráfico por carretera de 1 000 vehículos en 24 h y una intensidad media de circulación de 33 trenes en 24 h. En el ŽP P7414 estaba instalado un PZS que advertía a los usuarios de la carretera con suficiente
 
 ## Página 27
+
 
 antelación de que se aproximaba al ŽP un tren o un DV, mediante una luz roja intermitente y una señal sonora intermitente (véase el punto 3.1.8 de esta ZZ). Las cajas de luz de los semáforos de aviso en postes independientes, su construcción y ubicación deben corresponder a la ČSN 73 6380 y a la ČSN 34 2650 ed. 2 y deben ir complementadas con una placa con el aviso «POZOR VLAK» (ATENCIÓN AL TREN). Para el conductor de un vehículo por carretera debe garantizarse una visibilidad al semáforo de aviso de una longitud tal que el conductor pueda detenerse de forma fiable antes del paso a nivel, es decir, la longitud de visibilidad para detenerse Dz. En caso de avería o desconexión del PZZ, debe garantizarse la longitud de visibilidad para el vehículo por carretera más lento Lp para un DV que circule a 10 km·h-1 (véanse los puntos 3.1.3 y 3.1.8 de esta ZZ).
 El maquinista, al conducir un tren (DV), en el sentido de las disposiciones pertinentes de la legislación y de las normativas internas del operador de la vía SŽ y del transportista ARRIVA, está, entre otras obligaciones, obligado a conducir el DV solo desde la posición desde la que existe la mejor visibilidad, por lo general desde la cabina delantera del maquinista en el sentido de la marcha, a observar la vía y las señales desde la parte delantera del DV y a actuar según los hechos constatados. Delante de un ŽP protegido con PZS no se coloca un señal con la señal «Pískejte» (Piten). Por tanto, el maquinista no está obligado a emitir la señal sonora «Pozor» (Atención), ni está obligado a presumir que el paso a nivel no está cerrado a los usuarios de la vía de comunicación. Esto no es aplicable en caso de desconexión o avería del PZZ, de lo que el maquinista debe ser informado de forma verificable por una instrucción del operador de la vía (señal emitida por el guardabarreras, orden escrita, etc.) por la que se le ordene una marcha con precaución aumentada, lo que, sin embargo, no es el caso de esta MU.
@@ -883,8 +843,8 @@ En la investigación no se constató infracción de las tareas y obligaciones de
 ### 4.1.4 Autoridades nacionales de seguridad y Agencia Ferroviaria de la Unión Europea
 La autoridad nacional de seguridad es el DÚ, que, según la Ley núm. 266/1994 Sb., es una autoridad administrativa dependiente del Ministerio de Transportes. Su tarea es, entre otras, el ejercicio de la
 
-
 ## Página 28
+
 
 supervisión estatal en materia de vías y en materia de la autoridad de construcción, el ejercicio de la autoridad de construcción especial para obras de la vía y obras en la vía, la aprobación de DV y UTZ nuevos y modernizados y la tramitación de infracciones. La obligación del DÚ es comunicar a la DI, en un plazo de 12 meses desde la fecha de publicación del informe final que contenga las recomendaciones de seguridad dirigidas a él, qué medida ha adoptado en relación con dicha recomendación de seguridad, realizando esta comunicación de forma regular, al menos una vez al año, hasta la adopción de las medidas correspondientes.
 La tarea de la Agencia Ferroviaria de la Unión Europea es, además de garantizar, en el marco de sus competencias, que se mantenga y, si es posible, se aumente de forma sistemática la seguridad de los ferrocarriles, entre otras, la emisión, renovación, suspensión y modificación de los certificados únicos de seguridad, la limitación de su validez o su anulación, cooperando en este asunto con las autoridades nacionales de seguridad; además, emite autorizaciones para la puesta en el mercado de vehículos ferroviarios y de tipos de vehículos y está facultada para renovar, modificar, suspender o anular las autorizaciones que haya emitido. La Agencia evalúa asimismo los proyectos de normativa nacional, etc.
@@ -900,26 +860,31 @@ El conductor del NA se aproximaba al ŽP P7414 desde la carretera I/35 en el sen
 
 ## Página 29
 
-la comunicación entre la salida de la vía de servicio a la carretera I/35 y el PFE P7414, podía, dada la longitud del tren, detenerse con seguridad antes del PFE.
-El conductor del NA no discutió la manejabilidad del NA en cuestión ni alegó defecto técnico. El resultado de la prueba de alcoholemia orientativa realizada por la Policía Nacional al conductor del NA en el lugar del siniestro fue negativo.
-En su declaración, el conductor del NA indicó, entre otros extremos, que se aproximaba al PFE P7414 a baja velocidad, observando la señalización luminosa del PCE del PFE, y que, al ver en las cajas de los semáforos la luz blanca intermitente de señalización positiva, continuó la marcha con el NA hacia el PFE. Al hacerlo, debía observar a los lados para ver si se aproximaba algún tren. Como no avistó ningún tren acercándose al PFE, decidió cruzarlo. Según su declaración, el PCE del PFE comenzó a emitir la alerta luminosa y sonora solo cuando la cabina de la tractora del NA se encontraba sobre el PFE, y después también oyó la señal sonora emitida por el tren Os 14342.
-A este respecto, cabe señalar que la argumentación del conductor fue rechazada por la DI, ya que el PSE del PFE P7414 advirtió al conductor del NA con luz roja intermitente y señal sonora intermitente durante 40 s, hasta la llegada del frente del tren Os 14342 al PFE, es decir, en un momento anterior incluso a que el NA girara desde la carretera I/35 hacia la vía de servicio que conduce al PFE. En el momento en que la cabina de la tractora del NA se encontraba justo delante de la altura de los semáforos del PCE, el frente del tren Os 14342 que se aproximaba se encontraba a una distancia de 81 m del PFE y era visible, momento a partir del cual el maquinista comenzó a advertir al conductor del NA con la señal «Atención» dada por la bocina de locomotora KŘV-B 948.702-6 (véanse los análisis de los datos registrados por el RR y el sistema de cámara del tren Os 14342, y el análisis de los datos registrados por el PCE del PFE P7414, contenidos en los puntos 3.1.7, 3.1.8 y 3.1.9 de la presente IIA).
-El conductor del NA, en contra de las obligaciones establecidas por la normativa legal, no actuó con especial precaución antes del PFE al no comprobar el estado de los semáforos, o al no evaluar correctamente su señal dada por dos luces rojas intermitentes alternas y un sonido intermitente característico de significado inequívoco (el PFE estaba señalizado por señalización vial), y entró indebidamente en el PFE P7414 en un momento en que se aproximaba el tren Os 14342. El tren que se aproximaba era visible sin obstrucción desde una distancia de 4 m perpendicular al eje de la vía en la dirección de marcha del NA desde la carretera I/35 hasta una distancia de 160 m, y en el momento de la entrada del NA en el PFE, el tren Os 14342 se encontraba a una distancia de 53 m del PFE, y ya desde una distancia de 81 m del PFE el maquinista emitía con la bocina de locomotora la señal sonora «Atención».
+comunicación entre la salida de la vía de servicio a la carretera I/35 y el P7414, dado la longitud del tren, podía detenerse con seguridad antes del P.
+
+El conductor del NA no discutió la maniobrabilidad del NA en cuestión ni alegó defecto técnico. El resultado de la prueba de alcoholemia orientativa realizada por la PČR al conductor del NA en el lugar del MU fue negativo.
+
+En su declaración, el conductor del NA indicó, entre otras cosas, que se aproximaba al P P7414 a baja velocidad, observando la señalización luminosa del PZZ del P, y que, al ver en las cajas de luz de los semáforos la luz blanca parpadeante de señalización positiva, continuó con el NA hacia el P. Durante ello debía observar a los lados si se acercaba algún tren. Como no vio ningún tren acercándose al P, decidió cruzarlo. Según su declaración, el PZZ del P debió comenzar a emitir la alerta luminosa y sonora solo cuando la cabina del tractor del NA se encontraba en el P, y después también oyó la señal sonora emitida por el tren Os 14342.
+
+A este respecto hay que señalar que la argumentación del conductor fue rechazada por la DI, ya que el PZS del P P7414 advirtió al conductor del NA con luz roja intermitente y señal sonora intermitente durante 40 s hasta la llegada del frente del tren Os 14342 al P, es decir, en un momento anterior incluso a que el NA girara desde la carretera I/35 hacia la vía de servicio que conduce al P. En el momento en que la cabina del tractor del NA se encontraba inmediatamente delante de la altura de los semáforos del PZZ, el frente del tren Os 14342 que se aproximaba se encontraba a una distancia de 81 m del P y era visible, momento a partir del cual el maquinista comenzó a advertir al conductor del NA con la señal «¡Atención!» dada con la bocina de locomotora KŘV-B 948.702-6 (véanse los análisis de los datos registrados por el RR y el sistema de cámaras del tren Os 14342, y el análisis de los datos registrados por el PZZ del P P7414, contenidos en los puntos 3.1.7, 3.1.8 y 3.1.9 de la presente ZZ).
+
+El conductor del NA, en contra de las obligaciones establecidas por las disposiciones legales, no actuó con especial precaución antes del P al no comprobar el estado de los semáforos, o al no evaluar correctamente su señal dada por dos luces rojas alternadamente intermitentes y un sonido intermitente característico de significado inequívoco (del P fue informado por la señalización vial), y entró indebidamente en el P P7414 en un momento en que se aproximaba el tren Os 14342. El tren que se aproximaba era visible sin obstrucción desde una distancia de 4 m perpendicular al eje de la vía en la dirección de marcha del NA desde la carretera I/35 hasta una distancia de 160 m, y en el momento de la entrada del NA en el P el tren Os 14342 se encontraba a una distancia de 53 m del P, y ya desde una distancia de 81 m del P el maquinista emitía con la bocina de locomotora la señal sonora «¡Atención!».
+
 ### Hallazgos:
-En la investigación se constató la infracción de la normativa legal relativa a las funciones y obligaciones del usuario
-### de la vía pública – el conductor del NA, en relación causal con la ocurrencia del siniestro:
+En la investigación se constató la infracción de las disposiciones legales relativas a las funciones y obligaciones del usuario
+### de la vía pública – el conductor del NA, en relación causal con la aparición del MU:
 •
 § 6 apartado 3 de la Ley núm. 266/1994 Sb.:
-«Cuando una vía férrea cruce con vías públicas a nivel de las vías, el transporte ferroviario tiene prioridad sobre el tráfico en las vías públicas.»;
+«En el cruce de una vía férrea con vías públicas a nivel de las vías, el transporte ferroviario tiene prioridad sobre el tráfico en las vías públicas.»;
 •
 § 28 apartado 1 de la Ley núm. 361/2000 Sb.:
-«Ante un paso a nivel, el conductor debe actuar con especial precaución, en particular comprobar si puede cruzar el paso a nivel con seguridad.»;
+«Antes de un paso a nivel, el conductor debe actuar con especial precaución, comprobar especialmente si puede cruzar el paso a nivel con seguridad.»;
 •
 § 29 apartado 1 letra a) de la Ley núm. 361/2000 Sb.:
-«El conductor no debe entrar en un paso a nivel si se está emitiendo la advertencia con dos luces rojas intermitentes alternas de la señal del dispositivo de enclavamiento de paso a nivel»;
-
+«El conductor no debe entrar en un paso a nivel cuando se emite la alerta con dos luces rojas alternadamente intermitentes de la señal del dispositivo de enclavamiento de paso a nivel»;
 
 ## Página 30
+
 
 •
 § 29 apartado 1 letra b) de la Ley núm. 361/2000 Sb.:
@@ -938,8 +903,8 @@ En la investigación no se detectaron factores relacionados con los fabricantes 
 La DI abordó en la investigación los factores derivados del mantenimiento y la modificación de los VF o de las instalaciones técnicas.
 En el espacio de acceso de KŘV-A 948.202-7, el transportista ARRIVA instaló un dispensador de agua potable sin que estuviera debidamente asegurado contra el movimiento. Su fijación no correspondía a la documentación de planos del transportista ARRIVA. El dispensador debía estar fijado con seis tornillos al suelo del VF, atravesando los orificios de montaje de la pieza de plástico de la parte inferior del dispensador, y con una correa alrededor del bidón de agua potable hacia la pared interior del espacio de acceso del VF. En el momento del siniestro, el dispensador de agua potable estaba fijado solo con tres tornillos al suelo del VF (véase el punto 3.1.3 de la presente IIA). El tornillo trasero quedó tras el siniestro, junto con los dos tornillos de la parte delantera de la fijación del dispensador, completamente intacto – los tornillos permanecieron atornillados al suelo. La pieza de plástico de la parte inferior del dispensador no estaba dañada en el punto de fijación del tornillo trasero, ya que la cabeza del tornillo, al inclinarse el dispensador en la dirección de la fuerza inercial que actúa sobre el dispensador en la dirección de marcha del tren, pasó a través del orificio de fijación. El dispensador, junto con el bidón de agua potable, se inclinó hacia el espacio de acceso, porque el bidón de agua que estaba de pie en el dispensador no estaba sujeto con una correa a la pared interior del espacio de acceso. El tornillo trasero de fijación del dispensador al suelo no impidió la inclinación y el posterior vuelco del dispensador (con su centro de gravedad en la parte superior) – la cabeza del tornillo pasó a través del orificio de fijación de la pieza de plástico de la parte inferior del dispensador, y la fijación del dispensador con el tornillo trasero quedó así inoperante. Al mismo tiempo, se agrietó la pieza de plástico de la parte inferior del dispensador en lugares fuera de los orificios destinados por el fabricante para el anclaje al suelo. La razón fue que, al montar el dispensador
 
-
 ## Página 31
+
 
 en el espacio de acceso, el dispensador se fijó al suelo, además del tornillo de la parte trasera de la pieza de plástico de la parte inferior del dispensador, con otros dos tornillos, para los cuales se crearon nuevos orificios en la parte delantera del dispensador, y esto fuera de su parte reforzada (lo anterior lo confirma la disposición de los tornillos en el suelo, que no coincidía con los orificios de montaje de la parte inferior del dispensador realizados por el fabricante). Al taladrar nuevos orificios en la pieza de plástico no reforzada de la parte inferior del dispensador (al fijar el dispensador al suelo del VF con tornillos que no atraviesan los orificios de montaje destinados por el fabricante para fijar el dispensador, sino orificios recién creados), se vio afectada la integridad y resistencia de la pieza de plástico de la parte inferior del dispensador, lo que se manifestó en la dirección de la superficie de fractura en la pieza de plástico del dispensador precisamente a través de los orificios recién creados en su parte delantera. El dispensador de agua potable insuficientemente fijado, que se movía de forma incontrolada por el espacio de acceso de KŘV-A 948.202-7 durante el siniestro, fue la fuente inmediata de peligro para la seguridad de la explotación del transporte ferroviario.
 La instalación del dispensador de agua potable en el espacio de acceso de KŘV-A 948.202-7 no figuraba en la documentación para la aprobación de tipo del VF y, por tanto, no fue autorizada por la DÚ. La instalación posterior del dispensador de agua potable en el interior de este VF no fue consultada por el transportista ARRIVA con la DÚ.
@@ -950,8 +915,8 @@ Fuente: DI
 En la investigación se constató la infracción de la normativa legal relativa a las funciones y obligaciones del transportista
 ARRIVA, al margen de la relación causal con la ocurrencia del siniestro, relacionada con la instalación del dispensador de agua potable en el espacio de acceso de KŘV-A 948.202-7:
 
-
 ## Página 32
+
 
 •
 § 35 apartado 1 letra a) de la Ley núm. 266/1994 Sb.:
@@ -978,8 +943,8 @@ El conductor del NA era, en el momento de la ocurrencia del siniestro, titular d
 | AM | 9 8 2017 . . | – |
 | A1 | 9 8 2017 . . | – |
 
-
 ## Página 33
+
 
 | B1 | 1 10 2018 . . | – |
 | B | 1 10 2018 . . | – |
@@ -1007,53 +972,43 @@ Atendiendo a los factores detectados y a las circunstancias de la ocurrencia del
 
 ## Página 34
 
-### 4.4.6 Aprobaciones, certificados e informes de evaluación otorgados por la Agencia, las autoridades nacionales de seguridad u otros organismos de evaluación de la conformidad
-El gestor de la infraestructura ferroviaria explotó la infraestructura en virtud de la autorización administrativa vigente y del certificado de seguridad del gestor de la infraestructura ferroviaria. El operador ferroviario explotó el transporte ferroviario en virtud de la licencia vigente y del certificado del operador.
+### 4.4.6 Aprobaciones, certificados e informes de evaluación otorgados por la agencia, las autoridades nacionales de seguridad u otros organismos de evaluación de la conformidad
+El gestor de la infraestructura ferroviaria explotaba la infraestructura en virtud de una autorización administrativa vigente y de un certificado de seguridad del gestor de la infraestructura ferroviaria. El operador ferroviario explotaba el transporte ferroviario en virtud de una licencia vigente y de un certificado del operador.
 ### 4.4.7 Otros factores sistémicos
-En la investigación no se detectaron otros factores sistémicos.
+En el curso de la investigación no se detectaron otros factores sistémicos.
 ### 4.5 Sucesos anteriores de naturaleza similar
-La DI registra en las infraestructuras de ámbito nacional y regional, en el período comprendido entre el 1. 1. 2008 y la fecha de ocurrencia de la MU objeto de estudio, 1 120 MU similares, en las que en los PJF protegidos por SPJF sin barreras de cierre se produjo la colisión de un tren con vehículos automóviles. En estas MU resultaron fallecidas 183 personas, 806 personas resultaron heridas y el daño causado ascendió a 641 850 649 CZK.
-La DI registra en el PJF P7414, en el período indicado, 1 MU similar, a saber:
+El DI registra en las infraestructuras ferroviarias de ámbito nacional y regional, en el periodo comprendido entre el 1 de enero de 2008 y la fecha de ocurrencia de la MU objeto de investigación, 1 120 MU análogas, en las que se produjo la colisión de un DV con vehículos de motor por carretera en pasos a nivel protegidos por PZS sin barreras. En estas MU resultaron fallecidas 183 personas, 806 personas sufrieron lesiones y el daño causado ascendió a 641 850 649 CZK.
+El DI registra en el P7414, en el periodo indicado, 1 MU análoga, a saber:
 •
-del 14. 3. 2022, en la que se produjo la colisión del tren Os 3912 con un camión. En la MU no se produjeron daños personales. El daño total se valoró en 83 043 CZK.
-La causa inmediata de la ocurrencia de la MU fue la entrada no autorizada de un camión en el PJF en el momento en que se emitía la alerta luminosa y sonora del SPJF y en el que un tren (el tren) se aproximaba al PJF.
-La DI ha recomendado repetidamente, desde el año 2012, al gestor de la infraestructura SŽ (anteriormente SŽDC), con el fin de garantizar la máxima seguridad en las infraestructuras ferroviarias de categoría nacional y regional, que eleve el nivel de protección de los PJF de modo que, durante las reconstrucciones y modernizaciones de líneas y PJF, ya solo se proyecten e instalen SPJF luminosos complementados con barreras de cierre. La DI, al mismo tiempo, mediante estas recomendaciones de seguridad, recomendó a la DÚ que adoptara sus propias medidas encaminadas a garantizar la aplicación de las recomendaciones de seguridad antedichas también en los demás gestores de infraestructuras ferroviarias en la República Checa. Desde el 1. 4. 2017, fecha en que entró en vigor la modificación de la Ley n.º 266/1994 Sb., las recomendaciones de seguridad de carácter similar se destinaron, de conformidad con el § 53e de la Ley n.º 266/1994 Sb., únicamente a la DÚ. El motivo para emitir estas recomendaciones fue el hecho de que la mayoría de las colisiones con vehículos automóreos con las consecuencias más graves se producen de forma prolongada en los PJF protegidos por SPJF sin barreras, mientras que, por el contrario, desde el punto de vista de la siniestralidad y de las consecuencias, el tipo de protección de PJF más favorable es precisamente el SPJF complementado con barreras de cierre. SŽ (anteriormente SŽDC) respondió a estas recomendaciones, entre otros, de la siguiente manera: «en caso de sustitución de los SPJM existentes (SPJM – SPJF mecánico – nota de la DI) y SPJF por tecnología moderna, en el proyecto se priorizará la construcción de un SPJF con barreras, siempre que no lo impidan obstáculos técnicos u operativos significativos. La instalación de un SPJF concreto respetará en todo caso la decisión vigente de la Oficina de Ferrocarriles sobre el alcance y el modo de protección del paso a nivel». La DÚ, entre otras, envió como medida la siguiente declaración: «La Oficina de Ferrocarriles, como autoridad administrativa ferroviaria, recomienda así permanentemente a la Administración de la Infraestructura Ferroviaria, como gestor de la infraestructura, que incluya en la mayor medida posible en el plan de inversiones la dotación de barreras de cierre al SPJF luminoso existente. Deberían ser prioritarios los pasos a nivel con alto tráfico y con sucesos extraordinarios recurrentes».
-
+del 14 de marzo de 2022, en que se produjo la colisión del tren Os 3912 con un NA. En la MU no se produjeron lesiones. El daño total se cifró en 83 043 CZK.
+La causa inmediata de la MU fue la entrada no autorizada de un NA en el P7414 en el momento en que se emitía la señalización luminosa y acústica del PZS y en que se aproximaba al paso a nivel un tren (DV).
+Desde 2012, el DI recomendó reiteradamente al gestor de la infraestructura ferroviaria SŽ (antes SŽDC), con el fin de garantizar la máxima seguridad en las infraestructuras ferroviarias de ámbito nacional y regional, elevar el nivel de protección del P7414 de modo que, en las reconstrucciones y modernizaciones de líneas y pasos a nivel, ya se proyectara e instalara únicamente señalización luminosa PZZ complementada con barreras. Asimismo, mediante estas recomendaciones de seguridad, el DI recomendó al DÚ adoptar sus propias medidas encaminadas a garantizar la aplicación de las recomendaciones de seguridad antedichas también por parte de los demás gestores de infraestructuras ferroviarias en la República Checa. Desde el 1 de abril de 2017, fecha en que entró en vigor la modificación de la Ley n.º 266/1994 Sb., las recomendaciones de seguridad de carácter similar se dirigieron, de conformidad con el § 53e de la Ley n.º 266/1994 Sb., únicamente al DÚ. El motivo de la emisión de estas recomendaciones fue el hecho de que las colisiones con vehículos de carretera de consecuencias más graves se producen de forma prolongada en pasos a nivel protegidos por señalización de paso sin barreras, mientras que, por el contrario, desde el punto de vista de la sinestralidad y de las consecuencias, el tipo de protección de pasos a nivel más favorable es precisamente el PZS complementado con barreras. SŽ (antes SŽDC) respondió a estas recomendaciones, entre otros medios, en el sentido de que «en caso de sustitución de los PZM existentes (señalización de paso mecánica – nota del DI) y de los PZS por tecnología moderna, en el proyecto se priorizará la construcción de señalización de paso con barreras, salvo que existan obstáculos técnicos u operativos relevantes. La instalación de una señalización de paso concreta respetará siempre la decisión vigente de la Oficina de Ferrocarriles sobre el alcance y el modo de protección del paso a nivel ferroviario». El DÚ, entre otras medidas, remitió la siguiente declaración: «La Oficina de Ferrocarriles, como autoridad administrativa ferroviaria, recomienda así permanentemente a la Administración de Infraestructuras Ferroviarias, como gestor de la infraestructura ferroviaria, incluir en el plan de inversiones, en la mayor medida posible, la instalación de barreras en la señalización de paso luminosa existente. Deberían ser prioritarios los pasos a nivel con alto volumen de tráfico y con sucesos extraordinarios recurrentes».
 
 ## Página 35
 
-La DI sigue apoyando la dotación de barreras de cierre en los PJF (con prioridad en aquellos con mayor tráfico y condiciones locales desfavorables), sin embargo, en el caso de la emisión de nuevas recomendaciones de seguridad para MU concretas, tiene en cuenta las características específicas de dicho PJF y emite dicha recomendación de seguridad de forma más concreta (véase el punto 6 de la presente ZZ).
+DI sigue apoyando la colocación adicional de traviesas de guarda en los PJ (de forma prioritaria en aquellos con mayor momento de tráfico y condiciones locales desfavorables), sin embargo, en el caso de emitir recomendaciones de seguridad adicionales para MU concretas, tiene en cuenta las características específicas de dicho PJ y dicha recomendación de seguridad la emite, por tanto, de forma más concreta (véase el punto 6 de esta ZZ).
 ## 5 CONCLUSIONES
 ### 5.1 Resumen del análisis y conclusiones relativas a las causas del suceso
 La causa inmediata del suceso extraordinario fue:
 •
-la entrada no autorizada de un camión en el paso a nivel P7414 en el momento en que el tren Os 14342 se aproximaba al mismo, causada por la actuación del conductor del camión, que no respetó la alerta luminosa y sonora del SPJF y no se cercioró de si podía cruzar el paso a nivel de forma segura.
-No se detectó ningún factor contribuyente por parte de la DI.
-No se detectó ninguna causa sistémica por parte de la DI.
-### A summary of the analysis and conclusions with regard to the causes of the 
-occurrence
-Causal factor:
+la entrada no autorizada de un camión en el paso a nivel P7414 en el momento en que se aproximaba a él el tren Os 14342, causada por la actuación del conductor del camión, que no respetó la alerta lumínica y acústica del dispositivo de seguridad del paso a nivel y no se cercioró de si podía cruzar el paso a nivel de forma segura.
+No se identificó por parte de DI ningún factor contribuyente.
+No se identificó por parte de DI ninguna causa sistémica.
+### Un resumen del análisis y las conclusiones relativas a las causas del suceso
+Factor causal:
 •
-an unauthorized entrance of the lorry at the level crossing No. P7414 at the time 
-when the train No. 14342 was driving through the level crossing, caused by 
-behavior of the lorry driver, who did not respect the light and acoustic warning of the 
-level crossing safety equipment and did not make sure whether he could safely 
-pass the level crossing.
-Contributing factor: none.
-Systemic factor: none.
+la entrada no autorizada de un camión en el paso a nivel n.º P7414 en el momento en que el tren n.º 14342 estaba cruzando el paso a nivel, causada por la actuación del conductor del camión, que no respetó la alerta lumínica y acústica del dispositivo de seguridad del paso a nivel y no se cercioró de si podía cruzar el paso a nivel de forma segura.
+Factor contribuyente: ninguno.
+Factor sistémico: ninguno.
 ### 5.2 Medidas adoptadas para la prevención de sucesos extraordinarios
-El gestor de la infraestructura SŽ, en base a los resultados de su propia investigación, no adoptó ni emitió ninguna medida.
-El operador ferroviario ARRIVA, en base a los resultados de su propia investigación, emitió tras la ocurrencia de la MU una medida consistente en la discusión de la MU en una reunión de dirección y, en la próxima formación periódica de conductores, todos los conductores de ARRIVA serán informados de la misma.
-
-### Measures taken since the occurrence
-The infrastructure manager SŽ did not take any measures.
-The railway undertaking ARRIVA based on the results of its own investigation, issued a 
-measure after the occurrence consisting in discussing the occurrence at a management 
-meeting, and all ARRIVA train drivers will be made aware of it during the next regular train 
-driver training.
-
+El gestor de la infraestructura SŽ, sobre la base de los resultados de su propia investigación, no adoptó ni emitió ninguna medida.
+El operador ferroviario ARRIVA, sobre la base de los resultados de su propia investigación, emitió tras el suceso una medida consistente en tratar el suceso en una reunión de dirección, y durante la próxima formación periódica de conductores de tren se informará de ello a todos los conductores de tren de ARRIVA.
+### Medidas adoptadas desde el suceso
+El gestor de la infraestructura SŽ no adoptó ninguna medida.
+El operador ferroviario ARRIVA, sobre la base de los resultados de su propia investigación, emitió tras el suceso una medida consistente en tratar el suceso en una reunión de dirección, y todos los conductores de tren de ARRIVA serán informados de ello durante la próxima formación periódica de conductores de tren.
 
 ## Página 36
+
 
 ### 5.3 Hallazgos complementarios
 En el operador ferroviario ARRIVA:
@@ -1088,16 +1043,16 @@ inspector
 de la Inspección Territorial de Ostrava
 de la Inspección Territorial de Ostrava
 
-
 ## Página 37
+
 
 ## ANEXOS
 Fig. n.º 4: Vista del camión volcado con la carga derramada y el KŘV-B 948.702-6 del tren Os 14342 atrapado, en su posición final tras la MU.             Fuente: DI
 Fig. n.º 5: Vista de los vehículos descarrilados del tren Os 14342 en su posición final tras la MU.
   Fuente: DI
 
-
 ## Página 38
+
 
 Fig. n.º 6: Vista hacia la cabina del conductor desde la zona de pasajeros a través de la puerta de la cabina del conductor rota del KŘV-B 948.702-6.
  Fuente: DI

@@ -10,13 +10,14 @@ chars: 111852
 ratio_longitud: 1.21
 tokens_in: 57776
 tokens_out: 37781
-verificacion: revisar
-notas_cifras: ["bloque 2: original bilingüe: se compara contra el idioma principal (PT)", "bloque 3: original bilingüe: se compara contra el idioma principal (CS)", "bloque 4: original bilingüe: se compara contra el idioma principal (PT)", "bloque 6: original bilingüe: se compara contra el idioma principal (CS)", "bloque 7: original bilingüe: se compara contra el idioma principal (CS)", "bloque 8: original bilingüe: se compara contra el idioma principal (CS)"]
-avisos: ["bloque 16: ratio 1.65"]
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 5: original bilingüe: se compara contra el idioma principal (EN)", "página 6: original bilingüe: se compara contra el idioma principal (PT)", "página 7: original bilingüe: se compara contra el idioma principal (CS)", "página 13: original bilingüe: se compara contra el idioma principal (PT); cifras cortas: 1/12; ratio 1.93", "página 15: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 Inspección Ferroviaria
 República Checa
@@ -42,11 +43,12 @@ CIF:   75009561
 http://www.dicr.cz
 fax: (+420) 224 805 428
 
-
 ## Página 2
 
 
+
 ## Página 3
+
 
 # RESUMEN
 Gravedad:
@@ -98,13 +100,13 @@ gestores de infraestructura
 afectados.
 Por la traducción al inglés responde: Ing. Hana Pechačová
 
-
 ## Página 4
+
 
 Este informe final es público y todos los documentos y hechos están respaldados por el expediente de investigación.
 
-
 ## Página 5
+
 
 # Índice
  Resumen .............................................................................................................................3
@@ -134,6 +136,7 @@ Este informe final es público y todos los documentos y hechos están respaldado
 3.1 Resumen de las declaraciones prestadas (sujeto a protección de la identidad de las personas) ................................19
 
 ## Página 6
+
 
 3.1.1 Empleados del gestor de la vía y del transportista, incluidas personas en relación contractual ...............................................................................................................19
 3.1.2 Otras personas .........................................................................................................20
@@ -165,6 +168,7 @@ Este informe final es público y todos los documentos y hechos están respaldado
 4 Análisis y conclusiones ............................................................................................................38
 
 ## Página 7
+
 
 4.1 Descripción final del suceso extraordinario ..........................................................................38
 4.1.1 Descripción final del suceso extraordinario basada en los hechos constatados en el punto 3 
@@ -202,11 +206,12 @@ la estación Ústí nad Labem hl. n. ...........................................
  Foto 17: Barra de cierre del paso a nivel n.º P 2425 encastrada en la parte superior del compartimento para 
 pasajeros del DV 971.005-4 .............................................................................................48
 
-
 ## Página 8
 
 
+
 ## Página 9
+
 
 ## Lista de siglas y símbolos utilizados
 COP
@@ -263,8 +268,8 @@ SŽDC
 Administración de la Vía de Transporte Ferroviario, organización estatal
 RCP                                              Centro Regional de Operaciones
 
-
 ## Página 10
+
 
 ŘÚI                                               director del Inspectorado Territorial
 TDV
@@ -292,6 +297,7 @@ paso a nivel ferroviario
 estación ferroviaria
 
 ## Página 11
+
 
 ## 1 RESUMEN
 Grupo del suceso:
@@ -331,10 +337,10 @@ impedir mediante medidas propias que se sigan emitiendo dictámenes de aptitud m
 ●
 personas físicas que conducen vehículos ferroviarios y de solicitantes para la obtención de la habilitación para conducir vehículos ferroviarios, 
 y de personas físicas que realizan otras actividades en la explotación del ferrocarril 
-y del transporte ferroviario y de solicitantes para el ejercicio de dichas actividades en el sentido del apartado 2 del artículo 1 del decreto 
-
+y del transporte ferroviario y de solicitantes para el ejercicio de dichas actividades en el sentido del apartado 2 del artículo 1 del decreto
 
 ## Página 12
+
 
 n.º 101/1995 Sb., por la médica que emitió el dictamen de aptitud médica 
 para el trabajo al maquinista del tren Os 2316;
@@ -358,15 +364,14 @@ distrito sur, enlace de vía entre los desvíos n.º 103 y n.º 105, km 514,908,
 Os 2316 desde la 2. TK hasta la 101. SK en el sentido desde la est. Prackovice nad Labem.
 Foto 1: Vista del lugar del SU
 
-
 ## Página 13
 
-### 2.1.2 Descripción del suceso extraordinario y del lugar del accidente, incluida la actuación del sistema 
-integrado de emergencia y del servicio de rescate
-El día 28. 6. 2010 a las 14:41 h partió el tren Os 2316 de la est. Praha Masarykovo nádraží con destino a la est. Ústí nad Labem hl. n. La ruta del tren para la entrada del tren en la est. Ústí nad Labem hl. n. – estación de pasajeros se estableció desde la 2. TK a través del enlace de vía entre los desvíos n.º 103 y n.º 105 hasta la 101. SK y, a continuación, por la 911. SK hasta el distrito de la estación de pasajeros. En el enlace de vía entre los desvíos n.º 103 y n.º 105 se produjo el descarrilamiento del tren, el vuelco parcial de la composición del tren contra el muro de contención junto a la 101. SK a la izquierda en el sentido de circulación del tren y la destrucción del coche de mando, que iba en cabeza del tren. Los operadores del enclavamiento central actuaron conforme al Esquema de Comunicación, comunicaron la producción del SU y activaron el sistema integrado de emergencia. Al lugar de producción del SU acudieron progresivamente la Policía ČR, 3 unidades de HZS de la región de Ústí, 4 unidades de HZS de SŽDC y el Servicio Rápido de Emergencia Sanitaria de la región de Ústí con 7 ambulancias y 1 helicóptero. En el SU falleció el maquinista del tren Os 2316 y 9 personas resultaron lesionadas.
-Foto 2: Esquema del lugar del SU
+### 2.1.2 Descripción de la excepcionalidad y del lugar del accidente, incluida la actividad del sistema integrado de emergencias y del servicio de rescate
+El 28 de junio de 2010 a las 14:41 h partió el tren Os 2316 de la est. Praha Masarykovo nádraží hacia la est. Ústí nad Labem hl. n. La vía de tren para la entrada del tren en la est. Ústí nad Labem hl. n. – estación de pasajeros se construyó desde la 2. TK a través del enlace vial entre los desvíos n.º 103 y n.º 105 hacia la 101. SK y posteriormente por la 911. SK hasta el ámbito de la estación de pasajeros. En el enlace vial entre los desvíos n.º 103 y n.º 105 se produjo el descarrilamiento del tren, el vuelco parcial de la composición del tren contra el muro de contención junto a la 101. SK a la izquierda en el sentido de circulación del tren y la destrucción de la cabina de mando, que iba en cabeza del tren. Los jefes de maniobra del puesto de enclavamiento central actuaron conforme al Horario de Comunicación, comunicaron la aparición de la excepcionalidad y activaron el sistema integrado de emergencias. Al lugar de la excepcionalidad acudieron progresivamente la Policía ČR, 3 unidades del HZS del Ústecký kraj, 4 unidades del HZS SŽDC y el Servicio Rápido de Emergencias Sanitarias del Ústecký kraj con 7 ambulancias y 1 helicóptero. En la excepcionalidad falleció el maquinista del tren Os 2316 y 9 personas resultaron lesionadas.
+Foto 2: Esquema del lugar de la excepcionalidad
 
 ## Página 14
+
 
 En el lugar de la MU se constató:
 El tren Os 2316 estaba compuesto por el DV de mando 971.005-4, el DV intercalado 071.005-3 
@@ -405,50 +410,31 @@ conocimientos y hallazgos, de su propia documentación fotográfica, de la docum
 investigación por el gestor de la vía, el transportista y la Policía de la República Checa, y asimismo del dictamen pericial 
 del campo de la diabetología elaborado con base en el encargo de la DI.
 
-
 ## Página 15
 
 ## 2.2
-### Circunstancias del suceso excepcional
-### 2.2.1 Empleados participantes del gestor de la vía y del transportista, personas en relación contractual y demás participantes y testigos
+### Circunstancias del suceso ferroviario
+### 2.2.1 Empleados participantes del gestor de la infraestructura y del transportista, personas en relación contractual y demás participantes y testigos
 Empleados participantes del transportista:
-maquinista del tren Os 2316, empleado de ČD, a. s., Depósito de material rodante 
-●
-Praga;
-jefe de tren del tren Os 2316, empleado de ČD, a. s., Centro Regional de Acompañamiento de Trenes 
-Ústí nad Labem.
-Personas participantes por parte del gestor de la vía:
-jefe de maniobras n.º 1 del enclavamiento central de la est. Ústí nad Labem hl. n. - distrito norte, 
-●
-empleado de ČD, a. s., Centro Regional de Explotación Ústí nad Labem, Distrito Operativo Ústí nad Labem;
-jefe de maniobras n.º 3 del enclavamiento central de la est. Ústí nad Labem hl. n. - distrito norte, 
-●
-empleado de ČD, a. s., RCP Ústí nad Labem, PO Ústí nad Labem.
+● maquinista del tren Os 2316, empleado de ČD, a. s., Depo kolejových vozidel
+Praha;
+● jefe de tren del tren Os 2316, empleado de ČD, a. s., Regionální centrum vlakového
+doprovodu Ústí nad Labem.
+Personas participantes por parte del gestor de la infraestructura:
+● Jefe de maniobras n.º 1 del aparato de enclavamiento central de la estación Ústí nad Labem hl. n. - obvod sever, empleado de ČD, a. s., Regionální centrum provozu Ústí nad Labem, Provozní obvod Ústí nad Labem;
+● Jefe de maniobras n.º 3 del aparato de enclavamiento central de la estación Ústí nad Labem hl. n. - obvod sever, empleado de ČD, a. s., RCP Ústí nad Labem, PO Ústí nad Labem.
 2.2.2 Trenes y su composición, incluidos los números de registro de los distintos vehículos ferroviarios
-El tren Os 2316 estaba compuesto desde la cabeza del tren por el DV de mando 971.005-4, el coche 
-intercalado 071.005-3 y el HDV 471.005-9, situado al final del tren.
-Longitud total del tren 79 metros, 12 ejes, peso total del tren 180 toneladas, porcentaje de frenado 
-necesario 94 %, porcentaje de frenado real 121 %. El tren estaba frenado 
-con freno electrodinámico y freno automático continuo en el modo R.
-### 2.2.3 Descripción de los componentes de la vía de circulación de la vía, del sistema de señalización (es decir, especialmente 
-estado de los carriles, agujas, enclavamientos, señales y dispositivo de seguridad del tren)
-La MU se produjo en la vía ferroviaria, nacional, de la línea de doble vía n.º 527A Praha-Bubeneč – 
-Děčín hl. n., en la est. Ústí nad Labem hl. n. - distrito sur, en la enlace de vía entre las agujas 
-n.º 103 y n.º 105 de la 2.ª TK a la 101.ª SK, km 514,908.
-Se realizó una inspección de la vía desde la señal de entrada 2L hasta la aguja n.º 102. En 
-esta inspección no se detectaron anomalías. La aguja n.º 103 estaba dispuesta para la circulación por el 
-carril n.º 101. El punto «0» fue determinado en el enlace de vía entre las agujas n.º 103 y n.º 105, en 
-el carril derecho en el sentido de marcha, en el km 514,908. Desde este punto se realizó la 
-medición del estado del superestructura ferroviaria en la anchura de vía y el resalte del carril.
+El tren Os 2316 estaba compuesto, desde la cabeza del tren, por el DV de mando 971.005-4, el coche intercalado 071.005-3 y el HDV 471.005-9, situado al final del tren.
+Longitud total del tren 79 metros, 12 ejes, peso total del tren 180 toneladas, porcentaje de freno necesario 94 %, porcentaje de freno real 121 %. El tren estaba frenado con freno electrodinámico y freno automático continuo en modo R.
+### 2.2.3 Descripción de los componentes de la vía de circulación de la infraestructura, del sistema de señalización (es decir, en particular el estado de los raíles, agujas, aparatos de enclavamiento, señales y del dispositivo de seguridad del tren)
+El suceso ferroviario tuvo lugar en la infraestructura ferroviaria, de ámbito nacional, en la línea de doble vía n.º 527A Praha-Bubeneč – Děčín hl. n., en la estación Ústí nad Labem hl. n. – obvod jih, en la conexión de vía entre las agujas n.º 103 y n.º 105 de la 2. TK a la 101. SK, pk 514,908.
+Se realizó una inspección de la vía desde la señal de entrada 2L hasta la aguja n.º 102. Durante esta inspección no se detectaron anomalías. La aguja n.º 103 estaba dispuesta para la circulación por la vía n.º 101. El punto «0» se situó en la conexión de vía entre las agujas n.º 103 y n.º 105, en el carril derecho en el sentido de circulación, en el pk 514,908. Desde este punto se realizó la medición del estado del superestructura ferroviaria en la anchura de vía y la elevación de la vía.
 Se detectaron las siguientes huellas de descarrilamiento desde el punto «0»:
-– en nueve traviesas de hormigón estaban rotos los elementos de fijación; 
-– la aguja n.º 105 tenía la parte de corazón destrozada. Los carriles en la 101.ª SK entre las 
-agujas n.º 101 y n.º 105 estaban desplazados lateralmente a la izquierda mirando en el sentido hacia la est. Ústí nad 
-Labem hl. n. El carril de sujeción y la viga de sujeción en el enlace de vía entre las agujas 
-n.º 103 y n.º 105 estaban deformados, las raíces de las agujas y las traviesas de la aguja n.º 105 
-destrozadas y rotos los elementos de fijación. En la raíz izquierda en el sentido hacia el final de la línea estaba roto el elemento de fijación
+– en nueve traviesas de hormigón se encontraron elementos de sujeción rotos;
+– la aguja n.º 105 tenía la parte de corazón rota. Los raíles en la 101. SK entre las agujas n.º 101 y n.º 105 se habían desplazado lateralmente a la izquierda mirando en el sentido de la estación Ústí nad Labem hl. n. El separador y la viga de sujeción en la conexión de vía entre las agujas n.º 103 y n.º 105 estaban deformados, las raíces de las agujas y las traviesas de la aguja n.º 105 estaban rotas y se encontraron elementos de sujeción arrancados. En la raíz izquierda en el sentido hacia el final de la línea estaba roto el elemento de sujeción
 
 ## Página 16
+
 
 lana a ve sváru prasklá opornice. Este tronco se había desplazado longitudinalmente 20 cm a la izquierda y los raíles de la aguja de la aguja n.º 105 estaban doblados y con los cantos rodantes de los raíles rotos. Toda la parte de aguja con los aparatos de cambio se había desplazado 30 cm a la izquierda y la barra de cambio estaba arrancada del aparato de cambio del primer cierre;
 – desde el empalme de la aguja n.º 105 hasta el paso a nivel en el pk 515,009 se encontraban rotos los traviesas de hormigón. A una distancia de 15 metros del empalme de la aguja, estaba arrancado el hilo de contacto y arrancado el riel de fijación de la pantalla acústica. Del poste de la línea de contacto n.º 15 estaba arrancado el indicador de punto kilométrico con la indicación 515,000. Antes del paso a nivel en el pk 515,009, en el camino entre los SK n.º 102 y n.º 104, a una distancia de 10 metros del paso a nivel, se encontraba arrancado el cierre de aguja de la aguja n.º 105;
@@ -471,8 +457,8 @@ La visibilidad de la señal 2L no está obstruida por ningún obstáculo.
             – en el pk 513,190 se encuentra el indicador de velocidad NS, que indica la señal «Velocidad de vía 105 km.h-1»,
             – en el pk 513,309 está colocado el indicador de velocidad NS, que indica la señal «Velocidad de vía 100 km.h-1»,
 
-
 ## Página 17
+
 
             – en el pk 513,346 está colocado el indicador de velocidad N, que indica la señal «Velocidad de vía 80/85 km.h-1»,
             – en el pk 513,607 se encuentra el indicador de velocidad N, que indica la señal «Velocidad de vía 85/90 km.h-1»,
@@ -494,6 +480,7 @@ El plan IZS se activó simultáneamente con la comunicación de la ocurrencia de
 La MU la investiga la Policía ČR, Dirección Regional de la región de Ústí, Grupo de Policía Judicial e Investigación de Ústí nad Labem, bajo el n.º de expediente: KRPU-17086-19/Čj-2010-041072-KK.
 
 ## Página 18
+
 
 ## 2.3
 ### Muertos, heridos y daños materiales
@@ -517,8 +504,8 @@ El gestor de la infraestructura y el transportista cuantificaron los daños:
 En el momento de producirse la UE había despeje, era de día, soplaba un débil viento del noreste, temperatura de 28,6 °C, humedad relativa del aire del 27 %.
 Las coordenadas GPS del lugar de producción de la UE son 50°38'30.524" N y 14°2'40.739" E.
 
-
 ## Página 19
+
 
 ## 3 REGISTRO DE LAS EXPLICACIONES PRESENTADAS
 ## 3.1
@@ -542,8 +529,8 @@ El jefe de estación n.º 3 del puesto de mando central de la est. Ústí nad La
 ● notó que su colega llamaba a la est. Lovosice para que los trenes fueran informados de la avería de PZZ en el km 515.009;
 ● poco después, su colega tuvo otra llamada y le comunicó que en el distrito sur se había producido el descarrilamiento del tren Os 2316;
 
-
 ## Página 20
+
 
 ● personalmente, tras acordarlo con el jefe de estación n.º 1, intentó comunicarse con el maquinista y la jefa de tren del tren Os 2316, pero no lo consiguió; ambos teléfonos de servicio, tanto el del maquinista como el de la jefa de tren, daban tono de ocupado;
 ● tuvo otra llamada telefónica con los bomberos ferroviarios y les explicaba cómo llegar allí.
@@ -568,27 +555,28 @@ Para la determinación de las causas y circunstancias de la producción de la UE
 
 ## Página 21
 
-El maquinista no era apto para conducir el material rodante ferroviario, no cumplía la condición establecida en el
+el maquinista no estaba capacitado para conducir un vehículo ferroviario, no cumplía la condición establecida 
 ●
-anexo n.º 1, parte B, apartado 1, letra c), de la disposición n.º 101/1995 Sb; su enfermedad diabetes mellitus no estaba compensada.
+en el anexo n.º 1, parte B, apartado 1, letra c), del decreto n.º 101/1995 Sb; su enfermedad 
+diabetes mellitus, no estaba compensada.
 ## 3.2
 ### Sistema de garantía de la seguridad
 ### 3.2.1 Organización marco y forma en que se emiten y ejecutan las instrucciones
-Tanto el gestor de la infraestructura como el ferroviario participante en el MU disponen de un sistema de garantía de la seguridad.
-En el sistema de garantía de la seguridad de la explotación de la infraestructura y de la organización del transporte ferroviario en la red de ámbito nacional, y en su cumplimiento, no se detectaron anomalías por parte del gestor de la infraestructura durante la investigación de la causa del MU en la est. Ústí nad Labem hl. n. – obvod jih.
-La investigación determinó que el ferroviario no garantizó el cumplimiento del sistema de garantía de la seguridad de la explotación del transporte ferroviario, al hacer entrar el tren de pasajeros Os 2316 en el enlace de vía entre las agujas n.º 103 y n.º 105 a una velocidad 67 km.h-1 superior a la máxima permitida en dicho tramo.
-Se detectó una anomalía.
-### 3.2.2 Requisitos de los empleados del gestor de la infraestructura y del ferroviario y su aplicación
-La condición de aptitud para conducir el material rodante ferroviario la establece el § 45 de la ley n.º 266/1994 Sb.
-El conocimiento por parte de la persona que conduce el MR de las condiciones de la vía en las líneas y en las instalaciones de servicio lo impone al gestor de la explotación ferroviaria el § 35 apartado 1 letra a) de la disposición n.º 173/1995 Sb.
-El requisito de competencia profesional de las personas que realizan el transporte ferroviario lo establecen el § 35 apartado 1 letra f) de la ley y el § 33 apartado 2 de la disposición n.º 173/1995 Sb.
-Las condiciones de edad, formación y competencia profesional de las personas para conducir un vehículo de tracción eléctrica en la red de ámbito nacional las establecen el § 8 y el § 9 apartado 1 letra a) – f) de la disposición n.º 101/1995 Sb.
-La competencia profesional con base en los preceptos legales anteriormente citados la estableció el ferroviario ČD, a. s., para las personas que participan en la explotación del transporte ferroviario con la categoría laboral (profesión) de maquinista, trabajador de servicio del tren de transporte de pasajeros con la especificación de jefe de tren de trenes de pasajeros, en la norma interna de ČD Ok 2 – Reglamento de formación y de exámenes de los Ferrocarriles Checos, a. s., aprobada por decisión del director general de los Ferrocarriles Checos de fecha 25. 3. 2009, n.º de expediente: 55713/2009-O 10.
-El método de reconocimiento de las condiciones de la vía y de las condiciones locales por parte de los maquinistas durante el día y la noche lo establece la norma del ferroviario «ČD D2 Norma para la organización y explotación del transporte ferroviario» y las normas del ferroviario «ČD V1 Norma para la organización de la explotación en depósitos de material rodante sobre raíles», «ČD V2 Norma para las cuadrillas de locomotoras».
-El maquinista del tren Os 2316 disponía del «Certificado de aptitud para conducir el MR», n.º de registro 500991, emitido por la Autoridad Ferroviaria en Praga de fecha 3. 11. 2006 con vigencia hasta el 3. 11. 2016. El último examen periódico con alcance de examen profesional se realizó el 6. 12. 2005, y la última formación ferroviaria y técnica se realizó el 2. 6. 2010. El maquinista del tren Os 2316 disponía del conocimiento de la línea válido para los tramos de vía desde Praga hasta Ústí nad Labem de fecha 12. 12. 2009.
-
+Tanto el gestor de la infraestructura como el ferroviario participante en el MU disponen de un sistema de garantía de la seguridad adoptado.
+En el sistema de garantía de la seguridad de la explotación de la infraestructura y de la organización del tráfico ferroviario en la infraestructura de ámbito nacional, y en su cumplimiento, no se detectaron defectos por parte del gestor de la infraestructura durante la investigación de la aparición del MU en la est. Ústí nad Labem hl. n. – distrito sur.
+La investigación determinó que el ferroviario no garantizó el cumplimiento del sistema de garantía de la seguridad de la explotación del tráfico ferroviario, al hacer entrar el tren de pasajeros Os 2316 en el enlace de vía entre los desvíos n.º 103 y n.º 105 a una velocidad 67 km.h-1 superior a la velocidad máxima permitida en este tramo.
+Se detectó el defecto.
+### 3.2.2 Requisitos para el personal del gestor de la infraestructura y del ferroviario y su aplicación
+La condición de capacitación para conducir un vehículo ferroviario la establece el § 45 de la ley n.º 266/1994 Sb.
+El conocimiento de las condiciones de la vía por parte de la persona que conduce el DV en las vías y las instalaciones lo impone al gestor del tráfico ferroviario el § 35 apartado 1 letra a) del decreto n.º 173/1995 Sb.
+El requisito de capacitación profesional de las personas que realizan el tráfico ferroviario lo establece el § 35 apartado 1 letra f) de la ley y el § 33 apartado 2 del decreto n.º 173/1995 Sb.
+Las condiciones de edad, estudios y capacitación profesional de las personas para conducir un vehículo motriz eléctrico en la infraestructura de ámbito nacional las establecen el § 8 y el § 9 apartado 1 letra a) – f) del decreto n.º 101/1995 Sb.
+La capacitación profesional con arreglo a las disposiciones legales anteriores la estableció el ferroviario ČD, a. s., a las personas que participan en la explotación del tráfico ferroviario en la clasificación laboral (profesión) de maquinista, personal de servicio del tren de transporte de pasajeros con la especificación de jefe de tren de trenes de pasajeros en la normativa interna de ČD Ok 2 – Reglamento de formación y de exámenes de los Ferrocarriles Checos, a. s., aprobada por decisión del director general de los Ferrocarriles Checos de fecha 25. 3. 2009, n. ref.: 55713/2009-O 10.
+El modo de reconocimiento de las condiciones de la vía y locales por parte de los maquinistas de día y de noche lo establece la normativa del ferroviario «ČD D2 Normativa para la organización y explotación del tráfico ferroviario» y las normativas del ferroviario «ČD V1 Normativa para la organización de la explotación en depósitos de vehículos sobre raíles», «ČD V2 Normativa para las cuadrillas de locomotoras».
+El maquinista del tren Os 2316 tenía el «Certificado de capacitación para conducir el DV» válido, n. exp. 500991, expedido por la Oficina Ferroviaria de Praga de fecha 3. 11. 2006 con validez hasta el 3. 11. 2016. El último examen periódico en el ámbito del examen profesional se realizó el 6. 12. 2005, la última formación ferroviaria y técnica se realizó el 2. 6. 2010. El maquinista del tren Os 2316 tenía el conocimiento de la vía válido para los tramos de vía desde Praga hasta Ústí nad Labem de fecha 12. 12. 2009.
 
 ## Página 22
+
 
 Según la documentación presentada por el ferroviario, el maquinista y el jefe de tren del tren Os 2316 eran profesionalmente competentes para las actividades laborales desempeñadas.
 El requisito de competencia profesional de las personas que garantizan la explotación de la infraestructura lo establece la disposición § 22, apartado 1, letra c) de la ley n.º 266/1994 Sb., y para las personas que dirigen el transporte ferroviario establece este requisito la disposición § 14, apartado 4 de la disposición n.º 173/1995 Sb.
@@ -611,28 +599,28 @@ Los requisitos para el material rodante de la red de ámbito nacional se indican
 
 ## Página 23
 
-En el ámbito de DKV Praha se realizaba una comprobación periódica del rendimiento laboral de los maquinistas, con especial atención al cumplimiento de la disciplina laboral, es decir, la disciplina de tráfico y tecnológica, el cumplimiento de los deberes laborales y el nivel de conocimientos y habilidades profesionales, con el objetivo de lograr que el desempeño del servicio de estos empleados operativos estuviera sin defectos y no amenazara la seguridad del transporte ferroviario. El rendimiento laboral de los maquinistas, incluido el maquinista del tren Os 2316, fue supervisado en el marco de viajes de comprobación de inspectores autorizados en vehículos de tracción.
+En el marco de DKV Praha se realizaba una verificación periódica del rendimiento laboral de los conductores de tren, con especial atención al cumplimiento de la disciplina laboral, es decir, la disciplina de tráfico y tecnológica, el cumplimiento de los deberes laborales y el nivel de conocimientos y habilidades profesionales, con el objetivo de lograr que el desempeño del servicio de estos empleados operativos estuviera sin defectos y no amenazara la seguridad del transporte ferroviario. El rendimiento laboral de los conductores, incluido el del conductor del tren Os 2316, fue supervisado en el marco de viajes de verificación de los inspectores autorizados en vehículos de tracción.
 No se detectaron defectos.
 ### 3.2.4 Interfaz entre los distintos sujetos participantes y los componentes de la vía de tráfico
-El explotador de la vía ferroviaria, categoría de ámbito nacional, Praha-Bubeneč – Děčín, es Správa železniční dopravní cesty, organización estatal, con domicilio en Dlážděná 1003/7, Praha 1 – Nové Město, CP 110 00, en virtud de la Autorización Oficial emitida por el Drážní úřad (Organismo Ferroviario) el 29. 5. 2008, con n.º de expediente: 3-4277/07-DÚ/Le-DÚ/O-SI, n.º de registro: ÚP/2008/9002.
+El explotador de la vía ferroviaria, categoría estatal, Praha-Bubeneč – Děčín, es Správa železniční dopravní cesty, organización estatal, con domicilio en Dlážděná 1003/7, Praha 1 – Nové Město, CP 110 00, en virtud de la Autorización Oficial emitida por el Drážní úřad el 29. 5. 2008, con n.º de expediente: 3-4277/07-DÚ/Le-DÚ/O-SI, n.º de registro: ÚP/2008/9002.
 El transportista es České dráhy, a. s., con domicilio en Nábřeží L. Svobody 1222, Praha 1, CP 110 15, en virtud de la Licencia de explotador del transporte ferroviario n.º de expediente: 1-57/96-DÚ/O-Bp, n.º de registro: L/1996/5000, concedida por el Drážní úřad el 21. 5. 1996.
-El transporte ferroviario se realiza en virtud del «Contrato n.º 001/08 para la explotación del transporte ferroviario en la vía de tráfico ferroviaria de la vía de ámbito nacional y de las vías regionales en propiedad de la República Checa», en la redacción del Anexo n.º 1 en vigor, celebrado entre las partes contratantes Správa železniční dopravní cesty, organización estatal, con domicilio en Dlážděná 1003/7, Praha 1 – Nové Město, CP 110 00, y České dráhy, a. s., con domicilio en Nábřeží L. Svobody 1222, Praha 1, CP 110 15, el 1. 7. 2008, con vigencia desde el 1. 7. 2008.
+El transporte ferroviario se explota en virtud del «Contrato n.º 001/08 para la explotación del transporte ferroviario en la vía de tráfico ferroviaria de la vía estatal y de las vías regionales en propiedad de la República Checa», en la redacción del Anexo n.º 1 en vigor, celebrado entre las partes contratantes Správa železniční dopravní cesty, organización estatal, con domicilio en Dlážděná 1003/7, Praha 1 – Nové Město, CP 110 00, y České dráhy, a. s., con domicilio en Nábřeží L. Svobody 1222, Praha 1, CP 110 15, el 1. 7. 2008, con vigencia desde el 1. 7. 2008.
 No se detectaron defectos.
 ## 3.3
-### Regulación jurídica y otra
+### Regulación legal y otra
 ### 3.3.1 Normativa jurídica comunitaria y nacional aplicable
 En la investigación del MU se constató la infracción de las siguientes disposiciones legales:
-– Ley n.º 266/1994 Sb., de vías, en la redacción vigente, § 35 apartado 1 «El transportista está obligado
-a) a explotar el transporte ferroviario de acuerdo con las reglas de explotación del transporte ferroviario, la licencia vigente y los contratos celebrados con el explotador de la vía para la explotación del transporte ferroviario en la vía,
+– Ley n.º 266/1994 Sb., de vías, en su redacción vigente, § 35 apartado 1 «El transportista está obligado a
+a) explotar el transporte ferroviario de acuerdo con las normas de explotación del transporte ferroviario, la licencia vigente y los contratos celebrados con el explotador de la vía para la explotación del transporte ferroviario en la vía,
 •
-g) a regirse, en la explotación del transporte ferroviario, por las instrucciones del explotador de la vía impartidas al organizar el transporte ferroviario;
+g) regirse, en la explotación del transporte ferroviario, por las instrucciones del explotador de la vía impartidas al organizar el transporte ferroviario;
 •
-– Ley n.º 266/1994 Sb., de vías, en la redacción vigente, § 35 apartado 2 «El transportista está además obligado
-f) a implantar un sistema de garantía de la seguridad del transporte ferroviario y a garantizar su cumplimiento»;
+– Ley n.º 266/1994 Sb., de vías, en su redacción vigente, § 35 apartado 2 «El transportista está además obligado a
+f) implantar un sistema de garantía de la seguridad del transporte ferroviario y asegurar su cumplimiento»;
 •
-
 
 ## Página 24
+
 
 – Decreto n.º 173/1995 Sb., Reglamento de circulación ferroviaria, en la redacción vigente, § 35 apartado 1 «Para la conducción de un vehículo ferroviario debe garantizarse que la persona que conduce el vehículo ferroviario
 i) no supere la velocidad máxima permitida, establecida en el horario de circulación o
@@ -665,6 +653,7 @@ normativa interna SŽDC (ČD) D2 «Normativa para organizar y explotar el transp
 ferroviario», aprobada por decisión del director general de České dráhy el 13. 3. 1997, n.º de expediente: 55279/97-O11, con vigencia desde el 28. 12. 1997, asumida bajo la competencia de Správa
 
 ## Página 25
+
 
 vías de tráfico ferroviario, organización estatal, con base en la Directiva del Director General n.º 8/2008, ref. n.º 12 026/08-OKS, con vigencia desde el 1. 7. 2008, en su versión vigente (en adelante, norma interna SŽDC (ČD) D2, art. 28:
 
@@ -704,8 +693,8 @@ La hora del SZZ ESA 11 coincide con la hora real (indicada en formato hh:mm:ss).
 16:40:16 – se estableció una ruta de maniobras desde la señal Se102 a la vía n.º 912a
 16:42:17 – se estableció una ruta de tren en el distrito sur desde la señal Lc101 a la vía de estación n.º 101a, la señal Lc101 indica «Velocidad 40 km.h-1» y «Repetición de la señal Aviso»
 
-
 ## Página 26
+
 
 16:42:19 – activación de la codificación en la vía de estación n.º 101 para la dirección impar
 16:42:19 – activación de la codificación en el tramo de vía de la aguja n.º 107 para la dirección impar
@@ -756,6 +745,7 @@ la alarma
 
 ## Página 27
 
+
 16:47:52 – el dispositivo de seguridad de paso a nivel en el km 515,009 indica estado de avería
 16:48:20 – liberado el tramo de vía de la aguja n.º 103
 16:49:22 – liberado el tramo de vía de la vía de enlace n.º 912
@@ -796,31 +786,38 @@ establecimiento de los símbolos de señal y extracción progresiva de los filam
 -
        correcto, la señal cambió siempre la señal que autoriza la circulación a la señal «Alto».
 
-
 ## Página 28
 
-Señal de sección 2-5135:
-Se realizó:
-visibilidad y señalización de la señal, correcto
+Señal de bloqueo 2-5135:
+Se ha realizado:
+visibilidad y señalización de la señal, correcta
 -
-medición de la tensión en el filamento de la luz amarilla de la señal, correcto
+medición de la tensión en la bombilla de la señal de luz amarilla, correcta
 -
-medición de las corrientes de codificación para el circuito de vía 2T8 (tramo antes de la señal 2-
+medición de las corrientes de codificación para el circuito de vía 2T8 (tramo anterior a la señal 2- 
 -
-       5135), correcto
+       5135), correcta
 Conclusión:
-Se realizó una simulación de establecimiento de rutas de tren desde la señal de entrada 2L desde Prackovice nad Labem a la vía de estación n.º 101a a través de la vía de estación n.º 101. Cada vez la señal 2L indicaba la señal «Velocidad 40 km.h-1 y Aviso» y la señal 2-5135 indicaba la señal «Espere velocidad 40 km.h-1».
-En la estación Ústí nad Labem est. pr. – sector sur, la señal 2L está equipada con una placa indicadora con el número 5. Esta señal luminosa complementada de esta manera, al indicar una velocidad de 40 km.h-1, permite al maquinista del tren circular en el sector de agujas adyacente a la señal principal con una velocidad máxima de 50 km.h-1.
-El 26 de julio de 2010, tras finalizar la reparación de la superestructura ferroviaria, se probó el establecimiento de la ruta de tren desde la señal de entrada 2L en la est. de Ústí nad Labem est. pr. – sector sur a la tercera vía de estación de Ústí nad Labem est. pr. – sector de la estación de pasajeros.
-Foto 3: Señal de entrada 2L durante
+Se ha realizado una simulación de la establecimiento de itinerarios desde la señal de entrada 2L de 
+Prackovic nad Labem a la SK n.º 101a a través de la SK n.º 101. En cada caso, la señal 2L indicó 
+la señal "Velocidad 40 km.h-1 y Aviso" y la señal 2-5135 indicó la señal "Espere 
+velocidad 40 km.h-1".
+En el ámbito de Ústí nad Labem hl. n. – ámbito sur, la señal 2L está equipada con una placa indicadora 
+con el número 5. Esta señal luminosa complementada de esta manera, al indicar una velocidad de 40 km.h-1, 
+permite al maquinista del tren circular en el ámbito de agujas adyacente a la señal principal 
+con una velocidad máxima de 50 km.h-1. 
+El 26. 7. 2010, tras finalizar la reparación de la superestructura ferroviaria, se volvió a probar el establecimiento 
+del itinerario desde la señal de entrada 2L en la est. Ústí nad Labem hl. n. – ámbito sur a la tercera 
+vía de estación Ústí nad Labem hl. n. – ámbito de la estación de pasajeros. 
+Foto 3: Señal de entrada 2L durante 
 la prueba de verificación
-Rutas de tren establecidas:
-● Establecimiento de la ruta de tren desde la señal Lc101 a la vía de estación n.º 101a:
-    - señal Lc101 indica «Velocidad 40 km.h-1» y «Repetición de la señal Aviso».
-● Establecimiento de la ruta de tren desde la señal 2L a la vía de estación n.º 101:
-
+Itinerarios establecidos:
+● Establecimiento del itinerario desde la señal Lc101 a la SK n.º 101a:
+    - la señal Lc101 indica "Velocidad 40 km.h-1" y "Repetición de la señal Aviso".
+● Establecimiento del itinerario desde la señal 2L a la SK n.º 101:
 
 ## Página 29
+
 
      - señal 2L indica «Velocidad 40 km.h-1» y «Aviso».
 ● Establecimiento de la ruta de tren desde la señal Lc101a a la vía de enlace n.º 911:
@@ -848,6 +845,7 @@ Por cálculo se comprobó que no se superan ninguno de los valores umbral establ
 
 ## Página 30
 
+
 • Evaluación de la medición de la aguja n.º 103 (J 60 1:11/300 Lp b nov.):
 los valores de sobreelevación y de ancho de vía en la aguja n.º 103 estaban en los niveles límite
 y en ningún punto medido se superó el límite de intervención ni de intervención inmediata.
@@ -873,8 +871,8 @@ El DV de mando 971.005-4, propiedad de ČD, a. s., DKV Praha, dispone de un "Cer
 El HDV 471.005-9, propiedad de ČD, a. s., DKV Praha, dispone de un "Certificado de aptitud del material rodante" expedido por la Autoridad Ferroviaria con el número de registro PZ 10109/04-V.05, la inspección técnica periódica anual se realizó el 8. 1. 2010 – con el resultado de sin anomalías.
 El DV de mando en cabeza del tren estaba equipado con un velocímetro electrónico n.º 7268. El módulo de registro del velocímetro fue extraído con la participación de la Policía ČR y fue entregado para la evaluación profesional de los datos de circulación. El controlador de entrada en el puesto de conducción delantero del coche de mando se encontraba en la posición de frenado de acción rápida. Mediante la evaluación de la circulación del tren Os 2316 desde la última salida de la
 
-
 ## Página 31
+
 
 parada Dolní Zálezly hasta el descarrilamiento en el km 514.908 según el registro del velocímetro del
 conjunto METRA LT, número de circulación 0353.0009, se constató:
@@ -900,6 +898,7 @@ a la velocidad V = 117 km.h-1, en el repetidor de señal se apaga el "anillo". E
 
 ## Página 32
 
+
 se enciende a las 16:47:38 y a las 16:47:39 se apaga en el periodo posterior al descarrilamiento, cuando ya no son correctos ni la trayectoria recorrida ni el valor de la velocidad.
 Tras el último señal de bloque 2-5135 y la activación del «anillo» en el repetidor de señalización a las 16:46:48, a las 16:46:51 se accionó el botón de vigilancia y al mismo tiempo en el repetidor de señalización se enciende el «azul» y a las 16:46:55 se apaga el «azul». A las 16:47:07 en el repetidor de señalización se enciende el «azul» sin que se haya registrado la accionación del botón de vigilancia y a las 16:47:11 se apaga el «azul». A las 16:47:13 se accionó el botón de vigilancia y al mismo tiempo en el repetidor de señalización se enciende el «azul», el botón de vigilancia se soltó a las 16:47:14 y a las 16:47:17 se apaga el «azul». A las 16:47:19 se accionó el botón de vigilancia y al mismo tiempo en el repetidor de señalización se enciende el «azul» y a las 16:47:23 se apaga el «azul». A las 16:47:26 se apaga en el repetidor de señalización el «anillo», a las 16:47:26 se accionó el botón de vigilancia y al mismo tiempo en el repetidor de señalización se enciende el «azul», a las 16:47:30 se apaga el «azul». A las 16:47:31 se accionó el botón de vigilancia y al mismo tiempo en el repetidor de señalización se enciende el «azul», a las 16:47:33 se aplicó el freno de emergencia, a las 16:47:35 se apaga el «azul». A las 16:47:36 se realizó la accionación del botón de vigilancia y al mismo tiempo en el repetidor de señalización se enciende el «azul», el botón de vigilancia se soltó a las 16:47:37, aproximadamente en el momento del descarrilamiento, y a las 16:47:40 se apaga el «azul». A las 16:47:41 se desconecta la válvula del freno automático de tren debido a la pérdida de tensión en los circuitos de mando tras el daño al vehículo.
 ● El freno de destino se activó en la estación de origen Praha-Masarykovo nádraží a las 14:16:45 y se desactivó entre la parada Dolany y la estación Kralupy nad Vltavou a las 15:13:26. Se volvió a activar en la estación Kralupy nad Vltavou a las 15:15:36 y se desactivó en la parada Cítov a las 15:44:43. Se volvió a activar entre la estación Roudnice nad Labem y la estación Hrobce a las 16:07:00 y se desactivó en la parada Malé Žernoseky a las 16:34:16.
@@ -909,8 +908,8 @@ El 8 de julio de 2010 se realizó una inspección comisionada de la composición
 • El HDV 471.005-9 tenía el bogie trasero dañado tras el descarrilamiento. Estaban dañados la suspensión neumática, la 3.ª transmisión, las ruedas, los discos de freno, las mangueras del freno de mano, el eje hueco del eje 4, el alojamiento del enganche intermedio, la caja de baterías, el freno magnético, los apliques. En el techo del coche estaba dañado el pantógrafo, las conexiones al pantógrafo, las protecciones de alta tensión y las antenas de los transmisores. Los valores medidos de los juegos de ruedas de toda la composición cumplen la norma ČD V 25 Reglamento para la organización del mantenimiento de vehículos de tracción eléctricos y diésel, coches de pasajeros, intercalados, de remolque y de mando. Se decidió que, tras el traslado de la composición a DKV Praha, se desmontaría comisionadamente, con fines de ulterior investigación, el cuadro de freno continuo, que fue precintado en SOKV Ústí nad Labem y sellado con cinta de la Policía ČR.
 • El DV intercalado 071.005-3 tenía ambos bogies dañados. El bogie «a» tenía tras el descarrilamiento dañado el juego de ruedas, los discos de freno, el freno de mano, el enchufe del calefacción de tren,
 
-
 ## Página 33
+
 
 el alojamiento del enganche intermedio, el compartimento para baterías, las baterías, los apliques.
 El bogie «b» tenía tras el descarrilamiento dañado el juego de ruedas, los discos de freno, las placas de la suspensión neumática dobladas, el alojamiento del enganche intermedio, el lado izquierdo del frontal dañado con apliques.
@@ -922,6 +921,7 @@ Foto 5: 1. caja del VZ; 2. caja de mando del VZ; 3. repetidor de señalización;
 5. regulador antideslizamiento; 6. controlador de mando.
 
 ## Página 34
+
 
 El 27. 7. 2010 se procedió en DKV Praha, en presencia de la Policía ČR y de la DI, a desprecintar el contenedor de transporte con los aparatos almacenados, y se realizó la reinspección de estos aparatos electrónicos retirados de la unidad descarrilada del tren Os 2316.
 • Se reinspeccionó de acuerdo con el programa de conmutación el mando de la palanca de conducción principal S103; todos los contactos en las posiciones de freno de acción rápida, frenado de servicio y freno electrodinámico se activaron o desactivaron de acuerdo con el programa de conmutación del fabricante.
@@ -943,24 +943,21 @@ El 5. 8. 2010 se realizó en el puesto certificado del fabricante del equipo de 
 ###         de la aparición del MU.
 • Distribuidor CV1 nD 2303 PM, n.º de serie 5415, del coche 071.005-3, año de fabricación ilegible,
 
-
 ## Página 35
 
-etiqueta de reparación Pr/09. En este distribuidor, en el banco de pruebas, todas las magnitudes ensayadas cumplieron, con la excepción de la presión máxima en el cilindro de freno, que fue superada en 0,13 bar. Este hallazgo no tiene ninguna influencia en la función y el efecto del freno automático.
-### Conclusión – el distribuidor n.º de serie 5415 estaba plenamente funcional en el momento de la aparición del MÚ y no fue
-###     la causa de la aparición del MU.
-• Distribuidor BV1nDm18" n.º de serie 2332, del coche 971.005-4, fabricado en 03/03, etiqueta de reparación Pr 05/09. Este distribuidor del coche siniestrado resultó tan dañado por el MU que, sin intervención en el aparato, no era posible reinspeccionarlo en el banco de pruebas. Por ello, en el distribuidor se realizó el cambio de la tuerca de la llave de cierre. Durante el desmontaje se comprobó que en la llave de cierre el cono estaba en posición cerrado. Este cierre se produjo a causa del MU. Durante la inspección comisionada se examinó la documentación fotográfica del lugar del MU y de la inspección comisionada en SOKV Ústí nad Labem del 8. 7. 2010, de la que se desprende que el distribuidor fue dañado bajo el coche de mando y empujado en la dirección de marcha del tren contra el lecho de balasto (en partes del distribuidor se encontró balasto), o bien contra el muro de contención en el lugar del MU. La construcción del distribuidor está diseñada de tal forma que, si esta llave se cierra durante la marcha, se produce la activación del frenado de acción rápida. Tras la reparación de la llave de cierre, el distribuidor se montó en el banco de pruebas, donde todas las magnitudes ensayadas cumplieron, con la excepción de la presión en el cilindro de freno, que fue 0,08 bar menor. Este defecto detectado pudo haberse producido a causa del MU y no tuvo influencia en el efecto del freno.
-### Conclusión – el distribuidor n.º de serie 2332 estaba plenamente funcional en el momento de la aparición del MU y no fue
-###     la causa de la aparición del MU.
-Todos los valores medidos en los distribuidores se compararon con la norma UIC 540 – Freno de aire para coches de pasajeros y de mercancías. Todos los distribuidores cumplieron los requisitos de la norma.
-El 5. 8. 2010 se realizó en el puesto certificado de reparación de protectores de tren en DKV Praha, PJ Vršovice, la inspección de la caja desmontada del protector de tren B 04496 del coche de mando 971.005-4. Las tarjetas individuales se inspeccionaron de acuerdo con la «Norma local para el mantenimiento del equipo de protección de tren LS 90 y KBS E y del Sistema de radio de vía TRS» n.º de expediente 26 286/00 – 470 - 32 – 675.
-• Se inspeccionaron los siguientes tipos de tarjetas con sus números de serie: DPS Ds 18 DEP 049/96, Ds 17 VSO 046/96, Ds 17 VSO 011/96, DD1 Ds 14 040/96, DD2 Ds 15 038/96, DIS Ds 12 018/96, DDK Ds 13 003/99, VYO Ds 11 093/01, VYO Ds 11 096/01.
-• A continuación se simuló la marcha del tren según las señales, que se obtuvieron del archivo del equipo de protección de la est. Ústí nad Labem hl. nádraží – ramal sur. En todas las posiciones simuladas, el equipo se comportó correctamente y correspondió a los estados registrados en el registrador de velocidad de la marcha del tren Os 2316 del 28. 6. 2010.
-### El equipo del protector de tren fue considerado en orden y no fue la causa
-### de la aparición del MU.
-En los vehículos ferroviarios no se detectaron defectos y su estado técnico no guarda relación con la causa de la aparición del MU.
+etiqueta de reparación Pr/09. En este cuadro de mandos, en el banco de pruebas, todas las magnitudes ensayadas resultaron conformes, con la excepción de la presión máxima en el cilindro de freno, que se superó en 0,13 bar. Este hallazgo no tiene ninguna influencia en el funcionamiento ni en el efecto del freno automático.
+### Conclusión – el cuadro de mandos n.º de fabricación 5415 estaba plenamente operativo en el momento de producirse el MÚ y no fue la causa de la producción del MU.
+• Cuadro de mandos BV1nDm18" n.º de fabricación 2332, del coche 971.005-4, fabricado en 03/03, etiqueta de reparación Pr 05/09. Este cuadro de mandos del coche siniestrado resultó tan dañado por el MU que, sin intervención en el aparato, no fue posible someterlo a reensayo en el banco de pruebas. Por ello, en el cuadro de mandos se procedió a la sustitución de la rosca de la llave de corte. Al desmontarlo se comprobó que la cono de la llave de corte estaba en posición de cierre. Este cierre se produjo a causa del MU. Durante el reensayo por comisión se examinó la documentación fotográfica del lugar del MU y de la inspección por comisión en SOKV Ústí nad Labem del día 8. 7. 2010, de la que se desprende que el cuadro de mandos quedó dañado bajo el coche de mando y empujado en el sentido de la marcha del tren contra el lecho de balasto (se encontró balasto en partes del cuadro de mandos), o bien contra el muro de contención en el lugar del MU. La construcción del cuadro de mandos está diseñada de tal forma que, si esta llave de corte se cierra durante la marcha, se produce la aplicación del freno de acción rápida. Tras la reparación de la llave de corte, el cuadro de mandos se montó en el banco de pruebas, donde todas las magnitudes ensayadas resultaron conformes, con la excepción de la presión en el cilindro de freno, que fue 0,08 bar inferior. Esta anomalía detectada pudo haberse producido a causa del MU y no tuvo influencia en el efecto del freno.
+### Conclusión – el cuadro de mandos n.º de fabricación 2332 estaba plenamente operativo en el momento de producirse el MU y no fue la causa de la producción del MU.
+Todos los valores medidos en los cuadros de mandos se compararon con la norma UIC 540 – Freno neumático para coches de viajeros y de mercancías. Todos los cuadros de mandos cumplieron los requisitos de la norma.
+El 5. 8. 2010 se realizó, en el centro certificado de reparación de aparatos de seguridad de tren del DKV Praha, PJ Vršovice, el reensayo de la caja desmontada del aparato de seguridad de tren B 04496 del coche de mando 971.005-4. Las tarjetas individuales fueron reensayadas de acuerdo con la «Norma local para el mantenimiento del equipo de seguridad de tren LS 90 y KBS E y del Sistema de radio vía TRS» n.º de expediente 26 286/00 – 470 - 32 – 675.
+• Se reensayaron los siguientes tipos de tarjetas con sus números de fabricación: DPS Ds 18 DEP 049/96, Ds 17 VSO 046/96, Ds 17 VSO 011/96, DD1 Ds 14 040/96, DD2 Ds 15 038/96, DIS Ds 12 018/96, DDK Ds 13 003/99, VYO Ds 11 093/01, VYO Ds 11 096/01.
+• A continuación se simuló la marcha del tren según las señales, que se obtuvieron del archivo del equipo de seguridad de la estación Ústí nad Labem hl. nádraží – ramal sur. En todas las posiciones simuladas, el equipo se comportó correctamente y correspondió a los estados registrados en el registrador de velocidad de la marcha del tren Os 2316 del día 28. 6. 2010.
+### El aparato de seguridad de tren fue considerado en orden y no fue la causa de la producción del MU.
+En el material rodante no se detectaron anomalías y su estado técnico no guarda relación con la causa de la producción del MU.
 
 ## Página 36
+
 
 ## 3.5
 ### Documentación sobre el sistema de explotación
@@ -982,8 +979,8 @@ El lugar del SU fue asegurado por la Policía de la República Checa y debidamen
 ● El jefe de estación n.º 1 de la estación de enclavamiento central de Ústí nad Labem hl. n. – distrito norte inició su turno el 28. 6. 2010 a las 05:30 horas, el descanso antes del turno fue concedido por el empleador de conformidad con lo dispuesto en el apartado § 90 del Código del Trabajo;
 ● El jefe de estación n.º 2 de la estación de enclavamiento central de Ústí nad Labem hl. n. – distrito norte inició su turno el 28. 6. 2010 a las 05:38 horas, el descanso antes del turno fue concedido por el empleador de conformidad con lo dispuesto en el apartado § 90 del Código del Trabajo;
 
-
 ## Página 37
+
 
 ● La jefa de a bordo del tren Os 2316 inició su turno el 28. 6. 2010 a las 05:38 horas, el descanso antes del turno fue concedido por el empleador de conformidad con lo dispuesto en el apartado § 90 del Código del Trabajo.
 El empleador garantizó las condiciones para el descanso antes del turno de conformidad con el § 90 del Código del Trabajo.
@@ -1007,85 +1004,48 @@ No consta registrado ningún SU similar en la línea 527A Praha-Bubeneč – Dě
 ### 4.1.1 Descripción final del suceso ferroviario basada en los hechos constatados 
 en el punto 3
 El tren Os 2316, que circulaba desde la est. Praha Masarykovo nádraží hasta la est. Ústí nad Labem hl. n., 
-descarriló el 28. 6. 2010 a las 16:47 horas en la est. Ústí nad Labem hl. n. – obvod jih, en el espacio 
-de la enlace vial entre las agujas n.º 103 y n.º 105, en el km 514.908. El tren partió de la est. Praha 
-Masarykovo nádraží a las 14:41 horas y, según los resultados de la investigación, el viaje transcurrió sin 
-anomalías, las reacciones del maquinista fueron adecuadas y sin signos de problemas de salud. 
+descarriló el 28. 6. 2010 a las 16:47 horas en la est. Ústí nad Labem hl. n. – zona sur, en el espacio 
+de la enlace vial entre las agujas n.º 103 y n.º 105, en el pk 514.908. El tren partió de la est. Praha 
+Masarykovo nádraží a las 14:41 horas y, según los resultados de la investigación, la circulación se desarrolló sin 
+anomalías, las reacciones del maquinista fueron apropiadas y sin signos de problemas de salud. 
 Desde la parada Dolní Zálezly, que fue la última parada del tren Os 2316 antes de la est. Ústí nad 
-Labem hl. n., el tren se puso en marcha a las 16:42:53 horas. 
-Debido a la salida del tren 1. nsl 59792 por la vía de enlace n.º 912, la ruta del tren para la entrada del tren Os 2316 en la est. Ústí nad Labem 
-hl. n. – obvod jih se estableció desde la 2. TK hasta la 101. SK y, a continuación, por la 911. SK hasta el obvod del andén de pasajeros. 
-Simultáneamente tenía lugar la salida del tren 1. nsl 59792 por la vía de enlace n.º 912 desde el obvod de la est. Ústí nad Labem hl. n. – obvod jih 
-hasta el obvod de la est. Ústí nad Labem hl. n. – andén de pasajeros. 
-A las 16:47 horas, los interventores del enclavamiento central de la est. Ústí nad Labem hl. n. – obvod 
-sever observaron en el monitor del PC que en el obvod de la est. Ústí nad Labem hl. n. – obvod jih se había producido, tras la entrada del tren Os 2316, 
-una sección de la aguja n.º 105, la ocupación de la 102. SK y una avería de PZZ en el km 
-515.009. Posteriormente, el interventor del enclavamiento n.º 1 de la est. Ústí nad Labem západ les comunicó que en la est. Ústí nad Labem hl. n. – obvod jih 
-se había producido el descarrilamiento de un tren de pasajeros. El interventor del enclavamiento central de la est. Ústí nad Labem hl. n. – obvod 
-sever llamó a la est. Lovosice y prohibió la circulación de todos los trenes. 
-A continuación, los interventores del enclavamiento central procedieron según el 
-Ohlašovací rozvrhu (cuadro de avisos), comunicaron la aparición del MU y activaron el sistema integrado de 
-rescate. 
-Durante la investigación del MU se compararon mutuamente los registros del sistema de enclavamiento 
-de la estación, del sistema de control del tren, el registro del velocímetro, 
-la medición de la superestructura ferroviaria y las conclusiones de las inspecciones comisionales. 
-En ninguno de estos 
+Labem hl. n., el tren se puso en marcha a las 16:42:53 horas. Debido a la salida del tren 1. nsl 59792 por 
+la vía de enlace n.º 912, la ruta del tren para la entrada del tren Os 2316 en la est. Ústí nad Labem 
+hl. n. – zona sur se estableció desde la 2. TK hasta la 101. SK y posteriormente por la 911. SK hasta la zona de 
+andenes de la estación de pasajeros. Simultáneamente tenía lugar la salida del tren 1. nsl 59792 por 
+la vía de enlace n.º 912 desde la zona de la est. Ústí nad Labem hl. n. – zona sur hasta la zona de la est. Ústí nad Labem hl. n. – estación de pasajeros. A las 16:47 horas, los interventores del enclavamiento central de la est. Ústí nad Labem hl. n. – zona 
+norte observaron en el monitor del PC que en la zona de la est. Ústí nad Labem hl. n. – zona sur se había producido, tras la entrada del tren Os 2316, un corte de la aguja n.º 105, la ocupación de la 102. SK y una avería de PZZ en el pk 515.009. Posteriormente, el interventor del enclavamiento n.º 1 de la est. Ústí nad Labem západ les comunicó que en la est. Ústí nad Labem hl. n. – zona sur se había producido el descarrilamiento de un tren de pasajeros. El interventor del enclavamiento central de la est. Ústí nad Labem hl. n. – zona norte llamó a la est. Lovosice y prohibió la circulación de todos los trenes. A continuación, los interventores del enclavamiento central procedieron según el 
+Horario de Comunicaciones, comunicaron la aparición del SU y activaron el sistema integrado de 
+emergencias.
+Durante la investigación del SU se compararon mutuamente los registros del 
+dispositivo de enclavamiento de la estación, del sistema de control del tren, el registro del 
+velocímetro, la medición de la superestructura ferroviaria y las conclusiones de las inspecciones 
+comisionales. En ninguno de estos 
 registros se encontró discrepancia y en ninguna inspección comisional se constató ni 
-se afirmó que la causa de la aparición del MU fuera una avería técnica en el tren o en la 
-superestructura e infraestructura ferroviaria, ni en el sistema de enclavamiento de vía o de estación. 
-En el lugar de aparición del MU circulaba el tren Os 2316 a una velocidad de 107 km.h-1, a pesar de que en la señal de entrada 
-2L la señalización dada «Velocidad 40 km.h-1 y espere 40 km.h-1» estaba completada 
-con una placa indicadora con el dígito «5». La velocidad máxima permitida se superó así en 67 
-km.h-1. 
-En el MU falleció el maquinista del tren Os 2316, 9 personas resultaron heridas y el daño total 
+se afirmó que la causa de la aparición del SU fuera una avería técnica en el tren o en la 
+superestructura e infraestructura, o en el dispositivo de enclavamiento de la vía o de la estación.
+En el lugar de aparición del SU, el tren Os 2316 circulaba a una velocidad de 107 km.h-1, a pesar de que en la señal de entrada 2L la señal indicada «Velocidad 40 km.h-1 y espere 40 km.h-1» iba acompañada de una placa indicadora con el dígito «5». La velocidad máxima permitida se superó así en 67 km.h-1. 
+En el SU resultó muerto el maquinista del tren Os 2316, 9 personas resultaron heridas y el daño total 
 fue de 70 914 339 Kč.
-
 
 ## Página 39
 
 ## 4.2
 ### Análisis
-### 4.2.1 Evaluación de los hechos constatados según el punto 3 y exposición de las conclusiones sobre la causa 
-del suceso ferroviario y la actuación de los servicios de rescate
-El transportista ČD, a. s., en relación con lo dispuesto en el § 35 apartado 1 letra f) e i) del decreto 
-n.º 173/1995 Sb. y en el sentido del § 35 apartado 1 letra a) de la ley, no garantizó la explotación del transporte ferroviario 
-según las normas de explotación del transporte ferroviario y el contrato celebrado con el explotador de la 
-vía sobre la explotación del transporte ferroviario en la vía, al no respetar la persona que conduce el vehículo ferroviario del tren Os 2316 
-la señalización «Velocidad 40 km.h-1 y espere 40 km.h-1» completada 
-con una placa indicadora con el dígito «5» en la señal de entrada 2L y superar la velocidad 
-máxima permitida del tren en 67 km.h-1 antes de entrar en la enlace vial entre las agujas 
-n.º 103 y n.º 105 en la est. Ústí nad Labem hl. n. – obvod jih, donde en el km 514,908 se produjo 
-el descarrilamiento del tren Os 2316.
-Durante la investigación de las causas y circunstancias de la aparición del MU se constató que el maquinista del tren Os 2316 era 
-profesionalmente competente. Según el informe emitido sobre aptitud médica, vigente en el momento de la 
-aparición del MU, fue considerado médicamente apto para conducir vehículos ferroviarios. 
-Tras la evaluación de su estado de salud real, los peritos judiciales constataron que en el momento de la aparición 
-del MU no estaba médicamente apto para conducir vehículos ferroviarios y no se puede descartar de forma inequívoca 
-que su estado de salud actual no pudiera haber tenido influencia en la aparición del accidente. De lo anterior se deduce que 
-el tren Os 2316 fue conducido en el momento de la aparición del MU por una persona médicamente no apta, lo que es contrario 
-al § 35 apartado 1 letra f) de la ley, teniendo en cuenta que el transportista, al encomendar al maquinista la conducción del tren Os 2316, 
-partió de su informe vigente sobre aptitud médica.
-Tras la evaluación de la documentación obtenida y de las conclusiones de las inspecciones comisionales, la inspección 
-del lugar del MU y la revisión de la vía, se constató que ni la infraestructura de la vía, los sistemas de enclavamiento de vía y de estación, 
-el estado técnico de los vehículos ferroviarios ni el proceder de los empleados 
-del explotador de la vía en la organización y dirección del transporte ferroviario guardan relación con la causa 
-de la aparición del MU.
-Los componentes del sistema integrado de rescate llegaron al lugar del MU inmediatamente tras su 
-comunicación y comenzaron de inmediato las labores de rescate, es decir, la atención de los heridos, 
-la aseguración del lugar del MU y la evitación del aumento de las consecuencias del MU.
+### 4.2.1 Evaluación de los hechos constatados de acuerdo con el punto 3 y exposición de las conclusiones sobre la causa del suceso excepcional y la actuación de los servicios de rescate
+El transportista ČD, a. s., en relación con lo dispuesto en el § 35 apartado 1 letra f) e i) del decreto nº 173/1995 Sb. y en el sentido del § 35 apartado 1 letra a) de la ley, no garantizó la explotación del transporte ferroviario de acuerdo con las reglas de explotación del transporte ferroviario y el contrato celebrado con el explotador de la vía para la explotación del transporte ferroviario en la vía, al no respetar la persona que conducía el vehículo ferroviario del tren Os 2316 la señal «Velocidad 40 km.h-1 y espere 40 km.h-1» complementada con la placa indicadora con el número «5» en la señal de entrada 2L y superar la velocidad máxima permitida del tren en 67 km.h-1 antes de entrar en el enlace de vía entre los desvíos nº 103 y nº 105 en la est. Ústí nad Labem hl. n. – distrito sur, donde en el km 514,908 se produjo el descarrilamiento del tren Os 2316.
+En la investigación de las causas y circunstancias de la aparición del SE se constató que el maquinista del tren Os 2316 estaba profesionalmente cualificado. De acuerdo con el dictamen emitido sobre aptitud física, vigente en el momento de la aparición del SE, se le consideró físicamente apto para conducir vehículos ferroviarios. Tras evaluar su estado de salud real, los peritos judiciales afirmaron que en el momento de la aparición del SE no estaba físicamente apto para conducir vehículos ferroviarios y no se puede descartar de forma inequívoca que su estado de salud actual no pudiera haber influido en la aparición del accidente. De lo anterior se deduce que el tren Os 2316 estaba siendo conducido en el momento de la aparición del SE por una persona físicamente no apta, lo que es contrario al § 35 apartado 1 letra f) de la ley, teniendo en cuenta que el transportista, al encomendar al maquinista la conducción del tren Os 2316, partía de su dictamen vigente sobre aptitud física.
+De la evaluación de la documentación obtenida y de las conclusiones de las inspecciones periciales, del examen del lugar del SE y de la inspección de la vía se constató que ni las componentes de la vía, las instalaciones de seguridad de línea y de estación, ni el estado técnico de los vehículos ferroviarios, ni el procedimiento de los empleados del explotador de la vía en la organización y dirección del transporte ferroviario guardan relación con la causa de la aparición del SE.
+Los componentes del sistema integrado de emergencia llegaron al lugar del SE inmediatamente después de su notificación y comenzaron de inmediato las labores de rescate, es decir, la atención a los heridos, la aseguración del lugar del SE y la prevención del aumento de las consecuencias del SE.
 ## 4.3
 ### Conclusiones
-4.3.1 Causas inmediatas del suceso ferroviario, incluidos los factores que contribuyeron al mismo 
-y que estuvieron relacionados con la actuación de las personas implicadas o con el estado de los vehículos 
-ferroviarios o de los dispositivos técnicos
-La causa inmediata de la aparición del MU fue la entrada del tren de pasajeros en la enlace vial entre las agujas n.º 103 y n.º 105 
-a una velocidad 67 km.h-1 superior a la velocidad máxima permitida en este tramo.
+4.3.1 Causas inmediatas del suceso excepcional, incluidos los factores que contribuyeron al mismo y que estuvieron relacionados con la actuación de las personas implicadas o con el estado de los vehículos ferroviarios o de las instalaciones técnicas
+La causa inmediata de la aparición del SE fue la entrada del tren de pasajeros en el enlace de vía entre los desvíos nº 103 y nº 105 a una velocidad 67 km.h-1 superior a la velocidad máxima permitida en este tramo.
 ### 4.3.2 Causas fundamentales relacionadas con la cualificación, los procedimientos y el mantenimiento
-La causa fundamental de la aparición del MU fue el incumplimiento de la obligación del transportista de atenerse a la instrucción 
-del explotador de la vía dada a la persona que conduce el tren Os 2316 en la señal de entrada 2L 
-
+La causa fundamental de la aparición del SE fue el incumplimiento por parte del transportista de la obligación de atenerse a la instrucción dada por el explotador de la vía a la persona que conducía el tren Os 2316 en la señal de entrada 2L
 
 ## Página 40
+
 
 de señalización «Velocidad 40 km.h-1 y espere 40 km.h-1» completada con una placa indicadora 
 con el dígito «5», con la contribución del siguiente factor:
@@ -1113,6 +1073,7 @@ empleados operativos de DKV Praha durante la formación periódica.
 
 ## Página 41
 
+
 ## 6 RECOMENDACIONES DE SEGURIDAD
 La Inspección Ferroviaria, como autoridad administrativa competente en la materia según lo dispuesto en el apartado 5 del § 53b de la Ley núm. 266/1994 Sb., de ferrocarriles, en su versión vigente, sobre la base del resultado de la investigación de las causas y circunstancias del suceso ferroviario, recomienda al transportista České dráhy, a. s., y al gestor de la infraestructura Správa železniční dopravní cesty, organización estatal:
 ● impedir mediante medida propia que se siga emitiendo la evaluación de la idoneidad física de las personas que conducen vehículos ferroviarios y de los solicitantes de la habilitación para conducir vehículos ferroviarios, así como de las personas que realizan otras actividades en la explotación de la infraestructura y del transporte ferroviario y de los solicitantes para el desempeño de dichas actividades, en el sentido del apartado 2 del § 1 del decreto núm. 101/1995 Sb., por la médica evaluadora que emitió el dictamen de idoneidad física para el trabajo al maquinista del tren Os 2316;
@@ -1127,43 +1088,43 @@ Director
 Delegación Territorial de Praga
 Delegación Territorial de Praga
 
-
 ## Página 42
 
 ## 7 ANEXOS
-Foto 6: Vista del paso a nivel núm. P 2425 en el pk 515,009 y la parte trasera del tren Os 2316
-Foto 7: Aguja núm. 105 y la parte trasera del tren Os 2316
-
+Foto 6: Vista del paso a nivel n.º P 2425 en el pk 515,009 y la parte trasera 
+del tren Os 2316
+Foto 7: Aguja n.º 105 y la parte trasera del tren Os 2316
 
 ## Página 43
+
 
 Foto 8: Lado izquierdo del tren Os 2316 descarrilado en el sentido de la marcha
 Foto 9: Parte superior del DV 971.005-4 delantero
 
-
 ## Página 44
+
 
 Foto 10: Muro de contención y elementos del sistema de seguridad del paso a nivel núm. P 2425
 Foto 11: Poste de la catenaria encastrado en el compartimento para pasajeros del DV 971.005-4
 
-
 ## Página 45
+
 
 Foto 12: Compartimento para pasajeros deformado en la parte superior del DV 971.005-4
 Foto 13: Vista del lado derecho del DV 971.005-4 delantero en el sentido de la marcha del tren
 
-
 ## Página 46
+
 
 Foto 14: Vista del tren Os 2316 descarrilado desde la dirección de la estación de Ústí nad Labem hl. n.
 Foto 15: Vista del bogie del DV 971.005-4 y del frente del tren Os 2316 descarrilado desde la dirección de la estación de Ústí nad Labem hl. n.
 
-
 ## Página 47
+
 
 Foto 16: Frente del DV 975.005-4 descarrilado
 
-
 ## Página 48
+
 
 Foto 17: Barra de cierre del paso a nivel núm. P 2425 encastrada en la parte superior del compartimento para pasajeros del DV 971.005-4

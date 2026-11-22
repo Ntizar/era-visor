@@ -10,13 +10,14 @@ chars: 133867
 ratio_longitud: 1.24
 tokens_in: 80453
 tokens_out: 56435
-verificacion: revisar
-notas_cifras: ["bloque 2: original bilingüe: se compara contra el idioma principal (PT)", "bloque 4: original bilingüe: se compara contra el idioma principal (CS)", "bloque 5: original bilingüe: se compara contra el idioma principal (PT)", "bloque 6: cifras cortas: 6/65", "bloque 7: original bilingüe: se compara contra el idioma principal (CS)", "bloque 8: original bilingüe: se compara contra el idioma principal (CS)"]
-avisos: ["bloque 4: ratio 1.64", "bloque 5: ratio 1.62", "bloque 8: ratio 1.62", "bloque 9: ratio 1.66"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 3: original bilingüe: se compara contra el idioma principal (CS)", "página 9: original bilingüe: se compara contra el idioma principal (EN)", "página 10: original bilingüe: se compara contra el idioma principal (PT)", "página 11: original bilingüe: se compara contra el idioma principal (CS)", "página 19: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 Inspección Ferroviaria
 República Checa
@@ -43,9 +44,11 @@ tel.: 224 805 444
 
 ## Página 2
 
+
 Este informe final es público y todos los documentos y hechos están respaldados por el expediente de investigación.
 
 ## Página 3
+
 
 ## 1 RESUMEN
 Fuente: Inspección Ferroviaria
@@ -79,6 +82,7 @@ circulación no autorizada del tren más allá de la señal principal que
 prohíbe la circulación del tren.
 
 ## Página 4
+
 
 Causa fundamental:
 • fallo inconsciente, error de la persona que conduce el vehículo ferroviario del tren
@@ -130,6 +134,7 @@ que permite la circulación del tren, incluida la señal de llamada;
 
 ## Página 5
 
+
 • hasta la sustitución completa de la salvaguarda de seguridad, de la persona
 que conduce el transporte ferroviario en la expedición del tren, no ampliar
 más el número de estaciones en las que la expedición de un tren con
@@ -159,6 +164,7 @@ la realización de la recomendación de seguridad anteriormente mencionada tambi
 gestores de vías y transportistas de la República Checa.
 
 ## Página 6
+
 
 ## SUMMARY
 Grade:
@@ -196,6 +202,7 @@ Office about risks which are connected with results of investigation of
 previous accidents and incidents.
 
 ## Página 7
+
 
 Recommendations:
 1) Addressed to infrstructure manager Správa železniční dopravní cesty, s. o.:
@@ -244,11 +251,14 @@ signaling tool or technical equipment.
 it is recommended to take own measure forcing implementation of the
 •
 above recommendations for other infrastructure manager (IM) and
-railway undertaking (RU) in the Czech Republic. 
+railway undertaking (RU) in the Czech Republic.
 
 ## Página 8
 
+
+
 ## Página 9
+
 
 # Índice
 1 Resumen ...............................................................................................................................3
@@ -289,8 +299,8 @@ las personas) ..................................................................
 3.1.1 Empleados del gestor de la vía y del transportista, incluidas personas en 
 relación contractual .......................................................................................23
 
-
 ## Página 10
+
 
 3.1.2 Otras personas .........................................................................................................25
 3.2 Sistema de garantía de la seguridad ...............................................................................25
@@ -332,10 +342,10 @@ en su manejo y utilización ....................................................
 punto 3 ....................................................................................................37
 4.2 Análisis ......................................................................................................................38
 4.2.1 Evaluación de los hechos establecidos según el punto 3 y formulación de 
-conclusiones sobre la causa de la 
-
+conclusiones sobre la causa de la
 
 ## Página 11
+
 
 incidencia y la actividad de los servicios de rescate ..........................................38
 4.3 Conclusiones .......................................................................................................................41
@@ -357,8 +367,8 @@ incidencia .....................................................................
 6 Recomendaciones de seguridad .............................................................................................43
 7 Anexos .............................................................................................................................45
 
-
 ## Página 12
+
 
 ## Lista de siglas y símbolos utilizados
 COP
@@ -446,6 +456,7 @@ estación ferroviaria
 
 ## Página 13
 
+
 ## Lista de abreviaturas de disposiciones legales, normas y reglamentos internos
 ley núm. 266/1994 Sb.
 ley núm. 266/1994 Sb., de ferrocarriles, en su versión vigente
@@ -474,8 +485,8 @@ reglamento interno del explotador de la vía SŽDC, s. o., SŽDC (ČD) D1 REGLAM
 SŽDC (ČD) D2
 reglamento interno del explotador de la vía SŽDC, s. o., SŽDC (ČD) D2 Reglamento para la organización y explotación del transporte ferroviario, aprobado el 13. 3. 1997, con el n.º de expediente: 55079/97-O11, en vigor desde el 28. 12. 1997, en su versión vigente
 
-
 ## Página 14
+
 
 SŽDC (ČD) Z1
 reglamento interno del explotador de la vía SŽDC, s. o., SŽDC (ČD) Z1 Reglamento para la operación de instalaciones de enclavamiento de estación y de línea, aprobado el 26. 03. 2007, con el n.º de expediente: 56704/2007, en vigor desde el 1. 6. 2007, en su versión vigente
@@ -497,8 +508,8 @@ SŽDC D1 (vigente desde el 1. 7. 2013) reglamento interno del explotador de la v
 ČD D2 (vigente desde el 1. 7. 2013)
 reglamento interno del transportista ČD, a. s., ČD D2 Reglamento para la explotación del transporte ferroviario del transportista České dráhy, a. s., aprobado el 15. 2. 2013, con el n.º de expediente: 55466/2013-OZPŘ, en vigor desde el 1. 7. 2013
 
-
 ## Página 15
+
 
 ## 2 DATOS RELATIVOS AL SUCESO EXCEPCIONAL
 ## 2.1
@@ -519,8 +530,8 @@ Fig. n.º 1: Vista del lugar del SE, semáforo principal (de salida) S1
 est. Kunovice-Loučka
          Fuente: SŽDC, s. o.
 
-
 ## Página 16
+
 
 ### 2.1.2 Descripción del suceso excepcional y del lugar del accidente, incluida la actuación del sistema integrado de emergencias y del servicio de rescate
 El 2. 5. 2013, la persona que dirige el transporte ferroviario (en adelante, el jefe de estación) realizó en la est. Kunovice-Loučka el cruce de los trenes Os 3912 y Os 3915. El tren Os 3912 llegó a la est. Kunovice-Loučka a la SK n.º 2. El tren Os 3915 llegó a la est. Kunovice-Loučka a la SK n.º 1. En el momento en que el jefe de estación de la est. Kunovice-Loučka estableció la vía de tren para el tren Os 3915, pero el semáforo principal (de salida) S1 aún señalizaba la señal «Alto» con luz roja, la tripulación del tren Os 3915 realizó los procedimientos previos a la salida del tren. La persona que dirige el DV (en adelante, el maquinista) puso posteriormente el tren en movimiento de forma no autorizada. No detuvo el tren delante del semáforo principal (de salida) S1 y continuó la marcha no autorizada alrededor del semáforo principal (de salida), que seguía señalizando la señal «Alto». El tren Os 3915 fue detenido de emergencia con la orden «GENERÁLNÍ STOP» enviada por el jefe de estación de la est. Kunovice-Loučka a través del ZRDS.
@@ -536,8 +547,8 @@ de la luz roja no estaba sucia;
 la SK n.º 1 se dirige en línea recta desde el punto de partida del tren Os 3915;
 •
 
-
 ## Página 17
+
 
 la visibilidad de las señales del semáforo principal (de salida) S1 es, desde la
 •
@@ -585,8 +596,8 @@ las luces indicadoras de los semáforos de salida S1 y S3 – no encendidas, ind
 •
 de la señal «Alto» de los semáforos correspondientes;
 
-
 ## Página 18
+
 
 la luz indicadora del semáforo de entrada L – encendida con luz roja, indicación de la
 •
@@ -634,45 +645,46 @@ No se activó el IZS.
 
 ## Página 19
 
-2.1.3 Decisión de iniciar la investigación de las causas y circunstancias de la ocurrencia, composición del equipo de personas cualificadas y forma de dirigir la investigación de las causas y circunstancias de la ocurrencia
+2.1.3 Decisión de iniciar la investigación de las causas y circunstancias de la producción, composición del equipo de personas cualificadas y método de dirección de la investigación de las causas y circunstancias de la producción
 MU comunicada al COP DI el día:
-2. 5. 2013, 15.10 h (es decir, 15 min. después de la ocurrencia de la MU).
+2. 5. 2013, 15.10 h (es decir, 15 min. después de la producción de la MU).
 Forma de comunicación:
 telefónicamente.
 Comunicada por la persona autorizada en nombre de:
 el gestor de la infraestructura (SŽDC, s. o.) y el transportista
 (ČD, a. s.).
-Consentimiento del DI para la liberación de la vía:
-2. 5. 2013, 15.11 h (es decir, 16 min. después de la ocurrencia de la MU).
-La comunicación de la MU por parte del gestor de la infraestructura y del transportista se ajustó a lo dispuesto en el § 49 apartado 3 letra a) de la Ley núm. 266/1994 Sb. y en el § 8 del Decreto núm. 376/2006 Sb.
-Decisión del DI de iniciar la VŠ:
-14. 5. 2013 sobre la base de los hallazgos del proceso de supervisión de la MU.
+Autorización del DI para la liberación de la vía:
+2. 5. 2013, 15.11 h (es decir, 16 min. después de la producción de la MU).
+La comunicación de la MU por parte del gestor de la infraestructura y del transportista se ajustó a lo dispuesto en el § 49 apartado 3 letra a) de la Ley núm. 266/1994 Sb. y en el § 8 del decreto núm. 376/2006 Sb.
+Decisión del DI sobre el inicio de la VŠ:
+14. 5. 2013 sobre la base de los conocimientos obtenidos durante la
+supervisión de la MU.
 Composición del VI DI en el lugar de la MU:
-El DI no estuvo presente en el lugar de la ocurrencia de la MU, dada la naturaleza original de la MU.
-Formación del equipo de investigación:
-no fue necesario formarlo.
+El DI no estuvo presente en el lugar de producción de la MU, dada la naturaleza original de la MU.
+Constitución del equipo de investigación:
+no fue necesario constituirlo.
 Colaboración externa:
 no se utilizó.
-La posterior investigación de las causas y circunstancias de la ocurrencia de la MU fue encomendada dentro del marco del DI al ÚI Ostrava.
-En la investigación de las causas y circunstancias de la ocurrencia de la MU, el DI se basó en sus propios conocimientos y hallazgos, en su propia documentación fotográfica, en la documentación solicitada elaborada durante la investigación por el gestor de la infraestructura y el transportista.
-La investigación de las causas y circunstancias de la ocurrencia de la MU se llevó a cabo de conformidad con lo dispuesto en el § 53b de la Ley núm. 266/1994 Sb. y en el § 11 del Decreto núm. 376/2006 Sb.
+La posterior investigación de las causas y circunstancias de la producción de la MU fue encomendada dentro del DI al ÚI Ostrava.
+En la investigación de las causas y circunstancias de la producción de la MU, el DI partió de sus propios conocimientos y hallazgos, de su propia documentación fotográfica, de la documentación solicitada elaborada durante la investigación por el gestor de la infraestructura y el transportista.
+La investigación de las causas y circunstancias de la producción de la MU se realizó de conformidad con lo dispuesto en el § 53b de la Ley núm. 266/1994 Sb. y en el § 11 del decreto núm. 376/2006 Sb.
 ## 2.2
 ### Circunstancias del suceso excepcional
-### 2.2.1 Empleados implicados del gestor de la infraestructura y del transportista, personas en relación contractual y otros implicados y testigos
-Personas implicadas en nombre de:
+### 2.2.1 Empleados participantes del gestor de la infraestructura y del transportista, personas en relación contractual y otros participantes y testigos
+Personas participantes por parte de:
 Transportista (ČD, a. s.):
 maquinista del tren Os 3915, empleado de ČD, a. s., DKV Olomouc, PJ Valašské
 •
 Meziříčí;
-personal del tren (en adelante, jefe de tren) Os 3915, empleado de ČD, a. s., RCVD
+personal de a bordo del tren (en adelante, jefe de tren) Os 3915, empleado de ČD, a. s., RCVD
 •
 Valašské Meziříčí.
 Gestor de la infraestructura (SŽDC, s. o.):
 jefe de estación de la est. Kunovice-Loučka, empleado de SŽDC, s. o., PO Valašské Meziříčí.
 •
 
-
 ## Página 20
+
 
 2.2.2 Trenes y su composición, incluidos los números de registro de los distintos vehículos ferroviarios
 | Tren: | Os3915 | Composición del tren: | Propietario: |
@@ -698,55 +710,48 @@ de maniobras en dirección a la est. Branky na Moravě.
 •
 Las señales de autorización de la señal principal (de salida) S1 (excepto PN) dependen del estado del PZZ ŽP P 7290 en el km 49,051. Las señales de la señal principal (de salida) S1 que permiten la circulación (excepto PN) de la DV en el ŽP P 7290 solo pueden encenderse si el PZZ es capaz de advertir a los usuarios de la carretera de la llegada de la DV al ŽP de la manera prescrita.
 
-
 ## Página 21
 
-Las circulaciones de trenes y PMD hacia la est. Kunovice-Loučka desde la est. Osíčko están controladas por la señal principal (de entrada) S de la est. Kunovice-Loučka. Esta está situada en el km 47,785 a la derecha de la vía de línea Osíčko – Kunovice-Loučka. La señal es de cinco luces, sobre mástil.
-Para la circulación de trenes están destinadas las SK núm. 1, núm. 2 y núm. 3. En la SK núm. 1 (entre la SK núm. 1 y la SK núm. 2) se encuentra un andén lateral a nivel con borde fijo, de longitud constructiva de 255 m. En la SK núm. 2 (entre la SK núm. 2 y la SK núm. 4) se encuentra un andén lateral a nivel con borde fijo, de longitud constructiva de 236 m. Para el acceso a los andenes a nivel se han establecido 2 pasos a nivel.
-La vía de línea Osíčko – Kunovice-Loučka y a continuación la cabecera, el extremo, la SK núm. 1 de la est. Kunovice-Loučka en la dirección de circulación del tren Os 3915 desde el km 47,510, es decir, 275 m antes de la señal principal (de entrada) S en el km 47,785, hasta el km 47,831 se encuentra en una curva a la izquierda de longitud 321 m, radio 405 m, con sobreelevación de 77 mm. Desde el km 47,831 hasta el km 47,895 la vía se encuentra en línea recta de longitud 64 m. Desde el km 47,895 hasta el km 47,951 la vía se encuentra en una curva a la derecha de longitud 56 m, radio 800 m sin sobreelevación. Desde el km 47,951 hasta el km 47,989 la vía se encuentra en línea recta de longitud 38 m. Desde el km 47,989 hasta el km 48,409 sigue una curva a la derecha de longitud 420 m, radio 497 m, con sobreelevación de 59 mm. Desde el km 48,409 hasta el km 48,851, es decir, 96 m tras el nivel de la señal principal (de salida) S1, la vía se encuentra en línea recta de longitud 442 m, a continuación desde el km 48,851 hasta el km 48,983 la vía se encuentra en una curva a la izquierda de longitud 132 m, radio 270 m, con sobreelevación de 107 mm, a la que desde el km 48,983 se une de forma continua una curva a la izquierda de longitud 222 m, radio 310 m, con sobreelevación de 107 mm.
-En el km 49,051, es decir, 296 m tras la señal principal (de salida) S1, en una curva a la izquierda en la cabecera de Branky se encuentra el ŽP P 7290. Este está asegurado por un PZZ-RE con contadores de ejes, complementado con barreras completas y con señalización positiva.
-En los tramos de vía única Osíčko – Kunovice-Loučka y Kunovice-Loučka – Branky na Moravě, las circulaciones de la DV se aseguran mediante oferta telefónica, aceptación y aviso de salida.
-El tramo Osíčko – Kunovice-Loučka – Branky na Moravě está cubierto por la señal "Vf" del SRD a través del TRS, conectado en red de bus, lo que permite en el canal combinado del bus la comunicación entre los jefes de estación de la est. correspondiente al tramo y los maquinistas de HDV equipados con la parte móvil del TRS, siempre dentro del ámbito de alcance del ZRDS. Las islas de la red SRD las forman los ZRDS situados en las distintas est. La última instrucción sobre el cambio de grupo de canal antes del lugar de la ocurrencia de la MU se da al maquinista por la señal de radio con la señal "Cambie el grupo de canal" en la dirección Kojetín – Valašské Meziříčí, en el tramo Hulín – Valašské Meziříčí, en el km 18,560, en la dirección contraria en el km 57,930. Los maquinistas son informados de la cobertura de la línea Valašské Meziříčí – Kojetín (línea núm. 304A) por el TRS y de los números de los grupos de canal también por los datos de la Tabla 1 del TTP 304A.
-La velocidad de línea en el lugar de la ocurrencia de la MU fue establecida por el gestor de la infraestructura en 70 km·h-1. La señal – limitador de velocidad N que ordena al maquinista de la DV no superar la velocidad de 70 km·h-1 está situada en la dirección de circulación del tren Os 3915 en el km 47,848, es decir, 907 m antes del lugar de la ocurrencia de la MU.
-La velocidad máxima permitida del tren Os 3915 en el lugar de la ocurrencia de la MU era de 70 km·h-1.
-### 2.2.4 Uso de medios de comunicación
-En relación con la ocurrencia de la MU en cuestión, no se utilizaron los medios de comunicación.
-Los medios de comunicación se utilizaron solo después de la ocurrencia de la MU para la parada de emergencia del tren Os 3915 y para la comunicación de la ocurrencia de la MU, y concretamente en:
-14.55.28 h a través del ZRDS del TRS, el jefe de estación de la est. Kunovice-Loučka envió
-•
-la orden "PARADA GENERAL" para la parada de emergencia del tren Os 3915;
-14.56.00 h a través del ZRDS del TRS, el jefe de estación de la est. Kunovice-Loučka informó
-•
-al maquinista del tren Os 3915 de la ocurrencia de la MU.
-
+Los trenes y los PMD hacia la estación de Kunovice-Loučka desde la estación de Osíčko están dirigidos por la señal principal (de entrada) S de la estación de Kunovice-Loučka. Esta se sitúa en el km 47,785 a la derecha de la vía de la línea Osíčko – Kunovice-Loučka. La señal es de cinco luces, sobre mástil.
+Para la circulación de trenes están destinadas las vías SK n.º 1, n.º 2 y n.º 3. En la SK n.º 1 (entre la SK n.º 1 y la SK n.º 2) se encuentra un andén lateral a nivel, con borde fijo, de longitud constructiva de 255 m. En la SK n.º 2 (entre la SK n.º 2 y la SK n.º 4) se encuentra un andén lateral a nivel, con borde fijo, de longitud constructiva de 236 m. Para el acceso a los andenes a nivel se han habilitado 2 pasos a nivel.
+La vía de la línea Osíčko – Kunovice-Loučka y, a continuación, el extremo de vía, el cambio de agujas, la SK n.º 1 de la estación de Kunovice-Loučka, en el sentido de circulación del tren Os 3915 desde el km 47,510, es decir, 275 m antes de la señal principal (de entrada) S en el km 47,785, hasta el km 47,831, transcurre en una curva a la izquierda de 321 m de longitud, radio de 405 m, con sobreelevación de 77 mm. Desde el km 47,831 hasta el km 47,895 la vía transcurre en línea recta durante 64 m. Desde el km 47,895 hasta el km 47,951 la vía transcurre en una curva a la derecha de 56 m de longitud, radio de 800 m, sin sobreelevación. Desde el km 47,951 hasta el km 47,989 la vía transcurre en línea recta durante 38 m. Desde el km 47,989 hasta el km 48,409 sigue una curva a la derecha de 420 m de longitud, radio de 497 m, con sobreelevación de 59 mm. Desde el km 48,409 hasta el km 48,851, es decir, 96 m más allá del nivel de la señal principal (de salida) S1, la vía transcurre en línea recta durante 442 m; a continuación, desde el km 48,851 hasta el km 48,983 la vía transcurre en una curva a la izquierda de 132 m de longitud, radio de 270 m, con sobreelevación de 107 mm, a la que desde el km 48,983 se une de forma continua una curva a la izquierda de 222 m de longitud, radio de 310 m, con sobreelevación de 107 mm.
+En el km 49,051, es decir, 296 m más allá de la señal principal (de salida) S1, en la curva a la izquierda del extremo de vía de Branky se encuentra el PZP P 7290. Este está protegido por PZZ-RE con contadores de ejes, complementado con barreras completas y con señalización positiva.
+En los tramos de línea de vía única Osíčko – Kunovice-Loučka y Kunovice-Loučka – Branky na Moravě, las circulaciones de DV se protegen mediante oferta telefónica, recepción y desvío. El tramo de línea Osíčko – Kunovice-Loučka – Branky na Moravě está cubierto por la señal «Vf» del SRD a través del TRS, conectado en red en anillo, que permite en el canal compartido del anillo la conexión entre los jefes de estación de la estación correspondiente al tramo y los maquinistas de HDV equipados con la parte móvil del TRS, siempre dentro del alcance del ZRDS. Las islas de la red SRD las forman los ZRDS situados en las distintas estaciones. La última instrucción sobre el cambio de grupo de canal antes del lugar de origen de la MU se da al maquinista por la señal de radio con la indicación «Cambie el grupo de canal» en el sentido Kojetín – Valašské Meziříčí, en el tramo de línea Hulín – Valašské Meziříčí, en el km 18,560, y en el sentido contrario en el km 57,930. Los maquinistas son informados de la cobertura de la línea Valašské Meziříčí – Kojetín (línea n.º 304A) por el TRS y de los números de los grupos de canal también por los datos de la Tabla 1 del TTP 304A.
+La velocidad de la línea en el lugar de origen de la MU fue fijada por el gestor de la infraestructura en 70 km·h-1. La señal – limitador de velocidad N que ordena al maquinista de DV no superar la velocidad de 70 km·h-1 se encuentra, en el sentido de circulación del tren Os 3915, en el km 47,848, es decir, 907 m antes del lugar de origen de la MU.
+La velocidad máxima permitida del tren Os 3915 en el lugar de origen de la MU era de 70 km·h-1.
+### 2.2.4 Uso de los medios de comunicación
+Con motivo del origen de la MU en cuestión no se utilizaron los medios de comunicación.
+Los medios de comunicación se utilizaron únicamente después del origen de la MU para la parada de emergencia del tren Os 3915 y para comunicar el origen de la MU, concretamente en:
+• 14.55.28 h, a través del ZRDS TRS, el jefe de estación de Kunovice-Loučka envió la orden «PARADA GENERAL» para la parada de emergencia del tren Os 3915;
+• 14.56.00 h, a través del ZRDS TRS, el jefe de estación de Kunovice-Loučka informó al maquinista del tren Os 3915 del origen de la MU.
 
 ## Página 22
 
-### 2.2.5 Trabajos realizados en el lugar del suceso excepcional y en sus alrededores
-En el lugar de la MU, inmediatamente antes de su ocurrencia, no se realizaban por parte del propietario, del gestor de la infraestructura ni de otras personas, ningún trabajo de reparación o de mantenimiento.
-### 2.2.6 Activación del plan para el caso de suceso excepcional en la infraestructura y secuencia de acontecimientos
-14.59 h comunicada la ocurrencia de la MU por el jefe de estación según el horario de comunicación;
+### 2.2.5 Trabajos realizados en el lugar del suceso excepcional y en sus inmediaciones
+En el lugar del SE no se realizaron, inmediatamente antes de su producción, trabajos de reparación o de mantenimiento por parte del titular, del gestor de la vía ni de otras personas.
+### 2.2.6 Activación del plan para el caso de un suceso excepcional en la vía y secuencia de los hechos
+14.59 h se comunicó la producción del SE por parte del jefe de estación de acuerdo con el horario de comunicación;
 •
-15.10 h comunicada la ocurrencia de la MU por la persona autorizada OSB al COP DI;
+15.10 h se comunicó la producción del SE por parte de la persona autorizada OSB en el COP DI;
 •
-15.11 h concedido por el COP el consentimiento para iniciar los trabajos de despeje y la liberación de la infraestructura;
+15.11 h el COP concedió su autorización para el inicio de los trabajos de despeje y la liberación de la vía;
 •
-15.30 h inicio de la inspección del lugar de la ocurrencia de la MU por un empleado del OSB;
+15.30 h inicio de la inspección del lugar de producción del SE por parte de un empleado de OSB;
 •
 17.15 h restablecimiento de la circulación.
 •
-En el lugar de la MU estaban también presentes los jefes de los distintos componentes organizativos del gestor de la infraestructura y del transportista.
-La inspección del lugar de la ocurrencia de la MU se realizó sin la participación del DI, y de la inspección del lugar de la MU se levantó un acta independiente.
-### 2.2.7 Activación del plan del sistema integrado de emergencia, de la policía y del servicio médico de emergencia y secuencia de acontecimientos
+En el lugar del SE estaban presentes también los responsables de las distintas ramas organizativas del gestor de la vía y del transportista.
+La inspección del lugar de producción del SE se realizó sin la participación de DI; de la inspección del lugar del SE se levantó un acta independiente.
+### 2.2.7 Activación del plan del sistema integrado de emergencias, de la policía y del servicio médico de emergencias y secuencia de los hechos
 El plan IZS no fue activado.
 ## 2.3
 ### Fallecimientos, lesiones y daños materiales
-2.3.1 En pasajeros y terceras personas, empleados del gestor de la infraestructura y del transportista, incluidas personas en relación contractual
-En la MU no se produjo ningún perjuicio para la salud de los empleados del gestor de la infraestructura, del transportista, de las personas en relación contractual, ni de los pasajeros y terceras personas.
-### 2.3.2 En las cosas transportadas, equipajes y otros bienes
-No se produjo daño en las cosas transportadas, equipajes y otros bienes.
-### 2.3.3 En los vehículos ferroviarios, componentes de la vía de circulación y en el medio ambiente
-No se produjo daño en los vehículos ferroviarios, en los componentes de la vía de circulación ni en otros bienes.
+2.3.1 En los pasajeros y terceras personas, empleados del gestor de la vía y del transportista, incluidas las personas en relación contractual
+En el SE no se produjo daño alguno a la salud de los empleados del gestor de la vía, del transportista, de las personas en relación contractual, ni tampoco de los pasajeros y terceras personas.
+### 2.3.2 En las cosas transportadas, el equipaje y otros bienes
+No se produjo daño en las cosas transportadas, el equipaje ni otros bienes.
+### 2.3.3 En los vehículos ferroviarios, los componentes de la vía férrea y en el medio ambiente
+No se produjo daño en los vehículos ferroviarios, los componentes de la vía férrea ni en otros bienes.
 
 ## Página 23
 
@@ -758,61 +763,58 @@ nublado, temperatura +15 °C, lluvia, la visibilidad no se vio reducida
 por influencias meteorológicas (superior a 100 m).
 ## 3 REGISTRO DE LAS EXPLICACIONES PRESENTADAS
 ## 3.1
-### Resumen de las explicaciones presentadas (sujeto a la protección de la identidad de las personas)
+### Resumen de las explicaciones presentadas (sujeto a protección de la identidad de las personas)
 ### 3.1.1 Empleados del gestor de la infraestructura y del transportista, incluidas personas en relación contractual
 maquinista del tren Os 3915 – de las explicaciones presentadas se desprende, entre otros:
 •
-la entrada del tren Os 3915 en la est. Kunovice-Loučka estaba permitida por la señal «Aviso»
+la entrada del tren Os 3915 en la est. Kunovice-Loučka fue autorizada con la señal "Aviso"
 •
-indicada por la señal principal (de entrada) S de la est. Kunovice-Loučka;
-en la est. Kunovice-Loučka el tren Os 3915 se detuvo en la vía SK n.º 1. En la vía SK n.º 2, más
+emitida por la señal principal (de entrada) S de la est. Kunovice-Loučka;
+en la est. Kunovice-Loučka el tren Os 3915 se detuvo en la vía de estacionamiento nº 1. En la vía de estacionamiento nº 2, más cercana
 •
-cerca del edificio de mando, ya se encontraba el tren Os 3912, con el que el tren Os 3915
-realiza cruce regular en la est. Kunovice-Loučka;
-la salida y entrada de pasajeros la vigiló con la mirada desde la ventanilla lateral izquierda en
+al edificio de estación, ya se encontraba el tren Os 3912, con el que el tren Os 3915 realiza habitualmente el cruce en la est.
+Kunovice-Loučka;
+la salida y entrada de pasajeros la vigiló con la mirada desde la ventanilla lateral izquierda en el
 •
-la posición de conducción. Una vez finalizada la salida y entrada de pasajeros, recibió de la
-jefa de tren, que estaba de pie en las puertas traseras de acceso, la señal «Autorización para
-salir» del TDV de enlace. La emisión de esta señal no la inició la señal «Llamada a la
-disponibilidad»; la emisión de la señal «Llamada a la disponibilidad» la consideró la mirada
-mutua entre él
+puesto de conducción. Tras finalizar la salida y entrada de pasajeros, recibió del
+jefe de tren situado en las puertas de entrada traseras del coche de viajeros anexo TDV la señal
+"Permiso para la salida". La emisión de esta señal no la inició con la señal "Llamada a la preparación";
+consideró como señal "Llamada a la preparación" la mirada mutua entre él
 •
-y la jefa de tren del tren Os 3915;
-tras recibir la señal «Autorización para salir», sin comprobar la señal
+y el jefe de tren del tren Os 3915;
+tras recibir la señal "Permiso para la salida", sin comprobar la señal
 •
-indicada por la señal principal (de salida) S1, puso el tren en movimiento. Durante la marcha
-hacia la señal principal (de salida) S1 no vigiló la señal
-indicada por esta señal;
+emitida por la señal principal (de salida) S1, puso el tren en movimiento. Durante
+la marcha hacia la señal principal (de salida) S1 no vigiló la señal
+emitida por dicha señal;
 durante la puesta en marcha registró vehículos automóviles que se detenían ante el PZZ
 •
-situado en el extremo de Branky de la est. Kunovice-Loučka en el km 49,051. Si el PZZ
-estaba en funcionamiento, no lo vio desde la posición de conducción;
-la señal «Alto, deténgase por todos los medios», emitida por el jefe de estación de la est.
+situado en el extremo de la estación de Branky de la est. Kunovice-Loučka en el km 49,051. Si el
+PZZ estaba en funcionamiento, no lo pudo ver desde el puesto de conducción;
+la señal "Alto, deténgase por todos los medios", emitida por el jefe de estación de la est. Kunovice-
 •
-Kunovice-Loučka desde el andén junto al edificio de mando, no la registró;
-en el extremo en dirección a la est. Branky na Moravě el tren Os 3915 fue detenido de
+Loučka desde el andén junto al edificio de estación, no la registró;
+en el extremo en dirección a la est. Branky na Moravě el tren Os 3915 fue
 •
-emergencia mediante la función TRS «Parada general». El tren se detuvo con la cabecera en el
-extremo de la est. Kunovice-Loučka, aún antes del PZZ en el km 49,051;
-tras la detención del tren, fue informado por el jefe de estación de la est. Kunovice-Loučka
+detenido de emergencia por la función TRS "Parada general". El tren se detuvo con el morro en el extremo de la est. Kunovice-Loučka,
+aún antes del PZZ en el km 49,051;
+tras la detención del tren, el jefe de estación de la est. Kunovice-Loučka le informó de la aparición
 •
-del origen de la MU;
-antes y durante el turno no registró ninguna anomalía relativa al desempeño de su servicio,
+de la MU;
+antes y durante el turno no registró ninguna anomalía relativa al desempeño
 •
-no estaba alterado por nada;
-jefe de estación de la est. Kunovice-Loučka – de la explicación presentada se desprende,
+del servicio, no se sintió alterado por nada;
+jefe de estación de la est. Kunovice-Loučka – de la explicación presentada se desprende, entre otros:
 •
-entre otros:
-esperaba la llegada del tren Os 3912 desde la est. Branky na Moravě frente al edificio de
+esperaba la llegada del tren Os 3912 desde la est. Branky na Moravě delante del edificio de estación.
 •
-mando. El tren se detuvo en la est. Kunovice-Loučka a las 14.51 h en la vía SK n.º 2 con 1
-min. de adelanto;
-tras la llegada del tren Os 3912 y comprobar con la mirada desde el andén frente al edificio
+El tren se detuvo en la est. Kunovice-Loučka a las 14.51 h en la vía de estacionamiento nº 2 con 1 min. de antelación;
+tras la llegada del tren Os 3912 y comprobar con la mirada desde el andén delante del
 •
-de mando el final del tren, que el tren estaba completo, se dirigió a la DK y dio tras este tren la
-
+edificio de estación el final del tren, de que el tren estaba completo, se dirigió a la sala de mando y tras este tren dio
 
 ## Página 24
+
 
 notificación a la est. Branky na Moravě y a la vez ofreció el tren Os 3915 con salida prevista a
 las 14.56 h. El tren Os 3915 fue aceptado por el jefe de estación de la est. Branky na Moravě;
@@ -875,46 +877,27 @@ tras la puesta en marcha del tren, el tren se detuvo de forma excepcional, a con
 •
 comprobó que se había producido la MU.
 
-
 ## Página 25
 
 ### 3.1.2 Otras personas
-Otras personas no fueron participantes ni testigos de la MU en cuestión.
+Otras personas no fueron participantes ni testigos del siniestro ferroviario objeto de investigación.
 ## 3.2
 ### Sistema de garantía de la seguridad
 ### 3.2.1 Organización marco y forma en que se emiten y ejecutan las instrucciones
-El gestor de la infraestructura SŽDC, s. o., y el transportista ČD, a. s., cuentan con un
-sistema de garantía de la seguridad adoptado.
-En los sistemas de garantía de la seguridad adoptados por el gestor de la infraestructura y el
-transportista relacionados con las circunstancias del origen de esta MU concreta no se
-detectaron deficiencias.
-### 3.2.2 Requisitos para los empleados del gestor de la infraestructura y del transportista y su aplicación
-Los requisitos para los empleados del gestor de la infraestructura y del transportista,
-especialmente los requisitos de idoneidad profesional y sanitaria, están establecidos por la ley
-n.º 266/1994 Sb., el decreto n.º 173/1995 Sb., el decreto n.º 101/1995 Sb., el decreto n.º
-16/2012 Sb. y las normas internas del gestor de la infraestructura y del transportista.
-En el momento del origen de la MU en cuestión, todas las personas del gestor de la
-infraestructura SŽDC, s. o., y del transportista ČD, a. s., involucradas en la MU y que
-realizaban actividades en la explotación de la infraestructura y del transporte ferroviario eran
-profesionalmente idóneas para el desempeño de la función que ocupaban.
-### 3.2.3 Procedimiento de control interno de seguridad y sus resultados
-En el procedimiento de control interno de seguridad del gestor de la infraestructura y del
-transportista no se detectaron deficiencias.
-### 3.2.4 Interfaz entre los distintos sujetos implicados y los componentes de la vía de tráfico
-El propietario de la infraestructura ferroviaria, categoría nacional, Kojetín – Valašské
-Meziříčí, es la República Checa en derecho de gestión de SŽDC, s. o., con domicilio en
-Dlážděná 1003/7, Praha 1 – Nové Město, PSČ 110 00.
-El gestor de la infraestructura ferroviaria, categoría nacional, Kojetín – Valašské Meziříčí, es
-SŽDC, s. o., con domicilio en Dlážděná 1003/7, Praha 1 – Nové Město, PSČ 110 00, en
-virtud de la Autorización Administrativa emitida por el DÚ el 29. 5. 2008, bajo n.º de
-expediente: 3-4277/07-DÚ/Le, n.º de registro: ÚP/2008/9002, en su versión vigente.
-El transportista del tren Os 3915 fue ČD, a. s., con domicilio en Nábřeží L. Svobody 1222,
-Praha 1, PSČ 110 15, en virtud de la Licencia de transportista concedida por decisión del DÚ
-el 17. 9. 2003, bajo n.º de expediente: 3-2169/03-DÚ/Bp, n.º de registro: L/2003/9000, en su
-versión vigente.
-
+El gestor de la infraestructura SŽDC, s. o., y el transportista ČD, a. s., disponen de un sistema de garantía de la seguridad adoptado.
+En los sistemas de garantía de la seguridad adoptados por el gestor de la infraestructura y el transportista, relativos a las circunstancias de producción del presente siniestro ferroviario, no se detectaron deficiencias.
+### 3.2.2 Requisitos aplicables al personal del gestor de la infraestructura y del transportista y su cumplimiento
+Los requisitos aplicables al personal del gestor de la infraestructura y del transportista, en particular los relativos a su idoneidad profesional y sanitaria, están establecidos por la Ley n.º 266/1994 Sb., por el Decreto n.º 173/1995 Sb., por el Decreto n.º 101/1995 Sb., por el Decreto n.º 16/2012 Sb. y por las normas internas del gestor de la infraestructura y del transportista.
+En el momento de producción del siniestro ferroviario objeto de investigación, todas las personas del gestor de la infraestructura SŽDC, s. o., y del transportista ČD, a. s., involucradas en el siniestro y que desempeñaban actividades en la explotación de la infraestructura y del transporte ferroviario reunían la idoneidad profesional para el ejercicio de la función desempeñada.
+### 3.2.3 Procedimiento de control interno de la seguridad y sus resultados
+En el procedimiento de control interno de la seguridad del gestor de la infraestructura y del transportista no se detectaron deficiencias.
+### 3.2.4 Interfaz entre los distintos sujetos implicados y los componentes de la vía
+El propietario de la vía férrea, categoría de ámbito nacional, Kojetín – Valašské Meziříčí, es la República Checa en el derecho de gestión de SŽDC, s. o., con domicilio en Dlážděná 1003/7, Praha 1 – Nové Město, CP 110 00.
+El gestor de la vía férrea, categoría de ámbito nacional, Kojetín – Valaške Meziříčí, es SŽDC, s. o., con domicilio en Dlážděná 1003/7, Praha 1 – Nové Město, CP 110 00, en virtud de la Autorización Administrativa emitida por el DÚ el 29. 5. 2008, con n.º de expediente: 3-4277/07-DÚ/Le, n.º de registro: ÚP/2008/9002, en su versión vigente.
+El transportista del tren Os 3915 era ČD, a. s., con domicilio en Nábřeží L. Svobody 1222, Praha 1, CP 110 15, en virtud de la Licencia de transportista concedida por resolución del DÚ el 17. 9. 2003, con n.º de expediente: 3-2169/03-DÚ/Bp, n.º de registro: L/2003/9000, en su versión vigente.
 
 ## Página 26
+
 
 El transportista era titular del «CERTIFICADO DE SEGURIDAD, NÚMERO DE
 IDENTIFICACIÓN DE LA UE: CZ1120130004», emitido por el DÚ el 28. 2. 2013, número de
@@ -977,6 +960,7 @@ infraestructura
 
 ## Página 27
 
+
 y el operador ferroviario adopta, teniendo en cuenta la evaluación de las causas y circunstancias de la aparición del suceso extraordinario, la responsabilidad determinada o, en su caso, sobre la base de la recomendación
 ### de seguridad de la Inspección Ferroviaria, las medidas propias correspondientes para la prevención de
 sucesos extraordinarios y garantiza la verificación periódica de su cumplimiento».
@@ -1007,8 +991,8 @@ art. 4 de la norma interna ČD D 17, donde se indica, entre otras cosas:
 •
 «... El explotador de la infraestructura y del transporte ferroviario adopta, teniendo en cuenta la evaluación de las causas y circunstancias de la aparición del SE, la responsabilidad determinada o, en su caso, sobre la base de la recomendación de seguridad de la IF, las medidas propias correspondientes para la prevención del SE y garantiza la verificación periódica de su cumplimiento. …».
 
-
 ## Página 28
+
 
 ## 3.4
 ### Funcionamiento de los vehículos ferroviarios y de las instalaciones técnicas
@@ -1032,8 +1016,8 @@ parte fija del sistema de automatización del mando de los vehículos sobre raí
 AVV dirige activamente la marcha del tren, p. ej. la parada segura del tren antes de la señal principal que prohíbe la marcha, pero por su naturaleza no es un dispositivo de seguridad).
 La est. Kunovice-Loučka está atendida por un jefe de estación, que organiza y dirige el transporte ferroviario en el ámbito de la est. Kunovice-Loučka y en los tramos entre estaciones adyacentes Branky na Moravě – Kunovice-Loučka y Kunovice-Loučka – Osíčko. La expedición de trenes con transporte de pasajeros que permanecen (regular o extraordinariamente) en el espacio de acceso y salida de pasajeros en la est. Kunovice-Loučka se realizaba en el sentido de los procedimientos tecnológicos del explotador de la infraestructura, contenidos en los arts. 505 y 502 de la norma interna SŽDC (ČD) D2. La orden de salida del tren la da el jefe de estación al maquinista de la DV de mando mediante la colocación de la señal principal (de salida) en la señal que permite la marcha, incluida la señal de llamada. Este modo de expedición del tren fue en la est. Kunovice-
 
-
 ## Página 29
+
 
 Loučka introducido por el explotador de la infraestructura sobre la base de la 1.ª modificación del SŘ de la est. Kunovice-Loučka, expedida bajo el n.º de ref.: 7213/2012-OŘ OLC, el 30 de noviembre de 2012, en vigor desde el 9 de diciembre de 2012 (en adelante, 1.ª modificación del SŘ), es decir, desde la vigencia del GVD 2012/2013.
 En las estaciones en las que el explotador de la infraestructura hubiera permitido la expedición de trenes mediante la colocación de la señal principal en la señal que permite la marcha (incluida la PN), es decir, también en la est. Kunovice-Loučka, y el maquinista de la DV de mando ve las señales de esta señal, antes de la salida de un tren con transporte de pasajeros que permanece regular o extraordinariamente en el espacio de acceso y salida de pasajeros, se establecía hasta el 1 de julio de 2013 el siguiente procedimiento:
@@ -1082,6 +1066,7 @@ ya ha llegado la hora de salida según el horario, con independencia de un posib
 adicional de pasajeros;
 
 ## Página 30
+
 
 el maquinista fue informado por el jefe de estación sobre la prolongación de la permanencia por motivos de
 •
@@ -1151,8 +1136,8 @@ la entrada en vigor de la 1.ª modificación del SR (una medida de seguridad: el
 con la que se introdujo la expedición de trenes con transporte de pasajeros que se detienen
 regular o extraordinariamente en la zona de desembarque y embarque de pasajeros
 
-
 ## Página 31
+
 
 mediante la colocación del semáforo principal (de salida) en la señal que permite la
 circulación (incluida la PN), véase el punto 3.7.
@@ -1200,99 +1185,43 @@ maquinista (operación del botón de vigilancia) a la actuación del dispositivo
 requiere, no permite, en caso de fallo (fallo o error) del maquinista, una intervención
 activa en la conducción del tren (parada de emergencia del DV).
 
-
 ## Página 32
 
-El HDV 842.011-9, en el momento del accidente ferroviario, de conformidad con el apartado
-5 de la parte II del anexo 3 del decreto 173/1995 Sb., estaba equipado con un dispositivo
-registrador, un velocímetro electrónico de registro n.º 2095. De los datos registrados se
-desprende, entre otros:
-a las 14.54.37 h el tren Os 3915 se detuvo en la estación Kunovice-Loučka, con una
-•
-adelanto de aprox. 1 min;
-a las 14.55.07 h se registra la puesta en movimiento del tren Os 3915 en la estación
-•
-Kunovice-Loučka, lo que constituye una puesta en movimiento del tren con un
-adelanto de 53 s (aprox. 1 min.);
-### La declaración indicada, en relación con lo dispuesto en el art. 197 del reglamento
-### interno SŽDC (ČD) D2, el art. 91 letra a) del reglamento interno ČD V 2 y el § 35
-### apartado 1 letra j) del decreto 173/1995 Sb., constituye el incumplimiento de lo
-### dispuesto en el § 35 apartado 1 letra a) y el § 36 letra a) de la ley 266/1994 Sb;
-el accidente ferroviario se produjo a las 14.55.24 h, [hora de paso del nivel del
-•
-semáforo principal (de salida) S1] a una velocidad de 27 km·h-1;
-con una aceleración suave se alcanzó una velocidad de 41 km·h-1 en un tramo de 157 m;
-•
-a las 14.55.35 h se registra la caída de la válvula del VZ como consecuencia de la
-•
-emisión de la orden «PARADA GENERAL»;
-a las 14.55.45 h el tren se detuvo de emergencia;
-•
-la velocidad máxima permitida del tren Os 3915 (70 km·h-1) no fue superada en el
-•
-lugar del accidente ferroviario;
-el dispositivo de control de vigilancia del maquinista estaba activado y fue operado
-•
-correctamente por el maquinista durante todo el trayecto del tren.
-
+El HDV 842.011-9 estaba equipado, en el momento de la creación del MU, de acuerdo con el apartado 5 de la parte II del anexo n.º 3 de la disposición n.º 173/1995 Sb., con un dispositivo registrador, velocímetro electrónico de registro n.º 2095. De los datos registrados se desprende, entre otros:
+• a las 14.54.37 h el tren Os 3915 se detuvo en la est. Kunovice-Loučka, con una anticipación de aprox. 1 min;
+• a las 14.55.07 h se registra la puesta en marcha del tren Os 3915 en la est. Kunovice-Loučka, lo que constituye una puesta en marcha del tren con una anticipación de 53 s (aprox. 1 min);
+### La indicación anterior es, en relación con lo dispuesto en el artículo 197 de la norma interna de SŽDC (ČD) D2, el artículo 91, letra a), de la norma interna de ČD V 2 y el apartado 1, letra j), del artículo 35 de la disposición n.º 173/1995 Sb., un incumplimiento de lo dispuesto en el apartado 1, letra a), del artículo 35 y en la letra a) del artículo 36 de la ley n.º 266/1994 Sb;
+• la creación del MU se produjo a las 14.55.24 h, [hora de paso del nivel de la señal principal (de salida) S1] a una velocidad de 27 km·h-1;
+• con una aceleración suave se alcanzó una velocidad de 41 km·h-1 en una distancia de 157 m;
+• a las 14.55.35 h se registra la caída de la válvula VZ como consecuencia de la emisión de la orden «GENERÁLNÍ STOP»;
+• a las 14.55.45 h el tren se detuvo de emergencia;
+• la velocidad máxima permitida del tren Os 3915 (70 km·h-1) no fue superada en el lugar de creación del MU;
+• el dispositivo de control de la vigilancia del maquinista estaba activado y fue operado correctamente por el maquinista durante todo el trayecto del tren.
 Se detectó una deficiencia.
 ## 3.5
-### Documentación del sistema operativo
-### 3.5.1 Medidas adoptadas por el personal del gestor de la infraestructura y del operador
-en lo que respecta a la dirección, señalización y protección de la circulación
-El 2. 5. 2013, el jefe de estación de la estación Kunovice-Loučka realizó el cruce de los
-trenes Os 3912 y Os 3915. El tren Os 3912 llegó a la estación Kunovice-Loučka en la vía
-SK n.º 2 a las 14.51 h. Tras comprobar visualmente desde el andén delante del edificio de
-estación que el tren Os 3912 había llegado completo a la estación, el jefe de estación de la
-estación Kunovice-Loučka envió a la estación Branky na Moravě, tras el tren Os 3912, la
-notificación de salida y, a la vez, realizó la oferta del tren Os 3915. El jefe de estación de la
-estación Branky na Moravě aceptó el tren Os 3915. El tren Os 3915 se detuvo en la vía SK
-n.º 1 a las 14.54 h con un adelanto de 1 min, en la zona destinada al desembarque y
-embarque de pasajeros, a 54 m del nivel del semáforo principal (de salida) S1, que en ese
-momento indicaba la señal «Alto». Esta señal prohibía la salida del tren Os 3915 de la vía
-SK n.º 1 y no permitía al maquinista poner el tren en movimiento. La señal «Alto» del
-semáforo principal (de salida) S1 era visible desde la cabina del maquinista del HDV
-842.011-9 del tren Os 3915. La entrada del tren en la estación Kunovice-Loučka estaba
-permitida por la señal «Aviso» del semáforo principal (de entrada) S. Esta señal
-preindicó al maquinista del tren Os 3915 la señal «Alto» en el siguiente semáforo
-principal, que era el semáforo principal (de salida) S1.
-
-El jefe de estación de la estación Kunovice-Loučka, tras comprobar visualmente desde el
-andén delante del edificio de estación que el tren Os 3915 había llegado completo a la
-estación, volvió a la sala de mando y envió a la estación vecina Osíčko, tras el tren Os 3915,
-la notificación de salida y, a la vez, realizó la oferta del tren Os 3912, que el jefe de
-estación de la estación Osíčko aceptó. Posteriormente, el jefe de estación de la estación
-Kunovice-Loučka realizó la preparación y constitución de la vía de tren para el tren Os 3915
-en dirección a Branky na Moravě
+### Documentación sobre el sistema de explotación
+### 3.5.1 Medidas adoptadas por el personal del gestor de la infraestructura y del transportista en materia de gestión, señalización y seguridad del tráfico
+El 2. 5. 2013, el jefe de estación de la est. Kunovice-Loučka realizó el cruce de los trenes Os 3912 y Os 3915. El tren Os 3912 llegó a la est. Kunovice-Loučka en la SK n.º 2 a las 14.51 h. Tras comprobar visualmente desde el andén, frente al edificio de estación, que el tren Os 3912 había llegado completo a la estación, el jefe de estación de Kunovice-Loučka envió al jefe de estación de Branky na Moravě la notificación de salida del tren Os 3912 y, al mismo tiempo, realizó la oferta del tren Os 3915. El jefe de estación de Branky na Moravě aceptó el tren Os 3915. El tren Os 3915 se detuvo en la SK n.º 1 a las 14.54 h con una anticipación de 1 min, y ello en el espacio destinado a la bajada y subida de pasajeros, a 54 m del nivel de la señal principal (de salida) S1, que en ese momento mostraba la señal «Stůj». Esta señal prohibía la salida del tren Os 3915 desde la SK n.º 1 y no permitía al maquinista poner el tren en marcha. La señal «Stůj» de la señal principal (de salida) S1 era visible desde la cabina de conducción del HDV 842.011-9 del tren Os 3915. La entrada del tren en la est. Kunovice-Loučka estaba permitida por la señal «Výstraha» de la señal principal (de entrada) S. Esta señal anunciaba al maquinista del tren Os 3915 la señal «Stůj» en la siguiente señal principal, que era la señal principal (de salida) S1.
+El jefe de estación de Kunovice-Loučka, tras comprobar visualmente desde el andén, frente al edificio de estación, que el tren Os 3915 había llegado completo a la estación, volvió a la DK y envió al jefe de estación de la estación vecina Osíčko la notificación de salida del tren Os 3915 y, al mismo tiempo, realizó la oferta del tren Os 3912, que el jefe de estación de Osíčko aceptó. Posteriormente, el jefe de estación de Kunovice-Loučka realizó la preparación y el establecimiento de la vía de tren para el tren Os 3915 en dirección a Branky na Moravě
 
 ## Página 33
 
-a poté para el tren Os 3912 en dirección Osíčko. Tras realizar la preparación y establecer la vía de tren para el tren Os 3915, en la señal principal (de salida) S1 no se encendió la señal que autoriza la circulación, la salida del tren Os 3915. El encendido de la señal autorizante dependía del transcurso del tiempo de retardo en el encendido de la señal PZZ ŽP en el km 49,051, es decir, del tiempo durante el cual, tras la activación de la alarma, se permite encender la señal autorizante (excepto PN).
-El maquinista vigilaba la subida y bajada de pasajeros con la mirada desde la ventanilla lateral izquierda en la cabina de conducción. En el momento en que se estableció la vía de tren para el tren Os 3915 y la señal principal (de salida) S1 seguía indicando la señal "Alto" con luz roja (por no haber transcurrido el tiempo de retardo en el encendido de la señal), por parte del acompañamiento del tren Os 3915, tras finalizar la subida y bajada de pasajeros, se iniciaron los procedimientos previos a la salida del tren. El inicio de estos procedimientos no fue iniciado por la señal "Llamada a la disponibilidad" dada por el maquinista, sino por la mirada mutua entre este y el jefe de tren. El jefe de tren avisó a los pasajeros de la salida del tren con el silbato de señales. A continuación, subió por las puertas de acceso traseras del TDV detrás del HDV y dio al maquinista la señal "Consentimiento para la salida". El procedimiento del acompañamiento del tren (maquinista y jefe de tren) Os 3915 antes de poner el tren en movimiento, es decir, también la entrega de la señal "Consentimiento para la salida", se llevó a cabo de conformidad con los procedimientos tecnológicos uniformes del transportista, aunque la señal principal (de salida) S1 de la est. Kunovice-Loučka indicaba la señal "Alto" y no había llegado la hora de salida del tren según el horario.
-El maquinista, tras recibir la instrucción "Consentimiento para la salida", cerró las puertas de acceso de control centralizado. Sin que hubiera llegado la hora de salida según el horario y tras verificar visualmente
-### si la señal principal (de salida) S1 autorizaba la circulación, puso el tren en movimiento de forma no autorizada. La señal principal (de salida) S1 de la est. Kunovice-Loučka seguía indicando la señal "Alto" y el maquinista no recibió ninguna otra autorización para poner el tren en movimiento establecida por el gestor de la infraestructura.
-### La presente constatación se relaciona con lo dispuesto en el art. 197, art. 505 ap. d) de la normativa interna de SŽDC (ČD) D2, art. 91 ap. a) de la normativa interna de ČD V 2 y § 35
-### ap. 1 ap. f), h) y j) del decreto n.º 173/1995 Sb., por incumplimiento del § 35 ap. 1 ap. a)
-### y ap. g) y § 36 ap. a) de la ley n.º 266/1994 Sb.
-Durante la circulación hacia la señal principal (de salida) S1 no vigiló la señal indicada por esta señal, no se detuvo
+a poté para el tren Os 3912 en dirección Osíčko. Tras realizar la preparación y establecer la ruta de tren para el tren Os 3915, en la señal principal (de salida) S1 no se encendió la señal que autoriza la circulación, la salida del tren Os 3915. El encendido de la señal autorizante dependía del transcurso del tiempo de retardo del encendido de la señal PZZ ŽP en el km 49,051, es decir, del tiempo durante el cual, tras la activación de la alarma, se permite encender la señal autorizante (excepto PN).
+El maquinista observaba con la vista, desde la ventana lateral izquierda de la cabina de conducción, el embarque y desembarque de los pasajeros. En el momento en que se había establecido la ruta de tren para el tren Os 3915 y la señal principal (de salida) S1 seguía indicando con luz roja la señal «Alto» (por no haber transcurrido el tiempo de retardo del encendido de la señal), por parte del acompañamiento del tren Os 3915, tras finalizar el embarque y desembarque de los pasajeros, se iniciaron los procedimientos previos a la salida del tren. El inicio de estos procedimientos no fue iniciado por la señal «Llamada a la preparación» dada por el maquinista, sino por la mirada mutua entre este y el jefe de tren. El jefe de tren avisó a los pasajeros de la salida del tren con el silbato de señales. A continuación, subió por las puertas de acceso traseras del TDV detrás del HDV y dio al maquinista la señal «Consentimiento para la salida». El procedimiento del acompañamiento del tren (maquinista y jefe de tren) Os 3915 antes de poner el tren en movimiento, es decir, también la entrega de la señal «Consentimiento para la salida», se llevó a cabo de acuerdo con los procedimientos tecnológicos uniformes del transportista, aunque la señal principal (de salida) S1 de la est. Kunovice-Loučka indicaba la señal «Alto» y no había llegado la hora de salida del tren según el horario.  
+El maquinista, tras recibir la instrucción «Consentimiento para la salida», cerró las puertas de acceso de control centralizado. Sin que hubiera llegado la hora de salida según el horario y tras comprobar visualmente
+### si la señal principal (de salida) S1 autorizaba la circulación, puso el tren en movimiento de forma no autorizada. La señal principal (de salida) S1 de la est. Kunovice-Loučka seguía indicando la señal «Alto» y el maquinista no recibió ninguna otra autorización para poner el tren en movimiento establecida por el gestor de la vía.
+### La presente constatación se refiere al incumplimiento del § 35 apartado 1 letra a)
+### y letra g) y del § 36 letra a) de la ley núm. 266/1994 Sb., en relación con las disposiciones del art. 197, art. 505 letra d) de la normativa interna de SŽDC (ČD) D2, art. 91 letra a) de la normativa interna de ČD V 2 y del § 35 apartado 1 letras f), h) y j) del decreto núm. 173/1995 Sb.
+Durante la marcha hacia la señal principal (de salida) S1, no vigiló la señal indicada por esta señal, no se detuvo
 ### delante de la señal principal (de salida) S1 y continuó la circulación no autorizada más allá de esta señal.
-### La presente constatación se relaciona con lo dispuesto en el art. 120 de la normativa interna
-### de SŽDC (ČD) D1, art. 23 ap. c), art. 90 y art. 91 ap. a) de la normativa interna de ČD V 2 y § 35
-### ap. 1 ap. f) y m) del decreto n.º 173/1995 Sb., por incumplimiento del § 35 ap. 1 ap. a) y g)
-### de la ley n.º 266/1994 Sb.
-La puesta en movimiento no autorizada del tren Os 3915 fue registrada por el jefe de estación de la est. Kunovice-Loučka
-en el momento en que se encontraba en la DK. Tras constatar la situación, salió al andén
-delante del edificio de estación y, dando la señal "Alto, deténganse por todos los medios", intentó
-detener el tren. Como no se reaccionó a esta señal, volvió a la oficina de tráfico y, con la orden "PARADA GENERAL",
-enviada a través de ZRDS TRS, dio la instrucción de detención de emergencia del tren.
-El tren Os 3915 se detuvo en el extremo de la estación, a 172 m
-con el frente del tren más allá del nivel de la señal principal (de salida) S1 de la est. Kunovice-Loučka.
-### 3.5.2 Intercambio de comunicaciones verbales en relación con el suceso ferroviario, incluidos
-los registros del dispositivo de registro
-En relación con el SU no se produjo ninguna comunicación verbal que influyera en la aparición del SU.
-
+### La presente constatación se refiere al incumplimiento del § 35 apartado 1 letra a) y letra g)
+### de la ley núm. 266/1994 Sb., en relación con las disposiciones del art. 120 de la normativa interna de SŽDC (ČD) D1, art. 23 letra c), art. 90 y art. 91 letra a) de la normativa interna de ČD V 2 y del § 35 apartado 1 letras f) y m) del decreto núm. 173/1995 Sb.
+El jefe de estación de la est. Kunovice-Loučka registró la puesta en movimiento no autorizada del tren Os 3915 en el momento en que se encontraba en la DK. Tras constatar la situación, salió al andén delante del edificio de estación y, mediante la señal «Alto, deténgase por todos los medios», intentó detener el tren. Como no se respondió a esta señal, volvió a la oficina de tráfico y, mediante la orden «GENERÁLNÍ STOP», enviada a través de ZRDS TRS, dio la instrucción de parada de emergencia del tren. El tren Os 3915 se detuvo en el extremo de la aguja, a 172 m por delante de la cabeza del tren respecto al nivel de la señal principal (de salida) S1 de la est. Kunovice-Loučka.
+### 3.5.2 Intercambio de comunicaciones verbales en relación con el suceso excepcional, incluidos los registros del dispositivo de registro
+En relación con el SU, no se produjo ninguna comunicación verbal que influyera en la causa del SU.
 
 ## Página 34
+
 
 ### 3.5.3 Medidas adoptadas para la protección y aseguramiento del lugar del suceso ferroviario
 El lugar del SU fue asegurado por la persona cualificada designada del gestor de la infraestructura
@@ -1325,8 +1254,8 @@ La disposición y el equipamiento del puesto de mando del empleado del gestor de
 (jefe de estación de la est. Kunovice-Loučka) y del transportista (maquinista del tren Os 3915) no guardaba
 relación con la aparición del SU.
 
-
 ## Página 35
+
 
 ## 3.7
 ### Sucesos ferroviarios anteriores de carácter similar
@@ -1354,6 +1283,7 @@ la medida de seguridad constituida por el jefe de estación, y en modo alguno la
 ### ap. d) de la ley n.º 266/1994 Sb. y § 13 ap. 1 del decreto n.º 376/2006 Sb.
 
 ## Página 36
+
 
 |  | Informe sobre los resultados de la investigación de las causas y circunstancias del origen del suceso ferroviario |
 | • | A sucesos similares al SU del transportista ČD y s se produjeron: , . ., en el año 2005 2x; ...................................................................................................... |
@@ -1389,53 +1319,26 @@ modificar los procedimientos tecnológicos unificados antes de poner en movimien
 •
 pasajeros que se encuentra en la zona destinada al desembarque y embarque de pasajeros en una estación donde se permite la expedición del tren mediante la colocación de la señal principal en la señal que permite la circulación del tren, incluida la PN, de modo que el inicio del procedimiento antes de poner el tren en movimiento sea siempre iniciado por el maquinista del jefe de DV, y ello mediante la señal «Llamada a la disponibilidad» dada verbalmente, mediante un
 
-
 ## Página 37
 
-aparato de señal o mediante un dispositivo técnico.
-### Hasta la fecha de emisión de este Informe sobre los resultados de la investigación de las causas y circunstancias del origen del SU
-el transportista ČD, a. s., no ha adoptado, teniendo en cuenta la evaluación de las causas y circunstancias del origen de los SU
-### anteriormente mencionados, la responsabilidad detectada o, en su caso, con base en las recomendaciones de seguridad de la DI, con excepción de las medidas en el sentido de la Ley n.º 262/2006 Sb., de suspensión de la competencia profesional del maquinista, de refuerzo de la actividad preventiva (de control) y de puesta en conocimiento del resto de empleados del desarrollo, causas y consecuencias de los SU mencionados, ninguna medida propia correspondiente (eficaz, sistémica) para la prevención de SU, véase también el punto 3.4.1. A sucesos similares, y con una tendencia creciente, siguen produciéndose.
-El hallazgo anteriormente mencionado constituye, en relación con lo dispuesto en el art. 4 de la norma interna de ČD D 17, art. 2 letra i) del Anexo n.º 1 al decreto n.º 376/2006 Sb., un incumplimiento del § 35 apartado 2 letra f)
-### de la Ley n.º 266/1994 Sb. y del § 13 apartado 1 del decreto n.º 376/2006 Sb.
+pomůckou nebo technickým zařízením.
+### Hasta la fecha de emisión de este Informe de resultados de la investigación de las causas y circunstancias de la aparición de MU
+el transportista ČD, a. s., no ha adoptado, teniendo en cuenta la evaluación de las causas y circunstancias de la aparición de las MU
+### arriba mencionadas, las responsabilidades determinadas, o en su caso sobre la base de las recomendaciones
+de seguridad de DI, salvo las medidas en el sentido de la ley nº 262/2006 Sb., la suspensión de la cualificación profesional del maquinista, el refuerzo de la actividad preventiva (de control) y la información al resto de empleados sobre el desarrollo, las causas y las consecuencias de las MU mencionadas, ninguna medida propia correspondiente (eficaz, sistémica) para la prevención de las MU, véase también el punto 3.4.1. A MU similares, y con una tendencia creciente, siguen produciéndose.
+El hallazgo mencionado constituye, en relación con lo dispuesto en el artículo 4 de la norma interna de ČD D 17, el artículo 2, letra i) del Anexo nº 1 al decreto nº 376/2006 Sb., un incumplimiento del § 35, apartado 2, letra f)
+### de la ley nº 266/1994 Sb. y del § 13, apartado 1 del decreto nº 376/2006 Sb.
 ## 4 ANÁLISIS Y CONCLUSIONES
 ## 4.1
-### Descripción final del suceso ferroviario
-### 4.1.1 Descripción final del suceso ferroviario con base en los hechos detectados
+### Descripción final del suceso excepcional
+### 4.1.1 Descripción final del suceso excepcional basada en los hechos determinados
 en el punto 3
-El 2. 5. 2013 el jefe de estación de la est. Kunovice-Loučka realizó el cruce de los trenes Os 3912
-y Os 3915. El tren Os 3912 llegó a la est. Kunovice-Loučka a la SK n.º 2, donde se detuvo a las
-14.51 h. Tras comprobar visualmente desde el andén, frente al edificio de mando, que el tren Os 3912 había llegado
-a la est. completo, el jefe de estación de la est. Kunovice-Loučka dio a la est. Branky na Moravě tras el tren
-Os 3912 la notificación de salida y a la vez realizó la oferta del tren Os 3915. El jefe de estación de la est. Branky na
-Moravě aceptó el tren Os 3915. El tren Os 3915 llegó a la est. Kunovice-Loučka a la SK n.º 1, donde
-se detuvo a las 14.54 h con 1 min de adelanto, y ello en la zona destinada al desembarque y embarque
-de pasajeros, 54 m antes del nivel de la señal principal (de salida) S1, que en ese momento
-mostraba la señal «Alto». Esta señal prohibía la salida del tren Os 3915 desde la SK n.º 1
-y no permitía al maquinista poner el tren en movimiento. La señal «Alto» de la señal principal
-(de salida) S1 era visible desde la cabina de conducción del HDV 842.011-9 del tren
-Os 3915, su visibilidad no fue interrumpida por obstáculos móviles o fijos.
-La entrada del tren en la est. Kunovice-Loučka fue permitida por la señal «Aviso» de la señal principal
-(de entrada) S. Esta señal anunció al maquinista del tren Os 3915 la señal «Alto» en la
-siguiente señal principal, que era la señal principal (de salida) S1. 
-El jefe de estación de la est. Kunovice-Loučka, tras comprobar visualmente desde el andén, frente al
-edificio de mando, que el tren Os 3915 había llegado a la est. completo, volvió a la DK y dio al
-jefe de estación de la estación vecina Osíčko tras el tren Os 3915 la notificación de salida y a la vez realizó la oferta del tren
-Os 3912, que el jefe de estación de la est. Osíčko aceptó. Posteriormente el jefe de estación de la est. Kunovice-Loučka
-realizó la preparación y establecimiento de la vía de tren para el tren Os 3915, en dirección Branky na
-Moravě, y después para el tren Os 3912 en dirección Osíčko. Tras realizar la preparación y establecimiento
-de la vía de tren para el tren Os 3915, en la señal principal (de salida) S1 no se encendió
-la señal que permite la circulación, la salida del tren Os 3915. El encendido de la señal permitida
-dependía del transcurso del tiempo de retardo del encendido de la señal PZZ ŽP en el km 49,051,
-es decir, del tiempo tras el cual, una vez lanzada la alarma, se permite encender el indicador de señal
-permitido (excepto la PN).
-El maquinista vigilaba el desembarque y embarque de pasajeros con la vista desde la ventana lateral izquierda
-en la cabina de conducción. En el momento en que se estableció la vía de tren para el tren Os 3915
-y la señal principal (de salida) S1 seguía mostrando con luz roja la señal «Alto»
-(por no haber transcurrido el tiempo de retardo del encendido de la señal), por parte del acompañamiento del tren Os 3915, tras
-
+El 2 de mayo de 2013, el jefe de estación de la est. Kunovice-Loučka realizó el cruzamiento de los trenes Os 3912 y Os 3915. El tren Os 3912 llegó a la est. Kunovice-Loučka a la vía SK nº 2, donde se detuvo a las 14.51 h. Tras comprobar visualmente desde el andén, frente al edificio de mando, que el tren Os 3912 había llegado completo a la estación, el jefe de estación de la est. Kunovice-Loučka envió a la est. Branky na Moravě, detrás del tren Os 3912, la notificación de llegada y, al mismo tiempo, realizó la oferta del tren Os 3915. El jefe de estación de la est. Branky na Moravě aceptó el tren Os 3915. El tren Os 3915 llegó a la est. Kunovice-Loučka a la vía SK nº 1, donde se detuvo a las 14.54 h con una antelación de 1 min, y ello en el espacio destinado al desembarque y embarque de pasajeros, a 54 m por delante del nivel de la señal principal (de salida) S1, que en ese momento mostraba la señal «Alto». Esta señal prohibía la salida del tren Os 3915 desde la vía SK nº 1 y no permitía al maquinista poner el tren en movimiento. La señal «Alto» de la señal principal (de salida) S1 era visible desde la cabina de mando del HDV 842.011-9 del tren Os 3915; su visibilidad no estaba interrumpida por obstáculos móviles o fijos. La entrada del tren en la est. Kunovice-Loučka estaba permitida por la señal «Aviso» de la señal principal (de entrada) S. Esta señal anunciaba al maquinista del tren Os 3915 la señal «Alto» en la siguiente señal principal, que era la señal principal (de salida) S1.
+El jefe de estación de la est. Kunovice-Loučka, tras comprobar visualmente desde el andén, frente al edificio de mando, que el tren Os 3915 había llegado completo a la estación, volvió al DK y envió al jefe de estación de la estación vecina Osíčko, detrás del tren Os 3915, la notificación de llegada y, al mismo tiempo, realizó la oferta del tren Os 3912, que el jefe de estación de la est. Osíčko aceptó. A continuación, el jefe de estación de la est. Kunovice-Loučka realizó la preparación y el establecimiento de la ruta de tren para el tren Os 3915, en dirección a Branky na Moravě, y después para el tren Os 3912 en dirección a Osíčko. Tras realizar la preparación y el establecimiento de la ruta de tren para el tren Os 3915, no se encendió en la señal principal (de salida) S1 la señal que autoriza la circulación, la salida del tren Os 3915. El encendido de la señal autorizante dependía de la expiración del tiempo de retardo de encendido de la señal PZZ ŽP en el km 49,051, es decir, del tiempo durante el cual, tras la activación de la alarma, se permite encender el símbolo señalizante autorizante (excepto PN).
+El maquinista vigilaba el desembarque y embarque de pasajeros con la vista desde la ventana lateral izquierda de la cabina de mando. En el momento en que se estableció la ruta de tren para el tren Os 3915 y la señal principal (de salida) S1 seguía mostrando con luz roja la señal «Alto» (por no haber expirado el tiempo de retardo de encendido de la señal), fueron, por parte del acompañamiento del tren Os 3915, tras
 
 ## Página 38
+
 
 el final del desembarque y embarque de pasajeros, se iniciaron los procedimientos previos a la salida del tren. El inicio
 de estos procedimientos no fue iniciado por la señal «Llamada a la disponibilidad» dada por el maquinista, sino
@@ -1485,6 +1388,7 @@ si la señal principal permite la circulación del tren (el tren es expedido) y 
 una circulación no permitida del tren más allá de la señal principal que prohíbe la circulación;
 
 ## Página 39
+
 
 si la señal principal permite la circulación del tren (el tren está autorizado) y el maquinista, tras recibir
 •
@@ -1548,8 +1452,8 @@ principal (de salida, de vía) que prohíbe la circulación. El defecto de esta 
 en la expedición del tren supone mayores exigencias de conocimiento profesional y atención no solo de los maquinistas, sino también
 de los miembros de la tripulación del tren.
 
-
 ## Página 40
+
 
 La estación Kunovice-Loučka, incluidos los tramos intermedios adyacentes, no está equipada
 con medios técnicos de protección que, ante una falta (error o fallo)
@@ -1599,8 +1503,8 @@ S1 de la estación Kunovice-Loučka indicaba la señal «Alto», que era visible
 mando del maquinista en el HDV 842.011-9, y el maquinista no recibió ninguna otra instrucción para poner el tren
 en movimiento establecida por el explotador ferroviario.
 
-
 ## Página 41
+
 
 El transportista ČD, a. s., en relación con lo dispuesto en el art. 120 de la norma interna SŽDC
 (ČD) D1, el art. 23, letra c), los arts. 90 y 91, letra a), de la norma interna ČD V2 y el art. 35, apartado 1,
@@ -1655,6 +1559,7 @@ Loučka por parte del maquinista del tren Os 3915.
 
 ## Página 42
 
+
 El factor contribuyente MU fue:
 la ausencia de medios técnicos de seguridad que, ante un fallo (error o
 •
@@ -1679,8 +1584,8 @@ introducción de la realización de la formación de un tren con transporte de p
 ### 4.4.1 Deficiencias y omisiones detectadas durante la investigación de las causas y circunstancias de la aparición del suceso excepcional, que sin embargo no son relevantes para las conclusiones sobre las causas
 Las deficiencias y omisiones detectadas durante la investigación de las causas y circunstancias de la aparición de la MU, que sin embargo no son relevantes para las conclusiones sobre las causas, no fueron detectadas por la DI.
 
-
 ## Página 43
+
 
 ## 5 MEDIDAS ADOPTADAS
 ## 5.1
@@ -1703,8 +1608,8 @@ hasta la sustitución plena de la garantía de seguridad, del encargado de estac
 •
 del tren, no ampliar más el número de estaciones en las que la formación de un tren con transporte de pasajeros, que se detiene regular o excepcionalmente en el espacio destinado a la bajada y subida de pasajeros, se realiza mediante la señal de la señal principal que permite la circulación del tren.
 
-
 ## Página 44
+
 
 La Inspección Ferroviaria, como autoridad competente en la materia según lo dispuesto en el § 53b apartado 5 de la ley n.º 266/1994 Sb., con base en los resultados de la investigación de las causas y circunstancias de la aparición de la MU, para reducir la probabilidad de aparición de MU similares, recomienda al transportista České dráhy, a. s.,
 de conformidad con el texto de los documentos anteriores "Emisión de recomendación de seguridad"
@@ -1727,17 +1632,14 @@ inspector principal
 de la Inspección Territorial de Ostrava
 de la Inspección Territorial de Ostrava
 
-
 ## Página 45
+
 
 ## 7 ANEXOS
 Fig. n.º 3: vista del extremo del tren detenido Os 3915 tras la MU    Fuente: SŽDC, s. o.
 Fig. n.º 4: vista de la parte delantera del tren detenido Os 3915 tras la MU           Fuente: SŽDC, s. o.
 
-
 ## Página 46
 
-Fig. n.º 5: vista de las señales de salida S1 a S3 en el extremo de
-Braneck de la est. Kunovice-Loučka desde el espacio destinado a la bajada y subida
-de pasajeros
+Fig. n. 5: vista de las señales de salida S1 a S3 en la cabeza de vías de la est. Kunovice-Loučka desde el espacio destinado al desembarque y embarque de pasajeros
            Fuente: DI

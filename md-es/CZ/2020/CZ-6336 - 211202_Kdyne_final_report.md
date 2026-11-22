@@ -10,13 +10,14 @@ chars: 228355
 ratio_longitud: 1.26
 tokens_in: 109366
 tokens_out: 78345
-verificacion: revisar
-notas_cifras: ["bloque 6: original bilingüe: se compara contra el idioma principal (CS)", "bloque 8: original bilingüe: se compara contra el idioma principal (CS)", "bloque 9: original bilingüe: se compara contra el idioma principal (CS)", "bloque 14: original bilingüe: se compara contra el idioma principal (CS)"]
-avisos: ["bloque 8: ratio 1.60", "bloque 9: ratio 1.69"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 3: original bilingüe: se compara contra el idioma principal (CS)", "página 7: original bilingüe: se compara contra el idioma principal (CS)", "página 8: original bilingüe: se compara contra el idioma principal (CS)", "página 13: original bilingüe: se compara contra el idioma principal (CS)", "página 17: original bilingüe: se compara contra el idioma principal (CS)", "página 19: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -43,13 +44,13 @@ IČ: 75009561
 mail@dicr.cz
 tel.: +420 736 521 003
 
-
 ## Página 2
+
 
 El presente informe final es público y todos los hechos en él expuestos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ### 1 RESUMEN
 Fuente: Drážní inspekce
@@ -81,8 +82,8 @@ y por tanto la no garantía del reposicionamiento de las ruedas tras la
 [ilegible: deslizamiento] previo ocurrido de las ruedas del vehículo ferroviario
 motriz.
 
-
 ## Página 4
+
 
 Factores contribuyentes:
 reducción del coeficiente de fricción de adherencia necesario para la puesta en
@@ -134,8 +135,8 @@ en la explotación durante la realización de las recorridas periódicas de las
 líneas, como los empleados directivos del gestor de la infraestructura durante la
 realización de las inspecciones periódicas.
 
-
 ## Página 5
+
 
 ### RESUMEN
 9 de septiembre de 2020, 7:08 (5:08 GMT).
@@ -189,8 +190,8 @@ existentes, de modo que dicho dispositivo se active sin necesidad de su operaci�
 por la persona que conduce el tren, siempre que se aplique el frenado de acción
 rápida (cuando la presión del aire en la
 
-
 ## Página 6
+
 
 tubería principal del freno automático continuo del tren caiga por debajo de 3
 bares) y cuando, al mismo tiempo, estén activados el mando del material rodante
@@ -217,6 +218,7 @@ periódicas de las líneas, sino también los empleados directivos del gestor de
 infraestructura durante la realización de las inspecciones periódicas.
 
 ## Página 7
+
 
 # Índice
 1 RESUMEN.......................................................................................................................3
@@ -258,8 +260,8 @@ SUMMARY.........................................................................
 4.2 Vehículos ferroviarios e instalaciones técnicas...........................................................................55
 4.2.1 Factores o consecuencias derivados del diseño de los vehículos ferroviarios, de la infraestructura ferroviaria o de las instalaciones técnicas.....................................................................55
 
-
 ## Página 8
+
 
 4.2.2 Factores o consecuencias derivados de la instalación y de la puesta en servicio de los vehículos ferroviarios, de la infraestructura ferroviaria o de las instalaciones técnicas......................................60
 4.2.3 Factores o consecuencias relacionados con los fabricantes de vehículos ferroviarios u otros proveedores de productos ferroviarios............................................................................60
@@ -289,8 +291,8 @@ SUMMARY.........................................................................
 6 RECOMENDACIONES DE SEGURIDAD.....................................................................................76
 ANEXOS..............................................................................................................................78
 
-
 ## Página 9
+
 
 ### Lista de siglas y símbolos utilizados
 CDP
@@ -370,8 +372,8 @@ paso a nivel
 žst.
 estación de ferrocarril
 
-
 ## Página 10
+
 
 ### Lista de siglas de la legislación, normas y normativa interna utilizadas
 ley núm. 266/1994 Sb.
@@ -396,6 +398,7 @@ SŽDC D1
 normativa interna del gestor de infraestructura SŽ, «SŽDC D1 Reglamento de circulación y de señalización», en la redacción vigente en el momento de la producción del suceso extraordinario
 
 ## Página 11
+
 
 SŽDC S2/3
 reglamento interno del gestor de la infraestructura SŽ, «SŽDC S2/3
@@ -441,8 +444,8 @@ reglamento del fabricante UniControls – Tramex, «T0004T Reglamento
 de mantenimiento, Registrador de velocidad electrónico RE1XX», en
 la versión vigente en el momento de producirse la incidencia
 
-
 ## Página 12
+
 
 ### 2 INVESTIGACIÓN Y SUS RELACIONES
 ### 2.1 Decisión sobre el inicio de la investigación
@@ -496,62 +499,47 @@ Instituto Hidrometeorológico Checo, Sucursal de Plzeň, que elaboró el
 documento «Estado del tiempo en la localidad de Kdyně el 9. 9. 2020 a
 las horas 4:45 h hasta 7:15 h».
 
-
 ## Página 13
 
-2.5 Comunicación y consultas durante la investigación con las personas o
-entidades que participaron en el suceso
-En la investigación de las causas y circunstancias de la producción de la incidencia, el
-DI partió principalmente de sus propios conocimientos, hallazgos, de su propia
-documentación fotográfica y de la documentación obtenida mediante la colaboración con
-las entidades externas indicadas en el punto 2.4 de la presente ZZ. Durante la
-investigación, el DI solicitó a continuación la documentación elaborada durante la
-investigación por parte del gestor de la infraestructura, los transportistas, el HZS y la
-PČR.
-La investigación de las causas y circunstancias de la producción de la incidencia se
-realizó de acuerdo con la Ley núm. 266/1994 Sb. y con el Decreto núm. 376/2006 Sb.
+2.5 Comunicación y consultas durante la investigación con las personas o entidades
+que participaron en el hecho de que se trata
+En la investigación de las causas y circunstancias del accidente ferroviario (MU), la DI se basó principalmente en sus propios conocimientos, hallazgos, en su propia documentación fotográfica y en la documentación obtenida mediante la colaboración con las entidades externas indicadas en el punto 2.4 de la presente ZZ. Durante la investigación, la DI solicitó la documentación recabada en el curso de la investigación al operador de la infraestructura ferroviaria, a los transportistas, al HZS y a la PČR.
+La investigación de las causas y circunstancias del accidente ferroviario (MU) se realizó de conformidad con la ley n.º 266/1994 Sb. y con el decreto n.º 376/2006 Sb.
 ### 2.6 Descripción del nivel de colaboración ofrecido por las entidades participantes
-El nivel de colaboración con los representantes de las entidades participantes en la
-incidencia fue estándar.
-### 2.7 Descripción de la investigación, los métodos y las técnicas empleados para acreditar los hechos
+El nivel de colaboración con los representantes de las entidades participadas en el accidente ferroviario (MU) fue estándar.
+### 2.7 Descripción de la investigación, los métodos y las técnicas utilizados para acreditar los hechos
 y los hallazgos recogidos en el informe
-En el marco de la investigación de la incidencia, el DI procedió de la siguiente manera,
-o bien utilizó, entre otros, los siguientes métodos y técnicas:
-inspección del lugar de la incidencia, incluidos los DV implicados, los
+En el marco de la investigación del accidente ferroviario (MU), la DI procedió de la siguiente manera, es decir, utilizó, entre otros, los siguientes métodos y técnicas:
+inspección del lugar del accidente ferroviario (MU), incluidos los vehículos ferroviarios (DV) participantes, las instalaciones técnicas y la infraestructura
 •
-dispositivos técnicos y la infraestructura de la vía;
-participación en las inspecciones comisionadas de los DV implicados;
+ferroviaria;
+asistencia a las inspecciones comisionadas de los vehículos ferroviarios (DV) participantes;
 •
-análisis de los datos registrados por los registradores de velocidad de los
+análisis de los datos registrados por los registradores de velocidad de los vehículos ferroviarios (DV) participantes;
 •
-DV implicados;
-análisis de la documentación solicitada al gestor de la infraestructura, a los
+análisis de la documentación solicitada al operador de la infraestructura ferroviaria, a los transportistas, a la PČR y al HZS;
 •
-transportistas, a la PČR y al HZS;
-análisis de la comunicación entre la persona que dirige el tráfico ferroviario
+análisis de la comunicación entre la persona que dirige el tráfico ferroviario (en adelante, el jefe de estación) de la estación
 •
-(en adelante, jefe de estación) de la estación Kdyně y el jefe de estación de
-la estación Domažlice, registrada por el dispositivo de registro ReDat 3;
-evaluación del Dictamen pericial del campo de la criminalística, rama de la
+Kdyně y el jefe de estación de la estación Domažlice, registrada por el dispositivo de registro ReDat
+3;
+evaluación del Dictamen pericial del campo de la criminalística, rama de la química
 •
-química física y la química;
+físico-química;
 encargo y evaluación del Dictamen pericial n.º 757/22/2021;
 •
-análisis de la información sobre las condiciones meteorológicas en la estación
+análisis de la información sobre las condiciones meteorológicas en la estación Kdyně solicitada al
 •
-Kdyně solicitada al ČHMÚ;
-declaraciones de los empleados implicados.
+ČHMÚ;
+declaraciones de los empleados participantes.
 •
 ### 2.8 Descripción de las dificultades y problemas concretos surgidos durante la investigación
-Durante la investigación de la incidencia no surgieron dificultades ni problemas que
-pudieran influir en el desarrollo de la investigación o en sus conclusiones, a excepción de
-la limitación indicada en el capítulo 2.3.
+Durante la investigación del accidente ferroviario (MU) no se presentaron dificultades ni problemas que pudieran influir en el desarrollo de la investigación o en sus conclusiones, con excepción de la limitación indicada en el capítulo 2.3.
 ### 2.9 Interacción con los órganos judiciales
-Durante la investigación de la incidencia objeto de mención no se inició, ni por parte del
-DI ni por parte de los órganos judiciales, ninguna comunicación ni colaboración.
-
+Durante la investigación del accidente ferroviario (MU) objeto de estudio, ni la DI ni los órganos judiciales iniciaron ninguna comunicación ni colaboración.
 
 ## Página 14
+
 
 ### 2.10 Cualquier otra información relevante para la investigación
 Todas las circunstancias esenciales halladas relativas al desarrollo de la investigación de
@@ -600,8 +588,8 @@ pk 18,754
 Fig. n.º 1: Esquema del lugar de producción de la incidencia en la estación Kdyně
        Fuente: DI (sobre bases cartográficas de mapy.cz)
 
-
 ## Página 15
+
 
 De la inspección del lugar de la incidencia se constató lo siguiente:
 La inspección se realizó en tres fases, en las que en la primera fase se inspeccionó la
@@ -672,8 +660,8 @@ aguja n.º 2 de la estación Kdyně en el pk 19,073:
 simple de aguja y un enclavamiento de control de empuje;
 ➢la aguja estaba señalizada con una placa con el dígito «2»;
 
-
 ## Página 16
+
 
 ➢la aguja estaba dotada de ganchos de riel y equipada con un contrapeso
 de aguja y un semáforo de aguja;
@@ -707,6 +695,7 @@ tratamiento químico;
 
 ## Página 17
 
+
 Fig. n.º 3: Detalle del estado de la cima de la cabeza del tramo de vías SK n.º 2
 Fuente: DI
 ➢el denso crecimiento herbáceo en el exterior y en el interior de la SK n.º 2 se encontraba desde el pk 19,142 hasta más allá del desvío de la aguja n.º 4, es decir, hasta más allá del nivel de la señal de salida L2 (véase la fig. n.º 4);
@@ -714,8 +703,8 @@ Fig. n.º 4: Crecimiento herbáceo antes y después del nivel de la señal L2 de
 Fuente: DI
 ➢el crecimiento herbáceo en el momento de la inspección ya estaba seco, tras el tratamiento químico realizado, pero debido a su crecimiento original de 10 a 15 cm de altura, es decir, superior a la altura de los tramos de vías, sus briznas individuales seguían inclinándose con las ráfagas de viento, es decir, con el paso de los trenes, y eran aplastadas por las ruedas del DV (véase la fig. n.º 5);
 
-
 ## Página 18
+
 
 Fig. n.º 5: Vista de la SK n.º 2 de la est. Kdyně
 Fuente: DI
@@ -731,39 +720,37 @@ aguja n.º 4 de la est. Kdyně en el pk 19,432:
 ➢la aguja estaba conmutada para la circulación hacia/desde la SK n.º 2 y en la posición final prescrita;
 ➢la aguja fue recorrida por el tren Os 17544 por la punta desde la izquierda;
 
-
 ## Página 19
 
-➢el espacio de la aguja n.º 4 quedó considerablemente dañado como consecuencia del origen del MU (soportes dañados, elementos de fijación y traviesas de madera);
-aguja n.º 5 de la est. Kdyně en el pk 19,471:
+➢el desvío n.º 4 estaba considerablemente dañado como consecuencia de la formación de MU (placas de sujeción dañadas, elementos de fijación y traviesas de madera);
+desvío n.º 5 est. Kdyně en el pk 19,471:
 •
-➢aguja conmutada centralmente equipada con un conmutador electromotor;
-➢la aguja estaba marcada con una placa con el número "5";
-➢la aguja estaba equipada con ganchos de enganche y dotada de la señal de aguja;
-➢en el cuerpo señal de la aguja estaba la señal "Circulación en dirección directa";
-➢la aguja estaba conmutada a la dirección principal (directa), es decir, para la circulación hacia/desde la SK n.º 1;
-➢la aguja fue recorrida por el tren Služ 55025 en dirección directa contra la punta;
-en el sentido de circulación del tren Služ 55025, en las cabezas y pies de los tramos de vías SK
+➢desvío maniobrado centralmente equipado con un motor eléctrico de maniobra;
+➢el desvío estaba señalado con una placa con el número "5";
+➢el desvío estaba dotado de ganchos de enganche y equipado con una señal de desvío;
+➢en el cuerpo de señal del desvío se encontraba la señal "Circulación en dirección directa";
+➢el desvío estaba dispuesto en la dirección principal (directa), es decir, para la circulación hacia/desde la vía SK n.º 1;
+➢el desvío fue recorrido en dirección directa contra la aguja por el tren Služ 55025;
 •
-y en las traviesas desde el pk 19,448, es decir, la posición del bogie trasero (a) TDV CZ-SZCZ 99 54 9 362 001-8 (en adelante 99 54 9362 001-8), hasta el pk 19,439, es decir, hasta el lugar de la colisión con el tren Os 17544, se encontró arena del equipo de arenado del HDV del tren Služ 55025.
-Estado del equipo de enclavamiento:
-La est. Kdyně está equipada con un SZZ de 2.ª categoría – equipo de enclavamiento electromecánico complementado con señales luminosas y preseñales – con aparato central. Para la evaluación de la circulación del tren en la SK n.º 1 y 2 en las entradas y salidas de la est. Kdyně se utilizan contadores de ejes. El SZZ de la est. Kdyně no está equipado con un equipo de diagnóstico con posibilidad de almacenamiento de datos.
+en la dirección de circulación del tren Služ 55025, en las cabezas y talones de los tramos de riel de la vía SK y en las traviesas desde el pk 19,448, es decir, la posición del bogie trasero (a) TDV CZ-SZCZ 99 54 9 362 001-8 (en adelante 99 54 9362 001-8), hasta el pk 19,439, es decir, hasta el lugar de la colisión con el tren Os 17544, se encontró arena del equipo de arenado del HDV del tren Služ 55025.
+Estado del dispositivo de seguridad:
+La est. Kdyně está equipada con un SZZ de 2.ª categoría – dispositivo de seguridad electromecánico complementado con señales luminosas y preseñales – con aparato central. Para evaluar la circulación del tren en las vías SK n.º 1 y 2 en las entradas y salidas de la est. Kdyně se utilizan contadores de ejes. El SZZ de la est. Kdyně no está equipado con un dispositivo de diagnóstico con posibilidad de almacenamiento de datos.
 En el aparato central del SZZ situado en la oficina de tráfico de la est. Kdyně se constató:
-### Tren Os 17544:
+### tren Os 17544:
 •
-➢la ruta de tren para la entrada del tren Os 17544 en la SK n.º 2 de la est. Kdyně en el sentido desde la est. Pocinovice fue anulada;
-➢el enclavamiento automático de agujas (con una ventana dividida en dos mitades) – el equipador para la entrada/salida en el sentido desde/hacia la est. Pocinovice estaba en posición básica, ambas ventanas estaban enclaustradas en blanco;
-➢los cerradores de vía desde/hacia la est. Pocinovice estaban en posición básica;
-➢las manijas de señal de la señal principal (de entrada) (en adelante señal de entrada) L y de las señales de salida S1 y S2 estaban en posición básica;
-➢la manija de la aguja n.º 1 en el manipulador de agujas estaba conmutada a la posición "+";
-➢bajo la manija de la aguja n.º 1 brillaba en la caja del manipulador de agujas la luz indicadora verde;
-➢la llave resultante del enclavamiento de control de la aguja conmutada manualmente n.º 3, que depende del enclavamiento de control de desvío de la aguja conmutada manualmente n.º 2, estaba fijada en el enclavamiento de enchufe situado en el lado derecho del aparato central;
-➢los tramos de vía LK, V1-2, 1K y 2K (equipados con contadores de ejes y representados con transparencias) en el sentido de circulación del tren Os 17544 estaban indicados como libres en la placa indicadora con el relieve del trazado de vías marcado;
+➢la ruta de tren para la entrada del tren Os 17544 en la vía SK n.º 2 de la est. Kdyně en la dirección desde la est. Pocinovice fue anulada;
+➢el enclavamiento automático de desvíos (con una ventana dividida en dos mitades) – el aparato de maniobra para entrada/salida en la dirección desde/hacia la est. Pocinovice estaba en posición base, ambas ventanas estaban enclausuradas en blanco;
+➢los enclavadores de vía desde/hacia la est. Pocinovice estaban en posición base;
+➢las llaves de señal de la señal principal (de entrada) (en adelante señal de entrada) L y de las señales de salida S1 y S2 estaban en posición base;
+➢la llave del desvío n.º 1 en el manipulador de desvíos estaba conmutada a la posición "+";
+➢bajo la llave del desvío n.º 1 brillaba en el armario del manipulador de desvíos la luz indicadora verde;
+➢la llave resultante del cerradura de control de enclavamiento del desvío n.º 3 maniobrado manualmente, que depende de la cerradura de desbloqueo de control del desvío n.º 2 maniobrado manualmente, estaba fijada en la cerradura de pasador situada en el lado derecho del aparato central;
+➢los tramos de vía LK, V1-2, 1K y 2K (equipados con contadores de ejes y representados mediante transparencias) en la dirección de circulación del tren Os 17544 estaban indicados como libres en la placa indicadora con el relieve del trazado de vías marcado;
 ➢en la maqueta de la señal de entrada L brillaba la luz roja, en las maquetas de las señales de salida S1 y S2 no brillaba ninguna luz – indicación de la señal "Alto";
-➢en la aguja n.º 1 brillaba en la placa indicadora la luz verde;
-
+➢en el desvío n.º 1 brillaba en la placa indicadora la luz verde;
 
 ## Página 20
+
 
 ### Tren Služ 55025:
 •
@@ -793,52 +780,53 @@ en el pk 18,054 estaba situada la señal Preseñal luminosa independiente para l
 en el pk 18,437 estaba situado el paso a nivel de vía única PŽP P815:
 •
 
-
 ## Página 21
 
-➢el PŽP P815 estaba protegido con un equipo de enclavamiento de paso a nivel luminoso con señal positiva (luz blanca intermitente) sin complemento de barreras;
-➢el PZZ en el momento de la inspección estaba en estado sin aviso y sin averías;
-en el pk 18,754 estaba situada la señal de entrada L de la est. Kdyně:
+➢La pasaje a nivel ŽP P815 estaba protegido por un dispositivo de enclavamiento de paso a nivel con señal luminosa (luz blanca intermitente) sin complemento de barreras;
+➢El PZZ se encontraba, en el momento de la inspección, en estado sin aviso y sin averías;
+en el pk 18,754 se encontraba la señal de entrada L de la estación de Kdyně:
 •
-➢se trataba de una señal de mástil tipo AŽD 70 con cinco luces de señal, marcada con una placa roja de señalización que contenía la inscripción blanca "L" y una banda de señalización con franjas rojas y blancas de igual longitud, es decir, la señal era válida solo para la circulación de trenes;
-➢en la señal L, situada a la derecha directamente junto a la TK (en el sentido de circulación del tren Os 17544), brillaba la señal "Alto" (luz roja);
-➢las señales de esta señal eran visibles en el sentido de circulación del tren Os 17544 a una distancia superior a 500 m;
-en el pk 19,371 estaba situada la señal de salida L2 de la est. Kdyně:
+➢se trataba de una señal en mástil tipo AŽD 70 con cinco lámparas señalizadoras, marcada con una placa de identificación roja que contenía la inscripción blanca "L" y una banda de identificación con franjas rojas y blancas de igual longitud, es decir, la señal era válida solo para la circulación de trenes;
+➢en la señal L, situada a la derecha directamente junto al TK (en el sentido de circulación del tren Os 17544), estaba encendida la señal "Alto" (luz roja);
+➢las señales de esta señal eran visibles, en el sentido de circulación del tren Os 17544, a una distancia superior a 500 m;
+en el pk 19,371 se encontraba la señal de salida L2 de la estación de Kdyně:
 •
-➢se trataba de una señal enana tipo AŽD 70 válida para la circulación de trenes y maniobras con cinco luces de señal, marcada con una placa roja de señalización que contenía la inscripción blanca "L2";
-➢en la señal L2, situada a la derecha directamente junto a la SK (en el sentido de circulación del tren Os 17544), brillaba la señal "Alto" (luz roja);
-➢las señales de esta señal eran visibles en el sentido de circulación del tren Os 17544 a una distancia superior a 200 m.
+➢se trataba de una señal enana tipo AŽD 70 válida para la circulación de trenes y maniobras, con cinco lámparas señalizadoras, marcada con una placa de identificación roja que contenía la inscripción blanca "L2";
+➢en la señal L2, situada a la derecha directamente junto al SK (en el sentido de circulación del tren Os 17544), estaba encendida la señal "Alto" (luz roja);
+➢las señales de esta señal eran visibles, en el sentido de circulación del tren Os 17544, a una distancia superior a 200 m.
+
 Estado del material rodante:
-el tren Os 17544 estaba compuesto por un único coche motor CZ-ČD 95 54 5 810
+el tren Os 17544 estaba compuesto por un coche motor independiente CZ-ČD 95 54 5 810
 •
-406-9 (también HDV 810.406-9) circulando con el puesto de conducción 2 por delante;
-el tren Služ 55025 estaba compuesto por el HDV CZ-ČD 92 54 2 742 243-9 (también HDV
+406-9 (en adelante también HDV 810.406-9) circulando con el puesto de conducción del maquinista 2 por delante;
+el tren Služ 55025 estaba compuesto por el HDV CZ-ČD 92 54 2 742 243-9 (en adelante también HDV
 •
-742.243-9), circulando con el morro corto (reducido) por delante, y el TDV 99 54 9362
+742.243-9), circulando con el extremo corto (reducido) por delante, y el TDV 99 54 9362
 001-8 – coche de medición;
-el lugar de la colisión de los trenes se determinó en el pk 19,439, es decir, en la parte de corazón de la aguja n.º 5.
+el lugar de la colisión de los trenes se localizó en el pk 19,439, es decir, en la parte de corazón de la aguja n.º 5.
+•
 ### Tren Os 17544:
-no estaba marcado con las señales "Inicio de tren" y "Fin de tren" debido a las baterías
+no estaba marcado con las señales "Inicio de tren" y "Fin de tren" debido a que las baterías
 •
-desconectadas tras el MU y en el lugar de la posición final tras el MU estaba con el frente en la parte de enclavamiento de la aguja n.º 4 en el pk 19,425, es decir, 7 m detrás de las puntas de las lenguas de la aguja n.º 4 y 14 m antes del lugar de la colisión (el HDV fue desplazado hacia atrás como consecuencia de la colisión);
-a una distancia de 2 m del frente del tren Os 17544, que estaba completamente
+estaban desconectadas tras la maniobra (MU) y en el lugar de la posición final tras la MU se encontraba con el extremo frontal en la parte de cambio de la aguja n.º 4 en el pk 19,425, es decir, 7 m detrás de las puntas de la lengüeta de la aguja n.º 4 y 14 m antes del lugar de la colisión (el HDV fue desplazado hacia atrás como consecuencia de la colisión);
+hasta una distancia de 2 m antes del extremo del tren Os 17544, que estaba completamente
 •
-demolido, se encontraban los restos del HDV;
-a una distancia de 26 m del frente del tren Os 17544, es decir, 12 m antes del lugar de la colisión,
+destruido, se encontraban los restos del HDV;
+a una distancia de 26 m antes del extremo del tren Os 17544, es decir, 12 m antes del lugar
 •
-yacía en la vía el parabrisas del HDV;
+de la colisión, yacía en la vía el parabrisas del HDV;
 el bogie delantero (de un solo eje) descarriló a la izquierda en el sentido de circulación del tren Os 17544
 •
-y se encontraba en la parte de enclavamiento de la aguja n.º 4 en el pk 19,422;
-el HDV estaba equipado con zapatas de freno de acero macizo;
+y se encontraba en la parte de cambio de la aguja n.º 4 en el pk 19,422;
+el HDV estaba equipado con pastillas de freno de acero macizo;
 •
-el espesor de las zapatas de freno del primer eje en el sentido de circulación era de 36 – 37 mm;
+el espesor de las pastillas de freno del primer eje en el sentido de circulación era de 36 – 37 mm;
 •
-la palanca del dispositivo de desconexión del freno neumático estaba en posición "conectado";
+la palanca del dispositivo de desconexión del freno neumático estaba en la posición "conectado";
 •
-
 
 ## Página 22
+
 
 la tuerca del husillo del freno de mano estaba desplazada 8 vueltas en el sentido de apriete (véase la fig. n.º 6);
 •
@@ -872,6 +860,7 @@ se constató:
 ➢la unidad de visualización del velocímetro electrónico indicaba el valor de velocidad 0 km·h-1;
 
 ## Página 23
+
 
 ➢el panel de control de la radiostación estaba desprendido y colgaba del exterior del frontal del MDV; al inspeccionar el compartimento para pasajeros se constató:
 •
@@ -911,8 +900,8 @@ al inspeccionar el 2.º puesto de conducción se constató:
 •
 ➢el puesto, incluida la mesa de control, no presentaba signos de deformación ni de daños;
 
-
 ## Página 24
+
 
 ➢el indicador de presión de aire en el cilindro de freno indicaba el valor 2,8 bar, en la tubería principal y de suministro el valor 0 bar;
 ➢el conmutador de selección de puesto estaba en la posición «II. ST»;
@@ -949,8 +938,8 @@ Condiciones meteorológicas:
 según la comunicación del ČHMÚ, en el momento de producirse la MU en la localidad de Kdyně
 había cielo despejado, calma, sin precipitaciones, no se presentaba niebla, la temperatura del aire a 2 m sobre el suelo oscilaba entre +8 y +11 °C, y a ras de suelo (a 5 cm de altura) entre +5 y +6 °C,
 
-
 ## Página 25
+
 
 la humedad del aire oscilaba entre 90 y 80 %, la visibilidad no estaba reducida. En la localidad
 de referencia, el día 9. 9. 2020 comenzó a aclarar a las 5:24 h, amaneció a las 6:03 h y salió el
@@ -992,8 +981,8 @@ En la MU, el daño causado en las cosas transportadas, el equipaje y otros biene
 ### 3.1.5 Descripción de otras consecuencias, incluido el impacto del suceso en las actividades habituales de los sujetos implicados
 Como consecuencia de la producción de la MU, se interrumpió la explotación de la vía y del transporte ferroviario en la est. Kdyně y en ambos tramos intermedios adyacentes a partir de las 7:08 h. Tras la inspección de la infraestructura de la vía y de la SZZ de la est. Kdyně, a las 12:00 h se reanudó la explotación de la vía y del transporte ferroviario en el sentido desde/hacia la est. Pocinovice, si bien la entrada y salida de trenes estaba permitida hasta el nivel de la oficina de tráfico de la
 
-
 ## Página 26
+
 
 est. Kdyně. La explotación de la vía y del transporte ferroviario en su totalidad se reanudó a las 18:55 h.
 ### 3.1.6 Identificación de las personas, sus funciones y de los sujetos implicados
@@ -1021,8 +1010,8 @@ El transporte ferroviario se prestaba en virtud de un contrato celebrado entre e
 El transportista del tren Služ 55025 era ČDC, con domicilio en Jankovcova 1569/2c, Praha 7 – Holešovice, PSČ 170 00.
 El transporte ferroviario se prestaba en virtud de un contrato celebrado entre el gestor de la vía SŽ y el transportista ČDC el 18. 12. 2018, con efectos desde el 18. 12. 2018.
 
-
 ## Página 27
+
 
 ### 3.1.7 Descripción de los vehículos ferroviarios y de sus composiciones, incluidos los números de registro
 ### Tren Os 17544:
@@ -1072,6 +1061,7 @@ circulación del tren Os 17544 en el intervalo de 59 – 61 km·h-1 a lo largo d
 •
 
 ## Página 28
+
 
 7:01:48 h –
 parada del tren en la parada Dobříkov na Šumavě en el pk 13,605; *)
@@ -1149,8 +1139,8 @@ señal de salida L2 de la est. Kdyně y a 301 m del lugar de la colisión;
 descenso de la presión del aire en la tubería principal del valor de 5 bares a 0 bar en
 •
 
-
 ## Página 29
+
 
 un tiempo de 1 s – inicio de la frenada de acción rápida (primer cambio del valor de
 presión desde la salida de la est. Klatovy);
@@ -1181,8 +1171,8 @@ El 15. 9. 2020, por personas cualificadas del transportista y en presencia de in
 El 6. 10. 2020 se realizó la reinspección de las piezas desmontadas del equipo de freno de la LD en bancos de ensayo y la medición de los diámetros de las ruedas. Los equipos de freno inspeccionados presentaban valores normales. La inspección de ambos bogies acoplados no detectó la superación de las longitudes límite de defectos del perfil de rodadura de las ruedas establecidas en el art. 6.2.3.1 de la norma ČSN EN 15313.
 Con la medición del diámetro de las ruedas en la circunferencia de rodadura del bogie al que está conectado el captador de revoluciones del velocímetro, se detectó una diferencia entre el diámetro real de las ruedas de 833 mm (este valor también figuraba en el documento «Acta de la inspección técnica (TK) del vehículo ferroviario» del 9. 4. 2020),
 
-
 ## Página 30
+
 
 y el diámetro ajustado de 845 mm en el velocímetro con el que estaba equipada la LD 810.406-9. La DI, en colaboración con el operador de la vía SŽ y el transportista ČD, realizó una comparación de los datos registrados por el velocímetro con los datos recalculados en función de las diferencias de diámetro de las ruedas. De esta comparación se desprende una diferencia en los datos de la distancia recorrida y de la velocidad registrados por el velocímetro registrador en un margen del 1,4 % respecto a los valores reales, véase también el punto 4.2.4 de la presente II. En el análisis anterior de los datos registrados por el velocímetro, esta circunstancia ya se tiene en cuenta.
 En el marco de la reinspección de las piezas desmontadas se realizó también la reinspección del interruptor de presión de la presión en el cilindro de freno en el banco de ensayo, en la que se confirmó el valor de presión de conmutación prescrito por el fabricante para la emisión de la señal al velocímetro electrónico.
@@ -1206,8 +1196,8 @@ Tren
 Distancia entre las est. Klatovy y Kdyně (km):
 La distancia registrada por el velocímetro electrónico del tren Os 17544 en el tramo Klatovy – Kdyně se resalta en amarillo debido a la diferencia fundamental respecto a los datos restantes.
 
-
 ## Página 31
+
 
 De los datos anteriores se desprende de forma inequívoca que el velocímetro electrónico registrador con el que estaba equipada la LD 810.406-9 del tren Os 17544 registraba todos los datos correctamente hasta el punto de derrape demostrable de las ruedas de la LD.
 La Inspección Ferroviaria se ocupó también, en el marco de la investigación de este MU, de la posibilidad de influencia en el alcance de las consecuencias para la salud de los pasajeros por el equipamiento del interior de la LD, es decir, del coche motor, del tren Os 17544.
@@ -1251,6 +1241,7 @@ De los datos registrados se desprende:
 •
 
 ## Página 32
+
 
 7:02:50 h – circulación del tren Služ 55025 en el intervalo de 61 – 62 km·h-1 en la vía de 151 m;
 •
@@ -1303,8 +1294,8 @@ La línea en el sentido de circulación del tren Os 17544 discurre:
 ➢a la altura de la señal de entrada L de la est. Kdyně en una curva a la izquierda de
 radio de 377 m, a la altura del terreno circundante y con una pendiente de 13,037 ‰;
 
-
 ## Página 33
+
 
 ➢a la altura del desvío n.º 1 en una curva a la derecha de radio de 300 m, a la altura
 del terreno circundante y con una pendiente de 5,439 ‰;
@@ -1348,60 +1339,21 @@ la última inspección de la est. Kdyně antes de la aparición del accidente fe
 •
 sin defectos aparentes;
 
-
 ## Página 34
 
-la última circulación de inspección antes de la aparición del accidente ferroviario se realizó el día 4. 9. 2020 sin
-•
-defectos detectados;
-la última inspección trimestral de los desvíos en la est. Kdyně se realizó el día 13. 8. 2020
-•
-sin defectos detectados;
-la inspección integral periódica de la línea se realizó en el periodo del 17. 3. 2020 –
-•
-17. 4. 2020. En la inspección integral no se detectaron defectos que
-pudieran comprometer la operatividad del transporte ferroviario;
-el tratamiento químico de la mala hierba no deseada en el lecho de la vía de la est. Kdyně mediante la aplicación
-•
-de un preparado herbicida (Roundup Flex) se realizó en la 1.ª fase el día 17. 6. 2020
-y en la 2.ª fase el día 4. 9. 2020.
-La est. Kdyně está equipada con un aparato de enclavamiento electromecánico modelo 5007
-complementado con señales luminosas y preseñales – aparato central. Según la TNŽ 34 2620
-se trata de un aparato de enclavamiento de 2.ª categoría. El aparato de enclavamiento no permite
-el mando a distancia, se opera solo localmente. Los desvíos conmutados manualmente n.º 2, 3, 4, incluido
-el desvío de apartadero Vk1, que están asegurados con enclavamientos mecánicos, se conectan al aparato de enclavamiento
-mediante un enclavamiento de enchufe en el aparato central. Los desvíos n.º 1 y 5 están equipados
-con accionadores eléctricos. La parte eléctrica del aparato de enclavamiento está ubicada
-en el pabellón de relés junto al edificio de la estación.
-El aparato de enclavamiento de la est. Kdyně dispone de un Certificado de idoneidad del dispositivo técnico designado, n.º de ev.: PZ
-10142/96-E.49, emitido por el DÚ el día 9. 10. 1996, con vigencia por tiempo indefinido. El dispositivo técnico designado es
-idóneo para la explotación con base en el Protocolo de inspección técnica y ensayo n.º UTZ/E-k-
-20/2016 del día 7. 6. 2016 con la conclusión: «El aparato de enclavamiento ensayado corresponde
-a las normas técnicas y a las disposiciones vigentes. Garantiza la seguridad del transporte ferroviario
-en el ámbito determinado por la categoría del dispositivo, el tipo de dispositivo y el proyecto. El dispositivo es
-operativamente idóneo». La última inspección y ensayo del dispositivo técnico designado se realizó con base en
-el Protocolo de inspección y ensayo n.º 918/2020/-LP el día 19. 5. 2020 con la conclusión:
-«El aparato de enclavamiento inspeccionado y ensayado indicado en este protocolo continúa
-cumpliendo la función de garantizar directamente la seguridad del transporte ferroviario y es operativamente idóneo.»
-El aparato de enclavamiento no estaba equipado con un dispositivo para el archivo de su actividad. Del examen de los elementos de mando
-e indicación inmediatamente después de la aparición del accidente ferroviario se constató que el aparato de enclavamiento presentaba
-un funcionamiento normal. De los registros en el Registro de averías del aparato de enclavamiento en el equipo de comunicaciones y seguridad
-se desprende que las inspecciones y el mantenimiento periódicos se realizaron en los intervalos
-prescritos. En el momento de la aparición del accidente ferroviario no constaba ninguna avería en el Registro de averías.
-La inspección conjunta determinó que el aparato de enclavamiento en cuestión presentaba
-antes de la aparición del accidente ferroviario y en el momento de su aparición un estado sin averías y que el estado técnico del aparato de enclavamiento no guardaba
-relación causal con la aparición del accidente ferroviario.
-De la comprobación de la visibilidad de la señal de entrada L y de la preseñal PřL de la est. Kdyně y de sus señales
-no se detectó ningún defecto. Según el § 7 apart. 1 letra a) del decreto n.º 173/1995 Sb., la
-visibilidad requerida de las señales de las señales principales y de las preseñales desde la cabina de conducción en marcha
-del vehículo de conducción, bajo las condiciones establecidas, que se cumplieron, es de al menos 7 s. La velocidad de línea en el pk
-17,445 hasta el pk 19,637 es de 60 km·h-1. A esta velocidad corresponde la visibilidad requerida de las señales
-tanto de la señal de entrada como de la preseñal, a una distancia de 117 m. Las señales de la señal de entrada
-L eran visibles a una distancia superior a 300 m y las de la preseñal PřL a una distancia
-superior a 290 m.
+• la última inspección de circulación antes de la aparición del MU se realizó el 4. 9. 2020 sin defectos detectados;
+• la última inspección trimestral de los desvíos en la estación de Kdyně se realizó el 13. 8. 2020 sin defectos detectados;
+• la inspección integral periódica de la línea se realizó en el periodo del 17. 3. 2020 – 17. 4. 2020. En la inspección integral no se detectaron defectos que pusieran en peligro la aptitud para el servicio del transporte ferroviario;
+• el tratamiento químico de la hierba no deseada en el lecho de la vía de la estación de Kdyně mediante la aplicación de un preparado herbicida (Roundup Flex) se realizó en la 1.ª fase el 17. 6. 2020 y en la 2.ª fase el 4. 9. 2020.
 
+La estación de Kdyně está equipada con un dispositivo de señalización electromecánico modelo 5007 complementado con señales luminosas y preseñales – aparato central. Según la TNŽ 34 2620 se trata de un dispositivo de señalización de 2.ª categoría. El dispositivo de señalización no permite el mando a distancia, se acciona únicamente en local. Los desvíos n.º 2, 3 y 4 maniobrados manualmente, incluida la aguja de apartadero Vk1, que están protegidos con cerraduras mecánicas, se conectan al SZZ mediante una cerradura de enchufe en el aparato central. Los desvíos n.º 1 y 5 están equipados con motores eléctricos de maniobra. La parte eléctrica del dispositivo de señalización está situada en la caseta de relés junto al edificio de la estación.
+
+El SZZ de la estación de Kdyně dispone de un Certificado de aptitud del dispositivo técnico designado, n.º de ev.: PZ 10142/96-E.49, emitido por el DÚ el 9. 10. 1996, con vigencia por tiempo indefinido. El UTZ es apto para el servicio en virtud del Protocolo de inspección y ensayo técnico n.º UTZ/E-k-20/2016 de fecha 7. 6. 2016, con la conclusión: «El dispositivo de señalización reensayado corresponde a las normas técnicas y a las disposiciones vigentes. Garantiza la seguridad del transporte ferroviario en la medida determinada por la categoría del dispositivo, el tipo de dispositivo y el proyecto. El dispositivo es apto para el servicio». La última inspección y ensayo del dispositivo técnico designado se realizó en virtud del Protocolo de inspección y ensayo n.º 918/2020/-LP el 19. 5. 2020, con la conclusión: «El dispositivo de señalización inspeccionado y reensayado indicado en este protocolo sigue cumpliendo la función de garantizar directamente la seguridad del transporte ferroviario y es apto para el servicio». El SZZ no estaba equipado con un dispositivo para el archivo de su actividad. Del examen de los elementos de mando e indicación inmediatamente después de la aparición del MU se constató que el SZZ presentaba un funcionamiento normal. De los registros en el Registro de averías del dispositivo de telecomunicaciones y señalización del SZZ se desprende que las inspecciones y el mantenimiento periódicos se realizaron en los intervalos prescritos. En el momento de la aparición del MU no constaba ninguna avería en el Registro de averías. La inspección por comisión determinó que el SZZ en cuestión presentaba, antes de la aparición del MU y en el momento de la aparición del MU, un estado sin averías y que el estado técnico del SZZ no guardaba relación causal con la aparición del MU.
+
+De la verificación de la visibilidad de la señal de entrada L y de la preseñal PřL de la estación de Kdyně y de sus indicaciones no se detectó ningún defecto. Según el § 7 apartado 1 letra a) del decreto n.º 173/1995 Sb., la visibilidad requerida de las indicaciones de las señales principales y de las preseñales desde la cabina de conducción del DV en marcha, en las condiciones establecidas que se cumplieron, es de al menos 7 s. La velocidad de la línea entre km 17,445 y km 19,637 es de 60 km·h-1. A esta velocidad corresponde la visibilidad requerida de las indicaciones tanto de la señal de entrada como de la preseñal a una distancia de 117 m. Las indicaciones de la señal de entrada L eran visibles a una distancia superior a 300 m y las de la preseñal PřL a una distancia superior a 290 m.
 
 ## Página 35
+
 
 De la comprobación de la visibilidad de la señal de salida L2 de la est. Kdyně y de sus señales
 no se detectó ningún defecto. Según el § 7 apart. 1 letra a) del decreto n.º 173/1995 Sb., la
@@ -1447,84 +1399,82 @@ seal de entrada S desde la est. Domažlice por el tren Služ 55025;
 
 ## Página 36
 
-◦dado que el tren Os 17544 estaba retrasado y lo vio en la SK n.º 2 y el tren Služ 55025 entró en el ámbito de la est. Kdyně, dio al jefe de estación de la est. Domažlice la notificación de salida tras el tren Služ 55025 y ofreció el tren Os 17544;
-◦a continuación se produjo un estruendo, salió corriendo fuera de la oficina de tráfico y comprobó la colisión de trenes en la aguja de la est. Domažlice, a donde corrió inmediatamente y fue comprobando la situación;
-◦en el lugar de la colisión había varias personas heridas, por lo que volvió corriendo a la oficina de tráfico y actuó de conformidad con el Cuadro de notificaciones;
-◦regresó al lugar de la colisión, donde la ayuda a los heridos ya la estaban prestando personas ilesas o levemente heridas, y esperó la llegada de los servicios de IZS;
-a las preguntas complementarias respondió:
+◦dado que el tren Os 17544 estaba retrasado y lo vio en la SK n.º 2 y el tren Slu55025 entró en el ámbito de la est. Kdyně, dio al jefe de estación de la est. Domažlice la notificación de salida tras el tren Slu55025 y ofreció el tren Os 17544;
+◦a continuación se produjo un golpe, salió corriendo hacia fuera del despacho de tráfico y comprobó la colisión de trenes en la cabecera de Domažlice, hacia donde corrió inmediatamente y fue comprobando el estado de la situación;
+◦en el lugar de la colisión había varias personas heridas, por lo que corrió de vuelta al despacho de tráfico y actuó de conformidad con el Horario de Notificaciones;
+◦volvió al lugar de la colisión, donde la ayuda a los heridos ya la estaban prestando personas no heridas o levemente heridas, y esperó la llegada de los servicios del IZS;
+a las preguntas complementarias respondió: 
 •
 ◦el propio origen del MU, es decir, la colisión de trenes, no lo vio, solo oyó un ruido;
-◦vio el tren Os 17544 desde el enclavamiento en el nivel de la rampa de carga y no notó nada inusual, la forma de circular parecía estándar y no esperaba que el tren Os 17544 tuviera problemas y no se detuviera en el lugar designado;
-◦a continuación ya no siguió la marcha del tren Os 17544;
-◦no notó que el tren hubiera usado el arene, ni indicio alguno de que de los bogies del tren saliera polvo, volara arena o cualquier otra señal de que el maquinista del tren Os 17544 estaba usando el arene para mejorar la adherencia al frenar;
-◦la SK n.º 2 de la est. Kdyně era transitable, en el Libro de inspecciones y mediciones no figuraba como no transitable y no constató ningún hecho que le obligara a considerar la vía como no transitable;
-◦tampoco le fue comunicado por el maquinista del tren anterior, que ese día del MU entraba en la SK n.º 2 y se detuvo estándarmente en el lugar designado, ningún problema que indicara la no transitableidad de la SK n.º 2;
-◦en el periodo desde el 1. 8. 2020 hasta la ocurrencia del MU, nadie le comunicó ningún problema en la circulación de trenes, en especial la no detención de trenes en el lugar designado, ni los maquinistas, ni los compañeros jefes de estación, ni otros empleados de explotación;
+◦el tren Os 17544 lo vio desde el enclavamiento en el nivel de la rampa de carga y no notó nada inusual, la forma de circular parecía estándar y no esperaba que el tren Os 17544 tuviera problemas y no se detuviera en el lugar indicado;
+◦a continuación ya no siguió la circulación del tren Os 17544;
+◦no notó que el tren hubiera utilizado el areado, ni indicio alguno de que del bogie del tren saliera polvo, volara arena o cualquier otra señal de que el maquinista del tren Os 17544 estuviera utilizando el areado para mejorar la adherencia al frenar;
+◦la SK n.º 2 de la est. Kdyně era transitable, en el Libro de Inspecciones y Medidas no figuraba como no transitable y no constató ningún hecho que le obligara a considerar la vía como no transitable;
+◦tampoco le fue comunicado por el maquinista del tren anterior, que el día del MU entraba en la SK n.º 2 y se detuvo estándarmente en el lugar indicado, ningún problema que indicara la no transitabilidad de la SK n.º 2;
+◦en el periodo desde el 1. 8. 2020 hasta la ocurrencia del MU, nadie le comunicó ningún problema en la circulación de trenes, en particular la no detención de trenes en el lugar indicado, ni los maquinistas, ni los compañeros jefes de estación, ni otros empleados de explotación;
 jefe de estación de la est. Kdyně
-  – Registro oficial de la declaración prestada ante la PČR:
+  – Registro Oficial sobre la explicación presentada ante la Policía:
 •
-◦el 9. 9. 2020 llegaban a la est. Kdyně los trenes Os 17544 y Služ 55025, donde se cruzaban de forma excepcional;
-◦el tren de medición (nota DI: tren Služ 55025) no circula a diario, aproximadamente 4 veces al año;
-◦el tren Os 17544 en sentido desde la est. Pocinovice, que normalmente circula por la SK n.º 1, entraba, debido al cruce con el tren Služ 55025, por la SK n.º 2, y el tren Služ 55025 en sentido desde la est. Domažlice entraba por la SK n.º 1;
-◦al tren Os 17544 le brillaba en la señal de entrada de la est. Kdyně, según su declaración, la señal «Velocidad 40 km/h y aviso», lo que significa que la señal de salida está en posición base con la señal «Alto»;
+◦el 9. 9. 2020 llegaban a la est. Kdyně los trenes Os 17544 y Slu55025, donde cruzaban excepcionalmente;
+◦el tren de medición (nota: DI tren Slu55025) no circula a diario, aproximadamente 4 veces al año;
+◦el tren Os 17544 en dirección desde la est. Pocinovice, que normalmente circula por la SK n.º 1, entraba, debido al cruce con el tren Slu55025, por la SK n.º 2, y el tren Slu55025 en dirección desde la est. Domažlice entraba por la SK n.º 1;
+◦al tren Os 17544 le brillaba en la señal de entrada de la est. Kdyně, según su declaración, la señal «Velocidad 40 km/h y aviso», lo que significa que la señal de salida está en posición básica con la señal «Alto»;
 ◦el tren Os 17544 es un tren de pasajeros y con parada regular, en la est. Kdyně para regularmente delante del edificio de estación;
-
 
 ## Página 37
 
-◦al tren Služ 55025 en sentido desde la est. Domažlice le tenía, según su declaración, en la señal de entrada de la est. Kdyně la señal «Aviso», lo que significa que en la señal de salida tenía la señal «Alto»;
-◦el tren Os 17544 no se detuvo en el lugar designado y continuó en dirección a la est. Domažlice sin respetar la señal «Alto» en la señal de salida;
-◦en el momento en que vio llegar el tren Os 17544 por la SK n.º 2, estaba en el enclavamiento;
-◦en el panel comprobó que el tren Služ 55025 también entraba en la est. Kdyně, había pasado la señal de entrada en sentido desde la est. Domažlice;
-◦por última vez vio el tren Os 17544 por la SK n.º 2 en el nivel de la rampa y no observó ningún problema con la detención;
-◦a continuación se fue a preparar la documentación de tráfico para la salida del tren Os 17544 hacia la est. Domažlice y oyó la colisión;
-◦corrió al lugar de la colisión, donde comprobó que había pasajeros heridos, y notificó inmediatamente el accidente según el cuadro de notificaciones;
-a las preguntas complementarias respondió:
+◦el tren Služ 55025 en dirección desde la est. Domažlice tenía en la señal de entrada de la est. Kdyně, según su declaración, la señal «Aviso», lo que significa que en la señal de salida tenía la señal «Alto»;
+◦el tren Os 17544 no se detuvo en el lugar designado y continuó en dirección a la est. Domažlice, sin respetar la señal «Alto» en la señal de salida;
+◦en el momento en que vio llegar el tren Os 17544 a la vía SK n.º 2, estaba en el puesto de mando;
+◦en el panel comprobó que el tren Služ 55025 también entraba en la est. Kdyně, había pasado la señal de entrada en dirección desde la est. Domažlice;
+◦por última vez vio el tren Os 17544 en la vía SK n.º 2 a la altura de la rampa y no observó ningún problema con la detención;
+◦a continuación se fue a preparar la documentación de tráfico para la salida del tren Os 17544 hacia la est. Domažlice y escuchó la colisión;
+◦corrió al lugar de la colisión, donde comprobó que había pasajeros heridos, e informó inmediatamente del accidente según el plan de notificación;
+a las preguntas complementarias respondió: 
 •
-◦en el momento del MU estaba solo en su puesto de trabajo, el señalero realizaba el mantenimiento de los desvíos en la est. Pocinovice contigua;
-◦preparó la ruta de tren tanto para el tren Os 17544 como para el Služ 55025 de forma habitual, el SZZ en la est. Kdyně no presentaba ninguna avería y antes de preparar las rutas de tren se aseguró de la libertad de ambas vías mirando el panel del aparato de seguridad;
-◦los trenes que circulan en dirección directa pueden circular a una velocidad máxima de 60 km·h-1 y los trenes que entran en una desviación (nota DI: por la SK n.º 2 de la est. Kdyně) pueden circular a una velocidad máxima de 40 km·h-1;
-◦el tren ocupado por pasajeros circula siempre más cerca del edificio de estación y al tren Služ 55025 se le había ordenado por telegrama la SK n.º 1;
-◦el 9. 9. 2020 hasta la hora de ocurrencia del MU transcurrió el turno sin incidencias, incluido el cruce matutino de trenes hacia las 5:50 h, que es habitual, pero el orden está invertido. El tren desde Pocinovice iba por la SK n.º 1 y el tren en sentido desde Domažlice por la SK n.º 2;
-◦todo transcurrió correctamente, no registró ningún problema y tampoco nadie notificó nada;
-◦si los maquinistas observan algún obstáculo o avería, pueden comunicarlo por el radioteléfono TRS, que es el sistema de radio ferroviaria, que está en cada locomotora;
-◦el 9. 9. 2020 todo transcurría como debía, por lo que no constató ninguna restricción en la SK n.º 2, cuando ya esa mañana había pasado por allí sin problemas un tren;
-◦el entorno de la vía estaba rociado con un producto químico, no conocía ni su nombre ni su composición;
-◦el rociado se realizó el 3. 9. 2020, cuando también estaba de turno;
-◦en esos 6 días el césped estaba seco, no estaba segado;
+◦en el momento del MU estaba solo en su puesto de trabajo, el señalero realizaba el mantenimiento de los desvíos en la est. vecina Pocinovice;
+◦preparó la ruta de tren para el tren Os 17544 y el Služ 55025 de la manera habitual, el SZZ en la est. Kdyně no presentaba ninguna avería y antes de preparar las rutas de tren se aseguró de la libertad de ambas vías mirando el panel del aparato de enclavamiento;
+◦los trenes que circulan en dirección directa pueden circular a una velocidad máxima de 60 km·h-1 y los trenes que circulan hacia la desviación (nota DI: en la vía SK n.º 2 de la est. Kdyně) pueden circular a una velocidad máxima de 40 km·h-1;
+◦el tren ocupado por pasajeros circula siempre más cerca del edificio de tráfico y el tren Služ 55025 tenía ordenada por telegrama la vía SK n.º 1;
+◦el día 9. 9. 2020 hasta la hora de producción del MU se desarrolló el turno sin incidencias, incluido el cruce matutino de trenes hacia las 5:50 h, que es habitual, pero el orden está invertido. El tren desde Pocinovice circulaba por la vía SK n.º 1 y el tren en dirección desde Domažlice por la vía SK n.º 2; 
+◦todo transcurrió correctamente, no registró ningún problema y tampoco nadie informó de nada;
+◦si los maquinistas observan algún obstáculo o avería, pueden comunicarlo por el radioteléfono TRS, que es el sistema de radio ferroviaria que dispone cada locomotora;
+◦el día 9. 9. 2020 todo transcurría como debía, por lo que no encontró ninguna limitación en la vía SK n.º 2, cuando ya esa mañana había pasado sin problemas un tren;
+◦el entorno de la vía estaba rociado con un producto químico, cuyo nombre ni composición conocía;
+◦el rociado se realizó el día 3. 9. 2020, fecha en la que también estaba de turno;
+◦en esos 6 días la hierba estaba seca, no se había segado;
 maquinista del tren Os 17544
-  – Registro oficial de la declaración prestada ante la PČR:
+  – Registro oficial de la declaración prestada ante la Policía (PČR):
 •
-
 
 ## Página 38
 
-◦el 9. 9. 2020 circulaba como maquinista con el automotor de la serie 810 desde Klatov hacia Domažlice, la circulación transcurría sin incidencias;
-◦antes de la est. Kdyně, por última vez, paró en la parada Dobříkov na Šumavě, la parada Chodská Lhota (parada a petición) la pasó de largo;
-◦antes de la est. Kdyně le brillaba en el preaviso de la señal de entrada PřL la señal «Espere velocidad 40 km/h»;
-◦a continuación seguía la señal de entrada L, según su declaración, con la señal «Velocidad 40 km/h y aviso» – desde la señal de entrada se debe circular a una velocidad máxima de 40 km·h-1, y eso lo cumplió;
-◦tras pasar el desvío por la SK n.º 2 empezó a frenar de inmediato, sin embargo se produjo el derrape, y por ello empezó a espolvorear arena y a frenar de forma intermitente;
-◦pero el tren diésel no respondió, por lo que gritó que no frenaba, para que los pasajeros se agarraran;
-◦esperaba conseguir detenerse de alguna manera, lamentablemente vio llegar el tren en sentido contrario desde la est. Domažlice;
-◦antes de la colisión con el tren en sentido contrario aplicó el freno de emergencia y además apretó el freno de mano;
+◦el día 9. 9. 2020 viajó como maquinista con el vehículo motor de la serie 810 desde Klatov hasta Domažlic, el viaje transcurrió sin incidencias;
+◦antes de la est. Kdyně detuvo por última vez en la parada Dobříkov na Šumavě, la parada Chodská Lhota (parada a demanda) la pasó sin detenerse;
+◦antes de la est. Kdyně se iluminaba en el preaviso de la señal de entrada PLa la señal «Espere velocidad de 40 km/h»;
+◦a continuación siguió la señal de entrada L, según su declaración, con la señal «Velocidad de 40 km/h y aviso» – desde la señal de entrada se debe circular a una velocidad máxima de 40 km·h-1, y lo cumplió;
+◦tras pasar la aguja en la SK n.º 2 comenzó a frenar de inmediato, pero se produjo derrape, por lo que comenzó a arenar y a frenar de forma intermitente;
+◦el tren de motor no respondió, por lo que gritó que no frenaba, para que los pasajeros se agarraran;
+◦esperaba conseguir detenerse de alguna manera, pero lamentablemente vio llegar el tren en sentido contrario desde la est. Domažlice;
+◦antes de la colisión con el tren en sentido contrario utilizó el freno de emergencia y apretó además el freno de mano;
 ◦el impacto lo arrojó al lado derecho, donde quedó atrapado hasta la llegada de los servicios de rescate;
-◦por qué resbalaba, no lo sabía, notó que la vía estaba invadida de hierba;
-◦se trataba de la vía más cercana al edificio de estación y toda la est. Kdyně está en pendiente en sentido desde la est. Klatovy;
-◦el 9. 9. 2020 se incorporó al trabajo hacia las 3:30 h y a las 4:36 h circuló como maquinista en el enlace Klatovy – Domažlice, cuando la est. Kdyně la cruzaba por la SK n.º 1, es decir, no por aquella vía por la que circulaba cuando se produjo el accidente;
-◦para la conducción de trenes como maquinista tiene licencia y reconocimiento médico vigente, que es anual;
+◦no sabía por qué resbalaba, observó que la vía estaba crecida de hierba;
+◦se trataba de la vía más cercana al edificio de estación y toda la est. Kdyně está en pendiente en el sentido desde la est. Klatovy;
+◦el día 9. 9. 2020 se incorporó al trabajo alrededor de las 3:30 h y a las 4:36 h viajó como maquinista en el servicio Klatovy – Domažlice, cuando la est. Kdyně la pasó por la SK n.º 1, es decir, no por aquella vía por la que circulaba cuando se produjo el accidente;
+◦para dirigir el tren como maquinista tiene licencia y reconocimiento médico válido, que es anual;
 maquinista del tren Os 17544
   – Registro de la declaración prestada ante el DI:
 •
-◦al incorporarse al turno el 9. 9. 2020 estaba debidamente descansado;
-◦como maquinista lleva 15 años trabajando y en la línea Janovice nad Úhlavou – Domažlice circula regularmente desde hace 12 años;
-◦el 9. 9. 2020 se incorporó al turno en la est. Klatovy, primero para el tren Os 17540;
-◦en la est. Kdyně paró con el tren Os 17540 para el ascenso y descenso de pasajeros por la SK n.º 1;
+◦al incorporarse al turno el día 9. 9. 2020 estaba debidamente descansado;
+◦trabaja como maquinista desde hace 15 años y en la línea Janovice nad Úhlavou – Domažlic circula regularmente desde hace 12 años;
+◦el día 9. 9. 2020 se incorporó al turno en la est. Klatovy, primero en el tren Os 17540;
+◦en la est. Kdyně se detuvo con el tren Os 17540 para el desembarque y embarque de pasajeros en la SK n.º 1;
 ◦tras llegar a la est. Domažlice hizo maniobras para el tren Os 17545 de vuelta a la est. Klatovy;
-◦la circulación transcurría sin incidencias, en la est. Kdyně paró para el ascenso y descenso de pasajeros por la SK n.º 2 debido al cruce con el tren Os 17542;
-◦al salir de la est. Kdyně no observó ningún deslizamiento ni derrape de ruedas;
-
+◦el viaje transcurrió sin incidencias, en la est. Kdyně se detuvo para el desembarque y embarque de pasajeros en la SK n.º 2 debido al cruce con el tren Os 17542;
+◦al salir de la est. Kdyně no observó ningún deslizamiento ni derrape de las ruedas;
 
 ## Página 39
+
 
 ◦debido a que el 9. 9. 2020, por causa de una intervención, se le cambió su turno, continuó a continuación con el desempeño del servicio en el tren Os 17544;
 ◦tras la salida del tren Os 17544 de la est. Klatovy la circulación transcurría sin incidencias;
@@ -1546,8 +1496,8 @@ maquinista del tren Os 17544
 ◦en todo el ámbito de la estación intentó detener el tren, tanto antes como después de pasar la señal de salida L2;
 ◦ninguna infracción de velocidad desde la señal de entrada L de la est. Kdyně, incluida la circulación posterior por los desvíos n.º 1 y 2, era consciente;
 
-
 ## Página 40
+
 
 ◦insistió en que estaba usando el dispositivo de arene del automotor, y sobre las huellas no detectadas de este arene en los cantos de las cabezas de los raíles ni en la superestructura de la SK n.º 2 no tenía nada que añadir;
 ◦la práctica de explotación ni el instinto de supervivencia ni la responsabilidad del desempeño del servicio le permiten arriesgar con una eventual infracción de velocidad su vida ni la de los pasajeros;
@@ -1576,6 +1526,7 @@ maquinista del tren Služ 55025
 
 ## Página 41
 
+
 ◦el viaje transcurría sin incidencias, dado que al no conocer las condiciones de la línea en la traza y en las estaciones de clasificación, viajaba junto con él un maquinista piloto;
 ◦en el preaviso de la señal de entrada PřS de la est. Kdyně lucía la señal «Aviso»;
 ◦redujo la velocidad, en la señal de entrada S de la est. Kdyně lucía la señal «Repetición de la señal Aviso», por lo que sabía que circulaban por la SK n.º 1;
@@ -1601,116 +1552,112 @@ maquinista piloto del tren Služ 55025
 ◦partieron de la est. Domažlice con el tren Služ 55025 aproximadamente a las 6:50 h, el viaje transcurría sin problemas, ya que el maquinista no conocía la línea, por lo que le orientaba;
 ◦en el puesto de conducción se sentaba a la izquierda en el sentido de la marcha, era un día claro, daba el sol;
 
-
 ## Página 42
 
-◦en el preaviso de la señal de entrada PřS de la est. Kdyně lucía la señal «Aviso»;
-◦como en la est. Kdyně tenían que cruzar con un tren de viajeros, pensó que el tren de viajeros probablemente llevaría retraso, dado que el jefe de estación no lo estaba recibiendo en la estación;
-◦el maquinista eligió, desde el preaviso de la señal de entrada PřS, la marcha por inercia, después vieron la señal de entrada S de la est. Kdyně, en la que lucía la señal «Repetición de la señal Aviso»;
-◦el maquinista puso la HDV ligeramente en potencia y después de nuevo la marcha por inercia, circulaban a una velocidad estimada de 35 km·h-1, no vigilaba el velocímetro;
-◦al salir de la curva a la derecha vieron el tren de viajeros, que se aproximaba al paso a nivel de la SK n.º 2 junto a la oficina de tráfico, y les parecía que circulaba lentamente y que se detendría frente al edificio de la estación;
+◦en la preseñal del semáforo de entrada PřS de la estación de Kdynie se iluminaba la señal «Výstraha» (Aviso);
+◦como en la estación de Kdynie tenían que cruzar con un tren de viajeros, se dijo que el tren de viajeros probablemente tenía retraso, ya que el jefe de estación no lo recibía en la estación;
+◦el maquinista eligió, desde la preseñal del semáforo de entrada PřS, la marcha por inercia; a continuación vieron el semáforo de entrada S de la estación de Kdynie, en el que se iluminaba la señal «Opakování návěsti Výstraha» (Repetición de la señal Aviso);
+◦el maquinista puso la HDV levemente en servicio y, a continuación, de nuevo marcha por inercia; circulaban a una velocidad estimada de 35 km·h-1, no vigilaban el velocímetro;
+◦al salir de la curva a la derecha, vieron un tren de viajeros que se aproximaba al paso a nivel n.º 2 junto a la oficina de tráfico, y les parecía que iba despacio y que se detendría delante del edificio de la estación;
 ◦se decían con el maquinista que el tren de viajeros estaba entrando justo en la estación y que iba a detenerse;
-◦cuando vieron que el tren de viajeros no se había detenido ni antes ni después del paso a nivel, con su colega se dijeron que probablemente se acercaba a la señal de salida;
-◦en ese momento se encontraban en un tramo recto aproximadamente a 100 – 150 m de la aguja extrema (nota del DI: aguja n.º 5 de la est. Kdyně);
-◦en cuanto el tren de viajeros pasó la señal de salida (nota del DI: señal de salida L2 de la est. Kdyně), comenzaron a pitar, a frenar y a arenar;
-◦como era evidente que se iba a producir la colisión, pensaba dónde podría esconderse o si debía saltar del tren, ya que esperaba el impacto de su lado;
-◦evaluó la situación y se trasladó al lado derecho junto al maquinista, se agarró con la mano izquierda al borde superior del cuadro eléctrico, con la mano derecha a la radio y miraba hacia delante al maquinista del tren de viajeros;
-◦vio al maquinista del tren de viajeros sentado en el puesto de conducción, con la mano izquierda sobre la pupitre, la mano derecha no la veía, estaba inclinado y miraba hacia el pupitre de mando;
-◦justo antes del impacto el maquinista del tren de viajeros se hundió aún más en el lado derecho, pero no abandonó el puesto de conducción;
-◦a continuación se produjo la colisión, el coche motorizado se elevó y rebotó hacia atrás unos 10 – 11 m, y como continuaban la marcha, a pesar de que frenaban, se produjo una segunda colisión más débil y con el frontal de su HDV deformaron el puesto de conducción del tren de viajeros;
-◦su colega maquinista permaneció sentado, agarrado en el asiento;
-◦tras la colisión se aseguraron mutuamente de su estado de salud, él tenía el ojo derecho herido, pero su colega no estaba herido;
-◦no observó que el maquinista del tren contrario diera señales antes de la colisión o indicaciones para detener el tren;
-◦en relación con la posible utilización del arenado por parte del tren de viajeros, notó que de ambos ejes, es decir, del eje delantero y del trasero, se formaba una nube blanquecina de humo, y le decía a su colega que el tren de viajeros no podía detenerse porque circulaba en derrape;
-
+◦cuando vieron que el tren de viajeros no se había detenido delante del paso a nivel ni detrás de él, dijeron con el colega que probablemente estaba avanzando hacia el semáforo de salida;
+◦en ese momento se encontraban en un tramo llano a unos 100 – 150 m antes del desvío extremo (nota DI: desvío n.º 5 de la estación de Kdynie);
+◦en cuanto el tren de viajeros pasó el semáforo de salida (nota DI: semáforo de salida L2 de la estación de Kdynie), empezaron a pitar, a frenar y a espolvorear arena;
+◦como era evidente que iba a producirse una colisión, pensaba dónde podría esconderse o si debía saltar del tren, ya que esperaba el impacto por su lado;
+◦evaluó la situación y se trasladó al lado derecho, junto al maquinista; se apoyó con la mano izquierda en el borde superior del cuadro eléctrico, con la mano derecha en la estación de radio, y miraba hacia delante, hacia el maquinista del tren de viajeros;
+◦vio al maquinista del tren de viajeros sentado en su puesto, con la mano izquierda en el pupitre, no veía la mano derecha, estaba inclinado y miraba hacia el pupitre de mando;
+◦justo antes del impacto, el maquinista del tren de viajeros se apretó aún más contra el lado derecho, pero no abandonó su puesto;
+◦a continuación se produjo la colisión; el coche motor se elevó y rebotó hacia atrás unos 10 – 11 m, y como continuaban circulando, a pesar de que frenaban, se produjo una segunda colisión más débil, y con el frontal de su HDV deformaron el puesto del tren de viajeros;
+◦su colega maquinista permaneció sentado, apoyado en el asiento;
+◦tras la colisión, se aseguraron mutuamente de su estado de salud; él tenía el ojo derecho herido, pero el colega no estaba herido;
+◦no observó que el maquinista del tren contrario diera, antes de la colisión, señales o indicaciones para detener el tren;
+◦en relación con la posible utilización del espolvoreado de arena por parte del tren de viajeros, observó que de ambos ejes, es decir, del eje delantero y del trasero, se formaba una nube blanquecina de humo, y le dijo al colega que el tren de viajeros no podía detenerse, porque iba derrapando;
 
 ## Página 43
 
-◦tras la colisión notificaron la aparición de la MU cada uno a su jefe de locomotora y después estuvieron a disposición de los miembros del sistema de rescate;
-◦ayudaron en la extracción de los pasajeros del coche motorizado del tren de viajeros, ya que las puertas de salida se habían bloqueado, y posteriormente ayudaron en la atención a los pasajeros;
-◦también notó que, incluso antes de la llegada de los investigadores, 3 empleados de Správy tratí recorrían el espacio de la vía y examinaban el estado de la SK n.º 2;
-◦en los cantos de los raíles había hierba seca pisoteada y los raíles estaban mojados por el rocío matinal;
-◦pero no notó que estos empleados intervinieran de alguna manera o modificaran el estado de los puntos de la MU.
+◦tras el choque, cada uno comunicó la aparición de un MU a su propio maquinista y, a continuación, estuvieron a disposición de los miembros del sistema de rescate;
+◦ayudaron en la extracción de los pasajeros del coche motor del tren de pasajeros, ya que las puertas de salida quedaron bloqueadas, y posteriormente ayudaron en la atención a los pasajeros;
+◦también observó que, incluso antes de la llegada de los investigadores, 3 empleados de la Administración de Líneas recorrían el espacio de la vía y examinaban el estado de la SK n.º 2;
+◦en la cabeza de los raíles había hierba seca atropellada y los raíles estaban mojados por el rocío de la mañana;
+◦pero no notó que estos empleados intervinieran de alguna manera o modificaran el estado de las marcas del lugar del MU.
 
-Resumen de las declaraciones prestadas por los testigos:
+Resumen de las explicaciones prestadas por los testigos:
 testigo, jefe de tren del tren Os 17544
   – Acta con el empleado:
 •
-◦el día 9. 9. 2020 acompañó al tren Os 17544, partieron de la est. Klatovy con un ligero retraso debido a la espera de la conexión desde Plzeň;
-◦en la est. Pocinovice subieron unos cuatro pasajeros, en la parada Dobříkov na Šumavě no bajó ni subió ningún pasajero y la parada a demanda Chodská Lhota la pasó el tren Os 17544 sin detenerse;
-◦en el momento de pasar por la parada Chodská Lhota ya tenía realizada la comprobación de los títulos de transporte y se sentaba cerca de las puertas traseras en el compartimento para pasajeros;
-◦en el momento de la colisión con el tren Služ 55025 se encontraba junto a las puertas delanteras, detrás del maquinista, esperando la detención del tren en la est. Kdyně;
-◦desde su posición no vio las señales del preaviso PřL ni de la señal de entrada L de la est. Kdyně;
-◦registró que el maquinista intentaba frenar de forma progresiva, redujeron un poco la velocidad y a la altura del edificio de estación oyó la aplicación del freno rápido;
-◦tras el impacto notó las puertas abiertas y se dio cuenta de que tenía que sacar a todos los pasajeros del tren e informar al despachador y a los servicios de emergencia;
+◦el 9. 9. 2020 acompañó al tren Os 17544, partieron de la est. Klatovy con un ligero retraso debido a la espera de la conexión desde Plzeň;
+◦en la est. Pocinovice subieron unos cuatro pasajeros, en la parada Dobříkov na Šumavě no bajó ni subió ningún pasajero y el tren Os 17544 pasó por la parada a demanda Chodská Lhota sin detenerse;
+◦en el momento de pasar por la parada Chodská Lhota ya tenía realizada la comprobación de los títulos de viaje y estaba sentado cerca de las puertas traseras en el compartimento para pasajeros;
+◦en el momento del choque con el tren Služ 55025 se encontraba junto a las puertas delanteras, detrás del maquinista, y esperaba la detención del tren en la est. Kdyně;
+◦desde su posición no veía las señales de aproximación PřL ni la señal de entrada L de la est. Kdyně;
+◦registró que el maquinista intentaba frenar de forma progresiva, redujeron un poco la velocidad y, a la altura del edificio de estación, escuchó la aplicación del freno de emergencia;
+◦tras el impacto notó las puertas abatidas y se dio cuenta de que tenía que sacar a todos los pasajeros del tren e informar al despachador y a los servicios de rescate;
 testigo, jefe de tren del tren Os 17544
-  – Registro de la declaración prestada ante el DI:
+  – Registro de la explicación prestada ante la DI:
 •
-◦al incorporarse al turno el día 9. 9. 2020 estaba descansado y durante el mismo no se produjeron complicaciones;
+◦al incorporarse al turno el 9. 9. 2020 estaba descansado y durante el mismo no se produjeron complicaciones;
 ◦partieron de la est. Klatovy con el tren Os 17544 con un retraso de aproximadamente 5 min;
-◦en la parada Dobříkov na Šumavě se detuvieron con el tren Os 17544 en el andén elevado aproximadamente en su parte central;
-◦en esta parada, por regla general, se detienen con los trenes de transporte de viajeros en la parte central del andén;
-◦en la parada Dobříkov na Šumavě no bajó ni subió ningún pasajero y, tras realizar la revisión del tren, continuaron la marcha en dirección a la est. Kdyně;
-
+◦en la parada Dobříkov na Šumavě se detuvieron con el tren Os 17544 junto al andén elevado, aproximadamente en su parte central;
+◦en esta parada, por lo general, se detienen con los trenes de tráfico de pasajeros en la parte central del andén;
+◦en la parada Dobříkov na Šumavě no bajó ni subió ningún pasajero y, tras realizar la maniobra del tren, continuaron la marcha en dirección a la est. Kdyně;
 
 ## Página 44
 
-◦la parada a demanda Chodská Lhota la pasaron sin detenerse, el viaje transcurría sin incidencias;
-◦cuando se aproximaban a la est. Kdyně, percibió una reducción de la velocidad del tren, después entraron en las agujas n.º 1 y 2 de la est. Kdyně, el movimiento del coche motorizado era tranquilo;
-◦tras pasar las agujas oyó el sonido de las ruedas circulando en derrape y aproximadamente a la altura del edificio de estación oyó la salida de aire, reconoció que el maquinista había aplicado el frenado de acción rápida;
-◦durante la marcha en derrape por la SK n.º 2 el coche motorizado iba reduciendo la velocidad;
-◦poco después de aplicar el frenado de acción rápida entraron con el tren Os 17544 en las agujas de la cabeza de vías de Domažlice e inmediatamente después se produjo la colisión;
-◦inmediatamente antes de la aparición de la MU estaba junto a las puertas de acceso, detrás del puesto de conducción;
-◦recordó que aproximadamente a la altura del edificio de estación de la est. Kdyně el maquinista abrió parcialmente la puerta del puesto de conducción y gritó que no frenaba;
-◦tras la colisión ayudó a los pasajeros a salir del coche motorizado, temía la aparición de un incendio, y posteriormente esperó a ser atendido;
-testigo, responsable de mediciones del tren Služ 55025
+◦pasaron sin detenerse en la parada con señal Chodská Lhota, la circulación transcurrió sin incidencias;
+◦al acercarse a la est. Kdyně, notó la reducción de velocidad del tren, a continuación entraron en los desvíos n.º 1 y 2 de la est. Kdyně, el movimiento del coche motor era tranquilo;
+◦al pasar los desvíos, oyó el sonido de las ruedas patinando y aproximadamente a la altura del edificio de circulación oyó la salida de aire, reconoció que el maquinista aplicó el frenado de acción rápida;
+◦durante la circulación con patinaje en la SK n.º 2, el coche motor iba reduciendo velocidad;
+◦poco después de aplicar el frenado de acción rápida, entraron con el tren Os 17544 en los desvíos de la cabecera de Domažlice e inmediatamente después se produjo la colisión;
+◦inmediatamente antes de producirse el MU se encontraba de pie junto a las puertas de acceso detrás del puesto del maquinista;
+◦recordó que aproximadamente a la altura del edificio de circulación de la est. Kdyně, el maquinista abrió ligeramente la puerta del puesto y gritó que no frenaba;
+◦tras la colisión, ayudó a los pasajeros a bajar del coche motor, temió que se produjera un incendio y, posteriormente, esperó a ser atendido;
+testigo, jefe de medición del tren Služ 55025
   – Acta con el empleado:
 •
-◦el día 9. 9. 2020 poco después de las 6:45 h, tras iniciar la medición, salieron de la est. Domažlice en dirección a la est. Janovice nad Úhlavou;
-◦al entrar en la est. Kdyně se estaban realizando las operaciones estándar necesarias para la medición, cuando oyó la larga señal de bocina de su HDV y sintió dos impactos violentos;
-◦su colega le gritó que habían chocado con el tren de viajeros;
-◦se aseguraron mutuamente de su estado de salud y después salieron a mirar fuera, donde el maquinista de su tren ya estaba comprobando el estado de los pasajeros del tren de viajeros;
-◦tras la llegada de los IZS prestaron colaboración y actuaron según sus instrucciones;
+◦el 9. 9. 2020, poco después de las 6:45 h, tras iniciar la medición, salieron de la est. Domažlice en dirección a la est. Janovice nad Úhlavou;
+◦al entrar en la est. Kdyně se estaban realizando las operaciones estándar necesarias para la medición, cuando oyó el largo pitido de su HDV y sintió dos golpes secos;
+◦el colega le gritó que habían chocado con un tren de pasajeros;
+◦se comprobaron mutuamente su estado de salud y a continuación salieron a ver fuera, donde el maquinista de su tren ya estaba comprobando el estado de los pasajeros del tren de pasajeros;
+◦tras la llegada de los IZS, prestaron colaboración y procedieron según sus instrucciones;
 testigo, 
  gestor del MV
   del tren Služ 55025
   – Acta con el empleado:
 •
-◦el día 9. 9. 2020 poco después de las 6:45 h, tras iniciar la medición, salieron de la est. Domažlice en dirección a la est. Janovice nad Úhlavou;
-◦al entrar en la est. Kdyně seguía el desarrollo de la marcha en los monitores de las cámaras laterales, donde vio que en ellas circulaba un tren de viajeros desde la vía adyacente;
-◦a continuación se produjo la larga señal de bocina y sintió dos impactos violentos;
-◦con su compañera se informaron mutuamente de su estado de salud y después salieron a mirar fuera, donde el maquinista de su tren ya estaba comprobando el estado de los pasajeros del tren de viajeros;
-◦tras la llegada de los IZS prestaron colaboración, actuaron según sus instrucciones y se dejó atender.
-
-Resumen de las declaraciones prestadas por otras personas:
+◦el 9. 9. 2020, poco después de las 6:45 h, tras iniciar la medición, salieron de la est. Domažlice en dirección a la est. Janovice nad Úhlavou;
+◦al entrar en la est. Kdyně, seguía el desarrollo de la circulación en los monitores de las cámaras laterales, donde vio que por la vía adyacente circulaba un tren de pasajeros;
+◦a continuación se oyó un largo pitido y sintió dos golpes secos;
+◦se informaron mutuamente de su estado de salud y a continuación salieron a ver fuera, donde el maquinista de su tren ya estaba comprobando el estado de los pasajeros del tren de pasajeros;
+◦tras la llegada de los IZS, prestaron colaboración, procedieron según sus instrucciones y se dejó atender.
+Resumen de las explicaciones aportadas por las demás personas:
 maquinista 1 – Acta con el empleado:
 •
 
-
 ## Página 45
 
-◦el día 10. 8. 2020 tuvo un problema similar al de su colega, al que le ocurrió el suceso el día 9. 9. 2020;
-◦entraba en la est. Kdyně en dirección desde Klatovy con la señal «Velocidad 40 km/h y aviso» en la SK n.º 2, menos utilizada;
-◦tras un intenso arenado y un frenado intermitente logró detener el tren a la altura de la señal de salida en posición «Alto» (nota del DI: señal de salida L2);
-◦al jefe de estación de la est. Kdyně le dijo, solo de forma informal, que «con esa pradera en las vías debería hacerse algo», y lo mismo repitió verbalmente en los días siguientes a su colega;
+◦el día 10. 8. 2020 tuvo un problema similar al del colega al que le ocurrió el suceso accidental el día 9. 9. 2020;
+◦entraba en la estación de Kdyně en sentido desde Klatovy hacia la señal «Velocidad 40 km/h y aviso» en el SK n.º 2, menos utilizado;
+◦tras un intenso espolvoreado y un frenado intermitente, logró detener el tren a la altura de la señal de salida en posición «Alto» (nota DI: señal de salida L2);
+◦le dijo al jefe de estación de Kdyně, solo de forma informal, que «habría que hacer algo con ese pasto en las vías», y repitió lo mismo verbalmente los días siguientes a su colega;
 maquinista 2 – Acta con el empleado:
 •
-◦el día 19. 8. 2020 conducía los trenes Os 17552 y Os 17557;
-◦con ambos trenes pasaba por la est. Kdyně por la SK n.º 1, donde las condiciones de adherencia eran buenas;
+◦el día 19. 8. 2020 condujo los trenes Os 17552 y Os 17557;
+◦en ambos trenes pasó por la estación de Kdyně por el SK n.º 1, donde las condiciones de adherencia eran buenas;
 maquinista 3 – Acta con el empleado:
 •
-◦el día 24. 8. 2020 conducía el tren Os 17556, que debido a la vía en servicio terminaba en la est. Kdyně;
-◦en la señal de entrada L de la est. Kdyně lucía la velocidad «Velocidad 40 km/h y aviso»;
-◦tras entrar en la SK n.º 2 observó hierba en la vía e inició inmediatamente el frenado, sin embargo, todas las ruedas entraron en derrape;
-◦solo gracias a una gran fortuna y con la ayuda del arenado y del frenado intermitente logró detener el tren unos 5 m antes de la señal de salida en posición «Alto» (nota del DI: señal de salida L2);
-◦durante el derrape se produjeron planos en las ruedas de la HDV, lo que anotó en el Libro de entrega de la HDV y notificó al jefe de locomotora en Klatovy;
-◦a la vez, notificó verbalmente de inmediato al jefe de estación de la est. Kdyně la situación peligrosa (la hierba) en la SK n.º 2, quien le respondió que ya lo sabía;
-◦hacía sol, daba el sol y a partir de las 16 h estaba seco.
+◦el día 24. 8. 2020 condujo el tren Os 17556, que debido a la interrupción terminaba en la estación de Kdyně;
+◦en la señal de entrada L de la estación de Kdyně brillaba la velocidad «Velocidad 40 km/h y aviso»;
+◦tras entrar en el SK n.º 2 detectó hierba en la vía e inició inmediatamente el frenado, sin embargo, todas las ruedas entraron en derrape;
+◦solo gracias a mucha suerte y con la ayuda del espolvoreado y del frenado intermitente, logró detener el tren a unos 5 m antes de la señal de salida en posición «Alto» (nota DI: señal de salida L2);
+◦debido al derrape se formaron planos en las ruedas de la HDV, lo que anotó en el Libro de entrega de la HDV y lo comunicó al maquinista jefe en Klatovy;
+◦a la vez, comunicó inmediatamente de palabra al jefe de estación de Kdyně la situación peligrosa (la hierba) en el SK n.º 2, quien le respondió que ya lo sabía;
+◦estaba despejado, brillaba el sol y después de las 16 h estaba seco.
 ### 3.2 Descripción fáctica del suceso
-### 3.2.1 Secuencia de hechos que condujeron al suceso
-El maquinista del tren Os 17544 se incorporó al turno el día 9. 9. 2020 en la est. Klatovy, primero para el tren Os 17540 con salida regular de la est. Klatovy a las 4:36 h, en dirección a la est. Domažlice, donde tenía que hacer transbordo al tren Os 17545 Domažlice – Klatovy. Ambos viajes, según la declaración del maquinista, transcurrieron sin incidencias. Con el tren Os 17540 se detuvo en la est. Kdyně para el ascenso y descenso de pasajeros en la SK n.º 1 y posteriormente con el tren Os 17545, debido al cruce con el tren Os 17542, en la SK n.º 2. Al salir de la est. Kdyně no observó ningún deslizamiento ni derrape de las ruedas. Tras llegar con el tren Os 17545 a la est. Klatovy, el día 9. 9. 2020, debido a la vía en servicio, tuvo un cambio en el turno y continuó con el servicio en el tren Os 17544 Klatovy – Domažlice. De la est. Klatovy salió a las 6:36 h, es decir, con un retraso de 5 minutos. El viaje transcurría sin incidencias, ninguna avería o defecto en la HDV durante el viaje
+### 3.2.1 Secuencia de hechos que condujeron al suceso excepcional
+El maquinista del tren Os 17544 entró en turno el día 9. 9. 2020 en la estación de Klatovy, primero para el tren Os 17540 con salida regular de la estación de Klatovy a las 4:36 h, en sentido a la estación de Domažlice, donde tenía el relevo para el tren Os 17545 Domažlice – Klatovy. Ambos viajes, según la declaración del maquinista, transcurrieron sin incidencias. Con el tren Os 17540 se detuvo en la estación de Kdyně para el ascenso y descenso de pasajeros en el SK n.º 1 y posteriormente con el tren Os 17545, debido al cruce con el tren Os 17542, en el SK n.º 2. Al salir de la estación de Kdyně no observó ningún deslizamiento ni derrape de ruedas. Tras llegar con el tren Os 17545 a la estación de Klatovy, el día 9. 9. 2020, debido a la interrupción, tuvo un cambio en el turno y continuó con la prestación de servicio en el tren Os 17544 Klatovy – Domažlice. Salió de la estación de Klatovy a las 6:36 h, es decir, con 5 minutos de retraso. El viaje transcurrió sin incidencias, sin que se produjera ninguna avería o defecto en la HDV durante el viaje
 
 ## Página 46
+
 
 no observaba, la última parada para el ascenso y descenso de viajeros antes de la est. Kdyně era la parada Dobříkov na Šumavě.
 El jefe de estación de la est. Kdyně estableció la vía de tren para el tren Služ 55025 en el sentido desde la est. Domažlice a la vía principal (SK) n.º 1 y para el tren Os 17544 en el sentido desde la est. Klatovy a la vía principal (SK) n.º 2. En el preaviso del semáforo de entrada PřL de la est. Kdyně brillaba la señal «Aviso» y en el semáforo de entrada L la señal «Velocidad 40 km/h y repetición de la señal Aviso». El maquinista del tren Os 17544, según su declaración, ajustó la velocidad de modo que desde el semáforo de entrada circulara con una velocidad máxima de 40 km·h-1. Según el análisis de los datos registrados por el registrador electrónico de velocidad, el maquinista circuló, sin embargo, con el tren Os 17544 desde la altura del semáforo de entrada L de la est. Kdyně con una velocidad no permitida de 60 km·h-1 y, a continuación, a través de los desvíos n.º 1 y 2 de la est. Kdyně con una velocidad no permitida de 59 km·h-1 y 58 km·h-1. Tras pasar los desvíos n.º 1 y 2, según su declaración, el maquinista intentó reducir la velocidad del tren, utilizó el freno auxiliar, pero se produjo el derrape de las ruedas de la locomotora (HDV), por lo que, en su intento de reducir la velocidad y detenerse, frenó intermitentemente y usó la arena. Tras divisar, en el sentido desde la est. Domažlice, un tren en sentido contrario, a pesar de que, según su declaración, aplicó el frenado de acción rápida y apretó además el freno de mano, se produjo en el pk 19,371 una circulación no autorizada más allá de la señal de salida L2 con la señal «Alto» y, a continuación, en el pk 19,439, la colisión con el tren en sentido contrario Služ 55025.
@@ -1719,73 +1666,76 @@ Con el posterior apriete del freno de mano, el maquinista del tren Os 17544 se i
 De los hallazgos expuestos se desprende que el maquinista del tren Os 17544 no actuó, en el frenado del tren y el derrape de ruedas de la locomotora (DV) producido, de conformidad con los procedimientos tecnológicos establecidos del transportista.
 Como consecuencia de la colisión, el tren Os 17544 fue desplazado 14 m en sentido contrario a su circulación y se produjo su descarrilamiento.
 
-
 ## Página 47
 
-Fig. n.º 7: Esquema del lugar de origen del evento (MU)
+Figura n.º 7: Esquema del lugar de origen del evento excepcional
    Fuente: DI
-### 3.2.2 Secuencia de hechos desde el origen del evento extraordinario hasta la finalización de las acciones de los servicios de emergencia
+### 3.2.2 Secuencia de hechos desde el origen del evento excepcional hasta la finalización de las acciones de los servicios de rescate
 7:08 h
-origen del evento (MU);
+origen del EE;
 •
 7:10 h
-comunicación del origen del evento (MU) por el jefe de estación de la est. Kdyně al despachador operativo del CDP
+comunicación del origen del EE por el jefe de estación de Kdyně al despachista operativo de CDP
 •
 Praga – OŘP para el área de Praga;
 7:15 h
-comunicación del origen del evento (MU) por el jefe de estación de la est. Kdyně al Centro de Operaciones del HZS;
+comunicación del origen del EE por el jefe de estación de Kdyně al Centro de Operaciones del HZS;
 •
 7:26 h
-comunicación del origen del evento (MU) por el despachador jefe del CDP Praga – OŘP para el área
+comunicación del origen del EE por el jefe de despacho de CDP Praga – OŘP para el área de
 •
-de Praga a la O18 SŽ;
+Praga al O18 SŽ;
 7:32 h
-notificación del origen del evento (MU) por la persona autorizada de la O18 SŽ al COP DI;
+notificación del origen del EE por la persona designada del O18 SŽ al COP DI;
 •
 9:20 h
-inspección del lugar de origen del evento (MU) por empleados de la DI, PČR, SŽ, ČD y ČDC;
+inspección del lugar de origen del EE por empleados de DI, PČR, SŽ, ČD y ČDC;
 •
-13:45 h concesión del permiso para la liberación de la vía por el inspector de la DI presente;
+13:45 h concesión del permiso para liberar la vía por el inspector de DI presente;
 •
 18:55 h reanudación de la explotación.
 •
-El Plan IZS fue activado en función de la naturaleza del evento (MU). El Plan IZS fue activado a las 7:15 h, es decir, 7 minutos después del origen del evento (MU), por el jefe de estación de la est. Kdyně.
-En el lugar del evento (MU) intervinieron los siguientes componentes del IZS:
-PČR, KŘ Policía de la región de Plzeň, ÚO Domažlice, Departamento de distrito de Horšovský
+El Plan IZS fue activado en función de la naturaleza del EE. El Plan IZS fue activado a las 7:15 h, es decir, 7 minutos después del origen del EE, por el jefe de estación de Kdyně.
+En el lugar del EE intervinieron los siguientes componentes del IZS:
+PČR, KŘ Policía de la Región de Plzeň, ÚO Domažlice, Departamento de Distrito de Horšovský
 •
 Týn y Kdyně;
-PČR, KŘ Policía de la región de Plzeň, ÚO Domažlice, Departamento de criminalidad general
+PČR, KŘ Policía de la Región de Plzeň, ÚO Domažlice, Departamento de Criminalidad General
 •
-de Domažlice;
-Servicio de Emergencias Sanitarias de la región de Plzeň;
+Domažlice;
+Servicio de Emergencias Médicas de la Región de Plzeň;
 •
-Servicio de Rescate Aéreo del Ejército de la República Checa de Líně y Bechyně;
+Servicio de Rescate Aéreo del Ejército de la República Checa, Líně y Bechyně;
 •
-Servicio de Bomberos de la Administración de Ferrocarriles (Správa železnic), Unidad de Protección
+Servicio de Bomberos y Rescate de la Administración de Ferrocarriles, Unidad de Protección
 •
 Contra Incendios de Cheb, České Budějovice, Plzeň y Praga;
-HZS de la región de Plzeň, Departamento Territorial de Domažlice, Klatovy y Plzeň-ciudad;
+HZS de la Región de Plzeň, Distrito Territorial de Domažlice, Klatovy y Plzeň-ciudad;
 •
 HZS, Cuerpo de Bomberos Voluntarios de Kdyně.
 •
 
-
 ## Página 48
 
-### 4 ANÁLISIS DEL EVENTO
+### 4 ANÁLISIS DEL SUCESO
 ### 4.1 Tareas y obligaciones
-### 4.1.1 Transportistas y explotadores de vías
-El explotador de la vía está obligado, según lo dispuesto en la ley n.º 266/1994 Sb., a explotar la vía para las necesidades del transporte ferroviario fluido y seguro de acuerdo con las normas para la explotación de la vía y la autorización administrativa, a implantar el sistema de garantía de la seguridad de la explotación de la vía y a asegurar su cumplimiento.
-El explotador de la vía estableció los procedimientos tecnológicos para la explotación de la vía y el transporte ferroviario relativos, entre otros, a la garantía de la operatividad de la vía y a la seguridad del transporte ferroviario. En relación con el evento (MU) en cuestión se trata, en particular, de las condiciones técnicas de operatividad de la vía, del mantenimiento y reparación de la vía en la medida necesaria para su operatividad, es decir, de las inspecciones y mediciones periódicas de las obras ferroviarias. Los procedimientos tecnológicos relativos al mantenimiento de las vías de estación, concretamente los procedimientos para la eliminación de la vegetación herbácea, es decir, la erradicación de malas hierbas, están contenidos en la norma interna de la SŽDC SM79, véase el punto 4.2.1 de la presente ZZ.
-En la investigación no se constató el incumplimiento de las tareas y obligaciones del explotador de la vía en relación con la causa inmediata del origen del evento (MU), pero se constató un factor contribuyente al origen del evento (MU) – véase el punto 4.2.1 de la presente ZZ.
-El transportista está, entre otras obligaciones, obligado a garantizar que el maquinista, desde la cabina de mando de la locomotora (DV), observe la vía y las señales, actúe según los hechos constatados y, durante la circulación, no supere la velocidad máxima permitida, establecida en el horario o la velocidad limitada ordenada. El maquinista está obligado a elegir el modo de circulación – la tecnología de circulación y el servicio del dispositivo de freno – de modo que, en función de las condiciones de vía actuales, es decir, entre otros, también en función de las condiciones de adherencia o climáticas deterioradas, garantice la detención segura del tren en el lugar requerido.
-Al frenar el tren en un lugar con condiciones de adherencia deterioradas, el maquinista debe siempre prever una menor adherencia con la posibilidad de bloqueo de las ruedas, en caso de peligro de derrape de las ruedas apoyará a tiempo su rodaje mediante la utilización del dispositivo de arena, véase el punto 4.2.1 de la presente ZZ, y comenzará a frenar con la antelación suficiente para alcanzar la detención o la reducción de velocidad en el lugar requerido utilizando un grado de frenado menor. El maquinista está obligado a conducir el tren de modo que no se vea comprometida la seguridad del tráfico ferroviario y no supere la velocidad máxima permitida del tren.
-En el tramo de circulación desde la altura del semáforo de entrada L de la est. Kdyně, la velocidad máxima permitida de 40 km·h-1, establecida por la señal del semáforo de entrada L «Velocidad 40 km/h y repetición de la señal Aviso», fue superada por el maquinista del tren Os 17544 en su altura en 20 km·h-1, a continuación, en la entrada al desvío n.º 1 de la est. Kdyně en 19 km·h-1, en la entrada al desvío n.º 2 en 18 km·h-1 y en la entrada al comienzo de la vía principal (SK) n.º 2 en 9 km·h-1, habiéndose producido el derrape de las ruedas de la locomotora (HDV) en la SK n.º 2 al superar la velocidad máxima permitida de 40 km·h-1 en 6 km·h-1.
-### Hallazgos:
-En la investigación se constató el incumplimiento de las disposiciones legales y de las normas internas relativas a las tareas y obligaciones del transportista ČD, en relación causal con el origen del evento (MU) (es decir, la no detención del tren como consecuencia de la incorrecta operación de los dispositivos de freno y la no utilización de la arena), o bien como factor contribuyente al origen del evento (MU) (la superación de la velocidad máxima permitida en 20 km·h-1):
-
+### 4.1.1 Ferrocarriles y gestores de infraestructura
+El gestor de la infraestructura está obligado, según lo dispuesto en la Ley núm. 266/1994 Sb., a explotar la infraestructura para las necesidades del tráfico ferroviario fluido y seguro conforme a las normas de explotación de la infraestructura y a la autorización administrativa, a implantar el sistema de garantía de la seguridad de la explotación de la infraestructura y a asegurar su cumplimiento.
+El gestor de la infraestructura ha establecido los procedimientos tecnológicos relativos a la explotación de la infraestructura y al tráfico ferroviario, que abarcan, entre otros, la garantía de la operatividad de la infraestructura y la seguridad del tráfico ferroviario.
+En relación con el presente SU, se trata en particular de las condiciones técnicas de operatividad de la infraestructura, del mantenimiento y reparación de la infraestructura en la medida necesaria para su operatividad, es decir, de las inspecciones y mediciones periódicas de las obras de la infraestructura. Los procedimientos tecnológicos relativos al mantenimiento de las vías de estación, concretamente los procedimientos para la eliminación de la vegetación herbácea, es decir, la erradicación de malas hierbas, se encuentran en la norma interna de SŽDC SM79, véase el punto 4.2.1 de la presente II.
+En la investigación no se constató infracción de las tareas y obligaciones del gestor de la infraestructura en relación con la causa inmediata de la aparición del SU, pero sí se constató un factor contribuyente a la aparición del SU – véase el punto 4.2.1 de la presente II.
+El ferrocarril está, entre otras obligaciones, obligado a garantizar que el maquinista desde la cabina de mando observe la vía y las señales, actúe conforme a los hechos constatados y no supere durante la marcha la velocidad máxima permitida, establecida en el horario de circulación o impuesta por una velocidad limitada. El maquinista está obligado a elegir el modo de conducción – la tecnología de conducción y de servicio del aparato de freno – de modo que, en función de las condiciones de vía vigentes, es decir, entre otras, también en función de las condiciones de adherencia o climáticas desfavorables, garantice la parada segura del tren en el lugar requerido.
+Al frenar el tren en un lugar con condiciones de adherencia desfavorables, el maquinista debe siempre prever una disminución del grado de adherencia con la posibilidad de bloqueo de las ruedas, en caso de peligro de derrape de las ruedas apoyará oportunamente su rodadura mediante el uso del dispositivo de arenado, véase el punto 4.2.1 de la presente II, y comenzará a frenar con la antelación suficiente para alcanzar la parada o la reducción de velocidad en el lugar requerido mediante un grado de frenado inferior. El maquinista está obligado a conducir el tren de manera que no se vea afectada la seguridad del tráfico ferroviario y no supere la velocidad máxima permitida del tren.
+En el tramo de circulación desde el nivel de la señal de entrada L de la estación de Kdyně, la velocidad máxima permitida de 40 km·h-1, establecida por la señalización de la señal de entrada L «Velocidad 40 km/h y repetición de la señal Aviso», fue excedida por el maquinista del tren Os 17544 en su nivel en 20 km·h-1, asimismo, al entrar en el desvío núm. 1 de la estación de Kdyně en 19 km·h-1, al entrar en el desvío núm. 2 en 18 km·h-1 y al entrar en el inicio de la vía de clasificación núm. 2 en 9 km·h-1, habiéndose producido el derrape de las ruedas de la locomotora en la vía de clasificación núm. 2 al exceder la velocidad máxima permitida de 40 km·h-1 en 6 km·h-1.
+### Constatación:
+En la investigación se constató la infracción de la normativa legal y de las normas internas relativas a las tareas
+### y obligaciones del ferrocarril ČD, en relación causal
+### con la aparición del SU (es decir, la no parada del tren
+como consecuencia del servicio incorrecto de los aparatos de freno y la no utilización del arenado), o bien como
+factor contribuyente a la aparición del SU (exceder la velocidad máxima permitida en 20 km·h-1):
 
 ## Página 49
+
 
 § 35 apartado 1 letra a) de la ley n.º 266/1994 Sb.:
 •
@@ -1821,8 +1771,8 @@ art. 91 de la norma interna de la ČD V 2:
 •
 «El maquinista está, en particular, obligado:
 
-
 ## Página 50
+
 
 a) conducir el tren de modo que no se vea comprometida la seguridad del tráfico ferroviario …,
 b) mantener el dispositivo de freno en estado de servicio y operarlo de acuerdo
@@ -1860,40 +1810,39 @@ b) comienza a frenar con la antelación suficiente para alcanzar la detención o
 
 ## Página 51
 
-En el caso de esta MU concreta, es necesario relacionar los arts. 171, 207 y 633 del reglamento interno de ČD V15/I mencionados anteriormente con el definitorio:
-◦ art. 631 del Anexo 7 del reglamento interno de ČD V15/I:
-«Las condiciones de adherencia deterioradas se producen normalmente cuando:
-e) se produce una mayor presencia de hojas caídas en las vías;
-f) comienza a llover tras un largo periodo de sequía;
+En el caso de esta MU concreta, es necesario relacionar los citados artículos 171, 207 y 633 del reglamento interno de ČD V15/I con el definitorio:
+◦artículo 631 del Anexo 7 del reglamento interno de ČD V15/I:
+"Las condiciones de adherencia deterioradas se producen normalmente cuando:
+e) aumenta la presencia de hojas caídas en las vías;
+f) comienza a llover tras un largo período de sequía;
 g) rocío, niebla y escarcha;
-h) humedad en tramos de línea con presencia de deposiciones industriales y polvo;
+h) humedad en tramos de línea con efecto de precipitación industrial y polvo;
 i) humedad y temperaturas en torno al punto de congelación (inferiores a unos 2 °C);
-j) cabezas de raíl muy sucias (por ejemplo, óxido, oscurecimiento, película de aceite en las proximidades de refinerías)».
-El gestor de la infraestructura ferroviaria estableció los procedimientos tecnológicos para la explotación de la infraestructura y del transporte ferroviario relativos a la seguridad de la circulación de trenes, que están contenidos en el reglamento interno SŽDC D1 y en el Reglamento de explotación de la estación de Kdyně. En relación con la MU en cuestión, se trata concretamente de la seguridad de la circulación de trenes mediante comunicación telefónica, y en concreto mediante la comunicación telefónica de despacho, oferta y aceptación.
-Según la conversación registrada en el dispositivo de registro ReDat 3, el jefe de estación de la estación de Kdyně dio al jefe de estación de la estación de Domažlice a las 7:07:50 h la comunicación telefónica de despacho del tren Služ 55025 y, al mismo tiempo, le ofreció el tren Os 17544:
-«Domažlice.
+j) cabezas de raíl fuertemente contaminadas (por ejemplo, óxido, oscurecimiento, película de aceite en las proximidades de refinerías)."
+El gestor de la infraestructura ha establecido los procedimientos tecnológicos para la explotación de la infraestructura y del tráfico ferroviario relativos a la seguridad de la circulación de trenes, contenidos en el reglamento interno SŽDC D1 y en el Reglamento de explotación de la estación de Kdyně. En relación con la MU en cuestión, se trata concretamente de la seguridad de la circulación de trenes mediante comunicación telefónica, y en particular mediante aviso telefónico, oferta y aceptación.
+Según la conversación registrada en el dispositivo de registro ReDat 3, el jefe de estación de Kdyně dio a las 7:07:50 h al jefe de estación de Domažlice un aviso telefónico tras el tren Služ 55025 y simultáneamente le ofreció el tren Os 17544:
+"Domažlice.
 •
-Kdyně. Tren 55025 en Kdyně, ¿y acepta el tren 17544 con salida de Kdyně a las 7:09 h?
+Kdyně. Tren 55025 en Kdyně, ¿acepta el tren 17544 con salida de Kdyně a las 7:09 h?
 •
-Apellido del jefe de estación de la estación de Kdyně.
-Aceptamos 17544 de Kdyně a las 7:09 h. Apellido del jefe de estación de la estación de Domažlice.
+Apellido del jefe de estación de Kdyně.
+Aceptamos 17544 de Kdyně a las 7:09 h. Apellido del jefe de estación de Domažlice.
 •
-De acuerdo.»
+De acuerdo."
 •
-Sobre la base de la comunicación anteriormente mencionada y del hecho de que la colisión del tren Os 17544 con el tren Služ 55025 se produjo en el desvío n.º 5, es decir, en el extremo de Domažlice de la estación de Kdyně, es evidente que el jefe de estación de la estación de Kdyně dio la comunicación telefónica de despacho del tren Služ 55025 sin haber comprobado de forma inequívoca que el tren había llegado completo a la estación de Kdyně y, al mismo tiempo, ofreció al jefe de estación de la estación de Domažlice el tren Os 17544 sin que hubiera llegado a la estación de Kdyně el último tren aceptado en sentido contrario, es decir, el tren Služ 55025.
-El jefe de estación de la estación de Domažlice, en el marco de la comunicación relativa a la seguridad de la circulación de trenes, no cumplió la formulación verbal obligatoria para la aceptación del tren Os 17544 según el art. 2472 del reglamento interno del gestor de la infraestructura SŽDC D1.
-Dadas las causas de la MU, las constataciones anteriores no pueden valorarse en relación causal con su producción.
+En base a la comunicación anteriormente mencionada y al hecho de que la colisión del tren Os 17544 con el tren Slu 55025 se produjo en el desvío n.º 5, es decir, en el extremo de Domažlice de la estación de Kdyně, es evidente que el jefe de estación de Kdyně dio el aviso telefónico tras el tren Služ 55025 sin haber comprobado de manera inequívoca que el tren había llegado completo a la estación de Kdyně, y simultáneamente ofreció al jefe de estación de Domažlice el tren Os 17544 sin que hubiera llegado a la estación de Kdyně el último tren aceptado en sentido contrario, es decir, el tren Služ 55025.
+El jefe de estación de Domažlice, en el marco de la comunicación relativa a la seguridad de la circulación de trenes, no cumplió la fórmula verbal obligatoria para la aceptación del tren Os 17544 según el artículo 2472 del reglamento interno del gestor de la infraestructura SŽDC D1.
+Dadas las causas de la aparición de la MU, las constataciones anteriores no pueden valorarse en relación causal con su aparición.
 ### Constataciones:
-En la investigación se constató la infracción de normas legales y reglamentos internos relativos a las funciones
-### y obligaciones del gestor de la infraestructura SŽ, al margen de la relación causal con la producción de la MU:
+En la investigación se constató la infracción de normas legales y reglamentos internos relativos a las funciones y obligaciones del gestor de la infraestructura SŽ, al margen de la relación causal con la aparición de la MU:
 § 22 apartado 1 letra a) de la Ley n.º 266/1994 Sb.:
 •
-«El gestor de la infraestructura ferroviaria está obligado a explotar la infraestructura para las necesidades del transporte ferroviario fluido y seguro de acuerdo con las normas de explotación de la infraestructura y la autorización administrativa»;
-art. 2465 del reglamento interno SŽDC D1:
+"El gestor de la infraestructura está obligado a explotar la infraestructura para las necesidades del tráfico ferroviario fluido y seguro de acuerdo con las reglas de explotación de la infraestructura y la autorización administrativa";
+artículo 2465 del reglamento interno SŽDC D1:
 •
 
-
 ## Página 52
+
 
 «El jefe de estación no puede ofrecer un tren:
 … b) hasta que no llegue el último tren aceptado en sentido contrario, que circule por la misma vía de línea, y hasta que no dé el despacho tras él; …»;
@@ -1916,8 +1865,8 @@ El registrador de velocidad electrónico UniControls – Tramex RE1xx, n.º de f
 Esto tuvo como consecuencia la imposibilidad de determinar con precisión la manipulación del equipo de freno por parte del maquinista en el periodo inmediatamente anterior a la producción de la MU.
 En el tramo de marcha entre la estación de Janovice nad Úhlavou y la señal de entrada L de la estación de Kdyně, la velocidad máxima permitida de 60 km·h-1 fue superada repetidamente en 1 – 4 km·h-1 por el maquinista del tren Os 17544 del transportista ČD.
 
-
 ## Página 53
+
 
 En el tramo de marcha entre la estación de Domažlice y la señal de entrada S de la estación de Kdyně, la velocidad máxima permitida de 60 km·h-1 fue superada repetidamente en 1 – 6 km·h-1 por el maquinista del tren Služ 55025 del transportista ČDC.
 Dada la causa de la producción de la MU, la constatación anterior no puede valorarse en relación causal con su producción.
@@ -1950,8 +1899,8 @@ art. 70 del reglamento interno de ČD V 8/II:
 •
 «El jefe superior de la DKV establece en su ámbito el método de control y los empleados responsables que realizan el análisis de los registros registrados por el registrador de velocidad de acuerdo con los perfiles de velocidad de línea vigentes, de modo que se controle el funcionamiento del registrador de velocidad, la tecnología de manipulación del vehículo de tracción ...
 
-
 ## Página 54
+
 
 En el control se comprueba, de acuerdo con el rendimiento controlado y la disponibilidad de los datos registrados:
 …
@@ -1977,6 +1926,7 @@ La autoridad nacional de seguridad es el DÚ, que de acuerdo con la Ley n.º 266
 
 ## Página 55
 
+
 de los DV modernizados y de las instalaciones técnicas designadas y de la tramitación de infracciones. La obligación de la DÚ es comunicar a la DI, en un plazo de 12 meses a partir de la fecha de publicación del informe final que contenga la recomendación de seguridad que le concierne, qué medida ha adoptado en relación con dicha recomendación de seguridad.
 La función de la Agencia Ferroviaria de la Unión Europea es, además de garantizar, en el marco de sus competencias, que se mantenga y, en la medida de lo posible, se aumente de forma continua la seguridad de los ferrocarriles, entre otras, la emisión, renovación, suspensión y modificación de certificados únicos de seguridad, la limitación de su validez o su anulación, en cuestión en la que coopera con las autoridades nacionales de seguridad; asimismo, emite autorizaciones para la puesta en el mercado de vehículos ferroviarios y de tipos de vehículos y está facultada para renovar, modificar, suspender o retirar las autorizaciones que haya emitido. La Agencia evalúa además los proyectos de normativa nacional, etc.
 En la investigación no se detectó incumplimiento de las funciones y obligaciones de la autoridad nacional de seguridad y de la Agencia Ferroviaria de la Unión Europea.
@@ -1994,8 +1944,8 @@ El explotador de la vía SŽ estableció los procedimientos tecnológicos relati
 • con su caída (hojas) empeoran las propiedades operativas de la vía de tráfico ferroviario (adherencia) o pueden causar un riesgo para la seguridad o la salud de las personas.
 Según el art. 4 de la norma SŽDC SM79, el método más eficaz para la supresión de la vegetación indeseada es el químico mediante preparados especiales: herbicidas, aunque en la actualidad ya se conocen especies de malas hierbas resistentes. La erradicación mecánica, es decir, el corte, el deshierbe, etc., es
 
-
 ## Página 56
+
 
 muy costosa económicamente y eficaz hasta cierto punto, sin garantizar resultados más duraderos. Por este motivo, se realiza solo de forma marginal, con preferencia por la erradicación química en la mayor medida posible. Según el art. 7, la erradicación de la vegetación indeseada por el método mecánico se realiza durante todo el período de vegetación, mientras que el método químico se realiza por lo general en dos rondas, es decir, la primera ronda en el período de abril a mayo, la segunda ronda en el período de agosto a septiembre. Al elaborar el calendario de tratamientos es necesario respetar, entre otros:
 • no tratar preventivamente ninguna vía ni otras superficies, sino solo aquellos lugares que presentan una infestación moderada a fuerte en la fase inicial de crecimiento de las malas hierbas;
@@ -2010,8 +1960,8 @@ El explotador de la vía, en su documento «Información solicitada para la inve
 La fase de primavera en los meses de mayo a junio y la segunda fase en los meses de agosto a septiembre. Dos fases es el número máximo posible para no superar la cantidad de glifosato aplicada por hectárea. El calendario para la segunda fase no se elabora debido a la imposibilidad de una predicción oportuna. En la propia realización de la pulverización se deben tener en cuenta varios factores: el crecimiento actual de la vegetación, la evolución prevista de la situación climática, la importancia ferroviaria de la vía, la rentabilidad del uso de la maquinaria y también los límites de personal.
 El comentario más detallado sobre cada uno de los factores es el siguiente: para que el herbicida impida el crecimiento posterior de las malas hierbas, es necesario utilizar este herbicida en el momento del crecimiento de las malas hierbas con el mayor porcentaje posible de hojas, ya que el herbicida se adhiere a estas hojas e impide la fotosíntesis, tras lo cual la planta muere en un plazo de aproximadamente
 
-
 ## Página 57
+
 
 14 días. Por tanto, segar las malas hierbas antes de la aplicación del herbicida o justo después de la aplicación es contraproducente. El herbicida debe aplicarse preferiblemente con tiempo soleado o al menos con un tiempo en el que no se prevean precipitaciones.
 Para el paso ininterrumpido de los vehículos en la línea y en la estación debe mantenerse el espacio libre establecido: la sección de paso. Los detalles los establece el reglamento de ejecución del Ministerio de Transportes y la norma correspondiente. En el sentido del art. 386 de la norma interna de la SŽDC D1, para mantener la sección de paso basta con cumplir las disposiciones de dicho artículo. El artículo define las dimensiones de la colocación de objetos y materiales al lado y en la vía. Estos materiales y objetos se enumeran en el artículo mediante una lista meramente indicativa y solo mediante una interpretación muy extensiva podría ampliarse esta lista a objetos y materiales de naturaleza blanda.»
@@ -2025,6 +1975,7 @@ La Inspección Ferroviaria, con base en la respuesta anterior del explotador de 
 • de qué manera concreta evaluó el explotador de la vía SŽ, en relación con la tecnología indicada, los posibles riesgos, cuando esta vegetación herbácea tan crecida es doblada y prensada sobre la superficie de la cabeza de los raíles por las ruedas de los vehículos ferroviarios en circulación, y en el caso de
 
 ## Página 58
+
 
 atmosférica es, a continuación, un factor que contribuye a la reducción del coeficiente de fricción necesario para la puesta en marcha o la detención de los trenes.
 El explotador ferroviario, en su documento «Información solicitada para la investigación de la MU A1 en la estación de Kdyně del 9. 9. 2020» de fecha 24. 5. 2021, indicó:
@@ -2051,8 +2002,8 @@ La investigación de la DI constató que la cubierta herbácea que, desde el pk 
 ### a nivel del suelo era de 5 – 6 °C y la humedad del aire del 80 – 90 %.
 En las instrucciones de uso del fabricante del producto Roundup se indica, entre otras cosas: «Para la correcta aplicación y uso del producto Roundup para la erradicación de malas hierbas y vegetación no deseada, estas malas hierbas deben haber germinado (preferiblemente 10 – 20 cm) y tener una superficie foliar suficientemente desarrollada. Roundup (randap) es el pulverizador óptimo para malas hierbas, que se aplica con tiempo cálido, húmedo y soleado, con suficiente humedad del suelo, preferiblemente sobre una superficie foliar limpia (tras la lluvia). ¡Con la aplicación del producto no debe producirse la deriva de la pulverización hacia los cultivos adyacentes! Las malas hierbas anuales mueren en un promedio de 5 – 10 días, las malas hierbas vivaces en 2 – 4 semanas, cuando la sustancia activa glyphosate penetra suficientemente hasta las raíces y rizomas de las plantas vivaces (p. ej., la
 
-
 ## Página 59
+
 
 hierba cogeira (Elymus repens)). Los síntomas de la acción son el marchitamiento, el amarilleamiento y el secado progresivo. No actúa sobre las semillas sin germinar almacenadas en el suelo.»
 La altura de la superficie rodante de los carriles sobre el asiento en el llamado soporte era, en este caso, de 135 mm y hasta el nivel del terreno circundante (o sea, del lecho de balasto), del que crece la cubierta herbácea, quedan otros unos 5 cm. Es, por tanto, como mínimo, incorrecto aplicar este glifosato hasta el momento en que la altura total de las hierbas en la vía se aproxima o incluso supera ya el límite superior de crecimiento recomendado por el fabricante, que es de 20 cm, además, principalmente porque no se produce una parada inmediata del crecimiento y de la muerte de la planta, sino que esto ocurre en el orden de días
@@ -2071,8 +2022,8 @@ En el caso de esta MU concreta, es necesario relacionar la disposición anterior
 «Se entiende por vegetación no deseada, a efectos de esta directriz, las plantas que:
 c)... empeoran las propiedades operativas de la vía ferroviaria (adherencia) o pueden causar un peligro para la seguridad o la salud de las personas.»
 
-
 ## Página 60
+
 
 En la investigación no se constataron factores derivados de la construcción del DV o de las instalaciones técnicas.
 4.2.2 Factores o consecuencias derivados de la instalación y puesta en servicio de los vehículos ferroviarios, de la infraestructura ferroviaria o de las instalaciones técnicas
@@ -2099,8 +2050,8 @@ c) grupo de renovaciones programadas
 ◦renovación de reajuste de los conjuntos estructurales funcionalmente significativos que influyen en la seguridad de la explotación, designada como renovación de reajuste de conjuntos – R1
 ◦renovación de reajuste de conjuntos estructurales significativos desde el punto de vista de la seguridad de la explotación y de la influencia en el medio ambiente, designada como renovación de reajuste del vehículo – R2
 
-
 ## Página 61
+
 
 ◦renovación principal del vehículo – R3
 d) grupo de reparaciones por avería, defecto o daño
@@ -2148,6 +2099,7 @@ De lo anterior se desprende que la realización de la comprobación/ajuste del v
 
 ## Página 62
 
+
 como sujeto responsable del mantenimiento del HDV 810.406-9, la obligación de realizar la comprobación/ajuste del velocímetro electrónico según el diámetro medio de las ruedas medido.
 El velocímetro registrador electrónico UniControls – Tramex RE1xx, n.º de fabricación 8308, con el que estaba equipado el HDV 810.406-9 del tren Os 17544, registró desde el 23. 2. 2019 hasta la aparición del MU únicamente el valor binario «0» del estado de la presión de aire en el cilindro de freno. Esto tuvo como consecuencia la ausencia de datos sobre el modo de funcionamiento del freno directo, a diferencia del freno indirecto, lo que dificultó el procesamiento del análisis completo del frenado del tren Os 17544 por parte del maquinista en el periodo anterior a la aparición del MU.
 El alcance del mantenimiento preventivo en los distintos niveles del Programa de mantenimiento, en relación con la comprobación del conjunto —circuito de freno neumático y sus componentes—, freno automático y freno directo, es el siguiente para la serie 810 de HDV:
@@ -2192,8 +2144,8 @@ comprobación de la presión en los cilindros de freno del freno directo.
 Entre las revisiones de estado técnico del HDV 810.406-9 realizadas por personas cualificadas del transportista en presencia de inspectores de la DI tras la aparición del MU se incluyó, entre otras cosas, el desmontaje del equipo de freno del HDV, concretamente del distribuidor de freno BV1m, del regulador BP y del regulador BS2 del II puesto de conducción, del interruptor de presión de la presión en el cilindro de freno, del interruptor de presión de la válvula KBS y de 2 válvulas electroneumáticas de arenado. La comprobación de todas las piezas desmontadas del equipo de freno del HDV en bancos de ensayo arrojó valores normativos.
 El fabricante del velocímetro registrador electrónico UniControls – Tramex RE1xx, n.º de fabricación 8308, con el que estaba equipado el HDV 810.406-9 del tren Os 17544, estableció los procedimientos tecnológicos relativos al mantenimiento de los velocímetros electrónicos RE1xx en la norma interna T0004T. Según el art. 2 de la norma T0004T, la comprobación y el ajuste del velocímetro electrónico se realizan periódicamente, normalmente en el marco de la reparación media del vehículo, como máximo 1 vez cada 2 años o tras recorrer 500 000 km. La comprobación de la función en el fabricante se realiza en la reparación mayor del vehículo, pero como máximo 5 años desde la realización de la última
 
-
 ## Página 63
+
 
 comprobación del velocímetro electrónico o como máximo 5 años desde la puesta en servicio del velocímetro electrónico.
 Dado que el velocímetro registrador electrónico fue instalado por el fabricante en el HDV 810.406-9 en el marco de la reparación de ajuste del 16. 4. 2019 y que desde esta reparación del HDV hasta la aparición del MU se recorrieron 74 444 km, no surgió para el transportista ČD, como propietario, explotador y sujeto responsable del mantenimiento del HDV 810.406-9 en relación con el mantenimiento, la obligación de realizar la comprobación y el ajuste del velocímetro electrónico.
@@ -2209,33 +2161,33 @@ Los requisitos aplicables a los empleados del explotador de la vía y del transp
 El empleado del transportista ČD implicado, maquinista del tren Os 17544, se sometía a reconocimientos médicos periódicos de conformidad con lo dispuesto en el decreto n.º 101/1995 Sb. y, en virtud del informe médico presentado sobre su idoneidad sanitaria para el trabajo, en el momento de la aparición del MU estaba sanitariamente apto para el desempeño de su función. Según su propia declaración, no se encontraba bajo ningún estrés psicológico al inicio de su turno el 9. 9. 2020 ni durante el mismo.
 La Inspección Ferroviaria, en la investigación del factor humano, trató de evaluar todas las influencias que pudieran haber actuado sobre los empleados implicados y que pudieran haber tenido, en su caso, influencia en la aparición de este MU. En el caso del maquinista del tren Os 17544 se trató principalmente de evaluar su experiencia, conocimientos y antigüedad en el puesto. Trabajó como maquinista de forma ininterrumpida desde el año 2006 hasta la aparición del MU. El maquinista tenía, por tanto, una antigüedad suficientemente larga y, según la documentación del transportista ČD, estaba demostradamente familiarizado con las condiciones de la línea. Circuló durante 12 años en la línea Janovice nad Úhlavou – Domažlice y en turno regular.
 
-
 ## Página 64
 
-La Inspección Ferroviaria, mediante la investigación, constató que el maquinista estaba cualificado técnicamente para el trabajo en la función de maquinista y que su antigüedad en el puesto, experiencia y conocimientos no tuvieron influencia en la aparición de este MU.
-En la investigación no se detectaron factores relacionados con la formación técnica del empleado implicado, maquinista del tren Os 17544, su estado de salud y su situación personal, incluido el estrés físico y psicológico.
+La Inspección Ferroviaria (Drážní inspekce), como resultado de la investigación, determinó que el maquinista estaba cualificado profesionalmente para desempeñar la función de maquinista y que la duración de su experiencia, sus conocimientos y su práctica no influyeron en la aparición de este accidente ferroviario (MU).
+En la investigación no se detectaron factores relacionados con la formación profesional del empleado implicado, el maquinista del tren Os 17544, su estado de salud y su situación personal, incluido el estrés físico y psicológico.
 ### 4.3.2 Factores laborales
-En la investigación no se detectaron factores relacionados con la jornada laboral de los empleados. En la investigación no se constató, en los empleados implicados, el incumplimiento de las condiciones de descanso antes del turno y de las pausas, o bien del tiempo adecuado de descanso y alimentación durante el turno.
-El maquinista del tren Os 17544, en su declaración, indicó que, al entrar en la estación de Kdyně, ajustó la velocidad de modo que, desde la señal de entrada L con la señalización «Velocidad 40 km/h y aviso» (correctamente «Velocidad 40 km/h y repetición de la señalización Aviso» – nota de la DI), circulara a esta velocidad, como máximo a 40 km/h. En ningún caso era consciente de haber superado la velocidad. Tras pasar los desvíos (n.º 1 y 2 – nota de la DI), según su declaración, aplicó el freno auxiliar y, a continuación, se produjo el derrape de las ruedas, aplicó el arenado, soltó el freno y procedió así de forma repetida.
-La investigación de la DI, sin embargo, demostró que el maquinista superó la velocidad máxima permitida al circular junto a la señal de entrada L de la estación de Kdyně en 20 km·h-1, en el desvío n.º 1 dispuesto en dirección secundaria en 19 km·h-1 y en el desvío n.º 2 dispuesto para la circulación a la izquierda en 18 km·h-1. Tras entrar el tren Os 17544 en la SK n.º 2, el maquinista continuó circulando a una velocidad no permitida de 56 km·h-1, en lugar de los 40 km·h-1 prescritos, cuando entonces comenzó a reducir la velocidad, mediante la aplicación del freno directo. A continuación se produjo efectivamente el derrape de las ruedas, sin que el maquinista hubiera realizado la maniobra de los equipos de freno del HDV de conformidad con los procedimientos tecnológicos establecidos por el transportista de modo que se garantizara la renovada rodadura de las ruedas. La configuración existente de las válvulas electroneumáticas de arenado, controladas normalmente solo mediante un botón en el pupitre de mando del puesto de conducción o, en su caso, mediante un pedal de pie, exige al maquinista su maniobra incluso en una situación crítica —el derrape de las ruedas durante el frenado—, cuando mediante la maniobra de los mandos de freno se intenta/debería intentar restablecer la rodadura de las ruedas (véanse los puntos 4.2.1 y 6 de la presente ZZ – Recomendaciones de seguridad).
-Con el procedimiento anteriormente descrito, el maquinista incumplió las disposiciones de las normas internas del transportista indicadas en el punto 4.1.1 de la presente ZZ, principalmente en relación causal con la aparición de este MU. En la inspección de la SK n.º 2, realizada inmediatamente después de la aparición del MU, en el sentido de circulación del tren Os 17544 y también más allá de la señal de salida L2 hasta el lugar de la colisión con el tren Služ 55025, no se detectaron visualmente rastros de arenado del HDV 810.406-9 para aumentar el coeficiente de fricción entre las ruedas del HDV y los raíles con el fin de una posible mejora del efecto de los frenos, ni en los cantos de las cabezas ni en los pies de las bandas de raíl, ni más allá en el espacio del balasto. Se tomaron muestras del depósito «prensado» por la circulación del DV en los cantos de las cabezas de ambas bandas de raíl de la SK n.º 2 con el fin de realizar posteriormente una peritación técnica.
-En el Informe Pericial del campo de la criminalística, rama de la química física y la química, se indica, entre otras cosas: «El raspado de la superficie del raíl contenía fragmentos vegetales y una fracción no homogénea
-
+En la investigación no se detectaron factores relacionados con la jornada laboral de los empleados. En la investigación no se constató, en el caso de los empleados implicados, el incumplimiento de las condiciones de descanso antes del turno y de los descansos, respectivamente, del tiempo adecuado para el reposo y la alimentación durante el turno.
+El maquinista del tren Os 17544, en su declaración, indicó que, al entrar en la estación de Kdyně (žst. Kdyně), ajustó la velocidad de modo que, desde la señal de entrada L con la indicación «Velocidad 40 km/h y aviso» (correctamente «Velocidad 40 km/h y repetición de la señal Aviso» – nota de la DI), circulara a esta velocidad, con un máximo de 40 km/h. En ningún caso era consciente de haber superado ninguna velocidad. Tras pasar los desvíos (n.º 1 y 2 – nota de la DI), según su declaración, aplicó el freno auxiliar y, a continuación, se produjo el derrape de las ruedas; aplicó el arenero, soltó el freno y procedió de esta forma de manera repetida.
+La investigación de la DI, sin embargo, acreditó que el maquinista superó la velocidad máxima permitida al circular junto a la señal de entrada L de la estación de Kdyně en 20 km·h-1, en el desvío n.º 1, dispuesto para la vía secundaria, en 19 km·h-1, y en el desvío n.º 2, dispuesto para la circulación a la izquierda, en 18 km·h-1. Tras la entrada del tren Os 17544 en el cambio de aguja (SK) n.º 2, el maquinista continuó circulando a la velocidad no permitida de 56 km·h-1, en lugar de los 40 km·h-1 prescritos, momento en el que solo entonces comenzó a reducir la velocidad, mediante la aplicación del freno directo. A continuación, efectivamente se produjo el derrape de las ruedas, sin que el maquinista realizara la maniobra de los dispositivos de freno del vehículo de tracción (HDV) de conformidad con los procedimientos tecnológicos establecidos por el transportista, de modo que se garantizara la renovada rodadura de las ruedas. La configuración existente de las válvulas electropneumáticas del arenero, controladas por norma solo mediante un botón en el pupitre de mando de la cabina del maquinista o, en su caso, mediante un pedal de pie, exige al maquinista su maniobra incluso en una situación crítica: el derrape de las ruedas durante la frenada, cuando, mediante la maniobra de los mandos del freno, intenta/debería intentar restablecer la rodadura de las ruedas (véanse los puntos 4.2.1 y 6 de esta ZZ – Recomendaciones de seguridad).
+Con el procedimiento anteriormente descrito, el maquinista incumplió las disposiciones de las normas internas del transportista indicadas en el punto 4.1.1 de esta ZZ, principalmente en relación causal con la aparición de este accidente ferroviario (MU).
+La inspección del cambio de aguja (SK) n.º 2, realizada inmediatamente después de la aparición del accidente ferroviario (MU), en el sentido de circulación del tren Os 17544, así como más allá de la señal de salida L2 hasta el punto de colisión con el tren Služ 55025, no arrojó visualmente ningún rastro de arenero del HDV 810.406-9 para aumentar el coeficiente de fricción entre las ruedas del HDV y los raíles, con el fin de una eventual mejora del efecto de los frenos, ni en los cantos de las cabezas ni en los talones de las bandas de raíl, ni tampoco más allá, en el espacio del superestructura ferroviaria.
+Se recogieron muestras del depósito «adherido» por la circulación del DV en los cantos de las cabezas de ambas bandas de raíl del cambio de aguja (SK) n.º 2, con el fin de proceder posteriormente a una peritación especializada.
+En el Informe pericial del ámbito de la criminalística, rama de la química física y la química, se indica, entre otros aspectos: «El raspado de la superficie del raíl contenía fragmentos vegetales y una fracción no homogénea
 
 ## Página 65
+
 
 de partículas de polvo, en la que también se encontró la fracción de polvo de sílice; mediante el método FTIR se identificaron residuos orgánicos en la muestra. La fracción de polvo encontrada en el raspado de la superficie del raíl presenta, por su composición química (SiO2), una coincidencia de especie con la fracción de polvo de la muestra de referencia de arena presentada. Mediante el método FTIR se identificaron en la muestra —raspado de la superficie del raíl— residuos orgánicos que no presentan coincidencia con la muestra de lubricante presentada.»
 La investigación de la DI y la peritación realizada detectaron únicamente la fracción de polvo de sílice, que presentó una coincidencia de especie con la muestra presentada de arena tomada de los depósitos de arena del HDV del tren Os 17544, si bien no se confirmó posteriormente la coincidencia con las demás muestras de referencia tomadas. La inspección física del lugar de aparición del MU, sin embargo, no detectó el uso del equipo de arenado del HDV 810.406-9 del tren Os 17544, que habría conducido a un aumento de la adherencia durante su frenado, a diferencia del uso del equipo de arenado del HDV 742.243-9 del tren Služ 55025 (véanse las figuras n.º 8 y 9). La identificación de la fracción, solo de polvo, de sílice puede considerarse, por tanto, como la constatación del uso de arenado de los HDV de trenes anteriores, atendiendo a que el equipamiento de los HDV de los puestos de trabajo operativos correspondientes del transportista en el periodo indicado se realizaba de forma uniforme con arena de sílice de composición idéntica.
 Fig. n.º 8: Arena bajo el TDV del tren Služ 55025
    Fuente: DI
 
-
 ## Página 66
 
-Fig. n.º 9: Arena en los pies del raíl y en las traviesas bajo el TDV del tren Služ 55025
+Obr. n.º 9: Arena en los talones del carril y en las traviesas bajo el TDV del tren Služ 55025
   Fuente: DI
-La Inspección Ferroviaria, para las necesidades de la investigación, realizó asimismo su propia evaluación y cálculos del comportamiento dinámico del DV del tren Os 17544, es decir, del HDV 810.406-9.
-Del registro del velocímetro de la circulación de los trenes Os 17540 y Os 17544 del 9. 9. 2020 se obtuvieron los valores realmente alcanzados de deceleración del HDV 810.406-9 desde velocidades de 60 km·h-1 y 40 km·h-1 en dos estaciones y una parada. Para el valor mínimo y el máximo de la deceleración detectada se calcularon las distancias de frenado necesarias.
+La Inspección Ferroviaria, para los fines de la investigación, realizó asimismo su propia evaluación y cálculos del comportamiento dinámico del DV del tren Os 17544, es decir, del HDV 810.406-9.
+A partir del registro del velocímetro de los trenes Os 17540 y Os 17544 del día 9. 9. 2020 se determinaron los valores realmente alcanzados de deceleración del HDV 810.406-9 desde velocidades de 60 km·h-1 y 40 km·h-1 en dos estaciones y una parada. Para el valor mínimo y el valor máximo de la deceleración determinada se calcularon las distancias de frenado necesarias.
 2
 s=a∗t
 ⇒a=2∗s
@@ -2244,9 +2196,9 @@ s=a∗t
 t
 donde:
 s – distancia realmente recorrida
-t – tiempo de circulación
+t – tiempo de marcha
 a – deceleración de frenado
-La deceleración detectada desde la velocidad de 60 km·h-1 (16,66 m·s-1) en ambos trenes (Os 17540 y Os 17544) se situó en el intervalo de 0,44 – 0,92 m·s-2.
+La deceleración determinada desde la velocidad de 60 km·h-1 (16,66 m·s-1) en ambos trenes (Os 17540 y Os 17544) se situó en el intervalo de 0,44 – 0,92 m·s-2.
 2
 L= v
 2∗a
@@ -2265,6 +2217,7 @@ L60max= v60
 2∗0,44 =315,63 m
 
 ## Página 67
+
 
 Para los valores determinados de la máxima y mínima desaceleración realmente alcanzada desde una velocidad de 60 km·h-1 se calculó la distancia de frenado teórica necesaria, con la adición del tiempo de reacción del maquinista de 1 s y del retardo de transmisión del efecto de frenado a las ruedas de 1 s (2 x 16,66 = 33,32 m), en el intervalo de 184,27 a 349,95 m.
 La desaceleración determinada desde la velocidad de 40 km·h-1 (11,11 m·s-1) en ambos trenes (Os 17540 y Os 17544) se movía en el rango de 0,56 – 1,01 m·s-2.
@@ -2298,26 +2251,25 @@ La Inspección Ferroviaria utilizó para los fines de la investigación, entre o
 Adherencia y fricción de deslizamiento de las ruedas motrices (fuente: Dinámica del transporte ferroviario – Ing. Zdeněk Kolář, Ing. Josef Ondráček, Ing. Jan Procházka)
 «La adherencia es la unión de la rueda al raíl durante el movimiento del vehículo motriz, es decir, durante el rodamiento de la rueda sobre el raíl en la transmisión de la fuerza de tracción o de frenado. Está causada por la fricción de adherencia, que se produce de tal manera que durante el rodamiento de la rueda sobre el raíl encajan entre sí las irregularidades microscópicas en la superficie
 
-
 ## Página 68
 
-de la rueda y del raíl. De este modo se permite la transmisión de la fuerza de tracción desde el perímetro de la rueda al raíl y de este modo se permite en realidad el movimiento del vehículo motriz y la transmisión de la fuerza de tracción al gancho del vehículo. Durante ello se produce una ligera deformación elástica en la superficie de contacto entre la rueda motriz y el raíl y un ligero deslizamiento, que ayuda a la transmisión de la fuerza de tracción solo hasta cierto punto. En cuanto la fuerza de tracción en el perímetro de la rueda supere este límite, la fricción de adherencia se transforma en fricción de deslizamiento de las ruedas motrices, que no permite la transmisión de la fuerza de tracción en tal medida como la fricción de adherencia. Se produce un deslizamiento completo, durante el cual las ruedas giran sin avanzar. Un caso similar se produce si la fuerza de frenado en el perímetro de las ruedas supera el límite de la fricción de adherencia. Entonces se produce un deslizamiento, las ruedas se detienen y el vehículo se desliza por los raíles por inercia.
+rueda y riel. De este modo se permite la transmisión de la fuerza de tracción desde el perímetro de la rueda al riel y, de este modo, se permite en realidad el movimiento de la locomotora y la transmisión de la fuerza de tracción al gancho del vehículo. Con ello se produce una ligera deformación elástica en la superficie de contacto entre la rueda motriz y el riel y un ligero deslizamiento, que ayuda a la transmisión de la fuerza de tracción solo hasta cierto punto. Una vez que la fuerza de tracción en el perímetro de la rueda supera este límite, la fricción de adherencia se convierte en fricción de deslizamiento de las ruedas motrices, la cual no permite la transmisión de la fuerza de tracción en tal medida como la fricción de adherencia. Se produce un deslizamiento total, durante el cual las ruedas giran sin avanzar. Un caso similar se produce si la fuerza de frenado en el perímetro de las ruedas supera el límite de la fricción de adherencia. Entonces se produce un deslizamiento, las ruedas se detienen y el vehículo se desliza por los rieles por inercia.
 El valor de la fricción de adherencia depende:
-a) de la fuerza perpendicular entre las superficies de fricción, es decir, del peso adherente del vehículo motriz GA (t). Es la parte del peso del vehículo motriz que descansa sobre los ejes motrices y acoplados, incluidos los pesos de estos ejes;
+a) de la fuerza perpendicular entre las superficies de fricción, es decir, del peso de adherencia de la locomotora GA (t). Es la parte del peso de la locomotora que descansa sobre los ejes motrices y acoplados, incluidos los pesos de dichos ejes;
 b) del coeficiente de fricción de adherencia µa (kg/t).
 Esta dependencia la expresamos con la fórmula:
 Fmax = GA * µa (kg, t, kg/t)
-Fmax – fuerza de tracción (de frenado) máxima en los perímetros de los ejes motrices y acoplados, con la que aún no se produce el deslizamiento (derrape) de las ruedas. Se denomina límite de adherencia y se expresa en «kg»;
-GA – peso adherente del vehículo motriz, que es la suma de las presiones sobre los ejes de los ejes motrices y acoplados. Se expresa en «t»;
-µa – coeficiente de adherencia, que es muy variable. Depende del material de la rueda y del raíl, del tiempo atmosférico (si los raíles están mojados o secos), de la velocidad de circulación (con el aumento de la velocidad µa disminuye), de la construcción de la locomotora.
-En las circulaciones en curvas, sobre raíles mojados o grasientos, el coeficiente de adherencia es menor.
-Si llueve ligeramente, en la superficie de los raíles se forma inicialmente, junto con el polvo, una capa resbaladiza que reduce el coeficiente de adherencia hasta 100 kg/t. Tras una lluvia prolongada, cuando llueve con más intensidad, los raíles se lavan y el coeficiente de adherencia vuelve a subir.
-En el deslizamiento o derrape el coeficiente de adherencia pasa a ser el coeficiente de fricción de deslizamiento, cuyo valor es sustancialmente menor, aproximadamente ½ a ¼ del valor del coeficiente de adherencia. Es evidente que entonces también disminuirá la potencia de la locomotora al menos en este valor. Por ello es necesario en tal caso aumentar el coeficiente de adherencia para que no se produzca el deslizamiento. Para ello sirve, por ejemplo, el esparcido de arena delante de las ruedas deslizantes, con lo que se agrieta la superficie de los raíles. Las irregularidades creadas artificialmente aumentan el coeficiente de adherencia, pero a la vez tanto las ruedas como los raíles se desgastan más. Con el esparcido de arena aumentamos el coeficiente de adherencia y con ello permitimos la transmisión de una mayor fuerza de tracción sin deslizamiento.
+Fmax – fuerza máxima de tracción (de frenado) en los perímetros de los ejes motrices y acoplados, con la que aún no se produce deslizamiento (derrape) de las ruedas. Se denomina límite de adherencia y se expresa en «kg»;
+GA – peso de adherencia de la locomotora, que es la suma de las presiones sobre los ejes de los ejes motrices y acoplados. Se expresa en «t»;
+µa – coeficiente de adherencia, que es muy variable. Depende del material de la rueda y del riel, del tiempo atmosférico (si los rieles están mojados o secos), de la velocidad de circulación (con el aumento de la velocidad µa disminuye), de la construcción de la locomotora.
+En las circulaciones en curvas, sobre rieles mojados o grasos, el coeficiente de adherencia es menor.
+Si llueve ligeramente, en la superficie de los rieles se forma inicialmente, junto con el polvo, una capa resbaladiza que reduce el coeficiente de adherencia hasta 100 kg/t. Tras una lluvia más prolongada, cuando llueve con más intensidad, los rieles se lavan y el coeficiente de adherencia vuelve a aumentar.
+En caso de deslizamiento o derrape, el coeficiente de adherencia pasa a ser coeficiente de fricción de deslizamiento, cuyo valor es sustancialmente menor, aproximadamente ½ a ¼ del valor del coeficiente de adherencia. Es evidente que entonces la potencia de la locomotora también disminuirá al menos en este valor. Por ello es necesario, en tal caso, aumentar el coeficiente de adherencia para que no se produzca deslizamiento. Para ello sirve, por ejemplo, el esparcido de arena delante de las ruedas deslizantes, con lo que se roughifica la superficie de los rieles. Las irregularidades creadas artificialmente aumentan el coeficiente de adherencia, pero a la vez tanto las ruedas como los rieles se desgastan más. Esparciendo arena aumentamos el coeficiente de adherencia y con ello permitimos la transmisión de una mayor fuerza de tracción sin deslizamiento.
 Frenado de los vehículos ferroviarios
-La seguridad del tráfico exige la detención absolutamente fiable de los trenes, ya sea en las estaciones, ya sea antes de cada señal que ordene la detención total o, respectivamente, la limitación de velocidad del tren. El efecto de frenado se consigue entonces de la manera más común presionando las zapatas de hierro contra el perímetro de las ruedas de rodadura con la colaboración del mecanismo de freno. En el caso de los frenos de aire actualmente utilizados habitualmente, el presionado de las zapatas de hierro contra el perímetro de las ruedas de rodadura se realiza por la acción de la presión del aire en el cilindro de freno sobre el pistón, cuyo movimiento se transmite a través de la varilla del pistón, la palanca de freno y la varilla a las zapatas. La presión del aire se introduce en el cilindro de freno desde el depósito de aire situado en el vehículo. La entrada de aire en el cilindro la regula el maquinista desde su puesto de conducción a través de un dispositivo especial, el llamado freno.
-
+La seguridad de la circulación exige la detención absolutamente fiable de los trenes, ya sea en las estaciones, ya sea antes de cada señal que ordene la detención total o, respectivamente, la limitación de velocidad del tren. El efecto de frenado se consigue, a su vez, de la manera más habitual presionando las zapatas de hierro contra el perímetro de las ruedas de rodadura con la colaboración del mecanismo de freno. En el caso de los frenos de aire, actualmente utilizados de forma habitual, la presión de las zapatas de hierro contra el perímetro de las ruedas del bogie se realiza por la acción de la presión del aire en el cilindro de freno sobre el émbolo, cuyo movimiento se transmite, a través de la varilla del émbolo, la palanca de freno y la varilla de transmisión, a las zapatas. La presión del aire se introduce en el cilindro de freno desde el depósito de aire situado en el vehículo. La entrada de aire en el cilindro la regula el maquinista desde su puesto de conducción mediante un dispositivo especial, el llamado freno.
 
 ## Página 69
+
 
 La fuerza con la que las zapatas se presionan contra los aros de las ruedas de rodadura o motrices está limitada en su magnitud a un cierto límite; esto significa que el frenado no puede aumentarse arbitrariamente. La presión de las zapatas contra el aro produce en el punto de contacto de la zapata con el aro de la rueda una fricción, cuyo resultado es la llamada fuerza de frenado, que está limitada por el producto de las magnitudes de la fuerza de presión F que actúa y del coeficiente de fricción f. La fricción entre el aro de la rueda y la zapata Tb no debe ser, en efecto, mayor que la fricción que se produce entre la rueda y el raíl Tk. Aquí rige la relación Tb ≤ Tk. Si no fuera así, es decir, si Tb ≥ Tk, se produciría el fenómeno conocido por el cual la rueda frenada deja de girar y se desliza por el raíl. En este caso la fricción entre la rueda y el raíl Tk es mucho menor, y como el coeficiente de fricción de deslizamiento es menor que el coeficiente de fricción de rodadura, también se alarga la distancia de frenado durante la circulación con deslizamiento.
 En las ecuaciones indicadas el coeficiente de fricción f depende de la velocidad del vehículo. Tiene, por ejemplo, para una zapata de acero y de hierro un valor a una velocidad de 25 km/h de aproximadamente f = 0,25; a una velocidad de 50 km/h de aproximadamente 0,2.
@@ -2331,6 +2283,7 @@ Con la continuación de la circulación del tren Os 17544 con deslizamiento, sin
 Incluso en un estado ideal de la vía, queda acreditado por los cálculos que, ante una superación fundamental de la velocidad y, por tanto, la necesidad de anular en este caso 1,25 veces más energía cinética, la longitud de la distancia de frenado teórica necesaria para los valores determinados de la máxima y mínima
 
 ## Página 70
+
 
 del frenado realmente alcanzado a una velocidad de 60 km·h-1 en comparación con la velocidad de 40 km·h-1, se prolongó en un 221 – 264 %.
 La Inspección Ferroviaria, en el marco de la investigación para las necesidades de una posterior evaluación independiente de las conclusiones sobre los resultados de la investigación de las causas y circunstancias del origen de este SU, incorporó a un perito en el campo de Transporte, rama Transporte ferroviario (causas del origen de accidentes en el transporte ferroviario, determinación del importe de los daños producidos en eventos accidentales).
@@ -2349,8 +2302,8 @@ En el Dictamen Pericial n.º 757/22/2021 se indica, entre otras cosas:
 • La disminución de velocidad continuó y la velocidad de 58 km/h descendió a 56 km/h a las 7 horas 8 minutos y 12 seg – uso del freno directo. La disminución de la velocidad del tren continuó hasta los 49 km/h alcanzados a las 7 horas 8 minutos y 15 seg y posteriormente hasta los 46 km/h registrados a las 7 horas 8 minutos y 16 seg. En este tiempo se registra también una caída perpendicular de la velocidad de 46 km/h a 0 km/h.
 • El maquinista inició un frenado intenso desde la citada velocidad no permitida del tren de 49 km/h; con esta tecnología de frenado, el intenso efecto de frenado provocó el bloqueo del bogie, donde con el uso del intenso efecto de frenado en el bogie la fuerza de frenado en la
 
-
 ## Página 71
+
 
 circunferencia de las ruedas superó la adherencia entre el bogie frenado en rodadura y la cabeza del raíl – se produjo el derrape y con ello el bloqueo inmediato del bogie.
 • «Hierba aplastada en las cabezas de los raíles desde el pk 19,142» reduce el coeficiente de fricción de derrape metal/metal desde el valor de 0,1 según la literatura hasta el valor de 0,01. La reducción de la energía cinética del tren circulando en derrape es entonces muy lenta.
@@ -2365,8 +2318,8 @@ circunferencia de las ruedas superó la adherencia entre el bogie frenado en rod
 • Incluso con la superación de la velocidad máxima permitida desde el valor de 40 km/h hasta la velocidad de 60 km/h y el inicio del frenado de servicio como muy tarde después del desvío n.º 2, si bien el maquinista comenzó a frenar y la velocidad de circulación del tren comenzó a disminuir, y con el uso del frenado y el movimiento por la 2.ª vía de tráfico, según el perito el maquinista o bien se habría detenido aún antes de la señal de salida L2, o en su caso habría minimizado las consecuencias del suceso extraordinario, si el maquinista hubiera reaccionado adecuadamente al bloqueo producido de los bogies frenados (p. ej. con una reducción repetida del efecto de frenado, de forma que se produjera un desfrenado parcial repetido, o incluso con un intenso esparcido de arena).
 La Inspección Ferroviaria, con base en los resultados de su propia investigación y en las constataciones indicadas en el Dictamen Pericial, constata que la no detención del tren antes del nivel de la señal de salida L2 con la indicación «Alto», la entrada en la vía de tren establecida del tren en sentido contrario Slu 55025, la posterior colisión con el mismo y el descarrilamiento del tren Os 17544, se produjo por la superación de la velocidad máxima permitida
 
-
 ## Página 72
+
 
 por el maquinista del tren Os 17544 en 20 km·h-1 y su posterior manejo incorrecto de los dispositivos de freno, incluido el no uso del esparcido de arena ante el derrape producido de ambos bogies.
 ### 4.3.3 Factores organizativos y tareas
@@ -2389,8 +2342,8 @@ El sistema de gestión de los sujetos responsables del mantenimiento de los veh�
 #### 4.4.5 Resultados de la supervisión realizada por las autoridades nacionales de seguridad
 Atendiendo a los factores y circunstancias constatados del origen del SU, la supervisión de la autoridad de seguridad no guarda relación con el SU en cuestión.
 
-
 ## Página 73
+
 
 #### 4.4.6 Aprobaciones, certificados y evaluaciones emitidos por la agencia, las autoridades nacionales de seguridad u otros sujetos de evaluación de la conformidad
 El gestor de la infraestructura explotaba la infraestructura con base en la autorización administrativa vigente y el certificado de seguridad del gestor de la infraestructura. Los transportistas explotaban el transporte ferroviario con base en la licencia vigente y el certificado del transportista.
@@ -2412,6 +2365,7 @@ Causal factor:
 • failure to stop the regional passenger train No. 17544 in front of the signal „Stop" of the main (departure) signal device L2 at Kdyně station, due to incorrect operation of the braking device and failure to use the sanding equipment by the train driver of the train No. 17544, and also failure to ensure re-rolling of the wheels after the previous occurrence of skid of the wheels of the locomotive.
 
 ## Página 74
+
 
 Factores contribuyentes:
 reducción del coeficiente de fricción de adherencia necesario para la puesta en marcha o
@@ -2461,8 +2415,8 @@ la anomalía se debatió personalmente con el maquinista y se le reprochó verba
 •
 El gestor de la infraestructura SŽ no adoptó ninguna medida.
 
-
 ## Página 75
+
 
 ### 5.3 Hallazgos complementarios
 En el gestor de la infraestructura SŽ:
@@ -2520,67 +2474,32 @@ no se detectó ninguna anomalía en el funcionamiento del presostato de registro
 la presión en el cilindro de freno al evaluar (analizar) los registros realizados por el
 velocímetro de la locomotora n.º 810.406-9;
 
-
 ## Página 76
 
-el maquinista del tren n.º 17544 superó el límite de velocidad al circular
+el conductor del tren n.º 17544 superó el límite de velocidad al circular
 •
-entre Janovice nad Úhlavou y la señal de aviso independiente de la señal de entrada
-PřL de la estación de Kdyně.
-En el operador ferroviario ČDC:
-el maquinista del tren n.º 55025 superó el límite de velocidad al circular
+entre Janovice nad Úhlavou y la señal de aviso independiente del aparato de señal de entrada PL en la estación de Kdyně.
+
+En la empresa ferroviaria ČDC:
+el conductor del tren n.º 55025 superó el límite de velocidad al circular
 •
-entre la estación de Domažlice y la señal de entrada S de la estación de Kdyně.
+entre la estación de Domažlice y el aparato de señal de entrada S en la estación de Kdyně.
+
 ### 6 RECOMENDACIONES DE SEGURIDAD
-La Inspección Ferroviaria, con base en lo dispuesto en el § 53e apartado 1 de la Ley n.º 266/1994 Sb., recomienda, en relación con la prevención de sucesos extraordinarios:
+
+La Inspección Ferroviaria, en virtud de lo dispuesto en el § 53e apartado 1 de la Ley n.º 266/1994 Sb., recomienda, con miras a la prevención de sucesos extraordinarios:
 
 A la Autoridad Ferroviaria:
-en el marco de su actividad como autoridad nacional de seguridad en materia de
-•
-vehículos ferroviarios de tracción de la serie 810 y de todos los demás vehículos
-ferroviarios susceptibles de ser considerados, evaluar y, en su caso, ordenar la
-realización de una modificación en la conexión del mando de los equipos de
-areneado existentes de modo que estos se activen sin necesidad de su operación
-por la persona que conduce el vehículo ferroviario, siempre que se produzca la
-frenada de acción rápida (reducción de la presión de aire en la tubería principal
-del freno automático continuo por debajo de 3 bares), cuando simultáneamente
-se activa el mando y se selecciona el sentido de circulación mediante los
-correspondientes elementos de mando del vehículo ferroviario, con independencia
-de la velocidad del vehículo (en el derrape del eje frenado, la velocidad indicada
-del vehículo es menor que la real o igual a 0);
-en el marco de su actividad como autoridad nacional de seguridad, la adopción de
-•
-medidas que garanticen, en el gestor de la infraestructura Správa železnic, státní
-organizace, la modificación de los procedimientos tecnológicos relativos al
-mantenimiento de las vías de estación y de línea, de modo que la aplicación del
-tratamiento para la erradicación de la vegetación indeseada se siga realizando
-con cierta antelación como hasta ahora, pero que dicha antelación responda al
-estado real de la vegetación en las distintas líneas, incluso cuando algunas de
-ellas se encuentren en la misma franja climática. Para determinar el límite último
-de intervención para la realización del tratamiento, de modo que no se produzca
-el crecimiento de vegetación indeseada sobre los cantos de los cabezales de los
-carriles, la Inspección Ferroviaria recomienda la utilización de una actividad de
-control más eficaz, en la que participarán tanto los empleados directamente en la
-explotación durante la realización de las recorridas regulares de las líneas como
-los empleados directivos del gestor de la infraestructura durante la realización de
-los controles regulares.
+en el marco de su actividad como autoridad nacional de seguridad en materia de vehículos ferroviarios de tracción de la serie 810 y de todos los demás vehículos ferroviarios que puedan entrar en consideración, evaluar y, en su caso, ordenar la realización de una modificación del circuito de mando de los aparatos de arenado existentes de modo que se pongan en funcionamiento sin necesidad de que sean operados por la persona que conduce el vehículo ferroviario, siempre que se aplique el frenado de acción rápida (reducción de la presión de aire en la tubería principal del freno automático continuo por debajo de 3 bares), cuando al mismo tiempo estén activados el mando y la dirección de marcha seleccionada mediante los elementos de mando correspondientes del vehículo ferroviario, con independencia de la velocidad del vehículo (en el caso de derrape del eje frenado, la velocidad indicada del vehículo es inferior a la real o igual a 0);
+en el marco de su actividad como autoridad nacional de seguridad, la adopción de una medida que garantice, en el operador ferroviario Správa železnic, organización estatal, la modificación de los procedimientos tecnológicos relativos al mantenimiento de las vías de estación y de línea, de modo que la aplicación del tratamiento fitosanitario para la erradicación de la vegetación indeseada se siga realizando con cierta antelación como hasta ahora, pero que dicha antelación responda al estado real de la vegetación en cada una de las líneas, incluso teniendo en cuenta que algunas de ellas se encontrarán en la misma franja climática. Para determinar el límite máximo de intervención para la realización del tratamiento fitosanitario, de manera que no se produzca el crecimiento de vegetación indeseada sobre las cabezas de los carriles, la Inspección Ferroviaria recomienda el uso de una actividad de control más eficaz, en la que participarán tanto los empleados directamente en la explotación durante la realización de las inspecciones periódicas de las líneas como los directivos del operador ferroviario durante la realización de las revisiones periódicas.
 
 ### RECOMENDACIONES DE SEGURIDAD
-Dirigidas a la Autoridad Nacional de Seguridad Checa (la ANS):
-en el marco de sus actividades, recomendamos a la ANS evaluar y, en su caso, ordenar
-•
-la modificación de la conexión del mando de los equipos de areneado existentes de
-modo que dichos equipos se activen sin necesidad de su operación por parte del
-maquinista siempre que se produzca la frenada de acción rápida (cuando la presión
-de aire en la tubería principal del freno automático continuo del tren descienda por
-debajo de 3 bares) y cuando, al mismo tiempo, se active el mando del vehículo
-ferroviario mediante los correspondientes elementos de mando y se seleccione el
-sentido de circulación, debiendo realizarse esto con independencia de la velocidad
-del tren (la velocidad del tren se indica como menor o igual a 0 durante el derrape
-del
 
+Dirigidas a la Autoridad Nacional de Seguridad Checa (la ANS):
+en el marco de sus actividades, recomendamos que la ANS evalúe y, en su caso, ordene la modificación del circuito de mando de los aparatos de arenado existentes de modo que dichos aparatos se activen sin necesidad de que sean operados por el conductor del tren siempre que se aplique el frenado de acción rápida (cuando la presión de aire en la tubería principal del freno automático continuo del tren caiga por debajo de 3 bares) y cuando, al mismo tiempo, esté activado el mando del material rodante mediante los elementos de mando correspondientes y esté seleccionada la dirección de marcha, debiendo realizarse esto con independencia de la velocidad del tren (la velocidad del tren se indica como inferior o igual a 0 durante el derrape del
 
 ## Página 77
+
 
 eje frenado). La modificación recomendada debe realizarse en el vehículo ferroviario
 de tracción de la serie 810 y en todos los demás vehículos ferroviarios susceptibles;
@@ -2614,8 +2533,8 @@ inspector
 De la Inspección Territorial de Bohemia
 De la Inspección Territorial de Bohemia
 
-
 ## Página 78
+
 
 ### ANEXOS
 Fig. n.º 10: Vista de la vía n.º 2 tras el corte de la hierba

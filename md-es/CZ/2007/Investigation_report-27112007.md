@@ -10,13 +10,14 @@ chars: 148562
 ratio_longitud: 1.36
 tokens_in: 61651
 tokens_out: 47520
-verificacion: revisar
-notas_cifras: ["bloque 2: original bilingüe: se compara contra el idioma principal (CS)", "bloque 5: cifras cortas: 4/98", "bloque 7: original bilingüe: se compara contra el idioma principal (CS); cifras cortas: 1/54", "bloque 9: cifras cortas: 1/50", "bloque 10: cifras cortas: 2/75", "bloque 12: cifras cortas: 5/108"]
-avisos: ["bloque 7: ratio 1.73", "bloque 15: ratio 2.11", "bloque 19: marcadores de página: 6 vs 5"]
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (HR)", "página 5: original bilingüe: se compara contra el idioma principal (EN)", "página 6: original bilingüe: se compara contra el idioma principal (PT)", "página 7: original bilingüe: se compara contra el idioma principal (CS)", "página 9: original bilingüe: se compara contra el idioma principal (CS)", "página 13: cifras cortas: 4/70"]
 ---
+
 ## Página 1
+
 
 Inspección Ferroviaria
 República Checa
@@ -42,11 +43,12 @@ N.º de identificación de la empresa (IČO): 75009561
 http://www.dicr.cz
 fax: (+420) 224 805 428
 
-
 ## Página 2
 
 
+
 ## Página 3
+
 
 # RESUMEN
  27 de noviembre de 2007, 19:01 (18:01 GMT)
@@ -72,11 +74,12 @@ comprobación preventiva de los mecanismos de las agujas de vía accionadas manu
 mecanismos de las agujas de vía accionadas manualmente a fin de evitar el manejo brusco
 de los mismos.
 
-
 ## Página 4
 
 
+
 ## Página 5
+
 
 # Índice
  Resumen .............................................................................................................................3
@@ -109,6 +112,7 @@ incluidas las personas en relación contractual ................................
 
 ## Página 6
 
+
 proporción ...............................................................................................................17
 3.1.2 Otras personas .........................................................................................................20
 3.2 Sistema de garantía de la seguridad ...............................................................................20
@@ -138,8 +142,8 @@ proporción ....................................................................
 4.1.1 Descripción final del incidente basada en los hechos constatados en el punto 3 
 ............................................................................................................................31
 
-
 ## Página 7
+
 
 4.2 Análisis ......................................................................................................................32
 4.2.1 Evaluación de los hechos constatados según el punto 3 y presentación de las conclusiones sobre la causa del incidente y la actuación de los servicios de emergencia ..........................................32
@@ -163,6 +167,7 @@ proporción ....................................................................
 
 ## Página 8
 
+
 ## 1 RESUMEN
 El 27 de noviembre de 2007 a las 19:01 horas se produjo un incidente extraordinario en el transporte ferroviario a tenor del artículo 49 de la ley n.º 266/1994 Coll., sobre vías férreas, en su versión vigente, cuando en la vía férrea, vía nacional Mosty u Jablunkova st. hranice – Bohumín, en la estación ferroviaria (en lo sucesivo, žst.) Bystřice nad Olší, en el punto de cruce n.º 15 en el pk 305,520, descarriló el vehículo de tracción ferroviario (en lo sucesivo, HDV) de la serie 742.126-6, que circulaba a la cabeza del tren Mn 80 203.
 En el incidente extraordinario se produjo una catástrofe ecológica, con un vertido de aproximadamente 2000 litros de gasóleo procedentes del depósito de combustible del vehículo de tracción ferroviario. El incidente extraordinario no causó daños a la salud.
@@ -174,10 +179,10 @@ La Inspección Ferroviaria ha emitido recomendaciones de seguridad para el titul
 ## 2 DATOS RELATIVOS AL INCIDENTE EXTRAORDINARIO
 ### 2.1 Incidente extraordinario
 ### 2.1.1 Fecha, hora exacta y lugar del incidente extraordinario
-El incidente extraordinario en el transporte ferroviario se produjo el 27 de noviembre de 2007 a las 19:01 horas, en la vía férrea, vía nacional Mosty u Jablunkova st. hr. – Bohumín (línea 305), 
-
+El incidente extraordinario en el transporte ferroviario se produjo el 27 de noviembre de 2007 a las 19:01 horas, en la vía férrea, vía nacional Mosty u Jablunkova st. hr. – Bohumín (línea 305),
 
 ## Página 9
+
 
 en el pk 305,520 de la estación de Bystřice nad Olší, en la sección de puntas del punto de cruce n.º 15, en la dirección de circulación del tren Mn 80203 desde la vía de línea n.º 1 Třinec – Bystřice nad Olší hacia la vía de estación n.º 4.
 ### 2.1.2 Descripción del incidente extraordinario y del lugar del accidente, incluida la actividad del sistema integrado de rescate y del servicio de rescate
@@ -200,6 +205,7 @@ La estación de Bystřice nad Olší se encuentra en el pk 304,889 y está equip
 
 ## Página 10
 
+
 En la estación de Bystřice nad Olší, en el apeadero de Třinec, entre el pk 305,522 y el pk 305,650 se inserta un ramal de vía compuesto por los desvíos n.º 16 y n.º 17 y, a continuación, otro ramal de vía compuesto por el desvío n.º 18 y el n.º 19. Los desvíos son del tipo JR65-1:9-300-d, que se insertaron en las vías n.º 1 y n.º 2 en el año 1989. El ramal de vía compuesto por los desvíos n.º 19 y n.º 18 permite el paso de trenes desde la vía de línea n.º 1 al grupo de vías pares y viceversa. El ramal de vía compuesto por los desvíos n.º 17 y n.º 14 permite el paso de vehículos ferroviarios desde la vía n.º 2 al grupo de vías impares en la estación de Bystřice nad Olší y viceversa. Detrás del desvío n.º 17 en la vía n.º 2, en el pk 305,521, se inserta un desvío simple n.º 15 del tipo JR65-1:9-300-L,p,d, que se instaló en la vía de estación n.º 2 el 28.02.1989 como nuevo. La cama de vía está formada por áridos naturales triturados de la fracción 16-32 mm. La superestructura de la vía de estación n.º 2 y n.º 4 es del tipo R65 sobre durmientes de hormigón SB8 con una separación de los durmientes "e", es decir, 544 mm. Las barras se fijan a los durmientes mediante abrazaderas de campana ŽS4, placas de base acanaladas S4 y espirales R1. La superestructura de las vías de estación n.º 1, n.º 2 y n.º 4 se instaló en 1986; la vía continua (en adelante, VC) se construyó en 1986 con una temperatura de sujeción en la vía n.º 1 de +24 °C y en la vía n.º 2 de +12 °C. Los desvíos en el apeadero de Třinec de la estación de Bystřice nad Olší están soldados por grupos y están separados de la vía continua en las vías de estación y de línea mediante un pequeño dispositivo de dilatación. Las uniones entre los desvíos y la vía n.º 1 y n.º 2 en el apeadero de Třinec son del tipo R65 sobre durmientes de madera del tipo «B» con una separación de los durmientes «e». Las barras se fijan a los durmientes mediante abrazaderas de campana ŽS4, placas de base acanaladas S4 y espirales R1.
 
 Las vías n.º 1 y n.º 2 en el apeadero de Třinec en la zona de los desvíos se trazan en línea recta. En el sentido de la kilometraje hacia la estación de Třinec, la vía de estación n.º 1 y n.º 2 asciende con una pendiente de +0,35 ‰ hasta el pk 305,197, desciende con una pendiente de -1,50 ‰ desde el pk 305,197 hasta el pk 305,329, desciende con una pendiente de -2,60 ‰ desde el pk 305,329 hasta el pk 305,572 y, a continuación, desciende con una pendiente de -11,50 ‰.
@@ -214,6 +220,7 @@ El testigo del incidente fue el señalizador del cuadro de señales St. 2 de la 
 
 ## Página 11
 
+
 también notificó al despachador de la estación de Bystřice nad Olší la aparición del incidente, quien, a su vez, notificó el incidente de conformidad con el plan de notificaciones del titular de la infraestructura y del operador de tráfico ferroviario.
 
 El Sistema Integrado de Rescate (en adelante, SIR) fue activado por un empleado con la función de maestro de máquinas de České dráhy, a. s. (en adelante, ČD, a. s.) del Depósito de Vehículos Ferroviarios (en adelante, DVF) de Ostrava a las 19:10 h, es decir, 9 minutos después de la aparición del incidente.
@@ -225,6 +232,7 @@ El punto «0» se estableció comisionadamente en el pk 305,520 en el lugar del 
 A partir de las huellas dejadas en la vía se puede inferir que el descarrilamiento de la locomotora se produjo debido al impacto del borde de la primera rueda derecha contra el extremo de la punta derecha doblada del desvío n.º 15 y a la circulación de las ruedas derechas de la locomotora con los bordes en la posición entre la carrilera derecha recta y la punta derecha doblada, lo que se denomina circulación en horquilla. La circulación en horquilla de la locomotora fue posible debido a que la punta derecha doblada no hizo contacto con la carrilera derecha recta tras el cambio del desvío n.º 15 a la posición para la circulación prevista del tren Mn 80203 a la vía de estación n.º 4 de la estación de Bystřice nad Olší por parte del señalizador St. 2.
 
 ## Página 12
+
 
 2.1.3 Decisión de iniciar la investigación de las causas y circunstancias de la ocurrencia, composición del equipo de personas técnicamente cualificadas y forma de llevar a cabo la investigación de las causas y circunstancias de la ocurrencia
 
@@ -251,6 +259,7 @@ La estación de origen del tren Mn 80 203 fue la estación de Třinec y la estac
 
 ## Página 13
 
+
 La inspección técnica inicial del tren Mn 80 203 se realizó en la estación de Třinec.
 
 La locomotora diésel (HDV) 742.126-6 dispone de un Certificado de Aptitud del Vehículo Ferroviario válido, emitido de conformidad con el artículo 43 de la ley n.º 266/1994 Coll., por la Autoridad Ferroviaria de Praga bajo el n.º de registro PZ 8919/04-V.2, el 30 de enero de 2004. La última inspección técnica periódica de la locomotora diésel (HDV) la realizó el 4 de junio de 2007 una persona técnicamente cualificada del operador, con el resultado: sin averías.
@@ -273,6 +282,7 @@ La velocidad máxima de línea en las vías de circulación n.º 1 y n.º 2 de l
 
 ## Página 14
 
+
 El balasto de la vía en la estación de Bystřice nad Olší fue soldado tras la renovación llevada a cabo en 1986 y se instaló un bloque de cable continuo (BK). Los desvíos en el extremo de Trinec de la estación de Bystřice nad Olší fueron soldados por grupos y, respecto a las vías de estación n.º 1 y 2 y a las vías de línea n.º 1 y 2, están separados del bloque de cable continuo mediante un pequeño dispositivo de dilatación.
 La estación de Bystřice nad Olší está equipada con un dispositivo de seguridad de categoría 2: dispositivo de seguridad electromecánico con enlace al bloque automático con indicación de la libertad de los circuitos de vía. Los circuitos de vía y de desvíos están señalados en las tableros de vía de ambos puestos de mando y en el dispositivo de control en la sala de tráfico. Las vías principales de estación están equipadas con la parte de línea del dispositivo de seguridad de trenes (en lo sucesivo, DST) que permite la transmisión de las señales de salida a la cabina del conductor. Para el control del estado y del funcionamiento de los pasos a nivel en los tramos de línea de ambos sentidos, en la sala de tráfico está instalado un panel de la caja de señales del dispositivo de seguridad de pasos a nivel (en lo sucesivo, DSP).
 Las señales principales, tanto de entrada como de salida (excepto las señales de entrada 1 L y 2 S, que son de múltiples luces), son de cinco luces y están equipadas con el sistema de señales de velocidad.
@@ -291,6 +301,7 @@ En el lugar del incidente, inmediatamente antes de su ocurrencia, el administrad
 
 ## Página 15
 
+
 ### 2.2.6 Activación del plan de emergencia en la vía y secuencia de los acontecimientos
 El conductor del HDV 742.126-6, el señalista del puesto de mando St. 2 y el jefe de estación de la estación de Bystřice nad Olší, tras la ocurrencia del incidente, actuaron conforme a la norma interna de ČD D17 «Norma para la notificación e investigación de incidentes», aprobada con el número de expediente 70778/2006, el 31.10.2006, con efecto desde el 01.01.2007, en su versión vigente, PARTE SEGUNDA «NOTIFICACIÓN DE INCIDENTES», Capítulo I «Obligación de notificación», artículos 42 y 46. El conductor del HDV del tren Mn 80 203 notificó la ocurrencia del incidente mediante la conexión de radio de línea a las 19:03 h, inmediatamente después de asegurar el HDV del tren al jefe de estación de la estación de Bystřice nad Olší. La jefa de estación actuó conforme al PLAN DE NOTIFICACIÓN del administrador de la infraestructura y del transporte ferroviario. La ocurrencia del incidente se notificó al responsable del turno del Centro Regional de Operaciones de Ostrava, a la Policía de la República Checa, comisaría de Jablunkov, a la Estación de Notificación de Incendios del Centro Operativo e Informacional de la unidad de protección contra incendios del Servicio de Rescate de Incendios de los Ferrocarriles Checos, s. a., Ostrava y Jablunkov, a las unidades de emergencia de la estación de cruce de Český Těšín, al puesto de control del Centro de Despacho Eléctrico de Ostrava y al jefe de estación de carga de la estación de Český Těšín. El inspector superior de ČD, s. a., del Inspectorado Regional de Seguridad del Transporte Ferroviario de Ostrava, persona autorizada conforme al artículo 9 del Decreto n.º 376/2006 Coll., para determinar las causas y las circunstancias de la ocurrencia del incidente, notificó la ocurrencia del incidente a la Oficina Central de Operaciones de la Inspección Ferroviaria a las 19:24 h.
 ### 2.2.7 Activación del plan del sistema integrado de rescate, de la policía y del servicio de rescate médico y secuencia de los acontecimientos
@@ -306,17 +317,17 @@ Mediante la inspección de prueba del HDV de la serie 742.126-6 llevada a cabo e
 
 ## Página 16
 
-chapas de chispas, cable de retención del bogie trasero desgajado, 4 marcas de impacto en los cuerpos de los cilindros de freno, 4 unidades de soportes de topes laterales de los bogies dañados, incluyendo elementos elásticos, 21 unidades de soportes de goma del alojamiento de la caja dañados, 4 unidades de cables de puesta a tierra desgajados, cable del transmisor del velocímetro desgajado, cable del tacogenerador, 4 unidades de amortiguadores laterales del perno de tracción, tubería de aire dañada en la parte inferior del vehículo, retenedores de las barras de freno dañados, parte mecánica del freno dañada, 6 unidades de dispositivos de arenado, 2 unidades de fuelles de alimentación de aire refrigerante para los motores de tracción, grifo del freno de presión dañado en el frontal, en el primer eje dañado el alojamiento de los soportes de freno, dañada la totalidad de la parte inferior del depósito de combustible y perforación lateral, hundimientos en la superficie de rodadura de todos los ejes, marcas y deformaciones por el impacto del bogie contra el chasis.
-El estado técnico encontrado en la locomotora eléctrica HDV serie 742.126-6 no influyó en la aparición del incidente.
-El daño en la HDV tras la reparación fue cuantificado por el transportista en 320 744,- Kč.
-Durante el descarrilamiento de la HDV se produjeron daños en el equipamiento de la Administración de la Infraestructura Ferroviaria, s. o. (en adelante SŽDC, s. o.) bajo la gestión de la empresa České dráhy, a. s., de la Administración de la Ruta (en adelante SDC) Ostrava, en el material fijo menor y en las traviesas de madera en el punto de cruce n.º 15 y daños en la barra de sujeción en el punto de cruce n.º 15. El daño en el material fijo ferroviario y en el resto del equipamiento de SŽDC s. o. fue cuantificado en 111 976,- Kč.
-Como consecuencia de la fuga de gasóleo del depósito perforado de la HDV se produjo un accidente ecológico. Los gastos para la eliminación del accidente ecológico fueron cuantificados en 1 011 000,- Kč. El importe de este daño ecológico no es definitivo.
-### El daño total causado como consecuencia del incidente fue cuantificado en el momento de redactar el Informe de investigación de las causas y circunstancias del incidente en 1 443 720,- Kč. Sin embargo, esta cantidad no es definitiva, debido a que no se ha cuantificado el importe definitivo por parte del explotador de la infraestructura para la eliminación del accidente ecológico.
-El daño secundario causado por el incidente y sufrido por ČD, a. s. mediante el empleo de medios auxiliares para el enderezamiento de los vehículos asciende a 127 624,- Kč.
-El tráfico ferroviario se interrumpió completamente desde las 19:01 h hasta las 20:50 h del día 27.11.2007, es decir, 109 minutos. Desde las 20:50 h del día 27.11.2007 se excluyó el grupo de vías par del apeadero de Bystřice nad Olší. Se retrasaron 3 trenes para el transporte de viajeros de la categoría R (rápido) + 54 min. y 9 trenes de la categoría Os + 303 min.
-
+de chispas, cable de retención arrancado del bogie trasero, 4 marcas de impacto en los cuerpos de los cilindros de freno, 4 unidades de soportes de topes laterales de bogies dañados incluidos los elementos elásticos, 21 unidades de apoyos de goma de la caja dañados, 4 unidades de puentes de puesta a tierra arrancados, cable del transmisor del velocímetro arrancado, cable del tachoalternador, 4 unidades de amortiguadores laterales del perno de tracción, dañada la tubería de aire en la parte inferior del vehículo, dañadas las retenciones de las varillas de freno, dañada la parte mecánica del freno, 6 unidades del dispositivo de arenado, 2 unidades de mangueras de suministro de aire de refrigeración a los motores de tracción, dañada la llave del freno de aire en el frontal delantero, en el eje 1 dañado el soporte de los suspensosres de freno, dañado el depósito de combustible en toda la parte inferior y perforación lateral, estrías en la superficie de rodadura de todos los juegos de ruedas, marcas y deformaciones por el impacto del bogie en el bastidor.
+El estado técnico del HDV serie 742.126-6 constatado no tuvo influencia en la aparición del suceso ferroviario.
+El daño al HDV tras la reparación efectuada fue cuantificado por el transportista en 320 744,- Kč.
+Con motivo del descarrilamiento del HDV se produjo, en las instalaciones de la Administración de la Vía de Transporte Ferroviario, s. o. (en adelante SŽDC, s. o.) bajo la gestión de la sociedad České dráhy, a. s., Administración de la Vía de Transporte (en adelante SDC) Ostrava, daños en el balasto menor y en las traviesas de madera de la aguja n.º 15 y daños en el carril de guarda de la aguja n.º 15. El daño en la superestructura y demás instalaciones de SŽDC s. o. fue cuantificado en 111 976,- Kč.
+Como consecuencia de la fuga de gasóleo desde el depósito perforado del HDV se produjo una catástrofe ecológica. Los costes de la eliminación de la catástrofe ecológica fueron cuantificados en 1 011 000,- Kč. La cuantificación ecológica del daño indicada no es definitiva.
+### El daño total causado por el SU en el momento de la elaboración del Informe de investigación de las causas y circunstancias de la aparición del suceso ferroviario fue cuantificado en 1 443 720,- Kč. Esta cifra, sin embargo, no es definitiva, debido a que el gestor de la vía no ha cuantificado la cifra definitiva para la eliminación de la catástrofe ecológica.
+El daño secundario causado a ČD, a. s. por el SU con motivo de la utilización de medios auxiliares de enganche a la vía asciende a 127 624,- Kč.
+El tráfico ferroviario fue interrumpido por completo desde las 19:01 h hasta las 20:50 h del día 27. 11. 2007, es decir, 109 minutos. Desde las 20:50 h del día 27. 11. 2007 quedó excluido el grupo de vías pares de la estación Bystřice nad Olší. Se retrasaron 3 trenes de la categoría R (expreso) + 54 min. y 9 trenes de la categoría Os + 303 min.
 
 ## Página 17
+
 
 ### 2.4 Circunstancias externas
 ### 2.4.1 Condiciones meteorológicas y datos geográficos
@@ -332,6 +343,7 @@ El despachador del apeadero de Bystřice nad Olší en el "Acta con el empleado"
 
 ## Página 18
 
+
 El telegrafista de la señalización St. 2 de la estación de Bystřice nad Olší, en el "Acta con el empleado" elaborado por ČD, a. s., unidad de Český Těšín, con fecha 27. 11. 2007, declaró:
 "El despachador de tráfico ordenó la preparación de la vía de circulación para el tren Mn 80203 hacia la cuarta vía. Tras recibir la orden de preparación, procedí a preparar la vía de circulación hacia la vía nº 4 y a operar el dispositivo de seguridad. Durante el enclavamiento y la preparación de la vía de circulación, el dispositivo de seguridad mostró un funcionamiento correcto. Durante la entrada del Mn 80203, esperaba la circulación desde la ventana St. 2. Cuando la locomotora del tren Mn quedó detrás del punto de cruce nº 15, observé chispas en las ruedas de la locomotora, seguidamente se escucharon golpes y se produjo el descarrilamiento. Inmediatamente después, comuniqué este hecho al despachador de tráfico.
 El despachador de tráfico me dio la orden de realizar una comprobación para verificar si se podían realizar entradas y salidas desde la primera vía de circulación hacia la primera vía de estación. El despachador de tráfico intentó habilitar de emergencia la placa de señalización, tras lo cual quedó la cerradura de emergencia roja.
@@ -346,8 +358,8 @@ Yo informé inmediatamente de este incidente al telegrafista de la señalizació
 " ..... Las comprobaciones y mediciones de las vías y puntos de cruce se realizan de conformidad con el reglamento ČD S 2/3 "Organización y realización de las inspecciones de las vías de České dráhy", "Directiva del director superior SDC Ostrava nº 4/2004", ref. 4110/2004 y la Disposición del director de la Dirección de Vías Český Těšín nº 2/2007, ref. 83/2007.
 Las inspecciones periódicas (trimestrales) de los puntos de cruce y las vías en mi ámbito de competencia, es decir, en la estación de Bystřice nad Olší, la estación de Jablunkov Návsí y la estación de Mosty u Jablunkov, las realiza SDC Ostrava según un calendario de tiempo preestablecido, que es especificado por el jefe del departamento de operaciones ST Český Těšín. En este calendario también se incluyen las comprobaciones y mediciones periódicas (mensuales). Antes de la aparición del incidente extraordinario en la estación de Bystřice nad Olší, la última inspección y medición periódica (trimestral) de las vías, los puntos de cruce y el dispositivo de seguridad se realizó el 09. 10. 2007. De la inspección se deja constancia en el Libro nº 3 de la estación de Bystřice nad Olší, en el que se indica que no se detectaron averías que pusieran en peligro inmediato el tráfico ferroviario. La inspección y medición se realizaron por representantes de ČD, a. s., SDC Ostrava, Dirección de Vías Český Těšín, Dirección de Tecnología de Comunicación y Seguridad
 
-
 ## Página 19
+
 
 técnica de Ostrava, Dirección de Electrotécnica y Energía de Ostrava y la unidad de Český Těšín. ..... En el punto de cruce nº 15 de la estación de Bystřice nad Olší no se detectaron averías.
 El 07. 11. 2007, es decir, 20 días antes del accidente, realicé la inspección y medición de las vías y los puntos de cruce en la estación de Bystřice nad Olší, la llamada inspección mensual. Dentro de la inspección, medí el ancho de la vía, la posición vertical mutua de las cabezas de los rieles en los puntos de cruce y en las curvas adyacentes a los puntos de cruce, incluida la medición de la apertura de las puntas móviles, el ancho de las ranuras en los rieles de guía y en las placas de corazón, las magnitudes "L" y "A". Las magnitudes medidas las anoté en las hojas de puntos de cruce de los puntos de cruce individuales de la estación de Bystřice nad Olší. De la realización de la inspección y medición dejé constancia en el libro "Diario de inspecciones y actividades del jefe de la unidad operativa TO Jablunkov". La inspección la realicé junto con el maestro de vía y el herrero de estructuras de vía.
@@ -359,6 +371,7 @@ Al realizar la medición de la apertura de las puntas móviles y el enganche de 
 Además de mí, el día de la realización de la inspección mensual, los empleados de SSZT Ostrava también comprueban visualmente el dispositivo de maniobra junto con el herrero de estructuras de vía durante la realización de la prueba de la cerradura. Durante la realización de la prueba de la cerradura no estoy presente, el resultado de la prueba de la cerradura lo anota el empleado responsable de SSZT en el "Libro nº 2" como
 
 ## Página 20
+
 
 como se ha indicado anteriormente. En caso de que se subsane cualquier defecto por parte del mecánico de estructuras de vía, he sido informado de ello y el hallazgo del defecto se registra en el «Diario de inspecciones y actividades del responsable de la unidad operativa de Jablunkov». Durante la realización de la inspección mensual y la medición de las agujas en la estación de Bystřice nad Olší, no se detectaron defectos en la aguja n.º 15 que pusieran inmediatamente en peligro el tráfico ferroviario; el dispositivo de maniobra de la aguja presentaba un funcionamiento correcto, los pernos de sujeción de la mordaza de cierre estaban apretados, los remaches de los ejes de las palancas estaban intactos y el gancho de cierre se enganchaba correctamente a la mordaza de cierre. No detecté visualmente grietas en el material de la mordaza de cierre. Asimismo, el resto del personal que realizaba la inspección de las agujas y la prueba de bloqueo no me comunicó ningún defecto.
 
@@ -387,8 +400,8 @@ en su versión vigente, que establece las obligaciones y condiciones para la org
 evaluación, documentación y archivo de los resultados de las inspecciones de las vías de ČD, a. s., de
 conformidad con la
 
-
 ## Página 21
+
 
 con la Ley n.º 266/1994 Coll., el Decreto n.º 177/1995 Coll. y otras normas jurídicas,
 en su versión vigente, con las normas técnicas y las normas de ČD, a. s. (TNP ČD).
@@ -432,6 +445,7 @@ n.º 177/1995 Coll., las organizan y garantizan SDC. .................
 
 ## Página 22
 
+
 de los principios básicos de construcción del balasto ferroviario destinados al diseño, construcción 
 y mantenimiento de vías férreas normales de ancho de vía 1435 mm. La normativa 
 establece los principios de construcción y técnicos. El objeto de la normativa son también los controles 
@@ -467,8 +481,8 @@ la "Directiva del director principal de la SDC Ostrava n.º 4", núm. de referen
 la Administración de Vías Český Těšín n.º 2/2007, núm. de referencia 83/2007", precisó los plazos de medición 
 e inspección de las vías en el ámbito de la SDC Ostrava, de conformidad con el decreto n.º 177/1995 Coll.
 
-
 ## Página 23
+
 
 El titular aportó las anotaciones y actas de las actividades de control y vigilancia realizadas, así como las anotaciones en la documentación operativa de la construcción de la vía 
 llevada por la SDC Ostrava, Administración de Vías Český Těšín, Distrito de Vías Jablunkov, de conformidad con lo dispuesto en el reglamento interno 
@@ -520,6 +534,7 @@ de titular de transporte ferroviario núm. de referencia 1 - 157/96-DÚ/O-Bp, n�
 
 ## Página 24
 
+
 por el Órgano de Ferrocarriles de Praga, el 21 de mayo de 1996, a la persona jurídica - transportista con la razón social «České dráhy, a. s.».
 ### 3.3 Marco jurídico y otras disposiciones
 ### 3.3.1 Normativa comunitaria y nacional aplicable
@@ -569,8 +584,8 @@ norma interna ČD S 3/2 Vía sin juntas, aprobada por decisión del director sup
 
 DDC el 29.07.2002, ref.: 58 644/2002 – O 13, en su versión vigente;
 
-
 ## Página 25
+
 
 ### norma interna ČD S 3/4 Ensayos no destructivos de los rieles, aprobada por decisión
 
@@ -648,6 +663,7 @@ febrero de 2007.
 
 ## Página 26
 
+
 ### 3.4 Actividad de los vehículos ferroviarios y de los dispositivos técnicos
 ### 3.4.1 Sistema de control, señalización y protección, incluidos los dispositivos de grabación automática de datos
 La estación ferroviaria de Bystřice nad Olší está equipada con un dispositivo centralizado de señalización y conmutación (SZZ) electromecánico de 2.ª categoría, complementado con señales luminosas, circuitos de vía y conmutadores centralizados provistos de actuadores mecánicos con muelles, con señales de conmutador y sin control de la posición de las agujas.
@@ -667,6 +683,7 @@ La línea ferroviaria en el sentido de circulación del tren Mn 80203 desde la v
 
 ## Página 27
 
+
 el conmutador n.º 17 y el n.º 15 hasta el pk 305,521. A continuación, desde el pk 305,521, transcurre en el sentido de desvío del conmutador n.º 15 de tipo JR65-1:9-300-L,p,d en una curva izquierda de radio R=300 m sin peralte, tras el conmutador n.º 15 en una curva derecha de radio R=300 m sin peralte y, a continuación, en la vía recta n.º 4.
 
 La pendiente de la línea en el sentido del quilometraje hacia la estación de Třinec, en las vías de estación n.º 1 y n.º 2 hasta el pk 305,197, es de +0,35 ‰; desde el pk 305,197 hasta el pk 305,329 es de -1,50 ‰; desde el pk 305,329 hasta el pk 305,572 es de -2,60 ‰ y, a continuación, es de -11,50 ‰.
@@ -685,6 +702,7 @@ DEL INFORME METALOGRÁFICO, número de protocolo m/2/08, de 15 de enero de 2008,
 
 ## Página 28
 
+
 la mandíbula y el gancho de cierre del punto de aguja n.º 15 fueron fabricados probablemente con acero para fundiciones de calidad ČSN 42 2640 en lugar del acero de calidad 10 370 declarado. El material utilizado para su fabricación presentaba anomalías materiales de tipo inclusiones, las cuales, sin embargo, no contribuyeron al mecanismo propio de la rotura de la integridad.
 
 La mandíbula de cierre presentaba antiguas y marcadas huellas de golpes de martillo cercanas a los orificios de montaje, y la superficie en la zona de dichos orificios mostraba desgaste mecánico procedente de las arandelas de sujeción, las cuales están orientadas hacia la zona de impacto. En el control lateral de la mandíbula (superficie accesible durante la inspección visual), se aprecia en la cara lateral una deformación superficial en forma de cuña y dos abolladuras marcadas, que se repiten en el mismo lugar y a la misma distancia en la cara frontal del gancho. La marcada deformación en forma de cuña de la superficie lateral atraviesa la rotura de la integridad. En el borde recto de la placa de apoyo aparecen rebabas, que en la proximidad del radio están hundidas en la superficie. La rotura de la integridad de la mandíbula se produjo en la zona del radio R3. Tras la limpieza de la superficie, en la zona del radio R5 se detectó la iniciación de otra grieta que alcanzaba una longitud de 85 mm. En la zona de la rotura de la integridad, la superficie próxima al borde del perfil interior estaba deformada (deprimida) de manera similar a su cara superior de apoyo. La superficie de fractura de la rotura de la integridad era mate, presentaba en algunos lugares ataque corrosivo y tenía carácter de fatiga. La iniciación propia se produjo en la zona del radio de transición R3. La parte dinámica de la fractura (líneas de descanso) ocupa casi el 90 % de la superficie de fractura.
@@ -702,8 +720,8 @@ El despachador de la estación de Třinec y el de la estación de Bystřice nad 
 El sistema TRS permite transmitir órdenes, mensajes, instrucciones codificadas, comunicaciones codificadas y otra información para la gestión del tráfico. Todas las conversaciones y órdenes realizadas en la ruta de la red TRS quedan grabadas automáticamente por el dispositivo de grabación REDAT, situado en la estación de 
 Třinec.
 
-
 ## Página 29
+
 
 ### 3.4.4 Vehículos ferroviarios, incluidos los dispositivos de grabación automática de datos
 El vehículo de tracción diésel (HDV) 742.126-6 está equipado, conforme al decreto n.º 173/1995 Sb., anexo n.º 3, parte II, apartado 5, con un dispositivo de grabación, un velocígrafo registrador Hasler - Bern tipo A29, n.º 2039, con registro mecánico de datos y un rango de medición de velocidad de 0 a 150 km/h.
@@ -725,6 +743,7 @@ Las comunicaciones verbales mencionadas se derivan de las declaraciones explicat
 
 ## Página 30
 
+
 ### 3.5.3 Medidas adoptadas para la protección y seguridad del lugar del incidente
 Las medidas de protección y seguridad del lugar del incidente (MI) fueron aseguradas por el despachador de la estación de Bystřice nad Olší hasta la llegada de la persona autorizada y técnicamente competente del administrador de la infraestructura y del transportista (en lo sucesivo, las personas autorizadas). Tras la llegada de la persona autorizada, se adoptaron las medidas de protección y seguridad del lugar del MI en coordinación con las autoridades competentes en el procedimiento penal.
 
@@ -745,6 +764,7 @@ El maquinista conducía la locomotora eléctrica diésel (HDV) 742.126-6 desde e
 
 ## Página 31
 
+
 La locomotora HDV de la serie 742 es una locomotora de cuatro ejes con construcción de capó, con la cabina del maquinista situada en el tercio posterior del bastidor principal. La desventaja de esta concepción es la visión restringida del maquinista hacia uno de los lados inmediatamente delante de la locomotora, provocada por la construcción de capó de la HDV. La investigación no determinó que las circunstancias descritas anteriormente influyeran en la aparición del MI en cuestión.
 La investigación tampoco determinó nada que obstaculizara al maquinista la visibilidad de la posición y el estado de los elementos y dispositivos de control, verificación y señalización situados en el puesto de mando principal.
 
@@ -764,33 +784,16 @@ La despachadora de la estación de Bystřice nad Olší notificó la aparición 
 
 ## Página 32
 
-La primera huella del descarrilamiento fue establecida comisionadamente en el pk 305,520 en la punta derecha curvada del punto de aguja nº 15, a la altura de la punta del punto de aguja. En este punto se detectó la primera huella del impacto de las ruedas derechas de la locomotora diésel HDV serie 742.126-6, con una longitud de 7 cm en la cara interna superior de la punta derecha curvada. A continuación, se detectaron huellas de fricción de las ruedas derechas de la HDV a lo largo de toda la longitud de la parte mecanizada de la punta derecha curvada adyacente a la carrilera derecha recta del punto de aguja nº 15; hacia la pendiente de las ruedas derechas de la HDV, entre la punta derecha curvada y la carrilera derecha recta, se produjo a una distancia de 9,60 m desde el punto "0" en dirección de circulación del tren, en la vía de estación nº 2 de la estación de Bystřice nad Olší. Se detectaron huellas de descarrilamiento con marcas de ruedas en las fijaciones, durmientes de madera y en el lecho de balasto, hasta el lugar de detención de la HDV en el pk 305,458, es decir, 38 m después del punto "0". Se detectó que las ruedas izquierdas de la HDV se salieron del carril izquierdo curvado del punto de aguja nº 15 a 10 cm de la altura del segundo apoyo del punto de aguja. Se detectaron huellas de descarrilamiento con marcas de ruedas en las fijaciones, durmientes de madera y en el lecho de balasto, hasta el lugar de detención de la HDV en el pk 305,458, es decir, 38 m después del punto "0". Con la circulación de la HDV descarrilada se dañó la carrilera derecha con sus fijaciones en la parte de corazón del punto de aguja nº 15. Como consecuencia de la perforación del depósito de combustible de la HDV, se filtraron aproximadamente 2 000 litros de combustible al patio de vías.
-
-Sobre la HDV descarrilada serie 742.126-6 se produjo un daño por valor de 320 744,- Kč. Sobre las instalaciones de SŽDC, s. o., bajo la gestión de SDC Ostrava, se produjo un daño por valor de 111 976,- Kč.
-Como consecuencia de la fuga de gasóleo del depósito perforado de la HDV, se produjo un accidente ecológico. Los gastos para la eliminación del accidente ecológico se han cuantificado hasta el momento en 1 011 000,- Kč.
-El daño total causado como consecuencia del incidente se cuantificó en 1 443 720,- Kč en el momento de redactar el Informe de investigación de las causas y circunstancias del incidente. Sin embargo, esta cantidad no es definitiva, debido a que el administrador de la infraestructura no ha cuantificado la cantidad definitiva para la eliminación del accidente ecológico.
-El daño secundario causado por el incidente a ČD, a. s., mediante el empleo de medios auxiliares de recuperación, asciende a 127 624,- Kč.
-
+La primera huerta de descarrilamiento fue determinada por comisión en el pk 305,520 en la lengua curva derecha del desvío n.º 15 a la altura de la punta de la lengua. En este punto se detectó la primera huerta del impacto de los aros de las ruedas derechas del rodaje motor de la serie 742.126-6 con una longitud de 7 cm en la cara interior superior de la lengua curva derecha. A continuación se detectaron huertas de fricción de los aros de las ruedas derechas del rodaje motor a lo largo de toda la parte cepillada de la lengua curva derecha adyacente al apoyo recto derecho del desvío n.º 15; el deslizamiento de las ruedas derechas del rodaje motor entre la lengua curva derecha y el apoyo recto derecho se produjo a una distancia de 9,60 m del punto «0» en el sentido de circulación del tren hacia la vía de estación n.º 2 de la est. Bystřice nad Olší. Las huertas de descarrilamiento con marcas de ruedas en los elementos de fijación, en las traviesas de madera y en el lecho de balasto se detectaron hasta el lugar de detención del rodaje motor en el pk 305,458, es decir, 38 m detrás del punto «0». Para el deslizamiento de las ruedas izquierdas del rodaje motor desde la cresta del apoyo curvo izquierdo del desvío n.º 15 se detectó 10 cm por debajo de la altura del segundo apoyo de lengua. Las huertas de descarrilamiento con marcas de ruedas en los elementos de fijación, en las traviesas de madera y en el lecho de balasto se detectaron hasta el lugar de detención del rodaje motor en el pk 305,458, es decir, 38 m detrás del punto «0». Con la circulación del rodaje motor descarrilado se dañó el carril de sujeción derecho con sus elementos de fijación en la parte de corazón del desvío n.º 15. Como consecuencia de la perforación del depósito de combustible del rodaje motor se derramaron aprox. 2 000 litros de combustible en la vía.
+En el rodaje motor descarrilado de la serie 742.126-6 se produjo un daño por importe de 320 744,- CZK. En las instalaciones de SŽDC, s. o., bajo la administración de SDC Ostrava se produjo un daño por importe de 111 976,- CZK. Como consecuencia del derrame de gasóleo desde el depósito perforado del rodaje motor se produjo una catástrofe ecológica. Los costes de eliminación de la catástrofe ecológica han sido cuantificados hasta la fecha en 1 011 000,- CZK. El daño total producido como consecuencia del MU fue cuantificado en el momento de la elaboración del Informe de investigación de las causas y circunstancias de producción del MU en 1 443 720,- CZK. No obstante, esta cifra no es definitiva, debido a que el gestor de la vía no ha cuantificado el importe definitivo de la eliminación de la catástrofe ecológica.
+El daño secundario causado por el MU a ČD, a. s., por la utilización de medios auxiliares de enganche a la vía asciende a 127 624,- CZK.
 ### 4.2 Análisis
-### 4.2.1 Evaluación de los hechos detectados según el punto 3 y presentación de las conclusiones sobre la causa del incidente extraordinario y la actividad de los servicios de rescate
-
-En el momento de producirse el incidente, el sistema de señalización electromecánico (SZZ) de la estación de Bystřice nad Olší estaba en funcionamiento. Este hecho queda documentado mediante el acta de inspección del funcionamiento del sistema de señalización electromecánico (SZZ), completada con las señales luminosas y los circuitos de vía. La ruta de tren para el tren Mn 80203 se estableció mediante la operación habitual del SZZ desde el puesto de mando del despachador de la estación de Bystřice nad Olší, desde la señal "S" de la vía de línea nº 1 en dirección desde la estación de Třinec hacia la vía de estación nº 4 de la estación de Bystřice nad Olší. Mediante la verificación del funcionamiento del dispositivo de control "RANK" se comprobó su correcto funcionamiento. Este hecho se menciona en el acta "ACTA DE INSPECCIÓN DEL LUGAR DEL INCIDENTE EXTRAORDINARIO", que se redactó el 28 de noviembre de 2007 en Český Těšín.
-
-Mediante la inspección del estado del SZZ en la oficina de tráfico inmediatamente después de producirse el incidente extraordinario, se comprobó que en el dispositivo de control "RANK" el botón deslizante para las rutas de tren de entrada desde la dirección de Třinec estaba conmutado hacia la vía de estación nº 4 y estaba sellado; el interruptor de dirección para la entrada desde Třinec estaba conmutado en contra de la dirección de circulación del tren y sellado, y el candado de señalización "S" desde Třinec estaba cerrado; el cierre de las agujas estaba liberado (véase más abajo). No se habían violado los cierres de seguridad de los dispositivos de activación de emergencia de los candados de señalización. Para la salida del tren de pasajeros Os 2808 desde la vía de estación nº 1 hacia la 1.ª vía de línea nº 1 en dirección a la estación de Třinec, el despachador utilizó el elemento de control con registro de la operación: el botón de activación de emergencia "Anulación de la ruta de tren" (operador nº 5555). El dispositivo de control del SZZ en la oficina de tráfico correspondía al estado de los elementos de control, con la excepción del elemento de control con registro de la operación: el botón de activación de emergencia (operador nº 5555), que tenía establecida la ruta de tren para la entrada del tren Mn 80203 desde la 1.ª vía de línea hacia la vía de estación nº 4 de la estación de Bystřice nad Olší.
-
-Mediante la inspección de los elementos de control e indicadores del SZZ tras el descarrilamiento, se comprobó que el SZZ en el panel de control St. 2 de la estación de Bystřice nad Olší es del modelo 5007, dependiente del dispositivo de control tipo "RANK" situado en la oficina de tráfico de la estación de Bystřice nad Olší. La aguja nº 15, conmutación centralizada, se conmuta mediante una palanca de corte de dos posiciones tipo 5011. En el momento de la inspección del SZZ en el panel de control nº 2, la palanca de la aguja nº 15 estaba conmutada y enclavada en la posición invertida (-), es decir, "arriba", lo cual correspondía a la tabla de cierre aprobada y a la placa bajo el cuadro de vías. El pasador de cierre estaba sellado y no presentaba daños. Mediante la inspección de la posición de la palanca de la aguja nº 15, se comprobó que estaba sellada en la posición (-) invertida mediante el interruptor de vía para la entrada desde la vía de línea nº 1 hacia la vía de estación nº 4. En el panel de indicadores del SZZ en el panel de control nº 2, la indicación de la señal "S" brillaba en rojo, es decir, la señal indicaba "Alto". Las indicaciones de los tramos de aproximación primero y segundo brillaban en blanco, es decir, los circuitos aislados estaban libres; la indicación del circuito de vía de la aguja nº 15 brillaba en rojo, es decir, el circuito aislado estaba ocupado. El estado mencionado correspondía a la posición de los vehículos ferroviarios tras el incidente.
-
-Mediante la inspección de la caja de candados en el panel de control St. 2, se comprobó que el "Cierre de agujas desde la estación de Třinec" estaba cerrado (tapa verde - posición opuesta); el "Candado de señalización" no estaba activado (la tapa blanca indica y corresponde a la ocupación de los circuitos de vía por los vehículos del tren Mn 80203 en el patio de vías). No se habían violado los cierres de seguridad de los dispositivos de activación de emergencia de los candados de señalización; el estado del SZZ del panel de control St. 2 correspondía a la ruta de tren establecida y parcialmente recorrida desde la vía de línea nº 1 de la estación de Třinec hacia la vía de estación nº 4 de Bystřice nad Olší. No se detectaron averías en el dispositivo de control del panel de señalización; no se habían violado los cierres de seguridad del SZZ en el panel de control nº 2.
-
-Las agujas nº 19, nº 18 y nº 17 en la ruta de tren estaban conmutadas a la posición final para la circulación prevista del tren. La aguja nº 15, que estaba en la ruta de tren hacia la vía de estación nº 4, estaba conmutada a la posición final para la circulación de la locomotora diésel (DV) en contra de la punta, hacia la izquierda (hacia la vía de estación nº 4).
-
-Mediante la inspección del actuador con resorte de la aguja nº 15, se comprobó que la posición de la polea de cadena y la barra de conmutación correspondía al estado y posición de la palanca de conmutación de la aguja nº 15 en el panel de control St. 2; la horquilla del actuador estaba desviada al máximo. Este estado correspondía al estado y posición del cierre dañado de la aguja nº 15.
-
-De lo anterior se deduce que la circulación del tren Mn 80203 desde la vía de línea nº 1 hacia la vía de estación nº 4 de la estación de Bystřice nad Olší fue permitida mediante la operación normal del SZZ. El SZZ de la estación de Bystřice nad Olší se explotaba y operaba de conformidad con las disposiciones del apartado 4 del artículo 2 del Decreto nº 173/1995 Sb., en consonancia con las disposiciones del apartado 1, letra a), del artículo 22 de la Ley nº 266/1994 Sb.
-
-Durante la inspección del lugar de producción del incidente en la estación de Bystřice nad Olší, tal como se indica en el "ACTA DE INSPECCIÓN DEL LUGAR DEL INCIDENTE EXTRAORDINARIO", redactada el 28 de noviembre de 2007 en Český Těšín, se procedió en dirección de circulación del tren Mn 80203 desde la señal de entrada "S" en el pk 305,911 hacia la vía de estación nº 4 en el pk 305,458.
+### 4.2.1 Evaluación de los hechos constatados según el punto 3 y formulación de conclusiones sobre la causa del suceso excepcional y la actuación de los servicios de rescate
+En el momento de producción del MU, el SZZ electromecánico de la est. Bystřice nad Olší estaba en funcionamiento. Este hecho queda acreditado por el registro de la inspección del funcionamiento del SZZ electromecánico complementado con señales luminosas y circuitos de vía. La ruta de tren para el tren Mn 80203 fue establecida por la operación habitual del SZZ desde la posición del jefe de estación de la est. Bystřice nad Olší, desde la señal «S» de la vía de circulación n.º 1 en el sentido desde la est. Třinec hacia la vía de estación n.º 4 de la est. Bystřice nad Olší. Con la comprobación del funcionamiento del aparato de mando «RANK» se constató su correcto funcionamiento. Este hecho queda recogido en el registro «REGISTRO DE INSPECCIÓN DEL LUGAR DEL SUCESO EXCEPCIONAL», que fue redactado el 28. 11. 2007 en Český Těšín.
+Con la comprobación del estado del SZZ en la oficina de tráfico inmediatamente después de la producción del suceso excepcional, se constató que en el aparato de mando «RANK» el mando deslizante para las rutas de tren de entrada en el sentido desde Třinec estaba conmutado hacia la vía de estación n.º 4 y estaba bloqueado, y el enclavamiento direccional para
 
 ## Página 33
+
 
 entrada desde Třinec estaba conmutado en contra de la dirección de circulación del tren y sellado, y el candado de señalización "S" desde Třinec estaba cerrado; el cierre de las agujas estaba liberado (véase más abajo). No se habían violado los cierres de seguridad de los dispositivos de activación de emergencia de los candados de señalización. Para la salida del tren de pasajeros Os 2808 desde la vía de estación nº 1 hacia la 1.ª vía de línea nº 1 en dirección a la estación de Třinec, el despachador utilizó el elemento de control con registro de la operación: el botón de activación de emergencia "Anulación de la ruta de tren" (operador nº 5555). El dispositivo de control del SZZ en la oficina de tráfico correspondía al estado de los elementos de control, con la excepción del elemento de control con registro de la operación: el botón de activación de emergencia (operador nº 5555), que tenía establecida la ruta de tren para la entrada del tren Mn 80203 desde la 1.ª vía de línea hacia la vía de estación nº 4 de la estación de Bystřice nad Olší.
 
@@ -808,6 +811,7 @@ Durante la inspección del lugar de producción del incidente en la estación de
 
 ## Página 34
 
+
 Mediante la inspección de la vía se constató:
 En el momento de la inspección del lugar del accidente (MU), en el semáforo "S" de la vía principal nº 1 en el pk 305,911, la señal mostraba "Alto"; los desvíos nº 19, nº 18, nº 17 y el desvío nº 15 estaban conmutados en la dirección de circulación del tren Mn 80203 desde la vía principal nº 1 hacia la vía de estación nº 4 de la estación de Bystřice nad Olší. El último vehículo de maniobras (TDV) del tren Mn 80203 se encontraba en la zona de agujas del desvío nº 18, y el final del tren estaba situado en el pk 305,587. Todos los TDV, es decir, ocho vagones de mercancías vacíos de la serie Eas, permanecieron sin descarrilar en la vía de estación nº 2 y en la dirección de derivación del desvío nº 15 hacia la vía de estación nº 4. El vehículo de maniobras (HDV), según las marcas dejadas en el balasto ferroviario al circular por el desvío nº 15 con la primera rueda derecha del primer bogie, impactó contra la punta de la hoja derecha doblada. Tras el impacto contra la punta de la hoja, la rueda derecha del primer bogie entró entre la parte mecanizada de la hoja derecha doblada y la contrahoja derecha recta. La rueda dejó una marca a lo largo de toda la longitud de la parte mecanizada de la hoja del desvío nº 15, que en el punto del primer tope de hoja continuó con las marcas de las ruedas y la superficie de rodadura de la rueda descarrilada entre la hoja derecha doblada y la contrahoja derecha recta sobre las abrazaderas, los tornillos de abrazadera y las tuercas, las traviesas de madera y el lecho de balasto hasta el punto de detención en el pk 305,458. Las demás ruedas derechas del HDV circularon por la zona de agujas del desvío nº 15 de manera análoga. Las ruedas izquierdas del HDV circularon por la contrahoja izquierda doblada en la dirección de derivación del desvío nº 15 hacia la vía nº 4 y, en el punto del primer tope de hoja, cayeron entre la hoja izquierda recta y la contrahoja izquierda doblada. Las marcas de las ruedas y las superficies de rodadura de las ruedas izquierdas continuaron sobre los sistemas de fijación, las traviesas de madera y el lecho de balasto cubierto por una capa continua de nieve.
 
@@ -818,6 +822,7 @@ Mediante la medición de las variables del balasto ferroviario determinadas 30 m
 - el cambio de ancho de vía detectado - la distorsión del ancho de vía (en adelante, ZR), en ningún punto de medición supera la desviación de explotación ni la desviación límite de explotación establecida por la norma ČSN 73 6360-2 (la desviación de explotación ZR es ± 6 mm, la desviación límite de explotación ZR es ± 7 mm);
 
 ## Página 35
+
 
 - las variables medidas de la elevación de la vía (en adelante, PK) para RP2 no superan las desviaciones de explotación ni las desviaciones límite de explotación para la elevación dinámica de la vía (en adelante, PKD); la desviación de explotación PKD es ±11 mm (nivel IL - límite de intervención - reparación) y la desviación límite de explotación PKD es ±13 mm (nivel IAL - límite de intervención urgente);
 - la distorsión de la vía calculada (en adelante, ZK) se comparó con la desviación de explotación (nivel IL - límite de intervención) y la desviación límite de explotación (nivel IAL - límite de intervención urgente) para ZK y para la base de medición l = 2,0 m, 6,0 m y 12,0 m conforme al artículo 7.3.5 de la norma ČSN 73 6360-2, utilizando la relación "1" para p≤(r-100)/2. La aplicación del valor límite de ZK en el nivel IAL está condicionada a que la superación del valor límite de ZK se mantenga durante una longitud L>2,00 m.
@@ -833,6 +838,7 @@ Mediante la medición de las variables del balasto ferroviario determinadas 30 m
 - mediante la comprobación del contacto de la hoja derecha con las placas deslizantes (máx. +3 mm) y con los topes de hoja (máx. +5 mm) no se constató superación de los valores máximos;
 
 ## Página 36
+
 
 se midió un desplazamiento de la aguja con el dispositivo de maniobra conectado de 245 mm, lo cual corresponde
 
@@ -853,6 +859,7 @@ Para garantizar la operatividad de la vía y la seguridad del tráfico ferroviar
 
 ## Página 37
 
+
 del estado de las traviesas, del lecho de vía, de la sujeción de los elementos de fijación, del desgaste y del desprendimiento de las distintas partes de la aguja, es decir, de las agujas, soportes, rieles centrales, corazones, rieles de retención y placas de retención, la integridad de las piezas de cambio de la aguja, es decir, control de los tornillos de las varillas de maniobra, de la sujeción de los ejes, ganchos, mordaza de sujeción, aseguramiento de las cubiertas. La última inspección por las vías de estación y agujas en el edificio de señales de Bystřice nad Olší el 02 de noviembre de 2007 tampoco detectó averías. La última prueba de circulación en el puesto de conducción se realizó el 22 de octubre de
 2007 sin detectar averías en el edificio de señales de Bystřice nad Olší;
 -"Libreta de servicios del inspector de TO Jablunkov", del que se desprende que las agujas y las vías en el edificio de señales de Bystřice nad Olší fueron controladas visualmente por los trabajadores de línea - inspectores. Las últimas inspecciones visuales se realizaron los días 19, 21, 22, 23, 26 de noviembre de 2007, no se detectaron averías en la aguja nº 15 del edificio de señales de Bystřice nad Olší;
@@ -868,6 +875,7 @@ La mordaza de sujeción y el gancho de cierre de la aguja nº 15 fueron muy prob
 
 ## Página 38
 
+
 utilizado para su fabricación presentaba anomalías materiales de carácter de inclusiones, que no contribuyeron al mecanismo propio de la ruptura de la integridad. La superficie de la mordaza de cierre y el gancho de bloqueo presentaban numerosas zonas de daño mecánico grave, que tenían relación con el montaje, el ajuste y el funcionamiento del punto de aguja. La huella en forma de cuña en la superficie de trabajo lateral de la mordaza y dos abolladuras marcadas, que también se producían en el mismo lugar y a la misma distancia en la superficie frontal del gancho, dan testimonio de una manipulación con fuerza en dicha zona mediante una barra, una palanca. Con la palanca se intentó desplazar la mordaza de cierre a la posición requerida y fue precisamente durante esta manipulación no autorizada cuando se inició la ruptura de la integridad en ambos radios de transición R3 y R5 (en los puntos de fractura). Las paredes de la ruptura de la integridad, así como la fisura y la propia superficie, presentaban en la mordaza picadura por corrosión de intensidad similar. La superficie de fractura de la ruptura de la integridad es en un 90 % de carácter por fatiga y, según la superficie y el estado de la superficie de fractura, se trataba de un asunto de larga duración.
 
 De lo anterior se deduce que la ruptura de la integridad de la mordaza de cierre del punto de aguja n.º 15 de la estación de Bystřice nad Olší se produjo como consecuencia de la fatiga del material debido a una flexión unilateral,
@@ -881,8 +889,8 @@ El explotador de la infraestructura, a tenor del artículo 22, apartado 1, letra
 El explotador de la infraestructura, en relación con los procedimientos tecnológicos contenidos en el artículo 88 de la norma interna ČD S 2/3 «Norma de Organización y realización de las inspecciones de las líneas de los Ferrocarriles Checos», aprobada el 09. 12. 2002 con el número de registro: 57 775/2002-O13, con entrada en vigor el 01. 01. 2003, en su versión vigente, a tenor del artículo 22, apartado 1, letra a), de la ley n.º 266/1994 Coll., no garantizó la explotación de la infraestructura para las necesidades del tráfico ferroviario fluido y seguro, al no detectar, durante las inspecciones y mediciones periódicas de las construcciones de la infraestructura realizadas, la ruptura de la integridad de la mordaza de cierre del punto de aguja n.º 15 de la estación de Bystřice nad Olší, que, según el estado de la superficie y el estado de la superficie de fractura afectada por picadura por corrosión, era de carácter de larga duración y, en caso de realizar la inspección de una manera que permitiera detectar el estado real de la mordaza de cierre, hubiera sido detectable.
 De la evaluación de los datos registrados por el dispositivo de registro de marcha HDV serie 742.126-6 se deduce que la velocidad máxima permitida de 40 km/h en el lugar de producción del incidente (MU) con la circulación del tren Mn 80203 en el tramo desde la señal de entrada «S» hasta la vía de estación n.º 1, a través del empalme de vías formado por los puntos de aguja n.º 19 y n.º 18 y, a continuación, por el punto de aguja n.º 17 y n.º 15 hasta el lugar de detención en el pk
 
-
 ## Página 39
+
 
 305,458 de la estación de Bystřice nad Olší no fue superada. La velocidad del tren en el lugar de la primera huella tras el descarrilamiento (en el punto «0») fue de 26 km/h. El maquinista no pudo evitar la producción del incidente (MU).
 De lo anterior se deduce que el explotador del tráfico ferroviario, a tenor del artículo 35, apartado 1, letra i), del decreto n.º 173/1995 Coll., garantizó que la persona que dirige el vehículo ferroviario no superara la velocidad máxima permitida.
@@ -897,58 +905,65 @@ El explotador de la infraestructura, en relación con los procedimientos tecnol�
 
 ## Página 40
 
-por la violación de la integridad de la mordaza de cierre, que, según el estado de la superficie y el estado de la superficie de fractura, estaba afectada por corrosión por picado, tenía un carácter de larga duración y, en caso de que se realizara una inspección de manera que permitiera determinar el estado real de la mordaza de cierre, era detectable.
-El titular de la infraestructura, en el sentido del apartado 1, letra a), del artículo 22 de la Ley n.º 266/1994 Coll., no garantizó la explotación de la línea para las necesidades del tráfico ferroviario fluido y seguro, además, al permitir, durante la realización de las reparaciones y el ajuste del funcionamiento correcto del enganche de gancho del punto de vía n.º 15 de la estación de Bystřice nad Olší, que las personas con cualificación profesional realizaran las reparaciones y el ajuste manipulando la pieza con fuerza (con martillo, barra de palanca, etc.), lo que permitió la iniciación de la violación de la integridad de la mordaza de cierre.
-### 4.3.3 Causas derivadas del marco normativo y del uso del sistema de garantía de la seguridad
-La causa derivada del marco normativo y del uso del sistema de garantía de la seguridad es la ausencia de un procedimiento tecnológico del titular de la infraestructura que regulara el procedimiento de inspección del estado y del funcionamiento del dispositivo de cambio de vía, especialmente en los puntos de vía de la 1.ª generación con enganche de gancho accionados mediante un actuador mecánico con resorte, de modo que se pudiera determinar el estado real, incluidas las grietas en el material del enganche de gancho.
-Los procedimientos tecnológicos actuales del titular de la infraestructura no establecen cómo debe actuar la persona con cualificación profesional durante el control del estado y del funcionamiento del dispositivo de cambio de vía, que, en las condiciones de explotación de la línea, suele estar afectado por corrosión, suciedad por grasas de lubricación y polvo depositado. La ausencia de estos procedimientos tecnológicos tiene un efecto negativo en la explotación fluida y segura del tráfico ferroviario, especialmente en los puntos de vía de la 1.ª generación con enganche de gancho accionados mediante un actuador mecánico con resorte, donde no se controla el contacto de la aguja contra la contraaguja.
+violación de la integridad de la mandíbula de sujeción, que según el estado de la superficie y el estado de la superficie de fractura afectada por corrosión por picaduras, era de carácter prolongado y era detectable en caso de realizar la inspección de una manera que permitiera determinar el estado real de la mandíbula de sujeción. El operador de la infraestructura, en el sentido del § 22 apartado 1 letra a) de la Ley n.º 266/1994 Sb., no garantizó la explotación de la infraestructura para las necesidades del transporte ferroviario fluido y seguro, además, al realizar las reparaciones y el ajuste del funcionamiento correcto del enganche de gancho de la aguja n.º 15 de la estación Bystřice nad Olší, permitió a las personas cualificadas durante las reparaciones y el ajuste manipular con fuerza de una manera (con un martillo, una palanca, etc.) que permitió la iniciación de la violación de la integridad de la mandíbula de sujeción.
+### 4.3.3 Causas que son causadas por el marco normativo y por el uso del sistema de garantía de seguridad
+La causa causada por el marco normativo y el uso del sistema de garantía de seguridad es la ausencia de un procedimiento tecnológico del operador de la infraestructura que regulara el procedimiento en las inspecciones del estado y funcionamiento del enganche de cambio, especialmente en agujas de 1.ª generación con enganche de gancho conmutadas por un conmutador mecánico con muelle, de modo que se determinara el estado real, incluidas las grietas en el material del enganche de gancho.
+Los procedimientos tecnológicos existentes del operador de la infraestructura no establecen cómo debe comportarse la persona cualificada en la comprobación del estado y funcionamiento del enganche de cambio, que en las condiciones de explotación de la infraestructura está generalmente afectado por corrosión, contaminado por grasas de lubricación y polvo asentado. La ausencia de estos procedimientos tecnológicos tiene una influencia negativa en la explotación fluida y segura del transporte ferroviario, especialmente en agujas de 1.ª generación con enganche de gancho conmutadas por un conmutador mecánico con muelle, donde el contacto de la aguja con el riel de apoyo no se comprueba.
 ### 4.4 Hallazgos complementarios
-### 4.4.1 Deficiencias y omisiones detectadas durante la investigación de las causas y las circunstancias de la aparición del incidente extraordinario, que no son relevantes para las conclusiones sobre las causas
-La Inspección Ferroviaria no detectó deficiencias ni omisiones en la investigación de las causas y las circunstancias del incidente extraordinario (IE) que no fueran relevantes para las conclusiones sobre las causas.
+### 4.4.1 Deficiencias y omisiones detectadas durante la investigación de las causas y circunstancias del suceso extraordinario, que sin embargo no son significativas para las conclusiones sobre las causas
+Las deficiencias y omisiones en la investigación de las causas y circunstancias del SE que sin embargo no son significativas para las conclusiones sobre las causas no fueron detectadas por la Inspección Ferroviaria.
 ## 5 MEDIDAS ADOPTADAS
-### 5.1 Relación de las medidas que ya se han adoptado o tomado como consecuencia del incidente extraordinario
-El titular de la infraestructura y del tráfico ferroviario, la empresa ČD, a. s., ha adoptado las medidas que se indican a continuación, las cuales forman parte del documento «Evaluación de las causas y las circunstancias de la aparición del incidente extraordinario – peligro», ref. n.º 70 742/07-O18, de fecha 11 de febrero de 2008, y se refieren únicamente a la unidad ejecutora de ČD, a. s., SDC Ostrava, con fecha límite de cumplimiento el 31 de marzo de 2008:
+### 5.1 Lista de medidas que ya han sido tomadas o adoptadas como consecuencia del suceso extraordinario
+Por parte del operador de la infraestructura y de la empresa de transporte ferroviario ČD, a. s., se han adoptado las medidas indicadas a continuación que son contenido del documento "Evaluación de las causas y circunstancias del
 
-- informar debidamente al personal operativo de SDC Ostrava sobre las conclusiones del incidente extraordinario de que se trata;
-- realizar una inspección extraordinaria de los puntos de vía, centrándose en el estado de las mordazas de cierre en los puntos de vía con actuador mecánico en la zona de SDC Ostrava.
+## Página 41
 
-Dado que las medidas anteriores del titular de la infraestructura tienen, desde la perspectiva de la Inspección Ferroviaria, una relevancia regional y, en última instancia, no conducen a la prevención de la repetición de casos similares de IE, la Inspección Ferroviaria emitirá una recomendación de seguridad, véase el punto 6.1.
+mimořádné události – ohrožení", n. ref. 70 742/07-O18 de fecha 11 de febrero de 2008 y se refieren únicamente a la unidad de explotación de ČD, a. s., SDC Ostrava, con plazo de cumplimiento hasta el 31. 03. 2008:
+- dar a conocer de forma demostrable a los empleados de explotación de SDC Ostrava las conclusiones de la
+mimořádné události – ohrožení" mencionada;
+- realizar una inspección extraordinaria de los desvíos, con especial atención al estado de las mandíbulas de
+cierre en los desvíos con aparato de cambio manual en SDC Ostrava.
+
+Dado que las medidas anteriores del gestor de la vía tienen, desde la perspectiva de la Inspección Ferroviaria, un carácter regional y, en última instancia, no conducen a la prevención de la repetición de la aparición de casos similares de MU, la Inspección Ferroviaria emitirá una recomendación de seguridad, véase el punto 6.1.
+
 ## 6 RECOMENDACIONES DE SEGURIDAD
-La Inspección Ferroviaria, como autoridad competente de acuerdo con lo dispuesto en el apartado 5 del artículo 53b de la Ley n.º 266/1994 Coll., basándose en los resultados de la investigación de las causas y las circunstancias de la aparición del IE, recomienda al titular de la infraestructura, que desde el 01.07.2008 es Správa železniční dopravní cesty, organización estatal en el ámbito del ferrocarril para las regiones y a nivel nacional:
 
-1. crear un sistema de inspección de las construcciones de la línea, de los enganches de gancho, especialmente de los puntos de vía de la 1.ª generación con enganche de gancho accionados mediante un actuador mecánico con resorte, que permita controlar el estado real de la mordaza de cierre y del gancho de cierre, incluida la detección de cualquier violación de la integridad;
-2. adoptar medidas para impedir la manipulación con fuerza del enganche de gancho durante su montaje y ajuste.
+La Inspección Ferroviaria, como autoridad competente en la materia según lo dispuesto en el § 53b apartado 5) de la Ley n.º 266/1994 Sb., sobre la base de los resultados de la investigación de las causas y circunstancias de la aparición de la MU, recomienda al gestor de la vía, que desde el 01. 07. 2008 es la Administración de la Infraestructura Ferroviaria de Transporte, organización estatal en la vía ferroviaria regional y nacional:
 
-En Ostrava, el 6 de junio de 2008
+1. crear un sistema de inspección de las obras de la vía, de los enganches de gancho, en particular de los desvíos de 1.ª generación con enganche de gancho accionados por aparato de cambio manual con muelle, que permita comprobar el estado real de la mandíbula de cierre y del gancho de enganche, incluida la detección de posibles daños en la integridad;
+2. la adopción de medidas para evitar la manipulación forzada del enganche de gancho durante su montaje y ajuste.
+
+En Ostrava, a 6 de junio de 2008
 
 Ing. Petr Maikranz
 Ing. Bedřich Kajzar
 director
-inspector jefe
+inspector principal
 De la Inspección Territorial de Ostrava
 De la Inspección Territorial de Ostrava
-
 
 ## Página 42
 
 ## 7 ANEXOS
-Documentación fotográfica del lugar de aparición del incidente extraordinario - accidente del 27 de noviembre de 2007, descarrilamiento del vehículo ferroviario de tracción HDV serie 743.126-6 durante la circulación del tren Mn 80203 en la línea ferroviaria nacional Mosty u Jablunkova frontera estatal - Bohumín, en el punto kilométrico 305,520, en el punto de vía n.º 15 de la estación de Bystřice nad Olší.
-
-1. Vista del vehículo ferroviario de tracción serie 742.126-6 circulando a la cabeza del tren Mn 80203 en estado descarrilado tras el punto de vía n.º 15 de la estación de Bystřice nad Olší
-
+Documentación fotográfica del lugar de origen del suceso excepcional - accidente del día 27. 11. 2007, 
+descarrilamiento de la locomotora de la serie 743.126-6 en circulación del tren Mn 80203 en la vía férrea de interés general 
+Mosty u Jablunkova st. hr. - Bohumín en el pk 305,520 en el desvío n.º 15 de la est. Bystřice nad 
+Olší.
+1. Vista de la locomotora de la serie 742.126-6 circulando a la cabeza del tren Mn 80203 en 
+estado descarrilado tras el desvío n.º 15 de la est. Bystřice nad Olší
 
 ## Página 43
 
-2. Vista del depósito de combustible dañado del vehículo ferroviario de tracción HDV serie 742.126-6
-3. Vista del punto «0» establecido mediante comisión - primera huella del descarrilamiento del vehículo ferroviario de tracción HDV serie 742.126-6 en el punto de vía n.º 15 de la estación de Bystřice nad Olší, en el punto kilométrico 305,520 de la línea Mosty u Jablunkova frontera estatal - Bohumín. Punta delgada de la aguja derecha doblada, desplazada tras el alejamiento de los vehículos ferroviarios de tracción (TDV) que no se habían descarrilado
-
+2. Vista del tanque de combustible dañado de la HDV serie 742.126-6
+3. Vista del punto "0" establecido comisionadamente - primera huella del descarrilamiento de la HDV serie 742.126-6 en el desvío n.º 15 de la estación Bystřice nad Olší en el km 305,520 de la línea Mosty u Jablunkova st. hr - Bohumín. Punta golpeada de la lengüeta derecha doblada tras el arrastre de las TDV no descarriladas
 
 ## Página 44
+
 
 4. Vista del enganche de gancho del punto de vía n.º 15 de la estación de Bystřice nad Olší dañado, mordaza de cierre sin la parte de trabajo inferior (estado tras el descarrilamiento)
 5. Mordaza de cierre - parte de trabajo inferior rota
 
-
 ## Página 45
+
 
 6. Mordaza de cierre - parte superior fijada a la contraaguja, vista de la superficie de fractura

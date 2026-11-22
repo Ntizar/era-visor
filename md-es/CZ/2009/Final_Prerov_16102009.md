@@ -10,13 +10,14 @@ chars: 167294
 ratio_longitud: 1.26
 tokens_in: 86092
 tokens_out: 56694
-verificacion: revisar
-notas_cifras: ["bloque 2: original bilingüe: se compara contra el idioma principal (CS)", "bloque 3: original bilingüe: se compara contra el idioma principal (CS)", "bloque 5: original bilingüe: se compara contra el idioma principal (CS)", "bloque 15: original bilingüe: se compara contra el idioma principal (CS)", "bloque 25: cifras cortas: 1/32", "bloque 29: original bilingüe: se compara contra el idioma principal (PT)"]
-avisos: ["bloque 3: ratio 1.68"]
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 5: original bilingüe: se compara contra el idioma principal (EN)", "página 6: original bilingüe: se compara contra el idioma principal (PT)", "página 7: original bilingüe: se compara contra el idioma principal (CS)", "página 8: original bilingüe: se compara contra el idioma principal (CS)", "página 9: original bilingüe: se compara contra el idioma principal (PT)"]
 ---
+
 ## Página 1
+
 
 Inspección Ferroviaria
 República Checa
@@ -42,11 +43,12 @@ IČ:   75009561
 http://www.dicr.cz
 fax: (+420) 224 805 428
 
-
 ## Página 2
 
 
+
 ## Página 3
+
 
 # RESUMEN
 Grado:
@@ -80,8 +82,8 @@ ninguna
 Causa raíz:
 ninguna
 
-
 ## Página 4
+
 
 Recomendaciones:
 1) Dirigidas al gestor de infraestructura Správa železniční dopravní cesty,
@@ -107,8 +109,8 @@ Se recomienda adoptar una medida propia que fuerce la implementación de
 ●
 la recomendación anterior.
 
-
 ## Página 5
+
 
 # Índice
  Resumen .........................................................................................................................3
@@ -153,6 +155,7 @@ relación contractual ..........................................................
 
 ## Página 6
 
+
 3.1.2 Otras personas .........................................................................................................22
 3.2 Sistema de garantía de la seguridad ........................................................................22
 3.2.1 Organización marco y forma en que se emiten y ejecutan las instrucciones .......22
@@ -182,10 +185,10 @@ aplicación ....................................................................
 4.1.1 Descripción definitiva del suceso excepcional basada en los hechos establecidos en el punto 3 
 ............................................................................................................................39
 4.2 Análisis ......................................................................................................................40
-4.2.1 Evaluación de los hechos establecidos de acuerdo con el punto 3 y formulación de conclusiones sobre la causa 
-
+4.2.1 Evaluación de los hechos establecidos de acuerdo con el punto 3 y formulación de conclusiones sobre la causa
 
 ## Página 7
+
 
 del suceso excepcional y la actuación de los servicios de emergencia ..........................................40
 4.3 Conclusiones .......................................................................................................................43
@@ -207,34 +210,35 @@ del suceso excepcional y la actuación de los servicios de emergencia ..........
 ## Página 8
 
 ## 1 RESUMEN
-Grupo de suceso ferroviario: accidente
+Grupo de suceso excepcional: accidente
 Fecha y hora: 16/10/2009 a las 22:46 h.
-Descripción del suceso: Circulación no autorizada del tren Rn 50238 más allá de la señal principal L104 con la indicación «Alto» y posterior forzamiento violento de los desvíos n.º 313 y n.º 314, con descarrilamiento de un vehículo ferroviario por un bogie como consecuencia de la colisión con el tren Pn 61121 en la estación de ferrocarril de Přerov.
-Vía, lugar: vía férrea, categoría nacional, Přerov – Břeclav, estación de ferrocarril de Přerov, vía de estación n.º 402A, pk 181,3384, coordenadas GPS: 49°25'50.113"N, 17°27'6.104"E.
+Descripción del suceso: Circulación no autorizada del tren Rn 50238 más allá de la señal principal L104 con la indicación «Alto» y consiguiente cambio violento de los desvíos n.º 313 y n.º 314, con descarrilamiento de un vehículo ferroviario por un bogie como consecuencia de la colisión con el tren Pn 61121 en la estación ferroviaria de Přerov.
+Vía, lugar: vía ferroviaria, categoría nacional, Přerov – Břeclav, estación ferroviaria de Přerov, vía de estación n.º 402A, pk 181,3384, coordenadas GPS: 49°25'50.113"N, 17°27'6.104"E.
 Intervinientes: Správa železniční dopravní cesty, organización estatal (explotante de la vía);
         ČD Cargo, a. s. (transportista).
-Consecuencias: en el suceso ferroviario resultó con lesiones leves 1 persona (el maquinista del tren Pn 61121).
-El daño total estimado como consecuencia del suceso ferroviario asciende a 4.348.036,23 Kč. A la fecha de publicación del Informe sobre los resultados de la investigación de las causas y circunstancias de la producción del suceso ferroviario, el transportista ČD Cargo, a. s., no había cuantificado el importe real del daño ocasionado en las locomotoras.
-Causa inmediata: no respetar la indicación «Alto» de la señal de salida L104 de la estación de ferrocarril de Přerov por parte de la persona que conducía el vehículo ferroviario del tren Rn 50238, con la consiguiente circulación no autorizada del tren Rn 50238 en la vía de itinerario establecida para el tren Pn 61121.
-Factor que contribuyó a la producción del suceso ferroviario: la ausencia de medios técnicos de seguridad que hubieran impedido la circulación no autorizada del tren más allá de la señal principal, cuya indicación no autoriza la circulación del tren.
+Consecuencias: en el suceso excepcional, 1 persona (el maquinista del tren Pn 61121) sufrió lesiones leves.
+El daño total estimado como consecuencia del suceso excepcional asciende a 4.348.036,23 Kč. A la fecha de publicación del Informe sobre los resultados de la investigación de las causas y circunstancias de la producción del suceso excepcional, el transportista ČD Cargo, a. s., no había cuantificado el importe real del daño sufrido en los vehículos ferroviarios de tracción.
+Causa inmediata: no respetar la indicación «Alto» de la señal de salida L104 de la estación ferroviaria de Přerov por parte de la persona que conducía el vehículo ferroviario del tren Rn 50238, con la consiguiente circulación no autorizada del tren Rn 50238 en la vía de tren establecida para el tren Pn 61121.
+Factor que contribuyó a la producción del suceso excepcional: la ausencia de medios técnicos de seguridad que hubieran impedido la circulación no autorizada del tren más allá de la señal principal, cuya indicación no autoriza la circulación del tren.
 Causas fundamentales: no fueron detectadas por la Inspección Ferroviaria.
 Causas derivadas del marco normativo y del uso del sistema de garantía de la seguridad: no fueron detectadas por la Inspección Ferroviaria.
 Recomendaciones de seguridad:
-La Inspección Ferroviaria, como autoridad competente en la materia de conformidad con lo dispuesto en el § 53b apartado 5 de la Ley n.º 266/1994 Sb., de ferrocarriles, en la redacción de las disposiciones posteriores, sobre la base de los resultados de la investigación de las causas y circunstancias de la producción del suceso ferroviario, a fin de reducir la probabilidad de la producción de sucesos ferroviarios similares, recomienda al explotante de la vía, Správa železniční dopravní cesty, organización estatal:
+La Inspección Ferroviaria, como autoridad competente en la materia según lo dispuesto en el apartado 5 del § 53b de la Ley n.º 266/1994 Sb., de ferrocarriles, en su redacción vigente, sobre la base de los resultados de la investigación de las causas y circunstancias de la producción del suceso excepcional, a fin de reducir la probabilidad de la producción de sucesos excepcionales similares, recomienda al explotante de la vía, a la Správa železniční dopravní cesty, organización estatal:
 –
-acelerar los trabajos para la implantación del sistema europeo de control de trenes «European Train Control System» (en adelante ETCS) en servicio, no solo en las vías nacionales, que conforman el sistema convencional del Sistema Ferroviario Europeo, sino también en el resto de vías nacionales y regionales, véase «Emisión de recomendación de seguridad», ref. n.º 6-538/2009/DI-1, de fecha 18/03/2010.
+acelerar los trabajos para la implantación del sistema europeo de control de trenes «European Train Control System» (en adelante ETCS) en servicio, no solo en las vías nacionales que conforman el sistema convencional del Sistema Ferroviario Europeo, sino también en el resto de vías nacionales y regionales, véase «Emisión de recomendación de seguridad», ref. n.º 6-538/2009/DI-1, de 18/03/2010.
 –
 en las líneas donde a largo plazo no se vaya a implantar el ETCS, instalar dispositivos técnicos de parada de emergencia de los trenes cuya seguridad se vea amenazada ante la circulación no autorizada de un vehículo ferroviario más allá de la señal principal.
 
-
 ## Página 9
 
-La Inspección Ferroviaria, como autoridad competente en la materia de conformidad con lo dispuesto en el § 53b apartado 5 de la Ley n.º 266/1994 Sb., de ferrocarriles, en la redacción de las disposiciones posteriores, sobre la base de los resultados de la investigación de las causas y circunstancias de la producción del suceso ferroviario, a fin de reducir la probabilidad de la producción de sucesos ferroviarios similares, recomienda al transportista ČD Cargo, a. s.:
+La Inspección Ferroviaria, como autoridad competente en la materia según lo dispuesto en el apartado 5 del § 53b de la Ley núm. 266/1994 Sb., de ferrocarriles, en su redacción vigente, sobre la base de los resultados de la investigación de las causas y circunstancias del suceso ferroviario extraordinario, con el fin de reducir la probabilidad de que se produzcan sucesos ferroviarios extraordinarios similares, recomienda al transportista ČD Cargo, a. s.:
 –
-acelerar los trabajos para la implantación y equipamiento de los vehículos ferroviarios con la parte móvil del ETCS, de modo que, una vez puesto el sistema en servicio en la línea correspondiente, los vehículos ferroviarios explotados puedan aprovechar plenamente todas las funcionalidades del ETCS.
-         De conformidad con lo dispuesto en el anexo n.º 7 del decreto n.º 376/2006 Sb., la Inspección Ferroviaria recomienda a la Autoridad Ferroviaria la adopción de las medidas propias encaminadas a garantizar la realización de la recomendación de seguridad anteriormente mencionada.
+acelerar los trabajos de implantación y equipamiento de los vehículos ferroviarios con la parte móvil del ETCS, de modo que, cuando el sistema se ponga en servicio en la línea correspondiente, los vehículos ferroviarios en explotación puedan aprovechar plenamente todas las funcionalidades del ETCS.
+
+         De conformidad con lo dispuesto en el anexo núm. 7 de la Resolución núm. 376/2006 Sb., la Inspección Ferroviaria recomienda a la Autoridad Ferroviaria la adopción de una medida propia encaminada a garantizar la realización de la recomendación de seguridad anteriormente mencionada.
 
 ## Página 10
+
 
 ## 2 DATOS RELATIVOS AL SUCESO EXTRAORDINARIO
 ## 2.1
@@ -287,6 +291,7 @@ Por ello, inmediatamente aplicó el frenado de acción rápida, desconectó el i
 
 ## Página 11
 
+
 vehículos (en adelante solo HDV). A pesar de las medidas anteriormente indicadas, se produjo una colisión frontal de los trenes mencionados en la vía de estación n.º 402A, en el pk 181,3384.
 La dinámica del suceso fue que el tren Pn 61121, detenido y frenado con el freno automático de vacío en servicio continuo, fue empujado 52,1 m hacia atrás por el tren Rn 50238.
 El jefe de estación St. 9 comunicó el MU con base en la notificación del maquinista del tren Pn 61121, de conformidad con los procedimientos tecnológicos del gestor de la infraestructura, al jefe de turno (supervisor de explotación), quien a continuación notificó el MU según el horario de notificaciones.
@@ -310,6 +315,7 @@ Aparato de enclavamiento:
 Cerrado el cierre de desvíos "hacia/desde la vía n.º 402", obturador obturado en verde (estado del contador del botón de desbloqueo 07579). Obturador del cierre de desvíos "hacia/desde la vía n.º 401" obturado en blanco (estado del contador del botón de desbloqueo 12616). Obturador del cierre de desvíos "desde/hacia Věžky" obturado en blanco (estado del contador del botón de desbloqueo 09640). Obturador del cierre de desvíos "hacia/desde la vía n.º 403, 405, 407" obturado en blanco (estado del contador del botón de desbloqueo 04457). Cierres de seguridad de los botones de desbloqueo
 
 ## Página 12
+
 
 intactas. Enclavadores de aguja colocados en las posiciones correctas según la tabla de enclavamiento aprobada para el itinerario de tren desde la vía n.º 402 hacia el grupo «B» (a la vía n.º 228).
 Posiciones de los enclavadores de aguja: 446 (−) posición, 443 (+) posición, 440 (+) posición, 429/433 (+) posición, 319/320 (+) posición, 316 (−) posición, 315/317 (−) posición, 311 (+) posición, 309 (+) posición, 314/312 (−) posición, 313/306 (−) posición, ChVk1/318 (+) posición, Vk12/13 (+) posición. Enclavador de vía para la vía «desde/hacia la vía n.º 402» colocado hacia el grupo «B». Enclavamientos de seguridad de los gabinetes del aparato de enclavamiento intactos.
@@ -349,6 +355,7 @@ llave de cierre del mando del colector cerrada.
 ●
 
 ## Página 13
+
 
 Del examen del puesto II y del puesto de mando de la locomotora n.º 110.003-1 se constató:
 mando de conmutadores de dirección 3022 en posición «P»;
@@ -406,6 +413,7 @@ depósito de aire de suministro 907 (150 l) alimentado desde la tubería de sumi
 ●
 
 ## Página 14
+
 
 Con la inspección de la cabina de mando II de la locomotora de maniobras (HDV) n.º 363.010-0 se comprobó:
 interruptor de control S102 en posición "1";
@@ -488,34 +496,28 @@ el resto de elementos de mando estaban en posición "0", HDV controlado desde la
 En el lugar de la MU, con la presencia de la Inspección Ferroviaria (en adelante DI), en el TDV del tren Rn 50238 se verificó
 el funcionamiento del freno de presión continuo mediante una prueba completa de frenado (en adelante ÚZB), que fue realizada
 
-
 ## Página 15
 
-desde la locomotora de maniobras auxiliar el 17. 10. 2009 entre las 06:00 h y las 06:20 h. Con la realización de la ÚZB no se
-detectaron anomalías en el funcionamiento del freno automático de presión continuo de los TDV en cuestión. La verificación
-del funcionamiento del freno de presión continuo de la HDV n.º 363.010–0 tras el origen de la MU no fue posible realizarla
-dada la destrucción de la parte delantera de la HDV.
-Las ÚZB se realizaron por separado en los TDV 1.º – 3.º y 6.º – 15.º debido a la rotura de la tubería principal de freno de
-presión de los TDV 4.º y 5.º. El documento "Informe internacional de frenado del tren" forma parte del expediente de la MU.
-En el lugar de la MU intervinieron los cuerpos del Sistema Integrado de Emergencias (en adelante IZS): el Servicio de Bomberos y Salvamento de la Administración de la Vía Ferroviaria de Transporte de Přerov (en adelante HZS SŽDC) y la Policía de la República Checa – Servicio de Policía Criminal e Investigación (Departamento de Criminalidad General) de Přerov (en adelante PČR Přerov).
-2.1.3 Decisión de iniciar la investigación de las causas y circunstancias del suceso, composición del equipo de personas cualificadas y método de dirección de la investigación de las causas y circunstancias del suceso
-El origen de la MU fue comunicado a la DI por el Centro Central de Notificación de Praga (en adelante COP) como operador de la vía y transportista el 16. 10. 2009 a las 23:13 h, es decir, 27 min después del origen de la MU, por el inspector jefe de los Ferrocarriles Checos, a. s. (en adelante ČD), de la Inspección Regional de Seguridad del Transporte Ferroviario (en adelante RIBŽD) de Ostrava. El empleado del COP, sobre la base de los hechos comunicados, decidió desplazarse e iniciar in situ la investigación de las causas y circunstancias del origen de la MU. El motivo de esta decisión fue el hecho de que la MU en cuestión se incluye en la serie de MU significativas para todo el sistema de explotación de la vía y del transporte ferroviario. La DI inició su actividad en el lugar de la MU con un equipo formado por dos inspectores jefes y el director de la Inspección Territorial de Ostrava.
-El permiso para iniciar los trabajos de despeje fue concedido por la DI a las 04:00 h del 17. 10. 2009, es decir, 5 h y 14 min
-después del origen de la MU.
-La posterior investigación de las causas y circunstancias del origen de la MU fue encomendada a la Inspección Territorial de Ostrava.
-La propia investigación de las causas y circunstancias del origen de la MU se realizó de conformidad con el § 53, letra b), de la ley n.º 266/1994 Sb., de vías, en la redacción de las disposiciones posteriores (en adelante ley n.º 266/1994 Sb.), y con el § 11 del decreto n.º 376/2006 Sb., sobre el sistema de seguridad de la explotación de la vía y del transporte ferroviario y los procedimientos en caso de sucesos excepcionales en las vías (en adelante decreto n.º 376/2006 Sb.).
+de la locomotora auxiliar el día 17. 10. 2009 en el período de 06:00 h a 06:20 h. Con la realización de la ÚZB no se detectaron anomalías en el funcionamiento del freno automático continuo de aire de los TDV mencionados. La verificación del funcionamiento del freno de aire continuo de la locomotora n.º 363.010–0 tras la ocurrencia de la MU no fue posible realizarla, dada la destrucción de la parte frontal de la locomotora.
+Las ÚZB se realizaron por separado en los TDV 1.º – 3.º y en los TDV 6.º – 15.º, debido a la avería en la tubería principal de freno de aire de los TDV 4.º y 5.º. El documento «Informe internacional sobre el frenado del tren» forma parte del expediente de la MU.
+En el lugar de la MU intervinieron los componentes del Sistema Integrado de Salvamento (en adelante IZS): el Servicio de Bomberos y Salvamento del Gestor de la Vía Ferroviaria de Přerov (en adelante HZS SŽDC) y la Policía de la República Checa – Servicio de Policía Criminal e Investigación (Departamento de Criminalidad General) de Přerov (en adelante PČR Přerov).
+2.1.3 Decisión de iniciar la investigación de las causas y circunstancias de la ocurrencia, composición del equipo de personas cualificadas y método de dirección de la investigación de las causas y circunstancias de la ocurrencia
+La ocurrencia de la MU fue comunicada por el DI al Centro Central de Notificación de Praga (en adelante COP), en calidad de gestor de la vía y transportista, el día 16. 10. 2009 a las 23:13 h, es decir, 27 min después de la ocurrencia de la MU, por el inspector jefe de los Ferrocarriles Checos, a. s. (en adelante ČD), de la Inspección Regional de Seguridad del Transporte Ferroviario (en adelante RIBŽD) de Ostrava. El empleado del COP, sobre la base de los hechos comunicados, decidió desplazarse e iniciar en el lugar la investigación de las causas y circunstancias de la ocurrencia de la MU. El motivo de esta decisión fue el hecho de que la MU mencionada se incluye en la serie de MU significativas para todo el sistema de gestión de la vía y del transporte ferroviario. El DI inició su actividad en el lugar de la MU con la composición de dos inspectores jefes y el director de la Inspección Territorial de Ostrava.
+El consentimiento para iniciar los trabajos de retirada fue otorgado por el DI a las 04:00 h del día 17. 10. 2009, es decir, 5 h y 14 min después de la ocurrencia de la MU.
+La posterior investigación de las causas y circunstancias de la ocurrencia de la MU fue encomendada a la Inspección Territorial de Ostrava. La propia investigación de las causas y circunstancias de la ocurrencia de la MU se llevó a cabo de conformidad con el § 53 letra b) de la ley n.º 266/1994 Sb., sobre vías férreas, en la redacción de las disposiciones posteriores (en adelante ley n.º 266/1994 Sb.), y con el § 11 del decreto n.º 376/2006 Sb., sobre el sistema de seguridad de la gestión de la vía y del transporte ferroviario y los procedimientos en caso de ocurrencia de sucesos excepcionales en las vías férreas (en adelante decreto n.º 376/2006 Sb.).
 ## 2.2
 ### Circunstancias del suceso excepcional
-### 2.2.1 Empleados implicados del operador de la vía y del transportista, personas en relación contractual y demás implicados y testigos
-Maquinista del tren Rn 50238, empleado de ČD Cargo, a. s. (en adelante ČDC), de la unidad operativa (en adelante PJ) de Ostrava.
+### 2.2.1 Empleados participantes del gestor de la vía y del transportista, personas en relación contractual y demás participantes y testigos
+Maquinista del tren Rn 50238, empleado de ČD Cargo, a. s. (en adelante ČDC), unidad operativa (en adelante PJ) de Ostrava.
 Maquinista del tren Pn 61121, empleado de ČDC, PJ de Olomouc.
-Jefe de estación de la vía 9 de la estación de Přerov, empleado de ČD, de la Zona Operativa (en adelante PO) de Přerov.
-Señalero de la vía 9 de la estación de Přerov, empleado de ČD, PO de Přerov.
+Jefe de estación de la vía 9 de la est. de Přerov, empleado de ČD, Distrito Operativo (en adelante PO) de Přerov.
+Señalero de la vía 9 de la est. de Přerov, empleado de ČD, PO de Přerov.
 2.2.2 Trenes y su composición, incluidos los números de registro de los distintos vehículos ferroviarios
-La estación de origen del tren Pn 61121 fue la estación de Otrokovice, y la estación de destino la estación de Přerov. El tren estaba destinado al transporte de mercancías. En todo su recorrido fue transportado bajo licencia del transportista ČDC.
-El tren era remolcado por la locomotora de maniobras (HDV) n.º 110.003-1, propiedad de ČDC, incluida en el registro del Centro de Reparación de Vehículos sobre Raíles (en adelante SOKV) de Ostrava. La HDV n.º 110.003-1, de tipo 33E1, tiene una disposición con capó y una cabina de conducción situada simétricamente en el centro de la HDV, con una longitud entre amortiguadores
+La estación de origen del tren Pn 61121 era la est. de Otrokovice, y la estación de destino la est. de Přerov. El tren estaba destinado al transporte de mercancías. En toda su trayectoria fue transportado bajo la licencia del transportista ČDC.
+El tren era remolcado por la locomotora n.º 110.003-1, propiedad de ČDC, inscrita en el estado registral del Centro de Reparación de Vehículos Ferroviarios (en adelante SOKV) de Ostrava. La locomotora n.º 110.003-1, de tipo 33E1, tiene una disposición con capó y una cabina de conducción situada simétricamente en el centro de la locomotora, con una longitud entre parachoques
 
 ## Página 16
+
 
 14,48 m, distancia entre ejes giratorios de 6,30 m y un peso de 72 t. La cabina está equipada con dos puestos de conducción.
 La composición del tren Pn 61121 estaba formada por 3 TDV indicadas a continuación, cuyo titular era ČDC: 33 87 9334 943-6, 21 54 2462 109-6 y 21 54 2462 091-6.
@@ -534,6 +536,7 @@ La vía de estación n.º 104, circulada por el tren Rn 50238, en el sentido des
 
 ## Página 17
 
+
 La información sobre las señales de los señales principales no se transmite a la locomotora de cabeza que circula por la vía de estación n.º 104.
 La señal principal L104 de tipo AŽD 70, situada en el pk 181,638, a la derecha de la vía de estación n.º 104, es válida únicamente para la vía de estación n.º 104. En los trenes con destino a la est. Věžky, la señal es una señal de salida, de mástil, luminosa con cinco luces de señalización. En los trenes con destino a la est. Říkovice, la señal L104 cumple la función de señal de itinerario. La señal principal está marcada con la placa L104 y dotada de una banda de marcado con franjas rojas y blancas, siendo las blancas más cortas que las rojas. La señal principal luminosa L104 es válida para la circulación de trenes y para maniobras.
 La verificación de la visibilidad de la señal principal L104 y de la señal emitida por la misma desde la locomotora de cabeza de la serie 363 en circulación fue objeto de una prueba de verificación realizada el 03. 11. 2009 durante la noche (véase el punto 3.4.2).
@@ -549,8 +552,8 @@ de vía:
 enlace telefónico Přerov – Dluhonice;
 ○
 
-
 ## Página 18
+
 
 enlace telefónico Přerov – Prosenice;
 ○
@@ -622,6 +625,7 @@ En el lugar del SE no se estaban realizando, inmediatamente antes de su producci
 
 ## Página 19
 
+
 ### 2.2.6 Activación del plan para el caso de incidencia en la vía y secuencia de acontecimientos
 Para el caso de notificación de una incidencia en la vía, el gestor de la infraestructura, Správa železniční dopravní cesty (en adelante SŽDC), ha emitido la norma interna de la SŽDC (ČD) Dp 17 "Norma para la notificación e investigación de incidencias", aprobada el 27. 06. 2008, con el n.º de expediente: 22957/08-OKS, en su versión vigente. El jefe de estación St. 9 de la est. Přerov actuó conforme a dicha norma, PARTE SEGUNDA NOTIFICACIÓN DE INCIDENCIAS, Capítulo I "Obligación de notificación", arts. 42 y 46. El jefe de estación actuó asimismo conforme al CUADRO DE NOTIFICACIONES del gestor de la infraestructura elaborado para la est. Přerov. La incidencia fue notificada al jefe de turno del Centro Regional de Operaciones (en adelante RCP) de Ostrava y al SIU.
 En virtud del contrato "Contrato de colaboración en la investigación de incidencias en el transporte ferroviario y de accidentes de trabajo mortales y graves", celebrado el 30. 06. 2008 entre la SŽDC y la ČD, y del contrato "Contrato de colaboración en la investigación de incidencias en el transporte ferroviario y de accidentes de trabajo mortales y graves", celebrado el 29. 11. 2007 entre la ČDC y la ČD, la incidencia en el COP DI fue notificada conjuntamente en nombre del gestor de la infraestructura y del transportista por el inspector superior de la ČD, RIBŽD Ostrava, persona designada en el sentido del § 9 apart. 1 del decreto n.º 376/2006 Sb. para la determinación de las causas y circunstancias de la incidencia, a las 23:13 h, es decir, 27 min después de la ocurrencia de la incidencia.
@@ -648,8 +652,8 @@ No se produjeron daños en los objetos transportados, equipajes ni otros bienes.
 ### 2.3.3 En vehículos ferroviarios, componentes de la vía y en el medio ambiente
 Daños producidos por la incidencia en los vehículos ferroviarios del tren Pn 61121 del transportista ČDC:
 
-
 ## Página 20
+
 
 ● HDV n.º 110.003-1: la tasación pericial de daños según el transportista asciende a 445.112 Kč, véase "Acta de la inspección pericial del estado técnico del vehículo ferroviario u otras instalaciones ferroviarias", que con el n.º de expediente: 1-2253/2009, de fecha 22.10. 2009, forma parte del expediente de la incidencia. Dado que la reparación del HDV no había finalizado en la fecha de emisión del Informe sobre los resultados de la investigación de las causas y circunstancias de la incidencia, el transportista no cuantificó el importe real de los daños;
 El daño total constatado en los vehículos ferroviarios del tren Pn 61121 del transportista ČDC asciende a 445.112 Kč.
@@ -677,6 +681,7 @@ El lugar de la incidencia se encuentra en el término municipal de Přerov, coor
 
 ## Página 21
 
+
 ## 3 REGISTRO DE EXPLICACIONES PRESENTADAS
 ## 3.1
 ### Resumen de las explicaciones presentadas (sujeto a protección de la identidad de las personas)
@@ -689,6 +694,7 @@ De la explicación presentada por el maquinista del tren Pn 61121, contenida en 
 El maquinista del tren Pn 61121 conducía desde la estación de Otrokovice hasta la estación de Přerov. La entrada en la estación de Přerov fue autorizada por la señal „Aviso“ de la señal de entrada 2S. Seguía la señal „Alto“ de la señal de camino Sc402, ante la que detuvo el tren con seguridad. Tras el cambio de la señal „Alto“ por la señal „Velocidad 40 km.h-1 y aviso“ de la señal de camino Sc402, que autoriza la marcha del tren hacia el ámbito del preandén, puso el tren en movimiento. A continuación registró un tren en sentido contrario que cruzaba el itinerario del tren Pn 61121. Ante la situación creada, el maquinista reaccionó inmediatamente aplicando el frenado de emergencia. Por efecto del frenado de emergencia, el tren Pn 61121 se detuvo aún en la vía de estación n.º 402A, con el morro del HDV delante del topón de la aguja n.º 319. El maquinista suponía que el tren en sentido contrario continuaría la marcha en la vía de estación contigua. No abandonó su puesto de conducción. A través de la radio de a bordo quiso informar al jefe de estación de la entrada del tren en sentido contrario en su itinerario. Antes de que pudiera hacerlo, registró que el tren en sentido contrario entraba en la vía de estación n.º 402 que él ocupaba. Seguía la colisión, tras la cual, mediante la radio de a bordo, comunicó al jefe de estación de la Estación 9 de la estación de Přerov la ocurrencia del MU.
 
 ## Página 22
+
 
 De la explicación facilitada por el maquinista del tren Rn 50238, contenida en el documento „Zápis se zaměstnancem“ (Acta con el empleado), n.º de expediente: 1-2044/2009, de fecha 18. 11. 2009, y „Zápis o podaném vysvětlení s účastníkem mimořádné události v drážní dopravě“ (Acta de la explicación facilitada con el participante en el suceso excepcional en el transporte ferroviario), de fecha 16. 08. 2010, entre otros extremos, se deduce que:
 El maquinista del tren Rn 50238 circulaba desde la est. Ostrava-Kunčice. Durante todo el trayecto no observó nada anómalo en el aparato de freno del tren. En la est. Přerov, el tren Rn 50238 se detuvo en la vía de estación n.º 14, en el ámbito de la estación de viajeros, donde el jefe de estación le puso en conocimiento, de forma fehaciente, mediante una orden escrita, de los cambios inmediatos de los parámetros constructivo-técnicos de las obras de la vía y de las obras en la vía, que tienen una influencia directa en la seguridad y la fluidez del transporte ferroviario. Posteriormente, el maquinista continuó la marcha del tren hacia la señal de camino OPřLc14 y, a continuación, hacia la señal de camino Lc14. Tras el cambio de la señal „Stůj“ (Alto) por la señal „Rychlost 40 km.h-1 a výstraha“ (Velocidad 40 km.h-1 y aviso) de la señal de camino Lc14 de la est. Přerov, que autoriza la circulación del tren Rn 50238 desde la vía de estación n.º 14, el maquinista puso el tren en movimiento. Con una salida suave, el tren alcanzó una velocidad de unos 35 km.h-1. A esta velocidad, el tren Rn 50238 entró en la vía de estación n.º 104, donde, al mirar la señal de salida, situada en el extremo opuesto de la vía de estación, adquirió la impresión de que la señal de salida mostraba la señal „Výstraha“ (Aviso). Esta, según declaró, probablemente la confundió con la luz de la luminaria de iluminación de la estación. Como el maquinista manejaba el HDV en modo de regulación automática de velocidad (en adelante, ARR), tras pasar el indicador de velocidad N con la señal „Traťová rychlost 90 km.h-1“ (Velocidad de vía 90 km.h-1), preseleccionó una velocidad de unos 55 km.h-1. Una vez recorrida la distancia establecida desde el nivel del indicador de velocidad, equivalente a la longitud del tren preseleccionada por el maquinista en el contador de ejes, el HDV aumentó la tracción. El tren comenzó a acelerar hasta el valor de la velocidad preseleccionada. Durante todo el trayecto posterior por la vía de estación n.º 104, el maquinista no prestó atención a la señal de la señal de salida L104. Concentró su mirada en la ubicación de la señal para tracción eléctrica con la señal „Stáhněte sběrač“ (Suba el pantógrafo), que está situada en el extremo de la torre de la est. Přerov. El maquinista no registró la señal „Stůj“ (Alto) de la señal de salida L104, ni reaccionó de ninguna manera a la misma. Continuó el trayecto del tren a través de los desvíos n.º 313 y n.º 314, por el extremo sur del ámbito del atracadero de la est. Přerov. Al mirar el desvío n.º 315, el maquinista comprobó que la ruta de tren estaba establecida hacia la est. Říkovice, en lugar de hacia la est. Věžky. Al mirar los desvíos siguientes n.º 317 y n.º 319, comprobó que la ruta de tren continuaba hacia la vía de estación ocupada por un tren. Por ello, el maquinista aplicó inmediatamente el frenado de acción rápida, desconectó el interruptor principal mediante el botón de desconexión y, por reflejo, se refugió en la cabina del HDV, donde esperaba el impacto. Una vez finalizado el suceso, el maquinista abandonó el HDV por el puesto de conducción trasero en el sentido de circulación del tren Rn 50238.
@@ -703,6 +709,7 @@ La organización marco y la forma de emisión y ejecución de las instrucciones 
 Señal de camino – señal principal para la salida de un ámbito de estación a otro ámbito de estación, a la estación de enlace o para prohibir la circulación posterior en la estación.
 
 ## Página 23
+
 
 Señal de salida – señal principal para la salida de la estación.
 Señal de velocidad N – señal fija que indica la velocidad de la vía para vehículos del grupo normal de transición.";
@@ -760,8 +767,8 @@ reglamento interno de SŽDC (ČD) D2, art. 225, donde se indica, entre otras cos
 
 ●
 
-
 ## Página 24
+
 
 "El jefe de estación calcula la hora prevista de la salida prevista (paso) según:
 a) el dato horario de la salida prevista (paso) en la oferta y aceptación,
@@ -816,6 +823,7 @@ reglamento interno de SŽDC (ČD) D2, art. 605, donde se indica, entre otras cos
 
 ## Página 25
 
+
 de los cambios en los parámetros constructivo-técnicos de las obras ferroviarias y de las obras en la vía, que tienen una influencia directa en la seguridad y la fluidez del transporte ferroviario, si son conocidos por el jefe de estación, incluidas las medidas necesarias.
 Los maquinistas de los trenes son informados por orden escrita durante todo el tiempo que duren los cambios en los parámetros constructivo-técnicos de las obras ferroviarias y de las obras en la vía. ...“;
 MEDIDA DEL DIRECTOR DE LA DIVISIÓN DE GESTIÓN DE LA EXPLOTACIÓN Y ORGANIZACIÓN DEL TRANSPORTE FERROVIARIO
@@ -850,6 +858,7 @@ El tren Pn 61121 partió de la est. de Otrokovice hacia la est. de Přerov a las
 
 ## Página 26
 
+
 Al maquinista del tren Pn 61121, de acuerdo con los procedimientos tecnológicos del gestor de la infraestructura ferroviaria, no era necesario informar de forma acreditada de los cambios inmediatos en los parámetros constructivo-técnicos de las obras ferroviarias y de las obras en la infraestructura ferroviaria que tienen una influencia directa en la seguridad y la fluidez del transporte ferroviario.
 La circulación del tren Rn 50238 por la vía de estación n.º 104 de la estación de Přerov fue autorizada a las 22:43:11 h por la señal «Velocidad 40 km.h-1 y aviso» del semáforo de camino Lc14 de la estación de Přerov. La ruta de tren terminaba a la altura de la señal de salida L104, situada en el pk 181,638 a la derecha de la vía de estación n.º 104, por la que se indicaba la señal «Alto».
 El maquinista del tren Rn 50238 fue informado de forma acreditada de los cambios inmediatos en los parámetros constructivo-técnicos de las obras ferroviarias y de las obras en la infraestructura ferroviaria que tienen una influencia directa en la seguridad y la fluidez del transporte ferroviario, mediante los documentos:
@@ -872,6 +881,7 @@ Comenzó a desempeñar la función de maquinista el 01. 08. 2008.
 El maquinista del tren Rn 50238 realizó el reconocimiento de la línea Přerov – Brno-Maloměřice el día:
 
 ## Página 27
+
 
 13. 06. 2009 en horario diurno – reconocimiento de la línea Ostrava hl. n. – Brno-Maloměřice y vuelta;
 ●
@@ -896,38 +906,53 @@ Del EKK del puesto de trabajo de explotación Ostrava hl. n. (línea 138) se des
 
 ## Página 28
 
-del 22. 02. 2010.
-### 3.2.4 Interfaz entre los distintos sujetos participantes y los componentes de la vía de circulación
-El propietario y explotador de la vía ferroviaria, categoría nacional, Přerov – Břeclav, es Správa železniční dopravní cesty, organización estatal, con domicilio en Dlážděná 1003/7, Praha 1-Nové Město, en virtud de la Autorización Oficial emitida por la Oficina Ferroviaria de Praga el 29. 05. 2008, con el n.º de expediente: 3-277/07-DÚ/Le-DÚ/O-Sl, n.º de registro: ÚP/2008/9002.
-La explotación de las instalaciones de la vía de circulación ferroviaria, la organización del tráfico ferroviario, la dirección y organización del tráfico ferroviario en la est. Přerov la realizan empleados de České dráhy, a. s., en virtud del contrato «SMLOUVA O OBSLUZE DRÁHY» (Contrato de explotación de la vía), celebrado entre Správa železniční dopravní cesty, organización estatal, y České dráhy, a. s., el 30. 06. 2008, con vigencia desde el 01. 07. 2008.
-El transportista era ČD Cargo, a. s., con domicilio en Jankovcova 1569/2c, Praha 7-Holešovice, en virtud de la Licencia de transportista concedida por la Oficina Ferroviaria de Praga el 20. 11. 2007, con el n.º de expediente: 3-841/07-DÚ/Le, n.º de registro: L/1996/5000, la Resolución de modificación de licencia emitida por la Oficina Ferroviaria de Praga el 05. 08. 2008, con el n.º de expediente: 3-2935/08-DÚ/Le, n.º de registro: L/2008/1452-1, y el 27. 08. 2008, con el n.º de expediente: 3-3186/08-DÚ/Le, n.º de registro: L/2008/1452-2, y del contrato «SMLOUVA o provozování na dráze celostátní a drahách regionálních ve vlastnictví Českých drah, a. s.» (Contrato de explotación en la vía nacional y en las vías regionales en propiedad de České dráhy, a. s.). El contrato se ha celebrado por duración indefinida, con vigencia desde el 10. 03. 2009 y efectos desde la fecha de firma, 10. 03. 2009.
+del 22. 02. 2010. 
+### 3.2.4 Interfaz entre los distintos sujetos implicados y los componentes de la vía de circulación
+El propietario y explotador de la vía ferroviaria de categoría nacional, Přerov – Břeclav, es la Správa železniční dopravní cesty, organización estatal, con sede en Dlážděná 1003/7, Praha 1-Nové Město, en virtud de la Autorización Administrativa expedida por la Oficina Ferroviaria de Praga el 29. 05. 2008, con el n.º de expediente: 3-277/07-DÚ/Le-DÚ/O-Sl, n.º de registro: ÚP/2008/9002.
+La explotación de las instalaciones de la vía de circulación ferroviaria, la organización del tráfico ferroviario, la dirección y organización del tráfico ferroviario en la estación de Přerov la realizan empleados de České dráhy, a. s., en virtud del contrato «SMLOUVA O OBSLUZE DRÁHY» (Contrato de explotación de la vía), celebrado entre la Správa železniční dopravní cesty, organización estatal, y České dráhy, a. s., el 30. 06. 2008, con efectos desde el 01. 07. 2008. 
+El transportista era ČD Cargo, a. s., con sede en Jankovcova 1569/2c, Praha 7-Holešovice, en virtud de la Licencia de transportista concedida por la Oficina Ferroviaria de Praga el 20. 11. 2007, con el n.º de expediente: 3-841/07-DÚ/Le, n.º de registro: L/1996/5000, la Resolución de modificación de licencia expedida por la Oficina Ferroviaria de Praga el 05. 08. 2008, con el n.º de expediente: 3-2935/08-DÚ/Le, n.º de registro: L/2008/1452-1, y el 27. 08. 2008, con el n.º de expediente: 3-3186/08-DÚ/Le, n.º de registro: L/2008/1452-2, y del contrato «SMLOUVA o provozování na dráze celostátní a dráhách regionálních ve vlastnictví Českých drah, a. s.» (Contrato de explotación en la vía nacional y en las vías regionales en propiedad de České dráhy, a. s.). El contrato se ha celebrado por duración indefinida, con vigencia desde el 10. 03. 2009 y efectos desde la fecha de firma, 10. 03. 2009. 
 ## 3.3
 ### Regulación jurídica y de otro tipo
 ### 3.3.1 Normativa comunitaria y nacional aplicable
-ley n.º 266/1994 Sb., de vías, en su versión consolidada;
+ley n.º 266/1994 Sb., de vías, en su redacción vigente;
 ●
-decreto n.º 100/1995 Sb., por el que se establecen las condiciones para la explotación, construcción y fabricación de instalaciones técnicas designadas y su concreción (Reglamento de instalaciones técnicas designadas), en su versión consolidada;
+decreto n.º 100/1995 Sb., por el que se establecen las condiciones para la explotación, 
 ●
-decreto n.º 101/1995 Sb., por el que se aprueba el Reglamento de aptitud sanitaria y profesional de las personas para la explotación de la vía y del tráfico ferroviario, en su versión consolidada;
+construcción y fabricación de las instalaciones técnicas designadas y su concreción (Reglamento 
+de instalaciones técnicas designadas), en su redacción vigente;
+decreto n.º 101/1995 Sb., por el que se aprueba el Reglamento de aptitud médica y 
 ●
-decreto n.º 173/1995 Sb., por el que se aprueba el reglamento de circulación de las vías, en su versión consolidada;
+profesional de las personas para la explotación de la vía y del tráfico ferroviario, en su 
+redacción vigente;
+decreto n.º 173/1995 Sb., por el que se aprueba el Reglamento de circulación de las vías, 
 ●
-decreto n.º 177/1995 Sb., por el que se aprueba el reglamento de construcción y técnico de las vías, en su versión consolidada;
+en su redacción vigente;
+decreto n.º 177/1995 Sb., por el que se aprueba el Reglamento de construcción y técnica 
 ●
-decreto n.º 376/2006 Sb., sobre el sistema de seguridad de la explotación de la vía y del tráfico ferroviario y los procedimientos en caso de sucesos excepcionales en las vías;
+de las vías, en su redacción vigente;
+decreto n.º 376/2006 Sb., sobre el sistema de seguridad de la explotación de la vía y del 
 ●
-ley n.º 262/2006 Sb., Código del Trabajo, en su versión consolidada.
+tráfico ferroviario y los procedimientos en caso de sucesos excepcionales en las vías;
+ley n.º 262/2006 Sb., Código del Trabajo, en su redacción vigente.
 ●
-3.3.2 Otras normas, p. ej., reglamento de explotación, reglamento de trabajo, normas de mantenimiento, normas técnicas vigentes y otras normas internas
+3.3.2 Otras normas, p. ej., reglamento de explotación, reglamento laboral, normas de 
+mantenimiento, normas técnicas vigentes y otras normas internas
 Normas internas del explotador de la vía y del transportista:
+norma interna SŽDC (ČD) D1 «PŘEDPIS PRO POUŽÍVÁNÍ NÁVĚSTÍ PŘI 
 ●
-norma interna SŽDC (ČD) D1 «PŘEDPIS PRO POUŽÍVÁNÍ NÁVĚSTÍ PŘI ORGANIZOVÁNÍ A PROVOZOVÁNÍ DRÁŽNÍ DOPRAVY» (Norma para el uso de las señales en la organización y explotación del tráfico ferroviario), aprobada el 15. 04. 1997, con el n.º de expediente: 55216/97–O11, en su versión vigente;
+ORGANIZOVÁNÍ A PROVOZOVÁNÍ DRÁŽNÍ DOPRAVY» (Norma para el uso de las 
+señales en la organización y explotación del tráfico ferroviario), aprobada el 15. 04. 1997, 
+con el n.º de expediente: 55216/97–O11, en su redacción vigente;
+norma interna SŽDC (ČD) D2 «PŘEDPIS PRO ORGANIZOVÁNÍ A PROVOZOVÁNÍ 
 ●
-norma interna SŽDC (ČD) D2 «PŘEDPIS PRO ORGANIZOVÁNÍ A PROVOZOVÁNÍ DRÁŽNÍ DOPRAVY» (Norma para la organización y explotación del tráfico ferroviario), aprobada el 13. 03. 1997, con el n.º de expediente: 55079/97-O11, en su versión vigente;
+DRÁŽNÍ DOPRAVY» (Norma para la organización y explotación del tráfico ferroviario), 
+aprobada el 13. 03. 1997, con el n.º de expediente: 55079/97-O11, en su redacción vigente;
+norma interna SŽDC Dp17 «Předpis pro hlášení a šetření mimořádných událostí» (Norma 
 ●
-norma interna SŽDC Dp17 «Předpis pro hlášení a šetření mimořádných událostí» (Norma para la notificación e investigación de sucesos excepcionales),
+para la notificación e investigación de sucesos excepcionales),
 
 ## Página 29
+
 
 aprobada el 27. 06. 2008, con el n.º de expediente: 22957/08-OKS, en su versión vigente;
 ●
@@ -969,6 +994,7 @@ El tramo entre estaciones de doble vía Přerov – Říkovice está equipado co
 
 ## Página 30
 
+
 dividido en tres tramos de línea. En el ámbito de la zona previa a la estación de Přerov, la circulación de trenes se asegura mediante enlaces de relés y circuitos de vía de las vías de estación n.º 101, 102, 103, 104, 401, 402, 403, 405, 407.
 ### El tramo intermedio de vía única Přerov – Věžky está equipado con un sistema de seguridad de línea bidireccional de categoría 3 – barrera automática sin balizas de sección. La barrera automática se opera desde el panel de indicación St. 9 de la estación de Přerov, donde se encuentran ubicados todos los elementos de mando e indicación necesarios. En la vía de línea no se garantiza la transmisión de información de las señales de los semáforos principales al vehículo ferroviario de cabeza.
 Los sistemas de seguridad de línea de ambos tramos intermedios no están equipados con dispositivo para el registro de datos de circulación de trenes.
@@ -992,6 +1018,7 @@ El aviso independiente de la salida prevista y la real puede emitirlo y recibirl
 
 ## Página 31
 
+
 del transporte ferroviario del jefe de maniobras – despacho, jefes de maniobras St. 9 y St. 12. Estos empleados comunican la salida prevista y real solo por instrucción del jefe de maniobras – despacho, dada para cada caso individual por separado.
 St. 9 de la est. Přerov en el extremo sur del patio de maniobras está equipado con un dispositivo de señalización electromecánico de 2.ª categoría para el grupo de vías de estación A (vías n.º 206 a 218) y un SZZ TEST de 2.ª categoría para el grupo de vías de estación B (vías n.º 220 a 230) y el grupo de vías de estación C (vías n.º 232 a 270). Los desvíos de las vías de estación n.º 206 a 218 se operan centralmente y están dotados de circuitos de vía de desvío para la preparación de la vía de tren. Los desvíos de las vías de estación n.º 220 a 238 se operan centralmente o desde el aparato de enclavamiento auxiliar. Para la preparación de la vía de tren, las vías de estación n.º 220 a 238 están dotadas de carriles aislados.
 La última avería del SZZ St. 9 fue registrada bajo el n.º de incidencia PH n.º 39 el 01. 10. 2009 a las 08:55 h – ocupación espontánea del circuito de vía KO 299–305. La avería fue causada por barras de puesta a tierra debido a la intervención NTV. Al finalizar la intervención, el dispositivo volvió a estar en estado operativo.
@@ -1009,6 +1036,7 @@ La emisión de la señal «Aviso» por la señal de salida L104 para el tren Rn 
 ● en el sentido hacia Věžky, la señal de salida L104 no preseñala las señales de la señal principal siguiente. En el sentido hacia Věžky, la señal principal siguiente es la señal de entrada L de la est. Věžky. Las señales de la señal de entrada L de la est. Věžky, en el sentido desde la est. Přerov, son
 
 ## Página 32
+
 
 previstas por señales, señales previas independientes PřL;
 SZZ Est. 9 est. Přerov, la señalización de la señal "Aviso" en la señal de salida L104
@@ -1070,6 +1098,7 @@ en relación causal con la producción del MU. El documento está registrado baj
 
 ## Página 33
 
+
 La locomotora de tracción n.º 363.010-0, tipo 69E1, que circulaba a la cabeza del tren Rn 50238, disponía en el momento de la producción del accidente ferroviario (MU) del CERTIFICADO DE IDONEIDAD DEL VEHÍCULO FERROVIARIO válido, n.º de registro: PZ 0264/01-V.03, expedido el 05. 04. 2001 por la Autoridad Ferroviaria de Praga. La última revisión técnica periódica de la locomotora de tracción antes de la producción del MU fue realizada por el transportista de conformidad con el § 44 apartado 1 de la Ley n.º 266/1994 Sb. el 03. 05. 2009, con validez hasta el 03. 11. 2009.
 La locomotora de tracción n.º 363.010-0 estaba equipada con la parte móvil del sistema de vigilancia (VZ) tipo LS 4, que en el servicio normal del botón de vigilancia por parte del maquinista no permite una intervención activa en la conducción del tren en caso de fallo o error del maquinista.
 La locomotora de tracción n.º 363.010-0 estaba, en el momento de la producción del MU, de conformidad con el apartado 5, parte II, del Anexo n.º 3 al decreto n.º 173/1995 Sb., equipada con el dispositivo registrador Tramex, tipo RJE 150.C, con registro electrónico de datos, n.º de registro 8097, con un rango de velocidad de 0 – 190 km.h-1. De los datos registrados se desprende:
@@ -1094,6 +1123,7 @@ Del documento «Acta de la inspección comisionada del estado técnico del vehí
 
 ## Página 34
 
+
 ## 3.5
 ### Documentación sobre el sistema de explotación
 ### 3.5.1 Medidas adoptadas por los empleados del gestor de la infraestructura y del transportista en lo que respecta a la conducción, la señalización y la seguridad del tráfico
@@ -1110,8 +1140,8 @@ A las 22:30 h, el jefe de estación de despacho de la est. Přerov comunicó, a 
 Tras recibir las salidas previstas de los trenes Pn 61121 y Rn 50238, el jefe de estación de St. 9, en relación con la situación de tráfico momentánea en el sector asignado, acordó con el jefe de estación de St. 4 en la vía de entrada n.º 228 en el sector del andén para el tren Pn 61121 que llegaba por la 2.ª vía de la línea desde la est. Říkovice. A las 22:45 h, el jefe de estación de St. 9 recibió, en el marco de la preparación del itinerario de tren para el tren Pn 61121, de los jefes de estación de St. 4 y St. Filiálka el aviso de disponibilidad del itinerario de tren en la vía de estación n.º 228. Tras las acciones de tráfico mencionadas anteriormente, el jefe de estación de St. 9 realizó, mediante la operación normal del SZZ, de acuerdo con los procedimientos tecnológicos del gestor de la infraestructura, la operación del SZZ TEST. Estableció la segunda parte del itinerario de tren (desde el desvío n.º 307 hasta el grupo de vías n.º 220 a 230) para el tren Pn 61121, accionando el botón direccional "Entrada" y, a continuación, conmutando el cerrador de vía "a/desde la vía n.º 402" al grupo "B" (vías de tráfico n.º 220 a 230). A continuación, el jefe de estación de St. 9 continuó con la preparación del itinerario de tren dando la instrucción relacionada con el establecimiento de la primera parte del itinerario de tren (desde la señal de itinerio Sc402 hasta el desvío n.º 307), que consistía en la orden de preparación del itinerario de tren, al ordenar al operador de señalización de St. 9 el establecimiento del itinerario de tren para el tren Pn 61121 desde la vía de estación n.º 402 hasta la vía de estación n.º 228. El operador de señalización de St. 9 repitió la orden al jefe de estación de St. 9 y estableció el mencionado itinerario de tren mediante la operación normal del SZZ, de acuerdo con los procedimientos tecnológicos del gestor de la infraestructura.
 Para la salida del tren Rn 50238 hacia la est. Věžky, el jefe de estación de St. 9 no realizó la preparación del itinerario de tren desde la vía de estación n.º 104, es decir, no ordenó la parada de la maniobra perturbadora, la verificación de disponibilidad del itinerario de tren y el establecimiento del itinerario de tren.
 
-
 ## Página 35
+
 
 La circulación de los trenes Pn 61121 y Rn 50238 en la est. Přerov fue conducida y organizada por personas cualificadas de acuerdo con los procedimientos tecnológicos del gestor de la infraestructura de tal manera que, en el sentido del § 22 apartado 1 letra a) de la Ley n.º 266/1994 Sb., garantizaba la explotación de la infraestructura para las necesidades del tráfico ferroviario fluido y seguro de acuerdo con las normas para la explotación de la infraestructura y la autorización oficial.
 ### 3.5.2 Intercambio de comunicaciones verbales en relación con el suceso excepcional, incluidos los documentos del dispositivo de registro
@@ -1163,6 +1193,7 @@ Operador de señalización St. 2 "Pues eso llegó a la cuatro dos sesenta doble,
 ¿No?"
 
 ## Página 36
+
 
 ### Hora de la grabación 
 ### Conexión 
@@ -1228,8 +1259,8 @@ OŽD
 Jefe de estación St. 9
 ### "61121 de treinta y cinco. Bien."
 
-
 ## Página 37
+
 
 ### Hora de la grabación 
 ### Conexión 
@@ -1291,10 +1322,10 @@ de la estación de Přerov se desprende que la comunicación para asegurar la sa
 En la comunicación entre el jefe de estación de maniobras de la estación de Přerov, los jefes de estación St. 9 y St. 12, los señalistas St. 2 y St. 3 y el OŽD, no se cumplió, en el sentido de los procedimientos tecnológicos del operador ferroviario contenidos en el art. 249 y el art. 471 de la instrucción interna de SŽDC (ČD) D 2, la formulación verbal prescrita para las salidas previstas y la preparación de itinerarios para los trenes 
 ### Os 4259, Os 4264, Rn 50238 y Pn 61121.
 ### 3.5.3 Medidas adoptadas para la protección y la seguridad del lugar del suceso excepcional
-La protección y la seguridad del lugar de origen del SE fue garantizada en colaboración con la PČR de acuerdo con el § 9 del decreto n.º 376/2006 Sb., y ello mediante las personas designadas por el operador ferroviario y el transportista. 
-
+La protección y la seguridad del lugar de origen del SE fue garantizada en colaboración con la PČR de acuerdo con el § 9 del decreto n.º 376/2006 Sb., y ello mediante las personas designadas por el operador ferroviario y el transportista.
 
 ## Página 38
+
 
 ## 3.6
 ### Condiciones laborales, sanitarias y operativas
@@ -1323,6 +1354,7 @@ La investigación no detectó ninguna circunstancia que supusiera obstáculos a 
 
 ## Página 39
 
+
 ## 3.7
 ### Incidentes anteriores de carácter similar
 La Inspección Ferroviaria, en el período comprendido entre el 01. 01. 2009 y la fecha de ocurrencia del presente incidente, registra 3 incidentes del operador ČDC, cuya causa fue la circulación no autorizada más allá de la señal de salida, respectivamente de itinerario, con la indicación «Alto», sin consecuencias:
@@ -1339,6 +1371,7 @@ Tras recibir las salidas previstas de los trenes Pn 61121 y Rn 50238, el jefe de
 
 ## Página 40
 
+
 Ve 22:45 h el jefe de estación St. 9 recibió, en el marco de la preparación de la vía itineraria para el tren Pn 61121, de los jefes de estación St. 4 y St. Filiálka, la notificación de la libre de la vía itineraria en la vía de estación n.º 228. Tras las maniobras de tráfico anteriormente indicadas, el jefe de estación St. 9 realizó, mediante la operación habitual del SZZ TEST, de acuerdo con los procedimientos tecnológicos del gestor de la infraestructura, la colocación de la segunda parte de la vía itineraria (desde el desvío n.º 307 hasta el grupo de vías n.º 220 a 230) para el tren Pn 61121, al accionar el botón direccional «Vjezd» y a continuación conmutar el enclavamiento de vía «na/z koleje č. 402» al grupo «B» (vías de tráfico n.º 220 a 230). Posteriormente, el jefe de estación St. 9 continuó con la preparación de la vía itineraria dando la instrucción relacionada con la colocación de la primera parte de la vía itineraria (desde la señal de paso Sc402 hasta el desvío n.º 307), que consistía en la orden de preparación de la vía itineraria, mediante la cual ordenó al señalero St. 9 la colocación de la vía itineraria para el tren Pn 61121 desde la vía de estación n.º 402 hasta la vía de estación n.º 228. El señalero St. 9 repitió la orden al jefe de estación St. 9 y colocó la vía itineraria solicitada mediante la operación habitual del SZZ, de acuerdo con los procedimientos tecnológicos del gestor de la infraestructura.
 Para la salida del tren Rn 50238 hacia la estación Věžky, el jefe de estación St. 9 no realizó la preparación de la vía itineraria desde la vía de estación n.º 104. La señal de salida L104, situada en el pk 181,638 a la derecha de la vía de estación n.º 104, continuaba indicando la indicación «Stůj». Sin embargo, el maquinista del tren Rn 50238, tras entrar con el tren en la vía de estación n.º 104, al mirar la señal de salida adquirió la impresión de que la señal de salida indicaba la indicación «Výstraha». La indicación «Výstraha» no podía ser indicada por la señal de salida L104, ya que el SZZ St. 9 de la estación Přerov no lo permite con sus dependencias. El maquinista del tren Rn 50238 no prestó atención en ningún momento al resto de la marcha por la vía de estación n.º 104 a la señalización de la señal de salida L104. Dado que el maquinista conducía el HDV en modo ARR, tras pasar el limitador de velocidad N con la indicación «Traťová rychlost 90 km.h-1» preseleccionó una velocidad de aproximadamente 55 km.h-1. Tras recorrer la distancia establecida desde el nivel del limitador de velocidad, equivalente a la longitud del tren preseleccionada por el maquinista en el contador de ejes, el HDV aumentó la tracción. El tren comenzó a acelerar hasta el valor de la velocidad preseleccionada. El maquinista no registró la indicación «Stůj» de la señal de salida L104, ni reaccionó de ninguna manera a ella.
 Mientras tanto, el tren Pn 61121 se detuvo en la vía de estación n.º 402, antes del nivel de la señal de paso Sc402, que indicaba la indicación «Stůj». Tras el cambio de la señalización a la indicación «Rychlost 40 km.h-1 a výstraha», indicada por la señal de paso Sc402, el maquinista puso el tren 61121 en movimiento. A continuación, comprobó que en su vía itineraria entraba desde la vía de estación n.º 104 un tren en sentido contrario. Ante la situación surgida, el maquinista del tren Pn 61121 reaccionó aplicando el frenado de emergencia. El tren se detuvo en la vía de estación n.º 402A en el pk 181,3384, antes del topador del desvío n.º 319. La situación surgida también fue percibida por el maquinista del tren en sentido contrario Rn 50238. Este, durante la marcha ilícita más allá del nivel de la señal de salida L104, tras los desvíos n.º 313 y n.º 314, que fueron forzadamente conmutados a posición recta por la marcha del tren Rn 50238, al observar la posición del desvío n.º 315 detectó que la vía itineraria estaba establecida hacia Říkovice en lugar de hacia Věžky. Al observar los siguientes desvíos n.º 317 y n.º 319, comprobó que la continuación de la vía itineraria estaba ocupada por otro tren. Por ello, inmediatamente aplicó el frenado de emergencia, desconectó el interruptor principal y se refugió en la sala de máquinas del HDV. A pesar de las medidas anteriormente indicadas, se produjo en la vía de estación n.º 402A, en el pk 181,3384, una colisión frontal entre los trenes mencionados.
@@ -1349,6 +1382,7 @@ En la dinámica del suceso, el tren Pn 61121, que estaba detenido y frenado con 
 El gestor de la infraestructura SŽDC, en el sentido del § 22 apartado 1 letra c) de la Ley n.º 266/1994 Sb., garantizó que las personas encargadas de la explotación de la infraestructura fueran médicamente y profesionalmente aptas, véanse los documentos sobre aptitud médica y profesional para el trabajo, que forman parte del expediente del SU.
 
 ## Página 41
+
 
 La visibilidad de la señal «Alto» de la señal de salida L104 de la est. Přerov era, de acuerdo con el § 7 apartado 1 del decreto nº 173/1995 Sb., desde la locomotora de la serie 363 detenida superior a la distancia mínima de 100 m y, desde la locomotora de la serie 363 circulando a la velocidad máxima permitida, superior al tiempo mínimo de visibilidad de 12 s, véase «A C T A  de la realización de la prueba de verificación» ref. nº: 1-134/2009/DI-1, de fecha 03. 11. 2009, que forma parte del expediente del MU.
 En la explotación de la vía y la dirección del tráfico ferroviario, el personal de tráfico utilizó, antes de la producción del MU, las dependencias derivadas de la actividad del SZZ explotado, cuando los empleados de tráfico implicados, antes de la circulación prevista de los trenes Rn 50238 y Pn 61121, adoptaron medidas para preservar la regularidad y la seguridad del tráfico y, a continuación, realizaron las operaciones de tráfico que garantizaban la circulación de los mencionados trenes, de acuerdo con el § 22 apartado 1 letra a) de la ley nº 266/1994 Sb.
@@ -1363,6 +1397,7 @@ La intervención activa en la conducción del tren en caso de fallo o error del 
 El transportista ČDC, en el sentido del § 35 apartado 1 letra f) de la ley nº 266/1994 Sb., garantizó que las personas que prestan servicio de tráfico ferroviario estuvieran sanas y cualificadas profesionalmente, véanse los documentos de aptitud médica y profesional para el trabajo, que forman parte del expediente del MU.
 
 ## Página 42
+
 
 Todos los vehículos ferroviarios implicados en el MU eran del transportista ČDC y, en el sentido del § 35 apartado 1 letra d) de la ley nº 266/1994 Sb., se utilizaron en un estado técnico que correspondía a la aptitud aprobada, véanse los puntos 2.2.2 y 3.4.4.
 La locomotora nº 363.010-0 estaba, en el momento de producirse el MU, de conformidad con el apartado 5, parte II, del Anexo nº 3 de la resolución nº 173/1995 Sb., equipada con el registrador Tramex, modelo RJE 150.C, con registro electrónico de datos, nº de serie 8097, con un rango de velocidad de 0 – 190 km.h-1. De los datos registrados se desprende:
@@ -1393,6 +1428,7 @@ El transportista, en relación con lo dispuesto en el artículo 151 letra a) de 
 
 ## Página 43
 
+
 de la señal de salida L104, interrumpida por obstáculos móviles o fijos. La capacidad de discriminación de la señal «Alto» no se ve afectada por otras fuentes de luz, que son las rampas de iluminación y las lámparas en los mástiles de la iluminación artificial de la vía de la est. Přerov.
 
 El transportista, en virtud de lo dispuesto en el § 35 apartado 1 letra f) y m) del decreto n.º 173/1995 Sb., en el sentido del § 35 apartado 1 letra a) de la ley n.º 266/1994 Sb., no garantizó la explotación del transporte ferroviario de acuerdo con las normas de explotación del transporte ferroviario, al no actuar el maquinista del tren Rn 50238, al circular por la vía de estación n.º 104 de la est. Přerov, desde el pk 182,470, es decir, desde el punto desde el cual el maquinista podía comprobar visualmente de forma segura que la señal de salida L104 con la señal «Alto» no permitía la salida del tren, de acuerdo con los hechos constatados. Posteriormente, con el tren Rn 50238 aumentó la velocidad y no se detuvo de forma segura ante la señal «Alto» de la señal de salida L104 de la est. Přerov.
@@ -1411,8 +1447,8 @@ El factor que contribuyó al origen del SU es la ausencia de medios técnicos de
 
 El SZZ en la est. Přerov, de acuerdo con las condiciones de explotación determinadas y la normativa legal vigente, garantizaba con su función la explotación segura de la vía y del transporte ferroviario, y además facilitaba la dirección del transporte ferroviario y eliminaba la influencia del error o del fallo del factor humano, del jefe de estación. El SZZ prohibía la circulación del tren Rn 50238 más allá de la señal de salida L104, pero de acuerdo con la normativa legal vigente y las condiciones de explotación para las que está destinado, no impedía con ningún medio técnico de seguridad la circulación no autorizada del tren Rn 50238 más allá de la señal de salida L104. La parte móvil del VZ HDV del tren Rn 50238 era operada regularmente por el maquinista mediante el botón de vigilancia, y por lo tanto también de acuerdo con la normativa legal vigente y las condiciones de explotación determinadas, no impedía con ningún medio técnico de seguridad la circulación no autorizada del tren Rn 50238 más allá de la señal de salida L104.
 
-
 ## Página 44
+
 
 ### 4.3.2 Causas fundamentales relacionadas con la cualificación, los procedimientos y el mantenimiento
 Las causas fundamentales del SU relacionadas con la cualificación, los procedimientos y el mantenimiento no fueron constatadas por el DI.
@@ -1435,6 +1471,7 @@ El transportista ČDC adoptó las medidas indicadas a continuación para preveni
 
 ## Página 45
 
+
 ## 6 RECOMENDACIONES DE SEGURIDAD
 La Inspección Ferroviaria, como órgano competente en la materia según lo dispuesto en el apartado 5 del § 53b de la Ley núm. 266/1994 Sb., de ferrocarriles, en su redacción vigente, sobre la base de los resultados de la investigación de las causas y circunstancias del suceso extraordinario, a fin de reducir la probabilidad de que se produzcan sucesos extraordinarios similares, recomienda al operador ferroviario, la Administración de la Infraestructura Ferroviaria, organización estatal:
 –
@@ -1453,15 +1490,15 @@ Director
 Inspección Territorial de Ostrava
 Inspección Territorial de Ostrava
 
-
 ## Página 46
+
 
 ## 7 ANEXOS
 Foto núm. 1: Vagón de carga TDV núm. 31 54 457 5 471-8 descarrilado
 Foto núm. 2: Locomotora (HDV) del tren Rn 50238
 
-
 ## Página 47
+
 
 Foto núm. 3: Locomotora (HDV) del tren Pn 61121
 Foto núm. 4: Contenedor caído del TDV núm. 31 54 457 5 207-6

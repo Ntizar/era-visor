@@ -10,10 +10,11 @@ chars: 123705
 ratio_longitud: 1.03
 tokens_in: 53406
 tokens_out: 41813
-verificacion: ok
-notas_cifras: ["bloque 2: cifras largas: 3/24; cifras cortas: 1/90", "bloque 3: cifras cortas: 1/75", "bloque 4: cifras cortas: 6/322", "bloque 5: cifras cortas: 3/73", "bloque 8: cifras largas: 1/16", "bloque 9: cifras largas: 1/9; cifras cortas: 1/38"]
+verificacion: revisar
 fecha_proceso: 2026-11-19
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+avisos: ["página 8: cifras largas: faltan 1/4 (25%)", "página 42: cifras largas: faltan 1/1 (100%)", "página 44: cifras largas: faltan 1/4 (25%)"]
+notas_cifras: ["página 6: cifras largas: 2/11; cifras cortas: 2/20", "página 11: cifras cortas: 1/21", "página 15: cifras cortas: 2/17", "página 16: cifras cortas: 2/16", "página 17: original bilingüe: se compara contra el idioma principal (PT)", "página 23: cifras cortas: 3/31"]
 ---
 ## Página 1
 

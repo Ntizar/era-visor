@@ -10,13 +10,14 @@ chars: 216175
 ratio_longitud: 1.27
 tokens_in: 104170
 tokens_out: 74511
-verificacion: revisar
-notas_cifras: ["bloque 1: original bilingüe: se compara contra el idioma principal (EN)", "bloque 3: cifras cortas: 1/231", "bloque 4: cifras cortas: 1/283", "bloque 6: original bilingüe: se compara contra el idioma principal (CS)", "bloque 7: cifras cortas: 9/83", "bloque 8: cifras cortas: 1/190"]
-avisos: ["bloque 14: ratio 1.63", "bloque 16: ratio 1.71"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 6: original bilingüe: se compara contra el idioma principal (CS)", "página 7: original bilingüe: se compara contra el idioma principal (CS)", "página 12: original bilingüe: se compara contra el idioma principal (CS)", "página 14: original bilingüe: se compara contra el idioma principal (CS)", "página 16: original bilingüe: se compara contra el idioma principal (CS)", "página 19: cifras cortas: 1/10"]
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -39,13 +40,13 @@ IČ: 75009561
 mail@di.gov.cz
 tel.: +420 736 521 003
 
-
 ## Página 2
+
 
 El presente informe final es público y todos los hechos en él expuestos están respaldados por el expediente de investigación. La Drážní inspekce, en el curso de la investigación, no aborda la responsabilidad penal o administrativa, por lo que no puede deducirse de este informe final. La investigación se ha llevado a cabo de forma independiente con el objetivo de determinar las causas y circunstancias del suceso ferroviario.
 
-
 ## Página 3
+
 
 ### 1 RESUMEN
 Fuente: Správa železnic, organización estatal
@@ -67,15 +68,15 @@ Causa inmediata:
 •
 incumplimiento de la señal «Prohibido el maniobre» emitida por la señal de maniobras Se20 de la estación de Přerov por la persona que conducía el vehículo ferroviario del conjunto de maniobras, debido a su error inconsciente – la falta de atención que, durante el maniobre, no registró la señal de maniobras Se20 y, por tanto, no detectó la luz azul de la señal «Prohibido el maniobre», que prohibía la circulación posterior del conjunto de maniobras más allá de su ubicación.
 
-
 ## Página 4
+
 
 La Drážní inspekce no identificó ningún factor contribuyente.
 La Drážní inspekce no identificó ninguna causa sistémica.
 La Drážní inspekce no emitió ninguna recomendación de seguridad.
 
-
 ## Página 5
+
 
 ### SUMMARY
 26th October 2025, 16:29 (15:29 GMT).
@@ -110,8 +111,8 @@ Systemic factor:
 none.
 Recommendation: not issued.
 
-
 ## Página 6
+
 
 ## Índice
 1 RESUMEN........................................................................................................................3
@@ -155,6 +156,7 @@ SUMMARY.........................................................................
 
 ## Página 7
 
+
 4.2.2 Factores o consecuencias derivados de la instalación y puesta en servicio de vehículos ferroviarios, infraestructura ferroviaria o instalaciones técnicas......................................58
 4.2.3 Factores o consecuencias relacionados con fabricantes de vehículos ferroviarios u otros proveedores de productos ferroviarios............................................................................58
 4.2.4 Factores o consecuencias derivados del mantenimiento y modificación de vehículos ferroviarios o instalaciones técnicas....................................................................................................58
@@ -183,8 +185,8 @@ SUMMARY.........................................................................
 6 RECOMENDACIONES DE SEGURIDAD.....................................................................................65
 ANEXOS..............................................................................................................................67
 
-
 ## Página 8
+
 
 ### Lista de siglas y símbolos utilizados
 ASW
@@ -260,8 +262,8 @@ registrador de velocidad
 SH
 shunting (modo de operación «maniobras» en el sistema ETCS)
 
-
 ## Página 9
+
 
 SK
 vía de estación
@@ -296,8 +298,8 @@ informe final sobre los resultados de la investigación del suceso extraordinari
 žst.
 estación ferroviaria
 
-
 ## Página 10
+
 
 ### Lista de siglas de la normativa, normas y disposiciones internas utilizadas
 ley núm. 266/1994 Sb.
@@ -326,8 +328,8 @@ SŽ TNŽ 34 2620 «Instalaciones de seguridad ferroviaria. Instalaciones de segu
 disposición interna AŽD A80-430
 disposición interna AŽD, «AŽD A80-430 REGLAMENTO PARA LA PRUEBA Y ACTIVACIÓN de la instalación de seguridad de estación ESA», en la redacción vigente en el momento de producirse el SE
 
-
 ## Página 11
+
 
 ### 2 INVESTIGACIÓN Y SUS RELACIONES
 ### 2.1 Decisión de iniciar la investigación
@@ -353,8 +355,8 @@ En el marco de la investigación del SE, la DI procedió de la siguiente manera,
 •
 prueba de verificación, cuyo propósito era determinar la visibilidad real de la luz azul encendida, es decir, la señal «Prohibido el maniobrar», de la señal de clasificación Se20 de la est. Přerov;
 
-
 ## Página 12
+
 
 •
 inspección y documentación de las cabinas de conducción del HDV CZ-ČD 94 54 1 460 079-7 (en adelante 460.079-7) y CZ-ČD 94 54 1 460 080-5 (en adelante 460.080-5), realizadas en la estación de Valašské Meziříčí;
@@ -396,6 +398,7 @@ Hora:
 16:29 h.
 
 ## Página 13
+
 
 Lugar:
 vía férrea, categoría de ámbito nacional, estación de Přerov, extremo en dirección a la
@@ -456,8 +459,8 @@ desde el cual se dirigía la circulación de la composición de maniobras remolc
 detuvo en la posición final con su frente en la vía del extremo en dirección a Prosenice
 en el pk 184,108 y con el bogie trasero en el sentido de la marcha
 
-
 ## Página 14
+
 
 (bogie «b») en la parte de corazón del desvío n.º 7. El HDV en cuestión no descarriló
 como consecuencia del SU, pero como consecuencia del suceso se vio dañado, debido a la
@@ -508,8 +511,8 @@ del VDV 063.420-4, se situaban en el extremo dluhonice-prosenice sobre un objeto
 puente que cruzaba la vía de ámbito nacional sobre el cauce del río Bečva y sobre los
 paseos ribereños adyacentes al mismo.
 
-
 ## Página 15
+
 
 ### Fig. n.º 1: Esquema de origen del SU
     Fuente: SŽ (plano de la estación de Přerov), elaboración DI
@@ -552,66 +555,34 @@ Se13, situada en el pk 184,119, y el ZV n.º 12, es decir, pk 183,960, en el per
 las 16:29 h del día 26. 10. 2025 hasta las 13:00 h del día 27. 10. 2025, cuando se
 restableció el tráfico en la SK n.º 1a con una velocidad de línea limitada
 
-
 ## Página 16
 
-que en el pk 184,049 a 184,059 se redujo transitoriamente a 10 km·h-1 con la
-implantación de una PJ. Posteriormente, de este modo, fue posible explotar el transporte
-ferroviario desde Prosenice hasta Přerov y viceversa por ambas TK, si bien en el caso de
-la circulación por la TK n.º 2 únicamente mediante el uso de itinerarios conducidos a
-través de un enlace simple de vía que une dos vías adyacentes mediante los desvíos n.º 2
-y 4 de la estación de Přerov. El día 18. 11. 2025 a partir de las 11:00 h se finalizó en la SK
-n.º 1a en el pk 184,049 a 184,059 la PJ, que restringía transitoriamente la velocidad de
-línea reduciéndola a 10 km·h-1, y posteriormente se permitió, a través del desvío n.º 9, la
-circulación con una velocidad de línea de 80 km·h-1. Ese mismo día, a las 11:20 h, se
-restableció la explotación del transporte ferroviario a través del enlace simple de vía que
-une dos vías adyacentes mediante los desvíos n.º 9 y 12 de la estación de Přerov, es
-decir, en dirección de desvío (secundaria), si bien el desvío n.º 12 permaneció
-transitablemente inutilizado en dirección directa (principal). El restablecimiento completo
-de la explotación del transporte ferroviario en el extremo dluhonice-prosenice de la
-estación de Přerov se produjo el día 9. 12. 2025 a las 8:35 h, cuando se permitió la
-circulación del material rodante por el desvío n.º 12 también en dirección directa
-(principal);
+velocidad, que en el pk 184,049 a 184,059 fue transitoriamente reducida a 10 km·h-1 mediante la PJ. Posteriormente, fue posible explotar el tráfico ferroviario desde Prosenice hasta Přerov y viceversa por ambas TK, en el caso de circular por la TK n.º 2, sin embargo, solo utilizando itinerarios de circulación conducidos a través del enlace simple de vía que une dos vías adyacentes mediante los desvíos n.º 2 y 4 de la est. Přerov. El 18 de 11 de 2025 a partir de las 11:00 h se finalizó la PJ en la SK n.º 1a en el pk 184,049 a 184,059, que restringía transitoriamente la velocidad de la vía reduciéndola a 10 km·h-1, y posteriormente se permitió la circulación a una velocidad de la vía de 80 km·h-1 a través del desvío n.º 9. Ese mismo día a las 11:20 h se restableció la explotación del tráfico ferroviario a través del enlace simple de vía que une dos vías adyacentes mediante los desvíos n.º 9 y 12 de la est. Přerov, es decir, en la dirección de desvío (secundaria), permaneciendo el desvío n.º 12 todavía en la dirección directa (principal) sin poder ser circulado. La total restablecimiento de la explotación del tráfico ferroviario en la cabecera Dluhonice-Prosenice de la est. Přerov se produjo el 9 de 12 de 2025 a las 8:35 h, cuando se permitió la circulación de DV a través del desvío n.º 12 también en la dirección directa (principal);
 •
-la interrupción de la explotación del transporte ferroviario en:
-◦ambas TK Prosenice – Přerov el día 26. 10. 2025 en el período desde las 16:19 h hasta
-las 18:40 h, así como posteriormente desde las 21:12 h hasta las 21:32 h, desde las 21:56 h
-hasta las 22:03 h, desde las 22:39 h hasta las 23:11 h y desde las 23:17 h hasta las 23:30 h,
-◦ambas TK agr. Dluhonice – Přerov el día 26. 10. 2025 en el período desde las 21:12 h
-hasta las 21:32 h, así como posteriormente desde las 21:56 h hasta las 22:03 h, desde las
-22:39 h hasta las 23:11 h y desde las 23:17 h hasta las 23:30 h.
-La interrupción de la explotación del transporte ferroviario en todas las TK mencionadas
-anteriormente fue provocada por la necesidad de realizar trabajos de despeje, consistentes
-principalmente en la realineación del VDV 063.420-4 descarrilado y, posteriormente, en la
-eliminación de todo el material rodante de la composición de maniobras de la plataforma
-del extremo dluhonice-prosenice.
-
-### 3.1.6 Identificación de las personas, sus funciones y de los sujetos implicados
-Personas implicadas por:
+interrupción de la explotación del tráfico ferroviario en:
+◦ambas TK Prosenice – Přerov el 26 de 10 de 2025 en el horario de 16:29 h a 18:40 h, además posteriormente de 21:12 h a 21:32 h, de 21:56 h a 22:03 h, de 22:39 h a 23:11 h y de 23:17 h a 23:30 h,
+◦ambas TK desv. Dluhonice – Přerov el 26 de 10 de 2025 en el horario de 21:12 h a 21:32 h, además posteriormente de 21:56 h a 22:03 h, de 22:39 h a 23:11 h y de 23:17 h a 23:30 h.
+La interrupción de la explotación del tráfico ferroviario en todas las TK mencionadas anteriormente fue provocada por la necesidad de realizar trabajos de despeje, consistentes principalmente en la realineación del VDV 063.420-4 descarrilado y, posteriormente, en la eliminación de todos los DV de la maniobra de la vía del cabecera Dluhonice-Prosenice.
+### 3.1.6 Identificación de personas, sus funciones y sujetos participantes
+Personas participantes por:
 Operador de la vía (SŽ):
 •
-despachante de línea del CDP Přerov (en adelante despachante director 1D del CDP
-Přerov), empleado de SŽ.
+despachante de vía CDP Přerov (en adelante, despachante director 1D CDP Přerov), empleado de SŽ.
 Transportista (ČD):
 •
-persona que manda el HDV (en adelante maquinista) de la composición de maniobras,
-empleado de ČD.
+persona que dirige el HDV (en adelante, maquinista) de la maniobra, empleado de ČD.
 Otras personas, testigos:
 •
-despachante de línea del CDP Přerov (en adelante despachante de sección 1D del CDP
-Přerov), empleado de SŽ;
+despachante de vía CDP Přerov (en adelante, despachante de sección 1D CDP Přerov), empleado de SŽ;
 •
-despachante de explotación PD3 del CDP Přerov, empleado de SŽ;
+despachante de explotación PD3 CDP Přerov, empleado de SŽ;
 •
 despachante RD Brno, empleada de ČD.
-Sujetos implicados:
-El propietario de la vía férrea, categoría de ámbito nacional, Prosenice – Přerov, era la
-República Checa. El derecho a administrar los bienes del Estado lo ejercía SŽ, con
-domicilio en Dlážděná 1003/7, Praha 1, PSČ 110 00, que era asimismo el operador de esta
-vía y el sujeto titular del
-
+Sujetos participantes:
+El propietario de la vía ferroviaria, categoría estatal, Prosenice – Přerov, era la República Checa. El derecho de administrar los bienes del Estado lo ejercía SŽ, con domicilio en Dlážděná 1003/7, Praha 1, PSČ 110 00, que era también el operador de esta vía y el sujeto titular de
 
 ## Página 17
+
 
 derecho a administrar los bienes del Estado delimitado por la disposición del § 20
 apartados 1 y 2 de la ley n.º 266/1994 Sb.
@@ -685,6 +656,7 @@ actualidad Fundación Svět železnice).
 
 ## Página 18
 
+
 La EMJ de la serie 460 constaba de un total de tres DV, a saber, dos HDV de cabeza del tipo «coche motor de la unidad eléctrica 3 kV cc EM 488.0», denominación de serie 460, y un VDV no motor, denominación de serie 063. Todos los vehículos fueron fabricados en 1978 por la empresa nacional Vagónka Studénka y dados de alta el mismo año en el servicio regular de las entonces Ferrocarriles del Estado de Checoslovaquia, con la denominación original EM 488.0079 (actualmente 460.079-7), EM 488.0080 (actualmente 460.080-5) y N 488.0420 (actualmente 063.420-4). Por su destino, se trataba de una unidad de cercanías que, gracias a sus características de tracción y a la disposición de las carrocerías de los VDV, permitía, en comparación con los llamados «convencionales», formados por una locomotora y coches de pasajeros TDV, acortar los tiempos de viaje (tiempo necesario para la puesta en marcha y la frenada del tren), y durante las paradas en estaciones y apeaderos, un rápido intercambio de pasajeros (gracias al mayor número de puertas de acceso de los VDV). En último lugar, es necesario mencionar el equipamiento de la unidad con mando central de las puertas de acceso por parte del maquinista, lo que, cumpliendo todas las condiciones establecidas (consistentes, por ejemplo, en el control exhaustivo por parte del maquinista del estado de los elementos de mando e indicación), contribuyó indudablemente a aumentar el nivel de seguridad general de las personas transportadas. De fábrica, la unidad eléctrica se suministraba como de cinco coches, en consistencia de dos HDV de cabeza y tres VDV (en disposición HDV + 3x VDV + HDV). Durante el servicio se redujo el número de DV en las unidades, de modo que algunas unidades se recompusieron como de cuatro coches (en disposición HDV + 2x VDV + HDV) y algunas como de tres coches (en disposición HDV + VDV + HDV). El operador ČD retiró la última EMJ de la serie 460 del servicio regular en el verano de 2024.
 ### Fig. n.º 2: EMJ histórica de la serie 460 documentada aún como de cuatro coches en época de servicio regular, el 3 de 3 de 2021 en la salida del tren Os 3209 de la est. Prosenice
 Fuente: DI
@@ -692,12 +664,14 @@ Dado que, desde el punto de vista de la explotación ferroviaria, se trataba de 
 
 ## Página 19
 
+
 La unidad asignada correspondía al estado de su último periodo de servicio, cuando estas unidades se explotaban exclusivamente como de tres coches, pero, en comparación con otras unidades, se diferenciaba principalmente por la realización de la pintura y también por una serie de detalles conservados que, a lo largo de los últimos años en particular, cambiaron durante las reconstrucciones realizadas (p. ej., conservación de la disposición original del puesto de conducción del maquinista, incl. elementos para el mando de las DV, puertas de acceso plegables, disposición del interior, tejido de los asientos, etc.).
 Fig. n.º 3: Planos técnicos de los HDV de la serie 460 (ex EM 488.0) y de los VDV de la serie 063 (ex N 488.0), incl. partes de la placa de fabricación que contienen el símbolo y la denominación del fabricante de los DV
 Fuente: Vagónka Studénka, n. p., modificación DI
 En el caso de la EMJ de la serie 460, el DÚ decidió sobre el estatus de los DV históricos en ella incluidos, en base a la solicitud del propietario (ČD) y a la evaluación de si su fabricación se había finalizado hace más de 40 años y si su aspecto exterior y su disposición interior se habían conservado y mantenido en el estado según la documentación técnica original. Los DV históricos podían ser explotados (utilizados) en la red ferroviaria de ámbito nacional, según lo dispuesto en el apartado 2 del § 43f de la Ley n.º 266/1994 Sb., si cumplían las condiciones establecidas en el apartado 1, letras b) a d), de este mismo artículo, es decir, estaban inscritos en el registro europeo de vehículos, eran técnicamente compatibles con dicha red de acuerdo con la especificación técnica de interoperabilidad y con los datos contenidos en el registro de redes según el acto de derecho de la Unión Europea directamente aplicable que regula la especificación del registro de infraestructura ferroviaria, y en los que, en caso de su acoplamiento con otro DV, dicho acoplamiento se había realizado de forma segura de acuerdo con la especificación técnica de interoperabilidad y con el sistema de gestión de la seguridad del transporte ferroviario. De acuerdo con lo dispuesto en el apartado 5 del § 43f de la Ley n.º 266/1994 Sb., la unidad histórica EMJ de la serie 460 podía ser explotada en la red
 
 ## Página 20
+
 
 de ámbito nacional, regional, local o en un ramal ferroviario privado, exclusivamente para satisfacer necesidades culturales o de ocio.
 Los HDV 460.079-7 y 460.080-5 estaban equipados en el momento del suceso del MU con dispositivos de registro automático de datos: electrónicos RR LT10 METRA Blansko, n.º de fabricación 316 y 317 respectivamente. De la evaluación de los datos registrados, desde la puesta en movimiento del tren Os 10893 en la est. Olomouc hl. n. hasta su parada en la est. Přerov, incl. el posterior maniobrado en dicha estación hasta su parada en la posición final tras el suceso del MU, tras redondear los datos temporales a segundos completos, los datos de recorrido a metros completos, los datos de velocidad a km·h-1 completos y tras tener en cuenta las desviaciones temporales entre el tiempo registrado por el RR y el tiempo registrado por el SZZ de la est. Přerov, que se tomó como tiempo de referencia para las necesidades de la investigación de este MU, entre otros, se desprende:
@@ -714,8 +688,8 @@ a las 16:14:38 h el tren, circulando a una velocidad de 70 km·h-1, pasó la alt
 a las 16:15:48 h, continuando la marcha por inercia, la velocidad del tren descendió a 60 km·h-1. El tren, con su frente, se encontraba en la bif. Dluhonice en el extremo hacia Přerov, a una distancia de 20 664 m del punto de puesta en marcha en la est. Olomouc hl. n.;
 ### a las 16:15:59 h, con la tracción aplicada por el HDV, la velocidad del tren aumentó a 61 km·h-1 y siguió creciendo. El tren, con su frente, se encontraba a una distancia de 20 846 m del punto de puesta en marcha;
 
-
 ## Página 21
+
 
 a las 16:16:06 h el tren alcanzó una velocidad de 62 km·h-1, velocidad que mantuvo durante 2 s. Seguidamente se produjo la marcha por inercia, durante la cual la velocidad del tren comenzó a descender gradualmente;
 a las 16:16:18 h, por la marcha por inercia, la velocidad del tren descendió a 60 km·h-1 y siguió descendiendo gradualmente. El tren, con su frente, se encontraba a una distancia de 21 166 m del punto de puesta en marcha en la est. Olomouc hl. n.;
@@ -736,8 +710,8 @@ a las 16:25:33 h la composición de maniobras alcanzó con una puesta en marcha 
 a las 16:26:21 h la composición de maniobras se detuvo en la vía n.º 2 de la est. Přerov. Con su frente se encontraba a una distancia de 287 m antes de la señal de salida S2 de la est. Přerov;
 a las 16:26:43 h la composición de maniobras fue puesta en movimiento;
 
-
 ## Página 22
+
 
 a las 16:26:56 h la composición de maniobras alcanzó con una puesta en marcha gradual una velocidad de 8 km·h-1, con su frente a una distancia de 275 m antes de la señal de salida S2 de la est. Přerov. Seguidamente se produjo la marcha por inercia en un recorrido de 121 m;
 a las 16:28:05 h, a una velocidad de 5 km·h-1, se registró el aumento de la velocidad de la composición de maniobras provocado por la tracción aplicada por el HDV. Tras recorrer 11 m y transcurridos 6 s (a las 16:28:11 h) la composición de maniobras alcanzó una velocidad de 9 km·h-1, encontrándose a una distancia de 154 m antes de la señal de salida S2 de la est. Přerov. Seguidamente se produjo otra marcha por inercia en un recorrido de 27 m;
@@ -754,41 +728,64 @@ a las 16:29:16 h se registró el inicio de la reducción de la presión del aire
 
 ## Página 23
 
-v 16:29:18 h la unidad de maniobras circulando a 36 km·h-1 con el primer bogie "a" (trasero en el sentido de la marcha) del VDV 063.420-4 se encontraba en el punto de descarrilamiento (punto "0" en la vía entre los desvíos n.º 12 y 10). El frente de la unidad de maniobras se encontraba a una distancia de 1 m tras el ZV n.º 9 y a 48 m del punto de detención final tras la aparición de la MU;
-v 16:29:20 h se registró el inicio del aumento de la presión del aire en la tubería principal provocado por la maniobra del maquinista sobre el freno DAKO-BS2, desde el valor de 4,4 bar hasta 5,0 bar. La unidad de maniobras circulando a 32 km·h-1 con su frente se encontraba a 27 m del punto de detención final tras la aparición de la MU;
-v 16:29:22 h se registró el inicio de la rápida disminución de la presión del aire en la tubería principal provocada por la aplicación del frenado rápido introducido por la maniobra del maquinista sobre el freno DAKO-BS2. El frente de la unidad de maniobras circulando a 20 km·h-1 se encontraba a una distancia de 12 m del punto de detención final tras la aparición de la MU;
-v 16:29:25 h la unidad de maniobras se detuvo en la posición final tras la aparición de la MU;
+v 16:29:18 h el coche de maniobras circulando a una velocidad de 36 km·h-1 con el primer bogie del bogie 
+„a" (el trasero en el sentido de la marcha) VDV 063.420-4 se encontraba en el punto de descarrilamiento 
+(punto "0" en la vía entre los desvíos n.º 12 y 10). El frontal del coche de maniobras 
+se encontraba a una distancia de 1 m detrás de la ZV n.º 9 y a 48 m del punto 
+de parada final tras la aparición de la MU;
+v 16:29:20 h se registró el inicio del aumento de la presión del aire en el conducto principal 
+provocado por la manipulación del maquinista sobre el freno DAKO-BS2 desde el valor de 
+4,4 bar hasta 5,0 bar. El coche de maniobras circulando a una velocidad de 32 km·h-1 con el 
+frontal se encontraba a 27 m del punto de parada final tras la aparición de la MU;
+v 16:29:22 h se registró el inicio de la disminución rápida de la presión del aire en el conducto principal 
+provocado por la aplicación del frenado de acción rápida introducida por la 
+manipulación del maquinista sobre el freno DAKO-BS2. El frontal del coche de maniobras 
+circulando a 20 km·h-1 se encontraba a una distancia de 12 m del punto 
+de parada final tras la aparición de la MU;
+v 16:29:25 h el coche de maniobras se detuvo en la posición final tras la aparición de la MU;
 •
-la parte móvil del VZ estaba activada, y durante todo el trayecto del tren Os 10893 fue operada periódicamente por el maquinista;
+la parte móvil del VZ estaba activada, durante todo el tiempo de circulación del tren Os 10893 fue 
+operada periódicamente por el maquinista;
 •
- -1 del tren Os 10893 se superó la
+ -1   del tren Os 10893 se superó la
 velocidad máxima permitida de 60 km·h
  :
-◦en el intervalo de tiempo comprendido entre las 15:59:47 h y las 16:03:12 h, en un trayecto de 4 874 m, hasta en 30 km·h-1, es decir, un 50 %,
-◦en el intervalo de tiempo comprendido entre las 16:04:20 h y las 16:15:48 h, en un trayecto de 13 934 m, hasta en 23 km·h-1, es decir, un 38 %,
-◦en el intervalo de tiempo comprendido entre las 16:15:59 h y las 16:16:18 h, en un trayecto de 320 m, hasta en 2 km·h-1, es decir, un 3 %;
+◦en el tiempo comprendido entre las 15:59:47 h y las 16:03:12 h en un trayecto de 4 874 m hasta en 30 km·h-1, 
+es decir, un 50 %,
+◦en el tiempo comprendido entre las 16:04:20 h y las 16:15:48 h en un trayecto de 13 934 m hasta en 23 km·h-1, 
+es decir, un 38 %,
+◦en el tiempo comprendido entre las 16:15:59 h y las 16:16:18 h en un trayecto de 320 m hasta en 2 km·h-1, es decir, un 3 %;
 •
- -1 de la unidad de maniobras se superó la
-velocidad
+ -1   del coche de maniobras se superó la
+velocidad 
  ordenada de 40 km·h
  :
-◦en el intervalo de tiempo comprendido entre las 16:28:36 h y las 16:28:47 h, en un trayecto de 126 m, hasta en 2 km·h-1, es decir, un 5 %.
-
-Dado el estatus de la EMJ de la serie 460 objeto de la investigación, como vehículo histórico, ninguna HDV, es decir, ni la HDV líder 460.079-7 ni la 460.080-5, estaba equipada con una parte móvil activa de ETCS que fuera compatible con su parte fija utilizada en el trayecto en cuestión, es decir, ETCS L2 con utilización del modo operativo FS. El uso de DV históricas – EMJ de la serie 460 no equipadas con la parte móvil activa (parte a bordo) de ETCS para la circulación del tren Os 10983 en un trayecto de ámbito nacional con circulación exclusiva de trenes bajo supervisión de ETCS, es decir, en este caso concreto en las líneas:
+◦en el tiempo comprendido entre las 16:28:36 h y las 16:28:47 h en un trayecto de 126 m hasta en 2 km·h-1, es decir, un 5 %.
+Debido al estatus de la EMJ de la serie 460 objeto de la cuestión, como vehículo histórico, no había 
+ningún HDV, es decir, ni el HDV líder 460.079-7 ni el 460.080-5, equipado con una parte móvil activa de ETCS 
+que fuera compatible con su parte fija utilizada en el trayecto en cuestión, es decir, ETCS L2 
+con la utilización del modo operativo FS. El uso de DV históricos – EMJ de la serie 460 no equipados 
+con una parte móvil activa (parte a bordo) de ETCS para la circulación del tren Os 10983 en un trayecto de ámbito nacional con 
+circulación exclusiva de trenes bajo supervisión de ETCS, es decir, en este caso concreto en 
+las líneas:
 •
 Prosenice – Česká Třebová (solo en el tramo Prosenice – Olomouc hl. n.),
 •
-Přerov – desvío de Dluhonice (en todo el tramo),
+Přerov – desvío Dluhonice (en todo el tramo),
 •
 Prosenice – Přerov (en todo el tramo),
 •
 Bohumín – Prosenice (en el tramo Hranice na Moravě – Prosenice),
-fue autorizado excepcionalmente por el operador de la infraestructura SŽ, previa aprobación por parte del transportista ČD y cumpliendo las medidas operativas especiales y las condiciones establecidas (véanse los puntos 3.1.8 y 4.1. de la presente ZZ).
-
-No obstante, en este punto es necesario señalar que la ausencia de la parte móvil activa de ETCS en las DV líderes de la EMJ histórica de la serie 460 no tuvo ninguna influencia en la aparición de la MU, ya que las DV de esta unidad se movían en la estación de Přerov, es decir, en el ámbito de la estación con bifurcación de vías, de forma de maniobra.
-
+fue autorizado excepcionalmente por el operador de la infraestructura SŽ, previa aprobación 
+conjunta con el transportista ČD y cumpliendo las medidas operativas especiales y las condiciones establecidas 
+(ver puntos 3.1.8 y 4.1 de esta ZZ).
+En este punto, sin embargo, es necesario señalar que la ausencia de una parte móvil activa de ETCS en 
+los DV líderes de la EMJ histórica de la serie 460 no tuvo ninguna influencia en la aparición de la MU, ya que los DV de esta 
+unidad se movían en la estación de Přerov, es decir, en el ámbito de la estación con 
+bifurcación de vías
 
 ## Página 24
+
 
 De lo anterior se desprende que, incluso en el caso de que la DV líder estuviera equipada con la parte móvil activa de ETCS, esto no habría tenido ninguna influencia en la MU, porque la maniobra se habría realizado en el modo operativo SH, es decir, en el modo en el que, ante una circulación (movimiento) no autorizada de la DV dentro del ámbito de maniobras, ni la parte fija ni la móvil de ETCS habrían intervenido activamente; dicho de otra forma, físicamente ETCS en dicho modo no habría impedido la circulación no autorizada de la DV más allá de la señal de enclavamiento, que con su indicación prohibía la circulación más allá de su nivel, ya que la DV circulando en el modo operativo SH no se comunicaría con el RBC.
 
@@ -810,8 +807,8 @@ en el pk 183,954 el desvío simple izquierdo n.º 13 [J 602 1:11-300, transitado
 ◦por la HDV 460.079-7 y el 1.er (frontal) bogie en el sentido de la marcha de la unidad de maniobras VDV 063.420-4 (se trataba del bogie "b") contra la aguja por la dirección desviada (secundaria) (R = 500 m),
 ◦por el 2.º (trasero) bogie del VDV 063.420-4 en el sentido de la marcha de la unidad de maniobras (se trataba del bogie "a") y la HDV 460.080-5 contra la aguja por la dirección recta (principal)].
 
-
 ## Página 25
+
 
 El desvío n.º 12 formaba con el desvío simple derecho n.º 9 en el pk 184,059 [J 602 1:12-500, transitado por la parte frontal de la unidad de maniobras desde la dirección secundaria (desviada) por la aguja (R = 500 m)] una sencilla enlace de vías, que se encontraba sobre el puente ferroviario que cruza el río Bečva con lecho de vía continuo.
 
@@ -828,8 +825,8 @@ La señal de enclavamiento Se20 (unilateral, enana) de tipo AŽD 70 con dos lám
 ### Fig. n.º 4: Señal de enclavamiento Se20 de la estación de Přerov
    Fuente: DI
 
-
 ## Página 26
+
 
 Tras el inicio de la investigación de la MU, los inspectores de la DI realizaron una prueba de verificación, cuyo objetivo era determinar la visibilidad real de la luz azul encendida (lámpara indicadora inferior del cuerpo del conjunto de lámparas indicadoras), es decir, de la indicación «Prohibido el paso de maniobras», de la señal de enclavamiento Se20 de la estación de Přerov. Además de los inspectores de la DI, en la prueba de verificación participaron representantes del operador de la infraestructura SŽ, OŘ Ostrava, SSZT Olomouc. Mediante la prueba de verificación se determinó que la luz azul encendida, es decir, la indicación «Prohibido el paso de maniobras», de la señal de enclavamiento Se20 de la estación de Přerov era visible, de acuerdo con el § 7 apartado 4 del decreto n.º 173/1995 Sb., desde una distancia de 100 m como mínimo.
 
@@ -850,34 +847,34 @@ Nota de la DI: se trataba de una ruta alternativa, es decir, una ruta de tren qu
 ## Página 27
 
 v 16:13:43 h
-por acción automática del SZZ se realizó el bloqueo del itinerario de tren para la circulación del tren Os 10893 desde el TK n.º 1 del tramo intermedio de la bifurcación Dluhonice – Přerov hasta la señal de entrada 1DL en la SK n.º 6 de la est. Přerov.
-1 s después (a las 16:13:44 h) la señal de entrada 1DL comenzó a mostrar la indicación «Velocidad 60 km/h y aviso»;
+por acción automática del SZZ se realizó el cierre del itinerario de tren para la circulación del tren Os 10893 desde el TK n.º 1 del tramo intermedio de la bifurcación Dluhonice – Přerov hasta la señal de entrada 1DL en la SK n.º 6 de la est. Přerov.
+1 s después (a las 16:13:44 h) la señal de entrada 1DL comenzó a mostrar la señal «Velocidad 60 km/h y aviso»;
 v 16:16:21 h
-el tren Os 10893 entró en la est. Přerov, es decir, superó el nivel de la señal de entrada 1DL, en la vía 1DLK de la cabeza de vías de Dluhonice y ocupó el KÚ «1DLK».
-1 s después (a las 16:16:22 h) la señal de entrada 1DL comenzó a mostrar la indicación «Alto»;
+el tren Os 10893 entró en la est. Přerov, es decir, pasó más allá del nivel de la señal de entrada 1DL, en la vía n.º 1DLK de la cabeza de vías de Dluhonice, y ocupó el CU «1DLK».
+1 s después (a las 16:16:22 h) la señal de entrada 1DL comenzó a mostrar la señal «Alto»;
 v 16:16:35 h
-el tren Os 10893 liberó el KÚ «1T1_D», es decir, el KÚ de aproximación en el TK n.º 1 del tramo intermedio de la bifurcación Dluhonice – Přerov, y se encontraba íntegramente en la vía de la cabeza de vías de Dluhonice de la est. Přerov;
+el tren Os 10893 liberó el CU «1T1_D», es decir, el CU de aproximación en el TK n.º 1 del tramo intermedio de la bifurcación Dluhonice – Přerov, y se encontraba íntegramente en la vía de la cabeza de vías de Dluhonice de la est. Přerov;
 v 16:16:39 h
 el tren Os 10893 entró en la cabeza de vías Dluhonice-Prosenice de la est. Přerov;
 v 16:17:26 h
-el tren Os 10893 entró en la SK n.º 6 y ocupó el KÚ «6K»;
+el tren Os 10893 entró en la SK n.º 6 y ocupó el CU «6K»;
 v 16:17:43 h
-el tren Os 10893 liberó el KÚ «V38-41» (desvíos n.º 38 y 41) y se encontraba íntegramente en la SK n.º 6;
+el tren Os 10893 liberó el CU «V38-41» (agujas n.º 38 y 41) y se encontraba íntegramente en la SK n.º 6;
 v 16:22:06 h
-mediante operación normal del SZZ de la est. Přerov, el despachador de sección 1D CDP Přerov introdujo las órdenes para la maniobra de la unidad de maniobra desde la SK n.º 6 desde la señal de camino Lc6, situada en el pk 183,127, a través de los desvíos n.º 54, 59, 62, 69, 90 y 83 hasta la cabeza de vías central de la est. Přerov hasta el nivel de la señal de agrupamiento Se88, situada en el pk 182,691;
+mediante operación normal del SZZ de la est. Přerov, el despachador de sección 1D CDP Přerov introdujo las operaciones para la maniobra de la unidad de maniobra desde la SK n.º 6 desde la señal de itinerario Lc6, situada en el pk 183,127, a través de las agujas n.º 54, 59, 62, 69, 90 y 83 hasta la cabeza de vías central de la est. Přerov hasta el nivel de la señal de agrupamiento Se88, situada en el pk 182,691;
 v 16:22:21 h
-por acción automática del SZZ se realizó el bloqueo del itinerario de maniobra para la circulación de la unidad de maniobra desde la SK n.º 6 desde la señal de camino Lc6 hasta la cabeza de vías central de la est. Přerov hasta el nivel de la señal de agrupamiento Se88.
-1 s después (a las 16:22:22 h) la señal de camino Lc6 comenzó a mostrar la indicación «Maniobra permitida»;
+por acción automática del SZZ se realizó el cierre del itinerario de maniobra para la maniobra de la unidad de maniobra desde la SK n.º 6 desde la señal de itinerario Lc6 hasta la cabeza de vías central de la est. Přerov hasta el nivel de la señal de agrupamiento Se88.
+1 s después (a las 16:22:22 h) la señal de itinerario Lc6 comenzó a mostrar la señal «Maniobra permitida»;
 v 16:22:58 h
-la unidad de maniobra, con su extremo delantero, superó el nivel de la señal de camino Lc6 y entró en la cabeza de vías central, ocupando el KÚ «V54-59» (desvíos n.º 54 y 59);
+la unidad de maniobra con su frente pasó más allá del nivel de la señal de itinerario Lc6 y entró en la cabeza de vías central, ocupó el CU «V54-59» (agujas n.º 54 y 59);
 v 16:23:34 h
-la unidad de maniobra liberó el KÚ «V69» (desvío n.º 69) y se encontraba íntegramente en la cabeza de vías central entre las señales de agrupamiento Se79 (válida para la circulación de DV en sentido contrario, es decir, hacia la SK del recinto de la estación de pasajeros de la est. Přerov) y Se88.
+la unidad de maniobra liberó el CU «V69» (aguja n.º 69) y se encontraba íntegramente en la cabeza de vías central entre las señales de agrupamiento Se79 (válida para la circulación de DV en sentido contrario, es decir, hacia la SK del recinto de la estación de pasajeros de la est. Přerov) y Se88.
 De lo anterior se deduce que toda la unidad de maniobra pasó la señal no transponible válida para la maniobra, con la que debía permitirse la maniobra en sentido contrario (en este caso concreto se trataba de la señal de agrupamiento Se79), es decir, desde la cabeza de vías central de vuelta a la SK del recinto de la estación de pasajeros de la est. Přerov;
 v 16:23:41 h
-mediante operación normal del SZZ de la est. Přerov, el despachador de sección 1D CDP Přerov introdujo las órdenes para la maniobra de la unidad de maniobra desde la cabeza de vías central desde la señal de agrupamiento Se79 a través del desvío n.º 69 hasta la SK n.º 2 hasta el nivel de la señal de salida S2, situada en el pk 183,641, es decir, de vuelta al recinto de la estación de pasajeros de la est. Přerov;
-
+mediante operación normal del SZZ de la est. Přerov, el despachador de sección 1D CDP Přerov introdujo las operaciones para la maniobra de la unidad de maniobra desde la cabeza de vías central desde la señal de agrupamiento Se79 a través de la aguja n.º 69 hasta la SK n.º 2 hasta el nivel de la señal de salida S2, situada en el pk 183,641, es decir, de vuelta al recinto de la estación de pasajeros de la est. Přerov;
 
 ## Página 28
+
 
 v 16:23:57 h
 por acción automática del SZZ se realizó el bloqueo del itinerario de maniobra para la circulación de la unidad de maniobra desde la cabeza de vías central desde la señal de agrupamiento Se79 hasta la SK n.º 2 hasta el nivel de la señal de salida S2.
@@ -902,35 +899,34 @@ v 16:28:04 h
 mediante operación normal del SZZ de la est. Přerov, el despachador director 1D CDP Přerov introdujo las órdenes para la maniobra de la unidad de maniobra desde la SK n.º 2 desde la señal de salida S2 a través de los desvíos n.º 34, 23, 17 y 13 hasta la cabeza de vías Dluhonice-Prosenice hasta el nivel de la señal de agrupamiento Se20, situada en el pk 183,955.
 Nota DI: la parte correspondiente del itinerario de maniobra solo pudo establecerse tras la salida del tren Os 3225 desde la SK n.º 4 de la est. Přerov hacia el TK n.º 1 del tramo intermedio Přerov – Prosenice, ya que su parte parcial [concretamente la parte de la cabeza de vías Dluhonice-Prosenice entre la señal de salida S2 y la señal de agrupamiento Se20, es decir, el KÚ «V23-34» (desvíos n.º 23 y 34) y «V13-17» (desvíos n.º 13 y 17)] utilizaba los mismos componentes (elementos) de la infraestructura de la vía que el itinerario de tren establecido para el tren Os 3225. Según la lógica de dependencias del SZZ, por tanto, no era posible establecer mediante la operación del SZZ el itinerario de maniobra asegurado en el tramo indicado;
 
-
 ## Página 29
 
 v 16:28:07 h
-el tren Os 3225 liberó el KÚ «V7-9» (desvíos n.º 7 y 9) y se encontraba íntegramente en la vía de la cabeza de vías de Prosenice;
+el tren Os 3225 liberó el KÚ „V7-9“ (agujas n.º 7 y 9) y se encontraba íntegramente en la vía de la cabecera de Prosenice;
 v 16:28:18 h
-por acción automática del SZZ se realizó el bloqueo del itinerario de maniobra para la circulación de la unidad de maniobra desde la SK n.º 2 desde la señal de salida S2 hasta la cabeza de vías Dluhonice-Prosenice de la est. Přerov hasta el nivel de la señal de agrupamiento Se20.
-2 s después (a las 16:28:20 h) la señal de salida S2 comenzó a mostrar la indicación «Maniobra permitida»;
+por acción automática del SZZ se realizó el cierre de la ruta de maniobras para la circulación de la unidad de maniobras desde la SK n.º 2 desde la señal de salida S2 hacia la cabecera dluhonicko-prosenické de la est. Přerov hasta el nivel de la señal de clasificación Se20.
+2 s después (v 16:28:20 h) la señal de salida S2 comenzó a indicar la señal „Posun dovolen“ (maniobras permitidas);
 v 16:28:23 h
-el tren Os 3225 ocupó el KÚ «1T6_L», es decir, entró en el TK n.º 1 del tramo intermedio Přerov – Prosenice;
+el tren Os 3225 ocupó el KÚ „1T6_L“, es decir, entró en la TK n.º 1 del tramo entre estaciones Přerov – Prosenice;
 v 16:28:29 h
-el tren Os 3225 liberó el KÚ «1LK» (vía de la cabeza de vías de Prosenice de la est. Přerov) y se encontraba íntegramente en el TK n.º 1 del tramo intermedio Přerov – Prosenice;
+el tren Os 3225 liberó el KÚ „1LK“ (vía de la cabecera de Prosenice de la est. Přerov) y se encontraba íntegramente en la TK n.º 1 del tramo entre estaciones Přerov – Prosenice;
 v 16:28:39 h
-la unidad de maniobra, con su extremo delantero, superó el nivel de la señal de salida S2 y entró en la cabeza de vías Dluhonice-Prosenice, ocupando el KÚ «V23-34» (desvíos n.º 23 y 34);
+la unidad de maniobras pasó con su extremo delantero más allá del nivel de la señal de salida S2 y entró en la cabecera dluhonicko-prosenické, ocupando el KÚ „V23-34“ (agujas n.º 23 y 34);
 v 16:28:47 h
-la unidad de maniobra liberó el KÚ «2K» (SK n.º 2) y se encontraba íntegramente en la cabeza de vías Dluhonice-Prosenice entre la señal de salida S2 y la señal de agrupamiento Se27 válida para la circulación de DV en sentido contrario, es decir, hacia la SK del recinto de la estación de pasajeros de la est. Přerov;
+la unidad de maniobras liberó el KÚ „2K“ (SK n.º 2) y se encontraba íntegramente en la cabecera dluhonicko-prosenické entre la señal de salida S2 y la señal de clasificación Se27 válida para la circulación de DV en sentido contrario, es decir, hacia la SK del recinto de la estación de pasajeros de la est. Přerov;
 v 16:28:55 h
-la unidad de maniobra continuó la marcha en la cabeza de vías Dluhonice-Prosenice y ocupó el KÚ «V13-17» (desvíos n.º 13 y 17) situado entre las señales de agrupamiento Se27 (válida para la circulación de DV en sentido contrario, es decir, hacia la SK del recinto de la estación de pasajeros de la est. Přerov) y Se20;
+la unidad de maniobras continuó la marcha en la cabecera dluhonicko-prosenické y ocupó el KÚ „V13-17“ (agujas n.º 13 y 17) situado entre las señales de clasificación Se27 (válida para la circulación de DV en sentido contrario, es decir, hacia la SK del recinto de la estación de pasajeros de la est. Přerov) y Se20;
 v 16:29:04 h
-la unidad de maniobra liberó el KÚ «V23-34» (desvíos n.º 23 y 34) y se encontraba íntegramente entre las señales de agrupamiento Se27 (válida para la circulación de DV en sentido contrario, es decir, hacia la SK del recinto de la estación de pasajeros de la est. Přerov) y Se20, es decir, entre el pk 183,833 y el 183,955 (= 122 m);
+la unidad de maniobras liberó el KÚ „V23-34“ (agujas n.º 23 y 34) y se encontraba íntegramente entre las señales de clasificación Se27 (válida para la circulación de DV en sentido contrario, es decir, hacia la SK del recinto de la estación de pasajeros de la est. Přerov) y Se20, es decir, entre km 183,833 y 183,955 (= 122 m);
 v 16:29:06 h
-mediante operación normal del SZZ de la est. Přerov, el despachador director 1D CDP Přerov introdujo las órdenes para la circulación del tren Nex 45066 desde la SK n.º 1 de la est. Přerov desde la señal de salida S1 a través de los desvíos n.º 30, 25, 15, SK n.º 1a, desvíos n.º 9 y 7 hasta el TK n.º 1 del tramo intermedio Přerov – Prosenice;
+mediante el funcionamiento normal del SZZ de la est. Přerov, el despachador de control 1D CDP Přerov introdujo las operaciones para la circulación del tren Nex 45066 desde la SK n.º 1 de la est. Přerov desde la señal de salida S1 a través de las agujas n.º 30, 25, 15, SK n.º 1a, agujas n.º 9 y 7 hacia la TK n.º 1 del tramo entre estaciones Přerov – Prosenice;
 v 16:29:07 h
-### Producción de la MU – se produjo la ocupación del KÚ «V10-12» (desvíos n.º 10 y 12) situado en la cabeza de vías Dluhonice-Prosenice de la est. Přerov.
-Nota DI: la causa de la ocupación del KÚ «V10-12» fue, en ese momento, el paso de la señal de agrupamiento Se20, que mostraba la indicación «Maniobra prohibida», por la unidad de maniobra compuesta por el HDV 460.079-7, el VDV 063.420-4 y el HDV 460.080-5.
-Al mismo tiempo se produjo, tras la orden previa del despachador de línea para el establecimiento del itinerario de tren para la circulación del tren Nex 45066 desde la SK n.º 1 hacia el TK n.º 1 Přerov – Prosenice realizada a las 16:29:06 h, la «BP de control del cambio de la ESA» del par de desvíos n.º 9 y 12, a la que precedió una comprobación realizada por el SZZ del cumplimiento de las condiciones para el cambio seguro del par de desvíos correspondiente, entre otras, si los KÚ pertinentes estaban libres. Dicha comprobación se realizó 200 milisegundos antes de la ocupación del KÚ V10-12, es decir, antes de la producción de la MU;
-
+### surgimiento de la MU – se produjo la ocupación del KÚ „V10-12“ (agujas n.º 10 y 12) situado en la cabecera dluhonicko-prosenické de la est. Přerov.
+Nota DI: la causa de la ocupación del KÚ „V10-12“ fue, en ese momento, el paso de la señal de clasificación Se20, que indicaba la señal „Posun zakázán“ (maniobras prohibidas), por la unidad de maniobras formada por el HDV 460.079-7, el VDV 063.420-4 y el HDV 460.080-5.
+Al mismo tiempo se produjo, tras la operación previa del despachador de línea para el establecimiento de la ruta de tren para la circulación del tren Nex 45066 desde la SK n.º 1 hacia la TK n.º 1 Přerov – Prosenice realizada a las 16:29:06 h, la „BP ovládání výměny ESA“ (BP de control del cambio ESA) del par de agujas n.º 9 y 12, a la que precedió la comprobación, realizada por el SZZ, del cumplimiento de las condiciones para el cambio seguro del citado par de agujas, entre otras, si los KÚ correspondientes estaban libres. Dicha comprobación se realizó 200 milisegundos antes de la ocupación del KÚ V10-12, es decir, antes del surgimiento de la MU;
 
 ## Página 30
+
 
 v 16:29:08 h
 el SZZ generó la orden de control para el cambio del par de desvíos n.º 9 y 12 de la posición «-» a la posición «+»; 95)
@@ -954,6 +950,7 @@ Al cambio de posición del par de desvíos n.º 9 y 12 precedió la acción auto
 «Verificar mediante ensayo el correcto acoplamiento de la indicación del tramo de vía del desvío con el conjunto de control del desvío (el conmutador) en el ASW. Probar en ambas posiciones del desvío. Probar la parada automática del desvío en la posición final, en caso de ocupación del tramo de desvío durante el cambio.».
 
 ## Página 31
+
 
 En relación con lo anterior, puede constatarse que el SZZ de la estación de Přerov funcionó correctamente en el momento de la creación de la MU, ya que el cambio de posición del par de agujas n.º 9 y 12 se inició a las 16:29:07 h, mediante la comprobación y evaluación de todas las condiciones para un cambio de posición seguro, que en ese momento, es decir, en el momento de la creación de la MU, pero inmediatamente antes de la marcha no autorizada de la unidad de maniobras más allá del nivel de la señal de clasificación Se20, se cumplían, y durante el cambio de posición no podía interrumpirse el cambio de posición iniciado, aunque a las 16:29:07 h se produjo la ocupación del KÚ V10-12 y posteriormente a las 16:29:12 h también del KÚ V7-9;
 •
@@ -980,6 +977,7 @@ En las líneas con circulación exclusiva de trenes bajo supervisión de ETCS, s
 
 ## Página 32
 
+
 ### 3.1.9 Cualquier otra información relevante para los fines de la descripción del suceso y de la información básica
 
 Resumen de las explicaciones presentadas por los empleados del operador de la vía y del transportista, incluidas las personas en relación contractual:
@@ -1001,8 +999,8 @@ maquinista de la unidad de maniobras
 ◦durante la circulación de la DV de la unidad de maniobras antes de la creación de la MU en cuestión no se produjeron averías ni fallos, la DV se comportó de forma estándar;
 ◦antes de la creación de la MU la visibilidad desde la cabina de la DV de la unidad de maniobras que conducía no estaba limitada de ninguna manera, no tenía ninguna objeción sobre la disposición de la posición de mando del maquinista;
 
-
 ## Página 33
+
 
 ◦durante todo el tiempo de circulación de la unidad de maniobras mantuvo abiertas las puertas de la cabina del maquinista al compartimento de servicio y no sabía si y quién se encontraba en las puertas abiertas ni qué actividad desempeñaba, ya que este espacio se encontraba a sus espaldas. Las llaves de las puertas de entrada desde el andén público al compartimento de servicio las tenían disponibles, además de él, el jefe de tren y también el acompañante de los vagones históricos;
 ◦en el momento de la creación de la MU estaba solo en la cabina del maquinista, pero en el momento de presentar la explicación ya no recordaba si durante el paso de maniobras desde la cabecera central al SK n.º 2, donde se detuvo un momento para hablar brevemente por la ventana con un colega maquinista que estaba con su composición en el SK muerto n.º 5, había en la cabina con él el acompañante de los vagones históricos. No tenía ningún conocimiento sobre si alguien se encontraba en el compartimento de servicio después de la salida del SK n.º 2;
@@ -1013,6 +1011,7 @@ Nota DI: durante todo el tiempo de realización del paso de maniobras con la EMJ
 ◦respecto al hecho de que, de acuerdo con la "Orden de transporte de envío excepcional CZ MZ 2768-25" (también denominada Orden URMIZA), emitida el 13 de octubre de 2025 por la unidad URMIZA y más allá de las disposiciones originales del transportista ČD, el tren Os 10893 debía estar compuesto originalmente exclusivamente por una unidad de tres vagones de la serie 460, indicó que unos días antes de la circulación del tren Os 10893 fue contactado por el comercial de la unidad organizativa CHV con la pregunta de si la unidad eléctrica de la serie 460 podía transportar 6 vagones históricos de dos ejes. Dada la masa real de dichos vagones, adquirió la convicción de que el transporte de 6 vagones históricos de dos ejes, cuya masa era similar a la masa de 3 vagones insertados de la serie 063, y también teniendo en cuenta las condiciones de pendiente de la ruta del tren en cuestión, era posible. Por lo tanto, fue
 
 ## Página 34
+
 
 en la est. Olomouc hl. n. 6 vehículos de dos ejes TDV fueron incorporados al tren Os 10893.
 Toda la comunicación en este asunto se realizó exclusivamente por medios de telecomunicaciones.
@@ -1027,8 +1026,8 @@ jefe de despacho 1D CDP Přerov
 ◦el 26. 10. 2025 desempeñaba su turno diurno en la sala de despacho n.º 4 CDP Přerov, desde la cual, en colaboración con el despachador de sección 1D CDP Přerov, organizaba y dirigía el tráfico ferroviario en la est. Přerov y también operaba el SZZ de la est. Přerov, que hasta el momento de la aparición de la MU en cuestión mostraba un funcionamiento normal;
 ◦incorporó al turno descansado, durante el turno no experimentó ningún problema, su atención no estuvo dispersa en nada;
 
-
 ## Página 35
+
 
 ◦en algún momento de la tarde recibió del despachador operativo PD3 CDP Přerov la información de que el tren Os 10893, que según el horario debía circular desde el enlace Dluhonice hasta la est. Prosenice sin pasar por Přerov, circularía de forma desviada del horario a través de la est. Přerov. Tras la llegada del tren a Přerov debía realizarse una maniobra, consistente en el rodeo de la EMJ de la serie 460 en la SK con la composición estacionada de vehículos históricos TDV del tren Os 10893;
 ◦tras la llegada del tren Os 10893, que se detuvo en la est. Přerov en la SK n.º 6, el despachador de sección 1D CDP Přerov aseguró el traslado de la EMJ de la serie 460 desde la SK n.º 6 a través de la cabecera central hasta la SK n.º 2, lo que el transportista realizó mediante maniobras;
@@ -1045,8 +1044,8 @@ Nota DI: la ruta de maniobras establecida terminaba, por tanto, antes de la señ
 ◦inmediatamente después contactó con el maquinista de la unidad de maniobras, quien le comunicó que se había producido el descarrilamiento del VDV de la EMJ de la serie 460;
 ◦tras la constatación de la MU, es decir, la marcha no autorizada de la unidad de maniobras más allá del nivel de la señal de agrupamiento Se20 y el descarrilamiento del VDV de la EMJ de la serie 460, comunicó su aparición según el Esquema de Comunicación del CDP Přerov – sala n.º 4.
 
-
 ## Página 36
+
 
 Resumen de las declaraciones prestadas por otros testigos:
 •
@@ -1067,8 +1066,8 @@ Os 10893, que continuó su marcha por el puente sobre el río Bečva,
 hasta las 16:17:45 h
 situado en el km 183,974, y a continuación en la SK n.º 6. De la grabación se deduce que el tren estaba señalizado con la señal «Inicio de tren», ya que en la parte frontal del HDV 460.080-5, que circulaba a la cabeza del tren, había tres luces blancas encendidas en forma de triángulo isósceles,
 
-
 ## Página 37
+
 
 en el periodo
 entró en el encuadre de la cámara desde la dirección de la cabecera Dluhonice-Prosenice el tren
@@ -1112,6 +1111,7 @@ unidad de maniobras
 Tab. n.º 1: Parte parcial de la comunicación entre el maquinista de la unidad de maniobras y el despachador de sección 1D CDP Přerov.
 
 ## Página 38
+
 
 Transcripción de una parte de la comunicación mantenida entre el maquinista de la unidad de maniobras y el despachador de sección 1D CDP Přerov:
 Inicio de la conversación: 26. 10. 2025, 16:21:39 h                                                                                         Duración de la grabación: 4 s
@@ -1167,8 +1167,8 @@ de la unidad
 de maniobras
 Tab. n.º 5: Comunicación entre el maquinista de la unidad de maniobras y el despachador de sección 1D CDP Přerov.
 
-
 ## Página 39
+
 
 Transcripción de una parte de la comunicación mantenida entre el maquinista de la unidad de maniobras y el despachador de sección 1D CDP Přerov:
 Inicio de la conversación: 26. 10. 2025, 16:22:36 h                                                                                         Duración de la grabación: 3 s
@@ -1221,8 +1221,8 @@ Estupendo, bueno, dije tras la primera aguja de retorno, lo has repetido, y te h
 completamente a algún sitio, bueno, pues hemos terminado, gracias, bueno.
 Tab. n.º 10: Comunicación entre el maquinista de la unidad de maniobras y el despachador jefe 1D CDP Přerov.
 
-
 ## Página 40
+
 
 Transcripción de la comunicación mantenida entre el maquinista de la unidad de maniobras y el despachador jefe 1D 
 CDP Přerov:
@@ -1279,6 +1279,7 @@ Tab. n.º 15: Parte de la comunicación entre el maquinista de la unidad de mani
 
 ## Página 41
 
+
 ### 3.2 Descripción fáctica del suceso
 ### 3.2.1 Secuencia de hechos que condujeron al suceso excepcional
 El maquinista de la maniobra de maniobras asumió el mando del HDV del EMJ histórico de la serie 460, es decir, el HDV 
@@ -1328,10 +1329,10 @@ estaba afectado por un error, al indicar, en lugar de la instrucción dada, un l
 El despachador principal 1D CDP Přerov no reaccionó de ninguna manera a este hecho 
 (véanse los puntos 4.1.1 y 5.3 de esta ZZ).
 Para la parte (segunda) parcial de la maniobra de la maniobra de maniobras, que incluía la circulación de la maniobra de maniobras 
-desde la SK n.º 2 a través de la vía de la cabecera dluhonicko-prosenická de vuelta a la SK n.º 6, el despachador principal 
-
+desde la SK n.º 2 a través de la vía de la cabecera dluhonicko-prosenická de vuelta a la SK n.º 6, el despachador principal
 
 ## Página 42
+
 
 1D CDP Přerov estableció, mediante la operación normal del SZZ de la est. Přerov, una ruta de maniobra desde la SK n.º 2 hacia 
 la vía de la cabecera dluhonicko-prosenická, siendo que esta ruta de maniobra finalizaba 
@@ -1386,8 +1387,8 @@ de realizar trabajos de despeje (véase el punto 3.1.5 de esta ZZ);
 •
 20:07 h la persona autorizada de SŽ concedió el permiso para iniciar los trabajos de despeje;
 
-
 ## Página 43
+
 
 •
 21:20 h la persona autorizada de SŽ finalizó la inspección del lugar de aparición del MU;
@@ -1442,6 +1443,7 @@ y, al mismo tiempo, cumpliera siempre también el conjunto de maniobras de tráf
 
 ## Página 44
 
+
 ### Instrucciones y servicio de tráfico (parte del explotador de la vía)
 En la explotación de la vía se utilizaban instrucciones, entendiéndose bajo este término una orden, una indicación o, en su caso, una información dada oralmente, por escrito, por medio de un aparato de telecomunicaciones, de un aparato de seguridad, de un aparato técnico, mediante una señal, un rótulo o una pintura. Las instrucciones podían darse personalmente, directamente o por medio de un empleado, es decir, una instrucción mediada por un intermediario. En los casos en que se hubiera ordenado dar la instrucción directamente, podía hacerse personalmente, por medio de un aparato de telecomunicaciones, de un aparato de seguridad o de un aparato técnico, pero siempre sin intermediario. En los casos en que se hubiera ordenado la transmisión (respectivamente, recepción) comprobable de la instrucción, debía garantizarse de tal manera que posteriormente permitiera demostrar la transmisión (respectivamente, recepción) de la instrucción (p. ej., mediante un dispositivo de registro del explotador de la vía SŽ). Las instrucciones en el servicio de tráfico debían ser breves y comprensibles, a fin de excluir cualquier malentendido, no debían poner en peligro la seguridad de la explotación de la vía y del transporte ferroviario y debían ser acordes con la cualificación profesional tanto del empleado que daba la instrucción (en este caso concreto se trataba del jefe de despacho 1D CDP Přerov, respectivamente, del jefe de sección CDP Přerov) como del empleado que debía ejecutar la instrucción (en este caso concreto se trataba del maquinista).
 En este punto es necesario indicar que el servicio de tráfico, en el sentido del reglamento interno SŽ D1, se entendía como el conjunto de actividades realizadas conforme a los reglamentos internos de SŽ y de los transportistas, entre otras, para garantizar la circulación de trenes y de conjuntos de maniobras, incl. la organización de dicha actividad.
@@ -1450,8 +1452,8 @@ Para la transmisión/recepción de instrucciones relacionadas con la circulació
 Del registro de las conversaciones mantenidas en la MRS entre el jefe de despacho 1D CDP Přerov y el maquinista del conjunto de maniobras se desprende que el maquinista del conjunto de maniobras repitió incorrectamente a las 16:28:26 h la instrucción dada a las 16:28:14 h por el jefe de despacho 1D CDP Přerov – la recibió (véase el punto 3.1.9 de la presente ZZ). El jefe de despacho 1D CDP Přerov no discutió en modo alguno ni formuló objeción alguna a la recepción de la instrucción por parte del maquinista del conjunto de maniobras, cuyo contenido no correspondía al contenido de la instrucción por él dada.
 La constatación anterior no puede valorarse en relación causal con la aparición de la MU, ya que el final de la ruta de maniobras estaba claramente definido por la señal «Prohibido maniobrar» emitida por la señal de clasificación Se20 de la est. Přerov, y la persona que dirigía el transporte ferroviario (en este caso concreto se trataba del jefe de despacho 1D CDP Přerov) no autorizó mediante ninguna instrucción (ni de ningún modo) la circulación del conjunto de maniobras más allá de su nivel. Además, en el caso de que la maniobra hubiera de realizarse hipotéticamente hasta «..., hasta la primera en el puente …» (correctamente, hasta la vía de cabecera en dirección Prosenice, que es la continuación de la TK n.º 1 Prosenice – Přerov), entonces la señal de clasificación Se20 se encontraría en la ruta de maniobras desde la SK n.º 2 a la vía «primera» y, al
 
-
 ## Página 45
+
 
 emitir la señal «Prohibido maniobrar» por dicha señal, esta señal sería el lugar válido de finalización de la parte (parcial) de la ruta de maniobras, entendida por el maquinista al acordar la maniobra, cuya señal el maquinista del conjunto de maniobras estaría obligado a respetar.
 ### Constataciones:
@@ -1482,8 +1484,8 @@ En el caso de esta MU concreta es necesario relacionar la disposición anterior 
 ◦artículo 9 sección 1 apartado 6 del reglamento interno SŽ Z11:
 «El empleado que organiza y dirige el transporte ferroviario responde o corresponde conjuntamente, en la operación del ZR, por la disciplina de las comunicaciones orales en las llamadas redes «activas» de SŽ. Normalmente se trata de la MRS, que SŽ necesita necesariamente para organizar y dirigir el transporte ferroviario y para el cumplimiento de las obligaciones del explotador de la vía. …».
 
-
 ## Página 46
+
 
 ### Circulación de DV – maniobras
 En la dirección del transporte ferroviario, la DV podía desplazarse como tren o como maniobra en el ámbito de la estación con bifurcación de vías, o como maniobra entre estaciones, o como DV circulando por una vía excluida. Por el término maniobra se entendía toda circulación de DV realizada intencionada y organizadamente, salvo que se tratara de la circulación de un tren o de una maniobra entre estaciones. Conforme a la disposición del § 16 apartado 12 del Decreto n.º 173/1995 Sb., las actividades en la realización de maniobras se regían por los procedimientos tecnológicos establecidos por el explotador de la vía. Las maniobras podían, entre otras, realizarse en la est., siendo necesario que en las vías destinadas a la circulación de trenes diera siempre su conformidad la persona cualificada que dirigía la circulación de trenes por dichas vías. En la maniobra de DV por tracción no debía superarse la velocidad de 40 km·h-1 y en la maniobra de DV por empuje la velocidad de 30 km·h-1.
@@ -1505,6 +1507,7 @@ la señal luminosa «Maniobra permitida»
 
 ## Página 47
 
+
 la señal sólo era válida para una sola SK, informaba de la vía de maniobras establecida tras dicha señal y, al mismo tiempo, constituía el consentimiento para iniciar la maniobra;
 •
 la señal luminosa «Prohibido maniobrar»
@@ -1523,8 +1526,8 @@ la locomotora de cabeza HDV debía ser un vehículo histórico inscrito en el re
 •
 la circulación del tren debía realizarse a velocidad limitada – máx. 60 km·h-1;
 
-
 ## Página 48
+
 
 •
 en el puesto de conducción de la locomotora de cabeza HDV debían estar presentes dos maquinistas, desempeñando exclusivamente la función de maquinista;
@@ -1536,8 +1539,8 @@ En el sentido de los procedimientos tecnológicos del gestor de la infraestructu
 El gestor de la infraestructura SŽ, a través del organismo URMIZA, tras recibir la solicitud del operador ferroviario «Solicitud de consentimiento para el transporte de vehículos históricos sin ETCS», coordinaba las actividades conducentes a la evaluación y determinación de las condiciones de transporte de MZ, verificando, entre otros, la capacidad de paso espacial y la transponibilidad del envío para la ruta de transporte propuesta por el operador ferroviario, evaluando y estableciendo las condiciones de circulación para el transporte de MZ, emitiendo al operador ferroviario la aprobación (o en su caso, el rechazo del transporte de MZ), y elaborando para el operador ferroviario y para sus propios empleados de explotación participantes en la circulación de MZ la documentación con la que debían ser informados sobre la circulación y las condiciones de transporte de MZ. En la evaluación y verificación de la posibilidad de transporte de MZ debía respetarse el principio de que las condiciones de circulación establecidas debían perturbar lo mínimo posible la circulación fluida del transporte ferroviario.
 En caso de que el transporte de MZ hubiera sido evaluado favorablemente por el organismo URMIZA, dicho organismo elaboraba el «Permiso para envío excepcional» (también en adelante, Permiso MZ), en el que figuraría, entre otros, el plazo de validez del Permiso MZ, los datos sobre el tipo, dimensiones y peso del MZ, las series de DV autorizadas, la estación de origen, la estación de destino y la ruta establecida, incluida la alternativa, y las condiciones técnicas, de transporte y de circulación (operativas generales) bajo las que era posible realizar el transporte. El permiso estaba dirigido al operador ferroviario que hubiera solicitado la consulta del transporte de MZ.
 
-
 ## Página 49
+
 
 En términos generales, puede constatarse que, mediante el documento «Permiso para envío excepcional CZ MZ 2768-25», emitido el 23. 9. 2025 por el organismo URMIZA, el gestor de la infraestructura comunicaba al operador ferroviario ČD que dicho MZ, durante la vigencia del mismo, es decir, desde el 23. 9. 2025 hasta el 31. 12. 2025, por la ruta establecida:
 •
@@ -1549,6 +1552,7 @@ En relación con lo anterior y para la utilización de la comunicación de emerg
 En la investigación, en el marco de la determinación de las condiciones de transporte de MZ por el organismo URMIZA y de la información al tren por un empleado del gestor de la infraestructura en la est. Olomouc hl. n., no se detectó incumplimiento de las funciones y obligaciones del gestor de la infraestructura SŽ.
 
 ## Página 50
+
 
 El explotador de la vía SŽ, sobre la base de la Autorización MZ, elaboró la Orden URMIZA y el TJŘ para el tren Os 10893, con lo que permitió de facto al transportista realizar el 26. 10. 2025 la circulación del tren y cuyo itinerario contenía el punto de origen del tren (estación de origen) Olomouc hl. n. y el punto final del tren (estación de destino) Valašské Meziříčí (fuera de la est. Přerov). De la columna 1 «Dopravny, stanoviště» (Instalaciones, puestos) de la tabla TJŘ se deducía que el tren debía ser conducido fuera de la est. Přerov. De acuerdo con la Autorización MZ y la Orden URMIZA, el redactor en la columna 8 «r/%» de la tabla TJŘ indicó la velocidad establecida del tren de 60 km·h-1. En este punto es necesario señalar que, según los procedimientos tecnológicos del explotador de la vía SŽ, las instrucciones (información) contenidas en el TJŘ estaban destinadas principalmente a la conducción del tren por el maquinista. Sin embargo, durante el día 26. 10. 2025, el transportista ČD planteó la solicitud de que el tren Os 10893 en el tramo Olomouc hl. n. – Valašské Meziříčí fuera conducido nuevamente a través de la est. Přerov, lo que permitía la Autorización MZ, en la que también se establecía una ruta alternativa Prosenice – estación de pasajeros de Přerov – enlace Dluhonice y viceversa (véase este punto más arriba). Por este motivo, el explotador de la vía emitió para la circulación del tren Os 10893 una modificación del TJŘ, cuyo itinerario contenía el punto de origen del tren enlace Dluhonice y el punto final del tren (estación de destino) Valašské Meziříčí, que en el tramo parcial enlace Dluhonice – Valašské Meziříčí sustituyó al TJŘ original. En contradicción con la Autorización MZ y la Orden URMIZA, el explotador de la vía SŽ en la columna 8 «r/%» de la tabla prescribió mediante la citada modificación del TJŘ para el tramo enlace Dluhonice – Hranice na Moravě la velocidad establecida del tren de 80 km·h-1. Sin embargo, de la lógica de la cuestión se desprende que en este dato del TJŘ debían haberse reflejado todas las medidas de tráfico, es decir, también la limitación de velocidad a 60 km·h-1, es decir, la velocidad establecida por la Orden URMIZA para la circulación del EMJ histórico de la serie 460.
 Aunque el explotador de la vía SŽ indicó en el TJŘ modificado emitido el 26. 10. 2025, que en el tramo enlace Dluhonice – Valašské Meziříčí sustituyó al TJŘ original, un valor incorrecto (superior) de la velocidad establecida del tren, que no correspondía a las condiciones establecidas por la Autorización MZ y la Orden URMIZA, la citada constatación no puede valorarse en relación causal con la aparición de la MU, ya que la infracción de la normativa legal y de las normas internas relativas a las funciones y obligaciones del explotador de la vía SŽ se produjo en el momento en que el EMJ histórico de la serie 460 circulaba fuera de la est. Přerov como tren y antes de la acordada maniobra de maniobras, que debía realizarse en la est. Přerov y en la que se originó la citada MU. Además de lo anterior, es necesario volver a señalar que la obligación de informar al maquinista del tren Os 10893 sobre la limitación de velocidad del tren a 60 km·h-1 correspondía al transportista ČD (véase este punto más arriba y más abajo).
@@ -1566,8 +1570,8 @@ artículo 39 apartado 13 de la directriz de SŽ SM069:
 «Columna 8 “r/%”. En negrita se indica la velocidad establecida del tren en km/h, …».
 En el caso de esta MU concreta es necesario relacionar la disposición anterior con la definitoria:
 
-
 ## Página 51
+
 
 ◦artículo 1 apartado 1 de la directriz de SŽ SM069:
 «La directriz para la elaboración del horario de circulación y la asignación y utilización de la capacidad de la vía (en adelante “Directriz”) define las reglas para la presentación, recepción y procesamiento de solicitudes de capacidad de la vía, la construcción de horarios de circulación …»,
@@ -1584,8 +1588,8 @@ SK núm. 6 en la cabecera central desde la cabina del maquinista del HDV 460.080
 la cabecera central a través de SK núm. 2 en la cabecera dluhonice-prosenice desde la cabina del maquinista del HDV 460.079-7,
 es decir, siempre desde la cabina delantera del maquinista en el sentido de la marcha de la sección de maniobras. El permiso para iniciar las maniobras desde SK núm. 2 en la vía de la cabecera dluhonice-prosenice, es decir, para realizar
 
-
 ## Página 52
+
 
 la última parte parcial de las maniobras realizadas en dirección norte, que era válida solo para el recorrido de maniobras concreto establecido desde el aparato de señalización de salida S2 en la vía de la cabecera dluhonice-prosenice hasta el nivel del aparato de señalización de clasificación Se20, lo dio el despachador director 1D CDP Přerov al maquinista de la sección de maniobras a las 16:28:20 h con la señal «Maniobras permitidas» emitida por un aparato de señalización fijo válido para las maniobras, en este caso concreto se trataba del aparato de señalización de salida S2, válido solo para SK núm. 2. Al maquinista de la sección de maniobras, que era simultáneamente el empleado que dirigía las maniobras, la señal «Maniobras permitidas» le permitía poner la sección de maniobras en movimiento y continuar la marcha en dirección a la cabecera dluhonice-prosenice. Tras pasar el aparato de señalización de salida S2 a las 16:28:39 h y durante la marcha posterior por la vía de la cabecera dluhonice-prosenice hacia el aparato de señalización de clasificación Se20, que emitía la señal «Maniobras prohibidas», no detectó dicha señal mediante la observación de la vía y las señales – no observó si el aparato de señalización correspondiente permitía su circulación – y a continuación a las 16:29:07 h continuó la marcha más allá de dicho aparato de señalización de clasificación (véanse los puntos 3.1.7, 3.1.8 y 3.1.9 de esta ZZ), cuya señal emitida prohibía la marcha posterior de la sección de maniobras. De lo anterior se deduce que el maquinista de la sección de maniobras tenía la obligación de detener el EMJ de la serie 460 (con el frente del HDV 460.079-7 principal) antes del aparato de señalización de clasificación Se20 y no de continuar la marcha por la vía de la cabecera dluhonice-prosenice en dirección a la est. Prosenice.
 ### Constatación:
@@ -1617,35 +1621,35 @@ artículo 189 apartado 4 de la norma interna de SŽ D1:
 ## Página 53
 
 •
-art. 208 apartado 3 letra a) de la norma interna SŽ D1:
-«Obligaciones del maquinista – El maquinista está obligado, durante las maniobras, a cumplir las instrucciones dadas por las señales de los aparatos de enclavamiento válidos para las maniobras.»;
+art. 208 apartado 3 letra a) de la normativa interna SŽ D1:
+"Obligaciones del maquinista – El maquinista está obligado, durante las maniobras, a cumplir las instrucciones dadas por las señales de los aparatos de vía válidos para las maniobras.";
 •
-art. 31 letra d) de la norma interna ČD V2:
-«La tripulación de locomotora está obligada, en particular, a vigilar durante la marcha del tren o de la unidad de maniobra la vía y la instalación de vías, incluido el tendido de tracción, y a ceñirse a las señales y a las instrucciones ordenadas.»;
+art. 31 letra d) de la normativa interna ČD V2:
+"La tripulación de locomotora está obligada, en particular, a vigilar durante la circulación del tren o de la unidad de maniobra la vía y la instalación de vías, incluida la línea de tracción, y a regirse por las señales y las instrucciones ordenadas.";
 •
-art. 102 de la norma interna ČD V2:
-«Durante las maniobras, la tripulación de locomotora se ajusta a las disposiciones de la norma del gestor de la vía, del transportista ČD y de los documentos relacionados (Reglamentos de servicio de enlace, Reglamentos de servicio de los puestos de ČD, Reglamentos de estación, etc.).».
-Durante las maniobras, el maquinista de la unidad de maniobra estaba obligado, en particular, a cumplir las condiciones de marcha según las condiciones de visibilidad, entendiéndose, en el sentido de las normas legales e internas del gestor de la vía y del transportista, por marcha la de la DV guiada únicamente por la visión del maquinista. En el caso de que durante las maniobras la DV fuera remolcada y la locomotora de cabeza (HDV) se condujera desde el puesto de conducción frontal en el sentido de la marcha de la unidad de maniobra, el maquinista de la unidad de maniobra no podía superar la velocidad de 40 km·h-1.
-De los datos registrados por el velocímetro electrónico instalado en la HDV 460.079-7, desde la cual se condujo la marcha de la unidad de maniobra, se desprende, entre otros, que la velocidad ordenada de 40 km·h-1 de la unidad de maniobra durante la maniobra de remolque realizada en la est. Přerov fue superada en el tiempo comprendido entre las 16:28:36 h y las 16:28:47 h en una distancia de 126 m en 2 km·h-1, es decir, en un 5 %, y ello en el momento más tardío, las 16:28:47 h, a una distancia de 224 m antes del aparato de enclavamiento de clasificación Se20 (véase el punto 3.1.7 de la presente ZZ).
-La citada superación de la velocidad ordenada para las maniobras de remolque no puede valorarse en relación causal con la aparición de la MU, puesto que la infracción de las normas legales y de las normas internas relativas a las funciones y obligaciones del transportista ČD se produjo durante las maniobras en momentos y lugares de la vía anteriores al punto en el que el maquinista de la unidad de maniobra podía (debía) durante la maniobra de remolque, mediante la observación de la vía y de las señales, detectar la señal «Prohibido el paso de maniobras» indicada por el aparato de enclavamiento de clasificación Se20 y en el que disponía de tiempo suficiente para reaccionar a dicho hecho mediante la aplicación del freno de servicio de la unidad de maniobra y detener la unidad de maniobra – la EMJ histórica de la serie 460 – de forma segura antes del lugar indicado.
+art. 102 de la normativa interna ČD V2:
+"Durante las maniobras, la tripulación de locomotora se rige por las disposiciones de la normativa del gestor de la infraestructura, del transportista ČD y de los documentos relacionados (Reglamentos de circulación de enlaces, Reglamentos de circulación de los puestos de ČD, Reglamentos de estación, etc.).".
+Durante las maniobras, el maquinista de la unidad de maniobra estaba obligado, en particular, a cumplir las condiciones de circulación según las condiciones de visibilidad, entendiendo por tal, en el sentido de las normas legales e internas del gestor de la infraestructura y del transportista, la circulación de la DV guiada únicamente por la visibilidad del maquinista. En el caso de que durante las maniobras la DV fuera remolcada y el vehículo motriz principal (HDV) se condujera desde el puesto de conducción frontal en el sentido de la circulación de la unidad de maniobra, el maquinista de la unidad de maniobra no podía superar la velocidad de 40 km·h-1.
+De los datos registrados por el velocímetro electrónico instalado en el HDV 460.079-7, desde el cual se dirigía la circulación de la unidad de maniobra, se desprende, entre otros, que la velocidad ordenada de 40 km·h-1 de la unidad de maniobra durante la maniobra realizada en la est. Přerov por remolque fue superada en el tiempo comprendido entre las 16:28:36 h y las 16:28:47 h en un trayecto de 126 m en 2 km·h-1, es decir, en un 5 %, y ello en el momento más tardío, las 16:28:47 h, a una distancia de 224 m antes de la señal de agrupamiento Se20 (véase el punto 3.1.7 de la presente ZZ).
+La citada superación de la velocidad ordenada para las maniobras por remolque no puede valorarse en relación causal con la aparición del MU, puesto que la infracción de las normas legales y de las normas internas relativas a las funciones y obligaciones del transportista ČD se produjo durante las maniobras en momentos y lugares de la vía anteriores al punto en el que el maquinista de la unidad de maniobra podía (debía) detectar, durante la maniobra por remolque mediante la observación de la vía y de las señales, la señal "Prohibido maniobrar" emitida por la señal de agrupamiento Se20, y donde disponía de tiempo suficiente para reaccionar a dicha circulación utilizando el frenado operativo de la unidad de maniobra y detener la unidad de maniobra – la EMJ histórica de la serie 460 – de forma segura antes del lugar señalado.
 ### Hallazgos:
 En la investigación se constató la infracción de las normas legales y de las normas internas relativas a las funciones
-### y obligaciones del transportista ČD, al margen de la relación causal con la MU:
+### y obligaciones del transportista ČD, al margen de la relación causal con el MU:
 •
 § 35 apartado 1 letra a) de la Ley n.º 266/1994 Sb.:
-«El transportista está obligado a explotar el transporte ferroviario de acuerdo con las reglas de explotación del transporte ferroviario, la licencia vigente y el contrato celebrado con el gestor de la vía sobre la explotación del transporte ferroviario en la vía,»;
+"El transportista está obligado a explotar el transporte ferroviario de acuerdo con las reglas de explotación del transporte ferroviario, la licencia vigente y el contrato celebrado con el gestor de la infraestructura para la explotación del transporte ferroviario en la vía,";
 •
 § 35 apartado 1 letra f) de la Ley n.º 266/1994 Sb.:
-«El transportista está obligado a ceñirse, en la explotación del transporte ferroviario, a las instrucciones del gestor de la vía impartidas durante la organización del transporte ferroviario,»;
+"El transportista está obligado a regirse, durante la explotación del transporte ferroviario, por las instrucciones del gestor de la infraestructura impartidas al organizar el transporte ferroviario,";
 •
-§ 16 apartado 3 del decreto n.º 173/1995 Sb.:
-«En el remolque de vehículos ferroviarios no debe superarse la velocidad de 40 km·h-1 …»;
+§ 16 apartado 3 del Decreto n.º 173/1995 Sb.:
+"Durante el remolque de vehículos ferroviarios no debe superarse la velocidad de 40 km·h-1. …";
 •
-art. 204 apartado 5 de la norma interna SŽ D1:
-«Durante las maniobras no debe superarse la velocidad: 40 km/h, si los vehículos son remolcados y el vehículo de cabeza se conduce desde el puesto de conducción frontal en el sentido de la marcha de la unidad de maniobra;»;
-
+art. 204 apartado 5 de la normativa interna SŽ D1:
+"Durante las maniobras no debe superarse la velocidad: 40 km/h, si los vehículos son remolcados y el vehículo motriz se conduce desde el puesto de conducción frontal en el sentido de la circulación de la unidad de maniobra;";
 
 ## Página 54
+
 
 •
 art. 31 letra d) de la norma interna ČD V2:
@@ -1667,8 +1671,8 @@ En la investigación se constató la infracción de las normas legales y de las 
 § 35 apartado 1 letra f) de la Ley n.º 266/1994 Sb.:
 «El transportista está obligado a ceñirse, en la explotación del transporte ferroviario, a las instrucciones del gestor de la vía impartidas durante la organización del transporte ferroviario,»;
 
-
 ## Página 55
+
 
 •
 § 35 apartado 1 letra s) del decreto n.º 173/1995 Sb.:
@@ -1689,38 +1693,37 @@ El transportista estaba obligado a comunicar al gestor de la vía SŽ todas las 
 Asimismo, el transportista estaba obligado a comunicar todos los servicios y maniobras requeridos en la ruta del tren. Las solicitudes que surgieron durante la marcha del tren debían ser, según los procedimientos tecnológicos del gestor de la vía contenidos en la norma interna SŽ D1, acordadas con el despachador de explotación correspondiente, y con la antelación suficiente para que pudieran ser acordadas con la estación correspondiente. Estas disposiciones se referían a la solicitud planteada por el transportista al gestor de la vía durante el día 26. 10. 2025, para que el tren Os 10893 en el tramo Olomouc hl. n. – Valašské Meziříčí fuera conducido nuevamente a través de la est. Přerov (véase este punto más arriba).
 El maquinista que conducía la DV del tren Os 10893 debía estar equipado, durante la conducción de la DV, con las tablas de condiciones de vía de los tramos en los que debía realizarse la marcha del tren y con el JŘ que contenía, entre otros, la velocidad establecida del tren. El tren no podía superar la velocidad máxima permitida que fue establecida por el contenido de la parte «Condiciones de tráfico» de la Orden URMIZA, emitida el 13. 10. 2025 para la marcha de la EMJ histórica de la serie 460, que debía realizarse
 
-
 ## Página 56
 
-el 26. 10. 2025, donde se indicaba, entre otros: «Velocidad máx 60km/h». Para el transporte de envíos extraordinarios regían, entre otros, estos preceptos básicos:
+del 26. 10. 2025, donde se indicaba, entre otros: «Velocidad máx 60 km/h». Para el transporte de un envío extraordinario, entre otros, se aplicaban estas disposiciones básicas:
 •
-todas las condiciones para el transporte de envíos extraordinarios establecidas por URMIZA debían ser cumplidas;
+todas las condiciones para el transporte de un envío extraordinario establecidas por URMIZA debían cumplirse;
 •
-la ruta de transporte no podía ser modificada sin el consentimiento de URMIZA; sin embargo, si para algún envío extraordinario se hubiera establecido también una ruta alternativa, esta ruta podía ser utilizada;
+la ruta de transporte no podía modificarse sin el consentimiento de URMIZA; sin embargo, si para algún envío extraordinario se hubiera establecido también una ruta alternativa, esta ruta podía utilizarse;
 •
-sobre las condiciones para el transporte de envíos extraordinario, necesarias para el trabajo del maquinista, debía ser informado el maquinista por el transportista mediante una orden escrita.
-El transportista era responsable de que se cumplieran las condiciones ordenadas para el transporte de envíos extraordinarios.
-El transportista ČD tenía, en este caso concreto, según la norma interna SŽ D1, la obligación de informar al maquinista del tren Os 10893 sobre la velocidad máxima permitida mediante una orden escrita, a fin de que el maquinista, sobre la base de esta información, durante la conducción de la DV en marcha, no superara la velocidad máxima permitida establecida en el JŘ, respectivamente la velocidad limitada ordenada por la Autorización MZ y por la Orden URMIZA.
-De los datos registrados por el velocímetro electrónico instalado en la HDV 460.080-5 se desprende que la velocidad máxima permitida de 60 km·h-1 del tren Os 10893 fue superada en el tramo Olomouc hl. n. – Přerov:
-◦en el tiempo comprendido entre las 15:59:47 h y las 16:03:12 h en una distancia de 4 874 m hasta en 30 km·h-1, es decir, en un 50 %;
-◦en el tiempo comprendido entre las 16:04:20 h y las 16:15:48 h en una distancia de 13 934 m hasta en 23 km·h-1, es decir, en un 38 %;
-◦en el tiempo comprendido entre las 16:15:59 h y las 16:16:18 h en una distancia de 320 m hasta en 2 km·h-1, es decir, en un 3 %
-(véase el punto 3.1.7 de la presente ZZ).
-La superación de la velocidad máxima permitida establecida para la marcha del tren Os 10893 y la no información al maquinista del tren Os 10893 mediante una orden escrita sobre la limitación de velocidad ordenada durante el transporte de MZ, que el transportista ČD estaba obligado a realizar, no pueden valorarse en relación causal con la aparición de la MU, puesto que la infracción de las normas legales y de las normas internas relativas a las funciones y obligaciones del transportista ČD se produjo en el momento en que la EMJ histórica de la serie 460 se desplazaba fuera de la est. Přerov como tren, y antes del acuerdo de la maniobra que debía realizarse en la est. Přerov y en la que se produjo la MU en cuestión.
+el maquinista debía ser informado por el transportista, mediante orden escrita, de las condiciones para el transporte de un envío extraordinario necesarias para su trabajo.
+El transportista era responsable de que se cumplieran las condiciones ordenadas para el transporte de un envío extraordinario.
+En este caso concreto, el transportista ČD tenía, según la normativa interna de SŽ D1, la obligación de informar por orden escrita al maquinista del tren Os 10893 de la velocidad máxima permitida, para que el maquinista, basándose en esta información, no excediera al conducir la DV en marcha la velocidad máxima permitida fijada por el JŘ, respectivamente la velocidad reducida ordenada por la Permisión MZ y la Orden de URMIZA.
+De los datos registrados por el velocímetro electrónico instalado en el HDV 460.080-5 se desprende que la velocidad máxima permitida de 60 km·h-1 del tren Os 10893 fue excedida en el tramo Olomouc hl. n. – Přerov:
+◦entre las 15:59:47 h y las 16:03:12 h en una distancia de 4 874 m, hasta en 30 km·h-1, es decir, un 50 %;
+◦entre las 16:04:20 h y las 16:15:48 h en una distancia de 13 934 m, hasta en 23 km·h-1, es decir, un 38 %;
+◦entre las 16:15:59 h y las 16:16:18 h en una distancia de 320 m, hasta en 2 km·h-1, es decir, un 3 % (véase el punto 3.1.7 de la presente ZZ).
+La excedida de la velocidad máxima permitida fijada para la circulación del tren Os 10893 y la no información al maquinista del tren Os 10893, mediante orden escrita, de la velocidad reducida ordenada durante el transporte de MZ, que el transportista ČD tenía la obligación de realizar, no pueden valorarse en relación causal con la aparición de la MU, ya que la infracción de las disposiciones legales y de las normativas internas relativas a las funciones y obligaciones del transportista ČD se produjo en el momento en que el EMJ histórico de la serie 460 circulaba fuera de la est. Přerov como tren, y antes de la realización de la maniobra que debía efectuarse en la est. Přerov y en la que se originó la MU en cuestión.
 ### Hallazgos:
-En la investigación se constató la infracción de las normas legales y de las normas internas relativas a las funciones
+En la investigación se constató la infracción de disposiciones legales y de normativas internas relativas a las funciones
 ### y obligaciones del transportista ČD, al margen de la relación causal con la MU:
 •
-§ 35 apartado 1 letra a) de la Ley n.º 266/1994 Sb.:
-«El transportista está obligado a explotar el transporte ferroviario de acuerdo con las reglas de explotación del transporte ferroviario, la licencia vigente y el contrato celebrado con el gestor de la vía sobre la explotación del transporte ferroviario en la vía,»;
+§ 35 apartado 1 letra a) de la ley nº 266/1994 Sb.:
+«El transportista está obligado a explotar el transporte ferroviario de acuerdo con las reglas de explotación del transporte ferroviario, la licencia vigente y el contrato celebrado con el explotador de la vía para la explotación del transporte ferroviario en la vía,»;
 •
-§ 35 apartado 1 letra f) de la Ley n.º 266/1994 Sb.:
-«El transportista está obligado a ceñirse, en la explotación del transporte ferroviario, a las instrucciones del gestor de la vía impartidas durante la organización del transporte ferroviario,»;
+§ 35 apartado 1 letra f) de la ley nº 266/1994 Sb.:
+«El transportista está obligado a regirse, en la explotación del transporte ferroviario, por las instrucciones del explotador de la vía impartidas al organizar el transporte ferroviario,»;
 •
-§ 35 apartado 1 letra i), j) del decreto n.º 173/1995 Sb.:
-«Para la conducción de un vehículo ferroviario debe garantizarse que la persona que conduce el vehículo ferroviario durante la marcha no supere la velocidad máxima permitida, establecida por el horario de circulación o la velocidad limitada ordenada» y «conduzca la marcha del tren de acuerdo con el horario de circulación,».
+§ 35 apartado 1 letra i), j) del decreto nº 173/1995 Sb.:
+«Para la conducción de un vehículo ferroviario debe garantizarse que la persona que conduce el vehículo ferroviario no exceda, durante la marcha, la velocidad máxima permitida fijada por el horario de circulación o la velocidad reducida ordenada» y «conduzca la circulación del tren de acuerdo con el horario de circulación,».
 
 ## Página 57
+
 
 En el caso de esta MU concreta, es necesario relacionar la disposición anterior con:
 ◦§ 37 apartado 7 del decreto nº 173/1995 Sb.:
@@ -1744,8 +1747,8 @@ La autoridad nacional de seguridad es el DÚ, que de acuerdo con la ley nº 266/
 La función de la Agencia Ferroviaria de la Unión Europea es, además de garantizar, en el marco de sus competencias, que se mantenga en general la seguridad ferroviaria y que, en la medida de lo posible, se aumente de forma sistemática, entre otras, la emisión, renovación, suspensión y modificación de certificados únicos de seguridad, la limitación de su validez o su anulación, en cuestión en la que coopera con las autoridades nacionales de seguridad; asimismo, emite autorizaciones para la puesta en el mercado de vehículos ferroviarios y de tipos de vehículos, y está facultada para renovar, modificar, suspender o retirar las autorizaciones que haya emitido. La Agencia evalúa asimismo los proyectos de normativa nacional, etc.
 En la investigación no se detectó infracción de las funciones y obligaciones de la autoridad nacional de seguridad y de la Agencia Ferroviaria de la Unión Europea.
 
-
 ## Página 58
+
 
 ### 4.1.5 Entidades notificadas, entidades designadas y entidades dedicadas a la evaluación de riesgos
 En la investigación no se detectó infracción de las funciones y obligaciones de las entidades notificadas, de las entidades designadas y de las entidades dedicadas a la evaluación de riesgos.
@@ -1767,8 +1770,8 @@ En la investigación no se detectaron factores relacionados con la entidad respo
 4.2.6 Otros factores o consecuencias que se consideren relevantes a efectos de la investigación
 En la investigación no se detectaron otros factores relacionados con el MR, con la infraestructura ferroviaria o con las instalaciones técnicas.
 
-
 ## Página 59
+
 
 ### 4.3 Factores humanos
 ### 4.3.1 Características humanas e individuales
@@ -1785,8 +1788,8 @@ En la investigación no se detectaron factores relacionados con la formación pr
 ### 4.3.2 Factores laborales
 En el marco de la investigación de los factores laborales, el DI se ocupó asimismo del sistema de organización de la jornada laboral (de la prestación de servicios) de los empleados del gestor de la infraestructura y del transportista implicados en la MU, en relación con la posible influencia de la fatiga en su actuación.
 
-
 ## Página 60
+
 
 Debido a las causas y circunstancias de la ocurrencia de la MU en cuestión, en este IIF se analizan detalladamente únicamente los factores laborales relacionados con la actividad del maquinista de la maniobra, es decir, del tren Os 10893, y ello desde el principio de octubre de 2025 hasta la ocurrencia de la MU en cuestión.
 El maquinista de la maniobra, es decir, del tren Os 10893, trabajaba para el transportista ČD en virtud de una relación contractual desde el año 2020, en relación laboral primero con el tipo de trabajo (actividad laboral) convenido de maquinista en preparación y, tras obtener la licencia de maquinista y superar el examen de competencia profesional especial, con el tipo de trabajo (actividad laboral) convenido de maquinista.
@@ -1806,6 +1809,7 @@ En el marco de la investigación de los factores organizativos y las tareas, el 
 
 ## Página 61
 
+
 Al maquinista de la maniobra de maniobras, o del tren Os 10893, la empresa ČD realizó, desde julio de 2024 hasta la creación de la MU en cuestión, un total de 2 controles, en los cuales se detectaron deficiencias en el desempeño de las funciones del maquinista, consistentes en la sincronización (no actualización repetida) de la aplicación operativa electrónica MAPSIS en el EZZ-ST asignado al maquinista y en el desconocimiento de los cambios en las tablas de condiciones de la vía y del mensaje electrónico sobre la frenada del tren en el que se realizó el control.
 En la investigación no se detectaron por parte del gestor de la infraestructura SŽ y de la empresa ČD factores relacionados con la organización del trabajo o con las tareas laborales.
 ### 4.3.4 Factores relacionados con el entorno laboral
@@ -1824,35 +1828,34 @@ El sistema de gestión de los sujetos responsables del mantenimiento de los VF y
 ### 4.4.5 Resultados de la supervisión realizada por las autoridades nacionales de seguridad
 Atendiendo a los factores detectados y a las circunstancias de la creación de la MU, la supervisión de la autoridad de seguridad no guarda relación con la MU en cuestión.
 
-
 ## Página 62
 
-### 4.4.6 Aprobaciones, certificados y dictámenes de evaluación emitidos por la agencia, las autoridades nacionales de seguridad u otros sujetos de evaluación de la conformidad
-El gestor de la infraestructura operaba la vía en virtud de una autorización administrativa vigente y de un certificado de seguridad del gestor de la infraestructura. La empresa operaba el transporte ferroviario en virtud de una licencia vigente y de un certificado de empresa.
+### 4.4.6 Aprobaciones, certificados e informes de evaluación emitidos por la agencia, las autoridades nacionales de seguridad u otros organismos de evaluación de la conformidad
+El gestor de la infraestructura ferroviaria explotó la infraestructura en virtud de una autorización administrativa vigente y de un certificado de seguridad del gestor de la infraestructura ferroviaria. El transportista explotó el transporte ferroviario en virtud de una licencia válida y de un certificado del transportista.
 ### 4.4.7 Otros factores sistémicos
-En la investigación no se detectaron otros factores sistémicos.
-### 4.5 Sucesos anteriores de naturaleza similar
-La DI, en el período comprendido entre el 1. 1. 2020 y la fecha de creación de la MU en cuestión, registra en las vías ferroviarias, categoría nacional y regional, un total de 291 MU similares, en las que se produjo una circulación no autorizada de una maniobra más allá de la señal que prohíbe la circulación. Como consecuencia de dichas circulaciones no autorizadas de maniobras:
+En el curso de la investigación no se detectaron otros factores sistémicos.
+### 4.5 Sucesos anteriores de naturaleza análoga
+El DI, en el periodo comprendido entre el 1 de enero de 2020 y la fecha de ocurrencia de la MU objeto de estudio, registra en las infraestructuras ferroviarias, categoría nacional y regional, un total de 291 MU análogas, en las que se produjo una maniobra no autorizada de una unidad de maniobras más allá de la señal que prohíbe la circulación. Como consecuencia de dichas maniobras no autorizadas de unidades de maniobras:
 •
-2 personas resultaron con lesiones;
+2 personas resultaron con lesiones corporales;
 •
-en 5 casos se produjo una colisión de un VF con otro VF;
+en 5 casos se produjo una colisión entre una unidad de maniobras y otra unidad de maniobras;
 •
-en 44 casos un VF descarriló;
+en 44 casos una unidad de maniobras descarriló;
 •
-se produjo un daño total de 58 514 234 CZK.
-### La DI investigó, en el período anteriormente mencionado, las causas y circunstancias de la creación de 9 de las MU similares relacionadas a continuación en las vías ferroviarias, categoría nacional y regional:
+se produjo un daño total de 58 514 234 Kč.
+### El DI investigó, en el periodo anteriormente indicado, las causas y circunstancias de la ocurrencia de 9 de las MU análogas indicadas a continuación en las infraestructuras ferroviarias, categoría nacional y regional:
 •
-del 4. 2. 2020 en la est. Praha Masarykovo nádraží, donde se produjo una circulación no autorizada de una maniobra más allá del nivel de la señal Se2 en posición de prohibición de circulación y la posterior entrada en la vía de tren establecida del tren Os 8617. La causa inmediata de la MU fue el incumplimiento de la señal «Posun zakázán» de la señal de enclavamiento Se2 de la estación de ferrocarril Praha Masarykovo nádraží por parte del maquinista de la maniobra. La DI no emitió BD;
+del 4 de febrero de 2020 en la estación Praha Masarykovo nádraží, donde se produjo una maniobra no autorizada de una unidad de maniobras más allá del nivel de la señal Se2 en posición que prohíbe la circulación, y la posterior entrada en la vía de tren establecida del tren Os 8617. La causa inmediata de la MU fue el incumplimiento de la señalización "Prohibido el paso de maniobras" de la señal de maniobras Se2 de la estación ferroviaria Praha Masarykovo nádraží por parte del maquinista de la unidad de maniobras. El DI no emitió un BD;
 •
-del 18. 6. 2021 en la est. Čerčany, donde se produjo una circulación no autorizada de una maniobra (dos HDV activos acoplados – HDV en conducción de dos miembros) más allá de la señal Se12 que prohíbe la circulación y la posterior colisión con el tren detenido Os 9010. La causa inmediata de la MU fue el incumplimiento de la señal «Posun zakázán» de la señal de enclavamiento Se12 por parte del jefe de cuadrilla de maniobras al frente de la maniobra. La DI emitió un BD no relacionado con la MU en cuestión;
+del 18 de junio de 2021 en la estación Čerčany, donde se produjo una maniobra no autorizada de una unidad de maniobras (dos vehículos de tracción acoplados – vehículos de tracción en conducción de dos miembros) más allá de la señal Se12 que prohíbe la circulación, y la posterior colisión con el tren detenido Os 9010. La causa inmediata de la MU fue el incumplimiento de la señalización "Prohibido el paso de maniobras" de la señal de maniobras Se12 por parte del jefe de cuadrilla de maniobras al frente de la unidad de maniobras. El DI emitió un BD no relacionado con la MU objeto de estudio;
 •
-del 25. 10. 2021 en la est. Plzeň hl. n., donde se produjo una circulación no autorizada de una maniobra más allá de la señal Se508 que prohíbe la circulación, con el consiguiente descarrilamiento. La causa inmediata fue el incumplimiento de la señal «Posun zakázán» de la señal de enclavamiento Se508 de la estación de ferrocarril Plzeň hlavní nádraží, distrito Jižní Předměstí, por parte del maquinista de la maniobra. La DI no emitió BD;
+del 25 de octubre de 2021 en la estación Plzeň hl. n., donde se produjo una maniobra no autorizada de una unidad de maniobras más allá de la señal Se508 que prohíbe la circulación, con el posterior descarrilamiento. La causa inmediata fue el incumplimiento de la señalización "Prohibido el paso de maniobras" de la señal de maniobras Se508 de la estación ferroviaria Plzeň hlavní nádraží, sector Jižní Předměstí, por parte del maquinista de la unidad de maniobras. El DI no emitió un BD;
 •
-del 9. 11. 2022 en la est. Mělník, donde se produjo una circulación no autorizada de una maniobra más allá de la señal principal (de salida) S10 con señal de prohibición de circulación y la posterior colisión con el tren Nex 55530 en la estación de ferrocarril Mělník. La causa inmediata fue la maniobra no autorizada más allá de la señal principal (de salida) S10 con la señal «Stůj», precedida por la no comprobación directa por parte del maquinista de la maniobra traccionada de la indicación de la señal S10, a pesar de que desde su puesto era posible comprobar su señal de diversas maneras, y las deficiencias en la comunicación entre el maquinista
-
+del 9 de noviembre de 2022 en la estación Mělník, donde se produjo una maniobra no autorizada de una unidad de maniobras más allá de la señal principal (de salida) S10 con señalización que prohíbe la circulación, y la posterior colisión con el tren Nex 55530 en la estación ferroviaria Mělník. La causa inmediata fue la maniobra no autorizada más allá de la señal principal (de salida) S10 con la señalización "Alto", precedida de la falta de comprobación directa por parte del maquinista de la unidad de maniobras remolcada de la señalización de la señal S10, pese a que desde su puesto era posible comprobar su señalización de varias maneras, y las deficiencias en la comunicación entre el maquinista
 
 ## Página 63
+
 
 de la maniobra traccionada y el jefe de cuadrilla de maniobras al comprobar la indicación de la señal S10 a través de un intermediario, que condujeron a que la maniobra traccionada se pusiera en movimiento por una orden incorrecta, y a continuar la circulación más allá de la señal S10, a pesar de que la señal de esta no era conocida por el maquinista a partir de dicha orden. La DI emitió un BD no relacionado con la MU en cuestión;
 •
@@ -1873,8 +1876,8 @@ el incumplimiento de la señal «Posun zakázán» emitida por la señal de encl
 No se detectó ningún factor contribuyente por parte de la Inspección Ferroviaria.
 No se detectó ninguna causa sistémica por parte de la Inspección Ferroviaria.
 
-
 ## Página 64
+
 
 ### A summary of the analysis and conclusions with regard to the causes of the 
 occurrence
@@ -1916,6 +1919,7 @@ no haber incorporado (no haber tenido en cuenta) todas las medidas de circulaci�
 
 ## Página 65
 
+
 En el operador ferroviario ČD:
 •
 repetición (recepción) incorrecta de la instrucción por parte del maquinista de la maniobra de vagones, cuyo contenido no correspondía al contenido de la instrucción dada por el despachador de control 1D del Centro de Despacho Central Přerov;
@@ -1948,8 +1952,8 @@ exceso del límite de velocidad especificado para el tren regional de pasajeros 
 
 Atendiendo a las causas y circunstancias constatadas del suceso excepcional, la Inspección Ferroviaria no emite recomendaciones de seguridad, ya que no se han identificado datos que justificasen la emisión de una recomendación de seguridad en el marco de la prevención de la ocurrencia de sucesos excepcionales.
 
-
 ## Página 66
+
 
 ### RECOMENDACIONES DE SEGURIDAD
 
@@ -1968,22 +1972,22 @@ Certificado del autor de la firma:
 Nombre: Inspección Ferroviaria
 Emitido por: PostSignum Qualified CA 4
 
-
 ## Página 67
+
 
 ### ANEXOS
 
 Fig. n.º 5: Recorte de la imagen de la grabación del sistema de videovigilancia que documenta la vista general del lugar del suceso excepcional y la unidad histórica de tren eléctrico de la serie 460 descarrilada en su posición final tras el suceso excepcional
 Fuente: SŽ
 
-
 ## Página 68
+
 
 Fig. n.º 6, 7: Unidad histórica de tren eléctrico de la serie 460 descarrilada situada en la cabeza de vías de Dluhonice-Prosenice en su posición final tras el suceso excepcional
    Fuente: SŽ
 
-
 ## Página 69
+
 
 Fig. n.º 8: Bogie delantero descarrilado en el sentido de circulación de la maniobra de vagones (bogie "b") VDV 063.420-4 situado en su posición final tras el suceso excepcional en el desvío n.º 7
   Fuente: SŽ

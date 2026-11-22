@@ -10,13 +10,14 @@ chars: 166175
 ratio_longitud: 1.31
 tokens_in: 73557
 tokens_out: 52891
-verificacion: revisar
-notas_cifras: ["bloque 2: original bilingüe: se compara contra el idioma principal (CS)", "bloque 3: cifras cortas: 1/73", "bloque 4: cifras cortas: 3/90", "bloque 5: original bilingüe: se compara contra el idioma principal (CS); cifras cortas: 4/60", "bloque 6: cifras cortas: 1/85", "bloque 7: cifras cortas: 1/105"]
-avisos: ["bloque 5: ratio 1.67", "bloque 14: ratio 1.74", "bloque 19: ratio 2.02"]
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (PT)", "página 5: original bilingüe: se compara contra el idioma principal (EN)", "página 6: original bilingüe: se compara contra el idioma principal (PT)", "página 8: original bilingüe: se compara contra el idioma principal (CS)", "página 10: cifras cortas: 1/36", "página 11: cifras cortas: 2/36"]
 ---
+
 ## Página 1
+
 
 Inspección Ferroviaria
 República Checa
@@ -41,11 +42,12 @@ NIF: 75009561
 http://www.dicr.cz
 fax: (+420) 224 805 428
 
-
 ## Página 2
 
 
+
 ## Página 3
+
 
 # RESUMEN
 Grado:
@@ -90,11 +92,12 @@ gestor de infraestructura České dráhy, a. s.
 Se recomienda exigir la aplicación de la recomendación anterior por parte de todos los gestores de infraestructura ferroviaria que operen 
 líneas ferroviarias regionales.
 
-
 ## Página 4
 
 
+
 ## Página 5
+
 
 # Índice
 1 Resumen............................................................................................................................8
@@ -133,6 +136,7 @@ contractual.....................................................................
 
 ## Página 6
 
+
 3.2 Sistema de garantía de la seguridad.............................................................................17
 3.2.1 Organización marco y forma en que se emiten y ejecutan las instrucciones.....17
 3.2.2 Requisitos aplicables al personal del administrador de la infraestructura y del transportista y su cumplimiento.....................................................................................................24
@@ -159,10 +163,10 @@ contractual.....................................................................
 4.1 Descripción final del incidente.......................................................................33
 4.1.1 Descripción final del incidente basada en los hechos constatados en el punto 3..........................................................................................................33
 4.2 Análisis....................................................................................................................34
-4.2.1 Evaluación de los hechos constatados según el punto 3 y presentación de conclusiones sobre la causa del incidente 
-
+4.2.1 Evaluación de los hechos constatados según el punto 3 y presentación de conclusiones sobre la causa del incidente
 
 ## Página 7
+
 
 y la actuación de los servicios de rescate.......................................34
 4.3 Conclusiones.....................................................................................................................42
@@ -179,6 +183,7 @@ y la actuación de los servicios de rescate.....................................
  Imagen n.º 3: Vista del punto de incidente (PI) en el pk 4,981 desde la intersección de la carretera de primera categoría n.º 57 y de la carretera de tercera categoría n.º 44346.................................................................................46
 
 ## Página 8
+
 
 ## 1 RESUMEN
 Grupo de acontecimiento: accidente.
@@ -200,16 +205,16 @@ La Inspección Ferroviaria, como autoridad competente de acuerdo con lo dispuest
 1. negociar con los propietarios de las vías terrestres la adopción de las medidas de tráfico adecuadas para el cruce a nivel de las vías terrestres de primera categoría n.º 57 y de tercera categoría n.º 44346,
 situado en las inmediaciones del paso a nivel en el pk 4,981 de la línea ferroviaria, categoría regional, Opava východ – Hradec nad Moravicí. Las medidas de tráfico deben facilitar el giro seguro de los vehículos de carretera desde la vía terrestre
 
-
 ## Página 9
+
 
 de primera categoría n.º 57 a la vía terrestre de tercera categoría n.º 44346 y al paso a nivel en el pk 4,981, y en sentido contrario, impedir la detención de un vehículo de carretera que gire desde la vía terrestre de tercera categoría n.º 44346 a la vía terrestre de primera categoría n.º 57 en la zona de protección del paso a nivel;
 2. tener plenamente en cuenta en su medida para garantizar la explotación segura de la línea y del transporte ferroviario las recomendaciones de seguridad de la Inspección Ferroviaria, ya adoptadas anteriormente en el Informe sobre los resultados de la investigación de las causas y circunstancias de la producción del acontecimiento extraordinario, ref.: 2-1529/2007/DI, de fecha 25. 05. 2008, respecto al acontecimiento extraordinario de fecha 21. 09. 2007, a las 11:10 h.
 La recomendación de seguridad fue comunicada al gestor de la línea, que hasta el 30. 06. 2008 fueron Ferrocarriles Checos, a. s., y desde el 01. 07. 2008 es la Administración de la Infraestructura de Transporte Ferroviario, organización estatal, con ref.: 5-236/2008/DI, de fecha 25. 05. 2008.
 La Inspección Ferroviaria recomienda simultáneamente a la autoridad administrativa competente, que es la Autoridad Ferroviaria, la adopción de su propia medida, dirigida a garantizar la realización de las recomendaciones de seguridad antes mencionadas también para otros gestores de líneas ferroviarias, categoría línea regional, en la República Checa.
 
-
 ## Página 10
+
 
 ## 2 DATOS RELATIVOS AL ACONTECIMIENTO EXTRAORDINARIO
 ### 2.1 Acontecimiento extraordinario
@@ -232,6 +237,7 @@ No se pudo evitar la colisión del tren debido a la distancia muy corta. La part
 El maquinista del tren Os 23475, tras la colisión, notificó inmediatamente a los componentes del Sistema Integrado de Rescate (en lo sucesivo, SIR) mediante teléfono móvil y, a continuación, comunicó el AE a la persona que dirigía el transporte ferroviario en la EF Opava východ (en lo sucesivo, despachador) a través de la estación de radio a bordo del sistema de radio de vía TRS (en lo sucesivo, TRS).
 
 ## Página 11
+
 
 En el lugar del accidente (MU) intervinieron las siguientes unidades del Sistema de Intervención de Emergencia (IZS):
 Servicio de Rescate Rápido de Opava;
@@ -269,9 +275,10 @@ pasajeros del tren Os 23475 (en adelante, también testigos 1 a 7).
 
 El tren de pasajeros Os 23475, que circulaba desde la central de maniobras de Hradec nad Moravicí hasta la estación de Opava východ, estaba compuesto por una unidad motriz diésel (HDV) de la serie 810.069-5 que circulaba de forma independiente, de 14 m de longitud, con 2 ejes, con un peso de 24 t, circulando hacia adelante con la cabina del conductor en la posición 2. El propietario y gestor de la mencionada unidad motriz diésel (HDV) son České dráhy, a. s. – Taller de vehículos sobre raíles de Olomouc (en adelante, DKV). Según el cuaderno de horarios (en adelante, SJŘ) 307/310, vigente desde el 14 de diciembre de 2008, para el tren Os 23475 en el tramo Hradec nad Moravicí – Desvío Moravice se establecen los porcentajes de frenado necesarios del 66 %. El tren estaba frenado mediante el I. método de frenado en el modo P, con un porcentaje de frenado real del 83 %.
 
-La unidad motriz diésel (HDV) de la serie 810.069-5 está equipada con la parte móvil del sistema de radio de vía TRS – Conjunto de locomotoras VS47, n.º de serie 0447, que permite, en las vías y estaciones equipadas con el sistema TRS, 
+La unidad motriz diésel (HDV) de la serie 810.069-5 está equipada con la parte móvil del sistema de radio de vía TRS – Conjunto de locomotoras VS47, n.º de serie 0447, que permite, en las vías y estaciones equipadas con el sistema TRS,
 
 ## Página 12
+
 
 la conexión de radio entre la persona que dirige el transporte ferroviario y el conductor. El conjunto permite una conexión dúplex y una conexión simplex en las redes locales. La unidad motriz diésel (HDV) está equipada además con un adaptador funcional XX48 para la parada remota de la unidad motriz diésel (HDV), cuando exista peligro de retraso, en caso de peligro inminente para el tráfico ferroviario.
 El frente del tren Os 23475 estaba correctamente señalizado con la indicación «Inicio del tren» y la parte trasera del tren estaba señalizada con la indicación «Final del tren», de conformidad con el artículo 39 del Decreto n.º 173/1995 Coll., por el que se aprueba el reglamento de circulación de las vías férreas, en su versión modificada por disposiciones posteriores (en adelante, Decreto n.º 173/1995 Coll.).
@@ -292,6 +299,7 @@ La velocidad de la línea en la vía de la línea entre la central de maniobras 
 
 ## Página 13
 
+
 La circulación de vehículos ferroviarios entre la estación de Opava východ y la parada de Odbočka Moravice está asegurada mediante un dispositivo de seguridad de vía – semáforo automático integrado en el dispositivo de seguridad de estación ESA 11 de la estación de Opava východ, controlado por una unidad de manejo unificado.
 Las circulaciones de vehículos ferroviarios entre Odbočka Moravice y la parada de Hradec nad Moravicí están garantizadas mediante la gestión simplificada del tráfico ferroviario (dirección).
 El tramo interstacional entre la estación de Opava východ y la parada de Hradec nad Moravicí está cubierto por la señal “Vf” de la red de radio despachos (en lo sucesivo, SRD) a través del sistema de radio de vía, que permite, en la frecuencia de 457,650 MHz (grupo de canales 62A), la comunicación entre el despachador de la estación de Opava východ y los maquinistas de los vehículos de tracción diésel (HDV) equipados con la parte móvil del sistema de radio de vía (TRS).
@@ -307,46 +315,46 @@ En el momento de la producción del incidente, no se realizaban trabajos en la l
 En caso de notificación de un incidente en la línea, el gestor de la infraestructura ferroviaria SŽDC, s. o., ha emitido la norma interna SŽDC (ČD) Dp17 «Reglamento para la notificación e investigación de incidentes», aprobada con el n.º de referencia: 70778/2006, el 31 de octubre de 2006, con efecto desde el 1 de enero de 2007, en su versión vigente, que fue asumida por el gestor de la infraestructura ferroviaria SŽDC, s. o., en el sentido del BOLETÍN DE TRANSPORTE Y TARIFAS n.º 29-30 de 16 de julio de 2008. El despachador director (en lo sucesivo, despachador) actuó de conformidad con lo dispuesto en la PARTE SEGUNDA «NOTIFICACIÓN DE INCIDENTES», Capítulo I «Obligación de notificación», artículos 42 y 46. El despachador actuó simultáneamente de conformidad con el «CUADRO DE NOTIFICACIÓN» elaborado por el gestor de la infraestructura ferroviaria para la estación de Opava východ. La producción del incidente fue notificada al jefe de turno del Centro Regional de Operaciones de Ostrava y a los componentes del SIS.
 Con base en el «Contrato de cooperación en la investigación de incidentes en el tráfico ferroviario y de accidentes laborales mortales y graves», firmado el 30 de junio de 2008 entre SŽDC, s. o., y ČD, a. s., la producción del incidente por parte del Inspector de Infraestructura (DI) en el Centro de Operaciones de Tráfico (COP) fue notificada por el inspector superior de České dráhy, a. s., RIBŽD Ostrava, es decir, por la persona autorizada, de conformidad con el apartado 1 del artículo 9 del Decreto n.º 376/2006 Coll., para determinar las causas y las circunstancias de la producción del incidente, a las 17:34 h, es decir, 21 minutos después de la producción del incidente.
 
-
 ## Página 14
 
-### 2.2.7 Activación del plan del Sistema Integrado de Salvamento, de la policía y de los servicios de salvamento médico, y secuencia de los acontecimientos
-La producción del incidente fue notificada sin demora por el centro de notificación del gestor de la infraestructura ferroviaria, de conformidad con el texto de las disposiciones pertinentes del Decreto n.º 376/2006 Coll., a los distintos componentes del SIS.
-En el lugar del incidente intervinieron el Servicio Rápido de Salvamento de Opava, el Servicio de Salvamento y Rescate de Bomberos de la Región Moravia-Silesia (MSK) de Opava, Hradec nad Moravicí, Kylešovice y la Policía de la República Checa (PČR) de la Oficina Regional de Policía de Carabineros (SKPV) y la Policía de la República Checa (PČR) de la Oficina Regional de Inspectoría (DI).
-### 2.3 Muertes, lesiones y daños materiales
-2.3.1 En viajeros y terceros, empleados del gestor de la infraestructura ferroviaria y del transportista, incluidas las personas en relación contractual
-En el momento de la producción del incidente, viajaban en el tren de viajeros Os 23475 un total de 19 viajeros.
-3 personas sufrieron lesiones, además se prestaró asistencia a otras 10 personas.
-### 2.3.2 En mercancías transportadas, equipajes y otros bienes
-Como consecuencia del incidente, se dañó el remolque SCHWARZMÜLLER, matrícula 1T2 3119. El daño total causado al remolque SCHWARZMÜLLER fue cuantificado por la empresa TRANSEURO en 150 000,- Kč. No se produjeron daños en las mercancías transportadas.
-### 2.3.3 En vehículos ferroviarios, componentes de la vía y en el medio ambiente
-Como consecuencia del incidente, se dañó el HDV serie 810.069-5; no se produjeron daños en los dispositivos de la vía ni daños al medio ambiente.
-Mediante la inspección comisionada del HDV serie 810.069-5 realizada el 18 de diciembre de 2008 en el taller de mantenimiento de Olomouc – Unidad operativa de Opava, se determinó el siguiente alcance de los daños del HDV en el lado de la cabina del maquinista 2:
+### 2.2.7 Activación del plan del sistema integrado de emergencias, policía y servicio médico de emergencias y secuencia de acontecimientos
+La ocurrencia del accidente ferroviario fue notificada de inmediato por el centro de notificaciones del gestor de la infraestructura ferroviaria, de conformidad con el texto de las disposiciones pertinentes del decreto n.º 376/2006 Sb., a los distintos componentes del sistema integrado de emergencias.
+En el lugar del accidente intervinieron el Servicio Médico de Emergencias Rápida de Opava, el Servicio de Bomberos y Emergencias MSK de Opava, Hradec nad Moravicí, Kylešovice, y la Policía Nacional, Comisaría Regional de Policía de Investigación de la Criminalidad Organizada y la Policía Nacional, Comisaría Regional de Policía de Investigación.
+### 2.3 Fallecimientos, lesiones y daños materiales
+2.3.1 En pasajeros y terceras personas, empleados del gestor de la infraestructura ferroviaria y del transportista, incluidas personas en relación contractual
+En el momento de la ocurrencia del accidente ferroviario viajaban 19 pasajeros en el tren de pasajeros Os 23475.
+3 personas sufrieron lesiones, y además se atendió a 10 personas.
+### 2.3.2 En las cosas transportadas, equipaje y otros bienes
+Como consecuencia del accidente ferroviario se dañó el semirremolque SCHWARZMÜLLER, matrícula 1T2 3119. El daño total causado en el semirremolque SCHWARZMÜLLER fue valorado por la empresa TRANSEUROPE en 150 000,- Kč. No se produjo daño en las cosas transportadas.
+### 2.3.3 En el material rodante, componentes de la vía y en el medio ambiente
+Como consecuencia del accidente ferroviario se dañó la locomotora de la serie 810.069-5, no se produjo daño en las instalaciones de la vía y tampoco se produjo daño en el medio ambiente.
+Por la inspección en comisión de la locomotora de la serie 810.069-5 realizada el 18. 12. 2008 en DKV Olomouc – Centro de Explotación Opava, se constató el siguiente alcance de daños en la locomotora en el lado de la cabina del maquinista 2:
 1.
-deformación de la esquina trasera derecha de la caja, (perforada);
+deformación de la esquina trasera derecha de la carrocería, (perforada);
 2.
 deformación de los soportes de las luces de posición, incluidos los marcos;
 3.
 cristal roto de la luz de posición;
 4.
-deformación del arado;
+deformación del rastrillo;
 5.
-parachoques trasero derecho desgajado y deformado;
+parachoques trasero derecho arrancado y deformado;
 6.
 parachoques trasero izquierdo deformado;
 7.
-deformación de la tubería de aire en la llave en la parte frontal del vehículo;
+deformación de la tubería de aire en la llave de paso en el frontal del vehículo;
 8.
-deformación de la caja del vehículo bajo las ventanas de la cabina 2;
+deformación de la carrocería del vehículo bajo las ventanas de la cabina 2;
 9.
-deformación de la barandilla bajo las ventanas de la cabina 2;
-10. ventana parcialmente caída de la cabina 2 en el lado del maquinista;
-11. barra transversal desplazada entre el pasillo y el compartimento de viajeros.
-Mediante la inspección comisionada se estableció un daño por un importe de aproximadamente 102 000,- Kč.
-El importe real del daño fue cuantificado por el gestor del tráfico ferroviario en 102 000,- Kč.
-No se produjo ninguna fuga de sustancias que pongan en peligro el medio ambiente como consecuencia del incidente.
+deformación del pasamanos bajo las ventanas de la cabina 2;
+10. ventana de la cabina 2 parcialmente desprendida en el lado del maquinista;
+11. tabique desplazado entre el pasillo y el compartimento para pasajeros.
+Por la inspección en comisión se determinó un daño de aproximadamente 102 000,- Kč.
+La cuantía real del daño fue valorada por el gestor del transporte ferroviario en 102 000,- Kč.
+No se produjo fuga de sustancias que pongan en peligro el medio ambiente en el accidente ferroviario.
 
 ## Página 15
+
 
 Como consecuencia secundaria del accidente se produjo la interrupción del tráfico ferroviario en el tramo de vía entre las señales de paso automáticas de Moravice y Hradec nad Moravicí, durante el periodo comprendido entre las 17:13 y las 20:28 h, es decir, 195 minutos. En total, se cancelaron siete trenes de transporte de viajeros, que el explotador del tráfico ferroviario sustituyó por servicio de autobuses de sustitución.
 
@@ -374,42 +382,29 @@ En el pk 5,234, durante la circulación del tren Os 23475, estaba colocado, y si
 
 ## Página 16
 
-¿De qué manera advirtió a las personas que se acercaban a este paso a nivel?
-
-**Respuesta:**
-«Durante la circulación del tren Os 23475, al nivel del poste de advertencia, emití la señal acústica «Atención» con la bocina de la locomotora. Al continuar la circulación tras la curva, emití de nuevo la señal «Atención», porque vi un automóvil particular detenido en el paso a nivel. No recuerdo si emití más señales «Atención», pero creo que sí, porque en la carretera paralela había un tráfico más intenso.»
-
-**Pregunta n.º 2:**
-¿De qué manera debe advertir a las personas durante la circulación del tren hacia el paso a nivel, según las normas internas del explotador del tráfico ferroviario?
-
-**Respuesta:**
-«Según la norma interna, desde el poste de advertencia con la señal «Atención» debo emitir la señal acústica «Atención» con la bocina de la locomotora de forma repetida hasta que la cabeza del tren haya superado el paso a nivel.»
-
-**Pregunta n.º 3:**
-En el documento «Acta de declaración de testigo» realizada por la Policía de la República Checa el 19.01.2009, usted declaró: «Antes de salir de la curva utilicé la señal acústica, es decir, la bocina; esta señal también me la impone la señal de tráfico, el llamado poste de bocina. En la práctica se utiliza la señal acústica en el poste de bocina y, a continuación, otra vez más, para advertir a los conductores de vehículos que están cerca del paso a nivel».
-
-**Respuesta:**
-«Ahora no recuerdo haberme expresado de esta manera; probablemente utilicé una formulación incompleta. Lo más probable es que no haya leído el acta debidamente y, por ello, se haya dejado una formulación incorrecta en el acta.»
-
-**Conductor en formación:**
-
-En el documento «Acta de declaración de testigo», elaborado el 09.01.2009 entre las 07:48 h y las 08:20 h, por la Oficina Regional de la Policía de Investigaciones de Opava (PČR OŘ SKPV Opava), bajo el n.º de referencia: OROP-3886-27/TČ-2008-070670-25, entre otras cosas, declaró:
-
-Durante la circulación del tren Os 23475, se encontraba junto al conductor titular en el puesto de conducción, pero no dirigía el tren mencionado. Añadió que el conductor titular emitió al menos tres veces la señal acústica «Atención» antes del paso a nivel. Vio a corta distancia el conjunto de vehículos de carretera que giraba a la izquierda y entraba en el paso a nivel. Tras la aplicación del freno de emergencia por parte del conductor titular, abandonaron juntos el puesto de conducción.
-
+¿De qué manera advirtió a las personas que se aproximaban a este paso a nivel?
+Respuesta:
+«Durante la circulación del tren Os 23475, en la altura del poste de señalización de advertencia daba la señal sonora "¡Atención!" con la bocina de la locomotora. Al continuar la circulación más allá de la curva, di de nuevo la señal "¡Atención!", porque vi un automóvil parado en el paso a nivel. Si di otras señales "¡Atención!" ya no lo recuerdo, pero creo que sí, porque en la carretera paralela había un tráfico más intenso.»
+Pregunta n.º 2:
+¿De qué manera debe advertir a las personas durante la circulación del tren hacia el paso a nivel según las normas internas del operador del transporte ferroviario?
+Respuesta:
+«Según la norma interna, desde el poste de señalización de advertencia con la señal "¡Atención!" debo dar la señal "¡Atención!" con la bocina de la locomotora de forma repetida hasta que la cabeza del tren pase el paso a nivel.»
+Pregunta n.º 3:
+En el documento «Acta de declaración de testigo» elaborado por la Policía de la República Checa el 19. 01. 2009, usted indicó «Antes de salir de la curva utilicé una señal sonora, a saber, con el silbato, esto también me lo ordena la señal de tráfico, el llamado poste silbador. En la práctica se hace así: se utiliza la señal sonora en el poste silbador y después una vez más, para avisar a los conductores de vehículos que están cerca del paso a nivel».
+Respuesta:
+«Ahora ni siquiera me doy cuenta de que me expresé así, probablemente utilicé una formulación incompleta. Con toda probabilidad no leí debidamente el acta y por ello se mantuvo en el acta una formulación incorrecta.»
+### Maquinista en formación:
+En el documento «Acta de declaración de testigo», elaborado el 09. 01. 2009 en el horario 07:48 h – 08:20 h, PČR OŘ SKPV Opava, con el n.º de expediente: OROP-3886-27/TČ-2008-070670-25, entre otras cosas indicó:
+Durante la circulación del tren Os 23475 se encontraba en el puesto de conducción con el maquinista, pero no conducía el tren indicado. Asimismo indicó que el maquinista dio al menos 3 veces la señal sonora "¡Atención!" antes del paso a nivel. Vio a corta distancia el conjunto rodante que se incorporaba al paso a nivel girando a la izquierda. Tras la aplicación del frenado de emergencia por el maquinista, abandonaron juntos el puesto de conducción.
 ### 3.1.2 Otras personas
-
-**Conductor del vehículo de motor por carretera:**
-
-En el documento «Acta de declaración de testigo», elaborado el 07.01.2009 entre las 07:24 h y las 08:01 h, por la Oficina Regional de la Policía de Investigaciones de Opava (PČR OŘ SKPV Opava), bajo el n.º de referencia: OROP-3886-11/TČ-2008-070670-25, entre otras cosas, declaró:
-
-Aunque circula frecuentemente por la carretera de primera categoría n.º 57 desde Hradec nad Moravicí hasta Opava, realizó por primera vez el giro a la izquierda hacia la localidad de Otice Rybníčky. Antes de girar, se situó en el centro de la calzada y cedió el paso a los vehículos que venían en sentido contrario. Aproximadamente un minuto después, cuando la carretera n.º 57 en sentido contrario se liberó, inició el giro y, con ello, la entrada en el paso a nivel en el pk 4,981. En ese momento, sin embargo, un automóvil particular estaba detenido en la carretera n.º 44346, en el borde de la intersección con la carretera n.º 57, en dirección desde la localidad de Otice Rybníčky, detrás del paso a nivel. Debido al automóvil detenido, giró muy lentamente y, mediante el espejo retrovisor, vigilaba si con su maniobra ponía en peligro a dicho automóvil. Cuando comprobó que el automóvil, que estaba detenido de forma segura, sería superado, la cabina de su vehículo ya se encontraba en el paso a nivel. En ese mismo instante, avistó el tren que se acercaba. Intentó evitar la colisión con el tren abandonando rápidamente la zona peligrosa del paso a nivel antes de la llegada del tren. A pesar de todos los esfuerzos, al conductor no le resultó posible abandonar a tiempo la zona peligrosa del paso a nivel y el tren impactó contra el lado izquierdo de la cabina.
-
-**Testigo n.º 1:**
-
-En el documento «Acta de declaración de testigo», elaborado el 07.01.2009 entre las 08:50 h y las 09:08 h, por la Oficina Regional de la Policía de Investigaciones de Opava (PČR OŘ SKPV Opava), bajo el n.º de referencia: OROP-3886-14/TČ-2008-070670-25, entre otras
+### Conductor de vehículo motorizado por carretera:
+En el documento «Acta de declaración de testigo», elaborado el 07. 01. 2009 en el horario 07:24 h – 08:01 h, PČR OŘ SKPV Opava, con el n.º de expediente: OROP-3886-11/TČ-2008-070670-25, entre otras cosas indicó:
+Aunque circula a menudo por la carretera de primera clase n.º 57 desde Hradec nad Moravicí hasta Opava, la maniobra de girar a la izquierda hacia la localidad de Otice Rybníčky la realizó por primera vez. Antes de girar, se situó en el centro de la calzada y cedió el paso a los vehículos que circulaban en sentido contrario. Aproximadamente un minuto después, cuando la carretera n.º 57 en sentido contrario quedó libre, inició la maniobra de giro y con ello la circulación por el paso a nivel en el km 4,981. Sin embargo, en ese momento, en dirección desde la localidad de Otice Rybníčky, detrás del paso a nivel, en el borde del cruce de la carretera n.º 44346 con la carretera n.º 57, había un automóvil parado. Debido al automóvil parado, giraba muy lentamente y observaba en el retrovisor si con el remolque no ponía en peligro dicho automóvil. Cuando comprobó que pasaría sin peligro el automóvil que estaba parado, la cabina de su vehículo ya se encontraba en el paso a nivel. En ese mismo instante vio el tren que se aproximaba. Intentó evitar la colisión con el tren abandonando de forma acelerada la franja de peligro del paso a nivel antes de la llegada del tren. A pesar de todos sus esfuerzos, al conductor no le fue posible abandonar a tiempo la franja de peligro del paso a nivel y el tren embistió el lado izquierdo del remolque.
+### Testigo n.º 1:
+En el documento «Acta de declaración de testigo», elaborado el 07. 01. 2009 en el horario 08:50 h – 09:08 h, PČR OŘ SKPV Opava, con el n.º de expediente: OROP-3886-14/TČ-2008-070670-25, entre otras cosas
 
 ## Página 17
+
 
 indicó que la marcha no fue excepcional. Antes de la producción del accidente, vio en el compartimento de viajeros a empleados del transportista y, a continuación, se produjo un fuerte impacto.
 ### Testigo nº 2:
@@ -434,29 +429,30 @@ La marcha de los trenes entre el desvío de Moravice y la estación de Hradec na
 
 ## Página 18
 
-La indicación del titular de la infraestructura para advertir a los usuarios de la vía terrestre se dio mediante una señal vertical de tráfico A 32a «Cruz de advertencia para paso a nivel de vía única», situada a ambos lados antes del paso a nivel (ŽP) a la derecha de la vía terrestre.
+La instrucción del gestor de la vía para advertir a los usuarios de la vía pública se realizó mediante la señal vertical A 32a «Cruz de aviso para paso a nivel de vía única», colocada a ambos lados y a la derecha de la vía pública, antes del PAN.
 
-A esta indicación del titular de la infraestructura precedieron las indicaciones a los usuarios de la vía terrestre dadas mediante señales verticales de tráfico A 31a, A 31b y A 31c «Tabla de señales (240 m, 160 m y 80 m)» con tratamiento reflectante, y A 30 «Paso a nivel sin barreras» situada sobre la señal vertical de tráfico A 31a, también con tratamiento reflectante. En el sentido de circulación del conjunto rodante por la carretera de primera categoría nº 57 desde Hradec nad Moravicí, antes del punto de desvío hacia el paso a nivel, están instaladas a la derecha de la vía terrestre las señales verticales de tráfico A 31a «Tabla de señales (240 m)», A 31b «Tabla de señales (160 m)» y A 31c «Tabla de señales (80 m)»; en el mismo poste se encuentra la señal vertical de tráfico A 30 «Paso a nivel sin barreras» y sobre las señales verticales de tráfico A 31a, A 31b y A 31c están montados los paneles complementarios E 7b «Flecha direccional».
+A esta instrucción del gestor de la vía precedieron instrucciones a los usuarios de la vía pública realizadas mediante las señales verticales A 31a, A 31b y A 31c «Placa indicadora (240 m, 160 m y 80 m)» con tratamiento reflectante y A 30 «Paso a nivel sin barreras», colocada sobre la señal vertical A 31a, también con tratamiento reflectante. En el sentido de circulación del conjunto rodante por la carretera de clase I n.º 57 desde Hradec nad Moravicí, se encuentran instaladas a la derecha de la vía pública, antes del lugar de desvío hacia el PAN, las señales verticales A 31a «Placa indicadora (240 m)», A 31b «Placa indicadora (160 m)» y A 31c «Placa indicadora (80 m)»; sobre el poste común de la señal A 31a se encuentra colocada la señal vertical A 30 «Paso a nivel sin barreras» y sobre las señales verticales A 31a, A 31b y A 31c se encuentran instaladas las placas complementarias E 7b «Flecha de dirección».
 
-El maquinista del tren Os 23475 se guió durante la marcha en el tramo de vía en cuestión por las indicaciones/señales y las circunstancias que observaba desde su puesto de mando, situado en la cabeza del tren, en el lado derecho de la cabina del maquinista 2. Antes de la producción del accidente se dio al maquinista del tren Os 23475 la indicación del titular de la infraestructura mediante la señal «Pita». La señal estaba situada en el pk 5,234, es decir, a 253 m antes del paso a nivel en el pk 4,981.
+El maquinista del tren Os 23475, durante la circulación en el tramo de vía objeto de estudio, se regía por las instrucciones —señales y hechos— que observaba desde su puesto de mando, situado en la parte delantera del tren, en el lado derecho del puesto de conducción 2. A la producción del MU precedió la instrucción del gestor de la vía dada al maquinista del tren Os 23475 mediante un señalizador de aviso con la señal «Pite». El señalizador estaba situado en el km 5,234, es decir, 253 m antes del PAN en el km 4,981.
 
-A continuación, el transportista dio la señal «Atención», mediante el pitido de la bocina de la locomotora del tren Os 23475. Según la declaración del maquinista del tren Os 23475 y de los testigos, viajeros en el tren, la señal «Atención» se dio repetidamente. La indicación estaba destinada a advertir a los participantes en la circulación vial, es decir, también al conductor del conjunto rodante, de que se acercaba un vehículo ferroviario al paso a nivel.
+A continuación siguió la instrucción del transportista con la señal «Atención», dada al maquinista del tren Os 23475 mediante la bocina de la locomotora. Según la declaración del maquinista del tren Os 23475 y de los testigos, pasajeros del tren, la señal «Atención» se dio de forma repetida. La instrucción estaba destinada a advertir a los participantes en el tráfico por carretera, es decir, también al conductor del conjunto rodante, de que se aproximaba un vehículo ferroviario al PAN.
 
-La organización marco y la forma de emisión y ejecución de las indicaciones durante la explotación de la infraestructura y el tráfico ferroviario en relación con el accidente en cuestión se establecen mediante los procedimientos tecnológicos contenidos en las normas internas del titular de la infraestructura, entre las que se pueden incluir:
+La organización marco y la forma de emitir y ejecutar las instrucciones en la explotación de la vía y del transporte ferroviario en relación con el MU objeto de estudio está establecida por los procedimientos tecnológicos contenidos en las normas internas del gestor de la vía, entre los que se pueden incluir:
 
-la norma interna SŽDC (ČD) D1 «NORMA PARA EL USO DE SEÑALES EN LA ORGANIZACIÓN Y EXPLOTACIÓN DEL TRÁFICO FERROVIARIO», aprobada por decisión del director general de los Ferrocarriles Checos (ČD) el 15 de abril de 1997, nº de expediente: 55216/97-O11, en su versión vigente, que fue asumida por el titular de la infraestructura SŽDC, s. o., en el sentido del BOLETÍN DE TRANSPORTE Y TARIFAS nº 29-30, del 16 de julio de 2008, art. 400, donde se indica:
+norma interna SŽDC (ČD) D1 «REGLAMENTO PARA EL USO DE SEÑALES EN LA ORGANIZACIÓN Y EXPLOTACIÓN DEL TRANSPORTE FERROVIARIO», aprobada por decisión del director general de los Ferrocarriles Checos de fecha 15 de abril de 1997, n.º de expediente: 55216/97-O11, en su versión vigente, que fue asumida por el gestor de la vía SŽDC, s. o., en el sentido del BOLETÍN DE TRANSPORTE Y TARIFAS n.º 29-30, de 16 de julio de 2008, art. 400, donde se indica:
 
-«La señal Atención (un sonido largo con la bocina o la sirena de la locomotora) la da el maquinista del vehículo motor principal y advierte a las personas del movimiento de los vehículos. En los trenes empujados, o también en los bloques de maniobras empujados, la señal Atención la da el maquinista (empleado en la cabeza del tren empujado o del bloque de maniobras).»;
+«La señal Atención (un sonido largo de silbato o de la bocina de la locomotora) la da el maquinista del vehículo de tracción principal y advierte a las personas del movimiento de los vehículos. En los trenes empujados, o también en las partes de maniobra empujadas, da la señal Atención el maquinista (el empleado en la parte delantera del tren empujado o de la parte de maniobra).»;
 
-la norma interna SŽDC (ČD) D1 «NORMA PARA EL USO DE SEÑALES EN LA ORGANIZACIÓN Y EXPLOTACIÓN DEL TRÁFICO FERROVIARIO», aprobada por decisión del director general de los Ferrocarriles Checos (ČD) el 15 de abril de 1997, nº de expediente: 55216/97-O11, en su versión vigente, que fue asumida por el titular de la infraestructura SŽDC, s. o., en el sentido del BOLETÍN DE TRANSPORTE Y TARIFAS nº 29-30, del 16 de julio de 2008, art. 421 letra d), donde se indica, entre otras cosas:
+norma interna SŽDC (ČD) D1 «REGLAMENTO PARA EL USO DE SEÑALES EN LA ORGANIZACIÓN Y EXPLOTACIÓN DEL TRANSPORTE FERROVIARIO», aprobada por decisión del director general de los Ferrocarriles Checos de fecha 15 de abril de 1997, n.º de expediente: 55216/97-O11, en su versión vigente, que fue asumida por el gestor de la vía SŽDC, s. o., en el sentido del BOLETÍN DE TRANSPORTE Y TARIFAS n.º 29-30, de 16 de julio de 2008, art. 421 letra d), donde, entre otras cosas, se indica:
 
-«La señal Atención debe darse para advertir a las personas:
-d) el maquinista (empleado en la cabeza del tren empujado o del bloque de maniobras) antes de los pasos a nivel, y esto:
-a) Antes de los pasos a nivel con estacas de advertencia con validez temporal para los pasos a nivel (tras la notificación de la validez de estas estacas de advertencia) o antes de los pasos a nivel con estacas de advertencia: al menos tres veces desde estas estacas de advertencia hasta el paso a nivel. No es necesario repetir la señal Atención si no se acerca ningún usuario de la vía terrestre al paso a nivel»;
+«Para advertir a las personas, la señal Atención debe darla:
+d) el maquinista (el empleado en la parte delantera del tren empujado o de la parte de maniobra) antes de los pasos a nivel, y esto:
+a) Ante los pasos a nivel con postes de aviso de vigencia temporal para pasos a nivel (al recibir el aviso sobre la vigencia de estos postes de aviso) o ante los pasos a nivel con postes de aviso —al menos tres veces desde estos postes de aviso hasta el paso a nivel. La señal Atención no tiene por qué repetirse si no se aproxima al paso a nivel ningún usuario de la vía pública»;
 
-la norma interna SŽDC (ČD) D1 «NORMA PARA EL USO DE SEÑALES EN LA ORGANIZACIÓN Y EXPLOTACIÓN DEL TRÁFICO FERROVIARIO», aprobada por decisión del director general de los
+norma interna SŽDC (ČD) D1 «REGLAMENTO PARA EL USO DE SEÑALES EN LA ORGANIZACIÓN Y EXPLOTACIÓN DEL TRANSPORTE FERROVIARIO», aprobada por decisión del director general de
 
 ## Página 19
+
 
 de las Ferreces Checas (Českých drah) de fecha 15 de abril de 1997, ref.: 55216/97-O11, en su versión vigente, que fue asumido por el administrador de la infraestructura SŽDC, s. o., en el sentido del BOLETÍN DE TRANSPORTE Y TARIFAS n.º 29-30, de 16 de julio de 2008, artículo 640, donde se indica:
 «La señal de “Pískejte” (estaca con franjas alternas rojas y blancas, con reflectores blancos en las franjas rojas o bien franjas alternas rojas y blancas de reflectores) ordena al maquinista (empleado al frente de un tren empujado o de un grupo de maniobras empujado) dar la señal de “Atención”»;
@@ -484,8 +480,8 @@ aprobado por resolución del director general de las Ferreces Checas de fecha 9 
 «Las inspecciones, su evaluación y las actas correspondientes se realizan, por separado, en la vía recta (incluidos los puntos de cruce que se encuentren en ella) y por separado en el ámbito de las estaciones ferroviarias, con la siguiente clasificación:
 e) pasos a nivel y pasos peatonales, incluidas las adaptaciones de la vía terrestre adyacente y las condiciones de visibilidad»;
 
-
 ## Página 20
+
 
 el reglamento interno de SŽDC (ČD) S2/3 Organización y realización de inspecciones de las vías de las Ferreces Checas,
 –
@@ -517,6 +513,7 @@ el reglamento interno de ČSD S 4/3 NORMA PARA LA GESTIÓN Y EL MANTENIMIENTO DE
 aprobado por el viceministro de Transportes de la República Socialista de Checoslovaquia (ČSSR) de fecha 28 de febrero de 1985, ref.: 15.488/84-13, con efecto desde el 1 de septiembre de 1987, en su versión vigente, que fue asumido por el administrador de la infraestructura SŽDC, s. o., en el sentido de la Orden n.º 1, ref.: S 1197/08-OTH, de 29 de agosto de 2008, artículo 26, donde se indica:
 
 ## Página 21
+
 
 «En los pasos a nivel no protegidos, señalizados con la señal de tráfico «Cruz de San Andrés», donde no se alcanzan las longitudes de visibilidad reglamentarias para la velocidad de línea en el tramo adyacente, se reduce la velocidad de línea. Esta velocidad debe corresponder a las longitudes de visibilidad realmente alcanzadas, de modo que la visibilidad desde la vía pública hacia el tren o composición que se acerca dure tanto como se produciría si se respetaran las longitudes de visibilidad reglamentarias.»;
 
@@ -554,6 +551,7 @@ reglamento interno ČSD S 4/3 NORMA PARA LA GESTIÓN Y MANTENIMIENTO DE PASOS A 
 
 ## Página 22
 
+
 del 29 de agosto de 2008, artículo 71, donde se establece:
 
 «La distancia de frenado es la longitud de recorrido que realiza un vehículo por carretera durante el tiempo necesario para detectar el obstáculo (la cabeza del tren o el vehículo ferroviario), para la reacción sensorial del conductor y para detener el vehículo a tiempo antes del paso a nivel.»;
@@ -586,6 +584,7 @@ reglamento interno ČSD S 4/3 NORMA PARA LA GESTIÓN Y MANTENIMIENTO DE PASOS A 
 
 ## Página 23
 
+
 norma interna ČSD S 4/3 NORMA PARA LA GESTIÓN Y EL MANTENIMIENTO DE LOS CRUCES Y PASOS A NIVEL FERROVIARIOS, aprobada por el viceministro del Ministerio de Transportes de la RSS de Checoslovaquia el 28.02.1985 bajo el ref.: 15.488/84-13, con efecto desde el 01.09.1987, en su versión vigente, que fue asumida por el operador de la vía SŽDC, s. o., en el sentido del Decreto n.º 1 ref.: S 1197/08-OTH del 29 de agosto de 2008, art. 77, donde se indica, entre otras cosas:
 «Los valores de las distancias de visibilidad Lp … … se calcularán según la fórmula Lp=(Vz/5)(dp + dv), donde
 Vz es la velocidad de línea en el tramo adyacente en km/h,
@@ -611,8 +610,8 @@ b) con condiciones de visibilidad desfavorables:
 los pasos a nivel de vías terrestres del grupo I y II siempre y los demás pasos a nivel cuando el
 –
 
-
 ## Página 24
+
 
 índice de tráfico del paso a nivel es superior a 20 000, están protegidos con un dispositivo de protección luminoso sin barreras o con barreras;
 los pasos a nivel de vías terrestres del grupo III y IV generalmente no están protegidos,
@@ -649,6 +648,7 @@ En el momento de la aparición del incidente en cuestión, el personal del opera
 
 ## Página 25
 
+
 inspección de pasos a nivel y pasos peatonales conforme al apartado 2, letra n), del artículo 26 del Decreto reglamentario n.º 177/1995 Coll., por el que se aprueba el reglamento de construcción y técnica de las vías férreas, en su redacción vigente (en adelante, el Decreto reglamentario n.º 177/1995 Coll.), así como el dictamen médico vigente sobre la aptitud física.
 
 Los requisitos de competencia profesional, incluido el modo de hacerlos cumplir, los establece el documento interno del administrador de la infraestructura ferroviaria SŽDC «Zam1 (provisional) «Reglamento sobre la competencia profesional de los empleados de la Administración de la Infraestructura Ferroviaria, organismo estatal», aprobado por decisión del director general el 30.06.2008, ref.: 23 138/08 – OKS, con efecto desde el 01.07.2008, en su redacción vigente.
@@ -679,6 +679,7 @@ En relación con lo dispuesto en el apartado 7 del artículo 4 del Decreto regla
 
 ## Página 26
 
+
 12.01.2009, ref.: 1-104/2009/DI., los puntos 8, 68, 69 y la letra c) del punto 81 del documento interno ČSD S 4/3 «REGAMENTO PARA LA GESTIÓN Y MANTENIMIENTO DE LOS PASOS A NIVEL Y PASOS PEATONALES FERROVIARIOS», en su redacción vigente, las condiciones de visibilidad en el paso a nivel (ŽP) en el punto kilométrico 4,981 se clasifican como desfavorables (línea de tercer grupo y carretera de cuarto grupo), es decir, las distancias de visibilidad están garantizadas al menos al 50 % de la distancia de visibilidad prescrita. El punto 26 del documento interno ČSD S 4/3 «REGAMENTO PARA LA GESTIÓN Y MANTENIMIENTO DE LOS PASOS A NIVEL Y PASOS PEATONALES FERROVIARIOS», en su redacción vigente, que exige reducir la velocidad de la línea en el tramo adyacente al paso a nivel (ŽP) a una velocidad que corresponda a las distancias de visibilidad reales, de modo que la visibilidad desde la carretera del vehículo ferroviario que se acerca dure tanto como si se respetaran las distancias de visibilidad prescritas, no ha sido aplicado por el administrador de la infraestructura ferroviaria. El punto 8 del documento interno ČSD S 4/3 «REGAMENTO PARA LA GESTIÓN Y MANTENIMIENTO DE LOS PASOS A NIVEL Y PASOS PEATONALES FERROVIARIOS», en su redacción vigente, permite al administrador de la infraestructura ferroviaria, para el mantenimiento de las condiciones de visibilidad y la evaluación del modo de protección de los pasos a nivel (ŽP) en los que se celebró el último procedimiento administrativo antes del 01.01.1970, aplicar lo dispuesto en el capítulo VI. DISPOSICIONES TRANSITORIAS, es decir, permite al administrador de la infraestructura ferroviaria garantizar las distancias de visibilidad únicamente al 50 % de las distancias de visibilidad prescritas.
 
 El 19.12.2008, las personas autorizadas de la Inspección de Tráfico (DI) realizaron el control estatal en materia de ferrocarriles al administrador de la infraestructura ferroviaria, centrándose en el cumplimiento de las obligaciones del administrador de la infraestructura ferroviaria establecidas por la normativa jurídica en interés de la explotación segura de la vía y del tráfico ferroviario, a saber: la señalización, la protección y las condiciones de construcción del paso a nivel (ŽP) en el punto kilométrico 4,981 de la línea ferroviaria de categoría regional Opava východ – Hradec nad Moravicí, véase el acta «ACTA de la realización del control estatal en materia de ferrocarriles», de fecha 19.12.2008, ref.: 1-2367/2008/DI.
@@ -699,93 +700,71 @@ La distancia desde el lugar de desvío de los vehículos automotores por carrete
 
 ## Página 27
 
-El estado técnico-constructivo del cruce situado en las inmediaciones del punto kilométrico (PK) no permite evaluar las condiciones de visibilidad desde la distancia establecida en el reglamento interno del administrador de la infraestructura ferroviaria ČSD S 4/3 «NORMA PARA LA GESTIÓN Y MANTENIMIENTO DE LOS CRUCES Y PASOS A NIVEL», en su versión vigente, hasta la distancia de frenado B = 25 m. Por ello, el administrador de la infraestructura ferroviaria evalúa la longitud de visibilidad para los conductores de vehículos de carretera Lm desde una distancia de 15,4 m.
+El estado constructivo-técnico del cruce situado en la inmediata proximidad del PFR no permite evaluar las condiciones de visibilidad desde la distancia establecida en la norma interna del gestor de la vía ČSD S 4/3 «REGLAMENTO PARA LA GESTIÓN Y MANTENIMIENTO DE LOS PASOS A NIVEL Y DE LOS PASOS PEATONALES», en su versión vigente, hasta la distancia de frenado B = 25 m. Por ello, el gestor de la vía evalúa la longitud de visibilidad para los conductores de vehículos por carretera Lm desde una distancia de 15,4 m.
 
-| Magnitudes prescritas: para velocidad Vž= 60 km/h y distancia de frenado B = 25 m |  | Magnitudes detectadas Lm: para velocidad Vž= 60 km/h y distancia de frenado B = 154 m , |  |
+| Grandezas prescritas: para la velocidad Vž= 60 km h-1 y la distancia de frenado B =25 m |  | Grandezas comprobadas Lm: para la velocidad Vž= 60 km h-1 y la distancia de frenado B = 154 m , |  |
 | a la izquierda del final de la vía (Hradec nad Mor) . | a la izquierda del inicio de la vía (Odb Moravice) . | a la izquierda del final de la vía (Hradec nad Mor) . | a la izquierda del inicio de la vía (Odb . Moravice) |
 | 117 m | 117 m | más de 117 m | más de 117 m |
 
-La distancia de la cruz de aviso desde el eje de la vía se determinó en 4,1 m.
-En el ejercicio de la supervisión estatal en materia de ferrocarriles, en el sentido del reglamento interno del administrador de la infraestructura ferroviaria ČSD S 4/3 «NORMA PARA LA GESTIÓN Y MANTENIMIENTO DE LOS CRUCES Y PASOS A NIVEL», en su versión vigente, se determinó por cálculo el tiempo necesario para cruzar la zona peligrosa del paso a nivel (PK) por el vehículo de carretera más largo admitido para la circulación en las vías terrestres y el tiempo que tarda el vehículo ferroviario en recorrer (a la velocidad máxima de la vía de 60 km/h) la distancia de la longitud de visibilidad Lp detectada antes del PK:
+La distancia de la cruz de advertencia desde el eje de la vía se comprobó en 4,1 m.
 
-longitud 
- dp:
-–
-es la longitud en metros, medida en el eje de la vía terrestre desde el nivel de la cruz de aviso,
-situada a 4,1 m en la dirección de circulación de los vehículos de carretera hacia el límite de la zona peligrosa en el lado opuesto del PK. La longitud de 6,6 m se calculó para un ángulo de cruce de 90° según la fórmula:
-(4,1 m + 2,5 m) / sen 90° = 6,6 m;
+En el ejercicio de la supervisión estatal en materia de vías, en el sentido de la norma interna del gestor de la vía ČSD S 4/3 «REGLAMENTO PARA LA GESTIÓN Y MANTENIMIENTO DE LOS PASOS A NIVEL Y DE LOS PASOS PEATONALES», en su versión vigente, se determinó por cálculo el tiempo necesario para cruzar la zona peligrosa del PFR con el vehículo por carretera más largo admitido a la circulación en las vías públicas, y el tiempo en que el vehículo ferroviario recorre (con la velocidad máxima en vía de 60 km.h-1) la distancia de la longitud de visibilidad comprobada Lp antes del PFR:
 
-longitud 
- ds:
+longitud dp:
 –
-es la longitud del vehículo de carretera más largo admitido para la circulación en la vía terrestre que pasa por el PK, que es de 22 m;
+es la longitud en metros, medida en el eje de la vía pública desde el nivel de la cruz de advertencia, situada a 4,1 m en la dirección de circulación de los vehículos por carretera, hasta el límite de la zona peligrosa en el lado opuesto del PFR. La longitud de 6,6 m se calculó para un ángulo de cruce de 90° según la fórmula:
+(4,1 m + 2,5 m) / sin 90° = 6,6 m;
 
-velocidad Vž
- en la dirección desde el final de la vía, es decir, en la dirección desde la estación de Hradec nad Moravicí:
+longitud ds:
 –
-es la velocidad de la vía de 60 km/h, es decir, 16,67 m/s, en el tramo de vía adyacente al PK;
+es la longitud del vehículo por carretera más largo admitido a la circulación en la vía pública que atraviesa el PFR, que asciende a 22 m;
 
-velocidad 
- Vsn
- :
+velocidad Vž en la dirección desde el final de la vía, es decir, desde la est. Hradec nad Moravicí:
 –
-es la velocidad del vehículo de carretera más lento de 5 km/h, es decir, 1,39 m/s;
+es la velocidad en vía de 60 km.h-1, es decir, 16,67 m.s-1, en el tramo de vía adyacente al PFR;
 
-tiempo necesario para cruzar el vehículo de carretera más largo admitido para la circulación
+velocidad Vsn:
 –
-por el PK en el km 4,981 (longitud dp) según la relación (dp + ds) : Vsn = (6,6 m + 22 m) : 
-1,39 m/s = 20,58 s.;
+es la velocidad del vehículo por carretera más lento, 5 km.h-1, es decir, 1,39 m.s-1;
 
-tiempo que tarda el vehículo ferroviario en recorrer la distancia de la longitud de visibilidad Lp medida antes del PK en
-–
-la dirección de circulación desde el final de la vía, es decir, desde la estación de Hradec nad Moravicí, medida a la izquierda, según la relación 
-### Lp : Vž = 220 m : 16,67 m/s = 13,20 s.  
-### De lo anterior se desprende:
-con la longitud de visibilidad Lp= 220 m detectada en la dirección desde la instalación de tráfico Hradec nad Moravicí hacia el
-●
-PK en el km 4,981, el vehículo de carretera más largo admitido para la circulación (es decir, de 22 m de longitud) no abandona a tiempo la zona peligrosa del PK. Existe el riesgo de que se produzca un incidente grave: colisión entre un vehículo ferroviario y un vehículo de carretera en un cruce a nivel de la vía con la vía terrestre (en adelante, colisión), en la que el vehículo ferroviario impacta contra el lateral del vehículo de carretera motorizado en el PK.
-Lo anterior constituye el incumplimiento de lo dispuesto en el apartado 1, letra a), del artículo 22 de la ley n.º 266/1994 Coll.
+tiempo necesario para cruzar el vehículo por carretera más largo admitido a la circulación en la vía pública a través del PFR en el pk 4,981 (longitud dp) asciende según la relación (dp + ds) : Vsn = (6,6 m + 22 m) : 1,39 m.s-1 = 20,58 s.;
+
+tiempo en que el vehículo ferroviario recorre la distancia de la longitud de visibilidad medida Lp antes del PFR en la dirección de circulación desde el final de la vía, es decir, desde la est. Hradec nad Moravicí, medida a la izquierda, asciende según la relación
+### Lp : Vž = 220 m : 16,67 m.s-1 = 13,20 s.
+### De lo anterior se deduce:
+● con la longitud de visibilidad comprobada Lp= 220 m en la dirección desde la estación de Hradec nad Moravicí hacia el PFR en el pk 4,981, el vehículo por carretera más largo admitido a la circulación (es decir, de 22 m de longitud) no logra a tiempo abandonar la zona peligrosa del PFR. Existe riesgo de que se produzca una incidencia – colisión de un vehículo ferroviario con un vehículo por carretera en el cruce a nivel de la vía con la vía pública (en adelante, colisión), cuando el vehículo ferroviario impacta en el lateral del vehículo motor por carretera en el PFR.
+
+Dicha comprobación constituye el incumplimiento de lo dispuesto en el § 22 apartado 1 letra a) de la Ley núm. 266/1994 Sb.
 
 ## Página 28
 
-Sobre la base de lo anterior, el administrador de la infraestructura ferroviaria fue instado inmediatamente después de detectar la deficiencia en el lugar de la supervisión estatal en materia de ferrocarriles, de conformidad con el apartado 3 del artículo 59 de la ley n.º 266/1994 Coll., en relación con la garantía del funcionamiento de la infraestructura ferroviaria para las necesidades del tráfico ferroviario fluido y seguro, según las normas de funcionamiento de la infraestructura y la autorización administrativa, a la eliminación inmediata de las deficiencias y a la garantía de la explotación segura de la infraestructura y del tráfico ferroviario en el PK en cuestión, antes de la circulación del primer vehículo ferroviario por el PK en cuestión en la dirección desde la instalación de tráfico Hradec nad Moravicí.
-La deficiencia detectada fue eliminada por el administrador de la infraestructura ferroviaria mediante una limitación temporal de la velocidad de la vía en la dirección desde la instalación de tráfico Hradec nad Moravicí a 40 km/h. Se introdujo el 18 de diciembre de 2008 a las 14:00 h.
-
-### 3.2.4 Interfaces entre los diferentes sujetos participantes y las partes de la ruta de transporte
-
-El propietario y administrador de la infraestructura ferroviaria, categoría de vía regional Hradec nad Moravicí – Desvío Moravice, es SŽDC, s. o., con domicilio en Dlážděná 1003/7, Praga 1 – Nové Město, código postal 110 00, en virtud de la Autorización administrativa expedida por la Oficina de Ferrocarriles de Praga el 29 de mayo de 2008, con número de referencia 3 - 4277/07-DÚ/Le-DÚ/O-Sl (n.º de registro ÚP/2008/9002).
-
-El operador del tráfico ferroviario es České dráhy, a. s., con domicilio en Nábřeží L. Svobody 1222, Praga 1, código postal 110 15, en virtud de la Licencia de operador de tráfico ferroviario n.º de referencia 1–157/96-DÚ/O-Bp, n.º de registro: L/1996/5000, concedida por la Oficina de Ferrocarriles de Praga el 21 de mayo de 1996 a la persona jurídica – transportista, con razón social «České dráhy, a. s.».
-
-### 3.3 Marco jurídico y otras disposiciones
-
-### 3.3.1 Normativa comunitaria y nacional aplicable
-
-Para la determinación de las causas y circunstancias de la aparición de este incidente grave se utilizaron las siguientes normas nacionales:
-
-ley n.º 266/1994 Coll., sobre ferrocarriles, en su versión posterior;
+Sobre la base de lo anterior, el explotador ferroviario fue requerido, inmediatamente después de la constatación de la deficiencia en el lugar de ejercicio de la supervisión estatal en materia de ferrocarriles, de conformidad con el § 59 apartado 3 de la Ley núm. 266/1994 Sb., en el asunto de garantizar la explotación del ferrocarril para las necesidades del tráfico ferroviario fluido y seguro de acuerdo con las normas de explotación del ferrocarril y la autorización administrativa, a eliminar sin dilación las deficiencias y a garantizar la explotación segura del ferrocarril y del tráfico ferroviario en el tramo ferroviario objeto de mención, antes de la circulación del primer vehículo ferroviario a través del tramo ferroviario objeto de mención en el sentido desde la estación de Hradec nad Moravicí.
+La deficiencia constatada fue eliminada por el explotador ferroviario mediante una limitación transitoria de la velocidad en vía en el sentido desde la estación de Hradec nad Moravicí a 40 km·h-1. Establecida el día 18. 12. 2008 a las 14:00 h.
+### 3.2.4 Interfaz entre los distintos sujetos participantes y los componentes de la vía de tráfico
+El propietario y explotador del ferrocarril, categoría de ferrocarril regional Hradec nad Moravicí – Apartadero Moravice, es SŽDC, s. o., con domicilio en Dlážděná 1003/7, Praha 1 – Nové Město, CP 110 00, sobre la base de la Autorización administrativa emitida por la Oficina de Ferrocarriles de Praha el día 29. 05. 2008, con el n.º de expediente 3 - 4277/07-DÚ/Le-DÚ/O-Sl (n.º de registro ÚP/2008/9002).
+El explotador del tráfico ferroviario es České dráhy, a. s., con domicilio en Nábřeží L. Svobody 1222 Praha 1, CP 110 15, sobre la base de la Licencia de explotador del tráfico ferroviario n.º de expediente 1–157/96-DÚ/O-Bp, n.º de registro: L/1996/5000, concedida por la Oficina de Ferrocarriles de Praha el día 21. 05. 1996 a la persona jurídica – transportista, con la denominación social «České dráhy, a. s.».
+### 3.3 Regulación jurídica y otra
+### 3.3.1 Normativa comunitaria y nacional pertinente
+Para la determinación de las causas y circunstancias de la producción de este SU se aplicaron las siguientes normativas nacionales:
+Ley núm. 266/1994 Sb., de ferrocarriles, en la redacción de las disposiciones posteriores;
 ●
-decreto n.º 100/1995 Coll., por el que se establecen las condiciones para la explotación, construcción y fabricación de
+Decreto núm. 100/1995 Sb., por el que se establecen las condiciones para la explotación, construcción y fabricación de instalaciones técnicas designadas y su concreción (Reglamento de instalaciones técnicas designadas), en la redacción de las disposiciones posteriores;
 ●
-ciertos dispositivos técnicos y su concreción (Reglamento de dispositivos técnicos determinados), en su versión posterior;
-decreto n.º 101/1995 Coll., por el que se aprueba el Reglamento sobre la aptitud sanitaria y profesional
+Decreto núm. 101/1995 Sb., por el que se dicta el Reglamento de aptitud sanitaria y profesional de las personas en la explotación del ferrocarril y del tráfico ferroviario, en la redacción de las disposiciones posteriores;
 ●
-del personal durante la explotación de la infraestructura y del tráfico ferroviario, en su versión posterior;
-decreto n.º 173/1995 Coll., por el que se aprueba el reglamento de circulación de las vías férreas, en su versión
+Decreto núm. 173/1995 Sb., por el que se dicta el reglamento de circulación de los ferrocarriles, en la redacción de las disposiciones posteriores;
 ●
-posterior;
-decreto n.º 177/1995 Coll., por el que se aprueba el reglamento de construcción y técnica de las vías férreas, en su versión
+Decreto núm. 177/1995 Sb., por el que se dicta el reglamento de construcción y técnico de los ferrocarriles, en la redacción de las disposiciones posteriores;
 ●
-posterior;
-decreto n.º 376/2006 Coll., sobre el sistema de seguridad de la explotación de la infraestructura y del tráfico ferroviario
+Decreto núm. 376/2006 Sb., sobre el sistema de seguridad de la explotación del ferrocarril y del tráfico ferroviario y el procedimiento en caso de producción de sucesos excepcionales en los ferrocarriles;
 ●
-y el procedimiento en caso de aparición de incidentes graves en las vías férreas;
-ley n.º 361/2000 Coll., sobre la circulación en las vías terrestres, en su versión posterior;
+Ley núm. 361/2000 Sb., sobre la circulación en las vías de comunicación terrestre, en la redacción de las disposiciones posteriores;
 ●
-ley n.º 262/2006 Coll., Código del trabajo, en su versión posterior.
+Ley núm. 262/2006 Sb., Estatuto de los trabajadores, en la redacción de las disposiciones posteriores.
 ●
 
 ## Página 29
+
 
 3.3.2 Normas anteriores, por ejemplo, el reglamento de explotación, el reglamento de trabajo, las normas de mantenimiento, las normas técnicas vigentes y otras normas internas
 
@@ -817,8 +796,8 @@ Para determinar las causas y las circunstancias de la aparición de este IA se u
 
 ● Directriz de ČD PND3 «REGlamento DE EJECUCIÓN de la norma para la gestión simplificada del tráfico ferroviario para la vía Opava východ – Hradec nad Moravicí», aprobada el 19.02.2008, ref.: 103/08 Opava, con efecto desde el 03.03.2008, en su versión vigente.
 
-
 ## Página 30
+
 
 ### 3.4 Actividad de los vehículos ferroviarios y de los dispositivos técnicos
 
@@ -850,58 +829,37 @@ La salida del tren Os 23475 de la parada de Branka u Opavy se produjo a las 17:1
 
 ## Página 31
 
-velocidad de 36 km/h (registrado mediante el registro horizontal del salto de la aguja horaria y de la aguja de velocidad del registrador de velocidad). El tren recorrió los 220 m anteriores al choque en un tiempo de 17 s, es decir, 0,28 min. Los últimos 1,41 mm del registro de velocidad no nula antes de la detención, incluyendo la oscilación de las agujas del registrador de velocidad, corresponden a la evolución del suceso.
-
-En el tramo de vía adyacente al PP en el pk 4,981, el tren Os 23475 no superó la velocidad máxima permitida.
-
-De la constatación comisionada del estado técnico del vehículo de tracción HDV serie 810.069-5, de fecha 18 de diciembre de 2008, se desprende que el HDV fue utilizado por el transportista en un estado técnico que correspondía a la aptitud aprobada, es decir, que el estado técnico del HDV no estaba en relación causal con la aparición del SU, véase el documento «Acta de la inspección comisionada del HDV 810.069-5», ref.: 1-2469/2008/DI, de fecha 29 de diciembre de 2008.
-
+velocidad de 36 km·h⁻¹ (registrada por el registro horizontal del salto de la aguja de minutos y de la aguja de velocidad del registrador de velocidad). El tren recorrió los 220 m antes de la colisión en un tiempo de 17 s, es decir, 0,28 min. Los últimos 1,41 mm de registro de velocidad distinta de cero antes de la detención, incluido el salto de las agujas del registrador de velocidad, corresponden al desarrollo del suceso del accidente.
+En el tramo de línea adyacente al PdC en el km 4,981 no fue superada por el tren Os 23475 la velocidad máxima permitida.
+De la comprobación por parte de la comisión del estado técnico del VTT de la serie 810.069-5 del día 18. 12. 2008 se desprende que el VTT fue utilizado por el transportista en un estado técnico correspondiente a la aptitud aprobada, es decir, que el estado técnico del VTT no guardaba relación causal con la aparición del SU, véase el documento „Zápis z komisionální prohlídky ŽKV 810.069-5“, n.º de expediente: 1-2469/2008/DI, del día 29. 12. 2008.
 ### 3.5 Documentación sobre el sistema de explotación
-### 3.5.1 Medidas adoptadas por el personal del gestor de infraestructura y del transportista, en lo que respecta a la dirección, la señalización y la protección del tráfico
-
-El tren Os 23475 salió de la estación de Hradec nad Moravicí tras la expedición del tren, llevada a cabo por el maquinista. Antes de la expedición del tren Os 23475 se otorgó el consentimiento para la circulación del tren Os 23475 por la persona encargada de dirigir el tráfico ferroviario, el despachador de la estación de Opava východ.
-
-Desde el nivel de la señal de advertencia con la indicación «Tocar la bocina», que se encuentra en el sentido de circulación del tren Os 23475 en el pk 5,234, es decir, a 253 metros antes del PP, el maquinista emitió repetidamente la indicación acústica «Atención» con la bocina de la locomotora. Esta orden dada por el empleado del transportista tenía por objeto advertir a las personas de que se acercaba un tren al PP.
-
-### 3.5.2 Intercambio de mensajes verbales en relación con el suceso extraordinario, incluidos los documentos procedentes del dispositivo de grabación
-
-El primer mensaje comprobado en relación con el SU puede considerarse la notificación de la aparición del SU por parte del maquinista del tren Os 23475 mediante la radio de a bordo VS 47 al despachador de la estación de Opava východ.
-
-La persona técnicamente cualificada del transportista para las actividades realizadas en el ámbito de su objeto social, al investigar las causas y las circunstancias de la aparición del SU en el lugar del SU, recopiló la cinta, la banda del velocímetro, del velocímetro instalado en el HDV serie 810.069-5 del tren Os 23475.
-
-### 3.5.3 Medidas adoptadas para la protección y la seguridad del lugar del suceso extraordinario
-
-Las medidas de protección y seguridad del lugar del SU se aseguraron, hasta la llegada de la persona técnicamente cualificada autorizada del gestor de infraestructura y del tráfico ferroviario (en lo sucesivo, las personas autorizadas), por el maquinista del tren Os 23475. Tras la llegada de las personas autorizadas, se adoptaron las medidas de protección y seguridad del lugar del SU en colaboración con los órganos competentes en el procedimiento penal.
-
-El consentimiento para el inicio de las labores de desescombro fue concedido por el DI COP el 17 de diciembre de 2008 a las 19:15 h, es decir, 122 min después de la aparición del SU.
-
+### 3.5.1 Medidas adoptadas por los empleados del gestor de la infraestructura y del transportista en lo que respecta a la dirección, señalización y protección de la circulación
+El tren Os 23475 partió de la estación Hradec nad Moravicí tras la expedición del tren, realizada por el maquinista. A la expedición del tren Os 23475 precedió la concesión del permiso de circulación del tren Os 23475 por parte de la persona que dirige el tráfico ferroviario, el despachador de la estación dirigida Opava východ.
+Desde el nivel de la señal de advertencia con la señal «Pískejte», que se encuentra en el sentido de circulación del tren Os 23475 en el km 5,234, es decir, 253 m antes del PdC, el maquinista dio repetidamente la señal sonora «Pozor» con la bocina de la locomotora. Esta instrucción dada por el empleado del transportista estaba destinada a advertir a las personas de que se acercaba un tren al PdC.
+### 3.5.2 Intercambio de comunicaciones verbales en relación con el suceso excepcional, incluidas las pruebas procedentes del dispositivo de registro
+Como primera comunicación acreditada en relación con el SU puede considerarse la notificación de la aparición del SU por parte del maquinista del tren Os 23475 a la estación Opava východ mediante la radio de a bordo VS 47.
+La persona con competencia profesional del transportista para la actividad realizada en el marco del objeto de la empresa, al investigar las causas y circunstancias de la aparición del SU en el lugar del SU, recopiló el registro, la tira registradora de velocidad, del registrador de velocidad instalado en el VTT de la serie 810.069-5 del tren Os 23475.
+### 3.5.3 Medidas adoptadas para la protección y aseguramiento del lugar del suceso excepcional
+Las medidas de protección y aseguramiento del lugar del SU fueron garantizadas por el maquinista del tren Os 23475 hasta la llegada de la persona con competencia profesional designada del gestor de la infraestructura y del tráfico ferroviario (en adelante, persona designada). Tras la llegada de la persona designada, las medidas de protección y aseguramiento del lugar del SU se adoptaron en colaboración con las autoridades actuantes en el procedimiento penal.
+El permiso para iniciar los trabajos de limpieza fue concedido por el DI COP el día 17 de diciembre de 2008 a las 19:15 h, es decir, 122 min después de la aparición del SU.
 
 ## Página 32
 
 ### 3.6 Condiciones laborales, sanitarias y de explotación
-### 3.6.1 Jornada laboral del personal del gestor de infraestructura y del transportista que fueron participantes en el suceso
-
-El maquinista del tren Os 23475 comenzó su turno según el calendario de servicios por turnos el 17 de diciembre de 2008 a las 11:47 h, con el final previsto a las 23:22 h. El turno anterior finalizó el 16 de diciembre de 2008 a las 12:53 h. El descanso previo al turno fue conforme a lo dispuesto en el artículo 90 de la Ley n.º 262/2006 Coll., el Código del Trabajo, en su versión posterior.
-
-3.6.2 Estado de salud y situación personal que influyeron en el suceso extraordinario, incluido el estrés físico o psicológico
-
-No se detectaron el estado de salud ni la situación personal que pudieran influir en la aparición del SU, incluido el estrés físico y psicológico de las personas participantes en el SU. Se realizó una prueba de aliento orientativa al maquinista del tren Os 23475 para detectar la ingesta de alcohol, llevada a cabo por la Policía de Investigaciones de la República Checa (PČR) de la Oficina Regional del DI, con resultado negativo.
-
-3.6.3 Disposición del equipamiento del puesto de control o del vehículo, que influye en su manejo y uso
-
-El maquinista, durante la circulación del tren Os 23475, observaba la vía y las señales desde el lado derecho de la cabina del maquinista 2, la delantera en el sentido de circulación.
-
-La cabina del maquinista del HDV serie 810 está dispuesta ergonómicamente de tal manera que el maquinista tiene una visión despejada no solo de los elementos y dispositivos de control, comprobación y señalización situados en el panel de control del maquinista, sino también hacia el frente y en diagonal hacia los lados del HDV.
-
-La investigación no detectó ningún obstáculo ni elemento que dificultara al maquinista la visión frontal del HDV ni la visión general de la posición y el estado de los elementos y dispositivos de control, comprobación y señalización situados en la cabina del maquinista.
-
-### 3.7 Sucesos extraordinarios anteriores de carácter similar
-
-El DI registra SU de carácter similar, por ejemplo, el SU del 21 de septiembre de 2007, a las 11:10 h, en el que, en un PP protegido únicamente con una cruz de San Andrés, complementada con una señal de tráfico vertical P6 «Alto, ceda el paso» en el pk 140,285 de la línea ferroviaria de categoría nacional, Šatov st. hr. – Okříšky, entre las estaciones de Moravské Budějovice y Jaroměřice nad Rokytnou, se produjo una colisión entre un tren de mercancías Rn 52241 en circulación y un automóvil particular Škoda Octavia 1,9 TDI. La causa inmediata de la aparición del SU fue la entrada ilegal del automóvil particular en el PP en un momento en que se acercaba a él un vehículo ferroviario, el tren Rn 52241.
-
-En la investigación de las causas y las circunstancias de la aparición del SU, el DI, por parte del gestor de infraestructura, detectó, además de la relación causal con la aparición del SU, una avería consistente en la falta de garantía de la distancia de visibilidad suficiente para el conductor del vehículo de carretera más lento Lp. El gestor de infraestructura, que hasta el 30 de junio de 2008 era ČD, a. s., y desde el 1 de julio de 2008 es el gestor de la línea mencionada SŽDC, s. o., procedió de conformidad con su norma interna ČSD S 4/3 «NORMA PARA LA GESTIÓN Y EL MANTENIMIENTO DE LOS CRUCES Y PASOS A NIVEL FERROVIARIOS», en su versión vigente, cuyo contenido está en contradicción fundamental con la norma ČSN 73 6380 Cruces y pasos a nivel ferroviarios, y con los requisitos para la explotación segura del tráfico ferroviario y la garantía de la seguridad de los participantes en el tráfico de carretera en las vías públicas en el lugar de cruce de la línea ferroviaria con la vía pública a nivel de las vías.
+### 3.6.1 Jornada laboral de los empleados del gestor de la infraestructura y del transportista que fueron partes en el suceso
+El maquinista del tren Os 23475 inició la jornada conforme al horario del turno de servicio el día 17. 12. 2008 a las 11:47 h, con finalización prevista a las 23:22 h. Finalizó la jornada anterior el día 16. 12. 2008 a las 12:53 h. El descanso previo a la jornada se ajustó a lo dispuesto en el § 90 de la ley núm. 262/2006 Sb., Código del trabajo, en la redacción vigente.
+3.6.2 Estado de salud y situación personal que influyeron en el suceso excepcional, incluido el estrés físico o psicológico
+No se detectó ningún estado de salud ni situación personal que pudiera haber influido en la ocurrencia del suceso excepcional (MU), incluido el estrés físico y psicológico de las personas implicadas en el MU. La prueba de alcoholemia orientativa del maquinista del tren Os 23475 fue realizada por la PČR OŘ DI con resultado negativo.
+3.6.3 Disposición del equipamiento del puesto de conducción o del vehículo que influye en su manejo y uso
+Durante la circulación del tren Os 23475, el maquinista observaba la vía y las señales desde el lado derecho del puesto de conducción 2, el delantero en el sentido de la marcha.
+Los puestos de conducción de los vehículos de tracción de la serie 810 están dispuestos ergonómicamente de modo que el maquinista dispone de una visión no obstruida no solo de los elementos de mando, de control y de señalización y de los aparatos situados en la mesa de mando del maquinista, sino también hacia delante y en diagonal a los lados del vehículo de tracción.
+La investigación no detectó ningún obstáculo ni elemento que entorpeciera al maquinista la visión hacia delante del vehículo de tracción ni la percepción de la posición y el estado de los elementos de mando, de control y de señalización y de los aparatos situados en el puesto de conducción.
+### 3.7 Sucesos excepcionales anteriores de carácter similar
+La DI registra sucesos excepcionales de carácter similar, como por ejemplo el MU del día 21. 09. 2007, a las 11:10 h, cuando en el PZ protegido únicamente por una cruz de advertencia, complementada con la señal vertical de tráfico P6 «Alto, ceda el paso» en el km 140,285 de la vía ferroviaria, categoría de ámbito nacional, Šatov st. hr. – Okříšky, entre la est. Moravské Budějovice y la est. Jaroměřice nad Rokytnou, se produjo, durante la circulación del tren de mercancías Rn 52241, una colisión con un automóvil marca Škoda Octavia 1,9 TDI. La causa inmediata de la ocurrencia del MU fue la entrada indebida del automóvil en el PZ en el momento en que se aproximaba a él un vehículo ferroviario, el tren Rn 52241.
+Al investigar las causas y circunstancias de la ocurrencia del MU, la DI detectó, por parte del gestor de la infraestructura, además de la relación causal con la ocurrencia del MU, una anomalía consistente en la falta de garantía de una longitud de visibilidad suficiente para el conductor del vehículo rodado más lento Lp. El gestor de la infraestructura, que hasta el 30. 06. 2008 fue ČD, a. s., y a partir del 01. 07. 2008 es SŽDC, s. o., actuó conforme a su norma interna ČSD S 4/3 «REGLAMENTO PARA LA GESTIÓN Y MANTENIMIENTO DE LOS PASOS A NIVEL Y DE LOS PASOS PEATONALES FERROVIARIOS», en la redacción vigente, la cual, por su contenido, se encuentra en contradicción fundamental con la norma ČSN 73 6380 Pasos a nivel y pasos peatonales ferroviarios, y con los requisitos para la explotación segura del transporte ferroviario y la garantía de la seguridad de los usuarios de la vía pública en las carreteras en el punto de cruce de la vía ferroviaria con la carretera a nivel de las vías.
 
 ## Página 33
+
 
 DI proto, de conformidad con lo dispuesto en el apartado 5 del artículo 53b de la ley n.º 266/1994 Coll., en el «Informe sobre los resultados de la investigación de las causas y circunstancias de la aparición de un incidente grave», ref.: 2-1529/2007/DI, de fecha 25.05.2008, adoptó una recomendación de seguridad. Dicha recomendación de seguridad fue comunicada al explotador de la vía férrea con la referencia: 5-236/2008/DI, de fecha 25.05.2008, mediante la cual se recomendó al explotador de la vía férrea:
 
@@ -925,6 +883,7 @@ El cruce ferroviario (ŽP) en el pk 4,981 está señalizado con cruces de San An
 A una distancia de aproximadamente 220 m antes del cruce ferroviario, es decir, en el punto más lejano de visibilidad despejada hacia la vía para el conductor del vehículo rodoviario más largo que circulaba a una velocidad de 5 km/h, desde la posición de la cruz de San Andrés, situada a la derecha de la carretera nacional en el sentido de circulación de la composición rodoviaria procedente de la carretera nacional de primera categoría n.º 57, la velocidad del tren Os 23475 era de 51 km/h. A una distancia de aproximadamente 74 m antes del cruce ferroviario, el dispositivo de registro de la unidad motriz diésel (HDV) registró la activación del frenado de emergencia, cuando el maquinista reaccionó ante la
 
 ## Página 34
+
 
 aproximación de la composición rodoviaria, que entraba en el cruce ferroviario inmediatamente antes de la aproximación del tren Os 23475, por la derecha en el sentido de circulación del tren, procedente de la carretera nacional de primera categoría n.º 57. Tras la activación del frenado de emergencia, el maquinista junto con el maquinista en formación abandonaron rápidamente la cabina para dirigirse al compartimento de viajeros.
 
@@ -956,6 +915,7 @@ El cruce ferroviario (ŽP) en el pk 4,981 está señalizado de conformidad con l
 
 ## Página 35
 
+
 El semáforo de advertencia con la indicación «Pitá» está instalado a la derecha de la vía, en el sentido de circulación de los vehículos ferroviarios, desde la estación de Hradec nad Moravicí, en el pk 5,234, es decir, a una distancia de 253 m antes del paso a nivel (PPN), y en el sentido de circulación de los vehículos ferroviarios desde la derivación de Moravice está instalado a la derecha de la vía en el pk 4,728, es decir, a una distancia de 253 m antes del PPN, véase «ACTA sobre el ejercicio del control estatal en materia de ferrocarriles», de fecha 19.12.2008, núm. de registro: 1-2367/2008/DI.
 
 Los semáforos de advertencia con la indicación «Pitá» antes del PPN en el pk 4,981 están instalados de conformidad con el artículo 25 del reglamento interno ČSD S 4/3 «NORMA PARA LA GESTIÓN Y MANTENIMIENTO DE LOS PASOS A NIVEL Y CRUCES FERROVIARIOS», en su versión vigente, y con el artículo 1 de la norma ČSN 73 6380 Pasos a nivel y cruces ferroviarios, de acuerdo con lo dispuesto en el apartado 7 del artículo 4 del Decreto n.º 177/1995 Coll. y con el artículo 7.1 del anexo n.º 1 del Decreto n.º 173/1995 Coll.
@@ -981,6 +941,7 @@ En relación con lo dispuesto en el apartado 7 del artículo 4 del Decreto n.º 
 
 ## Página 36
 
+
 normas y reglamentos vigentes en el momento de su construcción o reconstrucción. El gestor de la infraestructura ferroviaria controla el estado de la señalización y de los sistemas de seguridad de los pasos a nivel (PL) de conformidad con el reglamento interno ČSD S 4/3 «NORMA PARA LA GESTIÓN Y MANTENIMIENTO DE PASOS A NIVEL Y CRUCES», aprobado por el viceministro del Ministerio de Transportes de la República Socialista de Checoslovaquia (ČSSR) el 28.02.1985, con número de registro: 15.488/84-13, con efecto desde el 01.09.1987, en su versión vigente. En el sentido del documento del gestor de la infraestructura ferroviaria «List. č. 1 – Datos resumidos del paso a nivel», de fecha 18.12.2008, número de registro: 1-2466/2008/DI, artículo 8, artículo 68, artículo 69 y artículo 81, apartado c), del reglamento interno ČSD S 4/3 «NORMA PARA LA GESTIÓN Y MANTENIMIENTO DE PASOS A NIVEL Y CRUCES», en su versión vigente, las condiciones de visibilidad en el PL situado en el pk 4,981 se clasifican como desfavorables (vía de tercer grupo y carretera de cuarto grupo), es decir, las distancias de visibilidad están garantizadas al menos hasta la mitad de la distancia de visibilidad prescrita. El artículo 26 del reglamento interno ČSD S 4/3 «NORMA PARA LA GESTIÓN Y MANTENIMIENTO DE PASOS A NIVEL Y CRUCES», en su versión vigente, que exige reducir la velocidad de la vía en el tramo adyacente al PL a una velocidad que corresponda a las distancias de visibilidad realmente alcanzadas, de modo que la visibilidad desde la carretera hacia el vehículo ferroviario que se acerca dure tanto como si se respetaran las distancias de visibilidad prescritas, no ha sido aplicado por el gestor de la infraestructura ferroviaria. El artículo 8 del reglamento interno ČSD S 4/3 «NORMA PARA LA GESTIÓN Y MANTENIMIENTO DE PASOS A NIVEL Y CRUCES», en su versión vigente, permite al gestor de la infraestructura ferroviaria, para el mantenimiento de las condiciones de visibilidad y la evaluación del tipo de seguridad de los PL en los que se celebró el último procedimiento administrativo antes del 01.01.1970, aplicar las disposiciones del capítulo VI. DISPOSICIONES TRANSITORIAS, es decir, permite al gestor de la infraestructura ferroviaria garantizar las distancias de visibilidad únicamente hasta la mitad de las distancias de visibilidad prescritas.
 
 El 19.12.2008, las personas autorizadas del Departamento de Inspección (DI) realizaron el control estatal en materia de ferrocarriles al gestor de la infraestructura ferroviaria, centrándose en el cumplimiento de las obligaciones del gestor de la infraestructura ferroviaria establecidas por las normas jurídicas en interés de la explotación segura de la infraestructura ferroviaria y del transporte ferroviario, en lo relativo a: la señalización, la seguridad y las condiciones de construcción del PL situado en el pk 4,981 de la línea ferroviaria de categoría regional Opava východ – Hradec nad Moravicí, véase «ACTA de la realización del control estatal en materia de ferrocarriles», de fecha 19.12.2008, número de registro: 1-2367/2008/DI.
@@ -1002,40 +963,63 @@ La distancia desde el punto de giro de los vehículos de motor de carretera desd
 
 ## Página 37
 
-de las condiciones de visibilidad desde la distancia establecida por el reglamento interno del gestor de la infraestructura ferroviaria ČSD S 4/3 «NORMA PARA LA GESTIÓN Y MANTENIMIENTO DE PASOS A NIVEL Y CRUCES», en su versión vigente, hasta la distancia de frenado B = 25 m. Por lo tanto, el gestor de la infraestructura ferroviaria evalúa la distancia de visibilidad para los conductores de vehículos de carretera Lm desde una distancia de 15,4 m.
-
-| Magnitudes prescritas: para la velocidad Vž= 60 km/h y la distancia de frenado B =25 m |  | Magnitudes determinadas Lm: para la velocidad Vž= 60 km/h y la distancia de frenado B = 154 m , |  |
-| --- | --- | --- | --- |
+de visibilidad desde la distancia establecida en la norma interna del gestor de la vía ČSD
+S 4/3 «REGLAMENTO PARA LA GESTIÓN Y MANTENIMIENTO DE LOS PASOS A NIVEL Y DE LOS PASOS PEATONALES»,
+en la versión vigente, a la distancia de frenado B = 25 m. Por ello, el gestor de la vía evalúa
+la longitud de visibilidad para los conductores de vehículos por carretera Lm desde una distancia de 15,4 m.
+| Grandezas prescritas: para la velocidad Vž= 60 km h-1 y la distancia de frenado B =25 m |  | Grandezas comprobadas L : m para la velocidad Vž= 60 km h-1 y la distancia de frenado B = 154 m , |  |
 | a la izquierda del final de la vía (Hradec nad Mor) . | a la izquierda del inicio de la vía (Odb Moravice) . | a la izquierda del final de la vía (Hradec nad Mor) . | a la izquierda del inicio de la vía (Odb . Moravice) |
 | 117 m | 117 m | más de 117 m | más de 117 m |
-
-La distancia de la cruz de aviso al eje de la vía fue determinada en 4,1 m.
-
-Durante la realización del control estatal en materia de ferrocarriles, de conformidad con el reglamento interno del gestor de la infraestructura ferroviaria ČSD S 4/3 «NORMA PARA LA GESTIÓN Y MANTENIMIENTO DE PASOS A NIVEL Y CRUCES», en su versión vigente, se calculó el tiempo necesario para cruzar la zona peligrosa del PL por el vehículo de carretera más largo admitido para la circulación en las carreteras y el tiempo durante el cual un vehículo ferroviario recorre (a la velocidad máxima de la vía de 60 km/h) la distancia de la distancia de visibilidad Lp determinada antes del PL:
-
-longitud dp:
-– es la longitud en metros, medida en el eje de la carretera desde el nivel de la cruz de aviso, situada a 4,1 m en la dirección de circulación de los vehículos de carretera hacia el límite de la zona peligrosa en el lado opuesto del PL. La longitud de 6,6 m se calculó para un ángulo de cruce de 90° según la fórmula:
-(4,1 m + 2,5 m) / sen 90° = 6,6 m;
-
-longitud ds:
-– es la longitud del vehículo de carretera más largo admitido para la circulación en la carretera que pasa por el PL, que es de 22 m;
-
-velocidad Vž en la dirección desde el final de la vía, es decir, en la dirección desde la estación de Hradec nad Moravicí:
-– es la velocidad de la vía de 60 km/h, es decir, 16,67 m/s, en el tramo de la vía adyacente al PL;
-
-velocidad Vsn:
-– es la velocidad del vehículo de carretera más lento de 5 km/h, es decir, 1,39 m/s;
-
-tiempo necesario para cruzar el vehículo de carretera más largo admitido para la circulación en la carretera que pasa por el PL situado en el pk 4,981 (longitud dp) según la relación (dp + ds) : Vsn = (6,6 m + 22 m) : 1,39 m/s = 20,58 s.;
-
-tiempo durante el cual un vehículo ferroviario recorre la distancia de la distancia de visibilidad Lp determinada antes del PL en la dirección de circulación desde el final de la vía, es decir, desde la estación de Hradec nad Moravicí, determinada a la izquierda según la relación Lp : Vž = 220 m : 16,67 m/s = 13,20 s.
-
-De lo anterior se desprende:
-con la distancia de visibilidad determinada Lp = 220 m en la dirección desde la instalación de tráfico Hradec nad Moravicí hacia el PL situado en el pk 4,981, el vehículo de carretera más largo admitido para la circulación (es decir, de 22 m de longitud) no abandona a tiempo la zona peligrosa del PL. Existe el riesgo de que se produzca un incidente grave – colisión, en la que un vehículo ferroviario impacte de costado contra un vehículo de motor de carretera en el PL.
-
-La constatación anterior por parte del gestor de la infraestructura ferroviaria constituye un incumplimiento de lo dispuesto en el artículo 22, apartado 1, letra a), de la ley n.º 266/1994 Coll., lo cual, en relación con las causas y las circunstancias de la aparición del presente accidente de tráfico, no puede considerarse como causalmente relacionado con la aparición del accidente de tráfico.
+La distancia de la cruz de advertencia desde el eje de la vía se comprobó en 4,1 m.
+En el ejercicio de la supervisión estatal en materia de vías, se determinó, en el sentido de la norma interna del gestor
+de la vía ČSD S 4/3 «REGLAMENTO PARA LA GESTIÓN Y MANTENIMIENTO DE LOS PASOS A NIVEL
+Y DE LOS PASOS PEATONALES», en la versión vigente, mediante cálculo, el tiempo necesario para cruzar la zona
+peligrosa del paso a nivel (ŽP) con el vehículo por carretera más largo admitido a la circulación en las vías
+públicas y el tiempo en que el vehículo ferroviario recorre (con una velocidad máxima en vía de 60 km.h-1)
+la distancia de la longitud de visibilidad comprobada Lp antes del ŽP:
+longitud
+ dp:
+–
+es la longitud en metros, medida en el eje de la vía pública desde el nivel de la cruz de advertencia,
+situada a 4,1 m en la dirección de circulación de los vehículos por carretera hasta el límite de la zona
+peligrosa en el lado opuesto del ŽP. La longitud de 6,6 m se calculó para un ángulo de cruce de 90° según la fórmula:
+(4,1 m + 2,5 m) / sin 90° = 6,6 m;
+longitud
+ ds:
+–
+es la longitud del vehículo por carretera más largo admitido a la circulación en la vía pública
+que atraviesa el ŽP, que asciende a 22 m;
+velocidad Vž
+ en la dirección desde el final de la vía, es decir, desde la est. Hradec nad Moravicí:
+–
+es la velocidad en vía de 60 km.h-1, es decir, 16,67 m.s-1, en el tramo de vía adyacente al ŽP;
+velocidad
+ Vsn
+:
+–
+es la velocidad del vehículo por carretera más lento de 5 km.h-1, es decir, 1,39 m.s-1;
+tiempo necesario para cruzar el vehículo por carretera más largo admitido a la circulación en la vía
+–
+pública a través del ŽP en el pk 4,981 (longitud dp) asciende según la relación (dp + ds) : Vsn = (6,6 m + 22 m) :
+1,39 m.s-1 = 20,58 s.;
+tiempo en que el vehículo ferroviario recorre la distancia de la longitud de visibilidad medida Lp antes del ŽP en
+–
+la dirección de circulación desde el final de la vía, es decir, desde la est. de Hradec nad Moravicí, medida a la
+izquierda, asciende según la relación
+### Lp : Vž = 220 m : 16,67 m.s-1 = 13,20 s.
+### De lo anterior se deduce:
+con la longitud de visibilidad comprobada Lp = 220 m en la dirección desde la estación de Hradec nad Moravicí hacia
+●
+el ŽP en el pk 4,981, el vehículo por carretera más largo admitido a la circulación (es decir, de 22 m de longitud)
+no logra abandonar a tiempo la zona peligrosa del ŽP. Existe riesgo de que se produzca una incidencia excepcional –
+una colisión en la que el vehículo ferroviario impacte en el lateral del vehículo motorizado por carretera en el ŽP.
+### El hallazgo anterior constituye, por parte del gestor de la vía, el incumplimiento de lo dispuesto en el § 22
+### apart. 1 letra a) de la Ley núm. 266/1994 Sb., que, sin embargo, en relación con las causas
+### y circunstancias de la incidencia excepcional en cuestión, no puede considerarse en relación causal
+### con la producción de la incidencia excepcional.
 
 ## Página 38
+
 
 El cruce en el paso a nivel (PN) en el pk 4,981 de la vía férrea, de categoría regional Opava východ – Hradec nad Moravicí, se produjo con una combinación de carretera que tenía una longitud de 16,55 m.
 Para las necesidades de determinación de las causas y circunstancias de la aparición del accidente (MU), el DI, en el sentido del reglamento interno del administrador de la infraestructura ferroviaria ČSD S 4/3 «NORMA PARA LA GESTIÓN Y MANTENIMIENTO DE PASOS A NIVEL Y CRUCES», en su versión vigente, realizó el siguiente cálculo del tiempo necesario para que la combinación de carretera de 16,55 m abandonara de forma segura la zona peligrosa del PN en cuestión, en relación con la distancia de visibilidad real, determinada, Lp = 220 m desde la dirección de circulación del tren Os 23475:
@@ -1093,66 +1077,70 @@ longitud X,
 
 ## Página 39
 
-encuentro:
-dp + distancia de la cabeza del conjunto de vehículos de carretera desde el centro del punto de impacto del tren con el remolque = 
+colisión:
+dp + distancia del frontal del conjunto rodado desde el centro del punto de impacto del tren al remolque = 
 4,1 m + 12,13 m = 16,23 m; 
 velocidad Vž
- en dirección desde el final de la línea, es decir, en dirección desde la playa de maniobras de Hradec nad Moravicí: 
+ en dirección desde el final de la vía, es decir, en dirección desde la estación Hradec nad Moravicí: 
 –
-velocidad de línea en el tramo de vía adyacente al paso a nivel (ŽP) es de 60 km.h-1, es decir, 16,67 m.s-1;
+la velocidad de vía en el tramo de la vía adyacente al PFE es 60 km.h-1, es decir, 16,67 m.s-1;
 velocidad Vž
- en dirección desde el final de la línea, es decir, en dirección desde la playa de maniobras de Hradec nad Moravicí:  
+ en dirección desde el final de la vía, es decir, en dirección desde la estación Hradec nad Moravicí:  
 –
-velocidad real del tren de pasajeros Os 23475 a una distancia Lp=220 m antes del paso a nivel (ŽP) fue de 51 km.h-1, 
+la velocidad real del tren Os 23475 a una distancia Lp=220 m antes del PFE era de 51 km.h-1, 
 es decir, 14,17 m.s-1;
 velocidad 
  Vsn
- :
+:
 –
-del vehículo de carretera más lento es de 5 km.h-1, es decir, 1,39 m.s-1;
-tiempo necesario para recorrer la longitud X del conjunto de vehículos de carretera (a velocidad mínima de 5 km.h-1) es de 
+la del vehículo rodado más lento es 5 km.h-1, es decir, 1,39 m.s-1;
+el tiempo necesario para recorrer la longitud X con el conjunto rodado (a una velocidad mínima de 5 km.h-1) asciende 
 –
 según la relación longitud X : Vsn = 16,23 m : 1,39 m.s-1 = 11,68 s.;
-distancia que recorre el vehículo ferroviario (a velocidad máxima de línea de 60 km.h-1) durante el tiempo de 11,68 s, 
+la distancia que el vehículo ferroviario (a la velocidad máxima de vía de 60 km.h-1) recorre en 11,68 s, 
 –
-según la relación 11,68 . Vž = 11,68 s . 16,67 m.s-1 = 194,71 m, lo cual es una distancia 25,29 m 
-más corta que el valor de la distancia de visibilidad calculada Lp = 220 m;  
-distancia que recorre el vehículo ferroviario (a velocidad máxima de línea de 51 km.h-1) durante el tiempo 
+asciende según la relación 11,68 . Vž = 11,68 s . 16,67 m.s-1 = 194,71 m, lo que es una distancia 25,29 m 
+inferior al valor de la longitud de visibilidad determinada Lp = 220 m;  
+la distancia que el vehículo ferroviario (a la velocidad máxima de vía de 51 km.h-1) recorre en 
 –
-de 11,68 s, según la relación 11,68 . Vž = 11,68 s . 14,17 m.s-1 = 165,51 m, lo cual es una distancia 
-### 54,49 m más corta que el valor de la distancia de visibilidad calculada Lp = 220 m.
-De los cálculos anteriores se desprende que el conductor del conjunto de vehículos de carretera entró en el paso a nivel (ŽP) en el pk 4,981 en un momento en que 
-el tren Os 23475 se acercaba al paso a nivel (ŽP), encontrándose ya en el lugar donde para el conductor del conjunto de vehículos de carretera 
-se garantizaba una visibilidad despejada de la vía y, por tanto, también de la cabeza del tren Os 23475. Este hallazgo lo confirma 
-también la evaluación de los datos registrados por el dispositivo de registro de datos del conductor (HDV) de la serie 810.069-5 del tren 
-Os 23475. De la evaluación se desprende que el tren Os 23475, operado por el gestor de la infraestructura, recorrió la 
-distancia de visibilidad garantizada a la izquierda del final de la línea, es decir, desde Hradec nad Moravicí, Lp = 220 m, en 17 s 
-y el conjunto de vehículos de carretera recorrió la distancia desde el nivel de la señal de cruce hasta el punto de detención de la cabeza del conjunto de vehículos de carretera 
-durante el choque en 11,68 s. 
-El conductor del conjunto de vehículos que se encontraba en el paso a nivel (ŽP) en el pk 4,981 de la vía férrea, de categoría 
-### regional, Opava východ – Hradec nad Moravicí, conforme al artículo 6 apartado 3 de la 
-Ley n.º 266/1994 Coll., no dio prioridad al transporte ferroviario frente al tráfico en la vía pública 
-y, conforme al artículo 22 apartado 4 de la Ley n.º 266/1994 Coll., no cuidó de su propia seguridad y no hizo caso 
-de las instrucciones del gestor de la infraestructura para garantizar la seguridad de las personas y la seguridad de la explotación 
-de la vía férrea y del transporte ferroviario, al entrar en el paso a nivel (ŽP) en un momento en que se acercaba al paso a nivel (ŽP) el tren Os 23475 
-que se encontraba en un lugar donde para el conductor del conjunto de vehículos ya se había garantizado una visibilidad despejada de la 
-vía.
-El sistema de garantía de la seguridad de la explotación de la vía férrea nacional y regional por parte del gestor de la infraestructura 
-SŽDC, s. o., de conformidad con lo dispuesto en el artículo 2 apartado 1 y apartado 2 del Decreto n.º 376/2006 Coll., establece 
-los procedimientos que garantizan el cumplimiento de las normas técnicas y de explotación existentes, nuevas y modificadas, u otras condiciones obligatorias establecidas en otras normas internas 
-del gestor de la infraestructura, es decir, también en la norma interna ČSD S 4/3 „REGLAMENTO PARA LA GESTIÓN 
-Y MANTENIMIENTO DE LOS PASOS A NIVEL Y CRUCES FERROVIARIOS“, en su versión vigente.
-Este reglamento, que está en contradicción fundamental con la norma ČSN 73 6380 Pasos a nivel y cruces ferroviarios, 
-en su contenido permite al gestor de la infraestructura garantizar en los pasos a nivel (ŽP) en los que la última administración del procedimiento se llevó a cabo 
-antes del 01. 01. 1970, distancias de visibilidad únicamente del 50 % de las distancias de visibilidad prescritas. La reducción de la distancia de visibilidad despejada de la vía para los participantes 
-en el tráfico en la vía pública de manera sin precedentes pone en peligro en el punto de cruce 
-de la vía férrea con la vía pública a nivel de las vías la explotación segura del transporte ferroviario 
-y no garantiza la seguridad de los participantes en el tráfico en la vía pública. Incluso en la situación en que 
-un participante en el tráfico en la vía pública en dicho paso a nivel (ŽP) siga las instrucciones 
-del gestor de la infraestructura para garantizar la seguridad y la seguridad de otras personas, es decir, mediante la observación de la longitud 
-de la distancia de visibilidad permitida por el gestor de la infraestructura, se asegure de que no se acerca ningún vehículo ferroviario al paso a nivel (ŽP),
+11,68 s, asciende según la relación 11,68 . Vž = 11,68 s . 14,17 m.s-1 = 165,51 m, lo que es una distancia 
+### 54,49 m inferior al valor de la longitud de visibilidad determinada Lp = 220 m.
+De los cálculos anteriores se deduce que el conductor del conjunto rodado entró en el PFE en el pk 4,981 en el momento en que 
+al PFE se aproximaba el tren Os 23475, encontrándose ya en el lugar donde para el conductor del conjunto rodado estaba 
+garantizada una visión ininterrumpida hacia la vía y, por tanto, hacia el frontal del tren Os 23475. Este hallazgo lo confirma 
+también la evaluación de los datos registrados por el dispositivo registrador del HDV serie 810.069-5 del tren 
+Os 23475. De la evaluación se deduce que el tren Os 23475 recorrió la longitud de visibilidad garantizada por el gestor de la vía 
+a la izquierda desde el final de la vía, es decir, desde Hradec nad Moravicí, Lp = 220 m en 17 s, 
+y el conjunto rodado recorrió la longitud desde el nivel de la cruz de advertencia hasta el lugar de parada del frontal del conjunto rodado 
+en la colisión en 11,68 s. 
+El conductor del conjunto circulante que se encontraba en el PFE en el pk 4,981 de la vía ferroviaria, categoría 
+### regional, Opava východ – Hradec nad Moravicí, en el sentido del § 6 apartado 3 de la ley 
+n.º 266/1994 Sb. no dio prioridad al transporte ferroviario sobre la circulación en la vía pública 
+y en el sentido del § 22 apartado 4 de la ley n.º 266/1994 Sb., descuidó su seguridad y descuidó 
+las instrucciones del gestor de la vía para garantizar la seguridad de las personas y la seguridad de la explotación 
+de la vía y del transporte ferroviario al entrar en el PFE en el momento en que al PFE se aproximaba el tren Os 23475 
+encontrándose en el lugar donde para el conductor del conjunto circulante estaba 
+ya garantizada una visión ininterrumpida hacia la vía.
+El sistema de garantía de la seguridad de la explotación de la vía de los gestores de la vía de ámbito nacional y regional 
+SŽDC, s. o., de conformidad con lo dispuesto en el § 2 apartado 1 y apartado 2 del decreto n.º 376/2006 Sb., establece 
+procedimientos que garantizan el cumplimiento de las normas técnicas y de explotación existentes, nuevas y modificadas 
+u otras condiciones vinculantes establecidas en otras disposiciones internas 
+del gestor de la vía, es decir, también en la disposición interna ČSD S 4/3 «REGLAMENTO PARA LA GESTIÓN 
+Y EL MANTENIMIENTO DE LOS PASOS A NIVEL Y DE LOS PASOS PEATONALES FERROVIARIOS», 
+en su versión vigente.
+Este reglamento, que está en contradicción fundamental con la norma ČSN 73 6380 Pasos a nivel y pasos peatonales ferroviarios, 
+por su contenido permite, en los PFE en los que el último procedimiento administrativo se realizó 
+antes del 01. 01. 1970, que el gestor de la vía garantice longitudes de visibilidad 
+solo en ½ de las longitudes de visibilidad prescritas. La acortación de la longitud de visibilidad ininterrumpida 
+hacia la vía para los usuarios de la circulación en las vías públicas pone en peligro de manera sin precedentes 
+en el punto de cruce de la vía ferroviaria con la vía pública a nivel de las vías la explotación segura del transporte ferroviario 
+y no garantiza la seguridad de los usuarios de la circulación en las vías públicas. Incluso en la situación en que 
+un usuario de la circulación en las vías públicas en un PFE de este tipo cumpla las instrucciones 
+del gestor de la vía para garantizar la seguridad y la seguridad de otras personas, es decir, que con la mirada a la longitud 
+de visibilidad permitida por el gestor de la vía se cerciore de si al PFE se aproxima un vehículo ferroviario,
 
 ## Página 40
+
 
 se ha planteado si, para vehículos de carretera de mayor longitud, existe un riesgo real de que se produzca un accidente (MU), en el que el vehículo de carretera no logra abandonar a tiempo la zona peligrosa del paso a nivel (ŽP). El vehículo ferroviario que se acerca impacta contra el lateral del vehículo de carretera. La situación descrita está vigente desde la entrada en vigor de la norma interna ČSD S 4/3 «NORMA PARA LA GESTIÓN Y MANTENIMIENTO DE PASOS A NIVEL Y CRUCES FERROVIARIOS», aprobada por el viceministro del Ministerio de Transportes de la RSS de Checoslovaquia el 28.02.1985, con el número de registro: 15.488/84-13, con efecto desde el 01.09.1987, en su versión vigente.
 
@@ -1170,6 +1158,7 @@ La circulación de los trenes entre la estación de Opava východ y la desviaci�
 La circulación de los trenes entre la desviación de Moravice y la terminal de Hradec nad Moravicí está garantizada mediante la gestión simplificada del tráfico ferroviario (dirección). La vía desde la desviación de Moravice hasta Hradec nad Moravicí comienza en el pk 2,894, junto a la señal de entrada HL de la desviación de Moravice, y termina en el pk 8,211, junto al tope de la vía muerta
 
 ## Página 41
+
 
 los trenes n.º 1a en la estación de tráfico de Hradec nad Moravicí, de conformidad con lo dispuesto en el apartado 6 del artículo 15 y el apartado 3 del artículo 19 del Decreto n.º 173/1995 Coll.
 El frontal del tren de pasajeros Os 23475 estaba correctamente señalizado con la indicación «Inicio del tren» y la parte trasera del tren estaba señalizada con la indicación «Final del tren», de conformidad con lo dispuesto en el artículo 39 del Decreto n.º 173/1995 Coll.
@@ -1201,6 +1190,7 @@ El límite de la intersección se encuentra en las inmediaciones del PPN. De ell
 
 ## Página 42
 
+
 ČSN 73 6380 Pasos a nivel y pasos peatonales ferroviarios, vigente desde mayo de 2008, la cual no puede aplicarse al estado actual de la construcción, el PPN en el pk 4,981 de la línea ferroviaria de categoría regional Opava východ – Hradec nad Moravicí, hasta la reconstrucción del cruce a nivel de vías terrestres en cuestión.
 La autoridad de investigación no tiene objeciones respecto a la actividad y el despliegue de los medios y recursos de los distintos componentes del Sistema de Emergencia Integrado (IZS), incluida la organización y la dirección de las operaciones de rescate.
 ### 4.3 Conclusiones
@@ -1218,61 +1208,52 @@ El gestor de la infraestructura, a efectos del apartado 1, letra a), del artícu
 
 ## Página 43
 
-dopravny Hradec nad Moravicí. Dada la longitud de visibilidad Lp = 220 m en el sentido procedente de la central de maniobras Hradec nad Moravicí, el vehículo de carretera más largo admitido para la circulación, con una longitud de 22 m, no logra abandonar a tiempo la zona peligrosa del paso a nivel (PPN). Existe el riesgo de que se produzca un accidente de tráfico (AT), en el que el vehículo ferroviario impacte lateralmente contra el vehículo de carretera.
-
-El titular de la infraestructura, en aplicación de lo dispuesto en el artículo 8 y el capítulo VI «DISPOSICIONES TRANSITORIAS» del reglamento interno ČSD S 4/3 «NORMA PARA LA GESTIÓN Y MANTENIMIENTO DE LOS PASOS A NIVEL Y CRUCES», aprobado por el viceministro de Transportes de la República Socialista Checa y Eslovaca (ČSSR) el 28 de febrero de 1985, con número de registro 15.488/84-13, con efecto desde el 1 de septiembre de 1987, en su versión vigente, en el sentido del apartado 1, letra a), del artículo 22 de la Ley n.º 266/1994 Coll., no garantizó la explotación de la vía para las necesidades del tráfico ferroviario fluido y seguro conforme a las normas de explotación de la vía y a la autorización administrativa, al permitir el sistema de garantía de la seguridad de la explotación de la vía, y seguir permitiendo, al titular de la infraestructura garantizar las longitudes de visibilidad en los PPN únicamente hasta la mitad de las longitudes de visibilidad prescritas. De este modo, se crea la premisa para la aparición de una situación en la que un vehículo de carretera de mayor longitud, que no exceda de 22 m de longitud, no logra abandonar a tiempo la zona peligrosa del PPN antes de la aproximación de un vehículo ferroviario.
-
-Para subsanar las deficiencias detectadas, el titular de la infraestructura, Správa železniční dopravní cesty, organismo estatal, fue requerido por la Inspección Ferroviaria (DI) en el acta «ACTA sobre el ejercicio de la supervisión estatal en materia de ferrocarriles» n.º de registro 1-2367/2008/DI, de fecha 19 de diciembre de 2008.
-
+de tráfico Hradec nad Moravicí. Con la longitud de visibilidad determinada Lp = 220 m en el sentido desde el puesto de tráfico Hradec nad Moravicí, el vehículo rodado más largo admitido a la circulación, con una longitud de 22 m, no logra a tiempo abandonar la zona peligrosa de la PFC. Existe riesgo de que se produzca un MU, en el que el vehículo ferroviario entre en la PFC e impacte en el lateral del vehículo motorizado rodado.
+El gestor de la infraestructura, en relación con lo dispuesto en el artículo 8 y en el capítulo VI. DISPOSICIONES TRANSITORIAS del reglamento interno de los ČSD S 4/3 «REGLAMENTO PARA LA GESTIÓN Y MANTENIMIENTO DE LOS PASOS A NIVEL Y DE LOS CRUCES FERROVIARIOS», aprobado por el subsecretario del Ministerio de Transporte de la ČSSR el 28. 02. 1985 con el n.º de expediente: 15.488/84-13, en vigor desde el 01. 09. 1987, en su versión vigente, en virtud del § 22 apartado 1 letra a) de la ley n.º 266/1994 Sb., no garantizó la explotación de la infraestructura para las necesidades del tráfico ferroviario fluido y seguro de acuerdo con las normas de explotación de la infraestructura y la autorización administrativa, al permitir que el sistema de garantía de la seguridad de la explotación de la infraestructura permitiera y siga permitiendo al gestor de la infraestructura garantizar en la PFC únicamente la mitad de las longitudes de visibilidad prescritas. De este modo, crea el presupuesto para que se produzca una situación en la que un vehículo motorizado rodado más largo, que no supere una longitud propia de 22 m, no logre a tiempo abandonar la zona peligrosa de la PFC antes de la llegada del vehículo ferroviario.
+Para la eliminación de las deficiencias detectadas, el gestor de la infraestructura, Správa železniční dopravní cesty, organización estatal, fue requerido por la Inspección Ferroviaria en el acta «ACTA sobre el ejercicio de la supervisión estatal en materia de infraestructuras ferroviarias» n.º de expediente: 1-2367/2008/DI de fecha 19 de diciembre de 2008.
 ## 5 MEDIDAS ADOPTADAS
-### 5.1 Relación de las medidas adoptadas o adoptadas como consecuencia del incidente extraordinario
-
-Sobre la base de los resultados de la investigación de las causas y circunstancias de la aparición del AT, ni el titular de la infraestructura ni el transportista, en el sentido del apartado 3, letra e), del artículo 49 de la Ley n.º 266/1994 Coll. y del apartado 1, del artículo 13 del Decreto n.º 376/2006 Coll., adoptaron ninguna medida para prevenir AT similares.
-
-Sobre la base de los resultados del ejercicio de la supervisión estatal en materia de ferrocarriles, llevado a cabo el 19 de diciembre de 2008, entre las 08:10 h y las 12:30 h, se requirió al titular de la infraestructura, SŽDC, s. o., que subsanara sin demora las deficiencias detectadas para garantizar la explotación segura de la vía y el tráfico ferroviario en el PPN en cuestión. El titular de la infraestructura adoptó las siguientes medidas:
-
-1. para garantizar la salida segura de la zona peligrosa del PPN en el punto kilométrico (pk) 4,981 por parte del vehículo de carretera más largo y más lento (longitud 22 m, velocidad 5 km/h), a la izquierda del final de la vía, el titular de la infraestructura estableció el 18 de diciembre de 2008 a las 14:00 h una velocidad reducida de 40 km/h, en el tramo comprendido entre el pk 5,250 y el pk 4,970, para el sentido de circulación de los trenes procedentes de la central de maniobras Hradec nad Moravicí;
-
-2. sobre la base de los datos obtenidos del gestor de la carretera (Centro de la Administración de Carreteras de la Región de Moravia y Silesia, Opava) y del operador de la gestión del tráfico en la línea ferroviaria en cuestión (České dráhy, a. s., Centro Regional de Operaciones de Ostrava – distrito operativo de Opava), el titular modificó el instante de circulación del PPN en cuestión, pasando del valor 17 459 al 15 833.
-
-El 11 de febrero de 2009, el titular de la infraestructura, tras haber garantizado previamente las longitudes de visibilidad prescritas en el PPN en el pk 4,981, levantó la restricción temporal de velocidad en el PPN.
+### 5.1 Lista de medidas que ya se han adoptado o tomado como consecuencia del suceso excepcional
+Sobre la base de los resultados de la investigación de las causas y circunstancias de la producción del MU, ni el gestor de la infraestructura ni el transportista adoptaron, en el sentido del § 49 apartado 3 letra e) de la ley n.º 266/1994 Sb. y del § 13 apartado 1 del decreto n.º 376/2006 Sb., ninguna medida para prevenir MU similares.
+Sobre la base de los resultados del ejercicio de la supervisión estatal en materia de infraestructuras ferroviarias, realizado el 19. 12. 2008 entre las 08:10 h y las 12:30 h, el gestor de la infraestructura, SŽDC, s. o., fue requerido para la eliminación inmediata de las deficiencias detectadas a fin de garantizar la explotación segura de la infraestructura y del tráfico ferroviario en la PFC en cuestión. El gestor de la infraestructura adoptó las siguientes medidas:
+1. para garantizar la salida segura de la zona peligrosa de la PFC en el km 4,981 por parte del vehículo rodado más largo y más lento (longitud 22 m, velocidad 5 km.h-1) a la izquierda del final de la vía, el 18. 12. 2008 a las 14:00 h el gestor de la infraestructura introdujo una velocidad reducida de 40 km.h-1, en el km 5,250 – 4,970 para el sentido de circulación de los trenes desde el puesto de tráfico Hradec nad Moravicí;
+2.
+sobre la base de la documentación facilitada por el gestor de la carretera (Centro de la Gestión de Carreteras de la Región Moravskoslezská Opava) y del operador de la gestión del tráfico de la infraestructura en la vía férrea en cuestión (České dráhy, a. s., Centro Regional de Explotación Ostrava – distrito de explotación Opava), modificó el momento de tráfico de la PFC en cuestión del valor 17 459 a 15 833.
+El 11. 02. 2009, el gestor de la infraestructura, tras haber garantizado previamente las longitudes de visibilidad prescritas en la PFC en el km 4,981, levantó la limitación temporal de velocidad en la PFC.
 
 ## Página 44
 
 ## 6 RECOMENDACIONES DE SEGURIDAD
-
-La Inspección Ferroviaria (DI), como autoridad competente conforme a lo dispuesto en el apartado 5 del artículo 53b de la Ley n.º 266/1994 Coll., sobre la base de los resultados de la investigación de las causas y circunstancias de la aparición del AT, recomienda al titular de la infraestructura, SŽDC, s. o.:
-
-1. negociar con los propietarios de las carreteras la adopción de las medidas de tráfico adecuadas para el cruce a nivel de las carreteras de categoría I n.º 57 y de categoría III n.º 44346, situado en las inmediaciones del PPN en el pk 4,981 de la línea ferroviaria de categoría regional, Opava východ – Hradec nad Moravicí. Las medidas de tráfico deben facilitar el giro seguro de los vehículos de carretera desde la carretera de categoría I n.º 57 hacia la carretera de categoría III n.º 44346 y hacia el PPN en el pk 4,981, y, en el sentido contrario, evitar que los vehículos de carretera que giren desde la carretera de categoría III n.º 44346 hacia la carretera de categoría I n.º 57 se detengan en la zona de protección del PPN.
-
-El objetivo de la recomendación de seguridad anteriormente mencionada es:
-
-*   reducir la probabilidad de que se produzcan AT similares, en los que, debido a la situación de tráfico en la intersección, el participante en la circulación por carretera, antes de entrar en el PPN inmediatamente adyacente en el pk 4,981, no se asegure de si ya ve o escucha el vehículo ferroviario que se acerca, ni de si puede cruzar el PPN de forma segura;
-*   reducir la probabilidad de que se produzcan AT y otras situaciones peligrosas, en las que un vehículo de carretera de mayor longitud, que circula por el PPN en el pk 4,981 hacia la intersección inmediatamente adyacente, desde la carretera de categoría III n.º 44346 gira hacia la carretera de categoría I n.º 57, se ve obligado, debido a la obligación de ceder el paso a un vehículo de carretera que circula por la carretera principal, a detener la parte trasera de su vehículo en el PPN y, por tanto, no libera la zona peligrosa del PPN.
-
-2.  en el marco de su medida para garantizar la explotación segura de la vía y el tráfico ferroviario, tener plenamente en cuenta la recomendación de seguridad de la DI, ya adoptada anteriormente en el «Informe sobre los resultados de la investigación de las causas y circunstancias de la aparición del incidente extraordinario», n.º de registro 2-1529/2007/DI, de fecha 25 de mayo de 2008, relativo al AT del 21 de septiembre de 2007, a las 11:10 h.
-
-La recomendación de seguridad fue comunicada al titular de la infraestructura, que hasta el 30 de junio de 2008 fue ČD, a. s., y desde el 1 de julio de 2008 es SŽDC, s. o., con el número de registro 5-236/2008/DI.
-
-La DI recomienda simultáneamente a la autoridad administrativa competente, que es la Autoridad Ferroviaria, que adopte su propia medida dirigida a garantizar la ejecución de las recomendaciones de seguridad anteriormente mencionadas también por otros titulares de infraestructura ferroviaria de categoría de línea regional, en la República Checa.
-
-En Ostrava, el 26 de agosto de 2009
-
+DI, como órgano competente en materia de acuerdo con lo dispuesto en el apartado 5 del § 53b de la Ley núm. 266/1994 Sb., sobre la base de los resultados de la investigación de las causas y circunstancias de la ocurrencia del MU, recomienda al gestor de la vía, SŽDC, s. o.:
+1.
+tratar con los propietarios de las vías de comunicación por carretera la adopción de las medidas de tráfico adecuadas en el cruce a nivel de las vías de comunicación por carretera de clase I núm. 57 y clase III núm. 44346, situado en la inmediata proximidad del ŽP en el km 4,981 de la vía ferroviaria, categoría regional, Opava východ – Hradec nad Moravicí. La medida de tráfico debe facilitar el giro seguro de los vehículos por carretera desde la vía de comunicación por carretera de clase I núm. 57 hacia la vía de comunicación por carretera de clase III núm. 44346 y hacia el paso a nivel en el km 4,981, y en sentido contrario impedir la parada del vehículo por carretera que gira desde la vía de comunicación por carretera de clase III núm. 44346 hacia la vía de comunicación por carretera de clase I núm. 57 en la franja de protección del ŽP.
+El objetivo de la recomendación de seguridad mencionada más arriba es:
+reducir la probabilidad de la ocurrencia de MU similares, cuando, debido a la situación del tráfico en el
+•
+cruce, un usuario de la vía de comunicación por carretera, antes de entrar en el ŽP inmediatamente adyacente en el km 4,981, no se asegura de si ya se ve o se oye el vehículo ferroviario que se aproxima, y no se asegura de si puede cruzar el ŽP de forma segura;
+reducir la probabilidad de la ocurrencia de MU y otras situaciones peligrosas, cuando un vehículo
+•
+por carretera de mayor longitud, que circula por el ŽP en el km 4,981 hacia el cruce inmediatamente adyacente, desde el que se gira desde la vía de comunicación por carretera de clase III núm. 44346 hacia la vía de comunicación por carretera de clase I núm. 57, se ve obligado, por razón de dar prioridad al vehículo por carretera que circula por la carretera principal, a detener su parte trasera en el ŽP y no liberar así la franja peligrosa del ŽP.
+2. tener plenamente en cuenta, en su medida para garantizar la explotación segura de la vía y del transporte ferroviario, las recomendaciones de seguridad de DI, adoptadas anteriormente en el Informe sobre los resultados de la investigación de las causas y circunstancias de la ocurrencia del suceso excepcional, ref. núm.: 2-1529/2007/DI, de fecha 25. 05. 2008, sobre el MU, de fecha 21. 09. 2007, a las 11:10 h.
+La recomendación de seguridad fue remitida al gestor de la vía, que hasta el 30. 06. 2008 fue ČD, a. s., y a partir del 01. 07. 2008 es SŽDC, s. o., bajo el ref. núm.: 5-236/2008/DI.
+DI recomienda asimismo al órgano administrativo competente, que es el Drážní úřad, la adopción de una medida propia encaminada a garantizar la realización de las recomendaciones de seguridad mencionadas más arriba también en otros gestores de vías ferroviarias, categoría vía regional, en la República Checa.
+En Ostrava, a 26. 08. 2009
 .................................................................
 .................................................................
 Ing. Vladimír Handl
 Ing. Petr Maikranz
-inspector jefe
+inspector superior
 director
 Inspección Territorial de Ostrava
 de la Inspección Territorial de Ostrava
 
 ## Página 45
 
+
 ## 7 ANEXOS
 ### Fotografías n.º 1, 2: Vehículo de carretera y vehículo ferroviario en su posición final tras el AT.
 
 ## Página 46
+
 
 ### Fotografía n.º 3: Vista del PPN en el pk 4,981 desde la intersección de las carreteras de categoría I n.º 57 y de categoría III n.º 44346.
 ### Foto: ©Inspección Ferroviaria

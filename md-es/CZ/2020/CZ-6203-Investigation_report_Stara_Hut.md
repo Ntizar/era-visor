@@ -10,13 +10,14 @@ chars: 145028
 ratio_longitud: 1.24
 tokens_in: 80915
 tokens_out: 58263
-verificacion: revisar
-notas_cifras: ["bloque 2: original bilingüe: se compara contra el idioma principal (PT)", "bloque 5: original bilingüe: se compara contra el idioma principal (CS)", "bloque 6: cifras cortas: 1/229", "bloque 10: cifras cortas: 3/81", "bloque 11: original bilingüe: se compara contra el idioma principal (CS)"]
-avisos: ["bloque 5: ratio 1.78", "bloque 11: ratio 1.78"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 4: original bilingüe: se compara contra el idioma principal (CS)", "página 7: original bilingüe: se compara contra el idioma principal (EN)", "página 8: original bilingüe: se compara contra el idioma principal (PT)", "página 13: original bilingüe: se compara contra el idioma principal (CS)", "página 15: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -40,13 +41,13 @@ IČ: 75009561
 mail@dicr.cz
 tel.: +420 736 521 003
 
-
 ## Página 2
+
 
 Este informe final es público y todos los hechos en él expuestos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ## 1 RESUMEN
 Fuente: PČR
@@ -79,54 +80,38 @@ misma dirección, debido a la orientación de la traza y a la posición paralela
 vía ferroviaria, y visión degradada de los vehículos que circulan en sentido contrario debido al
 crecimiento de la vegetación en el borde del bosque;
 
-
 ## Página 4
 
-imposibilidad para el conductor del conjunto rodante que gira de ver el tren que circula en la misma
 •
-dirección en las inmediaciones justo antes del paso a nivel ferroviario P5737 tras iniciar la maniobra de giro.
-Causas fundamentales:
-actuación del conductor del conjunto rodante ante el paso a nivel ferroviario, donde no actuó con
-•
-especial precaución, en particular no se aseguró de si podía cruzar el paso a nivel ferroviario de forma segura.
-Causa en el sistema de seguridad:
-no fue detectada por la Inspección Ferroviaria.
-•
-Recomendaciones de seguridad:
-La Inspección Ferroviaria, con base en lo dispuesto en el § 53e apartado 1 de la Ley n.º 266/1994 Sb.,
-recomienda, en relación con la prevención de sucesos excepcionales:
-### A la Autoridad Ferroviaria:
-adopción de una medida que garantice la dotación del paso a nivel ferroviario P5737, actualmente
-•
-protegido únicamente por cruces de advertencia, con un dispositivo de protección a nivel dotado de
-barreras, lo que, atendiendo a las condiciones locales desde el punto de vista de la barrera óptica y
-física, reducirá la probabilidad de que el conductor entre en el paso a nivel ferroviario cuando no
-responda al material rodante de visibilidad limitada que se aproxima al paso a nivel ferroviario.
-Al Ayuntamiento de Dobříš, como autoridad administrativa de carreteras en materia de carreteras de
-clase II y III y vías de uso público de destino especial en el territorio administrativo del municipio
-con competencias ampliadas de Dobříř:
-poda y recorte de la vegetación (ramas de árboles, arbustos), en su caso tala de árboles en el borde
-•
-del bosque en el lado interior de la curva de trazado en las proximidades de la carretera II/114 con el
-objetivo de mejorar las condiciones de visibilidad y la visión del conductor y permitir así la detección
-temprana de vehículos que circulan en sentido contrario. De este modo, aumentar la previsibilidad de la
-situación para el conductor que gira hacia la vía que atraviesa el paso a nivel ferroviario y para el
-conductor del vehículo que circula en sentido contrario.
-### A la Autoridad Ferroviaria en colaboración con el Ayuntamiento de Dobříš:
-garantizar la instalación de un dispositivo de seguridad vial – espejo reflector de tráfico junto al
-•
-PAP P5737 para mejorar las posibilidades de visión del conductor que gira desde la carretera II/114
-(desde la localidad Stará Huť) antes del paso a nivel ferroviario P5737;
-garantizar la seguridad de los vehículos mediante la instalación de la señalización DZ P6 «¡Pare,
-•
-ceda el paso!» delante del PAP P5737 en el sentido de llegada desde la instalación de la empresa Zdeněk
-Kulda o mediante la eliminación del cartel publicitario o la reducción de la velocidad en la vía de uso
-público de destino especial desde la instalación de la empresa Zdeněk Kulda, lo que reducirá la longitud
-mínima de visión necesaria para detener Dz y, por tanto, también la longitud mínima de visión para el
-vehículo Lr.
+impedimento de la visión del conductor de la composición que se desvía hacia el tren que circula en la misma dirección en las inmediaciones inmediatamente antes del paso a nivel P5737 tras iniciar la maniobra de desvío.
 
+Causas principales:
+•
+la actuación del conductor de la composición antes del paso a nivel, donde no actuó con especial precaución, en particular no se comprobó si podía cruzar el paso a nivel de forma segura.
+
+Causa en el sistema de seguridad:
+•
+no fue detectada por la Inspección Ferroviaria.
+
+Recomendaciones de seguridad:
+La Inspección Ferroviaria, con base en lo dispuesto en el § 53e apartado 1 de la Ley núm. 266/1994 Sb., recomienda, en relación con la prevención de sucesos extraordinarios:
+
+### A la Autoridad Ferroviaria:
+•
+la adopción de una medida que garantice la dotación del paso a nivel P5737, actualmente protegido únicamente con cruces de San Andrés, de una instalación de señalización de paso a nivel complementada con barreras, lo que, atendiendo a las circunstancias locales desde el punto de vista de la barrera óptica y física, reducirá la probabilidad de que el conductor entre en el paso a nivel cuando no responda al vehículo ferroviario de visibilidad limitada que se aproxima al paso a nivel.
+
+### Al Ayuntamiento de Dobříš, en su condición de autoridad administrativa de carreteras en materia de carreteras de clase II y III y de comunicaciones de uso público en el ámbito administrativo del municipio con competencias ampliadas de Dobříš:
+•
+la poda y recorte de la vegetación (ramas de árboles, arbustos), o en su caso la tala de árboles en el borde del bosque por el lado interior de la curva horizontal en las proximidades de la carretera II/114, con el fin de mejorar las condiciones de visibilidad y la visión del conductor y permitir así la detección temprana de vehículos que circulen en sentido contrario. De este modo, aumentar la previsibilidad de la situación para el conductor que se desvía hacia la vía que atraviesa el paso a nivel y para el conductor del vehículo que circula en sentido contrario.
+
+### A la Autoridad Ferroviaria en colaboración con el Ayuntamiento de Dobříš:
+•
+garantizar la instalación del dispositivo de seguridad vial – espejo de carretera – junto al PAP P5737 para mejorar las posibilidades de visión del conductor que se desvía desde la carretera II/114 (desde la localidad de Stará Huť) antes del paso a nivel P5737;
+•
+garantizar la seguridad de los vehículos mediante la instalación de la señal DZ P6 «¡Alto, ceda el paso!» antes del PAP P5737 en el sentido procedente del recinto de la empresa Zdeněk Kulda, o mediante la eliminación del cartel publicitario o la reducción de la velocidad en la vía de uso público procedente del recinto de la empresa Zdeněk Kulda, lo que reducirá la longitud mínima de visibilidad necesaria para detener Dz y, por tanto, también la longitud mínima de visibilidad para el vehículo de carretera Lr.
 
 ## Página 5
+
 
 ## SUMMARY
 Grade: 
@@ -181,8 +166,8 @@ barriers, which with respect to local conditions and optical and manual barrier 
 reduce probability of the driver's entrance at the level crossing when the driver does
 not respond to limited visible rolling stock approaching to the level crossing.
 
-
 ## Página 6
+
 
 Addressed to Municipality of Dobříš, as the road administrative office of roads II. and III.
 class and publicly accessible special-purpose roads at the administrative territory of the
@@ -208,6 +193,7 @@ minimum view length for stopping (Dz) and also the minimum view length for the
 road vehicle (Lr).
 
 ## Página 7
+
 
 # Índice
 1 RESUMEN........................................................................................................................3
@@ -248,8 +234,8 @@ SUMMARY.........................................................................
 3.4 Actividad de los vehículos ferroviarios y de otros dispositivos técnicos..........................................25
 3.4.1 Sistema de control, señalización y seguridad, incluidos los dispositivos de registro automático de
 
-
 ## Página 8
+
 
 datos.....................................................................................................25
 3.4.2 Componentes de la vía....................................................................................................25
@@ -284,8 +270,8 @@ Evaluación de la situación de seguridad ferroviaria actual en el lugar........
 6 RECOMENDACIONES DE SEGURIDAD.....................................................................................47
 7 ANEXOS..........................................................................................................................49
 
-
 ## Página 9
+
 
 ## Lista de siglas y símbolos utilizados
 B
@@ -367,6 +353,7 @@ estación de ferrocarril
 
 ## Página 10
 
+
 ## Lista de abreviaturas de disposiciones legales, normas y reglamentos internos
 ley núm. 262/2006 Sb.
 ley núm. 262/2006 Sb., Código del Trabajo, en la redacción vigente en el momento del suceso
@@ -392,8 +379,8 @@ decreto núm. 104/1997 Sb., por el que se desarrolla la ley de las vías públic
 ČSN 73 6380
 ČSN 73 6380 «Pasos a nivel y pasos para peatones ferroviarios», en la redacción vigente en el momento del suceso
 
-
 ## Página 11
+
 
 SŽDC D1
 reglamento interno del explotador ferroviario SŽ, «SŽDC D1 Reglamento de circulación y de señales», en la redacción vigente en el momento del suceso
@@ -412,8 +399,8 @@ condiciones técnicas TP 133 «Principios para la señalización horizontal en l
 TP 171
 condiciones técnicas TP 171 «Curvas de trazado para la verificación de la transitabilidad de los elementos direccionales de las vías públicas», en la redacción vigente en el momento del suceso
 
-
 ## Página 12
+
 
 ## 2 DATOS RELATIVOS AL SUCESO EXCEPCIONAL
 ### 2.1 Suceso excepcional
@@ -435,20 +422,36 @@ Fuente: DI
 ### 2.1.2 Descripción del desarrollo del suceso excepcional y del lugar de origen, incluida la actividad del sistema integrado de emergencias y del servicio de rescate
 El 21. 2. 2020 a las 11:41 h, el tren Os 2012, compuesto por una unidad diésel de tres coches «Regionova trio», que circulaba desde la est. Dobříš hacia la est. Praha hl. n., en el PP P5737 en el pk 3,119, protegido únicamente por cruces de advertencia, colisionó con un conjunto rodante formado por un camión de la marca Scania con un remolque de la marca Wielton (en adelante también conjunto rodante), cargado con paletas de madera. Como consecuencia del impacto del frente del tren contra la parte lateral derecha del remolque, se produjeron heridas en 4 personas, la destrucción del remolque, el descarrilamiento y los graves daños en los dos primeros coches del tren.
 
-
 ## Página 13
 
-                  Fuente: Maps.google.cz, edición DI
-Fig. 2: Esquema del lugar de origen del suceso
-### Del examen del lugar del suceso se constató lo siguiente:
-Paso a nivel y vías públicas adyacentes:
-El PP P5737 se encuentra en el pk 3,119 en la vía de una sola vía del ferrocarril regional Dobříš – Enlace de Skochovice (según TTP 523B), en plena vía entre las estaciones ferroviarias Dobříš y Malá Hraštice, en el tramo entre las paradas Stará Huť y Mokrovraty, que cruza la vía de acceso de servicio que conduce desde la carretera principal II/114 al recinto de la empresa de transporte y combustibles Zdeněk Kulda.
-Al PP P5737 se podía acceder desde tres direcciones: por la carretera asfaltada II/114 en dirección desde Stará Huť, por la misma carretera en dirección desde Mokrovraty y, además, por la vía de servicio asfaltada desde el recinto de la empresa Zdeněk Kulda (en adelante también recinto de la empresa).
-A 450 m antes del PP P5737, la vía que procede de la est. Dobříš (parada Stará Huť) pasa de un arco a la derecha a un tramo recto y discurre paralela a la carretera II/114 hasta el PP P5737. Tras el PP P5737, a los 200 m, sigue el PP P5738 y a otros 190 m el PP P5739, donde la vía cruza la carretera II/114. Entre estos pasos a nivel, la vía está formada por una combinación de arcos suaves a la izquierda y tramos rectos. La vía continúa junto a la carretera II/114 hasta la localidad de Mokrovraty.
-El tren circulaba desde la est. Dobříš (parada Stará Huť) a través del PP P5737 y se dirigía a través de la parada Mokrovraty hacia la est. Praha hl. n. El conductor del conjunto rodante circulaba desde la localidad de Stará Huť hacia el PP P5737, donde giraba a la derecha desde la carretera principal II/114 hacia la vía de servicio enlazada que conducía al recinto de la empresa a través del PP P5737 (véase el esquema en la Fig. 2). Según el DI, el ángulo de cruce entre la vía y la vía de servicio era de 90°. El valor medido de Dp era de 6,5 m.
-
+Fuente: Maps.google.cz, elaboración DI
+Fig. n.º 2: Esquema del lugar de origen del MU 
+### Tras el examen del lugar del MU se constató:
+El paso a nivel y las vías públicas adyacentes:
+El PN P5737 se encuentra en el pk 3,119 en la vía de ancho único de la línea regional Dobříš –
+Desvío Skochovice (según TTP 523B), en la vía al aire libre entre las estaciones de ferrocarril Dobříš
+y Malá Hraštice, en el tramo entre las paradas Stará Huť y Mokrovraty, que cruza la vía de acceso
+de servicio que conduce desde la carretera principal n.º II/114 al recinto de la empresa de transporte
+por carretera y combustibles Zdeněk Kulda.
+Al PN P5737 se podía acceder desde tres direcciones, a saber: por la carretera asfaltada n.º II/114
+en dirección desde Stará Huť, por la misma carretera en dirección desde Mokrovraty y, además, por
+la vía de servicio asfaltada desde el recinto de la empresa Zdeněk Kulda (en adelante también recinto
+de la empresa).
+A 450 m antes del PN P5737, la vía procedente de la est. Dobříš (parada Stará Huť) pasa
+de un arco a la derecha a un tramo recto y discurre paralela a la carretera n.º II/114 hasta el PN
+P5737. Tras el PN P5737, a los 200 m, sigue el PN P5738 y a otros 190 m el PN P5739, donde la
+vía cruza la carretera n.º II/114. Entre estos pasos a nivel la vía está formada por una combinación
+de arcos suaves a la izquierda y tramos rectos. La vía continúa junto a la carretera n.º II/114 hasta
+la localidad de Mokrovraty.
+El tren circulaba desde la est. Dobříš (parada Stará Huť) a través del PN P5737 y se dirigía
+a través de la parada Mokrovraty hacia la est. Praha hl. n. El conductor de la composición circulaba
+desde la localidad de Stará Huť hacia el PN P5737, donde giraba a la derecha desde la carretera
+principal n.º II/114 hacia la vía de servicio enlazada que conducía al recinto de la empresa a través
+del PN P5737 (véase el esquema en la Fig. n.º 2). Según DI, el ángulo de cruce entre la vía y la
+vía de servicio era de 90°. El valor medido de Dp era de 6,5 m.
 
 ## Página 14
+
 
 El PP P5737 estaba protegido únicamente por cruces de advertencia. El paso a nivel estaba señalizado en ambos lados con la señal DZ A 32a «Cruce de advertencia para paso a nivel de una sola vía», instaladas en postes y cuya ubicación cumplía lo dispuesto en la ČSN 73 6380 y en el reglamento SŽDC S4/3. El cruce de advertencia antes del PP en el sentido de circulación del conjunto rodante estaba en buen estado y sin daños; el poste del cruce de advertencia después del PP fue arrancado como consecuencia de la colisión en el sentido de circulación del tren descarrilado.
 La carretera II/114, desde la que se gira hacia el camino de acceso al recinto de la empresa a través del PP P5737, no estaba señalizada por ningún lado con la señal DZ «Placa indicativa» A 31a (240 m), A 31b (160 m), A 31c (80 m) ni con otra señal DZ que advierta sobre el paso a nivel, p. ej. la señal DZ A 30 «Paso a nivel sin barreras». Además, durante el examen se documentó la instalación de las señales «Poste de advertencia» en ambos sentidos de circulación de los vehículos ferroviarios y se midieron las condiciones de visibilidad (véase el punto 3.4.2 de la presente ZZ). Las longitudes de visibilidad Lp y Lr en el cuadrante en el sentido de circulación del tren Os 2012 y del conjunto rodante eran satisfactorias.
@@ -461,6 +464,7 @@ Tren Os 2012:
 El tren Os 2012 estaba formado por una unidad diésel de tres coches «Regionova trio», concretamente por la locomotora CZ-ČD 95 54 5 814 222-6 (en adelante también HDV delantera 814 222-6), además por el coche intercalado CZ-ČD 95 54 5 014 111-1 y la locomotora CZ-ČD 95 54 5 814 221-8 (en adelante también HDV trasera 814 221-8). La longitud del tren Os 2012 era de 42,41 metros (6 ejes). Peso total 74 t, frenado necesario % 81, frenado real % 101. El tren estaba frenado por el método de frenado I en el modo P. No se produjo la rotura del tren. Los tirantes de las zapatas de freno de los distintos DV del tren en el momento del examen presionaban contra las ruedas, todos los DV estaban en estado frenado. El frente del tren Os 2012 se encontraba en estado descarrilado en el pk 3,140
 
 ## Página 15
+
 
 (tj. 21 m za místem vzniku MU) ve směru jízdy vlaku. Konec soupravy vlaku byl
 v km 3,099 (tj. 20 m před místem vzniku MU).
@@ -509,8 +513,8 @@ Délka nákladního automobilu byla 9,670 m, délka přívěsu byla 10,150 m. Oj
 z části zasunuta pod skříň nákladního automobilu, takže celková délka jízdní soupravy byla
 18,75 m. Přívěs nákladního automobilu, ložený paletami, které byly následkem střetnutí
 
-
 ## Página 16
+
 
 rozházeny do okolí, ležel na svém levém boku za ŽP P5737 ve směru jízdy vlaku, vpravo od
 koleje za příjezdovou cestou vedoucí ze ŽP P5737 do areálu firmy. Přívěs byl stále spojen
@@ -545,8 +549,8 @@ dráhy, dopravcem, PČR, z dokumentu HZS a Odborného posouzení ČVUT.
 Šetření příčin a okolností vzniku MU bylo prováděno podle zákona č. 266/1994 Sb.
 a vyhlášky č. 376/2006 Sb.
 
-
 ## Página 17
+
 
 ### 2.2 Okolnosti mimořádné události
 ### 2.2.1 Zúčastnění zaměstnanci, osoby ve smluvním poměru a další zúčastnění
@@ -590,8 +594,8 @@ Jednalo se o jednokolejnou neelektrifikovanou trať, na které je jízda vlaků
 zabezpečena telefonickým dorozumíváním, s traťovou rychlostí 50 km.h-1 v místě MU.
 Podrobněji viz bod 2.1.2 této ZZ.
 
-
 ## Página 18
+
 
 ### 2.2.4 Použití komunikačních prostředků
 V souvislosti s MU neproběhla verbální komunikace mající vliv na její vznik.
@@ -646,8 +650,8 @@ PČR, Dopravní inspektorát Příbram;
 PČR, Služba kriminální policie a vyšetřování Příbram.
 •
 
-
 ## Página 19
+
 
 ### 2.3 Úmrtí, zranění a způsobená škoda
 2.3.1 U cestujících a třetích osob, zaměstnanců provozovatele dráhy a dopravce,
@@ -698,42 +702,41 @@ vede souběžně se silnicí č. II/114.
 
 ## Página 20
 
-## 3 ZÁZNAM DE LAS INVESTIGACIONES Y DE LAS EXPLICACIONES PRESENTADAS
+## 3 REGISTRO DE LA INVESTIGACIÓN Y DE LAS EXPLICACIONES PRESENTADAS 
 ### 3.1 Resumen de las explicaciones presentadas (sujeto a la protección de la identidad de las personas)
-### 3.1.1 Empleados del gestor de la infraestructura y del transportista, incluidas personas en relación contractual
+### 3.1.1 Empleados del gestor de la vía y del transportista, incluidas personas en relación contractual
 maquinista del tren Os 2012
-  – en el Registro con el empleado, en presencia del DI, entre otras cosas, indicó:
+  – En el Acta con el empleado, en presencia del DI, entre otras cosas, indicó:
 •
-◦entró en servicio a las 5:58 h, disfrutó de la pausa por la mañana en la est. Mníšek pod Brdy;
-◦durante el servicio condujo el tren Os 2012 con salida a las 11:36 h desde la est. Dobříš;
-◦unos 400 m antes del PdF P5737, en el punto donde la carretera empezaba a discurrir paralela a la vía, advirtió la presencia de un camión con remolque, con el que chocó posteriormente;
+◦entró en servicio a las 5:58 h, realizó la pausa por la mañana en la estación de Mníšek pod Brdy;
+◦durante el servicio condujo el tren Os 2012 con salida a las 11:36 h desde la estación de Dobříš;
+◦a unos 400 m antes del PdP P5737, en el punto donde la carretera empezaba a discurrir paralela a la vía, advirtió la presencia de un camión con remolque, con el que posteriormente chocó;
 ◦detrás de dicho camión circulaba un autobús de excursión;
-◦antes del PdF P5736, asegurado únicamente con cruces de advertencia (que se encuentra unos 200 m antes del mencionado PdF P5737), daba la señal «¡Atención!»;
-◦el camión circulaba unos 20 a 30 m por delante del tren. Ya no recuerda si el camión daba señal de cambio de sentido de marcha. El camión no reducía la velocidad en absoluto, por lo que no esperaba que entrara en el PdF P5737;
-◦cuando observó que el frontal del camión se desvió de la carretera principal en dirección al PdF P5737, aplicó inmediatamente el frenado de acción rápida y se refugió bajo la consola de mando;
-◦debido a la corta distancia de unos 20 m, el tren ya no logró detenerse y se produjo la colisión del tren con el remolque del camión, que mientras tanto había entrado en el paso a nivel;
+◦antes del PdP P5736, protegido únicamente por cruces de advertencia (que se encuentra a unos 200 m antes del mencionado PdP P5737), daba la señal «Atención»;
+◦el camión circulaba a unos 20 a 30 m por delante del tren. Ya no recuerda si el camión daba señal de cambio de sentido de marcha. El camión no reducía la velocidad en absoluto, por lo que no esperaba que entrara en el PdP P5737;
+◦cuando observó que la parte delantera del camión se desvió de la carretera principal en dirección al PdP P5737, aplicó inmediatamente el frenado de acción rápida y se refugió bajo la mesa de mando; 
+◦debido a la corta distancia de unos 20 m ya no logró detener el tren y se produjo la colisión del tren con el remolque del camión, que mientras tanto había entrado en el paso a nivel;
 ◦en el impacto sufrió lesiones en el ojo izquierdo y en la pierna derecha, y a continuación fue trasladado para recibir atención médica;
-◦tras producirse el accidente, intentó acceder al espacio para pasajeros, donde vio a 2 pasajeros que claramente no estaban heridos, pero sí conmocionados. La jefa de tren tampoco resultó herida;
-◦la jefa de tren le comunicó que había comunicado el accidente al despachante regional de ČD;
-◦además, comunicó el accidente a su jefe de locomotoras por teléfono a las 11:45 h;
+◦tras producirse el siniestro intentó acceder al espacio para pasajeros, donde vio a 2 pasajeros que claramente no estaban heridos, pero sí conmocionados. La jefa de tren también resultó ilesa;
+◦la jefa de tren le comunicó que había comunicado la producción del siniestro al despachador regional de ČD;
+◦además, comunicó la producción del siniestro a su jefe de taller por teléfono a las 11:45 h;
 ◦antes de ser trasladado en ambulancia para recibir atención médica, apagó el motor y ayudó a los bomberos, que desconectaron el separador de baterías y aseguraron la composición del tren;
-◦antes de producirse el accidente no anotó ningún defecto en la composición, incluidos los frenos;
-◦se sometió a la prueba de aliento por parte de la PČR con resultado negativo.
+◦antes de producirse el siniestro no había registrado ningún defecto en la composición, incluidos los frenos;
+◦se sometió a la prueba de aliento por parte de la Policía Nacional (PČR) con resultado negativo.
 ### 3.1.2 Otros testigos
-conductor de la
-  composición
-  – en el Registro de la explicación presentada, el DI, entre otras cosas, indicó:
+conductor del tren de circulación
+  – En el Registro de explicaciones presentadas, el DI indicó, entre otras cosas:
 •
 ◦el 21. 2. 2020 entró en servicio a las 5:30 h descansado, sano y sin estrés;
-◦circuló con la composición según el plan hasta Praga y luego hasta Rožmitál pod Třemšínem, donde tuvo una pausa de las 8 h a las 9 h. Tras cargar palés, regresó a la empresa Zdeněk Kulda;
-◦en el regreso a la empresa, circuló por Stará Huť y a continuación por el PdF P5737, donde se produjo el accidente;
-◦circulaba por delante del autobús; tras Stará Huť, mirando por el retrovisor hacia atrás en la vía, veía unos 100 a 200 m; había una llanura;
-◦tenía la radio encendida, pero silenciada; estaba en silencio total;
-◦cuando se aproximaba al PdF P5737, vio en el retrovisor un autobús a unos 20 m. El autobús circulaba detrás de él desde Dobříš;
-◦en el trayecto hacia el PdF P5737 circulaba a una velocidad de unos 50 a 60 km.h-1, luego fue reduciendo lentamente la velocidad, miró por el retrovisor derecho hacia la vía y no vio ningún tren, después miró por el retrovisor izquierdo hacia la carretera a su espalda, donde no había ningún
-
+◦circuló con el tren de circulación según el plan hasta Praga y luego hasta Rožmitál pod Třemšínem, donde tuvo una pausa de las 8 h a las 9 h. Tras cargar palés, regresó a la empresa Zdeněk Kulda;
+◦en el regreso a la empresa circuló por Stará Huť y posteriormente por el PdP P5737, donde se produjo el siniestro;
+◦circulaba por delante del autobús; tras Stará Huť, mirando por el espejo retrovisor hacia atrás, podía ver la vía a unos 100 a 200 m; allí había un tramo llano;
+◦tenía la radio encendida, pero silenciada; estaba en completo silencio;
+◦cuando se aproximaba al PdP P5737, vio en el espejo retrovisor un autobús a unos 20 m de distancia. El autobús circulaba detrás de él desde Dobříš;
+◦en el trayecto hacia el PdP P5737 circulaba a una velocidad de unos 50 a 60 km·h-1, después fue reduciendo lentamente la velocidad, miró por el espejo retrovisor derecho hacia la vía y no vio ningún tren allí, luego miró por el espejo retrovisor izquierdo hacia la carretera detrás de él, donde no había
 
 ## Página 21
+
 
 automóvil, luego miró hacia delante y en el sentido contrario no circulaba ningún automóvil, por lo que podía desplazarse a la izquierda para poder empezar a girar a la derecha en el cruce a través del PdF hacia el recinto de la empresa. Nada le impedía girar a la derecha;
 ◦la velocidad de la composición en el PdF era de unos 5 a 10 km.h-1;
@@ -763,8 +766,8 @@ indicó:
 ◦la composición del camión con remolque mide 18,75 m;
 ◦al girar el camión desde la carretera hacia el PdF P5737, hay que adentrarse en el sentido contrario, sin poner en peligro a los automóviles que circulan en sentido contrario y salen de la curva a velocidades de hasta 90 km.h-1, y al mismo tiempo vigilar el tráfico ferroviario para comprobar si circula algún tren.
 
-
 ## Página 22
+
 
 testigo del accidente, conductor del autobús de excursión
   – en el Registro de la explicación presentada, el DI,
@@ -802,26 +805,26 @@ otras cosas, indicó:
 ◦en el pasado, en la carretera principal, en el cercano PdF P5739, había la señal DZ A 32a «Cruce de ferrocarril de vía única» y la señal DZ P 6 «¡Pare, ceda el paso!», por lo que el tráfico en la carretera principal era más lento y tranquilo. Ahora el PZS permite circular por el PdF P5739 a velocidades de hasta 50 km.h-1 y en la carretera fuera del paso a nivel hasta 90 km.h-1;
  lamentablemente, la visión desde el PdF P5737 hacia el tramo de carretera junto al PdF P5739 no es la mejor debido a la curva y al bosque.
 
-
 ## Página 23
 
 ### 3.2 Sistema de garantía de la seguridad
 ### 3.2.1 Organización marco y forma de emisión y ejecución de instrucciones
-El gestor de la infraestructura y el transportista disponen de un sistema de garantía de la seguridad adoptado con base en las disposiciones de la Ley núm. 266/1994 Sb.
-En el sistema de garantía de la seguridad de la explotación de la infraestructura adoptado por el gestor de la infraestructura SŽ, relacionado con las circunstancias de producción del accidente en cuestión, no se detectó ninguna deficiencia.
-En el sistema de garantía de la seguridad de la explotación del transporte ferroviario adoptado por el transportista ČD, relacionado con las circunstancias de producción del accidente en cuestión, no se detectó ninguna deficiencia.
-### 3.2.2 Requisitos para los empleados del gestor de la infraestructura y del transportista y aplicación de dichos requisitos
-Los requisitos para los empleados del gestor de la infraestructura y del transportista, en particular los requisitos de idoneidad profesional y sanitaria, están establecidos por la Ley núm. 266/1994 Sb., por el decreto núm. 173/1995 Sb., por el decreto núm. 101/1995 Sb., por el decreto núm. 16/2012 Sb. y por las normas internas del gestor de la infraestructura y del transportista.
-En el momento de producción del accidente en cuestión, la persona del transportista ČD implicada en el accidente (el maquinista del Os 2012) que realizaba actividades en la explotación del transporte ferroviario era profesionalmente idónea para el desempeño de la función que ocupaba.
-### 3.2.3 Procedimientos de control interno de seguridad y de auditoría y sus resultados
-La obligación de realizar inspecciones y mediciones periódicas de los PdF, incluida la comprobación de las condiciones de visibilidad, corresponde al gestor de la infraestructura según la disposición del § 26 del decreto núm. 177/1995 Sb. El intervalo de tiempo para la inspección del PdF está establecido en el anexo núm. 1 de dicho decreto y es de 12 meses.
-La norma interna del gestor de la infraestructura SŽDC S2/3, en los artículos 75 a 81, determina el listado y el alcance de las comprobaciones de los PdF.
-La última inspección integral periódica de la vía, incluido el PdF P5737, se realizó del 1. 4. 2019 al 29. 4. 2019. La última inspección conjunta del PdF P5737 y de la vía pública adyacente se realizó el 17. 6. 2019. La última ronda de inspección en este tramo antes de la producción del accidente la realizó el inspector el día 17. 2. 2020 sin indicar el resultado de la comprobación. En todas las comprobaciones presentadas de la ronda realizada no se indica el resultado de la comprobación, lo que es contrario al art. 39 de SŽDC S2/3. La última inspección de circulación en HDV se realizó el 15. 1. 2020. En dichas inspecciones no se detectaron defectos relativos al estado de la calzada del PdF, a la señalización, a las condiciones de visibilidad ni al momento de tráfico en el PdF.
-Según la Ficha de registro del PdF P5737, el valor del momento de tráfico era 1042 y la vía pública en el PdF figuraba como vía de servicio – otras, con una velocidad máxima permitida en la vía pública de 20 km.h-1.
-El Registro de la inspección conjunta del PdF y de la VP adyacente, entre otras cosas, indica que el valor del momento de tráfico en el PdF P5737 es 1042, y además indica la conclusión de que la inspección fue sin defectos.
-La inspección fue realizada por el representante de SŽ y el representante del propietario de la VP.
+El gestor de la vía y el transportista cuentan con un sistema de garantía de la seguridad adoptado en virtud de las disposiciones de la ley nº 266/1994 Sb.
+En el sistema de garantía de la seguridad de la explotación de la vía adoptado por el gestor de la vía SŽ, relacionado con las circunstancias de la aparición de la MU en cuestión, no se detectó ninguna deficiencia.
+En el sistema de garantía de la seguridad del transporte ferroviario adoptado por el transportista ČD, relacionado con las circunstancias de la aparición de la MU en cuestión, no se detectó ninguna deficiencia.
+### 3.2.2 Requisitos para el personal del gestor de la vía y del transportista y aplicación de dichos requisitos
+Los requisitos para el personal del gestor de la vía y del transportista, en particular los requisitos de idoneidad profesional y sanitaria, están establecidos por la ley nº 266/1994 Sb., el decreto nº 173/1995 Sb., el decreto nº 101/1995 Sb., el decreto nº 16/2012 Sb. y las normas internas del gestor de la vía y del transportista.
+En el momento de la aparición de la MU en cuestión, la persona del transportista ČD implicada en la MU (maquinista del Os 2012) que desempeñaba actividades en la explotación del transporte ferroviario era profesionalmente idónea para el ejercicio de la función que desempeñaba.
+### 3.2.3 Procedimientos de control interno de la seguridad y de auditoría y sus resultados
+La obligación de realizar inspecciones y mediciones periódicas de la VP, incluida la comprobación de las condiciones de visibilidad, se impone al gestor de la vía por la disposición § 26 del decreto nº 177/1995 Sb. El intervalo de tiempo de la inspección de la VP está establecido en el anexo nº 1 de dicho decreto y asciende a 12 meses.
+La norma interna del gestor de la vía SŽDC S2/3, en los artículos 75 a 81, determina el listado y el alcance de las comprobaciones de la VP.
+La última inspección integral periódica de la línea, incluida la VP P5737, se realizó del 1 de abril de 2019 al 29 de abril de 2019. La última inspección conjunta de la VP P5737 y de la carretera terrestre adyacente se realizó el 17 de junio de 2019. La última ronda de inspección en este tramo antes de la aparición de la MU la realizó el inspector el día 17 de febrero de 2020 sin indicar el resultado de la comprobación. En todas las comprobaciones presentadas derivadas de la ronda de inspección realizada no se indica el resultado de la comprobación, lo que contradice el art. 39 de SŽDC S2/3. La última inspección de circulación con material rodante se realizó el 15 de enero de 2020. En dichas inspecciones no se detectaron anomalías relativas al estado del firme de la VP, a la señalización vial, a las condiciones de visibilidad ni al momento de tráfico en la VP.
+Según la Ficha de registro de la VP P5737, el valor del momento de tráfico era 1042 y la carretera terrestre en la VP figuraba como de uso específico – otras, con una velocidad máxima permitida en la carretera terrestre de 20 km.h-1.
+El registro de la inspección conjunta de la VP y de la carretera terrestre adyacente indica, entre otros extremos, que el valor del momento de tráfico en la VP P5737 es 1042, y asimismo consigna la conclusión de que la inspección fue sin anomalías.
+La inspección fue realizada por un representante de SŽ y por un representante del propietario de la carretera terrestre.
 
 ## Página 24
+
 
 Comparando los datos de la Ficha de registro del paso a nivel objeto de la investigación y del Registro de la inspección conjunta del paso a nivel y de la vía pública adyacente, se detectaron discrepancias entre el valor indicado de intensidad del tráfico por carretera y el valor indicado del momento de tráfico, véase el punto 3.4.2 de la presente ZZ. Además, no queda claro sobre qué hecho se basó el gestor de la vía para fijar la velocidad máxima de los vehículos por carretera que circulan por el paso a nivel P5737 en 20 km·h-1, ya que no se había instalado la señalización de tráfico limitando la velocidad máxima permitida a 20 km·h-1.
 ### En el procedimiento de control interno de seguridad del gestor de la vía SŽ se detectaron deficiencias.
@@ -841,8 +844,8 @@ En la investigación se constató una infracción de la normativa jurídica en r
 • § 6 apartado 3 de la Ley núm. 266/1994 Sb.:
 «En el cruce de una vía ferroviaria con carreteras a nivel de las vías, el transporte ferroviario tiene prioridad sobre el tráfico en la carretera.»;
 
-
 ## Página 25
+
 
 • § 28 apartado 1 de la Ley núm. 361/2000 Sb.:
 «Ante un paso a nivel, el conductor debe actuar con especial precaución, en particular debe comprobar si puede cruzar el paso a nivel de forma segura.»;
@@ -861,8 +864,8 @@ Según la Ficha de registro del paso a nivel, el paso a nivel P5737 se construy�
 Obras de construcción del paso a nivel en 2016
 Las obras de construcción del paso a nivel P5737 realizadas en 2016 figuran, según la información del gestor de la vía, como llamadas «obras de reparación» sin necesidad de procedimiento de construcción, durante las cuales se realizó la reparación básica y el mantenimiento de la obra del paso a nivel, no una modernización o reconstrucción, para las cuales habría sido necesaria documentación de proyecto verificada en el procedimiento de construcción. La Inspección Ferroviaria además
 
-
 ## Página 26
+
 
 obtuvo un documento cuyo contenido es una propuesta de variantes de la disposición de construcción del paso a nivel P5737 tras esta reparación, que el gestor de la vía entregó al propietario de la instalación. Este documento no presenta los rasgos de documentación de proyecto en el sentido del § 88 apartado 1 del decreto núm. 177/1995 Sb., en la redacción vigente en el momento de la ejecución de la obra de construcción. La Inspección Ferroviaria no dispone de documento o información que acrediten la tramitación del procedimiento de construcción y, con ello, desmientan la afirmación del gestor de la vía.
 Tras la investigación, la Inspección Ferroviaria llegó a la conclusión de que el gestor de la vía no estaba obligado, en el momento de la ocurrencia del SU, a aplicar la ČSN 73 6380 al paso a nivel objeto de la investigación (salvo las disposiciones cuyo cumplimiento esté ordenado por otra norma jurídica). El paso a nivel fue evaluado por el gestor de la vía de acuerdo con la norma SŽDC S4/3 de 1987; no obstante, la Inspección Ferroviaria realizó una comparación con la mencionada ČSN 73 6380, que no es vinculante para este paso a nivel concreto en virtud del § 88 apartado 2 del decreto núm. 177/1995 Sb.
@@ -880,26 +883,27 @@ La calzada del paso a nivel era transitable y, por su ejecución, cumplía con l
 Longitudes de visibilidad Dz (B)
 La longitud de visibilidad hacia los cruces de San Andrés B (según la norma SŽDC S4/3), respectivamente Dz (según la ČSN 73 6380), estaba garantizada a 25 m a ambos lados del paso a nivel y, por tanto, cumplía los valores requeridos por la norma SŽDC S4/3 (10 m) y por la ČSN 73 6380 (15 m).
 
-
 ## Página 27
 
-Fig. núm. 3: Fotomapa del paso a nivel P5737 y delimitación de los cuadrantes
-        Fuente: MAPY.CZ, edición DI
-### Sin embargo, la existencia del paso a nivel P5737 no se comunica al conductor de forma oportuna mediante la señalización de tráfico. Debido a la posición relativa de la vía ferroviaria y de la carretera II/114, no se garantiza, a una distancia superior a 25 m, la visibilidad del cruce de San Andrés para garantizar la información oportuna a los usuarios (conductores de vehículos) de la carretera II/114 sobre la existencia del paso a nivel inmediatamente después de abandonar la carretera principal II/114. Esto no se ajusta a la disposición del art. 7.4 de las TP 65, donde se indica, entre otras cosas, que: «Las señales y los dispositivos de tráfico deben ser visibles, desde una distancia suficiente, para aquellos participantes en el tráfico para los que están destinados. Para los conductores, se trata de una visibilidad fuera de la localidad de al menos 100 m y en la localidad de al menos 50 m.».
-La visibilidad suficiente del cruce de San Andrés es un presupuesto para el cumplimiento de la velocidad de los vehículos por carretera de 30 km·h-1 en la vía a 50 m antes del paso a nivel P5737 protegido únicamente con un cruce de San Andrés.
-La información a los usuarios de la carretera sobre la existencia del paso a nivel tampoco está garantizada por la señalización A 31c «Placa de señalización (80 m)» y la señalización E 7b «Flecha de dirección (para desviarse)».
+Obra n.º 3: Fotomapa del P. de cambio P5737 y delimitación de los cuadrantes
+        Fuente: MAPY.CZ, modificación DI
+### Sin embargo, la existencia del P. de cambio P5737 no se comunica al conductor de forma oportuna mediante la señalización vial.
+Dada la posición relativa de la vía férrea y de la carretera n.º II/114, a una distancia superior a
+25 m no se garantiza la visibilidad de la cruz de advertencia para garantizar la información oportuna a los usuarios (conductores de vehículos) de la PK n.º II/114 sobre la existencia del P. de cambio inmediatamente después de abandonar la carretera principal n.º II/114. Esto no se ajusta a lo dispuesto en el artículo 7.4 de las TP 65, donde, entre otros, se indica que: «Las señales y los dispositivos de tráfico deben ser visibles, desde una distancia suficiente, para aquellos participantes en el tráfico para los que están destinados. Para los conductores, se trata de una visibilidad fuera de la localidad de al menos 100 m y en la localidad de al menos 50 m.».
+La visibilidad suficiente de la cruz de advertencia es un requisito previo para el cumplimiento de la velocidad de los vehículos de 30 km.h-1 en la vía a 50 m antes del P. de cambio P5737, protegido únicamente mediante una cruz de advertencia.
+La información a los usuarios de la PK sobre la existencia del P. de cambio tampoco está garantizada por la señal DZ A 31c «Placa indicadora (80 m)» ni por la señal DZ E 7b «Flecha de dirección (para desviarse)».
 Longitudes de visibilidad Lr (Lm)
-| Cuadrante medido |  | Medición conjunta DI y SŽ Lm (para B=10m) | Valor establecido según la norma SŽDC S4/3 Lm (para B=10m) | Medición conjunta DI y SŽ Lr (para Dz = 15 m) | Valor establecido según la ČSN 73 6380 Lr (para Dz = 15 m) |
+| Cuadrante medido |  | Medición conjunta DI y SŽ Lm (para B=10m) | Valor establecido según la norma SŽ DC S 4/3 Lm (para B=10m) | Medición conjunta DI SŽ y Lr (para Dz = 15 m) | Valor establecido según la ČSN 73 6380 Lr (para Dz = 15 m) |
 | Lr (Lm) I |  | >64 m | 64 m | >64 m | 46 m |
 | Lr (Lm) II |  | >64 m | 64 m | >64 m | 46 m |
 | Lr (Lm) III |  | >64 m | 64 m | = 46 m | 46 m |
 | Lr (Lm) IV |  | >64 m | 64 m | = 15 m | 46 m |
-| Tab núm. 1: Valores Lr(Lm) detectados en la medición conjunta DI y SŽ Fuente: DI . . |  |  |  |  |  |
-|  | Longitud de visibilidad |  |  |  |  |
-La longitud de visibilidad a una distancia de 10 m antes del paso a nivel estaba garantizada a 64 m en todos los cuadrantes del paso a nivel y cumplía la norma
-
+| Tabla n.º 1: Valores de Lr(Lm) determinados mediante la medición conjunta de DI y SŽ Fuente: DI . . |  |  |  |  |  |
+|  | Longitud de visibilid |  |  |  |  |
+a una distancia de 10 m antes del P. de cambio se garantizó en 64 m en todos los cuadrantes del P. de cambio y cumplía la norma
 
 ## Página 28
+
 
 SŽDC S4/3.
 La longitud de visibilidad del conductor del vehículo con motor hacia la vía Lr (según la ČSN 73 6380) desde la distancia de 15 m antes del paso a nivel estaba garantizada a 64 m en 3 cuadrantes del paso a nivel y cumplía la ČSN 73 6380. Sin embargo, en el IV. cuadrante había obstáculos en el campo de visibilidad (soporte – cartel de la empresa Zdeněk Kulda y árboles), con lo que no se garantizaba el cumplimiento de la disposición del art. 7.4.1 en el sentido del 7.4.2 y, además, del art. 7.4.4 de la ČSN 73 6380.
@@ -918,6 +922,7 @@ La DI señala de forma prolongada el hecho de que las longitudes de visibilidad 
 Para un tren de hasta 21 m de longitud, la longitud de visibilidad detectada (en el cuadrante II.) cumple la longitud establecida de 275 m para Dp = 6,5 m y una velocidad de la vía de 50 km·h-1 según la ČSN 73 6380 y según la norma SŽDC S4/3, véase la tabla núm. 2.
 
 ## Página 29
+
 
 Señal de advertencia con la indicación «Pite»
 La señal de advertencia con la indicación «Pite» se situó, en el sentido de la vía desde la parada Stará Huť, a la derecha junto a la vía a una distancia de 225 m antes del PFE, es decir, inmediatamente después del PFE P5736 protegido únicamente con una cruz de advertencia, cumpliendo así con la ČSN 73 6380.
@@ -939,8 +944,8 @@ La intensidad de tráfico es la cantidad de vehículos que circulan por un tramo
 A) Momento de tráfico según datos de SŽ
 En la Ficha de registro del paso a nivel P5737 se indicaba el valor del momento de tráfico 1042, el valor de la intensidad del tráfico rodado 100/24 h y la intensidad de tráfico en la vía férrea de 25 trenes/24 h. El momento de tráfico figuraba también en el documento de la Inspección conjunta del paso a nivel (de fecha 17. 6. 2019, véase el capítulo 3.2.3), donde se indicaba asimismo el valor 1042.
 
-
 ## Página 30
+
 
 1) Intensidad del tráfico rodado = 100 veh/24 h, como RPDI.
 2) Coeficiente kRPDI, 50 = 0,104, carácter del tráfico «M» (local, vía de servicio).
@@ -969,17 +974,16 @@ Según el apartado 91 letra c) de la norma SŽDC S4/3, en las vías con velocida
 ### Descripción del lugar del paso a nivel y de la «intersección»
 El PFE P5737 (eje de la vía) se encontraba a 5,6 m detrás de la línea guía exterior (borde de la calzada, señal V 2b «Línea longitudinal discontinua»), entre el borde de la calzada de la carretera principal y el límite de la «intersección considerada» (es decir, el punto donde para la intersección comienza la curvatura del borde de la calzada). La vía de servicio desde su enlace con la carretera n.º II/114 hasta la puerta del recinto es libremente accesible al público sin indicación de ninguna restricción.
 
-
 ## Página 31
 
-Según el apartado § 2 letra w) de la ley n.º 361/2000 Sb., sobre el tráfico en las vías terrestres, «no se considera intersección la desembocadura de un camino de campo o forestal u otra vía de servicio en otra vía terrestre». No obstante, según el § 1.2 letra b) del decreto n.º 104/1997 Sb., no es intersección la conexión de una vía de servicio que no sea de acceso público. Asimismo, según el apartado 6.3 de la ČSN 73 6100-1, no es intersección la conexión a nivel de una vía de servicio que no sea de acceso público.
-Fig. n.º 4: Esquema y dimensiones del PFE y de la vía terrestre
+De acuerdo con lo dispuesto en el § 2, letra w), de la Ley núm. 361/2000 Sb., sobre la circulación en las vías públicas, «no se considera cruce la desembocadura de un camino de campo o forestal o de otra vía pública de uso especial en otra vía pública». No obstante, de acuerdo con el § 1, apartado 2, letra b), del decreto núm. 104/1997 Sb., no es un cruce la conexión de una vía de uso especial que no sea de acceso público. Asimismo, de acuerdo con el artículo 6.3 de la norma ČSN 73 6100-1, no es un cruce la conexión a nivel de una vía de uso especial que no sea de acceso público.
+Fig. núm. 4: Esquema y dimensiones de la vía férrea y de la vía pública
                                 Fuente: DI
-Fig. n.º 5: Esquema y dimensiones del PFE y de la vía terrestre antes y después de las obras
-            Fuente: FOTO PČR, MAPY.CZ, modificación ČVUT
-
+Fig. núm. 5: Esquema y dimensiones de la vía férrea y de la vía pública antes y después de la realización de las obras
+            Fuente: FOTO PČR, MAPY.CZ, modificación de la ČVUT
 
 ## Página 32
+
 
 Según la comunicación escrita de la PČR de fecha 14. 4. 2020, no se trata de una intersección. La autoridad administrativa de carreteras no ha señalizado este lugar como intersección mediante señalización de tráfico.
 Para los fines de la investigación de este SU, no es determinante si el lugar en cuestión es una intersección o no. Esto solo tendría relevancia en caso de reconstrucción de la intersección, cuando, según el apartado 5.2.1 de la ČSN 73 6380, deberían realizarse las obras necesarias para que la distancia desde el límite más próximo de la intersección hasta la zona de peligro del paso a nivel, medida en el eje de la vía, fuera de al menos 10 m. Si no fuera posible alcanzar la distancia de 10 m, la seguridad debería garantizarse con las medidas de tráfico correspondientes.
@@ -1007,8 +1011,8 @@ El HDV CZ-ČD 94 54 5 814 222-6 disponía de un Certificado de aptitud del vehí
 El HDV CZ-ČD 94 54 5 814 221-8 disponía de un Certificado de aptitud del vehículo ferroviario válido, n.º de registro: PZ 1155/08-V.22, expedido por el DÚ el 16. 7. 2008. La última inspección técnica periódica antes de la aparición del SU se realizó el 30. 1. 2020 con vigencia hasta el 30. 6. 2020, con el resultado de que: «El vehículo cumple las condiciones de explotación en las vías».
 El HDV 814 222-6 estaba equipado, en el momento de la aparición del SU, con un dispositivo de registro automático de datos – velocímetro electrónico RE1xx (UniControls – Tramex) n.º 8028.
 
-
 ## Página 33
+
 
 De los datos registrados se desprende:
 11:36:31 h
@@ -1069,6 +1073,7 @@ En relación con el SU, no se adoptó ninguna medida por parte de los empleados 
 
 ## Página 34
 
+
 3.5.2 Intercambio de comunicaciones orales en relación con el suceso excepcional, incluidos los datos del registrador
 En relación con el SE no se produjo comunicación verbal que influyera en su ocurrencia.
 ### 3.5.3 Medidas adoptadas para la protección y la seguridad del lugar del suceso excepcional
@@ -1088,23 +1093,22 @@ La disposición y el equipamiento del puesto de trabajo del empleado del transpo
 La DI registra desde el 1. 1. 2008 hasta la ocurrencia del SE 837 casos similares (colisión de un vehículo ferroviario con un vehículo de motor por carretera en un PFC protegido únicamente con cruces de advertencia) cuya causa de ocurrencia fue la entrada no autorizada de un vehículo de motor por carretera en el PFC en el momento en que se aproximaba a él un tren u otro VF. En estos SE se produjeron
 ### 51 fallecimientos, 312 heridos y un daño total de 164 064 250 Kč.
 
-
 ## Página 35
 
-La Inspección Ferroviaria registra en el PFC P5737 en el período comprendido entre el 1. 1. 2008 y la ocurrencia del SE en cuestión un SE similar, concretamente el del 4. 12. 2011, cuando se produjo la colisión del tren Os 19059 con un camión, en la que no se produjo daño a la salud y el daño total se cifró en 213 200 Kč. La causa inmediata de este SE fue la entrada no autorizada de un vehículo de motor por carretera en el paso a nivel en el momento en que se aproximaba a él un tren. La DI no investigó este SE ni estuvo presente en la investigación en el lugar del SE.
+La Inspección Ferroviaria (Drážní inspekce) registra en el paso a nivel P5737, en el período comprendido entre el 1. 1. 2008 y la fecha de ocurrencia de la MU objeto de estudio, una MU similar, concretamente la del 4. 12. 2011, en la que se produjo la colisión del tren Os 19059 con un camión, sin que se produjeran daños personales y con un daño total valorado en 213 200 Kč. La causa inmediata de esta MU fue la entrada no autorizada de un vehículo de motor por carretera en el paso a nivel en el momento en que un tren se aproximaba al mismo. La DI no investigó esta MU ni estuvo presente en la investigación de la MU en el lugar.
 ## 4 ANÁLISIS Y CONCLUSIONES
-### 4.1 Descripción final del suceso excepcional
-### 4.1.1 Elaboración de las conclusiones sobre el suceso excepcional basadas en los hechos
-constatados en el punto 3
-El 21. 2. 2020 a las 11:41 h se produjo en la línea entre la est. Dobříš y la est. Malá Hraštice, en el tramo entre la parada Stará Huť y la parada Mokrovraty, en el PFC P5737 en el pk 3,119, que está protegido únicamente con cruces de advertencia, la colisión del tren Os 2012 con un conjunto rodante formado por un camión con remolque. El maquinista del tren Os 2012, en el momento en que se aproximaba desde la parada Stará Huť al PFC en cuestión, daba repetidamente la señal audible «Pozor». En ese momento, en la misma dirección de circulación (desde Stará Huť), a unos 30 m por delante del tren, por la carretera principal paralela n.º II/114, se aproximaba al PFC P5737 un conductor con un conjunto rodante, que según su declaración no vio ni oyó el tren en la línea. El conductor del conjunto rodante giró desde la carretera principal hacia el camino de acceso al recinto de la empresa Zdeněk Kulda y entró en el mencionado PFC, donde se produjo la colisión del morro del tren con el remolque cargado con paletas de madera.
-El morro del tren, descarrilado a la derecha en la dirección de circulación, se detuvo en el pk 3,140 (es decir, 21 m detrás del lugar del SE). El primer coche motor yacía inclinado sobre su flanco izquierdo aproximadamente 45° y estaba hundido en el terreno. El remolque destruido yacía sobre su flanco izquierdo a la derecha del coche motor delantero. El remolque seguía acoplado mediante el eje de arrastre al camión, que estaba con la parte delantera en el camino de acceso al recinto de la empresa. El camión no presentaba daños aparentes de consideración. Como consecuencia de este SE se produjeron heridas en 4 personas y un daño total de 12 552 081 Kč.
+### 4.1 Descripción final de la excepción
+### 4.1.1 Elaboración de las conclusiones sobre la excepción basadas en los hechos
+establecidos en el punto 3
+El 21. 2. 2020 a las 11:41 h se produjo en la línea entre la estación Dobříš y la estación Malá Hraštice, en el tramo entre la parada Stará Huť y la parada Mokrovraty, en el paso a nivel P5737 en el pk 3,119, que está protegido únicamente con cruces de advertencia, la colisión del tren Os 2012 con una composición formada por un camión con remolque. El maquinista del tren Os 2012, en el momento en que se aproximaba desde la parada Stará Huť al paso a nivel objeto de estudio, daba repetidamente la señal audible «Pozor» (Atención). En ese momento, en el mismo sentido de circulación (desde Stará Huť), a unos 30 m por delante del tren, por la carretera principal paralela II/114, se aproximaba al paso a nivel P5737 el conductor de una composición que, según su declaración, no vio ni oyó el tren en la línea. El conductor de la composición giró desde la carretera principal hacia el camino de acceso a la instalación de la empresa Zdeněk Kulda y entró en el mencionado paso a nivel, donde se produjo la colisión del frontal del tren con el remolque cargado con paletas de madera. 
+El frontal del tren descarrilado a la derecha en el sentido de circulación se detuvo en el pk 3,140 (es decir, 21 m tras el lugar de la MU). El primer coche de motor yacía inclinado sobre su flanco izquierdo aproximadamente 45° y estaba hundido en el terreno. El remolque destrozado yacía sobre su flanco izquierdo a la derecha del coche de motor delantero. El remolque seguía acoplado por el eje al camión, que estaba estacionado con su parte delantera en el camino de acceso a la instalación de la empresa. El camión no presentaba daños aparentes relevantes. Como consecuencia de esta MU se produjeron heridas en 4 personas y un daño total de 12 552 081 Kč. 
 ### 4.2 Análisis
-### 4.2.1 Evaluación de los hechos constatados en el punto 3 y exposición de las conclusiones sobre la causa del suceso excepcional y la actuación de los servicios de rescate
-### Evaluación del estado del paso a nivel y de las longitudes de visibilidad en el cuadrante afectado
-El PFC P5737, protegido únicamente con cruces de advertencia, se encontraba entre la est. Dobříš y la est. Malá Hraštice, en el tramo entre la parada Stará Huť y la parada Mokrovraty. Se trataba de un cruce a nivel de la línea con una vía de servicio que sale del recinto de la empresa de transporte y combustibles Zdeněk Kulda y desemboca en la carretera n.º II/114. El PFC P5737 (eje de la vía) se encontraba a 5,6 m detrás de la línea de borde exterior de la carretera n.º II/114, y por tanto directamente en la «intersección considerada» (entre el borde de la calzada de la carretera principal y el límite de la «intersección considerada», es decir, el punto donde para la intersección comienza la curvatura del borde de la calzada).
-
+### 4.2.1 Evaluación de los hechos establecidos en el punto 3 y exposición de las conclusiones sobre la causa de la excepción y la actuación de los servicios de rescate
+### Evaluación del estado del paso a nivel y de las distancias de visibilidad en el cuadrante afectado
+El paso a nivel P5737, protegido únicamente con cruces de advertencia, se encontraba entre la estación Dobříš y la estación Malá Hraštice, en el tramo entre la parada Stará Huť y la parada Mokrovraty. Se trataba de un cruce a nivel de la línea con una vía de servicio que conducía desde la instalación de la empresa de transporte de automóviles y combustibles Zdeněk Kulda y desembocaba en la carretera II/114. El paso a nivel P5737 (eje de la vía) se encontraba a 5,6 m de la línea guía exterior de la carretera II/114, y por tanto directamente en la «intersección considerada» (entre el borde de la calzada de la carretera principal y el límite de la «intersección considerada», es decir, el punto en el que para la intersección comienza la curvatura del borde de la calzada).
 
 ## Página 36
+
 
 A este respecto, el hallazgo fundamental es que, en el momento de la ocurrencia del SE, según la Policía Nacional (PČR), no se trataba en la práctica de una intersección, y tampoco la autoridad administrativa de carreteras señalizó este lugar como intersección mediante señalización de tráfico. Se trataba, por tanto, únicamente de una salida a una vía de servicio de uso particular, a la que no resultaba aplicable el art. 5.2.1 de la ČSN 73 6380, según el cual, en caso de remodelación de la intersección, deberían haberse ejecutado tales obras de modo que la distancia desde el límite más próximo de la intersección hasta la franja peligrosa del paso a nivel, medida en el eje de la vía, fuera de al menos 10 m, y si no fuera posible alcanzar la distancia de 10 m, la seguridad debería haberse garantizado con las medidas de tráfico correspondientes. Más detalladamente en el punto 3.4.2 de la presente II.
 Sin embargo, la mera inaplicación del art. 5.2.1 de la ČSN 73 6380 no significa que la posición relativa del paso a nivel en el espacio de la salida a la vía de servicio no desempeñara un papel significativo en la ocurrencia de este SE (véase la Evaluación de la ČVUT más abajo).
@@ -1115,8 +1119,8 @@ El PFC P5737 estaba señalizado por ambos lados con la señal de advertencia de 
 Se constató que las longitudes de visibilidad Lr y Lp en el cuadrante en cuestión estaban, en el momento de la ocurrencia del SE, en el paso a nivel, de conformidad con la ČSN 73 6380 y con la normativa SŽDC S4/3.
 Según las mediciones realizadas durante la inspección del lugar del SE, al conductor del vehículo por carretera que circulaba desde Stará Huť hacia el PFC P5737 le estaba garantizada una visibilidad suficiente de la línea en dirección al tren que se aproximaba desde la est. Dobříš (desde la parada Stará Huť), tanto la longitud de visibilidad Lp = 450 m como la longitud de visibilidad Lr (Lm) mayor de 64 m. Se detectaron deficiencias ajenas a la relación causal en otros cuadrantes, para más detalles véase el punto 3.4.2 de la presente II.
 
-
 ## Página 37
+
 
 La disposición del § 4 del decreto n.º 177/1995 Sb. admite la protección del PFC únicamente con cruces de advertencia solo hasta una velocidad de línea de 60 km·h-1. Según la Ficha de registro del paso a nivel y otros documentos del gestor de la infraestructura SŽ, el PFC se puso en servicio en el año 1897, de conformidad con las normas jurídicas y los reglamentos vigentes en aquel momento. Las obras de construcción del PFC P5737 ejecutadas en el año 2016 figuran, según la comunicación del gestor de la infraestructura, registradas como denominadas «obras de reparación» sin necesidad de procedimiento de construcción. Tras la investigación, la Inspección Ferroviaria llegó a la conclusión de que el gestor de la infraestructura no estaba obligado, en el momento de la ocurrencia del SE, a aplicar la ČSN 73 6380 al paso a nivel en cuestión (salvo en las disposiciones cuyo cumplimiento esté ordenado por otra norma jurídica). El paso a nivel ferroviario fue, por tanto, evaluado por el gestor de la infraestructura según la normativa SŽDC S4/3 de 1987 de conformidad con el § 88 apartado 2 del decreto n.º 177/1995 Sb.
 En el año 2016 se produjo una reducción del ancho de la calzada en el PFC P5737 de los aproximadamente 13 m originales a los 8,45 m actuales. El ancho de la vía de servicio adyacente a 20 m después del paso a nivel es de aproximadamente 6,5 m. Esta modificación (reducción, inclinación) como tal no tiene una influencia negativa significativa en el giro de los vehículos. Parcialmente limita la velocidad de circulación de los vehículos por carretera al girar hacia el paso a nivel y, con ello, prolonga el tiempo de tránsito por el paso a nivel, pero a menor velocidad es mayor el tiempo del que dispone el conductor para decidir girar o detenerse. Durante la decisión del conductor, la modificación en sí no tiene ninguna influencia en la visibilidad de la línea. Al circular desde el recinto de la empresa, la modificación conduce al conductor a un acceso correcto y perpendicular a la línea, con lo que le garantiza la visibilidad ideal en ambas direcciones de la línea. Véase también la Evaluación de la ČVUT más abajo.
@@ -1129,6 +1133,7 @@ Durante la inspección del lugar del SE se constató que, en la dirección de ci
 con un dispositivo de protección del paso a nivel complementado con barreras, véase el punto 6 de la presente II.
 
 ## Página 38
+
 
 ### Del documento „EVALUACIÓN TÉCNICA – PASO A NIVEL FERROVIARIO P5737“ (en adelante también
 ### Evaluación ČVUT) se desprende para DI:
@@ -1171,8 +1176,8 @@ registraron accidentes de tráfico con resultado de fallecimiento de personas. E
 se produjo en el año 2017. Por el contrario, hay varios años en los que en el punto no se produce ni un solo accidente.
 El mapa de accidentes en los alrededores se encuentra en la Fig. n.º 7.
 
-
 ## Página 39
+
 
 Fig. n.º 7: Accidentes de tráfico en los alrededores del PAP P5737 según las estadísticas de PČR de enero de 2007 – marzo de 2020
 Fuente: nehody.cdv.cz
@@ -1208,55 +1213,35 @@ la imposibilidad de paso de un vehículo en el sentido opuesto (nota de DI: anch
 desviación de 1,85 m = 4,4 m). La captura de pantalla (PK) con las curvas de arrastre indicadas se encuentra en el punto 7
 de esta ZZ.
 
-
 ## Página 40
 
-### Giro del conjunto de circulación de referencia (NA con semirremolque) definido según TP 171
-Para las necesidades de la simulación del paso del NA de referencia con remolque definido según
-TP 171, se utilizó el modelo del vehículo de referencia de las fichas de catálogo de vehículos del programa Vehicle
-Tracking para verificar la posibilidad de paso. El valor mínimo observado de desviación de 3,05 m
-(nota de DI: anchura del conjunto 2,5 m + desviación de 55 cm = 3,05 m) permite en una
-vía de anchura de aprox. 5,7 m el paso de OA o NA menores que circulen en sentido contrario, para los cuales
-no representa una limitación ni una amenaza significativa. En caso de «avance», el vehículo ya invade
-el carril de circulación en sentido contrario, en cuyo caso la anchura restante de la calzada de 1 m representa ya en principio
-la imposibilidad de paso de un vehículo (OA o NA) en sentido contrario (nota de DI: anchura del conjunto 2,5 m + desviación de 2,2 m = 4,7
-m). La captura de pantalla (PK) con las curvas de arrastre indicadas se encuentra en el punto 7
-de esta ZZ.
-### Según las simulaciones realizadas, puede constatarse que la modificación del trazado espacial
-y de la configuración de anchura del ramal secundario de la salida (el llamado estrechamiento y alabeo) no tiene
-una influencia negativa significativa en la posibilidad de que los conductores realicen la maniobra de giro hacia la vía de
-### servicio en el sentido desde la localidad de Stará Huť. Simultáneamente a esto, sin embargo, se identificó una
-### limitación significativa de las condiciones de visibilidad del conductor del NA que se desvía hacia los vehículos ferroviarios
-### (tren) que circulan en el mismo sentido (desde la localidad de Stará Huť) en las inmediaciones
-### inmediatamente antes del paso a nivel P5737. La modificación realizada de la disposición constructiva del paso a nivel
-P5737 tampoco tiene una influencia significativa en este hecho.
-### Evaluación de la situación de seguridad vial actual en el punto
-Sobre la base de las actividades realizadas en el marco de la evaluación, de la valoración de la configuración
-espacial tras la reconstrucción del paso a nivel ferroviario P5737, de las intensidades de tráfico en el punto
-### y de las simulaciones, se identificó un potencial riesgo de seguridad vial para los NA
-### que circulan en el sentido desde la localidad de Stará Huť y se desvían hacia la vía de servicio.
-Un aspecto destacado que influye en el carácter del riesgo es el trazado paralelo de la
-vía de transporte terrestre con la línea ferroviaria, el modo de protección del paso a nivel ferroviario y la
-posición próxima mutua del PAP P5737 y de la salida de la carretera n.º II/114. En el caso de que se considere la situación
-modelo en la que el conductor del NA que circula en el sentido desde la localidad de Stará Huť planea desviarse hacia la
-vía de servicio a través del PAP P5737, la toma de decisiones del conductor se ve influida negativamente por toda una serie de
-factores que, por sí solos, en principio no representarían un riesgo limitante desde el punto de vista
-del nivel de seguridad del tráfico en el punto a escala de toda la sociedad.
-El primer aspecto es la posibilidad limitada de observar el eventual movimiento del vehículo ferroviario
-que circula en el mismo sentido. La visión del conductor del NA hacia el vehículo ferroviario solo es posible
-a través del retrovisor derecho, si bien la imagen en el espejo varía solo muy
-gradualmente. Otro aspecto es la carga de tráfico de la carretera n.º II/114, en la que en un
-sentido circula en hora punta un vehículo aproximadamente cada 16 segundos. Simultáneamente, en la localidad estudiada se
-detectaron condiciones de visibilidad limitadas para el conductor del vehículo terrestre debido al trazado de la
-vía de transporte terrestre y a la vegetación crecida (en el borde del bosque) en el lado interior de la curva
-### horizontal. En caso de aplicación de los principios de la inspección de seguridad, el riesgo de seguridad vial
-### resultante puede calificarse como medio. La existencia de un déficit se ve respaldada
-también por la evaluación estadística de los accidentes de tráfico en el punto – 2 MU en el PAP P5737 durante el periodo
-observado.
-### Dada la naturaleza del territorio, puede considerarse toda una serie de medidas de corrección
-que se plantean en el ámbito de la localidad estudiada. Las medidas pueden dividirse
+### Desvío del tren de referencia (NA con remolque) definido según TP 171
+Para los fines de la simulación del paso del NA de referencia con remolque definido según TP 171, se utilizó el modelo del vehículo de referencia de las fichas de catálogo de vehículos del programa Vehicle Tracking para verificar la posibilidad de paso. El valor mínimo observado del desvío de 3,05 m (nota DI: ancho del tren 2,5 m + desvío de 55 cm = 3,05 m) permite, en una vía de unos 5,7 m de ancho, el paso de turismos (OA) o vehículos agrícolas (NA) de menor tamaño, para los cuales no representa una limitación ni una amenaza significativa. En el caso de la «sobrepasada», el vehículo ya invade el carril de sentido contrario, en cuyo caso la anchura restante de la calzada de 1 m, en principio, ya impide el paso de un vehículo (OA o NA) en sentido contrario (nota DI: ancho del tren 2,5 m + desvío de 2,2 m = 4,7 m). La captura de pantalla con las curvas de arrastre señaladas se encuentra en el punto 7 de esta ZZ.
+### Según las simulaciones realizadas, puede constatarse que el cambio del trazado espacial
+### y de la disposición en anchura del ramal secundario de la salida (el llamado estrechamiento
+### y encauzamiento) no tiene una influencia negativa significativa en la posibilidad de que
+### los conductores realicen la maniobra de giro hacia la vía de servicio
+### en dirección desde la localidad de Stará Huť. No obstante, al mismo tiempo se identificó
+### una limitación significativa de las condiciones de visibilidad del conductor del NA
+### que gira hacia el vehículo ferroviario (tren) que circula en el mismo sentido (desde
+### la dirección de la localidad de Stará Huť) en las inmediaciones
+### inmediatamente antes del paso a nivel P5737. El cambio realizado en la disposición
+### constructiva del paso a nivel P5737 tampoco tiene una influencia significativa en esta circunstancia.
+### Evaluación de la situación de seguridad vial actual en el lugar
+Sobre la base de las actividades realizadas en el marco de la evaluación, valoración de la disposición espacial tras la reconstrucción del paso a nivel ferroviario P5737, las intensidades de tráfico en el lugar
+### y las simulaciones, se identificó un riesgo potencial de seguridad vial para los NA
+### que circulan en dirección desde la localidad de Stará Huť y giran hacia la vía de servicio.
+Un aspecto significativo que influye en el carácter del riesgo es el trazado paralelo de la vía terrestre con la línea ferroviaria, el modo de protección del paso a nivel ferroviario y la posición mutua próxima del PFP P5737 y de la salida de la carretera II/114. En el caso de que se considere la situación modelo en la que el conductor del NA que circula en dirección desde la localidad de Stará Huť planea girar hacia la vía de servicio a través del PFP P5737, la toma de decisiones del conductor se ve negativamente influenciada por toda una serie de factores que, por sí solos, en principio no representarían un riesgo limitante desde el punto de vista del nivel de seguridad del tráfico en el lugar a escala de toda la sociedad.
+El primer aspecto es la posibilidad limitada de observar el eventual movimiento del vehículo ferroviario que circula en el mismo sentido. La visión del conductor del NA hacia el vehículo ferroviario solo es posible a través del espejo retrovisor derecho, siendo que la imagen en el espejo cambia solo muy gradualmente. Otro aspecto es la carga de tráfico de la carretera II/114, en la que en un solo sentido circula, en hora punta, un vehículo aproximadamente cada 16 segundos. A la vez, en la localidad estudiada se detectaron condiciones de visibilidad limitadas para el conductor del vehículo por carretera debido al trazado de la vía terrestre y al crecimiento de la vegetación (en el borde del bosque) en el lado interior de la curva
+### del trazado. En caso de aplicación de los principios de la inspección de seguridad,
+### el riesgo de seguridad vial resultante puede calificarse como medio. La existencia
+### de un déficit se ve respaldada también por la evaluación estadística de los accidentes
+### de tráfico en el lugar – 2 accidentes mortales (MU) en el PFP P5737 durante el período observado.
+### Dada la naturaleza del territorio, puede considerarse toda una serie de medidas
+### de corrección que entran en consideración dentro de la localidad estudiada. Las medidas pueden dividirse
 
 ## Página 41
+
 
 en principio a varios tipos que se diferencian por su actuación de principio sobre el tráfico en el lugar, la complejidad de la implementación o la carga financiera asociada. Al aplicar las medidas propuestas, es necesario considerar el grado de nivel del riesgo identificado junto con la dificultad de ejecución de la medida de corrección.
 ### A continuación se presenta una descripción breve
@@ -1294,8 +1279,8 @@ Sin embargo, para esta medida es necesario tener en cuenta también el grado de 
 RADIMSKÝ, M.; MATUSZKOVÁ, R.; BUDÍK, O.: Relationship between horizontal curves design and accident rate. Jurnal 
 Teknologi (Sciences and Engineering), 2016, roč. Vol 78, č. 5- 2, s. 75-78. ISSN: 2180-3722.
 
-
 ## Página 42
+
 
 ### La Policía de la República Checa (PČR), Inspección de Tráfico de Příbram, en su dictamen de fecha 15. 5. 2020
 en el marco de la respuesta a la propuesta de SŽ sobre la colocación de una nueva señal vertical permanente A32a «Cruz de aviso para paso a nivel de vía única» sobre fondo fluorescente amarilloverde
@@ -1330,8 +1315,8 @@ tras la detención del tren, la jefa de tren descendió de la locomotora trasera
 y una mujer) descendieron del coche de viajeros intercalado del tren;
 tras la producción del accidente ferroviario se realizaron actividades con el fin de prestar primeros auxilios. La rotura de ventanas
 
-
 ## Página 43
+
 
 debido a la posición del tren tras el accidente ferroviario no fue registrada, pero se pudo ver cómo personas mayores se alejaban del tren.
 ### Grabación del tacógrafo del conjunto rodante
@@ -1348,6 +1333,7 @@ De los cálculos realizados según la ČSN 73 6380 y según la norma interna del
 de 275 m, un vehículo por carretera de longitud máxima admisible de 22 m no puede abandonar a tiempo la zona de peligro del paso a nivel. Esta norma permite que, en los PdN en los que el último procedimiento administrativo se realizó antes del 1. 1. 1970, el explotador de la vía garantice la visibilidad
 
 ## Página 44
+
 
 sólo a ½ de las longitudes de visibilidad prescritas. Esta acortación de las longitudes de visibilidad
 de visión despejada hacia la vía para los usuarios de la circulación en las vías de comunicación
@@ -1388,8 +1374,8 @@ el mismo no es posible alcanzar analógicamente la velocidad de 10 km.h-1 (al de
 del recinto de la empresa Zdeněk Kulda o al girar a la izquierda desde la carretera principal hacia el paso a nivel después
 de haberse detenido previamente por ceder el paso a los vehículos que circulan en sentido contrario).
 
-
 ## Página 45
+
 
 ### 4.3 Conclusiones
 4.3.1 Causas directas e inmediatas del suceso, incluidos los factores que contribuyeron al mismo y que se relacionaron con la actuación de las personas implicadas o con el estado de los vehículos ferroviarios o de las instalaciones técnicas
@@ -1425,8 +1411,8 @@ incumplimiento del art. 84 de la norma SŽDC S4/3 – deficiencia en el cálculo
 cuando el dato de salida no estaba de acuerdo con los datos de entrada indicados en la
 Ficha de registro de la P5737:
 
-
 ## Página 46
+
 
 «La intensidad de tráfico se expresa mediante el momento de tráfico del paso a nivel, que se entiende como la intensidad horaria del tráfico terrestre multiplicada por diez horas y por la intensidad media de tráfico en la línea que cruza durante 24 horas.»;
 incumplimiento de los arts. 78 y 80 de la norma SŽDC S2/3 – realización insuficiente del control interno,
@@ -1448,35 +1434,47 @@ el hecho de que la norma interna del gestor de la infraestructura SŽDC (ČSD) S
 •
 acortar las longitudes de visibilidad para el vehículo terrestre más lento Lp solo a
 
-
 ## Página 47
 
-½ de las longitudes de visibilidad prescritas, sin que se haya garantizado la seguridad en la P5737 por otra medida.
-### En el transportista ČD:
-el transportista ČD en el tren Os 2009 (Praha hl.n. – Praha-Krč – Dobříš), que en el marco de
+½ de las longitudes de visibilidad prescritas, sin que se hubiera garantizado la seguridad en el paso a nivel P5737 mediante otra medida.
+### Por parte del operador ČD:
+el operador ČD, en el tren Os 2009 (Praha hl.n. – Praha-Krč – Dobříš), que en el marco de
 •
-su rotación pasa a ser el Os 2012 (Dobříš – Praha-Krč – Praha hl. n.), empleó DV cuyos
-medios técnicos no estaban conectados correctamente para que, en base a la orden emitida
-en la red de radio GSM-R, garantizaran la realización de la parada automática del tren, a pesar de que en parte del trayecto en el tramo Praha-Krč – Praha hl. n. existía la comunicación de radio básica en la red GSM-R, con lo que incumplió la disposición del § 71 apartado 5 letra a) del decreto
+la rotación pasa a ser el Os 2012 (Dobříš – Praha-Krč – Praha hl. n.), empleó DV cuyos
+medios técnicos no estaban conectados correctamente de modo que, sobre la base de la orden emitida
+en la red de radio GSM-R, garantizaran la realización de la parada automática del tren,
+a pesar de que en parte del trayecto, en el tramo Praha-Krč – Praha hl. n., existía la comunicación
+básica de radio en la red GSM-R, con lo que incumplió lo dispuesto en el § 71 apartado 5 letra a) del decreto
 n.º 173/1995 Sb.
-«El transportista está obligado a utilizar para la explotación:
-a) en las líneas o en parte de la línea con la sección de línea explotada del sistema de aparato de radio de tren destinado a garantizar la conducción del transporte ferroviario o para la transmisión de órdenes, señales, avisos o transmisión de datos, un vehículo ferroviario equipado con una parte móvil de aparato de radio compatible y funcional; si la sección de línea del aparato de radio de tren permite emitir una orden de parada automática del vehículo ferroviario, el vehículo ferroviario debe estar equipado con medios técnicos para su realización.».
+«El operador está obligado a utilizar para la explotación:
+a) en las líneas o parte de línea con la sección de línea explotada del sistema de equipo de radio de tren
+destinado a garantizar la gestión del transporte ferroviario o para la transmisión de
+órdenes, señales, avisos o transmisión de datos, un vehículo ferroviario equipado con una
+parte móvil de equipo de radio funcional y compatible; si la sección de línea del equipo de radio de tren
+permite emitir una orden de parada automática del vehículo ferroviario, el
+vehículo ferroviario debe estar equipado con medios técnicos para su realización.».
 ## 5 MEDIDAS ADOPTADAS
-### 5.1 Lista de medidas que ya se han tomado o adoptado como consecuencia del suceso
-El gestor de la infraestructura y el transportista, según sus Evaluaciones de MU, no han adoptado ni emitido ninguna medida. La Autoridad Ferroviaria, según su comunicación, hasta la fecha no ha emitido ninguna medida.
+### 5.1 Lista de medidas que ya se han adoptado o tomado como
+consecuencia del suceso ferroviario
+El explotador de la infraestructura y el operador, conforme a sus Evaluaciones de SU, no han adoptado ni emitido
+ninguna medida. La Autoridad Ferroviaria, conforme a su comunicación, hasta la fecha no ha emitido
+ninguna medida.
 ## 6 RECOMENDACIONES DE SEGURIDAD
-La Inspección Ferroviaria, en virtud de la disposición del § 53e apartado 1 de la ley n.º 266/1994 Sb.,
-recomienda, en relación con la prevención de sucesos:
+La Inspección Ferroviaria, con base en lo dispuesto en el § 53e apartado 1 de la ley n.º 266/1994 Sb.,
+recomienda, en relación con la prevención de sucesos ferroviarios:
 ### A la Autoridad Ferroviaria:
-la adopción de una medida que garantice la dotación del paso a nivel P5737, asegurado
+la adopción de una medida que garantice la dotación del paso a nivel P5737, actualmente
 •
-en la actualidad únicamente con cruces de aviso, con un dispositivo de aseguramiento del paso a nivel
-complementado con barreras, lo que, atendiendo a las circunstancias locales desde el punto de vista de la barrera óptica y física, reducirá la probabilidad de que el conductor entre en el paso a nivel ferroviario ante su falta de reacción ante un vehículo ferroviario de visibilidad reducida que se aproxima al paso a nivel.
+protegido únicamente con cruces de advertencia, con una instalación de enclavamiento de paso a nivel
+dotada de barreras, lo que, atendiendo a las circunstancias locales desde el punto de vista óptico
+y físico de barrera, reducirá la probabilidad de que un conductor entre en el paso a nivel
+cuando no responda a un vehículo ferroviario de visibilidad limitada que se aproxima al paso a nivel.
 Al Ayuntamiento de Dobříš, como autoridad administrativa de carreteras en materia de carreteras de clase II y III
-y de vías de comunicación específicas de acceso público en el territorio administrativo del municipio con competencias ampliadas de Dobřísh:
+y vías de comunicación de uso público en el ámbito administrativo del municipio con competencias ampliadas de Dobříš:
 la poda y el recorte de vegetación (ramas de árboles, arbustos), en su caso la tala de árboles en el borde del bosque en
 
 ## Página 48
+
 
 lado interior de la curva de trazado en las proximidades de la carretera II/114 con el objetivo de mejorar las condiciones de visibilidad y la visión del conductor y permitir así la detección temprana de vehículos que circulen en sentido contrario. De este modo, aumentar la previsibilidad de la situación para el conductor que gira hacia la vía que atraviesa el paso a nivel y para el conductor del vehículo que circula en sentido contrario.
 
@@ -1501,8 +1499,8 @@ Ing. Petr Mencl v. r.
 director
 de la Inspección Territorial de Bohemia
 
-
 ## Página 49
+
 
 ## 7 ANEXOS
 
@@ -1511,31 +1509,30 @@ Fig. n.º 8: Foto de la visión del conductor NA en el espejo retrovisor durante
 Fig. n.º 9: Foto de la visión del conductor NA en el espejo retrovisor durante el reconocimiento del lugar del SU
        Fuente: DI
 
-
 ## Página 50
+
 
 Fig. n.º 10: Foto de la visión del conductor NA hacia la vía (tren) en el espejo retrovisor durante la verificación de la visibilidad
       Fuente: DI
 Fig. n.º 11: Foto de la visión del conductor NA hacia la vía (tren) en el espejo retrovisor durante la verificación de la visibilidad                   Fuente: DI
 
-
 ## Página 51
+
 
 Fig. n.º 12: Foto de la visión del conductor NA hacia la vía (tren) en el espejo retrovisor durante la verificación de la visibilidad, cuando el tren desapareció casi por un instante de la vista al girar NA a la izquierda para girar posteriormente a la derecha
         Fuente: DI
 Fig. n.º 13: Foto de la visión del conductor NA hacia la vía (tren) en el espejo retrovisor durante la verificación de la visibilidad
          Fuente: DI
 
-
 ## Página 52
 
-Fig. n.º 14: Foto de la visión del conductor NA hacia la vía (tren) también en el espejo retrovisor durante la verificación de la visibilidad
+Fig. n.º 14: Foto de la visión del conductor de la NA hacia la vía (tren) también en el espejo retrovisor durante la verificación de la visibilidad
         Fuente: DI
-Fig. n.º 15: Foto de la visión del conductor NA hacia la vía en el espejo retrovisor de otro paso a nivel
+Fig. n.º 15: Foto de la visión del conductor de la NA hacia la vía en el espejo reflectante en otro PdV
                     Fuente: DI
 
-
 ## Página 53
+
 
 Fig. n.º 16: Fotomapa y foto de la visión hacia la carretera y la vía
            Fuente: Mapy.cz, modificación DI
@@ -1544,8 +1541,8 @@ Fig. n.º 17: Fotomapa y foto de la visión hacia la carretera y la vía
 Fig. n.º 18: Fotomapa y foto de la visión hacia la carretera y la vía
            Fuente: Mapy.cz, modificación DI
 
-
 ## Página 54
+
 
 Fig. n.º 19: Curvas de arrastre del tren con remolque involucrado en el SU (con sobrepaso y sin sobrepaso)
                      Fuente: PČR, modificación ČVUT

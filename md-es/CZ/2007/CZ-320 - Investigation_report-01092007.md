@@ -10,13 +10,14 @@ chars: 43113
 ratio_longitud: 1.25
 tokens_in: 28045
 tokens_out: 18197
-verificacion: revisar
-notas_cifras: ["bloque 1: original bilingüe: se compara contra el idioma principal (EN)", "bloque 2: original bilingüe: se compara contra el idioma principal (CS)", "bloque 3: original bilingüe: se compara contra el idioma principal (CS); cifras cortas: 4/65", "bloque 4: original bilingüe: se compara contra el idioma principal (CS)", "bloque 5: original bilingüe: se compara contra el idioma principal (CS)", "bloque 6: original bilingüe: se compara contra el idioma principal (CS)"]
-avisos: ["bloque 3: ratio 1.61", "bloque 4: ratio 1.79", "bloque 5: ratio 1.78", "bloque 6: ratio 1.64", "bloque 7: ratio 1.67"]
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (PT)", "página 5: original bilingüe: se compara contra el idioma principal (EN)", "página 6: original bilingüe: se compara contra el idioma principal (PT)", "página 7: original bilingüe: se compara contra el idioma principal (CS)", "página 8: cifras cortas: 5/32", "página 9: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 Inspección Ferroviaria
 República Checa
@@ -40,11 +41,12 @@ N.º de identificación fiscal (IČO): 75009561
 http://www.dicr.cz
 fax: (+420) 224 805 428
 
-
 ## Página 2
 
 
+
 ## Página 3
+
 
 # RESUMEN
 1 de septiembre de 2007, 08:10 (06:10 GMT)
@@ -69,11 +71,12 @@ Se recomienda equipar las líneas regionales de gran tráfico sin
 conmutación con un sistema de conmutación técnica que garantice que 
 los trenes no puedan entrar en la parte ocupada de la vía.
 
-
 ## Página 4
 
 
+
 ## Página 5
+
 
 # Índice
  Resumen .............................................................................................................................3
@@ -104,6 +107,7 @@ incluidas las personas en relación contractual ................................
 
 ## Página 6
 
+
 relación ...............................................................................................................11
 3.1.2 Otras personas .........................................................................................................12
 3.2 Sistema de garantía de la seguridad ...............................................................................12
@@ -133,8 +137,8 @@ relación ......................................................................
 4.1.1 Descripción final del incidente basada en los hechos constatados en el punto 3 
 ............................................................................................................................16
 
-
 ## Página 7
+
 
 4.2 Análisis ......................................................................................................................16
 4.2.1 Evaluación de los hechos constatados según el punto 3 y presentación de conclusiones sobre la causa del incidente y la actuación de los servicios de rescate ..........................................16
@@ -152,6 +156,7 @@ relación ......................................................................
 
 ## Página 8
 
+
 ## 1 RESUMEN
 El 1 de septiembre de 2007 a las 08:10 horas se produjo en la línea ferroviaria regional Číčenice – Volary, en vía libre entre la estación ferroviaria adyacente (en adelante, estación) Vodňany y la estación de maniobras Bavorov, en el pk 9,915, un incidente extraordinario – un accidente grave en el transporte ferroviario a tenor del artículo 49 de la ley n.º 266/1994 Coll., sobre ferrocarriles, en su redacción vigente (en adelante, ley n.º 266/1994 Coll.), en el que chocaron frontalmente los trenes de viajeros Os 18003 y Os 18032, este último ocupado por viajeros. En total, resultaron heridas doce personas que viajaban en los trenes y un empleado de la empresa transportista. El daño material total sobre el material rodante se cuantificó en 137 145,- Kč. La causa del incidente extraordinario fue la salida ilegal del tren Os 18003 de la estación de maniobras Bavorov sin el consentimiento de la persona cualificada que dirige las circulaciones, es decir, el despachador de tráfico.
 ## 2 DATOS RELATIVOS AL INCIDENTE EXTRAORDINARIO
@@ -161,29 +166,29 @@ El incidente extraordinario se produjo el 1 de septiembre de 2007 a las 08:10 ho
 ### 2.1.2 Descripción del incidente extraordinario y del lugar del accidente, incluida la actividad del sistema integrado de rescate y del servicio de emergencias
 El tren Os 18032, que circulaba desde la estación Číčenice hasta la estación Prachatice, es un tren de viajeros regular que circula en los días determinados de la semana: circula los días laborables hasta el 18 de mayo y a partir del 10 de septiembre; a partir del 19 de mayo circula los días laborables, los sábados y el 5 de julio, pero no circula el 7 de julio. El tren Os 18032 tiene ordenado el cruce con el tren Os 18003 procedente en sentido contrario en la estación de maniobras Bavorov, según el horario de trenes encuadernado para la línea n.º 708 Číčenice – Volary.
 El tren Os 18003, que circulaba desde la estación Volary hasta la estación Číčenice, es un tren de viajeros regular que circula a diario. Según el horario de trenes encuadernado para la línea n.º 708 Číčenice – Volary, tiene ordenado el cruce con el tren Os 18032 procedente en sentido contrario en la estación de maniobras Bavorov.
-El sábado 1 de septiembre de 2007, el maquinista del tren Os 18003, tras llegar a la estación de maniobras Bavorov, donde debía cruzar con el tren Os 18032 procedente en sentido contrario, sin disponer de una orden escrita que le eximiera de la «obligación de notificación» en la estación de maniobras Bavorov, no se notificó al despachador de tráfico de la estación Prachatice, no esperó la llegada del tren Os 18032 procedente en sentido contrario y salió de la estación de maniobras Bavorov a la hora de salida prevista. Con el tren Os 18032, que presentaba un retraso de + 9 minutos, se 
-
+El sábado 1 de septiembre de 2007, el maquinista del tren Os 18003, tras llegar a la estación de maniobras Bavorov, donde debía cruzar con el tren Os 18032 procedente en sentido contrario, sin disponer de una orden escrita que le eximiera de la «obligación de notificación» en la estación de maniobras Bavorov, no se notificó al despachador de tráfico de la estación Prachatice, no esperó la llegada del tren Os 18032 procedente en sentido contrario y salió de la estación de maniobras Bavorov a la hora de salida prevista. Con el tren Os 18032, que presentaba un retraso de + 9 minutos, se
 
 ## Página 9
 
-chocó frontalmente en vía libre en el pk 9,915. En el tren Os 18003 viajaban 20 pasajeros y en el tren Os 18032 viajaban 5 pasajeros.
-Se activó el sistema integrado de rescate. En el lugar intervinieron los siguientes cuerpos: la Oficina Regional de la Policía de la República Checa de Strakonice, los Servicios de Emergencias Médicas de Strakonice y Prachatice, incluido el servicio de rescate aéreo, el Cuerpo de Bomberos y Rescate del kraj de Bohemia Meridional, Delegación de Prachatice, y el Cuerpo de Bomberos y Rescate de ČD, a. s., de České Budějovice.
-2.1.3 Decisión de iniciar la investigación de las causas y las circunstancias de la producción, composición del equipo de personas cualificadas y método de conducción de la investigación de las causas y las circunstancias de la producción
-La Inspección Ferroviaria, de conformidad con el artículo 53 de la ley n.º 266/1994 Coll. y el artículo 11 del decreto n.º 376/2006 Coll., sobre el sistema de seguridad de la explotación de las líneas férreas y del transporte ferroviario y los procedimientos en caso de incidentes extraordinarios en las líneas férreas, inició la investigación de las causas y las circunstancias de la producción del incidente extraordinario. Se envió al lugar de producción un inspector jefe de la Inspección Ferroviaria de la Inspección Territorial de Pilsen. En el lugar estaban presentes las personas cualificadas autorizadas del titular de la línea férrea y del transportista: el Inspectorado Regional de Seguridad del Transporte Ferroviario (en adelante, RIBŽD) de Pilsen, la Estación Ferroviaria de Nudo de České Budějovice (en adelante, estación de nudo), la estación Volary, el Depósito de Vehículos sobre Ruedas (en adelante, DKV) de České Budějovice y la Administración de la Vía de Circulación (en adelante, SDC) de České Budějovice.
-### 2.2 Circunstancias del incidente extraordinario
-### 2.2.1 Empleados del titular de la línea férrea y del transportista participantes, personas en relación contractual y demás participantes y testigos
+colisionó frontalmente en plena vía en el pk 9,915. En el tren Os 18003 viajaban 20 pasajeros, en el tren Os 18032 había 5 pasajeros.
+El sistema integrado de rescate fue activado. En el lugar intervinieron los siguientes servicios: Policía ČR OŘ Strakonice, Servicios de Emergencia Sanitaria de Strakonice y Prachatice, incluido el servicio de rescate aéreo, Cuerpo de Bomberos y Rescate de la Región de Bohemia del Sur, Departamento Territorial de Prachatice, y Cuerpo de Bomberos y Rescate de ČD, a. s., České Budějovice.
+2.1.3 Decisión de iniciar la investigación de las causas y circunstancias del suceso, composición del equipo de personas cualificadas y método de dirección de la investigación de las causas y circunstancias del suceso
+La Inspección Ferroviaria, de conformidad con el § 53 de la ley nº 266/1994 Sb. y el § 11 del decreto nº 376/2006 Sb., sobre el sistema de seguridad de la explotación de la vía y del transporte ferroviario y los procedimientos en caso de sucesos excepcionales en las vías, inició la investigación de las causas y circunstancias del suceso excepcional. Al lugar del suceso fue enviado el inspector jefe de la Inspección Ferroviaria de la Inspección Territorial de Plzeň. Estuvieron presentes las personas cualificadas designadas del explotador de la vía y del transporte ferroviario – de la Inspección Regional de Seguridad del Transporte Ferroviario (en adelante RIBŽD) Plzeň, de la Estación Ferroviaria de Enlace de České Budějovice (en adelante Uzlové žst.), de la estación Volary, del Depósito de Vehículos sobre Raíles (en adelante DKV) České Budějovice y de la Administración de la Vía de Circulación (en adelante SDC) České Budějovice.
+### 2.2 Circunstancias del suceso excepcional
+### 2.2.1 Empleados del explotador de la vía y del transportista implicados, personas en relación contractual y otros implicados y testigos
 ●maquinista del tren Os 18032,
 ●maquinista del tren Os 18003,
 ●jefe de tren de los trenes Os 18032 y Os 18003,
-●despachador de tráfico de la estación Prachatice,
+●despachador director de la estación Prachatice,
 ●pasajeros de los trenes Os 18032 y Os 18003.
-2.2.2 Trenes y su composición, incluidos los números de registro de cada vehículo ferroviario
-El tren Os 18032 estaba compuesto por el propio coche motor 810 483-8 del DKV de České Budějovice: longitud total 14 m, 2 ejes, masa en servicio 24 toneladas, masa total 24 toneladas, porcentaje de frenado necesario 36 %, porcentaje de frenado real 83 %.
-El tren Os 18003 estaba compuesto por el propio coche motor 810 093-5 del DKV de České Budějovice: longitud total 14 m, 2 ejes, masa en servicio 24 toneladas, masa total 24 toneladas, porcentaje de frenado necesario 68 %, porcentaje de frenado real 83 %.
-### 2.2.3 Descripción de las partes de la vía de circulación de la línea férrea, del sistema de seguridad (es decir, en particular, el estado de las vías, las agujas, los edificios de mando, las señales y el equipo de seguridad de trenes)
-El lugar de producción del incidente extraordinario se encuentra en la línea regional de vía única Číčenice – Volary, entre la estación ferroviaria adyacente Vodňany y la estación de maniobras Bavorov, en el pk 9,915. Para la gestión de las circulaciones de trenes se aplica la gestión simplificada del transporte ferroviario, que está organizada por el despachador de tráfico con sede en la estación Prachatice. Para la comunicación entre el despachador de tráfico y los maquinistas de los trenes se utiliza el método de comunicación telefónica a través de la red fija
+2.2.2 Trenes y su composición, incluidos los números de registro de los distintos vehículos ferroviarios
+El tren Os 18032 estaba formado por el propio coche motor 810 483-8 del DKV České Budějovice: longitud total 14 m, 2 ejes, masa en servicio 24 toneladas, masa total 24 toneladas, porcentajes de frenado necesarios 36 %, porcentajes de frenado reales 83 %.
+El tren Os 18003 estaba formado por el propio coche motor 810 093-5 del DKV České Budějovice: longitud total 14 m, 2 ejes, masa en servicio 24 toneladas, masa total 24 toneladas, porcentajes de frenado necesarios 68 %, porcentajes de frenado reales 83 %.
+### 2.2.3 Descripción de los componentes de la vía de circulación de la vía, del sistema de señalización (es decir, en particular el estado de los raíles, desvíos, aparatos de cambio, señales y del dispositivo de seguridad del tren)
+El lugar del suceso excepcional se encuentra en la vía regional de una sola vía Číčenice – Volary, entre la estación adyacente Vodňany y la estación de clasificación Bavorov en el pk 9,915. Para la regulación de la circulación de los trenes se utiliza la regulación simplificada del transporte ferroviario, que es organizada por un despachador director con sede en la estación Prachatice. Para la comunicación entre el despachador director y los maquinistas de los trenes se utiliza el medio de comunicación telefónica por red fija
 
 ## Página 10
+
 
 de cada uno de los trenes. La comunicación se registra automáticamente en el dispositivo de grabación de tipo «REDAT» en la estación de Prachatice.
 ### 2.2.4 Utilización de medios de comunicación
@@ -204,52 +209,55 @@ En el incidente se produjeron lesiones a la salud de viajeros y de un empleado d
 ### 2.3.2 En las mercancías transportadas, equipajes y otros bienes
 No se produjeron daños en las mercancías transportadas, equipajes ni en otros bienes.
 
-
 ## Página 11
 
-### 2.3.3 En material rodante ferroviario, elementos de la vía y en el medio ambiente
-En las unidades motrices ferroviarias se produjeron daños materiales por un importe total de 137 145,- Kč. La tasación de los daños del tren motor 810 483-8 asciende a 105 960,- Kč, y la del tren motor 810 093-5 asciende a 31 185,- Kč. No se produjeron daños en los elementos de la vía ni en el medio ambiente.
+### 2.3.3 En los vehículos ferroviarios, en los componentes de la vía de circulación y en el medio ambiente
+En los vehículos de tracción ferroviarios se produjo un daño material por un importe total de 137 145,- Kč. 
+La estimación pericial del daño en el coche motor 810 483-8 asciende a 105 960,-Kč, en el coche motor 
+810 093-5 asciende a 31 185,- Kč. No se produjo daño ni en los componentes de la vía de circulación ni en el medio ambiente.
 ### 2.4 Circunstancias externas
 ### 2.4.1 Condiciones meteorológicas y datos geográficos
-En el momento de producirse el incidente la temperatura era de +20°C, cielo nublado, calma, visibilidad buena. La vía en el lugar de producción del incidente se encuentra en un tramo recto horizontal arbolado, discurre en terraplén orientado hacia un lado hacia el río Blanice.
-## 3 REGISTRO DE LAS EXPLICACIONES PRESTADAS
-### 3.1 Resumen de las explicaciones prestadas (sujetas a protección de la identidad de las personas) y sobre la investigación técnica de las causas de producción del incidente
-### 3.1.1 Empleados del gestor de la infraestructura y del operador de transporte, incluidas las personas en relación contractual
-En el marco de la investigación de las causas y las circunstancias de la producción del incidente, el gestor de la infraestructura y del operador de transporte ferroviario recibió explicaciones por escrito de los maquinistas de los trenes Os 18003, Os 18032, del despachador de tráfico coordinador de la estación de Prachatice y del jefe de tren del tren Os 18003.
-El jefe de tren del tren Os 18003 indicó en el «Acta con el empleado» que el maquinista del tren Os 18003, inmediatamente antes de la colisión, entró en el espacio destinado a los viajeros y les advirtió del impacto.
-El despachador de tráfico coordinador indicó en el «Acta con el empleado» que no emitió ninguna orden por escrito al maquinista del tren Os 18003 para anular la obligación de notificación en la estación de Bavorov, no se produjo ninguna conversación telefónica sobre la llegada del tren Os 18003 a la estación de Bavorov ni tampoco autorizó al tren Os 18003 a continuar su viaje.
-El maquinista del tren Os 18003, en el «Acta con el empleado», respecto al desarrollo del incidente, entre otras cosas, indicó: «...tras el embarque y desembarque de los viajeros partimos de la estación de Prachatice a las 7:41 h., es decir, a tiempo. En las estaciones de Husinec y Strunkovice nad Blanicí el horario de trenes anula la obligación de notificación, por lo que tras el desembarque y embarque de los viajeros continué hacia la estación de Bavorov, a la que llegamos a tiempo y detuve el tren aquí. Esperé a la hora de salida regular y, pensando que era domingo y que el tren de cruce Os 18032 no circulaba los domingos, no me di cuenta de que no había recibido la orden de anular la obligación de notificación en la estación de Bavorov y partí de la estación de Bavorov con el tren sin notificarlo al despachador de tráfico coordinador».
+En el momento de producirse la incidencia extraordinaria hacía +20°C, cielo cubierto, calma, buena visibilidad. La vía 
+en el lugar de producción de la incidencia extraordinaria se encuentra en un tramo recto horizontal y arbolado, 
+está situada sobre un terraplén que se dirige por un lado hacia el río Blanice.
+## 3 REGISTRO DE LAS EXPLICACIONES PRESENTADAS
+### 3.1 Resumen de las explicaciones presentadas (sujetas a la protección de la identidad de las personas) y del peritaje 
+sobre las causas de la incidencia extraordinaria
+### 3.1.1 Empleados del gestor de la vía y del transportista, incluidas personas en relación contractual
+En el marco de la investigación de las causas y circunstancias de la incidencia extraordinaria, aportaron 
+por escrito una explicación al gestor de la vía y del transporte ferroviario los maquinistas de los trenes Os 18003, Os 18032, 
+el despachador director de la est. Prachatice y el jefe de tren del tren Os 18003.
+El jefe de tren del tren Os 18003, en el «Registro con el empleado», comunicó que el maquinista del tren Os 
+18003, justo antes de la colisión, corrió al espacio para pasajeros y les advirtió del impacto.
+El despachador director indicó en el «Registro con el empleado» que no emitió al maquinista del tren Os 18003 
+ninguna orden escrita de supresión de la obligación de aviso en la estación de Bavorov, 
+no tuvo ninguna conversación telefónica sobre la llegada del tren Os 18003 a la estación de Bavorov y tampoco 
+concedió al tren Os 18003 autorización para continuar la marcha.
+El maquinista del tren Os 18003, en el «Registro con el empleado», sobre el desarrollo de la incidencia extraordinaria, 
+entre otras cosas, indicó «...tras el embarque y desembarque de pasajeros, salimos de la est. Prachatice a las 7:41 h., 
+es decir, puntualmente. En las estaciones de Husinec y Strunkovice nad Blanicí está suprimida por el horario la 
+obligación de aviso, por lo que, tras el desembarque y embarque de pasajeros, continué hasta la estación de Bavorov, 
+a la que llegamos puntualmente, y aquí detuve el tren. Esperé la hora de salida regular y, creyendo que era domingo y que el tren de cruce Os 18032 no circula los domingos, no me di cuenta de que no había recibido la orden de supresión de la obligación de aviso 
+en la estación de Bavorov y salí con el tren de la estación de Bavorov sin avisar al despachador director».
 
 ## Página 12
 
 ### 3.1.2 Otras personas
-No se solicitaron explicaciones a otras personas.
+No se solicitó explicación de otras personas.
 ### 3.2 Sistema de garantía de la seguridad
-### 3.2.1 Organización marco y forma en que se dictan y ejecutan las instrucciones
-El administrador de la infraestructura y el transportista en la línea Číčenice – Volary son České dráhy, a. s. 
-La infraestructura y el transporte ferroviario se explotan con base en la autorización administrativa expedida 
-para la explotación de la infraestructura y la licencia concedida para la explotación del transporte ferroviario. De conformidad 
-con lo dispuesto en la ley n.º 266/1994 Coll. y sus reglamentos de aplicación, se han expedido normas internas 
-para la explotación de la infraestructura y el transporte ferroviario. En esta línea se utiliza un régimen simplificado 
-de gestión del tráfico ferroviario. El tráfico es dirigido por el despachador de tráfico desde la estación de Prachatice. Para 
-la comunicación entre el despachador de tráfico y los maquinistas de los trenes se utiliza el medio de comunicación telefónica a través de la red fija desde las distintas estaciones, con 
-grabación automática de las conversaciones en el dispositivo de grabación «REDAT» en la estación de Prachatice.
-### 3.2.2 Requisitos aplicables al personal del administrador de la infraestructura y del transportista y su cumplimiento
-Los requisitos aplicables al personal del administrador de la infraestructura y del transportista, en particular su competencia profesional y su aptitud física, están establecidos por la ley n.º 266/1994 Coll., sus reglamentos de aplicación 
-y las normas internas del administrador. Según la documentación presentada, en el momento de la producción del incidente extraordinario, todo el personal del administrador de la infraestructura y del transporte ferroviario implicado era profesional y médicamente apto para el desempeño de sus funciones.
+### 3.2.1 Organización marco y forma en que se emiten y ejecutan las instrucciones
+El explotador de la infraestructura y del transporte ferroviario en la línea Číčenice – Volary es České dráhy, a. s.
+La infraestructura y el transporte ferroviario se explotan en virtud de la autorización administrativa emitida para la explotación de la infraestructura y de la licencia concedida para la explotación del transporte ferroviario. De conformidad con la disposición de la Ley núm. 266/1994 Sb. y sus reglamentos de desarrollo, se emitieron normas internas para la explotación de la infraestructura y del transporte ferroviario. En esta línea se utiliza una gestión simplificada del transporte ferroviario. El tráfico es gestionado por el despachador director desde la estación de Prachatice. Para la comunicación entre el despachador director y los maquinistas de los trenes se utiliza el medio de comunicación telefónica por red fija desde las distintas estaciones, con grabación automática de las llamadas en el dispositivo de registro «REDAT» en la estación de Prachatice.
+### 3.2.2 Requisitos aplicables a los empleados del explotador de la infraestructura y del transportista y su cumplimiento
+Los requisitos aplicables a los empleados del explotador de la infraestructura y del transportista, en particular su idoneidad profesional y sanitaria, vienen determinados por la Ley núm. 266/1994 Sb., sus reglamentos de desarrollo y las normas internas del explotador. Según la documentación aportada, en el momento de producirse el suceso excepcional, todos los empleados implicados del explotador de la infraestructura y del transporte ferroviario reunían la idoneidad profesional y sanitaria para el desempeño de su función.
 ### 3.2.3 Procedimiento de control interno de la seguridad y sus resultados
-La actividad de control del administrador de la infraestructura y del transportista se realiza de conformidad con la legislación vigente, de acuerdo con lo dispuesto en las normas internas del administrador de la infraestructura y del transporte ferroviario. 
-No se han detectado deficiencias en la actividad de control.
-### 3.2.4 Interfaces entre las distintas partes interesadas y las componentes de la ruta de circulación
-La interfaz entre las partes interesadas y las componentes de la ruta de circulación está regulada por lo dispuesto en la ley n.º 266/1994 Coll. y la ley n.º 77/2002 Coll., sobre la sociedad anónima České dráhy, 
-la organización estatal Správa železniční dopravní cesty y por la modificación de la ley n.º 266/1994 Coll., 
-sobre ferrocarriles, en su redacción posterior, y por la ley n.º 77/1997 Coll., sobre la empresa estatal, 
-en su redacción posterior.
-El administrador de la infraestructura y del transporte ferroviario en esta línea es la misma persona jurídica: České 
-dráhy, a. s.
-
+La actividad de control del explotador de la infraestructura y del transportista se realiza de conformidad con la legislación vigente, de acuerdo con las disposiciones de las normas internas del explotador de la infraestructura y del transporte ferroviario. No se detectaron deficiencias en la actividad de control.
+### 3.2.4 Interfaz entre los distintos sujetos implicados y los componentes de la vía
+La interfaz entre los sujetos implicados y los componentes de la vía viene determinada por las disposiciones de la Ley núm. 266/1994 Sb. y de la Ley núm. 77/2002 Sb., sobre la sociedad anónima České dráhy, la organización estatal Správa železniční dopravní cesty y sobre la modificación de la Ley núm. 266/1994 Sb., sobre las vías férreas, en su redacción consolidada, y de la Ley núm. 77/1997 Sb., sobre la empresa estatal, en su redacción consolidada.
+El explotador de la infraestructura y del transporte ferroviario en esta misma vía es la misma persona jurídica – České dráhy, a. s.
 
 ## Página 13
+
 
 ### 3.3 Marco jurídico y otras disposiciones
 ### 3.3.1 Normativa comunitaria y nacional aplicable
@@ -284,6 +292,7 @@ Los puntos de cruce n.º 2 y n.º 4 en la estación de Bavorov están equipados 
 
 ## Página 14
 
+
 ### 3.4.3 Medios de comunicación
 Para la comunicación entre el despachador de tráfico que dirige el servicio y los maquinistas de los trenes se utiliza el medio de comunicación telefónico a través de la red fija desde las distintas estaciones de cruce. La comunicación se graba automáticamente en el dispositivo de grabación de tipo «REDAT» en la estación de Prachatice.
 ### 3.4.4 Material rodante, incluidos los dispositivos de grabación automática de datos
@@ -294,27 +303,26 @@ Sobre la base de la evaluación de la evolución de la velocidad según las cint
 ### 3.5.1 Medidas adoptadas por el personal del titular de la infraestructura y del transportista, en lo que respecta a la dirección, la señalización y la protección del tráfico
 Las medidas adoptadas por el personal del transportista, en lo que respecta a la dirección, la señalización y la protección del tráfico en relación con la aparición del incidente, no se ajustaban a lo dispuesto en el decreto n.º 173/1995 Coll., en su versión vigente, ni a los procedimientos tecnológicos establecidos del titular de la infraestructura. En la declaración verbal en el lugar del incidente y posteriormente también en el «Acta con el empleado», el maquinista del tren Os 18003 indicó que en la estación de cruce de Bavorov no esperó la llegada del tren procedente en sentido contrario ni se comunicó con el despachador de tráfico que dirigía el servicio. El horario en papel disponía que el tren Os 18003 realizara el cruce con el tren procedente en sentido contrario Os 18032 en la estación de cruce de Bavorov. Mediante la comprobación del expediente de órdenes escritas «Orden al tren para la línea con gestión simplificada del tráfico ferroviario» (en adelante, PvD3), se constató que el maquinista del tren Os 18003 no recibió ninguna orden PvD3 que anulara la obligación de comunicación en la estación de cruce de Bavorov ni que modificara el cruce con el tren Os 18032. Además, en el «Cuaderno de anotaciones telefónicas para la línea con gestión simplificada del tráfico ferroviario» de la estación de cruce de Bavorov, el maquinista del tren Os 18003 no realizó ninguna anotación el 01.09.2007.
 
-
 ## Página 15
 
-### 3.5.2 Intercambio de mensajes verbales en relación con el incidente, incluidos los documentos del dispositivo de grabación
-Tras el incidente, se procedió a la escucha de las grabaciones del dispositivo de grabación «REDAT» en la estación de Prachatice, lo que confirmó que el maquinista del tren Os 18003 no comunicó al despachador de tráfico que dirigía el servicio la hora de llegada a la estación de cruce de Bavorov ni obtuvo el consentimiento del despachador de tráfico que dirigía el servicio para continuar la marcha.
-### 3.5.3 Medidas adoptadas para la protección y la seguridad del lugar del incidente
-Hasta la llegada de las unidades del sistema integrado de rescate y de la persona autorizada y técnicamente competente del titular de la infraestructura y del tráfico ferroviario, ambos maquinistas, en colaboración con el jefe de tren del transporte de viajeros, aseguraron la protección y la seguridad del lugar del incidente.
+### 3.5.2 Intercambio de comunicaciones verbales en relación con el suceso, incluidas las pruebas del registrador
+Tras el suceso, se realizó una audición de las grabaciones del registrador "REDAT" en la estación de Prachatice, con lo que se confirmó que el maquinista del tren Os 18003 procedente de la estación de Bavorov no comunicó al despachador director el tiempo de llegada a la estación de Bavorov, ni recibió el consentimiento del despachador director para continuar la marcha.
+### 3.5.3 Medidas adoptadas para la protección y la seguridad del lugar del suceso
+Hasta la llegada de los servicios del sistema integrado de emergencia y de la persona autorizada y competente del gestor de la infraestructura y del transporte ferroviario, ambos maquinistas, en colaboración con el jefe de tren de transporte de viajeros, garantizaron la protección y la seguridad del lugar del suceso.
 ### 3.6 Condiciones laborales, sanitarias y de explotación
-### 3.6.1 Horario laboral del personal del titular de la infraestructura y del transportista que fueron participantes en el incidente
-El horario laboral del personal del titular de la infraestructura y del tráfico ferroviario que fueron participantes en el incidente se ajustaba al Código del Trabajo y al Reglamento Interior de Trabajo.
-3.6.2 Estado de salud y situación personal que influyeron en el incidente, incluido el estrés físico o psicológico
-El personal del titular de la infraestructura y del transportista se somete a revisiones médicas periódicas conforme a lo dispuesto en el decreto n.º 101/1995 Coll., por el que se aprueba el Reglamento sobre la aptitud sanitaria y técnica para la explotación de las vías férreas y del tráfico ferroviario, en su versión vigente, y de conformidad con la normativa interna de ČD, a. s. No se detectaron el estado de salud ni la situación personal que pudieran haber influido en la aparición del incidente. Las pruebas de alcoholemia realizadas al personal del titular de la infraestructura y del transportista dieron resultado «negativo».
-3.6.3 Disposición del equipamiento del puesto de control o del vehículo, que influye en su manejo y uso
-No se detectaron deficiencias en la disposición del equipamiento de los puestos de control o de los vehículos que pudiera influir en su manejo y uso.
-### 3.7 Incidentes anteriores de carácter similar
-En esta línea regional se produjo el siguiente incidente de carácter similar:
-El 22.07.2004 – colisión del tren Os 18008 con el tren Os 18035 en vía recta entre las estaciones de cruce de Bavorov y Strunkovice nad Blanicí. Consecuencias de la colisión: fallecimiento de dos viajeros, lesiones graves para un total de dieciséis viajeros y empleados del transportista, y lesiones leves para un total de diecisiete viajeros y empleados del transportista. El daño material ascendió a 3 866 320,- Kč. La causa del incidente fue también la falla humana: salida no autorizada del tren desde la estación de cruce sin el consentimiento del despachador de tráfico que dirigía el servicio.
-Las medidas del titular de la infraestructura respecto a este incidente consistieron en la ordenación de la realización de una actividad de control intensificada
-
+### 3.6.1 Jornada laboral de los empleados del gestor de la infraestructura y del transportista que participaron en el suceso
+La jornada laboral de los empleados del gestor de la infraestructura y del transporte ferroviario que participaron en el suceso se ajustó al Código del Trabajo y al reglamento de trabajo.
+3.6.2 Estado de salud y situación personal que influyeron en el suceso, incluido el estrés físico o psicológico
+Los empleados del gestor de la infraestructura y del transportista se someten a reconocimientos médicos periódicos de conformidad con lo dispuesto en el decreto nº 101/1995 Sb., por el que se aprueba la Ordenanza sobre la aptitud sanitaria y profesional para la explotación de la infraestructura y del transporte ferroviario, en su versión vigente, y según la normativa interna de ČD, a. s. No se detectó ningún estado de salud ni situación personal que pudiera haber influido en la aparición del suceso. Las pruebas de alcoholemia de precisión a los empleados del gestor de la infraestructura y del transportista dieron como resultado "negativo".
+3.6.3 Disposición del equipamiento del puesto de mando o del vehículo que influye en su manejo y utilización
+No se detectaron deficiencias en la disposición de los equipamientos de los puestos de mando o de los vehículos que pudieran influir en su manejo y utilización.
+### 3.7 Sucesos anteriores de carácter similar
+En esta infraestructura regional se produjo el siguiente suceso de carácter similar:
+El 22. 07. 2004 – colisión del tren Os 18008 con el tren Os 18035 en plena vía entre las estaciones de Bavorov y Strunkovice nad Blanicí. Consecuencias de la colisión: lesiones mortales en dos viajeros, lesiones graves en un total de dieciséis viajeros y empleados del transportista, lesiones leves en un total de diecisiete viajeros y empleados del transportista. El daño material ascendió a 3 866 320,- Kč. La causa del suceso fue también el fallo del factor humano – salida no autorizada del tren de la estación sin el consentimiento del despachador director.
+Las medidas del gestor respecto a este suceso consistieron en la orden de llevar a cabo un aumento de
 
 ## Página 16
+
 
 de la actividad de control, la emisión de un folleto informativo para tomar conocimiento de la causa y las circunstancias de aparición del incidente en cuestión, y la no concesión de las bonificaciones de rendimiento prometidas al maquinista del tren Os 18008.
 ## 4 ANÁLISIS Y CONCLUSIONES
@@ -332,45 +340,35 @@ La causa fundamental del incidente fue el incumplimiento de lo dispuesto en el d
 
 ## Página 17
 
-### 4.3.3 Causas provocadas por el marco normativo y por el uso del sistema de garantía de seguridad
-Durante la investigación no se detectaron causas provocadas por el marco normativo ni por el uso del sistema de garantía de seguridad.
-
+### 4.3.3 Causas que se deben al marco normativo y al uso del sistema de garantía de la seguridad
+Durante la investigación no se detectaron causas que se debieran al marco normativo y al uso del sistema de garantía de la seguridad.
 ### 4.4 Hallazgos complementarios
-
-### 4.4.1 Deficiencias y omisiones detectadas durante la investigación de las causas y las circunstancias de la aparición del incidente grave, que no son relevantes para las conclusiones sobre las causas
-No se detectaron deficiencias ni omisiones durante la investigación de las causas y las circunstancias de la aparición del incidente grave.
-
+### 4.4.1 Deficiencias y omisiones detectadas durante la determinación de las causas y circunstancias del suceso ferroviario, que sin embargo no son significativas para las conclusiones sobre las causas
+No se detectaron deficiencias ni omisiones durante la determinación de las causas y circunstancias del suceso ferroviario.
 ## 5 MEDIDAS ADOPTADAS
-
-### 5.1 Relación de las medidas que ya se han adoptado o tomado como consecuencia del incidente grave
-Medidas adoptadas como consecuencia del incidente grave:
-●se suspendió la actividad laboral al maquinista del tren Os 18003, no se le abonaron las remuneraciones por rendimiento,
-●todos los maquinistas del tren «Bleskovka» fueron informados del incidente grave el 03. 09. 2007,
-●ČD, a. s., Dirección General – Departamento de Gestión del Tráfico y Organización del Transporte Ferroviario emitió la «Medida para la eliminación de la falla del factor humano en las líneas explotadas conforme a la norma ČD D3»,
-●ČD, a. s., Departamento 18, Inspectorado de Seguridad del Transporte Ferroviario, emitió la Lista Informativa n.º 9/2007 relativa a este incidente grave.
-
+### 5.1 Lista de medidas que ya se han tomado o adoptado como consecuencia del suceso ferroviario
+Medidas adoptadas como consecuencia del suceso ferroviario:
+●al maquinista del tren Os 18003 se le suspendió la actividad laboral, no se le reconocieron las retribuciones por rendimiento,
+●todos los maquinistas fueron informados del suceso ferroviario mediante el "Bleskovka" 03. 09. 2007,
+●ČD, a. s., Dirección General – Departamento de Gestión de la Explotación y Organización del Transporte Ferroviario emitió la "Medida para la eliminación del fallo del factor humano en las líneas explotadas de acuerdo con la norma ČD D3",
+●ČD, a. s., Departamento 18, Inspectorado de Seguridad del Transporte Ferroviario, emitió la Hoja Informativa n.º 9/2007 sobre este suceso ferroviario.
 ## 6 RECOMENDACIONES DE SEGURIDAD
-La Inspección Ferroviaria, como autoridad competente conforme a lo dispuesto en el apartado 5 del artículo 53b de la ley n.º 266/1994 Coll., sobre vías férreas, en su versión vigente, basándose en los resultados de la investigación de las causas y las circunstancias de la aparición del incidente grave, de la colisión repetida de trenes en la línea regional ferroviaria Číčenice – Volary, recomienda a los propietarios de las vías, a los gestores de la infraestructura y a los gestores del tráfico ferroviario:
-
-Instalar en las líneas en las que se utiliza la regulación simplificada del tráfico ferroviario conforme al artículo 19 del decreto n.º 173/1995 Coll., por el que se aprueba el reglamento de circulación de las vías férreas, en su versión vigente, con carácter prioritario en la línea regional ferroviaria Číčenice – Volary, debido a la aparición repetida de un accidente grave
-
+La Inspección Ferroviaria, como autoridad competente en la materia de conformidad con lo dispuesto en el apartado 5 del artículo 53b de la Ley n.º 266/1994 Sb., de ferrocarriles, en su redacción vigente, sobre la base de los resultados de la investigación de las causas y circunstancias del suceso ferroviario, colisiones repetidas de trenes en la línea ferroviaria regional Číčenice – Volary, recomienda a los propietarios de infraestructura, a los gestores de infraestructura y a los operadores de transporte ferroviario:
+Instalar en las líneas donde se utiliza la gestión simplificada del transporte ferroviario de conformidad con el artículo 19 del decreto n.º 173/1995 Sb., por el que se aprueba el reglamento de circulación ferroviaria, en su redacción vigente, preferentemente en la línea ferroviaria regional Číčenice – Volary, dada la aparición repetida de un suceso grave
 
 ## Página 18
 
-y debido a la elevada intensidad del tráfico ferroviario en dicha línea, un dispositivo técnico (de seguridad) que excluya la posible falla del factor humano con el fin de garantizar la explotación segura de las vías férreas y del tráfico ferroviario y, de este modo, evitar la aparición de accidentes graves, accidentes e incidentes en el tráfico ferroviario, es decir, principalmente las salidas no autorizadas de trenes de las vías sin el consentimiento del despachador de tráfico, que han sido la causa de la aparición de dos accidentes graves ya en la línea de que se trata.
-
-En České Budějovice, el 18. 04. 2008
-
-František Steier, v.r.
-Ing. Petr Mencl, v.r.
-
-inspector superior
-director
-Inspección Territorial de Pilsen
-de la Inspección Territorial de Pilsen
-
+accidentes y, dada la considerable intensidad del tráfico ferroviario en esta línea, de dispositivos técnicos (de señalización) que eliminen la posible falla del factor humano en interés de la explotación segura de la línea y del tráfico ferroviario y, con ello, la aparición de accidentes graves, accidentes y situaciones de peligro en el tráfico ferroviario, es decir, fundamentalmente las salidas no autorizadas de trenes de las estaciones sin el consentimiento del despachador director, que fueron la causa de la aparición de ya dos accidentes graves en la línea en cuestión.
+En České Budějovice, a 18 de abril de 2008
+František Steier, rúbrica
+Ing. Petr Mencl, rúbrica
+Inspector jefe
+Director
+Inspección Territorial de Plzeň
+de la Inspección Territorial de Plzeň
 
 ## Página 19
+
 
 ## 7 ANEXOS
 Sin anexos

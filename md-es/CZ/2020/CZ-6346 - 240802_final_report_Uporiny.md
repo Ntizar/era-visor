@@ -10,13 +10,14 @@ chars: 119665
 ratio_longitud: 1.25
 tokens_in: 62863
 tokens_out: 45863
-verificacion: revisar
-notas_cifras: ["bloque 1: original bilingüe: se compara contra el idioma principal (CS)", "bloque 2: cifras cortas: 2/149", "bloque 4: cifras cortas: 3/506", "bloque 5: cifras cortas: 4/159", "bloque 6: original bilingüe: se compara contra el idioma principal (CS)", "bloque 9: original bilingüe: se compara contra el idioma principal (EN)"]
-avisos: ["bloque 6: ratio 1.61"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 5: original bilingüe: se compara contra el idioma principal (CS)", "página 6: original bilingüe: se compara contra el idioma principal (CS)", "página 7: original bilingüe: se compara contra el idioma principal (EN)", "página 10: original bilingüe: se compara contra el idioma principal (CS)", "página 11: original bilingüe: se compara contra el idioma principal (CS)", "página 12: cifras cortas: 1/40"]
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -39,13 +40,13 @@ IČ: 75009561
 mail@dicr.cz
 tel.: +420 736 521 003
 
-
 ## Página 2
+
 
 Este informe final es público y todos los hechos en él expuestos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ## 1 RESUMEN
 Fuente: Drážní inspekce
@@ -69,8 +70,8 @@ No se ha identificado ningún factor contribuyente por parte de Drážní inspek
 No se ha identificado ninguna causa en el sistema de seguridad por parte de Drážní inspekce.
 No se ha emitido ninguna recomendación de seguridad por parte de Drážní inspekce.
 
-
 ## Página 4
+
 
 ## SUMMARY
 26th September 2020, 8:35 (6:35 GMT).
@@ -100,8 +101,8 @@ none.
 Recommendation: 
 not issued.
 
-
 ## Página 5
+
 
 # Índice
 1 RESUMEN.....................................................................................................................3
@@ -143,8 +144,8 @@ SUMMARY.........................................................................
 4.2 Vehículos ferroviarios e instalaciones técnicas..........................................................................34
 4.2.1 Factores o consecuencias derivados del diseño de los vehículos ferroviarios, de la infraestructura ferroviaria o de las instalaciones técnicas....................................................................34
 
-
 ## Página 6
+
 
 4.2.2 Factores o consecuencias derivados de la instalación y de la puesta en servicio de los vehículos ferroviarios, de la infraestructura ferroviaria o de las instalaciones técnicas.....................................34
 4.2.3 Factores o consecuencias relacionados con los fabricantes de vehículos ferroviarios u otros proveedores de productos ferroviarios...........................................................................34
@@ -175,6 +176,7 @@ SUMMARY.........................................................................
 ANEXOS............................................................................................................................47
 
 ## Página 7
+
 
 ### Lista de abreviaturas y símbolos utilizados
 BD
@@ -256,8 +258,8 @@ pasaje a nivel
 žst.
 estación de ferrocarril
 
-
 ## Página 8
+
 
 ### Lista de abreviaturas de la legislación, normas y normativa interna utilizadas
 ley n.º 266/1994 Sb.
@@ -287,48 +289,49 @@ instrucción interna del transportista ČDC, «Mantenimiento y reparaciones de v
 norma ČD V26 (ÚZ venta)
 normativa interna del transportista ČD «ČD V 26 Servicio de defectoscopia en el mantenimiento y reparación de vehículos ferroviarios sobre raíles», en el texto vigente
 
-
 ## Página 9
+
 
 en el momento del cambio de construcción de los vagones y de la venta de los vagones (en 2016)
 norma ČD V99/1 (ÚZ venta)
 normativa interna del transportista ČD «ČD V 99/1 Reparación de bogies de vehículos ferroviarios sobre raíles», en el texto vigente en el momento del cambio de construcción de los vagones y de la venta de los vagones (en 2016)
 
-
 ## Página 10
 
-## 2 INVESTIGACIÓN Y SU CONTEXTO
+## 2 INVESTIGACIÓN Y SUS RELACIONES
 ### 2.1 Decisión de iniciar la investigación
-La DI decidió iniciar la investigación del SU objeto de estudio el 26. 9. 2020.
+El DI decidió iniciar la investigación de la MU en cuestión el 26. 9. 2020.
 ### 2.2 Fundamentación de la decisión de iniciar la investigación
-La DI decidió investigar el SU objeto de estudio en base a su gravedad y a las repercusiones del suceso ferroviario sobre el explotador ferroviario y el transportista.
+El DI decidió investigar la MU en cuestión sobre la base de su gravedad y de las repercusiones del suceso excepcional para el gestor de la infraestructura ferroviaria y el operador ferroviario.
 ### 2.3 Alcance y limitaciones de la investigación, incluida la fundamentación correspondiente
-La DI no se encontró, en el marco de la investigación del SU objeto de estudio, con limitaciones que influyeran negativamente en el modo y los procedimientos de la investigación.
+El DI no se encontró, en el marco de la investigación de la MU en cuestión, con limitaciones que influyeran negativamente en el modo y los procedimientos de la investigación.
 ### 2.4 Descripción resumida de las capacidades y funciones técnicas del equipo de investigación
-Investigación de la DI en el lugar del SU:
-2 inspectores de la ÚI Čechy, centro de trabajo Praga.
+Investigación del DI en el lugar de la MU:
+2x inspector de ÚI Čechy, centro de trabajo Praga.
 Constitución del equipo de investigación:
 no fue necesario constituirlo.
 Colaboración externa:
 no se utilizó.
-2.5. Comunicación y consultas durante la investigación con las personas o entidades que participaron en el suceso
-Al investigar las causas y circunstancias de la producción del SU, la DI se basó principalmente en sus propios conocimientos, hallazgos y en su propia documentación fotográfica. Durante la investigación, la DI solicitó posteriormente la documentación recabada durante la investigación al explotador ferroviario, al transportista y al HZS.
-La investigación de las causas y circunstancias de la producción del SU se realizó de acuerdo con la ley n.º 266/1994 Sb. y el decreto n.º 376/2006 Sb.
+2.5. Comunicación y consultas durante la investigación con las personas o entidades
+que participaron en el suceso en cuestión
+En la investigación de las causas y circunstancias del origen de la MU, el DI se basó principalmente en sus propios conocimientos, hallazgos y en su propia documentación fotográfica. Durante la investigación, el DI solicitó posteriormente la documentación recabada durante la investigación por parte del gestor de la infraestructura ferroviaria, el operador ferroviario y el HZS.
+La investigación de las causas y circunstancias del origen de la MU se realizó de conformidad con la ley núm. 266/1994 Sb. y con la orden núm. 376/2006 Sb.
 ### 2.6 Descripción del nivel de colaboración ofrecido por las entidades participantes
-El nivel de colaboración con los representantes de las entidades participantes en el SU fue estándar.
-### 2.7 Descripción de la investigación, los métodos y las técnicas utilizados para acreditar los hechos y los hallazgos recogidos en el informe
-En el marco de la investigación del SU, la DI procedió de la siguiente manera, es decir, utilizó, entre otros, los siguientes métodos y técnicas:
+El nivel de colaboración con los representantes de las entidades participantes en la MU fue estándar.
+### 2.7 Descripción de la investigación, los métodos y las técnicas utilizados para acreditar los hechos
+y los hallazgos consignados en el informe
+En el marco de la investigación de la MU, el DI procedió de la siguiente manera, es decir, utilizó, entre otros, los siguientes métodos y técnicas:
 •
-inspección del lugar del suceso ferroviario, incluidos los vehículos ferroviarios participantes, las instalaciones técnicas y la infraestructura ferroviaria, incluidas mediciones;
+inspección del lugar del suceso excepcional, incluidos los vehículos ferroviarios participantes, las instalaciones técnicas y la infraestructura ferroviaria, incluidas mediciones;
 •
-inspección de la oficina de tráfico, incluidos los elementos de mando e indicación de los aparatos de enclavamiento de estación y la documentación de referencia;
+inspección de la sala de mando, incluidos los elementos de mando e indicación de la instalación de enclavamiento de estación y la documentación de referencia;
 •
-declaraciones con los empleados participantes del explotador ferroviario y del transportista;
+declaraciones con los empleados participantes del gestor de la infraestructura ferroviaria y del operador ferroviario;
 •
-asistencia a la inspección comisionada de los vehículos ferroviarios descarrilados;
-
+participación en la inspección comisionada de los vehículos ferroviarios descarrilados;
 
 ## Página 11
+
 
 •
 asistencia a la inspección comisionada del tercer eje del bogie 13 del vehículo 13, en el que se produjo la rotura;
@@ -365,8 +368,8 @@ Coordenadas GPS:
 ### 3.1.3 Descripción del lugar del suceso
 La est. Úpořiny se sitúa en el pk 13,498 de la línea ferroviaria nacional Ústí nad Labem západ – Bílina, dicha línea es de doble vía en los tramos entre estaciones adyacentes. A su vez, la est. Úpořiny se sitúa en el pk 9,335 de la línea ferroviaria regional Řetenice – Lovosice, dicha línea es de vía única en los tramos entre estaciones adyacentes.
 
-
 ## Página 12
+
 
 La est. Úpořiny estaba dotada, en el momento de producirse el SU, de un SZZ de sistema de enclavamiento de relevos, que era operado desde la oficina de tráfico por el jefe de estación en servicio.
 Fig. 1: Esquema del lugar del SU
@@ -378,8 +381,8 @@ El tren Pn 69071 partió el 26. 9. 2020 como tren de origen desde la vía partic
 El tren tenía un total de 31 VF, una longitud de 418 m, 124 ejes, una masa de 2 421 t, un porcentaje de frenado necesario del 53, un porcentaje de frenado real del 55, estaba frenado por el método de frenado I en el modo de frenado P. La cabeza del tren, o la cabeza del HDV 91 54 7 130 047-4 (en adelante también 130 047-4), fue localizada en el pk 12,840.
 El tren estaba señalizado con las señales reglamentarias.
 
-
 ## Página 13
+
 
 ## HDV 130 047-4:
 Al inspeccionar la cabina de conducción, el controlador de mando estaba en la posición «0» (no se había demandado potencia), la palanca de dirección estaba en la posición «P» (sentido hacia delante), la palanca del freno DAKO BP de freno directo estaba en la posición «frenado», la palanca del freno DAKO-BS2 de freno continuo estaba en la posición «cierre». La presión en la tubería de alimentación era de 0 bar, la presión en la tubería principal de 0 bar, la presión en los cilindros de freno de 3,0 bar. El reloj del registrador de velocidad UniControls adelantaba 7 segundos respecto a la hora exacta (HRE). El piloto automático de tren estaba activado en la posición «Explotación». La estación de radio VS 67 (del fabricante T-CZ) estaba sintonizada para el tren Pn 69071 en el canal 65 de la red TRS. En la estación de radio se iluminaba la indicación «STOP», confirmando la recepción de la orden de Parada General.
@@ -393,6 +396,7 @@ En los VF volcados n.º 33 54 665 5 017-5 y 33 54 665 5 073-8 (es decir, el 13.�
 Durante la inspección de los VF descarrilados se realizó la documentación y el marcado de 7 ejes del 1.º y 2.º vehículo descarrilado, que se separaron de dichos vehículos (véase la Fig. n.º 14 del Anexo). Posteriormente se abrieron las cámaras de rodamiento de los ejes individuales, que fueron arrancadas durante el SU
 
 ## Página 14
+
 
 de los bogies, y los números de ejes encontrados se compararon con la documentación técnica presentada por el transportista, incluida su asignación a los DV concretos y su ubicación en los bogies afectados.
 ### 13. Vagón n.º CZ SDKD 33 54 6655 017-5 de la serie Fals-x:
@@ -418,8 +422,8 @@ En la hoja de vehículos figuraba en la línea n.º 2.
 Este DV se encontró descarrilado, volcado sobre el lado izquierdo en posición casi perpendicular a la vía, a través de las vías 1, 2 y 4 detrás de la señal de parada P2085. La carga se había derramado. El DV tenía 4 ejes, capacidad de carga 52,5 t, el peso de la carga era de 50,47 t, el peso total era de 77,80 t. La longitud del DV era de 13,50 m. La última revisión se realizó el 2. 12. 2016 en OOS, con ciclo de seis años, y estaba vigente. El propietario de este vagón era la empresa SD-KD. El vagón circulaba hacia delante con el bogie "a".
 El orden de los ejes arrancados, determinado a partir de las circunstancias observadas durante la inspección en el sentido de la marcha del tren (entre paréntesis se indica la identificación numérica del DI durante la inspección en el lugar del MU, véase la Fig. n.º 14 en el Anexo):
 
-
 ## Página 15
+
 
 1. eje
 2. eje
@@ -442,59 +446,61 @@ Este DV se encontró descarrilado a la derecha en el sentido de la marcha y no e
 ### Estado del dispositivo de señalización:
 La estación Úpořiny estaba equipada con un SZZ de tipo relé de ruta. Según TNŽ 34 2620 se trataba de un dispositivo de 3.ª categoría. En el Registro de averías del dispositivo de comunicaciones y señalización no figuraba, en el momento de producirse el MU, ninguna avería ni defecto no eliminado. El SZZ no estaba dotado de dispositivo de registro. Tras la inspección del SZZ y de la documentación de tráfico relacionada, se constató que la ruta de tren para el paso del tren Pn 69071 se había establecido con la operación normal del SZZ desde la 1.ª vía principal de la estación Ohníč, tras la 1.ª vía secundaria hacia la 1.ª vía principal hasta la estación Řehlovice.
 
-
 ## Página 16
 
-Del panel indicador del SZZ en la oficina de tráfico se constató:
+De la placa indicadora SZZ en la oficina de tráfico se constató:
 •
-los enclavamientos de seguridad en el alambre y en el cordón estaban colgados y completos;
+los cierres de seguridad en el alambre y en la cuerda estaban colgados y completos;
 •
-en el relieve de vías brillaban los testigos rojos de ocupación de vías y tramos de aguja en las cabezas de vía en dirección a la estación Řehlovice y la estación Řetenice, aparentemente en relación con el daño a la infraestructura (incluido el dispositivo de señalización) como consecuencia del MU;
+en el relieve de la vía brillaban los testigos rojos de ocupación de vías y de tramos de agujas en la cabecera hacia la est. Řehlovice y la est. Řetenice, aparentemente en relación con el daño a la infraestructura (incluido el dispositivo de señalización) como consecuencia de la MU;
 •
-brillaba el testigo verde "Recepción de autorización" para la circulación del tren en la 1.ª vía principal en dirección a la estación Řehlovice;
+brillaba el testigo verde "Recepción de consentimiento" para la circulación del tren en la 1. TK hacia la est. Řehlovice;
 •
-sobre los conmutadores de agujas n.º 1/3b, 2/6b, 5a/7b y 19a/21 brillaban los testigos rojos de pérdida de supervisión, los conmutadores estaban en posición de reposo;
+sobre los conmutadores de agujas n.º 1/3b, 2/6b, 5a/7b y 19a/21 brillaban los testigos rojos de pérdida de visualización, los conmutadores estaban en posición básica;
 •
-brillaban en rojo los testigos que indicaban la ocupación de la 1.ª y 7.ª vía secundaria;
+brillaban en rojo los testigos que indicaban la ocupación de la 1.ª y la 7.ª SK;
+brillaban en blanco los testigos entre las señales Se13 y Se15, que indicaban un cierre no cancelado
 •
-brillaban en blanco los testigos entre las señales Se13 y Se15, que indicaban un enclavamiento no cancelado en la parte recorrida de la ruta de tren para la entrada del tren Pn 69071 en la 1.ª vía secundaria, aparentemente en relación con el daño a la infraestructura como consecuencia del MU;
+en la parte trazada del itinerario de tren para la entrada del tren Pn 69071 en la 1.ª SK, aparentemente en relación con el daño a la infraestructura como consecuencia de la MU;
 •
-brillaba el testigo rojo "Concesión de autorización" para la circulación del tren Pn 69071 desde la 1.ª vía principal de la estación Ohníč;
+brillaba el testigo rojo "Concesión de consentimiento" para la circulación del tren Pn 69071 desde la 1.ª TK de la est. Ohníč;
 •
-brillaban en rojo los testigos entre las señales Se16 y 2S, que indicaban la ocupación de la cabecera de la estación Ohníč de la 2.ª vía principal por el tren Pn 69509 circulando en la 2.ª vía principal en dirección a la estación Ohníč y detenido mediante la función "Parada general" en la red TRS;
+brillaban en rojo los testigos entre las señales Se16 y 2S, que indicaban la ocupación de la cabecera de Ohníč de la 2.ª TK por el tren Pn 69509 circulando en la 2.ª TK hacia la est. Ohníč y detenido mediante la función "Parada general" en la red TRS;
 •
-el estado de los contadores coincidía con el estado indicado en la última "Entrega de servicio de tráfico" entre los jefes de estación, que tuvo lugar el 26. 9. 2020 a las 6:45 h.
-Tras la inspección se constató el daño de los siguientes elementos externos del SZZ:
+el estado de los contadores coincidía con el estado que figuraba en la última "Entrega de servicio de tráfico" entre los jefes de estación, que tuvo lugar el 26. 9. 2020 a las 6:45 h.
+
+Mediante inspección se constató el daño de los siguientes elementos externos del SZZ:
 •
-varilla de accionamiento, varillas de control y cubiertas en el accionador de la aguja n.º 19B1;
+la barra de accionamiento, las barras de control y las cubiertas en el accionador de la aguja n.º 19B1;
 •
-enclavamiento de mordaza, cerradura de cambio y cubierta de la cerradura en el accionador de la aguja n.º 19A1;
+el cierre de mandíbula, el cerrojo de recambio y la cubierta del cerrojo en el accionador de la aguja n.º 19A1;
 •
-cerradura de cambio, cubierta y cables de unión de corazón (2 uds.) del KO en el accionador de la aguja n.º 5A1;
+el cerrojo de recambio, la cubierta y los cables de unión de corazón (2 uds.) desde el KO en el accionador de la aguja n.º 5A1;
 •
-accionador, juego de fijación, varilla de accionamiento y varillas de control en la aguja n.º 2;
+el accionador, el juego de fijación, la barra de accionamiento y las barras de control en la aguja n.º 2;
 •
-arrancamiento y daño de las señales de clasificación Se2 y Se3;
+el vuelco y el daño de las señales de enclavamiento Se2 y Se3;
 •
 2 transformadores de contacto incluidos los cables de alimentación (KO L1K y L2K);
 •
 2 cajas TJA incluidas las alimentaciones y el equipamiento (KO V2/5 y P2K);
 •
-2 repartidores de cable aéreo R27 y R29;
+2 repartidores de cable aéreos R27 y R29;
 •
-varillas de control, enclavamiento de cable UKM en la aguja n.º V1.
+barras de control, cierre de cable UKM en la aguja n.º V1.
+
 ### Estado de la catenaria:
 •
-la catenaria en la estación Úpořiny era de tensión continua de 3 kV;
+la catenaria en la est. Úpořiny tenía una tensión continua de 3 kV;
 •
-en el km 13,180 se encontró un hilo de catenaria visiblemente colgado y arrancados 4 soportes;
+en el km 13,180 se encontró un hilo de catenaria visiblemente hundido y arrancados 4 soportes;
 •
-en el km 13,075 se encontró un mástil de catenaria n.º 7 deformado, sobre cuya parte inferior yacía el vagón n.º 13 volcado;
+en el km 13,075 se encontró el mástil de catenaria n.º 7 deformado, sobre cuya parte inferior yacía el vagón n.º 13 volcado;
 •
-la estructura de pórtico de la catenaria (sujetada a los mástiles n.º 7 – 8), que atraviesa toda la estación, estaba completamente retorcida e inclinada en el sentido de la marcha del tren;
-
+la estructura de la catenaria (fijada a los mástiles n.º 7 – 8), que discurría en diagonal a lo largo de toda la playa de vías, estaba completamente retorcida e inclinada en el sentido de circulación del tren;
 
 ## Página 17
+
 
 •
 el anclaje del sistema principal de la catenaria de la vía 1, situado en el mástil de catenaria n.º 7, estaba caído y el contrapeso estaba roto y cubierto de carbón. Además, estaba cortado el cable portante y el hilo de catenaria;
@@ -532,6 +538,7 @@ el corazón de la aguja de enlace n.º 19a estaba dañado por impacto y deformac
 los demás carriles de la aguja de enlace n.º 19a también estaban dañados superficialmente o retorcidos;
 
 ## Página 18
+
 
 •
 desde el cambio de enlace n.º 19a/b, la superestructura ferroviaria estaba dañada de forma continua;
@@ -573,63 +580,54 @@ El descarrilamiento del tren Pn 69071 se produjo durante el paso por la est. Úp
 
 ## Página 19
 
-Descarriló en primer lugar el tercer eje en el sentido de la marcha, es decir, el primer eje del bogie trasero, del vehículo ferroviario CZ SDKD 33 54 6655 017-5, que estaba colocado como el decimotercero tras la locomotora, cuando la rueda izquierda se salió hacia el interior de la vía. A continuación, chocó contra la primera barra de sujeción del cambio n.º 19a/b. A través de dicha barra de sujeción doblada descarriló a continuación la rueda izquierda del cuarto eje, es decir, el segundo eje del bogie trasero, a la derecha en el sentido de la marcha, y, como consecuencia, en el mismo punto trepó también la rueda derecha del mismo eje. Tras salir del cambio n.º 19a/b, el bogie circulaba cruzado de modo que la rueda izquierda del tercer eje y la rueda derecha del cuarto eje circulaban por el interior de la vía, y la rueda derecha del tercer eje y la rueda izquierda del cuarto eje circulaban por el exterior de la vía. Ambos ejes continuaron circulando posteriormente en estado descarrilado por la 1.ª vía de clasificación hasta el extremo de Řehlovice, lo cual acreditan, entre otros, los daños en los pasos de servicio. En el cambio n.º 5a/b del extremo de Řehlovice se trabó la rueda derecha del tercer eje y, con ello, se produjo la destrucción del bogie trasero del vehículo ferroviario CZ SDKD 33 54 6655 017-5. Sus piezas desprendidas, que se quedaron encastradas en la superestructura ferroviaria, provocaron a continuación la destrucción de los bogies de los 2 vehículos siguientes (14.º y 15.º tras la locomotora), incluidos su descarrilamiento y volcamiento.
-
+Primero descarriló el tercer eje en el sentido de la marcha, es decir, el primer eje del bogie trasero, del vehículo ferroviario CZ SDKD 33 54 6655 017-5, que estaba enganchado como decimotercero detrás de la HDV, cuando la rueda izquierda se salió hacia el interior de la vía. Posteriormente, impactó contra el primer raíl de la aguja n.º 19a/b. A través de este raíl doblado, a continuación, descarriló la rueda izquierda del cuarto eje, es decir, del segundo eje del bogie trasero, a la derecha en el sentido de la marcha y, como consecuencia de ello, en el mismo punto trepó también la rueda derecha de dicho eje. Tras salir de la aguja n.º 19a/b, el bogie circuló cruzado de modo que la rueda izquierda del tercer eje y la rueda derecha del cuarto eje circulaban por el interior de la vía, y la rueda derecha del tercer eje y la rueda izquierda del cuarto eje circulaban por el exterior de la vía. Ambos ejes continuaron circulando posteriormente en estado descarrilado por la 1. SK hasta la cabecera de Řehlovice, de lo que dan fe, por ejemplo, los daños en los pasos de servicio. En la aguja n.º 5a/b de la cabecera de Řehlovice, la rueda derecha del tercer eje se trabó, y con ello se produjo la destrucción del bogie trasero del vehículo ferroviario CZ SDKD 33 54 6655 017-5. Sus piezas desprendidas, que se enclavaron en la superestructura ferroviaria, provocaron a continuación la destrucción de los bogies de los 2 vagones siguientes (14.º y 15.º detrás de la HDV), incluido su descarrilamiento y vuelco.
 Condiciones meteorológicas:
 horario diurno, cielo cubierto con lluvia, temperatura exterior +7 °C, viento, la visibilidad no se vio reducida por influencias meteorológicas.
-
 Datos geográficos:
-lugar del suceso en la estación de ferrocarril. La 1.ª vía de clasificación discurría en dirección recta, la continuación de la 1.ª vía en ambos extremos discurría en una curva suave.
-
-En el lugar del suceso no se realizaron, inmediatamente antes de su producción, por parte del propietario, del gestor de la vía ni de otros sujetos, obras de reparación o de mantenimiento. La circulación en el lugar del suceso y sus alrededores se desarrollaba en régimen normal.
-
+lugar del MU en la estación ferroviaria. La 1. SK se encontraba trazada en dirección recta, la continuación de la vía 1 en ambas cabeceras se encontraba trazada en una curva suave.
+En el lugar del MU, inmediatamente antes de su producción, no se realizaron por parte del propietario, del gestor de la vía ni de otros sujetos ninguna reparación ni trabajo de mantenimiento. La circulación en el lugar del MU y sus alrededores se desarrollaba en régimen habitual.
 ### 3.1.4 Fallecimientos, lesiones y daños materiales
-En el suceso no se produjeron lesiones personales entre los empleados del gestor de la vía, del transportista, de personas en relación contractual, ni entre pasajeros y terceras personas.
-
-El gestor de la vía y el transportista valoraron los daños en:
+En el MU no se produjeron daños a la salud en los empleados del gestor de la vía, del transportista, de personas en relación contractual, ni tampoco en los pasajeros ni en terceras personas.
+El daño cuantificado por el gestor de la vía y el transportista ascendió a:
 •
-vehículos del tren Pn 69071
+vagones del tren Pn 69071
 5 000 000,00 CZK;
 •
-instalaciones de la vía (eliminación de consecuencias, trabajos de restablecimiento tras el suceso y puesta en servicio de la vía de circulación, incluida la HZS SŽ)
+instalaciones
+de la
+vía
+(eliminación de consecuencias, 
 37 327 032,60 CZK;
+trabajos de restablecimiento tras el MU y puesta en servicio de la vía de circulación de la vía, incluida la HZS SŽ)
 •
 medio ambiente
 0,00 CZK.
-
-En el suceso, los daños causados en los vehículos ferroviarios y en componentes de la vía se valoraron en un total de
+En el MU, el daño producido en los vehículos ferroviarios y en los componentes de la vía fue cuantificado en un total de
 ### 42 327 033 CZK.
 
 ## Página 20
 
-### 3.1.5 Descripción de otras consecuencias, incluido el impacto del suceso en las actividades regulares de los sujetos implicados
-Como consecuencia de la producción del suceso, a partir de las 8:36 h del 26. 9. 2020 se detuvo la circulación. A partir de las 14:20 h del 26. 9. 2020 se autorizó la circulación desde la est. Chotiměř (est. Lovosice) en la 5.ª vía de clasificación. A partir de las 11:30 h del 27. 9. 2020 se autorizó la circulación desde la 2.ª vía principal desde la est. Ohníč en la 2.ª vía de clasificación. El 28. 9. 2020 a las 19:34 h se concedió el permiso para la circulación de vehículos de tracción independiente a través de los cambios n.º 24, 25, 26 y 27 sin restricciones; a través del cambio n.º 21 se autorizó la circulación únicamente en dirección recta (posible circulación desde/hacia la 2.ª vía principal desde/hacia la est. Ohníč hacia/desde la 3.ª y 5.ª vía de clasificación). El 28. 9. 2020 a las 21:30 h se autorizó la circulación de tracción independiente a través del cambio n.º 17b (posible circulación desde/hacia la 2.ª vía principal desde/hacia la est. Ohníč hacia/desde la 4.ª vía de clasificación). El 30. 9. a las 10:00 h se autorizó la circulación a través de los cambios en la 2.ª vía en el extremo de Řehlovice, lo que permitió la circulación de vehículos de tracción independiente entre la est. Řehlovice y Úpořiny por la 2.ª vía principal. El 1. 10. 2020 a las 19:00 h se restableció la circulación entre la est. Úpořiny y la est. Řetenice sin restricciones. El 21. 10. 2020 a las 17:20 h se restableció la circulabilidad de la 1.ª vía de clasificación. Los cambios n.º 2, 5a/b y 19a/b fueron sustituidos por tramos de vía. Con ello se permitió la circulación de vehículos de tracción independiente entre la est. Řehlovice y Úpořiny por la 1.ª vía principal. El 19. 11. 2020 se reparó definitivamente la línea de contacto en la est. Úpořiny y se permitió la circulación de vehículos de tracción dependiente. En el tramo se estableció una circulación lenta de 40 km·h-1. La última interrupción de servicio relacionada con la restitución de la infraestructura a su estado original finalizó el 12. 7. 2021 a las 16:50 h.
-
-### 3.1.6 Identificación de las personas, sus funciones y de los sujetos implicados
-Personas implicadas:
-
-Por parte del gestor de la vía (SŽ):
+### 3.1.5 Descripción de otras consecuencias, incluido el impacto del suceso en las actividades regulares de los sujetos participantes
+Como consecuencia de la aparición del MU, se detuvo la circulación a partir de las 8:36 h del 26. 9. 2020. A partir de las 14:20 h del 26. 9. 2020 se autorizó la circulación desde la est. Chotiměř (est. Lovosice) en la 5. SK. A partir de las 11:30 h del 27. 9. 2020 se autorizó la circulación desde la 2. TK desde la est. Ohníč en la 2. SK. El 28. 9. 2020 a las 19:34 h se dio el consentimiento para la circulación de vehículos de tracción independiente por los desvíos n.º 24, 25, 26 y 27 sin restricción, por el desvío n.º 21 la circulación se autorizó únicamente en dirección directa (circulación posible desde/hacia la 2. TK desde/hacia la est. Ohníč hacia/desde la 3.ª y 5.ª SK). El 28. 9. 2020 a las 21:30 h se autorizó la circulación de tracción independiente por el desvío n.º 17b (circulación posible desde/hacia la 2. TK desde/hacia la est. Ohníč hacia/desde la 4.ª SK). El 30. 9. a las 10:00 h se autorizó la circulación por los desvíos en la vía 2 en la cabecera de Řehlovice, lo que permitió la circulación de vehículos de tracción independiente entre la est. Řehlovice y Úpořiny por la 2. TK. El 1. 10. 2020 a las 19:00 h se restableció la circulación entre la est. Úpořiny y la est. Řetenice sin restricciones. El 21. 10. 2020 a las 17:20 h se restableció la transitableidad de la 1. SK. Los desvíos n.º 2, 5a/b, 19a/b fueron sustituidos por tramos de vía. Esto permitió la circulación de vehículos de tracción independiente entre la est. Řehlovice y Úpořiny por la 1. TK. El 19. 11. 2020 se reparó definitivamente la línea de contacto en la est. Úpořiny y se permitió la circulación de vehículos de tracción dependiente. En el tramo se estableció una circulación lenta de 40 km·h-1. La última interrupción de servicio relacionada con la restitución de la infraestructura a su estado original finalizó el 12. 7. 2021 a las 16:50 h.
+### 3.1.6 Identificación de las personas, sus funciones y los sujetos participantes
+Personas participantes:
+Operador de la vía (SŽ):
 •
-jefe de estación de la est. Úpořiny, empleado de SŽ.
-
-Por parte del transportista (SD-KD):
+Jefe de estación de la est. Úpořiny, empleado de SŽ.
+Transportista (SD-KD):
 •
-maquinista del tren Pn 69071, empleado de SD-KD.
-
+Maquinista del tren Pn 69071, empleado de SD-KD.
 Otras personas, testigos:
 •
-jefe de estación de la est. Ohníč, empleado de SŽ.
-
-Sujetos implicados:
-El propietario de la vía ferroviaria, categoría nacional, Ústí nad Labem západ – Bílina, era la República Checa. El derecho de administrar el patrimonio del Estado lo ejercía SŽ, con domicilio en Dlážděná 1003/7, Praha 1, PSČ 110 00.
-
-El gestor de la vía ferroviaria, categoría nacional, Ústí nad Labem západ – Bílina, era SŽ.
-
+Jefe de estación de la est. Ohníč, empleado de SŽ.
+Sujetos participantes:
+El propietario de la vía ferroviaria, categoría nacional, Ústí nad Labem západ – Bílina, era la República Checa. El derecho de administrar los bienes del Estado lo ejercía SŽ, con domicilio en Dlážděná 1003/7, Praha 1, PSČ 110 00.
+El operador de la vía ferroviaria, categoría nacional, Ústí nad Labem západ – Bílina, era SŽ.
 El transportista del tren Pn 69071 era SD-KD, con domicilio en Tušimice 7, Kadaň, PSČ 432 01.
-
-El transporte ferroviario se prestaba en virtud de un contrato celebrado entre el gestor de la vía SŽ y el transportista SD-KD el 16. 5. 2019, con efectos desde el 21. 5. 2019.
+El transporte ferroviario se prestaba en virtud de un contrato celebrado entre el operador de la vía SŽ y el transportista SD-KD el 16. 5. 2019, con efectos a partir del 21. 5. 2019.
 
 ## Página 21
+
 
 ### 3.1.7 Descripción de los vehículos ferroviarios y sus composiciones, incluidos los números de registro
 Tren:
@@ -752,6 +750,7 @@ El estado real del tren constatado en el lugar del suceso correspondía a la doc
 
 ## Página 22
 
+
 orden de los vehículos tras la locomotora
 número de vehículo
 nota
@@ -860,6 +859,7 @@ La locomotora 130 047-4 estaba, en el momento de la producción del suceso, equi
 
 ## Página 23
 
+
 De los datos registrados, entre otros, se desprende:
 Posición
 Posición del morro
@@ -958,8 +958,8 @@ los miembros de la comisión llegaron a la conclusión unánime de que se produc
 en aproximadamente el 60 % de la sección y justo antes de la aparición de la MU se produjo la «fractura final»
 del restante aproximadamente 40 % de la sección portante. Esta superficie de fractura tiene carácter de fractura por cleavage
 
-
 ## Página 24
+
 
 No era posible detectar dicha avería mediante la inspección técnica ordinaria realizada por el jefe de material.
 Fig. n.º 3: Superficie de fractura con fractura antigua y reciente
@@ -979,8 +979,8 @@ en las placas indicadoras. El SZZ no disponía de registro automático de datos 
 De los resultados del examen del lugar de la MU se desprende que ni el estado del SZZ de la est. Úpořiny ni el estado del
 balasto ferroviario guardaban relación causal con la aparición de la MU.
 
-
 ## Página 25
+
 
 ### 3.1.9 Cualquier otra información relevante a efectos de la descripción del suceso y de la información básica
 Resumen de las explicaciones facilitadas por los empleados del gestor de la infraestructura y del transportista, incluidas las personas
@@ -1032,8 +1032,8 @@ instruirlo con una orden en la est. Ohníč;
 ◦a continuación, a las 8:15 h, recibió mediante la aplicación operativa EDD la salida prevista del tren
 Pn 69071 con el paso previsto por la est. Světec a las 8:18 h;
 
-
 ## Página 26
+
 
 ◦estableció la vía de entrada de tren para este tren en la 1.ª SK;
 ◦en la aplicación operativa EDD indicó la salida prevista de este tren hacia la est. Úpořiny
@@ -1085,8 +1085,8 @@ Maquinista 69510 (8:37:53 h)
 Tren 69510.
 Tab. n.º 2: Transcripción de la conversación por radio en la red TRS en la est. Úpořiny
 
-
 ## Página 27
+
 
 Inicio de la llamada: 26 de septiembre de 2020, 8:36:34 h
  Duración de la grabación: 59 s
@@ -1151,30 +1151,30 @@ Tab. n.º 4: Transcripción de la conversación por radio en la red TRS entre el
 
 ## Página 28
 
-### 3.2 Descripción fáctica del suceso
-### 3.2.1 Secuencia de hechos que condujeron al suceso extraordinario
-V   8:25
-   h   el tren Pn 69071 partió de la est. Ohníč y continuó su marcha en dirección a la est. Úpořiny. El jefe de estación de Úpořiny estableció la vía de tren para el paso por la 1. SK y vigiló su marcha desde el lugar designado.
-V 8:34 h el tren Pn 69071 pasó con su cabecera la señal de entrada 1S de la est. Úpořiny.
-V   8:35
-   h   durante el paso del tren Pn 69071 por la est. Úpořiny se produjo el descarrilamiento del 13. DV – creación del SE. La descripción detallada de la ulterior evolución del SE se indica en el punto 3.1.3 de esta II en la sección «Conclusiones del examen».
-### 3.2.2 Secuencia de hechos desde la creación del suceso extraordinario hasta la finalización de las acciones de los servicios de rescate
-8:35 h el bogie trasero del 13. coche descarriló como consecuencia de la rotura del 3. eje – creación del SE;
-8:35 h el 13. coche descarrilado del tren Pn 69071 pasó junto al DK de la est. Úpořiny;
-8:36 h el jefe de estación de Úpořiny envió en la red TRS la orden «Parada general» – para detener la circulación;
-8:36 h el HDV recibió la orden «Parada general» – para detener la circulación;
-8:43 h el jefe de estación de Úpořiny comunicó la creación del SE al IZS;
-8:45 h el jefe de estación de Úpořiny comunicó la creación del SE al CDP Praha;
-8:46 h el jefe de despachador del CDP Praha comunicó la creación del SE al O18 SŽ;
-8:51 h la persona autorizada del operador de la vía y del transportista (O18 SŽ) notificó la creación del SE al COP DI;
-9:50 h la persona autorizada del operador de la vía y del transportista (O18 SŽ) inició el examen del lugar del SE;
-11:05 h la DI inició el examen del lugar del SE;
-16:50 h la DI emitió el consentimiento para la liberación de la vía y la orden de asegurar el juego de ruedas;
-18:15 h la DI finalizó el examen del lugar del SE; 
-El Plan IZS fue activado en función de la naturaleza del SE. El Plan IZS fue activado a las 8:43 h, es decir, 8 minutos después de la creación del SE, por el jefe de estación de Úpořiny.
-En el lugar del SE intervinieron los siguientes componentes del IZS:
+### 3.2 Descripción factual del suceso
+### 3.2.1 Secuencia de hechos que condujeron al suceso excepcional
+V    8:25
+   h   el tren Pn 69071 partió de la est. Ohníč y continuó su marcha hacia la est. Úpořiny. El jefe de estación de Úpořiny estableció la vía de tren para el paso por la 1. SK y observó su marcha desde el lugar designado.
+V 8:34 h el tren Pn 69071 pasó con su frente la señal de entrada 1S de la est. Úpořiny.
+V    8:35
+   h   durante el paso del tren Pn 69071 por la est. Úpořiny se produjo el descarrilamiento de la 13. DV – creación de la MU. La descripción detallada de la ulterior evolución de la MU se indica en el punto 3.1.3 de esta ZZ en la parte «Conclusión del examen».
+### 3.2.2 Secuencia de hechos desde la creación de la MU hasta la finalización de las acciones de los servicios de rescate
+8:35 h el bogie trasero del coche 13 descarriló como consecuencia de la rotura del eje 3 – creación de la MU;
+8:35 h el coche 13 descarrilado del tren Pn 69071 pasó junto al DK de la est. Úpořiny;
+8:36 h el jefe de estación de Úpořiny envió en la red TRS la orden General stop – para detener la circulación;
+8:36 h el HDV recibió la orden General stop – para detener la circulación;
+8:43 h el jefe de estación de Úpořiny comunicó la creación de la MU a la IZS;
+8:45 h el jefe de estación de Úpořiny comunicó la creación de la MU al CDP Praha;
+8:46 h el jefe de despacho del CDP Praha comunicó la creación de la MU al O18 SŽ;
+8:51 h la persona autorizada del gestor de la vía y del transportista (O18 SŽ) notificó la creación de la MU al COP DI;
+9:50 h la persona autorizada del gestor de la vía y del transportista (O18 SŽ) inició el examen del lugar de la MU;
+11:05 h la DI inició el examen del lugar de la MU;
+16:50 h la DI emitió la conformidad para la liberación de la vía y la orden de asegurar el juego de ruedas;
+18:15 h la DI finalizó el examen del lugar de la MU; 
+El plan IZS fue activado en función del carácter de la MU. El plan IZS fue activado a las 8:43 h, es decir, 8 minutos después de la creación de la MU, por el jefe de estación de Úpořiny.
+En el lugar de la MU intervinieron los siguientes componentes de la IZS:
 •
-Policía de la República Checa, Servicio de Policía Criminal e Investigación de Teplice;
+Policía ČR, Servicio de policía criminal e investigación de Teplice;
 •
 HZS SŽ;
 •
@@ -1182,8 +1182,8 @@ HZS del Ústecký kraj;
 •
 unidades del cuerpo de bomberos voluntarios de los municipios circundantes.
 
-
 ## Página 29
+
 
 ## 4 ANÁLISIS DEL SUCESO
 ### 4.1 Funciones y obligaciones
@@ -1200,8 +1200,8 @@ El transportista está, entre otras obligaciones, obligado a explotar el transpo
 Para la conducción de un vehículo ferroviario debe garantizarse que la persona que conduce el vehículo ferroviario evalúe las averías técnicas evidentes producidas en los vehículos ferroviarios del tren y decida sobre la aptitud del vehículo ferroviario para continuar la marcha, si no está designada para ello otra persona profesionalmente apta, conduzca el vehículo ferroviario de tracción solo desde la posición desde la que existe la mejor visibilidad, por regla general desde la cabina frontal en el sentido de la marcha, observe desde el vehículo ferroviario principal la vía y las señales y actúe según los hechos constatados, no supere durante la marcha la velocidad máxima permitida establecida en el horario de circulación o la velocidad limitada ordenada, y responda de forma adecuada a las informaciones o órdenes de voz o de datos transmitidas por el dispositivo de radio.
 El maquinista del tren Pn 69071 condujo el HDV desde la 1.ª posición, desde la que existía la mejor visibilidad, durante la marcha hacia la est. Úpořiny y durante el paso por la 1. SK no superó la velocidad máxima permitida de
 
-
 ## Página 30
+
 
 60 km·h-1. Según su declaración, la marcha transcurrió sin problemas. Durante el paso por la est. Úpořiny registró el ondulamiento del hilo de contacto y, a continuación, se produjo la detención del tren por la orden «Parada general». En la actividad del maquinista no se detectaron deficiencias.
 El transportista SD-KD estableció en su directriz SD-KD 68 (sobre la explotación de vehículos ferroviarios) las llamadas funciones de ejecución del mantenimiento, siendo que el primer nivel incluye, además de la actividad de control (incluidas las inspecciones técnicas), también la obligación de vigilancia (nota DI: inspección ordinaria) realizada normalmente por el jefe de material antes de la salida o durante la marcha de los vagones ferroviarios. Este nivel no es una reparación clásica, sino una comprobación preventiva realizada en servicio, por regla general fuera del recinto de la instalación de reparación.
@@ -1228,29 +1228,29 @@ CAPÍTULO II art. 7, apartado 7.1 del contrato VSP:
 «El titular del vagón debe cuidar de que sus vagones sean técnicamente aptos de acuerdo con las leyes y decretos nacionales e internacionales vigentes en la fecha de aprobación del vagón y de que permanezcan técnicamente aptos durante el tiempo de su uso..».
 El transportista está obligado, antes de la marcha de cada tren, de acuerdo con los arts. 18.1 y 19.1 de la norma SŽDC Is10, a comunicar al operador de la vía SŽ información sobre la Composición del tren, incluidos los datos detallados
 
-
 ## Página 31
 
-de los vehículos de tracción individuales situados en el tren. El envío de información, por la naturaleza de la cosa, significa el envío de información correcta. De acuerdo con el art. 26.3 de la norma SŽDC Is10, los Elementos enviados en el mensaje Composición del tren se publican en el documento «Interfaz de datos COMPOST». Con ello se alude aparentemente al documento Interfaz de datos IS COMPOST, que, entre otros, establece que uno de los elementos obligatorios del mensaje Composición del tren (el llamado TrainCompositionMessage) es el elemento (componente) WagonTrainPosition, que es «El orden del vagón en el tren. La numeración comienza por el primer vagón desde la cabecera del tren, que tiene el número 1.».
-El orden real de los vagones incluidos en el tren Pn 69071 no correspondía al orden de los vagones en la documentación del tren (Hoja de vehículos), véase el punto 3.1.7 de esta II.
+o de los vehículos de tracción individual situados en el tren. El envío de información, por la naturaleza de la cosa, significa el envío de información correcta. Según el art. 26.3 de la norma SŽDC Is10, los Campos enviados en el mensaje Composición del tren se publican en el documento «Interfaz de datos COMPOST». Con ello se refiere claramente al documento Interfaz de datos IS COMPOST, que, entre otros, establece que uno de los campos obligatorios del mensaje Composición del tren (denominado TrainCompositionMessage) es el elemento (campo) WagonTrainPosition, que es «Orden del vagón en el tren. La numeración comienza por el primer vagón desde la cabeza del tren, que tiene el número 1.».
+El orden real de los vagones incluidos en el tren Pn 69071 no correspondía al orden de los vagones en la documentación del tren (Hoja de vehículos), véase el punto 3.1.7 de la presente ZZ.
 ### Hallazgos:
-En la investigación se detectó el incumplimiento de la normativa legal y de las normas internas relativas a las funciones
-### y obligaciones del transportista SD-KD, fuera de relación causal con la creación del SE
-: 
+En la investigación se constató la infracción de normas legales y normas internas relativas a las funciones
+### y obligaciones del transportista SD-KD, al margen de la relación causal con la aparición de la MU
+ :
 •
-art. 18.1 de la norma SŽDC Is10: 
-«El transportista está obligado, antes de la marcha de cada tren, a transmitir al IM (nota DI: operador de la vía) la información sobre la composición del tren y la hora en que está preparado para la salida.»;
+art. 18.1 de la norma SŽDC Is10:
+«El transportista está obligado, antes de la circulación de cada tren, a transmitir al IM (nota DI: explotador de la vía) la información sobre la composición del tren y la hora en que está listo para la salida.»;
 •
 art. 19.1 de la norma SŽDC IS10:
-«El mensaje Composición del tren contiene los datos detallados de los vehículos de tracción individuales situados en el tren, incluida la indicación de envíos extraordinarios y la indicación de códigos de mercancías peligrosas de acuerdo con el RID.».
+«El mensaje Composición del tren contiene datos detallados sobre los vehículos de tracción individual situados en el tren, incluida la indicación de envíos excepcionales y la indicación de códigos de mercancías peligrosas según RID.».
 ### 4.1.2 Entidades responsables del mantenimiento de los vehículos ferroviarios
-### Contrato de compraventa de vagones:
-La sociedad SD-KD (Compradora), con base en el Contrato de compraventa celebrado el 30. 5. 2016 (en adelante Contrato), acordó con la sociedad TSS Cargo (Vendedora) la compra de mercancías. El objeto de la mercancía eran vagones de la serie FALS-x tipo 164 (incluido el afectado 13.º coche n.º 33 54 6655 017-5). De acuerdo con el Contrato, se trataba de vagones tras una reparación de revisión que debía realizarse de acuerdo con la norma KVs5-B-2010, de acuerdo con la Especificación técnica del vagón adjunta y de acuerdo con el plano adjunto. La Vendedora se comprometió a entregar la mercancía en el plazo del 1. 12. 2016 al 31. 12. 2016.
-En la fecha de venta y recepción de estos vagones estaba vigente la directriz KVs5-B-2010 (modificación 1) con efectos desde el 1. 1. 2014 hasta el 30. 6. 2017 (en adelante directriz KVs5-B-2010 (ÚZ MU)).
-La Vendedora se comprometió también en el Contrato a entregar junto con la mercancía (vagones) todos los certificados, documentos y papeles necesarios para la manipulación de la mercancía y para su uso correcto, es decir, en particular: hojas de acompañamiento para las piezas registradas, cuando se requiera (juegos de ruedas, bogies, ballestas, repartidor, válvula, stopex, topes, etc.), acta de conformidad con el tipo aprobado, acta de la inspección técnica realizada, plano de tipo, cálculo de freno, esquema neumático, documentación de planos.
-La DI solicitó, en el marco de la investigación del SE en cuestión, para el 13.º coche, entre otros, la «documentación del DV 33 54 6655 017-5 (mantenimiento, reparaciones, revisiones, inspecciones, controles, registros de la inspección por corrientes de Foucault de los ejes, etc.) desde un año antes de la última revisión».
+### Contrato de compraventa de los vagones:
+La sociedad SD-KD (Compradora) acordó, con base en el Contrato de compraventa celebrado el 30. 5. 2016 (en adelante, el Contrato), con la sociedad TSS Cargo (Vendedora) la compra de mercancías. El objeto de la mercancía eran vagones de la serie FALS-x tipo 164 (incluido el afectado 13.º vagón n.º 33 54 6655 017-5). Según el Contrato, se trataba de vagones tras una reparación de revisión, que debía realizarse según la norma KVs5-B-2010, según la Especificación técnica del vagón adjunta y según el plano adjunto. La Vendedora se comprometió a entregar la mercancía en el plazo del 1. 12. 2016 al 31. 12. 2016.
+En el momento de la venta y de la recepción de estos vagones estaba vigente la directriz KVs5-B-2010 (modificación 1) con efectos desde el 1. 1. 2014 hasta el 30. 6. 2017 (en adelante, la directriz KVs5-B-2010 (ÚZ MU)).
+La Vendedora se comprometió también en el Contrato a entregar junto con la mercancía (vagones) todos los documentos, escritos y documentación necesarios para la manipulación de la mercancía y para su uso adecuado, es decir, en particular: hojas de acompañamiento de las piezas registradas para las que se exige (juegos de ruedas, bogies, ballestas, distribuidor, válvula, stopex, topes, etc.), acta de conformidad con el tipo aprobado, acta de la inspección técnica realizada, plano de tipo, cálculo del freno, esquema neumático, documentación gráfica.
+La DI solicitó, en el marco de la investigación de la MU en cuestión, para el 13.º vagón, entre otros, la «documentación del DV 33 54 6655 017-5 (mantenimiento, reparaciones, revisiones, inspecciones, controles, registros de la inspección por corrientes de Foucault de los ejes, etc.) desde un año antes de la última revisión».
 
 ## Página 32
+
 
 En cumplimiento de este requisito, la DI recibió:
 • 2x Hoja de medición del bogie, tipo Y25 (realizado por OOS) de fecha 22. 7. 2016;
@@ -1269,8 +1269,8 @@ Aquí es necesario destacar que ni siquiera la documentación «Hoja de medida y
 De lo anterior se deduce que, aunque en el Contrato se establecía la obligación de «entregar junto con la Mercancía (nota de la DI: vagones) todos los documentos, escritos y documentación necesarios para la manipulación de la Mercancía y para su uso adecuado», en realidad SD-KD solo recibió algunos documentos, no todos los documentos necesarios. En relación con este SU (SU: suceso), es fundamental sobre todo la no recepción de los documentos del ensayo no destructivo de los ejes realizado, ya que el desconocimiento de la fecha de realización de la última inspección de ensayo no destructivo podría haber provocado que el nuevo (receptor) ECM (SD-KD) no estableciera el plazo límite correspondiente para la realización de la siguiente inspección de ensayo no destructivo y no la realizara (véase el punto 4.2.5 de esta ZZ).
 El texto del Contrato en este caso no era concreto, es decir, no establecía explícitamente un listado de los documentos que debían ser entregados; sin embargo, no puede afirmarse que la obligación de entrega de los registros de ensayo no destructivo no los incluyera, ya que estos registros ciertamente se incluyen entre «todos los documentos, escritos y documentación necesarios para la manipulación de la Mercancía y para su
 
-
 ## Página 33
+
 
 uso adecuado». Por tanto, es una deficiencia de ambas partes contractuales que estos documentos no fueran entregados por el Vendedor ni exigidos por el Comprador hasta la fecha de ocurrencia del SU. El Vendedor incumplió así lo dispuesto en el Contrato, y el Comprador, como consecuencia de ello, se expuso al riesgo de incumplir su obligación en cuanto al plazo de realización de la siguiente inspección de ensayo no destructivo (véase el punto 4.2.5 de esta ZZ).
 ### Inscripción en el Registro de la Autoridad Ferroviaria:
@@ -1284,8 +1284,8 @@ En la investigación no se detectó el incumplimiento de las funciones y obligac
 ### 4.1.4 Autoridades nacionales de seguridad y Agencia Ferroviaria de la Unión Europea
 La autoridad nacional de seguridad es la Autoridad Ferroviaria, que de acuerdo con la ley n.º 266/1994 Sb. es la autoridad administrativa dependiente del Ministerio de Transportes. Su función es, entre otras, el ejercicio de la supervisión estatal en materia de ferrocarriles y en materia de la autoridad de construcción, el ejercicio de la autoridad de construcción especial para obras ferroviarias y obras en el ferrocarril, la aprobación de vehículos ferroviarios nuevos y modernizados y de instalaciones técnicas designadas, y la tramitación de infracciones. La obligación de la Autoridad Ferroviaria es comunicar a la Inspección Ferroviaria, en el plazo de 12 meses desde la fecha de publicación del informe final que contenga las recomendaciones de seguridad dirigidas a ella, qué medida ha adoptado en relación con esta recomendación de seguridad; esta comunicación se realiza de forma regular, al menos una vez al año, hasta la adopción de las medidas correspondientes.
 
-
 ## Página 34
+
 
 La función de la Agencia Ferroviaria de la Unión Europea es, además de garantizar, en el marco de sus competencias, que se mantenga y, en la medida de lo posible, se aumente de forma sistemática la seguridad de los ferrocarriles, entre otras, la emisión, renovación, suspensión y modificación de certificados de seguridad uniformes, la limitación de su vigencia o su cancelación, en cuestión en la que coopera con las autoridades nacionales de seguridad; además, emite autorizaciones para la comercialización de vehículos ferroviarios y de tipos de vehículos, y está facultada para renovar, modificar, suspender o cancelar las autorizaciones que haya emitido. La Agencia evalúa asimismo los proyectos de normativa nacional, etc.
 En la investigación no se detectó el incumplimiento de las funciones y obligaciones de la autoridad nacional de seguridad ni de la Agencia Ferroviaria de la Unión Europea.
@@ -1305,8 +1305,8 @@ En la investigación no se detectaron factores relacionados con los fabricantes 
 ### 4.2.4 Factores o consecuencias derivados del mantenimiento y la modificación de vehículos ferroviarios o de instalaciones técnicas
 En la investigación no se detectaron factores derivados de la modificación de vehículos ferroviarios o de instalaciones técnicas. Los factores relacionados con el mantenimiento de vehículos ferroviarios se describen en el punto 4.2.5 de la ZZ.
 
-
 ## Página 35
+
 
 ### 4.2.5 Factores o consecuencias relacionados con el organismo responsable del mantenimiento de vehículos ferroviarios, los talleres de mantenimiento y otros proveedores de servicios de mantenimiento
 En la investigación se detectaron factores relacionados con el organismo responsable del mantenimiento de vehículos ferroviarios, los talleres de mantenimiento y otros proveedores de servicios de mantenimiento, además de la relación causal con la ocurrencia del SU.
@@ -1318,8 +1318,8 @@ La empresa SD-KD se comprometió en su norma SDKD 62 a proceder, en el mantenimi
 En el momento de la ocurrencia del SU y antes de la ocurrencia del SU, durante la mayor parte del tiempo de explotación de estos vagones por la empresa SD-KD (como propietaria, titular y ECM), estuvo vigente la 2.ª modificación de la norma KVs5-B-2010 desde el 1. 7. 2017 hasta el 31. 12. 2020 (en adelante, norma KVs5-B-2010 (VZ SU)). En la norma se abordan, entre otros, los intervalos de ensayo no destructivo de los juegos de ruedas (DEU – en estado desmontado y DZD – en estado montado), que se evalúan durante la inspección del juego de ruedas (grado de mantenimiento D0).
 Para todos los vagones ferroviarios se establecen los procedimientos tecnológicos de ensayo no destructivo de los ejes, a saber, la prueba con ensayo no destructivo por ultrasonidos y el método de polvo magnético. La prueba por ultrasonidos funciona según el principio del radar y es capaz de detectar también defectos internos. El método de polvo magnético es más adecuado para detectar defectos en la superficie o justo debajo de la superficie del objeto ensayado (lo cual es fundamental en el caso de los ejes de los vagones ferroviarios), pero no puede detectar defectos internos.
 
-
 ## Página 36
+
 
 Fig. n.º 4: Prueba con ensayo no destructivo por ultrasonidos      Fuente: www.weldinspect.cz y slideplayer.cz
 1. Distribución de las líneas de fuerza de la intensidad del campo magnético en el material ferromagnético en las proximidades del defecto
@@ -1333,6 +1333,7 @@ Fig. n.º 5: Ensayo no destructivo mediante el método de polvo magnético
    Fuente: wikipedia.org
 
 ## Página 37
+
 
 Definiciones utilizadas para los artículos 2.2.1 y 2.2.3 de la directiva ČDC KVs5-B-2010 
  (ÚZ MU):
@@ -1384,8 +1385,8 @@ si desde la última DEU han transcurrido más de 63 meses (nota DI: 5,25 años)
 y en el periodo posterior a 63 meses (nota DI: 5,25 años) desde la DEU no se ha realizado la DZD, 
 entonces se realizará el nivel de mantenimiento D3;
 
-
 ## Página 38
+
 
 •
 si el juego de ruedas ha recorrido desde la última DEU más de 50 000 km y han transcurrido desde la DEU más 
@@ -1493,10 +1494,10 @@ no
 números 
 magnético
 diferentes
-De lo anterior se desprende que, aunque desde la última inspección no destructiva registrada de los primeros 3 ejes del vehículo 13 en el año 2013 hubiera transcurrido un intervalo de 63 meses (5,25 años), 
-
+De lo anterior se desprende que, aunque desde la última inspección no destructiva registrada de los primeros 3 ejes del vehículo 13 en el año 2013 hubiera transcurrido un intervalo de 63 meses (5,25 años),
 
 ## Página 39
+
 
 según la documentación presentada no se había producido antes de la ocurrencia de la MU ningún suceso que requiriera la realización del nivel de mantenimiento D0, y por tanto al ECM SD-KD no le surgió la obligación de realizar la DZD ni la DEU. 
 La empresa SD-KD, según su declaración, recibió los documentos de la realización de la inspección no destructiva a petición únicamente el 6. 10. 2020 (es decir, después de la ocurrencia de la MU). Por tanto, es cuestión de saber si 
@@ -1524,8 +1525,8 @@ del ensayo no destructivo realizado de las piezas del juego de ruedas. El ECM TS
 el responsable sistemático del mantenimiento y del cumplimiento de los procedimientos prescritos, no subsanó 
 esta deficiencia.
 
-
 ## Página 40
+
 
 En el artículo 47 de la norma ČD V26 (ÚZ venta) se indica, entre otros, que si el centro de ensayos no destructivos 
 realiza ensayos no destructivos como fabricante, emite siempre para el cliente el «Acta de realización del ensayo». 
@@ -1567,6 +1568,7 @@ prescrita por los PT o las PM. Para las piezas donde no hay acta prescrita en lo
 
 ## Página 41
 
+
 4.2.6 Otros factores o consecuencias que se consideran relevantes a efectos de la investigación
 En la investigación no se detectaron otros factores relacionados con el material rodante, la infraestructura ferroviaria o las instalaciones técnicas.
 ### 4.3 Factores humanos
@@ -1588,28 +1590,27 @@ En los procedimientos, métodos, contenido y resultados de las actividades de ev
 ### 4.4.3 Sistema de garantía de la seguridad de las empresas de transporte y gestores de infraestructura implicados
 En el sistema de garantía de la seguridad adoptado por el gestor de infraestructura y la empresa de transporte, relacionado con las circunstancias del origen de la MIE en cuestión, no se detectaron deficiencias.
 
-
 ## Página 42
 
-### 4.4.4 Sistema de gestión de los sujetos responsables del mantenimiento del material rodante y de los talleres de mantenimiento
-El sistema de gestión de los sujetos responsables del mantenimiento del material rodante y de los talleres de mantenimiento no guardaba relación con el origen de la MIE.
+### 4.4.4 Sistema de gestión de los sujetos responsables del mantenimiento de los vehículos ferroviarios y de los talleres de mantenimiento
+El sistema de gestión de los sujetos responsables del mantenimiento de los vehículos ferroviarios y de los talleres de mantenimiento no guardaba relación con la aparición del MU.
 ### 4.4.5 Resultados de la supervisión realizada por las autoridades nacionales de seguridad
-Atendiendo a los factores y circunstancias detectados del origen de la MIE, la supervisión de la autoridad de seguridad no guarda relación con la MIE en cuestión.
-### 4.4.6 Aprobaciones, certificados y informes de evaluación emitidos por la Agencia, las autoridades nacionales de seguridad u otros sujetos de evaluación de la conformidad
-El gestor de infraestructura explotaba la infraestructura en virtud de una autorización administrativa vigente y de un certificado de seguridad del gestor de infraestructura. La empresa de transporte explotaba el transporte ferroviario en virtud de una licencia vigente y de un certificado de la empresa de transporte.
+Atendiendo a los factores y circunstancias de aparición del MU constatados, la supervisión de la autoridad de seguridad no guarda relación con el MU en cuestión.
+### 4.4.6 Aprobaciones, certificados y dictámenes de evaluación emitidos por la agencia, las autoridades nacionales de seguridad u otros sujetos de evaluación de la conformidad
+El gestor de la infraestructura explotaba la infraestructura en virtud de una autorización administrativa vigente y de un certificado de seguridad del gestor de la infraestructura. El operador ferroviario explotaba el transporte ferroviario en virtud de una licencia vigente y de un certificado del operador.
 ### 4.4.7 Otros factores sistémicos
-En la investigación no se detectaron otros factores sistémicos.
+En la investigación no se constataron otros factores sistémicos.
 ### 4.5 Sucesos anteriores de naturaleza similar
-La DI investigó las causas y circunstancias en el período comprendido entre el 1. 1. 2008 y la fecha de origen de la MIE en cuestión en las infraestructuras ferroviarias de categoría estatal y regional 1 una MIE análoga:
+La DI investigó las causas y circunstancias en el período comprendido entre el 1. 1. 2008 y la aparición del MU en cuestión en las vías ferroviarias, categoría nacional y regional 1, de un MU análogo:
 •
-del 25. 4 2013 entre la estación de enlace D3 Klenčí pod Čerchovem y la est. Poběžovice, donde se produjo la rotura de un eje y el posterior descarrilamiento de la locomotora durante la circulación del tren Os 27550. La causa inmediata del origen de la MIE fue la rotura del eje del primer bogie en el punto de la cintura del eje en la rueda izquierda íntegra.
-### La DI emitió a la empresa de transporte ČD las siguientes BR relacionadas con la MIE actualmente investigada:
-◦establecer un sistema de control eficaz y adoptar medidas eficaces en las reparaciones de bogies de los vehículos ferroviarios de vía, realizadas de forma subcontratada por empresas ferroviarias de reparación, que detecte un eventual incumplimiento o vulneración de los procedimientos vinculantes prescritos en la normativa de la empresa de transporte ČD V99/1 por parte de las empresas ferroviarias de reparación;
-◦en el anexo n.º 1 de la normativa interna ČD V25, para los niveles de mantenimiento «reparación periódica de ajuste» y «reparación periódica principal», establecer el límite superior del intervalo de recorrido kilométrico;
-◦modificar la redacción del art. 20 de la normativa interna ČD V25 en el sentido de que el límite superior del intervalo de recorrido kilométrico sea vinculante también para la «reparación periódica de ajuste» y la «reparación periódica principal».
-
+del 25. 4 2013 entre la estación de enlace D3 Klenčí pod Čerchovem y la est. Poběžovice, donde se produjo la rotura de un eje y el posterior descarrilamiento del HDV durante la marcha del tren Os 27550. La causa inmediata de la aparición del MU fue la rotura del eje del 1. bogie en el lugar del asiento del eje en la rueda izquierda maciza.
+### La DI emitió a ČD las siguientes BD relacionadas con el MU ahora investigado:
+◦establecer un sistema de control eficaz y adoptar medidas eficaces en las reparaciones de bogies de los vehículos ferroviarios sobre ruedas, realizadas de forma subcontratada por las empresas de reparación ferroviaria, que detecte cualquier incumplimiento o vulneración de los procedimientos obligatorios prescritos por la norma interna de ČD V99/1 por parte de las empresas de reparación ferroviaria;
+◦en el anexo n.º 1 de la norma interna de ČD V25, para los niveles de mantenimiento «reparación periódica de ajuste» y «reparación periódica principal», fijar el límite superior del intervalo de recorrido kilométrico;
+◦modificar el texto del art. 20 de la norma interna de ČD V25 en el sentido de que el límite superior del intervalo de recorrido kilométrico sea vinculante también para la «reparación periódica de ajuste» y la «reparación periódica principal».
 
 ## Página 43
+
 
 ### La DI emitió a la Oficina de Ferrocarriles las siguientes BR relacionadas con la MIE actualmente investigada:
 ◦emitir un aviso a las empresas ferroviarias de reparación sobre las deficiencias detectadas por la investigación de este suceso excepcional en el procedimiento tecnológico de prensado del bogie ferroviario, como medida para evitar la repetición de deficiencias similares;
@@ -1626,8 +1627,8 @@ del 25. 4 2013 entre la estación de enlace D3 Klenčí pod Čerchovem y la est.
 ◦anotar los valores medidos según la normativa ČD V99/1 en el documento «Hoja de medición y registro del bogie», que es parte integrante de la documentación de cada bogie;
 ◦realizar el prensado en el eje longitudinal x en prensas con registro del prensado realizado. El registro es parte integrante de la documentación de cada bogie y debe contener los datos establecidos.
 
-
 ## Página 44
+
 
 ## 5 CONCLUSIONES
 ### 5.1 Resumen del análisis y conclusiones relativas a las causas del suceso
@@ -1659,8 +1660,8 @@ En el gestor de infraestructura SŽ:
 •
 no fue detectado por la Inspección de Ferrocarriles.
 
-
 ## Página 45
+
 
 En la empresa de transporte SD-KD:
 •
@@ -1689,8 +1690,8 @@ to indicate the wrong order of axles in the rolling stock technical inspection r
 ## 6 RECOMENDACIONES DE SEGURIDAD
 Atendiendo a las causas y circunstancias detectadas del origen del suceso excepcional, la Inspección de Ferrocarriles no emite ninguna recomendación de seguridad, puesto que no se detectaron datos que justificaran la emisión de una recomendación de seguridad en el marco de la prevención del origen de sucesos excepcionales.
 
-
 ## Página 46
+
 
 ## SAFETY RECOMMENDATIONS
 The Rail Safety Inspection Office does not issue a safety recommendation in regard of the found causes and circumstances, because we did not find out such knowledge, which would justify issuing of the safety recommendation within prevention of occurrence.
@@ -1702,8 +1703,8 @@ inspector
 Oficina Territorial de Praga
 Oficina Central
 
-
 ## Página 47
+
 
 ## ANEXOS
 Fig. n.º 6: Vista de los DV descarrilados
@@ -1711,31 +1712,31 @@ Fuente: idnes.cz, edición: DI
 Fig. n.º 7: Vista de los DV descarrilados
 Fuente: iprima.cz, edición: DI
 
-
 ## Página 48
+
 
 Fig. n.º 8: Vista de la infraestructura dañada
     Fuente: DI
 Fig. n.º 9: Vista de los DV descarrilados y volcados y de las piezas del bogie
      Fuente: DI
 
-
 ## Página 49
+
 
 Fig. n.º 10: 1.ª parte del 3.er eje del 13.º vehículo
 Fuente: DI
 Fig. n.º 11: 2.ª parte del 3.er eje del 13.º vehículo
 Fuente: DI
 
-
 ## Página 50
+
 
 Fig. n.º 12: Vista del bulón desmontado del 3.er eje n.º 192280 del 13.º vehículo
      Fuente: DI
 Fig. n.º 13: Vista de la rotura del 3.er eje del 13.º vehículo
 Fuente: DI
 
-
 ## Página 51
+
 
 Fig. n.º 14: Esquema de los vehículos descarrilados del tren Pn 69071 – boceto del examen comisarial    Fuente: DI

@@ -10,13 +10,14 @@ chars: 103049
 ratio_longitud: 1.27
 tokens_in: 53885
 tokens_out: 39244
-verificacion: revisar
-notas_cifras: ["bloque 1: original bilingüe: se compara contra el idioma principal (PT)", "bloque 3: original bilingüe: se compara contra el idioma principal (CS)", "bloque 4: cifras cortas: 1/88", "bloque 6: original bilingüe: se compara contra el idioma principal (CS)"]
-avisos: ["bloque 3: ratio 1.86", "bloque 6: ratio 1.63"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 6: original bilingüe: se compara contra el idioma principal (EN)", "página 7: original bilingüe: se compara contra el idioma principal (PT)", "página 10: original bilingüe: se compara contra el idioma principal (PT)", "página 14: original bilingüe: se compara contra el idioma principal (CS)", "página 15: original bilingüe: se compara contra el idioma principal (PT)"]
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -41,13 +42,13 @@ IČ:   75009561
 mail@dicr.cz
 tel.: +420 736 521 003
 
-
 ## Página 2
+
 
 Este informe final es público y todos los hechos en él recogidos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ## 1 Resumen
       Fuente: PČR
@@ -74,8 +75,8 @@ Factor contribuyente:
 no fue detectado por la Inspección Ferroviaria.
 •
 
-
 ## Página 4
+
 
 Causa principal:
 incumplimiento de las disposiciones de los procedimientos tecnológicos por parte del maquinista de la maniobra de maniobras
@@ -88,8 +89,8 @@ Recomendación de seguridad:
 no fue emitida por la Inspección Ferroviaria.
 •
 
-
 ## Página 5
+
 
 ## SUMMARY
 Grade:
@@ -128,8 +129,8 @@ none.
 Recommendation:
 not issued.
 
-
 ## Página 6
+
 
 # Índice
 1 Resumen........................................................................................................................3
@@ -179,8 +180,8 @@ técnicas aplicables y otras normas internas....................................
 3.4 Actividad de los vehículos ferroviarios y de otros dispositivos técnicos..........................................24
 3.4.1 Sistema de control, señalización y seguridad, incluidos los dispositivos para la grabación automática
 
-
 ## Página 7
+
 
 de datos.....................................................................................................24
 3.4.2 Componentes de la vía....................................................................................................25
@@ -224,6 +225,7 @@ sobre las causas................................................................
 7 ANEXOS...........................................................................................................................38
 
 ## Página 8
+
 
 ## Lista de siglas y símbolos utilizados
 COP
@@ -279,8 +281,8 @@ Informe final sobre los resultados de la investigación del suceso excepcional
 žst.
 estación de ferrocarril
 
-
 ## Página 9
+
 
 ## Lista de siglas de la legislación, normas y reglamentos internos 
 utilizados
@@ -335,32 +337,32 @@ reglamento interno del transportista ČD, ČD V15/I reglamento para
 la explotación y operación de los aparatos de freno del material rodante 
 ferroviario, en la redacción vigente en el momento de producirse el SE
 
-
 ## Página 10
 
-## 2 DATOS RELATIVOS AL SUECESO EXCEPCIONAL
-### 2.1 Suceso excepcional
-### 2.1.1 Fecha, hora exacta y lugar del suceso excepcional
+## 2 DATOS RELATIVOS A LA EXCEPCIONAL OCURRENCIA
+### 2.1 Excepcional ocurrencia
+### 2.1.1 Fecha, hora exacta y lugar de la excepcional ocurrencia
 Fecha:        26. 2. 2019.
 Hora:
         12.13 h.
-Vía:        ferroviaria, categoría nacional, Brno hl. n. – Jihlava.
+Vía:        ferroviaria, categoría estatal, Brno hl. n. – Jihlava.
 Lugar:
-línea 322C Brno hl. n. – Jihlava, est. Jihlava, vía de estación núm. 5b, pk 198,615.
+línea 322C Brno hl. n. – Jihlava, est. Jihlava, SK n.º 5b, pk 198,615.
 GPS:
 49.4147128N, 15.5991914E.
-Fig. núm. 1: Vista del material rodante tras la colisión
+Fig. n.º 1: Vista del DV tras la colisión
    Fuente: DI
-### 2.1.2 Descripción del desarrollo del suceso excepcional y del lugar de producción, incluida la actividad del 
-sistema integrado de rescate y del servicio de rescate
-El 26. 2. 2019 se estaba formando en la est. Jihlava desde la vía de estación núm. 19 el 
-consistente para el tren Os 14870 como tramo de maniobras hacia la vía de estación núm. 5b, ocupada por el tren Os 8353. El tramo de maniobras salió 
-de la vía de estación núm. 19 en dirección al extremo de Dobronín y, posteriormente, al empujarlo a través de la vía de estación núm. 5 hacia la vía de estación núm. 5b, se produjo una colisión con el tren Os 8353, 
-que se encontraba detenido en dicha vía. En el SE se produjeron lesiones en dos 
-pasajeros, que ya habían subido al tren Os 8353.
-
+### 2.1.2 Descripción del desarrollo de la excepcional ocurrencia y del lugar de origen, incluida la actividad 
+del sistema integrado de emergencia y del servicio de rescate
+El 26. 2. 2019, en la est. Jihlava, se estaba formando desde el SK n.º 19 el tren 
+Os 14870 como maniobra de tráfico en el SK n.º 5b, ocupado por el tren Os 8353. La maniobra de tráfico salió 
+del SK n.º 19 en dirección a la cabecera de Dobronín y, posteriormente, al empujarlo a través del SK n.º 5 hasta el SK n.º 5b, 
+se produjo una colisión con el tren Os 8353, que se encontraba detenido en dicha vía. 
+En la EO se produjeron lesiones en dos 
+viajeros, que ya habían subido al tren Os 8353.
 
 ## Página 11
+
 
 Fig. núm. 2: Esquema del lugar de producción del SE
  Fuente: mapy.cz, 
@@ -392,8 +394,8 @@ núm. D07.434. En la cabina de conducción del tramo de maniobras el mando del f
 estaba en la posición VII de frenado 
 rápido y el freno directo estaba en la posición frenado.
 
-
 ## Página 12
+
 
 En presencia de la DI se descargaron los archivos del SZZ ESA 11 de la est. Jihlava, que contenían datos 
 sobre la ruta de maniobras para el tramo de maniobras y para la formación del tren Os 8353, 
@@ -434,8 +436,8 @@ SE notificada al COP de la DI:
 | Investigación de la DI en el lugar del SE: | 3x inspector de la ÚI Brno . |
 | Formación del equipo de investigación: | no fue necesario formarlo . |
 
-
 ## Página 13
+
 
 Colaboración externa:
 no se utilizó.
@@ -473,8 +475,8 @@ dos pasajeros en el tren Os 8353.
 | Velocidadmáximapermitidade maniobra en el lugar del SE (km .h-1): | 30 |  |  |  |
 | Mododefrenado: | I . |  |  |  |
 
-
 ## Página 14
+
 
 | Tren: | Os8353 | Composicióndeltren: |  | Mododefrenado: |
 | Longituddeltren(m): | 26 | MD: | 95545841005 2 – | R+Mg |
@@ -514,6 +516,7 @@ En el lugar del SE no se estaban realizando, inmediatamente antes de su producci
 de la vía ni de otras personas, ningún tipo de trabajos de reparación o mantenimiento.
 
 ## Página 15
+
 
 ### 2.2.6 Activación del plan para el caso de incidente en la vía y procedimientos conexos
 12.15 h activación de los componentes del SIU por parte del maquinista del tren Os 8353;
@@ -558,178 +561,107 @@ No se produjeron daños en objetos transportados, equipajes y otros bienes.
 ### 2.3.3 En vehículos ferroviarios, componentes de la vía y medio ambiente
 No se produjeron daños en vehículos ferroviarios, componentes de la vía y medio ambiente.
 
-
 ## Página 16
 
 ### 2.4 Circunstancias externas
 ### 2.4.1 Condiciones meteorológicas y datos geográficos
 Condiciones meteorológicas: despejado, + 10,5 °C, visibilidad no reducida.
-## 3 REGISTRO DE LA INVESTIGACIÓN Y DE LAS EXPLICACIONES PRESENTADAS
+## 3 REGISTRO DE LA INVESTIGACIÓN Y DE LAS EXPLICACIONES PRESENTADAS 
 ### 3.1 Resumen de las explicaciones presentadas (sujeto a protección de la identidad de las personas)
-### 3.1.1 Empleados del operador de la vía y del transportista, incluidas personas en relación contractual
-maquinista
- del tren de maniobras
-  – del Acta con el empleado del 26. 2. 2019
+### 3.1.1 Empleados del gestor de la infraestructura y del transportista, incluidas las personas en relación contractual
+máquina
+ conductor de la unidad de maniobras
+  – del Acta con el empleado de fecha 26. 2. 2019 
 •
 entre otras cosas se desprende:
-◦entró en servicio y recibió las llaves del HDV del jefe de maniobras. El tren de maniobras estaba
-compuesto por un HDV de la serie 242 211–1 y dos DV de la serie Bdmtee;
-◦realizó la comprobación del HDV y tras esta comprobación el jefe de tren le comunicó que la comunicación
-se realizaría en el canal simplex n.º 23;
-◦el jefe de tren acordó en el canal n.º 12 la maniobra con el jefe de estación de la estación de Jihlava y
-posteriormente le informó del desarrollo de la maniobra. La maniobra se realizó desde la SK n.º 19 hacia
-el extremo en dirección a la estación de Havlíčkův Brod, donde el tren de maniobras se introdujo tras la
-señal Se21. Allí se detuvo
-mediante el freno continuo, con lo que a su vez verificó su funcionamiento;
-◦posteriormente recibió del jefe de tren la información de la señal «Maniobra permitida» en la señal
-Se21, dio la señal «Atención» y puso el tren de maniobras en movimiento en dirección a la SK n.º 5.
-Durante la marcha fue además informado de la establecimiento de la ruta de maniobra desde la SK n.º 5
-hacia la SK n.º 5b ocupada;
-◦las últimas instrucciones sobre la distancia de la marcha de maniobra que recibió del jefe de tren
-fueron a una distancia de 100 m antes del lugar de detención. Además oyó repetidamente «14870
-podemos empujar». En ese momento comenzó simultáneamente a reducir la presión en el conducto principal;
-◦en el momento en que el HDV se encontraba a la altura del edificio para el personal de tren, se dio cuenta de
-que no oía información sobre la distancia del jefe de tren y comenzó a frenar intensamente
-con el freno continuo. Le parecía que el DV en la composición no respondía
-suficientemente al frenado con la reducción de presión en el conducto principal y que solo frenaba el HDV. Inmediatamente
-por tanto, utilizó el freno directo y al poco sintió el golpe;
-◦aseguró el HDV y fue a comprobar las consecuencias de la colisión. El maquinista del tren Os 8353 ya había activado
-los componentes de rescate. En el camino al puesto de mando se fijó en que las paletas en el DV señalizaban
-el estado «Desfrenado» a pesar de que el freno continuo seguía activado. Además
-el maquinista indicó que el jefe de maniobras era el jefe de tren, y este a su vez acordaba
-la maniobra con el jefe de estación.
-maquinista del tren de maniobras
-  – del Acta complementaria con el empleado del
+◦entró en servicio y recibió del maquinista las llaves del HDV. La unidad de maniobras estaba 
+ compuesta de un HDV de la serie 242 211–1 y dos DV de la serie Bdmtee;
+◦realizó la comprobación del HDV y tras esta comprobación el jefe de tren le comunicó que la comunicación 
+ se realizaría en el canal simplex n.º 23;
+◦el jefe de tren acordó en el canal n.º 12 la maniobra con el jefe de estación de la est. Jihlava y posteriormente 
+ le informó del desarrollo de la maniobra. La maniobra se realizaba desde la SK n.º 19 hacia el extremo en 
+ dirección a la est. Havlíčkův Brod, donde la unidad de maniobras se introdujo más allá de la señal Se21. 
+ Allí se detuvo mediante el freno continuo, con lo que a su vez verificó su correcto funcionamiento;
+◦posteriormente recibió del jefe de tren la información de la señal «Maniobra permitida» en la señal Se21, 
+ dio la señal «Atención» y puso la unidad de maniobras en movimiento en dirección a la SK n.º 5. 
+ Durante la marcha fue además informado de la constitución de la vía de maniobra desde la SK n.º 5 
+ hacia la SK n.º 5b ocupada;
+◦las últimas instrucciones sobre la distancia de la maniobra que recibió del jefe de tren fueron a una 
+ distancia de 100 m antes del lugar de detención. Además oyó repetidamente «14870 
+ podemos empujar». En este momento comenzó simultáneamente a reducir la presión en la tubería principal;
+◦en el momento en que el HDV se encontraba a la altura del edificio para el personal de tren, se dio cuenta de que 
+ no oía información sobre la distancia del jefe de tren y comenzó a frenar intensamente 
+ con el freno continuo. Le parecía que el DV de la composición no respondía 
+ suficientemente con el frenado a la reducción de presión en la tubería principal y que solo frenaba el HDV. 
+ Inmediatamente, por tanto, utilizó el freno de accionamiento directo y al poco sintió el golpe;
+◦aseguró el HDV y fue a comprobar las consecuencias de la colisión. El conductor del tren Os 8353 ya había activado 
+ los equipos de rescate. En el camino a la cabina notó que las paletas del DV señalizaban 
+ el estado «Desfrenado» a pesar de que seguía activado el freno continuo. Además, 
+ el conductor indicó que el jefe de maniobras era el jefe de tren, que a su vez acordaba 
+ la maniobra con el jefe de estación.
+conductor de la unidad de maniobras
+  – del Acta complementaria con el empleado de fecha 
 •
-28. 2. 2019, entre otras cosas se desprende:
-◦el maquinista indicó que el empleado que dirigía la maniobra era el jefe de tren, que a su vez
-acordó la maniobra con el jefe de estación de la estación de Jihlava. La forma y ejecución de este acuerdo
-
+28. 2. 2019 entre otras cosas se desprende:
+◦el conductor indicó que el empleado que dirigía la maniobra era el jefe de tren, que a su vez 
+ acordó la maniobra con el jefe de estación de la est. Jihlava. La forma y la ejecución de este acuerdo
 
 ## Página 17
 
-no las oyó el maquinista;
-◦el permiso para la maniobra fue concedido por el jefe de tren con el siguiente texto: «Composición del tren n.º 14870
-de la vía n.º 19 en dirección al extremo de Dobronín, maniobra permitida tras la señal Se21.
-Tras la detención, de vuelta por la vía n.º 5 a la vía n.º 5b
-delante del edificio de tráfico.»;
-◦el maquinista no informó al jefe de tren de la realización de la maniobra. Tras la instrucción del
-jefe de tren para poner el tren de maniobras en movimiento, dio la señal «Atención»
-y se puso en marcha con el tren de maniobras. La ruta de maniobra debía terminar en la SK n.º 5b
-delante del edificio de tráfico. El permiso para la maniobra en las vías en las que debía realizarse
-la maniobra, lo da, según el maquinista, el jefe de estación.
-maquinista del tren de maniobras
-  – del Registro de la explicación presentada por DI, entre otras cosas
+el maquinista no lo oyó;
+◦la autorización para la maniobra fue concedida por el jefe de maniobras con la siguiente redacción: "Conformación del tren n.º 14870
+desde la vía n.º 19 en dirección a la cabecera de Dobronín, maniobra permitida hasta la señal Se21.
+Tras detenerse, volver por la vía n.º 5 a la vía n.º 5b, hasta delante del edificio de tráfico.";
+◦el maquinista no informó al jefe de maniobras de la realización de la maniobra. Tras la instrucción del jefe de maniobras para poner en movimiento la unidad de maniobra, dio la señal "Atención" y se puso en marcha con la unidad de maniobra. El recorrido de la maniobra debía finalizar en la SK n.º 5b, delante del edificio de tráfico. La autorización para la maniobra en las vías en las que se debía realizar la maniobra, según el maquinista, la da el jefe de estación.
+maquinista de la unidad de maniobra
+  – del Registro de explicaciones prestadas por el DI, entre otros
 •
 se desprende:
-◦el maquinista estaba descansado antes de entrar en servicio, antes del servicio tuvo
-un descanso de 13 horas. Al entrar en servicio no se produjeron anomalías,
-no hubo ningún conflicto y no estaba alterado por nada ni por nadie;
-◦entró en servicio hacia las 12 horas, llamó al jefe de maniobras, cogió las llaves del HDV
-y fue a la composición del tren Os 14870 (tren de maniobras) estacionada en la SK n.º 19.
-En el tren de maniobras realizó la prueba básica de frenos en el HDV y acordó la maniobra
-con el jefe de tren. Con el jefe de tren, tras acordarlo, se comunicaba mediante la estación de radio
-en el canal n.º 23, en este canal se le comunicaron los detalles de la realización
-de la maniobra, así como que la maniobra sería hacia la SK n.º 5b ocupada;
-◦el tren Os 8353 no fue acoplado a la SK n.º 5b como habitualmente al final del andén,
-sino en medio. Al realizar la maniobra empujada no miraba en la dirección de la maniobra,
-se concentraba en las instrucciones dadas por el radioteléfono y miraba por la ventana del lado
-derecho en la dirección de la marcha hacia los edificios para orientarse
-en qué punto se encontraba (concretamente se mencionó el pórtico sobre la SK n.º 5b).
-Antes de esto el maquinista ya había realizado maniobras con este
-tren de maniobras en dirección a la SK n.º 5b ocupada;
-◦justo antes de la aparición del incidente, cuando ya se acercaba al lugar de detención, comenzó
-a reducir la velocidad de forma anticipada, marchó después a una velocidad estimada máxima de 10 km.h-1 y menos
-y la velocidad seguía reduciendo. Podría ser a una distancia de 80 m antes del lugar
-de detención. Después se dio cuenta de que se había producido la pérdida de comunicación.
-Hasta el momento en que se produjo la pérdida de comunicación con el jefe de tren, las instrucciones dadas para la marcha eran claras y comprensibles;
-◦antes de la aparición del incidente el maquinista ya había establecido varias veces este tren de maniobras
-en la SK n.º 5b. Con el tren de maniobras debía continuar la marcha como tren Os 14870
-a Havlíčkův Brod. Antes de este incidente no se había encontrado con la situación en la que se produjera
-en la estación de Jihlava una pérdida de comunicación al comunicar mediante la estación de radio;
-◦tras la detención tras la aparición del incidente, aseguró el HDV con el freno de mano y fue a ver
-las consecuencias de la colisión. Le llamó la atención que, aunque el tren de maniobras estuviera frenado,
-las paletas en el DV estaban «verdes» – señalizaban desfrenado, esto se lo indicó el jefe de tren, que
-estaba en la cabeza del tren de maniobras. Al cambio de las paletas a «rojo» – señalizaban
-frenado, se produjo, según él, al menos una hora después, mientras que en el puesto
-del maquinista no realizaba ninguna maniobra. Al lugar de la aparición del incidente acudió
-también un empleado de ČD en la función de especialista de sistemas OCP Východ, PP Jihlava;
-◦la restablecimiento de la comunicación con el jefe de tren se produjo solo en el momento en que levantó
-el auricular de la estación de radio en el puesto del maquinista y llamó al jefe de tren.
-
+◦el maquinista estaba descansado antes de incorporarse al turno, tuvo un descanso de 13 horas antes del servicio. Al incorporarse al turno no se produjeron anomalías, no hubo ningún conflicto y no estaba alterado por nada ni por nadie;
+◦se incorporó al turno aproximadamente a las 12 horas, llamó al maquinista mecánico, cogió las llaves del HDV y fue a la conformación del tren Os 14870 (unidad de maniobra) estacionada en la SK n.º 19. En la unidad de maniobra realizó la prueba básica de frenos en el HDV y acordó la maniobra con el jefe de maniobras. Con el jefe de maniobras, tras acordarlo, se comunicaba mediante estación de radio en el canal n.º 23, en este canal se le comunicaron los detalles para la realización de la maniobra, así como que la maniobra sería hacia la SK n.º 5b ocupada;
+◦el tren Os 8353 no fue colocado en la SK n.º 5b como es habitual al final del andén, sino en medio. Al realizar la maniobra empujada, no miraba en la dirección de la maniobra, se concentraba en las instrucciones dadas por el walkie-talkie y miraba por la ventana del lado derecho en la dirección de la marcha hacia los edificios para orientarse en qué punto se encontraba (concretamente se mencionó el pórtico sobre la SK n.º 5b). Antes de esto, el maquinista ya había realizado maniobras con esta unidad de maniobra en dirección a la SK n.º 5b ocupada;
+◦justo antes de producirse el MU, cuando ya se aproximaba al punto de detención, comenzó a reducir la velocidad hacia delante, circuló a continuación, por estimación, a una velocidad máxima de 10 km.h-1 o menos y seguía reduciendo la velocidad. Esto pudo ocurrir a una distancia de 80 m del punto de detención. A continuación se dio cuenta de que se había producido la pérdida de comunicación. Hasta el momento en que se produjo la pérdida de comunicación con el jefe de maniobras, las instrucciones dadas para la marcha eran claras y comprensibles;
+◦antes de producirse el MU, el maquinista ya había colocado varias veces esta unidad de maniobra en la SK n.º 5b. Con la unidad de maniobra debía continuar la marcha como tren Os 14870 hacia Havlíčkův Brod. Antes de este MU no se había encontrado con una situación en la que se produjera en la est. Jihlava una pérdida de comunicación durante la comunicación mediante estación de radio;
+◦tras detenerse tras producirse el MU, aseguró el HDV con el freno de mano y fue a ver las consecuencias de la colisión. Le llamó la atención que, aunque la unidad de maniobra estaba frenada, las clonky en la DV estaban "verdes" – indicaban desfrenado, esto se lo señaló el jefe de maniobras, que estaba en la cabeza de la unidad de maniobra. El cambio de las clonky a "rojo" – indicaban frenado, se produjo, según él, al menos una hora después, mientras que en la cabina del maquinista no realizaba ninguna maniobra. Al lugar de producción del MU acudió también un empleado de ČD en la función de especialista de sistema OCP Východ, PP Jihlava;
+◦la restitución de la comunicación con el jefe de maniobras se produjo solo en el momento en que levantó el auricular de la estación de radio en la cabina del maquinista y llamó al jefe de maniobras.
 
 ## Página 18
 
-jefe de tren de la estación de Jihlava
-  – del Acta con el empleado del 12. 3. 2019, entre otras cosas
+Jefe de estación de Jihlava
+  – Del Registro con el empleado del 12. 3. 2019 se desprende, entre otras cosas:
+◦antes de las 12:00 desconectó el DV del tren del tren Os 14870 del soporte de precalentamiento y conectó el cable al HDV de la unidad de maniobras. Antes de la maniobra afrenó los frenos manuales y comprobó que la unidad de maniobras estuviera desfrenada;
+◦tras la prueba de conexión en el canal simplex n.º 23 para maniobras, informó al maquinista sobre el procedimiento de la maniobra prevista y dio su consentimiento para arrastrar la unidad de maniobras más allá del desvío n.º 36 en dirección a la señal de maniobras Se18. A continuación, colocó el desvío n.º 36 en posición básica y acordó en el canal n.º 12 la maniobra en dirección a la cabecera de Dobronín y de vuelta a la vía de clasificación ocupada SK n.º 5b frente a la oficina de tráfico;
+◦a continuación, cambió la estación de radio móvil al canal n.º 23 y, tras encender la señal "Maniobra permitida", dio al maquinista el consentimiento para la maniobra en dirección a la cabecera de Dobronín más allá de la señal Se21;
+◦tras detener la unidad de maniobras y encender la señal "Maniobra permitida" en la señal Se21, dio al maquinista la instrucción de empujar en dirección a la oficina de tráfico. Él mismo se encontraba en la cabeza de la unidad de maniobras. Además, informó al maquinista de la maniobra por la vía de clasificación libre SK n.º 5 y posteriormente por la vía de clasificación ocupada SK n.º 5b;
+◦las señales para la maniobra con el texto "Tren n.º 14870 en Jihlava en la vía 5 por empuje" se daban regularmente, cada unos 50 m. A unos 50 m antes de la señal Sc5 informó al maquinista de la señal "Maniobra permitida" en dicha señal desde la vía de clasificación SK n.º 5 a la vía de clasificación ocupada SK n.º 5b. A la vez, advirtió al maquinista del punto de parada, situado a unos 150 m más allá. La siguiente señal se dio a una distancia de 100 m antes del punto de parada y el maquinista, según ella, redujo la velocidad de la unidad de maniobras;
+◦tras la señal dada a 80 m del punto de parada, le pareció que el maquinista no reducía la velocidad suficientemente y repetidamente dio la señal "Despacio". A unos 40 m del punto de parada ya repetía —gritaba— la señal "Alto";
+◦se produjo el choque contra el DV detenido en la vía de clasificación ocupada SK n.º 5b, que según él se había movido unos 2 m. Tras descender del DV en la cabeza de la unidad de maniobras, el maquinista, ante su pregunta de por qué no había reaccionado a las señales dadas, respondió que no las había oído. A continuación, se dirigió a la oficina de tráfico a comunicar el incidente;
+◦además, el jefe de estación indicó que el empleado que dirigía la maniobra era él y que acordó la maniobra con el jefe de estación de Jihlava con el texto "la composición del tren n.º 14870 desde detrás del cobertizo en dirección al puente y por la vía 5 a la vía ocupada n.º 5b". El permiso para la maniobra fue concedido por el jefe de estación con el texto "la composición del tren n.º 14870 desde detrás del cobertizo en dirección a la cabecera de Dobronín, maniobra permitida más allá de la señal Se21. Tras detenerse, de vuelta por la vía n.º 5 a la vía ocupada n.º 5b frente al edificio de tráfico";
+◦informó al maquinista del acuerdo de la maniobra, quien tras recibir el permiso para la marcha dio la señal "Atención" y puso en movimiento la unidad de maniobras. La ruta de maniobras debía terminar en la vía de clasificación ocupada SK n.º 5b frente al edificio de tráfico.
+Jefe de estación de Jihlava
+  – Del Registro de la declaración prestada al DI se desprende:
 •
-se desprende:
-◦antes de las 12 horas desconectó el DV de la composición del tren Os 14870 del precalentador
-y conectó el cable con el HDV del tren de maniobras. Antes de la maniobra aflojó los frenos de mano
-y comprobó que el tren de maniobras estuviera desfrenado;
-◦tras la prueba de comunicación en el canal simplex n.º 23 para la maniobra, informó
-al maquinista del procedimiento de la maniobra prevista y dio su consentimiento para arrastrar
-el tren de maniobras tras el desvío n.º 36 en dirección a la señal de clasificación Se18.
-Posteriormente colocó el desvío n.º 36 en posición básica y acordó en el canal n.º 12 la maniobra
-en dirección al extremo de Dobronín y de vuelta hacia la SK n.º 5b ocupada delante de la
-oficina de tráfico;
-◦la estación de radio móvil la cambió después al canal n.º 23 y tras la iluminación de la señal
-«Maniobra permitida» dio al maquinista su consentimiento para la maniobra en dirección
-al extremo de Dobronín tras la señal Se21;
-◦tras la detención del tren de maniobras y la iluminación de la señal «Maniobra permitida» en la
-señal Se21, dio al maquinista la instrucción de empujar en dirección a la
-oficina de tráfico. Él mismo se encontraba en la cabeza del tren de maniobras. Además informó
-al maquinista de la maniobra por la SK n.º 5 libre y posteriormente a la SK n.º 5b ocupada;
-◦las señales para la maniobra con el texto «Tren n.º 14870 en Jihlava en la vía 5 empujando» se
-daban regularmente, cada unos 50 m. A unos 50 m de la señal Sc5 informó
-al maquinista de la señal «Maniobra permitida» en esta señal desde la SK n.º 5 a la SK
-n.º 5b ocupada. A la vez advirtió al maquinista del lugar de detención,
-situado a unos 150 m más allá. La siguiente señal sonó a una distancia de 100 m antes del
-lugar de detención y el maquinista, según él, redujo la velocidad del tren de maniobras;
-◦tras la señal dada a 80 m del lugar de detención no le pareció que el maquinista
-redujera suficientemente la velocidad, y repetidamente dio la señal «Despacio».
-Aproximadamente a 40 m
-del lugar de detención ya repetía – gritaba la señal «Alto»;
-◦se produjo el choque contra el DV detenido en la SK n.º 5b, que según él avanzó unos 2 m.
-Tras bajar del DV en la cabeza del tren de maniobras, el maquinista, ante su pregunta de por qué
-no reaccionaba a las señales dadas, le respondió que no las oía.
-Posteriormente fue a notificar la aparición del incidente a la oficina de tráfico;
-◦además el jefe de tren indicó que el empleado que dirigía la maniobra era él y acordó la maniobra
-con el jefe de estación de la estación de Jihlava con el texto «composición del tren n.º 14870 desde detrás de la caseta en dirección
-tras el puente y por la vía quinta a la vía n.º 5b ocupada». El permiso para la maniobra fue
-concedido por el jefe de estación con el texto «composición del tren n.º 14870 desde detrás de la caseta en dirección
-al extremo de Dobronín, maniobra permitida tras la señal Se21. Tras la detención, de vuelta por
-la vía n.º 5 a la vía n.º 5b ocupada delante del edificio de tráfico»;
-◦informó al maquinista del acuerdo de la maniobra, quien tras recibir el consentimiento para la marcha
-dio la señal «Atención» y puso el tren de maniobras en movimiento. La ruta de maniobra debía terminar
-en la SK n.º 5b delante del edificio de tráfico.
-jefe de tren de la estación de Jihlava
-  – del Registro de la explicación presentada por DI se desprende:
-•
-◦el jefe de tren estaba descansado antes de entrar en servicio, antes del servicio tuvo un descanso
-de 24 h. Al entrar en servicio no se produjeron anomalías, no hubo
-ningún conflicto y no estaba alterado por nada ni por nadie. Antes de la aparición del incidente no recuerda
-que se hubiera producido una pérdida de comunicación al utilizar la estación de radio móvil
+◦el jefe de estación estaba descansado antes de incorporarse al turno, antes del servicio tuvo un descanso de 24 h. Al incorporarse al turno no se produjeron anomalías, no hubo ningún conflicto y no estaba alterado por nada ni por nadie. Antes de que se produjera el incidente no recuerda que se hubiera producido una interrupción de la comunicación al usar la radio móvil
 
 ## Página 19
 
 estación;
-◦las tareas del jefe de maniobras consisten en las inspecciones técnicas de los DV, la comprobación de la limpieza, las maniobras, el llenado de DV con agua, es decir, todas las tareas relacionadas con la operación de los DV. Como ayudas se utilizan principalmente las "Instrucciones para el desempeño del servicio de tráfico en la estación de Jihlava" y la lista tecnológica de tareas de acuerdo con lo anterior;
-◦antes de la maniobra comprobó que los DV estaban libres, que no había topes colocados, realizó la prueba de freno y luego acordó con el jefe de estación mediante el radioteléfono en el canal n.º 12 la maniobra. En el momento de acordar la maniobra se encontraba en la aguja n.º 36, en el momento de iniciar la maniobra se encontraba en el último DV del convoy;
-◦fue informado por el jefe de estación, al acordar la maniobra, de que la maniobra se realizaría hacia la vía SK n.º 5b ocupada. Esta maniobra se realiza habitualmente hacia la vía SK n.º 5b ocupada, salvo cuando circula el tren R 663. Informó al maquinista sobre la circulación hacia la vía SK n.º 5b ocupada tres veces: cuando salían de la SK n.º 19, desde el extremo de Dobronín y, posteriormente, al informar de la establecimiento de la ruta de maniobra desde la SK n.º 5 hasta la SK n.º 5b;
-◦según él, el maquinista circulaba durante el empuje a una velocidad adecuada, de unos 25 km·h⁻¹. Durante la maniobra, al encenderse la señal "Maniobra permitida" en la señal Se21, dio al maquinista la instrucción "Tren 14870 desde 'Bajo el puente' en dirección a la derecha, maniobra permitida, vía 5 libre, 5b ocupada". El maquinista le repitió esto y a continuación recibió la instrucción de empujar. Posteriormente, aproximadamente cada 50 m, daba la instrucción "Tren 14870 en Jihlava en la vía 5, empujando". A unos 200 y 150 m antes del lugar de detención dio la instrucción "Tren 14870 en Jihlava en la vía 5, empujando" y después "Desde la vía 5 hacia la vía 5b ocupada, maniobra permitida". Además, a 100, 80 y 60 m antes del lugar de detención, "Tren 14870 en Jihlava, empujando" y a una distancia de 40 m antes de los lugares de detención daba repetidamente la señal "Alto". Desde 200 m antes del lugar de detención indicaba la distancia en metros;
-◦tras la colisión, descendió del DV a la cabeza de la unidad de maniobras y, ante la pregunta al maquinista de qué estaba haciendo, este le respondió que no le había oído. A continuación, se dirigió a informar de la aparición de la MU al tráfico.
+◦las tareas del jefe de tren consisten en las inspecciones técnicas de los DV, la comprobación de la limpieza, las maniobras, el llenado de DV con agua, respectivamente todas las tareas relacionadas con la operación de los DV. Como ayudas se utilizan principalmente las "Instrucciones para el desempeño del servicio de tráfico en la EST Jihlava" y la lista tecnológica de tareas de acuerdo con lo anteriormente indicado;
+◦antes de la maniobra comprobó que los DV estaban libres, que no había topes colocados, realizó la prueba de freno y a continuación acordó con el jefe de estación mediante el radioteléfono en el canal n.º 12 la maniobra. En el momento de acordar la maniobra se encontraba en el desvío n.º 36, en el momento de iniciar la maniobra se encontraba en el último DV del convoy;
+◦sobre la maniobra hacia la SK n.º 5b ocupada fue informado por el jefe de estación al acordar la maniobra. Esta maniobra se realiza habitualmente hacia la SK n.º 5b ocupada, si no circula el tren R 663. Informó al maquinista sobre la circulación hacia la SK n.º 5b ocupada tres veces, cuando salían de la SK n.º 19, desde la cabeza de vías de Dobronín y a continuación al informar sobre la establecimiento de la ruta de maniobras desde la SK n.º 5 hasta la SK n.º 5b;
+◦según él, el maquinista circulaba durante el empuje a una velocidad adecuada, de unos 25 km·h⁻¹. Durante la maniobra, tras la iluminación de la señal "Maniobras permitidas" en la señal Se21, dio al maquinista la orden "Tren 14870 desde 'Debajo del puente' hacia la derecha maniobras permitidas, vía 5 libre, 5b ocupada". El maquinista le repitió esto y a continuación recibió la orden de empujar. Posteriormente, aproximadamente cada 50 m, daba la orden "Tren 14870 en Jihlava en la vía 5 empujando". A unos 200 y 150 m del lugar de detención dio la orden "Tren 14870 en Jihlava en la vía 5 empujando" y a continuación "De la vía 5 a la vía 5b ocupada maniobras permitidas". Además, a 100, 80 y 60 m del lugar de detención "Tren 14870 en Jihlava empujando" y a una distancia de 40 m del lugar de detención daba repetidamente la señal "Alto". Desde 200 m del lugar de detención indicaba la distancia en metros;
+◦tras la colisión descendió del DV a la cabeza de la unidad de maniobras y, al preguntarle al maquinista qué hacía, este le respondió que no le había oído. A continuación fue a comunicar la aparición de la MU al servicio de tráfico.
 maquinista del tren Os 8353
-  – del Acta con el empleado del 28. 2. 2019 
+  – del Acta con el empleado del día 28. 2. 2019 
 •
-entre otras cosas se desprende:
-◦realizó la preparación del HDV para la circulación y efectuó la prueba de freno. A continuación, fue informado mediante el radioteléfono en el canal n.º 12 de la maniobra desde la vía 101 hasta la vía de tracción en dirección a Luka nad Jihlavou y, posteriormente, de vuelta a la SK n.º 5b frente al edificio de tráfico. El lugar de detención en la SK n.º 5b se determinó frente a la oficina de tráfico, entre los pasos para pasajeros;
-◦se detuvo en la SK n.º 5b y aseguró el convoy contra el arrastre, apagó el puesto de conducción n.º 1 y, al marcharse, cerró con llave la puerta de acceso. En el puesto de conducción n.º 2 preparó el convoy para la salida, encendió el sistema de información para pasajeros y el protector de tren MIREL;
-◦a continuación, se dirigió a comprobar las señales de señalización en la parte delantera del convoy del tren Os 8353 y se percató de que habían subido al tren dos pasajeros. Cuando llegó a la parte delantera del convoy, se produjo un impacto en la parte trasera del tren. Corrió para comprobar si había pasajeros heridos y activó el IZS. Posteriormente, se dirigió a la oficina de tráfico e informó de la aparición de la MU. No vio la propia colisión contra el convoy del tren Os 8353;
-◦además, de las preguntas complementarias se desprende que el empleado que dirigía la maniobra, que acordó la maniobra para el tren Os 8353 con el jefe de estación de la est. de Jihlava, era el maquinista del tren
-
+entre otros se desprende:
+◦realizó la preparación del HDV para la circulación y efectuó la prueba de freno. A continuación fue informado mediante el radioteléfono en el canal n.º 12 de la maniobra desde la vía 101 hasta la vía de tracción en dirección Luka nad Jihlavou y posteriormente de vuelta a la SK n.º 5b delante del edificio de tráfico. El lugar de detención en la SK n.º 5b se determinó delante de la oficina de tráfico, entre los pasos para pasajeros;
+◦se detuvo en la SK n.º 5b y aseguró el convoy contra el arrastre, apagó la cabina de conducción n.º 1 y al marcharse cerró con llave la puerta de acceso. En la cabina de conducción n.º 2 preparó el convoy para la salida, encendió el sistema de información para pasajeros y el protector de tren MIREL;
+◦a continuación fue a comprobar las señales ferroviarias en la cabeza del convoy del tren Os 8353 y se percató de que habían subido al tren dos pasajeros. Cuando llegó a la cabeza del convoy, se produjo un impacto en la parte trasera del tren. Corrió para comprobar si había habido pasajeros heridos y activó el IZS. Posteriormente fue a la oficina de tráfico y comunicó la aparición de la MU. La propia colisión contra el convoy del tren Os 8353 no la vio;
+◦además, de las preguntas complementarias se desprende que el empleado que dirigía la maniobra, que acordó la maniobra para el tren Os 8353 con el jefe de estación de la EST Jihlava, era el maquinista del tren
 
 ## Página 20
+
 
 Os 8353.
 jefe de estación de la est. de Jihlava
@@ -745,8 +677,8 @@ El explotador de la infraestructura y el operador ferroviario cuentan con un sis
 En el marco de la organización de la explotación en la estación de Jihlava, en este caso durante la realización de maniobras en el traslado de convoyes de trenes de pasajeros, se examinó el cumplimiento de las obligaciones laborales de los empleados de acuerdo con la norma SŽDC D1, relacionadas con su función. De acuerdo con el art. 1648 de la norma SŽDC D1, en este caso se trataba del traslado de un convoy estacionado de un tren mediante maniobra y para dicha maniobra debía designarse también al operador ferroviario y a los empleados que dirigen la maniobra. En el art. 1664 de la norma SŽDC D1, las obligaciones relativas a la autorización para acordar la maniobra pueden ser transferidas por el empleado que dirige la maniobra al jefe de la cuadrilla de maniobras. Esta información se incorporó a las ayudas tecnológicas del GVD "Instrucciones para el desempeño del servicio de tráfico" a petición del operador ferroviario ("... Durante la realización de la maniobra acompañada del operador ferroviario ČD, el empleado de este operador ferroviario en la función de jefe de maniobras KV, o jefe de maniobras, queda autorizado en lugar del maquinista para acordar la maniobra."). El operador ferroviario tiene esta autorización indicada en la parte B de la Documentación de transporte básica de la estación ferroviaria de Jihlava: "... Durante la maniobra con la cuadrilla de maniobras, de acuerdo con el art. 1664 de la norma SŽDC D1 y el art. 72 de la norma ČD D2, el jefe de la cuadrilla de maniobras del operador ferroviario ČD (empleado designado por los procedimientos tecnológicos) está permanentemente autorizado para las actividades del empleado que dirige la maniobra. Durante la maniobra con la cuadrilla de maniobras, de acuerdo con el art. 1664 de la norma SŽDC D1 y el art. 72 de la norma ČD D2, el jefe de la cuadrilla de maniobras del operador ferroviario ČD (empleado designado por los procedimientos tecnológicos) está permanentemente autorizado para acordar la maniobra en lugar del empleado que dirige la maniobra." El jefe de maniobras quedó autorizado para acordar la maniobra en lugar del maquinista y cumplía las obligaciones del empleado que dirige la maniobra.
 De acuerdo con el art. 72 de la norma ČD D2: "El jefe de la cuadrilla de maniobras es el jefe de maniobras o el maniobrista", el jefe de maniobras desempeñaba en la maniobra empujada de ČD la función de jefe de la cuadrilla de maniobras (en adelante, jefe de maniobras). De acuerdo con el art. 1664 de la norma SŽDC D1, esto se plasmó en las Instrucciones
 
-
 ## Página 21
+
 
 para el desempeño del servicio de tráfico.
 El maquinista del convoy empujado y el maquinista del convoy para el tren Os 8353 desempeñaban, de acuerdo con el art. 1662 de la norma SŽDC D1, la función de empleados que dirigen la maniobra. En relación con ello, durante el acta con los empleados en la función de jefe de maniobras y maquinista del convoy empujado, se indicó que el jefe de maniobras era, en el momento de la realización de la maniobra empujada, el empleado que dirigía la maniobra. De acuerdo con las disposiciones del art. 1662, respectivamente art. 1664 de la norma SŽDC D1, solo los maquinistas pueden desempeñar esta función. El jefe de maniobras (en este caso, el jefe de maniobras) solo asume las funciones designadas al empleado que dirige la maniobra y fue permanentemente autorizado con una de estas funciones. Sin embargo, esta información indicada no tuvo influencia en el cumplimiento de las obligaciones laborales de estos empleados durante la preparación y la propia maniobra, ni relación con la aparición de la MU.
@@ -754,25 +686,38 @@ El permiso para la maniobra puede darse, de acuerdo con el art. 1692 de la norma
 Si al jefe de estación le consta el operador ferroviario, la tecnología de maniobra requerida y la tracción del HDV utilizado durante la maniobra (lo cual, de acuerdo con lo anterior, era conocido por el jefe de estación), entonces en dicho permiso debía indicarse además el período desde cuándo y hasta cuándo y en qué vías está permitida la maniobra. El lugar de estacionamiento del convoy y la vía a la que se trasladan habitualmente los convoyes eran conocidos por el jefe de estación de acuerdo con las ayudas del GVD. En el acuerdo realizado por el jefe de maniobras se determinó desde dónde y hasta dónde debía realizarse la maniobra. Sin embargo, posteriormente el jefe de estación no comunicó al jefe de maniobras desde cuándo y hasta cuándo estaba permitida la maniobra ni en qué vías estaba permitida la maniobra. El jefe de estación concedió el permiso para la maniobra encendiendo las señales correspondientes. El jefe de maniobras y el maquinista del tren Os 8353, a pesar de que no se les comunicaron datos esenciales para la garantía segura de la maniobra en el permiso para la maniobra, respectivamente no se emitió ningún permiso para la maniobra, se pusieron en marcha y aceptaron el establecimiento de la ruta de maniobra por el jefe de estación.
 En el sistema de garantía de la seguridad de la explotación de la infraestructura adoptado por el explotador de la infraestructura SŽDC, relacionado con las circunstancias de la aparición de la MU en cuestión, no se detectó ningún defecto.
 
-
 ## Página 22
 
-En el sistema de garantía de la seguridad del transporte ferroviario adoptado por el operador ferroviario ČD, relacionado con las circunstancias de la aparición de la MU en cuestión, no se detectó ningún defecto.
-### 3.2.2 Requisitos para los empleados del explotador de la infraestructura y del operador ferroviario y aplicación de dichos requisitos
-Los requisitos para los empleados del explotador de la infraestructura y del operador ferroviario, en particular los requisitos de idoneidad técnica y sanitaria, están establecidos por la Ley n.º 266/1994 Sb., el Decreto n.º 173/1995 Sb., el Decreto n.º 101/1995 Sb., el Decreto n.º 16/2012 Sb. y las normas internas del explotador de la infraestructura y del operador ferroviario.
-En el momento de la aparición de la MU en cuestión, todas las personas del explotador de la infraestructura SŽDC involucradas en la MU que realizaban actividades en la explotación de la infraestructura eran técnicamente idóneas para el desempeño de la función que ocupaban.
-En el momento de la aparición de la MU en cuestión, todas las personas del operador ferroviario ČD involucradas en la MU que realizaban actividades en la explotación del transporte ferroviario eran técnicamente idóneas para el desempeño de la función que ocupaban.
-### 3.2.3 Procedimientos de control interno de seguridad y auditoría y sus resultados
-En los empleados de ČD se realizaron, desde el 1. 1. 2018 hasta la aparición de la MU, controles realizados por el inspector de circulación de OCP Východ; al maquinista de la unidad de maniobras se le realizaron un total de cinco controles y al jefe de maniobras se le realizaron dos controles. En el control del 5. 5. 2018 se detectó en el maquinista una anomalía en la toma de conocimiento, antes del turno, de los Documentos de toma de conocimiento; no se detectaron otras anomalías en estos controles en los empleados.
-En el procedimiento de control interno de seguridad del explotador de la infraestructura y del operador ferroviario no se detectaron deficiencias.
-### 3.2.4 Interfaz entre los distintos sujetos involucrados y los componentes de la vía de circulación de la infraestructura
-El propietario de la infraestructura ferroviaria, categoría nacional, Brno hl. n. – Jihlava, es la República Checa. El derecho a administrar los bienes del Estado lo ejerce SŽDC, con domicilio en Dlážděná 1003/7, Praha 1, PSČ 110 00.
-El explotador de la infraestructura ferroviaria, categoría nacional, Brno hl. n. – Jihlava, era SŽDC.
-El operador ferroviario del tren Os 8353 y del convoy empujado era ČD, con domicilio en Nábřeží L. Svobody 1222, Praha 1, PSČ 110 15.
-El transporte ferroviario se realizaba en virtud de un contrato celebrado entre el explotador de la infraestructura SŽDC y el operador ferroviario ČD el 21. 8. 2013, con efectos desde el 1. 9. 2013.
-En la interfaz entre los sujetos involucrados no se detectó ninguna deficiencia.
+En el sistema de garantía de la seguridad de la explotación del transporte ferroviario adoptado por el transportista ČD, relacionado con las circunstancias de la aparición de la MU en cuestión, no se detectó ninguna deficiencia.
+
+### 3.2.2 Requisitos para el personal del gestor de la infraestructura y del transportista y aplicación de dichos requisitos
+
+Los requisitos para el personal del gestor de la infraestructura y del transportista, en particular los requisitos de idoneidad técnica y sanitaria, están establecidos por la ley n.º 266/1994 Sb., el decreto n.º 173/1995 Sb., el decreto n.º 101/1995 Sb., el decreto n.º 16/2012 Sb. y las normas internas del gestor de la infraestructura y del transportista.
+
+En el momento de la aparición de la MU en cuestión, todas las personas del gestor de la infraestructura SŽDC participantes en la MU que desempeñaban actividades en la explotación de la infraestructura poseían la idoneidad técnica para el ejercicio de la función desempeñada.
+
+En el momento de la aparición de la MU en cuestión, todas las personas del transportista ČD participantes en la MU que desempeñaban actividades en la explotación del transporte ferroviario poseían la idoneidad técnica para el ejercicio de la función desempeñada.
+
+### 3.2.3 Procedimientos de control interno de seguridad y de auditoría y sus resultados
+
+En el personal de ČD se realizaron, desde el 1 de enero de 2018 hasta la aparición de la MU, controles efectuados por el inspector de circulación de OCP Východ; al maquinista de la unidad de maniobras se le realizaron un total de cinco controles y al jefe de tren se le realizaron dos controles. En el control del 5 de mayo de 2018 se detectó, en el maquinista, una anomalía en la toma de conocimiento, antes del turno, de los Documentos de toma de conocimiento; en estos controles no se detectaron ninguna otra anomalía en el personal.
+
+En el procedimiento de control interno de seguridad del gestor de la infraestructura y del transportista no se detectaron deficiencias.
+
+### 3.2.4 Interfaz entre los distintos sujetos participantes y los componentes de la vía de circulación
+
+El propietario de la vía férrea de categoría nacional Brno hl. n. – Jihlava es la República Checa. El derecho a administrar los bienes del Estado lo ejerce SŽDC, con domicilio en Dlážděná 1003/7, Praha 1, PSČ 110 00.
+
+El gestor de la vía férrea de categoría nacional Brno hl. n. – Jihlava era SŽDC.
+
+El transportista del tren Os 8353 y de la composición empujada era ČD, con domicilio en Nábřeží L. Svobody 1222, Praha 1, PSČ 110 15.
+
+El transporte ferroviario se explotaba en virtud de un contrato celebrado entre el gestor de la infraestructura SŽDC y el transportista ČD el 21 de agosto de 2013, con efectos a partir del 1 de septiembre de 2013.
+
+En la interfaz entre los sujetos participantes no se detectó ninguna deficiencia.
 
 ## Página 23
+
 
 ### 3.3 Marco legal y otras disposiciones
 ### 3.3.1 Normativa nacional y de la Unión Europea aplicables
@@ -801,8 +746,8 @@ artículo 1755 del reglamento SŽDC D1:
 •
 "Si el maquinista detecta que durante la maniobra con el equipo de maniobra se ha producido una avería o la interrupción de la comunicación por radio, debe detenerse inmediatamente y acordar con el jefe del equipo de maniobra el procedimiento a seguir";
 
-
 ## Página 24
+
 
 artículo 38 del reglamento SŽDC(ČD) Z11:
 •
@@ -851,8 +796,8 @@ Se18 de la SK nº 21a hasta la SK nº 1b;
 se registró el cambio del aspecto en la señal Se18 a la señal
 •
 
-
 ## Página 25
+
 
 "Maniobra permitida" para la ruta de maniobra establecida para la maniobra;
 12.09.48 h
@@ -903,8 +848,8 @@ Hallazgos:
 el uso de la estación de radio móvil por parte del jefe de material rodante era conforme con el funcionamiento de las redes de radio locales en la estación de Jihlava;
 •
 
-
 ## Página 26
+
 
 durante la realización de la maniobra, según la declaración del maquinista, se produjo la interrupción de la comunicación entre el jefe de material rodante y el maquinista de la maniobra, no se determinaron las causas de la pérdida de comunicación.
 •
@@ -937,6 +882,7 @@ Al DV 22-44 188-9, acoplado en primera posición en la maniobra, se le realizó 
 
 ## Página 27
 
+
 Al DV 22-44 317-4, enganchado como segundo en la maniobra de maniobras, se le realizó la revisión técnica periódica antes del origen de la MU el 22. 9. 2017 con validez hasta el 22. 5. 2019, con el resultado de que el vehículo cumple las condiciones de explotación en las vías, respectivamente, que se utiliza en un estado técnico que corresponde a la aptitud aprobada.
 A ambos DV enganchados en la maniobra de maniobras se les realizó el 28. 2. 2019 una inspección colegiada, durante la cual se comprobó el estado y la funcionalidad del sistema de freno del DV, incluida la holgura y el ajuste de las zapatas de freno a los discos de freno. En esta revisión no se detectaron deficiencias ni se detectó en el DV daño alguno derivado de esta MU.
 Las placas en el DV de la maniobra de maniobras (Indicación de frenado SB 2) sirven para la comprobación visual del estado de frenado y de liberación del freno de disco en el DV. En las placas pueden aparecer estados indicativos en los que el campo de observación es verde – freno liberado, o bien rojo – freno aplicado. La indicación cambia en función de la presión en la tubería de freno y funciona automáticamente. El estado inicial es freno liberado (estado desfrenado según la norma ČD V15/I), la presión de conmutación para el cambio a freno aplicado (estado frenado según la norma ČD V15/I) es 0,05 MPa con una posible desviación de cambio de estado de 0,01 MPa. El cambio al estado indicativo inicial es mecánico tras el cambio de presión en el cilindro de freno por acción del muelle de tracción. En el momento de la llegada de los inspectores de la DI al lugar de la MU, las placas tenían el color rojo – frenado.
@@ -949,41 +895,54 @@ Hallazgos:
 Con motivo del origen de la MU, los empleados implicados del explotador de la vía y del transportista, en lo que respecta a la dirección y la seguridad del tráfico, realizaron las actuaciones que se indican a continuación.
 • El jefe de estación de Jihlava estableció la ruta de maniobras para el convoy del tren Os 8353 desde el depósito, vía lateral «DKV Brno PP Jihlava». Según las «Instrucciones para el desempeño del servicio de tráfico en la estación Jihlava», las entradas y salidas regulares de vehículos de tracción de la ČD a y desde la vía lateral «DKV Brno PP Jihlava», que figuraban en las ayudas vigentes al GVD 2018/2019, se consideraban preconcertadas. Asimismo, esto se indicaba también en el reglamento de explotación de enlace
 
-
 ## Página 28
 
-para la vía lateral «DKV Brno PP Jihlava»;
-• Asimismo, el jefe de estación de Jihlava estableció la ruta de maniobras para la maniobra de maniobras desde la SK n.º 19 a la SK n.º 5b. La concertación de la ruta de maniobras la realizó el jefe de maniobras, quien estaba permanentemente autorizado para ello según las «Instrucciones para el desempeño del servicio de tráfico en la estación Jihlava»;
-• En las declaraciones prestadas, el jefe de maniobras indicó que el jefe de estación le había informado de la circulación hacia la SK n.º 5b ocupada; la DI no constató en los registros del dispositivo de registro la entrega de tal información por parte del jefe de estación. El jefe de maniobras indicó que informó al maquinista del procedimiento de la maniobra prevista y, antes de empujar la maniobra de maniobras desde la SK n.º 1a, indicó a la vez la información sobre la circulación hacia la SK n.º 5b ocupada. El maquinista, en las declaraciones prestadas, confirma esto;
-• El jefe de maniobras, al frente de la maniobra de maniobras, daba instrucciones al maquinista para la circulación hacia la SK n.º 5b. Aproximadamente cada 50 m daba instrucciones durante la circulación por la SK n.º 5 y después, a la misma distancia antes de la señal Sc5, sobre la ruta de maniobras establecida hacia la SK n.º 5b ocupada y a la vez le informaba de una distancia de aprox. 150 m al punto de detención. A una distancia de 100 m del punto de detención, el maquinista reaccionó reduciendo la velocidad. A una distancia de aprox. 80 m del punto de detención, le dio al maquinista tres veces la señal «Poco a poco» y luego, a una distancia de aprox. 40 m antes del convoy del tren Os 8353, le dio repetidamente la señal «Alto, deténgase por todos los medios». Tras la colisión con el convoy del tren Os 8353, bajó de la maniobra de maniobras y el maquinista le dijo que no había oído las señales que le daba. Al prestar declaración a la DI, el jefe de maniobras indicó que a unos 200 m y 150 m antes del punto de detención dio la instrucción «tren 14870 en Jihlava en la vía 5 por maniobra» y después la información sobre el establecimiento de la ruta de maniobras desde la SK n.º 5 a la SK n.º 5b ocupada. Además, a distancias de 100, 80 y 60 m antes del punto de detención «tren 14870 en Jihlava por maniobra» y a una distancia de 40 m antes del punto de detención, daba repetidamente la señal «Alto, deténgase por todos los medios».
-Se detectó una deficiencia.
-Hallazgos:
-• No fueron cumplidas por el maquinista de la maniobra de maniobras las instrucciones dadas por el jefe de maniobras al frente de la maniobra de maniobras, respectivamente, ante la pérdida de conexión no hubo una reacción adecuada del maquinista y la detención inmediata de la maniobra de maniobras;
-• De la documentación requerida (reglamento de explotación de enlace, es decir, el anexo del reglamento de estación en el que se indicaba el nombre de la vía lateral «DKV Brno PP Jihlava»), se constató que se produjo un cambio de nombre de la vía lateral a «ČD, a.s. - Jihlava», pero no se produjo cambio alguno en la documentación correspondiente. Este estado de la documentación no guarda relación con el origen de la MU;
-• La información dada por el jefe de estación al jefe de maniobras sobre la circulación hacia la vía ocupada no consta en los registros;
-• La comunicación entre el jefe de maniobras y el maquinista de la maniobra de maniobras no está grabada, pero puede presumirse que ambos empleados sabían de la circulación hacia la SK n.º 5b ocupada, entre otros motivos porque el maquinista indicó que ya había formado previamente esta maniobra de maniobras hacia la SK n.º 5b ocupada y que el tren Os 8353 se formaba regularmente más allá, en dirección al extremo del andén.
+del reglamento para el apartadero „DKV Brno PP Jihlava“;
+• además, el jefe de estación de la estación de Jihlava estableció una vía de maniobras para la sección de maniobras desde la vía de clasificación n.º 19 a la vía de clasificación n.º 5b. La solicitud de la vía de maniobras fue realizada por el jefe de tren, quien estaba permanentemente autorizado para ello según las „Instrucciones para el desempeño del servicio de tráfico en la estación de Jihlava“;
+• en las explicaciones presentadas, el jefe de tren indicó que el jefe de estación le informó de la circulación sobre la vía de clasificación n.º 5b ocupada; por parte del jefe de estación no se constató en los registros del dispositivo registrador la presentación de dicha información. El jefe de tren indicó que informó al maquinista sobre el procedimiento de la maniobra prevista y, antes de empujar la sección de maniobras desde la vía de clasificación n.º 1a, indicó a la vez información sobre la circulación sobre la vía de clasificación n.º 5b ocupada. El maquinista, en las explicaciones presentadas, lo confirma;
+• el jefe de tren, a la cabeza de la sección de maniobras, daba instrucciones al maquinista para circular sobre la vía de clasificación n.º 5b. Aproximadamente cada 50 m daba instrucciones durante la circulación por la vía de clasificación n.º 5 y, a continuación, a la misma distancia antes de la señal Sc5, sobre la vía de maniobras establecida hacia la vía de clasificación n.º 5b ocupada, y a la vez le informaba de la distancia de unos 150 m hasta el punto de detención. A una distancia de 100 m antes del punto de detención, el maquinista reaccionó reduciendo la velocidad. A una distancia de unos 80 m hasta el punto de detención, daba al maquinista tres veces la señal „Pomalu“ (Despacio) y, a continuación, a unos 40 m antes del tren Os 8353, le daba repetidamente la señal „Stůj, zastavte všemi prostředky“ (Alto, deténgase por todos los medios). Tras la colisión con el tren Os 8353, descendió de la sección de maniobras y el maquinista le dijo que no había oído las señales que daba. Al prestar declaración ante el investigador, el jefe de tren indicó que a unos 200 m y 150 m antes del punto de detención dio la instrucción „vlak 14870 v Jihlavě na 5. koleji sunem“ (tren 14870 en Jihlava en la vía 5, empujando) y, a continuación, la información sobre el establecimiento de la vía de maniobras desde la vía de clasificación n.º 5 hacia la vía de clasificación n.º 5b ocupada. Además, a una distancia de 100, 80 y 60 m antes del punto de detención „vlak 14870 v Jihlavě sunem“ (tren 14870 en Jihlava, empujando) y a una distancia de 40 m antes del punto de detención, daba repetidamente la señal „Stůj, zastavte všemi prostředky“ (Alto, deténgase por todos los medios).
 
+Se constató una deficiencia.
+
+Hallazgos:
+
+• por parte del maquinista de la sección de maniobras no se cumplieron las instrucciones dadas por el jefe de tren a la cabeza de la sección de maniobras, es decir, ante la pérdida de comunicación no hubo una reacción adecuada del maquinista ni la detención inmediata de la sección de maniobras;
+• de la documentación solicitada (el reglamento de servicio de enlace, es decir, el anexo del reglamento de estación, en el que figuraba el nombre del apartadero „DKV Brno PP Jihlava“), se constató que se produjo un cambio de nombre del apartadero a „ČD, a.s. - Jihlava“, pero no se produjo un cambio en la documentación correspondiente. Este estado de la documentación no guarda relación con la aparición del MU (incidente mayor);
+• la información dada por el jefe de estación al jefe de tren sobre la circulación sobre la vía ocupada no se constató en los registros;
+• la comunicación entre el jefe de tren y el maquinista de la sección de maniobras no se graba, pero puede presumirse que ambos empleados sabían de la circulación sobre la vía de clasificación n.º 5b ocupada, entre otras razones porque el maquinista indicó que esta sección de maniobras hacia la vía de clasificación n.º 5b ocupada ya la había posicionado anteriormente y que el tren Os 8353 se posicionaba regularmente más allá, en dirección al extremo del andén.
 
 ## Página 29
 
-3.5.2 Intercambio de comunicaciones orales con motivo del suceso excepcional, incluidos los datos del dispositivo de registro
-Con la formación del convoy del tren Os 8353 en la SK n.º 5b se produjo la concertación de la maniobra entre el maquinista del tren y el jefe de estación de Jihlava. Con la concertación de la circulación de la maniobra de maniobras hacia la SK n.º 5b se produjo la concertación de la maniobra entre el jefe de maniobras y el jefe de estación de Jihlava, y además se desarrollaba la comunicación entre el jefe de maniobras y el maquinista de la maniobra de maniobras (esta comunicación no fue grabada).
-De los registros de la comunicación radiofónica grabada se desprende:
-• Entre las 12.03 – 12.08 h se produjeron tres llamadas y se concertó la ruta de maniobras para el convoy del tren Os 8353 desde el depósito (vía lateral ČD, a.s. - Jihlava), desde la vía 101 a la SK n.º 5b, con indicación del final de la ruta de maniobras «antes de la vía de circulación»;
-• A las 12.08 h se concertó la ruta de maniobras para la maniobra de maniobras desde la SK n.º 19 a la SK n.º 5b con la redacción «circulación (indicado el nombre de pila del jefe de estación), como se pueda desde detrás de la caseta bajo el puente y a la 5b». Esta concertación la confirmó el jefe de estación con la palabra «entendido».
+3.5.2 Intercambio de comunicaciones orales en relación con el suceso excepcional, incluidos los datos del registrador
+En el acoplamiento del tren Os 8353 en la SK n.º 5b se acordó la maniobra entre el maquinista del tren y el jefe de estación de Jihlava. En el acuerdo de la marcha de la unidad de maniobra a la SK n.º 5b se acordó la maniobra entre el jefe de vagones y el jefe de estación de Jihlava, y además se mantenía comunicación entre el jefe de vagones y el maquinista de la unidad de maniobra (esta comunicación no fue registrada).
+De los registros de la comunicación radio grabada se desprende:
+entre las 12.03 y las 12.08 h se realizaron tres llamadas y se acordó la ruta de maniobra para la
+•
+unidad de tren Os 8353 desde el depósito (vías privadas ČD, a.s. - Jihlava), desde la vía 101 a la SK n.º 5b, indicando el final de la ruta de maniobra «antes de la vía principal»;
+a las 12.08 h se acordó la ruta de maniobra para la unidad de maniobra desde la SK n.º 19 a la SK n.º 5b
+•
+con la redacción «vía principal (indicado el nombre de pila del jefe de estación), como se pueda pasar por detrás del cobertizo, bajo el puente y a la 5b». Este acuerdo lo confirmó el jefe de estación con la palabra «entendido».
 No se detectaron deficiencias.
 ### 3.5.3 Medidas adoptadas para la protección y la seguridad del lugar del suceso excepcional
-El lugar de la MU fue asegurado por la persona cualificada y competente designada del explotador de la vía y del transportista, de conformidad con el decreto n.º 376/2006 Sb.
+El lugar del SE fue asegurado por la persona competente y cualificada designada del gestor de la infraestructura y del transportista, de conformidad con el decreto n.º 376/2006 Sb.
 ### 3.6 Condiciones laborales, sanitarias y de explotación
-### 3.6.1 Jornada laboral de los empleados del explotador de la vía y del transportista que fueron participantes en el suceso excepcional
-• Maquinista de la maniobra de maniobras, en turno del 26. 2. 2019 desde las 11.10 h, descanso previo al turno 13.05 h; la pausa para comida y descanso no se disfrutó antes del origen de la MU;
-• Jefe de maniobras, en turno del 26. 2. 2019 desde las 8.10 h, descanso previo al turno 48.20 h; la pausa para comida y descanso se disfrutó desde las 10.40 h hasta las 11.10 h;
-• Maquinista del tren Os 8353, en turno del 26. 2. 2019 desde las 3.29 h, descanso previo al turno 34.29 h. La pausa para comida y descanso se disfrutó en horarios de explotación adecuados;
-• Jefe de estación de Jihlava, en turno del 26. 2. 2019 desde las 5.08 h, descanso previo al turno de más de 48 h. La pausa para comida y descanso se disfrutó en horarios de explotación adecuados.
-Los empleadores garantizaron las condiciones para el descanso previo al turno y durante el turno, de conformidad con la ley n.º 262/2006 Sb., respectivamente, con el decreto gubernamental n.º 589/2006 Sb., por el que se establece la regulación diferenciada de la jornada laboral y del tiempo de descanso de los empleados en el transporte.
-
+### 3.6.1 Jornada laboral de los empleados del gestor de la infraestructura y del transportista que participaron en el suceso excepcional
+maquinista de la unidad de maniobra, en el turno del 26. 2. 2019 desde las 11.10 h, descanso
+•
+previo al turno de 13.05 h; la pausa para comida y descanso no se disfrutó antes de la ocurrencia del SE;
+jefe de vagones, en el turno del 26. 2. 2019 desde las 8.10 h, descanso previo al turno de 48.20 h;
+•
+la pausa para comida y descanso se disfrutó desde las 10.40 h hasta las 11.10 h;
+maquinista del tren Os 8353, en el turno del 26. 2. 2019 desde las 3.29 h, descanso previo al
+•
+turno de 34.29 h. La pausa para comida y descanso se disfrutó en horarios de explotación adecuados;
+jefe de estación de Jihlava, en el turno del 26. 2. 2019 desde las 5.08 h, descanso previo al
+•
+turno de más de 48 h. La pausa para comida y descanso se disfrutó en horarios de explotación adecuados.
+Los empleadores garantizaron las condiciones para el descanso previo al turno y durante el turno, de conformidad con la ley n.º 262/2006 Sb., o con el decreto gubernamental n.º 589/2006 Sb., por el que se establece la regulación diferenciada de la jornada laboral y del tiempo de descanso de los empleados en el transporte.
 
 ## Página 30
+
 
 3.6.2 Estado de salud y situación personal que tuvieron incidencia en el suceso excepcional, incluido el estrés físico o psicológico
 Los empleados implicados del explotador de la vía y del transportista estaban, en el momento del origen de la MU, sanos y aptos para el desempeño de la función que ocupaban. La investigación no constató que la situación personal o el estado psicológico de las personas implicadas en la MU tuvieran influencia en el origen de la MU.
@@ -998,25 +957,29 @@ En el periodo antes mencionado, en las vías ferroviarias, categorías nacional 
 
 ## Página 31
 
-MU, las instrucciones para garantizar la seguridad durante la maniobra eran insuficientes por parte del jefe de cuadrilla de maniobras al maquinista. La causa fundamental fue el incumplimiento de los procedimientos tecnológicos del gestor de la vía y del transportista para las actividades relacionadas con la ejecución de la maniobra por parte del empleado del transportista implicado – el jefe de cuadrilla de maniobras.
+MU, las instrucciones para garantizar la seguridad durante las maniobras de maniobra eran insuficientes por parte del jefe de cuadrilla de maniobras al maquinista. La causa fundamental fue el incumplimiento de los procedimientos tecnológicos del gestor de la infraestructura ferroviaria y del transportista para las actividades relacionadas con la realización de maniobras por parte del empleado del transportista implicado: el jefe de cuadrilla de maniobras.
 ## 4 ANÁLISIS Y CONCLUSIONES
 ### 4.1 Descripción final del suceso ferroviario
-### 4.1.1 Elaboración de las conclusiones sobre el suceso ferroviario basadas en los hechos establecidos en el punto 3
-El 26. 2. 2019 debían ser estacionadas en la est. Jihlava, en la SK n.º 5b, en el marco de los estacionamientos regulares, las composiciones para los trenes Os 8353 y Os 14870. La composición del tren Os 8353, reubicada a través de la SK n.º 4a, llegó a la SK n.º 5b desde el depósito, vía lateral ČD, a.s. - Jihlava, desde la vía 101. El lugar de parada de esta composición fue determinado por el jefe de estación delante de la oficina de tráfico y la composición se detuvo allí a la altura del paso de servicio a través de la SK n.º 5b, delante del paso para pasajeros frente al refugio del encargado de carga del transporte.
-El tramo de maniobra (la composición del tren Os 14870) fue mientras tanto estacionado en la SK n.º 19, desde donde el jefe de maniobras acordó la ruta de maniobra para la reubicación a través de la SK n.º 1b y, a continuación, mediante empuje, el tramo de maniobra, compuesto por dos DV y un HDV, hasta la SK n.º 5b. A las 12.09.39 h se estableció la ruta de maniobra desde la señal Se18 en la SK n.º 1b y, encendiendo la señal «Maniobra permitida», el jefe de estación de Jihlava dio su consentimiento para la maniobra; a continuación, el tramo de maniobra se puso en marcha y llegó a la SK n.º 1b, tras la señal Se21. A las 12.10.52 h el jefe de estación estableció la ruta de maniobra desde la señal Se21 a través de la SK n.º 5 hasta la SK n.º 5b, en la que ya se encontraba el tren Os 8353. Durante la maniobra por empuje, el jefe de maniobras se encontraba a la cabeza del tramo de maniobra y, mediante estación de radio móvil, daba instrucciones de marcha al maquinista. El tramo de maniobra se puso en marcha desde la señal Se21 en dirección a la SK n.º 5b ocupada a las 12.11 h y transitó por la SK n.º 5. A continuación, durante la marcha posterior, según la declaración del maquinista, se produjo la pérdida de comunicación entre el jefe de maniobras y él, y antes de que el maquinista se diera cuenta de esta interrupción en la comunicación y comenzara a frenar el tramo de maniobra, se produjo, a una velocidad de 10 km.h-1, la colisión con el tren Os 8353 detenido.
+### 4.1.1 Elaboración de las conclusiones sobre el suceso ferroviario basadas en los hechos 
+establecidos en el punto 3
+El 26. 2. 2019, en la est. Jihlava, debían haber sido colocadas en la SK n.º 5b, en el marco de las colocaciones regulares, las composiciones para los trenes Os 8353 y Os 14870. La composición del tren Os 8353, reubicada a través de la SK n.º 4a, llegó a la SK n.º 5b desde el depósito, vía lateral de ČD, a.s. - Jihlava, desde la vía 101. El lugar de parada de esta composición fue determinado por el jefe de estación delante de la oficina de tráfico y la composición se detuvo allí a la altura del paso de servicio a través de la SK n.º 5b, delante del paso para pasajeros frente al refugio del encargado de transporte.
+El tramo de maniobra (composición del tren Os 14870) fue mientras tanto estacionado en la SK n.º 19, desde donde el jefe de maniobras acordó la ruta de maniobra para la reubicación a través de la SK n.º 1b y, a continuación, mediante empuje del tramo de maniobra, compuesto por dos DV y HDV, hacia la SK n.º 5b. A las 12.09.39 h se estableció la ruta de maniobra desde la señal Se18 hacia la SK n.º 1b y, con la iluminación de la señal "Maniobra permitida", el jefe de estación de Jihlava dio su consentimiento para la maniobra; a continuación, el tramo de maniobra se puso en marcha y llegó a la SK n.º 1b tras la señal Se21. A las 12.10.52 h, el jefe de estación estableció la ruta de maniobra desde la señal Se21 a través de la SK n.º 5 hacia la SK n.º 5b, en la que ya se encontraba el tren Os 8353. Durante la maniobra por empuje, el jefe de maniobras se encontraba en la cabeza del tramo de maniobra y daba instrucciones al maquinista mediante estación de radio móvil. El tramo de maniobra se puso en marcha desde la señal Se21 en dirección a la SK n.º 5b ocupada a las 12.11 h y pasó por la SK n.º 5. A continuación, durante la marcha posterior, según la declaración del maquinista, se produjo la pérdida de comunicación entre el jefe de maniobras y él, y antes de que el maquinista se diera cuenta de esta interrupción en la comunicación y comenzara a frenar con el tramo de maniobra, se produjo, a una velocidad de 10 km.h-1, la colisión con el tren Os 8353 detenido.
 Dado que dos pasajeros habían subido a la composición del tren Os 8353, la colisión provocó su caída de los asientos y sus lesiones. La colisión no causó daños materiales en ninguno de los vehículos ferroviarios.
 ### 4.2 Análisis
-### 4.2.1 Evaluación de los hechos establecidos en el punto 3 y formulación de conclusiones sobre la causa del suceso ferroviario y la actuación de los servicios de rescate
-La DI, al determinar las causas y las circunstancias de la MU en cuestión, partió de sus propios conocimientos en el lugar de la MU, de su propia documentación realizada, de la documentación del gestor de la vía, del transportista y de la PČR, de los datos del dispositivo de registro ReDat, de los datos del archivo SZZ de la est. Jihlava y de los datos registrados por los velocímetros del tramo de maniobra y del tren Os 8353. Debido a la ausencia de registro (las llamadas en el canal n.º 23 de la red de radio de la est. Jihlava no se grababan), también de las actas con los empleados implicados en la MU y de las explicaciones presentadas por estos empleados a la DI.
+### 4.2.1 Evaluación de los hechos establecidos en el punto 3 y exposición de las conclusiones sobre la causa del suceso ferroviario y la actuación de los servicios de emergencia
+La DI partió, para la determinación de las causas y circunstancias de la producción del citado MU, de sus propios conocimientos en el lugar de producción del MU, de su propia documentación realizada, de la documentación del gestor de la infraestructura ferroviaria
 
 ## Página 32
 
-El acuerdo de la maniobra para el estacionamiento de la composición del tren Os 8353 en la est. Jihlava se realizó entre el maquinista y el jefe de estación en el canal n.º 12 a las 12.03 h; se intercambiaron información sobre la composición preparada para el tren Os 8353 en la vía 101. La composición del tren debía estar en el límite de las vías a las 11.54 h. El jefe de estación dio a continuación su consentimiento para la maniobra encendiendo la señal «Maniobra permitida» en la señal Se12 y la composición fue reubicada a través de la SK n.º 4a y posteriormente hasta la SK n.º 5b. A las 12.08.32 h se produjo una comunicación adicional del jefe de estación con el maquinista de la maniobra para el tren Os 8353, en la que se informó al maquinista de que debía circular hasta la SK n.º 5b delante de la oficina de tráfico, y respondió que entendía.
-El jefe de maniobras, antes de la maniobra propiamente dicha del tramo de maniobra en la SK n.º 19, realizó la comprobación de la limpieza de la composición, verificó que los DV estaban libres, que no había topes colocados, realizó la prueba del freno y, a continuación, acordó con el jefe de estación, mediante estación de radio móvil en el canal n.º 12, la maniobra. En el momento de acordar la maniobra se encontraba en el desvío n.º 36. El maquinista del tramo de maniobra, según su declaración a la DI, realizó la prueba básica de frenos en el HDV y, a continuación, acordó con el jefe de maniobras el procedimiento de la maniobra prevista, quien la acordaba con el jefe de estación. El jefe de maniobras le informó de que la comunicación se realizaría en el canal n.º 23, tal como está determinado en el «Reglamento de explotación de las redes de radio locales PO Jihlava». Sobre el acuerdo de la maniobra, el jefe de maniobras le informó en este canal. Con base en lo anterior, el jefe de maniobras acordó la maniobra mediante estación de radio móvil a las 12.08.11 h en el canal n.º 12 con el siguiente texto: «Tráfico (a continuación indicó el nombre de pila del jefe de estación), cómo irá desde detrás del almacén, por debajo del puente y hasta la 5b.», el jefe de estación respondió «Entendido.». A continuación, el jefe de estación dio su consentimiento para la maniobra encendiendo la señal «Maniobra permitida» a las 12.09.15 h en la señal Se18 y a las 12.10.51 h se estableció posteriormente la ruta de maniobra desde la SK n.º 1b a través de la SK n.º 5 hasta la SK n.º 5b.
-Al investigar de qué manera se daban las instrucciones durante la maniobra del tramo de maniobra, la DI parte únicamente de la información indicada en las actas con los empleados y de las explicaciones presentadas a la DI, debido a la ausencia de registros del dispositivo ReDat (las llamadas realizadas en la red de radio en el canal n.º 23 no se registran). Con base en los registros del archivo SZZ y en los registros del dispositivo ReDat en la est. Jihlava, puede constatarse que el acuerdo y las marchas de las maniobras anteriores se encuentran en orden cronológico y se suceden mutuamente. Sin embargo, no puede constatarse con certeza de qué manera se daban las señales durante la marcha del tramo de maniobra, es decir, especialmente desde una distancia de 150 m hasta el lugar de parada, es decir, aproximadamente desde la altura de la señal Sc5. Un punto coincidente en las declaraciones es la pérdida de comunicación entre el maquinista y el jefe de maniobras en un momento determinado, a una distancia de aproximadamente 100 m del lugar previsto de parada del tramo de maniobra. Los pormenores y la evaluación de este acuerdo, así como el análisis de la información intercambiada antes del inicio de la maniobra propiamente dicha y durante la misma, se indican en el capítulo 3.5.1 de la presente ZZ.
-El maquinista del tramo de maniobra añadió que verificó el funcionamiento del freno continuo al detenerse en la SK n.º 1a. Según su declaración, la última información que escuchó del jefe de maniobras durante la marcha a través de la SK n.º 5 hasta la SK n.º 5b fue a unos 100 m del lugar de parada (aunque no conocía el lugar exacto de
+ferrocarriles, el explotador y la PČR, de los datos del dispositivo de registro ReDat, de los datos del archivo SZZ de la estación de Jihlava y de los datos registrados de los velocímetros de la unidad de maniobras y del tren Os 8353.
+Debido a la ausencia de registro (las conversaciones en el canal n.º 23 de la red radiofónica de la estación de Jihlava no fueron grabadas), también de las actas con los empleados participantes en la MU y de las explicaciones presentadas por estos empleados ante la DI.
+La acordada maniobra para la colocación del convoy del tren Os 8353 en la estación de Jihlava se realizó entre el maquinista y el jefe de estación en el canal n.º 12 a las 12.03 h, se intercambiaron la información sobre el convoy preparado para el tren Os 8353 en la vía 101. El convoy del tren debía estar en el límite de los ferrocarriles a las 11.54 h. El jefe de estación posteriormente concedió, mediante la iluminación de la señal «Maniobras permitidas» en la señal Se12, el permiso para la maniobra y el convoy fue trasladado a través de la SC n.º 4a y posteriormente a la SC n.º 5b. A las 12.08.32 h se produjo una comunicación adicional entre el jefe de estación y el maquinista de maniobras para el tren Os 8353, cuando el maquinista fue informado de que circulaba por la SC n.º 5b hasta la oficina de tráfico y respondió que entendía.
+El jefe de convoy realizó, antes de la propia maniobra de la unidad de maniobras en la SC n.º 19, la comprobación de la limpieza del convoy, verificó que las DV estaban libres, que no había topes colocados, realizó la prueba de freno y a continuación acordó con el jefe de estación, mediante el equipo de radio móvil en el canal n.º 12, la maniobra. En el momento de acordar la maniobra se encontraba en el desvío n.º 36. El maquinista de la unidad de maniobras, según su declaración ante la DI, realizó la prueba básica de frenos en el HDV y a continuación acordó el procedimiento de la maniobra prevista con el jefe de convoy, quien la acordaba con el jefe de estación. El jefe de convoy le informó de que la comunicación se realizaría en el canal n.º 23, tal como está establecido en el «Reglamento de explotación de las redes radiofónicas locales PO Jihlava». Sobre el acuerdo de la maniobra, el jefe de convoy le informó en este canal. Con base en lo anterior, el jefe de convoy acordó la maniobra mediante el equipo de radio móvil a las 12.08.11 h en el canal n.º 12 con el siguiente texto: «Tráfico (a continuación indicó el nombre de pila del jefe de estación), cómo se hará desde detrás del cobertizo bajo el puente y a la 5b.», el jefe de estación respondió «Entendido.». Posteriormente, el jefe de estación concedió, mediante la iluminación de la señal «Maniobras permitidas» a las 12.09.15 h en la señal Se18, el permiso para la maniobra y a las 12.10.51 h se estableció además la ruta de maniobras desde la SC n.º 1b a través de la SC n.º 5 hasta la SC n.º 5b.
+Al investigar de qué manera se emitieron las instrucciones durante la maniobra de la unidad de maniobras, la DI parte únicamente de la información indicada en las actas con los empleados y de las explicaciones presentadas ante la DI, debido a la ausencia de registros del dispositivo ReDat (las conversaciones realizadas en la red radiofónica en el canal n.º 23 no se registran). Con respecto a los registros del archivo SZZ y a los registros del dispositivo ReDat en la estación de Jihlava, se puede constatar que el acuerdo y los desplazamientos de las maniobras anteriormente indicadas son cronológicamente consecutivos y se enlazan entre sí. Sin embargo, no se puede constatar con certeza de qué manera se emitían las señales durante el desplazamiento de la unidad de maniobras, en particular desde una distancia de 150 m hasta el lugar de detención, es decir, aproximadamente desde el nivel de la señal Sc5. Un punto coincidente en las declaraciones es la pérdida de comunicación entre el maquinista y el jefe de convoy en un momento determinado a una distancia de aproximadamente 100 m antes del lugar previsto de detención de la unidad de maniobras. Los pormenores y la evaluación de este acuerdo y el análisis de la información transmitida antes del propio inicio de la maniobra y durante su desarrollo se indican en el capítulo 3.5.1 de la presente ZZ.
+El maquinista de la unidad de maniobras añadió que verificó el funcionamiento del freno continuo al detenerse en la SC n.º 1a. Según su declaración, la última información que oyó del jefe de convoy durante el desplazamiento a través de la SC n.º 5 hasta la SC n.º 5b fue a unos 100 m antes del lugar de detención (lugar exacto
 
 ## Página 33
+
 
 parada). En la explicación presentada a la DI indicó que, en cuanto se aproximaba a la señal Lc5b situada en el pórtico sobre la SK n.º 5b, comenzó a reducir la velocidad, porque sabía que se aproximaba al lugar de parada; a continuación, circuló a una velocidad máxima de 10 km.h-1. Añadió que la maniobra transcurrió con normalidad hasta que se dio cuenta de que no tenía comunicación con el jefe de maniobras y de que el tramo de maniobra no respondía adecuadamente al frenado y le parecía que solo frenaba el HDV. A la altura del edificio para el personal de tren registró que no escuchaba la distancia hasta el lugar de parada y comenzó a frenar intensamente, según su declaración, primero con el freno automático y después también con el freno directo. Según la evaluación del velocímetro del HDV 242 211-1, se utilizó el frenado de acción rápida y el tramo de maniobra redujo su velocidad en 16 km.h-1 (se produjo un frenado intenso) y, a continuación, la colisión.
 El maquinista del tramo de maniobra indicó que, al frenar con el freno continuo, le parecía que solo frenaba el freno directo, es decir, que solo frenaba el HDV del tramo de maniobra. En tal caso (e incluso teniendo en cuenta la exclusión de una avería técnica en el HDV y los DV del tramo de maniobra tras la MU), el uso posterior del freno directo no habría provocado un cambio en las clonks al frenar el tramo de maniobra. Si hubiera frenado también automáticamente, las clonks deberían haber quedado en rojo tras la parada; si hubiera frenado directamente durante todo el tiempo, habrían permanecido en verde tras la MU y, por ejemplo, una eventual maniobra posterior tras la MU podría haber provocado el cambio del color de las clonks de verde a rojo. En el acta con el empleado, el maquinista también indicó que tras la parada (la colisión), en el momento en que regresaba a la cabina del maquinista, las clonks de ambos DV del tramo de maniobra señalizaban el estado de desfrenado, a pesar de que (según su declaración) había utilizado el freno continuo. En la explicación presentada a la DI, el maquinista también indicó que, aunque el tramo de maniobra estuviera frenado con este freno, las clonks en los DV señalizaban el estado de desfrenado (lo cual solo habría ocurrido si hubiera frenado únicamente con el freno directo). Esta situación fue examinada por la DI durante una prueba de verificación en el lugar de la MU, durante la marcha con el tramo de maniobra. El estado de las clonks en el que, al utilizar el freno continuo, señalizaran el estado de desfrenado (verde, como afirmaba el maquinista), tanto en la marcha hacia adelante como en la marcha por empuje, no se alcanzó (véase el art. 2.1.2 de la presente ZZ). Además, durante esta prueba no se produjo ni una sola interrupción en la comunicación entre el maquinista y el jefe de maniobras al utilizar la estación de radio móvil empleada por el jefe de maniobras en el momento de la MU.
@@ -1028,36 +991,28 @@ las instrucciones a 100 m del lugar de parada, aproximadamente a la altura del e
 el maquinista, al presentar la explicación a la DI, añadió que se concentró en las instrucciones en
 •
 
-
 ## Página 34
 
-el transmisor y, durante la marcha, miraba por la ventana del lado derecho en la dirección de la marcha de la maniobra hacia los edificios para orientarse sobre la distancia a la que se encontraba del pórtico (señal Lc5b) sobre la SK n.º 5b;
-la distancia de la señal Lc5b desde el lugar donde debía detenerse el tramo de maniobra equivale casi
-•
-a la longitud de este tramo de maniobra;
-en la parada habitual de la composición del tren Os 8353 y del tramo de maniobra junto al andén
-•
-n.º 1 en la SK n.º 5b, la composición del tren Os 8353 suele estar más cerca de la señal S5b en el extremo opuesto del andén, y el tramo de maniobra suele quedar con el frente del 1.º TDV delante del segundo paso para pasajeros, situado según el reglamento de estación frente al refugio para el encargado de carga del transporte;
-en la parada habitual de la composición del tren Os 8353 y del tramo de maniobra, los DV se encuentran
-•
-separados a unos 47 m y la composición del tren Os 8353 suele estar a unos 5,5 m de la señal S5b;
-el tren Os 8353 se encontraba esta vez excepcionalmente a 33 m más lejos de la señal S5b, es decir, más
-•
-cerca en dirección al tramo de maniobra que se aproximaba.
-Fig. n.º 3: Descripción detallada del lugar de la MU
+en el transmisor y durante la marcha miraba por la ventana del lado derecho en el sentido de la maniobra hacia los edificios para orientarse en qué distancia se encontraba del krakorec (señal Lc5b) sobre SK n.º 5b;
+la distancia de la señal Lc5b desde el lugar donde debía detenerse la unidad de maniobra equivale casi a la longitud de esta unidad de maniobra;
+en la parada habitual del tren Os 8353 y de la unidad de maniobra en el andén n.º 1 de SK n.º 5b, la composición del tren Os 8353 suele estar más cerca de la señal S5b en el extremo opuesto del andén, y la unidad de maniobra suele tener la cara de la 1.ª TDV delante del segundo paso para pasajeros, situado según el reglamento de estación frente al refugio del encargado de carga;
+en la parada habitual del tren Os 8353 y de la unidad de maniobra, las DV se encuentran separadas entre sí a unos 47 m y la composición del tren Os 8353 suele estar a unos 5,5 m antes de la señal S5b;
+esta vez el tren Os 8353 se encontraba excepcionalmente a 33 m más lejos de la señal S5b, es decir, más cerca en dirección hacia la unidad de maniobra que llegaba.
+Fig. n.º 3: Descripción detallada del lugar de origen del MU
     Fuente: mapy.cz
 1 − andén n.º 1
-2 − lugar de parada del tren Os 8353 en el momento de la MU
-3 − paso para pasajeros (frente al refugio del encargado de carga del transporte)
-4 − señal Lc5b situada en el pórtico
+2 − lugar de parada del tren Os 8353 en el momento de origen del MU
+3 − paso para pasajeros (frente al refugio del encargado de carga)
+4 − señal Lc5b situada sobre el krakorec
 5 − señal Sc5
-6 − edificio para el personal de tren
-7 − SK n.º 19, lugar de estacionamiento del tramo de maniobra (composición del tren Os 14870)
+6 − edificio para el personal del tren
+7 − Sk n.º 19, lugar de estacionamiento de la unidad de maniobra (composición del tren Os 14870)
 8 − señal S5b
-9 − lugar habitual de estacionamiento del tren Os 8353
-10 − lugar habitual de estacionamiento del tramo de maniobra
+9 − lugar habitual de parada del tren Os 8353
+10 − lugar habitual de parada de la unidad de maniobra
 
 ## Página 35
+
 
 Del análisis del registrador de velocidad se desprende que el maquinista comenzó a frenar a una distancia de aproximadamente 123 m (desde la posición del maquinista) del lugar de detención, momento en el que redujo la velocidad de la maniobra de 26 km.h-1 a 10 km.h-1 y, a continuación, se produjo la colisión. El jefe de maniobras se encontraba en ese instante a una distancia de aproximadamente 50 m del tren detenido Os 8353 (se encontraba en la cabeza de la maniobra). Dada la longitud de la maniobra, la activación de la frenada de acción rápida por parte del maquinista corresponde aproximadamente a una distancia de 40 m antes del poste (señal Lc5b) sobre Sk n.º 5b, cuando ya se encontraba en el campo de visión del maquinista el edificio para los equipos de tren, como él mismo indicó. Al prestar declaración, el maquinista indicó que el tren Os 8353 no se encontraba, como era habitual, al final del andén n.º 1, sino en medio del mismo. En la comprobación posterior del estado y la documentación de la colocación de ambos trenes en la SK n.º 5b, la maniobra se situó en esta vía antes del paso para pasajeros frente al refugio del encargado de transporte.
 
@@ -1066,31 +1021,34 @@ En relación con el estado de las paletas en el DV, que tras la producción de l
       Fuente: DI
 El maquinista de la maniobra se concentró, durante el empuje, en el lugar donde se encontraba con la maniobra, ya que en esta marcha estimaba el lugar de detención (no se le conocía el lugar exacto), y no registró que se hubiera perdido la conexión con el jefe de vagones. En cuanto se aproximaba a la SK n.º 5b, cuando se encontraba con el HDV entre la señal de salida Sc5 (SK n.º 5) y la señal Lc5b en el poste sobre la 5.ª SK, comenzó a frenar intensamente con la maniobra y, durante
 
-
 ## Página 36
 
-dicha frenada, se produjo el impacto contra el tren detenido Os 8353 a una velocidad de 10 km.h-1
+de este frenado se produjo un choque contra la composición detenida del tren Os 8353 a una velocidad de 10 km·h-1
 ### 4.3 Conclusiones
-4.3.1 Causas directas e inmediatas del suceso excepcional, incluidos los factores que contribuyeron al mismo y que estuvieron relacionados con la actuación de las personas implicadas o con el estado del material rodante o de las instalaciones técnicas
-La causa inmediata del suceso excepcional fue:
-La pérdida de comunicación con el jefe de maniobras no registrada por el maquinista y la •
-consiguiente falta de detención inmediata de la maniobra.
+4.3.1 Causas directas e inmediatas del suceso, incluidos los factores que contribuyeron al mismo y que estuvieron relacionados con la actuación de las personas implicadas o con el estado de los vehículos ferroviarios o de las instalaciones técnicas
+La causa inmediata del suceso fue:
+la pérdida de comunicación con el jefe de maniobras no registrada por el maquinista y la
+•
+consiguiente falta de detención inmediata de la unidad de maniobras.
 ### 4.3.2 Causas fundamentales relacionadas con la cualificación, los procedimientos y el mantenimiento
-La causa fundamental del suceso excepcional fue:
-El incumplimiento de las disposiciones de los procedimientos tecnológicos por parte del •
-maquinista de la maniobra en caso de interrupción de la comunicación por radio durante la maniobra.
-### 4.3.3 Causas originadas en el marco legal y en el uso del sistema de garantía de la seguridad
-No las detectó el DI.
+La causa fundamental del suceso fue:
+el incumplimiento de las disposiciones de los procedimientos tecnológicos por parte del
+•
+maquinista de la unidad de maniobras en caso de interrupción de la comunicación por radio durante la maniobra.
+### 4.3.3 Causas originadas en el marco jurídico y en el uso del sistema de garantía de la seguridad
+No se han constatado por parte de DI.
 ### 4.4 Hallazgos complementarios
-4.4.1 Deficiencias y omisiones detectadas durante la investigación que no se refieren a las conclusiones sobre las causas
-En el operador ferroviario SŽDC y el transportista ČD:
-En relación con la disposición del art. 1692 de la norma interna SŽDC D1 y el apartado 2 •
-apartado 1 letra c) del decreto n.º 173/1995 Sb., se trata de un incumplimiento del apartado 22 apartado 1 letra a) de la ley n.º 266/1994 Sb., al no haberse indicado, al acordar la maniobra entre el operador ferroviario SŽDC y el transportista ČD, la hora a partir de la cual puede iniciarse la maniobra y la hora a la que debe finalizar como máximo la maniobra autorizada, así como las vías en las que se permite la maniobra;
-En relación con la disposición del art. 1692 de la norma interna SŽDC D1 y el apartado 2 •
-apartado 1 letra c) y el apartado 35 apartado 1 letra h) del decreto n.º 173/1995 Sb., se trata de un incumplimiento del apartado 35 apartado 1 letra a) de la ley n.º 266/1994 Sb., al haberse dado el consentimiento para la maniobra sin notificar la autorización de maniobra al transportista y haberse producido la marcha de la maniobra sin la autorización de maniobra concedida.
-
+4.4.1 Deficiencias y omisiones constatadas durante la investigación que no se refieren a las conclusiones sobre las causas
+En el gestor de la vía SŽDC y el transportista ČD:
+en relación con lo dispuesto en el artículo 1692 de la normativa interna de SŽDC D1 y el
+•
+apartado 1, letra c), del artículo 2 del decreto n.º 173/1995 Sb., se trata de un incumplimiento del apartado 1, letra a), del artículo 22 de la ley n.º 266/1994 Sb., al no haberse indicado, al acordar la maniobra entre el gestor de la vía SŽDC y el transportista ČD, la hora a la que puede iniciarse la maniobra y la hora en la que debe finalizarse como máximo la maniobra autorizada, así como en qué vías está permitida la maniobra;
+en relación con lo dispuesto en el artículo 1692 de la normativa interna de SŽDC D1 y los
+•
+apartados 1, letra c), del artículo 2 y 1, letra h), del artículo 35 del decreto n.º 173/1995 Sb., se trata de un incumplimiento del apartado 1, letra a), del artículo 35 de la ley n.º 266/1994 Sb., al haberse dado el consentimiento para la maniobra sin notificar la autorización de maniobra al transportista y haberse producido la circulación de la unidad de maniobras sin la autorización de maniobra concedida.
 
 ## Página 37
+
 
 ## 5 MEDIDAS ADOPTADAS
 ### 5.1 Lista de medidas que ya se han tomado o adoptado como consecuencia del suceso excepcional
@@ -1108,8 +1066,8 @@ inspector
 de la Inspección Territorial de Brno
 de la Inspección Territorial de Brno
 
-
 ## Página 38
+
 
 ## 7 ANEXOS
 Fig. n.º 5: Puesto de conducción n.º 2 desde el que se maniobró la maniobra         Fuente: DI
@@ -1117,8 +1075,8 @@ Fig. n.º 6: El estado de las paletas (verdes) indica el estado de desfrenado en
    Fuente: PČR
 acoplado a la maniobra
 
-
 ## Página 39
+
 
 Fig. n.º 7: Posición habitual de los trenes Os 8353 y Os 14870 en la SK n.º 5b antes de la salida
          Fuente: DI

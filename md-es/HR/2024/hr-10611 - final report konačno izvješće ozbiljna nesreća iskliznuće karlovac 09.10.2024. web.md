@@ -12,8 +12,8 @@ tokens_in: 58131
 tokens_out: 42060
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-verificacion: revisar
-avisos: ["página 10: ratio 2.31", "página 26: ratio 1.89", "página 27: ratio 1.81", "página 29: ratio 1.70", "página 49: ratio 1.67"]
+verificacion: ok
+notas_cifras: ["página 5: original bilingüe: se compara contra el idioma principal (HR)", "página 6: original bilingüe: se compara contra el idioma principal (HR)", "página 7: cifras cortas: 5/59", "página 8: cifras cortas: 1/26", "página 9: cifras cortas: 5/49", "página 10: original bilingüe: se compara contra el idioma principal (EN); ratio 2.25"]
 ---
 
 ## Página 1
@@ -251,18 +251,18 @@ Página: 9/50
 
 ## Página 10
 
-el gestor de la infraestructura debería, mediante el desarrollo e implementación de planes de acción vinculantes, así como la reevaluación y revisión de las medidas de control de riesgos, ejecutar soluciones técnicas e infraestructurales a largo plazo y exhaustivas en lugar de remediaciones temporales a corto plazo, con el fin de prevenir oportunamente el deterioro de la estabilidad dinámica de los vehículos ferroviarios y garantizar operaciones de tráfico permanentemente seguras. 
-AIN/06-SR-13/2026: Al introducir restricciones de velocidad relativas a las velocidades prescritas en los horarios de trabajo, el gestor de la infraestructura debería minimizar las fluctuaciones de velocidad de acuerdo con la configuración de la vía para prevenir el efecto de oleaje del líquido en los vagones cisterna. 
-AIN/06-SR-14/2026: El gestor de la infraestructura debería armonizar y corregir las diferencias en las posiciones kilométricas de la vía (km 481+800 a 481+400 y km 477+800 a 477+700) que se observaron durante el análisis de la velocidad del tren n.º 81111. 
-### 2. INVESTIGACIÓN Y SU CONTEXTO 
-### 2.1. Decisión de incoar la investigación 
-Tras la inspección ocular realizada el 10 de octubre de 2024 por parte de la AIN, el Departamento de Investigación de Accidentes en el Transporte Ferroviario, y tras el análisis de la información y las pruebas recopiladas, se determinó que en el accidente en cuestión se había puesto en peligro la seguridad del sistema ferroviario, por lo que el investigador principal de accidentes ferroviarios dictó el 15 de octubre de 2024 la Decisión de incoar la investigación de este accidente con arreglo al artículo 126, apartado 3, de la Ley de Seguridad e Interoperabilidad del Sistema Ferroviario (Narodne novine, n.º 63/20). La notificación de la incoación de la investigación de este accidente se envió el 15 de octubre de 2024 a todas las partes implicadas, al organismo nacional competente en materia de seguridad —la Agencia de Seguridad del Transporte Ferroviario (ASŽ)—, al gestor de la infraestructura (IM) HŽ Infrastruktura d.o.o., al transportista ferroviario (RU) ENNA Transport d.o.o. y al propietario de los vagones INA – Industrija nafte d.d. 
-La Agencia de la Unión Europea para el Ferrocarril (ERA) fue informada mediante el envío del Formulario de notificación a la dirección de correo electrónico Investigation@era.europa.eu de la incoación de la investigación, de conformidad con el plazo de siete días desde la fecha de dictado de la decisión de incoar la investigación, de conformidad con el artículo 133, apartados 1 y 2, de la Ley de Seguridad e Interoperabilidad del Sistema Ferroviario (Narodne novine, n.º 63/20). 
-### 2.2. Fundamento de la Decisión de incoar la investigación 
-La Decisión de incoar la investigación del accidente en cuestión se dictó con arreglo al artículo 127, apartados 2 y 3, letra a), de la Ley de Seguridad e Interoperabilidad del Sistema Ferroviario (Narodne novine, n.º 63/20), es decir, al artículo 20, apartado 2, letra a), de la Directiva (UE) 2016/798 del Parlamento Europeo y del Consejo, de 11 de mayo de 2016, relativa a la seguridad del ferrocarril (reforma). Abrimos la investigación bajo la categoría de accidente, y posteriormente se determinó que se trataba de un accidente grave debido al importe total de los daños materiales, que superaba los 2 millones de euros. 
-### 2.3. Alcance y limitaciones de la investigación 
-El alcance de la investigación se detalla más ampliamente en el punto 4 del presente informe, mientras que no hubo limitaciones ni retrasos. 
-AIN/06-FR-01 
+el gestor de infraestructuras debe, mediante la elaboración y aplicación de planes de acción vinculantes, así como la reevaluación y revisión de las medidas de control de riesgos, ejecutar soluciones técnicas e infraestructurales a largo plazo y exhaustivas en lugar de remedios temporales a corto plazo, a fin de prevenir oportunamente la alteración de la estabilidad dinámica de los vehículos ferroviarios y garantizar permanentemente la seguridad de las operaciones de tráfico.
+AIN/06-SR-13/2026: Al introducir restricciones de velocidad respecto a las velocidades prescritas en los horarios de trabajo, el gestor de infraestructuras debe minimizar las fluctuaciones de velocidad de acuerdo con la configuración de la vía para prevenir el efecto de oleaje del líquido en los vagones cisterna.
+AIN/06-SR-14/2026: El gestor de infraestructuras debe armonizar y corregir las diferencias en los puntos kilométricos de la vía (km 481+800 a 481+400 y km 477+800 a 477+700) que se observaron durante el análisis de la velocidad del tren n.º 81111.
+### 2. ISTRAGA I NJEZIN KONTEKST
+### 2.1. Odluka o pokretanju istrage
+Tras la realización de la inspección el día 10 de octubre de 2024 por parte de AIN, Departamento de Investigación de Accidentes en el Tráfico Ferroviario, y tras el análisis de la información y las pruebas recopiladas, se determinó que en el accidente en cuestión se produjo una vulneración de la seguridad del sistema ferroviario, por lo que el investigador jefe de accidentes ferroviarios dictó el día 15 de octubre de 2024 la Decisión de iniciar la investigación de este accidente en virtud del artículo 126, apartado 3, de la Ley sobre Seguridad e Interoperabilidad del Sistema Ferroviario («Narodne novine», número 63/20). La notificación sobre el inicio de la investigación de este accidente se envió el día 15 de octubre de 2024 a todas las partes implicadas, al organismo nacional competente en materia de seguridad – Agencia de Seguridad del Tráfico Ferroviario (ASŽ), al gestor de infraestructuras (IM) HŽ Infrastruktura d.o.o., al transportista ferroviario (RU) ENNA Transport d.o.o. y al propietario de los vagones INA – Industrija nafte d.d.
+La Agencia Ferroviaria de la Unión Europea (ERA) fue notificada mediante el Formulario de Notificación enviado a la dirección de correo electrónico Investigation@era.europa.eu sobre el inicio de la investigación, en cumplimiento del plazo de siete días desde la fecha de dictado de la decisión de iniciar la investigación, artículo 133, apartados 1 y 2, de la Ley sobre Seguridad e Interoperabilidad del Sistema Ferroviario («Narodne novine», número 63/20).
+### 2.2. Obrazloženje Odluke o pokretanju istrage
+La Decisión de iniciar la investigación del accidente en cuestión se dictó en virtud del artículo 127, apartados 2 y 3, punto a), de la Ley sobre Seguridad e Interoperabilidad del Sistema Ferroviario («Narodne novine», número 63/20), es decir, del artículo 20, apartado 2, punto (a), de la Directiva (UE) 2016/798 del Parlamento Europeo y del Consejo, de 11 de mayo de 2016, sobre la seguridad ferroviaria (modificación). Abrimos la investigación bajo la categoría de accidente, y posteriormente se determinó que se trataba de un accidente grave debido al importe total de los daños materiales, que superaba los 2 millones de euros.
+### 2.3. Opseg i ograničenja istrage
+El alcance de la investigación se detalla más en el punto 4 de este informe, mientras que no hubo limitaciones ni retrasos.
+AIN/06-FR-01
 Página: 10/50
 
 ## Página 11
@@ -749,19 +749,25 @@ Página: 25/50
 
 ## Página 26
 
-### Imagen 8. – Primer rastro de descarrilamiento (Fuente de la imagen: AIN) 
-Tras el lugar del descarrilamiento, el tren continuó circulando con el eje descarrilado (Imagen 9.), y circuló otros 3430 
-m hacia la estación de Karlovac, donde en el primer punto de entrada de la aguja número 48, descarriló también el segundo eje del segundo bogie en dirección de la marcha, así como los siguientes cuatro vagones con ambos bogies sucesivamente: 33 78 7960 069-6, 33 78 7960 187-6, 33 78 7991 042-6 y el vagón 33 78 7960 131-4 con el primer bogie en dirección de la marcha del tren. 
+### Figura 8. – Primer rastro del descarrilamiento (Fuente de la imagen: AIN) 
+Después del punto de descarrilamiento, el tren continuó circulando con el eje descarrilado (Figura 9.), 
+y recorrió otros 3430 
+m hacia la estación de Karlovac, donde en la primera aguja de entrada número 48, descarriló también el segundo eje del segundo 
+bastidor giratorio en el sentido de la marcha, así como los cuatro vagones siguientes con ambos bastidores giratorios en la serie 33 78 
+7960 069-6, 33 78 7960 187-6, 33 78 7991 042-6 y el vagón 33 78 7960 131-4 con el primer bastidor giratorio 
+en el sentido de circulación del tren. 
 AIN/06-FR-01 
 Página: 26/50
 
 ## Página 27
 
-### Imagen 9. – Huellas de descarrilamiento del tren n.º 81111 (Fuente de la imagen: AIN) 
-Tras la detención del tren en la estación de Karlovac, los últimos 6 vagones permanecieron sobre el puente del río Kupa en Karlovac 
-(Imagen 10.), los siguientes 2 vagones quedaron situados antes del punto de cruce número 48, y los siguientes 5 vagones se descarrilaron, mientras que 16 vagones con la locomotora permanecieron en la vía 3A. 
-### Imagen 10. – Final del tren n.º 81111 sobre el puente (Fuente de la imagen: AIN) 
-En el vagón 33 787960 119-9, que fue el primero en descarrilar y recorrió 3430 m, son visibles daños importantes en la superficie de las ruedas (Imagen 11.). 
+### Figura 9. – Huellas de descarrilamiento del tren n.º 81111 (Fuente de la imagen: AIN) 
+Tras la parada del tren en la estación de Karlovac, los últimos 6 vagones permanecieron en el puente Kupa Karlovac 
+(Figura 10.), los 2 vagones siguientes quedaron delante del desvío n.º 48, y los 5 vagones siguientes se descarrilaron, mientras 
+que 16 vagones con la locomotora permanecieron en la vía 3A. 
+### Figura 10. – Cola del tren n.º 81111 en el puente (Fuente de la imagen: AIN) 
+En el vagón 33 787960 119-9, que fue el primero en descarrilar y recorrió 3430 m, se aprecian daños considerables en la superficie 
+de las ruedas (Figura 11.). 
 AIN/06-FR-01 
 Página: 27/50
 
@@ -783,25 +789,25 @@ Página: 28/50
 
 ## Página 29
 
-- a las 20:50 horas finalización del trasvase desde el vagón cisterna número 33 78 796 0131-4 a los cisternas de carretera propiedad de INA d.o.o.,
-- a las 20:50 horas inicio del izado del vagón número 33 78 796 0131-4 por parte del personal del tren auxiliar propiedad de TSŽV d.o.o.,
-- a las 21:15 horas finalización del izado del vagón número 33 78 796 0131-4 por parte del personal del tren auxiliar propiedad de TSŽV d.o.o.,
-- a las 22:05 horas inicio del arrastre mediante maniobras de estación del vagón izado número 33 78 796 0131-4 por el vía 2a/b y su colocación en la vía 5 por parte de «A», y el arrastre se realizó con la acompañamiento del inspector de vagones del transportista ENNA d.o.o., y la maniobra con el vagón número 33 78 796 0131-4 finalizó a las 22:40 horas.
-Durante el día 11.10.2024 se realizaron las siguientes operaciones en la estación de Karlovac:
-- a las 08:00 horas inicio del izado del vagón número 33 78 796 0119-9 por parte del personal del tren auxiliar propiedad de TSŽV d.o.o.,
-- a las 09:00 horas finalización del izado del vagón número 33 78 796 0119-9 por parte del personal del tren auxiliar propiedad de TSŽV d.o.o.,
-- a las 09:00 horas inicio del trasvase desde el vagón cisterna número 33 78 796 0069-6 a los cisternas de carretera propiedad de INA d.o.o.,
-- a las 10:30 horas finalización del trasvase desde el vagón cisterna número 33 78 796 0069-6 a los cisternas de carretera propiedad de INA d.o.o.,
-- a las 10:35 horas inicio del izado del vagón número 33 78 796 0069-6 por parte del personal del tren auxiliar propiedad de TSŽV d.o.o.,
-- a las 10:40 horas inicio del trasvase desde el vagón cisterna número 33 78 799 1042-6 a los cisternas de carretera propiedad de INA d.o.o.,
-- a las 12:00 horas finalización del izado del vagón número 33 78 796 0069-6 por parte del personal del tren auxiliar propiedad de TSŽV d.o.o.,
-- a las 13:30 horas finalización del trasvase desde el vagón cisterna número 33 78 799 1042-6 a los cisternas de carretera propiedad de INA d.o.o.,
-- a las 13:50 horas inicio del izado del vagón número 33 78 799 1042-6 por parte del personal del tren auxiliar propiedad de TSŽV d.o.o.,
-- a las 14:30 horas inicio del trasvase desde el vagón cisterna número 33 78 796 0187-6 a los cisternas de carretera propiedad de INA d.o.o.,
-- a las 15:14 horas despachado el tren número 81217 desde la estación de Karlovac con destino a la estación de Sisak Caprag (transportista ENNA d.o.o., composición: 16 vagones cisterna procedentes de la composición del tren 81111 del 09.10.2024),
-- a las 15:26 horas despachado el tren de mercancías MV-1 desde la estación de Karlovac con destino a la estación de Mrzlo Polje (hasta la estación de Duga Resa) con la locomotora del transportista HŽ Cargo d.o.o. (composición: 8 vagones cisterna procedentes de la composición del tren 81111 del 09.10.2024 que permanecieron en el puente «Kupa»), y este circuló con la acompañamiento del personal del transportista ENNA d.o.o. y del personal de PRJ Mantenimiento GIP Centro, NG Karlovac, y la notificación de llegada desde la estación de Mrzlo Polje se recibió a las 16:20 horas debido a que circulaba con Vmax= 5 km/h,
-- a las 15:30 horas finalización del izado del vagón número 33 78 799 1042-6 por parte del personal del tren auxiliar propiedad de TSŽV d.o.o.,
-AIN/06-FR-01
+-  a las 20:50 horas finalización del trasvase desde el vagón cisterna número 33 78 796 0131-4 a la cisterna carretera propiedad de INA d.o.o.,  
+- a las 20:50 horas inicio del levantamiento del vagón número 33 78 796 0131-4 por parte de los empleados del tren auxiliar propiedad de TSŽV d.o.o.,  
+- a las 21:15 horas finalización del levantamiento del vagón número 33 78 796 0131-4 por parte de los empleados del tren auxiliar propiedad de TSŽV d.o.o., 
+- a las 22:05 horas a través de la vía 2a/b inicio del arrastre mediante maniobra de estación del vagón levantado número 33 78 796 0131-4 y colocado en la vía 5 por parte de «A», así como arrastre realizado con la acompañancia del revisor de vagones del transportista ENNA d.o.o., y la maniobra con el vagón número 33 78 796 0131-4 finalizada a las 22:40 horas. 
+Durante el día 11.10.2024. se realizaron las siguientes actuaciones en la estación de Karlovac: 
+- a las 08:00 horas inicio del levantamiento del vagón número 33 78 796 0119-9 por parte de los empleados del tren auxiliar propiedad de TSŽV d.o.o.,  
+-  a las 09:00 horas finalización del levantamiento del vagón número 33 78 796 0119-9 por parte de los empleados del tren auxiliar propiedad de TSŽV d.o.o., 
+-  a las 09:00 horas inicio del trasvase desde el vagón cisterna número 33 78 796 0069-6 a la cisterna carretera propiedad de INA d.o.o.,  
+- a las 10:30 horas finalización del trasvase desde el vagón cisterna número 33 78 796 0069-6 a la cisterna carretera propiedad de INA d.o.o., 
+- a las 10:35 horas inicio del levantamiento del vagón número 33 78 796 0069-6 por parte de los empleados del tren auxiliar propiedad de TSŽV d.o.o., 
+-  a las 10:40 horas inicio del trasvase desde el vagón cisterna número 33 78 799 1042-6 a la cisterna carretera propiedad de INA d.o.o., 
+-  a las 12:00 horas finalización del levantamiento del vagón número 33 78 796 0069-6 por parte de los empleados del tren auxiliar propiedad de TSŽV d.o.o.,  
+- a las 13:30 horas finalización del trasvase desde el vagón cisterna número 33 78 799 1042-6 a la cisterna carretera propiedad de INA d.o.o., 
+- a las 13:50 horas inicio del levantamiento del vagón número 33 78 799 1042-6 por parte de los empleados del tren auxiliar propiedad de TSŽV d.o.o., 
+- a las 14:30 horas inicio del trasvase desde el vagón cisterna número 33 78 796 0187-6 a la cisterna carretera propiedad de INA d.o.o., 
+- a las 15:14 horas expedido el tren número 81217 desde la estación de Karlovac hacia la estación de Sisak Caprag (transportista ENNA d.o.o., composición: 16 vagones cisterna de la composición del tren 81111 del 09.10.2024.),   
+- a las 15:26 horas expedido el tren de material MV-1 desde la estación de Karlovac hacia la estación de Mrzlo Polje (hasta la estación de Duga Resa) con locomotora del transportista HŽ Cargo d.o.o. (composición: 8 vagones cisterna de la composición del tren 81111 del 09.10.2024. que permanecieron en el puente «Kupa»), el cual circuló con la acompañancia del personal del transportista ENNA d.o.o. y de los empleados de PRJ Održavanje GIP Centar, NG Karlovac, y la notificación de llegada fue recibida desde la estación de Mrzlo Polje a las 16:20 horas ya que circuló con Vmax= 5 km/h,  
+-  a las 15:30 horas finalización del levantamiento del vagón número 33 78 799 1042-6 por parte de los empleados del tren auxiliar propiedad de TSŽV d.o.o.,  
+AIN/06-FR-01 
 Página: 29/50
 
 ## Página 30
@@ -1336,19 +1342,29 @@ Página: 48/50
 
 ## Página 49
 
-El tráfico de trenes de pasajeros fue sustituido por transporte de autobuses de reemplazo, mientras que el tráfico de trenes de mercancías fue desviado mediante una ruta alternativa a través de las Ferrovias Eslovenas.
+El tráfico de trenes de pasajeros fue sustituido por transporte por autobús de reemplazo, mientras que el tráfico de trenes de mercancías fue reenviado por una ruta alternativa a través de Ferrocarriles Eslovenos.
+
 ### 5.3. Observaciones adicionales
 No tenemos más consideraciones.
-### 6. RECOMENDACIONES DE SEGURIDAD
-La Agencia para la Investigación de Accidentes en el Tráfico Aéreo, Marítimo y Ferroviario, basándose en la investigación llevada a cabo de este grave accidente, con el fin de aumentar la seguridad del sistema ferroviario, dirige a la Agencia de Seguridad del Tráfico Ferroviario las siguientes recomendaciones de seguridad:
-AIN/06-SR-12/2026: El gestor de la infraestructura debería mejorar la aplicación y los procedimientos de apoyo dentro de su sistema de gestión de la seguridad (SMS) en lo que respecta al análisis y la supervisión de los indicadores principales (precursores de accidentes, como la implementación y la cancelación de restricciones temporales de velocidad causadas por roturas de raíles o deformaciones de la vía). En los casos en los que se observe una implementación frecuente y recurrente de restricciones temporales de velocidad en el mismo tramo de vía, el gestor de la infraestructura debería, mediante la elaboración y aplicación de planes de acción vinculantes, así como la reevaluación y revisión de las medidas de control de riesgos, ejecutar soluciones técnico-infraestructurales a largo plazo y integrales, en lugar de reparaciones temporales a corto plazo, con el fin de prevenir oportunamente la alteración de la estabilidad dinámica de los vehículos ferroviarios y garantizar la circulación segura y permanente del tráfico.
-AIN/06-SR-13/2026: Al introducir velocidades reducidas en relación con las velocidades establecidas en el libro de horarios, el gestor de la infraestructura debería, de acuerdo con la configuración de la vía, minimizar las oscilaciones de velocidad para evitar el efecto de salpicadura del líquido en los vagones cisterna.
-AIN/06-SR-14/2026: El gestor de la infraestructura debería armonizar y corregir las diferencias en las posiciones kilométricas de la vía (km 481+800 a 481+400 y km 477+800 a 477+700) que se detectaron durante el análisis de la velocidad del tren número 81111.
-### RECOMENDACIONES DE SEGURIDAD
-La Agencia para la Investigación de Accidentes en el Tráfico Aéreo, Marítimo y Ferroviario, basándose en la investigación llevada a cabo de este accidente, con el fin de aumentar la seguridad del sistema ferroviario, dirige a la Agencia de Seguridad Ferroviaria las siguientes recomendaciones de seguridad:
-AIN/06-SR-12/2026: El gestor de la infraestructura debería mejorar la aplicación y los procedimientos de apoyo dentro de su Sistema de Gestión de la Seguridad (SMS) en lo que respecta al análisis y la supervisión de los indicadores principales (precursores de accidentes, como la implementación y la cancelación de restricciones temporales de velocidad causadas por roturas de raíles o deformaciones de la vía). En los casos en los que se identifiquen implementaciones frecuentes y recurrentes de restricciones temporales de velocidad en el mismo tramo de vía, el gestor de la infraestructura debería, mediante la elaboración y aplicación de planes de acción vinculantes, así como la reevaluación y revisión de las medidas de control de riesgos, ejecutar soluciones a largo plazo y
+
+### 6. SIGURNOSNE PREPORUKE
+
+La Agencia de Investigación de Accidentes en el Transporte Aéreo, Marítimo y Ferroviario, con base en la investigación realizada de este grave accidente, con el fin de aumentar la seguridad del sistema ferroviario, dirige a la Agencia de Seguridad del Transporte Ferroviario las siguientes recomendaciones de seguridad:
+
+AIN/06-SR-12/2026: El gestor de infraestructura debería mejorar la aplicación y los procedimientos de apoyo dentro de su sistema de gestión de la seguridad (SMS) en la parte de análisis y supervisión de indicadores principales (precursores de accidentes, como la implantación y anulación de limitaciones de velocidad temporales causadas por roturas de raíl o deformaciones de la vía). En los casos en los que se observa una implantación frecuente y recurrente de limitaciones de velocidad temporales en el mismo tramo de vía, el gestor de infraestructura debería, a través de la elaboración y aplicación de planes de acción vinculantes y de la reevaluación y revisión de las medidas de control de riesgos, en lugar de reparaciones temporales a corto plazo, ejecutar soluciones técnicas e infraestructurales a largo plazo y completas, para prevenir oportunamente el deterioro de la estabilidad dinámica de los vehículos ferroviarios y garantizar la circulación segura permanente del tráfico.
+
+AIN/06-SR-13/2026: Al implantar limitaciones de velocidad con respecto a las velocidades prescritas en el libro de horarios, el gestor de infraestructura debería, de acuerdo con la configuración de la vía, minimizar las oscilaciones de velocidad para prevenir el efecto de oleaje del líquido en los vagones cisterna.
+
+AIN/06-SR-14/2026: El gestor de infraestructura debería alinear y corregir las diferencias en las posiciones kilométricas de la vía (km 481+800 hasta 481+400 y km 477+800 hasta 477+700) que se observaron durante el análisis de la velocidad de circulación del tren número 81111.
+
+### SAFETY RECOMMENDATIONS
+
+La Agencia de Investigación de Accidentes en el Transporte Aéreo, Marítimo y Ferroviario, con base en la investigación realizada de este accidente, con el fin de aumentar la seguridad del sistema ferroviario, dirige a la Agencia de Seguridad del Transporte Ferroviario las siguientes recomendaciones de seguridad:
+
+AIN/06-SR-12/2026: El gestor de infraestructura debería mejorar la aplicación y los procedimientos de apoyo dentro de su sistema de gestión de la seguridad (SMS) en cuanto al análisis y supervisión de indicadores principales (precursores de accidentes, como la implantación y anulación de limitaciones de velocidad temporales causadas por roturas de raíl o deformaciones de la vía). En los casos en los que se identifican implantaciones frecuentes y recurrentes de limitaciones de velocidad temporales en el mismo tramo de vía, el gestor de infraestructura debería, a través de la elaboración y aplicación de planes de acción vinculantes, así como de la reevaluación y revisión de las medidas de control de riesgos, ejecutar soluciones a largo plazo y
+
 AIN/06-FR-01
-Página: 49/50
+Stranica: 49/50
 
 ## Página 50
 

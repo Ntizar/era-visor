@@ -11,9 +11,9 @@ ratio_longitud: 1.18
 tokens_in: 26693
 tokens_out: 20592
 verificacion: ok
-notas_cifras: ["bloque 1: original bilingüe: se compara contra el idioma principal (EN); cifras cortas: 1/57", "bloque 2: original bilingüe: se compara contra el idioma principal (FI)"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+notas_cifras: ["página 2: original bilingüe: se compara contra el idioma principal (NL)", "página 3: original bilingüe: se compara contra el idioma principal (SV); cifras cortas: 1/14", "página 4: original bilingüe: se compara contra el idioma principal (EN); cifras cortas: 1/8", "página 6: original bilingüe: se compara contra el idioma principal (EN)", "página 14: original bilingüe: se compara contra el idioma principal (FI)", "página 15: original bilingüe: se compara contra el idioma principal (FI)"]
 ---
 ## Página 1
 

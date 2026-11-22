@@ -10,13 +10,14 @@ chars: 203583
 ratio_longitud: 1.28
 tokens_in: 81848
 tokens_out: 56342
-verificacion: revisar
-notas_cifras: ["bloque 2: original bilingüe: se compara contra el idioma principal (CS)", "bloque 4: cifras cortas: 5/51", "bloque 5: cifras cortas: 2/39", "bloque 6: cifras cortas: 8/57", "bloque 8: cifras cortas: 1/47", "bloque 10: cifras cortas: 5/87"]
-avisos: ["bloque 14: cifras largas: faltan 1/3 (33%)"]
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 6: original bilingüe: se compara contra el idioma principal (EN)", "página 7: original bilingüe: se compara contra el idioma principal (CS)", "página 11: cifras cortas: 5/50", "página 12: cifras cortas: 2/38", "página 13: cifras cortas: 8/56"]
 ---
+
 ## Página 1
+
 
 Inspección Ferroviaria
 República Checa
@@ -45,7 +46,10 @@ fax: (+420) 224 805 428
 
 ## Página 2
 
+
+
 ## Página 3
+
 
 # RESUMEN
 Gravedad:
@@ -91,6 +95,7 @@ con un registrador de datos que registre las operaciones.
 
 ## Página 4
 
+
 5) Se recomienda equipar las líneas de tranvía de vía única bidireccionales
 con un registrador que registre la comunicación entre el personal de control y los
 conductores de tranvía.
@@ -102,7 +107,10 @@ Budišovice, Zátiší - Vřesinská
 
 ## Página 5
 
+
+
 ## Página 6
+
 
 # Índice
  Resumen .............................................................................................................................3
@@ -137,6 +145,7 @@ incluidas las personas en relación contractual ................................
 
 ## Página 7
 
+
 3.1.1 Personal del titular de la infraestructura y del transportista, incluidas las personas en relación contractual ...............................................................................................................19
 3.1.2 Otras personas .........................................................................................................29
 3.2 Sistema de garantía de la seguridad ...............................................................................31
@@ -167,6 +176,7 @@ incluidas las personas en relación contractual ................................
 
 ## Página 8
 
+
 4.2 Análisis ......................................................................................................................44
 4.2.1 Evaluación de los hechos constatados de acuerdo con el punto 3 y exposición de las conclusiones sobre la causa del incidente extraordinario y la actuación de los servicios de rescate ..........................................................................44
 4.3 Conclusiones .......................................................................................................................47
@@ -191,11 +201,12 @@ K2G, núm. de inventario 810 (línea n.º 5, servicio 402) tras el incidente ext
  Foto 6: Posición final del vehículo de tracción múltiple (VTM) del tren de tranvías de la línea n.º 5, servicio 201, compuesto por el VTM de tipo T3SU-CS, núm. de inventario 906 (de mando) y núm. de inventario 902 (de mando remoto), tras el incidente 
 extraordinario. De la fotografía se aprecia el atascamiento del VTM provocado por la colisión del VTM de mando remoto contra el VTM de mando debido a la energía cinética del VTM de mando remoto. ......................................................54
 
-
 ## Página 9
 
 
+
 ## Página 10
+
 
 ## 1 RESUMEN
 El 11 de abril de 2008 a las 17:51 horas se produjo un incidente extraordinario en el transporte ferroviario, un accidente grave a tenor del artículo 49 de la ley n.º 266/1994 Coll., sobre ferrocarriles, en su versión vigente, cuando en el punto kilométrico 6,9115 de la línea de tranvías de la empresa «Dopravní podnik Ostrava a.s.», en el tramo de vía única Budišovice, Zátiší – 
@@ -208,6 +219,7 @@ La causa derivada del marco normativo y del uso del sistema de garantía de la s
 La Inspección Ferroviaria emitió, en relación con el incidente extraordinario de que se trata, recomendaciones de seguridad.
 
 ## Página 11
+
 
 ## 2 DATOS RELATIVOS AL INCIDENTE
 ## 2.1
@@ -222,6 +234,7 @@ El lugar del incidente es la vía de tranvía de la empresa «Dopravní podnik O
 El 11 de abril de 2008 a las 17:39 h, la persona que conducía el vehículo ferroviario (en lo sucesivo, conductor del tranvía) partió con el tranvía del servicio n.º 5, turno 402, desde el terminal Zátiší. La circulación se desarrolló de conformidad con los procedimientos tecnológicos uniformes del explotador del transporte ferroviario – el Horario de Circulación del Material Rodante (en lo sucesivo, VJŘ) del servicio n.º 5, turno 402, que establecía para el conductor del tranvía del servicio n.º 5, turno 402, los horarios de llegada y salida de las paradas y apartaderos de Zátiší, Dolní Lhota, Krásné Pole, Vřesina y Vřesinská. El VJŘ también determinaba los lugares de cruces regulares con vehículos de tranvía procedentes en sentido contrario, que estaban resaltados en color en la tabla y para los cuales se indicaba bajo un subíndice el número del turno con el que el tren de tranvía se cruzaba en dicho apartadero. Para advertir al conductor del tren de tranvía sobre posibles cruces, existían tableros con el texto «ATENCIÓN AL CRUCE», que estaban situados en los postes de la catenaria en los apartaderos de Dolní Lhota, Vřesina y en el terminal Zátiší. El servicio de tranvía del servicio n.º 5, turno 402, que partió de la parada de origen Zátiší a las 17:39 h, tenía establecido en el VJŘ un cruce regular en el apartadero de Vřesina con el tranvía del servicio n.º 5, turno 201; en el apartadero de Dolní Lhota no se estableció cruce regular para dicho servicio. A las 17:50:29 h, el conductor del tranvía del servicio n.º
 
 ## Página 12
+
 
 5, corto 402, en el señalizador de la parada en la derivación Vřesina. Tras la realización de la subida y bajada de los pasajeros, el conductor del tranvía de la línea n.º 5, corto 402, puso el DV en movimiento a las 17:50:46 h, a pesar de que en la derivación Vřesina se le había asignado un cruce normal con el tranvía de la línea n.º 5, corto 201. Al salir de la derivación Vřesina, el tren tranviario de la línea n.º 5, corto 402, entró en el tramo de vía entre la derivación Vřesina y la parada Poruba koupaliště en el momento en que en dicho tramo estaba organizada organizativamente la circulación del DV del tren tranviario de la línea n.º 5, corto 201, que había salido a las 17:50:24 h de la parada Poruba koupaliště con destino a la derivación Vřesina tras la subida y bajada de los pasajeros. Al atravesar una curva a la derecha de radio R=300 m en el tramo de vía mencionado, el conductor del tranvía de la línea n.º 5, corto 402, probablemente a la p.k. 6,8488, observó el DV del tranvía de la línea n.º 5, corto 201, que circulaba en sentido contrario. Ante la situación creada, el conductor del tranvía de la línea n.º 5, corto 402, reaccionó a la p.k. 6,8661 activando el freno de servicio y, posteriormente, a la p.k. 6,8699, el freno de rieles. El conductor del tranvía de la línea n.º 5, corto 201, observó el DV del tranvía de la línea n.º 5, corto 402, que circulaba en sentido contrario, probablemente a la p.k. 6,970. Ante la situación creada, el conductor del tranvía de la línea n.º 5, corto 201, reaccionó a la p.k. 6,9551 activando el freno de servicio y, posteriormente, a la p.k. 6,9539, el freno de rieles. Debido a la corta distancia, los conductores de los trenes tranviarios de la línea n.º 5, cortos 402 y 201, no lograron detener el DV y a la p.k. 6,9115 se produjo una colisión frontal de los DV. En la colisión (MU) quedaron totalmente deformadas las partes delanteras de todos los DV de los vagones tranviarios motorizados participantes (en adelante, MTV), es decir, K2G, núm. reg. 810, T3SU-CS, núm. reg. 902, y T3SU-CS, núm. reg. 906, así como la parte trasera del DV del MTV de tipo T3SU-CS, núm. reg. 906, y además se produjo el entrelazamiento mutuo de todos los DV participantes. El DV del MTV de tipo T3SU-CS, núm. reg. 906, y el K2G, núm. reg. 810, quedaron entrelazados por sus partes delanteras hasta el nivel de los montantes de las ventanas entre la 1.ª y la 2.ª ventana lateral (lado izquierdo del DV), respectivamente, y hasta el nivel de los montantes de las puertas tras las puertas delanteras (lado derecho del DV). El DV del MTV de tipo T3SU-CS, núm. reg. 902, que era el dirigido, quedó, debido a las fuerzas de inercia, entrelazado contra el DV del MTV de tipo T3SU-CS, núm. reg. 906, hasta el nivel del montante de la puerta tras las puertas traseras (lado derecho del DV) y del montante delantero de la última ventana lateral (lado derecho del DV). Como consecuencia de la dinámica del accidente, todos los DV participantes descarrilaron por el primer bogie, por ambos ejes. Las segundas parejas de ruedas de los segundos bogies de todos los DV participantes permanecieron sin descarrilar tras la colisión (MU).
 
@@ -273,6 +286,7 @@ MP, departamento técnico.
 
 ## Página 13
 
+
 2.1.3 Decisión de iniciar la investigación de las causas y las circunstancias de la ocurrencia, composición del equipo de personas técnicamente cualificadas y forma de llevar a cabo la investigación de las causas y las circunstancias de la ocurrencia
 
 La ocurrencia de un accidente (MU) fue notificada a la Inspección Ferroviaria (en adelante, DI) a la Central de Notificaciones de Praga (en adelante, COP) por el operador de la infraestructura y el operador de transporte ferroviario (en adelante, operador) el 11 de abril de 2008 a las 18:07 h, es decir, 16 minutos después de la ocurrencia del accidente. La notificación de la ocurrencia del accidente fue realizada por un empleado del operador que desempeñaba el cargo de «despachador de zona – jefe de turno» (en adelante, despachador de zona). Posteriormente, a las 18:30 h, el operador precisó la descripción junto con las consecuencias detectadas hasta el momento.
@@ -299,6 +313,7 @@ El vehículo motorizado de tranvía (DV) tipo MTV K2G, núm. de serie 810, dispo
 El equipo eléctrico del vehículo motorizado de tranvía dispone de un CERTIFICADO DE APTITUD DEL EQUIPO TÉCNICO DETERMINADO (en adelante, PZ UTZ), válido, emitido de conformidad con el artículo 47 de la ley n.º 266/1994 Coll. por la Oficina Ferroviaria de Praga bajo el núm. de serie PZ 1638/05-E.22, el 31 de mayo de 2005.
 
 ## Página 14
+
 
 El tren de tranvía de la línea n.º 5, servicio 201, estaba compuesto por el conjunto de dos unidades motrices MTV de tipo T3SU-CS, con número de inventario 
 906 y 902. La unidad motriz líder, es decir, el vehículo desde el cual se controlaba la circulación del tren de tranvía de la línea n.º 5, servicio 201, era 
@@ -335,6 +350,7 @@ de la vía de tranvía del DPO. La vía de tranvía en el lugar de producción d
 
 ## Página 15
 
+
 del tren de tranvía de la línea n.º 5, servicio 402) está constituida por una curva a la derecha de radio R=300 m con una diferencia de nivel entre las alas de los raíles de 48 mm; la pendiente longitudinal de la vía desde el punto kilométrico (pk) 6,793 hasta el pk 7,523 es del -5,2‰. La transición entre la vía con peralte y la vía sin peralte se realiza mediante una rampa de pendiente uniforme. Las transiciones entre la curva a la derecha de radio R=300 m y los tramos rectos de la vía son suaves y están formadas por curvas de transición. La curva de transición antes de la curva comienza en el pk 6,847 y termina en el pk 6,871; la curva de transición después de la curva comienza en el pk 6,943 y termina en el pk 6,967. La superficie de rodadura de la vía del tranvía está formada por raíles de cabeza ancha de perfil (tipo) S 49 sobre durmientes de hormigón PB2. En el tramo de vía en cuestión, la vía del tranvía discurre sobre un terraplén independiente y no está protegida con una cubierta de vía de tranvía. En los pk 6,811 y 6,915 de la vía del tranvía se encuentran situados pasos a nivel que comunican las vías con vías de servicio. Ambos pasos a nivel están señalizados en ambos lados para los participantes en la circulación de las vías de comunicación terrestres con señales de tráfico verticales A 32a «Cruz de advertencia para paso a nivel ferroviario de vía única». Los pasos a nivel en cuestión están señalizados y asegurados de conformidad con el Decreto del Ministerio de Transporte y Comunicaciones (MDaS) n.º 30/2001 Coll., por el que se desarrollan las normas de circulación en las vías de comunicación terrestres, en su versión vigente.
 
 La velocidad de circulación del vehículo de tracción (DV) en la vía del tranvía de DPO la establecen los procedimientos tecnológicos uniformes del explotador, publicados en forma de norma interna «Normas de explotación D1 para la circulación de vehículos ferroviarios» (en lo sucesivo, Normas de explotación D1), aprobadas el 14.02.2007 con efecto desde el 01.03.2007. Mediante esta norma interna, en el momento de producirse el accidente (MU), el explotador estableció la velocidad máxima permitida para el DV en el tramo comprendido entre el pk 6,477 y el pk 7,786, es decir, desde la punta de la aguja exterior (aguja n.º 4-7) de la vía de cruce Vřesina hasta el poste de la catenaria n.º 4/10, en un valor de 60 km/h.
@@ -353,6 +369,7 @@ En la operación de radio de DPO se utilizan las frecuencias asignadas por la Of
 
 ## Página 16
 
+
 Vehículos tecnológicos + subestaciones y tráfico de datos del transporte público urbano), es simplex, lo que significa que está técnicamente adaptada para el intercambio de conversaciones entre los participantes de la conexión. Para la comunicación entre los conductores de tranvías y el centro de control se utiliza el tráfico radioeléctrico del transporte público urbano (en el cual están integradas las estaciones base, portátiles y de a bordo), el cual es gestionado por el sistema de control del tráfico radioeléctrico del transporte público urbano y operado mediante el programa de control Sprinter. El sistema de control del tráfico radioeléctrico del transporte público urbano está ubicado en el edificio de la dirección de DPO (calle Poděbradova, n.º 494/2) y controla las estaciones base de radio situadas en edificios altos en la Plaza de la República (ÚAN), en la parte central de la ciudad de Ostrava, y en las instalaciones de la Universidad de Minas y Tecnología de Ostrava (VŠB), en el distrito municipal de Poruba de Ostrava. El programa Sprinter muestra la posición del vehículo (o la última parada superada), los datos operativos actuales (línea, número de servicio, conductor, retrasos, etc.) y constituye la interfaz de usuario para el acceso a la red de radio (muestra las solicitudes de llamada, permite establecer la llamada o enviar un mensaje). Todas las llamadas realizadas a través de la conexión radioeléctrica son grabadas electrónicamente por el equipo RETIA y archivadas durante un período de 6 meses, al igual que todo el tráfico telefónico del centro de control central.
 ### 2.2.4 Utilización de medios de comunicación
 Inmediatamente antes de la producción del incidente no se utilizaron medios de comunicación por parte de los empleados participantes.
@@ -368,8 +385,8 @@ En el lugar del incidente intervinieron las unidades del Servicio de Rescate Mé
 2.3.1 En pasajeros y terceros, empleados del explotador de la vía y del transportista, incluidas las personas en relación contractual
 En el momento de la producción del incidente, en los vehículos de tranvía de la línea n.º 5, números de servicio 402 y 201, viajaban un total de 87 (ochenta y siete) personas, de las cuales 85 (ochenta y cinco) eran pasajeros y 2 (dos) empleados del explotador (conductores de tranvías). El vehículo de tranvía MTV tipo K2G, n.º de registro 810 (tranvía de la línea n.º 5, número de servicio 402),
 
-
 ## Página 17
+
 
 transportaba un total de 49 (cuarenta y nueve) personas, el vehículo de tranvía MTV tipo T3SU-CS, n.º de registro 902 (tranvía de la línea n.º 5, número de servicio 201), transportaba un total de 14 (catorce) y el vehículo de tranvía MTV tipo T3SU-CS, n.º de registro 906 (tranvía de la línea n.º 5, número de servicio 201), transportaba un total de 24 (veinticuatro) personas.
 En el incidente se produjeron lesiones con resultado de fallecimiento a un total de 3 (tres) pasajeros – 2 (dos) personas viajaban en el vehículo de tranvía MTV tipo K2G, n.º de registro 810 (tranvía de la línea n.º 5, número de servicio 402), 1 (una) persona en el vehículo de tranvía MTV tipo T3SU-CS, n.º de registro 906 (tranvía de la línea n.º 5, número de servicio 201).
@@ -418,6 +435,7 @@ km,
 2) Conjuntos examinados de la parte mecánica del vehículo de tranvía:
 
 ## Página 18
+
 
 frenos electromagnéticos de vía (en lo sucesivo, FEM),
 –
@@ -490,8 +508,8 @@ propietario: DPO,
 explotador: DPO,
 –
 
-
 ## Página 19
+
 
 coste de adquisición: 391 032,67 Kč,
 –
@@ -541,6 +559,7 @@ como mucho sobre las 19.50 horas. No recuerdo qué jornada laboral tuve el 10.4.
 
 ## Página 20
 
+
 «El 11.4.2008 comencé el turno a las 03.56 horas. En lo que respecta al tiempo de descanso entre las citadas turnos, declaro que he tenido un descanso suficiente entre estos turnos.»
 
 «Ese día, 11.4.2008, tuve lo que se denomina turno «trhačka», en el que trabajé primero desde las 03.58 horas hasta las 08.14 horas y la segunda parte del turno fue de las 11.42 horas a las 18.22 horas, momento en el que finalizaba mi viaje con pasajeros en la parada «Poruba – vozovna» y posteriormente debía transportar el tranvía vacío a Vozovna – Sokolovská en Ostrava-Poruba. Durante todo el turno del 11.4.2008 circulé por la línea n.º 5, es decir, entre las estaciones de Ostrava-Poruba Vřesinská y la estación de Zátiší en Kyjovice. Circulé según el horario 5/402, habiendo cumplimentado correctamente el cuadro de marcha preimpreso, que me asignaba la labor para ese día en la línea n.º 5 con el horario 402. Además, disponía del horario de circulación del material rodante correspondiente al horario 5/402, donde se detalla el desglose de los viajes individuales y, en total, este horario comprende 12 vueltas durante el día, es decir, 24 viajes de ida y vuelta.»
@@ -573,8 +592,8 @@ Pregunta n.º 5: ¿Consultó el horario de circulación del material rodante ant
 
 Respuesta: «Consulté si había cruces, ya que es posible que haya cruces también en Dolní Lhotá. Al consultar, comprobé que no había cruce en Dolní Lhotá y que solo había cruce en Vřesina. Por lo tanto, salí a la vía, pasando por las paradas de Horní Lhota, Dolní Lhota – Osada, Dolní Lhota, U Obory, Krásné Pole, Nová Plzeň y Vřesina. Aproximadamente en Vřesina transportaba entre 10 y 15 personas; me refiero al número
 
-
 ## Página 21
+
 
 de pasajeros tras el cierre de las puertas para la salida en Vřesina.»
 
@@ -624,6 +643,7 @@ Respuesta: «Yo permanecí sentado en la cabina y mantuve la palanca de freno ha
 
 ## Página 22
 
+
 Pregunta n.º 16: ¿Cuál es su opinión sobre la seguridad técnica de la línea de tranvía n.º 5?
 Respuesta: «Ahora tengo entendido que la vía no está protegida en absoluto contra el error humano.»
 Pregunta n.º 17: ¿Comunicó usted esta circunstancia a sus superiores antes del 11.4.2008, junto con alguna solicitud o propuesta?
@@ -643,6 +663,7 @@ El conductor del tren de tranvía de la línea n.º 5, turno 201, en el document
 
 ## Página 23
 
+
 no quiere esperar, entonces no espera.”
 “Por lo tanto, tras el silbato, me puse en marcha en la línea n.º 5 en dirección a Poruba Koupaliště hasta esta estación, a la que llegué con normalidad. Si se me preguntó cómo supe que salía con retraso, indico que en el tranvía dispongo de un despertador que puedo configurar para la hora de salida, pero no recuerdo si estaba encendido en aquel momento; sin embargo, posteriormente confirmé esta información mediante mi reloj de pulsera. Por lo general, superviso tanto la hora como la salida mediante mi reloj de pulsera, por lo que sé que salí de la estación con retraso, aunque no conozco la duración exacta del mismo.”
 “La salida de mi línea se desarrolló de la siguiente manera: la despachadora, que se encontraba a unos 15 metros de mi unidad móvil y con la que mantenía contacto visual, me envió a la vía mediante dos silbatos. El primer silbato indica la preparación para la salida y el cierre de las puertas; el segundo silbato indica la orden de salida. Tras ello, me puse en marcha. Llegué a la parada Poruba Koupaliště, donde me detuve según el horario. Esperé un momento a que los pasajeros subieran y bajaran, cerré nuevamente las puertas y me puse en marcha hacia la siguiente parada. Durante la marcha aceleré, ya que me encontraba fuera del núcleo urbano, sobre vía independiente, donde la velocidad está permitida hasta 60 km/h. No sé a qué velocidad exacta circulaba, pero aproximadamente rondaba los 60 km/h. No observaba el indicador de velocidad. Circulaba por un tramo largo, recto y derecho, que finalizaba con una curva suave a la izquierda. Esta curva puede tomarse normalmente a 60 km/h sin necesidad de frenar antes de la misma. Cuando me acercaba a dicha curva y, de hecho, ya estaba casi entrando en ella, divisé un tranvía que venía en sentido contrario. No puedo determinar a qué distancia divisé dicho tranvía. Al ver el tranvía, me dije «¿qué estás haciendo?», pisé automáticamente el pedal del freno y me resultó evidente, simplemente por instinto, que no éramos capaces de frenar y que se produciría una colisión. Cuando me di cuenta de que el choque era inevitable y que simplemente no podíamos frenar, tiré de la puerta de la cabina con la mano derecha, la abrí y salté hacia el pasillo del vagón.”
@@ -657,19 +678,28 @@ El despachador de vía de la estación de Vřesinská, en el documento «REGISTR
 
 ## Página 24
 
-espacio para el tranvía en la caja, donde cada conductor tiene la llave. El conductor del tranvía también lleva consigo una radio, que puede utilizar si hay señal. Ocurre que en algunos tramos de la vía esta señal no está presente. En el caso de que el conductor no logre establecer comunicación y yo no reciba su baja, lo cual puede suceder cuando estoy fuera de mi puesto de trabajo, en el exterior, intentar repetidamente o, en caso de necesidad, utilizar la radio. Es cierto que también disponemos de teléfonos móviles privados, tanto los conductores como yo, y podemos comunicarnos de esta manera. En el pasado se ha utilizado este método. Y esto se puede afirmar que así se procedía y se consideraba como baja, y se utiliza de la manera que ya he indicado en caso de avería, ya sea del teléfono de campo o de una mala señal de la radio. Ninguna normativa regula esto específicamente; se trata únicamente de nuestro acuerdo, es decir, entre mí y el conductor correspondiente. Además, indico que en mi puesto de trabajo dispongo de otras opciones de comunicación, mediante las cuales puedo estar informada sobre lo que ocurre por parte de las Empresas de Transporte y también escuchar parcialmente la actividad por radio del personal de la empresa de transporte de la ciudad de Ostrava.“
-“En lo que respecta al día concreto 11.4.2008, tomé servicio a las 14:22 h, concretamente el tranvía que tiene la salida regular según el horario de circulación de vehículos (en adelante, HCV) a las 17:45.
-Recuerdo haber expedido el tranvía; me encontraba delante del tranvía, mantenía contacto visual y expedí este tranvía tal como tengo asignado en mis obligaciones. Sabía que debía llegar otro tranvía desde la ciudad de Ostrava, por lo que esperé a que llegara para que los viajeros pudieran hacer el transbordo a la línea Vřesinská. Una vez que los viajeros hicieron el transbordo a Vřesinská, di la señal con un silbido, lo que significa para el conductor cerrar las puertas. Definitivamente hubo un pequeño retraso, aproximadamente, según mi estimación, más o menos 4 minutos. Luego el tranvía partió en dirección a Vřesina. En lo que respecta al tranvía que llegaba desde la dirección opuesta, es decir, desde Zátiší, según el HCV debía llegar a las 17:55, por lo que este tranvía aún no estaba en la rotonda. No estoy completamente segura si el tranvía n.º 17 procedente de Ostrava ya había llegado a la rotonda.“
-“Aproximadamente a las 18:00 h, la central de control de tráfico, que se encuentra en la dirección central de Ostrava, me llamó para preguntarme si sabía que en la línea Vřesinská se había producido una colisión entre dos tranvías, que se habían chocado los tranvías de la línea 5. No recuerdo exactamente si me llamó ….. (nombre indicado) o el señor ….. (nombre indicado), no sé cuál de ellos fue. Respondí que no lo sabía y que lo investigaría. Posteriormente llamé a la Cocheras Ostrava-Poruba, donde se encuentra la sala de expedición y la central de control, para solicitar que me facilitaran los números de móvil de los conductores. Él me facilitó estos teléfonos y yo intenté llamar, pero sus teléfonos no estaban disponibles. En un breve lapso de tiempo, escuché luego las sirenas de los bomberos y de las ambulancias que se dirigían en dirección a Vřesina.“
-“Me enteré de cuándo se produjo la colisión de los tranvías hasta más tarde. Según el tráfico, es decir, sé que el tranvía expedido por mí, que procedía de Ostrava en dirección a Vřesina, pasaba por la parada Koupaliště, luego está la parada Vřesina, donde se encuentra el cruce, donde ya espera un tranvía procedente de la dirección opuesta a la llegada del tranvía procedente de Ostrava, dado que se trata de una vía única, allí estos tranvías se cruzan y continúan hacia las siguientes estaciones. Conozco esta línea, la he recorrido varias veces y como despachadora estuve informada sobre el tráfico en esta línea.“
-“Posteriormente, el día 11.4, me encargué de la citada sustitución por autobuses, expediendo los autobuses para que transportaran a los viajeros en esta ruta, que prácticamente quedó fuera de servicio debido a la colisión. Los autobuses comenzaron a circular aproximadamente media hora después del accidente. Y continué con mi actividad y me ocupé del tráfico en la terminal. Luego llegó la policía y, por orden de mi empleador, les entregué el diario de la despachadora y el diario de trabajo. Allí solo añadí que los viajeros en la línea, que había quedado fuera de servicio, fueron transportados mediante la sustitución por autobuses.“
-“Quisiera señalar que aproximadamente una hora y media antes de la colisión se produjo una situación excepcional, en algún lugar antes de las Cocheras Ostrava-Poruba, pero no sé exactamente qué incidente ocurrió allí.“
-Pregunta n.º 1: ¿Transmitió durante el turno del día 11.4.2008 el cruce en la vía única, y en caso afirmativo, en qué desvío y para qué trenes?
-Respuesta: “Entiendo la pregunta, sé lo que significa, pero no he realizado la transmisión de cruces. No fue necesario, la situación operativa no lo requería.“
-Pregunta n.º 2: ¿Desde qué puntos de la vía única se realiza la baja?
-Respuesta: “Entiendo la pregunta, la baja se realiza desde la estación Zátiší, que es la terminal de la dirección opuesta.“
+prostor del tranvaje en el armario, donde cada conductor tiene una llave. El conductor del tranvaje lleva también consigo un aparato de radio, que puede usar si hay señal. Ocurre que en algunos tramos de la línea esta señal no existe. En caso de que el conductor no logre comunicarse y yo no reciba su aviso de salida, lo que puede ocurrir cuando estoy fuera de mi puesto de trabajo, intentarlo repetidamente o, en su caso, usar el aparato de radio. Es cierto que tenemos también teléfonos móviles privados, tanto los conductores como yo, y podemos ponernos de acuerdo también así. En algún momento pasado se ha utilizado esto. Y esto se puede decir que se procedió así y se tomó como aviso de salida, y se utiliza tal como ya he indicado en caso de avería, ya sea del teléfono de campo o, en su caso, de la mala señal del aparato de radio. Ninguna ordenanza regula esto, se trata únicamente de un acuerdo entre mí y el conductor correspondiente. Además indico que en mi puesto de trabajo tengo también otras posibilidades de comunicación, donde puedo ser informada de lo que ocurre por parte de las Empresas de Transporte y también escucho parcialmente el tráfico radio de los trabajadores de la empresa de transporte en la ciudad de Ostrava."
+
+"En cuanto al día concreto del 11.4.2008, entré en turno, que es a las 14:22 h, con el tranvaje concreto que tiene salida regular según el horario de circulación de vehículos (en adelante VJŘ) a las 17:45. Sobre la expedición del tranvaje recuerdo, estaba delante del tranvaje, tenía contacto visual y expedía este tranvaje, como tengo en mis obligaciones. Sabía que debía llegar otro tranvaje desde la ciudad de Ostrava, así que esperé a que llegara para que los pasajeros pudieran transbordar a la línea Vřesinská. Cuando los pasajeros transbordaron a Vřesinská, di la señal con un silbido, que significa para el conductor cerrar las puertas. Ciertamente fue con un retraso menor, estimo aproximadamente más o menos 4 minutos. Después el tranvaje partió en dirección a Vřesina. En cuanto al tranvaje que llega desde la dirección opuesta, es decir, Zátiší, según el VJŘ debe llegar a las 17:55, es decir, este tranvaje aún no estaba en la giratoria. No estoy aún 100% segura de si a la giratoria no llegó el tranvaje n.º 17 desde Ostrava."
+
+"Aproximadamente a las 18:00 h me llamó el despacho de tráfico, que está en la dirección central en el centro de Ostrava, para saber si me consta que en la línea Vřesinská se produjo una colisión de dos tranvajes, que se chocaron los cincos. Sobre si me llamó ….. (se indica el nombre), o el señor ….. (se indica el nombre), no sé exactamente cuál de ellos fue. Respondí que no lo sabía, que lo averiguaría. A continuación llamé a la Cochería Ostrava-Poruba, donde está la estación de expedición y está el despacho, para ver si podían darme los números de móvil de aquellos conductores. Él me dio estos teléfonos y yo intenté llamar, sus teléfonos no estaban disponibles. En un momento breve después escuché las sirenas de los bomberos y de las ambulancias dirigiéndose hacia Vřesina."
+
+"Cuándo se produjo la colisión de los tranvajes lo supe más tarde. Según el servicio, es decir, sé que el tranvaje expedido por mí, que circula desde Ostrava en dirección a Vřesina, pasa por la parada Koupaliště, luego está la parada Vřesina, donde se encuentra el cruce, donde ya espera un tranvaje desde la dirección opuesta la llegada del tranvaje desde Ostrava, puesto que se trata de una línea de vía única, allí se cruzan estos tranvajes y continúan hacia las estaciones siguientes. Yo conozco esta línea, he pasado por ella varias veces y como despachadora estaba familiarizada con el servicio en esta línea."
+
+"A continuación, el día 11.4, me encargué del servicio de autobuses de sustitución, cuando expedía autobuses para transportar a los pasajeros en esta ruta, que con la colisión quedó prácticamente fuera de servicio. Los autobuses empezaron a circular aproximadamente media hora después del accidente. Y seguí con mi actividad y me ocupé del servicio en la anilla. Luego llegó la policía y yo les entregué, por orden de mi empleador, el diario del despachador y el diario laboral. Aquí solo añadí que los pasajeros en la línea que quedó fuera de servicio fueron transportados por el servicio de autobuses de sustitución."
+
+"Queremos señalar que aproximadamente hora y media antes de la colisión se produjo una situación extraordinaria, en algún punto antes de la cochería Ostrava-Poruba, pero qué acontecimiento concreto ocurrió allí, no lo sé."
+
+Pregunta n.º 1: ¿Entregó durante el turno del día 11.4.2008 el cruce en la línea de vía única, en caso afirmativo, en qué aguja y en qué cursos?
+
+Respuesta: "Entiendo la pregunta, sé lo que significa, pero no realicé la entrega del cruce. No era necesario, la situación operativa no lo requería."
+
+Pregunta n.º 2: ¿Desde qué puntos de la línea de vía única se realiza el aviso de salida?
+
+Respuesta: "Entiendo la pregunta, el aviso de salida se realiza desde la estación Zátiší, es la estación terminal desde la dirección opuesta."
 
 ## Página 25
+
 
 Pregunta n.º 3: ¿De qué lugares le entregó el conductor de la línea n.º 5, turno 402, la exención?
 Respuesta: «Fue desde la parada Zátiší.»
@@ -691,6 +721,7 @@ Destaco que en este turno no hubo ningún trayecto en el que no se produjera el 
 «Recibió nuevamente todos los documentos mencionados anteriormente con todas las obligaciones. En el último trayecto con salida a las 17:30 h desde Zátiší, tras llegar a la vía de apartadero de Vřesina, el conductor ..... (nombre del conductor del tranvía de la línea n.º 5, turno 402 indicado) no esperó, según el horario de circulación vigente, el cruce con el turno 5/201 y, sin dicho cruce, continuó su viaje en dirección a la parada Poruba-Koupaliště. Esta es la causa del accidente mencionado.»
 
 ## Página 26
+
 
 Pregunta n.º 1: Indique si la explotación en el citado tramo en el régimen antes mencionado fue aprobada por la autoridad administrativa ferroviaria competente.
 Respuesta: «La línea de tranvía de vía única Vřesinská-Zátiší está aprobada por la autoridad administrativa ferroviaria. Esta es la institución técnica que ejerce la supervisión estatal en la parte citada y sin su permiso y aprobación no es posible explotar esta línea, ni ninguna otra línea de tranvía bajo la competencia de la Empresa de Transporte de Ostrava (Dopravní podnik Ostrava).»
@@ -717,6 +748,7 @@ El responsable de la Empresa de Transporte de Ostrava a.s. (DPO) n.º 2 en el do
 
 ## Página 27
 
+
 (uvedido nombre), mientras que para la resolución de los accidentes está autorizado ….. (uvedido nombre).“
 „En lo que respecta a la aprobación del funcionamiento de las líneas de tranvía, cada línea debe ser aprobada por la Autoridad Ferroviaria, emitiendo al respecto su opinión el departamento correspondiente del Ayuntamiento de la ciudad de Ostrava. La aprobación de las líneas de tranvía comienza ya desde la documentación de proyecto hasta la autorización de construcción y la autorización de funcionamiento, que emiten las instituciones autorizadas para ello.“
 „Considero que la línea n.º 5, en la que se produjo el accidente el 11.4.2008, disponía de todas las autorizaciones necesarias para su funcionamiento. En la actualidad, la Inspección Ferroviaria también está investigando este asunto, a la cual la empresa de transporte ha facilitado toda la documentación y presta toda la cooperación.“
@@ -736,6 +768,7 @@ Pregunta n.º 5: ¿Se utilizó alguna vez en esta línea la protección denomina
 Respuesta: „No lo sé. Al respecto podría opinar el antiguo director ….. (uvedido nombre).“
 
 ## Página 28
+
 
 Pregunta n.º 6: ¿Se están preparando en esta línea otros cambios en lo que respecta a la seguridad técnica?
 Respuesta: «Los trabajos para mejorar la seguridad de esta línea ya comenzaron el año pasado, cuando surgió la necesidad de tender cables ópticos para poder instalar un sistema de cámaras y otra seguridad adicional (no conozco los detalles ahora). Ahora hemos pasado a una seguridad técnica de orden superior, con el fin de eliminar el error humano, por lo que estamos considerando una seguridad que, en caso de no respetar el cruce, corte el suministro eléctrico para la circulación posterior. Si se cortará la alimentación de la catenaria o el control del tranvía, no puedo decirlo todavía; es una cuestión que se evaluará posteriormente».
@@ -759,6 +792,7 @@ Respuesta: «Si la pregunta se formulara en el sentido de si la línea se podrí
 
 ## Página 29
 
+
 con el tren de tranvía, que circulaba de ida y vuelta, a esto afirmo que sí, pero desde el punto de vista de la capacidad no era ni es posible, porque no se transportaría a todos los pasajeros. También examinamos esta posibilidad tras el accidente, pero no se transportaría a todos los pasajeros, especialmente en las horas punta de la mañana y de la tarde.”
 “En cuanto a si se había considerado la posibilidad de que circulase un solo tren de ida y vuelta por la vía, no lo sé.”
 ### 3.1.2 Otras personas
@@ -776,6 +810,7 @@ Pregunta n.º 2: ¿Por qué no se procedió antes a una mejor seguridad técnica
 Respuesta: «Porque consideraba que la garantía de esa explotación era estándar y no recibí ninguna señal de las personas directamente responsables de dicha explotación de que la situación requeriera alguna solución prioritaria. Por lo tanto, resolvíamos asuntos actuales de la explotación del tranvía ferroviario. Uno de ellos fue, por ejemplo, la reconstrucción del taller de tranvías en la calle Křivá, lo cual constituía una fuente de problemas potenciales dado que era un taller sin salida, con salida diaria hacia atrás a través de un único punto de cruce, sin posibilidad de otra ruta de escape, y en caso de incendio u otra situación excepcional podrían producirse daños enormes.»
 
 ## Página 30
+
 
 Pregunta n.º 3: ¿Consideraba que la seguridad de esta vía era suficiente a pesar de que ya había habido dos accidentes graves en el pasado y dos incidentes graves en el último año?
 Respuesta: «No sabía nada de los accidentes mencionados, ni del de 1975. En aquella época yo no formaba parte de la empresa de transporte. En cuanto a los incidentes de 2007, no se me informó. Si hubiera tenido indicaciones de que había algún problema, definitivamente habría procedido a resolver la explotación de la línea n.º 5.»
@@ -804,53 +839,59 @@ De lo anterior se desprende que el conductor del tranvía de la línea n.º 5, s
 
 ## 3.2
 ### Sistema de garantía de la seguridad
-### 3.2.1 Organización marco y forma en que se dictan y ejecutan las órdenes
-
-Las disposiciones básicas para garantizar las actividades de explotación de la vía férrea y del transporte ferroviario se encuentran, en las condiciones del operador DPO, establecidas en forma de norma interna «Reglas de explotación D1», aprobada el 14.02.2007, con validez desde el 15.02.2007 y entrada en vigor desde el 01.03.2007. Las reglas de explotación contienen procedimientos tecnológicos uniformes emitidos en el sentido del apartado 1, letra b) del artículo 22 y del apartado 1, letra b) del artículo 35 de la ley n.º 266/1994 Coll.
-
-Las reglas de explotación del operador determinan la forma y las condiciones para:
-- la señalización de los dispositivos de la vía,
-- el sistema uniforme de uso de las señales,
-- la explotación de la vía,
-- la manipulación de las agujas y de los dispositivos de seguridad,
-- la organización y la dirección del transporte ferroviario,
-- la seguridad y la protección de la salud durante la explotación del transporte ferroviario.
-
-En las reglas de explotación, en la parte II.5 «Circulación en vía única y cruces en vías de cruce», se indica, entre otras cosas:
-
+### 3.2.1 Organización marco y forma en que se emiten y ejecutan las instrucciones
+Las disposiciones básicas para garantizar las actividades de explotación de la vía y del transporte ferroviario se han dictado, en las condiciones del explotador DPO, en forma de una norma interna «Provozní předpisy D1» (Reglamentos de explotación D1), aprobada el día 
+14. 02. 2007, con vigencia desde el 15. 02. 2007 y eficacia desde el 01. 03. 2007. El reglamento de explotación contiene 
+procedimientos tecnológicos uniformes dictados en el sentido del § 22 apartado 1 letra b) y del § 35 apartado 1 letra b) 
+de la ley núm. 266/1994 Sb.
+El reglamento de explotación del explotador determina la forma y las condiciones para:
+la señalización de las instalaciones de la vía,
+–
+el sistema uniforme de uso de las señales,
+–
+la explotación de la vía,
+–
+la maniobra de los desvíos y de la instalación de seguridad,
+–
+la organización y la dirección del transporte ferroviario,
+–
+la seguridad y la protección de la salud en la explotación del transporte ferroviario.
+–
+En el reglamento de explotación, en la parte II.5 «Circulación en vía de una sola vía y en empalme de vías», se indica, entre otros:
 apartado 2.
-- «La circulación en vías únicas se rige por:
+–
+«La circulación en vías de una sola vía se rige por:
 a) el horario de circulación con cruces regulares,
-b) mediante avisos telefónicos o por radio,
-c) mediante señales luminosas,
-d) según el campo de visión,
-e) mediante el sistema de llave de vía (clef de block).»
-
+b) mediante avisos telefónicos o radiofónicos,
+c) señales luminosas,
+d) según la visibilidad,
+e) con la vara de mando.»
 apartado 4.
-- «En las vías únicas, los trenes se cruzan en las estaciones de cruce. Los horarios de circulación de los trenes para las vías únicas deben contener, además de los datos habituales, la denominación de las estaciones de cruce con los números de los servicios que se cruzan.»
-
+–
+«En las vías de una sola vía, los trenes se cruzan en las estaciones de paso. Los horarios de circulación de trenes para vías de una sola vía deben contener, además de los datos habituales, la denominación de las estaciones de paso con los números de los servicios cruzados.»
 apartado 5.
-- «Para que el despachador que dirige el tráfico en la vía única tenga una visión general del movimiento de los trenes, se presentan avisos desde lugares determinados. El aviso lo presenta el maquinista y se entiende que el tren ha llegado completo al lugar determinado y está preparado para la salida. El aviso se presenta al despachador que dirige el tráfico en la vía única, mediante teléfono de servicio o radio.»
-
+–
+«Para que el despachador, que dirige la circulación en una vía de una sola vía, tenga visión del movimiento de los trenes, se emite un aviso desde los lugares designados. El aviso lo emite el conductor y se entiende por él que el tren ha llegado íntegro al lugar designado y está preparado para salir. El aviso se emite al despachador, que dirige la circulación en la vía de una sola vía, por teléfono de servicio o por estación de radio.»
 apartado 6.
-- «Si no se puede mantener en la vía única el cruce regular establecido por el horario de circulación, o el cruce ya acordado previamente, el cruce debe ser reprogramado.»
-
+–
+«Si no puede mantenerse en la vía de una sola vía el cruce regular previsto en el horario de circulación, o un cruce acordado previamente, el cruce debe aplazarse.»
 apartado 8.
-- «El cruce puede ser reprogramado o establecido solo si el despachador puede comunicarse de forma fiable con los maquinistas sobre el cruce.»
-
+–
+«El cruce solo puede aplazarse o fijarse cuando el despachador y los conductores puedan comunicarse de forma fiable sobre el cruce.»
 apartado 9.
-- «Si un tren no puede llegar por cualquier motivo a la estación de cruce donde debe cruzar según el horario de circulación o según el cruce reprogramado, es obligación del maquinista informar inmediatamente al despachador. Si el tren espera en la estación de cruce donde debe producirse el cruce durante más de 3 minutos, es obligación del maquinista ponerse en contacto con el despachador y seguir sus instrucciones.»
-
+–
+«Si un tren no puede llegar, por cualquier motivo, a la estación de paso en la que deba cruzar según el horario de circulación o según el cruce aplazado, es obligación del conductor informar de ello sin demora al despachador. Si el tren espera en la estación de paso donde tiene el cruce más de 3 minutos, es obligación del conductor ponerse en contacto con el despachador y seguir sus instrucciones.»
 apartado 10.
-- «El despachador evalúa la situación surgida y decide sobre el procedimiento a seguir dictando órdenes para todos los trenes en la vía única afectados por la reprogramación del cruce.»
-
+–
+«El despachador valorará la situación producida y decidirá el procedimiento siguiente emitiendo órdenes para todos los trenes de la vía de una sola vía a los que afecte el aplazamiento.»
 apartado 11.
-- «Las órdenes se dictan sucesivamente, siendo el correspondiente maquinista siempre obligado a anotar la orden en el cuaderno de circulación, leerla al despachador y, tras la pronunciación de la palabra «correcto» por parte del despachador, la orden adquiere validez. Para la reprogramación de cruces, el despachador utiliza la siguiente formulación: «El servicio X se cruza con el servicio Y en la estación Z». El despachador registra la reprogramación del cruce en el diario del despachador.»
-
+–
+«Las órdenes se emiten progresivamente, siendo siempre obligación del conductor correspondiente anotar la orden en el parte de circulación, leérsela al despachador y, tras pronunciar la palabra «correcto» por el despachador, la orden adquiere eficacia. Para aplazar cruces, el despachador utiliza la siguiente formulación: «El servicio X cruza con el servicio Y en la estación de paso Z». El aplazamiento del cruce lo anota el despachador en el diario del despachador.»
 apartado 12.
--
+–
 
 ## Página 32
+
 
 «En caso de que, por cualquier motivo, se produzca un paso de cruce (se considera que se ha producido un paso de cruce cuando el maquinista supera el punto de cruce de la aguja, tras el cual continúa la vía única), el maquinista debe redactar un informe de servicio indicando el lugar, la hora, la dirección de circulación y la distancia recorrida con el tren. El informe de servicio sobre el paso de cruce lo presenta también el maquinista del tren contrario si lo ha observado. Los maquinistas notifican inmediatamente este incidente al despachador de servicio que dirige el tráfico en la vía única y a la central de despachos.»
 
@@ -887,41 +928,39 @@ Los controles orientados al cumplimiento de la velocidad máxima permitida para 
 
 ## Página 33
 
-A continuación, el personal del Departamento de Gestión del Tráfico (DPO) realiza controles aleatorios del cumplimiento de la velocidad máxima permitida de circulación del vehículo ferroviario, mediante la extracción de la tarjeta de registro del dispositivo de registro del vehículo ferroviario (tacógrafo) y la posterior realización de la evaluación de los datos registrados. No se lleva ningún registro de esta actividad de control ni de sus resultados en las condiciones del DPO.
-
-### 3.2.4 Interfaz entre las distintas partes interesadas y las partes de la ruta de tráfico
-
-La única parte interesada afectada por el presente incidente (MU) que explota la infraestructura ferroviaria y el transporte ferroviario es la empresa «Dopravní podnik Ostrava a. s.», con domicilio social en Ostrava-Moravská Ostrava, Poděbradova 494/2, código postal 701 71.
-
-La explotación de la infraestructura ferroviaria es realizada por una persona jurídica – explotador de la infraestructura ferroviaria – con la razón social «Dopravní podnik Ostrava a. s.», sobre la base del documento «Decisión de modificación del Permiso Oficial», emitido para la explotación de la línea de tranvía en el territorio de la Ciudad de Ostrava y de los municipios de Vřesina, Dolní Lhota, Horní Lhota y Budišovice, por el Ayuntamiento de la Ciudad de Ostrava – autoridad administrativa ferroviaria, el 15. 12. 2005, con número de referencia: OD/2836/2005/Pk, con validez por tiempo indeterminado. Respecto al mencionado permiso oficial, se emite el documento «Decisión de modificación del Permiso Oficial», nº de referencia: OD/6455/2007/Pk, de fecha 24. 01. 2008, el cual forma parte inseparable del documento «Decisión de modificación del Permiso Oficial», emitido el 15. 12. 2005, con nº de referencia: OD/2836/2005/Pk.
-
-La explotación del transporte ferroviario es realizada por una persona jurídica – transportista – con la razón social «Dopravní podnik Ostrava a. s.», sobre la base del documento «Decisión de modificación de la licencia», nº de referencia: OD/5713/2005/Pk, de fecha 19. 12. 2005, emitido por el Ayuntamiento de la Ciudad de Ostrava – autoridad administrativa ferroviaria, el 19. 12. 2005, con nº de referencia: OD/5713/2005/Pk, con validez por tiempo determinado – hasta el 31. 08. 2010.
-
+A los empleados del Departamento de Gestión de Operaciones de DPO se les realiza una comprobación aleatoria del cumplimiento de la velocidad máxima permitida de circulación del vehículo ferroviario, mediante la extracción de la tarjeta de registro del dispositivo de registro del vehículo ferroviario (tacógrafo) y la posterior evaluación de los datos registrados. De esta actividad de control y de sus resultados no se lleva ningún registro en las condiciones de DPO.
+### 3.2.4 Interfaz entre los distintos sujetos implicados y los componentes de la vía de circulación
+El único sujeto afectado por el accidente ferroviario en cuestión que explota la vía y el transporte ferroviario es «Dopravní podnik Ostrava a. s.», con domicilio en Ostrava-Moravská Ostrava, Poděbradova 494/2, CP 701 71.
+La explotación de la vía se realiza por parte de la persona jurídica – explotadora de la vía con la denominación social «Dopravní podnik Ostrava a. s.», en virtud del documento «Rozhodnutí o změně Úředního povolení» (Resolución de modificación de la autorización administrativa), emitido para la explotación de la vía de tranvía en el territorio de la Ciudad de Ostrava y de los municipios de Vřesina, Dolní Lhota, Horní Lhota y Budišovice, por el Magistrado de la Ciudad de Ostrava – autoridad administrativa ferroviaria, el 15. 12. 2005, con el n.º de expediente: OD/2836/2005/Pk, con vigencia por tiempo indefinido. Para la autorización administrativa antes mencionada se emite el documento «Rozhodnutí o změně Úředního povolení» (Resolución de modificación de la autorización administrativa), n.º de expediente: OD/6455/2007/Pk, de fecha 24. 01. 2008, que junto con el documento «Rozhodnutí o změně Úředního povolení» (Resolución de modificación de la autorización administrativa), emitido el 15. 12. 2005, con el n.º de expediente: OD/2836/2005/Pk, constituyen un todo indivisible.
+La explotación del transporte ferroviario se realiza por parte de la persona jurídica – transportista con la denominación social «Dopravní podnik Ostrava a. s.», en virtud del documento «Rozhodnutí o změně licence» (Resolución de modificación de la licencia), n.º de expediente: OD/5713/2005/Pk, de fecha 19. 12. 2005, emitido por el Magistrado de la Ciudad de Ostrava – autoridad administrativa ferroviaria el 19. 12. 2005, con el n.º de expediente: OD/5713/2005/Pk, con vigencia por tiempo determinado – hasta el 31. 08. 2010.
 ## 3.3
-
-### Marco jurídico y otras disposiciones
-
+### Regulación jurídica y de otro tipo
 ### 3.3.1 Normativa comunitaria y nacional aplicable
-
-Para la determinación de las causas y las circunstancias de la aparición de este incidente (MU) se utilizaron las siguientes normas nacionales:
-
-- Ley nº 266/1994 Coll., sobre ferrocarriles, en su versión vigente;
-- Decreto nº 100/1995 Coll., por el que se establecen las condiciones para la explotación, construcción y fabricación de determinados equipos técnicos y su concreción (Reglamento de equipos técnicos determinados), en su versión vigente;
-- Decreto nº 101/1995 Coll., por el que se aprueba el Reglamento sobre la aptitud sanitaria y profesional de las personas durante la explotación de la infraestructura ferroviaria y del transporte ferroviario, en su versión vigente;
-- Decreto nº 173/1995 Coll., por el que se aprueba el reglamento de circulación de las líneas férreas, en su versión vigente;
-- Decreto nº 177/1995 Coll., por el que se aprueba el reglamento de construcción y técnica de las líneas férreas, en su versión vigente;
-- Decreto nº 376/2006 Coll., sobre el sistema de seguridad de la explotación de la infraestructura ferroviaria y del transporte ferroviario y los procedimientos en caso de aparición de incidentes en las líneas férreas;
-- Ley nº 361/2000 Coll., sobre la circulación en las vías terrestres y sobre la modificación de algunas leyes, en su versión vigente;
-- Decreto del Ministerio de Transportes (MDaS) nº 30/2001 Coll., por el que se aplican las normas de circulación en las vías terrestres, en su versión vigente;
-- Ley nº 262/2006 Coll., Código del Trabajo, en su versión vigente.
-
-### 3.3.2 Otras normas, por ejemplo, reglamento de explotación, reglamento de trabajo, normas de mantenimiento, normas técnicas vigentes y otras normas internas
-
-Para la determinación de las causas y las circunstancias de la aparición de este incidente (MU) se utilizaron las siguientes normas:
-
-a) Procedimientos tecnológicos unificados del explotador:
+Para la determinación de las causas y circunstancias de la producción de este accidente ferroviario se aplicaron las siguientes normas jurídicas nacionales:
+ley n.º 266/1994 Sb., de vías ferroviarias, en su versión vigente;
+–
+decreto n.º 100/1995 Sb., por el que se establecen las condiciones para la explotación, construcción y fabricación de instalaciones técnicas designadas y su concreción (Reglamento de instalaciones técnicas designadas), en su versión vigente;
+–
+decreto n.º 101/1995 Sb., por el que se aprueba el Reglamento de aptitud sanitaria y profesional de las personas para la explotación de la vía y del transporte ferroviario, en su versión vigente;
+–
+decreto n.º 173/1995 Sb., por el que se aprueba el reglamento de circulación de las vías ferroviarias, en su versión vigente;
+–
+decreto n.º 177/1995 Sb., por el que se aprueba el reglamento de construcción y técnico de las vías ferroviarias, en su versión vigente;
+–
+decreto n.º 376/2006 Sb., sobre el sistema de seguridad de la explotación de la vía y del transporte ferroviario y los procedimientos en caso de producirse sucesos excepcionales en las vías ferroviarias;
+–
+ley n.º 361/2000 Sb., sobre la circulación en las vías de comunicación terrestre y sobre la modificación de determinadas leyes, en su versión vigente;
+–
+decreto del MDaS n.º 30/2001 Sb., por el que se aplican las normas de circulación en las vías de comunicación terrestre, en su versión vigente;
+–
+ley n.º 262/2006 Sb., Código del Trabajo, en su versión vigente.
+–
+3.3.2 Otras normas, p. ej., reglamento de explotación, reglamento laboral, normas de mantenimiento, normas técnicas vigentes y otras normas internas
+Para la determinación de las causas y circunstancias de la producción de este accidente ferroviario se aplicaron las siguientes normas:
+a) procedimientos tecnológicos uniformes del explotador:
 
 ## Página 34
+
 
 - «Reglas de explotación D1 para la explotación de vehículos ferroviarios sobre raíles», aprobadas el 14. 02. 2007, con efecto a partir del 01. 03. 2007;
 - «Directriz – Gestión del tráfico nº 3 /2006 – Notificación de incidentes en el transporte ferroviario a la Inspección de Transporte», aprobada el 11. 07. 2006, con efecto retroactivo a partir del 01. 07. 2006;
@@ -955,46 +994,59 @@ La circulación de los trenes de tranvía en la línea de tranvía de «Dopravn�
 
 ## Página 35
 
-en las exenciones concedidas y las órdenes impartidas se registran por escrito, a saber: el despachador de vía de la estación de Vřesinská mediante anotación en el libro «Libro de explotación del despachador de vía de la estación de Vřesinská» y los maquinistas de los trenes de tranvía individuales en el cuaderno de marcha.
-
-No existe un dispositivo de seguridad que garantice la transmisión de la circulación de los trenes de tranvía en la vía.
-
-La circulación de los trenes de tranvía en el tramo de vía en cuestión se regula, a tenor del artículo 28, apartado 1, del Decreto n.º 173/1995 Coll., por la distancia mutua según las condiciones de visibilidad. Por circulación según las condiciones de visibilidad se entiende una circulación no protegida de un vehículo de tracción (DV) controlada únicamente por la visión del conductor del DV, de modo que el DV se detenga antes que otro DV que ponga en peligro su circulación, es decir, un DV detenido o un DV que circule en la misma dirección, a tenor de las garantías técnicas y organizativas del tráfico unidireccional y, según las posibilidades, antes que otro obstáculo.
-
-Los DV participantes están equipados con dispositivos de registro electrónico que registran las magnitudes básicas y complementarias (denominadas «señales de estado») sobre la actividad del DV en los últimos 500 (quinientos) metros de recorrido del vehículo, con una precisión de registro y visualización del valor inicial de la velocidad de frenado de ±1 km/h, una precisión de registro y visualización de la distancia de frenado de ±0,1 m y una precisión de registro y visualización de la deceleración uniforme de ±5 % del valor real. Se trata del conjunto del tacógrafo TT-32, compuesto por el conjunto del velocímetro y el conjunto del tacógrafo, que forman:
-
-a) el conjunto del velocímetro:
-sensor de velocidad con cable y pantalla de dos líneas,
+o podaných odhláškách a udělených příkazech jsou zaznamenávány písemnou formou, a to 
+traťovým dispečerem stanoviště Vřesinská zápisem do knihy „Provozní kniha traťového dispečera 
+stanoviště Vřesinská“ a řidiči jednotlivých tramvajových vlaků do jízdního výkazu.
+Zabezpečovací zařízení zajišťující přenos jízdy tramvajových vlaků na dráze není. 
+Jízdy tramvajových vlaků v předmětném traťovém úseku se, ve smyslu § 28 odst. 1 vyhlášky č. 
+173/1995 Sb., řídí na vzájemnou vzdálenost podle rozhledových poměrů. Jízdou podle 
+rozhledových poměrů je myšlena nezabezpečená jízda DV řízená pouze rozhledem osoby řídící 
+DV tak, aby DV zastavilo před jiným DV ohrožujícím jeho jízdu, tzn. stojícím DV nebo DV jedoucím 
+stejným směrem, ve smyslu technického a organizačního zajištění jednosměrného provozu a 
+podle možností i před jinou překážkou.
+Zúčastněná DV jsou vybavena elektronickými záznamovými zařízeními, která zaznamenávají 
+základní a doplňkové veličiny (tzv. stavové signály) o činnosti DV na posledních 500 (pět set) 
+metrech jízdy vozidla s přesností záznamu a zobrazení počáteční hodnoty rychlosti brzdění ±1 
+km.h-1, přesností záznamu a zobrazení brzdné dráhy ±0,1 m a přesností záznamu a zobrazení 
+rovnoměrného zpoždění ±5% ze skutečné hodnoty. Jedná se o soupravu tachografu TT-32 
+sestávající ze soupravy rychloměru a soupravy tachografu, jež tvoří:
+a) soupravu rychloměru:
+čidlo rychlosti s kabelem a dvouřádkovým displejem,
 –
-unidad de visualización y indicador analógico de velocidad con pantalla de dos líneas o
+zobrazovací jednotka a analogový ukazatel rychlosti a dvouřádkovým displejem nebo 
 –
-unidad de visualización con visualización digital de la velocidad y pantalla numérica de dos líneas,
-cable para conectar el sensor con la unidad de visualización;
+zobrazovací jednotka s digitálním zobrazením rychlosti a dvouřádkovým číslicovým displejem,
+kabel k propojení čidla se zobrazovací jednotkou;
 –
-
-b) el conjunto del tacógrafo:
-sensor de velocidad,
+b) soupravu tachografu:
+čidlo rychlosti,
 –
-unidad de visualización con indicador analógico de velocidad y pantalla numérica de dos líneas,
+zobrazovací jednotka a analogovým ukazatelem rychlosti a dvouřádkovým číslicovým 
 –
-unidad de registro con tarjeta de memoria PCMCIA intercambiable,
+displejem, 
+záznamová jednotka s výměnnou paměťovou kartou PCMCIA,
 –
-cables.
+kabely.
 –
-
-El registro de las magnitudes se realiza electrónicamente, es decir, mediante un registro de datos en la tarjeta de memoria PCMCIA. La evaluación de los registros la llevan a cabo personas cualificadas profesionalmente: empleados del operador, del departamento de Revisión y Control Técnico.
-
-El DV MTV de tipo K2G, n.º de registro 810, está equipado con el conjunto del tacógrafo TT-32 (n.º de tacógrafo 1075) con un rango del velocímetro de 0 a 80 km/h.
-
-El DV MTV de tipo T3-SUCS, n.º de registro 902, está equipado con el conjunto del tacógrafo TT-32 (n.º de tacógrafo 1165) con un rango del velocímetro de 0 a 80 km/h.
-
-El DV MTV de tipo T3-SUCS, n.º de registro 906, está equipado con el conjunto del tacógrafo TT-32 (n.º de tacógrafo 1599) con un rango del velocímetro de 0 a 80 km/h.
-
+Registrace veličin je zaznamenávána elektronicky, tzn. datovým záznamem na paměťové kartě 
+PCMCIA. Vyhodnocování záznamů je prováděno odborně způsobilými osobami – zaměstnanci 
+provozovatele, oddělení Revize a Technická kontrola.
+DV MTV typu K2G, ev. č. 810 je vybaveno soupravu tachografu TT-32 (číslo tachografu 1075) s 
+rozsahem rychloměru 0 až 80 km.h-1.
+DV MTV typu T3-SUCS, ev. č. 902 je vybaveno soupravu tachografu TT-32 (číslo tachografu 1165) 
+s rozsahem rychloměru 0 až 80 km.h-1.
+DV MTV typu T3-SUCS, ev. č. 906 je vybaveno soupravu tachografu TT-32 (číslo tachografu 1599) 
+s rozsahem rychloměru 0 až 80 km.h-1.
 ### 3.4.2 Componentes de la vía
-
-La vía de tranvía en el lugar de producción del accidente (MU), en la dirección desde el inicio de la vía (dirección de circulación del tren de tranvía de la línea n.º 5, turno 402), está formada por una curva a la derecha con un radio de R=300 m y una diferencia de nivel entre las alas de los rieles de 48 mm; la pendiente longitudinal de la vía desde el pk 6,793 hasta el pk 7,523 es del -5,2‰. La transición entre la vía con desnivel y la vía sin desnivel se realiza mediante una parábola de transición de pendiente uniforme. Las transiciones entre la curva a la derecha con radio R=300 m y los tramos rectos de la vía son suaves y están formadas por curvas de transición. La curva de transición antes de la curva comienza en el pk 6,847 y termina en el pk 6,871; la curva de transición después de la curva comienza en el pk 6,943 y termina en el pk 6,967. La superficie de rodadura de la vía de tranvía está formada por rieles de patín ancho de forma (tipo) S 49 sobre durmientes de hormigón PB2. En el tramo de vía en
+El tranvía en el lugar del suceso, en el sentido desde el inicio de la línea (sentido de circulación del tren de tranvía de la línea n.º 5, servicio 402) está formado por una curva a la derecha de radio R=300 m con un peralte mutuo de las bandas de riel de 48 mm, la pendiente longitudinal de la vía desde el km 6,793 hasta el km 7,523 es de -5,2‰. 
+La transición entre la vía peraltada y la no peraltada se realiza mediante una rampa de pendiente uniforme. 
+Las transiciones entre la curva a la derecha de radio R=300 m y los tramos rectos de la vía son suaves y están formadas por transiciones. 
+La transición antes de la curva comienza en el km 6,847 y termina en el km 6,871, la transición después de la curva comienza en el km 6,943 y termina en el km 6,967. 
+La superestructura del tranvía está formada por raíles de ancho de vía de forma (tipo) S 49 sobre traviesas de hormigón PB2. 
+En el tramo de vía
 
 ## Página 36
+
 
 cuestión, la vía de tranvía transcurre sobre un terraplén independiente y no está dotada de cubierta de vía de tranvía. En los pk 6,811 y 6,915 de las vías de tranvía se encuentran situados pasos a nivel que cruzan la vía para dar paso a comunicaciones de uso específico. Ambos pasos a nivel están señalizados en ambos lados del movimiento de los participantes en la circulación en las vías públicas con señales de tráfico verticales A 32a «Cruz de advertencia para paso a nivel de vía única».
 
@@ -1040,6 +1092,7 @@ la traviesa trasera del freno de rieles (bogie n.º 3) dejó la primera marca de
 
 ## Página 37
 
+
 distancia de 69,5 m desde el punto de colisión en el pk 6,9115 (en adelante, punto «0»).
 El conjunto de vehículos ferroviarios MTV de tipo T3SU-CS, núm. de inventario 907 y núm. de inventario 903, se detuvo en el lugar en el que la posición de la viga del freno de rieles trasero (bogie n.º 2) del vehículo ferroviario MTV de tipo T3SU-CS, núm. de inventario 903, correspondía al lugar del primer rastro de frenado del vehículo ferroviario MTV de tipo T3SU-CS, núm. de inventario 902, es decir, a una distancia de 62,1 m del punto «0». Los frentes del vehículo ferroviario MTV de tipo K2G, núm. de inventario 808, y del vehículo ferroviario MTV de tipo T3SU-CS, núm. de inventario 907, se encontraban en este caso de detención a una distancia de 75,95 m —medida en el eje de la curva a la derecha (desde la dirección de circulación del vehículo ferroviario núm. de inventario 808) de la vía con un radio de 300 m. La distancia perpendicular mutua entre los frentes de los vehículos ferroviarios núm. de inventario 808 y núm. de inventario 907 era de 75,6 m.
 Como resultado de esta posición de los vehículos ferroviarios se determinó que la visibilidad mutua hacia el frente del vehículo ferroviario que circulaba en sentido contrario no estaba reducida ni obstruida en absoluto.
@@ -1053,6 +1106,7 @@ ad 2) Los cálculos de las distancias de frenado de los trenes tranviarios deben
 Mediante un cálculo orientativo de la distancia de frenado del tren tranviario que circulaba desde la dirección de la vía de enlace Vřesina, compuesto por el vehículo ferroviario K2G (TV8), núm. de inventario 810, se calculó que para la detención segura de dicho vehículo ferroviario que circulaba en un tramo recto, en una curva a la derecha con un radio R = 300 m con una peraltación de las bandas de rodadura de los rieles p = 48 mm en una pendiente longitudinal de la línea s =
 
 ## Página 38
+
 
 +5,2 ‰ (en realidad -5,2 ‰) y, al iniciar el frenado mediante el freno de rieles a una velocidad de v = 61,9 km/h, se requiere una distancia de frenado de 62,37 m para detener el vehículo ferroviario.
 Mediante el cálculo de la distancia de frenado del tren de tranvía compuesto por el material rodante que circulaba procedente de la parada Poruba koupaliště, formado por el DV MTV de tipo T3SU-CS, núm. de inventario 906 y núm. de inventario 902, se determinó que para la detención segura de dicho material rodante ferroviario que circulaba en un tramo recto, en una curva a la izquierda con radio R = 300 m y con peralte de las cabezas de los rieles p = 48 mm, en una pendiente longitudinal de la vía s = -5,2 ‰ (en realidad +5,2 ‰) y al iniciar el frenado mediante el freno de rieles a una velocidad de v = 55,3 km/h, se requiere una distancia de frenado de 48,34 m para detener el vehículo ferroviario.
@@ -1068,6 +1122,7 @@ De la prueba de verificación se obtuvo una grabación de vídeo y documentació
 Durante la circulación de los trenes de tranvía de la línea n.º 5, servicio 402 (DV MTV de tipo K2G, núm. de inventario 810), que partió según el horario vigente desde el terminal Zátiší a las 17.39 h, y de la línea n.º 5, servicio 201 (DV MTV de tipo T3-SUCS, núm. de inventario 906 y 902), que partió según el horario vigente desde el terminal Vřesinská a las 17.45 h, no se utilizaron medios de comunicación por ninguno de los maquinistas de los trenes de tranvía de la línea n.º 5, servicios
 
 ## Página 39
+
 
 402 a 201, no se utilizaron medios de comunicación.
 ### 3.4.4 Vehículos ferroviarios, incluidos los dispositivos de registro automático de datos
@@ -1122,6 +1177,7 @@ a las 17:51:28 h., a partir de una velocidad de 30 km.h-1 a una distancia de 4,5
 
 ## Página 40
 
+
 una brusca disminución de la velocidad hasta el valor de 27 km/h a una distancia de 3,3 m antes del final del registro,
 que corresponde al perfil de velocidad durante la destrucción de los frentes de los vehículos de tracción múltiple (VTM) MTV de tipo K2G, núm. ev. 810, y del VTM MTV de tipo T3SU-CS, núm. ev. 906,
 a las 17:51:28 h, desde una distancia de 3,3 m antes del final del registro hasta 2,3 m antes del final del registro
@@ -1169,6 +1225,7 @@ Al comparar los datos del informe «Cálculo de las desaceleraciones de frenado 
 
 ## Página 41
 
+
 07.2008, con los valores de visibilidad de los frentes de los VTM que circulaban en sentido contrario, medidos durante la prueba de verificación llevada a cabo el 14.04.2008 en el lugar de la MU, se deduce que los conductores de los VTM implicados, a pesar de utilizar los frenos de servicio y los frenos de rieles, no pudieron evitar la colisión. Según el informe «Cálculo de las desaceleraciones de frenado y las distancias de frenado de los vehículos», de fecha 11.07.2008, la colisión de los VTM que circulaban en sentido contrario no se habría producido con una visibilidad mutua de los frentes igual o superior a 120,6 m.
 ## 3.5
 ### Documentación del sistema de explotación
@@ -1183,6 +1240,7 @@ Los primeros avisos en relación con la MU los realizaron las personas, pasajero
 La protección y seguridad del lugar de aparición de la MU se garantizó en colaboración con la Policía de la República Checa (PČR) y la Policía Municipal (MP), de conformidad con el artículo 9 del Decreto n.º 376/2006 Coll., por parte de las personas autorizadas del titular de la infraestructura. El consentimiento para iniciar las labores de limpieza fue concedido por la Inspección Ferroviaria de la Región de Moravia y Silesia (DI COP) a las 23:00 h.
 
 ## Página 42
+
 
 ## 3.6
 ### Condiciones laborales, sanitarias y de explotación
@@ -1217,62 +1275,70 @@ el cruce establecido en el VJŘ y entró ilegalmente en la vía de circulación 
 
 ## Página 43
 
-materiales relacionados.
-
-El 28.01.2002 a las 04.08 h.
-  el conductor del tranvía no esperó con el tranvía de la línea n.º 5, servicio 101, en
+de los materiales relacionados.
+El 28. 01. 2002 a las 04.08 h.
+  el conductor del tranvía no esperó con el tranvía de la línea n.º 9, servicio 101, en 
 –
-el desvío Dolní Lhota el cruce establecido en el VJŘ y entró ilegalmente en la vía de circulación del tranvía de la línea n.º 9, servicio 104. No se produjo colisión entre los tranvías.
-
-El 07.03.2002 a las 15.06 h.
-  el conductor del tranvía no esperó con el tranvía de la línea n.º 5, servicio 201, en
+la maniobra de enlace de Dolní Lhota la cruzada establecida por VJŘ y entró indebidamente en la vía 
+del tranvía de la línea n.º 9 que circulaba en sentido contrario, servicio 104. No se produjo ninguna colisión entre tranvías.
+El 07. 03. 2002 a las 15.06 h.
+  el conductor del tranvía no esperó con el tranvía de la línea n.º 5, servicio 201, en 
 –
-el desvío Vřesina el cruce establecido en el VJŘ y entró ilegalmente en la vía de circulación del tranvía de la línea n.º 5, servicio 402. No se produjo colisión entre los tranvías.
-
-El 16.05.2002 a las 14.59 h.
-  el conductor del tranvía no esperó con el tranvía de la línea n.º 9, servicio 410, en
+la maniobra de enlace de Vřesina la cruzada establecida por VJŘ y entró indebidamente en la vía 
+del tranvía de la línea n.º 5 que circulaba en sentido contrario, servicio 402. No se produjo ninguna colisión entre tranvías.
+El 16. 05. 2002 a las 14.59 h.
+  el conductor del tranvía no esperó con el tranvía de la línea n.º 9, servicio 410, en 
 –
-el desvío Dolní Lhota el cruce establecido en el VJŘ y entró ilegalmente en la vía de circulación del tranvía de la línea n.º 5, servicio 201. No se produjo colisión entre los tranvías.
-
-El 10.08.2004 a las 03.31 h.
-  el conductor del DPO del tranvía de la línea n.º 9, servicio 101, tras llegar a la terminal
+la maniobra de enlace de Dolní Lhota la cruzada establecida por VJŘ y entró indebidamente en la vía 
+del tranvía de la línea n.º 5 que circulaba en sentido contrario, servicio 201. No se produjo ninguna colisión entre tranvías.
+El 10. 08. 2004 a las 03.31 h.
+  el conductor de DPO del tranvía de la línea n.º 9, servicio 101, tras llegar a la 
 –
-Zátiší, no presentó el aviso de finalización de servicio al despachador de tráfico de la estación Vřesinská.
-
-El 10.08.2004 a las 03.45 h.
-  el conductor del tranvía no esperó con el tranvía de la línea n.º 9, servicio 101, en
+bucle de Zátiší no comunicó al despachador de vía la baja (odhláška) de la estación Vřesinská.
+El 10. 08. 2004 a las 03.45 h.
+  el conductor del tranvía no esperó con el tranvía de la línea n.º 9, servicio 101, en 
 –
-el desvío Vřesina el cruce establecido en el VJŘ y entró ilegalmente en la vía de circulación del tranvía de la línea n.º 9, servicio 103. No se produjo colisión entre los tranvías.
-
-El 18.02.2005 a las 15.12 h.
-  el conductor del DPO no esperó con el tranvía de la línea n.º 5, servicio 402, en el desvío
+la maniobra de enlace de Vřesina la cruzada establecida por VJŘ y entró indebidamente en la vía 
+del tranvía de la línea n.º 9 que circulaba en sentido contrario, servicio 103. No se produjo ninguna colisión entre tranvías.
+El 18. 02. 2005 a las 15.12 h.
+  el conductor de DPO no esperó con el tranvía de la línea n.º 5, servicio 402, en la maniobra de 
 –
-Dolní Lhota el cruce establecido en el VJŘ y entró ilegalmente en la vía de circulación del tranvía de la línea n.º 9, servicio 409. No se produjo colisión entre los tranvías.
-
-El 24.04.2007 a las 04.46 h.
-  el conductor del DPO no esperó con el tranvía de la línea n.º 8, servicio 102, en el desvío
+enlace de Dolní Lhota la cruzada establecida por VJŘ y entró indebidamente en la vía 
+del tranvía de la línea n.º 9 que circulaba en sentido contrario, servicio 409. No se produjo ninguna colisión entre tranvías.
+El 24. 04. 2007 a las 04.46 h.
+  el conductor de DPO no esperó con el tranvía de la línea n.º 8, servicio 102, en la maniobra de 
 –
-Dolní Lhota el cruce establecido en el VJŘ y entró ilegalmente en la vía de circulación del tranvía de la línea n.º 5, servicio 402. No se produjo colisión entre los tranvías.
-
-El 06.07.2007 a las 10.50 h.
-  el conductor del DPO no esperó con el tranvía de la línea n.º 5, servicio 102, en el desvío
+enlace de Dolní Lhota la cruzada establecida por VJŘ y entró indebidamente en la vía 
+del tranvía de la línea n.º 5 que circulaba en sentido contrario, servicio 402. No se produjo ninguna colisión entre tranvías.
+El 06. 07. 2007 a las 10.50 h.
+  el conductor de DPO no esperó con el tranvía de la línea n.º 5, servicio 102, en la maniobra de 
 –
-Vřesina el cruce establecido en el VJŘ y entró ilegalmente en la vía de circulación del tranvía de la línea n.º 5, servicio 101. No se produjo colisión entre los tranvías.
-
-Ninguno de los incidentes extraordinarios mencionados anteriormente, ocurridos desde el 01.01.2003, fue evaluado por el administrador de la infraestructura como IE, por lo que el DPO no notificó la aparición del IE a la Inspección Ferroviaria, no garantizó la seguridad del lugar del IE y no determinó las causas y circunstancias de la aparición del IE en el transporte ferroviario. Además de las medidas adoptadas contra los conductores responsables del tranvía, en el sentido del Código del Trabajo y de las medidas que consisten en la suspensión de la aptitud profesional (exámenes de conocimientos de los conductores de tranvía, en algunos casos, retirada temporal del Certificado de aptitud para la conducción de DV por parte de la autoridad administrativa ferroviaria), el administrador de la infraestructura no adoptó medidas eficaces y sistémicas para prevenir la aparición de IE similares.
-
-Por las razones mencionadas anteriormente, la Inspección Ferroviaria inició, el 15.05.2008 bajo el n.º de expediente 5-371/2008-DI y el 30.07.2008 bajo el n.º de expediente 5-436/2008-DI, conforme con el apartado 6 del artículo 51 de la Ley n.º 266/1994 Coll., un procedimiento para imponer una multa por infracción administrativa.
-
+enlace de Vřesina la cruzada establecida por VJŘ y entró indebidamente en la vía 
+del tranvía de la línea n.º 5 que circulaba en sentido contrario, servicio 101. No se produjo ninguna colisión entre tranvías.
+Ninguno de los sucesos extraordinarios anteriormente indicados, ocurridos a partir del 01. 01. 2003, fue valorado por el operador 
+como MU, y por ello DPO no notificó la ocurrencia de una MU a la Inspección Ferroviaria, no aseguró el lugar de la MU, 
+no realizó la investigación de las causas y circunstancias de la ocurrencia de la MU en el transporte ferroviario. Aparte de las medidas adoptadas frente a 
+los conductores de tranvía responsables, en el sentido del Código del Trabajo, y las medidas consistentes en la suspensión de 
+la aptitud profesional (reexamen de los conocimientos de los conductores de tranvía, en algunos casos retirada temporal 
+del Permiso de Aptitud para la Conducción de DV por la autoridad administrativa ferroviaria), el operador no adoptó ninguna 
+medida eficaz y sistémica para prevenir la ocurrencia de MU similares. 
+Por las razones anteriormente indicadas, la Inspección Ferroviaria inició contra DPO el 15. 05. 2008 con el ref. 
+5-371/2008-DI y el 30. 07. 2008 con el ref. 5-436/2008-DI, en el sentido del § 51 apartado 6 de la ley n.º 266/1994 
+Sb., el procedimiento para la imposición de una multa por infracción administrativa.
 ## 4 ANÁLISIS Y CONCLUSIONES
-
 ## 4.1
-### Descripción final del incidente extraordinario
-
-### 4.1.1 Descripción final del incidente extraordinario sobre la base de los hechos establecidos en el punto 3
-
-El IE se produjo el 11 de abril de 2008, a las 17:51 h, en la vía de tranvía de la empresa «Dopravní podnik Ostrava a. s.», en el punto kilométrico 6,9115 del tramo de vía única Budišovice, Zátiší – Vřesinská, entre las paradas Vřesina y Poruba koupaliště, en el término municipal de la localidad de Vřesina. En el IE se produjeron colisiones frontales entre el DV del tranvía de la línea n.º 5, servicio 402, y el DV del tranvía de la línea n.º 5, servicio 201. El tren de tranvía de la línea n.º 5, servicio 402, estaba compuesto por un DV del MTV tipo K2G, n.º de registro 810; el tren de tranvía de la línea n.º 5, servicio 201, estaba compuesto por el conjunto 2 (dos) DV del MTV tipo T3SU-CS, n.º de registro 906 y 902.
+### Descripción final del suceso extraordinario
+### 4.1.1 Descripción final del suceso extraordinario basada en los hechos constatados 
+en el punto 3
+La MU se produjo el 11 de abril de 2008, a las 17:51 h., en el tranvía «Dopravní podnik Ostrava a. 
+s.», en el km 6,9115 del tramo de vía única Budišovice, Zátiší – Vřesinská, entre las paradas 
+Vřesina y Poruba koupaliště, en el término municipal de Vřesina. En la MU se produjo una colisión frontal entre el DV del tranvía de la línea n.º 5, servicio 402, 
+y el tranvía de la línea n.º 5, servicio 201. El tren de tranvía de la línea n.º 5, servicio 402, 
+estaba formado por un DV MTV tipo K2G, n.º de inventario 810; el tren de tranvía de la línea n.º 5, servicio 201, constaba de 
+una composición de 2 (dos) DV MTV tipo T3SU-CS, n.º de inventario 906 y 902.
 
 ## Página 44
+
 
 El 11 de abril de 2008 a las 17:39 h, el tranvía de la línea n.º 5, servicio 402, salió del terminal Zátiší. La circulación se desarrolló de conformidad con los procedimientos tecnológicos unitarios del operador del transporte ferroviario – VJŘ de la línea n.º 5, servicio 402 – que establecían para el conductor del tranvía de la línea n.º 5, servicio 402, los horarios de llegada y salida de las paradas y apartaderos de Zátiší, Dolní Lhota, Krásné Pole, Vřesina y Vřesinská, así como el cruce regular destacado en color en el apartadero de Vřesina. Se había establecido para el servicio de tranvía de la línea n.º 5, servicio 402, en cuestión, que había salido de la parada inicial de Zátiší a las 17:39 h, un cruce regular en el apartadero de Vřesina con el tranvía de la línea n.º 5, servicio 201; para el servicio en cuestión no se había establecido en el VJŘ un cruce regular en el apartadero de Dolní Lhota. La circulación del tranvía de la línea n.º 5, servicio 402, entre las paradas de Zátiší y Vřesina se desarrolló sin incidencias y de conformidad con los procedimientos tecnológicos unitarios del operador. A las 17:50:29 h, el conductor del tranvía de la línea n.º 5, servicio 402, se detuvo para el embarque y desembarque de viajeros en la señalización de la parada situada en el apartadero de Vřesina. El conductor no bajó del tranvía y, tras realizar el embarque y desembarque de los viajeros, puso en movimiento el tranvía de la línea n.º 5, servicio 402, a las 17:50:46 h, a pesar de que el VJŘ le había asignado en el apartadero de Vřesina un cruce regular con el tranvía de la línea n.º 5, servicio 201. Al salir del apartadero de Vřesina, el tren de tranvías de la línea n.º 5, servicio 402, entró en el tramo de vía comprendido entre el apartadero de Vřesina y la parada de Poruba koupaliště en un momento en que, en el tramo en cuestión, y a tenor del apartado 2 del artículo 28 del Decreto n.º 173/1995 Coll., la circulación unidireccional del tren de tranvías de la línea n.º 5, servicio 201, en sentido contrario, estaba garantizada mediante una medida técnica y organizativa del operador. El tren de tranvías de la línea n.º 5, servicio 201, salió de la parada de Poruba koupaliště a las 17:50:09 h, tras el embarque y desembarque de los viajeros. Al atravesar una curva derecha de radio R=300 m en el tramo de vía en cuestión, el conductor del servicio n.º 5, servicio 402, probablemente en el pk 6,8488, avistó el tren de tranvías de la línea n.º 5, servicio 201, que circulaba en sentido contrario. Ante la situación creada, el conductor del tranvía de la línea n.º 5, servicio 402, reaccionó en el pk 6,8661 activando el freno de servicio y, posteriormente, en el pk 6,8699, el freno de rieles. El conductor del tranvía de la línea n.º 5, servicio 201, avistó el tren de tranvías de la línea n.º 5, servicio 402, que circulaba en sentido contrario, probablemente en el pk 6,970. Ante la situación creada, el conductor del tranvía de la línea n.º 5, servicio 201, reaccionó en el pk 6,9551 activando el freno de servicio y, posteriormente, en el pk 6,9539, el freno de rieles. Debido a la corta distancia, los conductores de los trenes de tranvías de la línea n.º 5, servicios 402 y 201, no lograron detener el tren y se produjo una colisión frontal en el pk 6,9115. En el accidente, quedaron totalmente deformadas las partes delanteras de todos los trenes de tranvías (MTV) participantes, es decir, el K2G, núm. de serie 810, el T3SU-CS, núm. de serie 902, y el T3SU-CS, núm. de serie 906, así como la parte trasera del tren de tranvías (MTV) de tipo T3SU-CS, núm. de serie 906, y se produjo asimismo el entrelazamiento mutuo de todos los trenes de tranvías participantes. El tren de tranvías (MTV) de tipo T3SU-CS, núm. de serie 906, y el K2G, núm. de serie 810, quedaron entrelazados por sus partes delanteras hasta el nivel de los montantes de las ventanas entre la primera y la segunda ventana lateral (lado izquierdo del tren), y respectivamente hasta el nivel de los montantes de las puertas tras las puertas delanteras (lado derecho del tren). El tren de tranvías (MTV) de tipo T3SU-CS, núm. de serie 902, conducido, quedó entrelazado en el tren de tranvías (MTV) de tipo T3SU-CS, núm. de serie 906, conductor, debido a las fuerzas de inercia, hasta el nivel del montante de la puerta situado delante de las puertas traseras (lado derecho del tren) y del montante delantero de la última ventana lateral (lado derecho del tren). Como consecuencia de la dinámica del accidente, todos los trenes de tranvías participantes descarrilaron por el primer bogie, por ambos ejes. Las segundas parejas de ruedas de los segundos bogies de todos los trenes de tranvías participantes permanecieron sin descarrilar tras el accidente.
 ## 4.2
@@ -1282,6 +1348,7 @@ El operador no garantizó que el conductor del tren de tranvías de la línea n.
 Con la entrada del tren de tranvías de la línea n.º 5, servicio 402, se produjo, a tenor del apartado 1, letra a), del artículo 35 de la Ley n.º 266/1994 Coll., en relación con lo dispuesto en el apartado 1 del artículo 28 del Decreto n.º 173/1995 Coll., una grave puesta en peligro de la seguridad de la explotación del transporte ferroviario, en la medida en que el conductor del tranvía de la línea n.º 5, servicio 402,
 
 ## Página 45
+
 
 no respetó los procedimientos tecnológicos unitarios del operador.
 El operador, a tenor del artículo 35 apartado 1 letra a) de la ley n.º 266/1994 Coll., no garantizó la explotación del transporte ferroviario conforme a las normas de explotación del transporte ferroviario, en la medida en que la persona a cargo del vehículo ferroviario – el conductor del tren de tranvía de la línea n.º 5, servicio 402 – excedió la velocidad máxima permitida durante la circulación del tren de tranvía. Dicha velocidad máxima permitida está establecida en los procedimientos tecnológicos unitarios del operador, contenidos en los puntos 1 y 9 de la parte II.7.6 «Velocidad de circulación» del reglamento interno «Normas de explotación D1» de la siguiente manera:
@@ -1300,6 +1367,7 @@ El valor calculado de la desaceleración media con una carga del vehículo ferro
 
 ## Página 46
 
+
 vías horizontales (véase el informe «Cálculo de las desaceleraciones y distancias de frenado de los vehículos ferroviarios», de fecha 11.07.2008) asciende a:
 – para el vehículo ferroviario MTV de tipo K2G, núm. de inventario 810 …..................... 2,5 m.s-2,
 –
@@ -1316,6 +1384,7 @@ A pesar de que la organización y la garantía técnica de la explotación de la
 ### no adoptar medidas sistemáticas para prevenir la aparición de accidentes similares.
 
 ## Página 47
+
 
 El explotador, a efectos del artículo 22, apartado 1, letra a), de la ley n.º 266/1994 Coll., no explotaba la vía para las necesidades del tráfico ferroviario fluido y seguro conforme a las normas de explotación de la vía, al no garantizar, a efectos del artículo 4, apartado 7, del decreto n.º 177/1995 Coll., por el que se aprueba el reglamento de construcción y técnica de las vías, en su versión vigente (en lo sucesivo, decreto n.º 177/1995 Coll.), y del artículo 7.4.1 de la norma técnica checa ČSN 73 6380 «Paso a nivel y paso peatonal ferroviario» (en lo sucesivo, ČSN 73 6380), una visibilidad despejada hacia la vía, es decir, hacia la parte delantera del vehículo ferroviario, para los conductores de vehículos de carretera, en el cruce de la vía con la carretera en el punto kilométrico (pk) 6,915, protegido con cruces de San Andrés, en el tramo de vía adyacente al paso a nivel, de la siguiente manera:
 – a la izquierda y a la derecha, en dirección procedente del apartadero de Vřesina, no se respetó la distancia de visibilidad para vehículos de carretera Lr;
@@ -1338,6 +1407,7 @@ El servicio de tranvía de la línea n.º 5, servicio 402, que salió de la para
 Al entrar el DV del tranvía de la línea n.º 5, servicio 402, se produjo una grave puesta en peligro de la explotación segura del tráfico ferroviario, a efectos del artículo 35, apartado 1, letra a), de la ley n.º 266/1994 Coll., en relación con lo dispuesto en el artículo 28, apartado 1, del decreto n.º 173/1995 Coll., ya que el conductor del tranvía de la línea n.º 5, servicio 402, no respetó las disposiciones de los puntos 2 y 3 de la parte II.5 «Circulación en vía única y en derivaciones» del reglamento interno «Normas de explotación D1» del explotador, ni el cruce con el tranvía de la línea n.º 5, servicio 201, establecido en el horario de circulación y las reglas (VJŘ) a las 17:50 horas en el apartadero de Vřesina, es decir, las medidas organizativas emitidas por el explotador para garantizar el tráfico del DV en los tramos de vía única.
 
 ## Página 48
+
 
 ### 4.3.2 Causas fundamentales relacionadas con la cualificación, los procedimientos y el mantenimiento
 
@@ -1365,6 +1435,7 @@ El explotador, a efectos del artículo 22, apartado 1, letra a), de la ley n.º 
 
 ## Página 49
 
+
 ## 5 MEDIDAS ADOPTADAS
 ## 5.1
 ### Relación de las medidas que ya se han adoptado o tomado como consecuencia del incidente extraordinario
@@ -1386,6 +1457,7 @@ Los conductores de los trenes de tranvías están obligados a presentar las sali
 
 ## Página 50
 
+
 ● el lugar desde el que realiza la salida,
 ● la dirección en la que pretende continuar la circulación,
 ● si en el lugar en cuestión tiene o no un cruce y, en caso afirmativo, con qué servicio,
@@ -1394,23 +1466,46 @@ Los conductores de los trenes de tranvías están obligados a presentar las sali
 ● «En la estación de desvío se advierte de la obligación de prestar mayor atención al cruce mediante una luz de señalización de color naranja (véase la fig. 2, 3). Tras realizar la salida y la confirmación de la circulación siguiente por parte del despachador de vía de la estación de Vřesinská, el conductor del tren de tranvías apaga esta luz de señalización mediante un transmisor de radio y, a continuación, entra en el tramo de vía única. El controlador de radio de las luces de señalización lo reciben los conductores de los trenes de tranvías del despachador de vía de la estación de Vřesinská, antes de entrar en la vía única. Para cada dirección de circulación está configurada una frecuencia de radio. La designación de la frecuencia correspondiente (I, II) se indica en la etiqueta junto a la luz de señalización.»
 Foto 2: Luz de señalización situada en la estación de desvío de Dolní Lhota en dirección al inicio de la vía (Budišovice, Zátiší). En primer plano de la imagen se documenta una caja amarilla con cerradura, en la que se encuentra el aparato telefónico del teléfono de vía de servicio.
 
-
 ## Página 51
 
-Foto 3: Luz de señalización situada en la estación de desvío de Vřesina en dirección al inicio de la vía (Budišovice, Zátiší). De la imagen también se aprecia claramente la designación de la frecuencia de radio correspondiente para el controlador de radio, mediante el cual el conductor del tren de tranvías apaga la luz de señalización tras realizar la salida.
-– convocó una licitación pública para la seguridad de la vía de tranvías, publicada el 01.07.2008 con un plazo para la presentación de ofertas / envío de solicitudes hasta el 11.08.2008, cuyo objeto es la elaboración de la documentación de proyecto, suministro, montaje y puesta en servicio del dispositivo de seguridad de la vía de tranvías de vía única (de Ostrava – Poruba, calle Vřesinská a Horní Lhota – Zátiší, distrito de Nový Jičín), en el siguiente alcance:
-● impedir la entrada en sentido contrario de los vehículos ferroviarios en los tramos de vía única (lógica básica de preparación de la vía del tren) mediante señales para el tráfico de tranvías «bolas» (o bien otro sistema de señales) que permitan excepcionalmente:
-● la entrada de vehículos ferroviarios posteriores,
-● la entrada en el tramo de vía única y, a continuación, la salida de este tramo por el mismo lado,
-● la entrada excepcional «en sentido contrario» de los vehículos ferroviarios en caso de necesidad de remolcar un vehículo ferroviario defectuoso;
-● detección de vehículos en la vía con visualización en el monitor del PC del despachador de vía de la estación de Vřesinská, y además acceso remoto desde el centro de control central;
-● respuesta rápida a los cambios (hasta 1');
-● advertencia a los conductores (folleto – señal) y al despachador y al centro de control central (monitor PC + alarma) de un estado de colisión;
-● desconexión de emergencia del suministro eléctrico de la vía (tramo de la vía) en caso de peligro inminente de colisión de vehículos;
-● registro de incidentes y conversaciones;
-● el dispositivo de seguridad debe presentar tal fiabilidad que ninguna de las averías o estados no estándar ponga en peligro la seguridad del transporte de tranvías.
+Foto 3: Luz de aviso situada en la aguja de Vřesina en dirección al inicio de la línea
+(Budišovice, Zátiší). En la fotografía también se aprecia claramente la indicación de la
+frecuencia de radio correspondiente para el mando por radio, mediante el cual el conductor
+del tranvía apaga la luz de aviso tras realizar la anulación.
+licitó un contrato público para la instalación de seguridad en la línea de tranvía, publicado el 01. 07. 2008 con
+–
+plazo para la presentación de ofertas / entrega de solicitudes hasta el 11. 08. 2008, cuyo objeto es la elaboración de la
+documentación de proyecto, el suministro, la instalación y la puesta en servicio del equipo de seguridad
+de la línea de tranvía de vía única (desde Ostrava – Poruba, calle Vřesinská hasta Horní Lhota – Zátiší, distrito de
+Nový Jičín), en el siguiente alcance:
+prevención de la entrada en sentido contrario de vehículos ferroviarios en los tramos de vía única (lógica
+●
+básica de establecimiento de la vía de tren) mediante señales para el tráfico de tranvía «bolas» (o bien
+otro sistema de señalización) que permitan excepcionalmente:
+la entrada de vehículos ferroviarios sucesivos,
+
+la entrada en un tramo de vía única y posterior salida de dicho tramo por el mismo lado,
+
+la entrada excepcional de vehículos ferroviarios «en sentido contrario» en caso de necesidad de
+
+remolcar un vehículo ferroviario averiado;
+detección de vehículos en la línea con visualización en el monitor del PC del despachador de línea en el puesto
+Vřesinská, así como acceso remoto desde el centro de despacho;
+respuesta rápida a los cambios (hasta 1');
+●
+aviso a los conductores de la situación de colisión (fonía – señal) y al despachador y al centro de despacho
+●
+(monitor PC + alarma);
+desconexión de emergencia del suministro de la línea (del tramo de línea) en caso de peligro inminente de colisión de vehículos;
+●
+registro de eventos y conversaciones;
+●
+el equipo de seguridad debe presentar una fiabilidad tal que ninguna de las averías o
+●
+estados no estándar ponga en peligro la seguridad del transporte de tranvía.
 
 ## Página 52
+
 
 ## 6 RECOMENDACIONES DE SEGURIDAD
 La Inspección Ferroviaria, como autoridad competente de acuerdo con lo dispuesto en el apartado 5 del artículo 53b de la ley n.º 266/1994 Coll.,
@@ -1438,8 +1533,8 @@ director
 De la Inspección Territorial de Ostrava
 De la Inspección Territorial de Ostrava
 
-
 ## Página 53
+
 
 ## 7 ANEXOS
 Foto 4: Posición final de los vehículos de tracción múltiple (VTM) de los tipos T3SU-CS, n.º de registro 906 (línea n.º 5, servicio 201) y K2G, n.º de registro 810 (línea n.º 5, servicio 402) tras el incidente extraordinario.
@@ -1447,11 +1542,10 @@ Las imágenes documentan la destrucción total de los frentes de los VTM y los d
 Foto 5: Posición final de los vehículos de tracción múltiple (VTM) de los tipos T3SU-CS, n.º de registro 906 (línea n.º 5, servicio 201) y K2G, n.º de registro 810 (línea n.º 5, servicio 402) tras el incidente extraordinario.
 Las imágenes documentan la destrucción total de los frentes de los VTM y los daños extensos en las carrocerías de los tranvías participantes.
 
-
 ## Página 54
 
-Foto 6: Posición final del tren de tranvía de la línea n.º 5, servicio 201,
-compuesto por un VTM de tipo T3SU-CS, n.º de registro 906 (cabina de conducción) y n.º de registro 902
-(cabina remolcada) tras el incidente extraordinario. De la fotografía se aprecia el atascamiento del VTM
-causado por la colisión del VTM remolcado contra el VTM de conducción debido a la energía cinética del
-VTM remolcado.
+Foto 6: Posición final del DV del tren de tranvía de la línea n.º 5, servicio 201, 
+compuesto por el DV MTV tipo T3SU-CS, n.º de inventario 906 (de mando) y n.º de inventario 902 
+(controlado) tras el suceso excepcional.  De la fotografía se aprecia el enclavamiento del DV 
+causado por la subida del DV controlado sobre el DV de mando debido a la energía cinética 
+del DV controlado.

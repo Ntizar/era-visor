@@ -13,6 +13,7 @@ tokens_out: 47026
 fecha_proceso: 2026-11-19
 generador: traducir_md_es.py (traducción IA + verificación numérica)
 verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (PT)", "página 2: cifras largas: 2/18", "página 3: cifras cortas: 2/7", "página 12: cifras cortas: 1/21", "página 13: cifras cortas: 1/10", "página 25: cifras largas: 1/16; cifras cortas: 1/39"]
 ---
 
 ## Página 1

@@ -10,13 +10,14 @@ chars: 47635
 ratio_longitud: 1.27
 tokens_in: 24763
 tokens_out: 17094
-verificacion: revisar
-notas_cifras: ["bloque 1: original bilingüe: se compara contra el idioma principal (EN)", "bloque 2: original bilingüe: se compara contra el idioma principal (CS)", "bloque 3: cifras cortas: 8/118", "bloque 4: original bilingüe: se compara contra el idioma principal (CS)", "bloque 5: cifras largas: 1/18", "bloque 6: original bilingüe: se compara contra el idioma principal (CS)"]
-avisos: ["bloque 6: ratio 1.69", "bloque 7: ratio 1.88"]
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 5: original bilingüe: se compara contra el idioma principal (EN)", "página 6: original bilingüe: se compara contra el idioma principal (CS)", "página 7: original bilingüe: se compara contra el idioma principal (CS)", "página 8: cifras cortas: 4/30", "página 9: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 Inspección Ferroviaria
 República Checa
@@ -42,11 +43,12 @@ NIF: 75009561
 http://www.dicr.cz
 fax: (+420) 224 805 428
 
-
 ## Página 2
 
 
+
 ## Página 3
+
 
 # RESUMEN
 9 de febrero de 2007, 12:36 (11:36 GMT)
@@ -67,11 +69,12 @@ Causa raíz:
 no investigada
 Recomendación: no emitida
 
-
 ## Página 4
 
 
+
 ## Página 5
+
 
 # Índice
  Resumen .............................................................................................................................3
@@ -100,6 +103,7 @@ Recomendación: no emitida
 
 ## Página 6
 
+
 3.1.1 Personal del titular de la infraestructura y del transportista, incluidas las personas en relación contractual ...............................................................................................................13
 3.1.2 Otras personas .........................................................................................................14
 3.2 Sistema de garantía de la seguridad ...............................................................................14
@@ -126,10 +130,10 @@ Recomendación: no emitida
 3.7 Incidentes anteriores de naturaleza similar ............................................18
 4 Análisis y conclusiones ............................................................................................................18
 4.1 Descripción definitiva del incidente ..........................................................................18
-4.1.1 Descripción definitiva del incidente basada en los hechos constatados en el punto 3 
-
+4.1.1 Descripción definitiva del incidente basada en los hechos constatados en el punto 3
 
 ## Página 7
+
 
 ............................................................................................................................18
 4.2 Análisis ......................................................................................................................19
@@ -150,6 +154,7 @@ Recomendación: no emitida
  Foto 3 Vehículo ferroviario (DV) dañado con mercancías peligrosas .............................................................22
 
 ## Página 8
+
 
 ## 1 RESUMEN
 El 9 de febrero de 2007 a las 12:36 horas se produjo en la línea ferroviaria nacional, de vía única, 505A Choceň – Týniště nad Orlicí – Velký Osek, en la estación ferroviaria (en adelante, est. fer.) Káranice, en el apeo de Dobřenice, en el punto kilométrico (pk) 8,446, un incidente extraordinario (en adelante, IE) a tenor de la ley n.º 266/1994 Coll., sobre ferrocarriles, en su versión vigente (en adelante, la ley), en el que el tren R 957 no se detuvo antes de la señal de salida S1 con la indicación Alto y, posteriormente, colisionó lateralmente con el tren Pn 63440, que entraba en la tercera vía de estación.
@@ -177,25 +182,18 @@ La causa inmediata del IE fue el incumplimiento de las instrucciones del titular
 
 El IE se produjo el 9 de febrero de 2007 a las 12:36 horas en la est. fer. Káranice, apeo de Dobřenice, en el empalme entre la primera y la tercera vía de estación, en el pk 8,446.
 
-
 ## Página 9
 
-### 2.1.2 Descripción del incidente extraordinario y del lugar del accidente, incluida la actuación del sistema integrado de rescate y del servicio de emergencias
-
-El tren R 957 entraba desde la dirección de la est. fer. Nové Město nad Cidlinas hacia la est. fer. Káranice en la primera vía de estación con la indicación Precaución de la señal de entrada S. En la señal de salida S1 de la primera vía de estación de la est. fer. Káranice hacia la est. fer. Dobřenice se le dio al tren la indicación Alto. Simultáneamente, el tren Pn 63440 entraba desde la est. fer. Dobřenice hacia la est. fer. Káranice en la tercera vía de estación con la indicación Velocidad 60 km/h y Precaución en la señal de entrada L. El tren R 957 entraba en la est. fer. Káranice a una velocidad de 100 km/h, no reaccionó ante la indicación Precaución de la señal de entrada S, y solo después de pasar junto a la sala de control de tráfico, donde atravesó a la misma velocidad, sin reducirla, se activó el frenado de emergencia en dicho tren. El inicio del efecto del freno se produjo a una distancia de aproximadamente 290 metros del lugar de la colisión. La señal de salida en dirección a la est. fer. Dobřenice S1 con la indicación Alto, ante la cual el maquinista del tren R 957 debía detenerse, fue rebasada a una velocidad de 68 km/h. La colisión con el tren entrante Pn 63440 se produjo a las 12:36 horas a una velocidad de 58 km/h. El VMT del tren R 957 impactó contra el VMT del tren Pn 63440 y chocó contra el lateral del VF situado en primera posición detrás de la locomotora. Posteriormente, se descarriló y volcó sobre su lado izquierdo en el sentido de la marcha del tren.
-
-En el tren Pn 63440 se descarrilaron el VF situado en primera posición detrás del VMT, así como los VF situados en segunda y quinta posición detrás del VMT. Resultaron dañados el VMT y tres VF, incluido el VF cargado con mercancías peligrosas. No se produjo fuga de mercancías peligrosas.
-
-En el lugar del IE resultó dañada la infraestructura (desvíos, catenaria y pequeño material de vía). En el lugar del IE intervinieron el Servicio Rápido de Emergencias Médicas de Hradec Králové, el Cuerpo de Bomberos y Rescate (en adelante, CBR) de ČD, a. s., Hradec Králové, y la Policía de la República Checa.
-
-En el IE no se produjo un desastre ecológico.
-
-2.1.3 Decisión de iniciar la investigación de las causas y las circunstancias de la producción, composición del equipo de personas técnicamente cualificadas y método de conducción de la investigación de las causas y las circunstancias de la producción
-
-La Inspección Ferroviaria (en adelante, IF) inició la supervisión y la investigación de las causas y las circunstancias de la producción del IE de conformidad con lo dispuesto en el apartado 1 del artículo 53b de la ley en el lugar de producción del IE. Sobre la base de los hechos constatados, no fue necesario constituir un equipo de inspectores jefes de la IF; la investigación y la investigación de las causas y las circunstancias de la producción del IE fueron encomendadas a un inspector jefe (en adelante, IJ) de la Inspección Territorial de Praga (en adelante, IT Praga). El método de actuación se determinó de manera operativa, según la evolución de la investigación, incluida la consulta con otras personas técnicamente cualificadas de la IF. En la investigación se partió de los conocimientos propios, de las constataciones en el lugar del IE, incluida la evaluación de la documentación fotográfica realizada y de las mediciones efectuadas, de las constataciones derivadas de los controles estatales realizados y, además, de la documentación elaborada por el titular, incluidos los Actas de declaración de explicaciones con los empleados participantes, elaboradas por el titular y la Policía de la República Checa (en adelante, PRC).
-
+### 2.1.2 Descripción del suceso excepcional y del lugar del accidente, incluida la actividad del sistema integrado de protección y del servicio de rescate
+El tren R 957 entraba desde la dirección de la estación de Nové Město nad Cidlinou hacia la estación de Káranice en la 1.ª vía de estación con la señal Aviso de la señal de entrada S. En la señal de salida S1 de la 1.ª vía de estación de la estación de Káranice hacia la estación de Dobřenice estaba indicada para este tren la señal Alto. Simultáneamente, entraba en la estación de Káranice desde la estación de Dobřenice, en la 3.ª vía de estación, el tren Pn 63440 con la señal Velocidad 60 km/h y Aviso en la señal de entrada L. El tren R 957 entraba en la estación de Káranice a una velocidad de 100 km/h, no reaccionó al aviso en la señal de entrada S, y solo después de pasar junto a la oficina de tráfico, donde pasó siempre a la misma velocidad, sin reducir, se inició en este tren el frenado de acción rápida. El inicio del efecto del freno se produjo a una distancia de unos 290 metros antes del lugar de la colisión. La señal de salida en dirección a la estación de Dobřenice S1 con la señal Alto, delante de la cual el maquinista del tren R 957 debía detenerse, la pasó a una velocidad de 68 km/h. La colisión con el tren entrante Pn 63440 se produjo a las 12:36 horas a una velocidad de 58 km/h. El HDV del tren R 957 enganchó en el HDV del tren Pn 63440 e impactó en el lateral del DV acoplado como primero detrás de la locomotora. Posteriormente descarriló y se volcó sobre el lado izquierdo en la dirección de marcha del tren.
+En el tren Pn 63440 descarriló el DV acoplado como primero detrás del HDV, y además el DV acoplado como segundo y quinto detrás del HDV. Fueron dañados el HDV y tres DV, incluido un DV cargado con mercancías peligrosas. No se produjo ninguna fuga de mercancías peligrosas.
+En el lugar del suceso excepcional se dañó la infraestructura (agujas, catenaria y material menor de vía). En el lugar del suceso excepcional actuaron el Servicio Rápido de Sanidad de Hradec Králové, el Cuerpo de Bomberos (en adelante HZS) de ČD, a. s., Hradec Králové, y la Policía de la República Checa.
+En el suceso excepcional no se produjo ninguna catástrofe ecológica.
+2.1.3 Decisión de iniciar la investigación de las causas y circunstancias de su origen, composición del equipo de personas cualificadas y forma de dirigir la investigación de las causas y circunstancias de su origen
+La Inspección Ferroviaria (en adelante DI) inició la supervisión y la investigación de las causas y circunstancias de origen del suceso excepcional de conformidad con lo dispuesto en el § 53b apartado 1 de la ley en el lugar de origen del suceso excepcional. Sobre la base de los hechos constatados no fue necesario constituir un equipo de inspectores superiores de la DI; la investigación y la determinación de las causas y circunstancias de origen del suceso excepcional fueron encomendadas a un inspector superior (en adelante VI) de la Inspección Territorial de Praga (en adelante ÚI Praga). La forma de proceder se estableció de forma operativa, según el desarrollo de la investigación, incluido el uso de consultas con otras personas cualificadas de la DI. En la investigación se partió de los propios conocimientos, de las constataciones en el lugar del suceso excepcional, incluida la evaluación de la documentación fotográfica realizada y de las mediciones efectuadas, de las constataciones de las inspecciones estatales realizadas y, asimismo, de la documentación elaborada por el operador, incluidos los Registros de declaración de explicaciones con los empleados implicados realizados por el operador y por la Policía de la República Checa (en adelante PČR).
 
 ## Página 10
+
 
 ### 2.2 Circunstancias del incidente extraordinario
 
@@ -240,6 +238,7 @@ En la est. fer. Káranice está instalado un dispositivo de seguridad de estaci�
 
 ## Página 11
 
+
 de ejes de tipo Alcatel. Certificado de aptitud del equipo técnico designado: dispositivo de seguridad de estación de la 3.ª categoría según TNŽ 34 2620, tipo SZZ K-2000 con control desde JOP, emitido por el DSÚ en Praga el 3 de octubre de 2000, con validez prorrogada hasta el 30 de septiembre de 2010, número de registro PZ 0592/00E44, última inspección mensual realizada el 6 de febrero de 2007. El dispositivo estaba en funcionamiento en el momento del incidente.
 Mediante la evaluación de los registros de diagnóstico del dispositivo de seguridad se determinó:
 La señal en la señal de entrada S hacia la estación de Káranice para el tren R 957 estaba compuesta por una luz amarilla fija, es decir, la señal de Precaución, que permitía al maquinista circular el tren más allá de dicha señal y anunciaba previamente la señal de Alto en la siguiente señal de salida «S1».
@@ -258,8 +257,8 @@ Se realizó una inspección comisionada del lugar del incidente, incluida la ela
 En el lugar se aseguraron de ambos HDV cintas de velocidad para evaluar la evolución de la circulación antes de la producción del incidente, y se aseguraron los registros y las transcripciones del dispositivo de registro Redat, incluida la descarga de los datos de diagnóstico del ordenador de control del dispositivo de seguridad.
 Al maquinista del tren Pn 63440 y al despachador de la estación de Káranice se les practicó una prueba de detección de alcohol, con resultado negativo.
 
-
 ## Página 12
+
 
 ### 2.2.7 Activación del plan del sistema integrado de rescate, de la policía y de los servicios de rescate sanitario y secuencia de los acontecimientos
 En el lugar del incidente intervinieron el servicio de emergencia de las ČD, a. s., de Hradec Králové, la Policía de la República Checa y el servicio de urgencias médicas de Hradec Králové, que trasladó a los heridos al Hospital Universitario de Hradec Králové.
@@ -296,8 +295,8 @@ vagón de mercancías n.º 31 54 596 1 273-7, daño cuantificado en 10.100 Kč;
 ➢
 Además, se dañó el dispositivo de infraestructura, titular Správa železniční dopravní cesty, s. o., bajo la gestión de Správa dopravní cesty (en lo sucesivo, SDC) de Hradec Králové, mediante la determinación comisionada del
 
-
 ## Página 13
+
 
 estado se cuantificó el daño en 1.800.000 Kč. El daño total causado por el incidente asciende a 4.775.406 Kč.
 ### 2.4 Factores externos
@@ -315,6 +314,7 @@ El despachador de la estación de Káranice declaró, entre otras cosas:
 «Desde la estación de Nové Město se preveía mediante el diario electrónico el paso del tren R 957 en esta estación a las 12:34 horas. Sobre el tren Pn 63440 me puse de acuerdo con el despachador de la estación de Dobřenice, que
 
 ## Página 14
+
 
 previo a prever que pasaría a las 12:30. El 99 % de estos trenes debían pasar sin problemas. Cuando el tren Pn 63440 se acercaba a la estación de Káranice, informé por radio al maquinista de que pasaría por la vía 3 junto al tren rápido R 957. En el dispositivo de seguridad JOP, observé en el monitor la circulación de ambos trenes. Tras la liberación de la vía por parte del tren de mercancías, revertí el consentimiento y esperé en la gestión del tráfico hasta que el tren abandonara la zona de las vías de aproximación, para poder establecer la ruta del tren rápido R 957 desde el lado opuesto. Me sorprendió que el tren rápido pasara por la gestión del tráfico en una fracción de segundo y no frenara. Observé el monitor y confié en que, aunque el tren rápido superara la señal, lograría frenar a tiempo. Salí al exterior y vi que el tren rápido había superado la señal de salida.
 Los registros escritos forman parte del expediente.
@@ -354,6 +354,7 @@ f) observe la vía y las señales desde el vehículo líder y actúe en función
 m) detenga el tren de forma segura antes del punto señalizado.
 
 ## Página 15
+
 
 4) Señales básicas - Anexo n.º 1, parte I, artículo 1.1, del Decreto n.º 173:
 
@@ -402,6 +403,7 @@ Decreto del Ministerio de Transportes n.º 101/1995 Coll., reglamento sobre la c
 ●
 
 ## Página 16
+
 
 3.3.2 Otras normas, por ejemplo, reglamento de explotación, reglamento laboral, normas de mantenimiento, normas técnicas vigentes y otras normas internas
 
@@ -465,6 +467,7 @@ En la estación de Káranice se utiliza para la transmisión de instrucciones la
 
 ## Página 17
 
+
 ### 3.4.4 Vehículos ferroviarios, incluidos los dispositivos de grabación automática de datos
 En el lugar del accidente se realizó, con la participación del inspector de investigación, una inspección de todos los vehículos ferroviarios del tren R 957, llevándose a cabo una inspección técnica extraordinaria por parte de una persona cualificada del operador, incluida la prueba del freno. Entre los días 16 y 21 de febrero de 2007 se realizó una inspección comisionada de todos los vehículos ferroviarios dañados. El estado técnico de los vehículos ferroviarios no fue la causa del accidente.
 
@@ -482,31 +485,25 @@ A través del sistema TRS, el despachador de la estación de Káranice informó 
 ### 3.5.3 Medidas adoptadas para la protección y aseguramiento del lugar del incidente
 El lugar del accidente fue asegurado por el operador de conformidad con el Decreto n.º 376.
 
-
 ## Página 18
 
 ### 3.6 Condiciones laborales, sanitarias y de explotación
-### 3.6.1 Jornada laboral del personal del operador de infraestructura y del transportista que fueron parte en el incidente
-La investigación determinó que la jornada laboral de todas las personas involucradas en el accidente se ajustaba al Código del Trabajo o al horario de turnos de ČD, a. s.
-
-3.6.2 Estado de salud y situación personal que influyeron en el incidente, incluido el estrés físico o psicológico
-Todos los empleados implicados estaban médicamente aptos para el desempeño de su cargo en el momento de producirse el accidente. La investigación no demostró que hubieran estado sometidos a estrés físico ni psicológico antes de la producción del accidente.
-Los registros escritos forman parte del expediente del accidente.
-
-3.6.3 Disposición del equipamiento del puesto de control o del vehículo, que influye en su manejo y uso
-No guarda relación con la causa del incidente.
-
-### 3.7 Incidentes anteriores de carácter similar
+### 3.6.1 Jornada laboral de los empleados del gestor de la infraestructura y del transportista que fueron partes en el suceso
+La investigación determinó que la jornada laboral de todas las personas implicadas en el SU (suceso) se ajustaba al Código del Trabajo o, en su caso, al cuadrante de turnos de ČD, a. s.
+3.6.2 Estado de salud y situación personal que influyeron en el suceso, incluido el estrés físico o psicológico
+Todos los empleados implicados estaban, en el momento de producirse el SU, aptos para el desempeño de la función que desempeñaban. La investigación no acreditó que hubieran estado sometidos a estrés físico ni psicológico antes de producirse el SU.
+Los registros escritos forman parte del expediente del SU.
+3.6.3 Disposición del equipamiento del puesto de mando o del vehículo que influye en su manejo y utilización
+No guarda relación con la causa del suceso.
+### 3.7 Sucesos anteriores de carácter similar
 El 2 de febrero de 2006, colisión del tren R 940 con el tren Pn 6449 en la estación de Kropáčova Vrutice.
-
 ## 4 ANÁLISIS Y CONCLUSIONES
-
-### 4.1 Descripción final del incidente
-### 4.1.1 Descripción final del incidente basada en los hechos establecidos en el punto 3
-El 9 de febrero de 2007 a las 12:36 horas se produjo un accidente en la estación de Káranice, cuando el tren R 957 no se detuvo antes de la señal de salida S1 con la indicación «Alto» y, posteriormente, se produjo una colisión lateral con el tren Pn 63440 que entraba en la tercera vía de estación. El tren R 957 entraba desde la dirección de la estación de Nové Město nad Cidlinou hacia la estación de Káranice en la primera vía de estación, bajo la indicación «Peligro» de la señal de entrada S. En la señal de salida S1 de la primera vía de estación en la estación de Káranice se le había dado al tren la indicación «Alto». Simultáneamente, el tren de mercancías Pn 63440 entraba en la estación de Káranice desde la estación de Dobřenice en la tercera vía de estación bajo la indicación «Velocidad 60 km/h» y, posteriormente, «Peligro» en la señal de entrada L. El tren R 957 entraba en la estación de Káranice a una velocidad de 100 km/h y no reaccionó ante la indicación «Peligro» de la señal de entrada S. La señal de salida S1 con la indicación «Alto» fue rebasada a una velocidad de 68 km/h. La colisión con el tren entrante Pn 63440 se produjo a
-
+### 4.1 Descripción final del suceso
+### 4.1.1 Descripción final del suceso basada en los hechos constatados en el punto 3
+El 9 de febrero de 2007, a las 12:36 horas, se produjo en la estación de Káranice un SU, cuando el tren R 957 no se detuvo ante la señal de salida S1 con indicación de «Alto» y, a continuación, se produjo una colisión lateral con el tren Pn 63440 que entraba en la vía de estación n.º 3. El tren R 957 entraba, procedente de la estación de Nové Město nad Cidlinou, en la estación de Káranice, en la vía de estación n.º 1, con la indicación «Aviso» de la señal de entrada S. En la señal de salida S1 de la vía de estación n.º 1 de la estación de Káranice estaba indicada para este tren la señal «Alto». Simultáneamente, entraba en la estación de Káranice, procedente de la estación de Dobřenice, en la vía de estación n.º 3, el tren de mercancías Pn 63440 con la indicación «Velocidad 60 km/h» y, a continuación, «Aviso» en la señal de entrada L. El tren R 957 entraba en la estación de Káranice a una velocidad de 100 km/h y no reaccionó a la indicación «Aviso» de la señal de entrada S. Pasó la señal de salida S1 con indicación «Alto» a una velocidad de 68 km/h. La colisión con el tren entrante Pn 63440 se produjo en
 
 ## Página 19
+
 
 las 12:36 horas a una velocidad de 58 km/h. El HDV del tren R 957 impactó contra el HDV del tren Pn 63440, chocó contra el lateral del primer vagón tras la locomotora, descarriló y se volcó sobre su lado izquierdo en el sentido de la marcha. Los vehículos ferroviarios (DV) situados como primeros tras dicho HDV descarrilaron mediante sus bogies delantero y trasero, y el DV situado como segundo resultó dañado. En el tren Pn 63440, descarriló el DV situado como primero tras el HDV (volcado sobre su lado izquierdo) y, posteriormente, los DV situados como segundo y quinto tras el HDV. Resultaron dañados el HDV y tres DV, incluido un DV cargado con mercancías peligrosas. En el tren R 957 se produjeron lesiones al maquinista y a tres viajeros.
 
@@ -532,36 +529,36 @@ No se detectaron.
 ## Página 20
 
 ### 4.4 Hallazgos complementarios
-### 4.4.1 Deficiencias y omisiones detectadas durante la investigación de las causas y las circunstancias de la aparición del incidente grave, que no son, sin embargo, relevantes para las conclusiones sobre las causas
+### 4.4.1 Deficiencias y omisiones detectadas durante la investigación de las causas y circunstancias del origen del suceso ferroviario, que sin embargo no son relevantes para las conclusiones sobre las causas
 No se detectaron.
 ## 5 MEDIDAS ADOPTADAS
-### 5.1 Relación de las medidas que ya se han adoptado o tomado como consecuencia del incidente grave
-ČD, a. s., ha adoptado las siguientes medidas:
-Se suspendió al maquinista del tren R 957 la cualificación para el desempeño de la actividad laboral, de conformidad con lo dispuesto en el artículo 83 del reglamento interno del transportista ČD Ok2.
-Con base en la Evaluación de las causas y las circunstancias de la aparición del incidente grave emitida, los maquinistas y otros empleados operativos de la Estación de Gestión del Tráfico Ferroviario (DKV) de Česká Třebová serán informados sobre la causa de la aparición y el desarrollo del incidente grave en la próxima instrucción periódica de las tripulaciones de locomotoras y otros empleados de la DKV.
-Fecha límite: 31 de mayo de 2007
-Responsable: Jefe superior de la Estación de Gestión del Tráfico Ferroviario de Česká Třebová
-Todos los empleados operativos de la Estación de Gestión del Tráfico Ferroviario (DKV) de Česká Třebová serán informados de manera demostrativa del Documento de Instrucción O18 emitido por la Dirección General de ČD, a. s.
-Fecha límite: inmediatamente después de la emisión del Documento de Instrucción
-Responsable: Jefe superior de la Estación de Gestión del Tráfico Ferroviario de Česká Třebová
+### 5.1 Lista de medidas que ya se han tomado o adoptado como consecuencia del suceso ferroviario
+ČD, a. s., adoptó las siguientes medidas:
+Al maquinista del tren R 957 se le suspendió, en virtud de lo dispuesto en el artículo 83 de la normativa interna del operador ČD Ok2, la habilitación para el desempeño de la actividad laboral.
+Sobre la base de la Evaluación de las causas y circunstancias del origen del SU emitida, se informará a los maquinistas y demás empleados operativos del DKV Česká Třebová sobre el origen y el desarrollo del SU en la próxima formación periódica de las tripulaciones de locomotora y demás empleados del DKV.
+F: 31. 5. 2007
+Responsable: jefe superior del DKV Česká Třebová
+Con la Hoja Informativa O18 emitida por la Dirección General de ČD, a. s., se acreditará la información a todos los empleados operativos del DKV Česká Třebová.
+F: inmediatamente después de la emisión de la HI
+Responsable: jefe superior del DKV Česká Třebová
 ## 6 RECOMENDACIONES DE SEGURIDAD
-No se ha emitido ninguna.
-En Praga, el 5 de agosto de 2007
-Marian Konvalinka, sin firma
-Zdeněk Malý, sin firma
-Inspector superior
-Director
+No se emitieron.
+En Praga, a 5 de agosto de 2007
+Marian Konvalinka s. f.
+Zdeněk Malý s. f.
+inspector jefe
+director
 de la Inspección Territorial de Praga
 de la Inspección Territorial de Praga
-
 
 ## Página 21
 
 ## 7 ANEXOS
-Foto 1 Posición del dispositivo de señalización de peligro (HDV) del tren R 957 en la dirección de su marcha tras la aparición del incidente grave
-Foto 2 Dispositivo de señalización de peligro (HDV) situado junto al tren R 957
-
+Foto 1 Posición de la locomotora del tren R 957 en el sentido de su marcha tras la 
+producción del MU
+Foto 2 Locomotora del tren R 957
 
 ## Página 22
+
 
 Foto 3 Vehículo dañado con mercancías peligrosas

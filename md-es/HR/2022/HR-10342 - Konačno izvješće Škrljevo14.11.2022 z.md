@@ -12,8 +12,8 @@ tokens_in: 50026
 tokens_out: 33793
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-verificacion: revisar
-avisos: ["página 3: cifras largas: faltan 4/7 (57%)", "página 11: ratio 1.74", "página 15: ratio 1.90", "página 17: ratio 2.12", "página 35: ratio 1.68"]
+verificacion: ok
+notas_cifras: ["página 7: cifras cortas: 3/42", "página 8: cifras cortas: 3/43", "página 11: original bilingüe: se compara contra el idioma principal (HR)", "página 12: cifras cortas: 1/28", "página 15: original bilingüe: se compara contra el idioma principal (HR); ratio 1.85", "página 17: original bilingüe: se compara contra el idioma principal (HR); ratio 2.05"]
 ---
 
 ## Página 1
@@ -50,18 +50,18 @@ El informe final no podrá utilizarse como prueba en un procedimiento judicial d
 
 ## Página 3
 
-### Prefacio  
-La Agencia para la Investigación de Accidentes en el Tráfico Aéreo, Marítimo y Ferroviario (en lo sucesivo: AIN) fue creada por la Ley de Creación de la Agencia para la Investigación de Accidentes en el Tráfico Aéreo, Marítimo y Ferroviario (Diario Oficial «Narodne novine», n.º 54/13, 96/18) como persona jurídica con poderes públicos. El fundador de la Agencia es la República de Croacia, y el ejercicio de los derechos de fundación corresponde al Gobierno de la República de Croacia. 
-En el ejercicio de las funciones de la Agencia se aplican disposiciones especiales, es decir, leyes que regulan el tráfico aéreo, la marina mercante, así como la seguridad y la interoperabilidad del tráfico ferroviario, o las disposiciones adoptadas para su ejecución.  
-La Sección de Investigaciones de Accidentes Ferroviarios es una unidad organizativa autónoma e independiente de la AIN que realiza tareas técnicas relacionadas con las investigaciones de accidentes graves e incidentes graves en el tráfico ferroviario en la red ferroviaria de la República de Croacia. Las investigaciones se llevan a cabo sobre la base de las disposiciones de la Ley sobre la Seguridad y la Interoperabilidad del Sistema Ferroviario (Diario Oficial «Narodne novine», n.º 63/20) y de la Directiva (UE) 2016/798 del Parlamento Europeo y del Consejo, de 11 de mayo de 2016, relativa a la seguridad ferroviaria (reforma), así como sobre la base de las directrices de la Agencia Ferroviaria de la Unión Europea. 
-La AIN investiga todos los accidentes graves en el tráfico ferroviario, es decir, todos los incidentes que impliquen colisión de trenes o descarrilamiento de trenes que tengan como consecuencia la muerte de al menos una persona o lesiones graves de cinco o más personas, o daños importantes en los vehículos, la infraestructura ferroviaria o el medio ambiente, así como cualquier otro accidente similar con evidente impacto en la seguridad del sistema ferroviario o en la gestión de la seguridad. 
-La AIN puede investigar también aquellos accidentes e incidentes que, bajo circunstancias ligeramente diferentes, podrían haber conducido a accidentes graves, incluidas las averías técnicas de los subsistemas estructurales o de sus componentes. 
-La AIN realiza investigaciones de seguridad con el fin de prevenir accidentes e incidentes graves, lo que incluye la recopilación y el análisis de datos, la elaboración de conclusiones, incluida la determinación de las causas y, cuando proceda, la elaboración de recomendaciones de seguridad para prevenir accidentes e incidentes en el futuro y mejorar la seguridad en el tráfico ferroviario. 
-|  | Nombre | Cargo | Fecha | Firma |
-| Redactado por: | Tomislav Antun Biber | Investigador responsable | 29.12.2023 . . . |  |
-| Revisado por: | Ivica Majdanđić | Investigador | 29.12.2023 . . . |  |
-|  | Sandra Lovrić | Investigador | 29.12.2023 . . . |  |
-| Aprobado por: | Tomislav Antun Biber | Investigador principal | 29.12.2023 . . . |  |
+### Prefacio
+La Agencia de Investigación de Accidentes del Tránsito Aéreo, Marítimo y Ferroviario (en adelante: AIN) fue creada por la Ley de Creación de la Agencia de Investigación de Accidentes del Tránsito Aéreo, Marítimo y Ferroviario («Narodne novine», número 54/13, 96/18) como persona jurídica con competencias públicas. El fundador de la Agencia es la República de Croacia, y los derechos de fundación los ejerce el Gobierno de la República de Croacia. Al modo de realización de las actividades de la Agencia se aplican las disposiciones especiales, es decir, las leyes que regulan el tránsito aéreo, la marina, y la seguridad e interoperabilidad del tránsito ferroviario, así como las disposiciones adoptadas para su aplicación.
+El Departamento de Investigación de Accidentes del Tránsito Ferroviario es una unidad organizativa autónoma e independiente de la AIN que desempeña las funciones profesionales relativas a la investigación de accidentes graves y sucesos extraordinarios en el tránsito ferroviario en la red ferroviaria de la República de Croacia. Las investigaciones se realizan con base en las disposiciones de la Ley sobre Seguridad e Interoperabilidad del Sistema Ferroviario («Narodne novine», número 63/20) y de la Directiva (UE) 2016/798 del Parlamento Europeo y del Consejo de 11 de mayo de 2016 sobre la seguridad ferroviaria (recodificación), y con base en las directrices de la Agencia Ferroviaria de la Unión Europea.
+La AIN investiga todos los accidentes graves en el tránsito ferroviario, que son todos los sucesos que implican la colisión de trenes o el descarrilamiento de un tren que tenga como consecuencia la muerte de al menos una persona o lesiones graves de cinco o más personas, o daños importantes en los vehículos, la infraestructura ferroviaria o el medio ambiente, así como cualquier otro accidente similar con una influencia manifiesta en la seguridad del sistema ferroviario o en la gestión de la seguridad.
+La AIN puede investigar también aquellos accidentes e incidentes que, en circunstancias ligeramente diferentes, podrían haber conducido a accidentes graves, incluidos fallos técnicos en el funcionamiento de subsistemas estructurales o de sus componentes.
+La AIN realiza investigaciones de seguridad con el fin de prevenir accidentes y siniestros graves, lo que incluye la recopilación y el análisis de datos, la elaboración de conclusiones, incluida la determinación de las causas y, cuando proceda, la formulación de recomendaciones de seguridad para prevenir accidentes e incidentes en el futuro y mejorar la seguridad en el tránsito ferroviario.
+
+|  | Nombre | Puesto de trabajo | Fecha | Firma |
+| Elaborado por: | TomislavAntunBiber | Investigadorresponsable | 29122023 . . . |  |
+| Revisado por: | IvicaMajdanđić | Investigador | 29122023 . . . |  |
+|  | SandraLovrić | Investigador | 29122023 . . . |  |
+| Aprobado por: | TomislavAntunBiber | Investigadorprincipal | 29122023 . . . |  |
 
 ## Página 4
 
@@ -296,62 +296,67 @@ Fuente de pruebas, información y hechos:
 ## Página 11
 
 - 
-informe del investigador de accidentes ferroviarios del AIN, 
+inspección del investigador de accidentes ferroviarios de la AIN, 
 - 
 registro de la velocidad de circulación de los trenes, 
 - 
-registros de las pruebas a los participantes y testigos, 
+registros de las declaraciones de los implicados y testigos, 
 - 
 grabaciones de audio y vídeo, 
 - 
-datos del gestor de infraestructura y de las empresas de transporte ferroviario, 
+datos facilitados por el gestor de la infraestructura y los operadores ferroviarios, 
 - 
-documentación de los vehículos ferroviarios, 
+documentación sobre el material rodante, 
 - 
-documentación de la infraestructura.  
+documentación sobre la infraestructura.  
 Técnicas de análisis: 
-- análisis temporal de los acontecimientos,  
-- análisis de los procesos de formación y enseñanza del personal operativo, 
-- análisis de los procesos de mantenimiento de la infraestructura y de los vehículos ferroviarios, 
+- análisis cronológico de los hechos,  
+- análisis del proceso de formación y adiestramiento de los trabajadores ejecutivos, 
+- análisis del proceso de mantenimiento de la infraestructura y del material rodante, 
 - análisis del procedimiento de conducción del tren. 
-Relación de los actos jurídicos, leyes nacionales y actos sublegislativos, así como de las instrucciones internas utilizadas durante la 
-investigación del accidente mencionado: 
+Lista de actos jurídicos, leyes nacionales y actos sublegales, así como instrucciones internas utilizados durante 
+la investigación del accidente indicado: 
 ### a) normativa de la Unión Europea: 
 - 
-Directiva (UE) 2016/798 del Parlamento Europeo y del Consejo, de 11 de mayo de 2016, relativa a la seguridad 
-ferroviaria (reforma) (DO L 138, 26.5.2016, p. 102), 
+Directiva (UE) 2016/798 del Parlamento Europeo y del Consejo de 11 de mayo de 2016 sobre la seguridad 
+ferroviaria (recodificación) (DO L 138 26.5.2016, 102), 
 - 
-Reglamento de Ejecución (UE) 2020/572 de la Comisión, de 24 de abril de 2020, por el que se establece la estructura del informe que 
-debe respetarse en los informes sobre accidentes e incidentes ferroviarios (DO L 132, 
-27.4.2020, p. 10–18), 
+Reglamento de Ejecución (UE) 2020/572 de la Comisión de 24 de abril de 2020 sobre la estructura de 
+información que debe cumplirse en los informes de accidentes e incidentes ferroviarios (DO L 132, 
+27.4.2020, 10–18), 
 - 
-Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016, relativo a la protección de las personas físicas 
-en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos, y por el que se deroga la Directiva 95/46/CE (Reglamento General de Protección de Datos) (DO L 119, 4.5.2016, p. 1), 
+Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo de 27 de abril de 2016 relativo a la 
+protección de las personas físicas en lo que respecta al tratamiento de sus datos personales y a la libre 
+circulación de dichos datos, y por el que se deroga la Directiva 95/46/CE (Reglamento general de 
+protección de datos) (DO L 119 4.5.2016, 1), 
 - 
-Reglamento Delegado (UE) 2018/762 de la Comisión, de 8 de marzo de 2018, por el que se establecen métodos de seguridad comunes en relación con los requisitos del sistema de gestión de la seguridad con arreglo a la Directiva 
-(UE) 2016/798 del Parlamento Europeo y del Consejo, y por el que se derogan los Reglamentos (UE) n.º 1158/2010 y (UE) n.º 1169/2010 de la Comisión (DO L 129, 25.5.2018, p. 26), 
+Reglamento Delegado (UE) 2018/762 de la Comisión de 8 de marzo de 2018 por el que se establecen 
+métodos comunes de seguridad en relación con los requisitos del sistema de gestión de la seguridad en 
+virtud de la Directiva (UE) 2016/798 del Parlamento Europeo y del Consejo, y se derogan los 
+reglamentos de la Comisión (UE) n.º 1158/2010 y (UE) n.º 1169/2010 (DO L 129, 25.5.2018, 26), 
 - 
-Reglamento (UE) n.º 1169/2010 de la Comisión, de 10 de diciembre de 2010, por el que se establece un método de seguridad común para la 
-evaluación de la conformidad con los requisitos para la obtención de la resolución de seguridad para la gestión de la infraestructura ferroviaria (DO L 327, 11.12.2010, p. 13–25); 
-b) leyes nacionales y actos sublegislativos 
+Reglamento (UE) n.º 1169/2010 de la Comisión de 10 de diciembre de 2010 sobre el método común de 
+seguridad para la evaluación de la conformidad con los requisitos para la obtención de una decisión de 
+seguridad para la gestión de la infraestructura ferroviaria (DO L 327, 11.12.2010, 13–25); 
+b) leyes nacionales y actos sublegales 
 - 
-Ley sobre la seguridad y la interoperabilidad del sistema ferroviario («Narodne novine», n.º 63/20), 
+Ley sobre la seguridad y la interoperabilidad del sistema ferroviario («Narodne novine», número 63/20), 
 - 
 Reglamento sobre el modo y las condiciones para la circulación y gestión seguras del tráfico ferroviario 
-(«Narodne novine», n.º 107/16),  
-c) instrucciones internas de las empresas de transporte ferroviario 
+(«Narodne novine», número 107/16),  
+c) instrucciones internas de los operadores ferroviarios 
 - 
-Estatuto sobre la organización del sistema de gestión de la seguridad en HŽ Cargo d.o.o., 
+Reglamento sobre la organización del sistema de gestión de la seguridad en HŽ Cargo d.o.o., 
 - 
 Política de seguridad de HŽ Cargo d.o.o., 
 - 
 Plan operativo de aplicación de la política de seguridad para HŽ Cargo d.o.o., 
 - 
-Instrucción sobre los procedimientos en caso de acontecimiento extraordinario de HŽ Cargo d.o.o., 
+Instrucción sobre los procedimientos en caso de evento excepcional de HŽ Cargo d.o.o., 
 - 
-Lista de peligros y categorización de los riesgos en la circulación de trenes de mercancías de HŽ Cargo d.o.o., 
+Lista de peligros y categorización de riesgos en la circulación de trenes de mercancías de HŽ Cargo d.o.o., 
 - 
-Reglamento sobre el sistema de gestión de la seguridad de ENNA Transport d.o.o.,
+Reglamento del sistema de gestión de la seguridad de ENNA Transport d.o.o.,
 
 ## Página 12
 
@@ -423,21 +428,20 @@ En este accidente participaron el personal operativo de las sociedades HŽI, ENN
 
 ## Página 15
 
-Las personas implicadas son:  
+Las personas implicadas son:
 - 
-el despachador interno de trenes de la estación de Škrljevo, HŽ Infrastruktura d.o.o., 
+el interventor interno de trenes de la estación de Škrljevo, HŽ Infrastruktura d.o.o.,
 - 
-el despachador externo de trenes de la estación de Škrljevo, HŽ Infrastruktura d.o.o., 
+el interventor externo de trenes de la estación de Škrljevo, HŽ Infrastruktura d.o.o.,
 - 
-el maquinista del tren número 62077, HŽ Cargo d.o.o. 
-3.1.7. Descripción e identificadores de los trenes y su composición, incluidos los vehículos ferroviarios y sus números de registro 
-En el mencionado accidente participó el tren de mercancías número 62077 del transportista HŽ Cargo y parte de los vagones de mercancías (11 vagones de las series Zas/Zaes) dejados por el tren de mercancías número 81278 del transportista ENNA Transport. 
-El tren de mercancías número 62077 estaba compuesto por una locomotora de la marca Končar serie 1141-203 (Imagen 3.) y 16 vagones de mercancías vacíos de la serie Shimmns y dos vagones de la serie Shimms. 
-### Imagen 3. Locomotora de la serie 1141 (Fuente de la imagen: AIN) 
-La locomotora de la serie 1141, número 203 (Imagen 3.) es una locomotora eléctrica para el sistema de alimentación de tensión de 25 kV 50 Hz. La serie de locomotoras en cuestión es universal, destinada a la tracción de trenes de pasajeros y de mercancías. 
-Las locomotoras de esta serie las fabricó la empresa „Traktion-Union“, constituida por la sueca „ASEA“, la suiza „Secheron“ y la austriaca „Elin-Union“, y posteriormente, bajo licencia de la empresa „ASEA“, asumieron la fabricación la fábrica de Zagreb "Rade Končar" y la fábrica de Niš „MIN“. 
-Las locomotoras de la serie 1141, subseries 000 y 100 son locomotoras de cuatro ejes, con accionamiento individual por eje y disposición de ejes Bo’ Bo’, y pueden alcanzar una velocidad de 120 km/h y tienen una potencia del motor eléctrico de 3860 kW. 
-El resumen del equipo adicional instalado según las subseries 100, 200 y 300 en relación con la configuración básica de la locomotora de la serie 1141 y la subserie 000 es el siguiente:
+el maquinista del tren número 62077, HŽ Cargo d.o.o.
+3.1.7. Descripción e identificadores de los trenes y su composición, incluidos los vehículos ferroviarios y sus números de registro
+En el accidente indicado participó el tren de mercancías número 62077 del operador HŽ Cargo y parte de los vagones de mercancías (11 vagones de las series Zas/Zaes) dejados por el tren de mercancías número 81278 del operador ENNA Transport.
+El tren de mercancías número 62077 estaba compuesto por una locomotora de la marca Končar serie 1141-203 (Figura 3.) y 16 vagones de mercancías vacíos de la serie Shimmns y dos vagones de la serie Shimms.
+### Figura 3.  Locomotora serie 1141 (Fuente de la imagen: AIN)
+La locomotora serie 1141, denominación 203 (Figura 3.) es una locomotora eléctrica para el sistema de alimentación de tensión 25 kV 50 Hz. La serie de locomotoras en cuestión es universal, destinada a la tracción de trenes de pasajeros y de mercancías. Las locomotoras de esta serie las construyó la empresa «Traktion-Union», formada por la sueca «ASEA», la suiza «Secheron» y la austriaca «Elin-Union», y posteriormente, bajo licencia de la empresa «ASEA», la construcción fue asumida por la fábrica zagrebiana "Rade Končar" y por la fábrica de Niš «MIN».
+Las locomotoras serie 1141, subserie 000 y 100, son locomotoras de cuatro ejes, con tracción individual por eje y disposición de ejes Bo' Bo', pueden alcanzar una velocidad de 120 km/h y tienen una potencia de motor eléctrico de 3860 kW.
+La revisión del equipo adicional instalado en las subseries 100, 200 y 300 en relación con la versión básica de la locomotora serie 1141 y subserie 000 es la siguiente:
 
 ## Página 16
 
@@ -455,28 +459,30 @@ Los vagones de la serie Zaes-z tienen las mismas características que los vagone
 
 ## Página 17
 
-### Imagen 5. vagones de la serie Zas-z 1141 (Fuente de la imagen: AIN) 
-El tren número 62077 del transportista HŽ Cargo, con un recorrido planificado desde la estación de Rijeka hasta la estación de Lokve, 
-partió de la estación de Rijeka el 11.02.2022 a las 02:01 horas, cruzó la estación de Sušak-Pećine 
-a las 02:08 horas, y continuó hasta la estación de Škrljevo, donde se produjo una colisión contra un grupo de 11 vagones de mercancías 
+### Figura 5. vagones de la serie Zas-z 1141 (Fuente de la imagen: AIN) 
+El tren número 62077 del operador HŽ Cargo con trayecto previsto desde la estación de Rijeka hasta la estación de Lokve 
+partió de la estación de Rijeka el 14.11.2022 a las 02:01 horas, pasa por la estación de Sušak-Pećine a las 
+02:08 horas, y continúa hasta la estación de Škrljevo, donde se produce el impacto contra un grupo de 11 vagones de carga 
 dejados por el tren número 81278 a las 02:19 horas. 
-El tren número 81278 (compuesto por 23 vagones de mercancías) del transportista ENNA Transport, con un recorrido planificado 
-desde la estación de Sisak Caprag hasta la estación de Šoići, partió de la estación de Sisak Caprag el 13.11.2022 
-a las 13:29 horas. Circulando según la señalización M502, llegó a la estación de Zagreb RK a las 14:38 horas, y esperó 
-la salida en dirección a la estación de Šoići por la vía señalizada M202 hasta las 19:20, dicho recorrido pasó regularmente 
-hasta la estación de Moravice, donde tuvo una detención de 46 minutos. La composición llegó a la estación de Škrljevo el 
-14.11.2022 a las 01:46 horas. Al llegar a la estación de Škrljevo se procedió al desmembramiento del tren número 81278 
-en dos grupos de vagones, el primero de (12 vagones) y el segundo de (11 vagones), que permaneció en la 3. vía (vía principal de paso) 
-de la estación de Škrljevo. A las 02:04 horas se despachó desde la estación de Škrljevo el primer grupo de 12 
-vagones del tren número 81278, y estos llegaron a la estación de Šoići a las 02:14 horas. 
-Al revisar los registros (imagen 6.) de la velocidad de circulación del tren número 62077 se observa que delante de la señal de aproximación PsB (imagen 
-7.) el valor de la velocidad de circulación es de 42 km/h (pulsación de las teclas de vigilancia del dispositivo auto-stop y 
-actuación de la baliza activa de 1000 Hz), posteriormente la velocidad desciende hasta 36 km/h y después aumenta hasta 39 km/h. 
-Al llegar a la señal de entrada „B“ el valor de la velocidad es de 38 km/h (pulsación de las teclas de circulación bajo orden y actuación de la baliza de vía de 2000 Hz), tras lo cual el valor de la velocidad es de 34 km/h, en el tramo del 
-edificio de la oficina de tráfico la velocidad aumenta ligeramente y alcanza los 47 km/h.  
-A continuación, tras unos segundos, se inicia el proceso de frenado (caída de presión) y la velocidad se reduce 
-a 44 km/h, y posteriormente, tras un segundo, se produce una caída de la velocidad hasta un valor de 37 km/h (se produce 
-la colisión) y sigue una mayor caída de la velocidad hasta 22 km/h (el dispositivo deja de registrar la velocidad).
+El tren número 81278 (compuesto por 23 vagones de carga) del operador ENNA Transport con trayecto previsto 
+desde la estación de Sisak Caprag hasta la estación de Šoići partió de la estación de Sisak Caprag el 13.11.2022 
+a las 13:29 horas. Circulando por la línea M502 llega a la estación de Zagreb RK a las 14:38 horas, y espera 
+la salida en dirección a la estación de Šoići por la línea M202 hasta las 19:20, dicho trayecto transcurre 
+con normalidad hasta la estación de Moravice, donde tiene una retención de 46 minutos. La composición llega a la estación de Škrljevo 
+el 14.11.2022 a las 01:46 horas.  Al llegar a la estación de Škrljevo se produce la descomposición del tren número 81278 
+en dos grupos de vagones, el primero de (12 vagones) y el segundo de (11 vagones) que permanece en el 3.º carril (carril 
+principal de paso) de la estación de Škrljevo. A las 02:04 horas sale de la estación de Škrljevo el primer grupo de 12  
+vagones del tren número 81278, y los mismos llegan a la estación de Šoići a las 02:14 horas. 
+Del examen de los registros (figura 6.) de la velocidad de circulación del tren número 62077 se observa que delante del presignal PsB (figura 
+7.) el valor de la velocidad de circulación es de 42 km/h (activación del pulsador de vigilancia del dispositivo de parada automática y 
+actuación de la baliza activa de 1000 Hz), a continuación la velocidad desciende hasta 36 km/h y después sube hasta 39 km/h. 
+Al llegar a la señal de entrada "B" el valor de la velocidad es de 38 km/h (activación del pulsador de conducción por 
+orden y actuación de la baliza de vía de 2000 Hz), después el valor de la velocidad es de 34 km/h, en la línea del 
+despacho la velocidad aumenta ligeramente y es de 47 km/h.  
+Además, tras unos segundos se produce el inicio del proceso de frenado (caída de presión) y la velocidad disminuye 
+a 44 km/h, y después de un segundo se produce la caída de la velocidad hasta el valor de 37 km/h (se produce 
+el impacto) y sigue una mayor caída de la velocidad hasta 22 km/h (el dispositivo deja de registrar 
+la velocidad).
 
 ## Página 18
 
@@ -816,24 +822,17 @@ Mediante la investigación y el análisis de los hechos y hallazgos establecidos
 
 ## Página 35
 
-4.4. Mecanismos de información de retorno y control, incluida la gestión de riesgos y 
-seguridad, así como los procedimientos de seguimiento 
-### 4.4.1. Condiciones pertinentes en relación con el marco regulatorio 
-Las condiciones pertinentes del marco regulatorio están establecidas en los Reglamentos de la Unión Europea: Reglamento de Ejecución (UE) n.º 402/2013, Directiva (UE) 2016/798, legislaciones nacionales, reglamentos y actos internos: Ley de seguridad e interoperabilidad del sistema ferroviario, Instrucción sobre la gestión de riesgos en caso de cambios significativos en el sistema (HŽI-684), Instrucción sobre la gestión de riesgos (HŽI-701-41), Manual de organización y aplicación del sistema de gestión de la seguridad (HŽI-663), Reglamento del sistema de gestión de la seguridad de ENNA Transport d.o.o., Política de seguridad de HŽ Cargo d.o.o., Plan operativo de aplicación de la política de seguridad para HŽ Cargo d.o.o., Acuerdo sobre el nombramiento y funcionamiento de las comisiones de investigación conjuntas para HŽ Cargo d.o.o., Instrucción sobre los procedimientos en caso de incidente extraordinario de HŽ Cargo d.o.o. y Lista de peligros y categorización de riesgos en la circulación de trenes de mercancías de HŽ Cargo d.o.o. 
-4.4.2. Procedimientos, métodos, contenido y resultados de las actividades de evaluación y seguimiento de riesgos llevadas a cabo por cualquiera de las partes implicadas: transportistas ferroviarios, gestores de la infraestructura, entidades responsables del mantenimiento, talleres de mantenimiento, otros proveedores de servicios de mantenimiento, fabricantes y todas las demás entidades, así como los informes de evaluación independiente del artículo 6 del Reglamento de Ejecución (UE) n.º 402/2013  
-En la recomendación de seguridad se solicita que el gestor de la infraestructura elabore y evalúe adicionalmente el riesgo/peligro que genera el peligro de paso de un tren junto a una señal que muestra la señalización «Stop» en los casos en que el controlador de tráfico emita la autorización «Conducción bajo orden» al maquinista y eliminarlo mediante la adopción de medidas adicionales.        
-4.4.3. Sistema de gestión de la seguridad de los transportistas ferroviarios y gestores de la infraestructura implicados, 
-incluidos los elementos básicos enumerados en el artículo 9, apartado 3, de la Directiva (UE) 2016/798 y todos los actos 
-### de ejecución de la UE  
-El gestor de la infraestructura tiene establecido su sistema de gestión de la seguridad, y de conformidad con el punto 18. 
-de la Directiva (UE) 2016/798 del Parlamento Europeo y del Consejo (El sistema de gestión de la seguridad debería garantizar mediante sus procedimientos que se tengan en cuenta las capacidades y limitaciones humanas y los efectos sobre la actuación humana, de modo que se aplique el conocimiento de los factores humanos y se utilicen métodos reconocidos) y 
-otras disposiciones europeas relacionadas con el sistema de gestión de la seguridad enumeradas en el punto 2.7. del presente 
-informe, debería mejorar su propio sistema de gestión de la seguridad de conformidad con las recomendaciones de seguridad indicadas. 
-4.4.4. Sistema de gestión de la entidad o entidades responsables del mantenimiento y talleres de mantenimiento, 
-incluidas las funciones enumeradas en el artículo 14, apartado 3, y el Anexo III de la Directiva (UE) 2016/798 y todos los 
-actos de ejecución posteriores  
-Mediante la investigación y el análisis de los hechos y hallazgos establecidos no se identificaron factores relacionados con el sistema de gestión de las entidades responsables del mantenimiento en relación con la ocurrencia del mencionado accidente. 
-4.4.5. Resultados de la supervisión realizada por las autoridades nacionales competentes en materia de seguridad de conformidad con el artículo 
+4.4. Mecanismos de retroalimentación y control, incluyendo la gestión de riesgos y la seguridad, así como los procedimientos de seguimiento
+### 4.4.1. Condiciones relevantes en cuanto al marco regulatorio
+Las condiciones relevantes del marco regulatorio se han establecido en los Reglamentos de la Unión Europea: Reglamento Delegado (UE) nº 402/2013, Directiva (UE) 2016/798, leyes nacionales, reglamentos y actos internos: Ley sobre la seguridad e interoperabilidad del sistema ferroviario, Instrucción sobre la gestión de riesgos en caso de cambios significativos en el sistema (HŽI-684), Instrucción sobre la gestión de riesgos (HŽI-701-41), Manual sobre la organización y aplicación del sistema de gestión de la seguridad (HŽI-663), Reglamento sobre el sistema de gestión de la seguridad de ENNA Transport d.o.o., Política de seguridad de HŽ Cargo d.o.o., Plan operativo de aplicación de la política de seguridad para HŽ Cargo d.o.o., Acuerdo sobre el nombramiento y funcionamiento de las comisiones de investigación conjuntas para HŽ Cargo d.o.o., Instrucción sobre los procedimientos en caso de suceso excepcional de HŽ Cargo d.o.o. y Lista de peligros y categorización de riesgos en la circulación de trenes de mercancías de HŽ Cargo d.o.o.
+4.4.2. Procedimientos, métodos, contenido y resultados de las actividades de evaluación y seguimiento de riesgos realizadas por cualquiera de los sujetos implicados: operadores ferroviarios, gestores de infraestructura, sujetos competentes para el mantenimiento, talleres de mantenimiento, otros proveedores de servicios de mantenimiento, fabricantes y todos los demás sujetos, así como los informes de evaluación independiente del artículo 6 del Reglamento Delegado (UE) nº 402/2013
+En la recomendación de seguridad solicitamos que el gestor de infraestructura desarrolle y evalúe adicionalmente el riesgo/peligro que crea el peligro de que un tren pase junto a una señal que muestra la señalización «Alto» en los casos en que el despachador emite el permiso al maquinista de «Circulación por orden» y lo elimine mediante la adopción de medidas adicionales.
+4.4.3. Sistema de gestión de la seguridad de los operadores ferroviarios y gestores de infraestructura implicados, incluyendo los elementos básicos establecidos en el artículo 9, apartado 3, de la Directiva (UE) 2016/798 y todos los actos jurídicos
+### de aplicación de la UE
+El gestor de infraestructura tiene establecido su propio sistema de gestión de la seguridad y, de conformidad con el punto 18 de la Directiva (UE) 2016/798 del Parlamento Europeo y del Consejo (El sistema de gestión de la seguridad debería garantizar mediante sus procedimientos que se tengan en cuenta las capacidades y limitaciones humanas, así como las influencias en la actuación humana, de modo que se apliquen los conocimientos sobre factores humanos y se utilicen métodos reconocidos) y otras disposiciones europeas relacionadas con el sistema de gestión de la seguridad mencionadas en el punto 2.7 de este informe, debería mejorar su propio sistema de gestión de la seguridad de conformidad con las recomendaciones de seguridad mencionadas.
+4.4.4. Sistema de gestión del/de los sujetos competentes para el mantenimiento y talleres de mantenimiento, incluyendo las funciones establecidas en el artículo 14, apartado 3, y en el Anexo III de la Directiva (UE) 2016/798 y todos los actos de aplicación posteriores
+De la investigación y el análisis de los hechos y hallazgos establecidos no se han determinado factores relacionados con el sistema de gestión de los sujetos competentes para el mantenimiento en relación con la ocurrencia de la mencionada accidente objeto de estudio.
+4.4.5. Resultados de la supervisión realizada por las autoridades nacionales competentes en materia de seguridad de conformidad con el artículo
 ### 17 de la Directiva (UE) 2016/798
 
 ## Página 36

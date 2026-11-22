@@ -10,12 +10,14 @@ chars: 30538
 ratio_longitud: 0.97
 tokens_in: 17729
 tokens_out: 10966
-verificacion: ok
-notas_cifras: ["bloque 3: cifras largas: 5/46; cifras cortas: 5/78", "bloque 4: original bilingüe: se compara contra el idioma principal (DE); cifras largas: 2/32; cifras cortas: 16/99", "bloque 5: original bilingüe: se compara contra el idioma principal (DE); cifras largas: 1/36; cifras cortas: 5/80", "bloque 6: cifras largas: 5/38; cifras cortas: 23/93"]
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: revisar
+avisos: ["página 20: cifras largas: faltan 3/11 (27%)"]
 ---
+
 ## Página 1
+
 
 ZUSA
 MMEN
@@ -116,6 +118,7 @@ http://ve
 ersa.bmvit.gv.at
 
 ## Página 2
+
 
 ### Índice
 Página
@@ -505,6 +508,7 @@ en plazo .....
 
 ## Página 3
 
+
 ### Índice de
 ### ilustraciones
 Página
@@ -559,10 +563,10 @@ Vehicle Keeper (mantenedor de material)
 VzG 
 Registro de velocidades localmente permitidas 
 Z 
-Tren 
-
+Tren
 
 ## Página 4
+
 
 ### Índice de
 ### normativa
@@ -624,6 +628,7 @@ Las posibles consultas fueron respondidas hasta el 18 de diciembre de 2012.
 Procedimiento de toma de postura del 10 de enero de 2013 al 15 de febrero de 2013
 
 ## Página 5
+
 
 ### Notas
 previas
@@ -696,6 +701,7 @@ gencia Federal
 
 ## Página 6
 
+
 ### Destinat
 arios
 Este informe de investigación
@@ -738,6 +744,7 @@ Centro Europeo de Documentación
 BMWFJ - Biblioteca de clúster
 
 ## Página 7
+
 
 ### 1. Resumen
 Sábado, 8 de diciembre de 2012, a las 17:54 h,
@@ -816,45 +823,114 @@ IM ÖBB Infraestructura
 
 ## Página 8
 
-### EK pk 10,4
-## 439
-### Figura
-### 1     Croquis
-### de las líneas ferroviarias de Austria
-2.3. Condiciones meteorológicas
-, visibilidad
-Despejado, -5
- °C, oscuridad,
- sin restricciones de visibilidad
- debidas al tiempo.
-2.4. Competencia
- de la autoridad
-La autoridad ferroviaria competente
- es el Landeshauptmann
- de Niederösterreich. La
- Autoridad ferroviaria suprema del Ministerio
- Federal de Transportes, Innovación y Tecno-
-logía tiene conocimiento de la investigación
- a través de la remisión del informe de investigación.
-2.5. Condiciones locales
-La EK en el pk 10,4
-39 se encuentra en la línea
- única, no electrificada de ÖBB
- 16301 Wiener Neustadt Hbf – estación de P
-Puchberg am Schneeb
-berg y está protegida por un
- semáforo de paso a nivel. En el sentido
- de la circulación 1 (Z 6427) se activa
- la EKSA
- de forma dependiente del tren. La función
- correcta de la EKSA se señala
- al maquinista mediante un EKÜS.
- La explotación se realiza
- de acuerdo con las disposiciones y
- directrices de los reglamentos
- del IM.
+### EK km 10,4
+## 439 
+### Abbildung
+### g 1     Skizze
+### e Eisenbahn
+### linien Öster
+rreich 
+2.3
+. Witterung
+, Sichtverhä
+ältnisse 
+Heiter, - 5
+5 °C, Dunke
+lheit, keine 
+witterungsb
+bedingten E
+Einschränku
+ungen der S
+Sichtver-
+hältnisse. 
+2.4
+. Behörden
+zuständigke
+eit 
+Die zustän
+ndige Eisen
+nbahnbehör
+rde ist der L
+Landeshaup
+ptmann von
+n Niederöste
+erreich. Die
+e 
+Oberste E
+Eisenbahnbe
+ehörde im B
+Bundesmini
+isterium für 
+Verkehr, In
+nnovation u
+nd Techno-
+-
+logie wird
+ von der U
+Untersuchun
+ng durch Ü
+Übermittlung
+g des Unter
+rsuchungsb
+berichtes in
+n 
+Kenntnis g
+gesetzt. 
+2.5
+. Örtliche V
+Verhältnisse
+Die EK im
+m km 10,4
+39 liegt au
+uf der eingl
+leisigen, ni
+cht elektris
+sch betriebe
+enen ÖBB-
+-
+Strecke 16
+6301 Wiene
+er Neustadt
+t Hbf – Bf P
+Puchberg am
+m Schneeb
+berg und wir
+d durch ei-
+-
+ne Lichtze
+eichenanlag
+ge gesichert
+t. In Fahrtric
+chtung 1 (Z
+ 6427) wird
+d die EKSA 
+zugbewirkt
+t 
+eingescha
+altet. Die ord
+dnungsgem
+mäße Funkti
+on der EKS
+SA wird dem
+m Tfzf durch
+h ein EKÜS
+S 
+signalisier
+rt. 
+Die Betrie
+ebsabwicklu
+ung erfolgt 
+gemäß den
+n Bestimmu
+ungen und 
+Vorgaben 
+der Regel-
+-
+werke des
+s IM.
 
 ## Página 9
+
 
 ### Wiener Neu
 ### ustadt Hbf
@@ -901,6 +977,7 @@ Aprox. 25 viajeros
 
 ## Página 10
 
+
 2.7. Velocidades
  permitidas
 Extracto del VzG línea 16301
@@ -925,6 +1002,7 @@ Extracto del libro de circulación
 ### IM
 
 ## Página 11
+
 
 ### Figura
 ### 5     Extracto
@@ -964,10 +1042,10 @@ EK km 10
 ### horario
 ### modelo 141
 ### - Fuente IM
-## M 
-
+## M
 
 ## Página 12
+
 
 Nota
 SUB: La
@@ -1022,8 +1100,8 @@ desde W
 Wz (estación Winze
 endorf).
 
-
 ## Página 13
+
 
 Restricción
 de velocidad
@@ -1106,8 +1184,8 @@ la EK e intentó
 cruzarla
 pese a la luz roja.
 
-
 ## Página 14
+
 
 ## Z 6427 
 ## Vehículo
@@ -1138,10 +1216,10 @@ en un aparcamiento.
 ### Vehículo de motor
 ### lanzado - Fuente
 ### www.einsa
-### tzdoku.at 
-
+### tzdoku.at
 
 ## Página 15
+
 
 El
 conductor del
@@ -1167,10 +1245,10 @@ resultaron ilesos.
 ### dañada del Tw
 ### g - Fuente w
 ### www.einsatz
-### zdoku.at 
-
+### zdoku.at
 
 ## Página 16
+
 
 ### 4. Personas
 ### heridas, daños
@@ -1278,8 +1356,8 @@ Se estableció
 un servicio
 alternativo por carretera.
 
-
 ## Página 17
+
 
 ### 5. Intervinientes
 ### , contratistas
@@ -1383,8 +1461,8 @@ máxima
 permitida
 por el Z 6427.
 
-
 ## Página 18
+
 
 6.3
 . Evaluación del
@@ -1424,62 +1502,74 @@ rodado.
 6.4
 . Inspección local
 realizada por la SUB
-El 16 de diciembre de 2012 se realizó por parte de la SUB una inspección local en el lugar, en la que se constató, en comparación con la inspección local del 25 de junio de 2012:
-Las señales de peligro "BALIZAS" con dos barras colocadas en la dirección de circulación del vehículo de motor presentan, a pesar de la diferente distancia de los pares de balizas de la EK, las mismas indicaciones de distancia y aparentemente no habían cambiado.
-### Figura 17 Vista del par de balizas "95 m"
-Las señales de peligro "BALIZAS" con una barra colocadas en la dirección de circulación del vehículo de motor estaban colocadas aproximadamente a la misma distancia con las mismas indicaciones de distancia "55 m".
-
-### Figura 18 Vista del par de balizas "55 m"
-
+B 
+El 16 de d
+iciembre de 2
+012 se llevó
+ a cabo por la
+e SUB una 
+inspección local
+ presencial, en la que 
+se comprobó, en comparación con la 
+inspección local
+ del 25 de ju
+nio de 2012: 
+Las señales de peligro
+ „BAKEN“
+ colocadas en la 
+dirección de circulación del vehículo
+ con dos barras 
+presentan, a pesar de la diferente 
+distancia de los pares de barras 
+respecto de la EK, las mismas 
+indicaciones de 
+distancia y 
+parecían aparentemente 
+sin cambios. 
+### Figura
+### 17   Vista
+### del par de barras "9
+95 m" 
+Las señales de peligro
+ „BAKEN“
+ colocadas en la 
+dirección de circulación del vehículo
+ con una 
+barra estaban aproximadamente a la misma 
+distancia con las mismas 
+indicaciones de 
+distancia „
+„55 m" colocadas. 
+### Figura
+### 18   Vista
+### del par de barras "5
+55 m"
 
 ## Página 20
 
-En la confluencia de la "Winzerstraße" (una calle sin salida) en la "Wiener Neustädter Straße" se colocaron a derecha e izquierda las señales de peligro "PASO A NIVEL SIN BARRERAS" con una placa adicional "FLECHA" (a la izquierda).
-### Figura 19 Confluencia de la Winzerstraße en la "Wiener Neustädter Straße"
-En lo que respecta a las medidas adoptadas en cuanto a la señalización de la EK, la SUB no disponía de documentación.
+En la confluencia de la "Winzerstraße" (un callejón sin salida) en la "Wiener Neustädter Straße" se instalaron a derecha e izquierda las señales de peligro "CRUCE DE FERROCARRIL SIN BARRERAS" con una placa adicional "FLECHA" (hacia la izquierda).
 
-6.5
-. Evaluación estadística de accidentes en la EK – accidentes en la EK km 10,439
-Accidentes en el periodo del 1 de enero de 2007 al 8 de diciembre de 2012
-Personas heridas
-Fecha
-Hora
-Tren
-Vehículo ferroviario
-Vehículo
-carretero
-ninguna
-mortal
-grave
-leve
-⊠
-11.05.2011
-06:38
-Z 6405
-PKW
-□
-17.06.2012
-15:08
-Z 6422
-PKW
-## 1
-## -
-## -
-□
-08.12.2012
-17:54
-Z 6427
-PKW
-## -
-## -
-## 1
-## "
+### Figura 19   Confluencia de la Winzerstraße en la "Wiener Neustädter Straße"
 
-### Figura 20 Tabla "Evaluación estadística de la EK km 10,439"
-La evaluación muestra que desde la entrada en servicio de la LZA conforme a la resolución del 13 de enero de 2009 se produjeron tres accidentes.
+Respecto a las medidas adoptadas en la señalización de la EK, la SUB no dispone de documentación.
 
+6.5. Evaluación estadística de accidentes de EK en la EK km 10,439
+
+Accidentes en el período del 1 de enero de 2007 al 8 de diciembre de 2012
+
+| | | | | | Personas lesionadas | | |
+|---|---|---|---|---|---|---|---|
+| Fecha | Hora | Tren | Vehículo ferroviario | Vehículo carretero | ninguna | mortal | grave | leve |
+| ⊠ 11.05.2011 | 06:38 | Z 6405 | PKW | | 1 | - | - | |
+| □ 17.06.2012 | 15:08 | Z 6422 | PKW | | 1 | - | - | |
+| □ 08.12.2012 | 17:54 | Z 6427 | PKW | | - | - | 1 | |
+
+### Figura 20   Tabla "Evaluación estadística de la EK km 10,439"
+
+La evaluación muestra que desde la entrada en servicio de la LZA según resolución del 13 de enero de 2009 se produjeron tres accidentes.
 
 ## Página 21
+
 
 ### 7. Conclusiones
 Z 6427 cumplió las señales de vía y las velocidades prescritas.
@@ -1501,8 +1591,8 @@ En base a los hallazgos disponibles, debe partirse de que la causa se fundamenta
 ### 11. Alegaciones tenidas en cuenta
 Véase anexo.
 
-
 ## Página 22
+
 
 ### 12. Recomendaciones de seguridad
 | Punto Número anual consecutivo | Recomendaciones de seguridad | Dirigida a |
@@ -1521,32 +1611,38 @@ Anexo:
 Extracto de la resolución del 13 de enero de 2009
 Alegaciones recibidas en plazo
 
-
 ## Página 23
+
 
 ### Extracto de la resolución
 del 13 de enero
 
-
 ## Página 24
+
 
 
 ## Página 25
 
 
+
 ## Página 26
+
 
 
 ## Página 27
 
 
+
 ## Página 28
+
 
 
 ## Página 29
 
 
+
 ## Página 30
+
 
 ### Anexo alegaciones recibidas en plazo
 Letra
@@ -1564,8 +1660,8 @@ j)
 k)
 l)
 
-
 ## Página 31
+
 
 y su tenencia en cuenta
 Letra

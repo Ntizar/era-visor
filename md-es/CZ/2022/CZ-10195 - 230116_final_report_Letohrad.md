@@ -10,13 +10,14 @@ chars: 77301
 ratio_longitud: 1.25
 tokens_in: 35658
 tokens_out: 25040
-verificacion: revisar
-notas_cifras: ["bloque 1: original bilingüe: se compara contra el idioma principal (EN)", "bloque 6: original bilingüe: se compara contra el idioma principal (EN)"]
-avisos: ["bloque 6: ratio 1.81"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 3: original bilingüe: se compara contra el idioma principal (PT)", "página 5: original bilingüe: se compara contra el idioma principal (CS)", "página 6: original bilingüe: se compara contra el idioma principal (CS)", "página 9: original bilingüe: se compara contra el idioma principal (CS)", "página 10: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -39,13 +40,13 @@ IČ: 75009561
 mail@dicr.cz
 tel.: +420 736 521 003
 
-
 ## Página 2
+
 
 Este informe final es público y todos los hechos en él expuestos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ### 1 RESUMEN
 Fuente: Drážní inspekce
@@ -68,8 +69,8 @@ No se ha detectado ningún factor contribuyente por parte de Drážní inspekce.
 No se ha detectado ninguna causa sistémica por parte de Drážní inspekce.
 No se ha emitido ninguna recomendación de seguridad por parte de Drážní inspekce.
 
-
 ## Página 4
+
 
 ### SUMMARY
 21st February 2022, 13:32 (11:32 GMT).
@@ -104,8 +105,8 @@ Systemic factor:
 none.
 Recommendation: not issued.
 
-
 ## Página 5
+
 
 # Índice
 1 RESUMEN........................................................................................................................3
@@ -147,8 +148,8 @@ SUMMARY.........................................................................
 4.2 Vehículos ferroviarios e instalaciones técnicas...........................................................................23
 4.2.1 Factores o consecuciones derivados del diseño de los vehículos ferroviarios, la infraestructura ferroviaria o las instalaciones técnicas.....................................................................23
 
-
 ## Página 6
+
 
 4.2.2 Factores o consecuencias derivados de la instalación y la puesta en servicio de los vehículos ferroviarios, la infraestructura ferroviaria o las instalaciones técnicas......................................23
 4.2.3 Factores o consecuencias relacionados con los fabricantes de vehículos ferroviarios u otros proveedores de productos ferroviarios............................................................................24
@@ -179,6 +180,7 @@ SUMMARY.........................................................................
 ANEXOS..............................................................................................................................29
 
 ## Página 7
+
 
 ### Lista de abreviaturas y símbolos utilizados
 CDP
@@ -240,8 +242,8 @@ Informe final sobre los resultados de la investigación de la ocurrencia extraor
 žst.
 estación de ferrocarril
 
-
 ## Página 8
+
 
 ### Lista de abreviaturas de disposiciones legales, normas y normativa interna utilizadas
 ley núm. 266/1994 Sb.
@@ -271,8 +273,8 @@ ferroviarias,
 instalaciones de seguridad de estación y de vía», en la redacción vigente en el momento
 de la ocurrencia de la ocurrencia extraordinaria
 
-
 ## Página 9
+
 
 ### 2 INVESTIGACIÓN Y SUS RELACIONES
 ### 2.1 Decisión de iniciar la investigación
@@ -312,8 +314,8 @@ descargaba las grabaciones (véanse los capítulos 2.3 y 3.1.9 de este ZZ).
 y los hallazgos indicados en el informe
 En el marco de la investigación de la MU, la DI actuó de la siguiente manera, es decir, utilizó, entre otros, los siguientes métodos y técnicas:
 
-
 ## Página 10
+
 
 •
 inspección del lugar de la ocurrencia extraordinaria, incluidos los vehículos ferroviarios participantes,
@@ -356,8 +358,8 @@ detrás de la señal L4);
 50.0323800N, 16.5053822E (posición de la cabeza del tren Sp 1834 tras detenerse
 en la SK núm. 4c).
 
-
 ## Página 11
+
 
 ### 3.1.3 Descripción del lugar del suceso
 La est. Letohrad se sitúa en el ferrocarril nacional Lichkov – Ústí nad Orlicí, en el km 89,953
@@ -391,8 +393,8 @@ textil de retención en caso de fuga de fluidos operativos del HDV de tracción 
 •
 la superestructura ferroviaria de la SK de maniobras núm. 4c estaba formada, desde el final de la aguja núm. 15 (en dirección recta) en el km 89,888 hasta el final de la vía formado por el tope en el km 89,478, por carriles de ancho de vía estándar de perfil S49, fijados a traviesas de hormigón SB5 con placas base de ancho RT y abrazaderas rígidas T. El balasto estaba limpio;
 
-
 ## Página 12
+
 
 •
 la aguja núm. 15, determinante para la dirección de la circulación indebida del tren Sp 1834 hacia la SK núm. 4c,
@@ -448,6 +450,7 @@ indicada por la SZZ (la vía carece de elementos exteriores para la detección d
 
 ## Página 13
 
+
 Estado del material rodante:
 •
 la composición del tren Sp 1834 (Letohrad – Hradec Králové hl. n.) estaba, en el sentido de la marcha, formada por la LVD CZ-ČD 95 54 5 854.225-0, la DV CZ-ČD 50 54 20-29 201-1 (en adelante solo 20-29 201-1) y la RDV CZ-ČD 50 54 80-29 216-6 (en adelante solo 80-29 216-6). El tren era conducido por el maquinista desde el puesto de conducción de la LVD, en el que se encontraba instalado el registrador de velocidad Unicontrols Tramex RE1xx;
@@ -482,8 +485,8 @@ En el MU, el daño causado en el material rodante y en los componentes de la ví
 ### 242 272 Kč.
 No se produjo daño en las cosas transportadas, el equipaje ni otros bienes.
 
-
 ## Página 14
+
 
 ### 3.1.5 Descripción de otras consecuencias, incluido el impacto del suceso en las actividades regulares de los sujetos participantes
 Como consecuencia de la producción del MU, no se produjo en la est. Letohrad una interrupción total de la explotación del transporte ferroviario. Solo se vio afectada la circulación en el grupo par de SK desde las 13:32 h hasta las 19:30 h.
@@ -518,8 +521,8 @@ la prueba simple de freno se realizó el 21. 2. 2022 a las 5:25 h en la est. Let
 •
 el titular de todas las DV de la composición del tren era ČD.
 
-
 ## Página 15
+
 
 La LVD 854 225-0 estaba, en el momento de la producción del MU, equipada con un dispositivo de registro automático de datos – registrador de velocidad con registro electrónico de datos Unicontrols Tramex RE1xx, n.º 4088.
 De los datos registrados se desprende:
@@ -549,8 +552,8 @@ El desvío n.º 15 en el km 89,855 era simple, izquierdo, con cierre de lengüet
 El tramo de vía entre la est. Letohrad y la est. Žamberk estaba equipado con dispositivo de señalización de vía de 3.ª categoría, barrera automática sin señales de sección de tipo AH-88A.
 La comunicación ferroviaria básica por radio entre la est. Letohrad (fuera) y Týniště nad Orlicí (fuera)
 
-
 ## Página 16
+
 
 la garantizaba el TRS (grupo de canales 63). En la est. Letohrad, es decir, en el tramo entre las est. Ústí nad Orlicí, Lichkov y Dolní Lipka, la comunicación ferroviaria básica por radio es el sistema digital GSM-R CZ. En caso de amenaza al tráfico en el ámbito de la est. Letohrad, la comunicación ferroviaria básica por radio GSM-R CZ permite al jefe de estación PPV en la est. Lichkov o al despachista de tráfico del CDP Praha utilizar la función «GSM-R STOP». Con la activación de esta función se genera una llamada de emergencia y en los puestos de conducción el registro de comunicaciones del vehículo comienza a reproducir una llamada automática por voz para la detención del tren, la maniobra entre instalaciones y las maniobras de vehículos en un área definida, y en las LVD con el equipamiento adecuado el registro de comunicaciones del vehículo activa automáticamente el sistema de freno de la LVD.
 La velocidad máxima permitida del tren Sp 1834, en caso de salida estándar en la dirección desde la SK n.º 4, sería de 50 km·h-1 para el ámbito de desvíos adyacente.
@@ -578,8 +581,8 @@ maquinista del tren Sp 1834
 ◦a continuación regresó al puesto de conducción de la LVD y contactó con el jefe de estación en el PPV de Lichkov. No pudo comunicarse con él en varias ocasiones, aproximadamente entre las 13:35 h y las 13:40 h;
 ◦posteriormente contactó telefónicamente con el despachista regional de ČD, al que ya había contactado antes que él la tripulación del tren, y hacia las 13:45 h contactó telefónicamente con el jefe de taller de Hradec Králové;
 
-
 ## Página 17
+
 
 ◦no recordaba ya datos horarios más precisos debido al estrés tras la producción del MU.
 •
@@ -608,6 +611,7 @@ jefe de estación PPV en la est. Lichkov
 
 ## Página 18
 
+
 ◦ya le había llamado a la jefa de circulación de la línea 141 y acordaban quién comunicaría el SU, lo que finalmente hizo la jefa de circulación de la línea.
 El lugar del SU (andén en la vía SK n.º 4) estaba monitorizado por un sistema de cámaras con grabación. El análisis de estas grabaciones no se realizó debido a la demora en su aseguramiento.
 El día de la ocurrencia del SU, la DI, debido al riesgo de que se sobrescribieran las grabaciones del sistema de cámaras, envió a la persona autorizada de SŽ a las 20:48 h, por vía electrónica, una solicitud en la que, entre otros, se indicaba que era necesario asegurar: "… redaty, archiv SZZ y archivo de direcciones para Letohrad, cámaras, si se ve la circulación de ese tren ...", con la información adicional de que posteriormente se enviaría una solicitud oficial de lo anteriormente mencionado de acuerdo con lo dispuesto en el §53 d apartado 1 letra i) de la Ley n.º 266/1994 Sb. Posteriormente, al Operador de la infraestructura SŽ se le volvió a enviar la solicitud de asegurar las grabaciones de las cámaras en la "Solicitud de información para la investigación del suceso excepcional" del 23. 2. 2022. A pesar de ello, la DI no recibió las grabaciones de las cámaras debido a la supuesta sobrescritura de las grabaciones de la época de la ocurrencia del SU en el momento en que el operador de la infraestructura descargaba las grabaciones. La DI desconoce cuándo se produjo la supuesta descarga de las grabaciones de las cámaras por parte de SŽ (dada la solicitud urgente de la DI por ellas ya varias horas después de la ocurrencia del SU).
@@ -620,52 +624,52 @@ El maquinero, tras recibir la llamada de emergencia y oír la indicación vocal 
 
 ## Página 19
 
-### 3.2.2 Secuencia de hechos desde la ocurrencia del suceso excepcional hasta la finalización de las acciones de los servicios de emergencia
+### 3.2.2 Cronología de hechos desde la ocurrencia del suceso hasta la finalización de las acciones de los servicios de emergencia
 •
-13:32 h el maquinero del tren Sp 1834 comunicó (confirmó) la ocurrencia del SU al jefe de estación PPV en la est. Lichkov;
+13:32 h el maquinista del tren Sp 1834 comunicó (confirmó) la ocurrencia del suceso al jefe de estación PPV en la est. Lichkov;
 •
-13:50 h el jefe de estación PPV en la est. Lichkov informó de la ocurrencia del SU a PD1 CDP Praga;
+13:50 h el jefe de estación PPV en la est. Lichkov informó de la ocurrencia del suceso a PD1 CDP Praga;
 •
-13:54 h aclaración de las consecuencias del SU por parte del maquinero al jefe de estación PPV en la est. Lichkov;
+13:54 h precisión de las consecuencias del suceso por parte del maquinista al jefe de estación PPV en la est. Lichkov;
 •
-13:55 h VD CDP Praga comunicó la ocurrencia del SU a la persona autorizada del operador de la infraestructura SŽ – Departamento del Sistema de Seguridad de la Explotación de la Infraestructura (O18) en la Oficina Territorial Česká Třebová;
+13:55 h VD CDP Praga comunicó la ocurrencia del suceso a la persona designada del gestor de la vía SŽ – Departamento del Sistema de Seguridad de la Explotación de la Vía (O18) en la Oficina Territorial Česká Třebová;
 •
-13:55 h el despachador de reserva de CDP Praga comunicó la ocurrencia del SU a la guardia de accidentes PO Česká Třebová;
+13:55 h el despachador de reserva de CDP Praga comunicó la ocurrencia del suceso a la guardia de emergencia de PO Česká Třebová;
 •
-13:56 h VD CDP Praga comunicó la ocurrencia del SU al despachador central de SŽ;
+13:56 h VD CDP Praga comunicó la ocurrencia del suceso al despachador central de SŽ;
 •
-13:57 h el despachador de reserva de CDP Praga comunicó la ocurrencia del SU a la supervisión de accidentes de CDP Praga;
+13:57 h el despachador de reserva de CDP Praga comunicó la ocurrencia del suceso a la supervisión de emergencia de CDP Praga;
 •
-13:59 h VD CDP Praga comunicó la ocurrencia del SU a la guardia de accidentes OŘ Hradec Králové;
+13:59 h VD CDP Praga comunicó la ocurrencia del suceso a la guardia de emergencia de OŘ Hradec Králové;
 •
-14:00 h VD CDP Praga comunicó la ocurrencia del SU a la supervisión de accidentes de CDP Praga;
+14:00 h VD CDP Praga comunicó la ocurrencia del suceso a la supervisión de emergencia de CDP Praga;
 •
-14:00 h el despachador de reserva de CDP Praga comunicó la ocurrencia del SU a HZS Česká Třebová;
+14:00 h el despachador de reserva de CDP Praga comunicó la ocurrencia del suceso a HZS Česká Třebová;
 •
-14:01 h a la persona autorizada del operador de la infraestructura SŽ se le aclararon las informaciones relativas al SU por VD CDP Praga;
+14:01 h se precisaron a la persona designada del gestor de la vía SŽ la información relativa al suceso por parte de VD CDP Praga;
 •
-14:05 h VD CDP Praga comunicó la ocurrencia del SU al electrodespachador de SŽ;
+14:05 h VD CDP Praga comunicó la ocurrencia del suceso al despachador eléctrico de SŽ;
 •
-14:09 h VD CDP Praga aclaró las informaciones sobre el SU a HZS Česká Třebová;
+14:09 h VD CDP Praga precisó la información sobre el suceso a HZS Česká Třebová;
 •
-14:11 h la persona autorizada O18 de SŽ comunicó la ocurrencia del SU al COP de la DI;
+14:11 h la persona designada O18 de SŽ comunicó la ocurrencia del suceso a COP DI;
 •
-16:38 h inspección del lugar de la ocurrencia del SU por empleados de la DI;
+16:38 h inspección del lugar de ocurrencia del suceso por parte de empleados de DI;
 •
-17:10 h el inspector de la DI presente concedió la autorización para la liberación de la infraestructura;
+17:10 h el inspector de DI presente dio su consentimiento para la liberación de la vía;
 •
-19:30 h restablecimiento completo de la circulación (hasta entonces la circulación limitada en el grupo par de SK).
-El Plan IZS fue activado debido al carácter del SU. El Plan IZS fue activado a las 14:00 h, es decir, 28 minutos después de la ocurrencia del SU, por el despachador de reserva de CDP Praga.
-En el lugar del SU intervinieron los siguientes componentes del IZS:
+19:30 h restablecimiento completo de la explotación (hasta entonces explotación restringida en el grupo par SK).
+El Plan IZS fue activado en función de la naturaleza del suceso. El Plan IZS fue activado a las 14:00 h, es decir, 28 minutos después de la ocurrencia del suceso, por el despachador de reserva de CDP Praga.
+En el lugar del suceso intervinieron los siguientes componentes de IZS:
 •
-HZS SŽ, unidad de protección contra incendios Česká Třebová.
-
+HZS SŽ, unidad de protección contra incendios de Česká Třebová.
 ### 4 ANÁLISIS DEL SUCESO
 ### 4.1 Funciones y obligaciones
-### 4.1.1 Transportistas y operadores de infraestructura
-La persona que dirige el transporte ferroviario (el jefe de circulación de la línea de CDP Praga, respectivamente, en el momento de la ocurrencia del SU el jefe de estación PPV en la est. Lichkov) está, en la dirección del transporte ferroviario, en el sentido del § 22 apartado 1 letra a) de la Ley n.º 266/1994 Sb., § 14 apartado 1, § 15 apartado 1 letras a), c) y § 15 apartado 2 del decreto
+### 4.1.1 Transportistas y gestores de vías
+La persona que dirige el tráfico ferroviario (el despachador de vía de CDP Praga, o en su caso, en el momento de la ocurrencia del suceso, el jefe de estación PPV en la est. Lichkov) al dirigir el tráfico ferroviario, en el sentido del § 22 apartado 1 letra a) de la Ley nº 266/1994 Sb., § 14 apartado 1, § 15 apartado 1 letras a), c) y § 15 apartado 2 del decreto
 
 ## Página 20
+
 
 n.º 173/1995 Sb. y de las disposiciones correspondientes de las normas internas del operador de la infraestructura SŽ, entre otros, obligada a garantizar la dirección del transporte ferroviario según el horario ferroviario utilizando las dependencias derivadas del funcionamiento del sistema de señalización en servicio. Asimismo, está obligada a garantizar que la ruta ferroviaria para el trayecto correspondiente no esté ocupada por otros vehículos ferroviarios, que no se autorice la circulación de otro vehículo ferroviario que cruce o se intersecte con dicha ruta ferroviaria, y que la entrada/salida del tren desde/hacia una estación con bifurcación de vías solo se autorice cuando la ruta ferroviaria esté correctamente establecida y libre de acuerdo con lo dispuesto en el § 14 apartado 1 del decreto n.º 173/1995 Sb.
 En la investigación no se constató el incumplimiento de las funciones y obligaciones del operador de la infraestructura SŽ.
@@ -679,6 +683,7 @@ En la investigación se constató el incumplimiento de las disposiciones legales
 § 35 apartado 1 letra a) de la Ley n.º 266/1994 Sb.:
 
 ## Página 21
+
 
 "El transportista está obligado a explotar el transporte ferroviario de acuerdo con las reglas de explotación del transporte ferroviario, la licencia vigente y el contrato celebrado con el operador de la infraestructura sobre la explotación del transporte ferroviario en la infraestructura";
 •
@@ -714,6 +719,7 @@ En el caso de este SU es necesario relacionar la disposición anteriormente menc
 
 ## Página 22
 
+
 «el maquinista del vehículo de tracción principal procede primero en la hora de salida regular de la siguiente manera: aa) en la salida del tren de la estación ... el maquinista emite siempre la señal Llamada del maquinista o Llamada a la alerta. ab) …»,
 ◦ art. 245 letra e) de la instrucción interna de ČD D2:
 «tras recibir la señal Permiso de salida, el maquinista del vehículo de tracción principal cierra las puertas de control centralizado (si el tren está equipado con ellas) y pone el tren en movimiento.».
@@ -733,8 +739,8 @@ En la investigación no se constató infracción de las funciones y obligaciones
 ### 4.1.4 Autoridades nacionales de seguridad y Agencia Ferroviaria de la Unión Europea
 La autoridad nacional de seguridad es la Oficina de Ferrocarriles (Drážní úřad), que de acuerdo con la ley nº 266/1994 Sb. es la autoridad administrativa dependiente del Ministerio de Transportes. Su función es, en particular,
 
-
 ## Página 23
+
 
 el ejercicio de la supervisión estatal en materia de ferrocarriles y en materia de autoridad de construcción, el ejercicio de la autoridad de construcción especial para obras ferroviarias y obras en el ferrocarril, la aprobación de vehículos ferroviarios nuevos y modernizados y de instalaciones técnicas designadas, y la tramitación de infracciones. La Oficina de Ferrocarriles tiene la obligación de comunicar, en el plazo de 12 meses desde la fecha de publicación del informe final que contenga las recomendaciones de seguridad dirigidas a la misma, a la Inspección Ferroviaria qué medida ha adoptado en relación con dicha recomendación de seguridad, realizando esta comunicación de forma periódica, al menos una vez al año, hasta la adopción de las medidas correspondientes.
 La función de la Agencia Ferroviaria de la Unión Europea es, además de garantizar, en el marco de sus competencias, que se mantenga y, en la medida de lo posible, se aumente de forma sistemática la seguridad de los ferrocarriles, entre otras, la emisión, renovación, suspensión y modificación de certificados únicos de seguridad, la limitación de su validez o su cancelación, en cuestión en la que colabora con las autoridades nacionales de seguridad; asimismo emite autorizaciones para la comercialización de vehículos ferroviarios y de tipos de vehículos, y está facultada para renovar, modificar, suspender o cancelar las autorizaciones que haya emitido. La Agencia evalúa asimismo los proyectos de normativa nacional, etc.
@@ -751,8 +757,8 @@ En la investigación no se detectaron factores derivados de la construcción de 
 4.2.2 Factores o consecuencias derivados de la instalación y puesta en servicio de los vehículos ferroviarios, de la infraestructura ferroviaria o de las instalaciones técnicas
 En la investigación no se detectaron factores derivados de la instalación y puesta en servicio de los vehículos ferroviarios, de la infraestructura ferroviaria o de las instalaciones técnicas.
 
-
 ## Página 24
+
 
 ### 4.2.3 Factores o consecuencias relacionados con los fabricantes de vehículos ferroviarios u otros proveedores de productos ferroviarios
 En la investigación no se detectaron factores relacionados con los fabricantes de vehículos ferroviarios u otros proveedores de productos ferroviarios.
@@ -774,73 +780,88 @@ En la investigación no se detectaron factores relacionados con el entorno labor
 ### 4.3.5 Otro factor relevante a efectos de la investigación
 En la investigación no se detectaron otros factores relacionados con la actuación de las personas implicadas.
 
-
 ## Página 25
 
 ### 4.4 Mecanismos de retroalimentación y mecanismos de control, incluida la gestión de riesgos
-y la garantía de seguridad, y procedimientos de seguimiento
+y la garantía de seguridad, y los procedimientos de seguimiento
 ### 4.4.1 Condiciones pertinentes del marco regulatorio
-Las condiciones pertinentes del marco regulatorio están establecidas en los Reglamentos de la Unión Europea, en la ley nº 266/1994 Sb. y en los decretos de desarrollo.
-4.4.2 Procedimientos, métodos, contenido y resultados de las actividades de evaluación de riesgos y de seguimiento realizadas por cualquiera de los sujetos implicados
-En los procedimientos, métodos, contenido y resultados de las actividades de evaluación de riesgos y de seguimiento, relacionados con las circunstancias de aparición del MU en cuestión, no se detectaron deficiencias.
-### 4.4.3 Sistema de garantía de seguridad de los transportistas y explotadores de vía implicados
-En el sistema de seguridad del explotador de la vía y en el sistema de garantía de seguridad del transporte ferroviario del transportista, relacionados con las circunstancias de aparición del MU en cuestión, no se detectaron deficiencias.
-### 4.4.4 Sistema de gestión de los organismos responsables del mantenimiento de los vehículos ferroviarios y de los talleres de mantenimiento
-El sistema de gestión de los organismos responsables del mantenimiento de los vehículos ferroviarios y de los talleres de mantenimiento no guardaba relación con la aparición del MU.
+Las condiciones pertinentes del marco regulatorio están establecidas en los Reglamentos de la Unión Europea,
+en la ley n.º 266/1994 Sb. y en los decretos de aplicación.
+4.4.2 Procedimientos, métodos, contenido y resultados de las actividades de evaluación de riesgos y de seguimiento que
+realiza cualquiera de los sujetos implicados
+En los procedimientos, métodos, contenido y resultados de las actividades de evaluación de riesgos y de seguimiento,
+relacionados con las circunstancias del origen de la MU en cuestión, no se detectaron deficiencias.
+### 4.4.3 Sistema de garantía de seguridad de los transportistas y gestores de infraestructura implicados
+En el sistema de seguridad del gestor de infraestructura y en el sistema de garantía de seguridad del transporte
+ferroviario del transportista, relacionados con las circunstancias del origen de la MU en cuestión, no se detectaron
+deficiencias.
+### 4.4.4 Sistema de gestión de los sujetos responsables del mantenimiento de los vehículos ferroviarios
+y de los talleres de mantenimiento
+El sistema de gestión de los sujetos responsables del mantenimiento de los vehículos ferroviarios y de los talleres
+de mantenimiento no guardaba relación con el origen de la MU.
 ### 4.4.5 Resultados de la supervisión realizada por las autoridades nacionales de seguridad
-Atendiendo a los factores y circunstancias de aparición del MU constatados, la supervisión de la autoridad de seguridad no guarda relación con el MU en cuestión.
-### 4.4.6 Aprobaciones, certificados e informes de evaluación emitidos por la Agencia, las autoridades nacionales de seguridad u otros organismos de evaluación de la conformidad
-El explotador de la vía explotaba la vía al amparo de la autorización administrativa en vigor y del certificado de seguridad del explotador de la vía. El transportista explotaba el transporte ferroviario al amparo de la licencia en vigor y del certificado del transportista.
+Atendiendo a los factores y circunstancias detectados del origen de la MU, la supervisión de la autoridad de seguridad
+no guarda relación con la MU en cuestión.
+### 4.4.6 Aprobaciones, certificados y dictámenes de evaluación emitidos por la agencia, las autoridades nacionales
+de seguridad u otros sujetos de evaluación de la conformidad
+El gestor de infraestructura explotaba la infraestructura al amparo de la autorización administrativa vigente y del
+certificado de seguridad del gestor de infraestructura. El transportista explotaba el transporte ferroviario al amparo
+de la licencia vigente y del certificado del transportista.
 ### 4.4.7 Otros factores sistémicos
 En la investigación no se detectaron otros factores sistémicos.
 ### 4.5 Sucesos anteriores de naturaleza similar
-La DI, en el periodo comprendido entre el 1. 1. 2016 y la fecha de aparición del MU en cuestión, registra en los ferrocarriles de categoría nacional y regional un total de 159 MU similares, cuya causa de aparición fue la puesta en movimiento no autorizada de un tren con transporte de pasajeros – salida no autorizada del tren del espacio destinado al embarque y desembarque de pasajeros, seguida de la circulación no autorizada de dichos trenes más allá de la señal principal con la señal «Alto» en las estaciones, donde la conducción del tren se permite mediante la colocación de la señal principal en la señal que autoriza la circulación. De este número de casos se produjo
+El DI en el período comprendido entre el 1 de enero de 2016 y la fecha del origen de la MU en cuestión registra en las
+vías férreas, categoría nacional y regional, un total de 159 MU análogas, cuya causa de origen fue la
+puesta en movimiento no autorizada de un tren con transporte de pasajeros – la salida no autorizada del tren del espacio
+destinado al embarque y desembarque de pasajeros, seguida de la circulación no autorizada
+de estos trenes más allá de la señal principal con la indicación «Alto» en las estaciones, donde la conducción del tren
+se permite mediante la colocación de la señal principal en una indicación que permita la circulación. De este número se produjo
 
 ## Página 26
 
-posteriormente en 3 casos a la colisión de DV y en 2 casos también al descarrilamiento de DV. Como consecuencia de estas circulaciones no autorizadas resultaron heridas 103 personas y se produjo un daño total de 208 107 583 Kč.
+posteriormente en 3 casos a la colisión de DV y en 2 casos también al descarrilamiento de DV. Como consecuencia de estas circulaciones no autorizadas, 103 personas resultaron lesionadas y se produjo un daño total de 208 107 583 Kč.
 Del listado anterior de MU análogas, la DI investigó un total de 7 MU:
 •
-del 3. 5. 2018, cuando a las 8:37 h se produjo en la est. Křemže la circulación no autorizada del tren Os 8102 más allá de la señal de salida L1 que prohibía la circulación, el forzamiento del desvío n.º 6, la entrada en la vía de tren establecida para el tren en sentido contrario Os 8103, la colisión y el descarrilamiento del tren Os 8103. La causa inmediata de la MU fue el incumplimiento de la señal «Alto» de la señal de salida L1 en la est. Křemže por parte de la persona que dirigía la DV – tren Os 8102. En la MU resultaron heridas 18 personas y se produjo un daño total de 23 631 902 Kč;
+del 3. 5. 2018, cuando a las 8:37 h se produjo en la est. Křemže una circulación no autorizada del tren Os 8102 más allá de la señal de salida L1 que prohibía la circulación, el forzamiento de la aguja n.º 6, la entrada en la vía de tren establecida para el tren en sentido contrario Os 8103, la colisión y el descarrilamiento del tren Os 8103. La causa inmediata de la MU fue el no respeto de la indicación «Alto» de la señal de salida L1 en la est. Křemže por parte de la persona que dirigía la DV – tren Os 8102. En la MU resultaron lesionadas 18 personas y se produjo un daño total de 23 631 902 Kč;
 •
-del 22. 2. 2019, cuando a las 19:20 h se produjo en la est. Ejpovice la circulación no autorizada del tren Ex 350 más allá del nivel de la señal de salida L2 con señal que prohibía la circulación y la entrada en la vía de tren establecida para el tren Os 17816. La causa inmediata de la MU fue la salida del tren Ex 350 de la est. Ejpovice sin expedición reglamentaria. En la MU no se produjeron daños a personas ni daños materiales;
+del 22. 2. 2019, cuando a las 19:20 h se produjo en la est. Ejpovice una circulación no autorizada del tren Ex 350 más allá del nivel de la señal de salida L2 con indicación que prohibía la circulación y la entrada en la vía de tren establecida para el tren Os 17816. La causa inmediata de la MU fue la salida del tren Ex 350 de la est. Ejpovice sin expedición reglamentaria. En la MU no se produjeron lesiones en personas ni daños materiales;
 •
 del 5. 3. 2019, cuando a las 8:00 h se produjo en la est. Brno hl. n.
-  la circulación no autorizada del tren
-Os 4708 más allá del nivel de la señal de vía Lc4 con señal que prohibía la circulación
-y la posterior colisión con el tren en sentido contrario Os 4711. La causa inmediata de la
-MU fue el incumplimiento de la señal «Alto» de la señal de vía Lc4 de la est. Brno hl. n.
-por parte de la persona que dirigía la HDV del tren Os 4708. En la MU resultaron heridas 23 personas y se produjo un
-daño total de 452 393 Kč;
+  una circulación no autorizada del tren
+Os 4708 más allá del nivel de la señal de camino Lc4 con indicación que prohibía la circulación
+y la posterior colisión con el tren en sentido contrario Os 4711. La causa inmediata de la MU
+fue el no respeto de la indicación «Alto» de la señal de camino Lc4 de la est. Brno hl. n.
+por parte de la persona que dirigía la HDV del tren Os 4708. En la MU resultaron lesionadas 23 personas y se produjo
+un daño total de 452 393 Kč;
 •
-del 22. 7. 2020, cuando a las 7:12 h se produjo en la est. Jablonné nad Orlicí la circulación no autorizada
-del tren Os 7152 más allá del nivel de la señal de vía Lc1 con señal que prohibía la circulación y su
+del 22. 7. 2020, cuando a las 7:12 h se produjo en la est. Jablonné nad Orlicí una circulación no autorizada
+del tren Os 7152 más allá del nivel de la señal de camino Lc1 con indicación que prohibía la circulación y su
 entrada en la vía de tren establecida para la entrada del tren Os 7151. La causa inmediata
-de la MU fue el incumplimiento de la señal «Alto» de la señal de vía Lc1 de la est.
-Jablonné nad Orlicí por parte del maquinista del tren Os 7152. En la MU no se produjeron daños a personas ni daños materiales;
+de la MU fue el no respeto de la indicación «Alto» de la señal de camino Lc1 de la est.
+Jablonné nad Orlicí por parte del maquinista del tren Os 7152. En la MU no se produjeron lesiones en personas
+ni daños materiales;
 •
 del 22. 7. 2020, cuando a las 14:52 h se produjo en la est.
    Lázně Kynžvart
-  la circulación no autorizada
+  una circulación no autorizada
 del tren Os 7004 más allá del nivel de la señal de salida que prohibía la circulación
 y el posterior descarrilamiento. La causa inmediata de la MU fue la puesta en marcha no autorizada
-del tren sin expedición por un medio distinto de la señal de la señal principal
-y el posterior incumplimiento de la señal «Alto» de la señal de salida S1
-de la est. Lázně Kynžvart. En la MU resultaron heridas 3 personas y se produjo un daño total
+del tren sin expedición por un medio distinto de la indicación de la señal principal
+y el posterior no respeto de la indicación «Alto» de la señal de salida S1
+de la est. Lázně Kynžvart. En la MU resultaron lesionadas 3 personas y se produjo un daño total
 de 4 580 906 Kč;
 •
 del 10. 5. 2021, cuando a las 6:12 h se produjo en la est. Praha Masarykovo nádraží
-la circulación no autorizada del tren Os 9608 más allá de la señal principal con señal que prohibía la circulación
+una circulación no autorizada del tren Os 9608 más allá de la señal principal con indicación que prohibía la circulación
 y la entrada en la vía de tren establecida para la circulación del tren en sentido contrario Os 6903.
-La causa inmediata fue el incumplimiento de la señal «Alto» de la señal principal (de vía) Sc7 de la est. Praha Masarykovo nádraží por parte de la persona que dirigía la DV del tren Os 9608,
-causado por un descuido involuntario, un error de la persona que dirigía el vehículo ferroviario, que se
-manifestó en la puesta en marcha no autorizada de este tren, sin que el tren Os 9608
-hubiera sido expedido de la est. Praha Masarykovo nádraží y la persona que dirigía la DV hubiera comprobado visualmente
-si la señal principal (de vía) Sc7 permitía la circulación del tren. En la MU
-no se produjeron daños a personas ni daños materiales;
-
+La causa inmediata fue el no respeto de la indicación «Alto» de la señal principal (de camino) Sc7 de la est. Praha Masarykovo nádraží por parte de la persona que dirigía la DV del tren Os 9608,
+causado por una infracción inconsciente, un error de la persona que dirigía el vehículo ferroviario, que se
+manifestó en la puesta en marcha no autorizada de dicho tren, sin que el tren Os 9608
+hubiera sido expediado de la est. Praha Masarykovo nádraží y sin que la persona que dirigía la DV hubiera comprobado visualmente si la señal principal (de camino) Sc7 permitía la circulación del tren. En la MU
+no se produjeron lesiones en personas ni daños materiales;
 
 ## Página 27
+
 
 •
 del 4. 8. 2021, cuando a las 8:06 h se produjo en el desvío
@@ -885,8 +906,8 @@ El operador ferroviario ČD emitió, tras la aparición de la MU, las siguientes
 encaminadas a prevenir la aparición de MU similares, fueron debatidas en la reunión ampliada
 de la dirección de la OŘ de transporte de pasajeros Střed.»
 
-
 ## Página 28
+
 
 ### Measures taken since the occurrence
 The infrastructure manager SŽ did not take any measures.
@@ -921,16 +942,16 @@ inspector
 de la Inspección Territorial de Brno
 de la Inspección Territorial de Brno
 
-
 ## Página 29
+
 
 ### ANEXOS
 Fig. n.º 3: Lugar de aparición de la MU, señal principal (de salida) L4, vista de la parte trasera
 del ŘDV del tren Sp 1834 en la SK n.º 4c
        Fuente: DI
 
-
 ## Página 30
+
 
 Fig. n.º 4: Derribador Vk7 dañado tras la circulación de la HDV del tren Sp 1834
         Fuente: DI

@@ -12,8 +12,8 @@ tokens_in: 53115
 tokens_out: 35183
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-verificacion: revisar
-avisos: ["página 14: ratio 1.65"]
+verificacion: ok
+notas_cifras: ["página 8: cifras cortas: 2/41", "página 9: cifras cortas: 3/24", "página 10: cifras cortas: 1/25", "página 11: original bilingüe: se compara contra el idioma principal (HR)", "página 14: original bilingüe: se compara contra el idioma principal (ES)", "página 20: cifras cortas: 6/36"]
 ---
 
 ## Página 1
@@ -396,31 +396,31 @@ La interrupción del tráfico de trenes entre las estaciones de Zaprešić y Pod
 
 ## Página 14
 
-Se registraron retrasos de 3 trenes de pasajeros por un total de 83 min: tren n.º 1211 +32 min, n.º 992 +23 min y n.º 3014 +28 min.
-### 3.1.6. Identificación de las personas, sus funciones y las entidades implicadas
-En el mencionado accidente participaron trabajadores ejecutivos de las sociedades «Remont pruga Matić» d.o.o. (subcontratista del titular de las obras «SWIETELSKY» d.o.o.), «LOG RAIL» d.o.o. (subcontratista del titular de las obras «SWIETELSKY» d.o.o.), HŽI y HŽ Cargo.
+Se registraron retrasos en 3 trenes de pasajeros de un total de 83 minutos: el tren n.º 1211 +32 min, el n.º 992 +23 min y el n.º 3014 +28 min.
+### 3.1.6. Identificación de personas, sus funciones y de los sujetos implicados
+En el accidente indicado participaron trabajadores ejecutivos de las sociedades „Remont pruga Matić“ d.o.o. (subcontratista de la empresa principal de obras „SWIETELSKY“ d.o.o.), „LOG RAIL“ d.o.o. (subcontratista de la empresa principal de obras „SWIETELSKY“ d.o.o.), HŽI y HŽ Cargo.
 Las personas implicadas son:
 - 
-encargado de la vía («Remont pruga Matić» d.o.o. subcontratista del titular de las obras «SWIETELSKY» d.o.o.),
+el jefe de vía („Remont pruga Matić“ d.o.o. subcontratista de la empresa principal de obras „SWIETELSKY“ d.o.o.),
 - 
-mecánico conductor del tren número 69609 (HŽ Cargo),
+el maquinista del tren n.º 69609 (HŽ Cargo),
 - 
-mecánico conductor del tren de materiales («LOG RAIL» d.o.o. subcontratista del titular de las obras «SWIETELSKY» d.o.o.),
+el maquinista del tren de material („LOG RAIL“ d.o.o. subcontratista de la empresa principal de obras „SWIETELSKY“ d.o.o.),
 - 
-jefe de tren del tren de materiales («LOG RAIL» d.o.o. subcontratista del titular de las obras «SWIETELSKY» d.o.o.),
+el jefe de tren del tren de material („LOG RAIL“ d.o.o. subcontratista de la empresa principal de obras „SWIETELSKY“ d.o.o.),
 - 
-maniobrador del tren de materiales («LOG RAIL» d.o.o. subcontratista del titular de las obras «SWIETELSKY» d.o.o.),
+el maniobrista del tren de material („LOG RAIL“ d.o.o. subcontratista de la empresa principal de obras „SWIETELSKY“ d.o.o.),
 - 
-agente de tráfico externo de la estación de Zaprešić (HŽI),
+el regulador externo de trenes de la estación de Zaprešić (HŽI),
 - 
-agente de tráfico interno de la estación de Zaprešić (HŽI),
+el regulador interno de trenes de la estación de Zaprešić (HŽI),
 - 
-trabajadores de la vía («Remont pruga Matić» d.o.o. subcontratista del titular de las obras «SWIETELSKY» d.o.o.).
-3.1.7. Descripción e identificadores de los trenes y su composición, incluidos los vehículos ferroviarios y sus números de registro
-El tren de materiales estaba compuesto por una locomotora diésel de la serie 2143, subserie 026, y 24 vagones Faccs-z (números 31 78 6994 061-7, 31 78 6994 025-2, 31 78 6994 006-2, 31 78 6994 049-2, 31 78 6994 001-3, 31 78 6994 097-1, 31 78 6994 056-7, 31 78 6994 059-1, 31 78 6994 003-9, 31 78 6994 084-9, 31 78 6994 037-7, 31 78 6994 069-0, 31 78 6994 079-9, 31 78 6994 086-4, 31 78 6994 052-6, 31 78 6994 009-6, 31 78 6994 042-7, 31 78 6994 040-1, 31 78 6994 060-9, 31 78 6994 028-6, 31 78 6994 067-4, 31 78 6994 022-9, 31 78 6994 073-2, 31 78 6994 062-5) cargados de piedra de balasto.
-La locomotora diésel de la serie 2143, subserie 026 (Figura 1.) fue fabricada por la empresa austriaca Simmering-Graz-Pauker AG. La locomotora tiene disposición de ejes B' B', longitud entre topes de 15,76 m, masa total de 70 t y velocidad máxima de 100 km/h.
-El vagón de la serie Faccs-z (Figura 1.) es un vagón abierto de cuatro ejes para el transporte de mercancías a granel, como balasto (piedra triturada), piedra rota y otros materiales de granulometría superior a 1 mm, que no necesitan protección contra las influencias atmosféricas. La carga se realiza por la parte superior y la descarga se realiza mediante gravedad a través de tolvas de vaciado, abriendo parcial o completamente una o varias aberturas en uno de los lados o en ambos lados del vagón. Las dimensiones del vagón de la serie Faccs-z son: longitud entre topes 12240 mm, altura 3752 mm, masa media propia 21 t.
-Para el tren de materiales se emitió en la estación de Zaprešić la Orden de circulación del tren SE-1, de conformidad con el art. 169 del Reglamento sobre el modo y las condiciones para el desarrollo seguro y la gestión del tráfico ferroviario («Narodne
+los trabajadores de vía („Remont pruga Matić“ d.o.o. subcontratista de la empresa principal de obras „SWIETELSKY“ d.o.o.).
+3.1.7. Descripción e identificadores de los trenes y de su composición, incluidos los vehículos ferroviarios y sus números de registro
+El tren de material estaba compuesto por una locomotora diésel de la serie 2143, subserie 026, y 24 vagones Faccs-z (números 31 78 6994 061-7, 31 78 6994 025-2, 31 78 6994 006-2, 31 78 6994 049-2, 31 78 6994 001-3, 31 78 6994 097-1, 31 78 6994 056-7, 31 78 6994 059-1, 31 78 6994 003-9, 31 78 6994 084-9, 31 78 6994 037-7, 31 78 6994 069-0, 31 78 6994 079-9, 31 78 6994 086-4, 31 78 6994 052-6, 31 78 6994 009-6, 31 78 6994 042-7, 31 78 6994 040-1, 31 78 6994 060-9, 31 78 6994 028-6, 31 78 6994 067-4, 31 78 6994 022-9, 31 78 6994 073-2, 31 78 6994 062-5) cargados con balasto triturado.
+La locomotora diésel de la serie 2143, subserie 026 (Figura 1.), fue fabricada por la empresa austríaca Simmering-Graz-Pauker AG. La locomotora tiene el esquema de ejes B' B', la longitud sobre topes de 15,76 m, la masa total de 70 t y la velocidad máxima de 100 km/h.
+El vagón de la serie Faccs-z (Figura 1.) es un vagón abierto de cuatro ejes para el transporte de mercancías a granel como balasto (piedra triturada), piedra partida y otros materiales de granulometría superior a 1 mm, que no requieren protección frente a las influencias atmosféricas. La carga se carga por la parte superior y se descarga con la ayuda de la gravedad mediante las tolvas de descarga, mediante la apertura parcial o total de una o varias aberturas en un lado o en ambos lados del vagón. Las dimensiones de los vagones de la serie Faccs-z son: longitud sobre topes de 12240 mm, altura de 3752 mm, masa propia media de 21 t.
+Para el tren de material se expidió en la estación de Zaprešić la Orden de Circulación de Tren SE-1, de conformidad con el art. 169 del Reglamento sobre el modo y las condiciones para la circulación y gestión seguras del tráfico ferroviario („Narodne
 
 ## Página 15
 

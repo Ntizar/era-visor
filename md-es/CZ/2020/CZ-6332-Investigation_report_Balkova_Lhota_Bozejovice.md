@@ -10,13 +10,14 @@ chars: 76372
 ratio_longitud: 1.26
 tokens_in: 33548
 tokens_out: 23196
-verificacion: revisar
-notas_cifras: ["bloque 1: original bilingüe: se compara contra el idioma principal (CS)", "bloque 6: original bilingüe: se compara contra el idioma principal (EN)"]
-avisos: ["bloque 6: ratio 1.70"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 5: original bilingüe: se compara contra el idioma principal (CS)", "página 6: original bilingüe: se compara contra el idioma principal (CS)", "página 8: original bilingüe: se compara contra el idioma principal (CS)", "página 10: original bilingüe: se compara contra el idioma principal (CS)", "página 13: original bilingüe: se compara contra el idioma principal (PT)"]
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -43,13 +44,13 @@ IČ: 75009561
 mail@dicr.cz
 tel.: +420 736 521 003
 
-
 ## Página 2
+
 
 Este informe final es público y todos los hechos en él recogidos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ### 1 RESUMEN
        Fuente: Drážní inspekce
@@ -83,8 +84,8 @@ Recomendación de seguridad:
 no fue emitida por la Drážní inspekce.
 •
 
-
 ## Página 4
+
 
 ### SUMMARY
 31st August 2020, 11:19 (9:19 GMT).
@@ -115,8 +116,8 @@ Systemic factor:
 none.
 Recommendation: not issued.
 
-
 ## Página 5
+
 
 ## Índice
 1 RESUMEN........................................................................................................................3
@@ -175,8 +176,8 @@ ferroviarios....................................................................
 4.2.1 Factores o consecuencias derivados del diseño de los vehículos ferroviarios, de
 la infraestructura ferroviaria o de las instalaciones técnicas.......................................26
 
-
 ## Página 6
+
 
 4.2.2 Factores o consecuencias derivados de la instalación y puesta en servicio de los
 vehículos ferroviarios, de la infraestructura ferroviaria o de las instalaciones
@@ -221,6 +222,7 @@ conformidad.....................................................................
 ANEXOS..............................................................................................................................30
 
 ## Página 7
+
 
 ### Lista de siglas y símbolos utilizados
 BOZP
@@ -276,8 +278,8 @@ Vehículos ferroviarios de vía
 žst.
 Estación ferroviaria
 
-
 ## Página 8
+
 
 ### Lista de siglas de la legislación, normas y reglamentos internos utilizados
 ley n.º 266/1994 Sb.
@@ -318,8 +320,8 @@ reglamento interno del explotador de la vía SŽ, «Reglamento de estación
 de la estación ferroviaria Balkova Lhota», en la redacción vigente
 en el momento de la producción del incidente excepcional
 
-
 ## Página 9
+
 
 ### 2 INVESTIGACIÓN Y SUS RELACIONES
 ### 2.1 Decisión de iniciar la investigación
@@ -352,8 +354,8 @@ los aparatos técnicos y la infraestructura de la vía;
 análisis de la documentación solicitada al explotador de la vía, al transportista y a la Policía ČR;
 •
 
-
 ## Página 10
+
 
 análisis de los datos registrados por el registrador de velocidad del vehículo ferroviario
 •
@@ -386,8 +388,8 @@ Coordenadas GPS:
 ### 3.1.3 Descripción del lugar del hecho
 Las estaciones ferroviarias Balkova Lhota y Božejovice se sitúan en el ferrocarril regional Tábor – Písek, vía única no electrificada. La vía en el lugar del incidente excepcional discurre sobre un terraplén por encima del terreno circundante en línea recta tras una curva a la derecha, el entorno de la vía no estaba cubierto de arbustos ni de árboles. En el lugar del incidente excepcional, un empleado de CPS realizaba trabajos no autorizados en la superestructura de la vía.
 
-
 ## Página 11
+
 
 Sp 1716
 x
@@ -428,8 +430,8 @@ el mando de sentido de marcha estaba ajustado a la marcha atrás;
 el conmutador de modo de marcha estaba ajustado en la posición «A»;
 •
 
-
 ## Página 12
+
 
 el freno de mano de husillo estaba en la posición de frenado;
 •
@@ -490,8 +492,8 @@ Datos geográficos:
 la vía en el lugar del incidente excepcional discurre sobre un terraplén por encima del terreno circundante
 en línea recta tras una curva a la derecha.
 
-
 ## Página 13
+
 
 En el lugar del incidente excepcional, inmediatamente antes de su producción, un empleado de CPS realizaba trabajos de reparación en la superestructura ferroviaria, cuya autorización e inicio no se habían acordado con el empleado responsable del explotador de la vía (el jefe de estación de la est. Balkova Lhota).
 ### 3.1.4 Fallecimientos, lesiones y daños materiales
@@ -528,6 +530,7 @@ vía SŽ y el transportista ČD el 20. 1. 2020, con efectos desde el 23. 1. 2020
 | Longitud del tren (m): | 26 | HDV: | 95545842012 7 – | P |
 
 ## Página 14
+
 
 | Número de ejes: | 4 |
 | Peso (t): | 53 |
@@ -578,8 +581,8 @@ en el km 12,674 a una velocidad de 21 km·h-1 se finalizó la solicitud de
 freno de emergencia, freno automático y freno dinámico, persistiendo la solicitud de
 freno complementario;
 
-
 ## Página 15
+
 
 11:20:08 h
 parada de la cabeza del tren en el km 12,691.
@@ -617,8 +620,8 @@ jefe de estación de la est. Balkova Lhota
 ◦aproximadamente a las 10:00 h un señor (ya no recuerda el nombre) la contactó telefónicamente, indicándole que necesita unos 20 minutos para trabajar en la vía en el km 12,500 entre la est. Balkova Lhota y la est. Božejovice;
 Transcripción de la conversación telefónica registrada entre el jefe de estación de la est. Balkova Lhota y el empleado de la empresa Kolejové práce Križan:
 
-
 ## Página 16
+
 
 Habla
 Contenido de la conversación
@@ -696,8 +699,8 @@ Balkova Lhota
 ◦tras finalizar esta conversación telefónica, consultó la aplicación CPS para ver si estaba registrada una solicitud de trabajo en la vía, pero no encontró ninguna solicitud para el día 31. 8. 2020;
 ◦a continuación, se enteró por parte del jefe de estación de la est. Božejovice de que a las 11:22 h se produjo una colisión del tren Sp 1716 con una persona;
 
-
 ## Página 17
+
 
 ◦observó el tren Sp 1716 al pasar frente al edificio de estación y no notó ninguna anomalía;
 ◦durante el turno nadie le solicitó la formalización de una etiqueta de seguridad;
@@ -724,8 +727,8 @@ jefe superior de tramos
 ◦en el aliviadero del km 12,460 se detectaron deficiencias en los trabajos realizados, concretamente la ausencia de juntas de goma bajo los talones de los raíles a lo largo de unos 13 m a través del aliviadero;
 ◦estas deficiencias se abordaron in situ, con el compromiso del representante de la empresa EDIKT de eliminar dichas deficiencias, no se fijó plazo para su eliminación, ya que no se trataba de defectos que amenazaran la seguridad de la explotación;
 
-
 ## Página 18
+
 
 ◦en la última semana de agosto, el representante de la empresa EDIKT consultó con él el plazo de ejecución de los trabajos, acordando que los trabajos se realizarían de noche, cuando no hay circulación;
 ◦el 31. 8. 2020 un señor (no recuerda el nombre) le contactó telefónicamente a las 10:47 h, preguntando si circularía algún tren entre la est. Balkova Lhota y la est. Božejovice, porque quieren realizar algún trabajo en la vía;
@@ -746,6 +749,7 @@ jefe de estación de la est. Balkova Lhota
 ◦conoce el procedimiento correcto para formalizar las condiciones y conceder la autorización para el inicio de trabajos en instalaciones de la vía de tráfico en explotación no excluida, incluida la realización de las anotaciones establecidas por la normativa correspondiente, pero esta situación no se produjo;
 
 ## Página 19
+
 
 ◦el tren Sp 1716 pasó por la est. Balkova Lhota puntualmente, hacia las 11:22 h le comunicó telefónicamente la jefa de estación de la est. Božejovice que este tren había atropellado a algunas personas en la vía en el pk 12,500 y que iba a comunicarlo a la MU según el Cuadro de Comunicaciones;
 Resumen de las declaraciones prestadas por otros testigos:
@@ -769,8 +773,8 @@ declaración prestada ante la PČR:
 ◦antes de que se produjera la MU estaba fuera de la vía, de espaldas al tren que se aproximaba y apretaba un elemento de fijación, su padre y su hermano estaban fuera de la vía, intentó sacar el aprieta-tornillos, pero se quedó atascado en la tuerca y no se podía mover, su padre se acercó a él y le ayudó a sacarlo, mientras se colocó más cerca de la vía, el aprieta-tornillos lo soltaron, pero el tren en marcha alcanzó al padre;
 ◦después corrieron con su hermano hacia el padre, vieron que tenía múltiples lesiones graves, llamaron al RZS y le prestaron primeros auxilios, posteriormente llegaron al lugar los bomberos y los servicios de rescate;
 
-
 ## Página 20
+
 
 ◦cuando llegó al lugar la PČR, le contaron con su hermano lo que había ocurrido y, atendiendo al estado psicológico de su madre, se marcharon a casa a Most;
 ◦según su opinión, las causas de la MU fueron varias, principalmente debían realizar el trabajo de noche tal como se había acordado previamente, además debían determinar entre ellos quién vigilaría los trenes en circulación, y el aprieta-tornillos atascado debió dejarlo en la vía;
@@ -800,8 +804,8 @@ gerente de proyecto – técnico de la empresa
 ◦en 2020 su empresa (Pirell s. r. o.) firmó un contrato de obra con la empresa EDIKT, a. s., cuyo objeto incluía también la reparación de un puente en la línea Tábor – Ražice en el pk 12,829;
 ◦estos trabajos fueron realizados por empleados de la empresa Pirell junto con otros subcontratistas, uno de ellos fue también el ejecutor de los trabajos, la empresa Kolejové práce Križan;
 
-
 ## Página 21
+
 
 ◦en el marco de la entrega de la obra se detectaron almohadillas de caucho ausentes bajo las bases de los raíles, que no ponían en peligro la seguridad de la explotación, por lo que la obra fue recibida por parte de SŽ con el compromiso de que en una ventana de tren adecuada se resolvería esta reclamación;
 ◦para la eliminación de las deficiencias fue designada la empresa Kolejové práce Križan, por lo que el 24. 8. 2020 llamó a un empleado de dicha empresa y acordó con él que el intervalo de tiempo era entre las 22:03 h – 3:00 h y que los trabajos se realizarían el 31. 8. 2020 después de las 22:00 h;
@@ -815,8 +819,8 @@ El gestor de la vía SŽ comunicó el 14. 5. 2020 en su perfil https://zakazky.s
 El gestor de la vía SŽ emitió el 19. 6. 2020 la «Orden de corte de tráfico n.º 93085», en la que se indicaba la sección «Trabajos de reparación y mantenimiento» en el tramo de vía Balkova Lhota – Milevsko. El contenido de los trabajos a realizar comprendía la reparación de un puente en el pk 12,829 y de un paso a nivel en el pk 12,462, la corrección de la posición geométrica de la vía y el mantenimiento ordinario del superestructura ferroviaria. El corte de tráfico continuado planificado de la vía entre las est. Balkova Lhota y Božejovice se inició el 13. 7. 2020 y finalizó el 6. 8. 2020.
 Tras la finalización de los trabajos, en el marco de la entrega de la obra entre el representante de la empresa EDIKT y el gestor de la vía SŽ se detectó que faltaban almohadillas de caucho bajo las bases de los raíles sobre el paso a nivel en una longitud de aprox. 13 m. Esta deficiencia no ponía en peligro directamente la seguridad del transporte ferroviario, por lo que la obra fue recibida por parte del gestor de la vía SŽ con el compromiso de que en una ventana de tren adecuada se eliminaría esta deficiencia. El representante de la empresa Pirell acordó con un empleado de la empresa Kolejové práce Križan la fecha de eliminación de la deficiencia, concretamente el 31. 8.
 
-
 ## Página 22
+
 
 2020 después de las 22:00 h. Este plazo no fue cumplido por parte de la empresa Kolejové práce Križan, los trabajos en el superestructura ferroviaria comenzaron a realizarlos el 31. 8. 2020 hacia las 11:00 h. Antes del inicio de estos trabajos se produjo una llamada telefónica entre un empleado de la empresa Kolejové práce Križan y la jefa de estación de la est. Balkova Lhota, cuyo contenido fue la determinación de una ventana de tren en los horarios de circulación de trenes entre la est. Balkova Lhota y la est. Božejovice. Por parte de la jefa de estación, tras consultar el TPV, se indicó un horario de las 11:45 h a las 12:10 h. En la aplicación CPS del portal de SŽ la jefa de estación no tenía registrado para el día 31. 8. 2020 un requerimiento de trabajo en la vía. De la est. Balkova Lhota partió a las 11:17 h el tren Sp 1716, que a las 11:19 h en el tramo entre estaciones entre la est. Balkova Lhota y Božejovice en el pk 12,462 colisionó con un empleado de la empresa Kolejové práce Križan, que se encontraba en el perfil de paso de la vía, y lo mató en el lugar.
 ### 3.2.2 Secuencia de hechos desde la producción del suceso excepcional hasta la finalización de las acciones de los servicios de rescate
@@ -871,6 +875,7 @@ Cuerpo de Bomberos de SŽ České Budějovice.
 
 ## Página 23
 
+
 ### 4 ANÁLISIS DEL SUCESO
 ### 4.1 Tareas y obligaciones
 ### 4.1.1 Transportistas y gestores de infraestructura
@@ -885,8 +890,8 @@ En la investigación no se constató el incumplimiento de las tareas y obligacio
 La autoridad nacional de seguridad es el Drážní úřad (Oficina Ferroviaria), que de acuerdo con la ley n.º 266/1994 Sb. es una autoridad administrativa dependiente del Ministerio de Transportes. Su función es, en particular, el ejercicio de la supervisión estatal en materia de infraestructura y en materia de autoridad de construcción, el ejercicio de la autoridad de construcción especial para obras de la infraestructura y obras en la infraestructura, la aprobación de vehículos ferroviarios nuevos y modernizados y de instalaciones técnicas designadas, y la tramitación de infracciones. La obligación del Drážní úřad es comunicar a la Inspección Ferroviaria, en el plazo de 12 meses desde la fecha de publicación del informe final que contenga las recomendaciones de seguridad dirigidas a él, qué medida ha adoptado en relación con dicha recomendación de seguridad.
 La función de la Agencia de la Unión Europea para el Ferrocarril es, además de garantizar, en el marco de sus competencias, que se mantenga y, en la medida de lo posible, se aumente sistemáticamente la seguridad de los ferrocarriles, entre otras, la emisión, renovación, suspensión y modificación de certificados únicos de seguridad, la limitación de su validez o su cancelación, en cuya materia
 
-
 ## Página 24
+
 
 colabora con las autoridades nacionales de seguridad; además, emite autorizaciones para la puesta en el mercado de vehículos ferroviarios y de tipos de vehículos y está facultada para renovar, modificar, suspender o cancelar las autorizaciones que haya emitido. La Agencia evalúa asimismo los proyectos de normativa nacional, etc.
 En la investigación no se constató el incumplimiento de las tareas y obligaciones de la autoridad nacional de seguridad y de la Agencia de la Unión Europea para el Ferrocarril.
@@ -899,8 +904,8 @@ Los trabajos realizados por CPS en las instalaciones del gestor de la infraestru
 El contrato de obra para la ejecución de la obra «Reparación del puente en el pk 12,829 en la línea Tábor – Ražice» celebrado entre SŽ y la empresa EDIKT contenía en su disposición una parte en la que el ejecutor de la obra, la empresa EDIKT, declaraba haberse familiarizado con toda la normativa interna del contratante SŽ relacionada con el mencionado encargo.
 CPS está obligado, al realizar trabajos irregulares en la vía de circulación en servicio no excluida, a notificar siempre su actividad al empleado de circulación correspondiente, a obedecer siempre las indicaciones del empleado de SŽ, a desplazarse únicamente por las instalaciones para las que tiene
 
-
 ## Página 25
+
 
 autorización otorgada mediante el carné para CPS, y a realizar únicamente trabajos que estén directamente relacionados con su actividad y en base a los cuales se autorizó el acceso a la vía de circulación en servicio. Ante cualquier circunstancia excepcional que influya en la continuidad y la seguridad del transporte ferroviario, así como en la seguridad de todos los empleados, CPS debe consultar su actuación con el empleado de circulación correspondiente.
 Los tres empleados de la empresa Kolejové práce Križan involucrados cumplían la cualificación profesional y tenían la autorización vigente para el acceso a las instalaciones de SŽ. Con base en un pedido anual concretado de la empresa Pirell, la empresa Kolejové práce Križan realizaba trabajos de sustitución de los elementos de fijación del superestructura ferroviaria en el tramo entre estaciones entre las est. Balkova Lhota y Božejovice. Antes de realizar el trabajo en la vía de circulación en servicio no excluida el 31. 8. 2020, el empleado de la empresa Kolejové práce Križan, en una llamada telefónica realizada a las 10:50 h con el jefe de estación de la est. Balkova Lhota, preguntó por una interrupción en el tráfico ferroviario durante la cual fuera posible realizar el trabajo en el superestructura ferroviaria, pero no recibió el permiso para iniciar la actividad por parte del jefe de estación de la est. Balkova Lhota. Solo recibió la información de que el espacio para la realización del trabajo se encuentra en la interrupción de trenes de las 11:45 h a las 12:10 h. El empleado de la empresa Kolejové práce Križan no respetó la comunicación del empleado de circulación – el jefe de estación de la est. Balkova Lhota – e inició de forma no autorizada, junto con otros dos empleados de dicha empresa, el trabajo en la vía general en la vía de circulación en servicio no excluida.
@@ -922,8 +927,8 @@ art. 131 de la normativa interna SŽDC Bp1:
 •
 «Ante cualquier circunstancia excepcional que influya en la continuidad y la seguridad del transporte ferroviario, así como en la seguridad de todos los empleados, CPS debe consultar su actuación con el empleado de circulación correspondiente».
 
-
 ## Página 26
+
 
 ### 4.2 Vehículos ferroviarios e instalaciones técnicas
 4.2.1 Factores o consecuencias derivados de la construcción de los vehículos ferroviarios, de la infraestructura ferroviaria o de las instalaciones técnicas
@@ -945,6 +950,7 @@ En la investigación no se constataron factores relacionados con la formación p
 En la investigación no se constataron factores relacionados con el contenido del trabajo o la jornada laboral de los empleados. Los empleadores (SŽ y ČD) garantizaron a los empleados las condiciones para el descanso antes del turno y durante el turno.
 
 ## Página 27
+
 
 ### 4.3.3 Factores organizativos y tareas
 En la investigación se detectaron factores relacionados con la organización del trabajo o con las tareas laborales.
@@ -969,24 +975,22 @@ El sistema de gestión de los sujetos responsables del mantenimiento de los veh�
 A petición de los resultados de la supervisión estatal realizada por el Drážní úřad, se constató lo siguiente:
 En el periodo comprendido entre el 1. 1. 2019 y el 31. 8. 2020, el DÚ realizó un total de 368 supervisiones estatales con carácter general sobre la explotación segura de la infraestructura y del transporte ferroviario.
 
-
 ## Página 28
 
-### 4.4.6 Aprobaciones, certificados y dictámenes de evaluación emitidos por la agencia, las autoridades nacionales
-de seguridad u otros sujetos de evaluación de la conformidad
-El gestor de la infraestructura explotó la infraestructura al amparo de la autorización administrativa vigente y del certificado de seguridad del gestor de la infraestructura. El transportista explotó el transporte ferroviario al amparo de la licencia vigente y del certificado del transportista.
+### 4.4.6 Aprobaciones, certificados y informes de evaluación otorgados por la agencia, las autoridades nacionales de seguridad u otros organismos de evaluación de la conformidad
+El gestor de la infraestructura ferroviaria explotaba la infraestructura ferroviaria en virtud de una autorización administrativa vigente y de un certificado de seguridad del gestor de la infraestructura ferroviaria. El operador ferroviario explotaba el transporte ferroviario en virtud de una licencia vigente y de un certificado del operador ferroviario.
 ### 4.4.7 Otros factores sistémicos
-En la investigación no se detectaron otros factores sistémicos.
+En el curso de la investigación no se identificaron otros factores sistémicos.
 ### 4.5 Sucesos anteriores de naturaleza similar
-El DI investigó las causas y circunstancias del origen, en el periodo comprendido entre el 1. 1. 2010 y la fecha del origen de la MU en cuestión, en las vías ferroviarias, categoría estatal y regional, de un total de 7 MU análogas, en los que se produjo la colisión de un tren con una persona – un empleado que trabajaba en la vía de circulación en servicio, o un empleado que accedió a la vía de circulación en servicio. La causa inmediata de estas MU fue la no salida y el movimiento del/los empleado/s en la vía en servicio, respectivamente, el acceso del empleado a la vía en servicio en el momento de la circulación de un tren. Como consecuencia de estas MU resultaron fallecidas 7 personas y 1 persona sufrió lesiones.
+La DI investigó las causas y circunstancias de la ocurrencia, en el período comprendido entre el 1. 1. 2010 y la fecha de ocurrencia del sujeto de investigación, en las infraestructuras ferroviarias de las categorías nacional y regional, en un total de 7 sucesos similares, en los que se produjo una colisión de un tren con una persona – un empleado que trabajaba en la vía de circulación en servicio, o un empleado que accedió a la vía de circulación en servicio. La causa inmediata de estos sucesos fue la no retirada y el movimiento del/los empleado(s) en la vía en servicio, o el acceso del empleado a la vía en servicio en el momento de la circulación del tren. Como consecuencia de estos sucesos, 7 personas fallecieron y 1 persona sufrió lesiones corporales.
 ### 5 CONCLUSIONES
 ### 5.1 Resumen del análisis y conclusiones relativas a las causas del suceso
-La causa inmediata del suceso extraordinario fue:
-el acceso no autorizado de un empleado de un sujeto jurídico ajeno al perfil de paso
+La causa inmediata del suceso ferroviario fue:
+el acceso no autorizado de un empleado de una entidad jurídica externa al perfil de
 •
-de la vía en servicio no excluida, en el momento en que por dicha vía circulaba el tren Sp 1716.
-El DI no detectó ningún factor contribuyente.
-El DI no detectó ninguna causa sistémica.
+circulación de la vía principal en servicio no excluida, en el momento en que por dicha vía circulaba el tren Sp 1716.
+No se identificó ningún factor contribuyente por parte de la DI.
+No se identificó ninguna causa sistémica por parte de la DI.
 ### A summary of the analysis and conclusions with regard to the causes of the
 occurrence
 Causal factor:
@@ -996,11 +1000,11 @@ line track while the train No. 1716 was moving.
 Contributing factor: none.
 Systemic factor:
 none.
-### 5.2 Medidas adoptadas para la prevención de sucesos extraordinarios
-El gestor de la infraestructura SŽ, el DÚ ni el transportista ČD adoptaron ni emitieron ninguna medida.
-
+### 5.2 Medidas adoptadas para prevenir los sucesos ferroviarios
+Ni el gestor de la infraestructura ferroviaria SŽ, ni la DÚ, ni el operador ferroviario ČD adoptaron ni emitieron ninguna medida.
 
 ## Página 29
+
 
 ### Measures taken since the occurrence
 The infrastructure manager SŽ, NSA and the railway undertaking ČD did not take any measures.
@@ -1020,8 +1024,8 @@ director
 Territorial Inspectorate of Bohemia
 Territorial Inspectorate of Bohemia
 
-
 ## Página 30
+
 
 ### ANEXOS
 Fig. núm. 2: Vista de las tuercas de las arandelas de fijación parcialmente desenroscadas antes del lugar de origen de la MU

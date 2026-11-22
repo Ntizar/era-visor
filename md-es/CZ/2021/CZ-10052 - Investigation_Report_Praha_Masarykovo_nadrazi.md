@@ -10,13 +10,14 @@ chars: 133891
 ratio_longitud: 1.24
 tokens_in: 68075
 tokens_out: 48027
-verificacion: revisar
-notas_cifras: ["bloque 1: original bilingüe: se compara contra el idioma principal (EN)", "bloque 2: cifras cortas: 2/171", "bloque 3: original bilingüe: se compara contra el idioma principal (CS)", "bloque 5: original bilingüe: se compara contra el idioma principal (CS)", "bloque 6: original bilingüe: se compara contra el idioma principal (CS)", "bloque 9: original bilingüe: se compara contra el idioma principal (CS)"]
-avisos: ["bloque 5: ratio 1.61", "bloque 9: ratio 1.61"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 3: original bilingüe: se compara contra el idioma principal (CS)", "página 4: original bilingüe: se compara contra el idioma principal (CS)", "página 6: original bilingüe: se compara contra el idioma principal (CS)", "página 7: original bilingüe: se compara contra el idioma principal (CS)", "página 10: original bilingüe: se compara contra el idioma principal (CS); cifras cortas: 1/19"]
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -42,13 +43,13 @@ IČ: 75009561
 mail@dicr.cz
 tel.: +420 736 521 003
 
-
 ## Página 2
+
 
 El presente informe final es público y todos los hechos en él expuestos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ## 1 Resumen
 Fuente: Drážní inspekce
@@ -68,18 +69,18 @@ no respeto de la señal «Alto» de la señal principal (de vía) Sc7 de la esta
 ◦hubiera sido despachado el tren Os 9608 desde la estación de ferrocarril Praha Masarykovo nádraží,
 ◦la persona que conduce el vehículo ferroviario se hubiera convencido visualmente de si la señal principal (de vía) Sc7 de la estación de ferrocarril Praha Masarykovo nádraží permite la circulación del tren.
 
-
 ## Página 4
+
 
 No se ha detectado ningún factor contribuyente por parte de Drážní inspekce.
 No se ha detectado ninguna causa sistémica por parte de Drážní inspekce.
 Drážní inspekce, con base en lo dispuesto en el § 53e apartado 1 de la Ley n.º 266/1994 Sb., recomienda, en relación con la prevención de sucesos excepcionales:
 Al Drážní úřad:
 •
-en el marco de su actividad como autoridad nacional de seguridad, la adopción de una medida que garantice que, en los gestores de vías ferroviarias de categoría de ámbito nacional y regional, dentro de la formación periódica de las personas que conducen el transporte ferroviario, se cree e implante un sistema de formación práctica en el que, durante la conducción simulada del transporte ferroviario, se provoquen situaciones de crisis que requieran una reacción adecuada (establecida por el gestor de la vía) ante una amenaza inmediata para la operación segura del transporte ferroviario, a fin de evitar la producción de sucesos excepcionales o reducir sus consecuencias sin demora indebida. 
-
+en el marco de su actividad como autoridad nacional de seguridad, la adopción de una medida que garantice que, en los gestores de vías ferroviarias de categoría de ámbito nacional y regional, dentro de la formación periódica de las personas que conducen el transporte ferroviario, se cree e implante un sistema de formación práctica en el que, durante la conducción simulada del transporte ferroviario, se provoquen situaciones de crisis que requieran una reacción adecuada (establecida por el gestor de la vía) ante una amenaza inmediata para la operación segura del transporte ferroviario, a fin de evitar la producción de sucesos excepcionales o reducir sus consecuencias sin demora indebida.
 
 ## Página 5
+
 
 ## SUMMARY
 10th May 2021, 6:12 (4:12 GMT).
@@ -128,8 +129,8 @@ when it will be create crisis situations requiring an appropriate reaction to
 the immediate threat to the safe operation of railway transport in order to avert an
 occurrence or reduce their consequences without unnecessary delay.
 
-
 ## Página 6
+
 
 # Índice
 1 Resumen........................................................................................................................3
@@ -173,6 +174,7 @@ SUMMARY.........................................................................
 
 ## Página 7
 
+
 4.2.2 Factores o consecuencias derivados de la instalación y puesta en servicio de vehículos ferroviarios, infraestructura ferroviaria o instalaciones técnicas......................................36
 4.2.3 Factores o consecuencias relacionados con fabricantes de vehículos ferroviarios u otros proveedores de productos ferroviarios............................................................................36
 4.2.4 Factores o consecuencias derivados del mantenimiento y modificación de vehículos ferroviarios o instalaciones técnicas....................................................................................................37
@@ -201,8 +203,8 @@ SUMMARY.........................................................................
 6 RECOMENDACIONES DE SEGURIDAD.....................................................................................43
 ANEXOS..............................................................................................................................44
 
-
 ## Página 8
+
 
 ### Lista de siglas y símbolos utilizados
 ARR 
@@ -276,8 +278,8 @@ Informe Final sobre los resultados de la investigación del suceso extraordinari
 žst.
 estación ferroviaria
 
-
 ## Página 9
+
 
 ### Lista de siglas de la normativa, normas y disposiciones internas utilizadas
 ley núm. 266/1994 Sb.
@@ -305,8 +307,8 @@ disposición interna del transportista ČD «ČD Ok 2 ANEXO 4 CAPACITACIÓN PROF
 disposición interna ČD V2
 disposición interna del transportista ČD «ČD V2 Reglamento para las cuadrillas de locomotora», en la redacción vigente en el momento de producirse el SE
 
-
 ## Página 10
+
 
 ## 2 INVESTIGACIÓN Y SU CONTEXTO
 ### 2.1 Decisión de iniciar la investigación
@@ -340,8 +342,8 @@ y Os 6903;
 análisis de los datos registrados por la SZZ de la est. Praha Masarykovo nádraží;
 •
 
-
 ## Página 11
+
 
 análisis de las grabaciones del sistema de videovigilancia instalado en la est. Praha Masarykovo
 •
@@ -384,8 +386,8 @@ de la señal de itinerario Sc7);
 50.0894467N, 14.4417467E (lugar de parada del tren Os 9608);
 50.0894881N, 14.4417897E (lugar de parada del tren Os 6903).
 
-
 ## Página 12
+
 
 ### 3.1.3 Descripción del lugar del suceso
 La est. Praha Masarykovo nádraží se sitúa en la vía férrea nacional, Praha-Libeň – Praha Masarykovo nádraží – Praha-Holešovice Stromovka, en el pk 409,816/410,084. En los tramos intermedios adyacentes es de doble vía.
@@ -403,6 +405,7 @@ la superestructura de la vía de la SK núm. 7 estaba formada, desde el tope al 
 por carriles de ancho estándar de forma S49, fijados a las traviesas de hormigón (en adelante traviesa) SB 8P mediante placas base rígidas con abrazaderas ŽS 4, y desde el pk
 
 ## Página 13
+
 
 410,274 hasta la aguja n.º 10, riel de perfil 49 E1, fijado a traviesas de hormigón B91S mediante abrazaderas elásticas Skl 14. El balasto era de piedra de cantera de fracción 31,5/63 mm;
 • el superestructura ferroviaria SK n.º 701 estaba formada a lo largo de toda su longitud por rieles de perfil 49 E1, fijados a traviesas de hormigón B91T mediante abrazaderas elásticas Skl 14. El balasto era de piedra de cantera de fracción 31,5/63 mm;
@@ -424,8 +427,8 @@ Estado de la DV:
   ◦ el conmutador de sentido de circulación en la posición «P» (adelante),
   ◦ el conmutador de modo de circulación en la posición «CB» (frenado de destino – función AVV),
 
-
 ## Página 14
+
 
   ◦ la palanca de mando de la compuerta del freno de emergencia en la posición desfrenado,
   ◦ la presión en la tubería de alimentación de 8,4 bar,
@@ -450,8 +453,8 @@ Estado de la DV:
 • en la cabina del ŘDV 971.040-1 se encontraba la orden escrita «Orden general para el tren n.º 6903», n.º 0000012-425, emitida el 10. 5. 2021 en la est. Roudnice nad Labem, por la que se informó debidamente al maquinista del tren Os 6903 de los cambios en los parámetros constructivo-técnicos de las obras de vía y de las obras sobre la vía que tenían una influencia directa en la seguridad y la fluidez del transporte ferroviario para el tramo Roudnice nad Labem – Praha Masarykovo nádraží a través de la est. Praha-Bubny;
 • el ŘDV 971.040-1 estaba equipado con la parte móvil del VZ tipo LS 90, que estaba encendida; en el repetidor de señalización brillaba la luz azul;
 
-
 ## Página 15
+
 
 • el principio y el final del tren Os 6903 estaban marcados con las señales prescritas – la señal «Principio de tren» [en el frontal (frente delantero) del ŘDV 971.040-1 había dos luces blancas encendidas a la misma altura, complementadas por encima por una luz blanca en forma de triángulo isósceles] y la señal «Final de tren» [en el lateral trasero del último DV del tren, es decir, el HDV 471.040-6, había dos luces rojas encendidas, situadas a la misma altura];
 • en la posición final tras la MU, el frente del tren Os 6903 se encontraba en la SK n.º 701 en el km 410,660, a una distancia de 4,3 m del frente del tren Os 9608 detenido (en sentido contrario); el final del tren se encontraba en la SK n.º 701 en el km 410,720;
@@ -474,8 +477,8 @@ el llamado «viaducto de Negrelli» (en adelante, viaducto de Negrelli).
 
 En el lugar de la MU no se realizaron, inmediatamente antes de su aparición, trabajos de reparación o mantenimiento por parte del propietario, del gestor de la vía ni de otros sujetos. La circulación en el lugar de la MU y sus alrededores se desarrollaba en régimen normal.
 
-
 ## Página 16
+
 
 ### 3.1.4 Fallecimientos, lesiones y daños materiales
 En la MU no se produjeron lesiones en la salud de los empleados del gestor de la vía, del transportista, de las personas en relación contractual, ni de los pasajeros ni de terceras personas.
@@ -508,8 +511,8 @@ El transporte ferroviario se explotaba en virtud del contrato celebrado entre el
 | Porcentaje de frenado necesario (%): | 53 |  |  |  |
 | Porcentaje de frenado real (%): | 121 |  |  |  |
 
-
 ## Página 17
+
 
 | Porcentaje de frenado faltante (%): | 0 |
 | Velocidad máxima permitida del tren en el lugar de la MU (km·h-1): | 40 |
@@ -530,6 +533,7 @@ El HDV 471.029-9 estaba, en el momento de la aparición de la MU, de conformidad
 | • a las 6:13:00 h | el maquinista, a una velocidad de 39 km·h-1, manipulando el controlador combinado del interruptor principal y del colector, dio la orden de recoger el colector de corriente de tracción. El frente del tren se encontraba a una distancia de 210 m antes del lugar de la detención final tras la MU. Al mismo tiempo el tren se encontraba en la aguja n.º 10, en el punto de comienzo de su conmutación violenta; |
 
 ## Página 18
+
 
 el maquinista a una velocidad de 38 km·h-1 con la manipulación del
 en 6:13:10 h
@@ -576,8 +580,8 @@ Nota sobre el tren Os 6903:
 
 El ŘDV 971.040-1, en el momento de la aparición de la MU, de conformidad con lo dispuesto en el artículo 5 de la Parte II «Vehículos ferroviarios de la red ferroviaria estatal y de la red ferroviaria regional, Otros requisitos» del Anexo n.º 3 del decreto n.º 173/1995 Sb., estaba equipado con un dispositivo de registro automático de datos – RR con registro electrónico de datos Unicontrols Tramex RE1xx, n.º 7025. De los datos registrados sobre la marcha del tren Os 6903 el día 10. 5. 2021 en el tiempo desde la puesta en marcha en la parada Praha-Holešovice zastávka hasta la detención en la posición final tras la aparición de la MU en la SK n.º 701, cuando
 
-
 ## Página 19
+
 
 tras redondear los parámetros de tiempo a segundos completos, la velocidad a décimas de km·h-1 y la distancia a metros completos, y tras tener en cuenta las desviaciones temporales entre el tiempo registrado por el RR y el tiempo registrado por el SZZ de la est. Praha Masarykovo nádraží, que fue considerado para las necesidades de la investigación de esta MU como tiempo de referencia, entre otros, se desprende:
 
@@ -605,36 +609,36 @@ en 6:13:25 h
 • el tren se detuvo en la posición final tras la MU, con el extremo frontal a una distancia de 146 m de la señal de vía Sc701;
 • la parte móvil del VZ estaba activada y era operada periódicamente por el maquinista durante todo el transcurso de la marcha del tren anteriormente descrita;
 
-
 ## Página 20
 
-no se superó la velocidad máxima permitida del tren en el tramo evaluado;
-• el maquinista condujo el tren con la ARR activada, que permaneció activada hasta la detención del tren tras la aparición de la MU.
-
-### 3.1.8 Descripción de las partes correspondientes de la infraestructura y del sistema de señalización
-
-La est. Praha Masarykovo nádraží estaba equipada con un SZZ de 3.ª categoría ESA 11 con JOP, que podía ser controlado en remoto desde el CDP Praha (por el despachador del CDP Praha) o localmente desde la oficina de tráfico en el enclavamiento central de la est. Praha Masarykovo nádraží, es decir, desde el PPV (por el guardagujas del PPV). Todas las señales eran luminosas de tipo AŽD 70. Para la comprobación de la libre de obstáculos de las SK servían los contadores de ejes, con la excepción de las SK n.º 201, 201a, 202 y 202a y de los desvíos n.º 201 a 204, donde se utilizaron KO electrónicos.
-
-La señal de vía Sc7 era una señal de mástil, situada a la derecha directamente junto a la SK n.º 7, en el km 410,378, es decir, 90 m antes del ZV n.º 10, a una distancia de 278 m del punto de detención del tren Os 9608 y 282 m del punto de detención del tren Os 6903 tras la aparición de la MU.
-
-La SK n.º 7, delimitada (limitada) por la posición de las señales de vía Sc7 y Lc7 (por el señalizador del desvío n.º 10 y el tope al final de la SK), de longitud útil (total) de 358 m (383 m), era una vía de tráfico, de entrada y de salida para trenes desde/hacia la dirección de la est. Praha-Bubny.
-
-El desvío n.º 10 [en la dirección de marcha del tren Os 6903 determinante para la marcha del DV en la SK n.º 5 (alternativamente en la SK n.º 6) o 7] era por su construcción un desvío simple, curvo, de una sola vía, de forma Obl- j 49 1:12-500(315/193) Pp b, donde el ZV se encontraba en el km 410,468, es decir, a una distancia de 188 m del punto de detención del tren Os 9608 y 192 m del punto de detención del tren contramarchante Os 6903. El desvío n.º 9 era por su construcción un desvío simple, curvo, de una sola vía, de forma Obl- j 1:9-300(530/190) Pp b, donde el ZV se encontraba en el km 410,512, es decir, a una distancia de 144 m del punto de detención del tren Os 9608 y 148 m del punto de detención del tren contramarchante Os 6903. Ambos desvíos estaban instalados en la vía sobre traviesas VPS.
-
-La SK n.º 701, delimitada (limitada) por la posición de la señal de agrupamiento Se700 y de la señal de vía Sc701 (puntas del desvío n.º 705 por el señalizador del desvío n.º 9), de longitud útil (total) de 356 m (375 m), era una vía de tráfico, de entrada y de salida para trenes desde/hacia la dirección desde la est. Praha-Bubny.
-
-La señal de vía Sc701, situada en el soporte sobre la SK n.º 701 en el km 410,514, era válida para las marchas de trenes y de elementos de maniobra desde el sector viaducto hasta el sector Dvorana, es decir, desde la SK n.º 701, respectivamente SK n.º 702, a las SK n.º 3 a 7 (véase también el punto 3.1.3 de esta ZZ).
-
-Condiciones de pendiente en la est. Praha Masarykovo nádraží (indicado en la dirección de la señalización kilométrica, es decir, en la dirección de marcha del tren Os 9608):
-• las SK en el sector Dvorana (SK n.º 1 a 7) ascendían con una pendiente de hasta 4,1 ‰;
-• la SK desde el desvío n.º 10 hasta el ZV n.º 9 ascendía con una pendiente de 0,89 ‰;
-• la SK n.º 701 desde el km 410,515 hasta el km 410,700 ascendía con una pendiente de 1,11 ‰ y desde el km 410,700 hasta el km 410,889 descendía con una pendiente de 0,51 ‰;
-• la SK desde el señalizador del desvío n.º 705 (km 410,889) hasta el 411,030 descendía en el extremo bubenské con una pendiente de 0,51 ‰, desde el km 411,030 hasta el nivel de la señal de entrada 1S (km 411,094) descendía con una pendiente de 0,15 ‰.
-
-Condiciones de alineación en la est. Praha Masarykovo nádraží (indicado en la dirección de la señalización kilométrica, es decir, en la dirección de marcha del tren Os 9608):
-
+no se superó la velocidad máxima permitida del tren en el tramo examinado;
+•
+el maquinista condujo el tren con el ARR activado, que permaneció activado hasta la
+•
+parada del tren tras la aparición de la MU.
+### 3.1.8 Descripción de las partes pertinentes de la infraestructura y del sistema de seguridad
+La estación Praha Masarykovo nádraží estaba equipada con el sistema de seguridad de señalización SZZ de 3.ª categoría ESA 11 con JOP, que podía controlarse en remoto desde el CDP Praha (por el despachador del CDP Praha) o localmente desde la oficina de tráfico en el puesto de mando central de la estación Praha Masarykovo nádraží, es decir, desde el PPV (por el jefe de estación del PPV). Todos los señales eran luminosos de tipo AŽD 70. Para la comprobación de la libertad de los SK se empleaban los contadores de ejes, con la excepción de los SK n.º 201, 201a, 202 y 202a y de las agujas n.º 201 a 204, donde se utilizaron KO electrónicos.
+La señal de camino Sc7 era una señal de mástil, situada a la derecha directamente junto al SK n.º 7, en el km 410,378, es decir, 90 m antes del ZV n.º 10, a una distancia de 278 m del lugar de parada del tren Os 9608 y 282 m del lugar de parada del tren Os 6903 tras la aparición de la MU.
+El SK n.º 7, delimitado (limitado) por la posición de las señales de camino Sc7 y Lc7 (el punto de referencia de la aguja n.º 10 y el tope al final del SK), con una longitud útil (total) de 358 m (383 m), era una vía de tráfico, de entrada y de salida para trenes desde/hacia la dirección de la estación Praha-Bubny.
+La aguja n.º 10 [en el sentido de circulación del tren Os 6903, determinante para la circulación del DV en el SK n.º 5 (alternativamente en el SK n.º 6) o 7] era, por su construcción, una aguja simple, curva, de un solo lado, de forma Obl- j 49 1:12-500(315/193) Pp b, encontrándose el ZV en el km 410,468, es decir, a una distancia de 188 m del lugar de parada del tren Os 9608 y 192 m del lugar de parada del tren en sentido contrario Os 6903. La aguja n.º 9 era, por su construcción, una aguja simple, curva, de un solo lado, de forma Obl- j 1:9-300(530/190) Pp b, encontrándose el ZV en el km 410,512, es decir, a una distancia de 144 m del lugar de parada del tren Os 9608 y 148 m del lugar de parada del tren en sentido contrario Os 6903. Ambas agujas estaban instaladas en la vía sobre traviesas VPS.
+El SK n.º 701, delimitado (limitado) por la posición de la señal de agrupamiento Se700 y de la señal de camino Sc701 (puntas de la aguja n.º 705, punto de referencia de la aguja n.º 9), con una longitud útil (total) de 356 m (375 m), era una vía de tráfico, de entrada y de salida para trenes desde/hacia la dirección de la estación Praha-Bubny.
+La señal de camino Sc701, situada sobre el soporte por encima del SK n.º 701 en el km 410,514, era válida para la circulación de trenes y de elementos de maniobra desde el sector viadukt hasta el sector Dvorana, es decir, desde el SK n.º 701, respectivamente SK n.º 702, hasta el SK n.º 3 a 7 (véase también el punto 3.1.3 de la presente ZZ).
+Condiciones de pendiente en la estación Praha Masarykovo nádraží (indicadas en el sentido de la kilometración, es decir, en el sentido de circulación del tren Os 9608):
+Los SK del sector Dvorana (SK n.º 1 a 7) ascendían con una pendiente de hasta 4,1 ‰;
+•
+El SK desde la aguja n.º 10 hasta el ZV n.º 9 ascendía con una pendiente de 0,89 ‰;
+•
+El SK n.º 701 desde el km 410,515 hasta el km 410,700 ascendía con una pendiente de 1,11 ‰ y desde el km
+•
+410,700 hasta el km 410,889 descendía con una pendiente de 0,51 ‰;
+El SK desde el punto de referencia de la aguja n.º 705 (km 410,889) hasta el 411,030 descendía en el
+•
+cabezal de Bubny con una pendiente de 0,51 ‰, y desde el km 411,030 hasta la altura de la señal de entrada 1S
+(km 411,094) descendía con una pendiente de 0,15 ‰.
+Condiciones de alineación en la estación Praha Masarykovo nádraží (indicadas en el sentido de la kilometración, es decir, en el sentido de circulación del tren Os 9608):
 
 ## Página 21
+
 
 • la SK n.º 7 desde el tope era conducida durante 193 m en dirección recta, posteriormente
 en una curva izquierda de 25 m de longitud, a la que seguía una curva derecha de 35 m de longitud hasta una distancia de 105 m de la señal de vía Sc7, desde donde la SK continuaba en dirección recta;
@@ -661,6 +665,7 @@ La infraestructura de la vía en la est. Praha Masarykovo nádraží ni las unid
 Del análisis de los datos registrados por el ordenador tecnológico 3 del SZZ de la est. Praha Masarykovo nádraží, tras tener en cuenta la desviación temporal entre el tiempo real y el tiempo registrado por el SZZ de la est. Praha Masarykovo nádraží, entre otros, se constató:
 
 ## Página 22
+
 
 v 6:08:57 h
 el despachador de CDP Praga, operando el SZZ, realizó las operaciones para la circulación del tren
@@ -696,8 +701,8 @@ como consecuencia de la ruptura de la ruta de tren por el DV del tren Os 9608, q
 •
 ocupó la KÚ de los desvíos n.º 10 y 9, se cambió la señal de la señal de camino Sc701 de la señal «Repetición de la señal Aviso» a la señal «Alto».
 
-
 ## Página 23
+
 
 |  | Al mismo tiempo, el tren Os 6903 ocupó la KÚ del desvío n.º 705 (V705) del sector viadukt; |
 | • v 6:12:58 h | el tren Os 6903 liberó la SK delimitada por la señal de entrada 1S y la señal de agrupación Se706, y todos sus DV se encontraban entre las señales de agrupación Se706 y Se700 del sector viadukt; |
@@ -709,25 +714,26 @@ ocupó la KÚ de los desvíos n.º 10 y 9, se cambió la señal de la señal de 
 | • El SZZ de la est. Praha Masarykovo nádraží presentaba, en el momento de la aparición de la MU, un funcionamiento normal, es decir, un estado sin averías. |  |
 La est. Praha Masarykovo nádraží, es decir, el área controlada por el despachador de línea 215 de CDP Praga, está equipada con un sistema de radio de línea compuesto por una comunicación de radio básica GSM-R CZ y una comunicación de emergencia en la Red Operativa General en el canal simplejo S12, respectivamente, un teléfono inalámbrico GSM. En caso de peligro, la comunicación de radio básica GSM-R CZ permite al empleado operativo, mediante la función complementaria «G-STOP» de la red de radio del equipo de radio de tren del sistema GSM-R CZ, activar mediante el botón correspondiente de la pestaña GSM-R con la marca «STOP VLAK» en el terminal táctil una llamada de voz automática para detener el tren, PMD y maniobras, o incluso activar el sistema de freno del HDV, respectivamente, ŘDV. La acción automática del sistema de freno solo puede activarse en el caso de que la tarjeta SIM GSM-R CZ del RDST del vehículo esté dotada de un nuevo número de llamada unidireccional y que este número esté configurado en el terminal táctil del empleado operativo (función «STOP VLAK») y también en la estación base RDST correspondiente. Al enviar la orden «STOP VLAK», en el RDST del vehículo registrado en la red de radio GSM-R CZ se activa en 5 s la llamada de emergencia y, al mismo tiempo, en el HDV, respectivamente ŘDV, se activa la acción del freno automático del tren, siendo el registro del número funcional actual del tren correspondiente irrelevante para la activación de la función «G-STOP», ya que esta orden se activa en el botón correspondiente de la pestaña GSM-R con la marca «STOP VLAK» y actuará sobre todos los HDV, respectivamente ŘDV, dotados de llamada unidireccional y de un adaptador conectado al circuito de freno del HDV, respectivamente ŘDV, en el área de la estación base RDST correspondiente. Tras la orden «STOP VLAK» (uso de la orden G-STOP), en la pantalla del RDST del vehículo aparece el mensaje «STOP!» y en el equipo de radio de tren del sistema GSM-R CZ se activa la función del mensaje de voz automático «ATENCIÓN, ATENCIÓN, todos los trenes en recepción STOP, STOP!».
 
-
 ## Página 24
 
 ### 3.1.9 Cualquier otra información relevante para los fines de la descripción del suceso y de la información básica
-Resumen de las explicaciones facilitadas por los empleados del gestor de la infraestructura y del transportista, incl. personas en relación contractual:
+Resumen de las explicaciones presentadas por los empleados del gestor de la vía y del transportista, incluidas personas en relación contractual:
 maquinista del tren Os 9608
-  – Acta con el empleado y Registro de la explicación facilitada DI:
-◦antes de incorporarse al turno tuvo dos días de descanso, es decir, el 8 y el 9 de 5 de 2021, y la noche del 9 al 10 de 5 de 2021, en el periodo aproximadamente desde las 21:00 h hasta aproximadamente las 1:45 h, durmió en su lugar de residencia habitual,
-◦se incorporó al turno en la est. Ústí nad Labem západ el 10 de 5 de 2021 a las aproximadamente 2:30 h, tras haber llegado en automóvil particular desde su lugar de residencia habitual. Tras incorporarse al turno, primero, en forma de maniobra, trasladó la unidad 471 desde la est. Ústí nad Labem západ hasta la est. Ústí nad Labem hl. n. y, a continuación, desde allí hasta la est. Praha Masarykovo nádraží, dirigió el tren Os 6901,
-◦durante el turno no se sintió alterado, el turno transcurrió sin incidencias hasta el momento de la aparición de la MU. Al incorporarse en la est. Ústí nad Labem západ se le presentó su compañero, que con él realizó la puesta en servicio de la unidad 471 y, a continuación, el reconocimiento de las condiciones de la línea en el tramo y en las instalaciones de tráfico del tramo Ústí nad Labem západ – Roudnice nad Labem,
-◦durante el turno del 10 de 5 de 2021, desde el inicio del turno hasta la aparición de la MU, no disfrutó de un tiempo adecuado de descanso y comida o de una pausa para comer y descansar. Según el horario de turno planificado, debía disfrutar de un tiempo adecuado de descanso y comida solo tras la llegada del tren Os 9608 a la est. Kralupy nad Vltavou,
-◦la expedición del tren Os 9608 desde la est. Praha Masarykovo nádraží no la exigió a nadie, porque desde el lugar en el que se encontraba con el tren se veía la señal de camino Sc7 y sus señales. La expedición del tren Os 9608 la realizaba el despachador de CDP Praga
-### mediante las señales de la señal de camino, mientras que en el momento de la salida del tren Os 9608 el maquinista creía que la señal mostraba la señal «Aviso» (véase más abajo),
-◦el 10 de 5 de 2021, antes de la salida del tren Os 9608 desde la est. Praha Masarykovo nádraží, comprobó la hora de su salida regular y, con la vista, también la señal de camino Sc7 válida para la salida desde la SK n.º 7. Adquirió la impresión de que esta señal mostraba la señal «Aviso», es decir, una luz amarilla. Este error, detectado posteriormente, lo explicó por el hecho de que fue deslumbrado por el sol naciente (en el momento de facilitar la explicación a DI, sin embargo, era consciente de que la señal «Aviso» nunca la muestra esta señal, la señal autorizante es siempre de dos luces). El jefe de tren se situaba, como de costumbre, en esta est. junto a las últimas puertas del tren. En concreto, ya no recordaba qué señal dio, pero en Praga por lo general da la señal «Llamada a la disponibilidad» con la bocina de la locomotora y, desde la ventanilla de la cabina del maquinista, observaba al jefe de tren y esperaba la señal «Consentimiento para la salida». Tras recibir la señal «Consentimiento para la salida» comprobó el cierre de las puertas y, a continuación, puso el tren Os 9608 en movimiento,
-### ◦no supo explicar por qué, tras poner el tren Os 9608 en movimiento en la SK n.º 7 de la est. Praha Masarykovo nádraží y durante la marcha hacia la señal de camino Sc7, no se cercioró de la señal mostrada por dicha señal,
-◦durante la marcha por la curva izquierda ante el viaducto Negrelli, observó por la SK n.º 701 un tren de pasajeros en sentido contrario, a lo que reaccionó inmediatamente aplicando el freno de acción rápida,
-
+  – Acta con el empleado y Registro de la explicación presentada
+•
+DI:
+◦antes de incorporarse al turno tuvo dos días de descanso, es decir, el 8 y el 9 de 5 de 2021, en la noche del 9 al 10 de 5 de 2021, en el período aproximadamente desde las 21:00 h hasta aproximadamente las 1:45 h, durmió en su lugar de residencia permanente,
+◦se incorporó al turno en la est. Ústí nad Labem západ el 10 de 5 de 2021 a aproximadamente las 2:30 h, después de haber llegado en automóvil particular desde su lugar de residencia permanente. Tras incorporarse al turno, primero mediante maniobras trasladó la unidad 471 de la est. Ústí nad Labem západ a la est. Ústí nad Labem hl. n. y a continuación desde allí hasta la est. Praha Masarykovo nádraží dirigió el tren Os 6901,
+◦durante el turno no se encontraba agitado, el turno transcurrió sin incidencias hasta la ocurrencia de la MU. Al incorporarse en la est. Ústí nad Labem západ se le presentó su compañero, que con él realizó la reactivación de la unidad 471 y posteriormente el reconocimiento de las condiciones de la vía en la línea y en las instalaciones de tráfico en el tramo Ústí nad Labem západ – Roudnice nad Labem,
+◦durante el turno del 10 de 5 de 2021, desde el inicio del turno hasta la ocurrencia de la MU, no disfrutó de un período adecuado de descanso y comida, ni de una pausa para comer y descansar. Según el horario de turno planificado, debía disfrutar del período adecuado de descanso y comida solo tras la llegada del tren Os 9608 a la est. Kralupy nad Vltavou,
+◦no exigió a nadie la expedición del tren Os 9608 desde la est. Praha Masarykovo nádraží, porque desde el lugar en el que se encontraba con el tren era visible la señal de camino Sc7 y sus indicaciones. La expedición del tren Os 9608 la realizaba el despachador CDP Praha
+### de las indicaciones de la señal de camino, mientras que en el momento de la salida del tren Os 9608 el maquinista creía que la señal indicaba «Aviso» (véase más abajo),
+◦el 10 de 5 de 2021, antes de la salida del tren Os 9608 desde la est. Praha Masarykovo nádraží, comprobó la hora de su salida regular y, mediante la vista, también la señal de camino Sc7 válida para la salida desde la vía n.º 7. Adquirió la impresión de que esta señal indicaba «Aviso», es decir, una luz amarilla. Este error, posteriormente detectado, lo explicó por el hecho de que había sido deslumbrado por el sol naciente (en el momento de presentar la explicación DI, sin embargo, era consciente de que la indicación «Aviso» nunca es emitida por esta señal, la indicación autorizadora es siempre de dos luces). El jefe de tren se situaba, como de costumbre, en esta est. junto a las últimas puertas del tren. En concreto, ya no recordaba qué indicación dio, pero en Praga por lo general da la indicación «Llamada a la preparación» con la bocina de la locomotora y, desde la ventanilla de la cabina del maquinista, observaba al jefe de tren y esperaba la indicación «Autorización para la salida». Tras recibir la indicación «Autorización para la salida», comprobó el cierre de las puertas y a continuación puso en marcha el tren Os 9608,
+### ◦no supo explicar por qué, después de poner en marcha el tren Os 9608 en la vía n.º 7 de la est. Praha Masarykovo nádraží y durante la marcha hacia la señal de camino Sc7, no se cercioró de la indicación emitida por dicha señal,
+◦durante la marcha por la curva izquierda antes del viaducto Negrelli, observó en la vía n.º 701 un tren de pasajeros en sentido contrario, a lo que reaccionó inmediatamente aplicando el frenado de acción rápida,
 
 ## Página 25
+
 
 ◦la aparición de la MU la comunicó por RDST al despachador de CDP Praga, quien a continuación le comunicó que, para la salida del tren Os 9608 desde la SK n.º 7 de la est. Praha Masarykovo nádraží en dirección a la est. Praha-Bubny, no se había establecido la ruta de tren y que, con las ruedas del DV del tren que él dirigía, se había producido un corte forzado del desvío n.º 10, cosa que, sin embargo, no registró durante la observación de la línea durante la marcha del tren en cuestión;
 ◦el entrenamiento en conducción lo realizó desde julio de 2020 y fue interrumpido por las medidas relacionadas con la pandemia de coronavirus – no recordaba la secuencia temporal exacta, pero creía que el entrenamiento práctico en conducción se interrumpió desde octubre hasta mediados de diciembre de 2020. El entrenamiento en conducción lo realizó con varios maquinistas y, especialmente, en las líneas desde Děčín hasta Praga. Más horas acumuló en el marco del entrenamiento en conducción con la serie 162; en las unidades «City Elefant» circuló menos,
@@ -741,6 +747,7 @@ maquinista del tren Os 6903
 ◦durante los turnos del 9 y el 10 de 5 de 2021 no se sintió alterado por nadie ni por nada,
 
 ## Página 26
+
 
 ◦el día 10. 5. 2021, cuando conducía el tren Os 6903, la señal de salida de la est. Praha-Bubny señaló la indicación «Aviso». Dado que la señal siguiente, es decir, la señal de entrada 1S de la est. Praha Masarykovo nádraží, señaló la indicación «Repetición de la indicación Aviso» y él esperaba en la señal de camino Sc701 la indicación «Alto», reducía la velocidad del tren con frenado de servicio de forma que detuviera el tren con seguridad antes del punto señalizado con la indicación «Alto»,
 ◦al circular por una curva a la derecha por el viaducto Negrelli, observó tras el SK n.º 701, es decir, por la misma vía por la que circulaba con el tren Os 6903, un tren en sentido contrario – a su hallazgo reaccionó aplicando el frenado de acción rápida del tren,
@@ -757,28 +764,28 @@ explicación prestada DI:
 ◦al prestar el servicio de tráfico en la función de despachador de CDP Praha, es decir, al organizar y dirigir el tráfico ferroviario en la est. Praha Masarykovo nádraží, era práctica habitual y frecuente la circulación de trenes por un SK de entrada distinto del SK de entrada indicado en la Lista de trenes para el personal de estación. El motivo más frecuente solía ser la situación de tráfico actual, en la que, por ejemplo, se tenían en cuenta las demandas del operador respecto a la vuelta de las composiciones, los retrasos de los trenes, las averías del HDV, la dirección de llegadas/salidas de los trenes, etc.,
 ### ◦el acceso del tren Os 6903, que tenía llegada regular a la est. Praha Masarykovo nádraží hasta las 6:16 h, lo priorizó respecto a la salida del tren Os 9608, que tenía salida regular de esta est. a las 6:12 h. El motivo, según su declaración, debía ser una mejor fluidez en las entradas y salidas de trenes desde/hacia la dirección Praha-Bubny. También tuvo en cuenta
 
-
 ## Página 27
 
-el hecho de que la composición del tren Os 6903 es de vuelta para el tren Os 9315, que tenía salida regular a las 6:25 h, y también el hecho de que el Os 6903 circulaba con antelación y detrás de él circula el Sp 1561 desde Kladno, que tenía llegada regular a las 6:20 h. El grupo de trenes en este intervalo horario pertenecía a los más exigentes y a menudo era necesario ajustar la secuencia de trenes según la situación de tráfico real – circulación con antelación, retrasos, etc.,
-◦para el acceso del tren Os 6903 dispuso la vía de tren desde el TK n.º 1 Praha-Bubny – Praha Masarykovo nádraží por el SK n.º 701 de la est. Praha Masarykovo nádraží y a continuación por el SK n.º 5, ocupado por la composición DV para el tren Os 7760. Del acceso del tren Os 6903 al SK n.º 5 ocupado por la DV informó al maquinista de este tren con la indicación «Circulación según condiciones de visibilidad», señalizada por la señal de camino Sc701,
-◦con la mirada en el monitor SZZ observó a continuación en el relieve de la vía la indicación del desmembramiento de la aguja n.º 10 y comprobó que el tren Os 9608 había salido del SK n.º 7, junto a la señal de camino Sc7 en posición «Alto», y había entrado en la vía de tren del tren Os 6903. El desmembramiento de la aguja n.º 10 en la est. Praha Masarykovo nádraží le fue indicado también acústicamente en la sala de despacho 4B de CDP Praha, mediante un tono continuo y sostenido. La indicación acústica la tomó en consideración y la desactivó pulsando la tecla correspondiente,
-◦al comprobar que los trenes en sentido contrario Os 9608 y Os 6903 se encontraban en el mismo SK, reaccionó ante la situación de crisis surgida intentando establecer RDST (vía GSM-R) ### comunicación con el maquinista del tren Os 9608, sin activar la funcionalidad «G-STOP» para ### evitar el peligro de colisión entre los trenes en sentido contrario Os 9608 y Os 6903. Sobre su reacción ante la situación de crisis surgida declaró además: «no se me ocurrió nada más en ese momento. Todo sucedió muy rápidamente.»,
-◦aunque trabajó en la función de jefe de estación/despachador de CDP Praha durante unos 20 años, nunca se encontró en ese periodo en una situación en la que tuviera que utilizar el llamado Parada General, respectivamente la funcionalidad «G-STOP». A raíz de la experiencia de esta MU, ahora utilizaría (activaría) la funcionalidad «G-STOP» inmediatamente y sin demora,
-◦dentro de la formación periódica, antes del surgimiento de esta MU concreta, se le informó sobre la funcionalidad «G-STOP» y se le permitió probar su activación en el conmutador telefónico de la sala de prácticas en CDP Praha. Personalmente acogería con agrado una formación más frecuente sobre situaciones de crisis,
-◦el aviso del surgimiento de la MU lo recibió el RDST del maquinista del tren Os 6903 y posteriormente también del maquinista del tren Os 9608.
-El tramo del SK n.º 701 en el ámbito viaducto (viaducto Negrelli) de la est. Praha Masarykovo nádraží estaba monitorizado por un sistema de cámaras con grabación. Del análisis de las grabaciones, que fueron facilitadas a la DI en el marco de la investigación, teniendo en cuenta las desviaciones temporales entre la hora registrada por el sistema de cámaras y la hora registrada por el SZZ de la est. Praha Masarykovo nádraží, que se consideró la hora de referencia para las necesidades de la investigación de esta MU, entre otros datos se desprende:
-a las 6:13:09 h entró en el encuadre del sistema de cámaras, desde la dirección de la est. Praha-Bubny,
+el hecho de que el tren de material Os 6903 es el material de vuelta para el tren Os 9315, que tenía salida regular a las 6:25 h, así como el hecho de que Os 6903 circulaba con adelanto y por detrás circula Sp 1561 desde Kladno, que tenía llegada regular a las 6:20 h. El grupo de trenes en este periodo de tiempo estaba entre los más expuestos y a menudo era necesario ajustar la secuencia de trenes según la situación de circulación real – circulación con adelanto, retrasos, etc.,
+◦para la entrada del tren Os 6903 dispuso la vía de tren desde TK n.º 1 Praha-Bubny – Praha Masarykovo nádraží hasta SK n.º 701 est. Praha Masarykovo nádraží y posteriormente hasta SK n.º 5, ocupada por el material DV para el tren Os 7760. De la entrada del tren Os 6903 en SK n.º 5, ocupada por DV, informó al maquinista de este tren con la señal "Circulación según condiciones de visibilidad", señalizada por el semáforo de vía Sc701,
+◦con la mirada en el monitor SZZ notó a continuación en el relieve de la vía la indicación del corte de la aguja n.º 10 y comprobó que el tren Os 9608 había salido de SK n.º 7, junto al semáforo de vía Sc7 en posición "Alto", y había entrado en la vía de tren del tren Os 6903. El corte de la aguja n.º 10 en est. Praha Masarykovo nádraží le fue indicado también acústicamente en la sala de despacho 4B CDP Praha, mediante un tono continuo y permanente. Tomó nota de la indicación acústica y la desactivó pulsando la tecla correspondiente,
+◦tras comprobar que los trenes en sentido contrario Os 9608 y Os 6903 se encuentran en la misma SK, reaccionó a la situación de crisis surgida intentando establecer RDST (a través de GSM-R)### comunicación con el maquinista del tren Os 9608, mientras que no activó la funcionalidad "G-STOP"### para evitar el peligro de colisión de los trenes en sentido contrario Os 9608 y Os 9315. Sobre su reacción a la situación de crisis surgida se pronunció además: "no se me ocurrió nada más en ese momento. Todo sucedió muy rápidamente.",
+◦aunque trabajó como jefe de estación/despachador de CDP Praha durante aprox. 20 años, nunca se encontró durante ese tiempo en una situación en la que tuviera que utilizar el llamado Parada General, respectivamente la funcionalidad "G-STOP". Tras la experiencia de esta MU, ahora utilizaría (activaría) la funcionalidad "G-STOP" inmediatamente y sin demora,
+◦en el marco de la formación regular anterior al surgimiento de esta MU concreta, se le informó sobre la funcionalidad "G-STOP" y se le permitió probar su activación en el conmutador telefónico de la sala de prácticas en CDP Praha. Personalmente acogería bien una formación más frecuente en situaciones de crisis,
+◦el aviso del surgimiento de la MU lo recibió RDST del maquinista del tren Os 6903 y posteriormente también del maquinista del tren Os 9608.
+El espacio de parte de SK n.º 701 en el ámbito viaducto (viaducto Negrelli) est. Praha Masarykovo nádraží estaba monitorizado por un sistema de cámaras con grabación. Del análisis de las grabaciones, que fueron facilitadas a DI en el marco de la investigación, tras tener en cuenta las desviaciones temporales entre el tiempo registrado por el sistema de cámaras y el tiempo registrado por SZZ est. Praha Masarykovo nádraží, que fue considerado como tiempo de referencia para las necesidades de la investigación de esta MU, entre otros se desprende:
+a las 6:13:09 h entró en el encuadre del sistema de cámaras, procedente de la dirección de est. Praha-Bubny,
 •
-el tren Os 6903, respectivamente el ŘDV 971.040-1 acoplado a su cabeza;
-a las 6:13:18 h todo el tren Os 6903 entró en el SK n.º 701 – el frente del tren pasó
+el tren Os 6903, respectivamente ŘDV 971.040-1 enganchado a su cabeza;
+a las 6:13:18 h todo el tren Os 6903 entró en SK n.º 701 – el morro del tren pasó
 •
-por el soporte de la línea de contacto 85, en el que estaba instalada la señal fija de estación, que señalaba la indicación «Posición kilométrica 
-»
-del lugar en la vía;
-
+por el soporte de la línea de contacto 85, en el que estaba situado un
+semáforo de estación no transportable, que señalizaba la señal "Posición kilométrica
+"
+posición del lugar en la vía;
 
 ## Página 28
+
 
 | • a las 6:13:19 h | entró en el encuadre del sistema de cámaras, desde el ámbito Dvorana de la est. Praha Masarykovo nádraží, el tren en sentido contrario Os 9608; |
 | • a las 6:13:23 h | el tren Os 9608 se detuvo; |
@@ -791,8 +798,8 @@ El jefe de tren, situado junto a las últimas puertas de embarque de la composic
 ### tras recibir esta orden, sin verificar con la mirada si la señal de camino Sc7 permitía la salida del tren, cerró las puertas de embarque de apertura centralizada de la unidad eléctrica y puso el tren en movimiento de forma no autorizada. No recibió ninguna otra autorización para poner el tren en movimiento, es decir, para la salida del tren de la estación, establecida por el operador de la vía, por parte del despachador de vía 215 de CDP Praha. Tras el paso no autorizado junto a y más allá de la señal de camino Sc7 que prohibía la circulación, el tren Os 9608 continuó por el SK n.º 7, a través de la aguja n.º 10, cuyas lengüetas forzó con las ruedas del eje 1 del bogie delantero de la DV que encabezaba, a la posición para la circulación desde el SK n.º 7 al SK n.º 701, y a través de la aguja n.º 9 entró a continuación en el SK n.º 701, situado en el ámbito viaducto.
 Durante la circulación no autorizada del tren Os 9608, se encontraba en el SK n.º 701 del ámbito viaducto el tren Os 6903, al que el despachador de CDP Praha había autorizado la circulación desde el TK n.º 1 Praha-Bubny – Praha Masarykovo nádraží por el SK n.º 701 hasta el ámbito Dvorana en el SK n.º 5 ocupado (véase más arriba). Los maquinistas de los trenes en sentido contrario, tras comprobar que los trenes circulaban por el mismo SK (véase el punto 4.3.2 de esta ZZ), adoptaron todas las medidas disponibles para detener los trenes, con lo que evitaron su colisión frontal y eliminaron por completo la aparición de daños materiales y de potenciales daños en la salud de las personas
 
-
 ## Página 29
+
 
 que se encontraban en los trenes. En la posición final tras la MU, los frentes de los trenes se encontraban a una distancia mutua de 4,3 m.
 ### 3.2.2 Secuencia de hechos desde el surgimiento del suceso ferroviario hasta la finalización de las acciones de los servicios de rescate
@@ -863,6 +870,7 @@ El Plan IZS lo activó a las 6:22 h, es decir, 10 minutos después del surgimien
 
 ## Página 30
 
+
 En el lugar del MU intervinieron los siguientes servicios del sistema de protección civil (IZS):
 Policía de la República Checa, Dirección Regional de la Capital Praga, Dirección
 •
@@ -919,8 +927,8 @@ entre la señal de itinerario que autoriza la salida del tren y la señal de ent
 el sentido de circulación opuesto haya otra señal principal (de salida o de itinerario)
 que prohíba la circulación del tren, la vía de tren termina en dicha señal.
 
-
 ## Página 31
+
 
 En la estación Praha Masarykovo nádraží, con mando a distancia del SZZ, la expedición
 del tren la realiza el despachador de CDP Praga, pudiendo el tren ser expedido únicamente
@@ -983,71 +991,30 @@ situación de crisis (MU), en la que circulaban en sentido contrario por la mism
 trenes Os 9608 y Os 6903, con la activación de la función especial «G-STOP» – la orden
 ### «STOP
 
-
 ## Página 32
 
-### VLAK» (pulsando el botón en el terminal táctil del despachador para la detención a
-### distancia de los trenes en circulación). En lugar de activar, para evitar el peligro
-### inminente de colisión de los trenes en sentido contrario Os 9608 y Os 6903, la orden
-### «STOP VLAK», con la que habría iniciado físicamente, mediante la funcionalidad
-«G-STOP» en el tramo seleccionado, la detención de todos los trenes conectados al
-sistema de radio GSM-R CZ, reaccionó a la situación de crisis surgida únicamente
-### intentando establecer una comunicación RDST (a través de GSM-R CZ) con el
-### maquinista del tren Os 9608.
-Nota DI: lo anterior no puede valorarse en relación causal con la aparición del MU, porque
-en el momento en que el despachador de línea 215 CDP Praga pudo, a las 6:13:00 h,
-detectar por primera vez la aparición del MU – la circulación no autorizada del tren Os 9608
-más allá del nivel de la señal de itinerario Sc7 de la estación Praha Masarykovo nádraží,
-mediante la visualización en el monitor del SZZ con el relieve de la vía (indicación visual
-en el monitor del SZZ) y, al mismo tiempo, también mediante la alerta sonora tras el
-posterior cambio forzado (corte) de la aguja n.º 10, los trenes Os 9608 y Os 6903 ya
-circulaban en sentido contrario por la misma SK y los maquinistas reaccionaron al hecho
-detectado activando la frenada de actuación rápida de la DV de ambos trenes
-interesados. En el momento de la reacción incorrecta del despachador de CDP Praga a la
-aparición del MU, es decir, del intento de establecer una comunicación RDST con el
-maquinista del tren Os 9608, cuando debió activar correctamente la orden «STOP VLAK»,
-ambos trenes ya estaban detenidos y no se produjo su colisión.
+### VLAK" (mediante la pulsación de un botón en la terminal táctil del despachador para la detención a distancia de trenes en circulación). En lugar de activar, para evitar el peligro inminente de colisión de los trenes contrarios Os 9608 y Os 6903, la orden "STOP VLAK", con lo que habría iniciado físicamente, mediante la funcionalidad "G-STOP" en el tramo seleccionado, la detención de todos los trenes conectados al sistema de radio GSM-R CZ, reaccionó a la situación de crisis creada únicamente con el intento de establecer una comunicación RDST (a través de GSM-R CZ) con el maquinista del tren Os 9608.
+Nota DI: lo anterior no puede valorarse en relación causal con la aparición de la MU, porque en el momento en que el despachador de línea 215 CDP Praha a las 6:13:00 h pudo detectar por primera vez la aparición de la MU —la circulación no autorizada del tren Os 9608 más allá del punto kilométrico de la señal de vía Sc7 de la estación Praha Masarykovo nádraží, mediante la visualización en el monitor SZZ con el esquema de la vía (indicación visual en el monitor SZZ) y, al mismo tiempo, también mediante la alarma sonora tras el violento cambio posterior (corte) de la aguja n.º 10—, los trenes Os 9608 y Os 6903 ya circulaban en sentido contrario por la misma SK y los maquinistas reaccionaron ante el hecho detectado activando la frenada de acción rápida DV de ambos trenes afectados. En el momento de la reacción incorrecta del despachador CDP Praha ante la aparición de la MU, es decir, del intento de establecer una comunicación RDST con el maquinista del tren Os 9608, cuando debió haber activado la orden "STOP VLAK", ambos trenes ya se habían detenido y no se produjo la colisión.
 ### Hallazgos:
-En la investigación se constató la infracción de la normativa legal y de los reglamentos
-### internos relativos a las funciones y obligaciones del gestor de la infraestructura SŽ,
-### al margen de la relación causal con la aparición del MU, relacionada con la actividad
-### del despachador de CDP Praga:
+En la investigación se detectó el incumplimiento de la normativa legal y de las normas internas relativas a las funciones y obligaciones del explotador de la vía SŽ, al margen de la relación causal con la aparición de la MU relacionada con la actividad del despachador CDP Praha:
 § 22 apartado 1 letra a) de la Ley n.º 266/1994 Sb.:
 •
-«El gestor de la infraestructura está obligado a explotar la infraestructura para las
-necesidades del transporte ferroviario fluido y seguro de acuerdo con las reglas para la
-explotación de la infraestructura y la autorización administrativa»;
-artículo 2241 letra a) del reglamento interno SŽDC D1:
+"El explotador de la vía está obligado a explotar la vía para las necesidades del tráfico ferroviario fluido y seguro de acuerdo con las normas de explotación de la vía y la autorización administrativa";
+art. 2241 letra a) de la norma interna SŽDC D1:
 •
-«La circulación de un tren con antelación no se permite tampoco si se retrase un tren
-que circula en su hora regular, salvo que el despachador de explotación decida lo
-contrario en función de la situación de tráfico»;
-artículo 6.5.4 del Reglamento de Explotación GSM-R CZ:
+"La circulación de un tren con adelanto tampoco está permitida si el tren que circula en su horario regular se retrasara, salvo que el despachador de explotación decida lo contrario en función de la situación del tráfico";
+art. 6.5.4 del Reglamento de Explotación GSM-R CZ:
 •
-«La orden STOP VLAK debe ser activada, en caso de amenaza a la seguridad en la
-explotación del transporte ferroviario, por el empleado de dirección de la explotación en
-la función de jefe de estación, despachador director, jefe de estación DOZ o despachador
-de línea. ...».
-En el caso de este MU concreto es necesario relacionar la disposición anterior con:
-◦artículo 261 del reglamento interno SŽDC D1:
-«La seguridad de la explotación de la infraestructura y del transporte ferroviario
-radica en el conocimiento y el estricto cumplimiento de los reglamentos internos de
-SŽDC, o también de otras medidas relativas a la explotación, por parte de todas las
-personas implicadas, que deben por ello velar siempre por su estricto cumplimiento.
-Cada empleado debe, en primer lugar, velar por la seguridad y, a continuación, por la
-exactitud (puntualidad) del transporte. Esto tiene prioridad sobre todas las demás
-actividades»;
-◦artículo 272 del reglamento interno SŽDC D1:
-«Por la correcta prestación del servicio de tráfico responde personalmente cada empleado.
-Si son conocidos por el empleado circunstancias que amenacen la seguridad, debe
-adoptar inmediatamente todas las medidas para evitar el peligro …».
-La persona que dirige el material rodante ferroviario, es decir, también los maquinistas de
-los trenes Os 9608 y Os 6903, es, en el sentido del § 35 apartado 1 letras a) y g) de la Ley
-n.º 266/1994 Sb., § 35 apartado 1 del Decreto n.º 173/1995 Sb. y de las disposiciones
-pertinentes del reglamento interno SŽDC D1 y de los reglamentos internos de los
-transportistas
+"La orden STOP VLAK debe ser activada, en caso de peligro para la seguridad en la explotación del tráfico ferroviario, por un empleado de la dirección del tráfico en la función de jefe de estación, despachador director, jefe de estación DOZ o despachador de línea. ...".
+En el caso de esta MU concreta, es necesario relacionar la disposición anterior con:
+◦art. 261 de la norma interna SŽDC D1:
+"La seguridad de la explotación de la vía y del tráfico ferroviario consiste en el conocimiento y el cumplimiento estricto de las normas internas de SŽDC, o en su caso también de otras medidas relativas a la explotación, por parte de todas las personas implicadas, que deben por ello velar siempre por su cumplimiento preciso. Todo empleado debe en primer lugar velar por la seguridad y después por la precisión (puntualidad) del tráfico. Esto tiene prioridad sobre todas las demás actividades";
+◦art. 272 de la norma interna SŽDC D1:
+"Cada empleado responde personalmente del correcto desempeño del servicio de tráfico. Si son conocidos por los empleados circunstancias que ponen en peligro la seguridad, debe adoptar inmediatamente todas las medidas para evitar el peligro …".
+La persona que conduce el vehículo ferroviario, es decir, también los maquinistas de los trenes Os 9608 y Os 6903, es, en el sentido del § 35 apartado 1 letra a) y g) de la Ley n.º 266/1994 Sb., del § 35 apartado 1 del Decreto n.º 173/1995 Sb. y de las disposiciones pertinentes de la norma interna SŽDC D1 y de las normas internas de los transportistas
 
 ## Página 33
+
 
 mj. está obligado a conducir el DV solo desde el puesto desde el que se tenga la mejor visibilidad, normalmente desde la cabina delantera del maquinista en el sentido de la marcha, y desde la cabina de mando del DV observar la vía y las señales y actuar según los hechos constatados. Durante la marcha no debe exceder la velocidad máxima permitida, establecida en el horario de circulación o la velocidad limitada ordenada, p. ej. la indicada por la señal del semáforo principal, debiendo garantizar las condiciones (si puede influir en ellas) para que pueda percibir las señales y regirse por ellas. El maquinista responde de todas las medidas de tráfico derivadas de la circulación del tren y del contacto con los empleados que dirigen y organizan el tráfico ferroviario, es decir que, entre otras cosas, al salir de la estación observa si los semáforos principales correspondientes permiten su circulación y si la vía de salida SK está libre. Por todos los medios disponibles está obligado a adoptar medidas para detener el tren si constata que su circulación no está permitida o si el tren está amenazado por algo.
 
@@ -1076,8 +1043,8 @@ En la investigación se constató la infracción de normas legales y reglamentos
 •
 «Para la conducción de un vehículo ferroviario debe garantizarse que la persona que conduce el vehículo ferroviario observe, desde la cabina de mando del vehículo ferroviario, la vía y las señales y actúe según los hechos constatados,»;
 
-
 ## Página 34
+
 
 artículo 1.1 del anexo n.º 1 del decreto n.º 173/1995 Sb.:
 •
@@ -1118,8 +1085,8 @@ artículo 23 letra c) del reglamento interno ČD V2:
 «La tripulación de locomotora está especialmente obligada a:
 c) observar durante la circulación del tren o durante la maniobra la vía y la planta de vías, incluida la línea de tracción, y regirse por las señales».
 
-
 ## Página 35
+
 
 ### Además, el operador ČD, en la explotación del tráfico ferroviario con los trenes Os 9608 (Praha Masarykovo
 ### nádraží – Kralupy nad Vltavou) y Os 6903 (Roudnice nad Labem – Praha
@@ -1148,8 +1115,8 @@ En la investigación no se constató infracción de las funciones y obligaciones
 ### 4.1.4 Autoridades nacionales de seguridad y Agencia Ferroviaria de la Unión Europea
 La autoridad nacional de seguridad es el DÚ, que según la ley n.º 266/1994 Sb. es la autoridad administrativa dependiente del Ministerio de Transporte. Su función es, entre otras, el ejercicio de la supervisión estatal en materia de vías ferroviarias y en materia de autoridad de construcción, el ejercicio de la autoridad de construcción especial para obras ferroviarias y obras sobre la vía, la aprobación de DV nuevos y modernizados y de instalaciones técnicas designadas, y la tramitación de infracciones. Es obligación del DÚ comunicar al DI, en un plazo de 12 meses desde la fecha de publicación del ZZ que contenga las recomendaciones de seguridad dirigidas a él,
 
-
 ## Página 36
+
 
 qué medida ha adoptado en relación con esta recomendación de seguridad.
 
@@ -1178,6 +1145,7 @@ En la investigación no se detectaron factores relacionados con los fabricantes 
 
 ## Página 37
 
+
 ### 4.2.4 Factores o consecuencias derivados del mantenimiento y la modificación de vehículos ferroviarios o instalaciones técnicas
 En la investigación no se detectaron factores derivados del mantenimiento y la modificación de VF o instalaciones técnicas.
 ### 4.2.5 Factores o consecuencias relacionados con el sujeto responsable del mantenimiento de vehículos ferroviarios, los talleres de mantenimiento y otros prestadores de servicios de mantenimiento
@@ -1196,22 +1164,24 @@ el maquinista del tren Os 9608 a las 6:13:14 h activó el frenado de emergencia 
 el frente del tren, que circulaba a una velocidad de 38 km·h-1, se encontraba a una distancia de 61 m antes del punto de detención final tras el SU (véase la fig. 3);
 el maquinista del tren Os 6903 a las 6:13:18 h activó el frenado de emergencia en el momento en que el frente del tren, que circulaba a una velocidad de 27 km·h-1, se encontraba a una distancia de 29 m antes del punto
 
-
 ## Página 38
 
-de detención final tras el SU (véase la fig. 3), y ello en el momento del frenado de servicio del tren activado por el maquinista a las 6:13:01 h, cuando la presión del aire en la tubería principal se situaba en el valor de 4,375 bar (véase el punto 3.1.7 de la presente II).
-Tras verificar la reconocibilidad sin duda alguna de la vía por la que circulaba el VF/tren en sentido contrario en el sector viaducto (viaducto Negrelli) de la est. Praha Masarykovo nádraží, se determinó la distancia de visibilidad mutua directa de los VF/trenes, que fue de 125 m.
-Tras sincronizar los registros obtenidos por los equipos de registro de los trenes Os 9608 y Os 6903 con la distancia determinada de visibilidad mutua directa de los VF/trenes en sentido contrario que circulaban por la misma vía, se constató que el tren:
-Os 9608 se encontraba, en el punto de inicio de la visibilidad directa del tren en sentido contrario Os 6903, con su frente a una distancia de 81 m antes del punto de detención en posición final tras el SU. El tren circulaba en ese momento a una velocidad de 38 km·h-1;
-•
-Os 6903 se encontraba, en el punto de inicio de la visibilidad directa del tren en sentido contrario Os 9608, con su frente a una distancia de 44 m antes del punto de detención en posición final tras el SU. El tren circulaba en ese momento a una velocidad de 29 km·h-1.
-•
-Fig. n.º 3: Posición de los trenes Os 9608 y 6903 en el punto de inicio de la visibilidad mutua directa sobre la misma vía.
-  Fuente: DI
-Teniendo en cuenta el tiempo de reacción de 2 s de los maquinistas ante una situación totalmente imprevisible desde su punto de vista [lo anterior es igualmente aplicable al maquinista del tren Os 9608, que no era consciente del momento de circulación ilícita más allá de la señal de vía Sc7 (véase más abajo)], es completamente evidente que los maquinistas de ambos trenes en cuestión observaron la vía y actuaron de forma oportuna y correcta conforme a los hechos constatados mientras circulaban por el sector viaducto (viaducto Negrelli).
+de la parada final tras la MU (véase la fig. 3), y ello en el momento del frenado operativo del tren introducido por el maquinista a las 6:13:01 h, cuando la presión del aire en el conducto principal era de 4,375 bar (véase el punto 3.1.7 de la presente ZZ).
 
+Mediante la verificación de la indudable visibilidad de la SK al ser cruzada por el DV/tren contrario en el ámbito del viaducto (viaducto Negrelli) de la estación de Praha Masarykovo nádraží, se determinó la distancia de visibilidad directa mutua entre los DV/trenes, que era de 125 m.
+
+Sincronizando los registros obtenidos por los dispositivos de registro de los DV de los trenes Os 9608 y Os 6903 con la distancia determinada de visibilidad directa mutua de los DV/trenes contrarios circulando por la misma vía, se constató que el tren:
+
+- Os 9608 se encontraba, en el punto de inicio de la visibilidad directa del tren contrario Os 6903, con su frente a una distancia de 81 m del punto de parada en la posición final tras la MU. El tren circulaba en ese momento a una velocidad de 38 km·h-1;
+- Os 6903 se encontraba, en el punto de inicio de la visibilidad directa del tren contrario Os 9608, con su frente a una distancia de 44 m del punto de parada en la posición final tras la MU. El tren circulaba en ese momento a una velocidad de 29 km·h-1.
+
+Fig. 3: Posición de los trenes Os 9608 y 6903 en el punto de inicio de la visibilidad directa mutua en la misma SK.
+  Fuente: DI
+
+Teniendo en cuenta el tiempo de reacción de 2 s de los maquinistas ante una situación totalmente imprevisible desde su punto de vista [lo anterior es igualmente aplicable al maquinista del tren Os 9608, que no era consciente del momento de circulación indebida más allá de la señal de vía Sc7 (véase más abajo)], resulta completamente evidente que los maquinistas de ambos trenes observaron la vía durante su circulación por el ámbito del viaducto (viaducto Negrelli) y actuaron de forma oportuna y correcta de acuerdo con los hechos constatados.
 
 ## Página 39
+
 
 En el marco de la investigación de este SU, al igual que en otros SU investigados en el pasado, la DI se ocupó asimismo de las circunstancias de la no utilización (no activación) de la funcionalidad STOP GSM-R (orden – instrucción «STOP VLAK») por parte del regulador de tráfico 215 CDP Praha (véase el punto 4.1.1 de la presente II) tras constatar que los trenes en sentido contrario Os 9608 y Os 6903 se encontraban en la misma vía.
 El regulador de tráfico 215 CDP Praha no se había encontrado, en el transcurso de su práctica de unos 20 años hasta la fecha, con una situación de crisis en la que hubiera sido necesario, para evitar el peligro inminente de colisión de trenes, utilizar tras evaluar la situación planteada sin demora el llamado Parada General, respectivamente la funcionalidad «G-STOP».
@@ -1231,56 +1201,60 @@ Las condiciones pertinentes del marco regulatorio están establecidas en los Reg
 4.4.2 Procedimientos, métodos, contenido y resultados de las actividades de evaluación del riesgo y seguimiento realizadas por cualquiera de los sujetos implicados
 En los procedimientos, métodos, contenido y resultados de las actividades de evaluación del riesgo y seguimiento, relacionados con las circunstancias de ocurrencia del SU en cuestión, no se detectaron deficiencias.
 
-
 ## Página 40
 
-### 4.4.3 Sistema de garantía de la seguridad de los transportistas y explotadores de infraestructura implicados
-En el sistema de garantía de la seguridad adoptado por el explotador de la infraestructura y el transportista, relacionado con las circunstancias de ocurrencia del SU en cuestión, no se detectaron deficiencias.
-### 4.4.4 Sistema de gestión de los sujetos responsables del mantenimiento de vehículos ferroviarios
-y de los talleres de mantenimiento
-El sistema de gestión de los sujetos responsables del mantenimiento de VF y de los talleres de mantenimiento no guardaba relación con la ocurrencia del SU.
+### 4.4.3 Sistema de garantía de la seguridad de los transportistas y gestores de infraestructura participantes
+En el sistema de garantía de la seguridad del gestor de infraestructura y del transportista adoptado, relacionado con las circunstancias de la aparición de la MU en cuestión, no se detectaron deficiencias.
+### 4.4.4 Sistema de gestión de los sujetos responsables del mantenimiento de los vehículos ferroviarios y de los talleres de mantenimiento
+El sistema de gestión de los sujetos responsables del mantenimiento de los VFI y de los talleres de mantenimiento no guardaba relación con la aparición de la MU.
 ### 4.4.5 Resultados de la supervisión realizada por las autoridades nacionales de seguridad
-Atendiendo a los factores detectados y a las circunstancias de ocurrencia del SU, la supervisión de la autoridad de seguridad no guarda relación con el SU en cuestión.
-### 4.4.6 Aprobaciones, certificados y informes de evaluación emitidos por la agencia, las autoridades nacionales de seguridad u otros sujetos de evaluación de la conformidad
-El explotador de la infraestructura explotaba la infraestructura al amparo de la autorización administrativa vigente y del certificado de seguridad del explotador de la infraestructura. El transportista explotaba el transporte ferroviario al amparo de la licencia vigente y del certificado del transportista.
+Atendiendo a los factores y circunstancias detectados de la aparición de la MU, la supervisión de la autoridad de seguridad no guarda relación con la MU en cuestión.
+### 4.4.6 Aprobaciones, certificados e informes de evaluación emitidos por la agencia, las autoridades nacionales de seguridad u otros sujetos de evaluación de la conformidad
+El gestor de infraestructura explotaba la infraestructura en virtud de una autorización administrativa vigente y de un certificado de seguridad del gestor de infraestructura. El transportista explotaba el transporte ferroviario en virtud de una licencia vigente y de un certificado del transportista.
 ### 4.4.7 Otros factores sistémicos
 En la investigación no se detectaron otros factores sistémicos.
 ### 4.5 Sucesos anteriores de naturaleza similar
-La DI, en el periodo comprendido entre el 1. 1. 2016 y la fecha de ocurrencia del SU en cuestión, registra en las vías ferroviarias, de categoría nacional y regional, un total de 123 SU similares, cuya causa de ocurrencia fue la puesta en marcha ilícita de un tren con transporte de pasajeros – la salida ilícita del tren del espacio destinado al embarque y desembarque de pasajeros, seguida de la circulación ilícita de dichos trenes más allá de la señal principal con la indicación «Alto», en las estaciones en las que la orden de salida del tren la da el jefe de estación al maquinista mediante la colocación de la señal principal en la indicación que autoriza la circulación.
-De este número, se produjo posteriormente una colisión de VF en 2 casos y, en 2 casos, también el descarrilamiento del VF. Como consecuencia de estas circulaciones ilícitas, 44 personas resultaron lesionadas
-### y se produjo un daño total por importe de 29 999 251 Kč.
-Del listado anterior de SU similares, la DI investigó un total de 5 SU:
-del 3. 5. 2018, cuando a las 8:37 h se produjo la circulación ilícita del tren Os 8102 más allá de
-•
-la señal de salida L1 de la est. Křemže que prohibía la circulación, el cambio forzado de la aguja n.º 6, la entrada en la vía de tren establecida para el tren en sentido contrario Os 8103, seguida de la colisión y el descarrilamiento del tren Os 8103. La causa inmediata de la ocurrencia del SU fue el incumplimiento de la indicación «Alto» de la señal de salida L1 de la est. Křemže por parte de la persona que dirigía el VF – tren Os 8102. En el SU resultaron lesionadas 18 personas y se produjo un daño total por importe de 23 631 902 Kč;
-del 22. 2. 2019, cuando a las 19:20 h se produjo la circulación ilícita del tren Ex 350 más allá del nivel de la señal de salida L2 con la indicación que prohibía la circulación y la entrada en la vía de tren establecida para el tren Os 17816 en la est. Ejpovice
-. La causa inmediata de la ocurrencia del SU fue
+El DI, en el período desde el 1 de enero de 2016 hasta la aparición de la MU en cuestión, registra en las vías ferroviarias, categoría nacional y regional, un total de 123 MU análogas, cuya causa de aparición fue la puesta en movimiento no autorizada de un tren con transporte de pasajeros – salida no autorizada de un tren del espacio destinado al desembarque y embarque de pasajeros, seguida de la circulación no autorizada de dichos trenes más allá de la señal principal con la señal «Alto», en estaciones donde la orden de salida del tren la da el jefe de estación al maquinista colocando la señal principal en la señal que permite la circulación.
+De este número, en 2 casos se produjo posteriormente una colisión de VFI y en 2 casos también un descarrilamiento de VFI. Como consecuencia de estas circulaciones no autorizadas, 44 personas resultaron lesionadas
+### y se produjo un daño total por importe de 29 999 251 CZK.
+De la relación anterior de MU análogas, el DI investigó un total de 5 MU:
+• del 3 de mayo de 2018, cuando a las 8:37 h se produjo la circulación no autorizada del tren Os 8102 más allá de la señal de salida L1 en la est. Křemže que prohibía la circulación, el cambio forzado del desvío n.º 6, la entrada en la vía de tren establecida para el tren en sentido contrario Os 8103, seguida de la colisión y el descarrilamiento del tren Os 8103. La causa inmediata de la aparición de la MU fue el incumplimiento de la señal «Alto» de la señal de salida L1 en la est. Křemže por parte de la persona que conducía el VFI – tren Os 8102. En la MU resultaron lesionadas 18 personas y se produjo un daño total por importe de 23 631 902 CZK;
+• del 22 de febrero de 2019, cuando a las 19:20 h se produjo la circulación no autorizada del tren Ex 350 a la altura de la señal de salida L2 con la señal que prohibía la circulación y la entrada en la vía de tren establecida para el tren Os 17816 en la est. Ejpovice. La causa inmediata de la aparición de la MU fue
 
 ## Página 41
 
-salida del tren Ex 350 de la est. de Ejpovice sin la oportuna autorización de circulación. En el MU no se produjeron daños personales ni daños materiales;
-• del día 5. 3. 2019, cuando a las 8:00 h se produjo la circulación no autorizada del tren Os 4708 más allá del nivel de la señal de vía Lc4 con señal prohibiendo la circulación y la consiguiente colisión con el tren en sentido contrario Os 4711 en la est. de Brno hl. n. La causa inmediata de la producción del MU fue el incumplimiento de la señal «Alto» de la señal de vía Lc4 de la est. de Brno hl. n. por parte de la persona que conducía el vehículo ferroviario de tracción del tren Os 4708. En el MU resultaron heridas 23 personas y se produjo un daño total por importe de 452 393 Kč;
-• del día 22. 7. 2020, cuando a las 7:12 h se produjo la circulación no autorizada del tren Os 7152 más allá del nivel de la señal de vía Lc1 con señal prohibiendo la circulación y su entrada en la vía de tren establecida para la entrada del tren Os 7151 en la est. de Jablonné nad Orlicí. La causa inmediata de la producción del MU fue el incumplimiento de la señal «Alto» de la señal de vía Lc1 de la estación de Jablonné nad Orlicí por parte del maquinista del tren Os 7152. En el MU no se produjeron daños personales ni daños materiales;
-• del día 22. 7. 2020, cuando a las 14:52 h se produjo la circulación no autorizada del tren Os 7004 más allá del nivel de la señal de salida que prohibía la circulación y el consiguiente descarrilamiento en la est. de Lázně Kynžvart. La causa inmediata de la producción del MU fue la puesta en marcha no autorizada del tren sin autorización de circulación por un medio distinto de la señal de la señal principal y el consiguiente incumplimiento de la señal «Alto» de la señal principal de salida S1 de la est. de Lázně Kynžvart. En el MU resultaron heridas 3 personas y se produjo un daño total por importe de 4 580 906,50 Kč.
+salida del tren Ex 350 de la est. Ejpovice sin autorización de circulación. En el MU no se produjeron daños personales ni daños materiales;
+• del 5. 3. 2019, cuando a las 8:00 h se produjo la circulación no autorizada del tren Os 4708 más allá del nivel de la señal de viaje Lc4 con señal que prohíbe la circulación y la posterior colisión con el tren en sentido contrario Os 4711 en la est. Brno hl. n. La causa inmediata de la producción del MU fue el incumplimiento de la señal «Alto» de la señal de viaje Lc4 de la est. Brno hl. n. por parte de la persona que conduce el vehículo ferroviario de tracción del tren Os 4708. En el MU resultaron heridas 23 personas y se produjo un daño total por importe de 452 393 Kč;
+• del 22. 7. 2020, cuando a las 7:12 h se produjo la circulación no autorizada del tren Os 7152 más allá del nivel de la señal de viaje Lc1 con señal que prohíbe la circulación y su entrada en la vía de tren establecida para la entrada del tren Os 7151 en la est. Jablonné nad Orlicí. La causa inmediata de la producción del MU fue el incumplimiento de la señal «Alto» de la señal de viaje Lc1 de la estación Jablonné nad Orlicí por parte del maquinero del tren Os 7152. En el MU no se produjeron daños personales ni daños materiales;
+• del 22. 7. 2020, cuando a las 14:52 h se produjo la circulación no autorizada del tren Os 7004 más allá del nivel de la señal de salida que prohíbe la circulación y el posterior descarrilamiento en la est. Lázně Kynžvart. La causa inmediata de la producción del MU fue la puesta en marcha no autorizada del tren sin autorización de circulación por un medio distinto de la señal de la señal principal y el posterior incumplimiento de la señal «Alto» de la señal principal de salida S1 de la est. Lázně Kynžvart. En el MU resultaron heridas 3 personas y se produjo un daño total por importe de 4 580 906,50 Kč.
+
 ## 5 CONCLUSIONES
+
 ### 5.1 Resumen del análisis y conclusiones relativas a las causas del suceso
-La causa inmediata del suceso extraordinario fue:
-• el incumplimiento de la señal «Alto» de la señal principal (de vía) Sc7 de la estación de Praha Masarykovo nádraží por parte de la persona que conducía el vehículo ferroviario del tren Os 9608, causado por un descuido inconsciente, un error de la persona que conducía el vehículo ferroviario, que se manifestó en la puesta en marcha no autorizada de dicho tren sin que:
-◦ se hubiera despachado el tren Os 9608 de la estación de Praha Masarykovo nádraží,
-◦ la persona que conducía el vehículo ferroviario se hubiera convencido visualmente de si la señal principal (de vía) Sc7 de la estación de Praha Masarykovo nádraží permitía la circulación del tren.
-No fue detectado por la Inspección Ferroviaria ningún factor contribuyente del suceso extraordinario.
+
+La causa inmediata del suceso excepcional fue:
+
+• el incumplimiento de la señal «Alto» de la señal principal (de viaje) Sc7 de la estación Praha Masarykovo nádraží por parte de la persona que conduce el vehículo ferroviario del tren Os 9608, causado por un descuido inconsciente, un error de la persona que conduce el vehículo ferroviario, que se manifestó en la puesta en marcha no autorizada de dicho tren, sin que:
+◦ se hubiera despachado el tren Os 9608 de la estación Praha Masarykovo nádraží,
+◦ la persona que conduce el vehículo ferroviario se hubiera asegurado visualmente de si la señal principal (de viaje) Sc7 de la estación Praha Masarykovo nádraží permite la circulación del tren.
+
+No fue detectada por la Inspección Ferroviaria ninguna causa contribuyente del suceso excepcional.
+
 No fue detectada por la Inspección Ferroviaria ninguna causa sistémica.
+
 ### A summary of the analysis and conclusions with regard to the causes of the
 occurrence
+
 Causal factor:
+
 • failure to respect the signal „Stop” of the main (route) signal device Sc7 at Praha
 Masarykovo nádraží station by the train driver of the regional passenger train No.
 9608 due to unconscious mistake of the train driver which manifested in the
 unauthorized movement of this train without:
-◦ it was dispatched the train No. 9608 from Praha Masarykovo nádraží station;
-
+◦it was dispatched the train No. 9608 from Praha Masarykovo nádraží station;
 
 ## Página 42
+
 
 ◦ the train driver visually convinced whether the main (route) signal device Sc7 at
 Praha Masarykovo nádraží station allows movement of the train.
@@ -1313,8 +1287,8 @@ En el transportista ČD:
 At the infrastructure manager SŽ:
 • the line dispatcher 215 CDP Praha in rail traffic control:
 
-
 ## Página 43
+
 
 ◦ preferred movement of the regional passenger train No. 6903 ahead of the 
 regional passenger train No. 9608 at its regular time, which would delay it;
@@ -1347,8 +1321,8 @@ director
 de la Inspección Territorial de Ostrava
 de la Inspección Territorial de Ostrava
 
-
 ## Página 44
+
 
 ## ANEXOS
 Fig. núm. 4: Vista general de los trenes Os 6903 y Os 9608 en su posición final tras el MU en el viaducto de Negrelli desde el espacio urbano (vía pública contigua a la ul. Prvního pluku). 
@@ -1356,16 +1330,15 @@ Fuente: DI
 ### Fig. núm. 5: Imagen que documenta la distancia mutua entre los frentes de los trenes de pasajeros.
  Fuente: DI
 
-
 ## Página 45
 
-Fig. núm. 6: Vista del frente del tren Os 6903 desde la cabina del maquinista del tren Os 9608 en su posición final tras el MU en la SK núm. 701 en el ámbito del viaducto.
+Fig. n.º 6: Vista del morro frontal del tren Os 6903 desde la cabina del maquinista del tren Os 9608 en la posición final tras la MU en la SE n.º 701 en el ámbito del viaducto.
 Fuente: DI
-Fig. núm. 7: Posición del sol y dirección de la luz solar (resplandor) en el momento de la producción del MU respecto a la circulación del tren Os 9608.
+Fig. n.º 7: Posición del sol y dirección de la luz solar (resplandor) en el momento de producirse la MU respecto a la marcha del tren Os 9608.
 Fuente: www.suncalc.org (con modificación de DI)
 
-
 ## Página 46
+
 
 ### Fig. núm. 8: Posición del sol en el momento de la producción del MU – imagen, tomada el
 11. 5. 2021 con las mismas condiciones de luz que en el momento de la producción

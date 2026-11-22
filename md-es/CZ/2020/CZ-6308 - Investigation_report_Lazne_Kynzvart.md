@@ -10,13 +10,14 @@ chars: 297881
 ratio_longitud: 1.27
 tokens_in: 148873
 tokens_out: 111935
-verificacion: revisar
-notas_cifras: ["bloque 5: original bilingüe: se compara contra el idioma principal (CS)", "bloque 7: original bilingüe: se compara contra el idioma principal (CS)", "bloque 9: cifras cortas: 1/75", "bloque 10: original bilingüe: se compara contra el idioma principal (CS)", "bloque 11: original bilingüe: se compara contra el idioma principal (CS)", "bloque 13: original bilingüe: se compara contra el idioma principal (CS)"]
-avisos: ["bloque 10: ratio 1.69", "bloque 11: ratio 1.63", "bloque 13: ratio 1.64"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 4: original bilingüe: se compara contra el idioma principal (PT)", "página 7: original bilingüe: se compara contra el idioma principal (CS)", "página 8: original bilingüe: se compara contra el idioma principal (CS)", "página 11: original bilingüe: se compara contra el idioma principal (CS)", "página 15: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -41,13 +42,13 @@ IČ: 75009561
 mail@dicr.cz
 tel.: +420 736 521 003
 
-
 ## Página 2
+
 
 Este informe final es público y todos los hechos en él expuestos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ### 1 RESUMEN
 Fuente: Drážní inspekce
@@ -68,26 +69,24 @@ puesta en marcha no autorizada del tren sin autorización de circulación por un
 •
 de la señal principal y posterior incumplimiento de la señal «Alto» de la señal principal de salida S1 de la est. Lázně Kynžvart.
 
-
 ## Página 4
 
 Factores contribuyentes:
-no registro del número funcional válido del tren Os 7004 en la red de radio digital GSM-R y no realización de una prueba funcional de la conexión básica mediante la comprobación de la validez de los datos de dicho registro;
-•
-ausencia de un sistema automático de aviso a bordo del tren que permita la transmisión de las señales de las señales principales y de las señales de preaviso a la cabina de conducción del conductor del vehículo ferroviario.
-No fue detectada por la Drážní inspekce una causa en el sistema de seguridad.
+- no se realizó el registro del número funcional válido del tren Os 7004 en la red digital de radio GSM-R y no se realizó la prueba funcional de la conexión básica mediante la verificación de la validez de los datos de dicho registro;
+- ausencia de un dispositivo móvil de seguridad ferroviaria que permita la transmisión de las señales de los principales señales y de las preseñales a la cabina del maquinista que conduce el vehículo ferroviario.
+
+No se ha detectado por parte de la Inspección Ferroviaria una causa en el sistema de seguridad.
+
 Recomendaciones de seguridad:
-La Drážní inspekce, con base en lo dispuesto en el § 53e apartado 1 de la Ley n.º 266/1994 Sb., recomienda, en relación con la prevención de sucesos ferroviarios:
+La Inspección Ferroviaria, con base en lo dispuesto en el § 53e apartado 1 de la Ley n.º 266/1994 Sb., recomienda, en relación con la prevención de sucesos extraordinarios:
 
-Al Drážní úřad:
-en el marco del aumento del nivel de seguridad, garantizar que el transportista y el gestor de la vía realicen la comprobación de la funcionalidad de la conexión de radio básica de forma conjunta, de manera que, mediante la incorporación de otro elemento de seguridad, ya sea mediante la determinación de procedimientos tecnológicos comunes o mediante una actividad de control eficaz y coordinada, se reduzca la posibilidad de riesgo de fallo del factor humano;
-•
-iniciar la mejora de la cooperación y la coordinación mutuas entre los gestores de las vías y los transportistas en la gestión de los riesgos, especialmente en los casos concretos en los que se produce una interacción mutua en una interfaz común, con énfasis en la eliminación del fallo del factor humano;
-en el marco de sus competencias, garantizar que el sistema de gestión de la seguridad adoptado, en particular el método de evaluación de riesgos y la adopción de medidas de gestión de riesgos, sea aplicado por el gestor de la vía y el transportista de forma que sus procedimientos y métodos establecidos de manera general se apliquen de forma más eficaz no solo a las situaciones operativas concretas, sino también en los casos en los que, en el marco de la modernización, optimización o reconstrucción de la infraestructura, se produzcan cambios técnicos, operativos y organizativos.
-•
-
+Al Organismo Ferroviario:
+- dentro del aumento del nivel de seguridad, garantizar que el transportista y el gestor de la infraestructura realicen la verificación de la funcionalidad de la conexión básica de radio de forma conjunta, de modo que, mediante la incorporación de un elemento de seguridad adicional, ya sea mediante la determinación de procedimientos tecnológicos comunes o mediante una actividad de verificación eficaz y coordinada, se reduzca la posibilidad de riesgo de fallo del factor humano;
+- impulsar la mejora de la colaboración y la coordinación mutua entre los gestores de la infraestructura y los transportistas en la gestión de riesgos, especialmente en los casos concretos en los que se produce una interacción mutua en una interfaz común, con énfasis en la eliminación del fallo del factor humano;
+- dentro de sus competencias, garantizar que el sistema de garantía de seguridad adoptado, en particular el método de evaluación de riesgos y la adopción de medidas para la gestión de riesgos, sea aplicado por el gestor de la infraestructura y el transportista de manera que sus procedimientos y métodos establecidos de forma general se apliquen de manera más eficaz no solo a las situaciones operativas concretas, sino también en los casos en los que, dentro de la modernización, optimización o reconstrucción de la infraestructura, se producen cambios técnicos, operativos y organizativos.
 
 ## Página 5
+
 
 ### SUMMARY
 22nd July 2020, 14:52 (12:52 GMT).
@@ -141,8 +140,8 @@ IMs and RUs in the risk management, especially in specific cases where there is
 mutual interaction at a common interface, with emphasis on eliminating human
 factor failure;
 
-
 ## Página 6
+
 
 as a part of its powers, we recommend that the NSA ensure that the adopted safety
 •
@@ -153,8 +152,8 @@ effectively not only to the specific operational situations but also in cases wh
 within modernization, optimalization or reconstruction of the infrastructure, there are
 technical, operational and organizational changes.
 
-
 ## Página 7
+
 
 # Índice
 1 RESUMEN........................................................................................................................3
@@ -198,6 +197,7 @@ SUMMARY.........................................................................
 
 ## Página 8
 
+
 4.2.2 Factores o consecuencias derivados de la instalación y puesta en servicio de vehículos ferroviarios, infraestructura ferroviaria o instalación técnica......................................41
 4.2.3 Factores o consecuencias relacionados con los fabricantes de vehículos ferroviarios u otro proveedor de productos ferroviarios............................................................................42
 4.2.4 Factores o consecuencias derivados del mantenimiento y modificación de vehículos ferroviarios o instalaciones técnicas....................................................................................................42
@@ -227,8 +227,8 @@ y talleres de mantenimiento.....................................................
 6 RECOMENDACIONES DE SEGURIDAD.....................................................................................86
 ANEXOS..............................................................................................................................88
 
-
 ## Página 9
+
 
 ### Lista de siglas y símbolos utilizados
 CDP
@@ -320,8 +320,8 @@ Informe final sobre los resultados de la investigación del suceso extraordinari
 žst.
 estación ferroviaria
 
-
 ## Página 10
+
 
 ### Lista de siglas de la legislación, normas y disposiciones internas utilizadas
 ley núm. 266/1994 Sb.
@@ -381,8 +381,8 @@ Reglamento para el uso del conjunto de sistemas de información de explotación
 del gestor de la infraestructura (SPIS)", en la redacción vigente
 en el momento de la ocurrencia del suceso extraordinario
 
-
 ## Página 11
+
 
 SŽDC (ČD) Z11
 disposición interna del gestor de la infraestructura SŽ, "SŽDC (ČD) Z11
@@ -437,8 +437,8 @@ documento del gestor de la infraestructura SŽ, "Declaración de la
 infraestructura nacional y de las infraestructuras regionales válida para la preparación
 del horario 2020, y para el horario 2020", n.º de expediente
 
-
 ## Página 12
+
 
 56258/2018-SZDC-GŘ-O12, en la redacción vigente en el momento
 de la ocurrencia del suceso extraordinario
@@ -496,6 +496,7 @@ de la ocurrencia del suceso extraordinario
 
 ## Página 13
 
+
 Reglamento del Sistema de Gestión de Riesgos
 documento interno del transportista ČD, "Reglamento del Sistema de Gestión de Riesgos de la sociedad České dráhy, a.s.", en la versión vigente en el momento de la ocurrencia del suceso ferroviario
 Reglamento de Trabajo de České dráhy
@@ -515,8 +516,8 @@ Reglamento Delegado de la Comisión (UE) n.º 1158/2010 por el que se establece 
 Reglamento (UE) n.º 1169/2010
 Reglamento Delegado de la Comisión (UE) n.º 1169/2010 por el que se establece un método común de seguridad para la evaluación de la conformidad con los requisitos para la obtención de la aprobación desde el punto de vista de la seguridad ferroviaria, en la versión vigente en el momento de la ocurrencia del suceso ferroviario
 
-
 ## Página 14
+
 
 ### 2 INVESTIGACIÓN Y SUS RELACIONES
 ### 2.1 Decisión de iniciar la investigación
@@ -550,8 +551,8 @@ análisis de los datos registrados por los registradores de velocidad de los veh
 •
 ferroviarios participantes;
 
-
 ## Página 15
+
 
 análisis de los datos sobre el funcionamiento del dispositivo de enclavamiento, incluido
 •
@@ -589,8 +590,8 @@ Coordenadas GPS:
 ### 3.1.3 Descripción del lugar del suceso
 La est. Lázně Kynžvart se sitúa en la vía férrea nacional Plzeň hl. n. – Cheb en el pk 432,286, que es de vía única en el tramo Pňovany – Lipová u Chebu y de doble vía en los tramos Plzeň hl. n. – Pňovany y Lipová u Chebu – Cheb. La estación no está permanentemente atendida por un jefe de estación y es
 
-
 ## Página 16
+
 
 controlada en remoto en su estado básico desde el puesto de trabajo del regulador de línea CDP Praha, sala de regulación 3C o desde el puesto de trabajo del jefe de estación de guardia en la est. Cheb, con la posibilidad de ceder la estación al control local al jefe de estación en la est. Lázně Kynžvart. La estación está equipada con un dispositivo electrónico de enclavamiento de estación ESA con puesto de operación unificado (JOP) con desviables electromotores y señales luminosas. Para la detección de la libertad u ocupación de las vías de tráfico sirven los circuitos de vía KOA-1 con una frecuencia de 275 Hz. El código VZ se transmite a las vías de estación n.º 1, 2, 3, 5. En la estación hay 4 vías de tráfico y 2 vías de maniobra. La preparación de la ruta de tren en el control remoto de la est. la realiza el regulador de línea CDP Praha o el jefe de estación PPV Cheb mediante el dispositivo JOP. En el control local de la est. desde el JOP, la preparación de la ruta de tren la realiza el jefe de estación mediante el puesto de operación local. En caso de avería del puesto de operación local, el jefe de estación opera determinados elementos del dispositivo de enclavamiento en un alcance limitado desde el panel de operaciones de emergencia. Se considera que el tren ha llegado íntegro cuando el tren completo ha pasado la señal de entrada correspondiente a la dirección pertinente.
 ### estación D3
@@ -617,8 +618,8 @@ Fig. n.º 1: Esquema del lugar de ocurrencia del suceso ferroviario
      Fuente: mapy.cz con modificación del DI
 Con el funcionamiento correcto del TZZ, el regulador de línea CDP Praha o el jefe de estación PPV Cheb (el jefe de estación en la est. Lázně Kynžvart en el control local desde el JOP) comprueba que el tren ha llegado íntegro según las indicaciones y el estado del dispositivo de enclavamiento. La función "Aviso por paso no autorizado de señal" (VNPN) no está establecida en el SZZ.
 
-
 ## Página 17
+
 
  lugar de parada del tren Os 7004
 sentido Plzeň
@@ -646,59 +647,80 @@ la señal de salida S1 era visible a una distancia de 252 m;
 el andén de señalización con la señal de salida S1 estaba situado en el pk 431,808;
 •
 
-
 ## Página 18
 
-la 1. SK en dirección a la est. Valy u Mariánských Lázní desde el pk 432,090 hasta el
+1. La SK en dirección a la est. Valy u Mariánských Lázní desde el pk 432,090 hasta el pk 431,740
 •
-pk 431,740 en un arco derecho de radio 480 m, en pendiente 1,54 ‰;
-el desvío n.º 2, maniobrado centralmente, con cierre de lengüeta, con calefacción
+en una curva derecha de radio 480 m, en rampa de 1,54 ‰;
+la aguja n.º 2, maniobrada centralmente, con cierre de lengüeta, con calefacción
 •
-eléctrica de la parte de cambio, en el momento de la ocurrencia del suceso ferroviario era operado desde el JOP CDP Praha y estaba desviado para la circulación del tren desde la 2. SK;
-el tren Os 7004, durante el suceso ferroviario, recorría el desvío n.º 2 por la punta
+eléctrica de la parte de cambio, en el momento del suceso ferroviario estaba
+maniobrada desde el JOP CDP Praga y estaba dispuesta para la circulación del tren
+desde la 2. SK;
+el tren Os 7004, durante el suceso ferroviario, circuló por la aguja n.º 2 con la
 •
-desde la 1. SK y durante la circulación por la parte de lengüeta se produjo el trepado de las ruedas sobre los cantos de los raíles, y esto en ambos lados. Posteriormente, el primer bogie del tren Os 7004 descarriló a la derecha en el sentido de circulación, en el pk 431,688, donde se determinó el punto "0";
-durante el suceso ferroviario se produjo el daño en el cierre de lengüeta, en la varilla y
+punta desde la 1. SK y, al circular por la parte de lengüeta, se produjo el
+escalado de las ruedas sobre los cantos de los raíles, en ambos lados. A
+continuación, el primer bogie del tren Os 7004 descarriló a la derecha en el
+sentido de circulación, en el pk 431,688, donde se determinó el punto "0";
+durante el suceso ferroviario se produjo el daño en el cierre de lengüeta, en la
 •
-en el desviablel del desvío n.º 2;
-además, el tren Os 7004, ya descarrilado, dañó con su circulación la superestructura
+varilla y en el mecanismo de cambio de la aguja n.º 2;
+además, el tren Os 7004, ya descarrilado, dañó con su circulación la
 •
-ferroviaria hasta el desvío n.º 1;
-el desvío n.º 1, maniobrado centralmente, con cierre de lengüeta, con calefacción
+superestructura ferroviaria hasta la aguja n.º 1;
+la aguja n.º 1, maniobrada centralmente, con cierre de lengüeta, con calefacción
 •
-eléctrica de la parte de cambio, en el momento de la ocurrencia del suceso ferroviario era operado desde el JOP CDP Praha y estaba desviado para la circulación del tren desde la 3. SK;
-ya descarrilado en el desvío n.º 2, el tren Os 7004 recorrió a continuación el desvío
+eléctrica de la parte de cambio, en el momento del suceso ferroviario estaba
+maniobrada desde el JOP CDP Praga y estaba dispuesta para la circulación del tren
+desde la 3. SK;
+el tren Os 7004, ya descarrilado en la aguja n.º 2, circuló a continuación por la
 •
-n.º 1 por la punta con las ruedas izquierdas entre la lengüeta y el riel de apoyo en el lado izquierdo del desvío y las ruedas derechas entre la lengüeta derecha y el riel de apoyo en el lado derecho del desvío; en la punta del desvío n.º 1 se produjo nuevamente el trepado de las ruedas sobre los cantos de los raíles, el paso del bogie al lado izquierdo de las bandas de raíl y la continuación de la circulación por el lado izquierdo de la vía en el lecho de balasto;
-el tren Os 7004 se detuvo a continuación, con la cabeza en el pk 431,600;
+aguja n.º 1 con la punta, con las ruedas izquierdas entre la lengüeta y el
+apoyo en el lado izquierdo de la aguja y las ruedas derechas entre la lengüeta
+derecha y el apoyo en el lado derecho de la aguja; en la punta de la aguja n.º 1
+se produjo nuevamente el escalado de las ruedas sobre los cantos de los raíles,
+la circulación del bogie al lado izquierdo de las bandas de raíl y la continuación
+de la circulación por el lado izquierdo de la vía en el lecho de balasto;
+el tren Os 7004 se detuvo a continuación, con el morro en el pk 431,600;
 •
-durante el suceso ferroviario se produjo el daño en 42 traviesas de hormigón, incluidos
+durante el suceso ferroviario se produjo el daño en 42 traviesas de hormigón,
 •
-los sistemas de fijación, el daño y la deformación de las lengüetas de los desvíos n.º 1 y n.º 2, de sus apoyos y 1 barra de retención.
-Estado de los vehículos ferroviarios:
+incluidos los sistemas de fijación, el daño y la deformación de las lengüetas de
+las agujas n.º 1 y n.º 2, de sus apoyos y de 1 pieza de sujeción.
+
+Estado del material rodante:
 Tren Os 7004:
-la composición del tren Os 7004 estaba formada por el coche de mando CZ-ČD 95 54 5
+la composición del tren Os 7004 estaba formada por el coche de mando CZ-ČD
 •
-914 044-3 y el coche motor CZ-ČD 95 54 5 814 044-4 (en el sentido de circulación del tren), el titular era ČD, OCÚ Západ. El tren tenía un total de 2 vehículos ferroviarios, 4 ejes, una longitud total de 27,44 metros y un peso de 47 toneladas;
+95 54 5 914 044-3 y el coche motor CZ-ČD 95 54 5 814 044-4 (en el sentido de
+circulación del tren), el titular era ČD, OCÚ Západ. El tren tenía un total de 2
+vehículos ferroviarios, 4 ejes, una longitud total de 27,44 metros y un peso de
+47 toneladas;
 no estaba señalizado con las señales "Inicio de tren" y "Fin de tren" debido a la
 •
-desconexión de la alimentación de los circuitos eléctricos (peligro de incendio tras el descarrilamiento del tren);
-la cabeza del tren Os 7004 en el lugar de la posición final tras el suceso ferroviario se
+desconexión de la alimentación de los circuitos eléctricos (peligro de incendio
+tras el descarrilamiento del tren);
+el morro del tren Os 7004 se encontraba en el lugar de la posición final tras el
 •
-encontraba en el pk 431,600;
+suceso ferroviario en el pk 431,600;
 el tren estaba descarrilado en todos sus ejes;
 •
-durante el descarrilamiento se produjo una inclinación de la composición de aprox. 40° y
+con el descarrilamiento se produjo una inclinación de la composición de
 •
-el riesgo de su posterior vuelco sobre el costado izquierdo en el sentido de la circulación precedente. Por este motivo, el IZS realizó el bloqueo de la composición mediante su anclaje a la superestructura ferroviaria;
-por razones de seguridad, fue posible realizar en el lugar del suceso ferroviario una
+aproximadamente 40° y el riesgo de su posterior vuelco sobre el costado izquierdo
+en el sentido de la circulación anterior. Por este motivo, el IZS procedió al
+bloqueo de la composición mediante su anclaje a la superestructura ferroviaria;
+por motivos de seguridad, fue posible realizar en el lugar del suceso ferroviario
 •
-inspección más detallada de las partes interiores de los vehículos ferroviarios objeto de estudio solo de forma limitada; no obstante, se constató:
+una inspección más detallada de las partes interiores de los vehículos
+ferroviarios mencionados solo de forma limitada; no obstante, se constató:
 ➢el manómetro de presión de aire en el cilindro de freno indicaba un valor de 1,2 bares;
 ➢el manómetro de presión de aire en la tubería principal indicaba un valor de 0 bares;
-➢el manómetro de presión de aire en el depósito de aire principal indicaba un valor de 0 bares;
+➢el manómetro de presión de aire en el depósito principal de aire indicaba un valor de 0 bares;
 
 ## Página 19
+
 
 ➢todas las pantallas de los indicadores de valores electrónicos y los indicadores digitales del velocímetro electrónico Unicontrols – Tramex estaban apagados, la aguja mecánica indicaba el valor 0 km.h-1;
 ➢por la razón anterior no fue posible comprobar y verificar la configuración de la comunicación radio del tren Os 7004, es decir, la configuración del número de tren correspondiente ni el modo TRS o GSM-R y otros datos, porque para evitar un posible aumento del alcance de los daños y la amenaza de incendio del material rodante, antes de iniciar el examen, los miembros de los servicios de emergencia (IZS) desconectaron el suministro y el control de los circuitos del material rodante;
@@ -725,8 +747,8 @@ En el examen del lugar de producción del suceso extraordinario se constató que
 
 La estimación de los daños al material rodante del tren Os 7004 ascendió a 2 millones de coronas checas y a los equipos de la infraestructura 3 millones de coronas checas. En el tren Os 7004 viajaban 5 pasajeros, en el tren Ex 515 viajaban 93 pasajeros.
 
-
 ## Página 20
+
 
 Condiciones meteorológicas:
 temperatura exterior + 21 °C, período diurno, parcialmente nublado, la visibilidad no se vio reducida por influencias meteorológicas.
@@ -766,8 +788,8 @@ Gestor de la infraestructura (SŽ):
 
 Transportista (ČD):
 
-
 ## Página 21
+
 
 • maquinista del tren Os 7004, empleado de ČD.
 
@@ -810,8 +832,8 @@ El material rodante del tren Os 7004, es decir, la unidad automotora n.º 814.04
 
 La última revisión técnica periódica antes de producirse el suceso extraordinario se realizó el día 9. 6. 2020 y el 10. 12. 2019, con validez hasta el 9. 12. 2020 y el 10. 12. 2020 respectivamente, con el resultado de que el estado técnico del material rodante correspondía a la aptitud aprobada.
 
-
 ## Página 22
+
 
 La unidad automotora está equipada con control de atención del maquinista. Dado que la velocidad de construcción de la unidad automotora no supera los 100 km.h-1, la unidad automotora no estaba equipada, conforme al anexo n.º 3, parte II, artículo 5 del decreto n.º 173/1995 Sb., con la parte móvil del protector de tren nacional.
 
@@ -844,8 +866,8 @@ El día 6. 8. 2020, por personas cualificadas del transportista y con la presenc
 | Masa (t): | 412 | Coche de tracción intercalado: | 935466840011 - |  |
 | Porcentaje de frenado necesario (%): | 150 | Coche no motor intercalado: | 935460840017 - |  |
 
-
 ## Página 23
+
 
 |  |  | : |  |  |
 | Porcentaje de frenado real (%): | 194 | Coche bufé intercalado: | 935466830012 - |  |
@@ -877,6 +899,7 @@ De los datos registrados se desprende:
 
 ## Página 24
 
+
 Nota: se detectó una desviación de la hora registrada respecto de la hora real de -22 s.
 Durante la circulación por la 3.ª vía principal, el maquinista del tren Ex 515 reaccionó a la señal en el repetidor de señal del protector de tren nacional reduciendo la velocidad de forma progresiva y deteniendo el tren de forma segura a 80 m antes de la señal de salida S3 en posición «Alto».
 Del registro del registrador de velocidad del HDV 682.001-3 se desprende que, en el ámbito de la est. Lázně Kynžvart, no se superó la velocidad máxima permitida del tren Ex 515, es decir, 60 km·h-1, durante la circulación por la 3.ª vía principal. El protector de tren estaba en funcionamiento y fue operado por el maquinista durante la circulación.
@@ -887,8 +910,8 @@ La cabina del maquinista del tren Os 7004 está dispuesta de modo que el maquini
 La estación de ferrocarril Lázně Kynžvart se sitúa en el pk 432,286 de la línea general Plzeň hl. n. – Cheb, que es de vía única en el tramo Pňovany – Lipová u Chebu y de doble vía en los tramos Plzeň hl. n. – Pňovany y Lipová u Chebu – Cheb. La estación no está permanentemente ocupada por un jefe de estación y se controla de forma remota en estado básico desde el puesto del despachador de línea CDP Praha, sala de despacho 3C, o desde el puesto del jefe de estación de guardia en la est. Cheb, con posibilidad de traspaso al control local al jefe de estación en la est. Lázně Kynžvart.
 En la estación hay un dispositivo de seguridad de 3.ª categoría – dispositivo electrónico de seguridad de estación ESA con puesto de operación unificado (JOP) con enclavadores electromotores y señales luminosas. Para la detección de la libertad u ocupación de las vías de tráfico sirven los circuitos de vía KOA-1 con una frecuencia de 275 Hz. El código VZ se transmite a las vías de estación n.º 1, 2, 3, 5.
 
-
 ## Página 25
+
 
 Las señales del protector de tren con frecuencia de codificación de 75 Hz se transmiten de forma continua a la unidad de tracción equipada con la parte móvil del protector de tren nacional, siempre que se haya establecido una ruta de tren para el tren:
 en toda la longitud de la ruta durante la circulación del tren por la 1.ª vía principal con los desvíos en posición básica;
@@ -906,8 +929,8 @@ Para garantizar la operatividad de la vía y la seguridad del transporte ferrovi
 El SZZ de 3.ª categoría tipo ESA 11 tiene un Certificado de idoneidad del dispositivo técnico designado válido, n.º ref.: PZ 1321/10-E.49, emitido por el DÚ el 12. 7. 2010, sin indicación del plazo de vigencia. El UTZ es idóneo para la explotación sobre la base del Acta de la inspección técnica y ensayo realizados n.º 202/2010/01-CH de fecha 8. 7. 2010.
 La última inspección y ensayo del dispositivo técnico designado se realizó sobre la base del Acta de inspección y ensayo del UTZ, cuyos circuitos cumplen la función de garantía directa de la seguridad del transporte ferroviario, n.º 310/2020-LP, el día 30. 4. 2020, con la conclusión: «El dispositivo de seguridad
 
-
 ## Página 26
+
 
 inspeccionado y ensayado en este acta sigue cumpliendo la función de garantía directa de la seguridad del transporte ferroviario y es operativamente idóneo.»
 Del análisis del archivo de datos descargado del ordenador tecnológico TPC1 en la est. Lázně Kynžvart SZZ ESA 11 y del análisis del Acta GTN se constató:
@@ -939,8 +962,8 @@ de la señal de sección del bloque automático 4340 con la señal «Espere velo
 •
 de la señal de entrada S, en la señal de salida S3 la señal es «Velocidad 60 km/h y libre», indicación de ocupación del circuito de vía de la 1.ª vía principal por el tren Os 7004 y del circuito de vía de la 2.ª vía principal por el tren Os 7380, en la
 
-
 ## Página 27
+
 
 señal de salida S1 la señal es «Alto»;
 14:52:16 h – indicación de la entrada del primer vehículo ferroviario del tren Os 7004 tras la señal
@@ -977,6 +1000,7 @@ Del análisis de los datos se desprende además de forma comprobable que la ruta
 
 ## Página 28
 
+
 desvías n.º 1 y 2 y, a la vez, de la entrada en el itinerario de tren establecido para el tren Ex 515. El SZZ reaccionó de la manera prescrita, es decir, en la señal de salida S3 se produjo el cambio de la señal «Velocidad 60 km/h y vía libre» a la señal «Alto» y se inició la emisión de la frecuencia de la luz roja en la parte móvil del asegurador nacional de tren. No se canceló ningún itinerario de tren de forma de emergencia.
 ### 3.1.9 Cualquier otra información relevante para los fines de la descripción del suceso y de la información básica
 Resumen de las explicaciones prestadas por los empleados del gestor de la infraestructura y del transportista, incluidas las personas con relación contractual:
@@ -994,8 +1018,8 @@ A las preguntas formuladas a continuación, el despachador del CDP respondió, e
 ◦Pregunta: ¿Era usted consciente, ya fuera antes o después de la parada del tren Os 7004 junto al andén en la est. Lázně Kynžvart, de que su maquinista no veía la señal de salida, de que entraba en la señal «Aviso» de la señal de entrada y de que el asegurador del tren del vehículo ferroviario de tracción no estaba equipado con la transmisión de señales a la cabina del maquinista, y de que por tanto existía la obligación de poner el tren en movimiento solo tras la autorización de circulación del tren por un medio distinto de la señal de la señal principal? Si es así, ¿cuándo, según su opinión, debería haberse informado al maquinista de este hecho?
 ◦Respuesta: No, de eso no era consciente. En el momento en que el tren se encontraba aproximadamente antes de Dolní Žandov, decidí establecer comunicación con el maquinista del tren Os 7004 e informarle de que sería adelantado en Lázně Kynžvart por el tren Ex 515. La aplicación GTN, sin embargo, mostró que este tren no estaba conectado a la conexión básica GSM-R. Además, tuve que dedicarme a organizar el tráfico en el resto del ámbito
 
-
 ## Página 29
+
 
 de dirección. La entrada del tren Os 7004 la establecí posteriormente mediante la orden VCO, es decir, itinerario de tren con limitación. En cuanto el tren Os 7004 entró en la estación, establecí el itinerario de tren del tren Ex 515 hacia y desde la tercera vía.
 ◦Pregunta: ¿Tiene usted conocimiento de las condiciones de línea y de estación en los tramos que dirige?
@@ -1011,8 +1035,8 @@ de dirección. La entrada del tren Os 7004 la establecí posteriormente mediante
 ◦Pregunta: ¿Está usted informado y de qué manera en el turno sobre el tipo de vehículo ferroviario de tracción en los trenes individuales de su ámbito de dirección, especialmente sobre el cambio de HDV respecto a la composición regular? ¿Se le ha hecho saber de forma fehaciente y de qué manera que algunos de estos HDV no tienen transmisión de señales a la cabina del maquinista?
 ◦Respuesta: El cambio de HDV suele indicarse en la aplicación GTN, sin embargo, de ninguna de estas comunicaciones se desprende si el HDV tiene o no transmisión de señales a la cabina del maquinista. Se trata únicamente de un sistema informativo.
 
-
 ## Página 30
+
 
 ◦Pregunta: Indique si, en su caso, cuando el SZZ se controla en el control a distancia desde el puesto de trabajo del despachador de línea del CDP Praga, durante el desempeño del servicio se encuentra con la autorización de circulación de un tren por un medio distinto de la señal de la señal principal, es decir, en el caso en que esta autorización está permitida por las normativas correspondientes, pero el maquinista no ve que la señal principal vigente para la vía de tráfico en la que se encuentra la cabeza del tren permite la salida del tren, ni tampoco podía averiguar este hecho de la señal de la señal principal anterior, de la preseñal independiente o del asegurador del tren?
 ◦Respuesta: Ya me he pronunciado sobre la cuestión planteada en las respuestas a las preguntas anteriores; solo quisiera añadir que, si el maquinista solicita la autorización de circulación por el motivo de que no ve la señal de salida, entonces le autorizo de la manera prescrita.
@@ -1027,8 +1051,8 @@ maquinista del tren Os 7004
 ◦durante el turno se presentó una complicación en el sentido de que los vehículos 814/914 tenían un mal estado técnico, cuando las indicaciones le anunciaban sobrecalentamiento del motor y de la transmisión delantera, y ello durante la subida a Stebnica. Empezaba a generarse retraso y, además de la actividad habitual, tuvo que resolver también la limitación del sobrecalentamiento. Debido a las condiciones de pendiente, esta serie es además insuficiente en potencia, y los retrasos se producían no solo en relación con el sobrecalentamiento del motor;
 ◦primero, a las 13:47 h, se presentó ante los maquinistas en Cheb para el inicio del servicio. Recibió información sobre el desarrollo del turno y luego se trasladó a la estación para la recepción del tren Os 7004. Este lo recibió junto con la información de que la automotora no tenía potencia suficiente («es perezosa»). Recibió el tren con un ligero retraso, con el que también salió de la est. Cheb. En el trayecto hasta la primera parada, Všeboř, aún no ocurría nada, pero durante la subida a Stebnica ya registró el cambio de temperatura del motor y de la caja de cambios. Entre Stebnica y Lipová u Chebu la temperatura ya era muy alta y ya tuvo que ocuparse de cómo resolver la situación. Se decidió entre informar al despachador DOZ, al maquinista o si lo resolvería él. De momento decidió que llegaría. La solución para reducir la temperatura del motor y llegar a la estación de destino fue encender la calefacción del tren y reducir la velocidad, con la expectativa de que, si ocurría algo, recibiría la consulta del despachador DOZ. El retraso aumentaba progresivamente, el itinerario de tren seguía establecido, tenía vía «libre». Su idea era que
 
-
 ## Página 31
+
 
 físicamente revisaría el vehículo en la estación de destino Mariánské Lázně. La indicación de temperatura seguía mostrando una temperatura por encima de 100 grados, pero por experiencia sabe que estos sensores indican mal, por lo que quería revisarlo en la estación de destino. Además de la actividad habitual, tuvo que resolver una situación bastante estresante, en la que tenía que decidir correctamente si ya no continuaría por el motivo del sobrecalentamiento del motor, o si intentaría llegar y, en su caso, arriesgarse a quedarse atascado en la línea. Como hasta ahora el itinerario de tren estaba en «Libre», suponía que seguiría siéndolo y entró en Lázně Kynžvart con la expectativa de que en la señal de entrada estuviera «Libre», seguía vigilando la indicación de temperatura del motor y de la caja de cambios. En lo que recuerda, el retraso ya era de nueve minutos. En la est. Kynžvart entró con potencia reducida por el motivo de ahorrar la máquina;
 ◦en la est. Lázně Kynžvart se detuvo aproximadamente en la mitad del andén, en el lugar de la parada regular junto al «Pragotron» en dirección a Mariánské Lázně;
@@ -1041,6 +1065,7 @@ A las preguntas formuladas a continuación, el maquinista del tren Os 7004 respo
 ◦Pregunta: Indique si, durante el desempeño del servicio, se encuentra con la autorización de circulación de un tren por un medio distinto de la señal de la señal principal en el caso en que esta autorización está permitida por las normativas correspondientes, pero el maquinista no ve que la señal principal vigente para la vía de tráfico en la que se encuentra la cabeza del tren permite la salida del tren, ni tampoco averiguó este hecho de la señal de la señal principal anterior, de la preseñal independiente o del asegurador del tren?
 
 ## Página 32
+
 
 ◦Respuesta: Sí, en mi práctica me encuentro con esta situación.
 ◦Pregunta: ¿De qué manera, si le es conocido, se resuelve la inclusión extraordinaria de otro tipo de vehículo ferroviario de tracción en los trenes de su turno de servicio regular y cómo se informa a las personas que organizan el transporte ferroviario de estos cambios extraordinarios, principalmente, como en este caso, cuando el freno automático de tren no transmite las señales a la cabina del maquinista? ¿Fue esta problemática objeto de comunicación verbal entre usted y el despachador de DOZ CDP Praga antes de la parada del tren Os 7004 en la est. Lázně Kynžvart?
@@ -1061,46 +1086,83 @@ jefe de tren del tren Os 7004
 ◦a su tren llegó también la tripulación del Pendolino, que se detuvo tras su tren descarrilado y les ayudaron con la extracción de los pasajeros,
 ◦a ella misma después la trasladó el servicio de ambulancias a Cheb para su tratamiento.
 
-
 ## Página 33
 
-maquinista del tren Ex 515 – Registro oficial de la declaración prestada ante la Policía Nacional (PČR):
+maquinista del tren Ex 515 – Registro oficial de la declaración prestada ante la Policía:
 •
 ◦trabaja como maquinista desde el año 1977;
-◦el 22. 7. 2020 a las 10:13 h se incorporó al trabajo, el contenido del trabajo era la conducción de los trenes Ex 512 y Ex 515 en el tramo Praha – Františkovy Lázně – Bohumín;
+◦el 22. 7. 2020 a las 10:13 h se incorporó al trabajo, su función consistía en conducir
+los trenes Ex 512 y Ex 515 en el tramo Praga – Františkovy Lázně – Bohumín;
 ◦salió de Františkovy Lázně con el tren Ex 515 según el horario a las 14:27 h;
-◦pasó por las estaciones Lipová u Chebu, Dolní Žandov y antes de Lázně Kynžvart se señalizó la velocidad limitada de entrada a la estación, esto para él significa que no debe superar la velocidad, en este caso 60 km.h-1, y debe esperar en el semáforo de salida más próximo la señal «Alto»;
-◦frenó operativamente a 60 km.h-1 y a unos 200 metros del semáforo de salida se detuvo operativamente, fue en el 3. SK;
-◦cuando se detuvo, vio delante de él en la cabecera un tren de pasajeros que estaba descarrilado y estaba inclinado en un ángulo de unos 45 grados. Este suceso extraordinario lo comunicó inmediatamente por radio al despachador;
-◦antes de este incidente no se comunicó con nadie, solo se guió por los semáforos;
-◦no era consciente de que en algún lugar estuviera o no estuviera el tren Os 7004, ni siquiera llegó a la est. Mariánské Lázně, no sabe dónde debía estar ese tren ni dónde debía cruzárselo. De que ese tren tuviera retraso se enteró en absoluto, y aunque lo hubiera sabido, se habría guiado igualmente solo por los semáforos y el horario.
-### 3.2 Descripción fáctica del suceso
-### 3.2.1 Secuencia de hechos que condujeron al suceso extraordinario
-El maquinista del tren Os 7004 se incorporó al turno en OCP Oeste, puesto de trabajo Cheb a las 13:47 h del 22. 7. 2020, y posteriormente en la est. Cheb también a dicho tren, donde sustituyó al maquinista saliente, que había conducido este tren desde la est. de origen Karlovy Vary con la llegada real a la est. Cheb a las 14:24 horas. La salida regular del tren Os 7004 de Cheb era, según el gráfico de tráfico ferroviario, a las 14:19 h. La salida real del tren Os 7004 se produjo tras la expedición reglamentaria a las 14:25 h con un retraso de 6 minutos.
-El tren estaba extraordinariamente compuesto por una unidad automotora de la serie 814/914, es decir, una unidad automotora cuya velocidad de construcción es 80 km.h-1. Se trataba de un tren regular de transporte de pasajeros, donde está planificada la serie de vehículo de tracción 844, que tiene una velocidad de construcción de 120 km.h-1 y, a diferencia de la unidad automotora de la serie 814/914, está equipada con la parte móvil del freno automático de tren nacional. El 22. 7. 2020 el transportista ČD introdujo en los sistemas de información del gestor de la vía información sobre el cambio en la composición del tren y, además, información sobre la conexión básica a través de la red de radio de tren TRS y GSM-R y la conexión de emergencia a través de teléfono móvil. El gestor de la vía no fue informado de la reducción de la velocidad del tren respecto a la velocidad establecida en 10 km.h-1 o más. En el tren Os 7004, además, no se realizó a través de la radio de a bordo el registro del número funcional del tren en la red de radio digital GSM-R. Con el mencionado tren, por tanto, no era posible establecer la conexión básica con el número funcional del tren a través de la red de radio GSM-R.
-Según el extracto de la aplicación operativa GTN, el tren Os 7004 salió del 1. SK de la est. Dolní Žandov a las 14:45 h con un retraso de ocho minutos y medio. El despachador de vía CDP Praga, en vista del creciente retraso del tren Os 7004, decidió que este tren sería adelantado por el tren Ex 515 en
+◦pasó por las estaciones Lipová u Chebu, Dolní Žandov y antes de Lázně Kynžvart se
+señalizó la velocidad limitada de entrada a la estación, lo que para él significa que
+no debe superar la velocidad, en este caso 60 km.h-1, y debe esperar en el
+semáforo de salida más próximo la señal «Alto»;
+◦frenó operativamente a 60 km.h-1 y a unos 200 metros antes del semáforo de
+salida se detuvo operativamente, fue en la 3.ª vía;
+◦al detenerse, vio delante de él en la cabecera un tren de pasajeros que estaba
+descarrilado y permanecía inclinado en un ángulo de unos 45 grados. Comunicó
+inmediatamente esta incidencia extraordinaria por radio al despachador;
+◦antes de este incidente no se comunicó con nadie, únicamente se guió por los
+semáforos;
+◦no tenía conocimiento de que en algún lugar estuviera o no estuviera el tren Os 7004,
+ni siquiera llegó a la est. Mariánské Lázně, no sabe dónde debía estar ese tren ni
+dónde debía cruzarse con él. Del hecho de que ese tren llevara retraso no se enteró
+en absoluto, y aun si lo hubiera sabido, se habría guiado igualmente solo por los
+semáforos y el horario.
 
+### 3.2 Descripción fáctica del suceso
+### 3.2.1 Secuencia de hechos que condujeron a la incidencia extraordinaria
+
+El maquinista del tren Os 7004 se incorporó al turno en OCP Zábad, puesto de trabajo
+Cheb a las 13:47 h del 22. 7. 2020, y posteriormente en la est. Cheb también a dicho
+tren, donde relevó al maquinista saliente que había conducido dicho tren desde la est.
+de origen Karlovy Vary con la llegada real a la est. Cheb a las 14:24 horas. La salida
+regular del tren Os 7004 de Cheb era a las 14:19 h según el gráfico de tráfico ferroviario.
+La salida real del tren Os 7004 se produjo tras la correspondente maniobra de
+formación a las 14:25 h con un retraso de 6 minutos.
+
+El tren estaba excepcionalmente compuesto por una unidad automotora de la serie
+814/914, es decir, una unidad automotora cuya velocidad de construcción es de
+80 km.h-1. Se trataba de un tren regular de transporte de pasajeros, para el que está
+planificada la serie de vehículo motriz 844, que tiene una velocidad de construcción de
+120 km.h-1 y que, a diferencia de la unidad automotora de la serie 814/914, está
+equipada con la parte móvil del sistema nacional de seguridad de trenes. El 22. 7. 2020
+el transportista ČD introdujo en los sistemas de información del gestor de la
+infraestructura información sobre el cambio de composición del tren y, asimismo,
+información sobre la conexión básica mediante la red de radio de tren TRS y GSM-R y
+sobre la conexión de emergencia mediante teléfono móvil. El gestor de la
+infraestructura no fue informado de la reducción de la velocidad del tren respecto a la
+velocidad establecida en 10 km.h-1 o más. Además, en el tren Os 7004 no se realizó,
+mediante la radio de a bordo, el registro del número funcional del tren en la red de radio
+digital GSM-R. Por tanto, con dicho tren no era posible establecer la conexión básica
+mediante el número funcional del tren a través de la red de radio GSM-R.
+
+Según el extracto de la aplicación operativa GTN, el tren Os 7004 salió de la 1.ª vía de
+la est. Dolní Žandov a las 14:45 h con un retraso de ocho minutos y medio. El
+despachador de línea CDP Praga, ante el creciente retraso del tren Os 7004, decidió
+adelantar dicho tren con el tren Ex 515 en
 
 ## Página 34
 
-la est. Lázně Kynžvart. Según el extracto de la aplicación operativa GTN, el despachador de vía intentó establecer conexión con el maquinista del tren Os 7004 a través de la red de radio GSM-R a las 14:51:22 h, es decir, en el momento en que el tren Os 7004, según el análisis del velocímetro electrónico, permaneció detenido en la est. Lázně Kynžvart en el 1. SK en la zona de embarque y desembarque de pasajeros durante diez segundos. Del mencionado extracto es también demostrable que la conexión con el tren Os 7004 no pudo establecerse debido a que no se registró en la red de radio GSM-R. El maquinista del tren Ex 515 fue informado por el despachador de vía de la intención de adelantar al tren Os 7004 en la est. Lázně Kynžvart de manera demostrable ya en el tiempo de 14:43:41 h hasta 14:44:08 h.
-Tras la decisión sobre el cambio en la secuencia de trenes, el despachador de vía estableció en la est. Lázně Kynžvart la vía de tren para el tren Os 7004 en el 1. SK. Tras el establecimiento de esta vía de tren se produjo su cierre, en el semáforo de entrada S había la señal «Aviso» y en el semáforo de salida S1 había la señal «Alto». Tras la entrada del tren Os 7004, a continuación el despachador de vía estableció la vía de tren para el tren Ex 515 hacia y desde el 3. SK. En la est. Lázně Kynžvart se encontraba también el tren Os 7380, que se detuvo en el 2. SK a las 14:40 h.
-Según los registros del sistema de cámaras, el tren Os 7004 se detuvo en la est. Lázně Kynžvart en el 1. SK junto al andén en el km 432,173 a las 14:51:12 h. La jefa de tren de transporte de pasajeros, tras el embarque y desembarque de pasajeros, dio desde la puerta de la unidad automotora la señal «Permiso de salida» y a las 14:51:39 h el tren Os 7004 se puso en marcha por el 1. SK en dirección al semáforo de salida S1, y esto a pesar de que el maquinista del tren Os 7004 no pudo, en el momento en que estaba detenido en el 1. SK junto al andén, comprobar desde el coche de mando, desde el que conducía el tren, si en el semáforo de salida S1 había una señal que permitiera la continuación de la marcha del tren. El maquinista, por tanto, puso el tren Os 7004 en movimiento sin solicitar la expedición del tren de otra manera que no fuera la señal del semáforo principal.
-Tras el intento fallido de establecer conexión a través de la red de radio GSM-R, a las 14:52:07 h el despachador de vía intentó a continuación informar al maquinista del tren Os 7004 del adelantamiento por el tren Ex 515 mediante la conexión de emergencia a través de su teléfono móvil de servicio. La llamada se logró establecer a las 14:52:21 h, momento en el que la cabeza del tren se encontraba a 45 m de la altura del semáforo de salida S1. La propia llamada fue la siguiente:
+est. Lázně Kynžvart. Según el extracto de la aplicación operativa GTN, el despachador de línea intentó establecer contacto con el maquinista del tren Os 7004 a través de la red de radio GSM-R a las 14:51:22 h, es decir, en el momento en que el tren Os 7004, según el análisis del registrador electrónico de velocidad, permaneció detenido en la est. Lázně Kynžvart en el 1. SK en la zona de subida y bajada de pasajeros durante diez segundos. Del citado extracto también queda acreditado que no se logró establecer contacto con el tren Os 7004 debido a que no se registró en la red de radio GSM-R. El maquinista del tren Ex 515 fue informado fehacientemente por el despachador de línea, ya a las 14:43:41 h hasta las 14:44:08 h, de la intención de adelantar al tren Os 7004 en la est. Lázně Kynžvart.
+Tras la decisión de modificar el orden de los trenes, el despachador de línea estableció en la est. Lázně Kynžvart la vía de tren para el tren Os 7004 en el 1. SK. Una vez establecida esta vía de tren, esta quedó cerrada, en la señal de entrada S había la señalización «Aviso» y en la señal de salida S1 había la señalización «Alto». Tras la entrada del tren Os 7004, a continuación el despachador de línea estableció la vía de tren para el tren Ex 515 desde y hacia el 3. SK. En la est. Lázně Kynžvart se encontraba también el tren Os 7380, que se detuvo en el 2. SK a las 14:40 h.
+Según los registros del sistema de cámaras, el tren Os 7004 se detuvo en la est. Lázně Kynžvart en el 1. SK junto al andén en el km 432,173 a las 14:51:12 h. El jefe de tren de transporte de pasajeros, tras la subida y bajada de pasajeros, dio desde la puerta de la unidad automotriz la señalización «Permiso de salida» y a las 14:51:39 h el tren Os 7004 se puso en marcha por el 1. SK en dirección a la señal de salida S1, y esto a pesar de que el maquinista del tren Os 7004 no podía, en el momento en que estaba detenido en el 1. SK junto al andén, comprobar desde el coche de mando, desde el cual conducía el tren, si en la señal de salida S1 había una señalización que permitiera la continuación de la marcha del tren. El maquinista puso así el tren Os 7004 en movimiento sin solicitar la autorización de circulación del tren por otro medio que no fuera la señalización del semáforo principal.
+Tras el intento fallido de establecer contacto a través de la red de radio GSM-R, a las 14:52:07 h el despachador de línea intentó a continuación informar al maquinista del tren Os 7004 del adelantamiento por el tren Ex 515 mediante una comunicación de emergencia a través de su teléfono móvil profesional. La llamada se logró establecer a las 14:52:21 h, momento en el que la cabeza del tren se encontraba a 45 m por delante del nivel de la señal de salida S1. La propia llamada fue la siguiente:
 maquinista del tren Os 7004: «maquinista 7004 (apellido)»;
 •
-despachador de vía: «sí, aquí el de vía, (apellido), hola»;
+despachador de línea: «sí, aquí el de línea, (apellido), hola»;
 •
 maquinista del tren Os 7004: «hola»;
 •
-despachador de vía: «el Pendolino lo dejo pasar delante, ese está entrando ahí».
+despachador de línea: «dejo pasar el Pendolino por delante, ese está entrando ahí».
 •
-A partir de las 14:52:32 h solo se oyó un considerable ruido y siseo, y a continuación a las 14:52:39 h la llamada fue interrumpida.
-El considerable ruido y siseo registrado en el dispositivo de registro acredita el descarrilamiento del tren Os 7004 en la aguja n.º 2 y su posterior marcha en estado descarrilado a través de la aguja n.º 1 hasta el lugar de parada en el lecho de balasto en el km 431,600.
-El tren Ex 515 pasó por la est. Dolní Žandov por el 1. SK a las 14:48 h con un retraso de dos minutos. El semáforo de entrada S en la est. Lázně Kynžvart con la señal «Velocidad 60 km/h y espere velocidad 60 km/h» lo pasó el tren Ex 515 a las 14:52:18 h. Tras transcurrir otros siete segundos, a las 14:52:25 h el tren Os 7004 pasó el semáforo de salida S1, que estaba en posición que prohíbe la marcha, con lo que se produjo la ocupación del tramo de vía de aguja de las agujas n.º 1 y 2 y a la vez también de la entrada en la vía de tren establecida para el tren Ex 515. En el semáforo de salida S3 se produjo el cambio de la señal «Velocidad 60 km/h y vía libre» a la señal «Alto» y el inicio de la emisión de la frecuencia de luz roja de la parte de vía a la parte móvil del freno automático de tren nacional. En ese momento la cabeza del tren Ex 515
-
+A partir de las 14:52:32 h solo se escuchó un considerable ruido y siseo, y a continuación, a las 14:52:39 h, la llamada fue interrumpida.
+El considerable ruido y siseo registrados en el dispositivo de grabación acreditan el descarrilamiento del tren Os 7004 en el desvío n.º 2 y su posterior marcha en estado descarrilado a través del desvío n.º 1 hasta el lugar de detención en el lecho de balasto en el km 431,600.
+El tren Ex 515 pasó por la est. Dolní Žandov por el 1. SK a las 14:48 h con dos minutos de retraso. La señal de entrada S en la est. Lázně Kynžvart con la señalización «Velocidad 60 km/h y espere velocidad 60 km/h» fue pasada por el tren Ex 515 a las 14:52:18 h. Tras transcurrir otros siete segundos, a las 14:52:25 h el tren Os 7004 pasó la señal de salida S1, que se encontraba en posición que prohíbe la marcha, con lo que se produjo la ocupación del tramo de vía de desvío de los desvíos n.º 1 y 2, así como también la entrada en la vía de tren establecida para el tren Ex 515. En la señal de salida S3 se produjo el cambio de la señalización «Velocidad 60 km/h y libre» a la señalización «Alto» y el inicio de la emisión de la frecuencia de la luz roja de la parte de línea a la parte móvil del protector nacional de tren. En ese momento, la cabeza del tren Ex 515
 
 ## Página 35
+
 
 se encontraba en la cabecera de la est. Lázně Kynžvart. Tras la entrada del tren Ex 515 en el 3. SK de la est. Lázně Kynžvart, a las 14:52:51 h a una velocidad de 56 km.h-1 a una distancia de 453 m del lugar de la posterior parada segura, se produjo la transmisión del código de luz roja a la parte móvil del freno automático de tren de este tren. El maquinista del tren Ex 515 reaccionó al cambio de señal en el repetidor de señal del freno automático de tren nacional con un descenso gradual de la velocidad y a las 14:53:35 h también con la parada segura del tren a 80 m del semáforo de salida S3 en posición «Alto».
 Nota: los tiempos de la secuencia de eventos han sido recalculados al tiempo real.
@@ -1140,6 +1202,7 @@ Servicio de Ambulancias de la Región de Karlovy Vary;
 
 ## Página 36
 
+
 Servicio de Extinción de Incendios y Rescate de Správy železnic, Unidad de Protección contra Incendios de Cheb
 •
 y Plzeň;
@@ -1161,8 +1224,8 @@ Si el jefe de estación (en este caso el despachador de línea de CDP Praha) no 
 En la investigación se detectó el incumplimiento de la normativa legal y de las normas internas, relativo a las tareas y obligaciones del transportista, en relación causal
  con la aparición del MU:
 
-
 ## Página 37
+
 
 § 35 apartado 1 letra a) de la Ley núm. 266/1994 Sb.:
 •
@@ -1199,8 +1262,8 @@ art. 2979 de la norma interna SŽDC D1:
 «En las estaciones donde se permite la autorización de salida de los trenes desde la vía de tráfico mediante la señalización del semáforo principal, se procederá además de acuerdo con las siguientes disposiciones:
 a) si el maquinista ve que el semáforo principal aplicable a la vía de tráfico en la que se encuentra la cabeza del tren permite la salida del tren (o constató este hecho mediante la señal del semáforo principal
 
-
 ## Página 38
+
 
 anterior, de la preseñal independiente, de la preseñal de repetición o del protector automático de tren), hará entrar el tren en movimiento tras la realización por el transportista de las operaciones prescritas;
 b) si el maquinista no ve que el semáforo principal aplicable a la vía de tráfico en la que se encuentra la cabeza del tren permite la salida del tren (y tampoco constató este hecho mediante la señal del semáforo principal anterior, de la preseñal independiente, de la preseñal de repetición o del protector automático de tren), solo podrá hacer entrar el tren en movimiento tras la autorización de salida del tren por un medio distinto de la señalización del semáforo principal.»;
@@ -1232,8 +1295,8 @@ Otra obligación del transportista es, entre otras, garantizar que los maquinist
 SŽDC (ČD) Z11 Norma para la operación de dispositivos de radio;
 •
 
-
 ## Página 39
+
 
 Reglamento de explotación GSM-R.
 •
@@ -1270,6 +1333,7 @@ Z11:
 
 ## Página 40
 
+
 «La prueba funcional la realizará el usuario que maneja el terminal móvil GSM-R, de modo que, tras su encendido y el inicio de sesión automático en la red de radio del sistema GSM-R CZ, el sistema comprobará la validez de los datos de dicho inicio de sesión en la pantalla del terminal GSM-R de acuerdo con el correspondiente manual de instrucciones.»;
 art. 60, letras b), e) Parte tercera – Disposiciones operativas, capítulo D del reglamento interno
 •
@@ -1291,8 +1355,8 @@ Durante la investigación no se detectó incumplimiento de las funciones y oblig
 ### 4.1.4 Autoridades nacionales de seguridad y Agencia Ferroviaria de la Unión Europea
 La autoridad nacional de seguridad es la Oficina Ferroviaria, que, de acuerdo con la Ley n.º 266/1994 Sb., es una autoridad administrativa dependiente del Ministerio de Transportes. Su función es, en particular, el ejercicio de la supervisión estatal en materia de ferrocarriles y en materia de autoridad de construcción, el ejercicio de la autoridad de construcción especial para obras ferroviarias y obras en el ferrocarril, la aprobación de material rodante y de instalaciones técnicas designadas nuevas y modernizadas, y la tramitación de infracciones. La Oficina Ferroviaria tiene la obligación de comunicar, en un plazo de 12 meses a partir de la fecha de publicación del informe final que contenga las recomendaciones de seguridad dirigidas a la misma, a la Inspección Ferroviaria qué medida ha adoptado en relación con dicha recomendación de seguridad.
 
-
 ## Página 41
+
 
 La función de la Agencia Ferroviaria de la Unión Europea es, además de garantizar, en el marco de sus competencias, que se mantenga en general la seguridad de los ferrocarriles y que, si es posible, se aumente de forma sistemática, entre otras, la emisión, renovación, suspensión y modificación de certificados únicos de seguridad, la limitación de su validez o su anulación, actuando al respecto en colaboración con las autoridades nacionales de seguridad; asimismo, emite autorizaciones para la puesta en el mercado de material ferroviario y de tipos de material y está facultada para renovar, modificar, suspender o retirar las autorizaciones que haya emitido. La Agencia evalúa además los proyectos de normativa nacional, etc.
 Durante la investigación no se detectó incumplimiento de las funciones y obligaciones de la autoridad nacional de seguridad y de la Agencia Ferroviaria de la Unión Europea.
@@ -1308,8 +1372,8 @@ Durante la investigación no se detectaron factores derivados del diseño del ma
 4.2.2 Factores o consecuencias derivados de la instalación y puesta en servicio del material rodante, de la infraestructura ferroviaria o de las instalaciones técnicas
 Durante la investigación no se detectaron factores derivados de la instalación y puesta en servicio del material rodante, de la infraestructura ferroviaria o de las instalaciones técnicas.
 
-
 ## Página 42
+
 
 ### 4.2.3 Factores o consecuencias relacionados con el fabricante de material rodante u otro proveedor de productos ferroviarios
 Durante la investigación no se detectaron factores relacionados con el fabricante de material rodante u otro proveedor de productos ferroviarios.
@@ -1327,22 +1391,21 @@ En relación con la dirección y organización del transporte ferroviario desde 
 Las condiciones para la familiarización con las condiciones de la línea y locales en las líneas gestionadas a distancia se establecen para los despachantes de línea en el reglamento interno del gestor de la infraestructura SŽDC D1, artículos 274, 275, 277 – 279, 282 – 284, y en la Orden de Ejecución de CDP Praha, artículo 22.1.
 Las condiciones relacionadas con el plazo mínimo establecido para el conocimiento de las condiciones locales y de la línea por parte del personal en formación antes de su incorporación al desempeño autónomo del servicio en la función de despachante de línea son: cuatro turnos trabajados en CDP, circulación en la zona gestionada, formación en la sala de prácticas en el alcance determinado por el jefe de la sección de dirección remota de la explotación y la superación con éxito del examen práctico de aptitud prescrito. Cualquier acortamiento o alargamiento del plazo establecido puede autorizarlo el director de CDP.
 
-
 ## Página 43
 
-La investigación de la Inspección Ferroviaria determinó que el empleado implicado del gestor de la infraestructura SŽ, despachante de línea de CDP Praha, era profesionalmente apto para el desempeño de su función. En cuanto al conocimiento de las condiciones locales y de la línea, la realización del ejercicio prescrito de familiarización en la zona gestionada, la acreditación del conocimiento de la operación de las instalaciones y la superación con éxito de la reevaluación del conocimiento de las disposiciones del ZDD figuran acreditados, con firmas y fecha del 10. 7. 2019, en la Lista de empleados de CDP Praha.
-El empleado implicado del operador ferroviario ČD, maquinista del tren Os 7004, se sometía a reconocimientos médicos periódicos de conformidad con lo dispuesto en el Decreto n.º 101/1995 Sb. y, sobre la base del informe médico presentado sobre su idoneidad sanitaria para el trabajo, en el momento de la ocurrencia del SU era médicamente apto para el desempeño de su función.
-La Inspección Ferroviaria, en la investigación del factor humano, trató de evaluar todas las influencias que pudieran haber actuado sobre los empleados implicados y que pudieran haber tenido, en su caso, incidencia en la ocurrencia de este SU.
-En el caso del maquinista del tren Os 7004 se trató, en particular, de evaluar el posible estrés psíquico y físico, su experiencia, conocimientos y años de ejercicio. Trabajó como maquinista durante diez años, por lo que se trataba de un empleado experimentado con una práctica suficientemente larga y, según la documentación del operador ferroviario ČD, estaba acreditadamente familiarizado con las condiciones de la línea.
-El maquinista del tren Os 7004, según su propia declaración, se sentía descansado y sano antes de incorporarse al turno del 22. 7. 2020; los acontecimientos de su vida privada, ni en relación con sus compañeros ni con sus superiores en el trabajo, tuvieron ninguna influencia en el desempeño del servicio ni en su estado psíquico. El maquinista estaba adscrito al servicio «al vuelo», lo que, según su propia declaración, le convenía y, dado que trabajaba de forma irregular en la línea Plzeň hl. n. – Cheb, puede excluirse en él la tendencia a la actuación rutinaria. Antes de incorporarse al turno ni durante el mismo, hasta la ocurrencia del SU, no se vio alterado por nada ni por nadie; según su propia declaración, solo se sorprendió de que, en lugar de la locomotora de la serie 844, se le hubiera asignado a la línea principal un tren automotor de la serie 814/914.
-Según la propia declaración del maquinista, durante la circulación hacia la est. Lázně Kynžvart se produjo una indicación de sobrecalentamiento del motor y de la caja de cambios. Además, el tren automotor no tenía potencia suficiente para la rampa. El tren Os 7004 empezaba a acumular retraso y él tenía que pensar, además de en limitar el sobrecalentamiento, en las posibles formas de resolver esta situación operativa.
-Aunque la concentración del maquinista pueda verse alterada por diversas influencias, el cumplimiento estricto de los procedimientos tecnológicos establecidos por parte del factor humano, en este caso en particular la observación de las señales y la actuación de acuerdo con los hechos constatados, es para la conservación de la seguridad de la explotación ferroviaria la obligación más básica y, a la vez, más importante del maquinista, a la que debe subordinarse toda actuación posterior.
-La Inspección Ferroviaria determinó mediante la investigación que el empleado implicado era profesionalmente apto para el trabajo en la función de maquinista y que sus años de práctica, experiencia y conocimientos no tuvieron incidencia en la ocurrencia de este SU.
-Durante la investigación no se detectaron factores que guardaran relación negativa de algún modo con la formación profesional de los empleados implicados, su estado de salud ni su situación personal.
-### 4.2 Factores laborales
-El operador ferroviario está obligado a introducir en los sistemas de información del gestor de la infraestructura los datos de la composición del tren, es decir, a notificar todas las anomalías del tren relacionadas en particular con
+La investigación de la Inspección Ferroviaria determinó que el empleado participante del gestor de la vía SŽ, el despachador de tráfico CDP Praha, estaba cualificado profesionalmente para el desempeño de su función. En cuanto al conocimiento de las condiciones locales y de tráfico, la superación del cumplimiento regular del conocimiento prescrito en la zona controlada, la demostración del conocimiento de la operación de los dispositivos y la superación satisfactoria del examen de conocimiento de las disposiciones del ZDD quedan demostrativamente registrados con firmas y fecha 10. 7. 2019 en la Lista de empleados de CDP Praha.
+El empleado participante del transportista ČD, el maquinista del tren Os 7004, se sometía a exámenes médicos periódicos de conformidad con la disposición del decreto n.º 101/1995 Sb. y, sobre la base del informe médico presentado sobre la aptitud física para el trabajo, en el momento de la ocurrencia del MU estaba físicamente apto para el desempeño de su función.
+La Inspección Ferroviaria, en la investigación del factor humano, intentó evaluar todas las influencias que pudieron actuar sobre los empleados participantes y que pudieron tener eventualmente influencia en la ocurrencia de este MU. En el caso del maquinista del tren Os 7004 se trató principalmente de la evaluación del posible estrés psíquico y físico, de su experiencia, conocimientos y antigüedad en el puesto. Trabajó como maquinista durante diez años, por lo que se trataba de un empleado experimentado con una antigüedad suficientemente larga y, según la documentación del transportista ČD, estaba demostrativamente informado de las condiciones de tráfico.
+El maquinista del tren Os 7004, según su propia declaración, antes de incorporarse al turno el 22. 7. 2020 se sentía descansado y sano; los acontecimientos de su vida privada, ni en relación con sus colegas ni con sus superiores en el trabajo, tuvieron ninguna influencia en el desempeño del servicio ni en su estado psíquico. El maquinista estaba asignado al servicio «letmo», lo que, según su propia declaración, le convenía, y como trabajaba de forma irregular en la línea Plzeň hl. n. – Cheb, puede excluirse en su caso la tendencia a la actuación rutinaria. Antes de incorporarse al turno ni durante el mismo, hasta la ocurrencia del MU, no se vio alterado por algo o por alguien; según su propia declaración, solo se sorprendió de que en lugar de la locomotora de la serie 844 se le hubiera asignado a la línea principal una unidad automotriz de la serie 814/914.
+Según la propia declaración del maquinista, durante la marcha hacia la est. Lázně Kynžvart se produjo una indicación de sobrecalentamiento del motor y de la caja de cambios. Además, la unidad automotriz no tenía potencia suficiente debido a la pendiente. El tren Os 7004 empezaba a acumular retraso y él tenía que pensar, además de en limitar el sobrecalentamiento, en las posibles formas de resolver esta situación operativa.
+Aunque la concentración del maquinista puede verse alterada por diversas influencias, el cumplimiento estricto de los procedimientos tecnológicos establecidos por parte del factor humano, en este caso principalmente la observación de las señales y la actuación según los hechos constatados, es para la conservación de la seguridad de la explotación ferroviaria la obligación más básica, pero a la vez también la más importante, del maquinista, a la que debe subordinarse toda la demás actuación.
+La Inspección Ferroviaria, mediante la investigación, determinó que el empleado participante estaba cualificado profesionalmente para el trabajo en la función de maquinista y que su antigüedad, experiencia y conocimientos no tuvieron influencia en la ocurrencia de este MU.
+En la investigación no se detectaron factores que de alguna manera se relacionaran negativamente con la formación profesional de los empleados participantes, su estado de salud ni su situación personal.
+### 4.3.2 Factores laborales
+El transportista está obligado a introducir en los sistemas de información del gestor de la vía la información sobre la composición del tren, o notificar todas las incidencias del tren relacionadas especialmente con
 
 ## Página 44
+
 
 con el cambio de la serie planificada de HDV, con el cambio de la comunicación radiofónica o de la velocidad, y ello antes de que se produzca su circulación.
 El tren Os 7004 fue el día 22. 7. 2020 formado excepcionalmente con una unidad automotora de la serie 814/914, es decir, un vehículo ferroviario cuya velocidad de construcción es de 80 km.h-1. Se trataba de un tren regular de transporte de viajeros, para el cual el vehículo motriz planificado era de la serie 844, que tiene una velocidad de construcción de 120 km.h-1 y que, a diferencia de la unidad automotora de la serie 814/914, está equipado con la parte móvil del protector de tren nacional.
@@ -1354,33 +1417,34 @@ Según las disposiciones del TTP, la comunicación radiofónica básica para el 
 Para garantizar la organización y el mando del tráfico ferroviario en las líneas con la parte de línea en servicio del sistema de aparatos radiofónicos de tren, el transportista está obligado a equipar el HDV con una parte móvil funcional compatible del aparato radiofónico y a asegurar que el maquinista del vehículo motriz del tren de origen realice inmediatamente después de su creación el registro del número de tren pertinente y válido con un código funcional correspondiente a su posición operativa real y la prueba funcional de la conexión automática a la red radiofónica GSM-R mediante la comprobación de la validez de los datos de dicha conexión en la pantalla del terminal GSM-R.
 El transportista, de conformidad con los requisitos anteriores, equipó la unidad automotora de la serie 814/914 con una parte móvil funcional compatible del aparato radiofónico, concretamente con una radio de a bordo TCZ tipo VS 67 que permite el registro del número de tren en la red radiofónica digital GSM-R.
 
-
 ## Página 45
 
-La estación de origen del tren Os 7004 fue la est. Karlovy Vary y la de destino la est. Mariánské Lázně, con el hecho de que en la est. Cheb se produjo el relevo regular de maquinistas. El maquinista del tren Os 7004 participante en el MU entró en servicio a las 13:47 h del día 22. 7. 2020 ante los jefes de maniobras de OCP Západ, centro de explotación Cheb. Allí recibió información sobre el transcurso del turno, en la que, entre otras cosas, se enteró también de que el tren Os 7004 sería sustituido excepcionalmente por una unidad automotora de la serie 814/914 en lugar del vehículo ferroviario de la serie 844 asignado regularmente. A continuación, el maquinista se desplazó a la est. Cheb, donde se produjo el relevo del maquinista que había conducido este tren desde la est. de origen Karlovy Vary y la recepción del tren Os 7004.
-El maquinista está obligado a realizar el registro del número de tren pertinente y la comprobación de dicha conexión a la red radiofónica no solo en el tren de origen inmediatamente después de su creación, sino también durante la circulación desde un tramo con red radiofónica SRD (SRV) a un tramo con red radiofónica GSM-R. La regla básica para una comunicación segura e inequívoca entre el jefe de estación (el despachador de línea) y el maquinista es el hecho de que en cada estación y en cada tramo de línea puede utilizarse como comunicación radiofónica básica un único sistema radiofónico.
-En este caso concreto, la obligación de conmutar la radio de a bordo de la red TRS (SRD) a la red GSM-R correspondía al maquinista que conducía el tren Os 7004 desde la est. Karlovy Vary hasta la est. Cheb. Esta obligación debía cumplirse a 224 m del nivel de las señales de entrada 1S y 2S a la est. Cheb en el sentido desde la est. Karovy Vary, en el km 235,716, donde estaba situada la señal fija Rádiovník con la señal «Začátek rádiového systému GSM-R» (Inicio del sistema radiofónico GSM-R) que ordena comunicar mediante el aparato radiofónico en dicha red radiofónica.
-El registro del número de tren pertinente y la comprobación de dicha conexión a la red radiofónica, sin embargo, no fueron realizados por el maquinista saliente, en contradicción con los procedimientos tecnológicos establecidos, en el lugar donde está situado el Rádiovník GSM-R correspondiente.
-Según los procedimientos tecnológicos indicados en la norma interna ČD V2, el maquinista, al entrar en servicio y antes de recibir el vehículo motriz en el relevo en la línea, está obligado, entre otras cosas, a escuchar y tomar nota del maquinista saliente la información sobre el estado técnico del vehículo motriz y del tren y de todas las circunstancias importantes para el desempeño del servicio, incluida la realización de todas las actuaciones relacionadas, entre otras cosas, con el funcionamiento del velocímetro, del protector de tren y de la radio.
-El registro del número de tren pertinente y la comprobación de dicha conexión a la red radiofónica digital GSM-R, sin embargo, no fueron realizados tampoco por el maquinista entrante, en contradicción con los procedimientos tecnológicos establecidos del gestor de la infraestructura ferroviaria y del transportista. Este, según su declaración, recibió del maquinista saliente únicamente la información de que la locomotora no tenía potencia suficiente.
-Aunque la unidad automotora de la serie 814/914 mencionada estaba equipada con una radio de a bordo funcional que permitía la plena explotación radiofónica en la red GSM-R, no era posible, debido a la no realización del registro adecuado en dicha red, establecer la comunicación básica con el número de tren funcional. El hecho de que no se pudiera llamar al tren Os 7004 queda acreditado con la extracción de los datos de archivo almacenados en el Sistema de registro de números de trenes de ČD Telematika, de la que se desprende que el día 22. 7. 2020 no se encontró ningún registro para el número de tren del tren indicado.
-La salida regular del tren Os 7004 de la est. Cheb era, según el gráfico de circulación de trenes, a las 14:19 h. En realidad, el tren Os 7004 partió tras la expedición regular a las 14:25 h con un retraso de 6 minutos. Según la extracción de la aplicación de explotación GTN, el tren Os 7004 partió de la 1. SK de la est. Dolní Žandov a las 14:45 h con un retraso de ocho minutos y medio. El despachador de línea CDP Praga, en vista del
-
+La estación de origen del tren Os 7004 era la est. Karlovy Vary, y la de destino la est. Mariánské Lázně, con el hecho de que en la est. Cheb se produjo el relevo regular de maquinistas. El maquinista del tren Os 7004 participado en el MU entró en servicio a las 13:47 h del 22. 7. 2020 ante los jefes de máquinas de OCP Západ, centro de explotación Cheb. Allí recibió información sobre el transcurso del turno, en la que, entre otras cosas, se enteró también de que el tren Os 7004 sería sustituido excepcionalmente por una unidad motorizada de la serie 814/914 en lugar del vehículo ferroviario de la serie 844 que se adscribe regularmente. A continuación, el maquinista se trasladó a la est. Cheb, donde se produjo el relevo del maquinista que había conducido este tren desde la est. de origen Karlovy Vary, y la recepción del tren Os 7004.
+El maquinista está obligado a realizar el registro del número de tren correspondiente y la comprobación de dicho registro en la red radioeléctrica no solo en el tren de origen inmediatamente después de su creación, sino también durante la circulación desde un tramo con red radioeléctrica SRD (SRV) a un tramo con red radioeléctrica GSM-R. La regla básica para una comunicación segura e inequívoca entre el jefe de estación (el despachista de vía) y el maquinista es el hecho de que en cada estación y en cada tramo de vía puede utilizarse como enlace radioeléctrico básico únicamente un sistema radioeléctrico.
+En este caso concreto, la obligación de conmutar la estación radioeléctrica embarcada de la red TRS (SRD) a la red GSM-R correspondía al maquinista que conducía el tren Os 7004 desde la est. Karlovy Vary hasta la est. Cheb. Dicha obligación debía cumplirse 224 m antes del nivel de las señales de entrada 1S y 2S a la est. Cheb en el sentido desde la est. Karovy Vary, en el km 235,716, donde estaba situada la señal fija Rádiovník con la indicación „Začátek rádiového systému GSM-R“ (Inicio del sistema radioeléctrico GSM-R) que ordenaba realizar la comunicación mediante el aparato radioeléctrico en dicha red radioeléctrica.
+Sin embargo, el registro del número de tren correspondiente y la comprobación de dicho registro en la red radioeléctrica no fueron realizados, en contra de los procedimientos tecnológicos establecidos, por el maquinista saliente en el lugar donde está situado el Rádiovník GSM-R correspondiente.
+Según los procedimientos tecnológicos indicados en la norma interna de ČD V2, el maquinista, al entrar en servicio y antes de recibir la locomotora de tracción en el relevo en la ruta, está obligado, entre otras cosas, a escuchar y tomar nota del maquinista saliente la información sobre el estado técnico de la locomotora de tracción y del tren, así como de todos los hechos importantes para el desempeño del servicio, incluida la realización de todas las tareas relacionadas, entre otras, con el funcionamiento del velocímetro, del freno automático de tren y de la estación radioeléctrica.
+Sin embargo, el registro del número de tren correspondiente y la comprobación de dicho registro en la red radioeléctrica digital GSM-R no fueron realizados tampoco por el maquinista entrante, en contra de los procedimientos tecnológicos establecidos tanto por el gestor de la vía como por el transportista. Este, según su declaración, recibió del maquinista saliente únicamente la información de que la locomotora de motor no tenía potencia suficiente.
+Aunque la unidad motorizada de la serie 814/914 mencionada anteriormente estaba equipada con una estación radioeléctrica embarcada funcional que permitía la explotación radioeléctrica completa en la red GSM-R, no era posible, debido a la no realización del registro adecuado en dicha red, establecer el enlace básico con el número de tren funcional. El hecho de que no se pudiera llamar al tren Os 7004 queda acreditado por la extracción de datos de archivo almacenados en el Sistema de registro de números funcionales de ČD Telematika, de la que se deduce que el 22. 7. 2020 no se encontró ningún registro para el número funcional del tren indicado.
+La salida regular del tren Os 7004 de la est. Cheb era, según el gráfico de tráfico ferroviario, a las 14:19 h. En realidad, el tren Os 7004 partió tras la expedición regular a las 14:25 h con un retraso de 6 minutos. Según la extracción de la aplicación de explotación GTN, el tren Os 7004 partió de la 1.ª vía de la est. Dolní Žandov a las 14:45 h con un retraso de ocho minutos y medio. El despachista de vía de CDP Praha, en vista de
 
 ## Página 46
 
-creciente retraso del tren Os 7004, decidió que este tren sería adelantado por el tren Ex 515 en la est. Lázně Kynžvart. Según su declaración, decidió informar al maquinista del tren Os 7004 de esta medida de tráfico en el momento en que el tren Os 7004 se encontraba aproximadamente antes de la est. Dolní Žandov. Sin embargo, la investigación del MU no acreditó esta intención comunicada del despachador de CDP de informar inicialmente al maquinista del tren Os 7004. Según la extracción de la aplicación de explotación GTN, el despachador de línea intentó realmente establecer comunicación con el maquinista del tren Os 7004 a través de la red radiofónica GSM-R únicamente a las 14:51:22 h, es decir, en el momento en que el tren Os 7004, según el análisis del velocímetro electrónico, llevaba ya diez segundos detenido en la est. Lázně Kynžvart en la 1. SK en el espacio de embarque y desembarque de viajeros. De la mencionada extracción es igualmente demostrable que la comunicación con el tren Os 7004 no pudo establecerse debido a la no conexión a la red radiofónica GSM-R. El maquinista del tren Ex 515 fue informado por el despachador de línea, de forma demostrable, del adelantamiento previsto del tren Os 7004 en la est. Lázně Kynžvart ya en el tiempo comprendido entre las 14:43:41 h y las 14:44:08 h.
-Como ya se ha indicado, la est. Lázně Kynžvart está equipada con un dispositivo de seguridad electrónico ESA 11 con puesto de mando unificado, circuitos de vía para la detección de vías libres y transmisión del código del protector de tren. La estación no está permanentemente ocupada por un jefe de estación y en estado normal se controla en remoto desde el puesto del despachador de línea CDP Praga, o desde el puesto del jefe de estación de guardia en la est. Cheb, con posibilidad de traspaso de la estación al control local del jefe de estación en la est. Lázně Kynžvart. En el momento de producirse el MU, la est. Lázně Kynžvart se controlaba en remoto desde el puesto del despachador de línea CDP Praga. Las vías de estación, en el sentido de circulación de los trenes participantes hacia las señales de salida, se sitúan en curvas a la derecha. La 1. SK, en el sentido de circulación del tren Os 7004 desde el andén, se encuentra primero en un tramo recto y desde el km 432,090 hasta el km 431,740 discurre en una curva a la derecha de radio 480 m, donde en el km 431,808 está situada la pasarela de señales con las señales de salida en dirección a la est. Valy u Mariánských Lázní. Por este motivo, desde el andén elevado, desde el lugar de parada regular de los trenes de transporte de viajeros destinado al embarque y desembarque de viajeros, no se ven las señales de salida en dirección a la est. Valy u Mariánských Lázní, y la expedición de los trenes debe realizarse por tanto, en los casos establecidos, de otra manera que no sea la señal del señal principal.
-Del análisis del archivo de datos descargado sobre el funcionamiento del SZZ en la est. Lázně Kynžvart y del análisis del Protocolo GTN (véase el punto 3.1.8 de esta ZZ) se comprobó de forma demostrable que, tras la decisión de cambiar el orden de los trenes, el despachador de línea estableció en la est. Lázně Kynžvart la ruta de tren para el tren Os 7004 en la 1. SK. Tras la establecimiento de esta ruta de tren se produjo su cierre, en la señal de entrada S había la señal «Výstraha» (Aviso) y en la señal de salida S1 había la señal «Stůj» (Alto). Tras la entrada del tren Os 7004, a continuación el despachador de línea estableció la ruta de tren para el tren Ex 515 hacia y desde la 3. SK. En la est. Lázně Kynžvart se encontraba también el tren Os 7380, que se detuvo en la 2. SK a las 14:40 h.
-En los procedimientos tecnológicos del gestor de la infraestructura ferroviaria indicados en la norma interna SŽDC D1 se indica que en las estaciones donde se permite la expedición de trenes desde la vía de tráfico con la señal del señal principal, y en el caso de que el maquinista no vea que el señal principal válido para la vía de tráfico en la que se encuentra la cabeza del tren permite la salida del tren, ni pueda averiguar esta circunstancia de la señal del señal principal anterior, de la señal de aproximación independiente, de la señal de aproximación repetidora o del protector de tren, solo podrá poner el tren en movimiento después de la expedición del tren de otra manera que no sea la señal del señal principal. Si el jefe de estación (en este caso el despachador de línea CDP Praga) no informa al maquinista del cambio en el modo de expedición del tren, el maquinista deberá solicitar la expedición del tren al jefe de estación inmediatamente antes de la hora de salida regular, o antes de la finalización del embarque y desembarque de viajeros en el tren retrasado, o antes de la hora anunciada, si fue informado de la prolongación de la parada.
+ante el creciente retraso del tren Os 7004, decidió que este tren fuera adelantado por el tren Ex 515 en la est. Lázně Kynžvart. Según su declaración, decidió informar de esta medida de tráfico al maquinista del tren Os 7004 en el momento en que el tren Os 7004 se encontraba aproximadamente antes de la est. Dolní Žandov. Sin embargo, la investigación del MU no acreditó esta intención comunicada por el despachador CDP de informar inicialmente al maquinista del tren Os 7004. Según el extracto de la aplicación de explotación GTN, el despachador de línea intentó realmente establecer comunicación con el maquinista del tren Os 7004 a través de la red de radio GSM-R únicamente a las 14:51:22 h, es decir, en el momento en que el tren Os 7004, según el análisis del registrador electrónico de velocidad, llevaba ya diez segundos detenido en la est. Lázně Kynžvart en la 1. SK en la zona de embarque y desembarque de pasajeros. Del citado extracto también es demostrable que no se logró establecer comunicación con el tren Os 7004 debido a que no se registró en la red de radio GSM-R. Al maquinista del tren Ex 515 se le informó demostradamente por el despachador de línea del adelantamiento previsto del tren Os 7004 en la est. Lázně Kynžvart ya en el horario comprendido entre las 14:43:41 h y las 14:44:08 h.
+Como ya se ha indicado, la est. Lázně Kynžvart está equipada con el dispositivo de seguridad electrónica ESA 11 con puesto de operación unificado, circuitos de vía para la detección de vía libre y transmisión del código del freno automático de tren. La estación no está permanentemente ocupada por un jefe de estación y, en estado normal, se controla en remoto desde el puesto del despachador de línea CDP Praga, o bien desde el puesto del jefe de estación de guardia en la est. Cheb, con posibilidad de traspaso de la estación al control local del jefe de estación en la est. Lázně Kynžvart. En el momento de producirse el MU, la est. Lázně Kynžvart se controlaba en remoto desde el puesto del despachador de línea CDP Praga. Las vías de estación se encuentran, en el sentido de circulación de los trenes implicados hacia las señales de salida, situadas en curvas a la derecha. La 1. SK, en el sentido de circulación del tren Os 7004 desde el andén, se encuentra primero en un tramo recto y desde el km 432,090 hasta el km 431,740 discurre en una curva a la derecha de radio 480 m, donde en el km 431,808 se encuentra situada la pasarela de señales con las señales de salida hacia la est. Valy u Mariánských Lázní. Por este motivo, desde el andén elevado, desde el lugar de parada regular de los trenes de transporte de pasajeros destinado al embarque y desembarque de pasajeros, no se pueden ver las señales de salida hacia la est. Valy u Mariánských Lázní, y la formación de los trenes debe realizarse, en los casos establecidos, de otra manera distinta a la señalización de la señal principal.
+Del análisis del archivo descargado de datos de la actividad del SZZ en la est. Lázně Kynžvart y del análisis del Protocolo GTN (véase el punto 3.1.8 de esta ZZ) se acreditó que, tras la decisión de modificar el orden de los trenes, el despachador de línea estableció en la est. Lázně Kynžvart la ruta de tren para el tren Os 7004 en la 1. SK. Tras establecerse esta ruta de tren se produjo su bloqueo, en la señal de entrada S había la señalización «Aviso» y en la señal de salida S1 había la señalización «Alto». Tras la entrada del tren Os 7004, a continuación el despachador de línea estableció la ruta de tren para el tren Ex 515 hacia y desde la 3. SK. En la est. Lázně Kynžvart se encontraba también el tren Os 7380, que se detuvo en la 2. SK a las 14:40 h.
+En los procedimientos tecnológicos del gestor de la vía indicados en la norma interna SŽDC D1 se indica que en las estaciones donde está permitida la formación de trenes desde la vía de tráfico con la señalización de la señal principal, y en el caso de que el maquinista no vea que la señal principal válida para la vía de tráfico en la que se encuentra la cabeza del tren permite la salida del tren, ni pueda averiguar esta circunstancia por la señalización de la señal principal anterior, de la señal de aproximación previa, de la señal de aproximación repetidora o del freno automático de tren, podrá poner el tren en marcha únicamente después de que la formación del tren se haya realizado de otra manera distinta a la señalización de la señal principal. Si el jefe de estación (en este caso el despachador de línea CDP Praga) no informa al maquinista del cambio en el modo de formación del tren, el maquinista deberá solicitar la formación del tren al jefe de estación inmediatamente antes de la hora de salida regular o, en su caso, antes de finalizar el embarque y desembarque de pasajeros del tren retrasado, o antes de la hora comunicada, si se le informó de la prolongación de la permanencia.
 
 ## Página 47
 
-La correcta actuación del maquinista del tren Os 7004 debía desarrollarse de la siguiente manera. Tras la entrada en la 1.ª vía de la est. Lázně Kynžvart con la señal «Aviso», el maquinista debía esperar que en la señal de salida S1 estuviera la señal «Alto». Dado que desde el lugar de parada regular de los trenes de transporte de pasajeros destinado al desembarque y embarque de pasajeros no era visible si la señal en la señal de salida S1 permitía la salida del tren, ni era posible comprobar esta circunstancia de otra manera preestablecida, el maquinista solo podía poner en movimiento el tren Os 7004 tras la autorización de salida del tren por un medio distinto de la señal de la señal principal. Atendiendo al hecho de que el maquinista no fue informado por el despachador de línea sobre el cambio en el modo de autorización de salida del tenía, según los procedimientos tecnológicos establecidos, la obligación de solicitar la autorización de salida al despachador de línea antes de finalizar el desembarque y embarque de pasajeros. Según el análisis del registrador electrónico de velocidad y la grabación del sistema de cámaras, el tren Os 7004 se detuvo en la est. Lázně Kynžvart en la 1.ª vía junto al andén en el km 432,173 a las 14:51:12 h. De la grabación se desprende además que, tras el desembarque y embarque de pasajeros, la jefa de tren dio desde la puerta del convoy la señal «Permiso de salida» y a las 14:51:39 h el tren Os 7004 se puso en marcha indebidamente por la 1.ª vía en dirección a la señal de salida S1, a pesar de que el maquinista del tren Os 7004 no podía, en el momento en que se encontraba en la 1.ª vía en el lugar de parada regular de los trenes de transporte de pasajeros destinado al desembarque y embarque de pasajeros, comprobar desde el coche de mando, desde el que conducía el tren, si la señal de salida S1 permitía la salida del tren, ni era posible comprobar esta circunstancia de otra manera preestablecida. El hecho de que hasta el momento de la salida indebida no hubiera sido emitida ninguna instrucción por el despachador de línea que guardara alguna relación con la autorización de salida del tren por un medio distinto de la señal de la señal principal, ni se hubiera permitido el maniobrado hacia la señal de salida tras la detención del tren, queda acreditado, también atendiendo a la imposibilidad de establecer la comunicación básica de radio a través de la red GSM-R, con la extracción de los datos de archivo almacenados en el Sistema de registro de números funcionales de ČD Telematika y, además, con la extracción de la aplicación operativa GTN. No se registraron ninguna llamada, en este caso entre el despachador de línea y el maquinista del tren Os 7004, relativa a lo anteriormente indicado, tampoco en el dispositivo de registro de las comunicaciones de las personas que participan en la organización y dirección del transporte ferroviario. El maquinista puso así en movimiento el tren Os 7004 sin solicitar la autorización de salida del tren por un medio distinto de la señal de la señal principal, en contra de los procedimientos tecnológicos establecidos.
-Como ya se ha indicado anteriormente, el despachador de línea intentó realmente establecer comunicación con el maquinista del tren Os 7004 a través de la red de radio GSM-R a las 14:51:22 h, es decir, en el momento en que el tren Os 7004, según el análisis del registrador electrónico de velocidad y la grabación del sistema de cámaras, llevaba ya diez segundos detenido en la est. Lázně Kynžvart en la 1.ª vía en la zona de desembarque y embarque de pasajeros. Tras el intento fallido de establecer comunicación a través de la red de radio GSM-R, a continuación, a las 14:52:07 h, el despachador de línea intentó informar al maquinista del tren Os 7004 del adelantamiento por el tren Ex 515 mediante una comunicación de emergencia a través de su teléfono móvil profesional. La llamada se logró establecer a las 14:52:21 h. Sin embargo, para entonces la cabeza del tren Os 7004 ya se encontraba a 45 m de la altura de la señal de salida S1 y no había tiempo suficiente para evitar la aparición de la MU. En contra de los procedimientos tecnológicos establecidos, consistentes especialmente en la obligación de observar las señales y actuar según las circunstancias comprobadas, el maquinista hizo pasar el tren Os 7004 por la señal de salida S1 en la posición «Alto» 4 segundos más tarde, a las 14:52:25 h. 8 segundos después, a las 14:52:33 h, se produjo en el desvío n.º 2, en el km 431,689, a una velocidad de 62 km.h-1, el descarrilamiento de todo el convoy. De la grabación de la llamada realizada (véase la transcripción de la llamada, punto 3.2.1 de la presente ZZ) se desprende que el maquinista y el despachador de línea solo llegaron a presentarse en el momento en que el tren Os 7004 pasaba por la señal de salida S1 en la posición que prohíbe la circulación. La información adicional relativa al «dejar pasar primero al
+El correcto proceder del maquinista del tren Os 7004 debía haberse desarrollado de la siguiente manera. Tras entrar en la 1.ª SK de la est. Lázně Kynžvart con la señal «Výstraha» (Aviso), el maquinista debía esperar que en la señal de salida S1 estuviera la señal «Stůj» (Detenerse). Dado que desde el lugar de parada regular de los trenes de transporte de viajeros destinado al desembarque y embarque de pasajeros no era visible si la señal en la señal de salida S1 permitía la salida del tren, ni era posible comprobar esta circunstancia de otra manera prescrita, el maquinista solo podía poner en movimiento el tren Os 7004 después de que se hubiera despachado el tren por un medio distinto de la señal del semáforo principal. Atendiendo al hecho de que el despachador de línea no había informado al maquinista del cambio en el modo de despacho del tren, tenía, según los procedimientos tecnológicos establecidos, la obligación de solicitar el despacho del tren al despachador de línea antes de finalizar el desembarque y embarque de pasajeros.
 
+Según el análisis del velocímetro electrónico y la grabación del sistema de cámaras, el tren Os 7004 se detuvo en la est. Lázně Kynžvart en la 1.ª SK junto al andén en el km 432,173 a las 14:51:12 h. De la grabación se desprende además que, tras el desembarque y embarque de pasajeros, la jefa de tren dio desde la puerta de la composición la señal «Souhlas k odjezdu» (Permiso de salida) y a las 14:51:39 h el tren Os 7004 se puso en marcha indebidamente por la 1.ª SK en dirección a la señal de salida S1, a pesar de que el maquinista del tren Os 7004 no podía, en el momento en que se encontraba en la 1.ª SK, desde el lugar de parada regular de los trenes de transporte de viajeros destinado al desembarque y embarque de pasajeros, comprobar desde el coche de mando, desde el que conducía el tren, si la señal de salida S1 permitía la salida del tren, ni era posible comprobar esta circunstancia de otra manera prescrita. El hecho de que, hasta la hora de la salida indebida, el despachador de línea no hubiera emitido ninguna orden que guardara alguna relación con el despacho del tren por un medio distinto de la señal del semáforo principal, ni hubiera permitido el maniobrar hacia la señal de salida después de la detención del tren, queda acreditado, también a la vista de la imposibilidad de establecer la comunicación básica de radio a través de la red GSM-R, con la extracción de los datos de archivo almacenados en el Sistema de registro de números funcionales de ČD Telematika y, además, con la extracción de la aplicación operativa GTN. No se registraron llamadas, en este caso entre el despachador de línea y el maquinista del tren Os 7004, relativas a lo anteriormente indicado, tampoco en el dispositivo de registro de las comunicaciones de las personas que participan en la organización y dirección del transporte ferroviario. El maquinista puso así en movimiento el tren Os 7004 sin solicitar el despacho del tren por un medio distinto de la señal del semáforo principal, en contra de los procedimientos tecnológicos establecidos.
+
+Como ya se ha indicado más arriba, el despachador de línea intentó realmente establecer comunicación con el maquinista del tren Os 7004 a través de la red de radio GSM-R a las 14:51:22 h, es decir, en el momento en que el tren Os 7004, según el análisis del velocímetro electrónico y la grabación del sistema de cámaras, llevaba ya diez segundos detenido en la est. Lázně Kynžvart en la 1.ª SK en la zona de desembarque y embarque de pasajeros. Tras el intento fallido de establecer comunicación a través de la red de radio GSM-R, a continuación, a las 14:52:07 h, el despachador de línea intentó informar al maquinista del tren Os 7004 del adelantamiento por el tren Ex 515 mediante una conexión de emergencia a través de su teléfono móvil profesional. La llamada se logró establecer a las 14:52:21 h. Sin embargo, para entonces la cabeza del tren Os 7004 ya se encontraba a 45 m por delante del nivel de la señal de salida S1 y no quedaba tiempo suficiente para evitar la aparición de la MU (colisión). En contra de los procedimientos tecnológicos establecidos, consistentes especialmente en la obligación de observar las señales y actuar según las circunstancias comprobadas, el maquinista hizo pasar el tren Os 7004 por la señal de salida S1 en posición «Stůj» (Detenerse) 4 segundos más tarde, a las 14:52:25 h. 8 segundos después, a las 14:52:33 h, se produjo en el desvío n.º 2, en el km 431,689, a una velocidad de 62 km·h-1, el descarrilamiento de toda la composición. De la grabación de la llamada realizada (véase la transcripción de la llamada, punto 3.2.1 de la presente ZZ) se desprende que el maquinista y el despachador de línea solo llegaron a presentarse en el momento en que el tren Os 7004 pasaba por la señal de salida S1 en posición que prohíbe la circulación. Información adicional relativa a «dejar pasar al que entra
 
 ## Página 48
+
 
 Pendolino entrante» ya fue transmitida justo antes del descarrilamiento del tren. La última parte de la llamada ya no fue audible debido al considerable ruido y al siseo relacionado con el descarrilamiento del convoy. Solo a partir del contexto de otras llamadas registradas relacionadas con la comunicación de la aparición de la MU se descubrió que, en la última parte de la llamada, el despachador de línea quería informar al maquinista sobre la posibilidad de lo que se denomina «hacer avanzar el tren para la salida».
 El tren Ex 515 pasó por la est. Dolní Žandov por la 1.ª vía a las 14:48 h con dos minutos de retraso. El tren Ex 515 pasó por la señal de entrada S de la est. Lázně Kynžvart con la señal «Velocidad 60 km/h y espere velocidad 60 km/h» a las 14:52:18 h. Tras transcurrir otros siete segundos, a las 14:52:25 h el tren Os 7004 pasó por la señal de salida S1, que estaba en la posición que prohíbe la circulación, con lo que se produjo la ocupación del tramo de vía de desvíos de los desvíos n.º 1 y 2 y, a la vez, la entrada en la vía de tren establecida para el tren Ex 515. En la señal de salida S3 se produjo el cambio de la señal «Velocidad 60 km/h y vía libre» a la señal «Alto» y el inicio de la emisión de la frecuencia de la luz roja a la parte móvil del protector nacional de tren. En ese momento, la cabeza del tren Ex 515 se encontraba en el extremo de la est. Lázně Kynžvart. El maquinista del tren Ex 515 reaccionó al cambio de señal en el repetidor de señal del protector nacional de tren con una reducción progresiva de la velocidad y a las 14:53:35 h con la detención segura del tren a 80 m de la señal de salida S3 en la posición «Alto».
@@ -1419,8 +1483,8 @@ circulación del tren Os 7004 junto a la señal de salida S1 de la est. Lázně
 14:52:25 h –
 •
 
-
 ## Página 49
+
 
 Kynžvart en el km 431,808 con la señal «Alto» a una velocidad de 55 km.h-1;
 alcanzamiento de la velocidad máxima registrada de 62 km.h-1 en el desvío n.º 2
@@ -1461,23 +1525,30 @@ En la investigación no se detectaron factores relacionados con la organización
 ### 4.3.4 Factores relacionados con el entorno laboral
 La Inspección Ferroviaria, en el marco de la investigación de la MU, abordó también la posibilidad de que el maquinista del tren Os 7004 sufriera un deslumbramiento por el sol al circular hacia la señal de salida S1 en el tramo de visibilidad de esta señal en la 1.ª vía de la est. Lázně Kynžvart. Se comprobó que el sol brillaba desde la derecha en un ángulo de 80 grados. No se produjo un deslumbramiento directo del maquinista (véase la figura n.º 3).
 
-
 ## Página 50
 
-Fig. n.º 3: Posición del sol respecto a la dirección de circulación del tren Os 7004                  Fuente: www.suncalc.net, editado por la DI
+Fig. n.º 3: Posición del sol respecto a la dirección de circulación del tren Os 7004                  Fuente: www.suncalc.net, editado por DI
 En la investigación no se detectaron factores relacionados con el entorno laboral.
 ### 4.3.5 Otro factor relevante a efectos de la investigación
 En la investigación no se detectaron otros factores relacionados con la actuación de las personas implicadas.
 ### 4.4 Mecanismos de retroalimentación y mecanismos de control, incluida la gestión de riesgos
-y la garantía de la seguridad, y los procedimientos de seguimiento
+y la garantía de seguridad, y procedimientos de seguimiento
 ### 4.4.1 Condiciones pertinentes del marco regulatorio
-Las condiciones pertinentes del marco regulatorio están establecidas en los Reglamentos de la Unión Europea, en la ley n.º 266/1994 Sb. y en los decretos de aplicación.
-4.4.2 Procedimientos, métodos, contenido y resultados de las actividades de evaluación de riesgos y de seguimiento
+Las condiciones pertinentes del marco regulatorio están establecidas en los Reglamentos de la Unión Europea,
+en la ley n.º 266/1994 Sb. y en los decretos reglamentarios de desarrollo.
+4.4.2 Procedimientos, métodos, contenido y resultados de las actividades de evaluación de riesgos y seguimiento
 realizadas por cualquiera de los sujetos implicados
-En el anexo n.º 1 del decreto n.º 376/2006 Sb. se establece en el § 2 apartado 2 letra e): «El sistema de garantía de la seguridad de la explotación de la vía férrea de ámbito nacional y regional y del transporte ferroviario en dichas vías debe establecer: los procedimientos y métodos de evaluación del riesgo y de adopción de medidas para la gestión del riesgo en caso de que el cambio de las condiciones operativas o los materiales representen nuevos riesgos para la vía de circulación de la vía férrea o para la explotación del transporte ferroviario».
-La Inspección Ferroviaria, en el marco de la investigación de este accidente, abordó también la configuración del sistema de garantía de la seguridad del explotador de la vía férrea y del transportista en relación con la evaluación del riesgo y la adopción de medidas para la gestión del riesgo en el caso de que el cambio de las condiciones operativas
+En el anexo n.º 1 del decreto n.º 376/2006 Sb. se establece en el § 2 apartado 2 letra e): «El sistema
+de garantía de seguridad de la explotación de la vía de ámbito nacional y regional y del transporte ferroviario en
+dichas vías debe establecer: los procedimientos y métodos de evaluación de riesgos y la adopción de medidas
+para la gestión de riesgos en caso de que un cambio en las condiciones de explotación o los materiales
+representen nuevos riesgos para la vía de circulación o para la explotación del transporte ferroviario».
+La Inspección Ferroviaria, en el marco de la investigación de este accidente, abordó también la configuración del sistema
+de garantía de seguridad del explotador de la vía y del transportista en relación con la evaluación
+de riesgos y la adopción de medidas para la gestión de riesgos en el caso de que un cambio en las condiciones de explotación
 
 ## Página 51
+
 
 las condiciones representa nuevos riesgos para la vía de circulación de la infraestructura ferroviaria o para la explotación del transporte ferroviario. La forma de búsqueda de riesgos fue evaluada tanto a nivel general, cuando se analizaron las normas internas que establecen procedimientos y métodos para la evaluación de riesgos y la adopción de medidas para la gestión de riesgos, como a nivel concreto, cuando se analizaron los procedimientos relacionados con la ocurrencia de esta incidencia excepcional.
 La Inspección Ferroviaria, en el marco de la investigación, solicitó al transportista ČD, entre otra información, también datos y documentación relativos a la evaluación de riesgos y a la adopción de medidas para su gestión. Se trataba en particular de normas internas o, en su caso, de otros documentos en los que se establecen procedimientos y métodos para la evaluación de riesgos y la adopción de las medidas establecidas, relacionados con los cambios en la composición regular de los trenes de transporte de pasajeros, especialmente en el cambio de serie de la unidad de tracción motriz con respecto al equipamiento con freno automático de tren, la transmisión de señales a la cabina del maquinista y la comunicación radioeléctrica, según el tipo y modo de protección de la vía circulada, incluyendo la notificación de estos cambios al gestor de la infraestructura y, asimismo, la información sobre si la unidad de tracción motriz de la serie 814 empleada excepcionalmente, en lugar de la unidad de tracción motriz prevista de la serie 844, en el tren Os 7004, fue el día 22. 7. 2020 un sustituto pleno, especialmente con respecto al modo de protección de la vía circulada y al equipamiento necesario de la unidad de tracción motriz con freno automático de tren con transmisión de señales a la cabina del maquinista, y también con respecto a las condiciones de pendiente y a la garantía de la fluidez del transporte ferroviario en la línea mencionada.
@@ -1501,6 +1572,7 @@ En el documento Política de Seguridad ČD 2020 se indica, entre otra, que:
 •la seguridad es una de las principales prioridades de la dirección de la sociedad České dráhy, a. s.;
 
 ## Página 52
+
 
 •la dirección de la sociedad ČD, junto con sus empleados, se compromete:
 ◦a evaluar, sobre la base de los análisis de riesgos realizados, los riesgos detectados y a adoptar las medidas de seguridad recomendadas para eliminar o minimizar dichos riesgos;
@@ -1532,6 +1604,7 @@ En el documento Política del Grupo ČD – riesgos se indica, entre otra, que:
 
 ## Página 53
 
+
 ◦consolidación de riesgos
 ◦comunicación sobre la gestión de riesgos;
 •las categorías principales de riesgos incluyen los distintos riesgos específicos a los que se asignan responsables concretos de riesgo. Los riesgos pueden, en caso de necesidad, dividirse en las distintas áreas de riesgo y clasificarse según otros criterios;
@@ -1549,6 +1622,7 @@ Entre las obligaciones de los empleados directivos se incluyen, entre otras:
 En relación con la explotación de la infraestructura y, en particular, del transporte ferroviario, en ČD, desde el punto de vista del sistema de garantía de seguridad y de gestión de riesgos, el documento más importante es la norma interna Manual del sistema de gestión de seguridad de ČD. El contenido de este reglamento incluye, entre otra, información sobre la gestión de seguridad en ČD, los objetivos de seguridad establecidos y el control interno del sistema de garantía de seguridad de la explotación del transporte ferroviario. En la parte siguiente se enumeran los requisitos y los elementos básicos del sistema de garantía de seguridad de la explotación del transporte ferroviario. Posteriormente se indican los análisis de riesgos en la explotación del transporte ferroviario, los requisitos legislativos europeos y nacionales, los requisitos para los vehículos ferroviarios, la actividad de control, los factores de riesgo y las causas más frecuentes de la ocurrencia de incidencias excepcionales, la determinación de la responsabilidad de los directivos y demás empleados del transportista en materia de seguridad en la explotación del transporte ferroviario, la organización de la prevención de la ocurrencia de incidencias excepcionales, la responsabilidad por la gestión de la documentación de todas las partes importantes del sistema de garantía de seguridad, la determinación de los objetivos y medidas de seguridad en relación con la mejora continua del sistema de garantía de seguridad. En el Manual del sistema de gestión de seguridad de ČD se indican asimismo las informaciones de entrada para la evaluación de los riesgos detectados en la actividad de control, los principios de seguridad y el modo de comunicación a todos los empleados implicados en la explotación del transporte ferroviario, los objetivos cualitativos y cuantitativos de la organización en el ámbito de la preservación y el aumento de la seguridad y los procedimientos que garantizan el cumplimiento de las normas técnicas y operativas existentes, nuevas y modificadas
 
 ## Página 54
+
 
 vinculantes para la interoperabilidad. Este documento incluye también un anexo en el que se indica el Listado de reglamentos, leyes y decretos relacionados.
 En el mencionado Manual del sistema de gestión de seguridad de ČD se indica concretamente:
@@ -1571,6 +1645,7 @@ En el mencionado Manual del sistema de gestión de seguridad de ČD se indica co
 •Entre las causas más frecuentes de incidencias excepcionales causadas por el fallo del factor humano se pueden (en relación con la incidencia excepcional ocurrida) incluir:
 
 ## Página 55
+
 
 ◦salida de un tren de la estación sin la correspondente autorización de circulación;
 ◦circulación no autorizada de un vehículo ferroviario más allá de la señal que prohíbe la circulación de trenes.
@@ -1615,8 +1690,8 @@ de control de vigilia del maquinista. El motivo de la asignación excepcional de
 la retirada excepcional de tres trenes automotores de las series 844 (participación en un suceso excepcional y averías técnicas). La única alternativa de sustitución para la región
 de Karlovy Vary fue el uso del HDV de la serie 814.
 
-
 ## Página 56
+
 
 La Inspección Ferroviaria solicitó en el marco de la investigación al explotador de la infraestructura SŽ, entre otros,
 también información y documentación relativa a la evaluación de riesgos y a la adopción de medidas para su
@@ -1662,69 +1737,39 @@ y las situaciones y fenómenos peligrosos sean notificados, investigados y anali
 las medidas preventivas necesarias, así como los procedimientos y métodos de evaluación del riesgo y de adopción de medidas
 para la gestión del riesgo en caso de que el cambio de las condiciones de explotación o nuevos
 
-
 ## Página 57
 
-materiales representen nuevos riesgos para la infraestructura o la explotación. Forman parte de la citada
-norma también dos anexos:
-Lista de los riesgos de seguridad básicos en la explotación de la infraestructura de ámbito nacional y de las infraestructuras
-•
-regionales, en la que se indican los tipos e identificación de los peligros, el cálculo
-del valor (tasa) y la evaluación de la gravedad del riesgo, la clasificación en categoría y las medidas de seguridad establecidas.
-Lista de las normas internas de Správa železnic y de otros documentos de Správa železnic
-•
-para la garantía del sistema de seguridad de la explotación de la infraestructura en la organización estatal Správa železnic.
-En la parte A. Riesgos relacionados con la actividad del explotador de la infraestructura se definen, entre otros,
-los siguientes riesgos:
-- la influencia del factor humano en la explotación de la infraestructura (incluida la infracción de las tecnologías elaboradas por parte de los empleados);
-- la tecnología inadecuada de explotación de la infraestructura (incluida la tecnología elaborada incorrectamente);
-- la influencia de personas y equipos en la explotación de la infraestructura.
-En relación con los riesgos definidos anteriormente, se indica aquí que esta lista contiene riesgos
-que se han determinado a partir de la experiencia adquirida hasta la fecha en la explotación de la infraestructura. Su enumeración no
-es definitiva y debe completarse progresivamente con base en la experiencia recientemente adquirida.
+los materiales representan nuevos riesgos para la infraestructura o la explotación. La norma mencionada incluye también dos anexos:
+• Lista de riesgos básicos de seguridad en la explotación de la vía de ámbito nacional y de las vías
+regionales, en la que se indican los tipos e identificación de los peligros, el cálculo del valor (tasa) y la evaluación de la gravedad del riesgo, la clasificación en categoría y las medidas de seguridad establecidas.
+• Lista de normas internas de Správa železnic y de otros documentos de Správa železnic para garantizar el sistema de seguridad de la explotación de la vía en la organización estatal Správa železnic.
+En la parte A. Riesgos relacionados con la actividad del gestor de infraestructura se definen, entre otros, los siguientes riesgos:
+- influencia del factor humano en la explotación de la vía (incluidas las infracciones de las tecnologías elaboradas por parte de los empleados);
+- tecnología inadecuada de explotación de la vía (incluida la tecnología elaborada incorrectamente);
+- influencia de personas y equipos en la explotación de la vía.
+En relación con los riesgos definidos anteriormente, se indica que esta lista contiene riesgos que se han determinado a partir de la experiencia adquirida hasta la fecha en la explotación de la vía. Su enumeración no es exhaustiva y debe completarse progresivamente sobre la base de las nuevas experiencias adquiridas.
 En la parte A. se indican además los siguientes procedimientos:
-- Los procedimientos para la creación y adopción de medidas de prevención de riesgos son, entre otros:
-código de buenas prácticas;
-•
-sustitución del factor humano por dispositivos técnicos;
-•
-actividad de control;
-•
-control y evaluación de las tecnologías aprobadas;
-•
-modificación o enmienda de las normas internas u otros documentos de Správa železnic;
-•
-modernización de los dispositivos.
-•
-- Los procedimientos para la identificación de la necesidad de una eventual colaboración con otros sujetos son, entre otros:
-contratos de explotación del transporte ferroviario con todos los transportistas que explotan el transporte ferroviario
-•
-en la infraestructura de ámbito nacional y en las infraestructuras regionales, de las que es explotadora
-Správa železnic, organización estatal.
-- Los procedimientos para la documentación acordada y la comunicación con los sujetos correspondientes y la especificación
-del intercambio de información son, entre otros:
-comunicación de Správa železnic con los transportistas a través del documento básico
-•
-de Správa železnic «Declaración de la infraestructura de ámbito nacional y regional»;
-provisión de normas internas a los transportistas, necesarias para la organización del transporte ferroviario;
-•
-información sobre todos los cambios en las normas internas y otros documentos
-•
-relativos a la organización y a la explotación segura del transporte ferroviario;
-comunicación con los transportistas mediante el «Portal de explotación de la infraestructura»;
-•
-resolución de las excepciones por los niveles correspondientes de la dirección de despacho.
-•
-- Los procedimientos para el seguimiento de la eficacia de las medidas indicadas anteriormente y para el caso de que sea necesario realizar
-cambios son, entre otros:
-seguimiento, evaluación y, en caso necesario, realización de ajustes en la introducción de nuevas
-•
-tecnologías, en el cambio de documentos y en los cambios organizativos;
-ajustes y cambios en las normas y tecnologías elaboradas con base en las medidas adoptadas
-•
-para prevenir la ocurrencia de sucesos excepcionales.
+- Los procedimientos para la creación y aplicación de medidas de prevención de riesgos son, entre otros:
+  • código de buenas prácticas;
+  • sustitución del factor humano por equipos técnicos;
+  • actividad de control;
+  • verificación y evaluación de las tecnologías aprobadas;
+  • modificación o enmienda de las normas internas u otros documentos de Správa železnic;
+  • modernización de equipos.
+- Los procedimientos para reconocer la necesidad de una posible colaboración con otras entidades son, entre otros:
+  • contratos de explotación del transporte ferroviario con todos los operadores que explotan el transporte ferroviario en la vía de ámbito nacional y en las vías regionales, en las que el gestor es Správa železnic, organización estatal.
+- Los procedimientos para la documentación acordada y la comunicación con las entidades pertinentes y la especificación del intercambio de información son, entre otros:
+  • comunicación de Správa železnic con los operadores a través del documento básico de Správa železnic «Declaración de la vía de ámbito nacional y regional»;
+  • suministro de las normas internas a los operadores, necesarias para organizar el transporte ferroviario;
+  • información sobre todas las modificaciones de las normas internas y otros documentos relacionados con la organización y la explotación segura del transporte ferroviario;
+  • comunicación con los operadores mediante el «Portal de explotación de la vía»;
+  • resolución de las incidencias por los niveles pertinentes de dirección de despacho.
+- Los procedimientos para el seguimiento de la eficacia de las medidas mencionadas anteriormente y, en caso necesario, de la realización de modificaciones son, entre otros:
+  • seguimiento, evaluación y, en caso necesario, realización de ajustes en la aplicación de nuevas tecnologías, en la modificación de documentos y en los cambios organizativos;
+  • ajustes y modificaciones de las normas y tecnologías elaboradas sobre la base de las medidas adoptadas para prevenir la aparición de sucesos excepcionales.
 
 ## Página 58
+
 
 En la parte I. Garantía de la mejora continua se indican, entre otros:
 - Procedimientos para revisiones periódicas del sistema de garantía de la seguridad, en los que se constata que este sistema está en constante evolución. Las normas internas de Správa železnic, mediante las que se aplica el sistema de seguridad, se analizan, se someten a novaciones, en ellas se realizan cambios en respuesta a nuevas instalaciones, a recomendaciones de seguridad, a las causas y circunstancias detectadas de la aparición de sucesos excepcionales y a las medidas adoptadas para su prevención, y se emiten interpretaciones gestoras en respuesta a consultas o sugerencias.
@@ -1736,6 +1781,7 @@ En la parte K. Objetivos cualitativos y cuantitativos en el ámbito de la preser
 - Procedimientos para la determinación y delimitación de los objetivos de seguridad pertinentes y para la evaluación periódica del rendimiento global en el ámbito de la seguridad en consonancia con los objetivos de seguridad de la organización, en los que se indica que el objetivo fundamental de Správa železnic es la explotación segura y económica de la vía y del transporte ferroviario en la infraestructura ferroviaria encomendada, su mantenimiento y modernización y la implantación de nuevas instalaciones técnicas y procedimientos tecnológicos, incluidos elementos en el ámbito de la interoperabilidad, y que la tarea prioritaria es la detección y minimización de los riesgos de seguridad y de los sucesos excepcionales. Los procedimientos para la consecución de los objetivos de seguridad pertinentes se concretan para cada año y los objetivos fundamentales de seguridad, incluido el estado del sistema de garantía de la seguridad del gestor de la vía, se indican y evalúan anualmente en el Informe anual sobre la seguridad de la explotación de la vía.
 
 ## Página 59
+
 
 - Procedimientos para el seguimiento y revisión periódicos de las medidas operativas, en los que se indica, entre otros, que los objetivos de seguridad y las medidas para su consecución y cumplimiento se centran en las siguientes áreas:
 establecimiento y evaluación de los riesgos de seguridad en las actividades realizadas;
@@ -1778,6 +1824,7 @@ En la parte M. Procedimientos y métodos de evaluación del riesgo y adopción d
 
 ## Página 60
 
+
 En la parte M. se indican además los principios para la valoración del riesgo. La evaluación del impacto del riesgo se valora desde el punto de vista de la probabilidad de aparición del riesgo, de las consecuencias y del tiempo de exposición (con qué frecuencia se produce la situación de riesgo) mediante tablas en las que figuran los datos sobre la evaluación y el coeficiente de riesgo, el impacto y la aparición temporal del riesgo, la probabilidad (incluida la expresión porcentual) y las consecuencias (incluida su descripción). Para el cálculo del valor (grado) de riesgo se establece una fórmula en la que se introducen los valores obtenidos de las tablas anteriormente mencionadas. El grado de riesgo calculado es entonces el criterio de salida para la evaluación del factor de riesgo y su clasificación en cinco categorías con la determinación de las medidas que es necesario adoptar para su eliminación:
 Categoría I. – riesgo despreciable – no requiere medidas especiales, el riesgo es necesario percibir y minimizar.
 Categoría II. – riesgo aceptable – necesidad de buscar soluciones para la corrección, en caso de solución técnica costosa, resolverlo de forma organizativa.
@@ -1808,6 +1855,7 @@ de los equipos de radio de tren y los principios para su preparación y realizac
 
 ## Página 61
 
+
 de la vía de tráfico en propiedad del Estado, en la redacción de la Modificación n.º 1 (n.º de expediente 66392/2019-SŽDC-GŘ-O14) artículos 5.7.5, 5.7.6 (5.7.7) y
 ◦Aviso a los operadores de transporte ferroviario por parte de la Administración de la Vía de Tráfico Ferroviario, organización estatal (n.º de expediente 58037/2019-SŽDC-GŘ-O11).
 Las obligaciones del transportista respecto a la modificación de la serie planificada de HDV, al cambio de velocidad o a
@@ -1831,8 +1879,8 @@ En el marco de la comparación con sistemas similares se indica que el sistema d
 •
 al menos los siguientes requisitos:
 
-
 ## Página 62
+
 
 ◦en su uso ya se ha demostrado que garantiza un nivel de seguridad aceptable y, por tanto, sería apto para su aprobación en el Estado miembro en el que deba introducirse el cambio;
 ◦tiene funciones e interfaces similares a las del sistema evaluado;
@@ -1861,8 +1909,8 @@ controladas a distancia se establecen para los despachantes de línea principalm
 ◦en el reglamento interno del operador de la vía SŽDC D1, artículos 274, 275, 277 – 279, 282 – 284;
 ◦en el Reglamento de Ejecución para la línea con dispositivo de seguridad controlado a distancia, artículo 22 (Anexo 25) elaborado según SŽDC D5-1.
 
-
 ## Página 63
+
 
 Una de las necesidades más importantes para la explotación, organización y dirección seguras del transporte ferroviario es garantizar la comunicación mutua funcional entre la persona que organiza el transporte ferroviario y la persona que dirige el vehículo ferroviario.
 Para garantizar la explotación, organización y dirección seguras y fluidas del transporte ferroviario en las líneas equipadas con sistema de radio, cada transportista está obligado a equipar el HDV con una parte funcional compatible del dispositivo de radio y a garantizar que los maquinistas operen estos dispositivos de radio de conformidad con los procedimientos tecnológicos establecidos. En relación con esta incidencia se trataba principalmente de la correcta y suficientemente puntual realización de la registración y de la prueba funcional (control) del número de tren válido en la red de radio GSM-R. Las obligaciones anteriores en relación con el equipamiento del HDV con una parte móvil funcional compatible del dispositivo de radio están establecidas por la normativa europea y checa, por la Declaración de la vía nacional y regional y por los reglamentos internos del operador de la vía. Las obligaciones en relación con la garantía de la realización de la registración en la red de radio están establecidas principalmente por los procedimientos tecnológicos indicados en los reglamentos internos del operador de la vía, en particular en el Reglamento para la atención de los dispositivos de radio SŽDC (ČD) Z11 y en el Reglamento de Explotación GSM-R, que junto con muchos otros reglamentos internos que determinan las reglas de organización y seguridad de la explotación en las vías explotadas por la Administración de Ferrocarriles en virtud de las disposiciones de la Declaración de la vía nacional y regional son vinculantes para los transportistas. El transportista ČD tiene establecidos también sus propios procedimientos tecnológicos relativos a las obligaciones en relación con el inicio del servicio y la recepción de la locomotora (véase el punto 4.1.1 de esta ZZ).
@@ -1870,8 +1918,8 @@ Concretamente en relación con esta incidencia, la obligación de conmutar la es
 Puede constatarse que la situación creada fue un factor contribuyente a la aparición de la MU, ya que, debido a la imposibilidad de transmitir la información sobre el adelantamiento del tren Os 7004 en la est. Lázně Kynžvart mediante la comunicación básica a través de la red de radio GSM-R en el momento en que dicho tren aún se encontraba en el andén y en el que por tanto era posible evitar la salida no autorizada del tren transmitiendo esta información, fue necesario utilizar la comunicación de emergencia a través del teléfono móvil de servicio. Sin embargo, esto dio lugar a un retraso temporal y la llamada solo se estableció con éxito cuando ya era tarde y ya no era posible evitar la aparición de la incidencia.
 Un elemento integrante e importante del sistema de garantía de la seguridad, también en relación con la gestión de riesgos, es la actividad de control permanente y a la vez eficaz centrada especialmente en el cumplimiento de los procedimientos tecnológicos establecidos indicados en los reglamentos internos del operador de la vía y del transportista. La realización y el enfoque de la actividad de control están establecidos por los reglamentos internos de estos operadores. Sobre la base de la evaluación y el análisis de los resultados de esta actividad de control
 
-
 ## Página 64
+
 
 deberían adoptarse a continuación medidas encaminadas a garantizar un mayor estado de seguridad.
 Tanto el transportista ČD como el operador de la vía SŽ han emitido reglamentos internos mediante los cuales han establecido procedimientos generales y concretos para la realización de la actividad de control.
@@ -1903,6 +1951,7 @@ En el documento se indican además las obligaciones y los derechos de los emplea
 
 ## Página 65
 
+
 de un enfoque concreto. En la parte Tipos de controles realizados se indica además que la inspección aleatoria es un tipo de control que sirve para obtener conocimientos lo más objetivos posibles sobre el estado de la disciplina en el tráfico ferroviario. Este control solo puede realizarse en algunas estaciones de trabajo del tráfico o en puestos de trabajo de la DOZ, puede tener un enfoque propio y debe realizarse únicamente según el enfoque indicado en la Lista.
 En el documento se indica además, entre otros, que el enfoque concreto de la actividad de control en el CDP debe basarse en los conocimientos y experiencias adquiridos:
 mediante la propia actividad de control de los empleados directivos del CDP;
@@ -1929,16 +1978,16 @@ Tampoco se indica ninguna disposición concreta relacionada con la realización 
 La Inspección Ferroviaria, en el marco de la investigación, se centró también, entre otros, en la colaboración y cooperación mutuas entre el transportista y el gestor de la infraestructura, relativas especialmente a la eficacia de la aplicación de los procedimientos generalmente establecidos en la evaluación, gestión y orientación de los riesgos a situaciones operativas concretas, en las que se produce una interacción mutua en una interfaz común.
 Los requisitos relativos a la colaboración y cooperación mutuas entre el transportista y el gestor de la infraestructura en la interacción mutua en una interfaz común están establecidos por la legislación europea, la Declaración de la red ferroviaria de ámbito nacional y regional, los Contratos de explotación del transporte ferroviario
 
-
 ## Página 66
+
 
 y, en último lugar, también por las normas internas y otros documentos internos, en los que se determinan las reglas para la organización y gestión del transporte ferroviario.
 La necesidad de colaboración y cooperación mutuas es puesta de manifiesto en sus normas internas y documentos internos tanto por el transportista ČD como por el gestor de la infraestructura SŽ. En su Manual del sistema de gestión de la seguridad de la ČD, el transportista indica que, de acuerdo con el Reglamento (UE) n.º 1158/2010, es necesaria también la colaboración mutua de todos los componentes que participan en la explotación de la infraestructura y del transporte ferroviario a la hora de implantar medidas para la reducción de riesgos. En el mismo documento indica que se presta atención también a la interfaz de las áreas de actividad del explotador del transporte ferroviario, del gestor de la infraestructura o de las actividades de terceros, organizaciones proveedoras, en la implantación de nuevas tecnologías, procedimientos tecnológicos o materiales. Sobre la necesidad y obligación relativas a la colaboración y cooperación mutuas derivadas de la legislación europea señala también el gestor de la infraestructura SŽ, que en la Declaración de la red ferroviaria de ámbito nacional y regional, en el artículo 2.4.1 Normas internas, indica que la Administración de Ferrocarriles dispone de procedimientos para reconocer la necesidad de una posible colaboración con otros sujetos en las áreas en las que comparten una interfaz y que podrían influir en la implantación de las medidas pertinentes para la orientación de los riesgos de conformidad con los requisitos del Reglamento (UE) n.º 1169/2010. Sobre la necesidad de colaboración y comunicación con otros sujetos pertinentes, el uso de todos los medios disponibles para la eliminación de los riesgos de seguridad en todas las áreas de organización del transporte ferroviario y la evaluación y valoración de los riesgos que podrían surgir en las interfaces comunes, se señala también en el Resumen del manual del sistema de garantía de seguridad de la explotación de la infraestructura de la Administración de Ferrocarriles, donde se indica también, entre otros, que la tarea prioritaria del gestor de la infraestructura es la detección y minimización de los riesgos de seguridad y de los sucesos extraordinarios, la reducción del riesgo de seguridad por fallo del factor humano en el transporte y la eliminación de los riesgos de seguridad en todas las áreas de organización del transporte ferroviario con el uso de todos los medios disponibles.
 El resumen de todos los documentos y de las disposiciones importantes en ellos contenidas relativas a los principios generales y concretos para la evaluación de riesgos y la implantación de medidas para su orientación, la colaboración y comunicación mutuas con las partes interesadas, incluidos los principios relativos a la actividad de control del transportista ČD y del gestor de la infraestructura SŽ, se indica al comienzo de este punto.
 El énfasis en la atención especial en la gestión de riesgos en las interfaces entre los distintos participantes se establece también en el Reglamento (UE) n.º 402/2013 del método común de seguridad para la evaluación y valoración de riesgos, al que todos los gestores de la infraestructura y los transportistas deben ajustarse. En este documento jurídicamente vinculante, en relación con la gestión de interfaces, se indica, entre otros, que en cada interfaz los participantes afectados colaboran mutuamente para identificar y gestionar conjuntamente los peligros y garantizar las medidas de seguridad correspondientes que sean necesarias para dichas interfaces. Del contexto se desprende además que todo aquel que detecte que una medida de seguridad para la orientación de riesgos no es conforme o no es adecuada, es responsable de informar a quien implantó dichas medidas, el cual es entonces responsable de encontrar una solución. En relación con el uso del código de buenas prácticas, rige que quien implanta las medidas de seguridad debería, a continuación, con el apoyo de todos los participantes afectados, analizar si mediante la aplicación del mencionado código se cubre adecuadamente uno, varios o todos los peligros. En relación con el intercambio de información se indica además, entre otros, que todos los peligros y los requisitos de seguridad correspondientes que un participante no pueda orientar por sí solo, deben ser comunicados al segundo participante correspondiente con el objetivo de encontrar una solución adecuada conjunta. Dichos peligros solo pueden considerarse orientados cuando la evaluación de los riesgos relacionados con dichos peligros la realice otro participante y la solución sea aprobada por todas las partes afectadas.
 
-
 ## Página 67
+
 
 En el momento de producirse este SU y en la actualidad, las obligaciones relacionadas con el control de la funcionalidad de la conexión básica a través de GSM-R recaen únicamente en los transportistas. A primera vista esto parece lógico, ya que es precisamente el maquinista quien debe realizar, de conformidad con los procedimientos tecnológicos establecidos, el registro y la prueba funcional (control) del número de tren vigente en la red de radio GSM-R. Por otro lado, sin embargo, es preciso ser conscientes de que el hecho de que exista una única salvaguardia de seguridad, y que su función esté además condicionada por el correcto funcionamiento del factor humano, es insuficiente desde el punto de vista de la seguridad en un elemento de seguridad tan importante como lo es, sin lugar a dudas, la garantía de la comunicación entre la persona que organiza el transporte ferroviario y la persona que conduce el vehículo ferroviario. Si además se tiene en cuenta el hecho de que es precisamente a través de la conexión básica funcional por lo que, ante una amenaza inminente al tráfico ferroviario, especialmente si se ven amenazadas vidas humanas y existe riesgo de demora, el despachador de línea tiene la posibilidad de detener el tren mediante la orden «Parada GENERAL» sin la colaboración del maquinista, es posible percibir la situación actual, en relación con el esfuerzo declarado por aumentar el nivel de seguridad, como una situación peligrosa y, desde el punto de vista de la gestión de riesgos, como una laguna de seguridad.
 La peligrosidad y el riesgo de la situación actual los confirmó también el hecho de que, en relación con el registro correcto del número de tren y el control de dicho registro en la red de radio GSM-R, fallaron nada menos que dos maquinistas, sin que ni siquiera el despachador de línea detectara la imposibilidad de mantener la comunicación mediante la conexión básica y, por tanto, la imposibilidad de detener el tren de emergencia en caso de peligro inminente. El propio hecho de que, a pesar de que el HDV estuviera equipado con una radiotelefonía de vehículo funcional que permitiera la operación radio completa en la red GSM-R, se permitiera la salida de un tren a la vía sin conexión básica funcional, y ello teniendo en cuenta además que ni el maquinista ni el despachador de línea conocían la imposibilidad de comunicación mutua y la imposibilidad de detener el tren de emergencia en caso de amenaza inminente al tráfico ferroviario, debería ser alarmante tanto para el transportista como para el gestor de la infraestructura.
@@ -1947,6 +1996,7 @@ Como ya se ha indicado, el gestor de la infraestructura SŽ emitió la norma int
 El contenido del Anexo 1 Lista de riesgos de seguridad fundamentales en la explotación de la red ferroviaria de ámbito nacional y de las redes regionales es una tabla en la que se indican los tipos e identificación de los peligros, los valores (tasas) de riesgo calculados, la evaluación de la gravedad del riesgo, la clasificación en categoría y las medidas de seguridad establecidas. Dicha lista de riesgos de seguridad fundamentales en la
 
 ## Página 68
+
 
 la explotación de la infraestructura ferroviaria no aborda la identificación de riesgos realizada en otras áreas, como la seguridad en el trabajo, la explotación del transporte ferroviario, etc.
 Como posible peligro se identifica en esta lista, en relación con la explotación de la infraestructura ferroviaria (no con la explotación del transporte ferroviario), entre otros, la actividad de los empleados
@@ -1974,8 +2024,8 @@ E – Exposición – con qué frecuencia se produce la situación de riesgo
 | 5 | frecuentemente | diariamente | 5 |
 La exposición, es decir, el tiempo con el que puede producirse la situación de riesgo, fue evaluada por el gestor de la infraestructura ferroviaria, en función de su impacto, con el término «ocasionalmente» y valorada con el grado 3.
 
-
 ## Página 69
+
 
 N – Gravedad de las consecuencias probables
 | evaluación | consecuencias | descripción de las consecuencias | coeficiente |
@@ -2003,8 +2053,8 @@ Atendiendo a esta circunstancia, a partir de las 00:00 h del 15 de enero de 2020
 permitido por el gestor de la infraestructura ferroviaria SŽDC a los transportistas salir de la estación de origen con el tren cuyo vehículo motriz principal carezca de la parte móvil funcional del dispositivo de radio del tren, ni sin el número correcto y funcional de teléfono móvil GSM indicado como conexión de emergencia, compatible en todo el trayecto del tren y en todos los lugares donde lo exija el gestor de la infraestructura ferroviaria.
 La excepción a lo anteriormente indicado será concedida únicamente por el gestor de la infraestructura ferroviaria SŽDC:
 
-
 ## Página 70
+
 
 en el caso de que en la EST (estación), donde además de la conexión de radio básica (normalmente GSM-R) esté establecida una conexión de radio de reserva (normalmente TRS-Tesla o TRS-DCom), que el maquinista del vehículo motriz principal pueda utilizar para la salida del tren (dada la compatibilidad del dispositivo de radio del tren del vehículo motriz principal), pero con el cumplimiento simultáneo de las dos condiciones siguientes:
 1) el maquinista realizará la notificación de esta circunstancia (es decir, la circulación del tren con conexión de radio de reserva) según el artículo 3.5 del PoD, Anexo F y
@@ -2020,8 +2070,8 @@ La circulación posterior será permitida al transportista únicamente bajo la p
 Al maquinista del tren al que se le haya concedido permiso por parte del gestor de la infraestructura ferroviaria SŽDC para circular con conexión de emergencia, se le ordenará, de conformidad con la Declaración de Línea, la reducción de la velocidad del tren como máximo a 100 km.h-1.
 ### Desde el punto de vista de la gestión de riesgos, es necesario constatar que los procedimientos tecnológicos así establecidos, relacionados con la comprobación de la funcionalidad de la conexión básica GSM-R, son insuficientes atendiendo a la cooperación entre el transportista y el gestor de la infraestructura ferroviaria en relación con la explotación segura. El estado actual se basa, desde el punto de vista del sistema de garantía de la seguridad, principalmente en las obligaciones del transportista sin ninguna otra salvaguardia de seguridad en caso de fallo del factor humano. Los procedimientos tecnológicos abordan principalmente las obligaciones de los maquinistas en el registro y la comprobación de la funcionalidad de la conexión básica,
 
-
 ## Página 71
+
 
 así como en los casos de imposibilidad de establecer la conexión básica o de detección de dudas sobre su correcto funcionamiento. En relación con sus propias obligaciones, el gestor de la infraestructura ferroviaria tiene establecidos procedimientos tecnológicos únicamente para los casos en que se produzca una avería de la parte móvil del dispositivo de radio del tren durante su circulación, o para los casos en que el despachador de tráfico no pueda contactar por conexión básica con el maquinista después de la salida del tren de la estación de origen. En relación con la comprobación de la garantía de la funcionalidad de la comunicación mutua entre la persona que organiza el transporte ferroviario y la persona que conduce el vehículo ferroviario, utiliza únicamente comprobaciones aleatorias para verificar si el número telefónico de la conexión de emergencia indicado en la aplicación operativa en uso para el tren correspondiente es correcto y permite la comunicación con el maquinista del tren deseado. Esto se refiere también a la garantía de la comunicación en las circulaciones históricas, en las que antes de la salida de dicho vehículo motriz de la estación de origen, el maquinista tiene la obligación de realizar una prueba de funcionalidad de la conexión de emergencia en cooperación mediante la realización de una comunicación de voz con el despachador de tráfico.
 Como ya se ha indicado anteriormente, uno de los posibles peligros identificados por el gestor de la infraestructura ferroviaria SŽ en relación con la explotación de la infraestructura ferroviaria fue la actividad de los empleados de los transportistas. Sobre la base del cálculo realizado del valor (tasa) de riesgo, este peligro identificado fue clasificado en la Categoría III entre los riesgos significativos.
@@ -2036,6 +2086,7 @@ el despachador de tráfico confirmaba a continuación la funcionalidad de la con
 
 ## Página 72
 
+
 La comprobación de la funcionalidad de la conexión básica fue sustituida posteriormente por una prueba automática de conexión con el siguiente procedimiento:
 - Al salir de la estación de origen (Plzeň hl. n., Cheb), el maquinista del tren se registraba en la red en el lugar indicado por la señalización de la manera prescrita, utilizando el número de tren funcional, y, tras levantar el micrófono del radioteléfono de a bordo, realizaba la prueba de conexión pulsando el botón de mensaje codificado «D» y el botón «Výpravčí» (Jefe de estación);
 - el despachante de circulación (traťový dispečer) confirmaba a continuación la prueba de funcionalidad de la conexión, tras levantar el micrófono de la estación de radio base, donde aparecía en la pantalla el número de tren, pulsando el botón «D» y el botón «Dispečer» (Despachante).
@@ -2048,8 +2099,8 @@ En el marco de la modernización de los sistemas de señalización y telecomunic
 ### Actividad de control
 Otra medida para limitar el riesgo derivado de la actividad de los empleados del transportista es, según el gestor de la infraestructura SŽ, la actividad de control, cuya importancia radica en la comprobación de todas las áreas de la circulación ferroviaria. El propio hecho de que esta medida para limitar el riesgo se haya adoptado en relación con la actividad de los empleados del transportista indica que la actividad de control no debería ser percibida por el gestor de la infraestructura como una actividad centrada únicamente en sus propios empleados. En relación con el análisis anterior del código de buenas prácticas y del sistema de referencia
 
-
 ## Página 73
+
 
 es necesario volver a señalar que precisamente en la interfaz común, donde se produce la interacción mutua entre el transportista y el gestor de la infraestructura, la colaboración mutua a la hora de realizar la comprobación de la funcionalidad de la conexión básica, tal y como ocurría antes, es fundamental. Un ejemplo de procedimientos tecnológicos actuales, no del todo adecuadamente establecidos en relación con la garantía de un mayor nivel de seguridad, es el artículo 2.3.11 de la norma interna de SŽDC (ČD) Z11, donde respecto a la realización de la prueba de conexión se indica:
 - ### Despachante (Jefe de estación) – no se realiza la prueba de conexión (al incorporarse al servicio únicamente se comprueba la señalización de los estados de servicio en la barra de la pantalla del terminal del despachante),
@@ -2059,8 +2110,8 @@ Es evidente que la carga de trabajo del despachante de circulación es alta, lo 
 Del análisis realizado anteriormente sobre la actividad de control puede concluirse que tanto el transportista ČD como el gestor de la infraestructura SŽ tienen la actividad de control configurada y orientada primordialmente a la comprobación de sus propios empleados. Por otro lado, precisamente en la interfaz común, donde se produce la interacción mutua entre el gestor de la infraestructura y el transportista, y especialmente en las situaciones operativas en las que interviene el factor humano, no deben producirse situaciones en las que el transportista y el gestor de la infraestructura se limiten a confiar en la suposición basada en la convicción de que en ninguna de las dos partes puede producirse una infracción de los procedimientos tecnológicos establecidos. Es necesario ser consciente de que precisamente allí donde existan obligaciones relacionadas con la actividad del factor humano, la probabilidad de su fallo y, con ello, la aparición de situaciones peligrosas, o en el peor de los casos la ocurrencia de sucesos ferroviarios, es mayor. Precisamente en estos casos y en esta interfaz es necesario, mediante una forma eficaz de cooperación y colaboración mutuas, instalar en el marco de la gestión de riesgos elementos y salvaguardas de seguridad adicionales que eliminen en la mayor medida posible el posible fallo del factor humano, ya sea mediante la establecimiento de procedimientos tecnológicos comunes o de una actividad de control eficaz e interrelacionada.
 Puede concluirse que la ocurrencia de este suceso ferroviario demostró que la actividad de control del transportista ČD relacionada con la realización del registro y la comprobación de la funcionalidad de la conexión básica no fue eficaz. El gestor de la infraestructura realizaba únicamente comprobaciones aleatorias de la conexión de emergencia, sin que estuvieran establecidos los procedimientos tecnológicos concretos relacionados con la realización de las comprobaciones de la conexión básica
 
-
 ## Página 74
+
 
 El fallo del factor humano en este caso, nada menos que en dos maquinistas, y el desconocimiento del despachante sobre la no funcionalidad de la conexión básica, demostró que en el sistema de garantía de seguridad configurado existe una brecha de seguridad que no solo es una situación peligrosa, sino también un riesgo significativo para la posible ocurrencia de un accidente grave. Sin que
 ### la Inspección Ferroviaria cuestione el sistema de control del transportista ČD y del gestor
@@ -2074,6 +2125,7 @@ De la investigación de este suceso ferroviario se desprende que precisamente la
 
 ## Página 75
 
+
 toleraba la situación, se resignó pasivamente a ella y, a pesar de que tiene establecidos procedimientos generales para estos casos, no emprendió ningún paso activo que condujera al restablecimiento del estado original, en el que dicha verificación se realizaba en el marco de una cooperación mutua. Es necesario volver a constatar que el estado en el que la verificación de la conexión básica es obligación únicamente del transportista constituye, atendiendo al pasado en el que estas verificaciones se realizaban en cooperación con el gestor de la infraestructura, y también al hecho de que no se trata solo de garantizar la comunicación mutua, sino también de la posibilidad de utilizar la orden «PARADA GENERAL», un paso atrás. También esta concreta excepción, sus factores contribuyentes y circunstancias mostraron lo importante que es no solo la cooperación mutua concreta a la hora de organizar y gestionar el tráfico, sino también la colaboración y comunicación mutuas a la hora de dirigir los riesgos surgidos, ya se trate de cambios técnicos, operativos u organizativos, especialmente cuando se trata de la interacción mutua entre el transportista y el gestor de la infraestructura en una interfaz común.
 A la vista de lo anterior, puede constatarse que el restablecimiento de la cooperación en la realización de las verificaciones de funcionalidad de la conexión básica debe percibirse, desde el punto de vista de la garantía de la seguridad, como la introducción de otro elemento de seguridad importante que, en última instancia, puede evitar la aparición de excepciones. Por ello, es necesario garantizar un estado tal que, inmediatamente después de la salida del tren de la estación de origen, el despachador de línea tenga visibilidad sobre la funcionalidad de la conexión básica, de modo que, en caso de que esta no funcione, pueda adoptar inmediatamente las medidas correspondientes. Abordar los problemas surgidos solo cuando el despachador de línea se entera de la falta de funcionalidad de la conexión básica por casualidad o justo en el momento en que la necesita en el marco de una comunicación importante con el maquinista o incluso para el caso de uso de la orden «PARADA GENERAL», es tarde. De hecho, las circunstancias de esta excepción también lo confirmaron, cuando la imposibilidad de establecer la conexión básica y la necesidad de utilizar una conexión de emergencia mediante teléfono móvil condujeron a un retraso temporal y a un estado en el que ya era tarde y ya no podía evitarse la aparición de la excepción.
 ### Resumen:
@@ -2086,8 +2138,8 @@ El gestor de la infraestructura SŽ indica a su vez en el Resumen del manual que
 ◦«Los riesgos se buscan y actualizan continuamente durante el uso de nuevos equipos, tecnologías y la aplicación de cambios organizativos, sobre la base de los conocimientos y experiencias adquiridos durante el uso, de las excepciones y accidentes surgidos».
 ◦«Asimismo, se evalúan y valoran los riesgos que podrían surgir en las interfaces con la operación humana y los equipos y vehículos ferroviarios utilizados durante la explotación y el mantenimiento».
 
-
 ## Página 76
+
 
 De la documentación presentada se desprende que tanto el gestor de la infraestructura SŽ como el transportista ČD tienen en sus normas internas y documentos internos los procedimientos y métodos generales de evaluación de riesgos y de adopción de medidas para su dirección elaborados de forma bastante extensa.
 Todos los cambios anteriores relacionados con la realización de la verificación de funcionalidad de la conexión básica, ya se trate de cambios de carácter técnico, operativo u organizativo, pueden considerarse, desde el punto de vista de la garantía de la seguridad, y también según los procedimientos y métodos para la gestión de riesgos establecidos por ambos gestores, cambios significativos que deberían estar sujetos a evaluación de riesgos. El estado en el momento de la aparición de esta excepción, así como su propia aparición, mostró que el proceso de evaluación de riesgos y de adopción de medidas para su dirección no fue eficaz en relación con los cambios mencionados. En relación con la práctica operativa, el mayor problema parece ser, por tanto, la aplicación eficaz de los procedimientos y métodos generales establecidos para la gestión de riesgos a situaciones operativas concretas.
@@ -2101,8 +2153,8 @@ La Oficina Ferroviaria comunicó que:
 la evaluación de los riesgos y de las medidas adoptadas para la dirección del riesgo, cuando el cambio de las condiciones operativas representa nuevos riesgos para la explotación del transporte ferroviario, y esto
 •
 
-
 ## Página 77
+
 
 en el paso de la gestión y organización del transporte ferroviario desde estaciones individuales por parte de los jefes de estación a la gestión y organización del transporte ferroviario desde puestos de despacho centralizados y remotos por parte de los despachadores, es una cuestión fundamental del gestor de la infraestructura, y la Oficina Ferroviaria exige dicha evaluación;
 la línea Plzeň – Cheb está controlada a distancia desde hace al menos 50 años;
@@ -2114,14 +2166,15 @@ En relación con la experiencia de cincuenta años y la modernización de la inf
 
 ## Página 78
 
+
 a cualquier cambio, ya sea técnico, operativo o organizativo, se tomarán de la época anterior y de la práctica hasta ahora existente todas las buenas experiencias y prácticas. Precisamente la práctica anterior demostró que la instalación de señales de camino en estaciones con curvas tuvo y sigue teniendo, en relación con el marco jurídico anteriormente mencionado, su sentido.
 Es paradójico que la pérdida de los elementos de seguridad y salvaguardias anteriormente mencionados se produjera en el marco de la modernización de la infraestructura, es decir, un proceso que, por supuesto, debe percibirse de forma muy positiva, especialmente allí donde se introducen nuevas tecnologías que eliminan el fallo del factor humano. El problema, en relación con la modernización, pueden ser decisiones inadecuadas o no consideradas en función de los riesgos, o procedimientos tecnológicos mal establecidos o ausentes.
 Precisamente la combinación de la imposibilidad de utilizar la transmisión de señales al vehículo ferroviario de cabeza, la ausencia de una señal de camino y la imposibilidad de comunicación oportuna a través de la conexión básica, combinada con el fallo de dos conductores en la registración y la interrupción de la cooperación mutua entre el conductor y el despachante de línea durante la comprobación de la funcionalidad, la Inspección Ferroviaria considera como factores contribuyentes a la aparición de esta incidencia.
 Aunque ciertamente no se pueden cuestionar de ninguna manera las más de cincuenta años de experiencia adquirida en materia de explotación segura de la vía y del transporte ferroviario en la línea Plzeň – Cheb, es necesario señalar que el código de buenas prácticas y, en particular, el sistema de referencia, debería utilizarse, teniendo en cuenta todos los cambios, ya sea en la infraestructura o en los procedimientos operativos, de manera que la argumentación de más de cincuenta años de experiencia en la organización y gestión a distancia del transporte ferroviario no pueda interpretarse en el sentido de que ya no sea necesario hacer nada más desde el punto de vista de la garantía de la seguridad, sino, por el contrario, de manera que de esta larga práctica se aproveche todo lo que en relación con la seguridad fuera funcional y eficiente.
 Con la declaración de la Autoridad Ferroviaria de que: «El cambio en la composición regular, el cambio de la serie del vehículo de tracción, la transmisión de señales a la cabina del conductor y la comunicación por radio son, según la opinión de la Autoridad Ferroviaria, un cambio que tiene impacto en la seguridad, pero en nuestro caso (entendiéndose en el caso de esta incidencia concreta) es insignificante», la Inspección Ferroviaria no está de acuerdo. La Autoridad Ferroviaria, a su vez, en relación con esta declaración, hace referencia únicamente a las conclusiones del explotador de la vía SŽ, indicando que: «Los hechos constatados anteriormente demuestran que, ante todo, se produjo el fallo del conductor, que ignoró todas las órdenes y normas fundamentales del explotador de la vía». Los hallazgos anteriormente mencionados, incluidas todas las circunstancias y factores, demostraron, sin embargo, que precisamente la garantía de una comunicación funcional entre el conductor y el despachante de línea pudo haber evitado la aparición de esta incidencia. Si prescindimos del hecho ya mencionado en varias ocasiones de que, a través de una conexión básica funcional, en caso de amenaza inminente para la explotación ferroviaria, especialmente si se ponen en peligro vidas humanas y existe riesgo de demora, el despachante de línea tiene la posibilidad de detener el tren mediante la orden «Parada GENERAL» sin la cooperación del conductor, la declaración de la Autoridad Ferroviaria resulta aún más sorprendente si tenemos en cuenta que precisamente las órdenes y normas del explotador de la vía que fueron violadas por el conductor del tren Os 7004 contenían en el pasado procedimientos tecnológicos que, en el marco de la cooperación entre el explotador de la vía y el transportista, se establecieron de tal manera que estaban en un nivel de seguridad superior al actual. Es necesario ser conscientes de que cualquier reducción de elementos de seguridad y salvaguardias no conceptual, no meditada o realizada con fines específicos por cualquier motivo, y especialmente allí donde es necesario, por el contrario, eliminar en la mayor medida posible el fallo del factor humano, puede tener como consecuencia la aparición de incidencias.
 
-
 ## Página 79
+
 
 A modo de conclusión y en relación con la declaración del transportista ČD de que la utilización excepcional de la unidad automotora de la serie 814/914 en lugar del vehículo de tracción previsto de la serie 844 no es, desde el punto de vista de la posibilidad de respetar la velocidad máxima, un sustituto pleno, la Inspección Ferroviaria indica que se adhiere a esta opinión. Es evidente que el transportista no tenía, dada la retirada de tres vehículos de tracción de la serie 844, posibilidad de otra elección. Por otro lado, es necesario ser conscientes de que incluso un incumplimiento aparentemente poco importante del procedimiento tecnológico establecido, consistente en no informar al despachante de línea de la reducción de la velocidad del tren en 40 km.h-1 respecto a la velocidad establecida, cuando los tiempos de circulación fijados en el gráfico corresponden al vehículo de tracción de la serie 844, puede, debido al retraso lógicamente producido, dar lugar a incidencias para las que el despachante de línea debe estar preparado de antemano, teniendo en cuenta también su carga de trabajo.
 Los posibles problemas con la utilización excepcional de unidades motoras de la serie 814/914 en líneas modernizadas con mayor velocidad de circulación, prescindiendo de la falta de equipamiento de estos vehículos ferroviarios con un dispositivo de seguridad de tren que permita la transmisión de señales a la cabina del conductor, posibilidad permitida por el marco jurídico, deben percibirse de tal manera que también la fluidez y la puntualidad del transporte ferroviario es uno de los elementos de seguridad fundamentales que pueden conducir a la eliminación de muchos riesgos surgidos.
@@ -2135,8 +2188,8 @@ En el anexo n.º 1 del Decreto n.º 376/2006 Sb., en el § 2 apartado 2 letra e)
 Tanto el transportista ČD como el explotador de la vía SŽ han emitido normas internas mediante las cuales establecieron procedimientos y métodos generales de evaluación de riesgos y la introducción de medidas para su gestión.
 Los hallazgos relacionados con la aplicación y el cumplimiento del sistema de garantía de la seguridad, y en particular en relación con la evaluación de riesgos y la introducción de medidas para su gestión, se indican en la sección «Procedimientos, métodos, contenido y resultados de la actividad de evaluación de riesgos y seguimiento realizada por cualquiera de los sujetos implicados» (véase el punto 4.4.2 de la presente IZ).
 
-
 ## Página 80
+
 
 ### 4.4.4 Sistema de gestión de los sujetos responsables del mantenimiento de los vehículos ferroviarios y de los talleres de mantenimiento
 El sistema de gestión de los sujetos responsables del mantenimiento de los vehículos ferroviarios y de los talleres de mantenimiento no guardaba relación con la aparición de la incidencia.
@@ -2154,6 +2207,7 @@ línea decidió que el tren Os 7004 sería adelantado en la estación de Lázně
 El despachante de línea estableció en la estación de Lázně Kynžvart, de forma de camino desde el JOP, la vía de tren para el tren Os 7004 en la 1.ª vía de estación. En la vía de tren se produjo un cierre y en la señal de entrada S se le señaló al tren Os 7004 la señal «Aviso».
 
 ## Página 81
+
 
 Tras la entrada del tren Os 7004 en la 1.ª vía de tráfico, el despachador de línea
 •
@@ -2215,159 +2269,106 @@ durante las actividades relacionadas con su explotación y mantenimiento, y que 
 ### – el maquinista. Se confirmó que se trata de un fallo individual fortuito de una persona
 ### sin dependencia directa con la serie y el tipo de vehículo empleado
 
-
 ## Página 82
 
-, el lugar de surgimiento del acontecimiento excepcional, la situación operativa actual, la
-edad o la experiencia del maquinista.
-En relación con la segunda parte de la solicitud:
-Posición de la Oficina Ferroviaria en el proceso de evaluación de riesgos:
-Dado que la Oficina Ferroviaria ha emitido su propia metodología para la determinación
-de la categorización de los cambios, con el fin de facilitar a los proponentes la
-comprensión de todo el proceso y, en la medida de lo posible, unificar las visiones
-básicas sobre la determinación de la significatividad de los cambios en el sistema
-ferroviario, no existe prácticamente diferencia entre la aplicación del CSM por grandes y
-pequeñas empresas. Las empresas recién llegadas aceptan más los requisitos que las
-empresas ya establecidas; no obstante, la Oficina Ferroviaria se reserva, en cada solicitud
-de implantación o modificación de un subsistema, verificar también la situación formal de
-la documentación de seguridad relevante para el CSM que se ha entregado. En caso de
-discrepancias, aborda esta cuestión con los proponentes en el marco de los distintos
-procesos de aprobación y controla su eventual corrección. Asimismo, dispone también de
-los Informes de Evaluación de la Seguridad (IEB) entregados por el proponente, cuando se
-trate de cambios significativos, y aquí controla sistemáticamente también el trabajo de los
-entes de evaluación del CSM (EEB), ya que en la gran mayoría de los casos la Oficina
-Ferroviaria es la que les ha emitido el reconocimiento de EEB en la República Checa y,
-por tanto, puede también exigir eficaz y oportunamente la corrección de las conclusiones
-del EEB y de otras deficiencias formales en sus IEB directamente en la práctica, durante
-los procesos de aprobación de los distintos subsistemas. Asimismo, también puede
-proceder con mucha facilidad a corregir el trabajo del EEB o, en el caso extremo, retirarle
-el reconocimiento.
-En la actualidad, el estado de aplicación del CSM se encuentra en una situación en la que
-la Oficina Ferroviaria ha implantado parcial y eficazmente la aplicación del CSM en el
-proponente que es solicitante de alguna actuación ante la Oficina Ferroviaria. Actualmente
-se controla la documentación relativa al CSM, entregada en las distintas solicitudes ante la
-Oficina Ferroviaria. Puede constatarse que esta documentación es aproximadamente entre
-un 50 y un 60 % correcta, por lo que la Oficina Ferroviaria, en el período actual, se centra
-sobre todo en esta documentación y en la actividad de control de la misma. Solo cuando
-esto sea del 100 %, se procederá al siguiente paso, que es la forma en que se distribuye la
-información a los proponentes y se transmiten los riesgos compartidos, etc.
-### El cambio en la composición regular, el cambio de la serie de la unidad de tracción, la
-### transmisión de las señales a la cabina del maquinista y la comunicación radiofónica son,
-### a juicio de la Oficina Ferroviaria, un cambio con impacto en la seguridad, pero en nuestro
-### caso es insignificante. Debido al cambio en la composición del tren no se produjo
-ningún acontecimiento excepcional. De la investigación realizada por el gestor del
-ferrocarril se constató:
-En el tren Os 7004 no fue realizada por parte de un empleado del operador (el
-•
-maquinista) el registro del número funcional del tren en la red de radio digital GSM-R.
-No era posible llamar al tren mediante el número funcional del tren.
-El despachador de línea intentó informar al maquinista del tren Os 7004 de que sería
-•
-adelantado por el tren IC 515 en la estación Lázně Kynžvart a través de la comunicación
-radiofónica básica (red GSM-R). No fue posible establecer la comunicación. Por los
-motivos anteriormente indicados, el despachador de línea utilizó la comunicación de
-emergencia (el número de teléfono del maquinista), pero en el momento del inicio de la
-llamada la cabeza del tren Os 7004 ya se encontraba más allá del nivel de la señal de
-salida S1.
-El itinerario de tren para la entrada del tren Os 7004 en la primera vía de tráfico fue
-•
-establecido por procedimiento de itinerario, mediante las actuaciones prescritas. Durante
-la entrada en la estación Lázně Kynžvart, al maquinista del tren Os 7004 se le preseñalizó,
-mediante la señal de entrada S de la estación Lázně (señal "Aviso"), la señal "Alto" en la
-señal de salida S1. La señal "Alto" permaneció en la señal de salida S1 hasta el momento
-del descarrilamiento de los vehículos ferroviarios del tren Os 7004 (descarga de datos del
-SZZ).
-
+vehículos, lugar de origen del suceso extraordinario, situación operativa actual, edad o
+experiencia del maquinista.
+En cuanto a la segunda parte de la solicitud:
+Posición de la Autoridad Ferroviaria en el proceso de evaluación de riesgos:
+Dado que la Autoridad Ferroviaria ha emitido su propia metodología para la determinación de la categorización de los cambios, con el fin de facilitar a los proponentes la comprensión de todo el proceso y, en la medida de lo posible, unificar las perspectivas básicas sobre la determinación de la significancia de los cambios del sistema ferroviario, no existe prácticamente diferencia entre la aplicación del CSM por parte de las grandes y las pequeñas empresas. Las empresas recién llegadas aceptan más los requisitos que las empresas consolidadas; sin embargo, la Autoridad Ferroviaria se reserva, en cada solicitud de implantación o modificación de un subsistema, verificar también el estado formal de la documentación de seguridad relevante para el CSM que se ha entregado. En caso de discrepancias, aborda esta cuestión con los proponentes en el marco de los distintos procesos de aprobación y supervisa su eventual corrección. Asimismo, dispone igualmente de los Informes de Evaluación de Seguridad (ZPB) entregados por el proponente cuando se trata de cambios significativos, y en ellos supervisa sistemáticamente también el trabajo de los organismos de evaluación del CSM (SPB), ya que en la gran mayoría de los casos la Autoridad Ferroviaria es la que les ha emitido el reconocimiento de SPB en la República Checa, y por ello puede también exigir eficaz y oportunamente la corrección de las conclusiones de los SPB y de otros defectos formales en sus ZPB directamente en la práctica, durante los procesos de aprobación de los distintos subsistemas. Asimismo, puede también con mucha facilidad proceder a la corrección del trabajo del SPB o, en el caso extremo, retirarle el reconocimiento.
+En la actualidad, el estado de aplicación del CSM se encuentra en una situación en la que la Autoridad Ferroviaria ha implantado parcial y eficazmente la aplicación del CSM en el proponente que es solicitante de alguna actuación ante la Autoridad Ferroviaria. Actualmente se supervisa la documentación relativa al CSM que se entrega en las distintas solicitudes presentadas ante la Autoridad Ferroviaria. Puede constatarse que esta documentación es correcta en aproximadamente un 50 a un 60 %, por lo que la Autoridad Ferroviaria, en el período actual, se centra principalmente en esta documentación y en la actividad de supervisión derivada de la misma. Solo cuando esto sea del 100 %, procederá al siguiente paso, que consiste en la forma en que se distribuye la información a los proponentes y se transmiten los riesgos compartidos, etc.
+### La modificación de la composición regular, el cambio de serie de la unidad de tracción, la transmisión de las señales a la cabina del maquinista y la comunicación radiofónica constituyen, según la opinión de la Autoridad Ferroviaria, un cambio con impacto en la seguridad, pero en nuestro caso es insignificante. Debido al cambio de composición del tren no se produjo ningún suceso extraordinario. De la investigación realizada por el gestor de la vía se constató:
+• En el tren Os 7004, el empleado de la empresa de transporte (el maquinista) no realizó el registro del número funcional del tren en la red digital de radio GSM-R. No era posible llamar al tren mediante el número funcional del tren.
+• El despachador de línea intentó informar al maquinista del tren Os 7004 del adelantamiento por el tren IC 515 en la estación Lázně Kynžvart mediante la comunicación radiofónica básica (red GSM-R). No fue posible establecer la comunicación. Por las razones expuestas, el despachador de línea utilizó la comunicación de emergencia (el número de teléfono del maquinista), pero en el momento en que comenzó la llamada, la cabeza del tren Os 7004 ya se encontraba más allá del nivel de la señal de salida S1.
+• La ruta de tren para la entrada del tren Os 7004 en la primera vía de tráfico se estableció de forma de ruta, mediante las operaciones prescritas. Al entrar en la estación Lázně Kynžvart, al maquinista del tren Os 7004 se le preseñalizó, mediante la señal de entrada S de la estación Lázně (señal «Aviso»), la señal «Alto» en la señal de salida S1. La señal «Alto» permaneció en la señal de salida S1 hasta el momento del descarrilamiento de los vehículos ferroviarios del tren Os 7004 (descarga de datos del SZZ).
 
 ## Página 83
 
-Desde el punto de parada del tren Os 7004 en la primera vía junto al andén no se ve la
+Desde el lugar de parada del tren Os 7004 en el primer vía junto al andén no se ve
 •
-señal de salida, es decir, sus indicadores de señal.
-El maquinista del tren Os 7004 con retraso, inmediatamente antes de finalizar la
+la señal de salida, o sea, sus señales luminosas.
+### El maquinista del tren retrasado Os 7004, inmediatamente antes de finalizar el
 •
-subida y bajada de pasajeros, de conformidad con la disposición interna del gestor del
-ferrocarril SŽDC D1 artículo 2980, no solicitó al despachador de línea la expedición del
-tren, pero tampoco el despachador de línea informó al maquinista del tren Os 7004 del
-cambio de expedición por otro medio que no fuera la señal del semáforo principal. De
-forma demostrable no se discutió la maniobra desde el extremo de la composición del tren
-Os 7004 hasta la señal de salida S1 de acuerdo con lo dispuesto en el artículo 3974 y en la
-parte cuarta, capítulo III – Maniobras de la disposición interna del gestor del ferrocarril
-SŽDC D1.
-A pesar de que de forma demostrable el maquinista del tren Os 7004 no disponía de la
+embarque y desembarque de pasajeros, de conformidad con la norma interna del
+operador ferroviario SŽDC D1 artículo 2980, no solicitó al despachador de línea la
+expedición del tren, pero tampoco el despachador de línea informó al maquinista del
+tren Os 7004 del cambio de expedición por otro medio que no fuera la señal de la
+señal principal. Acreditadamente no se había discutido la maniobra desde el extremo
+del tren Os 7004 hasta la señal de salida S1 según lo dispuesto en el artículo 3974
+y en la parte cuarta, capítulo III – Maniobra de la norma interna del operador
+ferroviario SŽDC D1.
+Aunque acreditadamente el maquinista del tren Os 7004 no tenía la información de
 •
-información de que la señal de salida S1 permitía la salida del tren, no se realizó la
-expedición del tren por otro medio que no fuera la señal del semáforo principal (la señal de
-salida S1) ni se concedió autorización para la circulación hasta la señal de salida S1, el
-maquinista, tras realizar las actuaciones prescritas por el operador (subida, bajada de
-pasajeros, cierre de las puertas de acceso), puso el tren Os 7004 en movimiento de forma
-no autorizada. Posteriormente, el maquinista no respetó la señal "Alto" en la señal de
-salida S1 e invadió el itinerario de tren establecido para el tren Ex 515.
-### Los hechos constatados anteriormente indican que, ante todo, se produjo un fallo del
-### maquinista, que ignoró todas las órdenes y disposiciones fundamentales del gestor del
-### ferrocarril.
-De la evaluación de los riesgos y de las medidas implantadas para la gestión del riesgo,
-cuando el cambio de las condiciones operativas representa nuevos riesgos para la explotación
-del transporte ferroviario, esto es, en la transición de la dirección y organización del
-transporte ferroviario desde las distintas estaciones por parte de los jefes de estación a la
-dirección y organización del transporte ferroviario desde puestos de despacho centralizados
-remotos por parte de los despachadores, es una cuestión fundamental del gestor de la
-infraestructura y la Oficina Ferroviaria exige tal evaluación. A este respecto, constata que la
-línea Plzeň – Cheb es gestionada a distancia desde hace al menos 50 años.
-Sobre la base del acontecimiento excepcional anteriormente citado, la Oficina Ferroviaria
-actualizó el plan de inspecciones estatales y, posteriormente, realizó al operador České
-dráhy, a.s., el día 10. 8. 2020, una inspección estatal integral al sistema de seguridad. En
-el período comprendido entre el 1. 1. 2015 y el 31. 12. 2020, la Oficina Ferroviaria
-realizó un total de 115 inspecciones estatales al sistema de garantía de la seguridad de la
-explotación del ferrocarril de ámbito nacional y regional y del transporte ferroviario en
-dichos ferrocarriles, siendo parte de este sistema también los procedimientos y métodos
-de evaluación del riesgo y de adopción de medidas para la gestión del riesgo en el caso de
-que los cambios de las condiciones operativas representen nuevos riesgos para la vía de
-circulación del ferrocarril o para la explotación del transporte ferroviario.
-A la respuesta anteriormente indicada de la Oficina Ferroviaria, la Inspección Ferroviaria
-emitió su postura en la parte "Procedimientos, métodos, contenido y resultados de las
-actividades de evaluación del riesgo y de seguimiento que realizan cualquiera de los entes
-involucrados" (véase el punto 4.4.2 de la presente ZZ).
-### 4.4.6 Aprobaciones, certificados e informes de evaluación emitidos por la agencia, los
-### órganos nacionales de seguridad u otros entes de evaluación de la conformidad
-El gestor del ferrocarril explotó el ferrocarril sobre la base de la autorización administrativa
-válida y del certificado de seguridad del gestor del ferrocarril. El operador explotó el
-transporte ferroviario sobre la base de la licencia válida y del certificado de operador.
+que la señal de salida S1 permitía la salida del tren, no se realizó la expedición
+del tren por otro medio que no fuera la señal de la señal principal (señal de salida
+S1) ni se concedió autorización para la marcha hasta la señal de salida S1, el
+maquinista, tras realizar las actuaciones prescritas por el transportista (embarque,
+desembarque de pasajeros, cierre de las puertas de embarque), puso en movimiento
+indebidamente el tren Os 7004. Posteriormente, el maquinista no respetó la señal
+«Alto» en la señal de salida S1 y entró en la vía de tren establecida para el tren
+Ex 515.
+### Los hechos constatados anteriormente indican que, ante todo, se produjo un fallo
+del maquinista, que ignoró todas las órdenes y normas fundamentales del operador
+ferroviario.
+La evaluación de los riesgos y de las medidas establecidas para la gestión del riesgo,
+cuando el cambio de las condiciones operativas representa nuevos riesgos para la
+explotación del transporte ferroviario, esto es, en la transición de la dirección y
+organización del transporte ferroviario desde las distintas estaciones por parte de
+los jefes de estación a la dirección y organización del transporte ferroviario desde
+puestos de despacho centralizados y remotos por parte de los despachadores, es una
+cuestión fundamental del operador de infraestructura y la Oficina Ferroviaria exige
+tal evaluación. A este respecto, constata que la línea Plzeň – Cheb se dirige a
+distancia desde hace al menos 50 años.
+Sobre la base del incidente extraordinario citado anteriormente, la Oficina Ferroviaria
+actualizó el plan de inspecciones estatales y, a continuación, realizó al transportista
+České dráhy, a.s., el día 10. 8. 2020 una inspección estatal integral al sistema de
+seguridad. En el período del 1. 1. 2015 al 31. 12. 2020, la Oficina Ferroviaria
+realizó un total de 115 inspecciones estatales al sistema de garantía de seguridad de
+la explotación de la red ferroviaria de ámbito nacional y regional y del transporte
+ferroviario en dichas redes, siendo parte de este sistema también los procedimientos
+y métodos de evaluación del riesgo y de establecimiento de medidas para la gestión
+del riesgo en caso de que los cambios de las condiciones operativas representen
+nuevos riesgos para la vía de circulación ferroviaria o para la explotación del
+transporte ferroviario.
+Respecto a la respuesta anterior de la Oficina Ferroviaria, la Inspección Ferroviaria
+emitió su posición en la parte «Procedimientos, métodos, contenido y resultados de las
+actividades de evaluación del riesgo y de seguimiento que realiza cualquiera de los
+sujetos participantes» (véase el punto 4.4.2 de esta ZZ).
+### 4.4.6 Aprobaciones, certificados y informes de evaluación otorgados por la agencia,
+las autoridades nacionales de seguridad u otros sujetos de evaluación de la
+conformidad
+El operador ferroviario explotaba la red en base a la autorización administrativa
+vigente y al certificado de seguridad del operador ferroviario. El transportista
+explotaba el transporte ferroviario en base a la licencia vigente y al certificado del
+transportista.
 
 ## Página 84
 
 ### 4.4.7 Otros factores sistémicos
 En la investigación no se detectaron otros factores sistémicos.
 ### 4.5 Sucesos anteriores de naturaleza similar
-La Inspección Ferroviaria, en el período comprendido entre el 1 de enero de 2015 y la fecha de ocurrencia de la MU en cuestión, registra en las vías férreas, de categoría nacional y regional, un total de 502 MU análogas, en las que un tren invadió indebidamente más allá de la señal principal, cuya señal «Alto» prohibía la circulación del tren.
-Como consecuencia de estas circulaciones indebidas, se produjo 1 persona fallecida, 82 personas resultaron lesionadas y se originó un daño total de 262 802 288 CZK.
-En el período observado, la DI registra, del número anteriormente mencionado, un total de 111 MU análogas, cuya causa de origen fue la puesta en movimiento indebida de un tren con transporte de viajeros, la salida indebida de un tren del espacio destinado al desembarque y embarque de viajeros, con la consiguiente circulación indebida de dichos trenes más allá de la señal principal con la señal «Alto», en estaciones donde la orden de salida del tren la da el jefe de estación al maquinista mediante la colocación de la señal principal en la señal que autoriza la circulación. De este número, se produjo posteriormente en 2 casos una colisión de vehículos ferroviarios y en 1 caso el descarrilamiento de un vehículo ferroviario.
+La Inspección Ferroviaria, en el período comprendido entre el 1. 1. 2015 y la fecha de ocurrencia de la MU objeto de estudio, registra en las vías férreas, de categoría nacional y regional, un total de 502 MU análogas, en las que un tren invadió indebidamente más allá del límite de la señal principal, la cual, con la señal «Alto», prohibía la circulación del tren.
+Como consecuencia de estas circulaciones indebidas, falleció 1 persona, 82 personas resultaron lesionadas y se produjo un daño total de 262 802 288 Kč.
+En el período observado, la DI registra, del número anteriormente mencionado, un total de 111 MU análogas, cuya causa de producción fue la puesta en movimiento indebida de un tren con transporte de viajeros, la salida indebida de un tren del espacio destinado al desembarque y embarque de viajeros, con la consiguiente circulación indebida de dichos trenes más allá de la señal principal con la señal «Alto», en estaciones donde la orden de salida del tren la da el jefe de estación al maquinista mediante la colocación de la señal principal en la señal que autoriza la circulación. De este número, se produjo posteriormente en 2 casos una colisión de material rodante y en 1 caso un descarrilamiento de material rodante.
 ### 5 CONCLUSIONES
 ### 5.1 Resumen del análisis y conclusiones relativas a las causas del suceso
 La causa inmediata del suceso extraordinario fue:
-la puesta en movimiento indebida del tren sin despacho por otro medio que no fuera la señal
+la puesta en movimiento indebida del tren sin despacho por otro medio que no fuera la señal de la señal principal y la consiguiente no observancia de la señal «Alto» de la señal principal de salida S1 de la est. Lázně Kynžvart.
 •
-de la señal principal y la consiguiente no adopción de la señal «Alto» de la señal principal de salida S1 de la est. Lázně Kynžvart.
 Los factores contribuyentes al suceso extraordinario fueron:
-la no realización del registro del número funcional válido del tren Os 7004 en la red
+la no realización del registro del número funcional válido del tren Os 7004 en la red digital de radio GSM-R y la no realización de la prueba funcional de la conexión básica mediante la comprobación de la validez de los datos de dicho registro;
 •
-de radio digital GSM-R y la no realización de la prueba funcional de la conexión básica mediante la comprobación de la validez de los datos de dicho registro;
-la ausencia de un sistema de seguridad automático de tren móvil que permita la
+la ausencia de un sistema de seguridad ferroviaria móvil que permita la transmisión de las señales de las señales principales y de las preseñales a la cabina de conducción del conductor del material rodante.
 •
-transmisión de las señales de las señales principales y de las señales de preaviso a la cabina de conducción del conductor del vehículo ferroviario.
 La DI no detectó una causa sistémica.
 
-### A summary of the analysis and conclusions with regard to the causes of the
-occurrence
-Causal factor:
-the unauthorized movement of the regional passenger train No. 7004 which was not
+### Resumen del análisis y conclusiones relativas a las causas del suceso
+Factor causal:
+la circulación no autorizada del tren regional de viajeros n.º 7004, que no fue despachado por otro medio que no fuera la señal de la señal principal, y la consiguiente no observancia de la señal «Alto» dada por la señal principal de salida S1 en Lázně Kynžvart.
 •
-dispatched another way then by the signal of the main signal device and
-consequent failure to respect the signal „Stop” given by the main departure signal
-device S1 at Lázně Kynžvart.
-
 
 ## Página 85
+
 
 Contributing factors:
 a failure to register a valid functional number of the train No. 7004 into the digital
@@ -2412,45 +2413,62 @@ the train driver of the regional passenger train No. 7004 running in Karlovy Var
 •
 Cheb section did not switch the radio station at the GSM-R radio indicator (located
 
-
 ## Página 86
 
-in front of Cheb station), thus he did not allow the registration of the valid functional
-train number in the GSM-R digital radio network;
-the incoming train driver of the regional passenger train No. 7004 did not perform all
+delante de la estación de Cheb), por lo que no permitió el registro del número funcional
+válido del tren en la red de radio digital GSM-R;
+el maquinista del tren entrante del tren regional de pasajeros n.º 7004 no realizó todas
 •
-actions related to the control of the functionality of the basic connection after
-replacement the previous train driver who run that train and before the train
-departure from Cheb station, therefore the valid functional number of the train was
-not registered in the GSM-R digital radio network;
-the RU did not notify the IM of all extraordinary events on the regional passenger
+las acciones relacionadas con la comprobación de la funcionalidad de la conexión básica
+tras sustituir al maquinista anterior que conducía dicho tren y antes de la salida del tren
+de la estación de Cheb, por lo que el número funcional válido del tren no se registró
+en la red de radio digital GSM-R;
+el RU no notificó al IM todos los acontecimientos extraordinarios del tren regional de
 •
-train No. 7004 before its ride (the reduction of the train speed compared to the
-maximum permissible train speed by 10 and more kph).
-### 6 RECOMENDACIONES DE SEGURIDAD
-La Inspección Ferroviaria, con base en lo dispuesto en el apartado 1 del artículo 53e de la Ley n.º 266/1994 Sb., recomienda, en relación con la prevención de sucesos extraordinarios:
-
-### A la Autoridad Ferroviaria:
-Dada la creciente frecuencia de problemas relacionados con la no realización del registro regular del número funcional válido del tren en la red de radio digital GSM-R y la no realización de la prueba (comprobación) funcional de la conexión básica, que en caso de necesidad pueden conducir a situaciones en las que, ante una amenaza inminente para el tráfico ferroviario, especialmente si se ven amenazadas vidas humanas y existe riesgo de demora, no se logre evitar el peligro inminente de la ocurrencia de un suceso extraordinario o reducir las posibles consecuencias:
-en el marco del aumento del nivel de seguridad, garantizar que el transportista y el
+pasajeros n.º 7004 antes de su circulación (la reducción de la velocidad del tren en
+comparación con la velocidad máxima permitida del tren en 10 km/h o más).
+### 6 BEZPEČNOSTNÍ DOPORUČENÍ
+Drážní inspekce na základě ustanovení § 53e odst. 1 zákona č. 266/1994 Sb., doporučuje
+s ohledem na předcházení mimořádným událostem:
+### Al Drážnímu úřadu:
+Dado que cada vez se presentan con mayor frecuencia problemas relacionados con la no
+realización del registro adecuado del número funcional válido del tren en la red de radio
+digital GSM-R y con la no realización de la prueba funcional (comprobación) de la
+conexión básica, lo que en caso de necesidad puede conducir a situaciones en las que,
+ante una amenaza inminente para el tráfico ferroviario, especialmente si se ven amenazadas
+vidas humanas y existe riesgo de demora, no se logre evitar el peligro inminente de
+producción de un acontecimiento extraordinario o reducir las posibles consecuencias:
 •
-gestor de la infraestructura realicen la comprobación de la funcionalidad de la conexión básica de radio de forma conjunta, de modo que, mediante la incorporación de un elemento de seguridad adicional, ya sea mediante la determinación de procedimientos tecnológicos comunes o mediante una actividad de control eficaz y coordinada, se reduzca la posibilidad de riesgo de fallo del factor humano;
+dentro del aumento del nivel de seguridad, garantizar que el transportista y el gestor
+de la infraestructura realicen la comprobación de la funcionalidad de la conexión
+radiofónica básica de forma conjunta, de modo que, mediante la incorporación de
+otro elemento de seguridad, ya sea mediante la fijación de procedimientos
+tecnológicos comunes o mediante una actividad de comprobación eficaz y coordinada,
+se reduzca la posibilidad de riesgo de fallo del factor humano;
 iniciar la mejora de la cooperación y la coordinación mutuas entre los gestores de
 •
-infraestructura y los transportistas en la gestión de riesgos, especialmente en casos concretos en los que se produce una interacción mutua en una interfaz común, con énfasis en la eliminación del fallo del factor humano;
-dentro de sus competencias, garantizar que el sistema de gestión de la seguridad
+infraestructura y los transportistas en la gestión de los riesgos, especialmente en
+los casos concretos en los que se produce una interacción mutua en una interfaz
+común, con énfasis en la eliminación del fallo del factor humano;
+dentro de sus competencias, garantizar que el sistema de garantía de seguridad
 •
-adoptado, en particular el método de evaluación de riesgos y la adopción de medidas de gestión de riesgos, sea aplicado por el gestor de la infraestructura y el transportista de manera que sus procedimientos y métodos de carácter general se apliquen de forma más eficaz no solo a las situaciones operativas concretas, sino también en los casos en que, en el marco de la modernización, optimización o reconstrucción de la infraestructura, se producen cambios técnicos, operativos y organizativos.
-
+adoptado, en particular el método de evaluación de riesgos y la adopción de medidas
+para la gestión de riesgos, sea aplicado por el gestor de la infraestructura y el
+transportista de manera que sus procedimientos y métodos establecidos de forma
+general se apliquen de manera más eficaz no solo a las situaciones operativas
+concretas, sino también en los casos en que, en el marco de la modernización,
+optimización o reconstrucción de la infraestructura, se producen cambios técnicos,
+operativos y organizativos.
 ### SAFETY RECOMMENDATIONS
-Addressed to the Czech National Safety Authority (the NSA):
-as part of increasing the level of security, we recommend that the NSA ensure that
+Dirigidas a la Autoridad Nacional de Seguridad Checa (la NSA):
 •
-the RU with the IM will check the functionality of the basic radio link so that another
-safety element will be engaged (e. g. by the joint technological procedures will be
-
+como parte del aumento del nivel de seguridad, recomendamos que la NSA garantice
+que el RU con el IM comprobará la funcionalidad de la conexión radiofónica básica
+de modo que se incorpore otro elemento de seguridad (p. ej., mediante los
+procedimientos tecnológicos comunes se
 
 ## Página 87
+
 
 determined or effective and coherent control activities will be executed) so that the
 risk of human error will be reduced;
@@ -2475,8 +2493,8 @@ Director
 De la Inspección Territorial de Bohemia
 De la Inspección Territorial de Bohemia
 
-
 ## Página 88
+
 
 ### ANEXOS
 Fig. n.º 4: Vista desde el lugar de detención del Os 7004 en dirección a la cabecera de salida de la est. Lázně Kynžvart

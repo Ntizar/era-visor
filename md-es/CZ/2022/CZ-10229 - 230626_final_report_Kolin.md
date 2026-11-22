@@ -10,13 +10,14 @@ chars: 243191
 ratio_longitud: 1.28
 tokens_in: 114851
 tokens_out: 83921
-verificacion: revisar
-notas_cifras: ["bloque 6: original bilingüe: se compara contra el idioma principal (CS)", "bloque 8: original bilingüe: se compara contra el idioma principal (CS)", "bloque 13: original bilingüe: se compara contra el idioma principal (CS)"]
-avisos: ["bloque 6: ratio 1.72", "bloque 8: ratio 1.79"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 3: original bilingüe: se compara contra el idioma principal (CS)", "página 4: original bilingüe: se compara contra el idioma principal (CS)", "página 7: original bilingüe: se compara contra el idioma principal (CS)", "página 8: original bilingüe: se compara contra el idioma principal (CS)", "página 12: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -39,13 +40,13 @@ IČ: 75009561
 mail@dicr.cz
 tel.: +420 736 521 003
 
-
 ## Página 2
+
 
 El presente informe final es público y todos los hechos en él recogidos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ## 1 RESUMEN
 Fuente: Správa železnic, státní organizace
@@ -67,8 +68,8 @@ Causa inmediata:
 la circulación del vehículo ferroviario del tren Os 5005 con el colector de corriente levantado sobre el separador de tramos n.º 54 en la estación de ferrocarril de Kolín, y la consiguiente conexión del tramo de catenaria bajo tensión con el tramo de catenaria desenergizado, donde en dicho momento se estaban realizando trabajos en el equipo – catenaria (reparación del hilo de contacto dañado sobre la vía de estación n.º 101a), causada por una cadena de anomalías, cuando:
 ◦el jefe de trabajos de la Administración de electrotécnica y energía de Praga inició los trabajos en el equipo – catenaria sobre la vía de estación n.º 101a, sin haber comunicado desde el
 
-
 ## Página 4
+
 
 puesto de trabajo requerido al despachante de línea 114 del Puesto de despacho central de Praga la solicitud de trabajo en el equipo y haber acordado con él las condiciones de trabajo en el equipo, 
 ◦el electrodespachante independiente ED3 de la Administración de electrotécnica y energía de Praga no informó mediante una instrucción de la prohibición de circulación de vehículos ferroviarios por las vías de estación n.º 100, 101, 101a y también desde las vías de estación 103 a 109 de la estación de ferrocarril de Kolín al despachante de línea 114 del Puesto de despacho central de Praga directamente, sino a través de un intermediario – el despachante de explotación PD1 del Puesto de despacho central de Praga, quien al recibir la instrucción, que no podía ejecutar y cumplir, no formuló ninguna objeción, lo que tuvo como consecuencia la distorsión de dicha instrucción,
@@ -83,8 +84,8 @@ A la Autoridad Ferroviaria:
 en el marco de su actividad como autoridad nacional de seguridad, la adopción de medidas que garanticen en el gestor de la infraestructura Správa železnic, státní organizace:
 mediante la modificación de la redacción del reglamento interno „SŽDC E6 Reglamento para la actividad de los electrodespachantes“, en la redacción vigente en el momento de la producción de la incidencia, o en su caso de otros reglamentos internos relacionados, la orientación de la estructura de las instrucciones dadas por el electrodespachante independiente, es decir, la orden de despacho, pero también las instrucciones relativas a las condiciones para la circulación de vehículos ferroviarios de tracción eléctrica y otras medidas de tráfico necesarias, mediante su definición exacta y la determinación marco del contenido del mensaje, o en su caso la determinación de una estructura fija del contenido del mensaje (redacción obligatoria).
 
-
 ## Página 5
+
 
 ## RESUMEN
 ### 19 de mayo de 2022, 7:54 (5:54 GMT).
@@ -114,8 +115,8 @@ la incorrecta puesta a tierra de la catenaria en el lugar de los trabajos en el 
 Factor contribuyente: ninguno.
 Factor sistémico: ninguno.
 
-
 ## Página 6
+
 
 Recomendación:
 Dirigida a la Autoridad Nacional de Seguridad (NSA) de la República Checa:
@@ -124,6 +125,7 @@ en el marco de su actividad como autoridad nacional de seguridad, la adopción d
 mediante la modificación de la redacción del reglamento interno „SŽDC E6 Reglamento para la actividad de los electrodespachantes“, o en su caso de otros reglamentos internos relacionados, la orientación de la estructura de las instrucciones dadas por el electrodespachante independiente (orden de despacho), pero también de las instrucciones y condiciones para la circulación de vehículos ferroviarios de tracción eléctrica y otras medidas de tráfico necesarias, mediante su definición exacta y la determinación marco del contenido del mensaje, o en su caso la determinación de una estructura fija del contenido del mensaje (redacción obligatoria).
 
 ## Página 7
+
 
 # Índice
 1 RESUMEN........................................................................................................................3
@@ -165,8 +167,8 @@ SUMMARY.........................................................................
 4.2 Vehículos ferroviarios e instalaciones técnicas...........................................................................64
 4.2.1 Factores o consecuencias derivados del diseño de los vehículos ferroviarios, de la infraestructura ferroviaria o de las instalaciones técnicas.....................................................................64
 
-
 ## Página 8
+
 
 4.2.2 Factores o consecuencias derivados de la instalación y de la puesta en servicio de los vehículos ferroviarios, de la infraestructura ferroviaria o de las instalaciones técnicas......................................64
 4.2.3 Factores o consecuencias relacionados con los fabricantes de vehículos ferroviarios u otros proveedores de productos ferroviarios............................................................................64
@@ -196,8 +198,8 @@ SUMMARY.........................................................................
 6 RECOMENDACIONES DE SEGURIDAD.....................................................................................72
 ANEXOS..............................................................................................................................73
 
-
 ## Página 9
+
 
 ### Lista de siglas y símbolos utilizados
 BOZP
@@ -279,6 +281,7 @@ estación de ferrocarril
 
 ## Página 10
 
+
 ### Lista de abreviaturas de legislación, normas y reglamentos internos utilizados
 Reglamento de la Comisión (UE) 2018/762 REGLAMENTO DE LA COMISIÓN DELEGADA (UE)
 2018/762 de 8 de marzo de 2018 por el que se establecen
@@ -334,8 +337,8 @@ reglamento interno del explotador ferroviario SŽ, «SŽDC D1
 Reglamento de circulación y de señales», en la versión vigente
 en el momento de la creación del MU
 
-
 ## Página 11
+
 
 reglamento interno SŽDC (ČD) D2
 reglamento interno del explotador ferroviario Administración de la
@@ -380,117 +383,63 @@ en los ferrocarriles de ámbito nacional, regionales
 y en ramales industriales», en la versión vigente
 en el momento de la creación del MU
 
-
 ## Página 12
 
 ## 2 INVESTIGACIÓN Y SUS RELACIONES
 ### 2.1 Decisión de iniciar la investigación
-La DI decidió iniciar la investigación del MU en cuestión el 26. 5. 2022.
+El DI decidió iniciar la investigación de la MU en cuestión el 26. 5. 2022.
 ### 2.2 Fundamentación de la decisión de iniciar la investigación
-El 19. 5. 2022 a las 8:46 h, la persona autorizada en nombre del explotador ferroviario SŽ y del
-transportista ČD (en adelante, persona autorizada O18 SŽ) notificó al COP de la DI que, durante la
-investigación del MU anterior en la estación de Kolín, que tuvo lugar ese mismo día a las 6:05 h, en
-la que se quemó el hilo de catenaria sobre el SK n.º 101a en el km 348,152 y se dañó el colector
-de corriente de tracción (en adelante, colector) de la locomotora en maniobras (en adelante, MU
-anterior), dos personas resultaron afectadas por una descarga eléctrica, si bien la información
-más detallada se notificaría una vez la persona autorizada O18 SŽ llegara a la estación de Kolín.
-El 19. 5. 2022 a las 9:28 h, la persona autorizada O18 SŽ notificó al COP de la DI una
-«excepcionalidad» (Nota de la DI: se trata del término utilizado por la persona autorizada), que
-consistía en que a las 7:55 h, durante la circulación del tren Os 5005 desde el SK n.º 105 de la
-estación de Kolín, se produjo la conexión de un tramo alimentado de la línea de contacto (línea de
-contacto bajo tensión) con un tramo desconectado (seccionado) de la línea de contacto (línea de
-contacto sin tensión) y la consiguiente descarga eléctrica y lesión de dos personas en el lugar del
-MU anterior, donde se estaban realizando trabajos en la instalación y actuaciones relacionadas con
-la investigación. La persona autorizada O18 SŽ añadió que precisaría la información adicional desde
-el lugar del MU anterior – dicha notificación fue considerada por la DI como la notificación de la
-creación del MU en cuestión.
-Posteriormente, ese mismo día, el inspector del COP de la DI contactó con la persona autorizada
-O18 SŽ y, sobre la base de los hechos notificados, emitió a las 9:42 h la autorización para la
-liberación de la vía.
-Ese mismo día a las 13:21 h, la persona autorizada O18 SŽ precisó al COP de la DI que la
-«excepcionalidad» (Nota de la DI: se trata del término utilizado por la persona autorizada)
-notificada a la DI a las 9:28 h se había producido ya a las 7:54 h y que no resultaron lesionadas
-dos personas, sino solo una. Asimismo, la persona autorizada O18 SŽ precisó que el puesto de
-trabajo estaba asegurado, durante los trabajos de las personas en la instalación y la realización de
-actuaciones en el marco de la investigación del MU anterior en el techo de la locomotora, con
-varillas de cortocircuito. No obstante, tras la salida de la unidad eléctrica de la vía contigua, se
-produjo «alguna descarga» que «no transmitieron» a la línea de contactos los conjuntos de
-cortocircuito conectados (suspendidos) que aseguraban el puesto de trabajo en cuestión.
-A las 19:03 h se produjo otra conversación entre el inspector en el COP de la DI y la persona
-autorizada O18 SŽ, relativa al MU anterior. En el marco de esta conversación, el inspector en el
-COP de la DI informó a la persona autorizada O18 SŽ de que se trataba de 2 MU independientes,
-es decir, el MU anterior con hora de producción a las 6:05 h y el MU en cuestión con hora de
-producción a las 7:54 h (y no de un MU y una excepcionalidad), que la DI registrará como tales.
-El 31. 5. 2022 a las 10:35 h se produjo otra conversación entre el inspector en el COP de la DI y
-la persona autorizada O18 SŽ, en la que la persona autorizada completó la notificación del 19. 5.
-2022 relativa al MU en cuestión en la estación de Kolín, que tuvo lugar a las 7:54 h, en
-particular con la información de que se trataba de un MU, cuando en las comunicaciones
-anteriores (notificación y precisión) la persona autorizada O18 SŽ había utilizado el término
-«excepcionalidad».
-La DI decidió investigar el MU en cuestión sobre la base de su gravedad y de los impactos del
-MU en la explotación segura del ferrocarril y del transporte ferroviario, y de la competencia
-derivada de la disposición § 53b de la ley n.º 266/1994 Sb.
-
+El 19. 5. 2022 a las 8:46 h, la persona autorizada por el gestor de la vía SŽ y el transportista ČD (en adelante, la persona autorizada O18 SŽ) notificó al COP DI que, durante la investigación de la MU anterior en la est. Kolín, que tuvo lugar ese mismo día a las 6:05 h, en la que sobre el SK n.º 101a en el km 348,152 se quemó el hilo de catenaria y se dañó el colector de corriente de tracción (en adelante, el colector) del HDV en maniobras (en adelante, la MU anterior), dos personas resultaron afectadas por una descarga eléctrica, si bien la información más detallada se notificará únicamente tras la llegada de la persona autorizada O18 SŽ a la est. Kolín.
+El 19. 5. 2022 a las 9:28 h, la persona autorizada O18 SŽ notificó al COP DI una «anomalía» (Nota del DI: se trata del término utilizado por la persona autorizada), que consistía en que a las 7:55 h, durante la circulación del tren Os 5005 desde el SK n.º 105 de la est. Kolín, se produjo la conexión de un tramo de TV alimentado (TV bajo tensión) con un tramo de TV desconectado (sin tensión) y la consiguiente descarga eléctrica y lesión de dos personas en el lugar de la MU anterior, donde se estaban realizando trabajos en instalaciones y actuaciones relacionadas con la investigación. La persona autorizada O18 SŽ añadió que precisaría información adicional desde el lugar de la MU anterior; dicha notificación fue considerada por el DI como la notificación de la ocurrencia de la MU en cuestión.
+Posteriormente, ese mismo día, el inspector del COP DI contactó con la persona autorizada O18 SŽ y, sobre la base de los hechos notificados, emitió a las 9:42 h el permiso para la liberación de la vía.
+Ese mismo día, a las 13:21 h, la persona autorizada O18 SŽ precisó al COP DI que la «anomalía» (Nota del DI: se trata del término utilizado por la persona autorizada) notificada al DI a las 9:28 h se había producido ya a las 7:54 h y que no resultaron lesionadas dos personas, sino únicamente una. Asimismo, la persona autorizada O18 SŽ precisó que el puesto de trabajo se había asegurado con varillas de cortocircuito durante los trabajos de las personas en las instalaciones y la realización de actuaciones en el marco de la investigación de la MU anterior sobre la cubierta del HDV. No obstante, tras la salida de la unidad eléctrica de la vía contigua, se produjo «algún tipo de descarga» que las conjuntas de cortocircuito conectadas (suspendidas) a la TV, que aseguraban el puesto de trabajo en cuestión, «no transmitieron».
+A las 19:03 h se produjo otra llamada entre el inspector en el COP DI y la persona autorizada O18 SŽ, relativa a la MU anterior. En el marco de esta llamada, el inspector en el COP DI informó a la persona autorizada O18 SŽ de que se trataba de 2 MU independientes, es decir, la MU anterior con hora de ocurrencia a las 6:05 h y la MU en cuestión con hora de ocurrencia a las 7:54 h (no de una MU y una anomalía), que el DI registrará como tales.
+El 31. 5. 2022 a las 10:35 h se produjo otra llamada entre el inspector en el COP DI y la persona autorizada O18 SŽ, en la que la persona autorizada completó la notificación del 19. 5. 2022 relativa a la MU en cuestión en la est. Kolín, que tuvo lugar a las 7:54 h, especialmente con la información de que se trataba de una MU, habiendo utilizado la persona autorizada O18 SŽ el término «anomalía» en las comunicaciones anteriores (notificación y precisión).
+El DI decidió investigar la MU en cuestión sobre la base de su gravedad y de los impactos de la MU en la explotación segura de la vía y del transporte ferroviario, y de la competencia derivada de lo dispuesto en el § 53b de la ley n.º 266/1994 Sb.
 
 ## Página 13
 
-### 2.3 Alcance y limitaciones de la investigación, incluida la fundamentación correspondiente
-La DI se enfrentó, en el marco de la investigación del MU en cuestión, a limitaciones derivadas
-del hecho de que no participó en la investigación inicial en el lugar de producción del MU, lo que,
-sin embargo, no influyó negativamente en el modo y los procedimientos de investigación del MU.
-Asimismo, este hecho no tuvo influencia en la determinación de la causa de la producción del MU
-en cuestión.
-### 2.4 Descripción resumida de las capacidades técnicas y funciones del equipo de investigación
-Investigación de la DI en el lugar del MU:
-La DI no participó en la investigación en el lugar del MU.
+### 2.3 Alcance y limitaciones de la investigación, incluida la correspondiente justificación
+La DI, en el marco de la investigación de la MU en cuestión, se enfrentó a limitaciones derivadas del hecho de que no participó en la investigación inicial en el lugar donde se produjo la MU, lo que sin embargo no influyó negativamente en el modo y los procedimientos de investigación de la MU. Asimismo, este hecho no tuvo influencia en la determinación de la causa de la MU en cuestión.
+### 2.4 Descripción resumida de las capacidades y funciones técnicas del equipo de investigación
+Investigación de la DI en el lugar de la MU:
+La DI no participó en la investigación en el lugar de la MU.
 Constitución del equipo de investigación:
 no fue necesario constituirlo.
-Colaboración externa:
+Cooperación externa:
 no se utilizó.
 2.5 Comunicación y consultas durante la investigación con las personas o entidades
 que participaron en el suceso
-Al investigar las causas y circunstancias de la producción del MU, la DI partió de sus propios
-conocimientos, hallazgos y de su propia documentación fotográfica realizada tras el inicio de su
-propia investigación. Durante la investigación, la DI solicitó la documentación necesaria al
-explotador ferroviario SŽ y al transportista ČD.
-La investigación de las causas y circunstancias de la producción del MU se realizó de
-conformidad con la ley n.º 266/1994 Sb. y el decreto n.º 376/2006 Sb.
-### 2.6 Descripción del nivel de colaboración ofrecido por las entidades participantes
-El nivel de colaboración con los representantes de las entidades participantes en el MU fue
-estándar.
-### 2.7 Descripción de la investigación, métodos y técnicas utilizados para acreditar los hechos
-y los hallazgos recogidos en el informe
-En el marco de la investigación del MU, la DI procedió de la siguiente manera, o bien utilizó,
-entre otros, los siguientes métodos y técnicas:
+En la investigación de las causas y circunstancias de la MU, la DI partió de sus propios conocimientos, hallazgos y de su propia documentación fotográfica realizada tras el inicio de su propia investigación. Durante la investigación, la DI solicitó la documentación necesaria al gestor de la infraestructura SŽ y al transportista ČD.
+La investigación de las causas y circunstancias de la MU se realizó de conformidad con la ley nº 266/1994 Sb. y con la ordenanza nº 376/2006 Sb.
+### 2.6 Descripción del nivel de cooperación ofrecido por las entidades participantes
+El nivel de cooperación con los representantes de las entidades participantes en la MU fue estándar.
+### 2.7 Descripción de la investigación, los métodos y las técnicas utilizados para acreditar los hechos
+y los hallazgos consignados en el informe
+En el marco de la investigación de la MU, la DI actuó de la siguiente manera, es decir, utilizó, entre otros, los siguientes métodos y técnicas:
 •
-evaluación de si se cumplían los motivos para iniciar la investigación de las causas de la
-producción del MU;
+evaluación de si se cumplían los motivos para iniciar la investigación de las causas de la MU;
 •
-inspección del lugar del MU – de la infraestructura ferroviaria en la estación de Kolín;
+inspección del lugar de la MU – de la infraestructura ferroviaria en la estación de Kolín;
 •
-análisis de la documentación solicitada al explotador ferroviario SŽ y al transportista ČD;
+análisis de la documentación solicitada al gestor de la infraestructura SŽ y al transportista ČD;
 •
-análisis de los datos registrados por el dispositivo de registro del vehículo ferroviario
-participante;
+análisis de los datos registrados por el dispositivo de registro del DV participante;
 •
-análisis de los datos registrados por la SZZ de la estación de Kolín;
+análisis de los datos registrados por el SZZ de la estación de Kolín;
 •
 análisis de los registros del sistema de cámaras instalado en la estación de Kolín;
 •
-análisis de la comunicación registrada por los dispositivos de registro del explotador
-ferroviario SŽ;
+análisis de la comunicación registrada por los dispositivos de registro del gestor de la infraestructura SŽ;
 •
-análisis de las explicaciones sobre el MU prestadas por los empleados participantes al
-empleador y a la DI;
+análisis de las explicaciones sobre la MU presentadas por los empleados participantes a su empleador y a la DI;
 •
-en el marco de la investigación del factor humano, utilización del método SHELL y del
-modelo de Reason.
-### 2.8 Descripción de las dificultades y problemas concretos que se plantearon durante la investigación
-Durante la investigación del MU no se plantearon dificultades ni problemas que pudieran tener
-influencia en el desarrollo de la investigación o en sus conclusiones.
-
+en el marco de la investigación del factor humano, utilización del método SHELL y del modelo de Reason.
+### 2.8 Descripción de las dificultades y problemas concretos surgidos durante la investigación
+Durante la investigación de la MU no surgieron dificultades ni problemas que pudieran influir en el desarrollo de la investigación o en sus conclusiones.
 
 ## Página 14
+
 
 ### 2.9 Interacción con las autoridades judiciales
 Durante la investigación del MU en cuestión, no se inició por parte de la DI ni por parte de las
@@ -545,40 +494,40 @@ explotación
 
 ## Página 15
 
-está controlado a distancia desde ED Praga y pertenece al área controlada por un electrodespachador independiente ED1.
-La estación de Kolín está dividida en el área de la estación de viajeros, el área de la estación de clasificación y el área de la estación de mercancías, donde:
+está gestionada a distancia desde ED Praga y pertenece al ámbito gestionado por un despachador eléctrico independiente ED1.
+La estación de Kolín está dividida en el ámbito de la estación de pasajeros, el ámbito de la estación de clasificación y el ámbito de la estación de mercancías, donde:
 •
-el área de la estación de viajeros consta de 2 áreas:
-◦1.ª área – desde las señales principales (de entrada) (en adelante, señal de entrada) 1S y 2S (válidas para la circulación de DV desde la estación de Velim) hasta el SK n.º 117 hasta el 108a,
-◦2.ª área – desde las señales de entrada 1OS y 2OS (válidas para la circulación de DV desde la estación de Velký Osek) hasta el SK n.º 108 hasta el 122;
+el ámbito de la estación de pasajeros consta de 2 ámbitos:
+◦1. ámbito – desde las señales principales (de entrada) (en adelante, solo señal de entrada) 1S y 2S (válidas para la circulación de DV desde la estación de Velim) hasta el SK n.º 117 hasta el 108a,
+◦2. ámbito – desde las señales de entrada 1OS y 2OS (válidas para la circulación de DV desde la estación de Velký Osek) hasta el SK n.º 108 hasta el 122;
 •
-el área de la estación de clasificación, que es la continuación del área de la estación de viajeros en dirección a la estación de Záboří n. L., respectivamente la estación de Kutná Hora hl. n., siendo el límite entre las áreas la línea imaginaria que une las señales principales (de itinerario) (en adelante, señales de itinerario), respectivamente las señales de clasificación Sc105, Sc103, Sc101, Sc100, Sc102, Sc104, Sc106, Sc108, Sc110a, Sc110b, Sc112, Sc114, Se70, Se71, y consta también de 2 áreas:
-◦1.ª área – grupo de SK n.º 1 a 30 hasta las señales de entrada 1L y 2L (válidas para la circulación de DV desde la estación de Záboří n. L.),
-◦2.ª área – grupo de SK n.º 32 a 44, y la vía 38a, hasta las señales de entrada 1KL y 2KL (válidas para la circulación de DV desde la estación de Kutná Hora hl. n.);
+el ámbito de la estación de clasificación, que es la continuación del ámbito de la estación de pasajeros en dirección a la estación de Záboří n. L., respectivamente Kutná Hora hl. n., cuando el límite entre ámbitos lo forma la línea imaginaria que une las señales principales (de itinerario) (en adelante, solo señales de itinerario), respectivamente las señales de clasificación Sc105, Sc103, Sc101, Sc100, Sc102, Sc104, Sc106, Sc108, Sc110a, Sc110b, Sc112, Sc114, Se70, Se71, y consta asimismo de 2 ámbitos:
+◦1. ámbito – grupo de SK n.º 1 a 30 hasta las señales de entrada 1L y 2L (válidas para la circulación de DV desde la estación de Záboří n. L.),
+◦2. ámbito – grupo de SK n.º 32 a 44, y la vía 38a, hasta las señales de entrada 1KL y 2KL (válidas para la circulación de DV desde la estación de Kutná Hora hl. n.);
 •
-el área de la estación de mercancías está situada a la izquierda de la línea nacional «Česká Třebová – Praha-Libeň».
-Fig. n.º 1: Esquema del lugar de origen del MU en la estación de Kolín.
+el ámbito de la estación de mercancías está situado a la izquierda de la línea nacional «Česká Třebová – Praha-Libeň».
+Fig. n.º 1: Esquema del lugar de origen del MU en la estación de Kolín.    
     Fuente: DI
-De la documentación del gestor de la vía y del transportista sobre la inspección del lugar del MU se desprende, entre otros:
+De la documentación del gestor de la infraestructura y del transportista sobre la inspección del lugar del MU, entre otros, se desprende:
 Estado de la infraestructura:
 •
-lugar de origen del MU – la lesión en la salud del empleado del gestor de la vía se encontraba en el espacio de TV sobre el SK n.º 101a de la estación de Kolín, en el km 348,152, y concretamente en el campo de cambio
-
+lugar de origen del MU – las lesiones personales del empleado del gestor de la infraestructura se encontraban en el espacio TV sobre el SK n.º 101a de la estación de Kolín, en el km 348,152, y concretamente en el campo de intercambio
 
 ## Página 16
 
-de división mecánica/eléctrica, designado por el gestor de la vía como ÚO 441. El cambio de conjuntos (tramos de anclaje) en dicho campo estaba delimitado por suspensiones en el pórtico de soporte entre el TP n.º 145 y el 146 y en el pórtico de soporte entre el TP n.º 147 y el 148;
+mecánico/eléctrico, designado por el gestor de la infraestructura ferroviaria como ÚO
+441. El cambio de conjuntos (tramos de anclaje) en el campo de cambio correspondiente estaba delimitado por suspensiones en el pórtico portante entre TP n.º 145 y 146 y en el pórtico portante entre TP n.º 147 y 148;
 •
-el SK n.º 101a era una vía de tráfico (transitable) y estaba delimitada por las señales de clasificación Se112 y Se115. El TV sobre ella existía en toda su longitud;
+SK n.º 101a era una vía de tráfico (transitable) y estaba delimitada por señales de enclavamiento Se112 y Se115. La TV (tensión de catenaria) estaba presente a lo largo de toda su longitud;
 •
-en el lugar del MU, como consecuencia del MU anterior (véase el punto 2.2 de esta ZZ), estaba fundido el cable de catenaria del tramo de anclaje sobre el SK n.º 101a y sobre el SK n.º 101b contiguo, es decir, en el lado de Velim, anclado al TP n.º 143 y 163 mediante un anclaje móvil por ambos lados, siendo, desde el punto de vista del inicio de la línea (es decir, desde la estación de Záboří n. L.), el cable de catenaria izquierdo el que estaba fundido en el campo de cambio;
+en el lugar de la MU, como consecuencia de la MU anterior (véase el punto 2.2 de la presente ZZ), se encontraba fundido el hilo de catenaria del tramo de anclaje sobre SK n.º 101a y sobre la SK n.º 101b consecuente, es decir, en el lado procedente de Velimi, anclado a TP n.º 143 y 163 mediante un anclaje móvil por ambos lados, siendo que, desde el punto de vista del inicio de la línea (es decir, desde la est. Záboří n. L.), en el campo de cambio se encontraba fundido el hilo de catenaria izquierdo;
 •
-en el momento del origen del MU, en el lugar del MU anterior, es decir, en el lugar del trabajo en el equipo, se estaban realizando actividades relacionadas con la investigación y la eliminación de las consecuencias del MU anterior, es decir, trabajo en el equipo – TV (reparación del cable de catenaria dañado). Los extremos del cable de catenaria fundido habían sido unidos entre sí mediante un elevador de trinquete metálico con cadena de eslabones (véase la Fig. n.º 2 de esta ZZ). La cadena colgada libremente rozaba el patín del colector I recogido y con su extremo descansaba sobre el techo del HDV CZ-ČD 91 54 7 163 244-7 (en adelante, HDV 163.244-7). La cadena presentaba huellas del paso de corriente eléctrica, de la quema de arco eléctrico y de la descarga eléctrica;
-Fig. n.º 2: Vista del TV y del elevador de trinquete montado sobre él en el lugar de origen del MU – lesión en la salud del empleado del gestor de la vía
+en el momento de producirse la MU, en el lugar de la MU anterior, es decir, en el lugar de los trabajos en el equipamiento, se estaban realizando actividades relacionadas con la investigación y la eliminación de las consecuencias de la MU anterior, es decir, trabajos en el equipamiento – TV (reparación del hilo de catenaria dañado). Los extremos del hilo de catenaria fundido habían sido unidos entre sí mediante un elevador de trinquete de cadena con cadena de eslabones (véase la Fig. n.º 2 de la presente ZZ). La cadena colgada libremente rozaba el patín del colector retraído I. y su extremo descansaba sobre el techo del HDV CZ-ČD 91 54 7 163 244-7 (en adelante, HDV 163.244-7). La cadena presentaba huellas del paso de corriente eléctrica, de la quema de un arco eléctrico y de una descarga eléctrica;
+Fig. n.º 2: Vista de la TV y del elevador de trinquete fijado a ella en el lugar de producción de la MU – daños a la salud del empleado del gestor de la infraestructura ferroviaria
  Fuente: SŽ
 
-
 ## Página 17
+
 
 •
 por ambos lados del lugar del trabajo en el equipo estaban conectados los juegos de cortocircuito. Desde la dirección:
@@ -610,8 +559,8 @@ el SK n.º 100, 100a, 101, 101a, la parte de la cabecera de Velim del 1.º área
 En la dirección de circulación del tren Os 5002 (Česká Třebová – Kolín) circulando desde la dirección de la estación de Záboří n. L. por el TK n.º 2 Záboří n. L. – Kolín por el SK n.º 2a, 2b, 2c, 1, 1d y por el SK n.º 105, donde finalizó su circulación, y en la dirección de circulación del tren de retorno Os 5005 circulando en la dirección opuesta desde el SK n.º 105 por el SK n.º 1d, 1, 1c, 1b, 1a y posteriormente por el TK n.º 1 Kolín – Záboří n. L., el TV estaba alimentado sobre la parte del SK n.º 1d desde el lado de Záboří n. L. hasta la división mecánica/eléctrica ÚO 431 y la parte de la cabecera central del 1.º área de la estación de clasificación desde el divisor de sección n.º 54, situado en el TV en el espacio entre los desvíos n.º 134 y 139, incl. el SK n.º 105 (SK n.º 103, 103a, 105a, 107 y 109) del 1.º área de la estación de viajeros de la estación de Kolín, véase la Fig. n.º 1 de esta ZZ.
 No se colocaron señales portátiles para tráfico eléctrico en relación con la desconexión (corte) de la alimentación del TV en la estación de Kolín mencionada anteriormente.
 
-
 ## Página 18
+
 
 Estado del DV:
 •
@@ -644,8 +593,8 @@ DV (tren Os 5005)
 746 Kč.
 ### En el MU el daño se cuantificó en un total de 746 Kč.
 
-
 ## Página 19
+
 
 ### 3.1.5 Descripción de otras consecuencias, incluido el impacto del suceso en las actividades regulares de los sujetos participantes
 Como consecuencia del origen del MU se interrumpió el tráfico en la estación de Kolín el 19. 5. 2022 en el SK n.º 100, 100a, 101, 101a, 103, 103a, 105, 105a, 107 y 109, desde la hora de su origen a las 7:54 h hasta las 13:54 h.
@@ -686,6 +635,7 @@ El transporte ferroviario se prestaba en virtud de un contrato celebrado entre e
 
 ## Página 20
 
+
 | Porcentaje de frenado ausente (%): | 0 |
 | Velocidad máxima permitida del tren en el lugar de la MU (km·h-1): | 50 |
 | Modo de frenado: | I . |
@@ -704,8 +654,8 @@ Del registro de circulación de los trenes Os 5002 y Os 5005 registrado por el R
 | • a las 7:32:53 h | el frontal del tren, a una velocidad de 14 km·h-1, rebasó el nivel del semáforo de vía Lc2a de la est. de Kolín; . |
 | • a las 7:35:30 h | se desconectó el interruptor principal sin actuación de las protecciones de fuerza y sin la consiguiente bajada del colector (el colector permaneció levantado durante el resto de la circulación). El tren, circulando a una velocidad de 39 km·h-1, se encontraba en la SK n.º 1d de la est. de Kolín con su frontal a una distancia de 426 m antes del lugar de detención en la SK n.º 105, es decir, con la patín del colector del coche de cabecera trasero 440.012-3 a una distancia de 6 m antes del comienzo del campo de conmutación (conmutación de tramos de anclaje) de la TV en la división mecánica/eléctrica de la ÚO 431. En el mismo segundo, la patín del colector se encontraba en el lugar del comienzo del campo de conmutación, y concretamente en el nivel del TP n.º 113. El tren se encontraba con su frontal 420 m antes del lugar de detención en la SK n.º 105; |
 
-
 ## Página 21
+
 
 • a las 7:35:36 h el tren, circulando a una velocidad de 38 km·h-1, con la patín del colector se encontraba en la SK n.º 1d en el lugar del final del campo de conmutación (conmutación de tramos de anclaje) junto al TP n.º 115,
 siendo el interruptor principal seguidamente desconectado y el colector levantado. La patín
@@ -744,8 +694,8 @@ con su frontal a una distancia de 387 m del lugar de salida en la SK n.º 105,
 y concretamente en el lugar donde la patín del colector estaba en contacto solo con el (izquierdo)
 hilo de catenaria del tramo conectado de la TV;
 
-
 ## Página 22
+
 
 | • a las 7:55:23 h | se registró un aumento de la velocidad del tren provocado por la aplicación de tracción. El tren, circulando a una velocidad de 37 km·h-1, se encontraba en la SK n.º 1d a una distancia de 509 m del lugar de salida en la SK n.º 105; |
 | • a las 7:55:45 h | se alcanzó la velocidad máxima de 88 km·h-1. El tren se encontraba en la SK n.º 1d a una distancia de 900 m del lugar de salida en la SK n.º 105; |
@@ -787,8 +737,8 @@ desde el semáforo de vía Lc100
 en la SK n.º 100a se estableció una vía de maniobras para la circulación de la unidad de maniobras.
 El semáforo de vía Lc100 comenzó a indicar la señal «Maniobras permitidas»;
 
-
 ## Página 23
+
 
 •
 a las 6:02:39 h tras la conclusión de la vía de maniobras realizada por la acción automática del SZZ,
@@ -852,20 +802,20 @@ n.º ***9.
 
 ## Página 24
 
-Nota DI: el desregistro del PIK se realizó por motivo de la entrega del servicio de tráfico por parte del despachante de línea 114 CDP Praga (turnos nocturnos);
+Nota DI: la anulación de la PIK se realizó por motivo de la entrega del servicio de tráfico por parte del despachador de línea 114 CDP Praga (turnos nocturnos);
 •
-a las 6:22:18 h, tras la realización de las operaciones correspondientes, se registró el PIK n.º ***7 en la «ZPC n.º 7».
-Nota DI: el registro del PIK se realizó por motivo de la toma del servicio de tráfico por parte del despachante de línea 114 CDP Praga (turnos diurnos);
+a las 6:22:18 h, tras la realización de las acciones correspondientes, se registró la PIK n.º ***7 en la «ZPC n.º 7».
+Nota DI: el registro de la PIK se realizó por motivo de la recepción del servicio de tráfico por parte del despachador de línea 114 CDP Praga (turnos diurnos);
 •
-a las 6:27:43 h, mediante la operación normal del SZZ, el despachante de línea 114 CDP Praga (turnos diurnos) realizó las operaciones para la maniobra de la unidad de maniobra desde la SK n.º 1d a la SK n.º 103, es decir, desde la señal de clasificación Se82 a través de los desvíos n.º 131, 134 y 139 hasta la SK n.º 103.
-15 s después (a las 6:27:58 h), tras el cierre de la ruta de maniobra realizado por la acción automática del SZZ, se estableció la ruta de maniobra correspondiente para la maniobra de la unidad de maniobra. La señal de clasificación Se82 comenzó a indicar la señal «Maniobra permitida».
-Nota DI: se trataba de una maniobra (la unidad de maniobra estaba formada por el SHDV «MVTV 2 - 033» OTV Kolín circulando de forma independiente) realizada desde la SK n.º 1d a la SK n.º 101a, es decir, a la SK donde se había producido la MU anterior, con el fin de reparar la TV sobre dicha SK;
+a las 6:27:43 h, mediante la operación normal del SZZ, el despachador de línea 114 CDP Praga (turnos diurnos) realizó las acciones para la maniobra de la unidad de maniobra desde la SK n.º 1d hasta la SK n.º 103, es decir, desde la señal de clasificación Se82 a través de los desvíos n.º 131, 134 y 139 hasta la SK n.º 103.
+15 s después (a las 6:27:58 h), tras el cierre de la ruta de maniobra realizado por la acción automática del SZZ, se estableció la ruta de maniobra correspondiente para la maniobra de la unidad de maniobra. La señal de clasificación Se82 comenzó a emitir la señal «Maniobra permitida».
+Nota DI: se trataba de una maniobra (la unidad de maniobra estaba formada por el SHDV autónomo «MVTV 2 - 033» OTV Kolín) realizada desde la SK n.º 1d hasta la SK n.º 101a, es decir, hasta la SK en la que se había producido la MU anterior, con el fin de reparar la TV sobre dicha SK;
 •
-a las 6:27:47 h, mediante la operación normal del SZZ, se realizaron las operaciones para la maniobra de la unidad de maniobra desde la SK n.º 103 a la SK n.º 103a, es decir, desde la señal de itinerario Lc103 hasta la SK n.º 103a.
-5 s después (a las 6:27:52 h), tras el cierre de la ruta de maniobra realizado por la acción automática del SZZ, se estableció la ruta de maniobra correspondiente para la maniobra de la unidad de maniobra. La señal de itinerario Lc103 comenzó a indicar la señal «Maniobra permitida»;
+a las 6:27:47 h, mediante la operación normal del SZZ, se realizaron las acciones para la maniobra de la unidad de maniobra desde la SK n.º 103 hasta la SK n.º 103a, es decir, desde la señal de itinerario Lc103 hasta la SK n.º 103a.
+5 s después (a las 6:27:52 h), tras el cierre de la ruta de maniobra realizado por la acción automática del SZZ, se estableció la ruta de maniobra correspondiente para la maniobra de la unidad de maniobra. La señal de itinerario Lc103 comenzó a emitir la señal «Maniobra permitida»;
 •
-a las 6:27:53 h, mediante la operación normal del SZZ, se realizaron las operaciones para la maniobra de la unidad de maniobra desde la SK n.º 103a a la SK n.º 107a, es decir, desde la señal de itinerario Lc103a a través de los desvíos n.º 183, 186, 189, 192 y 195 hasta la SK n.º 107a.
-15 s después (a las 6:28:08 h), tras el cierre de la ruta de maniobra realizado por la acción automática del SZZ, se estableció la ruta de maniobra correspondiente para la maniobra de la unidad de maniobra. La señal de itinerario Lc103a est. Kolín comenzó a indicar la señal «Maniobra permitida»;
+a las 6:27:53 h, mediante la operación normal del SZZ, se realizaron las acciones para la maniobra de la unidad de maniobra desde la SK n.º 103a hasta la SK n.º 107a, es decir, desde la señal de itinerario Lc103a a través de los desvíos n.º 183, 186, 189, 192 y 195 hasta la SK n.º 107a.
+15 s después (a las 6:28:08 h), tras el cierre de la ruta de maniobra realizado por la acción automática del SZZ, se estableció la ruta de maniobra correspondiente para la maniobra de la unidad de maniobra. La señal de itinerario Lc103a est. Kolín comenzó a emitir la señal «Maniobra permitida»;
 •
 a las 6:30:15 h, el frente de la unidad de maniobra pasó la señal de clasificación Se82;
 •
@@ -875,14 +825,14 @@ a las 6:32:41 h, el frente de la unidad de maniobra pasó la señal de itinerari
 •
 a las 6:36:01 h, la unidad de maniobra entró íntegramente en la SK n.º 107a;
 •
-a las 6:37:14 h, mediante la operación normal del SZZ, se realizaron las operaciones para la maniobra de la unidad de maniobra desde la SK n.º 107a a la SK n.º 101a, es decir, desde la señal de clasificación Se124 a través de los desvíos n.º 195, 194, 193 y 190 hasta la SK n.º 101a.
-Nota DI: la SK n.º 101a estaba ocupada por el HDV 163.244-3 situado en posición final tras la MU anterior.
-21 s después (a las 6:37:35 h), tras el cierre de la ruta de maniobra realizado por la acción automática del SZZ, se estableció la ruta de maniobra correspondiente para la maniobra de la unidad de maniobra. La señal de clasificación Se124 comenzó a indicar la señal «Maniobra permitida»;
+a las 6:37:14 h, mediante la operación normal del SZZ, se realizaron las acciones para la maniobra de la unidad de maniobra desde la SK n.º 107a hasta la SK n.º 101a, es decir, desde la señal de clasificación Se124 a través de los desvíos n.º 195, 194, 193 y 190 hasta la SK n.º 101a.
+Nota DI: la SK n.º 101a estaba ocupada por el HDV 163.244-3 que se encontraba en la posición final tras la MU anterior.
+21 s después (a las 6:37:35 h), tras el cierre de la ruta de maniobra realizado por la acción automática del SZZ, se estableció la ruta de maniobra correspondiente para la maniobra de la unidad de maniobra. La señal de clasificación Se124 comenzó a emitir la señal «Maniobra permitida»;
 •
 a las 6:38:58 h, el frente de la unidad de maniobra pasó la señal de clasificación Se124;
 
-
 ## Página 25
+
 
 •
 a las 6:40:27 h, la unidad de maniobra formada por el SHDV circulando de forma independiente entró íntegramente en la SK n.º 101a;
@@ -912,8 +862,8 @@ a las 7:18:37 h, mediante la operación normal del SZZ, se realizaron las operac
 a las 7:18:41 h, mediante la operación normal del SZZ, se realizaron las operaciones para la maniobra de la unidad de maniobra 2 desde la SK n.º 107 a través de los desvíos n.º 168 y 167 hasta la SK n.º 105, es decir, desde la señal de itinerario Sc107 hasta la SK n.º 105.
 15 s después (a las 7:18:56 h), tras el cierre de la ruta de maniobra realizado por la acción automática del SZZ
 
-
 ## Página 26
+
 
 se estableció la ruta de maniobra correspondiente para la maniobra de la unidad de maniobra 2. La señal de itinerario Sc107 comenzó a indicar la señal «Maniobra permitida»;
 •
@@ -948,47 +898,69 @@ a las 7:31:58 h, mediante la operación normal del SZZ, se realizaron las operac
 a las 7:32:17 h, tras el cierre de la ruta de tren realizado por la acción automática del SZZ, desde la señal de itinerario Lc105 hasta la SK n.º 107 se estableció la ruta de tren para la circulación del tren Os 5002. La señal de itinerario Lc105 (identificada físicamente, entre otros, por una placa indicadora con el dígito blanco «5») comenzó a indicar la señal «Velocidad 40 km/h y repetición de la señal Aviso».
 5 s después (a las 7:32:22 h) cambió la señal indicada por la señal de itinerario Lc1 de la señal «Velocidad 40 km/h y repetición de la señal Aviso» a la señal «Velocidad 40 km/h y aviso», que fue
 
-
 ## Página 27
 
-complementada con un indicador con el dígito «5»;
+complementada con el indicador con el dígito "5";
 •
-a las 7:34:42 h, el frente del tren Os 5002 pasó la señal de itinerario Lc1;
+a las 7:34:42 h el frente del tren Os 5002 pasó la señal de camino Lc1;
 •
-a las 7:34:54 h, el tren Os 5002 ocupó el KO «1dK», es decir, entró en el KO de la SK n.º 1d.
-9 s después (a las 7:35:03 h) entró el tren íntegramente en la SK n.º 1d;
+a las 7:34:54 h el tren Os 5002 ocupó el CO "1dK", es decir, entró en el CO de la vía SK n.º 1d.
+9 s después (a las 7:35:03 h) entró el tren completo en la SK n.º 1d;
 •
-a las 7:35:52 h, el tren Os 5005 ocupó el KO «105K», es decir, entró en el KO de la SK n.º 105.
-16 s después (a las 7:36:08 h) entró el tren íntegramente en la SK n.º 105;
+a las 7:35:52 h el tren Os 5002 ocupó el CO "105K", es decir, entró en el CO de la vía SK n.º 105.
+16 s después (a las 7:36:08 h) entró el tren completo en la SK n.º 105;
 •
-a las 7:36:08 h, el frente del tren Os 5002 pasó la señal de itinerario Lc105;
+a las 7:36:08 h el frente del tren Os 5002 pasó la señal de camino Lc105;
 •
-a las 7:36:37 h, mediante la operación normal del SZZ, se realizaron las operaciones para la anulación de emergencia del cierre en la vía n.º 107. La anulación del cierre se produjo tras más de 3 min;
+a las 7:36:37 h mediante la operación normal de la SZZ se realizaron las acciones para la anulación de emergencia del
+enclavamiento en la vía n.º 107. La anulación del enclavamiento se produjo después de más de 3 min;
 •
-a las 7:36:46 h, mediante la operación normal del SZZ, se realizaron las operaciones para la anulación de emergencia del cierre en el tramo «V167». La anulación del cierre se produjo tras más de 3 min;
+a las 7:36:46 h mediante la operación normal de la SZZ se realizaron las acciones para la anulación de emergencia del
+enclavamiento en el tramo "V167". La anulación del enclavamiento se produjo después de más de 3 min;
 •
-a las 7:52:10 h, mediante la operación normal del SZZ, se realizaron las operaciones para la circulación del tren Os 5005 desde la SK n.º 105 a la SK n.º 1, a través de la SK n.º 1d, es decir, desde la señal de itinerario Sc105 a través de los desvíos n.º 144, 139, 134, 131, 75 y 72 hasta la SK n.º 1;
+a las 7:52:10 h mediante la operación normal de la SZZ se realizaron las acciones para la circulación del tren Os 5005 desde
+la SK n.º 105 hasta la SK n.º 1, y ello a través de la SK n.º 1d, es decir, desde la señal de camino
+Sc105 a través de los desvíos n.º 144, 139, 134, 131, 75 y 72 hasta la SK n.º 1;
 •
-a las 7:52:37 h, tras el cierre de la ruta de tren realizado por la acción automática del SZZ, desde la señal de itinerario Sc105 hasta la SK n.º 1 se estableció la ruta de tren para la circulación del tren Os 5005. La señal de itinerario Sc105 (identificada físicamente, entre otros, por una placa indicadora con el dígito blanco «5») comenzó a indicar la señal «Velocidad 40 km/h y vía libre»;
+a las 7:52:37 h tras el enclavamiento de la vía de tren realizado por la acción automática de la SZZ, se estableció
+desde la señal de camino Sc105 hasta la SK n.º 1 la vía de tren
+para la circulación del tren Os 5005. La señal de camino Sc105 (físicamente
+marcada, entre otros, con la placa de indicador con el dígito blanco "5") comenzó a
+señalizar la indicación "Velocidad 40 km/h y vía libre";
 •
-a las 7:54:25 h, el frente del tren Os 5005 pasó la señal de itinerario Sc105;
+a las 7:54:25 h el frente del tren Os 5005 pasó la señal de camino Sc105;
 •
-a las 7:54:31 h, el tren Os 5005 ocupó el KO «V139», es decir, entró en el KO del desvío n.º 139;
+a las 7:54:31 h el tren Os 5005 ocupó el CO "V139", es decir, entró en el CO del desvío n.º 139;
 •
-a las 7:54:37 h, el tren Os 5005 ocupó el KO «V131», es decir, entró en el KO de los desvíos n.º 134 y 131;
+a las 7:54:37 h el tren Os 5005 ocupó el CO "V131", es decir, entró en el CO de los desvíos n.º 134 y 131;
 •
-a las 7:54:44 h, el tren Os 5005 ocupó el KO «1dK», es decir, entró en el KO de la SK n.º 1d.
-9 s después (a las 7:54:53 h) entró el tren íntegramente en la SK n.º 1d;
+a las 7:54:44 h el tren Os 5005 ocupó el CO "1dK", es decir, entró en el CO de la SK n.º 1d.
+9 s después (a las 7:54:53 h) entró el tren completo en la SK n.º 1d;
 •
-a las 7:55:32 h, el tren Os 5005 ocupó el KO «1K», es decir, entró en el KO de la SK n.º 1.
-6 s después (a las 7:55:38 h) entró el tren íntegramente en la SK n.º 1;
+a las 7:55:32 h el tren Os 5005 ocupó el CO "1K", es decir, entró en el CO de la SK n.º 1.
+6 s después (a las 7:55:38 h) entró el tren completo en la SK n.º 1;
 •
-El SZZ est. Kolín presentaba funcionamiento normal en el momento de producirse la MU, es decir, en estado sin averías.
-La TV del sistema de tracción continua con alimentación de 3 kV estaba plenamente compensada en est. Kolín (con tensión de anclaje constante tanto en el cable portante como en el hilo de catenaria) según el montaje tipo «J» con elementos tipificados, en el que el hilo de catenaria estaba suspendido mediante ganchos, los llamados laníček, de distinta longitud sobre el cable portante – se trataba de un tendido de cadena. Los tramos de anclaje individuales de la TV estaban anclados mediante los tramos de anclaje del hilo de catenaria y del cable portante con anclaje móvil o fijo.
-Las MU afectadas SK n.º 100, 100a, 101, 101a, 1d est. Kolín estaban electrificadas con el montaje principal de tendido de cadena con sección de hilo de catenaria de 150 mm2 y de cable portante de 120 mm2. La SK n.º 105 y los enlaces de vía entre las vías principales estaban electrificados con el montaje secundario de tendido de cadena con sección de hilo de catenaria de 100 mm2 y de cable portante de 50 mm2.
-Para evitar desplazamientos mutuos no deseados del cable portante y del hilo de catenaria en sentido longitudinal, los tramos de anclaje estaban provistos de anclaje, los llamados puntos fijos. Los hilos de catenaria estaban suspendidos a una altura constante sobre la vía, es decir, a una distancia perpendicular entre la superficie inferior de rodadura del hilo de catenaria y el plano que pasa por las cabezas de los raíles, de 5,6 m.
+La SZZ de la estación de Kolín mostraba en el momento de la aparición del MU un funcionamiento normal, es decir, un estado
+sin averías.
+La tensión de la corriente continua del sistema de tracción con alimentación de 3 kV estaba plenamente compensada
+en la estación de Kolín (con una tensión de retención constante por separado en el
+cable portante y por separado en el hilo de catenaria) según el montaje tipo "J" con elementos
+típicos, cuando el hilo de catenaria estaba suspendido mediante ganchos, los llamados
+tirantes, de diferente longitud sobre el cable portante – se trataba de un tendido en cadena.
+Los tramos de anclaje individuales de la TV estaban anclados mediante
+las extensiones de anclaje del hilo de catenaria y del cable portante con un anclaje móvil
+o fijo.
+Las MU afectadas de las SK n.º 100, 100a, 101, 101a, 1d de la estación de Kolín estaban electrificadas con el montaje principal
+del tendido en cadena con una sección transversal del hilo de catenaria de 150 mm2 y del cable portante de 120 mm2. La SK
+n.º 105 y las conexiones entre vías entre las vías principales estaban electrificadas con el montaje secundario
+del tendido en cadena con una sección transversal del hilo de catenaria de 100 mm2 y del cable portante de 50 mm2.
+Para evitar desplazamientos mutuos no deseados del cable portante y del hilo de catenaria
+en la dirección longitudinal, los tramos de anclaje estaban provistos de anclaje, los llamados puntos fijos. Los hilos de
+catenaria estaban suspendidos a una altura constante sobre la vía, es decir, a una distancia perpendicular entre la superficie
+inferior transitable del hilo de catenaria y el plano que pasa por las cabezas de los raíles, de 5,6 m.
 
 ## Página 28
+
 
 En el 1.º ámbito de la estación de pasajeros de žst. Kolín, sobre la SK n.º 101b, se encontraba una división mecánica/eléctrica, que fue designada por el gestor de la vía como ÚO 451. El propio intercambio de conjuntos (tramos de anclaje) en dicha división estaba delimitado por suspensiones en el pórtico portante entre TP n.º 159 y 160 y en el pórtico portante entre TP n.º 161 y 162.
 Sobre la SK n.º 101a, en el TV, se encontraba una división mecánica/eléctrica, designada por el gestor de la vía como ÚO 441. El propio intercambio de conjuntos (tramos de anclaje) en dicha división estaba delimitado por suspensiones en el pórtico portante entre TP n.º 145 y 146 y en el pórtico portante entre TP n.º 147 y 148. El tramo de anclaje sobre la SK n.º 101a y sobre la SK n.º 101b contigua, es decir, en el lado de Velimi, estaba anclado a TP n.º 143 y 163 mediante un anclaje móvil por ambos lados. El tramo de anclaje contiguo sobre la parte de la SK n.º 1d, SK n.º 101 y 101a, es decir, desde el lado del andén central de žst. Kolín, estaba anclado a TP n.º 111 y 149, también mediante un anclaje móvil por ambos lados. El punto fijo se encontraba en el lugar del pórtico portante entre TP n.º 127 y 128, anclado a TP n.º 123 y 129.
@@ -999,8 +971,8 @@ Del análisis de los datos registrados por la técnica de control de despacho op
 • a las 6:05:18 h se produjo la aparición de la MU anterior (fundido del hilo de catenaria y daño en el colector del HDV estacionado en la SK n.º 101a de žst. Kolín) – en la subestación de tracción de Pečky se registró la apertura del interruptor rápido N1 y, al mismo tiempo, en la subestación de tracción de Kolín se registró la apertura del interruptor rápido N11, con lo que se produjo, entre otros, la interrupción de la alimentación del TV en la división mecánica/eléctrica ÚO 441 (sobre la SK n.º 101a) de žst. Kolín.
 Posteriormente, por parte de los electrodespachadores independientes ED1 y ED3 de SEE Praha, se realizaron maniobras para delimitar el lugar de la avería, para apagar (desconectar) la parte dañada del TV en žst. Kolín y permitir su reparación, y para permitir la alimentación de las demás partes no dañadas del TV;
 
-
 ## Página 29
+
 
 • a las 6:09:02 h el electrodespachador independiente ED3 de SEE Praha emitió la orden de apagar (desconectar) el ÚO 431 (la división mecánica/eléctrica sobre la SK n.º 1d de žst. Kolín).
 4 s después (a las 6:09:06 h) dicho seccionador fue apagado (desconectado);
@@ -1020,8 +992,8 @@ El espacio de žst. Kolín estaba, en el momento de la aparición de la MU anter
 • a las 6:03:56 h en el HDV 163.244-7 comenzó el descenso del colector II (el trasero en el sentido de su circulación anterior);
 • a las 6:03:59 h el HDV 163.244-7 tenía ambos colectores descendidos (en posición inferior);
 
-
 ## Página 30
+
 
 | • a las 6:05:12 h | en el HDV 163 .244 -7 comenzó el ascenso del colector I (el trasero en el sentido de la circulación prevista siguiente); |
 | • a las 6:05:15 h | el HDV 163 .244 -7 tenía el colector I ascendido en posición superior y en el punto de contacto de la patín del colector con el hilo de catenaria se produjo una descarga eléctrica que duró , aprox. 1 s; |
@@ -1041,8 +1013,8 @@ maquinista del tren Os 5005 (Os 5002)
 ◦en žst. Kolín recibió la orden escrita para el tren n.º 5005. Nota DI: la orden escrita no contenía ninguna instrucción ni información relevante relacionada con la circulación del tren Os 5005 en žst. Kolín,
 ◦al salir el tren Os 5005 de la SK n.º 105 no registró ningún signo de aparición de MU ni de incidencia, ni fue informado por nadie de que se hubiera producido una MU;
 
-
 ## Página 31
+
 
 •
 despachador de explotación PD1 de CDP Praha
@@ -1068,103 +1040,127 @@ despachador de vía 114 de CDP Praha (turno nocturno)
 
 ## Página 32
 
-◦tras la aparición de la MU anterior, que tuvo lugar el 19. 5. 2022 a las 6:05 h en la est. Kolín, comunicó con el despachador operativo PD1 CDP Praha, del que recibió la prohibición de circular por las vías, sobre las que a continuación, a través del JOP, estableció una interrupción de vía.
+◦tras la aparición de la MU anterior, que tuvo lugar el día 19. 5. 2022 a las 6:05 h en la est. de Kolín, comunicó con el despachador operativo PD1 CDP Praha, del que recibió la prohibición de circular por las vías, sobre las que a continuación, a través del JOP, estableció la interrupción de vía.
 Nota DI: se trataba de las SK n.º 100, 100a, 101 y 101a,
-◦con base en la información del despachador operativo PD1 CDP Praha, primero intentó delimitar el alcance previsto del daño en la TV estableciendo una interrupción de tensión a través del JOP y, a continuación, en la SK n.º 101a, estableció a través del JOP una interrupción de vía, con el motivo de impedir la circulación de DV por dicha vía, con lo que quiso asegurar en la máxima medida la seguridad del transporte ferroviario y prevenir la aparición de un posible malentendido en la posterior entrega del servicio de tráfico. En las SK marcadas de esta manera, en efecto, la establecimiento de una ruta de tren o de maniobra solo es posible tras la advertencia del sistema JOP, lo que en aquel momento le pareció, desde el punto de vista de la seguridad, la mejor solución posible. Del mismo modo, a través del JOP estableció una interrupción de vía también en las SK n.º 101, 100 y 100a de la est. Kolín,
-◦no recibió ninguna petición de establecer una interrupción de vías no prevista o una interrupción de tensión no prevista,
-◦la información sobre las interrupciones de tensión, las interrupciones de vía y las instrucciones/órdenes del despachador eléctrico la transmite al entregar el servicio de tráfico,
-◦realizó la formación sobre la activación de la función complementaria «G-STOP», utilizada en el marco de la red de radio del equipo de radio de tren del sistema GSM-R CZ, durante la cual se simularon situaciones no estándar, por ejemplo, el paso de un semáforo principal, la salida no autorizada de un tren, etc.;
+◦sobre la base de la información del despachador operativo PD1 CDP Praha, primero intentó, mediante el establecimiento de una interrupción de tensión a través del JOP, delimitar el alcance presunto de los daños en el TV y, a continuación, en la SK n.º 101a, estableció a través del JOP la interrupción de vía, con el motivo de impedir la circulación de DV por dicha vía, con lo que, en la mayor medida posible, quiso garantizar la seguridad del transporte ferroviario y prevenir la aparición de un posible malentendido en la posterior entrega del servicio de tráfico. En las SK marcadas de esta manera, en efecto, la constitución de una vía de tren o de maniobra solo es posible tras la advertencia del sistema JOP, lo que en aquel momento le pareció, desde el punto de vista de la seguridad, la mejor solución posible. Asimismo, a través del JOP, estableció la interrupción de vía también en las SK n.º 101, 100 y 100a de la est. de Kolín,
+◦no recibió ninguna petición de establecer una interrupción de vías no prevista ni una interrupción de tensión no prevista,
+◦las informaciones sobre las interrupciones de tensión, las interrupciones de vía y las instrucciones/órdenes del despachador eléctrico las transmite en la entrega del servicio de tráfico,
+◦realizó la formación sobre la activación de la función complementaria «G-STOP», utilizada en el marco de la red de radio del equipo de radio de tren del sistema GSM-R CZ, en la que se simularon situaciones no estándar, por ejemplo, el paso de la señal principal, la salida no autorizada de un tren, etc.;
 •
 despachador de línea 114 CDP Praha (turnos diurnos)
-  – Acta con el empleado y Registro de la explicación presentada DI:
-◦entró en turno el 19. 5. 2022 a las 6:20 h descansado física y psíquicamente, antes de este turno diurno pasó la noche descansando en su lugar de residencia permanente,
-◦en 1995, tras una autorización exitosa, comenzó a ejercer la función de jefe de estación de forma independiente. En 2016 pasó a la función de despachador de línea, que desempeña hasta la actualidad,
+  – Acta con el empleado
+y Registro de la explicación presentada DI:
+◦entró en turno el día 19. 5. 2022 a las 6:20 h descansado física y psíquicamente, antes de este turno diurno pasó la noche descansando en su lugar de residencia permanente,
+◦en el año 1995, tras una autorización exitosa, comenzó a ejercer la función de jefe de estación de forma independiente. En el año 2016 pasó a la función de despachador de línea, que desempeña hasta la actualidad,
 ◦durante el turno, y hasta el momento de la aparición de la MU en cuestión, no se vio alterado por nada,
-◦tras entrar en turno a las 6:20 h, comunicó repetidamente con el despachador operativo PD1 CDP Praha en relación con la resolución de la MU anterior. Recibió de él la información sobre la prohibición de circular por las SK n.º 100, 101, 101a, 103, 105, 107 y 109 de la est. Kolín desde/hacia Velimi. Tomó nota de ello y siguió resolviendo la situación del tráfico en su distrito, considerablemente influida por la aparición de la MU anterior, cuando en este momento había una gran frecuencia de trenes,
-◦hacia las 6:45 h el despachador operativo PD1 CDP Praha le comunicó que, debido al desplome de la TV, había prohibición de circular desde las vías 103 hasta 109 y de circular por la TK n.º 1 Velim – Kolín. Lo tomó como información y esperaba que las siguientes peticiones se las transmitiera directamente el despachador eléctrico independiente. En esa época la est. Kolín está fuertemente cargada operativamente, por lo que se dedicó a otras tareas que se derivan de su función laboral,
-◦del despachador eléctrico independiente no recibió ninguna información sobre la TV desconectada ni sobre la petición de iniciar una interrupción no prevista en la est. Kolín, por lo que de su
-
+◦tras entrar en turno a las 6:20 h, comunicó repetidamente con el despachador operativo PD1 CDP Praha en relación con la resolución de la MU anterior. Recibió de él la información sobre la prohibición de circular por las SK n.º 100, 101, 101a, 103, 105, 107 y 109 de la est. de Kolín desde/hacia Velimi. Tomó nota de ello y siguió resolviendo la situación de tráfico en su distrito, considerablemente influida por la aparición de la MU anterior, cuando en este periodo había una gran frecuencia de trenes,
+◦hacia las 6:45 h aproximadamente, el despachador operativo PD1 CDP Praha le comunicó que, debido al desplome del TV, existía la prohibición de circular desde las vías 103 hasta la 109 y de circular por la TK n.º 1 Velim – Kolín. Lo tomó como una información y esperaba que las siguientes peticiones se las transmitiera directamente el despachador eléctrico independiente. En esa época la est. de Kolín suele estar muy cargada operativamente, por lo que se dedicó a otras tareas que se derivan de su función laboral,
+◦del despachador eléctrico independiente no recibió ninguna información sobre el TV desconectado ni tampoco sobre la petición de iniciar una interrupción no prevista en la est. de Kolín, por lo que de su
 
 ## Página 33
 
-parte no había motivo para establecer, a través del JOP, la etiqueta correspondiente en el relieve de la vía,
-◦estaba preparado para resolver las siguientes medidas de tráfico por instrucción del despachador eléctrico independiente,
-◦ya que el desplome de la TV se resolvía en la cabecera de Velimi de la est. Kolín, estableció la ruta de tren para los trenes Os 5002 y Os 5005 desde y hacia la SK n.º 105 a través de la cabecera central del 1.º distrito de la estación de clasificación,
+por parte de la misma no había motivo, a través de JOP, para colocar la etiqueta correspondiente en relieve en el esquema de la vía,
+◦las demás medidas de tráfico estaba preparado para resolverlas por instrucción del electrodespachador independiente,
+◦como la catenaria hundida (TV) la resolvían en la cabecera de la estación de Kolín, estableció la vía de tren para los trenes Os 5002 y Os 5005 desde y hacia la SK n.º 105 a través de la cabecera central del 1.º sector de la estación de clasificación,
 ◦a las 8:00 h entregó la dirección del tráfico en el PPV Kolín,
-◦no recuerda que tras la MU anterior se hubiera realizado una maniobra, entre otras, por las SK n.º 103, 107 y 105 de la est. Kolín, para las que recibió del despachador operativo PD1 CDP Praha la prohibición de circular, en relación con la resolución de la MU anterior,
-◦a la sala de práctica acude unas dos veces al año y resuelve estados de avería. La resolución de MU no se simula;
+◦no recuerda que, tras la MU anterior, se hubiera realizado maniobras, entre otras, por las SK n.º 103, 107 y 105 de la estación de Kolín, para las cuales recibió del despachador operativo PD1 CDP Praga la prohibición de circulación, en relación con la resolución de la MU anterior,
+◦a la sala de entrenamiento acude unas dos veces al año y resuelve estados de avería. La resolución de la MU no se simula;
 •
-despachador eléctrico independiente ED3 SEE Praha
-  – Acta con el empleado y Registro de la explicación presentada DI:
-◦entró en turno el 19. 5. 2022 a las 6:00 h descansado física y psíquicamente, antes de este turno pasó la noche descansando en su lugar de residencia permanente. Desempeña la función de despachador eléctrico independiente desde 2010,
-◦durante el turno, hasta el momento de la aparición de la MU en cuestión, no se vio alterado por nada,
-◦el 19. 5. 2022, después de las seis de la mañana, se produjo la caída del interruptor rápido N11 en la subestación de tracción Kolín y simultáneamente se produjo la caída del interruptor rápido N1 en la subestación de tracción Pečky,
-◦hacia las 6:10 h le llamó por teléfono el despachador operativo PD1 CDP Praha y le comunicó que durante una maniobra se había producido un daño en la TV,
-◦a las 6:11 h delimitó la avería en la TV sobre la SK n.º 100, 100a, 101 y 101a de la est. Kolín. Al despachador operativo PD1 CDP Praha le emitió la prohibición de circular por dichas vías,
-◦a las 6:15 h informó al servicio de guardia OTV en Kolín sobre la aparición de la MU anterior,
-◦a las 6:44 h recibió la información sobre la TV desplomada y comunicó al despachador operativo PD1 CDP Praha la prohibición de circulación de trenes desde las SK n.º 103 hasta 109 de la est. Kolín,
-◦a las 6:51 h emitió la orden de eliminación de la avería de la TV e informó a los empleados de OTV en relación con los trabajos en el equipo – TV (reparación del cable de catenaria dañado sobre la SK n.º 101a de la est. Kolín), de que la TV sobre las SK n.º 103 hasta 109 y sobre la SK n.º 102 está bajo tensión,
-◦subrayó que al despachador operativo PD1 CDP Praha no le daba solo información, sino una instrucción (orden), de que hay prohibición de circular por la SK n.º 100, 101 y 101a y además por la SK n.º 103 hasta 109 de la est. Kolín,
-◦el despachador operativo PD1 CDP Praha fue el primer llamante en el asunto en cuestión y desde entonces comunicaba con él y daba por hecho que, si el despachador operativo PD1 CDP Praha considerara que la recepción de la instrucción (orden) sobre la prohibición de circular por las vías mencionadas no está en su competencia, le remitiría al despachador de línea correspondiente, lo que no ocurrió,
-◦no dio al despachador de línea 114 CDP Praha la instrucción directa sobre la prohibición de circular por las SK mencionadas, debido a que en el asunto en cuestión comunicaba con el despachador operativo PD1 CDP Praha,
-
+electrodespachador independiente ED3 SEE Praga
+  – Acta con el empleado y Registro de la explicación prestada DI:
+◦entró en turno el 19. 5. 2022 a las 6:00 h descansado física y psicológicamente, antes de este turno pasó la noche descansando en su lugar de residencia permanente. Desempeña la función de electrodespachador independiente desde el año 2010,
+◦durante el turno, hasta el momento de producirse la MU en cuestión, no se vio alterado por nada,
+◦el 19. 5. 2022, después de las seis de la mañana, se produjo la caída del interruptor rápido N11 en la subestación de tracción de Kolín y simultáneamente se produjo la caída del interruptor rápido N1 en la subestación de tracción de Pečky,
+◦aproximadamente a las 6:10 h le llamó por teléfono el despachador operativo PD1 CDP Praga y le comunicó que durante una maniobra se había producido un daño en la catenaria (TV),
+◦a las 6:11 h delimitó la avería en la catenaria (TV) sobre las SK n.º 100, 100a, 101 y 101a de la estación de Kolín. Al despachador operativo PD1 CDP Praga le emitió la prohibición de circulación por dichas vías,
+◦a las 6:15 h puso en conocimiento a la guardia OTV en Kolín sobre la producción de la MU anterior,
+◦a las 6:44 h recibió información sobre la catenaria hundida (TV) y comunicó al despachador operativo PD1 CDP Praga la prohibición de circulación de trenes desde las SK n.º 103 hasta 109 de la estación de Kolín,
+◦a las 6:51 h emitió la orden de eliminación de la avería de la catenaria (TV) y puso en conocimiento a los empleados de OTV, en relación con los trabajos en el equipo – catenaria (TV) (reparación del cable de catenaria dañado sobre la SK n.º 101a de la estación de Kolín), que la catenaria (TV) sobre las SK n.º 103 hasta 109 y sobre la SK n.º 102 está bajo tensión,
+◦subrayó que al despachador operativo PD1 CDP Praga no le daba solo información, sino una instrucción (orden), de que existe prohibición de circulación en la SK n.º 100, 101 y 101a y además en las SK n.º 103 hasta 109 de la estación de Kolín,
+◦el despachador operativo PD1 CDP Praga fue el primer llamante en el asunto en cuestión y desde entonces se comunicaba con él, y daba por hecho que, si el despachador operativo PD1 CDP Praga considerara que la recepción de la instrucción (orden) de prohibición de circulación en las vías mencionadas anteriormente no está en su competencia, le habría remitido al despachador de línea correspondiente, lo cual no ocurrió,
+◦la instrucción directa de prohibición de circulación en las SK mencionadas anteriormente no la dio al despachador de línea 114 CDP Praga debido a que en el asunto en cuestión se comunicaba con el despachador operativo PD1 CDP Praga,
 
 ## Página 34
 
-◦conoce la diferencia entre los puestos de trabajo de despachador operativo y despachador de línea,
-◦emitió la instrucción sobre la prohibición de circular por las vías mencionadas y presumía que con ello se entendía automáticamente también el establecimiento de la interrupción no prevista,
-◦por qué motivo en el caso en cuestión no solicitó la prohibición de circular también hacia/desde la SK n.º 103a, 101b y especialmente hacia/desde la SK n.º 1d en la est. Kolín, no lo recuerda;
+◦la diferencia entre el puesto de trabajo de jefe de explotación y jefe de tráfico la conoce,
+◦emitió la orden de prohibición de circulación en las vías arriba indicadas y presumió que con ello se entendía automáticamente también la implantación de una interrupción no prevista,
+◦por qué motivo en el caso concreto no solicitó la prohibición de circulación también hacia/desde la SK n.º 103a, 101b y, sobre todo, hacia/desde la SK n.º 1d en la est. Kolín, no lo recuerda;
 •
-técnico eléctrico SEE Praha
+técnico eléctrico SEE Praga
   – Acta con el empleado:
-◦tras llegar al puesto de trabajo, recibió instrucción sobre la «BOZP»,
-◦en relación con la circulación del SHDV «MVTV 2 - 033» de OTV Kolín en forma de maniobra al lugar de la MU anterior, realizaba las actividades correspondientes al jefe de maniobra,
-◦tras la detención del SHDV «MVTV 2 - 033» en la vía n.º 101a de la est. Kolín y el consentimiento del despachador eléctrico independiente, recibió del jefe de trabajos de SEE Praha la instrucción de asegurar el puesto de trabajo,
-◦tomó el equipo de cortocircuito y lo colocó en el cable de catenaria que estaba fundido
-Nota DI:
-   es decir, mirando desde Záboří n. L. antes del HDV 163.244-7 en el cable de catenaria izquierdo sobre la SK n.º 101a de la est. Kolín, directamente en el campo de cambio de la división mecánica/eléctrica ÚO 441, y concretamente en el portal de soporte entre la TP 145 y 146, en el cable de catenaria que estaba fundido en el km 348,152 y anclado desde la dirección de la est. Záboří n. L. a la TP n.º 143 (véase la Fig. n.º 3 de esta ZZ),
-◦el jefe de cuadrilla de SEE Praha fue a colocar el equipo de cortocircuito en el lado opuesto (nota DI: es decir, mirando desde Záboří n. L. detrás del HDV 163.244-7 y del SHDV estacionado en la SK n.º 101a de la est. Kolín),
-◦firmó el documento «Příkaz “B“», cogió las herramientas y subió al techo del HDV 163.244-7, donde con un gato de trinquete de metal bajaba los extremos fundidos del cable de catenaria,
-◦de pronto se oyó una explosión y saltó una descarga eléctrica entre el cable de catenaria y el techo del HDV 163.244-7, y ello a través de la cadena del gato de trinquete;
+◦a su llegada al puesto de trabajo, fue instruido sobre la «BOZP»,
+◦en relación con la circulación del SHDV «MVTV 2 - 033» OTV Kolín en forma de maniobra hasta el lugar de la MU anterior, realizaba actividades propias del jefe de maniobras,
+◦tras la detención del SHDV «MVTV 2 - 033» en la vía n.º 101a de la est. Kolín y el consentimiento del electrodespachante independiente, recibió la orden del jefe de trabajos de SEE Praga de asegurar el puesto de trabajo,
+◦tomó el equipo de cortocircuito y lo colocó sobre el hilo de catenaria que estaba fundido Nota.
+   DI:
+   es decir, mirando desde Záboří n. L. delante del HDV 163.244-7, sobre el hilo de catenaria izquierdo por encima de la SK n.º 101a de la est. Kolín, directamente en el campo de conmutación de la separación mecánica/eléctrica de la ÚO 441, y ello en el portal portante entre la TP 145 y la 146, sobre el hilo de catenaria que estaba fundido en el km 348,152 y, en el sentido desde la est. Záboří n. L., anclado a la TP n.º 143 (véase la Fig. n.º 3 de esta ZZ),
+◦el jefe de cuadrilla de SEE Praga se dirigió a colocar el equipo de cortocircuito en el lado opuesto (nota DI: es decir, mirando desde Záboří n. L. detrás del HDV 163.244-7 y del SHDV estacionado en la SK n.º 101a de la est. Kolín),
+◦firmó el documento «Příkaz "B"», cogió las herramientas y subió a la cubierta del HDV 163.244-7, donde, mediante un elevador de trinquete metálico, izaba los extremos fundidos del hilo de catenaria,
+◦de pronto se oyó una explosión y saltó una descarga eléctrica entre el hilo de catenaria y la cubierta del HDV 163.244-7, y ello a través de la cadena del elevador de trinquete;
 •
-jefe de trabajos SEE Praha
+jefe de trabajos de SEE Praga
   – Acta con el empleado:
-◦tras llegar al puesto de trabajo, se realizó la instrucción sobre la «BOZP»,
-◦del despachador eléctrico independiente ED3 SEE Praha recibieron la orden de salir hacia la SK n.º 101a, para el reconocimiento del HDV y la eliminación de la avería de la TV, habiendo sido designado como jefe de trabajos,
-◦tras la detención del SHDV «MVTV 2 - 033» en la vía n.º 101a de la est. Kolín, el jefe de cuadrilla de SEE Praha le entregó el documento «Příkaz “B“»,
-◦tras rellenar el documento «Příkaz “B“», recibió el consentimiento del despachador eléctrico independiente ED3 SEE Praha para el inicio de los trabajos, después dio la orden de colocar los equipos de cortocircuito,
-◦posteriormente comprobó visualmente su colocación en el cable de catenaria y adquirió la convicción de que los equipos de cortocircuito estaban correctamente colocados,
-◦desde su puesto tenía a la vista los equipos de cortocircuito colocados,
-◦junto con el técnico eléctrico de SEE Praha cogieron las herramientas necesarias y subieron al techo del HDV 163.244-7, que tenía ambos colectores bajados y estaba inactivo,
-
+◦a su llegada al puesto de trabajo, se realizó la instrucción sobre la «BOZP»,
+◦del electrodespachante independiente ED3 de SEE Praga recibieron la orden de salida hacia la SK n.º 101a, es decir, para la inspección del HDV y la eliminación de la avería de la TV, habiendo sido designado como jefe de trabajos,
+◦tras la detención del SHDV «MVTV 2 - 033» en la vía n.º 101a de la est. Kolín, el jefe de cuadrilla de SEE Praga le entregó el documento «Příkaz "B"»,
+◦tras cumplimentar el documento «Příkaz "B"», obtuvo el consentimiento del electrodespachante independiente ED3 de SEE Praga para el inicio de los trabajos, tras lo cual dio la orden de colocación de los equipos de cortocircuito,
+◦posteriormente comprobó visualmente su colocación sobre el hilo de catenaria y adquirió la convicción de que los equipos de cortocircuito estaban correctamente colocados,
+◦desde su puesto de observación tenía a la vista la colocación de los equipos de cortocircuito,
+◦junto con el técnico eléctrico de SEE Praga cogieron las herramientas necesarias y subieron a la cubierta del HDV 163.244-7, que tenía ambos pantógrafos izados y estaba inactivo,
 
 ## Página 35
 
-◦en el techo del HDV 163.244-7 estaba junto con el técnico eléctrico de SEE Praha y el especialista de sistemas O18 SŽ. Primero realizaban fotodocumentación,
-◦con un gato de trinquete de metal comenzaron a bajar los extremos fundidos del cable de catenaria,
-◦de pronto se oyó una explosión y saltó una descarga eléctrica entre el cable de catenaria y el techo del HDV 163.244-7, y ello a través de la cadena del gato de trinquete;
+◦en la cubierta del HDV 163.244-7 se encontraba junto con el electrotécnico de SEE Praga
+y el especialista en sistemas O18 SŽ. Primero realizaban la fotodocumentación,
+◦con ayuda de un gato de trinquete metálico comenzaban a retirar los extremos quemados
+del hilo de catenaria,
+◦de repente se oyó una explosión y saltó una descarga eléctrica entre el hilo de catenaria
+y la cubierta del HDV 163.244-7, y eso a través de la cadena del gato de trinquete;
 •
-jefe de cuadrilla de SEE Praha
+jefe del equipo de trabajo de SEE Praga
   – Acta con el empleado:
-◦tras llegar al puesto de trabajo y la instrucción periódica, recibió del despachador eléctrico independiente ED3 SEE Praha la información de que se había producido una avería en la TV sobre la SK n.º 101 de la est. Kolín,
-◦en forma de maniobra llegaron con el SHDV «MVTV 2 - 033» de OTV Kolín al lugar de la avería (nota DI: es decir, al lugar de la MU anterior) y, tras el consentimiento del despachador eléctrico independiente ED3 SEE Praha, designó (determinó) al jefe de trabajos,
-◦a continuación, del jefe de trabajos de SEE Praha recibieron la instrucción de asegurar la TV con equipos de cortocircuito,
-◦tomó un equipo de cortocircuito y fue a «cortocircuitar» (nota DI: es decir, asegurar la TV colgando un equipo de cortocircuito) el cable de catenaria que va desde la SK n.º 101b (nota DI: es decir, mirando desde Záboří n. L. detrás del HDV 163.244-7 y del SHDV estacionados en la SK n.º 101a de la est. Kolín, junto a la TP n.º 147B),
-◦el técnico eléctrico de SEE Praha fue con el equipo de cortocircuito al lado opuesto del HDV 163.244-7 para asegurar la TV desde el lado de Záboří n. L.,
-◦tras asegurar la TV, el jefe de trabajos de SEE Praha y el técnico eléctrico de SEE Praha subieron al techo del HDV 163.244-7 y con un gato de trinquete de metal comenzaron a bajar el cable de catenaria fundido,
-◦estaba al lado del HDV 163.244-7, cuando de pronto apareció un destello y en el primer momento no sabía qué había ocurrido,
-◦tras un momento comprobó que el equipo de cortocircuito que colocaba el técnico eléctrico de SEE Praha estaba en el mismo cable de catenaria del conjunto de TV en el que él mismo colocaba el equipo de cortocircuito (nota DI: es decir, en el cable de catenaria que va desde la SK n.º 101b, y concretamente en el punto sobre la SK n.º 101a junto a la TP 147B). Por lo tanto, desconectó el equipo de cortocircuito que colocaba el técnico eléctrico de SEE Praha y lo colocó en el cable de catenaria vecino (nota DI: es decir, desde Záboří n. L. en el cable de catenaria derecho en el campo de cambio de la división mecánica/eléctrica ÚO 441), que iba desde la SK n.º 101,
-◦debido al retraso en el establecimiento de la interrupción no prevista, actuaron solo como en un trabajo en el equipo,
-◦no se colocaron señales portátiles para el tráfico eléctrico;
+◦tras llegar al lugar de trabajo y la instrucción regular, recibió del electrodespachador
+independiente ED3 SEE Praga la información de que se había producido una avería de TV
+sobre la SK n.º 101 de la estación de Kolín,
+◦mediante maniobras llegaron con el SHDV „MVTV 2 - 033“ de OTV Kolín al lugar de la avería
+(nota DI: es decir, al lugar de la MU anterior) y con el consentimiento del electrodespachador
+independiente ED3 SEE Praga designó (determinó) al jefe de trabajos,
+◦posteriormente recibieron del jefe de trabajos de SEE Praga la instrucción de asegurar la TV
+con los equipos de cortocircuito,
+◦tomó el equipo de cortocircuito y fue a „cortocircuitar“ (nota DI: es decir, asegurar la TV
+colgando el equipo de cortocircuito) el hilo de catenaria que conducía desde la SK n.º 101b
+(nota DI: es decir, mirando desde Záboří n. L. detrás del HDV 163.244-7 y el SHDV situados
+en la SK n.º 101a de la estación de Kolín, junto al TP n.º 147B),
+◦el electrotécnico de SEE Praga fue con el equipo de cortocircuito al lado opuesto del
+HDV 163.244-7 para asegurar la TV por el lado de Záboří n. L.,
+◦tras asegurar la TV, el jefe de trabajos de SEE Praga y el electrotécnico de SEE Praga
+subieron a la cubierta del HDV 163.244-7 y con ayuda de un gato de trinquete metálico
+comenzaron a retirar el hilo de catenaria quemado,
+◦estaba al lado del HDV 163.244-7, cuando de pronto apareció un destello y en el primer
+momento no sabía qué había ocurrido,
+◦tras un momento comprobó que el equipo de cortocircuito que estaba colocando el
+electrotécnico de SEE Praga estaba en el mismo hilo de catenaria del conjunto TV en el
+que él mismo había colocado el equipo de cortocircuito (nota DI: es decir, en el hilo de
+catenaria que conducía desde la SK n.º 101b, y eso en el punto sobre la SK n.º 101a
+junto al TP 147B). Por lo tanto, desconectó el equipo de cortocircuito que estaba
+colocando el electrotécnico de SEE Praga y lo situó en el hilo de catenaria contiguo
+(nota DI: es decir, desde Záboří n. L. en el hilo de catenaria derecho en el campo de
+cambio de la división mecánica/eléctrica ÚO 441), que conducía desde la SK n.º 101,
+◦debido al retraso en la implantación de una interrupción no prevista, actuaron solo
+como en un trabajo sobre el equipo,
+◦no se colocaron señales portátiles para la circulación eléctrica;
 •
-especialista de sistemas O18 SŽ
+especialista en sistemas O18 SŽ
   – Acta con el empleado:
-◦tras su llegada a la est. Kolín, inició la investigación de la MU anterior, de acuerdo con la norma interna de SŽ D17,
-◦durante el reconocimiento del lugar de la MU subió al techo del HDV 163.244-7 y realizaba allí documentación del estado,
+◦tras llegar a la estación de Kolín inició la investigación de la MU anterior, y eso de
+conformidad con la normativa interna de SŽ D17,
+◦durante la inspección del lugar de la MU subió a la cubierta del HDV 163.244-7 y
+realizaba allí la documentación del estado,
 ◦durante esta actividad se produjo en sus proximidades una descarga eléctrica,
-◦durante la investigación utilizaba equipos de protección individual de trabajo.
+◦durante la investigación utilizaba los equipos de protección personal.
 
 ## Página 36
+
 
 Los registros de comunicación vocal relacionados con la MU en cuestión fueron archivados en el sistema KAC. Para las necesidades de la investigación de la MU en cuestión, fueron evaluados y transcritos fonéticamente en cursiva los siguientes registros de comunicación relevantes (véase el punto 4.1.1 de esta ZZ), cuando:
 | a las 6:09:31 h se inició la comunicación entre el despachador de vía 114 CDP Praga (turno de noche) (en adelante también TD114 N) y el electrodespachador independiente ED1 en ED Praga (en adelante también ED1): |  |
@@ -1207,10 +1203,10 @@ Así que la 100a y la 101a, sí, hay prohibido el paso.
 ED3:
 Sí, 100, 101, 101a.
 PD1:
-Bien, entendido, gracias … 
-
+Bien, entendido, gracias …
 
 ## Página 37
+
 
 ### a las 6:16:03 h se inició la comunicación entre PD1 y ED3:
 PD1:
@@ -1272,10 +1268,10 @@ ED3:
 se lo apagan si hace falta. Así así y ya podrían estar allí … 
 PD1:
 Hm, bien. Entonces, entonces si hace falta que vayan primero allí a la
-109, que la revisen para ver si podríamos salir hacia Velim. ¿Sí? … 
-
+109, que la revisen para ver si podríamos salir hacia Velim. ¿Sí? …
 
 ## Página 38
+
 
 ### a las 6:33:43 h se inició la comunicación entre PD1 y ED3:
 ED3:
@@ -1340,10 +1336,10 @@ Sí, rebasaba desde desde la 100a por la 101a a la 101. Rebasaba. Es
 como si fuera delante de los andenes dirección Praga. Y allí está
 detenida.
 ED3:
-… desde la 101a … 
-
+… desde la 101a …
 
 ## Página 39
+
 
 | PD1: | No desde la 100a Desde la 100a Iba a la 101a Allí cruzaba el fíra e iba a ir a . . . 101 y se quedó detenido en la 101a donde lo quemó . , . |
 | ED3: | Claro Sí, bueno . . … |
@@ -1371,8 +1367,8 @@ día) (en adelante también TD114) y el maquinista del tren Sp 1522 detenido en 
 | ED3: | a ningún sitio ¿Sí? Así que se enredaría allí y lo rompería . , . |
 | PD1: | Entiendo Ellos ya me lo decían aquí Ellos ya me lo decían antes ¿Qué . . . rompería? |
 
-
 ## Página 40
+
 
 | ED3: | No, que lo rompería si fuera allí , , . |
 | PD1: | No, claro No, bien Eso lo entiendo . . . … |
@@ -1431,10 +1427,10 @@ cortocircuito …
 PD1:
 ¿Tú allí tienes un cortocircuito?
 ED3:
-… porque conectó, conectó desde la sección a la cortocircuitada … 
-
+… porque conectó, conectó desde la sección a la cortocircuitada …
 
 ## Página 41
+
 
 ### 3.2 Descripción fáctica del suceso
 ### 3.2.1 Secuencia de hechos que condujeron a la incidencia extraordinaria
@@ -1500,6 +1496,7 @@ SZZ
 
 ## Página 42
 
+
 la estación de Kolín introdujo en la SK n.º 101 una exclusión de vía, a la que añadió el texto
 „ne“. Sin embargo, la exclusión de vía no prevista no fue iniciada;
 • a las 6:20 h
@@ -1548,8 +1545,8 @@ el jefe de trabajos de SEE Praga en relación con los trabajos en el equipo – 
 • a las 7:30 h
 el jefe de trabajos de SEE Praga en relación con los trabajos en el equipo – TV
 
-
 ## Página 43
+
 
 (reparación del hilo de catenaria dañado) confirmó la recepción del puesto de trabajo asegurado. A continuación inició los trabajos en el equipo, sin haber comunicado desde el puesto de trabajo requerido al despachador de línea 114 CDP Praga (turno de día) la solicitud de trabajo en el equipo y haber acordado las condiciones de trabajo en el equipo. Las señales portátiles con la señal „Stůj“ (Alto) ni las señales portátiles para tracción eléctrica no fueron utilizadas en la estación de Kolín en relación con estos trabajos;
 • a las 7:31:36 h
@@ -1572,63 +1569,63 @@ n. L.;
 • a las 7:54:42 h
 ### producción de la MU
 
-
 ## Página 44
 
-– el tren Os 5005 circulando a una velocidad de 38 km·h-1, tras recorrer 129 m desde su puesta en movimiento, se encontraba con la patineta del pantógrafo en el punto del separador de sección n.º 54, es decir, en el espacio entre las agujas n.º 134 y 139 de la cabeza de vías del circuito 1 de la estación de clasificación. Por efecto de la protección por tensión baja apagó el interruptor principal y 1 s después (a las 7:54:43 h) se recogió el pantógrafo,
-– en el punto de la MU anterior, donde se estaban realizando trabajos en el equipo, se produjo una fuerte descarga eléctrica,
-– en la subestación de tracción de Kolín se registró la actuación de la protección por sobrecorriente del TV y el apagado de los interruptores rápidos N11 y N12.
-### 3.2.2 Secuencia de hechos desde la producción del suceso extraordinario hasta la finalización de las acciones de los servicios de emergencia
+– el tren Os 5005, circulando a 38 km·h-1, se encontraba con el patín del colector en el lugar del separador de sección n.º 54, es decir, en el espacio entre las agujas n.º 134 y 139 de la cabeza de vías del 1.º circuito de la estación de clasificación, a 129 m de haberse puesto en movimiento. Por efecto de la protección por tensión baja, se abrió el interruptor principal y 1 s después (a las 7:54:43 h) se retiró el colector,
+– en el lugar de la MU anterior, donde se estaban realizando trabajos en el aparato de vía, se produjo una fuerte descarga eléctrica,
+– en la subestación de tracción de Kolín se registró la actuación de la protección por sobrecorriente TV y la apertura de los interruptores rápidos N11 y N12.
+### 3.2.2 Secuencia de hechos desde la producción del suceso excepcional hasta la finalización de las acciones de los servicios de rescate
 •
 7:54 h
-producción de la MU;
+producción del SE;
 •
 7:57 h
-comunicación de la producción de la MU (accidente laboral), es decir,
-al electrodespachador independiente ED3 SEE Praga, que a continuación recopiló
-más información al respecto;
+comunicación de la producción del SE (accidente laboral), a saber,
+ al
+electrodespachador independiente ED3 SEE Praga, que a continuación recopiló
+ información adicional al respecto;
 •
 8:06 h
-el electrodespachador independiente ED3 SEE Praga informó de la producción de la MU
-al despachador operativo PD1 CDP Praga, que a continuación recopiló
-más información al respecto;
+el electrodespachador independiente ED3 SEE Praga informó de la producción del SE al
+despachador de explotación PD1 CDP Praga, que a continuación recopiló
+ información adicional al respecto;
 •
-8:10 h
+8:10 h 
 la unidad de intervención del HZS de la Región de Bohemia Central llegó al lugar
-de producción de la MU y, entre otras cosas, asistió a la intervención correspondiente del Servicio de Emergencias Médicas de la Región de Bohemia Central en el lugar de la MU;
+ de producción del SE y, entre otras cosas, asistió a la intervención correspondiente del Servicio de Emergencias Médicas de la Región de Bohemia Central en el lugar del SE;
 •
 8:33 h
-la producción de la MU fue comunicada por el jefe de despacho de CDP Praga a O18 SŽ, centro territorial de Praga;
+la producción del SE fue comunicada por el jefe de despacho del CDP Praga al O18 SŽ, centro territorial de Praga;
 •
 8:46 h
-la persona autorizada de O18 SŽ comunicó al COP DI la información inicial
-sobre la electrocución de dos personas durante la investigación de la MU anterior
-en la estación de Kolín;
+la persona autorizada del O18 SŽ notificó al COP DI la información inicial
+ sobre la electrocución de dos personas durante la investigación de la MU anterior
+ en la est. de Kolín;
 •
 9:21 h
-el HZS SŽ, JPO Nymburk llegó al lugar de producción de la MU y realizó
-la aseguración del lugar y otras acciones correspondientes;
+el HZS SŽ, JPO Nymburk llegó al lugar de producción del SE y realizó
+ la delimitación de su lugar y otras tareas correspondientes;
 •
 9:28 h
-la persona autorizada de O18 SŽ comunicó la producción de la MU al COP DI, véase el punto 2.2 de esta ZZ;
+la persona autorizada del O18 SŽ notificó la producción del SE al COP DI, véase el punto 2.2 de esta ZZ;
 •
 9:42 h
-el empleado en el COP DI, sobre la base de los hechos comunicados, concedió
-al notificante el consentimiento para la liberación de la vía;
+el empleado en el COP DI, sobre la base de los hechos notificados, concedió
+ al notificante la autorización para la liberación de la vía;
 •
-10:20 h inicio de la inspección del lugar de producción de la MU en cuestión por parte de la persona autorizada de O18 SŽ;
+10:20 h inicio de la inspección del lugar de producción del SE en cuestión por parte de la persona autorizada del O18 SŽ;
 •
-11:00 h la persona autorizada de O18 SŽ concedió el consentimiento para el inicio de los trabajos de limpieza;
+11:00 h la persona autorizada del O18 SŽ concedió la autorización para el inicio de los trabajos de despeje;
 •
-12:30 h del lugar de la MU fue retirado el HDV 163.244-7 y se reiniciaron
-los trabajos en el equipo – TV (reparación del hilo de catenaria);
+12:30 h se retiró del lugar del SE la HDV 163.244-7 y se reanudaron
+ los trabajos en el aparato de vía – TV (reparación del hilo de catenaria);
 •
-13:52 h finalizaron los trabajos en el equipo – TV (reparación del hilo de catenaria);
+13:52 h finalizaron los trabajos en el aparato de vía – TV (reparación del hilo de catenaria);
 •
 13:54 h se restableció la explotación del transporte ferroviario sin restricciones.
 
-
 ## Página 45
+
 
 El Plan IZS fue activado, dada la naturaleza de la MU, por la persona que se encontraba directamente en el lugar de la MU en la estación de Kolín.
 En el lugar de la MU intervinieron los siguientes cuerpos del IZS:
@@ -1653,6 +1650,7 @@ De la norma interna SŽ Bp1 se deduce además que el trabajo en el equipo es la 
 
 ## Página 46
 
+
 cestě s sebou přináší vyšší riziko možného ohrožení života nebo zdraví osob. Proto jsou
 pro tuto činnost stanoveny z pohledu zajišťování bezpečnosti osob přísnější podmínky
 činnosti.
@@ -1668,8 +1666,8 @@ De lo anterior y de la documentación relativa a la MU en cuestión se desprende
 ### de los trabajos, es decir, el responsable de los trabajos de SEE Praha, no comunicó desde el puesto de trabajo, es decir, desde el lugar de la MU anterior, la solicitud de trabajo en la instalación al despachante de línea 114 CDP Praha (turnos diurnos). El responsable de los trabajos, es decir, el responsable de los trabajos de SEE Praha, no recibió así del despachante de línea 114 CDP Praha (turnos diurnos), entre otros, el consentimiento para la realización de los trabajos en la instalación, no acordó con él las condiciones de trabajo ni delimitó el lugar concreto del puesto de trabajo.
 El despachante de línea 114 CDP Praha (turnos diurnos) no recibió del responsable de los trabajos, es decir, del responsable de los trabajos de SEE Praha, la información de que se iban a iniciar trabajos en la instalación – TV (reparación del hilo de catenaria dañado); no se le comunicó, entre otros, la influencia del trabajo en la instalación sobre la organización del tráfico y la explotación de la instalación de infraestructura ferroviaria, así como el lugar del trabajo. Por este motivo, el despachante de línea 114 CDP Praha (turnos diurnos) no adoptó ninguna
 
-
 ## Página 47
+
 
 medida relacionada prevista en la norma interna SŽ Bp1. De este modo, mediante este procedimiento no llegó al despachante de línea 114 CDP Praha (turnos diurnos) la información fundamental relativa a la influencia del trabajo en la instalación sobre la organización del tráfico y la explotación de la instalación de infraestructura ferroviaria en la est. Kolín, por lo que no pudo tenerla en cuenta en su actividad ni la relacionó con el hecho de que sobre las vías cuya TV está sin tensión no se debe permitir ningún paso de HDV de tracción dependente con el pantógrafo levantado.
 ### Hallazgo:
@@ -1695,8 +1693,8 @@ parte quinta, artículo 16 apartado 2 letra a) de la norma interna SŽ Bp1:
 a) antes de iniciar el trabajo en la instalación, el empleado aislado o el responsable de los trabajos comunicará desde el puesto de trabajo requerido la solicitud de trabajo en la instalación al despachante de línea. El despachante de línea registrará en el cuaderno telefónico la hora del consentimiento para la realización de los trabajos en la instalación, el lugar concreto del puesto de trabajo, el modo de garantizar la seguridad del puesto de trabajo (en caso de aseguramiento basado en información de un empleado de tráfico, también el uso del teléfono móvil o del teléfono GSM-R, incluido el número de teléfono) y las condiciones, incluido el tiempo necesario para la evacuación segura del puesto de trabajo».
 En el caso de esta MU concreta es necesario relacionar la disposición anterior con la definitoria:
 
-
 ## Página 48
+
 
 ◦parte primera, artículo 2 párrafo 25, de la norma interna SŽ Bp1:
 «Trabajos en instalaciones – a efectos de esta norma, es la actividad de personas
@@ -1715,6 +1713,7 @@ La conexión de los equipos de cortocircuito en el lugar del trabajo en la insta
 El técnico eléctrico de SEE Praha conectó el equipo de cortocircuito al hilo de catenaria que en el km 348,152 estaba fundido y, desde la dirección de la est. Záboří n. L., anclado a la TP n.º 143, es decir, visto desde Záboří n. L. antes del HDV 163.244-7, al hilo de catenaria izquierdo sobre el SK n.º 101a de la est.
 
 ## Página 49
+
 
 ### Kolín directamente en la división mecánica/eléctrica de la UO 441, y ello en el poste portante entre los TP
 145 y 146 (véase la Fig. n.º 3 de la presente ZZ).
@@ -1767,8 +1766,8 @@ se conectó ningún equipo de cortocircuitos.
 El cortocircuito de la TV desde el sentido desde la est. Záboří n. L. debió realizarse de manera que
 el equipo de cortocircuitos debió conectarse al cable de catenaria que conduce desde el lado de posible alimentación desde
 
-
 ## Página 50
+
 
 la sección de anclaje sobre la parte de la SK n.º 1d, la SK n.º 101 y la parte de la SK n.º 101a anclada entre el TP
 n.º 111 y el TP n.º 149, y ello fuera del campo de cambio de la división mecánica/eléctrica de la UO 441.
@@ -1819,8 +1818,8 @@ artículo 4.9.4.1 de la norma TNŽ 34 3109:
 el puesto de trabajo o lo más cerca posible del mismo. Los equipos de cortocircuitos pueden conectarse como
 máximo a la vista del puesto de trabajo (puesto de trabajo)»;
 
-
 ## Página 51
+
 
 •
 artículo 4.9.4.6 de la norma TNŽ 34 3109:
@@ -1874,6 +1873,7 @@ Tecnología Eléctrica y Energética
 
 ## Página 52
 
+
 a electrodespachador "… (tras la previa conformidad del empleado que dirige el tráfico ferroviario, p. ej. el jefe de estación, el despachador de explotación) …". El propio término "jefe de estación" o "despachador de explotación" tampoco define este reglamento interno, y en todo caso clasifica incorrectamente al "despachador de explotación" bajo la persona que dirige el tráfico ferroviario, lo que conduce a la ambigüedad de los términos y a una orientación incorrecta de los destinatarios de las disposiciones correspondientes.
 El reglamento interno SŽDC D1, por su parte, ya definía el término "jefe de estación" como denominación común para los empleados con cualificación profesional para organizar y dirigir el tráfico ferroviario. A este grupo de empleados pertenece también el despachador de línea y el jefe de estación DOZ. Por el contrario, el reglamento interno SŽDC D1 definía el término "Despachador de explotación" como empleado del aparato de despacho de SŽ para la dirección operativa de la explotación. De manera similar define los términos "jefe de estación" y "Despachador de explotación" el reglamento interno del gestor de infraestructura SŽ "SŽ D1 PARTE PRIMERA Reglamento de explotación y de señalización para líneas no equipadas con el sistema europeo de seguridad del tren", en vigor desde el 1. 7. 2022.
 El DI ya en 2021 señaló el hecho (véase el asunto n.º ZZ 6-1965/2020/DI,
@@ -1895,32 +1895,28 @@ En la investigación se constató la infracción de la normativa legal y de los 
 § 22 apartado 2 letra d) de la Ley n.º 266/1994 Sb.:
 "El gestor de la infraestructura ferroviaria de ámbito nacional o regional está además obligado a garantizar que el sistema de seguridad del gestor de infraestructura por él implantado, de acuerdo con el reglamento de aplicación directa
 
-
 ## Página 53
 
-de la Unión Europea relativo a los métodos comunes de seguridad en materia de requisitos del sistema de gestión de la seguridad
-1. tenga en cuenta el alcance y el objeto de su actividad y de la actividad de los distintos transportistas ejercida en la infraestructura por él gestionada,
+del reglamento de la Unión Europea que establece métodos de seguridad comunes relativos a los requisitos del sistema de gestión de la seguridad
+1. tuviera en cuenta el alcance y el objeto de su actividad y de la actividad de los distintos transportistas realizada en la vía que explota,
 2. …
-3. sea cumplido,";
+3. se cumpliera,";
 •
 punto 2.3.1 del ANEXO I del Reglamento de la Comisión (UE) 2018/762:
-"Las obligaciones, responsabilidades y autoridades de los empleados que desempeñan un papel con influencia en la seguridad (incluidos los directivos y otros empleados que participan en tareas relacionadas con la seguridad) deben definirse en todos los niveles de la organización, documentarse, asignarse y comunicarse a las personas correspondientes.",
+"Las obligaciones, la responsabilidad y las competencias del personal que desempeña un papel con influencia en la seguridad (incluidos los directivos y otros empleados que participan en tareas relacionadas con la seguridad) deben definirse en todos los niveles de la organización, documentarse, asignarse y comunicarse a las personas pertinentes.",
 •
 punto 2.3.2 del ANEXO I del Reglamento de la Comisión (UE) 2018/762:
-"Las organizaciones deben garantizar que los empleados con obligaciones delegadas en el ámbito de las tareas relacionadas con la seguridad dispongan de la autoridad, las competencias y los recursos adecuados para poder desempeñar sus tareas sin verse afectados negativamente por la actividad de otras funciones de la empresa.",
+"La organización debe garantizar que los empleados con obligaciones delegadas en materia de tareas relacionadas con la seguridad dispongan de la autoridad, las competencias y los recursos adecuados para poder desempeñar sus tareas sin verse afectados negativamente por la actividad de otras funciones empresariales.",
 •
 punto 2.3.3 del ANEXO I del Reglamento de la Comisión (UE) 2018/762:
-"La delegación de obligaciones en el ámbito de las tareas relacionadas con la seguridad debe documentarse, comunicarse a los empleados correspondientes, ser aceptada y comprendida.".
-El electrodespachador independiente ED3 SEE Praga, sobre la base del seguimiento continuo de la situación de explotación y energética en su ámbito territorial de actuación y sobre la base de la información del despachador de explotación PD1 CDP Praga y del despachador de línea 114 CDP Praga (turno de noche), detectó la aparición de una avería en la est. Kolín, surgida como consecuencia de la MU anterior, y procedió a delimitar y desconectar (seccionar) el tramo correspondiente de catenaria donde se produjo dicha avería. A continuación puso en servicio (bajo tensión) todos los aparatos y tramos de catenaria no afectados por la avería.
-Además, a las 6:14 h informó al despachador de explotación PD1 CDP Praga de los cambios en la catenaria y de las condiciones para la circulación de DV en dicho punto, es decir, de la prohibición de circular por SK n.º 100, 101 y 101a. No obstante, en caso de avería de catenaria debió informar de estos hechos al jefe de estación, o al despachador de línea, es decir, a la persona que dirige el tráfico ferroviario en dicho punto de la infraestructura, y ello mediante orden de despacho, y no al despachador de explotación.
-El electrodespachador independiente ED3 SEE Praga informó posteriormente, a las 6:44 h, al despachador de explotación PD1 CDP Praga de otros cambios en la catenaria y de las condiciones para la circulación de DV en dicho punto, es decir, de la prohibición de circular no solo por SK n.º 100, 101 y 101a, sino también desde SK n.º 103 hasta 109 de la est. Kolín. De estos hechos, sin embargo, debió informar de nuevo al jefe de estación, o al despachador de línea, es decir, a la persona que dirige el tráfico ferroviario en dicho punto de la infraestructura, y ello mediante orden de despacho y no al despachador de explotación.
-El reglamento interno SŽDC D1 establecía de forma inequívoca el principio general de que, si el reglamento establece quién da la orden y a quién la da, siempre se ordena dar la orden directamente, salvo que la disposición concreta establezca lo contrario, es decir, no a través de un intermediario – en el caso
-### concreto, no a través del despachador de explotación PD1 CDP Praga (véase más abajo). La comunicación indirecta al despachador de línea 114 CDP Praga (turno de día) de la orden de prohibición de circulación de DV por SK n.º 100, 101, 101a, y también desde el 103 hasta el 109, es decir, en el sentido desde Velimi y también desde Záboří n. L., dada por el electrodespachador independiente ED3 SEE Praga a través del despachador de explotación PD1
-### CDP Praga, tuvo como consecuencia la distorsión de la orden dada, cuando el despachador de línea 114 CDP
-Praga (turno de día) [dada la ausencia de cualquier registro de la información transmitida por el despachador de explotación PD1 CDP Praga al despachador de línea 114 CDP Praga (turno de
-
+"La delegación de obligaciones en materia de tareas relacionadas con la seguridad debe documentarse, comunicarse a los empleados pertinentes, aceptarse y comprenderse.".
+El electrodespachador independiente ED3 SEE Praga, sobre la base de la vigilancia continua de la situación operativa y energética en su ámbito territorial de actuación y sobre la base de la información del despachador operativo PD1 CDP Praga y del despachador de línea 114 CDP Praga (turnos nocturnos), detectó la aparición de una avería en la estación de Kolín, surgida como consecuencia de la MU anterior, y procedió a delimitar y desconectar (cortar) el tramo correspondiente de TV donde se había producido dicha avería. A continuación, puso en servicio (bajo tensión) todos los aparatos y tramos de TV no afectados por la avería.
+Además, a las 6:14 h informó al despachador operativo PD1 CDP Praga de los cambios en la TV y de las condiciones para la circulación de DV en el lugar en cuestión, es decir, de la prohibición de circular por SK n.º 100, 101 y 101a. No obstante, en caso de avería de la TV, debía informar de estos hechos al jefe de estación, o al despachador de línea, es decir, a la persona que dirige el tráfico ferroviario en el lugar en cuestión en la vía, mediante una orden de despacho, y no al despachador operativo.
+El electrodespachador independiente ED3 SEE Praga informó posteriormente, a las 6:44 h, al despachador operativo PD1 CDP Praga de otros cambios en la TV y de las condiciones para la circulación de DV en el lugar en cuestión, es decir, de la prohibición de circular no solo por SK n.º 100, 101 y 101a, sino también desde SK n.º 103 hasta 109 de la estación de Kolín. De estos hechos, sin embargo, debía de nuevo informar al jefe de estación, o al despachador de línea, es decir, a la persona que dirige el tráfico ferroviario en el lugar en cuestión en la vía, mediante una orden de despacho y no al despachador operativo.
+La normativa interna SŽDC D1 establecía de forma inequívoca el principio general de que, si la normativa determina quién da la orden y a quién se la da, siempre se ordena dar la orden directamente, salvo que en la disposición concreta se establezca lo contrario, es decir, no a través de un intermediario – en el caso concreto, no a través del despachador operativo PD1 CDP Praga (véase más abajo). La comunicación indirecta al despachador de línea 114 CDP Praga (turnos diurnos) de la orden de prohibición de circulación de DV por SK n.º 100, 101, 101a, y también desde el 103 hasta el 109, es decir, en el sentido desde Velimi y también desde Záboří n. L., realizada por el electrodespachador independiente ED3 SEE Praga a través del despachador operativo PD1 CDP Praga, tuvo como consecuencia la distorsión de la orden dada, cuando el despachador de línea 114 CDP Praga (turnos diurnos) [dada la ausencia de cualquier registro de la información transmitida por el despachador operativo PD1 CDP Praga al despachador de línea 114 CDP Praga (diurno
 
 ## Página 54
+
 
 día)], según su declaración, recibió del despachador de explotación PD1 CDP Praga la orden de prohibición de circulación de DV en SK n.º 100, 101, 101a, 103, 105, 107 y 109 solo desde/hacia Velimi, y no también en el sentido desde/hacia Záboří n. L.
 ### Constatación:
@@ -1951,6 +1947,7 @@ El electrodespachador independiente tiene la obligación, de acuerdo con el art�
 
 ## Página 55
 
+
 inmediatamente en el registro de explotación del despachador eléctrico o, en su caso, en el libro de órdenes de despacho eléctrico.
 El reglamento interno SŽDC E6, según el art. 46 letra y), establece también que el despachador eléctrico independiente supervisa la ejecución y el cumplimiento de las órdenes y medidas emitidas. La orden emitida solo puede considerarse cumplida tras recibir el mensaje de ejecución de la tarea con indicación de la hora.
 El reglamento interno SŽDC E6 establece, asimismo, de forma muy detallada las normas y obligaciones relativas a las órdenes del despachador eléctrico independiente. Del mismo modo, determina de manera inequívoca para qué se utiliza la orden de despacho. A este respecto, es necesario mencionar que este reglamento menciona en varios lugares el libro de órdenes de despacho eléctrico, el cual, sin embargo, según la información facilitada por el representante del gestor de la vía SŽ, no estaba siendo llevado por el despachador eléctrico independiente a la fecha de ocurrencia de la MU en cuestión.
@@ -1961,8 +1958,8 @@ Dado que en los reglamentos internos SŽDC E6, SŽDC D7 y SŽDC D1 los términos
 Si resumimos lo anterior, se puede concluir que el despachador de explotación PD1 CDP Praga recibió del despachador eléctrico independiente ED3 SEE Praga una instrucción y no solo una información. Del mismo modo, el despachador eléctrico independiente ED3 SEE Praga impartió una instrucción y no solo una información.
 El reglamento interno SŽDC D1 establecía además que por la ejecución de una instrucción determinada responde quien debe ejecutarla. Si la ejecución de la instrucción contradijera las disposiciones de los reglamentos, el empleado que deba ejecutar la instrucción debe formular inmediatamente objeciones. Al despachador de explotación PD1 CDP Praga se le emitió, por tanto, mediante una instrucción la prohibición de circular por las vías mencionadas anteriormente; sin embargo, esta instrucción contravenía las disposiciones de los reglamentos, entre otros motivos porque debía darse directamente al jefe de estación o, en su caso, al despachador de línea, es decir, a la persona que dirige el tráfico ferroviario en el lugar correspondiente de la vía, y no al despachador de explotación, que es un empleado del gestor de la vía que participa en la dirección operativa de la explotación y no en la dirección del tráfico ferroviario en el ejercicio directo del servicio de transporte, es decir, no tiene las competencias de la persona que dirige el tráfico ferroviario (por ejemplo, el jefe de estación,
 
-
 ## Página 56
+
 
 el despachador de línea). A este respecto conviene recordar que el despachador de explotación PD1 CDP Praga consideraba que las instrucciones relativas a la dirección del tráfico ferroviario debía comunicarlas el despachador eléctrico independiente al despachador de línea correspondiente y, a continuación, informarle del resultado. No obstante, el despachador de explotación PD1 CDP Praga no formuló ninguna objeción al recibir las instrucciones que no podía ejecutar, sino que, por el contrario, las confirmó (véase también lo indicado anteriormente).
 ### Hallazgos:
@@ -1989,8 +1986,8 @@ A las 6:14:17 h se inició la comunicación entre el despachador de explotación
 •
 que ninguno de los participantes en esta conversación mencionó expresamente que se tratara de una instrucción relativa a la estación de Kolín;
 
-
 ## Página 57
+
 
 •
 el despachador eléctrico independiente ED3 SEE Praga indicó que las SK n.º 100, 101 y 101a están sin tensión;
@@ -2024,6 +2021,7 @@ El despachador eléctrico independiente ED3 SEE Praga indicó en la primera conv
 
 ## Página 58
 
+
 indicó «prohibición de circular también desde la vía 103 hasta la 109». Es decir, utilizó la preposición «desde», que expresa movimiento, dirección desde el interior de algo.
 Las preposiciones utilizadas son, por tanto, considerablemente distintas en su significado. Si vamos al fondo del asunto, el electrodespachador independiente ED3 SEE Praga, con sus instrucciones, impuso la prohibición de circular para la entrada, el paso y la salida desde la SK n.º 100, 101 y 101a de la est. Kolín, pero para las SK n.º 103 a 109 de la est. Kolín emitió la prohibición de circular únicamente para la salida desde dichas vías.
 Otro asunto en este contexto es la delimitación precisa del lugar, es decir, de los tramos de vías donde no se permite la circulación de DV, lo cual es importante para evitar posibles malentendidos.
@@ -2045,8 +2043,8 @@ Durante la investigación se constató la infracción de normas legales y normas
 art. 307 de la norma interna SŽDC D1:
 «En la explotación de la vía se utilizan instrucciones. Las instrucciones en el servicio de tráfico deben ser breves y comprensibles, de modo que se excluya cualquier malentendido, no deben poner en peligro la seguridad de la explotación de la vía y del transporte ferroviario y deben ser coherentes con la cualificación profesional del empleado que emite la instrucción y del empleado que debe ejecutarla.».
 
-
 ## Página 59
+
 
 Dado que el despachador de operaciones PD1 CDP Praga, que recibió las instrucciones sobre los cambios en la TV y las condiciones para la circulación de DV en dicho lugar, es decir, sobre la prohibición de circular no solo por las SK n.º 100, 101 y 101a, sino también desde las SK n.º 103 a 109 de la est. Kolín, y que posteriormente las transmitió al despachador de línea 114 CDP Praga (turno diurno) solo verbalmente, no es posible determinar qué datos se comunicaron realmente al despachador de línea 114 CDP Praga (turno diurno) (véase más arriba y el punto 4.3.5 de la presente ZZ). No obstante, a partir de la documentación disponible puede constatarse que el despachador de línea 114 CDP Praga (turno diurno):
 •
@@ -2067,8 +2065,8 @@ A la vista de lo anterior, puede constatarse que el despachador de línea 114 CD
 Al despachador de línea 114 CDP Praga (turno diurno) le eran, por tanto, conocidos los hechos, es decir, que se había producido un hundimiento de la TV, que le autorizaban a dudar de la libertad de las vías al circular desde las SK n.º 103 a 109 y por la TK n.º 1 Velim – Kolín, y esto por partes no determinadas de las vías de la cabecera de Velim del 1.º ámbito de la estación de pasajeros de la est. Kolín, por lo que no debía permitir la circulación de DV por ellas hasta que comprobara su libertad y su practicabilidad, lo cual no hizo hasta la aparición de la MU en cuestión.
 Aun así, el despachador de línea 114 CDP Praga (turno diurno) realizó a las 6:40:49 h mediante el servicio normal de SZZ las operaciones para la circulación de la unidad de maniobras 1 del grupo de SK n.º 111 a 117 a la SK
 
-
 ## Página 60
+
 
 n.º 107a y, posteriormente, a las 6:42:57 h, el despachador de línea 115 CDP Praga realizó mediante el servicio normal de SZZ las operaciones para la circulación de dicha unidad de maniobras desde la SK n.º 107a a la SK n.º 116d (véase el punto 3.1.8 de la presente ZZ). Se permitió, por tanto, la circulación por parte de las vías de la cabecera de Velim del 1.º ámbito de la estación de pasajeros de la est. Kolín sin haber comprobado su libertad y su practicabilidad.
 El despachador de línea 114 CDP Praga (turno diurno) realizó además a las 7:18:00 h mediante el servicio normal de SZZ las operaciones sucesivas para la circulación de la unidad de maniobras 2 en la est. Kolín desde el grupo de SK n.º 111 a 117 a la SK n.º 107a, desde la señal de clasificación Se113 a la SK n.º 107, desde la SK n.º 107 a la SK n.º 105, desde la SK n.º 105 a la 1d y desde la señal de clasificación Se119 hasta la señal de clasificación Se113 (véase el punto 3.1.8 de la presente ZZ). Se permitió, por tanto, la circulación por las vías de la cabecera de Velim del 1.º ámbito de la estación de pasajeros de la est. Kolín sin que de nuevo se hubiera comprobado su libertad y su practicabilidad.
@@ -2094,18 +2092,18 @@ SK n.º 100 una interrupción de vía, a la que se añadió el texto «ne».
 
 ## Página 61
 
-En la norma interna PNDOZ CDP se establece que: «En los puestos de trabajo de los despachantes de línea solo se permiten ayudas mnemotécnicas que puedan configurarse desde el menú de los distintos elementos en el JOP. … El propósito y la forma de su uso vienen determinados por el manual de operación del JOP.».
-En el documento Manual de operación del JOP, en la sección «9.3.8 Establecimiento, edición de texto, anulación de una vía fuera de servicio (VYL)», se indica que: «Se realiza de forma análoga y en condiciones similares a las descritas para el desvío (véase cap. 2).», mientras que en la sección «2.3.6 Establecimiento, edición y anulación de una vía fuera de servicio (VYL)» se indica que: «… Establecimiento, edición y anulación de una vía fuera de servicio con texto propio que se introduce en la etiqueta de la vía fuera de servicio. Se utiliza en los casos en que el desvío es impracticable para los vehículos ferroviarios. … La vía fuera de servicio sirve en el caso en que sea necesario impedir el paso de un vehículo ferroviario por un determinado punto; esta restricción puede superarse mediante una secuencia de confirmación …».
-Asimismo, en el documento Manual de operación del JOP, en la sección «9.3.7 Establecimiento, edición y anulación de una vía fuera de servicio de tensión (NVL)», se indica que «… Establecimiento, edición y anulación de una vía fuera de servicio de tensión con texto propio que se introduce en la etiqueta de la vía fuera de servicio. Se utiliza en los casos en que se produce el corte del suministro de tracción a la catenaria.».
-En el mismo documento, en la sección «9.3.1 Establecimiento, edición y anulación de la etiqueta de aviso (STIT)», se indica que: «Se realiza de forma análoga y en condiciones similares a las descritas para el desvío (véase cap. 2).», mientras que en la sección «2.3.4 Establecimiento, edición y anulación de la etiqueta de aviso (STIT)» se indica que: «… Establecimiento, edición y anulación de la etiqueta de aviso con texto propio que se introduce en la etiqueta. Se utiliza en los casos en que, durante la maniobra de un desvío o durante la establecimiento de un itinerario a través de desvíos, sea necesario informar a la explotación de algún hecho.».
-### El despachante de línea 114 CDP Praga (turnos de noche) estableció así, a través del JOP, vías fuera de servicio en las SK n.º 101, 101a, 100 y 100a, y una vía fuera de servicio de tensión en la SK n.º 101a (tras la aparición de la MU anterior), de conformidad con las normas internas del gestor de la vía SŽ. No obstante, utilizó de forma redundante la etiqueta de aviso en la SK n.º 100a, ya que en dicha SK estableció también, a través del JOP, una vía fuera de servicio, y por tanto no era necesario de este modo informar a la explotación de la prohibición de circular por esta vía.
-### El despachante de línea 114 CDP Praga (turnos de día) no utilizó ninguna ayuda mnemotécnica hasta la aparición de la MU en cuestión, a pesar de que fue informado (recibió la instrucción) por el despachante de explotación PD1 CDP Praga, como mínimo, de la prohibición de circular también por las SK n.º 103, 105, 107 y 109 de la est. de Kolín desde/hacia Velimi, y fue informado del flechado de la catenaria en la cabecera de Velimi de la est. de Kolín, es decir, en la cabecera de Velimi del 1.º circuito de la estación de viajeros.
-La constatación anterior no puede valorarse en relación causal con la aparición de la MU, porque la eventual vía fuera de servicio establecida a través del JOP, entre otras en la SK n.º 105 de la est. de Kolín, es decir, la ayuda mnemotécnica utilizada, en la situación dada se habría referido a la dirección desde/hacia Velimi, lo que, como se indica más adelante, prácticamente no habría tenido efecto sobre la actividad del despachante de línea 114 (turnos de día) al autorizar la entrada del tren Os 5002 en dirección desde Záboří n. L. en dicha SK y la salida del tren de vuelta Os 5005 en dirección hacia Záboří n. L. desde dicha SK.
-Al establecer un itinerario por una SK en la que se haya establecido una vía fuera de servicio a través del JOP, se impide su establecimiento, y con ello se evita el paso de un DV por dicho punto; no obstante, esta restricción puede superarse introduciendo la secuencia de confirmación correspondiente y pulsando a continuación la tecla «Enter». Así pues, aunque al despachante de línea 114 CDP Praga (turnos de día) se le hubiera impedido, con la vía fuera de servicio establecida a través del JOP en la SK n.º 105 de la est. de Kolín, establecer el itinerario de tren hacia dicha SK y en la pantalla del JOP se le hubiera mostrado también la etiqueta de vía fuera de servicio correspondiente, podría haber superado esta restricción introduciendo la secuencia de confirmación correspondiente y pulsando a continuación la tecla «Enter», porque disponía de la información (recibió la instrucción) de la prohibición de circular
-### por la SK n.º 105 de la est. de Kolín desde/hacia Velimi y no en la dirección desde/hacia Záboří n. L.
-
+En la normativa interna PNDOZ CDP se establece que: «En los puestos de trabajo de los despachadores de línea solo se permiten ayudas memorísticas que puedan configurarse desde el menú de los elementos individuales en JOP. … El propósito y la forma de su uso están determinados por el manual de operación de JOP.».
+En el documento Manual de operación de JOP, en la sección «9.3.8 Establecimiento, edición de texto, supresión de la vía bloqueada (VYL)», se indica que: «Se realiza de forma análoga y en condiciones similares a las descritas para el desvío (véase cap. 2).», mientras que en la sección «2.3.6 Establecimiento, edición y supresión de la vía bloqueada (VYL)» se indica que: «… Establecimiento, edición y supresión de la vía bloqueada con texto propio, que se introduce en la etiqueta de la vía bloqueada. Se utiliza en los casos en que el desvío no es transitable para los vehículos ferroviarios. … La vía bloqueada sirve en el caso en que sea necesario impedir el paso de un vehículo ferroviario por un determinado punto; esta restricción puede superarse mediante una secuencia de confirmación …».
+Asimismo, en el documento Manual de operación de JOP, en la sección «9.3.7 Establecimiento, edición y supresión de la vía bloqueada por tensión (NVL)», se indica que «… Establecimiento, edición y supresión de la vía bloqueada por tensión con texto propio, que se introduce en la etiqueta de la vía bloqueada. Se utiliza en los casos en que se produce la desconexión del suministro de energía de tracción a la catenaria.».
+En el mismo documento, en la sección «9.3.1 Establecimiento, edición, supresión de la etiqueta de aviso (STIT)», se indica que: «Se realiza de forma análoga y en condiciones similares a las descritas para el desvío (véase cap. 2).», mientras que en la sección «2.3.4 Establecimiento, edición y supresión de la etiqueta de aviso (STIT)» se indica que: «… Establecimiento, edición y supresión de la etiqueta de aviso con texto propio, que se introduce en la etiqueta. Se utiliza en los casos en que, al maniobrar un desvío o al establecer un itinerario a través de desvíos, sea necesario informar a la operación de algún hecho.».
+### El despachador de línea 114 CDP Praga (turnos nocturnos) estableció, por tanto, en las SK n.º 101, 101a, 100 y 100a, a través de JOP, vías bloqueadas y una vía bloqueada por tensión en la SK n.º 101a (tras la aparición de la MU anterior), de conformidad con las normativas internas del gestor de la vía SŽ. No obstante, utilizó de forma redundante la etiqueta de aviso en la SK n.º 100a, ya que en dicha SK estableció también, a través de JOP, una vía bloqueada, y por tanto no era necesario informar a la operación de esta manera de la prohibición de circular por dicha vía.
+### El despachador de línea 114 CDP Praga (turnos diurnos) no utilizó ninguna ayuda memorística hasta la aparición de la MU en cuestión, a pesar de que fue informado (recibió la instrucción) por el despachador operativo PD1 CDP Praga, como mínimo, de la prohibición de circular también por las SK n.º 103, 105, 107 y 109 de la est. Kolín en dirección a/desde Velimi, y fue informado del desplome de la TV en la cabecera de Velimi de la est. Kolín, es decir, en la cabecera de Velimi del circuito 1 de la estación de pasajeros.
+La constatación anterior no puede valorarse en relación causal con la aparición de la MU, porque la vía bloqueada eventualmente establecida a través de JOP, entre otras en la SK n.º 105 de la est. Kolín, es decir, la ayuda memorística utilizada, en la situación dada se habría referido a la dirección a/desde Velimi, lo que, como se indica más adelante, prácticamente no habría tenido efecto sobre la actividad del despachador de línea 114 (turnos diurnos) al autorizar la entrada del tren Os 5002 en dirección desde Záboří n. L. en dicha SK y la salida del tren de retorno Os 5005 en dirección hacia Záboří n. L. desde dicha SK.
+Al establecer un itinerario a través de una SK en la que se ha establecido una vía bloqueada a través de JOP, se impide su establecimiento, y con ello se evita el paso del DV por dicho punto; no obstante, esta restricción puede superarse introduciendo la secuencia de confirmación correspondiente y pulsando a continuación la tecla «Enter». Así, aunque al despachador de línea 114 CDP Praga (turnos diurnos) se le hubiera impedido, con la vía bloqueada establecida a través de JOP en la SK n.º 105 de la est. Kolín, establecer el itinerario hacia dicha SK y en la pantalla de JOP se le hubiera mostrado también la etiqueta de vía bloqueada correspondiente, podría haber superado esta restricción introduciendo la secuencia de confirmación correspondiente y pulsando a continuación la tecla «Enter», porque tenía la información (recibió la instrucción) de la prohibición de circular
+### por la SK n.º 105 de la est. Kolín en dirección a/desde Velimi, y no en dirección a/desde Záboří n. L.
 
 ## Página 62
+
 
 ### Constatación:
 En la investigación se constató una infracción de la normativa legal y de las normas internas relativas a las funciones y obligaciones del gestor de la vía SŽ, al margen de la relación causal con la aparición de la MU:
@@ -2121,22 +2119,62 @@ art. 27.1 de la norma interna PNDOZ CDP:
 El maquinista, al conducir un tren (DV), en el sentido de la normativa legal y de las disposiciones pertinentes de las normas internas del gestor de la vía SŽ y del transportista ČD, está obligado, entre otros, a conducir el DV únicamente desde la posición desde la que exista la mejor visibilidad, por lo general desde la cabina delantera del maquinista en el sentido de la marcha, a observar desde la cabina de mando del DV la vía y las señales y, en las líneas electrificadas, también la catenaria, y a actuar según los hechos constatados. Si el maquinista observa cualquier avería o defecto en la catenaria, lo comunicará al jefe de estación lo antes posible. Si detecta cualquier daño en el colector o en la catenaria, o sospecha que se ha producido dicho daño (p. ej., destellos, oscilación de la catenaria, flechado de los conductores), debe bajar los colectores y detener el tren, o en su caso permanecer detenido con el tren. Una vez detenido, el maquinista comprobará el estado de los colectores y de la catenaria en la distancia visible desde el HDV y comunicará al jefe de estación los hechos constatados, incluida la posible influencia en la practicabilidad de la línea. Durante la marcha no debe superar la velocidad máxima permitida establecida en el horario, la velocidad reducida ordenada o la velocidad anunciada por la señal principal (esta se determina como el valor más bajo de la velocidad permitida establecida por las señales). En el caso de que la señal principal anuncie la señal «Velocidad 40 km/h y vía libre», y dicha señal esté marcada, entre otros, con un indicador con el número 5, al anunciarse una velocidad de 40 km·h-1 se permite al maquinista del tren circular por el área de desvíos adyacente a la señal principal a una velocidad máxima de 50 km·h-1. El maquinista está además obligado, durante la explotación del transporte ferroviario, a ceñirse a las instrucciones del gestor de la vía impartidas durante la organización del transporte ferroviario y tiene responsabilidad sobre todas las medidas de tráfico derivadas de la circulación del tren y del contacto con los empleados que dirigen y organizan el transporte ferroviario. El maquinista está también obligado, al conducir un tren (DV), a detener el tren con el vehículo de tracción eléctrica si durante la marcha detecta una caída de tensión en la catenaria, y si no es evidente en el lugar la causa de la caída de tensión, a ponerse en contacto con la persona que dirige el transporte ferroviario.
 El maquinista del tren Os 5005 (Os 5002), durante la circulación en la est. de Kolín, actuó según las instrucciones del gestor de la vía SŽ dadas mediante señales, respectivamente la instrucción dada mediante el dispositivo de telecomunicaciones para la entrada del tren Os 5002, sin que el gestor de la vía le informara de ninguna incidencia relativa a la circulación de los mencionados trenes en la est. de Kolín. Tampoco se colocaron señales portátiles para explotación eléctrica en relación con el suministro cortado (desconectado) de la catenaria sobre la SK n.º 1d (desde la división mecánica/eléctrica ÚO 431 delimitada por los TP n.º 113 y 115), parte de la cabecera central del 1.º circuito de la estación de clasificación (tras los separadores de sección n.º 54 y 53), SK n.º 100, 100a, 101, 101a, parte de la cabecera de Velimi del 1.º circuito
 
-
 ## Página 63
 
-de la estación de viajeros (desde los separadores de sección n.º 68 y 69), y SK n.º 101b (tras la división mecánica/eléctrica ÚO 451).
-La circulación del tren Os 5002 la condujo desde la cabina del maquinista del coche-cabecera 441.012-2, es decir, desde la posición desde la que tenía la mejor visibilidad. El corte del interruptor principal de la unidad eléctrica de la serie 440/441, sin la posterior bajada de los colectores (el colector permaneció levantado durante la continuación de la marcha), que se produjo durante la circulación del tren Os 5002 por la SK n.º 1d inmediatamente antes del campo de transición (del cambio de tramos anclaje) de la catenaria en la división mecánica/eléctrica ÚO 431, el maquinista, atendiendo a la indicación del bloqueo de los convertidores de tracción y a la posterior pérdida de la indicación de tensión en la catenaria tras el paso por dicho cambio de tramos anclaje, que duró 18 s, no la consideró una caída de tensión en la catenaria, sino una situación anómala por parte del DV, que desapareció tras el paso de la pletina del colector del coche-cabecera trasero 440.012-3 por el separador de sección n.º 54. Tras la detención del tren Os 5002 en la SK n.º 105, cuya catenaria estaba alimentada, el maquinista, mediante la manipulación de los elementos de mando, puso la unidad eléctrica en estado de servicio y se trasladó a la cabina del maquinista del coche-cabecera 440.012-3.
-Con la salida del tren Os 5005, al pasar la pletina del colector del coche-cabecera que conducía por el separador de sección n.º 54, se produjo el corte del interruptor principal y 1 s después se inició la bajada de los colectores. 12 s después, cuando la unidad eléctrica se encontraba en la SK n.º 1d en el punto con el suministro cortado (desconectado) de la catenaria, el maquinista ordenó el levantamiento de los colectores. El contacto de la pletina del colector con la catenaria se produjo, en efecto, en el campo de transición de la división mecánica/eléctrica ÚO 431, pero en el punto en que la pletina del colector levantado del coche-cabecera 441.012-3 entró en contacto con el conductor de catenaria derecho del conjunto de catenaria alimentado. A continuación, el maquinista encendió el interruptor principal y continuó la marcha, sin considerar tampoco esta situación una caída de tensión en la catenaria.
-En la investigación no se constató infracción de las funciones y obligaciones del transportista ČD.
-### 4.1.2 Entidades responsables del mantenimiento de los vehículos ferroviarios
-En la investigación no se constató infracción de las funciones y obligaciones de las entidades responsables del mantenimiento de los DV.
-### 4.1.3 Fabricantes de vehículos ferroviarios u otros proveedores de instalaciones ferroviarias
-En la investigación no se constató infracción de las funciones y obligaciones de los fabricantes de DV u otros proveedores de productos ferroviarios.
+de la estación de viajeros (desde los divisores de sección n.º 68 y 69), y SK n.º 101b (tras
+la división mecánica/eléctrica ÚO 451), situada.
+El tren Os 5002 fue conducido por el maquinista desde la cabina de conducción de la
+cabeza motriz 441.012-2, es decir, desde el puesto desde el que tenía la mejor visibilidad.
+La desconexión del interruptor principal de la unidad eléctrica de la serie 440/441, sin la
+posterior bajada del pantógrafo (el pantógrafo permaneció levantado durante el resto de
+la marcha), que se produjo durante la marcha del tren Os 5002 por la SK n.º 1d
+inmediatamente antes del campo de conmutación (conmutación de los tramos de anclaje)
+TV en la división mecánica/eléctrica ÚO 431, el maquinista, atendiendo a la indicación de
+bloqueo de los inversores de tracción y a la posterior pérdida de la indicación de tensión
+en la TV tras el paso por dicha conmutación de tramos de anclaje que duró 18 s, no la
+consideró una caída de tensión en la TV, sino una situación anormal en el lado DV, que
+desapareció tras el paso de la regleta del pantógrafo de la cabeza motriz trasera
+440.012-3 por el divisor de sección n.º 54. Tras la detención del tren Os 5002 en la
+SK n.º 105, cuya TV estaba alimentada, el maquinista, manipulando los elementos de
+mando, puso la unidad eléctrica en estado de servicio y se trasladó a la cabina de
+conducción de la cabeza motriz 440.012-3.
+Con la salida del tren Os 5005, al pasar la regleta del pantógrafo de la cabeza motriz
+que conducía por el divisor de sección n.º 54, se produjo la desconexión del interruptor
+principal y 1 s después comenzó la bajada del pantógrafo. 12 s después, cuando la unidad
+eléctrica se encontraba en la SK n.º 1d en el punto con la alimentación de la TV
+desconectada (separada), el maquinista ordenó el levantamiento del pantógrafo. El
+contacto de la regleta del pantógrafo con la TV se produjo, si bien, en el campo de
+conmutación de la división mecánica/eléctrica ÚO 431, pero en el punto donde la regleta
+del pantógrafo levantado de la cabeza motriz 441.012-3 entró en contacto con el hilo de
+catenaria derecho del conjunto TV alimentado. A continuación, el maquinista conectó el
+interruptor principal y continuó con la marcha, sin considerar tampoco esta situación
+una caída de tensión en la TV.
+En la investigación no se constató el incumplimiento de las funciones y obligaciones del
+transportista ČD.
+### 4.1.2 Entidades responsables del mantenimiento del material rodante
+En la investigación no se constató el incumplimiento de las funciones y obligaciones de
+las entidades responsables del mantenimiento del DV.
+### 4.1.3 Fabricantes de material rodante u otros proveedores de instalaciones ferroviarias
+En la investigación no se constató el incumplimiento de las funciones y obligaciones de
+los fabricantes de DV u otros proveedores de productos ferroviarios.
 ### 4.1.4 Autoridades nacionales de seguridad y Agencia Ferroviaria de la Unión Europea
-La autoridad nacional de seguridad es el DÚ, que de acuerdo con la Ley n.º 266/1994 Sb. es una autoridad administrativa dependiente del Ministerio de Transportes. Su función es, en particular, el ejercicio de la supervisión estatal en materia de ferrocarriles y en materia de la autoridad de obra pública, el ejercicio de la autoridad de obra pública especial para las obras de la vía y las obras en la vía, la aprobación de nuevos y modernizados vehículos ferroviarios y de instalaciones técnicas designadas, y la tramitación de infracciones. El DÚ tiene la obligación de comunicar, en el plazo de 12 meses desde la fecha de publicación del informe final que contenga las recomendaciones de seguridad dirigidas a él, al DI qué medida ha adoptado en relación con dicha recomendación de seguridad, comunicándolo de forma periódica, al menos una vez al año, hasta la adopción de las medidas correspondientes.
-La función de la Agencia Ferroviaria de la Unión Europea es, además de garantizar, en el marco de sus competencias, que se mantenga generalmente y se aumente, en la medida de lo posible de forma sistemática, la seguridad
+La autoridad nacional de seguridad es el DÚ, que de acuerdo con la ley n.º 266/1994 Sb.
+es una autoridad administrativa dependiente del Ministerio de Transportes. Su función es,
+en particular, el ejercicio de la supervisión estatal en materia de ferrocarriles y en materia
+de la autoridad de construcción, el ejercicio de la autoridad de construcción especial para
+las obras ferroviarias y las obras en el ferrocarril, la aprobación de material rodante
+nuevo y modernizado y de instalaciones técnicas designadas, y la tramitación de
+infracciones. La obligación del DÚ es comunicar al DI, en el plazo de 12 meses a partir de
+la fecha de publicación del informe final que contenga las recomendaciones de seguridad
+dirigidas a él, qué medida ha adoptado en relación con dicha recomendación de seguridad;
+esta comunicación se realiza de forma regular, al menos una vez al año, hasta la adopción
+de las medidas correspondientes.
+La función de la Agencia Ferroviaria de la Unión Europea es, además de garantizar, en el
+marco de sus competencias, que se mantenga generalmente y, si es posible, se aumente de
+forma sistemática la seguridad
 
 ## Página 64
+
 
 de ferrocarriles, además, entre otros, la emisión, renovación, suspensión y modificación de certificados únicos de seguridad, la limitación de su validez o su anulación, en cuestión en la que coopera con las autoridades de seguridad nacionales; además, emite autorizaciones para la puesta en servicio de vehículos ferroviarios y de tipos de vehículos en el mercado y está facultada para renovar, modificar, suspender o anular las autorizaciones que haya emitido. La Agencia evalúa además los proyectos de normativa nacional, etc.
 En la investigación no se constató el incumplimiento de las funciones y obligaciones de la autoridad nacional de seguridad y de la Agencia Ferroviaria de la Unión Europea.
@@ -2156,8 +2194,8 @@ En la investigación no se identificaron factores relacionados con los fabricant
 ### 4.2.4 Factores o consecuencias derivados del mantenimiento y de la modificación de vehículos ferroviarios o de instalaciones técnicas
 En la investigación no se identificaron factores derivados del mantenimiento y de la modificación de VF o de instalaciones técnicas.
 
-
 ## Página 65
+
 
 ### 4.2.5 Factores o consecuencias relacionados con el organismo responsable del mantenimiento de vehículos ferroviarios, los talleres de mantenimiento y otros prestadores de servicios de mantenimiento
 En la investigación no se identificaron factores relacionados con el organismo responsable del mantenimiento de VF, los talleres de mantenimiento y otros prestadores de servicios de mantenimiento.
@@ -2174,8 +2212,8 @@ Respecto al jefe de trabajos de SEE Praga y al electrotécnico de SEE Praga no f
 El despachador de línea 114 CDP Praga (turnos diurnos), el despachador de explotación PD1 CDP Praga y el electrodespachador independiente ED3 SEE Praga declararon de forma coincidente que durante el turno, y hasta el momento de la ocurrencia del SU objeto de estudio, no se vieron alterados por nadie ni por nada. El despachador de línea 114 CDP Praga (turnos diurnos) y el despachador de explotación PD1 CDP Praga añadieron que su estado de salud en el momento de la ocurrencia del SU objeto de estudio era bueno, su situación personal no presentaba problemas y, en general, no había estrés.
 Aun así, a partir de la documentación disponible puede afirmarse que estas personas estuvieron sometidas a una carga elevada tras la ocurrencia del SU anterior, puesto que, por una parte, en relación con el SU anterior, tuvieron que garantizar la seguridad, delimitar y eliminar dicha avería, y, por otra, tuvieron que resolver la situación de tráfico vigente en la estación de Kolín y en los tramos de línea adyacentes, todo ello durante la hora punta de tráfico matutino. No obstante, incluso así, puede
 
-
 ## Página 66
+
 
 evaluarse que la influencia de la situación personal y del estrés físico y psicológico en la ocurrencia del SU objeto de estudio no fue constatada en la investigación, siendo evidente que el electrodespachador independiente ED3 SEE Praga, el jefe de trabajos de SEE Praga, el electrotécnico de SEE Praga, el despachador de explotación PD1 CDP Praga y el despachador de línea 114 CDP Praga (turnos diurnos) no actuaron con la intención de provocar el SU. Su conducta estuvo influenciada por errores inconscientes (equivocaciones) en relación con el incumplimiento impreciso (inexacto) de la normativa legal y de las normas internas de la empresa explotadora de la infraestructura.
 En la investigación no se identificaron factores relacionados con la formación profesional de las personas implicadas, con su estado de salud ni con su situación personal.
@@ -2188,8 +2226,8 @@ Por ello, es importante una comunicación eficaz, en la que se produzca el inter
 La suma de todas las influencias que afectan negativamente a la comunicación puede denominarse ruido comunicativo, al que pertenecen, por ejemplo, distintos ruidos del entorno (interferencia física externa del proceso comunicativo), pero también, por ejemplo, los defectos auditivos y de pronunciación de las personas correspondientes (factores fisiológicos que interfieren en el proceso comunicativo), la anticipación de los pensamientos de otras personas (factores psicológicos que interfieren en el proceso comunicativo), los significados de la comunicación verbal comprendidos de forma distinta (factores lingüísticos que interfieren en el proceso comunicativo), el uso de jerga, de terminología compleja o de conceptos abstractos que el interlocutor comunicativo no comprenda correctamente, etc.
 Por estas razones, en la comunicación es importante la retroalimentación, es decir, la provisión de información sobre la calidad y la forma de la información recibida, ya que algunas distorsiones e incompletudes de la información pueden provocar situaciones peligrosas que no son deseadas. En el ámbito de los procedimientos
 
-
 ## Página 67
+
 
 tecnológicos relativos a la cuestión de la dirección y la organización del tráfico ferroviario, puede observarse que el principio de la retroalimentación está incorporado en ellos en distintos niveles. De forma estándar, la retroalimentación tiene el carácter de una repetición completa de la instrucción dada y de su confirmación. En determinadas situaciones, adicionalmente, tiene el carácter de comprobación de la orden ejecutada.
 En el punto 4.1.1 de la presente ZZ se describió detalladamente la comunicación entre el electrodespachador independiente ED3 SEE Praga, el despachador de explotación PD1 CDP Praga y el despachador de línea 114 CDP Praga (turnos nocturnos), respectivamente el despachador de línea 114 CDP Praga (turnos diurnos), y en qué partes se produjeron errores, es decir, ruido comunicativo. En el caso concreto, durante el proceso comunicativo se produjo principalmente:
@@ -2206,6 +2244,7 @@ Dada la gravedad y la importancia de las instrucciones del electrodespachador in
 Esta conclusión corresponde también a los conocimientos resumidos en la literatura especializada dedicada a la psicología del transporte, cuando, por ejemplo, en el libro Psychologie v dopravé, en las páginas n.º 22
 
 ## Página 68
+
 
 a 23 se indica: «… Si se pretende aumentar la fiabilidad de la actividad de los despachadores y, con ello, la de todo el sistema, es necesario: …
 – optimizar el grado de redundancia de la información de modo que se garantice en medida suficiente la fiabilidad de la recepción de información y el despachador no quede, al mismo tiempo, sobrecargado con información irrelevante,
@@ -2227,26 +2266,25 @@ El sistema de gestión de los sujetos responsables del mantenimiento de los DV y
 #### 4.4.5 Resultados de la supervisión realizada por las autoridades nacionales de seguridad
 Atendiendo a los factores detectados y a las circunstancias de la aparición de la MU, la supervisión de la autoridad de seguridad no guarda relación con la MU en cuestión.
 
-
 ## Página 69
 
-#### 4.4.6 Aprobaciones, certificados y dictámenes de evaluación emitidos por la agencia, las autoridades nacionales de seguridad u otros sujetos de evaluación de la conformidad
-El gestor de infraestructura explotaba la infraestructura en virtud de una autorización administrativa vigente y de un certificado de seguridad del gestor de infraestructura. El transportista explotaba el transporte ferroviario en virtud de una licencia vigente y de un certificado del transportista.
-#### 4.4.7 Otros factores sistémicos
-En la investigación no se detectaron otros factores sistémicos.
+### 4.4.6 Aprobaciones, certificados e informes de evaluación concedidos por la Agencia, las autoridades de seguridad nacionales u otros organismos de evaluación de la conformidad
+El gestor de la infraestructura ferroviaria explotó la infraestructura ferroviaria al amparo de la autorización administrativa vigente y del certificado de seguridad del gestor de la infraestructura ferroviaria. El transportista explotó el transporte ferroviario al amparo de la licencia vigente y del certificado del transportista.
+### 4.4.7 Otros factores sistémicos
+En el curso de la investigación no se detectaron otros factores sistémicos.
 ### 4.5 Sucesos anteriores de naturaleza similar
-No consta ningún DI similar a la MU en la que, con motivo de trabajos en instalaciones en una vía de circulación ferroviaria en explotación, se produjera un perjuicio para la salud de una persona a la que le alcanzara la corriente eléctrica (descarga eléctrica) debido a la derivación de corriente eléctrica desde un tramo de TV bajo tensión hacia un tramo de TV desenergizado (desconectado) en el que en ese momento se estuvieran realizando trabajos en instalaciones.
+No consta registrada ninguna DI similar a la MU, en la que, con motivo de la realización de trabajos en instalaciones en una vía de circulación ferroviaria en explotación, se produjera un perjuicio para la salud de una persona que resultara afectada por una corriente eléctrica (descarga eléctrica) debido a la derivación de corriente eléctrica desde un tramo de TV bajo tensión hacia un tramo de TV desenergizado (desconectado).
 ## 5 CONCLUSIONES
 ### 5.1 Resumen del análisis y conclusiones relativas a las causas del suceso
-La causa inmediata del suceso extraordinario fue:
+La causa inmediata del suceso ferroviario fue:
 •
-la circulación del vehículo ferroviario del tren Os 5005 con el colector de corriente elevado a través del separador de tramo n.º 54 en la estación de ferrocarril de Kolín, y la consiguiente interconexión del tramo de la catenaria bajo tensión con el tramo de la catenaria desenergizado, en el que en ese momento se estaban realizando trabajos en instalaciones –en la catenaria (reparación del hilo de contacto dañado sobre la vía de estación n.º 101a)–, originada por una cadena de fallos, en la que:
-◦el responsable de trabajos de la Administración de electrotecnia y energía de Praga inició los trabajos en instalaciones –en la catenaria– sobre la vía de estación n.º 101a de la estación de ferrocarril de Kolín, sin comunicar desde el puesto de trabajo requerido al despachador de línea 114 del Puesto central de despacho de Praga la solicitud de trabajo en instalaciones ni acordar con él las condiciones del trabajo en instalaciones,
-◦el electrodespachador independiente ED3 de la Administración de electrotecnia y energía de Praga no informó directamente al despachador de línea 114 del Puesto central de despacho de Praga, mediante una instrucción de prohibición de circulación de vehículos ferroviarios por las vías de estación n.º 100, 101, 101a y también desde las vías de estación 103 a 109 de la estación de ferrocarril de Kolín, sino a través de un intermediario –el despachador de explotación PD1 del Puesto central de despacho de Praga–, quien, al recibir la instrucción que no podía ejecutar ni cumplir, no formuló ninguna objeción, lo que tuvo como consecuencia la tergiversación de la instrucción dada,
-◦el electrodespachador independiente ED3 de la Administración de electrotecnia y energía de Praga no dio al despachador de línea 114 del Puesto central de despacho de Praga (ni siquiera a través de un intermediario) la instrucción de prohibición de circulación del vehículo ferroviario eléctrico de tracción con el colector de corriente elevado por la vía de estación n.º 1d y la parte adyacente de la cabecera central del 1.º circuito de la estación de clasificación de la estación de ferrocarril de Kolín, cuya catenaria estaba eléctricamente conectada con la catenaria en el lugar de los trabajos en instalaciones –en la catenaria– sobre la vía de estación n.º 101a;
-
+la circulación del vehículo ferroviario del tren Os 5005 con el pantógrafo levantado a través del seccionador n.º 54 en la estación de ferrocarril de Kolín, y la consiguiente interconexión del tramo de la catenaria bajo tensión con el tramo de la catenaria desenergizado, en el que en ese momento se estaban realizando trabajos en instalaciones –en la catenaria (reparación del hilo de contacto dañado sobre la vía de estación n.º 101a)–, originada por una cadena de anomalías, cuando:
+◦el responsable de trabajos de la Dirección de Ingeniería Eléctrica y Energética de Praga inició los trabajos en instalaciones –en la catenaria sobre la vía de estación n.º 101a de la estación de ferrocarril de Kolín– sin haber comunicado, desde el puesto de trabajo requerido, al despachador de línea 114 del Puesto Central de Despacho de Praga la solicitud de trabajo en instalaciones y acordado con él las condiciones del trabajo en instalaciones,
+◦el electrodespachador independiente ED3 de la Dirección de Ingeniería Eléctrica y Energética de Praga no notificó directamente al despachador de línea 114 del Puesto Central de Despacho de Praga, mediante una orden de prohibición de circulación de vehículos ferroviarios por las vías de estación n.º 100, 101, 101a y también por las vías de estación 103 a 109 de la estación de ferrocarril de Kolín, sino a través de un intermediario –el despachador de explotación PD1 del Puesto Central de Despacho de Praga–, el cual, al recibir la orden que no podía ejecutar ni cumplir, no formuló ninguna objeción, lo que tuvo como consecuencia la distorsión de dicha orden,
+◦el electrodespachador independiente ED3 de la Dirección de Ingeniería Eléctrica y Energética de Praga no dio al despachador de línea 114 del Puesto Central de Despacho de Praga una orden (ni siquiera a través de un intermediario) de prohibición de circulación del vehículo ferroviario eléctrico de tracción con el pantógrafo levantado por la vía de estación n.º 1d y la parte adyacente de la cabeza de maniobras 1.º circuito de la estación de clasificación de la estación de ferrocarril de Kolín, cuya catenaria estaba eléctricamente conectada con la catenaria en el lugar de los trabajos en instalaciones –en la catenaria sobre la vía de estación n.º 101a–;
 
 ## Página 70
+
 
 •
 la incorrecta puesta a tierra de la catenaria en el lugar de los trabajos en instalaciones –en la catenaria (reparación del hilo de contacto dañado sobre la vía de estación n.º 101a de la estación de ferrocarril de Kolín)–.
@@ -2290,8 +2328,8 @@ El gestor de infraestructura SŽ adoptó, con fecha de emisión de la presente Z
 •
 informar a todos los empleados directivos de la Dirección Regional de Praga, a los empleados directivos de explotación, a los empleados de los organismos SEE, VPS y a los electrodespachadores ED de Praga sobre la causa, las circunstancias de la aparición y la responsabilidad por la aparición de la MU en cuestión, debiendo el jefe de SEE de Praga emitir para la MU en cuestión una hoja informativa en la que los empleados de SEE de Praga sean informados de la causa y las circunstancias de la aparición de la MU en cuestión;
 
-
 ## Página 71
+
 
 •
 informar a los empleados del Puesto central de despacho de Praga que desempeñan actividad de control en las salas de despacho, en el marco de un seminario periódico, sobre la correspondiente «Evaluación de las causas y circunstancias de la aparición del suceso extraordinario»;
@@ -2334,6 +2372,7 @@ el despachador de línea 114 del Puesto central de despacho de Praga (turnos diu
 
 ## Página 72
 
+
 ### Observaciones adicionales
 En el gestor de infraestructura SŽ:
 •
@@ -2370,18 +2409,16 @@ inspector
 de la Inspección Territorial de Ostrava
 de la Inspección Territorial de Ostrava
 
-
 ## Página 73
+
 
 ## PŘÍLOHY
 
 Fig. núm. 4: Vista de la cubierta del HDV 163.244-7 y del gato de trinquete montado en el TV con la cadena colgando libremente y tocando el patín del colector del HDV tras la ocurrencia del SU mencionado
 Fuente: SŽ
 
-
 ## Página 74
 
-### Zkratovací
-souprava
-Fig. núm. 5: Vista de la cubierta del HDV 163.244-7 y del TV antes de la ocurrencia del SU mencionado, cuando el equipo de cortocircuito colocado delante del puesto de trabajo por el lado de Záboří n. L. en el campo de cambio de la división mecánica/eléctrica ÚO 441 estaba conectado al hilo de catenaria izquierdo anclado a los TP núm. 143 y 163 (en el recorte se muestra una ampliación de su ubicación)
-Fuente: SŽ
+### Equipo de cortocircuito
+Obr. č. 5: Vista de la cubierta del HDV 163.244-7 y de la TV antes de la aparición de la MU en cuestión, cuando el equipo de cortocircuito situado delante del puesto de trabajo por el lado de Záboří n. L. en el campo de conmutación de la división mecánica/eléctrica de la ÚO 441 estaba conectado al hilo de catenaria izquierdo anclado a los TP n.º 143 y 163 (en el recorte se muestra una ampliación de su ubicación)    
+    Fuente: SŽ

@@ -10,13 +10,14 @@ chars: 137593
 ratio_longitud: 1.26
 tokens_in: 70603
 tokens_out: 49291
-verificacion: revisar
-notas_cifras: ["bloque 4: original bilingüe: se compara contra el idioma principal (CS); cifras largas: 1/77", "bloque 5: cifras cortas: 3/169", "bloque 8: cifras cortas: 14/150", "bloque 10: original bilingüe: se compara contra el idioma principal (EN)", "bloque 11: original bilingüe: se compara contra el idioma principal (PT)"]
-avisos: ["bloque 10: ratio 1.79", "bloque 11: ratio 2.00"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (PT)", "página 3: original bilingüe: se compara contra el idioma principal (CS)", "página 7: original bilingüe: se compara contra el idioma principal (CS)", "página 8: original bilingüe: se compara contra el idioma principal (CS)", "página 10: original bilingüe: se compara contra el idioma principal (CS)", "página 11: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -41,13 +42,13 @@ IČ: 75009561
 mail@dicr.cz
 tel.: +420 736 521 003
 
-
 ## Página 2
+
 
 Este informe final es público y todos los hechos en él expuestos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ## 1 RESUMEN
 Fuente: Drážní inspekce
@@ -74,8 +75,8 @@ y no se comprobó si podía cruzar el paso a nivel de forma segura.
 No fue detectado por la Drážní inspekce ningún factor contribuyente.
 No fue detectada por la Drážní inspekce ninguna causa sistémica.
 
-
 ## Página 4
+
 
 Recomendaciones de seguridad:
 La Drážní inspekce, con base en lo dispuesto en el § 53e apartado 1 de la ley n.º 266/1994 Sb.,
@@ -110,10 +111,10 @@ nivel con barreras» sea obligatoria, con excepción de las vías de servicio, p
 admitirse una excepción en casos justificados siempre que se cumpla la condición de
 garantizar la visibilidad de las señales de tráfico A 32 «Cruz de advertencia para
 paso a nivel» fuera de la localidad al menos desde una distancia de 100 m y en la
-localidad al menos 50 m. 
-
+localidad al menos 50 m.
 
 ## Página 5
+
 
 ## SUMMARY
 28th May 2023, 17:46 (15:46 GMT).
@@ -168,8 +169,8 @@ to ensure that the existing traffic signing A 31c „Signal board (80 m)” and 
 conditions of TP 169 Principles for marking traffic situations on roads and TP 65
 Principles for road markings on roads.
 
-
 ## Página 6
+
 
 Addressed to the Czech Ministry of Transport:
 •
@@ -180,8 +181,8 @@ justified cases may be allowed an exception upon fulfillment of the condition to
 ensure visibility of traffic signs A 32 „Warning cross for level crossing" outside the
 village at least from a distance of 100 m, in the village at least 50 m.
 
-
 ## Página 7
+
 
 # Índice
 1 RESUMEN........................................................................................................................3
@@ -241,6 +242,7 @@ ferroviarios, de la infraestructura ferroviaria o de las instalaciones técnicas
 
 ## Página 8
 
+
 4.2.2 Factores o consecuencias derivados de la instalación y puesta en servicio de vehículos ferroviarios, infraestructura ferroviaria o instalaciones técnicas.....................................41
 4.2.3 Factores o consecuencias relacionados con fabricantes de vehículos ferroviarios u otro proveedor de productos ferroviarios...........................................................................41
 4.2.4 Factores o consecuencias derivados del mantenimiento y modificación de vehículos ferroviarios o instalaciones técnicas..................................................................................................41
@@ -269,8 +271,8 @@ ferroviarios, de la infraestructura ferroviaria o de las instalaciones técnicas
 6 RECOMENDACIONES DE SEGURIDAD...................................................................................45
 ANEXOS............................................................................................................................48
 
-
 ## Página 9
+
 
 ### Lista de siglas y símbolos utilizados
 ARR
@@ -352,8 +354,8 @@ paso a nivel
 žst.
 estación de ferrocarril
 
-
 ## Página 10
+
 
 ### Lista de siglas de la legislación, normas y normativa interna utilizadas
 ley núm. 266/1994 Sb.
@@ -383,34 +385,33 @@ condiciones técnicas TP 65 «Principios para la señalización de tráfico en v
 normativa SŽ S4/4
 normativa interna del gestor de la infraestructura SŽ, «SŽ S4/4 Pasos a nivel ferroviarios», en la redacción vigente en el momento de la ocurrencia del SU
 
-
 ## Página 11
 
-## 2 INVESTIGACIÓN Y SU CONTEXTO
+## 2 INVESTIGACIÓN Y SUS RELACIONES
 ### 2.1 Decisión de iniciar la investigación
-DI decidió iniciar la investigación del SU en cuestión el 28. 5. 2023.
+La DI decidió iniciar la investigación de la MU en cuestión el 28. 5. 2023.
 ### 2.2 Fundamentación de la decisión de iniciar la investigación
-DI decidió investigar el SU en cuestión sobre la base de su gravedad, recurrencia y del impacto del suceso extraordinario en la explotación segura de la infraestructura y del transporte ferroviario.
+La DI decidió investigar la MU en cuestión sobre la base de su gravedad, repetitividad y de los impactos del suceso excepcional en la explotación segura de la vía y del transporte ferroviario.
 ### 2.3 Alcance y limitaciones de la investigación, incluida la fundamentación correspondiente
-DI no se encontró, en el marco de la investigación del SU en cuestión, con limitaciones que influyeran negativamente en el método y los procedimientos de la investigación.
+La DI no se encontró, en el marco de la investigación de la MU en cuestión, con limitaciones que influyeran negativamente en el modo y los procedimientos de la investigación.
 ### 2.4 Descripción resumida de las capacidades y funciones técnicas del equipo de investigación
-Investigación de DI en el lugar del SU:
-2x inspector del ÚI Čechy, oficina de Praga.
+Investigación de la DI en el lugar de la MU:
+2x inspector de la ÚI Čechy, centro de trabajo Praga.
 Constitución del equipo de investigación:
 no fue necesario constituirlo.
-Se utilizó colaboración externa: de PČR «Dictamen pericial del ámbito de la salud, rama de la toxicología», elaborado por perito judicial del ámbito de la salud, rama de la toxicología y criminalística;
-de PČR «Dictamen pericial», elaborado por perito judicial del ámbito de la ingeniería mecánica, rama de ingeniería mecánica general, especialidad de evaluación del estado técnico de vehículos, sobre el estado técnico del OA;
-con ČVUT, con el que se consultó la cuestión de la transitabilidad de SMV de distintas categorías por el paso a nivel P3277.
+Se utilizó colaboración externa: de la PČR «Dictamen pericial del ámbito de la salud, rama de la toxicología», elaborado por perito judicial del ámbito de la salud, rama de la toxicología y criminalística;
+de la PČR «Dictamen pericial», elaborado por perito judicial del ámbito de la ingeniería mecánica, rama de la ingeniería mecánica general, especialidad de evaluación del estado técnico de los vehículos, sobre el estado técnico del OA;
+con la ČVUT, con la que se consultó la cuestión de la circulabilidad de las SMV de distintas categorías a través del P3277.
 2.5 Comunicación y consultas durante la investigación con las personas o entidades que participaron en el suceso
-En la investigación de las causas y circunstancias de la ocurrencia del SU, DI se basó principalmente en sus propios conocimientos, hallazgos y en su propia documentación fotográfica. Durante la investigación, DI solicitó la documentación necesaria al gestor de la infraestructura, al operador ferroviario, a PČR, a ČVUT y a la Oficina Municipal de Rumburk.
-La investigación de las causas y circunstancias de la ocurrencia del SU se realizó de acuerdo con la ley núm. 266/1994 Sb. y el decreto núm. 376/2006 Sb.
-### 2.6 Descripción del nivel de colaboración ofrecido por las entidades implicadas
-El nivel de colaboración con los representantes de las entidades implicadas en el SU fue estándar.
-### 2.7 Descripción de la investigación, los métodos y las técnicas utilizados para acreditar los hechos y los hallazgos recogidos en el informe
-En el marco de la investigación del SU, DI procedió de la siguiente manera, es decir, utilizó, entre otros, los siguientes métodos y técnicas:
-
+En la investigación de las causas y circunstancias del origen de la MU, la DI se basó principalmente en sus propios conocimientos, hallazgos y en su propia documentación fotográfica. Durante la investigación, la DI solicitó la documentación necesaria al explotador de la vía, al transportista, a la PČR, a la ČVUT y a la Oficina Municipal de Rumburk.
+La investigación de las causas y circunstancias del origen de la MU se realizó de conformidad con la ley nº 266/1994 Sb. y con la ordenanza nº 376/2006 Sb.
+### 2.6 Descripción del nivel de colaboración ofrecido por las entidades participantes
+El nivel de colaboración con los representantes de las entidades participantes en la MU fue estándar.
+### 2.7 Descripción de la investigación, los métodos y las técnicas utilizados para acreditar los hechos y los hallazgos expuestos en el informe
+En el marco de la investigación de la MU, la DI procedió de la siguiente manera, y utilizó, entre otros, los siguientes métodos y técnicas:
 
 ## Página 12
+
 
 •
 inspección del lugar del suceso extraordinario, incluido el vehículo ferroviario implicado, el vehículo por carretera, las instalaciones técnicas y la infraestructura ferroviaria;
@@ -456,6 +457,7 @@ accidente.
 
 ## Página 13
 
+
 ### 3.1.2 Fecha, hora exacta y lugar del suceso
 Fecha:
 28. 5. 2023.
@@ -480,8 +482,8 @@ Fig. n.º 1: Esquema del lugar de origen del SU en el PNP P3277
 Fig. n.º 2: Vista del PNP P3277 en el sentido de circulación de la 1.ª y 2.ª OA desde el centro de Rumburk
         Fuente: DI
 
-
 ## Página 14
+
 
 Desde el centro de Rumburk se aproximaba al PNP P3277 con AVP un grupo de dos OA, cuando la 1.ª OA cruzó el PNP y la 2.ª OA se detuvo en el espacio del PNP, a continuación se produjo la colisión con el tren en circulación Os 6660 que circulaba desde la est. Krásná Lípa hacia la est. Rumburk.
 ### Del examen del lugar del SU se constató:
@@ -511,82 +513,79 @@ En el Registro de averías de los dispositivos de comunicación y protección en
 •
 En ambos Registros de averías de los dispositivos de comunicación y protección no constaba, a fecha 28. 5. 2023, ninguna avería ni defecto en el AVP del PNP P3277;
 
-
 ## Página 15
 
 •
-En presencia del inspector del DI se midió el voltaje en los filamentos de las luces rojas de los semáforos de aviso: A (en el sentido de circulación de la 2.ª OA) – 10,20 V y 10,28 V, lo que es conforme con el art. 255 de la norma SŽDC T126;
+en presencia del inspector DI se midió el voltaje en los bombillos de las luces rojas de los semáforos de aviso: A (en el sentido de circulación de la 2. OA) – 10,20 V y 10,28 V, lo cual es conforme con el art. 255 de la norma SŽDC T126;
 •
-Tras la ocurrencia del SU se descargaron y examinaron en el CD de la est. Rumburk, en presencia del DI, los archivos del bloque de diagnóstico del AVP. En el momento de la ocurrencia del SU el AVP estaba en aviso, véase el punto 3.1.8 ZZ;
+tras la producción del MU, en la est. de ferrocarril Rumburk, en presencia del DI, se descargaron y examinaron los archivos del bloque de diagnóstico PZZ. En el momento de la producción del MU, el PZZ estaba en alarma, véase el punto 3.1.8 ZZ;
 •
-El espacio del PNP no estaba monitorizado por un sistema de cámaras;
+el espacio ŽP no estaba monitorizado por sistema de cámaras;
 •
-El AVP no resultó dañado como consecuencia de la ocurrencia del SU;
+el PZZ no resultó dañado como consecuencia de la producción del MU;
 •
-Las superficies frontales del semáforo de aviso "A" (excepto las luces) estaban cubiertas con pegatinas;
+las superficies frontales del semáforo de aviso "A" (excepto las luces) estaban cubiertas con pegatinas;
 •
-En el sentido de circulación del tren antes del PNP se encontraba colocado un cuña de protección, tras el PNP como consecuencia de la ocurrencia del SU ya no se encontraba colocado, pero se encontraba a unos 10 m del lugar del SU en el sentido de circulación del tren;
+en el sentido de circulación del tren antes del ŽP se encontraba colocado el cuña de protección, tras el ŽP como consecuencia de la producción del MU ya no se encontraba colocado, pero se localizaba a unos 10 m del lugar del MU en el sentido de circulación del tren;
 •
-El drenaje del paso a nivel mediante una zanja sobre el PNP estaba garantizado y el estado de los canaletas para el carril DV era satisfactorio;
+el drenaje del paso a nivel en forma de canal sobre el ŽP estaba garantizado y el estado de los canaletas para el anillo DV se encontraba en estado satisfactorio;
 •
-La visibilidad de la cruz de aviso en el sentido de circulación de la 2.ª OA desde el centro de Rumburk era de 40 m;
+la visibilidad de la cruz de aviso en el sentido de circulación de la 2. OA desde el centro de Rumburk era de 40 m;
 •
-La visibilidad de la cruz de aviso en el sentido de circulación de la OA desde Dymník era de 35 m;
+la visibilidad de la cruz de aviso en el sentido de circulación de la OA desde Dymník era de 35 m;
 •
-La descripción adicional de la infraestructura y del dispositivo de protección se indica en el punto 3.1.8 de la presente ZZ.
-De la medición de las condiciones de visibilidad se constató:
+la descripción adicional de la infraestructura y del dispositivo de seguridad se indica en el punto 3.1.8 de esta ZZ.
+Mediante la medición de las condiciones de visibilidad se constató lo siguiente:
 ### Longitudes de visibilidad Dz
 •
-El operador de la vía SŽ, según la Ficha de registro del PNP P3277, evalúa las condiciones de visibilidad en dicho PNP según la ČSN 73 6380 en su versión novada (es decir, vigente desde el 1. 7. 2020);
+el operador ferroviario SŽ, según la Ficha de registro del ŽP P3277, evalúa las condiciones de visibilidad en este ŽP conforme a la ČSN 73 6380 actualizada (es decir, vigente desde el 1. 7. 2020);
 •
-La longitud de visibilidad Dz (hasta el semáforo de aviso, incluidas ambas luces de aviso) para la detención del vehículo por carretera en el sentido de circulación de la OA desde Dymník por la carretera terrestre (según SŽ con una pendiente del -10 %) era de 35 m (véase Fig. n.º 3), pero en la ČSN 73 6380 se había establecido un valor mínimo de 40 m;
+la longitud de visibilidad Dz (hasta el semáforo de aviso, incluidas ambas luces de aviso) para la detención de un vehículo rodante en el sentido de circulación de la OA desde Dymník por la vía de comunicación terrestre (según SŽ con una pendiente de -10 %) era de 35 m (véase la Fig. n.º 3), pero según la ČSN 73 6380 se había establecido un valor mínimo de 40 m;
 Fig. n.º 3: La visibilidad del semáforo de aviso en el sentido de circulación desde Dymník no estaba garantizada en los 40 m requeridos
 Fuente: DI
-
 
 ## Página 16
 
 •
-La longitud de visibilidad Dz (hasta el semáforo de aviso, incluidas ambas luces de aviso) para la detención del vehículo por carretera en el sentido de circulación de la OA desde el centro de Rumburk por la carretera terrestre (según SŽ con una pendiente del 0 %) era de 33 m (véase Fig. n.º 4), pero en la ČSN 73 6380 se había establecido un valor mínimo de 35 m.
-Fig. n.º 4: La visibilidad (de ambas luces rojas) del semáforo de aviso en el sentido de circulación desde el centro de Rumburk no estaba garantizada en los 35 m requeridos
+la longitud de visibilidad Dz (hasta el señalero, incluidas ambas luces de señalización) para la detención del vehículo rodante en la dirección de circulación OA desde el centro de Rumburk por la carretera (según SŽ con una pendiente del 0 %) era de 33 m (véase Fig. n.º 4), pero en la ČSN 73 6380 se había establecido un valor mínimo de 35 m. 
+Fig. n.º 4: La visibilidad (de ambas luces rojas) del señalero en la dirección de circulación desde el centro de Rumburk no estaba garantizada en los 35 m requeridos
 Fuente: DI
 Ambas longitudes de visibilidad Dz medidas no cumplen los valores establecidos en el art. 7.3.2 y en el anexo A de la norma ČSN 73 6380.
 ### Longitudes de visibilidad Lp
-Se realizó la medición de las longitudes de visibilidad Lp para una velocidad de DV de 10 km.h-1 en el caso de avería o desconexión del AVP. Para dicho PNP P3277 con Dp = 6,6 m y una velocidad de DV de 10 km.h-1 en ambos sentidos, el valor de Lp establecido es de 57 m.
+Se realizaron mediciones de las longitudes de visibilidad Lp para una velocidad DV de 10 km.h-1 en el caso de fallo o desconexión del PZZ. Para el P3277 dado, con Dp = 6,6 m y una velocidad DV de 10 km.h-1 en ambos sentidos, el valor de Lp establecido es de 57 m.
 •
-A la izquierda en el sentido de circulación de la DV desde la est. Krásná Lípa hacia la est. Rumburk se midieron longitudes de visibilidad Lp = 77 m.
+A la izquierda en la dirección de circulación DV desde la est. Krásná Lípa hacia la est. Rumburk se midieron longitudes de visibilidad Lp = 77 m.
 •
-A la derecha en el sentido de circulación de la DV desde la est. Krásná Lípa hacia la est. Rumburk se midieron longitudes de visibilidad Lp mayores de 700 m.
+A la derecha en la dirección de circulación DV desde la est. Krásná Lípa hacia la est. Rumburk se midieron longitudes de visibilidad Lp mayores de 700 m.
 •
-A la izquierda en el sentido de circulación de la DV desde la est. Rumburk hacia la est. Krásná Lípa se midió una longitud de visibilidad Lp mayor de 200 m.
+A la izquierda en la dirección de circulación DV desde la est. Rumburk hacia la est. Krásná Lípa se midió una longitud de visibilidad Lp mayor de 200 m. 
 •
-A la derecha en el sentido de circulación de la DV desde la est. Rumburk hacia la est. Krásná Lípa se midió una longitud de visibilidad Lp = 77 m.
+A la derecha en la dirección de circulación DV desde la est. Rumburk hacia la est. Krásná Lípa se midió una longitud de visibilidad Lp = 77 m. 
 ### Las longitudes de visibilidad Lp cumplieron en todos los cuadrantes.
-Del examen de la señalización de tráfico adicional se constató:
+Del examen de la señalización de tráfico adicional se constató lo siguiente:
 •
-En ambos sentidos, a unos 80 m antes del PNP P3277, en la carretera terrestre – carretera local a la derecha de la calzada, estaban colocadas las señales de tráfico A 31c "Placa indicadora (80 m)" complementadas con las señales de tráfico A 30 "Paso a nivel sin barreras". Se realizó documentación fotográfica de la señalización de tráfico;
-
+En ambos sentidos, a unos 80 m antes del P3277, en la carretera – carretera local a la derecha de la calzada, estaban colocadas las señales de tráfico A 31c «Placa de señal (80 m)» complementadas con las señales de tráfico A 30 «Paso a nivel sin barreras». Se realizó documentación fotográfica de la señalización de tráfico;
 
 ## Página 17
 
 •
-La visibilidad de las señales de tráfico A 31c y A 30 en el sentido de circulación de la OA desde el centro de Rumburk estaba reducida por la cobertura de hierba alta, pegatinas y pintura con spray (véase Fig. n.º 5 y 8). Ambas señales de tráfico eran difíciles de distinguir (de leer), la señal de tráfico A 31c podía confundirse con la señal de tráfico A 31a debido a la cobertura de hierba alta.
+la visibilidad de las señales de tráfico A 31c y A 30 en el sentido de circulación de la OA desde el centro de Rumburk se vio reducida por la cobertura con hierba alta, pegatinas y pintura con spray (véanse las figuras 5 y 8). Ambas señales de tráfico eran difíciles de distinguir (legibles); la señal de tráfico A 31c podía confundirse con la señal de tráfico A 31a debido a la cobertura con hierba alta.
 •
-La visibilidad de las señales de tráfico A 31c y A 30 en el sentido de circulación de la OA desde Dymník estaba reducida por pegatinas y pintura con spray (véase Fig. n.º 6). La señal de tráfico A 31c era difícil de distinguir (de leer).
+la visibilidad de las señales de tráfico A 31c y A 30 en el sentido de circulación de la OA desde Dymník se vio reducida por pegatinas y pintura con spray (véase la figura 6). La señal de tráfico A 31c era difícil de distinguir (legible).
 •
-El estado anteriormente indicado de las señales de tráfico A 31c y A 30 en la Fig. n.º 5 y n.º 6 no correspondía al estado requerido en el decreto n.º 294/2015 Sb. El daño de dichas señales de tráfico presentaba características de vandalismo, más información en el punto 4.1.7 de la presente ZZ;
+el estado anteriormente descrito de las señales de tráfico A 31c y A 30 en las figuras 5 y 6 no correspondía al estado exigido en el decreto nº 294/2015 Sb. El daño a las señales de tráfico mencionadas presentaba indicios de vandalismo, para más información véase el punto 4.1.7 de la presente ZZ;
 •
-Las señales de tráfico A 31a "Placa indicadora (240 m)" y A 31b "Placa indicadora (160 m)" no estaban instaladas antes del PNP en ninguno de los dos sentidos.
-Del examen de la carretera terrestre se constató:
+las señales de tráfico A 31a «Placa indicadora (240 m)» y A 31b «Placa indicadora (160 m)» no estaban instaladas antes del PFE en ninguno de los dos sentidos.
+De la inspección de la vía pública se constató lo siguiente:
 •
-En el sentido de circulación de la 2.ª OA desde el centro de Rumburk, la carretera terrestre antes del PNP ascendía ligeramente y discurría por una curva ligeramente a la derecha en una zona urbanizada con presencia de árboles, arbustos y especialmente un seto vivo (de unos 35 m de longitud y unos 2 m de altura, el final del seto vivo estaba a unos 15 m antes del PNP), que impedía la visibilidad hacia la derecha del semáforo de aviso del AVP, véase Fig. n.º 5;
+en el sentido de circulación de la 2.ª OA desde el centro de Rumburk, la vía pública antes del PFE ascendía ligeramente y discurría por una curva ligeramente a la derecha en una zona edificada con presencia de árboles, arbustos y, especialmente, una valla viva (de unos 35 m de longitud y unos 2 m de altura; el final de la valla viva se encontraba a unos 15 m antes del PFE), que impedía la visión hacia la derecha del señalizador PZZ, véase la figura 5;
 •
-En el sentido de circulación de la OA desde Dymník, la carretera terrestre antes del PNP descendía en pendiente pronunciada en algunos tramos y discurría por una curva a la derecha en una zona urbanizada con presencia de un grupo de árboles y arbustos, que impedía la visibilidad hacia la derecha del semáforo de aviso del AVP, véase Fig. n.º 6;
-Fig. n.º 5: Documentación fotográfica de las señales de tráfico A 31c y A 30 en el sentido de circulación desde el centro de Rumburk
+en el sentido de circulación de la OA desde Dymník, la vía pública antes del PFE descendía en pendiente pronunciada en algunos tramos y discurría por una curva a la derecha en una zona edificada con presencia de un grupo de árboles y arbustos, que impedía la visión hacia la derecha del señalizador PZZ, véase la figura 6;
+Figura 5: Documentación fotográfica de las señales de tráfico A 31c y A 30 en el sentido de circulación desde el centro de Rumburk
 Fuente: DI
 
-
 ## Página 18
+
 
 Fig. n.º 6: Documentación fotográfica de las señales de tráfico A 31c y A 30 en el sentido de circulación desde Dymník
 Fuente: DI
@@ -617,6 +616,7 @@ La presión de aire en la tubería principal era de 0,0 bar, la presión en el d
 
 ## Página 19
 
+
 •
 en el display de la radiostación VO79 estaba sintonizado el n.º de tren 6660 en la red TRS en la banda 62 y en segundo plano estaba sintonizado el canal simplex n.º 12;
 •
@@ -644,8 +644,8 @@ El tramo de la línea antes del lugar del MU en el sentido de marcha del tren Os
 En el cuadrante decisivo se encontraba una casa.
 En el lugar del MU no se estaban realizando, inmediatamente antes de su producción, ninguna obra de reparación o de mantenimiento por parte del propietario, del explotador de la vía ni de otros sujetos. El tráfico en el lugar del MU y sus alrededores estaba en régimen normal. Debido al tiempo soleado en el momento de la producción del MU (17:46 h), la DI investigó la posibilidad de deslumbramiento de la conductora del 2. OA por el sol, que en el momento de la producción del MU brillaba con una elevación de 27,96° sobre el horizonte y con un azimut de 270,27°. A la conductora del 2. OA antes del ŽP le brillaba el sol desde el frente ligeramente por la derecha con un ángulo de aprox. 10° (véase Fig. n.º 8). La DI realizó una verificación de la posibilidad de deslumbramiento mediante una marcha de prueba en condiciones similares con el resultado de que no se produjo un deslumbramiento directo por el sol de la conductora del 2. OA, pero pudo producirse una influencia (reducción) en la percepción de las cruces de aviso situadas detrás de la viva alambrada y de las luces rojas de aviso del señalizador, y una reducción fundamental en la percepción de otros elementos del paso a nivel (véase Fig. n.º 24), es decir, la conductora del 2. OA, dadas las condiciones lumínicas, no tenía por qué ser capaz de reconocer (registrar) a tiempo que se estaba aproximando al paso a nivel.
 
-
 ## Página 20
+
 
 Fig. n.º 7: Posición del sol y dirección de la luz solar respecto a la marcha del OA
                  Fuente: www.suncalc.org, elaboración de la DI
@@ -677,8 +677,8 @@ En el MU se produjo daño en:
 ### 3.1.5 Descripción de otras consecuencias, incluido el impacto del suceso en las actividades regulares de los sujetos participantes
 Como consecuencia de la producción del MU se produjo la paralización del tráfico ferroviario entre la est. Krásná Lípa y la est. Rumburk desde las 17:46 h del 28. 5. 2023 hasta las 00:55 h del 29. 5. 2023. Desde las 00:55 h hasta las 7:30 h
 
-
 ## Página 21
+
 
 del 29. 5. 2023 se restableció el tráfico ferroviario con limitación de velocidad (50 km.h-1) desde el km 89,133 hasta el km 89,400. Desde las 7:30 h del 29. 5. 2023 se restableció la circulación sin limitaciones.
 ### 3.1.6 Identificación de las personas, sus funciones y de los sujetos participantes
@@ -717,8 +717,8 @@ Nota sobre el tren Os 6660:
 •
 en el momento de la producción del MU había en el tren 18 viajeros, 1 jefe de tren y 1 maquinista;
 
-
 ## Página 22
+
 
 •
 la estación de origen del tren era la est. Děčín hl. n., la terminal la est. Rumburk;
@@ -745,8 +745,8 @@ El ŽP P3277 en el km 89,133 tenía, según las mediciones de la Inspección Fer
 El ŽP P3277 estaba protegido por un PZZ luminoso de categoría PZS 3SBI, tipo PZZ-ARE, sin barreras, con señal positivo, y estaba equipado con un dispositivo de registro. El PZZ se ponía en aviso automáticamente con la circulación del tren al ocupar el tramo de aproximación mediante la activación de los detectores de los contadores de ejes situados en el km 88,195 (en el sentido desde la est. Krásná Lípa) y en el km 90,292 (en el sentido desde la est. Rumburk). El PZZ se puso en servicio en el año 2017.
 Según la Ficha de registro del ŽP P3277 de SŽ, el valor prescrito era Dz = 45 m para ambos sentidos, pero el valor medido era Dz = 15 m para ambos sentidos.
 
-
 ## Página 23
+
 
 Del análisis de los datos registrados por el PZZ del ŽP P3277 y por el SZZ Rumburk, tras tener en cuenta la desviación horaria (la hora registrada estaba retrasada 2 min 50 s respecto a la HEC), se constató, entre otros:
 | Hora con corrección (h) | Descripciónde losestadosseleccionadosregistradosen elarchivodel PZZ del ŽP P3277 y del SZZ Rumburk |
@@ -772,6 +772,7 @@ maquinista del tren Os 6660
 ◦tuvo la pausa para comer y descanso en la est. Děčín hl. n. desde las 15:20 hasta las 16:37 h;
 
 ## Página 24
+
 
 ◦el transcurso de la jornada fue sin incidencias. El material motor no presentaba averías;
 ◦desde la estación de Krásná Lípa a la estación de Rumburk salió puntualmente;
@@ -799,8 +800,8 @@ jefe de estación de Rumburk
 ◦la jornada transcurrió sin problemas. El tiempo estaba tranquilo;
 ◦el equipo de señalización estaba en orden;
 
-
 ## Página 25
+
 
 ◦tras recibir la salida real del tren n.º 6660 desde la estación de Krásná Lípa, estableció la vía de tren para dicho tren en la 1.ª vía de tráfico. En el equipo JOP vigiló su circulación;
 ◦a las aprox. 17:50 h recibió una información telefónica del maquinista del tren Os 6600, que le comunicó la colisión en el PZZ en el km 89,199 con un OA. A continuación lo comunicó todo según el plan de comunicaciones.
@@ -829,8 +830,8 @@ testigo, conductora del 1.º OA
  – Registro oficial de la explicación prestada a la Policía de la República Checa:
 ◦el equipo de señalización del paso a nivel emitía una señal sonora antes de la llegada del tren.
 
-
 ## Página 26
+
 
 ### Registro de datos sobre el movimiento del 2.º OA 
 ###  (Audi A4) 
@@ -860,34 +861,34 @@ El espacio en el lugar de la MU no estaba monitorizado por un sistema de cámara
 El 28 de mayo de 2023 a las 17:43 h el tren Os 6660 se puso en marcha desde el andén de la estación de Krásná Lípa y partió en dirección a la estación de Rumburk. Durante la circulación y hasta la aparición de la MU, el maquinista no registró ninguna anomalía.
 Según el análisis del archivo de datos del PZZ, el tren Os 6660 (a las 17:46:09 h) activó la alarma del PZZ ŽP P3277. El maquinista, según su declaración, durante la circulación hacia el ŽP P3277 vio cómo por
 
-
 ## Página 27
 
-el paso a nivel en cuestión circuló primero el 1.º OA, al que hizo sonar la bocina (a las 17:46:39 h). El 1.º OA abandonó el paso a nivel, a continuación entró en el paso a nivel el 2.º OA, que se detuvo en él. El maquinista le hizo sonar la bocina (desde las 17:46:41 h), después aplicó el frenado de urgencia, a continuación se produjo la colisión (a las 17:46:45 h).
-Según la declaración de la conductora del 1.º OA, ese día viajaron con la familia en 2 coches desde Alemania al restaurante Dymník en Rumburk. Ella conducía el 1.º OA de marca Jeep; detrás de ella circulaba el 2.º OA de marca Audi.
-Se aproximaban despacio al paso a nivel. Según su declaración, en el paso a nivel brillaba una luz de color blanco; no oyó ninguna señal sonora de aviso. Miraba a los lados. El sol no le deslumbraba.
-Según la declaración de la acompañante del 2.º OA, durante el viaje desde Alemania a la República Checa se durmió. Cuando despertó, su coche estaba detenido en el ŽP. Junto con su novio gritaron a la madre de este, que conducía, para que siguiera conduciendo, porque se les acercaba un tren. Después el tren les alcanzó.
-El frontal del tren impactó en el flanco izquierdo del 2.º OA; a continuación se produció el arrastre del OA atrapado bajo el frontal del tren hasta el lugar de detención del tren. No se produjo descarrilamiento del tren.
-De la comparación del análisis del velocímetro (véase el punto 3.1.7 de esta ZZ), del registro de datos sobre el movimiento del 2.º OA (véase el punto 3.1.9 de esta ZZ) y del análisis del archivo de datos del PZZ ŽP P3277 (véase el punto 3.1.8 de esta ZZ) se evidencia que la conductora del 2.º OA entró en el ŽP P3277 en el momento en que el PZZ estaba en alarma.
-### 3.2.2 Secuencia de hechos desde la aparición del suceso extraordinario hasta la finalización de las acciones de los servicios de emergencia
-| 28 de mayo de 2023 |  |
-| • 17:46 h | aparición de la MU; |
-| • 17:47 h | el maquinista del tren Os 6660 comunicó la aparición de la MU al jefe de estación de Rumburk; |
-| • 17:50 h | el jefe de estación de Rumburk comunicó la aparición de la MU según el plan de comunicaciones; |
-| • 17:51 h | declaración de alarma a las unidades JPO de HZS y JSDH correspondientes; |
-| • 17:55 h | primera unidad del sistema IZS (JSDH Rumburk) en el lugar de la MU; |
-| • 17:58 h | el jefe de despacho del CDP de Praga comunicó la aparición de la MU a la O18 de SŽ; |
-| • 18:05 h | la persona autorizada de la O18 de SŽ comunicó la aparición de la MU al COP de DI; |
-| • 18:09 h | la persona autorizada de la O18 de SŽ completó la comunicación de la aparición de la MU al COP de DI; |
-| • 19:23 h | inspección del lugar de la aparición de la MU por empleados de DI y de la Policía de la República Checa; |
-| • 19:30 h | inspección del lugar de la aparición de la MU por empleados de SŽ; |
+el paso a nivel en cuestión lo cruzó primero el 1. OA, al que silbó (a las 17:46:39 h). El 1. OA abandonó el paso a nivel, a continuación entró en el paso a nivel el 2. OA, que se detuvo en él. El maquinista le silbó (desde las 17:46:41 h), después utilizó el frenado de acción rápida, a continuación se produjo la colisión (a las 17:46:45 h).
+Según la declaración de la conductora del 1. OA, ese día viajaban con la familia en 2 vehículos desde Alemania hasta el restaurante Dymník en Rumburk. Ella conducía el 1. OA de la marca Jeep, detrás iba el 2. OA de la marca Audi.
+Se aproximaban al paso a nivel lentamente. Según su declaración, en el paso a nivel se encendía una luz de color blanco, no oyó ninguna señal sonora de aviso. Miraba a su alrededor. El sol no le deslumbraba.
+Según la declaración de la acompañante del 2. OA, durante el viaje desde Alemania hasta la República Checa se durmió. Cuando se despertó, su vehículo estaba detenido en el paso a nivel. Junto con su novio gritaban a la madre de él, que conducía, para que siguiera adelante, porque se acercaba un tren. Después el tren les alcanzó.
+El morro del tren impactó en el lado izquierdo del 2. OA, a continuación se produció el arrastre del vehículo atrapado bajo el morro del tren hasta el lugar de detención del tren. No se produjo el descarrilamiento del tren.
+De la comparación del análisis del velocímetro (véase el punto 3.1.7 de la presente ZZ), del registro de datos de movimiento del 2. OA (véase el punto 3.1.9 de la presente ZZ) y del análisis del archivo de datos del PZZ del paso a nivel P3277 (véase el punto 3.1.8 de la presente ZZ) se evidencia que la conductora del 2. OA entró en el paso a nivel P3277 en el momento en que el PZZ estaba en estado de alerta.
+### 3.2.2 Secuencia de hechos desde la ocurrencia del suceso extraordinario hasta la finalización de las acciones de los servicios de rescate
+| 28 5 2023 . . |  |
+| • 17:46 h | ocurrencia del SE; |
+| • 17:47 h | el maquinista del tren Os 6660 comunicó la ocurrencia del SE al jefe de estación de la estación de Rumburk; . |
+| • 17:50 h | el jefe de estación de la estación de Rumburk comunicó la ocurrencia del SE según el horario de comunicaciones; . |
+| • 17:51 h | declaración de alarma a las unidades correspondientes de JPO HZS y JSDH; |
+| • 17:55 h | primera unidad del sistema IZS (JSDH Rumburk) en el lugar del SE; |
+| • 17:58 h | el jefe de despachador del CDP Praga comunicó la ocurrencia del SE a O18 SŽ ; |
+| • 18:05 h | la persona autorizada de O18 SŽ comunicó la ocurrencia del SE al COP DI; |
+| • 18:09 h | la persona autorizada de O18 SŽ completó la comunicación de la ocurrencia del SE al COP DI; |
+| • 19:23 h | inspección del lugar de ocurrencia del SE por empleados de DI y de la Policía de la República Checa; |
+| • 19:30 h | inspección del lugar de ocurrencia del SE por empleados de SŽ ; |
 | • 21:19 h | el inspector de DI presente concedió la autorización para la liberación de la vía; |
-| 29 de mayo de 2023 |  |
-| • 00:55 h | restablecimiento de la circulación – establecimiento de una limitación transitoria de la velocidad de la línea a 50 km·h-1 en el km 89,133 hasta el 89,400; |
-| • 07:30 h | restablecimiento de la circulación sin limitaciones. |
-El plan de IZS fue activado en función de la naturaleza de la MU. El plan de IZS fue activado por el jefe de estación de Rumburk a las 17:50 h, es decir, 4 minutos después de la aparición de la MU.
+| 29 5 2023 . . |  |
+| • 00:55 h | reanudación de la circulación – establecimiento de una limitación transitoria de la velocidad de la vía a 50 km h-1 en el km 89 133 hasta el 89 400; . , , |
+| • 07:30 h | reanudación de la circulación sin limitaciones . |
+El plan IZS fue activado en función de la naturaleza del SE. El plan IZS fue activado por el jefe de estación de la estación de Rumburk a las 17:50 h, es decir, 4 minutos después de la ocurrencia del SE.
 
 ## Página 28
+
 
 En el lugar del MU intervinieron los siguientes componentes de los servicios de emergencia (IZS):
 •
@@ -920,6 +921,7 @@ La infraestructura cruza, según el Registro de inspección conjunta del paso a 
 
 ## Página 29
 
+
 El gestor de la infraestructura no garantizó, según el art. 18 de la normativa SŽ S4/4, la exactitud de todos los datos registrados sobre el paso a nivel, concretamente sobre la categoría de la vía pública que cruza con la infraestructura.
 Según la comunicación escrita del gestor de la vía (Ayuntamiento de Rumburk), por el ŽP P3277 transcurre una vía pública – vía local de clase C. (calle Výletní, Rumburk).
 No se detectó ningún defecto en la ubicación de las cruces de advertencia y de los señales de advertencia. Las condiciones de visibilidad Lp para la velocidad DV de 10 km.h-1 en el ŽP P3277 cumplían.
@@ -950,6 +952,7 @@ No garantización de la longitud de visibilidad Dz establecida desde el sentido 
 
 ## Página 30
 
+
 ### Los requisitos para estas modificaciones los contiene la norma técnica indicada en el anexo n.º 5 bajo el epígrafe 165 (nota de la DI: ČSN 73 6380)»;
 •
 art. 7.3.1 de la ČSN 73 6380:
@@ -977,6 +980,7 @@ La DI, durante la investigación de este MU, documentó las marcas en la calzada
 
 ## Página 31
 
+
 categorías de SMV por el ŽP P3277. La DI, a petición, recibió del gestor de la infraestructura el perfil longitudinal de la vía (local) pública que transcurre por el ŽP P3277 (véase la Fig. n.º 16 en el anexo de esta ZZ).
 En la Ficha de registro del ŽP P3277 se indicaba que SŽ evaluaba las condiciones de visibilidad según la ČSN 73 6380 novelizada (nota de la DI: vigente desde el 1. 7. 2020). Según la comunicación de la DÚ, es necesario evaluar todos los parámetros del ŽP según una única norma o, respectivamente, normativa.
 El criterio de la Autoridad Ferroviaria sobre la cuestión de los pasos a nivel, emitido el 10. 5. 2016 con la referencia DUCR-22640/16/Bv, indica al respecto:
@@ -989,6 +993,7 @@ Todos los vehículos de motor de carretera circularon por dicho tramo sin proble
 ### por el ŽP pueden dejar marcas en la calzada. De lo anterior se deduce que el gestor del paso a nivel, junto con el gestor de la vía pública, deberían valorar si no sería
 
 ## Página 32
+
 
 deseable limitar la velocidad de los vehículos que circulan por el paso a nivel mediante la instalación de señalización de tráfico.
 ### En la investigación no se detectó incumplimiento de las funciones y obligaciones del gestor de la infraestructura ferroviaria en relación con la modificación del firme de la vía pública en el paso a nivel.
@@ -1003,8 +1008,8 @@ En la investigación no se detectó incumplimiento de las funciones y obligacion
 La autoridad nacional de seguridad es la Oficina Ferroviaria (Drážní úřad), que de acuerdo con la Ley núm. 266/1994 Sb. es una autoridad administrativa dependiente del Ministerio de Transportes. Su función es, en particular, el ejercicio de la supervisión estatal en materia de ferrocarriles y en materia de autoridad de construcción, el ejercicio de la autoridad de construcción especial para obras ferroviarias y obras en la infraestructura ferroviaria, la aprobación de nuevos y modernizados vehículos ferroviarios y de instalaciones técnicas designadas, y la tramitación de infracciones. La Oficina Ferroviaria tiene la obligación de comunicar, en el plazo de 12 meses desde la fecha de publicación del informe final que contenga las recomendaciones de seguridad dirigidas a la misma, a la Inspección Ferroviaria qué medida ha adoptado en relación con dicha recomendación de seguridad; esta comunicación la realiza de forma regular, al menos una vez al año, hasta la adopción de las medidas correspondientes.
 La función de la Agencia Ferroviaria de la Unión Europea es, además de garantizar, en el marco de sus competencias, que se mantenga y, si es posible, se aumente de forma sistemática la seguridad de los ferrocarriles, entre otras, la emisión, renovación, suspensión y modificación de certificados únicos de seguridad, la limitación de su vigencia o su cancelación, en cuestión en la que coopera con las autoridades nacionales de seguridad; además, emite autorizaciones para la puesta en el mercado de vehículos ferroviarios y de tipos de vehículos y está facultada para renovar, modificar, suspender
 
-
 ## Página 33
+
 
 o cancelar las autorizaciones que haya emitido. La Agencia evalúa asimismo los proyectos de normativa nacional, etc.
 En la investigación no se detectó incumplimiento de las funciones y obligaciones de la autoridad nacional de seguridad y de la Agencia Ferroviaria de la Unión Europea.
@@ -1023,8 +1028,8 @@ De acuerdo con el § 7 apartado 4 del Decreto núm. 104/1997 Sb., la inspección
 Durante la investigación de la MU en cuestión, se documentó el estado de las señales de tráfico antes del PNP P3277 y se constató que dicho estado (o, mejor dicho, la representación gráfica) de las señales de tráfico A 31c y A 30 (véase la Fig. núm. 5 y núm. 6 y la descripción en el punto 3.1.3 de la presente II) no correspondía exactamente al estado (o, mejor dicho, la representación gráfica) indicado en el Decreto núm. 294/2015 Sb. Las señales de tráfico estaban dañadas, concretamente presentaban signos de vandalismo, estaban pintadas y cubiertas con pegatinas, y algunas señales de tráfico estaban parcialmente cubiertas por hierba alta.
 La Inspección Ferroviaria comparó además el estado de las señales de tráfico mencionadas anteriormente a fecha 7. 5. 2021 y en el momento de la ocurrencia de la MU (véase más abajo la Fig. núm. 8), cuando se constató que ya el 7. 5. 2021 las señales de tráfico estaban dañadas de manera similar, aunque en menor medida. Por tanto, es evidente que dicho estado es prolongado y se deteriora gradualmente con el tiempo, o se repite, ya que, según el gestor
 
-
 ## Página 34
+
 
 de la vía, la señalización de tráfico en cuestión había sido limpiada al menos 2 veces desde el 1. 1. 2021 tras haber sido vandalizada con pintura de aerosol (véase la declaración más abajo).
 Fig. núm. 8: Estado de las señales de tráfico A 31c y A 30 en el sentido de la marcha desde el centro de Rumburk (arriba) y hacia el centro de Rumburk (abajo), tras la ocurrencia de la MU (izquierda) y a fecha 7. 5. 2021 (derecha)
@@ -1035,8 +1040,8 @@ Durante la investigación de la MU se constató que las ramas de los árboles y 
 Los obstáculos mencionados anteriormente (árboles y arbustos) se situaban en el campo de visión o interferían en la visibilidad hacia las fincas de la Ciudad de Rumburk, parcelas núm. 1871 y 1872, en el término catastral de Dolní Křečany, en el municipio de Rumburk.
 Aunque la obligación de garantizar una visibilidad ininterrumpida hacia las cruces de advertencia y las señales de advertencia del PNP desde la distancia Dz corresponde al gestor de la infraestructura ferroviaria SŽ, sería conveniente que el propietario (gestor)
 
-
 ## Página 35
+
 
 de la vía cooperara activamente y mantuviera la vegetación en sus fincas (incluida la vegetación que invade o se extiende sobre sus fincas) en un estado que no limite la visibilidad mencionada.
 El gestor de las vías, ante las consultas de la DI relativas a los hechos mencionados anteriormente, indicó en su declaración de fecha 26.
@@ -1053,6 +1058,7 @@ Atendiendo a lo anterior, la DI recomienda al gestor de la vía en cuestión que
 En relación con la repetición de una MU con resultado de muerte, la DI recomienda en este caso también garantizar que las señales de tráfico verticales existentes A 31c «Señal indicadora (80 m)» y A 30 «Paso a nivel sin barreras» se completen con las señales de tráfico verticales A 31b «Señal indicadora (160 m)» y A 31a «Señal indicadora (240 m)» de conformidad con las condiciones técnicas TP 169 Principios para la señalización de situaciones de tráfico en las vías públicas y TP 65 Principios para la señalización de tráfico en las vías públicas (véase el punto 6 de la presente II).
 
 ## Página 36
+
 
 ### Hallazgos:
 Durante la investigación se constató la infracción, o mejor dicho, la falta de garantía del cumplimiento de las obligaciones establecidas por las disposiciones de la legislación, relativas a las funciones y obligaciones del gestor de la vía pública-comunicación local (calle Výletní, Rumburk), que es el Ayuntamiento de Rumburk (Městský úřad Rumburk), respecto a la señalización vial instalada antes del PFE P3277, sin relación causal con la aparición del accidente ferroviario (MU)
@@ -1077,8 +1083,8 @@ Al conducir hacia el PFE, el conductor debe en particular ajustar la velocidad d
 para los usuarios de la vía pública. En ausencia de señal de luz roja y blanca, se trata de la denominada señal de aviso, en la que el conductor no tiene por qué ser informado por el PZZ de la aproximación de un vehículo ferroviario que pueda ponerlo en peligro (en caso de desconexión o avería del PZZ). En este caso, el conductor debe, igual que en un PFE protegido únicamente con una cruz de advertencia, asegurarse mediante la vista y el oído de que no se aproxima ningún vehículo ferroviario al PFE y, por tanto, de que puede cruzarlo de forma segura.
 Un presupuesto fundamental para el cumplimiento de las obligaciones mencionadas es que el conductor detecte con suficiente antelación que se aproxima al PFE. Para ello sirve la señal de tráfico A 31 «Placa indicadora», o en su caso, la suficiente visibilidad de la señal de tráfico A 32 «Cruz de advertencia para paso a nivel».
 
-
 ## Página 37
+
 
 Sin embargo, el problema es que la instalación de placas indicadoras y la visibilidad de las señales de tráfico no están establecidas con carácter jurídicamente vinculante. La forma de colocación de las placas indicadoras la establece el Decreto núm. 294/2015 Sb., no obstante, este no establece la obligación de instalar placas indicadoras. Más concretamente, las condiciones de instalación de las placas indicadoras las regulan el TP 65 y el TP 169. Las condiciones técnicas, sin embargo, son en general no vinculantes, y esto también se aplica a este caso. Del mismo modo, la visibilidad de las señales de tráfico se regula en el § 2 del Decreto núm. 294/2015 Sb., que establece únicamente de forma general «Las señales de tráfico verticales se colocarán de manera que sean visibles a tiempo y desde una distancia suficiente para los usuarios del tráfico en las vías públicas para las que están destinadas.». Los valores concretos de visibilidad mínima los establece el art. 7.4 del TP 65, y por tanto se trata nuevamente únicamente de condiciones técnicas no vinculantes jurídicamente.
 En el art. 7.4 del TP 65 se indica:
@@ -1089,8 +1095,8 @@ En algunos casos, por tanto, no es posible exigir prácticamente a los conductor
 ¹
 La comunicación autoexplicativa es un término que indica que los elementos de diseño y la calidad de su ejecución garantizan al usuario de la comunicación una cantidad suficiente de información comprensible y unívoca para un comportamiento y una toma de decisiones seguros durante el uso de la comunicación. Esta disposición previene la aparición de una situación de accidente.
 
-
 ## Página 38
+
 
 | Tipodevíapública | paraPFEprotegidoconPZZconseñalizaciónpositivayvelocidadSMV50km/h |  | paraPFEprotegidoconPZZsinsignalizaciónpositivayvelocidadSMV30km/h |  | paraPFEprotegidosolamenteconcrucesdeadvertenciayvelocidadSMV30km/h |  |
 |  | Pendiente | Dz | Pendiente | Dz | Pendiente (%) | Dz (m) |
@@ -1116,6 +1122,7 @@ Al evaluar la influencia de la deficiencia anteriormente mencionada en el desarr
 
 ## Página 39
 
+
 Atendiendo a todos los factores anteriormente indicados, es decir, señales de tráfico difíciles de distinguir (legibles), seto vivo alto y largo y la trazada de la estrecha vía terrestre, no puede considerarse que la disposición de la vía terrestre antes del PE sea autoexplicativa, y por tanto es necesario constatar que la disposición de la vía pudo contribuir significativamente a la aparición del SU, sin embargo, la investigación no logró demostrarlo.
 Por ello, el DI recomienda iniciar la modificación de la normativa de tal manera que la instalación de la señalización vertical A 31 «Placa de señal» y A 30 «Paso a nivel sin barreras», respectivamente A 29 «Paso a nivel con barreras» (en el sentido de TP 65 y TP 169) sea obligatoria, excepto en las vías de servicio, pudiéndose admitir en casos justificados una excepción también cumpliendo la condición de visibilidad garantizada de la señal de tráfico A 32 «Cruz de aviso para paso a nivel» fuera de la localidad al menos desde una distancia de 100 m, en la localidad al menos 50 m (en el sentido del art. 7.4 de TP 65).
 Esta recomendación de seguridad no garantizará en todos los casos el cumplimiento de lo dispuesto en el § 28 apartado 3 de la Ley n.º 361/2000 Sb. (véase el análisis más arriba), pero el DI considera esta medida suficiente para garantizar la seguridad del tráfico en el PE, ya que el conductor prácticamente podrá reducir la velocidad adecuadamente antes de alcanzar la distancia Dz antes del PE.
@@ -1133,6 +1140,7 @@ Según el análisis del archivo de datos del SP, el tren Os 6660 activó la alar
 Según los datos registrados del velocímetro de la LT, el archivo del SP y el archivo de datos del 2.º VOA (véase más abajo Tab. n.º 1 en el punto 3.1.9 de esta II), el Levantamiento del lugar del SU, la Grabación de la declaración sobre el SU para el DI por parte del maquinista del tren Os 6660, las Actas oficiales de las declaraciones prestadas por 2 testigos, se puede constatar que la conductora del 2.º VOA entró en el PE P3277 a pesar de que el SP estaba en funcionamiento, es decir, se estaba dando tanto alarma sonora como luminosa con luces rojas intermitentes alternas.
 
 ## Página 40
+
 
 Estado técnico del 2.º VOA
 En el Informe pericial se indicó, entre otros: «En el vehículo AUDI … no se detectó ninguna avería técnica que pudiera ser la causa del accidente de tráfico del 28. 05. 2023.» y además se indicó que todas las personas en dicho VOA estaban sujetas con el cinturón de seguridad.
@@ -1162,6 +1170,7 @@ El DI recibió de la Policía Nacional, Inspección de Tráfico de Děčín, la 
 
 ## Página 41
 
+
 ### de Děčín propone resolver la protección del paso a nivel P3277 con
 protección luminosa y sonora con barreras, con la incorporación de las señales de tráfico verticales correspondientes según TP 169 «Principios para la señalización de situaciones de tráfico».
 
@@ -1185,6 +1194,7 @@ En la investigación no se constataron factores relacionados con la formación p
 Los factores constatados relacionados con la actuación de la conductora participante del 2.º VOA, que pudieron influir en el cumplimiento de sus obligaciones, se indican en el punto 4.1.7 de esta II.
 
 ## Página 42
+
 
 ### 4.3.2 Factores laborales
 En la investigación no se constataron factores relacionados con el contenido del trabajo o la jornada laboral de los empleados. En la investigación no se constató en el empleado participante el incumplimiento de las condiciones de descanso antes del turno y de los descansos, respectivamente, del tiempo adecuado para el descanso y la alimentación durante el turno.
@@ -1211,27 +1221,26 @@ Atendiendo a los factores y circunstancias constatados de la aparición del SU, 
 ## Página 43
 
 ### 4.4.6 Aprobaciones, certificados e informes de evaluación concedidos por la Agencia, las autoridades nacionales de seguridad u otros organismos de evaluación de la conformidad
-El gestor de la infraestructura ferroviaria explotó la infraestructura en virtud de una autorización administrativa vigente y de un certificado de seguridad del gestor de la infraestructura ferroviaria. El operador ferroviario explotó el transporte ferroviario en virtud de una licencia vigente y de un certificado del operador.
+El gestor de la infraestructura explotó la infraestructura al amparo de la autorización administrativa vigente y del certificado de seguridad del gestor de la infraestructura. El transportista explotó el transporte ferroviario al amparo de la licencia vigente y del certificado del transportista.
 ### 4.4.7 Otros factores sistémicos
 En la investigación no se detectaron otros factores sistémicos.
-### 4.5 Sucesos anteriores de naturaleza similar
-La DI registra en las líneas de ámbito nacional y regional, en el período comprendido entre el 1. 1. 2008 y la fecha de ocurrencia de la SU objeto de estudio, 1 154 SU similares, en las que se produjo la colisión de un tren con vehículos de motor por carretera en un paso a nivel protegido con un dispositivo de señalización de paso a nivel sin barreras. En estas SU resultaron fallecidas 187 personas, 844 personas resultaron heridas y se produjo un daño de 687 652 688 CZK.
-En el paso a nivel objeto de estudio P3277, la Inspección Ferroviaria registra en el período indicado 1 SU similar, concretamente la del 13. 8. 2014, en la que se produjo la colisión del tren Os 2605 con un turismo. En la SU resultó fallecida la acompañante del turismo; el conductor y otra acompañante del turismo sufrieron lesiones graves. El daño total se cifró en 320 000 CZK.
-La causa inmediata de la ocurrencia de todas las SU anteriormente indicadas fue la entrada no autorizada de un vehículo de motor por carretera en el paso a nivel en el momento en que se emitía la alerta luminosa y sonora del dispositivo de señalización de paso a nivel y en el que un tren se aproximaba al paso a nivel ferroviario.
-Desde 2012, la DI recomendó repetidamente al gestor de la infraestructura ferroviaria SŽ (anteriormente SŽDC), con el fin de garantizar la máxima seguridad en las líneas ferroviarias de ámbito nacional y regional, elevar el nivel de protección de los pasos a nivel ferroviarios de modo que, en las reconstrucciones y modernizaciones de líneas y pasos a nivel ferroviarios, ya se proyectara e instalara únicamente un dispositivo de señalización de paso a nivel luminoso complementado con barreras. Al mismo tiempo, la DI, mediante estas recomendaciones de seguridad, recomendó a la DÚ adoptar sus propias medidas encaminadas a garantizar la aplicación de las recomendaciones de seguridad anteriormente indicadas también en los demás gestores de infraestructuras ferroviarias en la República Checa.
-A partir del 1. 4. 2017, fecha en que entró en vigor la modificación de la Ley n.º 266/1994 Sb., las recomendaciones de seguridad de carácter similar se destinaron, de conformidad con el § 53e de la Ley n.º 266/1994 Sb., únicamente a la DÚ. El motivo para emitir estas recomendaciones fue el hecho de que la mayoría de las colisiones con vehículos de carretera con las consecuencias más graves se producen a largo plazo en los pasos a nivel ferroviarios protegidos por un dispositivo de señalización de paso a nivel sin barreras; por el contrario, a largo plazo, desde el punto de vista de la sinestralidad y de las consecuencias, el tipo de protección de los pasos a nivel ferroviarios más favorable es precisamente el dispositivo de señalización de paso a nivel complementado con barreras. El entonces gestor de la infraestructura ferroviaria SŽDC reaccionó a estas recomendaciones, entre otros, de la siguiente manera: «En caso de sustitución de los PZM existentes (dispositivo de señalización de paso a nivel mecánico, nota de la DI) y PZS por tecnología moderna, en el diseño se priorizará la construcción de un dispositivo de señalización de paso a nivel con barreras, siempre que no lo impidan obstáculos técnicos o de explotación significativos. La instalación de un dispositivo de señalización de paso a nivel concreto respetará en todo caso la decisión vigente de la Oficina Ferroviaria sobre el alcance y el modo de protección del paso a nivel ferroviario». La DÚ, entre otras, envió como medida la siguiente declaración: «La Oficina Ferroviaria, como autoridad administrativa ferroviaria, recomienda así permanentemente a la Administración de la Infraestructura Ferroviaria, como gestora de la infraestructura ferroviaria, incluir en la mayor medida posible en el plan de inversiones la instalación de barreras en los pasos a nivel existentes protegidos por un dispositivo de señalización de paso a nivel luminoso. Deberían ser prioritarios los pasos a nivel con un alto volumen de tráfico y con SU repetidas».
-
+### 4.5 Sucesos anteriores de naturaleza análoga
+La Inspección Ferroviaria registra en las infraestructuras de ámbito nacional y regional, en el período comprendido entre el 1 de enero de 2008 y la fecha de ocurrencia de la MU objeto de estudio, 1 154 MU análogas, en las que, en pasos a nivel protegidos por SAE sin barreras de cierre, se produjo la colisión de un tren con vehículos automóviles. En estas MU resultaron fallecidas 187 personas, 844 personas resultaron lesionadas y se produjo un daño de 687 652 688 CZK.
+En el paso a nivel objeto de estudio P3277, la Inspección Ferroviaria registra en el período indicado 1 MU análoga, concretamente la del día 13 de agosto de 2014, en la que se produjo la colisión del tren Os 2605 con un vehículo automóvil. En la MU resultó fallecida la acompañante del vehículo automóvil, y el conductor y otra acompañante del vehículo automóvil sufrieron lesiones graves. El daño total se cifró en 320 000 CZK.
+La causa inmediata de la producción de todas las MU anteriormente indicadas fue la entrada no autorizada de un vehículo automóvil en el paso a nivel en el momento en que se emitía la señalización luminosa y sonora del sistema de enclavamiento del paso a nivel y en el que un tren se aproximaba al paso a nivel.
+Desde 2012, la Inspección Ferroviaria ha recomendado repetidamente al gestor de la infraestructura SŽ (antiguamente SŽDC), con el fin de garantizar la máxima seguridad en las infraestructuras ferroviarias de ámbito nacional y regional, elevar el nivel de protección de los pasos a nivel de tal manera que, en las reconstrucciones y modernizaciones de líneas y pasos a nivel, ya se proyectara e instalara únicamente sistema de enclavamiento del paso a nivel luminoso complementado con barreras de cierre. La Inspección Ferroviaria, al mismo tiempo, mediante estas recomendaciones de seguridad, recomendó a la Autoridad Ferroviaria adoptar las medidas propias encaminadas a garantizar la realización de las recomendaciones de seguridad anteriormente indicadas también en los demás gestores de infraestructuras ferroviarias en la República Checa.
+A partir del 1 de abril de 2017, fecha en que entró en vigor la modificación de la Ley n.º 266/1994 Sb., las recomendaciones de seguridad de carácter análogo se destinaron, de conformidad con el § 53e de la Ley n.º 266/1994 Sb., únicamente a la Autoridad Ferroviaria. El motivo para la emisión de estas recomendaciones fue el hecho de que las colisiones con vehículos automóviles con las consecuencias más graves se producen a largo plazo en los pasos a nivel protegidos por sistema de enclavamiento del paso a nivel sin barreras, mientras que, por el contrario, a largo plazo, desde el punto de vista de la sinestralidad y de las consecuencias, el tipo de protección de los pasos a nivel más favorable es precisamente el sistema de enclavamiento del paso a nivel complementado con barreras de cierre. El gestor de la infraestructura de la época, SŽDC, reaccionó a estas recomendaciones, entre otros medios, de la siguiente manera: «En caso de sustitución de los PZM existentes (sistema de enclavamiento del paso a nivel mecánico, nota de la Inspección Ferroviaria) y PZS por tecnología moderna, en el proyecto se priorizará la construcción de sistemas de enclavamiento del paso a nivel con barreras, siempre que no lo impidan obstáculos técnicos u operativos significativos. La instalación de un sistema de enclavamiento del paso a nivel concreto respetará en todo caso la decisión vigente de la Autoridad Ferroviaria sobre el alcance y el modo de protección del paso a nivel». La Autoridad Ferroviaria, entre otros medios, envió como medida la siguiente declaración: «La Autoridad Ferroviaria, como autoridad administrativa ferroviaria, recomienda así permanentemente a la Administración de la Infraestructura Ferroviaria, como gestora de la infraestructura, incluir en la mayor medida posible en el plan de inversiones la dotación de barreras de cierre a los sistemas de enclavamiento del paso a nivel luminosos existentes. Deberían ser prioritarios los pasos a nivel con alto volumen de tráfico y con sucesos extraordinarios recurrentes».
 
 ## Página 44
 
-La DI sigue apoyando la instalación de barreras en los pasos a nivel ferroviarios (con prioridad en aquellos con mayor volumen de tráfico y condiciones locales desfavorables), sin embargo, en el caso de la emisión de otras recomendaciones de seguridad para SU concretas, tiene en cuenta las características específicas del paso a nivel ferroviario en cuestión y emite dicha recomendación de seguridad de forma más concreta – véase el punto 6 ZZ.
+DI sigue apoyando la instalación de traviesas de cierre en los pasos a nivel (con prioridad en aquellos con mayor momento de tráfico y condiciones locales desfavorables), sin embargo, en el caso de emitir nuevas recomendaciones de seguridad sobre acontecimientos excepcionales concretos, tiene en cuenta las características específicas del paso a nivel en cuestión y dicha recomendación de seguridad se emite de forma más concreta – véase el punto 6 ZZ.
 ## 5 CONCLUSIONES
-### 5.1 Resumen del análisis y conclusiones relativas a las causas del suceso
-La causa inmediata de la SU fue:
+### 5.1 Resumen del análisis y conclusiones relativas a las causas del acontecimiento
+La causa inmediata del acontecimiento excepcional fue:
 •
-la entrada no autorizada de un turismo en el paso a nivel ferroviario P3277 en el momento en que se aproximaba a él el tren Os 6660, causada por la actuación de la conductora del turismo, que no respetó la alerta luminosa y sonora del dispositivo de señalización de paso a nivel y no se aseguró de si podía cruzar el paso a nivel ferroviario de forma segura.
-No se detectó ningún factor contribuyente por parte de la DI.
-No se detectó ninguna causa sistémica por parte de la DI.
+la entrada no autorizada de un automóvil en el paso a nivel P3277 en el momento en que se aproximaba el tren Os 6660, causada por la conducta de la conductora del automóvil, que no respetó la advertencia luminosa y acústica del dispositivo de seguridad del paso a nivel y no se comprobó si podía cruzar el paso a nivel de forma segura.
+No se detectó ningún factor contribuyente por parte de DI.
+No se detectó ninguna causa sistémica por parte de DI.
 ### A summary of the analysis and conclusions with regard to the causes of the
 occurrence
 Causal factor:
@@ -1244,20 +1253,20 @@ crossing.
 Contributing factor: none.
 Systemic factor:
 none.
-### 5.2 Medidas adoptadas para la prevención de las SU
-El gestor de la infraestructura ferroviaria SŽ, en su Evaluación de las causas y circunstancias de la ocurrencia de la SU del 21. 7. 2023, no adoptó ni emitió ninguna medida.
-En el marco de la deliberación del ZZ, el gestor de la infraestructura ferroviaria comunicó el 21. 11. 2023 que:
+### 5.2 Medidas adoptadas para prevenir acontecimientos excepcionales
+El gestor de la vía SŽ, en su Evaluación de las causas y circunstancias de la aparición del acontecimiento excepcional de fecha 21. 7. 2023, no adoptó ni emitió ninguna medida.
+En el marco de la deliberación del ZZ, el gestor de la vía comunicó el día 21. 11. 2023 que:
 •
-había propuesto el paso a nivel objeto de estudio para su inclusión en el plan de inversiones para la instalación de barreras (solicitado el 31. 5. 2023);
+había propuesto el paso a nivel en cuestión para el plan de inversión de instalación de barreras (solicitado el 31. 5. 2023);
 •
 solicitaría y deliberaría con la autoridad administrativa de carreteras y la Policía de la República Checa todos los cambios propuestos en la señalización vial;
 •
-en colaboración con la ciudad de Rumburk, se había eliminado una cerca viva para cumplir con la distancia prescrita Dz.
-El operador ferroviario ČD no adoptó ni emitió ninguna medida.
-El gestor de la vía terrestre envió una fotodocumentación (véase la Fig. n.º 22) que acredita la instalación de nueva señalización vial desde ambos sentidos antes del paso a nivel P3277 y, además, la poda de ramas de árboles y arbustos que limitaban la longitud de visibilidad Dz.
-
+en colaboración con la ciudad de Rumburk, se había eliminado una cerca viva para que se respetara la distancia prescrita Dz.
+El transportista ČD no adoptó ni emitió ninguna medida.
+El gestor de la vía terrestre envió documentación fotográfica (véase la Fig. n.º 22) que acredita la instalación de la nueva señalización vial desde ambos sentidos antes del PNP P3277, así como la poda de ramas de árboles y arbustos que limitaban la longitud de visibilidad Dz.
 
 ## Página 45
+
 
 ### Measures taken since the occurrence
 The infrastructure manager SŽ did not take any measures in the document Evaluation of
@@ -1298,8 +1307,8 @@ La Inspección Ferroviaria, con base en lo dispuesto en el § 53e apartado 1 de 
 •
 la adopción de una medida que garantice la instalación de barreras en el paso a nivel ferroviario P3277, actualmente protegido por un dispositivo de señalización luminoso, que, desde el punto de vista de la barrera óptica, reduzca la probabilidad de que el conductor entre en el paso a nivel ferroviario cuando no responda a la señalización luminosa del paso a nivel en estado de alerta.
 
-
 ## Página 46
+
 
 ### Al Ayuntamiento de Rumburk, como autoridad administrativa de carreteras en materia de vías locales en el territorio administrativo del municipio con competencias ampliadas Rumburk y gestor de la vía terrestre objeto de estudio:
 •
@@ -1332,8 +1341,8 @@ to ensure that the existing traffic signing A 31c „Signal board (80 m)” and 
 conditions of TP 169 Principles for marking traffic situations on roads and TP 65
 Principles for road markings on roads.
 
-
 ## Página 47
+
 
 Addressed to the Czech Ministry of Transport:
 •
@@ -1354,16 +1363,16 @@ Ing. Jan Novák v. r.
 encargado de la dirección del puesto de Praga
 de la Inspección Territorial de Bohemia
 
-
 ## Página 48
+
 
 ## ANEXOS
 Fig. n.º 9: Vista desde la línea en el sentido de circulación del tren Os 6660 hacia el paso a nivel P3277
              Fuente: DI
 Fig. n.º 10: Visibilidad hacia el poste de señalización desde 32 m en el sentido de circulación del 2.º turismo hacia el paso a nivel P3277       Fuente: DI
 
-
 ## Página 49
+
 
 Fig. n.º 11: Visibilidad hacia la línea a la izquierda en el sentido de circulación del 2.º turismo hacia el paso a nivel P3277 con las mismas
 condiciones de iluminación 
@@ -1374,6 +1383,7 @@ condiciones de iluminación
 
 ## Página 50
 
+
 Fig. n.º 13: Vista hacia la vía a la izquierda y tren entrante (aprox. 230 m del PdC) en el sentido de circulación
 2.º V hacia el PdC P3277 en las mismas condiciones de iluminación  
         Fuente: PČR
@@ -1381,58 +1391,51 @@ Fig. n.º 14: Vista hacia la vía a la izquierda y tren entrante (aprox. 150 m d
 2.º V hacia el PdC P3277 en las mismas condiciones de iluminación 
         Fuente: PČR
 
-
 ## Página 51
+
 
 Fig. n.º 15: Vista del PdC P3277 en dirección desde Dymník y de las marcas en la parte superior de la calzada
             Fuente: DI
 Fig. n.º 16: Perfil longitudinal de la vía de carretera (Dymník – centro de Rumburk) que atraviesa el PdC P3277        
 Fuente: SŽ, modificación de ČVUT
 
-
 ## Página 52
+
 
 Fig. n.º 17: Vista previa de la simulación del paso del vehículo determinado por el tramo definido del PdC P3277 (según el perfil longitudinal de SŽ) con las curvas envolventes del vehículo determinado marcadas (color verde)       
    Fuente: datos de SŽ, simulación de ČVUT
 
-
 ## Página 53
+
 
 Fig. n.º 18: Vista previa de la simulación del paso del vehículo determinado por el tramo definido del PdC P3277 (según el perfil longitudinal de SŽ) con las curvas envolventes del vehículo determinado marcadas (color verde)       
    Fuente: datos de SŽ, simulación de ČVUT
 
-
 ## Página 54
 
-Fig. n.º 19: Vista previa de la simulación de la correlación (mutua) del movimiento del tren y del 2.º V antes del encuentro en el PdC P3277, donde
+Obr. č. 19: Vista previa de la simulación de la correlación del movimiento (mutuo) del tren y de la 2. OA antes de la colisión en el PZ P3277, cuando
 t = tiempo hasta la colisión, v = velocidad del tren/coche, s = distancia restante hasta el punto de colisión 
-Fuente: Informe pericial
-
+Fuente: Pericia de experto
 
 ## Página 55
 
-Fig. n.º 20: Vista previa de la simulación de la correlación (mutua) del movimiento del tren y del 2.º V antes del encuentro en el PdC P3277, donde
-t = tiempo hasta la colisión, v = velocidad del tren/coche, s = distancia restante hasta el punto de colisión        Fuente: Informe pericial
-
+Obr. n.º 20: Vista previa de la simulación de la correlación del movimiento (mutuo) del tren y del 2.º OA antes de la colisión en el PZ P3277, cuando
+t = tiempo hasta la colisión, v = velocidad del tren/coche, s = distancia restante hasta el lugar de la colisión        Fuente: Pericia de experto
 
 ## Página 56
 
-Fig. n.º 21: Vista previa de la simulación de la correlación (mutua) del movimiento del tren y del 2.º V antes del encuentro en el PdC P3277, donde
+Fig. n.º 21: Vista previa de la simulación de la correlación del movimiento (mutuo) del tren y del 2.º OA antes de la colisión en el PP P3277, donde
 t = tiempo hasta la colisión, v = velocidad del tren/coche, s = distancia restante hasta el punto de colisión 
-Fuente: Informe pericial
-Fig. n.º 22: Fotodocumentación de la señalización de tráfico y de las longitudes de visibilidad Dz antes del PdC P3277 del 25. 9. 2023 
-Fig. n.º 22: Fotodocumentación de la señalización de tráfico y de las longitudes de visibilidad Dz antes del PdC P3277 del 25. 9. 2023 
+Fuente: Dictamen pericial
+Fig. n.º 22: Documentación fotográfica de la señalización de tráfico y de las longitudes de visibilidad Dz antes del PP P3277 del 25. 9. 2023 
+Fig. n.º 22: Documentación fotográfica de la señalización de tráfico y de las longitudes de visibilidad Dz antes del PP P3277 del 25. 9. 2023 
    Fuente: Ayuntamiento de Rumburk
    Fuente: Ayuntamiento de Rumburk
-
 
 ## Página 57
 
-Fig. n.º 23: Capturas de la grabación de vídeo de la circulación del V hacia el PdC P3277 desde el centro de Rumburk en condiciones de iluminación
-similares a la hora de producción del MU, a distancias de aprox. 90 y 60 m antes del PdC      Fuente: DI
-
+Obr. č. 23: Snímky záznamu videa jízdy OA k ŽP P3277 od centra Rumburku za světelných podmínek obdobných době vzniku MU, a to ve vzdálenosti cca 90 a 60m před ŽP      Zdroj: DI
 
 ## Página 58
 
-Fig. n.º 24: Capturas de la grabación de vídeo de la circulación del V hacia el PdC P3277 desde el centro de Rumburk en condiciones de iluminación
-similares a la hora de producción del MU, a distancias de aprox. 40 y 30 m antes del PdC      Fuente: DI
+Ilustración n.º 24: Imágenes de la grabación de vídeo de la marcha del OA hacia la señal de paso P3277 desde el centro de Rumburk en condiciones lumínicas similares a las del momento de producción del MU, y ello a una distancia de aproximadamente 40 y 30 m antes de la señal de paso      Fuente: DI

@@ -10,13 +10,14 @@ chars: 54559
 ratio_longitud: 1.27
 tokens_in: 22385
 tokens_out: 15621
-verificacion: revisar
-notas_cifras: ["bloque 1: original bilingüe: se compara contra el idioma principal (EN)", "bloque 2: original bilingüe: se compara contra el idioma principal (CS)", "bloque 3: cifras cortas: 11/118", "bloque 4: cifras cortas: 6/83", "bloque 5: original bilingüe: se compara contra el idioma principal (CS)", "bloque 7: cifras cortas: 12/76"]
-avisos: ["bloque 5: ratio 1.63"]
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (CS)", "página 5: original bilingüe: se compara contra el idioma principal (EN)", "página 6: original bilingüe: se compara contra el idioma principal (CS)", "página 7: original bilingüe: se compara contra el idioma principal (CS)", "página 8: cifras cortas: 2/26", "página 9: cifras cortas: 3/24"]
 ---
+
 ## Página 1
+
 
 Inspección Ferroviaria
 República Checa
@@ -41,11 +42,12 @@ NIF: 75009561
 http://www.dicr.cz
 fax: (+420) 224 805 428
 
-
 ## Página 2
 
 
+
 ## Página 3
+
 
 # RESUMEN
 17 de octubre de 2006, 01:43 (16 de octubre de 2006, 23:43 GMT)
@@ -66,11 +68,12 @@ Causa raíz:
 ninguna
 Recomendación: no emitida
 
-
 ## Página 4
 
 
+
 ## Página 5
+
 
 # Índice
  Resumen .............................................................................................................................3
@@ -103,6 +106,7 @@ incluidas las personas en relación contractual ................................
 
 ## Página 6
 
+
 proporción ...............................................................................................................12
 3.1.2 Otras personas .........................................................................................................15
 3.2 Sistema de garantía de la seguridad ...............................................................................15
@@ -132,8 +136,8 @@ proporción ....................................................................
 4.1.1 Descripción definitiva del incidente basada en los hechos constatados en el punto 3 
 ............................................................................................................................20
 
-
 ## Página 7
+
 
 4.2 Análisis ......................................................................................................................20
 4.2.1 Evaluación de los hechos constatados según el punto 3 y exposición de las conclusiones sobre la causa del incidente y la actuación de los servicios de rescate ..........................................20
@@ -152,6 +156,7 @@ proporción ....................................................................
  Foto 2: Rotura de la punta de la aguja de la vía de desvío n.º 3 ........................................................................24
 
 ## Página 8
+
 
 ## 1 RESUMEN
 El 17 de octubre de 2006 a las 01:43 horas se produjo un incidente extraordinario (en adelante, IE) en el transporte ferroviario, cuando en la vía férrea nacional, en el punto kilométrico (pk) 455,939 de la línea 503 Ústí nad Labem-Střekov – Děčín hl. n., dentro del ámbito de la estación ferroviaria (en adelante, ef.) Děčín východ, se descarrilaron seis vehículos ferroviarios (en adelante, VF) del tren Nex 47338 en el punto de desvío n.º 3.
@@ -176,6 +181,7 @@ No se emitió ninguna recomendación de seguridad.
 
 ## Página 9
 
+
 ### 2.1.2 Descripción del incidente extraordinario y del lugar del accidente, incluida la actividad del sistema integrado de rescate y del servicio de rescate
 El tren NEx 47338, compuesto por una locomotora motriz (en adelante, LM) y dieciocho VF remolcados, salió de la ef. Mladá Boleslav město con destino a la ef. Gössnitz (DB). El tren, en el lugar de producción del IE, entraba desde la segunda vía de circulación procedente de la ef. Boletice nad Labem hacia la vía de estación n.º 28 de la ef. Děčín východ, a través del punto de desvío n.º 3, a una velocidad de 40 km/h. La LM y doce VF remolcados pasaron por dicho punto de desvío. Se descarrilaron seis VF de carga de las series Laaes y Laaeks, situados en la parte final del tren, en el punto de desvío.
 Se activó el sistema del sistema integrado de rescate; en el lugar del IE intervinieron el Cuerpo de Bomberos y Rescate de las ČD de Ústí nad Labem (en adelante, CBRR) y la Policía de la República Checa de Děčín. No fue necesario activar el servicio de rescate rápido.
@@ -195,6 +201,7 @@ Empleados participantes del titular de la vía y del transportista:
 el maquinista de la LM 123.004-4, empleado de ČD, a. s., del Depósito de Vehículos sobre Ruedas (en adelante, DVR) de Praga desde 1986, en la función de maquinista desde 1993, en el turno desde las 19:30 horas del 16 de octubre de 2006. El empleado acreditó la Tarjeta de Aptitud para la conducción de vehículos ferroviarios con número de registro 203566, expedida por la Autoridad Ferroviaria de Praga el 29 de mayo de 2003
 
 ## Página 10
+
 
 el despachador de la ef. de cruce de Děčín, empleado de ČD, a. s., desde 1972, en la función desde 1972, en el turno desde las 18:00 horas del 16 de octubre de 2006,
 el telegrafista de la ef. de cruce de Děčín, empleado de ČD, a. s., desde 1976, en la función desde 1976, en el turno desde las 18:00 horas del 16 de octubre de 2006,
@@ -218,6 +225,7 @@ radios y teléfonos.
 ●
 
 ## Página 11
+
 
 ### 2.2.5 Trabajos realizados en el lugar del incidente y en sus inmediaciones
 En el lugar de producción del incidente ni en sus inmediaciones, inmediatamente antes de la producción del incidente, no se realizaron trabajos.
@@ -255,6 +263,7 @@ En el incidente no se produjeron lesiones personales y el servicio de rescate r�
 En el incidente no hubo nadie fallecido ni se produjeron lesiones.
 
 ## Página 12
+
 
 ### 2.3.2 En las mercancías transportadas, equipajes y otros bienes
 El daño total en la mercancía transportada (diecinueve vehículos de carretera de la marca Škoda dañados) asciende a 10 000 000,- Kč.
@@ -299,8 +308,8 @@ y, inmediatamente después, el maquinista se comunicó por radio indicando que n
 miró hacia la entrada de Boletice, vio nubes de polvo y el tren que se había detenido;
 ●
 
-
 ## Página 13
+
 
 comunicó al maquinista que probablemente se había producido un descarrilamiento y fue a mirar al lugar;
 ●
@@ -360,6 +369,7 @@ el 16 de octubre de 2006 el jefe de los técnicos de señales lo envió a realiz
 en los puntos de cruce;
 
 ## Página 14
+
 
 abrió el conmutador de la aguja nº 3 y debía controlar las cotas en ambas reglas en 
 ●
@@ -424,58 +434,27 @@ en la aguja nº 3;
 su tarea era eliminar las posibles anomalías detectadas;
 ●
 
-
 ## Página 15
 
-la prueba de traba se realizó de la forma habitual, él controló el cierre 
+la prueba de enclavamiento se realizaba de la manera habitual, él controlaba el cierre 
 ●
-de ambos ganchos de cierre delanteros y traseros (auxiliares);
-no observó ninguna anomalía, flexión ni otra irregularidad en la aguja nº 3.
+de ambos ganchos de enganche delanteros y traseros (auxiliares);
+no advirtió ningún defecto, deformación ni otra anomalía en la aguja n.º 3.
 ●
 ### 3.1.2 Otras personas
-El Instituto de Investigación del Transporte Ferroviario (VÚŽ) en su peritaje técnico indicó, entre 
-●
-otras cosas:
-Mediante la realización de macrofractografía de la rotura se detectó un incumplimiento 
-significativo del límite inferior del intervalo prescrito del contenido de carbono del material. 
-Este incumplimiento supera ampliamente la tolerancia entre la muestra de colada y el producto. 
-Los requisitos vigentes para el acero 95 ČSD-Vk se incumplen ligeramente en el límite de 
-resistencia. La destrucción final de la punta de la aguja nº 3 se produjo mediante una rotura 
-frágil repentina de la mayor parte de la sección transversal de la punta. El defecto primario que 
-provocó la rotura repentina y única fue una grieta de fatiga originada en el borde del talón de la 
-punta de la aguja. No se detectó otro defecto evidente. La iniciación de la muesca de la grieta 
-de fatiga pudo deberse a una acción externa durante el servicio normal o durante el montaje 
-original. Dado el lugar de iniciación y propagación de la rotura por fatiga como defecto crítico 
-que provocó la rotura frágil de toda la sección transversal de la punta, el VÚŽ constató que la 
-grieta primaria no era detectable mediante inspecciones visuales habituales sin desmontar la 
-punta de la aguja.
+El VÚŽ, en su peritaje técnico, entre otras cosas, constató:
+Mediante la macrofractografía de la fractura se detectó un descenso significativo por debajo del límite inferior del rango prescrito de contenido en carbono del material. Este descenso supera ampliamente la tolerancia entre la muestra de fundición y el producto. Los requisitos aplicables al acero 95 ČSD-Vk se encuentran ligeramente por debajo en el límite de resistencia. La destrucción final de la lengüeta de la aguja n.º 3 se produjo por una fractura frágil repentina de la mayor parte de la sección transversal de la lengüeta. El defecto primario que condujo a la fractura repentina única fue una grieta de fatiga que se originaba en el borde del talón de la lengüeta de la aguja. No se detectó ningún otro defecto aparente. La muesca inicial de la grieta de fatiga pudo originarse por una acción externa durante el funcionamiento normal o durante el montaje original. Dado el lugar de iniciación y la propagación de la fractura por fatiga como defecto crítico que conduce al desprendimiento frágil de toda la sección transversal de la lengüeta, el VÚŽ constató que la grieta primaria no era detectable mediante las inspecciones visuales habituales sin desmontar la lengüeta de la aguja.
 ### 3.2 Sistema de garantía de la seguridad
 ### 3.2.1 Organización marco y forma en que se emiten y ejecutan las instrucciones
-Los requisitos de referencia para la explotación segura de la vía están establecidos por las 
-normativas jurídicas y los procedimientos tecnológicos contenidos en los reglamentos internos 
-del explotador.
-En las agujas y el balasto se realizan inspecciones comisionadas periódicas, controles, 
-mantenimiento y mediciones según el reglamento interno del explotador ČD S 2/3 
-(Organización y realización de inspecciones de las vías ČD), en las que se comprueba si los 
-valores medidos de la posición geométrica de los raíles cumplen las desviaciones operativas 
-límite según lo dispuesto en el art. 7, ČSN 736360-2 (Disposición constructiva y geométrica de 
-la vía de los ferrocarriles y su posición espacial). 
-En las agujas se realizan pruebas de traba según lo dispuesto en el reglamento interno ČD T 100 
-(Explotación del dispositivo de seguridad). Asimismo, se realizan mediciones por ultrasonidos 
-de las puntas y las agujas según lo dispuesto en el anexo 1 del Decreto nº 177/95 Coll., por el 
-que se aprueba el reglamento de construcción y técnica de las vías, en su versión vigente 
-(en adelante, Decreto nº 177) y del reglamento interno del explotador ČD 3/4 (Ensayos no 
-destructivos de los raíles).
-### 3.2.2 Requisitos para los empleados del explotador de la vía y del transportista y su 
-cumplimiento
-Todos los empleados participantes eran técnicamente competentes para el desempeño de la 
-función que ostentaban en el momento de la producción del accidente.
+Los requisitos de referencia para la explotación segura de la vía están establecidos por las disposiciones legales y los procedimientos tecnológicos contenidos en las normas internas del explotador.
+En las agujas y en la superestructura ferroviaria se realizan inspecciones, controles, tratamientos y mediciones comisionales periódicas conforme a la norma interna del explotador ČD S 2/3 (Organización y realización de controles de las líneas ČD), en las que se comprueba si los valores medidos de la posición geométrica de la vía cumplen con las desviaciones operativas límite según lo dispuesto en el artículo 7 de la ČSN 736360-2 (Diseño constructivo y geométrico de la vía de las vías férreas y su posición espacial). En las agujas se realizan pruebas de enclavamiento conforme a lo dispuesto en la norma interna ČD T 100 (Explotación del aparato de señalización). Asimismo, se realizan mediciones por control no destructivo de las lengüetas y agujas conforme a lo dispuesto en el anexo 1 del decreto n.º 177/95 Sb., por el que se aprueba el reglamento de construcción y técnico de las vías, en su versión vigente (en adelante, decreto n.º 177) y de la norma interna del explotador ČD 3/4 (Ensayos no destructivos de los raíles).
+### 3.2.2 Requisitos para el personal del explotador de la vía y del transportista y su aplicación
+Todos los empleados implicados eran, en el momento del suceso, competentes para el desempeño de la función que ocupaban.
 ### 3.2.3 Procedimiento de control interno de la seguridad y sus resultados
-Para la realización de las actividades de control en ČD, a.s. se ha emitido el reglamento interno 
-ČD D15, al cual se introdujo desde el 1. 5. 2004 el «Servicio de verificación del nuevo sistema 
-de actividades de control en las estaciones».
+Para la realización de la actividad de control en ČD, a.s. se ha emitido la norma interna ČD D15, a la que se introdujo, a partir del 1. 5. 2004, el «Ensayo de explotación del nuevo sistema de actividad de control en las estaciones».
 
 ## Página 16
+
 
 en relación con la transformación en curso de ČD, a. s., bajo el número de registro: 55 791/2004-O11 de fecha 8. 4. 
 2004. Las inspecciones no destructivas y mediciones prescriptas se realizaron periódicamente de conformidad 
@@ -523,8 +502,8 @@ Norma para la realización de actividades de control en la explotación de la ci
 Norma para la notificación y la investigación de incidentes.
 ●
 
-
 ## Página 17
+
 
 ČD Ok 2
 Reglamento de formación y pruebas para el personal ferroviario.
@@ -557,6 +536,7 @@ Según el Reglamento de Estación de la estación de Děčín východ, como medi
 
 ## Página 18
 
+
 ### 3.4.4 Vehículos ferroviarios, incluidos los dispositivos de registro automático de datos
 Mediante la inspección visual de los vehículos ferroviarios arrastrados descarrilados en el lugar de la aparición del incidente y tras la realización de una inspección comisionada en el DKV de Ústí nad Labem los días 26 y 27 de octubre de 2007, no se detectaron averías de los vehículos que tuvieran relación causal con la aparición del incidente.
 Mediante la evaluación de la banda de registro del velocígrafo del vehículo ferroviario motorizado n.º 123.004-4 del DKV de Ústí nad Labem, se determinó que el tren Nex 47338 salió de la estación de Všetaty a las 0:19 horas. Tras salir de la mencionada estación, continuó su marcha sin detenerse hasta la estación de Boletice, por la que pasó a las 1:32 horas a una velocidad de 65 km/h. Posteriormente, aumentó su velocidad hasta alcanzar un valor de 70 km/h. A las 1:38 horas, reducía su velocidad a 40 km/h en un tramo de 1220 metros. Alcanzó esta velocidad a las 1:40 horas. Con esta velocidad, el tren continuó su marcha durante un tramo de 1080 metros; posteriormente, se registra una fuerte caída de la velocidad en un tramo de 100 metros hasta la detención completa a las 1:42 horas. La velocidad máxima permitida, que estaba fijada en 40 km/h mediante la señalización de la señal de entrada luminosa, no fue superada por el maquinista. El dispositivo de control de la vigilancia del maquinista estaba en funcionamiento y fue manipulado por el maquinista durante toda la parte anterior del turno.
@@ -569,8 +549,8 @@ La última medición defectoscópica de la punta y del punto de cruce, según lo
 ### 3.5.2 Intercambio de mensajes verbales en relación con el incidente extraordinario, incluidos los documentos del dispositivo de grabación
 Se considera como mensaje realmente demostrado en relación con el incidente extraordinario la transmisión de la información sobre el tiempo previsto de paso del tren Nex 47338 por la estación de Boletice nad Labem entre el jefe de estación de la estación de Boletice nad Labem y el jefe de maniobras del puesto de control St.1 de la estación de Děčín východ. Asimismo, se demuestran las instrucciones emitidas por el jefe de maniobras del puesto de control St.1 de la estación de Děčín východ al señalizador del puesto de control St.1 respecto al establecimiento de la vía de circulación para el tren Nex 47338 desde la segunda vía de circulación procedente de la estación de
 
-
 ## Página 19
+
 
 Boletice nad Labem hacia la vía de estación n.º 28 de la estación de Děčín východ.
 ### 3.5.3 Medidas adoptadas para la protección y seguridad del lugar del incidente extraordinario
@@ -588,26 +568,20 @@ Durante el período supervisado por el DI, no se registró ningún incidente ext
 ## Página 20
 
 ## 4 ANÁLISIS Y CONCLUSIONES
-### 4.1 Descripción final del incidente
-### 4.1.1 Descripción final del incidente basada en los hechos constatados 
+### 4.1 Descripción final de la incidencia
+### 4.1.1 Descripción final de la incidencia basada en los hechos constatados 
 en el punto 3
-El 17 de octubre de 2006 a las 01:32 horas, el despachador de la central de señales St.1 de la estación de Děčín východ recibió del despachador de la estación de Boletice nad Labem la salida prevista del tren Nex 47338 con hora de paso a las 01:35 horas. El tren NEx 47338, compuesto por una locomotora (HDV) y dieciocho vagones remolcados (DV), salió de la estación de Mladá Boleslav město con destino a la estación de Gössnitz (DB).
-
-Aproximadamente en el momento del paso del tren Nex 47338 por la estación de Boletice nad Labem, el despachador de la central de señales St.1 de la estación de Děčín výchord ordenó al señalizador de St.1 establecer la vía de tren para este tren desde la segunda vía de circulación hacia la vía de estación n.º 28. La comunicación de la configuración de la vía de tren se realizó mediante la operación normal del dispositivo de seguridad y se notificó. A las 01:39 horas, el despachador activó la señal de entrada para permitir la entrada del tren en la estación de Děčín výchord. Al observar la entrada del tren, el despachador notó que el tren estaba frenando y, acto seguido, el maquinista del tren Nex 47338 se comunicó por radio indicando que no sabía por qué el tren se detenía. Posteriormente, el despachador observó una nube de polvo en la parte trasera del tren y este se detuvo. A continuación, comprobó que se había producido un descarrilamiento de los vagones (DV) situados en la parte final del tren. Esta circunstancia la comunicó por radio al maquinista y activó el plan de notificación.
-
-El tren entraba desde la segunda vía de circulación hacia la vía de estación número 28 a través del punto de cruce n.º 3 a una velocidad de 40 km/h. El incidente (MU) ocurrió en el punto de cruce n.º 3, en el punto kilométrico 455,939, según el kilometraje de la línea 503. Por este punto de cruce pasaron la locomotora (HDV) y doce vagones remolcados (DV). Seis vagones cargados de las series Laaes y Laaeks, situados al final del tren, se descarrilaron en el punto de cruce.
-
-Los puntos de cruce para la entrada del tren Nex 47338 fueron operados centralizadamente por el señalizador desde la central de señales St.1; la señal de entrada se cambió a la posición que permitía la circulación del tren por el despachador de la central de señales St.1. La vía de tren se configuró desde la segunda vía de circulación hacia la vía de estación n.º 28 mediante la operación normal del dispositivo de seguridad. Las posiciones de todos los puntos de cruce en la vía de tren para este tren coincidían con la tabla de cierre y el cierre de la vía de tren se realizó correctamente.
-
+El 17 de octubre de 2006 a las 01:32 horas, el jefe de estación del puesto de mando St.1 de la estación Děčín východ recibió del jefe de estación de la estación Boletice nad Labem la salida prevista del tren Nex 47338 con hora de paso a las 01:35 horas. El tren NEx 47338, compuesto por la locomotora y dieciocho vagones de remolque, salió de la estación Mladá Boleslav město y se dirigía a la estación Gössnitz (DB).
+Aproximadamente en el momento del paso del tren Nex 47338 por la estación Boletice nad Labem, el jefe de estación del puesto de mando St.1 de la estación Děčín východ ordenó al operador de señales del St.1 la establecimiento del itinerario de tren para este tren desde la vía de circulación n.º 2 hasta la vía de estación n.º 28. La comunicación del establecimiento del itinerario de tren se realizó mediante la operación normal del dispositivo de enclavamiento y se confirmó. A las 01:39 horas, el jefe de estación realizó la puesta de la señal de entrada en la indicación que permite la entrada del tren en la estación Děčín východ. Al observar la entrada del tren, advirtió que el tren disminuía la velocidad e inmediatamente se comunicó por radiotelefonía con el maquinista del tren Nex 47338, quien le indicó que no sabía por qué el tren se detenía. A continuación, el jefe de estación observó una nube de polvo en la parte trasera del tren y el tren se detuvo. Posteriormente comprobó que se había producido el descarrilamiento de vagones de remolque en la cola del tren. Comunicó este hecho al maquinista por radiotelefonía y activó el plan de aviso.
+El tren entraba desde la vía de circulación n.º 2 en la vía de estación n.º 28 a través de la aguja n.º 3 a una velocidad de 40 km·h-1. La incidencia se produjo en la aguja n.º 3, en el km 455,939, estación según la línea 503. A través de esta aguja pasaron la locomotora y doce vagones de remolque. Seis vagones de remolque cargados de las series Laaes y Laaeks, situados en la cola del tren, descarrilaron en la aguja.
+Las agujas para la entrada del tren Nex 47388 fueron manejadas centralmente por el operador de señales desde el puesto de mando St.1; la señal de entrada fue conmutada a la posición que permite la circulación del tren por el jefe de estación en el puesto de mando St.1. El itinerario de tren fue establecido desde la vía de circulación n.º 2 hasta la vía de estación n.º 28 mediante la operación normal del dispositivo de enclavamiento. Las posiciones de todas las agujas en el itinerario de tren para este tren coincidían con la tabla de bloqueo y el bloqueo del itinerario de tren se realizó.
 ### 4.2 Análisis
-### 4.2.1 Evaluación de los hechos constatados según el punto 3 y presentación de conclusiones sobre la causa 
-del incidente y la actuación de los servicios de rescate
-Las personas que dirigían o participaban en la dirección del tráfico ferroviario realizaron las actividades de seguridad para la entrada del tren Nex 47338 desde la segunda vía de circulación hacia la vía de estación n.º 28 de la estación de Děčín výchord, de conformidad con los procedimientos tecnológicos contenidos en las normas internas del explotador, no se detectaron averías.
-
-La vía de tren se configuró mediante la operación normal del dispositivo de seguridad y, tras la inspección realizada del estado, funcionamiento y actividad de los elementos del dispositivo de seguridad de la central de señales St.1 y de los elementos en la vía, no se detectaron averías en relación causal con la aparición del incidente (MU).
-
+### 4.2.1 Evaluación de los hechos constatados de acuerdo con el punto 3 y exposición de las conclusiones sobre la causa de la incidencia y la actuación de los servicios de emergencia
+Las personas que dirigen o participan en la dirección del transporte ferroviario realizaron las actuaciones para asegurar la entrada del tren Nex 47338 desde la vía de circulación n.º 2 en la vía de estación n.º 28 de la estación Děčín východ de conformidad con los procedimientos tecnológicos recogidos en las normativas internas del operador; no se detectaron anomalías.
+El itinerario de tren fue establecido mediante la operación normal del dispositivo de enclavamiento y, sobre la base de la inspección realizada del estado, la función y la actuación de los elementos del dispositivo de enclavamiento del puesto de mando St. 1 y de los elementos en la vía, no se detectaron anomalías en relación causal con el origen de la incidencia.
 
 ## Página 21
+
 
 Las normas de explotación del tráfico ferroviario aplicadas a los procedimientos tecnológicos contenidos en las normas internas del explotador se respetaron durante la circulación del tren Nex 47338; no se detectaron averías.
 
@@ -633,8 +607,8 @@ No se detectaron.
 ### 4.3.3 Causas derivadas del marco normativo y del uso del sistema de garantía de la seguridad
 No se detectaron.
 
-
 ## Página 22
+
 
 ### 4.4 Hallazgos complementarios
 ### 4.4.1 Deficiencias y omisiones detectadas durante la investigación de las causas y las circunstancias de aparición 
@@ -666,13 +640,13 @@ Director
 Inspección Territorial de Praga
 De la Inspección Territorial de Praga
 
-
 ## Página 23
+
 
 ## 7 ANEXOS
 Foto 1: Vagones descarrilados del tren Nex 47338
 
-
 ## Página 24
+
 
 Foto 2: Rotura de la aguja izquierda del punto de cruce n.º 3

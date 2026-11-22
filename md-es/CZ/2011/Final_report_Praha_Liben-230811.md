@@ -10,13 +10,14 @@ chars: 98956
 ratio_longitud: 1.24
 tokens_in: 62407
 tokens_out: 40404
-verificacion: revisar
-notas_cifras: ["bloque 2: original bilingüe: se compara contra el idioma principal (PT)", "bloque 3: original bilingüe: se compara contra el idioma principal (CS)", "bloque 4: original bilingüe: se compara contra el idioma principal (CS)", "bloque 5: cifras cortas: 2/131", "bloque 6: original bilingüe: se compara contra el idioma principal (CS); cifras cortas: 1/70", "bloque 7: original bilingüe: se compara contra el idioma principal (CS)"]
-avisos: ["bloque 4: ratio 1.86", "bloque 6: ratio 1.64", "bloque 7: ratio 1.84", "bloque 8: ratio 1.68", "bloque 12: ratio 1.69"]
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 6: original bilingüe: se compara contra el idioma principal (EN)", "página 7: original bilingüe: se compara contra el idioma principal (PT)", "página 8: original bilingüe: se compara contra el idioma principal (PT)", "página 10: cifras cortas: 1/17", "página 12: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 Inspección Ferroviaria
 República Checa
@@ -44,11 +45,12 @@ IČ:   75009561
 http://www.dicr.cz
 Tel.: 224 805 428
 
-
 ## Página 2
 
 
+
 ## Página 3
+
 
 # RESUMEN
 Gravedad:
@@ -104,6 +106,7 @@ entrada y salida de pasajeros únicamente mediante el uso de la señal.
 
 ## Página 4
 
+
 2) Dirigidas a la empresa ferroviaria České dráhy, a. s.:
 se recomienda acelerar la instalación de los componentes móviles del ETCS en los vehículos
 •
@@ -121,12 +124,13 @@ se recomienda adoptar las medidas necesarias para forzar la implantación de las
 recomendaciones anteriores por parte de otro gestor de infraestructura (IM) y otra empresa
 ferroviaria (RU) en la República Checa.
 
-
 ## Página 5
+
 
 Este informe final es público y todos los documentos y hechos están respaldados por el expediente de investigación.
 
 ## Página 6
+
 
 # Índice
  Resumen .............................................................................................................................3
@@ -156,8 +160,8 @@ rescate y del servicio de rescate ..............................................
 3 Registro de las declaraciones prestadas ................................................................................19
 3.1 Resumen de las declaraciones prestadas (sujeto a protección de la identidad de las personas) ................................19
 
-
 ## Página 7
+
 
 3.1.1 Empleados del gestor de la infraestructura y del transportista, incluidas personas en relación contractual ...............................................................................................................19
 3.1.2 Otras personas .........................................................................................................20
@@ -190,6 +194,7 @@ rescate y del servicio de rescate ..............................................
 
 ## Página 8
 
+
 ............................................................................................................................32
 4.2 Análisis ......................................................................................................................33
 4.2.1 Evaluación de los hechos constatados de acuerdo con el punto 3 y formulación de conclusiones sobre la causa del suceso excepcional y la actuación de los servicios de rescate ..........................................33
@@ -210,8 +215,8 @@ rescate y del servicio de rescate ..............................................
  Fig. n.º 8: Vista de la cabina del maquinista del tren Os 9326 ...........................................43
  Fig. n.º 9: 1.º vehículo de tracción dañado de la maniobra ........................................................44
 
-
 ## Página 9
+
 
 ## Lista de siglas y símbolos utilizados
 COP
@@ -281,8 +286,8 @@ inspector principal
 žst.
 estación ferroviaria
 
-
 ## Página 10
+
 
 ## 1 RESUMEN
 Grupo del suceso:
@@ -322,6 +327,7 @@ a la derecha de la 6.ª vía, era inequívocamente visible y el jefe de estació
 ninguna instrucción al respecto.
 
 ## Página 11
+
 
 Causas en el sistema de seguridad:
 no adopción de las propias medidas correspondientes para prevenir
@@ -374,10 +380,10 @@ mediante un dispositivo técnico.
 Al Organismo Ferroviario se le recomienda la adopción de una medida propia, 
 encaminada a garantizar la realización de las recomendaciones de seguridad 
 mencionadas anteriormente también por parte de los demás operadores 
-ferroviarios y transportistas en la República Checa. 
-
+ferroviarios y transportistas en la República Checa.
 
 ## Página 12
+
 
 ## 2 DATOS RELATIVOS AL SUCESO EXTRAORDINARIO
 ## 2.1
@@ -396,42 +402,18 @@ aguja n.º 34N, con una maniobra de maniobras. Antes de la llegada regular del t
 9326 a la est. Praha-Libeň, se había acordado una maniobra desde el 28. SK hasta la 
 vía de maniobra "A" entre el jefe de maniobras y el panelista jefe de estación de la est. 
 Praha-Libeň. Tras la establecimiento de la ruta de maniobra hacia la vía de maniobra 
-"A", la maniobra 
-
+"A", la maniobra
 
 ## Página 13
 
-se inició más tarde de lo acordado, la maniobra se puso en movimiento a las 21:48 
-horas. El tren Os 9326 entraba en la est. Praha-Libeň bajo la señal PN debido a una 
-vía libre según el ROV n.º 05026, vinculada al cambio del equipo de enclavamiento 
-existente de la estación a ESA 33. El tren Os 9326 no iba retrasado y circulaba según 
-el horario regular. Tras detenerse en el andén 1 en el 6. SK y tras el expedición de los 
-pasajeros, el maquinista recibió del jefe de tren la señal "Consentimiento para la 
-salida", cerró las puertas del tren y se puso en marcha con el tren. El tren Os 9326 
-pasó la señal de viaje Lc06 en el km 404,572 con una señal que prohibía la circulación y 
-entró en la ruta de maniobra establecida, donde chocó con el HDV de la maniobra 
-remolcada.
-En el suceso extraordinario resultaron heridos el maquinista y el jefe de tren del tren Os 
-9326 y, además, 3 pasajeros de dicho tren.
-Fig. n.º 2: HDV de la maniobra
-La colisión del tren Os 9326 con la maniobra fue comunicada por el jefe de estación a 
-la central de avisos de la RZZS y HZS de la Ciudad de Praga. El panelista jefe de estación 
-comunicó la ocurrencia del suceso extraordinario al HZS SŽDC y al despachador 
-eléctrico. El jefe de tren del tren Os 9326 comunicó la colisión del tren y de la maniobra 
-a la central de avisos de la línea 112. Los jefes de estación actuaron según el esquema 
-de avisos, comunicaron la ocurrencia del suceso extraordinario y activaron el IZS.
-El jefe de tren del tren Os 9326 y el revisor de pasajeros de dicho tren abrieron 
-conjuntamente las puertas de embarque del DV, comprobaron que se había producido 
-una colisión y un incendio en el HDV de la maniobra, y comenzaron a evacuar a los 
-pasajeros del tren. La evacuación de unos 30 pasajeros del tren Os 9326 fue asimismo 
-garantizada, tras la llegada al lugar de ocurrencia del suceso extraordinario, por los 
-efectivos de la PČR. Posteriormente se utilizaron medios contra incendios del tren Os 
-9326 para extinguir el incendio en el HDV de la maniobra. No obstante, debido a la 
-extensión del incendio y al riesgo de explosión, los efectivos de la PČR se retiraron a 
-una distancia segura. Tras la llegada de más efectivos de la PČR, se aseguró el lugar 
-del suceso extraordinario y se realizó la atención primaria
+iniciado más tarde de lo acordado, la maniobra de maniobras se puso en movimiento a las 21:48 horas. El tren Os 9326 entraba en la est. Praha-Libeň bajo la señal PN debido a una interrupción según el ROV n.º 05026, relacionada con el cambio del actual aparato de enclavamiento de la estación a ESA 33. El tren Os 9326 no estaba retrasado y circulaba según el horario de circulación regular. Tras detenerse en el andén 1 en la 6. SK y el servicio a los pasajeros, el maquinista recibió del jefe de tren la señal "Consentimiento para la salida", cerró las puertas del tren y puso el tren en marcha. El tren Os 9326 pasó la señal de vía Lc06 en el km 404,572 con señal que prohibía la circulación y entró en la vía de maniobras establecida, donde chocó con la locomotora (HDV) de la maniobra de maniobras.
+En el MU se produjeron lesiones al maquinista y al jefe de tren del tren Os 9326, así como a 3 pasajeros en dicho tren.
+Fig. n.º 2: HDV de la maniobra de maniobras
+La colisión del tren Os 9326 con la maniobra de maniobras fue comunicada por el jefe de estación principal al puesto de aviso RZZS y HZS de la ciudad capital de Praga. El jefe de estación panelista comunicó la ocurrencia del MU al HZS SŽDC y al despachador eléctrico. El jefe de tren del tren Os 9326 comunicó la colisión del tren con la maniobra de maniobras al puesto de aviso de la línea 112. Los jefes de estación actuaron según el esquema de aviso, comunicaron la ocurrencia del MU y activaron el IZS.
+El jefe de tren del tren Os 9326 y el revisor de pasajeros de dicho tren abrieron conjuntamente las puertas de entrada DV, comprobaron que se había producido una colisión y un incendio en la locomotora (HDV) de la maniobra de maniobras, y comenzaron a evacuar a los pasajeros del tren. La evacuación de unos 30 pasajeros del tren Os 9326 fue asimismo asegurada, tras la llegada al lugar de la ocurrencia del MU, por los servicios de PČR. Posteriormente se utilizaron medios antincendio del tren Os 9326 para extinguir el incendio de la locomotora (HDV) de la maniobra de maniobras. Debido a la magnitud del incendio y al peligro de explosión, los servicios de PČR se retiraron a una distancia segura. Tras la llegada de más servicios de PČR se aseguró el lugar del MU y se realizó la primera atención
 
 ## Página 14
+
 
 de las personas evacuadas. Tras la llegada de los servicios de emergencia JPO HZS SŽDC Praga y HZS de la ciudad de Praga, el incendio fue extinguido. El RZZS en el lugar del accidente realizó la atención sanitaria especializada a los pasajeros evacuados y trasladó a los heridos a un centro médico.
 En el lugar del accidente se constató lo siguiente:
@@ -446,8 +428,8 @@ En el panel del aparato de enclavamiento de estación se indicaba la constituci�
 El accidente fue comunicado al COP DI Praga por la persona designada para la investigación de las causas y circunstancias del accidente por parte del gestor de la infraestructura y de ambos transportistas (en adelante, la persona designada) el 23 de agosto de 2011 a las 21:57 horas. Dadas las consecuencias y la magnitud del accidente, la DI inició la investigación de las causas y circunstancias del accidente en el lugar del accidente, de conformidad con lo dispuesto en el apartado 1 del artículo 53b de la Ley n.º 266/1994 Sb., de ferrocarriles, en su versión vigente (en adelante también Ley n.º 266/1994 Sb.).
 Para la investigación y determinación de las causas y circunstancias del accidente, la DI designó a la Inspección Territorial de Praga. En base a los hechos constatados, no fue necesario constituir un equipo de inspectores superiores de la DI. La autorización de la DI para la retirada de las consecuencias del accidente se emitió el 24 de agosto de 2011 a las 00:10 horas. El método de procedimiento se estableció de forma operativa según la evolución de la investigación, incluido el uso de consultas con otras personas cualificadas de la DI. La investigación se basó en los propios conocimientos y hallazgos en el lugar del accidente, la evaluación de la propia documentación, el estado del aparato de enclavamiento, y la documentación solicitada obtenida durante la investigación por parte del gestor de la infraestructura y de ambos transportistas.
 
-
 ## Página 15
+
 
 ## 2.2
 ### Circunstancias del accidente
@@ -478,6 +460,7 @@ La señal de vía Lc06 en el km 404,572 es de poste, de cuatro luces, complement
 
 ## Página 16
 
+
 ### 2.2.4 Uso de medios de comunicación
 Para la comunicación se utilizaron radiotransmisores Motorola, simplex en la red STE1 (157,625 MHz) utilizados para la maniobras de la 1.ª reserva en la playa de clasificación.
 ### 2.2.5 Trabajos realizados en el lugar del suceso excepcional y en sus proximidades
@@ -492,8 +475,8 @@ Tras finalizar los trabajos de vía y de limpieza y la reparación de la catenar
 El plan IZS fue activado simultáneamente con la notificación de la producción de este suceso excepcional a los órganos de investigación, según el § 7 del decreto n.º 376/2006 Sb, sobre el sistema de seguridad de la explotación de la vía y del tráfico ferroviario y los procedimientos en caso de producción de sucesos excepcionales en las vías, en la versión vigente (en adelante también decreto n.º 376/2006 Sb.). En el lugar de producción intervinieron los cuerpos de RZZS de la ciudad de Praga, HZS de la ciudad de Praga, JPO HZS SŽDC Praha y Policía ČR.
 El suceso excepcional es investigado por la PČR, Dirección Regional de Policía de la Ciudad de Praga, Dirección Distrital de Policía Praha III, Servicio de Policía Criminal e Investigación, 3.º Grupo Permanente de Intervención, con el n.º de referencia: ORIII-12081/TČ-2011-001392.
 
-
 ## Página 17
+
 
 ## 2.3
 ### Fallecimientos, lesiones y daños materiales
@@ -527,90 +510,91 @@ Maquinista de la unidad de maniobras – del Acta con el empleado se desprende, 
 
 ## Página 18
 
-la unidad de maniobras se desprendió y retrocedió unos 30 m, el operador de maniobras lo detuvo en el último vagón.
+El tramo de maniobras se desprendió y retrocedió unos 30 m, el maniobrador lo detuvo en el último vagón.
 •
-Jefe de maniobras – del Acta con el empleado, entre otras cosas, se desprende:
-se acordó el viaje de la maniobra de reserva a la vía 28 para la carga y de vuelta a la vía de maniobra "A";
+Jefe de maniobras – Del Acta con el empleado, entre otras cosas, se desprende:
+se acordó el viaje de la reserva a la vía 28 para la carga y de vuelta a la vía de tracción "A";
 •
-se estableció la ruta de maniobras desde la 28. SK, en el semáforo había la señal "Maniobras 
+se estableció la ruta de maniobras desde la 28. SK, en el semáforo había la señal "Maniobras
 •
 permitidas";
-emitió la instrucción al maquinista de la unidad de maniobras para que se desplazara a la vía de maniobra "A";
+emitió la orden al maquinista del tramo de maniobras para que se dirigiera a la vía de tracción "A";
 •
-caminó en dirección al vertedero, la visión en dirección a los andenes la tenía obstruida por el DV, en el 
+caminó en dirección al vertedero, la visión en dirección a los andenes la tenía obstruida el DV, en el
 •
-último momento vio que un tren de pasajeros se dirigía hacia la unidad de maniobras;
-el maquinista de la unidad de maniobras logró pitar antes de la colisión.
+último momento vio que un tren de pasajeros se dirigía hacia el tramo de maniobras;
+el maquinista del tramo de maniobras logró pitar antes de la colisión.
 •
-Jefe de señales de la estación de Praga-Libeň – del Acta con el empleado, entre otras cosas, se desprende:
-acordó la ruta de maniobras desde la 28. SK hasta la vía de maniobra "A" con el jefe de maniobras;
+Jefe de estación panelista de la est. Praha-Libeň – Del Acta con el empleado, entre otras cosas, se desprende:
+acordó la ruta de maniobras desde la 28. SK hasta la vía de tracción "A" con el jefe de maniobras;
 •
-transmitió la solicitud al jefe de estación para el establecimiento de la ruta de maniobras;
+transmitió la solicitud al jefe de estación para que estableciera la ruta de maniobras;
 •
-la unidad de maniobras no se puso en marcha hasta después de unos 5 minutos.
+el tramo de maniobras se puso en marcha solo tras unos 5 minutos.
 •
-Jefe de estación de Praga-Libeň – del Acta con el empleado, entre otras cosas, se desprende:
-permitió la entrada del tren Os 9326 en la estación de Praga-Libeň con la señal "PN" en la vía n.º 6;
+Jefe de estación de la est. Praha-Libeň – Del Acta con el empleado, entre otras cosas, se desprende:
+permitió la entrada del tren Os 9326 en la est. Praha-Libeň con la señal "PN" en la vía n.º 6;
 •
-estableció la ruta de maniobras desde la 28. SK hasta la vía de maniobra "A" porque en ese momento el tren Os 
+estableció la ruta de maniobras desde la 28. SK hasta la vía de tracción "A" puesto que en ese
 •
-9326 aún no se encontraba en el tramo de aproximación;
-tras el establecimiento de la ruta de maniobras, la unidad de maniobras no se puso inmediatamente en movimiento, el jefe de 
+momento el tren Os 9326 aún no se encontraba en el tramo de aproximación;
+el tramo de maniobras no se puso inmediatamente en movimiento tras el establecimiento de la ruta
 •
-maniobras no se comunicó, el tren de pasajeros se detuvo en el andén 1;
-en el panel vio la ocupación del tramo de la aguja 35N y luego se oyó una explosión.
+de maniobras, el jefe de maniobras no se comunicó, el tren de pasajeros se detuvo en el andén 1;
+en el panel vio la ocupación del tramo de la aguja 35N y a continuación se oyó una explosión.
 •
-Maquinista del tren Os 9326 – del Acta con el empleado, entre otras cosas, se desprende:
+Maquinista del tren Os 9326 – Del Acta con el empleado, entre otras cosas, se desprende:
 partió a tiempo de Kolín con el tren Os 9326, el viaje transcurrió sin incidencias;
 •
-entró en la estación de Praga-Libeň, según su declaración, con la señal: "Con precaución ante la señal de 
+entró en la est. Praha-Libeň, según su declaración, con la señal: "Con precaución ante la señal de
 •
 llamada";
 además no recuerda nada más.
 •
-Jefe de tren del tren Os 9326 – del Acta con el empleado, entre otras cosas, se desprende:
-el tren Os 9326 se detuvo en el andén 1 y se realizó el ascenso y descenso de pasajeros;
+Jefe de tren del tren Os 9326 – Del Acta con el empleado, entre otras cosas, se desprende:
+el tren Os 9326 se detuvo en el andén 1 y se produjo la bajada y subida de pasajeros;
 •
-tras finalizar el ascenso de pasajeros, transmitió al maquinista la señal "Autorización para la salida", 
+tras finalizar la subida de pasajeros, transmitió al maquinista la señal "Autorización para la
 •
-subió al convoy y el tren se puso en marcha tras un momento;
-en el semáforo de vía Lc06, al mirar hacia la parte delantera del tren, vio la señal; la señal del semáforo no la 
+salida", subió al convoy y el tren se puso en marcha un momento después;
+en el semáforo de viaje Lc06, al mirar hacia la parte delantera del tren, vio la señal, la señal del
 •
-recuerda debido a la lesión posterior;
-tras la salida del tren, se fue a realizar la comprobación de los títulos de transporte, tras un momento oyó un estruendo, 
+semáforo no la recuerda debido a la lesión posterior;
+tras la salida del tren, se fue a realizar la comprobación de los documentos de viaje, un momento
 •
-el tren se detuvo bruscamente, cayó al suelo y al hacerlo se golpeó contra el respaldo y el suelo;
-se apagó la iluminación en el vagón, se fue en dirección al maquinista para averiguar qué había ocurrido, en el camino 
+después oyó un estruendo, el tren se detuvo bruscamente, cayó al suelo y al hacerlo se golpeó contra
+el respaldo y el suelo;
+se apagó la iluminación en el vagón, se dirigió hacia el maquinista para averiguar qué había
 •
-encontró al revisor de pasajeros del tren, juntos abrieron la puerta y comprobaron que se había producido una
-colisión y un incendio entre trenes;
+ocurrido, en el camino se encontró al revisor de pasajeros del tren, juntos abrieron la puerta y
+comprobaron que se había producido una colisión y un incendio entre trenes;
 iniciaron la evacuación de los pasajeros.
 •
 ### 3.1.2 Otras personas
-Otras personas no aportaron explicaciones sobre este accidente ferroviario.
-
+Otras personas no aportaron explicaciones sobre esta MU.
 
 ## Página 19
 
 ## 3.2
 ### Sistema de garantía de la seguridad
 ### 3.2.1 Organización marco y forma en que se emiten y ejecutan las instrucciones
-El gestor de la infraestructura tiene implantado un sistema de seguridad para la explotación de la infraestructura y ha emitido, entre otros, normas internas de explotación de la infraestructura, cuya parte son los procedimientos tecnológicos que rigen las actividades para garantizar la entrada de trenes en instalaciones con bifurcación de vías y, asimismo, las actividades para la realización de maniobras en la estación.
-Sobre la base de los hechos constatados, el DI constata que el gestor de la infraestructura ha garantizado el cumplimiento de los mencionados procedimientos tecnológicos y, con ello, del sistema implantado de seguridad para la explotación de la infraestructura.
-### No se detectó ninguna anomalía.
-Los transportistas participantes en el accidente ferroviario tienen implantado un sistema de seguridad para la explotación del transporte ferroviario y han emitido, entre otros, normas internas, cuya parte son los procedimientos tecnológicos que garantizan las actividades establecidas por las normas para la explotación del transporte ferroviario, en este caso concreto especialmente para la conducción de vehículos ferroviarios.
-Sobre la base de los hechos constatados, el transportista del tren Os 9326 no garantizó el cumplimiento de los mencionados procedimientos tecnológicos y, con ello, del sistema implantado de seguridad para la explotación del transporte ferroviario.
-### Se detectó una anomalía.
-### 3.2.2 Requisitos para el personal del gestor de la infraestructura y del transportista y su aplicación
-El requisito de idoneidad técnica de las personas que garantizan la explotación de la infraestructura lo establece la disposición del § 22 apartado 1 letra c) de la ley n.º 266/1994 Sb. Para las personas que dirigen o participan en la dirección del transporte ferroviario, este requisito lo establece también la disposición del § 14 apartado 4 del decreto n.º 173/1995 Sb., por el que se dicta el Reglamento de circulación ferroviaria, en su versión vigente (en adelante también decreto n.º 173/1995 Sb.).
-La idoneidad técnica, con base en las mencionadas disposiciones legales, la estableció el gestor de la infraestructura para las personas que dirigen o participan en la dirección del transporte ferroviario, en la categoría laboral (profesión) de jefe de señales, en la norma interna SŽDC Zam 1 (provisional) – Norma sobre la idoneidad técnica de los empleados de la Administración de la Infraestructura de Transporte Ferroviario, organización estatal, aprobada por decisión del director general de SŽDC de fecha 30 de junio de 2008, n.º de expediente: 23 138/08 OKS, en vigor desde el 1 de julio de 2008.
-Según la documentación aportada por el transportista, el jefe de estación y el jefe de señales del panel eran técnicamente idóneos para la actividad laboral que desempeñaban.
-### No se detectó ninguna anomalía.
-El requisito de idoneidad técnica de las personas participantes en la explotación del transporte ferroviario lo establece la disposición del § 35 apartado 1 letra f) de la ley n.º 266/1994 Sb. y el § 33 apartados 1 y 2 del decreto n.º 173/1995 Sb.
-Las condiciones de edad, formación e idoneidad técnica de las personas que pueden conducir un vehículo ferroviario las establece la disposición del decreto n.º 101/1995 Sb., por el que se dicta el Reglamento de idoneidad sanitaria y técnica de las personas para la explotación de la infraestructura y del transporte ferroviario, en su versión vigente (en adelante también decreto n.º 101/1995 Sb.).
-La idoneidad técnica, con base en las mencionadas disposiciones legales, la estableció el transportista ČD para las personas participantes en la explotación del transporte ferroviario en la categoría laboral de maquinista
+El gestor de la infraestructura dispone de un sistema de seguridad para la explotación de la infraestructura y ha emitido, entre otros, reglamentos internos de explotación de la infraestructura, cuya parte integrante son los procedimientos tecnológicos que rigen las actividades relativas a la garantía de la entrada del tren en la instalación con bifurcación de vías y, asimismo, las actividades de maniobra en la estación.
+Sobre la base de los hechos constatados, el DI constata que el gestor de la infraestructura ha garantizado el cumplimiento de los mencionados procedimientos tecnológicos y, con ello, del sistema de seguridad para la explotación de la infraestructura establecido.
+### No se detectó ningún defecto.
+Los ferrovarios participantes en el MU disponen de un sistema de seguridad para la explotación del transporte ferroviario y han emitido, entre otros, reglamentos internos cuya parte integrante son los procedimientos tecnológicos que garantizan las actividades establecidas por las normas para la explotación del transporte ferroviario, en el presente caso en particular para la conducción de los vehículos ferroviarios.
+Sobre la base de los hechos constatados, el ferrovario del tren Os 9326 no ha garantizado el cumplimiento de los mencionados procedimientos tecnológicos y, con ello, del sistema de seguridad para la explotación del transporte ferroviario establecido.
+### Se detectó un defecto.
+### 3.2.2 Requisitos aplicables al personal del gestor de la infraestructura y del ferrovario y su cumplimiento
+El requisito de aptitud profesional de las personas que garantizan la explotación de la infraestructura lo establece la disposición del § 22 apartado 1 letra c) de la ley núm. 266/1994 Sb. Para las personas que conducen o participan en la conducción del transporte ferroviario, este requisito lo establece asimismo la disposición del § 14 apartado 4 del decreto núm. 173/1995 Sb., por el que se aprueba el Reglamento de circulación ferroviaria, en su versión vigente (en adelante también decreto núm. 173/1995 Sb.).
+La aptitud profesional, con arreglo a las disposiciones legales mencionadas más arriba, la fijó el gestor de la infraestructura para las personas que conducen o participan en la conducción del transporte ferroviario, con la clasificación laboral (profesión) de jefe de estación, en el reglamento interno SŽDC Zam 1 (provisional) – Reglamento sobre la aptitud profesional de los empleados de la Administración de la Infraestructura Ferroviaria, organización estatal, aprobado por decisión del director general de SŽDC de fecha 30 de junio de 2008, ref. núm.: 23 138/08 OKS, en vigor desde el 1 de julio de 2008.
+Conforme a la documentación presentada por el ferrovario, el jefe de estación y el jefe de estación de panel eran profesionalmente aptos para la actividad laboral desempeñada.
+### No se detectó ningún defecto.
+El requisito de aptitud profesional de las personas participantes en la explotación del transporte ferroviario lo establece la disposición del § 35 apartado 1 letra f) de la ley núm. 266/1994 Sb. y el § 33 apartados 1 y 2 del decreto núm. 173/1995 Sb.
+Las condiciones de edad, formación y aptitud profesional de las personas que pueden conducir un vehículo ferroviario las establece la disposición del decreto núm. 101/1995 Sb., por el que se aprueba el Reglamento de aptitud sanitaria y profesional de las personas para la explotación de la infraestructura y del transporte ferroviario, en su versión vigente (en adelante también decreto núm. 101/1995 Sb.).
+La aptitud profesional, con arreglo a las disposiciones legales mencionadas más arriba, la fijó el ferrovario ČD para las personas participantes en la explotación del transporte ferroviario con la clasificación laboral de maquinista
 
 ## Página 20
+
 
 y trabajador del servicio de trenes de pasajeros con la especificación de jefe de tren de trenes de pasajeros en la normativa interna de ČD Ok 2 – Reglamento de formación y exámenes de los Ferrocarriles Checos, a. s., aprobado por decisión del director general de los Ferrocarriles Checos el 25. 3. 2009, n. ref.: 55713/2009-O 10.
 Según la documentación presentada por el transportista, los maquinistas y los jefes de tren de trenes de pasajeros eran profesionalmente competentes para las actividades laborales desempeñadas.
@@ -627,31 +611,56 @@ En el ámbito de DKV Praha se realizaba una verificación periódica del rendimi
 El explotador de la vía ferroviaria de ámbito nacional, Praha-Libeň – Praha-Holešovice – Stromovka, es la Administración de la Vía de Tráfico Ferroviario (Správa železniční dopravní cesty), organización estatal, con domicilio en Dlážděná 1003/7, Praha 1 – Nové Město, CP 110 00, con base en la Autorización Oficial emitida por la Autoridad Ferroviaria el 29. 5. 2008, bajo n. ref.: 3-4277/07-DÚ/Le-DÚ/O-SI, n. reg.: ÚP/2008/9002.
 El transportista del tren Os 9326 eran los Ferrocarriles Checos, a. s., con domicilio en Nábřeží L. Svobody 1222, Praha 1, CP 110 15, con base en la Licencia de explotador del transporte ferroviario n. ref.: 3-2169/03-DÚ/Bp, n. reg.: L/2003/9000, concedida por la Autoridad Ferroviaria el 17. 9. 2003, y la decisión de modificación de la licencia mencionada n. ref.: 3-974/04-DÚ/Bg, n. ref.: 3-2564/08-DÚ/Le y n. ref.: DUCR-61234/11/Bo. El transportista era titular del Certificado de Transportista, emitido por la DÚ
 
-
 ## Página 21
 
-el 26. 3. 2008, bajo n. ref. DUCR-2366/10/Pd, n. reg. OSD/2008/028, con vigencia hasta el 25. 3. 2013.
-El transporte ferroviario se explota con base en el «Contrato n.º 001/09 para la explotación del transporte ferroviario en la vía de tráfico ferroviaria de la vía de ámbito nacional y de las vías regionales en propiedad de la República Checa», en su versión vigente, celebrado entre las partes contratantes SŽDC y ČD, el 30. 6. 2009, con vigencia desde el 1. 7. 2009, con el Adendo n.º 1 vigente desde el 13. 4. 2010, el Adendo n.º 2 vigente desde el 1. 1. 2011 y el Adendo n.º 3 vigente desde el 22. 7. 2011.
-El transportista del servicio de maniobras eran ČD Cargo, a. s., con domicilio en Jankovcova 1569/2c, Praha 7, CP 170 00, con base en la Licencia de explotador del transporte ferroviario n. ref.: 3-841/07-DÚ/Le, n. reg.: L/2007/1452, concedida por la Autoridad Ferroviaria el 19. 11. 2007, en la versión de la modificación de la licencia n. ref.: DUCR – 50179/10/Le, n. reg. L/2010/1452-5 de fecha 7. 10. 2010. El transportista era titular del Certificado de Transportista, emitido por la DÚ el 30. 11. 2007, bajo n. ref. 3-3934/07-DU-Pd, n. reg. OSD/2007/022, con vigencia hasta el 29. 11. 2012.
-El transporte ferroviario se explotaba con base en el «Contrato n.º 168/10 para la explotación del transporte ferroviario en la vía de tráfico ferroviaria de la vía de ámbito nacional y de las vías regionales en propiedad de la República Checa», celebrado entre las partes contratantes SŽDC y ČD Cargo, con vigencia desde el 1. 1. 2010.
+del 26. 3. 2008, con n.º de expediente DUCR-2366/10/Pd, n.º de registro OSD/2008/028, con vigencia hasta el 25. 3. 
+2013.
+El transporte ferroviario se presta en virtud del «Contrato n.º 001/09 para la prestación de 
+transporte ferroviario en la vía de transporte ferroviaria de la red ferroviaria estatal y de las 
+redes ferroviarias regionales en propiedad de la República Checa», en su versión vigente, 
+celebrado entre las partes contratantes SŽDC y ČD, el 30. 6. 2009, con vigencia desde el 1. 7. 2009, 
+con el Adendo n.º 1 vigente desde el 13. 4. 2010, 
+el Adendo n.º 2 vigente desde el 1. 1. 2011 y el Adendo n.º 3 vigente desde el 22. 7. 2011.
+El transportista de la sección de maniobras era ČD Cargo, a. s., con domicilio en Jankovcova 1569/2c, 
+Praga 7, CP 170 00, en virtud de la Licencia de prestador de transporte ferroviario n.º de expediente: 3-841/07-
+DÚ/Le, n.º de registro: L/2007/1452, concedida por la Oficina Ferroviaria el 19. 11. 2007, en la versión de la 
+modificación de la licencia n.º de expediente: DUCR – 50179/10/Le, n.º de registro L/2010/1452-5 de fecha 7. 10. 2010. El transportista 
+era titular del Certificado de transportista, expedido por la Oficina Ferroviaria el 30. 11. 2007, con n.º de expediente 3-3934/07-
+DU-Pd, n.º de registro OSD/2007/022, con vigencia hasta el 29. 11. 2012.
+El transporte ferroviario se prestó en virtud del «Contrato n.º 168/10 para la prestación de 
+transporte ferroviario en la vía de transporte ferroviaria de la red ferroviaria estatal y de las 
+redes ferroviarias regionales en propiedad de la República Checa», celebrado entre las partes contratantes SŽDC y ČD Cargo 
+con vigencia desde el 1. 1. 2010.
 ## 3.3
-### Regulación legal y otra normativa
-### 3.3.1 Preceptos legales comunitarios y nacionales pertinentes
-En la investigación del accidente ferroviario se constató la infracción de los siguientes preceptos legales:
- § 35 apartado 1 letra a), g), f) de la Ley n.º 266/1994 Sb.:
+### Regulación jurídica y de otro tipo
+### 3.3.1 Normativa jurídica comunitaria y nacional aplicable
+En la investigación del accidente ferroviario se constató la infracción de las siguientes normas jurídicas:
+ § 35 apartado 1 letras a), g), f) de la Ley n.º 266/1994 Sb.:
 •
   «(1) El transportista está obligado
-a) a explotar el transporte ferroviario de acuerdo con las reglas de explotación del transporte ferroviario, la licencia vigente y el contrato celebrado con el explotador de la vía para la explotación del transporte ferroviario en la vía;
-f)  a implantar un sistema de garantía de la seguridad del transporte ferroviario y a garantizar su cumplimiento;
-g) a regirse, en la explotación del transporte ferroviario, por las instrucciones del explotador de la vía impartidas en la organización del transporte ferroviario,»
- § 15 apartado 4 del decreto n.º 173/1995 Sb.:
+a) a prestar transporte ferroviario de acuerdo con las normas de prestación de transporte ferroviario, 
+     la licencia vigente y el contrato celebrado con el gestor de la vía para la prestación de transporte ferroviario en la vía;
+f)  a implantar un sistema de garantía de la seguridad del transporte ferroviario y a garantizar su 
+    cumplimiento;
+g) a regirse, en la prestación de transporte ferroviario, por las instrucciones del gestor de la vía dictadas 
+    al organizar el transporte ferroviario,»
+ § 15 apartado 4 del Decreto n.º 173/1995 Sb.:
 •
-«(4) El tren no puede salir de la estación sin una señal que autorice la salida, ni sin el consentimiento de la persona que dirige el transporte ferroviario, ni sin otra autorización del explotador de la vía. La ruta del tren para la salida del tren en el ámbito de la estación con desvío de vías debe estar correctamente establecida y libre según las condiciones del apartado 1. Las salidas de los trenes deben dirigirse de modo que se respete el orden de prioridad de los distintos trenes. El tren de transporte de pasajeros solo puede salir de la estación ferroviaria o parada cuando no se vea amenazada la seguridad de los pasajeros que suben y bajan ni la seguridad de la circulación del tren.»
-  § 35 apartado 1 letra f), m) del decreto n.º 173/1995 Sb.:
+«(4) Un tren no puede salir de la estación sin una señal que autorice la salida o sin el 
+consentimiento de la persona que dirige el transporte ferroviario o sin otra autorización del gestor 
+de la vía. La ruta de tren para la salida del tren en el ámbito de una estación con desvío de vías 
+debe estar correctamente establecida y libre según las condiciones del apartado 1. 
+Las salidas de trenes deben dirigirse de modo que se respete el orden de importancia 
+de los trenes individuales. Un tren de transporte de pasajeros solo puede salir de la estación 
+ferroviaria o de la parada cuando no se vea amenazada la seguridad de los pasajeros que 
+suben y bajan y la seguridad de la circulación del tren.»
+  § 35 apartado 1 letras f), m) del Decreto n.º 173/1995 Sb.: 
 •
-  «(1) Para la conducción de un vehículo ferroviario debe garantizarse que la persona que conduce el vehículo ferroviario
+  «(1) Para la conducción de un vehículo ferroviario debe garantizarse que la persona que dirige el       
+vehículo ferroviario
 
 ## Página 22
+
 
 f) desde la cabina del vehículo ferroviario observaba la vía y las señales y actuaba según los hechos constatados;
 m) detuvo el tren con seguridad antes del lugar señalizado."
@@ -667,8 +676,8 @@ En la investigación del MU se constató el incumplimiento de las siguientes nor
 "En las estaciones donde se permite la expedición de trenes según el artículo 502, es posible la expedición de trenes con transporte de viajeros que permanecen (regular o extraordinariamente) en la zona de acceso y salida de viajeros, mediante la colocación de la señal principal en la señal que permite la marcha, cumpliendo las siguientes condiciones:...
 d) la salida de la zona de acceso y salida de viajeros se realizará según el art. 504; el maquinista responde en todo caso de que el tren no salga antes de la hora de salida según el horario. Si el maquinista ve sin embargo que la señal de salida (de itinerario) prohíbe la marcha, no debe poner el tren en movimiento si no ha recibido instrucción al respecto del jefe de estación";
 
-
 ## Página 23
+
 
 • norma interna SŽDC (ČD) D2, artículo 1302:
 "En la estación, durante la salida y el paso del tren, el maquinista observa desde la cabina de la locomotora de cabeza si las señales pertinentes permiten su marcha y si la vía de salida está libre. Durante la salida del tren en la estación, el maquinista que no vea la señal de salida (de itinerario) debe suponer la señal más restrictiva de dicha señal que permita la marcha del tren (reducción de velocidad, marcha bajo la señal de Llamada), si dicha señal no le había sido indicada por la señal anterior (preseñal independiente de la señal de salida, preseñal repetidora)".
@@ -689,8 +698,8 @@ Se realizó:
 • señalización de la señal, señal debidamente señalizada, correcto;
 • medida de tensión en la lámpara de señal de luz roja, correcto.
 
-
 ## Página 24
+
 
 Fig. n.º 3: Panel RZZ de la estación Praha-Libeň
 Conclusión:
@@ -705,6 +714,7 @@ Para garantizar la operatividad de la infraestructura y la seguridad del transpo
 Antes de la producción del MU se produjo una comunicación entre el jefe de estación panelista y el jefe de maniobras para acordar la maniobra desde la vía de maniobras "A" y de vuelta. Posteriormente, entre el jefe de maniobras
 
 ## Página 25
+
 
 a el maquinista de la maniobra. El jefe de estación de la est. Praha-Libeň, el jefe de maniobra
 y el maquinista utilizaron para comunicarse radios de la red STE 1. El jefe de maniobra utilizó para
@@ -726,8 +736,8 @@ Mediante la evaluación de la marcha del tren Os 9326 desde la última salida en
 • salida de la est. Praha-Libeň a las 21:48:01 horas, en un recorrido de 171 metros hasta la colisión alcanzada la velocidad V = 45 km.h-1. Este valor es el último registro correcto de distancia recorrida y velocidad;
 • el desarrollo de la curva de velocidad en la fase de frenado desde el valor de velocidad V = 45 km.h-1 y la deceleración calculada = 2,89 m.s-2 confirma un efecto de frenado superior a la deceleración en el I. modo de frenado;
 
-
 ## Página 26
+
 
 • desde la salida del tren hasta el final del registro no consta el uso del freno de servicio,
 del freno rápido ni del freno de acción directa;
@@ -749,6 +759,7 @@ El 13. 9. 2011 se realizó una inspección comisionada del HDV 92 54 2 742 330-4
 
 ## Página 27
 
+
 El 1 de septiembre de 2011 se realizó una inspección comisionada del DV acoplado como primer vehículo tras el HDV de maniobras de la serie Shimmns, grupo 55, n.º de registro 31 56 4777 516-4, titular ZSSK Cargo, en OKV Nymburk, durante la cual se constataron los siguientes hechos:
 • lona del vagón desgarrada en toda su anchura, asideros y mecanismo de cierre de la lona deslizante dañados, discos de los topes doblados, refuerzos de la lona y rodillos de desplazamiento de la lona deslizante deformados en ambos lados, grifo de conexión del freno de aire comprimido y tubería del II. extremo dañados.
 La inspección comisionada determinó que el daño al HDV y al DV se produjo durante la colisión y que su estado técnico no guardaba relación con la causa de la aparición de la MU.
@@ -766,8 +777,8 @@ El maquinista del tren Os 9326 desde la 6.ª SK partió desde el lugar de parada
 El equipo de comunicaciones en la est. Praha-Libeň no está dotado de dispositivo de registro. De las anotaciones con los empleados, el jefe de maniobras, el maquinista del material de maniobras y los jefes de estación no se desprende infracción de los procedimientos tecnológicos establecidos por el gestor de la infraestructura y por el transportista del material de maniobras.
 ### No se detectó ningún defecto.
 
-
 ## Página 28
+
 
 ### 3.5.3 Medidas adoptadas para la protección y seguridad del lugar del suceso
 El lugar de la MU fue asegurado por el gestor de la infraestructura conforme al decreto n.º 376/2006 Sb.
@@ -794,6 +805,7 @@ El empleador garantizó las condiciones para el descanso antes del turno y duran
 
 ## Página 29
 
+
 control y uso
 La disposición del equipamiento del puesto de mando de la est. Praha-Libeň y del equipamiento de los puestos de mando de HDV no guardaba relación con la aparición de la MU.
 ### No se detectó ningún defecto.
@@ -805,21 +817,22 @@ Asimismo, DI recomendó a los transportistas ČD acelerar los trabajos para la i
 La finalidad de la recomendación de seguridad anteriormente indicada era prevenir la aparición de incidentes derivados de un fallo (error o fallo) del factor humano, de la persona que conduce el vehículo ferroviario, con el resultado de la circulación no autorizada de los vehículos ferroviarios más allá del señal principal, cuya señalización prohíbe la circulación del tren, con la consiguiente reducción de la probabilidad de una colisión posterior o descarrilamiento de dichos vehículos ferroviarios, incluida la reducción de las consecuencias de la colisión de vehículos ferroviarios que, dada la posición mutua de los vehículos ferroviarios amenazados, no era posible prevenir.
 Ni el gestor de la vía ni el transportista han adoptado hasta la fecha ninguna medida correspondiente en el sentido de la recomendación de seguridad de DI anteriormente indicada.
 
-
 ## Página 30
 
 ## 4 ANÁLISIS Y CONCLUSIONES
 ## 4.1
-### Descripción final del incidente
-### 4.1.1 Descripción final del incidente basada en los hechos constatados en el punto 3
-El 23. 8. 2011 a las 21:49 horas, el tren Os 9326, que circulaba desde la est. Kolín hasta la est. Praha-Masarykovo nádraží, colisionó en la est. Praha-Libeň, donde se detiene habitualmente, en la zona de la aguja n.º 34N con una maniobra de maniobras remolcada.
-El tren Os 9326 entraba en la est. Praha-Libeň con la señal «PN» de la señal de entrada 2L debido a una interrupción conforme a la ROV n.º 05026, relacionada con el cambio del aparato de enclavamiento existente de la estación a ESA 33, y se detuvo en el andén n.º 1 en la 6.ª SK. En el momento previsto a la llegada habitual del tren Os 9326, se había acordado una maniobra desde la 28.ª SK hasta la vía de maniobra «A» entre el jefe de maniobras y el despachador de consola de la est. Praha-Libeň. En virtud de dicho acuerdo, el despachador principal de la est. Praha-Libeň estableció la ruta de maniobra desde la 28.ª SK hasta la vía de maniobra «A» a través de las agujas n.º 35N y 34N. Debido al establecimiento de la ruta de maniobra, la ruta de tren para el tren Os 9326 se estableció únicamente para la entrada en la 6.ª SK, y su final se situaba en la señal «Alto» de la señal de vía Lc06, situada a la derecha de la 6.ª SK en el km 404,572.
-La maniobra de maniobras se puso en movimiento a las 21:48 horas, es decir, más tarde de lo que el despachador principal había previsto. En ese momento, en el andén n.º 1 se estaba realizando el expedición de viajeros del tren Os 9326, el jefe de tren dio al maquinista la señal «Autorización para la salida» y subió por las primeras puertas del segundo DV. A continuación se cerraron las puertas del tren Os 9326 y el tren se puso en marcha en dirección a la señal Lc06 con la señal «Alto», a pesar de que desde el frente del tren detenido en la 6.ª SK, en el andén n.º 1, en la zona de acceso y salida de viajeros, la señal «Alto» en dicha señal era indudablemente visible. No se detuvo ante dicha señal y continuó la circulación. Posteriormente, a las 21:49 horas, se produjo la colisión en la zona de la aguja n.º 34N.
-En la MU se produjo el descarrilamiento de ambos HDV, la rotura de la maniobra de maniobras, la fuga de 3000 l de gasóleo y, posteriormente, el incendio del HDV de la maniobra de maniobras. En el tren Os 9326 resultaron heridos 3 viajeros, el maquinista y el jefe de tren. El perjuicio total, incluidos los costes de la reparación del balasto debido a la fuga de combustible del HDV de la maniobra de maniobras, alcanzó la cifra de 27 405 556 Kč.
-Los despachadores de la est. Praha-Libeň actuaron conforme al horario de aviso, comunicaron la aparición de la MU y activaron el IZS.
-Tras la aparición de la MU se procedió a la evacuación de unos 30 viajeros del tren Os 9326, que fue inicialmente gestionada por el jefe de tren del tren Os 9326 y el revisor que viajaba en dicho tren, y posteriormente por los equipos de la PČR tras su llegada. La primera atención a los heridos la realizó la PČR, y la atención especializada la RZZS, tras su llegada. El extinción del incendio la iniciaron los equipos de la PČR y la completaron, tras su llegada, los equipos del JPO HZS SŽDC Praha y del HZS de la ciudad de Praga.
+### Descripción final del suceso ferroviario
+### 4.1.1 Descripción final del suceso ferroviario basada en los hechos constatados
+en el punto 3
+El 23 de agosto de 2011 a las 21:49 horas, el tren Os 9326, que circulaba desde la estación de Kolín hasta la estación de Praha-Masarykovo nádraží, colisionó en la estación de Praha-Libeň, donde efectúa parada regular, en el entorno de la aguja n.º 34N, con una maniobra remolcada.
+El tren Os 9326 entró en la estación de Praha-Libeň con la señal «PN» de la señal de entrada 2L debido a una interrupción de servicio según la ROV n.º 05026, relacionada con el cambio del aparato de enclavamiento de estación existente por ESA 33, y se detuvo en la vía 6 en el andén 1. En el momento previsto a la llegada regular del tren Os 9326, se había acordado una maniobra desde la vía 28 hasta la vía de maniobras «A» entre el jefe de maniobras y el interventor de estación de Praha-Libeň. En virtud de este acuerdo, el jefe de estación de Praha-Libeň estableció la ruta de maniobras desde la vía 28 hasta la vía de maniobras «A» a través de las agujas n.º 35N y 34N. Debido al establecimiento de la ruta de maniobras, la ruta de tren para el tren Os 9326 se estableció únicamente para la entrada en la vía 6, y su final se situó en la señal «Alto» de la señal de ruta Lc06, ubicada a la derecha de la vía 6 en el pk 404,572.
+La maniobra remolcada se puso en movimiento a las 21:48 horas, es decir, más tarde de lo que el jefe de estación preveía. En ese momento, en el andén 1 se estaba realizando el expedición de pasajeros del tren Os 9326, el jefe de tren dio al maquinista la señal «Permiso de salida» y subió por las primeras puertas del segundo DV. A continuación, se cerraron las puertas del tren Os 9326 y el tren se puso en marcha en dirección a la señal Lc06 con la señal «Alto», a pesar de que desde el frente del tren detenido en la vía 6, en el andén 1, en la zona de embarque y desembarque de pasajeros, la señal «Alto» en dicha señal era indudablemente visible. No se detuvo ante esta señal y continuó la marcha. Posteriormente, a las 21:49 horas, se produjo la colisión en el entorno de la aguja n.º 34N.
+Con el suceso se produjo el descarrilamiento de ambos HDV, la rotura de la maniobra remolcada, la fuga de 3.000 l de gasóleo y, posteriormente, el incendio del HDV de la maniobra remolcada. En el tren Os 9326 resultaron heridos 3 pasajeros, el maquinista y el jefe de tren. El daño total, incluidos los costes de la rehabilitación de la superestructura ferroviaria debido a la fuga de combustible del HDV de la maniobra remolcada, alcanzó la cifra de 27.405.556 CZK.
+Los interventores de la estación de Praha-Libeň actuaron según el horario de notificación, notificaron la ocurrencia del suceso y activaron el IZS.
+Tras la ocurrencia del suceso, se produjo la evacuación de unos 30 pasajeros del tren Os 9326, que fue realizada inicialmente por el jefe de tren del tren Os 9326 y el revisor que viajaba en dicho tren, y posteriormente por los efectivos de la PČR tras su llegada. La primera atención a los heridos fue realizada por la PČR, y la atención especializada por la RZZS, tras su llegada. La extinción del incendio fue iniciada por los efectivos de la PČR y finalizada, tras su llegada, por los efectivos de la JPO HZS SŽDC Praha y la HZS de la ciudad de Praga.
 
 ## Página 31
+
 
 ## 4.2
 ### Análisis
@@ -834,14 +847,15 @@ El tren Os 9326, tras detenerse en el 6. SK en el andén 1 en el lugar habitual 
 
 ## Página 32
 
+
 El número de MU similares en las líneas ferroviarias, nacionales y regionales, en las estaciones ferroviarias, donde la orden de salida de un tren con transporte de pasajeros la da el jefe de estación al maquinista mediante la colocación de la señal principal (de salida o, en su caso, de vía) en la señal que permite la circulación, muestra una tendencia creciente. El procedimiento tecnológico que permite dicho despacho de los trenes de transporte de pasajeros se introdujo en la época en la que el actual operador ČD, a. s., explotaba la línea y el transporte ferroviario en la llamada línea unitaria y aplicaba el procedimiento de despacho permitido para trenes de otras clases. El principal motivo para la introducción de la nueva tecnología fueron razones económicas, ya que permitía reducir el número de empleados, principalmente en la función de jefes de estación. A pesar de su rentabilidad económica, sin embargo, este método de despacho de trenes también ha aportado elementos considerablemente negativos. En los trenes de transporte de pasajeros, donde la salida incluye dos procesos tecnológicos independientes, el comercial y el de circulación, es decir, la finalización segura del embarque y desembarque de pasajeros y la autorización de la salida de la estación, la colaboración entre el jefe de estación, el maquinista y el personal del tren en el despacho y la salida del tren es un elemento de seguridad que previene de forma notable el fallo humano. Esta garantía de seguridad, el explotador de la línea, en los casos en que la orden de salida de un tren con transporte de pasajeros la da el jefe de estación al maquinista mediante la colocación de la señal principal (de salida o, en su caso, de vía) en la señal que permite la circulación, no la ha sustituido con ninguna protección técnica, como cabría esperar, sino que, de nuevo por razones económicas, solo ha modificado los procedimientos tecnológicos de modo que la responsabilidad de su cumplimiento en la salida de estos trenes la ha trasladado únicamente al maquinista.
 La medida del operador ČD, en la colaboración entre el maquinista y el personal del tren, se basa únicamente en un enfoque comercial (el personal del tren señala solo la finalización del embarque y desembarque de pasajeros), es decir, sin comprobar si también se cumplen las condiciones de circulación para la salida del tren. Así se alcanza una situación en la que la forma externa de la salida del lugar de parada para el embarque y desembarque de pasajeros en la parada en campo abierto y en la estación es idéntica. Este hecho posibilita que el maquinista realice un procedimiento rutinario, el cual, sea cual sea el motivo, tras recibir la señal «Listos para la salida», realice las maniobras para la salida del tren y ponga el tren en movimiento sin comprobar si dicho movimiento está permitido por la persona que dirige y organiza el transporte ferroviario.
 Por tanto, en el explotador de la línea y en el operador no se ha establecido en estos casos ningún mecanismo que, ante dicho fallo de los maquinistas, elimine sus consecuencias. A pesar de que, por las razones anteriores, también se han producido accidentes graves, ni el explotador de la línea ni el operador han respetado la recomendación de seguridad que, sobre la base de la investigación de las causas y circunstancias de la producción de MU similares, emitió la Inspección Ferroviaria (véase el punto 3.7 de este informe) y cuya aplicación reduciría la posibilidad de producción de MU similares al mínimo, si no la impidiera por completo. La DI es consciente del coste económico de algunas de las medidas propuestas, pero al mismo tiempo debe constatar que los procedimientos tecnológicos anteriores en el despacho de trenes priorizan el interés económico en detrimento de la reducción de la seguridad del transporte ferroviario (mientras que solo los daños ocasionados en bienes ya alcanzaron la cifra de 15.401.947 Kč).
 El operador ČD, a. s., en relación con lo dispuesto en el artículo 505, letra d), de la norma interna SŽDC (ČD) D2 y en el artículo 23, letra c), de la norma interna ČD V 2, en el sentido del apartado 35, párrafo 1, letras f) y m), del decreto n.º 173/1995 Sb. y en el sentido del apartado 35, párrafo 1, letra a), de la ley, no ha garantizado la explotación del transporte ferroviario de acuerdo con las normas de explotación del transporte ferroviario y con el contrato celebrado con el explotador de la línea sobre la explotación del transporte ferroviario en la línea, al no respetar la persona que conduce el vehículo ferroviario del tren Os 9326 la señal «Alto» en la señal de vía Lc06.
 De la evaluación de la documentación solicitada, de las conclusiones de las inspecciones comisionales, de la inspección del lugar del MU y de la inspección de la vía se ha constatado que la infraestructura, el equipo de enclavamiento de la estación, el estado técnico de los vehículos ferroviarios ni el procedimiento de los empleados
 
-
 ## Página 33
+
 
 del explotador de la línea en la organización y dirección del transporte ferroviario guardan relación con la causa de la producción del MU. Tampoco la actividad de los empleados del operador ČD Cargo ha tenido influencia en la producción del MU.
 Los componentes del sistema integrado de protección civil acudieron al lugar del MU inmediatamente tras su notificación y comenzaron de inmediato las labores de salvamento, en particular la finalización de la evacuación de pasajeros, la extinción del incendio, la atención a los heridos, la aseguración del lugar del MU y la prevención del aumento de las consecuencias del MU.
@@ -862,6 +876,7 @@ No adopción de las medidas propias correspondientes para prevenir MU similares 
 En el informe de frenado del tren Os 9326 se indica un valor distinto (superior) de porcentajes de frenado necesarios que en el SJŘ emitido por el explotador de la línea. En el apartado «Régimen de frenado calculado» se indica el régimen P, en lugar del régimen R indicado en el SJŘ emitido por el explotador de la línea. Los hallazgos indicados constituyen una infracción del apartado 37, párrafo 10, letras b) y e), del decreto n.º 173/1995 Sb., así como del apartado 35, párrafo 1, letra a), de la ley n.º 266/1994 Sb.
 
 ## Página 34
+
 
 ## 5 MEDIDOS ADOPTADOS
 ## 5.1
@@ -885,8 +900,8 @@ modificar los procedimientos tecnológicos uniformes previos a la puesta en marc
 •
 pasajeros que está detenido en el espacio destinado al ascenso y descenso de pasajeros en la estación en la que se permite la expedición del tren mediante la colocación de la señal principal
 
-
 ## Página 35
+
 
 en una señal que permita la circulación del tren, incluida la señal de aproximación, de modo que el inicio del procedimiento previo a la puesta en marcha del tren sea siempre iniciado por el maquinista conductor del DV, mediante la señal "Llamada a la alerta" dada verbalmente, mediante un auxilio de señalización o mediante un dispositivo técnico.
 De conformidad con lo dispuesto en el anexo núm. 7 del decreto núm. 376/2006 Sb., la Inspección Ferroviaria recomienda a la Autoridad Ferroviaria la adopción de una medida propia encaminada a garantizar la realización de las recomendaciones de seguridad anteriores también por parte de los demás gestores de la infraestructura y transportistas en la República Checa.
@@ -898,29 +913,29 @@ Director
 Inspectorado Territorial de Brno
 Inspectorado Territorial de Praga
 
-
 ## Página 36
+
 
 ## 7 ANEXOS
 Fig. núm. 4: Esquema de las vías de circulación en la estación Praha-Libeň
 
-
 ## Página 37
+
 
 Fig. núm. 5: Posición deformada del tren Os 9326
 
-
 ## Página 38
+
 
 Fig. núm. 6: Posición deformada del tren Os 9326
 
-
 ## Página 39
+
 
 Fig. núm. 7: Vehículo de cabecera descarrilado del tren Os 9326
 Fig. núm. 8: Vista de la cabina del maquinista del tren Os 9326
 
-
 ## Página 40
+
 
 Fig. núm. 9: Primer vehículo de tracción dañado de la maniobra

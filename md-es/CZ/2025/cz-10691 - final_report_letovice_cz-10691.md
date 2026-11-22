@@ -10,13 +10,14 @@ chars: 109302
 ratio_longitud: 1.23
 tokens_in: 49942
 tokens_out: 34886
-verificacion: revisar
-notas_cifras: ["bloque 1: original bilingüe: se compara contra el idioma principal (EN)", "bloque 3: cifras cortas: 5/198", "bloque 4: cifras cortas: 6/231", "bloque 7: cifras cortas: 1/124", "bloque 8: original bilingüe: se compara contra el idioma principal (CS)"]
-avisos: ["bloque 8: ratio 1.84"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 3: original bilingüe: se compara contra el idioma principal (PT)", "página 6: original bilingüe: se compara contra el idioma principal (CS)", "página 7: original bilingüe: se compara contra el idioma principal (CS)", "página 10: original bilingüe: se compara contra el idioma principal (CS)", "página 11: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -39,13 +40,13 @@ IČ: 75009561
 mail@di.gov.cz
 tel.: +420 736 521 003
 
-
 ## Página 2
+
 
 El presente informe final es público y todos los hechos en él expuestos están respaldados por el expediente de investigación. La Drážní inspekce no se ocupa, en el marco de la investigación, de la responsabilidad por delito o infracción administrativa, por lo que no puede deducirse de este informe final. La investigación se llevó a cabo de forma independiente con el objetivo de determinar las causas y circunstancias de la incidencia.
 
-
 ## Página 3
+
 
 ## 1 RESUMEN
 Fuente: Drážní inspekce
@@ -69,8 +70,8 @@ No se ha detectado ninguna causa sistémica por parte de la Drážní inspekce.
 Recomendaciones de seguridad:
 La Drážní inspekce, con base en lo dispuesto en el § 53e apartado 1 de la Ley n.º 266/1994 Sb., recomienda, en relación con la prevención de incidencias:
 
-
 ## Página 4
+
 
 A la Autoridad Ferroviaria:
 •
@@ -78,8 +79,8 @@ garantizar que los gestores de la infraestructura ferroviaria, de categoría de 
 •
 garantizar que los gestores de la infraestructura ferroviaria, de categoría de ámbito nacional y regional, limiten en la mayor medida posible el uso rutinario de la función «Supresión (Override)», entre otros medios, de modo que, en las circulaciones con «señal de llamada», cuando se cumplan las condiciones controladas establecidas para la circulación del tren, se conceda la autorización de circulación (MA) en el modo «Según visibilidad (OS)»; mientras que la solución técnica en preparación para los enclavamientos electrónicos de tipo ESA, incluida la correspondiente modificación de las normas de explotación, se implantará en servicio lo antes posible y, a continuación, se ampliará lo antes posible a toda la red de dichas vías según la estrategia establecida, y además se examinará la posibilidad de extender la solución mencionada también a los enclavamientos híbridos de tipo ETB.
 
-
 ## Página 5
+
 
 ## SUMMARY
 | Date and time: | 5th June 2025 18:27 (16:27 GMT) , . |
@@ -102,8 +103,8 @@ garantizar que los gestores de la infraestructura de las vías ferroviarias de �
 •
 garantizar que los gestores de la infraestructura de las vías ferroviarias de ámbito nacional y regional limiten en la mayor medida posible el uso rutinario de la función «Supresión (Override)» de modo que, en las circulaciones con «señal de llamada», cuando se cumplan las condiciones controladas establecidas para la circulación del tren, se conceda una «Autorización de circulación (MA)» en el modo «Según visibilidad (OS)»; mientras que la solución técnica en preparación para los enclavamientos electrónicos de tipo ESA, incluida la correspondiente modificación de las normas de explotación, se implantará en servicio lo antes posible y, a continuación, se ampliará a toda la red de dichas vías lo antes posible según la estrategia establecida, y además se examinará la posibilidad de extender la solución mencionada también a los enclavamientos híbridos de tipo ETB.
 
-
 ## Página 6
+
 
 ## Índice
 1 RESUMEN........................................................................................................................3
@@ -147,6 +148,7 @@ SUMMARY.........................................................................
 
 ## Página 7
 
+
 4.2.2 Factores o consecuencias derivados de la instalación y puesta en servicio de vehículos ferroviarios, infraestructura ferroviaria o instalación técnica......................................................................34
 4.2.3 Factores o consecuencias relacionados con el fabricante de vehículos ferroviarios u otro proveedor de productos ferroviarios............................................................................34
 4.2.4 Factores o consecuencias derivados del mantenimiento y modificación de vehículos ferroviarios o instalaciones técnicas....................................................................................................34
@@ -176,8 +178,8 @@ y talleres de mantenimiento.....................................................
 6 RECOMENDACIONES DE SEGURIDAD.....................................................................................38
 ANEXOS..............................................................................................................................40
 
-
 ## Página 8
+
 
 ### Lista de siglas y símbolos utilizados
 CDP
@@ -256,8 +258,8 @@ vehículo ferroviario de vía
 žst., ŽST.
 estación ferroviaria
 
-
 ## Página 9
+
 
 ### Lista de siglas de la legislación, normas y disposiciones internas utilizadas
 ley núm. 266/1994 Sb.
@@ -289,8 +291,8 @@ SŽ TNŽ 34 2620 «Instalaciones de seguridad ferroviaria,
 Instalaciones de seguridad de estación y de traza», en la redacción 
 vigente en el momento de la ocurrencia del SU
 
-
 ## Página 10
+
 
 ## 2 INVESTIGACIÓN Y SU CONTEXTO
 ### 2.1 Decisión de iniciar la investigación
@@ -323,8 +325,8 @@ análisis de los datos registrados por la SZZ de la est. Letovice;
 •
 análisis de los datos del RBC;
 
-
 ## Página 11
+
 
 •
 análisis de las explicaciones sobre el SU presentadas por los empleados implicados a sus empleadores;
@@ -358,10 +360,10 @@ Coordenadas GPS:
 ### 3.1.3 Descripción del lugar del suceso
 La estación ferroviaria Letovice se encuentra en el ferrocarril nacional Brno-Maloměřice – Česká Třebová, en el pk 203,520. En los tramos de estación adyacentes es de doble vía, electrificada con sistema de alimentación alterna de 25 kV/50 Hz.
 De la inspección del lugar del SU se constató lo siguiente:
-El tren R 873 se encontraba en la 2. SK, ya que estaba siendo adelantado por el tren Ex 1037 en la 1. SK. Tras establecer la ruta de salida y encender la señal que autoriza la circulación en la señal de salida S2 del tren R 873, se realizaron las operaciones del transportista relacionadas con la expedición del tren, que debía continuar por la 1. TK en dirección a la est. Skalice nad Svitavou y posteriormente a la est. Brno hl. n. En ese momento llegaba desde la est. Skalice nad Svitavou por la 2. TK, bajo la supervisión del ETCS, el tren Sp 2056, 
-
+El tren R 873 se encontraba en la 2. SK, ya que estaba siendo adelantado por el tren Ex 1037 en la 1. SK. Tras establecer la ruta de salida y encender la señal que autoriza la circulación en la señal de salida S2 del tren R 873, se realizaron las operaciones del transportista relacionadas con la expedición del tren, que debía continuar por la 1. TK en dirección a la est. Skalice nad Svitavou y posteriormente a la est. Brno hl. n. En ese momento llegaba desde la est. Skalice nad Svitavou por la 2. TK, bajo la supervisión del ETCS, el tren Sp 2056,
 
 ## Página 12
+
 
 que se aproximaba a la señal 2L en el modo de operación «Supervisión total (FS)». En la señal de entrada 2L lucía la señal «Alto». El maquinista del tren Sp 2056, según su explicación, ante la señal de forma indebida, sin obtener el permiso para rebasar el fin de la autorización de circulación (EOA), utilizó la función «Supresión (Override)», que le permitía continuar con el tren bajo su propia responsabilidad más allá de la señal de entrada 2L. El maquinista circuló a continuación de forma no autorizada más allá de la señal 2L, que prohibía la circulación, y con la circulación posterior se produjo el cambio forzado (corte) del desvío núm. 4 y la entrada del tren Sp 2056 en la ruta establecida para el tren R 873, que ya se encontraba en marcha desde la 2. SK. Los trenes fueron detenidos por el jefe de estación de la est. Letovice mediante una orden dirigida de parada de emergencia (denominada «Parada Dirigida») desde el RBC a través del relé combinado del JOP y el HMI.
 ### Lugar del SU
@@ -369,6 +371,7 @@ Fig. núm. 1: Esquema del lugar de ocurrencia del SU
              Fuente: DI, base cartográfica www.mapy.com
 
 ## Página 13
+
 
 Del examen del tren Sp 2056 se constató:
 •
@@ -413,8 +416,8 @@ del examen de la cabina de conducción se constató:
 ◦la presión en la tubería principal era de 0 bar;
 ◦la presión en los cilindros de freno era de 3 bar;
 
-
 ## Página 14
+
 
 ◦en el DMI se indicaba la operación bajo supervisión ETCS en nivel L2, se mostraba el símbolo del modo de operación «Tras paso no autorizado (PT)» y el mensaje «Parada de emergencia» con la hora 18:28 h;
 ◦la radiotelefonía estaba sintonizada en la red GSM-R y registrada con el número de tren 873.
@@ -449,8 +452,8 @@ el SZZ en cuestión presentaba, antes de la producción del MU y en el momento d
 •
 la parte fija y móvil del ETCS, su funcionalidad y su cooperación con el SZZ presentaban, antes de la producción del MU y en el momento de la producción del MZ, un estado sin averías (funcionamiento normal) y no guardaban relación causal con la producción del MU;
 
-
 ## Página 15
+
 
 •
 en la sala de tráfico se documentó la documentación de tráfico;
@@ -498,6 +501,7 @@ No se causó daño en las cosas transportadas, el equipaje ni otros bienes.
 
 ## Página 16
 
+
 ### 3.1.5 Descripción de otras consecuencias, incluido el impacto del suceso en las actividades habituales de los sujetos participantes
 Como consecuencia de la producción del MU, se detuvo la circulación en la est. Letovice desde las 18:27 h hasta las 21:44 h; a partir de las 21:44 h se restableció parcialmente la circulación por la 1.ª y 3.ª vía y se permitió la entrada/salida en la 2.ª y 4.ª vía en dirección a Březová nad Svitavou. A partir de las 11:45 h del 6 de junio se restableció la circulación sin restricciones (tras la reparación de la aguja n.º 4).
 
@@ -542,8 +546,8 @@ el propietario de todos los vehículos era el Jihomoravský kraj;
 •
 el transportista del tren era ČD.
 
-
 ## Página 17
+
 
 La unidad múltiple eléctrica de la serie 530 contaba con la Autorización para la puesta en circulación del vehículo, expedida por el DÚ el 19 de abril de 2023. La última inspección técnica se realizó el 24 de marzo de 2025, con vigencia hasta el 24 de septiembre de 2025, con el resultado de que «el vehículo cumple las condiciones de circulación en las vías y está en conformidad con la especificación técnica de la serie ŽKV indicada.».
 
@@ -604,6 +608,7 @@ El estado real del tren constatado en el lugar del MU correspondía a la documen
 
 ## Página 18
 
+
 | en el lugar del MU (km·h⁻¹): |  |
 | Modo de frenado: | I . |
 Nota sobre el tren R 873:
@@ -655,8 +660,8 @@ El estado real del tren comprobado en el lugar del MU correspondía a la documen
 
 La vía antes del lugar de formación del MU discurre primero en línea recta durante unos 700 m; después del lugar de formación del MU, en el sentido de circulación del tren, discurre en una curva a la izquierda en la cabecera de la est. Letovice, en un corte poco profundo, con una pendiente del 6,00 ‰. Se trata de una vía de doble vía, electrificada (tensión alterna de 25 kV/50 Hz), protegida por SZZ/TZZ
 
-
 ## Página 19
+
 
 de 3.ª categoría, en el lugar del MU con una velocidad de circulación de 105 km·h⁻¹ para vehículos destinados a la explotación con un déficit de compensación de pendiente aprovechable de 130 y 150 mm.
 
@@ -708,8 +713,8 @@ el tren Sp 2056 liberó el KO V2-4;
 18:28:13 h
 el tren Sp 2056 liberó el KO V6 e entró íntegramente en la 2. SK.
 
-
 ## Página 20
+
 
 Fig. n.º 2: Situación en la est. Letovice tras el establecimiento de la vía de tren para el tren R 873 antes de la formación del MU desde el punto de vista de la SZZ
           Fuente: SŽ
@@ -744,8 +749,8 @@ registrada la parada del tren Sp 2056.
 
 Según el software de diagnóstico DLA de la RBC, en la comunicación con el tren R 873 se constató, entre otros (nota DI: la diferencia de tiempos entre el registro en la RBC y el sistema velocimétrico del HDV se
 
-
 ## Página 21
+
 
 debe a un retraso en la transmisión de información en la red GSM-R y en el procesamiento de la información de unos 0 – 2 s):
 •
@@ -773,8 +778,8 @@ Fig. n.º 3: Situación en la est. Letovice antes de la formación del MU desde 
 
 Resumen de las explicaciones facilitadas por los empleados del explotador de la vía y del transportista, incluidas las personas en relación contractual:
 
-
 ## Página 22
+
 
 •
 maquinista del tren Sp 2056
@@ -808,6 +813,7 @@ maquinista del tren R 873
 
 ## Página 23
 
+
 ◦simultáneamente se produjo una parada de emergencia mediante ETCS;
 ◦a continuación vio que en su dirección circulaba una composición de tren de pasajeros a velocidad lenta;
 ◦tras la parada del tren de pasajeros quiso comunicar la MU al jefe de estación de la est. Letovice, que no aceptaba la llamada;
@@ -831,8 +837,8 @@ jefe de estación de la est. Letovice
 ### 3.2.1 Secuencia de hechos que condujeron al suceso extraordinario
 El 5. 6. 2025 el tren Sp 2056 se aproximaba desde la est. Brno hl. n. a la estación de destino Letovice. La circulación se realizaba en modo «Supervisión completa (FS)» de ETCS. En la est. Letovice, debido a la situación de tráfico, se produjo la parada del tren R 873, que para regularmente, en la 2. SK, y su adelantamiento por el tren Ex 1037 por la 1. SK en dirección a Skalice nad Svitavou. Tras el paso del tren Ex 1037, el jefe de estación de la est. Letovice estableció la vía de tren desde la 2. SK a la 1. TK en dirección a Skalice nad Svitavou para el tren R 873. En ese momento se aproximaba a la señal de entrada 2L desde la est. Skalice nad Svitavou el tren Sp 2056, que debía detenerse antes de dicha señal. Sin embargo, el maquinista no se detuvo ante esta señal con la indicación «Alto», tras haber utilizado previamente la función «Supresión (Override)», pues consideraba que, además del rojo claramente encendido de la señal real «Alto», veía, debido a la refracción de la luz en las gotas del parabrisas, también el destello de la luz blanca —«Señal de llamada». El tren Sp 2056 entró en la vía de tren establecida para el tren R 873, se produjo
 
-
 ## Página 24
+
 
 el corte del desvío n.º 4 y a continuación entró íntegramente en la 2. SK ocupada por el tren R 873) a velocidad adecuada para la entrada en una vía ocupada y, tras la intervención del jefe de estación, que en primer lugar utilizó la orden direccional de parada de emergencia para el tren R 873 y posteriormente también para el tren Sp 2056, se detuvo en la 2. SK a una distancia de 53 m del tren R 873.
 ### 3.2.2 Secuencia de hechos desde la producción del suceso extraordinario hasta la finalización de las acciones de los servicios de rescate
@@ -864,8 +870,8 @@ El Plan IZS no fue activado atendiendo al carácter de la MU. No fue necesaria a
 ### 4.1.1 Transportistas y explotadores de vías
 El explotador de la vía tiene, conforme a la ley n.º 266/1994 Sb., entre otras, la obligación de explotar la vía para las necesidades del tráfico ferroviario fluido y seguro conforme a las normas de explotación de la vía y la autorización administrativa, y garantizar que el sistema de seguridad del explotador de la vía por él establecido tenga en cuenta el alcance y el objeto de su actividad y de las actividades de los distintos transportistas realizadas en la vía por él explotada, permita la explotación de la vía y del tráfico ferroviario conforme a las especificaciones técnicas de interoperabilidad, otras disposiciones legales y los certificados del transportista, y sea cumplido. Asimismo, el explotador de la vía estaba facultado para impartir a los transportistas, al organizar el tráfico ferroviario, instrucciones para garantizar el tráfico ferroviario fluido y seguro.
 
-
 ## Página 25
+
 
 Conforme al decreto n.º 173/1995 Sb., la dirección del tráfico ferroviario se organiza según el horario de circulación y, en la explotación de la vía, para la dirección del tráfico ferroviario se utilizan las dependencias derivadas de la función del aparato de enclavamiento explotado.
 El explotador de la vía estableció, para el cumplimiento de las obligaciones anteriormente indicadas, los procedimientos tecnológicos de organización y la forma de impartición y ejecución de las instrucciones en la explotación de la vía y del tráfico ferroviario, contenidos, entre otros, en las normas internas SŽ D1, SŽ Z8 y en la instrucción SŽ PPD-01/2024.
@@ -874,8 +880,8 @@ El explotador de la vía indica en su norma interna SŽ D1 las señales luminosa
 La diferencia entre las entradas en una vía ocupada a través de VCRP y la entrada mediante la «Señal de llamada» es considerable. La «Señal de llamada» (rojo fijo y destello de la luz blanca, o solo destello de la luz blanca 54 veces por minuto con encendido y apagado en proporción 1:1) no señala únicamente la entrada en una vía ocupada (si esto está indicado en el horario de circulación tabular), sino que en general ordena la circulación según las condiciones de visibilidad con la necesidad de detenerse ante un obstáculo (se utiliza, entre otros, también en caso de avería del aparato de enclavamiento). La entrada del tren en VCRP se realiza mediante la señal para la circulación según condiciones de visibilidad, es decir, la luz amarilla superior (o inferior) con la luz blanca destellante, con la que el maquinista es informado de manera inequívoca de la entrada en una vía ocupada, siendo las obligaciones derivadas de dicha señal definidas en la versión vigente de la norma interna SŽ D1.
 Desde el punto de vista de la seguridad de la vía de tren, la vía mediante la «Señal de llamada» es o bien una vía de tren de emergencia, que puede establecerse en los casos establecidos (el jefe de estación/despachador de vía garantiza, entre otros, la comprobación del aspecto de riesgo y de las condiciones no cumplidas, y lo confirma mediante una secuencia de confirmación), o bien el denominado encendido directo de la «Señal de llamada», en el que el aparato de enclavamiento no comprueba ninguna condición, es decir, ante el cumplimiento de todas las condiciones establecidas por la placa de bloqueo y las normas, el responsable es el jefe de estación/despachador de vía, lo que confirma mediante una secuencia de confirmación. En VCRP, el establecimiento de la vía de tren se realiza mediante la selección de la vía VCRP y la elección de ruta habitual. Esta vía
 
-
 ## Página 26
+
 
 garantiza el cumplimiento de todas las condiciones de la vía de tren, excepto la libertad del tramo final. La ocupación de dicho tramo es a la vez condición necesaria para su establecimiento.
 Desde el punto de vista de la circulación bajo la supervisión del aparato de enclavamiento de trenes ETCS, la circulación mediante la «Señal de llamada» se realiza en modo «Responsabilidad del maquinista (SR)» con el uso previo de la función «Supresión (Override)» ante la señal correspondiente en la que finaliza la autorización de circulación (MA). En VCRP, la MA finaliza estándarmente en modo «Supervisión completa (FS)» al comienzo de la vía de estación ocupada y la MA siguiente en modo «Según visibilidad (OS)» en la señal al final de la correspondiente vía de estación ocupada, y ETCS por tanto controla el cumplimiento de la velocidad de modo que, al entrar en la SK ocupada, la velocidad del tren sea como máximo 40 km·h-1. En el caso de VCRP, la circulación del tren se realiza por tanto bajo supervisión completa o parcial de ETCS durante todo el tiempo, mientras que en la circulación mediante la «Señal de llamada» la responsabilidad total de la circulación recae en todo momento en el maquinista.
@@ -888,6 +894,7 @@ A SŽ también se le consultó sobre la existencia de una estrategia de sustituc
 «Správa železnic, státní organizace, en la actualidad no dispone de un documento estratégico que establezca criterios concretos, prioridades y horizontes temporales para la sustitución sistemática de los aparatos de enclavamiento de estación antiguos que no permiten el uso de vías de tren según condiciones de visibilidad (VCRP) y requieren el uso de la señal «Señal de llamada».
 
 ## Página 27
+
 
 En el caso de instalaciones de enclavamiento híbridas tipo ETB, como ocurre, por ejemplo, en la estación ferroviaria de Letovice, se produce su sustitución progresiva en relación con el fin de su vida útil económica. Estos dispositivos se sustituyen en el marco de actuaciones de inversión ya realizadas o en preparación.
 Ejemplos de obras ya realizadas:
@@ -928,8 +935,8 @@ Svitavy (5 casos).
 El número de casos se refiere al número de trenes que tienen prevista en el TJŘ una entrada regular en una vía ocupada, sin que todos los casos individuales ocurrieran cada día. En el marco de la modernización en curso del nudo de Česká Třebová, las entradas a la «Señal de llamada» allí probablemente cesarán y se realizarán mediante VCRP.
 Atendiendo al hecho de que también se producen entradas regulares en vías ocupadas en estaciones equipadas con enclavamientos electrónicos, el DI también preguntó a SŽ si se está completando prioritariamente la posibilidad de VCRP en los enclavamientos electrónicos en el marco del cambio de software direccional, que actualmente tiene lugar en relación con el cambio del valor de la variable «T_SECTIONTIMER» a 40 s. La variable «T_SECTIONTIMER» es el tiempo hasta la caducidad del
 
-
 ## Página 28
+
 
 permiso de circulación (MA), especialmente en caso de fallos en la comunicación por radio entre el vehículo ferroviario y el RBC. Mediante la prolongación de esta variable se eliminarán algunas paradas de emergencia, cuando el valor actual de esta variable es de 18 s.
 SŽ respondió lo siguiente:
@@ -938,8 +945,8 @@ Incluso en las intervenciones en los enclavamientos electrónicos en el marco de
 En el marco de la discusión del ZZ, el operador ferroviario sobre la incorporación de VCRP en la SZZ declaró: «Cada actuación de inversión o reparación tiene establecidos sus parámetros financieros y temporales, y la incorporación eventual de requisitos adicionales influye más o menos en estos parámetros. Asimismo, también es válido que Správa železnic, en las actuaciones que por su carácter y contenido lo permiten, incorpora activamente las vías de tren según condiciones de visibilidad (VCRP) en los sistemas de enclavamiento electrónico de estación. Como ejemplo puede citarse la obra «ETCS České Velenice – České Budějovice – Horní Dvořiště», en la que se están añadiendo VCRP a las SZZ electrónicas existentes en las estaciones de Horní Dvořiště, Rybník, Kaplice y České Velenice.» Es evidente, por tanto, que la incorporación de VCRP con motivo de intervenciones en la SZZ por otras razones se produce en algunos casos.
 La situación de tráfico en la estación de Letovice, donde se utilizan con más frecuencia las entradas en la vía de tráfico ocupada, se originó en el marco de la división de los asuntos de trenes y de personal entre las regiones de Jihomoravský y Pardubický ya varios años antes de la implantación de la operación exclusiva de ETCS. Anteriormente se implantó la operación por bandas y parte de los trenes continuaba hasta la estación de Březová nad Svitavou, donde se permitía el transbordo al tren consecutivo hacia Česká Třebová. Esta situación de tráfico se desplazó precisamente a la estación de Letovice, donde actualmente tienen lugar casi todos los retornos de las composiciones de vuelta a Brno, y se produjo así un aumento del número de retornos de composiciones en ambos sentidos. En relación con el cambio del concepto de tráfico no se realizaron ninguna modificación en la estación de Letovice. La configuración de la vía existente con andenes a nivel formados por paneles de hormigón sin andenes isla con acceso a los pasajeros por encima del nivel plantea exigencias elevadas en la organización de la operación con menor seguridad – el movimiento de los pasajeros en la vía al caminar hacia el andén correspondiente de la vía de tráfico, la circulación de trenes en sentido contrario y de adelantamiento de modo que no se vea amenazado el embarque y desembarque de los pasajeros en la vía. También es frecuente el estacionamiento de composiciones entre servicios (véase Fig. n.º 5), lo que no ocurre solo en las horas de la noche y de madrugada. Las composiciones suelen estacionarse a ambos lados del edificio de la estación. A corto plazo no se prevé en la estación de Letovice la sustitución de la SZZ por un enclavamiento totalmente electrónico que permitiera la realización de VCRP.
 
-
 ## Página 29
+
 
 Si resumimos todo lo anterior, puede constatarse que, aunque existe el deseo general de SŽ de reducir a largo plazo el número de circulaciones a la «Señal de llamada», esto tiene sus limitaciones, y que incluso en las SZZ electrónicas la aplicación de VCRP no es algo automático, sino que se establece en función de los requisitos de la tecnología de tráfico. Estos requisitos se derivan del carácter de la operación, que puede variar en función de las rutas solicitadas de mercancías, pero especialmente de viajeros, donde surgen requisitos de transbordo en un mismo andén o en un mismo borde de andén, acoplamiento rápido de unidades, etc. Por ello, es necesario tener en cuenta los requisitos derivados del carácter de la operación y de los solicitantes en las modificaciones de construcción de las estaciones ferroviarias y en las modificaciones de la SZZ (o en el marco de la estrategia de sustitución de tipos antiguos de SZZ, véase más abajo).
 En la operación de ETCS, el uso de la señal «Señal de llamada» en las entradas regularmente recurrentes en una vía ocupada es indeseable. El peligro en este caso es la actuación rutinaria del maquinista consistente en usar la función «Supresión (Override)», sin que el maquinista se haya verificado exhaustivamente de la autorización para continuar la circulación con la «Señal de llamada».
@@ -949,14 +956,15 @@ En la investigación no se detectó el incumplimiento de las funciones y obligac
 
 ## Página 30
 
+
 El operador ferroviario está, entre otros, obligado a garantizar que el maquinista conduzca el tren DV únicamente desde la posición desde la que exista la mejor visibilidad, normalmente desde la cabina frontal del maquinista en el sentido de la marcha, que desde el tren DV observe la vía y las señales y actúe conforme a los hechos constatados y que durante la marcha no supere la velocidad máxima permitida, establecida en el horario de circulación o impuesta por una velocidad limitada.
 El maquinista del tren Sp 2056 conducía el tren desde la posición frontal en el sentido de la marcha y, antes de la aparición del MU, respetaba la velocidad máxima permitida – no se produjo ninguna intervención del ETCS. Desde la última señal de bloqueo automático con la señal «Aviso», que cumplía a la vez la función de preseñal de la señal de entrada 2L de la estación de Letovice, el maquinista iba reduciendo la velocidad del tren. El maquinista esperaba la señal «Aviso» en la última señal de bloqueo automático debido a la entrada habitual en la estación de Letovice en una vía ocupada. En la señal de entrada 2L de la estación de Letovice se mostraba la señal «Alto». En esta señal finalizaba también la autorización de circulación (EOA) y el maquinista debía detenerse allí. Para continuar la marcha no se cumplían las condiciones según la norma interna SŽ Z8 ni según la norma interna SŽ D1 – el jefe de estación no autorizó la continuación de la marcha con la señal de la señal de entrada (para la entrada en una vía ocupada en la estación de Letovice, «Señal de llamada») ni emitió la orden escrita 1 del ETCS.
 Al detenerse antes de la señal de entrada 2L con la señal «Alto», el maquinista no debía haber utilizado la función «Supresión (Override)» (infracción del art. 2.40 de la norma interna SŽ Z8). No obstante, el maquinista utilizó dicha función, con lo que pasó del modo «Supervisión total (FS)» al modo «Responsabilidad del maquinista (SR)», y pasó junto a la señal 2L a una velocidad de 40 km·h-1.
 El maquinista del tren Sp 2056 declaró que vio claramente la señal «Alto» (luz roja) en la señal de entrada y que, debido a la lluvia intensa y a la refracción de la luz en las gotas del parabrisas, también vio parpadear (oscilar) la luz blanca («Señal de llamada»), que esperaba, y por ello continuó la marcha. En el momento de la aparición del MU, una nubosidad tormentosa con lluvia intensa cruzaba la región de Moravia Meridional. Según el archivo de www.meteocentrum.cz, en Letovice cayeron el 5 de junio de 2025 un total de 10,9 mm de precipitación por m2 (desde la medianoche hasta el paso de la banda tormentosa el cielo estaba despejado sin lluvia, y por la tarde, en el momento de la aparición del MU, se registró el paso de la banda tormentosa). A este respecto, sin embargo, es necesario señalar que antes de la señal de entrada 2L la vía discurre en línea recta durante unos 700 m, y que la visibilidad de su señal es por tanto más que suficiente, pudiendo el maquinista, durante todo el tiempo, asegurarse una visión sin obstrucciones desde su posición limpiando el parabrisas con los limpiaparabrisas con la frecuencia suficiente (no cuestionó su correcto funcionamiento ni alegó avería técnica), a fin de minimizar la cantidad de gotas en el área visual del parabrisas en el sentido del art. 77 apartado 9 de la norma interna SŽ D1.
 Esta situación (circular con la «Señal de llamada») se produce en la estación de Letovice habitualmente varias veces al día en ambos sentidos. Por ello, el maquinista continuó la marcha según la visibilidad, vio por delante la composición del tren R 873, y solo le sorprendió la señal «Inicio de tren» con la que estaba marcado el tren R 873. Durante la marcha se produjo además el cambio de aguja n.º 4, que el maquinista del tren Sp 2056 no registró. El estilo y la velocidad de la marcha correspondían a la situación en la que se estaba preparado para entrar en una vía ocupada (SK) y detenerse con seguridad delante de los DV allí estacionados. A ello corresponde también la baja velocidad a la que se produjo la intervención del freno de tren ETCS tras la intervención del jefe de estación de Letovice (el tren Sp 2056 ya estaba frenando para detenerse en el andén). El paso junto a la señal con la señal «Alto» guardaba relación causal con la aparición del MU. A este respecto no puede omitirse que el MU se produjo durante la entrada habitual y rutinaria en una vía ocupada en la estación de Letovice, donde la entrada de un tren en una vía ocupada se autoriza mediante el uso de la «Señal de llamada».
 
-
 ## Página 31
+
 
 Fig. n.º 4: Situación en la estación de Letovice en el momento de la aparición del MU desde el punto de vista del SZZ
     Fuente: SŽ
@@ -983,8 +991,8 @@ m) detenga el tren con seguridad antes del lugar señalizado,»;
 art. 1.1 del anexo n.º 1 del Decreto n.º 173/1995 Sb.:
 «antes de la señal “Alto” debe detenerse todo tren»;
 
-
 ## Página 32
+
 
 •
 art. 9 apartado 1 de la instrucción interna SŽ PPD-01/2024:
@@ -1018,8 +1026,8 @@ e) en el nivel 2 con señales principales variables debe detenerse antes de la s
 art. 4.6.9.2 de la norma interna SŽ Z8:
 «El maquinista debe recibir el permiso para pasar el fin de la autorización de circulación.»;
 
-
 ## Página 33
+
 
 •
 art. 4.6.9.6 de la norma interna SŽ Z8:
@@ -1045,10 +1053,10 @@ En la investigación no se constató ninguna infracción de las funciones y obli
 En la investigación no se constató ninguna infracción de las funciones y obligaciones de los fabricantes de vehículos ferroviarios ni de otros proveedores de productos ferroviarios.
 ### 4.1.4 Autoridades nacionales de seguridad y Agencia Ferroviaria de la Unión Europea
 La autoridad nacional de seguridad es el DÚ, que de acuerdo con la Ley n.º 266/1994 Sb. es una autoridad administrativa dependiente del Ministerio de Transporte. Su función es, entre otras, el ejercicio de la supervisión estatal en materia de vías, la aprobación de vehículos ferroviarios nuevos y modernizados y de dispositivos técnicos designados, así como la tramitación de infracciones. Es obligación del DÚ comunicar al DI, en un plazo de 12 meses desde la fecha de publicación del informe final que contenga las recomendaciones de seguridad dirigidas a él, qué medidas ha adoptado en relación con dicha recomendación de seguridad, comunicándolo de forma regular, al menos una vez al año, hasta la adopción de las medidas correspondientes.
-La función de la Agencia Ferroviaria de la Unión Europea es, además de garantizar, en el marco de sus competencias, que se mantenga en general la seguridad ferroviaria y, en la medida de lo posible, se aumente de forma sistemática, entre otras, la emisión, renovación, suspensión y modificación de certificados uniformes 
-
+La función de la Agencia Ferroviaria de la Unión Europea es, además de garantizar, en el marco de sus competencias, que se mantenga en general la seguridad ferroviaria y, en la medida de lo posible, se aumente de forma sistemática, entre otras, la emisión, renovación, suspensión y modificación de certificados uniformes
 
 ## Página 34
+
 
 de seguridad, la limitación de su validez o su anulación, colaborando a tal efecto con las autoridades nacionales de seguridad; asimismo, emite autorizaciones para la puesta en el mercado de vehículos ferroviarios y de tipos de vehículos, y está facultada para renovar, modificar, suspender o anular las autorizaciones que haya emitido. La Agencia evalúa asimismo los proyectos de normas nacionales, etc.
 En la investigación no se constató ninguna infracción de las funciones y obligaciones de la autoridad nacional de seguridad ni de la Agencia Ferroviaria de la Unión Europea.
@@ -1070,6 +1078,7 @@ En la investigación no se detectaron factores derivados del mantenimiento y la 
 
 ## Página 35
 
+
 ### 4.2.5 Factores o consecuencias relacionados con el sujeto responsable del mantenimiento de material rodante, talleres de mantenimiento y otros proveedores de servicios de mantenimiento
 En la investigación no se detectaron factores relacionados con el sujeto responsable del mantenimiento de material rodante, talleres de mantenimiento y otros proveedores de servicios de mantenimiento.
 4.2.6 Otros factores o consecuencias que se consideran relevantes a efectos de la investigación
@@ -1088,8 +1097,8 @@ En la investigación no se detectaron factores relacionados con el entorno labor
 ### 4.3.5 Otro factor relevante a efectos de la investigación
 En la investigación no se detectaron otros factores relacionados con la actuación de las personas implicadas.
 
-
 ## Página 36
+
 
 ### 4.4 Mecanismos de retroalimentación y mecanismos de control, incluida la gestión de riesgos y la garantía de la seguridad, y procedimientos de seguimiento
 ### 4.4.1 Condiciones pertinentes del marco regulatorio
@@ -1102,63 +1111,52 @@ En el sistema de seguridad del gestor de infraestructura y en el sistema de gara
 ### 4.4.4 Sistema de gestión de los sujetos responsables del mantenimiento de material rodante y de los talleres de mantenimiento
 El sistema de gestión de los sujetos responsables del mantenimiento de material rodante y de los talleres de mantenimiento no guardaba relación con la ocurrencia de la MU.
 
-
 ## Página 37
 
 ### 4.4.5 Resultados de la supervisión realizada por las autoridades nacionales de seguridad
-Atendiendo a los factores detectados y a las circunstancias de la ocurrencia de la MU, la supervisión de la autoridad de seguridad no guarda relación con la MU en cuestión.
-### 4.4.6 Aprobaciones, certificados y dictámenes de evaluación emitidos por la Agencia, las autoridades nacionales de seguridad u otros sujetos de evaluación de la conformidad
-El gestor de infraestructura explotaba la infraestructura al amparo de la autorización administrativa vigente y del certificado de seguridad del gestor de infraestructura. El operador ferroviario explotaba el transporte ferroviario al amparo de la licencia vigente y del certificado del operador.
+Teniendo en cuenta los factores y circunstancias de la aparición del MU, la supervisión de la autoridad de seguridad no guarda relación con el MU en cuestión.
+### 4.4.6 Aprobaciones, certificados y informes de evaluación emitidos por la agencia, las autoridades nacionales de seguridad u otros organismos de evaluación de la conformidad
+El gestor de la infraestructura ferroviaria explotó la infraestructura ferroviaria en virtud de una autorización administrativa vigente y de un certificado de seguridad del gestor de la infraestructura ferroviaria. El transportista explotó el transporte ferroviario en virtud de una licencia vigente y de un certificado del transportista.
 ### 4.4.7 Otros factores sistémicos
-En la investigación no se detectaron otros factores sistémicos.
+En el curso de la investigación no se identificaron otros factores sistémicos.
 ### 4.5 Sucesos anteriores de naturaleza similar
-No constaba a la DI, antes de la ocurrencia de esta MU, ninguna MU similar (en el marco de la circulación bajo supervisión total del dispositivo de seguridad ETCS).
+No se había registrado un MU similar en el DI antes de la aparición de este MU (en el marco de la circulación bajo supervisión total del sistema de seguridad ETCS).
 ## 5 CONCLUSIONES
 ### 5.1 Resumen del análisis y conclusiones relativas a las causas del suceso
 Causa inmediata:
 •
-incumplimiento de la señal «Alto» por parte del maquinista del tren Sp 2056, que durante la entrada rutinaria y regular en una vía ocupada no prestó suficiente atención a la señal del semáforo de entrada 2L de la estación de ferrocarril de Letovice, donde la entrada de un tren en una vía ocupada se permite mediante el uso de la «Señal de llamada».
-No fue detectado por la Inspección Ferroviaria ningún factor contribuyente.
-No fue detectada por la Inspección Ferroviaria ninguna causa sistémica.
-### A summary of the analysis and conclusions with regard to the causes of the occurrence
-Causal factor:
+incumplimiento de la señal «Alto» por parte del maquinista del tren Sp 2056, que durante la entrada rutinaria y regular en una vía ocupada no prestó suficiente atención a la señal en el semáforo de entrada 2L de la estación de ferrocarril de Letovice, donde la entrada de un tren en una vía ocupada se permite mediante el uso de la «Señal de llamada».
+No se identificó ningún factor contribuyente por parte de la Inspección Ferroviaria.
+No se identificó ninguna causa sistémica por parte de la Inspección Ferroviaria.
+### Resumen del análisis y conclusiones relativas a las causas del suceso
+Factor causal:
 •
-failure to respect signal „Stop” by the train driver of the regional passenger train No. 2056 who did not pay sufficient attention to the entry signal device 2L at Letovice station during routine regular entry on occupied track, where the entry of a train on occupied track is permitted by using the „Calling-on signal“.
-Contributing factor: none.
-Systemic factor:
-none.
-
+incumplimiento de la señal «Alto» por parte del maquinista del tren regional de pasajeros núm. 2056, que no prestó suficiente atención al semáforo de entrada 2L de la estación de Letovice durante la entrada rutinaria y regular en una vía ocupada, donde la entrada de un tren en una vía ocupada se permite mediante el uso de la «Señal de llamada».
+Factor contribuyente: ninguno.
+Factor sistémico:
+ninguno.
 
 ## Página 38
 
-### 5.2 Medidas adoptadas para la prevención de sucesos excepcionales
-El gestor de infraestructura SŽ adoptó, tras la ocurrencia de la MU, las siguientes medidas:
+### 5.2 Medidas adoptadas para prevenir sucesos excepcionales
+El gestor de la infraestructura SŽ adoptó, tras la producción del suceso, las siguientes medidas:
 •
-las causas y circunstancias de la MU fueron debatidas en el órgano consultivo del director de la Oficina Regional de Brno.
-El operador ferroviario ČD emitió, tras la ocurrencia de la MU, las siguientes medidas:
+las causas y circunstancias del suceso fueron examinadas en el órgano consultivo del director de la Oficina Regional de Brno.
+El operador ferroviario ČD emitió, tras la producción del suceso, las siguientes medidas:
 •
-la causa de la MU y la responsabilidad por su ocurrencia, incluida la emisión de instrucciones encaminadas a prevenir la ocurrencia de MU similares, fueron incluidas para su debate en la próxima reunión ampliada de la dirección de la Oficina Regional de Transporte de Pasajeros – Este.
-### Measures taken since the occurrence
-The infrastructure manager SŽ took the following measure after the occurrence:
-•
-the causes and circumstances of the occurrence were discussed at the advisory board of the director of the Brno Regional Office.
-The railway undertaking ČD took the following measure after the occurrence:
-•
-the cause of the occurrence and its responsibility, including the provision of instructions leading to the prevention of similar occurrences, were included for discussion at the next extended meeting of the Regional Office of Passenger Transport – East.
-### 5.3 Hallazgos complementarios
-No se constató en el gestor de infraestructura SŽ ni en el operador ferroviario ČD.
-### Additional observations
-It was not found at the infrastructure manager SŽ and the railway undertaking ČD.
+la causa del suceso y la responsabilidad por su producción, incluida la emisión de instrucciones encaminadas a prevenir la producción de sucesos similares, fueron incluidas para su examen en la próxima reunión ampliada de la dirección de la Oficina Regional de Transporte de Pasajeros – Este.
+### Hallazgos complementarios
+No se constató nada en el gestor de la infraestructura SŽ ni en el operador ferroviario ČD.
 ## 6 RECOMENDACIONES DE SEGURIDAD
-La Inspección Ferroviaria, con base en lo dispuesto en el apartado 1 del artículo 53e de la Ley n.º 266/1994 Sb., recomienda, en aras de la prevención de sucesos excepcionales:
+La Inspección Ferroviaria, con base en lo dispuesto en el apartado 1 del artículo 53e de la Ley núm. 266/1994 Sb., recomienda, en relación con la prevención de sucesos excepcionales:
 A la Autoridad Ferroviaria:
 •
-garantizar que los gestores de infraestructura ferroviaria, de categoría nacional y regional, limiten en la mayor medida posible el uso rutinario de la «Señal de llamada», entre otros medios, mediante la relación con las entradas regulares en una vía de estación ocupada, estableciendo por un lado una estrategia para la sustitución de los tipos más antiguos de instalaciones de enclavamiento de estación (relé, híbrida) que tenga en cuenta, como uno de los criterios para la sustitución prioritaria, precisamente la necesidad de integrar los itinerarios de tren según las condiciones de visibilidad, y completando por otro lado los itinerarios de tren según la visibilidad durante las intervenciones en curso en las instalaciones de enclavamiento electrónico de estación;
+garantizar que los gestores de infraestructuras ferroviarias, de categoría nacional y regional, limiten en la máxima medida posible el uso rutinario de la señal «Señal de llamada», entre otros medios mediante la definición, en relación con las entradas regulares a una vía de estación ocupada, de una estrategia para la sustitución de los tipos más antiguos de instalaciones de enclavamiento de estación (relés, híbridas), que tenga en cuenta como uno de los criterios de sustitución prioritaria precisamente la necesidad de integración de las rutas de tren según las condiciones de visibilidad, y mediante la complementación de las rutas de tren según visibilidad durante la intervención en curso en las instalaciones electrónicas de enclavamiento de estación;
 •
-garantizar que los gestores de infraestructura ferroviaria, de categoría nacional y regional, limiten en la mayor medida posible el uso rutinario de la función «Supresión (Override)», entre otros medios, de modo que, en las circulaciones con la «Señal de llamada», cuando se cumplan las condiciones controladas establecidas para la circulación del tren, se conceda la autorización de circulación (MA) en el modo «Según visibilidad (OS)»; mientras que la solución técnica en preparación para
-
+garantizar que los gestores de infraestructuras ferroviarias, de categoría nacional y regional, limiten en la máxima medida posible el uso rutinario de la función «Supresión (Override)», entre otros medios mediante la concesión, en los desplazamientos bajo «Señal de llamada», cuando se cumplan las condiciones controladas establecidas para la circulación del tren, de la autorización de circulación (MA) en el modo «Según visibilidad (OS)»; si bien la solución técnica en preparación para
 
 ## Página 39
+
 
 los enclavamientos electrónicos de tipo ESA, incluida la modificación relacionada de las reglas de explotación, se implantará en servicio lo antes posible y, a continuación, se ampliará lo antes posible en toda la red de estas líneas según la estrategia establecida, y además se examinará la posibilidad de extender la solución en cuestión también a los enclavamientos híbridos de tipo ETB.
 ## SAFETY RECOMMENDATIONS
@@ -1180,8 +1178,8 @@ Certificado del firmante:
 Nombre: Drážní inspekce
 Emitido por: PostSignum Qualified CA 4
 
-
 ## Página 40
+
 
 ## ANEXOS
 Fig. n.º 5: Unidades eléctricas estacionadas en la estación de Letovice (parcialmente afectadas por la MU)

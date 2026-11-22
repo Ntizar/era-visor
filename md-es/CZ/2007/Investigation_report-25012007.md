@@ -10,13 +10,14 @@ chars: 132805
 ratio_longitud: 1.30
 tokens_in: 53816
 tokens_out: 38120
-verificacion: revisar
-notas_cifras: ["bloque 1: original bilingüe: se compara contra el idioma principal (EN)", "bloque 2: original bilingüe: se compara contra el idioma principal (CS)", "bloque 5: cifras cortas: 2/87", "bloque 6: cifras cortas: 1/46", "bloque 8: cifras cortas: 6/53", "bloque 11: original bilingüe: se compara contra el idioma principal (CS); cifras cortas: 4/78"]
-avisos: ["bloque 11: ratio 1.62", "bloque 19: ratio 2.20"]
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 3: original bilingüe: se compara contra el idioma principal (CS)", "página 4: original bilingüe: se compara contra el idioma principal (EN)", "página 5: original bilingüe: se compara contra el idioma principal (PT)", "página 6: original bilingüe: se compara contra el idioma principal (CS)", "página 11: cifras cortas: 2/46"]
 ---
+
 ## Página 1
+
 
 Inspección Ferroviaria
 República Checa
@@ -42,11 +43,12 @@ NIF: 75009561
 http://www.dicr.cz
 fax: (+420) 224 805 428
 
-
 ## Página 2
 
 
+
 ## Página 3
+
 
 # RESUMEN
 Jueves, 25 de enero de 2007, 11:25 (09:25 GMT)
@@ -69,8 +71,8 @@ regulaciones (no existían procedimientos)
 Recomendación: no emitida
 Vista general del lugar del incidente extraordinario – paso a nivel en el punto kilométrico 0,683
 
-
 ## Página 4
+
 
 # Índice
  Resumen .............................................................................................................................3
@@ -104,6 +106,7 @@ incluidas las personas en relación contractual ................................
 
 ## Página 5
 
+
 proporción ...............................................................................................................13
 3.1.2 Otras personas .........................................................................................................16
 3.2 Sistema de garantía de la seguridad ...............................................................................16
@@ -133,8 +136,8 @@ proporción ....................................................................
 3.7 Incidentes anteriores de naturaleza similar ............................................32
 4 Análisis y conclusiones ............................................................................................................33
 
-
 ## Página 6
+
 
 4.1 Descripción final del incidente ..........................................................................33
 4.1.1 Descripción final del incidente basada en los hechos constatados en el punto 3 
@@ -158,6 +161,7 @@ proporción ....................................................................
 
 ## Página 7
 
+
 ## 1 RESUMEN
 El 25 de enero de 2007, a las 11:25 horas, se produjo un suceso extraordinario (en adelante, «SE») en el transporte ferroviario a tenor del artículo 49 de la ley n.º 266/1994 Coll., sobre ferrocarriles, en su versión vigente, cuando en el punto de cruce de la vía férrea lateral «Pivovar RADEGAST» con una vía terrestre a nivel de las vías (en adelante, «paso a nivel») en el pk 0,683 (pk 0,68009 – 0,68521) colisionaron un vehículo ferroviario —tren empujado acompañado de una unidad de maniobras— con un vehículo automotor por carretera. El vehículo por carretera estaba compuesto por un camión Volvo FM 12, matrícula: 3T0 7653 y un remolque TOM NR 39, matrícula: 1T6 1853.
 En el suceso extraordinario se produjo una lesión a la salud de una persona —empleado del operador del transporte ferroviario (encargado de las maniobras).
@@ -170,8 +174,8 @@ La Inspección Ferroviaria no emitió ninguna recomendación de seguridad en rel
 ### 2.1.1 Fecha, hora exacta y lugar del suceso extraordinario
 La SE se produjo el 25 de enero de 2007, a las 11:25 horas, en la vía férrea lateral «Pivovar RADEGAST», en la vía n.º 1 (vía de unión), en un paso a nivel de vías múltiples (en adelante, «PN») en el pk 0,683 en el término municipal de Nošovice.
 
-
 ## Página 8
+
 
 ### 2.1.2 Descripción del suceso extraordinario y del lugar del accidente, incluida la actividad del sistema integrado de rescate y de los servicios de emergencia
 La SE se produjo en el PN en el pk 0,683, que en el momento de la SE, desde la dirección de circulación del vehículo por carretera Volvo FM 12, matrícula: 3T0 7653 + TOM NR 39, matrícula: 1T6 1853 (en adelante, «camión Volvo»), estaba señalizado con la señal de tráfico vertical A 32b «Cruz de advertencia para paso a nivel de vías múltiples». La vía lateral Radegast en el lugar del PN en cuestión es de vía única.
@@ -190,6 +194,7 @@ Unidad de protección contra incendios del Servicio de Bomberos y Rescate de los
 (en adelante, «SBR ČD Přerov»);
 
 ## Página 9
+
 
 Oficina territorial del servicio de rescate de la región de Moravia-Silesia, sucursal Frýdek-Místek 
 –
@@ -220,8 +225,8 @@ conductor del camión de carga Volvo FM 12, matrícula: 3T0 7653 y del remolque
 •
 TOM NR 39, matrícula: 1T6 1853.
 
-
 ## Página 10
+
 
 2.2.2 Trenes y su composición, incluidos los números de registro de cada vehículo ferroviario
 El conjunto empujado acompañado para maniobras estaba compuesto por una locomotora diésel (HDV) de la serie 742.392-4 y un vehículo ferroviario sin tracción propia (TDV) de la serie 30 54 940 6118-0 (Daak). En la cabeza del conjunto empujado para maniobras se encontraba el TDV 
@@ -237,6 +242,7 @@ La cruz de San Andrés está situada en el sentido de marcha del vehículo autom
 La vía privada Radegast está equipada con un dispositivo de seguridad – señal de clasificación luminosa Se1 situada en el km 0,415 y válida para la marcha de vehículos ferroviarios desde la vía privada Radegast o desde la vía privada ČEPS hasta la ŽST Dobrá u FM. Esta señal forma parte del dispositivo de seguridad de estación de la ŽST Dobrá u FM y su manejo lo realiza una persona técnicamente competente – persona que dirige el transporte ferroviario (en adelante, «despachador») en la línea regional Český Těšín – Frýdek-Místek en la ŽST Dobrá u FM, en los tramos de vía adyacentes y en las vías privadas conectadas. No está instalado ningún dispositivo de registro en la vía privada. Los desvíos de la vía privada se conmutan manualmente (localmente). El desvío P2 y el descarrilador VkP 2 están, contra
 
 ## Página 11
+
 
 cambio equipado con un candado de cambio de control. La velocidad de circulación de los vehículos ferroviarios por la vía nº 1 (vía de unión) fuera del recinto de la fábrica se establece mediante los procedimientos tecnológicos unitarios del explotador, en forma de norma interna «NORMA DE EXPLOTACIÓN DE LA VÍA PRIVADA Cervecería Radegast» aprobada el 10.03.2000 bajo el nº de registro: 12/SMD–2000 y vigente desde el 17.04.2000. En el momento de la aparición del IE, en la vía nº 1 (vía de unión), durante las maniobras de tracción, estaba permitida una velocidad máxima de 30 km/h; durante las maniobras de empuje, en la vía nº 1 (vía de unión) estaba permitida una velocidad máxima de 15 km/h.
 
@@ -264,33 +270,22 @@ A las 12:06 h, un empleado del COP decidió la salida y el inicio de la investig
 
 ## Página 12
 
-### 2.2.7 Activación del plan del sistema integrado de rescate, la policía y el servicio de rescate médico y secuencia de los acontecimientos
-
-La aparición del IE fue notificada sin demora por el punto de notificación del explotador, de conformidad con el texto de las disposiciones pertinentes del decreto nº 376/2006 Coll., a las distintas componentes del sistema integrado de rescate.
-
-En el lugar del IE intervinieron las unidades del servicio de bomberos de ČD Ostrava y Přerov, el servicio de rescate médico (RZS) y la oficina regional de la Policía de la República Checa (PČR) del DI.
-
-### 2.3 Muertes, lesiones y daños materiales
-
-2.3.1 En viajeros y terceros, empleados del explotador de la vía y del transportista, incluidas las personas en relación contractual
-
-En el IE se produjo una lesión al maniobrero – empleado del transportista, que viajaba en un vagón de maniobras empujado por el TDV, quien fue trasladado rápidamente por el servicio de rescate médico al hospital de Frýdek-Místek para recibir tratamiento. Las demás personas involucradas en el IE no resultaron heridas ni fallecidas.
-
-### 2.3.2 En mercancías transportadas, equipajes y otros bienes
-
-El vehículo de carretera estaba compuesto por un camión Volvo FM 12, matrícula: 3T0 7653 y un remolque TOM NR 39, matrícula: 1T6 1853. Según la estimación cualificada de la oficina regional de la Policía de la República Checa (PČR) del DI, se causaron daños al camión Volvo FM 12, matrícula: 3T0 7653, por un importe de 1 000 000 Kč. No se causaron daños al remolque TOM NR 39, matrícula: 1T6 1853.
-
-### 2.3.3 En vehículos ferroviarios, componentes de la vía y en el medio ambiente
-
-Se causaron daños a la locomotora HDV serie 742.392-5, propiedad del transportista, por un importe de 12 084 Kč.
-
-Como consecuencia del IE, resultaron dañados dos topes, la válvula de conexión del freno directo, incluidas las tuberías, y una válvula de la tubería continua. Todas las averías se produjeron en la parte delantera de la locomotora con un corto cabezal. La estimación cualificada de los daños fue realizada por una comisión de personal cualificado del transportista en el marco de la inspección realizada el 26.01.2007 en el taller de Ostrava.
-
-Se causaron daños a la unidad de tracción TDV serie 30 54 640 6118-0 (Daak), propiedad del transportista, por un importe de 60 000 Kč. Como consecuencia del IE, resultaron deformados el bastidor y los refuerzos de la carrocería, el panel frontal, un tope y los ejes. Además, resultaron dañados los remaches de los ejes, las tuberías de freno, la válvula de freno y dos mangueras de freno. El TDV fue propuesto para su baja debido a su obsolescencia moral y a la no rentabilidad de su reparación. La estimación cualificada de los daños fue realizada por una comisión de personal cualificado del transportista en el marco de la inspección realizada el 26.01.2007 en el taller de Ostrava, PP Frýdek-Místek.
-
-En el IE también se causaron daños a la propiedad del titular de la vía privada Radegast – en componentes de la vía, es decir, en el balasto ferroviario dañado por el TDV descarrilado y en la señal vertical de tráfico A 32b «Cruz de advertencia para paso a nivel de vía múltiple», por un importe total de 11 600 Kč.
+### 2.2.7 Activación del plan del sistema integrado de emergencias, policía y servicio médico de emergencias y secuencia de acontecimientos
+La creación del MU fue notificada por el puesto de notificación del gestor, de conformidad con el texto de las disposiciones pertinentes del decreto n.º 376/2006 Sb., sin demora a las distintas ramas del sistema integrado de emergencias.
+En el lugar del MU actuaron las unidades HZS ČD Ostrava y Přerov, RZS y PČR OŘ DI.
+### 2.3 Fallecimientos, lesiones y daños materiales
+2.3.1 En cuanto a pasajeros y terceras personas, empleados del gestor de la vía y del transportista, incluidas personas en relación contractual
+Con motivo del MU se produjo un perjuicio para la salud del maniobrador – empleado del transportista, que viajaba en el TDV del elemento de maniobra empujado, el cual fue trasladado posteriormente por el servicio de emergencias rápidas a recibir tratamiento en el hospital de Frýdek-Místek. Las demás personas implicadas en el mencionado MU no resultaron heridas ni fallecieron.
+### 2.3.2 En cuanto a las cosas transportadas, el equipaje y otros bienes
+El vehículo por carretera estaba compuesto por el camión Volvo FM 12, matrícula: 3T0 7653 y el remolque TOM NR 39, matrícula: 1T6 1853. Según la estimación cualificada de PČR OŘ DI, se produjo un daño en el camión Volvo FM 12, matrícula: 3T0 7653, por importe de 1 000 000 Kč. En el remolque TOM NR 39, matrícula: 1T6 1853, no se produjo daño.
+### 2.3.3 En cuanto a los vehículos ferroviarios, los componentes de la vía de circulación y el medio ambiente
+En el HDV de la serie 742.392-5, propiedad del transportista, se produjo un daño por importe de 12 084 Kč.
+Como consecuencia del MU se dañaron dos amortiguadores, el grifo de conexión del freno de acción directa, incluida la tubería, y un grifo de la tubería continua. Todos los daños se produjeron en el frontal del HDV con morro corto. La estimación cualificada del daño fue establecida por la comisión de personas cualificadas del transportista en el marco de la inspección realizada el 26. 01. 2007 en DKV Ostrava.
+En el TDV de la serie 30 54 640 6118-0 (Daak), propiedad del transportista, se produjo un daño por importe de 60 000 Kč. Como consecuencia del MU se deformaron el bastidor y los refuerzos de la carrocería, el forro frontal, un amortiguador y los ejes. Asimismo, se dañaron los remaches de los ejes, la tubería de freno, el grifo de freno y dos mangueras de freno. El TDV fue propuesto para su baja por obsolescencia y por no ser rentable su reparación. La estimación cualificada del daño fue establecida por la comisión de personas cualificadas del transportista en el marco de la inspección realizada el 26. 01. 2007 en DKV Ostrava, PP Frýdek-Místek.
+Con motivo del MU se produjo asimismo un daño en la propiedad del titular de la vía privada Radegast – en los componentes de la vía de circulación, es decir, en la superestructura ferroviaria dañada por el TDV descarrilado y en la señal vertical A 32b «Cruz de aviso para paso a nivel de varias vías», por un importe total de 11 600 Kč.
 
 ## Página 13
+
 
 ### 2.4 Circunstancias externas
 ### 2.4.1 Condiciones meteorológicas y datos geográficos
@@ -307,8 +302,8 @@ a las 13:50 h. indica:
 Se trataba de un vehículo para el transporte de madera y troncos. Al verlo, volví a tocar la bocina, lo cual ya había estado haciendo antes de llegar al paso. En ese mismo momento, el maniobrero, que se encontraba en el vagón de servicio empujado junto a la ventana derecha, me comunicó por radio que detuviera la locomotora. Ante esto, reaccioné aplicando el freno. A pesar de su uso, se produjo una colisión con el vehículo de carga, que entró en el paso a nivel sin detenerse ni reaccionar de ninguna manera ante el sonido de la bocina. Tras el impacto, la composición se detuvo inmediatamente. Bajé del vehículo y fui a comprobar si a alguien le había ocurrido algo. Al entrar en el vagón de servicio, comprobé que el maniobrero, que me estaba dando la señal, estaba herido, concretamente en la cabeza. A continuación, comuniqué todo el incidente por radio a la estación de Dobrá. Mientras esperaba en el lugar la llegada de ayuda, mantuve una conversación con el conductor, quien me comunicó que no había visto la composición que se acercaba. Yo no sufrí ninguna lesión en el accidente.»
 Jefe de maniobras del tramo de maniobras:
 
-
 ## Página 14
+
 
 en el documento «ACTA DE PRESTACIÓN DE EXPLICACIONES» elaborado el 25.01.2007 
 –
@@ -330,6 +325,7 @@ en el documento «Acta con el empleado» elaborado el 06.02.2007 indica:
 –
 
 ## Página 15
+
 
 «El 25.01.2007 a las 06:10 horas inicié el turno en la estación de ferrocarril (ŽST) de Frýdek-Místek como maniobrador. Inmediatamente después del comienzo del turno, partimos hacia la estación de ferrocarril (ŽST) de Dobrá u Frýdku Místku y acoplamos un grupo de aproximadamente seis vagones de mercancías en la vía particular de la Cervecería Radegast. Tras el regreso de la vía particular, transportamos carga desde la estación de ferrocarril de Frýdek-Místek hasta la estación de ferrocarril de Hnojník. Allí apartamos aproximadamente dos vagones de mercancías. Con tres vagones, tras realizar las maniobras de acoplamiento (ÚZB), partimos hacia la estación de ferrocarril de Dobrá u Frýdku Místku. Aproximadamente a las 11:21 horas partimos con la composición de maniobras y el coche de servicio, que era el primer coche empujado, para realizar la operación en la vía particular de la Cervecería Radegast. Yo me encontraba en el coche de servicio, en la ventanilla de observación a la derecha en el sentido del empuje. Tras la salida de la estación, al pasar por dos pasos a nivel protegidos, el maquinista daba la señal de «Atención» con la bocina de la locomotora. Yo vigilaba el lado derecho en el sentido del empuje, controlaba la libertad de la vía de maniobras y daba la señal de «Maniobrar» al maquinista mediante la radio. Esta señal la repetía continuamente. Tras pasar por el paso superior de la carretera, no observé ningún movimiento en el paso a nivel del punto kilométrico (km) 0,683, por lo que di la señal de «Maniobrar» mediante la radio. Cuando estábamos a unos 60 metros del paso a nivel, vi llegar desde la derecha a un camión hacia dicho paso a nivel. Dado que vi que el camión no reducía la velocidad ni se detenía, llamé al maquinista por la radio varias veces diciendo «Deténgase». El maquinista frenó bruscamente; yo logré apartarme de la ventana, pero a pesar de ello, por el impacto fui lanzado contra la estufa del coche».
 
@@ -354,8 +350,8 @@ Respuesta: «Creo que sobre la base de la señal de advertencia con la indicaci�
 
 Pregunta n.º 3: ¿Ha realizado alguna vez en el pasado la prueba de aptitud de conocimientos técnicos
 
-
 ## Página 16
+
 
 teóricos y prácticos ante el explotador de la vía particular «Cervecería RADEGAST» - es decir, ante el representante de la empresa SLEZSKOMORAVSKÁ DRÁHA a. s.?
 Respuesta: «No, no lo recuerdo».
@@ -379,6 +375,7 @@ a las 14:30 horas se indica:
 Las disposiciones básicas para garantizar las actividades de explotación de la vía y para determinar la cualificación profesional de las personas participantes en la seguridad de la vía, la explotación de la vía y la organización del tráfico ferroviario en las vías particulares que están en servicio del explotador de la vía SLEZSKOMORAVSKÁ DRÁHA a. s. incluyen los procedimientos tecnológicos unificados publicados en el sentido del artículo 22, apartado 1, letra b), de la ley n.º 266/1994 Coll., sobre ferrocarriles, en su versión vigente, y del artículo 2, apartado 1, por parte del explotador, en forma de norma interna «NORMA DE EXPLOTACIÓN [para las vías particulares]» (en adelante, «Norma de explotación del explotador»), aprobada el 28.12.1995, bajo el número de registro: 240/SMD-95, con efecto desde el 01.01.1996, en su versión vigente.
 
 ## Página 17
+
 
 El reglamento de explotación del titular de la infraestructura determina el modo y las condiciones para:
 la señalización de los dispositivos de la vía,
@@ -419,8 +416,8 @@ artículo 7. Maniobras con locomotoras, punto 5.
 –
 «En los conjuntos en maniobra empujados, el trabajador designado debe ir a pie o en vehículo, de manera que pueda tener una visión clara de la vía delante de los vehículos ferroviarios y emitir las señales necesarias. …..».
 
-
 ## Página 18
+
 
 Las condiciones para la seguridad, la explotación y la organización del tráfico ferroviario establecidas en el reglamento de explotación se especifican ulteriormente en el «REGULAMENTO DE EXPLOTACIÓN DE LA RAMAL INDUSTRIAL Cervecería RADEGAST» (en adelante, «reglamento de explotación»), aprobado el 10. 03. 2000, con el número de registro: 12/SMD-2000, con efecto desde el 17. 04. 2000, en su versión vigente. El reglamento de explotación forma parte de los procedimientos tecnológicos uniformes del titular de la infraestructura para la explotación de la vía y del tráfico ferroviario.
 En el reglamento de explotación, en la parte «2. Descripción de la ramal industrial», se indica, entre otras cosas:
@@ -436,31 +433,41 @@ Los requisitos de aptitud profesional de los empleados del titular de la infraes
 
 ## Página 19
 
-en su versión vigente, la competencia profesional del personal del transportista se establece en la parte «IV. EXplotación del transporte ferroviario», punto 4.2., donde se indica, entre otros aspectos:
-«La competencia profesional del personal de ČD es suficiente para la explotación del transporte ferroviario en las vías privadas del operador SMD.»
-Los requisitos de competencia profesional del personal del transportista ČD, a. s., los establece el reglamento interno «ČD Ok 2 REGLAMENTO DE FORMACIÓN Y EXAMEN DE LOS FERROCARRILES CHECOS, a. s.», aprobado el 07. 12. 2005, con el número de registro: 61773/05-O10, con efecto desde el 01. 01. 2006, en su versión vigente.
-Todos los empleados del transportista implicados estaban cualificados profesionalmente en el momento de la producción del IR (Investigación de Accidentes) para el desempeño de su cargo. Las copias de los registros escritos forman parte del expediente.
-La condición de aptitud para la conducción de vehículos ferroviarios la establece el artículo 45 de la ley n.º 266/1994 Coll., sobre ferrocarriles, en su versión vigente.
-El maquinista del departamento de maniobras es titular de un permiso vigente «PERMISO DE APTITUD PARA LA CONDUCCIÓN DE VEHÍCULOS FERROVIARIOS», núm. de registro 005812, emitido por la Oficina Ferroviaria de Praga el 10. 04. 1996, para los tipos de vehículos MH, MM, ME y MK, en las líneas C, R y V. La copia del permiso forma parte del expediente.
-### 3.2.3 Procedimiento del control interno de seguridad y sus resultados
-Las inspecciones y mediciones en la vía privada las realiza el operador de acuerdo con el anexo n.º 1 del decreto n.º 177/1995 Coll., por el que se aprueba el reglamento de construcción y técnica de los ferrocarriles.
-El operador de la vía privada Radegast acreditó la realización de las inspecciones obligatorias mediante los siguientes documentos:
-«Acta de inspección de la vía privada» (en adelante «acta n.º 1»), núm. de registro: 151-P/SMD-06, de fecha
-–
-29. 06. 2006, (con defectos en los pasos a nivel);
-«Acta de inspección de la vía privada» (en adelante «acta n.º 2»), núm. de registro: 137-P/SMD-05, de fecha 8. 6. 2005
-–
-(sin defectos en los pasos a nivel), de la que se desprende que se realizó la medición de la posición geométrica de las vías y la inspección de los pasos y cruces;
-«Informe de inspección de los cruces y pasos» (en adelante «informe»), elaborado en Ostrava
-–
-el 15. 06. 2006. La inspección la realizó una persona con competencia profesional, empleado del operador.
-Los documentos acta n.º 1, acta n.º 2 e informe están depositados en poder del operador
-SLEZKOMORAVSKÁ DRÁHA a.s. La eliminación de los defectos detectados en el estado técnico y en las condiciones de visibilidad en los pasos a nivel (ŽP) en el pk 0,683 no se llevó a cabo en el momento de la producción del IR.
-Las copias del acta 1, del acta 2 y del informe forman parte del expediente.
-El control interno de las normas para la explotación del transporte ferroviario que establece el contenido de las actividades del transportista en la conducción de vehículos ferroviarios —los documentos que acreditan el método y los resultados del control de los registros de los dispositivos de grabación de las locomotoras ferroviarias, es decir, los registros: las cintas de los taquígrafos y los datos descargados de los sistemas electrónicos de taquígrafos— los regulan los procedimientos tecnológicos uniformes del transportista České dráhy, a. s., contenidos en el reglamento interno ČD V 8/I «Reglamento para
+en la versión vigente, la cualificación profesional de los empleados del transportista está establecida en la parte «IV. EXPLOTACIÓN DEL TRANSPORTE FERROVIARIO», punto 4.2., donde, entre otros, se indica:
 
+«La cualificación profesional de los empleados de ČD es suficiente para la explotación del transporte ferroviario en las vías privadas del explotador SMD.»
+
+Los requisitos de cualificación profesional de los empleados del transportista ČD, a. s. los establece la norma interna «ČD Ok 2 REGLAMENTO DE FORMACIÓN Y EXÁMENES DE LOS FERROCARRILES CHECOS, a. s.», aprobada el 07. 12. 2005, con el n.º de expediente: 61773/05-O10, en vigor desde el 01. 01. 2006, en su versión vigente.
+
+Todos los empleados del transportista implicados eran, en el momento de producirse el MU, profesionalmente cualificados para el desempeño de la función que ocupaban. Las copias de los registros escritos forman parte del expediente.
+
+La condición de aptitud para la conducción de vehículos ferroviarios la establece el § 45 de la Ley n.º 266/1994 Sb., de ferrocarriles, en su versión vigente.
+
+El maquinista de la unidad de maniobras es titular de un certificado válido de «CERTIFICADO DE APTITUD PARA LA CONDUCCIÓN DE VEHÍFEROS FERROVIARIOS», n.º de referencia 005812, expedido por la Autoridad Ferroviaria de Praga el 10. 04. 1996, para los tipos de vehículo MH, MM, ME y MK, en las vías C, R y V. La copia del certificado forma parte del expediente.
+
+### 3.2.3 Procedimiento de control interno de seguridad y sus resultados
+
+Las inspecciones y mediciones en la vía privada las realiza el explotador de acuerdo con el anexo n.º 1 del decreto n.º 177/1995 Sb., por el que se dicta el reglamento de construcción y técnico de los ferrocarriles.
+
+El explotador de la vía privada Radegast acreditó la realización de las inspecciones prescritas mediante los siguientes documentos:
+
+«Acta de inspección de la vía privada» (en adelante «acta n.º 1»), n.º de expediente: 151-P/SMD-06, de fecha –
+29. 06. 2006, (con defectos en los pasos a nivel);
+
+«Acta de inspección de la vía privada» (en adelante «acta n.º 2»), n.º de expediente: 137-P/SMD-05, de fecha 8. 6. 2005 –
+(sin defectos en los pasos a nivel), de los que se desprende que se realizó la medición de la posición geométrica de las vías y la inspección de los pasos peatonales y pasos a nivel;
+
+«Acta de inspección de pasos a nivel y pasos peatonales» (en adelante «acta»), elaborada en Ostrava –
+el 15. 06. 2006. Las inspecciones las realizó una persona profesionalmente cualificada – empleado del explotador.
+
+Los documentos acta n.º 1, acta n.º 2 y acta se encuentran en poder del explotador SLEZKOMORAVSKÁ DRÁHA a.s. La corrección de los defectos detectados en el estado técnico y en las condiciones de visibilidad en el paso a nivel en el km 0,683 no se había realizado en el momento de producirse el MU.
+
+Las copias del acta 1, del acta 2 y la copia del acta forman parte del expediente.
+
+El control interno de las normas para la explotación del transporte ferroviario que establecen el contenido de las actividades del transportista en la conducción de vehículos ferroviarios – documentación sobre el modo y los resultados del control de los registros de los dispositivos de registro de los vehículos ferroviarios de tracción, es decir, de los registros – tiras registradoras de velocidad y de los datos descargados de los sistemas electrónicos de registro de velocidad – los regulan los procedimientos tecnológicos uniformes del transportista České dráhy, a. s. contenidos en la norma interna ČD V 8/I «Reglamento para
 
 ## Página 20
+
 
 la explotación y el manejo de los taquígrafos», núm. de registro: 57732/2000, de fecha 05. 10. 2000, con efecto desde el 01. 02. 2001 en su versión vigente, y el reglamento interno ČD V 8/II «Reglamento para el mantenimiento de los taquígrafos y la evaluación de sus registros», núm. de registro: 57732/2000, de fecha 05. 10. 2000, con efecto desde el 01. 02. 2001 en su versión vigente.
 El transportista lleva el control de la evaluación de los registros de los taquígrafos y sus resultados en el libro «Libro de evaluación de los registros del taquígrafo DKV Ostrava» (en adelante «libro»), y lo hace por separado para cada mes. En el libro se indica diariamente el número total de registros entregados, incluido el número y los resultados de las evaluaciones realizadas al azar.
@@ -491,6 +498,7 @@ PARA LA EXPLOTACIÓN DE LA VÍA» - vía privada «Pivovar RADEGAST a.s.» (en a
 
 ## Página 21
 
+
 El inicio de la explotación de la vía privada tuvo lugar el 17.04.2000. Para la autorización oficial se han emitido los siguientes documentos:
 «Decisión sobre la modificación de la autorización oficial», número de registro ÚP/2000/2824-1, ref. n.º:
 –
@@ -520,8 +528,8 @@ Ley n.º 361/2000 Coll., sobre la circulación en las vías terrestres y sobre l
 Ley n.º 262/2006 Coll., Código del trabajo, en su versión vigente.
 –
 
-
 ## Página 22
+
 
 3.3.2 Otras normas, por ejemplo, reglamento de explotación, reglamento de trabajo, normas de mantenimiento, normas técnicas vigentes y otras normas internas
 Para la determinación de las causas y las circunstancias de la aparición de este IE se han utilizado las siguientes normas internas:
@@ -574,6 +582,7 @@ TERRESTRES», aprobadas por el Ministerio de Transportes bajo la ref. n.º: 72/2
 
 ## Página 23
 
+
 ### 3.4 Actividad del material rodante y de los dispositivos técnicos
 ### 3.4.1 Sistema de gestión, señalización y seguridad, incluidos los dispositivos de grabación automática de datos
 La organización del tráfico ferroviario – las maniobras de empuje acompañadas – se acuerda telefónicamente entre el despachador de la estación de maniobras de Dobrá u FM y el empleado autorizado del operador de la derivación Radegast.
@@ -591,79 +600,84 @@ Las magnitudes de las condiciones de visibilidad determinadas mediante medicione
 | L r | desde el final de la derivación Radegast (recinto de la empresa "Plzeňský Prazdroj a.s.") | izquierda = 16 m, derecha = 42 m | izquierda = 49 m, derecha = 49 m |
 * v máx = 30 km/h
 
-
 ## Página 24
 
-La señal de cruce ferroviario está situada en el sentido de circulación del vehículo automotor de carretera a una distancia de 5,3 m del eje de la vía n.º 1 de la derivación Radegast. La señal luminosa de advertencia con la indicación "¡Silbado!" fue instalada por el operador antes del paso a nivel (ŽP) en el pk 0,683, en el sentido desde el inicio de la derivación Radegast, durante el ejercicio de la supervisión estatal en materia de ferrocarriles llevado a cabo el día 05.02.2007, en el pk 0,408 (es decir, a una distancia de 275 m del paso a nivel en dirección al inicio de la derivación Radegast).
+La cruz de aviso se encuentra, en el sentido de circulación del vehículo motorizado por carretera, a una distancia de 5,3 m del eje de la vía nº 1 de la vía privada Radegast. La señal de aviso con la indicación "¡Pite!" que se encontraba antes del PdL en el pk 0,683 en el sentido desde el inicio de la vía privada Radegast, fue colocada por el explotador en el pk 0,408 (es decir, a una distancia de 275 m del PdL en dirección al inicio de la vía privada Radegast) en el momento de la realización de la supervisión estatal en materia de ferrocarriles celebrada el 05. 02. 2007.
 ### 3.4.3 Medios de comunicación
-La circulación de las maniobras de empuje acompañadas desde la estación de maniobras de Dobrá u FM hacia la derivación Radegast se acuerda telefónicamente entre el despachador de la estación de maniobras de Dobrá u FM y el empleado autorizado del operador de la derivación Radegast. La comunicación de señales entre el maquinista, el maniobrero y el responsable de la maniobra se realizaba mediante una radio portátil Motorola y una radio de a bordo VS47. La conexión de radio funciona en modo simplex en el canal 61 (frecuencia 57 525 Hz - red tecnológica de maniobras de la estación de maniobras de Frýdek-Místek).
-### 3.4.4 Material rodante, incluidos los dispositivos de grabación automática de datos
-La locomotora diésel (HDV) de la serie 742.392-5 está equipada con un dispositivo de grabación para la registro de las magnitudes básicas y complementarias relativas a la actividad de la HDV. Se trata de un velocígrafo registrador mecánico tipo 662 A504, núm. de inventario 79026, con una escala de velocidad de 0 a 150 km/h, en el que el registro de las magnitudes se realiza de forma mecánica, es decir, mediante una punta sobre una cinta de papel de velocímetro con capa de grafito.
-La persona técnicamente cualificada del transportista realizó el día 26.01.2007 la "Análisis informativo de la cinta del velocímetro procedente de la unidad motriz – accidente "B" del día 25.01.2007", bajo el núm. de expediente: 70 069/07 - O18, del cual se desprenden los siguientes hechos:
-circulación con el cabezal corto hacia adelante;
+El traslado de conjuntos empujados acompañados de elementos de maniobra desde la estación Dobrá u FM a la vía privada Radegast se acuerda telefónicamente entre el jefe de estación de la estación Dobrá u FM y el empleado autorizado del explotador de la vía privada Radegast. El contacto de señales entre el maquinista, el maniobrador y el jefe de maniobra se realizaba mediante la estación de radio portátil Motorola y la estación de radio de a bordo VS47. La comunicación radiofónica funciona en modo simplex en el canal 61 (frecuencia 57 525 Hz - red tecnológica de maniobras de la estación Frýdek-Místek).
+### 3.4.4 Vehículos ferroviarios, incluidos los dispositivos de registro automático de datos
+La locomotora de la serie 742.392-5 está equipada con un dispositivo de registro para la grabación de las variables básicas y complementarias del funcionamiento de la locomotora. Se trata de un registrador de velocidad mecánico tipo 662 A504, n.º de inventario 79026, con un rango de la escala de velocidad de 0 a 150 km.h-1, en el que el registro de las variables se realiza de forma mecánica, es decir, con una punta sobre la tira de papel registrador de velocidad con capa de carbono.
+### La persona cualificada del transportista realizó el 26. 01. 2007 el "Análisis informativo de la tira de registrador de velocidad de la locomotora – accidente 'B' del 25. 01. 2007", con el n.º de expediente: 70 069/07 - O18, del que se extraen los siguientes hechos:
+circulación con un pequeño empuje hacia delante;
 –
-velocígrafo registrador en la cabina del maquinista n.º I,
+registrador de velocidad en el puesto del maquinista nº I,
 –
-11:23:30 salida del grupo de maniobras desde la estación de maniobras de Dobrá u FM;
+11:23:30 salida del elemento de maniobra de la estación Dobrá u FM;
 –
-aumento progresivo de la velocidad hasta 30 km/h en una distancia recorrida de 200 m;
+aumento progresivo de la velocidad a 30 km.h-1 en una distancia recorrida de 200 m;
 –
-posteriormente se registró circulación a una velocidad de 29 a 30 km/h en una distancia recorrida de 120 m;
+posteriormente se registra una circulación a una velocidad de 29 a 30 km.h-1 en una distancia recorrida de 120 m;
 –
-disminución gradual de la velocidad hasta 21 km/h en una distancia recorrida de 100 m;
+disminución gradual de la velocidad a 21 km.h-1 en una distancia recorrida de 100 m;
 –
-circulación a velocidad constante de 21 km/h en una distancia recorrida de 80 m;
+circulación a velocidad constante de 21 km.h-1 en una distancia recorrida de 80 m;
 –
-se registró una disminución de la velocidad hasta 10 km/h en una distancia recorrida de 50 m;
+se registra una disminución de la velocidad a 10 km.h-1 en una distancia recorrida de 50 m;
 –
-11:25:00 frenado intenso, cuya intensidad corresponde al modo de frenado de emergencia,
+11:25:00 frenado intenso, cuya intensidad corresponde al modo de frenado de acción rápida,
 –
-hasta la parada completa del grupo de maniobras en el pk 0,686 (lugar de parada de la parte delantera del grupo de maniobras de empuje);
-12:35:00 extracción de la cinta del velocímetro del dispositivo de grabación (tiempo real de extracción –
+hasta la parada completa del elemento de maniobra en el pk 0,686 (lugar de parada del frente del conjunto empujado);
+12:35:00 extracción de la tira de registrador de velocidad del dispositivo de registro (hora real de extracción
+–
 12:38, es decir, diferencia +3').
-El transportista constata que, mediante el análisis, se detectó el exceso de la velocidad máxima permitida en el tramo desde el arranque del grupo de maniobras de empuje hasta el pk 0,620. La velocidad máxima permitida para la circulación de material rodante ferroviario mediante maniobras de empuje es establecida por el operador en 15 km/h.
+El transportista constata que, mediante el análisis, se detectó la superación de la velocidad máxima permitida en el tramo desde la puesta en marcha del conjunto empujado hasta el pk 0,620. La velocidad máxima permitida en la circulación de vehículos ferroviarios mediante empuje es fijada por el explotador en 15 km.h-1.
 
 ## Página 25
 
-Se constata, asimismo, que no se superó la velocidad máxima permitida de 10 km/h antes del paso a nivel.
+En la misma se constata que la velocidad máxima permitida de 10 km.h-1 antes del paso a nivel no fue superada.
 
-La persona cualificada del transportista realizó el día 13.02.2007 la «Evaluación de la cinta del velocígrafo» con motivo de la investigación de un incidente extraordinario – accidente (B4), ocurrido el 25.01.2007 en la vía privada Pivovar Radegast en el pk 0,683, colisión con un camión (en adelante «evaluación»). Del documento presentado se desprenden los siguientes hechos:
+### La persona cualificada del transportista realizó el día 13. 02. 2007 la "Evaluación de la banda registradora de velocidad" con motivo de la investigación del suceso excepcional – accidente (B4), ocurrido el día 25. 01. 2007 en el apartadero Pivovar Radegast en el pk 0,683, colisión con un camión (en adelante "evaluación"). Del documento presentado se desprenden los siguientes hechos:
 
-11:23:30 salida del conjunto de maniobras desde la EST Dobrá cerca de la FM;
+11:23:30 salida de la unidad de maniobras de la EST Dobrá u FM;
 –
-aumento progresivo de la velocidad hasta 24 km/h en una distancia recorrida de 30 m;
+aumento progresivo de la velocidad a 24 km.h-1 en una distancia recorrida de 30 m;
 –
-se registró posteriormente una circulación a velocidad de 29 km/h en una distancia recorrida de 150 m;
+a continuación se registró una circulación a 29 km.h-1 en una distancia recorrida de 150 m;
 –
-reducción de la velocidad a 20 km/h en una distancia recorrida de 400 m;
+reducción de la velocidad a 20 km.h-1 en una distancia recorrida de 400 m;
 –
-se registró una reducción de la velocidad a 9 km/h en una distancia recorrida de 50 m;
+se registró una reducción de la velocidad a 9 km.h-1 en una distancia recorrida de 50 m;
 –
-desde el valor de velocidad de 9 km/h, la pluma de velocidad cae perpendicularmente sobre la línea cero de registro de la velocidad.
+desde el valor de velocidad de 9 km.h-1 la plumilla de velocidad cae perpendicularmente sobre la línea cero de registro
+–
+de velocidad.
 
-El transportista constata que no se superó la velocidad máxima permitida para maniobras de 10 km/h en el nivel del paso a nivel.
+El transportista constata que la velocidad máxima permitida de maniobra de 10 km.h-1 no fue superada en el nivel del paso a nivel.
 
 En el documento presentado se establecen las siguientes desviaciones:
 
 a) Registro del tiempo
-La pluma del registro por minutos se coloca regularmente 0,4 mm por debajo del borde superior y se ajusta 0,3 mm por debajo del borde inferior de la línea de la cuadrícula de los minutos. Diferencia entre el tiempo registrado y el tiempo real al extraer la cinta del velocígrafo – registro + 3 minutos.
+La plumilla del registro de minutos se coloca regularmente 0,4 mm por debajo del borde superior y se ajusta
+–
+0,3 mm por debajo de la línea de borde inferior de la retícula de minutos. Diferencia entre el tiempo registrado y el tiempo real al extraer la banda registradora de velocidad – registro + 3 minutos.
 
 b) Registro de la velocidad
 Sin desviaciones.
-
+–
 c) Registro de la distancia recorrida
-La distancia recorrida registrada es un 2 % inferior a la realmente recorrida.
-
+La distancia recorrida registrada es un 2 % menor que la realmente recorrida.
+–
 d) Desplazamiento vertical del registro de la velocidad y del registro del tiempo
-La pluma del registro por minutos va por delante de la pluma del registro de la velocidad en 0,2 mm.
+La plumilla del registro de minutos adelanta a la plumilla del registro de velocidad en 0,2 mm.
+–
+Las desviaciones indicadas fueron aplicadas en la evaluación.
 
-Se han aplicado las desviaciones indicadas en la evaluación.
+En la conclusión del documento de evaluación, el transportista constata que, al utilizar el frenado continuo en el II.º modo de frenado, el valor medio del frenado operativo es a = 0,20 m/s2. Dadas las condiciones de adherencia – pendiente de la vía de 16 por mil y con la resistencia a la marcha de una curva de radio R = 200 m, no es posible determinar con exactitud la distancia de frenado desde una velocidad de 9 km.h-1.
 
-En las conclusiones del documento de evaluación, el transportista constata que, al utilizar el frenado continuo en el segundo método de frenado, el valor medio del frenado operativo es a = 0,20 m/s². Dadas las condiciones de adherencia – rampa de la vía del 16 ‰ y resistencia a la marcha de la curva con radio R = 200 m – no es posible determinar con precisión la distancia de frenado desde una velocidad de 9 km/h.
-
-A efectos de la investigación conforme al apartado 3, letra b), del artículo 53b de la ley n.º 266/1994 Coll., sobre las vías férreas, en su redacción posterior, el transportista fue solicitado por la Inspección Ferroviaria, sobre la base del documento «Solicitud de asistencia judicial – aseguramiento de pruebas», n.º de referencia: 6-004/2007-4, de fecha 12.02.2007, para la entrega y aseguramiento del original de la cinta del velocígrafo del dispositivo de registro HDV serie 742.392-4, extraído el 25.01.2007 a las 12:38 h tras el I – colisión del conjunto de maniobras empujado con un vehículo de carretera en el paso a nivel en el pk
+A efectos de la investigación en el sentido del § 53b apartado 3 letra b) de la Ley núm. 266/1994 Sb., de vías férreas, en la redacción de las disposiciones posteriores, el transportista fue requerido por la Inspección Ferroviaria con base en el documento "Solicitud – obtención de prueba", ref. núm.: 6-004/2007-4, de fecha 12. 02. 2007, para la entrega-obtención del original de la banda registradora de velocidad del dispositivo de registro de la HDV serie 742.392-4, extraída el día 25. 01. 2007 a las 12:38 h tras el SU – colisión de la unidad de maniobras empujada acompañada con un vehículo rodante en el paso a nivel en el pk
 
 ## Página 26
+
 
 0,683 de la vía Radegast. La cinta del velocígrafo fue entregada por la persona autorizada del transportista al empleado de la Inspección Ferroviaria el 20.02.2007 y devuelta al transportista el 16.03.2007.
 
@@ -677,24 +691,25 @@ La razón del registro del desplazamiento longitudinal de la cinta del velocígr
 
 ## Página 27
 
+
 ### Fig. 1 Recorte del registro del transcurso de la velocidad
 
 ## Página 28
+
 
 ### Fig. 2 Recorte del registro temporal de la cinta del velocígrafo
 
 ## Página 29
 
-### Fig. 3 Recorte del registro temporal de la cinta velocimétrica.
-Sobre la base del documento «Descripción del registro de la marcha procedente de la cinta velocimétrica», la Inspección Ferroviaria (Drážní inspekce) constata que la velocidad del conjunto de maniobras en el lugar del choque con el vehículo de carretera, es decir, en el pk 0,683, fue de 16,8 km/h.
-
+### Obr. 3 Recorte del registro temporal de la banda registradora de velocidad.
+Sobre la base del documento «Descripción del registro de la marcha a partir de la banda registradora de velocidad», la Inspección Ferroviaria constata que la velocidad de la unidad de maniobras en el punto de colisión con el vehículo de carretera, es decir, en el pk 0,683, era de 16,8 km·h-1. 
 ### 3.5 Documentación sobre el sistema de explotación
-### 3.5.1 Medidas adoptadas por el personal del titular de la infraestructura y del transportista, en lo que respecta a la conducción, la señalización y la protección de la circulación
-Las marchas de conjuntos de maniobras acompañados desde la estación de maniobras (ŽST) Dobrá u FM hacia la vía privada Radegast se coordinan por teléfono, mediante una conversación entre el despachador de la estación de maniobras (ŽST) Dobrá u FM (en adelante, «el despachador») y el empleado autorizado del titular de la vía privada Radegast (en adelante, «el empleado autorizado»). El empleado autorizado asume la responsabilidad de que, durante la atención de la vía privada Radegast, no se realicen en dicha vía ninguna marcha de vehículos ferroviarios, ninguna manipulación de vehículos ferroviarios ni otras actividades que puedan poner en peligro la seguridad del transporte ferroviario. Si la atención se realiza durante el turno nocturno o con visibilidad reducida, el empleado autorizado debe garantizar la iluminación de la vía privada. En el informe telefónico, el empleado autorizado debe comunicar al despachador la libertad de la vía de maniobras y el correcto posicionamiento de los desvíos hacia la vía de entrega nº 1A o la vía nº 2. El permiso para maniobrar en la vía privada Radegast lo anotan tanto el despachador como el empleado autorizado en el cuaderno de llamadas telefónicas.
-
-A continuación, el despachador inicia la preparación de la vía de maniobras ordenando al vigilante de estación de la (ŽST) Dobrá u FM (en adelante, «el vigilante de estación») que coloque los desvíos para la maniobra hacia la vía privada Radegast
+### 3.5.1 Medidas adoptadas por los empleados del gestor de la infraestructura y del transportista en materia de conducción, señalización y seguridad del tráfico
+La marcha de las unidades de maniobras acompañadas desde la estación Dobrá u FM hacia el apartadero Radegast se acuerda telefónicamente, mediante conversación entre el jefe de estación de la estación Dobrá u FM (en adelante, «jefe de estación») y el empleado autorizado del gestor del apartadero Radegast (en adelante, «empleado autorizado»). El empleado autorizado responde, a continuación, de que durante la explotación del apartadero Radegast no se realicen en dicho apartadero ninguna marcha de vehículos ferroviarios, maniobras con vehículos ferroviarios ni otras actividades que puedan poner en peligro la seguridad del tráfico ferroviario. Si la explotación se realiza durante la noche o con visibilidad reducida, el empleado autorizado debe asegurar la iluminación del apartadero. En la comunicación telefónica, el empleado debe comunicar al jefe de estación la libertad de la vía de maniobras y la posición correcta de los desvíos hacia la vía de entrega n.º 1A o la vía n.º 2. Tanto el jefe de estación como el empleado autorizado anotan en el cuaderno telefónico la autorización para la maniobra hacia el apartadero Radegast. 
+A continuación, el jefe de estación inicia la preparación de la vía de maniobras ordenando al jefe de estación de servicio de la estación Dobrá u FM (en adelante, «jefe de estación de servicio») el accionamiento de los desvíos para la maniobra hacia el apartadero Radegast
 
 ## Página 30
+
 
 y atienda el dispositivo de protección de pasos a nivel PZM 1 del paso a nivel ferroviario en el pk 0,103 (pk 117,109 de la línea ferroviaria regional Český Těšín – Frýdek-Místek), que a nivel de las vías cruza la vía local. El vigilante de estación confirmará la realización de las operaciones de tráfico descritas anteriormente firmando en el cuaderno de llamadas telefónicas. A continuación, el despachador activará pulsando el botón «CERRADO PARA LA VÍA PRIVADA», que forma parte del dispositivo de protección de la estación, con lo que se pone en funcionamiento el dispositivo de protección de pasos a nivel PZS 3ZNI del paso a nivel ferroviario en el pk 0,393 (pk 117,394 de la línea ferroviaria regional Český Těšín – Frýdek-Místek). Tras encenderse la luz blanca de control del cierre del paso a nivel, el despachador otorga verbalmente al jefe de maniobras el consentimiento para maniobrar en la vía privada Radegast. Tras liberar el paso a nivel en el pk 0,103, el jefe de maniobras comunica al despachador, mediante la radio portátil, la liberación del paso a nivel. Posteriormente, el despachador anula la señal de alarma del dispositivo de protección de pasos a nivel en el pk 0,393 atendiendo el dispositivo —tirando del botón «CERRADO PARA LA VÍA PRIVADA».
 
@@ -709,6 +724,7 @@ La primera comunicación en relación con el incidente la realizó el maquinista
 La protección y el aseguramiento del lugar de origen del incidente se garantizaron de conformidad con el artículo 9 del Decreto nº 376/2006 Coll., por las personas autorizadas del titular y del transportista. Hasta la llegada de las personas autorizadas del titular y del transportista, el maquinista del conjunto de maniobras garantizó la protección y el aseguramiento del lugar de origen del incidente. El consentimiento para iniciar las labores de desescombro fue concedido a la Inspección Ferroviaria (DI COP) a las 13:25 h.
 
 ## Página 31
+
 
 ### 3.6 Condiciones laborales, sanitarias y de explotación
 ### 3.6.1 Jornada laboral del personal del titular de la infraestructura y del transportista que fueron participantes en el incidente
@@ -740,24 +756,19 @@ La locomotora HDV de tipo 1435 Bo'Bo' 883 kW (serie 742) es una locomotora de cu
 
 ## Página 32
 
-### 3.7 Anteriores incidentes extraordinarios de carácter similar
-
-En el ámbito de competencia de la Inspección Ferroviaria – Inspección Territorial de Ostrava, en el año 2007 se registraron en total cuatro incidentes extraordinarios (IE) similares, en los que se produjo una colisión entre un conjunto de maniobras y un vehículo de carretera – un camión. A continuación se presenta una tabla resumen de los IE similares.
-
+### 3.7 Incidentes anteriores de carácter similar
+En el ámbito de competencia de la Inspección Ferroviaria - Inspectorado Territorial de Ostrava se registran en el año 2007 un total de cuatro incidentes (MU) similares, en los que en las vías férreas-rampas privadas se produjo la colisión de una maniobra con un vehículo rodante – un camión. A continuación se muestra la tabla resumen de incidentes (MU) similares.
 | fecha | hora | operador/transportista | tipo de vía | lugar |
-| 11032006 . . | 05:25 | MittalSteelOstravaa s / . . MittalSteelOstravaa s . . | ferroviaria - derivación | Derivación Mittal Steel Ostrava a . s . Operación 573 - Transporte ferroviarioCruce ferroviario 513 vía n.º 568 , . . , . . |
-| 24102006 . . | 14:38 | VÍTKOVICEDoprava a s / VÍTKOVICE Doprava, a. s. , . . | ferroviaria - derivación | Derivación VÍTKOVICEDoprava a s , . . Estación inferior cruce ferroviario sobre vía C7 , . |
-| 13122006 . . | 11:08 | OKD Doprava a s / , ,, . . OKD Doprava a s , , . . | ferroviaria - derivación | BorsodChem MCHZ , s .r .o . - Plantas Químicas de Moravia: cruce ferroviario vía n.º 412 . . . |
-| 12012007 . . | 17:50 | UNEXServissro/ .. . UNEXServissro .. . | ferroviaria - derivación | Derivación UNEXa s Uničov . . cruce ferroviario en el pk 0179 , |
-
-En todos los IE mencionados anteriormente, el lugar de ocurrencia fue el cruce a nivel de las vías férreas-derivación con las vías terrestres, donde el cruce está señalizado y asegurado mediante una señal de tráfico vertical A 32a «Cruz de advertencia para paso a nivel ferroviario de vía única», o bien A 32b «Cruz de advertencia para paso a nivel ferroviario de varias vías».
-
-La causa de los IE del 11.03.2006, 24.10.2006 y 13.12.2006 fue la entrada de un vehículo de carretera en un paso a nivel (PN) en el momento en que se acercaba un vehículo ferroviario, con lo cual el conductor del vehículo de carretera infringió lo dispuesto en el artículo 22, apartado 4, de la Ley n.º 266/1994 Coll., sobre vías férreas, en su versión vigente, el artículo 4, letra a), de la Ley n.º 361/2000 Coll., sobre la circulación en las vías terrestres y modificación de algunas leyes, en su versión vigente, el artículo 28, apartado 1, de la Ley n.º 361/2000 Coll., sobre la circulación en las vías terrestres y modificación de algunas leyes, en su versión vigente, y el artículo 29, apartado 1, letra d), de la Ley n.º 361/2000 Coll., sobre la circulación en las vías terrestres y modificación de algunas leyes, en su versión vigente.
-
-La causa del IE del 12.01.2007 fue la entrada de un vehículo de carretera en un paso a nivel (PN) en el momento en que se acercaba un vehículo ferroviario, con lo cual el conductor del vehículo de carretera infringió lo dispuesto en el artículo 22, apartado 4, de la Ley n.º 266/1994 Coll., sobre vías férreas, en su versión vigente, el artículo 4, letra a), de la Ley n.º 361/2000 Coll., sobre la circulación en las vías terrestres y modificación de algunas leyes, en su versión vigente, el artículo 28, apartado 1, de la Ley n.º 361/2000 Coll., sobre la circulación en las vías terrestres y modificación de algunas leyes, en su versión vigente, y el artículo 29, apartado 1, letra d), de la Ley n.º 361/2000 Coll., sobre la circulación en las vías terrestres y modificación de algunas leyes, en su versión vigente. Otra causa de este IE fue la falta de garantía de una conducción segura de los vehículos ferroviarios empujados a través del paso a nivel por parte del operador del transporte ferroviario, quien no realizaba la vigilancia del paso a nivel de manera que pudiera detener a los posibles participantes en la circulación por carretera. Con su actuación no cumplió lo dispuesto en el artículo 16, apartado 5, del Decreto n.º 173/1995 Coll., por el que se aprueba el reglamento de circulación de las vías férreas, en la versión de las disposiciones posteriores.
-
+| 11032006 . . | 05:25 | MittalSteelOstravaa s / . . MittalSteelOstravaa s . . | ferrocarril - rampa privada | Rampa privada Mittal Steel Ostrava a . s . Explotación 573 - Transporte ferroviarioCentro paso a nivel ferroviarioc 513 vía n.º 568 , . . , . . |
+| 24102006 . . | 14:38 | VÍTKOVICEDoprava a s / VÍTKOVICE Doprava, a. s. , . . | ferrocarril - rampa privada | Rampa privada VÍTKOVICEDoprava a s , . . Estación inferior paso a nivel ferroviaroi sobre vía C7 , . |
+| 13122006 . . | 11:08 | OKD Doprava a s / , ,, . . OKD Doprava a s , , . . | ferrocarril - rampa privada | BorsodChem MCHZ , s .r .o . - Fábricas Químicas Moravas: paso a nivel ferroviarioen vía n.º 412 . . . |
+| 12012007 . . | 17:50 | UNEXServissro/ .. . UNEXServissro .. . | ferrocarril - rampa privada | Rampa privada UNEXa s Uničov . . paso a nivel ferroviarioen km 0179 , |
+En todos los incidentes (MU) mencionados anteriormente, el lugar de origen es el cruce de las vías férreas-rampas privadas con las carreteras a nivel de la vía, donde el cruce está señalizado y protegido con la señal vertical de tráfico A 32a «Cruz de advertencia para paso a nivel ferroviario de vía única», respectivamente A 32b «Cruz de advertencia para paso a nivel ferroviario de vía múltiple».
+La causa de los incidentes (MU) del 11. 03. 2006, 24. 10. 2006 y 13. 12. 2006 fue la entrada de un vehículo rodante en el paso a nivel (ŽP) en el momento en que se aproximaba a él un vehículo ferroviario, con lo que el conductor del vehículo rodante incumplió lo dispuesto en el § 22 apartado 4 de la Ley n.º 266/1994 Sb., de ferrocarriles, en su redacción vigente, § 4 letra a) de la Ley n.º 361/2000 Sb., sobre la circulación en las carreteras y la modificación de determinadas leyes, en su redacción vigente, § 28 apartado 1 de la Ley n.º 361/2000 Sb., sobre la circulación en las carreteras y la modificación de determinadas leyes, en su redacción vigente y § 29 apartado 1 letra d) de la Ley n.º 361/2000 Sb., sobre la circulación en las carreteras y la modificación de determinadas leyes, en su redacción vigente.
+La causa del incidente (MU) del 12. 01. 2007 fue la entrada de un vehículo rodante en el paso a nivel (ŽP) en el momento en que se aproximaba a él un vehículo ferroviario, con lo que el conductor del vehículo rodante incumplió lo dispuesto en el § 22 apartado 4 de la Ley n.º 266/1994 Sb., de ferrocarriles, en su redacción vigente, § 4 letra a) de la Ley n.º 361/2000 Sb., sobre la circulación en las carreteras y la modificación de determinadas leyes, en su redacción vigente, § 28 apartado 1 de la Ley n.º 361/2000 Sb., sobre la circulación en las carreteras y la modificación de determinadas leyes, en su redacción vigente y § 29 apartado 1 letra d) de la Ley n.º 361/2000 Sb., sobre la circulación en las carreteras y la modificación de determinadas leyes, en su redacción vigente. Otra causa de la aparición de este incidente (MU) fue la falta de garantía de la circulación segura de los vehículos ferroviarios empujados a través del paso a nivel (ŽP) por parte del operador del transporte ferroviario, que no realizaba la vigilancia del paso a nivel (ŽP) de manera que pudiera detener a los posibles participantes en el tráfico rodante. Con su actuación no cumplió lo dispuesto en el § 16 apartado 5 del Decreto n.º 173/1995 Sb., por el que se aprueba el Reglamento de circulación ferroviaria, en su redacción de las disposiciones posteriores.
 
 ## Página 33
+
 
 ## 4 ANÁLISIS Y CONCLUSIONES
 
@@ -779,6 +790,7 @@ La distancia de la «Cruz de advertencia» desde el eje de la vía, en la direcc
 
 ## Página 34
 
+
 ### 4.2 Análisis
 ### 4.2.1 Evaluación de los hechos constatados de acuerdo con el punto 3 y exposición de las conclusiones sobre la causa del incidente extraordinario y la actuación de los servicios de rescate
 
@@ -797,6 +809,7 @@ El explotador, en el sentido del artículo 22 apartado 1 letra a) de la ley n.º
 El explotador, durante la realización de la inspección periódica del paso a nivel en el pk 0,683 llevada a cabo el 15.06.2006 y registrada en el acta «Acta de inspección de pasos a nivel y pasos peatonales», del día
 
 ## Página 35
+
 
 15.06.2006, detectó las siguientes deficiencias, que se registran en la parte «b) resultado de la medición»:
 
@@ -823,6 +836,7 @@ En el momento de la aparición del incidente extraordinario, no estaba colocada 
 
 ## Página 36
 
+
 dráhy para las necesidades del transporte ferroviario fluido y seguro, de acuerdo con las normas de explotación de la vía.
 El maquinista del grupo de maniobras, incluidas las personas que participan en la transmisión de las señales, al circular hacia el PP (Paso a Nivel) en el PK 0,683, procedió de la misma manera como si la señal de advertencia con la indicación «Tocar la bocina» estuviera instalada antes del PP. Por lo tanto, la no colocación de la señal de advertencia con la indicación «Tocar la bocina» no puede considerarse en relación causal con la aparición del IA (Incidente/Accidente).
 El explotador, en el sentido del artículo 22 apartado 1 letra a) de la Ley nº 266/1994 Coll., sobre las vías férreas, en su versión vigente, no explotaba la vía para las necesidades del transporte ferroviario fluido y seguro, de acuerdo con las normas de explotación de la vía, en el sentido del artículo 9.2.4 de las TP 169 «Principios para la señalización de las situaciones de tráfico en las vías públicas», aprobadas por el Ministerio de Transporte bajo el nº de expediente: 72/2005-120-STSP/2, con efecto desde el 01. 04. 2005, y del artículo 3 apartado 1 del Decreto nº 177/1995 Coll., por el que se establece el reglamento de construcción y técnica de las vías férreas, en su versión vigente, no garantizó la correcta disposición del PP en el PK 0,683. El PP en el momento de la aparición del presente IA estaba dispuesto como un PP de doble vía, a pesar de que la distancia entre ejes de la vía nº 1 (vía de unión) de la derivación Pivovar Radegast y la vía nº 3 de la derivación ČEPS era superior a 30 m.
@@ -833,8 +847,8 @@ la velocidad máxima dentro de la planta está limitada a 10 km/h, al empuje a 5
 Mediante la evaluación de la grabación del dispositivo de registro, el registrador de velocidad instalado en la locomotora de la serie 742.392-4 (véase el punto 3.4.4), se determinó que la velocidad durante la circulación del grupo de maniobras empujado en la vía nº 1 (vía de unión) de la derivación Radegast, fue excedida hasta en 13,6 km/h (PK 0,343 de la derivación Radegast).
 Dado que las condiciones de visibilidad en el PP en el PK 0,683 se evalúan para una velocidad de 30 km/h y la velocidad máxima alcanzada durante la circulación del grupo de maniobras empujado alcanzó el valor de 28,6 km/h, no puede considerarse la excedencia de la velocidad máxima permitida en relación causal con la aparición del IA.
 
-
 ## Página 37
+
 
 La persona técnicamente cualificada del transportista realizó el 26. 01. 2007 la «Análisis informativo de la cinta del registrador de velocidad del IA – accidente «B» del 25. 01. 2007», bajo el nº de expediente: 70 069/07 - O18, sobre cuya base el transportista constata que se detectó la excedencia de la velocidad máxima permitida en el tramo desde el inicio de la circulación del grupo de maniobras empujado hasta el PK 0,620. La velocidad máxima permitida durante la circulación de los vehículos ferroviarios mediante maniobra de empuje está establecida por el explotador en 15 km/h. Además, se constata que no se excedió la velocidad máxima permitida de 10 km/h antes del paso a nivel.
 Otra evaluación de las magnitudes registradas en la cinta del registrador de velocidad la realizó la persona técnicamente cualificada del transportista el 13. 02. 2007 como «Evaluación de la cinta del registrador de velocidad» con motivo de la investigación del incidente extraordinario – accidente (B4), ocurrido el 25. 01. 2007 en la derivación Pivovar Radegast en el PK 0,683, colisión con un camión. Sobre la base de la evaluación de las grabaciones de la cinta del registrador de velocidad, el transportista constata que la velocidad máxima permitida de maniobra de 10 km/h no se excedió en el nivel del paso a nivel.
@@ -846,6 +860,7 @@ Las conclusiones diferentes en las evaluaciones realizadas por el transportista 
 La Inspección Ferroviaria, debido a la excedencia de la velocidad máxima permitida de circulación del grupo de maniobras empujado en el tramo de la vía adyacente al PP en el PK 0,683, que está establecida por el explotador en 15 km/h, y la no garantía de la visibilidad despejada hacia la vía a la velocidad de línea de 30 km/h, realizó, en el sentido del apéndice B y C de la Norma Técnica Checa ČSN 73 6380 Pasos a nivel y pasos peatonales, el cálculo de las distancias de visibilidad para el vehículo de carretera Lr y para el vehículo de carretera más lento Lp a la velocidad media de circulación del grupo de maniobras empujado. Para el cálculo se estableció un valor de velocidad de circulación del grupo de maniobras empujado de 24 km/h, que es la velocidad media de circulación de los vehículos ferroviarios a una distancia de 166 m a 39 m antes del PP en el PK 0,683. La velocidad de circulación del grupo de maniobras empujado a una distancia de 39 m antes del PP en el PK 0,683 hasta el lugar de la colisión con el vehículo de carretera no se incluyó en el cálculo del valor de la velocidad media, debido al frenado de los vehículos ferroviarios inmediatamente antes de la colisión.
 
 ## Página 38
+
 
 | magnitud medida* | dirección de la medición | valores medidos | valores calculados |
 | L p | desde el inicio de la derivación de Radegast (ŽST Dobrá u FM) | izquierda = 138 m | izquierda = 99,8 m |
@@ -861,8 +876,8 @@ Mediante el cálculo de las distancias de visibilidad para un vehículo de carre
 La entrada del vehículo de carretera en el paso a nivel constituyó, en el sentido del apartado 4 del artículo 22 de la ley n.º 266/1994 Coll., sobre las vías férreas, en su versión vigente, en relación con lo dispuesto en el apartado 1 del artículo 28 y en la letra d) del apartado 1 del artículo 29 de la ley n.º 361/2000 Coll., sobre la circulación por las vías públicas terrestres y por la que se modifican determinadas leyes, en su versión vigente, una grave puesta en peligro del funcionamiento seguro de la vía y del tráfico ferroviario, al no atenderse las instrucciones del explotador y del transportista.
 El explotador, en el sentido del apartado 1, letra a), del artículo 22 de la ley n.º 266/1994 Coll., sobre las vías férreas, en su versión vigente, no explotaba la vía para las necesidades del tráfico ferroviario fluido y seguro conforme a las normas de explotación de la vía, al no haber establecido en los procedimientos tecnológicos unitarios contenidos en las disposiciones internas, aprobadas en el sentido del apartado 4 del artículo 2 y del apartado 1, letra a), del artículo 24 del decreto n.º 173/1995 Coll., por el que se aprueba el reglamento de circulación de las vías férreas, en su versión vigente, una forma concreta, un procedimiento y unas condiciones para garantizar la circulación de los vehículos ferroviarios durante las maniobras de empuje a través de un paso a nivel (ŽP) que no estuviera equipado con un dispositivo de protección de pasos a nivel.
 
-
 ## Página 39
+
 
 ### 4.3.2 Causas fundamentales relacionadas con la cualificación, los procedimientos y el mantenimiento
 No se detectaron por parte de la Inspección Ferroviaria.
@@ -877,6 +892,7 @@ El explotador, en el sentido del apartado 1, letra a), del artículo 22 de la le
 
 ## Página 40
 
+
 El transportista, a tenores del artículo 35 apartado 1 letra a) de la ley n.º 266/1994 Coll., sobre ferrocarriles, en su versión vigente, no garantizó la explotación del transporte ferroviario conforme al contrato celebrado con el explotador para la explotación del transporte ferroviario, al no garantizar, a tenores del artículo 35 apartado 1 letra i) del decreto n.º 173/1995 Coll., por el que se aprueba el reglamento de circulación de las vías férreas, en su versión vigente, que la persona que dirige el vehículo ferroviario no excediera, durante la conducción de una composición de maniobras empujada en la vía particular Radegast, la velocidad máxima permitida de 15 km/h, excediéndola en hasta 13,6 km/h (km 0,343 de la vía particular Radegast).
 
 ## 5 MEDIDAS ADOPTADAS
@@ -890,6 +906,7 @@ El explotador, a tenores del artículo 13 apartado 1 del decreto n.º 376/2006 C
 - se procedió a modificar la disposición del paso a nivel (ŽP) de varias vías en el km 0,683 de la vía particular Radegast (km 0,116 de la vía particular ČEPS), consistente en la nueva protección del paso a nivel ferroviario, mediante la sustitución del paso a nivel de varias vías por dos pasos a nivel de vía única (km 0,683 de la vía particular Radegast; km 0,116 de la vía particular ČEPS). El explotador acreditó fehacientemente la creación del paso a nivel mediante un extracto del registro de la propiedad inmobiliaria de 1945. Con su disposición (es decir, tanto a nivel proyectado como constructivo), cumplía las normas técnicas vigentes en el momento de la creación del paso a nivel. El método de protección anterior, mediante dos señales de tráfico verticales A 32b «Cruz de advertencia para paso a nivel de varias vías», fue sustituido por cuatro señales de tráfico verticales A 32a «Cruz de advertencia para paso a nivel de vía única», que se complementan con la señal de tráfico vertical P 6 «Alto, ceda el paso» (medida adoptada sobre la base de las constataciones realizadas durante el ejercicio de la supervisión estatal en materia de ferrocarriles, que figuran en el acta «ACTA sobre el ejercicio de la supervisión estatal en materia de ferrocarriles», ref.: 1-144/2007/DI-2, de fecha 05.02.2007). La razón de la modificación de la disposición del paso a nivel es el hecho de que la distancia entre ejes de la vía n.º 1 (vía de unión) de la vía particular Radegast y la vía n.º 3 de la vía particular ČEPS es superior a 30 m, por lo que, en el caso de que se trate de dos pasos a nivel ferroviarios independientes de vía única, que se señalizan en el sentido de circulación de los vehículos de carretera con la señal de tráfico vertical A 32a «Cruz de advertencia para paso a nivel de vía única». El estado constatado constituía una infracción de lo dispuesto en el artículo 3 apartado 1 del decreto n.º 177/1995 Coll., por el que se aprueba el reglamento de construcción y técnica de las vías férreas, en su versión vigente, en relación con lo dispuesto en el artículo 9.2.4 de las TP 169 «Principios para la señalización de las situaciones de tráfico en las vías de comunicación terrestres», aprobadas por el Ministerio de Transportes con ref.: 72/2005-120-STSP/2, con efecto desde el 01.04.2005;
 
 ## Página 41
+
 
 - se realizaron obras de modificación en la estructura del firme del paso a nivel en el km 0,683 (medida adoptada sobre la base de las constataciones realizadas durante el ejercicio de la supervisión estatal en materia de ferrocarriles, que figuran en el acta «ACTA sobre el ejercicio de la supervisión estatal en materia de ferrocarriles», ref.: 1-144/2007/DI-2, de fecha 05.02.2007);
 
@@ -911,22 +928,19 @@ El explotador, a tenores del artículo 13 apartado 1 del decreto n.º 376/2006 C
 
 ## Página 42
 
-Radegast, al exceder durante la maniobra la velocidad máxima permitida. Este reglamento de explotación de conexión es válido desde el 29.09.2003 y se ha conservado desde su entrada en vigor en el archivo del SŘ DKV Ostrava. …...».
-
+Radegast afirmó que había superado durante la maniobra la velocidad máxima permitida. Este PPŘ está en vigor desde el 29. 9. 2003 y ha estado depositado desde su entrada en vigor en la colección SŘ DKV Ostrava. …...“.
 ## 6 RECOMENDACIONES DE SEGURIDAD
-
-No se emitieron por la Inspección Ferroviaria.
-
-En Ostrava, el 21 de noviembre de 2007
-
+No fueron emitidas por la Inspección Ferroviaria.
+En Ostrava, a 21 de noviembre de 2007
 Robert Kindl v. r.
 Ing. Petr Maikranz v. r.
-inspector superior
+inspector jefe
 director
-Oficina Territorial de Ostrava
-de la Oficina Territorial de Ostrava
+Inspección Territorial de Ostrava
+de la Inspección Territorial de Ostrava
 
 ## Página 43
+
 
 ## 7 ANEXOS
 
@@ -936,4 +950,4 @@ Foto 1: Vista general del lugar del incidente extraordinario con la posición fi
 
 ## Página 44
 
-Foto 2: Vista de la posición final de los vehículos de carretera y ferroviarios implicados tras el MU, desde la dirección del recinto de la empresa Plzeňský Prazdroj a. s. (sucursal Nošovice)
+Foto 2: Vista de la posición final de los vehículos ferroviarios y por carretera implicados tras la colisión múltiple procedente de la dirección del recinto de la empresa Plzeňský Prazdroj a. s. (sucursal Nošovice)

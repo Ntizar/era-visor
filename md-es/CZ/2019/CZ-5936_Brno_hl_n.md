@@ -10,13 +10,14 @@ chars: 98444
 ratio_longitud: 1.24
 tokens_in: 59933
 tokens_out: 42427
-verificacion: revisar
-notas_cifras: ["bloque 2: original bilingüe: se compara contra el idioma principal (CS)", "bloque 3: original bilingüe: se compara contra el idioma principal (CS)", "bloque 4: original bilingüe: se compara contra el idioma principal (CS)", "bloque 5: original bilingüe: se compara contra el idioma principal (CS)", "bloque 6: original bilingüe: se compara contra el idioma principal (CS)", "bloque 7: original bilingüe: se compara contra el idioma principal (CS)"]
-avisos: ["bloque 4: ratio 1.75", "bloque 5: ratio 1.69", "bloque 7: ratio 1.72"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 3: original bilingüe: se compara contra el idioma principal (PT)", "página 6: original bilingüe: se compara contra el idioma principal (EN)", "página 7: original bilingüe: se compara contra el idioma principal (PT)", "página 11: original bilingüe: se compara contra el idioma principal (CS); ratio 1.86", "página 12: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -39,13 +40,13 @@ IČ:   75009561
 mail@dicr.cz
 tel.: +420 736 521 003
 
-
 ## Página 2
+
 
 El presente informe final es público y todos los hechos en él expuestos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ## 1 RESUMEN
  Fuente: DI
@@ -67,8 +68,8 @@ daño total 452 393 Kč.
 Causa inmediata:
 no respeto de la señal «Alto» de la señal principal (de itinerario) Lc4 de la estación ferroviaria de Brno hl. n. por parte de la persona que conducía el vehículo ferroviario motriz del tren Os 4708.
 
-
 ## Página 4
+
 
 Factor contribuyente:
 ausencia de medios técnicos de seguridad que, ante un fallo (error o fallo) de la persona que conducía el vehículo ferroviario motriz, hubieran impedido mediante una intervención activa en el mando del tren la circulación no autorizada del tren más allá de la señal principal que prohíbe su circulación.
@@ -79,8 +80,8 @@ no fue determinada por la Inspección Ferroviaria.
 Recomendaciones de seguridad:
 no emitidas por la Inspección Ferroviaria.
 
-
 ## Página 5
+
 
 ## SUMMARY
 Grade: 
@@ -123,8 +124,8 @@ Root cause:
  none.
 Recommendation:  not issued.
 
-
 ## Página 6
+
 
 # Índice
 1 RESUMEN........................................................................................................................3
@@ -166,6 +167,7 @@ SUMMARY.........................................................................
 3.4.1 Sistema de mando, señalización y seguridad, incluido el dispositivo para automático
 
 ## Página 7
+
 
 registro de datos.....................................................................................................25
 3.4.2 Componentes de la vía....................................................................................29
@@ -209,8 +211,8 @@ ferroviario.....................................................................
 6 RECOMENDACIONES DE SEGURIDAD.....................................................................................39
 7 ANEXOS..........................................................................................................................41
 
-
 ## Página 8
+
 
 ## Lista de siglas y símbolos utilizados
 CDP
@@ -293,8 +295,8 @@ ZZ
 žst.
 estación de ferrocarril
 
-
 ## Página 9
+
 
 ## Lista de siglas de la legislación, normas y normativa interna
 utilizadas
@@ -339,8 +341,8 @@ normativa interna del gestor de la vía SŽDC, «SŽDC D1
 Ordenanza de tráfico y señalización», en la redacción válida en
 el momento de producirse el suceso ferroviario
 
-
 ## Página 10
+
 
 ## 2 DATOS RELATIVOS AL SUCESO FERROVIARIO
 ### 2.1 Suceso ferroviario
@@ -360,46 +362,25 @@ GPS:
 49.1909958N, 16.6138614E.
 Fig. n.º 1: Vista del lugar de la colisión en la estación Brno hl. n.                                               Fuente: DI
 
-
 ## Página 11
 
-### 2.1.2 Descripción del desarrollo del suceso ferroviario y del lugar de origen,
-incluida la actuación del sistema integrado de emergencias y del servicio de
-emergencias
-El 5. 3. 2019, en la 4. SK, estaba preparado para la salida el tren Os 4708 con
-destino a la estación Březová nad Svitavou. En la hora de salida prevista, el
-maquinista inició las operaciones relacionadas con la salida del tren de la estación y
-a las 8.00 h puso el tren en movimiento. Tras recorrer 49 m se produjo la circulación
-no autorizada del tren Os 4708 más allá del semáforo principal (de itinerario) Lc4
-con la indicación «Alto» y, tras recorrer 39 m, ya más allá del mencionado
-semáforo, se produjo la colisión con el tren en sentido contrario Os 4711. Este
-entró en la estación Brno hl. n. en el sentido procedente de la desviación Brno-Židenice
-y debía finalizar su recorrido en la 2. SK. Los frentes de ambos trenes
-permanecieron tras la colisión detenidos en el corazón de la aguja n.º 49 en el pk
-141,570. En la colisión resultaron heridas 23 personas y se produjeron daños en
-ambos trenes.
-La inspección del lugar de origen del suceso ferroviario se realizó en el sentido de
-circulación del tren Os 4708 desde el lugar de salida alrededor del semáforo Lc4
-en el pk 143,531, hasta el lugar de la colisión en el pk 143,570 y, a continuación,
-hasta el final del tren Os 4711.
-De la inspección del lugar del suceso ferroviario se constató lo siguiente:
-el tren Os 4708 (unidad eléctrica) estaba compuesto por 2 locomotoras, en la
-•
-cabeza del tren se encontraba la locomotora n.º 560 028-3, al final la locomotora
-n.º 560 027-5 y 4 remolques, en propiedad de ČD, a. s.;
-el tren Os 4711 (unidad eléctrica) estaba compuesto por 2 locomotoras, en la
-•
-cabeza del tren se encontraba la locomotora n.º 560 023-4, al final la locomotora
-n.º 560 024-2, y 4 remolques, en propiedad de ČD, a. s.;
-se produjeron daños en ambos trenes. Los frentes de ambas locomotoras estaban
-•
-deformados y encajados entre sí por sus partes izquierdas en el sentido de
-circulación;
+### 2.1.2 Descripción del transcurso de la excepción y del lugar de origen, incluida la actividad del sistema integrado de protección y del servicio de rescate
+El día 5 de marzo de 2019, en el 4.º andén, estaba preparado para la salida el tren Os 4708 con destino a la estación Březová nad Svitavou. En la hora de salida regular, el maquinista inició las operaciones relacionadas con la salida del tren de la estación y a las 8.00 h puso el tren en movimiento. Tras recorrer una distancia de 49 m, se produjo la circulación no autorizada del tren Os 4708 más allá de la señal principal (de vía) Lc4 con la indicación «Alto» y, tras recorrer una distancia de 39 m, ya más allá de la señal mencionada, se produjo la colisión con el tren en sentido contrario Os 4711. Este entró en la estación Brno hl. n. en el sentido procedente de la desviación Brno-Židenice y debía finalizar su recorrido en el 2.º andén. Los frentes de ambos trenes quedaron detenidos tras la colisión en el corazón de la aguja n.º 49 en el km 141,570. En la colisión resultaron heridas 23 personas y se dañaron ambos trenes.
+La inspección del lugar de origen de la excepción se realizó en el sentido de circulación del tren Os 4708 desde el lugar de salida, alrededor de la señal Lc4 en el km 143,531, hasta el lugar de la colisión en el km 143,570 y, a continuación, hasta el final del tren Os 4711.
+De la inspección del lugar de la excepción se constató lo siguiente:
+- el tren Os 4708 (unidad eléctrica) estaba compuesto por 2 locomotoras, en la cabeza del tren se
+  encontraba la locomotora n.º 560 028-3, y en el final la locomotora n.º 560 027-5, y 4 coches de
+  viajeros, en propiedad de ČD, a. s.;
+- el tren Os 4711 (unidad eléctrica) estaba compuesto por 2 locomotoras, en la cabeza del tren se
+  encontraba la locomotora n.º 560 023-4, y en el final la locomotora n.º 560 024-2, y 4 coches de
+  viajeros, en propiedad de ČD, a. s.;
+- se produjo el daño de ambos trenes. Los frentes de ambas locomotoras estaban deformados y
+  encajados entre sí por sus partes izquierdas en el sentido de circulación;
 Fig. n.º 2: Vista del lugar de la colisión en la estación Brno hl. n.
    Fuente: DI
 
-
 ## Página 12
+
 
 el lugar de la colisión se encontraba en la estación Brno hl. n., en el pk 143,570;
 •
@@ -444,6 +425,7 @@ profesional del transportista;
 
 ## Página 13
 
+
 con la formación del MU no se produjo fuga de fluidos operativos;
 •
 la prueba de alcoholemia a las personas implicadas fue realizada por la PČR con resultado 
@@ -478,10 +460,10 @@ La posterior investigación de las causas y circunstancias de la formación del 
 En la investigación de las causas y circunstancias de la formación del MU, la DI partió de sus propios conocimientos y hallazgos, de su propia documentación fotográfica, de la documentación recabada durante la investigación por el gestor de la infraestructura, el transportista y la PČR.
 La Inspección Ferroviaria recibió a lo largo de la investigación una aportación (el 31. 5. 2019), respectivamente una declaración de la Federación de Maquinistas de la ČR, que valoró y los hechos debidamente acreditados tuvo en cuenta en consecuencia (véanse los puntos 4.2.1, 3.5.1 y 6 de este informe), pero que no aportaron ningún nuevo conocimiento para la investigación de este MU.
 La investigación de las causas y circunstancias de la formación del MU se realizó de acuerdo con la ley nº 266/1994 Sb 
-y el decreto nº 376/2006 Sb. 
-
+y el decreto nº 376/2006 Sb.
 
 ## Página 14
+
 
 ### 2.2 Circunstancias del suceso excepcional
 ### 2.2.1 Empleados implicados, personas en relación contractual y demás implicados 
@@ -526,8 +508,8 @@ el titular de todos los DV era la ČD.
 | Porcentaje de frenado real (%): | 101 | 3 . | 94541060034 6 – |  |
 | Porcentaje de frenado faltante (%): | 0 | 4 . | 94541060035 3 – |  |
 
-
 ## Página 15
+
 
 | Velocidad máxima permitida del tren en el lugar del MU (km .h-1): | 30 | HDV al final: | 94541560024 2 – |  |
 | Modo de frenado: | I . |  |  |  |
@@ -557,26 +539,23 @@ Brno hl. n.;
 8.05 h el MU fue comunicado por el inspector de circulación al servicio de emergencias de la PO Brno;
 •
 
-
 ## Página 16
 
-8.06 h el jefe de estación de la estación Brno hl. n. llamó al jefe de la estación de 
+8.06 h el jefe de estación de Brno hl. n. llamó al jefe de la estación de enlace Brno-Židenice y canceló
 •
-enlace Brno-Židenice y canceló la salida prevista del tren Os 4708 debido a la 
-formación del MU;
-8.08 h el MU fue comunicado al jefe de despachadores del CDP Přerov;
+ la salida prevista del tren Os 4708 debido a la aparición de MU;
+8.08 h MU comunicada al jefe de despacho de CDP Přerov;
 •
-8.09 h fue activado el IZS;
+8.09 h activado el IZS;
 •
-8.14 h el MU fue comunicado a la persona autorizada en la SŽDC;
+8.14 h MU comunicada a la persona autorizada en SŽDC;
 •
-8.19 h el MU fue comunicado por la persona autorizada de la SŽDC al COP DI;
+8.19 h MU comunicada por la persona autorizada de SŽDC al COP DI;
 •
-9.58 h el COP DI concedió el consentimiento para la liberación de la vía.
+9.58 h COP DI concedió el permiso para liberar la vía.
 •
-### 2.2.7 Activación del plan del sistema integrado de emergencias, de los servicios de emergencias policiales y sanitarios y procedimientos consecuentes
-El plan del IZS fue, dada la naturaleza del MU, activado. En el lugar del MU intervinieron 
-los siguientes servicios del IZS:
+### 2.2.7 Activación del plan del sistema integrado de emergencia, de los servicios de emergencia policiales y sanitarios y de los procedimientos conexos
+El plan de IZS fue activado dada la naturaleza de la MU. En el lugar de la MU intervinieron los siguientes componentes del IZS:
 PČR, departamento de la estación principal de Brno;
 •
 ZZS JMK;
@@ -586,28 +565,27 @@ HZS Brno;
 HZS SŽDC, JPO Brno.
 •
 ### 2.3 Fallecimientos, lesiones y daños causados
-2.3.1 En pasajeros y terceros, empleados del gestor de la infraestructura y del transportista, incluidas personas en relación contractual
-Con el MU se produjo:
-daño a la salud en 20 pasajeros;
+2.3.1 En pasajeros y terceros, empleados del gestor de la vía y del transportista, incluidas personas en relación contractual
+En la MU se produjo:
+lesión en 20 pasajeros;
 •
-daño a la salud en 3 empleados del transportista.
+ lesión en 3 empleados del transportista.
 •
-### 2.3.2 En los objetos transportados, equipajes y demás bienes
-No se produjo daño en los objetos transportados, equipajes y demás bienes.
-### 2.3.3 En los vehículos ferroviarios, componentes de la vía y medio ambiente
-Con el MU se produjo daño en:
- HDV del tren Os 4708 
+### 2.3.2 En objetos transportados, equipaje y otros bienes
+No se produjeron daños en objetos transportados, equipaje ni otros bienes.
+### 2.3.3 En vehículos ferroviarios, componentes de la vía y medio ambiente
+En la MU se produjeron daños en:
+ Locomotora del tren Os 4708 
 220 150 Kč;
 •
- TDV (1.º tras el HDV del tren Os 4708)
+ Vagón de viajeros (1.º tras la locomotora del tren Os 4708)
 12 093 Kč;
 •
- HDV del tren Os 4711
+ Locomotora del tren Os 4711
 220 150 Kč.
 •
-Con el MU, el daño producido en los vehículos ferroviarios, componentes de la vía y 
-### medio ambiente fue cifrado en un total de 452 393 Kč. 
-
+En la MU, el daño causado en vehículos ferroviarios, componentes de la vía y medio ambiente
+### se cifró en un total de 452 393 Kč.
 
 ## Página 17
 
@@ -615,102 +593,85 @@ Con el MU, el daño producido en los vehículos ferroviarios, componentes de la 
 ### 2.4.1 Condiciones meteorológicas y datos geográficos
 Condiciones meteorológicas:
 8 °C, calma, parcialmente nublado, visibilidad no reducida.
-## 3 REGISTRO DE LA INVESTIGACIÓN Y DE LAS DECLARACIONES PRESENTADAS 
-### 3.1 Resumen de las declaraciones presentadas (sujeto a protección de la identidad de las personas)
-### 3.1.1 Empleados del gestor de la infraestructura y del transportista, incluidas personas en relación contractual
+## 3 REGISTRO DE LA INVESTIGACIÓN Y DE LAS EXPLICACIONES PRESENTADAS 
+### 3.1 Resumen de las explicaciones presentadas (sujeto a protección de la identidad de las personas)
+### 3.1.1 Empleados del gestor de la infraestructura y del transportista, incluidas las personas en relación contractual
 Maquinista del tren Os 4708
-  – del Acta con el empleado se desprende, entre otras cosas:
+  – del Registro con el empleado se desprende, entre otros:
 •
-◦el 5. 3. 2019 tenía asignada la realización del servicio en el tren Os 4708;
-◦la composición estaba preparada en la estación Brno hl. n. en la vía nº 4 junto al 
-andén nº 3. Recibió la composición unos 15 min. antes de la salida regular y comenzó a 
-prepararse – confirmó la recepción en el libro de entrega, introdujo los datos necesarios 
-en el registrador de velocidad y en la estación de radio, realizó el registro en el GSM-R, 
-preparó la tableta con el horario de circulación correspondiente y leyó la Orden General;
-◦miraba de vez en cuando la señal, pero no recuerda la indicación, solo pensaba 
-subconscientemente que tenía puesta la indicación de vía libre;
-◦tras un rato miró el reloj y el horario de circulación en formato papel. Como era la hora 
-de la salida, miró la señal y subconscientemente comenzó a realizar las maniobras 
-relacionadas con la salida del tren;
-◦el jefe de tren le dio la señal «Llamada del maquinista», esta a continuación pito con 
-el silbato y tras un momento dio la señal «Autorización para la salida». Recibió la señal y 
-cerró las puertas. Mientras tanto, el jefe de tren subió a las puertas, que también se 
-cerraron, y con ello se apagó la luz indicadora de apertura de puertas;
-◦puso la composición del tren en movimiento, comprobó visualmente la liberación del 
-freno auxiliar y la entrada de las corrientes de tracción;
-◦con la vista vio que el paso a nivel que tenía delante estaba libre y, mirando más allá, 
-avistó la composición que circulaba en sentido contrario;
+◦el día 5. 3. 2019 tenía asignada la operación en el tren Os 4708;
+◦la composición estaba preparada en la est. Brno hl. n. en la vía n.º 4 junto al andén n.º 3. Recibió la composición cca 15 min. antes de la salida regular y comenzó a prepararse – confirmó la recepción en el libro de entrega, introdujo los datos necesarios en el velocímetro y la radio, realizó el registro en GSM-R, preparó la tablet con el horario correspondiente y leyó la Orden General;
+◦miraba de vez en cuando la señal, pero no recuerda la señal, solo pensaba subconscientemente que tenía puesta la indicación de vía libre;
+◦tras un rato miró el reloj y el horario en cuaderno. Como era la hora de salida, miró la señal y subconscientemente comenzó a realizar las maniobras relacionadas con la salida del tren;
+◦el jefe de tren dio la señal "Llamada del maquinista", esta a continuación pitió con el silbato y tras un momento dio la señal "Permiso para la salida". Recibió la señal y cerró las puertas. La jefa de tren mientras tanto subió a las puertas, que también se cerraron, y por lo tanto se apagó la luz indicadora de apertura de puertas;
+◦puso la composición del tren en movimiento, comprobó visualmente la liberación del freno auxiliar y la entrada de las corrientes de tracción;
+◦vio visualmente que el paso a nivel que tenía delante estaba libre y, al mirar más lejos, avistó la composición que venía en sentido contrario;
 ◦inmediatamente aplicó el frenado de acción rápida, pero ya no pudo evitar la colisión;
-◦tras detenerse, informó al jefe de estación de la situación producida y a continuación 
-instó al jefe de tren a que fuera a comprobar a los pasajeros por posible lesión. Después 
-esperó la llegada de los investigadores y de la PČR, donde se sometió a la prueba de 
-alcoholemia con resultado negativo; 
-◦durante la realización de las maniobras para la salida del tren llevaba puestas gafas 
-correctoras, miraba hacia atrás y, tras la autorización, se sentó en el asiento y vigiló el 
-cierre de las puertas y la entrada de las corrientes de tracción.
+◦tras detenerse, informó al jefe de estación de la situación producida y a continuación pidió a la jefa de tren que fuera a comprobar a los pasajeros por posible lesión. Después esperó la llegada de los investigadores y de la PČR, donde se sometió a la prueba de alcoholemia con resultado negativo; 
+◦en el momento de realizar las maniobras para la salida del tren llevaba puestas las gafas graduadas, miraba hacia atrás y, tras el permiso, se sentó en el asiento y vigiló el cierre de las puertas y la entrada de las corrientes de tracción.
 Maquinista del tren Os 4708
-  – del Registro Oficial de la declaración presentada ante la PČR 
+  – del Registro Oficial de la explicación presentada a la PČR 
 •
-se desprende, entre otras cosas:
-◦está empleado en la ČD OCP Východ como maquinista;
+se desprende, entre otros:
+◦está empleado en ČD OCP Východ como maquinista;
 
 ## Página 18
 
-◦el 5. 3. 2018 entró en servicio a las 7.35 h. Al entrar, se presentó ante el maquinista de maniobras y recibió las instrucciones para el servicio. A continuación, recibió la composición de un colega en el andén 3, con la que debía salir a las 8.00 h hacia la est. Březová nad Svitavou. Se trataba de una composición pantográfica compuesta por dos unidades motrices y cuatro DV intercalados;
-◦del jefe de estación exterior recibió la orden y permaneció en su puesto hasta la hora de salida. En la orden se indicaba que la circulación del tren finalizaría debido a una interrupción en la estación Skalice nad Svitavou;
-◦a la hora de salida, asomó la cabeza por la ventanilla desde su puesto, comprobó visualmente la señal y con un gesto de mano dio al jefe de tren la señal «Llamada a la disponibilidad»;
-◦el jefe de tren, que estaba en el tercer andén en la zona de las primeras puertas de la HDV, dio a continuación con el silbato la instrucción a los viajeros de finalizar el embarque y desembarque, y al maquinista la señal «Permiso para la salida»;
-◦a continuación, procedió al cierre de las puertas de la composición, que comprobó asomándose por la ventanilla y en el panel, y puso la composición en movimiento;
-◦tras la activación del freno automático de tren y tras la pulsación del botón de blancura, comprobó visualmente el funcionamiento de la potencia de la unidad y registró el tren circulante en sentido contrario, activando inmediatamente el freno rápido;
-◦la composición se movía a una velocidad de aprox. 10 km.h-1;
-◦tras la aplicación del freno rápido, se sentó y se dio la espalda a la dirección de circulación y esperó a ver qué ocurriría a continuación;
-◦tras la colisión, se le acercó el jefe de tren y le preguntó qué había ocurrido. Le pidió que comprobara si había algún viajero herido y comunicó toda la situación al jefe de estación;
-◦desbloqueó las puertas para permitir a los viajeros salir del tren, y en el segundo TDV lo hizo de forma de emergencia;
-◦las condiciones de visibilidad eran buenas, pero por el lado le daba parcialmente el sol a los ojos y no reparó en la luz roja de la señal.
+◦el día 5. 3. 2018 se incorporó al servicio a las 7.35 h. Al incorporarse, se presentó ante el maquinista de locomotoras y recibió las instrucciones para el servicio. A continuación, recibió la formación de un colega en el andén 3, con la que debía salir a las 8.00 h hacia la estación de Březová nad Svitavou. Se trataba de una formación pantográfica compuesta por dos unidades motrices y cuatro DV intercalados;
+◦del jefe de estación exterior recibió la orden y permaneció en su puesto hasta la hora de salida. En la orden se indicaba que la circulación del tren finalizaría debido a una interrupción en la estación de Skalice nad Svitavou;
+◦a la hora de salida, se asomó por la ventanilla desde su puesto, comprobó visualmente la señal y mediante un gesto de mano dio al jefe de tren la señal "Aviso de preparación";
+◦la jefa de tren, que estaba en el tercer andén en la zona de las primeras puertas de la HDV, dio a continuación con el silbato a los pasajeros la instrucción de finalizar el embarque y desembarque, y al maquinista la señal "Autorización para la salida";
+◦a continuación, procedió al cierre de las puertas de la formación, que comprobó asomándose por la ventanilla y en el panel, y puso la formación en movimiento;
+◦tras la activación del freno automático de tren y tras la pulsación del botón de blancura, comprobó visualmente el funcionamiento de la unidad de potencia y registró el tren que circulaba en sentido contrario y activó inmediatamente el freno rápido;
+◦la formación se movía a una velocidad de aproximadamente 10 km.h-1;
+◦tras la activación del freno rápido, se sentó y se dio la espalda a la dirección de circulación y esperó a ver qué ocurría a continuación;
+◦tras la colisión, la jefa de tren se acercó a él y le preguntó qué había ocurrido. Le pidió que comprobara si había algún pasajero herido y comunicó toda la situación al jefe de estación;
+◦desbloqueó las puertas para permitir a los pasajeros la salida del tren, y en el segundo TDV lo hizo de forma de emergencia;
+◦las condiciones de visibilidad eran buenas, pero por el lado le daba parcialmente el sol a los ojos y no advirtió la luz roja en la señal.
 El maquinista del tren Os 4708
-  – del Registro de explicaciones prestadas al DI, entre otros 
+  – del Registro de la declaración prestada ante el DI, entre otros 
 •
-datos, se desprende: 
-◦el 5. 3. 2018 se levantó a las 4.30 h y entró en turno a las 7.35 h. Por la mañana sentía la fatiga matinal habitual;
-◦al entrar en turno no hubo incidencias desde el punto de vista operativo. Debido a la interrupción en la est. Skalice nad Svitavou, se modificaba el número de tren y la circulación debía ser por composición;
-◦no se produjo ningún conflicto al entrar en turno, ni anotó ninguna avería o defecto en el DV;
+se deduce: 
+◦el día 5. 3. 2018 se levantó a las 4.30 h y se incorporó al turno a las 7.35 h. Por la mañana sentía la fatiga matinal habitual;
+◦al incorporarse al turno había incidencias desde el punto de vista operativo. Debido a la interrupción en la estación de Skalice nad Svitavou, se modificaba el número de tren y la circulación debía ser por formación;
+◦no se produjo ningún conflicto al incorporarse al turno ni se anotó ningún defecto o avería en el DV;
 ◦ejerce la función de maquinista desde el 1. 6. 2016 y circula habitualmente por esta línea;
-◦antes de la salida miró la señal, pero ya no recuerda qué señal indicaba. Tenía en el subconsciente que la señal estaba en libre, de lo contrario no habría comenzado las maniobras. El sol le daba ligeramente desde la derecha, era intenso y bajo tras la salida;
-◦no sabe si registró algún cambio en la señal Lc4 mientras esperaba la salida regular del tren;
-◦tras el cambio del sistema de señalización en la est. Brno y la ubicación de algunas 
-
+◦antes de la salida miró la señal, pero ya no recuerda qué señal indicaba. Tenía en el subconsciente que la señal estaba en libre, de lo contrario no habría comenzado las maniobras. Le daba el sol ligeramente desde la derecha, era intenso y bajo tras la salida;
+◦no sabe si registró algún cambio en la señal Lc4 en el momento en que esperaba la salida regular del tren;
+◦tras el cambio del sistema de señalización en la estación de Brno y la ubicación de algunas
 
 ## Página 19
 
-señales, no hubo ni nuevo conocimiento de la línea ni formación, todo lo leyó en las órdenes. Los cambios eran continuos y frecuentes;
-◦tras la colisión estuvo un momento en shock. Comunicó el MU al jefe de estación a través de GSM-R y el jefe de tren le indicó que nadie resultó herido;
-◦su superior (maquinista de maniobras) estuvo presente en el lugar inmediatamente, y por tanto la comunicación y las maniobras las realizó él;
-◦tras la aparición del MU, subió el pantógrafo, puso el freno en tope debido a la fuga de aire y frenó con el freno directo. A continuación, abrió las puertas de la unidad;
-◦antes de la salida del tren Os 4708, el jefe de estación de la est. Brno hl. n. no se puso en contacto con él.
-El maquinista del tren Os 4711
-  – del Acta con el empleado, entre otros datos, se desprende:
+de señales, tampoco hubo conocimiento nuevo de la línea ni formación, todo lo leyó en las órdenes.
+Los cambios eran continuos y frecuentes;
+◦tras la colisión estuvo un momento en estado de shock. El MU lo comunicó al jefe de estación a través de GSM-R y la jefa de tren le informó de que nadie resultó herido;
+◦su superior (el maquinista de locomotoras) estuvo presente en el lugar de inmediato, y por ello fue él quien realizó la comunicación y las actuaciones;
+◦tras producirse el MU, recogió el pantógrafo, puso el freno en posición de cierre por fuga de aire y frenó con el freno directo. A continuación abrió las puertas de la unidad;
+◦antes de la salida del tren Os 4708, el jefe de estación de Brno hl. n. no se puso en contacto con él.
+Maquinista del tren Os 4711
+  – del Registro con el empleado se desprende, entre otras cosas:
 •
-◦el 5. 3. 2019 tenía asignada la realización en el tren Os 4711;
-◦durante la circulación del tren hacia la est. Brno hl. n. tenía en la señal de entrada la señal «Espere 40 km/h» y en la de tránsito la señal «30 km/h y aviso»;
-◦durante la circulación en la curva izquierda controlaba la velocidad de la composición. Al salir de la curva y circular por el desvío de enlace, observó un tren en marcha desde el 4. SK e inmediatamente aplicó el frenado de acción rápida y se aferró al pupitre del maquinista;
-◦se produjo el impacto contra el tren circulante en sentido contrario. A continuación, fue a comprobar la situación y lo comunicó todo;
-◦se puso en contacto con el jefe de tren y le dijo que registrara la composición por si hubiera viajeros heridos;
-◦a continuación, esperó a la llegada de los investigadores. Ante la PČR se sometió a la prueba de alcoholemia con resultado negativo;
-◦tras detener la composición, no abrió las puertas de salida de los viajeros, ya que no estaba junto al andén. Los viajeros comenzaron por su cuenta a desbloquear progresivamente las puertas, a abrirlas y a desembarcar.
-El maquinista del tren Os 4711
-  – del Registro Oficial de explicaciones prestadas a la PČR, 
+◦el 5 de marzo de 2019 tenía asignada la ejecución en el tren Os 4711;
+◦al circular el tren hacia la estación Brno hl. n., en la señal de entrada tenía la señal «Espere 40 km/h» y en la de tránsito había la señal «30 km/h y aviso»;
+◦al circular en la curva izquierda controlaba la velocidad de la composición. Al salir de la curva y circular por el desvío de enlace, divisó el tren en marcha desde el 4. SK e inmediatamente aplicó el frenado de acción rápida y se apoyó en la mesa del maquinista;
+◦se produjo el impacto contra el tren que circulaba en sentido contrario. A continuación fue a comprobar la situación y lo comunicó todo;
+◦se puso en contacto con el jefe de tren y le dijo que registrara la composición en busca de posibles heridos entre los pasajeros;
+◦a continuación esperó hasta la llegada de los investigadores. Ante la PČR se sometió a la prueba de alcoholemia con resultado negativo;
+◦tras detener la composición no abrió las puertas de salida de los pasajeros, porque no estaba junto al andén. Los pasajeros comenzaron por su cuenta a desbloquear progresivamente las puertas, a abrirlas y a bajar.
+Maquinista del tren Os 4711
+  – del Registro Oficial de la declaración prestada ante la PČR
 •
-entre otros datos, se desprende:
-◦el 4. 3. 2018 entró en turno a las 21.50 h. El lugar de entrada en servicio fue la est. Brno hl. n., donde se presentó ante el maquinista de maniobras;
+se desprende, entre otras cosas:
+◦el 4 de marzo de 2018 comenzó el turno a las 21.50 h. El lugar de incorporación al servicio fue la estación Brno hl. n., donde se presentó ante el maquinista de locomotoras;
 ◦a las 22.01 h salía con el tren Os 4736 hacia Letovice con llegada a las 23.01 h, donde estacionó la composición y se dirigió a la sala de descanso;
-◦su siguiente entrada estaba fijada a las 2.34 h. Tras preparar la composición, salió a las 3.59 h hacia la est. Brno hl. n. y de regreso a Letovice;
-◦a continuación, circuló con el tren Os 4711 desde Letovice a las 6.58 h con llegada a Brno hl. n. a las 7.59 h, el viaje transcurrió sin incidencias;
-◦salía de la desviación Brno-Židenice tras el 1. TK. En ese momento las condiciones de visibilidad eran buenas, aunque estaba parcialmente deslumbrado por el sol;
-◦cuando entraba en la est. Brno hl. n., a una distancia máx. de 80 m avistó desde el 4. SK una composición en salida que circulaba en sentido contrario a su tren. En ese momento aplicó el frenado de acción rápida. A pesar de la aplicación del freno rápido, se produció en la señal Lc1 una colisión frontal entre ambas HDV;
-◦fue a comprobar qué había ocurrido y, a continuación, comunicó todo el asunto al jefe de estación y a su 
-
+◦la siguiente incorporación estaba fijada a las 2.34 h. Tras preparar la composición, partió a las 3.59 h hacia la estación Brno hl. n. y de regreso a Letovice;
+◦a continuación circuló con el tren Os 4711 desde Letovice a las 6.58 h con llegada a Brno hl. n. a las 7.59 h, el transcurso fue sin incidencias;
+◦desde la desviación Brno-Židenice salía tras el 1. TK. En ese momento las condiciones de visibilidad eran buenas, aunque estaba parcialmente deslumbrado por el sol;
+◦al entrar en la estación Brno hl. n., a una distancia máx. de 80 m divisó desde el 4. SK la composición en marcha que circulaba en sentido contrario al de su tren. En ese momento aplicó el frenado de acción rápida. A pesar de la aplicación del freno rápido, se produjo en la señal Lc1 la colisión frontal de ambos HDV;
+◦fue a comprobar qué había ocurrido y, a continuación, comunicó todo el asunto al jefe de estación y a su
 
 ## Página 20
+
 
 superior, y encargó al jefe de tren que comprobara si había viajeros heridos;
 ◦tras la colisión, los viajeros desbloquearon por su cuenta de forma de emergencia las puertas de entrada y comenzaron a desembarcar a la vía;
@@ -739,8 +700,8 @@ El jefe de estación de la est. Brno hl. n.
 Židenice;
 ◦tras evaluar la situación del tráfico, comenzó inmediatamente a cancelar la vía de tren para el tren Os 4708, para que primero pudiera entrar el tren Os 4711 en el 2. SK;
 
-
 ## Página 21
+
 
 ◦tras la liberación de la vía de tren para el tren Os 4708, que duró 3 minutos, estableció la vía de tren para el Os 4711;
 ◦se enteró de la colisión de los trenes por parte del maquinista del tren Os 4708, quien le comunicó este MU. Del mismo modo procedió el maquinista del tren Os 4711;
@@ -772,45 +733,26 @@ datos, se desprende:
 
 ## Página 22
 
-◦domlouvala se s strojvedoucím, že otevře dveře, protože byli u nástupiště;
-◦pomáhala s evakuací vlaku, než přijeli hasiči;
-◦profesi vlakvedoucí vykonává 2 roky a na trati jezdí pravidelně.
+◦acordó con el maquinista que abriría las puertas, ya que estaban en el andén;
+◦ayudó con la evacuación del tren hasta que llegaron los bomberos;
+◦ejerce la profesión de jefe de tren desde hace 2 años y circula regularmente por la línea.
 ### 3.1.2 Otros testigos
-Otras personas no aportaron explicaciones a la investigación.
+Otras personas no aportaron explicaciones al respecto de la MU.
 ### 3.2 Sistema de garantía de la seguridad
 ### 3.2.1 Organización marco y forma de emisión y ejecución de instrucciones
-El gestor de la infraestructura y el transportista cuentan con un sistema de garantía de la seguridad adoptado en
-virtud de lo dispuesto en la Ley núm. 266/1994 Sb.
-En el sistema de garantía de la seguridad de la explotación de la infraestructura adoptado por el gestor de la
-infraestructura, relacionado con las circunstancias del origen de la investigación en cuestión, no se detectó
-ninguna deficiencia.
-En el sistema de garantía de la seguridad de la explotación del transporte ferroviario adoptado por el
-transportista ČD, relacionado con las circunstancias del origen de la investigación en cuestión, no se detectó
-ninguna deficiencia.
-### 3.2.2 Requisitos para los empleados del gestor de la infraestructura y del transportista y aplicación de
-estos requisitos
-Los requisitos para los empleados del gestor de la infraestructura y del transportista, en particular los
-requisitos de idoneidad profesional y sanitaria, están establecidos por la Ley núm. 266/1994 Sb.,
-el decreto núm. 173/1995 Sb., el decreto núm. 101/1995 Sb., el decreto núm. 16/2012 Sb.
-y las normas internas del gestor de la infraestructura y del transportista.
-En el momento del origen de la investigación en cuestión, todas las personas del gestor de la infraestructura
-SŽDC involucradas en la investigación que realizaban actividades en la explotación de la infraestructura y del
-transporte ferroviario eran profesionalmente idóneas para el desempeño de la función que ocupaban.
-En el momento del origen de la investigación en cuestión, todas las personas del transportista ČD involucradas
-en la investigación que realizaban actividades en la explotación del transporte ferroviario y de la infraestructura
-eran profesionalmente idóneas para el desempeño de la función que ocupaban.
-### 3.2.3 Procedimientos de control interno de seguridad y auditoría y sus resultados
-El transportista realizó, en el marco de la actividad de control, un control interno de seguridad centrado
-en las actividades de explotación del transporte ferroviario. Desde septiembre de 2018 realizó al
-maquinista del tren Os 4708 un total de 2 controles centrados en la reevaluación de los conocimientos
-profesionales generales y de la información sobre el vehículo y la infraestructura, el material de servicio, el
-acoplamiento a la composición, la seguridad, la prueba de freno, y también se realizó una prueba de alcoholemia
-con resultado sin anomalías.
-Al maquinista del tren Os 4711 realizó 1 control centrado en la reevaluación de los conocimientos
-profesionales generales y de la información sobre el vehículo y la infraestructura, el material de servicio,
-
+El gestor de la infraestructura y el transportista cuentan con un sistema de garantía de la seguridad adoptado en virtud de lo dispuesto en la ley nº 266/1994 Sb.
+En el sistema de garantía de la seguridad de la explotación de la infraestructura adoptado por el gestor de la infraestructura, relacionado con las circunstancias de la aparición de la MU en cuestión, no se detectó ninguna deficiencia.
+En el sistema de garantía de la seguridad del transporte ferroviario adoptado por el transportista ČD, relacionado con las circunstancias de la aparición de la MU en cuestión, no se detectó ninguna deficiencia.
+### 3.2.2 Requisitos para el personal del gestor de la infraestructura y del transportista y aplicación de dichos requisitos
+Los requisitos para el personal del gestor de la infraestructura y del transportista, en particular los requisitos de idoneidad profesional y sanitaria, están establecidos por la ley nº 266/1994 Sb., el decreto nº 173/1995 Sb., el decreto nº 101/1995 Sb., el decreto nº 16/2012 Sb. y las normas internas del gestor de la infraestructura y del transportista.
+En el momento de la aparición de la MU en cuestión, todas las personas del gestor de la infraestructura SŽDC participantes en la MU que desempeñaban actividades en la explotación de la infraestructura y del transporte ferroviario estaban cualificadas profesionalmente para el ejercicio de la función desempeñada.
+En el momento de la aparición de la MU en cuestión, todas las personas del transportista ČD participantes en la MU que desempeñaban actividades en la explotación del transporte ferroviario y de la infraestructura estaban cualificadas profesionalmente para el ejercicio de la función desempeñada.
+### 3.2.3 Procedimientos de control interno de seguridad y de auditoría y sus resultados
+El transportista realizó, en el marco de su actividad de control, un control interno de seguridad centrado en las actividades de explotación del transporte ferroviario. Desde septiembre de 2018 realizó al maquinista del tren Os 4708 un total de 2 controles centrados en la revisión de los conocimientos profesionales generales y de la información sobre el vehículo y la infraestructura, el manual de servicio, el acoplamiento al tren, la seguridad, la prueba de frenado, y también se realizó una prueba de alcoholemia con resultado sin anomalías.
+Al maquinista del tren Os 4711 realizó 1 control centrado en la revisión de los conocimientos profesionales generales y de la información sobre el vehículo y la infraestructura, el manual de servicio,
 
 ## Página 23
+
 
 el acoplamiento a la composición, la seguridad, la prueba de freno, y también se realizó una prueba de alcoholemia
 con resultado sin anomalías.
@@ -849,8 +791,8 @@ en la infraestructura,";
 § 35 apartado 1 letra g) de la Ley núm. 266/1994 Sb., donde se indica:
 •
 
-
 ## Página 24
+
 
 "El transportista está obligado a
 guiarse en la explotación del transporte ferroviario por las instrucciones del gestor de la infraestructura
@@ -897,8 +839,8 @@ art. 3934 de la normativa SŽDC D1:
 •
 "Durante la circulación del tren, el maquinista observa desde la cabina de mando del vehículo de tracción si los semáforos
 
-
 ## Página 25
+
 
 correspondientes permiten su circulación, y al entrar en la estación, en la estación de enlace D3 y en la estación de enlace RB
 vigila si la vía de entrada está libre".
@@ -921,39 +863,33 @@ durante la cual se producía la reconstrucción de la infraestructura y del disp
 según las etapas y el calendario establecidos.
 Fig. núm. 4: Vista del semáforo Lc4 en la est. Brno hl. n.       Fuente: DI
 
-
 ## Página 26
 
-El semáforo de salida luminoso Lc4 es de cuatro luces y se encuentra en el km 143,531, donde
-está ubicado a la derecha junto a la 4.ª vía principal. Tras el origen de la investigación se realizaron mediciones de tensión en la
-bombilla, estado de aislamiento de las distribuciones y alimentación del semáforo. En la bombilla de la luz roja
-del semáforo Lc4 se midió una tensión de 11,6 V, el estado de aislamiento era satisfactorio. La señalización,
-la visibilidad y el estado de la pintura del semáforo se consideraron sin anomalías.
-Del análisis de los datos descargados se constató:
+La señal luminosa de salida Lc4 es de cuatro luces y se encuentra en el pk 143,531, donde está situada a la derecha junto a la 4.ª SK. Tras el producirse el MU, se realizaron mediciones de tensión en el filamento, el estado de aislamiento de las distribuciones y el alimentación de la señal. En el filamento de la luz roja de la señal Lc4 se midió una tensión de 11,6 V, y el estado de aislamiento era satisfactorio. La señalización, la visibilidad y el estado de la pintura de la señal se encontraron sin defectos.
+Del análisis de los datos descargados se constató lo siguiente:
 7.53.51 h
-el jefe de estación estableció en modo de ruta una ruta de tren desde el semáforo
+el jefe de estación estableció por el método de trayecto de circulación el itinerario de tren desde la señal
 •
 Lc2g a la vía 2g;
 7.54.04 h
-la ruta de tren para el tren Os 4708 desde el semáforo Lc4 a la 2.ª vía principal se
+el itinerario de tren para el tren Os 4708 desde la señal Lc4 a la 2.ª SK se
 •
-estableció y aseguró (véase fig. núm. 5);
+estableció y aseguró (véase la fig. n.º 5);
 7.54.27 h
-el jefe de estación de la est. Brno canceló la ruta de tren desde el semáforo Lc4 – Lc2g;
+el jefe de estación de Brno anuló el itinerario de tren desde la señal Lc4 – Lc2g;
 •
 7.54.29 h
-el semáforo Lc4 cambió la señal a "Alto" y comenzó el tiempo de cancelación de la
+la señal Lc4 cambió la indicación a «Alto» y comenzó el tiempo de anulación
 •
-ruta de tren;
+del itinerario de tren;
 7.56.10 h
-el jefe de estación estableció la ruta de tren para el tren Os 4711 entrando en la est.
+el jefe de estación estableció el itinerario de tren para el tren Os 4711 que entraba en la est.
 •
-Brno hl. n. desde la desviación Brno-Židenice desde el semáforo 1S a la vía 1h
-(véase fig. núm. 6);
+Brno hl. n. desde la desviación Brno-Židenice desde la señal 1S a la vía 1h (véase la fig. n.º 6);
 7.58.56 h
-tras la disolución de la ruta de tren, el jefe de estación de la est. Brno hl. n. estableció la
+tras la desaparición del itinerario de tren, el jefe de estación de Brno hl. n. estableció el
 •
-ruta de tren restante para el tren entrante Os 4711 en la 2.ª vía principal;
+itinerario de tren restante para el tren entrante Os 4711 en la 2.ª SK;
 7.59.30 h
 ocupación de la KÚ 1h por el tren Os 4711;
 •
@@ -964,14 +900,14 @@ ocupación de la KÚ 1g por el tren Os 4711;
 ocupación de la KÚ 1f por el tren Os 4711;
 •
 8.00.39 h
-el tren Os 4711 entró en la KÚ de la aguja núm. 49 y se produjo la colisión
+el tren Os 4711 entró en la KÚ de la aguja n.º 49 y se produjo la colisión
 •
-con el tren Os 4708 (véase fig. núm. 7).
-Desviación entre el tiempo registrado y el tiempo real: + 10 segundos.
-Fig. núm. 5: Situación en el monitor del JOP en la est. Brno hl. n. a las 7.54.04 h                                       Fuente: DI
-
+con el tren Os 4708 (véase la fig. n.º 7).
+Desviación entre el tiempo registrado y el real: + 10 segundos.
+Fig. n.º 5: Situación en el monitor JOP en la est. Brno hl. n. a la hora 7.54.04 h                                       Fuente: DI
 
 ## Página 27
+
 
 Fig. núm. 6: Situación en el monitor del JOP en la est. Brno hl. n. a las 7.56.10 h                                        Fuente: DI
 El TZZ en el tramo entre estaciones est. Brno hl. n. - desviación Brno-Židenice es de 3.ª categoría – barrera automática.
@@ -982,32 +918,20 @@ en relación causal con el origen de la investigación.
 La investigación fue registrada por las cámaras ubicadas en los distintos andenes de la est. Brno
 hl. n., que grababan lo que ocurría en los andenes y en las vías.
 
-
 ## Página 28
 
-La cámara núm. 1 estaba ubicada en un mástil junto al andén núm. 4 y grababa las cabeceras y la entrada
-de la est. Brno hl. n. en dirección a la desviación Brno-Židenice, en particular el paso a nivel de servicio y el semáforo
-Lc4, pero la señal en la grabación no es clara. La cámara núm. 2 está ubicada en un mástil en el sector B
-sobre el paso subterráneo al andén núm. 3. Esta cámara grababa lo que ocurría en el andén núm. 3 y en
-las 4.ª y 5.ª vías principales.
-Fig. núm. 8: Situación en el monitor del JOP en la est. Brno hl. n. a las 8.00.39 h                                        Fuente: DI
-De las grabaciones de las cámaras se desprende:
-de la cámara núm. 1 se ve que a las ca. 7.33 h llegó a la 4.ª vía principal el tren Os 4741 desde Letovice
+La cámara n.º 1 estaba situada en el mástil junto al andén n.º 4 y filmaba la cabecera y el extremo de la estación de Brno hl. n. en dirección a la desviación Brno-Židenice, especialmente el paso para personal y la señal Lc4, pero la señal no es clara en la grabación. La cámara n.º 2 está situada en el mástil en el sector B sobre el paso subterráneo al andén n.º 3. Esta cámara filmaba lo que ocurría en el andén n.º 3 y en el 4.º y 5.º SK.
+Fig. n.º 8: Situación en el monitor JOP en la estación de Brno hl. n. a las 8.00.39 h                                        Fuente: DI
+De las grabaciones de las cámaras se deduce:
+de la cámara n.º 1 se ve que hacia las 7.33 h llegó al 4.º SK el tren Os 4741 desde Letovice
 •
-(el posterior tren Os 4708). Tras el descenso de los pasajeros, el tren permaneció allí y continuamente
-iban subiendo pasajeros. A las 8.00 h la jefa de tren, que estaba junto a la composición,
-comprobó la composición y dio con el disco al maquinista la señal "Permiso de salida"
-y a continuación el tren Os 4708 se puso en marcha. Ca. 20 s después es apreciable el
-impacto y la composición se detiene. A continuación se ve cómo de la composición van
-descendiendo pasajeros;
-de la cámara núm. 2 es apreciable el tren Os 4708 aproximadamente 4 s después de que se pusiera en
+(el tren posterior Os 4708). Tras el descenso de los pasajeros, el tren permaneció parado y los pasajeros seguían subiendo a él de forma continuada. A las 8.00 h la jefa de tren, que estaba de pie junto a la composición, revisó la composición y dio con el disco al maquinista la señal "Autorización para la salida" y a continuación el tren Os 4708 se puso en marcha. Aproximadamente 20 s después se aprecia el impacto y la composición se detiene. A continuación se ve cómo los pasajeros van descendiendo progresivamente de la composición;
+de la cámara n.º 2 se aprecia el tren Os 4708 aproximadamente 4 s después de haberse puesto en marcha desde el 4.º SK. En
 •
-marcha desde la 4.ª vía principal. En ese momento ya se ve también la llegada del tren Os 4711.
-Inmediatamente después, ca. 6 s después, pasa por el paso a nivel de servicio el tren Os 4708 y se
-produce la colisión de ambos trenes. A continuación se ve cómo de la composición van
-descendiendo pasajeros.
+ese momento ya se ve también la llegada del tren Os 4711. Acto seguido, unos 6 s después, el tren Os 4708 pasa por el paso para personal y se produce la colisión entre ambos trenes. A continuación se ve cómo los pasajeros van descendiendo progresivamente de la composición.
 
 ## Página 29
+
 
 Fig. n.º 9: Vista desde la cámara n.º 2 situada en el andén n.º 4 en la est. Brno hl. n.                        Fuente: SŽDC
 ### 3.4.2 Componentes de la vía
@@ -1020,8 +944,8 @@ La unidad eléctrica del tren Os 4708 estaba compuesta por 2 HDV y 4 TDV.
 El HDV 560 028-3 contaba con un Certificado de aptitud del material rodante válido, n.º de ev.: PZ 0199/97-V.06, emitido por el DÚ el 7. 7. 1997. La última revisión técnica periódica antes del origen del MU se realizó el 27. 9. 2018, con el resultado de que el material cumple las condiciones de explotación en las vías, es decir, que se encuentra en un estado técnico que corresponde a la aptitud aprobada.
 El HDV 560 027-5, situado al final de la composición, contaba con un Certificado de aptitud del material rodante válido, n.º de ev.: PZ 0198/97-V.06, emitido por el DÚ el 7. 7. 1997. La última revisión técnica periódica antes del origen del MU se realizó el 27. 9. 2018, con el resultado de que el material cumple las condiciones de explotación en las vías, es decir, que se encuentra en un estado técnico
 
-
 ## Página 30
+
 
 que corresponde a la aptitud aprobada.
 La unidad eléctrica del tren Os 4711 estaba compuesta por 2 HDV y 4 TDV.
@@ -1068,8 +992,8 @@ caída de la velocidad a 0 km.h-1 y detención del tren Os 4711.
 Durante la marcha del tren Os 4711 el maquinista manipuló correctamente el VZ y superó la velocidad máxima permitida de 30 km.h-1 en 2 km.h-1 en un recorrido de 170 m en el tiempo comprendido entre las 7.59.47 h y las 8.00.24 h.
 Esta deficiencia queda fuera de la relación causal con el origen del MU.
 
-
 ## Página 31
+
 
 ### 3.5 Documentación del sistema de explotación
 ### 3.5.1 Medidas adoptadas por los empleados del operador de la vía y del transportista en lo que respecta a la dirección y la seguridad del tráfico
@@ -1094,8 +1018,8 @@ la señal Lc4 cambió la señal a «Alto» y comenzó el tiempo de cancelación 
 •
 ruta de tren.
 
-
 ## Página 32
+
 
 Del análisis de los registros de ReDat se desprende que la conversación en la que el jefe de estación habría comunicado la situación al maquinista del tren Os 4708 no se celebró, lo que el propio jefe de estación confirmó en su presentación de explicaciones. Aunque el jefe de estación incumplió la disposición normativa de la normativa SŽDC D1 (art. 2960), esta infracción no guarda relación causal con el MU (véase el punto 4.2.1 ZZ).
 Fig. n.º 10: Vista del puesto de trabajo del jefe de estación en la est. Brno hl. n.                                                            Fuente: DI
@@ -1106,29 +1030,24 @@ En relación con el MU no se produjo ninguna comunicación verbal que influyera 
 ### 3.5.3 Medidas adoptadas para la protección y la seguridad del lugar de la excepcionalidad
 El lugar del origen del MU fue asegurado por la persona cualificada y competente designada por el operador de la vía y el transportista de conformidad con el decreto n.º 376/2006 Sb, es decir, la DI no constató que desde el origen del MU hasta su llegada al lugar del MU (hasta la concesión del permiso para iniciar los trabajos de limpieza) se hubieran producido cambios en el lugar del MU.
 
-
 ## Página 33
 
 ### 3.6 Condiciones laborales, sanitarias y de explotación
-### 3.6.1 Jornada laboral de los empleados del operador de la vía y del transportista que participaron en la excepcionalidad
-•
-maquinista del tren Os 4708, en turno desde el 5. 3. 2019 a las 7.35 h, descanso previo al turno de 23.35 h; en el momento del origen del MU aún no había surgido el derecho a la pausa para la comida y el descanso;
-•
-maquinista del tren Os 4711, en turno desde el 4. 3. 2019 a las 21.50 h, descanso previo al turno de 23.30 h; la pausa para la comida y el descanso se disfrutó en horarios de explotación adecuados; dentro de este turno no está previsto un descanso en cama;
-•
-jefe de estación de la est. Brno hl. n., en turno el 5. 3. 2019 desde las 6.50 h, descanso previo al turno de 71.45 h; en el momento del origen del MU aún no había surgido el derecho a la pausa para la comida y el descanso;
-•
-jefe de tren del tren Os 4708, en turno el 5. 3. 2019 desde las 3.52 h, descanso previo al turno de 8.19 h; la pausa para la comida y el descanso se disfrutó en horarios de explotación adecuados;
-•
-jefe de tren del tren Os 4711, en turno el 4. 3. 2019 desde las 18.26 h, descanso previo al turno de 68.13 h; la pausa para la comida y el descanso se disfrutó en horarios de explotación adecuados.
-Los empleadores garantizaron las condiciones para el descanso previo al turno y durante el turno, de conformidad con la ley n.º 262/2006 Sb., es decir, con el decreto gubernamental n.º 589/2006 Sb., por el que se establece un régimen diferenciado de la jornada laboral y del tiempo de descanso de los empleados en el transporte.
-3.6.2 Estado de salud y situación personal que tuvieron repercusión en la excepcionalidad, incluido el estrés físico o psicológico
-Los empleados participantes del operador de la vía y del transportista estaban, en el momento del origen del MU, sanos para el desempeño de la función que ocupaban. La investigación no constató que la situación personal o el estado psicológico de las personas que participaron en el MU hubieran tenido influencia en el origen del MU.
-Los empleados del operador de la vía y del transportista se sometían a reconocimientos médicos periódicos de conformidad con la disposición del decreto n.º 101/1995 Sb. No se constató el estado de salud ni la situación personal que pudieran haber tenido influencia en el origen del MU, incluido el estrés físico y psicológico.
-3.6.3 Disposición del equipamiento del puesto de mando o del material rodante que influye en su manipulación y uso
-La disposición y el equipamiento del puesto de trabajo de los empleados del operador de la vía y del transportista no guardaban relación con el origen del MU.
+### 3.6.1 Jornada laboral de los empleados del gestor de la infraestructura y del transportista que fueron partes en el suceso excepcional
+• conductor del tren Os 4708, en turno desde el 5. 3. 2019 a las 7.35 h, descanso previo al turno de 23.35 h; en el momento de producirse el SE aún no había surgido el derecho a la pausa para comer y descanso;
+• conductor del tren Os 4711, en turno desde el 4. 3. 2019 a las 21.50 h, descanso previo al turno de 23.30 h; la pausa para comer y descanso se disfrutó en horarios de explotación adecuados; dentro de este turno no está previsto un descanso en litera;
+• jefe de estación de la est. Brno hl. n., en turno el 5. 3. 2019 a las 6.50 h, descanso previo al turno de 71.45 h; en el momento de producirse el SE aún no había surgido el derecho a la pausa para comer y descanso;
+• jefe de tren del tren Os 4708, en turno el 5. 3. 2019 a las 3.52 h, descanso previo al turno de 8.19 h; la pausa para comer y descanso se disfrutó en horarios de explotación adecuados;
+• jefe de tren del tren Os 4711, en turno el 4. 3. 2019 a las 18.26 h, descanso previo al turno de 68.13 h; la pausa para comer y descanso se disfrutó en horarios de explotación adecuados.
+Los empleadores garantizaron las condiciones para el descanso previo al turno y durante el turno, de conformidad con la ley núm. 262/2006 Sb., o con el decreto gubernamental núm. 589/2006 Sb., por el que se establece la regulación excepcional de la jornada laboral y del tiempo de descanso de los empleados en el transporte.
+3.6.2 Estado de salud y situación personal que tuvieron incidencia en el suceso excepcional, incluido el estrés físico o psicológico
+Los empleados participantes del gestor de la infraestructura y del transportista estaban, en el momento de producirse el SE, aptos para el desempeño de la función que desempeñaban. La investigación no arrojó datos de que la situación personal o el estado psicológico de las personas participantes en el SE tuvieran influencia en la producción del SE.
+Los empleados del gestor de la infraestructura y del transportista se sometían a reconocimientos médicos periódicos de conformidad con lo dispuesto en la disposición núm. 101/1995 Sb. No se detectaron estados de salud ni situaciones personales que pudieran haber influido en la producción del SE, incluido el estrés físico y psicológico.
+3.6.3 Disposición del equipamiento del puesto de mando o del vehículo ferroviario que influye en su conducción y utilización
+La disposición y el equipamiento del puesto de trabajo de los empleados del gestor de la infraestructura y del transportista no guardaban relación con la producción del SE.
 
 ## Página 34
+
 
 ### 3.7 Accidentes ferroviarios anteriores de carácter similar
 La DI investigó las causas y circunstancias en el período comprendido entre el 1. 1. 2010 y la fecha de ocurrencia del accidente ferroviario en cuestión en las vías ferroviarias, categoría nacional y regional, de los siguientes accidentes ferroviarios similares, en los que se produjo la circulación no autorizada de un tren más allá de una señal con una indicación que prohibía su circulación, con la consiguiente colisión con otro tren:
@@ -1160,34 +1079,68 @@ se produjo un daño total por importe de 354 902 925 Kč.
 •
 La DI registra en el período comprendido entre el 1. 1. 2010 y la fecha de ocurrencia del accidente ferroviario en cuestión en las vías ferroviarias, categoría nacional y regional, un total de 158 accidentes ferroviarios similares, en los que se produjo la circulación no autorizada de un tren con transporte de pasajeros, que se detenía regular o extraordinariamente en la estación ferroviaria, donde la expedición del tren se permite mediante la colocación de la señal principal en la indicación que autoriza la circulación, en el espacio destinado al desembarque y embarque de pasajeros, más allá de la señal con la indicación «Stůj» (Alto).
 
-
 ## Página 35
 
 ## 4 ANÁLISIS Y CONCLUSIONES
-### 4.1 Descripción final del accidente ferroviario
-### 4.1.1 Elaboración de las conclusiones sobre el accidente ferroviario basadas en los hechos
-establecidos en el punto 3
-El 5. 3. 2019, a las 7.33 h, la composición del tren Os 4741 se detuvo en la 4. SK junto al andén 3 de la est. Brno hl. n. El tren estaba formado por un tren eléctrico articulado de pantógrafo de la serie 560 con 2 HDV y 4 DV intercalados. La misma composición del tren debía continuar a las 8.00 h como tren Os 4708 con destino a la est. Březová nad Svitavou. El maquinista, al que se le había asignado la ejecución en el tren Os 4708, se presentó en su puesto a las cca. 7.45 h, donde realizó la anotación en el libro de traspaso y otras gestiones necesarias. El jefe de estación de la est. Brno hl. n., mediante la operación de la SZZ, estableció para el tren Os 4708 a las 7.54 h la ruta de tren de salida desde la 4. SK hasta la 2. TK. Sin embargo, en el mismo minuto recibió mediante la aplicación EDD la salida prevista del tren Os 4711 desde la desviación Brno-Židenice y decidió cancelar la ruta de tren para el tren Os 4708 y priorizar la circulación del tren Os 4711, para el cual a las 7.58 h estableció la ruta de tren en la 2. SK.
-A las 8.00 h, en la hora de salida, el maquinista del tren Os 4708, que se encontraba detenido en la 4. SK junto al andén 3, preparado para salir en dirección a la est. Březová nad Svitavou, se asomó desde su puesto y, en colaboración con el jefe de tren, realizaron las gestiones establecidas por el transportista antes de poner el tren en movimiento. Posteriormente, a las 8.00.27 h, puso el tren en movimiento desde el km 143,482 (49 m antes de la señal Lc4). A las 8.00.43 h, pasó junto a la señal principal (de ruta) Lc4, situada en el km 143,531, que indicaba «Stůj» (Alto). Tras recorrer una distancia total de 88 m, se produjo en el espacio de la aguja n.º 49 la colisión con el tren en sentido contrario Os 4711, que entraba en la est. Brno hl. n. en la 2. SK, y en cuya ruta establecida entró el tren Os 4708. En la colisión resultaron heridas 23 personas y se produjeron daños en ambas composiciones de pantógrafo.
+### 4.1 Descripción final del suceso ferroviario
+### 4.1.1 Elaboración de las conclusiones sobre el suceso ferroviario basadas en los hechos 
+constatados en el punto 3
+El 5 de marzo de 2019, a las 7.33 h, la composición del tren Os 4741 se detuvo en la 4. SK
+junto al andén 3 de la estación Brno hl. n. El tren estaba formado por una unidad eléctrica
+pantográfica compacta de la serie 560 con 2 HDV y 4 DV intercaladas. La misma composición
+debía continuar a las 8.00 h como tren Os 4708 con destino a la estación Březová nad
+Svitavou. El maquinista, al que se le había asignado la ejecución en el tren Os 4708, se
+presentó en su puesto aproximadamente a las 7.45 h, donde realizó la anotación en el libro de
+traspaso y las demás gestiones necesarias. El jefe de estación de Brno hl. n., mediante la
+operación de la SZZ, estableció a las 7.54 h la vía de salida del tren Os 4708 desde la 4. SK
+hasta la 2. TK. En ese mismo minuto, sin embargo, recibió mediante la aplicación EDD la
+salida prevista del tren Os 4711 desde la desviación Brno-Židenice y decidió cancelar la vía
+de tren para el tren Os 4708 y priorizar la circulación del tren Os 4711, para el cual a las
+7.58 h estableció la vía de tren en la 2. SK.
+A las 8.00 h, a la hora de salida, el maquinista del tren Os 4708, que se encontraba detenido
+en la 4. SK junto al andén 3, preparado para salir en dirección a la estación Březová nad
+Svitavou, se asomó desde su puesto y, en colaboración con el jefe de tren, realizaron las
+gestiones establecidas por el transportista antes de poner el tren en movimiento. A
+continuación, a las 8.00.27 h, puso el tren en movimiento desde el km 143,482 (49 m antes
+de la señal Lc4). A las 8.00.43 h, pasó junto a la señal principal (de vía) Lc4, situada en el
+km 143,531, que indicaba «Alto». Tras recorrer una distancia total de 88 m, se produjo, en el
+área de la aguja n.º 49, la colisión con el tren en sentido contrario Os 4711, que estaba
+entrando en la estación Brno hl. n. por la 2. SK y en cuya vía de tren establecida entró el
+tren Os 4708. En la colisión resultaron heridas 23 personas y se dañaron ambas
+composiciones pantográficas.
 ### 4.2 Análisis
-### 4.2.1 Evaluación de los hechos establecidos en el punto 3 y exposición de las conclusiones sobre la causa del accidente ferroviario y la actuación de los servicios de rescate
-En la realización del análisis del suceso del accidente, la DI se basó en los registros de la SZZ, en las grabaciones de las cámaras, en la evaluación de los datos de los registradores de velocidad de ambos trenes y en las declaraciones de las personas implicadas en el accidente ferroviario.
-Sobre la base de la inspección de la SZZ inmediatamente después de la ocurrencia del accidente ferroviario y de las mediciones realizadas por los empleados del operador de la vía, se constató que la SZZ de la est. Brno hl. n. y la TZZ en el tramo entre estaciones Brno hl. n. – desviación Brno-Židenice se encontraban en estado sin averías en el momento de la ocurrencia del accidente ferroviario. La ruta de tren para el tren Os 4711 fue establecida y asegurada por el jefe de estación de la est. Brno hl. n. mediante la operación normal de la JOP. El estado de la SZZ y la TZZ no guardaba relación causal con la ocurrencia del accidente ferroviario.
-La señal Lc4 es, por su diseño, una señal unidireccional, con cuatro lámparas de señalización. La visibilidad de la indicación «Stůj» (Alto) se midió en más de 100 m. Dada la visibilidad mínima requerida de las señales de al menos 100 m (§ 7 apartado 1 del decreto n.º 173/1995 Sb.), no se apreció deficiencia alguna.
-El tren Os 4708 se encontraba detenido con el frente en la 4. SK, a 49 m de la señal Lc4, es decir, dentro del alcance de su visibilidad constatada. A las 8.00.27 h, el tren Os 4708 se puso en marcha desde la 4. SK en dirección a la desviación
-
+### 4.2.1 Evaluación de los hechos constatados en el punto 3 y exposición de las
+conclusiones sobre la causa del suceso ferroviario y la actuación de los servicios de
+rescate
+Para la realización del análisis del suceso, la DI se basó en los registros de la SZZ, en las
+grabaciones de las cámaras, en la evaluación de los datos de los velocímetros de ambos trenes
+y en las declaraciones prestadas en el MU por las personas implicadas.
+Sobre la base de la inspección de la SZZ inmediatamente después de la producción del MU y
+de las mediciones realizadas por los empleados del gestor de la infraestructura, se constató
+que la SZZ de la estación Brno hl. n. y la TZZ en el tramo entre estaciones Brno hl. n. –
+desviación Brno-Židenice se encontraban, en el momento de la producción del MU, en estado
+sin averías. La vía de tren para el tren Os 4711 fue establecida y asegurada por el jefe de
+estación de Brno hl. n. mediante la operación normal de la JOP. El estado de la SZZ y de la
+TZZ no guardaba relación causal con la producción del MU.
+La señal Lc4 es, por su configuración, una señal unidireccional, con cuatro lámparas de
+señalización. La visibilidad de la señal «Alto» fue medida en más de 100 m. Dada la
+visibilidad mínima exigida de las señales de al menos 100 m (§ 7 apartado 1 del decreto
+n.º 173/1995 Sb.), no se apreció deficiencia alguna.
+El tren Os 4708 se encontraba detenido con el frente en la 4. SK, a 49 m de la señal Lc4,
+es decir, dentro del alcance de su visibilidad constatada. A las 8.00.27 h, el tren Os 4708
+partió desde la 4. SK en dirección a la desviación
 
 ## Página 36
 
-Brno-Židenice y a las 8.00.43 h se produjo el paso del frente del tren junto a la señal de ruta Lc4 con la indicación «Stůj» (Alto). El maquinista del tren Os 4708 disponía, tras la puesta en marcha, de un recorrido de 49 m y de un tiempo de 16 s para percibir la indicación «Stůj» (Alto). Este tiempo de visibilidad de la señal es suficientemente largo para que la registrara, evaluara correctamente su significado y actuara en consecuencia según los hechos constatados.
-Durante la investigación de las causas y circunstancias de la ocurrencia del accidente ferroviario en cuestión, en el marco de la investigación del factor humano no fue posible demostrar de manera inequívoca cuál fue la causa de la no reacción del maquinista ante la indicación «Stůj» (Alto) suficientemente visible. En la señal Lc4 sí brillaba la indicación «Volno» (Vía libre), que autorizaba la circulación y que era a la vez, para el maquinista del tren Os 4708, una orden de salida, y ello desde las 7.54.04 h durante 25 s, pero a las 7.54.29 h, es decir, 5 min. y 58 s antes de la salida no autorizada del tren desde la 4. SK, se apagó y cambió a la indicación «Stůj» (Alto). El tren se puso en marcha a las 8.00.27 h y el maquinista tuvo más de 6 min. de tiempo para constatar la señal antes de que, con el tren, a las 8.00.43 h y a una velocidad de 22 km.h-1, pasara junto a la señal Lc4 con la indicación «Stůj» (Alto). Es evidente, por tanto, que durante todo el período indicado, de más de 6 minutos de duración, el maquinista no se cercioró debidamente de si la señal Lc4 le permitía realmente la salida del tren Os 4708, y ello durante todo el tiempo hasta que pasó la señal con la indicación «Stůj» (Alto).
-En cuanto al hecho de que supiera que en la señal Lc4 brillaba durante cierto tiempo la indicación «Volno» (Vía libre), el maquinista del tren Os 4708 no hizo mención de ello en sus declaraciones prestadas para la PČR el 5. 3. 2019, ni en el acta con el empleado del 7. 3. 2019 (aquí indicó directamente que «miraba a la señal de vez en cuando… pero no recordaba la indicación, solo pensaba subconscientemente que tenía puesta la de vía libre»). Tampoco en la declaración prestada para la DI el 17. 5. 2019 confirmó que hubiera registrado el cambio del símbolo de señalización.
-En el momento de la puesta en marcha del tren Os 4708 desde la 4. SK, el tren Os 4711, procedente de la desviación Brno-Židenice, ya se encontraba en la KÚ 1g y se aproximaba progresivamente a la KÚ de la aguja n.º 49 en la est. Brno hl. n. La circulación no autorizada del tren Os 4708 continuó, dentro del suceso del accidente, con la entrada en la ruta establecida para el tren Os 4711, y finalizó con la colisión de ambos trenes. La velocidad del tren Os 4711 en el momento de la colisión era de 13 km.h-1 y la velocidad del tren Os 4708 era de 6 km.h-1.
-La SZZ de la est. Brno hl. n., de conformidad con la normativa vigente, garantizaba con su función la explotación segura de la vía y del transporte ferroviario. La circulación del tren Os 4708 más allá de la señal Lc4 estaba prohibida por una indicación «Stůj» (Alto) suficientemente visible. La SZZ no estaba dotada de ninguna funcionalidad que advirtiera de la circulación no autorizada de un tren más allá de una señal que no autoriza la circulación y que, en conexión con el sistema de radio, provocara la parada automática del tren.
-Asimismo, la DI verificó el hecho relativo al posible deslumbramiento del maquinista del tren Os 4708 en el momento en que se encontraba con el tren en la 4. SK. En el momento de la ocurrencia del accidente ferroviario, el sol se encontraba a cca. 1 h de su salida, en una posición más baja y brillaba desde la derecha. No podía producirse el hecho de que se pasara por alto la indicación en la señal Lc4 por motivos de deslumbramiento y de que la luz incidiera sobre la señal, pero es posible que el maquinista estuviera deslumbrado desde la derecha por este resplandor solar, de hecho así lo declaró en su declaración prestada. Este hecho, sin embargo, no le exime del cumplimiento de las obligaciones establecidas en los procedimientos tecnológicos y en la normativa legal. En particular, de conformidad con el art. 2979 de la norma SŽDC D1, donde se establece que si el maquinista no ve que la señal principal aplicable a la vía de circulación en la que se encuentra el frente del tren permite la salida del tren, solo podrá poner el tren en movimiento tras la expedición del tren por un medio distinto de la indicación de la señal principal.
-
+En Brno-Židenice y a las 8.00.43 h se produjo el paso de la cabeza del tren por la señal de vía Lc4 con la indicación «Alto». El maquinista del tren Os 4708 disponía, tras la salida en la vía 49 m, de un tiempo de 16 s para percibir la señal «Alto». Este tiempo de visibilidad de la señal es suficientemente largo para que la registrara, evaluara correctamente su significado y actuara conforme a los hechos constatados.
+Durante la investigación de las causas y circunstancias de la aparición de la mencionada MU, en el marco de la investigación del factor humano no se logró demostrar de manera inequívoca cuál fue la causa de la no reacción del maquinista ante la señal «Alto» suficientemente visible. En la señal Lc4 efectivamente lucía la señal «Vía libre», que permitía la circulación y que era a la vez, para el maquinista del tren Os 4708, una orden de salida, y ello desde las 7.54.04 h durante 25 s, pero a las 7.54.29 h, es decir 5 min. y 58 s antes de la salida no autorizada del tren desde la 4.ª SK, se apagó y cambió a la señal «Alto». El tren se puso en marcha a las 8.00.27 h y el maquinista tuvo más de 6 min. de tiempo para detectar la señal antes de que, con el tren, a las 8.00.43 h a una velocidad de 22 km.h-1, pasara junto a la señal Lc4 con la indicación «Alto». Es evidente, por tanto, que durante todo el período indicado, superior a 6 minutos, el maquinista no se cercioró debidamente de si la señal Lc4 le permitía realmente la salida del tren Os 4708, y ello durante todo el tiempo hasta que pasó la señal con la indicación «Alto».
+Sobre el hecho de que hubiera sabido que en la señal Lc4 lucía durante cierto tiempo la señal «Vía libre», el maquinista del tren Os 4708 no hizo mención alguna en sus declaraciones de descargo para la PČR del 5. 3. 2019, ni en el acta con el empleado del 7. 3. 2019 (aquí indicó directamente que «de vez en cuando miraba la señal… pero no recordaba la señal, solo pensaba subconscientemente que tenía puesta la vía libre»). Tampoco en la declaración de descargo para la DI del 17. 5. 2019 confirmó que hubiera registrado el cambio del signo de señalización.
+En el momento de la salida del tren Os 4711 desde la 4.ª SK, el tren Os 4711, procedente de la desviación Brno-Židenice, ya se encontraba en la KÚ 1g y se aproximaba progresivamente a la KÚ de la aguja n.º 49 en la est. Brno hl. n. La circulación no autorizada del tren Os 4708 continuó, dentro del suceso del accidente, con la entrada en la vía de tren establecida para el tren Os 4711, y finalizó con la colisión de ambos trenes. La velocidad del tren Os 4711 en el momento de la colisión era de 13 km.h-1 y la velocidad del tren Os 4708 era de 6 km.h-1.
+La SZZ de la est. Brno hl. n., de conformidad con las normativas vigentes, garantizaba con su función la explotación segura de la vía y del transporte ferroviario. La circulación del tren Os 4708 más allá de la señal Lc4 estaba prohibida por la señal «Alto» suficientemente visible. La SZZ no estaba dotada de ninguna funcionalidad que advirtiera de la circulación no autorizada del tren más allá de la señal que no permite la circulación y que, en conexión con el sistema de radio, provocara la parada automática del tren.
+Asimismo, la DI verificó el hecho relativo al posible deslumbramiento del maquinista del tren Os 4708 en el momento en que se encontraba con el tren en la 4.ª SK. En el momento de la aparición de la MU el sol se encontraba a cca 1 h de la salida, en una posición más baja y brillaba desde la derecha. No podía producirse el paso por alto de la señal en la señal Lc4 por motivos de deslumbramiento y de iluminación sobre la señal, pero es posible que el maquinista fuera deslumbrado desde la derecha por este resplandor solar, de hecho así lo declaró en su declaración de descargo. Este hecho, sin embargo, no le exime del cumplimiento de las obligaciones indicadas en los procedimientos tecnológicos y en las normativas legales. En particular, conforme al art. 2979 de la normativa SŽDC D1, donde se indica que si el maquinista no ve que la señal principal aplicable a la vía de tráfico en la que se encuentra la cabeza del tren permite la salida del tren, solo podrá poner el tren en movimiento tras la expedición del tren por otro medio que no sea la señal de la señal principal.
 
 ## Página 37
+
 
 El análisis de los datos registrados por el registrador de velocidad electrónico, con el que estaba dotado el HDV del tren Os 4708, no constató la superación de la velocidad máxima permitida en el lugar del accidente ferroviario. La inspección comisionada de los DV, incluida la prueba de funcionalidad de los frenos del HDV, tampoco detectó ninguna avería técnica con influencia en el accidente ferroviario.
 Fig. n.º 11: Posición del sol en el momento del accidente ferroviario    Fuente: suncalc.net
@@ -1196,6 +1149,7 @@ El maquinista del tren Os 4708 no se ajustó, en la explotación del transporte 
 Dada la secuencia de hechos constatada inmediatamente antes y en el momento de la ocurrencia del accidente ferroviario, es evidente que el maquinista del tren Os 4708, durante la circulación en la est. Brno hl. n., estaba descansado y, según su declaración, concentrado en la conducción del HDV. Su comportamiento se vio influido por un error o una secuencia de errores, como consecuencia de los cuales no percibió la indicación prohibitiva en la señal Lc4. El maquinista disponía de un tiempo de 6 min. y 14 s para registrar la indicación «Stůj» (Alto) y adaptar su comportamiento a la misma,
 
 ## Página 38
+
 
 resp. con el tren Os 4708 no iniciara la marcha en absoluto o, al menos, pudiera detenerse con seguridad y evitar la colisión.
 La organización básica de la Federación de Maquinistas de la República Checa solicitó a la DI que tuviera en cuenta sus declaraciones sobre la MU en cuestión, que envió mediante carta de fecha 31. 5. 2019.
@@ -1212,8 +1166,8 @@ La causa fundamental del suceso excepcional fue:
 ### 4.3.3 Causas originadas en el marco legal y en el uso del sistema de garantía de la seguridad
 No fueron detectadas por la DI.
 
-
 ## Página 39
+
 
 ### 4.4 Hallazgos complementarios
 4.4.1 Deficiencias y omisiones detectadas durante la investigación que no se refieren a las conclusiones sobre las causas
@@ -1233,8 +1187,8 @@ El transportista ČD emitió las siguientes medidas tras la ocurrencia de la MU:
 Atendiendo al hecho de que, según el plan nacional de implantación de ERTMS, que es vinculante, el sistema ERTMS se implantará en el nudo ferroviario de Brno en el año 2023, la Inspección Ferroviaria, en atención a las causas y circunstancias detectadas de la ocurrencia del suceso excepcional, no emite recomendaciones de seguridad. No obstante, con base en el análisis del número de circulaciones no autorizadas más allá de una señal con señal que prohíbe la circulación, del que se desprende que aproximadamente el diez por ciento de estos sucesos se produce por la puesta en marcha no autorizada de un tren de transporte de pasajeros acompañado de personal de tren desde el espacio destinado al desembarco y embarque de pasajeros, somete a la consideración de la Oficina Ferroviaria:
 si no conviene influir en los elementos del sistema de garantía de la seguridad del transporte ferroviario que regulan los procedimientos
 
-
 ## Página 40
+
 
 antes de poner en marcha un tren con transporte de pasajeros que se detiene regular o excepcionalmente [no se aplica a los trenes con todas las puertas de acceso controladas por el maquinista del vehículo ferroviario de tracción, que el maquinista no ha desbloqueado (abierto) durante la parada excepcional en la estación] en el espacio destinado al desembarco y embarque de pasajeros en la estación, donde se permite la maniobra del tren mediante la colocación de la señal principal en la señal que permite la circulación del tren, incluida la señal de llamada, de modo que la obligación de comprobar que la señal principal está colocada en la señal que permite la circulación mediante la vista desde el andén o mediante una consulta personal al maquinista (en la situación en que, debido a la disposición constructiva y espacial de la estación, no es posible comprobar de forma inequívoca la señal emitida por la señal principal correspondiente mediante la vista a lo largo del tren desde el andén) correspondiera también al miembro del personal de tren, y ello hasta la instalación de la instalación técnica correspondiente que impida automáticamente al maquinista poner el tren en marcha de forma no autorizada contra la señal que prohíbe la circulación.
 La medida indicada contribuiría, hasta la solución técnica del problema, a eliminar la falta inconsciente – el error humano (del maquinista) – que tiene como consecuencia la circulación no autorizada del tren más allá de la señal principal, que con su señal prohíbe la circulación del tren. En el periodo anterior a la supresión de la maniobra del tren con transporte de pasajeros desde el espacio destinado al desembarco y embarque de pasajeros mediante la señal de Salida dada por el jefe de estación, prácticamente no se producían sucesos excepcionalmente similares, ya que en los procedimientos antes de poner el tren en marcha intervenía otra persona – el jefe de estación. Su ausencia en el proceso de maniobra (procedimientos antes de la salida) del tren no fue sustituida por ninguna solución técnica, es decir, el estado original, en el que para que se produjera una circulación no autorizada del tren desde la estación tenían que fallar 2 personas, se redujo a una sola persona, es decir, se eliminó una barrera de seguridad del proceso de maniobra del tren, y sin sustitución alguna.
@@ -1246,9 +1200,8 @@ inspector
 De la Inspección Territorial de Brno
 De la Inspección Territorial de Brno
 
-
 ## Página 41
 
 ## 7 ANEXOS
-Fig. nº 12: Vista de la cabina de conducción del tren Os 4708                Fuente: DI
-Fig. nº 13: Vista de los daños en los conjuntos tras la colisión                Fuente: DI
+Fig. n.º 12: Vista del puesto de conducción del tren Os 4708                Fuente: DI
+Fig. n.º 13: Vista de los daños sufridos por los conjuntos en la colisión                Fuente: DI

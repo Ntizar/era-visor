@@ -10,13 +10,14 @@ chars: 68509
 ratio_longitud: 1.28
 tokens_in: 33247
 tokens_out: 23525
-verificacion: revisar
-notas_cifras: ["bloque 1: cifras cortas: 1/102", "bloque 2: original bilingüe: se compara contra el idioma principal (CS)", "bloque 3: original bilingüe: se compara contra el idioma principal (CS); cifras cortas: 3/36", "bloque 4: original bilingüe: se compara contra el idioma principal (CS)", "bloque 7: cifras cortas: 1/52", "bloque 8: original bilingüe: se compara contra el idioma principal (CS); cifras cortas: 2/78"]
-avisos: ["bloque 3: ratio 1.75", "bloque 4: ratio 1.61"]
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 5: original bilingüe: se compara contra el idioma principal (EN)", "página 6: original bilingüe: se compara contra el idioma principal (PT)", "página 7: original bilingüe: se compara contra el idioma principal (CS)", "página 8: cifras cortas: 4/21", "página 9: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 Inspección Ferroviaria
 República Checa
@@ -43,11 +44,12 @@ NIF:   75009561
 http://www.dicr.cz
 fax: (+420) 224 805 428
 
-
 ## Página 2
 
 
+
 ## Página 3
+
 
 # RESUMEN
 19 de marzo de 2007, 21:29 (20:29 GMT)
@@ -95,11 +97,12 @@ los gestores de infraestructura.
 La Oficina de Inspección de Seguridad Ferroviaria propondrá al Ministerio de Transportes introducir 
 la identificación obligatoria de los pasos a nivel mediante ley.
 
-
 ## Página 4
 
 
+
 ## Página 5
+
 
 # Índice
  Resumen .............................................................................................................................3
@@ -135,6 +138,7 @@ técnica de las causas de aparición del incidente extraordinario ..............
 
 ## Página 6
 
+
 3.1.1 Personal del administrador de la infraestructura y del transportista, incluidas las personas en relación contractual ...............................................................................................................13
 3.1.2 Otras personas .........................................................................................................15
 3.2 Sistema de garantía de la seguridad ...............................................................................15
@@ -161,10 +165,10 @@ técnica de las causas de aparición del incidente extraordinario ..............
 3.7 Incidentes anteriores de naturaleza similar ............................................21
 4 Análisis y conclusiones ............................................................................................................22
 4.1 Descripción definitiva del incidente ..........................................................................22
-4.1.1 Descripción definitiva del incidente basada en los hechos constatados en el punto 3 
-
+4.1.1 Descripción definitiva del incidente basada en los hechos constatados en el punto 3
 
 ## Página 7
+
 
 ............................................................................................................................22
 4.2 Análisis ......................................................................................................................22
@@ -185,6 +189,7 @@ técnica de las causas de aparición del incidente extraordinario ..............
 
 ## Página 8
 
+
 ## 1 RESUMEN
 El 19 de marzo de 2007 a las 21:29 horas se produjo una colisión entre el tren R 784 y un vehículo de carretera en la línea ferroviaria nacional, de doble vía y electrificada, nº 527 Praha-Bubeneč – Děčín, entre la estación ferroviaria (en adelante, EF) Vraňany y la EF Dolní Beřkovice, en el segundo vía de circulación, en el punto kilométrico (PK) 451,415, en el ámbito del paso a nivel situado en el PK 451,420.
 En el incidente extraordinario (en adelante, IE) no hubo fallecidos, se produjeron lesiones leves a dos personas y el posterior descarrilamiento de la unidad motriz ferroviaria (en adelante, UMF) y de 3 vehículos ferroviarios (en adelante, VF).
@@ -197,69 +202,98 @@ La causa inmediata del IE fue la alteración de la sección libre de circulació
 La causa derivada del marco normativo es la ausencia de una identificación inequívoca e inconfundible del paso a nivel.
 Se emitió una recomendación de seguridad al administrador de la línea ČD, a. s., y a la Oficina Ferroviaria.
 
-
 ## Página 9
 
-## 2 DATOS RELATIVOS AL INCIDENTE EXTRAORDINARIO
-### 2.1 Incidente extraordinario
-### 2.1.1 Fecha, hora exacta y lugar del incidente extraordinario
-El IE se produjo el 19 de marzo de 2007 a las 21:29 horas en el tramo entre estaciones Vraňany – Dolní Beřkovice, en la segunda vía de circulación, en el ámbito del paso a nivel (en adelante, paso a nivel) en el PK 451,415.
-### 2.1.2 Descripción del incidente extraordinario y del lugar del accidente, incluida la actuación del sistema integrado de rescate y del servicio de emergencias
-En el paso a nivel del PK 451,415 se manipuló un vehículo particular de manera que este salió parcialmente de la estructura del paso a nivel hacia el balasto entre la primera y la segunda vía de circulación. El vehículo particular, del que no se logró el desescombro, proyectaba su parte delantera hacia la sección libre de circulación de la segunda vía de circulación. Se solicitó la presencia de la Policía de la República Checa (en adelante, PČR), que, tras su llegada, comenzó a aplicar medidas para detener el tráfico ferroviario a través de este paso a nivel y para desescombrar el vehículo particular. A pesar de las medidas aplicadas, no se logró detener el tráfico ferroviario en este tramo de la línea, y el tren R 784, que circulaba por la segunda vía de circulación en dirección desde la EF Vraňany hasta la EF Dolní Beřkovice, colisionó con dicho vehículo particular en el ámbito del paso a nivel. Las personas que se encontraban cerca del vehículo particular fueron advertidas mediante la puesta en funcionamiento del dispositivo de protección del paso a nivel (en adelante, DPPA) y el cierre del paso a nivel, y lograron huir del lugar del IE.
-El tren R 784 impactó contra la parte delantera del automóvil, que proyectaba hacia la sección libre de circulación de la segunda vía de circulación. Tras la colisión, el automóvil fue lanzado a la cuneta fuera de la primera vía de circulación. Justo después del paso a nivel, descarriló la UMF y, posteriormente, a 270 metros más adelante, descarrilaron también los tres primeros VF acoplados detrás de ella. La UMF fue expulsada hacia un campo fuera de la vía a la derecha en el sentido de la marcha, el primer VF quedó volcado de lado y atascado contra el segundo VF, que permaneció detenido en una posición inclinada casi perpendicular a ambas vías de circulación. El tercer VF permaneció, tras el descarrilamiento, en el eje de la segunda vía de circulación. El cuarto VF, que no descarriló, quedó atascado por su bogie delantero contra el tercer VF.
-El borde de los paneles de la estructura del paso a nivel entre la primera y la segunda vía de circulación en el sentido de la marcha del tren resultó dañado. La estructura del paso a nivel estaba cubierta con sustancias oleosas y balasto esparcido. Se encontraron huellas de descarrilamiento en la segunda vía de circulación a 11 m del borde del paso a nivel. Asimismo, se constató un fuerte deterioro de las traviesas de hormigón, una alteración de la alineación de la vía y una importante deformación del ferrocarril. También se destruyeron 4 postes de la catenaria a la derecha de la segunda vía de circulación y el semáforo de sección de blocaje automático nº 2-4517. Resultaron dañadas también la caja de relés del blocaje automático junto al semáforo nº 2-4517 y los transformadores de vía en este punto. Se constató un deterioro y un hundimiento de la catenaria desde el poste nº 22 hasta el poste nº 26.
-Una descripción detallada figura en el Acta de inspección del lugar del IE, que se adjunta al expediente del IE.
-El IE fue comunicado desde el lugar del mismo por la guardia de la PČR presente al oficial de operaciones de la PČR de Mělník, quien activó de inmediato el sistema integrado de rescate. El oficial de operaciones también notificó el incidente al despachador de la EF Vraňany. En el lugar actuaron la PČR de Mělník, el Servicio Rápido de Asistencia Sanitaria (en adelante, SRAS) de Mělník y el Servicio de Rescate de Bomberos (en adelante, SRB) de ČD, a. s., de Kralupy nad Vltavou, Praga y Ústí nad Labem.
+## 2 DATOS RELATIVOS AL SUCESO EXTRAORDINARIO
+### 2.1 Suceso extraordinario
+### 2.1.1 Fecha, hora exacta y lugar del suceso extraordinario
+El suceso extraordinario (MU) se produjo el 19. 3. 2007 a las 21:29 horas en el tramo entre estaciones Vraňany – Dolní Beřkovice, 
+en la segunda vía de tráfico, en el espacio del paso a nivel ferroviario (en adelante, paso a nivel) en el km 451,415.
+### 2.1.2 Descripción del suceso extraordinario y del lugar del accidente, incluida la actividad del sistema 
+integrado de emergencia y del servicio de rescate
+En el paso a nivel del km 451,415 se maniobraba con un automóvil de manera que este 
+descendió parcialmente del cuerpo del paso a nivel al lecho de balasto entre la primera y la segunda vía de tráfico. 
+El automóvil, que no pudo ser extraído, invadía con su parte delantera el gálibo de paso 
+de la segunda vía de tráfico. Fue llamado al lugar la Policía de la República Checa (en adelante, 
+PČR), que a su llegada comenzó a adoptar medidas para detener el tráfico ferroviario a través de este 
+paso a nivel y para extraer el automóvil. A pesar de las medidas adoptadas, no se logró detener el tráfico 
+ferroviario en este tramo de la línea y el tren R 784 que circulaba por la segunda vía de tráfico en 
+dirección desde la estación Vraňany hacia la estación Dolní Beřkovice chocó en el espacio del paso a nivel con este 
+automóvil. Las personas que se movían alrededor del automóvil fueron advertidas mediante la puesta en 
+funcionamiento del dispositivo de seguridad del paso a nivel (en adelante, PZZ) y el cierre del 
+paso a nivel, y lograron huir del lugar del MU.
+
+El tren R 784 embistió la parte delantera del automóvil, que invadía el gálibo de paso 
+de la segunda vía de tráfico. Tras la colisión, el automóvil fue lanzado al foso fuera de la primera vía 
+de tráfico. Justo detrás del paso a nivel descarriló la locomotora (HDV) y a continuación, en los siguientes 270 metros, 
+descarrilaron también los tres primeros vagones acoplados a ella (DV). La locomotora fue expulsada al campo fuera de la línea a la derecha en el sentido de la marcha, 
+el primer vagón quedó de lado y encajado contra el segundo vagón, que permaneció de pie en posición inclinada 
+casi perpendicular a ambas vías de tráfico. El tercer vagón permaneció tras el descarrilamiento en el eje de la segunda vía 
+de tráfico. El cuarto vagón, no descarrilado, quedó encajado con su morro contra el tercer vagón.
+
+El borde de los paneles del cuerpo del paso a nivel entre la primera y la segunda vía de tráfico en el sentido de la marcha 
+del tren estaba dañado. El cuerpo del paso a nivel estaba cubierto de sustancias petróleas y balasto 
+dispersado. Se encontraron huellas de descarrilamiento en la segunda vía de tráfico a 11 m del borde 
+del paso a nivel. Además, se detectaron traviesas de hormigón gravemente dañadas, alteración de la alineación de la vía y 
+una deformación considerable de la superestructura ferroviaria. Asimismo, se destruyeron 4 postes 
+de la catenaria a la derecha de la segunda vía de tráfico y la señal de bloqueo automático de sección 
+n.º 2-4517. También quedaron dañados el armario de relés del bloqueo automático junto a la señal n.º 2-4517 y los transformadores de enlace 
+en este punto. Desde el poste n.º 22 hasta el poste n.º 26 se detectó catenaria dañada y 
+colgante. La descripción detallada se indica en el Acta de inspección del lugar del MU, que se incorpora al expediente del MU. 
+El MU fue comunicado desde el lugar de su origen por la patrulla de la PČR presente al oficial de guardia de la PČR 
+de Mělník, que activó inmediatamente el sistema integrado de emergencia. 
+El suceso extraordinario fue comunicado también al jefe de estación de la estación Vraňany. En el lugar actuaron la PČR de Mělník, el Servicio Rápido de 
+Emergencia Sanitaria (en adelante, RZZS) de Mělník y el Servicio de Bomberos y Rescate (en adelante, HZS) de ČD, 
+a. s., Kralupy nad Vltavou, Praga y Ústí nad Labem.
 
 ## Página 10
 
-2.1.3 Decisión de iniciar la investigación de las causas y circunstancias de la ocurrencia, composición del equipo de personas técnicamente cualificadas y método de conducción de la investigación de las causas y circunstancias de la ocurrencia
-La Inspección Ferroviaria (en adelante, DI) inició la investigación de las causas y circunstancias de la ocurrencia de la MU de conformidad con lo dispuesto en el artículo 53b, apartado (1), de la ley, en el lugar de la ocurrencia de la MU. El inspector jefe de la Inspección Territorial de Praga de la DI (en adelante, VI DI) fue encargado de la investigación y de la determinación de las causas y circunstancias de la ocurrencia de la MU. Sobre la base de los hechos constatados, no fue necesario constituir un equipo de la VI DI. El método de actuación se estableció de forma operativa según el desarrollo de la investigación, incluyendo la utilización de consultas con otras personas técnicamente cualificadas de la DI. En la investigación, la DI se basó en sus propios conocimientos y hallazgos, así como en la documentación solicitada y elaborada por el explotador durante la investigación, así como en las grabaciones y documentación fotográfica facilitadas por la Policía de la República Checa (PČR).
-### 2.2 Circunstancias del incidente extraordinario
-### 2.2.1 Empleados del explotador de la infraestructura y del transportista participantes, personas en relación contractual y otros participantes y testigos
-●conductores del tren R 784, empleado de ČD, a. s., Depósito de Vehículos sobre Ruedas (en adelante, DKV) de Ústí nad Labem;
-●encargado de tráfico de la Estación Ferroviaria (ŽST) de Vraňany, empleado de ČD, a. s., Estación Ferroviaria de Nudo (en adelante, UŽST) de Kralupy nad Vltavou; 
-●patrulla de la PČR de Mělník;
-●oficial de operaciones de la PČR de Mělník;
-●conductor del vehículo de pasajeros AUDI A8, matrícula 6S7 7746;
-●propietario del vehículo de pasajeros AUDI A8, matrícula 6S7 7746;
-●pasajero ligeramente herido del tren R 784 – trasladado por el Servicio Regional de Emergencias Médicas (RZZS);
-●otros aproximadamente 130 pasajeros del tren R 784. 
-2.2.2 Trenes y su composición, incluidos los números de registro de cada vehículo ferroviario individual
-El tren R 784 estaba compuesto por la unidad motriz eléctrica (HDV) 162.011-1 y seis vehículos remolcados (DV) – coches de pasajeros, todos pertenecientes al DKV de Ústí n/L:
-1. DV - ČD serie B nº 50 54 20 – 41 357-5 descarrilado – dañado
-2. DV - ČD serie B nº 50 54 20 – 41 365-8 descarrilado – dañado
-3. DV - ČD serie B nº 50 54 20 – 41 364-1 descarrilado – dañado
-4. DV - ČD serie B nº 50 54 20 – 41 330-2 no descarrilado – dañado
-5. DV - ČD serie B nº 50 54 82 – 41 132-8 no descarrilado – dañado
-6. DV - ČD serie B nº 50 54 19 – 41 061-6 no descarrilado – dañado
-Longitud total del tren: 162 metros, 28 ejes, peso total del tren: 349 toneladas, porcentaje de frenado necesario: 137 %, porcentaje de frenado real: 140 %. 
-
+2.1.3 Decisión de iniciar la investigación de las causas y circunstancias de producción, composición del equipo de personas cualificadas y método de dirección de la investigación de las causas y circunstancias de producción
+La Inspección Ferroviaria (en adelante DI) inició la investigación de las causas y circunstancias de producción de la EE en cumplimiento de lo dispuesto en el § 53b apartado (1) de la ley en el lugar de producción de la EE. La investigación y determinación de las causas y circunstancias de producción de la EE fue encomendada al inspector jefe de la Inspección Territorial de Praga de la DI (en adelante VI DI). Sobre la base de los hechos constatados, no fue necesario constituir un equipo de VI DI. El método de procedimiento se estableció de forma operativa según el desarrollo de la investigación, incluido el uso de consultas con otras personas cualificadas de la DI. En la investigación, la DI partió de sus propios conocimientos y hallazgos, así como de la documentación solicitada elaborada durante la investigación por el operador, y de las grabaciones y documentación fotográfica facilitadas por la PČR.
+### 2.2 Circunstancias del suceso excepcional
+### 2.2.1 Empleados participantes del operador de la vía y del transportista, personas en relación contractual y otros participantes y testigos
+●maquinista del tren R 784, empleado de ČD, a. s., Depósito de material rodante (en adelante DKV) Ústí nad Labem;
+●jefe de estación de la ŽST Vraňany, empleado de ČD, a. s., Estación ferroviaria de enlace (en adelante UŽST) Kralupy nad Vltavou;
+●patrulla de la PČR Mělník;
+●oficial de operaciones de la PČR Mělník;
+●conductor del automóvil AUDI A8, matrícula 6S7 7746;
+●propietario del automóvil AUDI A8, matrícula 6S7 7746;
+●pasajero levemente herido del tren R 784 – trasladado por el RZZS;
+●otros aproximadamente 130 pasajeros del tren R 784.
+2.2.2 Trenes y su composición, incluidos los números de registro de los distintos vehículos ferroviarios
+El tren R 784 estaba compuesto por el HDV 162.011-1 y seis DV – coches de pasajeros, todos del DKV Ústí n/L:
+1. DV - ČD serie B n.º 50 54 20 – 41 357-5 descarrilado – dañado
+2. DV - ČD serie B n.º 50 54 20 – 41 365-8 descarrilado – dañado
+3. DV - ČD serie B n.º 50 54 20 – 41 364-1 descarrilado – dañado
+4. DV - ČD serie B n.º 50 54 20 – 41 330-2 no descarrilado – dañado
+5. DV - ČD serie B n.º 50 54 82 – 41 132-8 no descarrilado – dañado
+6. DV - ČD serie B n.º 50 54 19 – 41 061-6 no descarrilado – dañado
+Longitud total del tren 162 metros, 28 ejes, peso total del tren 349 toneladas, porcentajes de frenado necesarios: 137 %, porcentajes de frenado reales: 140 %.
 
 ## Página 11
 
-### 2.2.3 Descripción de los componentes de la vía de circulación ferroviaria, del sistema de seguridad (es decir, principalmente del estado de las vías, desvíos, centrales de mando, señales y dispositivos de seguridad de trenes)
-La vía de doble circuito electrificada en el lugar de la ocurrencia de la MU transcurre en recta a nivel del terreno circundante. A ambos lados de la vía hay campos agrícolas. 
-Velocidad máxima permitida en la vía: 160 km/h. 
-El dispositivo de seguridad de la vía es un bloqueo automático de tres señales bidireccional de tercera categoría, tipo AB 74. 
-El dispositivo de seguridad de pasos a nivel, PZS 3Z BI, tipo AŽD 71, entró en servicio en el año 2000. 
-Al inspeccionar el lugar de la MU, el paso a nivel se encontró cerrado con barreras por ambos lados, y la alarma luminosa y acústica estaba en funcionamiento.
-### 2.2.4 Uso de medios de comunicación
-El oficial de operaciones de la PČR de Mělník informó telefónicamente al encargado de tráfico de la ŽST de Vraňany sobre el descarrilamiento del vehículo de pasajeros «hacia las vías» en el área del paso a nivel y, al mismo tiempo, solicitó la detención del tráfico ferroviario. 
-El encargado de tráfico de la ŽST de Vraňany transmitió esta información de inmediato al encargado de tráfico de la ŽST de Straškov (vía regional Libochovice – Vraňany).
-Las grabaciones de las conversaciones telefónicas entre la patrulla de la PČR, el oficial de operaciones de la PČR y el encargado de tráfico de la ŽST de Vraňany se adjuntan al expediente de la MU. 
-Transcripción de las conversaciones telefónicas entre el oficial de operaciones de la PČR y el encargado de tráfico de la ŽST de Vraňany, véase el punto 3.5.2.
-### 2.2.5 Trabajos realizados en el lugar del incidente extraordinario y en sus inmediaciones
-Antes de la ocurrencia de la MU, el conductor y el propietario del vehículo de pasajeros manipularon el vehículo en el paso a nivel de tal manera que el vehículo perturbó el perfil de paso de la segunda vía de la línea en el área del paso a nivel. 
-### 2.2.6 Activación del plan de emergencia ferroviaria y secuencia de eventos
-El oficial de operaciones de la PČR notificó al encargado de tráfico de la ŽST de Vraňany la ocurrencia de la MU e, independientemente de ello, también el conductor del tren R 784. El encargado de tráfico de la ŽST de Vraňany notificó este hecho al encargado de tráfico de carga de la ŽST de Kralupy nad Vltavou, quien cumplió las demás obligaciones de conformidad con el plan de notificación.
-La MU se notificó a la central de notificación de la DI (en adelante, COP) a las 21:51 horas. 
-Personas técnicamente cualificadas del explotador ČD, a. s., y de la VI DI se presentaron en el lugar de la MU. También estaban presentes en el lugar de la MU los empleados responsables de las distintas divisiones organizativas de ČD, a. s. Con la participación de la VI DI se realizó una inspección comisionada del lugar de la MU, incluida la elaboración de un acta.
-En la ŽST de Vraňany se aseguró la documentación de tráfico.
-Tras la inspección del lugar de la ocurrencia de la MU por parte de la PČR, los empleados de la Inspección Regional de Seguridad del Transporte Ferroviario (en adelante, RIBŽD) de Praga y la VI DI presente, a las 05:35 horas del día 20.3.2007 se otorgó a la DI el consentimiento para iniciar las labores de desescombro.
-
+### 2.2.3 Descripción de los componentes de la vía de circulación, del sistema de señalización (es decir, principalmente el estado de los raíles, desvíos, aparatos de maniobra, señales y del dispositivo de seguridad del tren)
+La línea de doble vía electrificada en el lugar donde se produjo el SU se desarrolla en línea recta a la altura del terreno circundante. A ambos lados de la línea hay campos.
+Velocidad máxima autorizada de la línea 160 km/h.
+El dispositivo de señalización de la línea es un bloque automático bidireccional de tres señales de tercer categoría, tipo AB 74.
+El dispositivo de seguridad del paso a nivel, PZS 3Z BI, tipo AŽD 71, se puso en servicio en el año 2000.
+En la inspección del lugar del SU se comprobó que el paso a nivel estaba cerrado por barreras por ambos lados, y la advertencia luminosa y acústica estaba en funcionamiento.
+### 2.2.4 Uso de los medios de comunicación
+El oficial de operaciones de la Policía Nacional (PČR) de Mělník informó telefónicamente al jefe de estación (výpravčí) de la estación (ŽST) Vraňany del deslizamiento del automóvil "a la vía" en el espacio del paso a nivel, y simultáneamente solicitó la detención del tráfico ferroviario.
+El jefe de estación de la ŽST Vraňany transmitió esta información de inmediato al jefe de estación de la ŽST Straškov (línea regional Libochovice – Vraňany).
+Las grabaciones de las conversaciones telefónicas entre la patrulla de la PČR, el oficial de operaciones de la PČR y el jefe de estación de la ŽST Vraňany son un anexo al expediente del SU.
+La transcripción de las conversaciones telefónicas entre el oficial de operaciones de la PČR y el jefe de estación de la ŽST Vraňany, véase el punto 3.5.2.
+### 2.2.5 Trabajos realizados en el lugar del suceso extraordinario y en sus proximidades
+Antes de la producción del SU, el conductor y el propietario del automóvil manipularon el automóvil en el paso a nivel de tal manera que el automóvil invadió el perfil de paso de la segunda vía de la línea en el espacio del paso a nivel.
+### 2.2.6 Activación del plan para el caso de suceso extraordinario en la vía y secuencia de acontecimientos
+El oficial de operaciones de la PČR comunicó la producción del SU al jefe de estación de la ŽST Vraňany, e independientemente de ello también lo hizo el maquinista del tren R 784. El jefe de estación de la ŽST Vraňany comunicó este hecho al jefe de estación de carga (zátěžový výpravčí) de la ŽST Kralupy nad Vltavou, quien cumplió las demás obligaciones de conformidad con el plan de notificación.
+Al centro central de notificación (en adelante COP) de la DI se notificó el SU a las 21:51 horas.
+Al lugar del SU acudieron las personas cualificadas del operador ČD, a. s., y la VI DI. En el lugar del SU estaban presentes también los jefes de empleados de las distintas ramas organizativas de ČD, a. s. Con la participación de la VI DI se realizó la inspección comisionada del lugar del SU, incluida la elaboración del acta.
+En la ŽST Vraňany se aseguró la documentación de circulación.
+Tras la inspección del lugar de producción del SU por parte de la PČR, los empleados de la Inspección Regional de Seguridad del Transporte Ferroviario (en adelante RIBŽD) de Praga y la VI DI presente, a las 05:35 horas del día 20.3. 2007 se concedió a la DI el permiso para iniciar los trabajos de despeje.
 
 ## Página 12
+
 
 Para eliminar las consecuencias de la MU se utilizó la unidad de grúa de accidentes del explotador ČD, a. s.
 El tráfico ferroviario entre la ŽST de Vraňany y la ŽST de Dolní Beřkovice se interrumpió en la primera y segunda vía de la línea desde las 21:30 horas del día 19.3.2007. El día 20.3.2007 a las 22:10 horas se restableció el tráfico bidireccional por la primera vía de la línea entre la ŽST de Vraňany y la ŽST de Dolní Beřkovice. 
@@ -281,6 +315,7 @@ Dañados los DV, coche de pasajeros nº 50 54 20 – 41 365-8, debido a las grav
 
 ## Página 13
 
+
 000,- Kč.
 El vehículo dañado, vagón de pasajeros nº 50 54 20 – 41 364-1, debido a las graves daños, fue propuesto, conforme a la ref.: 993/07 0 12 de fecha 26. 3. 2007, para su destrucción y desmontado físicamente en el lugar por la empresa suministradora Metalošrot Tlumačov. La estimación del daño se realizó por un importe de 4 900 000,- Kč.
 El vehículo dañado, vagón de pasajeros nº 50 54 20 – 41 330-2, durante la inspección comisionada del estado técnico en las instalaciones de la empresa ATECO Praha, se estimó el daño por un importe de 250 000,- Kč.
@@ -298,6 +333,7 @@ En el Acta de inspección del lugar del incidente excepcional se constata al fin
 El médico tratante y el representante legal no estuvieron de acuerdo con la realización del acta con la presencia personal del empleado; por este motivo, se optó por la forma de preguntas por escrito elaboradas por la persona autorizada y técnicamente competente del titular de la infraestructura y del transporte ferroviario ČD, a. s., y
 
 ## Página 14
+
 
 VI DI. En el Registro oficial de la PČR (copia parte del expediente del incidente excepcional) y en la respuesta por escrito a las preguntas enviadas (que forman parte del expediente del incidente excepcional), entre otras cosas, indicó que:
 – para el turno nocturno del despachador en la Estación de Vraňany se presentó debidamente descansado, no tenía problemas de salud, no había consumido alcohol antes del turno;
@@ -320,6 +356,7 @@ El maquinista del tren R 784, en el Acta con el empleado, entre otras cosas, ind
 
 ## Página 15
 
+
 la locomotora tenía el faro siempre apagado. De repente, vio a una distancia de unos 150 m en el paso a nivel algo sospechoso, comenzó a tocar la bocina de inmediato, la velocidad del tren era en ese momento de aproximadamente 135 – 138 
 km/h, luego vio por un instante en el paso a nivel un automóvil, que se adentraba en el perfil de circulación de tal manera que la parte delantera estaba en diagonal respecto a su vía y la parte trasera del coche estaba orientada hacia la primera vía. A continuación, se produjo la colisión. 
 ### 3.1.2 Otras personas
@@ -340,10 +377,10 @@ d) las vías de servicio accesibles al público en el ámbito de la vía,
 e) las zonas libres situadas a una distancia de al menos 2,5 m del eje de la vía exterior de la vía.
 Las obligaciones de las personas que se encuentran en el ámbito de la vía están establecidas en el apartado (4) del artículo 22 de la ley:
 (4) Las personas que se encuentran en el ámbito de la vía están obligadas a cuidar de su propia seguridad, seguir las instrucciones del explotador de la vía para garantizar la seguridad de las personas y la seguridad de la explotación de la vía y del transporte ferroviario, y las instrucciones para garantizar la protección del patrimonio y el orden público, y están obligadas a abstenerse de todo aquello que pueda perturbar o poner en peligro la explotación de la vía y del transporte ferroviario o tener como consecuencia daños en las componentes de la vía o en el material rodante ferroviario, o alterar el orden público.
-En la primera parte, el apartado (1) letra i) del artículo 1 establece el decreto del Ministerio de Transporte n.º 177/1995 Sb., 
-
+En la primera parte, el apartado (1) letra i) del artículo 1 establece el decreto del Ministerio de Transporte n.º 177/1995 Sb.,
 
 ## Página 16
+
 
 por el que se aprueba el reglamento de construcción y técnica de las vías, en su redacción posterior, entre otros, el concepto de perfil de circulación:
 A efectos de este decreto se entiende por
@@ -365,6 +402,7 @@ en el capítulo II. "Formas, contenido y plazos de notificación de incidentes",
 
 ## Página 17
 
+
 datos notificados:
 64. Los empleados en el puesto de notificación, ante el cual se notifica el incidente y que transmiten la notificación, anotan simultáneamente todos los datos notificados. Esta anotación la utilizan para la transmisión de la notificación conforme al artículo 46 y, a continuación, la transmiten a la persona autorizada. La anotación se realiza también en el caso de que la conversación sea grabada por un dispositivo de grabación.
 En la cuarta parte «Investigación y registro de incidentes», en el capítulo II. «Procedimiento de investigación de incidentes», apartado H «Definición de grupos de incidentes», se indica, entre otras cosas, en el artículo 147 que los incidentes son:
@@ -381,8 +419,8 @@ De conformidad con los reglamentos internos del administrador de la infraestruct
 ### 3.2.4 Interfaces entre las distintas partes participantes y las partes del recorrido del tren
 No aplica.
 
-
 ## Página 18
+
 
 ### 3.3 Marco jurídico y otras disposiciones
 ### 3.3.1 Normativa comunitaria y nacional aplicable
@@ -412,6 +450,7 @@ Horario de la estación de Vraňany.
 
 ## Página 19
 
+
 ### 3.4 Actividad de los vehículos ferroviarios y de los dispositivos técnicos
 ### 3.4.1 Sistema de control, señalización y protección, incluidos los dispositivos de grabación automática de datos
 El paso a nivel situado en el pk 451,415 entre las estaciones de Vraňany y Dolní Beřkovice está protegido mediante un dispositivo de protección de pasos a nivel luminoso (PZS) con dependencia del paso de los vehículos ferroviarios, con señal positiva y barreras completas. El estado del dispositivo de protección del paso a nivel se transmite al personal encargado de su manejo.
@@ -431,8 +470,8 @@ La comunicación entre el despachador de tráfico y los maquinistas de la locomo
 ### 3.4.4 Vehículos ferroviarios, incluidos los dispositivos de grabación automática de datos
 Según el registro del velocígrafo electrónico de la locomotora HDV 162.011-1, el tren R 784 se acercaba al paso a nivel a una velocidad de 137 km/h. Antes del lugar de la colisión se registró una advertencia acústica (silbato de la locomotora) en el periodo comprendido entre las 21:28:40 y las 21:28:44 horas. A las 21:28:43, a una velocidad de 136 km/h, comenzó la fuga de presión de aire de la tubería principal. A las 21:28:44 se produjo la colisión del tren R 784 con un automóvil particular a una velocidad de 136 km/h. Desde el punto de la fuga de presión de la tubería principal, el tren
 
-
 ## Página 20
+
 
 recorrió 135 metros hasta detenerse a las 21:28:52 horas. La grabación de esta circulación en el velocígrafo electrónico se interrumpió a las 21:28:54 horas.
 No se superó la velocidad máxima permitida para el tren, que era de 140 km/h.
@@ -458,8 +497,8 @@ Despachador: no lo hemos dejado pasar.
 Policía: ¡ahora se ha estrellado contra el tren!
 Despachador: ¿cómo ha podido chocar el tren?
 
-
 ## Página 21
+
 
 Policía: no sé, ahora la patrulla me dice que el tren ha chocado contra él.
 Despachador: pero el tren no podía pasar por ahí.
@@ -489,38 +528,38 @@ No se han registrado incidentes excepcionales similares hasta la fecha en la Ins
 ## Página 22
 
 ## 4 ANÁLISIS Y CONCLUSIONES
-### 4.1 Descripción final del incidente
-### 4.1.1 Descripción final del incidente basada en los hechos constatados
+### 4.1 Descripción final del suceso ferroviario
+### 4.1.1 Descripción final del suceso ferroviario basada en los hechos constatados 
 en el punto 3
-El 19. 3. 2007, aproximadamente a las 21.00 horas, en el paso a nivel del km 451.420 de la vía doble electrificada n.º 527 Praha-Bubeneč – Děčín, entre las estaciones de maniobras ŽST Vraňany y ŽST Dolní Beřkovice, se manipuló deliberadamente un vehículo de turismo para provocar su deterioro.
-El vehículo de turismo fue parcialmente sacado del firme del paso a nivel hacia el balasto entre la primera y la segunda vía, de tal manera que la parte delantera del vehículo se adentraba en el perfil de gálibo de la segunda vía. Se llamó a la Policía Nacional de la República Checa (PČR), que, tras su llegada, comenzó a tomar medidas para detener el tráfico ferroviario a través de dicho paso a nivel y para desalojar el vehículo de turismo. El oficial de operaciones de la PČR informó telefónicamente al despachador de la estación ŽST Vraňany sobre el obstáculo en las vías y solicitó la detención del tráfico ferroviario. El despachador interpretó la información proporcionada de tal manera que, inmediatamente después de finalizar la llamada telefónica con la PČR, tomó medidas para detener el tráfico en la línea regional Libochovice – Vraňany, es decir, transmitió dicha información de inmediato al despachador de la estación ŽST Straškov.
-A las 21:28 horas, el tren R 784 entró en la estación ŽST Vraňany y, con la señal de vía libre en el semáforo de salida, continuó su marcha por la segunda vía en dirección desde la estación ŽST Vraňany hacia la estación ŽST Dolní Beřkovice. A las 21:28:44 horas, a una velocidad de 136 km/h, colisionó en el área del paso a nivel con el vehículo de turismo detenido.
-El tren R 784 impactó contra la parte delantera del vehículo. Como resultado del golpe, el vehículo fue lanzado a la cuneta fuera de la primera vía. Justo después del paso a nivel, el vehículo motor (HDV) descarriló y, posteriormente, también los tres vehículos remolcados (DV) que iban acoplados detrás de él.
+El 19 de marzo de 2007, hacia las 21.00 horas, se manipuló intencionadamente un turismo en el paso a nivel situado en el punto kilométrico 451.420 de la línea de doble vía electrificada n.º 527 Praha-Bubeneč – Děčín, entre la estación de Vraňany y la estación de Dolní Beřkovice, con el fin de provocar su daño. El turismo quedó parcialmente desplazado desde el cuerpo del paso a nivel hasta el lecho de balasto entre la primera y la segunda vía, de modo que la parte delantera del vehículo invadía el gálibo de circulación de la segunda vía. Se requirió la presencia de la Policía de la República Checa (PČR), que, tras su llegada, comenzó a adoptar medidas para detener el tráfico ferroviario por dicho paso a nivel y para liberar el turismo. El oficial de guardia de la PČR informó por teléfono al jefe de estación de la estación de Vraňany sobre el obstáculo en las vías y solicitó la detención del tráfico ferroviario. El jefe de estación valoró la información recibida de tal forma que, inmediatamente tras finalizar la conversación telefónica con la PČR, adoptó las medidas para detener la circulación en la línea regional Libochovice – Vraňany, es decir, transmitió dicha información de inmediato al jefe de estación de la estación de Straškov.
+A las 21:28 horas entró el tren R 784 en la estación de Vraňany y, con la señal «Vía libre para la salida» en el semáforo de salida, continuó su marcha por la segunda vía en dirección desde la estación de Vraňany hacia la estación de Dolní Beřkovice. A las 21:28:44 horas, a una velocidad de 136 km/h, colisionó en el espacio del paso a nivel con el turismo detenido.
+El tren R 784 embistió la parte delantera del turismo. El impacto hizo que el vehículo fuera proyectado al foso exterior de la primera vía. Justo tras el paso a nivel, se descarriló la locomotora y, a continuación, los tres primeros vehículos de viajeros acoplados a ella.
 ### 4.2 Análisis
-### 4.2.1 Evaluación de los hechos constatados según el punto 3 y presentación de las conclusiones sobre la causa del incidente y la actuación de los servicios de rescate
-En el paso a nivel se manipuló deliberadamente el vehículo de turismo para provocar su deterioro. Durante esta manipulación, el vehículo de turismo fue colocado en su mayor parte dentro del perímetro de la vía, inaccesible al público. La naturaleza de dicha actividad puso en peligro la explotación segura de la vía y del tráfico ferroviario.
-Dicha conducta es ilegal a tenor de la ley y constituye la infracción administrativa prevista en el apartado 1, letras c) y e), del artículo 50 de la ley.
-El deterioro del vehículo de turismo fue denunciado a la PČR. La patrulla de la PČR, tras llegar al paso a nivel, informó al oficial de operaciones y, según la grabación de la llamada, es evidente que ambos policías acordaron sin problemas a qué paso a nivel se referían. Posteriormente, el oficial de operaciones informó telefónicamente al despachador de la estación ŽST Vraňany y, según la grabación de esta llamada, es claro que identificó la ubicación del paso a nivel desde la perspectiva de la vía terrestre, aunque no lo indicó («...en el paso a nivel ferroviario entre Lužec y Horní Beřkovice...»). El despachador entonces reaccionó ante las indicaciones de lugar como si se tratara de indicaciones de lugares en la vía, que es más o menos paralela y donde aparecen ambos nombres. Esto se refleja también en su reacción inmediata:
-– en la conversación telefónica («...bueno, ahora no vamos por allí, y luego llámeme, ¿vale?»);
-– en la medida que adoptó inmediatamente después, es decir, que tras finalizar la conversación transmitió telefónicamente la información al despachador de la estación ŽST Straškov;
-– en la siguiente conversación telefónica con el oficial de operaciones de la PČR, en la que se le notificó la aparición del incidente (MU):
-Policía: bueno, policía de Mělník, ¡han dejado pasar el tren!
-Despachador: no lo hemos dejado pasar.
-Policía: ¡ahora ha chocado contra el tren!
-Despachador: ¿cómo podía el tren chocar allí?
-Policía: no sé, ahora la patrulla me dice que el tren ha chocado contra él.
-Despachador: pero el tren no podía ir allí.
-La razón por la que el despachador no reaccionó ante la continuación de la información del oficial de operaciones de la PČR («...en la vía principal, un idiota se salió de la carretera y se quedó colgado en las vías...») no fue suficientemente aclarada mediante la investigación por las razones indicadas en el punto 3.1.1 de este informe.
-Dicha comunicación demuestra sin lugar a dudas la diferente percepción de la identificación del paso a nivel por parte de los policías y de los empleados ferroviarios, lo cual es esencialmente coherente con su orientación laboral.
-Según el artículo 9 del decreto n.º 177, el paso a nivel ferroviario está incluido en las componentes de la vía, pero, a diferencia de otras componentes (vías, agujas, etc.), no está enumerado entre los equipos de la vía (artículo 4 del decreto n.º 173), cuya identificación sirve, según el artículo 3 del decreto n.º 173, para la seguridad de la vía. Puede afirmarse que una identificación inequívoca e inconfundible del paso a nivel ferroviario, situada junto a las señales de cruce, y la introducción generalizada de este sistema de identificación entre los gestores de la infraestructura, el operador de tráfico ferroviario y el sistema integrado de rescate, eliminaría malentendidos de este tipo.
-Si se deja a un lado la circunstancia de la determinación del lugar del paso a nivel, puede afirmarse que el despachador de la estación ŽST Vraňany actuó, tras recibir la información sobre la caída del vehículo de turismo en las vías del paso a nivel ferroviario, conforme a las normas internas del gestor de la infraestructura ČD D2 (artículo 29) y ČD Z2 (artículo 85), es decir, tomó medidas para detener el tráfico.
-Desde la perspectiva de la actividad del sistema integrado de rescate, puede valorarse muy positivamente la intervención de la patrulla de la PČR, que estaba en el lugar del incidente antes de que este se produjera y que inició inmediatamente la evacuación de los pasajeros de los distintos vehículos remolcados antes de la llegada del resto de los componentes de rescate del Servicio de Bomberos y Protección Civil (HZS) y del Servicio Regional de Urgencias Médicas (RZZS).
-
+### 4.2.1 Evaluación de los hechos constatados según el punto 3 y exposición de las conclusiones sobre la causa del suceso ferroviario y la actuación de los servicios de emergencia
+En el paso a nivel se manipuló intencionadamente un turismo con el fin de provocar su daño. Durante esta manipulación, el turismo quedó situado en su mayor parte dentro del recinto de la vía, de acceso público no permitido. Dicha actuación, por su carácter, puso en peligro la explotación segura de la vía y del tráfico ferroviario.
+Dicha actuación es, desde el punto de vista legal, contraria a la ley y constituye la infracción administrativa prevista en el artículo 50, apartado (1), letras c) y e) de la ley.
+El daño del turismo fue comunicado a la PČR. La patrulla de la PČR, tras llegar al paso a nivel, informó al oficial de guardia y, del registro de la conversación, es evidente que ambos policías acordaron sin problemas a qué paso a nivel se referían. El oficial de guardia informó a continuación por teléfono al jefe de estación de la estación de Vraňany y, del registro de dicha conversación, se deduce que identificó el lugar del paso a nivel desde el punto de vista de la vía pública, lo que sin embargo no indicó («...en
 
 ## Página 23
 
+...del paso a nivel ferroviario entre Lužec y Horní Beřkovice...."). El jefe de estación reaccionaba entonces a los lugares así designados como a designaciones de lugares en la vía, que es más o menos paralela y en la que aparecen ambos nombres. Su reacción inmediata corresponde a esto:
+– en la conversación telefónica ("...bueno, ahora no vamos a ir por allí, y luego llámeme, ¿vale?");
+– en la medida que adoptó inmediatamente después, es decir, justo tras finalizar la conversación, transmitió telefónicamente la información comunicada al jefe de estación de ŽST Straškov;
+– en la conversación telefónica posterior con el oficial de operaciones de la Policía Nacional (PČR), en la que se le comunicó la aparición de la UE (evento mermado):
+Policía: bueno, Mělník policía, ¡ustedes han dejado pasar un tren!
+Jefe de estación: no lo hemos dejado pasar.
+Policía: ¡ahora se ha metido ahí dentro!
+Jefe de estación: ¿cómo ha podido meterse ahí dentro un tren?
+Policía: no sé, ahora me está diciendo la patrulla que ¡un tren ha entrado ahí!
+Jefe de estación: pero es que no puede pasar un tren por allí.
+La razón por la que el jefe de estación no reaccionó a la parte restante de la información del oficial de operaciones de la PČR ("...en la vía principal, algún idiota se ha salido de la carretera y se ha quedado colgado en las vías,...") no fue suficientemente esclarecida por la investigación por las razones indicadas en el punto n.º 3.1.1 de este informe.
+La comunicación indicada demuestra sin lugar a dudas la distinta percepción de la identificación del paso a nivel por parte de la policía y de los empleados ferroviarios, lo que es en esencia atribuible a su orientación profesional.
+El paso a nivel ferroviario está incluido, de acuerdo con el § 9 del decreto n.º 177, entre los componentes de la vía, pero, a diferencia de otros componentes (vías, agujas, etc.), no está enumerado entre las instalaciones de la vía (§ 4 del decreto n.º 173), cuya señalización sirve, de acuerdo con el § 3 del decreto n.º 173, para la seguridad de la vía. Puede constatarse que una señalización del paso a nivel ferroviario totalmente inequívoca y unívoca, colocada en las cruces de aviso, y la implantación general de este sistema de identificación entre los gestores de la vía, el transporte ferroviario y el sistema integrado de emergencias, eliminarán este tipo de malentendidos.
+Prescindiendo de la circunstancia de la determinación del lugar del paso a nivel, puede constatarse que el jefe de estación de ŽST Vraňany actuó, tras recibir la información sobre la salida del turismo (automóvil de pasajeros) en el espacio del paso a nivel ferroviario hacia las vías, en el sentido de las normas internas del gestor de la vía ČD D2 (art. 29) y ČD Z2 (art. 85), es decir, adoptó medidas para detener la circulación.
+Desde el punto de vista de la actividad del sistema integrado de emergencias, puede valorarse muy positivamente la intervención de la patrulla de la PČR, que estuvo en el lugar del UE (evento mermado) antes de su aparición e inició inmediatamente la evacuación de los pasajeros de cada DV (unidad de vehículos) antes de la llegada de los demás servicios de emergencia del HZS (bomberos) y RZZS (servicio sanitario de emergencias).
 
 ## Página 24
+
 
 ### 4.3 Conclusiones
 4.3.1 Causas inmediatas del incidente, incluidos los factores que contribuyeron a él y que estaban relacionados con la conducta de las personas implicadas o con el estado de los vehículos ferroviarios o de los equipos técnicos
@@ -539,6 +578,7 @@ Sobre la base del análisis de los incidentes notificados a la Dirección de Inv
 El gestor de la infraestructura ČD, a. s., no adoptó ninguna medida.
 
 ## Página 25
+
 
 ## 6 RECOMENDACIONES DE SEGURIDAD
 La Inspección Ferroviaria, como autoridad competente de materia conforme a lo dispuesto en el apartado 5 del artículo 53b de la Ley, sobre la base de los resultados de la investigación de las causas y circunstancias de la aparición del AT (Accidente Ferroviario), recomienda al operador de la vía ČD, a. s.:
@@ -564,6 +604,7 @@ Director
 Delegación Territorial de Praga
 
 ## Página 26
+
 
 ## 7 ANEXOS
 

@@ -10,13 +10,14 @@ chars: 81938
 ratio_longitud: 1.22
 tokens_in: 44160
 tokens_out: 28241
-verificacion: revisar
-notas_cifras: ["bloque 2: original bilingüe: se compara contra el idioma principal (CS)", "bloque 3: original bilingüe: se compara contra el idioma principal (PT)", "bloque 5: original bilingüe: se compara contra el idioma principal (CS)", "bloque 6: original bilingüe: se compara contra el idioma principal (CS)", "bloque 9: original bilingüe: se compara contra el idioma principal (CS)", "bloque 10: original bilingüe: se compara contra el idioma principal (CS); cifras cortas: 2/36"]
-avisos: ["bloque 6: ratio 1.98", "bloque 9: ratio 1.64"]
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 5: original bilingüe: se compara contra el idioma principal (EN)", "página 6: original bilingüe: se compara contra el idioma principal (PT)", "página 7: original bilingüe: se compara contra el idioma principal (CS)", "página 11: original bilingüe: se compara contra el idioma principal (HR)", "página 12: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 Inspección Ferroviaria
 República Checa
@@ -41,8 +42,8 @@ IČ:   75009561
 http://www.dicr.cz
 tel.: (+420) 224 805 444
 
-
 ## Página 2
+
 
 # RESUMEN
 Grado:
@@ -87,8 +88,8 @@ dotar de equipamiento a todo el material rodante - que esté dotado del sistema 
 •
 activa automáticamente por la apertura de las puertas de control central del tren - de modo que
 
-
 ## Página 3
+
 
 el maquinista pueda controlar el sistema de información y, en caso de necesidad, detener la locución;
 dotar de equipamiento a todo el nuevo material rodante que se incorpore al servicio con un equipamiento que
@@ -108,13 +109,13 @@ cuando la apertura de las puertas de control central del tren active automática
 información de acuerdo con la recomendación de seguridad n.º 1, y para otros gestores de
 infraestructura de acuerdo con la recomendación de seguridad n.º 2.
 
-
 ## Página 4
+
 
 Este informe final es público y todos los documentos y hechos están respaldados por el expediente de investigación.
 
-
 ## Página 5
+
 
 # Índice
  Resumen .............................................................................................................................2
@@ -151,6 +152,7 @@ incluidas personas en relación contractual ....................................
 contractual ...............................................................................................................17
 
 ## Página 6
+
 
 3.1.2 Otras personas .....................................................................................................18
 3.2 Sistema de garantía de la seguridad ........................................................................21
@@ -191,10 +193,10 @@ su manejo y utilización .......................................................
 punto 3 ................................................................................................................27
 4.2 Análisis ......................................................................................................................28
 4.2.1 Evaluación de los hechos constatados de acuerdo con el punto 3 y exposición de 
-las conclusiones sobre la causa 
-
+las conclusiones sobre la causa
 
 ## Página 7
+
 
 del suceso excepcional y la actuación de los servicios de emergencia ..................28
 4.3 Conclusiones ...........................................................................................................29
@@ -224,17 +226,19 @@ información a bordo ...........................................................
  Foto 4: Desenganche de emergencia de las puertas del coche de la serie Bdtn 756 
 («martillo» – véase el punto 3.1.1 – jefe de tren del tren Os 4813, 4.º párrafo) .......34
 
-
 ## Página 8
 
+
+
 ## Página 9
+
 
 ## Lista de abreviaturas y símbolos utilizados
 |  | Lista de abreviaturas y símbolos utilizados |
 | COP ČD a s , . . DI DKV DÚ DV GPS HDV hl n . . IZS MU OMU Os PČ R PO PP RCVD RIBŽD SŽDC SK TDV TRS VI VZ žst . | Centro Central de notificaciones de České dráhy a s , . . Inspección Ferroviaria depósito de material rodante Oficina Ferroviaria material rodante material rodante , sistema global de posicionamiento locomotora estación principal Sistema Integrado de Emergencias suceso excepcional Departamento de Investigación de Sucesos Excepcionales tren de pasajeros Policía de la República Checa sección de explotación puesto de explotación Centro Regional de acompañamiento de trenes Inspectorado Regional de Seguridad del Transporte Ferroviario Administración de la Infraestructura Ferroviaria organización estatal , vía de estación material rodante de tracción enlace radio de vía inspector superior dispositivo de seguridad del tren estación de ferrocarril |
 
-
 ## Página 10
+
 
 ## 1 RESUMEN
 Clasificación del suceso:
@@ -281,10 +285,10 @@ Recomendaciones de seguridad:
                      elemento de control en su puesto de trabajo en el caso de que necesite 
                      liberar excepcionalmente dicho bloqueo, dotar sin demora, o en el plazo 
                      más breve posible, dichos puestos de trabajo de un elemento de control 
-                     que permita al maquinista 
-
+                     que permita al maquinista
 
 ## Página 11
+
 
                      en caso de necesidad, desactivar (sacar de servicio) la anunciación 
                      automática del sistema informativo a bordo;
@@ -308,8 +312,8 @@ Recomendaciones de seguridad:
                      seguridad, y también con los demás gestores de líneas nacionales 
                      y regionales según el punto 2) de esta recomendación de seguridad.
 
-
 ## Página 12
+
 
 ## 2 DATOS RELATIVOS AL SUCESO EXCEPCIONAL
 ## 2.1
@@ -335,13 +339,13 @@ del sistema informativo a bordo, que en el lugar incorrecto, fuera del espacio d
 
 ## Página 13
 
-k el embarque y desembarque de pasajeros, anunció «parada Vladislav», es decir, el nombre de la parada siguiente, donde el tren debía detenerse para el embarque y desembarque de pasajeros. En ese momento ya entraba en la estación Vladislav, en la vía de estación n.º 2, en dirección desde la estación Studenec, el tren Os 4814. Cuando el tren Os 4814 se acercaba al tren Os 4813, detenido en la vía de estación contigua n.º 1, su maquinista observó que de repente se habían abierto unas puertas del tren Os 4813 y de ellas comenzaron a saltar un grupo de varios niños y personas adultas al espacio de la vía de estación n.º 2, es decir, directamente ante su tren. Inmediatamente aplicó frenado de acción rápida y con la bocina de la locomotora daba la señal «¡ATENCIÓN!». Inmediatamente después de detener el tren, fue a comprobar si había habido personas heridas, y constató que una persona adulta llevaba en brazos a un niño que lloraba con una herida cortante en la frente. El maquinista del tren Os 4814 comunicó el SU al jefe de estación de la estación Vladislav. El jefe de estación procedió a continuación conforme al horario de comunicaciones. Se activó el sistema integrado de rescate.  
-El SU se produjo en la vía de estación n.º 2, en el km 43,905, estación Vladislav. El frontal del rodadura motriz del tren Os 4814 se detuvo en el km 43,930, es decir, 25 m más allá del lugar de producción del SU.   
+k el embarque y desembarque de pasajeros, anunció «parada Vladislav», es decir, el nombre de la parada siguiente, donde el tren debía detenerse para el embarque y desembarque de pasajeros. En ese momento ya entraba en la estación Vladislav, en la vía de estación n.º 2, en dirección desde la estación Studenec, el tren Os 4814. Cuando el tren Os 4814 se aproximaba al tren Os 4813, detenido en la vía de estación contigua n.º 1, su maquinista observó que se abrieron de repente unas puertas del tren Os 4813 y de ellas empezaron a saltar un grupo de varios niños y personas adultas al espacio de la vía de estación n.º 2, es decir, directamente delante de su tren. Inmediatamente aplicó el frenado de acción rápida y con la bocina de la locomotora daba la señal «ATENCIÓN». Inmediatamente después de detener el tren, fue a comprobar si había habido personas heridas, y comprobó que una persona adulta llevaba en brazos a un niño que lloraba con una herida por cortes en la frente. El maquinista del tren Os 4814 comunicó el SU (suceso) inmediatamente al jefe de estación de la estación Vladislav. El jefe de estación procedió a continuación conforme al horario de comunicaciones. Se activó el sistema integrado de emergencia.  
+El SU se produjo en la vía de estación n.º 2, en el km 43,905, estación Vladislav. El frente del tren de tracción del tren Os 4814 se detuvo en el km 43,930, es decir, 25 m más allá del lugar de producción del SU.   
 Fig. n.º 2: Esquema del lugar del SU
-Tras la inspección del lugar del SU por parte de la VI ČD RIBŽD Brno, se constató que el SU se produjo por la caída de una persona menor de edad en la vía de estación n.º 2, en el km 43,905, en la estación Vladislav, fuera del espacio reservado para el embarque y desembarque de pasajeros. La investigación no permitió confirmar ni descartar de manera inequívoca si se produjo una colisión de la persona perjudicada con el tren Os 4814. Dada la gravedad de este caso y, en particular, sus repercusiones en el sistema de seguridad de los pasajeros, la DI decidió proceder como si se hubiera producido una colisión de la persona afectada con el rodadura motriz.
-
+Tras la inspección del lugar del SU, la VI ČD RIBŽD Brno constató que el SU se produjo por la caída de una persona menor de edad en la vía de estación n.º 2, en el km 43,905, en la estación Vladislav, fuera del espacio reservado para el embarque y desembarque de pasajeros. La investigación no logró confirmar ni refutar de manera inequívoca si se produjo un choque de la persona afectada con el tren Os 4814. Dada la gravedad de este caso y, en particular, sus repercusiones en el sistema de seguridad de los pasajeros, la DI decidió proceder como si se hubiera producido un choque de la persona afectada con el tren.
 
 ## Página 14
+
 
 2.1.3 Decisión de iniciar la investigación de las causas y circunstancias de producción, composición del equipo de personas cualificadas y método de dirección de la investigación de las causas y circunstancias de producción
 El SU fue comunicado al COP de la DI de Praga el 29. 7. 2011 a las 15:27 h como colisión de un tren de pasajeros con una persona que saltaba de un tren en un lugar no accesible al público. Sobre la base de los hechos comunicados, a las 15:28 h se emitió el consentimiento del COP de la DI para el inicio de los trabajos de retirada. Dado los hallazgos obtenidos durante la supervisión de este SU, en particular en relación con el sistema de seguridad, el día 10. 4. 2012 se decidió iniciar la investigación propia de este SU en su totalidad, es decir, incluida la elaboración del ZZ, conforme a lo dispuesto en el § 53b apartado 1 de la ley n.º 266/1994 Sb., de ferrocarriles, en su redacción vigente (en adelante, ley n.º 266/1994 Sb.). La investigación fue encomendada a la Inspección Territorial de Brno. El método y el procedimiento de la investigación se establecieron de forma operativa según la evolución de la investigación.
@@ -373,18 +377,18 @@ TDV incluidos en el tren y su orden:
 1. Bdtn756 50 54 21-29 316-6;
 2. ABfbrdtn 50 54 80-29 223-2.
 
-
 ## Página 15
+
 
 Longitud total del tren 74 m, 12 ejes, peso total del tren 74 t, norma de la medida de porcentajes de frenado necesarios 63, porcentajes de frenado reales 64. El tren estaba frenado con freno automático continuo en modo P.
            El tren Os 4814 estaba compuesto por el rodadura motriz delantero 95 54 5 842 033-3 y 1 TDV Bmx 765 50 54 20-29 119-5.
            Longitud total del tren 50 m, 8 ejes, peso total del tren 89 t, norma de la medida de porcentajes de frenado necesarios 81, porcentajes de frenado reales 98. El tren estaba frenado con freno automático continuo en modo P. 
 ### 2.2.3 Descripción de los componentes de la vía de circulación del ferrocarril, del sistema de señalización (es decir, en particular el estado de las vías, desvíos, aparatos de cambio, señales y del dispositivo de señalización del tren)
 Fig. n.º 3: Lugar del SU
- El SU se produjo en la vía de estación n.º 2. Se trata de un espacio que no está reservado para el público, no conduce a él ningún paso para el público ni una vía pública, y no se trata 
-
+ El SU se produjo en la vía de estación n.º 2. Se trata de un espacio que no está reservado para el público, no conduce a él ningún paso para el público ni una vía pública, y no se trata
 
 ## Página 16
+
 
 de un espacio destinado al embarque y desembarque de pasajeros. El espacio entre las vías de estación n.º 1 y n.º 2 está cubierto por una capa continua de grava.
 La estación Vladislav estaba destinada al embarque y desembarque de pasajeros, pero en 1996 el tráfico de pasajeros se trasladó a la nueva parada «Vladislav zastávka» construida directamente en la localidad. Desde entonces, la estación Vladislav sirve únicamente como apartadero.
@@ -397,25 +401,25 @@ En el lugar del SU, ni en ningún otro punto de la estación Vladislav, se estab
 
 ## Página 17
 
-### 2.2.6 Activación del plan para el caso de una incidencia en la vía y secuencia de acontecimientos
-La activación del plan se realizó de conformidad con el decreto n.º 376/2006 Sb., sobre el sistema de seguridad de la explotación de la vía y del transporte ferroviario y los procedimientos en caso de incidencia en las vías, en su versión vigente (en adelante, decreto n.º 376/2006 Sb.), y con la norma interna del explotador de la vía SŽDC Dp 17 Norma para la notificación e investigación de incidencias (en adelante, norma SŽDC Dp 17).
-La incidencia fue comunicada verbalmente por el jefe de estación de la est. Vladislav por el maquinista del tren Os 4814. El jefe de estación de la est. Vladislav, de conformidad con el Cuadro de notificaciones, comunicó la incidencia al jefe de despacho, quien activó el SIU.
-La incidencia fue notificada al COP DI a las 15:27 h. Al lugar de la incidencia acudieron las personas cualificadas del explotador de la vía y del transportista. Las personas cualificadas del explotador de la vía y del transportista realizaron la inspección conjunta del lugar de la incidencia, incluida la elaboración de un acta, la custodia de la documentación del tren y la realización de documentación fotográfica. A todos los empleados del transportista ČD implicados en la incidencia se les realizó una prueba de alcoholemia con resultado negativo.
-El lugar de la incidencia fue inspeccionado por la Policía ČR y por una persona cualificada del explotador de la vía y del transportista, RIBŽD Brno.
-El tráfico ferroviario en la est. Vladislav estuvo interrumpido desde las 15:12 h hasta las 16:38 h.
-### 2.2.7 Activación del plan del sistema integrado de emergencias, de la policía y del servicio de emergencias médicas y secuencia de acontecimientos
-          El SIU fue activado. Al lugar de la incidencia acudieron la PČR, Distrito de Třebíč, y el Servicio de Emergencias Rápidas de Třebíč. No fue necesario activar los medios auxiliares de accidente.
+### 2.2.6 Activación del plan para el caso de un suceso excepcional en la vía y secuencia de acontecimientos
+La activación del plan se realizó de conformidad con el decreto n.º 376/2006 Sb., sobre el sistema de seguridad de la explotación de la vía y del transporte ferroviario y los procedimientos en caso de sucesos excepcionales (MU) en las vías, en su versión vigente (en adelante, decreto n.º 376/2006 Sb.), y con la norma interna del explotador de la vía SŽDC Dp 17 Norma para la notificación e investigación de sucesos excepcionales (en adelante, norma SŽDC Dp 17).
+El suceso excepcional (MU) fue comunicado verbalmente por el maquinista del tren Os 4814 al jefe de estación de la estación de Vladislav. El jefe de estación de la estación de Vladislav, de conformidad con el Cuadro de notificación, comunicó el suceso excepcional (MU) al jefe de despacho, quien activó el IZS.
+En el COP DI, el MU fue notificado a las 15:27 h. Al lugar del MU acudieron las personas cualificadas del explotador de la vía y del transportista. Las personas cualificadas del explotador de la vía y del transportista realizaron la inspección conjunta del lugar del MU, incluida la elaboración de un acta, la custodia de la documentación del tren y la obtención de documentación fotográfica. A todos los empleados de ČD participantes en el MU se les sometió a una prueba de alcoholemia con resultado negativo.
+El lugar del suceso fue inspeccionado por la Policía ČR y por la persona cualificada del explotador de la vía y del transportista, RIBŽD Brno.
+El transporte ferroviario en la estación de Vladislav fue interrumpido desde las 15:12 h hasta las 16:38 h.
+### 2.2.7 Activación del plan del sistema integrado de emergencia, de la policía y del servicio de emergencias médicas y secuencia de acontecimientos
+          El IZS fue activado. Al lugar del MU acudieron la PČR, Departamento de Distrito de Třebíč, y el Servicio de Emergencias Rápidas de Třebíč. No fue necesario activar los medios auxiliares de accidente.
 ## 2.3
-### Fallecidos, heridos y daños materiales
+### Fallecimientos, lesiones y daños materiales
 2.3.1 En pasajeros y terceras personas, empleados del explotador de la vía y del transportista, incluidas personas en relación contractual
-          En la incidencia resultó herida una pasajera menor de edad.
-### 2.3.2 En los objetos transportados, equipajes y otros bienes
-No se detectó ningún daño en los objetos transportados, los equipajes ni otros bienes.
-### 2.3.3 En los vehículos ferroviarios, componentes de la vía y en el medio ambiente
-          No se produjeron daños en los vehículos ferroviarios, los componentes de la vía ni en el medio ambiente.
-
+          En el MU se produjo la lesión de una pasajera menor de edad.
+### 2.3.2 En objetos transportados, equipaje y otros bienes
+No se detectó ningún daño en los objetos transportados, el equipaje ni otros bienes.
+### 2.3.3 En vehículos ferroviarios, componentes de la vía de circulación y en el medio ambiente
+          No se produjeron daños en los vehículos ferroviarios, los componentes de la vía de circulación ni en el medio ambiente.
 
 ## Página 18
+
 
 ## 2.4
 ### Circunstancias externas
@@ -457,119 +461,100 @@ composición, cree que se trataba de las primeras puertas del coche intercalado 
 
 ## Página 19
 
-inmediatamente aplicó el frenado de acción rápida y simultáneamente dio la señal «¡Atención!». Las personas se
+inmediatamente aplicó el frenado de acción rápida y a la vez dio la señal «¡Atención!». Las personas se
 ◦
-dispersaron a ambos lados. Detuvo la cabeza del tren aproximadamente a media longitud del tren Os 4813;
+dispersaron a ambos lados. Detuvo la cabeza del tren aproximadamente a la mitad de la longitud del tren Os
+4813;
 inmediatamente después de detenerse, fue a comprobar si había habido personas heridas, y al hacerlo
 ◦
-comprobó que una persona adulta, aparentemente el padre, llevaba en brazos a un niño que lloraba con una herida por corte
-en la frente. Inmediatamente se llamó al servicio de emergencias y se notificó el suceso;
-junto con el maquinista del tren Os 4813, comprobaron las puertas indicadas y comprobaron
+descubrió que una persona adulta, aparentemente el padre, llevaba en brazos a un niño que lloraba con una
+herida cortante en la frente.
+Se llamó de inmediato al servicio de emergencias y se comunicó el suceso;
+juntamente con el maquinista del tren Os 4813 comprobaron las puertas indicadas y constataron
 ◦
-que faltaba el cristal protector de la palanca de mando de apertura de emergencia de las puertas y que las puertas estaban desbloqueadas desde el interior del coche (nota DI – dado que el maquinista del tren Os 4814 creía
-que los pasajeros bajaban de las primeras puertas del coche de enganche Bdtn756 50 54 21-29 316-
-6, comprobó dichas puertas. En ellas faltaba efectivamente el cristal protector de la palanca de mando
-de apertura de emergencia de las puertas y las puertas estaban desbloqueadas desde el interior del coche, tal y como se desprende también
-de la declaración del jefe de tren del tren Os 4813).
-jefe de tren del tren Os 4813 – del Acta con el empleado se desprende, entre otras cosas:
+que falta el cristal protector de la palanca de apertura de emergencia de las puertas y que las puertas están
+desbloqueadas desde el interior del coche (nota DI – dado que el maquinista del tren Os 4814 suponía
+que los pasajeros habían bajado por las primeras puertas del coche de enlace Bdtn756 50 54 21-29 316-
+6, comprobó dichas puertas. En ellas faltaba efectivamente el cristal protector de la palanca de apertura de
+emergencia de las puertas y las puertas estaban desbloqueadas desde el interior del coche, tal como
+se desprende también de la declaración del jefe de tren del tren Os 4813),
+jefe de tren del tren Os 4813 – del Registro con el empleado se desprende, entre otras cosas:
 •
 las puertas del tren se cerraban centralmente y su funcionamiento durante la marcha no presentaba
 ◦
 ningún defecto;
-tras la detención del tren Os 4813 en la est. Vladislav, oyó que el equipo de megafonía del tren
+tras la detención del tren Os 4813 en la est. Vladislav oyó que el equipo de megafonía del tren
 ◦
-anunciaba «Vladislav-parada». A los pocos segundos de la detención, oyó repentinamente un frenado violento del tren Os 4814 y, acto seguido, un gran ruido;
-bajó delante del tren del Os 4813 y vio a un hombre con una niña pequeña
+anunciaba «Vladislav-parada». Varios segundos después de la detención oyó de pronto un frenado
+brusco del tren Os 4814 y acto seguido un gran ruido;
+bajó delante del tren Os 4813 y vio a un hombre con una niña pequeña en brazos que tenía
 ◦
-en brazos, que tenía en la cabeza una herida sangrante;
-al llegar a las primeras puertas del coche de enganche Bdtn756 50 54 21-29 316-6 a la izquierda en el
+un arañazo sangrante en la cabeza;
+al llegar a las primeras puertas del coche de enlace Bdtn756 50 54 21-29 316-6 a la izquierda en
 ◦
-sentido de la marcha, comprobó que las puertas estaban abiertas y que el «martillito», que está situado
-en el lado interior junto a las puertas, estaba de alguna manera desplazado a otra posición y no tenía
-el cristal protector. El cuadrado con el que se desbloquean las puertas de emergencia estaba colocado en
-posición horizontal (desbloqueada). Lo devolvió con la llave a la posición vertical, en la que el
-bloqueo de las puertas no está fuera de servicio, y comprobó que las puertas funcionaban correctamente;
+el sentido de la marcha, comprobó que las puertas estaban abiertas y que el «martillo», situado en el
+interior junto a las puertas, había sido movido a alguna otra posición y carece de su cristal protector.
+El cuadrado con el que se desbloquean las puertas de emergencia estaba colocado en la posición
+horizontal (desbloqueada). Lo devolvió con la llave a la posición vertical, en la que el bloqueo de las
+puertas no está fuera de servicio, y comprobó que las puertas funcionaban correctamente;
 en la estación de origen y durante la revisión de los billetes hasta la est. Třebíč todo estaba
 ◦
 en orden, no faltaba el cristal protector, el cuadrado de mando de las puertas estaba correctamente
-colocado y el martillito estaba correctamente situado y asegurado.
-jefe de estación de la est. Vladislav – del Acta con el empleado se desprende, entre otras cosas:
+colocado y el martillo estaba debidamente colocado y asegurado.
+jefe de estación de la est. Vladislav – del Registro con el empleado se desprende, entre otras cosas:
 •
-a las 15:06 h estableció las vías de itinerario para la entrada del tren Os 4813 en la SK n.º 1 y para la entrada
+a las 15:06 h estableció las vías de tren para la entrada del tren Os 4813 en la SK n.º 1 y para la
 ◦
-del tren Os 4814 en la SK n.º 2. El tren Os 4813 se detuvo a las 15:11 h;
-a continuación, envió a la est. Třebíč la notificación de salida de este tren, ofreció el tren Os 4814 y, tras su
+entrada del tren Os 4814 en la SK n.º 2. El tren Os 4813 se detuvo a las 15:11 h;
+a continuación envió a la est. Třebíč la notificación de salida de este tren, ofreció el tren Os 4814 y,
 ◦
-llegada, fue a establecer para dicho tren la vía de itinerario para la salida desde la SK n.º 2;
-tras salir de la sala de tráfico, vio cómo el tren entrante Os 4814 frenaba
+tras su llegada, fue a establecer para este tren la vía de tren para la salida desde la SK n.º 2;
+al salir de la oficina de tráfico vio cómo el tren entrante Os 4814 frenaba
 ◦
-violentamente. Poco después de su detención, salió corriendo del espacio entre los trenes de ambos trenes
-un hombre que llevaba en brazos al niño herido, que aparentemente fue atropellado al bajar
-del tren Os 4813 por el tren entrante Os 4814;
-notificó el suceso inmediatamente al jefe de despacho.
+bruscamente. Poco después de su detención, salió corriendo del espacio entre los trenes de ambos trenes un
+hombre que llevaba en brazos al niño herido, que aparentemente fue atropellado al bajar del tren Os 4813
+por el tren entrante Os 4814;
+comunicó el suceso de inmediato al jefe de despacho.
 ◦
 ### 3.1.2 Otras personas
-Además de los empleados del transportista, las siguientes personas prestaron declaración ante la MU:
-
+Además de los empleados del operador, prestaron declaración ante el MU las siguientes personas:
 
 ## Página 20
 
-padre de la víctima – del Registro Oficial de prestación de declaración, que la PČR facilitó a la DI,
-•
-se desprende, entre otras cosas:
-el 29. 7. 2011 viajó con su amigo (testigo) y cuatro niños pequeños
+padre de la víctima – del Registro Oficial de declaración de explicaciones facilitado por la Policía Nacional (PČR) al DI, entre otros datos se desprende:
 ◦
-desde Třebíč hasta Vladislav. Viajó en tren por primera vez en varios años. El tren se detuvo en
-la estación Vladislav «... y eso en la más antigua»;
-unos veinte segundos después de que el tren se detuviera, se oyó por el megafonía el anuncio «parada
+el 29. 7. 2011 viajaba con su amigo (testigo) y cuatro niños pequeños
+des de Třebíč hasta Vladislav. Viajó en tren por primera vez en varios años. El tren se detuvo en la estación de Vladislav «... y eso en la más antigua»;
+unos veinte segundos después de que el tren se detuviera, se oyó por el altavoz el anuncio «parada de Vladislav». Como él y el testigo suponían que el tren se había detenido por alguna interrupción en la vía, decidieron bajar;
 ◦
-Vladislav». Dado que él y el testigo creían que el tren se había detenido a causa de alguna vía muerta en la línea, decidieron bajar;
-se fueron hacia las puertas, el hijo del testigo pulsó el botón verde y las puertas se abrieron. El primero
+se fueron hacia la puerta, el hijo del testigo pulsó el botón verde y la puerta se abrió. El primero en bajar fue el hijo del testigo, seguido de la hermana de la víctima. Ésta esperó a los pies de las escaleras, el padre de la víctima le pasó a la víctima y él mismo bajaba las escaleras;
+de repente oyó un silbido fuerte y en ese instante la víctima, aparentemente aterrada, ◦
+corrió en dirección alejándose del coche, a través de las vías hacia el edificio de la estación, sin que nadie llegara a detenerla;
+en dirección desde Brno llegaba otro tren por la vía contigua y la víctima cruzó ◦
+la vía justo delante de su parte frontal, por la que aparentemente fue arrojada, pero esto no lo vio con exactitud;
 ◦
-en bajar fue el hijo del testigo, seguido de la hermana de la víctima. Ésta esperó bajo las escaleras, el padre
-de la víctima le pasó a la víctima y él mismo bajaba las escaleras;
-de repente oyó un silbido fuerte y, en ese instante, la víctima, aparentemente aterrada,
+el tren que pasaba frenó intensamente de inmediato y su parte frontal la sobrepasó por varios metros. Después encontró a la víctima al otro lado del tren. Tenía varios moretones, pero estaba consciente.
+hermana de la víctima – del Registro Oficial de declaración de explicaciones facilitado por la Policía Nacional (PČR) al DI, entre otros datos se desprende:
 ◦
-salió corriendo en dirección desde el coche por encima de las vías hacia el edificio de la estación, sin que nadie llegara a detenerla;
-en dirección desde Brno llegaba por la vía adyacente otro tren y la víctima cruzó
+tras subir al tren se sentaron en el primer asiento a la izquierda y a la derecha, es decir, justo detrás de la puerta del coche;
+tras la detención del tren en Vladislav supuso que estaban en la parada de Vladislav, ◦
+porque vio las inscripciones de Vladislav en los edificios y porque al poco rato se oyó por el altavoz el anuncio «parada de Vladislav»;
+tras otros unos diez segundos, en los que el padre de la víctima y el testigo ◦
+discutían si el tren se detendría aún en la siguiente parada y si por tanto debían bajar entonces o no, decidieron que bajarían;
+el primero en ir hacia la puerta fue el hijo del testigo. Vio que pulsó el botón ◦
+verde junto a la puerta y la puerta se abrió. No tocó nada más junto a la puerta.
+primero bajó del tren el hijo del testigo, después ella. A continuación el padre de la ◦
+víctima le pasó a la víctima al hijo del testigo, que la puso en el suelo;
+ya no vio la secuencia posterior de acontecimientos, porque en el momento en que ◦
+pasaba el tren Os 4814, estaba de cara al tren Os 4813;
+no vio a nadie junto a la puerta del coche durante el viaje del tren de Třebíč a ◦
+Vladislav.
+testigo – del Registro Oficial de declaración de explicaciones facilitado por la Policía Nacional (PČR) al DI, entre otros datos se desprende:
 ◦
-la vía justo delante de su parte delantera, por la que aparentemente fue arrojada, pero esto
-no lo vio con exactitud;
-el tren que pasaba frenó intensamente de inmediato y su parte delantera la adelantó
-◦
-por unos varios metros. A continuación, encontró a la víctima al otro lado del tren. Tenía
-varios moretones, pero estaba consciente.
-hermana de la víctima – del Registro Oficial de prestación de declaración, que la PČR facilitó a la
-•
-DI, se desprende, entre otras cosas:
-tras subir al tren, se sentaron en el primer asiento a la izquierda y a la derecha, es decir, justo detrás
-◦
-de las puertas del coche;
-tras la detención del tren en Vladislav, creyeron que estaban en la parada Vladislav,
-◦
-porque en los edificios veían las inscripciones Vladislav y porque, tras un momento, se oyó por el altavoz el anuncio «parada Vladislav»;
-unos diez segundos después, mientras el padre de la víctima y el testigo discutían
-◦
-sobre si el tren se detendría aún en la siguiente parada y si, por tanto, debían bajar entonces o no, decidieron que bajarían;
-el primero en ir hacia las puertas fue el hijo del testigo. Vio que pulsó el botón verde junto a las puertas
-◦
-y las puertas se abrieron. No tocó nada más junto a las puertas.
-el primero en bajar del tren fue el hijo del testigo, seguido de ella. A continuación, el padre de la víctima pasó
-◦
-a la víctima al hijo del testigo, que la puso en el suelo;
-no vio el resto de los acontecimientos, porque en el momento en que pasaba el tren Os
-◦
-4814, estaba de pie de cara al tren Os 4813;
-junto a las puertas del coche durante la marcha del tren de Třebíč a Vladislav no vio a nadie.
-◦
-testigo – del Registro Oficial de prestación de declaración, que la PČR facilitó a la DI, se
-•
-desprende, entre otras cosas:
-en Třebíč subieron al «primer coche, que formaba parte de la locomotora» y salió
-◦
-de Třebíč con unos media hora de retraso. Durante el viaje a Vladislav, ninguno de ellos
+en Třebíč subieron al «primer coche, que formaba parte de la locomotora» y salieron de Třebíč con unos treinta minutos de retraso. Durante el trayecto hasta Vladislav, ninguno de ellos
 
 ## Página 21
+
 
 a la puerta y tampoco vio a nadie más durante el trayecto de Třebíče a Vladislavi junto a la puerta;
 al llegar a la «antigua estación de tren en la localidad de Vladislav», el tren se detuvo y aproximadamente
@@ -609,59 +594,24 @@ según la posición de la damnificada en la vía en el momento de la llegada del
 ◦
 testigo está convencida de que el tren tuvo que alcanzarla con la parte delantera derecha, pero no sabe con qué. Tampoco vio cómo ni hacia dónde cayó.
 
-
 ## Página 22
 
 ## 3.2
 ### Sistema de garantía de seguridad
 ### 3.2.1 Organización marco y forma en que se emiten y ejecutan las instrucciones
-La organización marco y la forma de emisión y ejecución de las instrucciones en la explotación de la
-vía y del transporte ferroviario se establecen en la Ley núm. 266/1994 Sb., en los reglamentos de
-desarrollo y en las normas contenidas en las disposiciones internas del explotador de la vía y del
-transportista.
-El transportista de los trenes Os 4813 y Os 4814 dispone de un sistema de garantía de seguridad
-aprobado. Los principios para el embarque y desembarque seguro de los pasajeros se contienen en la
-disposición del explotador de la vía SŽDC (ČD) D2. La evaluación del sistema en su conjunto y de su
-papel en el MU objeto de investigación excede el alcance de esta investigación, por lo que la
-investigación de las causas en el uso del sistema de garantía de seguridad se centró en el área que
-guardaba relación causal con el MU investigado. Del análisis en el capítulo 4.2.1 se desprende que en
-esta área no se encontraron deficiencias en relación causal con la producción de este MU. Sin embargo,
-el transportista no garantizó el cumplimiento del sistema de garantía de seguridad.
-### 3.2.2 Requisitos aplicables al personal del explotador de la vía y del transportista y su
-aplicación
-La aptitud profesional de las personas que participan en la explotación del transporte ferroviario
-se establece en el apartado 35 ap. 1 letra f) de la Ley núm. 266/1994 Sb. Las condiciones de
-aptitud para la conducción de vehículos ferroviarios se establecen en el apartado 45 ap. 1 de la
-Ley núm. 266/1994 Sb.
-Los requisitos de aptitud profesional del personal del transportista ČD, incluido el modo de su
-aplicación, se establecen en la disposición interna del transportista ČD Ok 2 Reglamento de
-formación y de exámenes de los Ferrocarriles Checos (en adelante, disposición ČD OK 2),
-aprobada el 7. 12. 2005, ref. núm.: 61773/05-O10. La organización de las formaciones y exámenes
-se especifica asimismo en la medida «Medida del director de recursos humanos y del director del
-departamento de tecnología y organización del transporte para la organización de formaciones y
-exámenes en ČD, a. s.», emitida el 25. 6. 2008, ref. núm.: 1620/2008 ŘTOD-013/22. La medida
-objeto de investigación es válida hasta la aprobación de una nueva norma interna que sustituya la
-disposición ČD Ok 2 anteriormente mencionada.
-El maquinista de la HDV del tren Os 4813 disponía de un «Certificado de aptitud para la conducción
-de vehículos ferroviarios» válido, número de registro 509496, emitido por la Oficina Ferroviaria de
-Praga el 25. 3. 2010 con validez hasta el 25. 3. 2020.
-El maquinista de la HDV del tren Os 4814 disponía de un «Certificado de aptitud para la conducción
-de vehículos ferroviarios» válido, número de registro 509443, emitido por la Oficina Ferroviaria de
-Praga el 25. 3. 2010 con validez hasta el 25. 3. 2020.
-El conocimiento de las condiciones de la línea en las líneas y en las instalaciones por parte de las
-personas que conducen la HDV es obligatorio para el explotador del transporte ferroviario según el
-apartado 35 ap. 1 letra a) del Decreto núm. 173/1995 Sb., Reglamento de circulación ferroviaria,
-en su versión vigente (en adelante, Decreto núm. 173/1995 Sb.). Los maquinistas de ambos trenes
-disponían de la habilitación vigente para la línea mencionada.
-La aptitud sanitaria de las personas que participan en la explotación del transporte ferroviario se
-establece en el apartado 35 ap. 1 letra f) de la Ley núm. 266/1994 Sb. Los maquinistas disponían
-de informes médicos vigentes de aptitud sanitaria para el trabajo de acuerdo con el apartado 6 ap. 2
-del Decreto núm. 101/1995 Sb., Reglamento de aptitud sanitaria de las personas en la explotación de
-la vía y del transporte ferroviario, en su versión vigente (en adelante, Decreto núm. 101/1995 Sb.).
-Todos los empleados del transportista implicados eran, en el momento de la producción del MU,
-profesional y sanitariamente aptos para el desempeño de la función que ocupaban.
+La organización marco y la forma de emisión y ejecución de las instrucciones en la explotación de la vía y del transporte ferroviario están establecidas por la ley n.º 266/1994 Sb., por los reglamentos de desarrollo y por las normas contenidas en las disposiciones internas del explotador de la vía y del transportista.
+El transportista de los trenes Os 4813 y Os 4814 dispone de un sistema de garantía de seguridad implantado. Los principios para el embarque y desembarque seguro de los pasajeros están contenidos en la disposición del explotador de la vía SŽDC (ČD) D2. La evaluación del sistema en su conjunto y de su papel en la MU objeto de investigación excede el alcance de esta investigación, por lo que la investigación de las causas en el uso del sistema de garantía de seguridad se centró en el área que guardaba relación causal con la MU investigada. Del análisis en el capítulo 4.2.1 se desprende que en esta área no se encontraron deficiencias en relación causal con la aparición de esta MU. Sin embargo, el transportista no garantizó el cumplimiento del sistema de garantía de seguridad.
+### 3.2.2 Requisitos para los empleados del explotador de la vía y del transportista y su aplicación
+La cualificación profesional de las personas que participan en la explotación del transporte ferroviario la establece el § 35 apartado 1 letra f) de la ley n.º 266/1994 Sb. Las condiciones de aptitud para conducir un vehículo ferroviario las establece el § 45 apartado 1 de la ley n.º 266/1994 Sb.
+Los requisitos de cualificación profesional de los empleados del transportista ČD, incluido el modo de su aplicación, están establecidos en la disposición interna del transportista ČD Ok 2 Reglamento de formación y de exámenes de los Ferrocarriles Checos (en adelante, disposición ČD OK 2), aprobada el 7. 12. 2005, n.º de expediente: 61773/05-O10. La organización de la formación y de los exámenes se especifica además en la medida «Medida del director de recursos humanos y del director del departamento de tecnología y organización del transporte para la organización de la formación y de los exámenes en ČD, a. s.», emitida el 25. 6. 2008, n.º de expediente: 1620/2008 ŘTOD-013/22. La medida objeto de investigación es válida hasta la aprobación de una nueva norma interna que sustituya la disposición ČD Ok 2 anteriormente mencionada.
+El maquinista del HDV del tren Os 4813 tenía en vigor el «Certificado de aptitud para conducir un vehículo ferroviario», número de registro 509496, emitido por la Autoridad Ferroviaria en Praga el 25. 3. 2010 con vigencia hasta el 25. 3. 2020.
+El maquinista del HDV del tren Os 4814 tenía en vigor el «Certificado de aptitud para conducir un vehículo ferroviario», número de registro 509443, emitido por la Autoridad Ferroviaria en Praga el 25. 3. 2010 con vigencia hasta el 25. 3. 2020.
+El conocimiento de las condiciones de la línea en las líneas y en las estaciones por parte de las personas que conducen el HDV lo impone al explotador del transporte ferroviario el § 35 apartado 1 letra a) del reglamento n.º 173/1995 Sb., Reglamento de circulación ferroviaria, en su versión vigente (en adelante, reglamento n.º 173/1995 Sb.). Los maquinistas de ambos trenes disponían del reconocimiento válido para la línea mencionada.
+La aptitud sanitaria de las personas que participan en la explotación del transporte ferroviario la establece el § 35 apartado 1 letra f) de la ley n.º 266/1994 Sb. Los maquinistas disponían de informes médicos válidos de aptitud sanitaria para el trabajo de acuerdo con el § 6 apartado 2 del reglamento n.º 101/1995 Sb., Reglamento de aptitud sanitaria de las personas en la explotación de la vía y del transporte ferroviario, en su versión vigente (en adelante, reglamento n.º 101/1995 Sb.).
+Todos los empleados del transportista implicados eran, en el momento de producirse la MU, profesional y sanitariamente aptos para el desempeño de la función que ocupaban.
 
 ## Página 23
+
 
 ### 3.2.3 Procedimiento de control interno de seguridad y sus resultados
 El transportista realizaba a los maquinistas participantes en el MU controles de desempeño del servicio
@@ -707,8 +657,8 @@ disponga lo contrario";
 § 35 apartado (2), letra f) de la ley núm. 266/1994 Sb.:
 •
 
-
 ## Página 24
+
 
 "(2) El transportista que explota transporte ferroviario en una vía de ámbito nacional o en una
 vía regional, y que es titular de una licencia vigente, estará además obligado
@@ -759,67 +709,77 @@ compañía de una persona mayor de 10 años,"
 ## Página 25
 
 ## 3.4
-### Actividad de los vehículos ferroviarios y de las instalaciones técnicas
-### 3.4.1 Sistema de conducción, señalización y seguridad, incluidos los dispositivos de registro automático de datos
-           La estación de Vladislav está equipada con un dispositivo de seguridad de estación de 2.ª categoría – dispositivo de seguridad electromecánico con sistema de señalización luminosa de velocidad. La circulación de los trenes Os 4813 y Os 4814 en el ámbito de la estación de Vladislav estuvo asegurada por la operación regular de dicho dispositivo.
-En la investigación se obtuvieron los datos de los registradores de velocidad de las locomotoras de los trenes Os 4813 y Os 4814.
+### Funcionamiento de los vehículos ferroviarios y de las instalaciones técnicas
+### 3.4.1 Sistema de mando, señalización y seguridad, incluidos los dispositivos de registro automático de datos
+           La estación de Vladislav está equipada con un dispositivo de seguridad de 2.ª categoría – dispositivo de seguridad electromecánico con sistema de señalización de velocidad mediante señales luminosas. La circulación de los trenes Os 4813 y Os 4814 en el ámbito de la estación de Vladislav estuvo asegurada por la operación reglamentaria de dicho dispositivo.
+Durante la investigación se obtuvieron los datos de los registradores de velocidad de las locomotoras de los trenes Os 4813 y Os 4814.
 No se detectaron averías.
 ### 3.4.2 Componentes de la vía
-El accidente ocurrió en la vía de estación n.º 2, en un espacio no destinado al público. El espacio entre las vías de estación n.º 1 y 2 está cubierto por una capa continua de balasto. El estado técnico de los componentes de la vía no guardaba relación causal con la ocurrencia del accidente.
+El accidente ferroviario ocurrió en la vía de estación n.º 2, en un espacio no destinado al público. El espacio entre las vías de estación n.º 1 y 2 está cubierto por una capa continua de balasto. El estado técnico de los componentes de la vía no guardaba relación causal con la ocurrencia del accidente ferroviario.
 ### 3.4.3 Medios de comunicación
-La comunicación mutua entre los maquinistas de los trenes Os 4813, Os 4814 y el jefe de estación de la estación de Vladislav tras la ocurrencia del accidente se realizó únicamente de forma oral.
-El RZS (servicio de emergencia) fue llamado por la testigo mencionada anteriormente desde su teléfono móvil (véase el punto 2.2.6 de este informe).
+La comunicación mutua entre los maquinistas de los trenes Os 4813, Os 4814 y el jefe de estación de la estación de Vladislav tras la ocurrencia del accidente ferroviario se realizó únicamente de forma oral.
+El RZS (servicio de emergencias) fue llamado por la testigo mencionada anteriormente desde su teléfono móvil (véase el punto 2.2.6 de este informe).
 ### 3.4.4 Vehículos ferroviarios, incluidos los dispositivos de registro automático de datos
-           La locomotora 842.033-3 del tren Os 4814, propiedad de ČD, a. s., operada por DKV Brno, contaba con un «Certificado de aptitud del vehículo ferroviario» n.º de referencia 8619/04 – V. 22, emitido el 31. 3. 2004 por la Autoridad Ferroviaria en Praga. La última revisión técnica periódica en el sentido del decreto n.º 173/1995 Sb. se realizó el 4. 4. 2011 con el resultado de sin averías. En el momento de la ocurrencia del accidente, la locomotora estaba equipada con un dispositivo de registro automático de datos tipo ELEKTRONICKÝ RYCHLOMĚR METRA - BLANSKO, n.º 662A/104 91 369.
+           La locomotora 842.033-3 del tren Os 4814, propiedad de ČD, a. s., explotada por DKV Brno, contaba con un «Certificado de aptitud del vehículo ferroviario» n.º de registro 8619/04 – V. 22, emitido el 31. 3. 2004 por la Autoridad Ferroviaria en Praga. La última revisión técnica periódica en el sentido del decreto n.º 173/1995 Sb. se realizó el 4. 4. 2011 con el resultado de sin averías. En el momento de la ocurrencia del accidente ferroviario, la locomotora estaba equipada con un dispositivo de registro automático de datos tipo ELEKTRONICKÝ RYCHLOMĚR METRA - BLANSKO, n.º 662A/104 91 369.
 De los datos registrados se desprende:
 a las 15:09 h el tren Os 4814 partió de la parada Vladislav-zastávka;
 –
-seguidamente se produjo una aceleración suave hasta una velocidad de 43 km·h-1 en una distancia de 600 m;
+seguidamente se produjo una aceleración progresiva hasta una velocidad de 43 km·h-1 en un trayecto de 600 m;
 –
 el tren Os 4814 continuó circulando durante otros 200 m, momento en el que la velocidad descendió a 32 km·h-1;
 –
-en los siguientes 300 m la velocidad descendió a 29 km·h-1;
+en los 300 m siguientes la velocidad descendió a 29 km·h-1;
 –
-seguidamente se produce una parada rápida en una distancia de 50 m;
+seguidamente se produce una parada rápida en un trayecto de 50 m;
 –
 el tren se detuvo a las 15:12 h;
 –
-no se superó la velocidad máxima permitida de circulación del tren de 40 km·h-1;
+no se superó la velocidad máxima autorizada de circulación del tren de 40 km·h-1;
 –
-el dispositivo de seguridad del tren estaba activado y durante todo el tiempo de circulación fue
-–
-operado periódicamente por el maquinista del tren.
+el dispositivo de seguridad del tren estaba activado y fue atendido periódicamente por el maquinista del tren durante toda la duración de la circulación.
 No se detectaron averías.
-
 
 ## Página 26
 
-           La locomotora 854.007-2 del tren Os 4813, propiedad de ČD, a. s., operada por DKV Brno, contaba con un «Certificado de aptitud del vehículo ferroviario» n.º de referencia 1231/05 – V. 22, emitido el 15. 8. 2005 por la Autoridad Ferroviaria en Praga. La última revisión técnica periódica en el sentido del decreto n.º 173/1995 Sb. se realizó el 20. 7. 2011 con el resultado de sin averías. En el momento de la ocurrencia del accidente, la locomotora estaba equipada con un dispositivo de registro automático de datos tipo Unicontrols-Tramex, n.º 5006.
-De los datos registrados se desprende:
-a las 15:04:55 h el tren Os 4813 partió de la estación de Třebíč;
+HDV 854.007-2 del tren Os 4813, propietario ČD, a. s., explotador DKV Brno, disponía 
+del «Certificado de aptitud del vehículo ferroviario» n.º de reg. 1231/05 – V. 22, emitido el 15. 8. 
+2005 por la Autoridad Ferroviaria en Praga. La última revisión técnica periódica en el sentido del decreto 
+n.º 173/1995 Sb. se realizó el 20. 7. 2011 con el resultado sin defectos. En el momento de la 
+ocurrencia del MU, el HDV estaba equipado con un dispositivo de registro automático de datos tipo Unicontrols-
+Tramex, n.º 5006.
+De los datos registrados se desprende: 
+a las 15:04:55 h el tren Os 4813 partió de la est. Třebíč;
 –
-seguidamente se produjo una aceleración suave hasta una velocidad de 66 km·h-1 en una distancia de 834 m;
+seguidamente hubo una aceleración progresiva hasta una velocidad de 66 km·h-1 en un recorrido de 834 m;
 –
-el tren Os 4813 continuó circulando durante otros 4854 m con una velocidad media de 61 km·h-1;
+el tren Os 4813 continuó la marcha durante otros 4854 m con una velocidad media de 61 km·h-1;
 –
-a las 15:11:05 h comenzó a frenar y se detuvo en una distancia de 451 m en la estación de Vladislav a las 15:11:54 h;
+a las 15:11:05 h comenzó a frenar y se detuvo en un recorrido de 451 m en la est. Vladislav a las 15:11:54 h;
 –
-a las 15:11:52 h, es decir, 2 s antes de la parada del tren, a una velocidad de 2 km·h-1 se registra
+a las 15:11:52 h, es decir 2 s antes de la detención del tren, a una velocidad de 2 km·h-1 se registra 
 –
-la señalización de puertas abiertas. La posterior desbloqueo de todas las puertas del tren
-por parte del maquinista ya no se registra, ya que las puertas abiertas sí están registradas.
+la señalización de puertas abiertas. El posterior desbloqueo de todas las puertas del tren 
+por parte del maquinista ya no queda registrado, porque las puertas abiertas ya están registradas.
 ## 3.5
 ### Documentación sobre el sistema de explotación
-### 3.5.1 Medidas adoptadas por los empleados del operador ferroviario y del transportista en lo que respecta a la conducción, señalización y seguridad del tráfico
-La circulación de los trenes Os 4813 y Os 4814 y su cruce excepcional en la estación de Vladislav estuvo garantizada por la operación normal del dispositivo de seguridad. La operación del dispositivo de seguridad la realizó el jefe de estación de la estación de Vladislav. Primero estableció las rutas de tren para la entrada del tren Os 4813 en la vía de estación (SK) n.º 1 y para la entrada del tren Os 4814 en la SK n.º 2. Tras la parada del tren Os 4813, envió la comunicación de salida a la estación de Třebíč y ofreció el tren Os 4814. El accidente se produjo en el momento en que se disponía a establecer la ruta de tren para la salida del tren Os 4814. El tren Os 4814 entraba en la estación de Vladislav con la señal «Velocidad 40 km.h-1 y aviso».
-No se detectaron averías.
+### 3.5.1 Medidas adoptadas por los empleados del explotador de la infraestructura y del transportista en lo que respecta a la conducción, la señalización y la seguridad del tráfico
+La circulación de los trenes Os 4813 y Os 4814 y su cruce excepcional en la est. Vladislav estuvo 
+garantizada por la operación normal del dispositivo de enclavamiento. La operación del dispositivo de 
+enclavamiento la realizó el jefe de estación de la est. Vladislav. Primero estableció los itinerarios de tren para la entrada del tren Os 
+4813 en la SK n.º 1 y para la entrada del tren Os 4814 en la SK n.º 2. Tras la detención del tren Os 4813 dio 
+aviso de salida a la est. Třebíč y ofreció el tren Os 4814. El MU se produjo en el momento en que fue a establecer 
+el itinerario de tren para la salida del tren Os 4814. El tren Os 4814 entraba en la est. Vladislav con la señal 
+«Velocidad 40 km.h-1 y aviso».
+No se detectaron defectos.
 ### 3.5.2 Intercambio de comunicaciones verbales en relación con el suceso excepcional, incluidos los registros del dispositivo de registro
-La comunicación mutua entre los maquinistas de los trenes Os 4813, Os 4814 y el jefe de estación de la estación de Vladislav tras la ocurrencia del accidente se realizó únicamente de forma oral.
-### 3.5.3 Medidas adoptadas para la protección y seguridad del lugar del suceso excepcional
-Dado que la DI (Inspección Ferroviaria) no investigaba las causas y circunstancias en el lugar del accidente, no es posible valorar esta circunstancia.
-
+La comunicación mutua entre los maquinistas de los trenes Os 4813, Os 4814 y el jefe de estación de la est. Vladislav 
+tras la ocurrencia del MU se realizó únicamente de forma oral.
+### 3.5.3 Medidas adoptadas para la protección y la seguridad del lugar del suceso excepcional
+Dado que la DI no investigó las causas y circunstancias en el lugar del MU, no es posible 
+valorar esta circunstancia.
 
 ## Página 27
+
 
 ## 3.6
 ### Condiciones laborales, sanitarias y de explotación
@@ -843,15 +803,15 @@ La Inspección Ferroviaria registra sucesos excepcionales similares:
 ## 4 ANÁLISIS Y CONCLUSIONES
 ## 4.1
 ### Descripción final del suceso ferroviario
-### 4.1.1 Descripción final del suceso ferroviario basada en los hechos constatados 
+### 4.1.1 Descripción final del suceso ferroviario basada en los hechos constatados
 en el punto 3
-Transcurso de la creación del SF tal y como se desprende de las explicaciones de los maquinistas de los trenes Os 4813 y Os 4814 (véase el punto 3.1.1 de este informe):
-El 29 de julio de 2011 a las 15:12 h, en la estación de Vladislav, debido a otro SF, se produjo la parada extraordinaria del tren Os 4813 y su cruce con el tren Os 4814. El primero en entrar en la estación de Vladislav en el sentido desde la estación de Třebíč fue el tren Os 4813 en la SK n.º 1. 2 segundos antes de la parada del tren, se señaló a su maquinista la desbloqueo – apertura de las puertas. El maquinista resolvió la situación desbloqueando todas las puertas del tren mediante el conmutador de control y el mando de puertas, para poder identificar las puertas que habían provocado el estado de avería y poder posteriormente eliminar la anomalía. Sin embargo, mediante este desbloqueo de las puertas se activó automáticamente el aviso del sistema de información a bordo, que en un lugar incorrecto, fuera del espacio destinado al embarque y desembarque de pasajeros, anunció «parada Vladislav», es decir, el nombre de la siguiente parada donde el tren debía detenerse para el embarque y desembarque de pasajeros. En ese momento ya estaba entrando en la estación de Vladislav, en la vía de estación n.º 2, en el sentido desde la estación de Studenec, el tren Os 4814. Cuando el tren Os 4814 se aproximaba al tren Os 4813, detenido en la vía de estación contigua n.º 1, su maquinista observó que se habían abierto repentinamente unas puertas del tren Os 4813 y de ellas comenzaron a saltar un grupo de varios niños y personas adultas al espacio de la vía de estación n.º 2, es decir, directamente delante de su tren. Inmediatamente aplicó el frenado de acción rápida y con la bocina de la locomotora daba la señal «ATENCIÓN». Inmediatamente después de la parada del tren, fue a comprobar si se habían producido lesiones en personas, y constató que una persona adulta sostenía en brazos a un niño que lloraba con una herida por cortes en la frente.
-Transcurso de la creación del SF tal y como se desprende de las explicaciones de las personas implicadas y de los testigos del tren Os 4813 (véase el punto 3.1.2 de este informe):
-Desde la estación de Třebíč viajaba en el tren Os 4813 un grupo de pasajeros, compuesto por dos personas adultas y cuatro menores de edad (en adelante, el grupo), que quería bajar en la parada «parada Vladislav». Debido a otro SF, el tren partió de la estación de Třebíč con un retraso de 23 minutos, de lo cual este grupo fue informado. Por ello, cuando el tren Os 4813 se detuvo extraordinariamente en la estación de Vladislav y del sistema de información a bordo sonó el aviso «parada Vladislav», sus miembros llegaron a la conclusión de que debían bajar allí, porque en la parada Vladislav el tren ya probablemente no se detendría. Su decisión, además, se vio reforzada por el hecho de que, al pulsar el botón verde para abrir las puertas del coche, las puertas realmente se abrieron. El grupo, por tanto, inició el desembarque del tren a pesar de que el tren no estaba junto al andén para pasajeros, es decir, en el lugar que habría estado destinado al desembarque de pasajeros. Del tren bajaron primero dos menores de edad y después la persona lesionada. En ese momento estaba entrando en la estación de Vladislav el tren Os 4814, cuyo maquinista vio a las personas en la vía y comenzó inmediatamente a frenar y a tocar la bocina. La persona lesionada, probablemente por el susto, corrió hacia el otro lado de la vía de estación n.º 2 por delante del tren que pasaba, donde cayó. Inmediatamente después de la parada del tren, su padre y una testigo le prestaron los primeros auxilios. La testigo, además, llamó por teléfono al servicio de emergencias médicas. Del examen del lugar del SF realizado por la persona designada por el explotador de la infraestructura y el transportista, RIBŽD Brno, se constató que se había producido la caída de una persona menor de edad en la vía de estación n.º 2, en el km 43,905, fuera del 
-
+Transcurso de la creación del SU tal y como se desprende de las explicaciones de los maquinistas de los trenes Os 4813 y Os 4814 (véase el punto 3.1.1 de este informe):
+El 29 de julio de 2011 a las 15:12 h, en la estación de Vladislav, debido a otro SU, se produjo una parada extraordinaria del tren Os 4813 y su cruce con el tren Os 4814. El primero en entrar en la estación de Vladislav en el sentido desde la estación de Třebíč fue el tren Os 4813 en la vía de estación n.º 1. 2 segundos antes de la parada del tren, se señaló a su maquinista la desbloqueatura – apertura de las puertas. El maquinista resolvió la situación desbloqueando todas las puertas del tren mediante el conmutador de control y el mando de puertas, para poder identificar las puertas que habían provocado el estado de avería y poder posteriormente eliminar la incidencia. Sin embargo, mediante esta desbloqueatura de las puertas se activó automáticamente el aviso del sistema de información a bordo, que en un lugar incorrecto, fuera del espacio destinado al embarque y desembarque de pasajeros, anunció «parada Vladislav», es decir, el nombre de la parada siguiente, donde el tren debía detenerse para el embarque y desembarque de pasajeros. En ese momento ya estaba entrando en la estación de Vladislav, en la vía de estación n.º 2, en el sentido desde la estación de Studenec, el tren Os 4814. Cuando el tren Os 4814 se aproximaba al tren Os 4813, detenido en la vía de estación contigua n.º 1, su maquinista observó que se habían abierto de repente unas puertas del tren Os 4813 y de ellas comenzaron a saltar un grupo de varios niños y personas adultas al espacio de la vía de estación n.º 2, es decir, directamente delante de su tren. Inmediatamente aplicó el frenado de acción rápida y con la bocina de la locomotora daba la señal «ATENCIÓN». Inmediatamente después de la parada del tren, fue a comprobar si se habían producido lesiones en personas, y comprobó que una persona adulta llevaba en brazos a un niño que lloraba con una herida por cortes en la frente.
+Transcurso de la creación del SU tal y como se desprende de las explicaciones de las personas implicadas y de los testigos del tren Os 4813 (véase el punto 3.1.2 de este informe):
+Desde la estación de Třebíč viajaba en el tren Os 4813 un grupo de pasajeros, compuesto por dos personas adultas y cuatro menores de edad (en adelante, el grupo), que quería bajar en la parada «parada Vladislav». Debido a otro SU, el tren partió de la estación de Třebíč con un retraso de 23 minutos, de lo cual este grupo fue informado. Por ello, cuando el tren Os 4813 se detuvo extraordinariamente en la estación de Vladislav y del sistema de información a bordo se escuchó el aviso «parada Vladislav», sus miembros llegaron a la conclusión de que debían bajar allí, porque en la parada Vladislav el tren ya probablemente no se detendría. Su decisión, además, se vio reforzada por el hecho de que, al pulsar el botón verde para abrir las puertas del coche, las puertas realmente se abrieron. El grupo, por tanto, inició el desembarque del tren a pesar de que el tren no estaba junto al andén para pasajeros, es decir, en el lugar que habría sido destinado al desembarque de pasajeros. Del tren bajaron primero dos menores de edad y después la persona perjudicada. En ese momento entraba en la estación de Vladislav el tren Os 4814, cuyo maquinista vio a las personas en la vía e inmediatamente comenzó a frenar y a tocar la bocina. La persona perjudicada, probablemente por el susto, corrió hacia el otro lado de la vía de estación n.º 2 por delante del tren que pasaba, donde cayó. Inmediatamente después de la parada del tren, su padre y una testigo le prestaron los primeros auxilios. La testigo, además, llamó por teléfono al servicio de emergencias médicas. Del examen del lugar del SU encomendado a la persona designada por el operador de la infraestructura ferroviaria y el transportista, RIBŽD Brno, se constató que se había producido la caída de una persona menor de edad en la vía de estación n.º 2, en el km 43,905, fuera de
 
 ## Página 29
+
 
 espacio reservado al embarque y desembarque de pasajeros. La investigación no logró confirmar ni refutar de forma inequívoca si se produjo el choque de la persona lesionada con el DV en movimiento del tren Os 4814.
 ## 4.2
@@ -869,6 +829,7 @@ De las disposiciones de la normativa legal puede deducirse que a los pasajeros d
 
 ## Página 30
 
+
 se proporcionen información veraz, es decir, que si la información facilitada no es veraz, se trata de una situación que legalmente puede calificarse como inducción a error de los pasajeros. La anunciación del sistema de información a bordo, que comunicó «parada Vladislav» en un lugar incorrecto, era por tanto engañosa y suscitó en los pasajeros la impresión de que podían/debían bajarse. Esta inducción a error de los pasajeros se vio además reforzada por el hecho de que estaban desbloqueadas y podían abrirse con la operación normal las puertas del coche, las cuales están bloqueadas cuando no se permite el embarque y desembarque de pasajeros.
 En relación con lo anterior, el transportista no garantizó el cumplimiento del sistema de garantía de la seguridad del transporte ferroviario, lo que contravino lo dispuesto en el apartado (2), letra f), del § 35 de la Ley n.º 266/1994 Sb.
 En ese momento ya entraba en la estación de Vladislav, en la vía de estación n.º 2, en dirección desde la estación de Studenec, el tren Os 4814. Cuando el tren se aproximaba al tren Os 4813, detenido en la vía de estación contigua n.º 1, el maquinista observó que se abrieron repentinamente unas puertas del tren Os 4813 y de ellas empezaron a saltar un grupo de varios niños y personas adultas al espacio de la vía de estación n.º 2, es decir, directamente delante de su tren.
@@ -882,8 +843,8 @@ El maquinista del tren Os 4814, inmediatamente después de observar a los pasaje
 ### 4.3.2 Causas fundamentales relacionadas con la cualificación, los procedimientos y el mantenimiento
            1) inducción a duda de los pasajeros mediante la activación de la anunciación automática del sistema de información a bordo, que comunicó «parada Vladislav» en un lugar que no estaba destinado al embarque y desembarque de pasajeros;
 
-
 ## Página 31
+
 
            2) confirmación de la duda de los pasajeros mediante el desbloqueo de las puertas de cierre central del tren.
 ### 4.3.3 Causas derivadas del marco normativo y del uso del sistema de garantía de la seguridad
@@ -902,6 +863,7 @@ El 1 de diciembre de 2011, el transportista emitió la «Medida del director del
 
 ## Página 32
 
+
 4. Si se produce la señalización de puertas abiertas en un tren en movimiento, el personal de acompañamiento del tren debe adoptar inmediatamente las medidas de seguridad correspondientes, detener el tren en el lugar adecuado más próximo y asegurar el nuevo cierre y el bloqueo de las puertas – véase también lo dispuesto en las normas de ČD 1/91-PMR, 2/91-PMR, 3/91-PMR, V81.
 5. En cada maniobra con el conmutador de bloqueo de puertas, es necesario tener en cuenta que, con el sistema informativo activado, puede producirse su inicialización y un eventual anuncio para los pasajeros que podría inducir a error a los pasajeros del tren (por ejemplo, al detenerse fuera de un punto tarifario). Simultáneamente se produce la iluminación de los botones de las puertas y con ello se permite la salida de los pasajeros del tren.
 6. El personal de acompañamiento del tren asegurará, en caso de incidencias, la información a los pasajeros de acuerdo con lo dispuesto en la norma de ČD KC 1 y en la medida conjunta de VDOD y O 12 «Provisión de información a los pasajeros en caso de incidencias», ref. 126/2010-VDOD.
@@ -913,8 +875,8 @@ El 22. 12. 2011 el transportista DI envió el documento «Eliminación de las de
 «El transportista ČD, a. s., no está de acuerdo con la afirmación de DI, recogida en el acta, de que solo a raíz de la investigación se constató que el equipo técnico de la unidad motorizada 854.007-2, desde cuya cabina el maquinista conducía el tren, no permite desbloquear las puertas de cierre central del tren sin que se produzca la activación automática del anuncio del sistema informativo a bordo. Este es un hecho conocido, las personas que conducen el material rodante ferroviario están demostrablemente informadas sobre el sistema de operación de las puertas de cierre central de todos los tipos de DV (manual de operación). El transportista ČD está eliminando progresivamente la citada disfunción mediante modificaciones técnicas.»
 De esta información se deduce que el transportista conocía el riesgo de seguridad derivado de la imposibilidad de desactivar el sistema informativo automático a bordo, pero no abordó dicho riesgo de inmediato, sino solo mediante modificaciones técnicas progresivas en los DV.
 
-
 ## Página 33
+
 
 ## 6 RECOMENDACIONES DE SEGURIDAD
 
@@ -937,8 +899,8 @@ Director
 Delegación Territorial de Brno
 Delegación Territorial de Brno
 
-
 ## Página 34
+
 
 ## 7 ANEXOS
 
@@ -947,8 +909,8 @@ Foto 2: Cabina del maquinista del tren Os 4813, que no está
 equipada con un elemento de control para la desactivación 
 del anuncio automático del sistema informativo a bordo
 
-
 ## Página 35
+
 
 Foto 3: Vista de las puertas por las que 
 se produjo la salida de los pasajeros 

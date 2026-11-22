@@ -10,13 +10,14 @@ chars: 218614
 ratio_longitud: 1.24
 tokens_in: 109403
 tokens_out: 74735
-verificacion: revisar
-notas_cifras: ["bloque 1: original bilingüe: se compara contra el idioma principal (EN)", "bloque 10: original bilingüe: se compara contra el idioma principal (CS)", "bloque 12: original bilingüe: se compara contra el idioma principal (CS)", "bloque 14: cifras cortas: 14/142", "bloque 15: original bilingüe: se compara contra el idioma principal (CS)", "bloque 16: original bilingüe: se compara contra el idioma principal (EN)"]
-avisos: ["bloque 10: ratio 1.74", "bloque 15: ratio 1.61"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 3: original bilingüe: se compara contra el idioma principal (CS)", "página 6: original bilingüe: se compara contra el idioma principal (CS)", "página 7: original bilingüe: se compara contra el idioma principal (CS)", "página 8: original bilingüe: se compara contra el idioma principal (EN)", "página 12: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -39,13 +40,13 @@ IČ: 75009561
 mail@di.gov.cz
 tel.: +420 736 521 003
 
-
 ## Página 2
+
 
 Este informe final es público y todos los hechos en él expuestos están respaldados por el expediente de investigación. La Inspección Ferroviaria no se ocupa, en el marco de la investigación, de la responsabilidad por delito o infracción administrativa, por lo que no puede deducirse de este informe final. La investigación se llevó a cabo de forma independiente con el objetivo de determinar las causas y circunstancias del suceso excepcional.
 
-
 ## Página 3
+
 
 ## 1 RESUMEN
 Fuente: Inspección Ferroviaria
@@ -70,8 +71,8 @@ orden dada por el jefe del tren de servicio S04 al maquinista para poner en marc
 No se ha detectado por parte de la Inspección Ferroviaria ningún factor contribuyente.
 No se ha detectado por parte de la Inspección Ferroviaria ninguna causa sistémica.
 
-
 ## Página 4
+
 
 Recomendaciones de seguridad:
 La Inspección Ferroviaria, en virtud de lo dispuesto en el § 53e apartado 1 de la Ley n.º 266/1994 Sb., recomienda, en relación con la prevención de sucesos excepcionales:
@@ -80,8 +81,8 @@ Al Magistrado de la ciudad de Praga:
 en el marco de su actividad como autoridad administrativa ferroviaria, la adopción de una medida que garantice, en el gestor de la vía y transportista Dopravní podnik hl. m. Prahy, a. s.:
 ◦la modificación del texto del reglamento interno D 2/1 de modo que se especifique la distancia que delimita la inmediata proximidad de los vehículos del tren de servicio, a partir de la cual la tripulación del tren está obligada a informar a los trabajadores que se encuentran en la inmediata proximidad de dichos vehículos de cada movimiento previsto de dicho tren.
 
-
 ## Página 5
+
 
 ## SUMMARY
 20th November 2025, 0:58 (19th November 2025, 23:58 GMT).
@@ -114,8 +115,8 @@ Addressed to the Municipality of the Capital City of Prague:
 as part of its activities as a railway administrative authority to accept a measure which ensure at infrastructure manager and railway undertaking Dopravní podnik hl. m. Prahy, a. s.:
 ◦adjustment the internal regulation D 2/1 so that will be determine a distance delimited an immediate nearness of rolling stocks of a service train when the train crew is obligated to inform workers who are situated in immediate nearness of this rolling stocks about every intended movement of this train.
 
-
 ## Página 6
+
 
 ## Índice
 1 RESUMEN........................................................................................................................3
@@ -159,6 +160,7 @@ SUMMARY.........................................................................
 
 ## Página 7
 
+
 4.2.2 Factores o consecuencias derivados de la instalación y puesta en servicio de vehículos ferroviarios, infraestructura ferroviaria o instalaciones técnicas......................................62
 4.2.3 Factores o consecuencias relacionados con los fabricantes de vehículos ferroviarios u otros proveedores de productos ferroviarios............................................................................62
 4.2.4 Factores o consecuencias derivados del mantenimiento y modificación de vehículos ferroviarios o instalaciones técnicas....................................................................................................62
@@ -188,6 +190,7 @@ SUMMARY.........................................................................
 ANEXOS..............................................................................................................................73
 
 ## Página 8
+
 
 ### Lista de siglas y símbolos utilizados
 ASDŘ-D
@@ -283,6 +286,7 @@ vía de tráfico
 
 ## Página 9
 
+
 TZ
 cuaderno de registro telefónico
 ÚI
@@ -303,6 +307,7 @@ ZZS
 servicio sanitario de emergencias
 
 ## Página 10
+
 
 ### Lista de siglas de la legislación, normas y reglamentos internos utilizados
 ley núm. 262/2006 Sb.
@@ -334,6 +339,7 @@ reglamento interno del gestor de infraestructura y transportista DPP, "REGLAMENT
 
 ## Página 11
 
+
 reglamento interno V 5/1
 reglamento interno del gestor de infraestructura y transportista DPP, "REGLAMENTO OPERATIVO V 5/1 Reglamento sobre vehículos para trenes de servicio", en la redacción vigente en el momento de la ocurrencia del SE
 reglamento interno V 6/1
@@ -350,6 +356,7 @@ reglamento interno BOZP
 reglamento interno del gestor de infraestructura y transportista DPP, "Seguridad y salud en el trabajo en DP", SM 2012-032-04, en la redacción vigente en el momento de la ocurrencia del SE
 
 ## Página 12
+
 
 ## 2 INVESTIGACIÓN Y SUS CONTEXTOS
 ### 2.1 Decisión de iniciar la investigación
@@ -382,6 +389,7 @@ análisis de las grabaciones del sistema de cámaras en la estación Muzeum A;
 análisis de las grabaciones de las conversaciones de los empleados registradas tras la ocurrencia del SE;
 
 ## Página 13
+
 
 •
 análisis de los datos registrados por el registrador de velocidad del vehículo ferroviario de tracción implicado;
@@ -419,8 +427,8 @@ vía ferroviaria, categoría especial, estación de metro Muzeum, línea A,
 Coordenadas GPS:
 50.0797500N, 14.4304000E.
 
-
 ## Página 14
+
 
 ### 3.1.3 Descripción del lugar del suceso
 La estación de metro Muzeum A forma parte de la vía ferroviaria, categoría especial, de la línea de metro A Nemocnice Motol – Depo Hostivař. La línea A es de doble vía, la estación Muzeum A no tiene bifurcación de vías, el siniestro se produjo en la 2.ª vía (véase Fig. n.º 1).
@@ -431,40 +439,39 @@ Del examen del lugar del siniestro se constató:
 Debido a las obras de construcción que se iban a realizar en la 2.ª vía de la estación Muzeum A, antes de su inicio llegó a esta vía el tren de servicio S04 que transportaba material de construcción y herramientas. El tren de servicio S04 estaba compuesto por una locomotora de maniobras (MUV 73.002) y 3 vagones plataforma de remolque cargados de material. La realización de las obras de construcción fue encomendada a trabajadores externos bajo la supervisión del jefe de obra, empleado de DPP. El maquinista y el jefe del tren de servicio eran empleados de DPP.
 Tras la descarga del material y las herramientas de los vagones plataforma por parte de los trabajadores externos en el andén, según instrucción del jefe del tren de servicio, el maquinista del tren realizó un pequeño avance de la composición. A continuación se produjo el atrapamiento de la extremidad inferior de un trabajador externo por el tensor de cadena desplegado en la parte trasera del 2.º vagón y su caída a la vía entre el 2.º y el 3.er vagón. A pesar de la parada inmediata, se produjo la colisión del 3.er vagón del tren de servicio con el trabajador externo (atropello de su extremidad superior) y su grave lesión. Tras la parada de la composición, el trabajador herido seguía situado bajo el último vagón. En el marco de las labores de rescate se produjo un movimiento adicional de la composición (es decir, la continuación en la dirección de marcha original) hacia la estación Můstek A de varios metros, con el fin de extraer al trabajador herido de la vía. El trabajador estaba consciente, fue recogido por otros trabajadores en la superficie del andén y posteriormente fue transportado a un centro sanitario.
 
-
 ## Página 15
 
 Estado de la infraestructura:
 •
-la 2.ª vía discurría en el ámbito de la estación Muzeum A en línea recta, en la dirección correcta de la 2.ª vía, es decir, hacia la estación Můstek A, con una pendiente de hasta 3 ‰;
+La 2.ª vía en el ámbito de la estación Muzeum A discurría en dirección recta, en la dirección correcta de la 2.ª vía, es decir, hacia la estación Můstek A, con una pendiente del 3 ‰;
 •
-según la grabación de cámara, antes incluso de producirse el siniestro se había colocado geotextil en el andén de la 2.ª vía a lo largo de la composición del tren S04 y sobre él se había descargado la carga (material de construcción, herramientas y útiles para el mantenimiento de la superestructura de la vía) destinada a las obras de reparación;
+según la grabación de vídeo, antes de la aparición del MU se había colocado geotextil en el andén de la 2.ª vía a lo largo del tren S04 y sobre él se había depositado la carga (material de construcción, herramientas y útiles para el mantenimiento de la superestructura) destinada a los trabajos de reparación;
 •
-tanto la superestructura de la vía como el equipamiento de la vía se encontraban en el punto de la 2.ª vía en estado de rehabilitación debido a la continuación del cambio de traviesas, sin daños visibles;
+tanto la superestructura como el equipamiento de la vía se encontraban en el punto de la 2.ª vía en estado de rehabilitación debido a la sustitución continuada de traviesas, sin daños visibles;
 •
-el estado de la superestructura de la vía no guardaba relación causal con la producción del siniestro.
+el estado de la superestructura no guardaba relación causal con la aparición del MU.
 Datos relativos a la explotación de la vía:
 •
-en el puesto de trabajo del VD del centro de mando del metro:
-◦en los monitores del puesto de trabajo del VD de la línea A, además de las grabaciones de cámara de la estación Muzeum A, se examinaron también las salidas del sistema IČV (relieve de la vía con la indicación de los circuitos de vía ocupados por vehículos, incluida su identificación, parte del sistema de despacho ASDŘ-D), donde se representaba, entre otros, la posición del tren con la designación «Z4», con la evaluación de la ocupación del circuito de vía n.º 1208, 2.ª vía de la estación Muzeum A (es decir, el circuito de vía del tramo del andén de la 2.ª vía ocupado por el tren de servicio S04);
-◦según las grabaciones examinadas, el tren de servicio S04 llegó a la estación Muzeum A desde el depósito Hostivař a través de la estación contigua Náměstí Míru por la 2.ª vía de trazado y se detuvo en la 2.ª vía de estación;
-◦en el monitor del puesto de trabajo del VD de la línea A se mostraba una ventana de diálogo con información sobre las interrupciones de transporte. La circulación del tren S04 (servicio n.º 831110) (nota de la DI: servicio de la unidad dependiente del ámbito 800000, es decir, ÚT-M) debía realizarse según la ROV 2020-002-03 con el fin del cambio de traviesas hasta las estaciones Muzeum A y Můstek A, con la exclusión de la 2.ª vía en el tramo entre las estaciones Náměstí Míru y Staroměstská;
-◦además, se documentó la Orden de circulación tipo A para el tren de servicio n.º S04, donde se indicaba, entre otros (impreso según la norma interna Ds 2/1):
-Desde el punto de origen: «T» (Tracción).
+en el puesto de trabajo VD del centro de despacho del metro:
+◦en los monitores del puesto de trabajo VD de la línea A, además de las grabaciones de vídeo de la estación Muzeum A, se examinaron también las salidas del sistema IČV (relieve de la vía con la indicación de los circuitos de vía ocupados por vehículos, incluida su denominación, parte del sistema de despacho ASDŘ-D), donde se representaba, entre otros, la posición del tren con la denominación «Z4», con la evaluación de la ocupación del circuito de vía n.º 1208, 2.ª vía de la estación Muzeum A (es decir, el circuito de vía del tramo del andén de la 2.ª vía ocupado por el tren de servicio S04);
+◦según las grabaciones examinadas, el tren de servicio S04 llegó a la estación Muzeum A desde la base de Hostivař a través de la estación adyacente Náměstí Míru por la 2.ª vía de tráfico y se detuvo en la 2.ª SK;
+◦en el monitor del puesto de trabajo VD de la línea A se mostraba una ventana de diálogo con información sobre las interrupciones de transporte. La circulación del tren S04 (servicio n.º 831110) (nota DI: servicio de la unidad dependiente del ámbito 800000, es decir, ÚT-M) debía realizarse conforme a la ROV 2020-002-03 con el fin de sustituir traviesas hasta las estaciones Muzeum A y Můstek A, con la exclusión de la 2.ª vía en el tramo entre las estaciones Náměstí Míru y Staroměstská;
+◦además, se documentó la Orden de Circulación tipo A para el mencionado tren de servicio n.º S04, donde se indicaba, entre otros (impreso conforme a la norma interna Ds 2/1):
+Del punto de partida: «T» (Tira).
 ### «1. Composición del tren: M4 + 90 + 11 + 16.
 ### 2. Circula de DH a NM, desde donde partirá hacia su puesto de trabajo.
-### 3. En la estación (depósito) MUA aguarde la desconexión del suministro de la vía de alimentación y su puesta a tierra. ¡Hasta el inicio de la interrupción de transporte considere la vía de alimentación de toda la red de metro bajo tensión! (nota de la DI: en la estación Muzeum A)
-4. En la interrupción de transporte se activará el suministro de la vía de alimentación en los
-### siguientes tramos: – (nota de la DI: sin cumplimentar).
-### 5. Su puesto de trabajo (puestos): MUA 2, MUA-MSA 2, Posición pk: 20,287 –
-### 20,440. (nota de la DI: 2.ª vía de la estación Muzeum A, 2.ª vía del tramo entre estaciones Muzeum A – Můstek A)
-### 6. Vías excluidas: – (nota de la DI: sin cumplimentar).
+### 3. En la estación (base) MUA esperará a que se corte la alimentación de la vía de alimentación y se ponga a tierra. ¡Hasta el inicio de la interrupción de transporte, considere la vía de alimentación de toda la red del metro bajo tensión! (nota DI: en la estación Muzeum A)
+4. En la interrupción de transporte se activará la alimentación de la vía de alimentación en los siguientes
+### tramos: – (nota DI: sin cumplimentar).
+### 5. Su puesto de trabajo (puestos): MUA 2, MUA-MSA 2, Km posición: 20,287 –
+### 20,440. (nota DI: 2.ª vía de la estación Muzeum A, 2.ª vía del tramo entre estaciones Muzeum A – Můstek A)
+### 6. Vías excluidas: – (nota DI: sin cumplimentar).
 ### 7. Regreso a NM a más tardar a las 3 horas 20 minutos.
-### Desde NM partirá hacia DH, donde finalizará la circulación.
-### 8. Otras comunicaciones: – (nota de la DI: sin cumplimentar).»
-
+### De NM partirá hacia DH, donde finalizará la circulación.
+### 8. Otras comunicaciones: – (nota DI: sin cumplimentar).»
 
 ## Página 16
+
 
 ◦además, se documentó el «Libro de desconexión y conexión del suministro de la VA», n.º 1/2024, desde: 12. 10. 2024. La última anotación en el impreso «Desconexión del suministro de la VA» se realizó con fecha 20. 11., con la anotación en la columna Desconecte el suministro de la VA de todas las UE de la línea A «0:29», Autorización para la desconexión del suministro de la VA en la cabecera DH «0:22», Suministro de la VA de todas las UE de la línea A desconectado «0:31», Suministro de la VA de todas las UE de la cabecera DH desconectado «0:42», Active los cortacircuitos de la VA de todas las UE de la línea A suministro de la VA de todas las UE desconectado «0:32», Los cortacircuitos de la VA de todas las UE 1.ª y 2.ª vía están activados «0:44», Suministro de la VA de todas las UE de las líneas A, B, C y DH desconectado. VA puesta a tierra en los puntos de alimentación, acceso a las vías permitido «0:45»;
 ◦se examinó la grabación de cámara con el desarrollo del suceso del accidente, cuando a la hora 0:58 h, con la composición del tren S04 en movimiento a lo largo del andén de la 2.ª vía en la dirección correcta (dirección de la estación Nemocnice Motol), se produjo el atrapamiento de la extremidad inferior del empleado con su posterior caída entre el 2.º y el 3.er vagón y el salto del 3.er vagón debido al atropello del empleado;
@@ -484,8 +491,8 @@ en el puesto de trabajo de la DS de la estación Muzeum A:
 en el puesto de trabajo de la SPT de la estación Náměstí Míru:
 ◦al examinar el puesto de trabajo de la SPT de la estación Náměstí Míru se documentó, entre otros, el «CUADERNO TELEFÓNICO» con las siguientes descripciones: «NÚMERO DE ORDEN: 2/2025», «Estación: NM», «Iniciado: 12. 11. 25». Además, se documentó el «DIARIO DE TRÁFICO para la circulación de trenes de servicio en la Línea del Metro» que contiene el «Diario de tráfico n.º 2/2025» con las descripciones «Iniciado el día: 30. 8. 2025». A la vez se documentó
 
-
 ## Página 17
+
 
 la «Orden de circulación para tren de servicio tipo B «NM»», con la descripción «Iniciado el día 14. 11. 2025»;
 ◦en el Cuaderno Telefónico, en las filas bajo la fecha anotada en rojo «20. 11. 2025», figuraba la anotación realizada por el VD «NPK en todas las UE de las líneas A, B, C y DH desconectada, VA puesta a tierra en MNB. Acceso al espacio de las vías permitido», con el apellido del VD jefe de turno añadido a mano con letra de palo;
@@ -512,14 +519,14 @@ el elemento de sujeción, el tensor trasero del 2.º vagón plataforma (PVd 11),
 
 ## Página 18
 
-Fig. n.º 2: Cadena sin asegurar y tensor suelto del lateral del coche 2 (PVd 11) en el lugar de origen del MU
+Fig. n.º 2: Cadena sin asegurar y tensor suelto del lateral del 2.º coche (PVd 11) en el lugar de origen del MU 
          Fuente: DI
-Fig. n.º 3: Cierre de la cadena – tensor, en el lateral del coche 2 PVd 11, en posición abierta
+Fig. n.º 3: Cierre de la cadena – tensor, en el lateral del 2.º coche PVd 11, en posición abierta 
 en el lugar de origen del MU    
         Fuente: DI
 
-
 ## Página 19
+
 
 Cabina de la SHV:
 •
@@ -548,10 +555,10 @@ Lesión en un trabajador externo que realizaba trabajos de construcción en el l
 No se produjeron daños en el material rodante, en las partes de la vía ni en el medio ambiente. No se produjeron daños en los objetos transportados, equipajes ni en otros bienes.
 ### 3.1.5 Descripción de otras consecuencias, incluido el impacto del suceso en las actividades regulares de los sujetos implicados
 Como consecuencia del origen del MU no se produjo ninguna alteración del tráfico del metro en la línea A. El MU se originó durante la vigencia del corte nocturno de transporte, que comenzó a las 0:45 h del día 20. 11. 2025. 
-Los trabajos de eliminación finalizaron durante el corte nocturno de transporte en curso, es decir, antes de la hora de inicio del tráfico según el GVD a las 4:08 h del mismo día. El GVD del día 20. 11. 2025 no se vio alterado por el origen del MU. 
-
+Los trabajos de eliminación finalizaron durante el corte nocturno de transporte en curso, es decir, antes de la hora de inicio del tráfico según el GVD a las 4:08 h del mismo día. El GVD del día 20. 11. 2025 no se vio alterado por el origen del MU.
 
 ## Página 20
+
 
 ### 3.1.6 Identificación de las personas, sus funciones y de los sujetos implicados
 Personas implicadas por:
@@ -575,10 +582,10 @@ Supervisor de la estación Muzeum A, empleado de DPP.
 Sujetos implicados:
 El propietario y operador de la vía ferroviaria, categoría especial, y simultáneamente también transportista del tren de servicio S04 era DPP, con domicilio en Sokolovská 42/217, Vysočany, Praha 9, CP 190 00. 
 El ejecutor de los trabajos de construcción era la Agrupación de Sociedades denominada «Sustitución de traviesas PRSS – Elmoz Czech», a la fecha de firma del contrato con domicilio en U starého stadionu n.º reg. 2094/11, 153 00 Praha 5, posteriormente con domicilio en Mladých Běchovic 612, Běchovice, 19011 Praha 9, cuyo socio principal era Pražské silniční stavby s.r.o., y el segundo de los socios era la sociedad Elmoz Czech, s. r. o., con domicilio en Černoleská 2326, 256 01 Benešov. El comitente, que era Dopravní podnik hl. m. Prahy, a. s., celebró con el ejecutor un marco de acuerdo, cuyo objeto era la determinación de las condiciones para la realización de los trabajos de construcción que serían ejecutados por el ejecutor de forma continua según las necesidades del comitente sobre la base de contratos individuales parciales, incluida la sustitución de traviesas y otros trabajos relacionados en la superestructura e infraestructura del carril. 
-El subcontratista (respecto, ejecutor) de los trabajos de construcción para el socio principal (comitente) – sociedad Pražské silniční stavby s.r.o. era la sociedad Genio s.r.o. con domicilio en Atriová 1077, 271 01 Nové Strašecí sobre la base de un marco de acuerdo. El objeto del marco de acuerdo eran los trabajos de construcción, sustitución de traviesas de madera por traviesas de hormigón armado en las líneas de metro A y C, que debían ser ejecutados por el ejecutor de forma continua según las necesidades del comitente sobre la base de las invitaciones enviadas. 
-
+El subcontratista (respecto, ejecutor) de los trabajos de construcción para el socio principal (comitente) – sociedad Pražské silniční stavby s.r.o. era la sociedad Genio s.r.o. con domicilio en Atriová 1077, 271 01 Nové Strašecí sobre la base de un marco de acuerdo. El objeto del marco de acuerdo eran los trabajos de construcción, sustitución de traviesas de madera por traviesas de hormigón armado en las líneas de metro A y C, que debían ser ejecutados por el ejecutor de forma continua según las necesidades del comitente sobre la base de las invitaciones enviadas.
 
 ## Página 21
+
 
 ### 3.1.7 Descripción del material rodante y de sus composiciones, incluidos los números de registro
 Tren:
@@ -631,10 +638,10 @@ Peso bruto de todo el tren 24,6 t;
 La prueba completa de freno se realizó a las 23:47 h del día 19. 11. 2025, con el resultado: El freno es conforme.
 La SHV MUV 73.002 M4 estaba equipada en el momento del origen del MU con un dispositivo de registro automático de datos (fabricante C.T.M.), n.º 7300204. 
 De los datos registrados (tras la corrección de la hora) del velocímetro registrador de la MUV se desprende, entre otros datos:
-En la SHV se mantuvo seleccionado durante todo el tiempo de circulación el sentido marcha atrás (se controlaba desde el II. puesto de conducción, desde el que existía la mejor visibilidad para el sentido de circulación dado), el motor de combustión estaba en marcha (excepto el tiempo entre la primera parada y la primera salida en la estación Muzeum A), para el frenado de la composición del tren se utilizaba el freno automático continuo, incluido el frenado con motivo del origen del MU. 
-
+En la SHV se mantuvo seleccionado durante todo el tiempo de circulación el sentido marcha atrás (se controlaba desde el II. puesto de conducción, desde el que existía la mejor visibilidad para el sentido de circulación dado), el motor de combustión estaba en marcha (excepto el tiempo entre la primera parada y la primera salida en la estación Muzeum A), para el frenado de la composición del tren se utilizaba el freno automático continuo, incluido el frenado con motivo del origen del MU.
 
 ## Página 22
+
 
 ### Hora 
 ### Distancia 
@@ -707,10 +714,10 @@ alcanzando la velocidad de 7,6 km.h-1;
 parada final de la MUV del tren de servicio S04. 
 772 m 
 El maquinista de la MUV utilizó repetidamente el silbato de locomotora en lugar de la bocina de locomotora al dar la señal 53 «Atención». Al circular por la vía 2 excluida entre las estaciones Náměstí Míru y Muzeum A, es decir, ya más allá del límite del ámbito de la estación Náměstí Míru, se alcanzó una velocidad de hasta 28 km.h-1 y, por tanto, se superó la velocidad de 20 km.h-1 que estaba establecida para la circulación según visibilidad, en el sentido de la norma interna D 1/1 (véase más adelante el punto 4.1.1 de esta ZZ). 
-El mismo día, tras la retirada de la composición del tren de S04, se realizó en la base de Hostivař, con la participación de representantes del DPP y del inspector de la DI, una inspección comisionada, durante la cual se examinaron todos los 
-
+El mismo día, tras la retirada de la composición del tren de S04, se realizó en la base de Hostivař, con la participación de representantes del DPP y del inspector de la DI, una inspección comisionada, durante la cual se examinaron todos los
 
 ## Página 23
+
 
 RV incorporados a la composición del tren de servicio S04, incluida la realización de la prueba comisionada completa de freno del tren de servicio S04 con el resultado – «conforme». La inspección de los RV no detectó ningún defecto con influencia en el origen del MU en cuestión ni daños en los RV. 
 La SHV MUV 73.002 M4 contaba con un certificado de aptitud del material rodante válido con designación para vía especial, nacional, regional y ramal, emitido por el DÚ el día 25. 11. 2003. La última modificación en el RV fue aprobada con motivo de la instalación del velocímetro tipo TM 20 a la fecha del 22. 9. 2014. La última inspección técnica de la SHV fue realizada por el DPP el día 28. 3. 2025 con el resultado de que «El material rodante cumple las condiciones de explotación en las vías». 
@@ -731,6 +738,7 @@ Jefe del tren de servicio S04
 
 ## Página 24
 
+
 ◦después fue a ver qué había pasado, donde vio que bajo el vagón había un trabajador;
 ◦era necesario mover un poco el tren, así que el maquinista avanzó un poco. Después los demás trabajadores extrajeron al herido hasta el andén y le prestaron primeros auxilios;
 ◦no sabía si el perfil del tren sobresalía algún material o parte del mismo;
@@ -750,8 +758,8 @@ jefe del tren de servicio S04
 ◦tras la detención del tren en el puesto de trabajo MU/A 2.SK. (nota DI: 2.ª vía de la estación Muzeum A) se procedía a la descarga de material de los vagones de carga del tren según la práctica establecida, que se utiliza a largo plazo en estos puestos de trabajo;
 ◦en primer lugar, le gustaría mencionar que realizó la inspección del convoy visualmente. La normativa no establece en ningún lugar la obligación para el Jefe del Tren de Servicio (VSV) de, antes de cada movimiento del tren, una inspección completa de todas las piezas separables e inseparables y de la carga mediante un recorrido a pie de todo el convoy antes de cada movimiento durante el reparto de material en el puesto de trabajo (este procedimiento de inspección de todo el convoy, de los vagones de carga y de la carga se realiza antes de la salida del convoy al puesto de trabajo, durante la carga y el aseguramiento de la carga en el puesto de trabajo y en la salida del tren de servicio de vuelta al depósito – «¡esto siempre lo inspecciono según la práctica establecida!»), por lo que antes de emitir la señal «Alejar» realizó la inspección visual habitual de la situación en los alrededores del tren (nota DI: según la grabación de la cámara del VSV, permaneció en la cabina de la MUV junto al maquinista, desde donde no podía ver posibles obstáculos, incluido el tensor de cadena suelto del 2.º vagón);
 
-
 ## Página 25
+
 
 ◦en el momento de emitir la señal no detectó que ningún trabajador se encontrara en un espacio peligroso cerca del tren, ni nada que impidiera la marcha del tren, al igual que el supervisor de la empresa de transporte y el jefe de obras, que aparentemente tampoco se percataron de nada;
 ◦todos los trabajadores fueron informados del movimiento planificado del tren por el jefe de obras, lo cual es un procedimiento estándar que siempre acuerdan con el VSV en este tipo de trabajos de reparto;
@@ -770,8 +778,8 @@ maquinista del tren de servicio S04
 ◦en los vagones de la locomotora indicada, los trabajadores de las empresas tenían cargado el material necesario para su trabajo;
 ◦estaba en la locomotora junto con el VSV, que allí estaba como jefe de tren;
 
-
 ## Página 26
+
 
 ◦si era necesario desplazar el tren, el jefe de obra le daba la señal con una luz blanca moviéndola de arriba abajo. Con base en esta señal, el VSV le daba la instrucción de marcha;
 ◦así que salió con la locomotora hacia delante, donde estaba el mecánico de explotación 1, que debía darle la instrucción de dónde debía detenerse;
@@ -794,8 +802,8 @@ maquinista del tren de servicio S04
 ◦a continuación reciben del jefe de maniobras del depósito la orden de marcha. Después salen a la ruta y llegan a los puestos de trabajo;
 ◦en el puesto de trabajo acuerdan con el jefe de obras lo que quieren de ellos. A continuación actúan según sus instrucciones;
 
-
 ## Página 27
+
 
 ◦circulan a distintos puestos de trabajo según el horario de trabajo. El día anterior al suceso en cuestión no trabajó definitivamente en el puesto de trabajo de la estación Muzeum, pero estuvo allí varias veces, y la última vez una semana antes del suceso en cuestión;
 ◦normalmente circula con distintos jefes de tren (nota DI: VSV) y según el horario de turnos, con el VSV en cuestión trabajaba ocasionalmente, pero era unas 4–5 veces al mes;
@@ -811,19 +819,19 @@ maquinista del tren de servicio S04
 
 ## Página 28
 
-◦el maquinista se ocupaba de la MUV, cuando observaba las presiones (nota DI: presiones de los manómetros de la MUV) y observaba el lugar donde posteriormente recibiría la señal de aproximación. Debía tratarse de una señal luminosa "Aproximar", que se da agitando horizontalmente una luz blanca de un lado a otro. Estaba girado en dirección hacia delante. No tiene retrovisores en la MUV. El jefe de tren estaba con el maquinista probablemente todo el tiempo en la cabina y observaba al jefe de obras, que estaba en algún punto a la altura de los vagones;
-◦oyó un silbido con la boca y sabía que iba a ocurrir algo. El jefe de obras, antes de emitir alguna instrucción importante, silba con la boca. Y después da alguna señal o instrucción;
-◦el maquinista miraba hacia delante, cuando vio al jefe de trabajos de DPP (nota DI: ### operario de mantenimiento 1), dando la señal "Aproximar", agitando una luz blanca de un lado a otro. Esto fue aproximadamente 10 minutos después de la parada del tren en la estación. Inmediatamente después recibió el permiso de salida del jefe de tren, este le dijo que el jefe de obras "ya nos deja salir, tenemos salida y delante ya nos está dando la señal Aproximar";
-◦después dio un grito, probablemente con el botón de la bocina, y enseguida arrancó. Cuando pulsa el botón de la bocina en el salpicadero, suena el sonido de la bocina, que se trata de la señal "Atención", que se da antes de cada arranque del tren, tras una parada excepcional del tren;
-◦respecto a dicho arranque, indicó que, después de pulsar el botón de la bocina, aplica inmediatamente potencia con la palanca, pero tarda un mínimo de 3–5 segundos en ponerse el tren en movimiento;
-◦tras recorrer unos 10 m a velocidad de arranque (hasta 10 km·h-1) vio periféricamente que en el andén, fuera, estaba ocurriendo algo, y al mismo tiempo oyó a los trabajadores de la empresa GENIO gritar "Alto". Ese día había allí unos 10 trabajadores. Detuvo el tren inmediatamente. Ni siquiera sabe si el VSV le dio alguna instrucción. Reaccionó de inmediato;
-◦el maquinista bajó de la MUV (nota DI: según la grabación de las cámaras del VSV, bajó fuera de la cabina de la MUV y el maquinista permaneció en la cabina de la MUV), cuando el jefe de obras le comunicó que alguien había caído a la vía, y le indicaría hasta dónde avanzar para poder extraerlo;
-◦a continuación el jefe de obras dio al VSV la señal de arranque del tren "Salida" (nota DI: según la grabación de la cámara, el jefe de obras no dio la señal 67 "Salida" según el reglamento interno D 1/1, ver además el punto 4.1.7), cuando el VSV a continuación le dio la instrucción de arranque del tren "Salida", y tras recorrer unos 5 m el jefe de obras dio al VSV la señal "Alto", cuando el VSV le dio la instrucción "Alto" y él detuvo el tren. Después el tren ya no se movió;
-◦después le preguntó al jefe de obras si era necesario llamar a los servicios de emergencia, este le indicó que desde luego, y luego solicitó su llegada por teléfono a través del capataz de turno de DP. Al trabajador se le extrajo posteriormente. Lo colocaron en el andén. No lo vio bien, porque había mucha gente. Se enteró de quién se trataba hasta el día siguiente;
-◦tras unos dos minutos se presentó en el lugar una patrulla de la PČR y poco después se presentó en el lugar la ZZS, que se llevó al trabajador herido de la empresa GENIO. Posteriormente se sometió, ante la policía, los trabajadores de DPP y después también ante la Inspección Ferroviaria, a una prueba de alcoholemia con resultado negativo, y además prestó a estos la debida colaboración (nota DI: solo se sometió a la prueba de alcoholemia ante la PČR
-
+◦el maquinista se ocupaba de la MUV, cuando observaba las presiones (nota DI: presiones de los manómetros de la MUV) y observaba el lugar donde posteriormente recibiría la señal de aproximación. Debería tratarse de la señal luminosa "Aproximarse", que se da con un movimiento horizontal de la luz blanca de un lado a otro. Estaba girado hacia adelante. No tiene espejos retrovisores en la MUV. El jefe de tren estaba con el maquinista probablemente todo el tiempo en la cabina y observaba al jefe de obras, que estaba en algún lugar a la altura de los vagones;
+◦escuchó un silbido con la boca y sabía que iba a ocurrir algo. El jefe de obras, antes de emitir alguna instrucción importante, silba con la boca. Y después da alguna señal o instrucción;
+◦el maquinista miraba hacia adelante, cuando vio al encargado de trabajos de DPP (nota DI: ### operario de mantenimiento 1), dando la señal "Aproximarse", con un movimiento de la luz blanca de un lado a otro. Esto fue aproximadamente 10 minutos después de la parada del tren en la estación. Inmediatamente después recibió el permiso de salida del jefe de tren, este le dijo que el jefe de obras "ya nos deja pasar, tenemos salida y delante ya nos da la señal Aproximarse";
+◦después tosió, probablemente con el botón del silbato, y de inmediato se puso en marcha. Cuando presiona el botón del silbato en el panel, suena el sonido del silbato, que se trata de la señal "Atención", que se da antes de cada salida del tren, tras una parada excepcional del tren;
+◦respecto a esa salida, indicó que después de presionar el botón del silbato, inmediatamente aplica potencia con la palanca, pero tarda al menos 3–5 segundos en que el tren se ponga en movimiento;
+◦tras recorrer unos 10 m a velocidad de arranque (hasta 10 km.h-1) vio periféricamente que en el andén exterior estaba ocurriendo algo, y al mismo tiempo escuchó a los trabajadores de la empresa GENIO gritar "Alto". Ese día había allí unos 10 trabajadores. Detuvo el tren de inmediato. Ni siquiera sabe si el VSV le dio alguna instrucción. Reaccionó de inmediato;
+◦el maquinista salió de la MUV (nota DI: según la grabación de cámaras del VSV salió al exterior de la cabina de la MUV y el maquinista permaneció en la cabina de la MUV), cuando el jefe de obras le comunicó que alguien había caído a la vía, y le indicó cuánto avanzar para poder rescatarlo;
+◦después el jefe de obras dio al VSV la señal de salida del tren "Salida" (nota DI: según la grabación de cámaras el jefe de obras no dio la señal 67 "Salida" según el reglamento interno D 1/1, ver además el punto 4.1.7), cuando el VSV posteriormente le dio la instrucción de salida del tren "Salida", y tras recorrer unos 5 m el jefe de obras dio al VSV la señal "Alto", cuando el VSV le dio la instrucción "Alto" y él detuvo el tren. Después el tren ya no se movió;
+◦después preguntó al jefe de obras si era necesario llamar a los servicios de emergencia, este le comunicó que definitivamente sí, y luego solicitó su llegada por teléfono a través del capataz de turno de DP. Posteriormente el trabajador fue rescatado. Lo colocaron en el andén. No lo vio bien, porque había mucha gente. Quién era lo supo al día siguiente;
+◦tras unos dos minutos llegó al lugar una patrulla de PČR y poco después llegó al lugar la ZZS, que se llevó al trabajador herido de la empresa GENIO. Después se sometió, ante la policía, los trabajadores de DPP y posteriormente también ante la Inspección Ferroviaria, a una prueba de alcoholemia con resultado negativo, y además prestó a estos la necesaria colaboración (nota DI: solo se sometió a la prueba de alcoholemia ante la PČR
 
 ## Página 29
+
 
 y DPP, la DI no realizó pruebas de presencia de alcohol, solo estuvo presente en el lugar del accidente de trabajo);
 ◦el compañero del VSV gestionó todo lo necesario respecto a la mencionada excepción con el despachante de trenes de DP;
@@ -833,8 +841,8 @@ y DPP, la DI no realizó pruebas de presencia de alcohol, solo estuvo presente e
 ◦a la pregunta de que se pronunciara sobre el hecho de que, según el § 82 apartado 1 letra g) del reglamento de explotación D 2/1 de DPP para la vía especial (metro), (Obligaciones de la tripulación de tren durante la circulación del tren de servicio y tras su finalización), el jefe de tren de servicio tiene durante la circulación de este tren principalmente las siguientes obligaciones: Comprobar, y esto antes de cada movimiento del tren de servicio, que su carga, herramientas, piezas desmontables de los vehículos, elementos de enganche, etc., no pueden poner en peligro la seguridad de las personas, la seguridad del tráfico ferroviario ni dañar otras instalaciones, el maquinista respondió que cree que el VSV lo hizo en el momento en cuestión, pero no lo hizo suficientemente;
 ◦a la pregunta de que se pronunciara sobre el hecho de si era obligación del VSV, antes del arranque del tren y antes de la mencionada lesión del trabajador de la empresa GENIO, bajar de la cabina de la MUV e inspeccionar el tren, así como avisar a los trabajadores situados en las proximidades del tren para que abandonaran dicho espacio, porque tenía la intención de dar la instrucción de arranque del tren "Salida", el maquinista se negó a pronunciarse;
 
-
 ## Página 30
+
 
 •
 maquinista del tren de servicio S04
@@ -856,8 +864,8 @@ persona herida, empleado de la empresa GENIO
 ◦creyó que había perdido el brazo, cuando gritaba: "No tengo brazo". Si el tren en cuestión le había pasado por encima al brazo, no lo sabía en absoluto. Estaba en shock. Tras un breve momento se dio cuenta de que tenía el brazo herido apoyado en el abdomen;
 ◦realmente no sabía en absoluto qué le ocurría desde que le barrieron la pierna hasta el momento en que despertó tendido bajo el vagón;
 
-
 ## Página 31
+
 
 ◦tras varias decenas de segundos, con el tren parado encima de él, llamaba a su señor jefe (jefe de obras) para que el tren avanzara un poco en el sentido de la marcha, para que los obreros pudieran llegar a él y ayudarle al andén;
 ◦el tren arrancó tras un momento, avanzó un poco y se detuvo, cuando unos obreros, unas 5–7 personas, lo sacaron y después lo colocaron en el andén. Un compañero (de la empresa GENIO) le apoyó la cabeza con una chaqueta y después esperaron a la ZZS;
@@ -878,6 +886,7 @@ persona herida, empleado de la empresa GENIO
 
 ## Página 32
 
+
 ◦dijo que no sabía exactamente por dónde cayó entre los vagones, ya que tampoco recordaba de qué dirección de la vía se trataba;
 ◦en el vagón, la carga se fijaba habitualmente con una cadena o las paredes laterales se reforzaban con una cadena. Esta cadena que estabiliza la carga está sujeta en un tensor, el cual tiene su propio cierre, que impide que el tensor se levante durante su uso, lo que provocaría el aflojamiento de la cadena. Durante la circulación del tren no debe sobresalir nada, por lo que no suponía que nada pudiera sobresalir del tren;
 ◦a la pregunta de si el VSV tenía la visibilidad adecuada en el momento de la puesta en marcha del tren antes del accidente en cuestión, respondió que no lo sabía. No puede valorarlo;
@@ -897,8 +906,8 @@ DI:
 ◦antes de la ocurrencia del MU fueron al andén. Llegó el tren y retiraron las herramientas. Las herramientas se colocaron sobre geotextil para no dañar el pavimento. Luego hubo algún acuerdo de que, en cuanto su empresa GENIO apilara sus cosas, el tren lo recogería DPP. Posteriormente el tren se puso en marcha y en ese momento le atropelló la pierna;
 ◦a la pregunta de hacia dónde debía continuar el tren de servicio S04 tras la llegada del tren de servicio S04 a la estación Muzeum A y qué ocurría en el andén, indicó que su empresa GENIO retiró el material y las herramientas. Luego, como indicó en la pregunta anterior, fue arrastrado bajo los vagones. Hacia dónde debía continuar el tren, no lo sabía;
 
-
 ## Página 33
+
 
 ◦a la pregunta de por qué, tras llegar al lugar de trabajo, necesitaban seguir moviéndose con la formación del tren de servicio, respondió que él no lo necesitaba. Él solo descargó el material;
 ◦a la pregunta de dónde se encontraba en el momento en que la formación del tren se puso en marcha, si en ese momento estaba plenamente consciente y no estaba influido de ninguna manera por una conversación con otra persona u otro estímulo, indicó que estaba de lado respecto a la formación. No hablaba con nadie y solo esperaba a que el tren partiera. Oyó un silbido y el tren se puso en marcha. En cuanto a la pregunta de si alguien le comunicó a él o a los demás que se apartaran de la formación, comunicó que nadie lo hizo;
@@ -917,8 +926,8 @@ cerrajero de explotación 1
 ◦posteriormente, alguien dio la orden de descargar material y cosas en el andén. Quién dio esa orden, no lo sabía. Vio que todos descargaban el tren, así que con sus compañeros también empezaron a descargar el tren. Descargaron las herramientas y el material del último vagón. Sin embargo, en ese último vagón del tren de trabajo quedaba a su cuadrilla aún una paleta de cemento en sacos, que necesitaban descargar en el paso transversal tras el extremo del andén en el túnel del metro, a una distancia de unos 20–30 m tras el extremo del andén;
 ◦mientras tanto, la cuadrilla del jefe de obra seguía descargando su material y sus herramientas del tren de trabajo. Vio que al principio del tren de trabajo estaba el jefe de obra. Fue hacia él para acordar con él la descarga del cemento en sacos en el lugar mencionado anteriormente en el paso transversal;
 
-
 ## Página 34
+
 
 ◦alrededor del jefe de obra había mucha gente, concretamente estaba el maquinista, si estaba en la cabina del vehículo universal motorizado (MUV) o fuera en el andén, no lo sabía. Además estaba el VSV (jefe de tren) y el jefe de obra. Quién más estaba, no lo sabía, porque otros trabajadores descargaban el tren;
 ◦al jefe de obra le dijo que en el último vagón del tren de trabajo le quedaba una paleta con sacos de cemento, que necesitaba descargar en el paso transversal tras el extremo del andén en el túnel del metro;
@@ -935,8 +944,8 @@ cerrajero de explotación 1
 ◦alrededor del tren ya había bastantes personas, así que se detuvo y estaba de lado, dónde estaban sus compañeros, no lo recordó. A lo lejos vislumbró que algunas personas habían bajado a la vía y habían sacado a alguna persona de la vía al andén;
 ◦posteriormente llegó al lugar la policía y al poco rato los servicios de emergencia, que se llevaron al herido del lugar;
 
-
 ## Página 35
+
 
 ◦los horarios exactos de ese día no los recuerda en absoluto, en el lugar estuvo presente tras este accidente unos 30 minutos, estaba estresado. Nadie le pidió nada y él mismo no quería estorbar en el lugar, así que con los compañeros de su cuadrilla se marcharon al depósito Kačerov;
 ◦en el lugar por el trabajo en cuestión no tenía ninguna responsabilidad, la única tarea de su cuadrilla era descargar y almacenar las herramientas y el material del tren de trabajo;
@@ -958,6 +967,7 @@ cerrajero de explotación 1
 
 ## Página 36
 
+
 ◦terminó su turno anterior la misma mañana. Tuvo el día completo de descanso;
 ◦a la pregunta de si estaba descansado al incorporarse al turno del 19. 11. 2025, respondió que desde luego que sí;
 ◦comienzan a las 22:00 h, tienen trabajos preparatorios, tienen una pausa de unos treinta minutos en algún momento entre la medianoche y la una y media, antes del comienzo de la interrupción del servicio de transporte. Se van a las cinco y media, con eso termina su turno;
@@ -972,8 +982,8 @@ cerrajero de explotación 1
 ◦a la pregunta de quién, inmediatamente antes de la puesta en marcha del tren y justo antes de la aparición de la MU, dio la orden a los obreros de la construcción de retirarse de la composición a una distancia segura, respondió que no lo sabe, no lo vio. Estaba a unos 60 m de ese lugar;
 ◦a la pregunta de quién, inmediatamente antes de la puesta en marcha del tren y justo antes de la aparición de la MU, realizó una inspección visual de la composición y se aseguró de que la composición del tren no estuviera dañada ni modificada de manera alguna para que no pudiera, por ejemplo, enganchar a una persona durante la marcha, respondió que no tiene idea, no lo vio;
 
-
 ## Página 37
+
 
 ◦a la pregunta de por qué, tras la aparición de la MU, la composición siguió moviéndose, respondió que no vio que alguien hubiera caído bajo el tren. Hasta un momento después oyó un grito, el tren se detuvo, empezó a preguntarse qué estaba pasando. No sabía si el tren siguió marchándose después. Sabía que después extrajeron a una persona hacia el andén. De los trabajadores se enteró de que estaba viva, lo cual le alegró;
 ◦a la pregunta de quién, tras la aparición de la MU, dio la orden de mover la composición, respondió que no sabe pronunciarse al respecto, no lo recuerda, no sabía quién movió el tren;
@@ -992,25 +1002,24 @@ cerrajero de explotación 2, jefe de trabajos
 ◦trabajó en DPP unos 4 años, en la posición de cerrajero de explotación estuvo unos 1,5 años, pero durante los 4 años completos realizó una actividad laboral similar;
 ◦su actividad concreta en el puesto de trabajo en cuestión en la estación Muzeum de la línea A era la supervisión para que se cumpliera el procedimiento tecnológico. Una de sus actividades era permitir a los trabajadores de las empresas de construcción el acceso a la vía. Durante los trabajos de construcción verifica si cumplen el procedimiento tecnológico;
 
-
 ## Página 38
 
-◦trabaja solo 3 horas, y ello durante el tiempo de la interrupción de explotación del metro. Tras la finalización de los trabajos, es su obligación comprobar la circulabilidad de la línea del metro. A continuación, está a disposición del jefe de obra de la empresa externa, por ejemplo para encender el aire acondicionado u otras cosas que sea necesario gestionar en DPP con respecto a los trabajos de construcción;
-◦concretamente el día 19. 11. 2025 se incorporó con normalidad al turno, y ello a las 22:30 h en la estación base Dejvická. A la estación Muzeum llegó el 20. 11. 2025 a las 0:45 h, donde esperó en el puesto de supervisión de la estación el permiso de acceso a la vía. Cuando recibió del puesto de supervisión el permiso de acceso a la vía, bajó al andén, donde ya se encontraba el jefe de obra de la empresa externa GENIO y sus subordinados. Todos ellos se encontraban en el andén;
-◦el tren de trabajo ya se encontraba en la estación, pero sin su consentimiento nadie podía subir a este tren. Comunicó al jefe de obra que el acceso a la vía ya estaba permitido. A continuación, sus subordinados subieron a los vagones del tren de trabajo y comenzaron a descargar el material necesario para el trabajo;
-◦a continuación fue a abrir el almacén auxiliar. La hora exacta ya no la recuerda. Al almacén se llega en unos tres minutos. Cuánto tiempo estuvo allí tampoco lo recuerda con exactitud, pero fue cuestión de minutos. No miró el reloj;
-◦no recuerda en absoluto si el maquinista o el VSV bajaron del tren de trabajo. En el lugar había un gran movimiento de personas. No recuerda que el VSV y el jefe de obra se pusieran de acuerdo en algo;
+◦trabaja solo 3 horas, y ello durante la interrupción de explotación del metro. Una vez finalizados los trabajos, tiene la obligación de comprobar la circulabilidad de la vía del metro. Además, está a disposición del jefe de obra de una empresa externa, por ejemplo para encender el aire acondicionado u otras cuestiones que sea necesario atender en la DPP con motivo de las obras de construcción;
+◦concretamente el 19. 11. 2025 incorporó su turno con normalidad, a las 22:30 h, en la estación cabecera Dejvická. Llegó a la estación Muzeum el 20. 11. 2025 a las 0:45 h, donde esperó en el puesto de mando de la estación la autorización de acceso a la vía. Cuando recibió del puesto de mando de la estación la autorización de acceso a la vía, bajó al andén, donde ya se encontraban el jefe de obra de la empresa externa GENIO y sus subordinados. Todos ellos se encontraban en el andén;
+◦el tren de trabajo ya se encontraba en la estación, pero sin su consentimiento nadie podía subir a él. Comunicó al jefe de obra que el acceso a la vía ya estaba autorizado. A continuación, sus subordinados subieron a los vagones del tren de trabajo y comenzaron a descargar el material necesario para el trabajo;
+◦seguidamente fue a abrir el almacén auxiliar. No recordaba ya qué hora era. Al almacén se llega en unos tres minutos. Tampoco recordaba ya con exactitud cuánto tiempo estuvo allí, pero fue del orden de minutos. No miró el reloj;
+◦no recordaba en absoluto si el maquinista o el VSV habían bajado del tren de trabajo. En el lugar había un gran movimiento de personas. No recordaba que el VSV y el jefe de obra hubieran acordado nada entre ellos;
 ◦tras permitir a los trabajadores de la empresa externa GENIO tomar del almacén auxiliar las herramientas necesarias, cerró con llave el almacén y volvió al andén;
-◦fue a un grupo de empleados de DPP, que a continuación, tras la descarga del material del tren de trabajo por los trabajadores de la empresa GENIO, debían realizar asimismo la descarga del material del tren de trabajo, y esperaban a que este tren llegara hasta ellos;
-◦los trabajadores de la empresa GENIO realizaban la descarga aproximadamente a mitad de la longitud del andén y él estaba con los trabajadores de DPP a unos 20–30 m del final de este andén;
-◦a continuación oyó el silbato del tren. Quién daba, sin embargo, la señal para la puesta en marcha del tren de trabajo, no lo sabía. No vio a nadie dar la señal para la puesta en marcha del tren de trabajo;
-◦sin embargo, normalmente la señal para la puesta en marcha del tren de trabajo la daba o bien el jefe de obra con el apellido, o bien su hijo. Su hijo, sin embargo, no se encontraba en el puesto de trabajo el 20. 11. 2025;
-◦tras el mencionado silbato del tren, el tren de trabajo se puso en marcha a los pocos segundos. En la estación en cuestión se encontraba en ese momento solo un tren y la composición de la «máquina» (vagón motor universal), a la que estaban enganchados tres vagones;
-◦a los pocos segundos de la puesta en marcha del tren, se oyeron desde los trabajadores de la empresa GENIO los gritos «¡Alto, para!». Y algunos gritos más. El tren se detuvo de facto inmediatamente. Se encontraba a una distancia de unos 20–30 m de este tren. La hora exacta no la sabe, pero podría ser algo así como la 1:00 h;
-◦vio que allí estaba ocurriendo algo, pero no sabía qué. Tras la detención del tren, algunas personas bajaron a la vía al espacio tras el tren. A continuación, dieron al maquinista probablemente una señal o le dijeron que moviera un poco el tren, pero eso no lo sabe. Sin embargo, vio cómo, tras un breve instante, el tren avanzó un poco;
-
+◦se dirigió a un grupo de empleados de la DPP, que tras la descarga del material del tren de trabajo por parte de los trabajadores de la empresa GENIO, debían asimismo realizar la descarga del material del tren de trabajo, y esperaban a que este tren llegara hasta ellos;
+◦los trabajadores de la empresa GENIO realizaban la descarga aproximadamente en la mitad de la longitud del andén, y él estaba con los trabajadores de la DPP cerca del final de dicho andén;
+◦seguidamente oyó el silbato del tren. Sin embargo, no tenía idea de quién daba la señal de arranque del tren de trabajo. No vio a nadie dar la señal de arranque del tren de trabajo;
+◦no obstante, la mayoría de las veces la señal de arranque del tren de trabajo la daba o bien el jefe de obra, de apellido, o bien su hijo. Su hijo, sin embargo, no se encontraba en el puesto de trabajo el 20. 11. 2025;
+◦tras el mencionado silbato del tren, el tren de trabajo se puso en marcha a los pocos segundos. En la estación en cuestión se encontraba en ese momento solo un tren y la composición del «mašina» (vehículo universal motorizado), al que estaban acoplados tres vagones;
+◦a los pocos segundos de ponerse en marcha el tren, se oyeron gritos de los trabajadores de la empresa GENIO: «Stůj, zastav». Y algunos gritos más. El tren de facto se detuvo inmediatamente. Se encontraba a una distancia de unos 20–30 m de este tren. No sabe con exactitud qué hora era, pero podría ser algo así como las 1:00 h;
+◦vio que allí estaba ocurriendo algo, pero no sabía qué. Tras la detención del tren, algunas personas descendieron a la vía, al espacio situado detrás del tren. Seguidamente, dieron al maquinista probablemente una señal o le dijeron que moviera un poco el tren, pero no lo sabe. Sin embargo, vio cómo, tras un breve instante, el tren avanzó un poco;
 
 ## Página 39
+
 
 ◦a continuación vio cómo sacaron del espacio tras el tren a un trabajador de la empresa GENIO. Sin embargo, no vio su caída a la vía. Después lo depositaron en el andén y le prestaron los primeros auxilios. Tras un breve instante llegaron al lugar los policías y a continuación llegaron los sanitarios del ZZS, que se llevaron al herido en camilla del lugar;
 ◦estaba debidamente formado en las normativas del metro con un certificado válido. Estaba médicamente apto para su actividad laboral. Su formación en PRL también era válida;
@@ -1029,25 +1038,24 @@ jefe de obra de la empresa GENIO
 
 ## Página 40
 
-◦en la adjudicación en cuestión trabajaban ellos (nota DI: la empresa GENIO) y además trabajadores de DPP. Ellos (nota DI: la empresa GENIO) trabajaban en el lugar donde se había extendido la geotextil blanca. Lo que hacían los trabajadores de DPP, no lo sabía;
-◦«sus trabajadores sacaron del vagón el material necesario y él dio la orden de salida del tren para que pudieran trabajar en la vía. Él tiene esa competencia, y así dio la orden al maquinista para que se fuera con el tren en dirección a Motola»;
-◦«en ese momento el último vagón estaba en el lugar donde terminaba la geotextil blanca. Por el andén se movían sus empleados, y ello a lo largo de la textil. Él entonces dio la orden de salida del tren y a continuación se fue por sus asuntos»;
-◦«al otro lado del andén estaba el señor apellido (nota DI: fogonero de explotación 1), que ya debía detener el tren después»;
-◦«el tren entonces se puso en marcha tras un breve lapso. Después oyó un grito y vio bajo el tren al lesionado. Entonces empezó a gritar, a silbar y a agitar la luz para detener el tren. El tren se detuvo después y vieron bajo el vagón al lesionado. Este se comunicaba con ellos, diciendo que no tenía la mano. Dio entonces la orden de que el tren avanzara un poco. Después con sus demás trabajadores sacaron al lesionado al andén y prestaron primeros auxilios»;
-◦«si el perfil del tren sobresalía algún material o parte del mismo, no lo sabía»;
-•
-jefe de obra de la empresa GENIO
+◦en el contrato en cuestión trabajaban ellos (nota DI: la empresa GENIO) y además trabajadores de DPP. Ellos (nota DI: la empresa GENIO) trabajaban en el lugar donde se había extendido la geotextil blanca; qué hacían los trabajadores de DPP, no lo sabía;
+◦«de la vagón, sus trabajadores sacaron el material necesario y él dio la orden de salida del tren, para que pudieran trabajar en la vía. Él tiene esa competencia, y así dio la orden al maquinista para que se fuera con el tren en dirección a Motola»;
+◦«en ese momento el último vagón se encontraba en el lugar donde terminaba la geotextil blanca. Por el andén se movían sus empleados, a lo largo de la textil. Él entonces dio la orden de salida del tren y luego se fue por su cuenta»;
+◦«al otro lado del andén estaba el señor apellido (nota DI: cerrajero de explotación 1), que ya debía detener el tren después»;
+◦«el tren entonces, tras un breve rato, se puso en marcha. Después oyó un grito y vio bajo el tren al herido. Entonces empezó a gritar, a silbar y a agitar la luz para detener el tren. El tren después se detuvo y vieron bajo el vagón al herido. Este se comunicaba con ellos, diciendo que no tenía la mano. Dio entonces la orden para que el tren avanzara un poco. Después con sus demás trabajadores sacaron al herido al andén y le prestaron primeros auxilios»;
+◦si el perfil del tren sobrepasaba algún material o su parte, no lo sabía;
+•jefe de obra de la empresa GENIO
   – Registro oficial de la declaración prestada ante la Policía Nacional (PČR):
 ◦era uno de los dos administradores de la empresa constructora GENIO, siendo su contenido laboral el trabajo de jefe de obra. Estos trabajos, en los que se produjo la lesión en cuestión, los desempeñaba en la posición de jefe de obra desde hace unos 25 años. Se trata del cambio de traviesas de madera por traviesas de hormigón;
-◦la mayoría de los empleados allí trabajaban de forma eventual mediante acuerdo de realización de obra. Allí trabajan solo dos horas al día, ya que, dada la explotación del metro, no es posible de otra manera;
-◦todos los trabajadores tenían, sin embargo, contratos reglamentarios y estaban debidamente formados para el trabajo en la vía y también en PRL (Prevención de Riesgos Laborales);
-◦se trabajaba aproximadamente desde las 1:00 h hasta las 3:00 h. En la estación Muzeum trabajaron unos 14 días. Normalmente a las 0:35 h aproximadamente se reunían en el vestíbulo de la estación designada. Allí contaba el número de personas que trabajarían en el lugar, lo que a continuación comunicaba al jefe de estación y a la inspección de estación;
-◦después el jefe de estación les dejaba bajar a los espacios del metro bajo la estación, donde tenían guardadas las herramientas. Después iban al andén de la estación, donde esperaban al tren de trabajo;
-◦con la llegada del tren de trabajo, de él descendió el Jefe de Tren (VSV), que le comunicó hasta qué hora trabajarían, para que con el tren llegasen a tiempo de volver a la cochería. Con el VSV acordó cuál sería el procedimiento de trabajos de ese día concreto;
-◦él después esperaba al jefe de estación o a la inspección del metro, hasta que le comunicasen que el raíl de alimentación del metro de Praga estaba desconectado. El jefe de estación se encuentra en una caseta en la estación. La inspección del metro se encuentra normalmente con ellos en nuestro puesto de trabajo durante todo el tiempo de sus obras de construcción;
-
+◦la mayoría de los empleados allí trabajaban de forma temporal mediante acuerdo de obra realizada. Trabajan allí solo dos horas al día, ya que, dada la explotación del metro, no es posible de otra manera;
+◦todos los trabajadores, sin embargo, tenían contratos regulares y estaban debidamente formados para el trabajo en la vía y también en seguridad y salud en el trabajo (BOZP);
+◦se trabajaba aproximadamente desde las 1:00 h hasta las 3:00 h. En la estación Muzeum trabajaron unos 14 días. Normalmente, sobre las 0:35 h, se reunían en el vestíbulo de la estación designada. Allí contaba el número de personas que trabajarían en el lugar, lo que posteriormente comunicaba al jefe de estación y al inspector de la estación;
+◦después, el jefe de estación les dejaba bajar a los espacios del metro bajo la estación, donde tenían las herramientas guardadas. Después iban al andén de la estación, donde esperaban al tren de trabajo;
+◦con la llegada del tren de trabajo, de él descendió el VSV, que le comunicó hasta qué hora trabajarían, para que a tiempo regresara con el tren al depósito. Con el VSV acordó cómo sería el procedimiento de trabajos en ese día concreto;
+◦él después esperaba al jefe de estación o al inspector del metro, hasta que le comunicaran que el raíl de alimentación del metro de Praga está desconectado. El jefe de estación se encuentra en una caseta en la estación. El inspector del metro normalmente se encuentra con ellos en nuestro puesto de trabajo durante todo el tiempo de sus obras de construcción;
 
 ## Página 41
+
 
 ◦las señales para el movimiento del tren de trabajo las da el director de trabajos, que en el momento de su presencia en la obra era él (el jefe de obra), o la persona designada que él determine. Debe tratarse de una persona competente para ello;
 ◦el 20. 11. 2025 todo transcurría de forma estándar, tal como ya ha indicado. Allí había unos 9 trabajadores de la empresa GENIO, de modo que hacía la supervisión de 8 trabajadores. En el lugar estaban de la empresa GENIO tres de sus trabajadores y además 5 trabajadores subordinados a él de una empresa subcontratista, cuyo nombre ahora no recuerda;
@@ -1060,8 +1068,8 @@ jefe de obra de la empresa GENIO
 ◦tras unos 5 minutos descargaron las herramientas del tren sobre la geotextil que yacía en el andén. Después dio la señal luminosa acordada con una linterna con luz blanca, mediante el movimiento de la mano en sentido vertical de arriba abajo, y la señal sonora con un silbido;
 ◦el maquinista y el VSV lo miraban desde la cabina del tren. En las inmediaciones del convoy se encontraban otros trabajadores de su cuadrilla. El trabajador Nombre, Apellido (nota DI: posteriormente la persona lesionada) estaba a su izquierda a unos 7 – 10 m, moviéndose en las inmediaciones del tren de trabajo; qué hacía exactamente allí no lo recordaba, se trataba de un trabajador experimentado. No advirtió ningún objeto que sobresaliera del perfil del tren de trabajo;
 
-
 ## Página 42
+
 
 ◦en cuanto silbó y dio la instrucción luminosa con la linterna mencionada más arriba, tanto el VSV como el maquinista del tren se giraron en el sentido de la marcha (nota DI: según la grabación de cámara, el jefe de obra solo señalaba con la mano en dirección al fogonero de explotación 1 tras el extremo del andén, la linterna del jefe de obra ya estaba apagada, ver más abajo);
 ◦tras unos pocos segundos el tren se puso en marcha. Si el tren emitió una señal sonora, no lo recordaba;
@@ -1075,8 +1083,8 @@ jefe de obra de la empresa GENIO
 ◦a la pregunta de si tenía formaciones válidas cuyo contenido son las señales luminosas en el metro, respondió que sí, es titular de un certificado de aptitud válido para la conducción de vehículos ferroviarios, para vehículos de tracción diésel y especiales, debiendo el titular de estas autorizaciones para vehículos de tracción especiales conocer las señales luminosas en el metro. Está, por tanto, autorizado para la conducción de un vagón motor universal (MUV). Asimismo es titular también de una autorización PRL válida y cuenta también con una aptitud médica válida para el desempeño de su actividad laboral;
 ◦a la pregunta de qué persona dio la señal o la instrucción de poner en marcha el tren de trabajo en el momento inmediatamente anterior a la lesión en cuestión del trabajador herido, respondió que no dio la instrucción de poner en marcha el tren, sino que dio la instrucción de entrega del tren. Es posible que todos lo entendieran así; él no dio tal instrucción y, aun de haberla dado, esta instrucción no se ejecutó correctamente. La señal correcta de puesta en marcha del tren, es decir, la señal luminosa «Permiso de salida», se da con la mano arriba con luz blanca encendida, contacto visual con el maquinista, señal sonora con silbato o silbido y movimiento de vaivén de arriba abajo. Para responder a la pregunta, cree que esta instrucción la dio el director de trabajos de DPP nombre (nota DI: en realidad el fogonero de explotación 1), quien tras su señal sonora y luminosa mencionada más arriba dio la señal clara «Acercarse», agitando la luz blanca de un lado a otro y con contacto visual con el maquinista;
 
-
 ## Página 43
+
 
 ◦a la pregunta de cuál era la diferencia concreta entre su instrucción de entrega del tren con señal luminosa y sonora y la señal «Permiso de salida», respondió que se trataba de un agitado más breve de la luz blanca de lo habitual para «Permiso de salida», en ningún caso ponía la mano por encima de la cabeza. Si al VSV la señal no le hubiese resultado del todo clara o evidente, no habría dado la instrucción de movimiento del tren y habría solicitado la corrección, o habría preguntado si realmente se trataba de una señal. Además indicaría que el VSV no había comprobado visualmente el tren antes de la puesta en marcha en cuestión. Este (nota DI: probablemente se refiere al VSV) en el momento inmediatamente anterior a la lesión estaba de pie en el lado (nota DI: el VSV, según la grabación de la cámara, estaba sentado en la cabina más cercana al andén y miraba en dirección al jefe de obra y, tras la instrucción del jefe de obra inmediatamente antes de la salida del tren, se levantó de la silla y se giró hacia delante en el sentido de la marcha), donde sobresalía el citado «karhák» (nota DI: tensor de cadena), como posteriormente se enteró. Quién colocó ese «karhák» en la posición en cuestión, no lo sabía;
 ◦a la pregunta de si había estado presente alguien más en su acuerdo con el director de trabajos de DPP nombre (nota DI: en realidad el fogonero de explotación 1) y con el Jefe de Tren del tren de trabajo (VSV), respondió que no sabía de nadie más que del maquinista;
@@ -1093,49 +1101,23 @@ jefe de obra de la empresa GENIO
 
 ## Página 44
 
-con las 4 personas, a saber él, el señor apellidos (nota DI: cerrajero de explotación 1), el VSV 
-y el maquinista; 
-◦su cuadrilla ya, tras descargar el material y las herramientas, no necesitaba maniobrar el tren, 
-es decir, moverlo; 
-◦a la pregunta de si estaba autorizado a dar señales manuales de maniobra para la maniobra de la composición del tren de servicio, 
-respondió que no estaba autorizado por nadie, sino que solo daba la señal 
-de que el tren ya estaba descargado para él y que ya no lo necesitaba. La señal era para que 
-pudieran recibir el tren los operadores (nota DI: empleados de DPP); 
-◦a la pregunta de si estaba autorizado, por qué motivo el jefe de obra daba personalmente 
-señales manuales de maniobra para el tren de servicio en el puesto de trabajo, 
-respondió que no se trataba de una maniobra. No se trataba de la dación de 
-señales manuales de maniobra en el sentido del reglamento D 1/1; 
-◦a la pregunta de si alguien había delegado previamente en el jefe de obra o en 
-otra persona la dación de señales y la dirección del movimiento del tren de servicio en el puesto de trabajo, 
-respondió que nadie le había dado la orden de dar señales ni le había delegado su función; 
-◦contaba con aptitud médica; 
-◦a la pregunta de con base en qué disposiciones de los reglamentos internos tenía para el desempeño de su 
-función, entre otros, el conocimiento de las señales manuales de maniobra según el reglamento interno D 1/1, 
-respondió que esto lo tenía según el examen profesional T5; 
-◦a la pregunta de quién, antes de poner el tren en movimiento e inmediatamente antes de la producción del 
-MU, se había asegurado de que las personas situadas en el andén estaban fuera del alcance de la composición 
-del tren, respondió que «Nadie lo hizo. Yo no lo tenía en mi descripción de trabajo. Los que tenían 
-eso a su cargo estaban en el tren.»; 
-◦a la pregunta de quién, antes de poner el tren en movimiento e inmediatamente antes de la producción del 
-MU, dio la instrucción a los obreros de la construcción de retirarse de la composición a una distancia 
-segura, respondió que «Nadie lo hizo. Esto no ocurrió.»; 
-◦a la pregunta de quién, antes de poner el tren en movimiento e inmediatamente antes de la producción del 
-MU, realizó una comprobación visual de la composición y se aseguró de que la composición 
-del tren no estaba dañada ni modificada de modo que no pudiera, por ejemplo, enganchar a una persona durante 
-la circulación, respondió que «Tampoco esto lo hizo nadie.»; 
-◦cuando la persona cayó a la vía, el tren se detuvo de inmediato. Se arrodilló y comenzó a comunicar 
-con el herido. Este, ante la pregunta de dónde estaba tendido, indicó que en el drenaje y que avanzara 
-con el tren (composición), que no corría peligro alguno para su salud, que no tenía la mano en los raíles. 
-Sobre esto dio la instrucción al maquinista de maniobrar 5 m hacia adelante; 
-◦a la pregunta de quién dio, tras la producción del MU, la instrucción mencionada de movimiento con la 
-composición, respondió que él y ello tras asegurarse de que el lesionado no corría peligro para su vida y 
-salud, que estaba tendido en el cauce (drenaje) del raíl. Él mismo se aseguró de que no obstruía el perfil 
-de la composición; 
-◦inmediatamente tras la maniobra dio la orden de recoger al lesionado y preparó el lugar para 
-alojar al herido. Después se ocupó del herido hasta la llegada de los servicios de emergencia (IZS).
-
+con las 4 personas, a saber, él, el Sr. apellido (nota DI: cerrajero de explotación 1), VSV
+y el maquinista;
+◦su cuadrilla, una vez descargado el material y las herramientas, ya no necesitaba maniobrar el tren, es decir, moverlo;
+◦a la pregunta de si estaba autorizado a dar señales manuales para la maniobra de la composición del tren de servicio, respondió que no estaba autorizado por nadie, sino que únicamente daba la señal de que el tren ya estaba descargado para él y que ya no lo necesitaba. La señal era para que los transportistas pudieran recoger el tren (nota DI: empleados de DPP);
+◦a la pregunta de, en caso de estar autorizado, por qué motivo el jefe de obra daba personalmente señales manuales para la maniobra del tren de servicio en el puesto de trabajo, respondió que no se trataba de una maniobra. No se trataba de dar una señal manual para la maniobra en el sentido del reglamento D 1/1;
+◦a la pregunta de si alguien había delegado previamente en el jefe de obra o en otra persona la emisión de señales y la dirección del movimiento del tren de servicio en el puesto de trabajo, respondió que nadie le había dado ni le había delegado la función de emitir señales;
+◦contaba con aptitud médica;
+◦a la pregunta de, en virtud de qué disposiciones de los reglamentos internos tenía para el desempeño de su función, entre otros, el conocimiento de la señal manual para la maniobra según el reglamento interno D 1/1, respondió que esto lo tenía según el examen profesional T5;
+◦a la pregunta de quién, inmediatamente antes de poner el tren en movimiento y antes de la aparición de la MU, se había asegurado de que las personas situadas en el andén estaban fuera del alcance de la composición del tren, respondió que «Nadie lo hizo. Yo no lo tenía en mi descripción de trabajo. Los que tenían eso a su cargo estaban en el tren.»;
+◦a la pregunta de quién, inmediatamente antes de poner el tren en movimiento y antes de la aparición de la MU, dio la instrucción a los obreros de la construcción de retirarse de la composición a una distancia segura, respondió que «Nadie lo hizo. Esto no ocurrió.»;
+◦a la pregunta de quién, inmediatamente antes de poner el tren en movimiento y antes de la aparición de la MU, realizó una inspección visual de la composición y se aseguró de que la composición del tren no estaba dañada ni modificada de manera que pudiera, por ejemplo, enganchar a una persona durante la marcha, respondió que «Tampoco esto lo hizo nadie.»;
+◦cuando la persona cayó a la vía, el tren se detuvo inmediatamente. Se arrodilló y comenzó a comunicarse con el herido. Este, ante la pregunta de dónde estaba tendido, indicó que en el zanjón y que avanzara un poco con el tren (composición), que no corría peligro alguno para su salud y que no tenía la mano en los raíles. Sobre esto dio la instrucción al maquinista de maniobrar 5 m hacia delante;
+◦a la pregunta de quién dio, tras la aparición de la MU, la instrucción mencionada de moverse con la composición, respondió que él, y ello tras asegurarse de que el lesionado no corría peligro de vida ni de salud, y de que estaba tendido en el cauce (zanjón) del raíl. Él mismo se aseguró de que no obstruía el perfil de la composición;
+◦inmediatamente después de la maniobra, dio la orden de recoger al lesionado y preparó el lugar para depositar al herido. Después se ocupó del herido hasta la llegada de los servicios de emergencia (IZS).
 
 ## Página 45
+
 
 Por parte de DI se planteó igualmente la solicitud de que el VSV S04 prestara 
 declaración, el cual hizo uso, a través de su representante legal, del derecho a no declarar en el asunto 
@@ -1195,137 +1177,127 @@ trabajadores de una ajena organización. La identidad de los trabajadores concre
 pudo determinarse de forma unívoca a partir de las grabaciones de las cámaras;
 inicio de la descarga del material por empleados externos;
 
-
 ## Página 46
 
 •
 0:58:32 h
-poco antes de la salida, un trabajador aparentemente de ajena organización que estaba 
-junto al extremo del 2.º vagón señalaba repetidamente en dirección al 
-trabajador posteriormente herido que se encontraba en la plataforma del 2.º vagón (PVd 11); 
+Breve antes de la salida, un trabajador de aparentemente otra organización, situado 
+en el extremo del 2.º coche, señalaba repetidamente en dirección al trabajador 
+posteriormente herido, que se encontraba en la plataforma del 2.º coche (PVd 11);
 •
 0:58:34 h
-el jefe de obra iba desde la mitad del 2.º vagón en dirección a MUV y a sus espaldas 
-el último trabajador con chaleco reflectante amarillo descendió del 2.º vagón al borde 
-del andén, donde permaneció hasta la producción del MU; 
+El jefe de obra se dirigió desde la mitad del 2.º coche hacia el MUV y, a sus espaldas, 
+el último trabajador con chaleco reflectante amarillo bajó del 2.º coche al borde 
+del andén, donde permaneció hasta la producción de la MU; 
 •
 0:58:35 h
-el jefe de obra iba en dirección a MUV desde la mitad del 2.º vagón hacia el extremo 
-del 1.er vagón y levantó 2 veces la mano derecha, con la que señalaba en dirección a MUV (es decir, 
-en dirección al cerrajero de explotación 1) y simultáneamente asentía con la cabeza, la linterna 
+El jefe de obra se dirigió hacia el MUV desde la mitad del 2.º coche hasta el extremo 
+del 1.º coche y levantó 2 veces la mano derecha, con la que señalaba en dirección al MUV (es decir, 
+hacia el llavero de explotación 1) y al mismo tiempo asintió con la cabeza; la linterna 
 del jefe de obra estaba apagada; 
 •
 0:58:36 h
-el cerrajero de explotación 1 en la rampa transitable tras el extremo del andén 
-de la vía 2 (más cerca de la estación Můstek A) realizaba en dirección a MUV con la 
-linterna blanca un movimiento horizontal de un lado a otro correspondiente a la señal 
+El llavero de explotación 1, en la rampa transitable situada tras el extremo del andén 
+de la vía 2 (más cerca de la estación Můstek A), realizaba con una linterna blanca 
+en dirección al MUV un movimiento horizontal de un lado a otro correspondiente a la señal 
 58 «Přiblížit» (Aproximar); 
 •
 0:58:36 h
-los trabajadores estaban en el andén sobre el geotextil, a una distancia 
-menor de la composición que la distancia de la banda de seguridad, que estaba cubierta 
-con geotextil, el maquinista y el VSV estuvieron durante todo el tiempo en la cabina MUV; 
-el jefe de obra (aproximadamente a la altura del extremo del 1.er vagón) señalaba aún 
+Los trabajadores estaban de pie en el andén sobre el geotextil, a una distancia 
+menor del convoy que la distancia de la banda de seguridad, que estaba cubierta 
+con geotextil; el maquinista y el VSV permanecieron todo el tiempo en el puesto del MUV; 
+el jefe de obra (aproximadamente a la altura del extremo del 1.º coche) seguía señalando con la mano 
 •
 0:58:36 h
-con la mano en dirección hacia adelante, a continuación el VSV en la cabina MUV se levantó y se giró 
-en dirección hacia el frente del previsto viaje del tren, se hace visible el desarrollo de la comunicación 
+hacia delante; a continuación, el VSV se levantó en la cabina del MUV y se giró 
+hacia el frente del movimiento previsto del tren, siendo visible el desarrollo de la comunicación 
 con el maquinista; 
-el VSV en dicho momento no se comunicaba con nadie fuera de la cabina MUV, 
-la puerta y la ventana lateral de la cabina del maquinista de MUV permanecieron 
-cerradas durante todo el tiempo; 
-el jefe de obra se giró de vuelta en dirección a los trabajadores en el andén (hacia 
+El VSV en ese momento no comunicaba con nadie fuera de la cabina del MUV; 
+las puertas y la ventana lateral de la cabina del maquinista del MUV permanecieron 
+cerradas durante todo el tiempo;
+El jefe de obra se giró de nuevo hacia los trabajadores del andén (hacia el 
 •
 0:58:40 h
-el extremo del tren) y se colocó en la cabeza una linterna frontal apagada. 
-El jefe de obra con otros trabajadores estaban sobre el geotextil entre 
-la banda de seguridad y el borde del andén, incluido el 
-posteriormente herido empleado, que estaba con un compañero aún más cerca del borde del andén;
-puesta en movimiento de la composición del tren S04 en dirección a la estación Můstek A, 
+extremo del tren) y se colocó en la cabeza una linterna frontal apagada. 
+El jefe de obra con otros trabajadores estaban de pie sobre el geotextil entre 
+la banda de seguridad y el borde del andén, incluido el empleado 
+posteriormente herido, que estaba de pie con un compañero aún más cerca del borde del andén;
+puesta en movimiento del convoy del tren S04 en dirección a la estación Můstek A, 
 •
 0:58:41 h
 los trabajadores seguían de pie entre la banda de seguridad y el borde del andén;
 el trabajador posteriormente herido, que seguía de pie en el borde del andén, tomó 
 •
 0:58:43 h
-del 2.º vagón un bidón;
-del tensador abierto del 2.º vagón (PVd 11) que sobresalía por encima del nivel del borde 
-del andén aparentemente no se percató nadie;
-### producción del MU, el tensador desenclavado de la cadena trasera de los laterales del 2.º vagón 
+del 2.º coche un bidón;
+del tensor abierto del 2.º coche (PVd 11), que sobresalía por encima del nivel del borde 
+del andén, aparentemente nadie se percató;
+### Producción de la MU; el tensor desenganchado de la cadena lateral del 2.º coche 
 •
 0:58:46 h
 (en posición horizontal sobre el borde del andén) golpeó la extremidad inferior 
 del trabajador externo que estaba de pie en el borde del andén, el cual 
-a continuación cayó sobre la esquina trasera del 2.º vagón (PVd 11) e inmediatamente a la vía 
-entre el 2.º y el 3.er vagón de la composición del tren;
-
+a continuación cayó sobre la esquina trasera del 2.º coche (PVd 11) y acto seguido 
+a la vía entre el 2.º y el 3.º coche del convoy del tren;
 
 ## Página 47
 
 •
 0:58:48 h
-reacción posterior de la mayoría de los trabajadores en el andén a la producción del MU;
+reacción posterior de la mayoría de los trabajadores en el andén ante la aparición de la MU;
 •
 0:58:49 h
-salto del 3.er vagón en circulación por efecto del contacto con el trabajador externo 
-que había caído a la vía; 
+salto del 3.º coche en circulación debido al contacto con un trabajador externo caído en la vía;
 •
 0:58:51 h
-parada de la composición del tren S04 con el 3.er vagón a la altura del extremo del geotextil 
-de protección en el andén; 
+detención del tren del servicio S04 con el 3.º coche a la altura del final de la geotextil de protección en el andén;
 •
 0:58:52 h
-los trabajadores en el andén (desde el lugar donde estaban) comprobaban el estado y la posición 
-del trabajador herido en la vía y un trabajador señalaba algo 
-con la mano en dirección a MUV; 
+los trabajadores en el andén (desde el lugar donde estaban) comprobaban el estado y la posición del trabajador herido en la vía y un trabajador señalaba algo con la mano en dirección a la MUV;
 •
 0:58:57 h
-el VSV descendió de la cabina MUV del tren de servicio y se dirigió más cerca del lugar del MU; 
+el VSV salió de la cabina de la MUV del tren de servicio y se dirigió más cerca del lugar de la MU;
 •
 0:59:00 h
-los trabajadores, incluido el jefe de obra, en el andén se acercan 
-al 3.er vagón detenido, donde comprobaban visualmente la posición y el estado 
-del trabajador herido en la vía; 
+los trabajadores, incluido el jefe de obra, en el andén se acercan al 3.º coche detenido, donde comprobaban visualmente la posición y el estado del trabajador herido en la vía;
 •
 0:59:05 h
-el VSV corrió hasta el 3.er vagón y de los trabajadores se enteró de la situación real, 
-a continuación corrió de vuelta a MUV; 
+el VSV corrió hacia el 3.º coche y, a través de los trabajadores, se enteró de la situación real; a continuación, corrió de vuelta hacia la MUV;
 •
 0:59:09 h
-el jefe de obra se encontraba en el extremo de MUV, daba la instrucción de avanzar con la 
-composición, con el fin de liberar al trabajador herido de la vía; 
-el VSV corría de vuelta a la cabina MUV del tren de servicio S04 
-y el jefe de obra señalaba que la composición avanzara hacia adelante; 
+el jefe de obra se encontraba en el extremo de la MUV, daba la instrucción de mover ligeramente el tren, con el fin de extraer al trabajador herido de la vía;
+el VSV corría de vuelta a la posición de la MUV del tren de servicio S04
+y el jefe de obra señalaba que el tren se moviera hacia delante;
 •
 0:59:18 h
-puesta en movimiento de la composición del tren S04 en dirección a la estación Můstek A, 
-tras la previa instrucción con la mano del jefe de obra; 
+puesta en movimiento del tren del servicio S04 en dirección a la estación Můstek A, tras la instrucción previa con la mano del jefe de obra;
 •
 0:59:28 h
-parada de la composición del tren S04, el trabajador herido estaba tendido 
-en el drenaje en el eje de la vía 2; 
+detención del tren del servicio S04; el trabajador herido yacía
+en la zanja de drenaje en el eje de la 2.ª vía;
 •
 0:59:58 h
-liberación del trabajador herido de la vía al andén de la vía 2. 
+extracción del trabajador herido de la vía al andén de la 2.ª vía.
 ### 3.2 Descripción fáctica del suceso
 ### 3.2.1 Secuencia de hechos que condujeron al suceso excepcional
 •
 a las 0:49 h
-  el tren de servicio S04 llegaba desde la estación Náměstí Míru a la estación Muzeum A 
-en la vía 2, los tensadores de los laterales y los cierres de las cadenas del 2.º vagón del tren estaban cerrados; 
+  el tren de servicio S04 llegaba desde la estación Náměstí Míru a la estación Muzeum A
+en la 2.ª vía; los tensores de los laterales y los cierres de las cadenas del 2.º coche del tren estaban cerrados;
 •
 a las 0:49:44 h
-  el tren de servicio S04 se detuvo por primera vez en la vía 2 en la estación Muzeum A; 
+  el tren de servicio S04 se detuvo por primera vez en la 2.ª vía en la estación Muzeum A;
 •
 a las   0:52:20 h
-   el tren de servicio S04 se puso en movimiento por primera vez en la estación Muzeum A, con base en 
-el movimiento con linterna blanca con la señal 58 «Přiblížit» (Aproximar) realizado por el jefe de obra en 
-el andén; 
+   el tren de servicio S04 se puso en marcha por primera vez en la estación Muzeum A, a partir de
+un movimiento con la linterna blanca con la señal 58 «Acercarse» realizado por el jefe de obra
+en el andén;
 •
 a las 0:52:37 h
-  el jefe de obra daba con la linterna la señal 62a «Stůj» (Alto);
+  el jefe de obra daba la señal con la linterna 62a «Alto»;
 
 ## Página 48
+
 
 •
 v   0:52:41 h
@@ -1371,82 +1343,81 @@ v   0:58:49
 v   0:58:51 h
   la composición del tren de servicio S04 se detuvo;
 
-
 ## Página 49
 
 •
-v   0:59:09 h
-  el jefe de obra de GENIO se encontraba en el extremo de la MUV, daba la instrucción de que la composición avanzara unos metros, con el fin de extraer al empleado herido de la vía;
+v 0:59:09 h
+  el jefe de obra GENIO se encontraba en el extremo de la MUV, daba la indicación de que la composición avanzara un poco, con el fin de liberar al empleado herido de la vía;
 •
-El VSV corrió de vuelta a la posición de mando de la MUV del tren de servicio S04 y el jefe de obra señalaba que la composición avanzara unos metros. A continuación, la composición avanzó unos metros;
+VSV corría de vuelta a la posición de la MUV del tren de servicio S04 y el jefe de obra indicaba que la composición avanzara hacia delante. A continuación, la composición avanzó un poco;
 •
 v 0:59:58 h
-  se extrajo al empleado herido de la vía.
-### 3.2.2 Secuencia de hechos desde la producción del suceso extraordinario hasta la finalización de las acciones de los servicios de emergencia
+  fue liberado el empleado herido de la vía.
+### 3.2.2 Secuencia de hechos desde la ocurrencia del suceso extraordinario hasta la finalización de las acciones de los servicios de rescate
 •
 0:58 h
-producción del SU;
-aprox. 1:00 h  el maquinista del tren de servicio S04 informó por teléfono móvil al OZS (de la unidad 831500 dependiente del ÚT-M) de la producción del SU;
+ocurrencia del SE;
+aprox. 1:00 h  el maquinista del tren de servicio S04 informó por teléfono móvil a OZS (de la unidad 831500 dependiente de ÚT-M) de la ocurrencia del SE;
 •
 1:02 h
-el OZS de la unidad 831500 comunicó al VD la producción del SU;
+OZS de la unidad 831500 comunicó a VD la ocurrencia del SE;
 •
 1:03 h
-el VD-VS comunicó la producción del SU al ZZS;
+VD-VS comunicó la ocurrencia del SE a ZZS;
 •
 1:05 h
-el VD-VS comunicó la producción del SU al HZS DPP;
+VD-VS comunicó la ocurrencia del SE a HZS DPP;
 •
 1:05 h
-el VD-VS comunicó la producción del SU al despacho de Dirección de Explotación (unidad 100420 dependiente de la sección de tráfico, no dependiente del JPM);
+VD-VS comunicó la ocurrencia del SE al despacho de Dirección de Explotación (unidad 100420 dependiente del sector de transporte, no dependiente de JPM);
 •
 1:08 h
-el VD comunicó la producción del SU al RBD (de la unidad 110310 dependiente del JPM);
+VD comunicó la ocurrencia del SE a RBD (de la unidad 110310 dependiente de JPM);
 •
 1:08 h
-la patrulla de la PČR Praha II fue enviada al lugar de producción del SU;
+la patrulla de PČR Praha II fue enviada al lugar de ocurrencia del SE;
 •
 1:08 h
-comunicación de la producción del SU al HZS de la ciudad de Praga, unidad de PO HS-1 Sokolská;
+comunicación de la ocurrencia del SE a HZS de la ciudad de Praga, unidad PO HS-1 Sokolská;
 •
 1:10 h
-el VD-VS comunicó la producción del SU al OZP (de la unidad 110330 dependiente del JPM);
+VD-VS comunicó la ocurrencia del SE a OZP (de la unidad 110330 dependiente de JPM);
 •
 1:10 h
-primera llegada de los componentes del IZS (PČR y, a continuación, RZS) al lugar de producción del SU;
+primeras llegadas de los componentes de IZS (PČR y posteriormente RZS) al lugar de ocurrencia del SE;
 •
 1:11 h
-el VD-VS comunicó la producción del SU a la Policía ČR (la Policía ČR ya había sido informada del SU);
+VD-VS comunicó la ocurrencia del SE a Policía ČR (Policía ČR ya había sido informada del SE);
 •
-1:12 h 
-el VSV del S04 comunicó la producción del SU al VD de la línea A;
-•
-1:16 h
-el VD-VS comunicó la producción del SU al despacho tecnológico;
+1:12 h
+VSV S04 comunicó la ocurrencia del SE a VD de la línea A;
 •
 1:16 h
-la persona designada del DPP (del despacho de Dirección de Explotación) comunicó la producción del SU al COP DI y, a continuación, el DI se desplazó al lugar de producción del SU;
+VD-VS comunicó la ocurrencia del SE al despacho tecnológico;
+•
+1:16 h
+la persona designada de DPP (del despacho de Dirección de Explotación) comunicó la ocurrencia del SE a COP DI y posteriormente DI se desplazó al lugar de ocurrencia del SE;
 •
 2:30 h
-llegada del DI e inicio de la inspección del lugar de producción del SU;
+llegada de DI y comienzo de la inspección del lugar de ocurrencia del SE;
 •
 2:58 h
-el inspector del DI presente dio su consentimiento para la liberación de la vía;
+el inspector de DI presente concedió la autorización para la liberación de la vía;
 •
 3:24 h
-comunicación de la finalización de los trabajos de eliminación por parte del jefe de intervención del HZS DPP;
+comunicación de la finalización de los trabajos de eliminación por parte del jefe de intervención de HZS DPP;
 •
 3:26 h
-salida del tren de servicio S04 hacia el DH, según el informe del RBD.
-El Plan IZS fue activado en función de la naturaleza del SU. El Plan IZS fue activado a las 1:03 h, es decir, 5 min después de la producción del SU, por el VD-VS del DPP.
-En el lugar del SU intervinieron los siguientes componentes del IZS:
+salida del tren de servicio S04 hacia DH según informe de RBD.
+El Plan IZS fue activado en función del carácter del SE. El Plan IZS fue activado a las 1:03 h, es decir, 5 min después de la ocurrencia del SE por VD-VS de DPP.
+En el lugar del SE intervinieron los siguientes componentes de IZS:
 •
-PČR, Departamento de servicio de patrulla Praha II;
+PČR, Departamento de Servicio de Patrulla Praha II;
 •
-PČR, Unidad motorizada de intervención de Praga;
-
+PČR, Unidad Motorizada de Urgencia de Praga;
 
 ## Página 50
+
 
 •
 PČR, SKPV SVS Praha I; 
@@ -1469,8 +1440,8 @@ El transportista DPP, en el sentido de las disposiciones de la Ley n.º 266/1994
 El jefe del tren de servicio S04 tenía la obligación, entre otras, de informar a los trabajadores que se encontraban en la inmediata proximidad de los vehículos del tren de servicio sobre cada movimiento previsto de dicho tren, en el sentido del § 82 apartado 1 letra f) de la norma interna D 2/1. De acuerdo con la misma disposición, el jefe del tren de servicio S04 tenía la obligación, en su puesto de trabajo (es decir, en la estación Muzeum A), de dirigir el movimiento de dicho tren con señales manuales de maniobra.
 En el momento inmediatamente anterior a la producción del SU y durante el movimiento del tren de servicio S04 en el puesto de trabajo (estación Muzeum A), según la grabación de cámara, el VSV se encontraba en la cabina del maquinista del tren S04. Antes de poner en movimiento la composición del tren de servicio inmediatamente anterior a la producción del SU, así como durante el resto del movimiento del tren de servicio S04 en el ámbito de la estación Muzeum A, el VSV no daba señales manuales de maniobra. El jefe de obra se encontraba junto al coche 2 de la composición del tren S04 y, según la grabación de cámara, a partir de las 0:58:35 h comenzó a señalar con la mano levantada en dirección a la cabina de la MUV y al extremo del andén hacia el cerrajero de explotación 1 con la linterna frontal ya apagada. En ese momento el VSV estaba sentado con el maquinista en la cabina de la MUV, observaba continuamente lo que ocurría en las plataformas y registró
 
-
 ## Página 51
+
 
 al jefe de obra dando una señal con la mano con la linterna frontal apagada. A continuación, el VSV se levantó y se giró de cara hacia el cerrajero de explotación 1. Según la grabación de cámara, el cerrajero de explotación 1 estaba a la altura de la rampa de servicio tras el extremo del andén de la estación Muzeum A y, a partir de las 0:58:36 h, realizaba con una luz blanca un movimiento de un lado a otro que correspondía a la señal 58 «Přiblížit» («Aproximar»).
 El VSV, en sus declaraciones escritas para el DPP sobre el SU, indicó, entre otros (véase el punto 3.1.9 de la presente ZZ), que:
@@ -1489,50 +1460,75 @@ Según las grabaciones de cámara, ocurrió lo siguiente:
 
 ## Página 52
 
-salía del 2.º coche al borde del andén (entre el borde del andén y la franja de seguridad, a menos de 13 cm del borde del andén, véase el punto 3.1.3 ZZ), el cual estaba, sin embargo, cubierto con una geotextil blanca. Tras este trabajador, posteriormente herido, se encontraba otro trabajador, que se encontraba más alejado del borde del andén. Todos los mencionados permanecieron en su lugar hasta la aparición de la ME;
-7. tras la señal manual del jefe de obra, el maquinista y el VSV se giraron y miraron hacia delante, en dirección al mecánico de explotación 1. El VSV permaneció en la cabina de la MUV, no bajó al andén, no miró hacia fuera desde el nivel de las puertas abiertas de la cabina (las puertas permanecieron cerradas), y tampoco se giró de nuevo hacia la parte trasera del tren;
-8. inmediatamente después de la señal manual del jefe de obra, el mecánico de explotación 1 dio la señal 58 «Acercarse» con luz blanca;
-9. en ese momento, cerca del 2.º coche (PVd 11), además del jefe de obra, se encontraban otros 2 trabajadores de una organización ajena, incluido el trabajador posteriormente herido;
-10. El VSV, inmediatamente antes de poner la composición en movimiento, ya no se comunicó con nadie más que con el maquinista, ni llamó de ninguna forma a las demás personas del andén para que se apartaran más de la composición;
-11. el jefe de obra, tras transmitir la señal manual al mecánico de explotación 1 (y tras la bajada del trabajador posteriormente herido del 2.º coche), se encontraba en la franja de seguridad del andén y se giró en dirección al grupo de todos los trabajadores junto a los coches 2.º y 3.º;
+salía del 2.º vagón al borde del andén (entre el borde del andén y la franja de seguridad, a menos de 13 cm del borde del andén, véase el punto 3.1.3 ZZ), el cual estaba, sin embargo, cubierto con una geotextil blanca. Tras este trabajador, posteriormente lesionado, se encontraba otro trabajador, que se situaba más alejado del borde del andén. Todos los indicados permanecieron en su lugar hasta la producción de la ME;
+7. tras la señal manual del jefe de obra, el maquinista y el VSV se giraron y miraron hacia delante en dirección al mecánico de explotación 1. El VSV permaneció en la cabina de la MUV, no bajó al andén, no miró hacia fuera desde el nivel de las puertas abiertas de la cabina (las puertas permanecieron cerradas), y tampoco se giró de nuevo hacia la parte trasera del tren;
+8. inmediatamente después de la señal manual del jefe de obra, el mecánico de explotación 1 indicó la señal 58 «Aproximarse» con luz blanca;
+9. en ese momento, cerca del 2.º vagón (PVd 11), además del jefe de obra, se encontraban otros 2 trabajadores de una ajena organización, incluido el trabajador posteriormente lesionado;
+10. el VSV, inmediatamente antes de poner la composición en movimiento, ya no se comunicó con nadie más que con el maquinista, ni llamó de ninguna forma la atención a las demás personas del andén para que se apartaran más de la composición;
+11. el jefe de obra, tras transmitir la señal manual al mecánico de explotación 1 (y tras la bajada del trabajador posteriormente lesionado del 2.º vagón), se encontraba en la franja de seguridad del andén y se giró en dirección al grupo de todos los trabajadores junto a los vagones 2.º y 3.º;
 12. a las 0:58:39 h
-  el trabajador posteriormente herido dejó un objeto negro del andén en el 2.º coche;
-13. antes de poner la composición del tren S04 en movimiento, inmediatamente antes de la aparición de la ME, el tensor trasero de la cadena del lateral del 2.º coche (Pvd 11) quedó suelto y sin asegurar;
+  el trabajador posteriormente lesionado dejó un objeto negro del andén en el 2.º vagón;
+13. antes de poner la composición del tren S04 en movimiento, inmediatamente antes de la producción de la ME, el tensor trasero de la cadena del flanco del 2.º vagón (Pvd 11) quedó suelto y sin asegurar;
 14. a las 0:58:41 h
   la composición del tren (con el VSV en la cabina de la MUV) se puso en marcha;
 15. a las 0:58:43 h
-  inmediatamente después de la puesta en marcha de la composición del tren, el trabajador posteriormente herido, que estaba de pie, se estiró aún más hacia el bidón en el 2.º coche;
-16. a continuación, a las 0:58:46 h, se produjo la colisión con el trabajador de la empresa GENIO que se encontraba en el borde del andén (al pisar su pierna derecha por detrás con el tensor suelto de la cadena del 2.º coche), el cual cayó a continuación a la vía entre el 2.º y el 3.º coche.
-Según la grabación de las cámaras, tras la transmisión de la señal 58 «Acercarse», no se produjo ninguna otra comunicación no verbal entre el VSV y las personas fuera de la cabina de la MUV en el momento en cuestión, y la comunicación verbal (oral) ya no pudo llevarse a cabo con éxito, ya que tanto la puerta como la ventana lateral de la cabina de la MUV estaban cerradas. Según la grabación de las cámaras, el VSV no se giró ya hacia atrás, en dirección a las personas que seguían encontrándose en las proximidades de la composición del tren S04, incluido el trabajador posteriormente herido. En base a lo anterior, no puede aceptarse el contenido de la declaración del VSV, en la que indicó que la aparición de la excepción se debió únicamente a la entrada posterior e inesperada de un trabajador en el espacio de la composición en marcha (véase el punto 3.1.9 de la presente ZZ). El trabajador posteriormente herido se encontraba en todo momento en el mismo lugar y el VSV, según las grabaciones de las cámaras, no informó a los demás trabajadores del movimiento previsto de la composición del tren de servicio S04 inmediatamente anterior a la aparición de la ME, sino que se comunicó únicamente de forma oral con el maquinista.
-El jefe del tren de servicio S04 estaba obligado, según el § 82 apartado 1 letra f) y g) de la normativa interna D 2/1, a informar a los trabajadores de cada movimiento previsto de dicho tren y, además, a comprobar antes de cada movimiento del tren de servicio que su carga, herramientas, piezas desmontables del material rodante, etc., no puedan poner en peligro la seguridad de las personas.
-
+  inmediatamente después de la puesta en marcha de la composición del tren, el trabajador posteriormente lesionado, que estaba de pie, se estiró aún más hacia el bidón en el 2.º vagón;
+16. a continuación, a las 0:58:46 h, se produjo la colisión con el trabajador de la empresa GENIO que se encontraba en el borde del andén (con el atropello de su pierna derecha por detrás por el tensor suelto de la cadena del 2.º vagón), el cual cayó posteriormente a la vía entre los vagones 2.º y 3.º.
+Según la grabación de las cámaras, tras la transmisión de la señal 58 «Aproximarse», no se produjo ya ninguna otra comunicación no verbal entre el VSV y las personas fuera de la cabina de la MUV en el momento en cuestión, y la comunicación verbal (oral) ya no pudo llevarse a cabo con éxito, ya que tanto la puerta como la ventana lateral de la cabina de la MUV estaban cerradas. El VSV, según las grabaciones de las cámaras, no se giró ya hacia atrás en dirección a las personas que seguían en las inmediaciones de la composición del tren S04, incluido el trabajador posteriormente lesionado.
+Con base en lo anteriormente expuesto, no puede compartirse el contenido de la declaración del VSV, en la que indicó que la producción del suceso excepcional se debió únicamente a la entrada posterior e inesperada de un trabajador en el espacio de la composición en marcha (véase el punto 3.1.9 de la presente ZZ). El trabajador posteriormente lesionado se encontró durante todo el tiempo en el mismo lugar y el VSV, según las grabaciones de las cámaras, no informó a los demás trabajadores del movimiento previsto de la composición del tren de servicio S04 inmediatamente anterior a la producción de la ME, sino que se comunicó únicamente de forma oral con el maquinista.
+El jefe del tren de servicio S04 estaba obligado, de conformidad con el § 82 apartado 1 letras f) y g) de la norma interna D 2/1, a informar a los trabajadores de cada movimiento previsto de dicho tren y, asimismo, a comprobar antes de cada movimiento del tren de servicio que su carga, herramientas, piezas desmontables del material rodante, etc., no puedan poner en peligro la seguridad de las personas.
 
 ## Página 53
 
-En relación con la disposición anterior, el VSV estaba además obligado, según la disposición del Anexo n.º 1 § 3 apartado 4 letra e) de la normativa interna V 5/1, a garantizar que, al cargar un material rodante equipado con laterales, los laterales tuvieran las cadenas tensadas durante la marcha.
-Según el Registro Oficial de la declaración prestada ante la PČR y el Registro de la declaración prestada ante el DI, el procedimiento mencionado fue acordado por el jefe de obra de la empresa GENIO junto con el mecánico de explotación 1, el maquinista y el VSV (véanse los puntos 3.1.9 y 4.1.7 de la presente ZZ). El procedimiento anterior, incluida la actividad del mecánico de explotación 1, no exime al VSV de la obligación de dirigir el movimiento del tren de servicio con señales manuales de maniobra en el puesto de trabajo.
-Todas las personas, es decir, también el jefe del tren de servicio S04, se encontraban en las instalaciones de la DPP y en la vía explotada por la DPP, y estaban obligadas, según sus posibilidades, a velar por su propia seguridad, su salud y la seguridad y salud de las personas físicas a las que su actuación afecta directamente, en el sentido del § 106 apartado 4 letra c) de la Ley n.º 262/2006 Sb.
+En relación con la disposición anterior, el VSV estaba además obligado, conforme a la disposición del Anexo n.º 1 
+§ 3 apartado 4 letra e) del reglamento interno V 5/1, a garantizar que, al cargar un vehículo 
+equipado con laterales, durante la marcha los laterales debían tener las cadenas recogidas.
+Según el Registro Oficial de la declaración prestada ante la PČR y el Registro de la declaración prestada ante el DI, 
+el jefe de obra de la empresa GENIO acordó el procedimiento indicado junto con 
+el llavero de explotación 1, el maquinista y el VSV (véanse los puntos 3.1.9 y 4.1.7 de esta ZZ). El procedimiento 
+anterior, incluida la actividad del llavero de explotación 1, no exime al VSV de la obligación de dirigir 
+el movimiento del tren de servicio con señales manuales de maniobra en el puesto de trabajo.
+Todas las personas, es decir, también el jefe del tren de servicio S04, estaban obligadas, en las instalaciones de la DPP y en la vía 
+explotada por la DPP, conforme a sus posibilidades, a velar por su propia seguridad, por su 
+salud y por la seguridad y la salud de las personas físicas a las que su 
+actuación afecta directamente, en el sentido del § 106 apartado 4 letra c) de la ley n.º 262/2006 Sb.
 ### Hallazgos:
-En la investigación se constató el incumplimiento de la normativa legal y de las normativas internas, relativas a las funciones
-### y obligaciones del transportista DPP, en relación causal con la ME:
+En la investigación se constató una infracción de la normativa legal y de los reglamentos internos, relativa a las funciones 
+### y obligaciones del transportista DPP, en relación causal con el MU: 
 •
-§ 106 apartado 4 letra c) de la Ley n.º 262/2006 Sb.:
-«Todo empleado está obligado, según sus posibilidades, a velar por su propia seguridad, su salud y la seguridad y salud de las personas físicas a las que su actuación o su omisión durante el trabajo afecta directamente. El conocimiento de las obligaciones básicas derivadas de la normativa legal y demás normativas y de los requisitos del empleador para garantizar la seguridad y la protección de la salud en el trabajo es parte integrante y permanente de los requisitos de cualificación del empleado. El empleado está obligado a cumplir la normativa legal y demás normativas y las instrucciones del empleador para garantizar la seguridad y la protección de la salud en el trabajo, con las que haya sido debidamente informado, y a regirse por los principios de comportamiento seguro en el lugar de trabajo y por la información del empleador,»;
+§ 106 apartado 4 letra c) de la ley n.º 262/2006 Sb.:
+«Todo empleado está obligado, conforme a sus posibilidades, a velar por su propia 
+seguridad, por su salud y por la seguridad y la salud de las personas físicas a las que su 
+actuación, o en su caso su omisión en el trabajo, afecta directamente. El conocimiento 
+de las obligaciones básicas derivadas de la normativa legal y de otras disposiciones y de los requisitos 
+del empleador para garantizar la seguridad y la protección de la salud en el trabajo es parte integrante 
+y permanente de los requisitos de cualificación del empleado. El empleado está 
+obligado a cumplir la normativa legal y otras disposiciones y las instrucciones del empleador para garantizar 
+la seguridad y la protección de la salud en el trabajo, con las que haya sido debidamente informado, y a regirse 
+por los principios de comportamiento seguro en el lugar de trabajo y por la información del empleador»; 
 •
-§ 35 apartado 1 letra a) de la Ley n.º 266/1994 Sb.:
-«El transportista está obligado a explotar el transporte ferroviario de acuerdo con las reglas de explotación del transporte ferroviario ...»;
+§ 35 apartado 1 letra a) de la ley n.º 266/1994 Sb.:
+«El transportista está obligado a explotar el transporte ferroviario conforme a las normas de explotación del transporte ferroviario...»; 
 •
-§ 82 apartado 1 letra f) de la normativa interna D2/1:
-«El jefe del tren de servicio tiene, durante la marcha de dicho tren, principalmente las siguientes obligaciones: informar a los trabajadores que se encuentran en los vehículos del tren de servicio o en las inmediaciones de los mencionados vehículos, de cada movimiento previsto de dicho tren; dirigir en el puesto de trabajo el movimiento de dicho tren con señales manuales de maniobra;»;
+§ 82 apartado 1 letra f) del reglamento interno D2/1: 
+«El jefe del tren de servicio tiene, durante la marcha de dicho tren, entre otras, las siguientes obligaciones: informar 
+a los trabajadores que se encuentran en los vehículos del tren de servicio o en la 
+inmediata proximidad de dichos vehículos, de cada movimiento previsto de dicho tren; en 
+el puesto de trabajo, dirigir el movimiento de dicho tren con señales manuales de maniobra;»;
 •
-§ 82 apartado 1 letra g) de la normativa interna D2/1:
-«El jefe del tren de servicio tiene, durante la marcha de dicho tren, principalmente las siguientes obligaciones: comprobar, y ello antes de cada movimiento del tren de servicio, que su carga, herramientas, piezas desmontables del material rodante, medios de enganche, etc., no puedan poner en peligro la seguridad de las personas, la seguridad del transporte ferroviario ni dañar otras instalaciones»;
-En el caso de esta ME concreta, es necesario relacionar la disposición anterior del § 82 apartado 1 letra g) de la normativa interna D2/1 con:
-◦ Anexo n.º 1 § 3 apartado 4 letra e) de la normativa interna V 5/1:
-«Al cargar un material rodante equipado con laterales, deben cumplirse los siguientes principios: los vehículos PV, PVd equipados con laterales deben tener las cadenas tensadas en los laterales durante la marcha».
-
+§ 82 apartado 1 letra g) del reglamento interno D2/1: 
+«El jefe del tren de servicio tiene, durante la marcha de dicho tren, entre otras, las siguientes obligaciones: 
+comprobar, antes de cada movimiento del tren de servicio, que su carga, sus herramientas, 
+las piezas desmontables de los vehículos, los medios de acoplamiento, etc., no pueden poner en peligro la seguridad 
+de las personas, la seguridad del transporte ferroviario ni dañar otras instalaciones»; 
+En el caso de este MU concreto, es necesario relacionar la disposición anterior del § 82 apartado 1 
+letra g) del reglamento interno D2/1 con:
+◦Anexo n.º 1 § 3 apartado 4 letra e) del reglamento interno V 5/1 : 
+«Al cargar un vehículo equipado con laterales, deben cumplirse los siguientes principios: 
+los vehículos PV, PVd equipados con laterales deben tener, durante la marcha, las cadenas de los laterales recogidas».
 
 ## Página 54
+
 
 La Inspección Ferroviaria se ocupó en mayor detalle, en relación causal con la ME, de la actividad del mecánico de explotación 1 de la DPP, así como de la actividad del trabajador posteriormente herido y del jefe de obra de la empresa GENIO (véase el punto 4.1.7 de la presente ZZ). El mecánico de explotación 1, a partir de las 0:58:36 h, comenzó a dar la señal 58 «Acercarse» con luz blanca, la cual precedió a la puesta en marcha de la composición del tren de servicio S04 inmediatamente antes de la aparición de la ME.
 El mecánico de explotación 1, según su declaración ante la PČR, acordó con el jefe de obra que, en cuanto su cuadrilla descargara el tren de trabajo, le daría la señal para la salida del tren. El mecánico de explotación 1 debía dar al VSV la señal de acercamiento del tren con la señal «Acercarse» después de recibir la señal acordada del jefe de obra. En esto se puso de acuerdo con el jefe de obra, y este no tuvo ninguna duda ni ninguna objeción. El mecánico de explotación 1 tomaba las señales que daba como indicación de que, en cuanto pudiera, la composición del tren se pusiera en marcha, y luego les indicaría que se detuvieran.
@@ -1545,8 +1541,8 @@ En el Informe de frenado para el tren de servicio S04, se indicó al VSV en la 4
 Bajo la tabla se indicó el valor resultante de la carga del tren de servicio de 14 t.
 En el documento «PEDIDO - TRABAJO CON TREN (INTERRUPCIONES) unidad 831110 para la interrupción de transporte del 20. 11. 2025», en la sección Composición del tren, entre otros, se indicó la composición del tren y el peso de la carga en toneladas: «Tira – M4, 90 (3.0), 11 (2.0), 16 (2.5)», siendo que, junto al número de registro de los vagones plataforma, entre paréntesis se indicaba el peso de la carga en toneladas que debía transportarse en dicho vagón plataforma. No obstante, según el Informe de frenado rellenado para el tren de servicio S04, los valores del peso bruto del vehículo y de la carga coincidían siempre con los valores del peso del vehículo sin carga (véase la Fig. n.º 4).
 
-
 ## Página 55
+
 
 Fig. n.º 4: Captura de una parte del Informe de frenado del tren S04
       Fuente: DPP, edición de la DI
@@ -1575,6 +1571,7 @@ En la investigación se constató el incumplimiento de la normativa legal y de l
 
 ## Página 56
 
+
 •
 § 23 apartado 3 de la norma interna V 6/1:
 „Los datos sobre el peso de la carga, así como los datos sobre el peso del vehículo sin carga y el peso de la superestructura, si el vehículo está equipado con ella, se anotan en el Informe de frenado redondeado a toneladas enteras, de modo que 500 kg o más se considera una tonelada entera y no se tienen en cuenta los valores inferiores a 500 kg“;
@@ -1596,8 +1593,8 @@ En la investigación se constató el incumplimiento de normas legales y normas i
 § 35 apartado 1 letra a) de la Ley n.º 266/1994 Sb.:
 „El transportista está obligado a explotar el transporte ferroviario de acuerdo con las normas de explotación del transporte ferroviario, ...“;
 
-
 ## Página 57
+
 
 •
 § 35 apartado 1 letra f) de la Ley n.º 266/1994 Sb.:
@@ -1625,8 +1622,8 @@ En la investigación se constató el incumplimiento de normas legales y normas i
 § 17 apartado 1 de la norma interna D1/1:
 „Señal 53, Atención, Un sonido largo con la bocina“.
 
-
 ## Página 58
+
 
 ### 4.1.2 Entidades responsables del mantenimiento de los vehículos ferroviarios
 En la investigación no se constató el incumplimiento de las funciones y obligaciones de las entidades responsables del mantenimiento de los vehículos ferroviarios.
@@ -1646,8 +1643,8 @@ En la investigación no se constató el incumplimiento de las funciones y obliga
 Debido a las causas y circunstancias de producción de la MU en cuestión, la Inspección Ferroviaria examinó los factores que pudieran derivarse de la actividad de los trabajadores del subcontratista de obras de la empresa GENIO como organización ajena, concretamente del trabajador herido y del jefe de obra como sus empleados.
 En el caso del procedimiento del trabajador de la empresa GENIO posteriormente herido, el DI examinó el cumplimiento de las condiciones establecidas en las normas internas de DPP, incluida la norma interna O 5/1 en relación con la directiva interna Os 3/1, y ello especialmente en relación con los principios de comportamiento en las vías
 
-
 ## Página 59
+
 
 o en sus proximidades. Concretamente, la disposición del § 2 apartado 6 de la norma interna O 5/1, en relación con el Extracto de la norma O 5/1 del Anexo n.º 1 de la directiva interna Os 3/1, establece que „Los trabajadores en las vías o en sus proximidades están obligados a vigilar el movimiento de los vehículos ferroviarios desde todas las direcciones (durante la interrupción del servicio de transporte, los trenes circulan en la infraestructura ferroviaria del metro en ambas vías en ambos sentidos).
 Cuando se aproxime a estos trabajadores un vehículo ferroviario, deben liberar sin demora el espacio necesario para el paso de dicho vehículo y advertir de él también a las demás personas en sus proximidades.“
@@ -1661,6 +1658,7 @@ Como se dedujo de la grabación de las cámaras, antes de la puesta en marcha de
 
 ## Página 60
 
+
 vozículos del tren de servicio), por lo que no está garantizado que cada empleado evalúe la «inmediata proximidad» de la misma manera. Por ello, DI considera conveniente que la inmediata proximidad de los vehículos mencionados, en el sentido de la disposición § 82 apartado 1 letra f) de la norma interna D 2/1, sea definida concretamente por las normas internas de DPP, indicando una distancia concreta (véase el punto 6 de la presente ZZ).
 Según la grabación de las cámaras, el jefe de obra, tras descargar las herramientas del 2.º vagón (PVd 11) a partir aproximadamente de las 0:58:36 h, aproximadamente a la altura del final del 1.º vagón (PVd 90z), comenzó a señalar con la mano hacia delante en dirección al cerrajero operativo 1 de DPP, que estaba de pie detrás del final del andén y realizaba un movimiento con una linterna blanca correspondiente a la señal 58 «Acercarse».
 Antes de poner en movimiento la composición del tren de servicio S04 a las 0:58:41 h, según la grabación de las cámaras, el jefe de obra ya no realizaba ningún movimiento con la linterna blanca encendida.
@@ -1670,28 +1668,26 @@ Según la grabación de las cámaras, el jefe de obra de la empresa GENIO realiz
 El procedimiento indicado del jefe de obra tampoco, en el caso del movimiento del tren de servicio S04 durante la primera salida en la estación Muzeum A, exime al VSV de la obligación de dirigir la circulación del tren de servicio con señales manuales para maniobras en el puesto de trabajo, en el sentido de la disposición de la norma interna D 2/1.
 En el sentido del § 82 apartado 1 letra f) de la norma interna D 2/1, no se puede eximir al VSV del tren de servicio S04 de la obligación de dirigir la circulación del tren de servicio en el puesto de trabajo con señales manuales para maniobras, incluida la obligación de informar a los trabajadores (incluido el trabajador posteriormente herido) en la proximidad de los vehículos de cada movimiento previsto de la composición del tren de servicio S04. Del mismo modo, no se puede eximir al VSV del tren de servicio S04 de la obligación, en el sentido del § 82 apartado 1 letra g) de la norma interna D 2/1, de comprobar antes de cada movimiento que su carga, herramientas, piezas desmontables de los vehículos, medios de enganche, etc., no pueden poner en peligro la seguridad de las personas (véase el punto 4.1.1 de la presente ZZ).
 
-
 ## Página 61
 
-2. Intercambio mutuo de información sobre riesgos y medidas adoptadas entre las empresas
+2. Intercambio mutuo de información sobre riesgos y medidas adoptadas entre las empresas 
 ### (empleadores) DPP, Pražské silniční stavby y GENIO
-En general, el empleador está obligado a garantizar las condiciones de trabajo seguras a sus empleados, teniendo en cuenta los riesgos de posible amenaza a su vida y salud que se relacionan directamente con la realización de un trabajo concreto. Asimismo, en el § 101 apartado 2 de la misma ley se establece que el cuidado de la seguridad y la protección de la salud en el trabajo impuesto al empleador es también una parte integrante e igualmente válida de las obligaciones laborales de los empleados directivos en todos los niveles de gestión, en la medida de los puestos de trabajo en los que actúan. De lo anterior se deduce que la obligación de garantizar la seguridad laboral en su centro de trabajo o tramo de trabajo corresponde al empleado directivo que, según el § 302 letra c) de la Ley n.º 262/2006 Sb., tiene la obligación de crear condiciones laborales favorables y garantizar la PRL en el trabajo. La empresa DPP publicó las normas internas MPBP, BOZP, O 5/1 y la directiva interna Os 3/1, con las que se regularon, entre otras, las obligaciones básicas del empleador DPP, de los empleados directivos, de los empleados y de las organizaciones externas en materia de PRL.
-Con el fin de reducir el riesgo, los empleadores (es decir, DPP, Pražské silniční stavby s.r.o. y GENIO), cuyos empleados realizan tareas laborales en un mismo centro de trabajo, están obligados, según el § 101 apartado 3 de la Ley n.º 262/2006 Sb., a intercambiarse por escrito información sobre los riesgos y las medidas adoptadas para protegerse de sus efectos, incluida la designación de un empleador-coordinador que coordinará la ejecución de las medidas de protección de la seguridad y la salud de los empleados y los procedimientos para garantizarlas. Fue designado coordinador el representante (director y jefe de obra en una misma persona) de la empresa Pražské silniční stavby s.r.o.
+En general, el empleador está obligado a garantizar las condiciones para el trabajo seguro de sus empleados, teniendo en cuenta los riesgos de posible peligro para su vida y salud que se relacionan directamente con la realización de un trabajo concreto. Asimismo, en el § 101 apartado 2 de la misma ley se establece que la atención a la seguridad y a la protección de la salud en el trabajo encomendada a los empleadores es también una parte integrante e igualmente importante de las obligaciones laborales de los empleados directivos en todos los niveles de gestión, en la medida de los puestos de trabajo en los que actúan. De lo anterior se deduce que quien está obligado a garantizar la seguridad laboral en su centro de trabajo o tramo de trabajo es el empleado directivo que, según el § 302 letra c) de la Ley núm. 262/2006 Sb., tiene la obligación de crear condiciones laborales favorables y garantizar la BOZP (seguridad y salud en el trabajo) en el trabajo. La empresa DPP emitió las normas internas MPBP, BOZP, O 5/1 y la directiva interna Os 3/1, mediante las que se atendieron, entre otros, los deberes básicos del empleador DPP, de los empleados directivos, de los empleados y de las organizaciones ajenas en materia de BOZP.
+Con el fin de reducir el riesgo, los empleadores (es decir, DPP, Pražské silniční stavby s.r.o. y GENIO), cuyos empleados realizan tareas laborales en un mismo centro de trabajo, están obligados, según el § 101 apartado 3 de la Ley núm. 262/2006 Sb., a intercambiar por escrito información sobre los riesgos y las medidas adoptadas para protegerse de sus efectos, incluida la designación del empleador-coordinador, que coordinará la aplicación de las medidas de protección de la seguridad y la salud de los empleados y los procedimientos para garantizarlas. Se designó como coordinador al representante (director y jefe de obra en una misma persona) de la empresa Pražské silniční stavby s.r.o.
 •
-la empresa DPP tenía una relación contractual con la empresa Pražské silniční stavby s.r.o. y se produjo el intercambio mutuo de la lista de riesgos y medidas, mediante el documento «Doklad o seznámení vedoucích pracovníků cizích organizací s riziky a s přijatými patřeními a informací o způsobu zajištění BOZP» (Justificante de información a los trabajadores directivos de organizaciones externas sobre los riesgos, las medidas adoptadas y la información sobre el modo de garantizar la PRL) de fecha 30 de enero de 2025;
+la empresa DPP mantenía una relación contractual con la empresa Pražské silniční stavby s.r.o. y se produjo el intercambio mutuo de la lista de riesgos y medidas, mediante el documento «Doklad o seznámení vedoucích pracovníků cizích organizací s riziky a s přijatými patřeními a informací o způsobu zajištění BOZP» (Justificante de información a los directivos de organizaciones ajenas sobre los riesgos, las medidas adoptadas y la forma de garantizar la BOZP) de fecha 30. 1. 2025;
 •
-la empresa Pražské silniční stavby s.r.o. tenía una relación contractual con la empresa GENIO y, mediante el documento «SEZNÁMENÍ S RIZIKY» (Información sobre los riesgos) de fecha 24 de febrero de 2025, declararon que se intercambian y transmiten mutuamente los riesgos;
+la empresa Pražské silniční stavby s.r.o. mantenía una relación contractual con la empresa GENIO y, mediante el documento «SEZNÁMENÍ S RIZIKY» (Información sobre los riesgos) de fecha 24. 2. 2025, declararon que se intercambian y transmiten mutuamente los riesgos;
 •
-las empresas Pražské silniční stavby s.r.o. y DPP, según el documento «Prokazatelné seznámení s riziky Pražské silniční stavby/DPP.a.s.» (Información verificable sobre los riesgos Pražské silniční stavby/DPP.a.s.) de fecha 19 de junio de 2025, llevaron a cabo el proceso de información verificable sobre los riesgos relacionados con la obra de DPP realizada por la empresa Pražské silniční stavby s.r.o., incluidas las organizaciones subordinadas.
-### La propia investigación de DI no acreditó el incumplimiento de las obligaciones establecidas
-### por la disposición del § 101 apartado 3 de la Ley n.º 262/2006 Sb.
-Las tareas y obligaciones de otras personas o entidades no se relacionaban directamente con la ocurrencia del MU.
+las empresas Pražské silniční stavby s.r.o. y DPP, según el documento «Prokazatelné seznámení s riziky Pražské silniční stavby/DPP.a.s.» (Información acreditada sobre los riesgos de Pražské silniční stavby/DPP.a.s.) de fecha 19. 6. 2025, llevaron a cabo el proceso de información acreditada sobre los riesgos relativos a la obra de DPP realizada por la empresa Pražské silniční stavby s.r.o., incluidas las organizaciones subordinadas.
+### La propia investigación de la DI no acreditó el incumplimiento de las obligaciones establecidas en el § 101 apartado 3 de la Ley núm. 262/2006 Sb.
+Las tareas y obligaciones de otras personas o entidades no se relacionaban directamente con la aparición del MU (accidente ferroviario).
 ### 4.2 Vehículos ferroviarios e instalaciones técnicas
 4.2.1 Factores o consecuencias derivados de la construcción de los vehículos ferroviarios, de la infraestructura ferroviaria o de las instalaciones técnicas
-Debido a las causas y circunstancias de la ocurrencia del MU en cuestión, la Inspección Ferroviaria se ocupó de los factores que pudieran derivarse de la construcción de los vehículos ferroviarios, concretamente de los laterales del 2.º vagón (vagón plataforma PVd 11) y del modo de aseguramiento de sus cadenas mediante un mecanismo en posición asegurada (véase la Fig. n.º 5 y la Fig. n.º 6).
-
+Debido a las causas y circunstancias de la aparición del MU mencionado, la Inspección Ferroviaria (Drážní inspekce) analizó los factores que pudieran derivarse de la construcción de los vehículos ferroviarios, concretamente de los laterales del 2.º coche (coche plataforma PVd 11) y del modo de sujeción de sus cadenas mediante el mecanismo en posición de bloqueo (véase la Fig. n.º 5 y la Fig. n.º 6).
 
 ## Página 62
+
 
 El 2.º vagón en cuestión era un vagón plataforma con superficie de carga prolongada, montado con laterales en los lados longitudinales. Los laterales están unidos al bastidor del vagón PVd mediante bisagras; los laterales cerrados están unidos entre sí y asegurados en las esquinas con cierres de gancho. Los laterales enfrentados, a la altura de los largueros del bastidor del vagón, están asegurados mutuamente mediante un mecanismo de cadena. El mecanismo de aseguramiento está formado por un soporte de cadena, que está fijado en la parte superior del lateral, una cadena de eslabones unida al soporte de cadena y el cierre de cadena – tensor. La ejecución del mecanismo de aseguramiento en posición cerrada y asegurada cumple el perfil según la ČSN 28 0338 – Perfiles para vehículos ferroviarios de metro. El cierre de cadena – tensor, en posición cerrada y asegurada y cumpliendo el perfil según la norma en cuestión, no invadía el nivel del borde del andén. El 2.º vagón plataforma para metro en cuestión, con número de registro PVd 11, serie PVd (remolque largo), con número de fabricación 48/92 (año de fabricación 1992), fue puesto en servicio el 8 de diciembre de 1992. Según la última Acta de inspección técnica del DV realizada según el Anexo n.º 6 del Decreto n.º 173/1995 Sb. de fecha 12 de noviembre de 2024, se comprobó, en el alcance de la inspección realizada, entre otros, la integridad del equipamiento del DV, el funcionamiento de los mecanismos de mando y el estado de los suelos y de los laterales, con el resultado de que cumple y con la conclusión «El vehículo cumple las condiciones de circulación en las vías».
 Asimismo, según la Inspección comisionada del DV realizada en presencia de DI, no se detectó en el 2.º vagón en cuestión (PVd 11) ninguna avería con influencia en la ocurrencia del MU en cuestión.
@@ -1705,41 +1701,41 @@ En la investigación no se detectaron factores derivados del mantenimiento y la 
 ### 4.2.5 Factores o consecuencias relacionados con la entidad responsable del mantenimiento de los vehículos ferroviarios, los talleres de mantenimiento y otros proveedores de servicios de mantenimiento
 En la investigación no se detectaron factores relacionados con la entidad responsable del mantenimiento de los vehículos ferroviarios, los talleres de mantenimiento y otros proveedores de servicios de mantenimiento.
 
-
 ## Página 63
 
-4.2.6 Otros factores o consecuencias que se consideran relevantes a efectos de la investigación
-En la investigación no se detectaron otros factores relacionados con los vehículos ferroviarios, la infraestructura ferroviaria o las instalaciones técnicas.
+4.2.6 Otros factores o consecuencias que se consideran importantes a efectos de la investigación
+En la investigación no se detectaron otros factores relacionados con el material rodante, la infraestructura ferroviaria o las instalaciones técnicas.
 ### 4.3 Factores humanos
 ### 4.3.1 Características humanas e individuales
-Debido a las causas y circunstancias de la ocurrencia del MU en cuestión, la Inspección Ferroviaria se ocupó de los factores que pudieran derivarse de la aptitud médica, de la formación profesional de los empleados, de la situación personal, incluido el estrés físico y psicológico. A los trabajadores implicados en el MU y al cerrajero operativo 2 en su función de jefe de trabajos se les realizó, tras el MU, una prueba de consumo de alcohol con resultado negativo.
-Los requisitos para los empleados del operador de la vía, del transportista y de los trabajadores externos que trabajan en el ámbito de la vía, en particular los requisitos de su aptitud profesional y médica, están establecidos principalmente por la Ley n.º 266/1994 Sb., el Decreto n.º 173/1995 Sb., el Decreto n.º 16/2012 Sb., el Decreto n.º 79/2013 Sb., el Decreto n.º 260/2023 Sb. y las normas internas del operador de la vía y del transportista.
+Debido a las causas y circunstancias de la aparición del siniestro ferroviario en cuestión, la Inspección Ferroviaria estudió los factores que pudieran derivarse de la aptitud médica, la formación profesional de los empleados, la situación personal, incluido el estrés físico y psicológico. A los trabajadores implicados en el siniestro ferroviario y al ferroviario 2 de vía en calidad de responsable de los trabajos se les realizó, tras el siniestro ferroviario, una prueba de consumo de alcohol con resultado negativo.
+Los requisitos aplicables a los empleados del gestor de la vía, del transportista y de los trabajadores externos que trabajan en el ámbito de la vía, en particular los requisitos relativos a su aptitud profesional y médica, se establecen especialmente en la Ley núm. 266/1994 Sb., el decreto núm. 173/1995 Sb., el decreto núm. 16/2012 Sb., el decreto núm. 79/2013 Sb., el decreto núm. 260/2023 Sb. y en las normas internas del gestor de la vía y del transportista.
 Maquinista del tren de servicio S04
-En la investigación no se detectaron factores relacionados con la formación profesional del empleado, el estado de salud y la situación personal, incluido el estrés físico y psicológico.
+En la investigación no se detectaron factores relacionados con la formación profesional del empleado, su estado de salud y su situación personal, incluido el estrés físico y psicológico.
 •
-tuvo la última revisión médica con la conclusión de aptitud médica, entre otros, para el ejercicio de la actividad de maquinista y también para el trabajo nocturno, de fecha 19 de julio de 2024,
+disponía de la última revisión médica con el dictamen de aptitud médica, entre otros, para el desempeño de la actividad de maquinista y también para el trabajo nocturno, de fecha 19. 7. 2024,
 •
-tenía el certificado de aptitud vigente para la conducción de DV en la vía especial, para los tipos de vehículos de tracción diésel y especial;
+disponía de un certificado de aptitud válido para la conducción de material rodante en vía especial, para las clases de vehículos de tracción diésel y especiales;
 •
-realizó con éxito el último examen periódico T5 de maquinista de tracción independiente el 5 de junio de 2025;
+superó con éxito el último examen periódico T5 de maquinista de tracción independiente el día 5. 6. 2025;
 •
-última formación en PRL y prevención de incendios el 3 de octubre de 2024;
+última formación en PRL y prevención de incendios el día 3. 10. 2024;
 •
-la formación en MPBP, acceso a las líneas de metro y trabajo en las líneas de metro, acceso a la vía, si el raíl de alimentación está sin tensión y con tensión, y la formación de la persona instruida según el Decreto n.º 100/1995 Sb. fue de fecha 11 de julio de 2024.
-Jefe del tren de servicio S04
-En la investigación no se detectaron factores relacionados con la formación profesional del empleado, el estado de salud y la situación personal, incluido el estrés físico y psicológico.
+la formación en MPBP, acceso a las líneas de metro y trabajos en las líneas de metro, acceso a la vía, tanto si el carril de alimentación está sin tensión como bajo tensión, y la formación de la persona instruida conforme al decreto núm. 100/1995 Sb. fue de fecha 11. 7. 2024.
+Responsable del tren de servicio S04
+En la investigación no se detectaron factores relacionados con la formación profesional del empleado, su estado de salud y su situación personal, incluido el estrés físico y psicológico.
 •
-tuvo la última revisión médica con la conclusión de aptitud médica para el ejercicio de la actividad de ferroviario de fecha 6 de febrero de 2025, también para el trabajo nocturno;
+disponía de la última revisión médica con el dictamen de aptitud médica para el desempeño de la actividad de ferroviario, de fecha 6. 2. 2025, y también para el trabajo nocturno;
 •
-realizó con éxito el primer examen T9 para la actividad laboral Ferroviario – VSV el 6 de diciembre de 2007;
+superó con éxito el primer examen T9 para la actividad laboral Ferroviario – VSV el día 6. 12. 2007;
 •
-realizó con éxito el último examen periódico T9 para la actividad laboral Ferroviario – VSV el 5 de junio de 2023;
+superó con éxito el último examen periódico T9 para la actividad laboral Ferroviario – VSV el día 5. 6. 2023;
 •
-última formación en PRL y prevención de incendios de fecha 6 de febrero de 2025;
+última formación en PRL y prevención de incendios de fecha 6. 2. 2025;
 •
-la formación en MPBP, acceso a las líneas de metro y trabajo en las líneas de metro y en las cabinas de conducción, acceso a la vía, si el raíl de alimentación está sin tensión y con tensión, y la formación de la persona instruida según el Decreto n.º 100/1995 Sb. fue de fecha 19 de febrero de 2025.
+la formación en MPBP, acceso a las líneas de metro y trabajos en las líneas de metro y cabina de maquinista, acceso a la vía, tanto si el carril de alimentación está sin tensión como bajo tensión, y la formación de la persona instruida conforme al decreto núm. 100/1995 Sb. fue de fecha 19. 2. 2025.
 
 ## Página 64
+
 
 Cerrajero de explotación 1
 Inmediatamente antes de la aparición de la MU daba la señal 58 «Acercarse» en dirección al JdE del tren de servicio S04.
@@ -1771,8 +1767,8 @@ según el documento ROV 2020-002-03 Vía en vía para la sustitución de travies
 •
 según el documento PEDIDO – TRABAJO CON TREN (VÍAS EN VÍA) emitido por DPP para la vía en vía de transporte del 20. 11. 2025 para la estación MUZEUM A, se establecía, entre otros
 
-
 ## Página 65
+
 
 la ocupación de los puestos, y concretamente como responsable de trabajos estaba el Cerrajero de explotación 2 en calidad de responsable de trabajos.
 •
@@ -1803,8 +1799,8 @@ como representante de la sociedad GENIO recibió (el inventario) de riesgos y me
 •
 según los documentos presentados, realizó como puesta al corriente de la norma interna O 5/1, de la directriz interna Os 3/1 y del procedimiento tecnológico, y la formación en PRL y PP por el empleado/trabajador responsable conforme al programa de DPP del 24. 2. 2025, y ello conforme al marco de
 
-
 ## Página 66
+
 
 acuerdo entre el comitente Pražské silniční stavby s.r.o. y el ejecutor, la sociedad GENIO. Esta obligación se trasladó del documento Autorización núm. 087/2023/01;
 •
@@ -1828,46 +1824,49 @@ El JdE del tren de servicio S04 el 19. 11. 2025 entró en turno nocturno a las 2
 El cerrajero de explotación 1 el 19. 11. 2025 entró en turno nocturno a las 22:00 h, hasta el momento de la aparición de la MU no hubo necesidad de tomar descanso y antes del turno tuvo más de 12 h. En noviembre tuvo exclusivamente turnos nocturnos de las 22:00 h a las 4:30 h, de duración 6:30 h, incluidas las pausas para comida y descanso de 30 minutos de duración, siempre de domingo/lunes a jueves/viernes.
 El cerrajero de explotación 2 en función de responsable de trabajos el 19. 11. 2025 entró en turno nocturno a las 22:30 h, hasta el momento de la aparición de la MU no hubo necesidad de tomar descanso y antes del turno tuvo más de 12 h. En noviembre tuvo exclusivamente turnos nocturnos de las 22:30 h a las 5:00 h,
 
-
 ## Página 67
 
-de duración 6:30 h, incluidas las pausas para comida y descanso de 30 minutos de duración, siempre de domingo/lunes a jueves/viernes.
-Empleado herido de la sociedad GENIO
+o duración de 6:30 h, incluidos los descansos para comida y reposo de 30 minutos, siempre de domingo/lunes a jueves/viernes.
+Empleado herido de la empresa GENIO
 •
-según su declaración, trabajaba como capataz para la sociedad Technické služby Nové Strašecí s.r.o. en régimen de relación laboral principal en días laborables de 7:00 a 15:30 h, cuando el tiempo de descanso entre estos turnos era de más de 12 h;
+según su declaración, trabajaba como capataz para la empresa Technické služby Nové Strašecí s.r.o. con contrato de trabajo a tiempo completo en días laborables de 7:00 a 15:30 h, siendo el período de descanso entre estos turnos de más de 12 h;
 •
-vivía a unos 5 minutos a pie de la sede de la sociedad Technické služby Nové Strašecí s.r.o.;
+vivía a unos 5 minutos a pie de la sede de la empresa Technické služby Nové Strašecí s.r.o.;
 •
-según su declaración, trabajaba también como obrero en la conservación de la superestructura de vía para la sociedad GENIO en virtud de acuerdo de realización de trabajo, de noche aproximadamente de 1:00 h a 3:00 h. Este régimen y horario de turnos en el empleo le venía bien (véase el punto 3.1.9 de la presente ZZ);
+según su declaración, también trabajaba como obrero en la mantención de la superestructura de la vía para la empresa GENIO mediante acuerdo de prestación de servicios, por la noche aproximadamente de 1:00 h a 3:00 h.
+Este régimen y horario de turnos en el empleo le convenían (véase el punto 3.1.9 de la presente ZZ);
 •
-la duración del tiempo de trabajo era de aproximadamente 2:20 h diarios;
+la duración de la jornada de trabajo era de aproximadamente 2:20 h diarios;
 •
 aproximadamente a las 0:40 h llegaba a la estación de metro y aproximadamente de las 00:45 h a las 1:00 h, según la hora de llegada, comenzaba la preparación, es decir, la descarga del material necesario de los vagones del tren;
 •
-trabajó para la sociedad GENIO aproximadamente 7 años;
+trabajaba para la empresa GENIO aproximadamente 7 años;
 •
-en noviembre de 2025 tuvo en el metro 2 turnos en días laborables de la semana, entre estos turnos hubo al menos 1 día laborable sin turno;
+en noviembre de 2025 tenía en el metro 2 turnos en días laborables de la semana, entre estos turnos había al menos 1 día laborable sin turno;
 •
-el 18. 11. 2025 a aproximadamente 1 h entró en turno para la sociedad GENIO en Praga en la estación de metro Muzeum A con una duración de aproximadamente 2,5 h;
+el 18. 11. 2025 a aproximadamente las 1 h inició turno para la empresa GENIO en Praga en la estación de metro Muzeum A con una duración de aproximadamente 2,5 h;
 •
-respecto al descanso, indicó que tuvo descanso y el 19. 11. 2025 estuvo en casa desde las 16:00 h;
+respecto al descanso, indicó que tuvo descanso y el 19. 11. 2025 estaba en casa desde las 16:00 h;
 •
-el 19. 11. 2025 trabajó de 7:00 h a 15:30 h para la sociedad Technické služby Nové Strašecí s.r.o., desde las 16:00 h estuvo en casa;
+el 19. 11. 2025 trabajó de 7:00 h a 15:30 h para la empresa Technické služby Nové Strašecí s.r.o., desde las 16:00 h estaba en casa;
 •
-el 20. 11. 2025 a las 0:30 h entró en turno para la sociedad GENIO en Praga en el vestíbulo de la estación de metro Muzeum A, hasta el momento de la aparición de la MU no hubo necesidad de tomar descanso;
+el 20. 11. 2025 a las 0:30 h inició turno para la empresa GENIO en Praga en el vestíbulo de la estación de metro Muzeum A, hasta el momento de la ocurrencia de la MU no era necesario tomar un descanso;
 •
-al entrar en turno el 20. 11. 2025 a las 0:30 h se sentía descansado;
+al iniciar el turno el 20. 11. 2025 a las 0:30 h se sentía descansado;
 •
-según los hechos constatados, desde la finalización del turno para la sociedad Technické služby Nové Strašecí s.r.o. (15:30 h) hasta el inicio del turno para la sociedad GENIO (0:30 h) no realizó (durante 9:00 h) trabajo para ningún empleador, sino que se desplazaba al lugar de trabajo para la sociedad GENIO;
+según los hechos comprobados, desde la finalización del turno para la empresa Technické služby Nové Strašecí s.r.o. (15:30 h) hasta el inicio del turno para la empresa GENIO (0:30 h) no realizaba (durante 9:00 h) trabajo para ningún empleador, sino que se desplazaba al lugar de trabajo para la empresa GENIO;
 •
-según la comunicación escrita de la sociedad GENIO, nunca llegó al turno cansado, sin descansar, etc.
-Jefe de obra de la sociedad GENIO
+según la declaración escrita de la empresa GENIO, nunca llegó al turno cansado, sin descansar, etc.
+Jefe de obra
+ de la empresa
+  GENIO
 •
-según la comunicación de la sociedad GENIO, a las 23:30 h los trabajadores tienen cita en la sede de la sociedad GENIO, desde donde viajan en vehículos de trabajo con conductores al lugar de trabajo, al finalizar los trabajos los conductores los llevan de vuelta a la sede de la sociedad, los trabajadores pueden descansar durante el trayecto;
+según la declaración de la empresa GENIO, a las 23:30 h los trabajadores tienen cita en la sede de la empresa GENIO, desde donde se desplazan en vehículos de trabajo con conductores al lugar de trabajo, al finalizar los trabajos los conductores los llevan de vuelta a la sede de la empresa, los trabajadores pueden descansar durante el trayecto;
 •
-habitualmente a aproximadamente las 0:35 h se reúnen en el vestíbulo de la estación en renovación, donde se procede al registro y al recuento de todos los trabajadores;
+habitualmente a las 0:35 h se reúnen en el vestíbulo de la estación en renovación, donde se realiza el registro y el recuento de todos los trabajadores;
 
 ## Página 68
+
 
 •
 según la comunicación de GENIO, los trabajadores de GENIO no tienen permitido el acceso a las instalaciones del metro sin un representante de la empresa Pražské silniční stavby y sin la acompañamiento de un empleado designado por DPP;
@@ -1893,31 +1892,41 @@ En la investigación no se detectaron factores relacionados con la organización
 ### 4.3.4 Factores relacionados con el entorno laboral
 En la investigación no se detectaron factores relacionados con el entorno laboral.
 
-
 ## Página 69
 
 ### 4.3.5 Otro factor relevante a efectos de la investigación
 En la investigación no se detectaron otros factores relacionados con la actuación de las personas implicadas.
-### 4.4 Mecanismos de retroalimentación y mecanismos de control, incluida la gestión de riesgos y la garantía de la seguridad, y procedimientos de seguimiento
+### 4.4 Mecanismos de retroalimentación y mecanismos de control, incluida la gestión de riesgos 
+y la garantía de la seguridad, y los procedimientos de seguimiento
 ### 4.4.1 Condiciones pertinentes del marco regulatorio
-Las condiciones pertinentes del marco regulatorio están establecidas en los Reglamentos de la Unión Europea, en la Ley núm. 266/1994 Sb. y en los decretos de aplicación.
-4.4.2 Procedimientos, métodos, contenido y resultados de las actividades de evaluación de riesgos y seguimiento realizadas por cualquiera de los sujetos implicados
-En los procedimientos, métodos, contenido y resultados de las actividades de evaluación de riesgos y seguimiento relacionados con las circunstancias de la ocurrencia de la MU en cuestión, no se detectaron deficiencias con relación causal con la ocurrencia de la MU (para más información, véase el punto 4.1.1 de la presente ZZ).
+Las condiciones pertinentes del marco regulatorio están establecidas en los Reglamentos de la Unión Europea, 
+en la ley nº 266/1994 Sb. y en los decretos de aplicación.
+4.4.2 Procedimientos, métodos, contenido y resultados de las actividades de evaluación de riesgos y de seguimiento que 
+realiza cualquiera de los sujetos implicados
+En los procedimientos, métodos, contenido y resultados de las actividades de evaluación de riesgos y de seguimiento 
+relacionados con las circunstancias del origen de la MU en cuestión, no se detectaron deficiencias en relación causal 
+con el origen de la MU (más información en el punto 4.1.1 de la presente ZZ).
 ### 4.4.3 Sistema de garantía de la seguridad de los transportistas y gestores de infraestructura implicados
-En la vía especial no existe la obligación de contar con un sistema de seguridad del gestor de infraestructura ni con un sistema de garantía de la seguridad del transporte ferroviario del transportista.
-### 4.4.4 Sistema de gestión de los sujetos responsables del mantenimiento de los vehículos ferroviarios y de los talleres de mantenimiento
-El sistema de gestión de los sujetos responsables del mantenimiento de los vehículos ferroviarios y de los talleres de mantenimiento no guardaba relación con la ocurrencia de la MU.
+En la infraestructura especial no existe la obligación de contar con un sistema de seguridad del gestor de infraestructura 
+ni con un sistema de garantía de la seguridad del transporte ferroviario del transportista.
+### 4.4.4 Sistema de gestión de los sujetos responsables del mantenimiento de los vehículos ferroviarios 
+y de los talleres de mantenimiento
+El sistema de gestión de los sujetos responsables del mantenimiento de los vehículos ferroviarios y de los talleres de mantenimiento 
+no guardaba relación con el origen de la MU.
 ### 4.4.5 Resultados de la supervisión realizada por las autoridades nacionales de seguridad
-Atendiendo a los factores detectados y a las circunstancias de la ocurrencia de la MU, la supervisión de la autoridad de seguridad no guarda relación con la MU en cuestión.
-### 4.4.6 Aprobaciones, certificados y dictámenes de evaluación emitidos por la agencia, las autoridades nacionales de seguridad u otros sujetos de evaluación de la conformidad
-El gestor de infraestructura y el transportista explotaban la vía al amparo de una autorización administrativa vigente y de una licencia vigente.
+Atendiendo a los factores detectados y a las circunstancias del origen de la MU, la supervisión de la autoridad de seguridad 
+no guarda relación con la MU en cuestión. 
+### 4.4.6 Aprobaciones, certificados y dictámenes de evaluación emitidos por la agencia, las autoridades nacionales 
+de seguridad u otros sujetos de evaluación de la conformidad
+El gestor de infraestructura y el transportista explotaban la infraestructura en virtud de una autorización administrativa vigente 
+y en virtud de una licencia vigente.
 ### 4.4.7 Otros factores sistémicos
 En la investigación no se detectaron otros factores sistémicos.
 ### 4.5 Sucesos anteriores de naturaleza similar
-La DI no tiene registrada ninguna MU similar en la vía especial.
-
+No consta en la DI la existencia de MU similares en la infraestructura especial.
 
 ## Página 70
+
 
 ## 5 CONCLUSIONES
 ### 5.1 Resumen del análisis y conclusiones relativas a las causas del suceso
@@ -1947,8 +1956,8 @@ El VSV, al tratar la evaluación de la MU, manifestó al jefe de la unidad 83142
 3. El VSV, el día 18. 12. 2025, realizó el examen extraordinario T9 para la profesión Ferroviario – VSV, de acuerdo con la norma de explotación O 2/1, con el resultado «aprobado».
 4. Se redujeron las retribuciones colectivas por rendimiento del VSV correspondientes al mes de noviembre de 2025.
 
-
 ## Página 71
+
 
 5. La Evaluación de la MU 474/B se incluirá en el programa de la próxima formación periódica obligatoria para las profesiones de maquinista de vehículos de tracción independiente y ferroviario – VSV.
 6. El jefe de la unidad 830000 garantizará, en colaboración con las demás unidades ÚT-M y JPM, la realización de una revisión del sistema de normas de explotación en relación con los trenes de servicio.
@@ -1973,8 +1982,8 @@ la emisión de la señal 53 «Atención» por el maquinista del tren de servicio
 •
 la superación de la velocidad permitida de 20 km.h-1 por el maquinista del tren de servicio S04 ante la necesidad de cumplir las condiciones de circulación según visibilidad.
 
-
 ## Página 72
+
 
 ### Additional observations
 At the infrastructure manager and the railway undertaking DPP:
@@ -2008,8 +2017,8 @@ Certificado del autor de la firma:
 Nombre: Drážní inspekce
 Emitido por: PostSignum Qualified CA 4
 
-
 ## Página 73
+
 
 ## ANEXOS
 Fig. n.º 5: Costado asegurado del 2.º vagón (PVd 11) durante la inspección de la comisión en el depósito de Hostivař
@@ -2018,8 +2027,8 @@ Fig. n.º 6: Enganche trasero de la cadena – tensor del 2.º vagón (PVd 11) e
 durante la inspección de la comisión en el depósito de Hostivař
          Fuente: DI
 
-
 ## Página 74
+
 
 Fig. n.º 7: Perfil de circulación y bordes de andén para pasajeros según la norma vigente, parte del documento Autorización n.º 087/2023/01
   Fuente: DPP. modificación DI

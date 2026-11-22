@@ -10,13 +10,14 @@ chars: 350073
 ratio_longitud: 1.26
 tokens_in: 159385
 tokens_out: 114396
-verificacion: revisar
-notas_cifras: ["bloque 7: cifras cortas: 1/179", "bloque 8: cifras cortas: 3/224", "bloque 9: original bilingüe: se compara contra el idioma principal (CS)", "bloque 10: cifras largas: 2/87; cifras cortas: 1/97", "bloque 11: cifras cortas: 8/82", "bloque 14: cifras cortas: 4/255"]
-avisos: ["bloque 24: ratio 1.62", "bloque 25: ratio 1.62"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 8: original bilingüe: se compara contra el idioma principal (CS)", "página 9: original bilingüe: se compara contra el idioma principal (CS)", "página 14: original bilingüe: se compara contra el idioma principal (CS)", "página 15: original bilingüe: se compara contra el idioma principal (CS); ratio 1.91", "página 18: original bilingüe: se compara contra el idioma principal (CS)", "página 26: original bilingüe: se compara contra el idioma principal (PT)"]
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -40,13 +41,13 @@ IČ: 75009561
 mail@dicr.cz
 tel.: +420 736 521 003
 
-
 ## Página 2
+
 
 Este informe final es público y todos los hechos en él expuestos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ## 1 RESUMEN
 Fuente: Drážní inspekce
@@ -63,10 +64,10 @@ Správa železnic, státní organizace (gestor de la vía);
 ČD Cargo, a. s. (transportista de la maniobra de maniobras).
 Consecuencias:
 1 persona fallecida, 7 personas heridas;
-daño total 238 949 819 Kč. 
-
+daño total 238 949 819 Kč.
 
 ## Página 4
+
 
 Causas inmediatas:
 •
@@ -89,8 +90,8 @@ Al menos en la red TEN-T, la Drážní inspekce recomienda implementar lo antes 
 •
 la adopción de medidas que, hasta la entrada en servicio de trenes bajo la supervisión del sistema europeo de seguridad de trenes ETCS, garanticen la incorporación de la medida de seguridad (elemento) que falta en forma de jefe de estación, quien en el pasado despachaba trenes con transporte de pasajeros situados en el espacio destinado al embarque y desembarque de pasajeros mediante la señal «Salida» (por orden escrita, por equipo de telecomunicaciones o por orden verbal), ya sea mediante una medida técnica o de otro modo, siendo
 
-
 ## Página 5
+
 
 bajo el sistema actual de explotación de la vía y del transporte ferroviario, lo más ventajoso y más fácilmente realizable, en colaboración con el Ministerio de Transporte de la República Checa, ampliar el texto del Decreto n.º 173/1995 Sb., por el que se aprueba el Reglamento de Circulación Ferroviaria, en su versión vigente, con la obligación de que la persona que dirige el servicio de acompañamiento en un tren con transporte de pasajeros o la primera persona del servicio de acompañamiento desde el frente del tren dé a la persona que conduce el vehículo ferroviario (en adelante también maquinista) la señal «Consentimiento para la salida» hasta el cumplimiento de una de las condiciones siguientes, es decir, cuando:
 ◦se haya asegurado mediante la vista u otro modo (p. ej., preguntando a la persona que conduce el vehículo ferroviario) de que la señal principal correspondiente válida para la salida de un tren concreto permite con su señal la circulación del tren, o
@@ -98,8 +99,8 @@ bajo el sistema actual de explotación de la vía y del transporte ferroviario, 
 ◦mediante una pregunta a la persona que conduce el vehículo ferroviario haya verificado la forma de autorización de la circulación del tren más allá de la señal principal correspondiente en el caso de que sus aspectos de señal no sean visibles desde el espacio destinado al desembarque y embarque de pasajeros por cualquier motivo, incluidas las condiciones establecidas por el gestor de la vía,
 es decir, que la verificación de si el gestor de la vía ha autorizado la circulación (salida) del tren en cuestión la realice, además del maquinista, otra persona cualificada del transportista (miembro del servicio de acompañamiento del tren), con lo que se creará una medida de seguridad que reducirá el riesgo de error (equivocación) del maquinista.
 
-
 ## Página 6
+
 
 ## SUMMARY
 27th June 2022, 5:03 (3:03 GMT).
@@ -149,8 +150,8 @@ enabling Full supervision mode as soon as possible and continuously. To use
 this full supervision to maximum extent possible so that even defaults trains
 pass departure signal devices of stations already in this mode;
 
-
 ## Página 7
+
 
 ◦ride of rolling stocks equipped compatible mobile part train control system of
 ETCS with track part of ETCS, which infrastructure is equip, will be realise too at
@@ -189,6 +190,7 @@ so verify, if IM allows ride (departure) train, carry out next qualified person 
 mistake of train driver.
 
 ## Página 8
+
 
 # Índice
 1 RESUMEN........................................................................................................................3
@@ -230,8 +232,8 @@ SUMMARY.........................................................................
 4.2 Vehículos ferroviarios e instalaciones técnicas..........................................................81
 4.2.1 Factores o consecuencias derivados del diseño de los vehículos ferroviarios, de la infraestructura ferroviaria o de las instalaciones técnicas.............................81
 
-
 ## Página 9
+
 
 4.2.2 Factores o consecuencias derivados de la instalación y de la puesta en servicio de los vehículos ferroviarios, de la infraestructura ferroviaria o de las instalaciones técnicas......................................................................................................83
 4.2.3 Factores o consecuencias relacionados con los fabricantes de vehículos ferroviarios u otros proveedores de productos ferroviarios........................................83
@@ -260,8 +262,8 @@ SUMMARY.........................................................................
 6 RECOMENDACIONES DE SEGURIDAD.........................................................................99
 ANEXOS.............................................................................................................................103
 
-
 ## Página 10
+
 
 ### Lista de siglas y símbolos utilizados
 APS CS
@@ -353,8 +355,8 @@ estación de radio
 Rg
 viaje de servicio
 
-
 ## Página 11
+
 
 RJ
 RegioJet, a. s.
@@ -394,6 +396,7 @@ Servicio de Emergencias Sanitarias
 estación de ferrocarril
 
 ## Página 12
+
 
 ### Lista de abreviaturas de disposiciones legales, normas y reglamentos internos utilizados
 Reglamento de la Comisión (UE) 2018/762
@@ -456,8 +459,8 @@ sistemas de información de explotación del explotador
 de la infraestructura (SPIS)», en la redacción válida en
 el momento de la producción del SU
 
-
 ## Página 13
+
 
 RE de la est. Bohumín
 reglamento interno del explotador de la infraestructura
@@ -521,8 +524,8 @@ alcohólicas y de uso de otras sustancias adictivas en
 České dráhy, a.s.», en la redacción válida en el momento
 de la producción del SU
 
-
 ## Página 14
+
 
 ## 2 INVESTIGACIÓN Y SUS RELACIONES
 ### 2.1 Decisión sobre el inicio de la investigación
@@ -572,63 +575,50 @@ y los hallazgos consignados en el informe
 En el marco de la investigación del SU, el DI procedió de la siguiente manera, es decir,
 utilizó, entre otros, los siguientes métodos y técnicas:
 
-
 ## Página 15
 
 •
-inspección del lugar del SU – de la infraestructura ferroviaria y del material rodante
-del tren Ex 516 y de la unidad de maniobras, compuesta por la locomotora de
-circulación independiente HDV CZ-ČDC 92 54 2 742 254-6 (en adelante unidad de
-maniobras ČDC, respectivamente HDV 742.254-6), en la est. Bohumín;
+inspección del lugar del accidente ferroviario – la infraestructura de la vía y el vehículo de la unidad de tracción Ex 516 y la unidad de maniobras, compuesta por el vehículo de tracción autónomo HDV CZ-ČDC 92 54 2 742 254-6 (en adelante, unidad de maniobras ČDC, o HDV 742.254-6), en la estación de Bohumín;
 •
-análisis de la documentación remitida por la PČR;
+análisis de la documentación remitida por la Policía (PČR);
 •
-análisis de la documentación solicitada al explotador de la infraestructura SŽ y a los
-transportistas ČD y ČDC;
+análisis de la documentación solicitada al gestor de la vía SŽ y a los transportistas ČD y ČDC;
 •
-análisis de los datos registrados por los RR instalados en el material rodante del tren
-Ex 516 y en la unidad de maniobras ČDC;
+análisis de los datos registrados por los registradores de datos (RR) instalados en el vehículo de la unidad de tracción Ex 516 y en la unidad de maniobras ČDC;
 •
-análisis de los datos registrados por el SZZ de la est. Bohumín;
+análisis de los datos registrados por el sistema de seguridad de la estación (SZZ) de la estación de Bohumín;
 •
-análisis de los registros del sistema de videovigilancia instalado en la est. Bohumín;
+análisis de los registros del sistema de cámaras instalado en la estación de Bohumín;
 •
-participación en las inspecciones comisionadas del material rodante participante;
+participación en las inspecciones comisionadas de los vehículos de la unidad de tracción implicados;
 •
-análisis de las explicaciones sobre el SU prestadas por los empleados y testigos
-participantes al empleador, al DI y a la PČR;
+análisis de las explicaciones sobre el accidente ferroviario presentadas por los empleados y testigos implicados, remitidas por el empleador, la DI y la Policía (PČR);
 •
-en el marco de la investigación del factor humano, utilización del método SHELL y del
-modelo de Reason.
-### 2.8 Descripción de las dificultades y problemas concretos que se plantearon durante la investigación
-Durante la investigación del SU no se plantearon dificultades ni problemas que
-pudieran tener influencia en el desarrollo de la investigación o en sus conclusiones.
-### 2.9 Interacción con los órganos judiciales
-Durante la investigación del SU objeto no se inició, ni por parte del DI ni por parte de
-los órganos judiciales, ninguna comunicación ni colaboración.
-### 2.10 Cualquier otra información con relevancia para la investigación
-Todas las circunstancias esenciales detectadas relativas al desarrollo de la
-investigación del SU objeto ya han sido indicadas más arriba.
-## 3 DESCRIPCIÓN DEL SUCESO
+dentro de la investigación del factor humano, utilización del método SHELL y del modelo de Reason.
+### 2.8 Descripción de las dificultades y problemas concretos surgidos durante la investigación
+Durante la investigación del accidente ferroviario no surgieron dificultades ni problemas que pudieran influir en el desarrollo de la investigación o en sus conclusiones.
+### 2.9 Interacción con las autoridades judiciales
+Durante la investigación del accidente ferroviario en cuestión, ni la DI ni las autoridades judiciales iniciaron ninguna comunicación ni colaboración.
+### 2.10 Cualquier otra información relevante para la investigación
+Todas las circunstancias esenciales detectadas relativas al desarrollo de la investigación del accidente ferroviario en cuestión ya han sido mencionadas más arriba.
+## 3 DESCRIPCIÓN DEL ACCIDENTE
 ### 3.1 Descripción e información básica
-### 3.1.1 Descripción del tipo de suceso
-Tipo de SU:
-colisión de MR x MR. 
-Grupo de SU:
+### 3.1.1 Descripción del tipo de accidente
+Tipo de accidente ferroviario:
+colisión de unidad de tracción x unidad de tracción.
+Grupo de accidente ferroviario:
 accidente grave.
-### 3.1.2 Fecha, hora exacta y lugar del suceso
+### 3.1.2 Fecha, hora exacta y lugar del accidente
 Fecha:
 27. 6. 2022.
 Hora:
 5:03 h
 Lugar:
-ferrocarril, categoría nacional, Bohumín – Prosenice,
-est. Bohumín, cabeza de estación central, pk 275,453.
-El lugar de la circulación no autorizada fue la señal de salida L2 de la est. Bohumín
-en el pk 275,613.
-
+vía ferroviaria, categoría nacional, Bohumín – Prosenice, estación de Bohumín, extremo central, pk 275,453.
+El lugar de la circulación no autorizada fue la señal de salida L2 de la estación de Bohumín en el pk 275,613.
 
 ## Página 16
+
 
 Coordenadas GPS:
 49.8981267N, 18.3545431E (colisión del tren Ex 516 con la unidad de
@@ -689,6 +679,7 @@ recta por la punta,
 
 ## Página 17
 
+
 desvío n.º 57 por la punta desde el sentido secundario derecho, desvío n.º 54 por la punta desde el sentido secundario izquierdo y parte del desvío n.º 53 en sentido directo contra la punta;
 •
 la SK n.º 2 no resultó dañada en modo alguno como consecuencia de la aparición de la MU;
@@ -709,8 +700,8 @@ en la parte de la SK entre los desvíos n.º 57 y 501, como consecuencia de la c
 •
 el desvío simple de izquierda n.º 501, situado en el pk 275,351, estaba asentado sobre traviesas de madera. Su lengüeta curva izquierda estaba adosada en posición terminal al apoyo, es decir, el desvío estaba conmutado al sentido principal para la circulación del DV en sentido directo hacia el grupo SK n.º 104, 506, 508, 510 y 518. Como consecuencia de la circulación del tren Ex 516 en
 
-
 ## Página 18
+
 
 estado descarrilado, resultaron dañadas todas las traviesas de madera en la parte de aguja y parte de las traviesas en la parte central, y el cierre de gancho, incl. la cubierta;
 •
@@ -723,8 +714,8 @@ la señal de salida L2 (unipolar, de mástil), situada en el pk 275,613 a la der
 ### Fig. n.º 1: Visibilidad en el momento de la aparición de la MU – una fotografía, tomada el 28. 6. 2022 en las mismas condiciones lumínicas, acredita que la posición del sol y la dirección de la luz solar (resplandor) no tuvieron un efecto negativo en la visibilidad de la señal de salida L2 ni en la reconocibilidad (no confusibilidad de la percepción) de la señal «Alto» emitida por ella.
 Fuente: DI
 
-
 ## Página 19
+
 
 •
 la señal de maniobras Se44 (unipolar, enana), situada en el pk 275,398 a la derecha junto al extremo de la rama divergente del desvío n.º 57, era de tipo AŽD 70 con dos luces de señalización, marcada solo con una placa de identificación azul con la inscripción blanca «Se44». En el momento del examen del lugar de la MU solo estaba encendida la luz azul de señalización, es decir, la señal emitía la señal «Maniobras prohibidas». La señal no resultó dañada como consecuencia de la MU;
@@ -747,8 +738,8 @@ en el monitor JOP en el DK de la est. Bohumín se mostraban, entre otros, los in
 ◦la SK entre el desvío n.º 503 y la señal de vía Sc104 se mostraba en color rojo, porque se trataba de un KÚ común con el KO del desvío n.º 503,
 ◦el KÚ de la SK n.º 4 se mostraba en color rojo y se mostraba el n.º 97023 – el KÚ estaba ocupado por el tren Ex 97023 del transportista RJ (en adelante, RJ 97023),
 
-
 ## Página 20
+
 
 ◦el KÚ de la SK n.º 508 se mostraba en color rojo y el color de su fondo era turquesa oscuro – el KÚ estaba ocupado por el TDV para los trenes Ex 1000 (en adelante, RJ 1000) y 1004 del transportista RJ, la placa de aviso contenía el número «1004»;
 •
@@ -763,6 +754,7 @@ la cabeza del HDV 681.006-3, desde cuya cabina de conducción se conducía el tr
 ◦como consecuencia de la MU resultó dañada su carrocería, habiendo sido el frente («A») totalmente destruido, es decir, el enganche automático, todos los dispositivos situados en el frente del DV, la cabina de conducción hasta el pasillo situado detrás de la cabina de conducción, los armarios de instrumentos incl. los dispositivos y circuitos eléctricos en ellos situados. El pupitre de control de la cabina de conducción fue arrancado por el impacto y girado unos 90º en dirección a la vía, estando el mando del freno automático de vacío continuo (en adelante, tubería principal) en posición de marcha (la manija del freno estaba rota), el conmutador VZ en posición «Operación», la llave de control insertada en el panel del pupitre de control, el conmutador de inclinación en posición «Apagado», el conmutador de compresores en posición «Apagado», el conmutador de los inversores estáticos de los accesorios en posición «Encendido», el conmutador del circuito de mandos en posición «ON», el visualizador de estados de servicio apagado. La unidad de visualización del RDST de a bordo MESA 26 (fabricante Funkwerk Kölleda) estaba operativa e indicaba la hora actual, el sistema de radio de vía – la comunicación de radio básica «GSM-R CZ» y el número de tren «00516», e no indicaba la inscripción «STOP», es decir, la aplicación de la orden G-STOP. Los manómetros de indicación de la presión de aire en la tubería principal y en los cilindros de freno del bogie delantero mostraban una presión de 0 bar, el manómetro del depósito principal de aire estaba desprendido del panel de manómetros – no se encontró tras la MU. En el compartimento de pasajeros, en el lateral derecho en el sentido de circulación del tren, estaba roto el relleno de vidrio de la ventana lateral n.º 5 junto al asiento n.º 51, pudiéndose deducir demostrativamente del daño que la rotura se produjo con el martillo de seguridad para la rotura de emergencia de ventanas desde el interior del DV por alguno de los pasajeros en su intento de abandonar el tren. En la zona del extremo trasero («B»), sufrió destrucción, respectivamente deformación, el enganche intermedio (entre coches), incl. la zona de deformación y el espacio alrededor del cuerpo del enganche, el fuelle de paso (intermedio) que une las unidades de DV 1.ª y 2.ª, las conexiones neumáticas y eléctricas intermedias y el suelo
 
 ## Página 21
+
 
 del espacio de acceso al morro, que estaba «abombado». Bajo el bastidor del DV resultaron dañados 6 carenados aerodinámicos (de flujo) laterales, la admisión de aire para la refrigeración del motor de tracción n.º 1 y el depósito de aguas residuales del equipo sanitario. Como consecuencia de la colisión y de la circulación en estado descarrilado, se destruyó el bogie delantero «a», incl. la suspensión, el arrancamiento del bastidor y la deformación de ambos ejes. También resultó dañada la cadena cinemática del DV, al ser arrancado el motor de tracción n.º 1 de la cuna del bogie delantero y quedar completamente destruido el árbol de transmisión cardánico, así como el caja de freno, la caja de inclinación activa y el dispositivo de suspensión lateral activa;
 •
@@ -781,8 +773,8 @@ al maquinista del tren Ex 516 se le informó antes de la circulación, de forma 
 •
 el «LIBRO DE ENTREGA 680 006», encontrado en la vía a la izquierda del bogie delantero descarrilado «a» del DV de cabeza en el espacio fuera de la aguja n.º 501, entre su carril izquierdo
 
-
 ## Página 22
+
 
 y el carril derecho de la vía de servicio contigua n.º 102, no contenía ninguna anotación que aportara información sobre una avería (defecto) que hubiera tenido o pudiera haber tenido influencia en la producción del MU, respectivamente en la función del dispositivo de freno del HDV del tren. El libro no contenía ninguna anotación sobre la toma de control de la unidad eléctrica 680.006 por parte del maquinista del tren Ex 516;
 •
@@ -808,8 +800,8 @@ destrucción del capó trasero de la caja de la locomotora, imposibilitando la a
 •
 deformación del travesaño del bastidor principal, especialmente en los puntos de los acoples de freno y bajo las placas de base de ambos amortiguadores, zona del bastidor principal a izquierda y derecha en el punto de transición del travesaño y los largueros portantes, limpiadores,
 
-
 ## Página 23
+
 
 •
 destrucción de la plataforma (pasarela peatonal) sobre el travesaño, la barandilla de la plataforma y el puente de conexión;
@@ -853,14 +845,14 @@ decir, la parte norte de la aguja central, se encontraba bajo el
 puente de carretera n.º 4711-1 que cruza sobre la vía la vía
 terrestre ul. Československé armády.
 
-
 ## Página 24
+
 
 ### Fig. n.º 2: Esquema del lugar de producción del MU
 Fuente: DI con utilización de base cartográfica www.mapy.cz
 
-
 ## Página 25
+
 
 En el lugar del MU no se realizaron, inmediatamente antes de su producción, por parte del propietario, del explotador de la vía ni de otros sujetos, ninguna obra de reparación o de mantenimiento. La circulación en el lugar del MU y sus alrededores se desarrollaba en régimen normal.
 ### 3.1.4 Fallecidos, heridos y daños materiales
@@ -907,6 +899,7 @@ despachador de línea – despachador de sección 2G CDP Přerov (en adelante de
 
 ## Página 26
 
+
 Operador (ČD):
 •
 maquinista del tren Ex 516, empleado de ČD;
@@ -950,8 +943,8 @@ El explotador de la vía ferroviaria, categoría nacional, Bohumín – Prosenic
 El operador de las maniobras ČD y de los trenes Ex 243 y Ex 516 era ČD, con domicilio en Nábřeží L. Svobody 1222, Praha 1, CP 110 15. El transporte ferroviario se prestaba en virtud de un contrato celebrado entre el explotador de la vía SŽ y el operador ČD el 20. 1. 2020, con efectos desde el 23. 1. 2020.
 El operador de la maniobra ČDC era ČDC, con domicilio en Jankovcova 1569/2c, Praha 7, CP 170 00. El transporte ferroviario se prestaba en virtud de un contrato celebrado entre el explotador de la vía SŽ y el operador ČDC el 18. 12. 2018, con efectos desde la misma fecha.
 
-
 ## Página 27
+
 
 ### 3.1.7 Descripción de los vehículos ferroviarios y sus composiciones, incluidos los números de registro
 | Tren: | Ex516 | Composición del tren: |  | Modo de frenado: |
@@ -988,8 +981,8 @@ DV intermedio transformador no motor con compartimento para pasajeros de 2.ª cl
 DV de tracción principal con compartimento para pasajeros de 2.ª clase de la serie 682, coche n.º 7.
 La unidad eléctrica 680.006 estaba equipada con tres sistemas de freno: freno de disco de fricción neumático con mando electropneumático y neumático, freno dinamoeléctrico (reostático) y freno electromagnético de riel. Para la unidad, el operador elaboró el «Informe permanente de frenado»; la última prueba de freno antes de la MU fue realizada por el maquinista 1 PP Bohumín el 27. 6. 2022 a las 1:30 h en la est. Bohumín. En los frentes exteriores de los DV de tracción principal se encontraban las cabinas del maquinista
 
-
 ## Página 28
+
 
 con pupitres de mando orientados a la derecha del puesto del maquinista, con asiento del maquinista amortiguado y regulable. La construcción de las cabinas y la disposición de los elementos de mando e indicación en el puesto permitían al maquinista conducir el HDV, observar sin obstrucción la vía y las señales, sentado y de pie, con una visibilidad desde la cabina del maquinista delante del HDV garantizada por los cristales frontales indivisos. Los frentes delanteros de los DV de tracción principal estaban equipados con enganches automáticos, que en estado inactivo estaban retraídos y protegidos por una cubierta.
 La unidad eléctrica 680.006 estaba equipada de fábrica con la parte móvil de ETCS nivel 1, que sin embargo no era compatible con la parte fija de ETCS nivel 2 instalada en la infraestructura de la vía en la est. Bohumín. La unidad no estaba equipada con el dispositivo AVV.
@@ -1004,8 +997,8 @@ De los datos registrados sobre la marcha de la maniobra ČD (marcha anterior al 
 | • a las 4:56:04 h | la maniobra ČD alcanzó la velocidad máxima de 43 km·h-1, la velocidad máxima permitida fue excedida en 3 km·h-1. En ese momento se encontraba a 489 m del lugar de detención en la vía SK n.º 2 en el ámbito de la estación de viajeros; |
 | • a las 4:56:22 h | inicio de la maniobra del maquinista con el mando de freno para detener la maniobra ČD en la vía SK n.º 2. La maniobra ČD, circulando a una velocidad de 43 km·h-1, se encontraba a una distancia de 277 m del lugar de detención en la vía SK n.º 2 en el ámbito de la estación de viajeros; |
 
-
 ## Página 29
+
 
 a las 4:56:29 h la maniobra ČD alcanzó la velocidad máxima permitida de 40 km·h-1. En ese
 •
@@ -1069,6 +1062,7 @@ maniobra ČDC. La presión de aire en la tubería principal era de
 
 ## Página 30
 
+
 5,05 bar;
 el tren circulando a 29 km·h-1 se encontraba a 122 m de la señal de
 •
@@ -1111,34 +1105,65 @@ el tren circulando a 57 km·h-1 se encontraba a 140 m del punto de aparición de
 v 5:03:16 h
 MU, es decir, tras la señal de salida L2, y a 17 m del punto de colisión con la maniobra de ČDC. En el repetidor de señal VZ estaba encendida la luz verde y comenzó a encenderse la luz del anillo amarillo;
 
-
 ## Página 31
 
-el tren circulando a 57 km·h-1 se encontraba a 156 m del punto de aparición de
+el tren circulando a una velocidad de 57 km·h-1 se encontraba a 156 m del punto de origen
 •
-v 5:03:17 h
-MU, es decir, tras la señal de salida L2, y a 1 m del punto de colisión con la maniobra de ČDC. En el repetidor de señal VZ seguía encendida la luz verde, mientras se apagaba la luz del anillo amarillo.
-### En el mismo momento se produjo la colisión del tren con la maniobra
-del transportista ČDC. En el momento de la colisión el tren circulaba a 57 km·h-1, con el frontal se encontraba a 157 m del punto de aparición de MU, es decir, tras la señal de salida L2.
-En el repetidor de señal VZ se apagó la luz verde y comenzó a encenderse la luz roja. A partir de ahí los datos registrados por el RR ya son incorrectos;
+de la MU a las 5:03:17 h,
+es decir, detrás de la señal de salida L2, y a 1 m del punto de colisión
+con el elemento de maniobras de ČDC. En el repetidor de señal VZ
+se mantenía encendida la luz verde, mientras se apagó la luz del
+anillo amarillo.
+### En el mismo momento se produjo la colisión del tren con el elemento de
+maniobras del transportista ČDC. En el momento de la colisión el tren
+circulaba a una velocidad de 57 km·h-1, y con su frontal se encontraba
+a 157 m del punto de origen de la MU, es decir, detrás de la señal de
+salida L2.
+En el repetidor de señal VZ se apagó la luz verde y comenzó a
+encenderse la luz roja. A continuación, los datos registrados por RR ya
+son incorrectos;
 •
-la parte móvil de VZ estuvo encendida durante todo el trayecto del tren Ex 516 y fue operada periódicamente por el maquinista hasta el momento de la colisión con la maniobra de ČDC.
-| Maniobra de ČDC: |  | Composición de la maniobra de ČDC: |  | Modo de frenado: |
-| Longitud de la maniobra de ČDC (m): | 1358 , | HDV: | 7422546 . - | P |
+la parte móvil de VZ estuvo activada durante todo el trayecto del tren Ex 516 y
+operada periódicamente por el maquinista hasta el momento de la colisión con el
+elemento de maniobras de ČDC.
+| Elemento de maniobras ČDC: |  | Composición del elemento de maniobras ČDC: |  | Régimen de frenado: |
+| Longitud del elemento de maniobras (m): | 1358 , | HDV: | 7422546 . - | P |
 | Número de ejes: | 4 |  |  |  |
 | Peso (t): | 64 |  |  |  |
 | Porcentaje real de frenado (%): | 65 |  |  |  |
-| Velocidad máxima permitida de la maniobra de ČDC en el punto de MU (km·h-1): | 40 |  |  |  |
+| Velocidad máxima permitida del elemento de maniobras en el punto MU (km·h-1): | 40 |  |  |  |
 | Modo de frenado: | I . |  |  |  |
-Nota sobre la maniobra de ČDC:
+Nota sobre el elemento de maniobras de ČDC:
 •
-el titular del HDV, que el transportista puso a disposición los días 26 y 27 de 6 de 2022 para el servicio de «reserva de estación ČD Cargo», era ČDC;
+el titular del HDV, que el transportista emitió los días 26 y 27 de 6 de 2022 para la
+prestación del servicio «reserva de estación ČD Cargo», era ČDC;
 •
-el desplazamiento de la maniobra se realizó con el fin de efectuar una maniobra con el TDV, que estaba estacionado en el SK n.º 508 y debía ser trasladado al SK n.º 4, a continuación acoplado al DV del tren retrasado RJ 97023 y, tras realizar todas las operaciones necesarias, salir de la est. Bohumín a las 5:04 h como tren RJ 1000.
-El HDV de la serie 742 es una locomotora diésel de cuatro ejes con carrocería tipo capó, motor diésel de combustión interna y transmisión eléctrica de potencia a los bogies motrices con disposición de ejes B'o B'o. La locomotora está equipada con freno neumático automático de acción directa y continuo, controlado desde ambas puestos del maquinista mediante frenos DAKO-BP y DAKO-BS2, y freno de mano (de seguridad) controlado desde la cabina del maquinista mediante el volante. La parte mecánica de la locomotora está construida con dos morros de capó estrechados de longitudes desiguales, entre los que se sitúa la cabina del maquinista sobre el bogie trasero de la locomotora. Esta es accesible mediante puertas de entrada desde los pasillos de la locomotora, dispuestos a ambos lados del morro frontal largo y del trasero corto. Los pasillos de la locomotora sirven no solo para permitir el acceso a la cabina del maquinista, sino también para acceder a los agregados y equipos situados en los capós. La parte frontal de los pasillos de ambos morros, incluidos los escalones, se utiliza también para la estancia de empleados del transportista que realizan actividades laborales directamente relacionadas con la circulación del HDV durante las maniobras. En la cabina del maquinista se encuentran, entre otros, dos puestos del maquinista. El principal (totalmente equipado) en la esquina frontal derecha de la cabina y el auxiliar en diagonal frente a él, en la esquina trasera izquierda.
-
+la circulación del elemento de maniobras se realizó con el fin de efectuar una maniobra
+con el TDV, que estaba estacionado en la SK n.º 508 y debía ser trasladado a la SK
+n.º 4, a continuación acoplado al DV del tren retrasado RJ 97023 y, tras realizar todas
+las operaciones necesarias, salir de la est. Bohumín a las 5:04 h como tren RJ 1000.
+El HDV de la serie 742 es una locomotora diésel de cuatro ejes de tipo capó, con
+motor de combustión diésel y transmisión eléctrica de potencia al bogie motriz con
+disposición de ejes B'o B'o. La locomotora está equipada con freno neumático
+automático de acción directa y continua, controlado por los frenadores DAKO-BP y
+DAKO-BS2 desde ambas puestos del maquinista, y con freno manual (de seguridad)
+controlado desde la cabina del maquinista mediante el volante. La parte mecánica de la
+locomotora está construida con dos morros de capó estrechados de longitudes
+desiguales, entre los que se encuentra instalada, sobre el bogie trasero de la locomotora,
+la cabina del maquinista. Esta es accesible mediante puertas de entrada desde los
+corredores de la locomotora, dispuestos a ambos lados del morro frontal largo y del
+morro trasero corto. Los corredores de la locomotora sirven no solo para permitir el
+acceso a la cabina del maquinista, sino también para acceder a los conjuntos y
+equipos situados en los capós. La parte frontal de los corredores de ambos morros,
+incluidos los escalones, es utilizada también para la permanencia de empleados del
+transportista que realizan actividades laborales directamente relacionadas con la
+circulación del HDV durante las maniobras. En la cabina del maquinista se encuentran,
+entre otros, dos puestos del maquinista. El principal (totalmente equipado) en la esquina
+frontal derecha de la cabina y el auxiliar en diagonal frente a él, en la esquina trasera
+izquierda.
 
 ## Página 32
+
 
 El HDV 742.254-6 de la maniobra de ČDC estaba equipado con un dispositivo de registro automático de datos con registro mecánico de datos Metra, tipo 662-A504, n.º 79034. De los datos registrados sobre el trayecto de la maniobra de ČDC hasta la parada en la posición final tras la aparición de MU, y tras redondear los datos temporales a minutos completos, los datos de velocidad a kilómetros por hora completos y los datos de distancia a metros completos, se deduce, entre otros, que:
 | • a las 4:53 h | la maniobra en el SK n.º 616a en el ámbito Bohumín-Vrbice fue puesta en movimiento. Durante el trayecto hacia el ámbito de la plataforma derecha en el SK n.º 104 se registró por el RR una velocidad máxima de 40 km·h-1, siendo así que la maniobra se detuvo en total en 3 ocasiones por un período muy breve; |
@@ -1154,8 +1179,8 @@ En el DOZ del SZZ de la est. Bohumín, atendido según el PNDOZ del CDP Přerov 
 el despachador de circulación 1G, entre otros:
 ◦en colaboración con el despachador de sección 1G del CDP Přerov y los despachadores de las estaciones de entrada (Ostrava hl. n., Karviná hl. n. y Chałupki PKP) en las líneas nacionales (Chałupki PKP) – Bohumín frontera estatal – Bohumín y Bohumín – Prosenice, dirigía y organizaba el tráfico ferroviario, incluida la operación de los equipos de la vía desde el JOP para la circulación de trenes y PMD, en la estación Bohumín desde los semáforos principales (de entrada) (en adelante, semáforo de entrada) 1L, 2L (desde la dirección de la est. Dětmarovice) hasta los semáforos de entrada 1S, 2S (desde la dirección de la est. Ostrava hl. n.) y CS (desde la dirección de
 
-
 ## Página 33
+
 
 la est. Chałupki PKP) excepto los SK de tráfico n.º 27, 329, 331 y 333, 405 – 411, 506, 508, 93 y 94, y en el ámbito Bohumín-Vrbice excepto los SK de tráfico n.º 604 – 628,
 ◦asignaba tareas a los despachadores de sección 2G y 3G.
@@ -1179,6 +1204,7 @@ En la zona controlada se permitía a los despachadores de línea establecer todo
 
 ## Página 34
 
+
 Para el ascenso y descenso de los viajeros servían, en el ámbito de la estación de pasajeros de la est. Bohumín, cuatro andenes elevados y parcialmente cubiertos (techados) con una altura del borde de andén sobre la línea que une los cantos de los raíles de 300 a 550 mm. Entre la SK n.º 2 y la 4 se situaba el andén n.º 2, que por su construcción era un andén isla con bordes de andén en ambos lados. La longitud total del andén, cuyo extremo se encontraba a una distancia de 125 m de la señal de salida L2, era de 450 m, de los cuales 192 m estaban dotados de cobertura de andén.
 En la est. se estableció la expedición de trenes con transporte de viajeros mediante la colocación de la señal principal en la señal que autoriza la circulación del tren.
 Bajo las SK n.º 1, 2, 3, 4, 5 y 6a, en el km 275,908, en el ámbito de la estación de pasajeros de la est. Bohumín, se construyó un elemento de puente – paso subterráneo – que permitía el acceso a nivel distinto de las personas desde el vestíbulo del edificio de expedición a los andenes isla n.º 2, 3 y 4 y de vuelta.
@@ -1190,8 +1216,8 @@ La aguja n.º 53 era, por su construcción, una aguja simple, de mano derecha, d
 La aguja n.º 54 [en el sentido de circulación del tren Ex 516 determinante para la circulación de la DV en dirección Ostrava hl. n., respectivamente Bohumín frontera estatal (Chałupki PKP) – alternativamente al grupo de SK n.º 104, 506, 508 y 518] era, por su construcción, una aguja simple, de mano derecha, de perfil J60-1:11-300Pp, cuyo ZV se encontraba en el km 275,433, es decir, a una distancia de 20 m después del punto de colisión del tren Ex 516 con la maniobra de ČDC. La aguja, soldada en la vía continua, estaba apoyada sobre traviesas VPS.
 La señal de maniobras Se44 era, por su construcción, una señal enana, situada a la derecha directamente junto al extremo de la rama desviadora de la aguja n.º 57, en el km 275,398, es decir, a una distancia de 55 m después del punto de colisión del tren Ex 516 con la maniobra de ČDC.
 
-
 ## Página 35
+
 
 La aguja n.º 57 era, por su construcción, una aguja simple, de mano derecha, de perfil J60-1:9-300Pp, cuyo ZV se encontraba en el km 275,392, es decir, a una distancia de 61 m después del punto de colisión del tren Ex 516 con la maniobra de ČDC. La aguja, soldada en la vía continua, estaba apoyada sobre traviesas VPS.
 La aguja n.º 501 era, por su construcción, una aguja simple, de mano izquierda, de perfil JR65-1:11-300Ll, cuyo ZV se encontraba en el km 275,351, es decir, a una distancia de 102 m después del punto de colisión del tren Ex 516 con la maniobra de ČDC. La aguja, soldada en la vía continua, estaba apoyada sobre traviesas de madera.
@@ -1216,8 +1242,8 @@ La infraestructura de la vía en la est. Bohumín no estaba equipada con el sist
 La infraestructura de la vía en la est. Bohumín estaba equipada con la parte fija de ETCS nivel 2, que forma parte del sistema ERTMS «European Rail Traffic Management System» (sistema europeo de gestión del tráfico ferroviario). En el momento del origen de la MU, SŽ operaba la parte fija de ETCS de la est. Bohumín en el marco de la 2.ª etapa de la explotación de prueba de la parte de vía del tramo Petrovice u Karviné – Ostrava – Přerov – Moravská Nová Ves.
 Según el documento del Ministerio de Transporte «Plan de moderna seguridad de la ferrocarril checa – Implementación del equipo europeo de seguridad de trenes ETCS», debería establecerse en el tramo Petrovice frontera est. – Přerov – Břeclav, es decir, también en la est. Bohumín, la explotación exclusiva de trenes bajo supervisión de ETCS a partir del año 2025.
 
-
 ## Página 36
+
 
 Del análisis de los datos registrados por el TPC 3 de la SZZ de la est. Bohumín gestionada a distancia con DOZ, que contenía las actuaciones realizadas por el empleado operador – despachador de sección 2G –, de la sala n.º 7 del CDP Přerov, el 26 de junio de 2022 en el horario de 18:50 h a 20:00 h, se comprobó, tras tener en cuenta la desviación temporal entre el tiempo real y el tiempo registrado por la SZZ de la est. Bohumín, entre otros extremos, que el tren Ex 243 entró íntegramente en la SK n.º 1 de la est. Bohumín a las 18:59:12 h, donde finalizó su circulación. Posteriormente, con la unidad eléctrica 680.007 del tren Ex 243, se realizó una maniobra desde la SK n.º 1 en el ámbito de la estación de pasajeros, a través de la SK n.º 205 en el ámbito de la estación de apartadero, hasta la SK n.º 343 en el ámbito THÚ, situada en la nave THÚ, en la que la maniobra entró íntegramente a las 19:49:42 h. En la nave THÚ, en el turno nocturno del 26 al 27 de junio de 2023, se realizó el mantenimiento técnico-económico de la unidad eléctrica en cuestión antes de su asignación al tren Ex 512.
 Del análisis de los datos registrados por el TPC 3 de la SZZ de la est. Bohumín gestionada a distancia con DOZ, que contenía las actuaciones realizadas por los empleados operadores – despachadores de vía del CDP Přerov (el despachador director 1G y los despachadores de sección 2G y 3G) –, de la sala n.º 7, el 27 de junio de 2022 en el horario de 1:44:21 h a 8:06:39 h, se comprobó, tras tener en cuenta la desviación temporal entre el tiempo real y el tiempo registrado por la SZZ de la est. Bohumín, entre otros extremos:
@@ -1235,33 +1261,60 @@ Nota DI: tras la realización del mantenimiento técnico-económico, la unidad e
 •
 a las 4:53:55 h, tras el cierre del itinerario de maniobra realizado por la acción automática de la SZZ, se estableció en el ámbito de la estación de pasajeros el itinerario de maniobra desde
 
-
 ## Página 37
 
-la señal de maniobras Se8 hasta la SK delimitada por la aguja n.º 10 y la señal de maniobras Se11 y, a continuación, desde la señal de maniobras Se11 hasta la SK n.º 2. Las señales de maniobras Se8 y Se11 comenzaron a emitir la señal «Maniobra autorizada».
-Nota DI: se trataba de la parte parcial del itinerario de maniobra establecido para la circulación de la maniobra de ČD desde la SK n.º 205 hasta la SK n.º 2, es decir, para la circulación desde el ámbito de la estación de apartadero hasta el ámbito de la estación de pasajeros;
+de la señal de maniobras Se8 en la vía de cambio (SK) delimitada por el desvío n.º 10
+y la señal de maniobras Se11, y más allá desde la señal de maniobras
+Se11 en la SK n.º 2. Las señales de maniobras Se8 y Se11 comenzaron a emitir
+la señal «Maniobras permitidas».
+Nota DI: se trataba de una parte parcial de la ruta de maniobras establecida para la circulación
+del tramo de maniobras ČD desde la SK n.º 205 hasta la SK n.º 2, es decir, para la circulación
+desde el ámbito de la estación de clasificación hasta el ámbito de la estación de viajeros;
 •
-a las 4:53:57 h, el extremo delantero de la maniobra de ČDC pasó la señal de maniobras Se626. 5 s después (a las 4:54:02 h), la maniobra liberó la SK n.º 616a;
+a las 4:53:57 h el frente del tramo de maniobras ČDC pasó la señal de maniobras
+Se626.
+5 s después (a las 4:54:02 h) el tramo de maniobras liberó la SK n.º 616a;
 •
-a las 4:54:05 h, tras el cierre del itinerario de maniobra realizado por la acción automática de la SZZ, se estableció el itinerario de maniobra desde el ámbito de la estación de apartadero desde la SK n.º 205 hasta el ámbito de la estación de pasajeros en la SK n.º 1a. La señal de maniobras Se218 comenzó a emitir la señal «Maniobra autorizada».
-Nota DI: con esta parte del itinerario de maniobra se estableció el itinerario de maniobra completo para la circulación de la maniobra de ČD desde la SK n.º 205 hasta la SK n.º 2, es decir, para la circulación desde el ámbito de la estación de apartadero hasta el ámbito de la estación de pasajeros;
+a las 4:54:05 h, tras el cierre de la ruta de maniobras realizado por el funcionamiento automático del SZZ, se estableció la ruta de maniobras desde el ámbito de la estación de clasificación desde la SK
+n.º 205 hasta el ámbito de la estación de viajeros en la SK n.º 1a. La señal de maniobras
+Se218 comenzó a emitir la señal «Maniobras permitidas».
+Nota DI: con esta parte de la ruta de maniobras se estableció la ruta de maniobras
+completa para la circulación del tramo de maniobras ČD desde la SK n.º 205 hasta la SK n.º 2,
+es decir, para la circulación desde el ámbito de la estación de clasificación hasta el ámbito de la estación de viajeros;
 •
-a las 4:54:13 h, la maniobra de ČDC ocupó la SK n.º 604a;
+a las 4:54:13 h el tramo de maniobras ČDC ocupó la SK n.º 604a;
 •
-a las 4:54:29 h, el extremo delantero de la maniobra de ČDC pasó la señal de maniobras Se621. 7 s después (a las 4:54:36 h), la maniobra liberó la SK n.º 604a;
+a las 4:54:29 h el frente del tramo de maniobras ČDC pasó la señal de maniobras
+Se621.
+7 s después (a las 4:54:36 h) el tramo de maniobras liberó la SK n.º 604a;
 •
-a las 4:54:49 h, el extremo delantero de la maniobra de ČD pasó la señal de maniobras Se218. 21 s después (a las 4:55:10 h), la maniobra liberó la SK n.º 205;
+a las 4:54:49 h el frente del tramo de maniobras ČD pasó la señal de maniobras
+Se218.
+21 s después (a las 4:55:10 h) el tramo de maniobras liberó la SK n.º 205;
 •
-a las 4:55:11 h, mediante la operación normal de la SZZ, el despachador de sección 3G introdujo las actuaciones para la circulación de la maniobra de ČDC desde el ámbito Bohumín-Vrbice hasta el ámbito del andén delantero derecho desde la SK n.º 610 desde la señal de itinerario Sc610 a través de las agujas n.º 618, 614, 612a, 611, 609, 608 y 607 hasta la SK n.º 94, pasando junto a la señal de maniobras Se609;
+a las 4:55:11 h mediante el funcionamiento normal del SZZ, el despachador de sección 3G introdujo las operaciones para
+la circulación del tramo de maniobras ČDC desde el ámbito de Bohumín-Vrbice hasta el ámbito
+del andén derecho desde la SK n.º 610 desde la señal de camino Sc610 a través de
+los desvíos n.º 618, 614, 612a, 611, 609, 608 y 607 hasta la SK n.º 94, alrededor de
+la señal de maniobras Se609;
 •
-a las 4:55:14 h, tras el cierre del itinerario de maniobra realizado por la acción automática de la SZZ, se estableció desde el ámbito Bohumín-Vrbice hasta el ámbito del andén delantero derecho el itinerario de maniobra desde la señal de maniobras Se609 hasta la SK n.º 94. La señal de maniobras Se609 comenzó a emitir la señal «Maniobra autorizada».
-Nota DI: se trataba de la parte parcial del itinerario de maniobra establecido para la circulación de la maniobra de ČDC desde la SK n.º 610 hasta la SK n.º 94;
+a las 4:55:14 h, tras el cierre de la ruta de maniobras realizado por el funcionamiento automático del SZZ, se estableció desde el ámbito de Bohumín-Vrbice hasta el ámbito del andén derecho
+la ruta de maniobras desde la señal de maniobras Se609 en
+la SK n.º 94. La señal de maniobras Se609 comenzó a emitir la señal
+«Maniobras permitidas».
+Nota DI: se trataba de una parte parcial de la ruta de maniobras establecida para la circulación
+del tramo de maniobras ČDC desde la SK n.º 610 hasta la SK n.º 94;
 •
-a las 4:55:18 h, la maniobra de ČD entró en la SK n.º 1a. 5 s después (a las 4:55:23 h), el extremo delantero de la maniobra pasó la señal de maniobras Se8;
+a las 4:55:18 h el tramo de maniobras ČD entró en la SK n.º 1a.
+5 s después (a las 4:55:23 h) el frente del tramo de maniobras
+pasó la señal de maniobras Se8;
 •
-a las 4:55:21 h, la maniobra de ČDC ocupó la SK n.º 610. 4 s después (a las 4:55:25 h), la maniobra liberó la aguja del andén de Ostrava;
+a las 4:55:21 h el tramo de maniobras ČDC ocupó la SK n.º 610.
+4 s después (a las 4:55:25 h) el tramo de maniobras liberó los desvíos
+del extremo de Ostrava;
 
 ## Página 38
+
 
 •
 a las 4:55:25 h, tras la delimitación de la vía de maniobras realizada por la acción automática del SZZ, se estableció en el área Bohumín-Vrbice una vía de maniobras desde la señal de vía Sc610 hacia la SK delimitada por las señales de clasificación Se609 y Se610. La señal de vía Sc610 comenzó a indicar la señal «Maniobras permitidas».
@@ -1294,8 +1347,8 @@ Nota DI: en el caso del tren RJ 97023 se trataba del tren Ex 1022, circulando en
 a las 4:59:18 h, tras la delimitación de la vía de tren realizada por la acción automática del SZZ desde la señal de entrada CS de la est. Bohumín, se estableció la vía de tren hacia la SK n.º 4 de la est. Bohumín para la circulación del tren RJ 97023, es decir, desde la TK n.º 1 (Chałupki PKP) – Bohumín frontera estatal – Bohumín estación de pasajeros.
 2 s después (a las 4:59:20 h) la señal de entrada CS comenzó a indicar la señal «Velocidad 40 km/h y aviso», que estaba complementada con el indicador con el dígito «5»;
 
-
 ## Página 39
+
 
 •
 a las 4:59:19 h el frente de la unidad de maniobras ČDC pasó la señal de vía Sc94.
@@ -1363,8 +1416,8 @@ Nota DI: a partir de los datos registrados no es posible determinar de forma ine
 en que el KO V52-53 fue ocupado no solo por el tren Ex 516, sino también
 por la unidad de maniobras ČDC;
 
-
 ## Página 40
+
 
 | • | a las 5:03:16 h | la unidad de maniobras ČDC liberó el KO V57 y entró más allá del nivel de la señal de clasificación Se44 válida para la circulación en sentido contrario; |
 | • | a las 5:03:20 h | la unidad de maniobras ČDC volvió a ocupar el KO V57 y entró más allá de la señal de clasificación Se44 en sentido de vuelta hacia la SK n.º 104 . . Nota DI: la causa de la circulación en sentido de vuelta de la unidad de maniobras ČDC fue la colisión . |
@@ -1414,8 +1467,8 @@ Tras la emisión de la orden «STOP VLAK» (uso de la instrucción G-STOP) se:
 muestra en la pantalla del RDST del vehículo el texto «STOP!» (y esto hasta el momento de una nueva manipulación
 con dicho RDST o hasta su apagado) y en el equipo de radio de tren
 
-
 ## Página 41
+
 
 del sistema GSM-R CZ se activa la función de aviso de voz automático «¡ATENCIÓN,
 ¡ATENCIÓN, todos los trenes en recepción STOP, STOP!»;
@@ -1464,6 +1517,7 @@ la unidad de maniobras ČDC. El maquinista de la unidad de maniobras ČDC fue in
 
 ## Página 42
 
+
 o la marcha desde SK n.º 104 a SK n.º 508, habiendo tomado el maquinista conocimiento de la información dada y confirmado que la entendía,
 ◦posteriormente, para la parte de maniobras de ČDC, estableció la ruta de maniobras desde SK n.º 104 a SK n.º 4, es decir, desde el ámbito de la vía delantera derecha al ámbito de la estación de pasajeros, ya que para la marcha a SK n.º 508 era necesario rebasar el nivel de la señal de agrupamiento Se44 válida para la marcha en sentido contrario, a fin de poder realizar la marcha en sentido contrario a SK n.º 508, es decir, de vuelta al ámbito de la vía delantera derecha. La maniobra en cuestión era necesaria para acoplar la parte del tren que se encontraba en SK n.º 508, destinada al tren RJ 1000, la cual debía unirse en el ámbito de la estación de pasajeros en SK n.º 4 con el tren retrasado RJ 97023 y, a continuación, continuar como tren RJ 1000 desde Bohumín hasta Praga, cuya salida regular era a las 5:04 h,
 ◦estableció la ruta de maniobras para la marcha de la parte de maniobras de ČDC desde SK n.º 104 a SK n.º 4 a pesar de que en la aplicación operativa ISOŘ se hubiera declarado la preparación del tren Ex 516 para la salida. Sin embargo, de los hechos anteriores sabía que el maquinista del tren Ex 516 no se había incorporado al servicio (turno) y, en el momento en que establecía la ruta de maniobras para la marcha de la parte de maniobras de ČDC desde SK n.º 104 a SK n.º 4, no tenía ninguna información de que dicho maquinista se hubiera presentado al tren Ex 516 y de que el tren Ex 516 estuviera, por tanto, listo para salir de la est. Bohumín,
@@ -1475,33 +1529,34 @@ Nota DI: en la marcha simultánea de la parte de maniobras de ČDC y del tren Ex
 ◦tras comprobar que, como consecuencia de la MU, se había producido un perjuicio para la salud de personas, emitió al jefe de guardia de la est. Bohumín la orden de activar el IZS,
 ◦a continuación, con el fin de determinar otras consecuencias de la MU, contactó telefónicamente con el jefe de servicio del SC Pendolino;
 
-
 ## Página 43
 
 •
-maquinista de la parte de maniobras de ČDC
-  – Acta con el empleado y Registro oficial sobre la declaración prestada ante la PČR:
-◦el 26. 6. 2022 a las 17:40 h se incorporó al turno nocturno en la est. Bohumín, ámbito Bohumín-Vrbice, y durante todo el tiempo de prestación del servicio (turno) condujo el HDV 742.254-6 en el marco de las marchas de las partes de maniobras en la est. Bohumín,
-◦el 27. 6. 2022 a las ca. 4:30 h recibió del jefe de maniobras la información de la realización de una maniobra para el operador RJ en el ámbito de la estación de pasajeros, debiendo realizarse primero la marcha desde el ámbito Bohumín-Vrbice al ámbito de la vía delantera derecha a SK n.º 508 para los TDV estacionados, los cuales debían unirse a continuación con el tren RJ 97023,
-◦la parte de maniobras de ČDC salió del ámbito Bohumín-Vrbice a las ca. 4:40 h y durante todo el tiempo de la maniobra realizada se encontraban en la cabina del maquinista del HDV 742.254-6 también el jefe de maniobras y el maniobrador,
-◦aún en el ámbito Bohumín-Vrbice se incorporó al HDV 742.254-6 el maquinista Rg, que debía marchar al ámbito de la estación de pasajeros y, a continuación, continuar hasta Ostrava. No recuerda si el maquinista Rg estuvo en la cabina del maquinista durante la maniobra,
-◦tras detenerse en SK n.º 104 en el ámbito de la vía delantera derecha, recibió la información de la marcha desde SK n.º 104 al extremo central más allá de la señal de agrupamiento Se44 válida para la marcha en sentido contrario,
-◦tras realizar la marcha desde SK n.º 104 al extremo central y detenerse detrás de la señal de agrupamiento Se44, esperaba el establecimiento de la ruta de maniobras a SK n.º 508,
-◦no recuerda si, tras detenerse la parte de maniobras en el extremo central, manipuló los elementos de mando del HDV,
-◦mientras esperaba el establecimiento de la ruta de maniobras a SK n.º 508, oyó al jefe de maniobras de la parte de maniobras de ČDC, que con voz elevada dijo: «¡Todos agárrense, viene el Pendolino hacia nosotros!». Ante este aviso se giró, miró la unidad eléctrica en marcha (no podía ver dentro de la cabina del maquinista) y tras ca. 1 a 2 s se produjo la colisión,
-◦tras la colisión perdió el conocimiento – tras recobrar la conciencia, estaba en estado de shock, pero recuerda que quedó solo en la cabina del maquinista y, antes de abandonar la cabina del HDV, desconectó en el cuadro de distribución, mediante el desconector de cuchillas, el suministro de las baterías acumuladoras,
-◦a consecuencia de la pérdida de conocimiento, no recuerda de qué manera detuvo la parte de maniobras tras la colisión,
-◦a consecuencia de la MU sufrió un perjuicio para la salud.
+maquinista de maniobras de la unidad de maniobras de ČDC
+  – Acta con el empleado y Registro oficial sobre la declaración prestada ante la Policía:
+◦el 26 de junio de 2022 a las 17:40 h entró en el turno nocturno en la est. Bohumín, distrito Bohumín-Vrbice, y durante todo el tiempo de prestación de servicios (turno) condujo el HDV 742.254-6 en el marco de los trayectos de las unidades de maniobras en la est. Bohumín,
+◦el 27 de junio de 2022 a las aprox. 4:30 h recibió del jefe de maniobras la información de la realización de una maniobra para el operador RJ en el distrito de la estación de pasajeros, debiendo realizarse primero un trayecto desde el distrito Bohumín-Vrbice hasta el distrito de la derecha de la estación en la SK n.º 508 para el TDV estacionado, que debía ser acoplado posteriormente con el tren RJ 97023,
+◦la unidad de maniobras de ČDC partió del distrito Bohumín-Vrbice a las aprox. 4:40 h y durante toda la duración de la maniobra realizada se encontraban en la cabina del maquinista del HDV 742.254-6 también el jefe de maniobras y el operador de maniobras,
+◦aún en el distrito Bohumín-Vrbice subió al HDV 742.254-6 el maquinista Rg, que debía viajar al distrito de la estación de pasajeros y continuar después a Ostrava. No recuerda si el maquinista Rg estuvo en la cabina del maquinista durante la maniobra,
+◦tras detenerse en la SK n.º 104 en el distrito de la derecha de la estación, recibió la información del trayecto desde la SK n.º 104 hasta la cabecera central tras la señal de clasificación Se44 válida para el trayecto en sentido contrario,
+◦tras realizar el trayecto desde la SK n.º 104 hasta la cabecera central y detenerse tras la señal de clasificación Se44, esperaba la establecimiento de la vía de maniobras en la SK n.º 508,
+◦no recuerda si, tras la detención de la unidad de maniobras en la cabecera central, manipuló los elementos de mando del HDV,
+◦mientras esperaba el establecimiento de la vía de maniobras en la SK n.º 508, escuchó al jefe de maniobras de la unidad de maniobras de ČDC, que con voz elevada comunicó: «¡Todos agáchense, viene un Pendolino hacia nosotros!». Ante este aviso se giró, miró la unidad eléctrica en marcha (no podía ver la cabina del maquinista) y tras aprox. 1 a 2 s se produjo la colisión,
+◦tras la colisión perdió el conocimiento – al recobrar la conciencia estaba en estado de shock, pero recuerda que quedó solo en la cabina del maquinista y, antes de abandonar la cabina del HDV, desconectó en el cuadro de distribución mediante el desconectador de cuchillas la alimentación de las baterías acumuladoras,
+◦a consecuencia de la pérdida de conocimiento no recuerda de qué manera se detuvo la unidad de maniobras tras la colisión,
+◦a consecuencia de la MU sufrió un perjuicio para su salud.
+
 Resumen de las declaraciones prestadas por otros testigos:
+
 •
 despachante director 1G
   – Acta con el empleado:
-◦el 26. 6. 2022 se incorporó al turno nocturno en el CDP Přerov y dirigió y organizó el tráfico ferroviario en la est. Bohumín,
-◦el 27. 6. 2022 registró que el despachante de sección 2G:
-▪a las ca. 4:45 h contactó telefónicamente con el jefe de taller PP Bohumín, al que informó de que el maquinista del tren Ex 516 aún no se había presentado.
-
+◦el 26 de junio de 2022 entró en el turno nocturno en el CDP Přerov y dirigió y organizó el tráfico ferroviario en la est. Bohumín,
+◦el 27 de junio de 2022 registró que el despachante de sección 2G:
+▪a las aprox. 4:45 h contactó telefónicamente con el jefe de taller PP Bohumín, al que informó del hecho de que aún no se había reportado el maquinista del tren Ex 516.
 
 ## Página 44
+
 
 Nota DI: el maquinista del tren Ex 516 debía acordar con el despachante de sección 2G y, a continuación, realizar la marcha de la parte de maniobras de ČD desde SK n.º 205 del ámbito de la estación de estacionamiento a SK n.º 2 del ámbito de la estación de pasajeros,
 ▪posteriormente, tras la conversación con el jefe de taller PP Bohumín, contactó telefónicamente con el maquinista 1 PP Bohumín, con el que acordó el acoplamiento del tren para el tren Ex 516 desde SK n.º 205 a SK n.º 2 en forma de maniobra, debiendo el maquinista 1 PP Bohumín, tras la llegada de la parte de maniobras de ČD a SK n.º 2, esperar al maquinista del tren Ex 516,
@@ -1519,45 +1574,43 @@ jefe de guardia de la est. Bohumín
   – Acta con el empleado:
 ◦el 26. 6. 2022 se incorporó al turno nocturno en la est. Bohumín,
 
-
 ## Página 45
 
-◦a las ca. 4:55 h se acopló en SK n.º 2 de la est. Bohumín el tren destinado al tren Ex 516, al cuyo maquinista debía notificar mediante una orden escrita,
-◦tras llegar al extremo DV del tren Ex 516 (el frontal en el sentido de marcha del tren), entregó para firma al maquinista 1 PP Bohumín la orden escrita «V» para el tren Ex 516, la cual dicho maquinista recibió y firmó. Al mismo tiempo, recibió de él la información de que el maquinista del tren Ex 516 aún no se había incorporado al servicio (turno) y también de que no había logrado establecer contacto telefónico con él,
-◦tras entregar la orden escrita «V» para el tren Ex 516 al maquinista 1 PP Bohumín, se alejó del extremo DV del tren Ex 516 por el andén n.º 2 de vuelta al DK de la est. Bohumín,
-◦al regresar caminando al DK, encontró todavía en el andén n.º 2 al maquinista del tren Ex 516, al que comunicó que la orden escrita «V» para el tren Ex 516 la había recibido y firmado el maquinista 1 PP Bohumín. Al mismo tiempo, le instó a recoger dicha orden del maquinista 1 PP Bohumín,
-◦a las 5:05 h recibió del despachante de sección 2G la información telefónica de la colisión del tren Ex 516 con la parte de maniobras de ČDC y también la orden de activar el IZS. Inmediatamente comunicó telefónicamente la producción de la MU al ZZS, donde se enteró de que el ZZS ya había informado al HZS y, a continuación, comunicó telefónicamente la producción de la MU a la PČR;
-•
-jefe de maniobras
-  – Acta con el empleado y Registro oficial sobre la declaración prestada ante la PČR:
-◦el 26. 6. 2022 a las 18:00 h se incorporó al servicio (turno) en la est. Bohumín, ámbito Bohumín-Vrbice, y durante todo el tiempo del turno dirigió la maniobra realizada en la est. Bohumín con la llamada 2.ª reserva,
-◦el 27. 6. 2022 a las ca. 4:30 h recibió del despachante – jefe de turno de ČDC la orden de realizar una maniobra para el operador RJ en el ámbito de la estación de pasajeros, debiendo realizarse primero la marcha desde el ámbito Bohumín-Vrbice al ámbito de la vía delantera derecha a SK n.º 508 para 8 TDV estacionados, los cuales debían unirse a continuación con el tren RJ 97023,
-◦como según los procedimientos tecnológicos de ČDC el jefe de maniobras es la persona que dirige la maniobra en la est. Bohumín, acordó con el despachante de línea del CDP Přerov la marcha de la parte de maniobras desde el ámbito Bohumín-Vrbice al ámbito de la estación de pasajeros,
-◦la parte de maniobras de ČDC salió del ámbito Bohumín-Vrbice a las ca. 4:40 h y durante todo el tiempo de la maniobra realizada se encontraba en la cabina del maquinista del HDV 742.254-6 junto con el maquinista de la parte de maniobras de ČDC y el maniobrador, conduciendo el maquinista el HDV desde el puesto principal del maquinista, es decir, el izquierdo en el sentido de marcha desde el ámbito Bohumín-Vrbice,
-◦aún antes de salir del ámbito Bohumín-Vrbice recibió del despachante – jefe de turno de ČDC la información de que con ellos viajaría al ámbito de la estación de pasajeros el maquinista Rg, el cual debía continuar a continuación hasta Ostrava. Tras su incorporación, el maquinista Rg no entró en la cabina del maquinista durante todo el tiempo de la maniobra, permaneciendo de pie en la plataforma o en los escalones delanteros de la locomotora,
-◦tras detenerse en SK n.º 104, recibieron del despachante de sección 2G la orden de marchar más allá de la señal de agrupamiento válida para la marcha en sentido contrario.
-Nota DI: se trataba de la señal de agrupamiento Se44,
+◦ hacia las 4:55 h se estacionó en la SK n.º 2 de la estación de Bohumín la composición destinada al tren Ex 516, cuyo maquinista debía ser notificado mediante una orden escrita,
+◦ tras llegar al DV de cabeza del tren Ex 516 (delantero en el sentido de circulación del tren), entregó la orden escrita «V» para el tren Ex 516 a firmar al maquinista 1 PP Bohumín, quien recibió y firmó dicha orden escrita. A la vez, recibió de él la información de que el maquinista del tren Ex 516 aún no había incorporado su servicio (turno) y también de que no había logrado establecer contacto telefónico con él,
+◦ tras la entrega de la orden escrita «V» para el tren Ex 516 al maquinista 1 PP Bohumín, se alejó del DV de cabeza del tren Ex 516 por el andén n.º 2 de vuelta al DK de la estación de Bohumín,
+◦ al regresar caminando al DK, encontró todavía en el andén n.º 2 al maquinista del tren Ex 516, a quien le comunicó que la orden escrita «V» para el tren Ex 516 había sido recibida y firmada por el maquinista 1 PP Bohumín. A la vez, le instó a recoger dicha orden al maquinista 1 PP Bohumín,
+◦ a las 5:05 h recibió del despachador de sección 2G una información telefónica sobre la colisión del tren Ex 516 con un elemento de maniobras de ČDC, así como la instrucción para activar el IZS. Inmediatamente, el MU notificó por teléfono al ZZS, donde se enteró de que el ZZS ya había informado al HZS, y a continuación el MU notificó por teléfono al PČR;
+• jefe de maniobras
+  – Acta con el empleado y Registro oficial de la declaración prestada ante el PČR:
+◦ el 26. 6. 2022 a las 18:00 h incorporó su servicio (turno) en la estación de Bohumín, distrito Bohumín-Vrbice, y durante todo el turno dirigió las maniobras realizadas en la estación de Bohumín con la llamada 2.ª reserva,
+◦ el 27. 6. 2022 hacia las 4:30 h recibió del despachador – jefe de turno de ČDC la instrucción para realizar las maniobras para el operador RJ en el distrito de la estación de pasajeros, debiendo realizarse primero la marcha desde el distrito Bohumín-Vrbice hasta el distrito de la estación de pasajeros de la derecha en la SK n.º 508 para 8 TDV estacionados, que a continuación debían ser acoplados al tren RJ 97023,
+◦ puesto que según los procedimientos tecnológicos de ČDC en la estación de Bohumín el jefe de maniobras es la persona que dirige las maniobras, acordó con el despachador de línea CDP Přerov la marcha del elemento de maniobras desde el distrito Bohumín-Vrbice hasta el distrito de la estación de pasajeros,
+◦ desde el distrito Bohumín-Vrbice partió el elemento de maniobras de ČDC hacia las 4:40 h y durante todo el tiempo de realización de las maniobras se encontró en la cabina del maquinista del HDV 742.254-6 junto con el maquinista del elemento de maniobras de ČDC y el maniobrista, siendo el maquinista quien conducía el HDV desde el puesto principal del maquinista, es decir, el izquierdo en el sentido de circulación desde el distrito Bohumín-Vrbice,
+◦ antes incluso de partir del distrito Bohumín-Vrbice recibió del despachador – jefe de turno de ČDC la información de que con ellos viajaría hasta el distrito de la estación de pasajeros el maquinista Rg, quien a continuación debía continuar hasta Ostrava. Tras su incorporación, el maquinista Rg no entró en la cabina del maquinista del HDV 742.254-6 durante todo el tiempo de las maniobras, permaneció de pie en el pasarela o en los escalones delanteros de la locomotora,
+◦ tras detenerse en la SK n.º 104, recibieron del despachador de sección 2G la instrucción de marcha hacia la señal de clasificación válida para la marcha en sentido contrario.
+Nota DI: se trataba de la señal de clasificación Se44,
 
 ## Página 46
 
-◦durante la maniobra en curso se sentó en la cabina del maquinista en el asiento del puesto de conducción secundario. Tras detenerse en la cabecera central se sentó girado hacia el pupitre de mando y con la mirada seguía lo que ocurría en el ámbito de la estación de pasajeros, en cambio el maquinista del equipo de maniobras de ČDC ya estaba girado en sentido contrario, porque esperaba la establecimiento de la vía de maniobra para la circulación hacia la SK n.º 508,
-◦al seguir lo que ocurría en el ámbito de la estación de pasajeros registró la salida de un tren – la unidad eléctrica Pendolino en dirección a la est. Ostrava hl. n. Mirando a la vía comprobó que los desvíos estaban dispuestos para la circulación hacia la SK, donde se encontraba el equipo de maniobras de ČDC. Como el tren, que se aproximaba al equipo de maniobras de ČDC, no frenaba, sino que por el contrario aumentaba la velocidad, con voz elevada comunicó a sus compañeros: «¡Todos agárrense, viene un Pendolino hacia nosotros!»,
-◦aunque hasta la colisión siguió con la mirada el tren que se aproximaba, no registró en la cabina del maquinista de la unidad eléctrica Pendolino la presencia del maquinista del tren Ex 516,
-◦transcurrido cierto tiempo desde la colisión, los tres, es decir el maquinista del equipo de maniobras de ČDC, el maniobrador y él, abandonaron en estado de shock la cabina del maquinista del HDV 742.254-6 y se sentaron en el suelo en la vía, donde esperaron la llegada de los servicios de rescate;
-◦como consecuencia de la MU sufrió lesiones en su salud;
+◦durante la maniobra en curso estaba sentado en la cabina del maquinista en el asiento del puesto de conducción secundario. Tras detenerse en la cabecera central, estaba sentado girado hacia el pupitre de mando y con la vista seguía lo que ocurría en el ámbito de la estación de pasajeros, en cambio el maquinista de la unidad de maniobras de ČDC ya estaba girado en sentido contrario, porque esperaba la establecimiento de la vía de maniobras para la circulación hacia la SK n.º 508,
+◦mientras seguía lo que ocurría en el ámbito de la estación de pasajeros, registró la salida de un tren – la unidad eléctrica Pendolino – en dirección a la est. Ostrava hl. n. Mirando a la vía, comprobó que los desvíos estaban dispuestos para la circulación hacia la SK, donde se encontraba la unidad de maniobras de ČDC. Como el tren, que se aproximaba a la unidad de maniobras de ČDC, no frenaba, sino que por el contrario aumentaba la velocidad, comunicó a sus compañeros con voz elevada: «¡Todos agárrense, viene el Pendolino hacia nosotros!»,
+◦aunque hasta la colisión siguió con la vista el tren que se aproximaba, no registró en la cabina del maquinista de la unidad eléctrica Pendolino la presencia del maquinista del tren Ex 516,
+◦transcurrido cierto tiempo desde la colisión, los tres, es decir, el maquinista de la unidad de maniobras de ČDC, el maniobrador y él, abandonaron en estado de shock la cabina del maquinista del HDV 742.254-6 y se sentaron en el suelo en la vía, donde esperaron la llegada de los servicios de rescate,
+◦como consecuencia de la MU sufrió un perjuicio para su salud;
 •
 maniobrador
   – Acta con el empleado y Registro oficial de la declaración prestada ante la PČR:
-◦el 26 de junio de 2022 a las 18:00 h se incorporó al desempeño del trabajo (turno) en la est. Bohumín, ámbito Bohumín-Vrbice y durante todo el turno, según las instrucciones del jefe de maniobras, participó en la maniobra realizada en la est. Bohumín con la llamada «2.ª reserva»,
-◦el 27 de junio de 2022 a cca. las 4:30 h recibió del jefe de maniobras la información de la realización de una maniobra para el operador RJ en el ámbito de la estación de pasajeros, debiendo efectuarse primero la circulación desde el ámbito Bohumín-Vrbice hasta el ámbito delantera derecha de la estación en la SK n.º 508 para las TDV estacionadas, que a continuación debían ser acopladas con el tren RJ 97023,
-◦el equipo de maniobras de ČDC partió del ámbito Bohumín-Vrbice cca. a las 4:40 h y durante todo el tiempo de la maniobra en curso se encontraban en la cabina del maquinista del HDV 742.254-6 también el maquinista del equipo de maniobras y el jefe de maniobras,
-◦aún antes de partir del ámbito Bohumín-Vrbice subió al HDV 742.254-6 el maquinista Rg, que debía viajar con ellos hasta el ámbito de la estación de pasajeros y posteriormente continuar hasta Ostrava. Tras su incorporación, el maquinista Rg no entró en la cabina del maquinista del HDV 742.254-6 durante todo el tiempo de la maniobra,
-◦no seguía la situación fuera del equipo de maniobras, porque desde el lugar donde se sentaba no había buena visión, respectivamente alcance visual.
-Nota DI: el maniobrador se sentaba en la cabina del maquinista en un banco situado en la parte central entre el puesto de conducción secundario y las puertas de entrada derechas,
-◦tras detenerse en la cabecera central oyó al jefe de maniobras del equipo de maniobras de ČDC, que con voz elevada comunicó: «¡Todos agárrense, viene un Pendolino hacia nosotros!». Ante este aviso se levantó en el puesto de conducción y hasta la colisión se agarró a las puertas superiores,
-
+◦el 26. 6. 2022 a las 18:00 h se incorporó al desempeño del trabajo (turno) en la est. Bohumín, ámbito Bohumín-Vrbice y durante todo el turno, según las instrucciones del jefe de maniobras, participó en la maniobra realizada en la est. Bohumín con la llamada 2.ª reserva,
+◦el 27. 6. 2022 a cca. las 4:30 h recibió del jefe de maniobras la información de la realización de una maniobra para el operador RJ en el ámbito de la estación de pasajeros, debiendo efectuarse primero la circulación desde el ámbito Bohumín-Vrbice hasta el ámbito delantera derecha de la estación en la SK n.º 508 para los TDV estacionados, que debían ser acoplados a continuación con el tren RJ 97023,
+◦la unidad de maniobras de ČDC partió del ámbito Bohumín-Vrbice cca. a las 4:40 h y durante todo el tiempo de la maniobra en curso se encontraban en la cabina del maquinista del HDV 742.254-6 también el maquinista de la unidad de maniobras y el jefe de maniobras,
+◦antes incluso de partir del ámbito Bohumín-Vrbice, subió al HDV 742.254-6 el maquinista Rg, que debía viajar con ellos hasta el ámbito de la estación de pasajeros y posteriormente continuar hasta Ostrava. Tras su incorporación, el maquinista Rg no entró en la cabina del maquinista del HDV 742.254-6 durante todo el tiempo de la maniobra,
+◦no seguía la situación fuera de la unidad de maniobras, porque desde el lugar donde estaba sentado no había buena visión, respectivamente alcance visual.
+Nota DI: el maniobrador estaba sentado en la cabina del maquinista en un banco situado en la parte central entre el puesto de conducción secundario y las puertas de entrada derechas,
+◦tras detenerse en la cabecera central, oyó al jefe de maniobras de la unidad de maniobras de ČDC, que comunicó con voz elevada: «¡Todos agárrense, viene el Pendolino hacia nosotros!». Ante este aviso se levantó en el puesto de conducción y hasta la colisión se agarró a las puertas superiores,
 
 ## Página 47
+
 
 ◦transcurrido cierto tiempo desde la colisión, abandonó en estado de shock como primero la cabina del maquinista, los acontecimientos posteriores hasta la llegada de los servicios de rescate no los recuerda bien,
 ◦como consecuencia de la MU sufrió lesiones en su salud;
@@ -1579,8 +1632,8 @@ jefe de sobrecargo SC Pendolino
 ◦el 27 de junio de 2022 se incorporó al desempeño del trabajo (turno) a las 4:24 h en la est. Bohumín, de acuerdo con el cuadrante de turnos, cuando debía acompañar, entre otros, al tren Ex 516 hasta la est. Praha hl. n. junto con la sobrecargo de SC Pendolino,
 ◦tras llegar al andén 2 de la est. Bohumín a cca. las 4:45 h se sorprendió del hecho de que el tren del Ex 516 aún no se encontraba en el andén,
 
-
 ## Página 48
+
 
 porque normalmente suele estar dispuesto ya cca. 30 min antes de la salida regular, es decir a cca. las 4:30 h,
 ◦en el panel de salidas del sistema de información electrónica del andén 2 figuraba la información de que la salida del tren Ex 516 estaba retrasada 10 min,
@@ -1601,30 +1654,56 @@ sobrecargo de SC Pendolino
 ◦no conocía al maquinista del tren Ex 516, probablemente no se había encontrado con él en el desempeño de su trabajo,
 ◦tras llegar al DV n.º 4, comprobó que el maquinista del tren Ex 516 daba con la mano desde la ventana lateral de la cabina del maquinista la señal «Llamada del maquinista». Como en
 
-
 ## Página 49
 
-ese momento había finalizado el embarque de pasajeros, subió al DV n.º 4 y desde sus puertas dio al maquinista la señal «Autorización para la salida»,
-◦a las 5:02 h el tren Ex 516 puso en marcha y hasta el momento en que dejó atrás el andén 2 permaneció en el larguero del DV n.º 4,
-◦poco después de la salida del tren, cuando se dirigió desde el larguero hacia el compartimento de servicio, se produjo un impacto y el tren se detuvo bruscamente. Registró que el jefe de sobrecargo de SC Pendolino, que había abandonado el compartimento de servicio poco antes de la colisión, cayó al suelo del DV, pero al igual que ella no sufrió ninguna lesión en su salud. Al principio no tenía ni idea de qué había ocurrido en realidad, si el tren se había descarrilado o se había producido alguna colisión,
-◦tras detenerse el tren no estaba alimentado con energía eléctrica, y por lo tanto el interior del DV no estaba iluminado ni era posible abrir las puertas de entrada de forma estándar,
-◦posteriormente, en colaboración con el jefe de sobrecargo de SC Pendolino, recorrieron rápidamente (a paso) el tren en dirección al DV de cabecera (al inicio del tren) para averiguar qué había ocurrido, pero no lograron pasar al DV n.º 2 debido a la destrucción de los pasarelas de paso de las puertas entre vagones,
-◦tras descender del tren Ex 516 se acercó rápidamente (de nuevo a paso) por la vía al DV de cabecera al inicio del tren,
-◦mirando la parte frontal del Ex 516 comprobó la cabina del maquinista destrozada. Llamó al maquinista para preguntarle si estaba bien, pero éste no reaccionó de ninguna manera a su llamada,
-◦en el DV de cabecera se encontraban 6 pasajeros, que en el momento de su llegada ya abandonaban el tren – tras comprobar que ninguno de ellos había sufrido lesiones en su salud, se dirigió a la parte trasera del tren para averiguar el estado de los pasajeros restantes, de los cuales según sus manifestaciones tampoco nadie resultó herido como consecuencia de la MU,
-◦tras regresar al tren Ex 516 reunió a todos los pasajeros restantes en el DV n.º 4 y esperó la evacuación por parte de los servicios IZS;
-◦la ocurrencia de la MU la comunicó el jefe de sobrecargo de SC Pendolino;
+en ese momento finalizó el embarque de pasajeros, subió al DV n.º 4 y desde sus puertas dio
+al maquinista la señal «Autorización para la salida»,
+◦a las 5:02 h el tren Ex 516 se puso en marcha y hasta que pasó el andén n.º 2 permaneció en
+la parada intermedia del DV n.º 4,
+◦poco después de la salida del tren, cuando se dirigió desde la parada intermedia hacia el compartimento de servicio,
+se produció un impacto y el tren se detuvo bruscamente. Observó que el jefe de servicio de a bordo
+del SC Pendolino, que había abandonado el compartimento de servicio poco antes de la colisión, cayó al suelo
+del DV, pero al igual que ella no sufrió ningún daño en su salud. Al principio ni siquiera se imaginó
+qué había ocurrido, si el tren se había descarrilado o se había producido alguna colisión,
+◦tras detenerse, el tren no estaba alimentado con energía eléctrica, y por lo tanto el interior del DV
+no estaba iluminado ni era posible abrir las puertas de acceso de forma estándar,
+◦a continuación, en colaboración con el jefe de servicio de a bordo del SC Pendolino, recorrieron rápidamente (durante)
+el tren en dirección al DV de cabecera (al principio del tren) para averiguar qué había ocurrido,
+pero no lograron pasar al DV n.º 2 debido a la destrucción de los pasarelas de paso
+entre las puertas intermedias de los coches,
+◦tras bajar del tren Ex 516, se acercó rápidamente (de nuevo durante) por la vía
+al DV de cabecera al principio del tren,
+◦al mirar el frontal del tren Ex 516, comprobó que la cabina del
+maquinista estaba demolada. Llamó al maquinista para preguntarle si estaba bien, pero este
+no reaccionó de ninguna manera a su llamada,
+◦en el DV de cabecera se encontraban 6 pasajeros, que en el momento de su llegada ya
+estaban abandonando el tren – tras comprobar que ninguno de ellos había sufrido daños en su salud,
+se dirigió a la parte trasera del tren para averiguar el estado de los pasajeros restantes,
+de los cuales, según sus declaraciones, tampoco ninguno había resultado herido como consecuencia del MU,
+◦tras regresar al tren Ex 516, reunió a todos los pasajeros restantes en el DV n.º 4
+y esperó la evacuación por parte de los servicios de IZS;
+◦el origen del MU lo comunicó el jefe de servicio de a bordo del SC Pendolino;
 •
-sobrecargo de JLV
-  – Acta con el empleado y Registro oficial de la declaración prestada ante la PČR:
-◦el 27 de junio de 2022 se incorporó al desempeño del trabajo (turno) en Bohumín a cca. las 4:15 h, cuando debía, entre otros, asegurar en el tren Ex 516 junto con su compañera el catering para los pasajeros, incl. el servicio del ČD Restaurant situado en el DV n.º 3,
-◦esperaba el tren Ex 516 en el andén 2, donde debía haber sido dispuesto ya a las 4:30 h, pero el 27 de junio de 2022 fue dispuesto en el andén hasta las 4:57 h,
-◦inmediatamente subieron juntas al DV n.º 3 y en el ČD Restaurant comenzaron a preparar las cosas necesarias para el servicio a los pasajeros,
-◦inmediatamente tras subir el tren se puso en marcha, pero poco después se produjo un impacto y el tren se detuvo bruscamente,
-◦como consecuencia del impacto cayó de espaldas al suelo del DV y se lesionó la mano derecha. A causa del accidente cayeron sobre ella y también sobre el suelo del DV vajilla de los estantes, que en gran parte se rompió al caer, pero no causó lesiones en la salud de nadie,
-◦tras el impacto se apagaron todas las luces del tren, mirando a través de los cristales de las ventanas laterales vio en la vía componentes dañados del tren Ex 516,
+azafata JLV
+  – Acta con el empleado y Registro Oficial de la explicación prestada
+ante la PČR:
+◦el 27. 6. 2022 se presentó para prestar servicio (turno) en Bohumín a las aprox. 4:15 h,
+cuando tenía, entre otras cosas, que asegurar, junto con su compañera, el catering para los
+pasajeros en el tren Ex 516, incluida la atención del ČD Restaurant situado en el DV n.º 3,
+◦esperaba el tren Ex 516 en el andén n.º 2, donde debía haber sido estacionado ya a las 4:30 h,
+pero el 27. 6. 2022 fue estacionado junto al andén hasta las 4:57 h,
+◦inmediatamente subieron juntas al DV n.º 3 y en el ČD Restaurant comenzaron
+a preparar los artículos necesarios para atender a los pasajeros,
+◦inmediatamente después de subir, el tren se puso en marcha, pero poco después se produjo un impacto
+y el tren se detuvo bruscamente,
+◦como consecuencia del impacto, cayó de espaldas al suelo del DV y se lesionó la mano derecha.
+A causa del accidente, cayeron sobre ella y también sobre el suelo del DV vajilla de los estantes,
+que en su mayor parte se rompió al caer, pero no causó daños en la salud de nadie,
+◦tras el impacto se apagaron todas las luces del tren, y mirando a través de los cristales de las ventanas laterales
+vio en la vía componentes dañados del tren Ex 516,
 
 ## Página 50
+
 
 ◦tras un breve rato llegó al ČD Restaurant una azafata del SC Pendolino, que le
 preguntó por su estado de salud y le comunicó que el tren probablemente había
@@ -1681,8 +1760,8 @@ maniobras al ámbito de la estación de viajeros hasta el andén,
 desde la SK n.º 205 a la SK n.º 2, es decir, desde el ámbito de la estación de
 maniobras al ámbito de la estación de viajeros hasta el andén 2,
 
-
 ## Página 51
+
 
 ◦a la llegada de la unidad de maniobras a la SK n.º 2, frenó la unidad eléctrica
 680.006; posteriormente abandonó la cabina del maquinista y descendió del DV
@@ -1740,8 +1819,8 @@ que el tren Ex 516 tenía salida regular de la est. de Bohumín en 15 min, a lo 
 el maquinista del tren Ex 516, tras recibir esta información, tenía la intención de
 ir a buscar la unidad eléctrica Pendolino al ámbito de la estación de
 
-
 ## Página 52
+
 
 maniobras. Le instó al maquinista del tren Ex 516 a que, en lugar de ir a la
 estación de maniobras, se dirigiera al andén en el ámbito de la estación de
@@ -1792,8 +1871,8 @@ llamada no era atendida,
 una maniobra, estacionara la unidad eléctrica asignada al tren Ex 516 desde el
 ámbito de la estación de maniobras al ámbito de la estación de viajeros,
 
-
 ## Página 53
+
 
 ◦tras finalizar la llamada con el maquinista 1 PP Bohumín, contactó
 telefónicamente con el jefe de máquinas 1 PH1 PP Praha hl. n. para que este
@@ -1851,6 +1930,7 @@ de máquinas de PP Bohumín, que le comunicó que no le había sido posible
 
 ## Página 54
 
+
 al maquinista del tren Ex 516 telefónicamente, porque no responde a las llamadas al teléfono móvil profesional del maquinista del tren Ex 516. Por este motivo, el jefe de máquinas de PP Bohumín preguntó si no había disponible otro número de teléfono para el maquinista del tren Ex 516,
 ◦en la aplicación APS CS localizó en la pestaña «otros contactos» un segundo número de teléfono del maquinista del tren Ex 516, que posteriormente utilizó a las 5:02 h para establecer la comunicación telefónica. El maquinista del tren Ex 516 aceptó la llamada de inmediato y se presentó con su nombre completo. Durante la llamada, el maquinista del tren Ex 516 le informó del hecho de que el jefe de máquinas de PP Bohumín no había podido llamarle a su teléfono móvil profesional. No recuerda el contenido restante de la llamada, que duró en total 32 s, pero a partir de la comunicación realizada comprobó que el maquinista del tren Ex 516 estaba despierto, y también tuvo la impresión de que en el momento de la llamada se dirigía al tren,
 ◦posteriormente informó telefónicamente al jefe de máquinas de PP Bohumín de que había logrado establecer la llamada con el maquinista del tren Ex 516, que en ese momento se dirigía al tren Ex 516,
@@ -1862,8 +1942,8 @@ al maquinista del tren Ex 516 telefónicamente, porque no responde a las llamada
 Nota DI: en realidad se trataba de dos desempeños de trabajo (turnos) unidos por un descanso, cuando el 1.º turno comenzaba el día 26. 6. 2022 a las 12:36 h y terminaba el mismo día a las 21:00 h, el 2.º turno comenzaba el día 27. 6. 2022 a las 4:05 h y debía terminar el mismo día a las 11:20 h,
 ◦a la pregunta de por qué durante el turno nocturno de los días 26 y 27. 6. 2022, tras el transcurso del tiempo establecido como tiempo de declaración, no comenzó de forma acelerada a obtener información sobre el maquinista del tren Ex 516 de ninguna manera el día 26 ni el 27. 6. 2022 (por ejemplo, llamando al teléfono móvil, llamando a los jefes de máquinas en Bohumín, etc.), entre otras cosas, indicó: «El motivo de mi inacción en este asunto fue el hecho de que yo
 
-
 ## Página 55
+
 
 consideraba que para mí, como jefe de máquinas de personal PH1, el turno del Sr. … (Nota DI: se trataba del maquinista del tren Ex 516) comenzaba el día 26.06.2022 a las 12:36 horas y terminaba el día siguiente a las 11:20 horas, …»,
 ◦en el marco de la gestión operativa y la resolución de incidencias, incluida la situación en la que un maquinista no se incorpora al desempeño del trabajo (turno), la práctica era la siguiente: primero intentaba comunicarse con el maquinista concreto que no se había incorporado puntualmente al turno, telefónicamente a su número de teléfono profesional o, en su caso, también al número de teléfono personal del maquinista. En el caso de que el intento de comunicación con el maquinista no tuviera éxito, informaba de la no incorporación del maquinista al desempeño del trabajo (turno) al despachador de ČD correspondiente, ya fuera al despachador regional de ČD (en los llamados desempeños locales, por ejemplo, trenes de cercanías en los alrededores de Praga), o al despachador de red de ČD (en los llamados desempeños de larga distancia, por ejemplo, trenes regionales rápidos, expresos, Pendolino, etc.). Los números de teléfono del aparato de despacho de ČD estaban almacenados en la memoria de los aparatos telefónicos en el puesto de trabajo de los jefes de máquinas en PP Praha hl. n. y también eran accesibles, por ejemplo, en la intranet de ČD;
@@ -1873,50 +1953,48 @@ consideraba que para mí, como jefe de máquinas de personal PH1, el turno del S
 ◦debido a que no sabía, en el momento de la aparición de la MU, de la obligación de garantizar la realización de una prueba de alcoholemia orientativa a cada maquinista que se hubiera incorporado al comienzo del desempeño del trabajo (turno) «tarde al turno», no actuó de ninguna manera en este asunto el día 27. 6. 2022 en el caso del maquinista del tren Ex 516;
 ◦no tenía conocimiento de ningún procedimiento tecnológico uniforme por el cual el transportista ČD hubiera establecido, en el momento de la aparición de la MU, el procedimiento para garantizar la realización de una prueba de alcoholemia orientativa al maquinista de un tren que se hubiera incorporado fuera de la estación de origen al comienzo del desempeño del trabajo (turno) «tarde al turno», incluidos los empleados del transportista ČD a los que debería contactar con este fin.
 
-
 ## Página 56
 
 •
 jefe de máquinas 2 PH1 PP Praha hl. n.
   – Registros con el empleado:
-◦el día 16. 6. 2022 se incorporó a las 18:00 h al turno nocturno en PP Praha hl. n.,
-◦a la pregunta de qué procedimiento siguió tras el transcurso del tiempo establecido como tiempo de declaración, cuando el maquinista del tren Ex 516 no le declaró de la forma prescrita el fin del desempeño el día 16. 6. 2022, ni la incorporación al desempeño el día 17. 6. 2022, entre otras cosas, indicó: «No hice nada, durante todo el turno no activé la aplicación APS CS Incorporaciones al turno, porque la aplicación complica el trabajo del jefe de máquinas, que organiza el trabajo de los maquinistas para los días siguientes, mientras se comunica con los maquinistas de los turnos, que preguntan por los transcurros de los turnos, especialmente en relación con los cambios relacionados con la actividad de vía. Si la aplicación APS CS está activada en la pestaña Incorporaciones al turno, impide el acceso a otras partes de esta aplicación, por ejemplo, no se pueden abrir los turnos de los distintos maquinistas. Dado que la parte principal del trabajo del jefe de máquinas durante el turno nocturno es organizar a los maquinistas para los días siguientes, no es posible operar simultáneamente la aplicación Incorporaciones al turno, porque el puesto de trabajo PH1 tiene aproximadamente 160 incorporaciones de maquinistas en 24 horas consecutivas, y especialmente en el momento en que el maquinista … (Nota DI: se trataba del maquinista del tren Ex 516) tenía la incorporación al SC 516, se incorporan muchos maquinistas y no está en las fuerzas físicas del jefe de máquinas realizar el control de las incorporaciones.»,
-◦a la pregunta de por qué durante el turno nocturno de los días 16 y 17. 6. 2022 no actuó según los procedimientos tecnológicos contenidos en las normas internas del transportista ČD, es decir, tras el transcurso del tiempo establecido como tiempo de declaración no comenzó de forma acelerada a obtener información sobre el maquinista del tren Ex 516 de ninguna manera el día 16 ni el 17. 6. 2022 (por ejemplo, llamando al teléfono móvil, llamando a los jefes de máquinas en Bohumín, etc.), entre otras cosas, indicó: «El motivo del incumplimiento de los procedimientos tecnológicos, como ya se ha indicado más arriba, es la dificultad de trabajar simultáneamente con la aplicación Incorporaciones al turno y con la demás actividad del jefe de máquinas PH1, especialmente la organización de los maquinistas. Yo en realidad no llegué a comprobar que el Sr. … (Nota DI: se trataba del maquinista del tren Ex 516) no se hubiera incorporado a la segunda parte del turno de dos días. Los turnos de dos días no están divididos gráficamente en la aplicación APS, solo lo habría comprobado si hubiera abierto el transcurso completo del turno de dos días, lo que no hice en este turno, porque no era necesario. La práctica arraigada durante muchos años de los jefes de máquinas en los turnos de dos días y los turnos divididos es confirmar solo la primera incorporación y el último fin de turno.»,
-◦sobre la persona del maquinista del tren Ex 516 indicó: «… Siempre se mostró como un maquinista concienzudo, dispuesto y trabajador. Su disciplina de asistencia era tal que nunca se nos habría ocurrido a ninguno de nosotros que no se hubiera incorporado al turno sin motivo.»;
+◦el 16. 6. 2022 ingresó a las 18:00 h para el turno de noche en PP Praha hl. n.,
+◦a la pregunta de cómo actuó tras transcurrido el plazo establecido como plazo de notificación, cuando el maquinista del tren Ex 516 no le notificó de la manera prescrita el fin de la prestación el 16. 6. 2022, respectivamente, el inicio de la prestación el 17. 6. 2022, entre otros, indicó: "No hice nada, durante todo el turno no activé la aplicación APS CS Inicios de turno, porque la aplicación complica el trabajo del jefe de máquinas, que dirige el trabajo de los maquinistas para los días siguientes, mientras se comunica con los maquinistas de los turnos, que preguntan por el desarrollo de los turnos, especialmente en relación con los cambios relacionados con las actividades de vía fuera de servicio. Si la aplicación APS CS está activada en la pestaña Inicios de turno, impide el acceso a otras partes de esta aplicación, por ejemplo, no se pueden abrir los turnos de los maquinistas individuales. Dado que la parte principal del trabajo del jefe de máquinas durante el turno de noche es dirigir a los maquinistas para los días siguientes, no es posible atender simultáneamente la aplicación Inicios de turno, porque el puesto de trabajo PH1 tiene aproximadamente 160 inicios de maquinistas en 24 horas consecutivas, y especialmente en el momento en que el maquinista … (Nota DI: se trataba del maquinista del tren Ex 516) debía iniciar en el SC 516, inician muchos maquinistas y no está en las fuerzas físicas del jefe de máquinas realizar el control de inicios.",
+◦a la pregunta de por qué durante el turno de noche de los días 16 y 17. 6. 2022 no actuó según los procedimientos tecnológicos contenidos en las normas internas del transportista ČD, es decir, tras transcurrido el plazo establecido como plazo de notificación, de ninguna manera comenzó el 16 ni el 17. 6. 2022 a obtener rápidamente información sobre el maquinista del tren Ex 516 (por ejemplo, llamando al teléfono móvil, llamando a los jefes de máquinas en Bohumín, etc.), entre otros, indicó: "El incumplimiento de los procedimientos tecnológicos, como ya se ha indicado anteriormente, se debe a la dificultad de trabajar simultáneamente con la aplicación Inicios de turno y otras tareas del jefe de máquinas PH1, especialmente la dirección de los maquinistas. Yo en realidad no llegué a averiguar que el Sr. … (Nota DI: se trataba del maquinista del tren Ex 516) no había iniciado la segunda parte del turno de dos días. Los turnos de dos días no están divididos gráficamente en la aplicación APS, lo habría averiguado solo si hubiera abierto el desarrollo del turno completo de dos días, lo que no hice en este turno, porque no era necesario. La práctica arraigada durante muchos años de los jefes de máquinas en los turnos de dos días y los turnos divididos es confirmar solo el primer inicio y el último fin de turno.",
+◦sobre la persona del maquinista del tren Ex 516 indicó: "… Siempre se mostró como un maquinista concienzudo, dispuesto y trabajador. Su disciplina de asistencia era de tal nivel que nunca se nos habría ocurrido a ninguno de nosotros que no iniciara el turno sin motivo.";
 •
 pasajeros del tren Ex 516
-  (aparte de las personas transportadas en el DV n.º 1) – resumen de la información
-de las Actas Oficiales de la Policía (PČR):
-◦el día 27. 6. 2022 el tren Ex 516 salió de la est. Bohumín con un retraso de 5 min respecto a la hora de salida programada,
-◦poco después de una salida fluida, tras unos 500 m, a una velocidad de unos 40 a 50 km·h-1 se oyó un fuerte golpe y el tren se detuvo bruscamente. El motivo de la detención fue el impacto con un objeto que en ese momento les era desconocido,
-◦tras la detención se apagaron las luces que iluminaban el interior del DV y no se pudieron abrir las puertas de acceso,
+  (excepto las personas transportadas en el DV n.º 1) – resumen de la información
+de los Registros Oficiales de la Policía (PČR):
+◦el 27. 6. 2022 el tren Ex 516 desde la est. Bohumín llegó con 5 min de retraso respecto a la hora de salida programada,
+◦poco después de la salida fluida, a unos 500 m, a una velocidad de unos 40 a 50 km·h-1 se oyó un fuerte golpe y el tren se detuvo bruscamente. El motivo de la parada fue el impacto con un objeto que en ese momento les era desconocido,
+◦tras la parada se apagaron las luces que iluminaban el interior del DV y no se pudieron abrir las puertas de acceso,
 
 ## Página 57
 
-◦a petición de la auxiliar de a bordo de SC Pendolino, o del auxiliar de a bordo de SC Pendolino, se trasladaron al DV n.º 4, donde esperaron la evacuación del tren,
-◦dos pasajeros sufrieron lesiones en su salud como consecuencia del MU;
+◦a petición de la auxiliar de a bordo de SC Pendolino, o bien del auxiliar de a bordo de SC Pendolino, se trasladaron al DV n.º 4, donde esperaron la evacuación del tren,
+◦dos pasajeros sufrieron como consecuencia de la MU lesiones en su salud;
 •
 pasajeros transportados en el DV n.º 1 del tren Ex 516
-  (solo se indican los hechos distintos
-de las declaraciones de los demás pasajeros) – resumen de información de los Registros Oficiales de la PČR:
+  (solo se indican los hechos distintos de las declaraciones de los demás pasajeros) – resumen de información de los Registros Oficiales de la PČR:
 ◦tras la parada del tren, una de las pasajeras activó el IZS llamando al número europeo único de emergencias 112,
-◦inmediatamente después del choque, con el fin de prestar asistencia médica al maquinista del tren Ex 516, abrieron la primera puerta interior en dirección a la cabina del maquinista y a continuación quisieron avanzar hacia el frontal, cosa que, sin embargo, no lograron debido a la destrucción total de la cabina del maquinista. Por ello, intentaron contactar verbalmente con el maquinista del tren Ex 516 (llamándole), pero como nadie respondía desde la cabina, sospecharon que el maquinista no había sobrevivido al choque. Posteriormente, uno de los pasajeros, mirando entre los escombros de la cabina del maquinista, divisó el cuerpo inmóvil del maquinista del tren Ex 516,
-◦debido a que en el DV comenzó a salir humo, intentaron romper una ventanilla lateral. Uno de los pasajeros, a continuación, con una palanca (asa) roja en el marco, desbloqueó de emergencia la puerta izquierda de acceso del DV n.º 1 y, tras abrir manualmente dichas puertas, todos los pasajeros transportados en el DV n.º 1 abandonaron el tren,
-◦el pasajero que trabajaba en una empresa ferroviaria (Nota DI: la empresa es conocida por el DI, pero para los fines de este ZZ no es relevante indicar su nombre en el texto), entre otras cosas, declaró: «… que el tren no frenó en ningún caso y no entiende cómo pudo producirse un choque frontal justo después de salir de la estación, cuando todo debía haberse comprobado…»;
+◦inmediatamente después del choque, con el fin de prestar asistencia médica al maquinista del tren Ex 516, abrieron la 1.ª puerta interior en dirección a la cabina del maquinista y a continuación quisieron avanzar más cerca del frontal, lo que, sin embargo, no lograron debido a la destrucción total de la cabina del maquinista. Por ello, intentaron contactar verbalmente con el maquinista del tren Ex 516 (llamarlo), pero como nadie respondía desde la cabina, sospecharon que el maquinista no había sobrevivido al choque. Posteriormente, uno de los pasajeros, al mirar los restos de la cabina del maquinista, vio el cuerpo inmóvil del maquinista del tren Ex 516,
+◦como en el DV comenzó a salir humo, intentaron romper una ventanilla lateral. Uno de los pasajeros, a continuación, con una palanca (asa) roja en el armario de mando desbloqueó de emergencia la puerta izquierda de acceso al DV n.º 1 y, tras abrir manualmente dichas puertas, todos los pasajeros transportados en el DV n.º 1 abandonaron el tren,
+◦el pasajero que trabajaba en una de las empresas ferroviarias (Nota DI: el transportista es conocido por el DI, pero para los fines de esta ZZ no es relevante indicar su nombre en el texto), entre otros, declaró: «… que el tren en ningún caso frenaba y no entiende cómo pudo producirse un choque frontal justo después de salir de la estación, cuando todo debía haber sido verificado…»;
 •
 otros testigos
   – resumen de información de los Registros Oficiales de la PČR:
-◦no son originarios de la ciudad de Bohumín, pero pasaron la noche del 26 al 27 de junio de 2022 juntos bajo el puente de carretera n.º 4711-1, que cruza sobre la vía la vía urbana ul. Československé armády,
+◦no son vecinos de la ciudad de Bohumín, pero pasaron la noche del 26 al 27 de junio de 2022 juntos bajo el puente de carretera n.º 4711-1, que cruza sobre la vía la vía de comunicación terrestre de la calle Československé armády,
 ◦no registraron ningún accidente de tren ni ruido excesivo de la vía de la est. Bohumín el día 27 de junio de 2022 por la mañana; fueron despertados del sueño únicamente por las señales acústicas de advertencia de las unidades HZS o PČR.
-De los datos registrados por el sistema de cámaras de la est. Bohumín el día 27 de junio de 2022 en el período de 4:30:00 h a 5:10:00 h, que fueron facilitados al DI por el gestor de la vía SŽ en el marco de la investigación del MU, entre otros, se desprende:
-Cámara K2.4 – capta el espacio de los andenes 2, 3 y 4 (principalmente el andén 2 y la SK n.º 2 de la est. Bohumín, dirección Ostrava hl. n.), teniendo en cuenta la desviación temporal entre la hora de puesta en marcha del tren Ex 516 y la hora registrada por el sistema de cámaras:
+De los datos registrados por el sistema de cámaras de la est. Bohumín el día 27 de junio de 2022 en el período de 4:30:00 h a 5:10:00 h, que fueron facilitados al DI por el operador de la vía SŽ en el marco de la investigación de la MU, entre otros, se desprende:
+Cámara K2.4 – capta el espacio de los andenes 2.º, 3.º y 4.º (principalmente el andén 2.º y la SK n.º 2 de la est. Bohumín, dirección Ostrava hl. n.), teniendo en cuenta la desviación temporal entre la hora de puesta en marcha del tren Ex 516 y la hora registrada por el sistema de cámaras:
 •
-a las 4:56:43 h entró en el encuadre de la cámara, por la SK n.º 2 en dirección desde la est. Dětmarovice, la unidad eléctrica 680.006 destinada al tren Ex 516, es decir, la maniobra de ČD que circulaba desde la SK n.º 205 del área de la estación de apartadero;
+a las 4:56:43 h entró en el encuadre de la cámara, por la SK n.º 2 en dirección desde la est. Dětmarovice, la unidad eléctrica 680.006 destinada al tren Ex 516, es decir, la unidad de maniobras de ČD que circulaba desde la SK n.º 205 del ámbito de la estación de apartadero;
 •
-a las 4:57:04 h la unidad eléctrica 680.006 se detuvo en la SK n.º 2 (en el encuadre de la cámara en cuestión se encontraban solo los 3 primeros DV de la unidad, es decir, 681.006-3, 081.006-9 y 93 54 6 683 006-1);
-
+a las 4:57:04 h la unidad eléctrica 680.006 se detuvo en la SK n.º 2 (en el encuadre de la cámara en cuestión solo se encontraban los 3 primeros DV de la unidad, es decir, 681.006-3, 081.006-9 y 93 54 6 683 006-1);
 
 ## Página 58
+
 
 •
 a las 4:57:10 h entró en el encuadre, en dirección desde el paso inferior, el jefe de maniobras de guardia de la est. Bohumín. Del registro se deduce que caminaba por el lado del andén adyacente a la SK n.º 4 y llevaba en la mano derecha un documento en papel.
@@ -1937,8 +2015,8 @@ Nota DI: se trataba de la orden escrita «V» para el tren Ex 516, cuya recepci�
 a las 5:00:27 h
 se encontraron en el mismo nivel la auxiliar de a bordo de SC Pendolino y el maquinista de 1 PP Bohumín. Del encuadre se deduce que se comunicaban entre sí, mientras el maquinista acompañaba su comunicación con una gesticulación evidente de los miembros superiores (agitar repetidamente los brazos). Su comunicación mutua, durante la cual ambos se giraban para que sus miradas
 
-
 ## Página 59
+
 
 abarcaran el espacio del andén 2 en dirección al paso inferior,
 o hacia la est. Dětmarovice, se prolongó hasta las 5:00:50 h;
@@ -1980,8 +2058,8 @@ el maquinista del tren Ex 516 asomó por la puerta de emergencia y comenzó a da
 a las 5:01:54 h
 entró en el encuadre de la cámara, por la SK n.º 4 en dirección desde la est. Ostrava hl. n., el tren RJ 97023;
 
-
 ## Página 60
+
 
 | • | a las 5:02:08 h | el maquinista de 1 PP Bohumín salió del encuadre de la cámara; |
 | • | a las 5:02:11 h | el maquinista del tren Ex 516 finalizó el uso de la señal manual de llamada «del maquinista» y abandonó la puerta de emergencia; |
@@ -2006,73 +2084,68 @@ Cámara K2.3 – capta el espacio de los andenes 2, 3 y 4 (principalmente el and
 
 ## Página 61
 
-|  |  | continuó caminando por el andén 2 a lo largo de la composición del tren Ex 516, en dirección desde el extremo DV 681.003-6 hacia la cola del tren, es decir, en dirección |
-|  |  | a la est. Dětmarovice; |
-|  | • a las 5:01:59 h | entró en el encuadre de la cámara el maquinista 1 PP Bohumín, que |
-|  |  | continuó caminando por el andén 2, en el lado más cercano a la SK n.º 2, en la que |
-|  |  | estaba estacionado el tren Ex 516, en dirección desde el extremo DV 681.003-6 hacia la cola |
-|  |  | del tren, es decir, en dirección a la est. Dětmarovice; |
-|  | • a las 5:02:02 h | la auxiliar de a bordo del SC Pendolino se detuvo en las puertas de acceso delanteras |
-|  |  | DV n.º 4, se giró con el rostro en dirección al principio del tren y posteriormente también hacia |
-|  |  | la cola del tren, donde se encontraba el auxiliar de a bordo jefe del SC Pendolino; |
-|  | • a las 5:02:09 h | la auxiliar de a bordo del SC Pendolino comenzó a dar al maquinista del tren Ex 516 |
-|  |  | en dirección al principio del tren la señal "Permiso de salida". Esta |
-|  |  | señal la repitió durante 4 s (hasta las 5:02:13 h); |
-| Cámara K6.1 – |  | se grababa el espacio de la cabecera central de la est. Bohumín (el objetivo de la cámara |
-| orientada al suroeste, se grababa el grupo SK n.º 101 a 104, 103a, 405 a 411, 506, |  |  |
-| y | 508), cuando se | tuvo en cuenta la desviación temporal de la hora de inicio de la grabación de la sacudida de la imagen |
+|  |  | continuaba caminando por el andén 2 a lo largo del tren Ex 516 . , en dirección desde el extremo DV 681 .003 -6 hacia el final del tren, es decir, en dirección , . |
+|  |  | hacia la est. Dětmarovice; . |
+|  | • a las 5:01:59 h | entró en el encuadre de la cámara el maquinista 1 PP Bohumín que , continuó caminando por el andén 2 en el lado más cercano a la vía SK nº 2, en la que . . , se encontraba el tren Ex 516 en dirección desde el extremo DV 681 .003 -6 hacia el final , del tren, es decir, en dirección hacia la est. Dětmarovice; , . . |
+|  | • a las 5:02:02 h | la azafata de SC Pendolino se detuvo delante de las puertas de entrada |
+|  |  | DV nº 4, se giró con el rostro hacia el principio del tren y posteriormente también hacia el , final del tren, donde se encontraba el jefe de a bordo de SC Pendolino; , |
+|  | • a las 5:02:09 h | la azafata de SC Pendolino comenzó a dar al maquinista del tren Ex 516 |
+|  |  | en dirección hacia el principio del tren la señal "Permiso de salida". Esta señal . la repitió durante 4 s (hasta las 5:02:13 h); |
+| Cámara K6 .1 – |  | se filmaba la zona de la cabecera central de la est. Bohumín (el objetivo de la cámara . |
+| orientada al suroeste se filmaba el grupo SK nº 101 a 104, 103a, 405 a 411, 506 , , , , |  |  |
+| y | 508), cuando se tuvo en cuenta | la desviación temporal de la hora de inicio de la grabación de la sacudida de imagen |
 | (grabación) provocada por la colisión del tren Ex 516 con la maniobra de ČDC y la hora |  |  |
 | registrada por el sistema de cámaras: |  |  |
 •
 a las 5:01:07 h
-entró en el encuadre de la cámara, en dirección desde el ámbito Bohumín-Vrbice hacia la SK
-n.º 104, la maniobra del operador ČDC, compuesta por el HDV 742.254-6 circulando
-autónomamente;
+entró en el encuadre de la cámara, en dirección desde el área de Bohumín-Vrbice hacia la SK
+nº 104, la maniobra del operador ČDC, formada por el HDV 742.254-6
+circulando de forma independiente;
 •
 a las 5:01:11 h
 entró en el encuadre de la cámara, en dirección desde la est. Chałupki hacia la SK
-de la cabecera Chałupki de la est. Bohumín, el tren RJ 97023;
+de la cabecera de Chałupki de la est. Bohumín, el tren RJ 97023;
 •
 a las 5:01:20 h
-el tren RJ 97023 entró en el desvío n.º 60, es decir, en la cabecera central
-de la est. Bohumín, y continuó en la dirección de marcha hacia el ámbito de la estación de pasajeros;
+el tren RJ 97023 entró en el desvío nº 60, es decir, en la cabecera central
+de la est. Bohumín, y continuó en la dirección de marcha hacia el área de la estación de pasajeros;
 •
 a las 5:01:26 h
-la maniobra de ČDC se detuvo en la SK n.º 104;
+la maniobra de ČDC se detuvo en la SK nº 104;
 •
 a las 5:01:29 h
-el tren RJ 97023 abandonó la SK de la cabecera Chałupki de la est. Bohumín;
+el tren RJ 97023 abandonó la SK de la cabecera de Chałupki de la est. Bohumín;
 •
 a las 5:01:33 h
-el tren RJ 97023 salió del encuadre de la cámara hacia el ámbito de la estación de pasajeros;
+el tren RJ 97023 salió del encuadre de la cámara hacia el área de la estación de pasajeros;
 •
 a las 5:02:20 h
-la maniobra de ČDC, estacionada en la SK n.º 104, se puso en movimiento
-en dirección al ámbito de la estación de pasajeros;
+la maniobra de ČDC, detenida en la SK nº 104, fue puesta en movimiento
+en dirección al área de la estación de pasajeros;
 •
 a las 5:02:39 h
 la maniobra de ČDC pasó la señal de vía Sc104;
 •
 a las 5:02:45 h
-la maniobra de ČDC entró en el desvío n.º 503, es decir, en la cabecera central
+la maniobra de ČDC entró en el desvío nº 503, es decir, en la cabecera central
 de la est. Bohumín;
 •
 a las 5:02:52 h
-la maniobra de ČDC, continuando su marcha por la cabecera central, entró en
-el desvío n.º 501;
+la maniobra de ČDC, continuó su marcha por la cabecera central, entrando en
+el desvío nº 501;
 •
 a las 5:03:00 h
-la maniobra de ČDC salió del encuadre de la cámara en dirección al ámbito
+la maniobra de ČDC salió del encuadre de la cámara en dirección al área
 de la estación de pasajeros;
 •
 la colisión del tren Ex 516 con la maniobra de ČDC, así como el desarrollo del descarrilamiento del tren Ex 516,
 no fueron registrados por el sistema de cámaras;
 •
 a las 5:03:20 h
-se registró la sacudida del mástil, en el que estaba colocada la cámara, la cual
-
+se registró la sacudida del poste en el que estaba colocada la cámara, que
 
 ## Página 62
+
 
 se manifestó en una grabación de imagen temblorosa (las sacudidas duraron
 continuamente 14 s, es decir, hasta las 5:03:34 h);
@@ -2139,8 +2212,8 @@ al maniobrador. Posteriormente, el maquinista Rg se movió alternativamente entr
 el desvío n.º 503 y la SK n.º 102 o entre el desvío n.º 503 y la SK
 de la cabecera Chałupki, pero siempre en las inmediaciones de esta maniobra;
 
-
 ## Página 63
+
 
 | • a las 5:05:06 h | el maniobrador se agachó en cuclillas, posteriormente se sentó en el zócalo de hormigón del soporte de tracción y a continuación se movió con una caminata lenta y tambaleante; |
 | • a las 5:05:14 h | el jefe de maniobra descendió con dificultades visibles de los escalones delanteros del HDV de la maniobra de ČDC a la vía. A continuación, se movió hasta el final de la grabación en el espacio entre el desvío n.º 503 y la SK n.º 102, posteriormente también entre el desvío n.º 503 y la SK de la cabecera Chałupki, siempre en las inmediaciones de la maniobra; |
@@ -2178,8 +2251,8 @@ destinado al embarque de los pasajeros. El procedimiento anterior, sin embargo, 
 llevarse a cabo, porque el maquinista del tren Ex 516 no se presentó en el lugar del relevo
 a la hora establecida de las 4:25 h. En relación directa
 
-
 ## Página 64
+
 
 con esta circunstancia, el maquinista 1 PP Bohumín a las aprox. 4:30 h se dirigió
 a la unidad eléctrica 680.006 y durante los aprox. 15 min siguientes realizó también
@@ -2241,6 +2314,7 @@ una vez establecida la vía de tren, respectivamente,
 
 ## Página 65
 
+
 •
 „Tren preparado con estatus 3 – cancelación“, con la que el operador ferroviario informaría al transportista de que no se cumplen todas las condiciones necesarias para la salida del tren del punto de tráfico designado,
 no fue realizada ni por parte del transportista ČD, que hasta la llamada telefónica entre el despachador de sección 2G y el maquinista de PP Bohumín iniciada a las 4:47:54 h no había detectado que el maquinista del tren Ex 516 no se había incorporado al servicio (turno) con inicio a las 4:05 h.
@@ -2249,8 +2323,8 @@ Tras la reactivación de la unidad eléctrica 680.006, destinada al tren Ex 516,
 El maquinista del tren Ex 516 repitió la señal „Llamada del maquinista“ hasta las 5:02:11 h.
 La auxiliar de a bordo del SC Pendolino no vio el inicio de la emisión de la llamada del maquinista, porque en ese momento se movía hacia el extremo del tren, es decir, estaba de espaldas hacia el maquinista, y en el andén 2 de la SK n.º 4 entraba el tren RJ 97023. Informó al maquinista del tren Ex 516 de la preparación del tren para la salida con la señal „Autorización de salida“ solo después de detenerse frente a las puertas de acceso delanteras del DV n.º 4, girar el rostro hacia el inicio del tren y posteriormente también hacia el extremo del tren, donde se encontraba el jefe de auxiliares del SC Pendolino. La señal „Autorización de salida“ la dio repetidamente en dirección al maquinista desde el espacio de las puertas de acceso del DV n.º 4 (93 54 6 084 006-6) en el período comprendido entre las 5:02:09 h y las 5:02:13 h. La auxiliar de a bordo del SC Pendolino dio la señal „Autorización de salida“ a pesar de que por la señal de salida L2 se indicaba la señal „Alto“, que podía comprobar fácilmente con la vista desde el lugar donde daba la señal „Autorización de salida“. El motivo fue, entre otros, el hecho de que ni la normativa legal ni los procedimientos tecnológicos uniformes del transportista imponían al miembro de la tripulación del tren la obligación de comprobar, antes de dar la señal „Autorización de salida“ al maquinista, mediante la vista u otro medio,
 
-
 ## Página 66
+
 
 la autorización para la salida del tren. El maquinista del tren Ex 516, tras recibir esta instrucción, cerró a las 5:02:28 h las puertas de acceso de la unidad eléctrica de control centralizado y a las 5:02:31 h puso el tren en movimiento de forma no autorizada en dirección a est. Ostrava hl. n. No recibió ninguna otra autorización para poner el tren en movimiento, es decir, para la salida del tren de la estación, establecida por el operador ferroviario, por parte del despachador director 1G.
 En el momento en que el maquinista del tren Ex 516 finalizó la emisión de la señal „Llamada del maquinista“, se encontraba en comunicación telefónica con el maquinista 1 PH1 PP Praha hl. n., que en este caso era la parte llamante. La llamada, según el registro del aparato telefónico del llamante, comenzó a las 5:02 h (registro llevado con precisión a minutos completos), duró 32 s y el maquinista 1 PH1 PP Praha hl. n. dedujo de su contenido que el maquinista ya se había incorporado al turno (véase el punto 3.1.9 de esta ZZ). Dado que durante la emisión de la señal „Llamada del maquinista“ el maquinista del tren Ex 516 demostrablemente no estaba hablando por teléfono, de los hechos expuestos se desprende que esta llamada tuvo que mantenerse también durante la puesta en marcha del tren Ex 516, pero no antes de las 5:02:12 h, es decir, solo después de finalizar la emisión de la señal „Llamada del maquinista“. Dado que la investigación de la MU no logró determinar de forma demostrable la hora de inicio de la llamada, no fue posible determinar si la llamada se mantuvo solo durante la marcha del tren hacia la señal de salida L2, que el tren rebasó a las 5:03:06 h, o también durante la marcha del tren a lo largo de dicha señal.
@@ -2258,8 +2332,8 @@ Antes de la marcha no autorizada del tren Ex 516, se estaba realizando en los á
 Tras rebasar el tren Ex 516 la señal de salida L2 que prohibía la marcha y continuar en marcha no autorizada en dirección a la cabeza de vías central, a las 5:03:15 h los ejes del primer bogie delantero del DV de cabeza 681.006-3 forzaron el desvío n.º 52, circulado por el tren por la aguja, de la posición „-“ (desvío originalmente establecido para el sentido de marcha del DV desde/hacia la cabeza de vías central a/desde la SK n.º 4) a la posición „+“ (desvío forzado para el sentido de marcha del DV desde/hacia la SK n.º 2 a/desde la cabeza de vías central). A las 5:03:16 h la unidad de maniobras de ČDC rebasó el nivel de la señal de agrupamiento Se44 válida para la marcha en sentido contrario y se detuvo en la cabeza de vías central, para que tras el establecimiento de la vía de maniobras en la SK n.º 508 pudiera completarse la maniobra acordada (véase más arriba).
 1 s después (a las 5:03:17 h) el tren Ex 516, circulando a una velocidad de 57 km·h-1, embistió a la unidad de maniobras de ČDC detenida. Como consecuencia de la dinámica del suceso del accidente, en la posición final tras la MU se encontraba el frente del tren Ex 516 en el km 275,335, es decir, 118 m tras el punto de colisión y 278 m tras el nivel de la señal de salida L2, y el extremo trasero de la unidad de maniobras hasta el km
 
-
 ## Página 67
+
 
 275,307, es decir, 146 m tras el punto de colisión (véase también el punto 3.1.3 de esta ZZ), cuando entre el frente del tren Ex 516 y el extremo trasero de la unidad de maniobras de ČDC se creó un hueco de 28 m.
 ### 3.2.2 Secuencia de hechos desde la ocurrencia de la incidencia hasta la finalización de las acciones de los servicios de emergencia
@@ -2289,6 +2363,7 @@ la despachadora de vía – despachadora de sección 6G CDP Přerov, que tenía 
 el despachador de explotación 2 de CDP Přerov comunicó la ocurrencia de la MU al despachador jefe de CDP Přerov (en adelante, VD CDP Přerov);
 
 ## Página 68
+
 
 •
 5:13 h
@@ -2340,8 +2415,8 @@ En el lugar de la MU intervinieron los siguientes cuerpos del IZS:
 •
 ZZS de la Región de Moravia y Silesia (5 tripulaciones terrestres);
 
-
 ## Página 69
+
 
 •
 PČR, Jefatura Regional de Policía de la Región de Moravia y Silesia, Distrito de Karviná, 2.º Departamento de Delincuencia General;
@@ -2359,8 +2434,8 @@ La persona que dirige el transporte ferroviario (el despachador de vía, es deci
 El despachador de vía es responsable de la dirección de la secuencia de trenes y de la organización del tráfico en la zona de tráfico asignada (zonas de tráfico asignadas) y en los tramos intermedios conexos, organizando la circulación de los trenes con arreglo al orden de prioridad de los trenes según las disposiciones pertinentes de la norma SŽDC D1, de manera que no se vea perturbada la circulación de un tren de mayor prioridad. Una secuencia de trenes distinta del orden de prioridad de trenes establecido solo puede ser autorizada o ordenada por el despachador de explotación correspondiente, salvo en los casos de utilización de la capacidad máxima de la vía de circulación, por ejemplo durante las interrupciones de servicio. Asimismo, está obligado a prever la evolución de la situación del tráfico y a adoptar oportunamente medidas para la correcta dirección de la situación del tráfico en su ámbito. A tal efecto, el despachador de vía debe comunicar y cooperar oportunamente con los jefes de estación vecinos o, en su caso, con el despachador de explotación correspondiente, y utilizar la información mostrada en las aplicaciones de explotación pertinentes para apoyar la dirección del tráfico. Si alguno de los empleados de SŽ detecta que el tren no está preparado a pesar de que el transportista haya enviado el mensaje «Tren preparado», comunicará esta circunstancia al despachador de explotación, que emitirá al tren la «Prohibición de circulación PD». Los despachadores de vía, es decir, también el despachador director 1G y el despachador de sección 2G, cumplen las tareas ordenadas por el despachador de explotación PD2.
 El transporte ferroviario, incluida la explotación de los aparatos de la vía de circulación desde el JOP para la circulación de trenes, en la estación de Bohumín era dirigido y organizado por el despachador director 1G, en colaboración con el despachador de sección 1G CDP Přerov y los jefes de estación de las estaciones de entrada (Ostrava hl. n., Karviná hl. n. y Chałupki PKP) en las vías nacionales (Chałupki PKP) – Bohumín frontera estatal – Bohumín y Bohumín – Prosenice (véase el punto 3.1.8 de la presente ZZ). La circulación del tren Ex 516 se regía por el GR de la ruta asignada y por la posición horaria concreta. El tren Ex 516 era un tren nacional de larga distancia de transporte de pasajeros
 
-
 ## Página 70
+
 
 que circulaba en la ruta regular según la capacidad de la vía asignada por el Gráfico de circulación de trenes. Para el tren en cuestión, la estación de Bohumín era la estación de origen, es decir, se trataba de un tren saliente, entendiéndose por vía de tren el tramo de SK desde el final del tren hasta la altura de la señal de entrada para el sentido de circulación opuesto en el lado de salida. En la estación de Bohumín, durante la circulación del tren en dirección a Ostrava hl. n., entre la señal de salida L2 que permite la salida del tren y la señal de entrada para el sentido de circulación opuesto, se encontraban ubicadas otras señales principales (de vía y de salida). En el caso de que alguna de ellas prohibiera la circulación del tren, la vía de tren para el tren saliente finalizaría en esa señal concreta. Antes, sin embargo, de que el despachador director 1G ordene la preparación de la vía de tren, tiene, entre otras, la obligación de comprobar que en su ámbito de responsabilidad por la libre circulación de la vía de tren se ha detenido la maniobra perturbadora, es decir, aquella maniobra que, en relación con la circulación del tren, está prohibida, y que la vía de tren está libre. Con la orden de preparación de la vía de tren, el despachador director 1G ordena, entre otros, a los empleados participantes en la preparación de la vía de tren que detengan la maniobra perturbadora en los ámbitos designados y comprueben la libre circulación de la vía de tren, es decir, que no está ocupada la DV (salvo la ocupación de la DV del propio tren) y que están libres los correspondientes námezníky. El despachador director 1G era responsable de la emisión oportuna de la orden correcta de preparación de la vía de tren a todos los empleados que debían participar en la preparación de la vía de tren, y de la recepción del informe correcto de la realización de la preparación de la vía de tren por parte de todos los empleados participantes en la preparación de la vía de tren.
 Maniobrar con la DV en la estación de Bohumín solo era posible tras la concesión de la autorización para maniobrar, que es la información resumida necesaria para la realización segura de maniobras. La autorización para maniobrar en los ámbitos de la derecha del andén principal, andén de pasajeros y andén de estacionamiento la concede el despachador de sección 2G y, en el caso de maniobras realizadas en las SK destinadas a la circulación de trenes, solo puede concederla cuando conozca el transportista que va a maniobrar, la tecnología de maniobra solicitada por el transportista y la tracción (es decir, eléctrica o diésel) de todas las locomotoras activas incluidas en la unidad de maniobra. El despachador de sección 2G comunicará al empleado que dirige la maniobra en qué SK está permitido maniobrar. La autorización para maniobrar vale como consentimiento para maniobrar, pero solo para la circulación de la unidad de maniobra hasta la señal no transponible válida para maniobras más próxima. El despachador de sección 2G solo puede dar el consentimiento para maniobrar tras la estableción y comprobación de la correcta estableción de la vía de maniobra. El consentimiento para maniobrar concedido solo es válido para la vía de maniobra concreta establecida. Por vía de maniobra se entiende el tramo de SK desde el final de la unidad de maniobra hasta el punto que determine el empleado que dirige la maniobra. Sobre la vía de maniobra establecida, el despachador 2G informa al empleado que dirige la maniobra directamente o a través del jefe de la cuadrilla de maniobras concediéndole el consentimiento para maniobrar, con lo que a la vez permite poner en movimiento la unidad de maniobra. Uno de los medios para dar el consentimiento para maniobrar es la señal que permite maniobrar de la señal no transponible válida para maniobras, que solo es válida para la SK correspondiente. En este tramo, los desvíos y las agujas de apartadero afectados deben estar correctamente dispuestos para la circulación prevista.
@@ -2368,6 +2443,7 @@ Desde el punto de vista de la dirección del tráfico, para la sala nº 7 del CD
 El objetivo de la dirección del tráfico es el cumplimiento del GR de circulación de trenes, el cumplimiento del Plan de Circulación de Trenes aprobado, el cumplimiento de la circulación de los trenes en las rutas solicitadas por los transportistas con el cumplimiento del GR asignado y del marco temporal asignado de la capacidad de la vía, la organización de un transporte ferroviario fluido y seguro en tiempo real y la garantía del transporte y la resolución de situaciones operativas ante perturbaciones del tráfico, MU, incidencias y averías. En colaboración con otros empleados de dirección
 
 ## Página 71
+
 
 de la explotación, es decir, también con el despachador de circulación 1G y el despachador de sección 2G, tenía en el ámbito de control y la competencia asignada responsabilidad sobre los resultados de la dirección de la explotación y estaba, entre otras obligaciones, a:
 •
@@ -2396,6 +2472,7 @@ La constatación indicada no puede valorarse en relación causal con la aparici�
 
 ## Página 72
 
+
 ### Constatación:
 En la investigación se constató la infracción de una norma jurídica y de una norma interna, relativas a las funciones y obligaciones del explotador de la vía SŽ (despachador de explotación PD2), fuera de la relación causal con la aparición de la MU:
 •
@@ -2416,6 +2493,7 @@ Al conducir un tren (DV), el maquinista está, entre otras obligaciones, a condu
 
 ## Página 73
 
+
 Las actuaciones previas a la salida del tren con transporte de pasajeros, estacionado en la estación en el espacio destinado al embarque y desembarque de pasajeros (aunque solo con una parte de la composición destinada al transporte de pasajeros), las inicia siempre el maquinista del DV al frente con la señal «Llamada del maquinista» o «Llamada a la alerta», pero no antes de la hora de salida regular. Este procedimiento no se aplica en el caso de que el tren haya hecho una parada excepcional en el espacio de embarque y desembarque de pasajeros por cualquier motivo y el maquinista del DV al frente controle todas las puertas de embarque de la composición, que durante la permanencia no ha desbloqueado (no ha abierto).
 Tras la salida del tren del espacio destinado al embarque y desembarque de pasajeros, y también durante la marcha hacia el semáforo principal, el maquinista está obligado a observar la vía (la vía ante el tren) y las señales, actuar según los hechos constatados (véase más arriba) y cumplir las disposiciones de las normas jurídicas, de los procedimientos tecnológicos de SŽ y de los procedimientos tecnológicos uniformes del transportista ČD de modo que la circulación del tren sea segura. En los casos en que el maquinista constate que la circulación de su tren no está permitida o si el tren está amenazado por algo, está obligado a tomar con todos los medios disponibles las medidas para detener el tren.
 En el caso de que se produzca el relevo de maquinistas (relevo en ruta), el maquinista saliente entrega al maquinista entrante las órdenes escritas válidas para el tramo aún no recorrido. La entrega de las órdenes escritas la confirman ambos maquinistas en el Libro de entrega en el HDV.
@@ -2429,6 +2507,7 @@ En este punto es necesario indicar que, en el caso de la circulación no autoriz
 En la investigación se constató la infracción de normas jurídicas y de normas internas, relativas a las funciones y obligaciones del transportista ČD (del maquinista del tren Ex 516), en relación causal con la aparición de la MU:
 
 ## Página 74
+
 
 •
 § 35 apartado 1 letra a) de la Ley núm. 266/1994 Sb.:
@@ -2470,8 +2549,8 @@ En el caso de este concreto MU es necesario relacionar la disposición anterior 
 artículo 2979 letra a) de la norma interna SŽDC D1:
 "En las estaciones donde se permite el despacho de trenes desde la vía de tráfico mediante la señal del señalizador principal, se procederá además conforme a las siguientes disposiciones: si el maquinista ve que el señalizador principal vigente para la vía de tráfico en la que se encuentra la cabeza del tren permite la salida del tren
 
-
 ## Página 75
+
 
 (o si ha constatado este hecho a partir de la señal del señalizador principal anterior, del preaviso independiente, del preaviso repetidor o del freno automático de tren), pondrá el tren en movimiento tras la realización por el transportista de las maniobras prescritas;" ;
 •
@@ -2504,8 +2583,8 @@ En la investigación se constató la infracción de las disposiciones legales y 
 § 35 apartado 1 letra a) de la Ley núm. 266/1994 Sb.:
 "El transportista está obligado a explotar el transporte ferroviario de acuerdo con las reglas de explotación del transporte ferroviario, la licencia vigente y el contrato celebrado con el explotador de la vía sobre la explotación del transporte ferroviario en la vía,";
 
-
 ## Página 76
+
 
 •
 § 35 apartado 1 letra f) de la Ley núm. 266/1994 Sb.:
@@ -2532,6 +2611,7 @@ Ninguna disposición legal ni los procedimientos tecnológicos uniformes del tra
 
 ## Página 77
 
+
 k odjezdu“ al maquinista, mediante un vistazo u otro método (p. ej., mediante una consulta del maquinista), de que la señal principal correspondiente aplicable a la salida del tren concreto permite con su indicación la marcha del tren, incluso en los casos en que la señal correspondiente pueda pasar desapercibida y, mediante un vistazo, comprobar la indicación emitida por la misma. En el caso de que:
 •
 la señal principal correspondiente aplicable a la salida del tren concreto no permita con su indicación la marcha del tren, comprobar mediante una consulta al maquinista si la marcha del tren junto a dicha señal había sido permitida por el gestor de la infraestructura de otra manera, incluidas las condiciones establecidas;
@@ -2542,8 +2622,8 @@ En la investigación no se detectó, en la actividad del jefe de servicio de a b
 
 El transportista ČD está obligado, según los procedimientos tecnológicos del gestor de la infraestructura SŽ recogidos en la norma interna SŽ Is10, a transmitir al gestor de la infraestructura el mensaje «Tren preparado», con el que comunica al gestor de la infraestructura que en la hora indicada en dicho mensaje cumple todas las condiciones necesarias para la salida del tren del punto de tráfico designado y que está preparado, una vez establecida la ruta de tren, para salir inmediatamente con el tren, o bien prevé cumplir dichas obligaciones en el plazo notificado en el mensaje. El mensaje «Tren preparado» puede registrarse o enviarse por datos como muy pronto 3 h antes de la salida prevista. En las condiciones del transportista ČD, la transmisión del mensaje «Tren preparado» al gestor de la infraestructura SŽ se realiza mediante la acción automática de los sistemas de información APS CS, Archivo de Datos Primarios y Sistema de Información de Despacho del Transporte de Pasajeros, que están configurados según las condiciones establecidas en la norma interna SŽ Is10. Los mensajes se envían por datos. El transportista, a través de los sistemas de información mencionados anteriormente, envía el mensaje «Tren preparado» 175 minutos antes de la salida regular del tren del punto de tráfico concreto, ya sea el de origen o el intermedio. El mensaje «Tren preparado» es enviado por el transportista solo después de cumplir todas las condiciones, es decir, la activación de la ruta, la ocupación planificada del turno por un maquinista concreto y, por último, después del envío del análisis del tren. En caso de que el tren no esté preparado en la hora indicada en el mensaje «Tren preparado», el transportista puede anular el mensaje (información) enviado previamente mediante el envío de un nuevo mensaje «Tren preparado con estado 3 – anulación». Con ello informa al gestor de la infraestructura de que no cumple todas las condiciones necesarias para la salida del tren del punto de tráfico designado. Si el transportista, por cualquier motivo, no cumple la información indicada en el mensaje enviado «Tren preparado», está obligado, a través del despachador de red de ČD, quien p. ej. obtiene la información de la no incorporación del maquinista al servicio (turno) del jefe de máquinas en el marco de la dirección operativa y la resolución de incidencias en el transporte ferroviario (véanse los puntos 3.1.9, 4.3.2 y 4.3.3 de la presente ZZ), a enviar al gestor de la infraestructura un nuevo mensaje «Tren preparado con estado 2 – corrección» que contenga la información sobre la hora actualizada en la que se
 
-
 ## Página 78
+
 
 cumplirán todas las condiciones necesarias para la salida del tren del punto de tráfico designado, y de que el transportista está preparado, una vez establecida la ruta de tren, para salir inmediatamente con el tren.
 
@@ -2573,8 +2653,8 @@ La DI, en el marco de la investigación de la MU en cuestión, abordó también 
 
 Como se indicó en el punto 3.1.7 de la presente ZZ, el material rodante de la serie 742 es una locomotora de tipo capota con una sola cabina de conducción, que está situada entre los frentes de capota estrechados. La superficie libre de suelo de la cabina de conducción, aparte de los equipos operativos fijos, es de 3,15 m2. Según los procedimientos tecnológicos uniformes del transportista ČDC recogidos en la Directiva PTs9-B-2011, pueden viajar en la cabina de conducción, desde la que se conduce el material rodante, un máximo de 4 personas, incluido el maquinista, siempre que el espacio de dicha cabina permita al maquinista conducir el material rodante sin obstrucciones, y esto sin ninguna especificación según las distintas series (tipos) de material rodante.
 
-
 ## Página 79
+
 
 Aunque el transportista conocía los parámetros de las cabinas de conducción de las distintas series (tipos) de material rodante que utilizaba para explotar el transporte ferroviario, trasladó (delegó) la responsabilidad únicamente en el maquinista para que él mismo valorara si junto con él viajaban en la cabina otras una, dos o tres personas autorizadas, con la condición de permitir la conducción del material rodante sin obstrucciones. Dada la superficie libre de suelo de la cabina de conducción del material rodante de la serie 742, aparte de los equipos operativos fijos, de 3,15 m2, y el espacio mínimo de 2 m2 destinado al trabajo permanente de un empleado, en este caso el maquinista, establecido por el Decreto del Gobierno núm. 361/2007 Sb., queda para las otras hasta 3 personas que viajan con él en la cabina de conducción una superficie de 1,15 m2, es decir, 0,383 m2 por persona. Es evidente que la superficie de 0,383 m2 correspondiente a una de las otras tres personas que viajan en la cabina de conducción del material rodante de la serie 742 es insuficiente incluso para una persona de complexión delgada. Si en dicha cabina viajan junto con el maquinista otras 3 personas, utilizan el espacio destinado a su trabajo permanente, con todos los efectos negativos que ello tiene sobre su entorno laboral, en combinación con los riesgos derivados de la distracción del maquinista debido al mayor número de personas en una cabina poco espaciosa. A partir de ahí, depende únicamente de la decisión personal del maquinista del material rodante de la serie 742 a cuántas de las otras personas, hasta un máximo de tres, permitirá viajar con él en la cabina de conducción (véase el punto 6 de la presente ZZ), decisión en la que puede influir la instrucción dada por el superior en el turno para el transporte de otra persona (empleado). Como se indicó anteriormente, el espacio mínimo de 2 m2 establecido por el Decreto del Gobierno núm. 361/2007 Sb. se refiere al trabajo permanente, es decir, al trabajo realizado durante 4 h por turno o más. El tiempo durante el que se encontraron 4 personas (3 personas en la cabina de conducción y una fuera de la cabina, véase más abajo) en el material rodante de maniobras de ČDC fue considerablemente inferior a 4 h, y por tanto no puede valorarse lo anterior como un incumplimiento de la normativa.
 
@@ -2589,6 +2669,7 @@ En la investigación se detectó el incumplimiento de la normativa, relativa a l
 «El transportista que explota el transporte ferroviario en la vía de ámbito nacional o en la vía regional, que es titular de una licencia vigente, está además obligado a garantizar que el sistema de garantía de la seguridad del transporte ferroviario implantado por él de acuerdo con el derecho directamente aplicable
 
 ## Página 80
+
 
 del reglamento de la Unión Europea que establece métodos comunes de seguridad relativos a los requisitos del sistema de gestión de la seguridad tenía en cuenta el tipo, ámbito y alcance de la explotación y se cumplía,";
 
@@ -2623,8 +2704,8 @@ En la investigación no se detectó incumplimiento de las funciones y obligacion
 
 La autoridad nacional de seguridad es el DÚ, que de acuerdo con la Ley n.º 266/1994 Sb. es una autoridad administrativa dependiente del Ministerio de Transportes. Su función es, entre otras, el ejercicio de la supervisión estatal en materia de vías férreas y en materia de autoridad de construcción, el ejercicio de la autoridad de construcción especial para obras de la vía férrea y obras sobre la vía férrea, la aprobación de nuevos
 
-
 ## Página 81
+
 
 y modernizados MR y de equipos técnicos designados, así como la tramitación de infracciones. El DÚ tiene la obligación de comunicar al DI, en un plazo de 12 meses desde la fecha de publicación del informe final que contenga las recomendaciones de seguridad dirigidas a él, qué medida ha adoptado en relación con dicha recomendación de seguridad; realiza esta comunicación de forma periódica, al menos una vez al año, hasta la adopción de las medidas correspondientes.
 
@@ -2656,8 +2737,8 @@ Una de las características del sistema ETCS es la intervención activa en la co
 
 El tren de origen Ex 516, tras ser puesto en movimiento en la est. Bohumín (tras el inicio de la misión) y durante la marcha hacia la señal de salida L2, habría sido un tren circulando bajo supervisión de la parte móvil del ETCS en el modo
 
-
 ## Página 82
+
 
 "A responsabilidad del maquinista" (SR), porque su posición no habría sido determinable de forma unívoca, es decir, fiable para el correspondiente centro de bloqueo por radio.
 
@@ -2677,8 +2758,8 @@ en el segundo de los casos descritos, incluso sin utilizar la función "Supresi�
 
 En la investigación no se detectaron factores derivados de la construcción del MR, de la infraestructura ferroviaria o de los equipos técnicos, porque en la est. Bohumín en el momento de la producción del MU no estaba implantada la explotación exclusiva de trenes bajo supervisión del ETCS.
 
-
 ## Página 83
+
 
 4.2.2 Factores o consecuencias derivados de la instalación y puesta en servicio del material rodante, de la infraestructura ferroviaria o de los equipos técnicos
 
@@ -2716,6 +2797,7 @@ La duración de la jornada laboral semanal establecida del maquinista del tren E
 
 ## Página 84
 
+
 del transportista ČD se desprende que el maquinista del tren Ex 516, en el período desde el 1. 6. 2022 hasta la aparición de la MU en cuestión, trabajó 19 turnos completos, habiendo surgido la MU en cuestión al comienzo del 20.º turno. La jornada laboral prevista (tiempo de trabajo) del maquinista del tren Ex 516, incl. conducción de HDV, fue planificada por el transportista de manera que no superara las 13 h.
 La DI, en el marco del análisis de turnos, constató que al maquinista del tren Ex 516 le fueron planificadas por el transportista jornadas laborales (turnos), entre las que figuran, entre otras, las siguientes fechas:
 •
@@ -2734,16 +2816,16 @@ La DI, en el marco del análisis de turnos, constató que al maquinista del tren
   tenía acordado (previsto) el comienzo de la jornada laboral (turno) a las 4:05 h en la est. Bohumín y el final acordado (previsto) de la jornada laboral (turno) a las 9:14 h en el PP Praha hl. n. La jornada laboral (tiempo de trabajo) del maquinista debía ser de 5:09 h. Durante dicha jornada laboral, el maquinista debía tomar a las 4:25 h, en el ámbito de la estación de maniobras de la est. Bohumín, desde el eje del maquinista 1 PP Bohumín la unidad eléctrica 680 destinada al tren Ex 516. Tras tomar la unidad, el maquinista del tren Ex 516 debía realizar una maniobra desde el ámbito de la estación de maniobras hasta el ámbito de la estación de viajeros, hasta el lugar destinado al embarque de los pasajeros, y continuar la marcha como tren Ex 516 Bohumín – Praha hl. n.
 La DI, en el marco de la investigación de los factores laborales, abordó también las condiciones de descanso que el transportista creó para el maquinista del tren Ex 516 tras la finalización de la jornada laboral (turno) del 26. 6. 2022 a las 21:00 h y antes de la siguiente jornada laboral (turno), que fue
 
-
 ## Página 85
+
 
 planificada para el día siguiente a partir de las 4:05 h en la est. Bohumín. Como ya se ha indicado más arriba, para este fin el transportista proporcionó al maquinista alojamiento, incl. cama, en la OCÚ Východ, SÚ Bohumín, en la 1.ª planta del edificio „Stará správkárna“, concretamente en la habitación n.º 3. El maquinista tenía impuesta por el transportista la obligación de recoger, al final de la jornada laboral (turno), en el despacho del supervisor de transporte de pasajeros – jefe de turno (en adelante, supervisor de transporte ČD) en el despacho del andén n.º 1 de la est. Bohumín, la llave de la habitación con la inscripción „Nocležna 3“ junto con el chip que permite el acceso al edificio „Stará správkárna“, cuyo uso era registrado por un sistema electrónico interno. La salida de dicho edificio no estaba condicionada al uso del chip y, por lo tanto, las salidas del edificio no eran registradas. El transportista llevaba registro de la recepción de las llaves en el documento „KNIHA NOCLEŽEN (ubytoven) ČD“, que contenía el nombre y apellidos del empleado, la fecha, el número de empleado, el número de tren al final de la jornada laboral (turno), el número de la habitación asignada, el número de tren al comienzo de la siguiente jornada laboral (turno) y la firma del empleado. Tras finalizar el descanso – antes del comienzo de la siguiente jornada laboral (turno) – el maquinista tenía la obligación de devolver la llave con el chip al supervisor de transporte ČD.
 La envolvente exterior del edificio „Stará správkárna“ estaba formada de ladrillos cocidos sin ningún tipo de aislamiento térmico. La habitación n.º 3 estaba equipada con dos camas individuales correctamente tendidas, una mesa con silla, un sillón, un frigorífico en funcionamiento, una tetera eléctrica y un espacio para dejar los objetos personales. El mobiliario de la habitación tenía, a simple vista, „sus mejores años a sus espaldas“. La ventana de la habitación, provista de mosquitera, estaba orientada al sureste hacia la vía del PP Bohumín y el ámbito de la estación de viajeros de la est. Bohumín. El tráfico ferroviario tenía un efecto negativo en el nivel de ruido de la estancia, especialmente durante su ventilación. Para reducir la temperatura del aire en la habitación, la ventana se dejó abierta antes de la llegada de los maquinistas, ya que la estancia no estaba equipada con unidad de aire acondicionado.
 Fig. n.º 3: Acondicionamiento de la habitación n.º 3 del edificio „Stará správkárna“ PP Bohumín, es decir, el espacio destinado al llamado descanso fijo (que une 2 turnos) del maquinista del tren Ex 516
 Fuente: DI
 
-
 ## Página 86
+
 
 Debido a la orientación del edificio, la pared exterior del edificio „Stará správkárna“ con la ventana de la habitación n.º 3 se encontraba, en el mes de junio, a partir de las 15 h, a la sombra de los rayos solares. Tras la aparición de la MU, la DI verificó repetidamente, en condiciones meteorológicas similares, la temperatura del aire en la habitación n.º 3, en el período posterior a la llegada del maquinista tras la finalización de la jornada laboral (turno) en el tren Ex 243. En las verificaciones se constató repetidamente una temperatura del aire de 27,9 °C, valor inferior en unos 0,7 °C respecto a la temperatura exterior del aire. Tras la aparición de la MU, el transportista equipó el mobiliario de la habitación n.º 3 con una unidad de aire acondicionado móvil.
 Aunque el acondicionamiento interior de la habitación n.º 3 del edificio „Stará správkárna“ PP Bohumín no cumplía los estándares actuales de alojamiento, permitía al maquinista descansar (descanso en cama) antes de la siguiente jornada laboral (turno).
@@ -2756,8 +2838,8 @@ Del análisis del período transcurrido desde el final de la jornada laboral (tu
  :
 ◦recogió en el despacho del supervisor de transporte ČD, en el despacho del andén n.º 1 de la est. Bohumín, la llave de la habitación con la inscripción „Nocležna 3“ junto con el chip que permite el acceso al edificio „Stará správkárna“,
 
-
 ## Página 87
+
 
 ◦confirmó la recepción de las llaves mediante la cumplimentación de todos los datos en el documento „KNIHA NOCLEŽEN (ubytoven) ČD“,
 ◦aunque tenía acordado (previsto) el final de la jornada laboral (turno) a las 21:00 h, ya a las 20:04:43 h accedió mediante el chip al edificio „Stará správkárna“, sin que ningún otro acceso suyo fuera registrado por el sistema;
@@ -2793,6 +2875,7 @@ En la investigación de la MU se constató asimismo que el maquinista del tren E
   no se incorporó a la jornada laboral (turno) a la hora establecida de las 4:05 h, no comunicó al jefe de máquinas 2 PH1 PP Praha hl. n. la incorporación a la jornada laboral (mediante mensaje SMS predefinido) y a las 4:25 h no acudió al lugar de relevo en el ámbito de la estación de maniobras de la est. Bohumín. Por este motivo, la unidad eléctrica destinada al tren Ex 516 fue tomada recién en el ámbito de la estación de viajeros de la est. Bohumín a la hora
 
 ## Página 88
+
 
 poco antes de la salida regular del tren. Después, con el tren Ex 516 desde la est. Bohumín, partió a las 4:59 h, es decir, en el momento de su salida regular;
 •
@@ -2831,8 +2914,8 @@ art. 23 letra n) de la norma interna ČD V2:
 art. 66 de la norma interna ČD V2:
 «En el tiempo desde el inicio del servicio o la recepción de la unidad de tracción en el lugar de su estacionamiento, el maquinista procederá de manera que, por su culpa, no se produzca la entrega tardía de la unidad de tracción
 
-
 ## Página 89
+
 
 a los límites del depósito de vehículos ferroviarios o al lugar establecido en la estación ferroviaria.»;
 •
@@ -2854,8 +2937,8 @@ para comunicar el fin de la prestación de servicios (turno) 20 min antes del fi
 para comunicar la incorporación a la prestación de servicios (turno) 20 min antes de la incorporación y 20 min después de la incorporación a la prestación de servicios (turno).
 Para el seguimiento de la incorporación a la prestación de servicios (turno) y del fin de la prestación de servicios (turno) de los maquinistas, es decir, también en los casos en que el fin y el comienzo de su prestación de servicios fue planificado por el transportista ČD fuera del puesto de trabajo de origen del maquinista, en el módulo Plan de trabajo de la tarea de presencia APS CS se ha creado también el módulo «Comunicación de turno» con la tabla «Resumen de comunicaciones». La función del módulo «Comunicación de turno» permite al maquinista jefe, mediante la función «Configuración de confirmación de incorporación», entre otras cosas, configurar la forma de aviso sobre:
 
-
 ## Página 90
+
 
 •
 no avisar;
@@ -2871,68 +2954,33 @@ De la investigación de la MU se constató, entre otras cosas, que el maquinista
 
 ## Página 91
 
-unidos en Bohumín con el llamado descanso fijo por una jornada de trabajo (turno) con
-inicio y fin en el puesto de trabajo Praha Jih, en relación con el no uso de la tarea de
-presencia APS CS, concretamente el módulo "Hlášení na směnu" con la tabla "Přehled
-hlášení", por parte del jefe de máquinas 1 PH1 PP Praha hl. n.
-Durante la investigación, el DI verificó que la tarea de presencia APS CS, concretamente
-el módulo "Hlášení na směnu" con la tabla "Přehled hlášení", no es amigable para el
-usuario; sin embargo, el módulo en cuestión estaba funcional y nada impedía su uso
-práctico por parte de los jefes de máquinas. No obstante, incluso en el momento de la
-presencia del DI en el puesto de trabajo de los jefes de máquinas de PH1 PP Praha hl. n.,
-el jefe de máquinas en servicio no utilizaba la tarea de presencia APS CS, concretamente
-el módulo "Hlášení na směnu" con la tabla "Přehled hlášení", y sus superiores toleraban
-dicho no uso.
-Lo anterior tuvo como consecuencia el no aseguramiento de la realización de la prueba
-de aliento orientativa para consumo de alcohol al maquinista del tren Ex 516 en la est.
-Bohumín, que se presentó tarde a la jornada de trabajo (turno), a través de una persona
-con competencia profesional, antes de asumir el mando de la unidad eléctrica del tren
-Ex 516.
+en Bohumín, denominado descanso fijo durante una jornada de trabajo (turno) con inicio y fin en el puesto de trabajo Praha Jih, en relación con el no uso de la tarea de asistencia APS CS, concretamente el módulo "Declaración de turno" con la tabla "Resumen de declaraciones", por parte del jefe de locomotoras 1 PH1 PP Praha hl. n.
+Durante la investigación, el DI verificó que la tarea de asistencia APS CS, concretamente el módulo "Declaración de turno" con la tabla "Resumen de declaraciones", no es amigable para el usuario; sin embargo, el módulo en cuestión estaba funcional y nada impedía su uso práctico por parte de los jefes de locomotoras. No obstante, incluso en el momento de la presencia del DI en el puesto de trabajo de los jefes de locomotoras de PH1 PP Praha hl. n., la tarea de asistencia APS CS, concretamente el módulo "Declaración de turno" con la tabla "Resumen de declaraciones", no era utilizada por el jefe de locomotoras que estaba prestando servicio, y su no uso era tolerado por los superiores.
+Lo anterior tuvo como consecuencia el no aseguramiento de la realización de una prueba de alcoholemia orientativa al conductor del tren Ex 516 en la estación de Bohumín, que se presentó tarde para la jornada de trabajo (turno), por parte de una persona competente antes de asumir el mando de la unidad eléctrica del tren Ex 516.
 ### Hallazgos:
-Durante la investigación se constató la infracción de normativa legal y normativa interna,
-relativa a las funciones
-### y obligaciones del transportista ČD, en relación causal con la aparición de la MU:
+Durante la investigación se constató la infracción de normas legales y normas internas relativas a las funciones y obligaciones del transportista ČD, en relación causal con la aparición de la MU:
 •
 § 301 de la Ley núm. 262/2006 Sb.:
 "Los empleados están obligados
-a) a trabajar adecuadamente según sus fuerzas, conocimientos y capacidades, a cumplir
-las instrucciones de sus superiores dictadas de conformidad con la normativa legal y a
-cooperar con los demás empleados,
-b) a utilizar la jornada laboral y los medios de producción para la realización de los
-trabajos encomendados, a cumplir las tareas laborales de forma cualitativa y puntual,
-c) a cumplir la normativa legal relativa al trabajo que realizan; a cumplir la restante
-normativa relativa al trabajo que realizan, si han sido debidamente informados de la
-misma,
+a) a trabajar adecuadamente según sus fuerzas, conocimientos y capacidades, a cumplir las instrucciones de los superiores emitidas de conformidad con las disposiciones legales y a colaborar con los demás empleados,
+b) a utilizar el tiempo de trabajo y los medios de producción para la realización de los trabajos encomendados, a cumplir las tareas laborales de forma cualificada y puntual,
+c) a cumplir las disposiciones legales relativas al trabajo que realizan; a cumplir las demás disposiciones relativas al trabajo que realizan, si han sido debidamente informados de las mismas,
 d) ...";
 •
 § 35 apartado 1 letra a) de la Ley núm. 266/1994 Sb.:
-"El transportista está obligado a explotar el transporte ferroviario de acuerdo con las
-reglas de explotación del transporte ferroviario, la licencia vigente y el contrato celebrado
-con el explotador de la infraestructura sobre la explotación del transporte ferroviario en
-la infraestructura,";
+"El transportista está obligado a explotar el transporte ferroviario de acuerdo con las reglas de explotación del transporte ferroviario, la licencia vigente y el contrato celebrado con el explotador de la vía sobre la explotación del transporte ferroviario en la vía," ;
 •
 § 35 apartado 2 letra f) de la Ley núm. 266/1994 Sb.:
-"El transportista que explota el transporte ferroviario en la infraestructura de ámbito
-nacional o en la infraestructura regional, que es titular de una licencia vigente, está
-obligado además a garantizar que el sistema de garantía de seguridad del transporte
-ferroviario establecido por él de acuerdo con la norma directamente aplicable de la
-Unión Europea que regula los métodos comunes de seguridad relativos a los requisitos
-del sistema de garantía de seguridad, tenga en cuenta el tipo, el ámbito y la extensión
-de la explotación, y que sea cumplido,";
+"El transportista que explota el transporte ferroviario en una vía de ámbito nacional o en una vía regional, que es titular de una licencia vigente, está asimismo obligado a garantizar que el sistema de garantía de la seguridad del transporte ferroviario establecido por él de conformidad con la disposición directamente aplicable de la Unión Europea que regula los métodos comunes de seguridad relativos a los requisitos del sistema de garantía de la seguridad, tenga en cuenta el tipo, el ámbito y la extensión de la explotación, y que se cumpla," ;
 •
 del punto 2.3.1 del ANEXO I del Reglamento de la Comisión (UE) 2018/762:
-"Las obligaciones, la responsabilidad y las competencias de los empleados que tienen un
-papel con influencia en la seguridad (incluidos los directivos y otros empleados que
-participan en tareas relacionadas con la seguridad), deben definirse en todos los niveles
-de la organización, documentarse, asignarse y comunicarse a las personas pertinentes.";
+"Las obligaciones, la responsabilidad y las competencias de los empleados que desempeñen una función con influencia en la seguridad (incluidos los directivos y otros empleados que participen en tareas relacionadas con la seguridad) deben definirse en todos los niveles de la organización, documentarse, asignarse y comunicarse a las personas correspondientes.";
 •
 del punto 2.3.2 del ANEXO I del Reglamento de la Comisión (UE) 2018/762:
-"La organización debe garantizar que los empleados con obligaciones delegadas en el
-ámbito de las tareas relacionadas con la seguridad tengan la autoridad, las competencias
-y los recursos correspondientes
-
+"La organización debe garantizar que los empleados con obligaciones delegadas en el ámbito de las tareas relacionadas con la seguridad dispongan de la autoridad, la competencia y la formación adecuadas
 
 ## Página 92
+
 
 para poder realizar sus tareas sin verse desfavorablemente afectados por la actividad de
 otras funciones empresariales.";
@@ -2989,74 +3037,30 @@ transportista en el momento de la aparición de la MU y asignadas y comunicadas 
 jefes de máquinas por el contenido de la normativa interna ČD V1 (vigorosa hasta el 30.
 6. 2022) y del Reglamento de Explotación de PP Praha hl. n.
 
-
 ## Página 93
 
-Las obligaciones básicas del empleado que ejerce la función de jefe de máquinas eran,
-según el art. 387 de la normativa interna ČD V1, entre otras:
+Las obligaciones básicas del empleado que desempeña la función de jefe de locomotora eran, según el art. 387 del reglamento interno de ČD V1, entre otras:
 •
-sustituir al jefe de estación de DKV (jefe de PP) en el tiempo y alcance indicados en la
-disposición del reglamento de explotación de DKV (PP).
-Nota del DI: el puesto de trabajo de jefe de estación de DKV se extinguió en el marco de
-la reorganización de ČD, realizada antes de la aparición de la MU, y en el momento de la
-aparición de la MU no existía;
+sustituir al jefe de tráfico de DKV (jefe de PP) en el tiempo y en la medida indicados en la disposición del reglamento de explotación de DKV (PP).
+Nota DI: el puesto de trabajo de jefe de tráfico de DKV se suprimió en el marco de la reorganización de ČD, realizada antes de la creación de MU, y en el momento de la creación de MU no existía;
 •
-informarse mutuamente con el despachador de OPŘ sobre las entradas, circulaciones y
-giros de material rodante propio y ajeno y de las tripulaciones de locomotoras, y
-cooperar con dicho despachador en el sentido de la normativa ČD D7.
-Nota del DI: la unidad organizativa OPŘ se extinguió en el marco de la reorganización de
-ČD, realizada antes de la aparición de la MU, y en el momento de la aparición de la MU
-no existía, y asimismo la normativa interna ČD D7 había perdido su vigencia en ese
-momento;
+informarse mutuamente con el despachador de OPŘ sobre entradas, circulaciones y maniobras de material rodante propio y ajeno (HDV) y de las dotaciones de locomotoras, y colaborar con dicho despachador en el sentido del reglamento de ČD D7.
+Nota DI: la unidad organizativa OPŘ se suprimió en el marco de la reorganización de ČD, realizada antes de la creación de MU, y en el momento de la creación de MU no existía, y asimismo el reglamento interno de ČD D7 había perdido su vigencia en ese momento;
 •
-asigna la realización del trabajo a las tripulaciones de locomotoras, confirma la entrada
-y la finalización del servicio en el registro de explotación de las tripulaciones de
-locomotoras, si entran o finalizan el servicio en DKV (PJ).
-Nota del DI: la unidad organizativa DKV se extinguió en el marco de la reorganización de
-ČD, realizada antes de la aparición de la MU, y en el momento de la aparición de la MU
-no existía;
+asigna la explotación a las dotaciones de locomotoras, confirma la entrada y el fin del servicio en el registro de explotación de las dotaciones de locomotoras, cuando entran o terminan el servicio en DKV (PJ).
+Nota DI: la unidad organizativa DKV se suprimió en el marco de la reorganización de ČD, realizada antes de la creación de MU, y en el momento de la creación de MU no existía;
 •
-coopera con el aparato de despacho de OPŘ en el sentido de la normativa ČD D7.
-Nota del DI: la información relativa a la existencia de la unidad organizativa OPŘ y a la
-vigencia de la normativa ČD D7 se indica más arriba;
+colabora con el aparato de despacho de OPŘ en el sentido del reglamento de ČD D7.
+Nota DI: la información relativa a la existencia de la unidad organizativa OPŘ y a la vigencia del reglamento de ČD D7 se indica más arriba;
 •
-cumple otras tareas dadas por el reglamento de explotación de DKV (unidad de
-explotación), la ficha de puesto de trabajo y se rige por las instrucciones de sus
-superiores.
-Nota del DI: la información relativa a la existencia de la unidad organizativa DKV se
-indica más arriba.
-Las obligaciones del empleado que ejerce la función de jefe de máquinas en PP Praha hl.
-n. en el momento de la aparición de la MU eran además reguladas por los procedimientos
-contenidos en el Reglamento de Explotación de PP Praha hl. n., según el cual PP estaba
-determinado "para los maquinistas y brigadas de maniobras de ČD que entran a realizar
-trabajos en el ámbito de ŽST Praha hlavní nádraží, que garantizan el transporte de trenes
-de transporte de viajeros en los ramales de circulación determinados por el GVD de ČD y
-las maniobras de estación en la estación de ferrocarril Praha hl. n. y en la estación de
-ferrocarril TGM. PP Praha hl. n. está organizativamente integrado en la estructura del
-Depósito de Material Rodante de Praga, estando directamente dirigido desde PJ
-Vršovice.". Según el art. 6, el superior inmediato de los maquinistas de PP Praha hl. n.
-era el jefe de máquinas de PJ Vršovice. El lugar para el reporte del inicio de la jornada de
-trabajo (entrada al turno) y de la finalización de la jornada de trabajo (turno) era la sala
-de servicio de los maquinistas de PP Praha hl. n., desde donde los maquinistas, al inicio
-de la jornada de trabajo (turno) y al final de la jornada de trabajo (turno), se reportaban
-telefónicamente al jefe de máquinas de PJ Vršovice.
-Nota del DI: en el momento de la aparición de la MU, el superior inmediato de los
-maquinistas de PP Praha hl. n., es decir, también del maquinista del tren Ex 516, era el
-jefe de máquinas de PH1 PP Praha hl. n., que tenía su puesto de trabajo en las
-dependencias de PP Praha hl. n., y no el jefe de máquinas de PJ Vršovice. Asimismo, los
-maquinistas, al inicio de la jornada de trabajo (turno) y al final de la jornada de trabajo
-(turno), no se reportaban telefónicamente al jefe de máquinas de PJ Vršovice, sino
-según los trabajos de jornada (turnos) planificados al jefe de máquinas correspondiente
-de PP Praha hl. n.
-De lo anterior se deduce que las normativas internas en cuestión no fueron actualizadas
-por el transportista ČD en el momento de la aparición de la MU (armonizadas con el
-estado real y la organización del transporte ferroviario) y hacían referencia a normativas
-internas de ČD que ya habían perdido su vigencia, siendo así que algunas de sus partes
-no correspondían con la organización de ČD ni con algunas disposiciones de las
-normativas internas vigentes de dicho transportista.
-
+cumple otras tareas encomendadas por el reglamento de explotación de DKV (unidad de explotación), la ficha de puestos y se rige por las instrucciones de sus superiores.
+Nota DI: la información relativa a la existencia de la unidad organizativa DKV se indica más arriba.
+Las obligaciones del empleado que desempeña la función de jefe de locomotora en PP Praha hl. n. en el momento de la creación de MU venían además reguladas por los procedimientos contenidos en el Reglamento de explotación de PP Praha hl. n., según el cual PP estaba determinado «para las dotaciones de conductores de tren y de maniobras de ČD que toman servicio en las explotaciones en el ámbito de la estación de ferrocarril Praha hlavní nádraží, que garantizan el transporte de trenes de transporte de pasajeros en los ramales de circulación determinados por el GVD de ČD y la maniobra en la estación de ferrocarril Praha hl. n. y en la estación de ferrocarril TGM. PP Praha hl. n. está organizativamente integrado en la estructura del Depósito de material rodante de Praha, y está dirigido directamente por PJ Vršovice». Según el art. 6, el superior inmediato de los conductores de tren de PP Praha hl. n. era el jefe de locomotora de PJ Vršovice. El lugar para comunicar el inicio de la prestación de trabajo (entrada al turno) y el fin de la prestación de trabajo (turno) era la sala de servicio de los conductores de tren de PP Praha hl. n., desde donde los conductores de tren comunicaban telefónicamente al jefe de locomotora de PJ Vršovice el inicio de la prestación de trabajo (turno) y el fin de la prestación de trabajo (turno).
+Nota DI: en el momento de la creación de MU, el superior inmediato de los conductores de tren de PP Praha hl. n., es decir, también del conductor del tren Ex 516, era el jefe de locomotora PH1 de PP Praha hl. n., que tenía su puesto de trabajo en las instalaciones de PP Praha hl. n., y no el jefe de locomotora de PJ Vršovice. Asimismo, los conductores de tren no comunicaban telefónicamente al jefe de locomotora de PJ Vršovice el inicio de la prestación de trabajo (turno) y el fin de la prestación de trabajo (turno), sino, según las prestaciones de trabajo (turnos) planificadas, al jefe de locomotora correspondiente de PP Praha hl. n.
+De lo anterior se deduce que los reglamentos internos en cuestión no fueron actualizados por el transportista ČD en el momento de la creación de MU (armonizados con el estado real y la organización del transporte ferroviario) y hacían referencia a reglamentos internos de ČD que ya habían perdido su vigencia, siendo así que algunas de sus partes no correspondían con la organización de ČD ni con algunas disposiciones de los reglamentos internos vigentes de dicho transportista.
 
 ## Página 94
+
 
 Dicho hallazgo no puede valorarse en relación causal con la aparición de la MU, porque a
 pesar de lo anteriormente indicado, los empleados del transportista en PP Praha hl. n.,
@@ -3104,27 +3108,27 @@ de la Unión Europea, en la Ley núm. 266/1994 Sb. y en los decretos de aplicaci
 
 ## Página 95
 
-4.4.2 Procedimientos, métodos, contenido y resultados de las actividades de evaluación de riesgos y seguimiento que realiza cualquiera de los sujetos participantes
+4.4.2 Procedimientos, métodos, contenido y resultados de las actividades de evaluación de riesgos y seguimiento realizadas por cualquiera de los sujetos implicados
 En los procedimientos, métodos, contenido y resultados de las actividades de evaluación de riesgos y seguimiento, relacionados con las circunstancias del origen de la MU en cuestión, no se detectaron deficiencias.
-### 4.4.3 Sistema de garantía de seguridad de los transportistas y gestores de infraestructura participantes
+### 4.4.3 Sistema de garantía de seguridad de los transportistas y gestores de infraestructura implicados
 En el sistema de seguridad del gestor de infraestructura SŽ, relacionado con las circunstancias de la MU en cuestión, no se detectó ninguna deficiencia.
 En el sistema de garantía de seguridad del transporte ferroviario de los transportistas ČD y ČDC, relacionado con las circunstancias de la MU en cuestión, se detectaron deficiencias (véanse los puntos 4.1.1 y 4.3.3 de la presente ZZ).
 ### 4.4.4 Sistema de gestión de los sujetos responsables del mantenimiento de los vehículos ferroviarios y de los talleres de mantenimiento
 El sistema de gestión de los sujetos responsables del mantenimiento de DV y de los talleres de mantenimiento no guardaba relación con el origen de la MU.
 ### 4.4.5 Resultados de la supervisión realizada por las autoridades nacionales de seguridad
 Atendiendo a los factores y circunstancias detectados del origen de la MU, la supervisión de la autoridad de seguridad no guarda relación con la MU en cuestión.
-### 4.4.6 Aprobaciones, certificados y evaluaciones emitidos por la agencia, las autoridades nacionales de seguridad u otros sujetos de evaluación de la conformidad
-El gestor de infraestructura explotaba la infraestructura en virtud de una autorización administrativa vigente y de un certificado de seguridad del gestor de infraestructura. El transportista explotaba el transporte ferroviario en virtud de una licencia vigente y de un certificado del transportista.
+### 4.4.6 Aprobaciones, certificados y evaluaciones emitidos por la Agencia, las autoridades nacionales de seguridad u otros sujetos de evaluación de la conformidad
+El gestor de infraestructura explotaba la infraestructura con base en una autorización administrativa vigente y en el certificado de seguridad del gestor de infraestructura. El transportista explotaba el transporte ferroviario con base en una licencia vigente y en el certificado del transportista.
 ### 4.4.7 Otros factores sistémicos
 En la investigación no se detectaron otros factores sistémicos.
-### 4.5 Sucesos anteriores de naturaleza similar
-La DI, en el período comprendido entre el 1. 1. 2012 y la fecha de origen de la MU en cuestión, registra en las vías ferroviarias, de categoría nacional y regional, un total de 234 MU análogas, cuya causa de origen fue la puesta en movimiento no autorizada de un tren con transporte de pasajeros – la salida no autorizada de un tren del espacio destinado al desembarque y embarque de pasajeros, seguida de la circulación no autorizada de dichos trenes más allá de la señal principal con la señal «Alto», en las estaciones donde la orden de salida del tren la da el jefe de estación al maquinista mediante la colocación de la señal principal en la señal que permite la circulación.
+### 4.5 Sucesos anteriores de naturaleza análoga
+El DI registra en el período comprendido entre el 1. 1. 2012 y la fecha de origen de la MU en cuestión, en las vías férreas de categoría nacional y regional, un total de 234 MU análogas, cuyo origen fue la puesta en movimiento no autorizada de un tren con transporte de pasajeros —salida no autorizada del tren del espacio destinado al embarque y desembarque de pasajeros, seguida de la circulación no autorizada de dichos trenes más allá de la señal principal con la señal «Alto», en las estaciones donde la orden de salida del tren la da el jefe de estación al maquinista mediante la colocación de la señal principal en la señal que autoriza la circulación.
 ### De este número, se produjo posteriormente una colisión de DV en 2 casos y, en 5 casos, también el descarrilamiento de DV. Como consecuencia de estas circulaciones no autorizadas, 44 personas resultaron lesionadas
 ### y se produjo un daño total por importe de 36 139 642 Kč.
-La DI, hasta la fecha de origen de la MU en cuestión, no registra en el período indicado en la est. Bohumín ninguna MU en la que un tren saliente con transporte de pasajeros hubiera circulado no autorizadamente más allá de la señal principal que indicaba la señal «Alto».
-
+El DI no registra, hasta la fecha de origen de la MU en cuestión, en el período indicado, ninguna MU en la est. Bohumín en la que un tren en salida con transporte de pasajeros hubiera pasado de forma no autorizada más allá de la señal principal que indicaba la señal «Alto».
 
 ## Página 96
+
 
 ### De la relación anterior de MU análogas, la DI investigó un total de 17 MU, cuando la causa inmediata del origen de todas estas MU fue el incumplimiento de la señal «Alto» de la señal principal por parte del maquinista, ocasionado por un descuido involuntario (error) del maquinista, que se manifestó en la puesta en movimiento no autorizada del tren, sin que el tren hubiera sido despachado de la estación y sin que el maquinista se hubiera asegurado mediante la vista si la señal principal correspondiente permitía la circulación del tren.
 Sobre la base de los resultados de la investigación de las MU en cuestión, la DI emitió recomendaciones de seguridad, cuyo objeto era, entre otros:
@@ -3141,8 +3145,8 @@ hasta la sustitución plena de la salvaguarda de seguridad que supone al jefe de
 Con excepción de las dos últimas recomendaciones de seguridad mencionadas y de la última frase de la tercera recomendación de seguridad, todas las recomendaciones emitidas por la DI han sido puestas en práctica, o bien su puesta en práctica se encuentra en curso en la actualidad.
 Hasta la fecha de emisión de la presente ZZ, ni el gestor de infraestructura SŽ ni el transportista ČD han adoptado, sobre la base de los resultados de su propia investigación de las causas y circunstancias del origen de la MU y de la responsabilidad detectada por su origen, más allá de las recomendaciones de seguridad aceptadas emitidas por la DI, ninguna medida propia adecuada y eficaz para su prevención, con excepción de las medidas adoptadas en el sentido de la Ley n.º 262/2006 Sb., la suspensión de la aptitud profesional del maquinista, el refuerzo de la actividad preventiva (de control) y la puesta en conocimiento de los demás empleados del transcurso, las causas y las consecuencias de las MU mencionadas, a pesar de que
 
-
 ## Página 97
+
 
 se siguen produciendo MU similares en casi la misma medida. En las estaciones donde se permite el despacho de un tren con transporte de pasajeros colocando la señal principal en la señal que permite la circulación, incl. PN, el gestor de infraestructura SŽ y el transportista ČD han confiado y siguen confiando en la univocidad, la claridad y la fácil ejecutabilidad de los procedimientos existentes previos a la puesta en movimiento del tren, incl. el despacho del tren, y en el estricto cumplimiento de dichos procedimientos por el factor humano, el maquinista. La salvaguarda de seguridad constituida por el jefe de estación (u otra persona), que realiza el despacho de los trenes correspondientes con la señal «Salida» (dada por el cuadro de señales), con una orden verbal, con una orden verbal dada por un dispositivo de telecomunicaciones o con una orden escrita, fue suprimida progresivamente sin una sustitución adecuada, a pesar de la recomendación de seguridad emitida por la DI, y tampoco fue sustituida por otra salvaguarda de seguridad adecuada (sustitutiva), tanto por parte del gestor de infraestructura como por parte del transportista [p. ej., mediante la modificación de los procedimientos de acompañamiento del tren previos a la puesta en movimiento del tren, que creara la salvaguarda de seguridad que actualmente falta para una reducción significativa del riesgo de error (equivocación) del maquinista en la salida de un tren con transporte de pasajeros del espacio destinado al desembarque y embarque de pasajeros (véanse los puntos 4.1.1 y 6 de la presente ZZ)].
 En este punto es necesario señalar el hecho de que en el pasado, cuando el jefe de estación realizaba el despacho de los trenes correspondientes con la señal «Salida» (dada por el cuadro de señales), con una orden verbal, con una orden verbal dada por un dispositivo de telecomunicaciones o con una orden escrita, es decir, en la época en que existía la salvaguarda de seguridad en forma de otra persona con aptitud profesional directamente implicada en el despacho del tren (procedimientos previos a la salida del tren), casi no se producían MU similares.
@@ -3166,44 +3170,38 @@ Bohumín station by the train driver of the express train No. 516 due to unconsc
 mistake of the train driver which manifested in the unauthorized movement of this
 train without dispatched from Bohumín station;
 
-
 ## Página 98
 
 •
-it was not ensure to provide orientation breathing test on ingestion alcohol of the
-train driver of the express train No. 516 which got on to work (shift) late, by his
-superior employee in shift.
-Contributing factor:
+no se aseguró de realizar la prueba de orientación de alcoholemia al conductor del tren expreso n.º 516, que llegó tarde a su turno, por parte de su superior en el turno.
+Factor contribuyente:
 •
-the train driver of the express train No. 516 got on to work (shift) under the influence
-(of alcohol) in condition of middle drunkenness.
-Systemic factor: none.
-### 5.2 Medidas adoptadas para la prevención de sucesos extraordinarios
-El gestor de infraestructura SŽ y el transportista ČDC no adoptaron ni emitieron ninguna medida en relación con la MU correspondiente.
-El transportista ČD, a la fecha de emisión de la ZZ, no ha finalizado la investigación de la MU y, por tanto, no ha emitido la evaluación de las causas y circunstancias del origen de la MU, que debería contener las medidas adoptadas para la prevención de MU.
-### Measures taken since the occurrence
-The infrastructure manager SŽ and the railway undertaking ČDC did not take any
-measures.
-The railway undertaking ČD has not end investigation at the date of publish this report,
-and therefore has not publish Evaluation causes and circumstances this occurrence, which
-would contain measure for elimination occurrences.
+el conductor del tren expreso n.º 516 acudió a su turno bajo la influencia (del alcohol) en estado de embriaguez media.
+Factor sistémico: ninguno.
+### 5.2 Medidas adoptadas para prevenir sucesos excepcionales
+El gestor de la infraestructura SŽ y el operador ferroviario ČDC no adoptaron ni emitieron ninguna medida en relación con el suceso excepcional indicado.
+El operador ferroviario ČD, a la fecha de emisión del informe, no había concluido la investigación del suceso excepcional y, por tanto, no había emitido la evaluación de las causas y circunstancias de la aparición del suceso excepcional, que debería contener las medidas adoptadas para prevenir sucesos excepcionales.
+### Medidas adoptadas desde la ocurrencia
+El gestor de la infraestructura SŽ y el operador ferroviario ČDC no adoptaron ninguna medida.
+El operador ferroviario ČD no ha concluido la investigación a la fecha de publicación de este informe y, por tanto, no ha publicado la Evaluación de las causas y circunstancias de esta ocurrencia, que debería contener medidas para la eliminación de ocurrencias.
 ### 5.3 Hallazgos complementarios
-En el gestor de infraestructura SŽ:
+En el gestor de la infraestructura SŽ:
 •
-la no emisión de la «Prohibición de circulación PD» al tren Ex 516 en la aplicación operativa ISOŘ por el despachador operativo PD2.
-En el transportista ČD:
+no emisión de la "Prohibición de circulación PD" al tren Ex 516 en la aplicación operativa ISOŘ por el despachador operativo PD2.
+En el operador ferroviario ČD:
 •
-la no comunicación por parte del maquinista del tren Ex 516:
-◦del fin del trabajo (turno) tras el tren Ex 243 en Bohumín los días 16 y 26 de 6 de 2022 al jefe de taller en la estación de origen,
-◦del inicio del trabajo (turno) en Bohumín los días 17 y 27 de 6 de 2022 al jefe de taller en la estación de origen;
+no comunicación por parte del conductor del tren Ex 516:
+◦del fin de la prestación laboral (turno) tras el tren Ex 243 en Bohumín los días 16 y 26 de junio de 2022 al maquinista de la estación de origen,
+◦del inicio de la prestación laboral (turno) en Bohumín los días 17 y 27 de junio de 2022 al maquinista de la estación de origen;
 •
-la no detección por parte de los jefes de taller 2 y 1 PH1 PP Praha hl. n. de que el maquinista del tren Ex 516 no comunicó:
-◦el fin del trabajo (turno) tras el tren Ex 243 en Bohumín los días 16 y 26 de 6 de 2022 al jefe de taller en la estación de origen,
-◦el inicio del trabajo (turno) en Bohumín el día 17 de 6 de 2022 al jefe de taller en la estación de origen;
+no verificación por parte de los maquinistas 2 y 1 PH1 PP Praha hl. n. de que el conductor del tren Ex 516 no había comunicado:
+◦el fin de la prestación laboral (turno) tras el tren Ex 243 en Bohumín los días 16 y 26 de junio de 2022 al maquinista de la estación de origen,
+◦el inicio de la prestación laboral (turno) en Bohumín el día 17 de junio de 2022 al maquinista de la estación de origen;
 •
-los reglamentos internos ČD V1 y el Reglamento Operativo PP Praha hl. n. no fueron actualizados (armonizados con el estado real de los hechos) y hacían referencia a reglamentos internos ČD no vigentes;
+los reglamentos internos de ČD V1 y el Reglamento Operativo de PP Praha hl. n. no fueron actualizados (armonizados con el estado real de los hechos) y hacían referencia a reglamentos internos de ČD no válidos;
 
 ## Página 99
+
 
 •
 exceso de la velocidad máxima permitida por el maquinista 1 PP Bohumín durante la maniobra de un tramo de maniobras de ČD en la estación. Bohumín desde la vía de estación n.º 205 a la vía de estación n.º 2, es decir, del ámbito de la estación de mercancías al ámbito de la estación de viajeros, hasta 3 km·h-1.
@@ -3240,8 +3238,8 @@ A la Autoridad Ferroviaria:
 •
 la adopción de medidas que garanticen que:
 
-
 ## Página 100
+
 
 ◦los propietarios y gestores de infraestructuras ferroviarias sigan ampliando en la máxima medida posible la parte en vía del tren del sistema europeo de seguridad de trenes ETCS.
 Al menos en la red TEN-T, la Inspección Ferroviaria recomienda implementar el sistema europeo de seguridad de trenes ETCS de nivel L2, que permite el modo «Supervisión total» (Full Supervision), lo antes posible y de forma continua, y utilizar esta supervisión total en la máxima medida posible, de modo que también los trenes en origen pasen las señales de salida o de vía ya en este régimen;
@@ -3252,27 +3250,23 @@ la adopción de medidas que, hasta la entrada en servicio de trenes bajo supervi
 
 ## Página 101
 
-haya comprobado mediante la vista u otro medio (p. ej., preguntando a la persona responsable de la conducción del vehículo ferroviario) que la señal principal correspondiente válida para la salida del tren concreto permite con su señal la circulación del tren, o
-haya comprobado preguntando a la persona responsable de la conducción del vehículo ferroviario que la circulación del tren más allá de la señal principal que no permite con su señal la circulación del tren ha sido autorizada por el gestor de la infraestructura de otro modo, incluidas las condiciones establecidas, o que la persona responsable de la conducción del vehículo ferroviario ha recibido de la persona responsable de la conducción del tráfico ferroviario en la estación correspondiente el permiso para la maniobra (p. ej., para remolcar el tren o para trasladar el tren en forma de maniobra), o
-haya verificado preguntando a la persona responsable de la conducción del vehículo ferroviario la forma de autorización de la circulación del tren más allá de la señal principal correspondiente en el caso de que sus aspectos señaléticos no sean visibles desde el espacio destinado al desembarque y embarque de viajeros por cualquier motivo, incluidas las condiciones establecidas por el gestor de la infraestructura,
+tedy, para que la verificación de si el gestor ferroviario permitió la circulación (la salida) del tren en cuestión la realice, además del maquinista, otra persona cualificada del transportista (miembro de la tripulación del tren), con lo que se creará una salvaguarda de seguridad que reducirá el riesgo de error (equivocación) del maquinista.
 
-es decir, que la verificación de si el gestor de la infraestructura ha autorizado la circulación (salida) del tren en cuestión la realice, además del maquinista, otra persona cualificada del operador ferroviario (miembro del servicio de acompañamiento del tren), con lo que se creará una medida de seguridad que reducirá el riesgo de error (equivocación) del maquinista.
-
-La Inspección Ferroviaria, en relación con las competencias que le confiere la Ley n.º 266/1994 Sb., no emite más recomendaciones de seguridad, sin embargo considera necesario advertir a la Autoridad Ferroviaria de la conveniencia de establecer, no solo por parte del operador ČD Cargo, a. s., sino también por todos los demás operadores tenidos en cuenta, en el marco de la mejora continua del sistema de garantía de la seguridad, para cada serie (tipo) de vehículos ferroviarios que utilicen en la explotación del transporte ferroviario, el número máximo de personas que pueden viajar con la persona responsable de la conducción del vehículo ferroviario en la cabina del maquinista, desde la que se conduce el vehículo ferroviario, de modo que las personas responsables de la conducción del vehículo ferroviario, que desempeñan un papel indiscutible con influencia en la seguridad, dispongan no solo de competencias, sino también, mediante información del operador ferroviario, de fuentes correspondientes (unívocas – en relación con el número máximo de personas en la cabina del maquinista, no genéricas) para poder realizar sus tareas sin verse desfavorablemente afectadas por la actividad de otras funciones empresariales.
+La Inspección Ferroviaria, en virtud de las competencias que le confiere la ley n.º 266/1994 Sb., no emite recomendaciones de seguridad adicionales, sin embargo considera necesario advertir a la Oficina Ferroviaria sobre la conveniencia de establecer, no solo por parte del transportista ČD Cargo, a. s., sino también por todos los demás transportistas que entren en consideración, en el marco de la mejora continua del sistema de garantía de la seguridad, para las distintas series (tipos) de vehículos ferroviarios que utilizan en la explotación del transporte ferroviario, el número máximo de personas que pueden viajar con la persona que conduce el vehículo ferroviario en la cabina del maquinista, desde la que se conduce el vehículo ferroviario, de modo que las personas que conducen el vehículo ferroviario, que desempeñan un papel indiscutible con influencia en la seguridad, tengan no solo competencias, sino también, mediante comunicación del transportista, fuentes correspondientes (unívocas – en relación con el número máximo de personas en la cabina del maquinista, no genéricas) para poder realizar sus tareas sin verse desfavorablemente afectadas por la actividad de otras funciones de la empresa.
 
 ## RECOMENDACIONES DE SEGURIDAD
-
 Dirigidas a la Autoridad Nacional de Seguridad Checa (NSA):
 •
-adoptar medidas que garanticen que:
-◦los propietarios de infraestructuras ferroviarias y los gestores de infraestructura amplíen la implementación de la parte en vía del ETCS en la máxima medida posible.
-Al menos en la red TEN-T, la NIB recomienda implementar el ETCS L2, que permite el modo de supervisión total, lo antes posible y de forma continua. Utilizar esta supervisión total en la máxima medida posible, de modo que también los trenes en origen pasen las señales de salida de las estaciones ya en este modo;
-◦la circulación de los vehículos rodantes equipados con la parte móvil compatible del sistema de control de trenes del ETCS con la parte en vía del ETCS, con la que está equipada la infraestructura, se realice también en los trenes en origen y en los trenes que cambien en su composición, en la máxima medida con la parte móvil activa del ETCS en el modo correspondiente (sin el modo de aislamiento);
-◦se minimice la forma de operación de la parte móvil del Sistema Europeo de Control de Trenes ETCS (reinicio de la parte móvil del ETCS, conmutación al modo de Aislamiento, etc.) que pudiera provocar la pérdida de su información de posición. Lograr este estado mediante la fiabilidad del equipamiento, pero también mediante los procedimientos tecnológicos de los operadores ferroviarios y los procedimientos tecnológicos uniformes de los gestores de infraestructura y un control riguroso sobre su cumplimiento.
+tomar medidas para garantizar que:
+◦los propietarios de vías y los gestores de infraestructura amplíen la implantación de la parte en tierra del ETCS en la mayor medida posible.
+Al menos en la red TEN-T, el NIB recomienda implantar el ETCS L2 que habilite el modo de supervisión total lo antes posible y de forma continua. Utilizar esta supervisión total en la mayor medida posible para que incluso los trenes por defecto pasen las señales de salida de las estaciones ya en este modo;
+◦la circulación de material rodante equipado con un sistema móvil de control de tren compatible con la parte en tierra del ETCS, con el que esté equipada la infraestructura, se realice también en los trenes iniciales y en los trenes que vayan a cambiar en su composición, en la máxima medida con la parte móvil del ETCS activa en el modo correspondiente (sin aislamiento de modo);
+◦minimizar la forma de operación de la parte móvil del Sistema Europeo de Control de Trenes ETCS (reinicio de la parte móvil del ETCS, conmutación al modo de aislamiento, etc.) que provocaría la pérdida de su información de posición. Alcanzar este estado a través de la fiabilidad del equipamiento, pero también a través de los procedimientos tecnológicos de los RT y de los procedimientos tecnológicos uniformes de los GI y del control constante sobre su cumplimiento.
 •
-adoptar medidas que garanticen la incorporación de la medida de seguridad que falta (el despachador de estación en el pasado) hasta la instalación de la operación de trenes bajo supervisión del ETCS, cuando el despachador de estación despachaba trenes con viajeros que se encontraban en el andén mediante la señal «Salida» (por orden escrita, por equipo de telecomunicaciones o por orden verbal), mediante equipamiento técnico u otro modo, si bien, en el sistema actual de explotación de la infraestructura y del transporte ferroviario, la forma más ventajosa y sencilla es, en colaboración con el Ministerio de Transporte de la República Checa, integrar en el Decreto n.º 173/1995 Sb., Reglamento de Circulación Ferroviaria, la obligación de que la persona responsable del servicio de acompañamiento en un tren con transporte de viajeros o la primera persona del servicio de acompañamiento, desde el frente delantero del
+tomar medidas que garanticen completar la medida de seguridad que falta (el jefe de estación en el pasado) hasta la instalación de la circulación de trenes bajo la supervisión del ETCS, cuando el jefe de estación despachaba los trenes con pasajeros que se encontraban en el andén mediante la señal «Salida» (orden escrita, equipo de telecomunicaciones u orden oral), mediante equipamiento técnico u otro modo, cuando, como forma ventajosa y sencilla en el sistema actual de circulación en vía y de transporte guiado, en cooperación con el Ministerio de Transporte de la República Checa, integrar en el Decreto n.º 173/1995 Coll., reglamento de circulación ferroviaria, la obligación del jefe de la tripulación de acompañamiento del tren con transporte de pasajeros o de la primera persona de la tripulación de acompañamiento del tren desde el primer plano delantero de
 
 ## Página 102
+
 
 tren, que no circula bajo supervisión total del ETCS, dé al maquinista la señal «Consentimiento para la salida» tras el cumplimiento de una de las condiciones siguientes, cuando:
 
@@ -3292,6 +3286,7 @@ Inspección Territorial de Ostrava
 
 ## Página 103
 
+
 ## ANEXOS
 
 ### Fig. n.º 4, 5: DV cabecera 681.006-3 del tren Ex 516 destruido y descarrilado por la colisión con el tramo de maniobras de ČDC en su posición final tras el MU
@@ -3299,27 +3294,31 @@ Fuente: DI
 
 ## Página 104
 
-### Fig. n.º 6: Vista general del tren Ex 516 tras el MU. En la fotografía se aprecia claramente que la posición del sol y la dirección de la luz solar (resplandor) no tuvieron, durante la circulación en el sentido Bohumín → Ostrava hl. n., una influencia negativa en el maquinista del tren Ex 516 a la hora de observar la vía y percibir las señales.
+### Fig. n.º 6: Vista general del tren Ex 516 tras el MU. En la fotografía se aprecia claramente que la posición del sol y la dirección de la luz solar (resplandor) no tuvieron, durante la circulación en sentido Bohumín → Ostrava hl. n., influencia negativa en el maquinista del tren Ex 516 en cuanto a la observación de la vía y la percepción de las señales.
 Fuente: DI
-### Fig. n.º 7: DV descarrilados (081.006-9 y 681.006-3) del tren Ex 516
+### Fig. n.º 7: DV descarrilada (081.006-9 y 681.006-3) del tren Ex 516
 Fuente: DI
 
 ## Página 105
+
 
 ### Fig. n.º 8: Parte arrancada de la carcasa derecha de la cabina del maquinista y del lateral derecho de la DV cabecera 681.006-3 del tren Ex 516, que se encontraba en la rama desviada del desvío n.º 57
 Fuente: DI
 
 ## Página 106
 
+
 ### Fig. n.º 9: Tramo de maniobras de ČDC formado por el HDV 742.254-6 circulando de forma independiente, en su posición final tras la colisión con el tren Ex 516. En el frontal dañado se encontraban partes compuestas del frente delantero de la DV cabecera 681.006-3 del tren Ex 516.
 Fuente: DI
 
 ## Página 107
 
+
 Fig. n.º 10: Límites de ámbitos entre los despachadores de vía CDP Přerov en la parte sur de la estación de Bohumín
        Fuente: SŽ
 
 ## Página 108
+
 
 Fig. n.º 11: Límites de ámbitos entre los despachadores de vía CDP Přerov en la parte norte de la estación de Bohumín
          Fuente: SŽ

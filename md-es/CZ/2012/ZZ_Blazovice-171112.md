@@ -10,13 +10,14 @@ chars: 65311
 ratio_longitud: 1.23
 tokens_in: 33745
 tokens_out: 24292
-verificacion: revisar
-notas_cifras: ["bloque 1: original bilingüe: se compara contra el idioma principal (EN)", "bloque 2: original bilingüe: se compara contra el idioma principal (CS)", "bloque 4: original bilingüe: se compara contra el idioma principal (CS)", "bloque 5: original bilingüe: se compara contra el idioma principal (CS)"]
-avisos: ["bloque 4: ratio 1.65"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (PT)", "página 6: original bilingüe: se compara contra el idioma principal (EN)", "página 7: original bilingüe: se compara contra el idioma principal (PT)", "página 8: original bilingüe: se compara contra el idioma principal (CS)", "página 13: original bilingüe: se compara contra el idioma principal (CS)", "página 14: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 Inspección Ferroviaria
 República Checa
@@ -44,9 +45,11 @@ tel.: 224 805 444
 
 ## Página 2
 
+
 Este informe final es público y todos los documentos y hechos están respaldados por el expediente de investigación.
 
 ## Página 3
+
 
 ## 1 RESUMEN
        Figura 1: Lugar del suceso excepcional    
@@ -75,6 +78,7 @@ una máquina de trabajo.
 
 ## Página 4
 
+
 Factor contribuyente:
 •
 el vigilante de seguridad abandonó su puesto en un momento en el que 
@@ -91,6 +95,7 @@ Recomendaciones de seguridad:
 no emitidas por la Inspección Ferroviaria.
 
 ## Página 5
+
 
 ## SUMMARY 
 Grade:
@@ -125,6 +130,7 @@ none.
 Recommendations: none.
 
 ## Página 6
+
 
 # Índice
 1 Resumen ........................................................................................................................3
@@ -169,6 +175,7 @@ relación contractual ..........................................................
 
 ## Página 7
 
+
 3.1.2 Otras personas .........................................................................................................19
 3.2 Sistema de garantía de la seguridad ...............................................................................19
 3.2.1 Organización marco y forma en que se emiten y ejecutan las instrucciones .......19
@@ -211,10 +218,10 @@ el punto 3
 ............................................................................................................................27
 4.2 Análisis ......................................................................................................................27
 4.2.1 Evaluación de los hechos constatados según el punto 3 y formulación de las 
-conclusiones sobre la causa 
-
+conclusiones sobre la causa
 
 ## Página 8
+
 
 del suceso excepcional y la actividad de los servicios de rescate ..........................................27
 4.3 Conclusiones .......................................................................................................................28
@@ -242,6 +249,7 @@ suceso excepcional
 ...................................................................................................................................32
 
 ## Página 9
+
 
 ## Lista de siglas y símbolos utilizados
 COP
@@ -300,8 +308,8 @@ inspector superior
 VŠ
 investigación propia
 
-
 ## Página 10
+
 
 ## Lista de siglas de disposiciones legales, normas y reglamentos 
 internos utilizados
@@ -356,8 +364,8 @@ reglamento interno del explotador ferroviario SŽDC, s. o., SŽDC
 (ČD) Op 16 Reglamento de seguridad y salud en el trabajo + 
 Resolución núm. 1 a dicho reglamento
 
-
 ## Página 11
+
 
 ## 2 DATOS RELATIVOS A LA OCURRENCIA EXTRAORDINARIA
 ## 2.1
@@ -379,10 +387,10 @@ rescate y del servicio de rescate
 Figura 2: Plano del lugar de origen de la MU
           Fuente: Mapy.cz
 El 17. 11. 2012 a las 11:21 h, el tren Os 4112, que circulaba desde la est. Veselí nad Moravou hacia la est. Brno hlavní nádraží, en el espacio del extremo de la est. Blažovice, en el pk 16,998, chocó con el brazo de trabajo del SHV SVP 74 núm. 88 (en adelante también SVP 74), que trabajaba en la vía contigua. 
-Del examen del lugar de la MU se constató que en el momento de la ocurrencia de la MU se estaba realizando un corte de vía TK Holubice – Blažovice; la vía excluida estaba protegida con la señal portátil «Alto». El lugar de origen de la MU (puesto de trabajo) se encontraba en la confluencia de las líneas 315D Holubice – Blažovice y 318A Veselí nad Moravou – Brno hl. n., en el extremo de la est. Blažovice, en el pk 16,998 (en el espacio entre 
-
+Del examen del lugar de la MU se constató que en el momento de la ocurrencia de la MU se estaba realizando un corte de vía TK Holubice – Blažovice; la vía excluida estaba protegida con la señal portátil «Alto». El lugar de origen de la MU (puesto de trabajo) se encontraba en la confluencia de las líneas 315D Holubice – Blažovice y 318A Veselí nad Moravou – Brno hl. n., en el extremo de la est. Blažovice, en el pk 16,998 (en el espacio entre
 
 ## Página 12
+
 
 los desvíos núm. 2 y 3). A la derecha del puesto de trabajo (en el sentido de circulación del tren Os 4112) se encontraban el poste de alumbrado y el poste de megafonía de estación, que constituían un obstáculo para el giro de la superestructura de trabajo del SVP 74, y a la izquierda, a una distancia axial de 4,83 m, se encontraba la vía en servicio (extremo 2. TK Veselí nad Moravou – Brno hl. n.). En esta vía no se había establecido, alrededor del puesto de trabajo, la circulación lenta para los trenes y a una distancia de 2,2 m del eje de la vía no se había colocado una banda fija de color llamativo. El SVP 74 tenía montado el equipo de carga y estaba anclado a la vía mediante abrazaderas hidráulicas. La línea de contacto sobre el puesto de trabajo en el momento de la ocurrencia de la MU no estaba desconectada.
 En la DK de la est. Blažovice no se encontraba colocado el distintivo de seguridad; su entrega por parte del jefe de trabajos al jefe de estación no estaba anotada en el cuaderno telefónico. En el dispositivo de registro ReDat no se había registrado ninguna llamada entre el jefe de estación y el puesto de trabajo.
@@ -405,8 +413,8 @@ no se utilizó.
 La posterior investigación de las causas y circunstancias de la ocurrencia de la MU fue encomendada dentro de la DI a la ÚI Brno. En la investigación de las causas y circunstancias de la ocurrencia de la MU, la DI partió de sus propios conocimientos y hallazgos, de su propia documentación fotográfica y de la documentación solicitada elaborada durante la investigación por el explotador ferroviario y el transportista.
 La investigación de las causas y circunstancias de la ocurrencia de la MU se realizó de conformidad con lo dispuesto en el § 53b de la ley núm. 266/1994 Sb. y el § 11 del decreto núm. 376/2006 Sb.
 
-
 ## Página 13
+
 
 ## 2.2
 ### Circunstancias de la ocurrencia extraordinaria
@@ -439,46 +447,40 @@ Al maquinista del tren Os 4112 no se le informó de la circulación alrededor de
 ### 2.2.3 Descripción de los componentes de la vía de circulación ferroviaria, del sistema de enclavamiento (es decir, en particular el estado de las vías, desvíos, aparatos de cambio, señales y aparatos de enclavamiento de tren)
 El lugar de origen de la MU se encontraba en el punto de confluencia de las líneas 315D Holubice – Blažovice
 y 318A Veselí nad Moravou – Brno hl. n., en el espacio entre los desvíos núm. 2 y 3, en el extremo de la est. Blažovice. La línea en el sentido de circulación del tren va desde la señal de entrada a la est. Blažovice por la 2. TK en un arco izquierdo de radio R = 300 m y, a continuación, hacia el lugar de la MU
-en una longitud de aprox. 120 m en el extremo y el extremo de la est. Blažovice en dirección recta en un corte y asciende 7,4 ‰. 
-
+en una longitud de aprox. 120 m en el extremo y el extremo de la est. Blažovice en dirección recta en un corte y asciende 7,4 ‰.
 
 ## Página 14
 
 ### 2.2.4 Uso de medios de comunicación
-11:25 h el maquinista del tren Os 4112 utilizó el TRS para notificar la ocurrencia de la MU al jefe de estación 
+11:25 h el maquinista del tren Os 4112 utilizó el TRS para comunicar al jefe de estación la aparición de un MU en la estación de Blažovice.
 •
-de la est. Blažovice.
-la comunicación entre el maquinista del tren Os 4112 y el jefe de estación de la est. Blažovice fue 
+La comunicación entre el maquinista del tren Os 4112 y el jefe de estación de Blažovice fue
 •
 registrada.
-### 2.2.5 Trabajos realizados en el lugar de la ocurrencia extraordinaria y en sus proximidades
-El 17. 11. 2012 se estaba realizando entre la est. Holubice y la est. Blažovice un corte de vía de línea conforme a la ROV núm. 33080, establecido mediante la despacho núm. 2012-11-000859, de fecha 7. 11. 2012. Dado 
-que los trabajos previstos en la vía excluida se habían realizado con antelación, el jefe de trabajos decidió realizar trabajos adicionales en el extremo no excluido en el pk 16,998
-de la est. Blažovice. Debido a los trabajos en el extremo de la estación, el jefe de estación de la est. Blažovice no entregó el distintivo de seguridad, sino que aseguró la vigilancia del puesto de trabajo mediante una guardia de seguridad. Antes de iniciar los trabajos, el jefe de trabajos informó al operador del SVP 74 sobre el procedimiento de los trabajos
-y designó en el puesto de trabajo una guardia de seguridad, lo que anotó en el libro de servicio. Durante el trabajo, sin embargo, retiró a la guardia de seguridad por motivo de la realización de otro trabajo, sin advertirlo al operador del SVP 74 ni interrumpir su trabajo. En el momento en que el tren Os 4112 se aproximaba al puesto de trabajo, el operador del SVP 74 estaba rellenando balasto en los espacios entre traviesas de una manera que le obligaba a girar el brazo hacia el perfil de paso de la vía contigua en servicio. 
-Como no había sido advertido de la circulación del tren Os 4112 por la guardia de seguridad, no logró interrumpir el trabajo a tiempo y se produjo el choque del frontal del HDV del tren Os 4112 en circulación con el brazo de trabajo del SVP 74.
-### 2.2.6 Activación del plan para el caso de ocurrencia extraordinaria en la vía y secuencia de acontecimientos
-11:25 h notificación de la ocurrencia de la MU al jefe de estación de la est. Blažovice;
+### 2.2.5 Trabajos realizados en el lugar del suceso excepcional y en sus inmediaciones
+El día 17. 11. 2012 se estaba llevando a cabo entre la estación de Holubice y la estación de Blažovice la exclusión de la vía de tráfico de acuerdo con el ROV n.º 33080, establecida por la depesha n.º 2012-11-000859, de fecha 7. 11. 2012. Dado que los trabajos previstos en la vía excluida se realizaron con antelación, el responsable de los trabajos decidió realizar trabajos adicionales en el extremo de estación no excluido en el km 16,998 de la estación de Blažovice. Debido a los trabajos en el extremo de estación, el jefe de estación de Blažovice no entregó la etiqueta de seguridad, sino que aseguró la vigilancia del lugar de trabajo mediante una patrulla de seguridad. Antes de iniciar los trabajos, el responsable de los trabajos informó al operador de la SVP 74 sobre el procedimiento de los trabajos y designó una patrulla de seguridad en el lugar de trabajo, lo cual anotó en el libro de servicio. Durante el trabajo, sin embargo, retiró a la patrulla de seguridad debido a la realización de otro trabajo, sin advertir al operador de la SVP 74 ni interrumpir su trabajo. En el momento en que el tren Os 4112 se aproximaba al lugar de trabajo, el operador de la SVP 74 estaba rellenando gravilla en los espacios entre traviesas de una manera que le obligaba a girar el brazo hacia el perfil de paso de la vía de circulación adyacente. Como no fue advertido de la circulación del tren Os 4112 por la patrulla de seguridad, no logró interrumpir el trabajo a tiempo y se produjo el impacto del frontal de la locomotora del tren Os 4112 en el brazo de trabajo de la SVP 74.
+### 2.2.6 Activación del plan para casos de sucesos excepcionales en la vía y secuencia de eventos
+11:25 h comunicación de la aparición de un MU al jefe de estación de Blažovice;
 •
-11:28 h MU notificada por el jefe de estación conforme al horario de notificación al despachador;
+11:28 h el MU fue comunicado por el jefe de estación de acuerdo con el horario de comunicación al despachador;
 •
-11:45 h notificada por el despachador a la OMU;
+11:45 h comunicado por el despachador a la OMU;
 •
-12:12 h notificada por la persona autorizada de la OMU al COP DI;
+12:12 h comunicado por la persona autorizada de la OMU al COP DI;
 •
-13:00 h examen del lugar de origen de la MU por la DI, la PČR y empleados de la OMU;
+13:00 h inspección del lugar de aparición del MU por la DI, la PČR y empleados de la OMU;
 •
-13:24 h concedido por la VI DI presente el consentimiento para la liberación de la vía;
+13:24 h se concedió al VI DI presente la autorización para liberar la vía;
 •
 13:25 h inicio de los trabajos de limpieza;
 •
-14:23 h se produjo la restauración completa de la circulación. 
+14:23 h se produjo la restitución total de la circulación.
 •
-En el lugar de la MU estaban presentes también los directivos de las distintas unidades organizativas del explotador ferroviario y del transportista. 
-Con la participación de la VI DI se realizó un examen colegiado del lugar de la MU, incluida la elaboración de un acta.
-
+En el lugar del MU estaban presentes también los jefes de los distintos componentes organizativos del operador de la vía y del transportista.
+Con la presencia de la DI se realizó una inspección comisionada del lugar del MU, incluida la elaboración de un acta.
 
 ## Página 15
+
 
 ### 2.2.7 Activación del plan del sistema integrado de rescate, de la policía y del servicio de rescate sanitario y secuencia de acontecimientos
 La MU fue notificada por: el maquinista del tren Os 4112 al jefe de estación de la est. Blažovice.
@@ -510,6 +512,7 @@ En la MU, el daño producido en los vehículos ferroviarios, componentes de la v
 Condiciones meteorológicas: nublado, + 10 °C, calma, visibilidad no reducida.
 
 ## Página 16
+
 
 ## 3 ZÁZNAM DE LAS EXPLICACIONES PRESENTADAS
 ## 3.1
@@ -555,32 +558,32 @@ Operador de la SVP 74, SŽDC, s. o., ST Brno
 el 17. 11. 2012 trabajó con la máquina SVP 74 según las instrucciones del jefe de obra;
 •
 
-
 ## Página 17
 
+de que se acercaba un tren al puesto de trabajo, no fue informado por la patrulla de seguridad.
 •
-la guardia de seguridad no le informó de que un tren se estaba aproximando al lugar de trabajo.
-Guardia de seguridad, SŽDC, s. o., ST Brno
-  – del Acta con el empleado, entre otros, se desprende:
+Patrulla de seguridad, SŽDC, s. o., ST Brno
+  – del Registro con el empleado se desprende, entre otras cosas:
 •
-en el momento de la producción del SU, fue retirada de la guardia de seguridad de la SVP 74 para realizar otro trabajo y no seguía la situación del tráfico.
+en el momento de producirse el MU, había sido relevado de la patrulla de seguridad en SVP 74 para la realización de otro trabajo y no seguía la situación del tráfico.
+•
 ### 3.1.2 Otras personas
-Otras personas no presentaron explicaciones a la DI.
+Otras personas no aportaron explicaciones a la DI.
 ## 3.2
-### Sistema de garantía de la seguridad
+### Sistema de garantía de seguridad
 ### 3.2.1 Organización marco y forma en que se emiten y ejecutan las instrucciones
-El gestor de la infraestructura y el transportista tienen un sistema de garantía de la seguridad adoptado con base en las disposiciones de la ley n.º 266/1994 Sb.
-En el sistema de garantía de la seguridad adoptado por el gestor de la infraestructura SŽDC, relacionado con las circunstancias de la producción del SU en cuestión, no se detectó ninguna deficiencia.
-En el sistema de garantía de la seguridad adoptado por el transportista ČD, relacionado con las circunstancias de la producción del SU en cuestión, no se detectó ninguna deficiencia.
-### 3.2.2 Requisitos para los empleados del gestor de la infraestructura y del transportista y su aplicación
-Los requisitos para los empleados del gestor de la infraestructura y del transportista, en particular los requisitos de su idoneidad profesional y sanitaria, están establecidos por la ley n.º 266/1994 Sb., el decreto n.º 173/1995 Sb., el decreto n.º 101/1995 Sb., el decreto n.º 16/2012 Sb. y las normas internas del gestor de la infraestructura y del transportista.
-En el momento de la producción del SU en cuestión, todas las personas del gestor de la infraestructura SŽDC involucradas en el SU y que realizaban actividades en la explotación de la infraestructura y del transporte ferroviario eran profesionalmente idóneas para el desempeño de la función desempeñada.
-En el momento de la producción del SU en cuestión, el maquinista del transportista ČD involucrado en el SU era profesionalmente idóneo para el desempeño de la función desempeñada.
-### 3.2.3 Procedimiento de control interno de la seguridad y sus resultados
-En el procedimiento de control interno de la seguridad del gestor de la infraestructura y del transportista no se detectaron deficiencias.
-
+El gestor de la vía y el transportista cuentan con un sistema de garantía de seguridad adoptado en virtud de lo dispuesto en la Ley núm. 266/1994 Sb.
+En el sistema de garantía de seguridad adoptado por el gestor de la vía SŽDC, relacionado con las circunstancias de producción del MU en cuestión, no se detectó deficiencia alguna.
+En el sistema de garantía de seguridad adoptado por el transportista ČD, relacionado con las circunstancias de producción del MU en cuestión, no se detectó deficiencia alguna.
+### 3.2.2 Requisitos aplicables a los empleados del gestor de la vía y del transportista y su cumplimiento
+Los requisitos aplicables a los empleados del gestor de la vía y del transportista, en particular los requisitos de idoneidad profesional y de idoneidad médica, están establecidos en la Ley núm. 266/1994 Sb., en el decreto núm. 173/1995 Sb., en el decreto núm. 101/1995 Sb., en el decreto núm. 16/2012 Sb. y en las normas internas del gestor de la vía y del transportista.
+En el momento de producirse el MU en cuestión, todas las personas del gestor de la vía SŽDC involucradas en el MU y que desempeñaban actividades en la explotación de la vía y del transporte ferroviario poseían la idoneidad profesional para el ejercicio de la función desempeñada.
+En el momento de producirse el MU en cuestión, el maquinista del transportista ČD involucrado en el MU poseía la idoneidad profesional para el ejercicio de la función desempeñada.
+### 3.2.3 Procedimiento de control interno de seguridad y sus resultados
+En el procedimiento de control interno de seguridad del gestor de la vía y del transportista no se detectaron deficiencias.
 
 ## Página 18
+
 
 ### 3.2.4 Interfaz entre los distintos sujetos implicados y los componentes de la vía de circulación
 El propietario de la infraestructura ferroviaria, categoría estatal, Veselí nad Moravou – Brno hl. n. es la República Checa en derecho de gestión de la Administración de la Vía de Circulación Ferroviaria, organización estatal, con domicilio en Dlážděná 1003/7, Praha 1 Nové město, CP 110 00.
@@ -606,8 +609,8 @@ c) garantizar que la explotación de la infraestructura la realicen personas que
 «El gestor de la infraestructura estatal o regional está además obligado a
 d) implantar un sistema de garantía de la seguridad de la explotación de la infraestructura y garantizar su cumplimiento».
 
-
 ## Página 19
+
 
 3.3.2 Otras normas, p. ej., reglamento de explotación, reglamento de trabajo, normas de mantenimiento, normas técnicas vigentes y otras normas internas
 En la investigación del SU se detectó el incumplimiento de las siguientes normas internas:
@@ -639,8 +642,8 @@ art. 16, norma interna del gestor de la infraestructura SŽDC (ČD) S8/3:
 •
 «Durante el paso de un tren por la vía contigua, queda prohibida cualquier actividad en el espacio entre la vía en la que trabaja la máquina y la vía en explotación. Otras disposiciones ineludibles que deben cumplirse desde el punto de vista de la seguridad de la explotación ferroviaria durante la actividad laboral de un vehículo especial se indican en los anexos correspondientes de la norma ČD D2/81.»;
 
-
 ## Página 20
+
 
 art. 86, norma interna del gestor de la infraestructura SŽDC S8:
 •
@@ -670,6 +673,7 @@ No se detectaron deficiencias.
 
 ## Página 21
 
+
 ### 3.4.2 Componentes de la vía
 Para garantizar la operatividad de la vía y la seguridad del transporte ferroviario, de acuerdo con la documentación presentada, antes de la aparición de la MU el explotador de la vía realizó inspecciones y mediciones de las obras ferroviarias de conformidad con el § 26, apartado 1, del decreto nº 177/1995 Sb.
 Los componentes de la vía no guardaban relación causal ni causalidad indirecta con la aparición de la MU.
@@ -696,28 +700,24 @@ La velocidad máxima permitida del tren Os 4112 en el lugar de aparición de la 
 La locomotora de maniobras especial SVP 74 disponía de un Certificado de idoneidad del material rodante nº de expediente: PZ 5211/97-V.34, emitido por el DÚ el 15. 5. 1997. La última revisión técnica periódica antes de la aparición de la MU se realizó el 19. 10. 2011, con validez hasta el 19. 10. 2013. El SVP 74 fue utilizado por el SŽDC, s. o., en un estado técnico que corresponde a la idoneidad aprobada.
 No se detectaron deficiencias.
 
-
 ## Página 22
 
 ## 3.5
-### Documentación del sistema de explotación
-### 3.5.1 Medidas adoptadas por los empleados del explotador de la vía y del transportista en lo que respecta a la dirección, señalización y protección del tráfico
-La vigilancia del puesto de trabajo quedó garantizada mediante una patrulla de seguridad y no se entregó al jefe de estación de žst. Blažovice la placa de seguridad, por lo que no era su obligación informar al puesto de trabajo de las circulaciones de trenes mediante radios portátiles, y por ello tampoco se facilitó al puesto de trabajo información sobre la circulación del tren Os 4112. Este procedimiento es admisible al trabajar en la cabecera de la estación de acuerdo con lo dispuesto en la Resolución nº 1 de la norma SŽDC (ČD) Op 16, parte D5, letra b), segundo punto, segunda raya, donde se indica, entre otras cosas: «... en el caso de que el puesto de trabajo no esté ocupado por un empleado ferroviario en la estación, en la vía abierta o en la cabecera de la estación, el responsable de los trabajos puede acordar con el empleado ferroviario que la vigilancia del puesto de trabajo la garantice él mismo, o bien mediante una patrulla de seguridad (patrulla de seguridad avanzada)».
-La vía fuera de servicio se implantó mediante el telegrama nº 2012-11-000859 y se excluyó, entre otros, para el día 17. 11 2012: según ROV 33080 A, la vía de tráfico entre las estaciones Holubice y Blažovice; además, según ROV 33080 A1, la tensión entre las estaciones Holubice y Blažovice; y según ROV 33080 C, la tensión en la cabecera de la vía de tráfico desde la dirección de Blažovice en la estación Holubice. No hubo exclusión de tensión en la cabecera de la vía de tráfico desde la dirección de Holubice en la estación Blažovice.
-La seguridad en el puesto de trabajo la garantizó el responsable de los trabajos mediante una patrulla de seguridad. Sin embargo, esta patrulla de seguridad fue retirada antes del paso del tren Os 4112 para la realización de otra labor, sin interrumpir previamente los trabajos. Por ello, en el momento en que el tren Os 4112 circulaba junto al puesto de trabajo, no pudo informarse al maquinista del SVP 74 de esta circunstancia y este no liberó a tiempo el perfil de circulación de la vía de explotación contigua.
-Los trabajos se realizaron con el SVP 74 con equipo de carga, sin que se hubiera implantado la exclusión de la línea de contacto.
+### Documentación sobre el sistema de explotación
+### 3.5.1 Medidas adoptadas por los empleados del gestor de la infraestructura y del transportista en lo que respecta a la conducción, la señalización y la seguridad del tráfico
+La vigilancia del puesto de trabajo quedó asegurada mediante una patrulla de seguridad, y no se entregó al jefe de estación de la est. Blažovice la placa de seguridad, por lo que no era su obligación informar al puesto de trabajo de los pasos de trenes mediante radios portátiles, y por tanto tampoco se facilitó al puesto de trabajo información sobre el paso del tren Os 4112. Este procedimiento es admisible al trabajar en la cabecera de la estación, de conformidad con lo dispuesto en la Circular n.º 1 al reglamento SŽDC (ČD) Op 16, parte D5, letra b), segundo punto, segunda raya, donde se indica, entre otras cosas: «... en el caso de que el puesto de trabajo no esté ocupado en la estación por un empleado ferroviario, en la vía abierta o en la cabecera de la estación, el responsable de los trabajos puede acordar con el empleado ferroviario que la vigilancia del puesto de trabajo la garantice él mismo, o bien mediante una patrulla de seguridad (patrulla de seguridad avanzada)».
+La exención se introdujo mediante el despacho n.º 2012-11-000859 y se excluyó, entre otras cosas, para el día 17. 11. 2012: conforme a ROV 33080 A, la vía de tráfico entre las estaciones Holubice y Blažovice; asimismo, conforme a ROV 33080 A1, la tensión entre las estaciones Holubice y Blažovice; y conforme a ROV 33080 C, la tensión en la cabecera de la vía de tráfico en el sentido de Blažovice en la estación Holubice. No hubo exención de tensión en la cabecera de la vía de tráfico en el sentido de Holubice en la estación Blažovice.
+La seguridad en el puesto de trabajo la garantizó el responsable de los trabajos mediante una patrulla de seguridad. Sin embargo, el responsable de los trabajos retiró a la patrulla de seguridad, antes del paso del tren Os 4112, para la realización de otra labor, sin interrumpir los trabajos antes de su retirada. Por ello, en el momento en que el tren Os 4112 pasaba junto al puesto de trabajo, no pudo informarse al maquinista de la SVP 74 de esta circunstancia y no liberó a tiempo la sección de paso de la vía explotada contigua.
+Los trabajos se estaban realizando con la SVP 74 con equipo de carga, sin que se hubiera introducido la exención de la línea de contacto.
 Se detectaron deficiencias.
 Hallazgos:
-el responsable de los trabajos, al retirar la patrulla de seguridad antes de la circulación del tren Os 4112 con el fin de realizar otra labor (en el momento de la aparición de la MU no se había colocado la patrulla de seguridad), no garantizó la seguridad de sus empleados (infracción del art. 26 de la norma SŽDC (ČD) Op16);
-•
-la patrulla de seguridad abandonó su puesto sin que los trabajos fueran interrumpidos ni finalizados (infracción del art. 44 de la norma SŽDC (ČD) Op16);
-•
-el responsable de los trabajos autorizó unos trabajos en los que partes del SHV SVP 74 invadían el perfil de circulación de la vía de explotación contigua durante el paso del tren Os 4112 por la vía contigua (infracción de los arts. 66 y 67 de la norma SŽDC (ČD) D2, art. 119, letras b) y c), y art. 129 de la norma SŽDC (ČD) Op16, art. 16 de la norma SŽDC (ČD) S8/3, arts. 86 y 87 de la norma SŽDC (ČD) S8, arts. 11 y 13 del anexo VI/1 de la norma SŽDC (ČD) D2/81);
-•
-a una distancia de 2,2 m del eje de la vía de explotación no se colocó una banda fija de color llamativo y durante el paso del tren por la vía contigua no se interrumpieron los trabajos (infracción del art. 132, letras c) y d), de la norma SŽDC (ČD) Op16 y art. 16 de la norma SŽDC
-
+• el responsable de los trabajos, al retirar la patrulla de seguridad antes de la circulación del tren Os 4112 con el fin de realizar otra labor (en el momento de suceder no se le había destinado una patrulla de seguridad), no garantizó la seguridad de sus empleados (infracción del art. 26 del reglamento SŽDC (ČD) Op16);
+• la patrulla de seguridad abandonó su puesto sin que los trabajos fueran interrumpidos ni finalizados (infracción del art. 44 del reglamento SŽDC (ČD) Op16);
+• el responsable de los trabajos autorizó unos trabajos en los que partes de la SHV de la SVP 74 invadían la sección de paso de la vía explotada contigua durante el paso del tren Os 4112 por la vía contigua (infracción de los arts. 66 y 67 del reglamento SŽDC (ČD) D2, del art. 119 letras b) y c) y del art. 129 del reglamento SŽDC (ČD) Op16, del art. 16 del reglamento SŽDC (ČD) S8/3, de los arts. 86 y 87 del reglamento SŽDC (ČD) S8, de los arts. 11 y 13 del anexo VI/1 del reglamento SŽDC (ČD) D2/81);
+• a una distancia de 2,2 m del eje de la vía explotada no se colocó una banda fija de color llamativo y, durante el paso del tren por la vía contigua, no se interrumpieron los trabajos (infracción del art. 132 letras c) y d) del reglamento SŽDC (ČD) Op16 y del art. 16 del reglamento SŽDC
 
 ## Página 23
+
 
 (ČD) S8/3 y art. 13 del anexo VI/1 de la norma SŽDC (ČD) D2/81);
 durante los trabajos no se informó a los trenes que circulaban por la vía de explotación contigua de la velocidad máxima permitida de 50 km.h-1 (infracción del art. 11 del anexo VI/1 de la norma SŽDC (ČD) D2/81);
@@ -743,8 +743,8 @@ El empleador garantizó las condiciones para el descanso previo al turno de conf
 3.6.2 Estado de salud y situación personal que influyeron en la excepcionalidad, incluido el estrés físico o psicológico
 El empleado del transportista participante se encontraba, en el momento de la aparición de la MU, en condiciones de salud para el desempeño de la función que ocupaba. La investigación no arrojó datos de que la situación personal o el estado psicológico de la persona participante en la MU hubieran influido en la aparición de la MU.
 
-
 ## Página 24
+
 
 Los empleados del explotador de la vía participantes (maquinista del SVP 74 y patrulla de seguridad) se encontraban, en el momento de la aparición de la MU, en condiciones de salud para el desempeño de la función que ocupaban. El empleado del explotador de la vía participante (responsable de los trabajos) no se encontraba, en el momento de la aparición de la MU, en condiciones de salud para el trabajo que desempeñaba. La investigación no arrojó datos de que la situación personal o el estado psicológico de las personas participantes en la MU hubieran influido en la aparición de la MU.
 Los empleados del explotador de la vía y del transportista se sometían a reconocimientos médicos periódicos de conformidad con lo dispuesto en el decreto nº 101/1995 Sb. No se detectaron circunstancias de salud ni situaciones personales que pudieran haber influido en la aparición de la MU, incluido el estrés físico y psicológico.
@@ -760,41 +760,41 @@ El 8. 4. 2010 a las 15:05 h, durante la circulación del tren por la vía de est
 El 11. 7. 2011 a las 8:49 h, en la žst. Olomouc, durante la circulación del tren Pn 67261 por la vía excluida (aguja nº 89), se produjo una colisión con un obstáculo – un equipo de soldadura.
 El 10. 11. 2012 a las 9:40 h, con la entrada del tren R 734 desde la vía de tráfico nº 1 procedente de la žst. Prosenice en la vía de estación 3N en la žst. Přerov, se produjo un contacto del DV con una máquina de trabajo (excavadora) que invadía el perfil de circulación de la vía por la que circulaba.
 
-
 ## Página 25
 
-## 4 ANÁLISIS Y CONCLUSIONS
+## 4 ANÁLISIS Y CONCLUSIONES
 ## 4.1
-### Descripción final de la excepcionalidad
-### 4.1.1 Descripción final de la excepcionalidad basada en los hechos constatados en el punto 3
-El 17. 11. 2012 se estaba realizando entre las estaciones Holubice y Blažovice la exclusión de la vía de tráfico según el ROV nº 33080, implantada mediante el telegrama nº 2012-11-000859, de fecha 7. 11. 2012. Dado que los trabajos previstos en la vía excluida se terminaron con antelación, el responsable de los trabajos decidió realizar trabajos adicionales en la continuación de la vía de tráfico, en la cabecera no excluida en el km 16,998 de la žst. Blažovice. Los trabajos consistían en el relleno de balasto mediante el equipo de carga del SVP 74. No llegó a un acuerdo sobre qué trabajos iba a realizar en el lugar ni sobre el modo de comunicación con el empleado en cuyo ámbito debía comprobarse la libertad de la vía para la circulación de trenes (el jefe de estación), no le entregó la placa de seguridad ni le solicitó que le facilitara información sobre las circulaciones de trenes; la seguridad en el puesto de trabajo debía garantizarse mediante una patrulla de seguridad. Antes de iniciar los trabajos, el responsable de los trabajos instruyó al maquinista del SVP 74 sobre el procedimiento de los trabajos y designó en el puesto de trabajo a la patrulla de seguridad. Sin embargo, durante los trabajos retiró a la patrulla de seguridad con el fin de realizar otra labor, y no pudo informarse al maquinista del SVP 74 de la paralización de los trabajos debido a la circulación del tren Os 4112 por la vía contigua. A las 11:21 h salió de la dirección de la žst. Slavkov u Brna, desde un arco a la izquierda, el tren Os 4112, y el maquinista vio a una distancia de aprox. 120 m, a la derecha en el sentido de la marcha, el brazo giratorio de una máquina de trabajo que invadía el perfil de circulación de la vía por la que circulaba. Debido a la distancia tan corta, el tren no logró detenerse antes del obstáculo y embatió con la parte frontal de la locomotora el brazo de la máquina de trabajo. Tras el impacto, el brazo de la máquina de trabajo giró alrededor de su eje hacia la derecha, donde impactó contra un poste de alumbrado y contra el poste del altavoz de la estación. El maquinista del tren Os 4112 comunicó la aparición de la MU mediante el TRS al jefe de estación de la žst. Blažovice, quien procedió a continuación según el Cuadro de Comunicaciones. En la MU se dañaron la locomotora del tren Os 4112 y el SHV SVP 74.
+### Descripción final del suceso ferroviario
+### 4.1.1 Descripción final del suceso ferroviario basada en los hechos constatados 
+en el punto 3
+El 17 de 11 de 2012 se estaba ejecutando entre las estaciones de Holubice y Blažovice la exclusión de la vía según el ROV n.º 33080, establecida por la depesha n.º 2012-11-000859, de fecha 7 de 11 de 2012. Dado que los trabajos previstos en la vía excluida se habían realizado con antelación, el responsable de los trabajos decidió ejecutar trabajos adicionales en la continuación de la vía, en el extremo de estación no excluido en el pk 16,998 en la estación de Blažovice. Los trabajos consistían en el relleno de balasto mediante el equipo de carga SVP 74. No acordó con el empleado en cuyo ámbito de verificación de la libertad de la vía de tren debían realizarse los trabajos (el jefe de estación) qué trabajos se iban a realizar en el lugar ni la forma de comunicarse con él, no le entregó la etiqueta de seguridad ni le solicitó que le facilitara información sobre la circulación de trenes; la seguridad en el puesto de trabajo debía estar garantizada mediante una patrulla de seguridad. Antes de iniciar los trabajos, el responsable de los trabajos instruyó al maquinista del SVP 74 sobre el procedimiento de los trabajos y designó en el puesto de trabajo una patrulla de seguridad. Durante el trabajo, sin embargo, retiró a la patrulla de seguridad por motivo de la realización de otra labor, y el maquinista del SVP 74 no pudo ser informado de la paralización del trabajo debido al paso del tren Os 4112 por la vía contigua. A las 11:21 h salió desde la dirección de la estación de Slavkov u Brna, por una curva a la izquierda, el tren Os 4112, y el maquinista del tren vio a una distancia de unos 120 m a la derecha en el sentido de la marcha el brazo giratorio de la máquina de trabajo que invadía el perfil de paso de la vía por la que circulaba. Debido a la distancia muy corta, el tren no logró detenerse antes del obstáculo y con el frontal del HDV impactó contra el brazo de la máquina de trabajo. Tras el impacto, el brazo de la máquina de trabajo giró alrededor de su eje hacia la derecha, donde impactó contra el poste de alumbrado y el poste de megafonía de la estación. El maquinista del tren Os 4112 comunicó la producción del suceso ferroviario (MU) mediante el TRS al jefe de estación de Blažovice, el cual procedió a continuación conforme al Cuadro de Comunicaciones. En el suceso ferroviario se dañaron el HDV del tren Os 4112 y el SHV del SVP 74.
 No se activó el IZS.
 ## 4.2
 ### Análisis
-### 4.2.1 Evaluación de los hechos constatados según el punto 3 y exposición de conclusiones sobre la causa de la excepcionalidad y la actuación de los servicios de emergencia
-La žst. Blažovice está equipada con un dispositivo de enclavamiento de estación de 3.ª categoría (dispositivo de enclavamiento de relés); el empleado encargado de comprobar la libertad de la vía para la circulación de trenes es, en todo el ámbito de la estación, el jefe de estación; el puesto de trabajo se encontraba en la cabecera, es decir, en el ámbito de comprobación de la libertad de la vía para la circulación de trenes del jefe de estación de la žst. Blažovice.
-Dado que el puesto de trabajo se encontraba en la cabecera de la estación, el responsable de los trabajos podía garantizar la seguridad en el puesto de trabajo mediante una patrulla de seguridad. En este caso no tenía que entregar la placa de seguridad al jefe de estación y no era obligación del jefe de estación de la žst. Blažovice informar al puesto de trabajo de las circulaciones de trenes.
-Las condiciones acordadas para la realización de los trabajos y el modo de comunicación mutua no fueron anotadas por el responsable de los trabajos y el empleado ferroviario en el cuaderno de registro telefónico, y la anotación no fue firmada.
+### 4.2.1 Evaluación de los hechos constatados según el punto 3 y exposición de las conclusiones sobre la causa del suceso ferroviario y la actuación de los servicios de emergencia
+ La estación de Blažovice está equipada con instalación de señalización de estación de 3.ª categoría (instalación de señalización con relés); el empleado encargado de verificar la libertad de la vía de tren es, en todo el ámbito de la estación, el jefe de estación; el puesto de trabajo se encontraba en el extremo de estación, es decir, en el ámbito de verificación de la libertad de la vía de tren del jefe de estación de Blažovice.
+Dado que el puesto de trabajo se encontraba en el extremo de estación, el responsable de los trabajos pudo garantizar la seguridad en el puesto de trabajo mediante una patrulla de seguridad. En este caso no tenía la obligación de entregar la etiqueta de seguridad al jefe de estación, ni era obligación del jefe de estación de Blažovice informar al puesto de trabajo sobre la circulación de trenes.
+Las condiciones acordadas para la realización del trabajo y la forma de comunicación mutua entre el responsable de los trabajos y el empleado de tráfico no las anotaron en el cuaderno telefónico ni firmaron la anotación.
 
 ## Página 26
 
-El puesto de trabajo se encontraba en el extremo no excluido de la vía de la línea Holubice – Blažovice, a una distancia de eje de 4,83 m de la vía adyacente en servicio. Alrededor del puesto de trabajo no se había colocado, a una distancia mínima de 2,2 m del eje de la vía, una banda fija de color llamativo. Alrededor del puesto de trabajo no se había establecido para los trenes una velocidad reducida de 50 km.h-1.
-El jefe de obra, antes del inicio de los trabajos, informó al maquinista de la SVP 74 sobre el procedimiento de los trabajos y, para garantizar la seguridad en el puesto de trabajo, designó una guardia de seguridad. Durante el relleno de balasto en los espacios entre traviesas en el punto que invadía el gálibo de la vía adyacente en servicio, por la que circulaba el tren Os 4112, retiró la guardia de seguridad por motivo de la realización de otro trabajo. El maquinista de la SVP 74 no fue informado de este hecho, ni tampoco de que por la vía adyacente en servicio pasaría un tren, y por ello no interrumpió el trabajo de la máquina durante el paso del tren por la vía adyacente y no liberó a tiempo su gálibo.
-La guardia de seguridad abandonó su puesto sin haberse asegurante previamente de que los trabajos en el puesto de trabajo hubieran sido detenidos o interrumpidos. De este modo no se garantizó la seguridad de los empleados del grupo de trabajo ni la del empleado que operaba la máquina de trabajo desde el punto de vista del tráfico ferroviario.
-El tren Os 4112 partió de la parada Křenovice dolní nádraží a las 11:17 h. Tras salir de la curva a la izquierda, el maquinista vio, a una distancia de unos 120 m a la derecha en el sentido de la marcha, el mecanismo de trabajo que, ante el tren que se aproximaba (a las 11:21 h se registra durante 2 s la señal "Pozor" a una distancia de 64 m del punto de colisión), giró el brazo de trabajo hacia el gálibo de la vía por la que circulaba, y se produjo el choque del frontal de la HDV contra el brazo de trabajo de la SVP 74. Tras aplicar el freno rápido, el frontal del tren Os 4112 se detuvo en la 2.ª vía en el km 16,557, es decir, a 441 m del punto de colisión.
-El jefe de obra no era apto para la actividad realizada y permitió el trabajo de la SHV SVP 74 con el equipo de carga montado en una línea electrificada sin corte de tensión.
-El gestor de la infraestructura no explotaba así la infraestructura para las necesidades del transporte ferroviario fluido y seguro de acuerdo con las normas de explotación de la infraestructura y la autorización administrativa, en contradicción con lo dispuesto en el § 22 apartado (1) letra a) de la Ley núm. 266/1994 Sb.
-El gestor de la infraestructura tiene implantado un sistema de garantía de seguridad, pero, como se desprende de los resultados de la investigación de la MU en cuestión, no garantizó su cumplimiento, en contradicción con el § 22 apartado (2) letra d) de la Ley núm. 266/1994 Sb.
+El puesto de trabajo se encontraba en el extremo no excluido de la vía de la línea Holubice – Blažovice, a una distancia axial de 4,83 m de la vía en servicio adyacente. Alrededor del puesto de trabajo no se había colocado, a una distancia mínima de 2,2 m del eje de la vía, una cinta fija de color llamativo. Alrededor del puesto de trabajo no se había establecido para los trenes una velocidad reducida de 50 km.h-1.
+El responsable de los trabajos, antes de iniciar los trabajos, informó al maquinista del SVP 74 sobre el procedimiento de los trabajos y, para garantizar la seguridad en el puesto de trabajo, designó una guardia de seguridad. Durante el relleno de balasto en los espacios entre traviesas en el punto que invadía el perfil de circulación de la vía en servicio, por la que circulaba el tren Os 4112, retiró la guardia de seguridad por motivo de la realización de otro trabajo. El maquinista del SVP 74 no fue informado de este hecho, ni tampoco fue informado de que por la vía en servicio adyacente pasaría un tren, y por ello no interrumpió el trabajo de la máquina durante el paso del tren por la vía adyacente y no liberó a tiempo su perfil de circulación.
+La guardia de seguridad abandonó su puesto sin haberse asegurado previamente de que los trabajos en el puesto de trabajo hubieran sido detenidos o interrumpidos. De este modo no se garantizó la seguridad de los empleados del grupo de trabajo ni la del empleado que operaba la máquina de trabajo desde el punto de vista del tráfico ferroviario.
+El tren Os 4112 partió de la parada Křenovice dolní nádraží a las 11:17 h. Tras salir de la curva a la izquierda, el maquinista vio, a una distancia de unos 120 m a la derecha en el sentido de la marcha, un mecanismo de trabajo que, ante el tren que se aproximaba (a las 11:21 h se registra durante 2 s la señal "Pozor" a una distancia de 64 m del punto de la colisión), giró con el brazo de trabajo hacia el perfil de circulación de la vía por la que circulaba, y se produjo el choque del frontal del HDV con el brazo de trabajo del SVP 74. Tras aplicar el freno de emergencia, el frontal del tren Os 4112 se detuvo en la 2. SK en el km 16,557, es decir, a 441 m del punto de la colisión.
+El responsable de los trabajos no estaba apto para la actividad que realizaba y permitió el trabajo del SHV SVP 74 con el equipo de carga montado en una línea electrificada sin exclusión de tensión.
+El gestor de la infraestructura no explotaba así la infraestructura para las necesidades del tráfico ferroviario fluido y seguro de acuerdo con las normas de explotación de la infraestructura y la autorización administrativa, en contradicción con lo dispuesto en el § 22 apartado (1) letra a) de la Ley núm. 266/1994 Sb.
+El gestor de la infraestructura tiene implantado un sistema de garantía de la seguridad, pero, como se desprende de los resultados de la investigación de la MU en cuestión, no garantizó su cumplimiento, en contradicción con el § 22 apartado (2) letra d) de la Ley núm. 266/1994 Sb.
 ## 4.3
 ### Conclusiones
 4.3.1 Causas inmediatas del suceso excepcional, incluidos los factores que contribuyeron al mismo y que estuvieron relacionados con la actuación de las personas implicadas o con el estado de los vehículos ferroviarios o de las instalaciones técnicas
 La causa inmediata del suceso excepcional fue:
-la invasión del gálibo de la vía en servicio por parte de una parte de la máquina de trabajo.
+la invasión del perfil de circulación de la vía en servicio por parte de una máquina de trabajo.
 •
 Se trata del incumplimiento de lo dispuesto en el art. 66 y el art. 67 de la norma SŽDC (ČD) D2 en relación con lo dispuesto en el § 22 apartado (1) letra a) de la Ley núm. 266/1994 Sb.
 
-
 ## Página 27
+
 
 Factor contribuyente:
 la guardia de seguridad abandonó su puesto en un momento en el que no se había producido la interrupción o finalización de los trabajos.
@@ -826,8 +826,8 @@ infracción de lo dispuesto en el art. 11 del anexo VI/1 de la norma SŽDC (ČD)
 infracción de lo dispuesto en el art. 132 apartado d) de la norma SŽDC (ČD) Op 16 - a una distancia de 2,2 m del eje de la vía no se había colocado una banda fija de color llamativo.
 •
 
-
 ## Página 28
+
 
 ## 5 MEDIDAS ADOPTADAS
 ## 5.1
@@ -841,8 +841,8 @@ El gestor de la infraestructura adoptó una medida que forma parte de la Evaluac
 Informar sobre el desarrollo, la causa y las consecuencias de este suceso excepcional, es decir, incluirlo en el contenido de la próxima formación periódica de los empleados de la OŘ Brno, que en el ámbito de su aptitud profesional y de las obligaciones encomendadas garantizan la seguridad del puesto de trabajo como jefes del puesto de trabajo de la máquina".
 •
 
-
 ## Página 29
+
 
 ## 6 RECOMENDACIONES DE SEGURIDAD
 Atendiendo a las causas y circunstancias constatadas de la ocurrencia del suceso excepcional, la Inspección Ferroviaria no emite recomendaciones de seguridad.
@@ -854,8 +854,8 @@ inspector superior
 de la Inspección Territorial de Brno
 de la Inspección Territorial de Brno
 
-
 ## Página 30
+
 
 ## 7 ANEXOS
 Foto 1: HDV dañado del tren Os 4112                                      Fuente: Inspección Ferroviaria

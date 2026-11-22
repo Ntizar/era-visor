@@ -10,13 +10,14 @@ chars: 99016
 ratio_longitud: 1.28
 tokens_in: 50657
 tokens_out: 36901
-verificacion: revisar
-notas_cifras: ["bloque 1: original bilingüe: se compara contra el idioma principal (EN)", "bloque 2: original bilingüe: se compara contra el idioma principal (CS); cifras largas: 1/40", "bloque 3: original bilingüe: se compara contra el idioma principal (CS)", "bloque 6: cifras cortas: 13/98", "bloque 7: original bilingüe: se compara contra el idioma principal (CS)"]
-avisos: ["bloque 3: ratio 1.75", "bloque 7: ratio 1.76"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 6: original bilingüe: se compara contra el idioma principal (CS)", "página 7: original bilingüe: se compara contra el idioma principal (CS)", "página 10: original bilingüe: se compara contra el idioma principal (CS)", "página 11: original bilingüe: se compara contra el idioma principal (CS)", "página 12: original bilingüe: se compara contra el idioma principal (CS)", "página 13: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -39,13 +40,13 @@ IČ: 75009561
 mail@dicr.cz
 tel.: +420 736 521 003
 
-
 ## Página 2
+
 
 Este informe final es público y todos los hechos en él expuestos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ### 1 RESUMEN
 Fuente: Správa železnic  
@@ -63,8 +64,8 @@ Consecuencias:
 sin daños personales;
 daño total 58 376 Kč.
 
-
 ## Página 4
+
 
 Causa inmediata:
 •
@@ -87,8 +88,8 @@ Causa sistémica:
 no fue detectada por la Inspección Ferroviaria.
 No se emitió ninguna recomendación de seguridad por parte de la Inspección Ferroviaria.
 
-
 ## Página 5
+
 
 ### SUMMARY
 1st February 2021, 23:04 (22:04 GMT).
@@ -130,8 +131,8 @@ none.
 Recommendation:
 not issued.
 
-
 ## Página 6
+
 
 # Índice
 1 RESUMEN........................................................................................................................3
@@ -180,8 +181,8 @@ riesgos.........................................................................
 4.2.1 Factores o consecuencias derivados del diseño de los vehículos ferroviarios, de la infraestructura 
 ferroviaria o de las instalaciones técnicas.....................................................................25
 
-
 ## Página 7
+
 
 4.2.2 Factores o consecuencias derivados de la instalación y de la puesta en servicio de los vehículos 
 ferroviarios, de la infraestructura ferroviaria o de las instalaciones técnicas......................................27
@@ -220,6 +221,7 @@ nacionales de seguridad u otras entidades de evaluación de la conformidad......
 ANEXOS..............................................................................................................................36
 
 ## Página 8
+
 
 ### Lista de siglas y símbolos utilizados
 ARR
@@ -277,8 +279,8 @@ Informe final sobre los resultados de la investigación de la incidencia
 žst.
 estación de ferrocarril
 
-
 ## Página 9
+
 
 ### Lista de siglas de la legislación, normas y normativa interna utilizadas
 ley n.º 266/1994 Sb.
@@ -331,58 +333,29 @@ Norma Técnica Ferroviaria, «Aparatos de enclavamiento ferroviarios,
 Aparatos de enclavamiento de estación y de línea», en la
 redacción vigorosa en el momento de la incidencia
 
-
 ## Página 10
 
-### 2 INVESTIGACIÓN Y SU RELACIÓN CON EL CASO
+### 2 INVESTIGACIÓN Y SUS RELACIONES
 ### 2.1 Decisión de iniciar la investigación
-La DI decidió iniciar la investigación de la incidencia en cuestión el 2. 2. 2021.
+El DI decidió iniciar la investigación de la MU en cuestión el 2. 2. 2021.
 ### 2.2 Fundamentación de la decisión de iniciar la investigación
-La DI decidió investigar la incidencia en cuestión en base a su gravedad y recurrencia.
+El DI decidió investigar la MU en cuestión sobre la base de su gravedad y recurrencia.
 ### 2.3 Alcance y limitaciones de la investigación, incluida la fundamentación correspondiente
-La incidencia se produjo el 1. 2. 2021 a las 23:04 h. La notificación al COP de la DI fue realizada por la persona autorizada
-para la investigación de las causas y circunstancias de la incidencia (en adelante, persona
-autorizada) a las 23:27 h del mismo día, como descarrilamiento del tren Os 9803 en la aguja
-n.º 3 (el 2. 2. 2021 a las 2:22 h se precisó que era la aguja n.º 32) de la est. Kladno. La
-notificación inicial se realizó incluso antes de la llegada de la persona autorizada al lugar de
-la incidencia y, para describir el desarrollo de la incidencia, solo se indicó la información de
-que se había producido un descarrilamiento en la aguja tras la ruta de tren establecida desde
-la 1. SK. Durante esta llamada, a las 23:27 h, el inspector del COP de la DI concedió la
-autorización para liberar la vía. A las 2:22 h, la persona autorizada, en base a los hechos
-constatados en el lugar de la incidencia, precisó, respectivamente, completó la notificación,
-sin comunicar directamente más hechos sobre el desarrollo de la incidencia y solo se
-desprendió del contexto que «se averió el aparato de enclavamiento». Ninguna de las dos
-llamadas contenía la información de que se había producido una rotura de la lengüeta en la
-aguja. 
-Una vez que la DI se enteró de este hecho esencial por casualidad durante la mañana del
-2. 2. 2021 por parte de los representantes del departamento de aptitud de la vía de SŽ,
-que participaron junto con los inspectores de la DI en la reunión sobre la cuestión de la
-aparición de roturas de lengüetas de agujas celebrada en la ČVUT, Facultad de Ingeniería
-Nuclear y Física, dado el carácter recurrente y grave de este tipo de incidencia, inició la
-investigación. Posteriormente, la DI contactó telefónicamente con la persona autorizada y
-acordó el procedimiento a seguir. La inspección posterior del lugar de la incidencia se
-realizó el 2. 2. 2021 de 13:40 h a 15:30 h y el 4. 2. 2021 de 12:00 h a 14:40 h.
-Por lo tanto, solo por casualidad la DI se enteró de la rotura de la lengüeta aún en el momento
-en que era posible asegurar muestras de la lengüeta con las superficies de rotura, y por lo
-tanto lo anterior no influyó en los resultados de la investigación en sí. 
-### 2.4 Descripción resumida de las capacidades y funciones técnicas del equipo de investigación
-Investigación de la DI en el lugar de la incidencia:
-La DI no participó en la investigación en el lugar de la incidencia.
+La MU se produjo el 1. 2. 2021 a las 23:04 h. La notificación al COP fue realizada por el DI a través de la persona autorizada para la investigación de las causas y circunstancias de la producción de sucesos extraordinarios (en adelante, persona autorizada) a las 23:27 h del mismo día, como descarrilamiento del tren Os 9803 en el desvío n.º 3 (el 2. 2. 2021 a las 2:22 h se precisó como desvío n.º 32) de la estación de Kladno. La notificación inicial se realizó antes de la llegada de la persona autorizada al lugar de la MU y, para describir el desarrollo de la MU, solo se indicó la información de que se había producido un descarrilamiento en el desvío situado tras la vía de tren establecida desde la 1.ª SK. Durante esta llamada telefónica, a las 23:27 h, el inspector del COP del DI concedió la autorización para la liberación de la vía. A las 2:22 h, la persona autorizada, sobre la base de los hechos constatados en el lugar de la MU, precisó, respectivamente, completó la notificación, sin informar directamente de ningún hecho adicional sobre el desarrollo de la MU, y solo del contexto se dedujo que «se averió allí el aparato de enclavamiento». Ninguna de las dos llamadas telefónicas contenía la información de que se hubiera producido una rotura de la lengüeta en el desvío.
+Tras conocer el DI este hecho esencial de forma casual por la mañana del día 2. 2. 2021 por parte de los representantes del departamento de aptitud para la circulación de la vía de SŽ, que participaron junto con los inspectores del DI en la reunión sobre la cuestión de la aparición de roturas de lengüetas de desvíos celebrada en la ČVUT, en la Facultad de Ingeniería Nuclear y Física, inició la investigación en vista de la recurrencia y gravedad de este tipo de MU. Posteriormente, el DI contactó telefónicamente con la persona autorizada y acordó el procedimiento a seguir. El examen complementario del lugar de producción de la MU se llevó a cabo el 2. 2. 2021 de 13:40 h a 15:30 h y el 4. 2. 2021 de 12:00 h a 14:40 h.
+Por lo tanto, solo por casualidad el DI conoció la rotura de la lengüeta aún en el momento en que era posible asegurar muestras de la lengüeta con las superficies de fractura, y por tanto lo anterior no tuvo influencia en los resultados de la investigación en sí.
+### 2.4 Descripción resumida de las capacidades técnicas y funciones del equipo de investigación
+Investigación del DI en el lugar de la MU:
+El DI no participó en la investigación en el lugar de la MU.
 Constitución del equipo de investigación:
 no fue necesario constituirlo.
 Colaboración externa:
-con el fin de evaluar las causas de la rotura de la lengüeta
-de la aguja n.º 32 de la est. Kladno, se encargó la elaboración de un
-peritaje a la Facultad de Ingeniería Nuclear y Física, Departamento
-de Materiales, ČVUT.
-2.5. Comunicación y consultas durante la investigación con las personas o entidades
-que participaron en el suceso
-En la investigación de las causas y circunstancias de la incidencia, la DI se basó principalmente en sus propios conocimientos,
-hallazgos y en su propia documentación fotográfica realizada durante la inspección posterior del lugar de la incidencia
-y la investigación posterior de la incidencia. Durante la investigación, la DI solicitó la documentación realizada durante
-
+con motivo de la evaluación de las causas de la rotura de la lengüeta del desvío n.º 32 de la estación de Kladno, se encargó la elaboración de un dictamen pericial a la Facultad de Ingeniería Nuclear y Física, Departamento de Materiales, ČVUT.
+2.5. Comunicación y consultas durante la investigación con las personas o entidades que participaron en el suceso
+En la investigación de las causas y circunstancias de la producción de la MU, el DI se basó principalmente en sus propios conocimientos, hallazgos y en su propia documentación fotográfica realizada durante el examen complementario del lugar de la MU y la investigación posterior de la MU. Durante la investigación, el DI solicitó la documentación realizada durante
 
 ## Página 11
+
 
 la investigación al explotador del ferrocarril y al transportista y encargó la elaboración de un peritaje
 a la Facultad de Ingeniería Nuclear y Física, Departamento de Materiales de la ČVUT.
@@ -428,7 +401,6 @@ descarrilamiento de un DV.
 Grupo de incidencia:
 incidente.
 
-
 ## Página 12
 
 ### 3.1.2 Fecha, hora exacta y lugar del suceso
@@ -437,122 +409,127 @@ Fecha:
 Hora:
 23:04 h.
 Lugar:
-ferrocarril, categoría nacional, estación de ferrocarril Kladno,
-aguja n.º 32, pk 27,740. 
+vía férrea, categoría nacional, estación de ferrocarril de Kladno,
+desvío n.º 32, pk 27,740.
 Coordenadas GPS:
 50.1256164N, 14.1160811E.
 ### 3.1.3 Descripción del lugar del suceso
-La estación de ferrocarril Kladno se encuentra en el ferrocarril, categoría nacional, Praha-Bubny –
-Kladno. El lugar de la incidencia se encontraba en el extremo de estación en dirección Unhošť, en la
-aguja n.º 32. La aguja estaba, en el momento de la incidencia, dispuesta en la dirección de desvío para la salida del tren Os 9803 desde la 1. SK dirección Unhošť y era recorrida por la punta. El punto «0» estaba en la parte de cambio en la lengüeta derecha
-(recorrida por las ruedas izquierdas del DV) de la aguja n.º 32 en el pk 27,740 del ferrocarril. 
-## Lugar de la incidencia
-Fig. n.º 1: Esquema del lugar de la incidencia (Nota de la DI: la representación de la rama directa y de desvío de la aguja n.º 32 no corresponde a la realidad)
-   Fuente: SŽ, modificado por la DI
-En la inspección inicial del lugar de la incidencia por parte del explotador del ferrocarril se constató:
-Como se indica en el punto 2.3, la DI no participó en la inspección inicial del lugar de la incidencia. Del Acta de inspección del lugar de la incidencia y de la documentación gráfica del explotador del ferrocarril se desprende: 
+La estación de ferrocarril de Kladno se encuentra en la vía férrea, categoría nacional, Praha-Bubny –
+Kladno. El lugar del MU se encontraba en la cabecera en dirección Unhošť, en el desvío n.º 32. El desvío estaba,
+en el momento de producirse el MU, dispuesto en la rama de desvío para la salida del tren Os 9803 desde el 1.º
+SK en dirección Unhošť y era recorrido por la punta. El punto «0» se encontraba en la parte de empalme en el
+lado derecho (recorrido por las ruedas izquierdas del DV) del desvío n.º 32 en el pk 27,740 de la vía.
+## Lugar del MU
+Fig. n.º 1: Esquema del lugar de producción del MU (Nota DI: la representación de la rama recta y de la rama
+de desvío del desv. n.º 32 no corresponde a la realidad)
+   Fuente: SŽ, modificación DI
+Del primer reconocimiento del lugar del MU realizado por el explotador de la vía se constató:
+Tal como se indica en el punto 2.3, la DI no participó en el primer reconocimiento del lugar del MU. Del
+Acta de reconocimiento del lugar del MU y de la documentación gráfica del explotador de la vía se desprende:
 •
-con la salida del tren Os 9803 (Rakovník – Praha hl. n.) desde la 1. SK dirección est. Unhošť en la aguja n.º 32 en el pk 27,73511 descarriló con el primer bogie a la izquierda el coche motor en cabeza del tren;
+con la salida del tren Os 9803 (Rakovník – Praha hl. n.) desde el 1.º SK en dirección estación Unhošť,
+en el desvío n.º 32 en el pk 27,7351, descarriló con el primer bogie izquierdo el coche motor en cabeza
+del tren;
 •
-con la comprobación de la parte interior del aparato de enclavamiento en la sala de operaciones y en el enclavamiento St. 1 se constató que para el tren se había establecido y asegurado correctamente la ruta de tren, durante la incidencia se produjo en el St. 1 el deslizamiento del pasador de enclavamiento de la palanca de cambio de la aguja n.º 32
+de la comprobación de la parte interior del dispositivo de seguridad en la oficina de tráfico y en el
+puesto de enclavamiento St. 1 se constató que para el tren estaba debidamente establecida y asegurada la
+vía de tren, y que durante el MU se produjo en el St. 1 el desprendimiento del pasador de enclavamiento
+de la palanca de cambio del desvío n.º 32
 1
-Según las mediciones de la DI, el punto «0» se encontraba a una distancia de 10,7 m de la soldadura de cambio en el pk 27,730, es decir, en el pk 27,740.
-
+Según la medificación de la DI, el punto «0» se encontraba a una distancia de 10,7 m del empalme en el
+pk 27,730, es decir, en el pk 27,740.
 
 ## Página 13
 
-y el giro parcial del anillo exterior de la polea de cadena de unos 15 cm. Antes de la
-producción de la incidencia, el aparato de enclavamiento de la est. Kladno
-estaba en estado sin averías;
+y a la parcial rotación del anillo exterior de la polea de cadena en unos 15 cm. Antes de la producción del suceso extraordinario, el dispositivo de señalización de la estación de Kladno se encontraba en estado sin averías;
 •
-al avanzar en la dirección de marcha del tren Os 9803 desde la 1. SK, en la lengüeta derecha de la aguja n.º 32 (en la dirección de marcha recorrida por la rueda izquierda) en el último soporte deslizante (en la dirección de marcha del tren el primero) se encontró en el pk 27,7351 una rotura en la parte de resorte de la lengüeta, donde las ruedas del primer bogie descarrilaron en la dirección de marcha del tren hacia la izquierda;
+al avanzar en el sentido de circulación del tren Os 9803 desde el 1. SK, en el lengüeta derecha de la aguja n.º 32 (en el sentido de circulación recorrida por el carril izquierdo) en el último soporte deslizante (el primero en el sentido de circulación del tren) se encontró en el pk 27,7351 una fractura en la parte de la lámina del lengüeta, donde las ruedas del primer bogie descarrilaron en el sentido de circulación del tren hacia la izquierda;
 •
-la rueda izquierda del primer bogie cayó entre la lengüeta y el soporte y dejó huellas en los soportes deslizantes, realizó un corte parcial de la aguja;
+la rueda izquierda del primer bogie cayó entre el lengüeta y el apoyo y dejó marcas en los soportes deslizantes, realizando un corte parcial de la aguja;
 •
-en la aguja se encontraron otras huellas que no excluían el descarrilamiento y el rearribo del segundo bogie del coche motor;
+en la aguja se encontraron otras marcas que no excluían el descarrilamiento y el rearrenglado del segundo bogie del coche motor;
 •
-en las superficies de rotura había un 50 % de rotura antigua, y en el talón y parte del alma del raíl, como consecuencia de la rotura y de la marcha del HDV, la parte separada de la lengüeta se desplazó en la dirección de marcha, lo que originó en el punto de rotura una holgura de 8 cm – ver fig. n.º 2;
+en las superficies de fractura había un 50 % de fractura antigua, y ello en el talón y en parte del canto del raíl, como consecuencia de la fractura y de la circulación de la HDV, la parte separada del lengüeta se desplazó en el sentido de circulación, con lo que se originó en el lugar de la fractura una holgura de 8 cm – véase la fig. n.º 2;
 •
-la lengüeta derecha se apoyaba en los soportes deslizantes restantes y en el soporte;
+el lengüeta derecha se apoyaba sobre los soportes deslizantes restantes y se apoyaba en el apoyo;
 •
-debido al desplazamiento de la lengüeta se produjo la deformación de los reglajes y de la barra del aparato de enclavamiento y la desconexión de la barra de cambio en el cambiador de la aguja n.º 32;
+debido al desplazamiento del lengüeta se produjo la deformación de los reglajes y de la varilla del pasador y la desconexión de la varilla de cambio en el cambiador de la aguja n.º 32;
 •
-con la marcha en estado descarrilado se produjo además el daño de 3 soportes deslizantes, 8 juegos de fijaciones ŽS 3, la deformación del enganche de gancho derecho, en las traviesas había huellas de la marcha del vehículo ferroviario en estado descarrilado;
+por la circulación en estado descarrilado se produjo además el daño de 3 soportes deslizantes, 8 juegos de fijaciones ŽS 3, la deformación del enganche de gancho derecho, en las traviesas había marcas de la circulación del vehículo ferroviario en estado descarrilado;
 •
 el tren Os 9803 estaba formado por una unidad motor compuesta por el coche motor CZ-ČD 95 54 5 814 159-0 y el coche de mando CZ-ČD 95 54 5 914 159-9;
 •
-tras el descarrilamiento, en el primer bogie se dañaron las superficies de rodadura de las ruedas, en los otros tres bogies el representante del transportista presumió la aparición de planos en las ruedas por el uso de frenado de acción rápida, no se constató en el lugar de la incidencia daño adicional en los vehículos ferroviarios;
+tras el descarrilamiento, en el primer bogie estaban dañadas las superficies de rodadura de las ruedas, en los otros tres bogies el representante de la empresa ferroviaria presumió la aparición de planos en las ruedas por la aplicación del frenado de acción rápida, no se detectaron otros daños en los vehículos ferroviarios en el lugar de producción del SE;
 •
-se realizó una nueva medición de la superestructura ferroviaria tras la incidencia – resultados ver fig. n.º 4.
-En la inspección posterior del lugar de la incidencia por parte de la Inspección Ferroviaria el 2. 2. 2021 se constató:
+se realizó una nueva medición de la superestructura de vía después del suceso extraordinario – resultados véase la fig. n.º 4.
+Posteriormente, por la inspección del lugar del SE por parte de la Inspección Ferroviaria el 2. 2. 2021 se constató:
 •
-la aguja era transitable en el momento de la inspección. La lengüeta en cuestión ya no se encontraba en la aguja n.º 32, había sido sustituida por otra pieza. La lengüeta extraída se encontraba en el depósito de materiales del STO Kladno;
+la aguja era transitable en el momento de la inspección. El lengüeta en cuestión ya no se encontraba en la aguja n.º 32, había sido sustituido por otra pieza. El lengüeta extraído se encontraba en el depósito de material STO Kladno;
 •
-las barras del cambiador y del aparato de enclavamiento estaban reparadas;
+las varillas del cambiador y del pasador estaban reparadas;
 •
-la palanca de cambio de la aguja n.º 32 en el puesto del señalero St. 1 estaba reparada;
+la palanca de cambio de la aguja n.º 32 en el puesto de trabajo del señalizador St. 1 estaba reparada;
 •
-con la comprobación de la documentación en el St. 1 no se constató en relación con la incidencia en cuestión ninguna avería o defecto no subsanado;
+con la comprobación de la documentación en St. 1 no se detectó, en relación con el SE en cuestión, ninguna avería o defecto no eliminado;
 •
-para un análisis posterior se separaron y aseguraron por la DI ambas partes de la lengüeta de unos 30 cm de longitud con las superficies de rotura;
+para un análisis posterior se separaron y fueron aseguradas por la DI ambas partes del lengüeta de unos 30 cm de longitud con las superficies de fractura;
 •
-en las superficies de rotura había en el talón y en la parte inferior del alma una corrosión claramente de fecha más antigua, en la cabeza y en el resto del alma una corrosión más reciente – ver fig. n.º 3;
+en las superficies de fractura había en el talón y en la parte inferior del canto una corrosión claramente de fecha más antigua, en la cabeza y en el resto del canto una corrosión más reciente – véase la fig. n.º 3;
 •
 el punto «0» estaba en el pk 27,740;
 •
-a una distancia de 9,6 m detrás del punto «0» se encontraban las puntas de la lengüeta;
+a una distancia de 9,6 m tras el punto «0» se encontraban las puntas del lengüeta;
 
 ## Página 14
 
 •
-a una distancia de 10,7 m tras el punto «0» se encontraba la soldadura de unión;
+a una distancia de 10,7 m del punto «0» se encontraba la soldadura de cambio;
 •
-a una distancia de 47,3 m tras el punto «0» los traviesas de madera daban paso a las de hormigón;
+a una distancia de 47,3 m del punto «0» los traviesas de madera daban paso a traviesas de hormigón;
 •
-a una distancia de 65,9 m tras el punto «0» terminaban las huellas de descarrilamiento.
-De la inspección posterior del lugar del accidente ferroviario (MU) realizada por la Inspección Ferroviaria (DI) el 4. 2. 2021 se constató:
+a una distancia de 65,9 m del punto «0» terminaban las huellas de descarrilamiento.
+En la inspección posterior del lugar del MU por parte de la Inspección Ferroviaria el 4. 2. 2021 se constató:
 •
-se realizó una inspección adicional de la aguja n.º 32, en particular de las huellas de descarrilamiento accesibles:
-◦en la lengüeta derecha (recorrida por la rueda izquierda del DV) había huellas de la circulación de los rebordes sobre los deslizadores y el 3.º apoyo de lengüeta (1.º en el sentido de la marcha); en el borde interior de la cabeza del soporte había una huella del corte de la aguja por la rueda izquierda del 1.º eje del tren;
-◦a continuación, la rueda izquierda del 1.º eje continuó circulando por las traviesas entre los raíles;
-◦en el borde interior de la cabeza del soporte izquierdo (recorrido por la rueda derecha) había, a una distancia de 2,8 a 3,25 m de las puntas de la lengüeta, una huella de la subida de la rueda derecha del 1.º eje;
-◦a continuación, en la superficie recorrida del soporte izquierdo, continuaba una huella visible de la circulación del borde de la rueda derecha del 1.º eje;
-◦a 0,9 m tras las puntas de la aguja había una huella de la salida de la rueda derecha del 1.º eje de la cabeza del raíl hacia la derecha; a continuación continuaban las huellas de la circulación sobre los elementos de fijación;
-◦a 1,1 m tras las puntas de la aguja había la soldadura de unión;
+se realizó una inspección adicional del desvío n.º 32, en particular de las huellas de descarrilamiento accesibles:
+◦en la lengüeta derecha (recorrida por la rueda izquierda del DV) había huellas de la circulación de los aros sobre los asientos deslizantes y la 3.ª apoyo de lengüeta (1.ª en el sentido de la marcha), en el borde interior de la cabeza del soporte había una huella del corte del desvío por la rueda izquierda del 1.º bogie del tren;
+◦seguidamente la rueda izquierda del 1.º bogie continuó sobre las traviesas entre los raíles;
+◦en el borde interior de la cabeza del soporte izquierdo (recorrido por la rueda derecha) había, a una distancia de 2,8 a 3,25 m de las puntas de la lengüeta, la huella de la subida de la rueda derecha del 1.º bogie;
+◦a continuación continuaba sobre la superficie recorrida del soporte izquierdo la huella visible de la circulación de la punta del aro de la rueda derecha del 1.º bogie;
+◦a 0,9 m de las puntas del desvío había la huella de la salida de la rueda derecha del 1.º bogie de la cabeza del raíl hacia la derecha, seguidamente continuaban las huellas de circulación sobre los elementos de fijación;
+◦a 1,1 m de las puntas del desvío estaba la soldadura de cambio;
 •
-en el depósito de material de STO Kladno se inspeccionó detenidamente la lengüeta en cuestión, el gancho de cierre y el 1.º apoyo de lengüeta roto en dos piezas (nariz y talón):
-◦además de la fractura y las huellas de descarrilamiento, la lengüeta no presentaba otros daños;
-◦a 4,85 m de la punta terminaba la parte trabajada de la lengüeta;
-◦a 5,6 m de la punta terminaba la huella del corte parcial de la aguja por la rueda izquierda del 1.º eje del tren; la huella comenzaba a una distancia de 8,72 m de la punta de la lengüeta, a la altura del 3.º apoyo de lengüeta;
-◦a 6,20 m de la punta había, en el lado interior de la lengüeta, una huella de la salida de la rueda izquierda del primer eje del talón de la lengüeta;
-◦a 6,54 m de la punta había la marca de impacto del 1.º apoyo de lengüeta (roto en dos partes por la rueda izquierda descarrilada);
-◦a 7,43 m había la marca de impacto del 2.º apoyo de lengüeta;
-◦a 7,90 m de la punta estaba aplastada la tuerca del 1.º tornillo de los enlaces cortos entre la lengüeta y el soporte;
-◦a 8,72 m de la punta había la marca de impacto del 3.º apoyo de lengüeta;
+en el depósito de material de STO Kladno se inspeccionó detalladamente la lengüeta en cuestión, el gancho de cierre y el 1.º apoyo de lengüeta roto en dos piezas (nariz y talón):
+◦además de la fractura y de las huellas de descarrilamiento, la lengüeta no presentaba ningún otro daño;
+◦a 4,85 m de la punta terminaba la parte mecanizada de la lengüeta;
+◦a 5,6 m de la punta terminaba la huella del corte parcial del desvío por la rueda izquierda del 1.º bogie del tren, la huella comenzaba a una distancia de 8,72 m de la punta de la lengüeta, en el nivel del 3.º apoyo de lengüeta;
+◦a 6,20 m de la punta había, en el lado interior de la lengüeta, la huella de la salida de la rueda izquierda del primer bogie del talón de la lengüeta;
+◦a 6,54 m de la punta estaba la marca de impacto del 1.º apoyo de lengüeta (roto en dos partes por la rueda izquierda descarrilada);
+◦a 7,43 m estaba la marca de impacto del 2.º apoyo de lengüeta;
+◦a 7,90 m de la punta estaba aplastada la tuerca del 1.º tornillo de las uniones cortas entre la lengüeta y el soporte;
+◦a 8,72 m de la punta estaba la marca de impacto del 3.º apoyo de lengüeta;
 ◦la lengüeta derecha doblada en cuestión llevaba la marca de laminación TŽ MV T 75;
-◦desde la parte trabajada hasta más allá del lugar de la fractura, el talón y gran parte del cuerpo estaban sucios con una capa de depósitos antiguos y duros del tráfico ferroviario (mezcla de lubricantes y suciedad).
- Mediante el análisis de las huellas
-  la DI
- estableció
- el desarrollo del descarrilamiento:
-El tren Os 9803 se detuvo con el 1.º eje descarrilado a la derecha; el resto de las ruedas se encontraban sobre los raíles.
-Durante la circulación del tren por la aguja, el borde de la rueda izquierda del 1.º eje impactó contra el borde recorrido de la lengüeta desprendida y continuó brevemente sobre la cresta de la lengüeta; a continuación, la rueda cayó entre la lengüeta desprendida y el soporte, dejando huellas, entre otras, en los deslizadores y en el 3.º y 1.º apoyo de lengüeta, causando un corte parcial de la aguja y el daño del pasador de aguja. Tras el descarrilamiento, circuló
-
+◦desde la parte mecanizada hasta más allá del lugar de la fractura, el talón y gran parte de la pata estaban sucios con una capa de depósitos antiguos y duros del tráfico ferroviario (mezcla de lubricantes y suciedad).
+Mediante el análisis de las huellas
+ DI
+   determinó
+el desarrollo del descarrilamiento:
+El tren Os 9803 se detuvo con el 1.º bogie descarrilado a la derecha, el resto de las ruedas se encontraban sobre los raíles.
+Durante la circulación del tren por el desvío, el aro de la rueda izquierda del 1.º bogie chocó contra el borde recorrido de la lengüeta rota y continuó brevemente sobre la cresta de la lengüeta, seguidamente la rueda cayó entre la lengüeta rota y el soporte, dejó huellas, entre otras, en los asientos deslizantes y en el 3.º y 1.º apoyo de lengüeta, causó un corte parcial del desvío y el daño del cierre. Tras el descarrilamiento, por tanto, circuló
 
 ## Página 15
 
-la rueda izquierda del 1.º eje junto al soporte y la rueda derecha, debido a la convergencia de los soportes, subió al soporte; a continuación, salió de la vía hacia la derecha y continuó circulando por los elementos de fijación y las traviesas hasta el lugar de detención en el km 27,671. También entre las bandas de raíl había huellas similares de la circulación de la rueda izquierda del 1.º eje por la superficie superior. La huella más larga y mejor visible de la circulación del borde por la cabeza de la lengüeta desprendida en la figura n.º 5 la causó la rueda izquierda del 2.º eje, que a continuación volvió a engancharse. Otras deformaciones en el borde recorrido más allá del lugar de la fractura las causaron los impactos de las ruedas izquierdas de los 3.º y 4.º ejes. La cabeza del tren se detuvo en el km 27,671.
-Fig. n.º 2: La lengüeta desprendida se había desplazado unos 8 cm en el sentido de la marcha del tren (a la derecha).        Fuente: SŽ
-Fig. n.º 3: Estado de las superficies de fractura – a la izquierda antes del lugar de la fractura, a la derecha después del lugar de la fractura (en el sentido de la marcha del tren).                                                                                                                         Fuente: DI
-
+la rueda izquierda del 1. bogie junto al soporte y la rueda derecha, debido a los soportes convergentes, subió sobre el soporte, a continuación descendió de él hacia la derecha fuera de la vía y continuó su marcha sobre los elementos de fijación y las traviesas hasta el punto de detención en el pk 27,671. También se observaron huellas similares de la marcha de la rueda izquierda del 1. bogie sobre la superestructura entre las bandas de los carriles. La huella más larga y mejor visible de la marcha del aro sobre la cabeza del lengüeta desprendida, en la figura n.º 5, la causó la rueda izquierda del 2. bogie, que a continuación volvió a engancharse en la vía. Otras deformaciones en el borde recorrido más allá del punto de rotura las causaron los impactos de las ruedas izquierdas de los bogies 3 y 4. La cabeza del tren se detuvo en el pk 27,671.
+Fig. n.º 2: La lengüeta desprendida se había desplazado unos 8 cm en la dirección de marcha del tren (a la derecha).        Fuente: SŽ
+Fig. n.º 3: Estado de las superficies de rotura – a la izquierda antes del punto de rotura, a la derecha después del punto de rotura (en la dirección de marcha del tren).                                                                                                                         Fuente: DI
 
 ## Página 16
+
 
 Fig. n.º 4: El explotador de la infraestructura realizó el 2. 2. 2021, sin la participación de la DI, una medición de la superficie superior ferroviaria con un patrón de ancho de vía manual. Los valores en los puntos -1 a -4 no eran medibles debido a la destrucción de la superficie superior.
                        Fuente: SŽ
 
-
 ## Página 17
+
 
 Condiciones meteorológicas en el momento de la ocurrencia del accidente ferroviario (MU): temperatura exterior 0° C, período nocturno, la visibilidad estaba reducida según el explotador de la infraestructura.
 Datos geográficos:
@@ -590,8 +567,8 @@ El explotador de la infraestructura ferroviaria, categoría de ámbito nacional,
 El transportista del tren Os 9803 era ČD, con domicilio en Nábřeží Ludvíka Svobody 1222, Praha 1, PSČ 110 15.
 El transporte ferroviario se prestaba en virtud de un contrato celebrado entre el explotador de la infraestructura SŽ y el transportista ČD el 20. 1. 2020, con efectos desde el 23. 1. 2020.
 
-
 ## Página 18
+
 
 ### 3.1.7 Descripción de los vehículos ferroviarios y sus composiciones, incluidos los números de registro
 | Tren: | Os9803 | Composición del tren: |  | Modo defrenado: |
@@ -632,84 +609,83 @@ El tren circulaba en modo ARR. La velocidad máxima permitida del tren Os 9803 e
 Una aguja simple de izquierda n.º 32 de tipo J S49 1:9-300 LI d nov. sobre traviesas de madera fue fabricada en 1976 y estaba equipada con un gancho de cierre y un aparato de cambio mecánico para el accionamiento centralizado por el operador de maniobras St. 1. Las lengüetas eran de muelle soldadas; la circulación del tren Os 9803 se realizó desde la vía desviada por la punta de la aguja.
 El dispositivo de señalización de estación era de 2.ª categoría según TNŽ 34 2620, electromecánico modelo 5007 con señales luminosas de inserción y señales de salida de grupo. En la oficina de tráfico no estaba instalado un elemento indicador de las señales, por lo que el operador de maniobras, tras la iluminación
 
-
 ## Página 19
 
-de la señal principal con la señal que autoriza la circulación (excepto la PN en la señal de entrada), debía dar al jefe de estación una señal acústica de campana según el reglamento SŽDC (ČD) Z1, anexo 3, art. 126.
-El dispositivo de señalización no estaba equipado con registro de datos de explotación. En la estación de Kladno estaban instaladas vías aisladas en ambos extremos en todas las vías de tráfico y en el extremo. En el ámbito de St. 3 se utilizaron además circuitos de vía en las agujas n.º 55, 62, 64, 69 y 80.
-La última revisión del equipo eléctrico del SZZ tuvo lugar el 22. 5 2020 con los resultados en el informe de revisión de fecha 25. 5. 2020: «No se detectaron defectos. El equipo eléctrico es apto para la explotación desde el punto de vista de la seguridad.» Asimismo, los días 5 y 8. 6. 2020 se realizaron la inspección y la prueba del UTZ en servicio. En relación con el accidente ferroviario en cuestión no se detectaron defectos.
-### 3.1.9 Cualquier otra información relevante a efectos de la descripción del suceso y de la información básica
-Resumen de las explicaciones aportadas por el personal del explotador de la infraestructura y del transportista, incluidas las personas en relación contractual:
+de la señal principal a la señal que autoriza la marcha (excepto en la señal de entrada) dar al jefe de estación la señal acústica según la norma SŽDC (ČD) Z1, anexo 3, art. 126.
+El aparato de enclavamiento no estaba equipado con registro de datos de explotación. En la est. Kladno se instalaron vías aisladas en ambos extremos en todas las vías de tráfico y en el extremo. En el ámbito de St. 3 se utilizaron además circuitos de vía en los desvíos n.º 55, 62, 64, 69 y 80. La última revisión de la instalación eléctrica SZZ se realizó el 22. 5 2020 con los resultados en el informe de revisión de fecha 25. 5. 2020: «No se detectaron averías. La instalación eléctrica es apta para la explotación desde el punto de vista de la seguridad.» Asimismo, los días 5 y 8. 6. 2020 se realizó la inspección y prueba de UTZ en servicio. En relación con la MU objeto de estudio no se detectaron averías.
+### 3.1.9 Cualquier otra información relevante para los fines de la descripción del suceso y de la información básica
+Resumen de las explicaciones aportadas por los empleados del gestor de la infraestructura y del transportista, incluidas las personas en relación contractual:
 •
-maquinista
+maquinista 
  del tren Os 9803
- – Acta con el empleado:
-◦tras la salida con el tren desde la vía 1, oyó un golpe en la parte de unión de la aguja n.º 32 y el tren empezó a temblar;
-◦por ello, utilizó el freno rápido para detener el tren;
-◦tras detenerse, comprobó que el tren se había descarrilado con el primer eje;
-◦comunicó la ocurrencia del accidente ferroviario al jefe de estación de la estación de Kladno.
+  – Acta con el empleado:
+◦tras la salida con el tren desde la vía 1 oyó un golpe en la parte de cambio del desvío n.º 32 y el tren empezó a temblar;
+◦por ello utilizó el freno rápido para detener el tren;
+◦tras detenerse comprobó que el tren había descarrilado con el primer bogie;
+◦comunicó la ocurrencia del suceso extraordinario al jefe de estación de la est. Kladno.
 •
-operador de maniobras St.
-   1 de la estación de Kladno
- – Acta con el empleado:
-◦tras establecer la ruta ferroviaria para el tren Os 9803 en el puesto de mando, esperaba el paso de dicho tren;
-◦de pronto apareció en el aparato del puesto de mando el corte de la aguja n.º 32;
-◦al mirar por la ventana, vio el tren detenido tras dicha aguja;
-◦comunicó telefónicamente al jefe de estación de la estación de Kladno y se enteró por él del descarrilamiento del HDV en la aguja n.º 32.
+operador de enclavamiento St.
+   1 est. Kladno
+  – Acta con el empleado:
+◦tras establecer la vía de tren para el tren Os 9803 en el puesto de enclavamiento esperaba el paso de dicho tren;
+◦de repente apareció en el aparato del puesto de enclavamiento la seccionamiento del desvío n.º 32;
+◦al mirar por la ventana vio el tren, que estaba detenido tras dicho desvío;
+◦comunicó telefónicamente al jefe de estación de la est. Kladno y se enteró por él del descarrilamiento de la HDV en el desvío n.º 32.
 •
-jefe de estación de la estación de Kladno
- – Acta con el empleado:
-◦tras la expedición del tren Os 9803, volvió a la oficina de tráfico;
-◦tras un rato sonó el teléfono y el maquinista del tren Os 9803 le comunicó el descarrilamiento del tren con el primer eje tras la aguja n.º 32;
-◦inmediatamente comunicó la ocurrencia del accidente ferroviario según el calendario de notificación al HZS SŽ, al jefe de despachador y a la guardia de accidentes PO Kralupy nad Vltavou.
+jefe de estación de la est. Kladno
+  – Acta con el empleado:
+◦tras la expedición del tren Os 9803 volvió a la oficina de tráfico;
+◦tras un momento sonó el teléfono y el maquinista del tren Os 9803 le comunicó el descarrilamiento del tren con el primer bogie tras el desvío n.º 32;
+◦inmediatamente comunicó la ocurrencia de la MU según el calendario de comunicaciones al HZS SŽ, al jefe de despacho y a la guardia de accidentes PO Kralupy nad Vltavou.
 ### 3.2 Descripción fáctica del suceso
-### 3.2.1 Secuencia de hechos que condujeron al accidente ferroviario
-El tren Os 9803 partió de la estación de Kamenné Žehrovice a las 22:54
+### 3.2.1 Secuencia de hechos que condujeron al suceso extraordinario
+El tren Os 9803 partió de la est. Kamenné Žehrovice a las 22:54
    h, a las 23:01
    h llegó a la 1.ª SK
-de la estación de Kladno. A las 23:04:06
-   h el tren salió del andén en dirección a la estación de Unhošť por una ruta ferroviaria que estaba debidamente asegurada y establecida en la vía principal. El operador de maniobras St. 1, tras establecer la ruta ferroviaria, esperaba el paso del tren Os 9803; de pronto sonó la campana de corte en
+de la est. Kladno. A las 23:04:06
+   h el tren se puso en marcha desde el andén en dirección a la est. Unhošť por la vía de tren, que estaba debidamente asegurada y establecida en la vía de vía libre. El operador de enclavamiento St. 1 tras establecer la vía de tren esperaba el paso del tren Os 9803, de repente sonó la campana del seccionamiento en
 
 ## Página 20
 
-   h   traso recorrida de 304 m a una velocidad de 39 km·h-1, en el
-aparato de enclavamiento. A la hora 23:04:50
-en el pk 27,740 la rueda izquierda del primer bogie sobre la lengüeta derecha rota de la aguja n.º 32 y a continuación
-se hundió entre la lengüeta y el soporte (produciéndose por tanto el primer descarrilamiento a la izquierda), causó el corte
-de la aguja y el daño en el pasador. Debido a que la rueda izquierda del primer bogie circulaba por el borde interior
-del soporte, tras recorrer otros 6,35 m la rueda derecha del primer bogie comenzó
-a subir sobre el segundo soporte, del cual, tras recorrer otros aprox. 4,15 m, descendió a la derecha fuera de la vía. El maquinista
-percibió ruido proveniente del bogie, el tren comenzó a temblar. Tras recorrer otros aprox. 25 m reaccionó
-   h   a una velocidad de 37 km·h-1 con la aplicación del frenado de acción rápida.
+h   traso recorrida 304 m a una velocidad de 39 km.h-1 en el
+aparato de enclavamiento. A las 23:04:50
+en el pk 27,740 la rueda izquierda del primer bogie sobre el lengüeta derecha rota de la aguja n.º 32 y posteriormente
+cayó entre la lengüeta y el soporte (produciéndose por tanto el primer descarrilamiento a la izquierda), causó el corte
+de la aguja y el daño en el cierre. Debido a que la rueda izquierda del primer bogie circulaba por el borde
+interior del soporte, tras recorrer otros 6,35 m la rueda derecha del primer bogie comenzó a
+subir sobre el segundo soporte, del cual tras recorrer otros aprox. 4,15 m se salió a la derecha fuera de la vía. El maquinista
+registró ruido proveniente del bogie, el tren comenzó a temblar. Tras recorrer otros aprox. 25 m reaccionó
+   h   a una velocidad de 37 km.h-1 aplicando el frenado de acción rápida.
 el maquinista a las 23:04:54
-A la hora 23:04:59 h, tras recorrer una distancia de 373 m desde la puesta en marcha, el tren se detuvo 69 m
-del lugar de origen de la MU en el pk 27,671, con el 1.er bogie descarrilado a la derecha, el resto de los bogies se encontraban sobre
+A las 23:04:59 h tras recorrer una distancia de 373 m desde la puesta en marcha el tren se detuvo 69 m
+del lugar de origen del
+MU en el pk 27,671 descarrilado con el 1.º bogie a la derecha, los demás bogies se encontraban sobre
 los raíles.
-### 3.2.2 Secuencia de hechos desde la producción del suceso anómalo hasta la finalización de las acciones de los servicios de emergencia
-| 23:05 h | el maquinista del tren Os 9803 comunicó la producción de la MU al jefe de estación de žst Kladno . , quien transmitió el aviso de la producción de la MU al despachador operativo PD2 en el CDP Praha; |
-| 23:19 h | el jefe de despacho del CDP Praha comunicó la producción de la MU a O18 SŽ ; |
-| 23:22 h | el jefe de despacho del CDP Praha comunicó la producción de la MU al HZS SŽ JPO Nymburk; , |
-| 23:27 h | la persona autorizada de O18 SŽ comunicó la producción de la MU al COP DI , el cual concedió el permiso para la liberación de la vía; |
-| 23:31 h | MU comunicada al HZS ČR JPO Kladno; , |
-| 23:34 h | MU comunicada al HZS SŽ JPO Kralupy n Vltavou; , . |
+### 3.2.2 Secuencia de hechos desde la aparición del incidente hasta la finalización de las acciones de los servicios de rescate
+| 23:05 h | el maquinista del tren Os 9803 comunicó la aparición del MU al jefe de estación de Kladno , quien transmitió el aviso de aparición del MU al despachista operativo PD2 en el CDP Praga; |
+| 23:19 h | el jefe de despacho del CDP Praga comunicó la aparición del MU a O18 SŽ ; |
+| 23:22 h | el jefe de despacho del CDP Praga comunicó la aparición del MU a HZS SŽ JPO Nymburk; , |
+| 23:27 h | la persona designada de O18 SŽ comunicó la aparición del MU a COP DI , la cual otorgó , el consentimiento para la liberación de la vía; |
+| 23:31 h | MU comunicada a HZS ČR JPO Kladno; , |
+| 23:34 h | MU comunicada a HZS SŽ JPO Kralupy n Vltavou; , . |
 | 2 2 2021 . . |  |
-| 0:20 h | inspección del lugar de la MU por la persona autorizada de O18 SŽ ; |
-| 1:20 h | finalización de la inspección del lugar de la MU por la persona autorizada de O18 SŽ ; |
-| 10:05 h | restablecimiento total de la circulación a través de la aguja n.º 32; . |
-| 10:00 h | DI fue informada sobre los detalles de la producción de la MU – rotura de la lengüeta; |
-| 13:45 h | inspección complementaria del lugar de la MU por empleados de DI; |
+| 0:20 h | inspección del lugar del MU por la persona designada de O18 SŽ ; |
+| 1:20 h | finalización de la inspección del lugar del MU por la persona designada de O18 SŽ ; |
+| 10:05 h | restablecimiento completo de la circulación a través de la aguja n.º 32; . |
+| 10:00 h | DI fue informada de los detalles de la aparición del MU – rotura de la lengüeta; |
+| 13:45 h | inspección complementaria del lugar del MU por empleados de DI; |
 | 4 2 2021 . . |  |
-| 12:00 h | inspección complementaria del lugar de la MU por empleados de DI . |
-El Plan IZS fue activado en función del carácter de la MU. El Plan IZS fue activado a las 23:22 h,
-es decir, 18 minutos después de la producción de la MU, por el jefe de despacho del CDP Praha.
-En el lugar de la MU intervinieron los siguientes componentes del IZS:
+| 12:00 h | inspección complementaria del lugar del MU por empleados de DI . |
+El Plan IZS fue activado en función de la naturaleza del MU. El Plan IZS fue activado a las 23:22 h,
+es decir, 18 minutos después de la aparición del MU, por el jefe de despacho del CDP Praga.
+En el lugar del MU intervinieron los siguientes componentes del IZS:
 •
 HZS SŽ JPO Kralupy n. Vlt. y Nymburk;
 •
 HZS ČR, JPO Kladno.
 
-
 ## Página 21
+
 
 ### 4 ANÁLISIS DEL SUCESO
 ### 4.1 Tareas y obligaciones
@@ -762,8 +738,8 @@ de tiempo 2 veces al mes:
 En el libro de servicio del inspector no se registraron, en relación con la MU en cuestión en la aguja n.º 32
 de žst. Kladno, ningún defecto.
 
-
 ## Página 22
+
 
    Inspección 
 2.
@@ -823,8 +799,8 @@ Las dos últimas mediciones de la aguja n.º 32 con este dispositivo tuvieron lu
 y el 20. 11. 2020. En la última medición del 20. 11. 2020, en el resumen de defectos locales en
 la parte de cambio de la aguja n.º 32, se evaluó el siguiente defecto:
 
-
 ## Página 23
+
 
 •
 pk 27,737, defecto del parámetro dirección de la banda derecha (SP) con la forma «1-18:/738»,
@@ -875,6 +851,7 @@ de sus propios datos operativos.
 
 ## Página 24
 
+
 ### Hallazgos:
 Durante la investigación se constató la infracción de la legislación, de las normas internas y de las normas técnicas relativas a las funciones y obligaciones del gestor de la infraestructura en relación causal con
 ### la producción de MU:
@@ -893,8 +870,8 @@ La autoridad nacional de seguridad es el Drážní úřad (Oficina Ferroviaria),
 La función de la Agencia de la Unión Europea para los Ferrocarriles es, además de garantizar, en el marco de sus competencias, que se mantenga y, en la medida de lo posible, se aumente de forma sistemática la seguridad de los ferrocarriles, entre otras, la emisión, renovación, suspensión y modificación de los certificados únicos de seguridad, la limitación de su validez o su anulación, en cuestión en la que coopera con las autoridades nacionales de seguridad; asimismo, emite autorizaciones para la puesta en el mercado de vehículos ferroviarios y de tipos de vehículos, y está facultada para renovar, modificar, suspender o anular las autorizaciones que haya emitido. La Agencia evalúa asimismo los proyectos de normativa nacional, etc.
 Durante la investigación no se constató infracción de las funciones y obligaciones de la autoridad nacional de seguridad y de la Agencia de la Unión Europea para los Ferrocarriles.
 
-
 ## Página 25
+
 
 ### 4.1.5 Entidades notificadas, entidades designadas y entidades dedicadas a la evaluación de riesgos
 Durante la investigación no se constató infracción de las funciones y obligaciones de las entidades notificadas, de las entidades designadas y de las entidades dedicadas a la evaluación de riesgos.
@@ -912,8 +889,8 @@ En la zona de afectación térmica de la microestructura del material en el tal�
 3) Las propiedades mecánicas medidas demuestran que el material de la lengüeta de la aguja cumple el valor del límite de resistencia requerido en la norma ČSN EN 13674-1+A1 para el acero de clase R260 (es decir, Rm > 880 MPa). Los valores de dureza medidos en las distintas partes de la sección transversal son (tras la conversión) comparables con la dureza requerida (HBW 260 a 300). Sin embargo, el valor de ductilidad es inferior al valor requerido por la norma (A ≈ 8,8 % < 10 %). Los valores medidos de tenacidad a la fractura por entalla son muy bajos e indican la tendencia del material a la fractura frágil (lo que también corresponde a la fractura por clivaje de los cuerpos en el ensayo de impacto por flexión).
 4) La iniciación de las grietas parciales por fatiga en la pared lateral del talón se produjo en irregularidades e inhomogeneidades que guardan relación con la afectación térmica del talón del raíl.
 
-
 ## Página 26
+
 
 La micromorfología de las zonas de fractura por fatiga en el talón del raíl está dañada mecánicamente y, por tanto, no es posible realizar ni siquiera estimaciones orientativas del tiempo necesario para la iniciación y el desarrollo de estas tres grietas parciales por fatiga.
 5) No fue posible localizar las zonas de iniciación de grietas por fatiga en el alma. El evidente daño por corrosión y, sobre todo, mecánico impidió también en este caso una descripción más detallada de la cinética de desarrollo de estas grietas. No obstante, la comparación del carácter general de la fractura demuestra que la capa de corrosión en la fractura del alma es sustancialmente más gruesa que la capa de productos de corrosión en la fractura del talón del raíl. Además, en el alma, la zona dañada por fatiga es demostrablemente mayor. Es, por tanto, muy probable que la iniciación de grietas por fatiga en el alma se produjera antes que la iniciación de las grietas por fatiga de la fractura en el talón de la lengüeta.
@@ -932,8 +909,8 @@ La fractura por fatiga de la parte del talón y del alma no condujo a una reducc
 Las comprobaciones de presencia de defectos y grietas, realizadas mediante el seguimiento de las cabezas de los raíles, aunque no pueden detectar grietas en el talón, de acuerdo con los datos del promotor (Inspección Ferroviaria), el método empleado debería detectar la grieta en el alma. La última comprobación de la lengüeta en cuestión se realizó el 21. 8. 2020 y no se encontró ninguna anomalía.
 La grieta por fatiga en el alma o bien comenzó a propagarse únicamente después de la última comprobación (en cuyo caso tendría que haberse propagado con bastante rapidez para que la gruesa capa de corrosión encontrada pudiera formarse hasta el 2. 2. 2021, fecha en la que se produjo la fractura de la lengüeta), o bien la capacidad de resolución del método empleado no permitió su detección (es decir, la grieta en el alma existía, pero no fue detectada).
 
-
 ## Página 27
+
 
 -
 Los lugares de iniciación de las grietas por fatiga podrían haberse comprobado también visualmente o mediante otros métodos especiales de detección de defectos, pero primero habría que eliminar las gruesas capas de suciedad y corrosión (por ejemplo, las imágenes en la fig. 3 y 8). La laboriosa limpieza de la superficie del raíl tendría que repetirse antes de cada comprobación y, además, es cuestión cómo elegir los lugares de estas comprobaciones.
@@ -956,6 +933,7 @@ Durante la investigación no se detectaron factores relacionados con la entidad 
 Durante la investigación no se detectaron otros factores relacionados con los vehículos ferroviarios, la infraestructura ferroviaria o las instalaciones técnicas.
 
 ## Página 28
+
 
 ### 4.3 Factores humanos
 ### 4.3.1 Características humanas e individuales
@@ -981,8 +959,8 @@ En el sistema de aseguramiento de la seguridad adoptado por el gestor de la infr
 y de los talleres de mantenimiento
 El sistema de gestión de las entidades responsables del mantenimiento de los vehículos ferroviarios y de los talleres de mantenimiento no guardaba relación con el origen de la MU.
 
-
 ## Página 29
+
 
 ### 4.4.5 Resultados de la supervisión realizada por las autoridades nacionales de seguridad
 Atendiendo a los factores detectados y a las circunstancias del origen de la MU, la supervisión de la autoridad de seguridad no guarda relación con la MU en cuestión.
@@ -1004,28 +982,27 @@ del 2 de octubre de 2013 en la estación de Přerov, en la que se produjo el des
 •
 del 3 de noviembre de 2019 en la estación de Praha-Malešice, en la que se produjo el descarrilamiento de nueve vagones durante la circulación del tren Pn 59701. En la MU no hubo lesiones personales y el daño total se cifró en 11 210 750 Kč. La causa inmediata del origen de la MU fue la rotura repentina del corazón de aguja del desvío n.º 10ab en el momento en que lo recorría el tren Pn 59701;
 
-
 ## Página 30
 
 •
-del 19 de diciembre de 2020 en la estación de Hluboká nad Vltavou-Zámostí, en la que se produjo el descarrilamiento de la locomotora y de cuatro vagones durante la circulación del tren R 655. En la MU no hubo lesiones personales y el daño total se cifró en 3 369 648 Kč. La causa inmediata del origen de la MU fue la rotura repentina del corazón de aguja del desvío n.º 11 en el momento en que lo recorría el tren R 655.
-En base a los resultados de la investigación de las MU en cuestión, la Inspección Ferroviaria emitió al gestor de la infraestructura SŽ y, en el caso de la MU del 3 de noviembre de 2019 en la estación de Praha-Malešice, a la DÚ, Recomendaciones de Seguridad que guardan relación con el origen de la MU en cuestión, cuyo objeto fue:
+del 19. 12. 2020 en la estación de Hluboká nad Vltavou-Zámostí, cuando se produjo el descarrilamiento de la locomotora y cuatro vagones durante la circulación del tren R 655. En el MU no se produjeron daños personales y el daño total se cifró en 3 369 648 Kč. La causa inmediata de la producción del MU fue la rotura repentina del lengüete de la aguja n.º 11 durante su paso por el tren R 655.
+Sobre la base de los resultados de la investigación de los MU mencionados, la Inspección Ferroviaria emitió al operador ferroviario SŽ, y en el caso del MU del 3. 11. 2019 en la estación de Praha-Malešice, DÚ, Recomendaciones de Seguridad que guardan relación con la producción del MU mencionado, cuyo objeto fue:
 •
-en relación con la MU del 22 de enero de 2011 en la estación de Brno-Maloměřice:
-◦acortar los plazos de realización de las inspecciones por defectoscopia en todos los corazones de aguja que lleven más de 15 años en servicio y realizar en ellos siempre una inspección por defectoscopia capaz de detectar también defectos ocultos;
-◦establecer una vida máxima para los corazones de aguja de los desvíos en relación con su tiempo de servicio y su forma de carga.
-El gestor de la infraestructura, en respuesta a esta Recomendación de Seguridad, comunicó:
-«El gestor de la infraestructura SŽDC, s. o., en el plazo hasta finales de febrero de 2012, realizará un análisis de la posibilidad de acortar el plazo de realización de las inspecciones según el punto n.º 1 de la recomendación de seguridad.»;
-«El gestor de la infraestructura SŽDC, s. o., en el plazo hasta finales de febrero de 2012, considerará el establecimiento de una vida máxima para los corazones de aguja de los desvíos según el punto n.º 2 de la recomendación de seguridad.»;
+respecto al MU del 22. 1. 2011 en la estación de Brno-Maloměřice:
+◦en todos los lengüetes que lleven más de 15 años en servicio, acortar los plazos de realización de las inspecciones por defectoscopia y realizar en ellos siempre una inspección por defectoscopia que permita detectar también defectos ocultos;
+◦establecer la vida máxima de los lengüetes de las agujas en relación con su tiempo de servicio y su forma de carga.
+El operador ferroviario, en respuesta a esta Recomendación de Seguridad, comunicó:
+"El operador ferroviario SŽDC, s. o., en el plazo hasta finales de febrero de 2012, realizará un análisis de la posibilidad de acortar el plazo de realización de las inspecciones según el punto n.º 1 de la recomendación de seguridad.";
+"El operador ferroviario SŽDC, s. o., en el plazo hasta finales de febrero de 2012, considerará el establecimiento de la vida máxima de los lengüetes de las agujas según el punto n.º 2 de la recomendación de seguridad.";
 •
-en relación con la MU del 18 de noviembre de 2012 en la estación de Praha-Vršovice:
-◦en el marco del desarrollo de los métodos de defectoscopia más modernos, continuar activamente en la búsqueda o el desarrollo de un método de defectoscopia accesible que permita detectar también defectos ocultos en los corazones de aguja de los desvíos, y aplicar posteriormente el método más eficaz en el marco de su actividad de inspección;
-◦en todos los corazones de aguja de los desvíos que lleven más de 15 años en servicio, realizar siempre, para la detección de defectos ocultos, una inspección por defectoscopia con sonda angular u otro dispositivo más eficaz.
-El gestor de la infraestructura, en respuesta a esta Recomendación de Seguridad, comunicó:
-«El Centro Principal de Defectoscopia de SŽDC (HDS) sigue constantemente el desarrollo de los métodos de defectoscopia utilizables para la inspección no destructiva de carriles, corazones de aguja y cruceros. Sin embargo, es necesario destacar que en los últimos 60 años no se ha inventado ningún método de defectoscopia nuevo y que, por tanto, se trata solo de nuevas posibilidades de los métodos existentes en relación con el desarrollo de la tecnología de instrumentos correspondiente. Respecto a las solicitudes repetidas de búsqueda de un método de defectoscopia para la detección de defectos ocultos, indicamos que el «defecto oculto» debe entenderse como un defecto cuyo carácter (cambio de material, inclusiones, fisura, etc.) o cuyo recorrido (perpendicular, oblicuo, horizontal) puede identificarse normalmente mediante un método de defectoscopia no destructivo, aunque en algunos casos solo mediante un ensayo destructivo. En muchos casos, sin embargo, el defecto oculto se manifiesta específicamente en la superficie del carril (p. ej., como una mancha oscura en la superficie de rodadura del carril), por lo que tales defectos pueden detectarse
-
+respecto al MU del 18. 11. 2012 en la estación de Praha-Vršovice:
+◦en el marco del desarrollo de los métodos de defectoscopia más modernos, continuar activamente en la búsqueda o el desarrollo de un método de defectoscopia accesible que permita detectar también defectos ocultos en los lengüetes de las agujas, y aplicar posteriormente el método más eficaz en el marco de su actividad de inspección;
+◦en todos los lengüetes de las agujas que lleven más de 15 años en servicio, realizar para la detección de defectos ocultos siempre una inspección por defectoscopia con sonda angular u otro dispositivo más eficaz.
+El operador ferroviario, en respuesta a esta Recomendación de Seguridad, comunicó:
+"El Centro Principal de Defectoscopia de SŽDC (HDS) sigue constantemente el desarrollo de los métodos de defectoscopia utilizables para la inspección no destructiva de carriles, lengüetes y vínculos. Sin embargo, es necesario destacar que en los últimos 60 años no se ha inventado ningún método de defectoscopia nuevo y que, por tanto, se trata solo de nuevas posibilidades de los métodos existentes en relación con el desarrollo de la tecnología de instrumentación correspondiente. Respecto a las solicitudes repetidas de búsqueda de un método de defectoscopia para la detección de defectos ocultos, indicamos que por "defecto oculto" debe entenderse un defecto cuyo carácter (cambio de material, inclusiones, grietas, etc.) o recorrido (perpendicular, oblicuo, horizontal) puede identificarse habitualmente mediante un método de defectoscopia no destructivo, pero que en algunos casos solo puede determinarse mediante un ensayo destructivo. En muchos casos, sin embargo, el defecto oculto se manifiesta específicamente en la superficie del carril (por ejemplo, como una mancha oscura en la superficie de rodadura del carril), por lo que tales defectos pueden detectarse
 
 ## Página 31
+
 
 también visualmente. Las manifestaciones de los defectos concretos de los carriles están suficientemente descritas en la norma SŽDC (ČD) S67 para cada defecto. Con los procedimientos y medios disponibles actualmente puede detectarse la gran mayoría de los «defectos ocultos».
 SŽDC considera que el método más adecuado para la detección de fisuras transversales en la cara lateral de la base del corazón de aguja adyacente al soporte sigue siendo el método ultrasónico, y el HDS sigue buscando activamente un procedimiento de trabajo fiable, reproducible y aplicable en la vía cuyos resultados sean inequívocamente interpretables. Solo un procedimiento así puede implantarse en la práctica.
@@ -1043,6 +1020,7 @@ Desde 2013 se ha estado desarrollando un procedimiento de ensayo con el método 
 
 ## Página 32
 
+
 no se detectó indicación de defecto, por lo que tampoco es posible confirmar la eficacia del método en la detección de las grietas en cuestión. El procedimiento de ensayo examinado para la detección de grietas en los talones de los labios no fue, por tanto, implantado por Správa železnic debido a su fiabilidad indeterminada y a su limitada aplicabilidad desde el punto de vista de los requisitos de preparación de la superficie.
 En cuanto a la frecuencia de la realización de inspecciones de los labios:
 El Departamento de Gestión de Vías del Directorio General realizó en el cambio de los años 2011 y 2012 un análisis de la posibilidad de acortar los plazos de realización de las inspecciones por defectoscopia. De él se concluyó que con los medios técnicos disponibles y utilizables en servicio no era (y sigue sin ser) posible detectar la muesca iniciadora (grieta) en el lateral del talón del labio adyacente al carril de apoyo, y que, por tanto, no existe motivo para intervenir en el calendario temporal ni en el sistema de realización de las inspecciones por defectoscopia de los labios de los desvíos aplicado por Správa železnic. Al respecto, señalo que ya en esa época (y sigue siendo válido hoy) la frecuencia de realización de las inspecciones por defectoscopia de los labios de los desvíos era superior a la establecida en el decreto n.º 177/1995 Sb., por el que se dicta el Reglamento de construcción y técnico de los ferrocarriles. Los labios son, a su vez, inspeccionados visualmente de forma continua en el marco de la actividad de supervisión prescrita por la norma SŽDC S2/3 (especialmente rondas e inspecciones de desvíos) y, desde 2018, además, por encima de las inspecciones por defectoscopia prescritas, en las vías principales de líneas seleccionadas, mediante una unidad de diagnóstico para ensayos no destructivos de los raíles.
@@ -1054,8 +1032,8 @@ Tras la finalización de la investigación, la DI emitió a la Oficina Ferroviar
 •
 desde el punto de vista del desarrollo actual y futuro posible de los métodos de defectoscopia más avanzados, la verificación sistemática, o bien la evaluación, de todos los métodos de defectoscopia disponibles con los que sea posible detectar defectos ocultos en la zona del talón del labio del raíl y la aplicación del método o métodos más eficaces en el sistema de la actividad de inspección realizada;
 
-
 ## Página 33
+
 
 •
 en caso de ausencia de una solución tecnológica adecuada para la detección de defectos ocultos, o bien de las grietas subsiguientes en la zona del talón del labio del raíl, la adopción de una medida que, en la gran mayoría de los labios sometidos a largo plazo a la carga cíclica de alternancia de altas temperaturas y al intenso tráfico ferroviario, fuera capaz de impedir la rotura de su sección portante, por ejemplo mediante la implantación de un recambio cíclico de labios en plazos derivados de un análisis pertinente;
@@ -1067,8 +1045,8 @@ La Oficina Ferroviaria, el 1. 3. 2021, requirió a todos los gestores de infraes
 ◦En las vías de los ferrocarriles en los que la operatividad la garantiza Správa železnic, se encuentran varias decenas de miles de labios montados con juntas cortas de raíl. A todos los gestores (Správ tratí de las Direcciones Regionales) se les ordenó por escrito que, en el marco de la inspección de desvíos más próxima, realizada de conformidad con las disposiciones del capítulo 3.6 de la norma SŽDC S2/3 «Organización y realización de inspecciones y mediciones en el ferrocarril de ámbito nacional y en los ferrocarriles regionales», se centraran, entre otros, en una inspección exhaustiva del apriete de la unión atornillada y del estado de las juntas cortas de raíl en cuestión, así como en la inspección de la zona adyacente de los labios con foco en daños visibles (muescas, grietas, deformaciones, etc.), y que registraran el estado detectado en el sistema de información correspondiente. Los resultados de estas inspecciones serán evaluados durante agosto de 2021.
 La inspección permanente y regular del estado y del apriete de la unión atornillada de las juntas en cuestión se realiza mediante la inspección visual del estado de dichas juntas, que es una parte estándar de las rondas según el capítulo 3.1 y de las inspecciones de desvíos según el capítulo 3.6 de la norma SŽDC S2/3. El 20. 5. 2021, esta obligación se recordó a todos los jefes de las Správ tratí en una reunión conjunta.“.
 
-
 ## Página 34
+
 
 ### 5 CONCLUSIONES
 ### 5.1 Resumen del análisis y conclusiones relativas a las causas del suceso
@@ -1111,10 +1089,10 @@ el defecto del desvío n.º 32 fue eliminado el 2 de febrero de 2021;
 en el plazo hasta el 31 de julio de 2021, dar a conocer en la junta asesora del director de la OŘ Praha a todos los directivos de la OŘ Praha las circunstancias, las causas de su ocurrencia y la responsabilidad por el suceso extraordinario;
 •
 en el plazo hasta el 31 de julio de 2021, dar a conocer en la formación mensual regular a todos los jefes de los centros operativos y a los capataces superiores los resultados de la investigación de las causas y circunstancias de la ocurrencia del suceso extraordinario.
-El operador ferroviario ČD no adoptó ni emitió ninguna medida. 
-
+El operador ferroviario ČD no adoptó ni emitió ninguna medida.
 
 ## Página 35
+
 
 ### Measures taken since the occurrence
 The infrastructure manager SŽ took the following measures after the occurrence:
@@ -1154,21 +1132,21 @@ Ing. Petr Mencl v. r.
 director
 de la Inspección Territorial de Bohemia
 
-
 ## Página 36
+
 
 ### ANEXOS
 Fig. n.º 5: Estado de las superficies de rotura tras el recolocamiento en vía y la remolcada de la DV (el tren circula en las fotografías de izquierda a derecha). La mitad superior de la rotura parecía fresca, en la mitad inferior había corrosión de fecha más antigua. Con la flecha azul se indica la huella de rodadura del aro de la rueda izquierda del primer bogie sobre la cabeza del labio, en naranja la huella de rodadura de la rueda izquierda del segundo bogie, que posteriormente se recolocó en vía de forma inversa. En el canto de rodadura de la parte desprendida se distinguen 4 huellas del impacto de todas las ruedas izquierdas de la unidad de tracción.
         Fuente: SŽ
 
-
 ## Página 37
+
 
 Fig. n.º 6: Carácter macroscópico de ambas caras de la rotura del labio (limpiado). La zona de iniciación de las grietas por fatiga en el talón del raíl está indicada con la flecha I. Con la flecha II se indica la zona de la «cavidad» en la superficie de rotura del alma. 
                      Fuente: ČVUT
 
-
 ## Página 38
+
 
    a) macroesmerilado (atacado con 3% de Nital)
                    b) Impresión con azufre

@@ -10,13 +10,14 @@ chars: 91465
 ratio_longitud: 1.28
 tokens_in: 43251
 tokens_out: 40838
-verificacion: revisar
-notas_cifras: ["bloque 1: original bilingüe: se compara contra el idioma principal (EN)", "bloque 2: original bilingüe: se compara contra el idioma principal (CS)", "bloque 3: original bilingüe: se compara contra el idioma principal (CS); cifras cortas: 4/63", "bloque 4: original bilingüe: se compara contra el idioma principal (CS); cifras cortas: 4/83", "bloque 6: cifras cortas: 6/27", "bloque 9: cifras cortas: 2/75"]
-avisos: ["bloque 3: ratio 1.63", "bloque 4: ratio 1.79", "bloque 6: marcadores de página: 2 vs 1"]
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 5: original bilingüe: se compara contra el idioma principal (EN)", "página 6: original bilingüe: se compara contra el idioma principal (CS)", "página 7: original bilingüe: se compara contra el idioma principal (CS)", "página 8: cifras cortas: 2/21", "página 9: original bilingüe: se compara contra el idioma principal (CS); ratio 1.90"]
 ---
+
 ## Página 1
+
 
 Inspección Ferroviaria
 República Checa
@@ -41,11 +42,12 @@ NIF: 75009561
 http://www.dicr.cz
 fax: (+420) 224 805 428
 
-
 ## Página 2
 
 
+
 ## Página 3
+
 
 # RESUMEN
 18 de junio de 2006, 02:13 (00:13 GMT)
@@ -66,11 +68,12 @@ Causa raíz:
 organización del trabajo y SMS (falta de supervisión)
 Recomendación: no emitida
 
-
 ## Página 4
 
 
+
 ## Página 5
+
 
 # Índice
  Resumen .............................................................................................................................3
@@ -107,6 +110,7 @@ técnica de las causas de la aparición del incidente extraordinario ...........
 
 ## Página 6
 
+
 proporción ...............................................................................................................13
 3.1.2 Otras personas .........................................................................................................17
 3.2 Sistema de garantía de la seguridad ...............................................................................17
@@ -136,8 +140,8 @@ proporción ....................................................................
 4.1.1 Descripción final del incidente basada en los hechos constatados en el punto 3 
 ............................................................................................................................25
 
-
 ## Página 7
+
 
 4.2 Análisis ......................................................................................................................26
 4.2.1 Evaluación de los hechos constatados según el punto 3 y presentación de las conclusiones sobre la causa del incidente y la actuación de los servicios de emergencia ..........................................26
@@ -154,6 +158,7 @@ proporción ....................................................................
 7 Anexos .............................................................................................................................32
 
 ## Página 8
+
 
 ## 1 RESUMEN
 El 18 de junio de 2006 a las 2:13 horas se produjo en la vía férrea de ámbito nacional, en la estación ferroviaria de Nymburk hlavní nádraží (en adelante, est. Nymburk hl. n.), la colisión del tren de mercancías n.º 64922 contra el vehículo ferroviario de tracción (en adelante, VFT) 130.021-9, que se encontraba detenido en la vía muerta n.º 105b. En el incidente excepcional (en adelante, IE) no hubo fallecidos ni lesiones. El tráfico ferroviario en la est. Nymburk hl. n. no se interrumpió debido al IE.
@@ -173,37 +178,26 @@ El tren de mercancías n.º 64922 salió, tras ser despachado por el despachador
 
 ## Página 9
 
-En la vía n.º 105b se produjo la destrucción del tope de la vía muerta, daños en el soporte de catenaria n.º 486, deformación de la puerta para el enganche de la catenaria y rotura de los cables portadores con efecto sobre la catenaria sobre las vías n.º 6 a 26 y 101 a 109.
-El VFT 742.382-6 del tren n.º 64922 permaneció sin descarrilar a la altura del tope original de la vía muerta en el pk 4,094, gravemente dañado por el impacto.
-El VFT 130.021-9 fue empujado por el impacto del tren n.º 64922 una longitud total más allá del tope, descarriló y resultó gravemente dañado.
-No se produjeron lesiones a los maquinistas de ambos VFT.
-Se solicitó la intervención del Servicio de Bomberos y Rescate (en adelante, HZS) de ČD, a. s., unidad Nymburk; la Policía de la República Checa (PČR) intervino, y el servicio de rescate no actuó.
-
-2.1.3 Decisión de iniciar la investigación de las causas y circunstancias de la ocurrencia, composición del equipo de personas cualificadas y método de conducción de la investigación de las causas y circunstancias de la ocurrencia
-La Inspección Ferroviaria (en adelante, DI) inició la supervisión y la investigación de las causas y circunstancias de la ocurrencia del IE de conformidad con lo dispuesto en el artículo 53b, apartado 1, de la ley n.º 266/1994 Coll., sobre vías férreas, en su versión vigente, en el lugar de ocurrencia del IE. Sobre la base de las circunstancias constatadas, se constituyó un equipo de inspectores jefes de la DI dirigido por el director de la Inspección Territorial de Praga.
-El método de actuación se determinó operativamente según el desarrollo de la investigación. La DI tomó copia de la documentación elaborada durante la investigación del titular, incluidas las actas de las declaraciones de los empleados participantes, y, sobre la base de su evaluación, realizó varias inspecciones estatales en la est. Nymburk hl. n., participó en la prueba de verificación en el lugar del IE, en las declaraciones del despachador de servicio exterior y en la confrontación de empleados realizada por el titular.
-Sobre la base de la necesidad de más material probatorio, se estableció contacto con la Policía de la República Checa (en adelante, PČR).
-
-### 2.2 Circunstancias del incidente excepcional
-### 2.2.1 Empleados participantes del titular de la vía y del transportista, personas en relación contractual y otros participantes y testigos
-Empleados participantes del titular de la vía y del transportista:
-despachador de estación de la est. Nymburk, empleado de ČD, a. s., desde 1987, en el cargo desde
-●
-2002;
-despachador de línea de la est. Nymburk, empleado de ČD, a. s., desde 1988, en el cargo desde
-●
-1993;
-despachador de estación de la est. Nymburk, empleado de ČD, a. s., desde 1981, en el cargo desde
-●
-1984;
-despachador de servicio exterior I de la est. Nymburk, empleado de ČD, a. s., desde 1999, en el
-●
-cargo desde 2000;
-operadora del despachador de línea de la est. Nymburk, empleado de ČD, a. s., desde
-●
-1976, en el cargo desde 1976;
+En la vía n.º 105b se produjo la destrucción del tope de vía muerta, el daño al pilar de catenaria n.º 486, la flexión del pórtico de suspensión de la catenaria y la rotura de los cables portantes con efecto sobre la catenaria sobre las vías n.º 6 a 26 y 101 a 109.
+El HDV 742.382-6 del tren n.º 64922 permaneció sin descarrilar en el nivel del tope de vía muerta original en el km 4,094, considerablemente dañado por el impacto.
+El HDV 130.021-9 fue empujado por el tren n.º 64922, mediante el impacto, más allá del tope en toda su longitud, quedó descarrilado y considerablemente dañado.
+No se produjeron lesiones personales en los maquinistas de ambos HDV.
+Al lugar del MU fue convocado el Servicio de Bomberos y Rescate (en adelante HZS) de ČD, a. s., unidad Nymburk; la Policía (PČR) no intervino; el servicio de emergencias no actuó.
+2.1.3 Decisión de iniciar la investigación de las causas y circunstancias de la ocurrencia, composición del equipo de personas cualificadas y método de dirección de la investigación de las causas y circunstancias de la ocurrencia
+La Inspección Ferroviaria (en adelante DI) inició la supervisión y la investigación de las causas y circunstancias de la ocurrencia del MU de conformidad con lo dispuesto en el § 53b apartado 1 de la Ley n.º 266/1994 Sb., de ferrocarriles, en su redacción vigente, en el lugar de ocurrencia del MU. Sobre la base de las circunstancias constatadas, se constituyó un equipo de inspectores superiores de la DI dirigido por el director de la Inspección Territorial de Praga.
+El método de procedimiento se estableció de forma operativa según el desarrollo de la investigación. La DI recibió copias de la documentación elaborada durante la investigación por el operador, incluidas las actas de declaración de los empleados participantes, y sobre la base de su evaluación realizó varias inspecciones estacionales en la est. Nymburk hl. n., participó en la prueba de verificación en el lugar del MU, en la declaración del jefe de estación de servicio exterior y en la confrontación de empleados realizada por el operador.
+Sobre la base de la necesidad de material probatorio adicional, se estableció contacto con la Policía de la República Checa (en adelante PČR).
+### 2.2 Circunstancias del suceso excepcional
+### 2.2.1 Empleados participantes del operador de la vía y del transportista, personas en relación contractual y demás participantes y testigos
+Empleados participantes del operador de la vía y del transportista:
+● jefe de estación de la est. Nymburk, empleado de ČD, a. s., desde 1987, en el cargo desde 2002;
+● jefe de estación de vía de la est. Nymburk, empleado de ČD, a. s., desde 1988, en el cargo desde 1993;
+● jefe de estación de la est. Nymburk, empleado de ČD, a. s., desde 1981, en el cargo desde 1984;
+● jefe de estación de servicio exterior I de la est. Nymburk, empleado de ČD, a. s., desde 1999, en el cargo desde 2000;
+● operadora del jefe de estación de vía de la est. Nymburk, empleado de ČD, a. s., desde 1976, en el cargo desde 1976;
 
 ## Página 10
+
 
 señalero de la est. Nymburk, empleado de ČD, a. s., desde 1980, en el cargo desde
 ●
@@ -234,6 +228,7 @@ El espacio de las vías estaba iluminado por farolas con intensidad variable. La
 
 ## Página 11
 
+
 ### 2.2.4 Uso de medios de comunicación
 En relación con la formación del accidente se utilizaron los siguientes medios de comunicación:
 La orden de salida fue comunicada personalmente y verbalmente por el guardafrenos de servicio exterior al maquinista del tren n.º 64922.
@@ -253,106 +248,114 @@ Se realizó una inspección comisionada del lugar del accidente. El acta forma p
 En el lugar se aseguraron los documentos de tráfico de la oficina de tráfico de la estación principal de Nymburk, los aparatos de señales St. 8 y St. 3, se solicitó la documentación de tráfico de la estación de Veleliby, y se aseguraron las cintas registradoras de velocidad de la unidad motriz 742.382-5 del tren n.º 64922, de la unidad motriz 130.021-9 y de la unidad motriz 122.044-1 del tren n.º 45323.
 Además, se redactaron actas de explicaciones de los distintos empleados del operador ČD, a. s., participantes en el accidente.
 
-
 ## Página 12
 
-### 2.2.7 Activación del plan del sistema integrado de rescate, la policía y el servicio de rescate médico, y secuencia de los hechos
-Tras la inspección del lugar del accidente por parte de la Policía de la República Checa (PČR), el inspector jefe del RIBŽD de Praga y el inspector jefe del DI presente, a las 8:40 horas se otorgó al DI el consentimiento para iniciar las labores de desescombro.
-Para la eliminación de las consecuencias del accidente se utilizó la unidad grúa de accidentes (en adelante, NJJ) n.º 296 DKV Praga, PJ Vršovice y la NJJ n.º 298 DKV Ústí nad Labem. Asimismo, se utilizaron medios mecanizados de la Administración de la Vía Férrea de Praga MVTV 2-081, MVTV 2-110, MVTV 2-032, ŽHŽ 2/6 y ŽHŽ 1.
-El izado de la unidad motriz 130.021-9 se realizó mediante la NJJ n.º 296 y la NJJ n.º 298 con la ayuda del Servicio de Bomberos y Rescate de ČD, a. s., JPO Nymburk. El izado se inició a las 10:00 horas y se finalizó a las 16:30 horas del 18 de junio de 2006. La catenaria en ambas vías principales en el tramo Nymburk - Velký Osek y Nymburk - Lysá nad Labem se energizó a las 2:22 horas del 18 de junio de 2006. Ese mismo día a las 2:24 horas se energizó la catenaria en las vías de estación impares y a las 19:12 horas la catenaria sobre las vías n.º 2, 4, 8a, 10a, 98 y 99 en la estación de viajeros y en parte de la vía 110 en la estación de clasificación. El 21 de junio de 2006 se energizó la catenaria en las vías n.º 6, 8 y en parte de la vía 10. El 21 de junio de 2006 se energizó la catenaria en parte de las vías n.º 12, 14, 18 y 26. El 21 de julio de 2006 se energizó la catenaria en las vías n.º 101 a 110 de la estación de clasificación. El 30 de julio de 2006 se completó la reparación de la parte restante de la catenaria.
-Durante el accidente no se produjeron lesiones ni daños a la salud, y no se activó el servicio de rescate médico.
-El accidente fue investigado en el lugar por la PČR, OŽP, Komenského 587, Nymburk, código postal 288 29, bajo el número de expediente: ORNB-300/ŽP-TČ-2006.
-### 2.3 Muertes, lesiones y daños materiales
-2.3.1 En viajeros y terceros, empleados del operador de la vía y del transportista, incluidas las personas en relación contractual
-Durante el accidente no hubo fallecidos ni se produjeron daños a la salud.
-### 2.3.2 En mercancías transportadas, equipajes y otros bienes
-No se produjeron daños en las mercancías transportadas, equipajes ni otros bienes.
-### 2.3.3 En material rodante ferroviario, componentes de la vía y en el medio ambiente
-En la inspección comisionada del estado técnico de la unidad motriz 742.382-5 en el taller de Nymburk se estimó el importe total de los daños en 398 445,- Kč.
-En la inspección comisionada del estado técnico de la unidad motriz 130.021-9 en el taller de Česká Třebová se estimó el importe total de los daños en 4 305 000,- Kč.
-Se estimó el importe total de los daños en las instalaciones de SŽDC, s. o., en 421 172,- Kč.
-La estimación total de los daños asciende a 5 124 617,- Kč.
-El tráfico ferroviario en la estación de Nymburk hl. n. no se interrumpió debido al accidente, y no se produjeron daños al medio ambiente.
-
+### 2.2.7 Activación del plan del sistema integrado de rescate, de la policía y del servicio médico de emergencia y secuencia de acontecimientos
+Tras el examen del lugar del accidente ferroviario por la Policía de la República Checa, el inspector superior de RIBŽD Praga y el inspector superior de DI presente, a las 8:40 horas se concedió por parte de DI el permiso para iniciar los trabajos de despeje.
+Para eliminar las consecuencias del accidente ferroviario se utilizó la unidad de grúa de accidentes (en adelante NJJ) número 296 DKV Praga, PJ Vršovice y la NJJ número 298 DKV Ústí nad Labem. Asimismo se utilizaron medios mecanizados de la Administración de la vía de circulación Praga MVTV 2-081, MVTV 2-110, MVTV 2-032, ŽHŽ 2/6 y ŽHŽ 1.
+El realineamiento del HDV 130.021-9 fue realizado por la NJJ número 296 y la NJJ número 298 con la ayuda de HZS ČD, a. s., JPO Nymburk. El realineamiento se inició a las 10:00 horas y finalizó a las 16:30 horas del día 18. 06. 2006. La catenaria en ambas vías de la sección Nymburk - Velký Osek y Nymburk - Lysá nad Labem fue energizada a las 2:22 horas del día 18. 06. 2006. Ese mismo día, a las 2:24 horas, se energizó la catenaria en las vías de estación impares y a las 19:12 horas la catenaria sobre las vías n.º 2, 4, 8a, 10a, 98 y 99 en la estación de pasajeros y en una parte de la vía n.º 110 en la estación de clasificación. El 21. 6. 2006 se energizó la catenaria en las vías n.º 6, 8 y en una parte de la vía n.º 10. El 21. 6. 2006 se energizó la catenaria en una parte de las vías n.º 12, 14, 18 y 26. El 21. 7. 2006 se energizó la catenaria en las vías n.º 101 a 110 de la estación de clasificación. El 30. 7. 2006 se completó la reparación de la parte restante de la catenaria.
+En el accidente ferroviario no se produjeron lesiones personales y no se activó el servicio médico de emergencia. El accidente ferroviario fue investigado en el lugar por la Policía de la República Checa, OŽP, Komenského 587, Nymburk, PSČ288 29, bajo el ref.: ORNB-300/ŽP-TČ-2006.
+### 2.3 Fallecimientos, lesiones y daños materiales
+2.3.1 En pasajeros y terceras personas, empleados del gestor de la vía y del transportista, incluidas personas en relación contractual
+En el accidente ferroviario no falleció nadie ni se produjeron lesiones personales.
+### 2.3.2 En las cosas transportadas, el equipaje y otros bienes
+En las cosas transportadas, el equipaje y otros bienes no se produjeron daños.
+### 2.3.3 En los vehículos ferroviarios, los componentes de la vía de circulación y en el medio ambiente
+En la comprobación pericial del estado técnico del HDV 742.382-5 en DPOV Nymburk se estimó el importe total de los daños en 398 445,- Kč.
+En la comprobación pericial del estado técnico del HDV 130.021-9 en DKV Česká Třebová se estimó el importe total de los daños en 4 305 000,- Kč.
+En los equipos de SŽDC, s. o., se estimó el importe total de los daños en 421 172,-Kč.
+La estimación total de daños asciende a 5 124 617,- Kč.
+El tráfico ferroviario en la est. Nymburk hl. n. no se interrumpió por motivo del accidente ferroviario, y no se produjeron daños al medio ambiente.
 
 ## Página 13
 
-### 2.4 Factores externos
+### 2.4 Circunstancias externas
 ### 2.4.1 Condiciones meteorológicas y datos geográficos
-En el momento de la ocurrencia del accidente había calma, +17 grados Celsius, cielo despejado, era de noche, iluminación artificial. La zona de las vías estaba iluminada por farolas de alta intensidad con intensidad variable. La farola más cercana está situada directamente junto al punto de cruce n.º 424; el espacio desde el punto de cruce n.º 424 hasta el tope de la vía muerta 105b no está iluminado, se encuentra a oscuras.
-## 3 REGISTRO DE LAS DECLARACIONES PRESTADAS
-### 3.1 Resumen de las declaraciones prestadas (sujetas a protección de la identidad de las personas) y sobre la investigación técnica de las causas del accidente
-### 3.1.1 Empleados del operador de la vía y del transportista, incluidas las personas en relación contractual
-Con los empleados participantes en el accidente se redactaron actas sobre el cumplimiento de sus obligaciones laborales:
-El despachador de estación, en el Acta con el empleado, indicó las razones que llevaron a determinar la vía n.º 102 como vía de salida para el tren n.º 64922, señalando que en la situación dada no existía otra solución adecuada. Al mismo tiempo, indicó que la salida del tren n.º 64922 la realizó el despachador de salida de la estación de Ústí.
-El guardafrenos de estación, en el Acta con el empleado, indicó que el despachador de estación decidió engarzar la carga del tren de mercancías Pn 64922 en la vía 2 de la estación de clasificación y, tras la salida, su circulación a través del cerro de desvío hacia la vía 102.
-Además, indicó que:
-la autorización para la circulación de maniobra para este tren la dio a las 1:55 horas y a las 2:03 horas ambos telegrafistas le informaron de la finalización de la maniobra en la vía 102;
+En el momento de producirse el MU había calma, +17 grados C, cielo despejado, período nocturno, iluminación artificial. La zona de la vía estaba iluminada por focos de mástil de intensidad variable. El luminario de mástil más próximo está situado directamente junto a la aguja n.º 424; la zona desde el señalero de la aguja n.º 424 hasta el tope de la vía muerta 105b está sin iluminar, a oscuras.
+## 3 REGISTRO DE LAS EXPLICACIONES PRESENTADAS
+### 3.1 Resumen de las explicaciones presentadas (sujetas a protección de la identidad de las personas) y del peritaje sobre las causas de la aparición del suceso ferroviario
+### 3.1.1 Empleados del gestor de la infraestructura y del transportista, incluidas personas en relación contractual
+Con los empleados implicados en el MU se levantaron actas sobre el cumplimiento de sus obligaciones laborales:
+El jefe de estación indicó en el Acta con el empleado las causas que llevaron a determinar
 ●
-esta información la comunicó al guardafrenos de línea y acordó con él que primero hiciera entrar el tren de mercancías n.º 45323 a la vía n.º 109 y solo después llevar a cabo la salida del tren n.º 64922 desde la vía 102;
+la vía n.º 102 como vía de salida para el tren n.º 64922, señalando que en la situación dada no había otra solución adecuada. Asimismo indicó que el despacho del tren nº 64922 lo realizó la estación Ústí salida.
+El jefe de maniobras de estación indicó en el Acta con el empleado que el jefe de estación decidió
 ●
-posteriormente, concertó la ruta del tren para el tren n.º 45323 desde Kostomlat hacia la vía n.º 109;
+acoplar la carga del tren Pn 64922 en la 2.ª vía de la estación de clasificación y, tras despacharlo, de su circulación por la loma de enlace a la vía 102.
+Asimismo indicó que:
+concedió la autorización de maniobra para este tren a las 1:55 horas y a las 2:03 horas
 ●
-cuando el tren n.º 45323 entraba y ya llevaba aproximadamente la mitad del tren en la vía 109, se oyó un golpe;
+le comunicaron ambos señaleros la finalización de la maniobra en la vía 102;
+esta información la trasladó después al jefe de maniobras de vía y acordó con él que
 ●
-no dio la orden de redactar la orden «V» para el tren n.º 64922, ya que considera que esto lo garantizó el despachador de salida de la estación, ya que habitualmente solicita la orden directamente al guardafrenos de servicio exterior I.;
+primero entraría el tren de mercancías n.º 45323 en la vía n.º 109 y solo después se produciría la salida del tren n.º 64922 de la vía 102;
+a continuación concertó la ruta ferroviaria para el tren n.º 45323 desde Kostomlat a la vía n.º 109;
+cuando el tren n.º 45323 entraba y ya estaba aproximadamente con la mitad del tren
+●
+en la vía 109, se oyó una explosión;
+no dio la orden de redactar la orden "V" para el tren n.º 64922; considera que esto lo
+●
+garantizó la estación Ústí salida; normalmente la orden la solicita directamente el jefe de maniobras de servicio exterior I;
 
 ## Página 14
 
-el despachador de servicios exteriores I. sabía que el tren n.º 64922 estaba despachado mediante la documentación del tren
+la jefa de servicio exterior I. sabía que el tren n.º 64922 estaba gestionado con documentación de tren
 ●
-y, por la conversación entre él y el despachador de vía, sabía que el tren n.º 64922 ya se encontraba en la
-vía 102;
-el despachador de servicios exteriores I. no dio la orden de salida del tren Pn 64922 ni la envió a la
+y de la conversación entre ella y el jefe de tráfico sabía que el tren n.º 64922 ya estaba en
+la vía 102;
+la jefa de servicio exterior no dio la orden de despacho del tren Pn 64922 ni la envió a la
 ●
 estación de entrada;
-antes de la producción del accidente, el despachador de servicios exteriores I. abandonó la sala de tráfico y no indicó
+antes de que se produjera el MU, la jefa de servicio exterior I. salió de la sala de tráfico sin
 ●
-a dónde fue; posteriormente, en la sala de tráfico se oyó un golpe;
-el teléfono móvil de servicio, que el despachador exterior suele llevar consigo al despachar trenes
+indicar a dónde, y posteriormente ya en la sala de tráfico escucharon el golpe;
+el móvil de servicio, que el jefe de servicio exterior suele llevar consigo al despachar trenes
 ●
-desde la estación de entrada, permaneció abandonado sobre la mesa;
-cuando el despachador de servicios exteriores I. regresó a la sala de tráfico, comenzó a llorar
+desde la estación de entrada, quedó sobre la mesa;
+cuando la jefa de servicio exterior I. regresó a la sala de tráfico, comenzó a llorar y dijo
 ●
-y dijo que había salido de la vía 102.
-El despachador de vía en Zápis confirmó, en el acta con el empleado, la declaración del despachador de estación.
-La operadora en el acta con el empleado indicó que:
-el despachador de estación fue llamado por teléfono por el empleado de la estación aproximadamente y le comunicó que en la vía 102
+que había partido de la vía 102.
+El jefe de tráfico confirmó en el Acta con el empleado la declaración del jefe de estación.
+La operadora indicó en el Acta con el empleado que:
+al jefe de estación le llamó por teléfono probablemente el de la estación y le comunicó que en
 ●
-se encontraba el tren n.º 64922, y el despachador de estación repitió el número del tren y el número de la vía, que anotó
-en el diario de tráfico;
-asimismo, el despachador de vía anotó el número del tren en el diario y ella también anotó
+la vía 102 se encontraba el tren n.º 64922, y el jefe de estación repitió el número de tren y el
+número de vía, que anotó en el diario de tráfico;
+asimismo, el jefe de tráfico anotó el número de tren en el diario y ella también anotó el
 ●
-el número del tren y el número de la vía en el «Plan de horario cumplido»;
-sobre el tren n.º 64922 no se habló más y no se pronunció ninguna palabra sobre cuándo el tren
+número de tren y el número de vía en el «Plan cumplido del horario»;
+sobre el tren n.º 64922 no se habló más y no se dijo ninguna palabra sobre cuándo
 ●
-saldría;
-el despachador de servicios exteriores I. salió al exterior y nadie sabía a dónde había ido ni que, en el momento de su
+partiría el tren;
+la jefa de servicio exterior I. salió fuera y nadie sabía a dónde había ido, y que en el momento
 ●
-salida, se había preparado la vía de tren para el tren n.º 45323 hacia la estación de entrada;
-de repente se oyó un fuerte golpe y, tras 3 - 4 minutos, regresó llorando el despachador de servicios exteriores
+de su partida ya estaba establecida la ruta de tren para el tren n.º 45323 hacia la estación de
+entrada;
+de pronto se oyó un gran golpe y tras 3 - 4 minutos llegó llorando la jefa de servicio exterior
 ●
-I. con la explicación de que había salido con el tren desde la vía 102;
-A la pregunta de si algún despachador había autorizado al despachador de servicios exteriores I. para que el tren
+I. diciendo que había partido con el tren desde la vía 102;
+a la pregunta de si algún jefe de servicio dio su consentimiento a la jefa de servicio exterior I.
 ●
-n.º 64922 saliera de la vía 102, respondió: «Como ya he indicado, nadie volvió a hablar del tren 64922. Únicamente anotamos el tren en la documentación de tráfico».
-El telegrafista del punto de maniobras St. 8 indicó en el acta con el empleado que:
-tras la hora 2.00, recibió del despachador de estación la orden de cambiar el punto de maniobras (HDV) desde la vía 103 a la
+para que partiera con el tren n.º 64922 desde la vía 102, respondió: «Como ya he indicado,
+sobre el tren 64922 ya no habló nadie más. Solo anotamos el tren en la documentación de
+tráfico».
+El señalero del puesto de enclavamiento St. 8 indicó en el Acta con el empleado que:
+después de las 2:00 recibió del jefe de estación la orden de maniobrar la HDV desde la vía
 ●
-vía 105.b y tras la vía 105 por el otro lado, y al mismo tiempo debía preparar la vía de tren
+103 a la vía 105.b y por la vía 105 al otro lado, y a la vez debía establecer la ruta de tren
 desde Kostomlat hacia la vía 109 para el tren n.º 45323;
 en la vía 102 se encontraba el tren n.º 64922;
 ●
-al entrar el tren n.º 45323, comenzó a sonar la campana de la vía de cruce del punto de maniobras n.º 416 y posteriormente
+con la entrada del tren n.º 45323 comenzó a sonar la campana de corte del desvío n.º 416 y
 ●
-también la del n.º 421, pero no puede confirmar si esto ocurrió durante la circulación del tren n.º 45323 o justo antes de su
-entrada, ya que estaba en una llamada telefónica;
-a través del tren que entraba no podía ver qué ocurría en las vías siguientes, pero cuando este tren
+posteriormente también la del n.º 421, pero si esto ocurrió ya durante la marcha del tren
+n.º 45323 o justo antes de su entrada no puede confirmarlo, pues tenía una llamada telefónica;
+a través del tren que entraba no veía lo que ocurría en las demás vías, pero cuando este tren
 ●
-liberó el extremo de la estación, vio el tren entrante sobre el punto de maniobras en la vía n.º 105b;
-
+liberó la cabecera, vio el tren ya posicionado sobre la HDV en la vía n.º 105b;
 
 ## Página 15
+
 
 la preparación de la vía de tren para el tren n.º 45323 se realizó de forma normal según el reglamento,
 ●
@@ -407,53 +410,44 @@ le resulta extraño que el telegrafista, desde cuya posición se podía ver la c
 
 ## Página 16
 
-El maquinista del tren n.º 45323, en el acta, junto con un empleado, declaró que:
-el tren se detuvo antes de la señal de entrada, que se encontraba en posición de «Alto»;
-●
-tras el cambio de la señal a la indicación «Velocidad 40 km/h y precaución» de la señal de entrada,
-●
-el tren partió a una velocidad de aproximadamente 40 km/h;
-cuando el tren circulaba junto a la vía muerta 105b, vio que estaba ocupada por una locomotora de la serie
-●
-130;
-simultáneamente, vio que hacia su tren circulaba una locomotora de la serie 742 con vagones de mercancías;
-●
-supuso que se trataba de una maniobra, pero al mismo tiempo se dio cuenta de que, si no circulaba directamente hacia su tren, tenía que entrar necesariamente en la vía muerta 105b ocupada;
-●
-tras pasar junto al vehículo detenido de la serie 130, asomó la cabeza por la ventana lateral y vio que se había producido la colisión;
-●
-que la circulación de su tren no había sido afectada por la colisión y, por ello, llegó lentamente hasta la señal Sc 109, donde se detuvo.
-La despachadora de servicios exteriores I., que realizó el despacho del tren n.º 64922 desde la vía n.º 102, tras producirse el incidente (MU), se mostró muy alterada y se negó a proporcionar cualquier explicación sobre el cumplimiento de sus obligaciones laborales, lo cual fue respetado por la persona experta cualificada del operador ČD, a. s., encargada de la investigación. En el lugar se acordó una fecha alternativa para la redacción del acta a las 8,00 horas del día 20 de junio de 2006 con el jefe superior de la estación de Nymburk hl. n., a la cual la mencionada no se presentó, no se excusó y envió por correo certificado al jefe superior de la estación de Nymburk hl. n. un justificante de incapacidad laboral. Tras finalizar la incapacidad laboral, el 24 de julio de 2006 se le volvió a requerir para la redacción del acta, a la cual se presentó, pero se negó a responder sin la presencia de su representante legal. Por estas razones, ČD, a. s., GŘ O 18 DI, solicitó al director de la Inspección Territorial de Praga la prórroga del plazo para la emisión de la Evaluación de las causas y circunstancias de la incidencia (en adelante, Evaluación). La DI accedió a la solicitud y aprobó la fecha de emisión de la Evaluación para el 27 de septiembre de 2006. El 21 de septiembre de 2006 se redactó, con la despachadora de servicios exteriores I., en presencia de su representante legal, un «Acta», en la cual, entre otras cosas, declaró respecto a las preguntas formuladas que:
-realizó el servicio normal desde la medianoche;
-●
-alrededor de la segunda hora, el despachador de la estación le comunicó que debía comprobar la libertad de la vía del tren por la primera vía;
-●
-ante esta advertencia, salió de la sala de control y comprobó la libertad de la primera vía, tras lo cual regresó a la sala de control y esperó la llegada del tren;
-cuando el tren se acercaba, se levantó y se dirigió a observar la circulación del tren y, durante este desplazamiento, el despachador de la estación le comunicó que, una vez que el tren hubiera pasado por la primera vía, debía despachar el tren desde la vía 102;
-●
-que, tras el paso del tren por la primera vía y tras finalizar su observación, se dirigió a la vía 102, donde habló con el maquinista y le dio la indicación de «Salida»;
-●
-aún observó durante un tiempo la circulación del tren que partía, luego regresó a la sala de control y, cuando estaba junto a la primera vía, oyó un fuerte golpe y un destello de luces, se asustó y volvió a la sala de control, donde hubo agitación; no recuerda lo demás.
-Debido a las importantes contradicciones en las declaraciones del despachador de la estación, del despachador de línea y de la operadora, con el consentimiento de la despachadora de servicios exteriores I., se realizó el día 25 de septiembre de 2006 en la estación de Nymburk hl. n. una confrontación entre los empleados mencionados. Las contradicciones en las declaraciones no se aclararon ni siquiera mediante la confrontación realizada. Se leyó a los despachadores de la estación, de línea y a la operadora la declaración de la despachadora de servicios exteriores I. y se les instó a que se manifestaran sobre su contenido. En sus respuestas, los tres confirmaron unánimemente que ningún despachador había dado a nadie ninguna orden o instrucción para despachar el tren n.º 64922.
+El maquinista del tren n.º 45323 en el Registro con el empleado indicó que:
+● el tren se detuvo antes de la señal de entrada, que se encontraba en la posición «Alto»;
+● tras el cambio de señal a la señal «Velocidad 40 km/h y aviso» de la señal de entrada, el tren comenzó a circular a una velocidad de unos 40 km/h;
+● cuando el tren pasaba junto a la vía muerta 105b, vio que estaba ocupada por una locomotora de la serie 130;
+● al mismo tiempo vio que en sentido contrario a la marcha de su tren circulaba una locomotora de la serie 742 con vagones de carga;
+● supuso que se trataba de una maniobra, pero al mismo tiempo se dio cuenta de que si no circulaba directamente hacia su tren, solo podía dirigirse a la vía muerta 105b, que estaba ocupada;
+● tras pasar junto al vehículo detenido de la serie 130, miró hacia fuera por la ventana lateral y vio que se había producido una colisión;
+● la marcha de su tren no se vio afectada por la colisión, por lo que avanzó lentamente hasta la señal Sc 109, donde se detuvo.
+La jefa de servicio exterior I., que había efectuado la expedición del tren n.º 64922 desde la vía n.º 102, quedó muy alterada tras la producción del accidente ferroviario y se negó a dar cualquier explicación sobre el cumplimiento de sus obligaciones laborales, lo cual fue respetado por la persona cualificada para la investigación de la empresa ČD, a. s. En el lugar se acordó una fecha sustitutiva para la elaboración del registro a las 8,00 horas del día 20. 6. 2006 ante el jefe de estación de la est. Nymburk hl. n., a la que la citada no acudió, no se excusó y envió por correo certificado al jefe de estación de la est. Nymburk hl. n. un justificante de incapacidad laboral. Tras finalizar la incapacidad laboral, el día 24. 7. 2006 se le volvió a citar para la elaboración del registro, a la que acudió, pero se negó a responder sin la presencia de su representante legal. Por estos motivos, ČD, a.s., GŘ O 18 DI, solicitó al director del Inspectorado Territorial de Praga la prórroga del plazo para la emisión de la Evaluación de las causas y circunstancias de la producción del accidente ferroviario (en adelante, Evaluación). DI atendió la solicitud y aprobó el plazo para la emisión de la Evaluación el 27. 9. 2006. El día 21. 9. 2006 se elaboró, con la presencia de su representante legal, el «Registro» con la jefa de servicio exterior I., en el que, entre otras cosas, en respuesta a las preguntas formuladas indicó que:
+● desde la medianoche realizaba el turno normal de servicio;
+● hacia las dos de la madrugada el jefe de estación le comunicó que debía comprobar la disponibilidad del itinerario de tren por la vía n.º 1; ante este aviso salió de la sala de tráfico y comprobó la disponibilidad de la vía n.º 1, tras lo cual volvió a la sala de tráfico y esperó la llegada del tren;
+● cuando el tren se aproximaba, se levantó y salió a observar la marcha del tren, y durante esta salida el jefe de estación le comunicó que, una vez que el tren hubiera pasado por la vía n.º 1, debía expedir el tren desde la vía n.º 102;
+● que tras el paso del tren por la vía n.º 1 y tras finalizar su observación, se dirigió a la vía n.º 102, donde habló con el maquinista y lo expidió con la señal «Salida»;
+● durante algún tiempo más observó la marcha del tren que partía, luego volvió a la sala de tráfico y, cuando estaba junto a la vía n.º 1, oyó un estruendo terrible y un destello de luces, se asustó y volvió a la sala de tráfico, donde se produjo un alboroto, del resto ya no se acuerda.
+Debido a las notables discrepancias en las declaraciones del jefe de estación, del jefe de línea y de la operadora, con el consentimiento de la jefa de servicio exterior I., se realizó de nuevo el día
+
+## Página 17
+
+25. 9. 2006 en la estación de Nymburk hl. n., confrontación entre los empleados mencionados. Las discrepancias en las declaraciones tampoco fueron aclaradas mediante la confrontación realizada. Se leyó al jefe de estación, al jefe de vía y a la operadora la declaración del jefe de servicio exterior I. y se les pidió que se pronunciaran sobre su contenido. En sus respuestas, los tres confirmaron de manera inequívoca que ningún jefe de estación había dado a nadie ninguna instrucción ni orden para la conducción del tren n.º 64922.
 
 ### 3.1.2 Otras personas
-Otras personas no participaron en la explotación de la vía férrea y del transporte ferroviario.
+Otras personas no participaron en la explotación de la vía ni en el transporte ferroviario.
 
 ### 3.2 Sistema de garantía de la seguridad
 
-### 3.2.1 Organización marco y forma en que se dictan y ejecutan las órdenes
+### 3.2.1 Organización marco y forma en que se emiten y ejecutan las instrucciones
+El explotador está obligado a explotar la vía para las necesidades del transporte ferroviario fluido y seguro de acuerdo con las reglas de explotación de la vía y la autorización oficial. El explotador está obligado a garantizar que la explotación de la vía y del transporte ferroviario la realicen personas que estén cualificadas desde el punto de vista profesional y sanitario. Para garantizar las actividades y para determinar la cualificación profesional y sanitaria sirven los procedimientos tecnológicos contenidos en las normas internas del explotador.
 
-El operador está obligado a explotar la vía para las necesidades de un transporte ferroviario fluido y seguro, conforme a las normas de explotación de la vía y a la autorización administrativa. El operador está obligado a garantizar que la explotación de la vía y del transporte ferroviario sean realizadas por personas que estén cualificadas técnica y médicamente. Para garantizar las actividades y determinar la cualificación técnica y médica sirven los procedimientos tecnológicos contenidos en las disposiciones internas del operador.
+A partir de los datos indicados en la documentación de transporte básica (en adelante ZDD), es decir, en la Ordenanza de Estación y en la documentación de transporte de la estación de Nymburk hl. n., se constató lo siguiente:
 
-De los datos indicados en la documentación básica de tráfico (en adelante, ZDD), es decir, en el Reglamento de Estación y en la documentación de tráfico de la estación de Nymburk hl. n., se ha determinado lo siguiente:
+El despachador de estación tiene su puesto en el edificio de explotación de la estación de clasificación. Es el jefe de turno en el ámbito de la estación de clasificación. Responde del cumplimiento del plan de turno del trabajo de formación de trenes en la estación de clasificación, del maniobras fluidas, de la formación oportuna de los trenes y de su preparación para la salida, y de la explotación de las vías de servicio que se bifurcan desde la estación de clasificación. Elabora la propuesta del plan de turno para la retirada de la carga de la estación de clasificación y la comunica al jefe de estación principal. Determina el orden de los trabajos de maniobra y el orden del listado de la carga formada.
 
-El despachador de la estación tiene su puesto en el edificio operativo de la estación de clasificación. Es el jefe de turno en el ámbito de la estación de clasificación. Responde del cumplimiento del plan de turno del trabajo de formación de trenes en la estación de clasificación, del flujo de las maniobras, de la composición puntual de los trenes y de la preparación para su salida, y del manejo de las vías privadas que se desvían de la estación de clasificación. Elabora la propuesta del plan de turno para el transporte de la carga desde la estación de clasificación y la comunica al despachador principal. Determina el orden de las maniobras y el orden del inventario de la carga compuesta.
+El jefe de vía tiene su puesto en la oficina de explotación de la estación de viajeros. Organiza y dirige el tráfico en los tramos intermedios adyacentes y comunica la salida prevista. Decide el orden de circulación de todos los trenes desde la estación. Explota los aparatos de enclavamiento de vía en las direcciones Nymburk město, Kostomlaty nad Labem y Veleliby, o en su caso autoriza su explotación al jefe de estación. Tras recibir la salida prevista de la estación vecina, comunica inmediatamente al jefe de estación la hora, el número de tren, el nombre de la estación vecina y, en el caso de un tren de mercancías, añade el dato de información sobre a qué ámbito de la estación propia está destinado el tren. Lleva el diario de explotación, mantiene el contacto con el despachador de explotación. Durante la ausencia del jefe de estación, le sustituye en toda su extensión. Comunica la salida prevista a los jefes de estación de Veleliby, Kostomlaty n.Lab., Nymburk město y al enclavamiento St. 1. Otorga la autorización para la salida de trenes y para las maniobras entre instalaciones de explotación (en adelante PMD) al jefe de estación; otorga la autorización al jefe del enclavamiento St. 1 y al jefe de la desviación Babín para acordar la circulación de trenes y PMD en todos los tramos intermedios adyacentes a sus puestos.
 
-El despachador de línea tiene su puesto en la oficina de control de tráfico de la estación de viajeros. Organiza y dirige el tráfico en los tramos intermedios adyacentes y anuncia la salida prevista. Decide sobre el orden de circulación de todos los trenes desde la estación. Maneja los dispositivos de seguridad de línea hacia Nymburk město, Kostomlaty nad Labem y Veleliby, o bien, con el consentimiento del despachador de la estación, autoriza su manejo por parte del despachador de la estación. Tras recibir la salida prevista desde la estación vecina, comunica inmediatamente al despachador de la estación el dato temporal, el número del tren, el nombre de la estación vecina y, en el caso de un tren de mercancías, añade el dato con la información sobre en qué ámbito de su propia estación está destinado el tren. Lleva el diario de tráfico, mantiene el contacto con el despachador de explotación. Durante la ausencia del despachador de la estación, lo sustituye en su totalidad. Anuncia la salida prevista a los despachadores de las estaciones de Veleliby, Kostomlaty n.Lab., Nymburk město y al puesto de señalización St. 1. Otorga el consentimiento para la salida de los trenes y las maniobras entre despachos (en adelante, PMD) al despachador de la estación; otorga el consentimiento al despachador del puesto de señalización St. 1 y al despachador de la derivación de Babín para concertar las circulaciones de los trenes y las PMD en todos los tramos intermedios adyacentes a sus puestos.
-
-El despachador de la estación tiene su puesto en la oficina de control de tráfico de la estación de viajeros. Organiza y dirige el tráfico de trenes y las maniobras en el ámbito de la estación de viajeros y de la estación de entrada. Maneja los dispositivos de seguridad de la estación en la oficina de control de tráfico de la estación de viajeros, con el consentimiento del
+El jefe de estación tiene su puesto en la oficina de explotación de la estación de viajeros. Organiza y dirige el tráfico de trenes y las maniobras en el ámbito de la estación de viajeros y de entrada. Explota el aparato de enclavamiento de estación en la oficina de explotación de la estación de viajeros, con el consentimiento del jefe de vía
 
 ## Página 18
+
 
 del telegrafista de línea también el dispositivo de seguridad de vía. Da órdenes a los telegrafistas de servicio exterior para la entrega de la orden escrita de salida del tren. Da instrucciones a los telegrafistas de servicio exterior para la expedición del tren tras el cumplimiento de todas las operaciones prescritas antes de su salida, dando la instrucción mediante el cambio de la señal de salida a una señal que permita la circulación o personalmente. Lleva el diario de tráfico actualizado. Durante la ausencia del telegrafista de línea, le sustituye en su totalidad.
 El telegrafista de servicio exterior I tiene su puesto en la oficina de tráfico de la estación de viajeros, el ámbito de actuación son las vías nº 3, 1, 2, 4, 6. Está subordinado al telegrafista de estación. Espera el tren en el andén, supervisa los trenes en su ámbito de actuación. Realiza en su competencia y bajo su plena responsabilidad la expedición de trenes en su ámbito de actuación. Informa a las tripulaciones mediante órdenes escritas sobre todas las incidencias en las secciones para la información de trenes. Las órdenes redactadas las redacta él mismo y responde de su corrección y exhaustividad. Mediante informática elabora órdenes escritas también para las demás posiciones. En ausencia del telegrafista de servicio exterior II, cumple sus obligaciones, entre otras cosas, por orden del telegrafista de estación realiza la expedición de trenes desde las vías número 101 a 110.
@@ -466,8 +460,8 @@ Todos los empleados participantes estaban cualificados profesionalmente en el mo
 Al determinar las causas y circunstancias de la aparición de la IU se verificó también la eficacia del control interno de seguridad:
 Se determinó que para la realización de las actividades de control en ČD, a.s. se emitió la norma interna ČD D15, para la cual se introdujo desde el 1. 5. 2004 el "Servicio de verificación del nuevo sistema de actividad de control en la EST" en relación con la transformación en curso de ČD, a. s., bajo el número de registro: 55 791/2004-O11 de fecha 8. 4. 2004. Para la aplicación de los documentos mencionados anteriormente en las condiciones de la EST Nymburk se emitió el 22. 4. 2004 la "Orden del jefe superior número 17/2004" (en adelante, orden) y el "Suplemento nº 1 a la OVP número 17/2004" de fecha 1. 3. 2005". Esta orden desarrolla las condiciones concretas de realización de los controles en el ámbito de la EST Nymburk, incluida su frecuencia y orientación, la responsabilidad por la realización, la dotación completa y la distribución dentro del
 
-
 ## Página 19
+
 
 período mensual. También establece la forma de registro de la actividad de control y la forma de su evaluación en el consejo del jefe superior.
 Según esta orden, son responsables de la actividad de control en el ámbito de la EST Nymburk h. n. especialmente el supervisor de tráfico para la estación de viajeros y el supervisor de tráfico para la estación de clasificación. La orientación de la actividad de control es, entre otras cosas, la ejecución directa del servicio de tráfico, el uso del dispositivo de grabación REDAT, la corrección de las anotaciones en las órdenes escritas, el control de la documentación de tráfico, de las órdenes escritas y el control de la documentación básica.
@@ -489,6 +483,7 @@ decreto del Ministerio de Transportes nº 173/1995 Coll., por el que se aprueba 
 ●
 
 ## Página 20
+
 
 decreto del Ministerio de Transporte n.º 177/1995 Coll., por el que se aprueba el reglamento de construcción y técnica de las vías férreas, en su versión vigente;
 decreto del Ministerio de Transporte n.º 101/1995 Coll., reglamento sobre la aptitud sanitaria y profesional para la explotación de las vías férreas y el transporte ferroviario, en su versión vigente;
@@ -525,8 +520,8 @@ Reglamento de la estación de la estación de Nymburk hlavní nádraží con vig
 ### 3.4.1 Sistema de dirección, señalización y seguridad, incluidos los dispositivos para el registro automático de datos
 La estación de Nymburk hl. n. se divide en el ámbito de la estación de viajeros y el ámbito de la estación de clasificación. La estación de entrada forma parte de la estación de clasificación (vías números 101 a 109). El grupo de vías de estación n.º 101 – 104, 106 – 109 está en el ámbito del conmutador de la central de conmutación St. 8. Estas vías están destinadas a la entrada de trenes procedentes de la dirección oeste y, excepcionalmente, a la salida de trenes hacia todas las
 
-
 ## Página 21
+
 
 direcciones. Esta destinación también corresponde al equipamiento con el dispositivo de seguridad. En caso de llevar a cabo la salida de un tren desde estas vías, se procederá de acuerdo con los procedimientos tecnológicos establecidos por el operador ČD, a. s., el Reglamento de la estación de la estación de Nymburk hlavní nádraží (vigencia desde el 1. 7. 2002), en la parte I. Medidas especiales, art. 127. Utilización de vías de tren extraordinarias en la estación, cita:
 «Salida de tren desde las vías n.º 101 – 104 y 106 – 109 dirección oeste.
@@ -542,6 +537,7 @@ Los puntos de vía de la estación de entrada n.º 416, 416XA, 417 a 429 se mani
 La sala de tráfico en la estación de viajeros está equipada con dos centrales de control, una sirve para la seguridad de las circulaciones hacia la estación de entrada y la otra hacia la estación de viajeros.
 
 ## Página 22
+
 
 En las vías de estación n.º 101 – 104, 106 – 109 se encuentran situados los semáforos de maniobras de luz de pequeño perfil Lc 101, 102, 103, 104, 106, 107, 108, 109, que muestran la indicación «Alto» o la indicación «Maniobra permitida». Para la salida de los trenes desde estas vías, incluida la vía n.º 102, no se manejan. Estas vías disponen de catenaria a lo largo de toda su longitud.
 
@@ -570,6 +566,7 @@ El tren n.º 60400 se detuvo en la vía 103 a las 2:07 horas. A las 2:09 horas, 
 Mediante la evaluación de la banda registradora del dispositivo de registro de datos (HDV) 122.044-1 del tren n.º 45323 que entraba desde la estación de Kostomlaty n. L., hacia la vía 109, se determinó: A las 2:10 horas el tren salió, alcanzó una velocidad V = 40 km/h a lo largo de una distancia de 370 metros, a lo largo de otros 470 metros se produce una disminución de la velocidad por la pendiente (con una desaceleración a = 0,02 m/s²) hasta un valor V = 36 km/h, a lo largo de otros 800 metros se produce una disminución de la velocidad por la pendiente (con una desaceleración a = 0,06 m/s²) hasta un valor
 
 ## Página 23
+
 
 V = 11 km/h, a lo largo de una distancia de aproximadamente 20 metros el tren se detuvo a las 2:14 horas, aproximadamente 30 metros antes del semáforo Se 109.
 
@@ -601,6 +598,7 @@ Como comunicación realmente demostrada en relación con el accidente (MU) puede
 
 ## Página 24
 
+
 de estas instrucciones al señalizador. Entre estos empleados también se transmitió la instrucción para establecer la vía de circulación del tren n.º 45323 procedente de Kostomlat hacia la vía n.º 109.
 Otra comunicación verbal, o bien instrucción, fue la instrucción dada por el despachador de servicios exteriores I. al maquinista del tren n.º 64922 durante su expedición.
 Las citadas comunicaciones verbales se desprenden de las declaraciones explicativas presentadas por los empleados participantes, mencionadas en el art. 3.1.1 del presente informe.
@@ -616,8 +614,8 @@ Se realizó una prueba de aliento para detectar consumo de alcohol a los emplead
 3.6.3 Disposición del equipamiento del puesto de control o del vehículo, que influye en su manejo y uso
 El maquinista del tren n.º 64922, tras recibir la orden de salida, puso el tren en movimiento y salió de la vía 102 con destino a la estación de Veleliby. Dado que la circulación de su tren más allá de la señal de entrada Lc 102 con indicación «Alto» estaba permitida mediante orden escrita, se trató de una circulación según las «condiciones de visibilidad». El tren n.º 64922 estaba compuesto por una locomotora diésel (HDV) de la serie 742, que estaba acoplada con el gran capó delantero hacia adelante en la dirección de marcha del tren; el maquinista lo conducía desde la cabina n.º 1, es decir, por el lado derecho en la dirección de marcha. Por la ventanilla frontal derecha de la cabina del maquinista, desde la posición detrás del panel de control, la visibilidad del maquinista sobre la vía de circulación estaba limitada lateralmente por el borde izquierdo del capó delantero (capó del diésel) y hacia abajo por el borde frontal del andén de la locomotora diésel. No tenía visibilidad hacia el lado izquierdo, hacia donde el tren n.º 64922 se desvió de la dirección de marcha prevista en el punto de cruce n.º 424.
 
-
 ## Página 25
+
 
 Para verificar las condiciones reales de visibilidad del maquinista del tren n.º 64922, el día 20 de julio de 2006 se realizó una prueba de verificación en el lugar de ocurrencia del IE, en la que se determinó que desde la posición de salida del tren n.º 64922 hasta el área del choque no se tenía visibilidad desde la cabina de la locomotora diésel ni por el lado izquierdo ni por el derecho. Además, se determinó que la locomotora diésel (HDV) de la serie 130, estacionada en la vía muerta n.º 105b, era visible desde la posición del maquinista del tren n.º 64922 tras entrar el tren en el punto de cruce de desvío n.º 424 a una distancia de 39 metros.
 A partir de la evaluación detallada de la banda de frenado de la locomotora diésel del tren n.º 64922 y del cálculo de la desaceleración, se determinó que, a partir de una velocidad de v = 20 km/h, a la que circulaba el tren n.º 64922 antes de entrar en el punto de cruce de desvío n.º 424, al utilizar el frenado de servicio con un valor de desaceleración correspondiente al modo II de frenado – «a» = 0,2 m/s2, el tren se detendría de forma segura en una distancia de 80 metros, pero no en una distancia más corta, en este caso de 39 metros.
@@ -629,6 +627,7 @@ Durante el período supervisado por la Inspección Ferroviaria, no se registró 
 El tren n.º 64922, tras el cambio de la vía de dirección a la vía n.º 102 de la entrada de la estación, estaba preparado para la salida ante la señal de salida Lc 102 con destino a la estación de Veleliby. La salida del tren estaba prevista tras la entrada efectiva del tren n.º 45323. La locomotora diésel (HDV) de la serie 742 estaba acoplada con el gran capó delantero hacia adelante en la dirección de la siguiente marcha, y el maquinista la conducía desde la cabina n.º 1, por el lado derecho. Aproximadamente a las 2:10 horas, se presentó junto al tren n.º 64922 el despachador de servicios exteriores I. y expidió este tren desde el lado izquierdo de la locomotora diésel con la señal nocturna «Salida» mediante luz verde y verbalmente con las palabras «tiene salida», sin que se hubiera establecido la vía de circulación para este tren. El maquinista fue informado por escrito de la circulación más allá de la señal no supervisada Lc 102 y, por tanto, tras la orden de salida, puso el tren en movimiento. En el punto de cruce n.º 424, la locomotora diésel se desvió de la dirección de marcha prevista y el tren entró en la vía muerta n.º 105b, donde estaba estacionada la locomotora diésel (HDV) de la serie 130. El maquinista aplicó inmediatamente el frenado de emergencia, pero debido a la corta distancia no logró detener el tren. Se produjo una colisión contra la locomotora diésel estacionada y su empuje más allá del tope final de la vía muerta n.º 105b.
 
 ## Página 26
+
 
 ### 4.2 Análisis
 ### 4.2.1 Evaluación de los hechos constatados de acuerdo con el punto 3 y exposición de las conclusiones sobre la causa del incidente extraordinario y la actuación de los servicios de rescate
@@ -649,6 +648,7 @@ De las constataciones anteriores se desprende que despachar un tren desde la ví
 
 ## Página 27
 
+
 De conformidad con las disposiciones del Reglamento de la Estación de Nymburk hl. n. vigente en el momento de la producción del incidente extraordinario (MU), el despachador de la estación daba la orden al despachador de servicios exteriores para la entrega de la orden por escrito para la salida del tren. El administrador de la infraestructura no estableció en sus procedimientos tecnológicos la forma en que se emitía la orden para la entrega de la orden por escrito. La necesidad de redactar este tipo de orden por escrito y su entrega al maquinista para que la salida del tren pudiera llevarse a cabo no fue mencionada en ninguna de las explicaciones proporcionadas por los despachadores participantes en el incidente extraordinario. Por el contrario, es evidente a partir de estas explicaciones que el procedimiento tecnológico establecido para el despacho de trenes desde las vías de entrada no era seguido habitualmente por los despachadores de la estación de Nymburk hl. n.
 
 Además, de la comparación de estos testimonios se desprende que ni siquiera eran conscientes del procedimiento correcto o requerido, ya que constantemente hacían referencia al texto de la orden por escrito: «...Desde el punto de detención serán despachados por el despachador de servicios exteriores o por radio. El semáforo de salida no se acciona para su viaje; tras la orden de salida, pueden partir». Con esta orden fue atendido el tren n.º 64922. Este hecho fue tolerado por los empleados del administrador de la infraestructura encargados del control, o bien no fue detectado mediante la actividad de control, a pesar de que, según el plan de controles, la actividad de control se realizaba en la estación con plantilla completa. Esta conclusión está respaldada por los resultados de la investigación llevada a cabo en la estación de Nymburk hl. n. por el Departamento de Investigación (DI). A petición de los empleados investigadores del DI, de no se presentó ninguna orden por escrito redactada para las salidas de trenes desde las vías de entrada durante el período anterior a la producción del incidente extraordinario, a pesar de que aún no había expirado su plazo de archivación. Sin embargo, se presentaron órdenes por escrito con el contenido mencionado anteriormente para cada tren despachado en este período. El método de despacho del tren indicado en ellas está en contradicción con el procedimiento tecnológico establecido.
@@ -668,6 +668,7 @@ Las vías de tren en y desde las vías n.º 101 – 104, 106 – 109 las estable
 El telegrafista del cuadro de conmutación St. 8 indicó en su explicación, entre otras cosas:
 
 ## Página 28
+
 
 «...Al entrar el tren 45323, comenzó a sonar la campana de la vía de cruce número 416 y, posteriormente, también la número 421. No puedo confirmar si esto ocurrió ya durante la circulación del tren 45323 o justo antes de su entrada, ya que estaba al teléfono. A través del tren que entraba no podía ver qué ocurría en las vías siguientes, pero cuando este tren liberó el extremo de la estación, vi en la vía adyacente un tren que había chocado contra la locomotora en la vía número 105b. ...».
 
@@ -694,6 +695,7 @@ No se detectaron.
 
 ## Página 29
 
+
 ### 4.3.3 Causas derivadas del marco normativo y del uso del sistema de garantía de la seguridad
 
 ### El administrador de la infraestructura no garantizó que las instrucciones en el servicio de tráfico fueran breves y comprensibles, para evitar cualquier malentendido y no poner en peligro la seguridad del tráfico ferroviario, tal como le exige el apartado 5 del artículo 14 del Decreto n.º 173, aplicado en los procedimientos tecnológicos contenidos en la parte primera, capítulo III., letra B., artículo 41 ### del reglamento interno del administrador de la infraestructura ČD D2.
@@ -718,26 +720,26 @@ La vía de entrada n.º 102 se encuentra dentro del ámbito del guardagujas del 
 
 ## Página 30
 
-señalización en la organización y explotación del transporte ferroviario, la orden dada personalmente significa oralmente, por escrito, mediante señales manuales portátiles o señales auditivas. De las explicaciones prestadas por los encargados de tráfico, se observa que esta disposición se incumple al impartir la orden al encargado de tráfico de servicio exterior II para la salida del tren desde las vías de entrada, ya que si dicho encargado de tráfico se encuentra fuera de la oficina de tráfico, la orden se transmite en lugar de forma personal, mediante un dispositivo de telecomunicaciones.
-El encargado de tráfico de servicio exterior I, que realizó la salida del tren n.º 64922 y que, debido a la aparición de una situación extraordinaria (MU), se alteró hasta el punto de negarse a prestar explicaciones sobre el cumplimiento de sus obligaciones laborales, continuó prestando servicio como encargado de tráfico de servicio exterior I con el conocimiento del explotador de la infraestructura hasta el final de su jornada laboral.
-La actividad de control del explotador de la infraestructura sobre el desempeño del servicio de tráfico debía realizarse conforme al plan de actividades de control y también mediante el dispositivo de grabación REDAT. Sin embargo, este dispositivo lleva mucho tiempo fuera de servicio, sin que se haya urgido de manera fundamental su puesta en funcionamiento.
-
+señales al organizar y explotar el transporte ferroviario, la orden dada personalmente significa oralmente, por escrito, mediante señal manual portátil o audible. De las explicaciones prestadas por los jefes de estación, se constata que esta disposición se incumple al dar la orden al jefe de estación de servicio exterior II para la formación del tren desde las vías de entrada, ya que, si dicho jefe de estación se encuentra fuera de la oficina de tráfico, la orden se da en lugar de personalmente, mediante un dispositivo de telecomunicaciones.
+La jefa de estación de servicio exterior I, que realizó la formación del tren n.º 64922 y que quedó tan alterada por el suceso de MU que se negó a prestar explicaciones sobre el cumplimiento de sus obligaciones profesionales, continuó, con conocimiento del gestor de la vía, en el ejercicio de las funciones de jefa de estación de servicio exterior I hasta el final de la jornada laboral.
+La actividad de control del gestor de la vía sobre el ejercicio del servicio de tráfico debía realizarse, conforme al plan de actividad de control, también mediante el dispositivo de registro REDAT. Dicho dispositivo, sin embargo, lleva largo tiempo fuera de servicio, sin que su puesta en servicio se haya reclamado de manera fundamental.
 ## 5 MEDIDAS ADOPTADAS
-### 5.1 Relación de las medidas que ya se han adoptado o tomado como consecuencia de la situación extraordinaria
-El Jefe Superior de la Estación de Nymburk hl. n. adoptó las siguientes medidas respecto a esta situación extraordinaria (MU):
-Informar al personal operativo de la situación extraordinaria.
+### 5.1 Lista de medidas que ya se han tomado o adoptado como consecuencia del suceso excepcional
+El jefe superior de la estación Nymburk hl. n. adoptó, respecto a este MU, las siguientes medidas:
+Información de los empleados de explotación sobre el suceso excepcional.
 Fecha: 15.10.2006
-Instruir a los encargados de tráfico de estación, de línea y exteriores sobre el uso de rutas alternativas de trenes en la estación, de conformidad con el artículo 127 del Reglamento de Tráfico (SŘ).
+Instrucción a los jefes de estación, de línea y exteriores sobre el uso de rutas alternativas de tren en la estación conforme al art. 127 del Reglamento de Servicio.
 Fecha: 15.10.2006
-Al encargado de tráfico de servicio exterior I se le suspendió la cualificación, se le asignó a otro trabajo, se le ordenó realizar un examen extraordinario y someterse a una evaluación psicológica.
+A la jefa de estación de servicio exterior I se le suspendió la cualificación, se la destinó a otro trabajo, se la designó para un examen extraordinario y una evaluación psicológica.
 Fecha: 15.10.2006
-El Jefe Superior de la División de Explotación (DKV) de Praga adoptó las siguientes medidas respecto a esta situación extraordinaria:
-Informar a todo el personal operativo de todas las unidades operativas de la DKV Praga sobre las circunstancias de la aparición, la causa y la determinación de las responsabilidades de esta situación extraordinaria.
+El jefe superior de DKV Praha adoptó, respecto a este suceso excepcional, las siguientes medidas:
+Informar a todos los empleados de explotación de todas las unidades de explotación de DKV Praha sobre las circunstancias del suceso, la causa y la determinación de responsabilidades por este suceso excepcional.
 Fecha: 15.10.2006
-Incorporar a la base de la actividad de control de los inspectores de material rodante y de los empleados superiores, durante los viajes de inspección, el control del cumplimiento de las condiciones para la circulación según las condiciones de visibilidad, no solo durante las circulaciones de trenes, sino también durante las maniobras.
+Incorporar en el programa de actividad de control de los inspectores de circulación y a los empleados directivos, en los viajes de control, la verificación del cumplimiento de las condiciones para la circulación según las condiciones de visibilidad, no solo en los viajes de trenes, sino también en las maniobras.
 Fecha: 10.10.2006
 
 ## Página 31
+
 
 Al maquinista del tren n.º 64922 se le suspendió la cualificación, se le asignó a otro trabajo, se le ordenó realizar un examen extraordinario y someterse a una evaluación psicológica, y se le advirtió sobre la posibilidad de despido conforme al apartado f) del artículo 46 del Código del Trabajo.
 Fecha: 15.10.2006
@@ -757,6 +759,7 @@ De la Inspección Territorial de Praga
 
 ## Página 32
 
+
 ## 7 ANEXOS
 Fig. 1: Plano del lugar de la situación extraordinaria (MU).
 En rojo se indica la ruta del tren n.º 64922; con línea discontinua, la ruta prevista hacia la estación (žst.) de Veleliby.
@@ -765,4 +768,4 @@ En verde se indica la ruta del tren n.º 45323.
 
 ## Página 33
 
-Foto 1: Empuje del dispositivo de detención de vía muerta (HDV) tras el tope de la vía muerta n.º 105b por el tren n.º 64922
+Foto 1: Empuje de la locomotora contra el tope de vía muerta n.º 105b por el tren n.º 64922

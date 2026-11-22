@@ -10,13 +10,14 @@ chars: 106496
 ratio_longitud: 1.24
 tokens_in: 60858
 tokens_out: 41763
-verificacion: revisar
-notas_cifras: ["bloque 1: original bilingüe: se compara contra el idioma principal (EN)", "bloque 4: original bilingüe: se compara contra el idioma principal (CS); cifras cortas: 2/77", "bloque 8: original bilingüe: se compara contra el idioma principal (EN)"]
-avisos: ["bloque 4: ratio 1.79", "bloque 8: ratio 1.66"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 3: original bilingüe: se compara contra el idioma principal (CS)", "página 5: original bilingüe: se compara contra el idioma principal (CS)", "página 6: original bilingüe: se compara contra el idioma principal (CS)", "página 9: original bilingüe: se compara contra el idioma principal (CS)", "página 15: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -43,13 +44,13 @@ IČ: 75009561
 mail@dicr.cz
 tel.: +420 736 521 003
 
-
 ## Página 2
+
 
 Este informe final es público y todos los hechos en él expuestos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ## 1 RESUMEN
      Fuente: Drážní inspekce
@@ -79,8 +80,8 @@ No fue detectado por la Drážní inspekce ningún factor contribuyente.
 No fue detectada por la DI ninguna causa sistémica.
 No fue emitida por la Drážní inspekce ninguna recomendación de seguridad.
 
-
 ## Página 4
+
 
 ## SUMMARY
 23rd June 2020, 10:10 (8:10 GMT).
@@ -116,8 +117,8 @@ none.
 Recommendation:
 not issued.
 
-
 ## Página 5
+
 
 # Índice
 1 RESUMEN........................................................................................................................3
@@ -159,8 +160,8 @@ SUMMARY.........................................................................
 4.2 Vehículos ferroviarios e instalaciones técnicas...........................................................34
 4.2.1 Factores o consecuencias derivados de la construcción de los vehículos ferroviarios, de la infraestructura ferroviaria o de las instalaciones técnicas.............34
 
-
 ## Página 6
+
 
 4.2.2 Factores o consecuencias derivados de la instalación y puesta en servicio de los vehículos ferroviarios, de la infraestructura ferroviaria o de las instalaciones técnicas......................................................................................................34
 4.2.3 Factores o consecuencias relacionados con los fabricantes de vehículos ferroviarios u otros proveedores de productos ferroviarios............................................34
@@ -191,6 +192,7 @@ SUMMARY.........................................................................
 ANEXOS..............................................................................................................................40
 
 ## Página 7
+
 
 ### Lista de siglas y símbolos utilizados
 COP
@@ -238,8 +240,8 @@ Cruce ferroviario
 žst.
 Estación ferroviaria
 
-
 ## Página 8
+
 
 ### Lista de siglas de la legislación, normas y normativa interna utilizados
 ley núm. 266/1994 Sb.
@@ -263,8 +265,8 @@ condiciones técnicas TP 65 «Principios para la señalización en las vías pú
 TP 189
 condiciones técnicas TP 189 «Determinación de las intensidades de tráfico en las vías públicas», en la versión vigente en el momento de la producción del incidente extraordinario
 
-
 ## Página 9
+
 
 ## 2 INVESTIGACIÓN Y SUS RELACIONES
 ### 2.1 Decisión de iniciar la investigación
@@ -301,8 +303,8 @@ análisis de los datos registrados por el registrador de velocidad del HDV;
 análisis de los datos registrados del módulo GPS del automóvil participante;
 •
 
-
 ## Página 10
+
 
 declaración del empleado de ČD participante y del conductor del OA;
 •
@@ -335,15 +337,15 @@ Coordenadas GPS:
 ### 3.1.3 Descripción del lugar del suceso
 El cruce ferroviario de vía única P2739 es el cruce de la línea ferroviaria regional no electrificada de vía única Čelákovice – Neratovice con la carretera de tercera clase núm. 10160. Esta vía discurre en la parte local de Kabelín desde la intersección cercana con la carretera de segunda clase núm. 245 hasta la localidad de Zápy y cruza la línea ferroviaria en ángulo de 90°. El propietario de esta vía es la Región de Bohemia Central, y el gestor es el Ayuntamiento de Brandýs nad Labem-Stará Boleslav. El cruce
 
-
 ## Página 11
+
 
 se encuentra en el km 4,884 de la línea ferroviaria entre la est. Brandýs nad Labem y la est. Čelákovice, en el tramo entre las paradas Brandýs nad Labem parada y Lázně Toušeň.
 Fig. núm. 1: Esquema del lugar de producción del IE
         Fuente: mapy.cz; modificado por la DI
 
-
 ## Página 12
+
 
 ### La inspección del lugar del IE arrojó los siguientes hallazgos:
 La inspección del lugar del IE se realizó en varias fases. En la primera fase se inspeccionó el tren Os 19413, compuesto por un HDV de la serie 809, y el automóvil en cuestión. Una vez finalizada, se concedió a la DI (a las 11:52 h) la autorización para liberar la vía. En la segunda fase, tras la retirada de los restos, se inspeccionó la infraestructura de la SŽ en el sentido de circulación del tren Os 19413 desde la señal con la señal «Písen» hasta el lugar de la posición final del DV y del OA, y se inspeccionaron las vías públicas núm. III/10160 y núm. II/245. A continuación, se inspeccionó la documentación de circulación en la est. Brandýs nad Labem y el 24. 6. 2020 se realizó una prueba de circulación en el tramo est. Brandýs nad Labem – est. Čelákovice, incluida la comprobación de la documentación de circulación en la est. Čelákovice.
@@ -373,8 +375,8 @@ Se inspeccionó el exterior y el interior del HDV, los elementos de mando e indi
 •
 documentación del puesto del maquinista. La palanca principal de combustible se encontró en la posición de ralentí, la palanca del freno BS2 del freno del tren estaba en la posición de frenado rápido, la palanca del freno BP del freno de la locomotora estaba en la posición de frenado, el mando del dispositivo de control de la vigilia del maquinista (KBS-E) estaba en la posición de apagado. En la pantalla del radioteléfono estaba sintonizado el tren Os 19413 en la red TRS, banda 78 y canal simplex 11. La presión de aire en la tubería principal era de 0 bar, en el depósito principal de aire de 8 bar y en los cilindros de freno de 3,9 bar. En el puesto del maquinista se documentó el Libro de entrega del HV núm. 95
 
-
 ## Página 13
+
 
 54 5 809 281-9, el Libro de reparaciones del HV núm. 95 54 5 809 281-9 y el Informe Permanente de frenado para el ŽKV de la serie 809. No se emitieron órdenes escritas para la circulación del tren Os 19413.
 El maquinista presentó la licencia vigente y el certificado de maquinista emitido por el transportista ČD.
@@ -386,6 +388,7 @@ Fig. núm. 2: Vista del interior del OA
             Fuente: DI
 
 ## Página 14
+
 
 medido:
 p.k.:
@@ -419,8 +422,8 @@ Las longitudes de visibilidad Lp para el vehículo por carretera más lento esta
 •
 en todos los cuadrantes de conformidad con la ČSN 73 6380, es decir, se midió una distancia superior a la establecida por la norma, y también cumplían la norma S4/3.
 
-
 ## Página 15
+
 
 ### Tabla de medición de las condiciones de visibilidad para el vehículo más lento (Lp)
 | cuadrante | según la norma S4/3 (m) |  | según la ČSN 73 6380 (m) |  |
@@ -450,39 +453,42 @@ En el sentido de circulación del automóvil desde la localidad de Brandýs nad 
 •
 carretera II/245, la señal de tráfico IP 22 «Cambio en la organización del tráfico» indicaba el cierre de la carretera II/245.
 
-
 ## Página 16
 
-La señal de tráfico IS 11b «Placa de dirección para indicar el desvío» señalizaba
-el desvío. Además, aquí estaban instaladas en un poste común la señal de tráfico A 30
-«Paso a nivel sin barreras» y la señal de tráfico A 31a «Placa de señalización 240 m»,
-que se complementaban con la señal de tráfico E 7b «Flecha de dirección para girar». A los 80 m estaba situada la señal de tráfico A 31b «Placa de señalización 160 m». Además, en esta carretera antes del cruce estaban instaladas las señales de tráfico IS 3b «Placa de dirección con dos destinos», IS 3c «Placa de dirección con un destino a la derecha» y P 2 «Vía de comunicación terrestre principal» complementada con el panel adicional E 2b «Forma del cruce». Todas las señales de tráfico mencionadas anteriormente eran bien visibles. En un poste especial estaba situada la señal de tráfico B 13 «Prohibido el paso de vehículos cuya masa instantánea supere el límite indicado» con el panel adicional E 13 con el texto «EXCEPTO SERVICIOS DE TRANSPORTE Y AUTOBUSES» complementada con la señal de tráfico E 7b «Flecha de dirección para girar». Estas señales de tráfico (B 13, E 13 y E 7b) estaban cubiertas con una lona y, por tanto, no eran válidas en el momento del suceso. La señal de tráfico A 31c «Placa de señalización 80 m» no estaba instalada.
-La carretera II/245 estaba cerrada después del cruce con la carretera III/10160 debido a la
+Con la señal de tráfico IS 11b «Placa direccional para indicar un desvío» se señalizó un desvío. Además, aquí se instalaron en un poste común la señal de tráfico A 30 «Paso a nivel sin barreras» y la señal de tráfico A 31a «Placa de señalización 240 m», que se complementaron con la señal de tráfico E 7b «Flecha direccional para desviarse». A 80 m se colocó la señal de tráfico A 31b «Placa de señalización 160 m». Además, en esta carretera, antes del cruce, se instalaron las señales de tráfico IS 3b «Placa direccional con dos destinos», IS 3c «Placa direccional con un destino a la derecha» y P 2 «Carretera terrestre principal» complementada con la placa adicional E 2b «Forma del cruce». Todas las señales de tráfico mencionadas anteriormente eran bien visibles. En un poste especial se colocó la señal de tráfico B 13 «Prohibido el paso de vehículos cuya masa instantánea supere el límite indicado» con la placa adicional E 13 con el texto «EXCEPTO SERVICIO DE TRANSPORTE Y BUS» complementada con la señal de tráfico E 7b «Flecha direccional para desviarse». Estas señales de tráfico (B 13, E 13 y E 7b) estaban cubiertas con una lona y, por tanto, eran inválidas en el momento del suceso. La señal de tráfico A 31c «Placa de señalización 80 m» no fue instalada.  
+La carretera II/245 estaba cerrada después del cruce con la carretera III/10160 por motivo de la reparación
 •
-reparación del paso inferior n.º de registro 245-02 a partir del 27. 4. 2020. Durante este cierre se ordenó un desvío por las localidades de Zápy y Mstětice.
-Durante la inspección, la PČR realizó una prueba de alcoholemia orientativa al conductor del tren Os 19413, que resultó negativa. Al conductor del automóvil se le extrajo una muestra de sangre tras su traslado al hospital; el resultado de la exploración médica sobre la presencia de alcohol en el organismo del conductor del automóvil fue negativo.
+del puente n.º ev. 245-02 en el plazo desde el 27. 4. 2020. Durante este cierre se ordenó un desvío por las localidades de Zápy y Mstětice.
+Durante la inspección, la PČR realizó una prueba de alcoholemia orientativa para la presencia de alcohol en el cuerpo del maquinista del tren Os 19413, que resultó negativa. Al conductor del vehículo de motor (OA) se le tomó una muestra de sangre tras su traslado al hospital; el resultado del examen médico sobre la presencia de alcohol en el cuerpo del conductor del OA fue negativo.
 ### Condiciones meteorológicas:
 horario diurno, despejado, seco, +27 °C, sin viento, visibilidad
 no reducida.
 ### Datos geográficos:
-la carretera III/10160, en el sentido de circulación del automóvil antes del paso a nivel, tenía una pendiente del 3%. A derecha e izquierda se encontraban edificaciones residenciales con jardines. A la derecha, en el sentido de circulación del automóvil, a lo largo de esta vía de comunicación se encontraba vegetación crecida. Durante la circulación del automóvil hacia el paso a nivel, el sol daba al conductor por la izquierda y con un ángulo vertical de 47,10°, y por tanto no limitaba la visión del conductor del tren entrante (véase Fig. n.º 10 en el punto 7 de esta ZZ).
-En el lugar del suceso no se realizaron, inmediatamente antes de su producción, por parte del propietario, del explotador de la vía ni de otros sujetos, trabajos de reparación o de mantenimiento. La circulación en el lugar del suceso y sus alrededores se desarrollaba en régimen habitual.
+la carretera III/10160, en el sentido de marcha del OA antes del PAF, tenía una pendiente
+del 3%. A derecha e izquierda se encontraban viviendas con
+jardines. A la derecha, en el sentido de marcha del OA, a lo largo de esta
+vía existía vegetación crecida. Durante la marcha del OA
+hacia el paso a nivel, el sol daba al conductor por la izquierda y con un ángulo
+vertical de 47,10°, y por tanto no limitaba la visión del conductor hacia
+el tren que se aproximaba (véase la Fig. n.º 10 en el punto 7 de esta ZZ).
+En el lugar del suceso no se realizaron, inmediatamente antes de su producción, por parte del propietario, del gestor de la vía ni de otros sujetos, trabajos de reparación o de mantenimiento alguno. La circulación en el lugar del suceso y sus alrededores se desarrollaba en régimen normal.               
 ### 3.1.4 Fallecimientos, lesiones y daños materiales
 En el suceso se produjo:
+•
 el fallecimiento de un acompañante en el automóvil;
 •
 la lesión del conductor del automóvil.
 •
-El explotador de la vía y el transportista cuantificaron los daños en:
-la locomotora (del tren Os 19413)
-34 459 CZK;
+El gestor de la vía y el transportista cuantificaron el daño en:
+material rodante (del tren Os 19413)
+34 459 Kč;
 •
-las instalaciones de la vía
-0 CZK;
+instalaciones de la vía
+0 Kč;
 •
-
 
 ## Página 17
+
 
 el medio ambiente
 0 CZK.
@@ -520,8 +526,8 @@ El explotador de la vía ferroviaria, categoría regional, Čelákovice – Nera
 El transportista del tren Os 19413 eran ČD, con domicilio en Nábřeží L. Svobody 1222, Praha 1, PSČ 110 15.
 El transporte ferroviario se prestaba en virtud de un contrato celebrado entre el explotador de la vía SŽ y el transportista ČD el 20. 1. 2020, con efectos desde el 23. 1. 2020.
 
-
 ## Página 18
+
 
 ### 3.1.7 Descripción del material rodante y de sus composiciones, incluidos los números de registro
 | Tren: | Os19413 | Composición del tren: |  | Modo de frenado: |
@@ -560,6 +566,7 @@ La línea discurría, antes del paso a nivel en el sentido de circulación del t
 
 ## Página 19
 
+
 El paso a nivel en el pk 4,884 era de vía única, con una anchura de 6,70 m y una longitud de 5,00 m. El ángulo de cruce con la carretera III/10160 era de 90º. La estructura del paso era asfáltica. La superestructura ferroviaria estaba formada por raíles S49 con fijación rígida sobre traviesas de haya. El paso disponía de canalones de acero, a la madera de guarda lateral se unían en el eje de la vía cuñas de protección. La calzada del paso no presentaba bacheos importantes y permitía la circulación segura de los vehículos por carretera. El paso estaba protegido en ambos lados por la señal de tráfico A 32a «Cruz de aviso para paso a nivel de vía única» en acabado reflectante y, asimismo, estaba complementado en ambos lados por la señal de tráfico P 6 «Alto, ceda el paso» en versión estándar. Ambas señales de tráfico estaban colocadas en un poste común. La longitud Dp, medida en el eje de la vía de comunicación terrestre desde el nivel perpendicular situado a 4 m del eje de la vía hasta el borde de la franja de peligro en el lado opuesto del paso, era de 6,5 m. La anchura de la vía de comunicación terrestre adyacente (carretera III/10160) antes del paso (en el sentido de circulación de los vehículos de motor) era de 5,6 m, después del paso de 6,7 m. La velocidad máxima permitida para los usuarios de la vía de comunicación terrestre estaba fijada por la ley nº 361/2000 Sb. en 30 km·h-1.
 
 ### 3.1.9 Cualquier otra información relevante para los fines de la descripción del suceso y de la información básica
@@ -584,8 +591,8 @@ maquinista del tren Os 19413
 ◦el tiempo era soleado, la visibilidad no estaba empeorada por las condiciones climáticas, no superó la velocidad establecida de 40 km·h-1, antes del paso a nivel en cuestión daba repetidamente la señal «Atención», en el tren había unos 12 pasajeros;
 ◦a una distancia del tren de unos 200 m del paso a nivel, cruzó las vías en dirección desde la localidad de Zápy una furgoneta blanca; a una distancia del tren de unos 20 – 30 m del paso a nivel, cruzó las vías en dirección hacia la localidad de Zápy una furgoneta de color verde plateado; continuaba repitiendo incesantemente la señal «Atención»;
 
-
 ## Página 20
+
 
 ◦en la altura del paso a nivel, le irrumpió súbitamente desde la izquierda, en el sentido de su circulación, directamente delante de los parachoques, un coche postal amarillo; según su opinión, el conductor no se detuvo ante el paso a nivel, no frenó, más bien aceleraba;
 ◦a pesar de que utilizó inmediatamente el freno directo, se produjo la colisión con el coche, que empujó delante de sí unos 50 m;
@@ -607,90 +614,105 @@ conductor del automóvil de turismo
 ◦primero pisó el pedal del freno solo ligeramente y, como el coche seguía avanzando, lo pisó por segunda vez con más fuerza, pero el pedal no podía pisarse del todo, «estaba duro»; intentó pisarlo repetidamente, pero con el mismo resultado; no se le ocurrió intentar detener el automóvil con el freno de mano;
 ◦durante la circulación anterior el freno funcionaba sin fallos y el automóvil no presentaba ninguna anomalía;
 
-
 ## Página 21
 
-◦después solo recuerda el impacto y que se desabrochó el cinturón de seguridad;
-◦volvió a cobrar conciencia ya en el hospital, donde le comunicaron que había tenido un accidente y que el copiloto había fallecido.
-
-conductor del automóvil de turismo
-  – aportación de explicaciones a la Inspección Ferroviaria:
+◦recuerda únicamente el impacto y que se desabrochó el cinturón de seguridad;
+◦volvió a percibir ya solo en el hospital, donde le comunicaron que había tenido un accidente y que el acompañante
+falleció.
+conductor del automóvil
+  – declaración de explicaciones a la Inspección Ferroviaria:
 •
-◦ya ha aportado la explicación a la PČR y, además, no tiene nada que añadir al respecto.
-
+◦ya prestó declaración ante la Policía Nacional y no tiene nada más que añadir al respecto.
 A las preguntas complementarias, entre otras, indicó:
-◦el automóvil estaba en buen estado antes del suceso extraordinario;
-◦para el día 23 de junio de 2020 tenía asignados para mantenimiento los locales de Jenštejn, Brandýs nad Labem, Čelákovice y Přerov nad Labem; se trataba de un número medio de encargos;
-◦por motivos de horario (horario de apertura), fue primero a resolver un encargo en Jenštejn, en la oficina de correos, y después a resolver un encargo en un piso de alquiler en Přerov nad Labem, ya que el inquilino indicó que por la tarde no estaría presente;
-◦en circunstancias normales, habría ido primero desde Jenštejn a Brandýs nad Labem, a Čelákovice y solo después a Přerov nad Labem;
-◦circula por aquí con bastante frecuencia, unas 5 veces al mes; durante sus desplazamientos por su zona no utiliza ninguna navegación, circula de memoria, tiene aprendidas las rutas; si se encuentra con un desvío, lo sigue e intenta volver a la ruta aprendida;
-◦no sabía del cierre de la carretera nº II/610 y, por lo tanto, circuló por la ruta del desvío señalizado a través de Dřevčice, donde, según la señalización, giró a la derecha y continuó de nuevo hacia Brandýs nad Labem, porque tenía aprendido este camino de desplazamientos anteriores;
-◦aunque no preveía un segundo desvío en un tramo tan corto, porque desconocía el cierre de la carretera nº II/245 en Kabelín, reaccionó con normalidad y, según las señales, giró a la derecha hacia el paso a nivel;
-◦no estaba apremiado por el tiempo, tenía tiempo hasta las doce horas, no estaba estresado;
-◦no sabe explicarse la aceleración del coche antes del paso a nivel registrada por el GPS; no es consciente de haber pisado el acelerador; pisaba el freno y, antes de la intersección, redujo a la segunda marcha; al frenar pisó también el embrague, no quería que el coche diera un salto.
-
+◦el automóvil estaba en buen estado antes del suceso excepcional;
+◦para el día 23. 6. 2020 tenía asignados para mantenimiento los establecimientos de Jenštejn, Brandýs
+nad Labem, Čelákovicích y Přerov nad Labem, se trataba de un número medio de
+trabajos;
+◦por motivos de horario (horario de apertura), primero se dirigió a realizar un trabajo en Jenštejn, en la oficina de correos, y a continuación a realizar un trabajo en un alquiler en Přerov nad Labem, puesto que
+el inquilino indicó que no estaría presente por la tarde;
+◦en circunstancias normales, habría viajado primero de Jenštejn a Brandýs nad Labem,
+Čelákovic y solo después a Přerov nad Labem;
+◦circula por aquí con bastante frecuencia, unas 5 veces al mes, en sus desplazamientos por su zona
+no utiliza ninguna navegación, conduce de memoria, conoce las rutas, si se encuentra
+con un desvío, lo sigue e intenta volver a la ruta conocida;
+◦no sabía del cierre de la carretera n.º II/610 y por lo tanto circuló por la ruta del desvío señalizado a través de
+Dřevčice, donde según la señalización giró a la derecha y continuó de nuevo hacia Brandýs
+nad Labem, porque tenía aprendido este camino de viajes anteriores;
+◦aunque no preveía un segundo desvío en un tramo tan corto, porque no sabía del cierre
+de la carretera n.º II/245 en Kabelín, reaccionó sin embargo con normalidad y según las señales
+giró a la derecha hacia el paso a nivel;
+◦no estaba apremiado por el tiempo, tenía tiempo hasta las doce, no estaba estresado;
+◦no sabe explicarse la aceleración del coche antes del paso a nivel registrada por el GPS, no es consciente
+de haber pisado el acelerador, pisó el freno y antes de la intersección redujo a segunda, al frenar pisó
+también el embrague, no quería que el coche se disparara.
 testigos, pasajeros del tren Os 19413
-  – Registro oficial de la explicación aportada a la DI:
+  – Registro oficial de declaración prestada ante la DI:
 •
-◦8 pasajeros (6 adultos, 2 menores) de los 12 confirmaron que el tren daba repetidamente la señal «Atención» antes del paso a nivel;
-◦2 pasajeros (1 adulta, 1 menor) indicaron que no se percataron de ninguna bocina;
-◦5 pasajeros (1 adulto, 1 menor, 3 menores de 15 años) no aportaron ninguna explicación.
-
+◦8 pasajeros (6 adultos, 2 menores) de 12 confirmaron que el tren antes del paso a nivel
+repetidamente dio la señal «Peligro»;
+◦2 pasajeros (1 adulta, 1 menor) indicaron que no se percataron de ningún pitido;
+◦5 pasajeros (1 adulto, 1 menor, 3 menores de 15 años) no prestaron
+ninguna declaración.
 testigos, residentes de las propiedades adyacentes
-  – Registro oficial de la explicación aportada a la DI:
+  – Registro oficial de declaración prestada ante la DI:
 •
-◦indicaron que o bien no se percataron de nada, porque están acostumbrados a las bocinas de los trenes, o bien no estaban en casa y solo saben del accidente de oídas.
-
+◦indicaron que o bien no se percataron de nada, porque están acostumbrados a los pitidos de los trenes, o bien no estaban en casa y del accidente solo saben de oídas.
 
 ## Página 22
 
-testigos, empleados de la empresa constructora que trabajaba en la reparación del paso superior
+testigos, empleados de la empresa constructora que trabajaban en la reparación del paso inferior
   – Registro oficial
 •
-de la explicación aportada a la DI:
-◦durante la pausa en el trabajo oyeron la bocina de un tren, un gran estruendo y, a continuación, vieron cómo la locomotora empujaba delante de sí un coche amarillo, por lo que se dirigieron inmediatamente al lugar del accidente y comenzaron a prestar primeros auxilios hasta la llegada del IZS; el conductor yacía junto al automóvil amarillo, se movía y comunicaba;
-◦el copiloto del asiento delantero derecho no se movía.
-
-Fig. nº 5: Esquema de ocupación de los asientos por los pasajeros (verificado a partir de la aportación de explicaciones)
+sobre la declaración prestada por el DI:
+◦durante la pausa en el trabajo oyeron el silbido del tren, un gran estruendo y después vieron cómo
+la locomotora empujaba delante de sí un coche amarillo, y por ello se dirigieron inmediatamente al lugar
+del accidente y comenzaron a prestar primeros auxilios hasta la llegada del IZS, el conductor yacía junto al
+coche amarillo, se movía y comunicaba;
+◦el acompañante en el asiento delantero derecho no se movía.
+Fig. n.º 5: Plano de la ocupación de los asientos por los pasajeros (determinado en base a la declaración prestada)
  X = pasajero mayor de 15 años
  x = pasajero menor de 15 años
 Fuente: DI
-
 ### 3.2 Descripción fáctica del suceso
-
-### 3.2.1 Secuencia de hechos que condujeron al suceso extraordinario
-
-Desde el 16 de marzo de 2020 hasta el 30 de junio de 2020 se desarrollaban en el tramo Dřevčice – Brandýs nad Labem las últimas fases de la reconstrucción de la vía de comunicación terrestre nº II/610. Por este motivo, dicha vía de comunicación estaba completamente cerrada en el tramo Dřevčice – Brandýs nad Labem. La ruta de desvío discurría desde Dřevčice hacia Brandýs nad Labem a través de Zápy. Debido a la reparación del paso superior nº 245-02 sobre el arroyo Zelenečský, simultáneamente desde el 27 de abril de 2020 se encontraba en vigor el cierre total de la carretera nº II/245, desde la intersección con la carretera nº III/10160 en dirección a Lázně Toušeň. El desvío en dirección a Čelákovice discurría por la carretera nº III/10160 hasta la localidad de Zápy y, a continuación, a través de Mstětice.
-
-El 23 de junio de 2020, los empleados de ČP implicados se desplazaban desde el centro técnico de Říčany para realizar intervenciones de servicio solicitadas, como por ejemplo reparación de yeso, sustitución de fluorescentes, diversos trabajos de fontanería, etc., en instalaciones de ČP situadas en las localidades de Jenštejn, Brandýs nad Labem, Čelákovice y Přerov nad Labem. Por la mañana, el conductor realizó una inspección visual del estado técnico del vehículo de servicio asignado, un Renault Kangoo, y a continuación cargó, junto con el copiloto, el material y las herramientas necesarios. Por motivos de horario (horario de apertura al público), fueron a realizar la primera intervención a Jenštejn (reparación de yeso en el techo de la nave para el público) y la segunda (intervención de fontanería en un piso de alquiler) a Přerov nad Labem, ya que la responsable del centro les comunicó que el inquilino no tendría tiempo por la tarde.
-
+### 3.2.1 Secuencia de hechos que condujeron al suceso excepcional
+Del 16. 3. 2020 al 30. 6. 2020 se llevaron a cabo en el tramo Dřevčice – Brandýs nad Labem las últimas
+etapas de la reconstrucción de la vía terrestre n.º II/610. Por este motivo, dicha vía
+en el tramo Dřevčice – Brandýs nad Labem quedó completamente cerrada. La ruta de desvío conducía de Dřevčice
+a Brandýs nad Labem a través de Zápy. Debido a la reparación del paso inferior n.º 245-02
+sobre el arroyo Zelenečský, simultáneamente desde el 27. 4. 2020 se llevó a cabo el cierre total
+de la carretera n.º II/245, es decir, desde el cruce
+con la carretera n.º III/10160 en dirección a Lázně Toušeň. El desvío en dirección a Čelákovice
+se realizó por la carretera n.º III/10160 hasta la localidad de Zápy y a continuación a través de Mstětice. 
+El 23. 6. 2020, los empleados participantes de ČP desde el centro técnico de Říčany se desplazaron a
+intervenciones de servicio solicitadas, p. ej., reparación de yeso, sustitución de fluorescentes, diversos trabajos de fontanería,
+etc., en las instalaciones de ČP situadas en las localidades de Jenštejn, Brandýs nad Labem,
+Čelákovice y Přerov nad Labem. Por la mañana, el conductor realizó una inspección visual del estado técnico
+del vehículo motor de servicio asignado Renault Kangoo, a continuación cargó junto con el acompañante
+el material y las herramientas necesarios. Por motivos de horario (horario de apertura al público) realizaron la primera
+intervención en Jenštejn (reparación de yeso en el techo de la nave para el público) y la segunda
+(intervención de fontanería en un alquiler) en Přerov nad Labem, porque la responsable del
+centro les comunicó que el inquilino no tendría tiempo por la tarde.
 
 ## Página 23
 
-Planificaron la ruta de circulación según sus conocimientos, circulaban de memoria y solo utilizaban la navegación cuando iban a Praga. Al planificar la circulación no se interesaron por posibles cierres y los resolvieron durante el desplazamiento.
-
-Tras salir de Jenštejn, querían ir a Přerov nad Labem a través de Brandýs nad Labem y Čelákovice (sin intervenciones de servicio). Sin embargo, debido al cierre de la carretera II/610, del que no tenían conocimiento, tuvieron que ir a Brandýs nad Labem por un desvío a través de Dřevčice y Zápy. Desde Brandýs nad Labem querían continuar hacia Přerov nad Labem por la ruta que conocían, es decir, a través de Lázně Toušeň y Čelákovice.
-
-Fig. nº 6: Esquema de la ruta de circulación desde Jenštejn hasta el lugar de la colisión (los puntos señalados son solo auxiliares)      Fuente: DI
-
-Dado que la carretera nº II/245, que conecta Brandýs nad Labem y Lázně Toušeň, estaba cerrada, de lo que también carecían de conocimiento, el conductor tuvo que desviarse ya en el segundo desvío señalizado, que conducía de nuevo a través de Zápy. Tras desviarse de la carretera II/245 a la carretera III/10160, llegó al paso a nivel P2739, donde colisionó con el tren Os 19413 que circulaba en dirección a la estación Čelákovice, respectivamente, a la parada Lázně Toušeň.
-
-La circulación del tren Os 19413 transcurrió sin anomalías hasta la aparición del SU. El maquinista se aproximaba al paso a nivel P2739 en baldaína a una velocidad de hasta 40 km·h-1 y, según su declaración y la de los testigos, daba repetidamente la señal sonora «Atención» antes de dicho paso. Súbitamente, desde la izquierda (en el sentido de circulación del DV), irrumpió en el espacio del paso a nivel un automóvil de turismo amarillo Renault Kangoo perteneciente a ČP. El maquinista, según su declaración, utilizó inmediatamente el freno directo; a pesar de ello, se produjo la colisión.
-
-### 3.2.2 Secuencia de hechos desde la aparición del suceso extraordinario hasta la finalización de las acciones de los servicios de emergencia
-
-10:13 h el maquinista del tren Os 19413 comunicó la aparición del SU al jefe de estación de la estación Čelákovice,
+El trayecto lo planificaron según sus conocimientos, condujeron de memoria, y la navegación solo la usaron si iban a Praga. Al planificar el trayecto no se interesaron por posibles cortes de tráfico y los resolvieron durante la conducción.
+Tras salir de Jenštejn querían ir a Přerov nad Labem por Brandýs nad Labem y Čelákovice (sin intervenciones de servicio). Sin embargo, debido al corte de la carretera II/610, del que no tenían conocimiento, tuvieron que ir a Brandýs nad Labem por un desvío a través de Dřevčice y Zápy. Desde Brandýs nad Labem querían continuar hasta Přerov nad Labem por la ruta que conocían, es decir, por Lázně Toušeň y Čelákovice.
+Fig. n.º 6: Esquema de la ruta del trayecto desde Jenštejn hasta el punto de colisión (los puntos marcados son solo auxiliares)      Fuente: DI
+Dado que la carretera n.º II/245, que une Brandýs nad Labem y Lázně Toušeň, estaba cerrada, de lo cual tampoco tenían conocimiento, el conductor tuvo que desviarse ya en el segundo desvío señalizado, que conducía de nuevo por Zápy. Tras desviarse de la carretera II/245 a la carretera III/10160, llegó al paso a nivel P2739, donde colisionó con el tren Os 19413 que circulaba en dirección a la estación de Čelákovice, respectivamente a la parada Lázně Toušeň.
+La circulación del tren Os 19413 transcurrió sin averías hasta el momento de producirse el MU. Hacia el paso a nivel P2739, el maquinista circulaba con una velocidad de hasta 40 km·h-1 y, según su declaración y la de los testigos, antes de dicho paso a nivel emitía repetidamente la señal acústica «Pozor». De repente, desde la izquierda (en el sentido de circulación del DV), entró en el área del paso a nivel un automóvil amarillo Renault Kangoo perteneciente a ČP. El maquinista, según su declaración, aplicó inmediatamente el freno directo, pero se produjo la colisión.
+### 3.2.2 Secuencia de hechos desde la producción del suceso excepcional hasta la finalización de las acciones de los servicios de emergencia
+10:13 h el maquinista del tren Os 19413 comunicó la producción del MU al jefe de estación de Čelákovice,
 •
-al IZS y a otras instituciones y organismos según el calendario de notificación;
-10:13 h la jefa de estación de la estación Čelákovice detuvo la circulación en el tramo Čelákovice – Brandýs
+al IZS y a otras instituciones y organismos según el calendario de comunicaciones;
+10:13 h la jefa de estación de Čelákovice detuvo la circulación en el tramo Čelákovice – Brandýs
 •
 nad Labem;
 
 ## Página 24
 
-10:15 h el jefe de estación de la estación de Brandýs nad Labem comunicó la aparición de un MU según el horario de comunicaciones al IZS;
+10:15 h el jefe de estación de la estación de Brandýs nad Labem comunicó la aparición de un MU de acuerdo con el horario de comunicaciones a la IZS;
 •
-10:20 h el jefe de estación de la estación de Brandýs nad Labem comunicó la aparición de un MU según el horario de comunicaciones al CDP Praga;
+10:20 h el jefe de estación de la estación de Brandýs nad Labem comunicó la aparición de un MU de acuerdo con el horario de comunicaciones al CDP Praga;
 •
 10:22 h el despachador del CDP comunicó el MU a la O18 SŽ;
 •
@@ -700,35 +722,35 @@ nad Labem;
 •
 11:35 h los empleados del DI iniciaron la inspección del lugar de aparición del MU;
 •
-11:52 h el inspector del DI presente dio su consentimiento para la liberación de la vía;
+11:52 h el inspector del DI presente concedió el permiso para liberar la vía;
 •
-12:30 h la persona autorizada de la O18 SŽ dio su consentimiento para el inicio de los trabajos de limpieza;
+12:30 h la persona autorizada de la O18 SŽ dio el permiso para iniciar los trabajos de despeje;
 •
 13:45 h la SŽ puso en servicio la línea.
 •
-El IZS fue activado debido al carácter del MU.
-En el lugar del MU intervinieron los siguientes componentes del IZS:
-PČR, Dirección Regional del Kraje de Bohemia Central, Departamento Territorial Praga Este –
+La IZS fue activada en función del carácter del MU.
+En el lugar del MU intervinieron los siguientes componentes de la IZS:
+Policía (PČR), Jefatura Regional del Kraje Středočeský, Departamento Territorial Praga Este –
 •
 VENKOV;
-Servicio de Emergencias Sanitarias del Kraje de Bohemia Central;
+Servicio de Emergencias Sanitarias del Kraje Středočeský;
 •
 Servicio de Rescate Aéreo, base de Praga;
 •
-Cuerpo de Bomberos y Rescate del Kraje de Bohemia Central;
+Cuerpo de Bomberos y Rescate del Kraje Středočeský;
 •
 Unidad del Cuerpo de Bomberos Voluntarios de Brandýs nad Labem;
 •
 Cuerpo de Bomberos y Rescate de la SŽ, unidad de protección contra incendios de Nymburk.
 •
 ## 4 ANÁLISIS DEL SUCESO
-### 4.1 Funciones y obligaciones
-### 4.1.1 Transportistas y gestores de la vía
-El transportista está obligado a garantizar que el maquinista conduzca el DV únicamente desde la posición desde la que existe la mejor visibilidad, normalmente desde la cabina delantera del maquinista en el sentido de la marcha, que desde la cabina delantera del DV observe la vía y las señales, que actúe según los hechos constatados y que durante la marcha no supere la velocidad máxima permitida establecida en el horario de circulación o la velocidad limitada ordenada. Antes de un paso a nivel con balizas de advertencia, es decir, también antes del paso a nivel P2739, el maquinista debe dar repetidamente la señal de «¡Atención!» (un sonido largo de la bocina de la locomotora) para advertir a los usuarios de la vía pública.
-El maquinista del tren Os 19413 condujo el DV desde la 1.ª posición, desde la que existía la mejor visibilidad, no superó la velocidad máxima permitida de 40 km·h-1 al llegar al paso a nivel P2739 y dio repetidamente la señal sonora de «¡Atención!». De repente, desde la izquierda (en el sentido de marcha del DV), un automóvil amarillo Renault Kangoo entró en el área del paso a nivel. El maquinista, según su declaración, aplicó inmediatamente el freno directo, pero se produjo la colisión. Debido a la falta de visibilidad del maquinista del automóvil que se aproximaba, que entró en el área del paso a nivel sin detenerse, según declaró el maquinista, el conductor del automóvil y como se demostró detalladamente a partir del registro del módulo GPS del automóvil
-
+### 4.1 Tareas y obligaciones
+### 4.1.1 Transportistas y gestores de infraestructura ferroviaria
+El transportista está obligado a garantizar que el maquinista conduzca el DV únicamente desde la posición desde la que existe la mejor visibilidad, por lo general desde la cabina delantera del maquinista en el sentido de la marcha, que desde la parte delantera del DV observe la vía y las señales, que actúe según los hechos constatados y que durante la marcha no supere la velocidad máxima permitida establecida en el horario de circulación o la velocidad limitada ordenada. Ante un paso a nivel con balizas de aviso, es decir, también ante el paso a nivel P2739, el maquinista debe dar repetidamente la señal de "Atención" (un sonido largo de la bocina de la locomotora) para advertir a los usuarios de la vía pública.
+El maquinista del tren Os 19413 condujo el DV desde la 1.ª posición, desde la que existía la mejor visibilidad, no superó la velocidad máxima permitida de 40 km·h-1 al aproximarse al paso a nivel ferroviario P2739 y dio repetidamente la señal sonora de "Atención". De repente, por la izquierda (en el sentido de marcha del DV), entró en el espacio del paso a nivel un automóvil amarillo Renault Kangoo. El maquinista, según su declaración, aplicó inmediatamente el freno de acción directa, no obstante, se produjo la colisión. Dada la ausencia de visibilidad del maquinista sobre el automóvil que se aproximaba, que entró en el espacio del paso a nivel sin detenerse, tal y como indicó el maquinista, el conductor del automóvil y como se demostró detalladamente a partir del registro del módulo GPS del automóvil
 
 ## Página 25
+
 
 (ver punto 4.1.7 de la presente ZZ), y debido a la velocidad del tren de 37 km·h-1, el maquinista no podía evitar la colisión en las condiciones dadas y su reacción fue adecuada.
 El cruce de la vía con la vía pública a nivel de las vías debe estar correctamente señalizado y protegido, siendo que el tráfico ferroviario tiene, según la normativa legal, prioridad sobre el tráfico en la vía pública. El cruce de una vía ferroviaria de vía única con la vía pública a nivel de las vías está señalizado por el gestor de la vía con la señal vertical A32a «Cruz de advertencia para paso a nivel de vía única». Esta señal de tráfico se coloca en el borde derecho de la vía pública de manera que ninguna de sus partes esté a menos de 4 m del eje de la vía exterior. La cruz de advertencia debe ser, según el art. 6.1.3 de la ČSN 73 6380, visible al menos a la distancia de la longitud de visibilidad para detenerse Dz, que según el art. 7.4.6.2 de la ČSN 73 6380 para un paso a nivel en una carretera de clase III protegido únicamente con cruz de advertencia es de 25 m. El art. 7.4 del TP 65 indica como visibilidad suficiente fuera de la localidad una distancia de al menos 100 m, siendo que las señales no deben estar cubiertas por otros objetos (ramas de árboles, arbustos, postes, etc.). Las cruces de advertencia complementadas con las señales verticales P 6 «¡Alto, ceda el paso!» estaban correctamente colocadas en el paso a nivel P2739, sin embargo, en el sentido de marcha del automóvil en cuestión desde el cruce con la carretera II/245, esta señalización de tráfico solo era visible a 18 m, estando
@@ -736,8 +758,8 @@ El cruce de la vía con la vía pública a nivel de las vías debe estar correct
 Fig. n.º 7: Vista de las señales verticales en el paso a nivel desde la distancia prescrita (25 m) Fuente: DI
 El gestor de la vía tiene además la obligación de garantizar en el paso a nivel condiciones de visibilidad suficientes. En la ficha del paso a nivel P2739 indicaba que las condiciones de visibilidad las evalúa según la norma S4/3. Las longitudes de visibilidad para el vehículo rodado más lento (Lp) en el paso a nivel tras la aparición del MU resultaron ser suficientes, tanto según la ČSN 73 6380 como según la norma S4/3 (para más detalles, ver punto 3.1.3 de la presente ZZ). Las longitudes de visibilidad para el vehículo rodado (Lr) en el caso de la instalación de la señal vertical P 6 «¡Alto, ceda el paso!» no se garantizan según la ČSN 73 6380.
 
-
 ## Página 26
+
 
 Si la velocidad de línea en el tramo adyacente no es superior a 60 km·h-1 y el momento de tráfico no supera el valor de 10 000, un paso a nivel de vía única puede protegerse únicamente con cruz de advertencia. La velocidad de línea en el paso a nivel P2739 es de 40 km·h-1 en el sentido de marcha del DV desde la estación de Brandýs nad Labem hacia la estación de Čelákovice, y de 20 km·h-1 en el sentido contrario. En la ficha de este paso a nivel presentada en el marco de la investigación del MU se indica el valor del momento de tráfico de 10 000, el valor de la intensidad del tráfico rodado de 600 vehículos en 24 horas y la intensidad media de tráfico en la vía ferroviaria de 40 trenes/maniobras/maniobras entre estaciones al día.
 ### El cálculo del momento de tráfico realizado por el Sistema de Información de la ficha de pasos a nivel y pasos peatonales del gestor de la vía fue incorrecto.
@@ -771,8 +793,8 @@ De los cálculos realizados a partir de los datos de entrada registrados por la 
 ### El valor del momento de tráfico (28 560) calculado por el DI a partir de la variable de entrada según el procedimiento establecido no corresponde al valor del momento de tráfico (10 000) indicado en la ficha del paso a nivel.
 Este error se produjo probablemente al recalcular por parte del gestor de la vía la intensidad del tráfico rodado registrada (600 vehículos/día) al Is que se sustituye en la fórmula del momento de tráfico, cuando el valor 600 se dividió erróneamente por el número 24 (24 h) en lugar de recalcularse según el TP 189.
 
-
 ## Página 27
+
 
 ### La protección de un paso a nivel con un momento de tráfico superior a 10 000 únicamente con cruz de advertencia es contraria a lo dispuesto en el § 4, apartado 1, del decreto n.º 177/1995 Sb.
 ### y al art. 6.3.2 de la ČSN 73 6380.
@@ -784,8 +806,8 @@ En la investigación no se constató ninguna infracción de la normativa legal, 
 ### Hallazgo:
 En la investigación se constató una infracción de la normativa legal y de las normas técnicas y el incumplimiento de las condiciones técnicas relativas a las funciones y obligaciones del gestor de la vía, fuera de la relación causal con la aparición del MU:
 
-
 ## Página 28
+
 
 Falta de garantía de la visibilidad de la cruz de advertencia al menos a la distancia de la longitud de visibilidad para detenerse Dz en contravención del art. 6.1.3 de la ČSN 73 6380:
 art. 6.1.3 de la ČSN 73 6380:
@@ -809,6 +831,7 @@ art. 7.2.3 de la ČSN 73 6380:
 
 ## Página 29
 
+
 art. 6.3.2 ČSN 73 6380:
 •
 «Los pasos a nivel protegidos únicamente con una cruz de advertencia no pueden instalarse de nueva planta: cuando el momento de tráfico del paso a nivel M > 10 000.».
@@ -826,8 +849,8 @@ La autoridad nacional de seguridad es la Oficina Ferroviaria (Drážní úřad),
 La función de la Agencia de la Unión Europea para los Ferrocarriles es, además de garantizar, en el marco de sus competencias, que se mantenga generalmente la seguridad de los ferrocarriles y, en la medida de lo posible, se aumente de forma sistemática, entre otras, la emisión, renovación, suspensión y modificación de certificados únicos de seguridad, la limitación de su vigencia o su cancelación, en cuestión en la que coopera con las autoridades nacionales de seguridad; asimismo, emite autorizaciones para la puesta en el mercado de vehículos ferroviarios y de tipos de vehículos, y está facultada para renovar, modificar, suspender o cancelar las autorizaciones que haya emitido. La Agencia evalúa además los proyectos de normativa nacional, etc.
 Durante la investigación no se constató infracción de las funciones y obligaciones de la autoridad nacional de seguridad y de la Agencia de la Unión Europea para los Ferrocarriles.
 
-
 ## Página 30
+
 
 ### 4.1.5 Entidades notificadas, entidades designadas y entidades dedicadas a la evaluación de riesgos
 Durante la investigación no se constató infracción de las funciones y obligaciones de las entidades notificadas, de las entidades designadas y de las entidades dedicadas a la evaluación de riesgos.
@@ -847,8 +870,8 @@ velocidad
 | 10:10:15 h | paso a nivel ferroviario P2739 registro de apertura de puertas aparición del MU , , | 22 km·h-1 |
 | 10:10:36 h | vía férrea km 4 ,828 posición final , – | 0 km·h-1 |
 
-
 ## Página 31
+
 
 Teniendo en cuenta la precisión de los datos registrados, de lo anterior se desprende que el conductor, al girar de la carretera II/245 a la carretera III/10160, es decir, en la dirección indicada por el desvío, si bien redujo la velocidad de conducción a 16 km·h-1, inmediatamente después volvió a aumentarla, ya que el registro de la apertura de puertas a 22 km·h-1 se produjo con la colisión en el paso a nivel. La velocidad del automóvil comenzó a aumentar en este tramo, a pesar de que la carretera III/10160 discurría en la dirección de la conducción del automóvil hacia el ŽP 2739 en ascenso. Por tanto, se utilizó el acelerador, de lo contrario el automóvil habría frenado por efecto de la gravedad.
 La afirmación del conductor del OA fue descartada también por la pericia elaborada para las necesidades de la PČR, mediante la cual se descartó cualquier defecto técnico en el sistema de frenos del vehículo que pudiera impedir al conductor controlar el vehículo.
@@ -900,8 +923,8 @@ explicar de alguna manera la declaración del conductor. En los frenos se realiz
 también una prueba práctica del efecto de frenado en las ruedas individuales, tanto sin
 la función del amplificador de
 
-
 ## Página 32
+
 
 frenos por depresión como con la función del amplificador. El sistema estaba plenamente
 funcional (como consecuencia de la colisión el sistema de frenos no sufrió daño alguno).
@@ -945,6 +968,7 @@ Durante la investigación se constató infracción de la normativa legal relativ
 
 ## Página 33
 
+
 ### Propietario (gestor) de la vía de comunicación terrestre
 El propietario de la carretera está obligado a ejercer su gestión, que incluye especialmente sus inspecciones ordinarias y extraordinarias, el mantenimiento y las reparaciones. El propietario puede encargar el ejercicio de la gestión a través de un gestor. Forman parte de la carretera, entre otros, las señales de tráfico verticales.
 El estado de las señales de tráfico verticales en el momento del suceso se describe en el punto 3.1.3 de la presente Acta de investigación. Del examen se constató que algunas señales de tráfico que debían haberse anulado con motivo del cierre de la carretera II/245 debido a la reparación del paso superior n.º de referencia 245-02 no fueron anuladas. En relación con el paso a nivel ferroviario P2739 en cuestión, faltaba por completo la señal de tráfico A 31c
@@ -979,8 +1003,8 @@ suficiente, para aquellos usuarios del tráfico a los que están destinados. Par
 conductores, la visibilidad fuera de poblado es de al menos 100 m de distancia, …. . Las señales y los dispositivos de tráfico no deben estar cubiertos por otros
 objetos (ramas de árboles, arbustos, postes, etc.). ...».
 
-
 ## Página 34
+
 
 ### 4.2 Vehículos ferroviarios e instalaciones técnicas
 4.2.1 Factores o consecuencias derivados de la construcción de los vehículos ferroviarios, de la infraestructura ferroviaria o de las instalaciones técnicas
@@ -1004,8 +1028,8 @@ En la investigación no se detectaron factores relacionados con la formación pr
 ### 4.3.2 Factores laborales
 En la investigación no se detectaron factores relacionados con el contenido del trabajo o la jornada laboral del empleado de la empresa de transporte. En la investigación no se constató en el empleado implicado el incumplimiento de las condiciones de descanso antes del turno y de los descansos, respectivamente, del tiempo adecuado para el descanso y la alimentación durante el turno.
 
-
 ## Página 35
+
 
 ### 4.3.3 Factores organizativos y tareas
 En la investigación no se detectaron factores relacionados con la organización del trabajo o con las tareas laborales.
@@ -1019,30 +1043,43 @@ Antes de la ocurrencia del suceso, según su declaración, el conductor del veh�
 El resultado de la prueba médica de alcoholemia en el conductor del vehículo de motor fue negativo.
 Es evidente que el conductor del vehículo de motor, que no actuó con especial precaución ante el paso a nivel P2739 al no detener el vehículo ante el paso a nivel, en cumplimiento de la orden de la señal de tráfico P 6 «¡Pare, ceda el paso!», en un lugar desde el que tuviera la visibilidad adecuada de la vía, y al no comprobar si podía cruzar el paso a nivel con seguridad, según los hechos constatados, no actuó con la intención de provocar el suceso. Dado que conocía la ubicación del paso a nivel y las circunstancias locales, puede concluirse que la conducta del conductor del vehículo de motor ante el paso a nivel probablemente estuvo influida por su error inconsciente: la falta de atención durante la conducción del vehículo de motor.
 
-
 ## Página 36
 
 ### 4.4 Mecanismos de retroalimentación y mecanismos de control, incluida la gestión de riesgos
-y el aseguramiento de la seguridad, y los procedimientos de seguimiento
+y la garantía de seguridad, y los procedimientos de seguimiento
 ### 4.4.1 Condiciones pertinentes del marco regulatorio
-Las condiciones pertinentes del marco regulatorio están establecidas en los Reglamentos de la Unión Europea, en la ley n.º 266/1994 Sb. y en los decretos de aplicación.
-4.4.2 Procedimientos, métodos, contenido y resultados de las actividades de evaluación de riesgos y de seguimiento realizadas por cualquiera de los sujetos implicados
-En los procedimientos, métodos, contenido y resultados de las actividades de evaluación de riesgos y de seguimiento relacionados con las circunstancias de la ocurrencia del suceso en cuestión, no se detectaron deficiencias.
-### 4.4.3 Sistema de aseguramiento de la seguridad de los operadores ferroviarios y de las empresas de transporte implicados
-En el sistema de aseguramiento de la seguridad adoptado por el gestor de la infraestructura y por la empresa de transporte, relacionado con las circunstancias de la ocurrencia del suceso en cuestión, no se detectaron deficiencias.
-### 4.4.4 Sistema de gestión de los sujetos responsables del mantenimiento de los vehículos ferroviarios
+Las condiciones pertinentes del marco regulatorio están establecidas en los Reglamentos de la Unión Europea,
+en la ley núm. 266/1994 Sb. y en los decretos de aplicación.
+4.4.2 Procedimientos, métodos, contenido y resultados de las actividades de evaluación de riesgos y de seguimiento, que
+realiza cualquiera de los sujetos implicados
+En los procedimientos, métodos, contenido y resultados de las actividades de evaluación de riesgos y de seguimiento,
+relacionados con las circunstancias de la aparición de la MU en cuestión, no se detectaron deficiencias.
+### 4.4.3 Sistema de garantía de seguridad de los transportistas y gestores de infraestructura implicados
+En el sistema de garantía de seguridad adoptado por el gestor de la infraestructura y el transportista, relacionado
+con las circunstancias de la aparición de la MU en cuestión, no se detectaron deficiencias.
+### 4.4.4 Sistema de gestión de los sujetos responsables del mantenimiento del material rodante ferroviario
 y de los talleres de mantenimiento
-El sistema de gestión de los sujetos responsables del mantenimiento de los vehículos ferroviarios y de los talleres de mantenimiento no guardaba relación con la ocurrencia del suceso.
+El sistema de gestión de los sujetos responsables del mantenimiento del material rodante ferroviario y de los talleres de mantenimiento
+no guardaba relación con la aparición de la MU.
 ### 4.4.5 Resultados de la supervisión realizada por las autoridades nacionales de seguridad
-Atendiendo a los factores constatados y a las circunstancias de la ocurrencia del suceso, la supervisión de la autoridad de seguridad no guarda relación con el suceso en cuestión.
-### 4.4.6 Aprobaciones, certificados y dictámenes de evaluación emitidos por la agencia, por las autoridades nacionales de seguridad u otros sujetos de evaluación de la conformidad
-El gestor de la infraestructura explotaba la vía al amparo de la autorización administrativa vigente y del certificado de seguridad del gestor de la infraestructura. La empresa de transporte explotaba el transporte ferroviario al amparo de la licencia vigente y del certificado del operador ferroviario.
+Teniendo en cuenta los factores y circunstancias detectados de la aparición de la MU, la supervisión de la autoridad de seguridad
+no guarda relación con la MU en cuestión.
+### 4.4.6 Aprobaciones, certificados y informes de evaluación otorgados por la agencia, las autoridades nacionales
+de seguridad u otros sujetos de evaluación de la conformidad
+El gestor de la infraestructura explotaba la infraestructura con base en la autorización administrativa vigente y el certificado
+de seguridad del gestor de la infraestructura. El transportista explotaba el transporte ferroviario con base en
+la licencia vigente y el certificado del transportista.
 ### 4.4.7 Otros factores sistémicos
 En la investigación no se detectaron otros factores sistémicos.
-### 4.5 Sucesos anteriores de naturaleza similar
-El DI registra en el período comprendido desde el 1. 1. 2008 hasta la ocurrencia del suceso en cuestión 845 casos análogos (colisión de un tren con un vehículo de motor en pasos a nivel ferroviario protegidos únicamente con cruces de advertencia, cuya causa de ocurrencia fue la entrada no autorizada de un vehículo de motor en el paso a nivel ferroviario en el momento en que un tren se aproximaba al mismo), en los que fallecieron 55 personas, 333 personas resultaron lesionadas y se produjo un daño por importe de 183 911 551 Kč.
+### 4.5 Eventos anteriores de naturaleza similar
+El DI registra en el período desde el 1 de enero de 2008 hasta la aparición de la MU en cuestión 845 casos
+análogos (colisión de un tren con un SMV en pasos a nivel ferroviarios protegidos únicamente con cruces
+de advertencia, cuya causa de aparición fue la entrada no autorizada de un SMV en el paso a nivel en el momento en que
+se aproximaba un tren), en los que fallecieron 55 personas, 333 personas resultaron lesionadas
+y se produjo un daño por importe de 183 911 551 CZK.
 
 ## Página 37
+
 
 En el paso a nivel P2739, en el período observado, la DI registra los 2 AM anteriores:
 • del 15. 8. 2012, cuando se produjo la colisión del tren Os 19413 con un automóvil,
@@ -1095,8 +1132,8 @@ y señalización positiva, con una fecha prevista de finalización de la realiza
 31. 5. 2022, la Inspección Ferroviaria no emite en este caso una recomendación de
 seguridad.
 
-
 ## Página 38
+
 
 ## 5 CONCLUSIONES
 ### 5.1 Resumen del análisis y conclusiones relativas a las causas del suceso
@@ -1138,8 +1175,8 @@ En el propietario (gestor) de la carretera:
 • No se instaló la señal de tráfico A 31c "Panel de señal 80 m" desde la dirección de
 Brandýs nad Labem;
 
-
 ## Página 39
+
 
 • No se garantizó la visibilidad de las señales de tráfico A 31c "Panel de señal 80 m" y
 A 31b "Panel de señal 160 m" desde la dirección de la localidad de Zápy.
@@ -1185,8 +1222,8 @@ Ing. Petr Mencl v. r.
 director
 de la Inspección Territorial de Bohemia
 
-
 ## Página 40
+
 
 ## ANEXOS
 Fig. n.º 9: Primera vista despejada de la señalización del paso a nivel

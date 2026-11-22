@@ -10,13 +10,14 @@ chars: 101927
 ratio_longitud: 1.24
 tokens_in: 51538
 tokens_out: 35782
-verificacion: revisar
-notas_cifras: ["bloque 1: original bilingüe: se compara contra el idioma principal (EN)", "bloque 6: cifras cortas: 1/42", "bloque 8: original bilingüe: se compara contra el idioma principal (CS)"]
-avisos: ["bloque 8: ratio 1.67"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 5: original bilingüe: se compara contra el idioma principal (CS)", "página 6: original bilingüe: se compara contra el idioma principal (CS)", "página 7: original bilingüe: se compara contra el idioma principal (EN)", "página 9: original bilingüe: se compara contra el idioma principal (CS)", "página 21: original bilingüe: se compara contra el idioma principal (CS); cifras cortas: 4/31", "página 25: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -39,13 +40,13 @@ IČ: 75009561
 mail@dicr.cz
 tel.: +420 736 521 003
 
-
 ## Página 2
+
 
 El presente informe final es público y todos los hechos en él recogidos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ## 1 Resumen
 Fuente: Drážní inspekce
@@ -71,8 +72,8 @@ La Drážní inspekce no identificó ningún factor contribuyente.
 La Drážní inspekce no identificó ninguna causa sistémica.
 La Drážní inspekce no emitió ninguna recomendación de seguridad.
 
-
 ## Página 4
+
 
 ## SUMMARY
 6th October 2023, 19:51 (18:51 GMT).
@@ -102,8 +103,8 @@ Systemic factor:
 none.
 Recommendation: not issued.
 
-
 ## Página 5
+
 
 # Índice
 1 Resumen........................................................................................................................3
@@ -145,8 +146,8 @@ SUMMARY.........................................................................
 4.2 Vehículos ferroviarios e instalaciones técnicas......................................................31
 4.2.1 Factores o consecuencias derivados del diseño de los vehículos ferroviarios, de la infraestructura ferroviaria o de las instalaciones técnicas....................................................................31
 
-
 ## Página 6
+
 
 4.2.2 Factores o consecuencias derivados de la instalación y la puesta en servicio de los vehículos ferroviarios, de la infraestructura ferroviaria o de las instalaciones técnicas.....................................31
 4.2.3 Factores o consecuencias relacionados con los fabricantes de vehículos ferroviarios u otros proveedores de productos ferroviarios...........................................................................31
@@ -177,6 +178,7 @@ SUMMARY.........................................................................
 ANEXOS............................................................................................................................36
 
 ## Página 7
+
 
 ### Lista de siglas y símbolos utilizados
 BOZP
@@ -237,8 +239,8 @@ servicio de emergencias sanitarias
 žst.
 estación ferroviaria
 
-
 ## Página 8
+
 
 ### Lista de siglas de disposiciones legales, normas y reglamentos internos utilizados
 ley núm. 262/2006 Sb
@@ -263,8 +265,8 @@ reglamento interno del explotador del ferrocarril SŽ, "SŽ Zam1 Reglamento sobr
 SŽDC (ČD) Z1
 reglamento interno del explotador del ferrocarril SŽ, "SŽDC (ČD) Z1 Reglamento para la operación de los aparatos de enclavamiento de estación y de línea, en la redacción vigente en el momento de la ocurrencia de la MU
 
-
 ## Página 9
+
 
 ## 2 INVESTIGACIÓN Y SUS RELACIONES
 ### 2.1 Decisión sobre el inicio de la investigación
@@ -296,8 +298,8 @@ participación en la inspección comisionada de los vehículos ferroviarios part
 •
 análisis de los datos registrados por el registrador de velocidad del vehículo ferroviario participante;
 
-
 ## Página 10
+
 
 •
 análisis de la documentación solicitada al explotador del ferrocarril, al transportista y a la PČR;
@@ -333,8 +335,8 @@ Coordenadas GPS:
 ### 3.1.3 Descripción del lugar del acontecimiento
 El Odb. Brno-Židenice se encuentra en el km 158,180 del ferrocarril, categoría nacional. La línea es de doble vía y electrificada en los tramos adyacentes y, en el lugar de la ocurrencia de la MU, transcurre parcialmente sobre un terraplén por encima del terreno circundante, en el sentido de la marcha del tren, en una curva a la izquierda. El entorno de la línea no estaba cuberto de arbustos ni de árboles. En el lugar de la MU, un grupo de trabajo de empleados del CPS realizaba trabajos en la superestructura de la vía (sustitución de traviesas) en el desvío núm. 19 de la vía de circulación núm. 6 (en adelante, vía núm. 6) en el ámbito del Odb. Brno-Židenice. La MU se produjo en el perfil de paso de la TK núm. T4 en el km 158,353, es decir, 63 m antes de la señal de entrada núm. 4MS situada en el km 158,290 (nota de la DI: el lugar de la ocurrencia de la MU se encontraba, por tanto, entre la est. Brno-
 
-
 ## Página 11
+
 
 Maloměřice y el Odb. Brno-Židenice en la TK núm. T4). Tras la ocurrencia de la MU, el tren pasó junto a la señal de entrada núm. 4MS y el frente del tren, tras detenerse, ya se encontraba en el cabezal de Maloměřice del Odb. Brno-Židenice, en el ámbito del desvío núm. 16 en el km 158,227.
 Fig. núm. 1: Descripción del lugar de la MU
@@ -351,8 +353,8 @@ los empleados del CPS realizaban trabajos en servicio en una vía no excluida en
 •
 entre la vía núm. 6 y la TK núm. T4 había, en el lugar de la ocurrencia de la MU, una distancia entre ejes de 4,25 m, y entre la vía núm. 6 y la vía muerta núm. 8a de 5,10 m;
 
-
 ## Página 12
+
 
 •
 en el desvío núm. 19 en el km 158,352 se encontraba, entre la vía núm. 6 y la vía muerta núm. 8a, una excavadora pequeña, y delante de ella había desplegado pequeño equipo y maquinaria. Entre la TK núm. T4 y la vía núm. 6 se encontraban 3 traviesas de madera colocadas y, junto a ellas, unas tenazas para el traslado de traviesas;
@@ -382,8 +384,8 @@ en la aplicación "Registro de accesos del CPS" del portal SŽ se había registr
 •
 a las 19:25 h se realizó una anotación en el registro telefónico sobre la entrega y recepción de la Placa de Seguridad, en la que se definía el lugar de trabajo, el modo de comunicación (radio) y el tiempo necesario para despejar el puesto de trabajo (120 s).
 
-
 ## Página 13
+
 
 Fig. núm. 2: Vista del frente del tren Mn 82720                                                          Fuente: DI
 Estado de los vehículos ferroviarios:
@@ -405,6 +407,7 @@ en el HDV 744 110-8 la DI aseguró la documentación del tren;
 tanto el principio como el final del tren estaban señalizados con las señales prescritas.
 
 ## Página 14
+
 
 Otros:
 •
@@ -443,8 +446,8 @@ Tercera parte:
 •
 empleado de la CPS de la sociedad CROSSROADS GATE s. r. o.
 
-
 ## Página 15
+
 
 Sujetos implicados:
 Propietaria de la vía férrea de categoría nacional, Brno-Horní Heršpice modřické zhlaví – Brno dolní nádraží – Brno-Maloměřice, era la República Checa. El derecho a administrar los bienes del Estado lo ejercía SŽ, con domicilio en Dlážděná 1003/7, Praha 1, PSČ 110 00, que era a la vez gestora de la infraestructura.
@@ -480,8 +483,8 @@ el tren Mn 82720 partió de la estación Brno-Maloměřice;
 en el km 153,353, con una velocidad del tren de 40 km.h-1, se produjo el MU;
 19:51:02 h
 
-
 ## Página 16
+
 
 •
 se registró, con una velocidad de 42 km.h-1, una caída de la presión del aire en la
@@ -503,8 +506,8 @@ La locomotora objeto de investigación del tren Mn 82720 en el puesto del maquin
 El lugar del MU en el sentido de marcha del tren se encontraba en el TK n.º T4 en el km 158,353 entre la estación Brno-Maloměřice y la estación de enlace Brno-Židenice. La vía antes del lugar del MU discurre, en el sentido de marcha del tren, en una curva a la izquierda sobre un terraplén suave por encima del terreno circundante. Se trataba de una vía de varios carriles, electrificada, en el lugar del MU con una velocidad máxima permitida de 60 km.h-1. La superestructura ferroviaria estaba formada por raíles de perfil S49 con fijación nervurada y traviesas de hormigón PB2. El balasto encastrado estaba limpio.
 La estación de enlace Brno-Židenice está equipada con SZZ de 3.ª categoría – equipo de señalización de relés con sistema de señalización de velocidad de señales luminosas. Para la detección de la libertad de los tramos de vía se utilizan circuitos de vía. La libertad de los tramos de vía se garantiza mediante circuitos de vía con una frecuencia de señal de 275 Hz. El SZZ tenía un Certificado de aptitud n.º de registro PZ 7542 /96-E.43, emitido por el DÚ el día 9. 10. 1996 con vigencia por tiempo indefinido. El equipo técnico designado fue declarado apto para la explotación en virtud del acta n.º 805/2019/01-KB de
 
-
 ## Página 17
+
 
 fecha 12. 12. 2019, emitida por el DÚ. La puesto de operación del SZZ (mesa de mando con el esquema gráfico de la estación) se encontraba en la oficina de tráfico del edificio de la estación de enlace Brno-Židenice. La prestación del servicio de tráfico en la estación de enlace Brno-Židenice la dirigía, en el momento de la producción del MU, un jefe de estación de categoría I, que tenía su puesto en la oficina de tráfico del edificio, desde el cual organizaba y dirigía el tráfico ferroviario. En el momento de la inspección, estaba colocada en el panel del equipo de señalización una ayuda mnemotécnica – la etiqueta de seguridad de la empresa SEŽEV-REKO, a.s., que advertía al jefe de estación de la presencia del grupo de trabajo en la vía férrea en servicio. La ruta de tren para el tren Mn 82720 se estableció desde el TK n.º T4 a la vía n.º 4 y posteriormente en dirección a la estación de enlace Brno-Černovice.
 Fig. n.º 3: Vista del pupitre de relés del SZZ                                                Fuente: DI
@@ -518,8 +521,8 @@ maquinista del tren Mn 82720
 ◦al entrar en la estación de enlace Brno-Židenice advirtió a la izquierda a un grupo de empleados de la CPS;
 ◦dio con el silbato la señal «Atención» (nota del DI: esta información no se confirmó) y uno de los empleados del grupo de la CPS levantó la mano como «Recibido el mandato»;
 
-
 ## Página 18
+
 
 ◦cuando pasaba junto al grupo de empleados de la CPS, el jefe de maniobras en el puesto izquierdo le comunicó que había vislumbrado algún movimiento en el perfil de paso y que se detuviera;
 ◦utilizó el frenado de acción rápida y detuvo el tren;
@@ -553,6 +556,7 @@ jefe de tren del tren Mn 82720
 
 ## Página 19
 
+
 ◦al entrar el tren en Odb. Brno-Židenice, vio detrás de la curva a un grupo de empleados de CPS;
 ◦el maquinista también los vio y dio la señal «Pozor» (Atención);
 ◦uno de ellos levantó la mano como «Převzetí pokynu» (Recepción de la instrucción);
@@ -585,6 +589,7 @@ empleado de CPS – patrulla de seguridad
 
 ## Página 20
 
+
 •
 administrador de la empresa LEITNER s. r. o
   – Acta de la declaración prestada ante la DI:
@@ -610,16 +615,18 @@ empleado de CPS – operador de la excavadora pequeña
 
 ## Página 21
 
-◦dada la posición de la excavadora estacionada, no vio cómo se produjo el choque del empleado de CPS con el HDV.
-Los empleados de CPS en función de jefe de trabajos, patrulla de seguridad y operador de la excavadora pequeña se negaron a prestar declaración ante la DI, invocando el art. 37 apartado 1 de la Ley Constitucional n.º 2/1993 Sb., por la que se proclama la Carta de Derechos Fundamentales y Libertades.
+◦dada la posición del excavador estacionado, no vio cómo se produjo la colisión del empleado de CPS con el material rodante.
+Los empleados de CPS en calidad de director de trabajos, de vigilante de seguridad y de operador del pequeño excavador se negaron a prestar declaración ante el DI, invocando el artículo 37, apartado 1, de la Ley Constitucional n.º 2/1993 Sb., por la que se proclama la Carta de Derechos Fundamentales y Libertades.
 ### 3.2 Descripción fáctica del suceso
 ### 3.2.1 Secuencia de hechos que condujeron al suceso excepcional
-El explotador ferroviario SŽ notificó el 14. 2. 2022 en su perfil https://zakazky.spravazeleznic.cz la adjudicación de un procedimiento de licitación para un contrato público denominado «Údržba, opravy a odstraňování závad u ST Brno 2022 – 2023» (Mantenimiento, reparación y eliminación de defectos en ST Brno 2022 – 2023). En virtud de este procedimiento, se seleccionó como oferta más ventajosa la de la empresa SEŽEV-REKO, a.s. para el cumplimiento del Contrato Público. Esta empresa firmó con SŽ el 31. 3. 2022 el Acuerdo Marco para la realización de obras de construcción «Údržba, opravy a odstraňování závad u ST Brno 2022 – 2023».
-La empresa SEŽEV-REKO, a.s. cedió posteriormente el contrato a la empresa LEITNER s. r. o., en virtud del Acuerdo Marco para la realización de obras de construcción de fecha 3. 1. 2023. En virtud del pedido n.º OBJ_108_223_003 de fecha 7. 8. 2023, la empresa SEŽEV-REKO, a.s. encargó a la empresa LEITNER s. r. o. el cambio de traviesas en Odb. Brno-Židenice con plazo de entrega hasta finales de octubre de 2023. La empresa LEITNER s. r. o. tenía además celebrado un contrato de ejecución de obra con la empresa CROSSROADS GATE, s. r. o. La empresa SEŽEV-REKO, a.s., con la firma de este contrato, se comprometió a cumplir la legislación generalmente vinculante vigente, las leyes y decretos de la RČ, y entre otros, también las normas internas y directivas del contratante, es decir, del explotador ferroviario, y fue debidamente dada de alta en el sistema de información «Portál správy železnic, Řízení provozu» (Portal de gestión ferroviaria, Gestión de la circulación). El cambio de traviesas se desarrolló también en los días anteriores a la producción de la MU.
-El 6. 10. 2023 fue el último día en que debían realizarse los trabajos y debían cambiarse las últimas 4 traviesas. Ese mismo día, los trabajos fueron registrados en la aplicación operativa del explotador ferroviario «Evidence vstupů CPS» (Registro de accesos de CPS) con indicación del nombre del jefe de trabajos y de su contacto telefónico. A las 19:25 h, el jefe de estación de Odb. Brno-Židenice acordó con el empleado de CPS (jefe de trabajos) las condiciones de trabajo en el desvío n.º 19 y en el cruzamiento 3 – 13, y realizaron una anotación en el cuaderno de notas telefónico. El jefe de estación dio su conformidad con los trabajos en los lugares indicados. Como medio de comunicación se determinó el radioteléfono y el tiempo necesario para despejar el lugar de trabajo se fijó en 120 segundos. A continuación, el jefe de trabajos entregó al jefe de estación la etiqueta de seguridad, que el jefe de estación de Odb. Brno-Židenice colocó en el pupitre de control del aparato de enclavamiento con relevos para la identificación del desvío n.º 19.
-A la hora 19:26 h se notificó al jefe de estación de Odb. Brno-Židenice que el grupo de trabajo comenzaba a trabajar en el desvío n.º 19. El jefe de estación confirmó esta información. Posteriormente, a la hora 19:27 h, el jefe de estación de Odb. Brno-Židenice comunicó por radioteléfono al empleado de CPS en función de patrulla de seguridad que por la vía n.º 6 circularía un tren hacia la est. Brno-Maloměřice. Esta información fue confirmada por la patrulla de seguridad, indicando que esperarían y comenzarían a trabajar tras el paso de dicho tren. A las 19:32 h, la patrulla de seguridad solicitó por radioteléfono al jefe de estación de Odb. Brno-Židenice el cambio del desvío n.º 19, lo cual el jefe de estación realizó. A continuación, la comunicación se desarrolló de forma estándar. A la hora 19:49 h, el jefe de estación de Odb. Brno-Židenice contactó por radioteléfono con la patrulla de seguridad para informarles de que por la 4.ª vía, a su lado, circularía un tren de mercancías,
+El gestor de la vía SŽ comunicó el 14 de febrero de 2022 en su perfil
+https://zakazky.spravazeleznic.cz la adjudicación de un procedimiento de licitación para un contrato público denominado «Údržba, opravy a odstraňování závad u ST Brno 2022 – 2023» (Mantenimiento, reparación y eliminación de defectos en ST Brno 2022 – 2023). En virtud de dicho procedimiento, se seleccionó como oferta más ventajosa la de la empresa SEŽEV-REKO, a.s. para la ejecución del Contrato Público. Dicha empresa firmó con SŽ el 31 de marzo de 2022 el Marco de Acuerdo para la ejecución de obras de construcción «Údržba, opravy a odstraňování závad u ST Brno 2022 – 2023».
+La empresa SEŽEV-REKO, a.s. cedió posteriormente el contrato a la empresa LEITNER s. r. o., en virtud del Marco de Acuerdo para la ejecución de obras de construcción de fecha 3 de enero de 2023. En virtud del pedido n.º OBJ_108_223_003 de fecha 7 de agosto de 2023, la empresa SEŽEV-REKO, a.s. encargó a la empresa LEITNER s. r. o. el cambio de traviesas en Odb. Brno-Židenice con plazo de entrega hasta finales de octubre de 2023. La empresa LEITNER s. r. o. tenía además celebrado un contrato de ejecución de obra con la empresa CROSSROADS GATE, s. r. o. La empresa SEŽEV-REKO, a.s., con la firma de este contrato, se comprometió a cumplir la legislación generalmente vinculante vigente, las leyes y los decretos de la República Checa y, entre otros, también las normas internas y las directrices del contratante, es decir, del gestor de la vía, y fue debidamente dada de alta en el sistema de información «Portál správy železnic, Řízení provozu» (Portal de gestión ferroviaria, Gestión de la explotación). El cambio de traviesas se llevó a cabo también en los días anteriores a la ocurrencia del SU.
+El 6 de octubre de 2023 fue el último día en que debían realizarse los trabajos y debían cambiarse las últimas 4 traviesas. Ese mismo día, los trabajos fueron registrados en la aplicación de explotación del gestor de la vía «Evidence vstupů CPS» (Registro de accesos CPS), indicando el nombre del director de trabajos y su número de teléfono de contacto. A las 19:25 h, el jefe de estación de Odb. Brno-Židenice acordó con el empleado de CPS (director de trabajos) las condiciones de trabajo en el desvío n.º 19 y en el cruzamiento 3 – 13, y realizaron una anotación en el cuaderno telefónico. El jefe de estación dio su conformidad con el trabajo en los lugares indicados. Como medio de comunicación se determinó la estación de radio y el tiempo necesario para despejar el puesto de trabajo se fijó en 120 segundos. A continuación, el director entregó al jefe de estación la placa de seguridad, que el jefe de estación de Odb. Brno-Židenice colocó en el pupitre de mando del aparato de enclavamiento con relés para señalizar el desvío n.º 19.
+A las 19:26 h se comunicó al jefe de estación de Odb. Brno-Židenice que el grupo de trabajo comenzaba a trabajar en el desvío n.º 19. El jefe de estación confirmó esta información. Posteriormente, a las 19:27 h, el jefe de estación de Odb. Brno-Židenice comunicó por estación de radio al empleado de CPS en calidad de vigilante de seguridad que por la vía n.º 6 circularía un tren hacia la est. Brno-Maloměřice. Esta información fue confirmada por el vigilante de seguridad, indicando que esperarían y comenzarían a trabajar una vez que hubiera pasado dicho tren. A las 19:32 h, el vigilante de seguridad solicitó por estación de radio al jefe de estación de Odb. Brno-Židenice el cambio del desvío n.º 19, lo que el jefe de estación realizó. A continuación, la comunicación se desarrolló de forma estándar. A las 19:49 h, el jefe de estación de Odb. Brno-Židenice contactó por estación de radio con el vigilante de seguridad para informarle de que por la vía n.º 4, junto a ellos, circularía un tren de mercancías,
 
 ## Página 22
+
 
 añadiendo si debía informarles también de esta 4.ª vía (nota de la DI: se trataba de la vía de trazado n.º T4). La patrulla de seguridad confirmó la información e indicó que el jefe de estación les informara también de la 4.ª vía, ya que trabajan a veces cerca de esta vía, y a continuación, que la vía estaba libre. Desde la est. Brno-Maloměřice partió a las 19:48 h el tren Mn 82720, que en el espacio de la vía de trazado a las 19:51 h chocó con un empleado de CPS que se encontraba en el perfil de paso de la vía de trazado n.º T4, y lo mató en el lugar.
 ### 3.2.2 Secuencia de hechos desde la producción del suceso excepcional hasta la finalización de las acciones de los servicios de emergencia
@@ -671,6 +678,7 @@ HZS de la Región de Moravia del Sur.
 
 ## Página 23
 
+
 ## 4 ANÁLISIS DEL SUCESO
 ### 4.1 Tareas y obligaciones
 ### 4.1.1 Ferroviarias y gestores de infraestructura
@@ -682,8 +690,8 @@ El maquinista del tren Mn 82720, durante la marcha desde la est. Brno-Maloměři
 La ausencia de medios técnicos en el DV para la realización de la orden de parada automática del DV implica la presencia necesaria de un eslabón intermedio adicional (el maquinista) para su parada en caso de amenaza de peligro. Por ejemplo, ante una grave indisposición repentina del maquinista, no es posible parar el DV (tren) en la red GSM-R CZ. En los demás casos, la implicación del maquinista en el proceso de parada de emergencia del DV (tren) supone la pérdida de segundos, a menudo valiosos, para evitar consecuencias más graves.
 Las especificaciones técnicas de interoperabilidad no exigen que el DV esté equipado para recibir la orden de parada general, ya que se trata de la denominada «función complementaria» y la «extensión nacional» del sistema GSM-R. En el extranjero, en la red GSM-R se utiliza únicamente la denominada llamada grupal de emergencia (Railway Emergency Call; SKP 299), que garantiza la reproducción de la llamada automática de voz de parada en el aparato de radio del correspondiente responsable del DV, independientemente de la activación de las funciones complementarias
 
-
 ## Página 24
+
 
 con las que en la República Checa se emplea la adición de un comando codificado con la orden de parada del tren (llamada unidireccional JSM 499). La DI es consciente de que el requisito que se deriva para el sistema GSM-R de lo dispuesto en el § 71 apartado 5 letra a) del decreto nº 173/1995 Sb. no está incluido en las especificaciones técnicas de interoperabilidad, o bien, al ser un requisito de acceso a la infraestructura más allá del TSI, contradice el principio de interoperabilidad. El decreto nº 173/1995 Sb. no admite, sin embargo, ninguna excepción, lo cual, en opinión de la DI, es correcto en aras de la seguridad.
 ### Hallazgos:
@@ -703,8 +711,8 @@ En la investigación no se constató infracción de las tareas y obligaciones de
 La autoridad nacional de seguridad es la DÚ, que de acuerdo con la ley nº 266/1994 Sb. es la autoridad administrativa dependiente del Ministerio de Transporte. Su función es, en particular, el ejercicio de la supervisión estatal en materia de infraestructuras y en materia de autoridad de construcción, el ejercicio de la autoridad de construcción especial para obras de infraestructura y obras en la infraestructura, la aprobación de vehículos ferroviarios nuevos y modernizados y de equipos técnicos designados, así como la tramitación de infracciones. La obligación de la DÚ es comunicar a la DI, en un plazo de 12 meses desde la fecha de publicación del informe final que contenga las recomendaciones de seguridad dirigidas a ella, qué medida ha adoptado en relación con dicha recomendación de seguridad; esta comunicación la realiza de forma regular, al menos una vez al año, hasta la adopción de las medidas correspondientes.
 La función de la Agencia Ferroviaria de la Unión Europea es, además de garantizar, en el marco de sus competencias, que se mantenga y, en la medida de lo posible, se aumente de forma sistemática la seguridad
 
-
 ## Página 25
+
 
 de los ferrocarriles, entre otros, la emisión, renovación, suspensión y modificación de certificados de seguridad uniformes, la limitación de su vigencia o su cancelación, actuando en esta materia en colaboración con las autoridades nacionales de seguridad; asimismo, emite autorizaciones para la comercialización de vehículos ferroviarios y de tipos de vehículos y está facultada para renovar, modificar, suspender o cancelar las autorizaciones que haya emitido. La Agencia evalúa, además, los proyectos de normativa nacional, etc.
 En la investigación no se constató infracción de las tareas y obligaciones de la autoridad nacional de seguridad y de la Agencia Ferroviaria de la Unión Europea.
@@ -718,6 +726,7 @@ Los trabajos realizados por CPS en las instalaciones del gestor de la infraestru
 Los empleados de CPS que trabajaban el día de la aparición del SU en Odb. Brno-Židenice fueron formados e informados, antes del inicio de los trabajos, entre otros, sobre los accesos al puesto de trabajo, el trabajo y el movimiento de los empleados en la vía, el trabajo con visibilidad reducida, el trabajo bajo tensión elevada, el trabajo con grúa y en sus inmediaciones, la prohibición de consumir bebidas alcohólicas, la prohibición de abandonar el puesto de trabajo sin conocimiento del encargado de la dirección de los trabajos, y también se les instruyó sobre los procedimientos tecnológicos para el cambio de traviesas en el desvío nº 19, con instrucción sobre el desplazamiento fuera de la vía. Esta instrucción la firmaron, en el impreso «Libro de instrucciones», seis empleados de CPS, incluido el empleado de CPS al que posteriormente se le causó el perjuicio.
 
 ## Página 26
+
 
 Según los materiales presentados, a estos 6 empleados de CPS se les tramitó y autorizó el acceso a la vía de circulación en servicio.
 La investigación determinó además que el director de trabajos era empleado de la empresa LEITNER, s. r. o., y que el empleado de CPS en función de vigilante de seguridad trabajaba como trabajador autónomo. El empleado de CPS al que se causó el daño era empleado de la empresa CROSSROADS GATE, s. r. o. Estos empleados estaban cualificados técnica y médicamente también para las actividades laborales relacionadas con el cambio de traviesas en la aguja n.º 19, incluidos los conocimientos de los riesgos de explotación de la vía y del transporte ferroviario. Según las grabaciones de cámaras, trabajaban en las inmediaciones del lugar del accidente 8 empleados de CPS. Quiénes eran los otros dos empleados, el representante de la empresa LEITNER s. r. o. no fue capaz de decirlo. Este hecho tampoco lo aclaró el administrador de la empresa CROSSROADS GATE, s. r. o. Dado que el empleado de CPS en función de vigilante de seguridad y el director de trabajos se negaron a prestar declaración a la DI, la investigación no logró determinar quiénes eran estos dos trabajadores.
@@ -734,8 +743,8 @@ comunicación de la finalización de los trabajos en instalaciones.
 Antes de realizar el trabajo en una vía de circulación en servicio no excluida el 6 de octubre de 2023, el empleado de CPS en función de director de trabajos se presentó en la oficina de tráfico de Odb. Brno-Židenice y concertó con el empleado ferroviario las condiciones de trabajo en instalaciones y le entregó la placa de seguridad. Cabe señalar que, al entregar la placa de seguridad, el director de trabajos no se eximió de la responsabilidad sobre su propia seguridad, ni en su caso de la responsabilidad de asegurar la seguridad de las personas en el puesto de trabajo. La investigación no detectó infracción de los artículos de la norma al concertar las condiciones en instalaciones, incluida la anotación en el Registro Telefónico. La seguridad del puesto de trabajo se aseguró sobre la base de la información facilitada por el vigilante de seguridad sobre la circulación de vehículos, concretamente mediante un aparato de telecomunicaciones, en concreto una estación de radio.
 El vigilante de seguridad es uno o varios empleados designados para la vigilancia de los demás empleados que trabajan en la vía de circulación en servicio o en las inmediaciones de una vía en servicio no excluida. El vigilante de seguridad que vigila a los empleados tiene prohibido dedicarse a otra actividad. Durante los trabajos en instalaciones está obligado a vigilar constantemente el movimiento de vehículos en la vía de circulación en servicio y a avisar de forma oportuna y fiable a los empleados vigilados. Asimismo, el vigilante de seguridad solo puede entrar y desplazarse en la vía férrea con el fin de realizar el trabajo, con una atención elevada a la circulación, estando obligado a cuidar de su propia seguridad y, antes de la circulación de un DV, a adoptar una posición que no le exponga a ser alcanzado por la carga suelta, ganchos, cadenas, cuerdas, puertas abiertas u otras partes del DV, a cumplir las instrucciones del explotador de la vía para el aseguramiento de la seguridad de las personas y de la seguridad de la explotación de la vía y del transporte ferroviario, y a abstenerse de todo lo que pudiera perturbar o poner en peligro la explotación de la vía y del transporte ferroviario. El vigilante de seguridad facilita información sobre la circulación de DV de modo que el empleado responsable
 
-
 ## Página 27
+
 
 pueda dar a tiempo la instrucción de desalojo del puesto de trabajo, o avisar a los empleados vigilados de la circulación de un DV.
 Todos los trabajos fueron realizados por el contratista, en el momento del accidente, en la vía en servicio no excluida n.º 6 de Odb. Brno-Židenice. El vigilante de seguridad fue designado por el director de trabajos y estaba formado por un empleado de CPS, que se comunicaba con el jefe de estación de Odb. Brno-Židenice. El director de trabajos hizo confirmar por escrito la asunción de la función de vigilante de seguridad.
@@ -746,8 +755,8 @@ El modo concreto en que se desarrolló la comunicación y el cumplimiento de las
 Del análisis de la grabación del velocímetro de la locomotora se determinó que el tren Mn 82720 partía de la est. Brno-Maloměřice. A los 16 s del inicio de la grabación, el tren pasaba junto a la señal de salida con la señal «Velocidad 40 km/h y aviso». La grabación es además poco legible debido a una iluminación insuficiente. A los 2 min y 9 s del inicio de la grabación, el tren entraba en la parte iluminada de Odb. Brno-Židenice. En el momento de 2 min y 20 s del inicio de la grabación, pasó junto a dos personas que trabajaban en la vía izquierda adyacente (desde el punto de vista del maquinista). Detrás de este par de empleados de CPS había en la misma vía otro grupo de 5 empleados de CPS que trabajaban allí (se encontraban en la aguja n.º 19). Dos personas trabajaban en la aguja y una tercera persona se encontraba entre la vía en la que se realizaban los trabajos y la vía por la que circulaba el tren, y observaba el trabajo de estas dos personas de espaldas al tren que se aproximaba, sin reaccionar de ninguna manera a su circulación. Detrás de ellos, en el espacio entre la vía n.º 6 y la n.º 8, se encontraba una excavadora pequeña que movía su brazo.
 Otras dos personas de este grupo se encontraban a unos 2 m detrás de los demás. Arrastraban a través de la vía en la que trabajaban, en dirección a la vía por la que circulaba el tren, algún objeto. La persona que iba en primer lugar del par se desplazaba dinámicamente hacia la vía por la que circulaba el tren, con el lado izquierdo orientado hacia la vía por la que se aproximaba el tren y la cara girada en la dirección del tren que se aproximaba (se trata de la persona a la que se causó el daño). No interrumpió su desplazamiento y seguía caminando hacia la vía por la que circulaba el tren ligeramente en sentido contrario. Tenía extendido el brazo izquierdo delante del cuerpo hacia la vía por la que pasaba el tren. Además, de la grabación no se deduce si
 
-
 ## Página 28
+
 
 la persona detuvo su desplazamiento hacia la vía por la que circulaba el tren, pero mantenía el brazo izquierdo extendido delante del cuerpo en dirección a la vía por la que circulaba el tren. En el momento de 2 min 24 s, el frontal de la locomotora del tren 82720 pasaba junto a la persona descrita anteriormente, pudiéndose observar su brazo izquierdo extendido a considerable proximidad sobre el carril izquierdo de la vía por la que circulaba el tren. Cómo se produjo la colisión del tren con esta persona ya no es visible en la grabación. El tren Mn 82720 continuó su marcha, pasó la señal de entrada n.º 4MS y se detuvo en el momento de 2 min 43 s del inicio de la grabación.
 Del análisis más detallado de la situación en las grabaciones de cámaras descritas anteriormente, la DI determinó que los empleados de CPS no abandonaron el puesto de trabajo en la vía n.º 6 y, en el momento del paso del tren Mn 82720 por la vía adyacente, trabajaban manifiestamente. Los dos primeros empleados, que la DI no logró identificar, muy probablemente manipulaban mecánicamente tornillos o pernos detrás del corazón de la aguja, a una distancia de unos 30 m por delante del grupo principal de cinco empleados; el sexto operaba la excavadora pequeña. Dos de este grupo principal estaban en movimiento, como si retiraran la grava con herramienta manual en la aguja. Uno de estos dos empleados que trabajaban era el director de trabajos, que así no garantizó la seguridad de los miembros del grupo de trabajo. El tercer empleado, que se encontraba entre la vía n.º 6, en la que se realizaban los trabajos, y la TK n.º T4, por la que circulaba el tren, y observaba, de espaldas al tren que pasaba, el trabajo de estos dos empleados, era el empleado designado por el director de trabajos para la función de vigilante de seguridad. Este empleado en función de vigilante de seguridad no observó ni reaccionó de ninguna manera a la circulación del tren Mn 82720 por la vía adyacente, es decir, no vigiló el movimiento de vehículos en la vía de circulación en servicio. Tampoco vigiló el eventual movimiento de vehículos directamente en la vía en servicio con el puesto de trabajo. Detrás de ellos, en el espacio entre la vía n.º 6 y la n.º 8, se encontraba una excavadora pequeña que, durante el paso del tren Mn 82720, movía su brazo de trabajo.
@@ -757,6 +766,7 @@ El director de trabajos indicó asimismo que, tras la instrucción del vigilante
 Si el empleado de CPS en función de vigilante de seguridad comunicó realmente al director de trabajos y a los demás empleados la información sobre el tren que circulaba y la instrucción de abandonar el puesto de trabajo, y con ello garantizó la transmisión oportuna de esta información hacia el puesto de trabajo, la DI no puede desmentirlo ni confirmarlo. No obstante, la afirmación del empleado de CPS en función
 
 ## Página 29
+
 
 de la patrulla de seguridad, la orden de abandonar el puesto de trabajo fue efectivamente cumplida, lo que el registro de vídeo de la HDV desmiente de manera inequívoca (véase el análisis del registro más arriba). Las labores no fueron interrumpidas de forma demostrable y un grupo de empleados de la CPS continuó realizándolas, a pesar de que por la vía adyacente circulaba el tren Mn 82720, encontrándose la patrulla de seguridad entre las vías con la espalda al tren.
 El jefe de trabajos no se aseguró de que los trabajadores adoptaran una posición en la que no se viera amenazada su seguridad, ni comprobó que se mantuviera el perfil libre para la circulación de la TK n.º T4 para la circulación del tren Mn 82720. Con esta actuación inconsistente, permitió a los empleados de la CPS, durante la circulación del tren Mn 82720 desde la est. Brno-Maloměřice, su entrada en el perfil libre de la TK n.º T4 en servicio Brno-Maloměřice – Emp. Brno-Židenice durante la circulación del tren Mn 82720. Del registro de los momentos críticos del tren que se aproximaba y circulaba junto al puesto de trabajo se deduce que nadie lo registró, no se controló la salida de la vía ni el mantenimiento del perfil libre, y todos continuaron con el trabajo.
@@ -782,8 +792,8 @@ art. 3 punto 6 de la norma interna SŽ Bp1:
 art. 6 punto 8 de la norma interna SŽ Bp1:
 «Ante el paso previsto de vehículos ferroviarios, los empleados deben adoptar una posición en la que no se vea amenazada su seguridad.»;
 
-
 ## Página 30
+
 
 •
 art. 6 punto 9 de la norma interna SŽ Bp1:
@@ -812,8 +822,8 @@ art. 13 punto 9 letra b) de la norma interna SŽ Bp1:
 …..
 b) observar continuamente el movimiento de los vehículos en la vía de circulación en servicio; durante la vigilancia está prohibido ocuparse de otra actividad,».
 
-
 ## Página 31
+
 
 ### 4.2 Vehículos ferroviarios e instalaciones técnicas
 4.2.1 Factores o consecuencias derivados de la construcción de los vehículos ferroviarios, de la infraestructura ferroviaria o de las instalaciones técnicas
@@ -834,8 +844,8 @@ En la investigación no se detectaron factores relacionados con la formación pr
 ### 4.3.2 Factores laborales
 En la investigación no se detectaron factores relacionados con el contenido del trabajo o la jornada laboral de los empleados. En la investigación no se constató, en los empleados implicados, el incumplimiento de las condiciones de descanso antes del turno y de los descansos, respectivamente, del tiempo adecuado para el descanso y la alimentación durante el turno.
 
-
 ## Página 32
+
 
 ### 4.3.3 Factores organizativos y tareas
 En la investigación no se detectaron factores relacionados con la organización del trabajo o con las tareas laborales.
@@ -861,6 +871,7 @@ En la investigación no se detectaron otros factores sistémicos.
 
 ## Página 33
 
+
 ### 4.5 Sucesos anteriores de naturaleza similar
 La DI investigó las causas y circunstancias en el período comprendido entre el 1. 1. 2010 y la fecha de ocurrencia de la MU objeto de estudio en las vías ferroviarias, categoría nacional y regional, de las siguientes MU análogas:
 •
@@ -880,42 +891,37 @@ del 18. 6. 2020 en el tramo entre las estaciones de Lysá nad Labem y Čelákovi
 •
 del 31. 8. 2020 en el tramo entre las estaciones de Balkova Lhota y Božejovice, donde se produjo una colisión del tren Sp 1716 (Tábor – Strakonice) con un empleado de CPS que trabajaba en la plataforma. La causa inmediata de la MU fue la entrada no autorizada del empleado de una persona jurídica ajena en el gálibo de circulación de la vía de tráfico en servicio no excluida, en el momento en que por dicha vía circulaba el tren Sp 1716;
 
-
 ## Página 34
 
 •
-del 3. 10. 2023 en el tramo entre las estaciones de Bělčice y Blatná, donde se produjo una colisión del tren Sv 98034 con cuatro empleados del gestor de la vía. La causa inmediata de la MU fue la realización de trabajos en instalaciones por parte de empleados del gestor de la vía en la vía de tráfico en servicio no excluida sin garantizar la seguridad y la protección de la salud en el trabajo, concretamente sin acordar las condiciones de trabajo en las instalaciones, sin garantizar la seguridad del puesto de trabajo y sin garantizar la seguridad de las personas en el puesto de trabajo.
+del 3 de octubre de 2023 en el tramo entre la est. Bělčice y Blatná, donde se produjo la colisión del tren Sv 98034 con cuatro empleados del gestor de la vía. La causa inmediata de la aparición del MU fue la realización de trabajos en instalaciones por parte de empleados del gestor de la vía en una vía de tráfico operada no excluida, sin garantizar la seguridad y la protección de la salud en el trabajo, concretamente sin acordar las condiciones de trabajo en las instalaciones, sin garantizar la seguridad del puesto de trabajo y sin garantizar la seguridad de las personas en el puesto de trabajo.
 ## 5 CONCLUSIONES
 ### 5.1 Resumen del análisis y conclusiones relativas a las causas del suceso
 Las causas inmediatas del suceso excepcional fueron:
 •
-la no garantía de la seguridad de los miembros del grupo de trabajo, con la consiguiente entrada del empleado de una persona jurídica ajena en el gálibo de circulación de la vía de tráfico en servicio, en el momento en que por ella circulaba el tren Mn 82720;
+la falta de garantía de la seguridad de los miembros del grupo de trabajo, con la consiguiente entrada de un empleado de una entidad jurídica externa en el perfil de paso de la vía de tráfico operada en el momento en que por ella circulaba el tren Mn 82720;
 •
-la no vigilancia del movimiento de los vehículos en la vía de circulación en servicio por parte de la patrulla de seguridad, que durante la vigilancia se ocupaba de otra actividad.
+la falta de seguimiento del movimiento de los vehículos en la vía de tráfico operada por parte de la patrulla de seguridad, que durante la vigilancia se ocupaba de otra actividad.
 No fue detectado por la Inspección Ferroviaria ningún factor contribuyente.
 No fue detectada por la Inspección Ferroviaria ninguna causa sistémica.
-### A summary of the analysis and conclusions with regard to the causes of the 
-occurrence
-Causal factors:
+### Un resumen del análisis y las conclusiones relativas a las causas del suceso
+Factores causales:
 •
-failure to ensure the safety of members of the work group with consequent entrance 
-of the external worker into the structure gauge of operated track while the freight 
-train No. 82720 was moving;
+la falta de garantía de la seguridad de los miembros del grupo de trabajo, con la consiguiente entrada del trabajador externo en el perfil de paso de la vía de tráfico operada mientras el tren de mercancías n.º 82720 se encontraba en movimiento;
 •
-the security guard did not watch movement of rolling stocks in operated railway 
-infrastructure and it was engaged in another activity.
-Contributing factor: none.
-Systemic factor: none.
-### 5.2 Medidas adoptadas para prevenir los sucesos excepcionales
-El gestor de la vía SŽ adoptó tras la MU las siguientes medidas:
+la patrulla de seguridad no vigilaba el movimiento de los vehículos en la infraestructura ferroviaria operada y se encontraba ocupada en otra actividad.
+Factor contribuyente: ninguno.
+Factor sistémico: ninguno.
+### 5.2 Medidas adoptadas para la prevención de sucesos excepcionales
+El gestor de la vía SŽ adoptó, tras la aparición del MU, las siguientes medidas:
 •
-las causas y circunstancias de la MU serán debatidas en el órgano consultivo del director de la Dirección Regional de Brno en el plazo hasta el 31. 1. 2024;
+las causas y circunstancias de la aparición del MU serán tratadas en el órgano consultivo del director de la Dirección Regional de Brno en el plazo hasta el 31 de enero de 2024;
 •
-se enviará una carta a la empresa SEŽEV-REKO, a.s. con la petición de cumplir estrictamente la norma SŽ Bp1 en la realización de los trabajos de construcción conforme al Marco de Acuerdo «Mantenimiento, reparaciones y eliminación de defectos en ST Brno 2022–2023» en el plazo hasta el 31. 12. 2023.».
+se enviará una carta a la sociedad SEŽEV-REKO, a.s. con la petición de cumplir estrictamente la norma SŽ Bp1 en la realización de los trabajos de construcción conforme al Acuerdo Marco "Mantenimiento, reparaciones y eliminación de defectos en ST Brno 2022–2023" en el plazo hasta el 31 de diciembre de 2023.
 El transportista ČDC no adoptó ni emitió ninguna medida.
 
-
 ## Página 35
+
 
 ### Measures taken since the occurrence
 The infrastructure manager SŽ took the following measures after the occurrence:
@@ -952,8 +958,8 @@ inspector
 De la Inspección Territorial de Brno
 De la Inspección Territorial de Brno
 
-
 ## Página 36
+
 
 ## ANEXOS
 Fig. n.º 4: Vista del lugar de la MU                                                                  Fuente: DI

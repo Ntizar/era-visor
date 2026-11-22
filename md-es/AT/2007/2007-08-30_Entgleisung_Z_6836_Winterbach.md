@@ -10,31 +10,52 @@ chars: 25190
 ratio_longitud: 1.11
 tokens_in: 8507
 tokens_out: 6410
-verificacion: revisar
 fecha_proceso: 2026-11-18
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-avisos: ["página 1: cifras largas: faltan 3/14 (21%)"]
+verificacion: ok
 notas_cifras: ["página 15: cifras cortas: 1/18"]
 ---
+
 ## Página 1
 
 DESCARRILAMIENTO DEL  
 TREN 6836 
 el 30 de agosto de 2007 
-Österreichische Bundesbahnen (Ferrocarriles Federales Austriacos) 
+Ferrocarriles Federales Austríacos 
 Línea 15301 
-Entre las paradas de  
+Entre las paradas  
 Puchenstuben y Winterbach 
-La investigación se realiza de conformidad con la Ley Federal por la que se crea el Organismo de Investigación de Accidentes del Estado (Unfalluntersuchungsgesetz BGBl. I Nr. 123/2005), que entró en vigor el 1 de enero de 2006, y que modifica la Ley de Aviación, la Ley de Ferrocarriles de 1957, la Ley de Navegación y la Ley de Vehículos Automotores de 1967, así como sobre la base de la Directiva 2004/49/CE del Parlamento Europeo y del Consejo, de 29 de abril de 2004. El único objetivo de la investigación es determinar la causa del incidente para prevenir futuros incidentes. La investigación no tiene por objeto determinar la culpa o la responsabilidad. 
-Las denominaciones personales utilizadas se aplican a ambos sexos.  
-Sin autorización escrita de la Agencia Federal de Transporte (Bundesanstalt für Verkehr), este informe no podrá reproducirse parcialmente. 
-Organismo de Investigación de Accidentes del Estado 
-Área especializada: Ferrocarril 
+La investigación se realiza de conformidad 
+con la ley federal BMVIT-795.076-II/BAV/UUB/SCH/2007 
+en vigor desde el 1 de enero de 2006, 
+por la que se crea la Oficina Federal de Investigación de Accidentes (ley de investigación de accidentes, BGBl. I Nr. 123/2005) y 
+se modifican la Ley de Aviación, la Ley de Ferrocarriles de 1957, 
+la Ley de Navegación y la Ley de Tráfico por Carretera 
+de 1967, así como sobre la base de la 
+Directiva 2004/49/CE del Parlamento Europeo 
+y del Consejo de 29 de abril de 2004. El objeto de la 
+investigación es exclusivamente la determinación 
+de la causa del suceso para la prevención de futuros 
+sucesos. La investigación no sirve para 
+determinar la culpa o la responsabilidad. 
+En 
+las 
+denominaciones 
+relativas 
+a 
+personas 
+utilizadas, la forma elegida se aplica a ambos 
+sexos.  
+Sin autorización escrita de la Oficina Federal 
+Oficina Federal de Investigación de Accidentes 
+de Transporte, este informe no podrá reproducirse 
+parcialmente. 
+Ámbito ferroviario 
 Dirección postal: A-1210 Viena, Lohnergasse 9 
-Informe de investigación 
-
+Informe de investigación
 
 ## Página 2
+
 
 ### Índice 
 Página 
@@ -85,6 +106,7 @@ Disposiciones adicionales a la normativa de señalización y explotación
 
 ## Página 3
 
+
 ### 1. Resumen
 El 30 de agosto de 2007, a las 17:41 horas, durante la marcha del tren 6836, entre los apeaderos Puchenstuben y Winterbach, en el pk 60,285, descarriló el vehículo tractor (Tfz) 1099 016-6 con cinco de sus seis ejes y quedó detenido en el pk 60,217, con la punta del vehículo desplazada aproximadamente 50 cm hacia la derecha respecto al sentido de la marcha.
 Los 22 viajeros, el conductor del vehículo tractor (Tfzf) y el jefe de tren resultaron ilesos.
@@ -114,8 +136,8 @@ Composición:
 • Porcentaje de frenado disponible 65 % (según cálculo de frenado)
 • Frenado insuficiente (no se requiere prescripción adicional según la lista de despacho/dispoliste)
 
-
 ## Página 4
+
 
 ### 6. Condiciones locales especiales
 El lugar del descarrilamiento se encuentra en el pk 60,285 (curva a izquierda en el sentido de la marcha del tren, radio de 98,6 m, pendiente de 23 a 24 ‰) de la línea única electrificada ÖBB 15301, vía estrecha de 760 mm de ancho, desde St. Pölten Hbf hasta la estación Mariazell. La gestión operativa se realiza conforme a las disposiciones y directrices de ÖBB DV V2 ("Reglamento de señalización"), ÖBB DV V3 ("Reglamento de explotación"), ÖBB DV V7 ("Explotación en líneas de vía estrecha") y las ÖBB ZSB y ÖBB DB.
@@ -124,8 +146,8 @@ Extracto del VzG (Plan general de vías) Línea 15301
 Lugar del descarrilamiento pk 60,285
 Extracto del horario oficial ÖBB Cuaderno 130
 
-
 ## Página 5
+
 
 Conforme al horario oficial ÖBB Cuaderno 130, la velocidad máxima permitida en este tramo es de 40 km/h.
 Extracto de la lista de despacho (Dispoliste)
@@ -133,8 +155,8 @@ A pesar de un déficit en el porcentaje de frenado (según cálculo de frenado 6
 Velocidad máxima del vehículo más lento (vmax)
 Para el vehículo tractor Tfz 1099 016-6 y el vagón plataforma SKl X532 002-3, la velocidad máxima permitida es vmax = 45 km/h.
 
-
 ## Página 6
+
 
 ### 7. Descripción del incidente
 El 30 de agosto de 2007, a las 17:41 horas, durante la marcha del tren 6836 (recorrido desde la estación Mitterbach hasta la estación St. Pölten Hbf) entre los apeaderos Puchenstuben y Winterbach, en el pk 60,285, descarriló el vehículo tractor del tren, concretamente con:
@@ -156,8 +178,8 @@ Jefe de tren del tren Z 6836
 10.1. Declaración del conductor del vehículo tractor (Tfzf) del tren Z 6836
 Tras la salida del apeadero Puchenstuben, el tren fue acelerado hasta 40 km/h. Al entrar en la zona de pendiente, la velocidad se redujo a 37 km/h. En el pk 60,300 se produjo el descarrilamiento del vehículo tractor 1099 016 con cinco ejes, sin señales previas. Se aplicó inmediatamente un frenado de emergencia. El vehículo quedó detenido tras aproximadamente 70 m.
 
-
 ## Página 7
+
 
 10.2. Declaración del jefe de tren del tren Z 6836
 En el tren Z 6836 se realizó un frenado de emergencia (fuerte). Tras la detención del tren, se observó a través de las ventanas de ambos lados del coche que la catenaria parecía estar en buen estado. Al mirar hacia adelante, se constató que la locomotora había descarrilado hacia la derecha en el sentido de la marcha con su bogie delantero. El conductor del vehículo tractor (Tfzf) se encontraba fuera de la locomotora; no presentaba lesiones evidentes.
@@ -167,8 +189,8 @@ Equipo registrador del vehículo tractor:
 El análisis del equipo registrador realizado por ÖBB-Traktion GmbH reveló que el frenado de emergencia se inició desde una velocidad de v = 37 km/h.
 La velocidad permitida fue respetada.
 
-
 ## Página 8
+
 
 Inspección del vehículo:
 Durante la inspección del vehículo tractor realizada por ÖBB-Technische Services GmbH, División de Vía Estrecha, se obtuvieron los siguientes resultados (extracto):
@@ -177,8 +199,8 @@ lado derecho según conversación telefónica con Technische Services GmbH, Divi
 Bogies (extracto del informe pericial):
 No se pudieron detectar cambios, posibles grietas ni posibles daños previos en los propios bogies por parte de ÖBB-Technische Services GmbH.
 
-
 ## Página 9
+
 
 Mantenimiento:
 Las revisiones operativas obligatorias (BU) se determinan computacionalmente mediante el "Programa informático Lokumlauf" basándose en el kilometraje recorrido, conforme a la ÖBB-DV M60 "Mantenimiento de vehículos tractores". El momento para la BU establecido de esta forma mediante el programa informático utilizado coincide con la última BU realizada antes de alcanzar el kilometraje real.
@@ -189,8 +211,8 @@ Estado de la vía tras el descarrilamiento:
 ### Movimiento transversal de la placa de apoyo
 Sujeción de carril (Kleineisen) aprox. 10 m antes del lugar del descarrilamiento
 
-
 ## Página 10
+
 
 ### Sentido de la marcha
 ### Movimiento transversal de la placa de apoyo
@@ -202,6 +224,7 @@ Ancho de vía inadmisible ampliado en 33, 30, 22 mm
 
 ## Página 11
 
+
 Según el informe sobre el estado de la superestructura, la última renovación integral de la vía en la zona del descarrilamiento se realizó mediante máquina apisonadora en 1996; por lo demás, se llevaron a cabo trabajos de vía anuales (sin especificación detallada del alcance ni de la fecha de los últimos trabajos de vía).
 10.5. Informe sobre el estado de conservación de la infraestructura ferroviaria
 ÖBB-Infrastruktur Betrieb AG emitió el siguiente informe sobre el estado de conservación de la infraestructura ferroviaria en el punto del descarrilamiento:
@@ -209,8 +232,8 @@ Las «Medidas ÖBB» no fueron explicadas.
 En una consulta telefónica con el autor del informe, se indicó que la velocidad durante la medición era de aprox. 1 m/s. No se pudo proporcionar información alguna sobre la masa del dispositivo de inspección.
 El «problema con las fijaciones de vía» detectado el 16 de octubre de 2006 evolucionó aparentemente hasta constituir un estado causal del descarrilamiento ocurrido el 30 de agosto de 2007.
 
-
 ## Página 12
+
 
 ### 11. Resumen de los hallazgos
 11.1. Actuaciones del maquinista del tren Z 6836
@@ -233,8 +256,8 @@ En las disposiciones del DB IS 2 «Plan de mantenimiento», Parte 1: Instalacion
 • 
 Punto 3.5 «Inspección de fijaciones de vía y traviesas»: En el marco de la inspección anual, debe evaluarse el estado de las fijaciones de vía y las traviesas y comprobarse mediante muestreo puntual.
 
-
 ## Página 13
+
 
 • 
 los plazos para las inspecciones figuran en el Anexo 1.1 «Listado de plazos de inspección»:
@@ -253,8 +276,8 @@ Cálculo de frenado
 12.2. 
 Conforme a la lista de vehículos siguiente, para el cálculo de frenado solo se tuvieron en cuenta los vehículos y el SKl X532 002-3 enganchado como remolque libre en cola del tren, obteniéndose como resultado Bh = 65 %.
 
-
 ## Página 14
+
 
 Conforme a la ÖBB DV V3, § 28 (6), deben considerarse en el cálculo todos los frenos atendidos y aptos (también los del material motor). Esto da lugar, tras redondeo matemático, a Bh = 66 %.  
 En este caso, dicha diferencia no es determinante.
@@ -282,6 +305,7 @@ Proveedores de tracción
 
 ## Página 15
 
+
 Las siguientes medidas relativas a las recomendaciones de seguridad han sido ya comunicadas a la UUB:
 
 | Medida | Punto | Por parte de |
@@ -299,16 +323,16 @@ Ing. Johannes Piringer [firma]
 
 Anexo Documentación fotográfica
 
-
 ## Página 16
+
 
 ### Anexo Documentación fotográfica
 
 Bogie delantero Tfz 1099 016-6   Å Dirección de marcha
 izquierda de la vía                          Tfz 1099 016-6 descarrilado                      derecha de la vía
 
-
 ## Página 17
+
 
 ### Observaciones
 

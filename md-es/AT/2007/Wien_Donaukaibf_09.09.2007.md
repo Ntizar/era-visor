@@ -10,13 +10,14 @@ chars: 35047
 ratio_longitud: 1.08
 tokens_in: 13134
 tokens_out: 9983
-verificacion: revisar
 fecha_proceso: 2026-11-18
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-avisos: ["página 22: ratio 1.78", "página 32: ratio 1.74", "página 35: ratio 1.61"]
-notas_cifras: ["página 9: cifras cortas: 4/15", "página 10: cifras cortas: 1/10", "página 14: cifras cortas: 1/9"]
+verificacion: ok
+notas_cifras: ["página 9: cifras cortas: 4/15", "página 10: cifras cortas: 1/10", "página 14: cifras cortas: 1/9", "página 30: ratio 0.56"]
 ---
+
 ## Página 1
+
 
 DESCARRILAMIENTO DEL  
 TREN 41328 
@@ -31,9 +32,10 @@ Organismo de Investigación de Accidentes de la Federación
 Departamento Especializado de Vía Férrea 
 Este informe no podrá reproducirse parcialmente sin autorización escrita de la Agencia Federal de Transporte. 
 Dirección postal: A-1210 Wien, Lohnergasse 9 
-Informe de investigación 
+Informe de investigación
 
 ## Página 2
+
 
 ### Índice 
 ### Página 
@@ -119,6 +121,7 @@ Anexo Informes..................................................................
 
 ## Página 3
 
+
 ### Índice de abreviaturas
 AVV 
 Convenio general sobre el uso de vagones de mercancías 
@@ -167,10 +170,10 @@ El 9 de septiembre de 2007, a las 03:38 horas, descarriló en la línea ÖBB 132
 El descarrilamiento en el p.k. 1,467, seguido de la pérdida del eje (salida lateral del bogie hacia la izquierda de la vía) en el p.k. 1,639, no provocó daños mayores en la composición del tren, por lo que el maquinista del Z 41328 no percibió el incidente y continuó la marcha del tren conforme al itinerario previsto.  
 Debido a la pérdida del eje, se hundió el soporte del bogie afectado en la zona de suspensión del eje perdido y, posteriormente, dañó los equipos de seguridad instalados en la zona de la vía transitada (contadores de ejes e imanes de vía del sistema PZB). En relación con el daño causado a los contadores de ejes, se produjeron fallos en los sistemas de detección de ocupación de vía. En la estación Klosterneuburg-Weidling, el tren fue detenido y sometido a una inspección del tren.  
 Durante la inspección realizada por el maquinista, se detectó la ausencia de un soporte de muelle así como la falta de un eje en el 10.º coche. 
-Los 27 pasajeros presentes en el tren (conductores de camiones en el coche acompañante) y el maquinista no resultaron heridos durante el incidente. 
-
+Los 27 pasajeros presentes en el tren (conductores de camiones en el coche acompañante) y el maquinista no resultaron heridos durante el incidente.
 
 ## Página 4
+
 
 ### 2. Lugar 
 IM ÖBB-Infrastruktur Betrieb AG 
@@ -190,10 +193,10 @@ Lluvia, +10 °C, no existían restricciones de visibilidad debidas a las condici
 5.1. 
 Generalidades 
 El lugar del suceso se encuentra, en la dirección de marcha del tren, en una curva a la izquierda (radio 200 m) con una pendiente descendente del 12 ‰ en el p.k. 1,467 (zona antes del paso a nivel en el p.k. 1,647) de la línea ÖBB 13201, de vía única y electrificada, desde la estación Wien Erdbergerlände hasta Wien Donaukaibf, dentro de la estación Wien Donaukaibf. La gestión operativa se realiza conforme a las disposiciones y directrices de la ÖBB DV V2 («Instrucción de señalización»), ÖBB DV V3 («Instrucción de circulación») y ZSB. 
-Plano de situación: 
-
+Plano de situación:
 
 ## Página 5
+
 
 En la zona del incidente son determinantes las siguientes velocidades: 
 5.2. 
@@ -205,10 +208,10 @@ Horario oficial
 La velocidad permitida según el horario oficial de ÖBB es de 50 km/h. 
 5.4. 
 Velocidad señalizada 
-Al entrar en la estación Wien Donaukaibf por la vía 103, procedente de la estación Wien Erdbergerlände, la velocidad señalizada es de 40 km/h. 
-
+Al entrar en la estación Wien Donaukaibf por la vía 103, procedente de la estación Wien Erdbergerlände, la velocidad señalizada es de 40 km/h.
 
 ## Página 6
+
 
 ### 6. Composición de los trayectos implicados 
 Z 41328 (tren RoLa de la empresa ferroviaria ÖBB-Rail Cargo Austria AG) 
@@ -229,10 +232,10 @@ Composición:
 Durante la marcha del tren Z 41328 desde la estación Wien Erdbergerlände hasta la estación Wien Donaukaibf, descarriló a una velocidad de marcha de 33 km/h, en el p.k. 1,467 de la estación Wien Donaukaibf, el 10.º coche (coche RoLa de CFR 81 53 498 3 066-2) con el 8.º eje. 
 Como consecuencia del descarrilamiento, el 8.º eje salió lateralmente del bogie, produciéndose posteriormente la pérdida del mismo. El eje desprendido quedó situado, en la dirección de marcha hacia la izquierda, en el p.k. 1,639 inmediatamente antes del paso a nivel en el p.k. 1,647, tras impactar contra un contenedor de residuos.  
 La pérdida del eje pasó desapercibida para el maquinista, por lo que el tren continuó su marcha. Debido a la pérdida del 8.º eje, se produjo el descenso del soporte del eje y, consecuentemente, la rotura de las cajas de rodamiento del 7.º eje delantero. El descenso de la parte del bogie causó daños en los imanes de vía del sistema PZB y en los dispositivos contadores de ejes, lo que originó fallos en el sistema de detección de ocupación de vía.  
-El tren fue detenido por señal en la estación Klosterneuburg-Weidling y examinado visualmente por el maquinista. Durante la inspección, se detectó la ausencia de un soporte de muelle en el lado izquierdo en la dirección de marcha, así como la falta del 8.º eje del 10.º coche.  
-
+El tren fue detenido por señal en la estación Klosterneuburg-Weidling y examinado visualmente por el maquinista. Durante la inspección, se detectó la ausencia de un soporte de muelle en el lado izquierdo en la dirección de marcha, así como la falta del 8.º eje del 10.º coche.
 
 ## Página 7
+
 
 Representación: 
 8.º eje desprendido
@@ -241,10 +244,10 @@ Caja de rodamiento rota del 7.º eje
 Bogie director de 5 ejes 
 Eje:   10              9                8               7                6 
   Bogie de 2 ejes             Bogie de 3 ejes 
-                     Dirección de marcha del tren 
-
+                     Dirección de marcha del tren
 
 ## Página 8
+
 
 ### 8. Daños materiales 
 8.1. 
@@ -258,6 +261,7 @@ Material rodante
 Coche RoLa descarrilado de CFR 8153 498 3 066-2:
 
 ## Página 9
+
 
 ### 9. Incidencias en la explotación
 Cierre de la vía 103 de la estación de Wien Donaukaibf
@@ -293,8 +297,8 @@ Resultado de la búsqueda de las piezas del vehículo ausentes
 • 
 No se pudo encontrar el soporte de muelle del bogie triaxial a pesar de la intensa búsqueda.
 
-
 ## Página 10
+
 
 • 
 El octavo eje ausente fue encontrado en la estación de Wien Donaukaibf en el pk 1,639.
@@ -323,8 +327,8 @@ Muelle portante
 - Marcas de rozamiento en el interior (debido al soporte de muelle ausente, el muelle portante se desplazó)
 (Parabelfeder)
 
-
 ## Página 11
+
 
 • 
 Eslabones de cadena de enganche recuperados
@@ -336,8 +340,8 @@ Instalación de frenos
 Dispositivo antivuelco
 - Marcas de rozamiento (debido al descenso del bogie del octavo eje, se produjo contacto con los imanes de vía de la PZB y los contadores de ejes)
 
-
 ## Página 12
+
 
 • 
 Séptimo eje delantero
@@ -350,8 +354,8 @@ Alojamiento del soporte de muelle
 - Marcas de rozamiento en la zona de apoyo del soporte de muelle (esto indica la rotura del soporte de muelle)
 - El orificio para el perno de seguridad del soporte de muelle fue soldado
 
-
 ## Página 13
+
 
 • 
 Lengüeta de sujeción del alojamiento del soporte de muelle
@@ -362,8 +366,8 @@ Revisión
 Dirección del vehículo:
 Orden de trabajo del taller para la revisión:
 
-
 ## Página 14
+
 
 11.4. Homologación del vehículo descarrilado
 La UUB verificó posteriormente la homologación del vehículo para circular por las líneas de ÖBB-Infrastruktur Betrieb AG y constató lo siguiente:
@@ -383,6 +387,7 @@ Documentación de ÖBB-Technische Services GmbH
 Según la documentación transmitida (correspondencia del año 2004) para la aplicación del signo «ÖBB» en el vehículo RoLa decapentáxodo de CFR, por parte de ÖBB-Traktion GmbH - Servicio Técnico de Vehículos, se emitió la orden escrita para la aplicación del signo «ÖBB» en la cuadrícula de acuerdo.
 
 ## Página 15
+
 
 11.5. Evaluación de la instalación de diagnóstico de ruedas de la est. Himberg 
 Entre la est. Gramatneusiedl y la est. Himberg se encuentra un punto de control técnico del recorrido del tren, en funcionamiento experimental, que realiza, entre otras cosas, mediciones de ejes y cargas sobre rueda.  
@@ -491,10 +496,10 @@ de 2 ejes
 9.59 
 -85 
 Resultado de la revisión 
-El estado correcto del vagón RoLa descarrilado ya no existía antes del lugar del descarrilamiento. Los límites para las diferencias de carga sobre rueda (1,25 : 1 según RIV) de los distintos ejes en el bogie afectado ya habían sido superados en el punto de medición. El eje descarrilado presentaba ya en el punto de medición un valor de 4,12 t : 1,69 t = 2,44 : 1.  
-
+El estado correcto del vagón RoLa descarrilado ya no existía antes del lugar del descarrilamiento. Los límites para las diferencias de carga sobre rueda (1,25 : 1 según RIV) de los distintos ejes en el bogie afectado ya habían sido superados en el punto de medición. El eje descarrilado presentaba ya en el punto de medición un valor de 4,12 t : 1,69 t = 2,44 : 1.
 
 ## Página 16
+
 
 11.6. Revisión de la documentación de los vehículos 
 La lista de vehículos y la lista de carga fueron aseguradas y revisadas por la UUB. 
@@ -504,10 +509,10 @@ Lista de carga elaborada en la estación de expedición con indicaciones del pes
 10.º vehículo 
 • 
 Lista de carga en la estación de destino con indicaciones del peso total «verificado» (pesada posterior) de la carga. (La lista de carga comienza con el nº 0, por lo tanto, el nº 9 es el 10.º vehículo.) 
-10.º vehículo 
-
+10.º vehículo
 
 ## Página 17
+
 
 • 
 Lista de vehículos elaborada en la estación fronteriza Hegyeshalom 
@@ -521,10 +526,10 @@ El 10.º vehículo descarrilado no estaba sobrecargado según la tabla de límit
 11.7. Evaluación del dispositivo registrador del Tfz 1047 003-2 
 Los registros del dispositivo registrador fueron asegurados inmediatamente después del incidente por encargo de la UUB y evaluados por un empleado de ÖBB-Traktion GmbH. 
 Resultado de la evaluación 
-La velocidad era de aprox. 33 km/h; en el área del lugar del descarrilamiento (entrada en la est. Wien Donaukaibf) no se produjo ningún frenado forzoso.   
-
+La velocidad era de aprox. 33 km/h; en el área del lugar del descarrilamiento (entrada en la est. Wien Donaukaibf) no se produjo ningún frenado forzoso.
 
 ## Página 18
+
 
 Representación gráfica: 
 11.8. Declaración del conductor del T 41328 
@@ -532,10 +537,10 @@ Durante la marcha del T 41328 desde la est. Hegyeshalom hasta Klosterneuburg-Wei
 11.9. Declaración del Jefe de Estación de la est. Heiligenstadt 
 Durante la marcha del T 41328 desde la est. Wien Erdbergerlände hasta Wien Donaukaibf se producieron averías en el sistema de seguridad (iluminación roja de las agujas y de la vía principal). Después de que también posteriormente se produjera una avería (iluminación roja de la vía principal) entre la est. Wien Donaukaibf y la est. Wien Donauuferbf, se encargó al T 44349 en la est. Wien Donauuferbf la comprobación final del tren. La cola del tren se verificó visualmente y el T 41328 continuó su marcha a través de la est. Nussdorf en dirección a Klosterneuburg-Weidling. Dado que en el tramo entre la est. Nussdorf y el Bloqueo Automático Nussdorf 1 se volvió a producir una avería del sistema de seguridad, se encargó a la est. Klosterneuburg-Weidling detener e inspeccionar el T 41328. Tras detectar las irregularidades, se cerraron los tramos afectados y se verificaron mediante una marcha de reconocimiento. 
 11.10. Valoración de la vía 
-El informe de infraestructura facilitado constata un estado correcto de la vía. 
-
+El informe de infraestructura facilitado constata un estado correcto de la vía.
 
 ## Página 19
+
 
 ### 12. Investigaciones complementarias 
 Investigación del soporte de muelles 
@@ -555,6 +560,7 @@ Medida: Para la inspección técnica de los vagones RoLa se distribuyó a los em
 
 ## Página 20
 
+
 12.1.3. Soporte de muelle defectuoso el 7 de septiembre de 2007 
 Rotura del soporte de muelle el 7 de septiembre de 2007 en un vagón CFR 
 Medida: Para las inspecciones técnicas de los vagones RoLa, se distribuyó a los empleados del servicio de vagones la INFO n.º 186 de ÖBB, que hace referencia a roturas en los soportes de muelle. 
@@ -564,25 +570,24 @@ El resultado de la investigación reveló una soldadura deficiente.
 Debido al descarrilamiento del 9 de septiembre de 2007 en la estación de Wien Donaukaibf y al hallazgo del soporte de muelle roto del 7 de septiembre de 2007, se sometieron a una revisión técnica en ÖBB-Technische Services en Knittelfeld 2 soportes de muelle de la «Serie-ÖBB» y 4 soportes de muelle de la «Serie-CFR». 
 Revisión de los soportes de muelle «Serie-ÖBB» 
 Soporte de muelle NS-243 
-Soporte de muelle NS-272 
-
+Soporte de muelle NS-272
 
 ## Página 21
+
 
 Inspección por ultrasonidos  
 Acta de inspección NS-243 
 Acta de inspección NS-272 
 Resultado de la revisión de los soportes de muelle «Serie-ÖBB»  
 En ambos soportes de muelle no se pudo detectar ningún defecto. 
-Revisión de los soportes de muelle «Serie-CFR» 
-
+Revisión de los soportes de muelle «Serie-CFR»
 
 ## Página 22
 
-Inspección por partículas magnéticas 
-
+Inspección con polvo magnético
 
 ## Página 23
+
 
 Acta de inspección CFR Gst. Nr. 109/1 
 Acta de inspección CFR Gst. Nr. 112/1 
@@ -590,10 +595,10 @@ Acta de inspección CFR Gst. Nr. 109/2
 Acta de inspección CFR Gst. Nr. 112/2 
 Resultado de la revisión de los soportes de muelle «Serie-CFR»  
 En los cuatro soportes de muelle se detectaron defectos inaceptables. 
-Todas las inspecciones se realizaron conforme a las instrucciones de ensayo (anexo) de ÖBB-Technische Services. 
-
+Todas las inspecciones se realizaron conforme a las instrucciones de ensayo (anexo) de ÖBB-Technische Services.
 
 ## Página 24
+
 
 12.3. Medidas de inspección de RCA 
 Con respecto al descarrilamiento del 9 de septiembre de 2007, RCA ordenó medidas adicionales de inspección para todos los vagones RoLa de 10 ejes. 
@@ -610,10 +615,10 @@ Rotura del soporte de muelle
 Alojamiento del soporte de muelle del vagón 
 en el año 2004                              en el año 2005            
 n.º 81 53 4983 066-2  
-Debido al doblamiento de los soportes de muelle se producen marcas de rozamiento en el área de los alojamientos de los soportes de muelle 
-
+Debido al doblamiento de los soportes de muelle se producen marcas de rozamiento en el área de los alojamientos de los soportes de muelle
 
 ## Página 25
+
 
 Rotura del soporte de muelle  
 Rotura del soporte de muelle 
@@ -633,10 +638,10 @@ Lengüeta de seguridad
 del alojamiento del 
 soporte de muelle rota 
 ### 14. Particularidad del procedimiento de investigación 
-El 1 de agosto de 2008 hubo un cambio del jefe de investigación, pasando del Sr. Sigfried Kranzl al Ing. Johannes Piringer. 
-
+El 1 de agosto de 2008 hubo un cambio del jefe de investigación, pasando del Sr. Sigfried Kranzl al Ing. Johannes Piringer.
 
 ## Página 26
+
 
 ### 15. Recomendaciones de seguridad 
 De conformidad con el artículo 25, apartado 2, de la Directiva 49/2004 de la UE, las recomendaciones se dirigen a la autoridad de seguridad y, si la naturaleza de la recomendación lo requiere, a otras entidades o autoridades del Estado miembro o a otros Estados miembros. Los Estados miembros y sus autoridades de seguridad adoptan las medidas necesarias para garantizar que las recomendaciones de seguridad de los organismos de investigación sean debidamente tenidas en cuenta y, en su caso, aplicadas. 
@@ -662,10 +667,10 @@ En relación con las inscripciones en el vehículo (punto 11.4), verificar en qu
 Eisenbahn- 
 sicherheits- 
 behörde 
-Garantizar que los expedientes de autorización necesarios y obligatorios para los vagones admitidos en una infraestructura estén disponibles en forma adecuada y puedan ser solicitados inmediatamente; por ello, se propone la implementación de un registro nacional de vehículos. 
-
+Garantizar que los expedientes de autorización necesarios y obligatorios para los vagones admitidos en una infraestructura estén disponibles en forma adecuada y puedan ser solicitados inmediatamente; por ello, se propone la implementación de un registro nacional de vehículos.
 
 ## Página 27
+
 
 La autoridad de seguridad y otras autoridades o entidades, así como, en su caso, otros Estados miembros, a quienes se dirijan las recomendaciones, informarán al organismo de investigación al menos anualmente sobre las medidas adoptadas o previstas en respuesta a la recomendación (Directiva 49/2004 de la UE, artículo 25 - apartado 3). 
 Viena, 8 de septiembre de 2008 
@@ -675,10 +680,10 @@ Ing. Johannes Piringer fdo.
 Documentación fotográfica 
 Documentación constructiva de los vagones RoLa  
 Instrucciones de ensayo  
-Dictámenes 
-
+Dictámenes
 
 ## Página 28
+
 
 ### Anexo Documentación fotográfica 
 ### Dirección de marcha 
@@ -695,47 +700,49 @@ Tren Z 41328 estacionado en la estación de Klosterneuburg-Weidling
 
 ## Página 29
 
+
 ### Anexo Documentación constructiva de los vagones RoLa
 (puesta a disposición por el propietario)
 Soportes de muelles
 
-
 ## Página 30
 
-Índice  
 
+Índice
 
 ## Página 31
 
-Bastidor direccional de 5 ejes 
 
+Bastidor direccional de 5 ejes
 
 ## Página 32
 
-Bastidor de rodaje de 3 ejes 
-
+Bastidor de 3 ejes
 
 ## Página 33
 
-### Anexo Instrucciones de inspección
-Ensayo por ultrasonidos 
 
+### Anexo Instrucciones de inspección
+Ensayo por ultrasonidos
 
 ## Página 34
 
 
+
 ## Página 35
 
-Ensayo por partículas magnéticas 
-
+Inspección con polvo magnético
 
 ## Página 36
+
 
 
 ## Página 37
 
 
+
 ## Página 38
+
 
 ### Anexo Declaraciones 
 | Organismo /Persona | Número de referencia externo | Fecha - Entrada | Puntos considerados |

@@ -12,8 +12,8 @@ tokens_in: 38781
 tokens_out: 27472
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-verificacion: revisar
-avisos: ["página 7: ratio 2.14", "página 10: ratio 2.43", "página 24: ratio 1.76"]
+verificacion: ok
+notas_cifras: ["página 4: original bilingüe: se compara contra el idioma principal (HR)", "página 7: original bilingüe: se compara contra el idioma principal (HR); ratio 2.01", "página 10: original bilingüe: se compara contra el idioma principal (HR); ratio 2.20", "página 11: cifras cortas: 1/7", "página 12: original bilingüe: se compara contra el idioma principal (HR)", "página 14: cifras cortas: 1/34"]
 ---
 
 ## Página 1
@@ -212,23 +212,25 @@ los procedimientos de trabajo insuficientemente detallados en la documentación 
 ## Página 7
 
 Factores organizativos:
-- 
-vía de circulación no segura (capítulo 3.6.2), 
-- 
-organización del trabajo inadecuada (capítulos 3.4, 3.6.7). 
-- 
-incumplimiento de las disposiciones del Plan de Ejecución de las Obras (capítulo 3.6.6), 
-- 
-incumplimiento del Plan Detallado de Trabajo del día del accidente (capítulo 3.6.7). 
-### Recomendación de seguridad 
-La Agencia de Investigación de Accidentes en el Tráfico Aéreo, Marítimo y Ferroviario, con base en la investigación llevada a cabo de este accidente, con el fin de mejorar la seguridad del sistema ferroviario, emite a la Agencia de Seguridad del Tráfico Ferroviario las siguientes recomendaciones de seguridad: 
-AIN/06 SR8/2020: En los casos en que los dispositivos de seguridad de señalización en las líneas equipadas con APB estén averiados (averías, ocupaciones, etc.), y la persona competente no pueda determinar de forma fiable la causa de la avería del APB en el tramo entre estaciones, el gestor de la infraestructura debería establecer que el primer tren que circule en dicho tramo entre estaciones circule con Vmax 30 km/h, y que todos los trenes subsiguientes, de conformidad con las disposiciones establecidas, puedan circular a una velocidad de Vmax 100 km/h en el tramo entre estaciones en cuestión. 
-La Agencia de Investigación de Accidentes en el Tráfico Aéreo, Marítimo y Ferroviario, con base en la investigación llevada a cabo de este accidente, con el fin de mejorar la seguridad del sistema ferroviario, emite a la sociedad DIV Grupa d.o.o. las siguientes recomendaciones de seguridad: 
-AIN/06 SR9/2020: DIV grupa d.o.o., durante la ejecución de las obras en las líneas ferroviarias, y especialmente en aquellas líneas que habitualmente están abiertas al tráfico ferroviario regular, pero que para necesidades de mantenimiento o renovación están cerradas al tráfico ferroviario regular, debería desarrollar detalladamente los procedimientos durante la ejecución de las obras en los Planes de Ejecución de las Obras, y destacar especialmente que tras cada finalización de las obras y cierre de la línea, esta debe ser inspeccionada para asegurar de manera demostrativa que todos los elementos de la línea están en buen estado y que no hay restos de materiales en la línea.   
-### RESUMEN 
-El 21 de octubre de 2018, a las 07:24, el tren de pasajeros número 783 descarriló en la línea marcada M201, sección Dugo Selo - Vrbovec, en el punto kilométrico 453+797. El tren número 783 descarriló debido a una colisión con un riel dejado durante la descarga sobre la vía derecha de la vía, en la dirección de circulación. El tren número 783 descarriló en la primera rueda (10L/D) del primer bogie y en ambas ruedas del segundo bogie (7L/D y 8L/D), y se detuvo en el punto kilométrico 454+000.  
-El tren de pasajeros 783 operaba como parte del EMG 6 112 003 para el transporte regional como una composición de cuatro partes con dos cabinas de control. 
-El maquinista del tren resultó ligeramente herido en este accidente, mientras que se causaron daños materiales significativos a la infraestructura ferroviaria y a los vehículos ferroviarios. (Capítulos 2.3.1 y 2.3.3).
+- vía de circulación no asegurada (capítulo 3.6.2),
+- organización laboral inadecuada (capítulo 3.4, 3.6.7).
+- incumplimiento de las disposiciones del Plan de ejecución de trabajos (capítulo 3.6.6),
+- incumplimiento del Plan detallado de trabajo del día del accidente (capítulo 3.6.7).
+### Recomendación de seguridad
+La Agencia de investigación de accidentes en el transporte aéreo, marítimo y ferroviario, con base en la investigación realizada sobre este accidente, con el fin de mejorar la seguridad del sistema ferroviario, emite a la Agencia de seguridad del tráfico ferroviario las siguientes recomendaciones de seguridad:
+AIN/06 SR8/2020: En los casos en que los aparatos de señalización y seguridad en las líneas equipadas con APB estén averiados (interferencias, ocupaciones, etc.), y la persona competente no pueda determinar de forma fiable el motivo de la avería del APB en el tramo entre estaciones, el gestor de infraestructura debería prescribir que el primer tren que circule por dicho tramo entre estaciones lo haga con Vmax 30 km/h, y todos los trenes siguientes, conforme a las disposiciones prescritas, podrán circular a una velocidad de Vmax 100 km/h en el mencionado tramo entre estaciones.
+La Agencia de investigación de accidentes en el transporte aéreo, marítimo y ferroviario, con base en la investigación realizada sobre este accidente, con el fin de mejorar la seguridad del sistema ferroviario, emite a la Sociedad DIV Grupa d.o.o. las siguientes recomendaciones de seguridad:
+AIN/06 SR9/2020: DIV grupa d.o.o. a la hora de ejecutar trabajos en líneas ferroviarias, y en particular en aquellas líneas que de otro modo están abiertas al tráfico ferroviario regular, pero que para necesidades de mantenimiento o renovación se cierran al tráfico ferroviario regular, debería elaborar detalladamente los procedimientos para la ejecución de trabajos en los Planes de ejecución de trabajos y destacar especialmente que tras cada finalización de trabajos y cierre de la línea, la misma debe ser inspeccionada para comprobar de forma demostrable que todos los elementos de la línea están en buen estado y que no quedan restos de material en la línea.
+### SUMMARY
+On October 21, 2018, at 07:24 am, passenger train number 783 derailed on the line marked M201 section
+Dugo Selo - Vrbovec at km 453+797. Train number 783 derailed due to a collision with a rail left during
+unloading over the right track of the track, in the direction of travel. Train number 783 derailed on the first
+axle (10L/D) of the first bogie and both axles of the second bogie (7L/D and 8L/D), and stopped at km
+454+000.
+Passenger train 783 operated as part of EMG 6 112 003 for regional transport as a four-part composition with
+two control rooms.
+The train driver was minor injured in this accident, while significant material damage was caused to the
+railway infrastructure and railway vehicles. (Chapters 2.3.1 and 2.3.3).
 
 ## Página 8
 
@@ -267,38 +269,25 @@ A las 17:03 horas llegó el tren auxiliar de la empresa TSŽV d.o.o., y la compo
 
 ## Página 10
 
-CORRECCIÓN OBLIGATORIA: falló ratio 2.18. Traduce el fragmento completo, sin omitir ninguna línea, tabla ni cifra.
-
----FRAGMENTO---
-
-
-### 2.1.2 Decisión de iniciar la investigación 
-AIN recibió la denuncia del accidente el 21.10.2018 por teléfono y correo electrónico por parte del 
-despachador principal del Administrador de Infraestructura. Sobre la base de la información recopilada, se decidió que los investigadores 
-de AIN se desplazaran al lugar del suceso. Tras la inspección ocular, se decidió que se iniciara la investigación. La decisión 
-de iniciar la investigación del accidente en cuestión se adoptó sobre la base de la Ley de seguridad e interoperabilidad 
-del sistema ferroviario (Gaceta Oficial de la República de Croacia n.º 82/13, 18/15, 110/15 y 70/17), artículo 110, apartado 2.  
-## 2.2 
-### Antecedentes del suceso 
-### 2.2.1 Personal implicado, personal externo contratado y otras partes y testigos 
-En este accidente participaron trabajadores de la sociedad HŽ Infrastruktura d.o.o., de la sociedad DIV grupa d.o.o. y de la sociedad HŽ 
-Putnički prijevoz d.o.o. 
-Personas implicadas: 
+### 2.1.2 Decisión sobre el inicio de la investigación
+AIN recibió el aviso del accidente el 21.10.2018. por teléfono y correo electrónico por parte del jefe de despacho del Gestor de la infraestructura. Sobre la base de la información recopilada, se decidió que los investigadores de AIN acudirían al lugar de los hechos. Tras realizar la inspección, se decidió que se iniciaría la investigación. La decisión sobre el inicio de la investigación del accidente en cuestión se adoptó en virtud de la Ley sobre seguridad e interoperabilidad del sistema ferroviario («Narodne novine» número: 82/13, 18/15, 110/15 y 70/17), artículo 110, apartado 2.
+## 2.2
+### Antecedentes de los hechos
+### 2.2.1 Trabajadores implicados y personal contratado externamente, así como otras partes y testigos
+En este accidente participaron trabajadores de la sociedad HŽ Infrastruktura d.o.o., de la sociedad DIV grupa d.o.o. y de la sociedad HŽ Putnički prijevoz d.o.o.
+Personas implicadas:
 - 
-Mecánico de la locomotora del tren n.º 783 HŽPP, 
+Maquinista del tren número 783 HŽPP,
 - 
-Ayudante del responsable del grupo de supervisión Križevci, HŽI 
+Ayudante del jefe del grupo de supervisión de Križevci, HŽI
 - 
-Jefe de obra de construcción, DIV grupa d.o.o. 
+Capataz de construcción, DIV grupa d.o.o.
 - 
-Mecánico – conductor de la excavadora de doble vía, DIV grupa d.o.o. 
-### 2.2.2 Trenes y su composición 
-En el accidente en cuestión se produjo el descarrilamiento del conjunto de unidades eléctricas EMG 94 78  6 112 003.  
-El conjunto de unidades eléctricas de la serie 6112 (Figura 2.) para el transporte regional es una composición de cuatro módulos con dos 
-unidades motrices y dos módulos centrales. Los módulos de tracción extremos con la cabina de conducción llevan las designaciones A/B, mientras 
-que los módulos de pasajeros llevan las designaciones C1/C2 (Figura 3.) Los módulos de tracción están apoyados en un extremo sobre el bastidor giratorio de tracción, mientras que en el otro extremo están apoyados sobre el bastidor intermedio resistente en la unión del módulo de tracción/módulo de pasajeros. 
-La tracción completa del EMG está concebida de tal manera que consta de dos unidades motrices independientes; en caso de avería 
-de uno de los módulos de tracción, este puede aislarse y el EMG puede continuar la marcha, aunque con aceleraciones reducidas.
+Maquinista – conductor de excavadora de doble vía, DIV grupa d.o.o.
+### 2.2.2 Trenes y su composición
+En el accidente en cuestión se produjo el descarrilamiento de la unidad de tren eléctrica EMG 94 78 6 112 003.
+La unidad de tren eléctrica de la serie 6112 (Figura 2.) para el transporte regional es una composición de cuatro piezas con dos unidades motrices y dos módulos centrales. Los módulos motrices extremos con cabina de conducción llevan las designaciones A/B, mientras que los módulos de pasajeros llevan las designaciones C1/C2 (Figura 3.) Los módulos motrices están apoyados por un extremo en el bogie motor de propulsión, mientras que por el otro extremo están apoyados en el bastidor portante intermedio en la unión del módulo motor/de pasajeros.
+La propulsión completa de la EMG está concebida de modo que consta de dos unidades motrices independientes; en caso de avería de uno de los módulos motrices, este puede desconectarse y la EMG puede continuar la marcha, pero con aceleraciones reducidas.
 
 ## Página 11
 
@@ -574,34 +563,30 @@ La regulación del tráfico de trenes durante la duración de las incidencias en
 
 ## Página 24
 
-Durante la circulación de trenes por vía no normal desde la estación de Dugo Selo o Sesvete, el conmutador debe ocupar el Bloque II, y desde el conmutador interno de trenes recibe la información y las órdenes necesarias conforme al Reglamento de Tráfico 2, artículo 58.
-
-### 3.6.5 Plan de ejecución de las obras (grupo DIV)
-
-1.7. Modo de transporte, transferencia, carga, descarga y almacenamiento de diversos tipos de materiales y objetos voluminosos:
- el transporte del material de vía (traviesas, rieles, accesorios de fijación) hasta el lugar de trabajo se realizará mediante vagones de carga y vehículos de vía motorizados,
- la carga y descarga de materiales se realizará mediante grúas pórtico, grúa hidráulica montada sobre vehículo de vía y, excepcionalmente, manualmente si no es posible hacerlo con medios mecanizados,
- el responsable de las obras o el supervisor de vía, antes del inicio de los trabajos, debe planificar el número necesario de trabajadores para las operaciones que se realizarán en el lugar de trabajo y debe familiarizarlos con los procedimientos tecnológicos, haciendo hincapié en que los trabajos se realizan con la debida atención aplicando las medidas de protección laboral,
- el material que se apila en el espacio destinado a la recepción y almacenamiento del material de vía debe apilarse de forma estable y ordenada, de manera que no obstruya el tráfico interno ni represente un peligro para los trabajadores, y debe asegurarse contra el derrumbe. Todo el material debe estar apilado de tal manera que no pueda derrumbarse por sí solo, por efecto del viento, hundimiento del terreno o por el contacto de los trabajadores que transitan,
- al colocar los vagones para la descarga, las puertas laterales deben abrirse con cuidado utilizando las herramientas adecuadas para evitar posibles lesiones a los trabajadores. Al finalizar, el vagón debe dejarse en estado correcto,
- las labores de grúista y operario de máquinas solo pueden ser realizadas por trabajadores autorizados, cualificados profesionalmente y asignados a dichas tareas.
-
-### 3.6.6 Plan de ejecución de las obras en cierre de vía durante el período del 19.10.2018 al 22.10.2018.
-(grupo DIV d.o.o., Dalekovod d.o.o. y Zagreb-Montaža Grupa d.o.o.)
-
-### 1. Fecha/período y hora de ejecución de las obras
-
-3. Descarga de rieles en el tramo Dugo Selo-Vrbovec
-
+Durante la circulación de trenes por la vía irregular desde la estación de Dugo Selo o Sesvete, el operador de desvío debe ocupar el Bloque II, y del gestor interno de tráfico de trenes recibe las informaciones y órdenes necesarias conforme al Reglamento de Circulación 2, artículo 58.
+### 3.6.5 Plan de ejecución de trabajos (grupo DIV)
+1.7.  Modo de transporte, transbordo, carga, descarga y almacenamiento de distintos tipos de materiales y objetos voluminosos:
+ 
+el transporte del material de vía (traviesas, carriles, elementos de fijación) hasta el lugar de trabajo se realizará mediante vagones de carga y vehículos de vía motorizados,
+ 
+la carga y descarga de material se realizará mediante grúas pórtico, grúa hidráulica de un vehículo de vía y, excepcionalmente, también manualmente cuando no sea posible por medios mecanizados,
+ 
+el director de trabajos o el jefe de vía, antes del inicio de los trabajos, debe planificar el número necesario de trabajadores para las operaciones de trabajo que se vayan a realizar en el lugar de trabajo y debe ponerlos en conocimiento de los procedimientos tecnológicos, con la advertencia de que realicen los trabajos con la debida atención aplicando las medidas de protección en el trabajo,
+ 
+el material que se apile en el espacio destinado a la recepción y almacenamiento del material de vía debe apilarse de forma estable y ordenada de manera que no obstruya el tráfico interno ni suponga un peligro para los trabajadores, y debe asegurarse contra el derrumbe. Todo el material debe estar apilado de forma que no pueda derrumbarse por sí mismo, por la acción del viento, por la deformación del terreno o por el contacto de un trabajador que pase por allí,
+ 
+al colocar los vagones para la descarga, las tapas deben abrirse cuidadosamente con la herramienta adecuada para evitar posibles lesiones a los trabajadores. Una vez finalizado, el vagón debe devolverse a su estado correcto,
+ 
+las funciones de gruista y de operador de máquinas solo pueden ser desempeñadas por trabajadores autorizados, cualificados y asignados a dichas funciones.
+### 3.6.6 Plan de ejecución de trabajos en el cierre de la vía en el periodo del 19.10.2018 al 22.10.2018.
+(DIV grupa d.o.o., Dalekovod d.o.o. y Zagreb-Montaža Grupa d.o.o.)
+### 1. Fecha/periodo y horario de ejecución de los trabajos
+     3. Descarga de carriles en el tramo Dugo Selo-Vrbovec
 | Fecha | De - a | Trabajos | Empresa |
-| --- | --- | --- | --- |
-| 20/21102018 . . . . | 22:00 - 07:00 | Descarga de rieles en el tramo Dugo Selo–Vrbovec desde el PK 6+300 hasta el 13+188, con una longitud de 12960 metros. Riel, es decir, 6480 m de espacio. | DIVGRUPA |
-
+| 20/21102018 . . . . | 22:00 - 07:00 | Descarga de carriles en el tramo Dugoselo–Vrbovec desde 6+300 hasta 13+188 con una longitud de 12960 metros de carriles, es decir, 6480 m de espacio. | DIVGRUPA |
 ### 8. Métodos de comunicación que deben aplicarse
-
 Comunicación
-
-1. Sobre la base de la solicitud del contratista para las obras en cierre de vía, elaborada de conformidad con el punto 3.5.1 de las Especificaciones Técnicas (Contrato 5/16 UE), la solicitud de obras en cierre de vía la presenta la persona responsable del Contratista encargada del proyecto (jefe del equipo de proyecto), y de conformidad con los artículos 252 y 253 del Reglamento de Tráfico (Reglamento HŽI-2) del 10 de diciembre de 2017.
+1. En base a la solicitud del contratista de trabajos en el cierre de la vía, elaborada conforme al punto 3.5.1 de las Especificaciones Técnicas (Contrato 5/16 UE), la solicitud de trabajos en el cierre de la vía la presenta la persona responsable del Contratante encargada del proyecto (director del equipo de proyecto), conforme a los artículos 252 y 253 del Reglamento de Circulación (Reglamento HŽI-2) de fecha 10 de diciembre de 2017.
 
 ## Página 25
 

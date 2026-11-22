@@ -10,13 +10,14 @@ chars: 96737
 ratio_longitud: 1.26
 tokens_in: 42633
 tokens_out: 30062
-verificacion: revisar
-notas_cifras: ["bloque 1: original bilingüe: se compara contra el idioma principal (EN)", "bloque 7: original bilingüe: se compara contra el idioma principal (EN)"]
-avisos: ["bloque 7: ratio 1.64"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 6: original bilingüe: se compara contra el idioma principal (CS)", "página 7: original bilingüe: se compara contra el idioma principal (CS)", "página 11: original bilingüe: se compara contra el idioma principal (CS)", "página 20: original bilingüe: se compara contra el idioma principal (CS); ratio 1.86", "página 21: original bilingüe: se compara contra el idioma principal (CS); ratio 1.86", "página 24: original bilingüe: se compara contra el idioma principal (CS); ratio 2.04"]
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -39,13 +40,13 @@ IČ: 75009561
 mail@dicr.cz
 tel.: +420 736 521 003
 
-
 ## Página 2
+
 
 Este informe final es público y todos los hechos en él expuestos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ### 1 RESUMEN
 Fuente: Drážní inspekce
@@ -74,15 +75,15 @@ incumplimiento de las condiciones para garantizar la seguridad y la protección 
 la presencia del empleado de la CPS en la plataforma superior de la maniobra de maniobras durante la maniobra bajo la
 parte del hilo de contacto bajo tensión.
 
-
 ## Página 4
+
 
 No se ha detectado ningún factor contribuyente por parte de Drážní inspekce.
 No se ha detectado ninguna causa sistémica por parte de Drážní inspekce.
 No se ha emitido ninguna recomendación de seguridad por parte de Drážní inspekce.
 
-
 ## Página 5
+
 
 ### RESUMEN
 28 de julio de 2020, 11:27 (9:27 GMT).
@@ -109,8 +110,8 @@ Factor sistémico:
 ninguno.
 Recomendación: no emitida.
 
-
 ## Página 6
+
 
 # Índice
 1 RESUMEN........................................................................................................................3
@@ -152,8 +153,8 @@ RESUMEN.........................................................................
 4.2 Vehículos ferroviarios e instalaciones técnicas...........................................................................31
 4.2.1 Factores o consecuencias derivados del diseño de los vehículos ferroviarios, de la infraestructura ferroviaria o de las instalaciones técnicas.....................................................................31
 
-
 ## Página 7
+
 
 4.2.2 Factores o consecuencias derivados de la instalación y de la puesta en servicio de los vehículos ferroviarios, de la infraestructura ferroviaria o de las instalaciones técnicas......................................31
 4.2.3 Factores o consecuencias relacionados con los fabricantes de vehículos ferroviarios u otros proveedores de productos ferroviarios............................................................................32
@@ -184,6 +185,7 @@ RESUMEN.........................................................................
 ANEXOS..............................................................................................................................37
 
 ## Página 8
+
 
 ### Lista de abreviaturas y símbolos utilizados
 BOZP
@@ -243,8 +245,8 @@ servicio de emergencia sanitaria
 žst.
 estación de ferrocarril
 
-
 ## Página 9
+
 
 ### Lista de abreviaturas de disposiciones legales, normas y reglamentos internos utilizados
 ley núm. 262/2006 Sb.
@@ -290,8 +292,8 @@ en la catenaria y en sus proximidades en ferrocarriles de ámbito
 nacional, regionales y ramales privados", en la redacción vigente en el 
 momento de la ocurrencia de la ocurrencia extraordinaria
 
-
 ## Página 10
+
 
 ### 2 INVESTIGACIÓN Y SUS RELACIONES
 ### 2.1 Decisión sobre el inicio de la investigación
@@ -312,10 +314,10 @@ no fue necesario formarlo.
 Colaboración externa:
 no se utilizó.
 2.5. Comunicación y consultas durante la investigación con las personas o sujetos que participaron en el suceso
-En la investigación de las causas y circunstancias de la ocurrencia de la ocurrencia extraordinaria, la DI se basó principalmente en sus propios conocimientos, hallazgos y documentación fotográfica propia. Durante la investigación, la DI solicitó la documentación recabada durante la investigación al explotador de la infraestructura, al transportista, a la PČR y a la CPS – empleador del empleado lesionado. La investigación de las causas y circunstancias de la ocurrencia de la ocurrencia extraordinaria se realizó de acuerdo con la ley núm. 266/1994 Sb. y el decreto núm. 376/2006 Sb. 
-
+En la investigación de las causas y circunstancias de la ocurrencia de la ocurrencia extraordinaria, la DI se basó principalmente en sus propios conocimientos, hallazgos y documentación fotográfica propia. Durante la investigación, la DI solicitó la documentación recabada durante la investigación al explotador de la infraestructura, al transportista, a la PČR y a la CPS – empleador del empleado lesionado. La investigación de las causas y circunstancias de la ocurrencia de la ocurrencia extraordinaria se realizó de acuerdo con la ley núm. 266/1994 Sb. y el decreto núm. 376/2006 Sb.
 
 ## Página 11
+
 
 ### 2.6 Descripción del nivel de colaboración ofrecido por los sujetos participantes
 El nivel de colaboración con los representantes de los sujetos participantes en la ocurrencia extraordinaria y con la PČR fue estándar.
@@ -353,8 +355,8 @@ de la aguja núm. 2, pk 61,175.
 Coordenadas GPS:
 49.3807783N, 16.0812647E.
 
-
 ## Página 12
+
 
 ### 3.1.3 Descripción del lugar del suceso
 La est. Křižanov se encuentra en el ferrocarril, categoría de ámbito nacional, Brno-Židenice – Havlíčkův 
@@ -378,8 +380,8 @@ La inspección se realizó en varias fases. Primero se inspeccionó la oficina d
 Estado de la infraestructura:
 la aguja decisiva núm. 10 para la circulación del VTV mediante maniobras desde el extremo de estación en dirección desde la est. Vlkov u Tišnova (en adelante est. Vlkov) a la 4. SK, situada en el pk 61,341, era maniobrada centralmente; la aguja no estaba equipada con contrapeso de aguja ni con señal de aguja;
 
-
 ## Página 13
+
 
 en dirección desde la est. Vlkov, en el extremo de estación en la continuación de la 2. SK, a la derecha de la vía 
 •
@@ -436,6 +438,7 @@ recinto de la estación, extremo de estación en terraplén por encima del nivel
 
 ## Página 14
 
+
 El lugar del MU se encontraba en una vía de tráfico ya en servicio. El tráfico en las inmediaciones del lugar del MU estaba en régimen limitado, ya que en el tramo de vía Křižanov – Sklené nad Oslavou, incluida la est. Křižanov, se estaba llevando a cabo una interrupción planificada por motivo de reconstrucción – modernización.
 ### 3.1.4 Defunciones, lesiones y daños materiales
 En el MU se produjo:
@@ -460,8 +463,8 @@ El operador de la vía ferroviaria, categoría nacional, Brno-Židenice – Havl
 El transportista de VTV era EŽP, con domicilio en nám. Hrdinů 1693/4a, Praha 4, CP 140 00.
 Las obras de construcción en la parte excluida no explotada de la vía de tráfico conforme a ROV 31158, fases A, B en la est. Křižanov las realizaba la empresa ELTRA (más información en el punto 4.1.7 ZZ).
 
-
 ## Página 15
+
 
 ### 3.1.7 Descripción de los vehículos ferroviarios y sus composiciones, incluidos los números de registro
 | VTV: |  | ComposiciónVTV: |  | Régimenfrenado: |
@@ -488,8 +491,8 @@ De los datos registrados se desprende:
 La est. Křižanov se sitúa en el km 61,623 de la vía nacional Brno-Židenice – Havlíčkův Brod y es a la vez estación terminal para la línea regional de desvío Studenec – Křižanov. En la estación había un dispositivo de señalización de 3.ª categoría – dispositivo de señalización estacional de relés con sistema de señalización de velocidad de señales luminosas con mando desde el pupitre de mando en la sala de tráfico. En el dispositivo de señalización se estaba llevando a cabo una interrupción en el marco de la modernización del dispositivo al tipo ESA 11 con EIP (parte ejecutiva del dispositivo de señalización estacional ESA 11, compuesta por un panel de interfaces electrónicas, cuya arquitectura y disposición modular permite una instalación flexible de unidades enchufables según las necesidades). El jefe de estación ya manejaba el dispositivo de señalización estacional desde el panel de puesto de mando unificado.
 La vía estaba protegida entre la est. Vlkov y la est. Křižanov y entre la est. Křižanov y la est. Sklené nad Oslavou (en adelante est. Sklené) por un bloque automático bidireccional de tres indicadores. La línea regional entre la est. Křižanov y la est. Velké Meziříčí estaba equipada con un bloque semiautomático de relés.
 
-
 ## Página 16
+
 
 Desde el 27. 7. 2020, el estado de la infraestructura en la est. Křižanov en el segmento de la línea de tracción estaba influenciado por la modernización en curso. Conforme a ROV 33158, además de la interrupción de vía (fase B) del grupo par SK en la est. Křižanov (el límite entre la parte en servicio y la parte excluida de la playa de vías estaba constituido, en dirección al lugar del MU, por la posición de la señal Se8A), se produjo simultáneamente la interrupción del TV sobre la parte de la playa de vías mencionada (fase A). Con la Orden «B» n.º 032 se delimitó un puesto de trabajo con la parte del TV desconectada y asegurada eléctricamente desde el ÚD n.º P4 en el km 61,180 hasta el ÚD n.º P5 en el km 62,350. En el punto 7 de ROV 31158 «Medidas para el TV y equipos de fuerza» se indicaron los procedimientos mediante los cuales el operador del TV garantizó la seguridad en el puesto de trabajo desde el punto de vista de la protección contra la lesión por corriente eléctrica del TV.
 ### 3.1.9 Cualquier otra información relevante a efectos de la descripción del suceso y de la información básica
@@ -513,8 +516,8 @@ Maquinista de la unidad de maniobras
 ◦en este trabajo manejaba el HDV, que formaba parte del VTV, en el que iban acoplados otros 9 DV. Estima que la longitud total de la unidad de maniobras (VTV) es de hasta 200 m. Dirigía el HDV y realizaba la maniobra con base en la instrucción del ZPŘS. Se comunicaba con él mediante estación de radio. El ZPŘS era empleado de la empresa ELTRA;
 ◦hacia las 11:30 h el ZPŘS le informó mediante estación de radio de la maniobra que ya estaba acordada con el jefe de estación. Le dijo que irían contra la señal «Alto» y que cruzarían desde la 2.ª SK a la 4.ª SK;
 
-
 ## Página 17
+
 
 ### ◦con base en la instrucción del ZPŘS inició el empuje del VTV. No veía el final de la composición. El ZPŘS estaba en ese momento junto al VTV al lado de la vía contigua, en algún punto intermedio de la composición. Entró con el VTV más allá del desvío y recibió por estación de radio del ZPŘS la instrucción de avanzar rápidamente hacia la 4.ª SK. En la 4.ª SK estacionó el VTV. En ese momento no sabía en absoluto que se había producido el MU.
 ZPŘS
@@ -538,6 +541,7 @@ ZPŘS
 
 ## Página 18
 
+
 ◦antes del inicio y durante el turno no estaba cansado. Antes del turno tuvo un descanso suficiente. Estaba empleado únicamente en la empresa ELTRA, en la que trabajaba desde el año 2009. Desde el año 2016 trabajaba también en el puesto de jefe de tren. En total desempeñó este puesto en 5 obras;
 ◦en la empresa ELTRA superó los exámenes de competencia profesional de montador eléctrico TV y jefe de tren de transporte de mercancías. En las vías de la República Checa tiene el examen profesional de jefe de maniobras, de despacho de tren y ZPŘS. Además tenía el examen profesional según el decreto n.º 100/1995 Sb. Sobre la norma ČSN 34 3109 sabe que es la norma básica del montador eléctrico TV;
 ### ◦la orden de maniobra la recibió del jefe de obra personalmente, de palabra. En la orden se indicó: Trabajos en TV finalizados. Trasladar VTV de la 2.ª vía a la 4.ª vía;
@@ -553,8 +557,8 @@ jefe de obra
 ◦hacia las 11:20 h finalizaron los trabajos en la 2.ª vía y dio la orden al jefe de maniobras, ### que se encontraba a unos 30 metros de él en los desvíos n.º 9 y 10, de que se iba a trasladar la VTV de la 2.ª vía a la 4.ª vía. De esto informó también de palabra a los empleados, ### que se retiraban al otro lado del equipo por las plataformas de la DV en el techo de la VTV. En ese momento no sabía que dos empleados habían permanecido en la otra DV (en el sentido de maniobra por empuje) de la VTV. Considera que debían estar de rodillas, porque no los vio desde el suelo por el lado;
 ◦no esperó al traslado del equipo en sí y se fue al servicio. En unos un minuto, mientras iba camino del servicio, a unos 100 m de distancia del equipo de la VTV
 
-
 ## Página 19
+
 
 le sonó el teléfono, llamaba uno de los empleados, ya no recuerda cuál, y le comunicó que se había producido una descarga eléctrica;
 ◦inmediatamente llamó al 155 y corrió a ver qué había pasado. En ese momento la VTV ya se estaba trasladando a la 4.ª vía, al lugar donde las unidades de emergencia pueden acercarse mejor al tren – esto ya lo había asegurado el ZPŘS. Comprobó que la descarga eléctrica había alcanzado a un empleado, montador;
@@ -572,49 +576,58 @@ jefe de obra
 ◦según su declaración, los empleados pueden encontrarse en la DV durante su movimiento siempre que se cumplan las condiciones indicadas en la norma ČSN 34 3109. Durante el traslado cada empleado tiene la obligación de regirse por la norma indicada para garantizar su seguridad;
 ◦la orden al jefe de maniobras de trasladar la VTV de la 2.ª vía a la 4.ª vía la emitió cuando estaba en el lado derecho junto a la VTV. El jefe de maniobras le respondió y comenzó a organizar esta maniobra. El motivo del traslado de la VTV fue la finalización de los trabajos y la hora de la pausa de mediodía;
 
-
 ## Página 20
 
-◦le era conocida la delimitación del puesto de trabajo eléctricamente protegido, el día antes de la aparición de la MU instalaron aisladores en la TV. Estos lugares estaban señalizados con banderolas rojas en el punto de cortocircuito para aumentar la seguridad.
+◦era conocida la delimitación del puesto de trabajo asegurado eléctricamente; el día antes de la aparición de la MU instalaron aisladores de tracción. Estos lugares estaban señalizados con banderines rojos en el punto de cortacircuito para aumentar la seguridad.
 jefe de obra
   – Acta con el empleado:
 •
-◦el día de la aparición de la MU debían desmontar la catenaria y el cable portante situado sobre la 2.ª vía, entre los aisladores insertados n.º P4 y P5;
-◦antes de la aparición de la MU los empleados estaban en el punto de cortocircuito junto al aislador insertado n.º P4 y en este punto cortaron la catenaria, y la segunda parte quedó anclada al nuevo poste de TV. El resto de la catenaria quedó en las plataformas de la VTV y con ello ### se dieron por finalizados los trabajos. Dio la orden de abandonar el puesto de trabajo y vio cómo ### los empleados abandonaron las plataformas y bajaron a las partes interiores de la DV de la VTV. Después emitió ### la orden de estacionar la VTV en la 4.ª vía y dijo a los empleados que tendrían ### la pausa de mediodía;
-◦a partir de ese momento ya no vigiló la VTV, necesitaba ir al servicio. A unos 100 m de distancia de la VTV le comunicaron por teléfono que se había producido la lesión de un empleado por descarga eléctrica. Volvió inmediatamente hacia la VTV, que ya se estaba desplazando en dirección a la 4.ª vía, y activó las unidades de emergencia. El empleado afectado por la descarga eléctrica comunicaba y estaba consciente;
-◦a la pregunta de si estaba convencido de que los empleados habían abandonado el puesto de trabajo, ### respondió que en la VTV no vio a nadie.
-montador eléctrico
-  – Registro de la declaración prestada ante la Policía:
+◦el día de la aparición de la MU debían desmontar la línea de tracción y el cable portante situado sobre la 2. SK, entre los aisladores insertados n.º P4 y P5;
+◦antes de la aparición de la MU, los empleados se encontraban en el punto de cortacircuito junto al aislador insertado n.º P4 y en este punto cortaron la línea de catenaria, y la segunda parte quedó anclada en el nuevo poste de tracción. El resto de la línea de catenaria permaneció en las plataformas de la VTV y con ello
+### se dio por finalizada la obra. Dio la instrucción de abandonar el puesto de trabajo y vio cómo
+### los empleados abandonaron las plataformas y bajaron a las partes interiores de la DV de la VTV. Posteriormente dio
+### la instrucción de llevar la VTV a la 4. SK y dijo a los empleados que tendrían
+la pausa para comer;
+◦a partir de ese momento ya no vigiló la VTV, necesitaba ir al servicio. A una distancia de aprox. 100 m de la VTV le comunicaron por teléfono que se había producido la electrocución de un empleado. Inmediatamente volvió hacia la VTV, que ya se estaba desplazando en dirección a la 4. SK, y activó los servicios de emergencia. El empleado electrocutado estaba consciente y se comunicaba;
+◦a la pregunta de si estaba convencido de que los empleados habían abandonado el puesto de trabajo,
+### respondió que no había visto a nadie en la VTV.
+montador electricista
+  – Acta de la declaración prestada ante la Policía Nacional (PČR):
 •
-◦era empleado de la empresa ELTRA, trabajaba en el puesto de montador eléctrico. Estaba en pareja con un colega montador y con otros empleados realizaban el desmontaje de la TV;
-### ◦hacia las 11:20 h llegaron hasta el equipo de cortocircuito. Junto con el colega estaban ### en la segunda DV del equipo de la VTV. Los demás empleados estaban en el otro lado en dirección a la estación de Sklené y otros dos empleados trabajaban dentro de la primera DV (en el sentido de maniobra por empuje);
-◦se percató de un gran movimiento alrededor de todo el equipo, por experiencia dedujo que se iba a producir el traslado del equipo de la VTV. No se emitió ninguna orden verbal por parte del jefe de obra ni del jefe de maniobras. Es posible que lo dijese otra persona, pero él no oyó nada;
-◦estaba hablando de varios temas con el colega, pero este tampoco le dijo nada. Después se inició la maniobra y él y el colega estaban de pie y ### apoyados en la barandilla de la plataforma a la izquierda en ### el sentido de marcha. No sabía que se iban a desplazar fuera de la parte protegida y el equipo de cortocircuito tuvo que pasar por detrás de ellos, tal como estaban apoyados;
-◦después vio de reojo un destello que alcanzó al colega aproximadamente en el hombro izquierdo. Este cayó sobre la plataforma de trabajo y comenzó a humear su ropa. Acudió de inmediato y lo apagó con sus guantes, mientras gritaba a los empleados de abajo en el vagón que tenían un herido;
-◦después la VTV completó el traslado a la 4.ª vía y llegaron las unidades de emergencia. El colega estaba consciente y comunicaba con ellos. Además, el colega informó a su esposa de su lesión.
-montador eléctrico
-  – Registro de la declaración prestada ante la DI:
+◦era empleado de la empresa ELTRA, trabajaba en el puesto de montador electricista. Estaba en pareja con un compañero montador y junto con otros empleados realizaban el desmontaje de la tracción;
+### aprox. a las 11:20 h llegaron hasta el equipo de cortacircuito. Junto con su compañero se encontraban
+### en la segunda DV del equipo de la VTV. Otros empleados se encontraban en el otro lado en dirección a
+la est. Sklené y otros dos empleados trabajaban dentro de la primera DV (en dirección de maniobra empujando);
+◦se percató de un gran movimiento alrededor de todo el equipo; por experiencia dedujo que se iba a producir el desplazamiento del equipo de la VTV. No se emitió ninguna instrucción verbal por parte del jefe de obra ni del jefe de maniobras. Es posible que lo dijera otra persona, pero él no oyó nada;
+◦estaba conversando sobre diversos temas con su compañero, pero este tampoco le dijo nada. A continuación se inició la maniobra y él y su compañero estaban de pie y apoyados en la barandilla de la plataforma izquierda en
+### dirección de marcha. No sabían que se iban a desplazar fuera de la zona asegurada
+y el equipo de cortacircuito tuvo que pasar por detrás de ellos, tal como estaban apoyados;
+◦a continuación, de reflejo, vio un destello que alcanzó a su compañero aproximadamente en el hombro izquierdo. Este cayó sobre la plataforma de trabajo y comenzó a humear su ropa. Inmediatamente se acercó y lo apagó con sus guantes, mientras gritaba a los empleados de abajo, en el vehículo, que tenían un herido;
+◦a continuación la VTV completó el traslado a la 4. SK y llegaron los servicios de emergencia. El compañero estaba consciente y se comunicaba con ellos. Además, el compañero informó a su esposa de sus lesiones.
+montador electricista
+  – Acta de la declaración prestada ante el DI:
 •
-
 
 ## Página 21
 
-◦antes del inicio y durante el turno no estaba cansado, antes del turno tuvo un descanso suficiente. Estaba empleado en la empresa ELTRA, en la que trabajaba desde el año 2018, trabaja en el puesto de montador eléctrico. En total desempeñó este puesto en tres o cuatro obras;
-◦la función del montador eléctrico era el fijado de componentes en los postes de TV y el montaje de otros componentes de TV, pero también realizaban el desmontaje de TV y la instalación de una nueva TV;
-◦en la empresa ELTRA realizaban formaciones, en las que se les formaba en normas checas y en seguridad en la obra. A los electricistas también se les familiarizó con la norma ČSN 34 3109 y la conoce. En el sector civil tenía 5 años de experiencia en el campo eléctrico, en el ferrocarril tiene 2 años de experiencia;
-◦según su declaración, podían encontrarse en la DV durante su movimiento en caso de que se estuviese trabajando y la VTV no podía superar la velocidad de caminata. Del inicio de la maniobra eran informados por el jefe de maniobras o por otro empleado. Las maniobras con empleados en la plataforma de la VTV eran frecuentes en las interrupciones de tráfico, siempre se les informaba de que era posible que se maniobrase con la VTV;
-◦el día de la aparición de la MU, según él, se encontraban en la plataforma de la VTV otros 4 empleados en la segunda parte del equipo. Durante la maniobra le molestaba el sol, que le daba a los ojos. ### A causa del deslumbramiento no podía observar el espacio delante de él en el sentido de movimiento de la VTV y estaba girado de lado para que el sol no le deslumbrase tanto, por este motivo no se percató del equipo de cortocircuito;
-### ◦durante el traslado de la VTV cortaban el hilo de catenaria en trozos más pequeños para su transporte. El motivo del traslado de la VTV era la pausa de mediodía y después debían continuar con el trabajo;
-### ◦en las maniobras en las que los empleados están en la plataforma de la VTV, es práctica habitual ### finalizar el trabajo y mirar en el sentido del movimiento de la maniobra. Del movimiento planificado de la VTV a otra vía les daba información el jefe de maniobras o el jefe de obra. No ocurría que no fuesen informados de que la VTV se iba a desplazar;
-◦no sabían que durante la maniobra saldrían del puesto de trabajo protegido.
-montador eléctrico
+◦antes del inicio y durante el turno no estaba cansado, antes del turno tuvo un descanso suficiente. Estaba empleado en la empresa ELTRA, en la que trabajaba desde 2018, trabaja en el puesto de electricista de montaje. En total desempeñó este puesto en tres o cuatro obras;
+◦las funciones del electricista de montaje consistían en el fijado de componentes en los mástiles de TV y el montaje de otros componentes de TV, pero también realizaban el desmontaje de TV y la instalación de un nuevo TV;
+◦en la empresa ELTRA se impartían formaciones, en las que se formaba en normas checas y en seguridad en la obra. Los electricistas también fueron familiarizados con la norma ČSN 34 3109 y poseen conocimientos de la misma. En el sector civil tenía 5 años de experiencia en el campo eléctrico, en el ferrocarril tiene 2 años de experiencia;
+◦según sus declaraciones, podían encontrarse en la DV durante su desplazamiento en caso de que se estuviera trabajando y la VTV no debía superar la velocidad de caminata. Del inicio de la maniobra de maniobras eran informados por el jefe de maniobras o por otro empleado. Las maniobras con empleados en la plataforma de la VTV eran frecuentes en las interrupciones de servicio, siempre eran informados de que era posible que se realizaran maniobras con la VTV;
+◦el día del suceso del MU, según él, se encontraban en la plataforma de la VTV otros 4 empleados en la segunda parte del convoy. Durante la maniobra le molestaba el sol, que le daba en los ojos. ### A causa del deslumbramiento no podía observar el espacio delante de él en la dirección de movimiento de la VTV y estaba girado de lado para que el sol no le deslumbrara tanto, por ese motivo no se fijó en el cortacircuitos;
+### ◦durante el traslado de la VTV cortaban el hilo de catenaria en partes más pequeñas para el transporte. El motivo del traslado de la VTV era la pausa del mediodía y después debían continuar con el trabajo;
+### ◦en las maniobras en las que hay empleados en la plataforma de la VTV, es práctica habitual
+### terminar el trabajo y mirar en la dirección del movimiento de la maniobra. Del movimiento planificado de la VTV a otra vía les daba información el jefe de maniobras o el jefe de obra. No ocurría que no fueran informados de que la VTV se iba a mover;
+◦no sabían que durante la maniobra saldrían del puesto de trabajo asegurado.
+electricista de montaje
   – Acta con el empleado:
 •
-◦trabajaban en la VTV y cortaban la catenaria en trozos más pequeños para su transporte. ### Finalizaron el trabajo y se trasladaron al lado derecho de la VTV en el sentido de maniobra por empuje, donde se percataron de que la VTV se estaba desplazando en dirección a la vía hacia la estación de Vlkov. Durante ### esto estaban girados a la derecha y no en el sentido de movimiento de la VTV, a causa del ÚD en el enlace entre la 1.ª y la 2.ª vía, del que se avisaron mutuamente. En ese momento les pasó por detrás el brazo del poste de TV, donde estaba situado el equipo de cortocircuito;
-◦unos medio minuto después el montador desapareció de su visión periférica, registró un destello azul y lo vio caer sobre la plataforma de la VTV. Intentó llegar hasta el montador de forma segura y mientras tanto avisaba a los empleados dentro de la DV de que la VTV fuese retirada a la parte eléctricamente protegida. Mientras apagaba la ropa del montador, que comenzó a arder;
-◦después la VTV ya se puso en marcha en dirección a la estación de Křižanov, se ocupó del colega herido, que estaba consciente y comunicaba, lo regaba con agua para enfriarlo, y lo bajaron dentro de la VTV, donde esperaron la llegada de la IZS;
+◦trabajaban en la VTV y cortaban la línea de catenaria en trozos más pequeños para el transporte. ### Terminaron el trabajo y se desplazaron al lado derecho de la VTV en la dirección del empuje de la maniobra, donde se fijaron en que la VTV estaba en movimiento en dirección a la vía hacia la est. Vlkov. En ese momento estaban girados a la derecha y no en la dirección de movimiento de la VTV, debido a la ÚD en el enlace entre la vía 1 y la vía 2, en el que se avisaron mutuamente. En ese momento les pasó por detrás el brazo en el mástil de TV, donde estaba situado el cortacircuitos;
+◦aproximadamente medio minuto después el montador desapareció de su visión periférica, registró un destello azul y lo vio caer a la plataforma de la VTV. Inmediatamente intentó llegar de forma segura al montador y mientras tanto avisaba a los empleados dentro de la DV para que la VTV fuera retirada a la parte eléctricamente asegurada. Mientras tanto apagaba la ropa del montador, que comenzó a arder;
+◦a continuación la VTV ya se puso en marcha en dirección a la est. Křižanov, se ocupó del compañero herido, que estaba consciente y comunicaba, le echaba agua para enfriarlo, y lo bajaron dentro de la VTV, donde esperaron la llegada de los servicios de emergencia (IZS);
 
 ## Página 22
+
 
 ◦a la pregunta de por qué no estaban orientados en el sentido de la marcha durante el traslado de la VTV, respondió que ese día hacía calor y estaba soleado y el sol daba directamente en contra del sentido de la marcha y los deslumbraba. Aunque lo intentaron, no lograron mirar continuamente en el sentido de la marcha de la VTV.
 montador
@@ -635,8 +648,8 @@ montador
 ◦en caso de que se estuviera trabajando, la VTV no podía superar la velocidad de caminata. Del inicio del maniobrado eran informados por el jefe de maniobras o por otro empleado. Los maniobrados en los que los empleados están en la plataforma de la VTV eran frecuentes en las interrupciones, siempre se les informaba de que era posible que se fuera a maniobrar;
 ◦en la plataforma de la VTV un empleado les dijo que cortaran el hilo de catenaria, y bajó a abrir la DV. Él con el electricista realizaban este trabajo y desde el otro lado de la VTV en
 
-
 ## Página 23
+
 
 el mismo trabajaban otros tres o cuatro empleados. Alrededor de la VTV ya solo se encontraba el jefe de tren, pero no sabe exactamente dónde estaba;
 ◦no vigilaban el espacio a su alrededor debido a que estaban encorvados y trabajaban en el corte del hilo de catenaria. Tampoco registraron que estaban en movimiento. No sabían nada de las varillas de cortocircuito ni lo suponían, pensaban que la catenaria estaba sin tensión hasta el seccionamiento eléctrico, que estaba a unos 200 – 300 m más allá;
@@ -653,32 +666,29 @@ montador
 La descripción fáctica del suceso estuvo influenciada por los hechos indicados en el capítulo 2.3 de la presente ZZ. La secuencia del suceso se basa principalmente en las declaraciones prestadas por los empleados, la posición de las huellas de contacto del empleado dañado de la CPS con la TV, la inspección de las partes de la infraestructura en el lugar del SU y la confrontación de lo anterior con los procedimientos tecnológicos para la realización del maniobrado en la interfaz parte excluida/no excluida de la vía y la TV.
 El 28. 7. 2020 se estaba llevando a cabo en la est. Křižanov una interrupción planificada conforme a la ROV 33158, fases A y B. El objeto de la interrupción era la "Reconstrucción del tramo Křižanov – Sklené nad Oslavou, EST Křižanov y EST Sklené nad Oslavou (2.ª parte)". El fin de la interrupción eran las "labores de modernización". Ambas fases mencionadas anteriormente se iniciaron el 27. 7. 2020. Se excluyeron vialmente las vías n.º 2, 4, 6, 8, 10, 10a, parcialmente las extremidades en la continuación de la 2. SK en dirección a la est. Vlkov y parcialmente las extremidades en la continuación de la 2. SK en dirección a Sklené. Se excluyó tensionalmente el grupo par de vías desde el ÚD n.º P4 en el km 61,180 hasta el ÚD n.º P5 en el km 62,350. El espacio entre los anteriores, ÚD provisionales creados para las necesidades de la interrupción, constituía el puesto de trabajo delimitado y seguro desde el punto de vista de la protección contra la lesión por corriente eléctrica de la TV. Contra la perforación accidental o la conexión de una parte de la TV bajo tensión desde la vía de circulación contigua, el puesto de trabajo estaba asegurado con un equipo de cortocircuito, instalado en la TP n.º 14 en el km 61,200. La parte excluida de la vía para la explotación del transporte ferroviario por parte de los transportistas, excepto
 
-
 ## Página 24
 
-los sujetos participantes en la obra, estaba cubierta con la señal portátil "Alto", colocada en la extremidad en la continuación de la 2. SK desde la est. Vlkov en el nivel del ÚO n.º 13B (pilón portante de la tecnología del seccionador n.º 12A, frente a la señal Se 8A) en el km 61,230. Toda la información obtenida durante la inspección de la infraestructura corresponde al contenido del documento "Orden 'B' n.º 032" emitido para las necesidades de la CPS.
-Los empleados que trabajaban el día en que se produjo el SU en la interrupción fueron, antes de iniciar el trabajo, informados en el formulario de la CPS – "Registro de instrucción" – entre otras cosas, sobre la parte viva más próxima de la TV, la delimitación del puesto de trabajo entre el cortocircuito "fijo" y sobre el trabajo realizado, y a la vez conforme a la orden "B" instruidos sobre el estado y la delimitación del puesto de trabajo, lo cual en ambos casos en ambos formularios confirmaron con sus firmas, incluido el empleado dañado.
-El día en que se produjo el SU los empleados de la CPS realizaban la modificación de la TV (desmontaje) en dirección desde la extremidad de la 2. TK desde la est. Sklené, a través de la vía de circulación n.º 2 (2. SK) hasta la extremidad en la continuación de la 2. SK en dirección a la est. Vlkov. La VTV maniobrada, en la que iba acoplada en cabeza en el sentido del maniobrado la DV con plataforma de trabajo para el trabajo en la TV, se detuvo en el periodo anterior a la producción del SU a unos 10 m antes del lugar donde en la TP n.º 14 estaba situado el equipo de cortocircuito.
-Según las conclusiones de la DI (véase el capítulo 4.1.1 de la presente ZZ), la posición anteriormente indicada de la VTV con la cabeza del primer DV maniobrado estaba en posición prohibida, fuera de la parte excluida vialmente de la est. Křižanov, y ello sin el consentimiento del jefe de estación de la est. Křižanov (la VTV en el sentido del maniobrado con la cabeza del primer DV estaba a unos 20 m de la señal portátil "Alto" en dirección a la vía de circulación en servicio y a la vez a 20 m de la señal Se 8A, que formaba el límite de la interrupción vial). La VTV en ese momento con la cabeza del primer DV maniobrado aún no había superado el punto de la TV en el que estaba situado el ÚD n.º P4, es decir, el punto donde podría producirse el peligro de lesión a los empleados de la CPS por corriente eléctrica de la TV.
-Fig. n.º 2: Lugar de producción del SU
+sujetos participantes en la construcción, fue cubierta por una señal portátil «Stůj» (Alto), situada en la cabecera en la continuación de la 2.ª vía de la estación de Vlkov, en el nivel de la Unidad Operativa n.º 13B (pilar portante de la tecnología del seccionador n.º 12A, frente a la señal Se 8A) en el pk 61,230. Toda la información obtenida durante la inspección de la infraestructura corresponde al contenido del documento «Příkaz „B“ č. 032» (Orden «B» n.º 032) emitido para la necesidad de la CPS.
+Los empleados que trabajaban el día del suceso del MU en la vía fuera de servicio fueron informados, antes del inicio del trabajo, en el formulario de la CPS – «Záznam o poučení» (Registro de instrucción) –, entre otras cosas, sobre la parte viva más próxima de la TV, la delimitación del puesto de trabajo entre el «cortocircuito fijo» y sobre el trabajo a realizar, y a la vez, conforme a la orden «B», instruidos sobre el estado y la delimitación del puesto de trabajo, lo que en ambos casos confirmaron con sus firmas en ambos formularios, incluido el empleado lesionado.
+El día del suceso del MU, los empleados de la CPS realizaban la modificación de la TV (desmontaje) en el sentido desde la cabecera de la 2.ª vía de la estación de Sklené, a través de la vía de tráfico n.º 2 (2.ª vía de la estación) hasta la cabecera en la continuación de la 2.ª vía en el sentido hacia la estación de Vlkov. El VTV empujado, en el que figuraba en primera posición en el sentido de la maniobra la DV con plataforma de trabajo para el trabajo en la TV, se detuvo en el momento anterior al suceso del MU a unos 10 m del lugar donde se encontraba, en la TP n.º 14, el equipo de cortocircuito.
+Según las conclusiones del DI (véase el capítulo 4.1.1 de la presente ZZ), la posición descrita anteriormente del VTV con la primera DV empujada en primera posición se encontraba en posición prohibida, fuera de la parte excluida de la vía de la estación de Křižanov, y ello sin el consentimiento del jefe de estación de Křižanov (el VTV se encontraba en el sentido de la maniobra con la primera DV en primera posición a unos 20 m de la señal portátil «Stůj» (Alto) en el sentido hacia la vía de tráfico en servicio y a la vez a 20 m de la señal Se 8A, que constituía el límite de la vía fuera de servicio). El VTV en ese momento, con la primera DV empujada en primera posición, aún no había superado el punto de la TV en el que se encontraba el ÚD n.º P4, es decir, el punto en el que podría producirse el riesgo de que los empleados de la CPS sufrieran una descarga eléctrica de la TV.
+Fig. n.º 2: Lugar del suceso del MU
                    Fuente: DI
-
 
 ## Página 25
 
-A continuación se produjo entre el ZPŘS y el jefe de estación de la est. Křižanov (hasta las 11:26 h, véase cap. 3.1.9 ZZ) el acuerdo y el permiso para el maniobrado, que debía trasladar la VTV de la 2. SK a la 4. SK. La DI, mediante las posiciones kilométricas de los equipos de infraestructura (aguja n.º 10, ÚO n.º 13B, TP n.º 14 y ÚD n.º P4), la longitud total de la VTV y sobre la base de los datos imprecisos sobre el movimiento de la VTV, indicados en las declaraciones prestadas, elaboró un análisis aproximado del movimiento de la VTV durante el maniobrado prohibido y posteriormente durante el maniobrado acordado. Dado que no fue posible determinar con total exactitud el lugar en el que se encontraba el empleado dañado de la CPS en la plataforma de trabajo antes de la producción del SU, la DI valoró la posibilidad de producción del peligro de lesión ya en la cabeza del 2.º DV en el sentido del maniobrado de la VTV (inicio de la plataforma de trabajo).
-La VTV desde la posición prohibida empezó, ya con el permiso para el maniobrado del jefe de estación de la est. Křižanov, a moverse maniobrando hacia la vía de circulación en servicio, en dirección a la est. Vlkov. En el momento en que, tras recorrer unos 15 m, llegó el HDV con su extremo trasero en el sentido de la marcha al lugar del inicio (antes de las puntas de las lenguas) de la aguja n.º 10, la cabeza del primer DV maniobrado estaba en el km 61,195 y faltaban unos 15 m para el lugar del ÚD n.º P4. Tras recorrer unos 29 m llegó el inicio de la plataforma de trabajo del 2.º DV al nivel del ÚD n.º P4 y tras recorrer otros 5 m llegó al lugar de las huellas de contacto del empleado dañado de la CPS con la TV conectada (huellas en la TV). En la plataforma de la DV se encontró, según la documentación de SŽ, una huella de la acción de la corriente eléctrica (véase la fig. n.º 5) en el lugar donde la corriente de cortocircuito pasó probablemente al marco de la tapa, que sirve para el acceso a la DV.
-Fig. n.º 3: Vista en contra del sentido del maniobrado, en dirección a la est. Křižanov       Fuente: DI
-Tras la acción de la corriente eléctrica sobre el empleado dañado de la CPS, los demás empleados, que se encontraban hacia la mitad de la VTV, informaron mediante gestos y gritos al trabajador con la función de ZPŘS de la producción de la lesión. La VTV a continuación se desplazó desde el lugar del SU a la 4. SK, conforme al maniobrado planificado y acordado, donde se realizó la asistencia al empleado dañado de la CPS y la posterior intervención de los servicios del IZS.
-
+A continuación, entre el ZPŘS y el jefe de estación de la estación de Křižanov (hasta las 11:26 h, véase el capítulo 3.1.9 ZZ), se llegó a un acuerdo y se concedió autorización para una maniobra de empuje, con la que el VTV debía ser trasladado desde el 2.º SK al 4.º SK. La DI, mediante las posiciones kilométricas de los dispositivos de infraestructura (aguja n.º 10, ÚO n.º 13B, TP n.º 14 y ÚD n.º P4), la longitud total del VTV y sobre la base de datos imprecisos sobre el movimiento del VTV, indicados en la presentación de la declaración de explicación, elaboró un análisis aproximado del movimiento del VTV durante la maniobra no autorizada y, posteriormente, durante la maniobra acordada. Dado que no fue posible determinar con total precisión el lugar en el que se encontraba el empleado dañado de la CPS en la plataforma de trabajo antes de la ocurrencia del MU, la DI evaluó la posibilidad de que se produjera un peligro de lesión ya en el frente del 2.º DV en la dirección de empuje del VTV (inicio de la plataforma de trabajo). El VTV comenzó a moverse desde la posición no autorizada, ya con la autorización para la maniobra del jefe de estación de la estación de Křižanov, avanzando por empuje hacia la vía de circulación en servicio, en dirección a la estación de Vlkov. En el momento en que, tras recorrer unos 15 m, el HDV llegó con su extremo trasero en la dirección de marcha al lugar del inicio (antes de las puntas de los labios) de la aguja n.º 10, el extremo del primer DV empujado se encontraba en el km 61,195 y faltaban unos 15 m para el lugar del ÚD n.º P4. Tras recorrer unos 29 m, el inicio de la plataforma de trabajo del 2.º DV llegó a la altura del ÚD n.º P4 y, tras recorrer otros 5 m, llegó al lugar de las huellas tras el contacto del empleado dañado de la CPS con el TV conectado (huellas en el TV). En la plataforma del DV se encontró, según la documentación de SŽ, una huella de la descarga eléctrica (véase la figura n.º 5) en el lugar donde la corriente de cortocircuito pasó probablemente a la armadura de la tapa que sirve de acceso al DV.
+Figura n.º 3: Vista en contra de la dirección de la maniobra, en dirección a la estación de Křižanov       Fuente: DI
+Tras la descarga eléctrica del empleado dañado de la CPS, los demás empleados, situados a unos 15 m del centro del VTV, informaron mediante gestos y gritos al trabajador con la función de ZPŘS sobre la ocurrencia de la lesión. A continuación, el VTV se desplazó desde el lugar del MU hasta el 4.º SK, según la maniobra planificada y acordada, donde se realizó la atención al empleado dañado de la CPS y la posterior intervención de los servicios del IZS.
 
 ## Página 26
+
 
 Fig. n.º 4: Lugares de movimiento de la VTV antes de la producción del SU
              Fuente: DI, mapy.cz
 
-
 ## Página 27
+
 
 ### 3.2.2 Secuencia de hechos desde la producción del suceso excepcional hasta la finalización de las acciones de los servicios de rescate
 11:27 h producción del SU;
@@ -722,6 +732,7 @@ El empleado de la CPS con la función de ZPŘS, que contractualmente garantizaba
 
 ## Página 28
 
+
 que la maniobra mencionada (de la 2.ª vía principal a la 4.ª vía principal) se acordó únicamente después de que la maniobra de empuje del primer DV empujado se hubiera realizado sin acuerdo, hasta una distancia de aproximadamente 20 m de la vía de tráfico en servicio.
 Hallazgos:
 Durante la investigación se constató una infracción de las normas internas relativas a las funciones y obligaciones del operador ferroviario,
@@ -738,8 +749,8 @@ El operador ferroviario tiene establecidas normas para garantizar la PRL para su
 En la delimitación y cobertura de la parte de la vía de tráfico excluida según el contenido de la ROV 33158 fase A, B, y del reglamento SŽDC D1, incluida la protección eléctrica del puesto de trabajo según la TNŽ 34 3109, no se detectaron deficiencias. El lugar del MU se encontraba fuera del puesto de trabajo delimitado y protegido eléctricamente.
 Durante la investigación no se constató infracción de las funciones y obligaciones del operador ferroviario.
 
-
 ## Página 29
+
 
 ### 4.1.2 Entidades responsables del mantenimiento de los vehículos ferroviarios
 Durante la investigación no se constató infracción de las funciones y obligaciones de las entidades responsables del mantenimiento de los vehículos ferroviarios.
@@ -756,8 +767,8 @@ Durante la investigación no se constató infracción de las funciones y obligac
 ### 4.1.7 Cualquier otra persona o entidad
 El contratista de la obra «Reconstrucción del tramo de línea Křižanov – Sklené nad Oslavou» fue «Společnost Vysočina», en virtud del contrato «Contrato de obra para la ejecución de la obra», licitación – reconstrucción del tramo de línea Křižanov – Sklené nad Oslavou, número de contrato del encargante E617-S-4249/2019, celebrado el 18. 12. 2019 entre la sociedad «Společnost Vysočina» y el encargante SŽ, Dirección de Obras de Construcción Este (en adelante, Contrato de obra). Los participantes de la sociedad «Společnost Vysočina» eran las empresas:
 
-
 ## Página 30
+
 
 TSS GRADE, a. s.,
 •
@@ -784,8 +795,8 @@ Durante la investigación del MU, en relación con las normas legales generales 
 § 22.4 de la ley núm. 266/1994 Sb.:
 •
 
-
 ## Página 31
+
 
 «Las personas que se encuentren en el ámbito de la vía ferroviaria están obligadas a velar por su seguridad, a atender a las instrucciones del operador ferroviario para garantizar la seguridad de las personas y la seguridad de la explotación de la vía ferroviaria y del tráfico ferroviario, y a las instrucciones para garantizar la protección de la propiedad y el orden público, y están obligadas a abstenerse de todo lo que pueda perturbar o amenazar la explotación de la vía ferroviaria y del tráfico ferroviario o tener como consecuencia la aparición de daños en los componentes de la vía ferroviaria o en el vehículo ferroviario, o perturbar el orden público»;
 art. 91 del reglamento SŽDC Bp1:
@@ -811,6 +822,7 @@ Durante la investigación no se detectaron factores derivados de la instalación
 
 ## Página 32
 
+
 ### 4.2.3 Factores o consecuencias relacionados con los fabricantes de material rodante u otro proveedor de productos ferroviarios
 En la investigación no se detectaron factores relacionados con los fabricantes de material rodante u otro proveedor de productos ferroviarios.
 ### 4.2.4 Factores o consecuencias derivados del mantenimiento y modificación del material rodante o de instalaciones técnicas
@@ -830,70 +842,89 @@ En la investigación no se detectaron factores relacionados con la organización
 ### 4.3.4 Factores relacionados con el entorno de trabajo
 En la investigación no se detectaron factores relacionados con el entorno de trabajo.
 
-
 ## Página 33
 
-### 4.3.5 Otro factor relevante a efectos de la investigación
+### 4.3.5 Otro factor significativo a efectos de la investigación
 En la investigación no se detectaron otros factores relacionados con la actuación de las personas implicadas.
-### 4.4 Mecanismos de retroalimentación y mecanismos de control, incluida la gestión del riesgo y la garantía de la seguridad, y procedimientos de seguimiento
+### 4.4 Mecanismos de retroalimentación y mecanismos de control, incluida la gestión de riesgos 
+y la garantía de la seguridad, y los procedimientos de seguimiento
 ### 4.4.1 Condiciones pertinentes del marco regulatorio
-Las condiciones pertinentes del marco regulatorio están establecidas en los Reglamentos de la Unión Europea, en la Ley n.º 266/1994 Sb. y en los reglamentos de desarrollo.
-4.4.2 Procedimientos, métodos, contenido y resultados de las actividades de evaluación de riesgos y seguimiento realizadas por cualquiera de los sujetos implicados
-En los procedimientos, métodos, contenido y resultados de las actividades de evaluación de riesgos y seguimiento relacionados con las circunstancias de producción del MU en cuestión, no se detectaron deficiencias.
+Las condiciones pertinentes del marco regulatorio están establecidas en los Reglamentos de la Unión Europea, 
+en la Ley n.º 266/1994 Sb. y en los decretos de aplicación.
+4.4.2 Procedimientos, métodos, contenido y resultados de las actividades de evaluación de riesgos y seguimiento que 
+realiza cualquiera de los sujetos implicados
+En los procedimientos, métodos, contenido y resultados de las actividades de evaluación de riesgos y seguimiento 
+relacionados con las circunstancias del origen del citado MU, no se detectaron deficiencias.
 ### 4.4.3 Sistema de garantía de la seguridad de los operadores ferroviarios y gestores de infraestructura implicados
-En el sistema de garantía de la seguridad adoptado por el gestor de la infraestructura y el operador ferroviario, relacionado con las circunstancias de producción del MU en cuestión, no se detectaron deficiencias.
-### 4.4.4 Sistema de gestión de los sujetos responsables del mantenimiento del material rodante y de los talleres de mantenimiento
-El sistema de gestión de los sujetos responsables del mantenimiento del material rodante y de los talleres de mantenimiento no guardaba relación con la producción del MU.
+En el sistema de garantía de la seguridad adoptado por el gestor de infraestructura y el operador ferroviario, relacionado 
+con las circunstancias del origen del citado MU, no se detectaron deficiencias.
+### 4.4.4 Sistema de gestión de los sujetos responsables del mantenimiento del material rodante 
+y de los talleres de mantenimiento
+El sistema de gestión de los sujetos responsables del mantenimiento del material rodante y de los talleres de mantenimiento 
+no guardaba relación con el origen del MU.
 ### 4.4.5 Resultados de la supervisión realizada por las autoridades nacionales de seguridad
-Atendiendo a los factores detectados y a las circunstancias de producción del MU, la supervisión de la autoridad de seguridad no guarda relación con el MU en cuestión.
-### 4.4.6 Aprobaciones, certificados y informes de evaluación emitidos por la Agencia, las autoridades nacionales de seguridad u otros sujetos de evaluación de la conformidad
-El gestor de la infraestructura explotaba la infraestructura al amparo de una autorización administrativa vigente y de un certificado de seguridad del gestor de la infraestructura. El operador ferroviario explotaba el transporte ferroviario al amparo de una licencia vigente y de un certificado del operador ferroviario.
+Atendiendo a los factores y circunstancias detectados del origen del MU, la supervisión de la autoridad de seguridad 
+no guarda relación con el citado MU.
+### 4.4.6 Aprobaciones, certificados y informes de evaluación emitidos por la Agencia, las autoridades nacionales 
+de seguridad u otros sujetos de evaluación de la conformidad
+El gestor de infraestructura explotaba la infraestructura con base en la autorización administrativa vigente y el certificado 
+de seguridad del gestor de infraestructura. El operador ferroviario explotaba el transporte ferroviario con base en 
+la licencia vigente y el certificado del operador ferroviario.
 ### 4.4.7 Otros factores sistémicos
 En la investigación no se detectaron otros factores sistémicos.
 ### 4.5 Sucesos anteriores de naturaleza similar
-No consta en la DI ningún MU similar.
-
+No consta en el DI ningún MU de características similares.
 
 ## Página 34
 
 ### 5 CONCLUSIONES
 ### 5.1 Resumen del análisis y conclusiones relativas a las causas del suceso
-La causa inmediata del suceso extraordinario fue:
-el incumplimiento de las condiciones de garantía de la seguridad y la protección de la salud en el trabajo en el momento de la presencia del empleado de la CPS en la plataforma superior de la unidad de maniobras durante la maniobras bajo la parte del sistema de catenaria bajo tensión.
-•
-No se detectó por la DI ningún factor contribuyente.
-No se detectó por la DI ninguna causa sistémica.
-### A summary of the analysis and conclusions with regard to the causes of the 
+La causa inmediata del suceso ferroviario fue:
+el incumplimiento de las condiciones para garantizar la seguridad y la protección de la •
+salud en el trabajo en el momento de la presencia del trabajador externo de la CPS en
+la plataforma superior de la unidad de maniobras durante la maniobra bajo la parte
+bajo tensión de la línea de contacto.
+No se detectó ningún factor contribuyente por parte de la DI.
+No se detectó ninguna causa sistémica por parte de la DI.
+### A summary of the analysis and conclusions with regard to the causes of the
 occurrence
 Causal factor:
-failure to comply the conditions for ensuring safety and health protection at work at 
+failure to comply the conditions for ensuring safety and health protection at work at
 •
-the time of presence of the external worker on the roof platform of the shunting 
+the time of presence of the external worker on the roof platform of the shunting
 operation during shunting under the voltage-operated part of the contact line.
 Contributing factor: none.
 Systemic factor: none.
-### 5.2 Medidas adoptadas para la prevención de sucesos extraordinarios
-El operador ferroviario EŽP no adoptó ni emitió ninguna medida.
-El gestor de la infraestructura SŽ no adoptó ni emitió ninguna medida; dado que la fuente de peligro para la infraestructura y el transporte ferroviario quedaba fuera de su ámbito de competencia, debatió la producción de este MU con el contratista de la obra, la empresa „Společnost Vysočina“. Esta empresa creó, con fecha 28. 7. 2020, el documento „Poučný list č. 3/2020 k pracovnímu úrazu“ (Hoja de instrucciones n.º 3/2020 sobre accidente laboral). En dicha hoja de instrucciones, en los requisitos y recomendaciones del técnico externo de PRL, se indica:
-„Durante la maniobras de VTV
-Si la plataforma de trabajo del material rodante para la construcción, mantenimiento, reparación y medida de la catenaria está ocupada por un grupo de trabajo, la velocidad del material rodante podrá ser como máximo de 15 km/h. 
-•
-La circulación debe ser fluida, sin golpes ni frenadas bruscas.
-Durante la circulación del material rodante, las personas de la plataforma de trabajo deben sujetarse a la barandilla y observar la catenaria en el sentido de la marcha!!
-•
-Las personas de la plataforma deben extremar la precaución durante la circulación en túneles, pasos inferiores, etc., donde la estructura suspendida de la catenaria sea diferente o donde la altura de la catenaria esté reducida.
-•
-Vigilar la maniobras y cumplir las instrucciones del responsable de los trabajos.
-•
-Extreme la precaución y preste atención a los lugares marcados como límites de cortocircuito.
-•
-Antes de la maniobras, comprobar si la VTV sale de los límites del puesto de trabajo eléctricamente asegurado.
-•
-Asegurarse de que el grupo de trabajo ha abandonado el puesto de trabajo tras la finalización de los trabajos.
-•
-
+### 5.2 Medidas adoptadas para la prevención de sucesos ferroviarios
+El transportista EŽP no adoptó ni emitió ninguna medida.
+El gestor de la infraestructura SŽ no adoptó ni emitió ninguna medida; dado que la
+fuente de riesgo para la infraestructura y el transporte ferroviario queda fuera de su
+competencia, la aparición de este SU fue tratada con el contratista de la obra, la
+empresa „Společnost Vysočina“. Esta creó el día 28. 7. 2020, con motivo del SU, el
+documento „Poučný list č. 3/2020 k pracovnímu úrazu“. En dicho documento de
+instrucción, en los requisitos y recomendaciones del técnico externo de PRL, se
+indica:
+„Durante la maniobra de VTV
+Si la plataforma de trabajo del vehículo para la construcción, mantenimiento, •
+reparación y medición de la línea de contacto está ocupada por el grupo de trabajo,
+la velocidad del vehículo podrá ser como máximo de 15 km/h. La marcha debe ser
+suave, sin golpes ni frenadas bruscas.
+Durante la marcha del vehículo, las personas en la plataforma de trabajo deben •
+sujetarse a la barandilla y observar la línea de contacto en la dirección de la
+marcha!!
+Las personas en la plataforma deben extremar la precaución durante la marcha en •
+túneles, pasos inferiores, etc., donde la estructura de suspensión de la línea de
+contacto sea diferente o donde la altura de la línea de contacto esté reducida.
+Seguir la maniobra y cumplir las instrucciones del responsable de los trabajos. •
+Extreme la precaución y preste atención a los lugares marcados como límites de •
+cortocircuito.
+Antes de la maniobra, comprobar si la VTV no sale de los límites del puesto de •
+trabajo eléctricamente protegido.
+Asegurarse de que el grupo de trabajo ha abandonado el puesto de trabajo tras •
+finalizar los trabajos.
 
 ## Página 35
+
 
 Conclusión
 A los empleados
@@ -937,8 +968,8 @@ Oslavou line section to take care of their own safety and health, follow the ins
 supervisors and other responsible persons and pay attention at moving on the operated 
 railway transport route.
 
-
 ## Página 36
+
 
 To supervisors:
 To carry out regularly and daily instructions for employees and check compliance with 
@@ -970,8 +1001,8 @@ director
 de la Inspección Territorial de Brno
 de la Inspección Territorial de Brno
 
-
 ## Página 37
+
 
 ### ANEXOS
 Fig. n.º 5: Huellas en la TV tras la descarga eléctrica al montador          
@@ -979,7 +1010,7 @@ Fig. n.º 5: Huellas en la TV tras la descarga eléctrica al montador
 Fig. n.º 6: Parte trasera de la VTV tras la reducción a 4. SK
          Fuente: DI
 
-
 ## Página 38
+
 
 Fig. n.º 7: Huellas por la descarga de cortocircuito en la plataforma del DV               Fuente: SŽ

@@ -10,13 +10,14 @@ chars: 107518
 ratio_longitud: 1.24
 tokens_in: 50681
 tokens_out: 35967
-verificacion: revisar
-notas_cifras: ["bloque 1: original bilingüe: se compara contra el idioma principal (EN)", "bloque 8: original bilingüe: se compara contra el idioma principal (CS)"]
-avisos: ["bloque 8: ratio 1.75"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 6: original bilingüe: se compara contra el idioma principal (CS)", "página 7: original bilingüe: se compara contra el idioma principal (CS)", "página 10: original bilingüe: se compara contra el idioma principal (CS)", "página 13: original bilingüe: se compara contra el idioma principal (CS)", "página 20: original bilingüe: se compara contra el idioma principal (CS)", "página 21: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -42,13 +43,13 @@ IČ: 75009561
 mail@dicr.cz
 tel.: +420 736 521 003
 
-
 ## Página 2
+
 
 Este informe final es público y todos los hechos en él expuestos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ### 1 RESUMEN
 Fuente: Drážní inspekce
@@ -80,8 +81,8 @@ muy baja tenacidad a la entalla del material del carril, que aumenta la
 •
 probabilidad de rotura a temperaturas reducidas.
 
-
 ## Página 4
+
 
 No se ha identificado ninguna causa sistémica por parte de Drážní inspekce.
 Recomendaciones de seguridad:
@@ -99,8 +100,8 @@ zona del pie del carril de la lengüeta en el lado adyacente al carril de apoyo,
 la aplicación del método o métodos y procedimientos más eficaces en el sistema
 de la actividad de control realizada.
 
-
 ## Página 5
+
 
 ### SUMMARY
 19th December 2020, 18:23 (17:23 GMT).
@@ -147,8 +148,8 @@ foot on the side adjacent to stock rail will be continuously exercised, resp.
 evaluated and the most effective method or methods and procedures will be
 applied into the system of the exercised controls.
 
-
 ## Página 6
+
 
 ## Índice
 1 RESUMEN........................................................................................................................3
@@ -199,6 +200,7 @@ ferroviaria o de las instalaciones técnicas....................................
 
 ## Página 7
 
+
 4.2.2 Factores o consecuencias derivados de la instalación y puesta en servicio de vehículos ferroviarios, infraestructura ferroviaria o instalación técnica......................................30
 4.2.3 Factores o consecuencias relacionados con el fabricante de vehículos ferroviarios u otro proveedor de productos ferroviarios............................................................................30
 4.2.4 Factores o consecuencias derivados del mantenimiento y modificación de vehículos ferroviarios o instalaciones técnicas....................................................................................................30
@@ -228,8 +230,8 @@ y de los talleres de mantenimiento..............................................
 6 RECOMENDACIONES DE SEGURIDAD.....................................................................................38
 ANEXOS..............................................................................................................................39
 
-
 ## Página 8
+
 
 ### Lista de siglas y símbolos utilizados
 BD
@@ -288,8 +290,8 @@ pasaje a nivel
 žst.
 estación ferroviaria
 
-
 ## Página 9
+
 
 ### Lista de siglas de la legislación, normas y normativa interna utilizadas
 ley núm. 262/2006 Sb.
@@ -360,8 +362,8 @@ de la realización de los ensayos
 norma técnica checa «Aplicaciones ferroviarias – Vía –
 Carril – Parte 1: Carriles Vignole
 
-
 ## Página 10
+
 
 de 46 kg/m o superiores», en la redacción vigorosa en el momento
 de la realización de los ensayos
@@ -404,8 +406,8 @@ la explotación de las instalaciones de enclavamiento de estación y de
 tramo», en la redacción vigorosa en el momento de la ocurrencia del suceso
 extraordinario
 
-
 ## Página 11
+
 
 ### 2 INVESTIGACIÓN Y SU CONTEXTO
 ### 2.1 Decisión de iniciar la investigación
@@ -437,8 +439,8 @@ El nivel de colaboración con los representantes de los sujetos implicados en el
 y los hallazgos recogidos en el informe
 En el marco de la investigación del suceso extraordinario, la DI actuó de la siguiente manera, es decir, utilizó, entre otros, los siguientes métodos y técnicas:
 
-
 ## Página 12
+
 
 inspección del lugar del suceso extraordinario, incluidos los vehículos ferroviarios implicados, las instalaciones técnicas
 •
@@ -484,6 +486,7 @@ La est. Hluboká nad Vltavou-Zámostí se encuentra en el pk 10,148 de la vía f
 
 ## Página 13
 
+
 de vía única. La aguja simple n.º 11 en el pk 11,004 entre la 3.ª vía principal y la 1.ª vía principal estaba equipada con un motor eléctrico de cambio de aguja con cierre de mordaza.
 est. Hluboká nad
 Vltavou-Zámostí
@@ -508,8 +511,8 @@ Estado de los vehículos ferroviarios:
 ➢la HDV tenía los pantógrafos recogidos, estaba manejada desde la cabina II del maquinista (la delantera en el sentido de circulación del tren), estaba descarrilada por el bogie delantero con ambos ejes a la izquierda en el sentido de circulación del tren, visiblemente estaba dañado el rastrillo y el amortiguador de eje arrancado del segundo bogie delantero, las ruedas de la HDV estaban dañadas por la circulación en estado descarrilado, la extensión de los daños no pudo determinarse en el lugar del MU.
 Del examen de la cabina de la persona que manejaba el DV (en adelante, el maquinista) se constató:
 
-
 ## Página 14
+
 
 ➢la cabina del maquinista, incluido el pupitre de mando, no presentaba signos de deformación ni de daños;
 ➢la palanca de dirección estaba situada en la posición «0»;
@@ -532,8 +535,8 @@ Del examen de la infraestructura:
 ➢detrás de la señal L1 en el sentido de circulación del tren, en el pk 11,004, se encontraba la aguja simple n.º 11 de forma S49 1:12-500 izquierda, conmutada centralmente, apoyada sobre traviesas de hormigón, con cierre de mordaza, equipada con un motor eléctrico de cambio de aguja, recorrida por el tren R 655 por la punta, sin contrapeso del cambio de aguja;
 ➢en el momento de la circulación del tren estaba conmutada en el sentido recto;
 
-
 ## Página 15
+
 
 ➢en la lengüeta izquierda de la aguja n.º 11 (a la derecha en el sentido de circulación del tren) se constató en el pk 10,991 una rotura vertical en toda la altura de la sección de la lengüeta, a unos 10 cm del final (borde) del último soporte deslizante elevado, en el punto donde empieza a cambiar la altura de la lengüeta – pasa de la sección de lengüeta a la de carril – y el soporte deslizante siguiente ya no está elevado;
 ➢en el punto de rotura en el pk 10,991 se determinó el punto «0»;
@@ -556,8 +559,8 @@ Los resultados de la medición se evaluaron según la ČSN 73 6360-2:
 • en el sentido del art. 7.2.1, tablas 6, 7 y 8, no se constataron desviaciones operativas y operativas límite de la variación del ancho de vía;
 • en el sentido del art. 7.2.1, tabla 9, no se constataron desviaciones operativas y operativas límite del ancho de vía no conformes.
 
-
 ## Página 16
+
 
 Valores constatados en el Acta de medición de la superestructura vial tras el MU del 20. 12. 2020:
 punto
@@ -656,8 +659,8 @@ no medible
 Estado del SZZ:
 ➢en la est. Hluboká nad Vltavou-Zámostí estaba instalado un SZZ de 3.ª categoría modelo TEST 14 – enclavamiento eléctrico de modelo controlado desde el enclavamiento central, operado localmente desde la mesa de mando del dispositivo TEST, para la comprobación de la libre circulación de todos los carriles destinados a la circulación de trenes estaban instalados tramos de vía equipados con circuitos de vía;
 
-
 ## Página 17
+
 
 ➢en el tramo entre estaciones est. Hluboká nad Vltavou-Zámostí – est. Chotýčany estaba instalado un dispositivo de seguridad de 3.ª categoría modelo AH 83 (bloqueo automático sin señales de sección);
 ➢en la est. Chotýčany estaba instalado un dispositivo de seguridad de 3.ª categoría REMOTE 98, mediante el cual se controlaba a distancia desde una única estación de trabajo de operación el Desvío Dobřejovice;
@@ -683,6 +686,7 @@ Estado del SZZ:
 ➢el conmutador de tres posiciones de la aguja n.º 10 estaba en la posición central, estaba encendida la luz indicadora amarilla – aguja en la posición «-», el precinto del cordón del botón de cambio de aguja de emergencia no estaba violado;
 
 ## Página 18
+
 
 ➢el controlador de tres posiciones de la aguja n.º 11 estaba en posición central, estaba encendida la luz indicadora verde – aguja en posición "+", el precinto del cordón del botón de cambio de aguja de emergencia no estaba violado;
 ➢el controlador de tres posiciones de la aguja n.º 12 estaba en posición central, estaba encendida la luz indicadora roja de pérdida de supervisión de la posición final de la aguja, el precinto del cordón del botón de cambio de aguja de emergencia no estaba violado;
@@ -713,8 +717,8 @@ Como consecuencia de la producción del MU se interrumpió la circulación en la
 Personas participantes por:
 Gestor de la vía (SŽ):
 
-
 ## Página 19
+
 
 jefe de estación de la est. Hluboká nad Vltavou-Zámostí, empleado de SŽ.
 •
@@ -746,28 +750,27 @@ la estación de origen era la est. Plzeň hl. n., la de destino la est. Jihlava.
 El HDV 91 54 7 242 211-1 disponía del Certificado de aptitud del vehículo ferroviario válido, n.º de ev. PZ 6574/00-V.02, expedido por DÚ el 30. 6. 2000. La última revisión técnica periódica anterior a la producción del MU se realizó el 8. 10. 2020 con el resultado: "El vehículo cumple las condiciones de circulación en las vías y es conforme a las TP (condiciones técnicas) de la serie de vehículos ferroviarios sobre raíles indicada".
 El HDV 91 54 7 242 211-1 estaba equipado, en el momento de la producción del MU, con un velocímetro mecánico Hasler Bern tipo RT9, n.º F06.028.
 
-
 ## Página 20
 
 De los datos registrados se desprende:
-| • 18:15:00 h | el tren partió de la est. České Budějovice y, tras recorrer 1650 m, alcanzó una velocidad de 116 km h-1; |
-| • 18:23:00 h | tras recorrer 9150 m, al entrar en la est. Hluboká nad Vltavou-Zámostí, el tren redujo la velocidad a 90 km h-1; |
-| • 18:23:00 h – 18:23:20 h | desde la entrada en la est. Hluboká nad Vltavou-Zámostí, el tren recorrió la 1.ª SK 500 m a una velocidad de 90 km h-1; |
-| • 18:23:20 h | producción del MU a una velocidad de 90 km h-1. |
-Durante la circulación del tren desde la est. České Budějovice hasta el punto de producción del MU, el maquinista no superó la velocidad máxima permitida del tren.
+| • 18:15:00 h | el tren partió de la est. České Budějovice y, tras recorrer 1650 m, alcanzó una velocidad de 116 km h-1 ; . |
+| • 18:23:00 h | tras recorrer 9150 m, al entrar en la est. Hluboká nad Vltavou-Zámostí, el tren redujo la velocidad a 90 km h-1 ; . |
+| • 18:23:00 h – 18:23:20 h | desde la entrada en la est. Hluboká nad Vltavou-Zámostí, el tren recorrió 1 SK 500 m a una velocidad de 90 km h-1 ; . |
+| • 18:23:20 h | se produjo el MU a una velocidad de 90 km h-1 . . |
+Durante la circulación del tren desde la est. České Budějovice hasta el lugar de producción del MU, el maquinista no superó la velocidad máxima permitida del tren.
 Nota: no se detectó diferencia entre el tiempo registrado y el tiempo real.
-Las TDV incluidas en la composición del tren disponían de revisiones técnicas válidas.
-### 3.1.8 Descripción de las partes pertinentes de la infraestructura y del sistema de señalización
-El punto del MU se situaba en el extremo de Chotýčany de la est. Hluboká nad Vltavou-Zámostí.
-La aguja simple n.º 11 en el pk 11,004 de perfil S 49 con desplazador electromotor y cierre de lengüeta estaba apoyada sobre traviesas de hormigón, el anclaje se realizó con abrazaderas Skl 24. La aguja se instaló como usada en el año 2016, la lengüeta de la aguja fue fabricada por la empresa DT Prostějov en el año 1997. La vía en el punto del MU, en el sentido de circulación del tren, se desarrollaba en línea recta a la altura del terreno circundante y con una pendiente del 11,4 ‰. Se trataba de una vía de vía única, electrificada, en el punto del MU con una velocidad máxima permitida de 90 km.h-1, protegida por un SZZ de 3.ª categoría tipo TEST 14 (enclavamiento eléctrico tipo controlado desde el enclavamiento central), para la detección de la libre circulación de todas las vías destinadas al tránsito de trenes se emplean tramos de vía equipados con circuitos de vía de doble banda. El SZZ disponía del Certificado de aptitud válido n.º de ev. 4646/96-E.48, expedido por DÚ el 12. 7. 1996, con vigencia por tiempo indefinido. El Informe de revisión del UTZ eléctrico n.º 058/18-KP se realizó el 6. 8. 2018. En el tramo entre estaciones entre la est. Hluboká nad Vltavou-Zámostí – Chotýčany había un dispositivo de señalización de 3.ª categoría tipo AH 83 (bloqueo automático sin balizas de sección).
+El TDV incorporado a la composición del tren contaba con las inspecciones técnicas en vigor.
+### 3.1.8 Descripción de las partes correspondientes de la infraestructura y del sistema de señalización
+El lugar del MU se encontraba en el extremo de Chotýčany de la est. Hluboká nad Vltavou-Zámostí.
+La aguja simple n.º 11 en el pk 11,004 de perfil S 49 con motor eléctrico de cambio de aguja y cierre de lengüeta estaba apoyada sobre traviesas de hormigón, y el anclaje se realizó con abrazaderas Skl 24. La aguja se incorporó como usada en el año 2016; la lengüeta de la aguja fue fabricada por la empresa DT Prostějov en el año 1997. La vía en el lugar del MU, en el sentido de circulación del tren, discurría en línea recta a la altura del terreno circundante y ascendía con una pendiente de 11,4 ‰. Se trataba de una vía de vía única, electrificada, en el lugar del MU con una velocidad máxima permitida de 90 km.h-1, protegida por un SZZ de 3.ª categoría tipo TEST 14 (enclavamiento eléctrico de modelo controlado desde el enclavamiento central); para comprobar la libertad de todas las vías destinadas a la circulación de trenes se emplean tramos de vía equipados con circuitos de vía de doble banda. El SZZ contaba con el Certificado de Aptitud n.º de ref. 4646/96-E.48, emitido por el DÚ el 12. 7. 1996, con vigencia por tiempo indefinido. El Informe de revisión del UTZ eléctrico n.º 058/18-KP se realizó el 6. 8. 2018. En el tramo entre estaciones entre las est. Hluboká nad Vltavou-Zámostí – Chotýčany, el dispositivo de señalización era de 3.ª categoría tipo AH 83 (bloqueo automático sin balizas de sección).
 Del registro del diario de circulación electrónico de la est. Hluboká nad Vltavou-Zámostí se constató:
-| • 18:05 h | paso del tren Ex 334 por la 1.ª SK de la est. Hluboká nad Vltavou-Zámostí (dirección est. Chotýčany por la punta de la lengüeta de la aguja n.º 11 en sentido directo); |
-| • 18:14 h | entrada del tren Pn 59596 en la 2.ª SK de la est. Hluboká nad Vltavou-Zámostí (dirección est. České Budějovice contra la punta de la lengüeta de la aguja n.º 11 en sentido secundario a la izquierda); |
-| • 18:23 h | paso del tren R 655 por la 1.ª SK de la est. Hluboká nad Vltavou-Zámostí (dirección est. Chotýčany por la punta de la lengüeta de la aguja n.º 11 en sentido directo); |
-| • 18:24 h | salida del tren Pn 59596 de la 2.ª SK de la est. Hluboká nad Vltavou-Zámostí (dirección est. České Budějovice) |
-
+| • 18:05 h | paso del tren Ex 334 por 1 SK est. Hluboká nad Vltavou-Zámostí (dirección est. Chotýčany por la punta de la lengüeta de la aguja n.º 11 en sentido directo); . . , . |
+| • 18:14 h | entrada del tren Pn 59596 en 2 SK est. Hluboká nad Vltavou-Zámostí (dirección est. České Budějovice contra la punta de la lengüeta de la aguja n.º 11 por el sentido lateral . , . a la izquierda); |
+| • 18:23 h | paso del tren R 655 por 1 SK est. Hluboká nad Vltavou-Zámostí (dirección est. . . Chotýčany por la punta de la lengüeta de la aguja n.º 11 en sentido directo); , . |
+| • 18:24 h | salida del tren Pn 59596 de 2 SK est. Hluboká nad Vltavou-Zámostí (dirección . . est. České Budějovice) . . |
 
 ## Página 21
+
 
 Las vías de tren para todos los trenes anteriormente indicados, incluido el tren R 655, estaban protegidas por la operación normal del dispositivo de señalización, que presentaba un funcionamiento estándar y sin averías.
 ### 3.1.9 Cualquier otra información relevante a efectos de la descripción del suceso y de la información básica
@@ -793,24 +796,24 @@ jefe de estación de la est.
 ◦apagó la campana de corte y en ese instante le llamó el maquinista del tren R 655 para decirle que habían descarrilado en el extremo;
 ◦a continuación, llamó a los correspondientes servicios de emergencia, al despachante de explotación y al inspector de explotación.
 
-
 ## Página 22
 
-### 3.2 Descripción fáctica del suceso
-### 3.2.1 Secuencia de hechos que condujeron al suceso extraordinario
-El 19. 12. 2020, antes de la llegada del tren R 655, llegó desde el sentido de la est. Chotýčany a la est. Hluboká nad Vltavou-Zámostí el tren Pn 59596. En la vía de tren establecida circuló por la aguja n.º 11 contra la punta en sentido secundario a la izquierda, que en el momento de su circulación no presentaba signos de avería, y se detuvo a las 18:14 h en la 2.ª SK. Al mismo tiempo, el jefe de estación de la est. České Budějovice le daba la salida prevista del tren R 655. En la preanunciación desde el bloqueo Hosín, el jefe de estación de la est. Hluboká nad Vltavou-Zámostí ofreció el tren R 655 a la est. Chotýčany y estableció la vía de tren por la 1.ª SK; el tren entró en la est. Hluboká nad Vltavou-Zámostí con la señal "Vía libre" en la señal de entrada L a las 18:23 h y, tras recorrer unos 500 m, descarriló en la parte de lengüeta de la aguja n.º 11 a las 18:23:20 h. Según la declaración del maquinista del tren R 655, durante la circulación por el extremo de Dobřejovice oyó fuertes golpes provenientes de la zona del bogie del HDV; en ese momento se produjo el descarrilamiento del HDV debido a la rotura vertical de la lengüeta izquierda de la aguja n.º 11 en el punto del final (borde) del último soporte deslizante. A continuación, descarrilaron las cuatro TDV incluidas en la composición del tren. Como consecuencia del siniestro se produjeron nuevas roturas en la parte de corazón de la aguja n.º 11, en el soporte y en la lengüeta derecha de la aguja n.º 12 y en la banda de carril derecha. El tren, a continuación, tras recorrer 277 m en estado de descarrilamiento, se detuvo.
-El jefe de estación, tras el paso del tren R 655, volvió a la sala de tráfico, dio la salida prevista del tren Pn 59596 a la est. České Budějovice, estableció la salida desde la 2.ª SK hacia la aguja de enlace Nemanice y fue a observar la salida de dicho tren. Tras su regreso a la sala de tráfico, en la mesa de mando del SZZ sonaba la campana de corte de la aguja n.º 12 y en el extremo de Dobřejovice estaban encendidos los circuitos de vía ocupados. El jefe de estación apagó la campana de corte y al mismo tiempo el maquinista del tren R 655 le comunicó que había descarrilado en el extremo de salida. A continuación, lo comunicó todo según el horario de comunicaciones. En el MU no se produjo daño a la salud de personas ni daño al medio ambiente. Se produjo daño en todos los DV del tren y en la infraestructura.
-### 3.2.2 Secuencia de hechos desde la producción del suceso extraordinario hasta la finalización de las acciones de los servicios de emergencia
+### 3.2 Descripción factual del suceso
+### 3.2.1 Secuencia de hechos que condujeron al suceso excepcional
+El 19 de 12 de 2020, antes de la llegada del tren R 655, llegó desde la dirección de la est. Chotýčany a la est. Hluboká nad Vltavou-Zámostí el tren Pn 59596. En la vía de tren establecida circuló por el desvío n.º 11 en aguja contraria por el ramal lateral a la izquierda, que en el momento de su circulación no presentaba signos alguna de avería, y se detuvo a las 18:14 h en la 2.ª SK. Al mismo tiempo, la jefa de estación de la est. České Budějovice daba la salida prevista del tren R 655. En la preanunciación desde el enlace Hosín, la jefa de estación de la est. Hluboká nad Vltavou-Zámostí ofreció el tren R 655 a la est. Chotýčany y estableció la vía de tren por la 1.ª SK; el tren entró en la est. Hluboká nad Vltavou-Zámostí con la señal «Vía libre» en la señal de entrada L a las 18:23 h y, tras recorrer unos 500 m, descarriló en la parte de lengüeta del desvío n.º 11 a las 18:23:20 h. Según la declaración del maquinista del tren R 655, oyó durante la circulación por la cabeza de vías de Dobřejovice fuertes golpes procedentes del área del bogie del HDV; en ese momento se produjo el descarrilamiento del HDV debido a la rotura vertical de la lengüeta izquierda del desvío n.º 11 en el lugar del final (borde) del último travesaño deslizante. A continuación, descarrilaron los cuatro TDV integrados en la composición del tren. Como consecuencia del suceso se produjeron nuevas roturas en la parte de corazón del desvío n.º 11, en el travesaño y en la lengüeta derecha del desvío n.º 12 y en la banda derecha del carril. El tren, a continuación, tras recorrer 277 m en estado de descarrilamiento, se detuvo.
+La jefa de estación, tras el paso del tren R 655, volvió a la oficina de tráfico, dio en la est. České Budějovice la salida prevista del tren Pn 59596, estableció la salida desde la 2.ª SK a la aguja de Nemanice y fue a observar la salida de dicho tren. Tras su regreso a la oficina de tráfico, en la mesa de mando SZZ sonaba la campana de corte del desvío n.º 12 y en la cabeza de vías de Dobřejovice estaban iluminados los circuitos de vía ocupados. La jefa de estación apagó la campana de corte y al mismo tiempo el maquinista del tren R 655 le comunicó que había descarrilado en la cabeza de vías de salida. Después, lo comunicó todo según el horario de comunicaciones. En el MU no se produjeron daños a la salud de las personas ni daños al medio ambiente. Se produjeron daños en todos los DV del tren y en la infraestructura.
+### 3.2.2 Secuencia de hechos desde la producción del suceso excepcional hasta la finalización de las acciones de los servicios de rescate
 | • 18:23 h | producción del MU; |
-| • 18:25 h | el maquinista del tren R 655 comunicó la producción del MU al jefe de estación de la est. Hluboká nad Vltavou-Zámostí; |
-| • 18:25 h | el jefe de estación de la est. Hluboká nad Vltavou-Zámostí comunicó la producción del MU según el horario de comunicaciones y activó los servicios de IZS; |
-| • 18:34 h | el jefe de despacho de CDP Praha comunicó la producción del MU a O18 SŽ; |
-| • 18:49 h | la persona autorizada de O18 SŽ notificó la producción del MU a COP DI; |
-| • 18:58 h | la persona autorizada de O18 SŽ notificó a COP DI información complementaria; |
-| • 21:15 – 23:25 h | se realizó la inspección de la infraestructura ferroviaria, del HDV y del SZZ, en la sala de tráfico de la est. Hluboká nad Vltavou-Zámostí, por empleados de DI y SŽ; |
-| • 8:05 – 12:00 h • el 20 12 2020 | se realizó la inspección de la composición del tren R 655 y se completó la inspección de la infraestructura ferroviaria por empleados de DI y SŽ; |
+| • 18:25 h | el maquinista del tren R 655 comunicó la producción del MU a la jefa de estación de la est. Hluboká nad Vltavou-Zámostí; |
+| • 18:25 h | la jefa de estación de la est. Hluboká nad Vltavou-Zámostí comunicó la producción del MU según el horario de comunicaciones y activó los componentes del IZS; |
+| • 18:34 h | el jefe de despacho del CDP Praha comunicó la producción del MU al O18 SŽ; |
+| • 18:49 h | la persona autorizada del O18 SŽ notificó la producción del MU al COP DI; |
+| • 18:58 h | la persona autorizada del O18 SŽ notificó al COP DI información complementaria; |
+| • 21:15 – 23:25 h | se realizó la inspección de la infraestructura ferroviaria del HDV y del SZZ, en la oficina de tráfico de la est. Hluboká nad Vltavou-Zámostí, por empleados de DI y SŽ; |
+| • 8:05 – 12:00 h • el 20 12 2020 . . | se realizó la inspección de la composición del tren R 655 y se completó la inspección de la infraestructura ferroviaria por empleados de DI y SŽ; |
 
 ## Página 23
+
 
 10:00 h del 20. 12.
 el inspector DI presente dio su consentimiento para la liberación de la vía;
@@ -841,8 +844,8 @@ El gestor de la vía está obligado a mantener la vía en estado de explotabilid
 En los tramos Odbočka Sudoměřice – Tábor, Roudná – Planá nad Lužnicí y en Výhybna Nemanice está instalado el dispositivo ASDEK, que sirve para el diagnóstico de irregularidades en la superficie de las ruedas ferroviarias durante la marcha (los llamados ruedas planas) incluyendo rodamientos y frenos o bandas en caliente (el llamado sobrecalentamiento). El propósito del dispositivo es detectar a tiempo y retirar del tráfico ferroviario los vagones defectuosos.
 El 19. 12. 2020 a las 15:55 h se detectó en Výhybna Nemanice una anomalía – indicación de irregularidad en la marcha en el eje 14 del tren Ex 335, que fue registrada en el «Registro de anomalías diagnosticadas». El jefe de servicio exterior de žst. České Budějovice comunicó la anomalía
 
-
 ## Página 24
+
 
 a la persona cualificada del transportista (el jefe de vagones), que tras la parada del tren en žst. České Budějovice realizó una inspección y no detectó ninguna anomalía.
 El gestor de la vía está asimismo obligado a realizar inspecciones centradas en el estado de la infraestructura ferroviaria. La frecuencia de las inspecciones realizadas debe ser conforme al decreto nº 177/1995 Sb., al anexo A de la norma interna SŽDC S2/3 «Mediciones e inspecciones básicas de vías y desvíos SŽDC, tabla B – parte del desvío» (desde el 1. 4. 2020 se produjeron cambios en esta norma respecto a la edición anterior) y a la directriz SŽDC nº 51 para la realización de inspecciones y mediciones de desvíos. El jefe de la Administración de Vías de České Budějovice emitió el 18. 11. 2020 la «Instrucción del jefe de la Administración de Vías de České Budějovice – Controles de vías establecidos», en la que se modificó la frecuencia (aumento del número) de los controles establecidos por la norma interna del gestor de la vía SŽDC S2/3.
@@ -858,10 +861,10 @@ La inspección en el tramo entre žst. České Budějovice y žst. Hluboká nad 
 4. Medición de la anchura de vía, de la posición relativa en altura de las bandas de riel y de la dirección de vías y desvíos con medios de medición con registro continuo, con un intervalo de 1 vez cada 6 meses:
 En el resumen de anomalías detectadas del 31. 3. 2020 y del 28. 7. 2020 no se registró ninguna anomalía en el desvío nº 11 de žst. Hluboká nad Vltavou-Zámostí.
 5. Control no destructivo de las piezas transitadas de los desvíos e inspección visual de sus soldaduras según la tabla B – parte del desvío, norma SŽDC S2/3, con un intervalo de 1 vez cada 4 meses:
-Según los datos de los partes de ensayo no destructivo de los labios de desvío y rieles del 27. 1., 28. 4., 3. 8., 1. 9. y 7. 12. 2020, no se detectaron defectos en el desvío nº 11 de žst. Hluboká nad Vltavou-Zámostí, es decir, tampoco en el labio izquierdo recto roto durante el MU. 
-
+Según los datos de los partes de ensayo no destructivo de los labios de desvío y rieles del 27. 1., 28. 4., 3. 8., 1. 9. y 7. 12. 2020, no se detectaron defectos en el desvío nº 11 de žst. Hluboká nad Vltavou-Zámostí, es decir, tampoco en el labio izquierdo recto roto durante el MU.
 
 ## Página 25
+
 
 ### Constatación:
 La rotura del labio del desvío nº 11 de žst. Hluboká nad Vltavou-Zámostí puede considerarse una fractura frágil sin causa aparente. La presencia de una grieta por fatiga en la pared inferior de la base del labio se detectó únicamente al observar las superficies de fractura con un estereomicroscopio óptico a una ampliación de aproximadamente diez veces. Es evidente que la detección de dicha grieta en condiciones de explotación es imposible, véase el punto 4.2.1 de esta ZZ.
@@ -883,8 +886,8 @@ La autoridad nacional de seguridad es el DÚ, que de acuerdo con la ley nº 266/
 La función de la Agencia Ferroviaria de la Unión Europea es, además de garantizar, en el marco de sus competencias, que se mantenga y, en la medida de lo posible, se aumente de forma sistemática la seguridad de los ferrocarriles, entre otras, la emisión, renovación, suspensión y modificación de certificados únicos de seguridad, la limitación de su validez o su cancelación, en cuestión en la que coopera con las autoridades nacionales de seguridad; asimismo emite autorizaciones para la comercialización de vehículos ferroviarios y tipos de vehículos y está facultada para renovar, modificar, suspender o cancelar las autorizaciones que haya emitido. La Agencia evalúa asimismo los proyectos de normativa nacional, etc.
 En la investigación no se constató infracción de las funciones y obligaciones de la autoridad nacional de seguridad y de la Agencia Ferroviaria de la Unión Europea.
 
-
 ## Página 26
+
 
 ### 4.1.5 Entidades notificadas, entidades designadas y entidades dedicadas a la evaluación de riesgos
 En la investigación no se constató infracción de las funciones y obligaciones de las entidades notificadas, de las entidades designadas y de las entidades dedicadas a la evaluación de riesgos.
@@ -898,8 +901,8 @@ En la actividad de control regular realizada por el gestor de la vía centrada e
 Fig. nº 2: Superficie de fractura del labio del desvío nº 11 
   Fuente: DI
 
-
 ## Página 27
+
 
 El desvío simple nº 11 sin aguja móvil estaba soldado a la vía sin juntas, era maniobrado centralmente, apoyado sobre traviesas de hormigón, equipado con cierre de garras y motor eléctrico de maniobra, se incorporó como usado en el año 2016, el labio del desvío se fabricó en el año 1997. En el labio izquierdo del desvío nº 11 en el km 10,991, en su parte de base, se detectó una fractura vertical en toda la longitud de la sección en el extremo (borde) del último soporte deslizante (fig. nº 3).
 La medición GPK fue realizada por el DI el 20. 12. 2020 en presencia del representante de SŽ y se limitó a la medición manual de la anchura de vía y del peralte en los puntos +30 a «0». Más allá del punto «0» no fue posible realizar la medición debido al daño del desvío nº 11.
@@ -915,6 +918,7 @@ Fig. nº 3: Vista de la rotura del labio del desvío nº 11 tras la ocurrencia d
 ### Análisis metalográfico del material del desvío – de los resultados de la evaluación de las características macroestructurales del material del labio se concluyó que la macroestructura era homogénea. No se detectó
 
 ## Página 28
+
 
 presencia de defectos de conformación, cavidades subsuperficiales o grietas de conformación. La impresión de azufre cumplía la norma ČSN EN 13674-1 – clasificación aceptable, sin segregación ni estructura dendrítica (sin salientes).
 La caracterización microestructural del material de la lengüeta era perlítica laminar (estratificada), sin defectos estructurales evidentes (descarbonización, presencia de martensita, bainita y cementita en los límites de grano). Se encontraron cambios en la microestructura únicamente en la capa de material (espesor de aprox. 1 – 1,5 mm) bajo la superficie de rodadura de la cabeza del raíl. La microestructura en esta capa estaba notablemente deformada y los granos del material estaban considerablemente deformados. Se encontró una capa con microestructura muy fina a lo largo de la pared inferior del talón, donde se produjo la iniciación de la grieta por fatiga. La capa con un tamaño de grano diferente tenía un espesor de unos 1 mm y, con toda probabilidad, era consecuencia de la fabricación.
@@ -933,8 +937,8 @@ en el borde derecho del talón del raíl (en la dirección de circulación del t
 •
 encontró una zona de forma semielíptica, cuya morfología indicaba que se trataba
 
-
 ## Página 29
+
 
 de una grieta por fatiga; el resto de la fractura de la lengüeta presentaba signos macroscópicos de fractura por fuerza;
 el seguimiento de la micromorfología de la fractura demostró de forma totalmente
@@ -970,8 +974,8 @@ la fractura de la lengüeta del desvío n.º 11 se produjo en la zona donde se r
 •
 perfil del raíl. La presencia de fractura por fatiga en el talón demuestra que la lengüeta estaba sometida a una carga cíclica. La carga cíclica se debe principalmente a la carga variable de los trenes que pasan. No obstante, esta carga puede verse aumentada por el efecto adverso de distintas holguras de construcción o montaje, que pueden conducir a mayores
 
-
 ## Página 30
+
 
 deformaciones de la lengüeta al paso de los trenes. Como consecuencia, se produce también un notable aumento de la amplitud de la carga de impacto, que conduce a la fractura final de la lengüeta;
 en el lugar de iniciación de la fractura por fatiga se encontró una capa superficial con
@@ -998,8 +1002,8 @@ En la investigación no se detectaron factores derivados del mantenimiento y la 
 ### 4.2.5 Factores o consecuencias relacionados con el sujeto responsable del mantenimiento de vehículos ferroviarios, los talleres de mantenimiento y otros prestadores de servicios de mantenimiento
 En la investigación no se detectaron factores relacionados con el sujeto responsable del mantenimiento de DV, los talleres de mantenimiento y otros prestadores de servicios de mantenimiento.
 
-
 ## Página 31
+
 
 4.2.6 Otros factores o consecuencias que se consideren relevantes a efectos de la investigación
 En la investigación no se detectaron otros factores relacionados con DV, infraestructura ferroviaria o instalaciones técnicas.
@@ -1026,35 +1030,35 @@ No se detectaron deficiencias en el sistema de garantía de seguridad adoptado p
 ## Página 32
 
 ### 4.4.4 Sistema de gestión de los sujetos responsables del mantenimiento de los vehículos ferroviarios y de los talleres de mantenimiento
-El sistema de gestión de los sujetos responsables del mantenimiento de VF y de los talleres de mantenimiento no guardaba relación con la aparición del MU.
+El sistema de gestión de los sujetos responsables del mantenimiento de los vehículos ferroviarios y de los talleres de mantenimiento no guardaba relación con la aparición del accidente ferroviario.
 ### 4.4.5 Resultados de la supervisión realizada por las autoridades nacionales de seguridad
-Atendiendo a los factores y circunstancias de la aparición del MU constatados, la supervisión de la autoridad de seguridad no guarda relación con el MU en cuestión.
-En respuesta a la solicitud de los resultados de la supervisión estatal realizada por la DÚ, se comunicó:
-en el ámbito del estado técnico de los desvíos, la DÚ procede conforme al punto 6 del anexo n.º 1
+Atendiendo a los factores y circunstancias detectados relativos a la aparición del accidente ferroviario, la supervisión de la autoridad de seguridad no guarda relación con el accidente ferroviario en cuestión.
+En respuesta a la solicitud de los resultados de la supervisión estatal realizada por la DÚ, se comunicó lo siguiente:
+en el ámbito del estado técnico de los desvíos, la DÚ actúa en el ámbito del anexo n.º 1, punto 6
 •
 del decreto n.º 177/1995 Sb. (inspección de desvíos). La DÚ no realiza supervisiones estatales centradas en el estado concreto de los labios de los desvíos.
-### 4.4.6 Aprobaciones, certificados e informes de evaluación emitidos por la agencia, las autoridades nacionales de seguridad u otros sujetos de evaluación de la conformidad
-El explotador ferroviario explotaba la vía en virtud de la autorización administrativa vigente y del certificado de seguridad del explotador ferroviario. El transportista explotaba el transporte ferroviario en virtud de la licencia vigente y del certificado del transportista.
+### 4.4.6 Aprobaciones, certificados y dictámenes de evaluación emitidos por la agencia, las autoridades nacionales de seguridad u otros sujetos de evaluación de la conformidad
+El gestor de la infraestructura ferroviaria explotaba la infraestructura ferroviaria en virtud de la autorización administrativa vigente y del certificado de seguridad del gestor de la infraestructura ferroviaria. El transportista explotaba el transporte ferroviario en virtud de la licencia vigente y del certificado del transportista.
 ### 4.4.7 Otros factores sistémicos
-En la investigación no se constataron otros factores sistémicos.
+En la investigación no se detectaron otros factores sistémicos.
 ### 4.5 Sucesos anteriores de naturaleza similar
-La DI investigó en el periodo comprendido entre el 1. 1. 2008 y la fecha de aparición del MU en cuestión, en las vías ferroviarias de categoría nacional y regional, un total de 5 MU similares:
-el 22. 1. 2011 en la est. Brno-Maloměřice, cuando se produjo el descarrilamiento de la LDV y de 3 vagones
+La DI investigó, en el período comprendido entre el 1 de enero de 2008 y la fecha de aparición del accidente ferroviario en cuestión, en las vías ferroviarias de categoría nacional y regional, un total de 5 accidentes ferroviarios similares:
+el 22 de enero de 2011, en la estación de Brno-Maloměřice, se produjo el descarrilamiento de la locomotora y de 3 vagones
 •
-del tren de mercancías Rn 52336. En el MU no hubo daños personales y el daño total se valoró en 4 152 112 Kč. Las causas inmediatas del MU fueron la aparición de una fisura por fatiga en la cara lateral de la base del labio en el punto de contacto del labio con el riel de apoyo, y la no detección de la fisura por fatiga en las inspecciones realizadas conforme a los procedimientos del explotador ferroviario;
-el 18. 11. 2012 en la est. Praha-Vršovice, cuando se produjo el descarrilamiento del tren Sv 29709. En el
+del tren de mercancías Rn 52336. En el accidente ferroviario no hubo lesiones personales y el daño total se cifró en 4 152 112 Kč. Las causas inmediatas del accidente ferroviario fueron la aparición de una fisura por fatiga en la cara lateral de la base del labio en el punto de contacto del labio con el carril de apoyo y la no detección de la fisura por fatiga en las inspecciones realizadas según los procedimientos del gestor de la infraestructura ferroviaria;
+el 18 de noviembre de 2012, en la estación de Praha-Vršovice, se produjo el descarrilamiento del tren Sv 29709. En el
 •
-MU no hubo daños personales y el daño total se valoró en 615 800 Kč.
-La causa inmediata de la aparición del MU fue la rotura del labio izquierdo del desvío n.º 23;
-el 21. 7. 2013 en la est. Pardubice hl. n., cuando se produjo el descarrilamiento del tren de mercancías Pn
+accidente ferroviario no hubo lesiones personales y el daño total se cifró en 615 800 Kč.
+La causa inmediata de la aparición del accidente ferroviario fue la rotura del labio izquierdo del desvío n.º 23;
+el 21 de julio de 2013, en la estación de Pardubice hl. n., se produjo el descarrilamiento del tren de mercancías Pn
 •
-166283 por la rotura del labio del desvío n.º 75 y la posterior colisión con un pilar de acero de la pasarela y un soporte de tracción. En el MU no hubo daños personales y el daño total se valoró en 6 763 850 Kč. La causa inmediata de la aparición del MU fue el desarrollo progresivo de defectos del labio conductor hasta su rotura;
-el 2. 10. 2013 en la est. Přerov, cuando se produjo el descarrilamiento del vehículo ferroviario motriz
+166283 por rotura del labio del desvío n.º 75 y la posterior colisión con un pilar metálico de la pasarela y un soporte de catenaria. En el accidente ferroviario no hubo lesiones personales y el daño total se cifró en 6 763 850 Kč. La causa inmediata de la aparición del accidente ferroviario fue la progresión gradual de los defectos del labio hasta su rotura;
+el 2 de octubre de 2013, en la estación de Přerov, se produjo el descarrilamiento de la locomotora
 •
 y del vehículo ferroviario remolcado de la unidad de maniobras tras la finalización de la circulación del tren Rn 50230.
 
-
 ## Página 33
+
 
 En el MU no hubo daños personales y el daño total se valoró en 2 637 789 Kč.
 La causa inmediata de la aparición del MU fue la rotura del labio curvado derecho de la rama de desvío del desvío n.º 208 en la est. Přerov en el punto de forja del perfil del labio a perfil de riel.
@@ -1082,8 +1086,8 @@ detectar defectos ocultos, una inspección por control no destructivo con sonda 
 El explotador ferroviario, en respuesta a esta Recomendación de Seguridad, comunicó:
 «El Centro Principal de Control No Destructivo de SŽDC (HDS) sigue continuamente el desarrollo de los métodos de control no destructivo utilizables para la inspección no destructiva de raíles, labios y agujas. Sin embargo, es preciso destacar que en los últimos 60 años no se ha inventado ningún nuevo método de control no destructivo y que, por tanto, se trata solo de nuevas posibilidades de los métodos existentes en relación con el desarrollo de la técnica de instrumentación correspondiente. Respecto a las solicitudes repetidas de búsqueda de un método de control no destructivo para detectar defectos ocultos, indicamos que el «defecto oculto» debe entenderse como un defecto cuyo carácter (cambio de material, inclusiones, fisura, etc.) o recorrido (perpendicular, oblicuo, horizontal) puede identificarse habitualmente mediante un método de control no destructivo, pero que en algunos casos solo puede determinarse mediante un ensayo destructivo. En muchos casos, sin embargo, el defecto oculto se manifiesta específicamente en la superficie del raíl (p. ej., como una mancha oscura en la superficie de rodadura del raíl), por lo que tales defectos pueden detectarse también visualmente. Las manifestaciones de defectos concretos de los raíles están
 
-
 ## Página 34
+
 
 suficientemente descritas en la norma de SŽDC (ČD) S67 para cada uno de los defectos. Con los procedimientos y medios disponibles en la actualidad puede detectarse la gran mayoría de los «defectos ocultos». SŽDC considera que el método más adecuado para detectar fisuras transversales en la cara lateral de la base del raíl de labio adyacente al riel de apoyo sigue siendo el método ultrasónico, y el HDS sigue buscando activamente un procedimiento de trabajo fiable, reproducible y aplicable en la vía cuyos resultados sean inequívocamente interpretables. Solo un procedimiento así puede implantarse en la práctica. SŽDC utiliza para la inspección básica (en el sentido de la norma SŽDC (ČD) S3/4) de raíles, labios y agujas, exclusivamente un equipo ultrasónico con sonda directa doble y dos sondas angulares (ángulo 70°) dirigidas la una hacia la otra. Para la inspección detallada se utilizan varios tipos de sondas angulares, cuya utilización concreta se describe detalladamente en los distintos procedimientos de ensayo, que son anexos de la norma SŽDC (ČD) S3/4.»;
 respecto al MU del 21. 7. 2013 en la est. Pardubice hl. n.:
@@ -1099,6 +1103,7 @@ respecto a la frecuencia de realización de las inspecciones de labios:
 
 ## Página 35
 
+
 „El Departamento de Gestión de Vías de la Dirección General realizó a finales de los años 2011 y 2012 un análisis de la posibilidad de acortar los plazos de realización de las inspecciones de detección de defectos. De él se concluyó que con los medios técnicos disponibles y utilizables en servicio no era (y sigue sin ser) posible detectar la muesca inicial (grieta) en el lateral del talón del carril de aguja adyacente al carril de soporte, y por tanto no existe motivo para intervenir en el calendario temporal ni en el sistema de realización de las inspecciones de detección de defectos de los carriles de aguja aplicado por Správa železnic. En este sentido, hago constar que ya en esa época (y se mantiene hoy) la frecuencia de realización de las inspecciones de detección de defectos de los carriles de aguja era superior a la establecida en la disposición nº 177/1995 Sb., por la que se dicta el Reglamento de construcción y técnico de las vías férreas. Los carriles de aguja son, a su vez, inspeccionados visualmente de forma continua en el marco de la actividad de supervisión prescrita por la norma SŽDC S2/3 (especialmente rondas e inspecciones de desvíos) y, desde 2018, además, por encima de las inspecciones de detección de defectos prescritas, en las vías principales de determinadas líneas, mediante una unidad de diagnóstico para ensayos no destructores de los raíles.“,
 para la determinación de la vida útil máxima de los carriles de aguja:
 „También para este punto se realizó un análisis. La gran cantidad de factores que influyen en la vida útil de los carriles de aguja y sus numerosas combinaciones provocan que los desvíos se comporten de manera muy diferente en condiciones aparentemente iguales. La vida útil de los carriles de aguja de los desvíos se agota, en general, al alcanzar el desgaste límite prescrito (rodadura) y/o cuando su mantenimiento se vuelve antieconómico debido al desarrollo de defectos de todo tipo, incluidos los defectos por fatiga y por fatiga de contacto. Mientras que los límites de desgaste están establecidos reglamentariamente, los límites en relación con el tiempo de servicio y el modo de carga, dadas las circunstancias anteriores, no pueden establecerse. Por ello, tampoco figuran en las Especificaciones Técnicas de Interoperabilidad, en las Normas Europeas ni en las disposiciones de la UIC, y no queda más remedio que partir del estado real de los carriles de aguja determinado mediante las inspecciones prescritas. En este contexto y tras un acuerdo con la DI, en 2013 se inició el recambio periódico de los carriles de aguja del sistema S49 de formas 1:9-300 y 1:11-300 en las vías de orden 1.º a 4.º. El recambio cíclico de los carriles de aguja, ... , se basa en las estadísticas de roturas y de recambios de carriles de aguja realizados por defecto, siendo necesario tener en cuenta que el recambio de un carril de aguja no siempre puede correlacionarse con su vida útil.“,
@@ -1108,8 +1113,8 @@ al MU del 3 de 11 de 2019 en la estación Praha-Malešice (BD para DÚ) de adopt
 • la realización de una inspección extraordinaria del estado y del apriete de los tornillos de las juntas cortas en los carriles de aguja, y garantizar su inspección permanente y periódica también en el futuro.
 Respuesta del gestor de la vía SŽ a la primera parte de este BD:
 
-
 ## Página 36
+
 
 „Správa železnic monitora activamente y de forma continua el desarrollo en el ámbito de los ensayos no destructores del acero, incluida la verificación de su posible aplicación en la vía de tráfico ferroviario. A la vez, consulta la cuestión con gestores de vía extranjeros en el marco de negociaciones bilaterales y en diversas plataformas, como la Unión Internacional de Ferrocarriles (UIC), el Grupo de Visegrád (V4), etc. Hasta la fecha, sin embargo, no se ha desarrollado un procedimiento de ensayo que sea utilizable en desvíos en servicio y que, a la vez, alcance la fiabilidad requerida.“,
 a la segunda parte del BD:
@@ -1124,8 +1129,8 @@ Los factores contribuyentes al suceso excepcional fueron:
 • la carga cíclica a largo plazo por un intenso tráfico ferroviario;
 • la imposibilidad de detectar la grieta de fatiga oculta mediante las inspecciones realizadas por el gestor de la vía;
 
-
 ## Página 37
+
 
 • la muy baja tenacidad a la entalla del material del raíl, que aumenta la probabilidad de rotura a temperaturas reducidas.
 La Inspección Ferroviaria (DI) no detectó ninguna causa sistémica.
@@ -1157,8 +1162,8 @@ Safety Inspection Office and the switch manufacturer (DT Prostějov company). IM
 issued Instruction of the General Director in the matter of cyclic exchange of the
 point blades of the switches No. SŽ PO-11/2021-GŘ of 26th April 2021.
 
-
 ## Página 38
+
 
 The railway undertaking ČD did not take any measures.
 The statement of the Czech National Safety Authority is stated in point 4.4.5 of this
@@ -1189,56 +1194,57 @@ inspector
 Inspectorado Territorial de Bohemia
 Inspectorado Territorial de Plzeň
 
-
 ## Página 39
+
 
 ### ANEXOS
 Fig. nº 4: Resultados de la evaluación de las características macroestructurales del material del carril de aguja – la estructura es homogénea, sin presencia de defectos de conformación (cavidades subsuperficiales o grietas de conformación). La impresión de azufre corresponde a la clasificación aceptable – sin segregación ni estructura dendrítica.
 Fuente: ČVUT con edición de la DI
 
-
 ## Página 40
+
 
 Fig. nº 5: Microestructura perlítica laminar en distintas zonas de la sección del carril de aguja (microscopía óptica, atacado con Nital).
    Fuente: ČVUT con edición de la DI
 
-
 ## Página 41
+
 
 Fig. nº 6: Microestructura del material justo bajo la superficie de rodadura del raíl – las imágenes documentan una marcada recristalización de las capas superficiales de la cabeza del raíl (microscopía electrónica de barrido señal – atacado con Nital).
    Fuente: ČVUT con edición de la DI
 
-
 ## Página 42
+
 
 Fig. nº 7: Indicación de las posiciones de las zonas en las que se obtuvo la documentación detallada de la micromorfología de la rotura.
    Fuente: ČVUT con edición de la DI
 
-
 ## Página 43
+
 
 Fig. nº 8: Micromorfología de la rotura en la zona de iniciación múltiple a lo largo de la superficie lateral del talón del carril de aguja – se indican las zonas detalladamente observadas y la posición del corte metalográfico (Min – Min), en el que se observó la microestructura del material en la zona de iniciación (en la zona afectada térmicamente).
    Fuente: ČVUT con edición de la DI
 
-
 ## Página 44
+
 
 Fig. nº 9: Micromorfología de la rotura en la zona de iniciación de la grieta de fatiga – la grieta se inició en la pared inferior del talón y se propagó en abanico mediante el mecanismo de formación de estriaciones.
    Fuente: ČVUT con edición de la DI
 
-
 ## Página 45
+
 
 Fig. nº 10: Micromorfología de la rotura en la zona de la interfaz fatiga – rotura frágil. La zona de fatiga se caracteriza por la presencia de campos de estriaciones; la zona de rotura frágil se formó por rotura transcrística de clivaje.
    Fuente: ČVUT con edición de la DI
 
 ## Página 46
 
+
 Fig. n.º 11: Microestructura del material de la base del carril en la zona de iniciación de grietas por fatiga (corte Min – Min, atacado con Nital). Las imágenes documentan la formación de una capa de material a lo largo de la pared inferior de la base del lengüeta (la microestructura es notablemente de grano fino).
    Fuente: ČVUT con modificación de DI
 
-
 ## Página 47
+
 
 Fig. n.º 12: Aguja dañada n.º 11, vista en el sentido de circulación del tren. 
         Fuente: DI

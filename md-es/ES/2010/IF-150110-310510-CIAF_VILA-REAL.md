@@ -24,6 +24,7 @@ fallecidos: 1
 linea: 600 Valencia – San Vicente de Calders
 pk: 62+902
 normalizado: si
+notas_cifras: ["página 12: original bilingüe: se compara contra el idioma principal (PT)"]
 ---
 ## Página 1
 

@@ -10,13 +10,14 @@ chars: 50537
 ratio_longitud: 1.25
 tokens_in: 25359
 tokens_out: 15773
-verificacion: revisar
-notas_cifras: ["bloque 2: original bilingüe: se compara contra el idioma principal (CS)", "bloque 6: original bilingüe: se compara contra el idioma principal (CS)"]
-avisos: ["bloque 6: ratio 1.70"]
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 5: original bilingüe: se compara contra el idioma principal (EN)", "página 6: original bilingüe: se compara contra el idioma principal (PT)", "página 7: original bilingüe: se compara contra el idioma principal (CS)", "página 10: original bilingüe: se compara contra el idioma principal (CS)", "página 11: original bilingüe: se compara contra el idioma principal (PL)"]
 ---
+
 ## Página 1
+
 
 Inspección Ferroviaria
 República Checa
@@ -39,11 +40,12 @@ NIF:   75009561
 http://www.dicr.cz
 fax: (+420) 224 805 428
 
-
 ## Página 2
 
 
+
 ## Página 3
+
 
 # RESUMEN
 Grado:
@@ -79,11 +81,12 @@ Causa raíz:
 ninguna
 Recomendaciones: no emitidas
 
-
 ## Página 4
 
 
+
 ## Página 5
+
 
 # Índice
  Summary .............................................................................................................................3
@@ -127,6 +130,7 @@ personas en relación contractual ..............................................
 
 ## Página 6
 
+
 3.1.2 Otras personas .....................................................................................................12
 3.2 Sistema de garantía de la seguridad ........................................................................12
 3.2.1 Organización marco y forma en que se emiten y aplican las instrucciones .......12
@@ -168,8 +172,8 @@ influye en su manejo y utilización ............................................
 punto 3 ............................................................................................................................17
 4.2 Análisis ......................................................................................................................18
 
-
 ## Página 7
+
 
 4.2.1 Evaluación de los hechos constatados de acuerdo con el punto 3 y formulación de 
 conclusiones sobre la causa del suceso excepcional y la actuación de los servicios 
@@ -199,8 +203,8 @@ circulación ...................................................................
  Foto 4: Distribuidor del freno directo DAKO BP2, con el que está equipado el HDV 
 serie 350 ........................................................................................................23
 
-
 ## Página 8
+
 
 ## 1 RESUMEN
 Clasificación del suceso:
@@ -234,6 +238,7 @@ no emitidos por la Inspección Ferroviaria
 
 ## Página 9
 
+
 ## 2 DATOS RELATIVOS AL SUCESO EXTRAORDINARIO
 ### 2.1 Suceso extraordinario
 ### 2.1.1 Fecha, hora exacta y lugar del suceso extraordinario
@@ -254,8 +259,8 @@ revisor del tren EC 174, empleado del transportista České dráhy, a. s.;
 jefe de estación de la est. Rájec-Jestřebí, empleado del transportista České dráhy, a. s.,
 •
 
-
 ## Página 10
+
 
 2.2.2 Trenes y su composición, incluidos los números de registro de los distintos vehículos ferroviarios
 El tren EC 174 estaba compuesto por el HDV 350.005-5 en propiedad de Železničná spoločnosť Slovensko, a. s., SPD Bratislava, y siete coches de pasajeros. El tren tenía un total de 32 ejes, una masa de 422 toneladas y un 132 % de potencia de frenado.
@@ -303,57 +308,59 @@ En el lugar del SE no se estaban realizando, inmediatamente antes de su producci
 ### 2.2.6 Activación del plan para el caso de suceso extraordinario en la vía férrea y secuencia de acontecimientos
 La producción del SE fue comunicada por el jefe de estación de la est. Rájec-Jestřebí de acuerdo con el cuadro de notificación expuesto en la oficina de tráfico. El SE fue notificado a la Inspección Ferroviaria a las 12:19 h por la persona designada del explotador de la vía
 
-
 ## Página 11
 
-y del transportista, empleado de la Inspección Regional de Seguridad del Transporte Ferroviario de Brno. El permiso para iniciar los trabajos de retirada se concedió a las 14:28 h.
-### 2.2.7 Activación del plan del sistema integrado de emergencia, de la policía y del servicio de emergencias médicas y secuencia de acontecimientos
-El sistema integrado de emergencia no fue activado.
-### 2.3 Fallecimientos, lesiones y daños materiales
-2.3.1 En pasajeros y terceras personas, empleados del explotador de la vía y del transportista, incluidas personas en relación contractual
-Con la producción del SE no se produjeron fallecimientos ni daños a la salud de personas.
-### 2.3.2 En los objetos transportados, equipajes y demás bienes
-No se produjeron daños en los objetos transportados y equipajes.
-### 2.3.3 En los vehículos ferroviarios, componentes de la vía de circulación y en el medio ambiente
-Con la producción del SE no se produjeron daños.
+ferrocarriles y transportista, empleado de la Inspección Regional de Seguridad del Transporte Ferroviario de Brno.
+Se concedió el permiso para iniciar los trabajos de limpieza a las 14:28 h.
+### 2.2.7 Activación del plan del sistema integrado de emergencia, de la policía y del servicio médico de emergencia, y secuencia de acontecimientos
+No se activó el sistema integrado de emergencia.
+### 2.3 Fallecidos, heridos y daños materiales
+2.3.1 En pasajeros y terceras personas, empleados del gestor de la infraestructura y del transportista,
+incluidas personas en relación contractual
+Con motivo de la ocurrencia del MU no se produjo ningún fallecimiento ni daño a la salud de personas.
+### 2.3.2 En objetos transportados, equipaje y otros bienes
+No se produjo daño en los objetos transportados ni en el equipaje.
+### 2.3.3 En vehículos ferroviarios, componentes de la vía y en el medio ambiente
+Con motivo de la ocurrencia del MU no se produjo ningún daño.
 ### 2.4 Circunstancias externas
 ### 2.4.1 Condiciones meteorológicas y datos geográficos
-En el momento de la producción del SE la temperatura exterior era de +22 °C, sin viento, seco, parcialmente nublado, visibilidad superior a 100 metros.
+En el momento de la ocurrencia del MU la temperatura exterior era de +22 °C, sin viento, seco, parcialmente nublado, visibilidad superior a 100 metros.
 Condiciones de pendiente:
-del pk 185,546 al pk 185,213 la vía desciende en dirección a Blansko a lo largo de 333 m con una pendiente 
 •
-de 2,99 ‰;
-del pk 185,213 al pk 184,636 la vía desciende en dirección a Blansko a lo largo de 577 m con una pendiente 
+del km 185,546 al km 185,213 la vía desciende en dirección a Blansko a lo largo de 333 m con una pendiente de
 •
-de 3,24 ‰;
-del pk 184,636 al pk 184,169 la vía desciende en dirección a Blansko a lo largo de 467 m con una pendiente 
+2,99 ‰;
+del km 185,213 al km 184,636 la vía desciende en dirección a Blansko a lo largo de 577 m con una pendiente de
 •
-de 2,89 ‰.
-Las coordenadas GPS del lugar de producción del SE son: 49°24'29.499"N, 16°37'39.336"E
+3,24 ‰;
+del km 184,636 al km 184,169 la vía desciende en dirección a Blansko a lo largo de 467 m con una pendiente de
+•
+2,89 ‰.
+Las coordenadas GPS del lugar de la ocurrencia del MU son: 49°24'29.499"N, 16°37'39.336"E
 
 ## Página 12
 
 ## 3 REGISTRO DE EXPLICACIONES PRESENTADAS
 ### 3.1 Resumen de las explicaciones presentadas (sujeto a protección de la identidad de las personas)
 ### 3.1.1 Empleados del gestor de la infraestructura y del transportista, incluidas personas en relación contractual
-En relación con las circunstancias de la ocurrencia del SU, presentaron explicaciones los empleados participantes del transportista y un empleado del gestor de la infraestructura (las explicaciones se encuentran en el expediente). De sus declaraciones, entre otros aspectos, se desprende:
-El jefe de tren subió al tren y informó a los pasajeros de las posibilidades de transbordo. Aproximadamente un minuto después, el revisor le llamó por teléfono móvil e informó de la ocurrencia del SU y, a continuación, le instruyó para que detuviera el tren que estaba arrancando.
+En relación con las circunstancias de la ocurrencia del MU, presentaron explicaciones los empleados participantes del transportista y un empleado del gestor de la infraestructura (las explicaciones se encuentran en el expediente). De sus declaraciones se desprende, entre otros datos:
+El jefe de tren subió al tren y informó a los pasajeros de las posibilidades de transbordo. Aproximadamente un minuto después, el revisor le llamó por teléfono móvil e informó de la ocurrencia del MU y, a continuación, le instruyó para que detuviera el tren que estaba arrancando.
 ### 3.1.2 Otras personas
-No fue necesaria la explicación de otros participantes del SU.
+No fue necesaria la explicación de otros participantes del MU.
 ### 3.2 Sistema de garantía de la seguridad
 ### 3.2.1 Organización marco y forma en que se emiten y ejecutan las instrucciones
-La organización marco y la forma de emisión y ejecución de las instrucciones en la explotación de la infraestructura y del transporte ferroviario en relación con el SU en cuestión están establecidas por los procedimientos tecnológicos contenidos en las normas internas del gestor de la infraestructura y del transportista, véase el punto 3.3.2.
-La ocurrencia del SU no se vio afectada por ninguna deficiencia en dichas normas.
+La organización marco y la forma de emisión y ejecución de las instrucciones en la explotación de la infraestructura y del transporte ferroviario en relación con el MU en cuestión están establecidas por los procedimientos tecnológicos contenidos en las normas internas del gestor de la infraestructura y del transportista, véase el punto 3.3.2.
+La ocurrencia del MU no se vio afectada por ninguna deficiencia en dichas normas.
 ### 3.2.2 Requisitos para los empleados del gestor de la infraestructura y del transportista y su cumplimiento
-La aptitud médica de los empleados del gestor de la infraestructura y del transportista se evalúa en el sentido de lo dispuesto en la disposición nº 101/1995 Sb., por la que se aprueba el Reglamento sobre la aptitud médica y profesional de las personas en la explotación de la infraestructura y del transporte ferroviario, en su versión vigente.
-En el momento de la ocurrencia del SU en cuestión, todos los empleados participantes del SU, tanto del gestor de la infraestructura como del transportista, contaban con un dictamen válido de aptitud médica.
+La aptitud médica de los empleados del gestor de la infraestructura y del transportista se evalúa en el sentido de lo dispuesto en la disposición nº 101/1995 Sb., por la que se aprueba el Reglamento sobre la aptitud médica y profesional de las personas en la explotación de la infraestructura y del transporte ferroviario, en su redacción vigente.
+En el momento de la ocurrencia del MU en cuestión, todos los empleados participantes en el MU, tanto del gestor de la infraestructura como del transportista, disponían de un dictamen válido de aptitud médica.
 Los requisitos de aptitud profesional están establecidos en la norma interna del gestor de la infraestructura SŽDC Zam 1 y del transportista ČD Ok 2.
-En el momento de la ocurrencia del SU en cuestión, todos los empleados participantes del SU, tanto del gestor de la infraestructura como del transportista, eran profesionalmente aptos para el desempeño de la función que ocupaban.
-La condición de aptitud para la conducción de vehículos ferroviarios está establecida en el § 45 de la ley nº 266/1994 Sb., de ferrocarriles, en su versión vigente.
-El maquinista del tren EC 174 es titular de un Certificado de Aptitud para la Conducción de Vehículos Ferroviarios válido, válido para el material rodante de tracción que conduce y la categoría de infraestructura por la que circula.
-
+En el momento de la ocurrencia del MU en cuestión, todos los empleados participantes en el MU, tanto del gestor de la infraestructura como del transportista, eran profesionalmente aptos para el desempeño de la función que ocupaban.
+La condición de aptitud para la conducción de un vehículo ferroviario la establece el § 45 de la ley nº 266/1994 Sb., de ferrocarriles, en su redacción vigente.
+El maquinista del tren EC 174 es titular de un Certificado de Aptitud para la conducción de vehículos ferroviarios válido para el HDV que conduce y la categoría de infraestructura por la que circula.
 
 ## Página 13
+
 
 ### 3.2.3 Procedimiento de control interno de seguridad y sus resultados
 El transportista, České dráhy, a. s., Depósito de material rodante de vía Brno, centro de explotación Břeclav, lleva registros de los controles internos «Informe de control» realizados por los empleados responsables del transportista. Al maquinista en cuestión se le realizó el último control el día 5. 4. 2009 y no se detectaron anomalías en el mismo.
@@ -388,6 +395,7 @@ Normas internas vigentes del gestor de la infraestructura y del transportista re
 
 ## Página 14
 
+
             artículo 51:
 La tripulación de locomotora puede abandonar temporalmente la unidad motriz cumpliendo las condiciones establecidas en los siguientes casos:
 a) alejarse de la cabina del maquinista, cuando el maquinista realiza actividades necesarias relacionadas con el desempeño del servicio en un radio de como máximo 50 m de su propia unidad motriz, pero solo si nada le impide regresar a la unidad motriz y si tiene la unidad motriz siempre bajo vigilancia y se garantiza el suministro de aire a los depósitos principales de la unidad motriz. Si no es posible garantizar estas condiciones, las actividades realizadas incluso a una distancia inferior a 50 m de la unidad motriz se consideran alejamiento de la unidad motriz. El maquinista debe, antes de alejarse de la cabina, realizar las siguientes operaciones de aseguramiento:
@@ -409,8 +417,8 @@ En el sentido de la norma ČD D2 es necesario actuar también en aquellos casos 
 artículo 645:
 Antes de iniciar la maniobra, el empleado que dirige la maniobra debe informar a todos los empleados implicados sobre el procedimiento de trabajo, la forma de ejecución de la maniobra y sobre todas las circunstancias excepcionales que no puedan serles conocidas.
 
-
 ## Página 15
+
 
 ### 3.4 Actividad de los vehículos ferroviarios y de los dispositivos técnicos
 ### 3.4.1 Sistema de control, señalización y seguridad, incluidos los dispositivos de registro automático de datos
@@ -458,6 +466,7 @@ Se realizó la evaluación del registro del velocímetro electrónico Mirel HDV 
 
 ## Página 16
 
+
 10:59:15 h.
 conmutado el interruptor principal de corriente alterna;
 •
@@ -493,33 +502,53 @@ Inmediatamente después de que el maquinista detectara la producción de la MU, 
 ### 3.5.3 Medidas adoptadas para la protección y la seguridad del lugar del suceso excepcional
 La persona designada por la empresa explotadora de la vía y por el transportista para investigar las causas y circunstancias del suceso excepcional aseguró el lugar del suceso excepcional, impidió el movimiento de los vehículos ferroviarios implicados, aseguró la documentación de explotación, el registro del velocímetro de la HDV y el archivo de la actividad del dispositivo de enclavamiento de la estación. El tráfico ferroviario fue suspendido entre la est. de Rájec-Jestřebí y la est. de Blansko desde las 11:55 h. hasta las 14:28 h.
 
-
 ## Página 17
 
 ### 3.6 Condiciones laborales, sanitarias y de explotación
-### 3.6.1 Jornada laboral de los empleados de la empresa explotadora de la vía y del transportista que participaron en el suceso
-La jornada laboral de los empleados implicados fue conforme a la legislación y no tuvo influencia en la producción del suceso excepcional:
-el maquinista estaba de turno el día 27. 06. 2009 desde las 05:23 h., antes del turno tuvo más de 24 h de descanso
+### 3.6.1 Jornada laboral de los empleados del gestor de la infraestructura y del transportista que fueron 
+participantes en el suceso
+La jornada laboral de los empleados implicados era conforme a la legislación y no tuvo influencia en la 
+producción del suceso extraordinario:
+el maquinista estaba en turno el día 27. 06. 2009 desde las 05:23 h., antes del turno tuvo más de 
 •
-el suplente de conducción estaba de turno desde el 26. 06. 2009 a las 13:06 h., antes del turno tuvo 18 h de descanso.
+24 h. de descanso
+el jefe de tren estaba en turno desde el 26. 06. 2009 a las 13:06 h., antes del turno tuvo 18 h. de 
 •
-el revisor estaba de turno desde el 26. 06. 2009 a las 14:34 h., antes del turno tuvo 19 h de descanso.
+descanso
+el revisor estaba en turno desde el 26. 06. 2009 a las 14:34 h., antes del turno tuvo 19 h. de 
 •
-el jefe de estación estaba de turno el día 27. 06. 2009 desde las 06:00 h., antes del turno tuvo 48 h de descanso.
+descanso
+el jefe de estación estaba en turno el día 27. 06. 2009 desde las 06:00 h., antes del turno tuvo 48 h. 
 •
-3.6.2 Estado de salud y situación personal que influyeron en el suceso excepcional, incluido el estrés físico o psicológico
-En la investigación de las causas y circunstancias de la MU en cuestión no se detectaron, en las personas implicadas, circunstancias relativas al estado de salud, a la situación personal, incluido el estrés psicológico y físico, que pudieran haber influido en la producción de la MU.
-3.6.3 Disposición del equipamiento del puesto de conducción o del vehículo que influye en su manejo y uso
-La disposición del equipamiento del puesto de conducción y del vehículo no guardaba relación con la producción de la MU.
-### 3.7 Sucesos excepcionales anteriores de carácter similar
-La Inspección Ferroviaria no registra sucesos excepcionales de carácter similar.
-## 4 ANÁLISIS Y CONCLUSIONS
-### 4.1 Descripción final del suceso excepcional
-### 4.1.1 Descripción final del suceso excepcional basada en los hechos establecidos en el punto 3
-El 27. 6. 2009, el maquinista conducía la HDV 350.005-5, el tren de pasajeros EC 174. La dotación del tren estaba compuesta por el suplente de conducción y el revisor. Durante la circulación por la segunda vía de tráfico desde la est. de Blansko hasta la est. de Rájec-Jestřebí, se produjo una avería en la HDV. A las 10:41:03 h., por ello, el maquinista detuvo el tren en la segunda vía de estación de la est. de Rájec-Jestřebí y comunicó la indisponibilidad de la HDV.
-Tras recibir la información del despachador de red de que la HDV de asistencia llegaría a la est. de Rájec-Jestřebí desde la est. de Česká Třebová, el maquinista comenzó a comprobar el estado de la HDV en la sala de máquinas e intentó poner en servicio la HDV – levantó el pantógrafo, conectó el interruptor principal y desfrenó el freno continuo del tren. Al
+de descanso
+3.6.2 Estado de salud y situación personal que influyeron en el suceso extraordinario, 
+incluido el estrés físico o psicológico
+En la investigación de las causas y circunstancias del citado suceso extraordinario no se detectaron, 
+en las personas implicadas, circunstancias relativas al estado de salud, a la situación personal 
+incluido el estrés psicológico y físico, que pudieran haber influido en la producción del suceso 
+extraordinario. 
+3.6.3 Disposición del equipamiento del puesto de mando o del vehículo que influye en su 
+manejo y utilización
+La disposición del equipamiento del puesto de mando y del vehículo no guardaba relación con la 
+producción del suceso extraordinario.
+### 3.7 Sucesos extraordinarios anteriores de carácter similar
+La Inspección Ferroviaria no registra ningún suceso extraordinario de carácter similar.
+## 4 ANÁLISIS Y CONCLUSIONES
+### 4.1 Descripción final del suceso extraordinario
+### 4.1.1 Descripción final del suceso extraordinario basada en los hechos constatados 
+en el punto 3
+El 27. 6. 2009, el maquinista conducía el HDV 350.005-5, con el tren de pasajeros EC 174. El 
+acompañamiento del tren estaba formado por el jefe de tren y el revisor. Durante la circulación por la 
+segunda vía de la línea entre la est. de Blansko y la est. de Rájec-Jestřebí se produjo una avería en el 
+HDV. A las 10:41:03 h. el maquinista detuvo por ello el tren en la segunda vía de la estación de 
+Rájec-Jestřebí y comunicó la indisponibilidad del HDV. 
+Tras recibir la información del despachador de red de que el HDV de asistencia llegaría a la estación de 
+Rájec-Jestřebí desde la estación de Česká Třebová, el maquinista comenzó a comprobar el estado del 
+HDV en la cabina de conducción e intentó poner en servicio el HDV – levantó el pantógrafo, conectó el 
+interruptor general y liberó el freno continuo del tren. Durante
 
 ## Página 18
+
 
 En esta prueba comprobó que el material rodante no era capaz de desarrollar tracción. Comenzó entonces con los preparativos del material rodante para la llegada del material rodante de asistencia. Tras cerrar los grifos 969/7 y 969/8 (delante y detrás del regulador del freno continuo DAKO BSE) y el grifo VZ 970 de la válvula electropneumática del freno automático de tren, el maquinista se dirigió a la oficina de tráfico. Al salir del puesto, cerró con llave el material rodante para evitar el acceso no autorizado. La composición quedó asegurada con un freno de mano del material rodante apretado y el freno directo del material rodante.
 En esta situación no se garantizó el suministro de aire a los depósitos principales de aire del material rodante ni la reposición de presión en la tubería principal del freno continuo de la composición. A las 11:45:05 h, el presostato K1-4 reaccionó a la baja presión en los cilindros de freno del material rodante. A continuación, se produjo la actuación de la válvula electropneumática del freno automático de tren debido a la no atención del botón de vigilancia tras la desfrenada del material rodante. Como el grifo VZ 970 de la válvula electropneumática del freno automático de tren estaba cerrado, la actuación de la válvula no frenó el freno continuo de la composición. A las 11:51:35 h, la composición se puso en movimiento cuesta abajo en dirección a la est. de Blansko. En la composición en movimiento, según la declaración de los empleados del transportista implicados, había entre 11 y 15 pasajeros.
@@ -531,6 +560,7 @@ Durante la circulación del tren EC 174 el 27. 06. 2009 desde la est. de Blansko
 A continuación, intentó poner en servicio el material rodante para que pudiera desarrollar tracción al menos con un bogie. A las 10:59:10 h, levantó el pantógrafo, conectó el interruptor principal y igualó la presión en la tubería principal del freno continuo a 5,3 bares, con lo que desfrenó el freno continuo de la composición. En la prueba comprobó que el material rodante no era capaz de desarrollar tracción. Tras 5 minutos, bajó el pantógrafo y desconectó el interruptor principal. Tras cerrar los grifos 969/7 y 969/8 (delante y detrás del regulador del freno continuo DAKO BSE) y el grifo VZ 970 de la válvula electropneumática del freno automático de tren, el maquinista se dirigió a la oficina de tráfico. Al salir del puesto, cerró con llave el material rodante para evitar el acceso no autorizado. La composición quedó asegurada con un freno de mano del material rodante y el freno directo del material rodante. De acuerdo con la normativa interna del transportista V2, artículo 51, el maquinista, además, antes de alejarse del puesto del material rodante, debía asegurar la composición contra el movimiento de acuerdo con la normativa interna del transportista V 15/I, artículo 324, frenando con el freno continuo. Si no era posible prever la restitución del estado operativo en un plazo de 30 min, para asegurar la composición debían utilizarse también los frenos de mano utilizables de los coches.
 
 ## Página 19
+
 
 Como consecuencia de las operaciones anteriores, no se repuso aire en los depósitos principales de aire del material rodante ni se mantuvo la presión en la tubería principal del freno continuo de la composición. Debido a las fugas, se escapaba aire de los espacios del freno continuo de los coches de la composición y del propio material rodante, y la presión en la tubería principal del freno continuo descendía lentamente. La velocidad de descenso estaba por debajo del umbral de sensibilidad de los distribuidores, por lo que no se produjo el frenado automático del freno continuo. Debido al consumo de aire relativamente elevado (apertura de puertas y WC por parte de los pasajeros) de la tubería de suministro continua de la composición, se agotó el aire de los depósitos principales de aire del material rodante y se vaciaron los cilindros de freno del material rodante a través del regulador del freno directo DAKO BP. A las 11:45:05 h, el presostato K1-4, ajustado a una presión de corte de 1 a 1,3 bares, reaccionó a esta circunstancia. A continuación, se produjo la actuación de la válvula electropneumática del freno automático de tren debido a la no atención del botón de vigilancia tras la desfrenada del material rodante. Como el grifo VZ 970 de la válvula electropneumática del freno automático de tren estaba cerrado, la actuación de la válvula no frenó el freno continuo de la composición. A las 11:51:35 h, la composición se puso en movimiento cuesta abajo en dirección a la est. de Blansko. En la composición en movimiento, según la declaración de los empleados del transportista implicados, había entre 11 y 15 pasajeros.
 En ese momento, el maquinista se encontraba en la oficina de tráfico, el jefe de tren se acercaba a la composición para informar a los pasajeros restantes, el revisor proporcionaba información a los pasajeros en el andén junto a la tercera vía de estación y el jefe de estación estaba en la oficina de tráfico. El jefe de tren, según sus propias palabras, creía que se trataba de una maniobra de maniobras, subió a la composición que se estaba poniendo en marcha e informó a los pasajeros restantes de la posibilidad de transbordo al tren EC 276. El jefe de tren no fue informado de la maniobra con la composición de acuerdo con la normativa interna del explotador ferroviario D2, artículo 645, por lo que desconocía el modo de ejecución de la maniobra y el procedimiento de trabajos relacionado con ella, y por tanto debió adoptar medidas para la detención inmediata de la composición. El maquinista, al salir de la oficina de tráfico, intentó alcanzar corriendo la composición en movimiento, pero no lo consiguió. Sin embargo, advirtió con sus gritos al revisor que estaba en mitad del andén bajo el refugio para pasajeros. El revisor llamó por teléfono móvil al jefe de tren, quien a continuación detuvo la composición con el freno de emergencia.
@@ -544,6 +574,7 @@ No existen.
 No existen.
 
 ## Página 20
+
 
 ### 4.4 Hallazgos complementarios
 ### 4.4.1 Deficiencias y omisiones detectadas durante la investigación de las causas y circunstancias del origen del suceso ferroviario, que sin embargo no son relevantes para las conclusiones sobre las causas
@@ -570,19 +601,18 @@ Director
 Inspección Territorial de Brno
 de la Inspección Territorial de Brno
 
-
 ## Página 21
+
 
 ## 7 ANEXOS
 Foto 1: Vista del lugar del suceso ferroviario
 Foto 2: Vista del lugar del suceso ferroviario desde la oficina de tráfico
 
-
 ## Página 22
 
-Foto 3: Circuito de aire del rodadura motor de la serie 350
-
+Foto 3: Circuito de aire del HDV serie 350
 
 ## Página 23
+
 
 Foto 4: Freno de la freno de acción directa DAKO BP2, con el que está equipado el rodadura motor de la serie 350

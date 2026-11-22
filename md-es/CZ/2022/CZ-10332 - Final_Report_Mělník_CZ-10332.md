@@ -10,13 +10,14 @@ chars: 170931
 ratio_longitud: 1.27
 tokens_in: 75987
 tokens_out: 55025
-verificacion: revisar
-notas_cifras: ["bloque 1: original bilingüe: se compara contra el idioma principal (EN)", "bloque 2: original bilingüe: se compara contra el idioma principal (CS)", "bloque 4: cifras largas: 1/91", "bloque 11: cifras cortas: 2/87", "bloque 12: original bilingüe: se compara contra el idioma principal (CS)"]
-avisos: ["bloque 12: ratio 1.80"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 7: original bilingüe: se compara contra el idioma principal (CS)", "página 8: original bilingüe: se compara contra el idioma principal (CS)", "página 9: original bilingüe: se compara contra el idioma principal (CS)", "página 10: original bilingüe: se compara contra el idioma principal (CS)", "página 11: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -41,13 +42,13 @@ IČ: 75009561
 mail@dicr.cz
 tel.: +420 736 521 003
 
-
 ## Página 2
+
 
 El presente informe final es público y todos los hechos en él recogidos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ### 1 Resumen
 Fuente: Drážní inspekce
@@ -71,8 +72,8 @@ circulación no autorizada tras la señal principal (de salida) S10 con la seña
 ◦la falta de comprobación directa por parte del maquinista de la maniobra remolcada de la indicación de la señal S10, a pesar de que era posible verificarla desde su puesto de conducción de varias maneras;
 ◦deficiencias en la comunicación entre el maquinista de la maniobra remolcada y el jefe de la cuadrilla de maniobras durante la comprobación de la indicación de la señal S10 a través de un intermediario, que dieron lugar a que la maniobra remolcada se pusiera en movimiento por una instrucción incorrecta y a que continuara la circulación tras la señal S10, a pesar de que el maquinista no conocía la indicación de dicha señal a partir de la instrucción recibida;
 
-
 ## Página 4
+
 
 ◦la emisión no autorizada de la instrucción de poner en movimiento la maniobra remolcada por parte del jefe de la cuadrilla de maniobras al maquinista de la maniobra, sin acordar la maniobra con el jefe de estación y sin conceder el permiso para la maniobra.
 Las causas de la continuación del suceso (colisión) fueron:
@@ -88,10 +89,10 @@ Al Drážní úřad:
 en el marco de su actividad como autoridad nacional de seguridad, la adopción de medidas que garanticen, en el gestor de la vía Správa železnic, státní organizace:
 ◦modificar la redacción del reglamento SŽ D1 de modo que, en el caso de maniobras con cuadrilla de maniobras cuando se trate de una maniobra remolcada, las obligaciones del maquinista en el sentido del § 35 apartado 1 letra f) del Decreto n.º 173/1995 Sb. no se trasladen exclusivamente al empleado al frente de la maniobra;
 ◦modificar la redacción del reglamento SŽ D1 en cuanto a la condición para la emisión de la instrucción de poner en movimiento la maniobra por parte del jefe de la cuadrilla de maniobras;
-◦modificar la redacción del reglamento SŽ D1 en cuanto a la definición de la circulación según condiciones de visibilidad. 
-
+◦modificar la redacción del reglamento SŽ D1 en cuanto a la definición de la circulación según condiciones de visibilidad.
 
 ## Página 5
+
 
 ### SUMMARY
 9th November 2022, 20:14 (19:14 GMT).
@@ -143,8 +144,8 @@ No. 55530 and he did not prevent danger ride of the drawn shunting operation.
 Contributing factor: none.
 Systemic factor: none.
 
-
 ## Página 6
+
 
 Recommendation:
 Addressed to the Czech National Safety Authority (NSA):
@@ -160,8 +161,8 @@ to set the drawn shunting operation in motion by head of the shunting operation;
 ◦to adjust the internal regulation SŽ D1 in the case of definition of running at
 sight.
 
-
 ## Página 7
+
 
 # Índice
 1 Resumen..........................................................................................................................3
@@ -205,6 +206,7 @@ SUMMARY.........................................................................
 
 ## Página 8
 
+
 4.2.2 Factores o consecuencias derivados de la instalación y puesta en servicio de vehículos ferroviarios, infraestructura ferroviaria o instalaciones técnicas.....................................................................41
 4.2.3 Factores o consecuencias relacionados con fabricantes de vehículos ferroviarios u otros proveedores de productos ferroviarios...........................................................................41
 4.2.4 Factores o consecuencias derivados del mantenimiento y modificación de vehículos ferroviarios o instalaciones técnicas..................................................................................................41
@@ -234,8 +236,8 @@ y de los talleres de mantenimiento..............................................
 6 RECOMENDACIONES DE SEGURIDAD...................................................................................56
 ANEXOS............................................................................................................................58
 
-
 ## Página 9
+
 
 ### Lista de siglas y símbolos utilizados
 BD
@@ -309,8 +311,8 @@ reserva de maniobras del Elba
 žst.
 estación ferroviaria
 
-
 ## Página 10
+
 
 ### Lista de siglas de la legislación, normas y reglamentos internos utilizados
 ley núm. 266/1994 Sb.
@@ -334,38 +336,37 @@ reglamento interno del operador ČDC, "Directriz PTs9-B-2011 Transporte, explota
 directriz ČDC PTs10-B-2011 
 reglamento interno del operador ČDC, "Directriz PTs10-B-2011 Equipos de locomotora", en la redacción vigente en el momento de la ocurrencia del SE
 
-
 ## Página 11
 
-### 2 INVESTIGACIÓN Y SU CONTEXTO
-### 2.1 Decisión de iniciar la investigación
-La DI decidió iniciar la investigación del SE en cuestión el 9. 11. 2022.
-### 2.2 Fundamentación de la decisión de iniciar la investigación
-La DI decidió investigar el SE en cuestión en base a su gravedad, recurrencia y al impacto del suceso extraordinario en la explotación segura de la infraestructura ferroviaria y del transporte ferroviario.
-### 2.3 Alcance y limitaciones de la investigación, incluida la fundamentación pertinente
-La DI no se encontró, en el marco de la investigación del SE en cuestión, con limitaciones que influyeran negativamente en el modo y los procedimientos de la investigación.
-### 2.4 Descripción general de las capacidades y funciones técnicas del equipo de investigadores
-Investigación de la DI en el lugar del SE:
-3x inspector del ÚI Bohemia, centro de trabajo Praga. 
-Formación del equipo de investigación:
-no fue necesario formarlo. 
+### 2 INVESTIGACIÓN Y SUS RELACIONES
+### 2.1 Decisión sobre el inicio de la investigación
+DI decidió iniciar la investigación de la MU en cuestión el 9 de 11 de 2022.
+### 2.2 Fundamentación de la decisión sobre el inicio de la investigación
+DI decidió investigar la MU en cuestión sobre la base de su gravedad, repetitividad y de los impactos del suceso excepcional en la explotación segura de la vía y del transporte ferroviario.
+### 2.3 Alcance y limitaciones de la investigación, incluida la fundamentación correspondiente
+DI no se encontró, en el marco de la investigación de la MU en cuestión, con limitaciones que influyeran negativamente en el modo y los procedimientos de la investigación.
+### 2.4 Descripción resumida de las capacidades y funciones técnicas del equipo de investigación
+Investigación de DI en el lugar de la MU:
+3x inspector de ÚI Čechy, centro de trabajo Praga.
+Constitución del equipo de investigación:
+no fue necesario constituirlo.
 Colaboración externa:
 no se utilizó.
 2.5 Comunicación y consultas durante la investigación con personas o entidades
 que participaron en el suceso en cuestión
-En la investigación de las causas y circunstancias de la ocurrencia del SE, la DI se basó principalmente en sus propios conocimientos, hallazgos y en su propia documentación fotográfica. Durante la investigación, la DI solicitó la documentación necesaria al gestor de la infraestructura, al operador y al HZS. 
-La investigación de las causas y circunstancias de la ocurrencia del SE se realizó de acuerdo con la ley núm. 266/1994 Sb. y el decreto núm. 376/2006 Sb. 
+En la investigación de las causas y circunstancias de la MU, DI se basó principalmente en sus propios conocimientos, hallazgos y en su propia documentación fotográfica. Durante la investigación, DI solicitó la documentación necesaria al explotador de la vía, al transportista y a HZS.
+La investigación de las causas y circunstancias de la MU se realizó de acuerdo con la ley nº 266/1994 Sb. y con la disposición nº 376/2006 Sb.
 ### 2.6 Descripción del nivel de colaboración ofrecido por las entidades participantes
-El nivel de colaboración con los representantes de las entidades participantes en el SE fue estándar.
-### 2.7 Descripción de la investigación, métodos y técnicas utilizados para acreditar los hechos 
-y los hallazgos indicados en el informe
-En el marco de la investigación del SE, la DI procedió de la siguiente manera, es decir, utilizó, entre otros, los siguientes métodos y técnicas:
+El nivel de colaboración con los representantes de las entidades participantes en la MU fue estándar.
+### 2.7 Descripción de la investigación, los métodos y las técnicas utilizados para acreditar los hechos
+y los hallazgos expuestos en el informe
+En el marco de la investigación de la MU, DI procedió de la siguiente manera, es decir, utilizó, entre otros, los siguientes métodos y técnicas:
 •
-inspección del lugar del suceso extraordinario, incluidos los vehículos ferroviarios participantes, las instalaciones técnicas y la infraestructura ferroviaria;
+inspección del lugar del suceso excepcional, incluidos los vehículos ferroviarios participantes, las instalaciones técnicas y la infraestructura de la vía;
 •
 acta con el empleado y declaración de los empleados participantes;
 •
-análisis de la documentación solicitada al gestor de la infraestructura, al operador y al HZS;
+análisis de la documentación solicitada al explotador de la vía, al transportista y a HZS;
 •
 análisis de los datos registrados por los registradores de velocidad de los HDV participantes;
 •
@@ -373,8 +374,8 @@ análisis de las grabaciones de cámara del HDV de la sección de maniobras;
 •
 en el marco de la investigación del factor humano, utilización del método SHELL y del modelo de Reason.
 
-
 ## Página 12
+
 
 ### 2.8 Descripción de las dificultades y problemas concretos surgidos durante la investigación
 Durante la investigación del SE no surgieron dificultades ni problemas que influyeran en el desarrollo de la investigación o en sus conclusiones.
@@ -402,24 +403,24 @@ Coordenadas GPS:
 ### 3.1.3 Descripción del lugar del suceso
 La estación ferroviaria Mělník se encontraba en el km 371,715 de la vía nacional Nymburk hlavní nádraží – Ústí nad Labem-Střekov y a la vez en el km 0,000 de la vía regional Mělník – Mladá Boleslav hlavní nádraží. 
 Los tramos intermedios adyacentes en dirección a la est. Všetaty y la est. Liběchov eran de doble vía. 
-El tramo adyacente en dirección a la estación de tráfico Lhotka u Mělníka era de vía única. 
-
+El tramo adyacente en dirección a la estación de tráfico Lhotka u Mělníka era de vía única.
 
 ## Página 13
 
-## Lugar del SE
-Fig. núm. 1: Esquema del lugar de ocurrencia del SE
-         Fuente: SŽ, elaboración de la DI
-### Tras la inspección del lugar del SE se constató:
-Tras la llegada de la DI al lugar de ocurrencia del suceso extraordinario, se inspeccionó la parte afectada de la estación, las partes exteriores del tren Nex 55530 y de la sección de maniobras, incluida la medición de su posición final, así como las cabinas de conducción de los HDV del tren y de la sección de maniobras, incluidos los elementos de mando, el VZ y los aparatos de radio, que fueron documentados. Se realizó la corrección de la hora en los registradores de velocidad de los HDV, el ÚZB en los vehículos ferroviarios de la sección de maniobras de ČDC y la prueba de presencia de alcohol en los empleados participantes.
-Asimismo, se realizó en presencia de la DI la medición de la tensión en el bombillo de la luz roja de la señal de salida S10 de la est. Mělník. Se documentó la visibilidad de la señal S10 y se realizó la inspección y documentación de los elementos del SZZ y de la documentación de tráfico en el puesto de enclavamiento St. 1 y en la oficina de tráfico. 
-A continuación se realizaron actas con los empleados participantes. Por último, se verificó y documentó la visión del conductor desde el HDV de la sección de maniobras detenido junto a la señal S10 en una posición idéntica a la anterior a la ocurrencia del SE. 
+## Lugar del MU
+Fig. n.º 1: Esquema del lugar de origen del MU
+         Fuente: SŽ, modificación de DI
+### Tras la inspección del lugar del MU se constató lo siguiente:
+A la llegada del DI al lugar de origen del suceso excepcional, se inspeccionó la parte afectada de la estación, las partes exteriores del tren Nex 55530 y de la maniobra de maniobras, incluida la medición de su posición final, así como las cabinas de conducción de los vehículos de tracción (HDV) del tren y de la maniobra de maniobras, incluidos los elementos de mando, el VZ y los aparatos de radio, que fueron documentados. Se realizó la corrección del tiempo en los registradores de velocidad de los HDV, el ÚZB en los vehículos ferroviarios de la maniobra de maniobras de ČDC y la prueba de presencia de alcohol en los empleados implicados.
+Asimismo, en presencia del DI, se midió el voltaje en el bombillo de la luz roja de la señal de salida S10 de la est. Mělník. Se documentó la visibilidad de la señal S10 y se realizó la inspección y documentación de los elementos del SZZ y de la documentación de tráfico en el puesto de enclavamiento St. 1 y en la oficina de tráfico.
+Posteriormente, se levantaron actas con los empleados implicados. Por último, se verificó y documentó la visibilidad del conductor desde el HDV de la maniobra de maniobras detenido junto a la señal S10 en una posición idéntica a la anterior al origen del MU.
 ### Estado de la infraestructura:
-Para la circulación del tren Nex 55530 desde la 2. TK de la est. Všetaty hasta la 4. SK de la est. Mělník se estableció la ruta de tren y se dispusieron correctamente los desvíos núm. 3, 4, 5, 7, 9 y 11. No se produjo daño en estos desvíos.
-Para la circulación de la sección de maniobras desde la 10. SK a través de los desvíos núm. 15, 14, 12 y 11 hasta la continuación de la 4. SK (hacia el puesto de enclavamiento St. 1) no se estableció la ruta de maniobras. 
-El desvío núm. 11 estaba dispuesto correctamente en dirección recta (hacia la 4. SK), sin daños visibles. El desvío núm. 12 estaba dispuesto correctamente en dirección recta
+Para la circulación del tren Nex 55530 desde la 2. TK de la est. Všetaty hasta la 4. SK de la est. Mělník, se estableció la vía de tren y se cambiaron correctamente las agujas n.º 3, 4, 5, 7, 9 y 11. No se produjo daño en dichas agujas.
+Para la circulación de la maniobra de maniobras desde la 10. SK a través de las agujas n.º 15, 14, 12 y 11 hacia la continuación de la 4. SK (hacia el puesto de enclavamiento St. 1), no se estableció la vía de maniobra.
+La aguja n.º 11 estaba correctamente cambiada en dirección recta (hacia la 4. SK), sin daños visibles. La aguja n.º 12 estaba correctamente cambiada en dirección recta
 
 ## Página 14
+
 
 (hacia la aguja n.º 14), sin daños visibles. La aguja n.º 14 estaba correctamente
 desplazada en sentido de desvío (hacia la aguja n.º 15), sin daños visibles.
@@ -483,53 +484,20 @@ y por tanto cumplía el valor mínimo prescrito de 100 m, respectivamente 78 m
 (es decir, durante 7 s a la velocidad establecida de 40 km·h-1) según el § 7
 apartado 1 del decreto n.º 173/1995 Sb.
 
-
 ## Página 15
 
-Verificación de la visibilidad de la indicación
- «Alto »
- de la señal S10 desde la posición del maquinista:
-
-En el marco de la inspección, el DI verificó que desde el lugar donde se encontraba
-la locomotora de la unidad de maniobras antes de la aparición del MU (tras volver
-a los 8 vagones aún detenidos en la 10.ª vía en su ubicación original), era posible
-desde la posición del maquinista, mirando por la ventana lateral o con la mirada de
-una persona de pie a través del parabrisas frontal, ver el resplandor de la luz roja
-de la señal S10 (parte de la lente de la luz roja encendida y el reflejo en el
-parasol de la luz inferior) e identificar con seguridad la indicación que prohíbe
-la circulación en dicha señal. Con la mirada directa sentado, la indicación «Alto»
-no era visible.
-
-A continuación, la unidad de maniobras avanzó hasta la altura de la señal S10 y se
-verificó que también en esta posición era posible desde la posición del maquinista,
-mirando por la ventana lateral, ver el resplandor de la luz roja (el reflejo en el
-parasol de la luz inferior) e identificar con seguridad la indicación que prohíbe
-la circulación en dicha señal. Con la mirada directa sentado, la indicación «Alto»
-no era visible.
-
-Fig. 2: Vista de la señal S10 desde la ventana lateral de la locomotora de la
-unidad de maniobras
+Verificación de la visibilidad de la señal
+ «Alto»¹ del señal S10 desde la posición del maquinista:
+Durante el reconocimiento, el DI verificó que desde el lugar donde se encontraba el HDV de la maniobra antes de que se produjera el MU (tras retroceder hasta los 8 vehículos aún detenidos en el 10.º SK en su ubicación original), era posible ver desde la posición del maquinista, mirando por la ventana lateral o con la mirada de una persona de pie a través del parabrisas frontal, el resplandor de la luz roja del señal S10 (parte de la lente de la luz roja encendida y el reflejo en el parasol de la luz inferior) y reconocer con seguridad la señal que prohíbe la circulación en dicho señal. Con la mirada directa sentado, la señal «Alto» no era visible.
+A continuación, se avanzó con la maniobra hasta la altura del señal S10 y se verificó que, también en esta posición, era posible ver desde la posición del maquinista, mirando por la ventana lateral, el resplandor de la luz roja (reflejo en el parasol de la luz inferior) y reconocer con seguridad la señal que prohíbe la circulación en dicho señal. Con la mirada directa sentado, la señal «Alto» no era visible.
+Fig. 2: Vista del señal S10 desde la ventana lateral del HDV de la maniobra
        Fuente: DI
-
 Oficina de tráfico:
-
-En el relieve de la vía del aparato de control del SZZ en la oficina de tráfico,
-el mando deslizante (cursor) para la circulación desde/hacia Všetat por la 2.ª vía
-fue desplazado a la 4.ª vía. El enclavamiento direccional fue conmutado en sentido
-contrario a la circulación del tren Nex 55530 a la posición «Entrada». Los demás
-mandos deslizantes estaban en posición base, sin vía asignada. El enclavamiento de
-agujas desde/hacia Všetat por la 2.ª vía fue realizado (ventanilla verde, enclavamiento
-de agujas liberado). El enclavamiento de señalización de la señal 2L desde Všetat
-fue liberado (ventanilla blanca, enclavamiento de agujas cerrado). Los precintos
-correspondientes en el aparato de agujas y en el panel indicador estaban completos
-y sin daños.
-
-En el Diario Electrónico de Tráfico se indicaba, entre otros, el 9 de 11 de 2022
-que a las 7:30 h se inició la interrupción de la 2.ª vía y, además, la interrupción
-de la tensión de la catenaria de la 2.ª vía entre las estaciones Mělník
-
+En el relieve de la vía del aparato de mando SZZ de la oficina de tráfico, el mando deslizante (cursor) para la circulación desde/hacia Všetat por la 2.ª TK se había colocado en el 4.º SK. El enclavamiento direccional se había conmutado contra el sentido de circulación del tren Nex 55530 a la posición «Entrada». Los demás mandos deslizantes estaban en posición base, sin vía asignada. Se había realizado el enclavamiento de los desvíos desde/hacia Všetat por la 2.ª TK (obturador verde, enclavamiento de aguja liberado). El enclavamiento de señal del señal 2L desde Všetat estaba liberado (obturador blanco, enclavamiento de aguja cerrado). Los precintos correspondientes en el aparato de cambio y en la placa indicadora estaban completos y sin daños.
+En el Diario de tráfico electrónico se indicaba, entre otros datos, el 9. 11. 2022 que a las 7:30 h se inició la interrupción de circulación de la 2.ª TK y, además, la interrupción de la tensión de la catenaria de la 2.ª TK entre las estaciones Mělník
 
 ## Página 16
+
 
 y Liběchov según ROV 73353A. También se registró que el jefe de estación en
 preparación asignó para el tren Nex 55530 desde la 2.ª vía de Všetat la entrada
@@ -603,8 +571,8 @@ terminal «menos», la rueda guía (de enclavamiento) correspondiente encajaba e
 hueco de la placa guía (del disco de enclavamiento), y la barra de control
 correspondiente estaba encajada en la regla de control.
 
-
 ## Página 17
+
 
 En la sala de relés St. 1 se encontró un fusible de corte fundido de la aguja
 n.º 15. La inspección del bloque de relés V de la aguja n.º 15 determinó que el
@@ -676,6 +644,7 @@ La unidad de maniobras estaba frenada de forma continua.
 
 ## Página 18
 
+
 El frente del HDV del tramo de maniobras se encontraba en el pk 371,477 (es decir, 160 m tras la señal S10)
 en el desvío n.º 12 y simultáneamente en el ámbito del desvío n.º 11. El final del tramo de maniobras se encontraba
 en el pk 371,746 en la 10.ª SK.
@@ -719,8 +688,8 @@ la línea discurría en dirección recta.
 En el lugar de la MU no se realizaron, inmediatamente antes de su aparición, por parte del propietario, del explotador de la vía ni de otros sujetos, ninguna obra de reparación o de mantenimiento. La circulación en el lugar de la MU y sus alrededores estaba en régimen normal.
 ### 3.1.4 Fallecimientos, lesiones y daños materiales
 
-
 ## Página 19
+
 
 En la MU no se produjeron daños a la salud en los empleados del explotador de la vía, del transportista, de personas en relación contractual, ni tampoco en pasajeros ni terceras personas.
 El explotador de la vía y el transportista cuantificaron el daño en:
@@ -762,8 +731,8 @@ El propietario de la vía ferroviaria, categoría de ámbito nacional, Nymburk h
 El transportista del tren Nex 55530 y del tramo de maniobras era la sociedad ČDC, con domicilio en Jankovcova 1569/2c, Praha 7 - Holešovice, CP 170 00.
 El transporte ferroviario se realizaba en virtud de un contrato celebrado entre el explotador de la vía SŽ y el transportista ČDC el día 3. 9. 2022, con efectos desde el 4. 10. 2022.
 
-
 ## Página 20
+
 
 ### 3.1.7 Descripción de los vehículos ferroviarios y sus composiciones, incluidos los números de registro
 ### Tren Nex 55530 del transportista ČDC
@@ -798,8 +767,8 @@ Del análisis de los datos registrados del velocímetro del HDV 130 039-1 se des
 | 20:15:56 | 0769 , | 371399 , | 27 | 47 , | Caída de la presión en HP. El maquinista inició el frenado. |
 | 20:15:59 | 0795 , | 371425 , | 27 | 19 , | La brusca caída de la presión corresponde al frenado de acción rápida. Aumenta la presión en BV. El tren empieza a frenar. |
 
-
 ## Página 21
+
 
 | 20:16:00 |  | 0799 , | 371429 , | 27 | 15 , | Caída de la presión en HP. |  |
 | 20:16:01 |  | 0806 , | 371436 , | 26 | 13 , | Caída de la presión en HP y caída de la velocidad del tren. El tren en el pk 371435 superó el final del paso a nivel P2936. |  |
@@ -831,6 +800,7 @@ la DV (vagón de servicio) del tramo de maniobras estaba suspendida con tornillo
 El HDV 742 721-4 estaba equipado, en el momento de la aparición de la MU, con un velocímetro del tipo RE1xx RJE 121.AP del fabricante UniControls - Tramex, n.º 0215.
 
 ## Página 22
+
 
 De los datos registrados por el registrador de velocidad del HDV 742 721-4 se desprende:
 Hora tras
@@ -951,31 +921,40 @@ El 14 de 11 de 2022 se realizó una comprobación conjunta del estado técnico d
 ### 3.1.8 Descripción de las partes correspondientes de la infraestructura y del sistema de señalización
 El tramo est. Všetaty – est. Mělník – est. Liběchov se situaba en la línea electrificada de doble vía (TTP 503A) Nymburk hlavní nádraží – Ústí nad Labem-Střekov. La línea estaba electrificada con una tensión continua de 3 kV. La comunicación radio básica (especialmente para la circulación de trenes) se realizaba en la red GSM-R. La comunicación radio para la maniobra de la reserva Z1 en la est. Mělník se realizaba en el canal 65
 
-
 ## Página 23
 
-(simplex) – red (MRS) STE 1. La conexión entre el jefe de estación y los señaleros St. 1 y St. 2 de la est. Mělník se aseguraba mediante el teléfono del circuito de agujas.
-En el lugar del MU se había fijado para la circulación del tren Nex 55530 una velocidad máxima permitida de 40 km.h-1. La velocidad máxima permitida de la unidad de maniobras correspondía al límite superior generalmente vigente para las unidades de maniobras remolcadas, que es de 40 km.h-1.
-En la est. Mělník había una SZZ electromecánica con señales luminosas y conmutadores electromotores. Se trataba de un equipo de 2.ª categoría (según TNŽ 34 2620). La SZZ era operada por el jefe de estación y 2 señaleros de la est. Mělník. La libertad de las vías de circulación se comprobaba mediante circuitos de vía y se indicaba con el resplandor blanco de las ventanillas de los tableros de indicación.
+(simplex) – red (MRS) STE 1. La conexión entre el jefe de estación y los señaleros de St. 1 y St. 2 de la est. Mělník
+se realizó mediante el teléfono en el circuito de aparatos de aguja.
+En el lugar de la MU se estableció para la circulación del tren Nex 55530 una velocidad máxima permitida de
+40 km.h-1. La velocidad máxima permitida del tramo de maniobras correspondía al límite superior generalmente válido de velocidad para tramos de maniobras remolcados, que es de 40 km.h-1.
+En la est. Mělník había una SZZ electromecánica con señales luminosas y desvíoadores electromotores.
+Se trataba de un dispositivo de 2.ª categoría (según TNŽ 34 2620). La SZZ era operada
+por el jefe de estación y 2 señaleros de la est. Mělník. La libertad de las vías de circulación se comprobaba mediante
+circuitos de vía y se indicaba con el resplandor blanco de las ventanillas en los paneles de indicación.
 La SZZ de la est. Mělník no disponía de registro automático de datos sobre la operación y el funcionamiento de la SZZ.
-Según el SŘ de la est. Mělník, «plac» era el nombre local permitido para las SK n.º 12 – 20. Las agujas n.º 17 – 26, cuyos circuitos lindaban con estas vías, eran operadas por un empleado cualificado del transportista. Esquema de los circuitos de maniobra de la est. Mělník – véase la figura n.º 8 del anexo de esta ZZ.
-Del esquema de conexión de los elementos de la SZZ de la est. Mělník, concretamente de la parte de conexión de los elementos de control de las lámparas de la señal de la señal S10, se desprende que, al encenderse la luz blanca, es decir, la señal «Maniobra permitida», se interrumpiría el suministro y, con ello, se apagaría la luz roja, es decir, la señal «Alto». Esto significa que la señal «Maniobra permitida» se expresaría en la señal S10 encendiendo únicamente la luz blanca, y no la blanca y la roja simultáneamente.
-### 3.1.9 Cualquier otra información relevante a efectos de la descripción del suceso y de la información básica
-Resumen de las explicaciones facilitadas por los empleados del operador de la vía y del transportista, incluidas las personas con relación contractual:
+Según el SŘ de la est. Mělník, "plac" era el nombre local permitido para la SK n.º 12 – 20. Las agujas n.º 17 – 26,
+cuyos circuitos lindaban con estas vías, eran manejadas por un empleado
+del transportista con la cualificación profesional adecuada. Esquema de los circuitos de maniobra de la est. Mělník – ver figura n.º 8 en el anexo de esta ZZ.
+Del esquema de conexión de los elementos de la SZZ de la est. Mělník, concretamente de la parte de conexión de los elementos de control de las linternas de señal de la señal S10, se deducía que, al encenderse la luz blanca, es decir, la señal
+"Maniobra permitida", se produciría la interrupción del suministro y, con ello, la apagado de la luz roja, es decir,
+la señal "Alto". Es decir, que la señal "Maniobra permitida" se expresaría en la señal S10
+encendiendo solo la luz blanca, no la blanca y la roja simultáneamente.
+### 3.1.9 Cualquier otra información relevante para los fines de la descripción del suceso y de la información básica
+Resumen de las explicaciones facilitadas por los empleados del operador de la vía y del transportista, incluidas las personas en relación contractual:
 •
-Maquinista del tren Nex 55530
+maquinista del tren Nex 55530
   – Registro de la explicación facilitada DI:
-◦Entró en turno el 9 de 11 de 2022 a las 14:00 h en Ústí nad Labem;
-◦Hasta la producción del MU, el turno transcurrió sin incidencias;
-◦Se detuvo ante la señal de entrada de la est. Mělník con la señal «Alto» y allí permaneció unos 5 – 7 minutos. Se encendió la señal «Velocidad 40 km/h y aviso» y él puso el tren en movimiento;
-◦Al acercarse al puesto de enclavamiento, vio el HDV en movimiento y que se acercaba a su vía de tren. Inmediatamente aplicó el frenado de acción rápida;
-◦A baja velocidad se produjo la colisión con el HDV de la unidad de maniobras, que según él ya estaba detenido;
-◦Según él, la colisión se produjo a velocidad de marcha;
-◦Tras detenerse, oyó por la ventana cómo llamaba (nota DI: el maquinista Z1 a través de la radio) en simplex y anunciaba la producción del MU;
-◦Tras detenerse, instintivamente devolvió el freno a la posición de frenado en servicio y el HDV frenó con el freno directo.
-
+◦entró en servicio el día 9. 11. 2022 a las 14:00 h en Ústí nad Labem;
+◦hasta la aparición de la MU, el turno transcurrió sin incidencias;
+◦se detuvo ante la señal de entrada de la est. Mělník con la señal "Alto" y allí permaneció durante unos 5 – 7 minutos. Se encendió la señal "Velocidad 40 km/h y aviso" y él puso el tren en movimiento;
+◦cuando se aproximaba al aparato de enclavamiento, vio el HDV en movimiento y que se acercaba a su vía de tren. Inmediatamente aplicó el freno de emergencia;
+◦a baja velocidad se produjo la colisión con el HDV del tramo de maniobras, que según él ya estaba detenido;
+◦según él, la colisión se produjo a velocidad de marcha;
+◦tras detenerse, oyó por la ventana cómo llamaba (nota DI: el maquinista Z1 a través de la radio) en el simplex y anunciaba la aparición de la MU;
+◦tras detenerse, instintivamente devolvió el freno a la posición de freno de servicio y el HDV frenó con el freno directo.
 
 ## Página 24
+
 
 •
 Maquinista Z1
@@ -1005,8 +984,8 @@ Jefe de maniobras Z1
 ◦Antes de la producción del MU estaba descansado y sin agitación;
 ◦Hasta la producción del MU, el turno transcurrió sin incidencias y el primer trabajo era pasar con una parte del conjunto de la 10.ª SK al «plac» (a la 16.ª SK);
 
-
 ## Página 25
+
 
 ◦Informó al maquinista sobre el procedimiento de los trabajos;
 ◦Desacopló el conjunto en 2 partes y en la 1.ª parte realizaron la JZB;
@@ -1034,6 +1013,7 @@ por DI:
 ◦Después oyó en la radio la orden de detenerse;
 
 ## Página 26
+
 
 ◦ del hecho de la MU se enteró junto con el compañero jefe de estación del señalero St. 1, que dijo que se había producido una circulación no autorizada más allá de la señal S10 y una colisión con el tren Nex 55530;
 ◦ a continuación se procedió según el plan de notificación.
@@ -1067,8 +1047,8 @@ señalero St. 1 est. Mělník
 | jefe de estación en preparación | Sí . |
 | Tab. n.º 1: Transcripción de la llamada telefónica en el circuito de agujas entre el jefe de estación en preparación de la est. Mělník y los señaleros St 1 . . . . y St 2 . |  |
 
-
 ## Página 27
+
 
 | Iniciodela llamada (tras corrección): 9 11 2022 20:14:00 h Duracióndela grabación: 23 s . . , |  |
 | Contenido de la transcripción: grabación completa |  |
@@ -1104,8 +1084,8 @@ El espacio delante de la HDV de la unidad de maniobras estaba monitorizado media
 Del período indicado, durante el cual se produjo la MU, se obtuvieron grabaciones que, en el marco de la investigación, fueron facilitadas al DI.
 De las grabaciones de cámara del frontal de la HDV se constató:
 
-
 ## Página 28
+
 
 | Hora (h) | Resumen de la grabación de vídeo |
 |  | la aproximación a la 10 SK era posible ver en las cámaras en la señal S10 la señal correspondiente a la señal «Alto» según el transcripción de SŽ 1 ; |
@@ -1131,74 +1111,74 @@ el jefe de estación en preparación dio la orden de preparar la vía de tren pa
 20:14 h
 el jefe de maniobras Z1 informó por estación de radio al maquinista Z1 de la separación del convoy en dos partes y le instó a reponer aire
 
-
 ## Página 29
 
-en el HP de la unidad de maniobras;
+v HP del elemento de maniobras;
 •
 20:14 h
-comunicación por estación de radio entre el maquinista Z1 y el jefe de maniobras Z1 finalizada con una orden del jefe de maniobras Z1 «tira». El jefe de maniobras Z1 intentó después, sin éxito, comunicarse con el señalero St. 1;
+comunicación por radioteléfono entre el maquinista Z1 y el jefe de maniobras Z1, finalizada con una orden del jefe de maniobras Z1 «tira un poco más».
+El jefe de maniobras Z1 intentó después, sin éxito, comunicarse con el señalero St. 1;
 •
 20:14 h
-salida de la unidad de maniobras Z1 de la 10. SK más allá de la señal S10 con la señal que prohíbe la circulación, con lo que se produjo la MU (circulación no autorizada);
+salida del elemento de maniobras Z1 desde la 10. SK más allá de la señal S10 con señal que prohíbe la circulación, con lo que se produjo un MU (circulación no autorizada);
 •
 20:15 h
-desenganche de la aguja n.º 15 y sonido de la campana de desenganche de la aguja n.º 15;
+corte de la aguja n.º 15 y sonido de la campana de corte de la aguja n.º 15;
 •
 20:15 h
-el señalero St. 1 dio por estación de radio la orden de detener a la unidad de maniobras, porque en sentido contrario circulaba un tren;
+el señalero St. 1 dio por radioteléfono la orden de detener el elemento de maniobras, ya que en sentido contrario circulaba un tren;
 •
 20:15 h
-colisión de la HDV de la unidad de maniobras Z1 con la HDV del tren Nex 55530.
-### 3.2.2 Secuencia de hechos desde la producción del suceso excepcional hasta la finalización de las acciones de los servicios de emergencia
+colisión entre la locomotora del elemento de maniobras Z1 y la locomotora del tren Nex 55530.
+### 3.2.2 Secuencia de hechos desde la producción del suceso excepcional hasta la finalización de las acciones de los servicios de rescate
 •
 20:15 h
-el señalero St. 1 notificó la producción de la MU al jefe de estación;
+el señalero St. 1 comunicó la producción del MU al jefe de estación;
 •
 20:15 h
-el jefe de estación detuvo la circulación en la est. Mělník, en el tramo Mělník – Lhotka u Mělníka y en ambas vías de vía doble del tramo est. Mělník – est. Všetaty;
+el jefe de estación detuvo la explotación en la est. Mělník, en el tramo Mělník – Lhotka u Mělníka y en ambas vías del tramo est. Mělník – est. Všetaty;
 •
 20:20 h
-el maquinista Z1 notificó la producción de la MU al aparato de despacho de la ČDC;
+el maquinista Z1 comunicó la producción del MU al aparato de despacho de la ČDC;
 •
 20:23 h
-el jefe de estación notificó la producción de la MU al jefe de despachador en el CDP;
+el jefe de estación comunicó la producción del MU al jefe de despachador en el CDP;
 •
 20:33 h
-el jefe de despachador del CDP Praga notificó la producción de la MU al O18 SŽ;
+el jefe de despachador del CDP Praga comunicó la producción del MU a la O18 SŽ;
 •
 20:42 h
-la persona autorizada del operador ferroviario y del transportista (O18 SŽ) notificó la producción de la MU al COP DI;
+la persona autorizada del gestor de la vía y del transportista (O18 SŽ) comunicó la producción del MU al COP DI;
 •
 20:58 h
-activación del IZS (una persona desconocida notificó la MU al número 112);
+activación del IZS (una persona desconocida comunicó el MU al número 112);
 •
 21:16 h
-el DI dio su consentimiento para la continuación de la explotación del transporte ferroviario por la 1. y 3. SK en la est. Mělník y además por la 1. TK en el tramo Mělník – Všetaty;
+la DI autorizó la continuación de la explotación del transporte ferroviario por la 1.ª y la 3.ª vía en la est. Mělník y, a continuación, por la 1.ª vía del tramo Mělník – Všetaty;
 •
 21:28 h
-llegada del HZS al lugar de la MU;
+llegada del HZS al lugar del MU;
 •
 21:50 h
-inicio del examen del lugar de producción de la MU por la persona autorizada (O18 SŽ);
+inicio de la inspección del lugar de producción del MU por la persona autorizada (O18 SŽ);
 •
 22:03 h
-inicio del examen del lugar de producción de la MU por los inspectores del DI;
+inicio de la inspección del lugar de producción del MU por los inspectores de la DI;
 •
 23:33 h
-el inspector del DI presente dio su consentimiento para la liberación de la vía;
+el inspector de la DI presente dio su autorización para liberar la vía;
 •
 23:50 h
-restablecimiento completo de la circulación.
-El plan IZS se activó a las 20:58 h, es decir, 43 minutos después de la producción de la MU (colisión DV).
-En el lugar de la MU intervinieron los siguientes componentes del IZS:
+restablecimiento completo de la explotación.
+El plan del IZS se activó a las 20:58 h, es decir, 43 minutos después de la producción del MU (colisión de trenes).
+En el lugar del MU intervinieron los siguientes cuerpos del IZS:
 •
 Policía ČR, Mělník;
 •
-Cuerpo de Bomberos y Salvamento SŽ, JPO Kralupy nad Vltavou.
-
+Cuerpo de Bomberos y Rescate de la SŽ, JPO Kralupy nad Vltavou.
 
 ## Página 30
+
 
 ### 4 ANÁLISIS DEL SUCESO
 ### 4.1 Funciones y obligaciones
@@ -1213,6 +1193,7 @@ En general, conforme al art. 28 apart. 7 de la norma SŽ D1, rige que los emplea
 El señalero St. 1 de la est. Mělník no confirmó que entendía la orden de preparar una vía de tren según la formulación verbal vinculante indicada en el art. 317 apart. 9 de la norma SŽ D1, y ejecutó las órdenes del jefe de estación en preparación de establecer vías de tren simultáneamente excluidas en contradicción con el art. 36 apart. 11 y 12 de la norma SŽ D1, sin formular ninguna objeción a las mismas.
 
 ## Página 31
+
 
 Fig. n.º 4: Esquema de la estación de Mělník con la indicación de los sectores para la comprobación de la libertad de la vía ferroviaria y la indicación de las rutas de circulación simultáneamente excluidas ordenadas por el jefe de estación en la preparación
 Fuente: SŽ, modificación DI
@@ -1235,8 +1216,8 @@ art. 36 apartado 11 de la norma SŽ D1:
 art. 36 apartado 12 de la norma SŽ D1:
 «Si se dan simultáneamente instrucciones contradictorias entre sí, o si la ejecución de la instrucción contradijera las disposiciones de las normas, el empleado no debe aceptar ni ejecutar la instrucción, sino que debe formular inmediatamente objeciones»;
 
-
 ## Página 32
+
 
 •
 art. 317 apartado 9 de la norma SŽ D1:
@@ -1259,8 +1240,8 @@ Además, la investigación constató que el señalero del sector St. 1 de la est
 En su lugar, según su declaración, desde el aseo escuchó la petición del jefe de maniobras Z1 de una maniobra desde el 10. SK a la vía de tracción y después al 16. SK. A esta petición no reaccionó desde el aseo. Solo cuando sonó la campana de corte, salió corriendo del aseo para comprobar qué estaba ocurriendo, momento en el que constató la ocupación del sector de vía V15 (nota DI: agujas n.º 15), miró por la ventana, vio a la maniobra Z1 salir hacia el enclavamiento St. 1, tomó el radioteléfono y detuvo mediante una orden a través de él a la maniobra, y con una linterna intentó detener el tren Nex 55530 con la señal «Alto».
 Si el señalero St. 1 hubiera cumplido la obligación anteriormente mencionada, probablemente le habría sido posible impedir la colisión. Aunque no hubiera detectado la circulación no autorizada de la maniobra de inmediato, sino en el peor de los casos hasta el momento de la sonancia de la campana de corte a las ca. 20:15:28 h, cuando el frente de la maniobra pasó la aguja n.º 15, su reacción a este estímulo
 
-
 ## Página 33
+
 
 habría sido sin duda anterior a la reacción real de llamada por el radioteléfono (que precedió el desplazamiento desde el aseo) a las 20:15:50 h, es decir, ca. 22 s después de la sonancia de la campana de corte. Para evitar la colisión en este caso bastaba con emitir la orden de detener la maniobra unos segundos antes.
 ### Hallazgos:
@@ -1283,8 +1264,8 @@ o ante otra autorización establecida por el gestor de la infraestructura, o ant
 En las vías destinadas a la circulación de trenes, el transportista solo puede poner en movimiento la maniobra por orden (con autorización y consentimiento) del gestor de la infraestructura (art. 200 apartado 1 de la norma SŽ D1). En este caso, la autorización para la maniobra por parte del jefe de estación sería a la vez el consentimiento para la maniobra que permite emitir la orden de poner en movimiento la maniobra por el 10. SK, pero para la circulación más allá del nivel de la señal S10 sería necesario el consentimiento para la (iniciación de la) maniobra por parte del señalero St. 1 (art. 196 apartado 1 y 2 y art. 200 apartado 4 de la norma SŽ D1). La circulación de la maniobra más allá de la señal está permitida por una señal que permita la circulación u otra orden del gestor de la infraestructura.
 Si el agujero (señalero St. 1) no dio al empleado que dirige la maniobra (jefe de maniobras Z1) el consentimiento para la (iniciación de la) maniobra, el jefe de maniobras Z1 no podía iniciar la maniobra en el sector de maniobra del agujero (art. 207 apartado 5 de la norma SŽ D1).
 
-
 ## Página 34
+
 
 De acuerdo con el art. 207 apartado 9 de la norma SŽ D1 y a la vez en el sentido del art. 2.3.6 de la directiva ČDC PTs9-B-2011, en una maniobra con cuadrilla de maniobras, el jefe de cuadrilla de maniobras (empleado cualificado designado por el transportista), en este caso el jefe de maniobras Z1, solo puede dar al maquinista la orden de poner en movimiento la maniobra si la maniobra fue acordada (en este caso con el jefe de estación) y el agujero (en este caso el señalero St. 1) le dio el consentimiento para la (iniciación de la) maniobra (el consentimiento del agujero no es necesario en los casos del art. 200 apartado 4 de la norma SŽ D1, en este caso para la circulación hacia la señal fija más próxima válida para la maniobra). En el caso de que en la vía de maniobra haya señales fijas válidas para la maniobra y sean operadas para la circulación de la maniobra, el jefe de cuadrilla de maniobras solo puede dar al maquinista la orden de poner en movimiento la maniobra si se ha asegurado de que estas señales, con su indicación, permiten la circulación de la maniobra.
 El maquinista está obligado, de acuerdo con el art. 208 apartado 3 de la norma SŽ D1 y de acuerdo con el art. 2.5.1.5 de la directiva ČDC PTs10-B-2011, entre otros, a cumplir las órdenes dadas por las señales de las señales válidas para la maniobra, a regirse por las órdenes dadas mediante señales manuales para la maniobra, el dispositivo de telecomunicaciones o verbalmente, a vigilar la libertad de la vía de maniobra (es decir, si en la vía de maniobra no hay vehículos u otros obstáculos que pueda observar desde su puesto) y la disposición de los vehículos en la vía de maniobra, y a detener la maniobra si constata circunstancias que amenazan la seguridad en la maniobra, o si constata que la vía de maniobra no está establecida según la petición del empleado que dirige la maniobra ni según la información del agujero. En el caso de una maniobra remolcada, el maquinista debe cumplir siempre las disposiciones del apartado 3 de este artículo (art. 208 apartado 4 de la norma SŽ D1).
@@ -1298,6 +1279,7 @@ Posteriormente, el maquinista Z1, según su declaración, dijo al jefe de maniob
 
 ## Página 35
 
+
 El jefe de maniobras Z1 al respecto indicó que en ese momento intentaba comunicarse con el señalero de St. 1 por teléfono móvil, cuando antes no lo había conseguido por radio, y ello para «acordar la vía de maniobras hacia St. 1» (en realidad se trataba de dar la orden de establecer la vía de maniobras acordada en el sentido del art. 207 apartado 4 del reglamento SŽ D1), y además indicó que no puede confirmar que oyera todo lo que le decía el maquinista Z1, simplemente oyó si (nota DI: el maquinista) podía tirar hacia la señal. Sin embargo, en realidad, según el registro de la comunicación (véase el punto 3.1.9 de la presente ZZ), el jefe de maniobras Z1 llamó a la cabina de señales por radio por primera vez solo después de haber respondido al maquinista Z1 con la orden de poner en marcha la unidad de maniobras: «Bueno,
    tira un poco, tira tranquilamente. ¿Nombre del señalero de St. 1, el uno?»
 Según el art. 3.15.2 de la directiva ČDC PTs10-B-2011, el maquinista solo puede poner en marcha la locomotora (HDV) según la orden correspondiente. Según el art. 195 apartado 1 del reglamento SŽ D1, las señales manuales para maniobras son señales con las que se da la orden de poner en marcha la unidad de maniobras o con las que se influye en el movimiento. Según el art. 204 apartado 2 del reglamento SŽ D1, al dar órdenes para maniobras mediante dispositivo de radio se procede según las disposiciones del reglamento SŽDC (ČD) Z11. Según el art. 37 del reglamento SŽDC (ČD) Z11, al dar órdenes mediante estación de radio se utilizan estas formulaciones verbales obligatorias – para la señal «Tirar»: «Tren/reserva/PMD (se indica la designación) en … (se indica el nombre de la estación) de la vía … (se indica el número de vía) en dirección …. (se indica la dirección de la maniobra) tira.» La orden «tira un poco» no corresponde al art. 195 apartado 1 del reglamento SŽ D1, asimismo no fue utilizada por el jefe de maniobras la formulación verbal obligatoria para el término afín «tira». Aunque esta infracción pueda parecer trivial, es necesario constatar que con tales pequeñeces comienza la desviación de los empleados en la explotación respecto al estado reglamentario, que puede conducir a infracciones más graves. De un análisis posterior de los reglamentos (art. 195 apartado 11 del reglamento SŽ D1) se puede deducir, en efecto, que la señal «Tirar» ordena al maquinista un movimiento más corto de los vehículos, por lo que el maquinista no debería recorrer con esta señal más de 150 m (si no se repitiera), como fue el caso en esta ocasión (véase el punto 3.1.7 de la presente ZZ).
@@ -1305,8 +1287,8 @@ La comunicación por radio entre el jefe de maniobras Z1 y el maquinista Z1 no e
 En el momento en que se comunicaba con el maquinista Z1 e intentaba sin éxito comunicarse con el señalero de St. 1 con el fin de «acordar la maniobra» desde la 10.ª vía a la 16.ª vía, el jefe de maniobras Z1, según su declaración, se encontraba entre la 10.ª y la 12.ª vía a la izquierda en la dirección de marcha de la unidad de maniobras (nota DI: no veía la señal S10). A continuación, el jefe de maniobras Z1 trepó por los vagones de la 12.ª y la 14.ª vía y fue a comprobar el estado de los desvíios manuales en la llamada «plaza» para la vía de maniobras prevista en la 16.ª vía.
 El jefe de maniobras Z1 actuó en contradicción con los arts. 207 apartado 1, 6 letra c) y 9 del reglamento SŽ D1 y el art. 2.3.6 de la directiva ČDC PTs9-B-2011, al no acordar la maniobra, no ocupar un lugar desde el que pudiera dirigir la maniobra, y dar al maquinista Z1 la orden de poner en marcha la unidad de maniobras, sin que la maniobra estuviera acordada y sin que se hubiera emitido el permiso de maniobra por parte del jefe de estación, que habría sido a la vez el consentimiento para la maniobra que permite emitir la orden de poner en marcha la unidad de maniobras por la 10.ª vía. Para la circulación más allá del nivel de la señal S10 sería necesario el consentimiento para la maniobra (iniciada) por parte del señalero de St. 1, sin embargo, de las grabaciones de las conversaciones y de las declaraciones del jefe de maniobras Z1 (véase el punto 3.1.9 de la presente ZZ) se deduce claramente que era consciente de que no había acordado la vía de maniobras más allá de la señal S10 con el jefe de estación, respectivamente, de que no había dado la orden de establecer la vía de maniobras acordada
 
-
 ## Página 36
+
 
 al señalero de St. 1, cuando solo intentaba «acordar» dicha vía de maniobras. En la situación en que la vía de maniobras no estaba establecida, la señal S10 prohibía la circulación y la locomotora (HDV) de la unidad de maniobras se encontraba a unos 3 m de dicha señal, emitir la orden de poner en marcha la unidad de maniobras carecía prácticamente de sentido. Por el contrario, es evidente que el jefe de maniobras Z1 desconocía la posición del frente de la unidad de maniobras respecto a la señal S10, y por tanto no ocupó un lugar desde el que pudiera dirigir la maniobra.
 Más grave es, sin embargo, el hecho mismo de que el jefe de maniobras Z1 no recibiera del jefe de estación el permiso de maniobra con los requisitos indicados en el art. 200 apartado 2 del reglamento SŽ D1, y por tanto no debía, según el art. 200 apartado 4 del mismo reglamento, dar al maquinista la orden de poner en marcha la unidad de maniobras ni hacia la señal fija no transponible más próxima válida para maniobras, es decir, hacia la señal S10. El jefe de estación no dio el permiso para la maniobra, respectivamente, el consentimiento en el sentido del art. 200 apartado 1 del reglamento SŽ D1.
@@ -1314,8 +1296,8 @@ El maquinista Z1, sobre la base de la orden «tira un poco», que aceptó a pesa
 Fig. n.º 5: Vista de una persona de pie desde la cabina de conducción de la locomotora 742 721-4 hacia la señal «Alto» de la señal S10 en la imagen de la izquierda a través del parabrisas frontal y en la imagen de la derecha desde la ventana lateral
               Fuente: DI
 
-
 ## Página 37
+
 
 Para la situación en que el maquinista realmente no viera la señal, lo que no es el caso, el reglamento SŽ D1 no establece explícitamente cómo debe actuar el maquinista. Según el art. 208 apartado 3 letras a) y b) del reglamento SŽ D1, el maquinista está obligado, por una parte, a cumplir las órdenes dadas por las señales de las señales válidas para maniobras y, por otra, a guiarse por las órdenes dadas por las señales manuales para maniobras, por el dispositivo de telecomunicaciones o verbalmente. De ello puede deducirse que la orden (en este caso la señal) que debe cumplir puede obtenerla, por ejemplo, del jefe de la cuadrilla de maniobras o del cambiavías (orden transmitida a través de un intermediario).
 En un caso totalmente hipotético, si el señalero de St. 1 hubiera establecido la vía de maniobras solicitada, pero en la señal S10 hubiera, por ejemplo, por avería, una señal que prohíbe las maniobras, entonces el señalero de St. 1 debería dar al jefe de maniobras Z1, según el art. 203 apartado 6 letra c) del reglamento SŽ D1, la orden «Reserva de Mělnická en la estación Mělník, la señal S10 no se atiende, desde la décima vía en dirección a la estación Všetaty maniobra permitida.». El reglamento SŽ D1 de nuevo no establece explícitamente cómo debe enterarse el maquinista de la unidad de maniobras remolcada durante la maniobra con la cuadrilla de maniobras de que la señal no se atiende. También en este caso son esenciales los arts. 208 apartado 3 letras a) y b) del reglamento SŽ D1, de los que puede deducirse que el maquinista puede en la práctica nutrirse de la orden arriba indicada del cambiavías al jefe de la cuadrilla de maniobras, que escucha en la radio, o bien el jefe de la cuadrilla de maniobras debería dar él mismo al maquinista una orden en la que, entre otras cosas, se indicara que la señal S10 no se atiende.
@@ -1336,8 +1318,8 @@ f) observe desde la cabina de conducción la vía y las señales y actúe según
 h) ponga en marcha la locomotora solo según la señal «Salida» u otra autorización establecida por el explotador de la vía, o según la señal correspondiente para maniobras en la dirección establecida, con la condición de que conozca el modo y el destino de la circulación,
 s) reaccione de manera adecuada a las informaciones o instrucciones verbales o de datos transmitidas por el dispositivo de radio,»;
 
-
 ## Página 38
+
 
 •
 art. 36 apartados 1, 11, 12 del reglamento SŽ D1:
@@ -1371,6 +1353,7 @@ c) ocupar durante la maniobra un lugar desde el que pueda dirigir la maniobra y 
 
 ## Página 39
 
+
 consentimiento para iniciar la maniobra (si no es el propio cambiavías). En el caso de que en la vía de maniobra existan señales fijas no trasladables válidas para la maniobra y para la circulación de la unidad de maniobra sean atendidas, el jefe de cuadrilla de maniobra (empleado cualificado designado por el transportista) puede dar al maquinista la instrucción de poner en movimiento la unidad de maniobra (si no es el propio maquinista) solo cuando se haya asegurado de que estas señales, con su indicación, autorizan la circulación de la unidad de maniobra.";
 •
 art. 208 apartado 3 letra a) y apartado 4 letra a) del reglamento SŽ D1:
@@ -1396,8 +1379,8 @@ En el caso de esta MU concreta es necesario relacionar los citados arts. 28, 29 
 ◦art. 204 apartado 2 del reglamento SŽ D1
 "(2) Para la emisión de instrucciones de maniobra mediante dispositivo radiofónico se procede según las disposiciones del reglamento SŽDC (ČD) Z11 – Reglamento para la explotación de dispositivos radiofónicos (en adelante «reglamento Z11»).";
 
-
 ## Página 40
+
 
 •
 art. 2.3.6 de la directiva ČDC PTs9-B-2011:
@@ -1420,8 +1403,8 @@ Durante la investigación no se constató el incumplimiento de las funciones y o
 La autoridad nacional de seguridad es la Oficina Ferroviaria (Drážní úřad), que según la ley nº 266/1994 Sb. es una autoridad administrativa dependiente del Ministerio de Transporte. Su función es principalmente el ejercicio de la supervisión estatal en materia de vías férreas y en materia de autoridad de construcción, el ejercicio de la autoridad de construcción especial para obras de la vía y obras sobre la vía, la aprobación de vehículos ferroviarios nuevos y modernizados y de dispositivos técnicos designados, y la tramitación de infracciones. La obligación de la Oficina Ferroviaria es, en el plazo de 12 meses desde la fecha de publicación del informe final que contenga las recomendaciones de seguridad dirigidas a ella, comunicar a la Inspección Ferroviaria qué medida ha adoptado en relación con esta recomendación de seguridad, realizando esta comunicación de forma regular, al menos una vez al año, hasta la adopción de las medidas correspondientes.
 La función de la Agencia Ferroviaria de la Unión Europea es, además de garantizar dentro del ámbito de sus competencias que se mantenga generalmente y, en la medida de lo posible, se aumente sistemáticamente la seguridad de los ferrocarriles, entre otras, la emisión, renovación, suspensión y modificación de certificados únicos de seguridad, la limitación de su validez o su cancelación, en cuestión en la que coopera con las autoridades nacionales de seguridad; asimismo emite autorizaciones para la puesta en el mercado de vehículos ferroviarios y tipos de vehículos y está facultada para renovar, modificar, suspender o cancelar las autorizaciones que haya emitido. La Agencia evalúa además los proyectos de reglamentos nacionales, etc.
 
-
 ## Página 41
+
 
 Durante la investigación no se constató el incumplimiento de las funciones y obligaciones de la autoridad nacional de seguridad y de la Agencia Ferroviaria de la Unión Europea.
 ### 4.1.5 Entidades notificadas, entidades designadas y entidades dedicadas a la evaluación de riesgos
@@ -1442,8 +1425,8 @@ Durante la investigación no se constataron factores derivados del mantenimiento
 ### 4.2.5 Factores o consecuencias relacionados con la entidad responsable del mantenimiento de los vehículos ferroviarios, los talleres de mantenimiento y otros prestadores de servicios de mantenimiento
 Durante la investigación no se constataron factores relacionados con la entidad responsable del mantenimiento de los vehículos ferroviarios, los talleres de mantenimiento y otros prestadores de servicios de mantenimiento.
 
-
 ## Página 42
+
 
 4.2.6 Otros factores o consecuencias que se consideren importantes a efectos de la investigación
 Durante la investigación no se constataron otros factores relacionados con los vehículos ferroviarios, la infraestructura ferroviaria o los dispositivos técnicos.
@@ -1466,6 +1449,7 @@ Durante la investigación no se constataron factores relacionados con el entorno
 Durante la investigación no se constataron otros factores relacionados con la actuación de las personas implicadas.
 
 ## Página 43
+
 
 ### 4.4 Mecanismos de retroalimentación y mecanismos de control, incluida la gestión de riesgos
 y el aseguramiento de la seguridad, y los procedimientos de seguimiento
@@ -1506,8 +1490,8 @@ a) cumplir las indicaciones dadas por las señales de señales fijas aplicables 
 b) regirse por las indicaciones dadas mediante señales manuales para la maniobra, por el equipo de telecomunicaciones
 o verbalmente;
 
-
 ## Página 44
+
 
 c) cumplir las indicaciones dadas por los demás aparatos de señalización aplicables a la maniobra;
 d) vigilar la libertad de la ruta de maniobra (es decir, si en la ruta de maniobra no hay vehículos u
@@ -1546,8 +1530,8 @@ de las obligaciones establecidas en el apartado 3 letras a) a d) de este artícu
 siempre el empleado al frente del tramo de maniobra. El cumplimiento de las disposiciones del apartado 3 letras e) y f)
 debe garantizar este empleado en el maquinista de la locomotora del tramo de maniobra.»
 
-
 ## Página 45
+
 
 En la directriz ČDC PTs10-B-2011, en el art. 2.5.1.5, se establece una obligación correspondiente a la
 disposición del decreto anteriormente citada:
@@ -1591,8 +1575,8 @@ aparatos de señalización. Si no ve la señal del aparato de señalización sig
 debe presumir que en dicho aparato de señalización
 hay una señal que prohíbe la marcha del tramo de maniobra.
 
-
 ## Página 46
+
 
 ### (5) Si el cambiavías no puede establecer de una sola vez toda la ruta de maniobra acordada
 y la parte de la ruta de maniobra establecida no termina en un aparato de señalización fijo aplicable a la
@@ -1637,6 +1621,7 @@ modificación de esta norma.
 
 ## Página 47
 
+
 ### 3) Definición de la conducción según las condiciones de visibilidad
 § 1, letra m) del decreto nº 173/1995 Sb. establece:
 «Para los fines de este decreto se entiende por conducción según las condiciones de visibilidad la conducción de un vehículo ferroviario dirigida únicamente por la visibilidad de la persona que dirige el vehículo ferroviario, en la que el maquinista debe detener el tren o la parte de maniobra antes de vehículos detenidos o que circulen en la misma dirección en la misma vía de circulación y, según las posibilidades, también antes de otro obstáculo que amenace su circulación, incluidos los vehículos que circulen en sentido contrario, sin que pueda superarse la velocidad máxima permitida.»
@@ -1654,8 +1639,8 @@ no debe superar la velocidad máxima para la conducción según las condiciones 
 ¹
 De acuerdo con el Reglamento de Ejecución (UE) 2019/773 de la Comisión, la señalización STŮJ es cualquier señalización que no permite al maquinista continuar más allá de la señal.
 
-
 ## Página 48
+
 
 La disposición del artículo 20 de la norma SŽ D1 define de forma novedosa la conducción según las condiciones de visibilidad de la siguiente manera:
 Artículo 20 de la norma SŽ D1:
@@ -1677,27 +1662,24 @@ El Organismo de Inspección Ferroviaria solicitó a la Autoridad Ferroviaria (co
 ◦en el cumplimiento de las reglas establecidas para la organización y realización de maniobras, incluida la comunicación por radio entre los empleados participantes, y
 ◦en la actividad de control de los operadores ferroviarios y los transportistas relacionada con este ámbito.
 
-
 ## Página 49
 
-El OIF solicitó esta información sobre la base de las Recomendaciones de Seguridad emitidas para la MU en la est. 
-   Kolín
- , la MU en la est. Česká Lípa hl. n. y la MU en la est. Mělník (véase el punto 4.5 de la presente ZZ).
-La Autoridad Ferroviaria indicó en su respuesta:
-1. «La Autoridad Ferroviaria, en respuesta a su consulta, comunica que hasta la fecha no ha adoptado medidas adicionales relacionadas directamente con este suceso excepcional, más allá de su propia actividad ordinaria. Una vez emitido el informe final del suceso excepcional anteriormente mencionado, la Autoridad Ferroviaria, sobre la base de los resultados de la investigación y de la posible recomendación de seguridad, considerará los pasos adicionales relacionados con la garantía de la explotación segura de la vía y del transporte ferroviario.»
-2. «En cuanto a la consulta relativa al número de inspecciones estatales centradas en el cumplimiento de las reglas establecidas para la organización y realización de maniobras, incluida la comunicación por radio entre los empleados del operador ferroviario y del transportista, añadimos que se trata de una obligación del operador ferroviario y del transportista de que, en el marco de su propia actividad de control, se centren también en el ámbito de la disciplina en las comunicaciones orales. La Autoridad Ferroviaria, a continuación, durante el ejercicio de la inspección estatal o en los casos de evaluación de solicitudes de emisión de certificados de operador o de transportista, hace que estos sujetos le presenten los resultados de su actividad de control sobre el cumplimiento de la misma, incluidas las posibles medidas correctivas.»
-No obstante, de la actividad oficial, concretamente de la investigación de la MU «Circulación no autorizada del tren Nex 45326 más allá de la señal principal (de salida) L2 con una señalización que permitía la circulación en una vía físicamente ocupada por una parte de maniobra en la estación de ferrocarril Děčín-Prostrední Žleb del 10. 2. 2022», el OIF conoce que el operador ferroviario SŽ, ante la consulta del OIF sobre el registro de infracciones de las normas en la comunicación por radio, envió una respuesta de la que se desprende que la actividad de control del operador ferroviario no se registra ni se evalúa de forma sistemática y, por tanto, no permite seguir eficazmente la situación o, en su caso, la tendencia, la frecuencia de las distintas infracciones (incumplimientos de los procedimientos tecnológicos) e identificar disposiciones concretas problemáticas de las normas internas, a fin de poder perfeccionar el sistema establecido en el futuro.
-Concretamente, SŽ indicó ante la consulta del OIF:
+DI solicitó esta información sobre la base de las Recomendaciones de seguridad emitidas para el MU en la est. Kolín, el MU en la est. Česká Lípa hl. n. y el MU en la est. Mělník (véase el punto 4.5 de esta ZZ).
+La Autoridad Ferroviaria en su respuesta indicó:
+1. «La Autoridad Ferroviaria, en respuesta a su consulta, comunica que hasta la fecha no ha adoptado medidas adicionales relacionadas directamente con este suceso excepcional más allá de su propia actividad ordinaria. Tras la emisión del informe final del suceso excepcional anteriormente mencionado, la Autoridad Ferroviaria, sobre la base de los resultados de la investigación y de la eventual recomendación de seguridad, considerará los pasos adicionales relacionados con la garantía de la explotación segura de la vía y del transporte ferroviario.»
+2. «En cuanto a la consulta relativa al número de inspecciones estatales centradas en el cumplimiento de las reglas establecidas en la organización y realización de maniobras, incluida la comunicación por radio entre los distintos empleados del gestor de la vía y del transportista, añadimos que se trata de una obligación del gestor de la vía y del transportista de que, en el marco de su propia actividad de control, se centren también en el ámbito de la disciplina de las comunicaciones orales. La Autoridad Ferroviaria, posteriormente, en el ejercicio de la inspección estatal o en los casos de evaluación de solicitudes de emisión de certificados al gestor o al transportista, hace que estos sujetos le presenten los resultados de su actividad de control sobre su cumplimiento, incluidas las eventuales medidas correctivas.»
+De la actividad oficial, concretamente de la investigación MU Carrera no asegurada del tren Nex 45326 más allá de la señal principal (de salida) L2 con señal que permite la circulación en la vía físicamente ocupada por un elemento de maniobra en la estación de ferrocarril Děčín-Prostřední Žleb de fecha 10. 2. 2022, es sin embargo conocido por DI que el gestor de la vía SŽ, ante la consulta de DI sobre el registro de infracciones de las normas en la comunicación por radio, envió una respuesta de la que se desprende que la actividad de control del gestor de la vía no se registra ni se evalúa de forma sistemática y, por tanto, no permite seguir eficazmente la situación o, en su caso, la tendencia, la frecuencia de las distintas infracciones (violaciones de los procedimientos tecnológicos) e identificar disposiciones concretas problemáticas de las normas internas, a fin de poder perfeccionar el sistema establecido en el futuro.
+Concretamente, SŽ indicó a DI:
 «En cuanto al punto 2. Controles internos
-En el período solicitado (nota del OIF: del 1. 1. 2021 al 31. 3. 2023) no se aumentó la actividad de control centrada en la comunicación a través de enlace de radio y en el cumplimiento de la disciplina en las comunicaciones orales, incluida la comprobación del dispositivo de registro. Estos controles se realizan en el marco de la actividad de control establecida en la Instrucción del subdirector de gestión de la explotación sobre la actividad de control.
-### No se lleva un registro detallado de las averías detectadas en la comunicación a través de enlace de radio, sino un registro resumido y general de las averías en la disciplina en las comunicaciones orales.»
-### 4.4.6 Aprobaciones, certificados e informes de evaluación emitidos por la agencia, las autoridades nacionales de seguridad u otros sujetos de evaluación de la conformidad
-El operador ferroviario explotaba la vía sobre la base de una autorización administrativa vigente y de un certificado de seguridad del operador ferroviario. El transportista explotaba el transporte ferroviario sobre la base de una licencia vigente y de un certificado de transportista.
+En el periodo solicitado (nota de DI: del 1. 1. 2021 al 31. 3. 2023) no se incrementó la actividad de control centrada en la comunicación mediante enlace radio y el cumplimiento de la disciplina de las comunicaciones orales, incluida la comprobación del dispositivo de registro. Estos controles se realizan en el marco de la actividad de control establecida por la Instrucción del subdirector de gestión de la explotación sobre la actividad de control.
+### No se lleva un registro detallado de las deficiencias detectadas en la comunicación mediante enlace radio; se lleva un registro resumido y general de las deficiencias en la disciplina de las comunicaciones orales.»
+### 4.4.6 Aprobaciones, certificados e informes de evaluación otorgados por la agencia, las autoridades nacionales de seguridad u otros sujetos de evaluación de la conformidad
+El gestor de la vía explotaba la vía sobre la base de una autorización administrativa vigente y de un certificado de seguridad del gestor de la vía. El transportista explotaba el transporte ferroviario sobre la base de una licencia vigente y de un certificado del transportista.
 ### 4.4.7 Otros factores sistémicos
 En la investigación no se detectaron otros factores sistémicos.
 
-
 ## Página 50
+
 
 ### 4.5 Sucesos anteriores de naturaleza similar
 El Organismo de Inspección Ferroviaria, en el período comprendido entre el 1. 1. 2015 y la fecha de ocurrencia de la MU objeto de estudio, registra en las vías férreas, categoría estatal y regional, un total de 319 MU similares, en las que una parte de maniobra penetró indebidamente más allá del nivel de una señalización con una señalización que prohibía la circulación.
@@ -1714,6 +1696,7 @@ El OIF investigó las 7 MU similares anteriormente mencionadas en las que se pro
 2) asegurar el aumento de la actividad de control relacionada con el cumplimiento de las reglas establecidas para la organización y realización de maniobras, incluida la comunicación por radio, por parte de los operadores ferroviarios y los transportistas participantes.
 
 ## Página 51
+
 
 ### Reacción de la Oficina Ferroviaria a la Recomendación de Seguridad:
 „La Oficina Ferroviaria requirió mediante el ref. DUCR-57666/20/Lv de fecha 9. 10. 2020 al gestor de la vía de ámbito nacional y a todos los demás gestores de vías, así como a todos los operadores ferroviarios que realizan transporte ferroviario en el territorio de la República Checa mediante el ref. 57651/20/Lv de fecha 9. 10. 2020 al cumplimiento de la recomendación de seguridad.
@@ -1732,8 +1715,8 @@ De las respuestas de los gestores de vías y de los operadores ferroviarios se d
 „La Oficina Ferroviaria, como autoridad administrativa ferroviaria de conformidad con lo dispuesto en el § 54 apartado 1 de la Ley de ferrocarriles y de acuerdo con lo dispuesto en el § 53e apartado 4 de la Ley de ferrocarriles, requirió mediante el ref. DUCR-5132/22/Lv el 25. 1. 2022 a todos los operadores ferroviarios que realizan transporte ferroviario en la red de Správa železnic, organización estatal, al cumplimiento de la recomendación de seguridad de la Inspección Ferroviaria y, al mismo tiempo, requirió a Správa železnic, organización estatal, con domicilio en Dlážděná 1003/7, 110 00 Praha 1, a la adopción de medidas para garantizar la puesta en práctica de la recomendación de seguridad.
 De las respuestas de los gestores de vías y de los operadores ferroviarios se desprende que la recomendación de seguridad fue aceptada y puesta en práctica."
 
-
 ## Página 52
+
 
 7. de fecha 18. 6. 2021 en la estación Čerčany, donde se produjo la circulación no autorizada de la unidad de maniobras (dos HDV acoplados en servicio - HDV en mando de dos unidades) más allá de la señal Se12 que prohíbe la circulación y la posterior colisión con el tren Os 9010 detenido. La causa inmediata de esta MU fue el incumplimiento de la indicación „Posun zakázán“ (Maniobra prohibida) de la señal de clasificación Se12 por parte del jefe de la cuadrilla de maniobras en cabeza de la unidad de maniobras. La DI no emitió Recomendación de Seguridad (BD) relacionada con la MU actualmente investigada.
 ### La DI decidió investigar la MU en cuestión, entre otros motivos, sobre la base de la repetición de MU del tipo colisión
@@ -1749,72 +1732,57 @@ el 3. 2. 2018 a las 8:35 h se produjo en la estación Mělník la circulación n
 El gestor de la vía SŽDC respondió al aviso mediante la carta ref. 57007/2019 – SŽDC – GŘ – O11 de fecha 20. 9. 2019, en la que indica que, en relación también con otros acontecimientos excepcionales, emitió el „Orden operativa del vicepresidente de la dirección general para la gestión de la explotación para garantizar el cumplimiento de las disposiciones reglamentarias y la gestión del transporte ferroviario“ ref. 18665/2019 – SŽDC – GŘ – O11 de fecha 4. 4. 2019 y ordenó a los órganos de control de SŽDC en el ámbito de la gestión de la explotación en todos los niveles que se centrasen en su actividad de control en las disposiciones de la orden operativa citada."
 Sin embargo, aquí es necesario volver a señalar las conclusiones indicadas en el punto 4.5 de este Informe, es decir, que la actividad de control del gestor de la vía no se registra ni se evalúa de forma sistemática y, por tanto, no permite seguir eficazmente el estado o, en su caso, la tendencia, de la frecuencia de las distintas infracciones (incumplimientos de los procedimientos tecnológicos) e identificar las disposiciones concretas problemáticas de las normativas internas, a fin de poder perfeccionar el sistema establecido en el futuro.
 
-
 ## Página 53
 
 ### 5 CONCLUSIONES
 ### 5.1 Resumen del análisis y conclusiones relativas a las causas del suceso
-La causa inmediata del acontecimiento excepcional fue:
+La causa inmediata del suceso ferroviario fue:
 •
-la maniobra no autorizada más allá de la señal principal (de salida) S10 con la indicación „Stůj“ (Alto), que precedió a:
-◦la no comprobación por parte del maquinista de la unidad de maniobras remolcada de la señalización de la señal S10 directamente, a pesar de que era posible comprobar su indicación desde su puesto de conducción de varias maneras;
-◦deficiencias en la comunicación entre el maquinista de la unidad de maniobras remolcada y el jefe de la cuadrilla de maniobras al comprobar la señalización de la señal S10 a través de un intermediario, que dieron lugar a que la unidad de maniobras remolcada se pusiera en movimiento por una instrucción incorrecta y a la continuación de la circulación más allá de la señal S10, a pesar de que al maquinista no le era conocida su indicación a partir de la instrucción mencionada;
-◦la emisión no autorizada de la instrucción para poner en movimiento la unidad de maniobras remolcada por parte del jefe de la cuadrilla de maniobras al maquinista de la unidad de maniobras sin acordar la maniobra con el jefe de estación y sin conceder el permiso para la maniobra.
-Las causas de la continuación del proceso accidentógeno (colisión) fueron:
+el movimiento indebido más allá de la señal principal (de salida) S10 con la señal «Alto», precedido por:
+◦la no comprobación por parte del maquinista de la unidad de maniobras remolcada de la señal luminosa de la señal S10 directamente, pese a que era posible comprobar su señal desde el puesto de conducción del maquinista de varias maneras;
+◦deficiencias en la comunicación entre el maquinista de la unidad de maniobras remolcada y el jefe de la cuadrilla de maniobras al comprobar la señal luminosa de la señal S10 a través de un intermediario, que dieron lugar a que la unidad de maniobras remolcada se pusiera en movimiento por una indicación errónea y a que continuara la marcha más allá de la señal S10, pese a que al maquinista no le era conocida la señal de la indicación mencionada;
+◦la emisión indebida de la indicación de poner en movimiento la unidad de maniobras remolcada por parte del jefe de la cuadrilla de maniobras al maquinista de la unidad de maniobras, sin acordar la maniobra con el jefe de estación y sin conceder la autorización para la maniobra.
+Las causas de la continuación del proceso de accidente (colisión) fueron:
 •
-la continuación de la circulación por parte del maquinista de la unidad de maniobras remolcada más de 150 m más allá de la señal S10 únicamente sobre la base de la instrucción „povytáhni“ (tira un poco), que no le autorizaba para dicha circulación;
+la continuación de la marcha por parte del maquinista de la unidad de maniobras remolcada más de 150 m más allá de la señal S10 únicamente sobre la base de la indicación «tira un poco», que no le autorizaba para dicha marcha;
 •
-la no observación de la disponibilidad de la vía de tren establecida para el tren Nex 55530 y la no prevención de la circulación que entra en peligro de la unidad de maniobras por parte del señalero St. 1.
-La DI no detectó ningún factor contribuyente.
-La DI no detectó ninguna causa sistémica.
-### A summary of the analysis and conclusions with regard to the causes of the
-occurrence
-Causal factor:
+la no vigilancia de la disponibilidad del itinerario de tren establecido para el tren Nex 55530 y la no prevención de la marcha peligrosa de la unidad de maniobras por parte del señalero St. 1.
+No fue identificado por la DI ningún factor contribuyente.
+No fue identificada por la DI ninguna causa sistémica.
+### Un resumen del análisis y de las conclusiones relativas a las causas del suceso
+Factor causal:
 •
-unauthorized shunting behind the main (departure) signal device S10 with signal
-„Stop“, which preceded:
-◦the train driver of the drawn shunting operation did not find out signal code of the
-signal device S10 directly, although it was possible to verify  the signal from train
-driver's footplate by several ways;
-◦faults in communication between the train driver of the drawn shunting operation
-and the head of the shunting operation during finding out of signal code of the
-signal device S10 over mediator, which leaded to set the drawn shunting
-operation in motion at failure guidance and continue in driving, although the train
-
+el movimiento indebido más allá de la señal principal (de salida) S10 con la señal «Alto», precedido por:
+◦el maquinista de la unidad de maniobras remolcada no comprobó la señal luminosa de la señal S10 directamente, pese a que era posible comprobar la señal desde el puesto de conducción del maquinista de varias maneras;
+◦deficiencias en la comunicación entre el maquinista de la unidad de maniobras remolcada y el jefe de la cuadrilla de maniobras al comprobar la señal luminosa de la señal S10 a través de un intermediario, que dieron lugar a que la unidad de maniobras remolcada se pusiera en movimiento por una indicación errónea y a que continuara la marcha, pese a que al maquinista
 
 ## Página 54
 
-driver of the drawn shunting operation did not know signal of the signal device
-S10;
-◦unauthorized giving guidance to set the drawn shunting operation in motion by
-the head of the shunting operation to the train driver of the drawn shunting
-operation without arrange of shunting with the station dispatcher and without
-permission to shunting.
-Causes of continuance the accident plot (collision):
+el conductor de la maniobra de maniobras de maniobra dibujada no conocía la señal del dispositivo de señalización S10;
+◦dar indicaciones no autorizadas para poner en marcha la maniobra de maniobras de maniobra dibujada por parte del jefe de la maniobra de maniobras al conductor del tren de la maniobra de maniobras de maniobra dibujada sin coordinación de la maniobra con el despachador de estación y sin permiso para la maniobra.
+Causas de la continuación del accidente (colisión):
 •
-the train driver of the drawn shunting operation continued in driving over 150 meters
-behind the signal device S10 only based on guidance „pull out“, which it did not
-entitle him for this ride;
+el conductor del tren de la maniobra de maniobras de maniobra dibujada continuó conduciendo más de 150 metros detrás del dispositivo de señalización S10 únicamente sobre la base de la indicación „pull out“, que no le autorizaba para este trayecto;
 •
-the signal man did not observe unoccupied settings train route for the freight train
-No. 55530 and he did not prevent danger ride of the drawn shunting operation.
-Contributing factor: none.
-Systemic factor: none.
-### 5.2 Medidas adoptadas para prevenir acontecimientos excepcionales
-El gestor de la vía SŽ, en su Evaluación de las causas y circunstancias de la aparición del acontecimiento excepcional de fecha 6. 1. 2023, no adoptó ni emitió ninguna medida.
-El gestor de la vía SŽ, en su comunicación de fecha 28. 7. 2023, entre otros extremos, indicó que, durante la investigación de las causas y circunstancias de la aparición de la MU, mediante la comprobación del dispositivo de registro ReDat detectó deficiencias en la prestación del servicio de tráfico por parte de los jefes de estación y de los señaleros de la estación Mělník, que no tuvieron influencia en la aparición de la MU, a saber, que el jefe de estación ordenaba a los señaleros en un mismo aviso la preparación de vías de tren simultáneamente para varios trenes. Las deficiencias detectadas fueron tratadas con los empleados responsables.
-El operador ferroviario ČDC emitió tras la aparición de la MU las siguientes medidas:
-„Medidas correctivas para prevenir MU
-1. Al jefe de maniobras Z1 y al maquinista Z1 se les hará entrega de un aviso escrito del empleador por incumplimiento de la disciplina laboral.
-2. Al jefe de maniobras Z1 y al maquinista Z1 se les retirará la retribución personal durante un mes.
-3. Al maquinista se le realizará una verificación de conocimientos con la participación del empleado GŘ O22.
-4. Al jefe de maniobras Z1 se le formará en las actividades y procedimientos tecnológicos que es necesario realizar antes del inicio de la maniobra.
-5. Para el acontecimiento excepcional se emitirá una Hoja Informativa.“
-### Measures taken since the occurrence
-The infrastructure manager SŽ did not take any measures.
-The railway undertaking ČDC took the following measure after the occurrence:
+el operador de señalización no observó la ruta de tren libre para el tren de mercancías No. 55530 y no evitó la circulación peligrosa de la maniobra de maniobras de maniobra dibujada.
+Factor contribuyente: ninguno.
+Factor sistémico: ninguno.
+### 5.2 Medidas adoptadas para la prevención de sucesos excepcionales
+El gestor de la infraestructura SŽ, en su Evaluación de las causas y circunstancias de la aparición del suceso excepcional de fecha 6. 1. 2023, no adoptó ni emitió ninguna medida.
+El gestor de la infraestructura SŽ, en su comunicación de fecha 28. 7. 2023, entre otras cosas, indicó que durante la investigación de las causas y circunstancias de la aparición del SE, mediante la comprobación del dispositivo de registro ReDat, detectó deficiencias en el desempeño del servicio de tráfico de los despachadores y operadores de señalización de la est. Mělník, que no influyeron en la aparición del SE, a saber, que el despachador ordenaba a los operadores de señalización en un mismo aviso la preparación de rutas de tren simultáneamente para varios trenes. Las deficiencias detectadas fueron tratadas con los empleados responsables.
+El operador ferroviario ČDC emitió tras la aparición del SE las siguientes medidas:
+„Medidas correctivas para la prevención de SE
+1. Al jefe de maniobras Z1 y al conductor Z1 se le transmitirá una advertencia escrita del empleador por incumplimiento de la disciplina laboral.
+2. Al jefe de maniobras Z1 y al conductor Z1 se le retirará la valoración personal durante un mes.
+3. Al conductor se le realizará una comprobación de conocimientos con la participación del empleado GŘ O22.
+4. El jefe de maniobras Z1 recibirá formación sobre las actividades y los procedimientos tecnológicos que es necesario realizar antes de iniciar la maniobra.
+5. Con motivo del suceso excepcional se emitirá una Hoja Informativa.“
+### Medidas adoptadas desde la ocurrencia
+El gestor de la infraestructura SŽ no adoptó ninguna medida.
+El operador ferroviario ČDC adoptó la siguiente medida tras la ocurrencia:
 
 ## Página 55
+
 
 •
 el jefe de la maniobra Z1 y el maquinista de la maniobra Z1 recibirán notificación escrita por escrito sobre infracción de la disciplina laboral por parte del empleador;
@@ -1839,30 +1807,29 @@ el jefe de estación en formación de la estación de Mělník dio orden a los s
 •
 el señalero de la señalización 1 de la estación de Mělník no confirmó que entendía la orden de preparación de la ruta de tren según la inteligibilidad verbal vinculante, y ejecutó las órdenes del jefe de estación en formación de establecer tres rutas de tren simultáneamente imposibles sin formular objeciones.
 
-
 ## Página 56
 
 ### 6 RECOMENDACIONES DE SEGURIDAD
-La Inspección Ferroviaria, en virtud de lo dispuesto en el § 53e apartado 1 de la Ley núm. 266/1994 Sb., recomienda, con miras a prevenir sucesos extraordinarios:
+La Inspección Ferroviaria, en virtud de lo dispuesto en el apartado 1 del artículo 53e de la Ley núm. 266/1994 Sb., recomienda, con miras a la prevención de sucesos extraordinarios:
 A la Autoridad Ferroviaria:
 •
-en el marco de su actividad como autoridad nacional de seguridad, la adopción de medidas que garanticen en el gestor de la infraestructura Správa železnic, státní organizace:
-◦modificar la redacción del reglamento SŽ D1 de modo que, en el caso de maniobra con cuadrilla de maniobras, las obligaciones del maquinista en el sentido del § 35 apartado 1 letra f) del Decreto núm. 173/1995 Sb. no se trasladen exclusivamente al empleado al frente de la unidad de maniobras;
-◦modificar la redacción del reglamento SŽ D1 en cuanto a la condición para la emisión de la instrucción de poner en movimiento la unidad de maniobras por parte del jefe de la cuadrilla de maniobras;
-◦modificar la redacción del reglamento SŽ D1 en cuanto a la definición de la marcha a la vista.
-La Inspección Ferroviaria, en relación con las competencias que le confiere la Ley núm. 266/1994 Sb., no emite más recomendaciones de seguridad, no obstante considera necesario advertir repetidamente a la Autoridad Ferroviaria, al gestor de la infraestructura SŽ y al operador ferroviario ČDC sobre la situación existente y las recomendaciones de seguridad ya emitidas (véase el punto 4.5 de la presente ZZ), es decir, recomendaciones repetidas en el sentido de que, en el caso de cualquier maniobra en estaciones ferroviarias, es necesario prestar atención al cumplimiento de las obligaciones establecidas en los procedimientos tecnológicos uniformes para maniobras, incluidas las normas de comunicación por radio, y a la verificación rigurosa de su cumplimiento; a largo plazo, orientarse hacia una simplificación total de los procedimientos tecnológicos para maniobras.
-Aunque las infracciones de las disposiciones de los reglamentos vigentes para maniobras detectadas en la investigación de este SU (véanse los hallazgos del punto 4.1.1 de la presente ZZ) crean el riesgo de un SU con graves consecuencias, se ha vuelto a detectar que la situación a largo plazo (el grado de incumplimiento de los procedimientos tecnológicos establecidos) no cambia significativamente, se tolera generalmente y el potencial de la actividad de inspección no se aprovecha.
+en el marco de su actividad como autoridad nacional de seguridad, la adopción de medidas que garanticen, en el gestor de la infraestructura Správa železnic, organización estatal:
+◦modificar la redacción de la norma interna SŽ D1 de modo que, en las maniobras con cuadrilla de maniobras, en el caso de un tramo de maniobras empujado, las obligaciones del maquinista en el sentido del apartado 1, letra f), del artículo 35 del decreto núm. 173/1995 Sb. no se trasladen exclusivamente al empleado que encabeza el tramo de maniobras;
+◦modificar la redacción de la norma interna SŽ D1 en cuanto a la condición para la emisión de la instrucción de poner en movimiento el tramo de maniobras por parte del jefe de la cuadrilla de maniobras;
+◦modificar la redacción de la norma interna SŽ D1 en cuanto a la definición de la marcha a la vista.
+La Inspección Ferroviaria, en relación con las competencias encomendadas por la Ley núm. 266/1994 Sb., no emite más recomendaciones de seguridad, no obstante considera necesario advertir reiteradamente a la Autoridad Ferroviaria, al gestor de la infraestructura SŽ y al operador ferroviario ČDC sobre la situación existente y las recomendaciones de seguridad ya emitidas (véase el punto 4.5 de la presente ZZ), es decir, recomendaciones reiteradas en el sentido de que, en caso de cualquier maniobra en las estaciones ferroviarias, es necesario prestar atención al cumplimiento de las obligaciones establecidas en los procedimientos tecnológicos unificados para maniobras, incluidas las normas de comunicación radiofónica, y a su control riguroso; a largo plazo, orientarse hacia una simplificación general de los procedimientos tecnológicos para maniobras.
+Aunque las infracciones de las disposiciones de las normas vigentes para maniobras detectadas en la investigación de este suceso (véase el hallazgo en el punto 4.1.1 de la presente ZZ) generan el riesgo de que se produzca un suceso con graves consecuencias, se ha vuelto a constatar que la situación a largo plazo (el grado de incumplimiento de los procedimientos tecnológicos establecidos) no cambia significativamente, se tolera de forma generalizada y no se aprovecha el potencial de la actividad de control.
 ### RECOMENDACIONES DE SEGURIDAD
 Dirigidas a la Autoridad Nacional de Seguridad Checa (NSA):
 •
-como parte de sus actividades como autoridad nacional de seguridad, adoptar sus propias medidas para garantizar en el gestor de la infraestructura Správa železnic, státní organizace:
-◦modificar el reglamento interno SŽ D1 de modo que las obligaciones del maquinista en el sentido del § 35 (1, f) del Decreto núm. 173/1995 Sb. no se determinen exclusivamente para el empleado al frente de la unidad de maniobras durante la maniobra con cuadrilla de maniobras;
-◦modificar el reglamento interno SŽ D1 en el caso de la condición para la emisión de la instrucción de poner en movimiento la unidad de maniobras arrastrada por parte del jefe de la unidad de maniobras;
-◦modificar el reglamento interno SŽ D1 en el caso de la definición de la marcha a la vista.
-La Inspección Ferroviaria no emite más recomendaciones de seguridad en virtud de las competencias que le confiere la Ley núm. 266/1994 Sb., no obstante consideramos
-
+en el marco de sus actividades como autoridad nacional de seguridad, adoptar sus propias medidas para garantizar, en el gestor de la infraestructura Správa železnic, organización estatal:
+◦modificar la norma interna SŽ D1 de modo que las obligaciones del maquinista en el sentido del artículo 35 (1, f) del decreto núm. 173/1995 Sb. no se determinen exclusivamente al empleado que encabeza la maniobra durante las maniobras con cuadrilla de maniobras;
+◦modificar la norma interna SŽ D1 en el caso de la condición para la emisión de la instrucción de poner en movimiento el tramo de maniobras empujado por parte del jefe de la maniobra;
+◦modificar la norma interna SŽ D1 en el caso de la definición de la marcha a la vista.
+La Inspección Ferroviaria no emite más recomendaciones de seguridad en virtud de las competencias encomendadas por la Ley núm. 266/1994 Sb., no obstante consideramos
 
 ## Página 57
+
 
 necesario llamar la atención de la NSA, del gestor de la infraestructura SŽ y del operador ferroviario ČDC sobre la situación existente y las recomendaciones de seguridad emitidas por la NIB en cuanto al cumplimiento de las obligaciones de los procedimientos tecnológicos para maniobras, incluidas las obligaciones de comunicación por radio y la verificación rigurosa de su cumplimiento, y orientarse hacia una simplificación total de los procedimientos tecnológicos para maniobras. Se ha detectado repetidamente que la situación a largo plazo (el cumplimiento de los procedimientos tecnológicos para maniobras) no cambia, se tolera y el potencial de la actividad de inspección no se aprovecha, aunque existe el riesgo de la aparición de un suceso con graves consecuencias.
 En Praga, a 6 de noviembre de 2023
@@ -1876,16 +1843,16 @@ Ing. Petr Mencl v. r.
 director
 de la Inspección Territorial de Bohemia
 
-
 ## Página 58
+
 
 ### ANEXOS
 Fig. núm. 6: Daños al material rodante del tren Nex 55530
        Fuente: DI
 Fig. núm. 7: Posición final de los frentes del tren Nex 55530 y de la unidad de maniobras             Fuente: DI
 
-
 ## Página 59
+
 
 Fig. núm. 8: Esquema de los circuitos de maniobras en la estación de Mělník 
                     Fuente: SŽ

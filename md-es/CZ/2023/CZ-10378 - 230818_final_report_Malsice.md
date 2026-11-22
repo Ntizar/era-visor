@@ -10,13 +10,14 @@ chars: 93606
 ratio_longitud: 1.26
 tokens_in: 42155
 tokens_out: 30052
-verificacion: revisar
-notas_cifras: ["bloque 1: original bilingüe: se compara contra el idioma principal (EN)", "bloque 3: original bilingüe: se compara contra el idioma principal (CS)", "bloque 4: original bilingüe: se compara contra el idioma principal (CS)", "bloque 7: original bilingüe: se compara contra el idioma principal (EN)"]
-avisos: ["bloque 7: ratio 1.71"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 3: original bilingüe: se compara contra el idioma principal (PT)", "página 5: original bilingüe: se compara contra el idioma principal (CS)", "página 6: original bilingüe: se compara contra el idioma principal (CS)", "página 10: original bilingüe: se compara contra el idioma principal (CS)", "página 11: original bilingüe: se compara contra el idioma principal (CS)", "página 16: original bilingüe: se compara contra el idioma principal (PT)"]
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -40,13 +41,13 @@ IČ: 75009561
 mail@dicr.cz
 tel.: +420 736 521 003
 
-
 ## Página 2
+
 
 Este informe final es público y todos los hechos en él expuestos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ### 1 RESUMEN
            Fuente: Drážní inspekce
@@ -71,8 +72,8 @@ No fue detectado por la Drážní inspekce ningún factor contribuyente.
 No fue detectada por la Drážní inspekce ninguna causa sistémica.
 No fue emitida por la Drážní inspekce ninguna recomendación de seguridad.
 
-
 ## Página 4
+
 
 ### SUMMARY
 22nd February 2023, 18:26 (17:26 GMT).
@@ -105,8 +106,8 @@ Contributing factor: none.
 Systemic factor: none.
 Recommendation: not issued.
 
-
 ## Página 5
+
 
 # Índice
 1 RESUMEN..................................................................................................................3
@@ -154,8 +155,8 @@ de riesgos......................................................................
 4.2.1 Factores o consecuencias derivados del diseño de los vehículos ferroviarios, de la infraestructura 
 ferroviaria o de las instalaciones técnicas....................................................................30
 
-
 ## Página 6
+
 
 4.2.2 Factores o consecuencias derivados de la instalación y puesta en servicio de los vehículos ferroviarios, 
 de la infraestructura ferroviaria o de las instalaciones técnicas.....................................30
@@ -193,11 +194,12 @@ seguridad u otras entidades de evaluación de la conformidad....................
 
 ## Página 7
 
+
 |  | Lista de siglas y símbolos utilizados |
 | AK signal CDP COP ČD DI DÚ DV GRADO HDV ISOŘ IZS MU OŘP SK SSZT SŽ TDV ÚI ZZ žst . | AK signal Brno a s . . Centro de despacho central Centro de notificación central Č eské dráhy a s , . . Inspección Ferroviaria Autoridad Ferroviaria vehículo ferroviario vehículos ferroviarios , aplicación operativa Documentación gráfica vehículo ferroviario motriz aplicación Sistema de información de la dirección operativa sistema integrado de emergencia evento excepcional Departamento de dirección operativa del tráfico vía de estación Administración de la técnica de señalización y seguridad Administración de Ferrocarriles organización estatal , vehículo ferroviario de tracción vehículos ferroviarios de tracción , Ú Inspectorado Territorial Informe final sobre los resultados de la investigación del evento excepcional estación de ferrocarril |
 
-
 ## Página 8
+
 
 ### Lista de siglas de las disposiciones legales, normas y disposiciones internas utilizadas
 ley núm. 266/1994 Sb.
@@ -253,8 +255,8 @@ Organización y realización de inspecciones y mediciones en el ferrocarril
 nacional y en los ferrocarriles regionales», en la redacción
 vigente en el momento de la ocurrencia del evento excepcional
 
-
 ## Página 9
+
 
 | SŽ T100 | disposición interna del explotador del ferrocarril SŽ SŽ T100 , « Reglamento para la explotación de las instalaciones de seguridad » en , la redacción vigente en el momento de la ocurrencia del evento excepcional |
 | SŽDC S3 | disposición interna del explotador del ferrocarril SŽ SŽDC S3 , « Superficie ferroviaria » en la redacción vigente en el momento , de la ocurrencia del evento excepcional |
@@ -264,57 +266,35 @@ vigente en el momento de la ocurrencia del evento excepcional
 | ČD V 62 | disposición interna del transportista ČD ČD V 62 Reglamento , operativo-técnico para vehículos ferroviarios de interior en , la redacción vigente en el momento de la ocurrencia del evento excepcional |
 | Descripción técnicaAK T 013 00 | documento del fabricante AK signal Brno a s AK T 013 00 . . , «DESCRIPCIÓN TÉCNICA Desvío automático SP -03» en , la redacción vigente en el momento de la ocurrencia del evento excepcional |
 
-
 ## Página 10
 
 ### 2 INVESTIGACIÓN Y SUS RELACIONES
-### 2.1 Decisión sobre el inicio de la investigación
-La DI decidió iniciar la investigación del evento excepcional en cuestión el 22. 2. 2023.
-### 2.2 Fundamentación de la decisión sobre el inicio de la investigación
-La DI decidió investigar el evento excepcional en cuestión sobre la base de su recurrencia,
-de los impactos del evento excepcional sobre la explotación segura del ferrocarril y del
-transporte ferroviario y de la facultad derivada de la disposición § 53b de la ley núm.
-266/1994 Sb.
+### 2.1 Decisión de iniciar la investigación
+La DI decidió iniciar la investigación de la MU en cuestión el 22. 2. 2023.
+### 2.2 Fundamentación de la decisión de iniciar la investigación
+La DI decidió investigar la MU en cuestión sobre la base de su repetitividad, de los impactos del suceso excepcional en la explotación segura de la vía y del transporte ferroviario, y de la facultad derivada de la disposición § 53b de la Ley núm. 266/1994 Sb.
 ### 2.3 Alcance y limitaciones de la investigación, incluida la fundamentación correspondiente
-La DI, en el marco de la investigación del evento excepcional en cuestión, se enfrentó a
-limitaciones que influyeron negativamente en el modo y los procedimientos de la
-investigación y tuvieron efecto en la forma de obtención y determinación de las
-conclusiones, derivadas del hecho de que, debido a la ausencia de un sistema de
-diagnóstico, no se garantizó la transmisión de las indicaciones del desvío automático,
-es decir, de la información sobre el estado de la posición final prioritaria de la aguja
-nº 2sv con desvío automático en la estación de tráfico D3 Malšice.
-### 2.4 Descripción general de las capacidades y funciones técnicas del equipo de investigación
-Investigación de la DI en el lugar del evento excepcional:
-1x inspector del ÚI Bohemia, puesto de trabajo Plzeň.
+En el marco de la investigación de la MU en cuestión, la DI se enfrentó a limitaciones que influyeron negativamente en el modo y los procedimientos de la investigación y tuvieron efecto en la forma de determinar y establecer las conclusiones, derivadas del hecho de que, debido a la ausencia de un sistema diagnóstico, no se garantizó la transmisión de las indicaciones del desvío de retorno automático, es decir, de la información sobre el estado de la posición final prioritaria del desvío n.º 2sv con desvío de retorno automático en la estación de enlace D3 Malšice.
+### 2.4 Descripción resumida de las capacidades y funciones técnicas del equipo de investigación
+Investigación de la DI en el lugar de la MU:
+1x inspector de la ÚI Čechy, centro de trabajo de Plzeň.
 Constitución del equipo de investigación:
 no fue necesario constituirlo.
 Colaboración externa:
 no se utilizó.
 2.5 Comunicación y consultas durante la investigación con las personas o entidades
-que participaron en el evento en cuestión
-Al investigar las causas y circunstancias de la ocurrencia del evento excepcional, la DI
-se basó principalmente en sus propios conocimientos, hallazgos y en su propia
-documentación fotográfica. Durante la investigación, la DI solicitó la documentación
-necesaria al explotador del ferrocarril y al transportista.
-La investigación de las causas y circunstancias de la ocurrencia del evento excepcional
-se realizó de acuerdo con la ley núm. 266/1994 Sb.
-y el decreto núm. 376/2006 Sb.
+que participaron en el suceso en cuestión
+En la investigación de las causas y circunstancias de la aparición de la MU, la DI se basó principalmente en sus propios conocimientos, hallazgos y en su propia documentación fotográfica. Durante la investigación, la DI solicitó posteriormente la documentación necesaria al explotador de la vía y al transportista.
+La investigación de las causas y circunstancias de la aparición de la MU se realizó de conformidad con la Ley núm. 266/1994 Sb. y con el decreto núm. 376/2006 Sb.
 ### 2.6 Descripción del nivel de colaboración ofrecido por las entidades participantes
-La DI realizó, en colaboración con los representantes del fabricante del mecanismo de la
-aguja automática nº 2sv en la estación de tráfico D3 Malšice y con los representantes del
-explotador del ferrocarril, una prueba de verificación con el fin de determinar bajo qué
-condiciones, al realizar la prueba de enclavamiento con la regleta de prueba de 6 mm,
-se produce la evaluación de la posición prioritaria de la aguja, es decir, la iluminación
-de la señal «Tráfico asegurado» en el semáforo de la aguja con desvío automático Sv2.
-El nivel de colaboración con los representantes de las entidades participantes en el
-evento excepcional fue estándar.
+La DI realizó, en colaboración con los representantes del fabricante del mecanismo del desvío de retorno automático n.º 2sv en la estación de enlace D3 Malšice y con los representantes del explotador de la vía, una prueba de verificación con el fin de determinar bajo qué condiciones, al realizar la prueba de bloqueo con la regleta de ensayo de 6 mm, se produce la evaluación de la posición prioritaria del desvío, es decir, la encendido de la señal «Tráfico asegurado» en el semáforo del desvío con desvío de retorno automático Sv2.
+El nivel de colaboración con los representantes de las entidades participantes en la MU fue estándar.
 ### 2.7 Descripción de la investigación, los métodos y las técnicas utilizados para acreditar
 los hechos y los hallazgos indicados en el informe
-En el marco de la investigación del evento excepcional, la DI procedió de la siguiente
-manera, respectivamente, utilizó, entre otros, los siguientes métodos y técnicas:
-
+En el marco de la investigación de la MU, la DI procedió de la siguiente manera, es decir, utilizó, entre otros, los siguientes métodos y técnicas:
 
 ## Página 11
+
 
 •
 inspección del lugar del evento excepcional, incluidos los vehículos ferroviarios
@@ -369,8 +349,8 @@ nº 2sv, pk 10,195.
 Coordenadas GPS:
 49.3615250N, 14.5866486E.
 
-
 ## Página 12
+
 
 ### 3.1.3 Descripción del lugar del evento
 La estación de tráfico D3 Malšice se encuentra en el ferrocarril regional en el pk 10,406
@@ -408,8 +388,8 @@ registrador de velocidad mecánico Metra LT, nº 72039;
 de la inspección del puesto de la persona que dirige el vehículo ferroviario (en
 adelante, el maquinista) se constató:
 
-
 ## Página 13
+
 
 ◦el puesto, incluido el pupitre de mando, no presentaba signos de deformación
 ni de daños;
@@ -455,6 +435,7 @@ soporte de la manguera de la tubería continua;
 
 ## Página 14
 
+
 Fig. n.º 2: Locomotora descarrilada del tren Os 28424
 Fuente: DI
 TDV CZ-ČD 50 54 93 29 020-7 BDtax782 (en adelante también TDV 93-29 020-7):
@@ -470,8 +451,8 @@ Fuente: DI
 TDV CZ-ČD 50 54 93-29 022-3 BDtax782 (en adelante también TDV 93-29 022-3):
 •
 
-
 ## Página 15
+
 
 ◦estaba enganchado como el segundo tras la locomotora del tren Os 28424;
 ◦el frontal del TDV se encontraba en el pk 10,220;
@@ -504,8 +485,8 @@ aguja n.º 1 en el pk 10,162:
 señal luminosa de aguja con enclavador autorretornable Sv2 en el pk 10,1896:
 •
 
-
 ## Página 16
+
 
 ◦se trataba de una señal fija que, en el momento de la inspección, indicaba la correcta disposición de la aguja en la posición preferente al circular por la aguja en sentido contra punta, es decir, la señal «Circulación asegurada» (destello de luz blanca);
 ◦la señal de poste bajo estaba señalizada con una placa negra con marco blanco que contenía la inscripción blanca «Sv2» y un escudo señalizador con marco amarillo;
@@ -530,25 +511,26 @@ aguja n.º 2sv en el pk 10,189:
 ◦la lengua izquierda de la aguja estaba en contacto con el riel de apoyo izquierdo, la apertura de la lengua derecha era de 172 mm;
 ◦en la punta de la lengua izquierda de la aguja se encontraron huellas de impacto de la rueda del DV y, además, en el borde adyacente de la lengua izquierda y en la cara interior del riel de retención izquierdo eran visibles huellas de roce de las ruedas del DV (véanse las figs. n.º 4 y 5);
 
-
 ## Página 17
 
-Fig. n.º 4: Huellas de roce de las ruedas de la locomotora en el
-Fig. n.º 5: Punta impactada de la lengua
-riel de retención izquierdo
+Fig. n.º 4: Marcas de desgaste de las ruedas del HDV en el
+Fig. n.º 5: Punta izquierda del
+raíl izquierdo de sujeción
                     Fuente: DI
-izquierda                                 Fuente: DI
-◦el lugar del descarrilamiento – el punto «0» – se localizó en el pk 10,1954 en la aguja n.º 2sv, es decir, a una distancia de 5,4 m de la punta de la lengua izquierda de la aguja, donde se produjo el salto de la rueda izquierda del primer eje del bogie delantero de la locomotora de la cresta de la cabeza del riel de apoyo izquierdo (en el sentido de marcha del tren Os 28424) y, posteriormente, la caída de todo el bogie delantero y trasero de la locomotora y del bogie delantero del 1.º TDV;
-◦desde el punto «0» se encontraron huellas de circulación de las ruedas descarriladas sobre los elementos de fijación, tornillos y patines de las lenguas de la aguja, tanto entre el riel de apoyo izquierdo y la lengua izquierda de la aguja como entre el riel de apoyo derecho y la lengua derecha de la aguja;
-◦la circulación de la locomotora y del TDV en estado descarrilado provocó daños en los elementos de fijación, las bases de sujeción, los soportes de retención, el riel de retención izquierdo, la base del carril en la parte central de la aguja, las traviesas de madera y de hormigón, el balasto entre las SK n.º 1 y 3 y la desviación en planta de las SK n.º 1 y 3.
-Parte de la inspección del lugar de la maniobra inmediatamente después de su producción y, posteriormente, el 24. 2. 2023 con personas cualificadas del operador ferroviario, fue la comprobación del funcionamiento del enclavador autorretornable de la aguja n.º 2sv, incluida la dependencia de la señal luminosa Sv2:
-•
-en el modo de maniobra manual de la aguja n.º 2sv se realizó la prueba de enclavamiento completa con la galga de prueba prescrita de 6 mm:
-◦se insertó la galga de prueba de 6 mm entre la lengua izquierda y el riel de apoyo izquierdo y, a continuación, se dispuso la aguja en el sentido preferente (hacia la SK n.º 1):
-– el 22. 2. 2023 se realizaron 3 intentos, en los que en dos intentos la prueba de enclavamiento no fue satisfactoria – la aguja alcanzó la posición final, el cierre de mordaza se enganchó y en la señal luminosa Sv2 se encendió la señal «Circulación asegurada», es decir, 2 veces se produjo una evaluación incorrecta de la información sobre la posición final preferente de la aguja;
+lenguón golpeado                               Fuente: DI
+◦el punto de descarrilamiento – el punto "0" se localizó en el pk 10,1954 en el desvío n.º 2sv, es decir, a una distancia de 5,4 m de la punta del lenguón izquierdo del desvío, donde se produjo el salto de la rueda izquierda del eje 1 del bogí delantero del HDV desde la cresta de la cabeza del soporte izquierdo (en la dirección de circulación del tren Os 28424) y, posteriormente, la caída de todo el bogí delantero y trasero del HDV y del bogí delantero del 1. TDV;
+◦desde el punto "0" se encontraron, entre el soporte izquierdo y el lenguón izquierdo del desvío, así como entre el soporte derecho y el lenguón derecho del desvío, marcas de circulación de las ruedas descarriladas sobre los elementos de fijación, tornillos y soportes de los lenguones del desvío;
+◦la circulación del HDV y del TDV en estado descarrilado provocó daños en los elementos de fijación, las placas de asiento, los apoyos de sujeción, el raíl izquierdo de sujeción, la base del raíl en la parte central del desvío, las traviesas de madera y de hormigón, el separador entre SK n.º 1 y 3 y la desviación en planta de SK n.º 1 y 3.
 
+Parte de la inspección del lugar del MU inmediatamente después de su producción y, posteriormente, el 24. 2. 2023 con personas cualificadas profesionalmente del operador ferroviario, fue la comprobación del funcionamiento del conmutador automático del desvío n.º 2sv, incluida la dependencia de la señal luminosa Sv2:
+
+•
+en el modo de cambio manual del desvío n.º 2sv se realizó la prueba de enclavamiento completa con la galga de prueba prescrita de 6 mm:
+◦entre el lenguón izquierdo y el soporte izquierdo se insertó la galga de prueba de 6 mm y, a continuación, se cambió el desvío a la dirección preferente (a SK n.º 1):
+–el 22. 2. 2023 se realizaron 3 intentos, en los que en dos intentos la prueba de enclavamiento no fue satisfactoria – el desvío alcanzó la posición final, el cierre de mordaza se enclavó y en la señal luminosa Sv2 se encendió la señal "Circulación asegurada", es decir, 2 veces se produjo una evaluación incorrecta de la información sobre la posición preferente final del desvío;
 
 ## Página 18
+
 
 – el 24. 2. 2023 se repitió la prueba de enclavamiento con el resultado «no satisfactoria» en todos los intentos realizados;
 ◦se insertó la galga de prueba de 6 mm entre la lengua derecha y el riel de apoyo derecho y, a continuación, se dispuso la aguja en el sentido secundario (de desviación) (hacia la SK n.º 3) – la aguja no alcanzación la posición final, el cierre de mordaza no se enganchó y en la señal luminosa Sv2 no se encendió la señal «Circulación asegurada»;
@@ -580,8 +562,8 @@ instalaciones ferroviarias
 medio ambiente
 0 CZK.
 
-
 ## Página 19
+
 
 En la maniobra, el daño causado en los vehículos ferroviarios y en los componentes de la infraestructura se cuantificó en un total de
 ### 717 897 CZK.
@@ -619,50 +601,51 @@ la estación de origen del tren era la est. Tábor, y la terminal la est. Bechyn
 ## Página 20
 
 •
-en el momento de la aparición del MU viajaban 7 pasajeros;
+en el momento de producirse el MU viajaban 7 pasajeros;
 •
 en el MU, los DV descarrilados están resaltados en amarillo.
-El estado real del tren Os 28424 constatado en el lugar del MU correspondía a la documentación del tren.
+El estado real del tren Os 28424 comprobado en el lugar del MU correspondía a la documentación del tren.
 El HDV 113.002-0 contaba con un Certificado de aptitud del vehículo ferroviario válido, n.º de ev.: PZ 2354/99-V.01,
-expedido por el DÚ el 27. 10. 1999. La última revisión técnica periódica anterior a la aparición del MU
+expedido por el DÚ el 27. 10. 1999. La última revisión técnica ordinaria anterior a la producción del MU
 se realizó el 27. 11. 2022 con vigencia hasta el 27. 5. 2023, con el resultado de que el estado técnico
 del HDV correspondía a la aptitud aprobada.
-El HDV 113.002-0 estaba equipado en el momento de la aparición del MU con un dispositivo de registro
-automático de datos – un velocímetro mecánico Metra LT, n.º 72039.
+El HDV 113.002-0 estaba, en el momento de producirse el MU, equipado con un dispositivo de registro
+automático de datos – velocímetro mecánico Metra LT, n.º 72039.
 De los datos registrados se desprende:
 •
-18:20:00 h – salida del tren Os 28424 de la estación de tráfico D3 Slapy;
-18:23:00 h – en una distancia de 2200 m, aumento progresivo de la velocidad a 55 km·h-1;
+18:20:00 h – salida del tren Os 28424 de la estación D3 Slapy;
+18:23:00 h – en un tramo de 2200 m, aumento progresivo de la velocidad hasta 55 km·h-1;
 •
-18:23:30 h – en una distancia de 500 m, disminución continua de la velocidad de 55 km·h-1 a 48 km·h-1;
+18:23:30 h – en un tramo de 500 m, disminución continua de la velocidad de 55 km·h-1 a 48 km·h-1;
 •
-18:24:00 h – en una distancia de 400 m, aumento de la velocidad de 48 km·h-1 a 55 km·h-1;
+18:24:00 h – en un tramo de 400 m, aumento de la velocidad de 48 km·h-1 a 55 km·h-1;
 •
-18:25:15 h – en una distancia de 800 m, disminución continua de la velocidad de 55 km·h-1 a 38 km·h-1,
+18:25:15 h – en un tramo de 800 m, disminución continua de la velocidad de 55 km·h-1 a 38 km·h-1,
 •
 a continuación sigue la circulación a velocidad constante en el intervalo de 38 km·h-1 –
 40 km·h-1,
 •
-18:26:00 h – tras recorrer una distancia de 400 m, se registró el salto de todos los trazadores – entrada
-del tren Os 28424 en el desvío n.º 2sv de la estación de tráfico D3 Malšice en el km 10,189
-a una velocidad de 38 km·h-1 – aparición del MU. A partir de ahí el registro ya no es correcto.
+18:26:00 h – tras recorrer un tramo de 400 m, se registró un salto de todos los trazadores – entrada
+del tren Os 28424 en el desvío n.º 2sv de la estación D3 Malšice en el km 10,189
+a una velocidad de 38 km·h-1 – producción del MU. A partir de ahí, el registro
+ya no es correcto.
 Nota: la diferencia entre el tiempo registrado y el tiempo real fue de - 1 min.
-Del registro del velocímetro del HDV se desprende que en el tramo entre la estación de tráfico D3 Slapy
-y el lugar de aparición del MU no se superó ni siquiera la velocidad de línea (60 km·h-1) establecida
-para el tren Os 28424.
-Ambos TDV del tren Os 28424 tenían indicado en sus cajas la realización de la revisión técnica
-periódica, que era válida en la fecha de aparición del MU (véase la tabla n.º 1).
+Del registro del velocímetro del HDV se desprende que, en el tramo entre la estación D3 Slapy
+y el lugar de producción del MU, no se superó ni siquiera la velocidad máxima del tramo (60 km·h-1)
+del tren Os 28424.
+Ambos DV del tren Os 28424 tenían indicado en sus bastidores la realización de la revisión
+técnica ordinaria, que era válida en la fecha de producción del MU (véase la tabla n.º 1).
 Tabla n.º 1:
-| TDV | Fecha de realización de la revisión técnica |
+| DV | Fecha de realización de la revisión técnica |
 | 50 54 93 -29 020 -7 BDtax | 9 9 2021 . . |
 | 50 54 93 -29 022 -3 BDtax | 7 4 2022 . . |
 El 1. 3. 2023, por personas cualificadas del transportista y con la presencia de inspectores del DI,
-se realizó una comprobación conjunta del estado técnico del HDV y del TDV n.º 50 54 93-29 020-7
-tras el MU, incluida la medición de todos los ejes sin desenganchar. Los valores medidos estaban en
-conformidad con las disposiciones de la norma interna del transportista ČD V 62 y la norma ČSN EN 15313.
-
+se realizó una comprobación conjunta del estado técnico del HDV y del DV n.º 50 54 93-29 020-7
+tras el MU, incluida la medición de todos los bogies sin desenganche. Los valores medidos estaban en
+conformidad con las disposiciones de la normativa interna del transportista ČD V 62 y con la norma ČSN EN 15313.
 
 ## Página 21
+
 
 El estado técnico del HDV y del TDV no guardaba relación causal con la aparición de este MU y sus daños
 se produjeron como consecuencia del descarrilamiento del tren Os 28424.
@@ -716,8 +699,8 @@ la última revisión mensual, trimestral y semestral del desvío, incluida la re
 de encaje según la norma interna del operador de la vía SŽ T100, se realizó el 26. 1. 2023
 sin defectos constatados;
 
-
 ## Página 22
+
 
 •
 las actividades de mantenimiento relativas al aparato de cambio de retorno automático, según
@@ -771,149 +754,131 @@ con el resultado de un tiempo de 13 s. Posteriormente, el 24. 2. 2023, los inspe
 una nueva medición del tiempo de cambio con un resultado de 11 s en cada uno de los dos intentos
 de verificación realizados.
 
-
 ## Página 23
 
-### 3.1.9 Cualquier otra información relevante a efectos de la descripción del suceso y de la información básica
-Resumen de las explicaciones facilitadas por los empleados del operador de la vía y del transportista,
-incluidas las personas en relación contractual:
+### 3.1.9 Cualquier otra información relevante para los fines de la descripción del suceso y de la información básica
+Resumen de las explicaciones facilitadas por los empleados del gestor de la vía y del transportista, incluidas las personas en relación contractual:
 •
 maquinista del tren Os 28424
   – Acta con el empleado:
-◦el 22. 2. 2023, tras la llegada del tren Os 28424 a la estación de tráfico D3 Slapy, cumplió
-con la obligación de notificación y recibió del despachador director de la estación de Bechyně
-el consentimiento para la circulación hasta la estación de tráfico D3 Malšice;
-◦a la hora de salida programada, partió con el tren Os 28424 de la estación de tráfico D3 Slapy;
-◦continuó en dirección a la estación de tráfico D3 Malšice y, al entrar en la estación, redujo
-la velocidad del tren a 40 km·h-1;
-◦en la señal luminosa del desvío de retorno automático Sv2 parpadeaba el blanco – la señalización
-„Jízda zajištěna“ (circulación asegurada);
-◦continuó la circulación hacia la vía n.º 1 y, aproximadamente a la altura del desvío de retorno
-automático n.º 2sv, sintió un golpe y registró el balanceo de la locomotora;
-◦inmediatamente aplicó el frenado de acción rápida y, tras detener el tren, comprobó que se
-había producido un descarrilamiento;
+◦el 22. 2. 2023, tras la llegada del tren Os 28424 a la estación de tráfico D3 Slapy, cumplió con la obligación de notificación y recibió del despachador director de la estación de Bechyně el consentimiento para la marcha hasta la estación de tráfico D3 Malšice;
+◦a la hora de salida regular partió con el tren Os 28424 desde la estación de tráfico D3 Slapy;
+◦continuó en dirección a la estación de tráfico D3 Malšice y, al entrar en la estación, redujo la velocidad del tren a 40 km·h-1;
+◦en la señal luminosa de la aguja de enclavamiento automático Sv2 parpadeaba el blanco — señal «Marcha asegurada»;
+◦continuó la marcha en la vía SK n.º 1 y, aproximadamente a la altura de la aguja de enclavamiento automático n.º 2sv, sintió un golpe y registró el balanceo de la locomotora;
+◦inmediatamente aplicó el frenado de acción rápida y, tras detener el tren, comprobó que se había producido un descarrilamiento;
 ◦aseguró el tren y fue a comprobar si había heridos entre los pasajeros;
-◦notificó el suceso al despachador director de la estación de Bechyně y al jefe de máquinas;
-◦a continuación, contactó con el maquinista del tren en sentido contrario Os 28425 para informarle
-de que se había producido un MU en el extremo de Tábor, a fin de acordar la entrada en la estación
-de tráfico D3 Malšice;
+◦notificó el suceso al despachador director de la estación de Bechyně y al jefe de maniobras;
+◦a continuación, contactó con el maquinista del tren en sentido contrario Os 28425 para informarle de que en el extremo de Tábor se había producido un MU, a fin de acordar la entrada en la estación de tráfico D3 Malšice;
 •
 maquinista del tren Os 28424
   – Registro de la explicación facilitada al DI:
 ◦el 22. 2. 2023 se incorporó al turno descansado y se sentía sano;
 ◦trabaja como maquinista desde el año 1991 y circula por la línea Tábor – Bechyně desde el año 1994;
-◦en la estación de tráfico D3 Slapy se detuvo en la vía n.º 1, comunicó por radio al despachador
-director de la estación de Bechyně la llegada del tren Os 28424 a la estación y solicitó
-la salida del tren hacia la estación de tráfico D3 Malšice;
-◦tras recibir el consentimiento para la salida, puso el tren en movimiento;
-◦al entrar el tren Os 28424 en la estación de tráfico D3 Malšice, donde era el primer tren,
-tras comprobar que la luz intermitente en el desvío de retorno automático (nota del DI: desvío
-n.º 2sv) permitía la circulación, quiso circular hacia la vía n.º 1;
-◦al circular por el desvío de retorno automático (nota del DI: desvío n.º 2sv) sintió el balanceo
-de la locomotora y, por lo tanto, inmediatamente aplicó el frenado de acción rápida;
-◦a continuación, comprobó que se había producido un descarrilamiento, revisó inmediatamente
-el estado de los pasajeros y lo notificó todo al despachador director de la estación de Bechyně
-y al jefe de máquinas;
-◦tiene experiencias sin problemas con los desvíos de retorno automático en la línea Tábor – Bechyně
-y, en el transcurso de su práctica, aún no se ha encontrado con el caso,
+◦en la estación de tráfico D3 Slapy se detuvo en la vía SK n.º 1, comunicó por radio al despachador director de la estación de Bechyně la llegada del tren Os 28424 a la estación y solicitó la salida del tren hacia la estación de tráfico D3 Malšice;
+◦tras recibir el consentimiento para la salida, puso el tren en marcha;
+◦al entrar el tren Os 28424 en la estación de tráfico D3 Malšice, donde iba como tren primero, tras comprobar que el destello de la aguja de enclavamiento automático (nota del DI: aguja n.º 2sv) permitía la marcha, quiso circular por la vía SK n.º 1;
+◦al pasar por la aguja de enclavamiento automático (nota del DI: aguja n.º 2sv) sintió el balanceo de la locomotora y, por ello, inmediatamente aplicó el frenado de acción rápida;
+◦a continuación comprobó que se había producido un descarrilamiento, revisó de inmediato el estado de los pasajeros y lo notificó todo al despachador director de la estación de Bechyně y al jefe de maniobras;
+◦tiene experiencias sin problemas con las agujas de enclavamiento automático en la línea Tábor – Bechyně y, en el ejercicio de su práctica, aún no se ha encontrado con el caso,
 
 ## Página 24
 
-cuando en la señal luminosa de la aguja con aparato de cambio automático no había la señal «Circulación asegurada»;
-◦si en la señal luminosa no hubiera la señal «Circulación asegurada», se habría detenido con el tren, se habría asegurado de que no hubiera ningún objeto extraño en la aguja y, si tras la retirada del objeto la señal hubiera mostrado la señal «Circulación asegurada», habría continuado y lo habría comunicado todo al despachador director;
-◦en el pasado no sentía tendencia a actuar de forma rutinaria durante el servicio.
+cuando en la señal luminosa de la aguja con desvío automático no estaba la señal "Circulación asegurada";
+◦si en la señal luminosa no estuviera la señal "Circulación asegurada", se habría detenido con el tren, se habría asegurado de que no hubiera ningún objeto extraño en la aguja y, si tras la retirada del objeto la señal mostrara la señal "Circulación asegurada", habría continuado y lo habría comunicado todo al despachador director;
+◦en el pasado no sentía, durante el desempeño de su servicio, tendencia a la actuación rutinaria.
 
 Resumen de las explicaciones presentadas por otras personas y testigos:
+
 •
 despachador director de la est. Bechyně
   – Acta con el empleado:
-◦a la llegada del tren Os 28424 a la zona de tráfico D3 Slapy, el maquinista comunicó la llegada del tren y solicitó la salida hacia la zona de tráfico D3 Malšice;
-◦le concedió el permiso de salida del tren (nota DI: tren Os 28424) hacia la zona de tráfico D3 Malšice, donde debía cruzarse regularmente con el tren Os 28425;
-◦a las 18:29 h (nota DI: según la conversación registrada por el dispositivo de registro ReDat a las 18:26:58 h) se comunicó el maquinista del tren Os 28424 que se había producido un descarrilamiento en la aguja n.º 2sv, e informó de que no había habido ningún herido;
+◦a la llegada del tren Os 28424 a la circulación D3 Slapy, el maquinista anunció la llegada del tren y solicitó la salida hacia la circulación D3 Malšice;
+◦le concedió el consentimiento para la salida del tren (nota DI: tren Os 28424) hacia la circulación D3 Malšice, donde debía cruzarse regularmente con el tren Os 28425;
+◦a las 18:29 h (nota DI: según la conversación registrada por el equipo de registro ReDat a las 18:26:58 h) se comunicó el maquinista del tren Os 28424, indicando que se había producido un descarrilamiento en la aguja n.º 2sv, y comunicó que no había habido ningún herido;
 ◦a continuación actuó conforme al Horario de Comunicaciones y comunicó el suceso.
 
 ### 3.2 Descripción fáctica del suceso
-### 3.2.1 Secuencia de hechos que condujeron al suceso extraordinario
-El 22. 2. 2023 a las 18:19 h llegó el tren Os 28424 a la zona de tráfico D3 Slapy, donde para este tren la TJŘ impone la obligación de comunicar. Según la conversación registrada en el dispositivo de registro ReDat3, el maquinista, de conformidad con el art. 65 y el art. 67 de la norma interna del explotador de la vía SŽ D3, comunicó al despachador director de la est. Bechyně la hora de llegada del tren a dicha zona de tráfico y la liberación del sector espacial, y simultáneamente solicitó el permiso de salida del tren Os 28424 a las 18:20 h hacia la zona de tráfico D3 Malšice. Inmediatamente después, el despachador director, de conformidad con el art. 67 de la norma interna del explotador de la vía SŽ D3, concedió al maquinista el permiso de salida del tren Os 28424 hacia la zona de tráfico D3 Malšice.
+### 3.2.1 Secuencia de hechos que condujeron al suceso excepcional
 
-Tras la salida del tren Os 28424 de la zona de tráfico D3 Slapy, el maquinista, según su declaración, continuó en dirección a la zona de tráfico D3 Malšice, donde iba como primer tren. Al entrar en la zona de tráfico redujo la velocidad a 40 km·h-1 y, tras comprobar que en la señal luminosa de la aguja con aparato de cambio automático Sv2 brillaba la luz blanca intermitente, es decir, la señal «Circulación asegurada», continuó la marcha hacia el SK n.º 1. Al pasar por la aguja n.º 2sv, el maquinista percibió, según su declaración, el balanceo de la HDV, por lo que inmediatamente aplicó el frenado de acción rápida.
+El 22. 2. 2023 a las 18:19 h llegó el tren Os 28424 a la circulación D3 Slapy, donde para este tren la TJŘ impone la obligación de comunicar. Según la conversación registrada en el equipo de registro ReDat3, el maquinista, de conformidad con el art. 65 y el art. 67 de la norma interna del gestor de la vía SŽ D3, comunicó al despachador director de la est. Bechyně la hora de llegada del tren a dicha circulación y la liberación del sector espacial, y simultáneamente solicitó el consentimiento para la salida del tren Os 28424 a las 18:20 h hacia la circulación D3 Malšice. El despachador director, inmediatamente después, de conformidad con el art. 67 de la norma interna del gestor de la vía SŽ D3, concedió al maquinista el consentimiento para la salida del tren Os 28424 hacia la circulación D3 Malšice.
 
-Una vez que el tren Os 28424 entró en la aguja n.º 2sv, la cual sin embargo no estaba conmutada a la posición de prioridad para la circulación hacia el SK n.º 1, se produjo en el pk 10,195 el descarrilamiento del bogie delantero y, posteriormente, también del trasero de la HDV por la izquierda en el sentido de circulación del tren. Tras el paso del bogie trasero de la HDV, el lengüeta izquierda de la aguja se acopló al riel de apoyo izquierdo, es decir, a la posición de prioridad, lo que permitió a ambos TDV recorrer la aguja en dirección recta hacia el SK n.º 1 en estado no descarrilado. Como consecuencia de la circulación en bifurcación, el bogie delantero de la 1.ª TDV fue arrastrado posteriormente y descarriló por la izquierda en el sentido de circulación en la zona de corazón de la aguja n.º 2sv. La cabeza del tren Os 28424 se detuvo en el pk 10,248.
+Tras la salida del tren Os 28424 de la circulación D3 Slapy, el maquinista, según su declaración, continuó en dirección a la circulación D3 Malšice, donde era el primer tren. Al entrar en la circulación redujo la velocidad a 40 km·h-1 y, tras comprobar que en la señal luminosa de la aguja con desvío automático Sv2 brillaba la luz blanca intermitente, es decir, la señal "Circulación asegurada", continuó la circulación en la SK n.º 1. Al pasar por la aguja n.º 2sv, el maquinista percibió, según su declaración, el balanceo de la HDV, por lo que inmediatamente aplicó el frenado de acción rápida.
 
+Una vez que el tren Os 28424 entró en la aguja n.º 2sv, la cual sin embargo no había sido accionada a la posición preferente para la circulación en la SK n.º 1, se produjo en el km 10,195 el descarrilamiento del bogie delantero y, posteriormente, también del bogie trasero de la HDV hacia la izquierda en el sentido de circulación del tren. Tras el paso del bogie trasero de la HDV, la lengüeta izquierda de la aguja se apoyó en el soporte izquierdo, es decir, en la posición preferente, lo que permitió a ambas TDV recorrer la aguja en dirección recta hacia la SK n.º 1 en estado no descarrilado. Como consecuencia de la circulación en bifurcación, el bogie delantero de la 1.ª TDV fue arrastrado posteriormente y descarriló hacia la izquierda en el sentido de circulación en la parte de corazón de la aguja n.º 2sv. La cabeza del tren Os 28424 se detuvo en el km 10,248.
 
 ## Página 25
 
-### 3.2.2 Secuencia de hechos desde la producción del suceso extraordinario hasta la finalización de las acciones de los servicios de emergencia
+### 3.2.2 Cronología de hechos desde la aparición del suceso hasta la finalización de las acciones de los servicios de emergencia
 •
-18:26 h – producción del SE;
+18:26 h – aparición del suceso;
 •
 18:26 h –
-comunicación de la producción del SE por el maquinista del tren Os 28424 al despachador director de la est. Bechyně;
+notificación de la aparición del suceso por el maquinista del tren Os 28424 al despachador director de la est. Bechyně;
 •
 18:33 h –
-comunicación de la producción del SE por el despachador director de la est. Bechyně al despachador operativo CDP Praha – OŘP para el área de Praga;
+notificación de la aparición del suceso por el despachador director de la est. Bechyně al despachador de explotación CDP Praha – OŘP para el área de Praga;
 •
 18:40 h –
-comunicación de la producción del SE por el despachador director de la est. Bechyně al IZS;
+notificación de la aparición del suceso por el despachador director de la est. Bechyně al IZS;
 •
 18:40 h –
-comunicación de la producción del SE por el jefe de despachadores CDP Praha – OŘP para el área de Praga al O18 SŽ;
+notificación de la aparición del suceso por el despachador jefe de CDP Praha – OŘP para el área de Praga al O18 SŽ;
 •
 18:51 h –
-notificación de la producción del SE por la persona designada O18 SŽ al COP DI;
+notificación de la aparición del suceso por la persona designada del O18 SŽ al COP DI;
 •
 20:55 h –
-inicio de la inspección del lugar de producción del SE por un empleado de la DI;
+inicio de la inspección del lugar de aparición del suceso por un empleado del DI;
 •
 22:30 h –
-concesión del permiso de liberación de la vía por el inspector de la DI presente;
+concesión del permiso para liberar la vía por el inspector del DI presente;
 •
-23. 2. 2023 a las 00:58 h – realineación de la TDV;
+23. 2. 2023 a las 00:58 h – entrada en vía del TDV;
 •
-23. 2. 2023 a las 16:43 h – realineación de la HDV;
+23. 2. 2023 a las 16:43 h – entrada en vía del HDV;
 •
-25. 2. 2023 a las 18:15 h – restablecimiento de la circulación sin restricciones.
-
-El Plan IZS fue activado en función de la naturaleza del SE. El Plan IZS fue activado a las 18:40 h, es decir, 14 minutos después de la producción del SE, por el despachador director de la est. Bechyně.
-
-En el lugar del SE intervinieron los siguientes componentes del IZS:
+25. 2. 2023 a las 18:15 h – restablecimiento de la explotación sin limitaciones.
+El plan IZS fue activado en función de la naturaleza del suceso. El plan IZS fue activado a las 18:40 h, es decir, 14 minutos después de la aparición del suceso, por el despachador director de la est. Bechyně.
+En el lugar del suceso intervinieron los siguientes componentes del IZS:
 •
 Policía ČR, Delegación Territorial de Tábor, Departamento de Distrito de Bechyně;
 •
-Cuerpo de Bomberos y Salvamento de SŽ, Unidad de Protección contra Incendios de České Budějovice.
-
+Cuerpo de Bomberos y Salvamento de SŽ, Unidad de Protección Contra Incendios de České Budějovice.
 ### 4 ANÁLISIS DEL SUCESO
 ### 4.1 Funciones y obligaciones
-### 4.1.1 Transportistas y explotadores de vías
-El explotador de la vía está obligado, según lo dispuesto en la Ley n.º 266/1994 Sb., entre otros, a explotar la vía para las necesidades del transporte ferroviario fluido y seguro de acuerdo con las reglas para la explotación de la vía y la autorización administrativa, y a garantizar que el sistema de seguridad del explotador de la vía por él establecido tenga en cuenta el alcance y el objeto de su actividad y de las actividades de los distintos transportistas realizadas en la vía por él explotada, permita la explotación de la vía y del transporte ferroviario de conformidad con las especificaciones técnicas de interoperabilidad, otras normas jurídicas y los certificados del transportista, y sea cumplido.
-
-Asimismo, el explotador de la vía de ámbito nacional o regional o de un ramal de acceso público está obligado, según lo dispuesto en la Ley n.º 266/1994 Sb., a realizar la construcción, modernización, mantenimiento y reparación de la vía por él explotada de conformidad con las condiciones técnicas y los requisitos de dicha vía y con las condiciones técnicas de su aptitud para el servicio y de su conexión con otras vías. El explotador de la vía estableció los procedimientos tecnológicos para la explotación de la vía y del transporte ferroviario relativos, entre otros, a la garantía de la aptitud para el servicio de la vía y a la seguridad del transporte ferroviario.
-
+### 4.1.1 Transportistas y gestores de vías
+El gestor de la vía está obligado, conforme a lo dispuesto en la Ley núm. 266/1994 Sb., entre otros, a explotar la vía para las necesidades del transporte ferroviario fluido y seguro de acuerdo con las normas de explotación de la vía y la autorización administrativa, y a garantizar que el sistema de seguridad del gestor de la vía por él establecido tenga en cuenta el alcance y el objeto de su actividad y las actividades de los distintos transportistas realizadas en la vía por él explotada, permita la explotación de la vía y del transporte ferroviario de conformidad con las especificaciones técnicas de interoperabilidad, otras disposiciones legales y los certificados del transportista, y sea cumplido.
+Asimismo, el gestor de la vía nacional o regional o de la vía de acceso público está obligado, conforme a lo dispuesto en la Ley núm. 266/1994 Sb., a realizar la construcción, modernización, mantenimiento y reparación de la vía por él explotada de acuerdo con las condiciones técnicas y requisitos de dicha vía y las condiciones técnicas de su aptitud para la explotación y de su enlace con otras vías.
+El gestor de la vía estableció los procedimientos tecnológicos relativos a la explotación de la vía y del transporte ferroviario, entre otros, en lo que respecta a la garantía de la aptitud para la explotación de la vía y a la seguridad del transporte ferroviario.
 
 ## Página 26
 
-En relación con el SE en cuestión, se trata especialmente de las condiciones técnicas de aptitud para el servicio de la vía, el mantenimiento y la reparación de la vía en la medida necesaria para su aptitud para el servicio, es decir, las inspecciones y mediciones periódicas de las obras ferroviarias, y asimismo de la determinación de las condiciones de circulación por agujas con aparato de cambio automático en los casos en que en la señal luminosa no figure la señal «Circulación asegurada».
+En relación con la MU en cuestión, se trata principalmente de las condiciones técnicas de aptitud para el servicio de la vía, el mantenimiento y la reparación de la vía en la medida necesaria para su aptitud para el servicio, es decir, las inspecciones y mediciones periódicas de las obras de las vías, así como de la determinación de las condiciones de circulación a través de desvíos con aparato de cambio de aguja de retorno automático en los casos en que en el semáforo no se muestra la señal "Circulación asegurada".
 
-Por parte del explotador de la vía SŽ, antes de la producción del SE, en el sentido del decreto n.º 177/1995 Sb. y de la norma interna SŽ S2/3, se realizaron inspecciones y mediciones periódicas de las obras ferroviarias centradas en el estado de la infraestructura ferroviaria. En relación con el SE en cuestión se trataba, entre otros, del recorrido de la línea, de la medición de agujas, de la inspección periódica integral de la línea Tábor – Bechyně, concretamente del tramo Malšice – Bechyně, del control de la visibilidad de las señales y, asimismo, de actividades de mantenimiento relativas al aparato de cambio automático, es decir, del control de la cantidad de aceite en el cilindro, del control del tiempo de retorno del pistón, del control del funcionamiento del dispositivo de control incluida la holgura entre la barra de control y la regla de control, y del control de la resistencia de conmutación de la aguja.
+Antes de la aparición de la MU, el operador de la vía SŽ realizaba, en el sentido del decreto n.º 177/1995 Sb. y de la norma interna de SŽ S2/3, inspecciones y mediciones periódicas de las obras de la vía centradas en el estado de la infraestructura ferroviaria. En relación con la MU en cuestión, se trataba, entre otras cosas, de la inspección del tramo, la medición de los desvíos, la inspección completa periódica del tramo Tábor – Bechyně, concretamente del tramo de vía Malšice – Bechyně, la comprobación de la visibilidad de los semáforos y, asimismo, de actividades de mantenimiento relativas al aparato de cambio de aguja de retorno automático, es decir, la comprobación de la cantidad de aceite en el cilindro, la comprobación del tiempo de retorno del pistón, la comprobación del funcionamiento del dispositivo de control, incluida la holgura entre la barra de bloqueo de control y la regla de control, y la comprobación de la resistencia al cambio del desvío.
 
-Con las inspecciones y mediciones anteriores realizadas antes de la producción del SE, el explotador de la vía no detectó ningún defecto.
+A través de las inspecciones y mediciones mencionadas anteriormente, realizadas antes de la aparición de la MU, el operador de la vía no detectó ningún defecto.
 
-Inmediatamente después de la producción del SE, el explotador de la vía, en presencia del inspector de la DI, realizó la medición de los parámetros de la superestructura ferroviaria, incluida la medición de la aguja n.º 2sv. De la evaluación de los valores medidos según la norma técnica ČSN 73 6360-2 y la norma interna del explotador de la vía SŽDC S3 se detectó, entre otros:
+Inmediatamente después de la aparición de la MU, el operador de la vía, en presencia del inspector de DI, realizó una medición de los parámetros de la superestructura ferroviaria, incluida la medición del desvío n.º 2sv.
+
+De la evaluación de los valores medidos según la norma técnica ČSN 73 6360-2 y la norma interna del operador de la vía SŽDC S3 se detectó, entre otras cosas:
+
 •
-la separación de la lengüeta derecha curva (desviada en posición de prioridad) de la aguja n.º 2sv era de 172 mm (rango 150 – 165 mm);
+la separación de la lengüeta curva derecha (desviada en la posición prioritaria) del desvío n.º 2sv era de 172 mm (rango 150 – 165 mm);
 •
-la holgura en el enclavamiento de la lengüeta izquierda era de 3 mm (rango 0,5 – 2,0 mm);
+la holgura en el cierre de la lengüeta izquierda era de 3 mm (rango 0,5 – 2,0 mm);
 •
-la prueba de encaje de la aguja n.º 2sv en el enclavamiento de mordazas izquierdo, con el uso de la galga de prueba de 6 mm, en dos de los tres intentos realizados en total no cumplía – la aguja alcanzó la posición final, el enclavamiento de mordazas encajó y en la señal luminosa Sv2 brillaba la señal «Circulación asegurada», es decir, se produjo la evaluación de la información sobre la posición final de prioridad de la aguja.
+la prueba de encaje del desvío n.º 2sv en el cierre de mordaza izquierdo, utilizando una galga de prueba de 6 mm, no cumplía en dos de los tres intentos realizados en total: el desvío alcanzó la posición final, el cierre de mordaza se enclavó y en el semáforo Sv2 se encendió la señal "Circulación asegurada", es decir, se produjo la evaluación de la información sobre la posición prioritaria final del desvío.
 
-Dado que la circulación del tren Os 28424 en estado descarrilado provocó un daño extenso en la superestructura ferroviaria, concretamente el daño en la barra de sujeción izquierda curva, la base de apoyo con soportes de sujeción, los elementos de fijación en la aguja n.º 2sv, la rotura del talón del riel en la zona de soldadura en la parte central de la aguja, la alteración de los parámetros geométricos del SK n.º 1 y 3 contiguos a la aguja n.º 2sv, el daño en las traviesas y elementos de fijación en los campos de conexión tras la aguja y la alteración de la forma del lecho del carril, las desviaciones anteriores pudieron haberse producido únicamente como consecuencia de la producción del SE, y por tanto no pueden valorarse ni en relación causal ni fuera de relación causal con la producción del SE.
+Dado que, con la circulación del tren Os 28424 en estado descarrilado, se produjo un daño extenso en la superestructura ferroviaria, concretamente el daño en la barra de sujeción curva izquierda, la base con soportes de sujeción, los elementos de fijación en el desvío n.º 2sv, la rotura del talón del carril en la zona de soldadura en la parte central del desvío, la alteración de los parámetros geométricos de las vías SK n.º 1 y 3 contiguas al desvío n.º 2sv, el daño en las traviesas y los elementos de fijación en los campos de conexión detrás del desvío y la alteración de la forma del lecho del carril, las desviaciones mencionadas anteriormente pudieron haberse producido únicamente como consecuencia de la aparición de la MU, y por tanto no pueden considerarse ni en relación causal ni fuera de relación causal con la aparición de la MU.
 
-En la reevaluación del funcionamiento del aparato de cambio automático realizada inmediatamente después de la producción del SE, en la que se midió el tiempo de conmutación, es decir, el tiempo necesario para devolver la parte móvil de la aguja a la posición final de prioridad y la posterior encendida de la señal «Circulación asegurada» en la señal luminosa Sv2, no se detectó ningún defecto en el funcionamiento de la parte móvil de la aguja. Los valores medidos de los tiempos de conmutación correspondían a los valores establecidos por el fabricante del aparato de cambio automático.
+En la comprobación del funcionamiento del aparato de cambio de aguja de retorno automático realizada inmediatamente después de la aparición de la MU, en la que se midió el tiempo de cambio, es decir, el tiempo necesario para devolver la parte móvil del desvío a la posición prioritaria final y la posterior encendida de la señal "Circulación asegurada" en el semáforo Sv2, no se detectó ningún defecto en el funcionamiento de la parte móvil del desvío. Los valores medidos de los tiempos de cambio correspondían a los valores establecidos por el fabricante del aparato de cambio de aguja de retorno automático.
 
-El 29. 3. 2023 la DI, en colaboración con los representantes del fabricante del mecanismo de aguja de cambio automático y los representantes del explotador de la vía, realizó una prueba de verificación en la aguja n.º 2sv en la zona de tráfico
-
+El 29 de marzo de 2023, DI, en colaboración con los representantes del fabricante del mecanismo del desvío de retorno automático y los representantes del operador de la vía, realizó una prueba de verificación en el desvío n.º 2sv en la estación de tráfico
 
 ## Página 27
+
 
 D3 Malšice con el fin de determinar bajo qué condiciones, al realizar la prueba de encaje con la galga de prueba de 6 mm, se produce la evaluación de la posición de prioridad de la aguja, es decir, el encendido de la señal «Circulación asegurada» en la señal de la aguja con aparato de cambio automático. Simultáneamente se midieron los parámetros de las agujas n.º 2sv y 6sv. De la medición se detectó, entre otros:
 •
@@ -945,23 +910,23 @@ En la investigación se detectó el incumplimiento de normas jurídicas y normas
 
 ## Página 28
 
-vías de acuerdo con las condiciones técnicas y los requisitos para esta vía y las condiciones técnicas de su puesta en servicio y su enlace con otras vías."
-En el caso de esta MU concreta, es necesario relacionar los apartados anteriores § 20 apartado 1 y § 23 apartado 1 letra h) de la ley n.º 266/1994 Sb. con el definitorio:
-◦§ 2 apartado 2 de la ley n.º 266/1994 Sb.:
-"La puesta en servicio de la vía es el estado técnico de la vía que garantiza su explotación segura y fluida.";
+ferrocarriles de conformidad con las condiciones técnicas y requisitos de este ferrocarril y las condiciones técnicas de su aptitud para el servicio y de su enlace con otros ferrocarriles."
+En el caso de esta MU concreta, es necesario relacionar los citados § 20 apartado 1 y § 23 apartado 1 letra h) de la ley nº 266/1994 Sb. con el definitorio:
+◦§ 2 apartado 2 de la ley nº 266/1994 Sb.:
+"La aptitud para el servicio de un ferrocarril es el estado técnico del ferrocarril que garantiza su explotación segura y fluida.";
 •
-artículo 38 del anexo n.º 1 de la norma interna de SŽDC (ČD) Z1:
-"La aguja debe encontrarse en la posición terminal, excepto cuando se está accionando, cuando se está realizando su mantenimiento o reconstrucción. La aguja se encuentra correctamente en la posición terminal si:
-a) la lengüeta adyacente se ajusta a uno de los raíles de apoyo y la lengüeta alejada se encuentra a la distancia habitual del segundo raíl de apoyo;
-b) el enclavamiento de la lengüeta de la aguja o el PHS está correctamente cerrado."
-El operador está, entre otras obligaciones, obligado a asegurar que el maquinista conduzca el DV únicamente desde la posición desde la que existe la mejor visibilidad, por lo general desde la cabina frontal del maquinista en el sentido de la marcha, que desde la cabina de mando del DV observe la vía y las señales y actúe de acuerdo con los hechos constatados. El operador está además obligado a asegurar que el maquinista conduzca el tren de tal manera que no se vea comprometida la seguridad del tráfico ferroviario, es decir, se permite al maquinista circular por una aguja con accionador autorretornante en el caso de que en el semáforo no se muestre la señal "Marcha asegurada", hasta después de comprobar su correcta accionamiento.
-El maquinista del tren Os 28424, según su declaración, al entrar en la estación de tráfico D3 Malšice vio que en el semáforo Sv2 se mostraba una luz intermitente que permitía la circulación del tren, es decir, se mostraba la señal "Marcha asegurada".
-La verificación de la visibilidad del semáforo Sv2 en la estación de tráfico D3 Malšice y de sus señales, realizada por el inspector DI inmediatamente después de la ocurrencia de la MU, no detectó ninguna avería. Según § 7 apartado 4 del decreto n.º 173/1995 Sb., la visibilidad requerida de los demás semáforos variables y señales es de al menos 100 m, si la visibilidad no está obstruida por otro vehículo ferroviario, y de al menos 50 m en cualquier caso. El semáforo Sv2 y su señal eran visibles a una distancia superior a 200 m.
-En el momento de la ocurrencia de la MU, la aguja n.º 2sv no estaba equipada con un dispositivo de registro para la transmisión de las indicaciones del accionador autorretornante, es decir, de la información sobre el estado de la posición terminal prioritaria de la aguja n.º 2sv con accionador autorretornante. Por ello, la investigación de la MU no permitió determinar y demostrar qué señal se mostraba en el semáforo Sv2 en el momento en que el tren Os 28424 circulaba por la aguja n.º 2sv. Esto significa que, en el caso de esta MU, cuando, según las pruebas verificables detectadas en la inspección del lugar de la MU inmediatamente después de su ocurrencia, en la punta de la lengüeta izquierda de la aguja tras el impacto de las ruedas del DV y, además, en el borde adyacente de la lengüeta izquierda y en la cara interior del carril de retención izquierdo tras la fricción de las ruedas del DV, la aguja n.º 2sv no estaba en la posición terminal prioritaria, se mostraba realmente en el semáforo Sv2 la señal "Marcha asegurada", y dicho semáforo permitía la circulación del tren sin comprobar el correcto accionamiento de la aguja n.º 2sv.
-Debido a la ausencia de un sistema de diagnóstico de transmisión de las indicaciones del accionador autorretornante, es decir, de la información sobre el estado de la posición terminal prioritaria de la aguja n.º 2sv con accionador autorretornante
-
+artículo 38 del anexo nº 1 de la norma interna de SŽDC (ČD) Z1:
+"La aguja debe estar, salvo en los casos en que se está accionando, en los que se realiza en ella mantenimiento o reconstrucción, accionada en la posición terminal. La aguja está correctamente accionada en la posición terminal cuando:
+a) la lengüeta adyacente se apoya contra uno de los apoyos y la lengüeta alejada se encuentra a la distancia habitual del segundo apoyo;
+b) el cierre de la lengüeta de la aguja o del PHS está correctamente cerrado."
+El operador de transporte está, entre otras obligaciones, obligado a garantizar que el maquinista conduzca la DV únicamente desde el puesto desde el que exista la mejor visibilidad, normalmente desde la cabina delantera del maquinista en el sentido de la marcha, que desde la cabina de mando de la DV observe la vía y las señales y actúe conforme a los hechos constatados. El operador de transporte está asimismo obligado a garantizar que el maquinista conduzca el tren de tal manera que no se vea comprometida la seguridad de la explotación ferroviaria, es decir, se permite al maquinista pasar por una aguja con accionador autorretornable en el caso de que en el semáforo no se encienda la señal "Marcha asegurada", únicamente después de comprobar su correcto accionamiento.
+El maquinista del tren Os 28424, según su declaración, al entrar en la estación de tráfico D3 Malšice vio que en el semáforo Sv2 se encendía una luz intermitente que permitía la marcha del tren, es decir, se encendía la señal "Marcha asegurada".
+De la comprobación de la visibilidad del semáforo Sv2 en la estación de tráfico D3 Malšice y de sus señales realizada por el inspector DI inmediatamente después de la ocurrencia de la MU no se detectó ninguna avería. Según el § 7 apartado 4 del decreto nº 173/1995 Sb., la visibilidad requerida de los demás semáforos variables y señales es de al menos 100 m, salvo que la visibilidad esté obstruida por otro vehículo ferroviario, en todo caso de al menos 50 m. El semáforo Sv2 y su señal eran visibles a una distancia superior a 200 m.
+En el momento de la ocurrencia de la MU, la aguja nº 2sv no estaba equipada con un dispositivo de registro para la transmisión de las indicaciones del accionador autorretornable, es decir, de la información sobre el estado de la posición terminal prioritaria de la aguja nº 2sv con accionador autorretornable. Por ello, mediante la investigación de la MU no fue posible determinar y acreditar qué señal se encendía en el semáforo Sv2 en el momento en que el tren Os 28424 pasaba por la aguja nº 2sv. Esto significa que, en el caso de esta MU, cuando según las trazas acreditables, constatadas en la inspección del lugar de la MU inmediatamente después de su ocurrencia, en la punta de la lengüeta izquierda de la aguja tras el impacto de las ruedas de la DV y, asimismo, en el borde adyacente de la lengüeta izquierda y en la cara interior del resguardo izquierdo por el roce de las ruedas de la DV, la aguja nº 2sv no se encontraba en la posición terminal prioritaria, se encendía realmente en el semáforo Sv2 la señal "Marcha asegurada", y dicho semáforo permitía la marcha del tren sin comprobar el correcto accionamiento de la aguja nº 2sv.
+Debido a la ausencia de un sistema de diagnóstico de transmisión de las indicaciones del accionador autorretornable, es decir, de la información sobre el estado de la posición terminal prioritaria de la aguja nº 2sv con accionador autorretornable,
 
 ## Página 29
+
 
 no fue posible determinar de manera verificable la posible relación causal relativa a las funciones y obligaciones del operador con la ocurrencia de la MU. En la investigación no se detectó, por tanto, infracción de las funciones y obligaciones del operador, ni en relación causal ni fuera de relación causal con la ocurrencia de la MU.
 ### 4.1.2 Entidades responsables del mantenimiento de los vehículos ferroviarios
@@ -977,8 +942,8 @@ En la investigación no se detectó infracción de las funciones y obligaciones 
 ### 4.1.6 Entidades de certificación responsables del mantenimiento de los vehículos ferroviarios
 En la investigación no se detectó infracción de las funciones y obligaciones de las entidades de certificación responsables del mantenimiento de los vehículos ferroviarios.
 
-
 ## Página 30
+
 
 ### 4.1.7 Cualquier otra persona u entidad
 Las funciones y obligaciones de otras personas o entidades no guardaban relación con la ocurrencia de la MU.
@@ -995,50 +960,51 @@ En la investigación no se detectaron factores derivados del mantenimiento y la 
 ### 4.2.5 Factores o consecuencias relacionados con la entidad responsable del mantenimiento de los vehículos ferroviarios, los talleres de mantenimiento y otros proveedores de servicios de mantenimiento
 En la investigación no se detectaron factores relacionados con la entidad responsable del mantenimiento de los vehículos ferroviarios, los talleres de mantenimiento y otros proveedores de servicios de mantenimiento.
 
-
 ## Página 31
 
-4.2.6 Otros factores o consecuencias que se consideren relevantes a efectos de la investigación
-En la investigación no se detectaron otros factores relacionados con los vehículos ferroviarios, la infraestructura ferroviaria o los dispositivos técnicos.
+4.2.6 Otros factores o consecuencias que se consideran relevantes a efectos de la investigación
+En la investigación no se detectaron otros factores relacionados con el material rodante, la infraestructura ferroviaria o las instalaciones técnicas.
 ### 4.3 Factores humanos
 ### 4.3.1 Características humanas e individuales
-Los requisitos aplicables a los empleados del operador de la vía y del operador de transporte, en particular los requisitos de idoneidad profesional y sanitaria, están establecidos por la ley n.º 266/1994 Sb., el decreto n.º 173/1995 Sb., el decreto n.º 101/1995 Sb., el decreto n.º 16/2012 Sb. y las normas internas del operador de la vía y del operador de transporte.
-La Inspección Ferroviaria, en la investigación del factor humano, trató de evaluar todas las influencias que pudieron actuar sobre los empleados implicados y que pudieron tener, en su caso, incidencia en la ocurrencia de esta MU. En el caso del maquinista del tren Os 28424 se trató, en particular, de evaluar su experiencia, conocimientos y antigüedad. Trabajó como maquinista de forma ininterrumpida desde 1991 hasta la ocurrencia de la MU. Circuló regularmente por la línea Tábor – Bechyně desde 1994. El maquinista tenía, por tanto, una antigüedad suficientemente larga y, según la documentación del operador ČD, estaba demostradamente familiarizado con las condiciones de la línea.
-La Inspección Ferroviaria determinó en la investigación que el maquinista estaba cualificado profesionalmente para el trabajo como maquinista y que su antigüedad, experiencia y conocimientos no tuvieron incidencia en la ocurrencia de esta MU.
-El empleado implicado del operador ČD, maquinista del tren Os 28424, se sometía a reconocimientos médicos periódicos de conformidad con lo dispuesto en el decreto n.º 101/1995 Sb. y, sobre la base del informe médico presentado sobre su idoneidad sanitaria para el trabajo, en el momento de la ocurrencia de la MU estaba sanitariamente apto para el desempeño de su función.
-En la investigación no se detectaron factores relacionados con la formación profesional de los empleados, el estado de salud y la situación personal, incluido el estrés físico y psicológico.
+Los requisitos aplicables al personal del gestor de la infraestructura y al transportista, en particular los requisitos de idoneidad técnica y sanitaria, están establecidos por la Ley n.º 266/1994 Sb., por el decreto n.º 173/1995 Sb., por el decreto n.º 101/1995 Sb., por el decreto n.º 16/2012 Sb. y por las normas internas del gestor de la infraestructura y del transportista.
+La Inspección Ferroviaria, en su investigación del factor humano, trató de evaluar todas las influencias que pudieran haber actuado sobre el personal implicado y que pudieran haber tenido, en su caso, incidencia en la producción de este SFE.
+En el caso del maquinista del tren Os 28424, se evaluaron principalmente su experiencia, conocimientos y antigüedad en el puesto. Trabajó como maquinista de forma ininterrumpida desde 1991 hasta la producción del SFE. Circuló habitualmente por la línea Tábor – Bechyně desde 1994. El maquinista contaba, por tanto, con una antigüedad suficientemente larga y, según la documentación del transportista ČD, estaba acreditadamente familiarizado con las condiciones de la línea.
+La Inspección Ferroviaria determinó, mediante la investigación, que el maquinista estaba cualificado para el desempeño de la función de maquinista y que su antigüedad, experiencia y conocimientos no tuvieron incidencia en la producción de este SFE.
+El personal implicado del transportista ČD, maquinista del tren Os 28424, se sometía a reconocimientos médicos periódicos de conformidad con lo dispuesto en el decreto n.º 101/1995 Sb. y, con base en el informe médico presentado sobre su idoneidad sanitaria para el trabajo, en el momento de la producción del SFE estaba sanitariamente apto para el desempeño de su función.
+En la investigación no se detectaron factores relacionados con la formación del personal, el estado de salud y la situación personal, incluido el estrés físico y psicológico.
 ### 4.3.2 Factores laborales
-El maquinista del tren Os 28424 comenzó su turno el 22. 2. 2023 a las 12:00 h en la est. Tábor, tras un descanso entre turnos consecutivos de 14 h 20 min. El tiempo adecuado para comer y descansar durante el turno lo disfrutó antes de la ocurrencia de la MU, en el periodo comprendido entre las 16:53 h y las 17:38 h. El final previsto del turno del 22. 2. 2023 era a las 20:09 h.
-En la investigación no se detectaron factores relacionados con el contenido del trabajo o la jornada laboral de los empleados. En la investigación no se constató en los empleados implicados el incumplimiento de las condiciones de descanso antes del turno y de los descansos, respectivamente, del tiempo adecuado para descansar y comer durante el turno.
+El maquinista del tren Os 28424 inició su turno el 22. 2. 2023 a las 12:00 h en la estación de Tábor, tras un descanso entre turnos consecutivos de 14 h 20 min. Disfrutó del tiempo adecuado para comer y descansar durante el turno antes de la producción del SFE, en el intervalo comprendido entre las 16:53 h y las 17:38 h. El final previsto del turno del 22. 2. 2023 era a las 20:09 h.
+En la investigación no se detectaron factores relacionados con el contenido del trabajo o la jornada laboral del personal. En la investigación no se constató, en el personal implicado, el incumplimiento de las condiciones de descanso antes del turno ni de los descansos, respectivamente, del tiempo adecuado para descansar y comer durante el turno.
 ### 4.3.3 Factores organizativos y tareas
-El operador ČD cuenta con un sistema de control de la seguridad de la explotación del transporte ferroviario. La actividad de control se realiza de acuerdo con un plan de actividad de control elaborado. En el marco de la actividad de control realizada, el operador ČD aportó registros de los controles realizados al maquinista del tren Os 28424 en el año natural 2022, concretamente en los meses de marzo y agosto, con enfoque en el desempeño directo del servicio. En ambos controles se detectaron deficiencias
+El transportista ČD cuenta con un sistema de control de la seguridad de la explotación del transporte ferroviario. La actividad de control se realiza conforme al plan de actividad de control elaborado. En el marco de la actividad de control realizada, el transportista ČD aportó registros de los controles efectuados al maquinista del tren Os 28424 en el año natural 2022, concretamente en los meses de marzo y agosto, con enfoque en el desempeño directo del servicio. En ambos controles se detectaron deficiencias
 
 ## Página 32
 
-(no suscripción de la recepción del material rodante en el Libro de entrega y no firma del Informe de frenado), para los cuales el gestor adoptó medidas correctivas. En 2023, el maquinista fue inspeccionado en el mes de enero con un enfoque en el desempeño directo del servicio. El gestor evaluó la inspección realizada como desempeño del servicio sin defectos.
+(no suscripción de la recepción de HDV en el Libro de entrega y no firma del Informe de frenado), para los cuales el transportista adoptó medidas correctivas. En 2023, el maquinista fue controlado en el mes de enero con enfoque en el desempeño directo del servicio. El transportista evaluó el control realizado como desempeño del servicio sin defectos.
 ### 4.3.4 Factores relacionados con el entorno laboral
 En la investigación no se detectaron factores relacionados con el entorno laboral.
 ### 4.3.5 Otro factor significativo a efectos de la investigación
 En la investigación no se detectaron otros factores relacionados con la actuación de las personas implicadas.
 ### 4.4 Mecanismos de retroalimentación y mecanismos de control, incluida la gestión de riesgos
-y el aseguramiento de la seguridad, y procedimientos de seguimiento
+y el aseguramiento de la seguridad, y los procedimientos de seguimiento
 ### 4.4.1 Condiciones pertinentes del marco regulatorio
-Las condiciones pertinentes del marco regulatorio están establecidas en los Reglamentos de la Unión Europea, en la ley n.º 266/1994 Sb. y en los decretos de aplicación.
+Las condiciones pertinentes del marco regulatorio están establecidas en los Reglamentos de la Unión Europea, en la ley núm. 266/1994 Sb. y en los decretos de aplicación.
 4.4.2 Procedimientos, métodos, contenido y resultados de las actividades de evaluación de riesgos y seguimiento que
 realiza cualquiera de los sujetos implicados
-En los procedimientos, métodos, contenido y resultados de las actividades de evaluación de riesgos y seguimiento, relacionados con las circunstancias del origen de la MIE en cuestión, no se detectaron deficiencias.
-### 4.4.3 Sistema de aseguramiento de la seguridad de los gestores y operadores ferroviarios implicados
-En el sistema de seguridad del gestor de la infraestructura y en el sistema de aseguramiento de la seguridad del transporte ferroviario del gestor de la explotación, relacionados con las circunstancias del origen de la MIE en cuestión, no se detectaron deficiencias.
+En los procedimientos, métodos, contenido y resultados de las actividades de evaluación de riesgos y seguimiento, relacionados con las circunstancias del origen de la MU en cuestión, no se detectaron deficiencias.
+### 4.4.3 Sistema de aseguramiento de la seguridad de los transportistas y gestores de infraestructura implicados
+En el sistema de seguridad del gestor de infraestructura y en el sistema de aseguramiento de la seguridad del transporte ferroviario del transportista, relacionados con las circunstancias del origen de la MU en cuestión, no se detectaron deficiencias.
 ### 4.4.4 Sistema de gestión de los sujetos responsables del mantenimiento de los vehículos ferroviarios
 y de los talleres de mantenimiento
-El sistema de gestión de los sujetos responsables del mantenimiento de los vehículos ferroviarios y de los talleres de mantenimiento no guardaba relación con el origen de la MIE.
+El sistema de gestión de los sujetos responsables del mantenimiento de los vehículos ferroviarios y de los talleres de mantenimiento no guardaba relación con el origen de la MU.
 ### 4.4.5 Resultados de la supervisión realizada por las autoridades nacionales de seguridad
-Atendiendo a los factores detectados y a las circunstancias del origen de la MIE, la supervisión de la autoridad de seguridad no guarda relación con la MIE en cuestión.
-### 4.4.6 Aprobaciones, certificados y informes de evaluación concedidos por la Agencia, por las autoridades nacionales de seguridad u otros sujetos de evaluación de la conformidad
-El gestor de la infraestructura explotó la infraestructura en virtud de una autorización administrativa vigente y de un certificado de seguridad del gestor de la infraestructura. El gestor de la explotación explotó el transporte ferroviario en virtud de una licencia vigente y de un certificado del gestor de la explotación.
-
+Atendiendo a los factores y circunstancias detectados del origen de la MU, la supervisión de la autoridad de seguridad no guarda relación con la MU en cuestión.
+### 4.4.6 Aprobaciones, certificados e informes de evaluación concedidos por la agencia, las autoridades nacionales
+de seguridad u otros sujetos de evaluación de la conformidad
+El gestor de infraestructura explotó la infraestructura con base en la autorización administrativa vigente y el certificado de seguridad del gestor de infraestructura. El transportista explotó el transporte ferroviario con base en la licencia vigente y el certificado del transportista.
 
 ## Página 33
+
 
 ### 4.4.7 Otros factores sistémicos
 En la investigación no se detectaron otros factores sistémicos.
@@ -1072,8 +1038,8 @@ Debido a la ausencia de un sistema de diagnóstico de transmisión de indicacion
 La DI no detectó ningún factor contribuyente.
 La DI no detectó ninguna causa sistémica.
 
-
 ## Página 34
+
 
 ### A summary of the analysis and conclusions with regard to the causes of the
 occurrence
@@ -1114,8 +1080,8 @@ No se detectó nada en el gestor de la infraestructura SŽ ni en el gestor de la
 ### Additional observations
 At the infrastructure manager SŽ and the railway undertaking ČD were not detected.
 
-
 ## Página 35
+
 
 ### 6 RECOMENDACIONES DE SEGURIDAD
 Atendiendo a las causas y circunstancias detectadas del origen del suceso extraordinario, la Inspección Ferroviaria no emite recomendaciones de seguridad, porque no se detectaron datos que justificasen la emisión de una recomendación de seguridad en el marco de la prevención del origen de sucesos extraordinarios.

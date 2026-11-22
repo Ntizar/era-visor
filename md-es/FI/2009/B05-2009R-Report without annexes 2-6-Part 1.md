@@ -10,13 +10,14 @@ chars: 114268
 ratio_longitud: 1.15
 tokens_in: 48910
 tokens_out: 33667
-verificacion: revisar
-notas_cifras: ["bloque 1: original bilingüe: se compara contra el idioma principal (FI)", "bloque 2: original bilingüe: se compara contra el idioma principal (SV)", "bloque 4: cifras cortas: 4/23", "bloque 5: cifras cortas: 3/13", "bloque 8: original bilingüe: se compara contra el idioma principal (EN)", "bloque 9: cifras cortas: 3/103"]
-avisos: ["bloque 2: ratio 2.03"]
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 2: original bilingüe: se compara contra el idioma principal (NL)", "página 7: original bilingüe: se compara contra el idioma principal (EN)", "página 9: original bilingüe: se compara contra el idioma principal (SV); cifras cortas: 1/13", "página 10: cifras cortas: 2/7", "página 11: cifras cortas: 1/7", "página 12: cifras cortas: 2/4"]
 ---
+
 ## Página 1
+
 
 Informe de investigación
 B5/2009R
@@ -25,8 +26,8 @@ Descarrilamiento de diez vagones de un tren de mercancías en Toijala
 Este informe de investigación se ha elaborado para mejorar la seguridad y prevenir nuevos accidentes.
 Aquí no se aborda la responsabilidad o la obligación de indemnización que pudieran derivarse del accidente. Debe evitarse el uso del informe de investigación para fines distintos de la mejora de la seguridad.
 
-
 ## Página 2
+
 
 ### Centro de investigación de accidentes
 ### Centralen för undersökning av olyckor
@@ -86,8 +87,8 @@ ISBN 978-951-836-307-4
 ISSN 1239-5315
 Multiprint Oy, Vantaa 2011
 
-
 ## Página 3
+
 
 ## RESUMEN
 Diez vagones de un tren de mercancías que viajaba de Turku a Tampere descarrilaron en Toijala el 16.6.2009 a las 20.51. Cinco vagones volcaron. Los vagones descarrilados eran los vagones 17.º–26.º del tren de 30 vagones. La velocidad del tren en el momento del descarrilamiento de los vagones era de 70 km/h. En el accidente se dañaron instalaciones de seguridad, la vía y equipos de vía eléctrica. Las comunicaciones de seguridad y de señalización se interrumpieron en el área de Toijala y de las estaciones de tráfico más próximas.
@@ -105,6 +106,7 @@ I
 
 ## Página 4
 
+
 - 
 Para la gestión de situaciones de emergencia deberían definirse las formas de cooperación, así como la distribución de tareas y responsabilidades, tanto a nivel nacional como local.
 ## RESUMEN
@@ -121,8 +123,8 @@ El ajuste de los auxiliares de cambio y de los contactos de control de la lengua
 La liberación del bloqueo mecánico de la aguja y las interferencias en el control de la posición de la aguja deberían investigarse en condiciones normales.
 II
 
-
 ## Página 5
+
 
 - 
 Debería establecerse una documentación exhaustiva sobre la instalación, el control y el mantenimiento de la aguja y sus componentes.
@@ -143,6 +145,7 @@ III
 
 ## Página 6
 
+
 habían sido ajustadas excéntricamente, y que los contactores de aguja en el dispositivo de enclavamiento permitían que la aguja cerrada se moviera por encima del valor de referencia. La Comisión de Investigación considera probable que, como resultado combinado de la geometría vial, los ajustes de la aguja, las propiedades oscilatorias de la aguja y el material rodante que circula a través del desvío, el enclavamiento de la aguja se desbloqueara al pasar el tren por encima del mismo.
 Para evitar accidentes similares en el futuro, la Comisión de Investigación de Accidentes recomienda lo siguiente:
 - Los ajustes de los dispositivos de enclavamiento y de los contactores de aguja situados junto a ellos deberían inspeccionarse regularmente y ajustarse de acuerdo con los valores de referencia.
@@ -153,8 +156,8 @@ Para mejorar la preparación ante accidentes y otras situaciones excepcionales, 
 - Para afrontar eficazmente las situaciones excepcionales, las formas de cooperación y la distribución de deberes y responsabilidades deberían definirse claramente tanto a nivel nacional como local.
 IV
 
-
 ## Página 7
+
 
 ## YHTEENVETOTAULUKKO – SAMMANFATTNING – DATA SUMMARY
 ### Aika:
@@ -249,8 +252,8 @@ Signal- och telekabel skadades.
 A safety device and communications cable was damaged.
 V
 
-
 ## Página 8
+
 
 ## ALKUSANAT
 El Centro de Investigación de Accidentes constituyó, de conformidad con el artículo 5 de la ley sobre investigación de accidentes (373/1985), el 22.6.2009 una comisión de investigación para investigar el accidente ocurrido en Toijala el 16.6.2009. El investigador principal Esko Värttiö fue nombrado presidente de la comisión de investigación y como miembros el jefe de área de JAKK Timo Kivelä, el doctor en psicología Mika Hatakka y el investigador Reijo Sarantila. El experto en seguridad Matti Katajala fue convocado como experto permanente de la comisión el 26.6.2009.
@@ -264,6 +267,7 @@ VI
 
 ## Página 9
 
+
 Este informe de investigación ha estado en consulta en el Ministerio de Transportes y Comunicaciones, la Agencia de Seguridad del Transporte¹, la Agencia de Transporte, VR-Yhtymä Oy, el departamento de rescate del Ministerio del Interior y el Centro de Emergencias. Las opiniones se encuentran en el anexo 1 del informe de investigación. Asimismo, las partes interesadas han podido comentar el informe de investigación. Sobre la base de las opiniones y los comentarios, se han realizado modificaciones y adiciones en el informe.
 Al final de este informe de investigación se incluye una lista del material de investigación. El material de origen se conserva en el Centro de Investigación de Accidentes.
 Este informe de investigación se encuentra también en las páginas web del Centro de Investigación de Accidentes en la dirección www.onnettomuustutkinta.fi.
@@ -275,8 +279,8 @@ La investigación en el lugar se llevó a cabo en dos partes. El investigador pr
 ¹ En la administración del transporte del Ministerio de Transportes y Comunicaciones se crearon el 1.1.2010 dos nuevas agencias, la Agencia de Seguridad del Transporte (Trafi) y la Agencia de Transporte (LiVi). La Agencia Ferroviaria (RVI) se integró en la misma operación en Trafi y el Centro de Administración de la Vía (RHK) en LiVi. En el informe se utilizan las organizaciones y los nombres vigentes en el momento del accidente.
 VII
 
-
 ## Página 10
+
 
 investigación recorrieron los vagones y sus piezas, así como la aguja de descarrilamiento V004, que se había desprendido de la vía y yacía junto al lugar del accidente el 23.6.2009.
 La aguja de descarrilamiento V004 se examinó sobre la base de la documentación de mantenimiento, mediante inspección visual, exámenes mecánicos, mediciones, comprobando el funcionamiento del mecanismo de aguja y realizando exámenes de vibración. Además, se examinó el funcionamiento de la aguja en una situación real grabando en vídeo agujas idénticas cuando un tren pasaba a través de ellas.
@@ -293,6 +297,7 @@ VIII
 
 ## Página 11
 
+
 ## INTRODUCCIÓN
 En virtud de la Sección 5 de la Ley de Investigación de Accidentes (373/1985), la Junta de Investigación de Accidentes nombró el 22 de junio de 2009 una Comisión de Investigación para investigar el accidente ocurrido en Toijala el 16 de junio de 2009. El Jefe de Investigación de Accidentes Esko Värttiö fue nombrado Investigador responsable, y el Gerente Regional de JAKK Timo Kivelä, el Doctor en Psicología Mika Hatakka y el Investigador de Accidentes Reijo Sarantila miembros de la comisión. El 26 de junio de 2009, el Asesor de Seguridad Matti Katajala fue invitado a convertirse en experto permanente de la comisión.
 
@@ -307,8 +312,8 @@ Los dispositivos de seguridad y su funcionamiento se investigaron con la ayuda d
 Además de la inspección en el lugar, los vagones fueron inspeccionados visualmente con más detalle, y se realizaron mediciones en el taller de máquinas. Dos vagones descarrilados fueron reensamblados y se probaron sus propiedades de rodadura.
 IX
 
-
 ## Página 12
+
 
 La gestión de las operaciones de tren en circunstancias excepcionales y las actividades de seguimiento posterior se investigaron mediante grabaciones, memorandos de negociaciones y reuniones de seguimiento, boletines, audiencias y entrevistas.
 
@@ -327,6 +332,7 @@ El 1 de enero de 2010, se establecieron dos nuevas unidades en la rama administr
 X
 
 ## Página 13
+
 
 ## ÍNDICE 
 RESUMEN...................................................................................................................................I 
@@ -362,6 +368,7 @@ INTRODUCCIÓN ..................................................................
 XI
 
 ## Página 14
+
 
 2.3.1 Desvío V004........................................................................................................... 29 
 2.4 Aparatos de seguridad............................................................................................. 30 
@@ -404,6 +411,7 @@ XII
 
 ## Página 15
 
+
 3.1.8 Relaciones de mando de la situación del accidente y flujo de información entre los distintos operadores ...............76 
 3.1.9 Gestión del tráfico ferroviario en situación excepcional................................................................76 
 3.1.10 Trabajo de despeje y mantenimiento de la vía, vía eléctrica, dispositivos de seguridad y enlaces de telecomunicaciones y de información y comunicación ...........................................................................79 
@@ -436,11 +444,12 @@ Anexo 5. Informe de investigación de la Universidad Aalto 8.12.2010.
 Anexo 6. Enclavamiento R102 y R202, Instrucción de ajuste, anexos 1 y 2. 
 XIII
 
-
 ## Página 16
 
 
+
 ## Página 17
+
 
 ## 1 
 ## ACCIDENTE 
@@ -475,6 +484,7 @@ V004.
 
 ## Página 18
 
+
 ## 1.2 
 ### Desarrollo de los hechos 
 El tren de mercancías 3513 partió de Turku con destino a la estación de clasificación de mercancías de Tampere el martes 16.6.2009 a las 18.47.38 y, tras el cruce de trenes, continuó desde Kyrö a las 19.30.36. 
@@ -487,10 +497,10 @@ En el archivo de eventos del aparato de enclavamiento figura una indicación de 
 El desvío de seguridad V004 se desvió para conducir a la vía de seguridad bajo el vagón de mercancías ruso que era el 18.º del tren de mercancías 3513. El desvío se giró entre el bogie delantero y el trasero del vagón. En ese momento, el bogie delantero del vagón continuó en la dirección de marcha original y el bogie trasero del vagón se dirigió hacia cualquiera de las dos vías, cayendo finalmente entre los raíles de guarda y los agujas. El vagón 19 del tren y los vagones que le siguieron se dirigieron a la vía de seguridad izquierda. Los vagones que se dirigieron hacia la vía de seguridad izquierda y la parte trasera del vagón que cayó de los raíles arrastraron también el bogie delantero del vagón fuera de los raíles. 
 
 Al permanecer acoplado el enganche entre los vagones 17 y 18, el vagón 18 continuó con la parte delantera del tren. Dado que la parte delantera del tren avanzó en línea recta y la parte trasera del tren se dirigió a la vía de seguridad, el acoplamiento entre los vagones 18 y 19 se soltó y el tren se partió. El vagón 18 circuló descarrilado con la parte delantera del tren hasta su punto de detención, a unos 350 metros del desvío de seguridad. Los vagones 17 y 18 estaban llenos de bidones de petróleo completos con destino desde Naantali a Rusia. 
-⁵ La reserva de paso de velocidad excesiva es la sección o secciones de vía situadas detrás de la señal que finaliza la ruta asegurada del tren, que están bloqueadas y vigiladas para liberarse bajo las condiciones de la ruta asegurada. 
-
+⁵ La reserva de paso de velocidad excesiva es la sección o secciones de vía situadas detrás de la señal que finaliza la ruta asegurada del tren, que están bloqueadas y vigiladas para liberarse bajo las condiciones de la ruta asegurada.
 
 ## Página 19
+
 
 Figura 3. Parte de los vagones se dirigió a la vía de seguridad en el desvío V004. A la derecha de la imagen se ve el vagón 25 del tren. 
 Bild 3. 
@@ -505,10 +515,10 @@ ja. (Kuva RHK)
 Bild 4. 
 Godstågets främre del, vagnarna 17 och 18 som välte samt vagnar som blev kvar på spåret.  
 Figure 4. The overturned 17th and 18th wagons of the freight train. Some wagons that remained on the 
-track are also visible. (Photo: RHK) 
-
+track are also visible. (Photo: RHK)
 
 ## Página 20
+
 
 Los vagones 19–22 habían pasado en el desvío V004 a la vía de seguridad y, a continuación, a través del tope de raíl de la vía de seguridad de cara al terraplén, destruyendo al mismo tiempo el armario de aparatos de seguridad K266. Los vagones se habían detenido formando un montón. Los vagones 23 y 24 se habían incrustado violentamente detrás de ellos y se habían detenido descarrilados y gravemente dañados. Además, el bogie delantero del vagón 25 había caído de los raíles. 
 Kuva 5. Turvaraiteen raidepuskimen läpi menneet vaunut. (Kuva Eltel) 
@@ -524,6 +534,7 @@ Según lo indicado por el regulador de zona, después llamó con el teléfono fi
 
 ## Página 21
 
+
 Tras un rato, el maquinista llamó de vuelta y comunicó que al menos un vagón había descarrilado. Cuando el maquinista se acercó al lugar del accidente, la situación empezó a aclararse.
 El regulador de zona llamó al centro de emergencias y comunicó que, al menos entre el personal de VR, no había habido víctimas. Comprobó en la lista de vagones que el tren llevaba vagones VAK. Se lo comunicó a la operadora del centro de emergencias y añadió que los vagones VAK no estaban entre los vagones volcados. El centro de emergencias envió unidades al lugar principalmente por motivos de orden público. El regulador de zona intentó obtener más información de un testigo, pero ya no pudo localizarlo.
 La operadora del centro de emergencias clasificó el accidente como accidente ferroviario, de gravedad media, y a las 21.16.35 acordó con el capitán de bomberos de guardia ETELÄ P3 que primero se alertara a la unidad V11 de Valkeakoski. A las 21.18.26 la operadora del centro de emergencias alertó a la unidad V11 como urgente. A las 21.21.00 alertó a las unidades KK21, KK27 y TO11, y al capitán de bomberos de guardia ETELÄ P3. La primera en llegar al lugar fue V11 a las 21.32.34. Todas las unidades alertadas acudieron al lugar.
@@ -536,8 +547,8 @@ En esta fase, la dirección del tráfico ya contaba con los primeros datos de lo
 6 JUHA = Sistema de notificación de incidencias del tráfico ferroviario de VR.
 7 TAIKA = Sistema de mando a distancia de Tampere.
 
-
 ## Página 22
+
 
 El jefe de servicio de dirección de Tampere recibió la información del accidente de su superior, el jefe del centro de servicio de dirección, que se desplazó al lugar del accidente como persona de contacto y pidió al jefe de servicio de dirección que acudiera al centro de dirección. El jefe del centro de dirección se encontraba en el lugar de los hechos junto al jefe de zona de Oy VR-Rata Ab hacia las 23. Durante la noche llegaron al centro de dirección de Tampere una persona de VR Cargo y una de VR Transporte de Pasajeros.
 En el lugar de los hechos, el jefe de proyecto de mantenimiento designó a una persona encargada de gestionar las reservas de vía, que tenía contacto con la dirección del tráfico de Tampere.
@@ -551,6 +562,7 @@ El director de tráfico de Tampere–Riihimäki que entró en el turno de mañan
 
 ## Página 23
 
+
 entre el encargado de la circulación de la línea Hämeenlinna–Riihimäki y el encargado de la circulación de la línea Turku–Toijala existían problemas en la transmisión de información entre ambos.
 Poco antes de las ocho se logró hacer circular el tráfico de modo que un tren por hora pasaba por el lugar del accidente. El tráfico transcurrió de esta manera a excepción de pequeñas interrupciones causadas por labores de despeje y trabajos eléctricos.
 ### Dirección del conjunto del tráfico
@@ -560,8 +572,8 @@ En la práctica, la dirección de la circulación de Tampere tuvo que asumir en 
 ### Toijala
 Para ilustrar la situación de los trenes, la comisión elaboró imágenes de la situación de los trenes a intervalos de una hora en el período de 21 a 6 en los tramos Riihimäki–Tampere y Turku–Toijala. En las figuras 6–9 se presentan cuatro ejemplos de la evolución de la situación de los trenes. En las figuras, los números de tren 1922–1926 son locomotoras diésel utilizadas como locomotoras de asistencia para la maniobra de trenes. La letra D después del número de tren indica locomotora diésel.
 
-
 ## Página 24
+
 
 Figura 6. Situación de los trenes a las 21, inmediatamente después del accidente. Los números de los trenes con dirección norte van sobre fondo amarillo y los números de los trenes con dirección sur van sobre fondo marrón claro.
 Bild 6.
@@ -572,8 +584,8 @@ Bild 7.
 Tågsituationen klockan 23.
 Figure 7. Train operations at 11pm.
 
-
 ## Página 25
+
 
 Figura 8. Situación de los trenes a las 3.
 Bild 8.
@@ -584,8 +596,8 @@ Bild 9.
 Tågsituationen klockan 6.
 Figure 9. Train operations at 6am.
 
-
 ## Página 26
+
 
 La figura 6 muestra la situación inmediatamente después del accidente a las 21.00. De la figura se puede observar que desde la dirección de Riihimäki se aproximaban hacia Toijala 2 trenes de pasajeros y 2 trenes de mercancías. Desde la dirección de Turku se aproximaba 1 tren de pasajeros y 1 acababa de salir de Turku. El tren del accidente 3513 estaba en Toijala. Desde Tampere se aproximaban hacia Toijala 2 trenes de mercancías.
 En la figura 7 se presenta la situación de los trenes a las 23.00. En ese momento se aproximaban desde el sur hacia Toijala un total de 8 trenes y desde el norte 2 trenes. El tren del accidente seguía en Toijala. A partir de este momento no se produjeron grandes cambios en el número de trenes, pero el tráfico se había concentrado durante la noche hacia el norte y en la madrugada hacia el sur. En la figura 8 se presenta la situación de los trenes a las 3.00. En ese momento circulaban en dirección sur 6 trenes en el tramo Tampere–Toijala.
@@ -598,6 +610,7 @@ El tráfico con asistencia diésel por el lugar del accidente comenzó el 17.6 a
 El miércoles 17.6 se detectaron problemas en el acoplamiento de las locomotoras de asistencia de los trenes Pendolino, lo que causó un retraso considerable. Las locomotoras de asistencia no pudieron acoplarse sino a la fuerza, y algunas solo quedaron parcialmente acopladas. Se trasladaron cuatro Pendolino, de los cuales dos acoplados entre sí. Debido a los problemas de acoplamiento de las locomotoras de asistencia, el traslado de los Pendolino al lugar del acci-
 
 ## Página 27
+
 
 se redujo el número de trenes que pasaron por el lugar del accidente ese día. No se ha podido determinar el número exacto de Pendolino.
 
@@ -617,8 +630,8 @@ Los trenes de mercancías que no fueron cancelados o que no se logró realizar s
 
 En total, debido al daño de Toijala, se cancelaron en Finlandia, según VR, 134 trenes de pasajeros y más de 100 trenes de mercancías.
 
-
 ## Página 28
+
 
 ## 1.2.3 
 ### Comunicación de situaciones excepcionales
@@ -644,6 +657,7 @@ VR informó de la situación en internet con dos comunicados el 16.6., cinco com
 
 ## Página 29
 
+
 debidos a retrasos. Además, se informó de que los trenes entre Tampere y Turku se sustituyen por autobuses. También aquí se repitió el primer comunicado, pero se omitió la estimación de la duración de la reparación de la vía que figuraba en los dos primeros comunicados.
 ### En el segundo comunicado del miércoles «El accidente sigue dificultando el tráfico de la línea principal» se indicó que el accidente afecta a casi todos los trenes de larga distancia de Finlandia el miércoles y se describió el servicio alternativo. En el comunicado también se indicó que los trabajos de despeje del lugar del accidente continúan durante la mañana y que información adicional sobre los cambios en el tráfico ferroviario puede obtenerse en la página web de VR, en las estaciones, en el teletexto y en el servicio telefónico de VR.
 ### En el tercer comunicado emitido el miércoles «El accidente también afecta al tráfico del jueves» se indicó, entre otras cosas, que el accidente afecta a casi todos los trenes de larga distancia de Finlandia durante más tiempo del previsto. Los trabajos de despeje del lugar del accidente continúan durante todo el miércoles y probablemente también durante el jueves. Los trabajos de reparación de la vía eléctrica y de los aparatos de enclavamiento pueden ralentizar el tráfico de regreso de la Noche de San Juan. En el comunicado se volvió a reproducir el primer comunicado sobre el suceso sin la estimación temporal de la rehabilitación de la vía.
@@ -652,8 +666,8 @@ debidos a retrasos. Además, se informó de que los trenes entre Tampere y Turku
 ### En el sexto comunicado del miércoles publicado a las 21.26 «Excepciones en el tráfico ferroviario también el jueves» se indicó qué trenes diurnos que circulan desde Helsinki vía Tampere hacia el norte y desde el norte vía Tampere hacia Helsinki se circulan fuera del lugar del daño antes del atardecer del jueves. Además, se indicó que los trenes nocturnos desde Helsinki y desde el puerto de Turku hacia el norte y desde el norte hacia Helsinki y Turku circulan con normalidad durante la noche entre el miércoles y el jueves, pero que se prevén retrasos y cambios en el material rodante.
 En el comunicado del jueves 18.6 «El tráfico ferroviario vuelve a la normalidad a las 20:00» se indica que el descarrilamiento de vagones de carga en Toijala provoca disposiciones excepcionales en el tráfico ferroviario hasta el atardecer del jueves y que a partir de las 20.00 los trenes salen según el horario normal. En el comunicado se enumeraron los trenes que pasan por el lugar del daño el jueves por la tarde, antes del inicio del servicio normal.
 
-
 ## Página 30
+
 
 ### 21.6. VR informó: «El tráfico de regreso de la Noche de San Juan según el horario normal». En el comunicado se indicó, entre otras cosas: «Entre Toijala y Turku siguen existiendo transportes sustitutivos. Los trabajos de despeje del lugar del accidente han avanzado. El despeje continúa la próxima semana. En Toijala solo hay en uso un carril, lo que puede provocar retrasos de 5–10 minutos. Los trenes vuelven a circular también entre Tampere y Turku, pero los trenes de Turku no se detienen en Toijala. Los trenes que circulan entre Helsinki y Tampere también se detienen en Toijala. Para los viajeros de Toijala a Humppila, Loimaa o Turku existe conexión en taxi o autobús. El transporte sustitutivo sale de Toijala a la hora de salida del tren de Turku. Los viajeros de Turku, Loimaa y Humppila a Toijala son transportados en taxi o autobús de Humppila a Toijala.»
 26.6. VR informó: «Los trenes que circulan entre Tampere y Turku vuelven a detenerse en Toijala. Los transportes de autobús sustitutivos entre Toijala y Turku, debidos al accidente de tren de mercancías de la semana pasada, finalizan el fin de semana. A partir del domingo, los trenes que circulan entre Tampere y Turku vuelven a detenerse en Toijala. Las vías de parada de los trenes en Toijala siguen siendo distintas de lo normal. Se solicita a los pasajeros que sigan los anuncios de la estación y los paneles informativos. El Centro de Gestión de la Vía finalizará todavía durante dos semanas las obras de reparación de la playa de vías de Toijala. De ellas pueden derivarse pequeños retrasos en el tráfico entre Helsinki y Tampere, así como cambios de vía en la estación de Toijala. El descarrilamiento de un tren de mercancías en Toijala el 16 de junio provocó disposiciones excepcionales y sustituciones por autobús durante más de una semana en el tráfico entre Tampere y Turku. Los trenes no pudieron detenerse en Toijala porque en la estación solo había en uso un andén para pasajeros. Este se reservó para las paradas de los trenes que circulan entre Tampere y Helsinki.»
@@ -666,6 +680,7 @@ A continuación, el jefe de despeje aclaró con las personas mencionadas anterio
 
 ## Página 31
 
+
 Había vagones descarrilados en dos lugares. En la vía de seguridad y en su extremo había siete vagones descarrilados (en adelante, "primer lugar"). A unos 350 metros al norte de la aguja V004 había todavía dos vagones volcados (en adelante, "segundo lugar").
 El grupo de limpieza comenzó a realizar trabajos preparatorios mientras esperaba el permiso de limpieza del representante del Centro de Investigación de Accidentes. Desmontaron la valla de protección de la playa de vías junto a los vagones volcados del segundo lugar y planificaron desde dónde las grúas podrían levantar los vagones volcados. Desde el lado oeste de la playa de vías se preparó, a través del paso para tráfico ligero, un camino al segundo lugar hasta los dos vagones de mercancías volcados que contenían bidones de aceite. Allí se necesitó una carga de balasto para cubrir el zanja, de modo que se pudiera llevar el gato hidráulico al lugar. Se desmontaron los cables de retorno de corriente de la vía eléctrica desde el segundo lugar para que la grúa pesada pudiera trabajar. Los vagones habían caído al lado de la vía, por lo que pudieron vaciarse y levantarse sin cortar los cables de tracción.
 El miércoles por la mañana, 17.6, se comenzó a vaciar los bidones de aceite de los vagones volcados del segundo lugar con la grúa del camión. Los hombres hacían rodar los bidones con las manos hasta la abertura de la puerta, desde donde se extraían uno a uno. Los vagones estaban de lado, por lo que las aberturas de sus puertas quedaban hacia arriba. Debido al riesgo de derrumbe de las pilas de bidones, el trabajo era lento y peligroso. El trabajo se terminó antes de las 14:00 del miércoles, después de lo cual se pudo iniciar el levantamiento de los vagones. Los vagones se levantaron con una sola grúa hidráulica de 250 toneladas sobre la plataforma del camión y se transportaron a lo largo del paso para tráfico ligero hasta la carretera, y desde allí al área de almacenamiento al este de la playa de vías. Dos grúas hidráulicas no habrían cabido en dicho lugar.
@@ -673,8 +688,8 @@ En el primer lugar, los cables de tracción de las vías 4–7 habían quedado i
 En el primer lugar se comenzó por la noche a preparar la construcción de un camino temporal desde el este, sobre las vías de la playa de vías, para el levantamiento y traslado de los vagones, ya que la vivienda y la forma del terreno del lado oeste impedían el trabajo de limpieza desde el oeste. Los automóviles transportaban balasto a los montones. El camino no pudo construirse hasta el final debido a los trabajos de desmontaje de las estructuras de la vía eléctrica en curso. La construcción propiamente dicha del camino temporal y la preparación de los emplazamientos de las grúas se iniciaron el miércoles por la tarde, hacia las 14–15 horas.
 Una vez terminada la ruta, las grúas llegaron al lugar después de las 16:00. Tras la planificación y preparación, el trabajo de levantamiento comenzó sobre las 17:00. El levantamiento y transporte de los vagones se realizaron sin problemas. El último vagón se logró transportar fuera a la mañana siguiente, sobre las cinco de la mañana. Debido al peso de los vagones
 
-
 ## Página 32
+
 
 se necesitaron dos grúas, que levantaban el vagón simultáneamente desde extremos opuestos. El trabajo se realizó con grúas hidráulicas de 160 toneladas y 90 toneladas, y el transporte se hizo con una plataforma baja de camión a través del camino temporal y por debajo del cable de tracción de la vía 7.
 Los trabajos de limpieza en cuanto al material rodante se dieron por finalizados el jueves 18.6 a las cinco de la mañana, es decir, 32 horas después del accidente.
@@ -689,6 +704,7 @@ Hacia el mediodía, el jefe de mantenimiento de Eltel había solicitado a Oy VR-
 
 ## Página 33
 
+
 En la vía principal, los conductores de tracción de las vías 4–7 habían permanecido intactos y no se deseaba cortarlos. 
 El jefe de proyecto de mantenimiento de Oy VR-Rata Ab había instado a resolverlo con el menor número posible de cortes de cables. El equipo eléctrico de Eltel había procurado evitar el corte de los cables de tracción. Los conductores de tracción necesarios de las vías 4–6 se lograron cortar y apartar a las 15.30. El conductor de tracción de la vía 7 se dejó sin cortar.  
 A las 18.1 se instalaron las bases de los postes de catenaria. A las 2 se montó un poste de catenaria temporal por el lado de la vía 5. A las 3 se comenzó a trasladar los cables de la vía 5 al poste de catenaria temporal. 
@@ -700,10 +716,10 @@ Entre el 29.6 y el 10.7, entre otras cosas, se trasladaron conductores de tracci
 El jefe de obra de mantenimiento de instalaciones de seguridad de Oy VR-Rata Ab, que residía cerca del lugar del accidente, recibió información de la interrupción de la comunicación del enclavamiento mediante un mensaje de texto de JUHA el 16.6 a las 20.58, y llegó al lugar aproximadamente media hora después del suceso. Debido a la interrupción de las comunicaciones de datos, las conexiones con el centro de control de catenaria estaban caídas, por lo que la situación de tensión de los cables de tracción era incierta. El jefe de obra participó en la protección de la zona del accidente hasta que los vigilantes de catenaria de Eltel que llegaron al lugar lograron realizar las puestas a tierra de emergencia. 
 En relación con el reinicio del tráfico, durante la noche se bloquearon los desvíos en los extremos sur y norte con tope de aguja para dirigirlos a la vía 8. Se abrieron los fusibles de los motores de los desvíos bloqueados, con lo que se verificaron nuevamente los desvíos. 
 Debido al daño en las comunicaciones de datos, no se pudo utilizar en absoluto el enclavamiento de la estación de clasificación de Toijala ni los enclavamientos de la sección ferroviaria Turku–Toijala. En Toijala había existido anteriormente una interfaz de usuario que permitía el uso local del enclavamiento. Debido a soluciones relacionadas con la estructura del sistema de control de tráfico, también en la sección ferroviaria (Riihimäki)8–(Tampere)–(Seinäjoki), todas las interfaces de uso local se han centralizado a través de las comunicaciones de datos en el centro de control de tráfico de Tampere. 
-8  Los corchetes alrededor del nombre de la estación significan que la dirección de dicha estación no pertenece al sistema de mando a distancia de dicha sección ferroviaria. 
-
+8  Los corchetes alrededor del nombre de la estación significan que la dirección de dicha estación no pertenece al sistema de mando a distancia de dicha sección ferroviaria.
 
 ## Página 34
+
 
 Las comunicaciones de datos se restablecieron el 17.6 a las 16, momento en que Corenet completó la extensión de fibra óptica que rodeaba la zona dañada. La fibra óptica temporal discurría sobre la valla de la zona ferroviaria y rodeaba el lugar del accidente a través del patio de una casa cercana. 
 La reparación de las comunicaciones de datos el 17.6 a las 16 restableció el mando a distancia Turku–Toijala y el mando a distancia del enclavamiento de Toijala. Sin embargo, no se pudo controlar el extremo norte de la estación de clasificación de Toijala debido al daño en el armario de instalaciones de seguridad K266. El armario contenía los equipos de control para los desvíos y señales de la zona. 
@@ -716,6 +732,7 @@ Tras la sustitución mecánica de los desvíos V004 y V002, se verificó el func
 El inspector de puesta en servicio de Oy VR-Rata Ab verificó el funcionamiento del enclavamiento el 27.6 a las 22.30, tras lo cual se retiraron las conexiones de sustitución realizadas el 22.6.
 
 ## Página 35
+
 
 El primer tren de mercancías circuló con tracción diésel por la playa de vías de Toijala siguiendo la ruta del tren del accidente el 29.6 a las 17.02.
 ## 1.2.7 
@@ -734,8 +751,8 @@ De lunes a martes, 22.6.–23.6, continuó el cambio del desvío V002 y se susti
 El miércoles 24.6 se sustituyeron traviesas en la vía principal oeste, en el lado de Tampere del desvío V002, y se construyeron aislamientos de vía, circuitos de corriente de vía y tendidos de cables.
 De jueves a viernes, 25.6.–26.6, se lograron renovar los raíles deformados, sustituir las traviesas y balastar los desvíos V002 y V004. Se apuntalar, se rastrillaron y se lavaron los desvíos y las vías. Los aparatos de seguridad de los desvíos V002 y V004 se pusieron en condiciones de ser dados de alta. El viernes 26.6
 
-
 ## Página 36
+
 
 también se realizó un examen ultrasónico de las vías del tramo dañado, se soldaron raíles y se finalizó la puesta en servicio. La inspección de la obra se realizó a partir de las 9 del viernes.
 El sábado 27.6 se inspeccionaron los desvíos V002, V004 y V016 y se retiraron los enlaces de sustitución.
@@ -755,6 +772,7 @@ También habían llegado al lugar dos equipos de trabajo de vía eléctrica de E
 De las comparecencias realizadas por la comisión de investigación se desprende que en el lugar del accidente no se celebraron reuniones de planificación conjuntas claras en las que se hubiera coordinado el trabajo de los distintos actores. No existía una colaboración suficiente entre los actores y se pusieron de manifiesto desacuerdos. Por ejemplo, en los aparatos de seguridad
 
 ## Página 37
+
 
 ta vastaavalla työnjohtajalla oli vaikeuksia löytää henkilöitä vastaamaan tärkeisiin jänni-
 tetöihin liittyviin kysymyksiin. 
@@ -789,10 +807,10 @@ Kolme sähköradan portaalia ja kaksi sähköratapylvästä sekä ajojohtimet, M
 timet vaurioituivat. Vaihteen V002 vaihteenlämmitysjärjestelmä vaurioitui. Lisäksi useita 
 sähkö-, turvalaite- ja viestikaapeleita vaurioitui. Sähkö- ja turvalaitteiden sekä rakentei-
 den korjauskustannuset olivat yhteensä 994 000 €.  
-Rata-alueen ja viereisten asuintonttien välinä aita rikkoutui. 
-
+Rata-alueen ja viereisten asuintonttien välinä aita rikkoutui.
 
 ## Página 38
+
 
 ## 1.3.3 
 ### Turvalaite- ja tietoliikennevauriot 
@@ -833,6 +851,7 @@ miiksi 21.7., eli 35 päivän kuluttua onnettomuudesta.
 
 ## Página 39
 
+
 Algunos bidones de aceite resultaron dañados, pero no se filtró aceite al suelo. Los bidones se izaron uno a uno desde el vagón volcado y se inspeccionaron en busca de fugas.
 ## 1.4
 ### Información y comunicación
@@ -854,8 +873,8 @@ Las causas del accidente de Toijala aún no se conocen, pero probablemente sea l
 "La ley de Murphy ha funcionado. Tanto la huelga como el accidente de Toijala eran difíciles de influir", dice el director ejecutivo en funciones.
 Se mejora la información
 
-
 ## Página 40
+
 
 En un futuro próximo es poco probable que la semana negra se repita. El director ejecutivo en funciones cree que las huelgas no llegarán a ser habituales en el ferrocarril. VR también intenta mejorar su información. La información sobre los efectos del accidente fue contradictoria en ocasiones. Según el director ejecutivo en funciones, el mensaje de la información cambió porque VR tenía al principio una imagen demasiado positiva de la situación. En el futuro, las decisiones de reducir la circulación tomadas con suficiente antelación ayudarán, según el director ejecutivo en funciones, a que el mensaje se mantenga constante.
 - 

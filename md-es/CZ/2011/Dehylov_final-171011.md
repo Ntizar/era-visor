@@ -10,13 +10,14 @@ chars: 82345
 ratio_longitud: 1.26
 tokens_in: 40447
 tokens_out: 26728
-verificacion: revisar
-notas_cifras: ["bloque 2: original bilingüe: se compara contra el idioma principal (CS)", "bloque 5: original bilingüe: se compara contra el idioma principal (CS)", "bloque 7: original bilingüe: se compara contra el idioma principal (CS)", "bloque 10: original bilingüe: se compara contra el idioma principal (CS)", "bloque 11: cifras cortas: 1/66"]
-avisos: ["bloque 5: ratio 1.69"]
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 6: original bilingüe: se compara contra el idioma principal (EN)", "página 7: original bilingüe: se compara contra el idioma principal (PT)", "página 8: original bilingüe: se compara contra el idioma principal (CS)", "página 18: original bilingüe: se compara contra el idioma principal (PT); ratio 1.99", "página 19: original bilingüe: se compara contra el idioma principal (PT)"]
 ---
+
 ## Página 1
+
 
 Inspección Ferroviaria
 República Checa
@@ -46,11 +47,12 @@ IČ: 75009561
    http://www.dicr.cz
   tel.: 224 805 444
 
-
 ## Página 2
 
 
+
 ## Página 3
+
 
 # SUMMARY
 Grado:
@@ -79,8 +81,8 @@ Causa directa:
 rotura del cuerpo de los tubos del cardán de transmisión de los accesorios 
 de accionamiento de la locomotora.
 
-
 ## Página 4
+
 
 Factor contribuyente: ninguno.
 Causa subyacente:
@@ -119,14 +121,14 @@ referidas recomendaciones por parte de todas las empresas ferroviarias que
 utilicen el ferrocarril para la explotación del transporte ferroviario en 
 posible material rodante y para su aprobación.
 
-
 ## Página 5
+
 
 Este informe final es público y todos los documentos y hechos están respaldados 
 por el expediente de investigación.
 
-
 ## Página 6
+
 
 # Índice
  Summary .............................................................................................................................3
@@ -170,6 +172,7 @@ relación contractual ..........................................................
 
 ## Página 7
 
+
 3.1.2 Otras personas .........................................................................................................19
 3.2 Sistema de garantía de la seguridad ...............................................................................19
 3.2.1 Organización marco y forma en que se emiten y aplican las instrucciones .......19
@@ -199,10 +202,10 @@ cumplimiento ...................................................................
 4.1.1 Descripción definitiva del suceso excepcional basada en los hechos constatados en el punto 3 
 ............................................................................................................................29
 4.2 Examen ......................................................................................................................29
-4.2.1 Evaluación de los hechos constatados de acuerdo con el punto 3 y formulación de conclusiones sobre la causa 
-
+4.2.1 Evaluación de los hechos constatados de acuerdo con el punto 3 y formulación de conclusiones sobre la causa
 
 ## Página 8
+
 
 del suceso excepcional y la actuación de los servicios de emergencia ..........................................29
 4.3 Conclusiones .......................................................................................................................30
@@ -222,10 +225,12 @@ del suceso excepcional y la actuación de los servicios de emergencia ..........
  Fig. n.º 7: Detalle de la rotura del cuerpo del tubo del cardán .....................................................................................34
  Fig. n.º 8: Depósito de combustible dañado del HDV 843.021-7 ...................................................34
 
-
 ## Página 9
 
+
+
 ## Página 10
+
 
 ## Lista de siglas y símbolos utilizados
 COP
@@ -305,8 +310,8 @@ paso a nivel ferroviario
 žst.
 estación ferroviaria
 
-
 ## Página 11
+
 
 ## 1 RESUMEN
 Clasificación del suceso:
@@ -359,8 +364,8 @@ del material, no ponga en peligro la seguridad de las personas y el
 funcionamiento seguro de las construcciones e instalaciones y no ponga 
 en peligro el medio ambiente;
 
-
 ## Página 12
+
 
 hasta que se aseguren los mencionados ejes de acoplamiento y cardán 
 ◦
@@ -377,8 +382,8 @@ asegurar la realización de la recomendación de seguridad anterior también en
 otros gestores del transporte ferroviario que utilicen, en la explotación del 
 transporte ferroviario, el material rodante pertinente y en su aprobación.
 
-
 ## Página 13
+
 
 ## 2 DATOS RELATIVOS A LA OCURRENCIA EXCEPCIONAL
 ## 2.1
@@ -390,8 +395,8 @@ parcialmente electrificada con una tensión continua de 3 kV, en el tramo entre
 las estaciones Ostrava Třebovice y Děhylov, en el pk 265,960.
 Fig. n.º 1: Vista del HDV 843.021-7 chamuscado
 
-
 ## Página 14
+
 
 ### 2.1.2 Descripción de la ocurrencia excepcional y del lugar del accidente, incluida la 
 actividad del sistema integrado de salvamento y del servicio de salvamento
@@ -422,6 +427,7 @@ terminaban en el punto de parada del tren en el pk 266,800.
 
 ## Página 15
 
+
 Como consecuencia de la fuga de productos petrolíferos se produjo una catástrofe ecológica y una amenaza para el medio ambiente en el lugar de la reserva natural Děhylovský potok – Štěpán.
 El HZS (servicio de bomberos) del explotador ferroviario fue activado a las 04:31 h telefónicamente por el despachador de RCP Ostrava. En el lugar del suceso (MU) también intervino el HZS de la Ciudad de Ostrava, que fue activado telefónicamente por el acompañamiento del tren inmediatamente después de detectar el incendio, incluso antes de la parada del tren.
 2.1.3 Decisión de iniciar la investigación de las causas y circunstancias de su producción, composición del equipo de personas cualificadas y método de dirección de la investigación de las causas y circunstancias de su producción
@@ -444,16 +450,17 @@ no se identificaron.
 •
 2.2.2 Trenes y su composición, incluidos los números de registro de los distintos vehículos ferroviarios
 El tren Os 3442 estaba compuesto por la locomotora de tracción del tren HDV 843.021-7, el vehículo de tracción intercalado TDV 50 54 29-29 019-8 y el vehículo de tracción de mando TDV 50 54 80-29 217-4. El HDV 843.021-7 circulaba en cabeza con el motor «A».
-El HDV de la serie 843 es un automotor de cuatro ejes destinado al transporte de pasajeros. El conjunto de tracción está formado por dos conjuntos de tracción idénticos «A» y «B» situados bajo el suelo del HDV. El conjunto de tracción consta de un motor de combustión de seis cilindros en posición horizontal LIAZ M1.2 C ML 640 D acoplado mediante bridas al alternador de tracción TA 614 A, que alimenta los motores de tracción del bogie adyacente y la unidad de compresión. Ambos conjuntos de tracción comparten el sistema de combustible y un grupo común de máquinas auxiliares accionadas a través de la caja de cambios combinadora tipo RV 210 desde los extremos delanteros de los motores de combustión. La caja de cambios de los accionamientos auxiliares incluye un embrague limitador SO 3 para evitar la transmisión de un par superior a 500 Nm + 20 Nm, establecido por el fabricante. La transmisión del par de los motores de combustión «A» y «B» a la caja de cambios combinadora se realiza mediante un eje de acoplamiento y un eje de transmisión cardánico. El eje de acoplamiento está unido mediante bridas al motor de combustión por un extremo y, por el extremo opuesto, está montado en un rodamiento central, 
-
+El HDV de la serie 843 es un automotor de cuatro ejes destinado al transporte de pasajeros. El conjunto de tracción está formado por dos conjuntos de tracción idénticos «A» y «B» situados bajo el suelo del HDV. El conjunto de tracción consta de un motor de combustión de seis cilindros en posición horizontal LIAZ M1.2 C ML 640 D acoplado mediante bridas al alternador de tracción TA 614 A, que alimenta los motores de tracción del bogie adyacente y la unidad de compresión. Ambos conjuntos de tracción comparten el sistema de combustible y un grupo común de máquinas auxiliares accionadas a través de la caja de cambios combinadora tipo RV 210 desde los extremos delanteros de los motores de combustión. La caja de cambios de los accionamientos auxiliares incluye un embrague limitador SO 3 para evitar la transmisión de un par superior a 500 Nm + 20 Nm, establecido por el fabricante. La transmisión del par de los motores de combustión «A» y «B» a la caja de cambios combinadora se realiza mediante un eje de acoplamiento y un eje de transmisión cardánico. El eje de acoplamiento está unido mediante bridas al motor de combustión por un extremo y, por el extremo opuesto, está montado en un rodamiento central,
 
 ## Página 16
+
 
 fijado firmemente al bastidor del HDV. El eje de acoplamiento está unido mediante bridas al eje de transmisión cardánico por detrás del rodamiento central. Este último está formado, por el lado del eje de acoplamiento, por una cruceta unida al cuerpo del tubo, al que está soldado un tope estriado. El tope estriado está insertado en el buje estriado del eje de transmisión cardánico, que está unido por una cruceta a la caja de cambios combinadora. Desde la caja de cambios combinadora tipo RV 210 se accionan el alternador y el compresor mediante poleas y correas en V.
 Los ejes de acoplamiento se conducen desde ambos motores de combustión por el espacio libre bajo el suelo del HDV a lo largo de los bloques de refrigeración de los motores de combustión. El eje de transmisión cardánico del motor de combustión «A» se conduce por el espacio libre bajo el suelo del HDV. El eje de transmisión cardánico del motor de combustión «B» se conduce bajo el suelo del HDV entre los depósitos de combustible, cada uno de 450 l de capacidad. Ni el eje de acoplamiento ni el eje de transmisión cardánico están asegurados en ningún punto con abrazaderas de seguridad para evitar la indeseada destrucción del entorno de los ejes en caso de avería que se manifieste con la liberación de un eje en rotación o de una parte del mismo.
 Fig. núm. 3: Disposición del eje de transmisión cardánico del motor de combustión «B» entre los depósitos de combustible
 
 ## Página 17
+
 
 El tren tenía una longitud de 65 m, 12 ejes, un peso total de 145 t, un peso de frenado de 142 t, porcentajes de frenado requeridos: 92, porcentajes de frenado reales: 97. El tren estaba frenado con freno automático continuo, método de frenado I, en el modo de frenado P.
 ### 2.2.3 Descripción de los componentes de la vía de circulación, del sistema de señalización (es decir, principalmente el estado de los raíles, agujas, enclavamientos, señales y del dispositivo de seguridad del tren)
@@ -469,25 +476,24 @@ En el lugar del accidente no se realizaron, inmediatamente antes de su producci�
 ### 2.2.6 Activación del plan para caso de accidente en la vía y secuencia de acontecimientos
 El incendio del DV del tren Os 3442 lo comunicó la jefa de tren del tren Os 3442 a la línea 150 inmediatamente antes de la detención del tren en la vía. La producción del accidente la comunicó el maquinista del tren Os 3442 al jefe de máquinas del PP Opava východ inmediatamente después de la evacuación de los pasajeros y de la extinción del incendio del DV. El jefe de máquinas cumplió a continuación las demás obligaciones de conformidad con el Cuadro de notificaciones del transportista. Junto con el maquinista, la jefa de tren comunicó también la producción del accidente al Regulador Regional Brno, al SVČ Opava východ y al regulador de línea con sede en la est. Ostrava-
 
-
 ## Página 18
 
-Svinov. El regulador de línea con sede en la est. Ostrava-Svinov cumplió las demás obligaciones de conformidad con el Cuadro de notificaciones del gestor de la vía.
-Al COP DI se notificó el accidente a las 07:56 h del día 17. 10. 2011. Sobre la base de los hechos notificados, el COP DI concedió a las 08:00 h del día 17. 10. 2011 el permiso para el inicio de los trabajos de limpieza. Al lugar del accidente acudieron dos VI DI ÚI Ostrava. Al lugar del accidente acudieron también personas cualificadas del gestor de la vía y del transportista.
-El transporte ferroviario entre la est. Ostrava-Svinov y la est. Opava východ estuvo interrumpido desde las 04:05 h del día 17. 10. 2011. Tras la finalización de los trabajos de limpieza, la finalización de los trabajos para la puesta en servicio de la vía, la rehabilitación y la eliminación de los daños ecológicos, se reanudó la explotación de la vía y del transporte ferroviario el día 27. 10. 2011 a las 16:40 h.
-### 2.2.7 Activación del plan del sistema integrado de emergencias, de la policía y del servicio de emergencias médicas y secuencia de acontecimientos
-En el lugar del accidente intervinieron unidades de la PČR, del HZS del gestor de la vía y del HZS de la Ciudad de Ostrava. Las unidades del HZS, tras su llegada al lugar del accidente, iniciaron actividades para evitar la propagación de la catástrofe ecológica y de los daños al medio ambiente producidos en el accidente. Los cuerpos del HZS, entre otras actuaciones, colocaron barreras absorbentes en el arroyo próximo al lugar del accidente para evitar la fuga de sustancias petrolíferas al estanque Štěpán.
+Svinov. El despachante de vía con sede en la est. Ostrava-Svinov cumplió las demás obligaciones conforme al Calendario de declaraciones del gestor de la infraestructura.
+Al COP DI se notificó a la MU a las 07:56 h del 17 de 10 de 2011. Con base en los hechos notificados, se concedió al COP DI a las 08:00 h del 17 de 10 de 2011 el permiso para iniciar los trabajos de despeje. Al lugar de la MU acudieron dos VI DI de la ÚI Ostrava. Al lugar de la MU acudieron también las personas cualificadas del gestor de la infraestructura y del transportista.
+El tráfico ferroviario entre la est. Ostrava-Svinov y la est. Opava východ estuvo interrumpido desde las 04:05 h del 17 de 10 de 2011. Una vez finalizados los trabajos de despeje, los trabajos para la puesta en servicio de la vía, la remediación y la eliminación de los daños ecológicos, se reanudó la explotación de la vía y del tráfico ferroviario el 27 de 10 de 2011 a las 16:40 h.
+### 2.2.7 Activación del plan del sistema integrado de emergencias, de la policía y del servicio de emergencias médicas, y secuencia de acontecimientos
+En el lugar de la MU actuaron las unidades de la PČR, del HZS del gestor de la infraestructura y del HZS de la Ciudad de Ostrava. Las unidades del HZS, tras llegar al lugar de la MU, iniciaron actividades para evitar la propagación de la catástrofe ecológica y de los daños al medio ambiente producidos durante la MU. Los servicios del HZS, entre otras actuaciones, colocaron barreras anticontaminación en el arroyo cercano al lugar de la MU para impedir la fuga de sustancias petrolíferas al estanque Štěpán.
 ## 2.3
 ### Fallecimientos, lesiones y daños materiales
-2.3.1 En pasajeros y terceras personas, empleados del gestor de la vía y del transportista, incluidas personas en relación contractual
-Como consecuencia del accidente no resultó herido ni fallecido nadie. La lesión sufrida por una pasajera (lesión de la rodilla de la pierna derecha) se produjo ya después de la producción del accidente, al bajar del DV del tren Os 3442 detenido en la vía. Ninguno de los pasajeros solicitó atención médica.
-### 2.3.2 En los objetos transportados, equipajes y otros bienes
-En los objetos transportados, equipajes y otros bienes no fue notificado daño material por parte de los implicados.
-### 2.3.3 En los vehículos ferroviarios, componentes de la vía de circulación y en el medio ambiente
-El gestor de la vía y el transportista cuantificaron el daño:
-Al DV                                                      3 302 211 Kč
+2.3.1 En pasajeros y terceras personas, empleados del gestor de la infraestructura y del transportista, incluidas personas en relación contractual
+Como consecuencia de la MU nadie resultó lesionado ni fallecido. La lesión en la salud de una pasajera (lesión de la rodilla de la pierna derecha) se produjo una vez originada la MU, concretamente al bajar del DV del tren Os 3442 detenido en la vía. Ninguno de los pasajeros solicitó atención médica.
+### 2.3.2 En los objetos transportados, el equipaje y otros bienes
+En los objetos transportados, el equipaje y otros bienes no fue notificado daño material por parte de los interesados.
+### 2.3.3 En los vehículos ferroviarios, los componentes de la vía y en el medio ambiente
+El gestor de la infraestructura y el transportista valoraron el daño:
+En el DV                                                      3 302 211 Kč
 •
-A la infraestructura
+En los equipos de infraestructura
             7 277 942 Kč
 •
 Costes de protección del medio ambiente     500 000 Kç*
@@ -495,9 +501,10 @@ Costes de protección del medio ambiente     500 000 Kç*
 Daño total
 ###           11 080 153 Kč
 •
-* Se trata de un daño estimado. La cuantificación real del daño no fue realizada por el gestor de la vía a la fecha de publicación del Informe sobre los resultados de la investigación de las causas y circunstancias de la producción del accidente.
+* Se trata de un daño estimado. La cuantía real del daño no había sido valorada por el gestor de la infraestructura a la fecha de emisión del Informe sobre los resultados de la investigación de las causas y circunstancias de la MU.
 
 ## Página 19
+
 
 ## 2.4
 ### Circunstancias externas
@@ -543,8 +550,8 @@ Otras personas no participaron en el MU.
 ### 3.2.1 Organización marco y forma en que se emiten y ejecutan las instrucciones
 El gestor de la infraestructura dispone de un sistema de garantía de la seguridad adoptado. En el sistema de garantía de la seguridad adoptado relacionado con las circunstancias del origen de este MU concreto no se detectaron deficiencias.
 
-
 ## Página 20
+
 
 El transportista dispone de un sistema de garantía de la seguridad adoptado. La garantía organizativa del mantenimiento del HDV serie 843, es decir, los procedimientos para garantizar la conformidad del estado de los árboles de transmisión articulados, de los árboles de transmisión de acoplamiento con rodamientos entre los motores de combustión y la caja de cambios de unificación RV 210 con los requisitos de las normas técnicas u operativas y otras condiciones vinculantes durante la vida útil del equipo y durante su explotación, se encuentran regulados por el transportista en las siguientes normas:
 «MANUAL DE OPERACIÓN DEL VEHÍCULO DE MOTOR serie 843 – instrucción de
@@ -574,6 +581,7 @@ En la norma interna ČD V25, en la versión de «Medida del director del departa
 
 ## Página 21
 
+
 MM – revisión periódica menor tras recorrer de 14 000 a 18 000 km, MVY – reparación periódica de ajuste tras recorrer 240 000 km, MH – reparación periódica principal tras recorrer 480 000 km y MG – reparación periódica general tras 12 a 16 años de uso, siendo los límites superiores de recorridos en kilómetros vinculantes únicamente para la realización de los mantenimientos operativos MO y de las revisiones periódicas MM. Para los grados de mantenimiento superiores de las reparaciones periódicas, los recorridos en kilómetros y en tiempo indicados son recomendados. En el art. 24 de la normativa ČD V25 se indica: «El alcance del mantenimiento operativo y de la revisión periódica se compone de una parte obligatoria, que constituye la revisión de seguridad de aquellas piezas y conjuntos del material rodante ferroviario (ŽKV) que tienen una influencia directa en la seguridad del transporte y que son el presupuesto para que, tras dicha revisión, no aparezca en el ŽKV ninguno de los defectos indicados en los anexos n.º 13, 14, 17 (véase art. 12). La segunda parte del mantenimiento operativo y de la revisión periódica la constituyen los trabajos que deben garantizar preventivamente la fiabilidad de la explotación, la cultura del viaje … … El alcance de la segunda parte (relativa a la fiabilidad del ŽKV) del mantenimiento operativo y de la revisión periódica lo establece el DKV. ...». El contenido de la revisión de seguridad DV es el del Anexo n.º 5 de la normativa ČD V 25. En el sentido de los procedimientos indicados del operador ferroviario, la comprobación del estado del cuerpo de los tubos del cardán ni de su asentamiento se incluye en el contenido de la revisión de seguridad, es decir, entre las piezas y conjuntos que tienen una influencia directa en la explotación segura del transporte ferroviario, véase el Anexo n.º 5 de la normativa ČD V 25. Las comprobaciones y trabajos en los cardanes de los HDV de la serie 843 se contienen, en el sentido del art. 24 de la normativa ČD V 25, en el documento «Establecimiento del alcance del mantenimiento periódico en DKV Olomouc», n.º de expediente 2892/2009, emitido el 03. 03. 2009. Este documento contiene el contenido de la llamada parte de fiabilidad de la revisión periódica MM. En dicha revisión, los procedimientos del operador ferroviario establecen:
 realización de la comprobación de la fijación y de la integridad de los ejes de acoplamiento, pero no de los cardanes;
 •
@@ -589,6 +597,7 @@ Los requisitos de cualificación profesional de los empleados del operador ferro
 El maquinista del tren Os 3442 era, en el momento del origen de la MU, titular de un Certificado de aptitud para la conducción de material rodante ferroviario, n.º de expediente 502182, emitido por el DÚ, el 19. 06. 2007 con validez hasta el 19. 06. 2017, para la clase de material rodante motriz M. En virtud del mencionado certificado de aptitud para la conducción de material rodante ferroviario, el maquinista estaba autorizado para conducir HDV en líneas de ámbito nacional, regionales y en ramales industriales.
 
 ## Página 22
+
 
 Los empleados del operador ferroviario eran, en el momento del origen de la MU, profesionalmente cualificados para el desempeño de la función que ocupaban.
 ### 3.2.3 Procedimiento de control interno de seguridad y sus resultados
@@ -613,6 +622,7 @@ El gestor de la vía ferroviaria, categoría de ámbito nacional, Ostrava-Svinov
 El operador ferroviario del tren Os 3442 era ČD, a. s., con domicilio en Nábřeží L. Svobody 1222, Praha 1, CP 110 15, en virtud de la Licencia de operador ferroviario concedida por decisión del DÚ el 17. 03. 2003, bajo el n.º de expediente 3-2169/03-DÚ/Bp, n.º de expediente L/2003/9000. El operador ferroviario es titular del Certificado de operador ferroviario, emitido por el DÚ el 26. 03. 2008, bajo el n.º de expediente DUCR-2366/10/Pd, n.º de expediente OSD/2008/028, con validez hasta el 25. 03. 2013. La explotación del transporte ferroviario en la vía ferroviaria, categoría de ámbito nacional, Ostrava-Svinov – Krnov, se realiza en virtud del contrato «CONTRATO número 001 / 09 sobre la explotación del transporte ferroviario en la vía de transporte ferroviaria de la línea de ámbito nacional y de las líneas regionales en propiedad de la República Checa», celebrado entre el gestor de la infraestructura y el operador ferroviario el 30. 06. 2009, con efectos desde el 01. 07. 2009, en su versión vigente.
 
 ## Página 23
+
 
 ## 3.3
 ### Regulación jurídica y otras disposiciones
@@ -645,8 +655,8 @@ PRESTACIÓN) Y SU CUIDADO", en el art. 405 se establece:
 El sistema de mando, señalización y seguridad de la vía no guardaba relación alguna con la ocurrencia del accidente.
 No se detectaron anomalías.
 
-
 ## Página 24
+
 
 ### 3.4.2 Componentes de la vía
 Los componentes de la vía de circulación no guardaban relación causal ni no causal con la ocurrencia del accidente.
@@ -673,6 +683,7 @@ De las conclusiones de la inspección por comisión de la locomotora de tracció
 
 ## Página 25
 
+
 de la caja de cambio de acoplamiento no fue posible verificar el valor del desbalance residual del cardán ni las posibles vibraciones entre el motor de combustión "A" y la caja de cambio de acoplamiento. En base a los hallazgos de la inspección comisionada del HDV, la empresa certificada Universidad de Pardubice, Facultad de Transporte Jan Perner, ASOCIACIÓN DE INGENIEROS MECÁNICOS cl. MI – PARDUBICE, realizó un estudio metalográfico, consistente en la evaluación de la iniciación de la rotura en servicio del cardán n.º 442-17200-113-7, la evaluación de la calidad del material y de la influencia de la soldadura de los contrapesos en posibles relaciones causales con la rotura en servicio del eje. Los resultados del citado estudio se indican en el documento "Análisis del daño en servicio del cardán – informe n.º KMMČS ASI 62/2012", elaborado el 25. 01. 2012, del que se desprende que la destrucción del eje se produjo por daño por fatiga, iniciado ### como consecuencia del procedimiento empleado para fijar los contrapesos. El lugar de iniciación de la rotura se detectó en la intersección del plano longitudinal de la rotura y la circunferencia del punto de soldadura. Se detectó una iniciación múltiple de la rotura por fatiga con la formación de varias grietas por fatiga. Las grietas se iniciaron en parte de la circunferencia del cordón de soldadura, en el plano de unión del material del cuerpo del tubo del cardán y el material del contrapeso, que se unieron progresivamente y permitieron el desarrollo posterior de la rotura. También se detectaron daños por fatiga en servicio en otras uniones soldadas, con los mismos parámetros de iniciación y desarrollo primario de las grietas que en el caso de la iniciación que condujo a la destrucción final del eje. La influencia negativa de las soldaduras sobre la calidad del material la representaba el intenso endurecimiento en la zona sobrecalentada con un pronunciado gradiente estructural y de resistencia hacia las demás capas de la zona afectada. La disminución de la plasticidad condujo a un aumento de la sensibilidad a la entalla en la circunferencia de los cordones de soldadura. El desarrollo primario del daño por fatiga consistió en la unión de grietas por fatiga aisladas y el posterior desarrollo de la rotura a través de la pared del eje. Al alcanzar la superficie interior del eje, predominó la orientación según la carga en servicio, es decir, 45° respecto al eje longitudinal del eje. En los lugares donde la grieta por fatiga de desarrollo continuo superó la zona de influencia térmica del material, se detectó un carácter de rotura correspondiente a una velocidad de desarrollo aumentada.
 
 TP MSV 74/95 con la adenda n.º 1, 2 y la documentación técnica del HDV serie 843, según los cuales se aprobó el DV, no regulan el método de fijación de los cuerpos de equilibrado al cuerpo del tubo del cardán de los accesorios de tracción.
@@ -684,6 +695,7 @@ En los procedimientos tecnológicos de la empresa ML Tuning, spol. s r. o., cont
 El HDV 843.021-7, en el momento de la producción del MU, de conformidad con el apartado 5, parte II, del Anexo n.º 3 del decreto n.º 173/1995 Sb., estaba equipado con un dispositivo de registro, el Equipo de Velocímetro Electrónico serie LT, n.º de registro 6224, y un ordenador de diagnóstico del vehículo para registrar y transmitir información sobre el funcionamiento de los conjuntos constructivos determinados durante la marcha del DV, tanto al maquinista como al personal de mantenimiento del DV. De los datos registrados del Equipo de Velocímetro Electrónico serie LT, con el número de transmisión 003862.1050, y de los datos del diagnóstico
 
 ## Página 26
+
 
 ordenadores del vehículo, se desprende:
 03:55:44 h activación de la cabina de conducción;
@@ -730,57 +742,71 @@ La rotura del cuerpo del tubo del cardán se produjo por daño por fatiga, inici
 ### al cuerpo del tubo del cardán de las transmisiones auxiliares. El método
 y la tecnología de fijación de los contrapesos se dejaron en este caso a cargo del proveedor
 
-
 ## Página 27
 
-(fabricante) del cardán. La explotación de la serie de HDV 843.021-7 en vías con contrapesos fijados de esta manera en los cuerpos de los tubos de los cardanes de las transmisiones auxiliares no cumplía los requisitos de seguridad del transporte ferroviario, del personal de servicio, de las personas y cosas transportadas, lo que constituye el incumplimiento de lo dispuesto en el § 43 apartado 1 de la ley nº 266/1994 Sb. La recomendación sobre la fijación de los contrapesos de los cardanes en los DV utilizados mediante un método que no afecte térmicamente a la calidad y a la plasticidad del material del eje, es objeto de la recomendación de seguridad, véase el punto 6.
+(de los fabricantes) de las cardan. La explotación de la HDV serie 843.021-7 en vías con contrapesos fijados de esta manera en los cuerpos de los tubos de las cardan de los accesorios de tracción no cumplía los requisitos de seguridad del transporte ferroviario, del personal de servicio, de las personas y objetos transportados, lo que constituye el incumplimiento de lo dispuesto en el § 43 apartado 1 de la ley núm. 266/1994 Sb. La recomendación sobre el fijado de los contrapesos de las cardan en los DV utilizados de manera que no afecte térmicamente a la calidad y a la plasticidad del material del eje, es objeto de una recomendación de seguridad, véase el punto 6.
 ## 3.5
 ### Documentación del sistema de explotación
-### 3.5.1 Medidas adoptadas por el personal del explotador de la vía y del transportista en materia de regulación, señalización y protección del tráfico
-Las medidas adoptadas por el personal del explotador de la vía y del transportista en materia de regulación, señalización y protección del tráfico no guardaban relación alguna con la producción de la MU. La MU se produjo como consecuencia de una avería técnica del HDV.
+### 3.5.1 Medidas adoptadas por los empleados del gestor de la vía y del transportista en materia de conducción, señalización y protección del tráfico
+Las medidas adoptadas por los empleados del gestor de la vía y del transportista en materia de conducción, señalización y protección del tráfico no guardaban relación alguna con la aparición de la MU. La MU se produjo como consecuencia de una avería técnica de la HDV.
   No se detectaron averías.
-### 3.5.2 Intercambio de comunicaciones verbales en relación con el suceso extraordinario, incluidas las pruebas del dispositivo de registro
-Antes de la producción de la MU no se produjo ninguna comunicación verbal relacionada con la MU.
-### 3.5.3 Medidas adoptadas para la protección y la seguridad del lugar del suceso extraordinario
-La protección y la seguridad del lugar de producción de la MU se garantizaron de conformidad con el § 9 del decreto nº 376/2006 Sb., por parte de las personas designadas por el explotador de la vía y el transportista.
+### 3.5.2 Intercambio de comunicaciones verbales en relación con el suceso excepcional, incluidos los registros del dispositivo de registro
+Antes de la aparición de la MU no se produjo ninguna comunicación verbal relacionada con la MU.
+### 3.5.3 Medidas adoptadas para la protección y la seguridad del lugar del suceso excepcional
+La protección y la seguridad del lugar donde se produjo la MU se garantizaron de conformidad con el § 9 del decreto núm. 376/2006 Sb., por parte de las personas designadas por el gestor de la vía y por el transportista.
 No se detectaron averías.
 ## 3.6
 ### Condiciones laborales, sanitarias y de explotación
-### 3.6.1 Jornada laboral del personal del explotador de la vía y del transportista que participó en el suceso
-El maquinista del tren Os 3442 entró en servicio a las 01:47 h del 17. 10. 2011. Disponía •
-de un descanso previo al turno de 20 h.
-La jefa de tren del tren Os 3442 entró en servicio conforme al horario del turno de •
-servicio a las 17:02 h del 16. 10. 2011, con una interrupción en la est. Ostrava-Svinov desde las 23:49 h del 16. 10. 2011 hasta las 03:12 h del 17. 10. 2011. Disponía de un descanso previo al turno de 22:28 h.
-El empleador garantizó la pausa durante la jornada y las condiciones de descanso previo al turno de conformidad con el Reglamento del Gobierno nº 589/2006 Sb., por el que se establece la regulación excepcional de la jornada laboral y del tiempo de descanso del personal en el transporte, y los §§ 88 y 90 de la ley nº 262/2006 Sb., Código del Trabajo, en su redacción vigente.
-
+### 3.6.1 Jornada laboral de los empleados del gestor de la vía y del transportista que participaron en el suceso
+El maquinista del tren Os 3442 comenzó su turno a las 01:47 h del día 17. 10. 2011. El descanso
+•
+antes del turno tuvo una duración de 20 h.
+La jefa de tren del tren Os 3442 comenzó su turno según el horario del turno de servicio
+•
+a las 17:02 h del día 16. 10. 2011, con una interrupción en la est. Ostrava-Svinov desde las 23:49 h del día 16. 10. 2011 hasta las 03:12 h del día 17. 10. 2011. El descanso antes del turno tuvo una duración de 22:28 h.
+El empleador garantizó la pausa durante la jornada laboral y las condiciones para el descanso antes del turno de conformidad con el Reglamento gubernamental núm. 589/2006 Sb., por el que se establece la regulación excepcional de la jornada laboral y del tiempo de descanso de los empleados en el transporte, y con los §§ 88 y 90 de la ley núm. 262/2006 Sb., Código del Trabajo, en su versión vigente.
 
 ## Página 28
 
-3.6.2 Estado de salud y situación personal que influyeron en el suceso extraordinario, incluido el estrés físico o psicológico
-Todos los empleados participantes estaban, en el momento de la producción de la MU, en condiciones de salud aptas para el desempeño de la función que desempeñaban. La investigación no arrojó datos de que la situación personal o el estado psicológico de las personas participantes en la MU hubieran influido en la producción de la MU.
-3.6.3 Disposición del equipamiento del puesto de mando o del vehículo que influye en su manejo y uso
-La disposición del equipamiento del puesto de mando del regulador de tráfico en la est. Ostrava-Svinov y de la cabina de conducción del HDV 843.021-7 no guardaba relación con la producción de la MU.
-No se detectaron averías.
+3.6.2 Estado de salud y situación personal que influyeron en el suceso ferroviario, 
+incluido el estrés físico o psicológico
+Todos los empleados implicados estaban, en el momento de producirse el suceso ferroviario, 
+apto desde el punto de vista médico para desempeñar la función que ocupaban. 
+La investigación no arrojó datos de que la situación personal o el estado psicológico de las 
+personas implicadas en el suceso ferroviario hubieran influido en la aparición del mismo.
+3.6.3 Disposición del equipamiento del puesto de mando o del vehículo, que influye en su 
+manejo y utilización
+La disposición del equipamiento del puesto de mando del regulador de tráfico en la est. 
+Ostrava-Svinov y del puesto del maquinista de la HDV 843.021-7 no guardaba relación con 
+la aparición del suceso ferroviario. No se detectaron averías.
 ## 3.7
-### Sucesos extraordinarios anteriores de carácter similar
-El DI registra una MU similar del 27. 05. 2010 a las 22:05 h, cuando entre la est. Háj ve Slezsku y la parada Lhota u Opavy, durante la marcha del tren Os 3450, se produjo la rotura de la junta flexible del eje de acoplamiento de las transmisiones auxiliares entre el motor de combustión «A» y el reductor de acoplamiento del HDV 843.021-7, con el consiguiente agujero en el suelo del HDV y la penetración del eje de acoplamiento liberado en el compartimento para pasajeros, véase la fig. nº 4.
-La causa inmediata de la producción de esta MU fue un defecto material de la junta flexible del eje de acoplamiento de las transmisiones auxiliares.
-Fig. nº 4: Penetración del eje de acoplamiento en el compartimento para pasajeros
+### Sucesos ferroviarios anteriores de carácter similar
+DI registra un suceso ferroviario análogo del 27. 05. 2010 a las 22:05 h, cuando entre la 
+est. Háj ve Slezsku y la parada Lhota u Opavy, durante la circulación del tren Os 3450, 
+se produjo la rotura del acoplamiento elástico del eje de acoplamiento de las transmisiones 
+auxiliares entre el motor de combustión «A» y la caja de cambios de unión de la HDV 
+843.021-7, con el consiguiente agujero en el suelo de la HDV y la penetración del eje de 
+acoplamiento liberado en el compartimento para pasajeros, véase fig. n.º 4. 
+La causa inmediata de la aparición de este suceso ferroviario fue un defecto material del 
+acoplamiento elástico del eje de acoplamiento de las transmisiones auxiliares.
+Fig. n.º 4: Penetración del eje de acoplamiento en el compartimento para pasajeros
 
 ## Página 29
 
 ## 4 ANÁLISIS Y CONCLUSIONES
 ## 4.1
 ### Descripción final del suceso ferroviario
-### 4.1.1 Descripción final del suceso ferroviario basada en los hechos constatados en el punto 3
-El 17 de octubre de 2011, durante la circulación del tren Os 3442, que se dirigía desde la estación de Ostrava-Svinov a la estación de Opava východ, se rompió el cardán de los accesorios auxiliares, n.º 442-17200-113-7, que conectaba el motor de combustión «A» HDV 843.021-7 con la caja de cambios de los accesorios auxiliares. Como consecuencia de la rotura del cardán, se soltó su parte trasera, más larga. Dicha parte, debido a la ausencia de abrazaderas de retención (jaula), sobresalió de la envolvente del DV y, a las 04:05:05 h, en el pk 265,960, a una velocidad cercana a 89 km·h-1, impactó contra una traviesa transversal de hormigón armado de la plataforma del carril. La parte trasera, suelta y en rotación del cardán, durante la circulación posterior, no solo golpeaba la parte inferior del DV, sino también las traviesas y el balasto entre las bandas de riel. En el pk 266,174, el cardán suelto impactó contra el cuña de entrada del ŽP (P 7726) en el pk 266,178. Como consecuencia del impacto, se desplazó en 1 m la vía de paso a nivel de tipo STRAIL en el sentido de circulación del DV y se arrancó de bajo del HDV la caja de cambios de los accesorios auxiliares. Esta cayó bajo el DV en circulación. El maquinista reaccionó a la situación creada aplicando frenado de emergencia. La destrucción posterior de la caja de cambios bajo los DV en circulación provocó una fuga de aceite de la caja de cambios, la rotura del bloque del motor de combustión «B» y la rotura de los depósitos de combustible del HDV 843.021-7, TDV 50 54 29-29 019-8 y del TDV de mando 50 54 80-29 217-4, con la consiguiente fuga de combustible y de fluidos de servicio. El combustible que se escapaba del HDV fue rociado bajo el DV no solo sobre la superestructura ferroviaria, sino también sobre el tubo de escape caliente del HDV, del cual se incendió. Las trazas de la fuga de sustancias petrolíferas comenzaban inmediatamente después del ŽP en el pk 266,178 y terminaban en el punto de detención del tren en el pk 266,800. Como consecuencia de la fuga de sustancias petrolíferas, se produjo una catástrofe ecológica y una amenaza para el medio ambiente en el lugar de la reserva natural Děhylovský potok – Štěpán.
-La rotura del cardán de los accesorios auxiliares, n.º 442-17200-113-7, se inició en el punto de fijación del contrapeso mediante soldadura por puntos. Este método de fijación del contrapeso tuvo como consecuencia la influencia térmica y el cambio de plasticidad del material del cuerpo del tubo del cardán en los puntos de las soldaduras por puntos, la aparición de grietas por fatiga y, en última instancia, la rotura del eje y la producción del suceso ferroviario.
+### 4.1.1 Descripción final del suceso ferroviario basada en los hechos constatados 
+en el punto 3
+El 17 de octubre de 2011, durante la circulación del tren Os 3442, que se dirigía desde la estación de Ostrava-Svinov a la estación de Opava východ, se rompió el cardán de los accesorios de tracción, n.º 442-17200-113-7, que conectaba el motor de combustión «A» HDV 843.021-7 con la caja de cambios de los accesorios de tracción. Como consecuencia de la rotura del cardán, se soltó su parte trasera, más larga. Dicha parte, debido a la ausencia de abrazaderas de retención (jaulas), sobresalió de la envolvente de la locomotora y, a las 04:05:05 h, en el pk 265,960, a una velocidad cercana a 89 km·h-1, impactó contra una traviesa transversal de hormigón armado de la plataforma de la vía. La parte trasera, suelta y en rotación del cardán, durante la marcha posterior, no solo golpeó el bajo de la locomotora, sino también las traviesas y la balasta entre los carriles. En el pk 266,174, el cardán suelto impactó contra el raíl de entrada de la vía de paso (P 7726) en el pk 266,178. Como consecuencia del impacto, la calzada de paso a nivel de tipo STRAIL se desplazó 1 m en el sentido de la marcha de la locomotora y se arrancó de la locomotora la caja de cambios de los accesorios de tracción. Esta cayó bajo la locomotora en marcha. Ante la situación creada, el maquinista reaccionó aplicando el frenado de emergencia. La destrucción posterior de la caja de cambios bajo la locomotora en marcha provocó una fuga de aceite de la caja de cambios, la rotura del bloque del motor de combustión «B» y la rotura de los depósitos de combustible del HDV 843.021-7, TDV 50 54 29-29 019-8 y del TDV de mando 50 54 80-29 217-4, con la consiguiente fuga de combustible y de fluidos de servicio. El combustible que se escapaba de la locomotora fue rociado bajo esta no solo sobre la superestructura de la vía, sino también sobre el tubo de escape caliente de la locomotora, del cual se incendió. Las trazas de la fuga de hidrocarburos comenzaban inmediatamente después del raíl de entrada en el pk 266,178 y terminaban en el punto de detención del tren en el pk 266,800. Como consecuencia de la fuga de hidrocarburos, se produjo una catástrofe ecológica y una amenaza para el medio ambiente en el lugar de la reserva natural Děhylovský potok – Štěpán.
+La rotura del cardán de los accesorios de tracción, n.º 442-17200-113-7, se inició en el punto de fijación del contrapeso mediante una soldadura puntual. Este método de fijación del contrapeso tuvo como consecuencia la alteración térmica y el cambio de plasticidad del material del cuerpo tubular del cardán en los puntos de las soldaduras puntuales, la aparición de grietas por fatiga y, en última instancia, la rotura del eje y la producción del suceso ferroviario.
 ## 4.2
 ### Análisis
-### 4.2.1 Evaluación de los hechos constatados según el punto 3 y exposición de las conclusiones sobre la causa del suceso ferroviario y la actuación de los servicios de emergencia
-El transportista, en relación con lo dispuesto en la norma interna ČD V1, art. 405, y en el § 34 apartado 1 letra a) y f) del decreto n.º 173/1995 Sb., en el sentido del § 35 apartado 1 letra a) de la ley n.º 266/1994 Sb., no prestó el servicio ferroviario de acuerdo con las normas de explotación del ferrocarril, al utilizar para la circulación del tren Os 3442 el HDV 843.021-7 con grietas por fatiga en el cuerpo del tubo del cardán de los accesorios auxiliares, n.º 442-17200-113-7, del motor de combustión «A». Las grietas por fatiga se produjeron en el punto de fijación de los contrapesos mediante soldaduras por puntos.
+### 4.2.1 Evaluación de los hechos constatados de acuerdo con el punto 3 y exposición de las conclusiones sobre la causa del suceso ferroviario y la actuación de los servicios de emergencia
+El transportista, en relación con lo dispuesto en la norma interna ČD V1, art. 405, y en el § 34 apartado 1 letra a) y f) del decreto n.º 173/1995 Sb., en el sentido del § 35 apartado 1 letra a) de la ley n.º 266/1994 Sb., no prestó el servicio ferroviario de acuerdo con las normas de explotación del ferrocarril, al utilizar para la circulación del tren Os 3442 el HDV 843.021-7 con grietas por fatiga en el cuerpo tubular del cardán de los accesorios de tracción, n.º 442-17200-113-7, del motor de combustión «A». Las grietas por fatiga se produjeron en el punto de fijación de los contrapesos mediante soldaduras puntuales.
 
 ## Página 30
+
 
  El HDV 843.021-7, en el sentido del § 43 apartado 1 de la ley n.º 266/1994 Sb., por su construcción y su estado técnico, no cumplía los requisitos de seguridad del transporte ferroviario, del personal de servicio y de las personas y mercancías transportadas, al estar los contrapesos del cardán de los accesorios auxiliares, n.º 442-17200-113-7, fijados al cuerpo del tubo del cardán mediante soldaduras por puntos. Estas afectaron negativamente a la calidad del material del cuerpo del tubo del cardán, cuando el endurecimiento intensivo en la zona de sobrecalentamiento, con un pronunciado gradiente estructural y de resistencia hacia las capas posteriores de la zona afectada, condujo a una disminución de la plasticidad y a un aumento de la sensibilidad a la entalla a lo largo de la circunferencia de los cordones de soldadura, lo que causó la aparición de grietas por fatiga.
 El método de fijación por puntos del contrapeso al cuerpo del tubo del cardán fue elegido por el proveedor (fabricante) del cardán, n.º 442-17200-113-7, la empresa ML Tuning, spol. s r. o., porque la TP MSV 74/95 con los suplementos n.º 1 y 2 y la documentación técnica de la serie de HDV 843, según los cuales fue aprobado el HDV 843.021-7, no regulan de ningún modo el método de fijación de los contrapesos
@@ -804,6 +830,7 @@ deseada del entorno del eje, incluida la salida fuera de la envolvente del HDV, 
 
 ## Página 31
 
+
 ### 4.3.3 Causas derivadas del marco normativo y del uso del sistema de garantía de la seguridad
 Las causas derivadas del marco normativo y del uso del sistema de garantía de la seguridad no fueron detectadas por la DI.
 ## 4.4
@@ -820,8 +847,8 @@ La Inspección Ferroviaria, como autoridad administrativa competente en la mater
 – proteger los árboles de transmisión y los árboles cardánicos de las vías ferroviarias en uso mediante abrazaderas de seguridad o jaulas contra la dañina afectación del entorno de los árboles, de modo que ninguna parte suelta del árbol en rotación descontrolada sobrepase el perfil del vehículo, no ponga en peligro la seguridad de las personas y el funcionamiento seguro de las construcciones e instalaciones, ni amenace al medio ambiente;
 – hasta que se protejan los mencionados árboles de transmisión y árboles cardánicos mediante abrazaderas de seguridad o jaulas contra la dañina afectación del entorno de los árboles en caso de soltarse el árbol o una parte del mismo, incluir en el contenido obligatorio del mantenimiento periódico de los vehículos ferroviarios (atención operativa e inspecciones periódicas) la verificación del cuerpo del tubo de dichos árboles cardánicos y de transmisión, realizando con fines preventivos una verificación única del cuerpo del tubo de los árboles cardánicos y de transmisión en todas las locomotoras de tracción consideradas en el plazo más breve posible.
 
-
 ## Página 32
+
 
 De conformidad con lo dispuesto en el anexo núm. 7 de la Orden núm. 376/2006 Sb., la Inspección Ferroviaria recomienda a la Autoridad Ferroviaria la adopción de una medida propia encaminada a garantizar la realización de la recomendación de seguridad mencionada anteriormente también en otros operadores de transporte ferroviario que utilicen, al prestar el servicio de transporte ferroviario, los vehículos ferroviarios considerados y en su aprobación.
 En Ostrava, a 20. 04. 2012
@@ -832,16 +859,16 @@ Director
 De la Inspección Territorial de Ostrava
 De la Inspección Territorial de Ostrava
 
-
 ## Página 33
+
 
 ## 7 ANEXOS
 Fig. núm. 5: Vista general de los DV calcinados en el lugar de parada del tren
 Os 3442 en el km 266,800
 Fig. núm. 6: Lugar de origen del SF km 265,960
 
-
 ## Página 34
+
 
 Fig. núm. 7: Detalle de la rotura del cuerpo del tubo del árbol cardánico
 Fig. núm. 8: Depósito de combustible dañado de la locomotora de tracción 843.021-7

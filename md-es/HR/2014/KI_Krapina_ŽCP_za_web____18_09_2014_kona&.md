@@ -12,8 +12,8 @@ tokens_in: 24217
 tokens_out: 16102
 fecha_proceso: 2026-11-19
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-verificacion: revisar
-avisos: ["página 8: ratio 1.93", "página 22: ratio 2.00"]
+verificacion: ok
+notas_cifras: ["página 4: original bilingüe: se compara contra el idioma principal (HR)", "página 8: original bilingüe: se compara contra el idioma principal (HR)", "página 20: cifras largas: 1/6", "página 22: original bilingüe: se compara contra el idioma principal (PL); ratio 2.13"]
 ---
 
 ## Página 1
@@ -202,33 +202,39 @@ RP1/15 El gestor de la infraestructura, HŽ Infrastruktura Ltd., debería instal
 
 ## Página 8
 
-CORRECCIÓN OBLIGATORIA: falló ratio 1.83. Traduce el fragmento completo, sin omitir ninguna línea, tabla ni cifra.
-
----FRAGMENTO---
-
-
-### 3. DECISIÓN DE INICIAR LA INVESTIGACIÓN
-AIN recibió la denuncia del accidente en el paso a nivel ferroviario-carretero (ŽCP) de Krapina por vía telefónica y, posteriormente, por correo electrónico por parte del despachador principal del Administrador de la Infraestructura. Sobre la base de la información recopilada, se decidió que los investigadores de AIN se desplazaran al lugar del suceso. Tras la inspección ocular, el Investigador Jefe de Accidentes Ferroviarios adoptó la decisión de iniciar la investigación. La decisión de iniciar la investigación del presente accidente se adoptó sobre la base de la Ley sobre la seguridad y la interoperabilidad del sistema ferroviario (Narodne novine número: 82/13), artículo 110, apartado 2, y de la Directiva 2004/49/CE del Parlamento Europeo y del Consejo (Directiva sobre la seguridad ferroviaria).
+### 3. DECISIÓN SOBRE LA APERTURA DE LA INVESTIGACIÓN
+AIN recibió el aviso del accidente en el PCF de Krapina por teléfono y posteriormente por correo electrónico por parte del jefe de despacho del Gestor de la infraestructura. Sobre la base de la información recopilada, se decidió que los investigadores de AIN acudirían al lugar de los hechos. Tras la inspección realizada, el Jefe de Investigación de Accidentes Ferroviarios adoptó la decisión de aperturar la investigación. La decisión de aperturar la investigación del accidente en cuestión se adoptó en virtud de la Ley sobre seguridad e interoperabilidad del sistema ferroviario (Narodne novine número: 82/13), artículo 110, apartado 2, y de la Directiva 2004/49/CE del Parlamento Europeo y del Consejo (Directiva sobre seguridad ferroviaria).
 ### 4. ÁMBITO DE LA INVESTIGACIÓN
-AIN determinó el alcance de la investigación del presente accidente para garantizar que se recopilaran y examinaran la información relevante para la realización de la investigación, como sigue:
-- Determinar la secuencia de los acontecimientos,
-- Determinar la causa y los factores contributivos de la causa,
-- Examinar los elementos pertinentes del sistema de seguridad,
-- Examinar todas las demás características del sistema de seguridad.
+AIN determinó el alcance de la investigación del accidente en cuestión a fin de garantizar que se recopilen y examinen las informaciones pertinentes para la realización de la investigación, como sigue:
+- 
+Determinar la secuencia de los hechos,
+- 
+Determinar la causa y los factores contribuyentes de la causa,
+- 
+Examen de los elementos relevantes del sistema de seguridad,
+- 
+Examen de todas las demás características del sistema de seguridad.
 ### 5. FUENTES DE DATOS
-- Inspección ocular realizada por los investigadores de AIN,
-- Entrevista con el conductor del vehículo motorizado de mercancías,
-- Información proporcionada por el propietario del vehículo motorizado de mercancías,
-- Inspección ocular de la Estación de la Policía de Tráfico de Krapina y conversaciones informativas con los participantes y testigos,
-- Información obtenida del Administrador de la Infraestructura y del transportista ferroviario,
-- Leyes y reglamentos aplicables al presente suceso,
-- Observaciones sobre la primera edición del borrador del informe final.
+- 
+Inspección de los investigadores de AIN,
+- 
+Entrevista con el conductor del vehículo motor de carga,
+- 
+Información del propietario del vehículo motor de carga,
+- 
+Inspección de la Estación de Policía de Tráfico de Krapina y entrevistas informativas con los participantes y testigos
+- 
+Información facilitada por el Gestor de la infraestructura y el transportista ferroviario,
+- 
+Leyes y normativas aplicables a este suceso,
+- 
+Observaciones sobre la primera edición del borrador del informe final.
 ### 6. DATOS DEL SUCESO
 ## 6.1.
 ### Descripción del suceso
-El 18 de septiembre de 2014, a las 13:15 horas, en la línea R-106 Zabok-Đurmanec-Frontera Estatal, en el paso a nivel ferroviario-carretero (ŽCP) situado en el centro de la ciudad de Krapina, se produjo la colisión de un tren de viajeros con un vehículo motorizado de mercancías que transportaba mercancías peligrosas. El ŽCP está situado en la intersección de la calle Bregovita y la calle Ivan Rendić, en el punto kilométrico 016+730 de la línea, y está protegido mediante señales de tráfico así como señales luminosas y acústicas para el paso de los trenes. El tráfico en la intersección de la calle Bregovita y la calle Ivan Rendić se gestiona mediante semáforos. El vehículo motorizado de mercancías transportaba ácido nítrico y ácido fosfórico, hidróxido de sodio y detergentes.
-La colisión se produjo cuando el vehículo motorizado de mercancías cruzaba la vía mientras estaba activada la señal de aproximación de un tren, y en el semáforo junto al ŽCP se encontraba encendida la señal de prohibición de cruzar la vía (flecha roja como luz adicional en el semáforo). El tren procedía de la dirección de Đurmanec hacia la estación de Krapina, y el vehículo motorizado de mercancías giraba a la izquierda en el ŽCP desde la calle Ivan Rendić hacia la calle Bregovita, lo que provocó que el tren impactara contra el lado derecho del vehículo motorizado de mercancías.
-Inmediatamente antes de la colisión, la atención del conductor del camión estaba centrada en la compleja situación de tráfico en la propia intersección (cruce con un autobús procedente de la calle Bregovita).
+El día 18.9.2014 a las 13:15 horas, en la línea R-106 Zabok-Đurmanec-Frontera del Estado, en el paso a nivel ferroviario (PCF) del centro de la ciudad de Krapina, se produjo la colisión de un tren de pasajeros con un vehículo motor de carga que transportaba mercancías peligrosas. El PCF se sitúa en la intersección de la calle Bregovite y la calle Ivana Rendića, en el punto kilométrico 016+730 de la línea, y está protegido con señales de tráfico y con señales luminosas y sonoras para el paso de trenes. El tráfico en la intersección de Bregovite y la calle Ivana Rendića estaba regulado por semáforos. El vehículo motor de carga transportaba ácido nítrico y ácido fosfórico, hidróxido de sodio y detergentes.
+La colisión se produjo cuando el vehículo motor de carga cruzaba la línea mientras estaba activada la señal de aproximación de un tren, y en el semáforo situado junto al PCF estaba encendida la señal de prohibición de girar a través de la línea (flecha roja como luz adicional en el semáforo). El tren se aproximaba desde la dirección de Đurmanec hacia la estación de Krapina, y el vehículo motor de carga giraba a la izquierda en el PCF desde la calle Ivana Rendića hacia Bregovite, por lo que se produjo el impacto del tren en el lado derecho del vehículo motor de carga.
+Inmediatamente antes de la propia colisión, la atención del conductor del camión estaba centrada en la compleja situación de tráfico en la propia intersección (cruce con un autobús procedente de la dirección de la calle Bregovite).
 
 ## Página 9
 
@@ -480,8 +486,8 @@ Imagen 9. Acceso al ŽCP en el cruce de las calles Ivana Rendića y Bregovita pr
 
 ## Página 22
 
-### Imagen 10. Acceso al PCSE en el cruce de las calles Ivan Rendić y Bregovita (Fuente AIN). 
-### Imagen 11 – Señalización luminosa en el PCSE mencionado (Fuente AIN).
+### Figura 10. Acceso al PAF en la intersección de las calles Ivana Rendića y Bregovita (Fuente AIN). 
+### Figura 11 – Señalización luminosa en el PAF en cuestión (Fuente AIN).
 
 ## Página 23
 

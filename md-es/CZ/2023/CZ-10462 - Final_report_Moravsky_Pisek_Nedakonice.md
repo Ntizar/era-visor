@@ -10,13 +10,14 @@ chars: 103009
 ratio_longitud: 1.24
 tokens_in: 48102
 tokens_out: 33602
-verificacion: revisar
-notas_cifras: ["bloque 4: original bilingüe: se compara contra el idioma principal (CS)", "bloque 7: cifras cortas: 3/89"]
-avisos: ["bloque 4: ratio 1.71"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 5: original bilingüe: se compara contra el idioma principal (CS)", "página 6: original bilingüe: se compara contra el idioma principal (CS)", "página 9: original bilingüe: se compara contra el idioma principal (CS)", "página 10: original bilingüe: se compara contra el idioma principal (CS)", "página 13: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -39,13 +40,13 @@ IČ: 75009561
 mail@dicr.cz
 tel.: +420 736 521 003
 
-
 ## Página 2
+
 
 Este informe final es público y todos los hechos en él expuestos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ### 1 RESUMEN
 Fuente: Drážní inspekce
@@ -70,8 +71,8 @@ No se ha identificado ningún factor contribuyente por parte de la Drážní ins
 No se ha identificado ninguna causa sistémica por parte de la Drážní inspekce.
 No se ha emitido ninguna recomendación de seguridad por parte de la Drážní inspekce.
 
-
 ## Página 4
+
 
 ### SUMMARY
 16th October 2023, 17:17 (15:17 GMT).
@@ -100,8 +101,8 @@ Factor sistémico:
 ninguno.
 Recomendación: no emitida.
 
-
 ## Página 5
+
 
 # Índice
 1 RESUMEN......................................................................................................................3
@@ -143,8 +144,8 @@ SUMMARY.........................................................................
 4.2 Vehículos ferroviarios e instalaciones técnicas......................................................33
 4.2.1 Factores o consecuencias derivados del diseño de los vehículos ferroviarios, de la infraestructura ferroviaria o de las instalaciones técnicas............................33
 
-
 ## Página 6
+
 
 4.2.2 Factores o consecuencias derivados de la instalación y puesta en servicio de los vehículos ferroviarios, de la infraestructura ferroviaria o de las instalaciones técnicas.............................................................................................................33
 4.2.3 Factores o consecuencias relacionados con los fabricantes de vehículos ferroviarios u otros proveedores de productos ferroviarios........................................33
@@ -174,6 +175,7 @@ SUMMARY.........................................................................
 ANEXOS............................................................................................................................38
 
 ## Página 7
+
 
 ### Lista de siglas y símbolos utilizados
 COP
@@ -227,8 +229,8 @@ vehículos ferroviarios sobre raíles
 žst.
 estación de ferrocarril
 
-
 ## Página 8
+
 
 ### Lista de siglas de la legislación, normas y normativa interna utilizadas
 ley n.º 266/1994 Sb.
@@ -250,8 +252,8 @@ medida del operador de transporte ferroviario ČD «Medida del director O18 n.º
 Hoja de proceso V-20
 hoja de proceso del operador de transporte ferroviario ČD «ČD KC 13 Reglamento de transporte de pasajeros – Hoja de proceso de transporte de pasajeros V-20 Incorporación al turno y actividades relacionadas con la conducción del tren V-20», en la versión vigente en el momento de la ocurrencia de la ocurrencia extraordinaria
 
-
 ## Página 9
+
 
 ### 2 INVESTIGACIÓN Y SUS RELACIONES
 ### 2.1 Decisión de iniciar la investigación
@@ -285,8 +287,8 @@ declaraciones de las personas implicadas;
 •
 participación en la inspección comisionada del DV implicado.
 
-
 ## Página 10
+
 
 ### 2.8 Descripción de las dificultades y problemas concretos surgidos durante la investigación
 Durante la investigación de la MU no surgieron dificultades ni problemas que influyeran en el desarrollo de la investigación o en sus conclusiones.
@@ -316,8 +318,8 @@ El lugar de la MU se encontraba en el ferrocarril, nacional, según las tablas d
 El tren Nex 45066 se detuvo en la 2. TK con el frente en el pk 128,207, es decir, 474 m más allá del lugar de ocurrencia de la MU.
 El tren Os 4219 se detuvo hasta la 1. SK en la estación Nedakonice, con el frente en el pk 132,013.
 
-
 ## Página 11
+
 
 ## Lugar de la MU
 Fig. n.º 1: Esquema del lugar de ocurrencia de la MU
@@ -330,8 +332,8 @@ dadas las circunstancias constatadas del siniestro en el lugar de la MU, carecí
 Estado de la instalación de seguridad:
 En el tramo entre estaciones Moravský Písek – Nedakonice estaba instalada la TZZ de 3.ª categoría – bloque automático electrónico bidireccional de tres señales ABE-1 con transmisión del código del freno automático de tren al HDV en ambos sentidos. El tramo entre estaciones en cuestión estaba dividido en
 
-
 ## Página 12
+
 
 5 secciones de trazado. La libertad de circulación en el tramo entre estaciones se controlaba mediante circuitos de vía. La TZZ, en el momento de la ocurrencia de la MU, en estado sin averías, garantizaba la circulación de ambos trenes implicados y, dadas las circunstancias del siniestro, no fue necesario examinar su funcionamiento con mayor detalle.
 Estado del material rodante ferroviario:
@@ -363,6 +365,7 @@ el HDV estaba equipado en ambos lados con una cámara orientada hacia la cola de
 en el lado izquierdo del vagón Bdmtee275 CZ-ČD 50 54 22-44 169-9 (en adelante también solo vagón 44 169-9) entre las primeras y segundas puertas de acceso se encontraron en la carrocería y en las ventanas trazas biológicas – manchas y salpicaduras de sangre. Además, en el vagón indicado se inspeccionó el espacio de la puerta de acceso 1L con el fin de verificar el correcto funcionamiento del mecanismo de cierre, apertura y bloqueo de las puertas – no se detectaron averías (las puertas y el espacio de la tecnología de su mando fueron precintados por la DI en el lugar de la MU para una posterior comprobación comisionada más detallada). Además, se realizó una inspección centrada en el estado de los escalones de acceso, pasamanos, pictogramas y señalización de las puertas – sin
 
 ## Página 13
+
 
 defectos. El vehículo estaba equipado con la función de bloqueo de puertas en marcha a una velocidad superior a aprox. 
 5 km.h-1. 
@@ -407,58 +410,59 @@ El propietario de la vía ferroviaria, categoría de ámbito nacional, Přerov �
 El derecho a administrar los bienes del Estado lo ejercía SŽ, con domicilio en Dlážděná 1003/7, Praha 1, 
 CP 110 00, que era asimismo la explotadora de esta vía.
 
-
 ## Página 14
 
-El transportista del tren Os 4219 era ČD, con domicilio en Nábřeží L. Svobody 1222, Praha 1, CP 
+El operador del tren Os 4219 fue ČD, con domicilio en Nábřeží L. Svobody 1222, Praha 1, PSČ 
 110 15.
-El transportista del tren Nex 45066 era RCC CZ, con domicilio en Žerotínova 1132/34, Praha 3, CP 
+El operador del tren Nex 45066 fue RCC CZ, con domicilio en Žerotínova 1132/34, Praha 3, PSČ 
 130 00.
-El transporte ferroviario era explotado por el transportista ČD en virtud del contrato de explotación 
-del transporte ferroviario en la vía de ámbito nacional y en las vías regionales celebrado el 29. 9. 2022 entre 
-el explotador de la vía SŽ y el transportista ČD y publicado en el registro de contratos el 30. 9. 2022.
-El transporte ferroviario era explotado por el transportista RCC CZ en virtud del contrato de explotación 
-del transporte ferroviario en la vía de ámbito nacional y en las vías regionales celebrado el 20. 7. 2022 entre 
-el explotador de la vía SŽ y el transportista RCC CZ y publicado en el registro de contratos el 25. 7. 
+El transporte ferroviario fue explotado por el operador ČD en virtud del contrato de explotación 
+de transporte ferroviario en la red ferroviaria de ámbito estatal y en las líneas regionales 
+celebrado el 29. 9. 2022 entre el gestor de la infraestructura SŽ y el operador ČD y publicado 
+en el registro de contratos el 30. 9. 2022.
+El transporte ferroviario fue explotado por el operador RCC CZ en virtud del contrato de explotación 
+de transporte ferroviario en la red ferroviaria de ámbito estatal y en las líneas regionales 
+celebrado el 20. 7. 2022 entre el gestor de la infraestructura SŽ y el operador RCC CZ y publicado 
+en el registro de contratos el 25. 7. 
 2022.
-### 3.1.7 Descripción de los vehículos ferroviarios y de sus composiciones, incluidos los números de registro
+### 3.1.7 Descripción de los vehículos ferroviarios y sus composiciones, incluidos los números de registro
 ### Tren Os 4219:
-| Tren: | Os4219 | Composición del tren: |  | Modo defrenado: |
+| Tren: | Os4219 | Composición del tren: |  | Modo de frenado: |
 | Longitud del tren (m): | 94 | Locomotora: | 91547362033 3 - | P |
-| Número de ejes: | 16 | Coches de viajeros (tras la locomotora): |  |  |
+| Número de ejes: | 16 | Coches de pasajeros (tras la locomotora): |  |  |
 | Peso (t): | 231 | 1 . | 505422442861 - - | R |
 | Porcentaje de frenado necesario (%): | 98 | 2 . | 505422441699 - - | R |
-| Porcentaje de frenado real (%): | 98 | Coche de mando: | 505480300258 - - | R |
+| Porcentaje de frenado real (%): | 98 | Vehículo de mando: | 505480300258 - - | R |
 | Porcentaje de frenado ausente (%): | 0 |  |  |  |
-| Velocidad máxima permitida del tren en el lugar del MU (km.h-1): | 140 |  |  |  |
+| Velocidad máxima permitida del tren en el punto MU (km .h-1): | 140 |  |  |  |
 | Modo de frenado: | I . |  |  |  |
-Nota sobre el tren Os 4219:
+Notas sobre el tren Os 4219:
 •
-el tren estaba compuesto por la locomotora al frente del tren, dos coches de transporte de viajeros en 
-el centro del tren y un coche de mando al final del tren;
+el tren estaba compuesto por la locomotora en cabeza, dos coches de transporte de pasajeros en 
+el centro del tren y un vehículo de mando al final del tren;
 •
-el titular de todos los vehículos ferroviarios era ČD;
+el titular de todos los DV era ČD;
 •
-la locomotora estaba equipada con un dispositivo que permitía la parada remota de emergencia del tren 
-en la red TRS (SRD). El dispositivo, en caso de activación, garantizaba la 
-liberación de aire a través de la válvula de seguridad del freno automático de tren y, por tanto, la 
-aplicación del frenado de acción rápida. En la red GSM-R CZ, tras recibir la orden «STOP», comenzaría a 
-reproducirse en la cabina del maquinista una señal acústica de aviso para detener el vehículo, 
-no se produciría la parada automática del vehículo ferroviario.
-La locomotora 362 033-3 estaba, en el momento de la producción del MU, equipada con un dispositivo de 
-registro automático de datos – el registrador electrónico de velocidad UniControl-Tramex, 
-número de serie 2122.
+la locomotora estaba equipada con un dispositivo que permitía la parada remota de emergencia del 
+tren en la red TRS (SRD). El dispositivo, en caso de activación, garantizaba la liberación de aire 
+a través de la válvula de seguridad del freno automático del tren y, por tanto, la aplicación del 
+frenado de acción rápida. En la red GSM-R CZ, tras recibir la orden «STOP», comenzaría a reproducirse 
+en la cabina del maquinista una señal acústica de parada del vehículo, no se produciría la parada 
+automática del DV.
+La locomotora 362 033-3 estaba, en el momento de producirse el MU, equipada con un dispositivo de 
+registro automático de datos: registrador electrónico de velocidad UniControl-Tramex, número de 
+serie 2122.
 De los datos registrados se desprende:
 •
 17:15:13 h
 el tren se detuvo en la parada Moravský Písek zastávka;
 •
 17:15:59 h
-salida del tren de la parada Moravský Písek zastávka, en un trayecto de 1381 m 
+salida del tren de la parada Moravský Písek zastávka, en la vía 1381 m 
 durante 69 s aumento progresivo de la velocidad hasta 120 km.h-1;
 
-
 ## Página 15
+
 
 •
 la cabeza del tren a una velocidad de 77 km.h-1 cruzó el paso a nivel P8158;
@@ -510,10 +514,10 @@ el titular de la locomotora era ÖBB, el titular de los vagones de paredes altas
 la locomotora estaba equipada con una estación de radio MESA 23-03 que permitía la comunicación en las redes TRS 
 y GSM-R CZ, que sin embargo, por su conexión, no admitía la funcionalidad 
 GSM-R STOP y no permitía, ante una orden remota de parada del tren en la red GSM-R CZ, 
-la parada automática del vehículo ferroviario. 
-
+la parada automática del vehículo ferroviario.
 
 ## Página 16
+
 
 La locomotora 1293 036-0 estaba, en el momento de la producción del MU, equipada con un dispositivo de 
 registro automático de datos del fabricante Alstom – tipo TRU PO 66392000, número de serie RU-1810038. 
@@ -556,54 +560,32 @@ un funcionamiento normal y su estado técnico no guardaba relación causal con l
 La comunicación radio básica estaba garantizada en todo el tramo de la vía por el sistema GSM-R CZ.
 Fig. n.º 2: Vista de la vía en el lugar del MU durante el día                       Fuente: DI
 
-
 ## Página 17
 
-### 3.1.9 Cualquier otra información relevante a efectos de la descripción del suceso y de la información básica
-Resumen de las explicaciones prestadas por los empleados del explotador de la vía y del transportista, incluidas las personas 
-en relación contractual:
+### 3.1.9 Cualquier otra información relevante para los fines de la descripción del suceso y de la información básica
+Resumen de las explicaciones facilitadas por los empleados del gestor de la vía y del transportista, incluidas las personas con relación contractual:
 •
 maquinista del tren Os 4219
   – Acta con el empleado:
-◦el 16. 10. 2023 condujo el tren Os 4219. Antes de entrar en la estación de Nedakonice le llamó 
-el jefe de tren para decirle que alguien había caído del tren tras la parada Moravský Písek zastávka;
-◦comprendió la información comunicada en el sentido de que la persona permanecía en el espacio de la parada, por 
-lo que no inició el frenado de acción rápida;
-◦tras detenerse en la estación de Nedakonice, fue a inspeccionar el convoy, cuando en el segundo 
-y tercer coche encontró restos de tejidos humanos;
-◦la producción del MU fue comunicada por el jefe de tren del tren Os 4219 al CDP Přerov;
-◦antes de la salida del tren de la parada Moravský Písek zastávka, todas las puertas 
-orientadas hacia el andén estaban cerradas y no señalizaban ninguna avería. Las puertas inoperativas 
-del vehículo ferroviario 50 54 80 - 300 25 - 8 (nota DI: últimas puertas del último [coche de mando] 
-a la derecha en el sentido de circulación) estaban cerradas con llave y señalizadas con 
-pegatinas informativas.
+◦el 16 de octubre de 2023 condujo el tren Os 4219. Antes de entrar en la estación de Nedakonice, le llamó el jefe de tren para informarle de que alguien había caído del tren detrás de la parada Moravský Písek zastávka;
+◦entendió la información comunicada en el sentido de que la persona permanecía en el ámbito de la parada, por lo que no inició frenado de emergencia;
+◦tras detenerse en la estación de Nedakonice, fue a inspeccionar el tren, cuando en el segundo y el tercer coche encontró restos de tejidos humanos;
+◦del suceso informó al jefe de tren del tren Os 4219 en el CDP Přerov;
+◦antes de la salida del tren de la parada Moravský Písek zastávka, todas las puertas orientadas hacia el andén estaban cerradas y no señalizaban ninguna avería. Las puertas no funcionales DV 50 54 80 - 300 25 - 8 (nota DI: las últimas puertas del último [de mando] coche a la derecha en el sentido de la marcha) estaban cerradas con llave y señalizadas con etiquetas informativas.
 •
 jefe de tren del tren Os 4219
   – Acta con el empleado: 
-◦el 16. 10. 2023 acompañó el tren Os 4219, en el momento de la producción del MU realizaba la revisión 
-de los títulos de transporte;
-◦se enteró de la producción del MU por un pasajero, que le dijo que en el segundo coche tras la 
-locomotora, en el lado hacia la vía, había visto a un hombre que se agarraba al pasamanos interior de 
-las puertas. En ese momento ya se aproximaban a Nedakonice;
-◦la salida de la parada Moravský Písek zastávka se produjo de la siguiente manera: tras la comprobación 
-del validador de billetes del IDS JMK, realizó las actividades relacionadas con la salida del tren, 
-subió al coche de mando, el maquinista cerró las puertas de forma centralizada y luego el tren 
-arrancó. Tras el arranque del tren, volvió junto a la pasajera, que antes le había pedido que le 
-informara de la conexión a Olomouce;
-◦a continuación, pasó a otro coche, donde hacia él vino corriendo un pasajero que 
-le informó de un hombre atrapado en las puertas de entrada. En base a esta información 
-informó inmediatamente por teléfono al maquinista del tren;
-◦tras la detención del tren en la estación de Nedakonice, el maquinista fue a comprobar la situación. 
-Comprobó la suciedad del coche con sangre, pero el cuerpo no se encontraba en ningún sitio;
-◦informó por teléfono al CDP Přerov y, a continuación, al despachante de ČD en Brno. 
-El maquinista informó por teléfono a la PČR;
-◦el trayecto desde la parada Moravský Písek zastávka hasta Nedakonice dura aprox. 4 minutos. 
-En el convoy había aprox. 30 pasajeros, que transbordaron al transporte 
-de autobús de sustitución;
-◦lamenta el suceso producido, pero si el pasajero sube por el otro lado, no tiene 
-posibilidad de comprobarlo ni de adoptar medidas para evitar el peligro inminente.
+◦el 16 de octubre de 2023 acompañó el tren Os 4219, en el momento del suceso realizaba la revisión de los títulos de transporte;
+◦del suceso se enteró por un pasajero que le dijo que en el segundo coche detrás del HDV, en el lado de la vía, había visto a un hombre que se agarraba al pasamanos interior de la puerta. En ese momento ya se aproximaban a Nedakonice;
+◦la salida de la parada Moravský Písek zastávka se produjo de la siguiente manera: tras la comprobación del validador de billetes IDS JMK, realizó las actividades relacionadas con la salida del tren, subió al coche de mando, el maquinista cerró las puertas de forma centralizada y a continuación el tren se puso en marcha. Una vez en marcha el tren, volvió junto a la pasajera que previamente le había preguntado por la conexión a Olomouc;
+◦a continuación pasó al siguiente coche, donde salió corriendo hacia él un pasajero que le informó de un hombre atrapado en las puertas de acceso. Con base en esta información, informó inmediatamente por teléfono al maquinista del tren;
+◦tras la detención del tren en la estación de Nedakonice, el maquinista fue a comprobar la situación. Detectó la suciedad del coche con sangre, pero el cuerpo no se encontraba en ningún lugar;
+◦informó por teléfono al CDP Přerov y, a continuación, al despachador de ČD en Brno. El maquinista informó por teléfono a la PČR;
+◦el trayecto desde la parada Moravský Písek zastávka hasta Nedakonice dura unos 4 minutos. En el tren había unos 30 pasajeros, que transbordaron al transporte alternativo por autobús;
+◦el suceso ocurrido le apena, pero si el pasajero accede por el otro lado, no tiene posibilidad de detectarlo y adoptar medidas para evitar el peligro inminente.
 
 ## Página 18
+
 
 •
 jefe de tren del tren Os 4219
@@ -621,184 +603,144 @@ jefe de tren del tren Os 4219
 ◦a continuación esperaron la llegada de los órganos de investigación. Los pasajeros que deseaban continuar desde Nedakonice se trasladaron a un autobús de sustitución. Al pasajero – testigo presencial – le pidió que permaneciera en el lugar hasta la llegación de los investigadores, pero como durante unos 50 – 60 minutos no llegó nadie, el pasajero le dejó su contacto y sus datos personales y abandonó el lugar;
 ◦a la llegada de los órganos de investigación les entregó los datos de contacto del testigo pasajero en el tren y estuvo plenamente a su disposición para prestar su colaboración. La prueba de
 
-
 ## Página 19
 
-alcoholemia realizada por los miembros de la PČR a él y al maquinista del tren de pasajeros arrojó un resultado «negativo»;
-◦en la estación de Nedakonice preguntó también a los demás pasajeros si alguno de ellos había notado algo, pero supuestamente nadie vio nada. Además, preguntó al maquinista si tenía activada en la pantalla del panel de control la visualización de la cámara montada en el HDV y orientada hacia la vía (nota del DI: en el lado izquierdo en el sentido de la marcha), a lo que el maquinista le respondió que tenía activada en la pantalla la visualización de la cámara orientada hacia el andén (nota del DI: en el lado derecho en el sentido de la marcha).
+prueba realizada por miembros de la PČR con él y el maquinista del tren de pasajeros, con resultado "negativo";
+◦en la estación de Nedakonice preguntó también a otros pasajeros si alguno de ellos había notado algo, pero supuestamente nadie vio nada. Además preguntó al maquinista si tenía activada en la pantalla del panel de control la visualización de la cámara montada en la HDV y orientada hacia la vía (nota DI: en el lado izquierdo en el sentido de la marcha), a lo que el maquinista respondió que tenía activada en la pantalla la visualización de la cámara orientada hacia el andén (nota DI: en el lado derecho en el sentido de la marcha).
 •
 maquinista del tren Nex 45066
   – Acta con el empleado:
-◦el 16. 10. 2023 a las 14:00 h se incorporó al turno planificado en Břeclav. Se sentía sano y descansado;
-◦tras la inspección del HDV y la realización de todas las maniobras necesarias para la salida del tren, a las 16:47 h partió de la estación de Břeclav con el tren 45066. La visibilidad era la correspondiente a la época del año y a la hora de la tarde tardía;
-◦la circulación transcurrió sin complicaciones. En la señal de salida de la estación de Moravský Písek lucía la señal «Volno a rychlost 80 km/h» (Vía libre y velocidad 80 km/h). En cuanto el tren entró en vía abierta y el último vehículo superó el perímetro de los desvíos adyacentes a la señal de salida de la estación de Moravský Písek, comenzó a aumentar lentamente la velocidad del tren;
-◦entre el 1.º y el 2.º TK reparó de pronto algo indeterminado e inusual, cuando un obstáculo invadía parcialmente la vía por la que circulaba. Inició de inmediato la frenada de acción rápida del tren y, simultáneamente, daba la señal «Pozor» (Atención) con la bocina de la locomotora;
+◦el 16. 10. 2023 a las 14:00 h incorporó el turno planificado en Břeclav. Se sentía sano y descansado;
+◦tras la inspección de la HDV y la realización de todas las operaciones necesarias para la salida del tren, a las 16:47 h partió de la estación de Břeclav con el tren 45066. La visibilidad era la correspondiente a la época del año y a la hora de la tarde;
+◦la marcha transcurrió sin complicaciones. En la señal de salida de la estación de Moravský Písek se mostraba la señal "Vía libre y velocidad 80 km/h". En cuanto el tren entró en la vía abierta y el último vehículo pasó el conjunto de agujas adyacente a la señal de salida de la estación de Moravský Písek, comenzó a aumentar lentamente la velocidad del tren;
+◦entre el 1.º y el 2.º TK notó de pronto algo indefinido y extraño, cuando el obstáculo invadía parcialmente la vía por la que circulaba. Inmediatamente inició el frenado de acción rápida del tren y simultáneamente dio la señal "Atención" con la bocina de la locomotora;
 ◦percibió un ligero golpe. Tras la detención del tren, contactó con el jefe de estación de CDP Přerov y con el despachador de RCC CZ con el fin de informarles de la situación surgida;
-◦tras asegurar el tren contra la salida no autorizada y la entrada de personas no autorizadas, fue al lugar de la colisión en el km aprox. 127,8. Allí encontró en la vía a una persona cuyas lesiones, lamentablemente, no eran compatibles con la vida;
-◦tras regresar al HDV, volvió a comunicarse con el jefe de estación de CDP Přerov, le comunicó la aparición de un MU y aguardó la llegación de los servicios de IZS.
+◦tras asegurar el tren contra la salida no autorizada y la entrada de personas no autorizadas, se dirigió al lugar de la colisión en el km aprox. 127,8. Allí encontró en la vía a una persona cuyas lesiones, lamentablemente, no eran compatibles con la vida;
+◦tras regresar a la HDV, volvió a comunicarse con el jefe de estación de CDP Přerov, le comunicó la aparición de MU y esperó la llegada de IZS.
 •
 maquinista del tren Nex 45066
   – Registro oficial de declaración prestada ante la PČR:
-◦el 16. 10. 2023 a las 16:47 h salió con el tren 45066 de Břeclav a Bohumín-Vrbice sin paradas planificadas;
+◦el 16. 10. 2023 a las 16:47 h salió con el tren 45066 de Břeclav hacia Bohumín-Vrbice sin paradas planificadas;
 ◦alrededor de las 17:15 h pasaba con el tren por la parada de Moravský Písek, cuando un poco antes circulaba en el mismo sentido por la vía contigua el tren de pasajeros 4219. Según el plan, este tren de pasajeros debía ser adelantado en la siguiente estación de Nedakonice;
-◦tras salir de la parada de Moravský Písek, el tren aceleró a una velocidad de aprox. 80 – 90 km.h-1, cuando en un largo tramo recto de la vía veía por delante el tren de pasajeros a una distancia no determinada con precisión;
-◦unos 400 m después de pasar la parada reparó a una distancia de aprox. 500 m algún obstáculo en la vía en el punto que ya había sido superado por el tren de circulación previa;
-◦inició de inmediato la frenada de acción rápida y la señal acústica de aviso (nota del DI: señal «Pozor» dada con la bocina de la locomotora);
-
+◦tras salir de la parada de Moravský Písek, el tren aceleró a una velocidad de aprox. 80 – 90 km.h-1, cuando en un largo tramo recto de la vía vio por delante un tren de pasajeros a una distancia no determinada;
+◦unos 400 m después de pasar la parada, a una distancia de aprox. 500 m notó algún obstáculo en la vía en el punto que ya había pasado el tren de circulación previa;
+◦inmediatamente inició el frenado de acción rápida y la señal acústica de aviso (nota DI: señal "Atención" dada con la bocina de la locomotora);
 
 ## Página 20
 
-◦al acercarse al obstáculo a una distancia de aprox. 200 m distinguió en la vía la silueta de un cuerpo humano, que no reaccionó de ninguna manera a la frenada y a la bocina y permanecía inmóvil en la vía;
-◦debido a la velocidad y a la masa de la composición del tren, a pesar de la frenada de acción rápida iniciada, el tren no logró detenerse a tiempo y recorrió unos 300 m desde el punto de colisión hasta su detención;
-◦tras la detención del tren, informó inmediatamente, conforme a las normas, al jefe de estación de la aparición de un MU (nota del DI: despachador de CDP Přerov);
-◦a continuación abandonó de inmediato el HDV y fue al lugar de la colisión, donde descubrió el cadáver de un hombre sin signos de vida;
-◦a continuación informó telefónicamente al despacho y solicitó la salida de los servicios de IZS;
-◦en las inmediaciones del lugar del MU no vio a ninguna otra persona; desconoce cómo llegó el cuerpo sin vida a la vía férrea.
-Resumen de las declaraciones prestadas por otros testigos:
+◦al acercarse al obstáculo a una distancia de aproximadamente 200 m en la vía, reconoció la silueta de un cuerpo humano, que no reaccionaba de ninguna manera a la frenada ni a la bocina y seguía inmóvil en la vía;
+◦debido a la velocidad y al peso de la composición del tren, incluso con la frenada rápida aplicada, el tren no logró detenerse a tiempo y, desde el punto de impacto hasta su detención, recorrió unos 300 m;
+◦tras la detención del tren, de conformidad con las normas, informó inmediatamente al jefe de estación sobre la aparición de un MU (nota DI: del despachador del CDP Přerov);
+◦a continuación, abandonó de inmediato la HDV y se dirigió al punto de impacto, donde encontró el cadáver de un hombre sin signos de vida;
+◦posteriormente, informó por teléfono al despacho y solicitó el envío de los servicios del IZS;
+◦en las inmediaciones del lugar del MU no vio a ninguna otra persona; desconoce cómo llegó el cuerpo muerto a la vía férrea.
+
+Resumen de las explicaciones prestadas por otros testigos:
+
 •
 testigo, pasajero del tren Os 4219
-  – Registro de la declaración prestada ante el DI:
-◦trabaja en la localidad de Moravská Nová Ves, para lo que utiliza el transporte ferroviario en sus desplazamientos al/de trabajo;
-◦el 16. 10. 2023 alrededor de las 16:45 h subió al tren de pasajeros con dirección a Uherské Hradiště. Se sentó en el vagón intermedio, en el primer compartimento en el sentido de la marcha, a la derecha del pasillo;
-◦poco después de salir de Moravská Nová Ves cerró los ojos y descansó. En algún punto detrás de la parada de Moravský Písek le despertó un sonido repetitivo (clic) de las puertas que se cerraban, que provenía del pasillo desde las puertas de acceso. Tras un rato no lo soportó más y fue al pasillo a ver qué causaba ese clic;
-◦cuando llegó al pasillo, se fijó primero en las puertas adyacentes al andén, es decir, en las puertas derechas en el sentido de la marcha. Estaban correctamente cerradas. Por eso se giró y vio que las puertas opuestas, en el lado de la vía, estaban entreabiertas. Abajo, justo encima de los escalones interiores de acceso, vio una mano humana atrapada en las puertas de acceso, que se agarraba al pasamanos interior del vehículo. A través de la separación entre las puertas, del ancho de un antebrazo, en el exterior del vagón, vio a una persona que estaba en cuclillas en los escalones exteriores de acceso, con una mano agarrada al pasamanos interior del vagón y con la otra intentando abrir las puertas. Sin embargo, no lo conseguía;
-◦de inmediato empezó a pensar en cómo ayudar a la persona. Primero miró por la ventana de las puertas del compartimento si allí estaba el revisor, al que quería llamar. Cuando no lo divisó, comenzó a buscar el freno de emergencia. Miró a su alrededor en el pasillo, pero allí, lamentablemente, no había freno de emergencia. Por eso se disponía a entrar en el compartimento, pero cuando volvió a mirar hacia las puertas de acceso, ya solo vio cómo la mano soltaba el pasamanos, la persona desapareció y las puertas se cerraron. A continuación fue en busca del revisor para comunicarle lo que había ocurrido;
-◦cuando lo encontró, le informó del suceso y este llamó inmediatamente al maquinista. Mientras tanto, el tren se detuvo en la estación de Nedakonice, donde permaneció detenido. Allí reparó que en la caja del vagón intermedio había rastros de sangre. El revisor le pidió que
-
+  – Registro de la explicación prestada ante el DI:
+◦trabaja en la localidad de Moravská Nová Ves, para lo cual utiliza el transporte ferroviario en sus desplazamientos al trabajo y de vuelta;
+◦el 16 de octubre de 2023, sobre las 16:45 h, subió al tren de pasajeros con dirección a Uherské Hradiště. Se sentó en el coche intermedio, en el primer compartimento en el sentido de la marcha, a la derecha del pasillo;
+◦poco después de salir de Moravská Nová Ves cerró los ojos y descansó. En algún punto, después de la parada Moravský Písek, un sonido repetitivo (clic) de las puertas que se cerraban, procedente del pasillo junto a las puertas de acceso, le despertó. Tras un rato no lo soportó más y fue al pasillo a ver qué causaba ese clic;
+◦cuando llegó al pasillo, se fijó primero en las puertas contiguas al andén, es decir, en las puertas derechas en el sentido de la marcha. Estaban correctamente cerradas. Por lo tanto, se giró y vio que las puertas opuestas, en el lado de la vía, estaban entreabiertas. Abajo, justo encima de los escalones interiores de acceso, vio una mano humana atrapada en las puertas de acceso, que se agarraba al pasamanos de acceso en el interior del vehículo. A través de la separación entre las puertas, del ancho de un antebrazo, en el exterior del coche, vio a una persona que estaba en cuclillos en los escalones exteriores de acceso, con una mano agarrada al pasamanos de acceso en el interior del coche y con la otra intentando abrir las puertas. Sin embargo, no lo conseguía;
+◦de inmediato empezó a pensar en cómo ayudar a la persona. Primero miró por la ventana de las puertas del compartimento para ver si allí estaba el revisor, a quien quería llamar. Al no verlo, comenzó a buscar la frenada de emergencia. Miró a su alrededor en el pasillo, pero, lamentablemente, allí no había frenada de emergencia. Por lo tanto, se disponía a entrar en el compartimento, pero cuando volvió a mirar hacia las puertas de acceso, solo alcanzó a ver cómo la mano soltaba el pasamanos, la persona desapareció y las puertas se cerraron. Acto seguido, fue a buscar al revisor para contarle lo que había ocurrido;
+◦cuando lo encontró, le informó del suceso y este llamó inmediatamente al maquinista. Mientras tanto, el tren se detuvo en la estación de Nedakonice, donde permaneció detenido. Allí se percató de que en la caja del coche intermedio había rastros de sangre. El revisor le pidió que
 
 ## Página 21
 
-permaneciera en el lugar hasta que llegaran los equipos de investigación, pero como durante unos 45 minutos no llegó nadie, continuó su viaje a casa en el siguiente tren. Al revisor en el lugar le dejó sus datos personales y su teléfono de contacto. Posteriormente, efectivamente, alguien de los equipos de investigación le llamó por teléfono, pero ya no recuerda con exactitud de quién se trataba.
+setrval en el lugar hasta que llegaran los equipos de investigación, pero como durante unos 45 minutos nadie llegó, continuó en el siguiente tren de vuelta a casa. Dejó sus datos personales y su teléfono de contacto al revisor en el lugar. Posteriormente, alguien de los equipos de investigación le llamó realmente por teléfono, pero ya no recuerda exactamente de quién se trataba.
 •
-testigo, despachador director del área 2A de CDP Přerov
+testigo, jefe de despacho de la zona 2A CDP Přerov
   – Acta con el empleado:
-◦el 16. 10. 2023 a las 6:50 h se incorporó al turno diurno en CDP Přerov como despachador director del área 2A. Al incorporarse estaba descansado y sin ningún tipo de problemas;
-◦el maquinista del tren Nex 45066 le comunicó una colisión con un objeto desconocido que yacía en la vía, habiendo visto probablemente ropa. El maquinista le comunicó además que el tren se había detenido de forma rápida y que iba a ir a ver el lugar de la colisión;
-◦acto seguido llamó el jefe de tren del tren Os 4219, que detrás de la parada de Moravský Písek había oído golpes bajo el tren y uno de los pasajeros le había comunicado que había visto saltar del tren a un hombre en dirección a la vía;
-◦con base en esta información detuvo la circulación en la vía y comunicó el MU conforme al esquema de notificación.
-El espacio en el lugar del MU no estaba monitorizado por un sistema de videovigilancia con grabación.
-Transcripción de la comunicación maquinista del tren Nex 45066 – despachador director del área 2A de CDP Přerov:
-| Iniciodela conversación:16 10 2023 17:18:00h Duracióndelagr abación:1m10s . . , |  |
-| Contenidodela transcripción:desdeelcomienzodelagr abaciónlosprimeros42s . |  |
-| Despachador2A | CDPPřerov ilegible , . |
-| maquinista | Saludos en el kilómetro 1278 aprox; había algo inidentificable tendido en una vía entre , eltrenpasajerosyoyopaséporallí No sé qué era pero había allí alguna ropa si había alguien . , , , , no lo sé Porlotantofrenédeacciónrápidayahoravoyallíaver . . |
+◦el 16. 10. 2023 a las 6:50 h entró en el turno diurno en CDP Přerov como jefe de despacho de la zona 2A. Al entrar estaba descansado y sin ningún problema;
+◦el maquinista del tren Nex 45066 le comunicó una colisión con un objeto desconocido que yacía en la vía, y probablemente vio ropa. El maquinista le comunicó además que el tren había frenado de forma rápida y que iba a ir a ver el lugar de la colisión;
+◦inmediatamente después llamó el jefe de tren del tren Os 4219, que tras la parada Moravský Písek había oído golpes bajo el tren y uno de los pasajeros le habría comunicado que vio saltar del tren a un hombre en dirección a la vía;
+◦con base en esta información, detuvo la circulación en la línea y notificó la MU según el horario de notificación.
+El espacio en el lugar de la MU no estaba monitorizado por un sistema de cámaras con grabación.
+Transcripción de la comunicación maquinista del tren Nex 45066 – jefe de despacho de la zona 2A CDP Přerov:
+| IniciodelaLlamada:16 10 2023 17:18:00h Duracióndelagrabación:1m10s . . , |  |
+| Contenidodelatranscripción:delprincipiodelagrabaciónlosprimeros42s . |  |
+| Despachador2A | CDPPřerov ininteligible , . |
+| maquinista | Saludos del kilómetro 1278 aprox; había algo inidentificable tendido en un raíl entre , el de pasajerosyyonomehepasadoporél No sé qué era pero había alguna ropa por ahí si alguien . , , , , estuvoNo sé AsíquefrenérápidoyahoravoyallíaMirar . . |
 | despachador2A | ¿Quékilómetroporfavor? |
 | maquinista | Aprox1278 , . |
-| despachador2A | 1278 Deacuerdo , . . |
-| maquinista | Sí sí Estoyaquíenrealidadenlasegundavía , . . |
-| despachador2A | Enlasegundavíaestásyvasallíaver . |
+| despachador2A | 1278 Bien , . . |
+| maquinista | Sí sí Estoyaquíenrealidadenelraíldedirección , . . |
+| despachador2A | EnelraíldedirecciónestásyvasallíaMirar . |
 | maquinista | Sí sí , . |
 | despachador2A | ... |
-| Tabl a 1: Transcripción de parte de la comunicación maquinista del tren Nex 45066 despachador director del área 2A de CDP Přerov . . – . |
-Transcripción de la comunicación maquinista del tren Os 4219 – despachador director del área 2A de CDP Přerov:
-| Iniciodela conversación:16 10 2023 17:21:03h Duracióndelagr abación:24s . . , |  |
-| Contenidodela transcripción:laenteragr abación |  |
+| Tablach 1: Transcripción de parte de la comunicación maquinista del tren Nex 45066 jefe de despacho de la zona 2A CDP Přerov . . – . |
+Transcripción de la comunicación maquinista del tren Os 4219 – jefe de despacho de la zona 2A CDP Přerov:
+| IniciodelaLlamada:16 10 2023 17:21:03h Duracióndelagrabación:24s . . , |  |
+| Contenidodelatranscripción:lagrabacióncompleta |  |
 | Despachador2A | Sí CDP , . |
-| maquinista | Mm saludos 4219 Aquíestamosresolviendoalgúntipoque aparentementesaltóalasalidadeltren asípuedes , , . , , quizásdarlelaautorizacióndesalidadeNedakonice . |
+| maquinista | Hmm saludos 4219 Aquíestamosresolviendoalgúntipoqueprácticamentesaltódelvueloentren asípueden , , . , , quitarelhorariodeSalidaDeNedakonice . |
 
 ## Página 22
 
-| dispečer2A | Sí, sí, colega, ahora mismo hablaba con el jefe de tren, sí, lo está resolviendo también, sí, , , , , , , . |
-| strojvedoucí | Sí, luego si hace falta te llamo para ver cómo va, , , . |
-| dispečer2A | Mm, de acuerdo, , . |
-| strojvedoucí | Sí, gracias, , . |
-Tab. č. 2: Transcripción de la comunicación entre el maquinista del tren Os 4219 – el despachador jefe de la zona 2A CDP Přerov.
+| dispecher2A | Sí, sí, compañero, ahora mismo hablaba con el jefe de tren, sí, lo está resolviendo también, sí, , , , , , , . |
+| maquinista | Sí, luego si hace falta te llamo para ver cómo queda, , . |
+| dispecher2A | Mm, de acuerdo, . |
+| maquinista | Sí, gracias, . |
+Tab. n.º 2: Transcripción de la comunicación entre el maquinista del tren Os 4219 – el despachador director de la zona 2A CDP Přerov. 
 ### 3.2 Descripción fáctica del suceso
-### 3.2.1 Secuencia de hechos que condujeron al suceso extraordinario
-El tren de transporte de viajeros Os 4219 circulaba desde la est. Břeclav hasta la est. Přerov. En el tramo entre la est.
-Moravský Písek y la est. Nedakonice circulaba por la 1. TK y a las 17:15 h se detuvo en el espacio
-destinado al embarque y desembarque de viajeros de la parada Moravský Písek zastávka (p.k. 126,320
-– 126,488). Allí, el jefe de tren que acompañaba al tren realizó la comprobación del validador de billetes IDS
-JMK y, tras realizar las maniobras establecidas para la salida del tren en la normativa interna del operador, el
-tren se puso en marcha en dirección a la est. Nedakonice.
-En el momento justo antes o incluso después de la puesta en marcha del tren desde la parada Moravský Písek zastávka
-con mayor probabilidad se produjo, sin que la dotación del tren lo advirtiera, la salida no autorizada
-de un viajero por las primeras puertas del coche 44 169-9 situadas en el lado izquierdo en
-dirección de marcha del tren (es decir, en el lado contrario al que se encontraba el andén de la parada). Al mismo tiempo
-se produjo la atrapamiento del antebrazo de la mano del viajero que salía, que se agarraba al pasamanos en medio de
-los escalones, en las puertas batientes de dos hojas del citado coche, permaneciendo el resto del cuerpo
-del viajero fuera del vehículo ferroviario. Tras abandonar la parada, el tren Os 4219 en la vía 1381
-m aumentó su velocidad de forma continua hasta 120 km.h-1, cuando tras recorrer unos 1370 m se produjo a una
-velocidad de 119 km.h-1 la liberación de la mano del viajero de las puertas de embarque. El viajero, debido a la
-resistencia del aire que aumentaba con la creciente velocidad del tren en marcha, en el escalón exterior
-de dichas puertas no pudo mantenerse y, por la fuerza de las corrientes de aire, fue arrojado contra la caja del coche, por la que
-su cuerpo se deslizó hacia abajo y cayó a la vía, donde quedó tendido sin vida en el
-gálibo de paso de la 2. TK. Allí, tras transcurrir unos 32 s, se produjo el choque del tren que pasaba Nex 45066
-con el cuerpo tendido, al que su maquinista, por la muy corta distancia desde la visión del
-obstáculo, no pudo impedir con la frenada de emergencia establecida (detalles véase cap. 4.1.7
-de esta ZZ).
-### 3.2.2 Secuencia de hechos desde la producción del suceso extraordinario hasta la finalización de las acciones de los servicios de
-rescate
+### 3.2.1 Secuencia de hechos que condujeron al suceso excepcional
+El tren de transporte de viajeros Os 4219 circulaba desde la est. de Břeclav hasta la est. de Přerov. En el tramo entre la est. de Moravský Písek y la est. de Nedakonice circulaba por la 1.ª vía y a las 17:15 h se detuvo en el espacio destinado al embarque y desembarque de viajeros de la parada Moravský Písek zastávka (p.k. 126,320 – 126,488). Allí, el jefe de tren que acompañaba al tren realizó la comprobación del validador de billetes IDS JMK y, tras ejecutar las gestiones establecidas para la salida del tren en la instrucción interna del operador, el tren se puso en marcha en dirección a la est. de Nedakonice.
+En el momento justo antes de la salida del tren de la parada Moravský Písek zastávka o ya durante la misma, con la mayor probabilidad se produjo, sin que la dotación del tren lo advirtiera, la salida no autorizada de un viajero por las primeras puertas del coche 44 169-9 situadas en el lado izquierdo en el sentido de circulación del tren (es decir, en el lado opuesto al que se encontraba el andén de la parada). Al mismo tiempo, se produjo el atrapamiento del antebrazo de la mano del viajero que salía, el cual se agarraba al pasamanos en medio de los escalones, en las puertas batientes de dos hojas mencionadas del coche, permaneciendo el resto del cuerpo del viajero fuera del vehículo ferroviario. Tras abandonar la parada, el tren Os 4219 en la vía 1381 aumentó de forma continua la velocidad hasta 120 km.h-1, cuando, tras recorrer unos 1370 m, a una velocidad de 119 km.h-1 se produjo la liberación de la mano del viajero de las puertas de embarque. El viajero, debido a la resistencia del aire que aumentaba con la creciente velocidad del tren en circulación, no se mantuvo en el escalón exterior de dichas puertas y, por la fuerza de las corrientes de aire, fue arrojado contra la caja del coche, por la que su cuerpo se deslizó hacia abajo y cayó a la vía, donde quedó tendido sin vida en el gálibo de circulación de la 2.ª vía. Allí, tras transcurrir unos 32 s, se produjo la colisión del tren en paso Nex 45066 con el cuerpo tendido, al cual su maquinista, por la muy corta distancia desde la visibilidad del obstáculo, no pudo impedir pese a la aplicación del frenado de acción rápida (para más detalles, véase el cap. 4.1.7 de la presente ZZ).
+### 3.2.2 Secuencia de hechos desde la producción del suceso excepcional hasta la finalización de las actuaciones de los servicios de emergencia
 •
-17:18 h el maquinista del tren Nex 45066 comunicó al despachador jefe de la zona 2A CDP
-Přerov la probable producción de un SE;
+17:18 h el maquinista del tren Nex 45066 comunicó al despachador director del tramo 2A CDP Přerov la probable producción de un SE;
 •
-17:19 h el jefe de tren del tren Os 4219 comunicó al despachador jefe de la zona 2A CDP
-Přerov la producción de un SE;
+17:19 h el jefe de tren del tren Os 4219 comunicó al despachador director del tramo 2A CDP Přerov la producción de un SE;
 •
-17:21 h el maquinista del tren Os 4219 comunicó al despachador jefe de la zona 2A CDP
-Přerov que tras el SE el tren está detenido en la est. Nedakonice;
+17:21 h el maquinista del tren Os 4219 comunicó al despachador director del tramo 2A CDP Přerov que, tras el SE, el tren se encontraba detenido en la est. de Nedakonice;
 •
-17:23 h el despachador jefe de la zona 2A CDP Přerov comunicó la producción de un SE al despachador
-jefe de CDP Přerov;
-
+17:23 h el despachador director del tramo 2A CDP Přerov comunicó la producción de un SE al despachador director de CDP Přerov;
 
 ## Página 23
 
 •
-17:25 h el despachador jefe de la zona 2A CDP Přerov comunicó la producción de un SE al HZS SŽ;
+17:25 h el despachador jefe de la sección 2A CDP Přerov comunicó la creación de la MU al HZS SŽ;
 •
-17:30 h el despachador jefe de la zona 2A CDP Přerov comunicó la producción de un SE al servicio de
-guardia de accidentes de SŽ;
+17:30 h el despachador jefe de la sección 2A CDP Přerov comunicó la creación de la MU al estado de emergencia por accidente de SŽ;
 •
-17:32 h el despachador jefe de la zona 2A CDP Přerov comunicó la producción de un SE al puesto de
-despacho de ZZS;
+17:32 h el despachador jefe de la sección 2A CDP Přerov comunicó la creación de la MU al puesto de despacho del ZZS;
 •
-17:33 h el despachador jefe de la zona 2A CDP Přerov comunicó la producción de un SE a PČR;
+17:33 h el despachador jefe de la sección 2A CDP Přerov comunicó la creación de la MU a la PČR;
 •
-17:41 h la persona autorizada O18 de SŽ comunicó la producción de un SE como choque de un tren con una persona en
-COP DI, concedido el permiso para la liberación de la vía;
+17:41 h la persona autorizada O18 de SŽ comunicó la creación de la MU como colisión de un tren con una persona en el COP DI, concediéndose el permiso para liberar la vía;
 •
-18:16 h la persona autorizada O18 de SŽ notificó en COP DI el cambio del hecho del accidente
-del SE como caída de un viajero de un tren en marcha, el inspector de COP DI
-retiró el permiso para la liberación de la vía;
+18:16 h la persona autorizada O18 de SŽ comunicó en el COP DI el cambio del suceso del accidente de la MU como caída de un pasajero de un tren en marcha, retirando el inspector del COP DI el permiso para liberar la vía;
 •
-18:47 h precisión del hecho del accidente del SE por la persona autorizada O18 de SŽ, información
-a la persona autorizada sobre la salida de los inspectores de DI;
+18:47 h precisión del suceso del accidente de la MU por la persona autorizada O18 de SŽ, información a la persona autorizada sobre la salida de los inspectores de DI;
 •
-18:52 h salida de los inspectores de DI al lugar del SE;
+18:52 h salida de los inspectores de DI al lugar de la MU;
 •
-20:55 h llegada de los inspectores de DI al lugar de producción del SE, iniciada la inspección del lugar del SE;
+20:55 h llegada de los inspectores de DI al lugar de la creación de la MU, iniciándose la inspección del lugar de la MU;
 •
-21:25 h el inspector de DI presente concedió el permiso para la liberación de la vía y el inicio de
-los trabajos de despeje para la 2. TK;
+21:25 h el inspector de DI presente concedió el permiso para liberar la vía y comenzar los trabajos de limpieza para la 2. TK;
 •
-22:08 h el inspector de DI presente concedió el permiso para la liberación de la vía y el inicio de
-los trabajos de despeje para la 1. TK;
+22:08 h el inspector de DI presente concedió el permiso para liberar la vía y comenzar los trabajos de limpieza para la 1. TK;
 •
-22:15 h restablecimiento completo de la circulación por ambas TK.
-El Plan IZS fue activado en función de la naturaleza del SE. El Plan IZS fue activado a las 17:32 h, es decir, 15 min
-tras la producción del SE, por el despachador jefe 2A CDP Přerov.
-En el lugar del SE intervinieron los siguientes componentes del IZS:
+22:15 h restablecimiento completo de la circulación en ambas TK.
+El Plan IZS fue activado en función del carácter de la MU. El Plan IZS fue activado a las 17:32 h, es decir, 15 min después de la creación de la MU, por el despachador jefe 2A CDP Přerov.
+En el lugar de la MU intervinieron los siguientes componentes del IZS:
 •
-PČR, Dirección Regional del Kraje del Sur de Moravia, Departamento Territorial de Hodonín;
+PČR, Dirección Regional del Kraje de Moravia del Sur, Departamento Territorial de Hodonín;
 •
-ZZS del Kraje del Sur de Moravia, Departamento Territorial de Hodonín;
+ZZS del Kraje de Moravia del Sur, Departamento Territorial de Hodonín;
 •
 HZS SŽ, Departamento Territorial de Přerov;
 •
-HZS del Kraje del Sur de Moravia, Departamento Territorial de Hodonín.
+HZS del Kraje de Moravia del Sur, Departamento Territorial de Hodonín.
 ### 4 ANÁLISIS DEL SUCESO
-### 4.1 Funciones y obligaciones
-### 4.1.1 Operadores de transporte y gestores de infraestructura
-El gestor de la infraestructura está, en el sentido de lo dispuesto en el § 22 apart. 1 letra a) de la ley núm. 266/1994 Sb.,
-obligado a explotar la infraestructura para las necesidades del transporte ferroviario fluido y seguro
-según las normas de explotación de la infraestructura y la autorización administrativa. Las normas de explotación de la infraestructura, según el apart. 5
-de la citada disposición de la ley, las establece el reglamento de ejecución, que es el decreto
-núm. 173/1995 Sb.
-
+### 4.1 Tareas y obligaciones
+### 4.1.1 Transportistas y gestores de vías
+El gestor de la vía está obligado, en el sentido de lo dispuesto en el § 22 apartado 1 letra a) de la Ley núm. 266/1994 Sb., a explotar la vía para las necesidades del transporte ferroviario fluido y seguro de acuerdo con las normas de explotación de la vía y la autorización administrativa. Las normas de explotación de la vía, de acuerdo con el apartado 5 de la citada disposición de la Ley, las establece el reglamento de aplicación, que es la Resolución núm. 173/1995 Sb.
 
 ## Página 24
+
 
 Según la disposición del § 2 apart. 1 del decreto núm. 173/1995 Sb., «Las normas de explotación de la infraestructura
 establecen el modo y las condiciones para
@@ -831,8 +773,8 @@ en relación causal
 ### a las funciones y obligaciones de los operadores de transporte, fuera de relación causal con la producción del SE:
 ### Hallazgos:
 
-
 ## Página 25
+
 
 ### Operador de transporte ČD:
 ### Incumplimiento del procedimiento tecnológico antes de la salida de un tren con transporte de viajeros desde la parada
@@ -880,6 +822,7 @@ al decreto núm. 173/1995 Sb. finalizó a los 18 meses desde su realización, es
 
 ## Página 26
 
+
 2023. Para el vehículo objeto de estudio, la empresa Škoda Pars a.s. realizó en los meses de enero – febrero de 2023 la renovación de conjuntos de amarre (R1), que se concluyó el 6. 2. 2023 con una inspección técnica con el resultado de que el vehículo es apto para el transporte hasta el centro de mantenimiento de origen en régimen de transporte sin pasajeros. Esta última inspección técnica se realizó únicamente en un ámbito limitado, y en el encabezado del acta de su realización se indica expresamente que no se trata de una inspección técnica periódica y que esta solo es válida para el transporte desde Škoda Pars a.s. al centro de mantenimiento correspondiente. En el presente caso, es evidente que no se trata de una inspección técnica completa en el sentido del decreto n.º 173/1995 Sb., no obstante lo cual su fecha se hizo constar en el vehículo como fecha de inspección técnica periódica y el vehículo objeto de estudio fue devuelto de este modo a la explotación del transporte público ferroviario de viajeros.
 •
 § 35 apartado 1 letra a) de la ley n.º 266/1994 Sb.:
@@ -900,8 +843,8 @@ Anexo n.º 5 al decreto n.º 173/1995 Sb.:
 1. Para la vía de ámbito nacional, la vía regional, la vía especial, la vía local y el ramal privado
 1.2.3. Coches de viajeros para transporte internacional con velocidad de hasta 120 km/h inclusive y todos los coches de cuatro ejes para el transporte nacional, incluidos los coches destinados a transportes militares - 18 meses»;
 
-
 ## Página 27
+
 
 •
 parte segunda, cap. I, punto 5 de la norma interna ČD V 25:
@@ -930,8 +873,8 @@ Debe comprobarse:
 42. funcionamiento del lavabo…
 45. estado del dispositivo de paso para el tránsito entre vehículos ferroviarios…»;
 
-
 ## Página 28
+
 
 •
 art. 6 apartado 3 del contrato n.º PDD 9001/22, sobre la explotación del transporte ferroviario en la vía de ámbito nacional y en las vías regionales, ref. n.º: 54587/2022-SŽ-GŘ-05, publicado en el registro de contratos el 30. 9. 2022:
@@ -947,8 +890,8 @@ El transportista está obligado a utilizar, para la explotación en las líneas 
 La ausencia de dotación del DV de medios técnicos para la realización de la orden de parada automática del DV implica la presencia necesaria de un eslabón intermedio (el maquinista) para su parada en caso de amenaza de peligro. Por ejemplo, ante una indisposición médica grave e imprevista del maquinista, no es posible parar el DV (tren) en la red GSM-R CZ. También en los demás casos, la implicación del maquinista en el proceso de parada de emergencia del DV (tren) supone la pérdida de segundos, a menudo valiosos, para evitar consecuencias más graves. El sistema que requiere la implicación de un factor humano adicional (la reacción del maquinista a una llamada de voz para la parada del DV) solo aporta ventaja en la situación en que es conveniente retrasar el efecto de la frenada de emergencia hasta la parada, de manera similar a como se utiliza en el caso del puenteo del freno de emergencia.
 Las especificaciones técnicas de interoperabilidad no exigen dotar al DV de la recepción de la orden de parada general, ya que se trata de la denominada «función complementaria» y la «ampliación nacional» del sistema GSM-R. En el extranjero, en la red GSM-R se utiliza únicamente la denominada llamada de emergencia en grupo
 
-
 ## Página 29
+
 
 (Railway Emergency Call; SKP 299), que garantiza la reproducción de la llamada automática de voz para la parada en el aparato de radio del responsable del DV correspondiente, independientemente de la activación de las funciones complementarias, con las que en la República Checa se utiliza la adición de una orden codificada con la orden para la parada del tren (llamada unidireccional JSM 499). La DI es consciente de que el requisito que se deriva para el sistema GSM-R de la disposición del § 71 apartado 5 letra a) del decreto n.º 173/1995 Sb. no está incluido en las especificaciones técnicas de interoperabilidad, o bien, al ser un requisito de acceso a la infraestructura más allá del TSI, es contrario al principio de interoperabilidad. El decreto n.º 173/1995 Sb. no admite, sin embargo, ninguna excepción, lo cual, en lo que respecta a la seguridad, según la DI, es correcto.
 Los dos HDV implicados en el MU (362 033-3 y 1293 036-0) no estaban dotados de medios técnicos para la realización de la orden de parada automática enviada, en el presente caso tras la activación de la orden «STOP VLAK» con la función «STOP». Dado que desde la ocurrencia del MU hasta la parada de los trenes no fue enviada por el explotante de la vía ninguna orden de parada automática, la constatación anterior no puede valorarse en relación causal con la ocurrencia del MU, ni con su influencia en la magnitud de las consecuencias.
@@ -967,6 +910,7 @@ La autoridad nacional de seguridad es el DÚ, que de acuerdo con la ley n.º 266
 
 ## Página 30
 
+
 comunicar a la DI, en relación con esta recomendación de seguridad, qué medida ha adoptado, dicha comunicación se realiza de forma periódica, al menos una vez al año, hasta la adopción de las medidas correspondientes.
 La función de la Agencia Ferroviaria de la Unión Europea es, además de garantizar, en el marco de sus competencias, que se mantenga la seguridad ferroviaria en general y que, en la medida de lo posible, se aumente de forma continua, entre otras, la emisión, renovación, suspensión y modificación de certificados únicos de seguridad, la limitación de su validez o su anulación, en cuestión en la que coopera con las autoridades nacionales de seguridad; asimismo, emite autorizaciones para la puesta en servicio de vehículos ferroviarios y de tipos de vehículos en el mercado, y está facultada para renovar, modificar, suspender o anular las autorizaciones que haya emitido. La Agencia evalúa asimismo los proyectos de normativa nacional, etc.
 En la investigación no se detectó incumplimiento de las funciones y obligaciones de la autoridad nacional de seguridad ni de la Agencia Ferroviaria de la Unión Europea.
@@ -979,15 +923,14 @@ El comportamiento seguro de los pasajeros en relación con su embarque en el DV,
 Además de los derechos y obligaciones de los pasajeros y de la responsabilidad de los transportistas, en las condiciones generales de transporte contractuales se regulan también las condiciones en las que se produce la celebración válida del contrato de transporte. En el sentido del art. 3 apartado 3 de las CGT del IDS JMK, el contrato de transporte se celebra cuando el pasajero ejerce su derecho al transporte embarcando en el vehículo o en el tren que circula en la línea del IDS JMK. Con la validación adecuada del billete y el embarque en el DV, el pasajero se compromete a cumplir las condiciones del reglamento de transporte, de las condiciones generales de transporte contractuales y de la tarifa del IDS JMK.
 El 16 de octubre de 2023, entre las 16:37 h y las 16:48 h (es decir, en el periodo inmediatamente anterior a la salida del tren Os 4219), la presencia de la persona posteriormente fallecida fue registrada por el sistema de videovigilancia que captaba el interior del edificio de la estación en la est. de Hodonín. A las 16:48 h, esta persona fue captada saliendo del edificio de la estación en dirección al andén n.º 1. En la inspección del lugar del MU, entre los efectos personales de la persona fallecida se encontró un billete sencillo del IDS JMK validado con el código local y horario «8Hodonín A900 161023 16:52», con una validez de 90 minutos / 3 zonas tarifarias desde la validación. El fallecido portaba, por tanto, un billete válido (billete validado antes del inicio del viaje el 16 de octubre de 2023 a las 16:52 h en la est. de Hodonín), lo que demuestra que se trataba de un pasajero regular con un contrato de transporte válidamente celebrado con el transportista.
 
-
 ## Página 31
 
-De la inspección del lugar del MU y de los hechos constatados se desprende que el tren Os 4219 circulaba en el tramo entre la est. de Moravský Písek y la est. de Nedakonice por la 1.ª vía y, a las 17:15 h, se detuvo en el espacio destinado al embarque y desembarque de pasajeros de la parada Moravský Písek zastávka (p.k. 126,320 – 126,488). Allí, el jefe de tren que acompañaba al tren realizó la comprobación del validador de billetes del IDS JMK y, tras ejecutar las maniobras establecidas para la salida del tren en la normativa interna del transportista, embarcó en el coche de mando (colocado en la cola de la composición) y el tren se puso en marcha en dirección a la est. de Nedakonice. De los datos registrados por el registrador de velocidad de la locomotora participante se desprende que el tren permaneció detenido en la parada durante 46 s, es decir, se cumplió el tiempo mínimo establecido en el horario tabular para el embarque y desembarque de pasajeros, con una duración de 30 s.
-Un momento antes o ya después de la puesta en marcha del tren desde la parada Moravský Písek zastávka, en circunstancias no aclaradas con exactitud y sin que la tripulación del tren lo advirtiera, se produjo una tentativa no autorizada de desembarque de un pasajero por las primeras puertas del coche 44 169-9, situadas en el lado izquierdo en el sentido de la marcha del tren (es decir, en el lado opuesto al que se encontraba el andén con el borde de andén a una altura de 550 mm sobre la cabeza del raíl). Del hecho de que se tratara de la última parada de la zona tarifaria para la que el pasajero tenía adquirido un billete válido, puede deducirse que el pasajero efectivamente pretendía desembarcar del tren en esta parada. La razón de su desembarque por el lado alejado del andén (apuro de tiempo, desorientación?), y por tanto de la tentativa de desembarcar en espacios no accesibles al público, no pudo determinarse en la investigación. Sin embargo, allí el desembarque le resultaba probablemente demasiado difícil y peligroso, dada también su edad y la gran distancia del escalón de acceso del coche al lecho de balasto de la vía, no observó tampoco la precaución debida dada la naturaleza del transporte ferroviario y puso así en riesgo su seguridad.
+Del hallazgo del lugar del MU y de los hechos constatados se desprende que el tren Os 4219 circulaba en el tramo entre la est. Moravský Písek y la est. Nedakonice tras la 1. TK y a las 17:15 h se detuvo en el espacio destinado al embarque y desembarque de pasajeros de la parada Moravský Písek zastávka (pk 126,320 – 126,488). Allí, el jefe de tren que acompañaba al tren realizó la comprobación del validador de billetes del IDS JMK y, tras ejecutar las gestiones establecidas para la salida del tren en la normativa interna del operador, subió al coche de mando (colocado en el extremo de la composición) y el tren se puso en marcha en dirección a la est. Nedakonice. De los datos registrados por el registrador de velocidad del HDV participante se desprende que el tren permaneció detenido en la parada durante 46 s, es decir, se cumplió el tiempo mínimo establecido en el horario tabular para el embarque y desembarque de pasajeros, con una duración de 30 s.
+Un momento antes o ya durante la salida del tren de la parada Moravský Písek zastávka, en circunstancias no aclaradas con exactitud y sin que la tripulación del tren lo advirtiera, se produjo una tentativa no autorizada de desembarque de un pasajero por las primeras puertas del coche 44 169-9, situadas en el lado izquierdo en el sentido de marcha del tren (es decir, en el lado opuesto al que se encontraba el andén con el borde de andén a una altura de 550 mm sobre la cabeza del raíl). Del hecho de que se tratara de la última parada de la zona tarifaria para la que el pasajero tenía adquirido un billete válido, puede deducirse que el pasajero efectivamente pretendía descender del tren en esta parada. El motivo de su descenso por el lado alejado del andén (apuro de tiempo, desorientación?) y, por tanto, de la tentativa de descender a espacios no accesibles al público, no pudo determinarse en la investigación. Sin embargo, allí el descenso le resultaba evidentemente, teniendo en cuenta también su edad y la gran distancia del escalón de acceso del coche al lecho de balasto de la vía, demasiado difícil y peligroso, no guardó tampoco la debida precaución derivada de la naturaleza del transporte ferroviario y puso así en peligro su seguridad.
 Fig. n.º 3: Vista del andén de la parada Moravský Písek zastávka durante el día                Fuente: DI
 
-
 ## Página 32
+
 
 Durante el desembarque del pasajero del coche en cuestión, se produjo el cierre de las puertas de acceso de doble hoja, con el consiguiente atrapamiento del antebrazo de su mano entre las hojas de las puertas que se cerraban, permaneciendo el resto del cuerpo del pasajero fuera del coche. Dado que no había presentes testigos del atrapamiento del pasajero en las puertas de acceso y que la composición del tren estaba formada por coches con distintos sistemas de control de las puertas de acceso, no puede determinarse con certeza si el cierre de las mencionadas puertas de acceso (y simultáneamente el atrapamiento de la mano del pasajero que desembarcaba en ellas) se produjo a raíz de la orden de la tripulación del tren de cerrar centralmente las puertas antes de su salida de la parada, o si el tren salía de la parada con las puertas abiertas y la orden de cerrarlas se emitió automáticamente solo al superar la velocidad de aprox. 5 km.h-1 (sistema TB 5).
 Tras abandonar la parada, el tren Os 4219 aceleró de forma progresiva a lo largo de 1381 m hasta alcanzar los 120 km.h-1; el pasajero, mientras tanto, se agarraba con una mano, justo por encima de los escalones interiores de acceso, a la barra de acceso situada en el interior del coche, y permanecía en cuclillas sobre los escalones exteriores de acceso, mientras con la otra mano intentaba abrir las puertas. Sin embargo, no lo conseguía y, tras recorrer aprox. 1370 m, a una velocidad de 119 km.h-1 se produjo la separación de su mano de la barra interior a la que se agarraba y, a continuación, de las puertas de acceso. El pasajero no pudo mantenerse en el escalón exterior de las puertas de acceso debido a la resistencia del aire, que aumentaba con la creciente velocidad del tren en marcha, y fue arrojado por las fuerzas de las corrientes de aire contra la caja del coche (en la que posteriormente se detectaron rastros de sangre), de la que su cuerpo rebotó, cayó sobre la vía y quedó tendido en el gálibo de la 2.ª vía. Allí, tras transcurrir aprox. 32 s, se produjo su colisión con el tren Nex 45066 que circulaba en paralelo, al que su maquinista, debido a la muy corta distancia desde la visualización del obstáculo, no pudo impedir la colisión a pesar de la aplicación inmediata del frenado de emergencia.
@@ -1004,8 +947,8 @@ En la investigación se constató el incumplimiento de normativa jurídica por p
 art. 8 apartado 1 letra a, g) de las CGT del IDS JMK:
 «Embarque y desembarque:
 
-
 ## Página 33
+
 
 a) El pasajero debe encargarse por sí mismo de embarcar y desembarcar a tiempo.
 ...
@@ -1029,6 +972,7 @@ En la investigación no se detectaron factores relacionados con la formación pr
 
 ## Página 34
 
+
 ### 4.3.2 Factores laborales
 En la investigación no se detectaron factores relacionados con el contenido del trabajo o la jornada laboral de los empleados. En la investigación no se constató, en los empleados implicados, el incumplimiento de las condiciones de descanso antes del turno y de los descansos, respectivamente, del tiempo adecuado para el descanso y la alimentación durante el turno.
 ### 4.3.3 Factores organizativos y tareas
@@ -1049,27 +993,24 @@ El sistema de gestión de los sujetos responsables del mantenimiento de los veh�
 ### 4.4.5 Resultados de la supervisión realizada por las autoridades nacionales de seguridad
 Atendiendo a los factores detectados y a las circunstancias del origen de la MIE, la supervisión de la autoridad de seguridad no guarda relación con la MIE en cuestión.
 
-
 ## Página 35
 
-### 4.4.6 Aprobaciones, certificados y dictámenes de evaluación emitidos por la agencia, las autoridades nacionales de seguridad u otros sujetos de evaluación de la conformidad
-El gestor de infraestructura explotaba la infraestructura en virtud de una autorización administrativa vigente y de un certificado de seguridad del gestor de infraestructura. Los operadores ferroviarios explotaban el transporte ferroviario en virtud de una licencia vigente y de un certificado del operador ferroviario.
+### 4.4.6 Aprobación, certificación e informes de evaluación emitidos por la agencia, las autoridades nacionales de seguridad u otros organismos de evaluación de la conformidad
+El gestor de la infraestructura ferroviaria explotaba la infraestructura ferroviaria en virtud de la autorización administrativa vigente y del certificado de seguridad del gestor de la infraestructura ferroviaria. Los transportistas explotaban el transporte ferroviario en virtud de la licencia vigente y del certificado del transportista.
 ### 4.4.7 Otros factores sistémicos
-En la investigación no se detectaron otros factores sistémicos.
+En el curso de la investigación no se detectaron otros factores sistémicos.
 ### 4.5 Sucesos anteriores de naturaleza similar
-La DI investigó, en el período comprendido entre el 1. 1. 2008 y el origen de la MIE en cuestión, en las vías ferroviarias, categoría nacional y regional, un total de 1 MIE análoga, en la que, durante el intento de un pasajero de subir a un vehículo ferroviario de un tren fuera del andén, es decir, desde un lugar no accesible al público, este quedó atrapado en las puertas de entrada del vehículo ferroviario, con lesiones corporales con resultado de muerte:
+El DI investigó, en el periodo comprendido entre el 1 de enero de 2008 y la ocurrencia de la MU objeto de estudio, un total de 1 MU análoga en las infraestructuras ferroviarias, categoría nacional y regional, en la que, durante el intento de un pasajero de subir a un vehículo ferroviario de un tren fuera del andén, es decir, desde un lugar no accesible al público, este quedó atrapado en las puertas de entrada del vehículo ferroviario y sufrió lesiones corporales con resultado de muerte:
 •
-el 23. 12. 2017, en la est. Česká Třebová, se produjo el arrastre de un pasajero atrapado por las puertas del vehículo ferroviario con la salida del tren R 891. La causa inmediata del origen de la MIE fue el intento de un pasajero de subir a un vehículo ferroviario que estaba en movimiento, desde un lugar no accesible al público.
-La DI, en base al resultado de la investigación de la MIE en cuestión, no emitió recomendaciones de seguridad.
-
+el 23 de diciembre de 2017, en la estación de Česká Třebová, se produjo el arrastre de un pasajero atrapado por las puertas del vehículo ferroviario con la partida del tren R 891. La causa inmediata de la MU fue el intento de un pasajero de subir a un vehículo ferroviario que estaba en movimiento, desde un lugar no accesible al público.
+El DI, en función del resultado de la investigación de la MU objeto de estudio, no emitió recomendaciones de seguridad.
 ### 5 CONCLUSIONES
 ### 5.1 Resumen del análisis y conclusiones relativas a las causas del suceso
 La causa inmediata del suceso excepcional fue:
 •
-la salida no autorizada de un pasajero del vehículo ferroviario del tren Os 4219 fuera de los espacios destinados al ascenso y descenso de pasajeros.
-La DI no detectó ningún factor contribuyente.
-La DI no detectó ninguna causa sistémica.
-
+la salida no autorizada de un pasajero del vehículo ferroviario del tren Os 4219 fuera de las zonas destinadas a la entrada y salida de pasajeros.
+No se detectó ningún factor contribuyente por parte del DI.
+No se detectó ninguna causa sistémica por parte del DI.
 ### A summary of the analysis and conclusions with regard to the causes of the occurrence
 Causal factor:
 •
@@ -1078,8 +1019,8 @@ Contributing factor: none.
 Systemic factor:
 none.
 
-
 ## Página 36
+
 
 ### 5.2 Medidas adoptadas para la prevención de sucesos excepcionales
 El gestor de infraestructura SŽ adoptó, tras el origen de la MIE, las siguientes medidas:
@@ -1119,8 +1060,8 @@ failure to record the regular control of the technical condition of the locomoti
 •
 the locomotive of the regional passenger train No. 4219 was not equipped with technical means for the implementation of automatic stop of the rolling stocks.
 
-
 ## Página 37
+
 
 At the railway undertaking RCC CZ:
 •
@@ -1140,16 +1081,16 @@ inspector
 De la Inspección Territorial de Brno
 De la Inspección Territorial de Brno
 
-
 ## Página 38
 
 ### ANEXOS
-Fig. n.º 4: Vista del frente del tren Os 4219 estacionado en la est. Nedakonice                    Fuente: DI
-Fig. n.º 5: Vista desde el andén de la puerta 1L implicada y las trazas de sangre en las ventanas y en la caja del coche de la serie Bdmtee275 del tren Os 4219                                               
+Fig. n.º 4: Vista del frente del tren Os 4219 estacionado en la estación de Nedakonice                    Fuente: DI
+Fig. n.º 5: Vista desde el andén de la puerta 1L en cuestión y rastros de sangre en las ventanas y en la carrocería 
+del coche de la serie Bdmtee275 del tren Os 4219                                               
       Fuente: DI
 
-
 ## Página 39
+
 
 Fig. n.º 6: Vista interior de la puerta 1L y del espacio de acceso del coche de la serie 
 Bdmtee275 del tren Os 4219                                                          Fuente: DI

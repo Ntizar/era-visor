@@ -10,13 +10,14 @@ chars: 162695
 ratio_longitud: 1.28
 tokens_in: 78013
 tokens_out: 58370
-verificacion: revisar
-notas_cifras: ["bloque 1: original bilingüe: se compara contra el idioma principal (EN)", "bloque 2: original bilingüe: se compara contra el idioma principal (CS)", "bloque 3: original bilingüe: se compara contra el idioma principal (CS)", "bloque 4: cifras cortas: 1/266", "bloque 5: original bilingüe: se compara contra el idioma principal (CS)", "bloque 6: cifras cortas: 12/407"]
-avisos: ["bloque 5: ratio 1.73", "bloque 12: ratio 1.71"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (CS)", "página 3: original bilingüe: se compara contra el idioma principal (CS)", "página 6: original bilingüe: se compara contra el idioma principal (CS)", "página 7: original bilingüe: se compara contra el idioma principal (CS)", "página 10: original bilingüe: se compara contra el idioma principal (CS)", "página 11: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -43,13 +44,13 @@ IČ: 75009561
 mail@dicr.cz
 tel.: +420 736 521 003
 
-
 ## Página 2
+
 
 Este informe final es público y todos los hechos en él expuestos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ## 1 RESUMEN
 Fuente: Správa železnic, státní organizace
@@ -82,14 +83,14 @@ Olomouc hl. n. en:
 ◦la comunicación con la persona que controla el tráfico ferroviario en la estación ferroviaria Olomouc hl. n.,
 ◦la actuación tras la detección de circunstancias que ponen en peligro la seguridad durante la maniobra empujada.
 
-
 ## Página 4
+
 
 La Drážní inspekce no ha determinado la causa sistémica.
 La Drážní inspekce no ha emitido ninguna recomendación de seguridad.
 
-
 ## Página 5
+
 
 ## SUMMARY
 21st May 2021, 9:36 (7:36 GMT).
@@ -129,8 +130,8 @@ Systemic factor:
 none.
 Recommendation: not issued.
 
-
 ## Página 6
+
 
 # Índice
 1 RESUMEN........................................................................................................................3
@@ -179,8 +180,8 @@ de riesgos......................................................................
 4.2.1 Factores o consecuencias derivados de la construcción de los vehículos ferroviarios, de la infraestructura
 ferroviaria o de las instalaciones técnicas.....................................................................46
 
-
 ## Página 7
+
 
 4.2.2 Factores o consecuencias derivados de la instalación y puesta en servicio de los vehículos ferroviarios,
 de la infraestructura ferroviaria o de las instalaciones técnicas......................................46
@@ -219,6 +220,7 @@ de seguridad u otras entidades de evaluación de la conformidad.................
 ANEXOS..............................................................................................................................52
 
 ## Página 8
+
 
 ### Lista de abreviaturas y símbolos utilizados
 CDP Přerov
@@ -274,8 +276,8 @@ Servicio de Rescate Sanitario de la Región de Olomouc, organización con aporta
 žst.
 estación ferroviaria
 
-
 ## Página 9
+
 
 ### Lista de abreviaturas de la legislación, normas y disposiciones internas utilizadas
 ley núm. 262/2006 Sb.
@@ -297,8 +299,8 @@ disposición interna del transportista ČD «ČD D 2 Disposición para la explot
 disposición interna ČD V8/I
 disposición interna del transportista ČD «ČD V 8/I Disposición para la explotación y el servicio de los velocímetros», en la redacción vigente en el momento de la ocurrencia de la MU
 
-
 ## Página 10
+
 
 ## 2 INVESTIGACIÓN Y SUS RELACIONES
 ### 2.1 Decisión de iniciar la investigación
@@ -330,8 +332,9 @@ análisis de la documentación solicitada al explotador ferroviario SŽ y al tra
 análisis de los datos registrados por la SZZ de la est. Olomouc hl. n.;
 •
 
-
 ## Página 11
+
+
 inspección del lugar de la MU – de la infraestructura ferroviaria en la est. Olomouc hl. n.;
 •
 análisis de las grabaciones de los sistemas de cámaras instalados en la est. Olomouc hl. n.;
@@ -369,21 +372,20 @@ Coordenadas GPS:
 ### 3.1.3 Descripción del lugar del suceso
 La est. Olomouc hl. n. se encuentra en el km 86,874 de la vía ferroviaria, categoría nacional, Přerov – Česká Třebová, es una estación de enlace para las líneas Krnov (Hanušovice, Šumperk) – Olomouc hl. n., Opava východ – Olomouc hl. n., Kostelec na Hané – Olomouc hl. n. y Olomouc hl. n. – Nezamyslice. La SZZ de Olomouc hl. n. se controla a distancia desde el CDP Přerov.
 
-
 ## Página 12
 
-La est. está, desde el punto de vista del tráfico, dividida en el ámbito de la estación de pasajeros y el ámbito de la estación de mercancías. En el ámbito de la estación de pasajeros se integran, entre otros, la 2.ª y la 3.ª parte del apartadero 6298 «ČD, a.s. - Olomouc» (en adelante, apartadero ČD), concretamente en el extremo de Grygov de la est. en la SK núm. 26 con los inicios de las agujas núm. 33, 34, 41 y 43, y en el extremo norte mediante la aguja núm. 61. Las partes mencionadas del apartadero ČD constituyen la VK núm. 18, 20, 22 y 24.
-Para el ascenso y descenso de pasajeros en la est. Olomouc hl. n. sirven 6 andenes cubiertos en el ámbito de la estación de pasajeros. El andén núm. 4 es un andén isla, situado a lo largo de la SK núm. 6 y núm. 8, cuya longitud es de 250 m. El andén núm. 5 es un andén isla, situado a lo largo de la SK núm. 10 y núm. 12, cuya longitud es de 218 m.
-La colisión de la unidad de maniobras empujada de la 1.ª reserva de maniobras de la est. Olomouc hl. n. (en adelante también solo unidad de maniobras) con el TDV CZ ČD 50 54 21-08 291-6 (en adelante también solo 50 54 21-08 291-6) detenido de la composición del tren Os 3818 se produjo en la SK núm. 8 en el km 86,982. La ruta de circulación (de maniobras) (en adelante solo ruta de maniobras) para la unidad de maniobras empujada estaba establecida en el extremo de Grygov de la est. Olomouc hl. n. desde la SK núm. 4b hasta la SK núm. 8, ocupada por la composición de 3 TDV del tren Os 3818 y por la composición del tren Os 3819, formada por el HDV CZ ČD 91 54 7 163 029-2 (en adelante solo 163.029-2) y 3 TDV. Las composiciones de los trenes Os 3818 y Os 3819 se tocaban mutuamente con el dispositivo de enganche del TDV CZ ČD 50 54 21-08 319-5 (en adelante también solo 50 54 21-08 319-5) y el HDV 163.029-2 (véase más abajo).
-Fig. núm. 1: Esquema del lugar de la ocurrencia de la MU
+La estación se encuentra, desde el punto de vista de la explotación ferroviaria, dividida en el ámbito de la estación de viajeros y el ámbito de la antena. En el ámbito de la estación de viajeros se encuentran, entre otras, la 2.ª y la 3.ª parte del apartadero 6298 «ČD, a.s. - Olomouc» (en adelante, apartadero ČD), y ello en la aguja de Grygov de la estación hacia el SK n.º 26 en los extremos de los desvíos n.º 33, 34, 41 y 43, y en la aguja norte mediante el desvío n.º 61. Las partes anteriormente citadas del apartadero ČD constituyen la VK n.º 18, 20, 22 y 24.
+Para el ascenso y descenso de los viajeros en la estación Olomouc hl. n. sirven 6 andenes cubiertos en el ámbito de la estación de viajeros. El andén n.º 4 es un andén isla, situado a lo largo del SK n.º 6 y n.º 8, cuya longitud es de 250 m. El andén n.º 5 es un andén isla, situado a lo largo del SK n.º 10 y n.º 12, cuya longitud es de 218 m.
+La colisión de la unidad de maniobras empujada de la 1.ª reserva de maniobras de la estación Olomouc hl. n. (también en adelante, unidad de maniobras) con el TDV CZ ČD 50 54 21-08 291-6 (también en adelante, 50 54 21-08 291-6) detenido de la composición procedente del tren Os 3818 se produjo en el SK n.º 8 en el km 86,982. La vía de circulación (de maniobras) (en adelante, vía de maniobras) para la unidad de maniobras empujada se había establecido en la aguja de Grygov de la estación Olomouc hl. n. desde el SK n.º 4b hacia el SK n.º 8, ocupada por la composición de 3 TDV procedente del tren Os 3818 y por la composición del tren Os 3819, formada por el HDV CZ ČD 91 54 7 163 029-2 (en adelante, 163.029-2) y 3 TDV. Las composiciones de los trenes Os 3818 y Os 3819 se encontraban mutuamente con el aparato de enganche del TDV CZ ČD 50 54 21-08 319-5 (también en adelante, 50 54 21-08 319-5) y el HDV 163.029-2 (véase más abajo).
+Fig. n.º 1: Esquema del lugar de origen de la MU
      Fuente: DI
-De la documentación del explotador ferroviario SŽ y del transportista ČD sobre la inspección del lugar de la MU en la est. Olomouc hl. n. se desprende:
+De la documentación del operador de la infraestructura SŽ y del transportista ČD sobre la inspección del lugar de la MU en la estación Olomouc hl. n. se desprende:
 Estado de la infraestructura:
-el perfil de la vía de la SK núm. 8 y 10 no resultó dañado como consecuencia de la ocurrencia de la MU.
+El superestructura del SK n.º 8 y 10 no resultó dañada como consecuencia de la aparición de la MU.
 •
 
-
 ## Página 13
+
 
 Estado de la SZZ de la est. Olomouc hl. n.:
 la señal de clasificación Se34 era de tipo AŽD 70 con dos lámparas, señalizada
@@ -418,6 +420,7 @@ terreno llano, la luz solar estaba en la dirección de circulación de la unidad
 En el lugar de la MU no se realizaron, inmediatamente antes de su ocurrencia, por parte del propietario, del explotador ferroviario ni de otras entidades, ningún tipo de trabajos de reparación o de mantenimiento. El tráfico en el lugar de la MU y sus alrededores se desarrollaba en régimen normal.
 
 ## Página 14
+
 
 ### 3.1.4 Muertos, heridos y daños materiales
 En el MU se produjo un daño personal al jefe de tren (en adelante, jefe de tren) del tren Os 3819 y al maniobrista de la 1.ª reserva de maniobras, que realizó la maniobra de la composición de maniobras.
@@ -468,8 +471,8 @@ maniobrista de la 1.ª reserva de maniobras, empleado de ČD.
 Sujetos implicados:
 El propietario de la infraestructura ferroviaria, categoría estatal, Přerov – Česká Třebová, era la República Checa. El derecho de administrar los bienes del Estado lo ejercía SŽ, con domicilio en Dlážděná 1003/7, Praha 1, PSČ 110 00, que era a la vez gestora de esta infraestructura.
 
-
 ## Página 15
+
 
 El transportista de la composición de maniobras y de los trenes Os 3818 y 3819 era ČD, con domicilio en Nábřeží L. Svobody 1222, Praha 1, PSČ 110 15.
 El transporte ferroviario se prestaba en virtud de un contrato celebrado entre el gestor de la infraestructura SŽ y el transportista ČD el 20. 1. 2020, con efectos desde el 23. 1. 2020.
@@ -496,8 +499,8 @@ De los datos registrados, tras tener en cuenta la corrección de la hora respect
 | • a las 9:33:45 h | a una velocidad de 36 km·h-1, el maquinista, manipulando el mando del freno automático, inició el frenado con el freno automático de aire reduciendo la presión de aire en la tubería principal del valor nominal de 4 975 bar a 4 375 bar. Al mismo tiempo se registró el llenado de los cilindros de freno del HDV (presión > 0 3 bar); |
 | • a las 9:33:57 h | se repuso la presión de aire en la tubería principal hasta el valor nominal de 4 975 bar; |
 
-
 ## Página 16
+
 
 a las 9:34:00 h la composición de maniobras traccionada se detuvo en la SK n.º 4b. 4 s después, el maquinista
 •
@@ -553,8 +556,8 @@ a una distancia de 49 m antes del lugar de la colisión.
 Nota DI: la distancia de frenado de la composición de maniobras empujada desde una velocidad de
 28 km·h-1, con un grado de frenado del freno continuo correspondiente a la reducción
 
-
 ## Página 17
+
 
 de la presión de aire en la tubería principal hasta el valor de 4,575 bar, habría sido de 88 m; con la
 aplicación del frenado de acción rápida habría sido de apenas 17 m;
@@ -608,24 +611,24 @@ el titular de todo el material rodante era ČD;
 
 ## Página 18
 
-En el momento de producirse la MU, los coches TDV de los trenes Os 3818 y Os 3819 estaban acoplados 
+En el momento de producirse la MU, las unidades TDV de los trenes Os 3818 y Os 3819 estaban acopladas
 •
-mediante tornillos y, a través de los acoples de presión conectados y las llaves de acople abiertas, interconectados por la tubería principal y de suministro y el cable eléctrico de la calefacción de tren. El paso entre los distintos TDV se permitía mediante las puertas de paso delanteras entre las gomas de resguardo, a través de los puentes de paso rebajados;
-El HDV 163.029-2 estaba acoplado mediante tornillo con el TDV 50 54 21-08 317-9 
+mediante tornillos y, a través de los acoples de presión conectados y las llaves de acople abiertas, interconectadas por la tubería principal y de suministro y el cable eléctrico de calefacción de tren. El paso entre las distintas TDV se efectuaba mediante las puertas de paso frontales entre las gomas de estanqueidad, a través de los puentes de paso rebatidos;
+el HDV 163.029-2 estaba acoplado mediante tornillo con la TDV 50 54 21-08 317-9
 •
-y, a través de los acoples de presión conectados y las llaves de acople abiertas, interconectado por la tubería principal y de suministro y el cable eléctrico de la calefacción de tren con el TDV del tren Os 3819.
+y, a través de los acoples de presión conectados y las llaves de acople abiertas, interconectado por la tubería principal y de suministro y el cable eléctrico de calefacción de tren con la TDV del tren Os 3819.
 El HDV 163.029-2 estaba, en el momento de producirse la MU, equipado con un dispositivo de registro automático de datos – tipo RE1xx n.º 2092.
 De los datos registrados,
- tras tener en cuenta la corrección del tiempo respecto al tiempo registrado por los ordenadores tecnológicos de la SZZ de la est. Olomouc hl. n., que se estableció como tiempo de referencia para las necesidades de la investigación de la presente MU, y tras redondear los parámetros de tiempo a segundos completos y la velocidad a km·h-1 completos, entre otros, se deduce:
-| • a las 9:28:10 h | el frente del tren Os 3818 pasó a una velocidad de 49 km·h-1 la señal principal (de entrada) (en adelante, señal de entrada) 2L de la est. Olomouc hl. n. y se encontraba a 1 002 m del lugar de parada en la SK n.º 8 . . . , es decir, a la altura del frente del TDV 50 54 21 -08 317 -9 enganchado como . , 1 DV del tren Os 3819; . |
-| • a las 9:28:34 h | el frente del tren Os 3818 entró a una velocidad de 37 km·h-1 en la aguja n.º 5 . , encontrándose a 656 m del lugar de parada en la SK n.º 8; . |
-| • a las 9:30:06 h | el tren Os 3818 se detuvo en la SK n.º 8 de la est. Olomouc hl. n. , . . . , sin que, según los datos registrados, el HDV hubiera seguido moviéndose, ni siquiera en el momento de producirse la MU. Nota DI: en el momento de producirse la MU, el HDV estaba frenado con el freno directo (presión en los cilindros de freno > 0 3 bar; la presión en la tubería principal estaba , , en el valor nominal de 4 975 bar). El movimiento del HDV como consecuencia de la colisión (véanse los puntos 3 1 3 y 3 1 8 de la presente ZZ) se produjo por deslizamiento de las ruedas frenadas con el freno directo; el dispositivo de registro registraba por tanto – permanentemente una velocidad de 0 km·h-1, es decir, la parada del vehículo. . . .
-### 3.1.8 Descripción de las partes correspondientes de la infraestructura y del sistema de señalización
-La est. Olomouc hl. n. estaba equipada con una SZZ de 3.ª categoría ESA 11 con paneles de interfaz electrónica EIP y con JOP, que podía operarse localmente desde la oficina de tráfico en el puesto de mando central o en remoto desde el CDP Přerov. Todas las señales eran luminosas de tipo AŽD 70. En la est. se utilizaron circuitos de vía KOA-1 y contadores de ejes tipo ACS2000 para la detección de la libertad de las SK.
-En la est., el operador de la vía ZDD estableció 15 circuitos de maniobras, siendo el circuito de maniobras n.º 1 el delimitado por el espacio comprendido entre las señales de entrada 1L, 2L, BL, NL, BS, VBS y las señales principales (de itinerario) (en adelante, señal de itinerario) Lc104, Lc102, Lc101 y Sc103. También formaban parte del mencionado circuito de maniobras las SK n.º 4b, SK n.º 8 y 10, incl. las agujas n.º 24, 26, 29, 32a/b, 33, 34, 36, 38, 40, 41 y 43.
-
+ tras tener en cuenta la corrección respecto al tiempo registrado por los ordenadores tecnológicos de la SZZ de la est. Olomouc hl. n., que se fijó como tiempo de referencia para las necesidades de la investigación de la presente MU, y tras redondear los parámetros de tiempo a segundos completos y la velocidad a km·h-1 completos, entre otros, se deduce:
+| • a las 9:28:10 h | el frente del tren Os 3818 pasó a una velocidad de 49 km·h-1 la señal principal (de entrada) (en adelante, señal de entrada) 2L de la est. Olomouc hl. n. y se encontraba a 1 002 m del lugar de parada en la SK n.º 8 . . . , es decir, a la altura del frente de la TDV 50 54 21 -08 317 -9 enganchada como . , 1 DV del tren Os 3819; . |
+| • a las 9:28:34 h | el frente del tren Os 3818 entró a una velocidad de 37 km·h-1 en la aguja n.º 5 . , por la que circulaba, y se encontraba a 656 m del lugar de parada en la SK n.º 8; . |
+| • a las 9:30:06 h | el tren Os 3818 se detuvo en la SK n.º 8 de la est. Olomouc hl. n., . . . ., habiendo dejado de moverse el HDV según los datos registrados, y ello también en el momento , de producirse la MU. Nota DI: en el momento de producirse la MU, el HDV estaba frenado con el freno de mando directo (presión en los cilindros de freno > 0 3 bar; la presión en la tubería principal estaba , , en el valor nominal de 4 975 bar). El movimiento del HDV como consecuencia de la colisión (véanse , los puntos 3 1 3 y 3 1 8 de la presente ZZ) se produjo por deslizamiento de las ruedas frenadas con el freno de mando directo; el dispositivo de registro registraba por tanto – permanentemente una velocidad de 0 km·h-1, es decir, la parada del vehículo , . . |
+### 3.1.8 Descripción de las partes correspondientes de la infraestructura y del sistema de seguridad
+La est. Olomouc hl. n. estaba equipada con una SZZ de 3.ª categoría ESA 11 con paneles de interfaz electrónica EIP y con JOP, que podía operarse localmente desde la oficina de tráfico en el puesto de mando central o en remoto desde el CDP Přerov. Todas las señales eran luminosas de tipo AŽD 70. En la est. se utilizaron circuitos de vía KOA-1 y contadores de ejes tipo ACS2000 para la comprobación de la libertad de las SK.
+En la est., el operador de la vía ZDD estableció 15 circuitos de maniobras, siendo el circuito de maniobras n.º 1 el delimitado por el espacio comprendido entre las señales de entrada 1L, 2L, BL, NL, BS, VBS y las señales principales (de vía) (en adelante, señal de vía) Lc104, Lc102, Lc101 y Sc103. Asimismo, formaban parte del mencionado circuito de maniobras las SK n.º 4b, SK n.º 8 y 10, incl. las agujas n.º 24, 26, 29, 32a/b, 33, 34, 36, 38, 40, 41 y 43.
 
 ## Página 19
+
 
 La señal de clasificación Se29 era una señal enana, situada a la derecha justo junto a la SK n.º 4b, en el km 87,300, es decir, a 102 m de la ZV n.º 38 y a 318 m del lugar de la colisión en la SK n.º 8.
 La señal de clasificación Se34 era una señal enana, situada a la derecha justo junto al extremo de Grygov, en el km 87,141, es decir, a 43 m de la ZV n.º 38 y a 159 m del lugar de la colisión. 
@@ -646,8 +649,8 @@ Del análisis de los datos registrados por el ordenador tecnológico 1 de la SZZ
 | • a las 8:35:43 h | la unidad de maniobras empujada entró íntegramente en la SK n.º 8; . |
 | • a las 8:37:16 h | ruta de maniobras establecida para la marcha de la unidad de maniobras formada por |
 
-
 ## Página 20
+
 
 un HDV circulando independientemente desde la SK n.º 8 hacia el extremo de Grygov, concretamente hacia la SK, que es la continuación de la vía de tráfico n.º 1 Olomouc hl. n. – Grygov; la señal de salida S8 comenzó a indicar „Posun dovolen“ (Maniobra permitida);
 a las 8:37:26 h
@@ -707,8 +710,8 @@ la unidad de maniobras empujada entró íntegramente tras la señal de clasifica
 • La SZZ de la est. Olomouc hl. n. presentó en el período examinado un funcionamiento normal, 
 es decir, un estado sin averías.
 
-
 ## Página 21
+
 
 ### 3.1.9 Cualquier otra información relevante para los fines de la descripción del suceso y de la información básica
 Resumen de las explicaciones facilitadas por los empleados del operador de la vía y del transportista, incl. personas en relación contractual:
@@ -734,60 +737,97 @@ de la explicación facilitada DI:
 
 ## Página 22
 
-De la dinámica de la marcha de la unidad de maniobras dedujo que el maquinista reaccionó a la orden que le dio frenando, pero a continuación la unidad de maniobras chocó con los DV estacionados en la SK n.º 8;
-maniobrador de la 1.ª reserva de maniobras
+De la dinámica de la marcha de la maniobra dedujo que el maquinista reaccionó a la orden que le dio frenando, pero a continuación la maniobra chocó con los DV estacionados en la SK n.º 8;
+apuntador de la 1.ª reserva de maniobras
   – Acta con el empleado:
 •
-◦tras acoplar la HDV a los DV del convoy del tren R 1327, subió a la VK n.º 24 al TDV enganchado detrás de la HDV, donde permaneció durante todo el tiempo de la maniobra hasta la aparición de la MU,
-◦el jefe de maniobras se encontraba al frente de la unidad de maniobras durante el empuje desde la SK n.º 4b,
-◦escuchó las órdenes dadas por el jefe de maniobras al maquinista durante la maniobra mediante la RDST portátil, pero no recuerda el texto exacto de la orden con la que el jefe de maniobras dio al maquinista la orden de detener la unidad de maniobras empujada en la SK n.º 8 – sin embargo, es consciente de que alguna orden dada por el jefe de maniobras durante el empuje le inquietó;
+◦tras acoplar el HDV al DV del convoy del tren R 1327, subió al VK n.º 24 del TDV enganchado detrás del HDV, donde permaneció durante todo el tiempo de la maniobra hasta la producción de la MU,
+◦el jefe de maniobras se encontraba, durante el empuje desde la SK n.º 4b, a la cabeza de la maniobra,
+◦oyó las órdenes que el jefe de maniobras daba al maquinista durante la maniobra mediante la RDST portátil, pero no recuerda la redacción exacta de la orden con la que el jefe de maniobras dio al maquinista la orden de detener la maniobra empujada en la SK n.º 8 – sin embargo, es consciente de que alguna orden dada por el jefe de maniobras durante el empuje le inquietó;
 maquinista de la 1.ª reserva de maniobras
   – Acta con el empleado:
 •
-◦el turno transcurrió sin incidencias hasta el momento del empuje del TDV del convoy del tren R 1327 desde la SK n.º 4b hacia la SK n.º 10 libre, cuando la ruta de maniobras se estableció hacia la SK n.º 8, que estaba ocupada por DV, y él desconocía este hecho antes de iniciar el empuje,
-◦conforme a la orden dada por el jefe de maniobras, puso en movimiento la unidad de maniobras en la SK n.º 4b mediante empuje. Cuando la RDST recibió del jefe de maniobras la orden de reducir la velocidad, simplemente disminuyó la velocidad de marcha. En ese momento aún suponía que la unidad de maniobras estaba siendo empujada hacia la SK n.º 10 libre,
-◦porque durante el empuje no recibió de parte del jefe de maniobras, según su declaración, la orden «Stůj, Stůj», es decir, la señal «Stůj, deténgase por todos los medios», no aplicó de inmediato el frenado de acción rápida,
-◦seguidamente se produjo el choque de la unidad de maniobras con los DV estacionados,
-◦durante todo el tiempo del empuje estuvo convencido de que la unidad de maniobras era empujada hacia la SK n.º 10, es decir, hacia la SK conforme a la orden del jefe de maniobras,
-◦solo tras la aparición de la MU comprobó que el empuje se estaba realizando hacia la SK n.º 8 ocupada, a continuación comprobó el estado de salud de los miembros de la cuadrilla de maniobras, solicitó la activación del ZZS y comunicó la aparición de la MU al puesto de aviso del transportista ČD;
-despachador 1C
+◦el turno transcurrió sin incidencias hasta el momento del empuje del TDV del convoy del tren R 1327 desde la SK n.º 4b hacia la SK n.º 10 libre, cuando la ruta de maniobras se estableció hacia la SK n.º 8, que estaba ocupada por DV, y él desconocía esta circunstancia antes de iniciar el empuje,
+◦conforme a la orden dada por el jefe de maniobras, puso la maniobra en movimiento desde la SK n.º 4b mediante empuje. Cuando la RDST recibió del jefe de maniobras la orden de reducir la velocidad, simplemente disminuyó la velocidad de marcha. En ese momento seguía suponiendo que la maniobra se empujaba hacia la SK n.º 10 libre,
+◦porque durante el empuje no recibió de parte del jefe de maniobras, según su declaración, la orden «Stůj, Stůj», es decir, la señal «Stůj, deténganse por todos los medios», no aplicó inmediatamente el frenado de acción rápida,
+◦a continuación se produjo la colisión de la maniobra con los DV estacionados,
+◦durante todo el empuje estuvo convencido de que la maniobra se empujaba hacia la SK n.º 10, es decir, hacia la SK conforme a la orden del jefe de maniobras,
+◦solo tras la producción de la MU comprobó que el empuje se estaba realizando hacia la SK n.º 8 ocupada, a continuación verificó el estado de salud de los miembros de la cuadrilla de maniobras, solicitó la activación del ZZS y comunicó la producción de la MU al puesto de aviso del transportista ČD;
+jefe de maniobras 1C
   – Acta con el empleado:
 •
-◦ejercía el servicio en la posición de despachador 1C, supervisando el ejercicio del servicio del despachador 1C en formación, que realizaba en el CDP Přerov para el conocimiento de las condiciones locales en la est. Olomouc hl. n.,
-◦durante el turno ocupó en la sala de tráfico un lugar a la altura de la primera fila de mesas, en el pasillo transversal, en la inmediata vecindad a la izquierda del puesto del despachador 1C. En la mesa de trabajo tenía abiertas las ayudas con el plan de ocupación de las SK, mirando de reojo los monitores JOP y observando todo lo que ocurría, y supervisando al despachador 1C en formación, que bajo su dirección regulaba el tráfico ferroviario en la est. Olomouc hl. n.,
-◦escuchó la pregunta del jefe de maniobras de si sería posible en la SK de la est. Olomouc hl. n. establecer anticipadamente los DV del tren R 1327 con salida regular a las 11:05 h. Por ello, el despachador 1C en formación, con su conformidad, designó preliminarmente la SK n.º 10 en el extremo sur del andén, de modo que desde el norte pudiera
-
+◦prestaba servicio en la posición de jefe de maniobras 1C, supervisando a su vez la prestación de servicio del jefe de maniobras 1C en formación, que realizaba en el CDP Přerov el conocimiento de las condiciones locales en la est. Olomouc hl. n.,
+◦durante el turno ocupó un lugar en la sala de tráfico a la altura de la primera fila de mesas, en el pasillo de circulación, inmediatamente a la izquierda del puesto del jefe de maniobras 1C. Sobre la mesa de trabajo tenía abiertas las ayudas con el plan de ocupación de las SK, mirando de reojo los monitores del JOP y observando todo lo que ocurría, y supervisando al jefe de maniobras 1C en formación, que bajo su dirección gestionaba el tráfico en la est. Olomouc hl. n.,
+◦percibió la pregunta del jefe de maniobras sobre si sería posible en la SK de la est. Olomouc hl. n. establecer anticipadamente el convoy de DV del tren R 1327 con salida regular a las 11:05 h. Por ello, el jefe de maniobras 1C en formación, con su conformidad, designó preliminarmente la SK n.º 10 en el extremo sur del andén, de modo que desde el norte se pudiera en la SK n.º 10
 
 ## Página 23
 
-entrar en la SK n.º 10, en caso de necesidad, otro tren con dirección desde Velké Bystřice. Consideró que se trataba de una petición adicional en la secuencia dada por el jefe de maniobras, cuando la maniobra se realizaría una vez efectuada la maniobra previamente acordada desde la SK n.º 8 con el TDV del tren Os 3818,
-◦la petición del transportista y la maniobra acordada por el jefe de maniobras con el TDV del tren Os 3818 desde la SK n.º 8, para la cual el despachador 1C en formación había dado el permiso de maniobra, no fue cancelada por el jefe de maniobras. Hacia las 9:32 h el jefe de maniobras en la RDST comunicó la preparación para la maniobra de la 1.ª reserva de maniobras desde la VK n.º 24. Por ello, junto con el despachador en formación, esperaron la llegada del tren Os 3818 desde la est. Grygov hacia la SK n.º 8 ocupada. Tras la entrada del tren Os 3818 en la SK n.º 8, el despachador 1C en formación autorizó la marcha de la 1.ª reserva de maniobras desde la VK n.º 24 hacia la SK n.º 4b y, tras el descenso de los pasajeros del tren Os 3818, la marcha desde la SK n.º 4b hacia la SK n.º 8 ocupada,
-◦durante la marcha de la unidad de maniobras con los DV para el tren R 1327 desde la VK n.º 24 no escuchó la petición del transportista de maniobra hacia la SK n.º 10. Sin embargo, registró claramente la concesión del permiso por parte del despachador 1C en formación para la maniobra hacia la SK n.º 8 ocupada, sin que ningún miembro de la cuadrilla de maniobras de la 1.ª reserva de maniobras reaccionara de ninguna manera a la información contenida en el permiso de maniobra concedido desde la VK n.º 24, dado por la RDST, de que el permiso de maniobra había sido concedido hacia la SK n.º 8 ocupada. Como no encontró ninguna anomalía en el trabajo del despachador 1C en formación, no intervino ni actuó de ninguna manera en la regulación del tráfico ferroviario. Si hubiera registrado la petición del jefe de maniobras de maniobra con los DV para el tren R 1327 hacia la SK n.º 10, ello le habría llevado al menos a verificar mediante una pregunta si debía cancelarse la maniobra previamente acordada hacia la SK n.º 8. Le parecía totalmente lógico que primero se completara en su totalidad la maniobra acordada hacia la SK n.º 8, en la que debía trasladarse el TDV del tren Os 3818 a la vía de la rampa ČD, ya que el tren Os 3819, que también estaba estacionado en la SK n.º 8, tenía la salida regular fijada antes que el tren R 1327,
-◦la SK n.º 8 estaba, en el momento del empuje de la unidad de maniobras desde la SK n.º 4b, ocupada por los DV de los trenes Os 3818 y Os 3819. En ese momento se concentró en la posterior regulación y planificación del tráfico ferroviario en la est. Olomouc hl. n.,
-◦el TDV del tren Os 3818 debía, conforme a la petición del transportista y al permiso de maniobra dado por el despachador 1C en formación, trasladarse a la vía de la rampa ČD, para permitir la salida del tren Os 3819, que estaba estacionado en la SK n.º 8 detrás del convoy del tren Os 3818. La petición de la maniobra mencionada fue formulada por el jefe de maniobras de la 1.ª reserva de maniobras ya en el momento en que se estaba acercando a la SK n.º 8 desde la rampa ČD el TDV del tren Os 3819,
-◦durante el empuje desde la SK n.º 4b hacia la SK n.º 8 escuchó en la RDST la orden del jefe de maniobras de la 1.ª reserva de maniobras «pomalu» (despacio), «postavil to na 8. kolej» (lo ha puesto en la vía 8), lo que le pareció correcto, porque para la maniobra desde la SK n.º 4b hacia la SK n.º 8 el despachador 1C en formación había dado el permiso y el consentimiento para la maniobra,
-◦seguidamente escuchó en la RDST la orden del jefe de maniobras de detener la unidad de maniobras y que se había producido un choque con los DV estacionados en la SK n.º 8. Asimismo, escuchó en la RDST la pregunta de una persona no identificada, dirigida probablemente al maquinista de la unidad de maniobras, «tys neslyšel stůj?» (¿no escuchaste «detente»?),
-◦por ello preguntó en la RDST si todos los miembros de la cuadrilla de maniobras de la 1.ª reserva de maniobras estaban bien. Posteriormente recibió la información sobre la lesión del maniobrador y de que se había solicitado el ZZS al lugar de aparición de la MU,
-
+v caso de necesidad, entrar aún con otro tren en dirección desde Velké Bystřice. 
+Consideró que se trataba de otro requisito en la orden dada por el jefe de maniobras, cuando 
+la maniobra se realizaría una vez efectuada la maniobra previamente acordada desde la SK n.º 8 con 
+la composición TDV del tren Os 3818,
+◦el requisito del operador y la maniobra acordada por el jefe de maniobras con la composición TDV del 
+tren Os 3818 desde la SK n.º 8, para la cual el despachador 1C en prácticas dio el 
+permiso de maniobra, no fue cancelada por el jefe de maniobras. Aproximadamente a las 9:32 h el jefe de maniobras RDST 
+informó de la preparación para la maniobra de la 1.ª reserva de maniobras desde la VK n.º 24. Por 
+tanto, con el despachador en prácticas esperaron la llegada del tren Os 3818 desde la estación Grygov a 
+la ocupada SK n.º 8. Tras la entrada del tren Os 3818 en la SK n.º 8, el despachador 1C 
+en prácticas permitió la marcha de la 1.ª reserva de maniobras desde la VK n.º 24 hacia la SK n.º 4b y, tras el descenso 
+de los pasajeros del tren Os 3818, la marcha desde la SK n.º 4b hacia la ocupada SK n.º 8,
+◦durante la marcha del elemento de maniobras con la composición DV para el tren R 1327 desde la VK n.º 24 no se oyó 
+el requisito del operador de maniobra hacia la SK n.º 10. Sin embargo, registró 
+claramente la concesión del permiso del despachador 1C en prácticas para la maniobra hacia la ocupada SK n.º 8, sin que 
+ningún miembro de la cuadrilla de maniobras de la 1.ª reserva de maniobras reaccionara de ninguna manera a la información 
+contenida en el permiso de maniobra concedido desde la VK n.º 24, dado por RDST, de que el permiso 
+de maniobra había sido concedido hacia la ocupada SK n.º 8. Como en el trabajo del despachador 1C 
+en prácticas no encontró ningún defecto, no intervino en la 
+gestión del tráfico ferroviario ni actuó de ninguna manera. Si hubiera registrado 
+el requisito del jefe de maniobras de maniobra con la composición DV para el tren R 1327 hacia la SK n.º 10, 
+esto le habría llevado al menos a 
+verificar mediante una consulta si debía cancelarse la maniobra previamente acordada hacia la SK n.º 8. Le parecía 
+totalmente lógico que primero se completara en su totalidad la maniobra acordada 
+hacia la SK n.º 8, en la que debía ser trasladada la composición TDV del tren Os 3818 al 
+andén de la vía lateral de ČD, ya que el tren Os 3819, que también estaba en la SK n.º 8, tenía la salida 
+regular establecida antes que el tren R 1327,
+◦la SK n.º 8 estaba, en el momento del empuje del elemento de maniobras desde la SK n.º 4b, ocupada por las 
+composiciones DV de los trenes Os 3818 y Os 3819. En ese momento se concentró en la gestión 
+y planificación posteriores del tráfico ferroviario en la estación Olomouc hl. n.,
+◦la composición TDV del tren Os 3818 debía ser, de acuerdo con el requisito del operador 
+y el permiso de maniobra dado por el despachador 1C en prácticas, trasladada al andén de la vía lateral 
+de ČD, para permitir la salida del tren Os 3819, que estaba en la SK n.º 8 hasta 
+detrás de la composición del tren Os 3818. El requisito para la maniobra mencionada 
+fue planteado por el jefe de maniobras de la 1.ª reserva de maniobras ya en el momento en que se estaba 
+trasladando a la SK n.º 8 desde la vía lateral de ČD la composición TDV del tren Os 3819,
+◦durante el empuje desde la SK n.º 4b hacia la SK n.º 8, en el RDST oyó la instrucción del jefe de maniobras 
+de la 1.ª reserva de maniobras «despacio», «lo ha puesto en la vía 8», lo que le pareció 
+correcto, ya que para la maniobra desde la SK n.º 4b hacia la SK n.º 8 el despachador 1C 
+en prácticas había dado el permiso y el consentimiento para la maniobra,
+◦posteriormente oyó en el RDST la instrucción del jefe de maniobras de detener el elemento de maniobras 
+y de que se había producido una colisión con las DV estacionadas en la SK n.º 8. Además, también en el RDST captó 
+la pregunta de una persona no identificada, probablemente al maquinista del elemento de maniobras, «¿no oíste el alto?»,
+◦por lo que el RDST preguntó si todos los miembros de la cuadrilla de maniobras de la 1.ª reserva de maniobras 
+estaban bien. Posteriormente recibió información sobre la lesión del maniobrador y de que al 
+lugar del suceso (MU) había sido llamada la ZZS,
 
 ## Página 24
 
-◦tras comprobar que se había producido el choque de la unidad de maniobras de la 1.ª reserva de maniobras con el TDV del tren Os 3818, se disculpó anticipadamente, aunque no sabía qué error se había producido. El asunto no le era indiferente. Consideraba que la unidad de maniobras completa no había cabido en la SK n.º 8 ocupada. A la vez, era evidente para él que durante la maniobra realizada debió producirse algún malentendido;
+◦tras haber comprobado que se había producido la colisión de la maniobra de la primera reserva de maniobras con el tren TDV del tren Os 3818, se disculpó prematuramente, aunque no sabía qué error se había producido. El asunto no le era indiferente. Suponía que toda la maniobra no había cabido en la SK n.º 8 ocupada. Al mismo tiempo, le resultaba evidente que durante la maniobra realizada debió producirse algún malentendido;
 despachador 1C en formación
   – Acta con el empleado:
 •
-◦el 21. 5. 2021 realizó el conocimiento de las condiciones locales en el CDP Přerov con el despachador 1C de sección y reguló el tráfico ferroviario en la est. Olomouc hl. n.;
-◦durante el turno fue informado continuamente por el jefe de maniobras de la 1.ª reserva de maniobras de la est. Olomouc hl. n. sobre las peticiones relativas a las maniobras previstas. En función de la situación ferroviaria concedía el permiso de maniobra y, según las posibilidades, establecía las rutas de maniobras conforme a la petición del transportista y daba el consentimiento para la maniobra,
-◦hacia las 8:30 h el jefe de maniobras comunicó la petición de cambio de la posición horaria del acercamiento del TDV del tren Os 3819 a la SK n.º 8, con el hecho de que el tren Os 3818 a continuación entraría en la SK n.º 8 ocupada y la HDV de este tren pasaría sin maniobra de enlace al tren Os 3819. Posteriormente, la 1.ª reserva de maniobras de la est. Olomouc hl. n. debía trasladar desde el lado sur de la SK n.º 8 el TDV del tren Os 3818 a la vía de la rampa ČD. Quería atender a dicha petición del transportista y, por ello, confirmó inmediatamente la petición por RDST al jefe de maniobras. Inmediatamente después concedió el permiso y el consentimiento para la maniobra, con lo que se ejecutó la 1.ª parte de la maniobra, consistente en el acercamiento del TDV del tren Os 3819 a la parte norte del andén n.º 4 en la SK n.º 8. La HDV de la 1.ª reserva de maniobras pasó a continuación desde la SK n.º 8 a la VK n.º 24,
-◦la 2.ª parte de la maniobra, consistente en el traslado del TDV del tren Os 3818 desde la SK n.º 8 a las vías de la rampa ČD, la mantuvo asimismo en su atención y esperaba que las condiciones del tráfico ferroviario le permitieran dar el permiso de maniobra para completar la 2.ª parte de la maniobra acordada,
-◦antes de las diez y media recibió del jefe de maniobras la información sobre la petición de posible acercamiento de los DV para el tren R 1327, tratándose nuevamente de un cambio de la tecnología planificada. Mediante la consulta de las ayudas tecnológicas comprobó que el tren R 1327 tenía la salida regular planificada a las 11:05 h y que el convoy para este tren suele acercarse hacia las 10:45 h. Nuevamente intentó atender la petición del jefe de maniobras y, por ello, respondió al jefe de maniobras, según sus palabras, «que Krnov lo pondría en la 10.ª vía».
-Nota DI: con el término «Krnov» se alude a los DV del convoy del tren R 1327 Olomouc hl. n. – Krnov – Ostrava-Svinov – Ostrava střed.
-### Esta petición del jefe de maniobras la consideró como la siguiente en la secuencia, que debía realizarse una vez ejecutadas ambas partes de la maniobra acordada anteriormente en la SK n.º 8 y una vez dado por él el permiso de maniobra hacia la SK n.º 10,
-◦la petición anterior del transportista de trasladar el TDV del tren Os 3818 desde la SK n.º 8 no fue cancelada por el jefe de maniobras,
-◦en los monitores SZZ observó la marcha del tren Os 3818, para el que había establecido la ruta de entrada de tren desde la est. Grygov hacia la SK n.º 8 ocupada y, a continuación, observó la entrada de este tren en los monitores del sistema de cámaras de la est. Olomouc hl. n.,
-◦a las 9:32 h el jefe de la 1.ª reserva de maniobras comunicó la preparación para la maniobra desde la VK n.º 24. Por ello, tras el descenso de los pasajeros del tren Os 3818, dio el permiso de maniobra desde la VK n.º 24 hacia la SK n.º 8 a través de la SK n.º 4b, es decir, conforme al permiso de maniobra emitido,
+◦el 21. 5. 2021 realizó el conocimiento de las condiciones locales en el CDP Přerov con el despachador de sección 1C y dirigió el tráfico en la est. Olomouc hl. n.;
+◦durante el turno, el jefe de maniobras de la primera reserva de maniobras de la est. Olomouc hl. n. le informaba continuamente de las solicitudes relativas a las maniobras previstas. En función de la situación del tráfico, concedía el permiso para la maniobra y, según las posibilidades, establecía las rutas de maniobras según la solicitud del operador y daba el consentimiento para la maniobra,
+◦alrededor de las 8:30 h, el jefe de maniobras comunicó la solicitud de cambiar la posición horaria de la colocación del tren TDV del tren Os 3819 en la SK n.º 8, con el condicionamiento de que el tren Os 3818 a continuación entraría en la SK n.º 8 ocupada y el HDV de dicho tren pasaría sin rodeos al tren Os 3819. Posteriormente, la primera reserva de maniobras de la est. Olomouc hl. n. debía trasladar desde el lado sur de la SK n.º 8 el tren TDV del tren Os 3818 a la vía de la vía privada ČD. Quería atender dicha solicitud del operador y, por ello, confirmó inmediatamente la solicitud al jefe de maniobras mediante RDST. Inmediatamente después concedió el permiso y el consentimiento para la maniobra, en la que se llevó a cabo la 1.ª parte de la maniobra, consistente en la colocación del tren TDV del tren Os 3819 junto a la parte norte del andén n.º 4 en la SK n.º 8. El HDV de la primera reserva de maniobras pasó a continuación de la SK n.º 8 a la VK n.º 24,
+◦la 2.ª parte de la maniobra, consistente en el traslado del tren TDV del tren Os 3818 desde la SK n.º 8 a las vías de la vía privada ČD, la mantuvo asimismo en su atención y aguardaba a que las condiciones del tráfico le permitieran dar el permiso para la maniobra para completar la 2.ª parte de la maniobra acordada,
+◦antes de las diez y media recibió del jefe de maniobras la información sobre la solicitud de posible colocación del DV para el tren R 1327, tratándose nuevamente de un cambio de la tecnología planificada. Al consultar las ayudas tecnológicas, comprobó que el tren R 1327 tiene prevista la salida regular a las 11:05 h y que el tren para dicho tren suele colocarse hasta alrededor de las 10:45 h. Nuevamente intentó atender la solicitud del jefe de maniobras y, por ello, respondió al jefe de maniobras, según sus propias palabras, «que Krnov lo pondría en la 10.ª vía». 
+Nota DI: con el término «Krnov» se hace referencia al DV del tren del tren R 1327 Olomouc hl. n. – Krnov – Ostrava-Svinov – Ostrava střed.
+### Esta solicitud del jefe de maniobras la consideró como la siguiente en orden, que debía realizarse una vez ejecutadas ambas partes de la maniobra acordada anteriormente en la SK n.º 8 y una vez dado por él el permiso para la maniobra en la SK n.º 10,
+◦el jefe de maniobras no canceló la solicitud anterior del operador de trasladar el tren TDV del tren Os 3818 desde la SK n.º 8,
+◦en los monitores del SZZ seguía la circulación del tren Os 3818, para el cual había establecido la ruta de tren de entrada desde la est. Grygov hacia la SK n.º 8 ocupada y a continuación seguía la entrada de dicho tren en los monitores del sistema de cámaras de la est. Olomouc hl. n.,
+◦a las 9:32 h, el jefe de la primera reserva de maniobras comunicó la preparación para la maniobra desde la VK n.º 24. Por ello, tras el descenso de los pasajeros del tren Os 3818, dio el permiso para la maniobra desde la VK n.º 24 a la SK n.º 8 a través de la SK n.º 4b, es decir, en conformidad con el permiso para la maniobra emitido,
 
 ## Página 25
+
 
 a a continuación establecía rutas de maniobra y se ocupaba de otras operaciones de tráfico, entre otras, debía calcular los tiempos de espera y de transbordo entre las distintas andenes, antes de establecer una ruta de salida para alguno de los trenes, y se comunicaba con la operadora de modo que entre los distintos trenes se mantuvieran las conexiones en la est. Olomouc hl. n. En la sala de tráfico reinaba el bullicio, ya que se trataba de un momento en el que se estaba despachando un grupo de trenes,
 ◦posteriormente recibió la información del choque violento de la unidad de maniobra empujada de la 1.ª reserva de maniobra contra los vagones de mercancías estacionados en la SK n.º 8. Poco después se le comunicó la producción de un perjuicio para la salud de un miembro de la cuadrilla de maniobra,
@@ -801,28 +841,28 @@ De manera similar, con esta misma antelación, el jefe de maniobra había acorda
 
 ## Página 26
 
-de la composición TDV del tren Os 3818 que estaba terminando. Así percibía también de forma preliminar la exigencia de la maniobra planificada para el acoplamiento de la composición de vagones de mercancías del tren R 1327 a la SK n.º 10. No es consciente de haber escuchado en absoluto, en el momento decisivo y concurrido, la exigencia del jefe de maniobra de la 1.ª reserva de maniobra del transportista ČD de dirigirse inmediatamente a la SK n.º 10. Solo escuchó la preparación para la maniobra, y por lo tanto, conforme a la exigencia anterior no cancelada, concedió la autorización para la maniobra a la SK ocupada n.º 8, estando convencido de que actuaba correctamente. En caso de haber escuchado la exigencia del jefe de maniobra de la 1.ª reserva de maniobra de realizar la maniobra en la SK n.º 10, habría verificado si la 1.ª reserva de maniobra tenía la intención de realizar la maniobra con la composición TDV del tren Os 3818, tal como se había planificado previamente y acordado con el jefe de maniobra.
-Resumen de las explicaciones prestadas por otros testigos:
+las composiciones TDV del tren final Os 3818. Así percibía también de forma preliminar la petición de la maniobra planada para acoplar la composición DV del tren R 1327 en la SK n.º 10. No se da cuenta de haber oído en absoluto, en el momento decisivo y concurrido, la petición del jefe de maniobras de la 1.ª reserva de maniobras de la empresa ČD de proceder inmediatamente a la SK n.º 10. Solo oyó la disponibilidad para la maniobra y, por ello, en cumplimiento de la petición anterior no cancelada, concedió autorización para la maniobra hacia la SK n.º 8 ocupada, estando convencido de que actuaba correctamente. En caso de haber oído la petición del jefe de maniobras de la 1.ª reserva de maniobras de realizar la maniobra hacia la SK n.º 10, habría comprobado si la 1.ª reserva de maniobras tenía la intención de realizar la maniobra con la composición TDV procedente del tren Os 3818, tal como se había planificado previamente y acordado con el jefe de maniobras.
+Resumen de las explicaciones aportadas por otros testigos:
 maquinista del tren Os 3819
   – Acta con el empleado:
 •
-◦tras incorporarse al turno en la SK n.º 8 de la est. Olomouc hl. n. relevó en el puesto de maquinista al que había traído el tren Os 3818,
-◦delante de la HDV del tren Os 3819 se encontraba la composición TDV del tren Os 3818, que debía ser remolcada por la reserva de maniobra. Él mismo esperaba la llegada del jefe de tren para que realizaran la prueba completa de freno del tren Os 3819,
-◦en el momento de la producción de la MU se encontraba en las puertas de acceso derecho de la HDV 163.029-2. Como consecuencia del impacto de la unidad de maniobra contra los vagones de mercancías estacionados en la SK n.º 8, se magulló la mano izquierda, pero no solicitó atención médica,
-◦en la composición del tren Os 3819 se encontraba la jefa de tren, que fue trasladada por el ZZS a recibir atención médica;
+◦tras incorporarse al turno en la SK n.º 8 de la est. Olomouc hl. n. sustituyó en el puesto al maquinista que había traído el tren Os 3818,
+◦delante de la HDV del tren Os 3819 se encontraba la composición TDV procedente del tren Os 3818, que debía ser retirada por la reserva de maniobras. Él mismo esperaba la llegada del jefe de vagones para que realizaran la prueba completa de freno del tren Os 3819,
+◦en el momento de producirse el MU se encontraba en las puertas derechas de acceso de la HDV 163.029-2. Como consecuencia del impacto de la unidad de maniobras contra la DV estacionada en la SK n.º 8, se magulló la mano izquierda, pero no solicitó atención médica,
+◦en la composición del tren Os 3819 se encontraba la jefa de tren, que fue trasladada por la ZZS para recibir atención médica;
 jefa de tren del tren Os 3819
-  – Acta con el empleado:
-•
-◦el 21. 5. 2021 realizaba la inspección de la composición TDV del tren 3819 en la SK n.º 8. Al entrar en el compartimento de servicio dejó sus objetos. En ese momento registró un impacto por el que fue arrojada hacia el lado derecho e izquierdo del compartimento de servicio, y posteriormente cayó al suelo. Tras salir de la composición fue trasladada por el ZZS a recibir atención médica.
-El espacio de la est. Olomouc hl. n. en el lugar de la MU estaba monitorizado por un sistema de cámaras con grabación. Del análisis de estas grabaciones, que fueron facilitadas al DI en el marco de la investigación, se desprende:
+  – Acta con la empleada:
+◦el 21. 5. 2021 realizaba la inspección de la composición TDV del tren 3819 en la SK n.º 8. Al entrar en el compartimento de servicio dejó sus objetos. En ese momento registró un impacto por el que fue arrojada hacia el lado derecho e izquierdo del compartimento de servicio, y posteriormente cayó al suelo. Tras salir de la composición, fue trasladada por la ZZS para recibir atención médica.
+El espacio de la est. Olomouc hl. n. en el lugar del MU estaba monitorizado por un sistema de cámaras con grabación. Del análisis de estas grabaciones, que fueron facilitadas al DI en el marco de la investigación, se desprende:
 | • a las 9:30:06 h | el tren Os 3818 se detuvo en la SK n.º 8 de la est. Olomouc hl. n. ; . . . . |
-| • a las 9:30:17 h | el maniobrador de andén, con el fin de acoplar la HDV 163.029-2 a la composición del tren de origen Os 3819, entró entre la HDV y la TDV 50 54 21-08 317-9 estacionadas; |
-| • a las 9:31:30 h | finalizó el descenso de pasajeros del tren Os 3818; |
-| • a las 9:31:50 h | el maniobrador de andén, con el fin de desacoplar la HDV 163.029-2 de la composición TDV del tren Os 3818 que estaba terminando, entró entre la HDV y la TDV 50 54 21-08 319-5 estacionadas; |
+| • a las 9:30:17 h | el maniobrador de andén, con el fin de acoplar la HDV 163.029-2 a la composición del tren de salida Os 3819, entró entre la HDV y la TDV 50 54 21 - 08 317 -9 estacionadas; |
+| • a las 9:31:30 h | finalizó la bajada de pasajeros del tren Os 3818; |
+| • a las 9:31:50 h | el maniobrador de andén, con el fin de desacoplar la HDV 163.029-2 de la composición TDV del tren final Os 3818, entró entre la HDV y la TDV 50 54 21 -08 319 -5 estacionadas; |
 | • a las 9:34:47 h | la jefa de tren subió a la composición TDV del tren Os 3819; |
-| • a las 9:35:58 h | el frente de la unidad de maniobra empujada de la 1.ª reserva de maniobra de la est. Olomouc hl. n., que se dirigía en sentido desde la SK n.º 4b, entró en el . . ., . , desvío n.º 38; . |
+| • a las 9:35:58 h | el frontal de la unidad de maniobras empujada de la 1.ª reserva de maniobras de la est. Olomouc hl. n., que circulaba en dirección desde la SK n.º 4b, entró en la aguja n.º 38; . |
 
 ## Página 27
+
 
 | • a las 9:36:15 h | producción de la MU: el frente de la unidad de maniobra empujada chocó contra los vagones de mercancías – estacionados en la SK n.º 8. Por la colisión, las composiciones de vagones de mercancías de los trenes Os 3818 . . y Os 3819 estacionadas en la SK n.º 8 fueron desplazadas en el sentido de empuje de la unidad de maniobra . unos 1 m, con el retroceso simultáneo de los vagones de mercancías de la unidad de maniobra en sentido contrario al de empuje original; |
 | • a las 9:36:17 h | la unidad de maniobra se detuvo en la posición final tras la MU; |
@@ -841,6 +881,7 @@ La comunicación entre el despachador 1C en formación / el despachador 1C y el 
 | • de 9:32:04 h a 9:32:09 h | jefe de maniobra | "Cedepečko, en la 24 están ya preparados para la „ . béčko para la 10 " . . Nota DI: por "béčko" se entiende la SK n.º 4b . „ . . |
 
 ## Página 28
+
 
 9:32:13 h – 
 despachador 1C en 
@@ -950,6 +991,7 @@ jefe de maniobra
 
 ## Página 29
 
+
 9:36:14 h a 
 jefe de maniobra
 "detén primera."
@@ -1021,6 +1063,7 @@ A la maniobra con la composición de vagones de mercancías para el tren R 1327 
 
 ## Página 30
 
+
 El jefe de maniobras preguntó por la posibilidad de adelantar la composición TDV para el tren R 1327. 
 La razón era liberar la vía en la playa de vías del ramal ČD para estacionar la composición TDV del tren 
 Os 3818. El despachador 1C en prácticas asignó al jefe de maniobras la vía DV del tren R 1327, SK 
@@ -1077,80 +1120,50 @@ pasó el nivel de la señal de clasificación Se34. 4 s después, el extremo del
 que circulaba a 29 km·h-1, pasó el nivel del ZV n.º 38, 
 puesto en posición para la marcha del DV hacia/desde la SK n.º 8, y otros 4 s después entró el extremo 
 delantero del tramo de maniobras a 29 km·h-1 en la parte de corazón del desvío n.º 38 en dirección a la 
-SK n.º 8. En este punto de la vía el jefe de maniobras pudo comprobar como muy tarde que 
-
+SK n.º 8. En este punto de la vía el jefe de maniobras pudo comprobar como muy tarde que
 
 ## Página 31
 
-la ruta de maniobras no estaba establecida según su solicitud para la SK n.º 10, sino para la SK n.º 8, 
-siendo así que el no establecimiento de la ruta de maniobras según su solicitud lo detectó el jefe de 
-maniobras, según su declaración, «justo detrás de la señal Se34.», es decir, ya antes del nivel del ZV 
-n.º 38. El jefe de maniobras, no obstante, 
-continuó dando instrucciones al maquinista del RDST para el empuje. 
-A una distancia de 56 m de los DV estacionados en la SK n.º 8, el jefe de maniobras dio, en el intervalo 
-de 9:36:06 h a 
-9:36:07 h, al maquinista del RDST la instrucción «La locomotora más allá de la señal, despacio.». El 
-maquinista, ante dicha instrucción, a una velocidad de 28 km·h-1, reaccionó aplicando el freno de 
-servicio mediante la reducción de la presión de aire en la tubería principal en 0,4 bar (de la presión de 
-servicio de 4,975 bar a 4,575 bar). En el intervalo de 9:36:08 h a 
-9:36:10 h el jefe de maniobras dio al maquinista la información/instrucción sobre el no establecimiento de 
-la ruta de maniobras según su solicitud «nos ha puesto en la ocho, despacio 1.ª reserva», la cual 
-suavizó dando una instrucción que expresaba la señal «Despacio». El tramo de maniobras frenado con 
-freno continuo, que circulaba a 25 
-km·h-1, se encontraba en ese momento con su extremo delantero a una distancia de 27 m de los DV 
-estacionados en la SK n.º 8. En el intervalo de 9:36:10 h a 9:36:12 h el jefe de maniobras dio otra 
-instrucción suavizada «y puedes pararlo, también despacio». El extremo delantero del tramo de maniobras 
-que circulaba a 22 km·h-1 se encontraba ahora 
-en la SK n.º 8 a una distancia de 15 m de los DV estacionados. En el intervalo de 9:36:12 h a 9:36:13 h 
-el jefe de maniobras dio al maquinista del RDST la instrucción «bien, para», ante la que el maquinista 
-reaccionó inmediatamente reduciendo la presión de aire en la tubería principal en otros 0,2 bar para 
-detener de inmediato el tramo de maniobras. El extremo delantero del tramo de maniobras que circulaba a 20 km·h-1 se encontraba a 
-una distancia de 7 m de los DV estacionados. En el intervalo de 9:36:13 h a 9:36:14 h el jefe de 
-maniobras dio al maquinista la instrucción «1.ª, para», ante la que el maquinista reaccionó aplicando 
-el freno de emergencia. El extremo delantero del tramo de maniobras empujado que circulaba a 18 km·h-1 se encontraba a 
-una distancia de 3 m del punto de colisión. A las 9:36:14 h a 9:36:15 h el jefe de maniobras 
-dio al maquinista otra instrucción «para 1.ª», produciéndose a las 9:36:15 h el suceso MU, cuando el 
-extremo delantero del tramo de maniobras empujado impactó a 12 km·h-1 
-contra los TDV de las composiciones de los trenes Os 3818 
-y Os 3819 estacionados en la SK n.º 8.
-### 3.2.2 Secuencia de hechos desde la producción del suceso extraordinario hasta la finalización de las acciones de los servicios de emergencia
+la vía de maniobras no está construida según su solicitud en la SK n.º 10, sino en la SK n.º 8, siendo así que el jefe de maniobras, según su declaración, detectó la no construcción de la vía de maniobras según su solicitud «justo detrás de la señal Se34.», es decir, ya antes del nivel del ZV n.º 38. El jefe de maniobras, sin embargo, continuó dando instrucciones al maquinista del RDST para el empuje.
+A una distancia de 56 m antes de los DV situados en la SK n.º 8, el jefe de maniobras dio al maquinista del RDST, en el intervalo de 9:36:06 h a 9:36:07 h, la instrucción «La locomotora detrás de la señal, despacio.». El maquinista reaccionó a dicha instrucción, a una velocidad de 28 km·h-1, con la aplicación del freno de servicio mediante la reducción de la presión de aire en la tubería principal en 0,4 bar (de la presión de servicio de 4,975 bar a 4,575 bar). En el intervalo de 9:36:08 h a 9:36:10 h, el jefe de maniobras dio al maquinista la información/instrucción sobre la no construcción de la vía de maniobras según su solicitud «nos ha puesto en la ocho, despacio, 1.ª reserva», que suavizó dando una instrucción que expresaba la señal «Despacio». La unidad de maniobras, frenada por freno continuo y circulando a una velocidad de 25 km·h-1, se encontraba en ese momento con su frente a una distancia de 27 m antes de los DV situados en la SK n.º 8. En el intervalo de 9:36:10 h a 9:36:12 h, el jefe de maniobras dio otra instrucción suavizada «y puedes pararlo, también despacio». El frente de la unidad de maniobras, circulando a una velocidad de 22 km·h-1, se encontraba ahora en la SK n.º 8 a una distancia de 15 m antes de los DV detenidos. En el intervalo de 9:36:12 h a 9:36:13 h, el jefe de maniobras dio al maquinista del RDST la instrucción «bien, para», ante la que el maquinista reaccionó inmediatamente con una reducción adicional de la presión de aire en la tubería principal de 0,2 bar para detener sin demora la unidad de maniobras. El frente de la unidad de maniobras, circulando a una velocidad de 20 km·h-1, se encontraba a una distancia de 7 m antes de los DV detenidos. En el intervalo de 9:36:13 h a 9:36:14 h, el jefe de maniobras dio al maquinista la instrucción «1.ª, para», ante la que el maquinista reaccionó con la aplicación del freno de acción rápida. El frente de la unidad de maniobras empujada, circulando a una velocidad de 18 km·h-1, se encontraba a una distancia de 3 m antes del lugar de la colisión. En 9:36:14 h a 9:36:15 h, el jefe de maniobras dio al maquinista otra instrucción «para, 1.ª», produciéndose en 9:36:15 h la aparición de la MU, cuando el frente de la unidad de maniobras empujada chocó a una velocidad de 12 km·h-1 contra los TDV de los trenes Os 3818 y Os 3819 detenidos en la SK n.º 8.
+### 3.2.2 Secuencia de hechos desde la aparición de la incidencia hasta la finalización de las acciones de los servicios de emergencia
 9:36 h
-producción del MU;
+aparición de la MU;
 •
 9:39 h
-el jefe de tren (empleado de ČD), que se presentó en el lugar del MU tras su 
+el jefe de tren (empleado de ČD), que se presentó en el lugar de la MU tras su
 •
-producción, comunicó la producción del MU a la ZZS;
+aparición, comunicó la aparición de la MU a la ZZS;
 9:41 h
-el maquinista de la 1.ª reserva de maniobras comunicó al despachador 1C la 
+el maquinista de la 1.ª reserva de maniobras comunicó al despachador 1C la
 •
-producción del MU con lesiones personales en el maniobrero;
+aparición de la MU con lesiones personales en el maniobrador;
 9:42 h
-la ZZS comunicó la producción del MU a la PČR, que envió al lugar una patrulla 
+la ZZS comunicó la aparición de la MU a la PČR, que envió al lugar una patrulla
 •
 de la Sección de Distrito de la PČR Olomouc 3;
 9:45 h
-el despachador 1C comunicó la producción del MU según el calendario de 
+el despachador 1C comunicó la aparición de la MU según el calendario de
 •
-comunicaciones del CDP Přerov;
+notificaciones del CDP Přerov;
 9:49 h
-el equipo de intervención de la ZZS se presentó en el lugar de producción del MU;
+el equipo de intervención de la ZZS se presentó en el lugar de la aparición de la MU;
 •
 9:50 h
-la patrulla de la PČR de la Sección de Distrito Olomouc 3 se presentó en el lugar 
+la patrulla de la PČR de la Sección de Distrito Olomouc 3 se presentó en el lugar
 •
-de producción del MU;
+de la aparición de la MU;
 9:53 h
-el jefe de despacho del CDP Přerov comunicó la producción del MU a la O18 SŽ;
+el jefe de despachadores del CDP Přerov comunicó la aparición de la MU a la O18 SŽ;
 •
 9:57 h
-la persona autorizada de la O18 SŽ comunicó la producción del MU al COP DI como 
+la persona designada de la O18 SŽ comunicó la aparición de la MU al COP DI como
 •
-colisión DV x DV (embestida violenta) durante una maniobra por empuje en la SK n.º 8 
-de la est. Olomouc hl. n., en la que el maniobrero resultó con lesiones personales;
-
+colisión DV x DV (embestida violenta) durante maniobras por empuje en la SK n.º 8
+de la est. Olomouc hl. n., en la que el maniobrador resultó con lesiones personales;
 
 ## Página 32
+
 
 9:59 h
 el empleado en el COP DI, sobre la base de los hechos comunicados, concedió 
@@ -1211,6 +1224,7 @@ por un empleado con competencia profesional para organizar y dirigir el transpor
 
 ## Página 33
 
+
 deben ser escuchados por todos los empleados que ejercen el servicio de transporte, incl. empleados del operador, así como otras personas que trabajan en la est. La instrucción omitiendo al superior directo solo puede darse para evitar un peligro inminente. Si a los empleados les son conocidas circunstancias que ponen en peligro la seguridad, deben tomar de inmediato todas las medidas para evitar el peligro.
 Maniobrar con DV es posible solo tras la concesión del permiso de maniobra, que es la información resumida necesaria para la realización segura de la maniobra, a la que precede la coordinación de la maniobra entre la persona que dirige el tráfico ferroviario en la estación y el empleado que dirige la maniobra o el jefe de cuadrilla de maniobras, si está encargado de ello. El maquinista puede realizar la maniobra bien sin cuadrilla de maniobras, o con cuadrilla de maniobras. En la maniobra de la 1.ª reserva de maniobras de la est. Olomouc hl. n., es decir, en la maniobra realizada con cuadrilla de maniobras, el jefe de maniobras estaba permanentemente encargado de coordinar la maniobra, de acuerdo con lo dispuesto en el art. 1664 de la norma SŽDC D1 y las ayudas tecnológicas "Instrucciones para el ejercicio del servicio de transporte".
 El permiso de maniobra lo da, en las condiciones de la est. Olomouc hl. n. con SZZ controlado a distancia, el despachador 1C (despachador 1C en formación); con control local, el jefe de estación de guardia A, que dirige y organiza el tráfico ferroviario en el ámbito de la estación de pasajeros. En la maniobra realizada en las SK destinadas a la circulación de trenes, puede concederlo solo cuando le sea conocido el operador que va a maniobrar, la tecnología de maniobra requerida por el operador y la tracción (es decir, eléctrica, diésel, vapor) de todos los HDV activos incluidos en la unidad de maniobras. El permiso de maniobra debe contener siempre, para garantizar de forma segura la maniobra, como mínimo la información:
@@ -1231,8 +1245,8 @@ El permiso de maniobra vale como consentimiento de maniobra, pero solo para la c
 En la maniobra con cuadrilla de maniobras, el despachador 1C (despachador 1C en formación) transmite al maquinista el consentimiento de maniobra a través del jefe de cuadrilla de maniobras, el cual, con la instrucción de poner en movimiento la unidad de maniobras, da al maquinista la información de que se ha dado el consentimiento de maniobra para la ruta de maniobras correspondiente. Uno de los modos de dar el consentimiento de maniobra es la señal que autoriza la maniobra, emitida por una señal fija válida para maniobras, la cual vale solo para la SK correspondiente. En este tramo, los desvíos y las agujas de apartadero afectados deben estar correctamente dispuestos para la circulación prevista.
 De la comunicación verbal mantenida entre el despachador 1C en formación y el jefe de maniobras de la 1.ª reserva de maniobras (véase el punto 3.1.9 de esta ZZ) se desprende, entre otros, que la maniobra con el convoy DV para el tren R 1327 desde VK n.º 24 a SK n.º 10 fue coordinada por el jefe de maniobras con el despachador 1C en formación en el periodo comprendido entre
 
-
 ## Página 34
+
 
 las 9:27:37 h y las 9:28:02 h, es decir, en el periodo en el que por la 1.ª reserva de maniobras no había finalizado la maniobra anterior
 ### coordinada por el jefe de maniobras con el despachador 1C en formación en el periodo comprendido entre las 8:15:36 h y las 8:15:47 h. Esta consistía en realizar la colocación del convoy TDV para el tren Os 3819 desde la vía de instalaciones de la vía lateral ČD a la SK n.º 8 y, tras la llegada del tren Os 3818 a la est. Olomouc hl. n., también en el traslado del
@@ -1251,8 +1265,8 @@ De la comunicación verbal mantenida entre el despachador 1C en formación y el 
 •
 Las deficiencias anteriores no pueden valorarse en relación causal con la aparición de la MU, porque el despachador 1C en formación no dio al jefe de maniobras de la 1.ª reserva de maniobras el permiso de maniobra en la SK n.º 10 y el jefe de maniobras, tras comprobar que la ruta de maniobras no se había establecido según su solicitud, es decir, en la SK n.º 10, como tarde en el ámbito del desvío n.º 38, no dio al maquinista
 
-
 ## Página 35
+
 
 de la unidad de maniobras desplazada una instrucción breve y comprensible que no pusiera en peligro la seguridad de la explotación del tráfico ferroviario para detener de inmediato la unidad de maniobras, o bien para detener el movimiento del DV por todos los medios disponibles, aún antes de que el DV estuviera detenido en la SK n.º 8 (véase también el punto 3.1.9 de esta ZZ y véase el análisis del cumplimiento de las tareas y obligaciones del operador ČD indicado a continuación).
 ### El despachador 1C, que había sido encargado por el operador de la vía de la supervisión del ejercicio del servicio de transporte del despachador 1C en formación, a pesar de las deficiencias anteriores en la comunicación verbal mantenida en el periodo comprendido entre las 9:32:13 h y las 9:32:24 h al coordinar la maniobra y dar el permiso de maniobra para la circulación de la unidad de maniobras desde VK n.º 24 a SK n.º 8 a través de 4b, no apreció ningún incumplimiento y no tomó ninguna medida para evitar el peligro. De lo anterior se desprende que, en la supervisión realizada, toleró las deficiencias en el ejercicio del servicio de transporte
@@ -1291,6 +1305,7 @@ los partes y los mensajes
 
 ## Página 36
 
+
 | Centro de despacho de mando de Přerov | CDP | CDP |  |
 | ... | ... |  |  |
 ...“.
@@ -1307,22 +1322,20 @@ en … (se indica el nombre de la est.) desde la vía ... (se indica el número 
 (se indica el nombre de la est.) desde la vía ... (se indica el número de vía) despacio”, que ordena al maquinista reducir la velocidad de los vehículos a un máximo de 5 km·h-1 y anuncia la señal de maniobras “Alto”.
 La señal “Despacio” debe darse al menos a 100 m (estimados) del lugar de detención de la unidad de maniobras empujada, salvo que el maquinista decida otra cosa antes de iniciar la maniobra. Si el empuje se realiza a una distancia inferior a 100 m, el jefe de la cuadrilla de maniobras debe advertir de este hecho al maquinista.
 
-
 ## Página 37
 
-Si inmediatamente después de la señal “Despacio” no se produce la reducción de la velocidad de los vehículos, el empleado está obligado a dar sin demora la señal “Alto, deténganse por todos los medios”.
-En el tramo de los últimos 100 m antes del lugar de detención, el empleado autorizado a transmitir instrucciones para la marcha de la unidad de maniobras (jefe de maniobras) mantiene permanentemente establecida la comunicación de radio y transmite repetidamente las instrucciones para la marcha de la unidad de maniobras en forma de indicación de la distancia restante (la distancia se indica en metros) o solo con el nombre de la señal (p. ej. “Despacio”);
-“Alto” – formulación verbal obligatoria de la instrucción: “reserva (se indica la designación de la reserva) en … •
-(se indica el nombre de la est.) desde la vía ... (se indica el número de vía) deténgase”, que ordena al maquinista detener sin demora el movimiento de los vehículos;
-“Alto, deténganse por todos los medios” – formulación verbal obligatoria de la instrucción: “reserva (se •
-indica la designación de la reserva) alto, alto”, que ordena detener el movimiento de los vehículos por todos los medios disponibles.
-El maquinista de la unidad de maniobras, formada por DV para el tren R 1327, conducía el HDV de la serie 794.007-5 desde el puesto de conducción 1. La seguridad de la unidad de maniobras empujada durante la marcha desde la SK núm. 4b a la SK núm. 8 estaba garantizada, conforme a la normativa legal, por el jefe de maniobras situado en el TDV 50 54 21-29 022-2 que encabezaba la unidad de maniobras, mediante instrucciones dadas por el RDST, cuya formulación no correspondía a las formulaciones obligatorias establecidas por el gestor de la vía – no contenían información sobre el nombre de la est. ni el número de vía desde la que se maniobra (véase el punto 3.1.8 de esta ZZ), y que fueron toleradas por el maquinista durante todo el tiempo del empuje. El permiso para maniobra fue concedido por el despachador 1C en formación mediante la señal “Maniobra permitida” indicada por las señales de clasificación Se29 y Se34. Sobre la instrucción del jefe de maniobras dada por el RDST, mediante la cual se informó al maquinista de la maniobra prevista a la SK núm. 10, el maquinista puso en movimiento la unidad de maniobras en la SK núm. 4b. Las instrucciones siguientes para el empuje fueron dadas al maquinista por el jefe de maniobras repetidamente en un intervalo de 3 a 4 s, sin que el maquinista pudiera observar desde su puesto la disposición de la ruta de maniobras en la SK núm. 8 ni la libertad de la ruta de maniobras. La razón eran las condiciones direccionales de la ruta de maniobras establecida y la posición del HDV al final de la unidad de maniobras.
-Cuando el frente de la unidad de maniobras empujada se encontraba ya en la SK núm. 8, a una distancia de 56 m de los DV detenidos, el maquinista recibió del jefe de maniobras por el RDST la instrucción “La maquinita tras la señal, despacio.”. El maquinista reaccionó a dicha instrucción a una velocidad de 28 km·h-1 manipulando el mando del freno automático – reduciendo la presión de aire en la tubería principal en 0,4 bar. 2 s después, el maquinista recibió del jefe de maniobras la información/instrucción “nos ha puesto en la ocho, despacio 1.ª reserva”, es decir, sobre la disposición de la ruta de maniobras en la SK núm. 8, en cuya virtud debía detener la unidad de maniobras, instrucción que sin embargo fue suavizada por el jefe de maniobras con una instrucción que expresaba la señal “Despacio”. El frente de la unidad de maniobras, que circulaba a las 9:36:10 h a una velocidad de 25 km·h-1, se encontraba en la SK núm. 8 a una distancia de 27 m de los DV detenidos. A dicha información/instrucción seguía de nuevo una instrucción suavizada “y puedes detenerlo, también despacio”. El frente de la unidad de maniobras empujada, que circulaba a las 9:36:12 h a una velocidad de 22 km·h-1, en ese momento frenado operativamente por el freno continuo con la presión en la tubería principal reducida en 0,4 bar, se encontraba en ese instante a una distancia de 15 m de los DV detenidos en la SK núm. 8. Acto seguido, en un breve lapso de tiempo entre las 9:36:12 h y las 9:36:15 h, siguieron otras 3 instrucciones del jefe de maniobras:
-“bien, detente”, ante la que el maquinista reaccionó inmediatamente manipulando el mando del freno automático – reduciendo la presión de aire en la tubería principal en otros 0,2 bar para detener sin demora la unidad de maniobras. El frente de la unidad de maniobras, •
-que circulaba a una velocidad de 20 km·h-1, se encontraba en la SK núm. 8 a una distancia de 7 m de los DV detenidos;
+Si inmediatamente después de la señal «Pomalu» (Despacio) no se produce una reducción de la velocidad de los vehículos, el empleado está obligado a dar sin demora la señal «Stůj, zastavte všemi prostředky» (Alto, deténgase por todos los medios). En el tramo de los últimos 100 m antes del lugar de detención, el empleado autorizado a dar instrucciones para la maniobra de la unidad de maniobras (jefe de maniobras) mantiene permanentemente establecida la conexión radiofónica y transmite las instrucciones para la maniobra de la unidad de maniobras repetidamente en forma de indicación de la distancia restante (la distancia se indica en metros) o solo con el nombre de la señal (por ejemplo, «Pomalu»);
+• «Stůj» (Alto) – formulación obligatoria de la instrucción: «reserva (se indica la designación de la reserva) en … (se indica el nombre de la estación) de la vía ... (se indica el número de vía) deténgase», que ordena al maquinista detener inmediatamente el movimiento de los vehículos;
+• «Stůj, zastavte všemi prostředky» (Alto, deténgase por todos los medios) – formulación obligatoria de la instrucción: «reserva (se indica la designación de la reserva) alto, alto», que ordena detener el movimiento de los vehículos por todos los medios disponibles.
 
+El maquinista de la unidad de maniobras, compuesta por DV para el tren R 1327, conducía la HDV de la serie 794.007-5 desde la cabina de conducción 1. La seguridad de la unidad de maniobras empujada durante la marcha desde la SK n.º 4b a la SK n.º 8 estaba garantizada, de conformidad con la normativa legal, por el jefe de maniobras situado en el TDV 50 54 21-29 022-2, integrado a la cabeza de la unidad de maniobras, mediante las instrucciones dadas por RDST, cuya formulación no correspondía a la formulación obligatoria establecida por el gestor de la vía – no contenían información sobre el nombre de la estación y el número de vía desde la que se realizaba la maniobra (véase el punto 3.1.8 de esta ZZ), y que fueron toleradas por el maquinista durante todo el tiempo del empuje. El permiso para la maniobra fue concedido por el despachador 1C en formación mediante la señal «Posun dovolen» (Maniobra permitida) indicada por las señales de clasificación Se29 y Se34. A la instrucción del jefe de maniobras dada por RDST, por la que se informaba al maquinista de la maniobra prevista a la SK n.º 10, el maquinista puso la unidad de maniobras en la SK n.º 4b en movimiento. Las instrucciones siguientes para el empuje fueron dadas al maquinista por el jefe de maniobras repetidamente en un intervalo de tiempo de 3 a 4 s, mientras que el maquinista no podía observar desde su cabina la establecimiento de la ruta de maniobras en la SK n.º 8 ni la libertad de la ruta de maniobras. La razón fueron las condiciones direccionales de la ruta de maniobras establecida y la composición de la HDV al final de la unidad de maniobras.
+
+Cuando el frente de la unidad de maniobras empujada se encontraba ya en la SK n.º 8, a una distancia de 56 m de los DV detenidos, el maquinista recibió del jefe de maniobras por RDST la instrucción «Mašinku za návěstidlo, pomalu.» (La maquinita más allá de la señal, despacio). El maquinista reaccionó a dicha instrucción a una velocidad de 28 km·h-1 con una maniobra del mando del freno automático – reducción de la presión del aire en la tubería principal en 0,4 bar. 2 s después, el maquinista recibió del jefe de maniobras la información/instrucción «dal nás na osm, pomalu 1. záloho» (nos ha puesto en la ocho, despacio 1.ª reserva), es decir, sobre el establecimiento de la ruta de maniobras en la SK n.º 8, en cuya base el maquinista debía detener la unidad de maniobras, lo que sin embargo fue suavizado por el jefe de maniobras con una instrucción que expresaba la señal «Pomalu» (Despacio). El frente de la unidad de maniobras que circulaba a las 9:36:10 h a una velocidad de 25 km·h-1 se encontraba en la SK n.º 8 a una distancia de 27 m de los DV detenidos. A dicha información/instrucción seguía de nuevo una instrucción suavizada «a můžeš to zastavit, taky pomalu» (y puedes detenerlo, también despacio). El frente de la unidad de maniobras empujada que circulaba a las 9:36:12 h a una velocidad de 22 km·h-1, en ese momento frenado operativamente por el freno continuo con la presión en la tubería principal reducida en 0,4 bar, se encontraba en ese momento a una distancia de 15 m de los DV detenidos en la SK n.º 8. Acto seguido, en un corto lapso de tiempo desde las 9:36:12 h hasta las 9:36:15 h, siguieron otras 3 instrucciones del jefe de maniobras:
+
+• «dobrý zastav» (bien, deténgase), a la que el maquinista reaccionó inmediatamente con una maniobra del mando del freno automático – reducción de la presión del aire en la tubería principal en otros 0,2 bar para la detención inmediata de la unidad de maniobras. El frente de la unidad de maniobras que circulaba a una velocidad de 20 km·h-1 se encontraba en la SK n.º 8 a una distancia de 7 m de los DV detenidos;
 
 ## Página 38
+
 
 “1.ª, detente”, ante la que el maquinista reaccionó aplicando el frenado de acción rápida. El •
 frente de la unidad de maniobras empujada, que circulaba a una velocidad de 18 km·h-1, se encontraba a una distancia de 3 m del lugar de la colisión;
@@ -1348,8 +1361,8 @@ art. 37 del reglamento interno de SŽDC (ČD) Z11:
 Para las demás instrucciones no mencionadas en este artículo, que se transmiten mediante redes de radio con funcionamiento simplex, es necesario cumplir la formulación verbal según el nombre de la señal indicado en el reglamento SŽDC D1.”
 En el caso de esta MU concreta, es necesario relacionar la disposición anterior con la definitoria:
 
-
 ## Página 39
+
 
 ◦art. 7 del reglamento interno de SŽDC (ČD) Z11:
 “Si en este reglamento se indican formulaciones verbales obligatorias, están impresas en cursiva y no pueden modificarse, a excepción de los nombres de las empresas de transporte, apellidos de personas, números de tren, números de vías, preposiciones, datos kilométricos y temporales”.
@@ -1381,6 +1394,7 @@ el empleado que dirige la maniobras (jefe de maniobras) al jefe de estación
 
 ## Página 40
 
+
 El jefe de maniobras de la primera reserva de maniobras de la estación Olomouc hl. n. fue encargado permanentemente por el transportista para el cumplimiento de las actividades del empleado que dirige las maniobras y para la concertación de maniobras (en el sentido de la norma SŽDC D1, el cumplimiento de las obligaciones establecidas del maquinista durante las maniobras con cuadrilla de maniobras), es decir, también durante la maniobras realizadas con DV para el tren R 1327 desde la vía de la vía privada ČD hasta la SK de la estación Olomouc hl. n. La maniobras con el conjunto de los DV mencionados desde la VK n.º 24 hasta la SK n.º 10 fue acordada por el jefe
 ### de maniobras con el despachador 1C en formación en el momento en que por la primera reserva de maniobras no se había finalizado la maniobras anterior ya acordada previamente, consistente en la realización de la colocación del conjunto TDV para el tren Os 3819 desde la vía de la vía privada ČD hasta la SK n.º 8 y, tras la llegada del tren Os 3818 a la estación Olomouc hl. n., también en el traslado del conjunto TDV de este tren a la vía de la vía privada ČD,
 ### mientras que desde el momento de la concertación de la maniobras con los conjuntos TDV de los trenes Os 3819 y Os 3818 hasta
@@ -1399,8 +1413,8 @@ El acuerdo para la maniobras empujada de la unidad de maniobras para la marcha d
 
 El jefe de cuadrilla de maniobras se encontraba en el TDV 50 54 29-29 022-2, que durante el empuje era el DV delantero de la unidad de maniobras, cumpliendo así la condición para la marcha de la unidad de maniobras empujada, es decir, para poder garantizar la seguridad durante la maniobras –entre otros aspectos, visualizar la SK antes del DV y, en caso de detectar circunstancias
 
-
 ## Página 41
+
 
 que pongan en peligro la seguridad durante la maniobras o de que la ruta de maniobras no esté establecida según su solicitud, dar de inmediato la instrucción de detener la unidad de maniobras. Durante el empuje desde la SK n.º 4b dio al maquinista por RDST varias instrucciones regularmente repetidas para la marcha de la unidad de maniobras, cuyo texto no correspondía a la redacción obligatoria establecida por el gestor de la vía –no contenían información sobre el nombre de la estación y el número de vía desde la que se realiza la maniobras (véase el punto 3.1.9 de esta ZZ).
 
@@ -1419,8 +1433,8 @@ artículo 261 de la normativa interna SŽDC D1:
 
 En el caso de esta MU concreta, es necesario relacionar la disposición anteriormente citada con la definitoria:
 
-
 ## Página 42
+
 
 ◦artículo 312 de la normativa interna SŽDC D1:
 «Por la instrucción dada responde quien la ha dado, por su ejecución responde quien debe llevarla a cabo. …»,
@@ -1453,6 +1467,7 @@ Si el empleado que dirige las maniobras o el jefe de cuadrilla de maniobras, en 
 
 ## Página 43
 
+
 zda la vía de maniobras está construida según su petición o según la información del conmutador."
 En el caso de esta MU concreta, es necesario relacionar la disposición anteriormente citada y la disposición siguiente de los arts. 1753 y 1756 con la definitoria:
 ◦ art. 59 del reglamento interno del gestor de la vía SŽDC D1:
@@ -1476,8 +1491,8 @@ En el caso de esta MU concreta, es necesario relacionar la disposición anterior
 ◦ art. 66 del reglamento interno SŽDC D1:
 "Durante la circulación según las condiciones de visibilidad, el tren o la unidad de maniobras debe circular como máximo a una velocidad que le permita detenerse a la distancia que el maquinista (el empleado a la cabeza del tren empujado o de la unidad de maniobras) ve, …".
 
-
 ## Página 44
+
 
 En la investigación se constató la infracción de disposiciones legales y reglamentos internos relacionados con las funciones
 ### y obligaciones del transportista ČD, fuera de la relación causal con la aparición de la MU relacionada con la actividad del director de maniobras:
@@ -1514,8 +1529,8 @@ EDD
 de tráfico
 informes y mensajes telefónicos de tráfico
 
-
 ## Página 45
+
 
 | Centro de despacho central Přerov | CDP | CDP |  |
 | ... | ... |  |  |
@@ -1532,8 +1547,8 @@ La autoridad nacional de seguridad es el DÚ, que de acuerdo con la Ley núm. 26
 La función de la Agencia Ferroviaria de la Unión Europea es, además de garantizar, en el marco de sus competencias, que se mantenga en general y, en la medida de lo posible, se aumente sistemáticamente la seguridad de los ferrocarriles, entre otras, la emisión, renovación, suspensión y modificación de certificados únicos de seguridad, la limitación de su vigencia o su cancelación, en cuestión en la que coopera con las autoridades nacionales de seguridad; además emite autorizaciones para la comercialización de vehículos ferroviarios y de tipos de vehículos, y está facultada para renovar, modificar, suspender o cancelar las autorizaciones que haya emitido. La Agencia evalúa asimismo proyectos de normativa nacional, etc.
 En la investigación no se constató la infracción de las funciones y obligaciones de la autoridad nacional de seguridad y de la Agencia Ferroviaria de la Unión Europea.
 
-
 ## Página 46
+
 
 ### 4.1.5 Entidades notificadas, entidades designadas y entidades dedicadas a la evaluación de riesgos
 En la investigación no se constató la infracción de las funciones y obligaciones de las entidades notificadas, de las entidades designadas y de las entidades dedicadas a la evaluación de riesgos.
@@ -1557,6 +1572,7 @@ En la investigación no se detectaron otros factores relacionados con los VF, co
 
 ## Página 47
 
+
 ### 4.3 Factores humanos
 ### 4.3.1 Características humanas e individuales
 En la investigación no se detectaron factores relacionados con la formación profesional de los empleados, su estado de salud y su situación personal, incluido el estrés físico y psicológico.
@@ -1573,8 +1589,8 @@ La última inspección a la actividad del jefe de maniobras antes de la ocurrenc
 La última inspección a la actividad del maquinista de la unidad de maniobras antes de la ocurrencia de la MU fue realizada por la empresa de transporte ČD el 18. 5. 2021. La inspección detectó deficiencias en la disciplina de uniforme.
 En la investigación no se detectaron factores relacionados con la organización del trabajo o con las tareas laborales.
 
-
 ## Página 48
+
 
 ### 4.3.4 Factores relacionados con el entorno laboral
 En la investigación no se detectaron factores relacionados con el entorno laboral.
@@ -1598,46 +1614,40 @@ El gestor de la infraestructura explotó la infraestructura con base en una auto
 ### 4.4.7 Otros factores sistémicos
 En la investigación no se detectaron otros factores sistémicos.
 
-
 ## Página 49
 
 ### 4.5 Sucesos anteriores de naturaleza similar
-La DI, en el periodo comprendido entre el 1. 1. 2015 y la fecha de ocurrencia de la mencionada MU, en las vías ferroviarias, categoría nacional y regional, registra un total de 20 MU similares, en las que durante las maniobras con cuadrilla de maniobras realizadas por medio de empuje de DV se produjo una colisión de la unidad de maniobras con el DV. En el periodo indicado no hay registrada ninguna MU similar en la estación Olomouc hl. n.
-Como consecuencia de todas las MU anteriormente mencionadas, 8 personas resultaron lesionadas y se produjo un daño por importe de 4 538 184 Kč.
-La DI investigó las causas y circunstancias en el periodo comprendido entre el 1. 1. 2015 y la fecha de ocurrencia de la mencionada MU, en las vías ferroviarias, categoría nacional y regional, de un total de 1 MU similar, concretamente la del 20. 7. 2018 en la estación Brno hl. n., en la que se produjo una colisión de la unidad de maniobras en empuje con el tren Os 4615 que estaba arrancando.
+El DI, en el período comprendido entre el 1 de enero de 2015 y la fecha de ocurrencia de la MU objeto de estudio, en las vías ferroviarias, categoría nacional y regional, registra un total de 20 MU similares, en las que, durante una maniobra de maniobras realizada mediante empuje de DV, se produjo una colisión entre un elemento de maniobras y un DV. En el período indicado no se registra ninguna MU similar en la est. Olomouc hl. n. Como consecuencia de todas las MU anteriormente mencionadas, 8 personas resultaron lesionadas y se produjo un daño por importe de 4 538 184 Kč.
+El DI investigó las causas y circunstancias en el período comprendido entre el 1 de enero de 2015 y la fecha de ocurrencia de la MU objeto de estudio, en las vías ferroviarias, categoría nacional y regional, de un total de 1 MU similar, concretamente la del 20 de julio de 2018 en la est. Brno hl. n., en la que se produjo una colisión entre un elemento de maniobras empujado y el tren Os 4615 que estaba iniciando la marcha.
 ## 5 CONCLUSIONES
 ### 5.1 Resumen del análisis y conclusiones relativas a las causas del suceso
-La causa inmediata del suceso extraordinario fue:
-la no emisión inmediata, por parte del jefe de la cuadrilla de maniobras
-•
-de la 1.ª reserva de maniobras de la estación de ferrocarril Olomouc hl. n., de una instrucción breve y comprensible a la persona que conduce el vehículo ferroviario para detener la unidad de maniobras en empuje, de modo que esta pudiera detener la unidad de maniobras de forma segura, como muy tarde, en el punto de la vía situado delante de los vehículos ferroviarios detenidos.
-El factor contribuyente del suceso extraordinario fue:
-una cadena de anomalías en el estricto cumplimiento de las normas internas del gestor de la infraestructura
-•
-y de la empresa de transporte por parte del jefe de la cuadrilla de maniobras de la 1.ª reserva de maniobras de la estación de ferrocarril Olomouc hl. n. en:
-◦la comunicación con la persona que controla el tráfico ferroviario en la estación de ferrocarril Olomouc hl. n.,
-◦la actuación tras la detección de circunstancias que ponen en peligro la seguridad durante las maniobras por empuje.
-La DI no detectó ninguna causa sistémica.
+La causa inmediata del suceso excepcional fue:
+• la no emisión inmediata de una instrucción breve y comprensible por parte del jefe de la cuadrilla de maniobras de la 1.ª reserva de maniobras de la estación de ferrocarril Olomouc hl. n. a la persona que conduce el vehículo ferroviario, para detener el elemento de maniobras empujado de manera que esta pudiera detener el elemento de maniobras de forma segura, como máximo, en el punto de la vía situado delante de los vehículos ferroviarios detenidos.
+El factor contribuyente al suceso excepcional fue:
+• una cadena de incumplimientos en el cumplimiento de las normas internas del gestor de la infraestructura y del operador ferroviario por parte del jefe de la cuadrilla de maniobras de la 1.ª reserva de maniobras de la estación de ferrocarril Olomouc hl. n. en:
+◦ la comunicación con la persona que controla el tráfico ferroviario en la estación de ferrocarril Olomouc hl. n.,
+◦ la actuación tras la detección de circunstancias que ponen en peligro la seguridad durante la maniobra mediante empuje.
+No se ha identificado por parte del DI una causa sistémica.
 ### A summary of the analysis and conclusions with regard to the causes of the 
 occurrence
 Causal factor:
 failure to give an immediate, brief and comprehensible instruction to stop the 
 •
-shunting operation safely in front of the standing rolling stocks to the train driver of 
+shunting operation safely in front of the standing rolling stocks to the train driver of
 the shunting operation by the supervisor of shunting.
 Contributing factor:
-a sequence of faults in compliance with the internal regulations of the infrastructure 
+a sequence of faults in compliance with the internal regulations of the infrastructure
 •
 manager and railway undertaking by the supervisor of the shunting operation in:
-◦communication with the person who controls the railway traffic at Olomouc hl. n. 
+◦communication with the person who controls the railway traffic at Olomouc hl. n.
 station;
-◦acting after the detection of circumstances endangering safety during the 
+◦acting after the detection of circumstances endangering safety during the
 shunting.
 Systemic factor:
 none.
 
-
 ## Página 50
+
 
 ### 5.2 Medidas adoptadas para la prevención de sucesos extraordinarios
 El gestor de la infraestructura SŽ y la empresa de transporte ČD no habían concluido su propia investigación de la mencionada MU a la fecha de la tramitación de esta ZZ.
@@ -1674,8 +1684,8 @@ Por parte de la empresa de transporte ČD:
 el jefe de maniobras utilizaba en las comunicaciones de tráfico con el despachador 1C en formación un término coloquial que no era una denominación local autorizada por el gestor de la infraestructura;
 el jefe de maniobras daba instrucciones para la marcha de la unidad de maniobras cuya redacción no correspondía a la redacción vinculante establecida por el gestor de la infraestructura;
 
-
 ## Página 51
+
 
 el maquinista toleraba las instrucciones del jefe de maniobras dadas para la marcha de la unidad de maniobras, cuya redacción no correspondía a la redacción vinculante establecida por el gestor de la infraestructura.
 ### Additional observations
@@ -1720,17 +1730,15 @@ inspektor
 
 ## Página 52
 
+
 ## Anexos
 Fig. n.º 2: Vista desde el PV n.º 38 en dirección a los andenes n.º 4 y 5 de la est. Olomouc hl. n. (aguja n.º 38
 conmutada para la circulación del DV en la SK n.º 10).
                    Fuente: DI
 
-
 ## Página 53
 
-Fig. n.º 3: Captura del sistema de videovigilancia que muestra la unidad de maniobras empujada en la zona
-de la cruceta de la aguja n.º 38 de la est. Olomouc hl. n.
+Fig. n.º 3: Imagen del sistema de cámaras que capta el tramo de maniobras empujado en la zona de la aguja de la vía n.º 38 de la est. de Olomouc hl. n.
                        Fuente: SŽ
-Fig. n.º 4: Captura del sistema de videovigilancia que muestra la unidad de maniobras empujada en la SK n.º 8
-de la est. Olomouc hl. n. en el momento de la aparición del MU.
+Fig. n.º 4: Imagen del sistema de cámaras que capta el tramo de maniobras empujado en la SK n.º 8 de la est. de Olomouc hl. n. en el momento en que se produjo el MU.
                        Fuente: SŽ

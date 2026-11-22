@@ -13,6 +13,7 @@ tokens_out: 66750
 fecha_proceso: 2026-11-19
 generador: traducir_md_es.py (traducción IA + verificación numérica)
 verificacion: ok
+notas_cifras: ["página 13: cifras cortas: 1/45", "página 18: cifras largas: 1/18; cifras cortas: 2/55", "página 19: cifras largas: 7/36", "página 44: cifras largas: 1/23"]
 ---
 
 ## Página 1

@@ -10,13 +10,14 @@ chars: 71679
 ratio_longitud: 1.12
 tokens_in: 27792
 tokens_out: 21769
-verificacion: revisar
-notas_cifras: ["bloque 3: cifras cortas: 1/106", "bloque 4: cifras cortas: 1/81", "bloque 5: cifras cortas: 6/86", "bloque 6: cifras cortas: 3/88", "bloque 10: cifras cortas: 1/73"]
-avisos: ["bloque 4: marcadores de página: 4 vs 3"]
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 10: cifras cortas: 1/10", "página 18: cifras cortas: 4/35", "página 21: cifras cortas: 2/16", "página 22: cifras cortas: 3/14", "página 40: cifras cortas: 1/19"]
 ---
+
 ## Página 1
+
 
 Centro de Investigación  
 de la Oficina Federal de Investigación de Accidentes Ferroviarios  
@@ -32,18 +33,18 @@ Suceso peligroso en el servicio ferroviario
 | Número de línea: | 1401 |
 | Kilómetro: | 2 55 , |
 
-
 ## Página 2
+
 
 ## Publicado por: 
 Ministerio Federal de Transporte e Infraestructura Digital 
 Oficina Federal de Investigación de Accidentes Ferroviarios 
 Robert-Schuman-Platz 1 
 53175 Bonn 
-Versión:  1.0 
-
+Versión:  1.0
 
 ## Página 3
+
 
 # Índice: 
 ### Página 
@@ -97,10 +98,10 @@ Investigación de los vehículos ...............................................
 Inspección de los vehículos en el lugar del accidente .......................................................... 34
 4.5.2
 Inspección de los vehículos en el taller .......................................................................... 36
-Versión:  1.0 
-
+Versión:  1.0
 
 ## Página 4
+
 
 4.5.3
 Evaluación de los componentes del freno ........................................................................ 39
@@ -114,6 +115,7 @@ Tabla 3: Secuencia de la gestión de emergencias ...............................
 Versión:  1.0
 
 ## Página 5
+
 
 # Índice de figuras: 
 Fig. 1: Imágenes del lugar del accidente (Fuente: BPol) ............................................................ 9 
@@ -138,84 +140,82 @@ Fig. 19: Vehículo descarrilado (núm. de serie 16) vista en la dirección de ma
 Fig. 20: Eje rodante 3R (Vehículo núm. de serie 16) vista en la dirección de marcha ....................................... 35 
 Fig. 21: Biela del freno de mano y cilindro de freno extendido (posición de frenado) ............... 35 
 Fig. 22: Eje rodante 3 izquierdo ......................................................................................................... 38 
-Fig. 23: Eje rodante 3 derecho ...................................................................................................... 38 
-
+Fig. 23: Eje rodante 3 derecho ...................................................................................................... 38
 
 ## Página 6
 
-# Índice de abreviaturas 
-AEG 
-Ley General Ferroviaria (Allgemeines Eisenbahngesetz) 
-AVV 
-Contrato General para el Uso de Vagones de Mercancías (Allgemeiner Vertrag über die Verwendung von Güterwagen) 
-AzGrT 
-Tecla de posición base de conteo de ejes (Achszählgrundstellungstaste) 
-Berü 
-Vista general del sector (Bereichsübersicht) 
-Bksig 
-Señal de bloqueo (Blocksignal) 
-BMVI 
-Ministerio Federal de Transporte e Infraestructura Digital (Bundesministerium für Verkehr und digitale Infrastruktur) 
-BPol 
-Policía Federal (Bundespolizei) 
-BR 
-Familia (Baureihe) 
-BZ 
-Centro de explotación (Betriebszentrale) 
-DEK 
-Contacto electrónico doble (Doppelelektronikkontakt) 
-Dkw 
-Punto de desvío de doble cruce (Doppelkreuzungsweiche) 
-Doku 
-Ordenador de documentación (Dokumentationsrechner) 
-EBA 
-Oficina Federal de Ferrocarriles (Eisenbahn-Bundesamt) 
-EBO 
-Reglamento de Construcción y Explotación Ferroviaria (Eisenbahn- Bau- und Betriebsordnung) 
-ECM 
-Organismo responsable del mantenimiento (Für die Instandhaltung zuständige Stelle) 
-EFR 
-Registro electrónico de viaje (Elektronische Fahrtenregistrierung) 
-EIU 
-Empresa de infraestructura ferroviaria (Eisenbahninfrastrukturunternehmen) 
-Esig 
-Señal de entrada (Einfahrsignal) 
-ESTW 
-Centralización electrónica (Elektronisches Stellwerk) 
-EUB 
-Oficina Federal de Investigación de Accidentes Ferroviarios (Eisenbahn-Unfalluntersuchungsstelle des Bundes) 
-EUV 
-Reglamento de Investigación de Accidentes Ferroviarios (Eisenbahn-Unfalluntersuchungsverordnung) 
-EVU 
-Empresa de transporte ferroviario (Eisenbahnverkehrsunternehmen) 
-Ks 
-Señal combinada (Kombinationssignal) 
-Kz 
-Número de identificación (Kennziffer) 
-LST 
-Tecnología de conducción y seguridad (Leit- und Sicherungstechnik) 
-LüP 
-Longitud total entre topes (Länge über Puffer) 
-NE 
-Ferrocarril no perteneciente al Estado (Nichtbundeseigene Eisenbahn) 
-
+# Índice de abreviaturas
+AEG
+Ley General de Ferrocarriles
+AVV
+Contrato General sobre el Uso de Vagones de Mercancías
+AzGrT
+Tecla de posición inicial de conteo de ejes
+Ber
+Vista de sector
+Bksig
+Señal de bloqueo
+BMVI
+Ministerio Federal de Transporte e Infraestructura Digital
+BPol
+Policía Federal
+BR
+Serie
+BZ
+Centro de operaciones
+DEK
+Contacto electrónico doble
+Dkw
+Cruce doble
+Doku
+Ordenador de documentación
+EBA
+Agencia Federal de Ferrocarriles
+EBO
+Ordenanza de Construcción y Explotación Ferroviaria
+ECM
+Organismo responsable del mantenimiento
+EFR
+Registro electrónico de viajes
+EIU
+Empresa de infraestructura ferroviaria
+Esig
+Señal de entrada
+ESTW
+Enclavamiento electrónico
+EUB
+Oficina Federal de Investigación de Accidentes Ferroviarios
+EUV
+Ordenanza Federal de Investigación de Accidentes Ferroviarios
+EVU
+Empresa de tráfico ferroviario
+Ks
+Señal combinada
+Kz
+Cifra identificativa
+LST
+Técnica de mando y seguridad
+LüP
+Longitud entre tope
+NE
+Ferrocarril no federal
 
 ## Página 7
 
-| NFLS | Centro de dirección de emergencias |
+| NFLS | Centro de mando de emergencias |
 | Nmg | Gestor de emergencias |
-| PZB | Influencia puntual del tren (Punktförmige Zugbeeinflussung) |
-| Ril | Directriz (Richtlinie) |
-| RLS | Centro público de rescate (öffentliche Rettungsleitstelle) |
-| SB | Autoridad de seguridad (Sicherheitsbehörde) |
-| Sbk | Señal de auto-bloqueo (Selbstblocksignal) |
-| Stw | Centralización (Stellwerk) |
-| Tf | Conductor de la locomotora (Triebfahrzeugführer) |
-| Tfz | Locomotora (Triebfahrzeug) |
-| Zsig | Señal intermedia (Zwischensignal) |
-
+| PZB | Señalización puntual de trenes |
+| Ril | Directriz |
+| RLS | Centro público de mando de rescate |
+| SB | Autoridad de seguridad |
+| Sbk | Señal de bloqueo automático |
+| Stw | Instalación de enclavamiento |
+| Tf | Conductor de tren |
+| Tzf | Material rodante |
+| Zsig | Señal intermedia |
 
 ## Página 8
+
 
 # 1 
 # Resumen 
@@ -240,10 +240,10 @@ La explotación en la estación de Bremen Hbf se vio dificultada durante varios 
 Como causa se identificó un freno de estacionamiento aplicado en la unidad de vagones trasera del 
 vagón Hccrrs (vagón de transporte de automóviles de doble piso de 2x2 ejes) con el número de vagón: 23 80 
 2911 316-0 D-ARS. Los ejes rodantes frenados tres y cuatro provocaron fuertes 
-desgaste y acumulaciones de material en las superficies de rodadura de los ejes rodantes. Como consecuencia, ya no se garantizaba el rodaje rectilíneo de los ejes rodantes, por lo que el vagón se descarriló hacia la derecha. 
-
+desgaste y acumulaciones de material en las superficies de rodadura de los ejes rodantes. Como consecuencia, ya no se garantizaba el rodaje rectilíneo de los ejes rodantes, por lo que el vagón se descarriló hacia la derecha.
 
 ## Página 9
+
 
 Centralización. BHA 
 Dirección de marcha 
@@ -251,6 +251,7 @@ Dirección de marcha
 Fig. 1: Imágenes del lugar del accidente (Fuente: BPol)
 
 ## Página 10
+
 
 # 2 
 # Observaciones preliminares 
@@ -265,9 +266,10 @@ Más detalles al respecto se encuentran disponibles en Internet en >> www.eisenb
 ## 2.2 
 ## Objetivo de la investigación de accidentes ferroviarios 
 El objetivo y la finalidad de las investigaciones es aclarar las causas de los sucesos peligrosos y extraer de ello indicaciones para la mejora de la seguridad. Las investigaciones de la EUB no tienen como fin determinar la existencia de culpa ni aclarar cuestiones de responsabilidad o de otras pretensiones de derecho civil, y se realizan de forma independiente de cualquier investigación judicial. 
-La investigación comprende la recopilación y evaluación de información, la elaboración de conclusiones, incluida la determinación de las causas, y, en su caso, la emisión de recomendaciones de seguridad. Las propuestas de la oficina de investigación para la 
+La investigación comprende la recopilación y evaluación de información, la elaboración de conclusiones, incluida la determinación de las causas, y, en su caso, la emisión de recomendaciones de seguridad. Las propuestas de la oficina de investigación para la
 
 ## Página 11
+
 
 prevención de accidentes y la mejora de la seguridad en el tráfico ferroviario se comunican a la autoridad de seguridad y, si fuera necesario, a otros organismos y autoridades o a otros Estados miembros de la UE en forma de recomendaciones de seguridad. 
 ## 2.3 
@@ -285,10 +287,10 @@ DB Fahrzeuginstandhaltung GmbH, taller de Fulda (T.WPK.-FUL-V)
 x 
 DB Schenker Rail (taller de la estación de clasificación de Bremen) 
 x 
-ARS Schienentechnik GmbH (como organismo responsable del mantenimiento (ECM)) 
-
+ARS Schienentechnik GmbH (como organismo responsable del mantenimiento (ECM))
 
 ## Página 12
+
 
 # 3 
 # Suceso 
@@ -300,10 +302,10 @@ El 14.02.2013 circulaba por la vía Cuxhaven Gbf – Bremen Rbf el tren de merca
 El peso total del tren, distribuido en un total de 80 ejes y con una longitud de composición de 549 metros, ascendía, según la lista de vagones, a 706 toneladas; los porcentajes de frenado disponibles se cifraban en un 94 %. 
 En todos los frenos de aire comprimido se había ajustado el estado de frenado de acción rápida «P». 
 Del encabezamiento del horario se desprendían, entre otros, los siguientes datos: 
-Día de circulación: 13.02.2013, peso de la composición: 750 t, longitud total del tren 641 metros, porcentaje mínimo de frenado: 54 %, estado de frenado R/P, velocidad máxima permitida: 90 km/h. 
-
+Día de circulación: 13.02.2013, peso de la composición: 750 t, longitud total del tren 641 metros, porcentaje mínimo de frenado: 54 %, estado de frenado R/P, velocidad máxima permitida: 90 km/h.
 
 ## Página 13
+
 
 El tren especial, remolcado por la locomotora (Tfz) 216 012 (Núm. de locomotora 92 80 1216 012-5 D-BLP, longitud total 18 m), circulaba remolcando 20 vagones vacíos de transporte de automóviles de dos pisos de los tipos H y L, en la siguiente composición: 
 ### n.º ord. 
@@ -426,6 +428,7 @@ en el punto kilométrico 289,774.
 
 ## Página 14
 
+
 aún aproximadamente 50 km de la estación de Kirchweyhe y en total aproximadamente 64 km del lugar posterior de descarrilamiento.
 Aparte de una parada imprevista de aproximadamente tres minutos por motivos operativos en Maschen Rbf, el tren DGS 90156 llegó a la estación de Kirchweyhe alrededor de las 11:25 horas sin otras paradas intermedias. El cambio de dirección se realizó, según lo previsto en el horario, en la vía 25. Según los datos del gestor de infraestructura, la pendiente predominante en la vía principal utilizada fue inferior a 1:400 (< 2,5 ‰). Por lo tanto, solo era permisible asegurar el tren de forma temporal para la circulación de la locomotora utilizando el freno de aire comprimido, de acuerdo con la publicación VDV 757 parte B «Operación y comprobación de frenos en servicio – Normas de frenado». No era necesario aplicar los frenos de mano/frenos de estacionamiento. En la estación de Kirchweyhe no había otro personal disponible para el conductor (Tf) para realizar los trabajos técnica y operativamente necesarios asociados al cambio de dirección.
 La prueba de frenos simplificada prescrita debía realizarse en el primer vehículo detrás de la locomotora (véase la publicación VDV 757 / Directriz (Ril.) 915.0104A01 caso de aplicación 3). Según los datos registrados en la DSK (cinta de memoria de datos), el EFR disponía de un periodo de tiempo de 11:47:07 horas a 11:53:55 horas (hora DSK). No se pudieron demostrar defectos en la preparación del tren ni en la prueba de frenos basándose en estos datos.
@@ -434,32 +437,42 @@ Las investigaciones de la EUB revelaron que el tren ya había dejado marcas de d
 A las 12:19 horas, el tren atravesó la instalación operativa Abzw Gabelung, situada a unos cinco kilómetros de la estación de Kirchweyhe. Tras el paso, la sección de vía correspondiente siguió siendo indicada como ocupada al Fdl competente. La causa más probable fueron los ejes del vehículo que posteriormente descarriló, que ya rodaban «anormalmente», los cuales, debido a primeras soldaduras o a las abrasiones del material, presentaban una distancia atípica respecto al contador de ejes.
 Los tramos de vía y las instalaciones operativas Bremen-Hemeling, Abzw Hastedt y Abzw Vahr, atravesados a continuación, se superaron sin registrar anomalías.
 
-
 ## Página 15
 
-Debido a la separación de trenes respecto al tren 69062, este había entrado a las 12:27 horas en la vía 4 de Bremen Hbf, la señal de bloqueo automático (Sbk) 11175 en el tramo de vía entre Abzw Vahr y Bremen Hbf mostraba aún Hp 0 - Detención para el tren 90156. Al aproximarse a la señal, el conductor frenó el tren con un freno de servicio hasta detenerse alrededor de las 12:28 horas.
-Durante esta detención, el vagón con el n.º de serie 16 se encontraba aproximadamente en el punto kilométrico 2,55.
-Después de que la señal Sbk 11175, tras una parada del tren de unos 40 segundos, cambiara a posición de marcha (cambio de Hp 0 a Ks 2), el conductor reanudó la marcha y aceleró el tren hasta aproximadamente vmax 48 km/h.
-Durante la aceleración, el 3.º eje del 16.º vagón se elevó sobre el carril y, como consecuencia, el eje se deslizó hacia la derecha en dirección de marcha (primera marca de descarrilamiento). Antes del lugar del descarrilamiento ya se encontraron residuos metálicos junto y sobre los carriles de la vía transitada. A partir de aproximadamente el km 2,55, el vagón descarrilado fue arrastrado en composición.
-Como consecuencia, el recorrido del tren resultó gravemente dañado.
-Fig. 2: Plano de situación punto kilométrico 2,5 a 3,0, lugar del descarrilamiento
-Fuente: Plano IVL DB Netz AG, elaborado por EUB
-La velocidad máxima permitida localmente para este tren hasta la siguiente señal de entrada (Esig) 11C de la estación Bremen Hbf era de 90 km/h. La señalización en la Esig permitía una velocidad de entrada de 60 km/h, velocidad que el tren no alcanzó.
-Tras recorrer aproximadamente 1,9 km en estado descarrilado (hasta vmax 48 km/h), el vehículo se desvió continuamente hacia la derecha debido a la curva de la vía y colisionó ligeramente con un poste de catenaria. Al alcanzar la zona del corazón de la aguja 11102, transitada frontalmente, el vehículo se desvió completamente hacia la derecha y colisionó posteriormente, entre otros elementos, con el poste de catenaria 121-19c. El poste de catenaria 121-21a, que siguió a continuación, fue arrancado completamente de su cimentación.
-Según sus propias declaraciones, el conductor percibió durante la marcha por la estación una fuerte tracción en la composición. Tras mirar por la ventana de la cabina, observó una fuerte emisión de polvo en la parte trasera del tren y, como consecuencia, inició un freno de emergencia y realizó una llamada de emergencia.
-La llamada de emergencia activada se registró «sin que se pronunciara ninguna palabra».
-La aguja 11033 (posición izquierda), transitada frontalmente, cambió a posición derecha debido al descarrilamiento, de modo que los tres últimos vagones (n.º de serie 18-20) abandonaron el recorrido establecido y transitaron por las agujas 11033 (derecha), 11043 (derecha) y 11044 c/d (izquierda). Inmediatamente antes de la detención, el tren se separó entre el 17.º y el 18.º vagón. Los vagones con los n.º de serie 17 y 18 descarrilaron completamente; se arrancaron los ejes delantero y central de cada uno de ellos. Los vagones con los n.º de serie 19 y 20 no descarrilaron.
-Fig. 3: Final del tren; último vagón (n.º de serie 20), ubicación aguja 11033
+Debido a la separación de trenes í distancia respecto al tren 69062, este había efectuado entrada a las 12:27 h en Bremen Hbf vía 4 í, la señal de bloqueo automático (Sbk) 11175 en el tramo Abzw Vahr í Bremen Hbf mostraba para el tren 90156 aún Hp 0 - Detención. Al aproximarse a la señal, el maquinista (Tf) frenó el tren con un freno de servicio hasta detenerlo hacia las 12:28 h. En esta detención, el vehículo con el n.º ord. 16 se encontraba aproximadamente en el punto kilométrico 2,55. Después de que el Sbk 11175, tras una parada del tren de unos 40 segundos, cambiara a la posición de vía libre (cambio de Hp 0 a Ks 2), el maquinista reanudó la marcha y aceleró el tren hasta unos vmax 48 km/h.
 
+Durante la puesta en marcha se produjo el ascenso del 3.º eje del vehículo 16 sobre el raíl y, en consecuencia, el eje se deslizó en sentido de la marcha hacia la derecha (primera rueda de descarrilamiento). Antes del punto de descarrilamiento ya se habían encontrado residuos metálicos junto a y sobre los raíles del vía transitado. A partir de aproximadamente km 2,55, el vehículo descarrilado fue arrastrado en la formación del tren.
+
+En consecuencia, la vía se vio dañada significativamente.
+
+Fig. 2: Plano de situación punto kilométrico 2,5 í 3,0, punto de descarrilamiento
+Fuente: Plano IVL de DB Netz AG, procesado por EUB
+
+La velocidad máxima permitida localmente para este tren era de 90 km/h hasta la siguiente señal de entrada (Esig) 11C de la estación Bremen Hbf. La señalización en el Esig permitía una velocidad de entrada de 60 km/h, que el tren sin embargo no alcanzó. Después de una distancia recorrida de unos 1,9 km en marcha (hasta vmax 48 km/h) en el estado descarrila-
 
 ## Página 16
 
-A las 12:32 horas, debido a la destrucción o el daño de las instalaciones exteriores (agujas 11102, 11103, 11101, 11033, 11043, 11034, Ls 110244X) se registraron en la pantalla de comunicación del puesto de maniobras Bremen Hbf las correspondientes notificaciones de avería (notificaciones de colisión, fallos en los contadores de ejes, fallos de posición base en las señales de protección luminosas).
-Fig. 4: Separación del tren entre el 17.º y el 18.º vagón, vista en contra de la dirección de marcha.
-El 17.º vagón quedó sobre la aguja 11034 y los vagones con los n.º de serie 18-20 entre Dkw 11044 y la aguja 11033.
-Fig. 5: Vagón n.º de serie 16, vista en contra de la dirección de marcha
+En este estado, el vehículo se desplazó continuamente hacia la derecha debido a la curva del vía y colisionó ligeramente con un mástil de catenaria. Al alcanzar la zona de la aguja de la aguja 11102 maniobrada en punta, el vehículo se desvió completamente hacia la derecha y, a continuación, colisionó, entre otros, con el mástil de catenaria 121-19c. El mástil de catenaria posterior 121-21a fue arrancado completamente de su fundamento.
+
+Según sus propias declaraciones, el Tf notó durante la circulación por la estación una fuerte tensión en la formación del tren. Tras mirar por la ventana de la cabina de mando, habría observado una fuerte generación de polvo en la parte trasera del tren y, en consecuencia, habría iniciado una frenada de emergencia, así como habría emitido una llamada de emergencia.
+
+La llamada de emergencia emitida fue, sin embargo, grabada "sin una sola palabra hablada".
+
+La aguja 11033 maniobrada en punta (posición izquierda) pasó, debido al descarrilamiento, a posición derecha, de modo que los tres últimos vagones (n.º de orden 18-20) abandonaron la vía establecida y circularon por las agujas 11033 (derecha), 11043 (derecha) y 11044 c/d (izquierda). Inmediatamente antes de detenerse, el tren se rompió entre los vagones 17 y 18. Los vagones con el n.º de orden 17 y 18 descarrilaron completamente, siendo arrancados el bastidor delantero y el central respectivamente. Los vagones con el n.º de orden 19 y 20 no descarrilaron.
+
+Fig. 3: Cola del tren; último vagón (n.º de orden 20), ubicación aguja 11033
+
+## Página 17
+
+A las 12:32 h, a causa de la dañada o destrucción de las instalaciones exteriores (agujas 11102, 11103, 11101, 11033, 11043, 11034, Ls 110244X), se registraron en la pantalla de comunicaciones del puesto de mando de Bremen Hbf las correspondientes señales de avería (señales de colisión, averías de contejo de ejes, averías de posición normal en las señales de bloqueo lumínicas).
+
+Fig. 4: Desenganche entre los vagones 17.º y 18.º, vista en sentido contrario a la marcha.
+El vagón 17.º se encontraba sobre la aguja 11034 y los vagones con el n.º de orden 18-20 entre el Dkw 11044 y la aguja 11033.
+
+Fig. 5: Vagón n.º de orden 16, vista en sentido contrario a la marcha.
 
 ## Página 18
+
 
 El decimosexto vagón se encontraba acoplado al decimoquinto vagón en la composición 11045 c/d. El juego de ruedas 1 se descarriló hacia la izquierda; el juego de ruedas 2 se encontró encajado en la vía. El tercer y cuarto juego de ruedas se descarrilaron respectivamente hacia la derecha. Entre ambas partes del vagón se encontraba el poste de la catenaria nº 121-21a, desgajado, sobre el vehículo.
 El tren se detuvo con la cabeza aproximadamente a la altura de la señal intermedia (Zsig) 11ZR44.
@@ -478,10 +491,10 @@ x | x | Vehículos ferroviarios | aprox. | 310 000 € . |
 | x | Otros (multas de proveedores de servicios, etc.) , , . | aprox. | 202 600 € . |
 ## 3.3 
 ## Condiciones meteorológicas
-El suceso tuvo lugar a la luz del día y con condiciones meteorológicas despejadas y visibilidad clara. Se registraba sequía, con temperaturas de aproximadamente 1 °C y velocidades del viento de unos 14 km/h. No se pudo determinar ninguna influencia favorable del clima en la ocurrencia del suceso. 
-
+El suceso tuvo lugar a la luz del día y con condiciones meteorológicas despejadas y visibilidad clara. Se registraba sequía, con temperaturas de aproximadamente 1 °C y velocidades del viento de unos 14 km/h. No se pudo determinar ninguna influencia favorable del clima en la ocurrencia del suceso.
 
 ## Página 19
+
 
 # 4 
 # Acta de investigación 
@@ -495,18 +508,18 @@ En las fotografías arriba reproducidas se aprecian desgastes frescos del materi
 Antes del lugar del descarrilamiento se podían encontrar repetidamente pequeños fragmentos de los recubrimientos de material caídos y huellas de entrada de calor / fricción en el espejo de rodadura. Estas eran rastreables hasta las vías 25 de la estación de Kirchweyhe.
 En dirección de marcha del tren, detrás del lugar del descarrilamiento, se pudo reconstruir la continuación del curso del descarrilamiento en función de la disposición de las huellas. Quedó claro que el juego de ruedas descarrilado, debido a la curva de la vía en el área del punto kilométrico a partir de aproximadamente 4,3, se desvió continuamente hacia la derecha en dirección de marcha.
 
-
 ## Página 20
+
 
 Fig. 8: huellas de descarrilamiento en el interior de la vía (aprox. km 2,8)
 Fig. 9: huellas de descarrilamiento en el exterior de la vía (aprox. km 2,6)
 Fig. 10: huellas de descarrilamiento (aprox. km 4,3)
 Fig. 11: huellas de descarrilamiento (aprox. km 4,3)
 Fig. 12: huellas de descarrilamiento (aprox. km 4,4)
-Fig. 13: huellas de descarrilamiento; cimiento del poste 121-21a  
-
+Fig. 13: huellas de descarrilamiento; cimiento del poste 121-21a
 
 ## Página 21
+
 
 En función de las huellas se pudo reconstruir que, al alcanzar la zona del corazón del desvío 11102, que se circulaba frontalmente, el vehículo se desvió completamente hacia la derecha y, a continuación, colisionó inicialmente con el poste de catenaria 121-19c, dañándolo gravemente. El poste de catenaria siguiente, 121-21a, fue arrancado completamente de su cimiento como consecuencia de una colisión.
 Debido a la circulación en dos vías o al descarrilamiento de los vagones posteriores y al desarrollo de fuerzas asociado a ello, se produjo la separación del tren entre el decimoséptimo y el decimoctavo vagón.
@@ -520,6 +533,7 @@ En el sistema de documentación se registró correctamente el curso de la explot
 
 ## Página 22
 
+
 ## 4.3.1 
 ## Análisis de los registros de la FBOA/HOA
 El sistema de detección de ruedas calientes/frenos bloqueados (HOA/FBOA SST 85 núm. 002.2) se encuentra en la línea de la VZG 2200 Wanne-Eickel Hbf - Münster Hbf - Osnabrück - Bremen - Hamburg, en el punto kilométrico 289,774, entre las instalaciones de Scheeßel y Rotenburg(Wümme), en lo que se denomina vía exterior. La detección se produjo antes del cambio de sentido de marcha. Por lo tanto, en este punto debe considerarse el segundo eje del sexto vehículo ferroviario, es decir, el quinto vagón (el primer eje descarrilado).
@@ -529,8 +543,8 @@ Fig. 14: Extracto de la FBOA
 El sistema de detección de frenos bloqueados no registró ninguna superación del umbral de temperatura (ࢡ > 80 °C, véase Fig. 14).
 A efectos de exhaustividad, también se menciona el resultado de la HOA, aunque carece de importancia para el incidente de «freno bloqueado». La HOA tiene por objeto detectar calentamientos no admisibles de los cojinetes de los ejes.
 
-
 ## Página 23
+
 
 Fig. 15: Extracto de la HOA
 La temperatura medida en el sentido de marcha hacia Kirchweyhe del segundo eje del vagón Hccrr 23 80 2911 316-0 fue de 17,4 °C (2L) y 12,9 °C (2R), situándose por debajo de la media de todos los ejes del tren.
@@ -539,10 +553,10 @@ Los umbrales para la activación de una alarma se quedaron claramente por debajo
 ## 4.3.2 
 ## Análisis de la avería en el contador de ejes en el desvío Gabelung
 Según un análisis del recorrido del tren realizado, el tren DGS 90156 circuló por el desvío Gabelung a las 12:19 h. Posteriormente, al Fdl se le siguió indicando el tramo de vía 80G151 como ocupado. El administrador de la infraestructura determinó como causa de la avería un conteo erróneo del contacto electrónico doble (DEK) 80G151. A las 12:24 h se accionó con éxito el botón de reposición del contador de ejes (AzGrT) (documentación del centro de mando).
-En el examen del DEK no se detectaron influencias externas ni daños. La causa de esta avería fue probablemente el estado «anormal» de los ejes del vehículo que posteriormente descarriló, que rodaban o se habían desgastado, los cuales, debido a primeras soldaduras, presentaban una distancia atípica respecto al DEK, lo que provocó conteos erróneos. 
-
+En el examen del DEK no se detectaron influencias externas ni daños. La causa de esta avería fue probablemente el estado «anormal» de los ejes del vehículo que posteriormente descarriló, que rodaban o se habían desgastado, los cuales, debido a primeras soldaduras, presentaban una distancia atípica respecto al DEK, lo que provocó conteos erróneos.
 
 ## Página 24
+
 
 ## 4.4 
 ## Análisis de las actuaciones operativas
@@ -552,10 +566,10 @@ Para el análisis de las actuaciones operativas del Tf se evaluaron los datos de
 El Tfz está equipado con un sistema de seguridad de trenes tipo I60 ER 24 y con la funcionalidad PZB 90. Los datos de conducción se registraron en una cinta de almacenamiento de datos electrónica (DSK 10). La hora indicada (hora DSK) es interna al sistema y difería de la hora real / (de referencia) (hora GSM-R) en aproximadamente menos un minuto. Las horas mencionadas a continuación indican siempre las horas DSK. Para la evaluación de los datos de conducción se normalizaron las indicaciones del recorrido registrado, es decir, los datos de distancia se adaptaron a la kilometraje de la línea. Como punto de referencia se eligió la ubicación del SBK 11175 (señal combinada con función Vsig para Esig Bremen Hbf) en el punto kilométrico 3,033. El tren circuló en el tramo de línea entre el desvío Vahr y Bremen Hbf en dirección al kilometraje de la línea. La evaluación se refiere fundamentalmente a todo el recorrido del tren hasta la parada de los vehículos tras el descarrilamiento. Sin embargo, se presta especial atención al último tramo de conducción desde la entrada en la estación de Kirchweyhe, la maniobra de cabeza y la posterior conducción hasta Bremen Hbf. La circulación del tren se registró correctamente hasta la parada tras el accidente. Los datos no muestran irregularidades que favorecieran el incidente hasta la ocurrencia del accidente.
 Se introdujeron los siguientes datos de cabecera antes del inicio de la circulación del tren:
 Número de tren DGS 90156, número de Tf [¡SIN INTRODUCCIÓN!], porcentaje de frenado 094, tipo de freno 8. La circulación se realizó en el área evaluada en modo de funcionamiento PZB. La omisión de la introducción obligatoria del número de Tf no tuvo influencia alguna en el funcionamiento del PZB ni en la ocurrencia del incidente.
-La circulación del tren se realizó desde Cuxhaven Gbf hasta Kirchweyhe desde la cabina de conducción «2» líder. A las 09:27:54 h (hora DSK) el tren se detuvo por motivos operativos durante aproximadamente dos minutos en la estación de clasificación Maschen Rbf.  
-
+La circulación del tren se realizó desde Cuxhaven Gbf hasta Kirchweyhe desde la cabina de conducción «2» líder. A las 09:27:54 h (hora DSK) el tren se detuvo por motivos operativos durante aproximadamente dos minutos en la estación de clasificación Maschen Rbf.
 
 ## Página 25
+
 
 Aproximadamente a las 10:38 h, el tren circuló por su recorrido a unos 80 km/h por el sistema de detección de ruedas calientes/frenos bloqueados entre Scheeßel y Rotenburg(Wümme). De los registros de la EFR no se desprende ninguna irregularidad en el curso de la conducción en este punto. El paso por el sistema no se registra en la EFR.
 A las 11:26:35 h el tren se detuvo en la estación de Kirchweyhe. A continuación, a las 11:30:51 h, se registra en la DSK la puesta en marcha del Tfz para rebasar el tren. La velocidad máxima de maniobra permitida de vmax 25 km/h según la Ril. 408 «Circulación de trenes y maniobras» se superó repetidamente hasta en 15 km/h (a las 11:42:47 h y aproximadamente a las 11:46 h). A las 11:46:30 h se registra la parada del Tfz desde la cabina de conducción «2» activa.
@@ -569,6 +583,7 @@ A las 11:47:05 h se registra la cabina de conducción «1» como activa. A conti
 
 ## Página 26
 
+
 A las 11:54:32 h, tras recorrer una distancia de aproximadamente 45 metros y alcanzar una velocidad máxima de unos 6 km/h, la marcha se detiene nuevamente. 
 A partir de los datos del EFR no se deduce directamente el enganche de la locomotora al tren de vagones, la realización de la prueba de frenos ni la posible actuación del regulador de presión. Según los datos del DSK, el maquinista disponía de 07 minutos y 25 segundos para ello (desde las 11:46:30 h del DSK hasta las 11:53:55 h del DSK). Este intervalo de tiempo puede calificarse como insuficiente para llevar a cabo el proceso de enganche y la prueba de frenos prescrita. 
 Según la evaluación de las grabaciones de voz del GSM-R, el aviso de tren listo se realizó aproximadamente a las 11:55 h. En los datos del EFR no se registra este hecho. 
@@ -581,10 +596,12 @@ A las 12:33:05 h, a una velocidad de unos 24 km/h, la marcha del tren cruza el s
 
 ## Página 27
 
+
 el maquinista no apoyó el freno de emergencia, contrariamente a su declaración, no pudo determinarse (véase el apartado 4.4.6). Probablemente no se produjo una prolongación significativa de la distancia de frenado debido a las circunstancias dadas, ya que la fuerza de frenado completa está disponible desde una presión de la HL < 3,5 bar. Sin embargo, este valor no se registra en el EFR. 
-Fig. 17: Gráfico del EFR de la marcha del tren 
+Fig. 17: Gráfico del EFR de la marcha del tren
 
 ## Página 28
+
 
 ## Declaración del maquinista del tren DGS 90156 
 El maquinista del tren DGS 90156 indicó en su declaración del 14.02.2013 a su cliente (empresa gestora de la infraestructura ferroviaria, EVU), a grandes rasgos, lo siguiente: 
@@ -600,6 +617,7 @@ La inspección de los vagones y la prueba de frenos se realizaron en el tren DGS
 
 ## Página 29
 
+
 se haya realizado la prueba de frenos.
 Posteriormente, habría ordenado la liberación del freno y, a continuación, habría constatado el estado de liberación en el último vagón. Por lo tanto, el freno se encontraba en condiciones correctas.
 Tras la prueba de frenos simplificada, se desplazó hasta el cruce de vía (BÜ) Marine, el cual aseguró para permitir que el tren DGS 90156 ingresara a la vía de salida 201.
@@ -612,8 +630,8 @@ Tras la inspección de los vagones y la prueba de frenos, habría aplicado el fr
 Constatación: Para la entrega del tren al conductor (Tf) como responsable del tren, se realizó una documentación escrita de la preparación del tren, con el contenido de qué trabajos, en el marco de la preparación del tren, no se realizaron, a qué hora y en qué medida.
 Según los procesos previstos de la empresa ferroviaria (EVU), esto no estaba previsto.
 
-
 ## Página 30
+
 
 ## 4.4.3 
 ## Acciones operativas del personal de la central de señales
@@ -631,8 +649,8 @@ x
 A las 12:32 h, debido al daño o destrucción de las instalaciones exteriores (desvíos 11102, 11103, 11101, 11033, 11043, 11034, Ls 110244X), se registraron las correspondientes notificaciones de avería (notificaciones de colisión, averías en el recuento de ejes, averías en la posición base de las señales de parada luminosas) en la pantalla de comunicaciones.
 La circulación del tren DGS 90156 se realizó desde la estación de origen, pasando por todas las instalaciones operativas hasta el lugar del incidente, bajo señal principal y en funcionamiento normal. También debido a las documentaciones de la central de señales evaluadas, debe descartarse cualquier comportamiento erróneo del personal de conducción (Fdl) participante en la circulación del tren que haya sido causa del accidente o que incluso lo haya favorecido.
 
-
 ## Página 31
+
 
 ## Declaración del conductor de señales (Fdl) de Kirchweyhe (özF Diepholz Nord, turno de mañana)
 El conductor de señales (Fdl) responsable de la estación de Kirchweyhe durante el turno de mañana (özF Diepholz Nord) declaró, en su declaración del 21.02.2013, a su empleador (EIU), a efectos de resumen, lo siguiente:
@@ -645,8 +663,8 @@ Tras atravesar el desvío (Abzw) Gabelung, el tramo 80G151 permaneció iluminado
 La siguiente circulación del tren se encargó mediante la orden 9, indicando circular a la vista en el tramo afectado. Al parecer, no se detectaron particularidades.
 Se pudo restablecer correctamente la posición base del recuento de ejes.
 
-
 ## Página 32
+
 
 ## 4.5 
 ## Inspección de los vehículos
@@ -658,6 +676,7 @@ La siguiente imagen muestra una representación general del vehículo ferroviari
 Fig. 18: Representación general Hccrrs 5.833 M
 
 ## Página 33
+
 
 Los datos técnicos del vehículo ferroviario se derivan del siguiente resumen:
 Longitud total con topes
@@ -702,8 +721,8 @@ Contorno del vagón
 UIC 505-1
 Tabla 2: Datos del vagón
 
-
 ## Página 34
+
 
 ## 4.5.1 
 ## Inspección del vehículo en el lugar del accidente
@@ -712,16 +731,16 @@ primer eje descarrilado
 Eje 3R
 Fig. 19: Vehículo descarrilado (n.º de serie 16) Vista en sentido de marcha
 
-
 ## Página 35
+
 
 Fig. 20: Eje 3R (Vehículo n.º de serie 16) Vista en sentido de marcha
 Como se puede apreciar en la figura 21, la posición del mecanismo del freno de mano en combinación con la del cilindro de freno permite identificar claramente que el freno de estacionamiento estaba aplicado.
 Fig. 21: Mecanismo del freno de mano y cilindro de freno extendido (posición de frenado)
 (Fuente: BPoli)
 
-
 ## Página 36
+
 
 ## 4.5.2 
 ## Inspección del vehículo en el taller
@@ -731,8 +750,8 @@ En primer lugar, se documentaron las particularidades, daños y defectos enumera
 No se detectaron daños especiales en los enganches de tracción y de choque. No se midieron las alturas de los topes, ya que estos habían estado sometidos a una carga especial debido a las uniones por topes y a las obras de reencarrilamiento. Además, el vagón había sido colocado sobre un bogie auxiliar para su traslado. La lubricación de los topes estaba en orden. No se observaron defectos en las válvulas de cierre para el aire comprimido ni en las mangueras de aire comprimido.
 En el conjunto rodante no se registraron particularidades especiales en las guías de los cojinetes de los ejes uno y dos. El brazo del soporte del eje del eje dos estaba doblado hacia abajo tanto a la derecha como a la izquierda. En el eje tres, el brazo del soporte del eje izquierdo estaba completamente doblado. El brazo del soporte del eje derecho estaba doblado hacia abajo. La guía del cojinete derecho estaba doblada hacia el interior y las placas de manganeso duro estaban dañadas. En el eje cuatro, los brazos del soporte del eje derecho e izquierdo estaban doblados hacia abajo. Las guías de los cojinetes (placas de manganeso duro) también estaban dañadas. En los cojinetes de los ejes no se detectaron daños externos, salvo algunas desconchaduras de pintura. Los cojinetes de los ejes podían girarse libremente a mano. Tras retirar las tapas de los cojinetes de los ejes tres y cuatro, aparentemente no se pudieron detectar particularidades especiales en el cojinete o en su interior.
 
-
 ## Página 37
+
 
 En la suspensión del vehículo (ballestas) se detectaron, en el lado izquierdo del eje 3, como consecuencia del descarrilamiento, brazos de suspensión rotos. Según lo previsto, se instalaron las siguientes ballestas de acuerdo con los datos del haz de ballestas:
 | Datos del haz de ballestas (ballestas): | 1 derecha | 174/20 DB L&S 09 CC |
@@ -753,8 +772,8 @@ Eje 2: igual que el eje 1.
 Eje 3: Profundas marcas de deslizamiento / planicias en las superficies de rodadura de ambas ruedas, así como acumulaciones de material en ambas superficies de rodadura de hasta 30 mm de altura y >300 mm de longitud. Además, se encontraron daños (desconchaduras de pintura, abolladuras) en las ruedas, en el eje del rodillo y en las carcasas de los cojinetes causados por el descarrilamiento (balasto y materiales de fijación de las vías).
 Eje 4: igual que el eje 3, salvo que faltan las acumulaciones de material. Las acumulaciones de
 
-
 ## Página 38
+
 
 material fueron retiradas para el traslado del vehículo.
 Las mediciones del perfil (grosor de la corona de rodadura, altura de la corona de rodadura, ancho transversal de los flancos frontales y distancia entre las caras frontales interiores de las coronas de rodadura) de los ejes uno y dos fueron normales.
@@ -763,6 +782,7 @@ Fig. 22: Eje 3 izquierdo
 Fig. 23: Eje 3 derecho
 
 ## Página 39
+
 
 En conjunto, durante la investigación se detectaron principalmente daños que pueden considerarse consecuencia del descarrilamiento o que se produjeron en el marco de las labores de reestablecimiento de la vía. Estos incluyen, por ejemplo, daños en las carrocerías de los vehículos, en las guías de los cojinetes de los ejes y en las barras de las horquillas, así como en los ejes de las ruedas y también en las ruedas de los conjuntos de ruedas uno y dos. Los conjuntos de ruedas tres y cuatro presentaban importantes pérdidas de material (zonas planas) y acumulaciones de material (soldaduras) en las superficies de rodadura. Las acumulaciones de material en las superficies de rodadura del conjunto de ruedas tres alcanzaban hasta 30 mm de altura. Debido a estas acumulaciones de material, la guía del conjunto de ruedas por parte de la pestaña de rodadura ya no era posible, lo que provocó, como consecuencia, el descarrilamiento del conjunto de ruedas.
 
@@ -789,6 +809,7 @@ Se realizó una prueba de funcionamiento en los dos reguladores de varillaje de 
 
 ## Página 40
 
+
 Para la prueba de funcionamiento de las válvulas de freno por peso RLV 11d 136/1, se realizó una prueba de estanqueidad y funcionamiento en el banco de pruebas. La prueba inicial se ejecutó de acuerdo con las especificaciones de ensayo de Knorr-Bremse PRF 4716.
 
 El resultado de las válvulas B1 y B2 fue el siguiente:
@@ -813,6 +834,7 @@ La central de rescate pública informó a la central de gestión de emergencias 
 La secuencia temporal de la gestión interna de emergencias de DB Netz desde la ocurrencia del incidente, aproximadamente a las
 
 ## Página 41
+
 
 12:29 horas hasta el inicio de las investigaciones de los hechos en el lugar por parte de la EUB, se estructuró de la siguiente manera:
 
@@ -902,6 +924,7 @@ EIU, EVU
 Tabla 3: Secuencia de la gestión de emergencias
 
 ## Página 42
+
 
 No se detectaron irregularidades ni retrasos en relación con el inicio de las medidas de rescate, debido a las circunstancias concurrentes favorables existentes. No obstante, por ejemplo, el envío de la orden de parada de emergencia mediante la llamada de emergencia GSM-R por parte del conductor no funcionó correctamente. La evaluación del registro de voz GSM-R reveló que no se había grabado ninguna palabra hablada. Únicamente se podían percibir fuertes ruidos de interferencia. La comunicación de la descarrilamiento del tren al equipo de rescate ferroviario (özF) se realizó finalmente a través del personal de la central de señales «Bha», situada frente al lugar del accidente (véase fig. 1 superior).
 

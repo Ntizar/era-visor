@@ -10,13 +10,14 @@ chars: 103023
 ratio_longitud: 1.21
 tokens_in: 55669
 tokens_out: 39564
-verificacion: revisar
-notas_cifras: ["bloque 1: original bilingüe: se compara contra el idioma principal (EN)", "bloque 2: original bilingüe: se compara contra el idioma principal (PT)", "bloque 3: cifras cortas: 1/160", "bloque 7: original bilingüe: se compara contra el idioma principal (CS)"]
-avisos: ["bloque 1: ratio 1.63", "bloque 7: ratio 1.79"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 3: original bilingüe: se compara contra el idioma principal (PT)", "página 9: original bilingüe: se compara contra el idioma principal (EN)", "página 10: original bilingüe: se compara contra el idioma principal (PT)", "página 11: original bilingüe: se compara contra el idioma principal (CS)", "página 14: original bilingüe: se compara contra el idioma principal (PT)"]
 ---
+
 ## Página 1
+
 
 Inspección Ferroviaria
 República Checa
@@ -43,13 +44,13 @@ IČ:   75009561
 http://www.dicr.cz
 tel.: 224 805 444
 
-
 ## Página 2
+
 
 Este informe final es público y todos los documentos y hechos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ## 1 RESUMEN
 Fuente: Inspección Ferroviaria 
@@ -79,8 +80,8 @@ salida S3a est. Roztoky u Prahy;
 • incumplimiento de la señal previa “Alto” en el repetidor de señal del
 protector automático de tren HDV del tren Os 12149.
 
-
 ## Página 4
+
 
 Factores contribuyentes:
 • ausencia de medios técnicos de protección en la est. Roztoky
@@ -122,8 +123,8 @@ similares, recomienda:
 Al gestor de la vía de categoría nacional y regional, a la Administración de la Vía Ferroviaria de Transporte,
 organización estatal:
 
-
 ## Página 5
+
 
 • acelerar los trabajos de implantación del protector automático de tren europeo
 ETCS en servicio, y no solo en los ferrocarriles nacionales, que constituyen
@@ -164,8 +165,8 @@ redacción vigente, la Inspección Ferroviaria recomienda a la Autoridad Ferrovi
 la realización de las recomendaciones de seguridad anteriores por parte de los demás gestores de vías
 y transportistas en los ferrocarriles nacionales y regionales.
 
-
 ## Página 6
+
 
 ## RESUMEN 
 Grado:
@@ -215,8 +216,8 @@ principal);
 (RU) – no vigilancia de la vía ferroviaria durante la circulación del tren y no
 cumplimiento de las instrucciones dadas.
 
-
 ## Página 7
+
 
 Causa raíz:
 • no adopción de medidas propias adecuadas y eficaces por parte del
@@ -253,12 +254,14 @@ la funcionalidad del ETCS en cuanto la infraestructura esté lista.
 3) Dirigidas a la Autoridad Nacional de Seguridad Checa (NSA):
 • se recomienda adoptar una medida propia que fuerce la implementación de
 las recomendaciones anteriores para el resto de gestores de la
-infraestructura (IM) y transportistas ferroviarios (RU) en la República Checa. 
-
+infraestructura (IM) y transportistas ferroviarios (RU) en la República Checa.
 
 ## Página 8
 
+
+
 ## Página 9
+
 
 # Índice
 1 Resumen ...............................................................................................................................3
@@ -299,8 +302,8 @@ personas) ................................20
 3.1.1 Empleados del gestor de la vía y del transportista, incluidas personas en 
 relación contractual ...............................................................................................................20
 
-
 ## Página 10
+
 
 3.1.2 Otras personas .........................................................................................................21
 3.2 Sistema de garantía de la seguridad ...............................................................................21
@@ -342,10 +345,10 @@ punto 3
 ............................................................................................................................33
 4.2 Análisis ......................................................................................................................34
 4.2.1 Evaluación de los hechos constatados según el punto 3 y formulación de 
-conclusiones sobre la causa de la 
-
+conclusiones sobre la causa de la
 
 ## Página 11
+
 
 excepción y la actividad de los servicios de rescate ..........................................34
 4.3 Conclusiones .......................................................................................................................36
@@ -367,8 +370,8 @@ excepción
 6 Recomendaciones de seguridad .............................................................................................38
 7 Anexos .............................................................................................................................40
 
-
 ## Página 12
+
 
 ## Lista de siglas y símbolos utilizados
 COP
@@ -431,6 +434,7 @@ VNPN
 
 ## Página 13
 
+
 ## Lista de abreviaturas de disposiciones legales, normas y reglamentos internos
 ley núm. 262/2006 Sb.
 Código del Trabajo, en su versión vigente
@@ -460,8 +464,8 @@ SŽDC (ČD) D1                             reglamento interno SŽDC (ČD) D1 «R
                                                      en vigor desde 1. 7. 2008, en su versión vigente
 SŽDC (ČD) D2                             reglamento interno SŽDC (ČD) D2 «Reglamento para la organización y explotación del transporte ferroviario» aprobado por decisión del director general de los Ferrocarriles Checos de fecha 13. 3. 1997, ref. núm.:
 
-
 ## Página 14
+
 
                                                      55 279/97-O11, en vigor desde 28. 12. 1997, asumido
                                                      por el explotador de la infraestructura con base en la Instrucción del director general núm. 8/2008 «Asumción de los reglamentos de los Ferrocarriles Checos, a. s.,
@@ -485,30 +489,29 @@ reglamento interno SŽDC D1 «Reglamento de circulación y de señales»
                                                     aprobado por el director general de SŽDC de fecha 17. 12. 2012, 
 ref. núm.: 55738/2012-OZŘP, en vigor desde el 01. 07. 2013
 
-
 ## Página 15
 
-## 2 DATOS RELATIVOS AL SUCESO EXCEPCIONAL
+## 2 DATOS RELATIVOS AL SUCESO EXTRAORDINARIO
 ## 2.1
-### Suceso excepcional
-### 2.1.1 Fecha, hora exacta y lugar del suceso excepcional
+### Suceso extraordinario
+### 2.1.1 Fecha, hora exacta y lugar del suceso extraordinario
 Fecha:
 27. 03. 2013.
 Hora:
 19:25 h.
 Vía:
-ferroviaria, nacional.
+ferroviaria, estatal.
 Lugar:
-línea 527A Praha-Bubeneč – Děčín hl. nádraží, est. Roztoky u Prahy,
-semáforo de salida S3a, vía 3a, pk 421,311.
+vía 527A Praha-Bubeneč – Děčín hl. nádraží, est. Roztoky u Prahy,
+semáforo de salida S3a, SK n.º 3a, pk 421,311.
 GPS:
 50°9'19.652"N, 14°23'52.140"E.
-Fig. 1: Cuadernillo de horarios del tren Os 12149                  Fuente: SŽDC
-### 2.1.2 Descripción del suceso excepcional y del lugar del accidente, incluida la actuación del sistema de protección integral y del servicio de emergencia
-El 27. 3. 2013, el jefe de estación de Praha-Holešovice estableció en la estación Roztoky u Prahy la ruta de tren para el tren EC 379 desde la vía 1 tras la vía 3a y, a continuación, desde el semáforo principal de salida (en adelante también semáforo de salida) S1 en la vía 1 en dirección a Praha-Bubeneč. Simultáneamente estableció en la estación Roztoky u Prahy la ruta de tren para la salida del tren de origen perturbador Os 12149 desde la vía 5 desde el espacio de embarque y desembarque de pasajeros hasta la vía 3a hasta el semáforo de salida S3a. El tren Os 12149 fue despachado por el jefe de estación con la señal «Velocidad 50 km·h-1 y repetición de la señal de aviso» en el semáforo principal de ruta (en adelante también semáforo de ruta) Sc5. El maquinista del tren Os 12149 puso el tren en marcha y, al circular por la vía 3a, se guió por la señal «Vía libre» en el semáforo de salida S1, que no le estaba destinada, sin percatarse de que había pasado el semáforo de salida S3a, en el que estaba encendida la señal «Alto». El tren
-
+Fig. n.º 1: Cuadernillo de horarios del tren Os 12149                  Fuente: SŽDC
+### 2.1.2 Descripción del suceso extraordinario y del lugar del accidente, incluida la actividad del sistema integrado de emergencia y del servicio de rescate
+El 27. 3. 2013, el jefe de estación de la est. Praha-Holešovice estableció en la est. Roztoky u Prahy la ruta ferroviaria para el tren EC 379 desde la 1. TK tras la 1. SK y, a continuación, desde el semáforo principal de salida (en adelante también semáforo de salida) S1 en la 1. TK dirección Praha-Bubeneč. Al mismo tiempo, estableció en la est. Roztoky u Prahy la ruta ferroviaria para la salida del tren de origen perturbador Os 12149 desde la 5. SK desde el área de embarque y desembarque de pasajeros en la SK n.º 3a hasta el semáforo de salida S3a. El tren Os 12149 fue despachado por el jefe de estación con la señal «Velocidad 50 km·h-1 y repetición de la señal de aviso» en el semáforo principal de ruta (en adelante también semáforo de ruta) Sc5. El maquinista del tren Os 12149 puso el tren en marcha y, al circular por la SK n.º 3a, se guió por la señal «Vía libre» en el semáforo de salida S1, que no le estaba destinada, sin percatarse de que había pasado junto al semáforo de salida S3a, en el que estaba encendida la señal «Alto». El tren
 
 ## Página 16
+
 
 Os 12149 pasó junto al semáforo que prohibía la circulación, cortó la aguja núm. 6 en la estación Roztoky u Prahy y continuó la marcha hasta la estación Praha-Bubeneč, donde se detuvo en la vía 3b. Debido al paso no autorizado del semáforo de salida S3a, se produjo un cambio en la indicación del semáforo de salida S1 de la señal que permitía la circulación a la señal «Alto» para el tren EC 379. El tren EC 379 se detuvo ante el semáforo de salida S1 con la señal «Alto».
 
@@ -523,8 +526,8 @@ SE comunicada al COP del DI el día:
 Forma de comunicación:
 telefónica.
 
-
 ## Página 17
+
 
 Comunicada por la persona autorizada en nombre de:
 el explotador de la infraestructura (SŽDC) y el transportista (ČD).
@@ -558,6 +561,7 @@ jefe de estación de Praha-Holešovice, empleado de SŽDC, OŘ Praga.
 •
 
 ## Página 18
+
 
 2.2.2 Trenes y su composición, incluidos los números de registro de los vehículos ferroviarios individuales
 | Tren: | Os12149 |  | Composición del tren: | Propietario: |
@@ -601,8 +605,8 @@ circuitos de vía con DSŠ12 y fuente de alimentación UNZ3.80A. El ordenador de
 en el DK de la est. Praha-Holešovice está alimentado desde el SZZ existente (soporte 42) desde los disyuntores F11 y F12.
 El equipo de señalización de la estación dispone del Certificado de Aptitud UTZ n.º ev. PZ1378/12-E.46,
 
-
 ## Página 19
+
 
 emitido el 08. 10. 2012 con vigencia por tiempo indefinido. 
 La señal de salida S3a en el km 421,311 es de mástil, señalizada con la placa prescrita
@@ -642,52 +646,51 @@ Con la presencia del VI DI se realizó una inspección comisionada del lugar del
 El MU fue comunicado por: el jefe de estación de la est. Praha-Holešovice al jefe de despacho OOŘP SŽDC.
 El plan IZS no fue activado.
 
-
 ## Página 20
 
 ## 2.3
-### Fallecimientos, lesiones y daños materiales
-2.3.1 En cuanto a pasajeros y terceras personas, empleados del explotador de la línea y del transportista,
+### Muertos, heridos y daños materiales
+2.3.1 En cuanto a pasajeros y terceros, empleados del gestor de la vía y del transportista,
 incluidas personas en relación contractual
-En el MU no se produjo perjuicio para la salud de los empleados del explotador de la línea, del transportista,
-de las personas en relación contractual ni de los pasajeros y terceras personas.
-### 2.3.2 En cuanto a las mercancías transportadas, el equipaje y otros bienes
-No se produjo daño en las mercancías transportadas, el equipaje y otros bienes.
-### 2.3.3 En cuanto a los vehículos ferroviarios, los componentes de la vía de circulación y el medio ambiente
-El explotador de la línea cuantificó el daño en:
-equipos de la línea
+En el MU no se produjo daño alguno a la salud de los empleados del gestor de la vía, del
+transportista, de personas en relación contractual, ni tampoco de pasajeros y terceros.
+### 2.3.2 En cuanto a las cosas transportadas, el equipaje y otros bienes
+No se produjo daño en las cosas transportadas, el equipaje ni otros bienes.
+### 2.3.3 En cuanto a los vehículos ferroviarios, los componentes de la vía y el medio ambiente
+El gestor de la vía cuantificó el daño en:
+equipamiento de la vía
                 220 000 Kč.
 •
-### En el MU el daño en los componentes de la línea fue cuantificado en total en: 220 000 Kč
+### En el MU, el daño en los componentes de la vía se cuantificó en un total de: 220 000 Kč
 ## 2.4
 ### Circunstancias externas
 ### 2.4.1 Condiciones meteorológicas y datos geográficos
 Condiciones meteorológicas:
-nublado, - 3 °C, sin viento, visibilidad reducida - oscuridad.
+cielo cubierto, - 3 °C, sin viento, visibilidad reducida - oscuridad.
 ## 3 REGISTRO DE LAS EXPLICACIONES PRESENTADAS
 ## 3.1
 ### Resumen de las explicaciones presentadas (sujeto a protección de la identidad de las personas)
-### 3.1.1 Empleados del explotador de la línea y del transportista, incluidas personas en relación
+### 3.1.1 Empleados del gestor de la vía y del transportista, incluidas personas en relación
 contractual
 maquinista del tren Os 12149
-  – De la Explicación presentada y del Acta con el empleado
+  – de la Explicación presentada y del Acta con el empleado
 •
-se deduce, entre otras cosas:
-el tren Os 12149 estaba detenido en la vía nº 5 y, tras la puesta de la señal Sc5 en la señal
+se desprende, entre otros datos:
+el tren Os 12149 se encontraba detenido en la SK n.º 5 y, tras colocar la señal Sc5 en la
 •
-que permite la circulación, el maquinista arrancó con él;
-durante la circulación por la vía nº 3a observó la señal que permite la circulación en la señal
+señal que autoriza la marcha, el maquinista arrancó con él;
+durante la marcha por la SK n.º 3a advirtió la señal que autoriza la marcha en la señal
 •
-vecina, pero no se percató de que no era válida para su circulación;
-pasó la señal de salida S3a con la señal Alto y continuó la circulación hacia la est.
+contigua, pero no se percató de que no era aplicable a su marcha;
+pasó la señal de salida S3a con la indicación «Alto» y continuó la marcha hacia la est.
 •
 Praha-Bubeneč;
-tras detenerse en la vía nº 3b en la est. Praha-Bubeneč, el jefe de estación de la est.
+tras detenerse en la SK n.º 3b en la est. Praha-Bubeneč, el jefe de estación de la est.
 •
-Praha-Holešovice le comunicó que había pasado una señal que prohíbe la circulación;
-
+Praha-Holešovice le comunicó que había pasado una señal que prohibía la marcha;
 
 ## Página 21
+
 
 en la est. Roztoky u Prahy nadie le informó de que sería adelantado por el tren
 •
@@ -736,50 +739,25 @@ para la operación de la línea y la organización del tráfico ferroviario. Con
 constatados, indicados en el presente informe, el explotador de la línea no garantizó el cumplimiento de
 los procedimientos tecnológicos establecidos, y por tanto del sistema de seguridad
 implantado de la explotación de la línea, ya que al maquinista del tren Os 12149
-no se le advirtió de la retención por motivos de circulación en la est. Roztoky u Prahy. 
-
+no se le advirtió de la retención por motivos de circulación en la est. Roztoky u Prahy.
 
 ## Página 22
 
-En 
-el cumplimiento del sistema de garantía de la seguridad adoptado por el transportista ČD,
-relacionado con las circunstancias del origen del MU en cuestión se constató una deficiencia.
-Hallazgo:
-el transportista involucrado en el MU tiene implantado un sistema de seguridad de la explotación
-•
-del tráfico ferroviario y ha emitido, entre otros, normas internas que incluyen procedimientos tecnológicos
-mediante los cuales se garantizan las actividades establecidas por las normas para la explotación del tráfico
-ferroviario, en el presente caso en particular para la conducción de los vehículos ferroviarios. Con base en
-los hechos constatados, indicados en el presente informe, el transportista del tren Os 12149
-no garantizó el cumplimiento de los procedimientos tecnológicos establecidos, y por tanto del
-sistema de seguridad implantado de la explotación del tráfico ferroviario, ya que el maquinista del tren
-Os 12149 no respetó la instrucción del explotador de la línea de detener el tren antes
-de la señal de salida S3a con la señal «Alto» y de la preseñalización de la señal «Alto» en
-el repetidor de señal del freno automático de tren de la locomotora del tren Os 12149. Asimismo
-no respetó la instrucción del transportista de vigilar la vía durante la circulación del tren y de regirse por las señales.
-### 3.2.2 Requisitos para los empleados del explotador de la línea y del transportista y su
-aplicación
-Los requisitos para los empleados del explotador de la línea y del transportista, en particular los requisitos
-de su aptitud profesional y sanitaria, están establecidos por la ley nº 266/1994 Sb.,
-el decreto nº 173/1995 Sb., el decreto nº 101/1995 Sb., el decreto nº 16/2012 Sb.
-y las normas internas del explotador de la línea y del transportista.
-En el momento del origen del MU en cuestión, la persona del explotador de la línea SŽDC involucrada
-en el MU y que realizaba actividades en la explotación de la línea era profesionalmente apta para el desempeño de la
-función desempeñada.
-En el momento del origen del MU en cuestión, todas las personas del transportista ČD involucradas
-en el MU y que realizaban actividades en la explotación de la línea y del tráfico ferroviario eran profesionalmente aptas para el desempeño de la
-función desempeñada.
-### 3.2.3 Procedimiento de control interno de la seguridad y sus resultados
-En el procedimiento de control interno de la seguridad del explotador de la línea y del transportista no se
-constataron deficiencias.
-### 3.2.4 Interfaz entre los distintos sujetos involucrados y los componentes de la vía de circulación
-El explotador de la línea ferroviaria, categoría nacional, línea 527A, Praha-Bubeneč –
-Děčín hl. n., fue la Administración de la Vía de Circulación Ferroviaria, organización estatal, con sede en Dlážděná
-1003/7, Praha 1, CP 110 00, con base en la Autorización Administrativa emitida por la Autoridad Ferroviaria
-el 29. 5. 2008, bajo el n.º de expediente: 3-4277/07-DÚ/Le-DÚ/O-SI, n.º ev.: ÚP/2008/9002 en la redacción
-de las modificaciones posteriores.
+V 
+se constató una deficiencia en el cumplimiento por parte del operador ferroviario ČD del sistema de seguridad adoptado, relacionado con las circunstancias de la creación de la MU en cuestión.
+Hallazgos:
+• el operador ferroviario participante en la MU cuenta con un sistema de seguridad de explotación del transporte ferroviario implantado y ha emitido, entre otros, reglamentos internos que incluyen procedimientos tecnológicos mediante los cuales se garantizan las actividades establecidas por las normas para la explotación del transporte ferroviario, en el caso concreto especialmente para la conducción de los vehículos ferroviarios. Sobre la base de los hechos constatados, expuestos en el presente informe, el operador ferroviario del tren Os 12149 no garantizó el cumplimiento de los procedimientos tecnológicos establecidos y, por tanto, tampoco del sistema de seguridad de explotación del transporte ferroviario implantado, ya que el maquinista del tren Os 12149 no respetó la instrucción del gestor de la infraestructura de detener el tren antes de la señal de salida S3a con la indicación «Stůj» (Alto) ni la preseñalización de la indicación «Stůj» (Alto) en el repetidor de señal del freno automático de tren (HDV) del tren Os 12149. Asimismo, no respetó la instrucción del operador ferroviario de vigilar la vía durante la marcha del tren y de ajustarse a las señales.
+### 3.2.2 Requisitos aplicables al personal del gestor de la infraestructura y del operador ferroviario y su aplicación
+Los requisitos aplicables al personal del gestor de la infraestructura y del operador ferroviario, en particular los requisitos de idoneidad profesional y sanitaria, están establecidos por la ley n.º 266/1994 Sb., el decreto n.º 173/1995 Sb., el decreto n.º 101/1995 Sb., el decreto n.º 16/2012 Sb. y los reglamentos internos del gestor de la infraestructura y del operador ferroviario.
+En el momento de la creación de la MU en cuestión, la persona del gestor de la infraestructura SŽDC participante en la MU y que realizaba actividades en la explotación de la infraestructura era profesionalmente idónea para el desempeño de la función que ocupaba.
+En el momento de la creación de la MU en cuestión, todas las personas del operador ferroviario ČD participantes en la MU y que realizaban actividades en la explotación de la infraestructura y del transporte ferroviario eran profesionalmente idóneas para el desempeño de la función que ocupaban.
+### 3.2.3 Procedimiento de control interno de seguridad y sus resultados
+En el procedimiento de control interno de seguridad del gestor de la infraestructura y del operador ferroviario no se constataron deficiencias.
+### 3.2.4 Interfaz entre los distintos sujetos participantes y los componentes de la vía
+El gestor de la infraestructura ferroviaria, categoría nacional, línea 527A, Praha-Bubeneč – Děčín hl. n., era la Správa železniční dopravní cesty, organización estatal, con domicilio en Dlážděná 1003/7, Praha 1, PSČ 110 00, en virtud de la Autorización Oficial emitida por el Drážní úřad (Organismo Ferroviario) el 29. 5. 2008, bajo el n.º de expediente: 3-4277/07-DÚ/Le-DÚ/O-SI, n.º de registro: ÚP/2008/9002, en su versión con las modificaciones posteriores.
 
 ## Página 23
+
 
 El explotador de la vía SŽDC, organización estatal, con domicilio en Dlážděná 1003/7 Praga 1, CP 110 00, era titular del Certificado de seguridad del explotador de la vía, expedido por el DÚ el 30. 6. 2008 bajo el n.º de expediente: 3-4274/07-DÚ-Pd, n.º de registro: OSPD/2008/007.
 El transportista del tren Os 12149 era České dráhy, a. s., con domicilio en Nábřeží L. Svobody 1222, Praga 1, CP 110 15, en virtud de la Licencia de explotador del transporte ferroviario n.º de registro: L/2003/9000, n.º de expediente: 3-2169/03-DÚ/Bp, expedida por el Drážní úřad en Praga el 17. 9. 2003, con vigencia por tiempo determinado, hasta el 11. 12. 2004, en la redacción de las modificaciones posteriores.
@@ -810,8 +788,8 @@ g) guiarse en la explotación del transporte ferroviario por las instrucciones d
 § 15 apartado 8 del decreto n.º 173/1995 Sb.:
 •
 
-
 ## Página 24
+
 
 «(8) Las actividades de garantía de la entrada, salida y paso del tren y el modo de garantía de la circulación de los trenes se rigen por los procedimientos tecnológicos establecidos por el explotador de la vía.»;
 § 35 apartado 1 letras f), m) del decreto n.º 173/1995 Sb.:
@@ -841,8 +819,8 @@ norma interna SŽDC (ČD) D2, artículo 505:
 «En las estaciones donde se permite la expedición de trenes según el artículo 502, es posible la expedición de trenes con transporte de pasajeros que se encuentren (regular o excepcionalmente) en el espacio de bajada y subida de pasajeros, mediante la colocación de la señal principal en la señal que permite la circulación, cumpliendo estas condiciones:...
 e) «...Si el maquinista no ve entre el frente del tren y la señal de salida (de viaje) una aguja y no puede comprobar de forma segura con la vista antes de la salida que la señal principal correspondiente permite la salida, y tampoco lo ha constatado ni con la señal del preaviso independiente (preaviso repetidor), ni con la señal de la señal principal anterior que es el preaviso de la señal principal correspondiente, ni con el protector de trenes, ni preguntando al jefe de estación, tras realizar las actuaciones según la norma del transportista (para el procedimiento de la tripulación del tren antes de poner el tren en marcha), pondrá el tren en marcha con una velocidad máxima de 40 km/h. Sin embargo, la velocidad de circulación debe regularla de modo que pueda detenerse de forma segura antes de la señal Alto de la señal principal o antes de la aguja eventual. El maquinista solo podrá aumentar la velocidad cuando compruebe de forma segura que la señal principal correspondiente
 
-
 ## Página 25
+
 
 permite la salida del tren a mayor velocidad. ...»;
 norma interna SŽDC (ČD) D2, artículo 1302:
@@ -881,8 +859,8 @@ El puesto del jefe de estación que opera el dispositivo de protección se encue
 •
                    por el tren Os 12149;
 
-
 ## Página 26
+
 
 19:25:02 h, ocupación del circuito de vía 1SK tras la señal 1S por el tren EC 379
 •
@@ -931,8 +909,8 @@ Praga-Bubeneč).
 ### 3.4.2 Componentes de la vía
 Mediante mediciones en el lugar de ocurrencia del accidente se constató que la visibilidad de las señales en la señal de salida S3a de la est. Roztoky u Prahy es de 350 metros, lo que corresponde a 12 s a una velocidad de circulación del vehículo ferroviario principal de 90 km·h 1. La distancia medida está de acuerdo con el § 7 apartado 1 del decreto 173/1995 Sb. Las señales de la señal de salida S3a se transmitían al vehículo de tracción principal.
 
-
 ## Página 27
+
 
 Para garantizar la explotabilidad de la vía y la seguridad del transporte ferroviario, el explotador de la vía realizó, antes de la ocurrencia del accidente, inspecciones y mediciones de las obras de las vías de acuerdo con el § 26 apartados 1 y 2 del decreto n.º 177/1995 Sb.
 Los componentes de la vía no guardaban relación causal ni fuera de relación causal con la ocurrencia del accidente. No se detectaron deficiencias.
@@ -971,6 +949,7 @@ Según el registro del explotador de la vía sobre el movimiento del tren Os 121
 
 ## Página 28
 
+
 Fig. n.º 3: Registro de velocímetro del HDV del tren Os 12149                                        Fuente: ČD
 La velocidad máxima permitida del tren Os 12149 en el punto de la MU, es decir, en el nivel de la señal de salida S3a que prohíbe la marcha (V = 0 km·h-1) fue superada. En el tramo siguiente se mantuvo la velocidad máxima de la vía. El protector de tren estaba en funcionamiento y era operado por el maquinista durante todo el turno registrado.
 El HDV 451.060-8 tenía un Certificado de aptitud del vehículo ferroviario válido, n.º de ref.: PZ 2661/99-V.05, emitido por el DÚ el 01. 10. 1999. La última revisión técnica periódica antes de la aparición de la MU se realizó el 30. 01. 2013 con validez hasta el 30. 07. 2013. El HDV era utilizado por el transportista ČD en un estado técnico que corresponde a la aptitud aprobada.
@@ -983,8 +962,8 @@ El HDV 371.015-9 estaba equipado en el momento de la aparición de la MU con un 
 De los datos registrados se desprende:
 • 19:17:19 h, a una velocidad de 87 km·h-1, se encendió el "verde" en el repetidor de señal;
 
-
 ## Página 29
+
 
 • 19:25:12 h, a una velocidad de 89 km·h-1, se apagó el "verde" en el repetidor de señal;
 • 19:25:14 h, se encendió el "rojo" en el repetidor de señal;
@@ -1007,8 +986,8 @@ Se detectó una deficiencia.
 ### 3.5.2 Intercambio de comunicaciones verbales en relación con el suceso excepcional, incluidos los registros del dispositivo de registro
 En relación con la MU no se produjo ninguna comunicación verbal que influyera en la aparición de la MU.
 
-
 ## Página 30
+
 
 ### 3.5.3 Medidas adoptadas para la protección y seguridad del lugar del suceso excepcional
 El lugar de la MU fue asegurado por la persona cualificada designada del gestor de la infraestructura y del transportista de conformidad con el decreto n.º 376/2006 Sb.
@@ -1028,8 +1007,8 @@ La disposición y el equipamiento del puesto de trabajo de los empleados del ges
 ### Sucesos excepcionales anteriores de carácter similar
 La Inspección Ferroviaria registra, desde el año 2005 hasta la aparición de la MU en cuestión, en las vías ferroviarias de ámbito nacional y regional, en las estaciones ferroviarias donde la orden de salida de un tren con transporte de pasajeros la da el jefe de estación al maquinista mediante la colocación de la señal principal (de salida o de ruta), un total de 71 MU similares. La causa de la aparición de estas MU fue siempre el no respeto de la señal "Alto" en estas señales
 
-
 ## Página 31
+
 
 por parte de los maquinistas y la posterior marcha no autorizada del tren más allá de ellas. En estas MU se produjeron daños a la salud en 63 personas y un perjuicio por importe de 43 811 450 Kč.
 La Inspección Ferroviaria, con motivo de la aparición de la MU del 16. 2. 2009 en la est. Paskov, cuando como consecuencia de la marcha no autorizada del tren más allá de la señal de salida con la señal "Alto" se produjo la colisión de dos trenes con transporte de pasajeros, emitió la recomendación de seguridad n.º de ref.: 6- 538/2009/DI-1, de fecha 18. 3. 2010, en la que recomendó al gestor de la infraestructura SŽDC acelerar los trabajos para la implantación del protector de tren europeo ETCS en servicio, no solo en las vías de ámbito nacional, que constituyen el sistema convencional del Sistema Ferroviario Europeo, sino también en las demás vías de ámbito nacional y regional.
@@ -1045,6 +1024,7 @@ De acuerdo con las disposiciones del § 53b apartado 5 de la ley n.º 266/1994 S
 
 ## Página 32
 
+
 El transportista ČD no adoptó, respecto de las recomendaciones de seguridad anteriores del DI, medidas fundamentales para prevenir la aparición de MU similares. De su respuesta a la recomendación de seguridad emitida por el DI a raíz del MU del 22. 10. 2011 en la Odbočka Odra, entre otros, se dedujo que participa en el proyecto piloto de implantación del sistema ETCS – véase más abajo.
 
 El gestor de la vía SŽDC, en las medidas adoptadas respecto de las recomendaciones de seguridad emitidas, entre otros, indicó que había convocado un procedimiento de licitación para la instalación del sistema europeo de seguridad ferroviaria de trenes ETCS con una longitud total de 277 km en el marco del I Corredor Ferroviario de Tránsito, y que en el año 2011 realizó la verificación del sistema ETCS L2 en el tramo Poříčany – Pečky – Velim. El objetivo principal de este proyecto piloto fue la implantación del sistema ETCS en las condiciones del ferrocarril de la República Checa. En el proyecto participa también el transportista České dráhy, a. s., que permitió el montaje de las partes móviles del sistema ETCS en determinadas unidades de material rodante.
@@ -1059,49 +1039,40 @@ A la recomendación de seguridad emitida por el DI con base en la investigación
 
 Como medida adoptada respecto de las recomendaciones de seguridad indicadas puede considerarse, parcialmente por parte del gestor de la vía, los procedimientos tecnológicos recientemente modificados para la expedición y la salida del tren en la norma interna de SŽDC D1, consistente principalmente en la modificación de las condiciones para la expedición del tren mediante la señal del semáforo principal (arts. 2977 – 2984 de la norma SŽDC D1). Con esta medida corresponde también otra medida que el gestor de la vía adoptó con base en la recomendación de seguridad emitida por el DI el 21. 10. 2013 n.º ref.: 957/2013/DI relativa a un MU similar en la estación Kolín: «la solución
 
-
 ## Página 33
 
-de la problemática de la circulación de trenes y su expedición en los distintos ámbitos de la estación será objeto de la segunda enmienda en preparación de la norma SŽDC D1 – Norma de Circulación» (el 22 de enero de 2013 se produjo en la estación Kolín, tras la expedición del tren Os 8663 mediante señal de estación, una circulación no autorizada más allá del semáforo de salida S1a que prohibía la circulación. El jefe de estación expedió el tren Os 8663 con transporte de pasajeros mediante las señales de estación Sc100 y Sc1 desde el 100. SK hasta el semáforo de salida S1a en el SK 1a, que prohibía una circulación posterior por motivo de que el tren Os 8663 fue adelantado por el tren IC 1015 por el 2. SK. El jefe de estación no informó al maquinista del tren Os 8663 de la retención por motivos de circulación en el ámbito de la estación Kolín).
-
+problemas de la circulación de trenes y su despacho en las distintas secciones de la est. será objeto de la segunda enmienda preparada del Reglamento de Circulación SŽDC D1 – Reglamento de Circulación" (el 22 de enero de 2013, en la est. Kolín, tras el despacho del tren Os 8663 mediante señal de vía, se produjo una circulación no autorizada más allá de la señal de salida S1a que prohibía la circulación. El jefe de estación despachó el tren Os 8663 con transporte de pasajeros mediante las señales de vía Sc100 y Sc1 desde la 100. SK hasta la señal de salida S1a en la SK 1a, que prohibía la circulación posterior debido al adelantamiento del tren Os 12149 por el tren IC 1015 tras la 2. SK. El jefe de estación no informó al maquinista del tren Os 8663 de la retención por motivos de circulación en la sección de la est. Kolín).
 ## 4 ANÁLISIS Y CONCLUSIONES
 ## 4.1
 ### Descripción final del suceso excepcional
-### 4.1.1 Descripción final del suceso excepcional con base en los hechos constatados
+### 4.1.1 Descripción final del suceso excepcional basada en los hechos constatados
 en el punto 3
-
-El 27. 3. 2013, en la estación Roztoky u Prahy, estaba preparado para salir desde el 5. SK en el andén elevado el tren de circulación local Os 12149, con salida regular a las 19:24 h. El jefe de estación de Praha-Holešovice, que controlaba y organizaba de forma remota la circulación de trenes en la estación Roztoky u Prahy, decidió retener el tren Os 12149 por motivos de circulación (adelantamiento por el tren EC 379 por el 1. SK) hasta el semáforo de salida S3a y así reducir su retraso. El maquinista del tren Os 12149 no fue advertido por el jefe de estación de que el tren sería retenido en la estación Roztoky u Prahy por motivos de circulación. El jefe de estación estableció la ruta para el tren Os 12149 desde el 5. SK hasta el SK n.º 3a en el semáforo de salida S3a. En el intervalo de tiempo entre las 19:17:23 h y las 19:17:33 h, el jefe de estación en la estación Roztoky u Prahy estableció la ruta para el tren EC 379 desde el semáforo de entrada 1S en el 1. SK hasta la señal S1, y a continuación desde el 1. SK desde el semáforo de salida S1 en el 1. TK en dirección a Praha-Bubeneč. El maquinista del tren Os 12149 puso el tren en movimiento a las 19:24:11 h y salió desde el 5. SK hasta el SK n.º 3a, dirección Praha-Bubeneč. A las 19:25:01 h el tren Os 12149 pasó junto al semáforo de salida S3a, pese a que en dicho semáforo había la señal «Alto» y, además, esta señal estaba también preanunciada en el repetidor de señal del protector de trenes. El maquinista continuó con velocidad creciente y a las 19:25:06 h el tren Os 12149 cortó el desvío n.º 6 y continuó la circulación no autorizada hasta la estación Praha-Bubeneč. Como consecuencia de la circulación no autorizada del tren Os 12149 más allá del semáforo de salida S3a, se produjo en el semáforo de salida S1 un cambio de la señalización de la señal que permitía la circulación a la señal «Alto» para el tren EC 379. Como el tren EC 379 solo estaba entrando en el 1. SK, el maquinista del tren EC 379 registró el cambio de señal y detuvo el tren de forma segura en el 1. SK, ante el semáforo de salida S1 con la señal «Alto», a la altura de la oficina de circulación de la estación Roztoky u Prahy. El jefe de estación de Praha-Holešovice registró la ocupación del circuito de vía del desvío n.º 6 tras el semáforo de salida S3a por el tren Os 12149, así como el posterior cambio de la señalización en el semáforo de salida S1 para el tren EC 379. El tren Os 12149 continuó la circulación, se detuvo conforme al horario para el ascenso y descenso de pasajeros en la parada Praha-Sedlec y a continuación salió hacia la estación Praha-Bubeneč, donde se detuvo en el SK n.º 3b. El jefe de estación de Praha-Holešovice informó al maquinista de dicho tren de que no se había detenido en la estación Roztoky u Prahy ante el semáforo de salida S3a con la señal «Alto».
-
-El jefe de estación de Praha-Holešovice comunicó inmediatamente el MU conforme al cuadro de comunicaciones.
-
+El 27. 3. 2013, en la est. Roztoky u Prahy, estaba preparado para salir desde la 5. SK en el andén elevado el tren de circulación local Os 12149, con salida regular a las 19:24 h. El jefe de estación de la est. Praha-Holešovice, que controlaba y organizaba remotamente la circulación de trenes en la est. Roztoky u Prahy, decidió retener el tren Os 12149 por motivos de circulación (adelantamiento por el tren EC 379 tras la 1. SK) hasta la señal de salida S3a y así reducir su retraso. El maquinista del tren Os 12149 no fue advertido por el jefe de estación de que sería retenido en la est. Roztoky u Prahy por motivos de circulación. El jefe de estación estableció la vía para el tren Os 12149 desde la 5. SK hasta la SK n.º 3a hasta la señal de salida S3a. En el intervalo de tiempo comprendido entre las 19:17:23 h y las 19:17:33 h, el jefe de estación en la est. Roztoky u Prahy estableció la vía para el tren EC 379 desde la señal de entrada 1S en la 1. SK hasta la señal S1, y a continuación desde la 1. SK desde la señal de salida S1 en la 1. TK en dirección a Praha-Bubeneč. El maquinista del tren Os 12149 puso el tren en marcha a las 19:24:11 h y salió desde la 5. SK hacia la SK n.º 3a, dirección Praha-Bubeneč. A las 19:25:01 h el tren Os 12149 pasó junto a la señal de salida S3a, a pesar de que en dicha señal se mostraba la indicación «Alto» y, además, esta indicación estaba también preanunciada en el repetidor de señales del freno automático de tren. El maquinista continuó circulando con velocidad creciente y a las 19:25:06 h el tren Os 12149 cruzó la aguja n.º 6 y continuó la circulación no autorizada hacia la est. Praha-Bubeneč. Debido a la circulación no autorizada del tren Os 12149 más allá de la señal de salida S3a, se produjo en la señal de salida S1 un cambio de la indicación de señal de la indicación que autoriza la circulación a la indicación «Alto» para el tren EC 379. Como el tren EC 379 solo estaba entrando en la 1. SK, el maquinista del tren EC 379 registró el cambio de indicación y detuvo el tren con seguridad en la 1. SK, a la altura de la oficina de circulación de la est. Roztoky u Prahy, antes de la señal de salida S1 con la indicación «Alto». El jefe de estación de la est. Praha-Holešovice registró la ocupación del sector de vía de la aguja n.º 6 tras la señal de salida S3a por el tren Os 12149, así como el posterior cambio de la indicación de señal en la señal de salida S1 para el tren EC 379. El tren Os 12149 continuó la circulación, se detuvo según el horario para el ascenso y descenso de pasajeros en la parada Praha-Sedlec y a continuación partió hacia la est. Praha-Bubeneč, donde se detuvo en la SK n.º 3b. El jefe de estación de la est. Praha-Holešovice informó al maquinista de dicho tren de que no se había detenido en la est. Roztoky u Prahy antes de la señal de salida S3a con la indicación «Alto».
+El jefe de estación de la est. Praha-Holešovice comunicó el suceso excepcional inmediatamente según el plan de comunicación.
 
 ## Página 34
 
 ## 4.2
 ### Análisis
-### 4.2.1 Evaluación de los hechos constatados conforme al punto 3 y exposición de las conclusiones sobre la causa del suceso excepcional y la actuación de los servicios de emergencia
-
-La salida del tren Os 12149 de la estación Roztoky u Prahy estaba prohibida por la SZZ de la estación Roztoky u Prahy, atendida por el jefe de estación de Praha-Holešovice, mediante la señal «Alto», señalizada con luz roja del semáforo de salida S3a. Al maquinista del tren Os 12149 se le advirtió de que el semáforo de salida S3a le prohibía la circulación posterior mediante la señal de estación anterior Sc5, donde la señal «Alto» del semáforo de salida S3a estaba preanunciada con la señal «Velocidad 50 km·h-1 y repetición de la señal de aviso», y, una vez que el tren pasó por esta señal de estación, la señal «Alto» del semáforo de salida S3a estaba preanunciada en el repetidor de señal del protector de trenes.
-
-Conforme a las condiciones de explotación determinadas, en el sentido del § 23 apartado 1 letra a) y letra b) del decreto n.º 177/1995 Sb., la SZZ de la estación Roztoky u Prahy garantizaba con su función el transporte ferroviario seguro, es decir, la señal que prohibía la circulación en el semáforo de salida S3a no permitía la circulación posterior del tren Os 12149, ya que el semáforo de salida contiguo S1 permitía la circulación desde el 1. SK hasta el 1. TK para el tren EC 379. Con su actuación, la SZZ prohibió efectivamente la circulación del tren Os 12149 más allá del semáforo de salida S3a, pero no dispone de los medios técnicos de seguridad que impidieran la circulación no autorizada del tren Os 12149 más allá del semáforo de salida S3a.
-
-El transportista, en relación con las disposiciones de las normas internas y legales, no garantizó la explotación del transporte ferroviario conforme a las reglas de explotación del transporte ferroviario y al contrato celebrado con el gestor de la vía para la explotación del transporte ferroviario en la vía, por cuanto el maquinista del tren Os 12149, al salir de la estación Roztoky u Prahy, no respetó la señal «Alto» del semáforo de salida S3a ni su preanuncio en el repetidor de señal del protector de trenes, que seguía atendiendo durante esta circulación. Como consecuencia de ello, en el punto desde el que era visible la señal «Alto» en el semáforo de salida S3a, en lugar de adaptar la velocidad de circulación del tren para que se detuviera de forma segura antes del punto señalizado, la velocidad del tren Os 12149 seguía aumentando, se produjo el corte del desvío n.º 6 y el tren Os 12149 continuó la circulación hasta la estación Praha-Bubeneč.
-
-A MU similares, en los que el jefe de estación expedía un tren con transporte de pasajeros mediante la colocación de la señal de estación en la señal que permitía la circulación hacia el semáforo de salida, que por motivos de circulación prohibía la circulación posterior (adelantamiento del tren expedido por un tren de categoría superior, cruce de trenes), se produjeron en condiciones similares en el pasado en la estación Roztoky u Prahy ya en varias ocasiones.
-
-- El 7. 6. 2010 en la estación Roztoky u Prahy se produjo una circulación no autorizada del tren Os 12115 más allá del semáforo de salida S3a que prohibía la circulación. El jefe de estación de Praha-Holešovice expidió en la estación Roztoky u Prahy el tren Os 12115 con transporte de pasajeros desde el 5. SK mediante la colocación de la señal de estación Sc5 en la señal que permitía la circulación hacia el semáforo de salida S3a en el 3. SK, que prohibía la circulación posterior por motivo de que el tren Os 12115 fue adelantado por el tren R 777 por el 1. SK.
-- El 7. 10. 2010 en la estación Roztoky u Prahy se produjo una circulación no autorizada del tren Os 12153 más allá del semáforo de salida S3a que prohibía la circulación. El jefe de estación de Praha-Holešovice expidió en la estación Roztoky u Prahy el tren Os 12153 con transporte de pasajeros desde el 5. SK mediante la colocación de la señal de estación Sc5 en la señal que permitía la circulación hacia el semáforo de salida S3a en el 3. SK, que prohibía la circulación posterior por motivo de que el tren Os 12153 fue adelantado por el tren R 607 por el 1. SK.
-- El 10. 5. 2012 en la estación Roztoky u Prahy se produjo una circulación no autorizada del tren Os 12151 más allá del semáforo de salida S3a que prohibía la circulación. El jefe de estación de Praha-Holešovice expidió
+### 4.2.1 Evaluación de los hechos constatados de acuerdo con el punto 3 y formulación de conclusiones sobre la causa del suceso excepcional y la actuación de los servicios de rescate
+La salida del tren Os 12149 de la est. Roztoky u Prahy fue prohibida por la SZZ de la est. Roztoky u Prahy, atendida por el jefe de estación de la est. Praha-Holešovice, mediante la señal «Alto», señalizada con luz roja de la señal de salida S3a. Al maquinista del tren Os 12149 se le advirtió de que la señal de salida S3a le prohibía continuar la marcha mediante la señal de vía Sc5 precedente, donde la señal «Alto» de la señal de salida S3a fue preanunciada con la señal «Velocidad 50 km·h-1 y repetición de la señal de aviso», y, una vez que el tren pasó esta señal de vía, la señal «Alto» de la señal de salida S3a fue preanunciada en el repetidor de señal del freno automático de tren.
+De conformidad con las condiciones de explotación establecidas, en el sentido del § 23 apartado 1 letra a) y letra b) del decreto n.º 177/1995 Sb., la SZZ de la est. Roztoky u Prahy garantizaba con su función el transporte ferroviario seguro, es decir, la señal que prohibía la marcha en la señal de salida S3a no permitía la continuación de la marcha del tren Os 12149, ya que la señal de salida contigua S1 permitía la marcha de la 1.ª vía de entrada a la 1.ª vía de trayecto para el tren EC 379. Con su actuación, la SZZ prohibió efectivamente la marcha del tren Os 12149 más allá de la señal de salida S3a, pero no dispone de medios técnicos de seguridad que impidieran la marcha no autorizada del tren Os 12149 más allá de la señal de salida S3a.
+El transportista, en relación con lo dispuesto en las normas internas y legales, no garantizó la explotación del transporte ferroviario de acuerdo con las reglas de explotación del transporte ferroviario y el contrato celebrado con el explotador de la vía para la explotación del transporte ferroviario en la vía, en la medida en que el maquinista del tren Os 12149, al salir de la est. Roztoky u Prahy, no respetó la señal «Alto» de la señal de salida S3a ni su preanuncio en el repetidor de señal del freno automático de tren, que seguía atendiendo durante esta marcha. Como consecuencia de ello, en el punto desde el cual era visible la señal «Alto» en la señal de salida S3a, en lugar de adaptar la velocidad de marcha del tren para que se detuviera con seguridad antes del punto señalizado, la velocidad del tren Os 12149 seguía aumentando, se produjo el corte del desvío n.º 6 y el tren Os 12149 continuó su marcha hasta la est. Praha-Bubeneč.
+A casos similares de sucesos excepcionales, en los que el jefe de estación despachó un tren con transporte de pasajeros colocando la señal de vía en una señal que permitía la marcha hacia la señal de salida, que por motivos de explotación prohibía la marcha (adelantamiento del tren despachado por un tren de categoría superior, cruce de trenes), se produjeron en condiciones similares en el pasado ya varias veces en la est. Roztoky u Prahy.
+• El 7 de junio de 2010, en la est. Roztoky u Prahy, se produjo una marcha no autorizada del tren Os 12115 más allá de la señal de salida S3a que prohibía la marcha. El jefe de estación de la est. Praha-Holešovice despachó en la est. Roztoky u Prahy el tren Os 12115 con transporte de pasajeros desde la 5.ª vía de entrada colocando la señal de vía Sc5 en una señal que permitía la marcha hacia la señal de salida S3a en la 3.ª vía de entrada, que prohibía la marcha por el motivo de que el tren Os 12115 sería adelantado por el tren R 777 por la 1.ª vía de entrada.
+• El 7 de octubre de 2010, en la est. Roztoky u Prahy, se produjo una marcha no autorizada del tren Os 12153 más allá de la señal de salida S3a que prohibía la marcha. El jefe de estación de la est. Praha-Holešovice despachó en la est. Roztoky u Prahy el tren Os 12153 con transporte de pasajeros desde la 5.ª vía de entrada colocando la señal de vía Sc5 en una señal que permitía la marcha hacia la señal de salida S3a en la 3.ª vía de entrada, que prohibía la marcha por el motivo de que el tren Os 12153 sería adelantado por el tren R 607 por la 1.ª vía de entrada.
+• El 10 de mayo de 2012, en la est. Roztoky u Prahy, se produjo una marcha no autorizada del tren Os 12151 más allá de la señal de salida S3a que prohibía la marcha. El jefe de estación de la est. Praha-Holešovice despachó
 
 ## Página 35
+
 
 en la est. Roztoky u Prahy el tren Os 12115 con transporte de pasajeros desde la 5. SK mediante la puesta en marcha de la señal de vía Sc5 a la señal que permite la marcha hacia la señal de salida S3a en la 3. SK, que prohibía la marcha posterior debido al cruce del tren Os 12151 con el tren Vn 56371 por la 1. SK.
 El gestor de la infraestructura y el transportista emitieron, para cada una de las MU anteriores, una Evaluación de las causas y circunstancias de la aparición del suceso extraordinario, donde la conducta descrita de los empleados implicados sugiere que los maquinistas no fueron advertidos de la demora del tren por motivos operativos en el sentido del art. 211 de la normativa interna de SŽDC (ČD D2).
 Sobre la base de la evaluación de estas y otras MU similares (véase el cap. 3.7 de este informe), en las que un tren con transporte de pasajeros se despacha desde el lugar de embarque y desembarque de pasajeros mediante la puesta en marcha de la señal de vía a la señal que permite la marcha y la señal de salida prohíbe la marcha posterior por motivos operativos, sin que los maquinistas del tren hayan sido informados de este motivo ni sin que se haya garantizado por medios técnicos la parada automática del tren ante el incumplimiento de la señal que prohíbe la marcha del tren, el DI lo considera un riesgo. En el caso concreto, el tren Os 12149 tenía la salida regular de la est. Roztoky u Prahy a las 19:24 h. Debido a la irregularidad en la circulación, el tren EC 379, con paso regular por la est. Kralupy nad Vltavou a las 18:58 h, se retrasó 17 minutos. El paso real del tren EC 379 por esta est. se produjo a las 19:15 h. El tiempo de recorrido del tren EC 379 hasta la est. Roztoky u Prahy es de 10 minutos, por lo que el paso previsto (previsto) por esta est. resultaba a las 19:25 h. Mediante la dirección operativa del tráfico ferroviario, el jefe de estación de Praha-Holešovice decidió, totalmente correctamente, que el tren Os 12149 fuese adelantado en la est. Roztoky u Prahy por el tren de categoría superior EC 379. Junto con la vía de tren para el paso del tren EC 379 por la 1. SK, el jefe de estación de Praha-Holešovice estableció en la est. Roztoky u Prahy también la vía de tren para la salida del tren Os 12149 desde la 5. SK hacia la señal de salida S3a, según su declaración, con el esfuerzo de eliminar el retraso surgido por el adelantamiento de este tren. El tiempo de paso del tren EC 379 previsto a las 19:25 h es el tiempo de paso de este tren alrededor de la señal principal S1 en el km 421,311. El tren Os 12149 pudo salir de la est. Roztoky u Prahy después del tren EC 379, como muy pronto, una vez liberado el tramo de vía que ocupaba, delimitado por la señal de sección AB 2 – 4202 en el km 420,2. La distancia que tuvo que recorrer el tren EC 379 para liberar dicho tramo de vía asciende a 1313 m, es decir, la distancia desde la señal de salida S1 de la est. Roztoky u Prahy hasta la señal de sección AB 2 – 4202 aumentada en la longitud del tren de 202 m. A una velocidad de 90 km·h-1 se trata de un tiempo de aproximadamente 53 segundos. Si el tren Os 12149 hubiera salido tras la liberación del tramo de vía por el tren EC 379 desde el andén de la 5. SK, su tiempo de retraso habría sido de 2:53 minutos. La decisión del jefe de estación de despachar el tren Os 12149 en el momento de su salida regular desde la vía de la 5. SK hacia la señal de salida S3a, donde habría esperado aproximadamente 2:03 minutos la liberación del tramo de vía, redujo el retraso de este tren en casi 50 segundos, ya que es necesario reducir el tiempo ahorrado por el tiempo de una nueva arrancada (según el análisis de los datos del registrador de velocidad, el tren Os 12149 recorrió una distancia de aproximadamente 516 m desde el andén de la 5. SK hasta la señal de salida S3a sin reducir la velocidad, en aproximadamente 50 segundos). Es cuestión de saber si esta forma de organizar el tráfico ferroviario, o la reducción, en este caso, de 50 segundos, del retraso previsto del tren afectado, es adecuada desde el punto de vista del riesgo de seguridad (ya el 4.º MU en esta est.), que conlleva. También desde el punto de vista económico, esta forma no es en absoluto una ventaja, ya que se trata de una nueva (desde cierto punto de vista innecesaria) arrancada de un tren detenido ante la señal de salida (o de vía). En la época del ferrocarril unitario, estas arrancadas innecesarias se discutían a menudo incluso con los jefes de estación.
 La instrucción del gestor de la infraestructura, dada por la señal «Alto» de la señal de salida S3a de la est. Roztoky u Prahy, era inequívoca y comprensible. La recepción y el cumplimiento de esta instrucción estaban garantizados únicamente por la observación de la vía y las señales y la actuación según los hechos constatados por un factor humano, la persona que conduce el vehículo ferroviario del tren Os 12149, que sin embargo se equivocó y no se ajustó a las instrucciones del gestor de la infraestructura y del transportista. La persona que conduce el vehículo ferroviario durante el recorrido
 
-
 ## Página 36
+
 
 hacia la señal de salida S3a operaba regularmente la parte móvil del freno automático de tren HDV 94 54 1 451 059 – 0 con el botón de vigilancia. La parte móvil del freno automático de tren, de conformidad con la normativa legal vigente y las condiciones operativas designadas, sí reacciona ante una posible interrupción en la operación regular del botón de vigilancia por parte de la persona que conduce el vehículo ferroviario, pero si dicha interrupción no se produce, no impide por ningún medio técnico la marcha no autorizada del tren más allá de la señal principal que prohíbe la marcha.
 Las medidas adoptadas por el transportista ČD, a. s., la información a los empleados sobre las conclusiones de la investigación del MU y la suspensión de la cualificación profesional de los maquinistas según el punto 5.1 no pueden considerarse, en el sentido del § 13 apartado 1 del decreto nº 376/2006 Sb., medidas (eficaces) adecuadas para su eliminación, ya que siguen produciéndose MU similares, y no solo en la est. Roztoky u Prahy, aunque aquí se trata ya del 4.º caso que el DI registra desde 2010.
@@ -1129,25 +1100,22 @@ incumplimiento de los procedimientos tecnológicos del gestor de la infraestruct
 •
 establecidos para la salida de trenes desde la estación por parte del maquinista del tren Os 12149, en particular por no ajustar la velocidad tras poner el tren en movimiento de modo que el tren se detuviera con seguridad ante la señal «Alto» de la señal de salida principal
 
-
 ## Página 37
 
-, a pesar de haber sido advertido de la señal «Alto» tanto por la señal en la señal de vía principal Sc5 como por el anuncio previo del repetidor de señal;
-incumplimiento de los procedimientos tecnológicos del transportista, en particular por
+de la señal de salida, a pesar de haber sido advertido de la señal «Alto» tanto por la señal en la señal principal de vía Sc5 como por la preanunciación del repetidor de señales;
+incumplimiento de los procedimientos tecnológicos del transportista, en particular no vigilancia de la vía durante
 •
-no vigilar la vía durante la marcha del tren y no ajustarse a las instrucciones dadas.
+la circulación del tren y no seguimiento de las instrucciones dadas.
 ### 4.3.3 Causas debidas al marco normativo y al uso del sistema de garantía de la seguridad
-          La causa del suceso extraordinario debida al marco normativo y al uso del sistema de seguridad fue:
-no adopción de medidas propias adecuadas y eficaces por parte del gestor de la
-•
-infraestructura y del transportista para prevenir MU similares en una medida suficiente sobre la base de las recomendaciones de seguridad emitidas, ref. 6-538/2009/DI-1, de 18. 03. 2010, tras el MU de 16. 02. 2009 en la est. Paskov; ref. 6-3305/2009/DI-1, de 9. 11. 2010, tras el MU de 16. 10. 2009 en la est. Přerov; ref. 571/2012/DI-1, de 31. 7. 2012, tras el MU de 5. 12. 2011 en la est. Baška; ref. 741/2012/DI, de 25. 9. 2012, tras el MU de 23. 8. 2011 en la est. Praha-Libeň, en las estaciones en las que aún no se ha implantado un equipo técnico que impida activamente la marcha no autorizada del tren más allá de la señal principal que prohíbe la marcha y en las que la expedición del tren se realiza con la señal de la señal principal que permite la marcha del tren, incluida la señal de llamada.
+          La causa del suceso excepcional debida al marco normativo y al uso del sistema de seguridad fue:
+no adopción por parte del gestor de la infraestructura y del transportista de medidas propias adecuadas y eficaces para prevenir sucesos excepcionales similares en la medida suficiente, sobre la base de las recomendaciones de seguridad emitidas, ref. 6-538/2009/DI-1, de 18. 03. 2010, tras el SE del 16. 02. 2009 en la est. de Paskov; ref. 6-3305/2009/DI-1, de 9. 11. 2010, tras el SE del 16. 10. 2009 en la est. de Přerov; ref. 571/2012/DI-1, de 31. 7. 2012, tras el SE del 5. 12. 2011 en la est. de Baška; ref. 741/2012/DI, de 25. 9. 2012, tras el SE del 23. 8. 2011 en la est. de Praha-Libeň, en las instalaciones de tráfico en las que hasta la fecha no se ha implantado un dispositivo técnico que impida activamente la circulación indebida de un tren más allá de la señal principal que prohíbe la circulación y en las que la expedición del tren se realiza con la señal de la señal principal que permite la circulación del tren, incluida la señal de llamada.
 ## 4.4
 ### Hallazgos complementarios
-### 4.4.1 Deficiencias y omisiones detectadas durante la investigación de las causas y circunstancias de la aparición del suceso extraordinario, que sin embargo no son significativas para las conclusiones sobre las causas
-No se detectaron por parte del DI deficiencias y omisiones durante la investigación de las causas y circunstancias de la aparición del MU, que sin embargo no sean significativas para las conclusiones sobre las causas.
-
+### 4.4.1 Deficiencias y omisiones detectadas durante la investigación de las causas y circunstancias del suceso excepcional, que sin embargo no son relevantes para las conclusiones sobre las causas
+Las deficiencias y omisiones detectadas durante la investigación de las causas y circunstancias del SE, que sin embargo no son relevantes para las conclusiones sobre las causas, no fueron detectadas por el DI.
 
 ## Página 38
+
 
 ## 5 MEDIDAS ADOPTADAS
 ## 5.1
@@ -1168,8 +1136,8 @@ en las estaciones en las que se permite la expedición de trenes con la señal d
 •
 señal principal y en las que aún no se ha implantado un equipo técnico que garantice la parada automática del tren ante el incumplimiento de la señal que prohíbe la marcha del tren, garantizar para los trenes con transporte de pasajeros detenidos en el espacio de embarque y desembarque de pasajeros siempre el procedimiento según lo dispuesto en el art. 2979 letra e) de la normativa interna de SŽDC D1 en los casos en que la señal de salida prohíba la marcha por motivos operativos y el maquinista no sea informado de este motivo por el jefe de estación mediante equipo de telecomunicaciones, personalmente o a través de otro empleado.
 
-
 ## Página 39
+
 
 ### Al transportista České dráhy, a. s.:
 acelerar los trabajos de implantación y equipamiento de los vehículos ferroviarios
@@ -1184,8 +1152,8 @@ inspector superior
 de la Inspección Territorial de Praga
 de la Inspección Territorial de Praga
 
-
 ## Página 40
+
 
 ## 7 ANEXOS
 Fig. nº 4: est. Roztoky u Prahy – vista ilustrativa de la
@@ -1194,6 +1162,7 @@ Fig. nº 5: est. Roztoky u Prahy – vista ilustrativa desde la
 oficina de tráfico                                    Fuente: DI
 
 ## Página 41
+
 
 Fig. n.º 6: estación de Roztoky u Prahy – lugar de parada del tren EC 379
                                                                                                   Fuente de la base: Mapy.cz

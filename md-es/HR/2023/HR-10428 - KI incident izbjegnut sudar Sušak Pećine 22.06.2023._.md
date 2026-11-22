@@ -12,8 +12,8 @@ tokens_in: 59557
 tokens_out: 40965
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-verificacion: revisar
-avisos: ["página 3: cifras largas: faltan 4/7 (57%)", "página 13: ratio 2.02", "página 33: ratio 1.90", "página 36: ratio 1.65"]
+verificacion: ok
+notas_cifras: ["página 7: original bilingüe: se compara contra el idioma principal (HR)", "página 9: cifras largas: 1/7; cifras cortas: 4/26", "página 10: original bilingüe: se compara contra el idioma principal (HR)", "página 11: original bilingüe: se compara contra el idioma principal (HR)", "página 13: original bilingüe: se compara contra el idioma principal (PL); ratio 1.98", "página 14: cifras cortas: 2/29"]
 ---
 
 ## Página 1
@@ -58,18 +58,18 @@ El informe final no podrá utilizarse como prueba en un procedimiento judicial d
 
 ## Página 3
 
-### Prefacio  
-La Agencia de Investigación de Accidentes en el Tráfico Aéreo, Marítimo y Ferroviario (en lo sucesivo: AIN) fue creada por la Ley de Creación de la Agencia de Investigación de Accidentes en el Tráfico Aéreo, Marítimo y Ferroviario (Diario Oficial de la República de Croacia, número 54/13, 96/18) como persona jurídica con poderes públicos. El fundador de la Agencia es la República de Croacia, y los derechos de fundador los ejerce el Gobierno de la República de Croacia. 
-Para la forma de ejercicio de las funciones de la Agencia se aplican las disposiciones especiales, es decir, las leyes que regulan el tráfico aéreo, la marina, así como la seguridad y la interoperabilidad del tráfico ferroviario, o las disposiciones adoptadas para su aplicación.  
-La Sección de Investigaciones de Accidentes Ferroviarios es una unidad organizativa autónoma e independiente de la AIN que realiza tareas técnicas relacionadas con las investigaciones de accidentes graves e incidentes en el tráfico ferroviario en la red ferroviaria de la República de Croacia. Las investigaciones se llevan a cabo sobre la base de las disposiciones de la Ley sobre la Seguridad y la Interoperabilidad del Sistema Ferroviario (Diario Oficial de la República de Croacia, número 63/20) y de la Directiva (UE) 2016/798 del Parlamento Europeo y del Consejo, de 11 de mayo de 2016, relativa a la seguridad ferroviaria (reforma), así como sobre la base de las directrices de la Agencia Ferroviaria de la Unión Europea. 
-La AIN investiga todos los accidentes graves en el tráfico ferroviario, que son todos los incidentes que incluyen la colisión de trenes o el descarrilamiento de un tren que tenga como consecuencia la muerte de al menos una persona o lesiones graves de cinco o más personas, o daños importantes en los vehículos, la infraestructura ferroviaria o el medio ambiente, así como cualquier otro accidente similar con un impacto evidente en la seguridad del sistema ferroviario o en la gestión de la seguridad. 
-La AIN puede investigar también aquellos accidentes e incidentes que, bajo circunstancias ligeramente diferentes, podrían haber conducido a accidentes graves, incluyendo fallos técnicos en el funcionamiento de los subsistemas estructurales o de sus componentes. 
-La AIN realiza investigaciones de seguridad con el fin de prevenir accidentes e incidentes graves, lo que incluye la recopilación y análisis de datos, la elaboración de conclusiones, incluida la determinación de las causas y, cuando sea apropiado, la elaboración de recomendaciones de seguridad para prevenir accidentes e incidentes en el futuro y mejorar la seguridad en el tráfico ferroviario. 
-|  | Nombre | Cargo | Fecha | Firma |
-| Elaborado por: | Ivica Majdanđić | Investigador responsable | 10.06.2024 . . . |  |
-| Revisado por: | Tomislav Antun Biber | Investigador principal | 10.06.2024 . . . |  |
-|  | Sandra Lovrić | Investigadora | 10.06.2024 . . . |  |
-| Aprobado por: | Tomislav Antun Biber | Investigador principal | 10.06.2024 . . . |  |
+### Prefacio
+La Agencia de Investigación de Accidentes en el Tráfico Aéreo, Marítimo y Ferroviario (en lo sucesivo: AIN) fue creada por la Ley de Creación de la Agencia de Investigación de Accidentes en el Tráfico Aéreo, Marítimo y Ferroviario («Narodne novine», número 54/13, 96/18) como persona jurídica con competencias públicas. El fundador de la Agencia es la República de Croacia, y los derechos de fundación los ejerce el Gobierno de la República de Croacia.
+En la forma de realización de las actividades de la Agencia se aplican las disposiciones especiales, es decir, las leyes que regulan el tráfico aéreo, la navegación marítima, y la seguridad e interoperabilidad del tráfico ferroviario, así como las disposiciones adoptadas para su aplicación.
+El Departamento de Investigación de Accidentes en el Tráfico Ferroviario es una unidad organizativa autónoma e independiente de la AIN que desempeña las funciones profesionales relacionadas con la investigación de accidentes graves y sucesos extraordinarios en el tráfico ferroviario en la red ferroviaria de la República de Croacia. Las investigaciones se llevan a cabo con base en las disposiciones de la Ley sobre la Seguridad e Interoperabilidad del Sistema Ferroviario («Narodne novine», número 63/20) y de la Directiva (UE) 2016/798 del Parlamento Europeo y del Consejo de 11 de mayo de 2016 sobre la seguridad ferroviaria (recodificación), así como con base en las directrices de la Agencia Ferroviaria de la Unión Europea.
+La AIN investiga todos los accidentes graves en el tráfico ferroviario, que son todos los sucesos que implican la colisión de trenes o el descarrilamiento de un tren que tenga como consecuencia la muerte de al menos una persona o lesiones graves a cinco o más personas, o daños importantes a los vehículos, a la infraestructura ferroviaria o al medio ambiente, así como cualquier otro accidente similar con una influencia evidente en la seguridad del sistema ferroviario o en la gestión de la seguridad.
+La AIN puede investigar también aquellos accidentes e incidentes que, en circunstancias ligeramente diferentes, podrían haber conducido a accidentes graves, incluidas las averías técnicas en el funcionamiento de los subsistemas estructurales o de sus componentes.
+La AIN realiza investigaciones de seguridad con el fin de prevenir accidentes y siniestros graves, lo que incluye la recopilación y el análisis de datos, la elaboración de conclusiones, incluida la determinación de las causas y, cuando resulte apropiado, la formulación de recomendaciones de seguridad para prevenir accidentes e incidentes en el futuro y mejorar la seguridad en el tráfico ferroviario.
+|  | Nombre | Puesto de trabajo | fecha | firma |
+| Elaboró: | IvicaMajdanđić | Investigador responsable | 10062024 . . . |  |
+| Revisaron: | TomislavAntunBiber | Investigador principal | 10062024 . . . |  |
+|  | SandraLovrić | Investigadora | 10062024 . . . |  |
+| Aprobó: | TomislavAntunBiber | Investigador principal | 10062024 . . . |  |
 
 ## Página 4
 
@@ -359,35 +359,35 @@ La pendiente de la vía férrea procedente del apeadero de Škrljevo desde la se
 
 ## Página 13
 
-- desde el pk 648+300 hasta el pk 649+000 la pendiente es del 25 ‰, 
-- desde el pk 649+000 hasta el pk 649+280 la pendiente es del 26 ‰, 
-- desde el pk 649+280 hasta el pk 649+450 la pendiente es del 23 ‰, 
-- desde el pk 649+450 hasta el pk 649+587 la pendiente es del 25 ‰, 
-La pendiente de la vía principal procedente de la estación de Rijeka desde el semáforo de aproximación PsB hasta el primer desvío de entrada número 9 tiene los siguientes valores: 
-- desde el pk 651+761 hasta el pk 651+740 la rampa es del 17 ‰, 
-- desde el pk 651+740 hasta el pk 651+650 la rampa es del 10 ‰, 
-- desde el pk 651+650 hasta el pk 650+650 la rampa es del 25 ‰, 
-- desde el pk 650+650 hasta el pk 650+400 la rampa es del 24 ‰, 
-- desde el pk 650+400 hasta el pk 650+370 la rampa es del 25 ‰, 
-La pendiente de la vía principal procedente de la estación de Rijeka Brajdica desde el repetidor del semáforo de aproximación PpC hasta el primer desvío de entrada número 8 tiene los siguientes valores: 
-- desde el pk 0+522 hasta el pk 0+517 la rampa es del 25 ‰, 
-- desde el pk 0+517 hasta el pk 0+087 la rampa es del 8 ‰, 
-- desde el pk 0+087 hasta el pk 0+063 la rampa es del 25 ‰. 
-2. Tipos de vías y sus denominaciones 
-2.1. En la estación de Sušak Pećine las vías se dividen según su destino: 
-- vías principales, 
-- vías secundarias. 
-Vías principales – de recepción y expedición: 
-Vía número 1. 
-Está destinada a la recepción y expedición de trenes de transporte de viajeros así como de trenes de mercancías procedentes y con destino a las direcciones de Rijeka, Škrljevo y Rijeka Brajdica. 
-Vía número 2. 
-Está destinada a la recepción y expedición de trenes de transporte de viajeros así como de trenes de mercancías procedentes y con destino a las direcciones de Rijeka, Škrljevo y Rijeka Brajdica. Esta vía es una vía principal de paso porque constituye la prolongación directa de la vía principal. 
-Vía número 3. 
-Está destinada a la recepción y expedición de trenes de mercancías procedentes y con destino a las direcciones de Rijeka, Škrljevo y Rijeka Brajdica. 
-Las vías de recepción y expedición 1, 2 y 3 están electrificadas con una tensión alterna de 25 kV, 50 Hz. 
-Vías secundarias: 
-Vía número 4. 
-La vía tiene una finalidad de seguridad, es decir, sirve como vía de seguridad en caso de que los vagones o trenes procedentes de la estación de Škrljevo se escapen. La vía no está electrificada, y no se permite el estacionamiento de vehículos ferroviarios en ella.
+- del pk 648+300 al pk 649+000 la pendiente es de 25 ‰,
+- del pk 649+000 al pk 649+280 la pendiente es de 26 ‰,
+- del pk 649+280 al pk 649+450 la pendiente es de 23 ‰,
+- del pk 649+450 al pk 649+587 la pendiente es de 25 ‰,
+La pendiente del carril vía desde la estación de Rijeka desde el preseñal PsB hasta la primera aguja de entrada número 9. es de los siguientes valores:
+- del pk 651+761 al pk 651+740 la pendiente de subida es de 17 ‰,
+- del pk 651+740 al pk 651+650 la pendiente de subida es de 10 ‰,
+- del pk 651+650 al pk 650+650 la pendiente de subida es de 25 ‰,
+- del pk 650+650 al pk 650+400 la pendiente de subida es de 24 ‰,
+- del pk 650+400 al pk 650+370 la pendiente de subida es de 25 ‰,
+La pendiente del carril vía desde la estación de Rijeka Brajdica desde el repetidor del preseñal PpC hasta la primera aguja de entrada número 8. es de los siguientes valores:
+- del pk 0+522 al pk 0+517 la pendiente de subida es de 25 ‰,
+- del pk 0+517 al pk 0+087 la pendiente de subida es de 8 ‰,
+- del pk 0+087 al pk 0+063 la pendiente de subida es de 25 ‰.
+2. Tipos de carril vía y sus denominaciones
+2.1. En la estación de Sušak Pećine, los carriles vía se dividen según su uso:
+- carriles vía principales,
+- carriles vía secundarios.
+Carriles vía principales – de recepción y expedición:
+Carril vía número 1.
+Está destinado a la recepción y expedición de trenes con transporte de pasajeros, así como trenes de mercancías, desde y hacia la dirección de Rijeka, Škrljevo y Rijeka Brajdica.
+Carril vía número 2.
+Está destinado a la recepción y expedición de trenes con transporte de pasajeros, así como trenes de mercancías, desde y hacia la dirección de Rijeka, Škrljevo y Rijeka Brajdica. Este carril vía es el carril vía principal de paso, ya que constituye la prolongación directa del carril vía.
+Carril vía número 3.
+Está destinado a la recepción y expedición de trenes de mercancías desde y hacia la dirección de Rijeka, Škrljevo y Rijeka Brajdica.
+Los carriles vía de recepción y expedición 1, 2 y 3 están electrificados con una tensión alterna de 25 kV, 50Hz.
+Carriles vía secundarios:
+Carril vía número 4.
+El carril vía tiene una función de seguridad, es decir, sirve como carril vía de protección en caso de descarrilamiento de vagones o trenes desde la dirección de la estación de Škrljevo. El carril vía no está electrificado y en él no está permitido el estacionamiento de vehículos ferroviarios.
 
 ## Página 14
 
@@ -765,32 +765,32 @@ Artículo 58.
 
 ## Página 33
 
-– posición P o R/P en las locomotoras que no tienen marca especial para R (para el cálculo en el SKM se toma la masa frenada para el freno P):
-a) en los trenes de mercancías de masa total de hasta 500 toneladas que están frenados con frenos P, independientemente de la velocidad
-b) en los trenes de mercancías que circulan a una velocidad de 100 a 120 km/h y
-c) en el empujador.
-Garantización del tren o de una parte del tren contra el autodesplazamiento
-Artículo 64.
-(1) El tren que se detiene en una vía abierta o en un lugar oficial se garantiza contra el autodesplazamiento de la siguiente manera:
-a) en una vía con una pendiente de hasta 2,5‰ y una retención de hasta 30 minutos, es necesario activar el freno directo de la unidad motriz o
-b) en una vía con una pendiente de hasta 2,5‰ y una retención superior a 30 minutos, así como en una vía con una pendiente superior a 2,5‰ independientemente de la retención, es necesario activar los frenos automáticos de todo el tren.
-(2) Si en una vía abierta o en un lugar oficial se deja un tren o una parte del tren sin unidad motriz, o bien una composición de maniobras sin unidad motriz, la garantía contra el autodesplazamiento se realiza de la siguiente manera:
-a) en una vía con una pendiente de hasta 2,5‰ y una retención de hasta 60 minutos, es necesario vaciar la tubería principal de aire del tren, de la parte del tren o de la composición de maniobras
-b) en una vía con una pendiente de hasta 2,5‰ y una retención superior a 60 minutos, es necesario vaciar la tubería principal de aire del tren, de la parte del tren o de la composición de maniobras, así como accionar el freno de mano o el freno de estacionamiento del primer y del último vehículo, o
-c) en una vía con una pendiente superior a 2,5‰ independientemente de la retención, es necesario vaciar la tubería principal de aire del tren, de la parte del tren o de la composición de maniobras, así como accionar todos los frenos de mano o los frenos de estacionamiento.
-El tren, la parte del tren o la composición de maniobras que se deja en una vía abierta o en un lugar oficial no ocupado, además de los frenos de mano o los frenos de estacionamiento, debe garantizarse también con cuatro cuñas de seguridad manuales colocadas uniformemente a lo largo de toda la composición del tren, o con dos cuñas de seguridad manuales si se trata de una composición de maniobras.
-(3) Si en la vía permanece una unidad motriz sin maquinista, dicha unidad se garantiza activando el freno directo y accionando el freno de mano o el freno de estacionamiento, o el freno de resorte.
-(4) El tren o la parte del tren que, debido a condiciones excepcionales (falta de tensión, ruptura del tren, avería de la locomotora y otros), no puede garantizarse contra el autodesplazamiento mediante los frenos automáticos, se garantiza contra el autodesplazamiento accionando los frenos de mano o los frenos de estacionamiento, y esto:
-a) en pendientes de hasta 2,5‰, accionando el freno de mano o el freno de estacionamiento del primer y del último vehículo, o
-b) en pendientes superiores a 2,5‰, accionando todos los frenos de mano o los frenos de estacionamiento.
-(5) En un tren de mercancías debe haber la cantidad necesaria de frenos de mano o frenos de estacionamiento, de manera que se garantice el siguiente porcentaje mínimo de frenado con frenos de mano o frenos de estacionamiento (prn):
-a) en pendientes de hasta 4‰, prn = 2%
-b) en pendientes de 5‰ a hasta 10‰, prn = 5%
-c) en pendientes de 11‰ a hasta 15‰, prn = 7%
-d) en pendientes de 16‰ a hasta 20‰, prn = 10%
-e) en pendientes de 21‰ a hasta 25‰, prn = 12% y
-f) en pendientes de 26‰ a hasta 30‰, prn = 14%.
-(6) En los trenes de transporte de pasajeros debe garantizarse un porcentaje doble de frenado con frenos de mano o frenos de estacionamiento, de acuerdo con las disposiciones del apartado 5 del presente artículo para los trenes de mercancías.
+– posición P, respectivamente R/P, en locomotoras que no tienen indicación especial para R (para el cálculo en SKM se toma la masa de frenado para el freno P): 
+a) en trenes de mercancías de masa total de hasta 500 toneladas que están frenados con frenos P, independientemente de la velocidad 
+b) en trenes de mercancías que circulan a una velocidad de 100 a 120 km/h y 
+c) en la locomotora de maniobras. 
+Aseguramiento del tren o de una parte del tren contra el movimiento automático 
+Artículo 64. 
+(1) El tren que se detenga en una vía abierta o en un lugar oficial se asegura contra el movimiento automático de la siguiente manera: 
+a) en una vía con pendiente de hasta 2,5‰ y una permanencia de hasta 30 minutos es necesario activar el freno directo de la unidad de tracción o 
+b) en una vía con pendiente de hasta 2,5‰ y una permanencia superior a 30 minutos, y en una vía con pendiente superior a 2,5‰ independientemente de la permanencia, es necesario activar los frenos automáticos de todo el tren. 
+(2) Si en una vía abierta o en un lugar oficial se deja un tren o una parte del tren sin unidad de tracción, respectivamente una formación de maniobras sin unidad de tracción, el aseguramiento contra el movimiento automático se realiza de la siguiente manera: 
+a) en una vía con pendiente de hasta 2,5‰ y una permanencia de hasta 60 minutos es necesario vaciar la tubería principal de aire del tren, de la parte del tren o de la formación de maniobras 
+b) en una vía con pendiente de hasta 2,5‰ y una permanencia superior a 60 minutos es necesario vaciar la tubería principal de aire del tren, de la parte del tren o de la formación de maniobras y apretar el primer y el último freno manual respectivamente de apriete o 
+c) en una vía con pendiente superior a 2,5‰ independientemente de la permanencia es necesario vaciar la tubería principal de aire del tren, de la parte del tren o de la formación de maniobras y apretar todos los frenos manuales respectivamente de apriete. 
+El tren, la parte del tren o la formación de maniobras que se deja en una vía abierta o en un lugar oficial no ocupado, además de los frenos manuales respectivamente de apriete, debe asegurarse también con cuatro calzos de parada manuales colocados uniformemente a lo largo de toda la formación del tren, respectivamente con dos calzos de parada manuales si se trata de una formación de maniobras. 
+(3) Si en la vía queda una unidad de tracción sin maquinista, entonces dicho vehículo se asegura activando el freno directo y apretando el freno manual respectivamente de apriete o el freno de muelle. 
+(4) El tren o la parte del tren que, debido a condiciones excepcionales (pérdida de tensión, rotura del tren, avería de la locomotora y otros), no es posible asegurar contra el movimiento automático con frenos automáticos, se asegura contra el movimiento automático apretando los frenos manuales respectivamente de apriete, y así: 
+a) en pendientes de hasta 2,5‰ apretando el primer y el último freno manual respectivamente de apriete o 
+b) en pendientes superiores a 2,5‰ apretando todos los frenos manuales respectivamente de apriete. 
+(5) En un tren de mercancías debe haber la cantidad necesaria de frenos manuales respectivamente de apriete, de modo que se garantice el siguiente porcentaje mínimo de frenado de los frenos manuales respectivamente de apriete (prn): 
+a) en pendientes de hasta 4‰, prn = 2% 
+b) en pendientes de 5‰ a 10‰, prn = 5% 
+c) en pendientes de 11‰ a 15‰, prn = 7% 
+d) en pendientes de 16‰ a 20‰, prn = 10% 
+e) en pendientes de 21‰ a 25‰, prn = 12% y 
+f) en pendientes de 26‰ a 30‰, prn = 14%. 
+(6) En los trenes de transporte de pasajeros debe garantizarse el doble porcentaje de frenado de los frenos manuales respectivamente de apriete de conformidad con las disposiciones del apartado 5 de este artículo para los trenes de mercancías.
 
 ## Página 34
 
@@ -870,46 +870,36 @@ Conocimiento de los vehículos, conducción de la unidad de tracción
 ## Página 36
 
 ### Anexo 6 : Módulo ÖBB 1293 Vectron 
-### Formación para la conducción de vehículos de tracción de la serie ÖBB 1293 Vectron 
-4.4. Módulo de aprendizaje: Dispositivos de frenado de los vehículos de tracción VECTRON X4ELFHB 
-• Tipos y funciones de los frenos en la locomotora 
-• Equipamiento para la generación y preparación de aire comprimido 
-• Frenado directo e indirecto en los vehículos de tracción 
-• Freno de resorte (freno de estacionamiento) 
-• Equipamiento de control del freno 
-• Equipamiento de la instalación de aire 
+### Formación para la conducción de la locomotora de la serie ÖBB 1293 Vectron 
+4.4. Unidad didáctica: Dispositivos de freno de las locomotoras VECTRON X4ELFHB 
+• Tipos y función de los frenos en la locomotora 
+• Equipo de suministro y preparación de aire comprimido 
+• Freno directo e indirecto en las locomotoras 
+• Freno de muelle (freno de estacionamiento) 
+• Equipo de mando del freno 
+• Equipo de la instalación de aire 
 • Descripción del esquema neumático de la locomotora 
-• Comprobación del funcionamiento de los dispositivos de frenado 
-• Dispositivo de control de los frenos (BSG) 
+• Comprobación de la correcta función de los dispositivos de freno 
+• Dispositivo de mando de los frenos (BSG) 
 5. FORMACIÓN PRÁCTICA 
-• Procedimientos de inspección visual y preparación para la puesta en servicio 
-• Conexión de la locomotora a la tensión eléctrica 
-• Logro de la aptitud para la circulación y prueba de los frenos 
-• Procedimientos de puesta en movimiento y aceleración 
+• Procedimientos de inspección visual y preparación para la marcha 
+• Conexión de la locomotora a la tensión 
+• Obtención de la disponibilidad para la marcha y prueba de frenos 
+• Procedimientos de arranque y aceleración 
 • Procedimientos de regulación de la velocidad de circulación 
-• Manejo de los dispositivos de seguridad 
+• Servicio de los dispositivos de seguridad 
 • Procedimientos de detención 
-• Procedimientos en caso de averías e interrupciones del servicio 
-• Procedimientos de desmontaje de las locomotoras 
-• Procedimientos de entrega de las locomotoras. 
-4.1.2. Sujeto/sujetos competentes para el mantenimiento, talleres de mantenimiento y/o cualquier otro proveedor 
-de servicios de mantenimiento  
-Mediante la investigación y el análisis de los hechos y hallazgos establecidos no se han determinado factores 
-relacionados con el sujeto/sujetos competentes para el mantenimiento, talleres de mantenimiento y/o cualquier otro 
-proveedor de servicios de mantenimiento en relación con la aparición del mencionado incidente extraordinario. 
-4.1.3. Fabricantes de vehículos ferroviarios u otros proveedores de productos ferroviarios  
-Mediante la investigación y el análisis de los hechos y hallazgos establecidos no se han determinado factores 
-relacionados con los fabricantes de vehículos ferroviarios u otros proveedores en relación con la aparición del 
-incidente objeto de la investigación.  
-4.1.4. Autoridades nacionales competentes en materia de seguridad y/o la Agencia de la Unión Europea para 
-los Ferrocarriles  
-Mediante la investigación y el análisis de los hechos y hallazgos establecidos no se han determinado factores 
-relacionados con las autoridades competentes en materia de seguridad en relación con la aparición del 
-mencionado incidente objeto de la investigación. 
-### 4.1.5. Organismos notificados, organismos designados y/o organismos de evaluación de riesgos  
-Mediante la investigación y el análisis de los hechos y hallazgos establecidos no se han determinado factores 
-relacionados con los organismos de evaluación de riesgos en relación con la aparición del 
-mencionado incidente objeto de la investigación.
+• Procedimientos ante la aparición de averías y trastornos en la tracción 
+• Procedimientos de acondicionamiento de las locomotoras 
+• Procedimientos de abastecimiento de las locomotoras. 
+4.1.2. Sujeto/sujetos competentes para el mantenimiento, talleres de mantenimiento y/o cualquier otro prestador de servicios de mantenimiento  
+De la investigación y el análisis de los hechos y hallazgos constatados no se han determinado factores relacionados con el sujeto/sujetos competentes para el mantenimiento, los talleres de mantenimiento y/o cualquier otro prestador de servicios de mantenimiento en relación con la ocurrencia del indicado suceso extraordinario. 
+4.1.3. Fabricantes de material ferroviario u otros proveedores de productos ferroviarios  
+De la investigación y el análisis de los hechos y hallazgos constatados no se han determinado factores relacionados con los fabricantes de material ferroviario u otros proveedores en relación con la ocurrencia del indicado incidente.  
+4.1.4. Órganos nacionales competentes en materia de seguridad y/o Agencia Ferroviaria de la Unión Europea  
+De la investigación y el análisis de los hechos y hallazgos constatados no se han determinado factores relacionados con los órganos competentes en materia de seguridad en relación con la ocurrencia del indicado incidente. 
+### 4.1.5. Órganos notificados, órganos designados y/o órganos de evaluación de riesgos  
+De la investigación y el análisis de los hechos y hallazgos constatados no se han determinado factores relacionados con los órganos de evaluación de riesgos en relación con la ocurrencia del indicado incidente.
 
 ## Página 37
 

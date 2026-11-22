@@ -10,13 +10,14 @@ chars: 94665
 ratio_longitud: 1.24
 tokens_in: 46265
 tokens_out: 32058
-verificacion: revisar
-notas_cifras: ["bloque 4: original bilingüe: se compara contra el idioma principal (CS)", "bloque 6: original bilingüe: se compara contra el idioma principal (CS); cifras cortas: 1/83", "bloque 7: original bilingüe: se compara contra el idioma principal (CS)"]
-avisos: ["bloque 6: ratio 1.76"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 3: original bilingüe: se compara contra el idioma principal (PT)", "página 8: original bilingüe: se compara contra el idioma principal (EN)", "página 9: original bilingüe: se compara contra el idioma principal (PT)", "página 10: original bilingüe: se compara contra el idioma principal (CS)", "página 18: original bilingüe: se compara contra el idioma principal (PT)"]
 ---
+
 ## Página 1
+
 
 Inspección Ferroviaria
 República Checa
@@ -42,13 +43,13 @@ ID:   75009561
 http://www.dicr.cz
 tel.: 224 805 444
 
-
 ## Página 2
+
 
 Este informe final es público y todos los documentos y hechos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ## 1 RESUMEN
 Fuente: Inspección Ferroviaria. 
@@ -82,8 +83,8 @@ señal de salida L2b señalada indebidamente con la señalización
 «Señal no válida» por el gestor de la vía sin conocimiento de la
 persona que dirige y organiza el tráfico ferroviario;
 
-
 ## Página 4
+
 
 circulación no autorizada del tren anterior Os 7822 más allá
 •
@@ -135,8 +136,8 @@ ante las situaciones excepcionales surgidas.
 
 De conformidad con lo dispuesto en el apartado 5 del artículo 53b de la Ley n.º 266/1994 Sb., o en la parte 7 del Decreto n.º 376/2006 Sb., la Inspección Ferroviaria recomienda a la Autoridad Ferroviaria la adopción de una medida propia encaminada a garantizar la realización de la recomendación de seguridad anteriormente mencionada para el transportista Ferrocarriles Checos, a. s., así como para los demás transportistas de la República Checa.
 
-
 ## Página 5
+
 
 ## SUMMARY 
 Grado:
@@ -194,8 +195,8 @@ en las estaciones donde los trenes se expiden mediante la señalización
 (en la señal principal) y que no están equipadas con dispositivo técnico
 de parada de emergencia del tren, garantizar en los trenes con
 
-
 ## Página 6
+
 
 transporte de pasajeros en la zona de entrada y salida de pasajeros
 el cumplimiento del procedimiento según el artículo n.º 2979 del
@@ -217,11 +218,12 @@ implementación de la recomendación anterior para el operador ferroviario
 Ferrocarriles Checos, a. s. y para otro operador ferroviario (RU) en la
 República Checa.
 
-
 ## Página 7
 
 
+
 ## Página 8
+
 
 # Contenido
 1 Resumen ........................................................................................................................3
@@ -258,6 +260,7 @@ contractual ....................................................................
 
 ## Página 9
 
+
 3.1.2 Otras personas .........................................................................................................20
 3.2 Sistema de garantía de la seguridad ...............................................................................20
 3.2.1 Organización marco y forma en que se emiten y aplican las instrucciones .......20
@@ -287,10 +290,10 @@ cumplimiento ...................................................................
 4.1.1 Descripción definitiva del suceso excepcional basada en los hechos constatados en el punto 3 
 ............................................................................................................................30
 4.2 Análisis ......................................................................................................................31
-4.2.1 Evaluación de los hechos constatados de acuerdo con el punto 3 y formulación de conclusiones sobre la causa 
-
+4.2.1 Evaluación de los hechos constatados de acuerdo con el punto 3 y formulación de conclusiones sobre la causa
 
 ## Página 10
+
 
 del suceso excepcional y la actuación de los servicios de emergencia ..........................................31
 4.3 Conclusiones .......................................................................................................................34
@@ -305,8 +308,8 @@ del suceso excepcional y la actuación de los servicios de emergencia ..........
 6 Recomendaciones de seguridad .............................................................................................36
 7 Anexos .............................................................................................................................38
 
-
 ## Página 11
+
 
 ## Lista de siglas y símbolos utilizados
 COP
@@ -385,8 +388,8 @@ documentación básica de tráfico
 žst.
 estación de ferrocarril
 
-
 ## Página 12
+
 
 ## Lista de siglas de la legislación, normas y normas internas utilizadas
 ley núm. 266/1994 Sb.
@@ -414,11 +417,12 @@ las tripulaciones de locomotora, aprobada por decisión del director superior de
 SŽDC D7/2                                   norma interna del gestor de la infraestructura SŽDC D7/2 Norma
 para la organización de la actividad de interrupción de circulación en las líneas explotadas por la Administración de la Vía Férrea de Transporte, organización estatal, aprobada por el 1.er suplente del director general encargado de la dirección de la organización el 18 de octubre de 2011, ref.: S 39156/10-OŘ, en vigor desde el 1. 12. 2011
 
-
 ## Página 13
 
 
+
 ## Página 14
+
 
 ## 2 DATOS RELATIVOS AL SUCESO EXCEPCIONAL
 ## 2.1
@@ -438,8 +442,8 @@ GPS:
 ### 2.1.2 Descripción del suceso excepcional y del lugar del accidente, incluida la actuación del sistema integrado de emergencia y del servicio de emergencia
 Fig. núm. 1: Esquema del lugar del SE.                                                                         Fuente: Inspección Ferroviaria.
 
-
 ## Página 15
+
 
 El 25. 6. 2012 a las 20:05 h, el tren R 824 pasó en la est. Hořovice junto a la señal principal (de salida) L2b, en la que se indicaba la indicación «Alto», y entró en el bloque de sección ocupado por el tren Os 7822. El tren R 824 fue detenido por el maquinista por orden del jefe de estación de Hořovice transmitida por el jefe de estación de Zbiroh a través de TRS.
 Del examen del lugar del SE se constató que el lugar de origen del SE se encuentra a la altura de la señal principal (de salida) L2b en el pk 59.602. La cabeza del tren R 824 se encontraba en el pk 65.800.
@@ -476,6 +480,7 @@ maquinista del tren Os 7822, empleado de ČD, DKV Plzeň.
 
 ## Página 16
 
+
 Operador de la vía (SŽDC):
 jefe de estación de la est. Hořovice, empleado de SŽDC, PO Beroun.
 •
@@ -511,8 +516,8 @@ Según la orden general n.º 025/918 para el tren Os 7822, las señales de secci
 ### 2.2.3 Descripción de los componentes de la vía de circulación de la vía, del sistema de señalización (es decir, en particular el estado de las vías, los desvíos, los aparatos de maniobra, las señales y el equipo de señalización de tren)
 La vía en el lugar del accidente en el sentido de circulación del tren se encuentra en el ámbito de la est. Hořovice y discurre en línea recta a la altura del terreno circundante. La señal L2b es una señal principal (de salida), luminosa, situada a la derecha directamente junto a la vía 2b en el km 59.602, marcada con franjas rojas y blancas de anchura desigual y una placa de identificación legible «L2b». La señal estaba conectada al equipo de señalización de estación ESA 33 (ESA 11 con EIP) de la est. Hořovice. En el lugar del accidente
 
-
 ## Página 17
+
 
 se estaba llevando a cabo la interrupción del equipo de señalización entre la est. Hořovice y Kařízek según las fases A y C de la ROV n.º 95010 debido a la activación del nuevo equipo de señalización, la supresión de la est. Zbiroh y la creación de la bifurcación Zbiroh. Durante la interrupción no era posible encender en la señal L2b ninguna señal que permitiera la circulación distinta de la «Señal de llamada». La autorización para realizar la interrupción se concedió en base al telegrama n.º 2012-06-003297. El equipo de señalización de la est. Hořovice se puso en servicio local y era controlado por el jefe de estación desde el JOP de la est. Hořovice. Se desactivó el equipo de señalización de línea en la 2. TK. Los trenes circulaban en el tramo entre estaciones est. Hořovice – est. Kařízek y estaban protegidos por comunicación telefónica. Tras el inicio de la interrupción se produjo la supresión de la est. Zbiroh y la creación de la bifurcación Zbiroh, cuyo jefe de estación no participaba en la dirección y organización del tráfico ferroviario según la ROV. Las señales de sección del bloque automático en la 2. TK y la señal de entrada 2L en el km 67,660 de la bifurcación Zbiroh fueron anuladas.
 ### 2.2.4 Uso de los medios de comunicación
@@ -544,40 +549,41 @@ a las 22:23 h concedido por el VI DI presente el consentimiento para la liberaci
 En el lugar del accidente estaban presentes también los directivos de las distintas unidades organizativas del operador de la vía y del transportista.
 Con la presencia del VI DI se realizó una inspección comisionada del lugar del accidente, incluida la elaboración del acta.
 
-
 ## Página 18
 
-### 2.2.7 Activación del plan del sistema integrado de emergencia, de la policia y del servicio de emergencia sanitaria y secuencia de acontecimientos
-El accidente fue comunicado por: el jefe de estación de la est. Hořovice al despachador de OOŘP
+### 2.2.7 Activación del plan del sistema integrado de emergencias, policía y servicio médico de emergencias y secuencia de acontecimientos
+MU comunicó: el jefe de estación de la est. de Hořovice al despachador de OOŘP
 El plan IZS no fue activado.
 ## 2.3
-### Fallecimientos, lesiones y daños materiales
-2.3.1 En pasajeros y terceras personas, empleados del operador de la vía y del transportista, incluidas personas en relación contractual
-En el accidente no se produjo daño a la salud de los empleados del operador de la vía, del transportista, de las personas en relación contractual, ni de los pasajeros y terceras personas.
-### 2.3.2 En los objetos transportados, equipajes y otros bienes
-No se produjo daño en los objetos transportados, equipajes y otros bienes.
-### 2.3.3 En los vehículos ferroviarios, componentes de la vía de circulación y en el medio ambiente
-No se produjo daño en los vehículos ferroviarios, componentes de la vía de circulación ni en otros bienes.
+### Fallecidos, heridos y daños materiales
+2.3.1 En pasajeros y terceros, empleados del gestor de la infraestructura y del transportista, incluidas personas en relación contractual
+En el MU no se produjo daño alguno a la salud de los empleados del gestor de la infraestructura, del transportista, de las personas en relación contractual, ni tampoco de los pasajeros y terceros.
+### 2.3.2 En las cosas transportadas, el equipaje y otros bienes
+No se produjo daño en las cosas transportadas, el equipaje ni otros bienes.
+### 2.3.3 En los vehículos ferroviarios, los componentes de la vía y en el medio ambiente
+No se produjo daño en los vehículos ferroviarios, los componentes de la vía ni en otros bienes.
 ## 2.4
 ### Circunstancias externas
 ### 2.4.1 Condiciones meteorológicas y datos geográficos
-Condiciones meteorológicas: cielo cubierto, + 18 °C, viento suave, visibilidad no reducida.
+Condiciones meteorológicas: cielo cubierto, + 18 °C, viento moderado, visibilidad no reducida.
 ## 3 REGISTRO DE LAS EXPLICACIONES PRESENTADAS
 ## 3.1
 ### Resumen de las explicaciones presentadas (sujeto a protección de la identidad de las personas)
-### 3.1.1 Empleados del operador de la vía y del transportista, incluidas personas en relación contractual
-Maquinista del tren R 824 – del Acta con el empleado se desprende, entre otros datos:
+### 3.1.1 Empleados del gestor de la infraestructura y del transportista, incluidas personas en relación contractual
+El maquinista del tren R 824 – del Acta con el empleado se desprende, entre otras cosas:
 •
-la orden sobre la anulación de las señales entre la est. Hořovice y Kařízek la recibió en la est. Praha
+recibió la orden de anular las señales entre la est. de Hořovice y Kařízek en la est. de Praga
 •
-hl. nádraží y antes de la circulación del tren se puso al corriente de la misma;
-en la est. Hořovice se detuvo en el andén, en la señal principal (de viaje) había
+est. central y se familiarizó con ella antes de la circulación del tren;
+se detuvo en la est. de Hořovice junto al andén, en la señal principal (de vía) había
 •
-la señal «Alto», que cambió a la señal «Aviso»;
-recibió la señal «Autorización para la salida», puso en marcha el tren y en la siguiente señal esperaba
-
+la indicación «Alto», que cambió a la indicación «Aviso»;
+recibió la indicación «Autorización para la salida», puso el tren en marcha y en la
+•
+siguiente señal esperaba
 
 ## Página 19
+
 
 la señal «Alto»;
 •
@@ -642,8 +648,8 @@ no sabe nada de la anulación de la señal de salida en la est. Hořovice ni dio
 instrucción al respecto, ya que se encontraba fuera de la parte excluida del
 equipo de señalización y del ámbito del OŘ Plzeň.
 
-
 ## Página 20
+
 
 Jefe de la infraestructura SSZT Praha západ, OŘ Praha en calidad de OZOV
 •
@@ -681,6 +687,7 @@ El transportista implicado en el accidente tiene implantado un sistema de seguri
 
 ## Página 21
 
+
 Se detectó una deficiencia.
 ### 3.2.2 Requisitos para el personal del gestor de la infraestructura y del transportista y su aplicación
 Los requisitos para el personal del gestor de la infraestructura y del transportista, en particular los requisitos de idoneidad profesional y sanitaria, están establecidos por la ley núm. 266/1994 Sb., por el decreto núm. 173/1995 Sb., por el decreto núm. 101/1995 Sb., por el decreto núm. 16/2012 Sb. y por las normas internas del gestor de la infraestructura y del transportista. El requisito para el personal al que se permite colocar señales portátiles está establecido en el art. 9 de la norma interna del gestor de la infraestructura SŽDC (ČD) D1.
@@ -694,31 +701,30 @@ El propietario de la vía ferroviaria, categoría nacional, Beroun – Plzeň hl
 El gestor de la vía ferroviaria, categoría nacional, Beroun – Plzeň hl. nádraží, es SŽDC, organización estatal, con domicilio en Dlážděná 1003/7, Praha 1 – Nové Město, CP 110 00, en virtud de la Autorización Administrativa emitida por la Oficina de Ferrocarriles el 29. 5. 2008, bajo el n.º de expediente: 3-4277/07-DÚ/Le-DÚ/O-SI, n.º de registro: ÚP/2008/9002.
 El transportista de los trenes R 824 y Os 7822 fue ČD, a. s., con domicilio en Nábřeží L. Svobody 1222, Praha 1, CP 110 15, en virtud de la Licencia de gestor del transporte ferroviario n.º de registro L/2003/9000, n.º de expediente: 3-2169/03-DÚ/Bp, emitida por la Oficina de Ferrocarriles en Praga el 17. 9. 2003, con vigencia por tiempo determinado, hasta el 11. 12. 2004. La licencia permite explotar el transporte ferroviario con
 
-
 ## Página 22
 
-el fin de transporte público y no público de personas, equipajes y objetos, y la realización de las actividades enumeradas en la vía nacional, que es propiedad de la República Checa y que explota la persona jurídica České dráhy, a. s., según la redacción de la Decisión de modificación de licencia n.º de registro L/2004/9000-1, n.º de expediente: 3-974/04-DÚ, de fecha 7. 4. 2004, por la que la licencia emitida pasa a tener vigencia por tiempo indefinido y se deroga la disposición sobre la frecuencia del transporte ferroviario explotado a partir del día 1. 5. 2004, Decisión de modificación de licencia n.º de registro L/2008/9000-6, n.º de expediente: 3-2564/08-DÚ, de fecha 9. 7. 2008, que permite explotar el transporte ferroviario en la vía nacional explotada por la Administración de la Infraestructura Ferroviaria, organización estatal, Decisión de modificación de licencia n.º de registro L/2008/9000-7, n.º de expediente: 3-3469/08-DÚ/Le, de fecha 26. 8. 2008, que permite explotar el transporte ferroviario en la vía nacional en propiedad de la persona jurídica České dráhy, a. s., y explotada por dicha sociedad, Decisión de modificación de licencia n.º de registro L/2008/9000-11, n.º de expediente: DUCR-3168/10/Le, de fecha 19. 1. 2010, que refleja la nueva composición del órgano estatutario del transportista, y Decisión de modificación de licencia n.º de registro L/2008/9000-12, n.º de expediente: DUCR-61234/11/Bo, de fecha 6. 12. 2011, que refleja la nueva composición del órgano estatutario del transportista.
-El transportista es titular del Certificado de transportista, emitido por DÚ el 26. 03. 2008, bajo el n.º de expediente DUCR-2366/10/Pd, n.º de registro OSD/2008/028, con vigencia hasta el 25. 03. 2013.
-El transporte ferroviario se explota en virtud del «Contrato núm. 001/09 para la explotación del transporte ferroviario en la vía de transporte ferroviaria nacional y de las vías regionales en propiedad de la República Checa», celebrado entre la Administración de la Infraestructura Ferroviaria, organización estatal, y la persona jurídica České dráhy, a. s., el 30. 6. 2009, con el Adendo núm. 1 de fecha 13. 4. 2010, el Adendo núm. 2 de fecha 10. 12. 2010 y el Adendo núm. 3 de fecha 22. 7. 2011.
-Entre el gestor de la infraestructura SŽDC y la unión de empresas Skanska – Subtera – Eurovia se celebró, en el marco de la construcción del III Corredor de Tránsito, obra Optimización de la línea Zbiroh – Rokycany, el contrato núm. 115/2004. El subcontratista fue la empresa AŽD Praha, s. r. o., MZ Kolín.
-En la interfaz entre los sujetos implicados no se detectó ninguna deficiencia.
+con el fin del transporte público y no público de personas, equipajes y objetos y de la realización de las actividades enumeradas en la vía de ámbito nacional, que es propiedad de la República Checa y que explota la persona jurídica České dráhy, a. s., según la Decisión de modificación de licencia n.º L/2004/9000-1, ref. n.º: 3-974/04-DÚ, de fecha 7. 4. 2004, por la que la licencia emitida es válida por tiempo indefinido y se deroga la disposición sobre la frecuencia del transporte ferroviario explotado a partir del día 1. 5. 2004; Decisión de modificación de licencia n.º L/2008/9000-6, ref. n.º: 3-2564/08-DÚ, de fecha 9. 7. 2008, que permite explotar el transporte ferroviario en la vía de ámbito nacional explotada por la Administración de la Infraestructura Ferroviaria del Transporte, organización estatal; Decisión de modificación de licencia n.º L/2008/9000-7, ref. n.º: 3-3469/08-DÚ/Le, de fecha 26. 8. 2008, que permite explotar el transporte ferroviario en la vía de ámbito nacional en propiedad de la persona jurídica České dráhy, a. s., y que esta sociedad explota; Decisión de modificación de licencia n.º L/2008/9000-11, ref. n.º: DUCR-3168/10/Le, de fecha 19. 1. 2010, que refleja la nueva composición del órgano estatutario del transportista, y Decisión de modificación de licencia n.º L/2008/9000-12, ref. n.º: DUCR-61234/11/Bo, de fecha 6. 12. 2011, que refleja la nueva composición del órgano estatutario del transportista.
+El transportista es titular del Certificado de transportista, emitido por la DÚ el 26. 03. 2008, bajo el ref. n.º DUCR-2366/10/Pd, n.º OSD/2008/028, con validez hasta el 25. 03. 2013.
+El transporte ferroviario se explota con base en el «Contrato n.º 001/09 para la explotación del transporte ferroviario en la vía de transporte ferroviario de la vía de ámbito nacional y de las vías regionales en propiedad de la República Checa», celebrado entre la Administración de la Infraestructura Ferroviaria del Transporte, organización estatal, y la persona jurídica České dráhy, a. s., el 30. 6. 2009, con el Adenda n.º 1 de fecha 13. 4. 2010, el Adenda n.º 2 de fecha 10. 12. 2010 y el Adenda n.º 3 de fecha 22. 7. 2011.
+Entre el explotador de la vía SŽDC y la unión de empresas Skanska – Subtera – Eurovia se celebró, en el marco de la construcción del III Corredor de Tránsito, de la obra Optimización de la línea Zbiroh – Rokycany, el contrato n.º 115/2004. El subcontratista era la empresa AŽD Praha, s. r. o., MZ Kolín.
+En la interfaz entre los sujetos participantes no se detectó ninguna deficiencia.
 ## 3.3
 ### Regulación jurídica y de otro tipo
-### 3.3.1 Normas jurídicas comunitarias y nacionales aplicables
-En la investigación de la MU se constató la infracción de las siguientes normas jurídicas:
-§ 22 apartado 1 letra a) de la ley núm. 266/1994 Sb.:
+### 3.3.1 Normativa jurídica comunitaria y nacional aplicable
+En la investigación del accidente se constató la infracción de las siguientes disposiciones jurídicas:
+§ 22 apartado 1 letra a) de la Ley n.º 266/1994 Sb.:
 •
-«el gestor de la infraestructura está obligado a explotar la infraestructura para las necesidades del transporte ferroviario fluido y seguro según las reglas para la explotación de la infraestructura»;
-§ 22 apartado 2 letra d) de la ley núm. 266/1994 Sb.:
+«el explotador de la vía está obligado a explotar la vía para las necesidades del transporte ferroviario fluido y seguro según las normas para la explotación de la vía»;
+§ 22 apartado 2 letra d) de la Ley n.º 266/1994 Sb.:
 •
-«el gestor de la vía nacional o de la vía regional está obligado a implantar un sistema de garantía de la seguridad de la explotación de la infraestructura y a garantizar su cumplimiento»;
-§ 35 apartado 2 letras a), f), g) de la ley núm. 266/1994 Sb.:
+«el explotador de la vía de ámbito nacional o de la vía regional está obligado a implantar un sistema de garantía de la seguridad de la explotación de la vía y a garantizar su cumplimiento»;
+§ 35 apartado 2 letras a), f), g) de la Ley n.º 266/1994 Sb.:
 •
-«a) el transportista está obligado a explotar el transporte ferroviario según las reglas de explotación del transporte ferroviario»;
+«a) el transportista está obligado a explotar el transporte ferroviario según las normas de explotación del transporte ferroviario»;
 f) implantar un sistema de garantía de la seguridad del transporte ferroviario y garantizar su cumplimiento;
 
-
 ## Página 23
+
 
 g) guiarse en la explotación del transporte ferroviario por las instrucciones del gestor de la infraestructura dadas al organizar el transporte ferroviario.»;
 § 49 apartado 3 letra b) de la ley núm. 266/1994 Sb.:
@@ -753,37 +759,37 @@ art. 497 letra c), norma interna del gestor de la infraestructura SŽDC (ČD) D2
 •
 «El despacho de trenes en estaciones atendidas por un jefe de estación se realiza de las siguientes formas:
 
-
 ## Página 24
 
-a) con la señal Salida …;
-b) con orden verbal;
-c) con la señal de la señal principal que permite la circulación del tren …;
-d) con orden verbal dado mediante dispositivo de telecomunicaciones;
-e) con orden por escrito.
-art. 605, norma interna del gestor de la infraestructura SŽDC (ČD) D2:
+a) señal de Salida …;
+b) por orden verbal;
+c) señal del semáforo principal, que autoriza la circulación del tren …;
+d) por orden verbal, dada mediante equipo de telecomunicaciones;
+e) por orden escrita.
+art. 605, reglamento interno del gestor de la infraestructura SŽDC (ČD) D2:
 •
-«El maquinista debe ser informado antes de la circulación de forma verificable por orden por escrito de los cambios temporales en los parámetros constructivo-técnicos de las obras de la vía y de las obras sobre la vía que tengan influencia directa en la seguridad y fluidez del transporte ferroviario, si son conocidos por el jefe de estación, incluidas las medidas necesarias.
-Además de los casos ordenados por disposiciones individuales de las normas para la organización y explotación del transporte ferroviario, los maquinistas son informados por orden por escrito también en los siguientes casos:
-a) de la invalidez temporal de las señales principales, señales previas, señales de paso a nivel, placas con cruz y placas trapezoidales.»;
-art. 1308, norma interna del gestor de la infraestructura SŽDC (ČD) D2:
+«El maquinista debe ser informado de forma verificable, antes de la circulación, por orden escrita, de los cambios temporales en los parámetros constructivo-técnicos de las obras de la vía y de las obras en la vía que tengan una influencia directa en la seguridad y la fluidez del transporte ferroviario, si son conocidos por el jefe de estación, incluidas las medidas necesarias.
+Además de los casos ordenados por disposiciones individuales de los reglamentos para la organización y explotación del transporte ferroviario, se informará a los maquinistas mediante orden escrita también en los siguientes casos:
+a) de la invalidez temporal de los semáforos principales, de los preseñales, de los señales de paso a nivel, de las placas con cruz y de las placas trapezoidales.»;
+art. 1308, reglamento interno del gestor de la infraestructura SŽDC (ČD) D2:
 •
-«El maquinista está obligado a tomar con todos los medios disponibles las medidas para detener el tren si constata que su circulación no está permitida, si el tren está amenazado por algo, o si con su posterior circulación pudieran verse amenazados otros dispositivos (línea de tracción, señales, etc.).»;
-art. 149, norma interna del gestor de la infraestructura SŽDC D7/2:
+«El maquinista está obligado a adoptar, con todos los medios disponibles, las medidas para detener el tren si comprueba que su circulación no está autorizada, si el tren está amenazado por algo, o bien si con su circulación posterior podrían verse amenazados otros equipos (línea de tracción, señales, etc.).»;
+art. 149, reglamento interno del gestor de la infraestructura SŽDC D7/2:
 •
-«El responsable de trabajos (VP) responde de que los trabajos se hayan completado con la calidad requerida a tiempo y no sean un obstáculo para la seguridad, regularidad y fluidez de la explotación de la infraestructura y del transporte ferroviario. Estos hechos los comunicará de forma verificable (p. ej., por escrito) al representante organizativo del contratista y, si no está designado, los comunicará directamente a OZOV.»;
-art. 23 letra c), norma interna del transportista ČD, norma ČD V2:
+«El responsable de los trabajos (VP) responde de que los trabajos se hayan terminado con la calidad requerida, en el plazo establecido, y de que no constituyan un obstáculo para la seguridad, la regularidad y la fluidez de la explotación de la vía y del transporte ferroviario. Estos hechos se comunicarán de forma verificable (p. ej., por escrito) al representante organizativo del contratista y, si no está designado, se notificarán directamente a OZOV.»;
+art. 23, letra c), reglamento interno del transportista ČD, reglamento ČD V2:
 •
-«La dotación de la locomotora está especialmente obligada a:
-c) observar durante la circulación del tren o durante las maniobras la vía y la plataforma de vías incluida la línea de tracción y guiarse por las señales.».
-En la investigación de la MU no se constató la infracción de normas técnicas.
+«La tripulación de la locomotora está obligada, en particular, a:
+c) observar durante la circulación del tren o durante las maniobras la vía y la plataforma vial, incluida la línea de tracción, y a regirse por las señales.».
+En la investigación del MU no se detectó infracción de las normas técnicas.
 ## 3.4
-### Funcionamiento de los vehículos ferroviarios y de los dispositivos técnicos
-### 3.4.1 Sistema de mando, señalización y seguridad, incluidos los dispositivos de registro automático de datos
-El SZZ ESA 33 (ESA 11 con EIP) versión de software v011cd07b tiene un Certificado de idoneidad del dispositivo técnico designado válido, n.º de registro: PZ 1318/11-E.49, emitido por DÚ el 17. 10. 2011, con vigencia hasta el 31. 12. 2012.
-Mediante la verificación del SZZ ESA 33 (ESA 11 con EIP), una inspección a pie desde el pk 59,200 en dirección a la señal L2b, una inspección y medición en la señal L2b, una inspección y medición en las
+### Funcionamiento de los vehículos ferroviarios y de los equipos técnicos
+### 3.4.1 Sistema de control, señalización y seguridad, incluidos los equipos de registro automático de datos
+El SZZ ESA 33 (ESA 11 con EIP) versión de software v011cd07b dispone de un Certificado de idoneidad de equipo técnico designado, n.º de ev.: PZ 1318/11-E.49, expedido por DÚ el 17. 10. 2011, con validez hasta el 31. 12. 2012.
+Mediante la comprobación del SZZ ESA 33 (ESA 11 con EIP), la inspección a pie desde el pk 59,200 en dirección a la señal L2b, la inspección y medición en la señal L2b, la inspección y medición en los
 
 ## Página 25
+
 
 obvodech V13, V15-17, 2ak, 2bk y de la medición de los estados de aislamiento en el enlace de enclavamiento de la estación de Hořovice el 25. 6. 2012 se constató:
 • en el momento de producirse el MU estaban en servicio los ordenadores tecnológicos TPC 3 y TPC 4 en el enlace de enclavamiento de la estación de Hořovice;
@@ -806,8 +812,8 @@ Del análisis del archivo de datos descargado se constató:
 • en el circuito de vía 2bk seguía en servicio la codificación adicional LVZ, con lo que se desconectó el equipo del circuito de vía 2bk (que por tanto seguía ocupado);
 • 20:07:13 h, tras la medición complementaria del tiempo de codificación en la vía de estación, se produjo la conexión del equipo del circuito de vía 2bk, su liberación y a la vez el dispositivo de enclavamiento
 
-
 ## Página 26
+
 
 evaluó el registro de pérdida de shunt en la vía 2b (liberación del circuito de vía en la vía de estación sin ruta de itinerario establecida).
 
@@ -837,8 +843,8 @@ A las 20:08 h el jefe de la bifurcación de Zbiroh, a través del TRS, informó 
 
 El HDV 362.127-2 disponía del Certificado de aptitud del material rodante n.º de expediente: PZ 1545/10-V.03, emitido por el DÚ el 29. 11. 2010. La última revisión técnica periódica antes de producirse el MU se realizó el 12. 4. 2012 con vigencia hasta el 12. 10. 2012. El HDV fue utilizado por el transportista ČD en un estado técnico que corresponde a la aptitud aprobada.
 
-
 ## Página 27
+
 
 El HDV 362.127-2 estaba, en el momento de producirse el MU, equipado con un dispositivo de registro automático de datos – tipo CONJUNTO ELECTRÓNICO VELOCIMÉTRICO UniControls - Tramex, n.º 8124.
 
@@ -857,8 +863,8 @@ De los datos registrados se desprende:
 • 20:04:42 h, se alcanzó la velocidad de 24 km·h-1, distancia recorrida 1 452 m;
 • 20:04:48 h, velocidad 25 km·h-1, inicio de la aceleración progresiva, a continuación marcha según el SŘ y el TTP, distancia recorrida 1 493 m;
 
-
 ## Página 28
+
 
 • 20:09:44 h, velocidad 0 km·h-1, detención del tren en el km 65.800, distancia recorrida 7 612 m.
 
@@ -887,8 +893,8 @@ El jefe de estación de Hořovice despachó el tren R 824 desde el espacio de em
 
 El maquinista del tren R 824, tras el despacho del tren realizado con la señal «Aviso» en la señal principal (de itinerario) Lc2, partió de la 2. SK hacia la SK 2b. Al llegar a la señal principal (de salida) L2b, en la que se había encendido la señal «Alto» y la señal estaba señalizada con la señal «Señal no válida», decidió continuar la marcha más allá de dicha señal hacia la 2. TK, a pesar de que en la Orden General para el tren R 824 n.º 0001342-576 no se indicaba la invalidación de la señal L2b y la circulación junto a una señal invalidada no estaba
 
-
 ## Página 29
+
 
 permitida. Al continuar la marcha más allá de la señal principal (de salida), el tren R 824 entró en el tramo interestaciones ocupado por el tren Os 7822.
 
@@ -922,6 +928,7 @@ El empleador garantizó las condiciones para el descanso previo al turno de conf
 
 ## Página 30
 
+
 3.6.2 Estado de salud y situación personal que influyeron en el suceso ferroviario, incluido el estrés físico o psicológico
 Los empleados implicados de la empresa explotadora de la infraestructura ferroviaria y del transportista estaban, en el momento de producirse el SU, en condiciones de salud para desempeñar la función que ocupaban. La investigación no determinó que la situación personal o el estado psicológico de las personas implicadas en el SU hubieran influido en la producción del SU.
 Los empleados de la empresa explotadora de la infraestructura ferroviaria y del transportista se sometían a reconocimientos médicos periódicos de conformidad con lo dispuesto en el decreto nº 101/1995 Sb. No se detectó ningún estado de salud ni situación personal que pudiera haber influido en la producción del SU, incluido el estrés físico y psicológico.
@@ -937,32 +944,72 @@ La Inspección Ferroviaria no registra sucesos ferroviarios similares de circula
 ### 4.1.1 Descripción final del suceso ferroviario basada en los hechos establecidos en el punto 3
 El 25 de junio de 2012 a partir de las 19:30 h se llevaba a cabo en el lugar del SU una interrupción de la circulación en el enclavamiento automático entre la estación de Hořovice y Kařízek, según las fases A y C de la ROV nº 95010, debido a la activación de un nuevo enclavamiento automático, la supresión de la estación de Zbiroh y la creación de la bifurcación de Zbiroh. Durante la interrupción no era posible encender en la señal principal (de salida) L2b en el pk 59,602 ninguna otra señal que autorizara la circulación distinta de la «Señal de llamada». El enclavamiento automático de la estación de Hořovice se conmutó a mando local y fue controlado por el jefe de estación desde el Puesto de Enlace de Circulación (JOP) de la estación de Hořovice. Se apagó el enclavamiento automático de vía en la 2ª vía (TK). Las circulaciones de trenes se realizaban en el tramo entre estaciones Hořovice – estación Kařízek y se aseguraban mediante comunicación telefónica. Tras el inicio de la interrupción se produjo la supresión de la estación de Zbiroh y la creación de la bifurcación de Zbiroh, cuyo jefe de estación no participaba en la dirección y organización del tráfico ferroviario según la ROV. Las señales de bloqueo automático de sección en la 2ª vía (TK) y la señal de entrada 2L en el pk 67,660 de la bifurcación de Zbiroh fueron invalidadas.
 
-
 ## Página 31
 
-Los trabajos de interrupción se realizaban en el marco de la construcción del III Corredor Transeuropeo, de la obra Optimización de la vía Zbiroh – Rokycany según el contrato nº 115/2004, celebrado entre la unión temporal de empresas Skanska – Subtera – Eurovia y la empresa explotadora de la infraestructura ferroviaria SŽDC. Los trabajos en el enclavamiento automático los realizaba el subcontratista AŽD Praha, s. r. o., MZ Kolín, cuyo empleado, antes del inicio de la interrupción, marcó indebidamente con la señal «Señal no válida» también la señal L2b.
-El 25 de junio de 2012 a las 19:42:20 h se despachó desde la estación de Hořovice en la 2ª vía (TK) el tren Os 7822, que circulaba desde la estación de Zdice hasta la estación de Plzeň hlavní nádraží. El tren pasó junto a la señal de salida L2b, que estaba marcada con la señal «Señal no válida» y en la que se había encendido la señal «Señal de llamada». El tren Os 7822 continuó su circulación, a pesar de que en la Orden General para el tren Os 7822 nº 025/918 no se indicaba la invalidación de la señal L2b y el maquinista no solicitó autorización para la circulación del tren tras la señal L2b. A las 20:16 h el tren Os 7822 se detuvo en la estación de Kařízek y el jefe de estación de Hořovice recibió la comunicación de fin de circulación de este tren por parte del jefe de estación de Kařízek a las 20:25 h.
-Ese mismo día a las 20:02:54 h el jefe de estación de Hořovice despachó con la señal principal (de vía) Lc2 desde la 2ª vía de llegada (SK) de la estación de Hořovice el tren R 824, que circulaba desde la estación de Praha hlavní nádraží hasta la estación de Klatovy. En la señal Lc2 se encendió la señal «Aviso». A las 20:04:37 h el tren pasó junto a la señal L2b, que estaba marcada con la señal «Señal no válida» y en la que se había encendido la señal «Alto». El tren R 824 continuó su circulación tras esta señal, a pesar de que en la Orden General para el tren R 824 nº 0001342-576 no se indicaba la invalidación de la señal L2b y el maquinista no solicitó autorización para la circulación del tren tras la señal L2b. El tren R 824 entró en el tramo entre estaciones ocupado por el tren Os 7822, que en ese momento se encontraba tras la bifurcación de Zbiroh. El maquinista del tren R 824 se detuvo por orden del jefe de estación de Zbiroh en la 2ª vía (TK) en el pk 65.800 entre la estación de Hořovice y la bifurcación de Zbiroh.
-Los maquinistas de los trenes Os 7822 y R 824 no adoptaron las medidas para detener el tren con todos los medios disponibles, a pesar de que la circulación de los trenes Os 7822 y R 824 junto a la señal L2b no estaba autorizada, ya que habían sido informados por la Orden General únicamente de la invalidación de las señales de bloqueo automático de sección entre la estación de Hořovice y la bifurcación de Zbiroh y de la señal de entrada de la bifurcación de Zbiroh.
-El jefe de estación de Hořovice no informó al maquinista del tren R 824 de la retención del tren en la estación de Hořovice por motivos de circulación.
-En el SU no se produjeron daños personales ni daños materiales.
+Las obras de intervención se llevaron a cabo en el marco de la construcción del III Corredor de Tránsito, obra Optimización de la línea Zbiroh – Rokycany según el contrato n.º 115/2004, celebrado entre la agrupación Skanska – Subtera – Eurovia y el gestor de la infraestructura SŽDC. Las obras en el aparato de señalización las realizaba el subcontratista AŽD Praha, s. r. o., MZ Kolín, cuyo empleado, antes del inicio de la intervención, marcó indebidamente la señal «Señal no válida» también en la señal L2b.
+El 25. 6. 2012 a las 19:42:20 h se despachó desde la est. Hořovice en la 2.ª TK el tren Os 7822, con destino desde la est. Zdice hasta la est. Plzeň hlavní nádraží. El tren pasó junto a la señal de salida L2b, que estaba marcada con la señal «Señal no válida» y en la que se mostraba la señal «Señal de llamada». El tren Os 7822 continuó la marcha, a pesar de que en la Orden General para el tren Os 7822 n.º 025/918 no se indicaba la anulación de la señal L2b y el maquinista no solicitó el permiso para la circulación del tren más allá de la señal L2b. A las 20:16 h el tren Os 7822 se detuvo en la est. Kařízek y el jefe de estación de la est. Hořovice recibió la comunicación de cierre de vía de este tren del jefe de estación de la est. Kařízek a las 20:25 h.
+El mismo día a las 20:02:54 h el jefe de estación de la est. Hořovice despachó con la señal principal (de vía) Lc2 desde la 2.ª SK de la est. Hořovice el tren R 824, con destino desde la est. Praha hlavní nádraží hasta la est. Klatovy. En la señal Lc2 se mostraba la señal «Aviso». A las 20:04:37 h el tren pasó junto a la señal L2b, que estaba marcada con la señal «Señal no válida» y en la que se mostraba la señal «Alto». El tren R 824 continuó la marcha más allá de esta señal, a pesar de que en la Orden General para el tren R 824 n.º 0001342-576 no se indicaba la anulación de la señal L2b y el maquinista no solicitó el permiso para la circulación del tren más allá de la señal L2b. El tren R 824 entró en el tramo entre estaciones ocupado por el tren Os 7822, que en ese momento se encontraba más allá de la desviación Zbiroh. El maquinista del tren R 824 se detuvo por orden del jefe de estación de la est. Zbiroh en la 2.ª TK en el km 65.800 entre la est. Hořovice y la desviación Zbiroh.
+Los maquinistas de los trenes Os 7822 y R 824 no adoptaron las medidas para detener el tren con todos los medios disponibles, a pesar de que la circulación de los trenes Os 7822 y R 824 junto a la señal L2b no estaba permitida, ya que habían sido informados por la Orden General únicamente de la anulación de las señales de sección del bloque automático entre la est. Hořovice y la desviación Zbiroh y de la señal de entrada de la desviación Zbiroh.
+El jefe de estación de la est. Hořovice no informó al maquinista del tren R 824 de la retención del tren en la est. Hořovice por motivos de tráfico.
+En el MU no se produjeron daños personales ni se causaron daños materiales.
 ## 4.2
 ### Análisis
-### 4.2.1 Evaluación de los hechos establecidos según el punto 3 y conclusiones sobre la causa del suceso ferroviario y la actuación de los servicios de emergencia
-El tren Os 7822 partió a las 19:42 h de la estación de Hořovice, se detuvo a las 20:02 h en la bifurcación de Zbiroh y llegó a la estación de Kařízek a las 20:16 h. El maquinista del tren no adoptó, al circular junto a la señal principal (de salida) L2b, que había sido invalidada, las medidas para detener el tren con todos los medios disponibles, a pesar de que su circulación no estaba autorizada, ya que no había sido informado por orden escrita de la invalidez temporal de la señal L2b. No comunicó a la persona que organizaba y dirigía el tráfico ferroviario la invalidación de la señal, ni solicitó a dicha persona la autorización para la circulación, y continuó su marcha. Según su declaración, reaccionó a la señal «Señal de llamada» que se había encendido en la señal L2b, pero, dado que la señal era inválida, no debía regirse por ella, ya que, si una señal está invalidada, ninguna señal mostrada en ella es válida y no puede
-
+### 4.2.1 Evaluación de los hechos constatados de acuerdo con el punto 3 y exposición de las conclusiones sobre la causa del suceso excepcional y la actuación de los servicios de emergencia
+El tren Os 7822 partió a las 19:42 h de la est. Hořovice, se detuvo a las 20:02 h en la desviación Zbiroh y llegó a la est. Kařízek a las 20:16 h. El maquinista del tren no adoptó, durante la circulación junto a la señal principal (de salida) L2b, que había sido anulada, las medidas para detener el tren con todos los medios disponibles, a pesar de que su circulación no estaba permitida, ya que no había sido informado por orden escrita de la invalidez temporal de la señal L2b. No comunicó la anulación de la señal a la persona que organiza y dirige el tráfico ferroviario, ni solicitó a dicha persona el permiso para la circulación, y continuó la marcha. Según su declaración, reaccionó a la señal «Señal de llamada» que se mostraba en la señal L2b, pero, dado que la señal era inválida, no debía regirse por ella, ya que, si una señal está anulada, ninguna señal mostrada en ella es válida y no puede
 
 ## Página 32
 
-juzgarse, por tanto, qué señal mostrada en ella es más relevante (véase la interpretación del artículo 876 de la norma SŽDC (ČD) D1 recogida en el documento de la empresa explotadora de la infraestructura ferroviaria «Interpretaciones de las reuniones normativas y de la resolución con referencia nº 60656/2001-O11»).
-Según la Orden General por escrito, la señal no estaba invalidada, pero tampoco estaba autorizada la circulación junto a una señal marcada de esta manera, y el maquinista no podía continuar su circulación tras esta señal. Dado que no existía una amenaza inminente para la seguridad del tráfico ferroviario, ya que la ruta ferroviaria para el tren Os 7822 estaba establecida y, desde el punto de vista de la dirección del tráfico ferroviario, también autorizada, no hay motivo para considerar que la circulación posterior del tren tras la señal L2b constituya la producción del SU, sino únicamente una infracción de los procedimientos tecnológicos de la empresa explotadora de la infraestructura ferroviaria, concretamente del artículo 1308 de la norma interna de la empresa explotadora de la infraestructura ferroviaria SŽDC (ČD) D2, lo que posteriormente contribuyó a la producción del SU.
-El tren R 824 se detuvo en la estación de Hořovice en la zona de subida y bajada de pasajeros a las 19:57 h. Allí el jefe de estación lo retuvo durante unos 5 min., ya que no se cumplían las condiciones para su circulación posterior (comunicación de fin de circulación del tren anterior Os 7822). Tras este tiempo, el jefe de estación decidió despacharlo estableciendo la señal principal de vía Lc2 desde la 2ª vía de llegada (SK) a la vía 2b hacia la señal de salida L2b, donde debía ser retenido de nuevo, ya que la comunicación de fin de circulación del tren anterior Os 7822 seguía sin llegar. El jefe de estación de Hořovice no informó al maquinista del tren R 824 de la retención del tren R 824 por motivos de circulación, a pesar de que se trataba de una retención bastante considerable (el tren anterior Os 7822 tenía ordenada una circulación lenta de 10 km·h-1 en el tramo entre estaciones con una longitud de unos 4 km), que el jefe de estación, basándose en el conocimiento de las condiciones locales y en los datos según los cuales organizaba y dirigía la circulación del tren Os 7822, debía prever y adoptar las medidas que exige el artículo 211 de la norma interna SŽDC ČD D2 «Si el jefe de estación prevé para un tren una retención por motivos de circulación, advertirá de ello a los miembros de la dotación del tren. ...».
-El tren R 824 partió de la estación de Hořovice a las 20:02:54 h desde la 2ª vía de llegada (SK) junto a la señal de vía Lc2 a una velocidad de 73 km·h-1 y se aproximaba a la señal principal de salida L2b, que estaba invalidada y en la que se había encendido la señal «Alto». El maquinista aplicó brevemente el freno de alta potencia, pero antes de que se produjera la detención, el tren soltó el freno y continuó su circulación tras la señal hacia el tramo espacial ocupado por el tren Os 7822. Su circulación tras la señal invalidada no estaba autorizada, ya que no había sido informado por orden escrita de la invalidez de la señal L2b y no solicitó la autorización para continuar la circulación tras esta señal a la persona que organizaba y dirigía el tráfico ferroviario. El maquinista, según su propia declaración, evaluó incorrectamente la situación y, creyendo que circulaba «entre estaciones», continuó su marcha y el tren se detuvo únicamente por orden del jefe de estación de la bifurcación de Zbiroh dada a través del TRS. El maquinista reaccionó, según su declaración, a la señal «Señal no válida» considerando que la señal «Alto» que se había encendido en la señal L2b era inválida. Sin embargo, según la Orden General por escrito, con la que el maquinista ya se había familiarizado en la estación de origen Praha hl. nádraží, la señal no estaba invalidada y el maquinista no podía continuar su circulación tras esta señal sin la autorización de la persona que organizaba y dirigía el tráfico ferroviario. Dado que el tren R 824 continuó su circulación no autorizada tras la señal L2b y entró en el tramo espacial ocupado por el tren Os 7822, se produjo una amenaza a la seguridad y fluidez del tráfico ferroviario y la producción del SU.
-El maquinista del tren R 824 no adoptó las medidas para detener el tren con todos los medios disponibles que exige el artículo 1308 de la norma interna SŽDC (ČD) D2.
-En el artículo 41 de la norma interna SŽDC (ČD) D2 (cuyo conocimiento completo estaba prescrito para los maquinistas del transportista) la empresa explotadora de la infraestructura ferroviaria estableció: «...Si la ejecución de una instrucción contradijera las disposiciones de las normas, el empleado que deba ejecutar la instrucción debe formular inmediatamente objeciones. ...».
-La concurrencia de la invalidación de la señal principal de salida, de las señales correspondientes mostradas en esta señal y del contenido de las Órdenes Generales transmitidas a los maquinistas de los trenes Os 7822 y R 824 dio lugar a una situación en la que ambos maquinistas, en el sentido de lo dispuesto en este artículo
+tedy posuzovat, která návěst na něm je závažnější (viz výklad k čl. 876 předpisu SŽDC (ČD) D1
+uvedený v dokumentu provozovatele dráhy „Výklady z předpisových porad a z výnosu č.j. 60656/2001-O11).
+Podle písemného Všeobecného rozkazu nebylo návěstidlo zneplatněno, ale rovněž nebyla
+jízda kolem takto označeného návěstidla dovolena a strojvedoucí nemohl v další jízdě za
+toto návěstidlo pokračovat. Vzhledem k tomu, že nehrozilo bezprostřední ohrožení
+bezpečnosti drážní dopravy, neboť vlaková cesta pro vlak Os 7822 byla postavena a z
+hlediska řízení drážní dopravy i povolena, není důvod další jízdu vlaku za návěstidlo L2b
+považovat za vznik MU, ale pouze za porušení technologických postupů provozovatele
+dráhy, a to ustanovení čl. 1308, vnitřního předpisu provozovatele dráhy SŽDC (ČD) D2,
+což následně přispělo k vzniku MU.
+Vlak R 824 zastavil v žst. Hořovice v prostoru pro výstup a nástup cestujících v 19:57 h.
+Tam jej výpravčí zdržel cca 5 min., neboť nebyly splněny podmínky pro jeho další jízdu
+(odhláška za předchozím vlakem Os 7822). Po této době se výpravčí rozhodl vypravit jej
+postavením hlavního cestového návěstidla Lc2 ze 2. SK na SK 2b k odjezdovému návěstidlu
+L2b, kde měl být dále zdržen, neboť odhláška za předchozím vlakem Os 7822 stále nedošla.
+O zdržení vlaku R 824 z dopravních důvodů výpravčí žst. Hořovice strojvedoucího vlaku R 824
+neinformoval, přesto, že šlo o poměrně velké zdržení (předchozí vlak Os 7822 měl pro jízdu
+v mezistaničním oddílu nařízenou pomalou jízdu 10 km·h-1 v délce cca 4 km), které měl
+výpravčí, na základě  znalosti místních poměrů a údajů, dle kterých organizoval a řídil jízdu
+vlaku Os 7822, předvídat a učinit opatření, které vyžaduje vnitřní předpis SŽDC ČD D2 článek
+211 „Předpokládá-li výpravčí u vlaku zdržení z dopravních důvodů, upozorní na to členy
+doprovodu vlaku. ...“. 
+Vlak R 824 odjel ze žst. Hořovice ve 20:02:54 h ze 2. SK kolem cestového
+návěstidla Lc2 rychlostí 73 km·h-1a blížil se k hlavnímu odjezdovému návěstidlu L2b, které
+bylo zneplatněno a na kterém byla rozsvícena návěst „Stůj“. Strojvedoucí použil
+krátkodobě rychlobrzdu, ale než došlo k zastavení, vlak odbrzdil a pokračoval v jízdě za
+návěstidlo do prostorového oddílu obsazeného vlakem Os 7822. Jeho jízda za
+zneplatněné návěstidlo nebyla dovolena, neboť nebyl zpraven písemným rozkazem
+o neplatnosti návěstidla L2b a nevyžádal si souhlas k pokračování jízdy za toto návěstidlo
+od osoby organizující a řídící drážní dopravu. Strojvedoucí dle vlastního vyjádření,
+nesprávně vyhodnotil situaci a v domnění, že jede „mezistaničně“, pokračoval v jízdě
+a vlak zastavil až na příkaz výpravčího odbočky Zbiroh daného prostřednictvím TRS.
+Strojvedoucí reagoval, dle své výpovědi, na návěst „Neplatné návěstidlo“ tak, že
+považoval návěst „Stůj“, která byla na návěstidle L2b rozsvícena, za neplatnou. Podle
+písemného Všeobecného rozkazu, se kterým se strojvedoucí seznámil již ve výchozí žst.
+Praha hl. nádraží, však nebylo návěstidlo zneplatněno a strojvedoucí nemohl v další jízdě
+za toto návěstidlo bez souhlasu osoby organizující a řídící drážní dopravu pokračovat.
+Vzhledem k tomu, že vlak R 824 pokračoval v nedovolené jízdě za návěstidlo L2b a vjel
+do prostorového oddílu obsazeného vlakem Os 7822, došlo k ohrožení bezpečnosti
+a plynulosti drážní dopravy a ke vzniku MU.
+Strojvedoucí vlaku R 824 neučinil opatření k zastavení vlaku všemi dostupnými
+prostředky, které vyžaduje vnitřní předpis SŽDC (ČD) D2 čl. 1308.
+Ve vnitřním předpisu SŽDC (ČD) D2 v čl. 41 (jehož úplnou znalost měli strojvedoucí
+dopravce předepsanou) provozovatel dráhy stanovil: „...Kdyby provedení pokynu odporovalo
+ustanovením předpisů, musí zaměstnanec, který má pokyn vykonat, ihned vznést námitky. ...“.
+Souběhem zneplatnění hlavního odjezdového návěstidla, dávaných příslušných návěstí na
+tomto návěstidle a obsahem Všeobecných rozkazů předaných strojvedoucím vlaků Os 7822
+a R 824 byla navozena situace, kdy měli oba strojvedoucí ve smyslu ustanovení tohoto článku
 
 ## Página 33
+
 
 reaccionar. De su actuación se dedujo que no estaban suficientemente preparados para las situaciones excepcionales y su evaluación inmediata y correcta, ya que ambos, de forma independiente, tomaron la misma decisión errónea.
 El ferroviario participante en el SU tiene implantado un sistema de seguridad de la explotación ferroviaria y ha emitido, entre otros, normas internas cuyo contenido incluye procedimientos tecnológicos mediante los que se garantizan las actividades establecidas por las normas para la explotación ferroviaria, y en el caso concreto, especialmente para la conducción de los vehículos ferroviarios. Sobre la base de los hechos constatados, expuestos en este informe, el ferroviario de los trenes R 824 y Os 7822 no garantizó el cumplimiento de los procedimientos tecnológicos establecidos y, con ello, del sistema implantado de seguridad de la explotación ferroviaria, ya que los maquinistas de los trenes R 824 y Os 7822 no actuaron ante la señal principal (de salida) invalidada con la señal «Señal invalidada», de acuerdo con los procedimientos tecnológicos del explotador de la infraestructura.
@@ -978,53 +1025,58 @@ m) «Responsabilidad por la seguridad de los productos, servicios y proveedores:
 
 ## Página 34
 
-El jefe de los trabajos del subcontratista no verificó la actividad del empleado designado para invalidar las señales y no finalizó los trabajos con la calidad requerida de modo que no constituyeran un obstáculo para la seguridad, regularidad y fluidez de la explotación de la infraestructura y del transporte ferroviario. Incumplió la disposición del art. 149 de la norma interna del explotador de la infraestructura D7/2.
-De la evaluación de la documentación solicitada, del examen del lugar del SU, de la instalación de seguridad y de la inspección de la vía se constató que la infraestructura (salvo la señal L2b), la instalación de seguridad de la estación y el estado técnico de los vehículos ferroviarios no guardan relación con la causa de la producción del SU.
-Los componentes del sistema integrado de emergencias no intervinieron en el lugar del SU. La aseguración del lugar del SU, en el que se detectó la deficiencia en la eliminación de la señal «Señal invalidada» de la señal L2b, fue realizada por la persona autorizada del explotador de la infraestructura y por el ferroviario participante en el SU.
+El jefe de trabajo del preparador no verificó la actividad del empleado designado para anular las señales y no completó el trabajo con la calidad requerida de modo que no fuera un obstáculo para la seguridad, la regularidad y la fluidez de la explotación de la vía y del transporte ferroviario. Incumplió lo dispuesto en el art. 149 de la instrucción interna del explotador de la vía D7/2.
+De la evaluación de la documentación solicitada, del examen del lugar del MU, de la instalación de seguridad y de la inspección de la vía se constató que la parte de la vía (excepto la señal L2b), la instalación de seguridad de la estación y el estado técnico de los vehículos ferroviarios no guardan relación con la causa de la aparición del MU.
+Los componentes del sistema integrado de emergencia no intervinieron en el lugar del MU. La aseguración del lugar del MU, en el que se detectó la deficiencia en la eliminación de la señal «Señal no válida» de la señal L2b, fue realizada por la persona autorizada del explotador de la vía y del transportista implicados en el MU.
 ## 4.3
 ### Conclusiones
 4.3.1 Causas inmediatas del suceso excepcional, incluidos los factores que contribuyeron al mismo y que estuvieron relacionados con la actuación de las personas implicadas o con el estado de los vehículos ferroviarios o de las instalaciones técnicas
 La causa inmediata del suceso excepcional fue:
+la circulación no autorizada del tren R 824 más allá de la señal principal (de salida)
 •
-la circulación no autorizada del tren R 824 junto a la señal principal (de salida) invalidada L2b, sobre cuya invalidación no fue informado por escrito el maquinista y no solicitó el consentimiento de la persona que organiza y dirige el transporte ferroviario para continuar la circulación.
+L2b anulada, sobre cuya anulación el maquinista no fue informado por escrito y para continuar la circulación no solicitó el consentimiento de la persona que organiza y dirige el transporte ferroviario.
 El factor contribuyente del suceso excepcional fue:
+la señal de salida L2b indebidamente marcada con la señal «Señal no válida»
 •
-la señalización indebida de la señal de salida L2b con la señal «Señal invalidada» por parte del explotador de la infraestructura sin conocimiento de la persona que dirige y organiza el transporte ferroviario;
+por el explotador de la vía sin conocimiento de la persona que dirige y organiza el transporte ferroviario;
+la circulación no autorizada del tren anterior Os 7822 más allá de la señal principal
 •
-la circulación no autorizada del tren anterior Os 7822 junto a la señal principal invalidada L2b, sobre cuya invalidación no fue informado por escrito el maquinista y no solicitó el consentimiento de la persona que organiza y dirige el transporte ferroviario para continuar la circulación;
+L2b anulada, sobre cuya anulación el maquinista no fue informado por escrito y para continuar la circulación no solicitó el consentimiento de la persona que organiza y dirige el transporte ferroviario;
+la no advertencia al maquinista del tren R 824 sobre la demora del tren por motivos
 •
-la no advertencia al maquinista del tren R 824 sobre la demora del tren por motivos de tráfico en la estación de Hořovice de acuerdo con la disposición del procedimiento tecnológico del explotador de la infraestructura;
+de tráfico en la est. Hořovice de acuerdo con lo dispuesto en el procedimiento tecnológico del explotador de la vía;
+la insuficiente preparación de los maquinistas del transportista para evaluar
 •
-la insuficiente preparación de los maquinistas del ferroviario para evaluar correctamente las situaciones excepcionales surgidas y para reaccionar de inmediato a las mismas en el sentido de las disposiciones normativas de referencia.
+correctamente las situaciones excepcionales surgidas y para reaccionar de inmediato a las mismas en el sentido de las disposiciones normativas de referencia.
 ### 4.3.2 Causas fundamentales relacionadas con la cualificación, los procedimientos y el mantenimiento
 La causa fundamental del suceso excepcional fue:
+el incumplimiento de los procedimientos tecnológicos establecidos por el explotador
 •
-el incumplimiento de los procedimientos tecnológicos establecidos por el explotador de la infraestructura por parte de la persona que dirige el tren R 824 para la circulación junto a señales invalidadas.
+de la vía por parte de la persona que dirige el tren R 824 para circular más allá de las señales anuladas.
 
 ## Página 35
 
-### 4.3.3 Causas derivadas del marco normativo y del uso del sistema de garantía de seguridad
-No se detectaron causas del suceso excepcional derivadas del marco normativo.
-El explotador de la infraestructura no garantizó el cumplimiento del sistema de seguridad de la explotación de la infraestructura al no haberse ejecutado los trabajos de interrupción con la calidad requerida al iniciarse la interrupción según las fases A y C del ROV n.º 95010, convirtiéndose en un obstáculo para la seguridad, regularidad y fluidez de la explotación de la infraestructura y del transporte ferroviario. Asimismo, no garantizó el cumplimiento del procedimiento tecnológico que establecía la información al maquinista del tren R 824 en caso de demora en la estación de Hořovice por motivos de tráfico.
-El ferroviario no garantizó el cumplimiento del sistema de garantía de seguridad del transporte ferroviario al no haber adoptado los maquinistas de los trenes R 824 y Os 7822 medidas para detener el tren por todos los medios disponibles, a pesar de que su circulación no estaba permitida, ya que no fueron informados por orden escrita de la invalidez temporal de la señal L2b, infringiendo así las normas para la explotación del transporte ferroviario que establecen el contenido de las actividades del ferroviario en la conducción de un vehículo ferroviario.
+### 4.3.3 Causas que se deben al marco normativo y al uso del sistema de garantía de la seguridad
+No se han detectado causas del suceso excepcional derivadas del marco normativo.
+El gestor de la infraestructura no garantizó el cumplimiento del sistema de seguridad de explotación de la infraestructura al no haberse ejecutado los trabajos de interrupción con la calidad requerida al iniciar la interrupción conforme a las fases A y C de la ROV n.º 95010, convirtiéndose en un obstáculo para la seguridad, la regularidad y la fluidez de la explotación de la infraestructura y del transporte ferroviario. Asimismo, no garantizó el cumplimiento del procedimiento tecnológico mediante el cual estableció la información al maquinista del tren R 824 en caso de retardo en la estación de Hořovice por motivos de tráfico.
+El transportista no garantizó el cumplimiento del sistema de garantía de la seguridad del transporte ferroviario al no tomar los maquinistas de los trenes R 824 y Os 7822 medidas para detener el tren por todos los medios disponibles, pese a que su circulación no estaba autorizada, ya que no fueron informados por orden escrita de la invalidez transitoria de la señal L2b, infringiendo así las normas de explotación del transporte ferroviario que establecen el contenido de las actividades del transportista en la conducción de un vehículo ferroviario.
 ## 4.4
 ### Hallazgos complementarios
-### 4.4.1 Deficiencias y omisiones detectadas durante la investigación de las causas y circunstancias de la producción del suceso excepcional, que sin embargo no son relevantes para las conclusiones sobre las causas
-En el explotador de la infraestructura SŽDC, s. o.:
-•
-el explotador de la infraestructura no garantizó que en el lugar de producción del SU no se produjeran cambios en el estado original hasta la llegada del empleado de DI. Hasta la llegada de la persona autorizada del explotador de la infraestructura y del ferroviario para la investigación del SU y del empleado de DI, una persona aún no identificada eliminó de la señal L2b la señal «Señal invalidada». Este hecho solo se desveló en la posterior investigación de las causas y circunstancias de la producción del SU; durante la investigación del SU en el lugar de su producción no era conocido. Con ello, el explotador de la infraestructura incumplió la disposición del § 49 apartado 3 letra b) de la ley.
+### 4.4.1 Deficiencias y omisiones detectadas durante la investigación de las causas y circunstancias del suceso excepcional, que no obstante no son relevantes para las conclusiones sobre las causas
+En el gestor de la infraestructura SŽDC, s. o.:
+• el gestor de la infraestructura no garantizó que, en el lugar del suceso excepcional, no se produjeran cambios en el estado original hasta la llegada del empleado de DI. Hasta la llegada de la persona autorizada por el gestor de la infraestructura y por el transportista para investigar el suceso excepcional y del empleado de DI, una persona aún no identificada retiró de la señal L2b la indicación «Señal no válida». Este hecho solo se desveló con la posterior investigación de las causas y circunstancias del suceso excepcional; en el momento de la investigación del suceso excepcional en el lugar de su ocurrencia no era conocido. Con ello, el gestor de la infraestructura incumplió lo dispuesto en el apartado 3, letra b), del artículo 49 de la ley.
 ## 5 MEDIDAS ADOPTADAS
 ## 5.1
-### Lista de medidas que ya se han adoptado o tomado como consecuencia del suceso excepcional
-El ferroviario ČD, a. s., DKV Plzeň emitió tras la producción del SU las siguientes medidas:
-«Las circunstancias de la producción del SU y la causa de la producción del SU serán debatidas en el órgano consultivo del VP DKV Plzeň.»
+### Lista de medidas ya adoptadas o tomadas como consecuencia del suceso excepcional
+El transportista ČD, a. s., DKV Plzeň emitió tras la ocurrencia del suceso excepcional las siguientes medidas:
+«Las circunstancias de la ocurrencia del suceso excepcional y la causa de su ocurrencia serán debatidas en el órgano consultivo del VP DKV Plzeň.»
 El subcontratista
  AŽD Praha, s. r. o., MZ Kolín emitió la siguiente medida:
 «Hoja informativa del director de MZ Kolín:
 Ordeno a todos los trabajadores de MZ Kolín que, al invalidar señales, observen estrictamente el cumplimiento de las normas de montaje, ensayo y tráfico.
 
-
 ## Página 36
+
 
            En la instrucción para la invalidación, los trabajadores serán informados no solo verbalmente, sino que también se les entregará por escrito la lista de señales y, en las vías complejas o extensas, el plano de situación con las señales señaladas para la colocación de cruces de invalidez.
            Esto será verificado por el capataz correspondiente, el sustituto del jefe de obra o el jefe de obra, ya sea al finalizar los trabajos o ya durante los mismos, mediante la supervisión directa del montaje.
@@ -1042,6 +1094,7 @@ definir en los procedimientos tecnológicos adoptados la cuestión de la circula
 
 ## Página 37
 
+
 ### Al explotador del transporte ferroviario České dráhy a. s.:
 •
 orientar el sistema de preparación de los maquinistas y su formación periódica de modo que sean capaces de reaccionar de forma correcta e inmediata, en el sentido de las disposiciones normativas, ante las situaciones excepcionales surgidas.
@@ -1054,8 +1107,8 @@ inspector principal
 de la Inspección Territorial de Praga
 de la Inspección Territorial de Praga
 
-
 ## Página 38
+
 
 ## 7 ANEXOS
 Fig. n.º 3: Situación a las 20:02:30 horas
@@ -1063,8 +1116,8 @@ Fuente: SŽDC, organización estatal
 Fig. n.º 4: Situación a las 20:02:33 horas
  Fuente: SŽDC, organización estatal
 
-
 ## Página 39
+
 
 Fig. n.º 5: Situación a las 20:03:30 horas
  Fuente: SŽDC, organización estatal.
@@ -1073,21 +1126,22 @@ Fuente: SŽDC, organización estatal
 
 ## Página 40
 
+
 Fig. n.º 7: Situación a las 20:03:47 horas
 Fuente: SŽDC, organización estatal
 Fig. n.º 8: Situación a las 20:04:07 horas
 Fuente: SŽDC, organización estatal
 
-
 ## Página 41
+
 
 Fig. n.º 9: Situación a las 20:04:33 horas
 Fuente: SŽDC, organización estatal
 Fig. n.º 10: Situación a las 20:05:49 horas
 Fuente: SŽDC, organización estatal
 
-
 ## Página 42
+
 
 Fig. n.º 11: Situación a las 20:07:13 horas
 Fuente: SŽDC, organización estatal

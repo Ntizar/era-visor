@@ -12,8 +12,8 @@ tokens_in: 39051
 tokens_out: 25976
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-verificacion: revisar
-avisos: ["página 12: ratio 1.68", "página 24: ratio 1.94"]
+verificacion: ok
+notas_cifras: ["página 7: original bilingüe: se compara contra el idioma principal (HR); cifras largas: 1/12", "página 8: cifras largas: 1/13", "página 10: original bilingüe: se compara contra el idioma principal (HR)", "página 12: original bilingüe: se compara contra el idioma principal (HR)", "página 15: original bilingüe: se compara contra el idioma principal (HR)", "página 18: original bilingüe: se compara contra el idioma principal (HR)"]
 ---
 
 ## Página 1
@@ -330,34 +330,38 @@ La estación está protegida por un dispositivo electro-mecánico de autorizaci�
 
 ## Página 12
 
-Señal de límite de maniobra: 
+Señal de límite de maniobras:
 - 
-hacia Virje se encuentra en el PK 198+964, a 236 metros de la aguja número 1, 
+En dirección a Virje se encuentra en el PK 198+964, dista 236 metros del desvío n.º 1,
 - 
-hacia Koprivnica se encuentra en el PK 200+207, a 221 metros de la aguja número 6. 
-La aguja número 5 se encuentra en el PK 199+657; su posición normal es para la circulación en dirección a la tercera vía. 
-Se asegura con seguros de agujas en dirección a la tercera vía y en el desvío hacia la segunda vía, y está en dependencia con la señal de entrada UsB. 
-La aguja número 6 se encuentra en el PK 199+986; su posición normal es para la circulación en dirección a la tercera vía. 
-Se asegura con seguro de agujas en dirección a la tercera vía y en el desvío hacia la cuarta vía. Está en dependencia con la señal de entrada UsB. 
-En el momento del accidente era de día, no había precipitaciones, la temperatura exterior era de 2°C y la visibilidad era buena. 
-No había obras en el lugar ni en las inmediaciones del lugar del accidente. 
-### 3.1.4. Fallecimientos, lesiones y daños materiales 
-En el accidente no hubo personas fallecidas ni heridas, y se produjeron daños materiales considerables en los vagones de mercancías y en la infraestructura. El daño material total asciende a 1.731.015,68 HRK (en la vía 400.000,00 HRK, en los dispositivos 99.077,22 HRK, en los vehículos ferroviarios 733.124,74 HRK, en las mercancías (de los usuarios del transporte) 51.735,92 HRK, costes de izado de vehículos ferroviarios 337.703,50 HRK, otros costes para la eliminación de las consecuencias 109.374,30 HRK). 
-3.1.5. Descripción de otras consecuencias, incluido el impacto del suceso extraordinario en las operaciones regulares de las partes implicadas 
-La interrupción del tráfico de trenes duró desde el 13.01.2021 a las 10:30 horas hasta el 15.01.2021 a las 19:50 horas. Hubo retrasos de 41 trenes de pasajeros, lo que supuso un total de 669 minutos. 
-### 3.1.6. Identificación de las personas, sus funciones y las partes implicadas 
-En este accidente participaron trabajadores ejecutivos de las sociedades HŽI y Rail Cargo Carrier Croatia d.o.o.. 
-Las personas implicadas son: 
+En dirección a Koprivnica se encuentra en el PK 200+207, dista 221 metros del desvío n.º 6.
+El desvío n.º 5 se encuentra en el PK 199+657, la posición normal es para la circulación en dirección al tercer carril.
+Se bloquea con llaves de desvío en dirección al tercer carril y en desviación al segundo carril, y depende de la señal de entrada UsB.
+El desvío n.º 6 se encuentra en el PK 199+986, la posición normal es para la circulación en dirección al tercer carril.
+Se bloquea con llave de desvío en dirección al tercer carril y en desviación al cuarto carril. Depende de la señal de entrada UsB.
+En el momento del accidente era de día, no había precipitaciones, la temperatura exterior era de 2°C y la visibilidad era buena.
+En el lugar y en las inmediaciones del lugar del accidente no había trabajos.
+
+### 3.1.4. Fallecidos, lesiones y daños materiales
+En el accidente no hubo personas fallecidas ni lesionadas, y se produjeron daños materiales de consideración en los vagones de mercancías y en la infraestructura. El daño material total asciende a 1.731.015,68 HRK (en la vía 400.000,00 HRK, en los aparatos 99.077,22 HRK, en los vehículos ferroviarios 733.124,74 HRK, en los bienes (de los usuarios del transporte) 51.735,92 HRK, costes de izado de vehículos ferroviarios 337.703,50 HRK, otros costes en la eliminación de consecuencias 109.374,30 HRK).
+
+3.1.5. Descripción de otras consecuencias, incluida la influencia del suceso excepcional en las operaciones regulares de los sujetos implicados
+La interrupción del tráfico ferroviario duró desde el 13.01.2021 a las 10:30 horas hasta el 15.01.2021 a las 19:50 horas. Se retrasaron 41 trenes de pasajeros, con un total de 669 minutos de retraso.
+
+### 3.1.6. Identificación de las personas, sus funciones y los sujetos implicados
+En este accidente participaron trabajadores ejecutivos de las sociedades HŽI y Rail Cargo Carrier Croataia d.o.o..
+Las personas implicadas son:
 - 
-el despachador de trenes de la estación de Bregi, HŽ Infrastruktura d.o.o., 
+Jefe de tráfico de la estación de Bregi, HŽ Infrastruktura d.o.o.,
 - 
-el agujeiro de la estación de Bregi, HŽ Ingfrastruktura d.o.o., 
+Aparatista de desvíos de la estación de Bregi, HŽ Ingfrastruktura d.o.o.,
 - 
-el maquinista de la locomotora 92812016081-9, Rail Cargo Carrier Croatia d.o.o., 
+Maquinista de la locomotora 92812016081-9, Rail Cargo Carrier Croatia d.o.o.,
 - 
-el inspector de vagones, Rail Cargo Carrier Croatia d.o.o. 
-3.1.7. Descripción e identificadores de los trenes y su composición, incluidos los vehículos ferroviarios y sus números de registro 
-En el mencionado accidente participó un tren de maniobra compuesto por la locomotora número 92812016081-9 y 28 vagones de la serie Uagps para el transporte de cereales.
+Inspector de vagones, Rail Cargo Carrier Croatia d.o.o.
+
+3.1.7. Descripción e identificadores de los trenes y su composición, incluidos los vehículos ferroviarios y sus números de registro
+En el mencionado accidente participó una composición de maniobras formada por la locomotora n.º 92812016081-9 y 28 vagones de la serie Uagps para el transporte de cereales.
 
 ## Página 13
 
@@ -573,24 +577,18 @@ No está permitido el uso del freno de retención durante el movimiento de vehí
 
 ## Página 24
 
-(3) corrección obligatoria: falló ratio 1.76. Traduce el fragmento completo, sin omitir ninguna línea, tabla ni cifra.
-
-CORRECCIÓN OBLIGATORIA: falló ratio 1.76. Traduce el fragmento completo, sin omitir ninguna línea, tabla ni cifra.
-
----FRAGMENTO---
-
-
-(3) bajo las siguientes condiciones: - el freno de estacionamiento del vagón más alejado debe estar aplicado, - en 
-28 ejes se aplica un freno de estacionamiento, - no se permite el uso del freno de estacionamiento durante el movimiento del vehículo en la estación.  
-b) Frenado directo de la locomotora  
-En el frenado directo de la locomotora, se distingue entre - el frenado durante las maniobras en la plataforma de la estación y 
-- el frenado durante las maniobras más allá del límite de maniobras y la señal de entrada (hasta la señal anticipada de la estación BREGI, como máximo).  
-El número permitido de ejes que pueden ser frenados mediante el freno directo de la locomotora durante las maniobras en la estación es:  
-Parámetros para el cálculo: Velocidad de maniobra 30 km/h, Distancia de frenado 400 m, Pendiente de referencia: pendiente descendente de 2,3 por mil (cálculo redondeado a 3 por mil), Frenado manual a velocidades de 20 km/h y 30 km/h.  
-En todos los vagones que se conectan a la tubería de aire para asegurar el sistema de frenado continuo automático (PKM), es necesario realizar la prueba B.  
-Los trenes de maniobra de más de 40 ejes se frenan con los frenos automáticos. El número de ejes frenados mediante el freno directo de la locomotora se indica en la tabla anterior (segunda columna). Para vehículos pesados, cuya carga es superior a 15 t/eje, se reduce un 30 %, lo cual también se indica en la tabla anterior (columna 3). Cuando los ejes excedentes deben frenarse manualmente, a una velocidad de 20 km/h se aplica un freno manual por cada 26 ejes, o bien a una velocidad de 30 km/h, un freno manual por cada 14 ejes. Al seleccionar el freno manual, debe aplicarse aquel con la mayor masa de frenado. A una velocidad de maniobra de hasta 30 km/h, se recomienda conectar el número necesario de vagones a la tubería de aire.  
-El número permitido de ejes que pueden ser frenados mediante el freno directo de la locomotora durante las maniobras en la vía hacia Virje es: Velocidad de maniobra 30 km/h, Distancia de frenado 400 m, Pendiente de referencia: 6 ‰ (se toma la más desfavorable de ambas direcciones según la Instrucción 52), Frenado manual a velocidades de 20 km/h y 30 km/h.    
-El número permitido de ejes que pueden ser frenados mediante el freno directo de la locomotora durante las maniobras en la vía hacia Koprivnica es: Velocidad de maniobra 30 km/h, Distancia de frenado 400 m, Pendiente de referencia: 5 ‰ (se toma la más desfavorable de ambas direcciones según la Instrucción 52), Frenado manual a velocidades de 20 km/h y 30 km/h.
+(3) colosijeku con las siguientes condiciones: - el freno de apriete del vagón más alejado debe estar apretado, - en
+28 ejes se acciona un freno de apriete, - el uso del freno de apriete durante el movimiento de los vehículos en
+la estación no está permitido.
+b) Frenado directo con la locomotora
+En el frenado directo con la locomotora, distinguimos - el frenado durante las maniobras en la plataforma de la estación y
+- el frenado durante las maniobras más allá del límite de maniobra y de la señal de entrada (hasta el máximo el preaviso de la estación BREGI).
+El número permitido de ejes que puede ser frenado con el freno directo de la locomotora durante las maniobras en la estación asciende a:
+Parámetros para el cálculo: Velocidad de maniobra 30 km/h, Distancia de parada 400 m, Pendiente determinante: descenso de 2,3 por mil (cálculo redondeado a 3 por mil), Frenado manual a velocidades de 20 km/h y 30 km/h.
+Para todos los vagones que se incorporan a la conducción de aire para la garantía de la PKM, es necesario realizar la prueba B.
+La composición de maniobra de más de 40 ejes se frena con frenos automáticos. El número de ejes frenados con el freno directo de la locomotora se indica en la tabla anterior (segunda columna). Para vehículos más pesados, cuya carga sea superior a 15 t/eje, se reduce un 30 %, lo que también se indica en la tabla anterior (columna 3). Cuando los ejes excedentes deben frenarse manualmente, a una velocidad de 20 km/h – un freno manual por cada 26 ejes, o a una velocidad de 30 km/h – un freno manual por cada 14 ejes. En la selección del freno manual debe accionarse el que tenga mayor masa de frenado. Con velocidades de maniobra de hasta 30 km/h, se recomienda incorporar el número necesario de vagones a la conducción de aire.
+El número permitido de ejes que puede ser frenado con el freno directo de la locomotora durante las maniobras en la línea hacia Virje asciende a: Velocidad de maniobra 30 km/h, Distancia de parada 400 m, Pendiente determinante: 6 ‰ (se toma la más desfavorable de las dos direcciones conforme a la Instrucción 52), Frenado manual a velocidades de 20 km/h y 30 km/h.
+El número permitido de ejes que puede ser frenado con el freno directo de la locomotora durante las maniobras en la línea hacia Koprivnica asciende a: Velocidad de maniobra 30 km/h, Distancia de parada 400 m, Pendiente determinante: 5 ‰ (se toma la más desfavorable de las dos direcciones conforme a la Instrucción 52), Frenado manual a velocidades de 20 km/h y 30 km/h.
 
 ## Página 25
 

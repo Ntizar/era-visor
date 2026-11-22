@@ -10,13 +10,14 @@ chars: 129469
 ratio_longitud: 1.25
 tokens_in: 59632
 tokens_out: 42644
-verificacion: revisar
-notas_cifras: ["bloque 1: cifras cortas: 1/218", "bloque 2: original bilingüe: se compara contra el idioma principal (CS)", "bloque 4: original bilingüe: se compara contra el idioma principal (CS)"]
-avisos: ["bloque 4: ratio 1.86"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (PT); cifras cortas: 1/8", "página 6: original bilingüe: se compara contra el idioma principal (EN)", "página 7: original bilingüe: se compara contra el idioma principal (PT)", "página 9: original bilingüe: se compara contra el idioma principal (CS)", "página 10: original bilingüe: se compara contra el idioma principal (PT)", "página 12: original bilingüe: se compara contra el idioma principal (PT)"]
 ---
+
 ## Página 1
+
 
 Inspección Ferroviaria
 República Checa
@@ -39,11 +40,12 @@ IČ:   75009561
 http://www.dicr.cz
 tel.: 224 805 444
 
-
 ## Página 2
 
 
+
 ## Página 3
+
 
 # RESUMEN
 Grado:
@@ -90,8 +92,8 @@ conducción de trenes en condiciones meteorológicas adversas;
 • en el vehículo ferroviario, tipo 843, para garantizar la posibilidad de comprobar
 completamente todas las tareas
 
-
 ## Página 4
+
 
 asociadas con su operación por parte de los conductores mediante medios técnicos, con el fin de eliminar
 el impacto negativo del factor humano;
@@ -109,13 +111,13 @@ condiciones de explotación (p. ej. meteorológicas) y el uso de distintos tipos
 incluir estas especificidades en el plan de estudios y el contenido de la formación obligatoria,
 incluida la resolución práctica de situaciones críticas.
 
-
 ## Página 5
+
 
 Este informe final es público y todos los documentos y hechos están respaldados por el expediente de investigación.
 
-
 ## Página 6
+
 
 # Índice
  Resumen .............................................................................................................................3
@@ -150,8 +152,8 @@ incluidas personas en relación contractual ....................................
 3.1 Resumen de las declaraciones prestadas (sujeto a protección de la identidad de las personas) ................................17
 3.1.1 Empleados del gestor de la infraestructura y del operador ferroviario, incluidas personas en relación
 
-
 ## Página 7
+
 
 contractual ...............................................................................................................17
 3.1.2 Otras personas .........................................................................................................21
@@ -193,6 +195,7 @@ manejo y uso ...................................................................
 
 ## Página 8
 
+
 4.2.1 Evaluación de los hechos constatados de acuerdo con el punto 3 y formulación de conclusiones sobre la causa del suceso excepcional y la actuación de los servicios de emergencia ..........................................35
 4.3 Conclusiones .......................................................................................................39
 4.3.1 Causas inmediatas del suceso excepcional, incluidos los factores que contribuyeron al mismo y que estuvieron relacionados con la actuación de las personas implicadas o con el estado de los vehículos ferroviarios o de las instalaciones técnicas ....................................................................39
@@ -208,8 +211,8 @@ manejo y uso ...................................................................
  Foto n.º 2: Vista desde el canal de montaje del disco de freno del HDV 843 004-3 tras su retirada del lugar del SE el 16. 02. 2012 a la PJ Liberec. ...........................................................43
  Foto n.º 3: Vista desde el canal de montaje del disco de freno del HDV 843 004-3 tras su retirada del lugar del SE el 16. 02. 2012 a la PJ Liberec. ...........................................................44
 
-
 ## Página 9
+
 
 ## Lista de siglas, símbolos y denominaciones abreviadas utilizadas.
 ARR
@@ -259,8 +262,8 @@ Normativa para la explotación y el servicio de los dispositivos de freno de los
 norma SŽDC (ČD) D1
 norma interna SŽDC (ČD) D1 «Normativa para la utilización de señales en la organización y explotación del transporte ferroviario», aprobada por decisión del director general de České dráhy el 15. 4. 1997, n.º de expediente: 55216/97-O11, en vigor desde el 28. 12. 1997, asumida en la competencia de la Administración de la Vía Ferroviaria de Transporte, organización estatal, con base en la Instrucción del director general n.º 8/2008, n.º de expediente: 12 026/08-OKS, en vigor desde el 01. 07. 2008, en su versión vigente
 
-
 ## Página 10
+
 
 norma SŽDC (ČD) D2
 norma interna SŽDC (ČD) D2 «Normativa para la organización y explotación del transporte ferroviario», aprobada por decisión del director general de České dráhy el 13. 03. 1997, n.º de expediente: 55279/97-O11, en vigor desde el 28. 12. 1997, asumida en la competencia de la Administración de la Vía Ferroviaria de Transporte, organización estatal, con base en la Instrucción del director general n.º 8/2008, n.º de expediente: 12 026/08-OKS, en vigor desde el 01. 07. 2008, en su versión vigente
@@ -289,8 +292,8 @@ dispositivo de seguridad de tren
 decreto n.º 16/2012 Sb.
 decreto n.º 16/2012 Sb., sobre la competencia profesional de las personas que conducen vehículos ferroviarios y de las personas que realizan revisiones, inspecciones y pruebas de los dispositivos técnicos designados, y sobre la modificación del decreto del Ministerio de Transportes n.º 101/1995 Sb., por el que se dicta el Reglamento sobre la aptitud médica de las personas para la explotación del ferrocarril y del transporte ferroviario
 
-
 ## Página 11
+
 
 decreto n.º 101/1995 Sb.            decreto n.º 101/1995 Sb., por el que se dicta el Reglamento sobre la aptitud médica de las personas para la explotación del ferrocarril y del transporte ferroviario, en su versión vigente
 decreto n.º 173/1995 Sb.             decreto n.º 173/1995 Sb., reglamento de tráfico ferroviario, en su versión vigente
@@ -303,8 +306,8 @@ ley n.º 22/1997 Sb., sobre requisitos técnicos de los productos, en su versió
 est.
 estación de ferrocarril
 
-
 ## Página 12
+
 
 ## 1 RESUMEN
 Grupo del suceso:
@@ -329,57 +332,53 @@ La Inspección Ferroviaria, como autoridad administrativa competente en la mater
 establecer requisitos más exigentes para el mecanismo de control con el fin de evitar el fallo
 ●
 
-
 ## Página 13
 
-del factor humano y eliminar la actuación rutinaria de los empleados de explotación. En el marco de la actividad de control, aumentar la atención al cumplimiento de los procedimientos tecnológicos establecidos para la conducción de trenes en condiciones climáticas adversas;
-garantizar en los HDV de la serie 843, por medios técnicos, la posibilidad de un control completo de todas las operaciones relacionadas con su servicio por parte de las personas que conducen los vehículos, con el fin de eliminar la influencia negativa del factor humano;
-●
-en los HDV de la serie 843, eliminar la interconexión de un sistema de freno con el mando de los demás sistemas de freno, de modo que el EDB esté en funcionamiento tanto en caso de reducción de la presión del aire en la tubería continua del freno automático por debajo del valor de 3,5 bar, como también al aplicar el frenado de acción rápida (desde el estado de explotación, vaciado muy rápido de la tubería continua del freno automático);
-en la línea ferroviaria en cuestión, explotar únicamente vehículos con la interconexión de un sistema de freno con el mando de los demás sistemas de freno eliminada, de modo que el DB pueda ponerse fácilmente en funcionamiento también en caso de reducción de la presión del aire en la tubería continua del freno automático por debajo del valor de 3,5 bar, o tras la aplicación del frenado de acción rápida (vaciado muy rápido de la tubería continua del freno automático), o con vehículos que permitan utilizar fácilmente otro sistema de freno, p. ej. el freno electromagnético de riel;
-●
-tratar con el explotante de la vía si la tecnología de circulación de los vehículos actualmente establecida en la línea ferroviaria en cuestión en condiciones climáticas adversas es plenamente suficiente;
-●
-tener en cuenta las particularidades de cada unidad operativa en relación con la diferencia de condiciones de explotación y la distribución de los distintos tipos de series de vehículos en la explotación del transporte ferroviario, y ampliar los programas y el contenido de la formación obligatoria en los distintos puestos de trabajo, incluida la resolución práctica de situaciones de crisis, sobre dichas particularidades.
-●
-## 2 DATOS RELATIVOS AL SUECESO EXCEPCIONAL
+humano y a eliminar la actuación rutinaria de los empleados de explotación. En el marco de la actividad de control, aumentar la atención al cumplimiento de los procedimientos tecnológicos establecidos para la conducción de trenes en condiciones climáticas adversas;
+● garantizar en el material rodante de la serie 843, por medios técnicos, la posibilidad de control total de todas las operaciones relacionadas con su servicio por parte de las personas que dirigen el material rodante, con el fin de eliminar la influencia negativa del factor humano;
+● en el material rodante de la serie 843, eliminar la interconexión de un sistema de freno con el control de los demás sistemas de freno, de modo que la EDB esté en funcionamiento tanto al reducirse la presión del aire en el tubo continuo del freno automático por debajo del valor de 3,5 bar, como también al aplicarse el frenado de acción rápida (desde el estado de explotación, vaciado muy rápido del tubo continuo del freno automático);
+● en la línea ferroviaria en cuestión, explotar únicamente material rodante con la interconexión de un sistema de freno con el control de los demás sistemas de freno eliminada, de modo que la DB pueda ponerse fácilmente en funcionamiento incluso al reducirse la presión del aire en el tubo continuo del freno automático por debajo del valor de 3,5 bar, respectivamente, tras la aplicación del frenado de acción rápida (vaciado muy rápido del tubo continuo del freno automático), o con material rodante que permita utilizar fácilmente otro sistema de freno, por ejemplo, el freno electromagnético de riel;
+● tratar con el gestor de la vía si la tecnología de circulación del material rodante actualmente establecida en la línea ferroviaria en cuestión en condiciones climáticas adversas es plenamente suficiente;
+● tener en cuenta las características específicas de cada unidad de tracción en relación con la diferencia de condiciones de explotación y la distribución de los distintos tipos y series de material rodante en la explotación del transporte ferroviario, y ampliar con dichas características los programas y el contenido de la formación obligatoria en los distintos puestos de trabajo, incluida la resolución práctica de situaciones de crisis.
+## 2 DATOS RELATIVOS AL SUCESO EXCEPCIONAL
 ## 2.1
 ### Suceso excepcional
 ### 2.1.1 Fecha, hora exacta y lugar del suceso excepcional
-El SE se produjo los días 05. 01. 2012, 09:23 h. y 16. 02. 2012, 17:13 h., en la vía ferroviaria, categoría regional, línea n.º 548C Tanvald – Harrachov, pk 32,100 y pk 32,440, entre las estaciones de Kořenov y Dolní Polubný, línea con gestión simplificada del transporte ferroviario.
-### 2.1.2 Descripción del suceso excepcional y del lugar del accidente, incluida la actuación del sistema integrado de emergencia y del servicio de rescate
-El 05. 01. 2012, tras el enlace con el tren Os 16207, el tren Os 16218 partió de la estación de Harrachov hacia la est. Tanvald. Según la declaración del maquinista, tras la salida, la circulación del tren se desarrolló sin incidencias hasta la parada de Kořenov zastávka. Tras recorrer unos 150 metros desde dicha parada, el maquinista aplicó el frenado de acción rápida debido a una rama de árbol que invadía el perfil de circulación de la vía. El efecto de frenado del freno automático neumático no se produjo y el tren seguía aumentando la velocidad. Se produjo el paso sin control por las paradas de Desná-
+El SE produjo los días 05. 01. 2012, a las 09:23 h, y 16. 02. 2012, a las 17:13 h, en la vía ferroviaria, categoría regional, línea n.º 548C Tanvald – Harrachov, pk 32,100 y pk 32,440, entre las estaciones de Kořenov y Dolní Polubný, línea con gestión simplificada del transporte ferroviario.
+### 2.1.2 Descripción del suceso excepcional y del lugar del accidente, incluida la actuación del sistema integrado de emergencias y del servicio de rescate
+El 05. 01. 2012, tras el giro a partir del tren Os 16207, partió el tren Os 16218 de la estación de Harrachov hacia la est. de Tanvald. Según la declaración del maquinista, tras la salida, la circulación del tren se desarrolló sin incidencias hasta la parada de Kořenov zastávka. Tras recorrer unos 150 metros desde dicha parada, el maquinista, debido a una rama de árbol que invadía el perfil de circulación de la vía, aplicó el frenado de acción rápida. El efecto de frenado del freno automático neumático no se produjo y el tren seguía aumentando la velocidad. Se produjo el paso incontrolado de las paradas Desná-
 
 ## Página 14
 
-Pustinská, Dolní Polubný y Desná-Riedlova vila. El efecto frenador del freno automático de aire y de los frenos de mano apretados del HDV solo se hizo efectivo en el tramo con una pendiente más suave. El tren Os 16218 se detuvo en el pk 29,690.
-El 16. 02. 2012, tras el giro a partir del tren Os 16229, el tren Os 16240 partió de la estación de tráfico Harrachov hacia la est. Tanvald. Tras la salida del túnel de Polubenský, el maquinista comenzó a frenar con el fin de detenerse en la parada Kořenov zastávka, situada en el pk 32,580. Tras la aplicación del freno de tren y del adicional y, posteriormente, tras la activación de la frenada de acción rápida, el efecto frenador del freno automático de aire no se hizo efectivo y el tren continuó aumentando la velocidad. Se produjo el paso sin control por las paradas Kořenov zastávka, Desná-Pustinská, Dolní Polubný y Desná-Riedlova vila. El efecto frenador del freno automático de aire y de los frenos de mano apretados del HDV solo se hizo efectivo en el tramo con una pendiente más suave. El tren Os 16240 se detuvo en el pk 29,820.
+Pustinská, Dolní Polubný y Desná-Riedlova vila. El efecto frenador del freno automático de aire y de los frenos de mano apretados del material rodante se hizo efectivo solo en el tramo con una pendiente más suave. El tren Os 16218 se detuvo en el pk 29,690.
+El 16. 02. 2012, tras el giro a partir del tren Os 16229, el tren Os 16240 partió de la estación de tráfico Harrachov hacia la estación de Tanvald. Tras la salida del túnel de Polubný, el maquinista comenzó a frenar con el fin de detenerse en la parada de Kořenov zastávka, situada en el pk 32,580. Tras el uso del freno de tren y del freno adicional y, posteriormente, tras la aplicación del frenado de acción rápida, el efecto frenador del freno automático de aire no se hizo efectivo y el tren continuó aumentando la velocidad. Se produjo el paso sin control por las paradas Kořenov zastávka, Desná-Pustinská, Dolní Polubný y Desná-Riedlova vila. El efecto frenador del freno automático de aire y de los frenos de mano apretados del material rodante se hizo efectivo solo en el tramo con una pendiente más suave. El tren Os 16240 se detuvo en el pk 29,820.
 Ambos trenes pasaron sin detenerse por las paradas indicadas y se superaron sus velocidades máximas permitidas en vía y establecidas.
-El 05. 01. 2012 no acudieron al lugar del suceso los servicios del SSI, el 16. 02. 2012 acudió la PČR, OOP Tanvald. En ninguno de los dos sucesos hubo personas que sufrieran daños en su salud, no se produjo una catástrofe ecológica, ni se produjeron daños en el material rodante, en las construcciones de la vía ni en las construcciones sobre la vía.
-2.1.3 Decisión de iniciar la investigación de las causas y circunstancias de la ocurrencia, composición del equipo de personas cualificadas y forma de dirigir la investigación de las causas y circunstancias de la ocurrencia
-La ocurrencia de los sucesos fue comunicada al DI en el COP de Praga el 05. 01. 2012 a las 10:05 h y el 16. 02. 2012 a las 17:53 h. Estos sucesos fueron clasificados como amenazas en el transporte ferroviario. Dado que los sucesos se repitieron en un intervalo de tiempo corto y existía la presunción de una relación causal directa con deficiencias en el sistema de aseguramiento organizativo o técnico de la explotación segura de la vía y del transporte ferroviario, el DI inició la investigación de las causas y circunstancias de la ocurrencia de los sucesos de conformidad con lo dispuesto en el apartado 11, apartado (2), letra b), punto 1. del decreto n.º 376/2006 Sb. El Servicio de Inspección Territorial de Praga fue designado por el DI para la investigación y determinación de las causas y circunstancias de la ocurrencia de sucesos extraordinarios. En la investigación, el DI se basó en sus propios conocimientos, documentación y en la documentación solicitada al explotador de la vía y al transportista.
+El 05. 01. 2012 no acudieron al lugar de origen de la MU los servicios del IZS, el 16. 02. 2012 acudió la PČR, OOP Tanvald. En ambas MU nadie sufrió daños en la salud, no se produjo una catástrofe ecológica, ni se produjeron daños en los vehículos ferroviarios, en las obras de la vía ni en las obras sobre la vía.
+2.1.3 Decisión de iniciar la investigación de las causas y circunstancias de la ocurrencia, composición del equipo de personas cualificadas y método de dirección de la investigación de las causas y circunstancias de la ocurrencia
+La ocurrencia de la MU fue comunicada por el DI al COP de Praga el 05. 01. 2012 a las 10:05 h y el 16. 02. 2012 a las 17:53 h. Estas MU fueron clasificadas como amenaza en el transporte ferroviario. Dado que las MU se repitieron en un corto intervalo de tiempo y se planteó la presunción de una relación causal directa con deficiencias en el sistema de aseguramiento organizativo o técnico de la explotación segura de la vía y del transporte ferroviario, el DI inició la investigación de las causas y circunstancias de la ocurrencia de la MU de conformidad con lo dispuesto en el § 11 apartado (2) letra b) punto 1. del decreto nº 376/2006 Sb. La investigación y determinación de las causas y circunstancias de la ocurrencia de acontecimientos extraordinarios fue encomendada por el DI a la Inspección Territorial de Praga. En la investigación, el DI partió de sus propios conocimientos, documentación y de la documentación solicitada al explotador de la vía y al transportista.
 ## 2.2
-### Circunstancias del suceso extraordinario
-### 2.2.1 Empleados implicados del explotador de la vía y del transportista, personas en relación contractual y demás implicados y testigos
-Empleados implicados del transportista:
-● maquinista del tren Os 16218, empleado de ČD, a. s., DKV Česká Třebová, PJ Liberec;
+### Circunstancias del acontecimiento extraordinario
+### 2.2.1 Empleados participantes del explotador de la vía y del transportista, personas en relación contractual y demás participantes y testigos
+Empleados participantes del transportista:
+● maquinista del tren Os 16218, empleado de ČD, a. s., DKV Česká Třebová, PJ
+Liberec;
 ● jefe de servicio del tren Os 16218, empleado de ČD, a. s., RCVD Liberec;
-● maquinista del tren Os 16240, empleado de ČD, a. s., DKV Česká Třebová, PJ Liberec;
+● maquinista del tren Os 16240, empleado de ČD, a. s., DKV Česká Třebová, PJ
+Liberec;
 ● jefe de servicio del tren Os 16240, empleado de ČD, a. s., RCVD Liberec.
 
-
 ## Página 15
+
 
 2.2.2 Trenes y su composición, incluidos los números de registro de los distintos vehículos ferroviarios
 El tren Os 16218 estaba compuesto por el HDV 843.008-4 en cabeza del tren y el coche de mando 50 54 80 29008-7 en propiedad de ČD, a. s., DKV Česká Třebová. El tren tenía 8 ejes, el peso total del tren era de 100 toneladas, frenado necesario % 100, frenado real % 102. El tren Os 162400 estaba compuesto por el HDV 843.004-3 en propiedad de ČD, a. s., DKV Česká Třebová. El tren tenía 4 ejes, el peso total del tren era de 62 toneladas, frenado necesario % 100, frenado real % 104.
 Figura 1: Plano esquemático de la ocurrencia del suceso.
 
-
 ## Página 16
 
-### 2.2.3 Descripción de los componentes de la vía de circulación de la vía, del sistema de señalización (es decir, especialmente el estado de los raíles, agujas, enclavamientos, señales y del dispositivo de seguridad del tren)
-El suceso se produjo en una vía ferroviaria de vía única con gestión simplificada del transporte ferroviario según la normativa interna del explotador de la vía SŽDC (ČD) D3. La vía n.º 548C es de vía única en el tramo Tanvald – frontera estatal de Harrachov. Esta vía, entre las estaciones de tráfico Tanvald y Kořenov, debido a las condiciones de pendiente, permite la explotación por adherencia o por cremallera. En el tramo Kořenov – frontera estatal de Harrachov se trata de una vía ferroviaria con explotación por adherencia. Las condiciones de vía durante la circulación de los vehículos ferroviarios desde la estación de tráfico Kořenov en dirección a la estación de tráfico Desná son las siguientes. Desde la estación de tráfico Kořenov hasta el pk 34,021 la condición de pendiente es 0,000 ‰, desde este pk hay una pendiente de 7,338 ‰ a lo largo de 220 m, a la que sigue un tramo de 131 m con una condición de pendiente de 0,000 ‰.
-Además, la vía ferroviaria transcurre con las siguientes pendientes indicadas:
+### 2.2.3 Descripción de los componentes de la vía de circulación del ferrocarril, del sistema de señalización (es decir, en particular el estado de las vías, desvíos, aparatos de maniobra, señales y del dispositivo de seguridad ferroviaria del tren)
+El accidente se produjo en una línea ferroviaria de vía única con gestión simplificada del tráfico ferroviario según la norma interna del operador ferroviario SŽDC (ČD) D3. La línea n.º 548C es de vía única en el tramo Tanvald – frontera estatal de Harrachov. Esta línea, entre las estaciones de Tanvald y Kořenov, debido a las condiciones de pendiente, permite la circulación de tracción por adherencia o de tracción por rueda dentada. En el tramo Kořenov – frontera estatal de Harrachov se trata de una línea ferroviaria con circulación por adherencia. Las condiciones de la línea durante la circulación de los vehículos ferroviarios desde la estación de Kořenov en dirección a la estación de Desná son las siguientes. Desde la estación de Kořenov hasta el pk 34,021 la pendiente es de 0,000 ‰, desde este pk durante una longitud de 220 m hay una pendiente ascendente de 7,338 ‰, a la que sigue un tramo de 131 m de longitud con una pendiente de 0,000 ‰.
+A continuación, la línea ferroviaria discurre con las siguientes pendientes indicadas:
 ● 48,000 ‰ desde el pk 33,670;
 ● 53,000 ‰ desde el pk 33,481;
 ● 37,442 ‰ desde el pk 32,670;
@@ -395,45 +394,57 @@ Además, la vía ferroviaria transcurre con las siguientes pendientes indicadas:
 ●   3,364 ‰ desde el pk 30,014;
 ● 18,728 ‰ desde el pk 29,413;
 ●   6,569 ‰ desde el pk 29,016.
-La vía transcurre por tres túneles, a saber:
+La línea discurre por tres túneles, a saber:
 ● Polubenský desde el pk 33,630 hasta el pk 32,690;
 ● Dolnopolubenský desde el pk 30,541 hasta el pk 30,375;
 ● Desenský desde el pk 29,690 hasta el pk 29,438.
-Desde el pk 33,732 hasta el pk 29,899 hay una cremallera instalada en la vía.
+Desde el pk 33,732 hasta el pk 29,899 se encuentra instalada una rueda dentada en la vía.
 ### 2.2.4 Uso de medios de comunicación
-Para la notificación de la ocurrencia del suceso, los maquinistas utilizaron el teléfono móvil de servicio.
-### 2.2.5 Trabajos realizados en el lugar del suceso extraordinario y en sus proximidades
-En el lugar del suceso en la vía n.º 548C no se realizaron, inmediatamente antes de su ocurrencia, trabajos de reparación en la superestructura, subestructura y dispositivo de seguridad de vía que tuvieran relación causal con la ocurrencia del suceso en cuestión. El 15. 02. 2012 se realizaron trabajos de mantenimiento entre los trenes Os 16208 y Os 16217 consistentes en la limpieza de la vía ferroviaria de la nieve con pala.
-### 2.2.6 Activación del plan para el caso de un suceso extraordinario en la vía y secuencia de los hechos
-La ocurrencia del suceso fue notificada por los maquinistas de los trenes Os 16218 y Os 16240 a los despachadores directores
-
+Para comunicar la ocurrencia del accidente, los maquinistas utilizaron el teléfono móvil profesional.
+### 2.2.5 Trabajos realizados en el lugar del accidente y en sus proximidades
+En el lugar del accidente en la línea n.º 548C no se estaban realizando, inmediatamente antes de su ocurrencia, ningún tipo de trabajos de reparación en la superestructura, subestructura y en el dispositivo de señalización de la línea que tuviera relación causal con la ocurrencia del mencionado accidente. El 15. 02. 2012 se estaban realizando trabajos de mantenimiento entre los trenes Os 16208 y Os 16217 consistentes en la limpieza de la línea ferroviaria de la nieve con pala.
+### 2.2.6 Activación del plan para casos de accidente en la vía y secuencia de acontecimientos
+La ocurrencia del accidente fue comunicada por los maquinistas de los trenes Os 16218 y Os 16240 a los despachadores directores
 
 ## Página 17
 
-en la est. Tanvald por teléfono móvil de conformidad con lo dispuesto en el apartado 7, apartado 2 del decreto n.º 376/2006 Sb.
-El suceso fue notificado al COP del DI el 05. 01. 2012 a las 10:05 h y el 16. 02. 2012 a las 17:53 h de conformidad con lo dispuesto en el artículo 8 del decreto n.º 376/2006 Sb.
-La autorización para iniciar los trabajos de despeje fue emitida por el DI el 05. 01. 2012 a las 10:07 h y el 16. 02. 2012 a las 23:00 h. El transporte ferroviario entre la est. Tanvald y la estación de tráfico Kořenov fue interrumpido desde las 09:23 h hasta las 15:30 h del 05. 01. 2012 y desde las 17:30 h hasta las 23:00 h del 16. 02. 2012, momento en que se restableció la explotación. Durante la interrupción del transporte ferroviario se estableció un servicio alternativo de autobús (NAD).
-### 2.2.7 Activación del plan del sistema integrado de emergencia, de la policía y del servicio de emergencias médicas y secuencia de los hechos
-En el lugar del suceso actuaron los servicios de la PČR, OOP Tanvald únicamente el 16. 02. 2012.
+en la estación de Tanvald con un teléfono móvil, de conformidad con lo dispuesto en el apartado 2 del artículo 7 del decreto 
+n.º 376/2006 Sb.
+A la COP DI se notificó a la MU el 05. 01. 2012 a las 10:05 h y el 16. 02. 2012 
+a las 17:53 h, de conformidad con lo dispuesto en el artículo 8 del decreto n.º 376/2006 Sb.
+La autorización para iniciar los trabajos de despeje fue concedida a la DI el 05. 01. 2012 a las 10:07 h 
+y el 16. 02. 2012 a las 23:00 h. El tráfico ferroviario entre la estación de Tanvald y la estación de enlace de Kořenov 
+se interrumpió desde las 09:23 h hasta las 15:30 h del 05. 01. 2012 y desde las 17:30 h hasta las 23:00 
+h del 16. 02. 2012, fecha en que se restableció la circulación. Durante la interrupción del tráfico ferroviario se 
+estableció un servicio de autobuses alternativo (NAD).
+### 2.2.7 Activación del plan del sistema integrado de emergencia, de la policía y del servicio 
+médico de emergencia y secuencia de acontecimientos
+En el lugar, la MU fue atendida por los cuerpos de la Policía Nacional (PČR), OOP Tanvald únicamente el 16. 02. 2012.
 ## 2.3
-### Fallecidos, heridos y daños materiales
-2.3.1 En pasajeros y terceras personas, empleados del explotador de la vía y del transportista, incluidas personas en relación contractual
-En el suceso no hubo ninguna persona herida ni fallecida.
-### 2.3.2 En los objetos transportados, equipajes y demás bienes
-En los objetos transportados, equipajes y demás bienes no se produjeron daños.
-### 2.3.3 En el material rodante, componentes de la vía de circulación y en el medio ambiente
-No se produjeron daños ni al explotador de la vía ni al transportista. No se produjeron daños en el medio ambiente.
+### Fallecimientos, lesiones y daños materiales
+2.3.1 En los pasajeros y terceras personas, empleados del gestor de la infraestructura y del transportista, 
+incluidas personas en relación contractual
+En la MU no hubo ninguna persona herida ni fallecida.
+### 2.3.2 En los objetos transportados, el equipaje y otros bienes
+En los objetos transportados, el equipaje y otros bienes no se produjo ningún daño.
+### 2.3.3 En los vehículos ferroviarios, los componentes de la vía y en el medio ambiente
+No se produjo ningún daño ni al gestor de la infraestructura ni al transportista. No se produjo 
+ningún daño al medio ambiente.
 ## 2.4
 ### Circunstancias externas
 ### 2.4.1 Condiciones meteorológicas y datos geográficos
-En el momento de la ocurrencia del suceso el día:
-● 05. 01. 2012 estaba nublado, nevaba, temperatura 0 °C, visibilidad reducida, en la vía se encontraba una capa de nieve de unos 20 cm de altura;
-GPS del lugar de la ocurrencia del suceso 50°45'52.671"N, 15°20'12.048"E;
-● 16. 02. 2012 estaba nublado, nevaba ligeramente, calma, temperatura - 5 °C, visibilidad reducida, capa de nieve de unos 10 cm sobre las cabezas de los raíles;
-GPS del lugar de la ocurrencia del suceso  50°45'44.324"N, 15°20'48.812"E.
-
+En el momento de producirse la MU, el día:
+05. 01. 2012 estaba nublado, nevaba, temperatura 0 °C, visibilidad reducida, en la vía se 
+●
+encontraba una capa de nieve de unos 20 cm de altura;
+GPS del lugar de producción de la MU 50°45'52.671"N, 15°20'12.048"E;
+16. 02. 2012 estaba nublado, nevaba ligeramente, calma, temperatura - 5 °C, visibilidad 
+●
+reducida, capa de nieve de unos 10 cm por encima de la cabeza de los raíles;
+GPS del lugar de producción de la MU  50°45'44.324"N, 15°20'48.812"E.
 
 ## Página 18
+
 
 ## 3 REGISTRO DE LAS EXPLICACIONES PRESENTADAS
 ## 3.1
@@ -458,143 +469,140 @@ Del maquinista del tren Os 16218, del «Acta con el empleado», de fecha 09. 01.
 
 ## Página 19
 
-se produjo la desconexión de la VZ;
+se produjo la caída del VZ;
 ●
-el tren seguía acelerando, por lo que instruyó al jefe de tren para que apretara el freno de mano en el puesto delantero;
+el tren seguía acelerando, por lo que instruyó al jefe de tren para que apretara el freno de mano en el puesto delantero.
 ●
-él mismo se dirigió al puesto trasero del maquinista, donde también apretó el freno de mano, y volvió al puesto delantero en el sentido de marcha del tren;
-tras que el tren entrase en la vía con una pendiente más suave, la composición comenzó a frenar hasta detenerse;
+Él mismo se dirigió al puesto trasero del conductor, donde también apretó el freno de mano, y volvió al puesto delantero en el sentido de marcha del tren;
+una vez que el tren entró en la vía con una pendiente más suave, la composición comenzó a frenar hasta
 ●
-notificó por teléfono la MU;
+detenerse;
+notificó por teléfono a MU;
 ●
-respecto a la operación no estándar del freno automático continuo, característica de la aplicación del frenado de acción rápida con el fin de reducir la velocidad del tren debido a la parada en la estación de Kořenov y en la parada de Kořenov zastávka, que se desprende del análisis del registro del registrador de velocidades, no fue capaz de responder;
+sobre la cuestión del funcionamiento no estándar del freno automático continuo, característico de la
 ●
-durante la formación adquirió conocimiento de la influencia en el funcionamiento de la EDB cuando la presión del aire en la tubería principal cae por debajo del valor de 3,5 bares, sobre la función de la válvula de presión SP9 (válvula de sobrefrenado) no sabe nada;
-●
-sobre la tecnología y la conducción específica de trenes con HDV de la serie 843 en el ferrocarril en cuestión en condiciones climáticas adversas durante el período invernal, fue informado en el marco de la evaluación del reglamento SŽDC (ČD) D40, aproximadamente en julio de 2009;
-●
-hasta el momento de producirse la MU en cuestión, no tenía conocimiento, ni había oído hablar, de cómo resolver la situación crítica en la que el efecto de frenado del freno neumático no se produce y sea necesario restablecer al menos el funcionamiento de la EDB. Sin embargo, sabía que para restablecer el funcionamiento de la EDB es necesario volver a llenar de aire la tubería principal del freno neumático automático;
-●
-cómo operó la palanca principal de conducción antes y durante la aplicación del frenado rápido, es decir, de y a qué posición, no lo recuerda;
-●
+aplicación del frenado rápido con el fin de reducir la velocidad del tren debido a la detención en la estación de Kořenov y en la parada de Kořenov zastávka, que se desprende del análisis del registro del velocímetro, no fue capaz de responder;
+durante la formación adquirió conocimiento de la influencia en el funcionamiento de la EDB cuando la presión del aire en la tubería continua cae por debajo del valor de 3,5 bares, del funcionamiento de la válvula de presión SP9 (válvula de sobrefrenado) no sabe nada;
+con la tecnología y la conducción específica de trenes con HDV de la serie 843 en el ferrocarril en cuestión en condiciones climáticas adversas en el período invernal, fue informado en el marco del examen del reglamento SŽDC (ČD) D40, aproximadamente en julio de 2009;
+hasta la fecha de la MU en cuestión no tenía conocimiento, ni había oído nada, sobre cómo resolver la situación crítica en la que el efecto de frenado del freno neumático no se produce y sea necesario restablecer al menos el funcionamiento de la EDB. Sin embargo, sabía que para restablecer el funcionamiento de la EDB es necesario volver a llenar de aire la tubería continua del freno neumático automático;
+cómo manejó la palanca de mando principal antes y durante la aplicación del frenado rápido, es decir, desde y hacia qué posición, no lo recuerda;
 tenía conectados ambos grupos de tracción y no manipuló el freno auxiliar.
-
-Del «Registro con el empleado» del jefe de tren del tren Os 16218, de fecha 09. 01. 2012, entre otros datos, se desprende:
-
 ●
-tras la salida de la estación de Kořenov zastávka, subió al puesto del maquinista;
+Del "Registro con el empleado" del jefe de tren del tren Os 16218, de fecha 09. 01. 2012, entre otros datos se desprende:
+tras la salida de la estación de Kořenov zastávka, subió al puesto del conductor;
 ●
 tras recorrer unos 150 a 200 m, vio una rama en el perfil de paso;
 ●
-el maquinista quería frenar, pero el efecto de frenado no se produjo, ni siquiera tras la aplicación del frenado de acción rápida;
+el conductor quería frenar, pero el efecto de frenado no se produjo, ni siquiera tras la aplicación del frenado rápido;
 ●
-el maquinista le dio la instrucción de que apretara el freno de mano en el puesto delantero, y él mismo corrió al puesto trasero de la HDV para apretar allí el freno de mano;
+el conductor le dio la instrucción de que apretara el freno de mano en el puesto delantero, y él mismo corrió al puesto trasero del HDV para apretar allí el freno de mano;
 ●
-tras apretar el freno de mano, se dirigió a la sección para pasajeros y les comunicó que se agarraran;
+tras apretar el freno de mano, se dirigió al compartimento para pasajeros y les comunicó que se agarraran;
 ●
-se sentó en un asiento de espaldas al sentido de marcha y se aferró;
+se sentó en el asiento de espaldas en el sentido de marcha y se aferró;
 ●
-el maquinista, que regresaba al puesto delantero, le pidió que llamara por teléfono móvil al despachador director;
+el conductor, que regresaba al puesto delantero, le pidió que llamara por teléfono móvil al despachador director;
 ●
-antes de que llamara, el tren se detuvo, por lo que le pasó el teléfono al maquinista;
+antes de que llamara, el tren se detuvo, por lo que le pasó el teléfono al conductor;
 ●
-comprobó a los pasajeros y les ayudó a bajar del tren para tomar el camino que conduce a la parada Desná-Riedlova vila.
-
+comprobó a los pasajeros y les ayudó a bajar del tren hacia el camino que lleva a la parada Desná-Riedlova vila.
+●
 
 ## Página 20
 
-Del «Registro con el empleado» del jefe de estación de Tanvald, de fecha 13. 11. 2012, entre otros datos, se desprende:
-
-●
-en la línea Tanvald – Harrachov el 05. 01. 2012, los trenes circulaban incluso con nieve pesada y húmeda cayendo sin problemas y no se producía la prolongación de los tiempos de circulación;
-●
-el maquinista del tren Os 16218 cumplió la obligación de notificación prescrita en la estación D3 Kořenov de acuerdo con el reglamento SŽDC (ČD) D3;
-●
-en menos de diez minutos notificó la aparición de la MU;
-●
-la jefa de estación notificó la MU de acuerdo con el horario de notificación.
-
-Del «Registro con el empleado» del maquinista del tren Os 16240, de fecha 22. 02. 2012, y de la declaración de explicación sobre la MU de fecha 05. 02. 2013, entre otros datos, se desprende:
-
-●
-durante el turno y antes de la aparición de la MU el 16. 02. 2012, no estaba en estrés psíquico ni físico;
-●
-incorporó de forma no planificada al turno en el ferrocarril donde se produjo la MU;
-●
-condujo el tren Os 16229 desde la estación de Tanvald hasta la estación de Harrachov y la circulación se realizó de acuerdo con el SJŘ;
-●
-durante la circulación de los trenes Os 16229 y Os 16240 estaba nublado, no nevaba, la temperatura era de unos 0 °C, la capa de nieve llegaba hasta la parte inferior del vehículo;
-●
-tras recibir el permiso para la circulación, partió hacia la estación de Kořenov. Si antes de salir de la estación de Harrachov realizó la comprobación del mando del freno neumático automático, no lo recuerda;
-●
-la circulación se desarrolló sin incidencias;
-●
-tras recibir el permiso para la siguiente circulación, partió de la estación de Kořenov, pero no se detuvo ante la señal «Comienzo de la cremallera» situada después de dicha estación;
-●
-no recuerda si durante la circulación del tren desde la estación de Kořenov observó en el manómetro la presión en los cilindros de freno indicada en el puesto del maquinista;
-●
-durante la circulación por el túnel de Polubenský mantuvo la velocidad del tren en 20 km.hod-1;
-●
-antes de la parada de Kořenov zastávka comenzó a frenar, pero el efecto de frenado no se produjo;
-●
-aumentó el efecto del freno continuo con la ayuda del freno adicional y a la vez ordenó al jefe de tren que apretara los frenos de mano en ambos puestos;
-●
-el efecto de frenado no se produjo y por ello utilizó el frenado de acción rápida y tiró de la válvula del freno de emergencia, no recuerda si observó en el manómetro de aire la presión en los cilindros de freno;
-●
-no recuerda cuándo se produjo la desconexión de la VZ;
-●
-el tren seguía acelerando;
-●
-tras que el tren entrase en la vía con una pendiente más suave, la HDV comenzó a frenar hasta detenerse;
-●
-notificó por teléfono la aparición de la MU;
-●
-la circulación se realizó con la ARR desconectada y la EDB conectada;
-●
-
+Del «Registro con el empleado» de la jefa de estación de la estación de Tanvald, de fecha 13. 11. 2012, entre otros, se desprende:
+el 05. 01. 2012, en la línea Tanvald – Harrachov, los trenes circulaban sin problemas a pesar de la caída de nieve pesada y ●
+húmeda, y no se producía ninguna prolongación de los tiempos de recorrido;
+el maquinista del tren Os 16218 cumplió la obligación de aviso ordenada en la estación de tráfico D3 Kořenov de acuerdo con la ●
+normativa de SŽDC (ČD) D3;
+comunicó la aparición de la MU en menos de diez minutos; ●
+la jefa de estación comunicó la MU conforme al cuadro de avisos. ●
+Del «Registro con el empleado» del maquinista del tren Os 16240, de fecha 22. 02. 2012, y de la declaración de explicaciones sobre la MU de fecha 05. 02. 2013, entre otros, se desprende:
+durante el turno y antes de la aparición de la MU el 16. 02. 2012 no se encontraba en estado de estrés psíquico ni ●
+físico;
+incorporó de forma no planificada al turno en la línea ferroviaria en la que se produjo la MU; ●
+condujo el tren Os 16229 desde la estación de Tanvald a la estación de tráfico Harrachov y el viaje se realizó conforme al ●
+SJŘ;
+durante la circulación de los trenes Os 16229 y Os 16240 había cielo cubierto, no nevaba, la temperatura era de unos 0 °C y la ●
+capa de nieve alcanzaba la parte inferior del vehículo;
+tras obtener el permiso para la circulación, partió hacia la estación de tráfico Kořenov. No recuerda si, antes de salir de la ●
+estación de tráfico Harrachov, realizó la verificación del mando del freno neumático automático;
+la circulación se desarrolló sin incidencias; ●
+tras obtener el permiso para la circulación siguiente, partió de la estación de tráfico Kořenov, pero no se detuvo ante la ●
+señal «Comienzo de la cremallera» situada tras dicha estación de tráfico;
+no recuerda si durante la circulación del tren desde la estación de tráfico Kořenov observó en el manómetro la presión en los ●
+cilindros de freno indicada en la cabina del maquinista;
+durante la circulación por el túnel de Polubný mantuvo la velocidad del tren en 20 km.hod-1; ●
+antes de la parada Kořenov zastávka comenzó a frenar, pero no se obtuvo el efecto de frenado; ●
+aumentó el efecto del freno continuo mediante el freno auxiliar y, al mismo tiempo, ordenó al jefe de tren que ●
+apretara los frenos de mano en ambas cabinas;
+no se obtuvo el efecto de frenado y, por ello, utilizó el frenado de acción rápida y tiró de la válvula del freno de emergencia; ●
+no recuerda si observó en el manómetro de aire la presión en los cilindros de freno;
+no recuerda cuándo se produjo la caída del VZ; ●
+el tren seguía acelerando; ●
+una vez que el tren entró en la vía con una pendiente más suave, HDV comenzó a frenar hasta detenerse; ●
+comunicó telefónicamente la aparición de la MU; ●
+la circulación se desarrolló con el ARR desconectado y el EDB conectado. ●
 
 ## Página 21
 
-respecto a la operación no estándar del freno automático continuo, característica de la aplicación del frenado de acción rápida con el fin de reducir la velocidad del tren debido a la parada en la estación de Kořenov, que se desprende del análisis del registro del registrador de velocidades, indicó que no lo recuerda, pero probablemente la palanca principal de conducción saltó a la posición PR;
+sobre la pregunta de la no estándar operación del freno automático continuo, característica de la
 ●
-fue formado sobre la influencia en el funcionamiento de la EDB cuando la presión del aire en la tubería principal cae por debajo del valor de presión de 3,5 bares y sobre la función de la válvula de presión del freno automático SP9;
+introducción de la frenada de acción rápida con el fin de reducir la velocidad del tren debido a la
+parada en la estación de Kořenov, que se desprende del análisis del registro del velocímetro,
+declaró que no lo recuerda, pero probablemente saltó la palanca de mando principal a la posición PR;
+fue formado sobre la influencia en el funcionamiento de la EDB ante la caída de la presión del aire en la
 ●
-sobre la tecnología y la conducción específica de trenes con HDV de la serie 843 en el ferrocarril en cuestión en condiciones climáticas adversas durante el período invernal, fue informado en el marco de la formación en circulación, pero no recuerda si tuvo la posibilidad, en el marco de dicha formación, de probar la conducción del tren en las condiciones indicadas;
+tubería continua por debajo del valor de presión de 3,5 bares y sobre la función de la válvula de presión
+del freno automático SP9;
+sobre la tecnología y la conducción específica de trenes con HDV de la serie 843 en el tramo ferroviario
 ●
-hasta el momento de producirse la MU en cuestión, no tenía conocimiento, ni había oído hablar, de cómo resolver la situación crítica en la que el efecto de frenado del freno neumático no se produce y sea necesario restablecer al menos el funcionamiento de la EDB, ni lo sabe tampoco en la actualidad (declaración de explicación complementaria de fecha 05. 02. 2013);
+en cuestión en condiciones climáticas adversas durante el período invernal, fue informado en el marco
+de la formación en conducción, pero no recuerda si tuvo la posibilidad, en el marco de dicha formación,
+de probar la conducción del tren en las condiciones indicadas;
+hasta la fecha de ocurrencia de la MU en cuestión, no tenía conocimiento, ni había oído hablar de ello,
 ●
-cómo operó la palanca principal de conducción antes y durante la aplicación del frenado rápido, es decir, de y a qué posición, no lo recuerda;
+sobre cómo resolver la situación crítica en la que el efecto de frenado del freno neumático no se
+produce y será necesario restablecer al menos el funcionamiento de la EDB, ni lo sabe en la actualidad
+(presentación complementaria de explicaciones del 05. 02. 2013);
+cómo operó la palanca de mando principal antes y durante la activación de la frenada rápida, es decir,
 ●
-si tenía conectados ambos grupos de tracción y el freno auxiliar conectado, no lo recuerda.
-
-Del «Registro con el empleado» del jefe de tren del tren Os 16240, de fecha 22. 02. 2012, entre otros datos, se desprende:
-
+desde y hacia qué posición, no lo recuerda;
+si tenía conectados ambos grupos de tracción y activado el freno auxiliar, no lo
 ●
-tras la salida de la estación de Kořenov, se encontraba en el puesto del maquinista;
+recuerda.
+Del "Registro con el empleado" del 22. 02. 2012 del jefe de tren del tren Os 16240, entre otras cosas,
+se desprende que:
+tras la salida de la estación de Kořenov se encontraba en la cabina de conducción;
 ●
-al llegar a la parada de Kořenov zastávka, el maquinista quiso frenar un poco y detenerse, pero el efecto de los frenos no se produjo;
+al llegar a la parada de Kořenov zastávka, el maquinista quería frenar y parar, pero el
 ●
-se produjo el paso de largo de la parada;
+efecto de los frenos no se produjo;
+se produjo el paso de la parada;
 ●
-el maquinista le dio la instrucción de que apretara los frenos de mano en ambos puestos de la HDV;
+el maquinista le dio la instrucción de apretar los frenos de mano en ambas cabinas del HDV;
 ●
-tras apretar los frenos de mano, se dirigió a la sección para pasajeros y les comunicó que se agarraran;
+tras apretar los frenos de mano, se dirigió al compartimento para pasajeros y les comunicó que se
 ●
-se sentó en un asiento;
+agarraran;
+se sentó en el asiento;
 ●
-tras la detención del tren, comprobó a los pasajeros.
-
-Del «Registro con el empleado» del jefe de estación de Tanvald, de fecha 14. 11. 2012, entre otros datos, se desprende:
-
+tras la parada del tren, comprobó a los pasajeros.
 ●
-antes de la MU indicada, en el km 34.067 entre la estación de Dolní Polubný y la parada de Kořenov zastávka, se produjo la colisión del tren Os 16228 con un camión en el paso a nivel P 5551;
+Del "Registro con el empleado" del 14. 11. 2012 del jefe de estación de Tanvald, entre otras cosas,
+se desprende que:
+antes de la MU indicada, en el km 34.067 entre la estación de Dolní Polubný y la parada de
 ●
-tras su investigación, circularon por el tramo de línea en cuestión los trenes Os 16228, Os 16227, Os 16234 y Os 16229;
+Kořenov zastávka, se produjo la colisión del tren Os 16228 con un camión en el paso a nivel P 5551;
+tras su investigación, circularon por el tramo de tramo en cuestión los trenes Os 16228, Os 16227,
 ●
-ninguno de los maquinistas de los trenes notificó problemas causados por la influencia de las condiciones de nieve;
-
+Os 16234 y Os 16229;
+ninguno de los maquinistas de los trenes comunicó problemas causados por la influencia de las
+●
+condiciones de nieve;
 
 ## Página 22
+
 
 ●
 el maquinista del tren Os 16240 cumplió la obligación de notificación prescrita de acuerdo con el reglamento SŽDC (ČD) D3;
@@ -620,6 +628,7 @@ La disposición del § 35 apartado 2 letra f) de la Ley núm. 266/1994 Sb. impon
 
 ## Página 23
 
+
 Se desprendió de ambos maquinistas el hecho de que su conocimiento del manejo de todos los sistemas del freno automático neumático del HDV serie 843 no estaba en el nivel necesario.
 En los sistemas adoptados de garantía de la seguridad relacionados con las circunstancias de la aparición de las mencionadas MU se detectaron deficiencias. Sobre la base de los hechos constatados, el DI constata que, si bien el transportista emitió normas internas, cuya parte son los procedimientos tecnológicos mediante los cuales se garantizan las actividades establecidas por las reglas para la explotación del transporte ferroviario, y en el caso concreto en particular para la conducción de los vehículos ferroviarios, no garantizó su cumplimiento ni la reciclación continua asociada a la verificación de sus conocimientos. El transportista consideró suficiente la superación del examen legal de construcción y conducción del HDV, con la posterior obtención de la habilitación para conducir los HDV enumerados, y no volvió a verificar los conocimientos de los maquinistas. El transportista también subestimó la necesidad de que los maquinistas adquirieran conocimientos para la resolución de situaciones de crisis, en particular en el ferrocarril objeto de investigación.
 Se detectaron deficiencias.
@@ -632,10 +641,10 @@ El requisito de la competencia profesional de las personas implicadas en la expl
 Las condiciones de edad, educación y competencia profesional de las personas que pueden conducir un vehículo ferroviario, referentes a la MU del 05. 01. 2012, las establece la disposición del decreto núm. 101/1995 Sb. A la MU del 16. 02. 2012 le son aplicables las disposiciones del decreto núm. 16/2012 Sb.
 La competencia profesional con base en las disposiciones legales anteriores la estableció el transportista ČD, a. s., para las personas implicadas en la explotación del transporte ferroviario en las líneas explotadas conforme a la norma SŽDC (ČD) D3 y SŽDC (ČD) D40 en la categoría laboral (profesión) de maquinista y trabajador de servicio de tren de pasajeros, con la especificación de jefe de tren de los trenes de pasajeros, en la norma interna ČD Ok 2:
 - para los maquinistas en el anexo núm. 4, parte primera, capítulo I, punto 2;
-- la participación prescrita en la formación obligatoria en el anexo núm. 4, capítulos I y II, en el alcance mínimo establecido de 20 horas al año, desglosado en 10 horas de tráfico y 10 horas de técnica. La última formación antes de la aparición de la MU, cuyo contenido fue la conducción de trenes bajo condiciones climáticas y de adherencia desfavorables con influencia en la tecnología de circulación desde el punto de vista del frenado (art. 700 de la norma ČD V15/1), se celebró en la PJ Liberec los días 05. a 
-
+- la participación prescrita en la formación obligatoria en el anexo núm. 4, capítulos I y II, en el alcance mínimo establecido de 20 horas al año, desglosado en 10 horas de tráfico y 10 horas de técnica. La última formación antes de la aparición de la MU, cuyo contenido fue la conducción de trenes bajo condiciones climáticas y de adherencia desfavorables con influencia en la tecnología de circulación desde el punto de vista del frenado (art. 700 de la norma ČD V15/1), se celebró en la PJ Liberec los días 05. a
 
 ## Página 24
+
 
 06. 09. 2011 y 08. a 10. 11. 2011. Los maquinistas objeto de investigación asistieron a ambas formaciones;
 - para los jefes de tren en el anexo núm. 3, parte primera, capítulo I, punto 5;
@@ -654,26 +663,25 @@ En la supervisión estatal se constató:
 ●en la SD se presentaron además los resultados y los registros de los controles de los registros de velocímetro, centrados en el cumplimiento de los procedimientos tecnológicos de circulación del HDV en la línea indicada. Se realizaron un total de 70 controles a 48 maquinistas, de los cuales en 16 de forma repetida. Mediante la actividad de control se detectaron en 25 casos deficiencias en la tecnología de conducción del HDV por parte de los maquinistas, consistentes en el incumplimiento de la velocidad establecida del tren, la no realización de la prueba prescrita del efecto del dispositivo de freno del tren al salir de la estación de origen y el incumplimiento de la parada de seguridad del tren antes de la pendiente en el lugar designado;
 ●las deficiencias detectadas se subsanaron mediante una medida interna de la empresa frente a los maquinistas, concretamente mediante la reducción de las retribuciones por rendimiento;
 
-
 ## Página 25
 
-●en el ejercicio de la SD se presentó la «Medida sancionadora Ř O-O12 GŘ sobre las MU objeto de investigación en la línea Tanvald – Harrachov», que constata la responsabilidad personal de los maquinistas implicados por la aparición de las mencionadas MU y la deficiencia del sistema de control de seguridad de la explotación del transporte ferroviario en el tramo de línea indicado, con la adopción de las medidas posteriores para los maquinistas que circulan por la línea núm. 548C y para los órganos de control del transportista.
+con motivo de la realización de la SD se presentó la «Medida sancionadora Ř O-O12 GŘ sobre las MU objeto de estudio en la línea Tanvald – Harrachov», que constata la responsabilidad personal de los maquinistas participantes en la causación de las MU objeto de estudio y la deficiencia del sistema de control de la seguridad de la explotación del transporte ferroviario en el tramo de línea indicado, con la adopción de las medidas consiguientes para los maquinistas que circulan por la línea n.º 548C y para los órganos de control del transportista.
 No se detectaron deficiencias en la realización del control interno por parte del transportista.
-### 3.2.4 Interfaz entre los distintos sujetos implicados y los componentes de la vía
-El explotador de la infraestructura ferroviaria, categoría regional, de la línea núm. 548C, Tanvald – Harrachov – frontera estatal CZ/PL, es la Administración de la Infraestructura de Transporte Ferroviario, organización estatal, con domicilio en Dlážděná 1003/7, Praha 1 – Nové Město, CP 110 00, con base en la Autorización Oficial emitida por la Oficina de Ferrocarriles el 29. 5. 2008, bajo el n.º de expediente: 3-4277/07-DÚ/Le-DÚ/O-SI, n.º de registro: ÚP/2008/9002.
-El transportista fue České dráhy, a. s., con domicilio en Nábřeží L. Svobody 1222, Praha 1, CP 110 15, con base en la licencia de explotador del transporte ferroviario n.º de expediente: 1815/96-DÚ/O-Sl, n.º de registro: L/1996/9004, concedida por la Oficina de Ferrocarriles el 17. 05. 1996, en la redacción de la resolución de modificación de la licencia n.º de registro: L/2004/9004-9, n.º de expediente: 3-975/04-DÚ/Bg, de fecha 07. 04. 2004, y de la resolución de modificación de la licencia L/2008/9004-15, n.º de expediente: 3-3470/08-DÚ/Le de fecha 08. 09. 2008.
-El transporte ferroviario fue explotado con base en el «Contrato núm. 001/09 para la explotación del transporte ferroviario en la vía de transporte ferroviaria de la línea nacional y de las líneas regionales en propiedad de la República Checa», en su redacción vigente, celebrado el 30. 06. 2009 entre las partes contratantes Administración de la Infraestructura de Transporte Ferroviario, organización estatal, con domicilio en Dlážděná 1003/7, Praha 1 – Nové Město, CP 110 00, y České dráhy, a. s., con domicilio en Nábřeží L. Svobody 1222, Praha 1, CP 110 15, en la redacción del aditamento núm. 1 de fecha 13. 04. 2010, núm. 2 de fecha 10. 12. 2010, núm. 3 de fecha 22. 07. 2011 y del anexo núm. 4 de dicho contrato.
+### 3.2.4 Interfaz entre los distintos sujetos participantes y los componentes de la vía de circulación
+El explotador de la vía ferroviaria, categoría regional, de la línea n.º 548C, Tanvald – Harrachov – frontera estatal CZ/PL, es la Správa železniční dopravní cesty, organización estatal, con domicilio en Dlážděná 1003/7, Praha 1 – Nové Město, CP 110 00, en virtud de la Autorización Oficial expedida por la Oficina de Ferrocarriles (Drážní úřad) el 29. 5. 2008, con n.º de expediente: 3-4277/07-DÚ/Le-DÚ/O-SI, n.º de registro: ÚP/2008/9002.
+El transportista eran los České dráhy, a. s., con domicilio en Nábřeží L. Svobody 1222, Praha 1, CP 110 15, en virtud de la licencia de explotador del transporte ferroviario n.º de expediente: 1815/96-DÚ/O-Sl, n.º de registro: L/1996/9004, concedida por la Oficina de Ferrocarriles el 17. 05. 1996, en la redacción de la decisión de modificación de la licencia n.º de registro: L/2004/9004-9, n.º de expediente: 3-975/04-DÚ/Bg, de fecha 07. 04. 2004, y de la decisión de modificación de la licencia L/2008/9004-15, n.º de expediente: 3-3470/08-DÚ/Le de fecha 08. 09. 2008.
+El transporte ferroviario se explotó en virtud del «Contrato n.º 001/09 para la explotación del transporte ferroviario en la vía de circulación ferroviaria de la línea estatal y de las líneas regionales en propiedad de la República Checa», en su redacción vigente, celebrado el 30. 06. 2009 entre las partes contratantes Správa železniční dopravní cesty, organización estatal, con domicilio en Dlážděná 1003/7, Praha 1 – Nové Město, CP 110 00, y České dráhy, a. s., con domicilio en Nábřeží L. Svobody 1222, Praha 1, CP 110 15, en la redacción de la adenda n.º 1 de fecha 13. 04. 2010, n.º 2 de fecha 10. 12. 2010, n.º 3 de fecha 22. 07. 2011 y del anexo n.º 4 de dicho contrato.
 No se detectaron deficiencias.
 ## 3.3
-### Regulación legal y otra
-### 3.3.1 Disposiciones legales comunitarias y nacionales pertinentes
-En la investigación de las causas y circunstancias de la aparición de la MU se constató la infracción de las disposiciones de las siguientes disposiciones legales:
-●§ 35 apartado 1 letra a) de la Ley núm. 266/1994 Sb., donde se indica: «El transportista está obligado a explotar el transporte ferroviario conforme a las reglas de explotación del transporte ferroviario, la licencia vigente y el contrato celebrado con el explotador de la infraestructura para la explotación del transporte ferroviario en la infraestructura»;
-●§ 35 apartado 1 letra g) de la Ley núm. 266/1994 Sb., donde se indica: «El transportista está obligado a regirse, en la explotación del transporte ferroviario, por las instrucciones del explotador de la infraestructura impartidas al organizar el transporte ferroviario»;
-●§ 35 apartado 1 letra i) del decreto núm. 173/1995 Sb., donde se indica: «Para la conducción de un vehículo ferroviario debe garantizarse que la persona que conduce el vehículo ferroviario durante la circulación 
-
+### Regulación jurídica y de otro tipo
+### 3.3.1 Normativa jurídica comunitaria y nacional pertinente
+Con motivo de la investigación de las causas y circunstancias de la causación de las MU, se constató la infracción de las disposiciones de las siguientes normas jurídicas:
+● § 35 apartado 1 letra a) de la Ley n.º 266/1994 Sb., donde se establece: «El transportista está obligado a explotar el transporte ferroviario de acuerdo con las normas de explotación del transporte ferroviario, la licencia vigente y el contrato celebrado con el explotador de la vía para la explotación del transporte ferroviario en la vía»;
+● § 35 apartado 1 letra g) de la Ley n.º 266/1994 Sb., donde se establece: «El transportista está obligado a regirse, en la explotación del transporte ferroviario, por las instrucciones del explotador de la vía impartidas en la organización del transporte ferroviario»;
+● § 35 apartado 1 letra i) del Decreto n.º 173/1995 Sb., donde se establece: «Para la conducción de un vehículo ferroviario debe garantizarse que la persona que conduce el vehículo ferroviario durante la marcha
 
 ## Página 26
+
 
 no supere la velocidad máxima permitida, establecida en el horario o impuesta como velocidad limitada»;
 ●§ 35 apartado 1 letra m) del decreto núm. 173/1995 Sb., donde se indica: «Para la conducción de un vehículo ferroviario debe garantizarse que la persona que conduce el vehículo ferroviario detenga el tren de forma segura antes del lugar señalizado»;
@@ -694,6 +702,7 @@ Si el freno continuo presenta un efecto incorrecto, el maquinista está obligado
 
 ## Página 27
 
+
 - aplicar el freno continuo, pero solo lo suficiente para que el DB no se desconecte,
 - ajustar el efecto máximo posible del DB y mantenerlo de forma permanente,
 - no permitir la desconexión del DB como consecuencia de la superación de la corriente máx. de frenado o por la actuación de la protección térmica, la actuación del VZ, etc. (por ello debe atender permanentemente el botón de vigilancia del VZ o, en su caso, demostrar la vigilancia de otra forma) y no debe permitir el ajuste del frenado de acción rápida o la activación del freno de emergencia en su propia locomotora de tracción,
@@ -713,8 +722,8 @@ A petición del transportista, para las necesidades de la explotación del trans
 ●las posibilidades de asegurar de forma segura el convoy ante una avería del freno en la pendiente decisiva;
 ●las posibilidades de detener de forma fiable un convoy en marcha con el freno automático mediante frenado de acción rápida en la pendiente decisiva de la línea;
 
-
 ## Página 28
+
 
 ●las posibilidades de regular la velocidad de circulación del convoy al utilizar el freno dinámico en la pendiente decisiva.
 Para la realización de las pruebas se aportaron vehículos de las series 814, 914, 854, 053 (equipados con freno de zapata), el vehículo de la serie 843 (equipado con freno de disco con discos en las ruedas) y el vehículo de la serie 043 (equipado con freno de disco con discos en el eje). Las pruebas de frenado se realizaron en una pendiente de 57 ‰ en línea recta siempre desde el km 32,00. En la verificación de las propiedades de frenado, en ningún caso se produjo una prolongación peligrosa de la distancia de frenado que indicara una aproximación a una zona peligrosa de velocidades a las que ya no hubiera certeza de una detención segura, especialmente con condiciones de adherencia deterioradas. De los resultados de las pruebas realizadas no se desprendieron circunstancias que impidieran la explotación segura de los automotores y de los coches de remolque o de mando de las series de vehículos probadas en la línea Tanvald – Harrachov. Para la explotación de vehículos con frenos de disco de las series 843, 043 y 943 en el periodo invernal surgió la necesidad de adaptar la tecnología de circulación y de mando de los frenos.
@@ -726,8 +735,8 @@ No se detectaron averías.
 ### 3.4.2 Componentes de la vía
 De la documentación fotográfica solicitada, del examen de los lugares de la MU y de la inspección de la vía por parte de personas designadas por el explotador de la vía y por el transportista se desprende que el día 05. 01. 2012 había en la vía una capa de unos 20 cm de nieve húmeda (estuvo nevando durante todo el tiempo) y el día 16. 02. 2012, tras el tratamiento nocturno de la línea con una pala de nieve para vías y con nevada durante todo el día, había en los carriles una capa de nieve de unos 10 cm por encima de la cabeza del raíl.
 
-
 ## Página 29
+
 
 En ambos casos, por la conducción segura de los trenes en relación con la altura de la capa de nieve en la vía son responsables los maquinistas y no fue necesario adoptar medidas de romper la capa de nieve en el sentido del art. 145 de la norma ČD V2 – Norma para las tripulaciones de locomotora, aprobada por decisión del director general de la División Comercial y de Explotación de los Ferrocarriles Checos de fecha 8. 01. 1998, n.º de expediente: 60796/97- O11, según la cual "Si la altura de la capa de nieve (ventisca) supera el nivel del borde inferior de la cubierta protectora frontal del bastidor del vehículo de tracción, se trata, en caso de circular por ella, de la llamada rotura de la capa de nieve". La altura del borde inferior de la cubierta protectora frontal del bastidor del HDV de la serie 843 medida sobre una vía nivelada era de 175 mm.
 El estado de los componentes de la vía con respecto a la utilización de vehículos ferroviarios con freno de disco tenía, debido a la capa de nieve, un carácter contribuyente. Suponiendo el cumplimiento de la tecnología prescrita de conducción de los trenes, habría sido eliminado.
@@ -740,8 +749,8 @@ Los vehículos de tracción ferroviarios de la serie 843 están, en el circuito 
 A finales del año 2006, antes del periodo invernal inminente, los vehículos de la serie 843 explotados en la línea ferroviaria en cuestión se equiparon con la modificación del revestimiento de freno "nórdico" Becorit B36. Dicha modificación consiste en el fresado de una ranura transversal adicional en la superficie de fricción del revestimiento con el fin de un mejor barrido del agua y de la nieve en suspensión. Además, se añadió al software del regulador central de estos DV una función opcional, tras cuya activación es posible la circulación con fuerza incluso con el freno continuo ligeramente aplicado de todos los vehículos del tren. Para poner en funcionamiento dicha función, se instaló adicionalmente en los pupitres de los puestos de los maquinistas el botón "OJV". Tras su uso, se reduce de forma unificada durante 10 min la presión en la tubería principal del freno continuo del DV de modo que se alcance una presión de unos 0,5 bar después del distribuidor, es decir, en los cilindros de freno. Con la activación de este dispositivo se produce un apretado permanente de las pastillas de freno contra los discos y, con ello, la eliminación del espacio para la formación de hielo. Dicho dispositivo fue aprobado por el DÚ mediante decisión de modificación para los DV de las series 843 y 943 (modificación n.º 4347) n.º de expediente: 2-7933/07-DÚ de fecha 13. 07. 2007.
 El HDV n.º 843.008-4 del tren Os 16218, propiedad de ČD, a. s., DKV Česká Třebová, tenía en el momento de la aparición de la MU un "Certificado de aptitud del vehículo ferroviario" válido, emitido por el Drážní úřad el día 03. 12. 2002 con el número de registro PZ 4850/02-V.22. La última inspección técnica periódica del HDV antes de la aparición de la MU se realizó el día 27. 12. 2011 con el resultado de que el HDV cumple las condiciones de explotación en las vías. El coche de mando 943.008-3, propiedad de ČD, a. s., DKV
 
-
 ## Página 30
+
 
 Česká Třebová, tenía en el momento de la aparición de la MU un "Certificado de aptitud del vehículo ferroviario" válido, emitido por el Drážní úřad el día 01. 12. 2003 con el número de registro PZ 5927/03-V.22. La última inspección técnica periódica del HDV antes de la aparición de la MU se realizó el día 23. 11. 2011 con el resultado de que el DV cumple las condiciones de explotación en las vías.
 De la evaluación de los datos del registro del velocímetro del convoy METRA LT, número de tacógrafo 5681, número de viaje 0035.0731 del HDV 843.008-4 de fecha 05. 01. 2012, se constató:
@@ -766,6 +775,7 @@ De la evaluación de los datos del registro del velocímetro del convoy METRA LT
 ●desde el km 31,917 hasta el km 30,766 con una aceleración media "a" = 0,22 m.s-1 se alcanza una velocidad de 87 km.hod-1;
 
 ## Página 31
+
 
 en la vía 193 m circulación a velocidad 87 km.hod-1;
 ●
@@ -827,8 +837,8 @@ llenos de presión de aire.
 El desfase temporal entre el registro de los velocímetros del HDV y del DV de mando se debió a la 
 diferencia temporal de los velocímetros registradores, al retardo de reacción e indicación de los dispositivos de freno de los vehículos.
 
-
 ## Página 32
+
 
 De la evaluación de los datos del CRV DV 50 54 80-29 008-7 en el intervalo desde las 06:49:15 h. hasta 
 las 10:58:47 h. del día 05. 01. 2012 se detectaron registros de avería de la parte eléctrica de las puertas, desde 
@@ -887,96 +897,45 @@ Se detectaron averías.
 
 ## Página 33
 
-De la evaluación de los datos del CRV HDV 843.004-3 en el intervalo desde las 15:42:49 h. hasta las 17:53:13 
-h. del día 16. 02. 2012 se detectaron registros de avería de la presión tras el distribuidor y de la temperatura 
-del circuito de agua. Tras el origen de la MU se indica una temperatura elevada del compresor.
-De la documentación aportada por el operador se desprende que, durante el traslado independiente de los vehículos 
-del tren Os 16218 desde el lugar del origen de la MU hasta la est. Tanvald el día 05. 01. 2012, se verificó la función 
-de los frenos tanto en modo manual como en modo ARR y no se encontró ninguna avería. El día 06. 01. 2012 se realizó en 
-estos vehículos en el DKV Česká Třebová, PJ Liberec, una comprobación conjunta del 
-estado técnico de los vehículos ferroviarios (843.008-4 y 054 80 29008-7) y una prueba de circulación 
-en el tramo entre la est. Liberec y Chrastava y de vuelta. No se encontró ninguna avería en la función 
-del dispositivo de freno, incluida la verificación de la función de las válvulas dobles. El día 12. 01. 2012 se 
-realizó en DAKO-CZ, a. s., Třemošnice una inspección conjunta de determinados aparatos de freno 
-del HDV 843.008-4, a saber: el distribuidor DAKO BV1Dm8, las válvulas auxiliares DAKO 
-D1S, el freno DAKO BSE y los paneles de aparatos 1 y 2. Los ensayos demostraron que todos los aparatos 
-mencionados anteriormente cumplían las normas de ensayo vigentes.
-Tras la retirada del HDV del tren Os 16240 desde el lugar de la MU, se realizó de inmediato en el DKV Česká Třebová, PJ Liberec, 
-una inspección conjunta. El dispositivo de freno no presentaba avería 
-y estaba plenamente funcional. El día 17. 02. 2012 se realizó una prueba de circulación en el tramo entre la est. 
-Liberec y Chrastava y de vuelta. No se encontró ninguna avería en la función del dispositivo de freno, incluida 
-la verificación de la función de las válvulas dobles. El día 24. 02. 2012 se realizó en DAKO-CZ, a. s., 
-Třemošnice una inspección conjunta de determinados aparatos de freno del HDV 
-843.004-3 del tren Os 16240, a saber: el distribuidor DAKO BV1Dm8, las válvulas auxiliares DAKO 
-D1S, el freno DAKO BSE y los paneles de aparatos 1 y 2. Los ensayos demostraron que todos los aparatos 
-mencionados anteriormente cumplían las normas de ensayo vigentes.
-En el periodo desde el 25. 01. 2012 hasta el 11. 02. 2012, en los libros de reparaciones, los maquinistas 
-reclamaron cinco averías en el freno continuo de los vehículos incorporados a la explotación en el PJ Liberec. En 
-dos casos hubo negligencia por parte de los maquinistas, quienes a pesar de las fuertes heladas no activaron 
-el interruptor de los calefactores de las válvulas de purga. En un caso, tras el deshielo del 
-vehículo, la avería no se manifestó y se realizó una purga completa del circuito de aire del 
-freno. En dos casos se trataba de una avería en las válvulas (de frenado y de equilibrado) 
-del freno. En todos los casos estaba plenamente funcional el freno de acción directa, el freno rápido controlado 
-por el controlador de circulación y la llave del freno de emergencia en los puestos de los maquinistas.
-Los vehículos, por tanto, siempre que se cumpliera la tecnología de circulación prescrita, era posible 
-detenerlos sin poner en peligro la seguridad.
+Mediante la evaluación de los datos CRV del HDV 843.004-3 en el intervalo desde las 15:42:49 horas hasta las 17:53:13 horas del día 16. 02. 2012, se detectaron registros de avería de presión detrás del distribuidor y de temperatura del circuito de agua. Tras la aparición de la MU, se indica una temperatura elevada del compresor.
+
+De la documentación acreditada del operador se desprende que, durante el traslado independiente de los vehículos del tren Os 16218 desde el lugar de aparición de la MU hasta la estación de Tanvald el día 05. 01. 2012, se verificó el funcionamiento de los frenos tanto en modo manual como en modo ARR y no se detectó avería. El día 06. 01. 2012 se realizó en estos vehículos, en el DKV Česká Třebová, PJ Liberec, la comprobación comisionada del estado técnico de los vehículos ferroviarios (843.008-4 y 054 80 29008-7) y una prueba de circulación en el tramo entre la estación de Liberec y Chrastava y de vuelta. No se detectó avería en el funcionamiento del aparato de freno, incluida la verificación del funcionamiento de las compuertas de doble vía. El día 12. 01. 2012 se realizó en DAKO-CZ, a. s., Třemošnice la inspección comisionada de aparatos de freno seleccionados del HDV 843.008-4, a saber: el distribuidor DAKO BV1Dm8, las válvulas auxiliares DAKO D1S, el freno DAKO BSE y los paneles de aparatos 1 y 2. Las pruebas demostraron que todos los aparatos antes mencionados cumplieron las prescripciones de ensayo vigentes.
+
+Tras la retirada del HDV del tren Os 16240 desde el lugar de la MU, se realizó de inmediato en el DKV Česká Třebová, PJ Liberec, la inspección comisionada. El aparato de freno no presentaba avería y estaba plenamente operativo. El día 17. 02. 2012 se realizó una prueba de circulación en el tramo entre la estación de Liberec y Chrastava y de vuelta. No se detectó avería en el funcionamiento del aparato de freno, incluida la verificación del funcionamiento de las compuertas de doble vía. El día 24. 02. 2012 se realizó en DAKO-CZ, a. s., Třemošnice la inspección comisionada de aparatos de freno seleccionados del HDV 843.004-3 del tren Os 16240, a saber: el distribuidor DAKO BV1Dm8, las válvulas auxiliares DAKO D1S, el freno DAKO BSE y los paneles de aparatos 1 y 2. Las pruebas demostraron que todos los aparatos antes mencionados cumplieron las prescripciones de ensayo vigentes.
+
+En el periodo del 25. 01. 2012 al 11. 02. 2012, los maquinistas reclamaron en los libros de reparaciones cinco averías en el freno continuo de vehículos incorporados al servicio en el PJ Liberec. En dos casos hubo un fallo por parte de los maquinistas, que a pesar de las fuertes heladas no encendieron el conmutador de las resistencias de calefacción de las válvulas de purga. En un caso, tras descongelar el vehículo, la avería no se manifestó y se realizó una purga completa del circuito de aire del freno. En dos casos se trataba de una avería en las válvulas (de frenado y de equilibrado) del freno. En todos los casos, el freno de mando directo, el freno rápido controlado por el controlador de marcha y el grifo del freno de emergencia en los puestos de conducción del maquinista estaban plenamente operativos.
+
+Por tanto, los vehículos, con la condición de cumplir la tecnología de circulación prescrita, podían detenerse sin poner en peligro la seguridad.
+
 ## 3.5
 ### Documentación sobre el sistema de explotación
-### 3.5.1 Medidas adoptadas por los empleados del operador de la vía y del operador de transporte en lo que 
-se refiere a la dirección, señalización y seguridad del tráfico
-Aunque el maquinista del tren Os 16218 circulaba por la línea mencionada ya desde hacía tres años y 
-estaba familiarizado con las condiciones específicas de pendiente de la línea, en particular con las exigencias más altas para la conducción 
-del tren en condiciones climáticas adversas, no cumplió los procedimientos tecnológicos 
-prescritos. No realizó el calentamiento de los discos de freno mediante el uso preferente del freno 
-neumático automático o mediante el dispositivo OJV, tras la salida de la estación de tráfico de origen no realizó la prueba 
-del efecto del freno neumático automático ni la detención de seguridad del tren en el lugar designado. 
-Como consecuencia del incumplimiento de los procedimientos tecnológicos por parte del maquinista del tren Os 16218, se produjo 
+### 3.5.1 Medidas adoptadas por los empleados del operador de la infraestructura y del operador ferroviario en materia de conducción, señalización y seguridad de la circulación
 
+Aunque el maquinista del tren Os 16218 circulaba ya por tercera vez en la línea mencionada y conocía las condiciones de pendiente específicas de la línea, en particular las exigencias más elevadas para la conducción del tren en condiciones climáticas adversas, no cumplió los procedimientos tecnológicos prescritos. No realizó el calentamiento de los discos de freno mediante el uso preferente del freno automático de aire comprimido ni mediante el dispositivo OJV; tras la salida de la estación de origen, no realizó la comprobación del efecto del freno automático neumático ni la detención de seguridad del tren en el punto designado. Como consecuencia del incumplimiento de los procedimientos tecnológicos por parte del maquinista del tren Os 16218, se produjo
 
 ## Página 34
 
-una circulación incontrolada, la superación de la velocidad máxima permitida del tren y el paso por los lugares 
-designados para la detención y las estaciones de tráfico.
-El maquinista del tren Os 16240 fue asignado excepcionalmente a la circulación de trenes en esta línea. 
+a la conducción no controlada, a la superación de la velocidad máxima permitida del tren y a la pasada de paradas y puntos de tráfico designados.
+El maquinista del tren Os 16240 fue asignado a la conducción de trenes en esta línea de forma excepcional.
 Sin embargo, cometió errores idénticos a los del maquinista del tren Os 16218.
-Ambos maquinistas, en sus explicaciones, entre otros asuntos, manifestaron su desconocimiento de la 
-resolución de situaciones de crisis similares que se produjeron con el origen de las MU en cuestión. Asimismo, ambos 
-maquinistas, según sus declaraciones, solo conocían la tecnología y la conducción específica de trenes en 
-la línea ferroviaria en cuestión en el marco de la formación en conducción y durante la preparación para 
-el examen de conocimiento de las disposiciones del reglamento interno de SŽDC (ČD) D40. En la actividad 
-de los empleados del operador del transporte ferroviario se detectaron deficiencias fundamentales.
-Se detectaron averías.
-La organización del transporte ferroviario entre los despachadores directores y los maquinistas de los trenes 
-(avisos de llegadas a las estaciones de tráfico designadas y solicitud de autorización para las siguientes circulaciones de los trenes) se 
-realizó de conformidad con el reglamento interno del operador de la vía SŽDC (ČD) D3.
-La actividad de los empleados del operador de la vía y del operador de transporte inmediatamente después del origen de la MU 
-(avisos de la MU y medidas en el lugar de la MU) fue conforme a las disposiciones de los reglamentos internos 
-aplicables del operador de la vía y del operador de transporte.
-No se detectaron averías.
-### 3.5.2 Intercambio de comunicaciones verbales en relación con el suceso excepcional, incluidos 
-los documentos del dispositivo registrador
-Antes del origen de la MU se realizaba comunicación verbal entre los despachadores directores 
-y los maquinistas en relación con la organización de la explotación del transporte ferroviario en la línea con 
-gestión simplificada del transporte ferroviario. Inmediatamente después del origen de la MU, el maquinista 
-y el jefe de estación avisaron del origen de la MU según el esquema de avisos.
-No se detectaron averías.
-### 3.5.3 Medidas adoptadas para la protección y seguridad del lugar del suceso excepcional
-Las medidas de protección y seguridad del lugar de detención del DV tras el origen de la MU fueron, 
-hasta la llegada de las personas designadas por el operador de la vía y por el operador del transporte ferroviario, 
-aseguradas por los jefes de tren y por los maquinistas de los trenes Os 16218 y Os 16240. El lugar de la MU fue 
-asegurado de conformidad con la disposición del § 9 del decreto núm. 376/2006 Sb.
-No se detectaron averías.
+Ambos maquinistas, en sus explicaciones, indicaron entre otros su desconocimiento de la resolución de situaciones de crisis similares a las que se produjeron con motivo de los SU mencionados. Asimismo, ambos maquinistas, según sus propias declaraciones, solo fueron familiarizados con la tecnología y la conducción específica de trenes en la línea ferroviaria en cuestión en el marco de la formación práctica en conducción y durante la preparación para el examen de conocimiento de las disposiciones del reglamento interno de SŽDC (ČD) D40. En la actividad de los empleados del operador del transporte ferroviario se detectaron deficiencias fundamentales.
+Se detectaron deficiencias.
+La organización del transporte ferroviario entre los despachadores directores y los maquinistas de los trenes (notificación de llegadas a los puntos de tráfico designados y solicitud de autorización para los siguientes movimientos de los trenes) se realizó de conformidad con el reglamento interno del operador de la vía SŽDC (ČD) D3.
+La actividad de los empleados del operador de la vía y del transportista inmediatamente después de la producción del SU (notificación del SU y medidas en el lugar del SU) fue conforme a las disposiciones de los reglamentos internos pertinentes del operador de la vía y del transportista.
+No se detectaron deficiencias.
+### 3.5.2 Intercambio de comunicaciones verbales en relación con la excepcionalidad, incluidos los registros del dispositivo de registro
+Antes de la producción del SU se mantenía comunicación verbal entre los despachadores directores y los maquinistas en relación con la organización del transporte ferroviario en la línea con gestión simplificada del tráfico ferroviario. Inmediatamente después de la producción del SU, el maquinista y el jefe de estación notificaron la producción del SU conforme al calendario de notificaciones.
+No se detectaron deficiencias.
+### 3.5.3 Medidas adoptadas para la protección y aseguramiento del lugar de la excepcionalidad
+Las medidas de protección y aseguramiento del lugar de parada del DV después de la producción del SU fueron garantizadas por los jefes de tren y los maquinistas de los trenes Os 16218 y Os 16240 hasta la llegada de las personas designadas por el operador de la vía y el operador del transporte ferroviario. El lugar del SU fue asegurado de conformidad con la disposición del § 9 del decreto n.º 376/2006 Sb.
+No se detectaron deficiencias.
 ## 3.6
 ### Condiciones laborales, sanitarias y de explotación
-### 3.6.1 Jornada laboral de los empleados del operador de la vía y del operador de transporte que fueron 
-participantes en el suceso
-Según las actas con los empleados participantes en la MU y los registros de explotación 
-de los maquinistas del operador de transporte, se garantizaron las condiciones para el descanso antes del turno de conformidad 
-con la disposición del § 90 de la ley núm. 262/2006 Sb., Código del Trabajo, 
-en su redacción vigente. El maquinista 
-participante en la MU del día 05. 01. 2012 finalizó el turno anterior el día 04. 01. 2012 a las 12:30
+### 3.6.1 Jornada laboral de los empleados del operador de la vía y del transportista que fueron participantes en el hecho
+Según las actas con los empleados participantes en el SU y los registros de explotación de los maquinistas del transportista, se garantizaron las condiciones para el descanso antes del turno de conformidad con la disposición del § 90 de la ley n.º 262/2006 Sb., Código del Trabajo, en su versión vigente. El maquinista participante en el SU del 05. 01. 2012 finalizó el turno anterior el 04. 01. 2012 a las 12:30
 
 ## Página 35
+
 
 horas y hasta la formación de la MU, condujo el segundo tren desde su incorporación al servicio a las 07:46 horas. El maquinista participante en la MU del 16. 02. 2012 finalizó su turno anterior el 13. 02. 2012 a las 09:00 horas, se incorporó el día de los hechos a las 12:30 horas a la prestación de servicio «maniobras de la calefactory» y hasta la formación de la MU condujo el segundo tren. Durante el turno, los empleados del transportista estaban obligados a disfrutar de un período adecuado de descanso y comida en horarios operativos adecuados, de conformidad con las disposiciones del Convenio Colectivo (ČD, a. s.: anexo n.º 1, art. 4.4 del Convenio Colectivo). Se permitió a los empleados participantes utilizar dicho período durante el turno.
 No se detectaron anomalías.
@@ -989,21 +948,52 @@ La disposición del equipamiento del puesto de mando y del HDV no guardaba relac
 ### Excepcionalidades anteriores de carácter similar
 Una MU similar ya está registrada por la DI. El 27. 01. 2005, el tren regular R 900, que para a las 06:16 horas en la estación de Branná en la vía 1 de la estación, no se detuvo en el lugar designado. La investigación de las causas y circunstancias de la formación de esta MU determinó una tecnología incorrecta de manejo del dispositivo de freno del tren, al utilizarse el EDB junto con el ARR para la reducción de la velocidad del tren en condiciones climáticas adversas, lo que provocó la formación de hielo en los discos de freno y, al aplicarse el freno automático de aire, no se obtuvo el efecto frenante. Respecto a la mencionada MU, el jefe superior de la DKV Olomouc emitió la Medida y la Hoja Informativa, donde, en condiciones climáticas adversas, establece la conducción de trenes con el EDB y el ARR desconectados y la regulación de la velocidad realizada en el modo «manual» con la ayuda del freno auxiliar del HDV y del freno neumático de los DV remolcados.
 
-
 ## Página 36
 
 ## 4 ANÁLISIS Y CONCLUSIONES
 ## 4.1
-### Descripción final de la excepcionalidad
-### 4.1.1 Descripción final de la excepcionalidad basada en los hechos establecidos en el punto 3
-En la línea ferroviaria n.º 548C Tanvald – Harrachov frontera estatal CZ/PL, en el tramo entre las instalaciones de Kořenov y Dolní Polubný, se produjeron MU los días 05. 01. 2012 y 16. 02. 2012, consistentes en la circulación descontrolada de los trenes Os 16218 y Os 16240, con el consecuente no apego a las paradas designadas para ellos y la no observancia de la velocidad máxima permitida de dichos trenes.
-El 05. 01. 2012, tras el relevo del tren Os 16207, el tren Os 16218 partió de la instalación de Harrachov hacia la estación de Tanvald. Tras la salida de la instalación de origen, el maquinista no probó el efecto del dispositivo de freno del tren. Tras la salida de la instalación de Kořenov en el km 33,720, el maquinista no realizó la parada de control (prueba de la funcionalidad integral del dispositivo de freno neumático del tren) antes de la señal «Comienzo de la cremallera». La circulación del tren se desarrolló sin anomalías hasta la parada de Kořenov zastávka. Tras recorrer unos 150 metros desde dicha parada, debido a una rama de árbol que invadía el perfil de circulación de los vehículos, el maquinista aplicó el frenado de acción rápida. El efecto frenante del freno automático de aire no se produjo y la velocidad aumentó hasta el valor de 87 km.hod-1, es decir, 57 km.hod-1 por encima de la velocidad máxima permitida del tramo de línea y de la velocidad establecida para el tren. Se produjo el paso descontrolado por las paradas Desná-Pustinská, Dolní Polubný y Desná-Riedlova vila. El efecto frenante del freno automático de aire y de los frenos de mano tensados solo se produjo al entrar el tren en un tramo con una pendiente más suave. El tren se detuvo en el km 29,690.
-El 16. 02. 2012, tras el relevo del tren Os 16229, el tren Os 16240 partió de la instalación de Harrachov hacia la estación de Tanvald. Tras la salida de la instalación de origen, el maquinista no probó el efecto del dispositivo de freno del tren y no realizó la parada de control (prueba de la funcionalidad integral del dispositivo de freno neumático del tren) antes de la señal «Comienzo de la cremallera» tras la instalación de Kořenov. Tras la salida del túnel de Polubenský, el maquinista comenzó a frenar con el fin de detenerse en la parada de Kořenov zastávka. Tras el uso del freno de tren y del auxiliar, y la posterior aplicación del frenado de acción rápida, el efecto frenante del freno automático de aire no se produjo y el tren continuó aumentando la velocidad hasta el valor de 84 km.hod-1, es decir, 54 km.hod-1 por encima de la velocidad máxima permitida del tramo de línea y de la velocidad establecida para el tren. Se produjo el paso descontrolado por las paradas Kořenov zastávka, Desná-Pustinská, Dolní Polubný y Desná-Riedlova vila. El efecto frenante del freno automático de aire y de los frenos de mano tensados solo se produjo al entrar el tren en un tramo con una pendiente más suave. El tren se detuvo en el km 29,820.
-El 05. 01. 2012, los servicios de emergencia (IZS) no intervinieron; el 16. 02. 2012, acudió al lugar de los hechos la PČR, OOP Tanvald, entre los servicios de emergencia (IZS).
-En la MU nadie sufrió daños en su salud, no se produjeron daños materiales en los vehículos ferroviarios ni en las instalaciones de infraestructura del operador de la vía. No se produjo amenaza alguna para el medio ambiente.
-
+### Descripción final del suceso ferroviario
+### 4.1.1 Descripción final del suceso ferroviario basada en los hechos constatados 
+en el punto 3
+En la línea ferroviaria n.º 548C Tanvald – Harrachov frontera de estado CZ/PL, en el tramo entre 
+las estaciones de Kořenov y Dolní Polubný, se produjeron los días 05. 01. 2012 y 16. 02. 2012 SU, 
+consistentes en la circulación descontrolada de los trenes Os 16218 y Os 16240 con el consecuente 
+no detenimiento en los lugares destinados a ellos y el incumplimiento de la velocidad máxima 
+permitida de dichos trenes.
+El día 05. 01. 2012, tras el relevo del tren Os 16207, el tren Os 16218 partió de la estación de 
+Harrachov hacia la est. de Tanvald. Tras la salida de la estación de origen, el maquinista no probó 
+el efecto del dispositivo de freno del tren. Tras la salida de la estación de Kořenov en el km 33,720, 
+el maquinista no realizó la parada de control (prueba de la funcionalidad integral del dispositivo 
+de freno neumático del tren) antes de la señal «Comienzo de la cremallera». La circulación del 
+trans se desarrolló sin anomalías hasta la parada de Kořenov zastávka. Tras recorrer unos 150 metros 
+desde dicha parada, debido a una rama de árbol que invadía el perfil de rodadura de los vehículos, 
+el maquinista aplicó el frenado de acción rápida. El efecto de frenado del freno automático de aire 
+no se produjo y la velocidad aumentó hasta el valor de 87 km.hod-1, es decir, 57 km.hod-1 por encima 
+de la velocidad máxima permitida del tramo de línea y de la velocidad establecida para el tren. Se 
+produjo el paso descontrolado por las paradas Desná-Pustinská, Dolní Polubný y Desná-Riedlova vila. 
+El efecto de frenado del freno automático de aire y de los frenos de mano tensados solo se produjo 
+al entrar el tren en un tramo con pendiente más suave. El tren se detuvo en el km 29,690.
+El día 16. 02. 2012, tras el relevo del tren Os 16229, el tren Os 16240 partió de la estación de 
+Harrachov hacia la est. de Tanvald. Tras la salida de la estación de origen, el maquinista no probó 
+el efecto del dispositivo de freno del tren y no realizó la parada de control (prueba de la funcionalidad 
+integral del dispositivo de freno neumático del tren) antes de la señal «Comienzo de la cremallera» 
+tras la estación de Kořenov. Tras la salida del tren del túnel de Polubenský, el maquinista comenzó 
+a frenar con el fin de detenerse en la parada de Kořenov zastávka. Tras el uso del freno del tren y del 
+freno auxiliar y la posterior aplicación del frenado de acción rápida, el efecto de frenado del freno 
+automático de aire no se produjo y el tren continuó aumentando la velocidad hasta el valor de 
+84 km.hod-1, es decir, 54 km.hod-1 por encima de la velocidad máxima permitida del tramo de línea 
+y de la velocidad establecida para el tren. Se produjo el paso descontrolado por las paradas 
+Kořenov zastávka, Desná-Pustinská, Dolní Polubný y Desná-Riedlova vila. El efecto de frenado del 
+freno automático de aire y de los frenos de mano tensados solo se produjo al entrar el tren en un 
+tramo con pendiente más suave. El tren se detuvo en el km 29,820.
+El día 05. 01. 2012 los servicios de IZS no intervinieron, el día 16. 02. 2012 acudió al lugar del 
+suceso, entre los servicios de IZS, la PČR, OOP Tanvald.
+En el SU nadie resultó herido, no se produjeron daños materiales en el material rodante ni en 
+las instalaciones de infraestructura del explotador ferroviario. No se produjo amenaza alguna 
+para el medio ambiente.
 
 ## Página 37
+
 
 ## 4.2
 ### Análisis
@@ -1014,13 +1004,14 @@ En el traslado independiente de los vehículos del tren Os 16218 desde el lugar 
 
 ## Página 38
 
+
 de los reglamentos de ensayo. Del análisis de los registros de averías CRV en el HDV 843 008-4 y el DV 50 54 80 29008-7 se detectaron indicaciones de estados de avería de corta duración, que sin embargo no se relacionaban con el correcto funcionamiento de los componentes del sistema de freno de los vehículos.
 De forma análoga a lo ocurrido en la UE del 05. 01. 2012, durante la circulación de los trenes Os 16229 y, posteriormente, en el traslado al tren Os 16240 el 16. 02. 2012, la temperatura exterior fue inferior a + 2 °C, (- 5 °C), nevaba ligeramente y los cantos de los rieles por los que circulaban estaban cubiertos de nieve. Nuevamente, esta situación exigía proceder en la conducción de los trenes según la tecnología contenida en el artículo 54 de la resolución del transportista n.º de expediente: 62289/2006-O11 de fecha 01. 12. 2006 y prestar una atención especial a la manipulación del freno neumático del HDV debido a la adhesión de nieve levantada al perímetro de los discos de freno del vehículo, con la consiguiente congelación. El maquinista del tren Os 16240, en su declaración sobre la UE, indicó que se incorporó excepcionalmente a la conducción de los mencionados trenes y que fue su primera circulación en solitario en el ferrocarril en cuestión. Antes de la salida de la estación de origen Harrachov, igual que en el suceso anterior, el maquinista no realizó la prueba de la acción del freno neumático automático, ni la parada de seguridad del tren antes de la señal «Comienzo de la cremallera». Del análisis del registro del registrador de velocidad electrónico se constató que para la regulación de la velocidad del HDV se utilizó, durante toda la circulación del tren, con la excepción de la necesidad de parada en la estación Kořenov, exclusivamente el EDB. Antes de la llegada a la estación Kořenov, el ARR fue desconectado. La presión en los cilindros de freno, provocada por la reducción drástica de la presión en la tubería principal hasta el valor de 3,6 bar, se registró únicamente durante cinco segundos antes de la parada en la estación Kořenov. La forma de frenar para detener el tren en la parada evidencia claramente una manipulación no estándar del freno del vehículo por parte del maquinista. Siete segundos después de la salida del portal del túnel de Polubná, se indicó presión en los cilindros de freno mediante la reducción gradual de la presión del aire en la tubería principal desde el valor de 4,2 bar hasta 3,8 bar. Tras 12 s se aplicó el freno rápido, 2 s después se aplicó el freno auxiliar en el área de la parada Kořenov zastávka. Otros 6 s después se desactivó la válvula VZ. La presión del aire en los cilindros de freno se indicó hasta la parada completa en el pk 29,820. Del valor de deceleración se deduce nuevamente que, incluso en pendientes considerables, se producía la eliminación gradual del hielo de las superficies de los discos, el aumento del efecto de frenado y, tras la entrada en un tramo de vía con pendiente suave, se produjo la parada del HDV. Durante la circulación del tren Os 16240 no se cumplió la tecnología de circulación prescrita relacionada con la manipulación del freno neumático del vehículo (prueba de la función del freno, parada de seguridad y calentamiento de los discos de freno). Con la finalización de la manipulación del botón de alerta se desactivó la válvula VZ y no pudo garantizarse tampoco la función del EDB, cuya actuación habría provocado un aumento del valor medio de deceleración.
 La inspección comisionada del vehículo, la circulación de ensayo y la inspección comisionada y prueba de determinados aparatos de freno del HDV 843.004-3 demostraron que el dispositivo de freno estaba plenamente operativo y no presentaba averías. Del análisis de los registros de averías CRV se detectaron indicaciones de estados de avería de corta duración, que sin embargo no se relacionaban con el correcto funcionamiento de los componentes del sistema de freno del vehículo.
 Al prestar declaración ambos maquinistas de los trenes en cuestión, ante preguntas concretas relativas a su conocimiento sobre la influencia en el funcionamiento del EDB de la magnitud de la presión en la tubería principal del freno automático de aire, ambos admitieron dicho conocimiento. A la pregunta sobre su conocimiento de la resolución de situaciones críticas en el caso de que no se produjera el efecto de frenado de los frenos de disco de los vehículos, la respuesta fue negativa. Asimismo, a la pregunta de si y cuándo habían recibido formación sobre la tecnología y la conducción específica de trenes en el ferrocarril en cuestión bajo condiciones climáticas adversas en el periodo invernal, indicaron que solo fueron informados durante la formación práctica y que esta temática es parte del examen del reglamento interno de SŽDC (ČD) D40. En qué periodo se produjo esto, no estaban seguros. Como se deduce de la declaración de ambos maquinistas, su
 
-
 ## Página 39
+
 
 conocimiento de la manipulación de todos los sistemas del freno neumático automático del HDV de la serie 843 no estaba en el nivel necesario, era muy bajo. Asimismo, también surge el hecho de que, por ejemplo, en los HDV de tracción independiente de las series 714 y 750 equipados con EDB, también se produce, cuando la presión del aire en la tubería principal del freno automático desciende por debajo de un determinado umbral (serie 714 por debajo de 3 bar y serie 750 por debajo de 3,5 bar), la desconexión de la función EDB. Dado que ambos maquinistas eran personas profesionalmente cualificadas para conducir también los HDV de las mencionadas series, su nivel de conocimiento técnico y de manejo de los vehículos era alarmante.
 La asignación del maquinista del tren Os 16240 a su primera circulación en solitario de trenes de transporte de pasajeros en el ferrocarril en cuestión bajo condiciones climáticas adversas no garantizaba la explotación segura del transporte ferroviario sin una formación preventiva sobre los posibles riesgos, con énfasis en la tecnología de conducción de trenes.
@@ -1030,24 +1021,32 @@ En relación con la aparición de una UE similar el 27. 01. 2005 en la est. Bran
 La investigación demostró el incumplimiento de los procedimientos tecnológicos uniformes del transportista, que estaban vigentes ya desde hacía cinco años en el momento de la aparición de las UE en cuestión. Los mencionados procedimientos se indican en el punto 3.3.2. de este informe.
 Los porcentajes reales de frenado de los trenes Os 16218 y Os 16240 fueron suficientes.
 
-
 ## Página 40
 
-Como consecuencia de las deficiencias anteriormente mencionadas, ambos trenes circularon de forma incontrolada sin detenerse, en el primer caso en tres y, en el segundo, en cuatro paradas, y con su circulación se superó la velocidad máxima permitida establecida.
-Como el DI constató en el ejercicio de la supervisión estatal en materia de ferrocarriles, el transportista realizaba, a través de empleados autorizados y profesionalmente cualificados, actividades de control, incluidas comprobaciones de los registros de los registradores de velocidad, con enfoque en la tecnología de conducción de trenes por parte de los maquinistas en la vía mencionada anteriormente. Las deficiencias constatadas por el transportista se resolvieron mediante una medida interna de la empresa frente a los maquinistas, con la reducción de sus retribuciones por rendimiento.
-Todos los empleados del transportista implicados estaban, en el momento de la aparición de la UE, sanos y profesionalmente cualificados para el desempeño de la función que ocupaban. La investigación no demostró que hubieran estado expuestos a estrés físico ni psicológico antes de la aparición de la UE.
-Los vehículos ferroviarios del tren Os 16218 y el HDV del tren Os 16240 tenían, en el momento de la aparición de la UE, acreditaciones de aptitud de vehículos ferroviarios y de instalaciones técnicas designadas vigentes y revisiones técnicas periódicas vigentes. Sobre la base de la realización de inspecciones comisionadas y circulaciones de ensayo con los vehículos ferroviarios en cuestión implicados en la UE, de acuerdo con las conclusiones del transportista, el estado técnico de dichos vehículos no guardaba relación causal con la aparición de la UE.
-Parte de la documentación para la evaluación de la aptitud de los vehículos son los requisitos del ordenante, la documentación técnica del fabricante, los resultados de las pruebas de verificación y de pruebas y mediciones técnico-seguridad.
-El tipo y la aptitud técnica de los DV implicados en la UE fueron aprobados por el DÚ de acuerdo con lo dispuesto en el § 43 de la ley n.º 266/1994 Sb., sobre la base del certificado de conformidad y de conformidad con el tipo aprobado presentados por la persona jurídica autorizada encargada de realizar la evaluación técnica por el Ministerio de Transporte de la República Checa. La mencionada persona autorizada, de acuerdo con lo dispuesto en la ley n.º 22/1997 Sb., es responsable del cumplimiento de las condiciones prescritas por las normas técnicas y reglamentos.
-No obstante, en el proceso de aprobación, ninguna de las instituciones interesadas tuvo en cuenta lo dispuesto en el anexo n.º 3, parte I, apartado (2) del decreto n.º 173/1995 Sb., donde se indica: «El freno del DV debe garantizar un efecto de frenado tal que el DV de mayor masa se detenga desde la velocidad permitida en la distancia de frenado de la vía en la que se explotan los DV. El control de un sistema de freno no debe estar vinculado al control de los demás sistemas de freno». Sobre la base también de esta constatación, el DI emite las recomendaciones de seguridad indicadas en el punto 6 de este informe.
-El estado de los componentes de la vía, en relación con la utilización de vehículos ferroviarios con freno de disco, tenía carácter contributivo debido a la capa de nieve existente. Habría sido eliminado bajo la condición de cumplir la tecnología prescrita de conducción de trenes.
+Como consecuencia de las infracciones anteriormente descritas, ambos trenes circularon de forma incontrolada sin detenerse, en el primer caso en tres y en el segundo caso en cuatro paradas, y con su circulación se superó la velocidad máxima permitida establecida.
+
+Como se constató en el ejercicio de la supervisión estatal en materia de ferrocarriles de la DI, el transportista realizaba, a través de empleados autorizados y profesionalmente competentes, actividades de control, incluidas las verificaciones de los registros de los registradores de velocidad, con especial atención a la tecnología de conducción de trenes por parte de los maquinistas en la línea mencionada anteriormente. El transportista abordó las deficiencias detectadas mediante una medida interna de la empresa dirigida a los maquinistas, concretamente mediante la reducción de sus retribuciones por desempeño.
+
+Todos los empleados del transportista implicados eran, en el momento del suceso de la seguridad (MU), aptos desde el punto de vista médico y profesional para el desempeño de la función que ocupaban. La investigación no demostró que hubieran estado expidos a estrés físico ni psicológico antes de la ocurrencia del MU.
+
+Los vehículos ferroviarios del tren Os 16218 y la locomotora (HDV) del tren Os 16240 contaban, en el momento de la ocurrencia del MU, con certificados de aptitud de vehículos ferroviarios y de instalaciones técnicas designadas vigentes, y con revisiones técnicas periódicas vigentes. Sobre la base de la realización de inspecciones comisionadas y pruebas de circulación con los vehículos ferroviarios implicados que participaron en el MU, de acuerdo con las conclusiones del transportista, el estado técnico de dichos vehículos no guardaba relación causal con la ocurrencia del MU.
+
+Entre los documentos para la evaluación de la aptitud de los vehículos se encuentran los requisitos del ordenante, la documentación técnica del fabricante, los resultados de las pruebas de verificación y de las pruebas y mediciones técnico-seguridad.
+
+El tipo y la aptitud técnica de los vehículos ferroviarios (DV) que participaron en el MU fueron aprobados por la DÚ de conformidad con lo dispuesto en el § 43 de la Ley n.º 266/1994 Sb., sobre la base del certificado de conformidad y de conformidad con el tipo aprobado presentados por la persona jurídica autorizada encargada de realizar la evaluación técnica por el Ministerio de Transporte de la República Checa. La mencionada persona autorizada, de conformidad con lo dispuesto en la Ley n.º 22/1997 Sb., es responsable del cumplimiento de las condiciones prescritas por las normas técnicas y reglamentos.
+
+No obstante, en el marco del proceso de aprobación, ninguna de las instituciones interesadas tuvo en cuenta lo dispuesto en el anexo n.º 3, parte I, apartado (2) del decreto n.º 173/1995 Sb., donde se establece: «El freno del DV debe garantizar un efecto de frenado tal que el DV con la mayor masa se detenga desde la velocidad permitida en la distancia de frenado de la línea en la que se explotan los DV. El mando de un sistema de freno no debe estar vinculado al mando de los demás sistemas de freno». Sobre la base de este hallazgo también, la DI emite las recomendaciones de seguridad indicadas en el punto 6 de este informe.
+
+El estado de los componentes de la vía, en relación con la utilización de vehículos ferroviarios con freno de disco, tenía un carácter contribuyente debido a la capa de nieve existente. Se habría eliminado de haberse cumplido la tecnología prescrita de conducción de trenes.
+
 ## 4.3
 ### Conclusiones
-4.3.1 Causas inmediatas del suceso excepcional, incluidos los factores que contribuyeron al mismo y que se relacionaron con la actuación de las personas implicadas o con el estado de los vehículos ferroviarios o de las instalaciones técnicas
-La causa inmediata de la aparición de la UE fue el fallo del dispositivo neumático de freno de los vehículos ferroviarios debido a la cubierta de hielo en los discos de freno.
+4.3.1 Causas inmediatas del suceso de la seguridad, incluidos los factores que contribuyeron al mismo y que estuvieron relacionados con la actuación de las personas implicadas o con el estado de los vehículos ferroviarios o de las instalaciones técnicas
 
+La causa inmediata de la ocurrencia del MU fue el fallo del equipo neumático de freno de los vehículos ferroviarios debido a la formación de hielo en los discos de freno.
 
 ## Página 41
+
 
 ### 4.3.2 Causas fundamentales relacionadas con la cualificación, los procedimientos y el mantenimiento
 La causa fundamental fue el incumplimiento de los procedimientos tecnológicos en la conducción de vehículos ferroviarios durante el periodo invernal en un ferrocarril con condiciones de pendiente específicas.
@@ -1059,6 +1058,7 @@ En el marco de la instrucción periódica obligatoria de los maquinistas no se t
 No se detectaron averías.
 
 ## Página 42
+
 
 ## 5 MEDIDAS ADOPTADAS
 ## 5.1
@@ -1074,8 +1074,8 @@ comprobar la posibilidad de instalar un registro de la aplicación de la presió
 El DÚ Praga realizó el día 20. 02. 2012, de conformidad con lo dispuesto en los artículos 58 y 59 de la Ley n.º 266/1994 Sb., la supervisión estatal en materia de ferrocarriles, con la conclusión de que la situación planteada entrañaba un peligro inminente para la vida o la salud de las personas. Mediante decisión anunciada verbalmente, el DÚ impuso al transportista la obligación de no explotar en la línea Liberec – Harrachov en el tramo Tanvald (pk 27,642) – Kořenov vehículos de la serie 843 hasta la adopción de tales medidas aprobadas por el DÚ que excluyeran los riesgos de la explotación de dichos vehículos en contravención de lo dispuesto en el artículo 37, apartado 2, del decreto n.º 173/1995 Sb.
 El DÚ emitió el día 22. 02. 2012 bajo el n.º de expediente DUCR-10634/12/Kj la «Decisión», en la que no se adhirió a la causa del origen del SU indicada en la «Evaluación de las causas y circunstancias del origen del SU», donde tanto el operador de la infraestructura como el transportista determinaron como causa del origen del SU el incumplimiento de la tecnología prescrita. Dado que, con base en los resultados de las inspecciones colegiadas realizadas, no se detectaron averías concretas que pudieran haberse detectado y corregido en el mantenimiento preventivo y la inspección técnica, el DÚ llegó a la decisión de que, por medios preventivos, no era posible garantizar en ninguno de los vehículos de la serie 843 que, especialmente en condiciones meteorológicas invernales extremas, se garantizara el funcionamiento seguro del freno, especialmente cuando en dichos vehículos el mando de un sistema de freno está vinculado al mando de los demás sistemas de freno. Dado que se produjeron dos SU en circunstancias prácticamente idénticas en un corto período de tiempo, el DÚ no presumió que se tratara solo de averías casuales, sino de una avería sistémica de todos los vehículos del mismo tipo. Atendiendo al requisito establecido en el punto 2 de la parte I del anexo 3 del decreto n.º 173/1995 Sb., el DV debe ser capaz de garantizar tal efecto de frenado que se detenga en la distancia de frenado (esta
 
-
 ## Página 43
+
 
 distancia es de 400 m en la línea ferroviaria en cuestión). Esta condición debe cumplirse con cualquier clima y en cualquier línea en la que se exploten los vehículos, y en las condiciones de explotación establecidas en el manual de instrucciones del DV. Las medidas operativas adicionales para la explotación del freno van más allá de los requisitos de efectos del freno y su incumplimiento puede dar lugar al incumplimiento de las condiciones establecidas en las disposiciones del decreto n.º 173/1995 Sb. Con base en lo anterior y atendiendo a las posibles consecuencias de la repetición del SU, el DÚ decidió la ineptitud del HDV de la serie 843 en la línea Liberec – Harrachov en el tramo Tanvald (pk 27,642) – Kořenov.
 Con base en la prohibición de explotación del HDV de la serie 843 en el tramo Tanvald – Kořenov emitida por el DÚ, el transportista ČD, a. s., DKV Česká Třebová, emitió la «Medida n.º 5/2012 del jefe de DKV» de fecha 24. 02. 2012, en la que se ordena con efecto inmediato:
@@ -1092,8 +1092,8 @@ reciclar a los maquinistas en la tecnología de explotación del HDV y la circul
 Contra la decisión de ineptitud del HDV de la serie 843 en la línea Liberec – Harrachov en el tramo Tanvald (pk 27,642) – Kořenov, el día 02. 03. 2012 bajo el n.º de expediente 437/2012-O-12, el transportista ČD, a. s., interpuso recurso ante el Ministerio de Transporte de la República Checa a través del DÚ. El DÚ emitió el día 15. 03. 2012 bajo el n.º de expediente DUCR-14624/12/Kj el informe de elevación del recurso de la parte en el procedimiento con la propuesta de que el órgano de apelación desestimara el recurso.
 El Ministerio de Transporte de la República Checa – Departamento de ferrocarriles, transporte ferroviario y combinado, como autoridad administrativa ferroviaria competente de acuerdo con los artículos 54 y 56, letra c), de la Ley n.º 266/1994 Sb., emitió el día 03. 10. 2012 bajo el n.º de expediente 127/2012-130-SPR/2 la decisión, en la que, al igual que el órgano de primera instancia, llegó a la conclusión de que, con el estado técnico actual, los vehículos de la serie n.º 843 no son aptos para la explotación en la línea Liberec – Harrachov en el tramo Tanvald (pk 27,642) – Kořenov, hasta la adopción de tales medidas que permitan decidir sobre su aptitud y la limitación de la aptitud de los vehículos en el certificado de aptitud de dichos DV en el tramo de línea en cuestión.
 
-
 ## Página 44
+
 
 ## 6 RECOMENDACIONES DE SEGURIDAD
 La Inspección Ferroviaria, como autoridad administrativa competente en la materia de acuerdo con lo dispuesto en el artículo 53b, apartado 5, de la Ley n.º 266/1994 Sb., con base en los resultados de la investigación de las causas y circunstancias del origen del suceso ferroviario, recomienda al operador de transporte ferroviario ČD, a. s.:
@@ -1115,14 +1115,14 @@ Inspector jefe
 Inspectorado Territorial de Praga
 Inspectorado Territorial de Praga
 
-
 ## Página 45
+
 
 ## 7 ANEXOS
 Foto n.º 1: Vista del bogie del HDV 843 004-3 tras su retirada del lugar del SU el día 16. 02. 2012 al PJ Liberec.
 Foto n.º 2: Vista desde el canal de montaje del disco de freno del HDV 843 004-3 tras su retirada del lugar del SU el día 16. 02. 2012 al PJ Liberec.
 
-
 ## Página 46
+
 
 Foto n.º 3: Vista desde el canal de montaje del disco de freno del HDV 843 004-3 tras su retirada del lugar del SU el día 16. 02. 2012 al PJ Liberec.

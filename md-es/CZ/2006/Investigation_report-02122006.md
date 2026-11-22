@@ -10,13 +10,14 @@ chars: 38409
 ratio_longitud: 1.27
 tokens_in: 22865
 tokens_out: 15989
-verificacion: revisar
-notas_cifras: ["bloque 1: original bilingüe: se compara contra el idioma principal (CS)", "bloque 2: original bilingüe: se compara contra el idioma principal (CS)", "bloque 3: original bilingüe: se compara contra el idioma principal (CS); cifras cortas: 10/96", "bloque 4: cifras largas: 1/19; cifras cortas: 5/44", "bloque 5: cifras cortas: 13/73"]
-avisos: ["bloque 2: ratio 1.61", "bloque 3: marcadores de página: 3 vs 1"]
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 9: original bilingüe: se compara contra el idioma principal (PT)", "página 11: original bilingüe: se compara contra el idioma principal (CS)", "página 12: original bilingüe: se compara contra el idioma principal (PT)", "página 13: cifras cortas: 4/20", "página 14: cifras largas: 1/5; cifras cortas: 1/22"]
 ---
+
 ## Página 1
+
 
 República Checa
 Inspección Ferroviaria
@@ -42,11 +43,12 @@ NIF: 75009561
 http://www.dicr.cz
 fax: (+420) 224 805 428
 
-
 ## Página 2
 
 
+
 ## Página 3
+
 
 ### Resumen
 Fecha y hora:
@@ -68,11 +70,12 @@ no investigada
 Recomendación:
 no emitida
 
-
 ## Página 4
 
 
+
 ## Página 5
+
 
 # Índice
 1 Resumen......................................................................................................................6
@@ -96,8 +99,8 @@ no emitida
 6 Recomendaciones de seguridad.....................................................................................16
 7 Anexos.....................................................................................................................17
 
-
 ## Página 6
+
 
 ### Informe
 sobre los resultados de la investigación de las causas y circunstancias de la
@@ -129,6 +132,7 @@ Tras la salida del tren de tranvía de la rotonda, en el punto de transición de
 
 ## Página 7
 
+
 En el lugar del accidente no intervinieron las unidades del Sistema Integrado de Rescate.
 2.1.3 la decisión de iniciar la investigación de las causas y circunstancias de la ocurrencia, la composición del equipo de personas técnicamente competentes y el método de conducción de la investigación de las causas y circunstancias de la ocurrencia;
 La ocurrencia del accidente fue comunicada a la Oficina Central de Notificaciones de Praga (en adelante, COP) de la Inspección Ferroviaria a las 19:09 h, por el empleado autorizado del gestor de la infraestructura ferroviaria y del transporte ferroviario.
@@ -147,105 +151,108 @@ El conjunto de vías del tranvía dentro de la rotonda está formado por carrile
 
 ## Página 8
 
-En la explotación de la vía de tranvía y del transporte ferroviario en dicha vía se utiliza la conexión por radio para la comunicación entre la central de control y los conductores de los MTV. En el MTV líder del tren de tranvía estaba instalada una radio móvil de tipo MOTOROLA DATA BOX.
-2.2.5 trabajos realizados en el lugar del incidente y en sus inmediaciones;
-En el lugar del accidente no se realizaron trabajos antes ni durante la ocurrencia del incidente.
-2.2.6 activación del plan de emergencia para la vía férrea y secuencia de los acontecimientos;
-El conductor procedió de acuerdo con los procedimientos tecnológicos del gestor de la infraestructura ferroviaria y del transporte ferroviario: «Procedimiento para la notificación y registro de accidentes de tráfico e incidentes en el servicio», vigente desde el 01.07.2006.
-Inmediatamente después de la ocurrencia del accidente, el conductor notificó al dispetcher de DP Ostrava mediante la radio del vehículo la ocurrencia del accidente. El dispetcher notificó la ocurrencia del accidente a las 19:09 h a la COP de la Inspección Ferroviaria.
-2.2.7 activación del plan del Sistema Integrado de Rescate de la policía y del servicio de rescate sanitario y secuencia de los acontecimientos;
-En el accidente no fue necesaria la activación del Sistema Integrado de Rescate de la policía y del servicio de rescate sanitario, conforme al decreto n.º 376/2006 Coll.
-2.3 Muertes, lesiones y
- daños materiales
-2.3.1 en pasajeros y terceros, empleados del gestor de la infraestructura ferroviaria y del transportista, incluidas las personas en relación contractual;
-En el accidente no se produjeron daños a la salud de los pasajeros ni de los empleados del gestor de la infraestructura ferroviaria y del transportista.
-2.3.2 en las mercancías transportadas, equipajes y otros bienes;
-No se produjeron daños.
-2.3.3 en los vehículos ferroviarios, en los componentes de la vía de circulación y en el medio ambiente;
-En el MTV de tipo T 3 descarrilado, nº de registro 785, se produjeron daños por un importe de 26 860,- Kč.
+Para la explotación de la vía y del transporte ferroviario en la vía de tranvía se utiliza enlace radiotelefónico que sirve para la comunicación entre el aparato de despacho y los conductores de MTV. En el MTV de cabeza del tren de tranvía estaba instalada una estación de radio móvil tipo MOTOROLA DATA BOX.
+2.2.5 trabajos realizados en el lugar del suceso excepcional y en sus proximidades;
+En el lugar del SE no se realizaron trabajos antes ni durante la ocurrencia del mismo.
+2.2.6 activación del plan para el caso de suceso excepcional en la vía y secuencia de acontecimientos;
+El conductor actuó conforme a los procedimientos tecnológicos del explotador de la vía y del transporte ferroviario – «Procedimiento en la notificación y registro de accidentes de circulación y sucesos en la explotación», vigente desde el 01. 07. 2006.
+Inmediatamente después de la ocurrencia del SE, el conductor comunicó la ocurrencia del SE al despachador de DP Ostrava mediante la estación de radio de a bordo. El despachador comunicó la ocurrencia del SE a las 19:09 h en el COP DI.
+2.2.7 activación del plan del sistema integrado de emergencia de la policía y del servicio médico de emergencia y secuencia de acontecimientos;
+En el SE no fue necesaria, en el sentido del decreto n.º 376/2006 Sb., la activación del sistema integrado de emergencia de la policía y del servicio médico de emergencia en el sentido del decreto n.º 376/2006 Sb.
+2.3 Fallecimientos, lesiones y
+  daños materiales
+2.3.1 en los pasajeros y terceras personas, empleados del explotador de la vía y del transportista, incluidas personas en relación contractual;
+En el SE no se produjo daño a la salud en pasajeros ni en empleados del explotador de la vía y del transportista.
+2.3.2 en las cosas transportadas, equipajes y otros bienes;
+No se produjo daño.
+2.3.3 en los vehículos ferroviarios, componentes de la vía y en el medio ambiente;
+En el MTV descarrilado tipo T 3, n.º de registro 785, se produjo un daño por importe de 26 860,- Kč.
 2.4 Circunstancias externas
 2.4.1 condiciones meteorológicas y datos geográficos;
 
 ## Página 9
 
-En el momento de la ocurrencia del accidente era de noche, las condiciones meteorológicas no eran adversas, la superficie de los carriles estaba seca y la temperatura era de + 6°C.
-### 3 Registro de las explicaciones prestadas
-explicaciones prestadas
+En el momento de producirse el SU (suceso extraordinario) era de noche, las condiciones meteorológicas no eran adversas, el estado de los raíles era seco, la temperatura + 6 °C.
+### 3 Registro de las explicaciones facilitadas
+de las explicaciones facilitadas
 ### 3 Registro de
-3.1 Resumen de las explicaciones prestadas (sujetas a la protección de la identidad de las personas) y de la investigación técnica de las causas de la ocurrencia del incidente,
-3.1.1 empleados del gestor de la infraestructura ferroviaria y del transportista, incluidas las personas en relación contractual
-Conductor del tranvía: «... En la parada Náměstí Republikay me relevé con el conductor del turno matutino e inicié mi turno de tarde en el tranvía con el número de registro 1500, tipo KT8D5RN1, con destino al terminal Hlučínská. El conductor matutino, antes de finalizar su turno, solicitó el cambio de este tranvía debido a la avería del calefactor. El vehículo fue cambiado después de mi llegada al terminal Hlučínská y recibí el conjunto de vehículos con los números 789 - 785. Tras la entrega del conjunto, realicé inmediatamente una inspección visual del conjunto, tal como me impone la obligación según las normas de explotación D 1. Durante esta inspección óptica no detecté ninguna avería ni otro daño en el conjunto. Posteriormente, realicé lo mismo dos veces más durante el turno, tras la llegada al terminal Dubina, y tampoco registré ningún daño ni otra avería.
-Al salir de la parada J. Kotase, pasé a muy baja velocidad por el cruce de agujas y luego por la rotonda, ya que es un tramo donde son frecuentes las colisiones entre la vía del tranvía y la calzada con vehículos de carretera. Al salir de esta rotonda y volver a entrar en el cuerpo propio del tranvía antes de la parada Hotelový dům Hlubina, sentí de repente como si el vagón trasero del conjunto hubiera comenzado a frenar. Por ello, detuve inmediatamente el vehículo y fui a ver cuál era la causa. Comprobé que el vagón trasero había descarrilado. Informé inmediatamente del incidente a la central de control de tráfico de DP Ostrava, a. s. No se produjeron lesiones personales.»
-3.1.2 otras personas (extracto de los hechos relacionados con el accidente, indicando el lugar, la fecha, la hora y el nombre del documento en el que se incluyen las explicaciones de otras personas).
-No hubo otras personas implicadas en la ocurrencia del accidente.
+3.1 Resumen de las explicaciones facilitadas (sujeto a la protección de la identidad de las personas) y sobre
+  la investigación técnica
+de las causas de la producción del suceso extraordinario,
+3.1.1  empleados del gestor de la infraestructura y del transportista, incluidas las personas en relación contractual
+Conductor del tranvía -" ….En la parada Náměstí Republiky me relevé con el conductor del turno de mañana e inicié en el tranvía con número de matrícula 1500, tipo KT8D5RN1, mi turno de tarde con dirección a la maniobra Hlučínská. El conductor de la mañana, antes de finalizar su turno, solicitó el cambio de este tranvía por la avería del calefactor. El vehículo fue cambiado tras mi llegada a la maniobra Hlučínská y recibí una composición con los números de vehículos 789 - 785. Tras la entrega de la composición, realicé inmediatamente una inspección visual de la composición, tal como me impone la obligación según las normas de explotación D 1. En dicha inspección visual no detecté ningún defecto ni otro daño en la composición. A continuación, realicé lo mismo durante el turno otras dos veces tras la llegada a la maniobra Dubina y tampoco registré ningún daño ni otro defecto.
+Al circular desde la parada J. Kotase, pasé muy despacio por el cruzamiento de agujas y posteriormente también por la rotonda, ya que es un tramo donde en el cruce entre la vía de tranvía y la calzada son frecuentes las colisiones con vehículos rodados. Al salir de esta rotonda y volver a incorporarme a la propia plataforma de tranvía antes de la parada Hotelový dům Hlubina, sentí de repente como si el vehículo trasero de la composición comenzara a frenar. Por ello me detuve inmediatamente y fui a comprobar cuál era la causa. Comprobé que el vehículo trasero se había descarrilado. Informé inmediatamente del suceso extraordinario al centro de despacho de tráfico de DP Ostrava, a. s.
+No hubo personas heridas."
+3.1.2 otras personas (extracto de los hechos relativos al SU, indicar el lugar, la fecha, la hora y el nombre del documento en el que se hace constar la explicación de la otra persona).
+No hubo otras personas implicadas en la producción del SU.
 3.2 Sistema de garantía de la seguridad
-3.2.1 organización general y forma en que se otorgan y ejecutan las instrucciones;
-La explotación de la vía de tranvía se realiza sobre la base de la Autorización Oficial otorgada por la Administración Ferroviaria de Ostrava, Departamento de Transporte, el 15.12.2005, bajo el nº de expediente OD/5836/2005/Pk, y de la Licencia para la explotación del transporte ferroviario en la vía de tranvía en el territorio de la ciudad de Ostrava en la línea n.º 12, nº de expediente OD/2159/2006/Pk, otorgada por la Administración Ferroviaria de Ostrava, Departamento de Transporte, el 22 de junio de 2006, a la persona jurídica – transportista con la razón social «Dopravní podnik Ostrava a. s.».
+3.2.1 organización marco y el modo en que se emiten y ejecutan las instrucciones;
+La explotación de la vía de tranvía se realiza en virtud de la Autorización Administrativa concedida por la Autoridad Ferroviaria Administrativa de Ostrava, departamento de transportes, el 15. 12. 2005 con el n.º OD/5836/2005/Pk y de la Licencia para la explotación del transporte ferroviario en la vía de tranvía en el territorio de la ciudad de Ostrava en la línea n.º 12, n.º OD/2159/2006/Pk, concedida por la autoridad ferroviaria administrativa de Ostrava, departamento de transportes, el 22 de junio de 2006 a la persona jurídica – transportista con la denominación social «Dopravní podnik Ostrava a. s.».
 
 ## Página 10
 
-El mantenimiento de los tranvías se realiza de acuerdo con los procedimientos tecnológicos del transportista «Directriz – Vehículos sobre raíles n.º 1/2005,», anexo n.º 1 «Directriz interna para el mantenimiento de tranvías en la Empresa de Transporte de Ostrava, S. A.». En dicha directriz no se ha incorporado la obligación de volver a medir los pares de ruedas tras un descarrilamiento, pero sí se ha incorporado en el capítulo «Mantenimiento de las fases SP, VP, inspecciones técnicas y revisiones» la obligación de realizar una inspección técnica extraordinaria tras un accidente o un suceso extraordinario con influencia en su aptitud técnica, o en el alcance correspondiente a la reparación de las partes estructurales cuya funcionalidad influya en la seguridad de la explotación de la vía o del transporte ferroviario.
-3.2.2 requisitos para el personal del explotador de la vía y del transportista y su cumplimiento;
-Los requisitos de aptitud sanitaria y profesional del personal del explotador de la vía y del transportista están establecidos en el artículo 22, apartado 1, letra c), y el artículo 35, apartado 1, letras c) y f), de la ley n.º 266/1994 Coll., que desarrolla ulteriormente las disposiciones del decreto n.º 101/1995 Coll., por el que se aprueba el Reglamento sobre la aptitud sanitaria y profesional de las personas en la explotación de la vía y del transporte ferroviario, en su versión vigente (en lo sucesivo, decreto n.º 101/1995 Coll.).
-El dictamen sobre la aptitud sanitaria del conductor del tranvía fue emitido por el médico de la prevención laboral el 25 de abril de 2006, con validez por 1 año.
-El conductor del tranvía es titular de un Certificado de aptitud para la conducción de tranvías válido, núm. 17-3090, emitido por la Autoridad Administrativa Ferroviaria de Ostrava el 17 de julio de 1996.
-Los requisitos de aptitud profesional del personal del explotador están establecidos en los procedimientos tecnológicos del explotador de la vía y del transporte ferroviario - norma interna de DPO Ostrava «Principios para la obtención y verificación de la aptitud de los conductores de vehículos de DPO Ostrava, S. A., aprobada por decisión del director de la empresa el 1 de diciembre de 2004, con efecto desde el 1 de enero de 2005.
-3.2.3 procedimientos de control interno de la seguridad y sus resultados;
-El control interno se realiza de conformidad con el artículo 46, apartado 2, letra a), del decreto n.º 173/1995 Coll., por el que se aprueba el reglamento de circulación de las vías.
-Según «Directriz – Vehículos sobre raíles n.º 1/2005,» anexo n.º 1: «Directrices internas para el mantenimiento de tranvías en DPO, S. A.» el capítulo «Mantenimiento de las fases SP, VP, inspecciones técnicas y revisiones»
-3.2.4 interfaces entre las distintas partes interesadas y las componentes de la ruta de transporte;
-El propietario de la vía de tranvía y el explotador de la vía y del transporte ferroviario es la Empresa de Transporte de Ostrava, S. A., con domicilio en Poděbradova 494/2, Ostrava–Moravská Ostrava, código postal 701 71.
-3.3 Marco jurídico y otras disposiciones
-3.3.1 normativa comunitaria y nacional aplicable;
-ley n.º 266/1994 Coll., sobre vías férreas, en su versión posterior
+El mantenimiento de los tranvías se realiza según los procedimientos tecnológicos del transportista "Directriz – Vehículos sobre raíles n.º 1/2005,", anexo n.º 1 "Directriz interna para el mantenimiento de tranvías en Dopravní podnik Ostrava a. s.". En la directriz mencionada no está incorporada la obligación de volver a medir el bogie tras el descarrilamiento, pero sí está incorporada en el capítulo "Mantenimiento de los niveles SP, VP, controles técnicos y revisiones" la obligación de realizar un control técnico extraordinario después de un accidente o de un suceso extraordinario que afecte a su idoneidad técnica, o en el alcance correspondiente a la reparación de partes estructurales cuya funcionalidad influya en la seguridad de la explotación de la vía o del transporte ferroviario.
+3.2.2 requisitos de los empleados del explotador de la vía y del transportista y su aplicación;
+Los requisitos de idoneidad sanitaria y profesional de los empleados del explotador de la vía y del transportista vienen dados por lo dispuesto en el § 22 apartado 1 letra c) y el § 35 apartado 1 letra c) y f) de la ley n.º 266/1994 Sb., que desarrollan posteriormente las disposiciones del decreto n.º 101/1995 Sb., por el que se aprueba el Reglamento de idoneidad sanitaria y profesional de las personas para la explotación de la vía y del transporte ferroviario, en su redacción vigente (en adelante, decreto n.º 101/1995 Sb.).
+El dictamen sobre la idoneidad sanitaria del conductor de tranvía fue emitido por el médico de atención preventiva de la empresa el 25. 04. 2006 con una validez de 1 año.
+El conductor de tranvía es titular de un Certificado de Idoneidad para la conducción de tranvías válido, n.º de expediente 17-3090, emitido por la Oficina Administrativa Ferroviaria de Ostrava el 17. 07. 1996.
+Los requisitos de idoneidad profesional de los empleados del explotador están establecidos por los procedimientos tecnológicos del explotador de la vía y del transporte ferroviario – norma interna de DP Ostrava "Principios para la obtención y verificación de la idoneidad de los conductores de vehículos de DP Ostrava a. s.", aprobada por decisión del director de la compañía el 01. 12. 2004, con efectos a partir del 1 de enero de 2005.
+3.2.3 procedimientos de control interno de seguridad y sus resultados;
+El control interno se realiza de conformidad con el § 46 apartado 2 letra a) del decreto n.º 173/1995 Sb., por el que se aprueba el Reglamento de circulación de las vías férreas.
+Según la "Directriz – Vehículos sobre raíles n.º 1/2005,", anexo n.º 1: "Directrices internas para el mantenimiento de tranvías en DPO a. s." el capítulo "Mantenimiento de los niveles SP, VP, controles técnicos y revisiones"
+3.2.4 interfaces entre los distintos sujetos implicados y los componentes de la vía de circulación;
+El propietario de la vía de tranvía y explotador de la vía y del transporte ferroviario es Dopravní podnik Ostrava a. s., con domicilio en Poděbradova 494/2, Ostrava–Moravská Ostrava, CP 701 71.
+3.3 Regulación jurídica y de otro tipo
+3.3.1 normativa jurídica comunitaria y nacional aplicable;
+ley n.º 266/1994 Sb., de vías férreas, en su redacción vigente
 –
-decreto n.º 101/1995 Coll., por el que se aprueba el Reglamento sobre la aptitud sanitaria y profesional de las personas en la explotación de la vía y del transporte ferroviario, en su versión posterior
-–
-decreto n.º 173/1995 Coll., por el que se aprueba el reglamento de circulación de las vías, en su versión posterior
-–
-decreto n.º 177/1995 Coll., por el que se aprueba el reglamento de construcción y técnica de las vías, en su versión posterior
-decreto n.º 376/2006 Coll., sobre el sistema de seguridad de la explotación de la vía y del transporte ferroviario y los procedimientos en caso de suceso extraordinario en las vías
-ley n.º 361/2000 Coll., sobre la circulación en las vías terrestres, en su versión posterior
-–
-ley n.º 247/2000 Coll., sobre la obtención y mejora de la aptitud profesional para la conducción de vehículos a motor
-–
-3.3.2 otras normas, por ejemplo, reglamento de explotación, reglamento de trabajo, normas de mantenimiento, normas técnicas vigentes y otras normas internas;
-Reglamento de explotación D 1 para la explotación de vehículos ferroviarios sobre raíles, vigente desde el 01. 09.
-–
+decreto n.º 101/1995 Sb., por el que se aprueba el Reglamento de idoneidad sanitaria y profesional de las personas para la explotación de la vía y del transporte ferroviario, en su redacción vigente
+
+## Página 11
+
+decreto n.º 173/1995 Sb., por el que se aprueba el Reglamento de Circulación Ferroviaria, en su redacción posterior –
+de disposiciones
+decreto n.º 177/1995 Sb., por el que se aprueba el Reglamento de Construcción y Técnico Ferroviario, en su redacción –
+posterior de disposiciones
+decreto n.º 376/2006 Sb., sobre el sistema de seguridad de la explotación de la vía y del transporte ferroviario y los procedimientos en caso de ocurrencia de sucesos excepcionales en las vías
+ley n.º 361/2000 Sb., sobre la circulación en las vías de comunicación terrestre, en su redacción –
+posterior de disposiciones
+ley n.º 247/2000 Sb., sobre la obtención y perfeccionamiento de la cualificación profesional para la conducción de vehículos –
+motorizados
+3.3.2 otras disposiciones, p. ej. reglamento de explotación, reglamento de trabajo, disposiciones de mantenimiento, normas técnicas vigentes y otras disposiciones internas;
+Reglamento de Explotación D 1 para la explotación de vehículos ferroviarios sobre raíles, vigente a partir del 01. 09. –
 2000
-Directriz – Vehículos sobre raíles n.º 1/2005, anexo n.º 1: «Directriz interna para el mantenimiento de tranvías en la Empresa de Transporte de Ostrava, S. A.»
-–
-3.4 Actividad de los vehículos ferroviarios y
-  de los dispositivos técnicos
-3.4.1 sistema de gestión, señalización y protección, incluidos los dispositivos de registro automático de datos;
-La circulación de un vehículo ferroviario en la vía de tranvía se rige, a tenor del artículo 28, apartado 2) del decreto 173/1995
-Coll., por la distancia mutua según las condiciones de visibilidad.
+Directriz – Vehículos sobre raíles n.º 1/2005, anexo n.º 1: "Directriz interna de empresa para el mantenimiento de tranvías en Dopravní podnik Ostrava a. s." –
+3.4 Actividad de los vehículos ferroviarios y de las instalaciones técnicas
+3.4.1 sistema de mando, señalización y seguridad, incluidos los dispositivos de registro automático de datos;
+La circulación de un vehículo ferroviario de la vía de tranvía se regula, en el sentido del apartado 2) del § 28 del decreto 173/1995 Sb., en cuanto a la distancia mutua según las condiciones de visibilidad.
 3.4.2 componentes de la vía;
-La línea número 12 se dirige desde el terminal Dubina hasta el terminal Hlučínská y viceversa. El lugar del accidente (MU) se encuentra detrás de una compleja rotonda, donde el conjunto de vías se ramifica progresivamente mediante desvíos desde la calle Horní hasta la calle Dr. Martínka y la continuación de la calle Horní. Alrededor del conjunto de vías hay una rotonda de vías terrestres ramificadas hacia las mismas calles.
-El conjunto de vías del tranvía en el interior de la rotonda está formado por carriles con canalón, que tras esta rotonda pasan a formar parte de un cuerpo de tranvía independiente constituido por carriles de perfil S 49.
+La línea n.º 12 discurre desde la terminal Dubina hasta la terminal Hlučínská y de vuelta. El lugar del MU se encuentra detrás de una compleja rotonda, donde la vía se ramifica progresivamente mediante desvíos desde la calle Horní hasta la calle Dr. Martínka y hasta la continuación de la calle Horní. Alrededor de la vía hay una rotonda de vías de comunicación terrestre distribuida hacia las mismas calles.
+La vía de tranvía en el interior de la rotonda está formada por raíles con canal, que tras dicha rotonda pasan a un cuerpo independiente de tranvía formado por raíles de perfil S 49.
 3.4.3 medios de comunicación;
-La vía de tranvía está equipada con el sistema de radio de vía MOTOROLA DATA BOX.
+La línea de tranvía está equipada con un sistema de radio de línea MOTOROLA DATA BOX.
 3.4.4 vehículos ferroviarios, incluidos los dispositivos de registro automático de datos;
-El vehículo MTV con número de registro 789 está equipado, a tenor del anexo n.º 3, parte IV, apartados 33 y 34 del decreto
-–
-n.º 173/1995 Coll., con un tacógrafo núm. 65535 con registro electrónico de los últimos 545 m recorridos. Los datos se registraron en la tarjeta de memoria núm. 0232.
-La anotación sobre la última parada se encuentra a 186 m antes del final del registro en la parada J. Kotase.
-Posteriormente se registra un aumento de la velocidad hasta 19 km/h, una disminución gradual hasta 14 km/h y continúa el aumento hasta 30 km/h a 60 m antes del final del registro. Seguidamente se produce una disminución hasta 20 km/h a 28 metros antes del final del registro, un aumento hasta 22 km/h a 26 metros antes del final del registro y una disminución gradual de la velocidad hasta 13 km/h, momento en el que se produce una parada inmediata. La rueda cayó a una distancia de 6,4 metros antes del lugar de la parada a una velocidad de 17
-km/h. No se superó la velocidad máxima permitida en el lugar del accidente (MU).
-3.5 Documentación sobre el
-  sistema de explotación
-3.5.1 medidas adoptadas por el personal del explotador de la vía y del transportista, en lo que respecta a la gestión de la señalización y la protección del tráfico;
-La circulación de un vehículo ferroviario en la vía de tranvía se rige por la distancia mutua según las condiciones de visibilidad, sin otras medidas.
-3.5.2 intercambio de mensajes verbales en relación con un suceso extraordinario, incluidos los documentos del dispositivo de grabación;
-Se puede considerar como el primer mensaje comprobado en relación con la aparición del accidente (MU) la notificación del descarrilamiento realizada por el conductor del tren de tranvías al despachador de DPO Ostrava mediante un mensaje verbal por la radio del vehículo.
-3.5.3 medidas adoptadas para la protección y seguridad del lugar del suceso extraordinario;
-Las medidas de protección y seguridad del lugar del accidente (MU) fueron aseguradas por el conductor del tren de tranvías hasta la llegada de la persona autorizada y con la aptitud profesional correspondiente del explotador de la vía y del transporte ferroviario. Tras la llegada de la persona autorizada y con la aptitud profesional correspondiente del explotador de la vía y del transporte ferroviario, las medidas de protección y seguridad del lugar del accidente (MU) fueron aseguradas por la persona autorizada.
+El MTV con número de registro 789 es, en el sentido del apartado 33 y 34 de la parte IV del anexo n.º 3 del decreto
+
+## Página 12
+
+n.º 173/1995 Sb., equipado con tacógrafo n.º 65535 con registro electrónico de datos de los últimos 545 m recorridos. Los datos fueron registrados en la tarjeta de memoria n.º 0232.
+La anotación de la última parada está a 186 m del final del registro, en la parada J. Kotase. A continuación se registra el aumento de velocidad a 19 km/h, la disminución gradual a 14 km/h y continúa con el aumento a 30 km/h a 60 m del final del registro. Sigue una disminución a 20 km/h a 28 metros del final del registro, un aumento a 22 km/h a 26 metros del final del registro y una disminución progresiva de la velocidad a 13 km/h, momento en el que se produjo una parada inmediata. La rueda se desprendió a una distancia de 6,4 metros del lugar de parada a una velocidad de 17 km/h. No se superó la velocidad máxima permitida en el lugar del MU.
+3.5 Documentación sobre
+  el sistema de explotación
+3.5.1 medidas adoptadas por los empleados del gestor de la infraestructura y del transportista en lo que respecta a la señalización y la seguridad del tráfico;
+La circulación del vehículo ferroviario de la infraestructura de tranvía se regula en función de la distancia mutua según las condiciones de visibilidad, sin medidas adicionales.
+3.5.2 intercambio de comunicaciones verbales en relación con el suceso excepcional, incluidas las pruebas del dispositivo de registro;
+Como primera comunicación acreditada en relación con la aparición del MU puede considerarse la notificación del descarrilamiento realizada por el conductor del tren de tranvía al despachador de DP Ostrava mediante comunicación verbal por la radio del vehículo.
+3.5.3 medidas adoptadas para la protección y la seguridad del lugar del suceso excepcional;
+Las medidas de protección y seguridad del lugar del MU fueron aseguradas por el conductor del tren de tranvía hasta la llegada de la persona autorizada y competente del gestor de la infraestructura y del transporte ferroviario. Tras la llegada de la persona autorizada y competente del gestor de la infraestructura y del transporte ferroviario, las medidas de protección y seguridad del lugar del MU fueron aseguradas por la persona autorizada.
 3.6 Condiciones laborales, sanitarias y de explotación
-3.6.1 horario de trabajo del personal del explotador de la vía y del transportista que fue parte en el suceso;
-El conductor del tren de tranvías de la línea 12, turno 202, comenzó su turno el 2 de diciembre de 2006 a las 12:26 h, con finalización prevista del turno el 2 de diciembre de 2006, a las 22:58 h. El descanso previo al turno fue conforme a lo dispuesto en el artículo 90 del Código del Trabajo. El fondo de tiempo de trabajo está determinado por el calendario del servicio por turnos.
-3.6.2 estado de salud y situación personal que influyeron en el suceso extraordinario, incluido el estrés físico o psicológico;
+3.6.1 jornada laboral de los empleados del gestor de la infraestructura y del transportista que participaron en el suceso;
+El conductor del tren de tranvía de la línea 12, turno 202, comenzó la jornada el 02. 12. 2006 a las 12:26 h, con la finalización prevista de la jornada el 02. 12. 2006 a las 22:58 h. El descanso antes de la jornada fue conforme a lo dispuesto en el § 90 del Código del Trabajo. La jornada laboral viene determinada por el cuadrante de servicio por turnos.
+3.6.2 estado de salud y situación personal que influyeron en el suceso excepcional, incluido el estrés físico o psicológico;
 
 ## Página 13
+
 
 No se detectaron el estado de salud y la situación personal del conductor que pudieran tener influencia en el accidente, incluido el estrés físico o psicológico del conductor del tren de tranvía.
 Se realizó una prueba de aliento orientativa al conductor del tren de tranvía para detectar la ingesta de alcohol, llevada a cabo por la persona autorizada del operador de la infraestructura ferroviaria y del transporte ferroviario en el lugar del accidente, con resultado negativo.
@@ -263,6 +270,7 @@ El transportista no realizó una inspección técnica fuera del intervalo tempor
 
 ## Página 14
 
+
 «Las inspecciones técnicas fuera del intervalo temporal o kilométrico establecido en el anexo nº 5, que forma parte de este decreto, se aplicarán a los vehículos ferroviarios tras un accidente o un evento extraordinario que afecte a su aptitud técnica o en el alcance correspondiente a la reparación de las partes estructurales cuya funcionalidad influye en la seguridad de la explotación de la vía o del transporte ferroviario.»
 ### 4 Análisis y conclusiones
 4.1 Descripción final del evento extraordinario
@@ -279,6 +287,7 @@ Tras el accidente, el vehículo fue estacionado en el taller de Moravská Ostrav
 La causa debe buscarse ya tras el accidente de tráfico del vehículo de tranvía objeto del presente caso del
 
 ## Página 15
+
 
 el 25 de septiembre de 2006, cuando se produjo una colisión con un camión (el tranvía descarriló como consecuencia del impacto), el descarrilamiento probablemente dañó las ruedas del primer bogie, tal como lo demostró también la inspección de las ruedas del segundo eje (disco deformado) tras el accidente del 2 de diciembre de 2006. A pesar del largo periodo de inmovilización del tranvía MTV nº 785 fuera de servicio debido a la reparación de la caja del vehículo dañada tras el accidente del 25 de septiembre de 2006, el explotador del transporte ferroviario no inspeccionó ni midió el par de ruedas del vehículo ferroviario de vía tranviaria para verificar si se habían superado los valores límite de las dimensiones establecidos en los procedimientos tecnológicos uniformes del transportista, mencionados en el anexo nº 1 de la Directiva interna de mantenimiento de tranvías de DPO a. s.
 
@@ -304,39 +313,24 @@ La causa debe buscarse ya tras el accidente previo del vehículo ferroviario del
 
 ## Página 16
 
-y probablemente se dañaron las ruedas del primer bogie, tal como lo demostró también la inspección de las ruedas del segundo eje (disco deformado) realizada tras el accidente del 2 de diciembre de 2006. Tras el accidente del 25 de septiembre de 2006, el explotador del transporte ferroviario no garantizó la inspección técnica tal como exige el apartado 3 del artículo 64 del Decreto nº 173/1995 Coll., por el que se aprueba el reglamento de circulación de las vías férreas, en su redacción posterior, donde se establece: «Las inspecciones técnicas fuera del intervalo temporal o kilométrico establecido en el anexo nº 5, que forma parte de este decreto, se aplicarán a los vehículos ferroviarios tras un accidente o un incidente extraordinario que afecte a su aptitud técnica o en el alcance correspondiente a la reparación de las partes estructurales cuya funcionalidad influye en la seguridad de la explotación de la vía férrea o del transporte ferroviario».
-
-4.3.3 causas provocadas por el marco normativo y por el uso del sistema de garantía de la seguridad;
-
-No se detectaron
-
+y probablemente se produjo daño en las ruedas del primer bogie, como también demostró la inspección de las ruedas del segundo eje (disco deformado) realizada después del MU el 02. 12. 2006. Después del MU del 25. 09. 2006, el operador del transporte ferroviario no aseguró la inspección técnica tal como lo establece el § 64 apartado 3) del decreto nº 173/1995 Sb., por el que se dicta el Reglamento de circulación ferroviaria, en la redacción de las disposiciones posteriores, donde se indica: «Están sujetos a la inspección técnica, además del intervalo temporal o kilométrico establecido en el anexo nº 5, que forma parte de este decreto, los vehículos ferroviarios después de un accidente o de una incidencia que afecte a su idoneidad técnica o en la medida correspondiente a la reparación de partes estructurales cuya funcionalidad influya en la seguridad de la explotación de la vía o del transporte ferroviario.»
+4.3.3 causas que son provocadas por el marco normativo y por el uso del sistema de garantía de seguridad;
+No se han detectado
 4.4 Hallazgos complementarios
-
-4.4.1 deficiencias y omisiones detectadas durante la determinación de las causas y las circunstancias de la aparición del incidente extraordinario, que sin embargo no son relevantes para las conclusiones sobre las causas;
-
-La Inspección Ferroviaria no detectó deficiencias ni omisiones en la determinación de las causas y las circunstancias de la aparición del accidente por parte de la persona autorizada y técnicamente cualificada del explotador de la vía férrea y del explotador del transporte ferroviario.
-
+4.4.1 deficiencias y omisiones detectadas durante la investigación de las causas y circunstancias de la incidencia, que sin embargo no son relevantes para las conclusiones sobre las causas;
+La Inspección Ferroviaria no detectó deficiencias y omisiones en la investigación de las causas y circunstancias de la incidencia por parte de la persona designada, profesionalmente competente, del operador de la vía y del operador del transporte ferroviario.
 ### 5 Medidas adoptadas
-
 ### Medidas adoptadas
-
-## 5
-
-5.1 Relación de las medidas que ya se han adoptado o tomado como consecuencia del incidente extraordinario;
-
-En el «Evaluación de las causas y las circunstancias de la aparición del incidente extraordinario», ref. nº 06/477, de fecha 12 de febrero de 2007, el explotador de la vía férrea y del transporte ferroviario indica en la parte «Medidas»: «Control exhaustivo y reparación tras un incidente extraordinario del vehículo».
-
-Las medidas adoptadas por el explotador del transporte ferroviario son insuficientes. No se ha adoptado ninguna medida para subsanar el hecho de que tras el incidente extraordinario del 25 de septiembre de 2006 no se realizó la inspección técnica fuera del intervalo temporal o kilométrico tal como exige el apartado 3 del artículo 64 del Decreto nº 173/1995 Coll., por el que se aprueba el reglamento de circulación de las vías férreas, en su redacción posterior.
-
+## 5 
+5.1 Lista de medidas que ya se han tomado o adoptado como consecuencia de la incidencia;
+En la «Evaluación de las causas y circunstancias de la incidencia», ref. nº 06/477 de fecha 12. 02. 2007, del operador de la vía y del transporte ferroviario, en la sección «Medidas» se indica: «Inspección y reparación rigurosa del vehículo después de la incidencia». Las medidas adoptadas por el operador del transporte ferroviario son insuficientes. No se ha adoptado ninguna medida en relación con el hecho de que no se realizara la inspección técnica después de la incidencia del 25. 09. 2006 fuera del intervalo temporal o kilométrico, tal como lo establece el § 64 apartado 3) del decreto nº 173/1995 Sb., por el que se dicta el Reglamento de circulación ferroviaria, en la redacción de las disposiciones posteriores.
 ### 6 Recomendaciones de seguridad
-
 ### Recomendaciones de seguridad
-
-## 6
-
-6.1 Las recomendaciones de seguridad se dirigen a la Autoridad Ferroviaria y, si la naturaleza de la recomendación lo requiere, a otros órganos o personas;
+## 6 
+6.1 Las recomendaciones de seguridad están dirigidas a la Autoridad Ferroviaria y, si lo requiere
 
 ## Página 17
+
 
 La Inspección Ferroviaria no emitió recomendaciones de seguridad basándose en los resultados de la investigación de las causas y las circunstancias de la aparición del accidente.
 
@@ -356,25 +350,25 @@ director de la Inspección Territorial
 Ostrava
 Ostrava
 
-
 ## Página 18
+
 
 Foto nº 1: Lugar de caída de la rueda.
 Foto nº 2: Descarrilamiento del MTV tras la caída de la rueda.
 
-
 ## Página 19
+
 
 Foto nº 3: Eje del MTV tras la caída de la rueda y el descarrilamiento.
 Foto nº 4: Detalle del bogie descarrilado.
 
-
 ## Página 20
+
 
 Foto nº 5: Rueda caída.
 
-
 ## Página 21
+
 
 
 ## Página 22

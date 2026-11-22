@@ -10,13 +10,14 @@ chars: 542082
 ratio_longitud: 1.25
 tokens_in: 247487
 tokens_out: 173934
-verificacion: revisar
-notas_cifras: ["bloque 1: cifras largas: 1/48", "bloque 2: original bilingüe: se compara contra el idioma principal (CS)", "bloque 3: original bilingüe: se compara contra el idioma principal (CS)", "bloque 4: cifras cortas: 2/120", "bloque 5: original bilingüe: se compara contra el idioma principal (CS)", "bloque 9: original bilingüe: se compara contra el idioma principal (CS)"]
-avisos: ["bloque 9: ratio 1.67", "bloque 41: ratio 1.61"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 6: original bilingüe: se compara contra el idioma principal (CS); cifras largas: 1/14", "página 7: original bilingüe: se compara contra el idioma principal (CS)", "página 8: original bilingüe: se compara contra el idioma principal (EN)", "página 10: original bilingüe: se compara contra el idioma principal (PT)", "página 13: original bilingüe: se compara contra el idioma principal (PL)", "página 14: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -39,13 +40,13 @@ IČ: 75009561
 mail@di.gov.cz
 tel.: +420 736 521 003
 
-
 ## Página 2
+
 
 El presente informe final es público y todos los hechos en él expuestos están respaldados por el expediente de investigación. La Drážní inspekce no se pronuncia, en el marco de la investigación, sobre la responsabilidad penal o administrativa, por lo que no puede deducirse de este informe final. La investigación se llevó a cabo de forma independiente con el objetivo de determinar las causas y circunstancias del suceso ferroviario.
 
-
 ## Página 3
+
 
 ### 1 RESUMEN
 Fuente: Drážní inspekce
@@ -67,8 +68,8 @@ Causa inmediata:
 superación de la velocidad máxima permitida de 40 km·h-1 en el ámbito de las agujas adyacentes a la señal principal (de entrada) 2L de la estación de ferrocarril de Hustopeče nad Bečvou, debida al incumplimiento de las instrucciones expresadas por las señales:
 ◦«Espere velocidad 40 km/h», indicada por la señal principal (de sección) 2-173 del bloqueo automático, que preseñalizaba la velocidad de 40 km·h-1 desde la siguiente señal principal, que era la señal de entrada 2L de la estación de ferrocarril de Hustopeče nad Bečvou, y
 
-
 ## Página 4
+
 
 ◦«Velocidad 40 km/h y vía libre», indicada por la señal principal (de entrada) 2L de la estación de ferrocarril de Hustopeče nad Bečvou,
 por el instructor-maquinista y el maquinista del tren Pn 52690, sobre la base de una suposición incorrecta (rutinaria) acerca de las señales indicadas por la señal principal (de sección) 2-173 del bloqueo automático y la señal principal (de entrada) 2L de la estación de ferrocarril de Hustopeče nad Bečvou, las cuales se confirmaron mutuamente sin verificar visualmente las señales efectivamente indicadas por dichas señales y actuar en consecuencia.
@@ -76,8 +77,8 @@ La Drážní inspekce no detectó ningún factor contribuyente.
 La Drážní inspekce no detectó ninguna causa sistémica.
 La Drážní inspekce no emitió ninguna recomendación de seguridad.
 
-
 ## Página 5
+
 
 ### SUMMARY
 28th February 2025, 11:37 (10:37 GMT).
@@ -120,8 +121,8 @@ Systemic factor:
 none.
 Recommendation: not issued.
 
-
 ## Página 6
+
 
 ## Índice
 1 RESUMEN........................................................................................................................3
@@ -165,6 +166,7 @@ SUMMARY.........................................................................
 
 ## Página 7
 
+
 4.2.2 Factores o consecuencias derivados de la instalación y puesta en servicio de vehículos ferroviarios, infraestructura ferroviaria o instalaciones técnicas...................................................................145
 4.2.3 Factores o consecuencias relacionados con fabricantes de vehículos ferroviarios u otros proveedores de productos ferroviarios.........................................................................145
 4.2.4 Factores o consecuencias derivados del mantenimiento y modificación de vehículos ferroviarios o instalaciones técnicas................................................................................................146
@@ -194,8 +196,8 @@ SUMMARY.........................................................................
 6 RECOMENDACIONES DE SEGURIDAD.................................................................................166
 ANEXOS..........................................................................................................................168
 
-
 ## Página 8
+
 
 ### Lista de siglas y símbolos utilizados
 AB
@@ -271,8 +273,8 @@ Organisation intergouvernementale pour les transports internationaux ferroviaire
 O18
 departamento del sistema de seguridad de la explotación de la infraestructura de Správa železnic, organización estatal
 
-
 ## Página 9
+
 
 PČR
 Policía de la República Checa
@@ -355,8 +357,8 @@ paso a nivel
 žst.
 estación ferroviaria
 
-
 ## Página 10
+
 
 ### Lista de siglas de la legislación, normas y normativa interna utilizadas
 Directiva (UE) 2007/59/CE
@@ -372,8 +374,8 @@ Reglamento de la Comisión (UE) 2016/919 REGLAMENTO DE LA COMISIÓN (UE) 2016/91
 Reglamento de la Comisión (UE) 2018/762 REGLAMENTO DE LA COMISIÓN (UE) 2018/762 DE DELEGACIÓN DE 8 de marzo de 2018 por el que se establecen métodos comunes de seguridad relativos a los requisitos del sistema de garantía de seguridad de conformidad con la Directiva del Parlamento Europeo y del Consejo (UE) 2016/798 y se derogan los Reglamentos de la Comisión (UE) n.º 1158/2010 y (UE) n.º 1169/2010, en la versión vigente en el momento de la ocurrencia del SU
 Reglamento de la Comisión (UE) 2019/779 REGLAMENTO DE EJECUCIÓN DE LA COMISIÓN (UE) 2019/779 de 16 de mayo de 2019 por el que se adoptan disposiciones detalladas relativas al sistema de expedición de certificados para los sujetos responsables del mantenimiento de vehículos de conformidad con la Directiva del Parlamento Europeo y del Consejo (UE) 2016/798 y se deroga el Reglamento de la Comisión (UE) n.º 445/2011, en la versión vigente en el momento de la ocurrencia del SU
 
-
 ## Página 11
+
 
 ley n.º 187/2006 Sb.
 ley n.º 187/2006 Sb., del seguro por enfermedad, en la versión vigente en el momento de la ocurrencia del SU
@@ -406,6 +408,7 @@ Regolamento Internazionale Veicoli (Convenio sobre el uso mutuo de vagones de me
 
 ## Página 12
 
+
 VSP
 Convenio general sobre el uso de vagones de carga, en la redacción vigente en el momento de la ocurrencia de la MU
 reglamento interno SŽ D1
@@ -432,41 +435,40 @@ reglamento interno del transportista ČDC, «Directriz KVs3-B-2010 Ejercicio y m
 Directriz KVs-3-B-ČDC-CZ
 reglamento interno del transportista ČDC, «Directriz KVs-3-B-ČDC-CZ SMS-CDC-CZ-511 Ejercicio y manejo de los equipos de freno de los vehículos ferroviarios de vía», en la redacción vigente a partir del 1. 7. 2024 y también en el momento de la ocurrencia de la MU
 
-
 ## Página 13
+
 
 Directriz KVs5-B-2010
 reglamento interno del transportista ČDC, «Directriz KVs5-B-2010 Mantenimiento y reparación de vagones ferroviarios de ČD Cargo, a.s.», en la redacción de la modificación n.º 3 vigente a partir del 1. 1. 2021 hasta el 30. 12. 2024, (redacción vigente en el momento de la realización de la inspección técnica de la parte de TDV incluida en la composición del tren Pn 52690)
 Directriz KVs-5-B-ČDC-CZ
 reglamento interno del transportista ČDC, «Directriz KVs-5-B-ČDC-CZ (KVs5-B-2010) Mantenimiento y reparación de vagones ferroviarios de ČD Cargo, a.s.», en la redacción de la modificación n.º 4 vigente a partir del 1. 1. 2025, es decir, en la redacción vigente en el momento de la ocurrencia de la MU (redacción vigente en el momento de la realización de la inspección técnica de la parte restante de TDV incluida en la composición del tren Pn 52690)
 
-
 ## Página 14
 
 ### 2 INVESTIGACIÓN Y SUS RELACIONES
 ### 2.1 Decisión de iniciar la investigación
-El DI decidió iniciar la investigación de la MU en cuestión el 28. 2. 2025.
+La DI decidió iniciar la investigación de la MU en cuestión el 28. 2. 2025.
 ### 2.2 Fundamentación de la decisión de iniciar la investigación
-El DI decidió investigar la MU en cuestión sobre la base de su gravedad, de los impactos de la MU en el ejercicio seguro de la infraestructura y del transporte ferroviario, y ello sobre la base de la obligación derivada de la disposición del § 53b de la Ley n.º 266/1994 Sb.
+La DI decidió investigar la MU en cuestión sobre la base de su gravedad, de los impactos de la MU en la explotación segura de la vía y del transporte ferroviario, y ello en virtud de la obligación derivada de la disposición § 53b de la Ley núm. 266/1994 Sb.
 ### 2.3 Alcance y limitaciones de la investigación, incluida la fundamentación correspondiente
-El DI, en el marco de la investigación de la MU en cuestión, se enfrentó a las limitaciones indicadas en el punto 2.8 de la presente II, que influyeron en el modo y los procedimientos de investigación de la MU, pero no tuvieron efecto en la determinación de las causas de la ocurrencia de la MU en cuestión.
-### 2.4 Descripción resumida de las capacidades y funciones técnicas del equipo de investigación
-Investigación del DI en el lugar de la MU:
+La DI, en el marco de la investigación de la MU en cuestión, se enfrentó a las limitaciones indicadas en el punto 2.8 de la presente ZZ, que influyeron en el modo y los procedimientos de investigación de la MU, pero no tuvieron efecto en la determinación de las causas de la MU en cuestión.
+### 2.4 Descripción resumida de las capacidades técnicas y funciones del equipo de investigación
+Investigación de la DI en el lugar de la MU:
 4x inspector de la ÚI Ostrava.
-Formación del equipo de investigación:
+Constitución del equipo de investigación:
 1x inspector de la ÚI Ostrava – responsable de la MU;
 3x inspector de la ÚI Ostrava – participantes en la investigación.
 Colaboración externa:
-fue utilizada. El sujeto VÚKV elaboró para el DI el estudio profesional «Investigación simulada del descarrilamiento del tren de carga en Hustopeče nad Bečvou» (denominado también Estudio de cálculo VÚKV), véanse los puntos 2.8 y 4.1.1 de la presente II.
+fue utilizada. El sujeto VÚKV elaboró para la DI el estudio técnico "Investigación simulada del descarrilamiento del tren de mercancías en Hustopeče nad Bečvou" (denominado también en adelante Estudio de cálculo VÚKV), véanse los puntos 2.8 y 4.1.1 de la presente ZZ.
 2.5 Comunicación y consultas durante la investigación con las personas o sujetos que participaron en el suceso
-En la investigación de las causas y circunstancias de la ocurrencia de la MU, el DI se basó principalmente en sus propios conocimientos, hallazgos y en su propia documentación fotográfica. Durante la investigación, el DI solicitó la documentación necesaria al gestor de la infraestructura SŽ, al transportista ODOSC, al DÚ, al remitente y al titular de los vagones cisterna DEZA participantes en la MU, al titular y al sujeto responsable del mantenimiento de los vagones cisterna RYKO participantes en la MU, así como a AŽD Praha s.r.o., ČHMÚ, ČIŽP, HZS ČR, PČR, ČSSZ, ÚSSZ, ČRS, a la Oficina del municipio de Hustopeče n. B., a Povodí Moravy, a TATRAVAGÓNKA y a DIAMO.
-El DI recibió durante la investigación una aportación de una persona física presentada por correo electrónico, que evaluó y tuvo debidamente en cuenta los hechos acreditados, pero que no aportó ningún conocimiento nuevo para la investigación de esta MU.
-La investigación de las causas y circunstancias de la ocurrencia de la MU se realizó de conformidad con la Ley n.º 266/1994 Sb. y con el Decreto n.º 376/2006 Sb.
+En la investigación de las causas y circunstancias de la MU, la DI se basó principalmente en sus propios conocimientos, hallazgos y en su propia documentación fotográfica. Durante la investigación, la DI solicitó la documentación necesaria al explotador de la vía SŽ, al transportista ODOSC, a la DÚ, al remitente y al titular de los vagones cisterna DEZA participantes en la MU, al titular y al sujeto responsable del mantenimiento de los vagones cisterna RYKO participantes en la MU, así como a AŽD Praha s.r.o., ČHMÚ, ČIŽP, HZS ČR, PČR, ČSSZ, ÚSSZ, ČRS, a la Oficina del municipio de Hustopeče n. B., a Povodí Moravy, a TATRAVAGÓNKA y a DIAMO.
+La DI recibió durante la investigación una aportación de una persona física presentada por correo electrónico, que evaluó y tuvo debidamente en cuenta los hechos acreditados, pero que no aportó ningún conocimiento nuevo para la investigación de esta MU.
+La investigación de las causas y circunstancias de la MU se realizó de conformidad con la Ley núm. 266/1994 Sb. y con el decreto núm. 376/2006 Sb.
 ### 2.6 Descripción del nivel de colaboración ofrecido por los sujetos participantes
-El nivel de colaboración con los representantes de los sujetos participantes en la MU fue estándar; el DI recibió la información requerida para la investigación de las causas y circunstancias de la ocurrencia de la MU.
-
+El nivel de colaboración con los representantes de los sujetos participantes en la MU fue estándar; la DI recibió la información requerida para la investigación de las causas y circunstancias de la MU.
 
 ## Página 15
+
 
 ### 2.7 Descripción de la investigación, los métodos y las técnicas utilizados para acreditar los hechos y los hallazgos indicados en el informe
 En el marco de la investigación de la MU, el DI procedió de la siguiente manera, y utilizó, entre otros, los siguientes métodos y técnicas:
@@ -507,8 +509,8 @@ El DI, durante la investigación de la MU en cuestión, se enfrentó a dificulta
 •
 el extenso daño a los TDV y a la infraestructura de la línea en la estación Hustopeče n. B., que se produjo por la dinámica del suceso del accidente, en combinación con el incendio de gran magnitud del tren Pn 52690 – la combustión con llama de la carga transportada en los TDV en el lugar de su posición final tras la ocurrencia de la MU y las actuaciones de los servicios de emergencia del IZS y con el
 
-
 ## Página 16
+
 
 consiguiente prohibición de acceso a la zona en cuestión, dictada por el jefe de la intervención. Lo anterior tuvo como consecuencia la imposibilidad de iniciar el 28. 2. 2025 la inspección de la infraestructura de la línea, incl. los elementos del SZZ, y de los TDV del tren Pn 52690 en el espacio de las aproximaciones y de la cabeza de la estación Hustopeče n. B. en dirección a Lhotka n. B. (denominada también cabeza de Lhotka, respectivamente aproximación de Lhotka), con la que se inició, bajo estrictas medidas de seguridad, únicamente el 2. 3. 2025. De la inspección del espacio de la cabeza de Lhotka y de la aproximación de Lhotka realizada en los días siguientes se desprende que tanto por el suceso del accidente como por el incendio posterior se produjo una extensa destrucción no solo de los elementos de la infraestructura de la línea, incl. los elementos del SZZ de la estación Hustopeče n. B., sino también de los TDV descarrilados, véase el punto 3.1.3 de la presente II.
 Lo anterior influyó en el modo y los procedimientos de investigación de la MU, sin embargo no tuvo efecto en las conclusiones de la investigación ni en la determinación de las causas de su ocurrencia;
@@ -532,6 +534,7 @@ Hora:
 11:37 h.
 
 ## Página 17
+
 
 Lugar:
 ferrocategoría estatal, Horní Lideč frontera estatal – 
@@ -558,8 +561,8 @@ Por parte del segundo grupo de inspectores de DI se inspeccionó primero el HDV 
 ¹)
 El benceno, según el capítulo 2.2 del RID, está clasificado entre los líquidos inflamables con código de clasificación «F1» según el apartado 2.2.3.1.2 del RID – líquidos inflamables con punto de inflamación de hasta 60 °C. Según la clasificación del RID, el benceno no es por tanto una sustancia tóxica, no obstante se trata de un líquido muy inflamable que arde generando productos de combustión tóxicos, sus vapores son muy fácilmente inflamables y con el aire forman mezclas venenosas y explosivas más densas que el aire. El benceno es insoluble en agua, flota en la superficie y forma mezclas explosivas venenosas (fuente: ficha de datos de seguridad del benceno).
 
-
 ## Página 18
+
 
 haberse permitido el remolque de las dos últimas TDV incluidas en la composición del tren Pn 52690, que no descarrilaron en el MU, hasta la estación adyacente Lhotka n. B., dichas TDV fueron inspeccionadas y se verificó el funcionamiento de su dispositivo de freno. La primera inspección de las 15 TDV restantes del tren se realizó primero mediante drones, y posteriormente físicamente (con estrictas medidas de seguridad) en su posición final tras el MU. La inspección posterior de dichas TDV se realizó:
 •
@@ -576,8 +579,8 @@ la superestructura ferroviaria de la TK n.º 2 Lhotka n. B. – Hustopeče n. B.
 desvío n.º 1 (pk 16,039) de la est. Hustopeče n. B.:
 ◦fue recorrido por el tren Pn 52690 por la aguja en dirección de desvío a la izquierda y formaba una pareja de desvíos con el desvío n.º 2. El desvío era maniobrado desde el centro de enclavamiento, la señal de desvío así como el contrapeso de cambio no estaban instalados,
 
-
 ## Página 19
+
 
 ◦en las puntas de los raíles del desvío n.º 1 no se apreciaban huellas de golpeo, el raíl de aguja recto izquierdo del desvío estaba considerablemente deformado por las ruedas izquierdas descarriladas del bogie trasero de la 15.ª TDV del tren mencionado. El raíl de aguja derecho apoyaba sobre el soporte derecho. Las huellas de trepada de las ruedas derechas del bogie trasero sobre el raíl de aguja derecho y el soporte derecho hacia la derecha en el exterior del desvío eran apreciables a la derecha en el lugar del 2.º soporte deslizante, cuando la trepada sobre el soporte se produjo ya en el 3.er soporte deslizante, desde donde las ruedas derechas del bogie trasero circularon en estado descarrilado unos 9 m hasta el lugar de detención de las ruedas derechas del bogie trasero de la 15.ª TDV, dañando la fijación exterior del soporte derecho en los soportes deslizantes y las espiras de fijación de los soportes deslizantes en las traviesas. Las huellas del descarrilamiento de las ruedas izquierdas del bogie trasero de la 15.ª TDV estaban en la superficie deslizante y en las espiras interiores del 4.º soporte a la izquierda, desde donde las ruedas izquierdas circularon en el espacio entre el soporte izquierdo y el raíl de aguja recto izquierdo hasta el lugar de detención, cuando la circulación en estado descarrilado provocaba la deformación del raíl de aguja izquierdo hacia el eje de la vía. Era visible la deformación direccional del raíl de aguja izquierdo (recto) hacia la derecha en la parte de cambio del desvío producida por el descarrilamiento,
 ◦las traviesas de madera situadas en el lugar de la raíz de los raíles de aguja y en la parte central del desvío n.º 1 (bajo la 15.ª TDV) estaban dañadas por el incendio. Las temperaturas extremas generadas por la combustión con llama provocaron en el mismo nivel la vía paralela del extremo de cabecera de Lhotka, que era la prolongación de la TK n.º 1 (en adelante vía de cabecera n.º 1z), también su deformación (desviación a la izquierda en el sentido de circulación del tren). En el exterior del desvío n.º 1 y en el exterior de la vía de cabecera n.º 1z se encontraban los soportes de tracción dañados n.º 7 y 8 de la estructura de celosía, entre los que estaba originalmente fijado el pórtico portante con TV. El soporte de tracción n.º 8 fue derrumbado por la acción de la tensión térmica del incendio, junto con el pórtico portante, sobre la 15.ª TDV. Por la tensión térmica y el posterior enfriamiento también se dañaron las traviesas de hormigón situadas en el lugar de la desviación de la vía de cabecera n.º 1z. En los raíles y en su fijación elástica era apreciable el recalentamiento del material. En la parte de corazón del desvío n.º 1 había un daño similar de las traviesas de madera por el incendio (bajo la 14.ª TDV) como en su parte central,
@@ -590,17 +593,16 @@ desvío n.º 2 (pk 15,963) de la est. Hustopeče n. B.:
 ◦las traviesas de madera situadas en la parte de corazón del desvío n.º 2 (bajo la 13.ª TDV) estaban dañadas por el incendio, que afectó también a las traviesas de madera tras (en el sentido de circulación del tren Pn 52690 antes de) el desvío n.º 2, y ello antes del cambio de composición de la superestructura ferroviaria en la vía de cabecera n.º 1z,
 ◦en la parte central del desvío n.º 2 se encontraban descarriladas ambas ruedas del bogie trasero de la 12.ª TDV. Por el descarrilamiento y las altas temperaturas de la combustión era apreciable en este lugar el desplazamiento de las traviesas hacia la izquierda en el sentido de circulación del tren Pn 52690, las traviesas de madera situadas en la parte central del desvío estaban igualmente fuertemente dañadas por el incendio. En la continuación de la parte central del desvío hacia la parte de cambio del desvío estaba dañada la fijación interior del raíl derecho del desvío, causada por la circulación de las ruedas izquierdas descarriladas de la 11.ª TDV. En la parte central del desvío, en el raíl recto que continuaba el raíl de aguja recto izquierdo, eran apreciables huellas de roce
 
-
 ## Página 20
 
-de la rueda derecha de la TDV sobre la cabeza del raíl, y ello por el lado del soporte izquierdo, sin que se produjera el asentamiento de las ruedas – dejando huellas en los elementos de fijación. Las huellas continuaban hasta más allá de la raíz del raíl de aguja recto izquierdo. En la parte central del desvío, en el raíl recto derecho que continuaba el soporte derecho del desvío, antes de la soldadura del soporte se encontraba una rotura del raíl (de longitud de unos 30 cm en la cabeza del raíl y 60 cm en la base del raíl) producida por la acción de las ruedas izquierdas descarriladas de la 11.ª TDV – se trata de una rotura en el raíl de la dirección recta del desvío, que no era recorrida por el DV del tren antes de la producción del MU,
-◦en el nivel de la parte central del desvío n.º 2 se encontraba el soporte de tracción tubular n.º 8A, en el que estaba fijado el pórtico portante con TV, que no resistió el calor generado por el incendio y se produjo la destrucción de su estructura metálica y el derrumbamiento, junto con el pórtico, sobre la 13.ª TDV,
-◦en la parte de cambio del desvío n.º 2 era apreciable el daño del raíl de aguja recto izquierdo (derecho en el sentido de circulación del tren Pn 52690) y de las espiras interiores de los soportes deslizantes izquierdos. El daño correspondía a la circulación de la 10.ª y la 11.ª TDV en estado descarrilamiento y a la posición posterior de las ruedas derechas del bogie delantero de la 11.ª TDV en la posición final tras el MU, que se encontraba tras el MU entre el soporte izquierdo y el raíl de aguja recto izquierdo – a la derecha del soporte en el sentido de circulación del tren). En la parte de cambio también estaban dañadas las espiras interiores de los soportes deslizantes derechos (izquierdos en el sentido de circulación del tren). Todas las traviesas de madera, incl. los elementos de fijación, en la parte de cambio del desvío n.º 2 estaban dañadas por la tensión térmica del incendio producido;
+rueda derecha de la TDV sobre la cabeza del carril, y ello desde el lado de la apoyadera izquierda, sin que se produjera el asentamiento de las ruedas – dejando marcas en los elementos de fijación. Las marcas continuaban hasta la raíz de la lengüeta directa izquierda. En la parte central del desvío, sobre el carril directo derecho que se unía a la apoyadera derecha del desvío, se encontraba, antes de la soldadura de la apoyadera, una rotura del carril (de unos 30 cm en la cabeza del carril y 60 cm en la base del carril) originada por la acción de las ruedas izquierdas descarriladas de la 11.ª TDV – se trata de una rotura en el carril de dirección directa del desvío, que no era recorrido por la DV del tren antes de la aparición del MU,
+◦en el nivel de la parte central del desvío n.º 2 se encontraba el soporte de tracción tubular n.º 8A, al que estaba fijada la estructura portante con TV, que no resistió el calor provocado por el incendio y se produjo la destrucción de su estructura metálica y el derrumbe, junto con la estructura, sobre la 13.ª TDV,
+◦en la parte de cambio del desvío n.º 2 era apreciable el daño en la lengüeta directa izquierda (derecha en el sentido de circulación del tren Pn 52690) y en las hélices interiores de los travesaños deslizantes izquierdos. El daño correspondía a la circulación de la 10.ª y 11.ª TDV en estado descarrilado y a la posterior colocación de las ruedas derechas del bogie delantero de la 11.ª TDV en la posición final tras el MU, que se encontraba tras el MU entre la apoyadera izquierda y la lengüeta directa izquierda – a la derecha la apoyadera en el sentido de circulación del tren). En la parte de cambio también se dañaron las hélices interiores de los travesaños deslizantes derechos (izquierdos en el sentido de circulación del tren). Todos los traviesas de madera, incluidos los elementos de fijación, en la parte de cambio del desvío n.º 2 estaban dañados por la carga térmica del incendio originado;
 •
-### lugar de producción del MU – lugar de tal inclinación de la 1.ª TDV, en la que se produjo un desplazamiento excesivo de su centro de gravedad y el vuelco, ver puntos 2.8 y 4.1.1 de la presente ZZ, se determinó en el pk 15,966 en la parte de cambio del desvío n.º 2, y ello en el sentido de circulación del tren Pn 52690 a 3 m antes de la ZV n.º 2 y la ZV n.º 3 (los desvíos n.º 2 y 3 se continuaban entre sí por sus comienzos, que tenían la misma posición kilométrica – pk 15,963), ver Fig. n.º 2 de la presente ZZ. Tras este lugar eran apreciables cambios considerables en los parámetros geométricos de la vía producidos durante el suceso del accidente, incl. la deformación en altura y lateral de las vías de los desvíos n.º 2 y 3, el daño en el lecho de la vía y la devastación de traviesas y elementos de fijación con influencia en la retención de la vía, y la destrucción de los cierres de cuña de ambos desvíos.
-La medición de los parámetros geométricos de la vía a la distancia habitual de 10 m detrás y, especialmente, de 30 m antes del lugar del descarrilamiento no fue posible realizarla con resultados relevantes, debido al extenso daño en las traviesas y en la fijación de los raíles causado por las 11.ª, 12.ª y 15.ª TDV, que descarrilaron durante el suceso del accidente (arrastrando TDV situadas delante de ellas, en combinación con los golpes dinámicos producidos en la composición durante el descarrilamiento), y debido a las almohadillas de caucho quemadas bajo las bases de los raíles;
+### lugar de origen del MU – lugar de tal inclinación de la 1.ª TDV, en la que se produjo una desviación excesiva de su centro de gravedad y el vuelco, ver puntos 2.8 y 4.1.1 de esta ZZ, se determinó en el km 15,966 en la parte de cambio del desvío n.º 2, y ello en el sentido de circulación del tren Pn 52690 a 3 m antes del ZV n.º 2 y el ZV n.º 3 (los desvíos n.º 2 y 3 se unían entre sí por sus comienzos, que tenían la misma posición kilométrica – km 15,963), ver Fig. n.º 2 de esta ZZ. Tras este lugar eran apreciables cambios considerables en los parámetros geométricos de la vía originados durante el suceso, incluidas la deformación en altura y lateral de las vías de los desvíos n.º 2 y 3, el daño en el lecho de la vía y la devastación de traviesas y elementos de fijación con influencia en la retención de la vía, y la destrucción de los cierres de horquilla de ambos desvíos. La medición de los parámetros geométricos de la vía a la distancia habitual de 10 m detrás y, especialmente, 30 m antes del lugar del descarrilamiento no fue posible realizarla con resultados relevantes, debido al extenso daño en las traviesas y en la fijación de los carriles causado por las 11.ª, 12.ª y 15.ª TDV, que se descarrilaron durante el suceso (arrastrando las TDV situadas delante de ellas en combinación con los golpes dinámicos originados en la composición al descarrilarse), y debido a las almohadillas de caucho quemadas bajo las bases de los carriles;
 
 ## Página 21
+
 
 Fig. n.º 2: Vista del lugar de origen del MU en km 15,966, la superestructura ferroviaria dañada y la TDV destruida
 Fuente: DI
@@ -637,81 +639,39 @@ hasta el riel de la parte central de la aguja, permaneciendo el inicio
 roto del soporte encajado bajo la 9.ª TDV. La rotura del soporte 
 izquierdo en toda su sección se produjo por la influencia de
 
-
 ## Página 22
 
-la carga del riel izquierdo, en combinación con la deformación en 
-altura y lateral de la vía producida durante el suceso del accidente, 
-lo que acredita también la rotura anteriormente mencionada de la 
-lengüeta izquierda (curvada) de esta aguja,
-◦las traviesas en la parte de cambio de la aguja n.º 3 y todo el sistema 
-de fijación, incl. soportes deslizantes y apoyos de soporte en el lado 
-izquierdo de la aguja n.º 3, estaban considerablemente dañados por el 
-incendio y las TDV descarriladas,
-◦el soporte derecho curvado y la lengüeta derecha (recta) de la aguja 
-n.º 3 estaban, como consecuencia del descarrilamiento, fuertemente 
-deformados en varios puntos sin signos de rotura,
-◦al final de las lengüetas y en la parte central de la aguja n.º 3, las 
-traviesas estaban cubiertas de balasto, que había sido arrastrado allí 
-por las TDV descarriladas,
-◦la parte de corazón de la aguja n.º 3 estaba dañada por el incendio, 
-las traviesas de madera estaban carbonizadas;
+sobrecarga del carril izquierdo, en combinación con la deformación en altura y lateral de la vía producida durante el suceso del accidente, lo que acredita también la rotura anteriormente citada de la lengüeta izquierda (curvada) de este desvío,
+◦los traviesas en la sección de cambio del desvío n.º 3 y todo el sistema de fijación, incluidos los asientos deslizantes y los apoyos de la barra de sostén en el lado izquierdo del desvío n.º 3, estaban considerablemente dañados por el incendio y por los TDV descarrilados,
+◦la barra de sostén derecha curvada y la lengüeta derecha (recta) del desvío n.º 3 se hallaban fuertemente deformadas en varios puntos como consecuencia del descarrilamiento, sin signos de rotura,
+◦al final de las lengüetas y en la parte central del desvío n.º 3, las traviesas estaban cubiertas de balasto, que había sido arrojado allí por los TDV descarrilados,
+◦la sección de corazón del desvío n.º 3 estaba dañada por el incendio, las traviesas de madera estaban chamuscadas;
 •
-los aparatos de cambio eléctricos de las agujas n.º 2 y 3 estaban 
-completamente destruidos por las TDV descarriladas;
+los desplazadores electromotores de los desvíos n.º 2 y 3 fueron totalmente destruidos por los TDV descarrilados;
 •
-los soportes de tracción n.º 8A y 10, situados a la derecha de la vía 
-en el extremo de Lhotka entre las agujas n.º 1 y 4, es decir, a la altura 
-del ZV de las agujas n.º 2 y 3, estaban, incl. el pórtico portante, 
-fuertemente dañados. Los soportes de tracción n.º 7A y 9, situados a 
-la izquierda de las agujas n.º 2 y 3, estaban completamente 
-destruidos. También estaba dañado el TV, es decir, en el espacio de 
-todo el extremo de Lhotka y el cabezal;
+los soportes de tracción n.º 8A y 10 situados a la derecha de la vía de la aguja de Lhotka entre los desvíos n.º 1 y 4, y ello a la altura de la ZV del desvío n.º 2 y 3, estaban, incluida la estructura portante, fuertemente dañados. Los soportes de tracción n.º 7A y 9 situados a la izquierda de los desvíos n.º 2 y 3 fueron totalmente destruidos. También se vio dañado el TV, en el espacio de toda la aguja de Lhotka y de la aguja;
 •
-en la vía entre las agujas n.º 1 y 4, a la altura del ZV n.º 2 y 3, 
-estaban también considerablemente destruidas las traviesas de 
-hormigón B91T, que estaban dañadas por las altas temperaturas y el 
-posterior enfriamiento, lo que provocó la fisuración del hormigón y la 
-total devastación de las almohadillas de goma bajo la base del riel y 
-las almohadillas guía angulares. También se vieron afectadas 
-térmicamente las abrazaderas elásticas. Era visible también la 
-deformación direccional de la vía antes de la aguja n.º 4, con 
-desviación hacia la derecha;
+en la vía entre los desvíos n.º 1 y 4, a la altura de la ZV n.º 2 y 3, se hallaban igualmente considerablemente destruidas las traviesas de hormigón B91T, que estaban dañadas por las altas temperaturas y la posterior refrigeración, lo que provocó la fisuración del hormigón y la devastación total de las almohadillas de caucho bajo la base del carril y de las inserciones guía angulares. También se vieron afectadas térmicamente las abrazaderas elásticas. Era asimismo apreciable la deformación direccional de la vía antes del desvío n.º 4, con desviación hacia la derecha;
 •
-la superestructura ferroviaria detrás de la aguja n.º 3, en dirección a 
-las agujas n.º 4 y 5, estaba cubierta de balasto [grava expulsada al 
-descarrilamiento (volcadura) de las TDV] en una superficie de 
-aproximadamente 40 m². El balasto vertido alcanzaba o superaba en 
-algunos puntos la altura de los rieles.
-Del examen del DK y el SZZ de la est. Hustopeče n. B., centrado 
-particularmente en el extremo de Lhotka y el cabezal y los elementos 
-en la ruta de tren establecida para la salida del tren Pn 52690 en 
-dirección a la est. Hranice na Moravě město (en adelante también 
-Hranice n. M. město), se constató, entre otros:
+el superestructura ferroviaria detrás del desvío n.º 3, en dirección a los desvíos n.º 4 y 5, estaba cubierta de balasto [grava expulsada al descarrilarse (volcarse) los TDV] en una superficie de aproximadamente 40 m2. El balasto vertido alcanzaba o superaba en algunos puntos la altura de los carriles.
+Del examen de la DK y de la SZZ de la estación de Hustopeče n. B., centrado especialmente en la aguja de Lhotka y en la aguja y en los elementos de la vía de tren establecidos para la salida del tren Pn 52690 en dirección a la estación de Hranice na Moravě město (a partir de aquí también solo Hranice n. M. město), se constató, entre otros extremos:
 •
-el estado del SZZ de la est. Hustopeče n. B.
-  (o la indicación del TZZ Lhotka n. B. – Hustopeče n. B.):
-### a) de los elementos internos del SZZ – en la mesa de mando con el 
-esquema gráfico de la estación en el DK:
-1. en caso de 
- fallo de la alimentación principal en la mesa de mando 
-producido como 
-consecuencia del MU:
+el estado de la SZZ de la estación de Hustopeče n. B.
+  (o, lo que es lo mismo, la indicación de la TZZ Lhotka n. B. – Hustopeče n. B.):
+### a) de los elementos internos de la SZZ – en la mesa de mando con el esquema gráfico de la planta de la estación en la DK:
+1. ante
+ una interrupción del suministro básico en la mesa de mando producida como consecuencia de un
+MU:
 •
 brillaban con luz indicadora permanente los elementos:
 ◦«Comprobación del inversor» (con luz indicadora de color blanco),
-◦«Fallo de alimentación de los circuitos de vía» (con luz indicadora 
-de color rojo),
-◦«Fallo de alimentación de los circuitos de vigilancia» (con luz 
-indicadora de color rojo),
+◦«Avería del suministro de los circuitos de vía» (con luz indicadora de color rojo),
+◦«Avería del suministro de los circuitos de vigilancia» (con luz indicadora de color rojo),
 •
-los conmutadores de tres posiciones para el cambio individual de 
-las agujas (o pares de agujas) n.º 1 y 2 (con la etiqueta «+ 1/2 -»), 
-n.º 3 y 4 (con la etiqueta «+ 3/4 -»), n.º 5 (con la etiqueta «+ 5 -») 
-y n.º 6 (con la etiqueta «+ 6 -»), 
-
+los conmutadores de tres posiciones para el cambio individual de los desvíos (o, en su caso, de parejas de desvíos) n.º 1 y 2 (dotado de la placa «+ 1/2 -»), n.º 3 y 4 (dotado de la placa «+ 3/4 -»), n.º 5 (dotado de la placa «+ 5 -») y n.º 6 (dotado de la placa «+ 6 -»),
 
 ## Página 23
+
 
 es decir, de las agujas en el extremo de Lhotka, se encontraban en 
 posición central y no brillaba en ellos ninguna luz indicadora,
@@ -782,8 +742,8 @@ de las etiquetas «Libertad de vía» brillaban con luz blanca
 permanente, lo que indicaba el hecho de que ambos TK estaban 
 libres, es decir, que en estos TK no se encontraba ninguna DV,
 
-
 ## Página 24
+
 
 •
 los translúcidos de los tramos de aproximación (alejamiento) de 
@@ -847,49 +807,29 @@ n.º 3 y 4 (con la etiqueta «+ 3/4 -»), n.º 5 (con la etiqueta «+ 5 -»)
 y n.º 6 (con la etiqueta «+ 6 -»), 
 es decir, de las agujas en el extremo de Lhotka, se encontraban en 
 posición central y en cada uno de ellos brillaba una luz indicadora 
-permanente de color rojo, lo que 
-
+permanente de color rojo, lo que
 
 ## Página 25
 
-indicaba la pérdida de supervisión de la posición final de las agujas 
-causada por el suceso del accidente MU,
+indicaba la pérdida de supervisión de la posición final de los desvíos causada por el suceso de accidente del MU,
 •
-el conmutador de tres posiciones para el cambio individual del 
-desvío y la aguja n.º Vk1/7 se encontraba en la posición extrema 
-izquierda «+» y estaba cubierto por un recordatorio que impedía la 
-operación (mando) de este elemento, y brillaba en él una luz 
-indicadora permanente de color verde,
+el conmutador de tres posiciones para el accionamiento individual del desvío de apartadero y del desvío n.º Vk1/7 se encontraba en la posición extrema a la izquierda "+" y estaba cubierto por un recordatorio que impedía la operación (el mando) de este elemento, y junto a él brillaba una luz indicadora permanente de color verde,
 •
-todos los translúcidos en el extremo de Lhotka y el cabezal y el 
-SK n.º 1 (hasta la altura de la señal de salida L1) indicaban con 
-luz indicadora roja permanentemente encendida, siendo que en 
-este caso concreto se trataba de:
-◦la avería del KU en el extremo de Lhotka y el cabezal causada por 
-el suceso del accidente MU [el daño a la infraestructura de la vía 
-por las TDV descarriladas (volcadas) y su posterior incendio, así 
-como la presencia de TDV no descarriladas detenidas en el extremo 
-y el cabezal],
-◦la ocupación del SK n.º 1 por la HDV del tren Pn 52690,
+todas las luces piloto en el extremo de vías de Lhota y en la cabeza de vías y SK n.º 1 (hasta el nivel de la señal de salida L1) indicaban con una luz indicadora roja encendida de forma permanente, siendo en este caso concreto:
+◦una avería del KÚ en el extremo de vías de Lhota y en la cabeza de vías causada por el suceso de accidente del MU [daño a la infraestructura de la vía por los TDV descarrilados (volcados) y su posterior incendio, así como la presencia de TDV no descarrilados detenidos en el extremo de vías y en la cabeza de vías],
+◦la ocupación de la SK n.º 1 por la locomotora del tren Pn 52690,
 •
-las luces indicadoras de comprobación de señales en los modelos:
-◦de las señales de entrada 1L y 2L y de la señal de salida S2 
-brillaban con luz verde intermitente,
-◦de las señales de maniobra Se1, Se2, Se3 y Se4 en el extremo de 
-Lhotka brillaban con luz blanca intermitente,
-lo que en todos los casos indicaba el hecho de que en las señales 
-luminosas no brillaba ninguna señal,
-Fig. n.º 3: Vista de la mesa de mando en el DK de la est. Hustopeče n. B. tras el restablecimiento de la alimentación
+luces indicadoras para la comprobación de las señales en los simuladores:
+◦las señales de entrada 1L y 2L y la señal de salida S2 brillaban con luz verde intermitente,
+◦las señales de agrupamiento Se1, Se2, Se3 y Se4 en el extremo de vías de Lhota brillaban con luz blanca intermitente,
+lo que en todos los casos indicaba el hecho de que en las señales luminosas no se mostraba ninguna señal,
+Fig. n.º 3: Vista de la mesa de mando en el CD de la est. Hustopeče n. B. tras el restablecimiento del suministro
 Fuente: DI
 •
-todos los translúcidos detrás de la señal de salida L1, en el 
-cabezal y el extremo dirección Hranice n. M. město (en adelante 
-cabezal de Hranice, respectivamente extremo de Hranice) y de los 
-tramos de aproximación (alejamiento) de los KO del TZZ en el tramo 
-entre estaciones Hranice n. M. město – Hustopeče n. B., equipado 
-con bloqueo automático
+todas las luces piloto tras la señal de salida L1, en la cabeza de vías y en el extremo de vías en dirección Hranice n. M. město (en adelante, cabeza de vías de Hranice, respectivamente extremo de vías de Hranice) y en los tramos de aproximación (alejamiento) del KO TZZ en el tramo entre estaciones Hranice n. M. město – Hustopeče n. B., equipado con automático
 
 ## Página 26
+
 
 con cerradura AH82, provistas de las etiquetas «1-1TÚ» y «1-2TÚ» (TK n.º 1), indicaban mediante una luz indicadora blanca permanentemente encendida el hecho de que:
 ◦todas estas KÚ estaban libres, es decir, en los tramos en cuestión no había ninguna DV,
@@ -919,8 +859,8 @@ amperímetro con la etiqueta «consumo de batería» – 6 A,
 | 1X | | 41013 | desenganche |
 | 1K | 1K | 41013 | desenganche |
 
-
 ## Página 27
+
 
 Tab. n.º 1: Estado de los relés de pequeño formato del grupo ejecutor de la SZZ con especial atención a los circuitos de bloqueo del itinerario para la circulación desde la señal de entrada 2L en la SK n.º 1
 Fuente: DI
@@ -963,8 +903,8 @@ la última «Medición en señales luminosas – 1, Trabajador de mantenimiento:
 | 2Ž (amarilla inferior) | 10,3 | 50 |
 | 50 | | |
 
-
 ## Página 28
+
 
 | ZUS1 (banda luminosa superior del indicador inferior) | no indicado* | no indicado |
 |---|---|---|
@@ -984,8 +924,8 @@ se encontraba a la derecha, justo junto a la TK Lhotka n. B. – Hustopeče n. B
 En el momento de la inspección inicial realizada el 28. 2. 2025, la señal de entrada 2L estaba apagada, es decir, sus luces (incluido el indicador inferior con dos bandas luminosas) que expresaban las señales no estaban encendidas – este hecho fue causado por el daño en el cableado de suministro conducido a la base del mástil de la señal a causa del suceso del accidente y, especialmente, por el incendio posterior.
 El 4. 3. 2025, en presencia del DI, la PČR y un empleado del operador ferroviario SŽ, se realizó la determinación de los valores de visibilidad de los correspondientes símbolos de señalización en la señal de entrada 2L de la est. Hustopeče n. B., desde el eje de la TK n.º 2 Lhotka n. B. – Hustopeče n. B. Puesto que, como consecuencia del suceso del accidente, la señal de entrada 2L no estaba aún suministrada con el suministro principal (se trataba de una señal apagada, véase más arriba), para realizar la determinación de la visibilidad de los símbolos de señalización de la señal de entrada y verificar el funcionamiento de los circuitos de suministro de las correspondientes luces de señalización desde la borna del transformador de señal de la señal, se proporcionó un suministro provisional
 
-
 ## Página 29
+
 
 desde un grupo electrógeno de los HZS ČR, que estaba conectado al transformador de la señal en cuestión. De los valores medidos se desprende que:
 •
@@ -1014,6 +954,7 @@ las anotaciones sobre el desarrollo de la gestión del tráfico ferroviario del 
 (Lhotka n. B. → Hustopeče n. B. → Hranice n. M. město) – salida prevista de Lhotka n. B. recibida a las 11:13 h (salida real recibida a las 11:15 h), salida prevista de Hustopeče n. B. hacia Hranice n. M. město dada a las 11:16 h, paso a las 11:18 h (retraso + 2 min). La circulación del tren en el tramo entre estaciones Lhotka n. B. – Hustopeče n. B. se realizó por la TK n.º 2, en la est. Hustopeče n. B. por la SK n.º 2 y en el tramo entre estaciones Hustopeče n. B. – Hranice n. M. město por la TK n.º 2,
 
 ## Página 30
+
 
 ◦Pn 52690
   (Lhotka n. B. → Hustopeče n. B. → Hranice n. M. město) – 
@@ -1065,130 +1006,90 @@ de la señal de entrada 2L de la est. Hustopeče n. B. Ante esta señal de secci
 se encontraban tres señales invariables no portátiles (siempre a una distancia entre sí de más 
 de 100 m) «Aviso de distancia» con la indicación 
 «El tren se aproxima a la señal principal», que advertían de la distancia 
-a la señal principal. También la ubicación de estas señales por parte del explotador de la vía 
-
+a la señal principal. También la ubicación de estas señales por parte del explotador de la vía
 
 ## Página 31
 
-permitía reducir el tiempo de visibilidad de la indicación de esta señal principal 
+permitía reducir el tiempo de visibilidad de la señal de este semáforo principal
 desde el DV de cabeza, circulando a la velocidad máxima permitida, de 12 s a 7 s.
-En el momento de la inspección inicial realizada el 28. 2. 2025, la señal de sección AB 
-2-173 mostraba la indicación «Alto», ya que la señal de entrada 2L de la est. Hustopeče n. B. 
-estaba apagada en ese momento. Posteriormente, con la participación del DI el 1. 3. 2025, 
-el personal de SŽ realizó el cambio de la señalización de la indicación «Alto» a la indicación «Aviso», 
-con el fin de determinar el valor de la tensión eléctrica en el filamento de la luz amarilla. 
-Con la medición realizada se determinó el valor de la tensión eléctrica en el filamento de 10,77 V 
-y la resistencia de aislamiento de 50 MΩ – los valores medidos cumplían la tolerancia de 10,2 V a 11,2 V 
-y de mín. 5 MΩ establecida por la norma interna de SŽDC (ČD) T121. 
-El mismo día se determinó la visibilidad de la indicación «Aviso», es decir, de la luz amarilla, desde 
-una distancia de 397 m (es decir, desde el km 17,757), siendo el valor límite de visibilidad, establecido por 
-el § 7 apartado 1 letra a) y e) del decreto n.º 173/1995 Sb., a una velocidad en vía de 155 km·h-1 
-de 301,4 m (es decir, desde el km 17,661).
-El DI el 28. 2. 2025 realizó además la obtención de los datos registrados por los ordenadores tecnológicos 
-y los ordenadores de entrada del SZZ electrónico de la est. Lhotka n. B. – 
-el desvío electrónico ESA 44 (StationSWing ESA 44), para el período del 27. y 28. 2. 2025 
-desde las 23:54:45 h hasta las 17:19:13 h, 
-es decir, incl. el momento de producción de la MU en cuestión y también el fichero de direcciones correspondiente con la configuración del SZZ ESA. 
-Asimismo se obtuvieron los registros del diagnóstico del bloque automático de tres indicaciones 
-electrónico ABE-1 del tramo entre estaciones Hustopeče n. B. – Lhotka n. B.
-De lo anterior se desprende entre otros que la ruta ferroviaria para el tren Pn 52690 fue 
-establecida en la est. Hustopeče n. B. 
-desde la señal de entrada 2L, a través del desvío n.º 1 en punta en el sentido de desvío 
-hacia la izquierda, a través del desvío n.º 2 por punta desde el sentido de desvío 
-derecho, a través de los desvíos n.º 3 y 5 en sentido recto en punta hacia la SK n.º 1, 
-alrededor de la señal de salida L1, a través del desvío n.º 9 en sentido recto por punta, 
-a través del ŽP P8049, a través del desvío n.º 11 en sentido recto en punta y a través 
-del desvío n.º 14 en sentido recto por punta hacia la TK n.º 1 Hranice n. M. město – Hustopeče n. B.
-De la inspección de las señales no portátiles se determinó entre otros que en:
+En el momento de la primera inspección realizada el 28. 2. 2025, el semáforo de sección AB
+2-173 mostraba la señal «Alto», ya que el semáforo de entrada 2L de la est. Hustopeče n. B.
+estaba apagado en ese momento. Posteriormente, el 1. 3. 2025, con la presencia del DI,
+personal de SŽ realizó el cambio de la señalización de la señal «Alto» a la señal «Aviso»,
+con el fin de determinar el valor de la tensión eléctrica en el bombillo de la luz amarilla.
+Con la medición realizada se determinó el valor de la tensión eléctrica en el bombillo de
+10,77 V y la resistencia de aislamiento de 50 MΩ – los valores medidos cumplían la tolerancia
+de 10,2 V a 11,2 V y de mín. 5 MΩ establecida por la normativa interna SŽDC (ČD) T121.
+El mismo día se determinó la visibilidad de la señal «Aviso», es decir, de la luz amarilla,
+desde una distancia de 397 m (es decir, desde el km 17,757), siendo el valor límite de
+visibilidad, establecido por el § 7 apartado 1 letra a) y e) del decreto nº 173/1995 Sb.,
+con una velocidad de línea de 155 km·h-1, de 301,4 m (es decir, desde el km 17,661).
+El DI, el 28. 2. 2025, procedió además a la obtención de los datos registrados por los
+ordenadores tecnológicos y los ordenadores de entrada del SZZ electrónico de la est.
+Lhotka n. B. – del enclavamiento electrónico ESA 44 (StationSWing ESA 44), para el
+periodo del 27. y 28. 2. 2025 desde las 23:54:45 h hasta las 17:19:13 h, es decir,
+incl. el tiempo de producción de la MU en cuestión y también el fichero de direcciones
+correspondiente con la configuración del SZZ ESA. Asimismo, se obtuvieron los registros
+del diagnóstico del bloque automático de tres indicaciones ABE-1 del tramo entre estaciones
+Hustopeče n. B. – Lhotka n. B.
+De lo anterior se deduce, entre otros, que la ruta de tren para el tren Pn 52690 fue
+establecida en la est. Hustopeče n. B. desde el semáforo de entrada 2L, a través de la
+aguja nº 1 en contra de la punta en dirección de desvío a la izquierda, a través de la aguja
+nº 2 por la punta desde la dirección de desvío derecha, a través de las agujas nº 3 y 5 en
+dirección recta en contra de la punta hasta la vía de clasificación nº 1, pasando junto al
+semáforo de salida L1, a través de la aguja nº 9 en dirección recta por la punta, a través
+del PZ P8049, a través de la aguja nº 11 en dirección recta en contra de la punta y a través
+de la aguja nº 14 en dirección recta por la punta hasta la vía de tráfico nº 1 Hranice n. M.
+město – Hustopeče n. B.
+Con la inspección de los semáforos fijos se determinó, entre otros, que en:
 •
-km 16,340 a la izquierda la TK n.º 1 Hustopeče n. B. – Lhotka n. B. y a la derecha la TK n.º 2 Lhotka n. B. 
-– Hustopeče n. B., es decir, 54 m antes del nivel de las señales de entrada 1L y 2L de la est. Hustopeče n. B., 
-en la estructura de acero de los soportes de catenaria n.º 137 y 138 se encontraban señales invariables:
-◦el indicador de velocidad N con la indicación «Velocidad en vía» con el dígito «100»,
-◦con la indicación para el freno automático de tren «Cambie VZ a la frecuencia de 50 Hz»,
-válidas para el DV que circula en el sentido Lhotka n. B. – Hustopeče n. B.;
+km 16,340 a la izquierda la vía de tráfico nº 1 Hustopeče n. B. – Lhotka n. B. y a la
+derecha la vía de tráfico nº 2 Lhotka n. B. – Hustopeče n. B., es decir, 54 m antes del
+nivel de los semáforos de entrada 1L y 2L de la est. Hustopeče n. B., en la estructura
+metálica de los soportes de catenaria nº 137 y 138, se encontraban semáforos fijos:
+◦el indicador de velocidad N con la señal «Velocidad de línea» con el dígito «100»,
+◦con la señal para el freno automático de tren «Cambie VZ a la frecuencia de 50 Hz»,
+válida para los DV circulando en la dirección Lhotka n. B. – Hustopeče n. B.;
 •
-km 19,340 a la izquierda la TK n.º 1 Hustopeče n. B. – Lhotka n. B. y a la derecha la TK n.º 2 Lhotka n. B. 
-– Hustopeče n. B. en la estructura celosía de acero de los soportes de catenaria n.º 31 y 32 
-se encontraban señales invariables – indicadores de velocidad N:
-◦el superior con la indicación «Velocidad en vía» con el dígito «155»,
-◦con la indicación «Velocidad en vía» con el dígito «140», situado bajo el indicador de velocidad N superior, 
-válidas para el DV que circula en el sentido Hustopeče n. B. – Lhotka n. B.
-
+km 19,340 a la izquierda la vía de tráfico nº 1 Hustopeče n. B. – Lhotka n. B. y a la
+derecha la vía de tráfico nº 2 Lhotka n. B. – Hustopeče n. B. en la estructura metálica
+celosía de los soportes de catenaria nº 31 y 32 se encontraban semáforos fijos –
+indicadores de velocidad N:
+◦el superior con la señal «Velocidad de línea» con el dígito «155»,
+◦con la señal «Velocidad de línea» con el dígito «140», situado bajo el indicador de
+velocidad N superior, válida para los DV circulando en la dirección Hustopeče n. B. –
+Lhotka n. B.
 
 ## Página 32
 
-De la inspección del DV del tren Pn 52690 se determinó entre otros (descrito en el sentido de circulación del tren):
+El examen del DV del tren Pn 52690 arrojó, entre otros, los siguientes resultados (descritos en el sentido de la marcha del tren):
+
 •
-el tren estaba compuesto por el HDV 383.223-5 situado en la cabeza del tren y 17 TDV cisterna (caldera) 
-cargados, indicados a continuación en el orden (identificación) en que se encontraban 
-en la posición final tras la producción de la MU;
+El tren estaba compuesto por el HDV 383.223-5 situado a la cabeza del tren y 17 TDV cisterna (caldera) cargados, indicados a continuación en el orden (denominación) en que se encontraban en la posición final tras la producción de la MU;
 •
 HDV 383.223-5:
-◦el titular del HDV 383.223-5 era la sociedad Rolling Stock Lease s.r.o. con sede 
-en Bratislava. El HDV era utilizado en el momento de producción de la MU por el explotador ODOSC;
-◦el HDV circulaba hacia delante con la cabina de conductor n.º 1. El conductor conducía el tren Pn 52690, 
-observaba la vía y las señales desde el puesto de conductor en la cabina de conductor n.º 1, 
-es decir, desde el puesto delantero en el sentido de circulación del tren Pn 52690. El conductor se encontraba 
-en la cabina de conductor junto con el instructor-conductor. 
-De la inspección de la cabina de conductor n.º 1 y del puesto de conductor en esta cabina 
-no se constató nada que impidiera al conductor y al instructor-conductor, antes 
-de la producción de la MU, observar sin interferencias la vía y las señales y actuar según 
-los hechos constatados (véase más abajo). Ambos llevaban gafas graduadas;
-◦el HDV en la posición final tras la MU se encontraba sin descarrilar en la SK n.º 1 
-de la est. Hustopeče n. B., con el extremo delantero en el km 15,308, es decir, 83 m antes del nivel 
-de la señal de salida L1.
-Nota del DI: según la información complementaria del explotador de la vía SŽ sobre las posiciones 
-kilométricas reales de las señales de salida L1, L2 y S1 de la est. Hustopeče n. B., el HDV 
-se detuvo en la posición final tras la MU con el extremo delantero en el km 15,317, es decir, 83 m antes 
-de la señal de salida L1, cuya posición kilométrica real y correcta era 
-15,234 frente a la indicación original de 15,225, véanse los puntos 4.1.1 y 5.3 de esta ZZ;
-◦en el lado del extremo trasero del HDV, es decir, en el lado de la cabina de conductor n.º 2:
-▪en el borde lateral derecho del plato del amortiguador izquierdo se encontraban huellas de contacto 
-con el tornillo de mano del HDV,
-▪en la grasa de la superficie de trabajo del plato del amortiguador izquierdo se encontraba una huella 
-evidente de rozamiento del plato cooperante del amortiguador delantero izquierdo del 1.º TDV 
-detrás del HDV, que se dirigía hacia la izquierda en diagonal hacia abajo,
-▪en la grasa de la superficie de trabajo del plato del amortiguador derecho había una huella 
-evidente de rozamiento del plato cooperante del amortiguador delantero derecho del 1.º TDV 
-detrás del HDV, que se dirigía hacia la izquierda en diagonal hacia arriba;
-▪se encontraba una huella del golpe de la consola izquierda que soporta los acoples de freno izquierdos 
-de la tubería de suministro y de la tubería principal junto con el fijado del conducto del eje 
-del gancho de tracción en el cesto del amortiguador izquierdo,
-▪huellas del golpe del eje del gancho de tracción y del soporte del tornillo de mano por el lado 
-del perno hacia el lado izquierdo y el lado izquierdo superior del guía de la barra de tracción del mecanismo de tracción.
-
+◦El titular del HDV 383.223-5 era la sociedad Rolling Stock Lease s.r.o., con sede en Bratislava. El HDV era utilizado en el momento de la producción de la MU por el transportista ODOSC;
+◦El HDV circulaba con la cabina del maquinista 1 por delante. El maquinista conducía el tren Pn 52690, observaba la vía y las señales desde el puesto de conducción del maquinista en la cabina del maquinista 1, es decir, desde el puesto delantero en el sentido de la marcha del tren Pn 52690. El maquinista se encontraba en la cabina del maquinista junto con el maquinista-instructor. Del examen de la cabina del maquinista 1 y del puesto de conducción en dicha cabina no se constató nada que impidiera al maquinista y al maquinista-instructor, antes de la producción de la MU, observar sin obstrucción la vía y las señales y actuar conforme a los hechos constatados (véase más abajo). Ambos tenían consigo gafas con graduación;
+◦El HDV en la posición final tras la MU permanecía sin descarrilar en el SK n.º 1 de la estación de Hustopeče n. B., con el extremo delantero en el km 15,308, es decir, 83 m antes del nivel de la señal de salida L1.
+Nota DI: según la información facilitada por el gestor de la infraestructura SŽ sobre los km reales de las posiciones de las señales de salida L1, L2 y S1 de la estación de Hustopeče n. B., el HDV se detuvo en la posición final tras la MU con el extremo delantero en el km 15,317, esto es, 83 m antes de la señal de salida L1, cuya posición kilométrica real y correcta era 15,234 frente a la cifra original de 15,225, véanse los apartados 4.1.1 y 5.3 de la presente ZZ;
+◦En el lado del extremo trasero del HDV, es decir, en el lado de la cabina del maquinista 2:
+▪En el borde lateral derecho del disco del amortiguador izquierdo se encontraban huellas de contacto con el tornillo del HDV,
+▪Sobre la grasa de la superficie de trabajo del disco del amortiguador izquierdo había una huella evidente de rozadura con el disco del amortiguador delantero izquierdo del 1.º TDV situado detrás del HDV, que se dirigía hacia la izquierda en diagonal hacia abajo,
+▪Sobre la grasa de la superficie de trabajo del disco del amortiguador derecho había una huella evidente de rozadura con el disco del amortiguador delantero derecho del 1.º TDV situado detrás del HDV, que se dirigía hacia la izquierda en diagonal hacia arriba;
+▪Existía una huella del impacto del soporte izquierdo que soporta las llaves de enganche izquierdas de las tuberías de suministro y principal, junto con la fijación de la conducción del vástago del gancho de tracción, en el cesto del amortiguador izquierdo,
+▪Huellas del impacto del vástago del gancho de tracción y del soporte del tornillo en el lado de la tuerca hacia el lado izquierdo y el lado izquierdo superior del raíl de tracción del mecanismo de tracción.
 
 ## Página 33
 
-Fig. n.º 4: Vista del mecanismo de tracción y de enganche en el extremo trasero del HDV 383.223-5, donde las flechas naranjas señalan 
-las huellas en los platos de ambos amortiguadores. La imagen en recorte documenta las huellas del golpe del eje 
-del gancho de tracción y del soporte del tornillo de mano por el lado 
-del perno hacia el lado izquierdo y el lado izquierdo superior del guía de la barra de tracción del mecanismo de tracción 
-en la posición final del HDV tras la MU.
+Fig. n. 4: Vista del enganche de tracción y del dispositivo de choque en el extremo posterior del HDV 383.223-5, donde las flechas naranjas señalan las marcas en los platos de ambos amortiguadores. La imagen recortada documenta las marcas producidas por el impacto del vástago del gancho de tracción y del perno de la tuerca del lado del perno en el lado izquierdo y en el lado izquierdo superior de la guía de tracción del dispositivo de tracción en la posición final del HDV tras el MU.
 Fuente: DI
-Las huellas indicadas, véase la Fig. n.º 4 de esta ZZ, se produjeron durante el suceso del accidente 
-como consecuencia del descarrilamiento (volcadura) del 1.º TDV detrás del HDV.
-El tornillo de mano del HDV no estaba suspendido por el estribo en el gancho de suspensión, sino que 
-colgaba libremente, el husillo del tornillo de mano estaba apretado. El acople de freno izquierdo de la tubería 
-de suministro y el acople de freno izquierdo de la tubería de freno automático continuo por aire 
-(en adelante tubería principal) estaban cerrados, sus acoples de aire terminados con cabezas 
-estaban suspendidos en los ganchos de suspensión correspondientes. El acople de freno derecho de la 
-tubería principal estaba abierto, el acople de freno derecho de la tubería de suministro estaba cerrado, 
-siendo que sus acoples de aire colgaban libremente con las cabezas no suspendidas en los 
-ganchos de suspensión;
-◦los indicadores externos del estado de los frenos neumáticos de los distintos bogies indicaban 
-color rojo – freno apretado. El indicador externo del freno de muelle de zapata indicaba 
-color verde – freno liberado;
-◦la identificación del extremo delantero del HDV en el lado de la cabina de conductor n.º 1 con la 
-correspondiente indicación no pudo determinarse de manera comprobable durante la inspección. 
-La razón fue la desconexión de las baterías del vehículo por parte del conductor del tren Pn 52690 
-tras la detención del HDV en la posición final tras la producción de la MU para evitar 
-posibles daños adicionales al HDV, siendo que el conmutador giratorio de puentear las luces de señalización 
-en el bastidor de servicio en la parte trasera de la cabina de conductor n.º 1 estaba en la posición vertical 
-«auto»;
+Las marcas indicadas, véase Fig. n. 4 de esta ZZ, se produjeron durante el suceso del accidente como consecuencia del descarrilamiento (volcadura) del 1.º TDV detrás del HDV.
+La tuerca del HDV no estaba suspendida por el estribo en el gancho de suspensión, sino que colgaba libremente; el huso de la tuerca estaba apretado. El acoplamiento izquierdo de la tubería de suministro y el acoplamiento izquierdo de la tubería del freno automático continuo de presión (en adelante, tubería principal) estaban cerrados; sus acoplamientos de presión rematados por cabezas estaban suspendidos en los ganchos de suspensión correspondientes. El acoplamiento derecho de la tubería principal estaba abierto, el acoplamiento derecho de la tubería de suministro estaba cerrado, y sus acoplamientos de presión colgaban libremente con las cabezas no enganchadas en los ganchos de suspensión;
+◦los indicadores externos de estado de los frenos neumáticos de los distintos bogies indicaban color rojo – freno apretado. El indicador externo del freno de muelle de la rueda de fricción indicaba color verde – freno liberado;
+◦no fue posible determinar de manera comprobable, durante la inspección, la señalización del extremo frontal del HDV en el lado de la cabina del conductor 1 con la señal correspondiente. La razón fue que el conductor del tren Pn 52690 desconectó las baterías del vehículo tras detener el HDV en la posición final tras la aparición del MU, para evitar posibles daños adicionales al HDV, habiendo quedado el conmutador de puenteo de las luces de señalización en el bastidor de servicio en la parte trasera de la cabina del conductor 1 en la posición vertical «auto»;
 
 ## Página 34
+
 
 ◦En la cabina del conductor 1 (delantera en el sentido de marcha del tren) se constató, entre otros, que:
 ▪En el equipo de servicio lateral (en la pared derecha junto a las puertas de acceso) el conmutador giratorio del regulador de marcha lateral estaba en posición de frenado de acción rápida y el conmutador giratorio del freno de acción directa en la posición vertical inicial,
@@ -1212,8 +1113,8 @@ También estaban apagados los elementos indicadores y las luces del repetidor de
 ▪La llave de cierre del equipo de areneado del eje 1 estaba abierta,
 ▪En ambas ventanas delanteras estaban parcialmente bajados los elementos de protección contra el deslumbramiento (persianas), y ello, desde la vista desde la cabina hacia el frontal de la HDV, en la ventana delantera izquierda hasta aproximadamente 1/3 de la altura de la ventana delantera, y en la ventana delantera derecha hasta aproximadamente 1/5 de la altura de la ventana.
 
-
 ## Página 35
+
 
 Los elementos de protección bajados no impedían en absoluto la visión hacia delante de la HDV al conductor sentado y al instructor-conductor;
 ◦En la cabina del conductor 1 se encontraba, o estaba almacenada, la documentación:
@@ -1227,8 +1128,8 @@ El Parte de vehículos contenía, entre otros, el número correcto de TDV «33 5
 •
 Albarán que contenía, entre otros, un listado de 17 medios de transporte (TDV cargados) y las masas de carga correspondientes, que incluía, entre otros, el TDV «33 54 79-32 025-1», que no figuraba en el Parte de vehículos ni en el Documento de retorno, ver más arriba,
 
-
 ## Página 36
+
 
 •
 Certificado de calidad que contenía, entre otros, un listado de 17 medios de transporte (TDV cargados) y la masa de carga correspondiente, que incluía, entre otros, el TDV «33 54 79-32 025-1», que no figuraba en el Parte de vehículos ni en el Documento de retorno, ver más arriba,
@@ -1259,8 +1160,8 @@ Con la palanca selectora del modo de frenado en la válvula de mando del freno i
 •
 La llave B03.02 del freno de resorte acumulador en la posición vertical abierta «encendido»,
 
-
 ## Página 37
+
 
 •
 La llave B15.05 de la válvula de mando de redundancia en la posición vertical abierta «encendido»,
@@ -1311,6 +1212,7 @@ Los interruptores de mando SR1 y SR2 estaban activados,
 
 ## Página 38
 
+
 En el armario se encontraba el dispositivo de registro – unidad central de registro electrónica de 19 pulgadas TRU-NG (Trainborne Recording Unit) DTR 0000500909 TRU NG-06 F RU-2307005 2327. El disyuntor Q15 (disyuntor de alimentación de la unidad TRU-NG) situado en el bastidor giratorio tras las puertas izquierdas del armario estaba conectado. Ni el armario ni la unidad presentaban daños derivados del accidente MU objeto de estudio.
 En el marco de la inspección, a efectos de la ulterior investigación, el inspector DI colocó visiblemente en el armario de los frenos de tren 1 y 2 un sello con la advertencia de que el acceso y la manipulación de un objeto así asegurado solo es posible con el consentimiento del inspector DI competente,
 ▪en el campo de servicio del armario de los frenos de tren 3 (SIEMENS) se encontraba, entre otros:
@@ -1335,57 +1237,52 @@ la llave negra en posición vertical (su desbloqueo y extracción bloqueados por
 el cerradura del conmutador de llave de la válvula de cierre de colectores en posición horizontal, en la cerradura no había insertada ninguna llave (amarilla);
 ◦mediante la inspección no se constataron hechos que acreditaran el uso de la HDV 383.223-5 en un estado técnico no conforme con la aptitud aprobada.
 
-
 ## Página 39
 
-Fig. n.º 5: Esquema del lugar de origen del accidente MU
-Fuente: HZS ČR con modificación del DI
+Fig. n.º 5: Esquema del lugar de origen del MU
+Fuente: HZS ČR con modificación de DI
 •
-1. TDV, véase Fig. n.º 6 de esta ZZ, en el sentido de la marcha, en la posición final tras el accidente MU, se encontraba descarrilado, a la izquierda de la vía de la aguja de la estación de cabecera, a la que en el sentido de la marcha del tren Pn 52690 se unía la SK n.º 1 (en adelante, vía de la aguja de la estación de cabecera), con el frontal en el km 15,878, respecto al eje de la vía estaba girado hacia la izquierda con su eje longitudinal bajo un ángulo de 24 °, volcado sobre su lado izquierdo, con el bogie trasero más próximo a la vía de la aguja de la estación de cabecera. El trasero se encontraba a la altura del ZV n.º 5. Sobre el TDV volcado yacían partes destruidas de la estructura reticulada del soporte de tracción n.º 9A y partes del anclaje móvil de la TV. En el bogie delantero permanecía el 2.º juego de ruedas, el bogie trasero estaba sin ambos juegos de ruedas, encontrándose el 1.er juego de ruedas de pie a la derecha junto al bogie delantero, y el 3.er y 4.º juego de ruedas a la derecha del bogie trasero. El acoplamiento del conducto principal en el frontal estaba abierto, el acoplamiento en el trasero estaba arrancado, no se encontró. La manija del dispositivo de corte del freno de aire estaba en posición conectada, las posiciones de los conmutadores de régimen de frenado y de pesos de frenado no fue posible determinarlas debido a sus daños.
-Por la dinámica del suceso del accidente y la influencia del incendio se produjeron daños graves en el TDV en su conjunto, en particular en sus partes componentes y nudos estructurales:
-◦del esqueleto del piso del vagón,
-◦de ambos bastidores de bogies,
-◦del dispositivo de enganche y de choque en el trasero del vagón, encontrándose el amortiguador derecho, originalmente situado en el trasero del vagón, tendido en el suelo, arrancado de su fijación, no encontrándose su placa de base durante la inspección,
+1. El TDV, véase Fig. n.º 6 de esta ZZ, se encontraba en la dirección de circulación en la posición final tras el MU en estado descarrilado, a la izquierda de la vía de la aguja de Lhotka, a la cual en la dirección de circulación del tren Pn 52690 se unía la SK n.º 1 (en adelante, vía de la aguja), con el extremo delantero en el pk 15,878, respecto al eje de la vía estaba girado con su eje longitudinal hacia la izquierda en un ángulo de 24 °, volcado sobre su lado izquierdo, con el bogie trasero más cerca de la vía de la aguja. El extremo trasero se encontraba a la altura de la ZV n.º 5. Sobre el TDV volcado yacían partes destruidas de la estructura celosiar de la pila de tracción n.º 9A y partes del anclaje móvil de la TV. En el bogie delantero permanecía el 2.º eje, el bogie trasero estaba sin ambos ejes, encontrándose el 1.er eje de pie a la derecha junto al bogie delantero, y los ejes 3.º y 4.º se encontraban a la derecha del bogie trasero. El grifo de acoplamiento de la tubería principal en el extremo delantero estaba abierto, el grifo de acoplamiento en el extremo trasero estaba arrancado, no se encontró. La manija del dispositivo de corte del freno de aire estaba en posición de activado, no fue posible determinar las posiciones de los conmutadores del modo de frenado y de los pesos de frenado debido a su daño.
+Por la dinámica del suceso del accidente y la influencia del incendio se produjo un fuerte daño en el TDV en su conjunto, en particular en sus partes parciales y nudos constructivos:
+◦del armazón del piso del vagón,
+◦de ambos bastidores de los bogies,
+◦del dispositivo de enganche y de choque en el extremo trasero del vagón, encontrándose el colisionador derecho, originalmente situado en el extremo trasero del vagón, tendido en el suelo, arrancado de su fijación, no encontrándose su placa de base durante la inspección,
 ◦del aislamiento de la caldera, de su revestimiento de chapa y de la propia estructura de la caldera.
-Mediante la inspección se constató el número del amortiguador izquierdo "26267" y del amortiguador derecho "26214" situados en el frontal del TDV, y del amortiguador izquierdo "26288" situado en el trasero del TDV.
-Debido a no haberse encontrado ningún otro elemento identificativo legible del TDV y a la ausencia de los números de los amortiguadores en el registro de la inspección técnica de dicho TDV, mediante la inspección no fue posible asignar a dicho TDV su número de registro. No obstante, en consideración a su posición y a la posición del 10.º TDV en la posición final tras el accidente MU, al que igualmente
-
+Mediante la inspección se identificó el número del colisionador izquierdo "26267" y del colisionador derecho "26214" situados en el extremo delantero del TDV, y del colisionador izquierdo "26288" situado en el extremo trasero del TDV.
+Debido a la no localización de ningún otro elemento identificativo legible del TDV y a la ausencia de los números de los colisionadores en el acta de la inspección técnica de este TDV, mediante la inspección no fue posible asignar a este TDV su número de registro. No obstante, atendiendo a su posición y a la posición del TDV n.º 10 en la posición final tras el MU, al cual igualmente
 
 ## Página 40
 
-mediante la inspección no fue posible asignar su número de registro, se trataba del TDV con número de registro 33 54 7834 003-7;
-Fig. n.º 6: Vista del frontal y del piso del 1.er TDV de la HDV del tren Pn 52690 en la posición final tras el accidente MU, cuando la imagen en el recorte documenta la vista detallada del acoplamiento abierto del conducto principal.
-Fuente: DI
+tras la inspección no fue posible asignar su número de registro, se trataba de un TDV con número de registro 33 54 7834 003-7;
+Fig. n.º 6: Vista del frontal y la parte inferior del 1.º TDV del tren de locomotoras Pn 52690 en la posición final tras la MU, cuando la imagen en el recorte documenta la vista detallada del grifo de acoplamiento abierto de la tubería principal. Fuente: DI
 •
-2. TDV en el sentido de la marcha, en la posición final tras el accidente MU, se encontraba descarrilado, a la izquierda de la vía de la aguja de la estación de cabecera, con el frontal en el km 15,890, respecto al eje de la vía estaba girado hacia la izquierda con su eje longitudinal bajo un ángulo de 55 °, volcado sobre su lado derecho, con el bogie trasero más próximo a la vía de la aguja de la estación de cabecera. El bogie trasero estaba separado del TDV, yacía a la izquierda del TDV volcado sobre su eje 180 °, encontrándose en su larguero derecho el número de registro del vagón complementado con la designación escrita del bogie delantero 33 54 7932 032-7a. El TDV con su bogie delantero tocaba el bogie delantero del 3.er TDV volcado hacia el lado izquierdo, véase más abajo, encontrándose los bogies enganchados mutuamente entre sí. La caldera por el lado del frontal del vagón estaba hundida en el terreno, totalmente despojada de su revestimiento de chapa y aislamiento, y con su frontal se encontraba a una distancia de 0,6 m del borde del carril bici Bečva. En el trasero (fondo) de la caldera (depósito del vagón cisterna) se encontraba la placa metálica de la caldera con el número de fabricación legible "HS 17883". Al TDV se le asignó posteriormente de forma inequívoca el número de registro del vagón 33 54 7932 032-7. El acoplamiento izquierdo del conducto principal en el trasero del vagón estaba cerrado, el acoplamiento derecho estaba arrancado y no se encontró durante la inspección. El estado de los acoplamientos en el frontal del vagón no fue posible determinarlo debido a los daños, al igual que la posición de la manija del dispositivo de corte del freno de aire y de los conmutadores de régimen de frenado y de pesos de frenado.
-
+El 2.º TDV en el sentido de marcha se encontraba en la posición final tras la MU en estado descarrilado, a la izquierda de la vía de la cabecera, con el frontal en el km 15,890, respecto al eje de la vía estaba con su eje longitudinal girado a la izquierda en un ángulo de 55 °, volcado sobre su lado derecho, con el bogie trasero más cercano a la vía de la cabecera. El bogie trasero estaba separado del TDV, yacía a la izquierda junto al TDV volcado alrededor de su eje 180 °, cuando en su larguero derecho era legible el número de registro del vagón complementado con la designación escrita del bogie delantero 33 54 7932 032-7a. El TDV con su bogie delantero tocaba el bogie delantero del 3.º TDV volcado hacia el lado izquierdo, ver más abajo, cuando los bogies estaban enganchados mutuamente entre sí. La caldera en el lado del frontal del vagón estaba hundida en el suelo, completamente despojada de su revestimiento metálico y aislamiento, y con su frontal se encontraba a una distancia de 0,6 m del borde del carril bici Bečva. En el trasero (fondo) de la caldera (depósito del vagón cisterna) se encontraba la placa metálica de la caldera con el número de fabricación legible "HS 17883". Al TDV se le asignó posteriormente de forma inequívoca el número de registro del vagón 33 54 7932 032-7. El grifo de acoplamiento izquierdo de la tubería principal en el trasero del vagón estaba cerrado, el grifo de acoplamiento derecho estaba arrancado y no fue encontrado durante la inspección. El estado de los grifos de acoplamiento en el frontal del vagón no fue posible determinarlo debido a los daños, al igual que la posición de la manija del mecanismo de corte del freno de aire y los conmutadores de modo de frenado y de las balanzas de freno.
 
 ## Página 41
 
-Por la dinámica del suceso del accidente y la influencia del incendio se produjeron daños extensos en el TDV en su conjunto, véase Fig. n.º 7 de esta ZZ, en particular en sus partes componentes y nudos estructurales:
-◦del esqueleto del piso del vagón,
-◦de ambos bastidores de bogies,
-◦del dispositivo de enganche y de choque en el trasero del vagón, encontrándose el amortiguador derecho con el número "26211" originalmente situado en el trasero del vagón tendido en el suelo, arrancado de su fijación, no encontrándose su placa de base durante la inspección,
+Debido a la dinámica del suceso del accidente y a la influencia del incendio, se produjo un daño extenso en el TDV como conjunto, véase la Fig. n.º 7 de esta ZZ, y en particular en sus partes individuales y en los nudos constructivos:
+◦del armazón del bastidor del vagón,
+◦de ambos bastidores de los bogies,
+◦del aparato de enganche y del aparato de choque en el frontal trasero del vagón, habiéndose encontrado el amortiguador derecho con el número "26211", originalmente situado en el frontal trasero del vagón, tendido en el suelo, arrancado de su fijación, no habiéndose encontrado la placa de base durante la inspección,
 ◦del aislamiento de la caldera, de su revestimiento de chapa y de la propia estructura de la caldera;
-Fig. n.º 7: Vista del piso del 2.º y 3.er TDV destruidos del tren Pn 52690 en la posición final tras el accidente MU
+Fig. n.º 7: Vista del bastidor del 2.º y 3.º TDV del tren Pn 52690 destruidos en su posición final tras el MU
 Fuente: DI
 •
-3. TDV en el sentido de la marcha, en la posición final tras el accidente MU, se encontraba descarrilado, a la izquierda de la vía de la aguja de la estación de cabecera, con el frontal en el km 15,898, respecto al eje de la vía estaba girado hacia la izquierda con su eje longitudinal bajo un ángulo de 30 °, volcado sobre su lado izquierdo, con el bogie trasero más próximo a la vía de la aguja de la estación de cabecera. El TDV con su bogie delantero tocaba el bogie delantero del 2.º TDV volcado hacia el lado derecho, encontrándose los bogies enganchados mutuamente entre sí. El frontal del TDV con parte de la caldera se encontraba sobre el carril bici Bečva. En la parte trasera del TDV estaba parcialmente encajado el frontal del 4.º TDV, véase más abajo, cuyo frontal alcanzaba hasta el travesaño principal del trasero del 3.er TDV. El bogie trasero del TDV estaba sin ambos juegos de ruedas. En el bogie delantero del TDV, en el 2.º juego de ruedas en el sentido de la marcha, se encontraba la placa identificativa del juego de ruedas que contenía, entre otros, el número de fabricación del juego de ruedas (número de serie del eje) "T160773". Mediante la inspección se constató asimismo el número del amortiguador delantero derecho "26254". Según el número de fabricación del juego de ruedas, al TDV se le asignó posteriormente el número de registro del vagón 33 54 7834 015-1. El estado de los acoplamientos del conducto principal en el frontal y el trasero del vagón no fue posible determinarlo debido a la magnitud de los
-
+El 3.º TDV en el sentido de la marcha se encontraba en su posición final tras el MU en estado descarrilado, a la izquierda de la vía de la cabecera, con el frontal delantero en el pk 15,898, respecto al eje de la vía estaba girado con su eje longitudinal hacia la izquierda en un ángulo de 30 °, volcado sobre su lado izquierdo, con el bogie trasero más cerca de la vía de la cabecera. El TDV con su bogie delantero tocaba el bogie delantero del 2.º TDV volcado hacia la derecha, estando los bogies enganchados mutuamente entre sí. El frontal del TDV con parte de la caldera se encontraba en la vía cicloturística Bečva. En la parte trasera del TDV estaba parcialmente incrustado el frontal del 4.º TDV, véase más abajo, cuyo frontal alcanzaba hasta la travesía principal del frontal trasero del 3.º TDV. El bogie trasero del TDV carecía de ambos ejes. En el bogie delantero del TDV, en el 2.º eje en el sentido de la marcha, se encontraba la placa de identificación del eje que contenía, entre otros, el número de fabricación del eje (número de serie del eje) "T160773". Mediante la inspección se determinó asimismo el número del amortiguador delantero derecho "26254". De acuerdo con el número de fabricación del eje, al TDV se le asignó posteriormente el número de registro del vagón 33 54 7834 015-1. El estado de las llaves de la tubería principal en el frontal delantero y trasero del vagón no fue posible determinarlo dada la magnitud
 
 ## Página 42
 
-daños, al igual que la posición del conmutador de pesos de frenado. La posición de la manija del dispositivo de corte del freno de aire estaba en posición conectada, el conmutador de régimen de frenado estaba en posición de carga.
-Por la dinámica del suceso del accidente y la influencia del incendio se produjeron daños extensos en el TDV en su conjunto, véase Fig. n.º 7 de esta ZZ, en particular en sus partes componentes y nudos estructurales:
-◦del esqueleto del piso del vagón,
-◦de ambos bastidores de bogies,
-◦del dispositivo de enganche y de choque en el trasero del vagón, encontrándose el amortiguador derecho con el número "26211" originalmente situado en el trasero del vagón tendido en el suelo, arrancado de su fijación, no encontrándose su placa de base durante la inspección,
+dañar, al igual que la posición del conmutador de las balanzas de frenado. La posición de la palanca del dispositivo de corte del freno de aire estaba en posición de encendido, el conmutador del modo de frenado estaba en posición de carga.
+Por la dinámica del suceso del accidente y la influencia del incendio se produjo un daño extenso del TDV en su conjunto, véase Fig. n.º 7 de esta ZZ, en particular de sus partes parciales y nodos constructivos:
+◦de la estructura del bastidor del vagón,
+◦de ambos bastidores de los bogies,
+◦del dispositivo de tracción y de enganche en el frontal trasero del vagón, siendo que el amortiguador derecho con el número "26211" originalmente situado en el frontal trasero del vagón se encontraba tirado en el suelo, arrancado de su fijación, y su placa de base no fue encontrada durante la inspección,
 ◦del aislamiento de la caldera, de su revestimiento de chapa y de la propia estructura de la caldera;
 •
-4. TDV en el sentido de la marcha, en la posición final tras el accidente MU, se encontraba descarrilado, a la izquierda de la vía de la aguja de la estación de cabecera, con el frontal en el km 15,903, respecto al eje de la vía de la aguja de la estación de cabecera estaba girado hacia la izquierda con su eje longitudinal bajo un ángulo de 26 °, volcado sobre su lado izquierdo, con el bogie trasero más próximo a la vía de la aguja de la estación de cabecera. La caldera del TDV estaba con la parte izquierda de su frontal encajada en el trasero de la caldera del 3.er TDV situado delante de él. En el frontal del TDV se constataron los números del amortiguador derecho "26283" y del amortiguador izquierdo "26328", asimismo se constataron las placas identificativas con los números de fabricación legibles del 1.er juego de ruedas "T160795" y del 3.er juego de ruedas "T160802". Con base en estos datos identificativos, al TDV se le asignó posteriormente el número de registro del vagón 33 54 7834 013-6. La estructura de acero de la caldera estaba abollada, en el espacio más próximo al trasero del TDV estaba desgarrada, con una probabilidad que roza la certeza a consecuencia de la explosión de la carga transportada en el TDV. El bogie trasero volteado del TDV estaba con su bogie delantero (3.er) hundido en el terreno. A la derecha del bogie se encontraban 7 juegos de ruedas acumulados, mutuamente sin ningún orden. El estado de los acoplamientos del conducto principal en el frontal y el trasero del vagón no fue posible determinarlo debido a los daños en ambos frentes y a la destrucción total del TDV, al igual que la posición de la manija del dispositivo de corte del freno de aire y de los conmutadores de régimen de frenado y de pesos de frenado. Por la dinámica del suceso del accidente y la influencia del incendio se produjo la destrucción del TDV en su conjunto, véase Fig. n.º 8 de esta ZZ;
-
+4. El TDV en la dirección de circulación se encontraba en su posición final tras el MU en estado descarrilado, a la izquierda de la vía de la cabecera, con el frontal delantero en el km 15,903, respecto al eje de la vía de la cabecera estaba con su eje longitudinal girado a la izquierda en un ángulo de 26 °, volcado sobre su lado izquierdo, con el bogie trasero más cerca de la vía de la cabecera. La caldera del TDV estaba con la parte izquierda de su frontal delantero incrustada en el frontal trasero de la caldera del 3.º TDV situado delante de él. En el frontal delantero del TDV se encontraron los números del amortiguador derecho "26283" y del amortiguador izquierdo "26328", asimismo se encontraron las placas de identificación con los números de fabricación legibles del 1.º eje "T160795" y del 3.º eje "T160802". Con base en estos datos de identificación, al TDV se le asignó posteriormente el número de registro del vagón 33 54 7834 013-6. La estructura de acero de la caldera estaba deformada, en el espacio más cercano al frontal trasero del TDV estaba desgarrada, con una probabilidad que roza la certeza como consecuencia de la explosión de la carga transportada en el TDV. El bogie trasero girado del TDV estaba con el eje delantero (3.º) hundido en el terreno. A la derecha del bogie se encontraban 7 ejes acumulados, mutuamente de ninguna manera ordenados. El estado de los grifos de acoplamiento de la tubería principal en el frontal delantero y trasero del vagón no fue posible determinarlo debido al daño de ambos frontales y a la destrucción total del TDV, al igual que la posición de la palanca del dispositivo de corte del freno de aire y de los conmutadores del modo de frenado y de las balanzas de frenado. Por la dinámica del suceso del accidente y la influencia del incendio se produjo la destrucción del TDV en su conjunto, véase Fig. n.º 8 de esta ZZ;
 
 ## Página 43
+
 
 Fig. n.º 8: Vista de la caldera desgarrada del 4.º TDV y de la caldera dañada del X. TDV del tren Pn 52690
 Fuente: DI
@@ -1397,14 +1294,15 @@ Y. TDV en la posición final tras el accidente MU se encontraba descarrilado, a 
 
 ## Página 44
 
+
 El bogie delantero, debido a la torsión del bastidor del suelo del vagón, se encontraba en la cara superior del caldero tanto de Y. TDV como de X. TDV, casi paralelamente al carril bici Bečva, sobre el cual se situaba la estructura del caldero de Y. TDV, y carecía de ambos ejes. El TDV estaba girado con su eje longitudinal respecto al eje de la vía de la cabeza de la vía hacia la izquierda con un ángulo de 54°, su extremo frontal se encontraba en el pk 15,917, su extremo trasero (el tramo con freno de mano) estaba más cerca de la vía de la cabeza de la vía, en el pk 15,927. El bogie trasero del TDV, aunque considerablemente deformado, permanecía unido al bastidor del TDV, estaba girado respecto al eje longitudinal del TDV y disponía solo de un eje, por lo que, debido a su giro, no fue posible determinar mediante inspección si se trataba del 3.º o del 4.º eje en el sentido de la marcha. En este eje se encontró su placa de identificación con el número de fabricación legible "T160793", además, en el extremo trasero (fondo) del caldero se encontró una placa metálica del caldero que contenía, entre otros, el número de fabricación del caldero "80429", respectivamente "80449", cuando el cuarto dígito estampado en esta placa no era claramente legible. Con base en estos datos, al TDV se le asignó posteriormente el número de registro del vagón 33 54 7834 001-1 (se trataba, por tanto, del 6.º TDV), al que correspondía el número de fabricación del caldero "80429". En el frontal delantero del TDV permanecían unidos los cestos de ambos amortiguadores, pero sin sus cuerpos y sistemas de suspensión, el amortiguador derecho en el frontal trasero había sido arrancado, en el lado izquierdo solo se encontró el cesto del amortiguador. El grifo de acoplamiento de la tubería principal situado a la derecha en el extremo frontal estaba abierto, el grifo de acoplamiento en el extremo trasero había sido arrancado y no se encontró durante la inspección. La posición de la manija del dispositivo de desenganche del freno de aire y de los conmutadores del modo de frenado y de los pesos de frenado no fue posible determinarla debido a su daño. Debido a la dinámica del suceso del accidente y a la influencia del incendio, se produjo la destrucción del TDV en su conjunto, véase la Fig. n.º 9 de esta ZZ.
 
 Fig. n.º 9: Vista desde el carril bici Bečva del caldero dañado de X. TDV y del Y. TDV destruido del tren Pn 52690
 Fuente: DI
 Nota DI: de las grabaciones de cámara facilitadas por la empresa DEZA se desprende claramente que el Y. TDV (6.º TDV) salía de la vía lateral de DEZA orientado de manera que el tramo con freno de mano operado desde la plataforma se encontraba en la parte trasera, lo que acredita
 
-
 ## Página 45
+
 
 la posición final del TDV tras el MU, cuando en el extremo (fondo) del caldero situado más cerca de la vía de la cabeza de la vía se descubrió la placa metálica del caldero;
 •
@@ -1412,57 +1310,102 @@ El 7.º TDV se encontraba en su posición final tras el MU en estado descarrilad
 •
 El 8.º TDV se encontraba en su posición final tras el MU en estado descarrilado, a la izquierda de la vía de la cabeza de la vía, volcado sobre su lado izquierdo, con el extremo frontal en el pk 15,931. El TDV estaba con su eje longitudinal girado hacia la derecha respecto al eje de la vía de la cabeza de la vía con un ángulo de 28°, cuando la distancia más corta entre el extremo frontal del TDV y el eje de la vía de la cabeza de la vía era de 1 m. El TDV estaba con su extremo frontal parcialmente embutido en el 7.º TDV y parcialmente hundido en el lecho de balasto, cuando desde el lado de la vía de la cabeza de la vía el frontal era visible hasta aproximadamente su mitad, su extremo trasero estaba en contacto con el extremo frontal del 9.º TDV. Los largueros del vagón estaban retorcidos, también ambos bogies estaban fuertemente deformados, el caldero del vagón estaba destruido en su parte frontal. En el extremo trasero (fondo) del caldero se encontraba su placa metálica que contenía, entre otros, el número de fabricación del caldero difícilmente legible "80446", respectivamente "80448", cuando el quinto dígito estampado en esta placa no era claramente legible. En el frontal derecho permanecía montada la parte rota de la placa de base del cesto del amortiguador, mientras que el resto de la placa, incl. el cesto y el cuerpo del amortiguador, yacía a la altura del extremo frontal del TDV sobre el lecho de balasto, a la derecha de la vía de la cabeza de la vía, a unos 2 m del extremo frontal del TDV. En este amortiguador era apreciable su número "26253". A este TDV se le asignó posteriormente el número de registro 33 54 7834 020-1, al que correspondía el número de fabricación del caldero "80448". El estado de los grifos de acoplamiento de la tubería principal en los extremos frontal y trasero del vagón no fue posible determinarlo mediante inspección debido al grado de daño, al igual que la posición de la manija del dispositivo de desenganche del freno de aire y de los conmutadores del modo de frenado y de los pesos de frenado. Debido a la dinámica del suceso del accidente y a la influencia del incendio, se produjo la destrucción del TDV en su conjunto, véase la Fig. n.º 10 de esta ZZ;
 
-
 ## Página 46
+
 
 Fig. n.º 10: Vista de los 7.º y 8.º TDV dañados del tren Pn 52690 y de la infraestructura ferroviaria dañada durante la inspección por los inspectores de la DI y los miembros de la PČR
 Fuente: DI
 •
 El 9.º TDV se encontraba en su posición final tras el MU en estado descarrilado, a la izquierda de la vía de la cabeza de la vía, volcado sobre su lado izquierdo y con su lado izquierdo hundido en el lecho de balasto. El extremo frontal del TDV se encontraba en el pk 15,944. Respecto al eje de la vía de la cabeza de la vía, el TDV estaba con su eje longitudinal girado hacia la izquierda con un ángulo de 15°, con el bogie trasero más cerca de la vía de la cabeza de la vía, y con su extremo frontal parcialmente embutido en el 8.º TDV y parcialmente (con su frontal) hundido en el terreno. En su extremo trasero estaba completamente embutido el extremo frontal del 10.º TDV. El bastidor del vagón estaba retorcido, la estructura del caldero estaba separada en su parte frontal de la estructura del bastidor del vagón y estaba fuertemente dañada, entre otros, como consecuencia de la explosión de la carga transportada en el TDV. El bogie delantero estaba dañado, contenía ambos ejes, cuyas ambas ruedas derechas íntegras se encontraban a unos 80 cm sobre el lecho de balasto, desalojadas de sus asientos en los ejes. En las inmediaciones del bogie delantero y parcialmente bajo él se encontraba un eje de pie, que estaba girado respecto al bogie y hundido en el terreno de manera que solo eran visibles las ruedas, partes de las cajas de rodamientos y partes marginales del eje. El bogie trasero estaba considerablemente dañado, su 4.º eje se encontraba fuera del sistema de guiado de ejes, el 3.º eje se encontraba delante del bogie trasero. El estado de los grifos de acoplamiento de la tubería principal en los extremos frontal y trasero del vagón no fue posible determinarlo debido a su grado de daño, al igual que la posición de la manija del dispositivo de desenganche del freno de aire y de los conmutadores del modo de frenado y de los pesos de frenado. Durante la eliminación de los restos, en la parte trasera del caldero se encontró su placa metálica que contenía, entre otros, el número de fabricación del caldero "HS 17938", con base en el cual se asignó a este TDV el número de registro 33 54 7932 040-0. Debido a la dinámica del suceso del accidente y a la influencia del incendio, se produjo la destrucción del TDV en su conjunto, véase la Fig. n.º 11 de esta ZZ;
 
-
 ## Página 47
 
-Fig. n.º 11: Vista del extremo frontal del 10.º TDV embutido en el extremo trasero del 9.º TDV
+Fig. 11: Vista del frente del 10. TDV embutido en el trasero del 9. TDV
 Fuente: DI
 •
-El 10.º TDV se encontraba en su posición final tras el MU en estado descarrilado, a la izquierda de la vía de la cabeza de la vía, volcado sobre su lado izquierdo y con su lado izquierdo hundido en el lecho de balasto, con el extremo frontal en el pk 15,957. El TDV estaba con su eje longitudinal girado hacia la izquierda respecto al eje de la vía de la cabeza de la vía con un ángulo de 8° y con su extremo frontal embutido en el extremo trasero del 9.º TDV situado delante de él, el extremo trasero del TDV estaba en contacto con la estructura del caldero del 11.º TDV. El extremo frontal del TDV y el fondo del caldero estaban fuertemente dañados, en el frontal se encontraba el cesto del amortiguador derecho, pero sin el cuerpo del amortiguador y el sistema de suspensión. El bogie delantero estaba dañado, contenía ambos ejes, cuyas ruedas izquierdas estaban completamente hundidas en el lecho de balasto. La estructura de acero del caldero estaba rasgada justo detrás del bogie delantero. El bastidor del vagón estaba destruido, ambos largueros extremos del bastidor del vagón estaban retorcidos y rotos. El bogie trasero contenía ambos ejes, pero estaba fuertemente dañado y en él eran apreciables marcas evidentes de sobrecalentamiento y calentamiento debido a la acción del incendio. Ambas ruedas derechas del bogie trasero se encontraban a unos 80 cm sobre el lecho de balasto, ambas ruedas izquierdas estaban completamente hundidas en el lecho de balasto. A la izquierda del TDV, a la altura del bogie trasero, se encontraba un eje de pie. El extremo trasero del TDV y del caldero estaba también fuertemente dañado. La estructura de acero del caldero estaba rasgada, en su revestimiento se encontraba el cuerpo del amortiguador y partes del muelle anular. En el frontal trasero se encontraban dos amortiguadores, cuando en el amortiguador derecho era legible su número "26217". El estado de los grifos de freno en los extremos frontal y trasero del vagón no fue posible determinarlo mediante inspección debido al grado de daño, al igual que la posición de la manija del dispositivo de desenganche del freno de aire y de los conmutadores del modo de frenado y de los pesos de frenado. Debido a la dinámica del suceso del accidente y a la influencia del incendio, se produjo la destrucción del TDV en su conjunto, véase la Fig. n.º 11 de esta ZZ.
-
+El 10. TDV se encontraba en su posición final tras el MU en estado descarrilado, a la izquierda de la vía de la cabecera, volcado sobre su lado izquierdo y con el lado izquierdo hundido en el lecho de balasto, con el frontal en el pk 15,957. El TDV estaba girado hacia la izquierda con respecto al eje de la vía de la cabecera con su eje longitudinal en un ángulo de 8 °, y con su frontal estaba embutido en el trasero del 9. TDV situado delante de él; el trasero del TDV estaba en contacto con la estructura de la caldera del 11. TDV. El frontal del TDV y el fondo de la caldera estaban fuertemente dañados; en el frontal derecho se encontraba el cesto derecho del enganche, pero sin el cuerpo del enganche y el sistema de suspensión. El bogie delantero estaba dañado, contenía ambos bogies, cuyas ruedas izquierdas estaban completamente hundidas en el lecho de balasto. La estructura de acero de la caldera estaba rasgada justo detrás del bogie delantero. El bastidor del vagón estaba destruido, ambos largueros extremos del bastidor del vagón estaban retorcidos y rotos. El bogie trasero contenía ambos bogies, pero estaba fuertemente dañado y en él eran visibles marcas evidentes de esfuerzo térmico y calentamiento por efecto del incendio. Ambas ruedas derechas del bogie trasero se encontraban a unos 80 cm sobre el lecho de balasto, ambas ruedas izquierdas estaban completamente hundidas en el lecho de balasto. A la izquierda del TDV, a la altura del bogie trasero, se encontraba un bogie de forma independiente. El trasero del TDV y de la caldera estaba igualmente fuertemente dañado. La estructura de acero de la caldera estaba rasgada, en su revestimiento se encontraba el cuerpo del enganche y partes del muelle anular. En el frontal trasero se encontraban dos enganches, en el enganche derecho era legible su número "26217". El estado de los grifos de freno en el frontal y el trasero del vagón no fue posible determinarlo mediante inspección debido al grado de daño, al igual que la posición de la palanca del mecanismo de desconexión del freno de aire y de los conmutadores de modo de frenado y de las balanzas de frenado. Por la dinámica del suceso del accidente y el efecto del incendio se produjo la destrucción del TDV en su conjunto, véase Fig. 11 de esta ZZ.
 
 ## Página 48
 
-Debido a que no se encontraron otros elementos de identificación legibles del TDV y a la ausencia de números de amortiguadores en el acta de la inspección técnica, mediante la inspección no fue posible asignar a este TDV su número de registro, no obstante, atendiendo a su posición y a la posición del 1.º TDV en su posición final tras el MU, al que tampoco fue posible asignarle su número de registro mediante inspección, se trataba del TDV con número de registro 33 54 7834 010-2;
-Fig. n.º 12: Vista de la parte de cambio de la aguja n.º 2 dañada y del caldero del 11.º TDV destruido
+Dado que no se encontraron otros elementos identificativos legibles del TDV y que faltaban los números de los topes en el acta de la inspección técnica, no fue posible asignar a este TDV su número de registro mediante la inspección; no obstante, atendiendo a su posición y a la posición del 1.º TDV en la posición final tras el MU, al cual tampoco fue posible asignarle su número de registro mediante la inspección, se trataba del TDV con número de registro 33 54 7834 010-2;
+Fig. n.º 12: Vista de la sección de desvío dañada de la aguja n.º 2 y del caldero destruido del 11.º TDV
 Fuente: DI
 •
-El 11.º TDV se encontraba en su posición final tras el MU en estado descarrilado, a la izquierda de la vía de la cabeza de la vía, volcado sobre su lado izquierdo, con el extremo frontal en el pk 15,971. El bogie delantero estaba separado del bastidor del vagón y de la estructura de acero del caldero, contenía ambos ejes y se encontraba en el espacio de la aguja n.º 2, con las ruedas izquierdas fuera del riel de apoyo derecho (riel izquierdo en el sentido de marcha del tren), las ruedas derechas se encontraban en el espacio entre la lengüeta izquierda y el riel de apoyo izquierdo (derecho en el sentido de marcha). El TDV estaba con su eje longitudinal girado hacia la derecha respecto al eje de la vía de la cabeza de la vía con un ángulo de 60°. El extremo frontal (fondo) del caldero estaba en contacto con el caldero del 10.º TDV, cuando la estructura de acero del caldero estaba rasgada en el espacio sobre el bogie delantero. El bastidor del vagón estaba completamente deformado, sus ambos largueros extremos estaban retorcidos y separados de la estructura de acero del caldero. En el larguero principal derecho se encontraba el número de registro del vagón difícilmente legible 33 54 7932 003-8. El bogie trasero estaba fuertemente dañado y contenía solo el 4.º eje, que se encontraba fuera de su sistema de guiado, con la rueda izquierda hundida en el lecho de balasto. A la izquierda del TDV, aproximadamente a la altura del frontal del bastidor del bogie trasero, se encontraba un cuerpo de amortiguador yacente de forma independiente. En la parte trasera (fondo) del caldero se encontraba la placa metálica del caldero, cuyos datos sin embargo eran ilegibles. El estado de los grifos de acoplamiento de la tubería principal en los extremos frontal y trasero del vagón no fue posible determinarlo debido a la destrucción del TDV, al igual que la posición de la manija del dispositivo de desenganche del freno de aire y de los conmutadores del modo de frenado y de los pesos de frenado. Debido a la dinámica del suceso del accidente y a la influencia del incendio, se produjo la destrucción del TDV en su conjunto, véase la Fig. n.º 12 de esta ZZ;
+El 11.º TDV se encontraba en la posición final tras el MU en estado descarrilado, a la izquierda de la vía de la cabecera, volcado sobre su lado izquierdo, con el frontal en el km 15,971. El bogie delantero estaba separado del bastidor del vagón y de la estructura de acero del caldero, contenía ambos ejes y se encontraba en el espacio de la aguja n.º 2, con las ruedas izquierdas fuera del apoyo derecho (raíl izquierdo en el sentido de circulación del tren), y las ruedas derechas se encontraban en el espacio entre la lengüeta izquierda y el apoyo izquierdo (derecho en el sentido de circulación del tren). El TDV estaba girado hacia la derecha con su eje longitudinal respecto al eje de la vía de la cabecera en un ángulo de 60°. El frontal (fondo) del caldero estaba en contacto con el caldero del 10.º TDV, habiéndose roto la estructura de acero del caldero en el espacio situado sobre el bogie delantero. El bastidor del vagón estaba completamente deformado, sus dos largueros exteriores estaban retorcidos y separados de la estructura de acero del caldero. En el larguero principal derecho se encontraba el número de registro del vagón, difícilmente legible, 33 54 7932 003-8. El bogie trasero estaba gravemente dañado y contenía únicamente el 4.º eje, que se encontraba fuera de su sistema de guiado, con la rueda izquierda hundida en el balasto. A la izquierda del TDV, aproximadamente a la altura del frontal izquierdo del bastidor del bogie trasero, se encontraba el cuerpo del tope yacente de forma independiente. En la parte trasera (fondo) del caldero se encontraba la placa metálica del caldero, cuyos datos, sin embargo, eran ilegibles. El estado de las llaves de las tuberías principales en el frontal y en la parte trasera del vagón no pudo determinarse debido a la destrucción del TDV, al igual que la posición de la manija del dispositivo de corte del freno de aire y de los conmutadores de régimen de frenado y de las balanzas de freno. Debido a la dinámica del suceso del accidente y a la influencia del incendio, se produjo la destrucción del TDV en su conjunto, véase la Fig. n.º 12 de la presente ZZ;
 
 ## Página 49
+
 
 •
 12. El TDV se encontraba en su posición final tras la MU en estado descarrilado, a la izquierda de la vía de la cabecera, y su eje longitudinal estaba girado hacia la izquierda respecto al eje de la vía de la cabecera con un ángulo de 48 °. El bogie trasero del TDV, con ambos ejes, se encontraba en la parte central de la aguja n.º 2; el frontal estaba hundido hasta la altura de la esquina superior izquierda del zócalo en el terreno y en el balasto arrastrado, que además estaba cubierto por agente extintor. El bogie delantero estaba gravemente dañado y hundido en el terraplén ferroviario. En el frontal delantero del vagón faltaban, entre otros, ambos topes y los acoplamientos de manguera. El bastidor del vagón estaba gravemente dañado, sus largueros extremos estaban doblados, la caldera del vagón había sido destruida. A la izquierda del TDV, aproximadamente a la altura de su centro, se encontraba la base de hormigón del soporte de catenaria n.º 7A, formado por un poste de sección circular unido al pórtico portante, siendo la distancia mínima entre el soporte de catenaria y la caldera del vagón de 15 cm. En el larguero derecho del bastidor del vagón estaba el número de registro del vagón 33 54 7932 035-0, difícilmente legible; en el larguero derecho del bastidor del bogie trasero estaba legible el número de registro del vagón, complementado con la designación escrita del bogie delantero 33 54 7932 035-0a. El selector del modo de frenado estaba en posición de pasajero, el selector de las balanzas de freno estaba en posición de cargado, la manija del dispositivo de desconexión del freno de aire estaba en posición de conectado. El acoplamiento de manguera derecho de la tubería principal en el frontal trasero del TDV estaba abierto, faltaba el acoplamiento de manguera izquierdo, al igual que ambas mangueras de presión de la tubería principal rematadas con conectores, el tope izquierdo y la llave de acoplamiento. Debido a la dinámica del suceso del accidente y a la influencia del incendio, se produjo un daño extenso en el TDV en su conjunto, véase Fig. n.º 13 de esta ZZ;
 •
 13. El TDV CZ-DEZA 33 54 7834 011-0, en el sentido de la marcha, era un vagón cisterna (calderado) de cuatro ejes de la serie Zacens, que en su posición final tras la MU se encontraba en la parte de corazón de la aguja n.º 2, en estado no descarrilado, con el frontal delantero en el pk 15,984. El frontal delantero del TDV estaba encastrado en el frontal trasero del 12.º TDV acoplado delante de este TDV; con la parte frontal izquierda de la caldera tocaba el soporte de catenaria deformado n.º 8A con su pórtico portante, cuya estructura de acero estaba también en contacto con la chapa de revestimiento de la caldera. El TDV estaba dañado por la acción del calor durante el incendio, habiendo sido dañados ambos bogies del TDV, el armazón del piso del vagón, la caldera incl. revestimiento, aislamiento y equipamiento. Debajo del tope delantero derecho yace, a la izquierda del carril derecho, un tope; a la derecha, fuera del carril, yace un acoplamiento de manguera con parte de la manguera de presión (manguera de caucho) y una llave de acoplamiento. En los marcos situados sobre la ménsula de acero a la derecha sobre el 3.er eje se encontraba una placa naranja de dimensiones 400 x 300 mm, que tenía un borde negro de 15 mm de ancho y estaba dividida por una línea horizontal negra en dos campos independientes. En el campo superior de la placa figuraba el número de peligro de la sustancia 33 (el llamado código Kemler), en el campo inferior se encontraba el número de identificación de la sustancia 1114 (número UN). En la ménsula se encontraba además un marco romboidal con una señal de seguridad grande de color rojo en forma de cuadrado apoyado sobre el vértice con un ángulo de 45°, con la representación de una llama y el dígito 3, indicando líquido inflamable, todo en color negro. El estado del acoplamiento de manguera de la tubería principal en el frontal delantero del TDV no fue posible determinarlo debido al daño en el frontal delantero; el acoplamiento de manguera en el frontal trasero izquierdo estaba abierto, la manguera de presión estaba conectada con el conector de la manguera de presión del 14.º TDV. El selector del modo de frenado estaba en posición de pasajero, el selector de las balanzas de freno estaba en posición de cargado, la manija del dispositivo de desconexión del freno de aire estaba en posición de conectado, faltando las placas de los selectores y del dispositivo de desconexión del freno en el lado derecho del TDV. El TDV estaba correctamente acoplado con el 14.º TDV, véase más abajo. Debido a la dinámica del suceso del accidente y a la influencia del incendio, se produjo un daño extenso en el TDV en su conjunto, véase Fig. n.º 13 de esta ZZ;
 
-
 ## Página 50
 
-Fig. n.º 13: Vista de los miembros de intervención del HZS y de los TDV dañados. El primero de izquierda a derecha es el 12.º TDV, después el 13.º, 14.º y 15.º TDV, y a la derecha del todo el 16.º TDV, empujado junto con el 17.º TDV a una distancia segura con el fin de evitar la aparición de daños adicionales.
-Fuente: HZS ČR con edición de DI
+Fig. n.º 13: Vista de los miembros intervinientes del HZS y el TDV dañado. El primero de la izquierda es el 12.º TDV, a continuación el 13.º, 14.º
+y 15.º TDV, y completamente a la derecha el 16.º TDV, desplazado junto con el 17.º TDV a una distancia segura con el fin de
+evitar la aparición de daños adicionales.
+Fuente: HZS ČR con modificación de DI
 •
-14. El TDV CZ-RYKO 33 54 7932 028-5, véase Fig. n.º 13 de esta ZZ, en el sentido de la marcha era un vagón cisterna (calderado) de cuatro ejes de la serie Zacens y en su posición final tras la MU se encontraba en estado no descarrilado, con el frontal delantero en el pk 16,000, el bogie trasero en la parte de corazón de la aguja n.º 1, y estaba correctamente acoplado con el 13.º TDV mediante llave de acoplamiento; el acoplamiento de manguera de la tubería principal en el frontal trasero del 13.º TDV izquierdo y el acoplamiento de manguera izquierdo en el frontal delantero del 14.º TDV estaban abiertos, las mangueras de presión rematadas con conectores estaban interconectadas. El acoplamiento de manguera derecho en el frontal trasero estaba abierto. En el bastidor del piso del TDV, en ambos bogies, en la estructura de la caldera del vagón y en su revestimiento eran visibles huellas del incendio, siendo los textos en la placa de señalización del TDV situada a la izquierda sobre el bogie delantero difíciles de leer, y la placa naranja y la señal de seguridad grande habían quedado completamente inutilizadas por la acción del incendio. En el espacio entre el zócalo trasero y el frontal trasero (fondo) de la caldera se habían acumulado partes deformadas del revestimiento de chapa. El selector del modo de frenado estaba en posición de pasajero, el selector de las balanzas de freno estaba en posición de cargado, la manija del dispositivo de desconexión del freno de aire estaba en posición de conectado. El TDV estaba acoplado con el 15.º TDV, véase más abajo;
+14.º TDV CZ-RYKO 33 54 7932 028-5, véase Fig. n.º 13 de la presente ZZ, en el sentido de la marcha era
+un vagón cisterna (de caldera) de cuatro ejes de la serie Zacens y en la posición final tras el MU se
+encontraba en estado no descarrilado, con el extremo delantero en el pk 16,000, el bogie trasero
+en la parte de corazón de la aguja n.º 1, y estaba acoplado correctamente con el 13.º TDV
+mediante tornillo; la válvula de acoplamiento de la tubería principal en el extremo trasero del 13.º TDV
+a la izquierda y la válvula de acoplamiento izquierda en el extremo delantero del 14.º TDV
+estaban abiertas, y los acoples presurizados rematados con cabezales estaban conectados. La
+válvula de acoplamiento derecha en el extremo trasero estaba abierta. En el
+chasis del TDV, en ambos de sus bogies, en la estructura de la caldera del vagón y en su
+revestimiento eran visibles huellas de incendio, de modo que las inscripciones en la placa de señalización del TDV situada a la izquierda sobre el
+bogie delantero eran difícilmente legibles, y la placa naranja y la gran señal de
+seguridad estaban completamente deterioradas por la acción del incendio. En el espacio entre el
+extremo trasero y el extremo trasero (fondo) de la caldera se habían acumulado piezas deformadas
+del revestimiento de chapa. El selector del modo de frenado estaba en posición de pasajero,
+el selector de pesos de frenado estaba en posición de cargado, y la manija del dispositivo de desconexión del freno
+neumático estaba en posición de conectado. El TDV estaba acoplado con el
+15.º TDV, véase más abajo;
 •
-15. El TDV CZ-RYKO 33 54 7932 006-1 en el sentido de la marcha era un vagón cisterna (calderado) de cuatro ejes de la serie Zacens y en su posición final tras la MU se encontraba en estado descarrilado, con el frontal delantero en el pk 16,017, el frontal trasero en la parte de lengua de la aguja n.º 1. El TDV descarriló con ambos ejes del bogie trasero, estando la rueda izquierda del 3.er eje con su pestaña sobre la lengua recta izquierda, y la rueda izquierda del 4.º eje situada entre el soporte izquierdo (doblado) y la lengua recta izquierda sobre los travesaños deslizantes de esta aguja. Las ruedas derechas del 3.er y 4.º eje se encontraban fuera del soporte derecho, en su fijación a las traviesas de madera. En el frontal delantero del TDV eran visibles
-
+15.º TDV CZ-RYKO 33 54 7932 006-1 en el sentido de la marcha era un vagón cisterna (de caldera) de cuatro ejes de la serie Zacens y en la posición final tras el MU se encontraba en
+estado descarrilado, con el extremo delantero en el pk 16,017, el extremo trasero en la parte de lengüeta de la aguja n.º 1. El TDV descarriló con ambos ejes del bogie trasero, de modo que la rueda izquierda
+del 3.º bogie se apoyaba con su pestaña en el riel derecho directo de la aguja, y la rueda izquierda del 4.º bogie se
+encontraba entre el soporte izquierdo (curvado) y el riel derecho directo de la aguja sobre los patines deslizantes
+de esta aguja. Las ruedas derechas del 3.º y 4.º bogie se encontraban fuera del soporte derecho,
+en su fijación a las traviesas de madera. En el extremo delantero del TDV había
 
 ## Página 51
 
-daños por incendio, habiendo sido dañados la caldera y su revestimiento, ambos topes, estando el cuerpo del tope izquierdo doblado hacia arriba respecto al zócalo. Asimismo, la plataforma de trabajo, incluida la barandilla, había sido dañada por las partes acumuladas del revestimiento de chapa de la caldera. Debido a la acción del calor se produjo daño en el bogie delantero no descarrilado. El TDV estaba correctamente acoplado con el 14.º TDV mediante llave de acoplamiento; el acoplamiento de manguera derecho de la tubería principal en el frontal trasero del 14.º TDV y el acoplamiento de manguera derecho en el frontal delantero del 15.º TDV estaban abiertos, si bien las mangueras de presión en ambos frontales de los TDV acoplados habían sido destruidas por el incendio (se habían quemado). Aproximadamente en medio del vagón, en el pk 16,023, yacía sobre la estructura de la caldera la estructura reticulada gravemente deformada del soporte de catenaria n.º 7 con su pórtico portante, véase Fig. n.º 14 de esta ZZ. En el lado derecho del TDV, que no había sido afectado por el incendio con tanta intensidad, sobre el bogie trasero se encontraba la placa de señalización con el número de registro del vagón y otros textos relativos al TDV; allí se encontraba también una placa naranja de dimensiones 400 x 300 mm, que tenía un borde negro de 15 mm de ancho y estaba dividida por una línea horizontal negra en dos campos independientes. En el campo superior de la placa figuraba el número de peligro de la sustancia 33, en el campo inferior se encontraba el número de identificación de la sustancia 1114. En la placa de señalización se encontraba además una señal de seguridad grande de color rojo en forma de cuadrado apoyado sobre el vértice con un ángulo de 45 °, con la representación de una llama y el dígito 3, indicando líquido inflamable; el tope izquierdo estaba doblado hacia abajo, parte del disco del tope izquierdo estaba desprendida, el disco del tope derecho estaba deformado. El selector del modo de frenado estaba en posición de pasajero, el selector de las balanzas de freno estaba en posición de cargado, la manija del dispositivo de desconexión del freno de aire estaba en posición de conectado. Ambos acoplamientos de manguera de la tubería principal en el frontal trasero del TDV estaban cerrados, véase más abajo;
-Fig. n.º 14: Vista del 15.º TDV descarrilado por el bogie trasero y dañado. La imagen fue tomada tras el empuje del 16.º y 17.º TDV a una distancia segura con el fin de evitar la aparición de daños adicionales.
+Daño evidente por incendio, habiéndose dañado la caldera y su revestimiento, ambos amortiguadores, 
+siendo el cuerpo del amortiguador izquierdo doblado hacia arriba respecto al frontal. Además, 
+las piezas acumuladas del revestimiento metálico de la caldera dañaron la plataforma de trabajo 
+incluida la barandilla. Por la acción del calor se produjo daño en el bogie delantero no descarrilado. 
+El TDV estaba acoplado correctamente con el 14. TDV mediante tornillo, el acoplador derecho de la 
+tubería principal en el extremo trasero del 14. TDV y el acoplador derecho en el extremo delantero 
+del 15. TDV estaban abiertos, sin embargo los acoplos presurizados en ambos extremos de los TDV 
+acoplados fueron destruidos por el incendio (estaban calcinados). Aproximadamente en el centro del 
+vagón en el km 16,023 yacía sobre la estructura de la caldera la estructura reticulada fuertemente 
+deformada del travesaño de tracción n.º 7 con el pórtico portante, véase la Fig. n.º 14 de esta ZZ. 
+En el lado derecho del TDV, que no fue afectado por el incendio con tanta intensidad, sobre el bogie 
+trasero se encontraba la placa de señalización con el número de registro del vagón y otras inscripciones 
+relativas al TDV, además allí se encontraba una placa naranja de dimensiones 400 x 300 mm y tenía 
+un borde negro de 15 mm de ancho y estaba dividida por una línea horizontal negra en dos campos 
+separados. En el campo superior de la placa figuraba el número de peligrosidad de la sustancia 33, 
+en el campo inferior se encontraba el número de identificación de la sustancia 1114. En la placa de 
+señalización se encontraba además una gran señal de seguridad de color rojo en forma de cuadrado 
+apoyado sobre el vértice a 45 °, con la representación de una llama y el dígito 3, que indica líquido 
+inflamable, el amortiguador izquierdo estaba doblado hacia abajo, parte del disco del amortiguador 
+izquierdo estaba desprendida, el disco del amortiguador derecho estaba deformado. El selector de 
+modo de frenado estaba en posición de pasajero, el selector de pesos de frenado estaba en posición 
+cargado, la manija del dispositivo de corte del freno de aire estaba en posición activado. Ambos 
+acopladores de la tubería principal en el extremo trasero del TDV estaban cerrados, véase a 
+continuación;
+Fig. n.º 14: Vista del bogie trasero del 15. TDV descarrilado y dañado. La imagen fue tomada tras 
+el desplazamiento del 16. y 17. TDV a una distancia segura con el fin de evitar la aparición de 
+daños adicionales.
 Fuente: DI
 
-
 ## Página 52
+
 
 •
 16.º y 17.º TDV, véase Fig. n.º 15 de esta ZZ, que tras la MU se encontraban en su posición final tras la MU en estado no descarrilado, con el frontal trasero del 17.º TDV en el pk 16,066, fueron, hacia las 14:20 h del 28. 2. 2025, con el fin de evitar la aparición de daños adicionales, desacoplados y empujados manualmente por los miembros de intervención del HZS (bajo el mando del jefe de la UPE Ostrava del HZS SŽ) hasta una distancia segura de la composición descarrilada de los 15 TDV restantes. Antes del empuje se procedió a la desconexión del freno automático continuo de aire (en adelante, freno de aire o freno continuo) de ambos TDV y a la ventilación de los espacios de su freno de aire. Los TDV estaban, según la declaración del jefe de la UPE Ostrava del HZS SŽ, correctamente acoplados entre sí y conectados mediante las mangueras de presión de la tubería principal, estando abiertos los acoplamientos de manguera de la tubería principal en los frontales correspondientes de los 15.º, 16.º y 17.º TDV, no habiéndose detectado defectos en el acoplamiento y la interconexión de estos tres TDV.
@@ -1475,21 +1418,45 @@ En relación con lo anteriormente expuesto, puede concluirse que antes del empuj
 
 ## Página 53
 
-Fig. n.º 15: Vista de los TDV 17.º y 16.º desde el lado derecho en el sentido de circulación del tren Pn 52690. La fotografía fue tomada
-antes de su remolque a la estación de Lhotka n. B. con el fin de su posterior inspección y la realización de la prueba de freno.
+Obr. č. 15: Vista de los TDV 17.º y 16.º desde el lado derecho en el sentido de circulación del tren Pn 52690. La fotografía fue tomada
+antes de su remolque a la estación de Lhotka n. B. con el fin de la posterior inspección y la realización del ensayo de freno.
 Fuente: DI
 •
-El 16.º TDV CZ-DEZA 33 54 7834 005-2 era un vagón cisterna (de caldera) de cuatro ejes de la serie Zacens destinado, entre otros, al transporte de mercancías peligrosas de la clase 3 conforme al RID. El TDV estaba equipado con freno de aire KNORR KE-GP, aparato de freno con zapatas de freno no metálicas (compuestas) de la categoría K, tipo "C 810". El conmutador del modo de frenado estaba en posición de pasajero, el conmutador de pesos de frenado en posición de cargado, y la manija del dispositivo de desconexión del freno de aire en posición de conectado. En las tapas de las cajas de rodamientos de todos los bogies se encontraba una marca compuesta por dos franjas verticales blancas colocadas una sobre otra, que indicaba ruedas de material resistente al calor. Como consecuencia del esfuerzo térmico, incluso antes del desplazamiento de los TDV 16.º y 17.º, estaba fuertemente dañado especialmente su frontal delantero y la mitad delantera del TDV, cuando en el bastidor del suelo del vagón y en la cubierta metálica de la caldera eran visibles huellas de esfuerzo térmico y sobrecalentamiento debido a la acción del incendio. Las huellas de la acción del incendio eran asimismo visibles en el enganche de tracción y de choque y además en el zócalo del frontal delantero del vagón, estando dañada también la placa metálica de la caldera, si bien su número de fabricación "80433" era legible. En el lado izquierdo del vagón, la placa naranja y la gran señal de seguridad estaban dañadas por el esfuerzo térmico. Asimismo, las inscripciones en el vagón eran apenas legibles, respectivamente totalmente ilegibles. En el lado derecho del vagón, entre otros, estaban dañados el escalón y la escalera. En los marcos situados en la consola de acero del lado derecho del vagón, situada sobre el 3.er bogie, se encontraba una placa naranja de dimensiones 400 x 300 mm, que tenía un borde negro de 15 mm de ancho, y estaba dividida por una línea horizontal negra en dos campos independientes. En el campo superior de la placa figuraba el número de peligrosidad de la sustancia 33, en el campo inferior se encontraba el número de identificación de la sustancia 1114. En la consola se encontraba además un marco romboidal con la gran señal de seguridad de color rojo en forma de cuadrado apoyado sobre el vértice a un ángulo de 45°, con la representación de una llama y el dígito 3, que indica líquido inflamable, ambos en color negro. En ambos lados de la caldera, en su cubierta, se encontraba un código de cisterna legible
-
+El TDV 16.º CZ-DEZA 33 54 7834 005-2 era un vagón cisterna (de caldera) de cuatro ejes
+de la serie Zacens destinado, entre otros, al transporte de mercancías peligrosas de la clase 3 según el RID. El TDV estaba
+equipado con freno de aire KNORR KE-GP, aparato de freno con zapatas de freno no metálicas
+(composite) de la categoría K, tipo "C 810". El conmutador del modo de
+frenado estaba en posición de pasajero, el conmutador de pesos de frenado estaba en posición de cargado, la palanca
+del dispositivo de desconexión del freno de aire estaba en posición de conectado. En las tapas de los cajones de
+rodamientos de todos los bogies se encontraba una marca en forma de dos bandas blancas verticales
+colocadas una sobre otra, que indican ruedas de material resistente al calor. Como consecuencia
+del esfuerzo térmico, incluso antes del desplazamiento de los TDV 16.º y 17.º, estaba fuertemente dañado
+especialmente su frontal delantero y la mitad delantera del TDV, cuando en el bastidor del suelo del vagón
+y el revestimiento de chapa de la caldera eran visibles huellas de esfuerzo térmico y sobrecalentamiento por
+la acción del incendio. Las huellas de la acción del incendio eran asimismo visibles en el travesaño
+y el dispositivo de enganche, y además en el zócalo del frontal delantero del vagón; estaba dañado también
+el placa metálica de la caldera, aunque su número de fabricación "80433" era
+legible. En el lado izquierdo
+del vagón estaban dañados por el esfuerzo térmico el cartel naranja y la gran señal de
+seguridad. Asimismo, las inscripciones en el vagón eran apenas legibles, respectivamente totalmente ilegibles. En el
+lado derecho del vagón estaban dañados, entre otros, el escalón y la escalera. En los marcos colocados
+en la consola de acero del lado derecho del vagón, situada sobre el 3.er bogie, se encontraba
+un cartel naranja de dimensiones 400 x 300 mm, que tenía un borde negro de 15 mm de ancho,
+y estaba dividido por una línea horizontal negra en dos campos separados. En el campo superior
+del cartel figuraba el número de peligrosidad de la sustancia 33, en el campo inferior se encontraba
+el número de identificación de la sustancia 1114. En la consola se encontraba además un marco
+romboidal con la gran señal de seguridad de color rojo en forma de cuadrado apoyado
+en el vértice a un ángulo de 45°, con la representación de una llama y el dígito 3, que indica líquido inflamable,
+ambos en color negro. En ambos lados de la caldera, en su revestimiento, se encontraba un texto legible
 
 ## Página 54
 
-"L4BH" correspondiente al tipo de cisterna según el punto 4.3.4.1.1 del RID [L = cisterna para sustancias en estado líquido (líquidos o sustancias sólidas suministradas para su transporte en estado fundido), 4 = designación de la presión de cálculo más baja en bares, B = cisterna con aberturas de llenado o vaciado inferiores con 3 cierres y H = cisterna herméticamente cerrada], el plazo de revisión de la caldera no había sido superado. En el compartimento de las etiquetas (de estación) en el lado derecho del TDV se encontraba la etiqueta de vagón de transporte;
+código de cisterna «L4BH» correspondiente al tipo de cisterna según el punto 4.3.4.1.1 RID [L = cisterna para sustancias en estado líquido (líquidos o sólidos suministrados para el transporte en estado fundido), 4 = designación de la presión de cálculo más baja en bares, B = cisterna con aberturas de llenado o vaciado inferiores con 3 cierres y H = cisterna herméticamente cerrada], el plazo de revisión del depósito no se había superado. En el compartimento para etiquetas (de estación) en el lado derecho del TDV se encontraba la etiqueta de vagón de transporte;
 •
-El 17.º TDV CZ-RYKO 33 54 7932 030-1, que era un vagón de señal, era un vagón cisterna (de caldera) de cuatro ejes de la serie Zacens destinado, entre otros, al transporte de mercancías peligrosas de la clase 3. El TDV estaba equipado con freno de aire DAKO DK-GP, aparato de freno con zapatas de freno no metálicas (compuestas) de la categoría LL, tipo "IB 116*". El conmutador del modo de frenado estaba en posición de pasajero, el conmutador de pesos de frenado en posición de cargado, y la manija del dispositivo de desconexión del freno de aire en posición de conectado. En ambos lados de la caldera, en su cubierta, se encontraba un código de cisterna legible "L4BH", el plazo de revisión de la caldera no había sido superado. En la placa de inscripción situada sobre el 3.er bogie se encontraba una placa naranja de dimensiones 400 x 300 mm, que tenía un borde negro de 15 mm de ancho, y estaba dividida por una línea horizontal negra en dos campos independientes. En el campo superior de la placa figuraba el número de peligrosidad de la sustancia 33, en el campo inferior se encontraba el número de identificación de la sustancia 1114. En la placa de inscripción se encontraba además la gran señal de seguridad de color rojo en forma de cuadrado apoyado sobre el vértice a un ángulo de 45°, con la representación de una llama y el dígito 3, que indica líquido inflamable, ambos en color negro. En ambos lados del TDV, en la placa de inscripción, se encontraba una placa naranja y la gran señal de seguridad (véase más abajo), y el compartimento de etiquetas, en el que se encontraba la etiqueta de vagón de transporte. El TDV no presentaba visualmente signos de daños;
-
+17. El TDV CZ-RYKO 33 54 7932 030-1, que era el vagón de señalización, era un vagón cisterna (de depósito) de cuatro ejes de la serie Zacens destinado, entre otros, al transporte de sustancias peligrosas de la clase 3. El TDV estaba equipado con freno de aire DAKO DK-GP, aparato de freno con balas de freno no metálicas (compuestas) de la categoría LL, tipo «IB 116*». El selector de modo de frenado estaba en posición de pasajero, el selector de pesos de frenado estaba en posición cargado, la manija del dispositivo de desconexión del freno de aire estaba en posición activado. En ambos lados del depósito, en su revestimiento, se encontraba el código de cisterna «L4BH» legible, el plazo de revisión del depósito no se había superado. En la placa de señalización situada sobre el 3.º eje se encontraba una placa naranja de dimensiones 400 x 300 mm, que tenía un borde negro de 15 mm de ancho, y estaba dividida por una línea horizontal negra en dos campos independientes. En el campo superior de la placa se indicaba el número de peligrosidad de la sustancia 33, en el campo inferior se encontraba el número de identificación de la sustancia 1114. En la placa de señalización se encontraba además una gran señal de seguridad de color rojo con forma de cuadrado apoyado sobre el vértice a un ángulo de 45°, con la representación de una llama y el dígito 3, que indica un líquido inflamable, ambos en color negro. En ambos lados del TDV había en la placa de señalización una placa naranja y una gran señal de seguridad (véase abajo), y el compartimento para etiquetas, en el que se encontraba la etiqueta de vagón de transporte. El TDV no presentaba visualmente signos de daños;
 
 ## Página 55
+
 
 Fig. n.º 16: Vista del final del tren Pn 52690 en el pk 16,066 inmediatamente antes del desplazamiento de los TDV 16.º y 17.º por parte de los servicios de bomberos (HZS) a una distancia segura con el fin de evitar la causación de daños adicionales
 Fuente: HZS ČR
@@ -1504,8 +1471,8 @@ En todas las ruedas de los TDV descarrilados (se trataba de ruedas macizas) el i
 •
 Mediante la verificación del espesor de la chapa de acero con la que estaban fabricadas las secciones (segmentos) de las calderas de los TDV descarrilados perforadas, respectivamente desgarradas, durante el MU, no se detectó ningún valor de espesor inferior a 6 mm, véase el punto 3.1.7 de la presente ZZ;
 
-
 ## Página 56
+
 
 •
 La inspección no detectó ningún hecho que indicara el uso de los TDV incluidos en el tren en cuestión en un estado técnico que no correspondiera a la aptitud aprobada.
@@ -1519,8 +1486,8 @@ Durante todo el tiempo de circulación del tren Pn 52690 en el tramo de vía del
 Durante todo el tiempo de circulación del tren Pn 52690 en el tramo de vía delimitado por la última señal de sección AB 2-173 y la señal de entrada 2L de la estación de Hustopeče n. B., los rayos solares procedían del lado izquierdo del maquinista, respectivamente del maquinista-instructor, con un ángulo de aproximadamente 55°, véase Fig. n.º 17 de la presente ZZ.
 La intensidad y dirección de los rayos solares no eran tales que influyeran negativamente en la percepción de las señales señalizadas por la última señal de sección AB 2-173 y la señal de entrada 2L de la estación de Hustopeče n. B.
 
-
 ## Página 57
+
 
 Fig. n.º 17: Posición del sol durante la circulación del tren Pn 52690 hacia la señal de entrada 2L
 de la estación de Hustopeče n. B.
@@ -1551,8 +1518,8 @@ medio ambiente, registrado por DIAMO
 31 201 180 Kč.
 **)
 
-
 ## Página 58
+
 
 En el MU, el daño causado en la DV, en los componentes de la vía y en el medio ambiente se cuantificó en total
 ### en 415 246 597 Kč. **)
@@ -1588,6 +1555,7 @@ Las restricciones derivadas del MU estuvieron más influenciadas por el incendio
 
 ## Página 59
 
+
 mecánicas, no obstante, no puede excluirse una determinada proporción de chispas producidas durante un cortocircuito eléctrico provocado por el arrancamiento de la TV.
 El foco del incendio fue establecido por el investigador de incendios en un total de 15 TV del tren Pn 52690, donde se producía una combustión con llama de distinta intensidad, habiéndose registrado la combustión más intensa en las primeras TV descarriladas.
 El foco criminalístico fue establecido por el investigador de incendios en las primeras unas 10 TV, que descarrilaron y presentaron la mayor acción de las fuerzas destructivas dentro del suceso del accidente.
@@ -1621,8 +1589,8 @@ El transportista del tren Pn 52690 era ODOSC, con domicilio en U Tiskárny 616/9
 El transporte ferroviario en la vía estatal se realizaba en virtud de un contrato celebrado entre el operador de la infraestructura SŽ y el transportista ODOSC el 19. 8. 2024, con efectos desde el 20. 8. 2024.
 El propietario de la vía lateral «DEZA Valašské Meziříčí» era DEZA, con domicilio en Masarykova 753, Krásno nad Bečvou, Valašské Meziříčí, CP 757 01, que era asimismo el operador de dicha vía lateral.
 
-
 ## Página 60
+
 
 El transporte ferroviario en la vía lateral «DEZA Valašské Meziříčí» se realizaba en virtud de un contrato celebrado entre el operador de la infraestructura DEZA y el transportista ODOSC el 3. 3. 2023, con efectos desde la misma fecha.
 ### 3.1.7 Descripción de los vehículos ferroviarios y de sus composiciones, incluidos los números de registro
@@ -1666,8 +1634,8 @@ las 17 TV tenían, según la documentación de sus titulares:
 las 17 TV tenían, según la documentación del remitente, que era la sociedad DEZA:
 ◦una placa naranja de dimensiones 400 x 300 mm con un borde negro de 15 mm de ancho, dividida por una línea horizontal negra en dos campos independientes.
 
-
 ## Página 61
+
 
 En el campo superior de la placa figuraba el número de identificación de peligrosidad 33,
 en el campo inferior se encontraba el número de identificación de la sustancia 1114,
@@ -1683,8 +1651,8 @@ La EDB se utiliza preferentemente al frenar la LV, incluso en el frenado de acci
 Al seleccionar la fuerza de frenado deseada mediante la palanca selectora de fuerza de tracción/frenado (posición «B»), actúa únicamente la EDB de la LV (en caso de tracción múltiple, también la EDB de las LV controladas) – se trata del llamado frenado regulador con un aumento lineal de la fuerza de frenado de 30 kN/s. El retardo entre la solicitud de EDB (el paso de la palanca selectora de fuerza de tracción/frenado a la posición «B») y el inicio de la generación de fuerza de frenado EDB, tras una marcha previa a inercia, es de 0,3 s. En el frenado operativo provocado por la manipulación de la palanca del freno del maquinista, la EDB actúa conjuntamente con el freno neumático y su cooperación se regula mediante módulos de blending – el sistema de mando de la LV, en función del valor deseado de reducción de la presión de aire en la tubería principal, activa la EDB de la LV de la misma manera y con la misma dinámica que en el caso del freno neumático. Los distintos parámetros de los modos de frenado «G», «P» y «R», derivados de la posición de la palanca selectora del modo de frenado en la válvula de mando del freno indirecto, se tienen en cuenta automáticamente. Si durante este frenado el efecto de la EDB resultara insuficiente (p. ej. por efecto de la disminución de la velocidad) y, por tanto, su fuerza de frenado fuera menor que la fuerza de frenado requerida por el sistema de mando, el freno neumático complementaría la EDB (Blending).
 Combinando el frenado regulador y el frenado operativo, el efecto de la EDB en el frenado operativo puede aumentarse manipulando la palanca selectora de fuerza de tracción/frenado, con la que el maquinista selecciona una fuerza de frenado EDB mayor que la fuerza de frenado EDB correspondiente al valor de la presión de aire reducida en la tubería principal. Análogamente, la fuerza de frenado EDB aumentada por el frenado regulador puede reducirse manipulando la palanca selectora de fuerza de tracción/frenado, pero únicamente hasta el valor de la fuerza de frenado correspondiente al valor de la presión de aire reducida en la tubería principal.
 
-
 ## Página 62
+
 
 La fuerza de frenado máxima EDB está ajustada a 150 kN (opcionalmente a 240 kN), utilizándose en el rango superior de velocidades – a velocidades desde aproximadamente 95 km·h-1. A velocidades inferiores, la fuerza de frenado máxima se reduce según una hipérbola de potencia, siempre de modo que no se supere la fuerza de frenado total máxima admisible y, por tanto, el uso máximo admisible del coeficiente de adherencia. A una velocidad <50 km·h-1, el déficit de fuerza de frenado EDB se compensa automáticamente mediante el uso del freno neumático. La EDB actúa desde velocidades de frenado iniciales >10 km·h-1 y su acción termina antes del estado de reposo, cuando entre 5 y 2 km·h-1 se produce una transición suave al freno neumático con una reducción lineal de la fuerza de frenado dinámica hasta el valor cero.
 Si el maquinista activa el pulsador de parada de emergencia, la LV se frena únicamente con el efecto del freno neumático (la masa de frenado de la LV frenada en el modo R+E es de 157 t, en el modo P+E es de 105 t, en el modo R es de 135 t, con la que la LV se frena incluso al utilizar el freno directo, en el modo P es de 95 t y en el modo G es de 72 t). Simultáneamente se desconecta el interruptor principal y se baja el pantógrafo.
@@ -1694,6 +1662,7 @@ Fuente: Siemens Mobility GmbH con modificación de DI
 En la vía, donde el operador de la infraestructura autoriza la recuperación, lo que también era aplicable a la vía estatal Horní Lideč frontera estatal – Hranice na Moravě, la energía de frenado EDB se devuelve (recupera) a la red. Si la red no es capaz de absorber la energía generada durante el frenado, entonces, al circular en el sistema de tracción alterna, la EDB se desconecta automáticamente; al circular en el sistema de tracción continua, dicha energía se disipa mediante la resistencia de frenado. La EDB y, por tanto, la recuperación pueden desactivarse (desconectarse) en la LV 383.223-5 en el bastidor de servicio del armario eléctrico de freno en la sala de máquinas de la LV, girando el conmutador de activación de la EDB de la posición vertical «I» a la posición horizontal «0». Si la EDB no está desconectada mediante el conmutador en la sala de máquinas, puede
 
 ## Página 63
+
 
 Desactivar la EDB en la cabina del maquinista durante el frenado de servicio pulsando el botón de desactivación/activación de la EDB en la cabeza de la palanca de mando del freno del maquinista, o bien no accionando la palanca selectora de fuerza de tracción/frenado a la posición «B».
 Se expidió la autorización para la comercialización del HDV 383.223-5 por parte de la Agencia Ferroviaria de la Unión Europea el 3. 11. 2022. La última inspección técnica periódica anterior al accidente se realizó el 9. 1. 2025 en Bratislava, con una validez de 6 meses.
@@ -1737,8 +1706,8 @@ se activó la parte móvil del sistema de vigilancia MIREL VZ1.
 Aproximadamente un segundo después (a las 11:25:19.90 h) se encendió la luz azul
 en el repetidor de señal;
 
-
 ## Página 64
+
 
 •
 11:26:11.35 h
@@ -1764,8 +1733,8 @@ inicio de la marcha en balastro. En el repetidor de señal estaban encendidas la
 el frontal del tren, circulando a una velocidad de 95,6 km·h-1, se encontraba al nivel de la señal de sección AB 2-173, es decir, a 1 074 m de la señal de entrada 2L de la est. Hustopeče n. B. y a 2 036 m del lugar de la parada final tras el accidente. En el repetidor de señal estaban encendidas las luces amarilla y azul.
 0,4 s después (a las 11:36:59.90 h) en el repetidor de señal se apagó la luz amarilla, permaneciendo encendida la luz azul. El frontal del HDV del tren, circulando a una velocidad de 95,6 km·h-1, se encontraba a 1 071 m de la señal de entrada 2L de la est. Hustopeče n. B.;
 
-
 ## Página 65
+
 
 •
 11:37:01.15 h
@@ -1788,8 +1757,8 @@ El frontal del tren se encontraba a una distancia de 639 m de la señal de entra
 11:37:19.60 h
 en el repetidor de señal se apagó la luz azul y permaneció encendida únicamente la luz del anillo amarillo. Al mismo tiempo se activó la bocina acústica de la parte móvil del sistema de vigilancia, que exige al maquinista la confirmación de vigilia. El frontal del tren, circulando a una velocidad de 96,2 km·h-1, se encontraba a una distancia de 543 m de la señal de entrada 2L de la est. Hustopeče n. B.;
 
-
 ## Página 66
+
 
 •
 11:37:20.50 h
@@ -1831,6 +1800,7 @@ excedida en 55,1 km·h-1;
 
 ## Página 67
 
+
 •
 11:37:48.00 h
 en el repetidor de señal se apagó la luz azul y solo permaneció encendida la luz del anillo amarillo. Al mismo tiempo se activó la alarma acústica de la parte móvil del sistema de seguridad que exigía al maquinista una confirmación de vigilia. El frente del tren circulando a 94,9 km·h-1 se encontraba a una distancia de 36 m antes del inicio de la aguja n.º 1 de la est. Hustopeče n. B. y a 751 m antes del lugar de detención final tras
@@ -1858,8 +1828,8 @@ el frente del tren frenado por la acción de la EDB y circulando a
 ### 94,5 km·h-1 se encontraba en el lugar de aparición de MU (km 15,966). La velocidad máxima permitida de 40 km·h-1 fue excedida
 en 54,5 km·h-1;
 
-
 ## Página 68
+
 
 •
 11:37:52.75 h
@@ -1890,8 +1860,8 @@ en el repetidor de señal se apagó la luz azul, la presión de aire en la tuber
 11:37:54.80 h
 se registró el inicio de la entrada de aire en los cilindros de freno del segundo (trasero) bogie de la locomotora. En el repetidor de señal no había ninguna luz encendida, la presión de aire en la tubería principal tenía un valor de 3,2 a 3,5 bar y seguía disminuyendo. El frente de la locomotora circulando a 86,6 km·h-1, respectivamente 86,4 km·h-1, se encontraba en la zona entre las agujas n.º 3 y 5, a una distancia de 575 m, respectivamente 570 m, antes del lugar de detención final tras la aparición de MU;
 
-
 ## Página 69
+
 
 •
 11:37:54.90 h
@@ -1923,8 +1893,8 @@ la denominación básica de serie expresada con una letra mayúscula, que caract
 la denominación secundaria de serie (expresada por una combinación, respectivamente un grupo, de letras minúsculas), que caracteriza las características operativas básicas.
 La denominación escrita Zacens significaba, por tanto, en este caso concreto:
 
-
 ## Página 70
+
 
 Z – vagón cisterna con tanque metálico para el transporte de productos líquidos o gaseosos;
 a – con 4 ejes;
@@ -1936,8 +1906,8 @@ Fig. n.º 19: Vista de una captura de un modelo 3D de un vagón cisterna de la s
 Fuente: TATRAVAGÓNKA con modificación del DI
 Grado de llenado de los vagones cisterna – a los vagones cisterna, en la terminología RID denominados también cisternas no desmontables, no les era aplicable desde el punto de vista de su llenado la disposición del apartado
 
-
 ## Página 71
+
 
 4.3.2.2.4 RID, es decir, las cisternas (tanques) de estos vagones no tenían que estar llenadas al menos al 80 % o como máximo al 20 % de su volumen. Los vagones participantes en la MU, cuyas cisternas no estaban divididas por tabiques o bafles en compartimentos, estaban construidos de manera que podían llenarse, por ejemplo, al 50 % de su volumen y, al mismo tiempo, almacenar de forma segura la carga transportada durante el transporte, en el que se producen, entre otros, impactos dinámicos que provocan la aparición de ondas de choque. No obstante, atendiendo a la economía del transporte, se aplica la máxima carga posible (grado de llenado) del vagón cisterna, que está definida por la fórmula indicada en el apart. 4.3.2.2.1 RID.
 Para el benceno y sus conocidas propiedades físicas puede considerarse, según la fórmula del apart. 4.3.2.2.1 letra c) RID, con el coeficiente medio de dilatación del benceno entre 15 °C y 50 °C calculado (→ para un aumento de temperatura de como máximo 35 °C) según la relación indicada en el apart. 4.3.2.2.2 RID, un grado de llenado máximo posible (porcentaje real de utilización del volumen interior) en los vagones cisterna con cisternas herméticamente cerradas de hasta el 97 %, y ello con una temperatura media del benceno en el llenado cercana a 50 °C, respectivamente del 93,9 % con una temperatura media del benceno en el llenado cercana a 20 °C.
@@ -1969,22 +1939,25 @@ De los datos indicados en la Tab. n.º 4 de esta ZZ se deduce que en los vagones
 
 ## Página 72
 
-Los VTD (vehículos-tanque) del titular y propietario DEZA (1.º, 3.º a 6.º, 8.º, 10.º, 13.º y 16.º VTD del material tractor del tren Pn 52690) eran vagones cisterna (de caldera) de cuatro ejes de la serie Zacens, tipo N-305-00, versión C, con un volumen de caldera de 80 m3, fabricados en 2016 por la empresa TATRAVAGÓNKA, con sede en Poprad (República Eslovaca). Los vagones de la serie Zacens tipo N-305-00 versión C estaban destinados al transporte de líquidos ligeros de la clase 3, o en su caso 6.1, 8 y 9 según el RID. Los vagones estaban equipados con dos bogies de dos ejes tipo Y 25 Ls1-K, destinados a vagones de carga ferroviarios, con un peso máximo por eje de 22,5 t. Los bogies estaban equipados con juegos de ruedas con ruedas macizas de un diámetro de 920 mm. Los vagones estaban dotados de freno de aire KNORR KE-GP, con balatas de freno no metálicas (compuestas) de la categoría K, tipo «C 810», de una longitud de 320 mm, y de freno de mano de husillo operado desde la plataforma sobre el travesaño frontal. La velocidad máxima del vagón cargado era de 100 km·h-1, y la del vagón vacío de 120 km·h-1.
-Fig. n.º 20: Imagen ilustrativa del VTD de la serie Zacens tipo N-305-00 del titular y propietario DEZA
+Las TDV (documentos de transferencia de vagones) del titular y propietario DEZA (1., 3. a 6., 8., 10., 13. y 16. TDV de los vagones de rodadura del tren Pn 52690) eran vagones cisterna (calderas) de cuatro ejes de la serie Zacens, tipo N-305-00, versión C, con un volumen de caldera de 80 m3, fabricados en 2016 por la empresa TATRAVAGÓNKA, con sede en Poprad (República Eslovaca). Los vagones de la serie Zacens tipo N-305-00 versión C estaban destinados al transporte de líquidos ligeros de la clase 3, o en su caso 6.1, 8 y 9 según el RID. Los vagones estaban equipados con dos bogies de dos ejes tipo Y 25 Ls1-K, destinados a vagones de carga ferroviarios, con un peso máximo por eje de 22,5 t. Los bogies estaban equipados con juegos de ruedas con ruedas macizas de un diámetro de 920 mm. Los vagones estaban dotados de freno de aire KNORR KE-GP, con balatas de freno no metálicas (compuestas) de la categoría K, tipo "C 810", de 320 mm de longitud, y freno de mano de husillo accionado desde la plataforma sobre el remolque. La velocidad máxima del vagón cargado era de 100 km·h-1, y la del vagón vacío de 120 km·h-1.
+Fig. n.º 20: Imagen ilustrativa de la TDV de la serie Zacens tipo N-305-00 del titular y propietario DEZA             
 Fuente: TATRAVAGÓNKA
-La caldera del vagón, de un volumen nominal de 80 m3, estaba alojada en asientos y unida de forma no desmontable al chasis del vagón. La caldera estaba calentada por serpentines exteriores de calefacción (calefactores en forma de tubo semicircular) y envuelta en un aislamiento de lana mineral de un espesor de 100 mm, que estaba cubierto por una carcasa de chapa galvanizada de un espesor de 0,8 mm. El medio calefactor de la caldera era vapor saturado. La caldera estaba además, entre otros, equipada con un sistema cerrado de circulación de gases y vapores, incluida una válvula de vacío, y con un domo normalizado DN 500 con cierre de cuatro puntos. El conjunto soldado de la caldera, de un diámetro de 2 720 mm, consistía, entre otros, en dos fondos abovedados en los extremos de la caldera y 6 faldones (segmentos); frente a la acción de la sobrepresión exterior estaba reforzado con 6 anillos y en sentido longitudinal estaba simétricamente inclinado (con pendiente) hacia el centro del vagón con un ángulo de 1,5 °. El material del conjunto soldado era el acero estructural fino de grano P355NH con un valor mínimo de
-
+La caldera del vagón, de un volumen nominal de 80 m3, estaba apoyada en asientos y unida de forma no desmontable al piso del vagón. La caldera estaba calentada por serpentines externos (calefactores en forma de tubo semicircular) y envuelta en aislamiento de lana mineral de un espesor de 100 mm, que estaba cubierto por una chapa galvanizada de un espesor de 0,8 mm. El medio calefactor de la caldera era vapor saturado. La caldera estaba además, entre otros, equipada con un sistema cerrado de circulación de gases y vapores, incluida una válvula de alivio de vacío, y con un domo normalizado DN 500 con cierre de cuatro puntos. La soldadura de la caldera, de un diámetro de 2 720 mm, consistía, entre otros, en dos fondos abovedados en los extremos de la caldera y 6 costillas (segmentos); frente a la presión de sobrepresión externa estaba reforzada con 6 anillos y en sentido longitudinal estaba doblada simétricamente (con pendiente) hacia el centro del vagón con un ángulo de 1,5 °. El material de la soldadura era acero estructural de grano fino P355NH con un mínimo de
 
 ## Página 73
 
-límite elástico de 355 MPa. El espesor de la chapa de acero a partir de la cual se fabricaron los fondos y los faldones era de al menos 6,9 mm; el valor de la adición de corrosión utilizado en el diseño de la caldera era de 1,05 mm.
-Los vagones, por su construcción, cumplían las condiciones de resistencia definidas en la TSI WAG y en la norma ČSN EN 12663-2.
-Los VTD del titular y propietario RYKO (2.º, 7.º, 9.º, 11.º, 12.º, 14.º, 15.º y 17.º VTD del material tractor del tren Pn 52690) eran vagones cisterna (de caldera) de cuatro ejes de la serie Zacens, tipo 9-399.4, con un volumen de caldera de 75 m3, que fueron reconstruidos entre los años 2005 y 2008 a partir de vagones de la serie Zans, tipo 9-399.2, o de la serie Zaes tipo 9-343.2, fabricados por la empresa Vagónka Studénka. La documentación relacionada con el cambio consistente en la modificación del chasis del vagón (en particular el refuerzo del bastidor longitudinal soldado) y la instalación de una nueva caldera de un volumen de 75 m3 con aislamiento térmico fue aprobada por el DÚ (Departamento de Transporte) en octubre de 2005. Los vagones de la serie Zacens tipo 9-399.4 estaban destinados al transporte de líquidos ligeros de la clase 3, o en su caso 6.1, 8 y 9 según el RID, que corresponden al código de cisterna L4BH y a las disposiciones especiales TE4, TE6 y TE13 de la sección 6.8.4 del RID.
-Los vagones fueron equipados durante la reconstrucción con nuevos bogies de dos ejes tipo Y 25 Ls(s)d1, destinados a vagones de carga ferroviarios, con un peso máximo por eje de 22,5 t. Los bogies estaban equipados con juegos de ruedas con ruedas macizas de un diámetro de 920 mm. Los vagones estaban dotados de freno de aire DAKO DK-GP, con zapatas de doble bloque con balatas de freno no metálicas (compuestas) de la categoría LL, tipo «IB 116*», de una longitud de 2 x 250 mm, y de freno de mano de husillo operado desde la plataforma sobre el travesaño frontal. La velocidad máxima del vagón cargado era de 100 km·h-1, y la del vagón vacío de 120 km·h-1.
-La caldera del vagón, de un volumen nominal de 75 m3, estaba alojada en asientos y unida de forma desmontable al chasis del vagón mediante uniones roscadas. La caldera estaba calentada por serpentines exteriores de calefacción (calefactores en forma de tubo semicircular) y envuelta en mantas aislantes de un espesor de 100 mm, que estaban cubiertas por una carcasa de chapa galvanizada de un espesor de 0,6 mm. El medio calefactor de la caldera era vapor saturado. La caldera estaba además, entre otros, equipada con un sistema cerrado de circulación de gases y vapores, incluida una válvula de vacío, y con un domo normalizado DN 500 con cierre de cuatro puntos. El conjunto soldado de la caldera, de un diámetro de 2 650 mm, consistía, entre otros, en dos fondos abovedados en los extremos de la caldera y 6 faldones (segmentos); frente a la acción de la sobrepresión exterior estaba reforzado con 6 anillos y en sentido longitudinal estaba simétricamente inclinado (con pendiente) hacia el centro del vagón con un ángulo de 2 °. El material del conjunto soldado era el acero estructural S355J2G3 con un valor mínimo de límite elástico de 355 MPa. El espesor de la chapa de acero a partir de la cual se fabricaron los faldones era de al menos 6,3 mm, y en el caso de los fondos abovedados de la caldera de al menos 6,6 mm. El valor de la adición de corrosión utilizado en el diseño de la caldera era de 1 mm. Para esta nueva caldera (cisterna) emitió el DÚ el 25. 10. 2005 el Certificado de aprobación de tipo de cisterna de vagón ferroviario de acuerdo con el subapartado 6.8.2.3 del RID.
+con un valor de límite de fluencia de 355 MPa. El espesor de la chapa de acero a partir de la cual se fabricaron los fondos y las bandas fue de al menos 6,9 mm, y el valor de margen de corrosión utilizado en el diseño del calderín fue de 1,05 mm.
 
+Los vagones cumplían con sus características de construcción las condiciones de resistencia definidas en la TSI WAG y en la norma ČSN EN 12663-2.
+
+Los TDV del titular y propietario RYKO (2.º, 7.º, 9.º, 11.º, 12.º, 14.º, 15.º y 17.º TDV del HDV del tren Pn 52690) eran vagones cisterna (de calderín) de cuatro ejes de la serie Zacens, tipo 9-399.4, con un volumen de calderín de 75 m3, que fueron reconstruidos en los años 2005 a 2008 a partir de vagones de la serie Zans, tipo 9-399.2, respectivamente de la serie Zaes tipo 9-343.2, fabricados por la empresa Vagónka Studénka. La documentación relacionada con el cambio consistente en la modificación del bajo del vagón (en particular el refuerzo del bastidor longitudinal soldado) y la instalación de un nuevo calderín de 75 m3 de volumen con aislamiento térmico fue aprobada por el DÚ en octubre de 2005. Los vagones de la serie Zacens tipo 9-399.4 estaban destinados al transporte de líquidos ligeros de la clase 3, o en su caso 6.1, 8 y 9 según el RID, que corresponden al código de cisterna L4BH y a las disposiciones especiales TE4, TE6 y TE13 de la sección 6.8.4 del RID.
+
+Los vagones fueron equipados durante la reconstrucción con nuevos bogies de dos ejes tipo Y 25 Ls(s)d1, destinados a vagones de carga ferroviarios, con un peso máximo por eje de 22,5 t. Los bogies estaban equipados con juegos de ruedas con ruedas macizas de un diámetro de 920 mm. Los vagones estaban equipados con freno de aire DAKO DK-GP, con dobles bloques de freno con zapatas de freno no metálicas (compuestas) de la categoría LL, tipo "IB 116*", longitud 2 x 250 mm, y freno de mano de husillo accionado desde la plataforma sobre el remolque. La velocidad máxima del vagón cargado era de 100 km·h-1, y la del vagón vacío de 120 km·h-1.
+
+El calderín del vagón con un volumen nominal de 75 m3 estaba apoyado en asientos y unido desmontablemente al bajo del vagón mediante uniones atornilladas. El calderín estaba calentado por calefactores exteriores (calefactores en forma de tubo semicircular) y envuelto con mantas aislantes de 100 mm de espesor, que estaban cubiertas por una carcasa de chapa galvanizada de 0,6 mm de espesor. El medio calefactor del calderín era vapor saturado. El calderín estaba además equipado, entre otros, con un sistema cerrado de circulación de gases y vapores, incluida una válvula de vacío, y con un domo normalizado DN 500 con cierre de cuatro puntos. La pieza soldada del calderín de un diámetro de 2 650 mm consistía, entre otros, en dos fondos abovedados en los extremos del calderín y 6 bandas (segmentos), estaba reforzada frente a la presión de sobrepresión externa con 6 anillos y estaba doblada simétricamente (inclinada) en la dirección longitudinal hacia el centro del vagón con un ángulo de 2 °. El material de la pieza soldada era el acero estructural S355J2G3 con un valor mínimo de límite de fluencia de 355 MPa. El espesor de la chapa de acero a partir de la cual se fabricaron las bandas fue de al menos 6,3 mm, y en el caso de los fondos abovedados del calderín de al menos 6,6 mm. El valor de margen de corrosión utilizado en el diseño del calderín fue de 1 mm. Para este nuevo calderín (cisterna) emitió el DÚ el 25. 10. 2005 el Certificado de aprobación de tipo de cisterna de vagón ferroviario según el subapartado 6.8.2.3 del RID.
 
 ## Página 74
+
 
 Fig. n.º 21: Imagen ilustrativa del VTD de la serie Zacens tipo 9-399.4 del titular y propietario RYKO
 Fuente: RYKO
@@ -1994,8 +1967,8 @@ Puede concluirse, por tanto, que los VTD participantes en el MU (hecho objeto de
 Las inscripciones en ambos lados del 17.º VTD, que en el examen como único no presentaban visualmente signos de daño, véase el punto 3.1.3 de la presente ZI, cumplían las disposiciones del apartado 6.8.2.5.2 del RID. La placa metálica de la caldera, que estaba unida a la caldera de forma no desmontable (permanente), era fácilmente accesible desde la plataforma sobre el travesaño frontal para los fines de las inspecciones y contenía todos los datos definidos en el apartado 6.8.2.5.1 del RID. Las señales de seguridad grandes utilizadas, por sus colores, símbolos, forma y dimensiones, correspondían a las disposiciones del apartado 5.2.2.2.2 del RID; las placas naranjas correspondían a las disposiciones de los apartados 5.3.2.2.1 y 5.3.2.2.3 del RID, véase también el punto 4.1.7 de la presente ZI.
 Desde el punto de vista de la operatividad del VTD, era relevante, de acuerdo con el decreto n.º 173/1995 Sb., su inspección técnica, que era a la vez una verificación de la conformidad del vehículo con el tipo aprobado. La fecha de su realización y el período de vigencia se indican, de conformidad con la ČSN EN 15877-1, en las inscripciones del vagón en la tabla REV. El intervalo de tiempo del plazo para la realización de la inspección técnica
 
-
 ## Página 75
+
 
 periódica para vagones de carga con una velocidad máxima en estado cargado de hasta 100 km·h-1 inclusive era, de acuerdo con el Anexo 5 del decreto n.º 173/1995 Sb., de 6 años, teniendo el plazo de tiempo para la realización de las reparaciones de revisión el mismo valor, debiendo garantizarse el control del estado técnico siempre en un intervalo de 180 000 ± 25 000 km.
 No obstante, dado que de acuerdo con el apartado 6.8.2.4.2 del RID las calderas (depósitos no desmontables) debían someterse a inspecciones periódicas como máximo cada 8 años y, de acuerdo con el apartado 6.8.2.4.3 del RID, a inspecciones interperiódicas como máximo a los 4 años de la primera inspección y de cada inspección periódica, el sujeto responsable del mantenimiento (ECM) redujo el plazo de tiempo para la realización de la inspección técnica periódica del VTD a 4 años. Este dato temporal – período de vigencia de la matriz de mantenimiento – fue detectado durante el examen en los largueros visualmente no dañados del 16.º y 17.º VTD, en la primera columna de la tabla de mantenimiento periódico (matriz de mantenimiento). Las fechas de las inspecciones técnicas realizadas se contienen en la tabla introductoria de este punto de la ZI, y los valores del recorrido kilométrico de los vehículos participantes en el MU desde la última inspección técnica se contienen en la Tabla n.º 4 anterior de esta ZI.
@@ -2004,6 +1977,7 @@ De los certificados emitidos por la organización de inspección acreditada RAIL
 Sobre la base de lo anterior, puede constatarse que los VTD del titular DEZA y del titular RYKO acreditablemente pasaban por un mantenimiento periódico, no se habían excedido los intervalos de tiempo de las inspecciones y las actuaciones de mantenimiento relativas a la cisterna (caldera) y a su equipamiento se registraban. El sujeto responsable del mantenimiento (ECM) garantizó así, de conformidad con el subapartado 1.4.3.8 del RID, que el mantenimiento de las cisternas (calderas) y de su equipamiento se realizara de tal modo,
 
 ## Página 76
+
 
 para garantizar que, en condiciones normales de explotación, el vagón cisterna cumpla los requisitos de RID.
 Los requisitos exigidos al titular del VTD, respectivamente a sus explotadores, en el sentido del subpárrafo 1.4.3.5 del RID, se han cumplido. Para mayor completitud es necesario añadir que el titular del VTD DEZA utilizó la posibilidad de transferir la organización de las inspecciones conforme al capítulo 6.8 del RID a la entidad responsable del mantenimiento (ECM) RYKO. El titular del VTD RYKO era a su vez la entidad responsable del mantenimiento.
@@ -2016,8 +1990,8 @@ En la estación de Hustopeče n. B., en el caso de que el tren circulara en dire
 Por la estación de Hustopeče n. B. circularon en el año 2024 una media de 69 trenes al día.
 Para el SZZ de la estación de Hustopeče n. B. emitió el DÚ el día 28. 5. 1996 el Certificado de idoneidad de UTZ eléctrico, con validez por tiempo indefinido. De la documentación del explotador de la vía SŽ
 
-
 ## Página 77
+
 
 se desprende que las inspecciones y el mantenimiento periódicos del SZZ de la estación de Hustopeče n. B. se realizaban en los intervalos prescritos.
 La aguja n.º 1 (pk 16,039) y la aguja n.º 2 (pk 15,963) de la estación de Hustopeče n. B. tenían la forma J R65 1:9-300, es decir, con radio de curva de la vía desviada de 300 m, que juntas formaban un par de agujas (un enlace de vía simple, véase más abajo). Se trataba de agujas simples izquierdas sobre traviesas de madera con un aparato de cambio situado a la derecha de la aguja y un enclavamiento de cambio de lengüetas. Las agujas estaban equipadas con soportes de rodillos, la longitud de los topes era de 5 500 mm.
@@ -2030,8 +2004,8 @@ La última inspección integral de la línea se realizó antes del suceso de la 
 En las mediciones e inspecciones mencionadas anteriormente no se detectaron defectos que amenazaran la seguridad de la explotación de la vía, véase además el punto 4.1.1 de la presente ZZ.
 La estación de Lhotka n. B. y el DC situado en la misma eran el puesto de trabajo del jefe de estación, desde el cual organizaba y dirigía el tráfico ferroviario en dicha estación y, en colaboración con los jefes de estación de las estaciones vecinas (Valašské Meziříčí y Hustopeče n. B.), también en los tramos intermedios adyacentes. La estación estaba equipada con un SZZ electrónico de 3.ª categoría conforme a SŽ TNŽ 34 2620, tipo ESA 44, en el que todas las interdependencias (p. ej., de las señales sobre las agujas y los apartaderos, interdependencias mutuas de las señales, enclavamientos de los itinerarios, bloqueos de los itinerarios) se realizaron eléctricamente.
 
-
 ## Página 78
+
 
 El puesto de mando único para el SZZ se encontraba en el DC y era operado in situ por el jefe de estación de Lhotka n. B.
 En la estación de Lhotka n. B., en ambos extremos, se empalmaba a la vía de ancho nacional la vía lateral DEZA, a saber:
@@ -2052,6 +2026,7 @@ tras el enclavamiento del itinerario de tren realizado por la acción automátic
 1 s después (a las 8:50:51 h) la señal de entrada 1S comenzó a indicar la señal «Velocidad 40 km/h y aviso»;
 
 ## Página 79
+
 
 •
 8:57:51 h
@@ -2086,48 +2061,54 @@ del desvío n.º 23 cambió del color gris oscuro con el significado «desvío l
 9:03:00 h
 mediante la operación normal del SZZ se introdujeron las órdenes para la maniobra de la unidad de maniobra, compuesta por el HDV 383.223-5 circulando en solitario, desde la vía de cabecera de Hustopeče desde la señal de clasificación Se19 a través del desvío n.º 23 a la vía lateral DEZA (hasta el nivel de la señal de salida LDz válida para la circulación de la DV en dirección contraria, es decir, desde la vía lateral DEZA a
 
-
 ## Página 80
 
-la est. Lhotka n. B.);
+(žst. Lhotka n. B.);
 •
 9:03:07 h
-tras el enclavamiento de la vía de maniobra realizado por la acción automática del SZZ, se estableció la vía de maniobra desde la señal de clasificación Se19 a la vía lateral DEZA.
-2 s después (a las 9:03:09 h), la señal de clasificación Se19 comenzó a indicar la señal «Maniobra permitida»;
+tras la conclusión automática de la ruta de maniobras realizada por el SZZ, se estableció la ruta de maniobras desde la señal de maniobras de clasificación Se19
+hasta la vía privada DEZA.
+2 s después (a las 9:03:09 h), la señal de maniobras de clasificación Se19
+comenzó a mostrar la señal «Maniobras permitidas»;
 •
 9:04:36 h
-el frente de la unidad de maniobra compuesta por el HDV 383.223-5 circulando en solitario pasó la señal de salida LDz (válida para la circulación de la DV en dirección contraria, es decir, desde la vía lateral DEZA a la est. Lhotka n. B.) y entró en la vía lateral DEZA;
+el frente del elemento de maniobras formado por el rodador autónomo HDV
+383.223-5 pasó la señal de salida LDz (válida para la circulación en sentido contrario de la vía privada, es decir, desde la vía privada DEZA hacia žst. Lhotka n. B.) y entró en la vía privada DEZA;
 •
 9:07:24 h
-mediante la operación normal del SZZ, el señalero de la vía lateral introdujo la orden para la recepción de la operación desde la PSt. 6;
+mediante la operación normal del SZZ, el operador de la vía privada registró la tarea para la recepción de la operación desde el PSt. 6;
 •
 11:29:04 h
-mediante la operación normal del SZZ se introdujo la orden para el traspaso de la operación a la PSt. 5 virtual al señalero de la vía lateral;
+mediante la operación normal del SZZ, se registró la tarea para la entrega de la operación al PSt. 5 virtual por parte del operador de la vía privada;
 •
 11:29:05 h
-la operación de la PSt. 5 virtual (para la circulación desde la vía lateral DEZA) fue traspasada al señalero de la vía lateral.
-La indicación de estado (símbolo) de la PSt. 5 cambió del color gris oscuro con el significado «estado básico, enclavamiento no operado» al color azul oscuro – expresado por un símbolo invertido con el significado «sin comprobación de la llave de cambio, con la llave de vía lateral extraída»;
+la operación del PSt. 5 virtual (para la circulación desde la vía privada DEZA) fue entregada al operador de la vía privada.
+La indicación del estado (símbolo) del PSt. 5 cambió del color gris oscuro
+con el significado «estado básico, enclavamiento no operado» al color azul oscuro – expresado mediante un símbolo invertido con el significado «sin comprobación de la llave de aguja, con la llave de vía privada extraída»;
 •
 11:31:20 h
-mediante la operación normal del SZZ de la est. Lhotka n. B. se introdujeron las órdenes para la circulación del tren Pn 52690 desde la vía lateral DEZA desde la señal de salida LDz a través del desvío n.º 23 a la TK n.º 2 Lhotka n. B. – Hustopeče n. B.;
+mediante la operación normal del SZZ de žst. Lhotka n. B. se registraron las tareas para la circulación del tren Pn 52690 desde la vía privada DEZA desde la señal de salida LDz a través de la aguja n.º 23 hacia la TK n.º 2 Lhotka n. B. – Hustopeče n. B.;
 •
 11:31:23 h
-tras el enclavamiento de la vía de tren realizado por la acción automática del SZZ, se estableció la vía de tren para la circulación del tren Pn 52690 desde la vía lateral DEZA desde la señal de salida LDz a la TK n.º 2 Lhotka n. B. – Hustopeče n. B.
-2 s después (a las 11:31:25 h), la señal de salida LDz comenzó a indicar la señal «Velocidad 40 km/h y vía libre»;
+tras la conclusión automática de la ruta de tren realizada por el SZZ, se estableció la ruta de tren para la circulación del tren Pn 52690 desde la vía privada DEZA desde la señal de salida LDz hacia la TK n.º 2 Lhotka n. B. – Hustopeče n. B.
+2 s después (a las 11:31:25 h), la señal de salida LDz
+comenzó a mostrar la señal «Velocidad 40 km/h y vía libre»;
 •
 11:33:29 h
-la unidad de maniobra remolcada entró desde la vía lateral DEZA en la est. Lhotka n. B., es decir, superó el nivel de la señal de salida LDz [ocupó el CU «V23» (desvíos n.º 23)] y entró en la cabecera de Hustopeče. Nota DI: la unidad de maniobra en cuestión se convirtió, durante la circulación y tras superar el nivel de la señal de salida LDz, en el tren Pn 52690;
+el elemento de maniobras remolcado entró desde la vía privada DEZA en žst. Lhotka n. B.,
+es decir, superó el nivel de la señal de salida LDz [ocupó el KÚ «V23» (aguja n.º 23)] y entró en la cabecera de Hustopeče. Nota DI: el elemento de maniobras en cuestión, durante la circulación y tras superar el nivel de la señal de salida LDz, se convirtió en el tren Pn 52690;
 •
 11:33:38 h
-el tren Pn 52690 entró en la vía de cabecera de Hustopeče, mientras que una parte de la composición del tren seguía situada en la plataforma de la cabecera de Hustopeče y otra parte en la plataforma de la vía lateral DEZA;
+el tren Pn 52690 entró en la vía de la cabecera de Hustopeče, encontrándose en ese momento parte de la composición del tren todavía en la vía de la cabecera de Hustopeče y parte en la vía de la vía privada DEZA;
 •
 11:34:15 h
-el tren Pn 52690 liberó la plataforma de la vía lateral DEZA, mientras que una parte de la composición del tren se encontraba en la cabecera de Hustopeče y en la cabecera de Hustopeče;
+el tren Pn 52690 liberó la vía de la vía privada DEZA, encontrándose parte de la composición del tren en la cabecera de Hustopeče y en la cabecera de Hustopeče;
 •
-a las 11:31:13 h la indicación de estado (símbolo) de las señales L101-104 cambió del color gris oscuro con el significado «señal de Detención» al color blanco con el significado «señal de Maniobra permitida» – las señales en cuestión se encuentran en la vía lateral DEZA y su operación
-
+a las 11:31:13 h la indicación del estado (símbolo) de las señales L101-104 cambió del color gris oscuro
+con el significado «señal de Detenerse» al color blanco con el significado «señal de Maniobras permitidas» – las señales en cuestión se encuentran en la vía privada DEZA y su operación
 
 ## Página 81
+
 
 la realiza el señalero de la vía lateral;
 •
@@ -2182,8 +2163,8 @@ Tab. n.º 5: Señales durante la circulación del tren Ex 128 el 28. 2. 2025
 2)
 luz inferior de la señal de dos luces complementada por debajo con dos bandas horizontales verdes en el indicador inferior que expresan la velocidad 100 km·h-1
 
-
 ## Página 82
+
 
 ### tren Pn 52690
 indicación de señal (señal mostrada) en el símbolo
@@ -2235,8 +2216,8 @@ de la señal de entrada 2L de la est. Hustopeče n. B. de la señal «Detención
 3)
 luz inferior de la señal de dos luces
 
-
 ## Página 83
+
 
 •
 de la señal de sección AB 2-173 de la señal «Aviso» → «Detención»;
@@ -2284,6 +2265,7 @@ desde el km 16,052 hasta el km 16,039 (ZV n.º 1) en dirección directa, en desc
 
 ## Página 84
 
+
 ### Instalación de tracción
 La instalación de tracción aérea de 3 kV CC en la est. Hustopeče n. B. tenía una configuración constructiva según el montaje modelo de tipo «J», plenamente compensado; en las vías principales constaba de un hilo de contacto de Cu 150 mm2 con un cable portante de Cu 120 mm2 y de un cable adicional de Bz 50 mm2; en las demás vías de estación la instalación de tracción constaba de un hilo de contacto de Cu 100 mm2 y de un cable portante de Bz 50 mm2. En el marco de la obra «Aumento de la velocidad de la vía en el tramo Valašské Meziříčí – Hustopeče nad Bečvou», véase más abajo, se realizaron, entre otras, modificaciones de la instalación de tracción en la est. Hustopeče n. B., concretamente en el lado de Lhotka de la estación desde los soportes de tracción n.º 1 y 2 hasta los soportes de tracción n.º 47 y 48 en el lado opuesto de la estación.
 Para la instalación de tracción en cuestión, el DÚ emitió el 1. 11. 2007 el Certificado de idoneidad de la UTZ eléctrica, con vigencia por tiempo indefinido. La última prueba de circulación de la instalación de tracción se realizó el 2. 8. 2024 con el vehículo de montaje motorizado de instalación de tracción MVTV 2; la última inspección pantográfica de la instalación de tracción en la est. Hustopeče n. B. antes de la aparición de la MU se realizó desde el vehículo de montaje de instalación de tracción el 19. 2. 2025. De la documentación del gestor de la vía SŽ se desprende que las inspecciones periódicas y el mantenimiento de la instalación de tracción en la est. Hustopeče n. B. fueron realizados por el gestor en los intervalos prescritos.
@@ -2293,8 +2275,8 @@ El objeto de esta obra fue, como ya se desprende de su denominación, el aumento
 Concretamente, en el tramo entre estaciones Lhotka n. B. – Hustopeče n. B. fue posible por primera vez la circulación de DV a una velocidad de hasta 155 km·h-1, mientras que la velocidad de la vía original era de 80 km·h-1. Es evidente, por tanto, que al entrar la DV en la est. Hustopeče n. B. desde la dirección de Lhotka n. B. se produce una reducción de la velocidad de la vía, de 155 a 100 km·h-1, véase la Fig. n.º 23 de esta ZZ, si bien al circular por la dirección desviada en el extremo de Lhotka la caída de velocidad es aún más pronunciada, puesto que los desvíos en cuestión permitían circular por la dirección desviada con una velocidad máxima permitida de 40 km·h-1.
 El tramo de vía Valašské Meziříčí – Hustopeče n. B. no fue dotado, en el marco de la obra en cuestión (actuación de inversión iniciada en el año 2013), de una sección de vía ETCS; únicamente se restableció el equipo original de transmisión de información de las señales de los señales principales al mando de la DV del tren. A título informativo conviene añadir que, en el caso de la obra en cuestión (proyecto de infraestructura ferroviaria), en el sentido del art. 9 del Reglamento de la Comisión (UE) 2016/919 no se trataba de:
 
-
 ## Página 85
+
 
 •
 la primera instalación de la parte del subsistema «Mando y señalización» relativa al equipo de señalización de tren, ni
@@ -2311,10 +2293,10 @@ jefe de estación de la est. Hustopeče n. B.
   – Acta con el empleado y Registro oficial de la explicación aportada de la PČR:
 ◦inició el turno diario, en el marco del cual se produjo la MU en cuestión, a las 6:00 h, descansado física y psíquicamente,
 ◦el turno transcurrió sin anomalías, el SZZ presentaba un funcionamiento normal,
-◦tras incorporarse al turno, la jefa de estación de la est. Hranice n. M. město se puso en contacto con él para solicitarle que los trenes largos y pesados de la est. Hustopeče n. B. a la est. Hranice n. M. město circularan por la vía n.º 1, debido a la intervención en la vía n.º 2 Hranice n. M. město – 
-
+◦tras incorporarse al turno, la jefa de estación de la est. Hranice n. M. město se puso en contacto con él para solicitarle que los trenes largos y pesados de la est. Hustopeče n. B. a la est. Hranice n. M. město circularan por la vía n.º 1, debido a la intervención en la vía n.º 2 Hranice n. M. město –
 
 ## Página 86
+
 
 Hranice na Moravě y a las condiciones de pendiente desfavorables en dicha vía, a lo que accedió a dicha solicitud,
 ◦hacia las 11:28 h la jefa de estación de la est. Lhotka n. B. le ofreció el tren Pn 52690, que debía circular en el tramo entre estaciones Lhotka n. B. – Hustopeče n. B. por la vía n.º 2,
@@ -2329,33 +2311,33 @@ Hranice na Moravě y a las condiciones de pendiente desfavorables en dicha vía,
 jefe de estación de la est. Hustopeče n. B.
   – Registro de la explicación aportada del DI:
 ◦la ruta de tren para el tren Pn 52690 desde la vía n.º 2 Lhotka n. B. – Hustopeče n. B., con la que tenía la intención de continuar por la vía n.º 1 Hustopeče n. B. – Hranice n. M. město, la eligió estableciéndola a través del enlace de vías entre los desvíos circulados por la dirección desviada ya en el extremo de Lhotka hacia la vía de estación n.º 1, por motivos de preservación de la seguridad y de protección de las personas que pudieran encontrarse en la estación y sus alrededores, y en atención a los usuarios de la carretera en el paso a nivel en el km 15,168 (nota del DI: paso a nivel P8049) en el extremo de Hranice de la estación, teniendo en cuenta, entre otros, el tiempo de cierre del mencionado paso a nivel. Según su experiencia, al circular por los desvíos en la dirección desviada desde la dirección de Lhotka n. B. hacia Hranice n. M. město en el extremo de Lhotka, es decir, desde la vía n.º 2 hacia la vía de estación n.º 1, el tiempo de cierre del paso a nivel es menor que al realizar la circulación en la dirección desviada en el extremo de Hranice, es decir, desde la vía de estación n.º 2 hacia la vía n.º 1 dirección Hranice n. M. město,
-◦aclaró que su respuesta se refiere a los trenes de mercancías, ya que en los trenes de viajeros que se detienen en la est. Hustopeče n. B. siempre, si la situación de tráfico momentánea lo permite, procura respetar la vía de estación determinada por la lista de trenes vigente para el personal de estación, es decir, en el caso de los trenes de viajeros que circulan desde la dirección de la est. Lhotka n. B. se trata de la vía de estación n.º 2 y desde la dirección de Hranice n. M. město de la vía de estación n.º 1, por motivos de preservación de la seguridad en los desplazamientos de los viajeros en la estación. Por experiencia personal sabe que, en particular, los residentes locales están habituados a las llegadas de los trenes de viajeros tal como los describió. En el caso de los trenes de mercancías, prefiere, cuando es necesario cambiar de vía en los tramos entre estaciones Lhotka n. B. – Hustopeče n. B. / Hustopeče n. B. – Hranice n. M. město, la circulación en la dirección desviada ya en el 
-
+◦aclaró que su respuesta se refiere a los trenes de mercancías, ya que en los trenes de viajeros que se detienen en la est. Hustopeče n. B. siempre, si la situación de tráfico momentánea lo permite, procura respetar la vía de estación determinada por la lista de trenes vigente para el personal de estación, es decir, en el caso de los trenes de viajeros que circulan desde la dirección de la est. Lhotka n. B. se trata de la vía de estación n.º 2 y desde la dirección de Hranice n. M. město de la vía de estación n.º 1, por motivos de preservación de la seguridad en los desplazamientos de los viajeros en la estación. Por experiencia personal sabe que, en particular, los residentes locales están habituados a las llegadas de los trenes de viajeros tal como los describió. En el caso de los trenes de mercancías, prefiere, cuando es necesario cambiar de vía en los tramos entre estaciones Lhotka n. B. – Hustopeče n. B. / Hustopeče n. B. – Hranice n. M. město, la circulación en la dirección desviada ya en el
 
 ## Página 87
 
-extremo de Lhotka, si bien elige esta variante cuando la situación de tráfico actual lo permite;
+en la cabecera de Lhoteckém, aunque elige esta variante en caso de que la situación de tráfico actual lo permita;
 •
-maquinista del tren Pn 52690
-  – Acta con el empleado y Registro oficial de la explicación aportada de la PČR:
-◦trabaja como maquinista para el transportista ODOSC desde el año 2010,
-◦se incorporó al turno, en el marco del cual se produjo la MU, el 28. 2. 2025 a las 6:00 h, descansado y en buena forma, habiendo tenido antes de este turno un descanso superior a 48 h,
-◦tras las 6:00 se reunió con el maquinista-instructor en la est. Ostrava hl. n. en la locomotora 383.223-5, en la que debía realizar la autorización para la locomotora de la serie 383 (nota del DI: según la norma interna ZOZPDD se trataba de la prueba de aptitud práctica, véase el punto 4.1.1 de esta ZZ),
-◦bajo la supervisión del maquinista-instructor realizó las operaciones relacionadas con la inspección de la locomotora y su puesta en servicio,
-◦a continuación el maquinista-instructor comunicó a los despachadores de ODOSC la disponibilidad para la circulación. Desde la est. Ostrava hl. n. circularon mecánicamente a través de la est. Hranice na Moravě hasta la est. Lhotka n. B. como el tren Lv 52622,
-◦durante esta circulación completó con éxito la autorización para la locomotora de la serie 383,
-◦tras llegar a la est. Lhotka n. B. realizaron el cambio de la locomotora a la vía de apartadero n.º 102 del apartadero DEZA,
-◦tras acoplarse a la composición del tren Pn 52690, se dirigió a la sala de mando del apartadero DEZA para la documentación del tren, colgando en el camino el enganche de cola en el último vagón de la composición,
-◦el maquinista-instructor, mientras tanto, conectó las mangueras de freno de la tubería principal entre el TDV y realizó las operaciones relacionadas con la preparación de la composición para la realización de la ÚZB,
-◦tras recibir la documentación en la sala de mando del apartadero, volvió a la locomotora. En el camino de vuelta revisaba los vagones según la lista y completaba los valores de las balanzas de frenado y la longitud de los vagones,
-◦tras llegar a la locomotora, entregó la documentación al maquinista-instructor y recibió de él la instrucción de frenar el tren, a lo que el maquinista-instructor se marchó a realizar la ÚZB,
-◦pasado un tiempo recibió del maquinista-instructor, a través del teléfono móvil, la instrucción de soltar los frenos del tren,
-◦tras soltar los frenos, según su declaración, «descansó» (nota del DI: en realidad se trataba de un tiempo razonable para el descanso y la comida), durante el cual merendó,
-◦cuando el maquinista-instructor volvió a la locomotora, le comunicó el resultado de la ÚZB y, tras completar los datos, le entregó para su consulta y firma el informe de frenado,
-◦introdujo los datos en el sistema de la locomotora y el maquinista-instructor comunicó la disponibilidad para la circulación al despachador de ODOSC y al jefe de estación de la est. Lhotka n. B.,
-◦salía del apartadero a una velocidad de hasta unos 20 km·h-1. Tras pasar la cabeza del tren por el último desvío de la est. Lhotka n. B., mediante el mando del elemento de control de la locomotora introdujo la medición de distancia y, tras descontar la longitud del tren, comenzó gradualmente, con aumento de velocidad, hasta la velocidad máxima permitida,
+el maquinista del tren Pn 52690
+  – Anotación con el empleado y Registro oficial de la declaración prestada ante la Policía:
+◦trabaja como maquinista para el operador ODOSC desde el año 2010,
+◦para el turno durante el cual se produjo el MU, ingresó el día 28. 2. 2025 a las 6:00 h, descansado y en buena condición, el descanso previo a este turno fue superior a 48 h,
+◦después de las 6 se reunió con el maquinista-instructor en la est. Ostrava hl. n. con el HDV 383.223-5, con el cual debía realizar la autorización para el HDV serie 383 (nota DI: según la normativa interna ZOZPDD se trataba de la prueba de aptitud práctica, ver punto 4.1.1 de esta ZZ),
+◦bajo la supervisión del maquinista-instructor realizó las operaciones relacionadas con la inspección del HDV y su puesta en servicio,
+◦a continuación, el maquinista-instructor comunicó a los despachadores de ODOSC la preparación para la marcha. Desde la est. Ostrava hl. n. viajaron en tracción hasta la est. Hranice na Moravě y luego hasta la est. Lhotka n. B. como tren Lv 52622,
+◦durante este viaje completó con éxito la autorización para el HDV serie 383,
+◦tras la llegada a la est. Lhotka n. B. realizaron el cambio del HDV a la vía de maniobras n.º 102 de la vía privada DEZA,
+◦tras acoplarse al conjunto para el tren Pn 52690, se dirigió a la sala de mando de tráfico de la vía privada DEZA para la documentación del tren, colgando en el camino el enganche de cola en el último vagón del conjunto,
+◦mientras tanto, el maquinista-instructor conectó las mangueras de freno del conducto principal entre el TDV y realizó las operaciones relacionadas con la preparación del conjunto para la realización del ÚZB,
+◦tras recibir la documentación en la sala de mando de tráfico, regresó al HDV. En el camino de vuelta revisaba los vagones según la lista y completaba los valores de las básculas de frenado y la longitud de los vagones,
+◦al llegar al HDV entregó la documentación al maquinista-instructor y recibió de él la instrucción de frenar el tren, tras lo cual el maquinista-instructor se marchó a realizar el ÚZB,
+◦pasado algún tiempo recibió del maquinista-instructor, a través del teléfono móvil, la instrucción de desfrenar el tren,
+◦tras desfrenar, según su declaración, hizo una «pausa» (nota DI: en realidad se trataba de un tiempo razonable para descansar y comer), durante la cual tomó un tentempié,
+◦cuando el maquinista-instructor regresó al HDV, le comunicó el resultado del ÚZB y, tras completar los datos, le entregó para su consulta y firma el informe de frenado,
+◦introdujo los datos en el sistema HDV y el maquinista-instructor comunicó la preparación para la marcha al despachador de ODOSC y al jefe de estación de la est. Lhotka n. B.,
+◦salía de la vía privada a una velocidad de unos 20 km·h-1. Tras pasar la cabeza del tren por el último desvío de la est. Lhotka n. B., mediante el mando del elemento de control del HDV, inició la medición de la distancia y, tras el recuento de la longitud del tren, comenzó a aumentar gradualmente la velocidad hasta la velocidad máxima permitida,
 
 ## Página 88
+
 
 ◦el instructor-maquinista se sentaba en la cabina del maquinista a la izquierda, en el asiento para el ayudante de maquinista, no interfirió en absoluto en su conducción,
 ◦podía haber realizado el trayecto de Lhotka n. B. a Ostrava por sí solo, sin el instructor-maquinista, no obstante, este permanecía presente en la cabina del maquinista, puesto que aún no estaba autorizado para la circulación bajo supervisión de ETCS,
@@ -2376,8 +2358,8 @@ maquinista del tren Pn 52690
 ◦a la pregunta de qué hacía el instructor-maquinista durante la circulación del tren Pn 52690, respondió que no lo sabía, puesto que él se dedicaba a la conducción,
 ◦a la pregunta de en qué modo se había conducido la locomotora antes de la aparición de la anomalía, indicó que probablemente en modo manual, no había fijado el piloto automático (nota DI: se trataba del control automático de velocidad),
 
-
 ## Página 89
+
 
 ◦a la pregunta de si circulaba a menudo en dicho tramo, respondió que sí, en dicho tramo había conducido decenas de trenes, la última vez unos 5 días antes de la aparición de la anomalía,
 ◦a la pregunta de si antes de la aparición de la anomalía había circulado en la estación de Hustopeče n. B. desde la vía de cambio nº 2 Lhotka n. B. – Hustopeče n. B. a la vía de cambio nº 1, respondió que sí, y a veces también circulaba desde la vía de cambio nº 2 a la vía de cambio nº 1 Hustopeče n. B. – Hranice n. M. město,
@@ -2398,24 +2380,24 @@ maquinista del tren Pn 52690
 ◦desde la estación de Hranice na Moravě en dirección a la estación de Lhotka n. B. partieron bajo supervisión de ETCS y, tras pasar la señal que indica el fin de la circulación bajo supervisión de ETCS, pasaron a la circulación bajo el sistema de señalización nacional, estando activa en la locomotora la parte móvil del sistema de señalización MIREL,
 ◦tras la llegada a la estación de Lhotka n. B., en el marco de la prueba de aptitud práctica, maniobró la locomotora hasta el recinto de la vía privada de DEZA y acopló a la composición de coches cisterna cargados,
 
-
 ## Página 90
 
-◦tras acoplar a la composición para el tren Pn 52690, la prueba de aptitud práctica fue interrumpida, junto con el instructor-maquinista realizaban las maniobras relacionadas con la recepción y la preparación de la composición para la salida,
-◦fue a buscar la documentación del tren a la sala de mando de tráfico de la vía privada de DEZA, mientras el instructor-maquinista realizaba el enganche de los distintos coches de la composición (nota DI: solo el acoplamiento de las conexiones de las acoples de la tubería principal, los coches individuales ya estaban enganchados entre sí). En el trayecto para buscar la documentación del tren, allí y de vuelta a la locomotora, comprobaba la marcación de los coches de la composición y anotaba sus longitudes y pesos de frenado,
-◦tras regresar a la cabina del maquinista, el instructor-maquinista redactó el Informe Internacional de Frenado y del Tren, él a continuación introdujo los datos del tren en el sistema de la locomotora,
-◦durante la prueba de freno operó el equipo de freno de la locomotora y el instructor-maquinista realizó esta prueba físicamente en los coches de la composición,
+◦tras subir a la composición para el tren Pn 52690, la prueba de idoneidad práctica fue interrumpida; junto con el instructor-maquinista realizaba las actuaciones relacionadas con la recepción y la preparación de la composición para la salida,
+◦fue a buscar la documentación del tren a la sala de mando de maniobras de la vía privada DEZA, mientras el instructor-maquinista realizaba el acoplamiento de los vagones individuales de la composición (nota DI: solo el acoplamiento de los acoples de presión de la tubería principal, los vagones individuales ya estaban acoplados entre sí). Durante el trayecto para buscar la documentación del tren hacia allí, y de vuelta a la HDV, verificaba la señalización de los vagones de la composición y anotaba sus longitudes y pesos de frenado,
+◦tras regresar a la cabina del maquinista, el instructor-maquinista redactó el Informe Internacional de frenado del tren, y él a continuación introdujo los datos del tren en el sistema de la HDV,
+◦durante la prueba de freno, operaba el equipo de freno de la HDV y el instructor-maquinista realizó esta prueba físicamente en los vagones de la composición,
 ◦si la redacción del informe de frenado del tren y la introducción de los datos en el sistema de la locomotora precedieron a la realización de la prueba de freno, o si la prueba de freno se realizó antes de la introducción de los datos y la redacción del informe de frenado, ya no lo recuerda con exactitud,
-◦tras la introducción de los datos del tren en el sistema de la locomotora, el instructor-maquinista le comunicó que su prueba de aptitud práctica había sido superada. La superación de la prueba de aptitud práctica no se la comunicó a su empleador, para ello estaba facultado el instructor-maquinista, si lo hizo o no, no le es conocido,
-◦la extensión de la parte teórica de la formación de 8 h sobre locomotoras de las series 383 y 193 fue, según su criterio, suficiente, todo lo esencial le fue comunicado,
-◦el primer conocimiento acreditado de las condiciones de la vía en las líneas y en las instalaciones de tráfico en la línea Lhotka n. B. – Hranice na Moravě lo confirmó ya en el año 2010, desde entonces circula en dicha línea más o menos regularmente, no puede indicar el número exacto de circulaciones al mes, puesto que los servicios en dicha línea dependían de su asignación a servicios por parte del transportista,
-◦en la señal (nota DI: la señal de clasificación L102) válida para la vía en la que se encontraban y cuyo número ya no era capaz de recordar, brillaba la señal «Maniobras permitidas» y en la señal de salida (nota DI: la señal de salida LDz) brillaba la señal «Velocidad 40 km/h y vía libre»,
-◦al principio circuló como unidad de maniobra y junto a la señal de salida se convirtió en tren y continuó la marcha hacia la aguja de entrada de Hustopeče y la aguja de salida de la estación de Lhotka n. B. y posteriormente por la vía de cambio nº 2 en dirección a Hustopeče n. B.,
-◦considera que la locomotora 383.223-5 durante la circulación del tren Pn 52690 el 28. 2. 2025 la condujo únicamente en modo manual de conducción,
-◦en la cabina del maquinista de la locomotora 383.223-5, desde la que condujo la circulación del tren Pn 52690 el 28. 2. 2025, viajaban únicamente él y el instructor-maquinista,
-◦el instructor-maquinista viajaba en ese momento en el tren Pn 52690 como jefe de tren, puesto que él mismo ya tenía superada la prueba de aptitud práctica para la serie 383 (193), por lo que podía conducirla de forma independiente, debiendo el instructor-maquinista ejercer la supervisión de su actividad únicamente cuando el tren entrase bajo supervisión de ETCS antes de la entrada en la estación de Hranice na Moravě, por este motivo se encontraba presente en la cabina. Hasta que el tren Pn 52690 entrara bajo supervisión de ETCS, el instructor-maquinista no tenía la obligación de observar las señales ni la vía, el sistema de señalización estaba activo, no seguía a qué actividad se dedicaba el instructor-maquinista, se dedicaba a la conducción y a la observación de la vía,
+◦tras introducir los datos del tren en el sistema de la locomotora, el instructor-maquinista le comunicó que su prueba de idoneidad práctica había sido superada. El haber superado la prueba de idoneidad práctica no se lo comunicó a su empleador; para ello estaba facultado el instructor-maquinista, y no le consta si lo hizo,
+◦el alcance de la parte teórica de la formación de 8 h sobre la HDV series 383 y 193 fue, según su criterio, suficiente; se le comunicó todo lo esencial,
+◦el primer conocimiento acreditado de las condiciones de la vía en las líneas y en las instalaciones de tráfico en la línea Lhotka n. B. – Hranice na Moravě lo confirmó ya en el año 2010; desde entonces circula por dicha línea más o menos regularmente, no puede indicar el número exacto de viajes al mes, ya que las prestaciones en dicha línea dependían de su asignación a la prestación por parte del operador,
+◦en la señal (nota DI: señal de clasificación L102) vigente para la vía en la que se encontraban y cuyo número ya no pudo recordar, lucía la señal «Maniobra permitida» y en la señal de salida (nota DI: señal de salida LDz) lucía la señal «Velocidad 40 km/h y vía libre»,
+◦al principio circuló como unidad de maniobra y junto a la señal de salida se convirtió en tren y continuó la marcha hacia el extremo de Hustopeče y la cabecera de la est. Lhotka n. B. y posteriormente a la TK n.º 2 en dirección Hustopeče n. B.,
+◦considera que la HDV 383.223-5 durante la marcha del tren Pn 52690 el día 28. 2. 2025 la condujo únicamente en régimen de conducción manual,
+◦en la cabina de la maquinista de la HDV 383.223-5, desde la que condujo la marcha del tren Pn 52690 el día 28. 2. 2025, viajaban solo él y el instructor-maquinista,
+◦el instructor-maquinista viajaba en esa época en el tren Pn 52690 como jefe de tren, porque él mismo ya tenía superada la prueba de idoneidad práctica para la serie 383 (193), por lo que podía conducirla de forma autónoma, correspondiendo al instructor-maquinista ejercer la supervisión de su actividad solo cuando el tren entrase bajo supervisión ETCS antes de la entrada en la est. Hranice na Moravě, por este motivo se encontraba presente en la cabina. Hasta que el tren Pn 52690 entrara bajo supervisión ETCS, el instructor-maquinista no tenía por qué observar las señales ni la vía, el VZ estaba en servicio; no seguía a qué se dedicaba el instructor-maquinista, se ocupaba de la conducción y del seguimiento de la vía,
 
 ## Página 91
+
 
 ◦durante la circulación del tren Pn 52690 no se comunicó con el maquinista-instructor, excepto en la salida del ramal DEZA, cuando probablemente se produjo entre él y el maquinista-instructor una breve comunicación relativa a la circulación del tren, pero el contenido de dicha comunicación ya no lo recuerda, se trataba de un orden de magnitud de unas pocas palabras. Añadió que, al encenderse la luz amarilla en el repetidor de señalización, por costumbre probablemente dijo en voz alta: «Ahí probablemente habrá "Espere velocidad 100 km/h"», porque en ese momento no veía la señal indicada por el último baliza de sección AB 2-173 – se trata de un largo tramo de vía que en su final discurre en curva,
 ◦en las entradas anteriores a la estación Hustopeče n. B. desde el TK n.º 2 de la estación Lhotka n. B. – Hustopeče n. B. normalmente siempre entraba en la dirección recta hacia el SK n.º 2 de la estación Hustopeče n. B., solo excepcionalmente circulaba en la estación Hustopeče n. B. en dirección desviada, cuántas veces y si con más frecuencia en la cabecera de entrada o en la de salida, no es capaz de determinarlo. La situación de que con el tren circularía en la estación Hustopeče n. B. en dirección desviada la distinguía según las señales de los semáforos principales. En la circulación en dirección desviada en la cabecera de entrada de la estación Hustopeče n. B. ya según las señales de la baliza de sección, que preseñala la señal de la baliza de entrada de la estación Hustopeče n. B., y la señal de dicha baliza de entrada. En la circulación en dirección desviada en la cabecera de salida según las señales de la baliza de entrada y de la baliza de salida de la estación Hustopeče n. B.,
@@ -2427,8 +2409,8 @@ maquinista del tren Pn 52690
 ◦no recuerda que el maquinista-instructor le llamara la atención sobre la necesidad de probar el efecto del freno continuo del tren durante su circulación tras la salida del ramal DEZA,
 ◦no observó ninguna anomalía en el comportamiento de la HDV y del tren, la circulación se desarrolló sin incidencias,
 
-
 ## Página 92
+
 
 ◦no modificó la fuerza de frenado de la HDV 383.223-5 mediante el ajuste en la pantalla técnica y de diagnóstico de la HDV el 28. 2. 2025,
 ◦la primera baliza de sección AB 2-191 señalizaba la señal «Vía libre», durante la circulación hacia dicha baliza brillaba en el repetidor de señalización la luz verde,
@@ -2446,8 +2428,8 @@ maquinista del tren Pn 52690
 ◦la circulación por la cabecera de Lhotka de la estación Hustopeče n. B. ya no la recuerda, creía que se había producido un descarrilamiento, tampoco recuerda si y cuándo manipuló los elementos de mando de la HDV,
 ◦el maquinista-instructor estaba tan sorprendido por la situación ocurrida como él, no recuerda cómo reaccionó el maquinista-instructor. Solo recuerda el balanceo de la TV, si y quién de ellos y cuándo operó los elementos de mando para detener el tren Pn 52690, no lo recuerda, cree que la HDV empezó a frenar como consecuencia del descarrilamiento y de la rotura
 
-
 ## Página 93
+
 
 del tren, en la que los vagones cisterna probablemente impactaron contra un poste de la TV y provocaron su balanceo,
 ◦tras detenerse la HDV, miró por la ventana lateral derecha de la cabina del maquinista, porque incluso antes de detenerse intuía que los vagones cisterna no estaban enganchados a la HDV. Vio los vagones descarrilados en el espacio de la cabecera de Lhotka, viendo en la parte delantera del convoy descarrilado del tren un incipiente incendio,
@@ -2460,6 +2442,7 @@ del tren, en la que los vagones cisterna probablemente impactaron contra un post
 ◦no sabe por qué en la columna «Poznámka» (Nota), de la sección «KOLEJOVÁ VOZIDLA KTERÁ JE STROJVEDOUCÍ OPRÁVNĚN ŘÍDIT» (Vehículos ferroviarios que el maquinista está autorizado a conducir), de su certificado complementario figuraba en el momento de la aparición de la MU la serie 383 (193). Cree que el transportista presumía su próxima autorización para las series de HDV indicadas y probablemente, para no tener que emitir en breve un nuevo certificado de maquinista, se incluyeron dichas series en su certificado,
 
 ## Página 94
+
 
 ◦a la pregunta de por qué, en el libro "Odovzdávková kniha hnacieho vozidla 383 223-5" (Libro de entrega de la unidad de tracción 383 223-5), almacenado en la HDV 383.223-5, anotó el 28. 2. 2025 la recepción de dicha HDV en la est. Ostrava hl. n., la realización de la prueba de freno de la unidad de tracción en dicha estación a las 6:50 h y su conducción en los trenes 52622 y 52690 en la línea "OH – LHOTKA – ", respondió que no sabe por qué realizó dicha anotación en el libro de entrega de la HDV 383.223-5 y que considera que presumió una autorización exitosa,
 ◦siempre al conducir la HDV tuvo cuidado y condujo con seguridad, independientemente de la carga transportada, incl. los objetos peligrosos transportados en el sentido de RID. En el caso de los vagones cisterna, prestaba especial atención al frenar y al desfrenar para que no se produjeran golpes longitudinales en el tren,
@@ -2478,28 +2461,27 @@ instructor-maquinista
 ◦llegaron a la est. Lhotka n. B. hacia las 9:00 h; en todo el trayecto del tren Lv 52622 condujo el maquinista del tren Pn 52690, superando con éxito la prueba de aptitud práctica,
 ◦tras la llegada a la est. Lhotka n. B., acordó con el jefe de estación de dicha estación la maniobra a la vía de vía lateral n.º 102 de la vía lateral DEZA,
 
-
 ## Página 95
 
-◦tras entrar en la vía de vía lateral n.º 102 y acoplarse a la composición para el tren Pn 52690, acopló la HDV a la composición, utilizando el acoplador de la HDV,
-◦dentro de la inspección TDV del tren Pn 52690, conectó los acoples de freno de la tubería principal, comprobó las posiciones de los conmutadores de régimen de frenado y de las masas de frenado, la posición de la manija del dispositivo de desconexión del freno neumático y el plazo de validez de la revisión del vagón. Asimismo, comprobó el estado de los frenos de mano,
-◦en ese momento, el maquinista del tren Pn 52690 fue a recoger la documentación del tren, colgando en el camino de ida los topes en la última TDV de la composición,
-◦tras realizar la inspección, soltó el freno de mano en la 1.ª TDV tras la HDV, retiró los topes de seguridad y abrió las llaves de freno en la HDV y en la 1.ª TDV de la composición,
-◦tras unos 30 minutos, comenzó con la realización de la ÚZB, dando la orden de frenar al maquinista del tren Pn 52690 verbalmente,
-◦la comprobación del ajuste de las zapatas de freno a la superficie de rodadura de las ruedas la realizó por el lado derecho de la DV, transcurrió sin anomalías,
-◦cuando llegó al extremo trasero de la última TDV, con una breve apertura de la llave de acople de la tubería principal, purgó el acople neumático y, a través del teléfono móvil, dio la orden de desfrenar al maquinista del tren Pn 52690,
-◦tras desfrenar la última TDV, pasó al otro lado, purgó de nuevo brevemente el acople neumático, a continuación las TDV de la composición frenaron y posteriormente se desfrenaron,
-◦en el camino de vuelta a la HDV, comprobó el desenganche de las zapatas de freno de la superficie de rodadura de las ruedas. Tanto el desenganche como el ajuste los comprobó con el martillo de vagones,
-◦tras llegar a la cabina del maquinista de la HDV, comunicó al maquinista del tren Pn 52690 el resultado de la ÚZB – freno en orden – y a continuación redactó el informe de frenado, que firmaron tanto él como el maquinista del tren Pn 52690,
-◦el maquinista introducía los datos del tren en el velocímetro electrónico de la HDV, mientras él se "escapó" y, tras regresar a la HDV, contactó con el despachador de ODOSC en relación con la preparación para la salida,
-◦a continuación, a través de la radio de a bordo, anunció al jefe de estación de la est. Lhotka n. B. la disponibilidad [nota DI: correctamente preparación (del futuro) tren] para la salida,
-◦salieron de la est. Lhotka n. B. a las 11:30 h, circularon por la TK n.º 2 Lhotka n. B. – Hustopeče n. B., el tren Pn 52690 tenía 17 TDV cargadas de benceno, es decir, una sustancia inflamable y explosiva,
-◦en el momento en que el despachador de ODOSC introducía en el sistema del operador de la vía de ámbito nacional la preparación para la circulación, también le informó de un cambio en la continuación de la prestación laboral tras su llegada a la est. Ostrava hl. n., a continuación comenzó a buscar en el correo electrónico información para la realización de dichos cambios,
-◦esta actividad la realizó durante el trayecto del tren Pn 52690 debido a la disponibilidad de la señal móvil en el tramo Lhotka n. B. – Milotice nad Bečvou. Según sus palabras, la señal móvil en los tramos siguientes es débil o inexistente. Durante esta actividad no seguía la conducción del maquinista del tren Pn 52690, no tenía motivo para ello, ya que hasta la est. Hranice na Moravě el maquinista del tren Pn 52690 podía conducir el tren por sí solo,
-◦cuando se aproximaban al último semáforo de bloqueo antes de la est. Hustopeče n. B. (nota DI: se trataba del semáforo de bloqueo AB 2-173), se encendió en el repetidor de señal, según su declaración, una luz naranja de advertencia (nota DI: se trataba de una luz amarilla). Según su declaración: "Eso significa, señal de advertencia
-
+◦tras entrar en la vía de maniobras n.º 102 y acoplarse al tren para el tren Pn 52690, acopló el HDV con el tren, utilizando para ello un destornillador en el HDV,
+◦en el marco de la inspección TDV del tren Pn 52690, conectó las mangueras de freno del conducto principal, verificó las posiciones de los conmutadores de régimen de frenado y de las masas de freno, la posición de la manija del dispositivo de corte del freno de aire y el plazo de validez de la revisión del vagón. Además, verificó el estado de los frenos de mano,
+◦en ese momento, el maquinista del tren Pn 52690 fue a recoger la documentación del tren, colgando en el camino de ida los extremos en el último TDV del tren,
+◦tras realizar la inspección, aflojó el freno de mano en el 1.º TDV tras el HDV, retiró los topes de seguridad y abrió las llaves de freno en el HDV y en el 1.º TDV del tren,
+◦tras unos 30 minutos, comenzó a realizar la ÚZB (prueba de freno), dando la orden de aplicar el freno verbalmente al maquinista del tren Pn 52690,
+◦la verificación del ajuste de las zapatas de freno a la superficie de rodadura de las ruedas la realizó por el lado derecho del DV, transcurrió sin anomalías,
+◦cuando llegó al extremo trasero del último TDV, con una breve apertura de la llave de acoplamiento del conducto principal, purgó la conexión de aire y, a través del teléfono móvil, dio la orden de soltar el freno al maquinista del tren Pn 52690,
+◦tras soltar el freno del último TDV, pasó al otro lado, purgó de nuevo brevemente la conexión de aire, tras lo cual el TDV del tren aplicó el freno y posteriormente lo soltó,
+◦en el regreso hacia el HDV, verificó el desenganche de las zapatas de freno de la superficie de rodadura de las ruedas. Tanto el desenganche como el ajuste los verificó con el martillo de vagones,
+◦tras llegar a la cabina del maquinista del HDV, comunicó al maquinista del tren Pn 52690 el resultado de la ÚZB – freno en orden – y a continuación redactó el informe de frenado, que firmaron tanto él como el maquinista del tren Pn 52690,
+◦el maquinista introducía los datos del tren en el registrador de velocidad electrónico del HDV, mientras que él «se escapó» un momento y, tras regresar al HDV, contactó con el despachador ODOSC respecto a la disponibilidad para la salida,
+◦a continuación, a través de la radio del vehículo, comunicó al jefe de estación de žst. Lhotka n. B. la disponibilidad [nota DI: correctamente, la preparación (del tren futuro)] para la salida,
+◦salieron de žst. Lhotka n. B. a las 11:30 h, circularon por la TK n.º 2 Lhotka n. B. – Hustopeče n. B., el tren Pn 52690 tenía 17 TDV cargados de benceno, es decir, una sustancia inflamable y explosiva,
+◦en el momento en que el despachador ODOSC introducía en el sistema del operador de la red ferroviaria de ámbito estatal la preparación para la circulación, también le informó de un cambio en el ulterior desarrollo de la prestación de trabajo tras su llegada a žst. Ostrava hl. n., tras lo cual comenzó a buscar en el correo electrónico información para llevar a cabo dichos cambios,
+◦esta actividad la realizaba durante la circulación del tren Pn 52690 debido a la disponibilidad de señal móvil en el tramo Lhotka n. B. – Milotice nad Bečvou. Según sus palabras, la señal móvil en los tramos siguientes es débil o inexistente. Durante esta actividad no seguía la conducción del maquinista del tren Pn 52690, no tenía motivo para ello, ya que hasta žst. Hranice na Moravě el maquinista del tren Pn 52690 podía conducir el tren por sí solo,
+◦cuando se aproximaban al último señal de bloqueo antes de žst. Hustopeče n. B. (nota DI: se trataba del señal de bloqueo AB 2-173), se encendió en el repetidor de señal, según su declaración, una luz naranja de advertencia (nota DI: se trataba de una luz amarilla). Según su declaración, «Esto significa, señal de advertencia
 
 ## Página 96
+
 
 ### e indica que va a haber algún cambio. Nos dijimos que en Hustopeče la
 ### regla es que se circula recto, mientras que eso le muestra una señal de dos
@@ -2527,8 +2509,8 @@ instructor-maquinista
 ◦al trabajar usa gafas para la vista. Durante el trayecto del tren Pn 52690 llevaba las gafas puestas en la parte superior de la cabeza, ya que trabajaba en el portátil,
 ◦como instructor-maquinista forma y supervisa a los maquinistas del transportista ODOSC; además de la función de instructor-maquinista, desempeña también la posición de maquinista en el mismo transportista, desde el inicio de este año en un alcance de aprox. 40 % de las prestaciones laborales al mes,
 
-
 ## Página 97
+
 
 ◦las tareas laborales que debía desempeñar el 28. 2. 2025 se las comunicó el empleador ODOSC con unos 2 a 3 días de antelación, cuando se detuvo en su tiempo libre en la sede de la empresa ODOSC,
 ◦la noche anterior al turno, con inicio el 28. 2. 2025 a las 6:00 h, la pasó en casa durmiendo,
@@ -2545,6 +2527,7 @@ Nota DI: según el art. 2.1.4 de la normativa interna PDD, al acoplar la HDV con
 
 ## Página 98
 
+
 Entre la HDV y la 1.ª TDV conectó después las conexiones de freno del conducto principal, abrió las llaves de freno únicamente tras la preparación total del convoy para el tren Pn 52690 para la realización de la ÚZB y continuó con la preparación del convoy para la prueba de freno, consistente en la interconexión del conducto principal de todas las TDV, la verificación del correcto ajuste de los conmutadores de modo de frenado y de las masas de frenado, y de la posición correcta de la palanca del dispositivo de desconexión del freno de aire. Además, revisó el equipo de freno de los vagones y el estado de las pastillas de freno y, por encima de las obligaciones que le estaban impuestas, verificó la vigencia de las revisiones de las calderas de los distintos vagones cisterna,
 ◦la señalización del final del convoy para el tren Pn 52690 con la señal «Fin de tren» en la vía industrial DEZA la realizó el maquinista del tren Pn 52690, cuando fue a buscar la documentación del tren,
 ◦a su regreso junto a la HDV 383.223-5 abrió las llaves de freno del conducto principal entre la HDV y la 1.ª TDV, retiró el tope bajo la 1.ª TDV y aflojó los frenos de mano apretados de las TDV,
@@ -2559,8 +2542,8 @@ Entre la HDV y la 1.ª TDV conectó después las conexiones de freno del conduct
 ◦viajaba en la cabina del maquinista, desde la que se controlaba la circulación del tren Pn 52690, en calidad de viaje de reenvío,
 ◦sobre el carácter de la mercancía transportada en el tren Pn 52690 ya fue informado en la planificación de dicho transporte, al tratarse de benceno transportado hacia Ostrava,
 
-
 ## Página 99
+
 
 y además de la documentación del tren, lo cual también hizo constar en el informe de frenado del tren que elaboró,
 ◦al confeccionar el informe de frenado, en el cálculo de los porcentajes reales de frenado del tren, omitió computar para la HDV y los cinco primeros TDV tras la HDV, como su masa de frenado, el valor 0,75 de la masa de frenado indicada para la posición del conmutador «G»,
@@ -2573,8 +2556,8 @@ Nota DI: de la parte cumplimentada de la Hoja de Control encontrada durante la i
 ◦no sabe si el maquinista del tren Pn 52690, tras la salida del tren de la vía industrial DEZA, donde el 28. 2. 2025 se realizó la ÚZB de dicho tren, probó en marcha el efecto del freno continuo del tren, porque en ese momento viajaba en el tren en calidad de reenvío y tenía encendido el portátil de servicio, en el que estaba trabajando. Tampoco le son conocidas las señales de los señales de bloqueo AB en el tramo Lhotka n. B. – Hustopeče n. B., así como tampoco sabe qué indicaba la señal de entrada de la est. Hustopeče n. B., respectivamente qué luces estaban encendidas en la cabina del maquinista en el repetidor de señales. No seguía la vía ni las señales delante de la HDV, solo registró probablemente el pitido de la parte móvil del VZ en algún punto tras pasar el nivel del primer señal de bloqueo AB,
 ◦durante la marcha con el maquinista del tren Pn 52690 probablemente se dijeron algo, pero no fue capaz de recordar qué en concreto, sin embargo, no debió tratarse de ninguna discusión larga. No recuerda nada más, como ya indicó, no seguía la vía ni las señales, no realizaba actividad de control, viajaba en calidad de reenvío,
 
-
 ## Página 100
+
 
 ◦no sabe exactamente qué actividad realizaba el maquinista del tren Pn 52690, sabe que conducía la HDV, en la cabina del maquinista no sonaba música reproducida, el maquinista del tren Pn 52690 no tenía encendido su portátil de servicio, tampoco prestaba atención al teléfono móvil. Ninguno de los dos estaba reproduciendo una película,
 ◦la visibilidad de las señales en el tramo entre estaciones Lhotka n. B. – Hustopeče n. B., incl. la señal de entrada de la est. Hustopeče n. B., la valora como satisfactoria, no observa ningún problema en la visibilidad de las señales y de sus indicaciones,
@@ -2588,6 +2571,7 @@ Nota DI: de la parte cumplimentada de la Hoja de Control encontrada durante la i
 ◦cuando tras la parada de la HDV 383.223-5 en la est. Hustopeče n. B. en la SK n.º 1 el maquinista del tren Pn 52690, tras mirar por la ventana lateral derecha de la cabina, dijo que ardiendo estaba detrás, se puso el chaleco reflectante y fue a la DK de la est. Hustopeče n. B., donde notificó la aparición de la MU e informó al jefe de estación del carácter de la mercancía transportada por el tren. En el momento en que descendía de la HDV, comprobó que los vagones cisterna estaban desconectados de la HDV y ardían en el espacio del extremo de entrada. Tras salir de la DK, notificó mediante su teléfono móvil de servicio la aparición de la MU a un miembro
 
 ## Página 101
+
 
 del consejo de administración de ODOSC y probablemente también al despachador de ODOSC, el maquinista del tren Pn 52690 notificó por teléfono la aparición de la MU al gerente de control interno,
 ◦el tiempo razonable de descanso y comida lo disfrutó en la vía privada DEZA Valašské Meziříčí antes de realizar la prueba de frenos del tren Pn 52690, en un periodo de unos 30 minutos, con la intención de completar la parte restante durante la marcha del tren hacia la estación Hranice n. M. město, a lo que finalmente no llegó,
@@ -2604,8 +2588,8 @@ despachador de ODOSC
 ◦en los demás casos solicitaba por teléfono el jefe de maniobras de ČDC,
 ◦en cuanto a la preparación y organización del transporte, es decir, de la marcha del tren Pn 52690, realizada el 28. 2. 2025 desde la vía privada DEZA hasta la vía privada de la empresa BorsodChem MCHZ, s.r.o. en Ostrava, considera que la solicitud de transporte del tren desde la vía privada DEZA llegó a ODOSC por parte de la empresa DEZA, tras lo cual se realizó la solicitud de la vía de circulación y, en función de las rutas asignadas, determinó al instructor de maquinistas que debía «autorizar» en la serie 383 (193) en ese turno al maquinista del tren Pn 52690. Contactó con ambos y les informó, designando como HDV en ese momento la única serie 383 disponible. Encargó al instructor de maquinistas la realización de la VTP de los vagones antes de su inclusión en el tren Pn 52690, habiéndoselo comunicado también por teléfono. Considera que, en el marco de la asignación de la prestación, no consultaron entre sí si el instructor de maquinistas era competente para dicha actividad – pensaba que el instructor de maquinistas era competente para realizar la VTP, estaba convencido de ello, sin embargo, en ningún lugar verificó la corrección de su juicio respecto a su competencia para realizar la VTP. La única posibilidad de verificar lo anterior era preguntar por teléfono
 
-
 ## Página 102
+
 
 al gerente de control interno de ODOSC, lo que en este caso no hizo. La segunda posibilidad era consultar el sistema interno del operador ODOSC, donde podía consultar las competencias de los distintos empleados, es decir, también los documentos de competencia del instructor de maquinistas, lo que tampoco hizo. Al encargar la realización de la VTP del tren Pn 52690, no encargó a ninguna otra persona,
 ◦en caso de que hubiera encargado la realización de la VTP al jefe de maniobras de ODOSC o al instructor de maquinistas, entonces no verificó su competencia, porque estaba convencido de que eran competentes. Si solicitaba la realización de la VTP al jefe de maniobras a la empresa ČDC, entonces no comprobaba, por lógica de las cosas, la competencia del jefe de maniobras concreto designado por la empresa ČDC para realizar la VTP que le solicitaban,
@@ -2619,52 +2603,73 @@ gerente de control interno de ODOSC
 ◦en el boletín de exámenes del maquinista del tren Pn 52690 anotó por error la serie 183 en lugar de 193, cuando en el caso de la serie 193 se trataba de la denominación alemana de la serie de locomotoras, tras la barra inclinada ya indicó la denominación correcta de la serie 383 válida según la nomenclatura checa. Por descuido, en dicho boletín de exámenes indicó como término de superación con éxito del examen «způsobilý» (competente) en lugar de «prospěl» (aprobado),
 ◦a la pregunta de en qué basó, el 8. 7. 2024, es decir, en el momento de la emisión del certificado complementario del maquinista del tren Pn 52690 relativo a su licencia de maquinista, con más de medio año de antelación, en el Certificado del maquinista del tren Pn 52690, entre los vehículos ferroviarios que este maquinista estaba autorizado a conducir, en la parte «Poznámka», la anotación de la serie 193 (383), cuando este maquinista demostrablemente no estaba autorizado a esa fecha para conducir de forma independiente esta serie de DV, respondió que el certificado de dicho maquinista se emitió en el momento en que superó con éxito
 
-
 ## Página 103
 
-la ZOZ extraordinaria del 8. 7. 2024. En base a dicho examen se le emitió después un certificado, en el que se indicaban en la nota las series de locomotoras como dato no obligatorio, para que, según su declaración, «el maquinista supiera qué series de locomotoras del operador ODOSC podía utilizar para la explotación del transporte ferroviario», siendo, según sus palabras, «las series de locomotoras indicadas en el certificado no indican las series de locomotoras que el maquinista está capacitado para conducir». Esta competencia la adquiere el maquinista correspondiente únicamente tras la realización del examen de competencia práctica y la anotación de dicho examen en el boletín de exámenes.
-Los despachadores de ODOSC disponen de una tabla de conocimientos de las distintas series de los maquinistas concretos, almacenada en el servidor de la empresa en la carpeta correspondiente, que es actualizada por el maquinista correspondiente, en base a la superación con éxito del examen de competencia práctica y la anotación de la realización de dicho examen en el boletín de exámenes del maquinista en cuestión. Estos procedimientos, sin embargo, no estaban regulados por una norma interna del operador ODOSC, así funcionaba en la práctica de muchos años;
+excepcional ZOZ del 8. 7. 2024. Con base en esta prueba, se le expidió después un certificado en el que se hacían constar en una nota las series de locomotoras como dato no obligatorio, para que, según su declaración, «el maquinista supiera qué series de locomotoras podía utilizar el transportista ODOSC para la explotación del transporte ferroviario», mientras que, según sus palabras, «las series de locomotoras indicadas en el certificado no indican las series de locomotoras que el maquinista está capacitado para conducir». El maquinista correspondiente adquiere esta aptitud únicamente tras superar la prueba de aptitud práctica y realizar la anotación de dicha prueba en el informe de pruebas.
+Los despachadores de ODOSC disponen de una tabla de conocimientos de las distintas series de locomotoras concretas de cada maquinista, almacenada en el servidor de la empresa en la carpeta correspondiente, que es actualizada por el maquinista correspondiente, con base en la superación de la prueba de aptitud práctica y la anotación de la superación de dicha prueba en el informe de pruebas del maquinista en cuestión. Sin embargo, estos procedimientos no estaban regulados por la normativa interna del transportista ODOSC; así funcionaba en la práctica de larga data;
 •
 jefe de turno en la vía privada DEZA
-  – Acta con el empleado:
-◦dentro de la distribución de trabajo al inicio del turno, informó a los empleados operativos a su cargo sobre la llegada del HDV para los vagones cisterna cargados de benceno,
-◦el HDV (nota DI: se trataba del HDV del operador ODOSC destinado al tren Pn 52690) debía llegar hacia las 10 h, por lo que dio instrucciones a los empleados subordinados sobre la preparación de los TDV para la composición del tren, concretamente su maniobra a la vía de apartadero n.º 102, su enganche mutuo y su aseguramiento contra la marcha incontrolada,
-◦tras la finalización de los trabajos, el jefe de maniobras y el jefe de maniobra le comunicaron por radio que la composición en la vía de apartadero n.º 102 (nota DI: se trataba de los TDV destinados al tren Pn 52690) estaba preparada y asegurada contra la marcha incontrolada,
-◦hacia las 9 horas le contactó el jefe de estación de la estación Lhotka n. B. para informarle de que el HDV del operador ODOSC se encontraba en la estación y estaba preparado para acceder a la composición en la vía de apartadero n.º 102 de la vía privada DEZA,
-◦comunicó con el jefe de estación por sí mismo, tras acordarlo con el señalero de la vía privada, debido a su ausencia en el puesto de mando de circulación, estando competente para realizar la actividad de señalero de la vía privada,
-◦abrió la puerta de entrada al recinto de la vía privada DEZA y, tras la transmisión de los consentimientos, se estableció mediante el dispositivo de seguridad una ruta de maniobra desde la estación Lhotka n. B. hasta la vía de apartadero n.º 102,
-◦unos treinta minutos después llegó al puesto de mando de circulación el maquinista del operador ODOSC (nota DI: se trataba del maquinista del tren Pn 52690), con el que comunicó brevemente y a continuación le entregó la documentación del tren, tras lo cual el maquinista volvió al HDV,
-◦hacia las once y media le informó el jefe de estación de la estación Lhotka n. B. de que el tren (nota DI: la maniobra) en la vía n.º 102 con los TDV cargados de benceno estaba preparado para la salida,
-◦posteriormente, el jefe de estación de la estación Lhotka n. B. transmitió mediante el dispositivo de seguridad el consentimiento, tras lo cual volvió a abrir la puerta de entrada y a continuación estableció la ruta de maniobra alrededor de la señal de maniobra L102 de la vía privada DEZA hasta la señal de salida LDz de la estación Lhotka n. B.,
+  – Anotación con el empleado:
+◦dentro de la distribución de trabajo al inicio de la turno, informó a los empleados operativos a su cargo de la llegada del HDV para los vagones cisterna cargados de benceno,
+◦el HDV (nota DI: se trataba del HDV del transportista ODOSC destinado al tren Pn 52690) debía llegar hacia las 10 h, por lo que impartió instrucciones a los empleados subordinados sobre la preparación del TDV para la composición del tren, concretamente su maniobra a la vía de vía privada n.º 102, su enganche mutuo y su aseguramiento contra la marcha incontrolada,
+◦tras finalizar los trabajos, el jefe de vagones y el jefe de maniobras le comunicaron por radio que la composición en la vía de vía privada n.º 102 (nota DI: se trataba del TDV destinado al tren Pn 52690) estaba preparada y asegurada contra la marcha incontrolada,
+◦hacia las 9 horas le contactó el jefe de estación de la est. Lhotka n. B. para informarle de que el HDV del transportista ODOSC se encontraba en la estación y estaba preparado para acoplarse a la composición en la vía de vía privada n.º 102 de la vía privada DEZA,
+◦comunicó él mismo con el jefe de estación tras acordarlo con el señalero de la vía privada, debido a su ausencia en el puesto de mando de la circulación, estando cualificado profesionalmente para ejercer la actividad de señalero de la vía privada,
+◦abrió la puerta de entrada al recinto de la vía privada DEZA y, tras la transmisión de las autorizaciones, se estableció mediante el dispositivo de seguridad una ruta de maniobra desde la est. Lhotka n. B. hasta la vía de vía privada n.º 102,
+◦unos treinta minutos después llegó al puesto de mando de la circulación el maquinista del transportista ODOSC (nota DI: se trataba del maquinista del tren Pn 52690), con el que mantuvo una breve conversación y posteriormente le entregó la documentación del tren, tras lo cual el maquinista volvió junto al HDV,
+◦hacia las doce menos cuarto le informó el jefe de estación de la est. Lhotka n. B. de que el tren (nota DI: parte de maniobra) en la vía n.º 102 con TDV cargados de benceno estaba preparado para la salida,
+◦acto seguido, el jefe de estación de la est. Lhotka n. B. transmitió mediante el dispositivo de seguridad la autorización, tras lo cual volvió a abrir la puerta de entrada y a continuación estableció la ruta de maniobra en torno a la señal de clasificación L102 de la vía privada DEZA hasta la señal de salida LDz de la est. Lhotka n. B.,
 
 ## Página 104
 
-◦información y la posición de la ruta de maniobras la comunicó telefónicamente al jefe de estación de la est. Lhotka n. B.,
-◦tras la salida del tren Pn 52690 del vlečka DEZA, anuló la ruta de maniobras,
-◦pasado algún tiempo, vio en el horizonte en dirección a la est. Hustopeče n. B. humo negro,
-◦poco después le contactó el jefe de estación de la est. Lhotka n. B. preguntándole con qué se había cargado la TDV del tren Pn 52690, a lo que le respondió que se había cargado de benceno;
+◦informaci o postavení posunové cesty sdělil výpravčímu žst. Lhotka n. B. 
+telefonicky,
+◦po odjezdu vlaku Pn 52690 z vlečky DEZA zrušil posunovou cestu,
+◦po nějaké době uviděl na obzoru směrem k žst. Hustopeče n. B. černý kouř,
+◦brzy poté jej kontaktoval výpravčí žst. Lhotka n. B. s dotazem, čím byla ložena 
+TDV vlaku Pn 52690, načež mu odpověděl, že byla ložena benzenem;
 •
-jefe de estación de la est. Hranice n. M. město
-  – Acta con el empleado:
-◦el 28. 2. 2025 debía continuar a partir de las 7:00 h la interrupción planificada de la TK n.º 2 y del suministro de TV entre la est. Hranice na Moravě y Hranice n. M. město, de acuerdo con el ROV 23051 B,
-◦por ello, al inicio del turno, solicitó al jefe de estación de la est. Hustopeče n. B. que le informara, previa consulta, de los trenes de mercancías largos o, en su caso, pesados,
-◦alrededor de las once y media apareció en el sistema la información sobre la preparación del tren Pn 52690 en la est. Lhotka n. B.,
-◦debido a su peso, contactó inmediatamente con el jefe de estación de la est. Hustopeče n. B. para preguntarle si no podría establecer una ruta de tren desde la est. Hustopeče n. B. hacia la TK n.º 1 Hranice n. M. město – Hustopeče n. B. para este tren,
-◦el jefe de estación de la est. Hustopeče n. B. estuvo de acuerdo con esta solicitud y más tarde le indicó la salida prevista del tren Pn 52690 de Hustopeč n. B. hacia Hranic n. M. město por la TK n.º 1, la cual aceptó,
-◦posteriormente, el jefe de estación de la est. Hustopeče n. B. le comunicó la aparición de la MU y la paralización de la circulación;
+výpravčí žst. Hranice n. M. město
+  – Zápis se zaměstnancem:
+◦dne 28. 2. 2025 měla od 7:00 h pokračovat plánovaná výluka TK č. 2 a napájení 
+TV mezi žst. Hranice na Moravě a Hranice n. M. město, a to dle ROV 23051 B,
+◦proto na začátku směny požádala výpravčího žst. Hustopeče n. B., aby jí 
+dlouhé, případně těžké nákladní vlaky, dával na dotaz,
+◦někdy před půl dvanáctou se v systému objevila informace o připravenosti vlaku 
+Pn 52690 v žst. Lhotka n. B.,
+◦vzhledem k jeho hmotnosti ihned kontaktovala výpravčího žst. Hustopeče n. B., 
+zda by pro tento vlak nepostavil vlakovou cestu ze žst. Hustopeče n. B. na 
+TK č. 1 Hranice n. M. město – Hustopeče n. B.,
+◦výpravčí žst. Hustopeče n. B. s tímto požadavkem souhlasil a později jí dal 
+předvídaný odjezd vlaku Pn 52690 z Hustopeč n. B. do Hranic n. M. město po 
+TK č. 1, který přijala,
+◦posléze jí výpravčí žst. Hustopeče n. B. oznámil vznik MU a zastavení provozu;
 •
-testigo (menor de edad)
-  – documentación de la PČR (Policía Checa) realizada en presencia de la trabajadora social del departamento de protección social y jurídica de la infancia:
-◦el 28. 2. 2025 se encontraba en una cabaña junto al lago en Hustopečích n. B. (nota DI: se trataba del lago localmente denominado „Jezero č. 6-východ“ [Lago n.º 6-este]),
-◦alrededor del mediodía se preparaba el equipo de pesca para la pesca planificada. Estaba de pie delante de la cabaña y miraba el lago, al otro lado del cual se encuentra el ferrocarril, y observaba un tren formado por vagones cisterna que circulaba desde Valašské Meziříčí en dirección a Hranic, el tren tenía aproximadamente 10 vagones cisterna [nota DI: la distancia entre el testigo y las vías de la aguada de la est. Hustopeče n. B. era de aproximadamente 500 m en línea recta],
-◦según su opinión, el tren circulaba definitivamente más rápido que los trenes habituales, y a la vez descartó que el tren circulara despacio,
-◦se percató de que la composición del tren se había separado de la locomotora, cuando la locomotora circulaba por delante y los vagones cisterna detrás,
-◦según su opinión, el 1.er vagón cisterna, tras descarrilar, como si se hubiera girado a la izquierda en la dirección de su marcha, y a continuación comenzaron a descarrilar los demás vagones acoplados detrás de este vagón,
-◦la locomotora continuó circulando, según su opinión ni siquiera frenó, continuó a la misma velocidad,
-◦inmediatamente después del descarrilamiento de los vagones cisterna se produjo una explosión, procedente de los vagones cisterna situados en la parte delantera, no pudo recordar el vagón concreto, ya que todo sucedió muy rápidamente,
-
+svědek (nezletilá osoba)
+  – dokumentace PČR pořízená za přítomnosti sociální 
+pracovnice oddělení sociálně právní ochrany dětí:
+◦dne 28. 2. 2025 se nacházel na chatě u jezera v Hustopečích n. B. (pozn. DI: 
+jednalo se o jezero místně označené „Jezero č. 6-východ“),
+◦v čase kolem oběda si připravoval rybářské potřeby pro plánovaný rybolov. Stál 
+před chatou a díval se na jezero, za kterým se nachází železnice a pozoroval 
+vlak tvořený cisternovými vozy jedoucí od Valašského Meziříčí směrem do 
+Hranic, vlak měl odhadem 10 cisternových vozů [pozn. DI: vzdálenost mezi 
+svědkem a kolejmi lhoteckého zhlaví žst. Hustopeče n. B. činila vzdušnou 
+čarou cca 500 m],
+◦dle jeho názoru jel vlak určitě rychleji než běžné vlaky, současně vyloučil, že by 
+vlak jel pomalu,
+◦všiml si, že se souprava vlaku oddělila od lokomotivy, kdy lokomotiva jela 
+napřed a cisternové vozy za ní,
+◦1. cisternový vůz se dle jeho názoru po vykolejení jakoby stočil doleva ve směru 
+své jízdy a posléze začaly vykolejovat další vozy řazené za tímto vozem,
+◦lokomotiva pokračovala v jízdě, dle jeho názoru ani nebrzdila, pokračovala 
+stejnou rychlostí,
+◦ihned po vykolejení cisternových vozů se ozval výbuch, a to od cisternových 
+vozů zařazených vepředu, konkrétní vůz si neuměl vybavit, vše se totiž událo 
+velice rychle,
 
 ## Página 105
+
 
 ◦en cuanto aparecieron las primeras llamas, se produjo la explosión. Sintió el efecto de la onda de presión, cuyo efecto observó primero en la superficie del agua,
 ◦el efecto de la onda de presión fue muy fuerte, dio un paso hacia atrás, con lo que casi fue derribado al suelo. Sufrió un shock, durante un momento no sabía qué hacer,
@@ -2693,8 +2698,8 @@ Nota DI: se trataba del maquinista del tren Pn 52690;
 10:38:46 h
 al maquinista del tren Pn 52690, que caminaba por la izquierda a lo largo del HDV, ya no se le pudo ver en el encuadre de la cámara;
 
-
 ## Página 106
+
 
 •
 10:53:23 h
@@ -2730,8 +2735,8 @@ en el encuadre de la cámara fue posible ver por última vez la 6.ª TDV complet
 11:33:35 h
 en el encuadre de la cámara fue posible ver por última vez la 7.ª TDV completa tras el HDV, en cuyo depósito se encontraba, entre otros, en el lateral, el rótulo legible „RYKO“ y en la placa de identificación situada sobre el bogie trasero se encontraba, entre otros, el número de registro legible 33 54 7932 026-9;
 
-
 ## Página 107
+
 
 •
 11:33:37 h
@@ -2761,8 +2766,8 @@ en el encuadre de la cámara fue posible ver por última vez la 15.ª TDV comple
 11:33:56 h
 en el encuadre de la cámara fue posible ver por última vez la 16.ª TDV completa tras el HDV, en cuyo depósito se encontraba, entre otros, en el lateral, el gran rótulo „DEZA“, el número de registro de la TDV no fue posible leerlo debido a su tamaño;
 
-
 ## Página 108
+
 
 •
 11:33:58 h
@@ -2779,6 +2784,7 @@ Fuente: DEZA
 El espacio de la zona de enlace del vlečka DEZA a la vía de la aguada de Hustopeče de la est. Lhotka n. B., incl. la puerta de entrada / de salida al recinto del vlečka DEZA y la señal de salida LDz de la est. Lhotka n. B., estaba monitorizado por un sistema de videovigilancia con grabación. Del análisis de esta grabación en el tiempo desde las 11:30:35 h hasta las 11:40:59 h del 28. 2. 2025 y tras tener en cuenta la desviación
 
 ## Página 109
+
 
 desviaciones entre el tiempo registrado por el sistema de cámaras y el tiempo real, 
 entre otros, se concluye:
@@ -2812,8 +2818,8 @@ al salir de la vía industrial DEZA. A la derecha, aproximadamente a la altura d
 estructura reticilar del poste de tracción, la señal de salida LDz de la est. Lhotka n. B.
 Fuente: DEZA
 
-
 ## Página 110
+
 
 ### 3.2 Descripción fáctica del suceso
 ### 3.2.1 Secuencia de hechos que condujeron al suceso excepcional
@@ -2858,8 +2864,8 @@ maquinista del tren Pn 52690 que el freno estaba en orden, y redactó el informe
 redactó correctamente dicho informe de frenado del tren → calculó incorrectamente la suma de los pesos de frenado reales 
 de los DV frenados en el modo G, y con ello también calculó incorrectamente
 
-
 ## Página 111
+
 
 los porcentajes de frenado reales del tren Pn 52690. El tren estaba, por tanto, insuficientemente frenado para la velocidad 
 de 100 km·h-1 establecida para él, los porcentajes de frenado reales del tren Pn 52690 permitían una velocidad máxima 
@@ -2901,8 +2907,8 @@ retroactivamente si bajo la luz amarilla brillaban dos franjas verdes. El instru
 en calidad de viaje de gestión, no siguió las señales y tampoco detectó la señal en la señal de entrada 2L. La señal de 
 entrada 2L de la est. Hustopeče n. B. indicaba en realidad desde las 11:34:07 h la señal «Velocidad
 
-
 ## Página 112
+
 
 40 km/h y vía libre», siendo que dicha señal de dos luces fue preseñalizada correctamente durante todo el tiempo por la 
 señal de sección AB 2-173.
@@ -2918,8 +2924,8 @@ la circulación por el desvío, al inicio del desvío n.º 1 era de 95,0 km·h-1
 manipulación previa de la palanca selector de fuerza de tracción/frenado) se registró a 1 m del inicio del desvío n.º 1 a 
 una velocidad de 95,0 km·h-1, con lo que quedaba acreditada a su vez la vigilancia del maquinista. Posteriormente,
 
-
 ## Página 113
+
 
 a las 11:37:52 h se produjo el MU a una velocidad de 93,5 km·h-1, cuando las superficies de rodadura de las ruedas 
 derechas del 1.er TDV tras el HDV abandonaron definitivamente la cabeza del carril (carril izquierdo de la dirección de 
@@ -2943,6 +2949,7 @@ de circulación del tren Pn 52690. Al inclinarse el TDV y posteriormente volcars
 tubular de tracción
 
 ## Página 114
+
 
 n.º 9, habiendo tenido lugar el primer contacto del casco del vagón con el mástil ya con un ángulo de inclinación del vagón de 39 °, véase también la Fig. n.º 27 de esta ZZ. La citada colisión del TDV con el mástil de acero del soporte de catenaria, así como el movimiento del TDV volcado sobre la superestructura ferroviaria acompañado de la aparición de fricción mecánica (de deslizamiento), condujeron, en combinación con el daño al casco y la pérdida de su estanqueidad, tanto a la aparición de chispas mecánicas como a la fuga de benceno, que finalmente se encendió, e incluso en relación con la influencia de las chispas generadas al arrancar el TV.
 Como consecuencia de la aparición de la MU y del posterior incendio, se produjeron daños materiales extensos, la contaminación del medio ambiente y la interrupción, respectivamente, la limitación de la explotación de la vía y del transporte ferroviario durante meses.
@@ -2990,8 +2997,8 @@ el jefe de estado mayor del comandante de la intervención anunció la creación
 13:40 h
 inicio de la inspección del lugar de aparición de la MU por parte de los inspectores de DI presentes (durante 6 días con interrupciones), es decir, de los lugares a los que se permitió gradualmente el acceso a los inspectores de DI por parte del comandante de la intervención, en consideración a la extensión del incendio y a la contaminación del entorno con sustancias tóxicas. El motivo fue garantizar la seguridad y la protección de la salud de los inspectores de DI, y para las necesidades de la inspección del lugar del descarrilamiento y de los TDV descarrilados en su posición final tras la MU, los inspectores utilizaron equipo especializado destinado a la protección de las personas frente a sustancias químicas peligrosas, véase también el punto 2.8 de esta ZZ;
 
-
 ## Página 115
+
 
 1. 3. 2025
 •
@@ -3042,8 +3049,8 @@ HZS de la región de Zlín:
 ◦Departamento Territorial de Kroměříž, parque de bomberos de Kroměříž,
 ◦Departamento Territorial de Zlín, parques de bomberos de Luhačovice, Zlín;
 
-
 ## Página 116
+
 
 •
 HZS SŽ, JPO: Brno, Česká Třebová, České Budějovice, Havlíčkův Brod, Cheb, Liberec, Ostrava, Nymburk, Plzeň, Praha, Přerov y Ústí nad Labem;
@@ -3085,8 +3092,8 @@ PČR, Dirección Regional de Policía de la región de Zlín, departamento terri
 PČR, Instituto de Investigación Criminal de Praga, Departamento de Exámenes Técnicos, Departamento de Diagnóstico Técnico.
 En total, los componentes intervinientes del HZS ČR, respectivamente del HZS SŽ, estuvieron presentes en el lugar de la MU desde su aparición hasta el 30. 9. 2025, es decir, un total de 215 días.
 
-
 ## Página 117
+
 
 ### 4 ANÁLISIS DEL SUCESO
 ### 4.1 Funciones y obligaciones
@@ -3097,6 +3104,7 @@ Sobre la base de lo anterior, puede resumirse que en la responsabilidad del jefe
 A cada circulación de un tren en la estación debía preceder la realización del conjunto de maniobras de tráfico y procedimientos de trabajo prescritos, que se denomina preparación de la ruta del tren. Esta debía ser realizada siempre por el jefe de estación, ya se tratara de la entrada, salida o paso de un tren por la estación, y cada vez antes de que el jefe de estación permitiera la circulación del tren mediante el semáforo principal o, en su caso, de otro modo. En el marco de la preparación de la ruta del tren, el jefe de estación debía comprobar si dentro de su ámbito de responsabilidad se había detenido la maniobra perturbadora, si la ruta del tren estaba libre y si la ruta del tren
 
 ## Página 118
+
 
 cesta correctamente establecida. El jefe de estación podía permitir la entrada del tren en la estación sin la adopción de medidas adicionales solo en los casos en que:
 •
@@ -3116,8 +3124,8 @@ En este lugar es necesario también indicar que, en el sentido de la normativa l
 El sistema de señalización utilizado en las vías explotadas por SŽ utilizaba en la señalización colores rojo, amarillo, verde, azul y blanco de las luces o de las pinturas de señalización. Para distinguir el significado de las señales podía utilizarse también la luz intermitente. La configuración de color (coordenadas colorimétricas – cromaticidad de los colores) de las luces de señalización la establecía la normativa legal de aplicación general.
 Las señales dadas al acompañamiento del tren, es decir, también al maquinista, por los señales principales en los tramos entre estaciones de tráfico, debían ser preseñalizadas al menos a la distancia de frenado y como máximo al doble de la distancia de frenado mediante las señales de los señales principales anteriores o mediante las señales de los preseñales independientes, si no se transmiten al DV de cabecera, siendo que en las vías con AB (sin explotación exclusiva de ETCS) debían preseñalizarse como máximo a una distancia de 2 000 m. Según las condiciones locales, para garantizar la visibilidad establecida
 
-
 ## Página 119
+
 
 de los señales en los tramos entre estaciones, se situaban antes de los preseñales de los señales principales y antes de los señales principales avisadores de distancia.
 En un señal podían estar encendidas simultáneamente como máximo tres luces de señalización, y si estaban encendidas simultáneamente tres luces de señalización, una debía ser blanca. Estas luces de señalización podían complementarse con símbolos luminosos que indicaran las distintas velocidades, el sentido de circulación del tren, el número de TK, la señalización de la señal de salida de la estación de clasificación, o bien otros símbolos que no pudieran confundirse con las luces de señalización. Al utilizar el sistema de señalización de velocidad, la señal en la parte inferior del señal indicaba la velocidad en el ámbito de los desvíos adyacentes al señal y la señal en la parte superior del señal preseñalizaba las señales del señal siguiente.
@@ -3143,8 +3151,8 @@ señal principal
   tramo de vías con desvíos definido desde el señal principal hasta más allá del último desvío recorrido antes del siguiente señal principal dentro del ámbito de la estación de tráfico con ramificación de vías, como máximo, sin embargo, hasta la altura de la señal de entrada de la estación de tráfico en sentido contrario.
 La circulación del tren Pn 52690 el día 28. 2. 2025 en žst. Lhotka n. B., en el TK n.º 2 del tramo intermedio Lhotka n. B. – Hustopeče n. B., y en žst. Hustopeče n. B. se organizó en los ámbitos dirigidos por los jefes de estación de žst. Lhotka n. B. y Hustopeče n. B. Para garantizar la circulación del tren Pn 52690 el día 28. 2. 2025 por el TK n.º 2 del tramo intermedio Lhotka n. B. – Hustopeče n. B., los jefes de estación de žst. Lhotka n. B. y Hustopeče n. B. realizaron, de forma independiente o en
 
-
 ## Página 120
+
 
 colaboración directa, las actuaciones de tráfico correspondientes, que consistían, entre otras, en la preparación de las rutas de tren, la notificación (emisión)/recepción de la salida prevista y real de žst. Lhotka n. B., la expedición del tren desde žst. Lhotka n. B. y la autorización de la entrada del tren en žst. Hustopeče n. B.
 En el tramo intermedio Lhotka n. B. – Hustopeče n. B., la circulación del tren Pn 52690 se garantizó mediante la acción del TZZ, en este caso concreto, AB. Dado que en el momento de organizar la circulación del tren Pn 52690 y también en el momento de realizar la preparación de las rutas de tren para su circulación, el SZZ de žst. Lhotka n. B. y Hustopeče n. B. y también el TZZ entre las estaciones Lhotka n. B. y Hustopeče n. B. mostraban un funcionamiento correcto y el primer tramo de vía (tramo espacial) en el sentido de circulación del tren estaba libre, el jefe de estación de žst. Lhotka n. B. pudo autorizar la circulación del tren Pn 52690 en el TK n.º 2 Lhotka n. B. – Hustopeče n. B. sin la adopción de medidas de tráfico. La expedición del tren desde žst. Lhotka n. B. en el TK n.º 2 Lhotka n. B. – Hustopeče n. B. se realizó con la señal «Velocidad 40 km/h y libre» de la señal de salida LDz de dicha estación, véanse los puntos 3.1.8 y 3.1.9 de esta ZZ.
@@ -3153,6 +3161,7 @@ En este lugar es esencial indicar que correspondía plenamente a la competencia 
 Dado que la situación de tráfico imperante en ese momento permitía cumplir la petición del jefe de estación de žst. Hranice n. M. město, el jefe de estación de žst. Hustopeče n. B., tras realizar las actuaciones de tráfico necesarias para el tren Pn 52690, estableció mediante la operación del SZZ de žst. Hustopeče n. B. la ruta de tren desde el TK n.º 2 Lhotka n. B. – Hustopeče n. B. hasta la SK n.º 1 de žst. Hustopeče n. B. y, a partir de esta SK, hasta el TK n.º 1 Hranice n. M. město – Hustopeče n. B. Como ya se indicó en el punto 3.1.8 de esta ZZ, el SZZ explotado en žst. Hustopeče n. B. no disponía de ningún tipo de dispositivo de registro para capturar sus estados de funcionamiento. No obstante, sobre la base de la información sobre el funcionamiento correcto del SZZ de žst. Hustopeče n. B., del TZZ en los tramos intermedios adyacentes y del análisis de los registros del Sistema de Diagnóstico Local LDS-3 sobre el funcionamiento del TZZ en el tramo intermedio Hustopeče n. B. – Lhotka n. B. (véase el punto 3.1.8 de esta ZZ – tabla n.º 6, respectivamente Figura n.º 22), puede constatarse de forma inequívoca que el jefe de estación estableció la ruta de tren para la circulación del tren Pn 52690 de forma oportuna, y mediante el método de ruta, en el que se maniobraban automáticamente y de forma sucesiva los desvíos que formaban parte de la ruta de circulación concreta (elegida). A continuación, cumplida la condición de que todos los KÚ estuvieran libres, todos los desvíos, incluidos los desvíos de rebaje, estuvieran correctamente maniobrados y en posición final, y no se hubiera establecido ninguna ruta de circulación prohibida, se produjo mediante la acción del SZZ el cierre de la ruta de circulación. Este impedía al empleado operativo (al jefe de estación de žst. Hustopeče n. B.) maniobrar todos los desvíos por los que se circula y de rebaje y establecer
 
 ## Página 121
+
 
 de todas las rutas de tren que pudieran poner en peligro la ruta de tren objeto de la medida. La ruta de tren establecida se señalizó al empleado encargado en el cuadro de vías del puesto de mando mediante las ventanas de luz con las luces indicadoras blancas encendidas permanentemente. La encendida de la señal que autoriza la marcha dependía además de la libertad de KÚ, en las rutas de entrada de la señalización de la señal al final de la ruta de tren, en las rutas de salida del estado de TZZ, o en su caso PZZ. Con la entrada del tren, con la ocupación de cualquier KÚ entre el lugar de visibilidad prescrito de la preseñalización de la señal de entrada, cuya función cumplía la señal de sección AB 2-173, y la señal de entrada 2L de la est. Hustopeče n. B. con la señal que autoriza la marcha, la ruta de tren cambió a ruta de tren cerrada por completo, lo que se mantuvo hasta el momento de la inspección del lugar del MU, véase el punto 3.1.3 de esta ZZ. La entrada del tren Pn 52690 en la est. Hustopeče n. B. ya estaba autorizada desde las 11:34:07 h con la señal «Velocidad 40 km/h y libre» señalizada por la señal de entrada 2L, que estaba preseñalizada con la señal «Espere velocidad 40 km/h» señalizada por la señal de sección AB 2-173, véase el punto 3.1.8 de esta ZZ.
 De lo anterior se deduce que los jefes de estación de la est. Lhotka n. B., Hustopeče n. B. y Hranice n. M. město tomaron a tiempo, antes de la circulación prevista del tren Pn 52690 en sus respectivos ámbitos de competencia, o en los comunes, las medidas necesarias para preservar la seguridad y la fluidez del tráfico ferroviario.
@@ -3164,8 +3173,8 @@ Obligaciones del explotador de la infraestructura ferroviaria DEZA según el sub
 Según el subapartado 1.4.3.6 RID, DEZA, como explotador de la vía-ramal «DEZA Valašské Meziříčí», cuya parte era también la maniobra de clasificación (estación), estaba obligada, entre otros, a velar por que se elaboraran planes de emergencia internos para las estaciones de clasificación de acuerdo con el capítulo 1.11 RID. Estos planes de emergencia deben contribuir a que, ante un MU en las estaciones de clasificación, todos los participantes que vayan a intervenir en la eliminación de las consecuencias del MU trabajen de forma coordinada, a fin de que las consecuencias del MU tengan el mínimo impacto sobre las vidas humanas y el medio ambiente.
 DEZA, como explotador del ramal, debía tener elaborados, de conformidad con el subapartado 1.4.3.6 RID, planes de emergencia (de contingencia), cuyo objetivo era la enumeración preliminar de las situaciones de emergencia que pudieran producirse durante la explotación del tráfico ferroviario y también
 
-
 ## Página 122
+
 
 la determinación de las respuestas deseadas de los trabajadores participantes en el transporte ferroviario con el fin de limitar las consecuencias de las situaciones de emergencia.
 ### Obligaciones del explotador de la infraestructura ferroviaria SŽ según el subapartado 1.4.3.6 RID
@@ -3183,8 +3192,8 @@ El explotador de la vía SŽ era responsable, entre otros, de la correcta ubicac
 En el marco de la investigación del MU se constató una discrepancia en la posición kilométrica de la señal de salida L1, situada según el SŘ de la est. Hustopeče n. B. en el km 15,225.
 En la inspección del lugar del MU se constató mediante medición que el HDV del tren Pn 52690 se detuvo en la posición final tras la producción del MU con su extremo delantero a una distancia de 83 m antes de la señal de salida L1, lo que correspondería al km 15,308, y a una distancia de 475 m después de la señal de salida S1 en el km 15,799, válida para la dirección opuesta de circulación del DV. Esta distancia correspondería a la detención del HDV con el extremo delantero en el km 15,324 → la diferencia constatada ascendía a 16 m, lo que estaba indudablemente muy por encima del límite de la posible desviación de medición. Por ello se procedió a la comprobación de la longitud útil de la SK nº 1, cuando por simple resta de los valores de las posiciones kilométricas de las señales de salida S1 y L1 resultaba una longitud útil de la SK nº 1, delimitada por estas señales de salida, de 574 m, mientras que según la medición de la DI la longitud útil real de esta SK era de 558 m, la diferencia calculada ascendía por tanto a idénticos 16 m. Además, en el lugar del MU se constató una discrepancia entre las posiciones km de las señales de salida L2 y L1, cuando entre sus posiciones km (L2: 15,233) y (L1: 15,225), indicadas por el explotador de la vía en el SŘ
 
-
 ## Página 123
+
 
 de la est. Hustopeče n. B., resultaba por simple diferencia un valor de distancia de 8 m, mientras que en realidad este valor era de 4,5 m.
 Según la declaración del explotador de la vía SŽ, los valores kilométricos de las señales de salida S1, L1 y L2 fueron tomados de la documentación básica original aprobada en septiembre de 1978 y coincidían con la posición indicada en el SŘ de la est. Hustopeče n. B. y en el correspondiente esquema de situación, pero no coincidían con las posiciones km indicadas en el esquema de situación de la est. Hustopeče n. B. del año 2024, elaborado por el proyectista autorizado en el marco de la obra «Aumento de la velocidad de la vía en el tramo Valašské Meziříčí – Hustopeče nad Bečvou». A fecha 15 de junio de 2025, estas posiciones km reales (L1: km 15,234; L2: km 15,238 y S1: km 15,792) fueron actualizadas en el correspondiente ZDD de la est. Hustopeče n. B.
@@ -3206,6 +3215,7 @@ A efectos de completitud conviene indicar que a fecha 1 de abril de 2026 se prod
 
 ## Página 124
 
+
 El transportista estaba obligado, de conformidad con las disposiciones de la Ley n.º 266/1994 Sb., entre otros, a explotar el transporte ferroviario de acuerdo con las reglas de explotación del transporte ferroviario, la licencia vigente y el contrato celebrado con el explotador de la infraestructura sobre la explotación del transporte ferroviario en la infraestructura, y, al explotar el transporte ferroviario, a regirse por las instrucciones del explotador de la infraestructura impartidas al organizar el transporte ferroviario.
 ### Conducción de un vehículo ferroviario por persona profesionalmente competente
 El transportista estaba obligado a garantizar que el transporte ferroviario lo realizaran personas que, entre otros requisitos, fueran profesionalmente competentes, y que los DV en las infraestructuras de ámbito nacional y regional los condujeran personas que poseyeran una licencia de maquinista vigente y certificados (complementarios) de maquinista vigentes.
@@ -3215,8 +3225,8 @@ Según el artículo «5. Exámenes» de la norma interna ZOZPDD, mediante el exa
 El día del suceso del MU, el maquinista del tren Pn 52690 superó el examen de aptitud práctica de conducción y operación de HDV de la serie 383 (193). Este examen fue iniciado, por el maquinista-instructor presente, que había sido encargado por el transportista de verificar las habilidades prácticas del maquinista para la conducción y operación de la serie de HDV en cuestión, en la est. Ostrava hl. n. después de las 6 h, con una inspección, la puesta en servicio y la preparación del HDV para el servicio, a la que siguió una marcha con el tren Lv 52622 en el tramo Ostrava hl. n. – Lhotka n. B. En el marco del examen, el HDV fue conducido por el maquinista del tren Pn 52690, a quien el maquinista-instructor presente supervisaba en la cabina del maquinista. El examen finalizó tras la llegada del HDV 383.223-5 a la vía privada DEZA.
 Según la declaración verbal del maquinista del tren Pn 52690 y del maquinista-instructor, el examen se finalizó con éxito. Sobre la superación con éxito del examen de aptitud práctica de conducción y operación de HDV de la serie 383 (193) por parte del maquinista del tren Pn 52690, el maquinista-instructor informó únicamente al despachador de ODOSC, a través del teléfono móvil, en el marco de una conversación iniciada a las 11:17 h, tal como ambos indicaron en su declaración de explicaciones, y hasta el momento del suceso del MU cumplimentó una parte del documento «Hoja de control», sin indicar su número, cuyos requisitos ni las normas (obligaciones, responsabilidad y competencias) para su cumplimentación y, por tanto, su validez jurídica, no fueron definidos por ninguna norma interna del transportista ODOSC, véase el punto 4.4.3 de la presente ZZ. En la Hoja de control de formato A4 se cumplimentó manualmente:
 
-
 ## Página 125
+
 
 •
 en el anverso únicamente:
@@ -3244,41 +3254,46 @@ Puede concluirse que
 ### competente para conducir el HDV 383.223-5, porque la superación con éxito del examen de aptitud práctica de conducción y operación de HDV de la serie 383 (193) no constaba registrado en el Informe de exámenes ni se había elaborado el acta de examen, es decir, en los documentos que, en las condiciones del transportista ODOSC, acreditaban la competencia del maquinista del tren Pn 52690 para conducir una u otra serie de locomotoras.
 Por este motivo, el maquinista-instructor, tras la finalización del mencionado examen, debió asumir la conducción del HDV en la vía privada DEZA y no cedérsela al maquinista. Al ceder la conducción del HDV al maquinista del tren Pn 52690 tras la finalización del examen, el maquinista-instructor no se eximió de su responsabilidad por la seguridad en la conducción del tren Pn 52690.
 
-
 ## Página 126
 
-### Constataciones:
-En la investigación se constató la infracción de una norma legal y de una norma interna, relativas a las funciones
-### y obligaciones del transportista ODOSC, en relación de causalidad
-### con el MU:
+### Constatación:
+En la investigación se constató el incumplimiento de una norma jurídica y de una norma interna, relativas a las funciones 
+### y obligaciones del transportista ODOSC, en relación 
+### causal directa
+###   con MU:
 •
-§ 35 apartado 1 letra e) de la Ley n.º 266/1994 Sb.:
-«El transportista está obligado a garantizar que el transporte ferroviario lo realicen personas que estén sanas y sean profesionalmente competentes»;
+§ 35 apartado 1 letra e) de la Ley núm. 266/1994 Sb.:
+"El transportista está obligado a garantizar que el transporte ferroviario lo realicen personas que estén 
+sanamente y profesionalmente capacitadas";
 •
 artículo 5 de la norma interna ZOZPDD:
-«…
-El resultado del examen de aptitud práctica lo registra el MVK en el Informe de exámenes
+"… 
+El resultado del examen de aptitud práctica lo anota el MVK en el Informe de exámenes 
 ### con las palabras Aprobado, No aprobado.
- ...»;
+ ...";
 •
 artículo 6 de la norma interna ZOZPDD:
-«…
-El MVK presenta al examen por escrito en el impreso Solicitud de examen.
-El MVK que presenta a un empleado para el examen correspondiente responde con su firma de que el empleado:
-◦ha cumplido las condiciones de preparación y formación prescritas para el examen correspondiente, ha realizado todos los exámenes y cursos de formación que son presupuesto para la superación del examen;
+"…
+A la solicitud de examen la presenta el MVK por escrito en el impreso Solicitud de examen.
+El MVK que presenta a un empleado para el examen correspondiente responde con su 
+firma de que el empleado:
+◦ha cumplido las condiciones de preparación y formación prescritas para el examen 
+correspondiente, ha realizado todos los exámenes y cursos de formación que son 
+presupuesto para superar el examen;
 ◦de la exactitud de los datos indicados en la solicitud.
-Con la firma de la solicitud de examen, el empleado toma nota de que está vinculadamente inscrito en el examen.
-Una vez finalizado el examen, el MVK registra el resultado del examen en el Informe de exámenes
-y elabora el Acta de examen (forma parte del expediente personal de competencia profesional del empleado).
-...».
-### Certificado complementario del maquinista-instructor y del maquinista del tren Pn 52690
-De conformidad con el § 35 de la Ley n.º 266/1994 Sb., el transportista estaba obligado, entre otros, a emitir a partir de la fecha de inicio de la explotación del transporte ferroviario una norma interna sobre la competencia profesional y los conocimientos de las personas que garantizan la explotación del transporte ferroviario y el método de su verificación, incl. el sistema de formación periódica, la expedición y retirada de los certificados de maquinista y de los cambios en los datos en ellos indicados, y el plazo de vigencia de los certificados de maquinista. El transportista estaba obligado, asimismo, a garantizar que los DV en las infraestructuras de ámbito nacional y regional los condujeran personas que poseyeran una licencia de maquinista vigente y un certificado de maquinista vigente. El certificado de maquinista era válido en la infraestructura o en una parte de ella, para las clases de DV y el modo de su utilización en él indicados.
-De conformidad con el § 46b apartado 6 de la Ley n.º 266/1994 Sb., una persona sin licencia de maquinista vigente solo podía conducir DV en una infraestructura de ámbito nacional o regional bajo la supervisión de una persona que fuera titular de un certificado de maquinista vigente para la infraestructura correspondiente o una parte de ella, la clase de vehículo y su modo de utilización, y ello exclusivamente en el caso de la formación en conducción o del examen de conducción de DV.
-En el § 46b apartado 4 de la Ley n.º 266/1994 Sb. se desarrollaba, además, que una persona sin certificado de maquinista vigente solo podía conducir DV en las infraestructuras de ámbito nacional y regional bajo la supervisión de una persona que fuera titular de un certificado de maquinista vigente para la infraestructura correspondiente o una parte de ella, siempre que:
-a) la perturbación de la continuidad del transporte ferroviario o el mantenimiento de la infraestructura exigiera un desvío del transporte ferroviario, establecido por el explotador de la infraestructura,
-
+Con la firma de la solicitud de examen, el empleado toma nota de que queda inscrito 
+de forma vinculante en el examen.
+Una vez finalizado el examen, el MVK anota el resultado del examen en el Informe de 
+exámenes, y elabora el Acta de examen (forma parte del expediente personal de 
+aptitud profesional del empleado).
+...".
+### Certificado complementario de instructor-maquinista y del maquinista del tren Pn 52690
+De acuerdo con el § 35 de la Ley núm. 266/1994 Sb., el transportista estaba, entre otras obligaciones, obligado a emitir a la fecha de inicio de la explotación del transporte ferroviario una norma interna sobre la aptitud profesional y los conocimientos de las personas que garantizan la explotación del transporte ferroviario y el método de su verificación, incl. el sistema de formación periódica, la emisión y retirada de certificados de maquinista y la modificación de los datos en ellos indicados y del plazo de validez del certificado de maquinista. El transportista estaba además obligado a garantizar que los DV en la red ferroviaria nacional y regional los condujeran personas que poseyeran una licencia de maquinista válida y un certificado de maquinista válido. El certificado de maquinista era entonces válido en la red ferroviaria o en una parte de ella, para los tipos de DV y la forma de su utilización que en él se indicaban.
+De acuerdo con el § 46b apartado 6 de la Ley núm. 266/1994 Sb., una persona sin licencia de maquinista válida solo podía conducir DV en la red ferroviaria nacional o regional bajo la supervisión de una persona que fuera titular de un certificado de maquinista válido para la red ferroviaria correspondiente o una parte de ella, el tipo de vehículo y su forma de utilización, y ello exclusivamente en el caso de formación en conducción o de examen de conducción de DV. En el § 46b apartado 4 de la Ley núm. 266/1994 Sb. se desarrollaba además que una persona sin certificado de maquinista válido solo podía conducir DV en la red ferroviaria nacional y regional bajo la supervisión de una persona que sea titular de un certificado de maquinista válido para la red ferroviaria correspondiente o una parte de ella, siempre que:
+a) la perturbación de la continuidad del transporte ferroviario o el mantenimiento de la red ferroviaria exigiera un desvío del transporte ferroviario, determinado por el explotador de la red ferroviaria,
 
 ## Página 127
+
 
 b) se tratara de una marcha única de un tren histórico,
 c) se tratara de una marcha única excepcional de un tren de mercancías,
@@ -3312,6 +3327,7 @@ recuadro para cada clase de vehículo ferroviario,
 
 ## Página 128
 
+
 •
 cuadro con espacio para notas (estas pueden ser el sello que confirme los conocimientos profesionales adquiridos, la fecha de caducidad de los conocimientos profesionales u otra información relevante, tal como se indica en el punto 1.6 Limitaciones4) del Anexo II del Reglamento de la Comisión (UE) 36/2010.
 En este punto es necesario recordar que en la normativa vigente, ya sea checa o europea, no se define explícitamente:
@@ -3337,8 +3353,8 @@ lengua materna era el checo.
 4)
 En la sección 6 del Modelo de la Comunidad para certificados complementarios se indican las limitaciones relativas a las características y capacidades del maquinista en relación con el contenido del certificado complementario de maquinista (p. ej., conducción permitida solo a la luz del día)
 
-
 ## Página 129
+
 
 En el certificado complementario del maquinista del tren Pn 52690, en la sección 3. CATEGORÍA, no se tachó el cuadro de la categoría A, estando la categoría B limitada a B2 →
 el maquinista del tren Pn 52690 estaba, por tanto, autorizado a conducir trenes de mercancías.
@@ -3360,8 +3376,8 @@ De lo anteriormente indicado se desprende que, aunque el operador ODOSC no estab
 Puede concluirse, por tanto, que la indicación de las series de locomotoras 193 (383), que el maquinista del tren Pn 52690 no estaba autorizado a conducir, en el cuadro con espacio para notas del certificado complementario del maquinista del tren Pn 52690 fue contraria a los requisitos de la normativa, pero también a la lógica de los hechos. Las series de locomotoras 193 (383) debieron hacerse constar en el certificado complementario únicamente tras la superación del examen de cualificación práctica (autorización) y la anotación de dicho examen en la Hoja de exámenes del maquinista del tren Pn 52690. El certificado del maquinista del tren Pn 52690 era, en el momento del suceso del MU, válido en atención a su fecha de emisión y vigencia, no obstante, en atención a los datos falsos en él indicados, no cumplía los requisitos de información sobre la cualificación profesional del maquinista para conducir una serie de locomotora concreta.
 Lo anterior no puede valorarse en relación causal con el suceso del MU, porque la anotación provisional de la serie concreta de HDV 193 (383) en la sección 7 del certificado complementario del maquinista Pn 52690 no tuvo ninguna influencia en el suceso del MU.
 
-
 ## Página 130
+
 
 ### Hallazgos:
 En la investigación se constató la infracción de la normativa y del reglamento interno, relativa a las funciones y obligaciones del operador ODOSC, al margen de la relación causal con el MU:
@@ -3386,6 +3402,7 @@ Como ya se ha indicado en este punto más arriba, el maquinista-instructor, tras
 
 ## Página 131
 
+
 del portátil de servicio. Sin embargo, durante la marcha del tren hasta el último semáforo de sección AB 2-173, que preanunciaba la velocidad desde el siguiente semáforo principal, que era el semáforo de entrada 2L de la est. Hustopeče n. B., observó el encendido de la luz amarilla en el repetidor de señalización. Según su declaración, él y el maquinista dijeron: «que en Hustopeče la regla es que se circula recto, mientras que a él le indica una señal de dos luces. Esto significa que indica, por ejemplo, 100 y vía libre, pero yo voy de la segunda vía principal a la segunda vía de estación. La segunda principal y la segunda de estación son una y la misma vía en dirección directa. Nosotros pensamos que esto estaría ahí, que así es como suele ser habitualmente en Hustopeče». En la marcha posterior del tren, el maquinista-instructor no prestó su atención, siguió trabajando en el portátil de servicio, lo que tuvo como consecuencia no detectar la señal «Espere velocidad 40 km/h» emitida por el semáforo de sección AB 2-173 y la señal «Velocidad 40 km/h y vía libre» emitida por el semáforo de entrada 2L de la est. Hustopeče n. B. Tras pasar el nivel del semáforo de entrada 2L, vio durante la marcha por el extremo de Lhotec, con una velocidad del tren superior a 90 km·h-1 1, el desvío n.º 1 (desvío n.º 1) dispuesto para la marcha en dirección desviada. Debido a la rápida sucesión de acontecimientos y a la acción de las fuerzas centrífugas al pasar por la unión de vías formada por los desvíos n.º 1 y 2, reaccionó a la situación creada solo en el espacio entre los desvíos n.º 3 y 5, a una velocidad de 86,4 km·h-1, presionando el botón de parada de emergencia.
 El maquinista del tren Pn 52690, tras pasar el nivel del semáforo de sección AB 2-191, que emitía la señal «Vía libre», registró el encendido de la luz amarilla en el repetidor de señalización. En la marcha posterior, hasta el último semáforo de sección AB 2-173, según su declaración, en el marco de una breve conversación con el maquinista-instructor relativa al brillo de la luz amarilla en el repetidor de señalización, habría expresado la suposición de que en el último semáforo de sección AB 2-173 habría la señal «Espere velocidad 100 km/h», a pesar de que aún no había visto la señal en dicho semáforo.
 Debido a la velocidad real del tren, la señal emitida por el semáforo de sección AB 2-173 desde el punto de inicio de su visibilidad (397 m), influenciada por las condiciones direccionales de la vía
@@ -3395,8 +3412,8 @@ Tras pasar el último semáforo de sección AB 2-173, se apagó la luz amarilla 
 ### sí que, a una velocidad de 96,0 km·h-1, conmutó la parte móvil del VZ al modo «MANUAL» y, a partir de la velocidad máxima básica de 40 km·h-1 que se había encendido en el repetidor de señalización,
 ### aumentó dicha velocidad a 100 km·h-1, lo que tuvo como consecuencia la finalización automática del modo «MANUAL» de la parte móvil del VZ. El frente del tren, que circulaba a una velocidad de 96,2 km·h-1, se encontraba en ese momento ya en el punto de inicio de la visibilidad de la señal de dos luces del semáforo de entrada 2L «Velocidad 40 km/h y vía libre», compuesta por una luz amarilla y, por encima de ella, una luz verde. A pesar de tratarse de un tramo recto de la vía, el maquinista del tren Pn 52690, si bien durante la marcha hacia el semáforo de entrada 2L de la est. Hustopeče n. B. registró la señal de dos luces emitida por dicho semáforo, según su declaración no pudo recordar retrospectivamente si bajo la luz amarilla vio brillar dos bandas verdes horizontales. Lo anterior tuvo como consecuencia que el frente del tren Pn 52690 pasara el nivel del semáforo de entrada 2L con la señal «Velocidad 40 km/h y vía libre» a una velocidad de 95,1 km·h-1, es decir, una velocidad que superaba la velocidad máxima permitida de 40 km·h-1 en hasta 55,1 km·h-1. La superación de la velocidad máxima permitida en el ámbito de los desvíos adyacentes al semáforo de entrada 2L tuvo como consecuencia el descarrilamiento del tren a una velocidad de 93,5 km·h-1, véase más abajo y los puntos 3.1.7 y 4.3.1 de la presente ZZ.
 
-
 ## Página 132
+
 
 ### Hallazgos:
 En la investigación se constató la infracción de disposiciones legales y normas internas relativas a las funciones y obligaciones del transportista ODOSC, en relación causal con el MU:
@@ -3428,8 +3445,8 @@ art. 2.2 de la norma interna PDD:
 El objeto del Estudio de cálculo VÚKV fueron simulaciones realizadas con el fin de evaluar la interacción mutua entre la superestructura ferroviaria y el 1.º TDV del tren Pn 52690 durante el paso por la unión de vías formada por los desvíos n.º 1 y 2 de la est. Hustopeče n. B., y la forma de descarrilamiento y vuelco de dicho TDV.
 Sobre la base de la documentación suministrada, se elaboró un modelo de Sistema Multicuerpo en el entorno del software Simpack 2024.1. El bastidor del vagón cisterna se modeló para un estado de llenado volumétrico del 85 %, con el tanque vacío como cuerpo rígido con masa estática [(parte inmóvil del líquido)] y dos péndulos que modelan el comportamiento del líquido en dirección transversal (model de líquido batido). El modelo del vagón cisterna se orientó de la misma manera que en la composición del tren Pn 52690 del 28. 2. 2025 – el extremo con freno de mano se
 
-
 ## Página 133
+
 
 encontraba en la parte trasera, véase la Fig. n.º 28 de la presente ZZ. Como datos de origen para tener en cuenta las irregularidades de la superestructura ferroviaria se utilizaron los datos de la última grabación de la medida de la anchura de vía, la posición mutua en altura y la pendiente de las bandas de riel de las vías y desvíos con registro continuo (con el vehículo de medición y la dresina de medición del explotador de la vía SŽ).
 Fig. n.º 28: Visualización del modelo de cálculo de todo el vagón en el entorno Simpack
@@ -3447,29 +3464,30 @@ la consideración del modelo de líquido batido en el tanque es esencial para el
 5)
 Los valores de llenado del tanque indicados se eligieron, entre otros, atendiendo a los parámetros disponibles de masas, centro de gravedad y momentos de inercia del TDV sin bogies.
 
-
 ## Página 134
 
-con vuelco en el arco de la dirección desviada del desvío n.º 2 de la unión de vías en cuestión a una velocidad de 93,5 km·h-1, e independientemente de tener en cuenta las irregularidades de la vía;
+por vuelco en el arco de la dirección de desvío del desvío n.º 2 del enlace ferroviario en cuestión a una velocidad de 93,5 km·h-1, e independientemente de la consideración de las irregularidades del carril;
 •
-el guardagujas del desvío n.º 2 tuvo una influencia esencial en el comportamiento y la forma del descarrilamiento → se produjo un contacto (enganche) de las ruedas derechas del TDV con el guardagujas del desvío n.º 2, por lo que el guardagujas desempeñó temporalmente la función de guiado, mientras que las ruedas izquierdas del TDV tuvieron tiempo, tras el descarrilamiento inicial al pasar por el desvío n.º 1, de asentarse de nuevo en el riel izquierdo y restablecer la función de guiado. A continuación se produjo el aligeramiento de las ruedas derechas del TDV y, como consecuencia de la pérdida definitiva de las fuerzas verticales de las ruedas, se produjo su descarrilamiento, una mayor inclinación del TDV y su vuelco al final del arco de la dirección desviada del desvío n.º 2;
+la aguja de retención del desvío n.º 2 tuvo una influencia decisiva en el comportamiento y el modo de descarrilamiento → se produjo el contacto (enganche) de las ruedas derechas del TDV con la aguja de retención del desvío n.º 2, con lo que la aguja de retención desempeñó temporalmente la función de guiado, mientras que las ruedas izquierdas del TDV tuvieron tiempo, tras el descarrilamiento inicial al pasar por el desvío n.º 1, de asentarse de nuevo en el raíl izquierdo y restablecer la función de guiado. A continuación se produjo el alivio de las ruedas derechas del TDV y, como consecuencia de la pérdida definitiva de las fuerzas verticales de las ruedas, se produjo su descarrilamiento, una mayor inclinación del TDV y su vuelco al final del arco de la dirección de desvío del desvío n.º 2;
 •
-el descarrilamiento y el vuelco del 1.º TDV en el ámbito del desvío n.º 2 no se debió a un trepado de la pestaña ni a una anomalía en la superestructura ferroviaria o en el TDV.
+el descarrilamiento y vuelco del 1.º TDV en el espacio del desvío n.º 2 no se produjo como consecuencia del trepado del borde de la pestaña ni de un defecto en la superestructura ferroviaria o en el TDV.
 ### Recepción del HDV 383.223-5 para la realización de los trenes Lv 52622 y Pn 52690
-De acuerdo con las reglas de explotación del transporte ferroviario contenidas en la norma interna PDV del transportista ODOSC, el libro de entrega de la locomotora (en lo sucesivo también KP) era un libro de explotación que servía, entre otros, para la confirmación escrita de la recepción del HDV por parte del personal (maquinista), el registro de la prueba de freno HV realizada, etc., en el que realizaban anotaciones:
+De acuerdo con las reglas de explotación del transporte ferroviario contenidas en la normativa interna PDV del operador ODOSC, el libro de entrega de la locomotora (en lo sucesivo también KP) era un libro de explotación que servía, entre otros fines, para la confirmación por escrito de la recepción del HDV por parte del personal de servicio (maquinista), el registro de la prueba de freno HV realizada, etc., en el que efectuaban anotaciones:
 •
 el maquinista siempre al inicio y al final del turno y, en caso de necesidad, también durante el turno;
 •
-el piloto, siempre antes de la marcha por el tramo de vía por el que vaya a responder por la conducción del tren desde el punto de vista del tráfico;
+el piloto, siempre antes de la circulación por el tramo de línea en el que vaya a ser responsable de la conducción del tren desde el punto de vista del tráfico;
 •
-el empleado que realiza la verificación del maquinista, durante la viaje de verificación o informativa y, además, en el caso de que asuma del maquinista la conducción del HDV;
+el empleado que realiza la supervisión del maquinista, durante la circulación de supervisión o informativa y, asimismo, en el caso de que asuma del maquinista la conducción del HDV;
 •
-el empleado del sector técnico (o el empleado de la empresa externa) tras cada realización de trabajo (mantenimiento, reparación o diagnóstico) en el HDV en cuestión.
-Del listado anterior y de la lógica de la materia se desprende que, con excepción del empleado del sector técnico y del llamado piloto, solo la persona responsable de la conducción del HDV en cuestión, es decir, la persona profesionalmente habilitada para conducir el HDV de la serie concreta, y el empleado encargado de la verificación del maquinista, estaban autorizados a realizar una anotación en el libro de entrega de la locomotora.
-La anotación en el libro «Odovzdávková kniha hnacieho vozidla 383 223-5» sobre la recepción de dicho HDV, sobre la realización de la prueba de freno de la locomotora y sobre su conducción en los trenes 52622 y 52690 en la ruta «OH – Lhotka – », la realizó el 28. 2. 2025 a las 6:50 h en la est. Ostrava hl. n. el maquinista del tren Pn 52690, a pesar de que demostrablemente no estaba habilitado para conducir de forma autónoma el HDV de la serie 383, recibirlo y, por tanto, tampoco realizar la anotación en el libro sobre su recepción. La anotación sobre la recepción del HDV debió haberla realizado el maquinista-instructor, que estaba encargado por el transportista ODOSC de la verificación de las competencias prácticas para la conducción y el servicio del HDV de la serie 383 (193) del maquinista del tren Pn 52690 y era responsable de la conducción del HDV en el marco de la realización de los trenes Lv 52622 y Pn 52690. Para mayor completitud, cabe añadir que, de la pareja indicada, solo el maquinista-instructor era persona profesionalmente habilitada para conducir el HDV 383.223-5, véase este punto más arriba.
-Lo anterior no puede valorarse en relación causal con el origen del MU, puesto que se trata de una deficiencia administrativa que no tiene ninguna influencia en el origen del MU.
+el empleado de la sección técnica (o el empleado de la empresa externa) tras cada realización de trabajos (mantenimiento, reparación o diagnóstico) en el HDV en cuestión.
+Del listado anterior y de la lógica de la materia se desprende que, con excepción del empleado de la sección técnica y del denominado piloto, solo la persona responsable de la conducción del HDV en cuestión, es decir, la persona con la habilitación profesional para conducir el HDV de la serie concreta, y el empleado encargado de la supervisión del maquinista, estaban autorizados para efectuar anotaciones en el libro de entrega de la locomotora.
+La anotación en el libro «Odovzdávková kniha hnacieho vozidla 383 223-5» sobre la recepción de este HDV, sobre la realización de la prueba de freno de la unidad tractora y sobre su conducción en los trenes 52622 y 52690 en la línea «OH – Lhotka – », fue realizada el 28. 2. 2025 a las 6:50 h en la est. Ostrava hl. n. por el maquinista del tren Pn 52690, aunque acreditadamente no estaba habilitado para conducir de forma autónoma un HDV de la serie 383, recibirlo y, por tanto, tampoco para efectuar la anotación en el libro sobre su recepción. La anotación sobre la recepción del HDV debió haber sido realizada por el maquinista-instructor, que estaba encargado por el operador ODOSC de la verificación de las competencias prácticas para la conducción y el servicio del HDV de la serie 383 (193) en el maquinista del tren Pn 52690 y era responsable de la conducción del HDV en el marco de la explotación de los trenes Lv 52622 y Pn 52690.
+A efectos de completitud, cabe añadir que, de la pareja indicada, solo el maquinista-instructor era la persona con la habilitación profesional para conducir el HDV 383.223-5, véase este punto más arriba.
+Lo anterior no puede valorarse en relación causal con la aparición del MU, puesto que se trata de un defecto administrativo que no tiene ninguna influencia en la aparición del MU.
 
 ## Página 135
+
 
 ### Hallazgos:
 Durante la investigación se constató la infracción de una norma legal y de una norma interna relativas a las funciones
@@ -3499,8 +3517,8 @@ Durante la investigación se constató la infracción de una norma legal y de un
 artículo 2.1.4 de la norma interna PDD:
 "Al desenganchar la locomotora de un vagón se utilizará la barra de enganche del vagón; en caso de inutilidad de dicha barra de enganche, podrá utilizarse excepcionalmente la barra de enganche de la locomotora.".
 
-
 ## Página 136
+
 
 ### Inspección no realizada de los vehículos ferroviarios antes de su inclusión en el tren Pn 52690
 De acuerdo con las normas legales, solo pueden incluirse en un tren los VF sobre la base de una inspección (técnica) realizada, que lleva a cabo una persona cualificada del transportista. El transportista ODOSC, a su vez, concretó en sus normas internas PDD y PDV qué debe realizar concretamente la persona cualificada –el jefe de vagones– durante la inspección y qué medida adoptar si, por ejemplo, detecta que un VF no es apto para ser incluido en un tren.
@@ -3515,8 +3533,8 @@ Durante la investigación se constató la infracción de normas legales y de nor
 § 35 apartado 1 letra a) de la Ley núm. 266/1994 Sb.:
 "El transportista está obligado a explotar el transporte ferroviario de acuerdo con las normas de explotación del transporte ferroviario, la licencia vigente y el contrato celebrado con el explotador de la vía sobre la explotación del transporte ferroviario en la vía";
 
-
 ## Página 137
+
 
 •
 § 36 apartado 1 del Decreto núm. 173/1995 Sb.:
@@ -3554,27 +3572,25 @@ p) tienen un cierre (precintas) legible e intacto; ...";
 
 •
 art. 3.4 del reglamento interno PDD:
-«La inspección técnica del tren la realizará el jefe de maniobras.».
-Sobre la base de la comprobación anteriormente indicada relativa a la no realización de la inspección DV por parte de una persona cualificada del transportista antes de su inclusión en el tren Pn 52690 el 28. 2. 2025, el DI presentó el 26. 8. 2025, con el n.º de expediente: MU-303/2025/DI-100, una denuncia ante la DÚ respecto a la posible comisión de una infracción por el transportista ODOSC. El resultado de la tramitación del asunto por parte de la DÚ no era conocido por el DI a la fecha de finalización de la investigación MU.
+"La inspección técnica del tren la realizará el jefe de material.".
+Sobre la base de la comprobación anteriormente indicada relativa a la no realización de la inspección de DV por parte de una persona cualificada del transportista antes de su incorporación al tren Pn 52690 el 28. 2. 2025, el DI presentó el 26. 8. 2025, con el n.º de expediente: MU-303/2025/DI-100, una denuncia ante la DÚ en relación con la posible comisión de una infracción por parte del transportista ODOSC. El resultado de la tramitación del asunto por parte de la DÚ no era conocido por el DI a la fecha de finalización de la investigación MU.
 
 ### Porcentajes de frenado incorrectamente calculados del tren Pn 52690
-La masa del tren Pn 52690, frenado por el método de frenado I, era en realidad de 1 561 t tras el redondeo. El maquinista-instructor, al preparar la composición para el tren Pn 52690 en la ÚZB, colocó correctamente el conmutador de modo de frenado de los primeros 5 TDV en la posición G de conformidad con la Directriz KVs3-B-2010 del transportista ČDC (en realidad KVs-3-B-ČDC-CZ, véanse más abajo y los puntos 4.4.3 y 5.3 de la presente ZZ), a cuya redacción original se refería en su reglamento interno PDD del transportista ODOSC⁶). Tras realizar la ÚZB, a partir de la documentación del tren, inició la elaboración del informe de frenado; sin embargo, a diferencia de lo dispuesto en el art. 3.7.2.8 de la Directriz KVs-3-B-ČDC-CZ para la HDV y los primeros 5 TDV del tren frenado por el método I en el modo P, no computó como su masa de frenado 0,75 del valor de la masa de frenado indicado para la posición G. El maquinista-instructor calculó, por tanto, incorrectamente la suma de las masas de frenado reales de las DV frenadas en el modo G, y con ello calculó también incorrectamente los porcentajes de frenado reales del tren Pn 52690. Según el cálculo del maquinista-instructor, el valor de los porcentajes de frenado reales era del 67 (%), mientras que el valor correcto era del 62 %.
-
-Además, es necesario indicar que, como consecuencia del cálculo incorrecto de los porcentajes de frenado reales, el tren Pn 52690 no estaba suficientemente frenado para la velocidad máxima de 100 km·h-1, la pendiente decisiva del 8 ‰ y la distancia de frenado de 1 000 m, ni siquiera teniendo en cuenta el valor de los porcentajes de frenado reales de 67 (%) calculado por el maquinista-instructor, ya que el valor del porcentaje de frenado necesario para la pendiente decisiva del 8 ‰, la velocidad máxima de 100 km·h-1 y la distancia de frenado de 1 000 m, según el Anexo n.º 2 del decreto n.º 173/1995 Sb. y la Tabla I.10 del Anexo 6 de la Directriz KVs-3-B-ČDC-CZ, era del 69 (%). La velocidad máxima del tren Pn 52690 debía ser de 95 km·h-1, para la cual estaba prescrito el valor de los porcentajes de frenado necesarios del 61 (%), y no de 100 km·h-1, como calculó e indicó el maquinista-instructor en el informe de frenado «ČD Informe internacional de frenado y de tren» vigente para el tren Pn 52690.
-
-Dado que la superación de la velocidad máxima del tren en cuestión de 95 km·h-1, que garantiza su detención segura en la distancia de frenado, en 1,2 km·h-1 se produjo en el tramo entre estaciones Lhotka n. B. – Hustopeče n. B., y en vista de los demás hechos comprobados durante el transcurso de la MU, lo anterior no puede valorarse en relación causal con la producción de la MU.
+La masa del tren Pn 52690, frenado con el primer método de frenado, era en realidad de 1 561 t tras el redondeo. El maquinista-instructor, al preparar la composición para el tren Pn 52690 en la ÚZB, configuró correctamente el conmutador de modo de frenado de los primeros 5 TDV a la posición G de conformidad con la Directriz KVs3-B-2010 del transportista ČDC (en realidad KVs-3-B-ČDC-CZ, véase más abajo y los puntos 4.4.3 y 5.3 de la presente ZZ), a cuya redacción original se referenciaba en su reglamento interno PDD del transportista ODOSC⁶). Tras realizar la ÚZB, a partir de la documentación del tren, comenzó la elaboración del informe de frenado; sin embargo, a diferencia de lo dispuesto en el art. 3.7.2.8 de la Directriz KVs-3-B-ČDC-CZ para el HDV y los primeros 5 TDV del tren frenado con el primer método en modo P, no computó como su masa de frenado 0,75 del valor de la masa de frenado indicado para la posición G. El maquinista-instructor calculó por tanto incorrectamente la suma de las masas de frenado reales de las DV frenadas en modo G, y con ello calculó también incorrectamente los porcentajes de frenado reales del tren Pn 52690. Según el cálculo del maquinista-instructor, el valor de los porcentajes de frenado reales era del 67 (%), mientras que el valor correcto era del 62 %.
+Además, es necesario indicar que, como consecuencia del cálculo incorrecto de los porcentajes de frenado reales, el tren Pn 52690 no estaba suficientemente frenado para la velocidad máxima de 100 km·h-1, la pendiente decisiva del 8 ‰ y la distancia de frenado de 1 000 m, ni siquiera teniendo en cuenta el valor de los porcentajes de frenado reales de 67 (%) calculado por el maquinista-instructor, ya que el valor del porcentaje de frenado necesario para la pendiente decisiva del 8 ‰, la velocidad máxima de 100 km·h-1 y la distancia de frenado de 1 000 m, según el Anexo n.º 2 del decreto n.º 173/1995 Sb. y la Tabla I.10 del Anexo 6 de la Directriz KVs-3-B-ČDC-CZ, era del 69 (%). La velocidad máxima del tren Pn 52690 debía ser de 95 km·h-1, para la cual estaba prescrito el valor de los porcentajes de frenado necesarios del 61 (%), y no de 100 km·h-1, como calculó e indicó el maquinista-instructor en el informe de frenado "ČD Informe internacional de frenado y de tren" vigente para el tren Pn 52690.
+Dado que el exceso de la velocidad máxima del tren en cuestión de 95 km·h-1, que garantiza su detención segura en la distancia de frenado, en 1,2 km·h-1 se produjo en el tramo entre estaciones Lhotka n. B. – Hustopeče n. B., y en vista de otras circunstancias comprobadas durante el transcurso de la MU, lo anterior no puede valorarse en relación causal con la aparición de la MU.
 
 ### Comprobaciones:
 Durante la investigación se constató la infracción de la normativa legal y de los reglamentos internos relativos a las funciones
-### y obligaciones del transportista ODOSC, al margen de la relación causal con la MU:
+### y obligaciones del transportista ODOSC, fuera de la relación causal con la MU:
 •
 § 35 apartado 1 letra a) de la ley n.º 266/1994 Sb.:
-«El transportista está obligado a explotar el transporte ferroviario de acuerdo con las normas de explotación del transporte ferroviario, la licencia vigente y el contrato celebrado con el explotante de la vía sobre la explotación del transporte ferroviario en la vía,»;
-6)
-El nombre original de la Directriz KVs3-B-2010 fue modificado el 8. 4. 2024 con la publicación de la Directriz KVs-3-B-ČDC-CZ, con efectos a partir del 1. 7. 2024. El transportista ODOSC no reflejó este cambio en sus reglamentos internos PDD, PDV y ZOZPDD hasta la fecha de producción de la MU.
-
+"El transportista está obligado a explotar el transporte ferroviario de acuerdo con las normas de explotación del transporte ferroviario, la licencia vigente y el contrato celebrado con el explotador de la vía sobre la explotación del transporte ferroviario en la vía,";
+⁶)
+El nombre original de la Directriz KVs3-B-2010 fue modificado el 8. 4. 2024 con la emisión de la Directriz KVs-3-B-ČDC-CZ, con efectos a partir del 1. 7. 2024. El transportista ODOSC no reflejó este cambio en sus reglamentos internos PDD, PDV y ZOZPDD hasta la fecha de aparición de la MU.
 
 ## Página 139
+
 
 •
 § 37 apartado 2 del decreto n.º 173/1995 Sb.:
@@ -3598,8 +3614,8 @@ Según las normas de explotación del transporte ferroviario contenidas en la di
 
 De los datos registrados por el dispositivo registrador de la HDV 383.223-5 se desprende de forma inequívoca que el maquinista del tren Pn 52690 no comprobó, tras la ÚZB realizada en el ramal DEZA, el efecto del freno continuo del tren en marcha hasta la producción de la MU, habiendo alcanzado con el tren en la tercera sección de vía tras la señal de salida LDz de la est. Lhotka n. B. una velocidad de hasta 96,2 km·h-1. El maquinista del tren Pn 52690, por su parte, no pudo explicar por qué omitió esta maniobra, cuando según sus propias palabras siempre había prestado atención a la verificación del efecto del freno continuo del tren, y tampoco pudo recordar si el maquinista-instructor presente en la cabina de la HDV, que no prestaba atención a la conducción del tren, le había llamado la atención sobre esta omisión, véanse los puntos 3.1.9 y 4.3.1 de la presente ZZ.
 
-
 ## Página 140
+
 
 Lo anterior no puede valorarse en relación causal con la producción de la MU, ya que el frenado del tren Pn 52690 con el freno continuo no fue iniciado hasta la producción de la MU.
 
@@ -3633,6 +3649,7 @@ No obstante, según el párr. 1.4.2.2.2 RID, el transportista podía, en los cas
 
 ## Página 141
 
+
 Si el transportista hubiera detectado una infracción de las disposiciones según el apartado 1.4.2.2.1 RID, no habría podido transportar el envío hasta que se hubieran subsanado las deficiencias. Si durante el trayecto se detectara una avería que pudiera poner en peligro la seguridad del transporte, sería necesario retener el envío lo antes posible, teniendo en cuenta los requisitos de seguridad de la explotación, de estacionamiento seguro del envío y de seguridad pública.
 Según el apartado 1.4.2.2.5 RID, el transportista debía además garantizar que el gestor de la infraestructura ferroviaria que utiliza pudiera acceder en cualquier momento durante el transporte, rápida y sin restricciones, a los datos que le permitieran cumplir los requisitos que se le imponen en el subapartado 1.4.3.6 RID, véase este punto ZZ en la parte «Obligaciones del gestor de la infraestructura ferroviaria SŽ según el subapartado 1.4.3.6 RID».
 Según los apartados 1.4.2.2.6 y 1.4.2.2.7 RID, el transportista debía igualmente dotar al maquinista de las instrucciones escritas prescritas en la sección 5.4.3 RID e informarle de las mercancías peligrosas cargadas y de su posición en el tren antes del inicio de la circulación del tren.
@@ -3651,8 +3668,8 @@ punto 5.5 de la Directiva IRS 40471-3:
 «El transportista que recibe en el lugar de expedición mercancías peligrosas comprobará si
 ◦los vagones y la carga están libres de defectos visibles:
 
-
 ## Página 142
+
 
 ▪en el caso de las cisternas, hay que prestar especial atención a las fugas, las grietas, así como a las piezas faltantes o a los defectos en el funcionamiento de las piezas del equipamiento; las placas plegables deben estar aseguradas contra la volcadura accidental o la pérdida;».
 ### Obligación del transportista de nombrar un asesor de seguridad según la sección 1.8.3 RID
@@ -3673,8 +3690,8 @@ En la investigación no se detectó infracción de las funciones y obligaciones 
 ### 4.1.4 Autoridades nacionales de seguridad y Agencia Ferroviaria de la Unión Europea
 La autoridad nacional de seguridad es la DÚ, que, según la ley núm. 266/1994 Sb., es una autoridad administrativa dependiente del Ministerio de Transporte. Su función es, entre otras, el ejercicio de la supervisión estatal en materia de vías férreas, la aprobación de DV y UTZ nuevos y modernizados y la tramitación de infracciones. La obligación de la DÚ es comunicar a la DI, en el plazo de 12 meses desde la publicación de la ZZ
 
-
 ## Página 143
+
 
 que contenga las recomendaciones de seguridad dirigidas a ella, qué medida ha adoptado en relación con dicha recomendación de seguridad; esta comunicación la realiza periódicamente, al menos una vez al año, hasta la adopción de las medidas correspondientes.
 La función de la Agencia Ferroviaria de la Unión Europea es, además de garantizar, en el marco de sus competencias, que se mantenga y, si es posible, se aumente de forma continua la seguridad de los ferrocarriles, entre otras, la expedición, renovación, suspensión y modificación de los certificados de seguridad uniformes, la limitación de su validez o su anulación, cooperando en este asunto con las autoridades nacionales de seguridad; asimismo, expide autorizaciones para la puesta en el mercado de vehículos ferroviarios y de tipos de vehículos, y está facultada para renovar, modificar, suspender o retirar las autorizaciones que haya expedido. La Agencia evalúa además los proyectos de normativa nacional, etc.
@@ -3689,6 +3706,7 @@ Como ya se indicó en el punto 3.1.3 de esta ZZ, el remitente de los vagones cis
 Como remitente, DEZA estaba obligada, según el apartado 1.4.2.1.1 RID, a comprobar especialmente que las mercancías peligrosas estuvieran clasificadas y admitidas para el transporte según el RID, y a entregar al transportista, en forma trazable, la información y los datos y, en su caso, los documentos de transporte y los documentos de acompañamiento requeridos, especialmente en relación con lo dispuesto en el capítulo 5.4 RID y en la «Tabla A: Lista de mercancías peligrosas en orden de números UN» indicada en la sección 3.2.1 RID. Asimismo, DEZA estaba obligada, entre otros, a utilizar únicamente vagones cisterna aprobados y adecuados para el transporte de benceno y marcados según el RID, y a cumplir los requisitos relativos al modo de expedición y a las restricciones de transporte.
 
 ## Página 144
+
 
 Como cargador, DEZA debía cumplir, según el subapartado 1.4.3.3 RID y en relación con el apartado 1.4.1 RID, otras obligaciones; en particular, antes de cargar los vagones cisterna con benceno, debía verificar que:
 •
@@ -3716,6 +3734,7 @@ La duplicación del dígito indica, según el apartado 5.3.2.3.1 RID, un aumento
 
 ## Página 145
 
+
 Fig. n.º 29: Marcado en los vagones cisterna implicados en el MU con la placa de señalización de peligro grande y la placa naranja de acuerdo con el capítulo 5.3 RID
 Fuente: RID con modificación de DI
 Según el apartado 5.3.2.2.2 RID, la placa naranja debía estar fabricada con un material resistente a la intemperie y no debía desprenderse de su fijación tras 15 minutos de exposición directa al fuego. El número de identificación de peligro y el número UN debían ser indelebles y debían permanecer legibles tras 15 minutos de exposición directa al fuego.
@@ -3731,6 +3750,7 @@ En la investigación no se detectaron factores derivados de la instalación y pu
 En la investigación no se detectaron factores relacionados con los fabricantes de DV u otros proveedores de productos ferroviarios.
 
 ## Página 146
+
 
 ### 4.2.4 Factores o consecuencias derivados del mantenimiento y la modificación de los vehículos ferroviarios o de las instalaciones técnicas
 En la investigación no se detectaron factores derivados del mantenimiento y la modificación de DV o de las instalaciones técnicas.
@@ -3755,6 +3775,7 @@ en el 2.º TDV tras la HDV, es decir, en el TDV 33 54 7932 032-7, se detectó el
 en el 3.º TDV tras la HDV, es decir, en el TDV 33 54 7834 015-1, se detectó el número del topo frontal derecho "26254";
 
 ## Página 147
+
 
 •
 en el 4.º TDV tras la HDV, es decir, en el TDV 33 54 7834 013-6, se detectaron los números de topes "26283" y "26328", que se encontraban en el frontal de este TDV;
@@ -3903,6 +3924,7 @@ Fuente: RYKO y RYKO a.s.
 
 ## Página 148
 
+
 Aunque RYKO, en su calidad de ECM, no realizó la propia inspección técnica del TDV del tren Pn 52690, tenía, por la naturaleza de la función de gestión del mantenimiento, la obligación de supervisar las demás funciones de mantenimiento, en este caso concreto especialmente la función de ejecución del mantenimiento, y por tanto también las actividades realizadas por la sociedad RYKO a.s., por lo que, entre otros, respondía de la corrección y completitud de la documentación técnica mantenida en relación con el mantenimiento de estos TDV, también con el fin de su trazabilidad retrospectiva.
 La ausencia de números de enganches, o su incorrección en la documentación mantenida para los TDV 33 54 7834 003-7, 33 54 7932 032-7, 33 54 7834 015-1, 33 54 7834 013-6 y 33 54 7834 010-2 no puede valorarse en relación causal con la aparición de la MU, puesto que se trata de una deficiencia que no tuvo ninguna influencia en la aparición de la MU.
 ### Hallazgos:
@@ -3924,8 +3946,8 @@ En la investigación no se constataron otros factores relacionados con el DV, la
 La DI, en la investigación del factor humano, trató de valorar todas las influencias que pudieron actuar sobre las personas implicadas y que pudieran haber tenido, en su caso, influencia en la aparición de esta MU. Se trató especialmente de valorar sus experiencias prácticas, conocimientos teóricos, antigüedad en el ejercicio y competencia profesional.
 El maquinista-instructor trabajó en la función de maquinista desde 1991, y como maquinista-instructor desde 1998. A esta profesión precedió la educación secundaria completada con título de aprendiz de orientación electrotécnica y la posterior actividad laboral en este ámbito
 
-
 ## Página 149
+
 
 en uno de los depósitos de material rodante de la época. El tiempo total de experiencia en la conducción de DV en el momento de la aparición de la MU fue de más de 30 años.
 El maquinista-instructor era, en el momento de la aparición de la MU, titular de una licencia de maquinista válida, emitida por el DÚ el 21. 10. 2021, con validez hasta el 21. 10. 2031, y de un certificado complementario de maquinista válido. La última revisión periódica de ZOZ la realizó el maquinista-instructor el 15. 4. 2024, con el resultado «aprobado», véase además el punto 4.1.1 de esta ZZ.
@@ -3942,8 +3964,8 @@ tanto el maquinista-instructor como el maquinista del tren Pn 52690 conocían la
 •
 la señalización de un solo aspecto «Espere velocidad 100 km/h» se diferenciaba de la señalización de un solo aspecto «Espere velocidad 40 km/h» mostrada por el semáforo de sección AB 2-173 tanto por el color de la luz como por la velocidad de intermitencia de la luz, véase la Fig. nº 30 de esta ZZ;
 
-
 ## Página 150
+
 
 Fig. nº 30: Representación esquemática de la señalización «Espere velocidad 100 km/h» (izquierda) y de la señalización «Espere velocidad 40 km/h» (derecha)
 Fuente: norma interna SŽ D1
@@ -3960,8 +3982,8 @@ en la cabina del maquinista del HDV 383.223-5 se encontraban, durante la circula
 En el caso de esta MU, desde la perspectiva de las características humanas, es claramente fundamental la cuestión de la atención y la monotonía. Si consultamos brevemente la literatura especializada, por ejemplo, en el libro Dopravní psychologie pro praxi9) en la pág. 46 se indica el texto «… La atención es una función cognitiva que permite al individuo percibiente seleccionar del entorno circundante solo ciertos estímulos, es decir, información que parece significativa en el momento dado, y permite ignorar el resto. Esta función surge principalmente en situaciones con alta carga informativa, donde su correcta selección y procesamiento es una condición necesaria para la posterior toma de decisiones y actuación. …», en la pág. 47 el texto «… Tanto a nivel consciente como sin un claro darse cuenta, la atención selecciona siempre
 9) ŠUCHA, Matúš. Dopravní psychologie pro praxi: výběr, výcvik a rehabilitace řidičů. Psyché. Praha: Grada, 2013. 216 s. ISBN 978-80-247-4113-0.
 
-
 ## Página 151
+
 
 qué sector de la realidad, en este caso del entorno de transporte con todos sus aspectos relacionados, se dedicarán nuestras capacidades. La propiedad básica de la atención es, por tanto, la selectividad, la capacidad de destacar de un entorno rico en estímulos un fenómeno que se convierte en figura, y el resto se convierte en fondo. …». En la pág. 50 puede encontrarse la tesis de que «…, la falta de atención … es normalmente una atención desviada hacia otro lugar, hacia estímulos externos o hacia la vivencia interna. …».
 Si, cómo y de qué manera el ser humano percibe algo depende de estas influencias (factores)10):
@@ -3988,6 +4010,7 @@ La atención no intencionada está condicionada por las características y propi
 
 ## Página 152
 
+
 diferencias significativas en el color, la forma, el tamaño y la duración del estímulo) y el cambio y novedad de los estímulos (cambio en el aspecto externo, cambio en la intensidad del estímulo, movimiento, etc.).
 La atención activa intencionada es, a su vez, una actividad mental consciente que está vinculada a una intención, necesidad u obligación predeterminadas, cuyo mantenimiento durante un largo período de tiempo pertenece a las operaciones psíquicas exigentes y agotadoras.
 En el mundo real, la frontera entre la atención activa y la pasiva no suele ser unívoca, fluctúa en proporciones variables y se entrelazan mutuamente. Puede resumirse así que la atención del ser humano es variable en el tiempo y, si se produce un descenso de la atención del ser humano en un momento crítico desde el punto de vista de la seguridad, se da el presupuesto para la aparición de situaciones peligrosas y, en su caso, también para la aparición de un MU.
@@ -4002,8 +4025,8 @@ En la conducta del maquinista es posible rastrear el uso rutinario (maquinal) de
 Otro hecho importante en relación con la actuación del maquinista del tren Pn 52690 antes de la aparición del MU en cuestión es que la información decisiva sobre la velocidad a la que el tren Pn 52690 podía entrar en la est. Hustopeče n. B. solo podía obtenerla a partir de la información visual de los símbolos de señalización en los semáforos en cuestión. Al circular hacia el semáforo de entrada 2L de la est. Hustopeče n. B., se encendía en el repetidor de señalización del VZ la luz del anillo amarillo, que se encendería tanto al señalizar «Velocidad 100 km/h y …» como al señalizar «Velocidad 40 km/h y …». Del mismo ocurría al circular hacia el último semáforo de sección AB 2-173. De ello se derivó que el maquinista del tren Pn 52690 no pudo obtener plenamente la información sobre la velocidad a la que el tren Pn 52690 podía entrar en la est. Hustopeče n. B. a partir de múltiples fuentes, es decir, mediante el repetidor de señalización del VZ situado en la cabina del maquinista del HDV 383.223-5.
 Lo anterior, en combinación con la posible disminución de las funciones cognitivas del maquinista del tren Pn 52690, que puede esperarse en el caso dado como consecuencia de la acción de la monotonía, condujo a que en él probablemente se produjera un estado transitorio de decaimiento de la atención activa, en el que percibía de forma limitada los estímulos externos en base a los cuales se decidía. A la vez, dichos estímulos externos no fueron lo suficientemente fuertes para él (pese a la diferencia, especialmente entre las señalizaciones «Espere velocidad 100 km/h» y «Espere velocidad 40 km/h» señalizadas por el último semáforo de sección AB 2-173, desde el punto de vista del maquinista del tren Pn 52690 no se produjo un cambio significativo
 
-
 ## Página 153
+
 
 de la situación), de manera que se aumentara su atención activa, o bien para que dichos estímulos externos, por sus características y propiedades, sin intención, dominaran su atención (es decir, su atención involuntaria) durante cierto tiempo y la atrajeran hacia sí mismos.
 En la situación descrita, es completamente evidente que el maquinista del tren Pn 52690, antes de la aparición del MU, se fió únicamente del escenario habitual que se desarrollaba de forma estándar cuando el tren entraba en la est. Hustopeče n. B. en dirección directa.
@@ -4013,8 +4036,8 @@ Es completamente evidente que el maquinista del tren Pn 52690 realizaba, antes d
 En la literatura especializada puede encontrarse un tratado sobre el llamado «fenómeno de la laguna temporal», con el que puede explicarse este suceso. Por ejemplo, en el libro Psicología12) en la página n.º 33 se indica que «La cuestión es cómo puede producirse una interrupción de la atención consciente durante un largo período de tiempo, mientras el ser humano realiza a la vez tareas muy complejas, como por ejemplo la conducción de un vehículo,
 12) HOSKOVEC, Jiří. Psicología. Ed. 1. en Praga: Triton, 2002. 105 p. Encuentros psicológicos; t. 2. ISBN 80-7254-219-2.
 
-
 ## Página 154
+
 
 que es tan dependiente de las reacciones a acontecimientos externos. Obtendremos la respuesta si consideramos la naturaleza de las habilidades. Estas se organizan jerárquicamente de modo que los componentes elementales se vuelven gradualmente automáticos. Un conductor experimentado no necesita dedicar atención consciente al control básico del vehículo. Si la situación es relativamente poco exigente y los acontecimientos externos son rutinarios o fácilmente predecibles, solo necesita un bajo nivel de atención consciente. Aprovechará sus recursos de atención en otro lugar, típicamente para su pensamiento. En cierto sentido, ha conmutado al «piloto automático». Pero cualquier cambio significativo en la situación conducirá al procesamiento de nueva información, a la evaluación de probabilidades y a la decisión correspondiente. Todo esto requiere una atención consciente elevada y la conmutación de vuelta al «control manual». El intervalo de tiempo de control automático puede percibirse como una interrupción».
 Atendiendo a lo anterior, puede deducirse, según la DI, que en el caso dado el maquinista del tren Pn 52690 no necesitó dedicar atención consciente a la realización de las operaciones relativas a la conducción del HDV, ya que se trataba de una actividad completamente rutinaria para él, a pesar de tratarse de su primera marcha «independiente» tras superar el examen de aptitud práctica en HDV de la serie 383 (193).
@@ -4024,6 +4047,7 @@ En relación con la implantación de la conducción de trenes bajo supervisión 
 En el caso de este MU no puede dejar de indicarse que el alcance de la comunicación mantenida entre el maquinista-instructor y el maquinista durante la marcha del tren Pn 52690, así como su comportamiento, no fue posible determinarlo de forma comprobable (más allá de las declaraciones del maquinista y del maquinista-instructor) dada la ausencia de un dispositivo técnico que monitorizara, durante la marcha del tren Pn 52690, el espacio de la cabina del maquinista del HDV 383.223-5. Por ello, la DI tuvo que fiarse, en la investigación del MU en cuestión, únicamente de las explicaciones facilitadas por el maquinista-instructor y el maquinista del tren Pn 52690.
 
 ## Página 155
+
 
 El maquinista-instructor se sometió a reconocimientos médicos periódicos y en el momento del siniestro (MU) estaba médicamente apto para el desempeño de su función laboral, con la condición de usar gafas o lentes de contacto (en el momento del siniestro llevaba las gafas graduadas colocadas en la parte superior de la cabeza).
 El maquinista del tren Pn 52690 también se sometió a reconocimientos médicos periódicos y en el momento del siniestro (MU) estaba médicamente apto para el desempeño de su función laboral, no obstante, igualmente con la condición de usar gafas o lentes de contacto (en el momento del siniestro (MU) usaba gafas graduadas).
@@ -4039,8 +4063,8 @@ Según la comunicación de la ČSSZ, el maquinista del tren Pn 52690, en el marc
 Según la declaración de la ÚSSZ, no es posible abordar más allá las conclusiones anteriores, ya que, de acuerdo con lo dispuesto en el § 125 apartado 3 de la Ley núm. 187/2006 Sb., la facultad del órgano de seguro de enfermedad para reducir o retirar las prestaciones por enfermedad caduca a los 1 año desde el día en que se produjo la infracción del régimen de la persona asegurada temporalmente incapaz para el trabajo, en este caso concreto el maquinista del tren Pn 52690. En otras palabras, en el momento de la investigación del siniestro (MU) ya no era posible iniciar el procedimiento y, con ello, demostrar de forma inequívoca la falta (infracción) de que, por parte del maquinista del tren Pn 52690, se produjo el 31. 5. 2023 una infracción del régimen de la persona asegurada temporalmente incapaz para el trabajo.
 13) El RID es emitido por la Organización Intergubernamental para el Transporte Ferroviario Internacional (OTIF), con sede en Berna (Suiza), cada 2 años, en los años impares con vigencia desde el 1 de enero del año impar correspondiente; sin embargo, OTIF siempre declara el llamado periodo transitorio, hasta el cual es posible transportar mercancías peligrosas por ferrocarril según las condiciones (del RID) vigentes hasta el final del año anterior correspondiente → en el caso de este siniestro (MU) concreto, por tanto, era posible transportar mercancías peligrosas por ferrocarril hasta el 30. 6. 2025 según el RID vigente desde el 1. 1. 2023.
 
-
 ## Página 156
+
 
 En la investigación no se detectaron factores relacionados con el contenido del trabajo o la jornada laboral de los empleados del operador de la infraestructura y del operador. En la investigación no se detectó en estos empleados el incumplimiento de las condiciones de descanso antes del turno y de los descansos, respect. del tiempo adecuado para el descanso y la ingesta de alimentos durante el turno.
 ### 4.3.3 Factores organizativos y tareas
@@ -4059,8 +4083,8 @@ En la investigación no se detectaron otros factores relacionados con la actuaci
 ### 4.4.1 Condiciones pertinentes del marco regulatorio
 Las condiciones pertinentes del marco regulatorio están establecidas en los Reglamentos de la Unión Europea, en la Ley núm. 266/1994 Sb. y en los decretos de aplicación.
 
-
 ## Página 157
+
 
 4.4.2 Procedimientos, métodos, contenido y resultados de las actividades de evaluación de riesgos y seguimiento que realiza cualquiera de los sujetos implicados
 La cuestión del proceso de gestión de riesgos en relación con la señalización de la velocidad en vía al entrar
@@ -4086,6 +4110,7 @@ Si el proponente determina que el cambio propuesto es un cambio significativo, d
 
 ## Página 158
 
+
 El registro de peligros se llevará a cabo, preferiblemente, de forma independiente, siempre para cada uno de los peligros identificados. Para cada uno de los peligros incluidos en el registro de peligros debe elegirse de forma independiente el principio de aceptabilidad del riesgo en el sentido del anexo de la norma sobre el método común de seguridad para la evaluación y gestión de riesgos (CSM), entendiéndose por principio de aceptabilidad de riesgos:
 •
 código de buenas prácticas,
@@ -4109,8 +4134,8 @@ Según la Aplicación de la gestión de riesgos, todos los peligros identificado
 La empresa Ecological Consulting a.s., como evaluador independiente reconocido por el DÚ para la evaluación de los cambios del sistema ferroviario, evaluó en el Informe de evaluación de seguridad la existencia, corrección y coherencia del proceso de gestión de riesgos aplicado por el proponente a los cambios significativos con impacto en la seguridad.
 14) Según la documentación del DÚ, por gestión de riesgos se entiende el análisis de riesgos (frecuencia, consecuencia), la evaluación de riesgos (categorización de la aceptabilidad), la orientación de riesgos (eventual modificación concreta del cambio), el análisis repetido de riesgos (frecuencia, consecuencia), la evaluación repetida de riesgos (categorización de la aceptabilidad) y la comparación de los niveles de riesgo antes y después de la orientación.
 
-
 ## Página 159
+
 
 Como ya se ha indicado en el punto 3.1.8 de esta ZZ, tras la finalización de la obra «Aumento de la velocidad de la vía en el tramo Valašské Meziříčí – Hustopeče nad Bečvou», la velocidad de la vía también aumentó significativamente en el tramo Lhotka n. B. – Hustopeče n. B. Junto a la serie de aspectos positivos que esta obra sin duda aportó, no puede dejar de mencionarse la cuestión de la señalización de la reducción de velocidad para la circulación de DV en la est. Hustopeče n. B. en el sentido desde Lhotka n. B. La reducción de velocidad desde 155 km·h-1 hasta 100 km·h-1 se señalizó de dos maneras, tanto mediante señales de velocidad de la vía como mediante señales del sistema de señalización de velocidad de las señales de entrada correspondientes de la est. Hustopeče n. B. (para el área de agujas adyacente a estas señales de entrada), siendo la información sobre las señales dadas por las señales principales transmitida al maquinista del DV. A este respecto no puede dejar de indicarse que:
 •
@@ -4127,8 +4152,8 @@ En otras palabras, si la entrada del tren en la est. Hustopeče n. B. en el sent
 Se produce una situación similar durante la circulación del tren hacia la señal de entrada 1L, respectivamente 2L de la est. Hustopeče n. B., cuando el maquinista es informado siempre, mediante la luz del anillo amarillo encendida en el repetidor de señales, de la señal de esta señal – sin distinguir si la señal de entrada correspondiente, en el caso concreto, señaliza la señal «Velocidad 40 km/h y …» o «Velocidad 100 km/h y …», siendo de nuevo responsabilidad exclusiva del maquinista, al observar la vía y las señales, determinar qué señal concreta le está señalizando la señal de entrada.
 Dicho de otro modo, si el maquinista no detecta (no observa) la señal en la señal de sección AB 1-173, respectivamente 2-173, que anuncia la señal en la señal de entrada 1L, respectivamente 2L de la est. Hustopeče n. B., y tampoco observa la señal en la señal de entrada, entonces según la luz
 
-
 ## Página 160
+
 
 encendida en el repetidor de señales no es posible reconocer si en la cabecera de entrada de esta estación circulará en sentido directo o desviado, ya que la luz del anillo amarillo informa «únicamente» de la circulación a velocidad reducida desde la siguiente señal principal, en el caso concreto a una velocidad de 40 km·h-1 o 100 km·h-1. Debido a la reducción (caída) significativa de la velocidad, se trató lamentablemente de un peligro – riesgo que pudo conducir y, en el caso concreto, condujo a la aparición de MU – accidente grave.
 La cuestión de la señalización de la reducción de velocidad en la entrada del tren en la est. Hustopeče n. B. en el sentido desde Lhotka n. B. mediante las señales principales, en combinación con la información sobre las señales de estas señales transmitida al maquinista del DV, es decir, el peligro que pudo conducir a la aparición de MU, no fue identificado por el entonces proponente – operador de la vía SŽDC en relación con el proyecto y la obra «Aumento de la velocidad de la vía en el tramo Valašské Meziříčí – Hustopeče nad Bečvou», y por tanto no fue cubierto de ninguna manera en la anteriormente mencionada Aplicación de la gestión de riesgos – no fue en absoluto mencionado → el riesgo de accidente (descarrilamiento, incendio o explosión, etc.) derivado de la no reducción de la velocidad del tren en la entrada del tren en la est. Hustopeče n. B. en el sentido desde Lhotka n. B. no fue orientado.
@@ -4137,6 +4162,7 @@ A la vez no puede dejar de mencionarse que la razón de la solución por la que 
 La constatación indicada no puede, en relación con lo anteriormente expuesto, en combinación con las obligaciones del maquinista (maquinista-instructor) durante la conducción del DV y con los puntos 4.1.1 (parte Superación de la velocidad máxima permitida del tren en su entrada en la est. Hustopeče n. B.) y 4.3.1, valorarse en relación causal con la aparición de MU, véase el punto 5.3 de esta ZZ.
 
 ## Página 161
+
 
 ### Hallazgos:
 En la investigación se constató la infracción de normativa legal y de normativa interna relativa a las funciones
@@ -4182,52 +4208,37 @@ la mera referencia a la Directiva KVs3-B-2010 ya derogada en lugar de la Directi
 vigente no tuvo influencia en el transcurso del tren Pn 52690 ni en el comportamiento de los empleados
 del operador ODOSC participantes.
 
-
 ## Página 162
 
 ### Hallazgos:
-En la investigación se constató la infracción de normativa legal relativa a las funciones y obligaciones del operador
-### ODOSC, al margen de la relación causal con el MU:
+En la investigación se constató la infracción de la normativa relativa a las funciones y obligaciones del operador 
+ODOSC, ajena a la relación causal con el MU:
 •
 § 35 apartado 2 letra f) de la Ley núm. 266/1994 Sb.:
-"El operador está obligado a asegurar que el sistema de garantía de seguridad del transporte
-ferroviario implantado por él conforme a la norma de aplicación directa de la Unión Europea
-que regula los métodos comunes de seguridad relativos a los requisitos del sistema de
-garantía de seguridad tenga en cuenta el tipo, el ámbito y la extensión de la explotación,
-y que se cumpla";
+"El operador está obligado a garantizar que el sistema de garantía de la seguridad del transporte ferroviario por él implantado, conforme al acto de la Unión Europea de aplicación directa que regula los métodos comunes de seguridad relativos a los requisitos del sistema de garantía de la seguridad, tenga en cuenta el tipo, el ámbito y la extensión de la explotación, y que se cumpla";
 •
 punto 4.4.3 del ANEXO I del Reglamento de la Comisión (UE) 2018/762:
-"La organización se asegurará de que las informaciones relativas a la seguridad sean:
-a) pertinentes, completas y comprensibles para los usuarios previstos;
-b) válidas;
-c) precisas;
-d) coherentes;
-e) a g) ...".
-En el sistema de garantía de seguridad del gestor de la infraestructura SŽ, relacionado con las
-circunstancias de aparición del MU en cuestión, no se detectaron deficiencias.
-### 4.4.4 Sistema de gestión de las entidades responsables del mantenimiento de los vehículos ferroviarios
-### y de los talleres de mantenimiento
-El sistema de gestión de las entidades responsables del mantenimiento DV y de los talleres de
-mantenimiento no guardaba relación con la aparición del MU.
-### 4.4.5 Resultados de la supervisión realizada por las autoridades nacionales de seguridad
-La DÚ en el periodo desde el 1. 1. 2017 hasta la aparición del MU en cuestión no realizó
-ninguna supervisión estatal al operador ODOSC.
-Atendiendo a los factores y circunstancias detectados de aparición del MU, la supervisión de la
-autoridad de seguridad no guarda relación con el MU en cuestión.
-### 4.4.6 Aprobaciones, certificados e informes de evaluación emitidos por la agencia, las autoridades
-### nacionales de seguridad u otras entidades de evaluación de la conformidad
-El gestor de la infraestructura-vía DEZA explotaba la infraestructura en virtud de una autorización
-administrativa vigente.
-El gestor de la infraestructura SŽ explotaba la infraestructura en virtud de una autorización
-administrativa vigente y del certificado de seguridad del gestor de la infraestructura.
-El operador ODOSC explotaba el transporte ferroviario en virtud de una licencia vigente y del
-certificado de operador, emitido para la explotación de transporte ferroviario de mercancías
-no público, incluido el transporte de mercancías peligrosas.
+"La organización garantizará que la información relativa a la seguridad sea:
+a) pertinente, completa y comprensible para los usuarios previstos;
+b) válida;
+c) precisa;
+d) coherente;
+e) a g) …".
+En el sistema de garantía de la seguridad del operador de la vía SŽ, relacionado con las circunstancias del origen del MU en cuestión, no se detectaron deficiencias.
+### 4.4.4 Sistema de gestión de los sujetos responsables del mantenimiento de los vehículos ferroviarios y de los talleres de mantenimiento
+El sistema de gestión de los sujetos responsables del mantenimiento de DV y de los talleres de mantenimiento no guardaba relación con el origen del MU.
+### 4.4.5 Resultados de la supervisión realizada por las autoridades de seguridad nacionales
+El DÚ, en el período comprendido entre el 1 de enero de 2017 y el origen del MU en cuestión, no realizó ninguna supervisión estatal al operador ODOSC.
+Atendiendo a los factores y circunstancias constatados del origen del MU, la supervisión de la autoridad de seguridad no guarda relación con el MU en cuestión.
+### 4.4.6 Aprobaciones, certificados e informes de evaluación emitidos por la agencia, las autoridades de seguridad nacionales u otros sujetos de evaluación de la conformidad
+El operador de la vía-ramal DEZA explotaba la vía en virtud de una autorización administrativa vigente.
+El operador de la vía SŽ explotaba la vía en virtud de una autorización administrativa vigente y del certificado de seguridad del operador de la vía.
+El operador ODOSC explotaba el transporte ferroviario en virtud de una licencia vigente y de un certificado de operador, emitido para la explotación de transporte ferroviario de mercancías no público, incluido el transporte de mercancías peligrosas.
 ### 4.4.7 Otros factores sistémicos
 En la investigación no se detectaron otros factores sistémicos.
 
-
 ## Página 163
+
 
 ### 4.5 Sucesos anteriores de naturaleza similar
 La DI en el periodo desde el 1. 1. 2008 hasta la aparición del MU en cuestión en las vías
@@ -4277,8 +4288,8 @@ the instructions indicated by the signals:
 automatic block which signaled the speed 40 km/h from the next main signal
 device (i. e. the signal device 2L at Hustopeče nad Bečvou station), and
 
-
 ## Página 164
+
 
 ◦„Speed 40 km/h and clear track”, indicated by the main (entry) signal device 2L
 at Hustopeče nad Bečvou station,
@@ -4336,45 +4347,34 @@ COMPETENCE OF PERSONS IN RAIL TRANSPORT OPERATION”.
 ## Página 165
 
 ### 5.3 Hallazgos complementarios
-En el gestor de la vía SŽ (SŽDC):
+En el gestor de la infraestructura SŽ (SŽDC):
 •
-posiciones kilométricas incorrectas de las señales de salida L1, L2 y S1 de la estación de Hustopeče n. B. indicadas en la documentación de transporte básica;
+posiciones kilométricas incorrectas de las señales de salida L1, L2 y S1 de la estación de Hustopeče n. B. indicadas en la ZDD;
 •
-peligro no identificado por el proponente relacionado con la señalización de reducción de velocidad a la entrada del tren en la estación de Hustopeče n. B. en el sentido desde Lhotka n. B. mediante las señales principales, en relación con la información sobre las señales de estas señales principales transmitida a la locomotora de cabeza, en relación con el proyecto y la obra «Aumento de la velocidad de la vía en el tramo Valašské Meziříčí – Hustopeče nad Bečvou».
+peligro no identificado por el proponente relacionado con la señalización de reducción de velocidad a la entrada del tren en la estación de Hustopeče n. B. en el sentido desde Lhotka n. B. por parte de las señales principales, en relación con la información sobre las señales de estas señales transmitidas a la locomotora principal DV en relación con el proyecto y la obra «Aumento de la velocidad de la vía en el tramo Valašské Meziříčí – Hustopeče nad Bečvou».
 
 En el operador ferroviario ODOSC:
 •
-recepción de la locomotora 383.223-5 en la estación de Ostrava hl. n. por parte del maquinista del tren Pn 52690, sin que estuviera cualificado profesionalmente para dicha actuación;
+recepción de la locomotora 383.223-5 en la estación de Ostrava hl. n. por parte del maquinista del tren Pn 52690, sin estar cualificado profesionalmente para esta actuación;
 •
-inclusión de la locomotora de la serie 383 (193) en el certificado complementario del maquinista del tren Pn 52690, sin que este tuviera conocimiento de la explotación y conducción de dichas series;
+indicación de la serie de locomotora 383 (193) en el certificado complementario del maquinista del tren Pn 52690, sin ser competente en la operación y conducción de estas series;
 •
-uso del tornillo de enganche de la locomotora para el acoplamiento con el primer vehículo del tren Pn 52690 en lugar de usar el tornillo de enganche de dicho vehículo;
+uso del mando de la locomotora para el acoplamiento con el 1.º vagón de viaje del tren Pn 52690 en lugar del uso del mando de dicho vagón;
 •
-no realización de la inspección (técnica) de los vehículos antes de su incorporación al tren Pn 52690 y no comprobación de que los vagones cisterna y la carga estaban sin defectos visibles, fugas o grietas, de que no faltaba equipamiento, etc.;
+no realización de la (inspección) técnica de los vagones DV antes de su inclusión en el tren Pn 52690 y no comprobación de que los vagones cisterna y la carga no presentan defectos visibles, fugas o grietas, de que no falta equipamiento, etc.;
 •
 cálculo incorrecto de los porcentajes reales de frenado del tren Pn 52690 por parte del maquinista-instructor;
 •
-no verificación del efecto del freno continuo durante la marcha del tren Pn 52690 tras la realización previa de la prueba de freno total;
+no verificación del efecto del freno continuo durante la marcha del tren Pn 52690 tras la realización previa de ÚZB;
 •
 no actualización de la denominación modificada de la Directriz KVs-3-B-ČDC-CZ en sus normas internas.
 
-En el sujeto responsable del mantenimiento de los vehículos del tren Pn 52690, la empresa RYKO:
+En el sujeto responsable del mantenimiento de los vagones de viaje del tren Pn 52690, la compañía RYKO:
 •
-ausencia de los números de los topes en el anexo 1 del Informe de inspección técnica (TK) del vehículo ferroviario.
-
-### Hallazgos complementarios
-En el gestor de la infraestructura SŽ (antes SŽDC):
-•
-posiciones kilométricas incorrectas de las señales de salida L1, L2 y S1 de la estación de Hustopeče nad Bečvou indicadas en la documentación de transporte básica;
-•
-peligro no identificado por el proponente relacionado con la señalización de reducción de velocidad a la entrada del tren en la estación de Hustopeče nad Bečvou en el sentido desde la estación de Lhotka nad Bečvou mediante las señales principales, en relación con la información sobre las señales de las señales principales transmitida a la locomotora, en relación con el proyecto y la obra «Aumento de la velocidad de la vía en el tramo Valašské Meziříčí – Hustopeče nad Bečvou».
-
-En el operador ferroviario ODOSC:
-•
-recepción de la locomotora n.º 383.223-5 por parte del maquinista del tren de mercancías n.º 52690, sin que estuviera cualificado para dicha actuación;
-
+ausencia de los números de los topes en el anexo 1 del Acta de inspección técnica (TK) del vehículo ferroviario.
 
 ## Página 166
+
 
 •
 inclusión de la locomotora de la serie n.º 383 (193) en el certificado complementario del maquinista del tren de mercancías n.º 52690, sin que el maquinista tuviera conocimiento de la explotación y conducción de dichas series;
@@ -4404,8 +4404,8 @@ En Ostrava, a 13 de agosto de 2026
        inspector                                                        inspector     
           Inspección Territorial de Ostrava                     Inspección Territorial de Ostrava
 
-
 ## Página 167
+
 
 Ing. Michal Sívek
 Robert Kindl
@@ -4422,8 +4422,8 @@ Certificado del firmante:
 Nombre: Inspección Ferroviaria
 Emitido por: PostSignum Qualified CA 4
 
-
 ## Página 168
+
 
 ### ANEXOS
 Fig. n.º 31: Imagen que muestra la vista del incendio en el vehículo cisterna que transportaba benceno en el lugar del suceso ferroviario. La imagen fue tomada con un dron y está complementada con una imagen de una cámara térmica.
@@ -4431,14 +4431,14 @@ Fuente: HZS ČR
 Fig. n.º 32: Imagen que muestra el incendio en el vehículo cisterna que transportaba benceno en el lugar del suceso ferroviario, tomada con un dron
 Fuente: HZS ČR
 
-
 ## Página 169
+
 
 Fig. n.º 33: Vista desde la zona de cambio de la aguja n.º 6 hacia el lugar del suceso ferroviario y la infraestructura de la vía dañada
 Fuente: DI
 
-
 ## Página 170
+
 
 lengüeta izquierda desprendida de la aguja n.º 3
 Fig. n.º 34: Imagen que muestra la lengüeta izquierda desprendida de la aguja n.º 3 junto con parte del cierre de las mandíbulas

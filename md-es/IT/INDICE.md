@@ -33,7 +33,7 @@ Fidelidad = revisión IA del castellano contra el original (0-100).
 | Informe | Págs | Caracteres | Verificación |
 |---|---|---|---|
 | [IT-10072 - RELAZIONE DEFINITIVA INDAGINE_BIVIO ADDA_16-06-2022_pubblicazione.md](2021/IT-10072%20-%20RELAZIONE%20DEFINITIVA%20INDAGINE_BIVIO%20ADDA_16-06-2022_pubblicazione.md) | — | 134112 | ok |
-| [IT-10073 - Relazione-di-indagine_Roma-Lido_finale.md](2021/IT-10073%20-%20Relazione-di-indagine_Roma-Lido_finale.md) | — | 119577 | ok |
+| [IT-10073 - Relazione-di-indagine_Roma-Lido_finale.md](2021/IT-10073%20-%20Relazione-di-indagine_Roma-Lido_finale.md) | — | 119577 | revisar |
 | [IT-10167 - Relazione finale Orbassano_2023-03-17_sito.md](2021/IT-10167%20-%20Relazione%20finale%20Orbassano_2023-03-17_sito.md) | — | 170956 | ok |
 | [IT-10168 - Relazione finale_Cedegolo_23-11-2022_pubblicazione.md](2021/IT-10168%20-%20Relazione%20finale_Cedegolo_23-11-2022_pubblicazione.md) | — | 85308 | ok |
 
@@ -59,7 +59,7 @@ Fidelidad = revisión IA del castellano contra el original (0-100).
 | [IT 23.05.2018 RELAZIONE 2019.05.13 definitiva.md](2018/IT%2023.05.2018%20RELAZIONE%202019.05.13%20definitiva.md) | — | 362819 | ok |
 | [IT-5970 - Relazione-finale-incendio-Lomello.md](2018/IT-5970%20-%20Relazione-finale-incendio-Lomello.md) | — | 127607 | ok |
 | [IT-5977 - 2021.04.12 Rel._finale_Collisione_treno-mezzo_d'opera_del_07.12.2018.md](2018/IT-5977%20-%202021.04.12%20Rel._finale_Collisione_treno-mezzo_d'opera_del_07.12.2018.md) | — | 87765 | ok |
-| [Relazione Indagine Svio Portomaggiore 02-07-2018 FINALE.md](2018/Relazione%20Indagine%20Svio%20Portomaggiore%2002-07-2018%20FINALE.md) | — | 200242 | revisar |
+| [Relazione Indagine Svio Portomaggiore 02-07-2018 FINALE.md](2018/Relazione%20Indagine%20Svio%20Portomaggiore%2002-07-2018%20FINALE.md) | — | 200242 | ok |
 | [Relazione-finale_Pioltello_25.01.2018 (1).md](2018/Relazione-finale_Pioltello_25.01.2018%20(1).md) | — | 448394 | ok |
 
 ## 2017 (12)
@@ -77,7 +77,7 @@ Fidelidad = revisión IA del castellano contra el original (0-100).
 | [IT-5510 - Relazione-Finale-Svio-Fi-Castello-20181220.md](2017/IT-5510%20-%20Relazione-Finale-Svio-Fi-Castello-20181220.md) | — | 176093 | ok |
 | [IT-5551-RELAZIONE INDAGINE PM Santomarco 05.10.18.md](2017/IT-5551-RELAZIONE%20INDAGINE%20PM%20Santomarco%2005.10.18.md) | — | 302543 | ok |
 | [Relazione-Novara_Boschetto-25.09.2017 (1).md](2017/Relazione-Novara_Boschetto-25.09.2017%20(1).md) | — | 50002 | ok |
-| [relazione finale_Ceglie_Francavilla_10072018.md](2017/relazione%20finale_Ceglie_Francavilla_10072018.md) | — | 198349 | ok |
+| [relazione finale_Ceglie_Francavilla_10072018.md](2017/relazione%20finale_Ceglie_Francavilla_10072018.md) | — | 198349 | revisar |
 
 ## 2016 (2)
 
@@ -90,7 +90,7 @@ Fidelidad = revisión IA del castellano contra el original (0-100).
 
 | Informe | Págs | Caracteres | Verificación |
 |---|---|---|---|
-| [IT 16.02.2015 Final.md](2015/IT%2016.02.2015%20Final.md) | — | 189019 | ok |
+| [IT 16.02.2015 Final.md](2015/IT%2016.02.2015%20Final.md) | — | 189019 | revisar |
 | [IT 20.07.2015 relazione evento del 20.07.2015.md](2015/IT%2020.07.2015%20relazione%20evento%20del%2020.07.2015.md) | — | 134631 | ok |
 | [IT 30.06.2015 RELAZIONE.md](2015/IT%2030.06.2015%20RELAZIONE.md) | — | 95036 | ok |
 
@@ -103,9 +103,9 @@ Fidelidad = revisión IA del castellano contra el original (0-100).
 | [IT 15.07.2014 investigazioni_ferroviarie_relazione_in_alia_n__7961_pdf.md](2014/IT%2015.07.2014%20investigazioni_ferroviarie_relazione_in_alia_n__7961_pdf.md) | — | 71265 | ok |
 | [IT 17.01.2014 FINAL_REPORT.md](2014/IT%2017.01.2014%20FINAL_REPORT.md) | — | 67236 | revisar |
 | [IT 17.07.2014 Final_report-3.md](2014/IT%2017.07.2014%20Final_report-3.md) | — | 73332 | ok |
-| [IT 17.12.2014 FINAL_REPORT.md](2014/IT%2017.12.2014%20FINAL_REPORT.md) | — | 104957 | ok |
+| [IT 17.12.2014 FINAL_REPORT.md](2014/IT%2017.12.2014%20FINAL_REPORT.md) | — | 104957 | revisar |
 | [IT 24.06.2014 RELAZIONE_FINALE.md](2014/IT%2024.06.2014%20RELAZIONE_FINALE.md) | — | 18300 | ok |
-| [Relazione_finale_Bozzolo_Marcaria 25.02.2014.md](2014/Relazione_finale_Bozzolo_Marcaria%2025.02.2014.md) | — | 45483 | ok |
+| [Relazione_finale_Bozzolo_Marcaria 25.02.2014.md](2014/Relazione_finale_Bozzolo_Marcaria%2025.02.2014.md) | — | 45483 | revisar |
 | [relazione_incidentIT IT 07.04.2014 e_castelfranco_dopo_incontro_trenitaia_.md](2014/relazione_incidentIT%20IT%2007.04.2014%20e_castelfranco_dopo_incontro_trenitaia_.md) | — | 43433 | ok |
 
 ## 2013 (10)
@@ -117,10 +117,10 @@ Fidelidad = revisión IA del castellano contra el original (0-100).
 | [IT 01.12.2013 Relazione_finale_d___indagine_relativa__azioni_Tecniche_.md](2013/IT%2001.12.2013%20Relazione_finale_d___indagine_relativa__azioni_Tecniche_.md) | — | 55195 | revisar |
 | [IT 07.11.2013 RELAZIONE_FINALE-1.md](2013/IT%2007.11.2013%20RELAZIONE_FINALE-1.md) | — | 130708 | ok |
 | [IT 2013.01.07 AREZZO.md](2013/IT%202013.01.07%20AREZZO.md) | — | 110380 | ok |
-| [IT 24.10.2013 FINAL_REPORT-2.md](2013/IT%2024.10.2013%20FINAL_REPORT-2.md) | — | 5971 | ok |
+| [IT 24.10.2013 FINAL_REPORT-2.md](2013/IT%2024.10.2013%20FINAL_REPORT-2.md) | — | 5971 | revisar |
 | [IT 25.06.2013 RELAZIONE_INDAGINE_17.02.2015.md](2013/IT%2025.06.2013%20RELAZIONE_INDAGINE_17.02.2015.md) | — | 128997 | ok |
 | [Raccomandazioni_Firenze_Cascine-270313.md](2013/Raccomandazioni_Firenze_Cascine-270313.md) | — | 3918 | ok |
-| [Relazione_d'inchiesta_sull'incidente_di_Chiuro_del_18_02_2013.md](2013/Relazione_d'inchiesta_sull'incidente_di_Chiuro_del_18_02_2013.md) | — | 35905 | ok |
+| [Relazione_d'inchiesta_sull'incidente_di_Chiuro_del_18_02_2013.md](2013/Relazione_d'inchiesta_sull'incidente_di_Chiuro_del_18_02_2013.md) | — | 35905 | revisar |
 | [Relazione_d'inchiesta_sull'incidente_di_SESTO_SAN_GIOVANNI_del_31_05_2013.md](2013/Relazione_d'inchiesta_sull'incidente_di_SESTO_SAN_GIOVANNI_del_31_05_2013.md) | — | 44729 | ok |
 
 ## 2012 (11)
@@ -148,7 +148,7 @@ Fidelidad = revisión IA del castellano contra el original (0-100).
 | [RELAZIONE_finale-221111.md](2011/RELAZIONE_finale-221111.md) | — | 128153 | ok |
 | [Relazione-090611.md](2011/Relazione-090611.md) | — | 66955 | ok |
 | [Relazione_incidente_ferroviario_linea_M_i_del_27_01_2011.md](2011/Relazione_incidente_ferroviario_linea_M_i_del_27_01_2011.md) | — | 31203 | ok |
-| [Relazione_indagine_Roma-Firenze-070611.md](2011/Relazione_indagine_Roma-Firenze-070611.md) | — | 28998 | ok |
+| [Relazione_indagine_Roma-Firenze-070611.md](2011/Relazione_indagine_Roma-Firenze-070611.md) | — | 28998 | revisar |
 | [Report-080511.md](2011/Report-080511.md) | — | 30666 | ok |
 | [Report-240911-recommendations.md](2011/Report-240911-recommendations.md) | — | 3365 | ok |
 | [Report-240911.md](2011/Report-240911.md) | — | 60390 | ok |
@@ -160,7 +160,7 @@ Fidelidad = revisión IA del castellano contra el original (0-100).
 |---|---|---|---|
 | [IT 04.11.2010 Relazione pubblicata.md](2010/IT%2004.11.2010%20Relazione%20pubblicata.md) | — | 24936 | ok |
 | [IT 12.06.2010 RELAZIONE.md](2010/IT%2012.06.2010%20RELAZIONE.md) | — | 47961 | ok |
-| [Relazione finale d'indagine sull'incidente di Vipiteno-04112010.md](2010/Relazione%20finale%20d'indagine%20sull'incidente%20di%20Vipiteno-04112010.md) | — | 123705 | ok |
+| [Relazione finale d'indagine sull'incidente di Vipiteno-04112010.md](2010/Relazione%20finale%20d'indagine%20sull'incidente%20di%20Vipiteno-04112010.md) | — | 123705 | revisar |
 
 ## 2009 (4)
 
@@ -168,8 +168,8 @@ Fidelidad = revisión IA del castellano contra el original (0-100).
 |---|---|---|---|
 | [Integrazione_relazione_incidente_ferrov_o_del_29_06_2009.md](2009/Integrazione_relazione_incidente_ferrov_o_del_29_06_2009.md) | — | 119932 | ok |
 | [Report Anagni-24012009.md](2009/Report%20Anagni-24012009.md) | — | 49050 | ok |
-| [Viareggio_accident-29062009.md](2009/Viareggio_accident-29062009.md) | — | 290468 | ok |
-| [Viareggio_accident_29.06.09___Final_report.md](2009/Viareggio_accident_29.06.09___Final_report.md) | — | 290219 | ok |
+| [Viareggio_accident-29062009.md](2009/Viareggio_accident-29062009.md) | — | 290468 | revisar |
+| [Viareggio_accident_29.06.09___Final_report.md](2009/Viareggio_accident_29.06.09___Final_report.md) | — | 290219 | revisar |
 
 ## 2008 (5)
 

@@ -14,6 +14,7 @@ fecha_proceso: 2026-11-19
 generador: traducir_md_es.py (traducción IA + verificación numérica)
 verificacion: revisar
 avisos: ["página 19: cifras largas: faltan 8/34 (24%)"]
+notas_cifras: ["página 11: original bilingüe: se compara contra el idioma principal (BG)", "página 13: cifras cortas: 1/45", "página 18: cifras cortas: 1/51", "página 41: cifras largas: 1/23", "página 61: cifras largas: 3/20", "página 65: original bilingüe: se compara contra el idioma principal (BG)"]
 ---
 
 ## Página 1

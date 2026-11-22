@@ -10,13 +10,14 @@ chars: 100586
 ratio_longitud: 1.25
 tokens_in: 48933
 tokens_out: 35784
-verificacion: revisar
-notas_cifras: ["bloque 2: original bilingüe: se compara contra el idioma principal (CS)", "bloque 4: original bilingüe: se compara contra el idioma principal (CS)", "bloque 8: cifras cortas: 1/36"]
-avisos: ["bloque 4: ratio 1.71"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 3: original bilingüe: se compara contra el idioma principal (CS)", "página 7: original bilingüe: se compara contra el idioma principal (EN)", "página 8: original bilingüe: se compara contra el idioma principal (PT)", "página 9: original bilingüe: se compara contra el idioma principal (CS)", "página 11: cifras cortas: 1/20", "página 14: original bilingüe: se compara contra el idioma principal (CS); ratio 2.26"]
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -42,13 +43,13 @@ IČ:   75009561
 http://www.dicr.cz
 tel.: 224 805 444
 
-
 ## Página 2
+
 
 Este informe final es público y todos los hechos en él expuestos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ### 1 RESUMEN
 Fuente: Drážní inspekce 
@@ -76,8 +77,8 @@ el aparato de enclavamiento de la estación permitió, a pesar de la avería en 
 n.º 140, establecer la vía de tren con operación normal, incluida la
 señalización de los señales en la indicación que permite la circulación.
 
-
 ## Página 4
+
 
 Causas fundamentales:
 el desplazamiento del carril de aguja exterior izquierdo de la aguja n.º 140 por los
@@ -116,10 +117,10 @@ incorporar a los procedimientos tecnológicos la prohibición de sujetar las pie
 •
 sujetadoras de los mecanismos de trabajo a los raíles en los lugares donde con ello
 exista riesgo de daño a las piezas de la vía.
-       De conformidad con lo dispuesto en el apartado 5 del artículo 53b de la Ley n.º 266/1994 Sb., de vías, en su redacción vigente, o bien el anexo n.º 7 del decreto n.º 376/2006 Sb., sobre el sistema de seguridad de la explotación de la vía y del transporte ferroviario y los procedimientos en caso de sucesos excepcionales en las vías, en su redacción vigente, la Drážní inspekce recomienda al Drážní úřad la adopción de una medida propia encaminada a la realización de la recomendación de seguridad anteriormente indicada también en los demás gestores de vías en los que se exploten agujas con bloqueos de mandíbula. 
-
+       De conformidad con lo dispuesto en el apartado 5 del artículo 53b de la Ley n.º 266/1994 Sb., de vías, en su redacción vigente, o bien el anexo n.º 7 del decreto n.º 376/2006 Sb., sobre el sistema de seguridad de la explotación de la vía y del transporte ferroviario y los procedimientos en caso de sucesos excepcionales en las vías, en su redacción vigente, la Drážní inspekce recomienda al Drážní úřad la adopción de una medida propia encaminada a la realización de la recomendación de seguridad anteriormente indicada también en los demás gestores de vías en los que se exploten agujas con bloqueos de mandíbula.
 
 ## Página 5
+
 
 ### RESUMEN 
 Clasificación:
@@ -176,8 +177,8 @@ situación y los carriles de aguja no alcancen durante la conmutación las posic
 finales, no permitan el paso de la barra de bloqueo por debajo del carril de aguja
 atascado o no permitan el establecimiento de la vía de tren/maniobra;
 
-
 ## Página 6
+
 
 incorporar a los procedimientos tecnológicos la prohibición de sujetar las piezas
 •
@@ -189,8 +190,8 @@ se recomienda adoptar una medida propia encaminada a la realización de
 las recomendaciones anteriores en los demás gestores de vías (IMs) en los que se
 exploten agujas con bloqueos de mandíbula.
 
-
 ## Página 7
+
 
 ## Contenido
 1 Resumen ........................................................................................................................3
@@ -219,6 +220,7 @@ exploten agujas con bloqueos de mandíbula.
 3.1.1 Empleados del gestor de la vía y del transportista, incluidas personas en relación contractual ...............................................................................................................20
 
 ## Página 8
+
 
 3.1.2 Otras personas .........................................................................................................23
 3.2 Sistema de garantía de la seguridad ...............................................................................24
@@ -250,10 +252,10 @@ manejo y uso ...................................................................
 4.1.1 Descripción final del suceso excepcional basada en los hechos constatados en el punto 3 
 ............................................................................................................................32
 4.2 Análisis ......................................................................................................................32
-4.2.1 Evaluación de los hechos constatados de acuerdo con el punto 3 y formulación de conclusiones sobre la causa 
-
+4.2.1 Evaluación de los hechos constatados de acuerdo con el punto 3 y formulación de conclusiones sobre la causa
 
 ## Página 9
+
 
 del suceso excepcional y la actuación de los servicios de emergencia ..........................................32
 4.3 Conclusiones .......................................................................................................................37
@@ -269,6 +271,7 @@ del suceso excepcional y la actuación de los servicios de emergencia ..........
  Anexos ...............................................................................................................................40
 
 ## Página 10
+
 
 ### Lista de siglas y símbolos utilizados
 AŽD Praha, s.r.o.
@@ -357,6 +360,7 @@ estación de ferrocarril
 
 ## Página 11
 
+
 ### Lista de siglas de la legislación, normas y normas internas 
 utilizadas
 ley núm. 266/1994 Sb.
@@ -384,15 +388,15 @@ norma interna del gestor de la infraestructura SŽDC, s. o., SŽDC Dp17 Norma pa
 SŽDC S8
 norma interna del gestor de la infraestructura SŽDC, s. o., SŽDC S8 Explotación, mantenimiento y reparación de vehículos especiales, aprobada por el primer sustituto del director general encargado de la dirección de la organización el 14. 12. 2011, ref.: S56660/2011-OP, en vigor desde el 1. 1. 2012
 
-
 ## Página 12
+
 
 Grupo de anexos VI a la norma SŽDC (ČD) S 8/3 
                                                  norma interna del gestor de la infraestructura SŽDC, s. o., Grupo de anexos VI a la norma SŽDC (ČD) S8/3, en vigor desde el 1. 1.
 2005
 
-
 ## Página 13
+
 
 ### 2 DATOS RELATIVOS AL SUCESO EXCEPCIONAL
 ## 2.1
@@ -414,16 +418,42 @@ Fig. núm. 1: Vista del lugar del SE
 ### 2.1.2 Descripción del suceso excepcional y del lugar del accidente, incluida la actuación del sistema integrado de emergencias y del servicio de salvamento
 El 7. 3. 2014, el ŘDV del tren Os 4421, que circulaba desde la est. Rakšice hasta la est. Brno hl. n., descarriló con todos los ejes al entrar desde la 3. TK desde la est. Brno-Horní Heršpice en la SK núm. 11k de la est. Brno hl. n., en la aguja núm. 140.
 
-
 ## Página 14
 
-Fig. núm. 2: Esquema del lugar del SE                                                                     Fuente: Inspección Ferroviaria
-Del examen del lugar del SE se constató lo siguiente:
-Al entrar el tren Os 4421 se produjo en la aguja núm. 140 el descarrilamiento del vehículo de mando de la serie Bfbrdtn núm. CZ ČD 50 54 80-29 307-3 que circulaba a la cabeza del tren, con todos los ejes. El tren entraba en la est. Brno hl. n. por la SK núm. 3a, a través de la aguja núm. 140 hacia la SK núm. 11k.
-El descarrilamiento del tren Os 4421 fue causado por la denominada «carrera de horquilla» (estado en el que ambos raíles de la aguja se separan del riel de apoyo) al pasar por la aguja núm. 140 en sentido contrario a la punta. Esta aguja es de tipo JT-6°, sobre traviesas de madera, con motor de maniobra eléctrico EP 600 (de corte) a la izquierda, está equipada con un cierre de aguja tipo VZ 200, sin cuerpo de cambio y señal de cambio.
-Desde las 23:00 h del 6. 3. 2014 hasta las 4:00 h del 7. 3. 2014 se estaba llevando a cabo en el extremo desde la est. Brno-Horní Heršpice, es decir, en el ámbito de St 4, una interrupción de circulación planificada según la ROV núm. 30009, fase «A». Se interrumpieron las SK núm. 5k, 7k, 9k, 11k y 13k desde el final de la aguja núm. 121 hasta el inicio de la aguja núm. 125 y, debido a la posición de estas agujas, tampoco era posible en ese momento circular por las agujas núm. 139 y núm. 140. El OZOV aprovechó esta circunstancia y ordenó la realización de la excavación del terreno fangoso entre estas agujas y su posterior relleno con nuevo balasto con la ayuda del SVP-74, aunque estas obras no figuraban en la ROV. Por este motivo, el OZOV tampoco solicitó la desconexión de la tensión de la línea de tracción sobre el lugar de trabajo del SVP-74, que permaneció conectada durante todo el tiempo de las obras. El OZOV estableció para la excavación una tecnología de trabajo en la que el SVP-74 empujaba el vagón de remolque con la tierra excavada delante de sí, en dirección desde la aguja núm. 139 hacia la aguja núm. 140, que durante todo el tiempo de la interrupción estaba dispuesta hacia la SK núm. 13k. Al iniciar la excavación, el SVP-74 estaba fuera de la parte de cambio de la aguja núm. 140, pero durante la actividad se desplazó hasta este lugar. En todo el recorrido, y por tanto también en la parte de cambio de la aguja núm. 140, el SVP-74 se sujetaba a las cabezas de los raíles mediante sus propios dispositivos hidráulicos de sujeción. En la parte de cambio de la aguja núm. 140 ya no se realizaban por la máquina SVP-74 ninguna obra de reparación, solo permanecía allí y se sujetaba a los rieles de apoyo.
+Obra n.º 2: Esquema del lugar de la MU                                                                         Fuente: Inspección Ferroviaria
+Del examen del lugar de la MU se constató lo siguiente:
+Con la entrada del tren Os 4421 se produjo en el desvío n.º 140 el descarrilamiento de la
+coche de mando de la serie Bfbrdtn n.º CZ ČD 50 54 80-29 307-3, que encabezaba el tren,
+con todos sus ejes. El tren entraba en la est. Brno hl. n. por la vía SK n.º 3a, a través del
+desvío n.º 140 hacia la vía SK n.º 11k.
+El descarrilamiento del tren Os 4421 fue causado por la denominada «carrera en horquilla»
+(estado en el que ambos labios del desvío se separan del riel de apoyo) a través del desvío
+n.º 140 en sentido contrario a la aguja. Este desvío es de forma JT-6°, sobre traviesas de
+madera, con motor de maniobra EP 600 (de corte) a la izquierda, está dotado de enclavamiento
+de mordazas tipo VZ 200, sin cuerpo de aguja ni señal de aguja.
+Desde las 23:00 h del día 6. 3. 2014 hasta las 4:00 h del día 7. 3. 2014 se estaba llevando a
+cabo en el extremo de estación desde la est. Brno-Horní Heršpice, es decir, en el ámbito St 4,
+una interrupción planificada conforme a la ROV n.º 30009, fase «A».
+Se excluyeron las vías SK n.º 5k, 7k, 9k, 11k y 13k desde el final del desvío n.º 121 hasta el
+inicio del desvío n.º 125 y, dada la posición de estos desvíos, tampoco era posible en ese
+momento circular por los desvíos n.º 139 y n.º 140. El OZOV aprovechó esta circunstancia y
+ordenó la realización de la excavación del punto fangoso entre estos desvíos y su posterior
+relleno con balasto nuevo con la ayuda del SVP-74, aunque estos trabajos no figuraban en la
+ROV. Por este motivo, el OZOV tampoco solicitó la desconexión de la tensión de la línea de
+tracción sobre el lugar de trabajo del SVP-74, que permaneció conectada durante todo el
+tiempo de trabajo. El OZOV estableció para la excavación una tecnología de trabajo en la que
+el SVP-74 empujaba el vagón de remolque con el terreno excavado delante de sí, en dirección
+desde el desvío n.º 139 hacia el desvío n.º 140, que durante todo el tiempo de la interrupción
+estaba conmutado hacia la vía SK n.º 13k. Al iniciarse la excavación, el SVP-74 se encontraba
+fuera de la parte de aguja del desvío n.º 140, pero durante la actividad se desplazó hasta
+dicho lugar. En todo el recorrido, y por tanto también en la parte de aguja del desvío n.º 140,
+el SVP-74 se sujecionaba a las cabezas de los raíles mediante sus propios dispositivos
+hidráulicos de sujeción. En la parte de aguja del desvío n.º 140 ya no se realizaban por la
+máquina SVP-74 trabajos de reparación, solo permanecía allí y se sujecionaba a los rieles de
+apoyo.
 
 ## Página 15
+
 
 Tras finalizar el vaciado y los trabajos establecidos en el ROV, el OZOV acudió a la St 4, donde hizo que el señalista probara el desvío n.º 140 en ambas direcciones. El SZZ en la St 4 indicó el correcto cambio del desvío hasta las posiciones finales y, por lo tanto, posteriormente anotó a las 4:00 h en el cuaderno telefónico la solicitud de finalización de la intervención, confirmó la libertad de vías y desvíos y su transitable sin limitaciones, y la intervención fue finalizada a esta hora. Posteriormente, se realizó a través del desvío n.º 140 una maniobra de la unidad de maniobras a la SK n.º 13k, que se llevó a cabo sin incidencias, ya que para esta maniobra las agujas del desvío estaban en las posiciones finales correctas.
 A las 4:45 h se realizó la preparación de la vía de tren para el tren Os 4421 desde la est. Brno-Horní Heršpice, desde la 3.ª TK a través de la SK n.º 3a por el desvío n.º 140 a la SK n.º 11k. Tras el cambio del desvío n.º 140 a esta SK, el SZZ indicó la posición final correcta de ambas agujas y, por tanto, la vía de tren fue establecida mediante la operación normal del SZZ. La entrada del tren Os 4421 se permitió mediante el cambio de las señales «3L» y «Lc3s» a la señal que autoriza la circulación. En la señal «3L» estaba la señal «Espere velocidad 40 km/h», en la señal «Lc3s» estaba la señal «Velocidad 40 km/h y aviso». Cuando el tren Os 4421 entró en las vías muertas, el maquinista vio que el desvío n.º 140 no estaba cambiado ni a una ni a otra posición extrema, inmediatamente aplicó el frenado de acción rápida, sin embargo, debido a la corta distancia, ya no logró detenerse. Posteriormente se produjo una circulación por la horquilla y el ŘDV descarriló con todos los ejes. La primera huella tras el descarrilamiento, es decir, el punto «0», se encontraba en el estribo derecho en el km 142,949. El frente del tren se detuvo en el km 142,976.
@@ -446,8 +476,8 @@ Decisión del DI sobre el inicio de la VŠ:
 de una relación causal
 directa
 
-
 ## Página 16
+
 
                                                                 con deficiencias en el sistema organizativo o
                                                                 técnico de explotación de la vía y del transporte ferroviario.
@@ -478,8 +508,8 @@ jefe del centro de explotación de Brno hl. n., empleado de SŽDC, ST Brno;
 conductor del vehículo ferroviario especial SVP-74, empleado de SŽDC, ST Brno.
 •
 
-
 ## Página 17
+
 
 2.2.2 Trenes y su composición, incluidos los números de registro de los distintos vehículos ferroviarios
 | Tren: | Os4421 |  | Composición del tren: | Propietario: |
@@ -500,8 +530,8 @@ El desvío n.º 140 se encuentra en el km 142,941, es de forma JT-6º y se encue
 La estación está equipada con un SZZ de 2.ª categoría, con un sistema de señalización electromecánico con señales principales luminosas dependientes, cambiadores electromotores EP 600 y circuitos de vía. El sistema se opera desde el DK, desde el puesto del jefe de estación de la St 4, St 5, St 6 y además desde los aparatos PSt 1, PSt 2, St 2 y St 3 con enlace a la St 4.
 En el momento de la ocurrencia de la MU no consta ninguna avería en el libro «Registro de averías» en el DK ni en el libro «Registro de averías» en la St 4, el estado del SZZ en la St 4 estaba en orden, los precintos del dispositivo de emergencia de equipamiento de los cierres de agujas y los topes de aguja no estaban violados, la vía de tren para el tren Os 4421 a la SK n.º 11k fue establecida mediante la operación normal del SZZ.
 
-
 ## Página 18
+
 
 ### 2.2.4 Uso de los medios de comunicación
 El explotador de la vía no aportó al DI datos horarios precisos ni registros de las llamadas relacionadas con la MU, con la justificación de que todas las llamadas se realizaban a través de radios de la red local de radio, que en la est. Brno hl. n. no se graba, lo que corresponde con lo dispuesto en el artículo 43 de la ordenanza de la est. Brno hl. n..
@@ -531,39 +561,38 @@ IZS y OSB;
 7:22 h concedido por el VI DI presente el consentimiento para la liberación de la vía;
 •
 
-
 ## Página 19
 
-9:30 h reanudación de la circulación en la SK n.º 9k;
+9:30 h restablecimiento de la circulación en la SK n.º 9k;
 •
-13:25 h reanudación de la circulación en la SK n.º 11k y 13k.
+13:25 h restablecimiento de la circulación en la SK n.º 11k y 13k.
 •
-En el lugar de la MU estaban presentes también los jefes de los distintos componentes organizativos del explotador de la vía y del transportista.
-Con la presencia del VI DI se realizó la inspección conjunta del lugar de la MU, incluida la elaboración del acta.
-### 2.2.7 Activación del plan del sistema integrado de emergencia, de la policía y del servicio de emergencia médica y secuencia de eventos
-La MU fue comunicada por: el maquinista del tren Os 4421 al jefe de maniobras de despacho de la est. Brno hl. n.
-El plan del IZS fue activado. El plan del IZS fue activado a las 5:10 h por el supervisor de la est. Brno hl. n.
-Al lugar de la MU acudieron los componentes del IZS:
+En el lugar del MU estaban presentes también los jefes de los distintos componentes organizativos del gestor de la infraestructura y del transportista.
+Con la participación de la VI DI se realizó la inspección comisionada del lugar del MU, incluida la elaboración del acta.
+### 2.2.7 Activación del plan del sistema integrado de emergencias, de la policía y del servicio médico de emergencias y secuencia de acontecimientos
+El MU lo comunicó: el maquinista del tren Os 4421 al jefe de maniobras de la estación Brno hl. n.
+El plan IZS fue activado. El plan IZS fue activado a las 5:10 h por el inspector de la estación Brno hl. n.
+Al lugar del MU acudieron los componentes del IZS:
 HZS SŽDC, s. o. , JPO Brno;
 •
-P ČR, Departamento de policía ferroviaria y escoltas de trenes Brno.
+P ČR, Departamento de Policía Ferroviaria y escoltas de trenes Brno.
 •
 ## 2.3
 ### Fallecimientos, lesiones y daños materiales
-2.3.1 En pasajeros y terceras personas, empleados del explotador de la vía y del transportista, incluidas personas en relación contractual
-En la MU no se produjo daño a la salud en los empleados del explotador de la vía, del transportista, de las personas en relación contractual ni en los pasajeros y terceras personas.
-### 2.3.2 En las cosas transportadas, equipajes y otros bienes
-No se produjo daño en las cosas transportadas, equipajes y otros bienes.
-### 2.3.3 En los vehículos ferroviarios, componentes de la vía de circulación y en el medio ambiente
-El explotador de la vía y el transportista cuantificaron el daño en:
+2.3.1 En pasajeros y terceras personas, empleados del gestor de la infraestructura y del transportista, incluidas personas en relación contractual
+En el MU no se produjo daño a la salud en los empleados del gestor de la infraestructura, del transportista, personas en relación contractual, ni tampoco en pasajeros y terceras personas.
+### 2.3.2 En objetos transportados, equipajes y otros bienes
+No se produjo daño en los objetos transportados, equipajes y otros bienes.
+### 2.3.3 En vehículos ferroviarios, componentes de la vía y en el medio ambiente
+El gestor de la infraestructura y el transportista cuantificaron el daño en:
 ŘDV del tren Os 4421        
 88 460 Kč;
 •
-dispositivos de la vía                                                  0 Kč;
+instalaciones de la vía                                    0 Kč;
 •
-daño en el medio ambiente                             0 Kč.
+daño al medio ambiente                                 0 Kč.
 •
-En la MU, el daño producido en los vehículos ferroviarios, componentes de la vía y en otros bienes
+En el MU, el daño producido en los vehículos ferroviarios, componentes de la vía y en otros bienes
 ### se cuantificó en un total de: 88 460 Kč.
 
 ## Página 20
@@ -576,182 +605,150 @@ parcialmente despejado, calma, + 5 °C, visibilidad con iluminación artificial 
 encima de 100 m.
 Datos geográficos:
        terreno llano y despejado.
-### 3 REGISTRO DE LAS EXPLICACIONES PRESENTADAS
+## 3 REGISTRO DE LAS EXPLICACIONES PRESENTADAS
 ## 3.1
-### Resumen de las explicaciones presentadas (sujeto a la protección de la identidad de las personas)
+### Resumen de las explicaciones presentadas (sujeto a protección de la identidad de las personas)
 ### 3.1.1 Empleados del gestor de la infraestructura y del transportista, incluidas personas en relación contractual
 Maquinista del tren Os 4421 – del Registro con el empleado se desprende, entre otras cosas:
 •
 el 7 de marzo de 2014 condujo el tren Os 4421 desde la est. Rakšice hasta la est. Brno hl. n.;
 •
-al salir el tren de la est. Brno-Horní Heršpice con la señal «Espere 40», entró en la est.
+al salir el tren de la est. Brno-Horní Heršpice con la señal «Espere 40», en la est.
 •
-Brno hl. n. con la señal «40 y aviso»;
+Brno hl. n. entró con la señal «40 y aviso»;
 al entrar el tren en las vías muertas de la est. Brno hl. n. vio a corta distancia
 •
-que la aguja n.º 140 no estaba conmutada ni a una ni a otra posición extrema;
-inmediatamente aplicó el frenado de acción rápida, pero a pesar de ello se produjo el descarrilamiento del coche de mando
+que la aguja n.º 140 no estaba conmutada ni a una posición extrema;
+inmediatamente aplicó frenado de acción rápida, pero aun así se produjo el descarrilamiento
 •
-con todos los ejes;
-el MU informó inmediatamente por radio al señalero de la St 4 y al jefe de máquinas de la PJ Brno-Horní
+del coche de mando con todos los ejes;
+el MU comunicó inmediatamente por radio al señalero de la St 4 y al jefe de
 •
-Heršpice.
-Jefe de maniobras de la est. Brno hl. n. – del Registro con el empleado se desprende, entre otras cosas
+máquinas de la PJ Brno-Horní Heršpice.
+Jefe de maniobras de la est. Brno hl. n. – del Registro con el empleado se desprende,
 •
-:
-tras finalizar la intervención a las 4:00 h, entró en la SK n.º 13k con una maniobra de un tramo de tren para el tren Os
+entre otras cosas:
+tras finalizar la intervención a las 4:00 h entró en la SK n.º 13k con un maniobra
 •
-4422;
-hacia las 4:45 h, durante la preparación de la vía de circulación para el tren Os 4421, la aguja n.º 140
+de enganche para el tren Os 4422;
+hacia las 4:45 h, durante la preparación del itinerario de tren para el tren Os 4421,
 •
-fue conmutada a la SK n.º 11k;
-al preparar esta vía de circulación, el jefe de la estación de andenes St 4 no le comunicó ningún problema,
+la aguja n.º 140 fue conmutada a la SK n.º 11k;
+al preparar este itinerario de tren, el jefe de maniobras de la St 4 no le comunicó
 •
-la vía de circulación se estableció con la operación normal de la SZZ;
-hacia las 4:54 h escuchó en la frecuencia del canal de información 05 MRS al maquinista del tren Os
+ningún problema, el itinerario de tren se estableció con la operación normal del SZZ;
+hacia las 4:54 h escuchó en la frecuencia del canal informativo 05 del MRS al
 •
-4421 informar que al entrar vio una aguja no conmutada, intentó detenerse, pero no logró frenarlo y se produjo el descarrilamiento;
-tras comprobar que el tren descarrilado no afectaba a la vía de circulación en la SK n.º 5k
+maquinista del tren Os 4421 comunicar que al entrar vio una aguja no conmutada,
 •
-y con el fin de mantener el mayor grado posible de tráfico en la est. Brno hl.
-n., canceló la vía de circulación no utilizada para el tren Os 4421 en la SK n.º 11k y estableció
-la vía de circulación para el tren Os 4821 por la TK n.º 3 en la SK n.º 5k;
-anotó los números de los contadores de operación en el Parte de servicio antes de que se produjera el MU,
+intentó detenerse, pero no logró frenar y se produjo el descarrilamiento;
+tras comprobar que el tren descarrilado no afectaba al itinerario de tren en la SK n.º 5k
 •
-pero después, al resolver la difícil situación de tráfico, olvidó corregir los datos numéricos del PN
-3L y del botón de equipamiento tras la 3.ª TK.
-
+y con el fin de mantener el mayor alcance posible del tráfico en la est. Brno hl. n.,
+•
+anuló el itinerario de tren no transitado para el tren Os 4421 en la SK n.º 11k y
+•
+estableció el itinerario de tren para el tren Os 4821 por la TK n.º 3 en la SK n.º 5k;
+los números de los contadores de operación los anotó en la Entrega de servicio
+•
+aún antes de la aparición del MU, pero después, al resolver la difícil situación
+•
+de tráfico, olvidó corregir los datos numéricos del PN 3L y del botón de
+•
+despacho tras la 3.ª TK.
 
 ## Página 21
 
-Jefe de la estación de andenes St 4 de la est. Brno hl. n. – del Registro con el empleado se desprende, entre otras cosas
+Jefe de estación de la estación St 4 de la estación Brno hl. n. – del Registro con el empleado, entre otros, se desprende:
 •
-:
-la aguja n.º 140 estuvo, según la petición del OZOV, conmutada a la SK n.º 13k
+la aguja n.º 140 estaba, según la solicitud de OZOV, durante todo el tiempo de la interrupción, dispuesta en la vía de enlace SK n.º 13k;
 •
-durante toda la intervención;
-tras finalizar la intervención, entró en la SK n.º 13k con una maniobra de un tramo de tren para el tren Os 4422;
+tras finalizar la interrupción, entró en la SK n.º 13k mediante maniobra de maniobra el tren Os 4422;
 •
-hacia las 4:45 h, durante la preparación de la vía de circulación para el tren Os 4421, la aguja n.º 140
+alrededor de las 4:45 h, durante la preparación de la ruta de tren para el tren Os 4421, la aguja n.º 140 fue dispuesta en la SK n.º 11k, sin que durante su cambio se detectaran desviaciones de su funcionamiento normal;
 •
-fue conmutada a la SK n.º 11k, sin que durante su conmutación se detectaran
-desviaciones de su funcionamiento normal;
-la establecimiento de esta vía de circulación se realizó sin incidencias también en las agujas afectadas
+la establecimiento de esta ruta de tren se realizó sin incidencias también en las agujas afectadas previamente por la interrupción, y en el panel de señales L3 y Lc3c se encendieron las señales que autorizaban la circulación;
 •
-anteriormente por la intervención, y en la maqueta de señales L3 y Lc3c de la mesa de vías se encendieron
-los símbolos de señal que permiten la circulación;
-la vía de circulación para la entrada del tren Os 4421 estaba libre, el tramo de agujas n.º 139
+la ruta de tren para la entrada del tren Os 4421 estaba libre, el sector de agujas n.º 139 y n.º 140 no indicaba, tras la interrupción anterior, ninguna avería ni ocupación del sector;
 •
-y n.º 140 no indicaba tras la intervención anterior ninguna avería ni ocupación del tramo;
-el estado de los elementos indicadores en la mesa de vías St 4 y la posición de las llaves de las señales para
+el estado de los elementos indicadores en el panel de señales St 4 y la posición de las manijas de las señales para la entrada del tren Os 4421 en el SZZ, inmediatamente después de la aparición de la MU, lo documentó el señalero St 4 (nota DI – se realizaron 3 fotografías con el teléfono móvil personal del señalero);
 •
-la entrada del tren Os 4421 en la SZZ lo documentó inmediatamente tras la aparición del MU
-el señalero St 4 (nota DI – se tomaron 3 fotografías con el teléfono móvil privado del señalero);
-tras finalizar la intervención, se comprobaron las posiciones extremas de todas las
+tras finalizar la interrupción, se comprobaron mediante cambio las posiciones finales de todas las agujas que durante la interrupción estaban indicadas como ocupadas;
 •
-agujas mediante su conmutación, aquellas que durante la intervención estaban indicadas como ocupadas;
-las pruebas de bloqueo de las agujas no fueron realizadas por los trabajadores de la SSZT, porque los trabajos
+las pruebas de bloqueo de las agujas no fueron realizadas por los trabajadores de SSZT, ya que los trabajos según ROV se desarrollaban en los campos de vía entre agujas;
 •
-según el ROV se desarrollaban en los campos de vía entre agujas;
-tras tomar la fotodocumentación mencionada anteriormente, canceló, según la instrucción del jefe de maniobras,
+tras realizar la documentación fotográfica mencionada anteriormente, canceló, según instrucción del jefe de estación de despacho, la ruta de tren para el tren Os 4421, a fin de permitir la circulación de trenes en la SK n.º 5k, y con ello se preservó en la mayor medida posible la explotación del tráfico durante la hora punta de la mañana.
+Señalero St 4 de la estación Brno hl. n. – del Registro con el empleado, entre otros, se desprende:
 •
-la vía de circulación para el tren Os 4421, para permitir la circulación de trenes en
-la SK n.º 5k, y con ello se mantuvo el mayor grado posible de explotación del tráfico durante
-la hora punta de la mañana.
-Señalero St 4 de la est. Brno hl. n. – del Registro con el empleado se desprende, entre otras cosas:
+los trabajos de interrupción finalizaron en el horario previsto y, según el registro del empleado ST, las agujas eran transitables sin restricciones;
 •
-los trabajos de intervención finalizaron en el horario previsto y, según el registro del empleado ST,
+antes de la primera circulación de un vehículo ferroviario tras la interrupción, comprobó todas las agujas que durante la interrupción estaban indicadas como ocupadas; en todas estas agujas, tras el cambio, se indicó su posición final;
 •
-las agujas eran transitables sin restricciones;
-antes de la primera circulación de un vehículo ferroviario tras la intervención, comprobó todas las agujas
+tras finalizar la interrupción, entró en la SK n.º 13k mediante maniobra de maniobra el tren Os 4422;
 •
-que durante la intervención estaban indicadas como ocupadas; en todas estas agujas se
-indicó tras su conmutación su posición extrema;
-tras finalizar la intervención, entró en la SK n.º 13k con una maniobra de un tramo de tren para el tren Os 4422;
+a continuación, la aguja n.º 140 fue dispuesta en la SK n.º 11k para la preparación de la ruta de tren para el tren Os 4421, sin que durante su cambio se detectaran desviaciones de su funcionamiento normal;
 •
-después, la aguja n.º 140 fue conmutada a la SK n.º 11k para la preparación de la vía de circulación
+la establecimiento de esta ruta de tren se realizó de forma estándar y en el panel de señales L3 y Lc3c se encendieron las señales que autorizaban la circulación del tren. La ruta de tren para la entrada del tren estaba libre, el sector de agujas de los enclavamientos n.º 139 y n.º 140 no indicaba, tras la interrupción anterior, ocupación ni ninguna avería;
 •
-para el tren Os 4421, sin que durante su conmutación se detectaran desviaciones
-de su funcionamiento normal;
-la establecimiento de esta vía de circulación se realizó de forma estándar y en la maqueta
+el primero en detectar el descarrilamiento del tren Os 4421 fue el jefe de estación de la estación, que observaba su entrada.
+Maquinista del vehículo especial ferroviario SVP-74 – del Registro con el empleado, entre otros, se desprende:
 •
-de señales L3 y Lc3c se encendieron los símbolos de señal que permiten la circulación del tren. La vía de
-circulación para la entrada del tren estaba libre, el tramo de agujas de los cambios n.º 139 y n.º 140
-no indicaba tras la intervención anterior ocupación ni ninguna avería;
-el primero en detectar el descarrilamiento del tren Os 4421 fue el jefe de la estación de andenes, que
-•
-observaba su entrada.
-Operador del vehículo especial de vía SVP-74 – del Registro con el empleado se desprende, entre otras cosas
-•
-:
-el jefe del centro de explotación, que ese día, durante la intervención prevista, ejercía la función
-•
-
+el jefe del centro de explotación, que ese día, durante la interrupción prevista, ejercía la función de
 
 ## Página 22
 
-de OZOV y jefe del puesto de trabajo de la máquina SVP-74, le instruyó antes del comienzo de los trabajos
-sobre el procedimiento de los trabajos y sobre la seguridad laboral, y a la vez le advirtió de que
-el catenaria sobre el lugar de trabajo no estaba desconectada y que por tanto no debía elevar el brazo de la máquina;
-excavaba delante de la aguja n.º 140 y terminó la excavación en el travesaño doble delante de
+OZOV al puesto de mando de la máquina SVP-74, le instruyó antes del comienzo de los trabajos sobre el procedimiento de los mismos y sobre la seguridad en el trabajo, y a la vez le advirtió de que la catenaria sobre el lugar de trabajo no estaba desconectada y de que por tanto no debía levantar el brazo de la máquina; excavaba delante de la aguja n.º 140 y terminó la excavación en el travesaño doble delante de
 •
-la sección de cambio de esta aguja;
-cargaba el material excavado en un remolque, que tras terminar la excavación
+la sección de recambio de dicha aguja;
+cargaba el material excavado en el remolque, que tras finalizar la excavación
 •
-se fue a vaciar;
-cargó en el remolque vacío grava nueva, con la que después rellenó los espacios
+se marchó a vaciar;
+cargó en el remolque vacío balasto nuevo, con el que después rellenó los
 •
-entre travesaños vacíos. Por último, añadió más grava en el área de la parte de corazón de la
-aguja n.º 140 y tras terminar este trabajo se fue del lugar de trabajo y ya no trabajó allí;
-al excavar, siempre se anclaba mediante los dispositivos de sujeción. Antes de mover la máquina, anulaba
+espacios entre traviesas vacíos. Al final, además, echaba más balasto en la zona de la parte de corazón de la aguja n.º 140 y tras terminar este trabajo se marchó del lugar de trabajo y ya no trabajó allí más;
+al excavar se anclaba siempre mediante las abrazaderas. Antes de mover la
 •
-el anclaje y antes de la siguiente excavación volvía a sujetarse;
-la sujeción de los dispositivos de sujeción la comprueba solo por escucha en la cabina de la máquina, porque su
+máquina anulaba el anclaje y antes de la siguiente excavación volvía a anclarse;
+el anclaje de las abrazaderas lo comprueba solo por el oído en la cabina de la
 •
-posición no está indicada en la cabina de la máquina, y no la comprueba con la vista desde fuera;
-no es consciente de que la máquina se anclara cuando estaba de pie en el área de la lengüeta de la
+máquina, ya que su posición no está indicada en la cabina de la máquina, y no lo comprueba con la vista desde fuera;
+no es consciente de que la máquina se anclara cuando estaba con ella en la
 •
-aguja n.º 140 y excavaba;
-no es consciente de que estuviera prohibido anclar el SVP-74 en las partes móviles de
+zona de la lengüeta de la aguja n.º 140 y excavaba;
+no es consciente de que estuviera prohibido anclar el SVP-74 en las partes
 •
-las agujas, pero como allí probablemente no se podría anclar, pues no lo hace.
-Jefe del centro de explotación Brno hl. n. – del Registro con el empleado se desprende, entre otras cosas
-•
-:
-durante la intervención ejercía también la función de OZOV y a la vez, durante la excavación entre las agujas
-•
-n.º 139 y n.º 140, la de jefe del puesto de trabajo de la máquina SVP-74;
-antes del comienzo de los trabajos instruyó a los empleados sobre qué trabajos y dónde se iban a
-•
-realizar, estableció la tecnología de los trabajos y los puestos de trabajo concretos y les instruyó
-sobre el cumplimiento de los principios de PRL en el trabajo. A la vez instruyó al operador del SVP-74 de que
-la excavación se realizaría bajo la catenaria en servicio y le prohibió
-elevar el brazo de la máquina por encima del techo de la máquina;
-tras el comienzo de la intervención a las 23:00 h, ejerció todas las obligaciones del OZOV y no designó
-•
-a otros empleados como jefes de trabajo;
-antes del comienzo de la intervención acordó con el señalero St 4 que la aguja n.º 140 estaría
-•
-durante toda la intervención conmutada en dirección a la SK n.º 13k;
-la excavación del lugar fangoso entre las agujas n.º 139 y n.º 140 se desarrolló de modo que
-•
-el SVP-74 excavaba en dirección desde la aguja n.º 139 hacia la vía muerta n.º 13k, mientras
-empujaba por delante el remolque con la tierra excavada;
-al comenzar la excavación, el SVP estaba fuera de la sección de cambio de la aguja n.º 140
-•
-y, con el avance de la excavación, se desplazaba hasta la sección de cambio de esta aguja, con
-el remolque situado en ese momento en su parte central;
-tras excavar el lugar fangoso, cuyo comienzo se encontraba a ocho
-•
-espacios entre travesaños del comienzo de la aguja n.º 140, el SVP-74
-se fue a vaciar el material excavado. Después cargó grava limpia, volvió y fue
-esparciendo la grava en los espacios entre travesaños limpiados y la compactaba con el equipo de carga;
-después el SVP-74 se desplazó a la aguja n.º 140 y allí rellenó los espacios entre travesaños
-•
-en la parte central y de corazón de esta aguja;
+móviles de las agujas, pero como allí probablemente no se podría anclar, pues no lo hace.
 
+Jefe del centro de explotación Brno hl. n. – del Acta con el empleado, entre
+•
+otras cosas, se deduce:
+durante la intervención desempeñaba también la función de OZOV y a la vez,
+•
+durante la excavación entre las agujas n.º 139 y n.º 140, era el jefe del puesto de la máquina SVP-74;
+antes del comienzo de los trabajos instruyó a los empleados sobre qué trabajos
+•
+y dónde se iban a realizar, estableció la tecnología de los trabajos y los lugares de trabajo concretos, y les instruyó sobre el cumplimiento de los principios de PRL en el trabajo. A la vez instruyó al maquinista del SVP-74 sobre que la excavación se realizaría bajo la catenaria energizada y le prohibió levantar el brazo de la máquina por encima del nivel del techo de la máquina;
+tras el comienzo de la intervención a las 23:00 h desempeñaba todas las
+•
+funciones de OZOV y no designó a otros empleados como jefe de trabajos;
+antes del comienzo de la intervención acordó con el señalero St 4 que la
+•
+aguja n.º 140 estaría durante todo el tiempo de la intervención dispuesta en dirección a SK n.º 13k;
+la excavación del lugar fangoso entre las agujas n.º 139 y n.º 140 se
+•
+realizaba de modo que el SVP-74 excavaba en dirección desde la aguja n.º 139 hacia la vía muerta n.º 13k, empujando delante de sí el remolque con la tierra excavada;
+al comenzar la excavación el SVP estaba fuera de la sección de recambio de la
+•
+aguja n.º 140 y con el avance de la excavación se desplazaba hasta la sección de recambio de dicha aguja, con el remolque situado en ese momento en su parte central;
+tras excavar el lugar fangoso, cuyo comienzo se encontraba a ocho espacios
+•
+entre traviesas del inicio de la aguja n.º 140, el SVP-74 se marchó a vaciar el material excavado. Después cargó balasto limpio, regresó y echaba el balasto en los espacios entre traviesas limpiados y lo compactaba con la carga de la máquina;
+a continuación el SVP-74 se desplazó a la aguja n.º 140 y allí rellenaba los
+•
+espacios entre traviesas en la parte central y de corazón de dicha aguja;
 
 ## Página 23
+
 
 tras terminar este trabajo, el SVP-74 cargó las herramientas y se fue del lugar de la intervención;
 •
@@ -800,87 +797,91 @@ una aguja que no ha alcanzado ninguna posición extrema de la lengüeta.
 ### 3.1.2 Otras personas
 Otras personas no presentaron explicaciones con respecto al MU en cuestión.
 
-
 ## Página 24
 
 ## 3.2
-### Sistema de garantía de la seguridad
+### Sistema de garantía de seguridad
 ### 3.2.1 Organización marco y forma en que se emiten y ejecutan las instrucciones
-El gestor de la infraestructura y el transportista tienen un sistema de garantía de la seguridad adoptado con
-base en las disposiciones de la Ley n.º 266/1994 Sb.
-En el sistema de garantía de la seguridad adoptado por el gestor de la infraestructura SŽDC
-relativo a las circunstancias de la aparición del MU en cuestión, no se detectó ningún defecto. Se detectó
-un defecto en su cumplimiento.
-En el sistema de garantía de la seguridad adoptado por el transportista ČD, relativo
-a las circunstancias de la aparición del MU en cuestión, no se detectó ningún defecto.
-### 3.2.2 Requisitos para los empleados del gestor de la infraestructura y del transportista y su aplicación
-Los requisitos para los empleados del gestor de la infraestructura y del transportista, en particular los requisitos
-de su idoneidad técnica y sanitaria, están establecidos por la Ley n.º 266/1994 Sb.,
-el Decreto n.º 173/1995 Sb., el Decreto n.º 101/1995 Sb., el Decreto n.º 16/2012 Sb.
-y las normas internas del gestor de la infraestructura y del transportista.
-En el momento de la aparición del MU en cuestión, todas las personas del gestor de la infraestructura SŽDC
-involucradas en el MU que realizaban actividades en la explotación de la infraestructura y del transporte ferroviario eran
-idóneas técnicamente para el desempeño de la función que ocupaban.
-En el momento de la aparición del MU en cuestión, todas las personas del transportista ČD involucradas en el MU
-que realizaban actividades en la explotación del transporte ferroviario y de la infraestructura eran
-idóneas técnicamente para el desempeño de la función que ocupaban.
-### 3.2.3 Procedimiento de control interno de la seguridad y sus resultados
-En el procedimiento de control interno de la seguridad del gestor de la infraestructura y del transportista no se
-detectaron defectos.
-### 3.2.4 Interfaz entre los distintos sujetos involucrados y los componentes de la vía de circulación
-El propietario de la infraestructura ferroviaria, categoría estatal, Lanžhot st. hr. – Brno hl. n., es
-la República Checa. La función de propietario la ejerce la Administración de la Infraestructura de Transporte Ferroviario, organización estatal,
-con domicilio en Dlážděná 1003/7, Praha 1, CP 110 00.
-El gestor de la infraestructura ferroviaria, categoría estatal, Lanžhot st. hr. – Brno hl. n.,
-es SŽDC, s. o., con domicilio en Dlážděná 1003/7, Praha 1, CP 110 00, con base en la Autorización
-Administrativa emitida por el DÚ el 29 de mayo de 2008, n.º de expediente: 3-4277/07-DÚ/Le, n.º de registro: ÚP/2008/9002.
+El gestor de la infraestructura y el transportista cuentan con un sistema de
+garantía de seguridad adoptado en virtud de lo dispuesto en la Ley n.º 266/1994 Sb.
+En el sistema de garantía de seguridad adoptado por el gestor de la
+infraestructura SŽDC, relacionado con las circunstancias de la aparición de la
+MU en cuestión, no se detectó ninguna deficiencia. Se detectó una deficiencia
+en su cumplimiento.
+En el sistema de garantía de seguridad adoptado por el transportista ČD,
+relacionado con las circunstancias de la aparición de la MU en cuestión, no se
+detectó ninguna deficiencia.
+### 3.2.2 Requisitos aplicables al personal del gestor de la infraestructura y del
+transportista y su aplicación
+Los requisitos aplicables al personal del gestor de la infraestructura y del
+transportista, en particular los requisitos de idoneidad profesional y médica,
+están establecidos por la Ley n.º 266/1994 Sb., el Decreto n.º 173/1995 Sb., el
+Decreto n.º 101/1995 Sb., el Decreto n.º 16/2012 Sb. y las normas internas del
+gestor de la infraestructura y del transportista.
+En el momento de la aparición de la MU en cuestión, todas las personas del
+gestor de la infraestructura SŽDC involucradas en la MU que realizaban
+actividades en la explotación de la infraestructura y del transporte ferroviario
+eran profesionalmente idóneas para el desempeño de la función que ocupaban.
+En el momento de la aparición de la MU en cuestión, todas las personas del
+transportista ČD involucradas en la MU que realizaban actividades en la
+explotación del transporte ferroviario y de la infraestructura eran
+profesionalmente idóneas para el desempeño de la función que ocupaban.
+### 3.2.3 Procedimiento de control interno de seguridad y sus resultados
+En el procedimiento de control interno de seguridad del gestor de la
+infraestructura y del transportista no se detectaron deficiencias.
+### 3.2.4 Interfaz entre los distintos sujetos implicados y los componentes de la
+vía de circulación
+El propietario de la vía férrea, categoría nacional, Lanžhot st. hr. – Brno hl. n.,
+es la República Checa. La función de propietario la desempeña la Administración
+de la Vía de Circulación Ferroviaria, organización estatal, con domicilio en
+Dlážděná 1003/7, Praha 1, PSČ 110 00.
+El gestor de la infraestructura de la vía férrea, categoría nacional, Lanžhot
+st. hr. – Brno hl. n., es SŽDC, s. o., con domicilio en Dlážděná 1003/7, Praha 1,
+PSČ 110 00, en virtud de la Autorización Administrativa emitida por el DÚ el
+29. 5. 2008, n.º de expediente: 3-4277/07-DÚ/Le, n.º de registro: ÚP/2008/9002.
 
 ## Página 25
 
 El transportista del tren Os 4421 era ČD, a. s., con domicilio en Nábřeží L. Svobody 1222,
 Praha 1, PSČ 110 15, en virtud de la Licencia de transportista concedida por decisión de la DÚ el 29. 5.
-2008, č. j.: 3-2169/03-DÚ/Bp, ev. č.: L/2003/9000.
-El transportista era titular del Certificado de transportista, emitido por la DÚ el 2. 3. 2011, č. j.:
-DUCR-2366/10/Pd, ev. č.: OSD/2008/028, con validez hasta el 25. 3. 2013.
-El transporte ferroviario se prestaba en virtud del contrato «SMLOUVA číslo 001/09
-o provozování drážní dopravy na železniční dopravní cestě celostátní dráhy a regionálních
-drah ve vlastnictví České republiky» (Contrato núm. 001/09 de explotación del transporte
-ferroviario en la vía de tráfico ferroviario de la red ferroviaria estatal y de las redes
-ferroviarias regionales en propiedad de la República Checa), celebrado entre el explotador
-de la vía y el transportista el 30. 6. 2009, con efectos desde el 1. 7. 2009, en su versión vigente.
+2008, n.º de expediente: 3-2169/03-DÚ/Bp, n.º de registro: L/2003/9000.
+El transportista era titular del Certificado de transportista, emitido por la DÚ el 2. 3. 2011, n.º de expediente:
+DUCR-2366/10/Pd, n.º de registro: OSD/2008/028, con vigencia hasta el 25. 3. 2013.
+El transporte ferroviario se prestaba en virtud del contrato «CONTRATO número 001/09
+sobre la prestación de transporte ferroviario en la vía de transporte ferroviario de la red ferroviaria de ámbito estatal y de las vías regionales
+en propiedad de la República Checa», celebrado entre el gestor de la vía y el transportista
+el 30. 6. 2009, con efectos a partir del 1. 7. 2009, en su versión vigente.
 En la interfaz entre los sujetos implicados no se detectó ninguna deficiencia.
 ## 3.3
 ### Regulación jurídica y de otro tipo
-### 3.3.1 Normativa jurídica comunitaria y nacional aplicable
-En la investigación del MU se constató el incumplimiento de las siguientes normas jurídicas:
-§ 22 odst. 1 písm. a) de la ley núm. 266/1994 Sb.:
+### 3.3.1 Normas jurídicas comunitarias y nacionales aplicables
+En la investigación del MU se constató la infracción de las siguientes normas jurídicas:
+§ 22 apartado 1 letra a) de la Ley núm. 266/1994 Sb.:
 •
-«(1) El explotador de la vía está obligado a
-a) explotar la vía para las necesidades del transporte ferroviario fluido y seguro
-conforme a las normas de explotación de la vía y a la autorización administrativa,»;
-§ 22 odst.  písm. d) de la ley núm. 266/1994 Sb.:
+«(1) El gestor de la vía está obligado
+a) a explotar la vía para las necesidades del transporte ferroviario fluido y seguro de acuerdo con
+las normas de explotación de la vía y la autorización administrativa,»;
+§ 22 apartado  letra d) de la Ley núm. 266/1994 Sb.:
 •
-«(2) El explotador de la vía estatal o de la vía regional está además obligado a
-d) implantar un sistema de garantía de la seguridad de la explotación de la vía y
-a garantizar su cumplimiento,»;
-§ 49 odst. 3 písm. b) de la ley núm. 266/1994 Sb.:
+«(2) El gestor de la vía de ámbito estatal o de la vía regional está además obligado
+d) a implantar un sistema de garantía de la seguridad de la explotación de la vía y a garantizar su
+cumplimiento,»;
+§ 49 apartado 3 letra b) de la Ley núm. 266/1994 Sb.:
 •
-«(3) El explotador de la vía y el transportista están obligados a
-b) asegurar el lugar del suceso excepcional y realizar la documentación del estado
-en el momento de producirse el suceso excepcional,
-§ 9 odst. 3 del decreto núm. 376/2006 Sb.:
+«(3) El gestor de la vía y el transportista están obligados
+b) a asegurar el lugar del suceso excepcional y a documentar el estado en el momento de producirse
+el suceso excepcional,
+§ 9 apartado 3 del decreto núm. 376/2006 Sb.:
 •
-«(3) Los cambios del estado original en el lugar del MU son admisibles hasta la llegada de los
-órganos actuantes en el procedimiento penal y del empleado de la Inspección Ferroviaria
-únicamente con el consentimiento del jefe de la intervención de los servicios del sistema
-integrado de rescate. Si estas personas no intervienen, los cambios del estado original en
-el lugar del MU son admisibles con el consentimiento de la persona autorizada por el
-explotador de la vía o por el transportista …, cuando se trate de la realización de
-trabajos de rescate, o de conformidad con lo dispuesto en las normas jurídicas
-especiales...»;
-
+«(3) Las modificaciones del estado original en el lugar del MU son admisibles hasta la llegada de los órganos
+de la instrucción penal y del empleado de la Inspección Ferroviaria únicamente con el consentimiento del jefe
+de la intervención de los servicios del sistema integrado de protección. Si estas personas no intervienen,
+las modificaciones del estado original en el lugar del MU son admisibles con el consentimiento de la persona
+autorizada por el gestor de la vía o por el transportista …, cuando se trate de la realización de trabajos de salvamento,
+o de conformidad con lo dispuesto en las normas jurídicas especiales...»;
 
 ## Página 26
+
 
 3.3.2 Otras normas, p. ej., reglamento de explotación, reglamento de trabajo, normas de
 mantenimiento, normas técnicas vigentes y otras normas internas
@@ -924,8 +925,8 @@ ferroviario, cuando se trate de la realización de trabajos de rescate, o de con
 con lo dispuesto en las normas jurídicas especiales...».
 En la investigación del MU se constató el incumplimiento de las normas internas del explotador de la vía.
 
-
 ## Página 27
+
 
 ## 3.4
 ### Funcionamiento de los vehículos ferroviarios y de los equipos técnicos
@@ -969,8 +970,8 @@ Otras circunstancias sobre las pruebas de verificación realizadas y sobre la re
 del estado del cierre de lengüeta como componente de la vía se indican en el capítulo 4.2.1
 de este informe.
 
-
 ## Página 28
+
 
 Los componentes de la vía guardaban relación causal con la producción del MU.
 ### 3.4.3 Medios de comunicación
@@ -1021,8 +1022,8 @@ a las 4:55:12 h el tren se detuvo desde una velocidad de 30 km.h-1 en una vía d
 •
 en 9 s;
 
-
 ## Página 29
+
 
 el tren no superó la velocidad durante la marcha y el maquinista operó
 •
@@ -1060,6 +1061,7 @@ núm. 266/1994 Sb. y el decreto núm. 376/2006 Sb.
 Tras la llegada de los trabajadores de la DI a la DK de la est. Brno hl. n., se constató que:
 
 ## Página 30
+
 
 – en el libro "Entrega de servicio – estado de los contadores de maniobra" el 6. 3. 2014 a las 17:30 h
 indicado en "Señal de llamada 3L" el número 23666;
@@ -1107,98 +1109,58 @@ descanso previo al turno de 24:20 h;
 
 ## Página 31
 
-• señalero de la St 4 de la est. Brno hl. n., en el turno del 6. 3. 2014 desde las 17:45 h, descanso previo
-al turno de 35:50 h;
-• jefe del centro operativo de Brno hl. n., en el turno del 6. 3. 2014 desde las 22:00 h,
+operador de señales St 4 de la estación Brno hl. n., en el turno del 6 de marzo de 2014 desde las 17:45 h, descanso previo al
+•
+turno de 35:50 h;
+jefe del centro de explotación de Brno hl. n., en el turno del 6 de marzo de 2014 desde las 22:00 h,
+•
 descanso previo al turno de 12:00 h;
-• operador del vehículo especial ferroviario SVP-74, en el turno del 6. 3. 2014 desde las 22:00 h,
+maquinista del vehículo especial ferroviario SVP-74, en el turno del 6 de marzo de 2014 desde las 22:00 h,
+•
 descanso previo al turno de 8:00 h.
 Los empleadores garantizaron las condiciones para el descanso previo al turno y durante el turno
-de conformidad con el § 90 de la ley n.º 262/2006 Sb., respectivamente el § 14 apartado 2 del decreto del gobierno n.º 589/2006
-Sb., por el que se establece la regulación diferenciada de la jornada laboral y del tiempo de descanso de los empleados
-en el transporte.
-
-3.6.2 Estado de salud y situación personal que influyeron en el suceso extraordinario,
+de conformidad con el § 90 de la Ley núm. 262/2006 Sb., respectivamente el § 14 apartado 2 del decreto gubernamental núm. 589/2006
+Sb., por el que se establece la regulación excepcional de la jornada laboral y del tiempo de descanso de los empleados
+del transporte.
+3.6.2 Estado de salud y situación personal que influyeron en el suceso excepcional,
 incluido el estrés físico o psicológico
-Los empleados implicados del explotador ferroviario y del transportista estaban, en el momento de la producción del MU,
-médicamente aptos para el desempeño de la función que ocupaban. La investigación no determinó que en su producción
-influyera la situación personal o el estado psicológico de las personas implicadas en el MU.
-Los empleados del explotador ferroviario y del transportista se sometían a revisiones
-médicas periódicas de conformidad con lo dispuesto en el decreto n.º 101/1995 Sb. No se detectaron
-estados de salud ni situaciones personales que pudieran haber influido en la producción del MU, incluido el estrés
+Los empleados participantes del gestor de la vía y del transportista se encontraban, en el momento de producirse el SE,
+apto desde el punto de vista médico para el desempeño de la función que desempeñaban. La investigación no determinó que
+en su producción hubiera influido la situación personal o el estado psicológico de las personas participantes en el SE.
+Los empleados del gestor de la vía y del transportista se sometían a
+reconocimientos médicos periódicos de conformidad con lo dispuesto en la disposición núm. 101/1995 Sb. No se detectaron
+estados de salud ni situaciones personales que pudieran haber influido en la producción del SE, incluido el estrés
 físico y psicológico.
-
-3.6.3 Disposición y equipamiento del puesto de mando o del vehículo que influye en su
-control y uso
-La disposición y el equipamiento del puesto de trabajo de los empleados del explotador ferroviario y del transportista
-no guardaron relación con la producción del MU.
-
+3.6.3 Disposición del equipamiento del puesto de mando o del vehículo que influye en su
+manejo y utilización
+La disposición y el equipamiento del puesto de trabajo de los empleados del gestor de la vía y del transportista
+no guardaban relación con la producción del SE.
 ## 3.7
-### Sucesos extraordinarios anteriores de carácter similar
-No consta en el DI ningún MU similar.
-
+### Sucesos excepcionales anteriores de carácter similar
+No consta en el DI ningún SE similar.
 ### 4 ANÁLISIS Y CONCLUSIONES
 ## 4.1
-### Descripción final del suceso extraordinario
-### 4.1.1 Descripción final del suceso extraordinario basada en los hechos
-constatados en el punto 3
-El 7. 3. 2014 a las 4:55 h, con la entrada del tren Os 4421 en la est. Brno hl. n., se produjo en
-la aguja n.º 140 el descarrilamiento del coche de mando situado a la cabeza de dicho tren con todos sus ejes. El tren Os
-4421 entraba por la SK n.º 3a a través de la aguja n.º 140 en la SK n.º 11k. El descarrilamiento del tren fue
-causado por una "carrera de horquilla" en la aguja n.º 140, por la que entraba en la SK n.º 11k contra
-la aguja. La "carrera de horquilla" se debió a los trabajos de intervención nocturnos anteriores, cuando durante
+### Descripción final del suceso excepcional
+### 4.1.1 Descripción final del suceso excepcional basada en los hechos constatados
+en el punto 3
+El 7 de marzo de 2014 a las 4:55 h, con la entrada del tren Os 4421 en la estación Brno hl. n., se produjo en
+el desvío núm. 140 el descarrilamiento del coche de mando que encabezaba dicho tren, con todos sus ejes. El tren Os 4421
+entraba por la vía SK núm. 3a a través del desvío núm. 140 hacia la vía SK núm. 11k. El descarrilamiento del tren se
+debió a una «circulación en punta de riel» en el desvío núm. 140, por el que entraba en la vía SK núm. 11k contra
+la aguja. La «circulación en punta de riel» se produjo a causa de los trabajos de vía nocturnos anteriores, cuando en
 
 ## Página 32
 
-el trabajo del SVP-74, que con sus abrazaderas hidráulicas se sujetaba en la zona de cambio de esta
-aguja, se produjo un alejamiento forzado e indebido de la lengüeta izquierda del soporte, el gancho de bloqueo permaneció
-en posición levantada, apoyándose en el talón interior del riel izquierdo, e impidió así
-que la lengüeta izquierda se ajustara al soporte. Esta posición de la lengüeta izquierda, que es incorrecta
-cuando la aguja n.º 140 está conmutada a la SK n.º 11k, causó la carrera de horquilla y, con ello, el descarrilamiento del ŘDV.
-La SZZ no registró este estado y permitió el establecimiento de la ruta de tren con la operación normal.
-La primera huella tras el descarrilamiento, el punto "0", se encontraba en el km 142,949, la cabeza del tren se detuvo en el km
-142,976, es decir, 27 m por detrás del lugar de producción del MU.
-
+trabajo de la SVP-74, que con sus abrazaderas hidráulicas se fijaba en la parte de cambio de esta aguja, se produjo una separación forzada e indebida de la lengüeta izquierda del soporte, el gancho de cierre permaneció en posición levantada, apoyándose en el talón interior del riel izquierdo, e impidiendo así que la lengüeta izquierda se ajustara al soporte. Esta posición de la lengüeta izquierda, que es incorrecta al colocar la aguja n.º 140 en la SK n.º 11k, provocó una circulación en horquilla y, por tanto, el descarrilamiento del ŘDV. El SZZ no registró esta situación y permitió la formación de la vía de tren con servicio normal. La primera huella tras el descarrilamiento, el punto "0", se encontraba en el km 142,949, la cabeza del tren se detuvo en el km 142,976, es decir, 27 m más allá del lugar de origen del MU.
 ## 4.2
 ### Análisis
-### 4.2.1 Evaluación de los hechos constatados según el punto 3 y exposición de las conclusiones sobre la causa
-del suceso extraordinario y la actuación de los servicios de rescate
-La excavación del punto fangoso entre las agujas n.º 139 y n.º 140 no fue establecida
-en la orden de intervención, el OZOV no solicitó la desconexión de la tensión de la línea de contacto y esta permaneció
-conectada durante todo el tiempo de trabajo sobre el lugar de trabajo del SVP-74. Este hallazgo es contrario
-a lo dispuesto en el capítulo 3 letra a) del Anexo VI/1 de la norma SŽDC (ČD) S 8/3, en relación con
-lo dispuesto en el § 22 apartado 1 letra a) de la ley n.º 266/1994 Sb.
-La tecnología de trabajo de excavación se eligió de modo que el SVP-74 empujaba el vagón de remolque con
-el suelo extraído delante de sí, en dirección desde la aguja n.º 139 hacia la aguja n.º 140, que
-permaneció durante toda la intervención conmutada a la SK n.º 13k. Al iniciar la excavación, el SVP-74 estaba fuera
-de la zona de cambio de la aguja n.º 140, pero durante el trabajo se desplazó hasta dicho lugar. En
-todo el recorrido de la excavación, el SVP-74 se sujetaba a las cabezas de los raíles mediante sus propias abrazaderas
-hidráulicas. En la zona de cambio de la aguja n.º 140 se sujetaba de modo que en el lado izquierdo de la aguja las
-abrazaderas se sujetaban entre el soporte izquierdo y su lengüeta desviada, y ello en la cabeza del soporte.
-La investigación del DI determinó que ningún procedimiento tecnológico del explotador ferroviario aborda ni
-prohíbe el sujeción de la máquina de trabajo SVP-74 a los raíles mediante el dispositivo de sujeción en
-la zona de cambio de la aguja, ni en otros lugares donde con ello pueda producirse el daño de componentes
-ferroviarios. Tras finalizar el trabajo y liberar las abrazaderas del dispositivo de sujeción, estas abrazaderas, en
-su movimiento hacia arriba a la posición de transporte, se engancharon en la lengüeta, la empujaron hasta una
-apertura de 240 mm. Con ello, el gancho de bloqueo del cierre de mordaza se levantó por encima del
-muesco del listón de bloqueo, se produjo el paso del gancho por debajo del talón del soporte y su encaje
-entre la lengüeta y el soporte. Tras
-la salida del SVP-74 de la aguja y la liberación de su lengüeta, esta volvió parcialmente
-a un valor de apertura de 200 mm, pero como el gancho de bloqueo en posición levantada se apoyaba en el talón interior
-del soporte izquierdo, la lengüeta izquierda permaneció desviada.
-
-En la inspección visual, con la aguja iluminada por la iluminación fija de la estación, el OZOV
-no vio ningún defecto en la aguja, también en consideración al sentido hacia el que estaba conmutada, y fue
-por tanto a la St 4, donde hizo que el señalero conmutara experimentalmente la aguja n.º 140
-en ambos sentidos. La SZZ en la St 4 indicó la conmutación correcta de la aguja hasta
-las posiciones finales, y por ello a continuación anotó a las 4:00 h en el cuaderno telefónico la
-solicitud de finalización de la intervención, confirmó la libertad de vías y agujas
-y su transitable sin limitaciones, y la intervención fue finalizada a esta hora.
-Este hallazgo es contrario a lo dispuesto en el artículo 82 de la norma SŽDC S8
-y a lo dispuesto en el artículo 3636 de la norma SŽDC D1, en relación con lo dispuesto en el § 22 apartado 1
-letra a) de la ley n.º 266/1994 Sb.
+### 4.2.1 Evaluación de los hechos constatados según el punto 3 y formulación de conclusiones sobre la causa del suceso excepcional y la actuación de los servicios de rescate
+La excavación del lugar fangoso entre las agujas n.º 139 y n.º 140 no fue establecida en la orden de corte de tráfico, el OZOV no solicitó la desconexión de la tensión de la línea de contacto y esta permaneció conectada durante todo el tiempo de trabajo sobre el lugar de trabajo de la SVP-74. Este hallazgo es contrario a lo dispuesto en el cap. 3 letra a), Anexo VI/1 de la norma SŽDC (ČD) S 8/3, en relación con lo dispuesto en el § 22 apartado 1 letra a) de la ley n.º 266/1994 Sb.
+La tecnología de trabajo de excavación se eligió de manera que la SVP-74 empujaba el vagón de remolque con el suelo extraído delante de sí, en dirección desde la aguja n.º 139 hacia la aguja n.º 140, que durante todo el tiempo del corte de tráfico estaba colocada en la SK n.º 13k. Al iniciar la excavación, la SVP-74 se encontraba fuera de la parte de cambio de la aguja n.º 140, pero durante el trabajo se trasladó hasta este lugar. A lo largo de toda la trayectoria de excavación, la SVP-74 se fijaba a las cabezas de los raíles mediante sus propias abrazaderas hidráulicas. En la parte de cambio de la aguja n.º 140 se fijaba de manera que en el lado izquierdo de la aguja los rodillos de sujeción quedaban apretados entre el soporte izquierdo y su lengüeta desviada, y esto por la cabeza del soporte. La investigación del DI constató que ningún procedimiento tecnológico del operador de la vía resuelve ni prohíbe la fijación de la máquina de trabajo SVP-74 a los raíles mediante el dispositivo de sujeción en la parte de cambio de la aguja, ni en otros lugares donde con ello pueda producirse daños en los componentes de la vía. Tras finalizar el trabajo y liberar los rodillos del dispositivo de sujeción, estos rodillos, en su movimiento hacia arriba hasta la posición de transporte, se engancharon en la lengüeta, la desplazaron hasta una apertura de 240 mm. En ese momento, el gancho de cierre del cierre de mandíbula se levantó por encima del corte de la regleta de bloqueo, se produjo el paso del gancho por debajo del talón del soporte y su encaje entre la lengüeta y el soporte. Tras la salida de la SVP-74 de la aguja y la liberación de su lengüeta, esta volvió parcialmente a un valor de apertura de 200 mm, pero como el gancho de cierre en posición levantada se apoyaba en el talón interior del soporte izquierdo, la lengüeta izquierda permaneció desviada.
+En la inspección visual, con la aguja iluminada por la iluminación fija de la estación, el OZOV no vio ningún defecto en la aguja, también en relación con la dirección en la que había sido colocada, y por lo tanto fue al St 4, donde hizo que el señalero colocara la aguja n.º 140 a prueba en ambas direcciones. El SZZ en el St 4 indicó la correcta colocación de la aguja hasta las posiciones finales, y por lo tanto posteriormente anotó a las 4:00 h en el cuaderno telefónico la solicitud de finalizar el corte de tráfico, confirmó la libertad de vías y agujas y su transitable sin limitaciones, y el corte de tráfico fue finalizado a esta hora. Este hallazgo es contrario a lo dispuesto en el art. 82 de la norma SŽDC S8 y a lo dispuesto en el art. 3636 de la norma SŽDC D1, en relación con lo dispuesto en el § 22 apartado 1 letra a) de la ley n.º 266/1994 Sb.
 
 ## Página 33
+
 
 Tras la finalización de la intervención, se realizó a través de la aguja n.º 140 primero
 una maniobra de la unidad de maniobras en la SK n.º 13k, que transcurrió sin incidencias, porque para esta
@@ -1232,23 +1194,13 @@ de producción de otro MU por causas similares.
 
 ## Página 34
 
-Fig. n.º 3: Esquema simplificado del cierre de gancho – planta                      Fuente: cs.wikipedia.org
-La construcción del cierre de gancho se compone de dos ganchos unidos con pernos verticales
-a las lengüetas unidas por una barra, que en un extremo está prolongada hasta el conmutador. Al
-conmutar, primero se desvía el gancho de la mordaza de sujeción, con lo que se libera la lengüeta y esta se
-desplaza a la posición desviada. La otra lengüeta se ajusta simultáneamente al soporte y después el gancho
-se encaja detrás de la mordaza de sujeción. El cierre de gancho es cortable, lo que significa que el vehículo que circula
-por el sentido incorrecto conmuta por debajo la aguja sin dañarlo.
-
-Fig. n.º 4: Esquema del cierre de mordaza                                                           Fuente: AŽD Praha s.r.o.
-La construcción del cierre de mordaza se compone, entre otros elementos, de un listón de bloqueo
-provisto de muescas, en las que encajan los ganchos de bloqueo. Al conmutar, empieza a
-moverse el listón de bloqueo hasta que el extremo ensanchado del gancho de bloqueo encaja en la muesca. Después, a
-través de dicho gancho de bloqueo, la lengüeta se aleja del soporte. Simultáneamente, la otra lengüeta se ajusta al soporte, después con otro movimiento del listón de bloqueo
-se empuja el extremo del gancho de bloqueo hacia arriba, de modo que se engancha en el talón del raíl y con ello
-impide el desvío de la lengüeta.
+Fig. n.º 3: Esquema simplificado del enganche de gancho - planta Fuente: cs.wikipedia.org
+La construcción del enganche de gancho se compone de dos ganchos fijados mediante ejes verticales a las lenguas unidas por una varilla, que en un extremo está prolongada hasta el conmutador. Al conmutar, primero se desvía el gancho de la mandíbula de cierre, con lo que se libera la lengua y ésta se desplaza a la posición alejada. La segunda lengua se aprieta simultáneamente contra el apoyo y a continuación el gancho se engancha tras la mandíbula de cierre. El enganche de gancho es seccionable, es decir, que el vehículo que circula en sentido incorrecto conmuta la aguja por debajo de sí mismo sin que ésta resulte dañada.
+Fig. n.º 4: Esquema del enganche de mandíbula Fuente: AŽD Praha s.r.o.
+La construcción del enganche de mandíbula se compone, entre otros elementos, de un listón de bloqueo provisto de huecos, en los que encajan los ganchos de enganche. Al conmutar, comienza a moverse el listón de bloqueo hasta que el extremo ensanchado del gancho de enganche encaja en el hueco. A continuación, por medio de este gancho de enganche, la lengua es apartada del apoyo. Simultáneamente, la segunda lengua es atraída hacia el apoyo; después, con un movimiento adicional del listón de bloqueo, el extremo del gancho de enganche es empujado hacia arriba, de modo que se engancha en el talón del carril y con ello impide el alejamiento de la lengua.
 
 ## Página 35
+
 
 1) Ensayo de verificación n.º 1 – aguja n.º 140 en la estación de Brno hl. n., el día 31. 3. 2014 de 20:30 h a 22:10 h:
 En este EV se utilizó la máquina SVP-74, que se fijaba en la aguja también antes de la aparición de la MU. Antes de iniciar el EV propiamente dicho se realizó una comprobación del estado básico de la aguja en ambas posiciones, la separación de las lenguas (separación de la lengua izquierda de 170 mm), la prueba de enclavamiento, la indicación en St 4, los reglones de control del accionador eléctrico – todo correcto.
@@ -1261,6 +1213,7 @@ Resultados breves de los demás ensayos de verificación:
 
 ## Página 36
 
+
 • Ensayo de verificación n.º 3 – aguja n.º 19 de forma J S49 1:12-500 con cierre de mordazas y aguja n.º 21 de forma J S49 1:12-500 con cierre de mordazas en la estación de Brno hl. n. – el cambio forzado de la lengua curvada a una posición no funcional en la aguja n.º 19 con una separación de la lengua más cercana al accionador de 178 mm se logró en este EV; el cambio forzado de la lengua recta a una posición no funcional en la aguja n.º 21 con una separación de la lengua más cercana al accionador de 165 mm no se logró en este EV;
 • Ensayo de verificación n.º 4 – aguja n.º 19 de forma J S49 1:12-500 con cierre de mordazas en la estación de Brno hl. n. – en comparación con el EV n.º 3, en este EV se redujo en la aguja n.º 19 la separación de la lengua más cercana al accionador al valor de 164 mm. El cambio forzado de la lengua a una posición no funcional no se logró en este EV;
 • Ensayo de verificación n.º 5 – agujas n.º 1, 2 y 3 de forma J 60 1:18,5-1200, equipadas con un accionador no seccionable, un sensor de posición de las lenguas y un cierre de mordazas principal y dos auxiliares, en la estación de Modřice, y agujas n.º 603, 604 y 605 de forma J 60 1:14-760, equipadas con un accionador no seccionable, dos sensores de posición de las lenguas y un cierre de mordazas principal y dos auxiliares, en la estación de Brno-Horní Heršpice – el cambio forzado de las lenguas a una posición no funcional no se logró en este EV;
@@ -1271,6 +1224,7 @@ El fabricante del cierre de mordazas VZ 200 propuso dos formas de modificarlo:
 2) instalación de un tope (cubo de metal montado en la varilla de enclavamiento), que impide el movimiento completo de la varilla de enclavamiento desde la posición adyacente de la lengua más alejada del accionador a la posición alejada cuando el gancho salta por encima del talón del soporte más cercano al accionador (el problema detectado se refiere siempre únicamente a la lengua más cercana al accionador) – de este modo se impide la consecución de la indicación de la posición final de las lenguas de la aguja en el SZZ al cambiar la aguja tras el salto forzado del gancho de la lengua en el lado del accionador.
 
 ## Página 37
+
 
 De los ensayos de verificación realizados se desprende, entre otras cosas:
 • no se logró el cambio forzado de la lengua a una posición no funcional en la aguja de cruce con cierre de mordazas ni en la aguja con cierre de gancho;
@@ -1293,6 +1247,7 @@ La causa fundamental del suceso excepcional fue:
 
 ## Página 38
 
+
 ### 4.3.3 Causas debidas al marco normativo y al uso del sistema de garantía de la seguridad
           Las causas del suceso excepcional debidas al marco normativo y al uso del sistema de seguridad fueron:
 • no se detectaron DI.
@@ -1313,6 +1268,7 @@ El operador ferroviario emitió, tras la aparición de la MU, las siguientes med
 El transportista no adoptó ni emitió ninguna medida.
 
 ## Página 39
+
 
 El fabricante del cierre de lengüeta para MU, en interés de aumentar la seguridad, propuso al gestor de la infraestructura una solución que:
 1) impida el paso del gancho por debajo de la base del soporte y su salto por encima de la misma;
@@ -1336,32 +1292,29 @@ inspector superior
 Delegación Territorial de Brno
 Delegación Territorial de Brno
 
-
 ## Página 40
 
 ### ANEXOS
-
-Fig. n.º 5: Lengüeta izquierda del cambio n.º 140 más cercana al aparato de cambio en posición incorrecta al establecer el cambio en la SK n.º 11k tras el MU. 1 - separación de 200 mm, 2 - gancho de cierre saltado apoyado en el borde interior de la base del soporte                                                                        Fuente: Inspección Ferroviaria
-
+Fig. n.º 5: Lengua izquierda de la aguja n.º 140 más cercana al aparato de maniobra en posición incorrecta al colocar la aguja en PK n.º 11k tras MU. 1 - apertura de 200 mm, 2 – gancho de cierre saltado apoyado sobre el borde interno del pie del soporte                                                                        Fuente: Inspección Ferroviaria
 
 ## Página 41
 
-Fig. n.º 6: Lengüeta derecha del cambio n.º 140 en posición correcta al establecer el cambio en la SK n.º 11k tras el MU. 1 - separación de 165 mm, 2 - gancho de cierre en posición correcta bajo la base del soporte                                                                                                        Fuente: Inspección Ferroviaria
 
+Fig. n.º 6: Lengüeta derecha del cambio n.º 140 en posición correcta al establecer el cambio en la SK n.º 11k tras el MU. 1 - separación de 165 mm, 2 - gancho de cierre en posición correcta bajo la base del soporte                                                                                                        Fuente: Inspección Ferroviaria
 
 ## Página 42
 
-Fig. n.º 7: Lengüetas del cambio n.º 140 tras la realización del ensayo de verificación n.º 1, al accionar el cambio la posición de las lengüetas es la misma que la que había cuando se produjo el MU                                                                                     Fuente: Inspección Ferroviaria
-Fig. n.º 8: Extractor de traviesas mecánico SVP-74 con remolque                                                                                     Fuente: Inspección Ferroviaria
-
+Fig. n.º 7: Lenguas de la aguja n.º 140 tras la realización del ensayo de verificación n.º 1, al accionar la aguja la posición de las lenguas es la misma que la que había cuando se produjo el MU                             Fuente: Inspección Ferroviaria
+Fig. n.º 8: Extractor de traviesas SVP-74 con remolque                             Fuente: Inspección Ferroviaria
 
 ## Página 43
+
 
 Fig. n.º 9:  Prensas hidráulicas SVP-74                                                                                      Fuente: Inspección Ferroviaria
 Fig. n.º 10: Detalle de la prensa hidráulica SVP-74                                                                                     Fuente: Inspección Ferroviaria
 
-
 ## Página 44
+
 
 Fig. n.º 11: Detalle del OP n.º 7 - cabeza alargada del gancho (modificación para las pruebas)
                                                                                                                       Fuente: Inspección Ferroviaria

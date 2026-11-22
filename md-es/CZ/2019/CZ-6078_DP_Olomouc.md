@@ -10,13 +10,14 @@ chars: 127689
 ratio_longitud: 1.14
 tokens_in: 69214
 tokens_out: 49698
-verificacion: revisar
-notas_cifras: ["bloque 2: original bilingüe: se compara contra el idioma principal (PT); cifras cortas: 202/202", "bloque 3: original bilingüe: se compara contra el idioma principal (CS)", "bloque 4: cifras cortas: 1/148", "bloque 10: cifras cortas: 1/136"]
-avisos: ["bloque 2: marcadores de página: 4 vs 0; cifras largas: faltan 37/37 (100%); ratio 0.01", "bloque 3: ratio 1.64"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 3: original bilingüe: se compara contra el idioma principal (CS)", "página 4: original bilingüe: se compara contra el idioma principal (CS)", "página 8: original bilingüe: se compara contra el idioma principal (EN)", "página 9: original bilingüe: se compara contra el idioma principal (PT)", "página 12: original bilingüe: se compara contra el idioma principal (PT)"]
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -43,13 +44,13 @@ IČ:   75009561
 mail@dicr.cz
 tel.: +420 736 521 003
 
-
 ## Página 2
+
 
 Este informe final es público y todos los hechos en él recogidos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ## 1 RESUMEN
                                        Fuente: Drážní inspekce
@@ -76,8 +77,8 @@ conductor del vehículo motor de carretera estacionado.
 Consecuencias:
 daño total 1 300 Kč.
 
-
 ## Página 4
+
 
 Causa inmediata de la circulación no asegurada (espontánea) del material rodante:
 no aseguramiento del material rodante contra el movimiento por medio de la freno de disco
@@ -121,14 +122,14 @@ la adopción de una medida propia que garantice que:
 corresponda a la ejecución según las condiciones técnicas «TP 6-07-EVO1-01/06-DPMO»
 del vehículo de tranvía motor de un tramo, unidireccional, sin barreras EVO 1, respectivamente «TP 6-07-EVO1-01/03-DPMO» del vehículo de tranvía motor de un tramo, bidireccional, sin barreras EVO 1/O, vigentes desde el 10. 5. 2017, se hayan realizado modificaciones en la conexión de los interruptores automáticos FA11 y FA13 y en la conexión del mando de los frenos electromagnéticos de riel de adherencia nula de modo que estos frenos puedan activarse también con el mando desactivado (con la condición de que las baterías del vehículo estén activadas);
 
-
 ## Página 5
+
 
 ◦todos los material rodante de la serie de tipo EVO (EVO 1 y EVO 2) estén equipados, para el caso de que no se produzca el efecto de frenado correspondiente del freno de disco mecánico-electrohidráulico para detener el material rodante y asegurarlo contra el movimiento, con medios mecánicos para asegurar los vehículos contra el movimiento,
 p. ej., cuñas de bloqueo.
 
-
 ## Página 6
+
 
 ## RESUMEN
 Clasificación:
@@ -180,8 +181,8 @@ Causa raíz de la circulación no asegurada (espontánea) y posteriormente incon
 la ausencia de un procedimiento para asegurar el material rodante detenido (estacionado)
 •
 
-
 ## Página 7
+
 
 contra el movimiento (movimiento espontáneo en el
 sentido de la pendiente) tras el fallo previo del
@@ -195,7 +196,154 @@ adoptar una medida propia que garantice:
 
 The request was rejected because it was considered high risk
 
+## Página 8
+
+# Índice
+1 RESUMEN........................................................................................................................3
+SUMMARY.............................................................................................................................6
+2 DATOS RELATIVOS AL SUCESO EXTRAORDINARIO................................................13
+2.1 Suceso extraordinario...............................................................................................13
+2.1.1 Fecha, hora exacta y lugar del suceso extraordinario........................................13
+2.1.2 Descripción del desarrollo del suceso extraordinario y del lugar de origen, incluida la actividad del sistema integrado de protección y del servicio de rescate.........................................................................................................13
+2.1.3 Decisión sobre el inicio de la investigación, composición del equipo de personas cualificadas para la investigación y forma de dirigir la investigación..................................................................................................................16
+2.2 Circunstancias del suceso extraordinario...................................................................17
+2.2.1 Empleados implicados, personas en relación contractual y demás implicados y testigos........................................................................................................................17
+2.2.2 Trenes y su composición, incluidos los números de registro de los distintos vehículos ferroviarios. 18
+2.2.3 Descripción de los componentes de la vía y del sistema de seguridad (es decir, en particular el estado de la vía, los desvíos, los aparatos de cambio, las señales y el dispositivo de seguridad ferroviaria).....................19
+2.2.4 Uso de los medios de comunicación.....................................................................20
+2.2.5 Trabajos realizados en el lugar y en sus alrededores.........................................20
+2.2.6 Activación del plan para el caso de un suceso extraordinario en la vía y de los procedimientos conexos.............................................................................................20
+2.2.7 Activación del plan del sistema integrado de protección, de los servicios de rescate policiales y sanitarios y de los procedimientos conexos.....................................21
+2.3 Fallecimientos, lesiones y daños causados....................................................................21
+2.3.1 En pasajeros y terceros, empleados del gestor de la vía y del transportista, incluidas personas en relación contractual...............................................................................21
+2.3.2 En las cosas transportadas, el equipaje y otros bienes.......................................21
+2.3.3 En los vehículos ferroviarios, los componentes de la vía y el medio ambiente.........................21
+2.4 Circunstancias externas..........................................................................................................21
+2.4.1 Condiciones meteorológicas y datos geográficos......................................................21
+3 REGISTRO DE LA INVESTIGACIÓN Y DE LAS EXPLICACIONES PRESENTADAS.......................................21
+3.1 Resumen de las explicaciones presentadas (sujeto a protección de la identidad de las personas).................................21
+3.1.1 Empleados del gestor de la vía y del transportista, incluidas personas en relación contractual.....................................................................................................................................21
+3.1.2 Otros testigos...........................................................................................................23
+3.2 Sistema de garantía de la seguridad................................................................................24
+3.2.1 Organización marco y forma de impartir y ejecutar instrucciones........................24
+3.2.2 Requisitos para los empleados del gestor de la vía y del transportista y aplicación de dichos requisitos........................................................................................................27
+3.2.3 Procedimientos de control interno de la seguridad y de auditoría y sus resultados........................27
+3.2.4 Interfaz entre los distintos sujetos implicados y los componentes de la vía de circulación de la vía............................................................................................................................28
+3.3 Regulación jurídica y de otro tipo...................................................................................................28
+3.3.1 Legislación nacional pertinente y normativa de la Unión Europea......................28
+3.3.2 Otras normas, p. ej., el reglamento de explotación, el reglamento laboral, las normas de mantenimiento, las normas técnicas aplicables y otras normas internas.....................................................................29
+3.4 Actividad de los vehículos ferroviarios y de otros dispositivos técnicos..........................................29
+3.4.1 Sistema de control, señalización y seguridad, incluido el dispositivo para la automática
+
+## Página 9
+
+registro de datos.....................................................................................................29
+3.4.2 Componentes de la vía....................................................................................29
+3.4.3 Dispositivos de comunicación e información.........................................................30
+3.4.4 Material rodante, incluidos los dispositivos de registro automático de datos..............30
+3.5 Documentación del sistema operativo........................................................................35
+3.5.1 Medidas adoptadas por el personal del gestor de la infraestructura y del transportista en lo que respecta 
+a la dirección y la seguridad del transporte..................................................................................35
+3.5.2 Intercambio de comunicaciones verbales en relación con el suceso ferroviario, incluidos los datos del 
+dispositivo de registro................................................................................................36
+3.5.3 Medidas adoptadas para la protección y la seguridad del lugar del suceso ferroviario..............36
+3.6 Condiciones laborales, sanitarias y operativas.................................................................38
+3.6.1 Jornada laboral del personal del gestor de la infraestructura y del transportista que participó 
+en el suceso ferroviario.....................................................................................38
+3.6.2 Estado de salud y situación personal que influyeron en el suceso ferroviario, 
+incluido el estrés físico o psicológico.................................................................38
+3.6.3 Disposición del equipamiento del puesto de mando o del material rodante que influye 
+en su control y utilización..........................................................................................39
+3.7 Sucesos ferroviarios anteriores de carácter similar.............................................39
+4 ANÁLISIS Y CONCLUSIONES.......................................................................................................39
+4.1 Descripción final del suceso ferroviario...........................................................................39
+4.1.1 Elaboración de las conclusiones sobre el suceso ferroviario basadas en los hechos 
+detectados en el punto 3......................................................................................................39
+4.2 Análisis.......................................................................................41
+4.2.1 Evaluación de los hechos detectados en el punto 3 y exposición de las conclusiones sobre la causa 
+del suceso ferroviario y la actuación de los servicios de emergencia....................................................41
+4.3 Conclusiones........................................................................................42
+4.3.1 Causas directas e inmediatas del suceso ferroviario, incluidos los factores que contribuyeron al mismo 
+y que estuvieron relacionados con la actuación de las personas implicadas o con el estado del material rodante 
+o de las instalaciones técnicas...............................................................................42
+4.3.2 Causas fundamentales relacionadas con la cualificación, los procedimientos y el mantenimiento.............................42
+4.3.3 Causas originadas en el marco jurídico y en el uso del sistema de garantía de la 
+seguridad..................................................................................................................43
+4.4 Hallazgos complementarios.......................................................................................................43
+4.4.1 Deficiencias y omisiones detectadas durante la investigación que no se refieren a las conclusiones 
+sobre las causas...................................................................................................................43
+5 MEDIDAS ADOPTADAS........................................................................................................44
+5.1 Lista de medidas que ya se han tomado o adoptado como consecuencia del suceso ferroviario
+.........................................................................................................................................44
+6 RECOMENDACIONES DE SEGURIDAD.....................................................................................45
+7 ANEXOS..........................................................................................................................47
+
+## Página 10
+
+## Lista de siglas y símbolos utilizados
+COP
+Centro central de notificación
+DI
+Inspección Ferroviaria
+DPMO, a. s.
+Dopravní podnik města Olomouce, a. s.
+DÚ
+Oficina Ferroviaria
+DV
+vehículo ferroviario, vehículos ferroviarios
+EDB 
+freno electrodinámico
+IZS
+sistema integrado de emergencia
+MMO-DSÚ 
+Ayuntamiento de Olomouc – autoridad administrativa ferroviaria
+MTV
+coche de tranvía motor
+MU
+incidencia
+PČR
+Policía de la República Checa
+SMV
+vehículo de motor de carretera
+TVL
+tren de tranvía
+ÚI
+Inspectorado Territorial
+VJŘ
+horario de circulación de vehículos
+ZZ                         Informe final sobre los resultados de la investigación de la incidencia
+
+## Página 11
+
+## Lista de abreviaturas de disposiciones legales, normas y reglamentos internos
+ley núm. 262/2006 Sb.
+ley núm. 262/2006 Sb., Código del Trabajo, en la redacción vigente en el momento de producirse el MU
+ley núm. 266/1994 Sb.
+ley núm. 266/1994 Sb., sobre ferrocarriles, en la redacción vigente en el momento de producirse el MU
+ley núm. 361/2000 Sb.
+ley núm. 361/2000 Sb., sobre la circulación en las vías públicas, en la redacción vigente en el momento de producirse el MU
+decreto núm. 16/2012 Sb.
+decreto núm. 16/2012 Sb., sobre la cualificación profesional de las personas que conducen vehículos ferroviarios y de las personas que realizan revisiones, inspecciones y ensayos de dispositivos técnicos designados, y sobre su modificación
+decreto del Ministerio de Transportes núm. 101/1995 Sb., por el que se aprueba el Reglamento sobre la aptitud sanitaria y profesional de las personas en la explotación de la vía y del transporte ferroviario, en la redacción vigente en el momento de producirse el MU
+decreto núm. 100/1995 Sb.
+decreto núm. 100/1995 Sb., por el que se establecen las condiciones para la explotación, construcción y fabricación de dispositivos técnicos designados y su concreción (Reglamento de dispositivos técnicos designados), en la redacción vigente en el momento de producirse el MU
+decreto núm. 101/1995 Sb.
+decreto núm. 101/1995 Sb., por el que se aprueba el Reglamento sobre la aptitud sanitaria de las personas en la explotación de la vía y del transporte ferroviario, en la redacción vigente en el momento de producirse el MU
+decreto núm. 173/1995 Sb.
+decreto núm. 173/1995 Sb., por el que se aprueba el Reglamento de circulación de los ferrocarriles, en la redacción vigente en el momento de producirse el MU
+decreto núm. 177/1995 Sb.
+decreto núm. 177/1995 Sb., por el que se aprueba el Reglamento de construcción y técnica de los ferrocarriles, en la redacción vigente en el momento de producirse el MU
+decreto núm. 376/2006 Sb.
+decreto núm. 376/2006 Sb., sobre el sistema de seguridad de la explotación de la vía y del transporte ferroviario y los procedimientos en caso de sucesos excepcionales en los ferrocarriles, en la redacción vigente en el momento de producirse el MU
+DPMO D1
+reglamento interno – directriz del explotador de la vía y del transporte ferroviario DPMO, a. s. «Reglamento de circulación D1 para la explotación de tranvías», núm. OS/01/2019, vigente desde el 1 de 3 de 2019, en la redacción vigente en el momento de producirse el MU
+DPMO 9/2006
+reglamento interno – directriz del explotador de la vía y del transporte ferroviario DPMO, a. s. «Determinación de sucesos excepcionales en el transporte ferroviario», núm. OS/9/2016, vigente desde el 1 de 11 de 2006, en la redacción vigente en el momento de producirse el MU
+Manual del conductor
+reglamento del fabricante del DV MTV tipo EVO 1/O_DPMO y reglamento interno del explotador de la vía y del transporte ferroviario
+
 ## Página 12
+
 
 DPMO, a. s. «Manual del conductor del tranvía tipo EVO1/O», de 
 agosto de 2018, en la versión vigente en el momento de producirse el SU
@@ -210,8 +358,8 @@ normativa del fabricante de la unidad de freno EVO de la firma DAKO-CZ, a. s.
 vigorosa desde el 19. 10. 2011, en la versión vigente en el momento de 
 producirse el SU
 
-
 ## Página 13
+
 
 ## 2 DATOS RELATIVOS AL SUCESO EXCEPCIONAL
 ### 2.1 Suceso excepcional
@@ -240,47 +388,19 @@ marcha no asegurada del DV TVL de la línea nº 2, servicio 1, en la que no se p
 la activación del freno de disco mecánico – electrohidráulico, que asimismo cumple la 
 función de freno de seguridad. La persona que conducía el DV (en adelante, conductor 
 del tranvía) detuvo el DV que marchaba hacia atrás de forma autónoma mediante la 
-activación del freno de emergencia. Tras la detención del DV 
-
+activación del freno de emergencia. Tras la detención del DV
 
 ## Página 14
 
-el conductor del tranvía apagó el mando y el DV volvió a ponerse en movimiento de 
-forma autónoma en la dirección de la pendiente de la vía. Continuó marchando hacia 
-atrás en estado de marcha no asegurada hasta la ladera noroeste de la plaza Žižkovo 
-náměstí, donde, en el espacio comprendido entre el cruce de las calles 1. máje y 
-Jiřího z Poděbrad y el poste indicador de la parada Žižkovo náměstí, se detuvo de 
-forma autónoma. Durante la marcha no asegurada, el DV TVL de la línea nº 2, servicio 
-1, colisionó con un SMV estacionado de la marca Iveco Daily 50C15/35 (en adelante 
-también Iveco Daily).
-Fig. 2: Inmediatamente después del TVL de la línea nº 2, servicio 1, se detuvieron 
-detrás del DV dos SMV. Mientras que el SMV blanco, situado inmediatamente detrás 
-del TVL, fue rodeado por el DV tras la producción del SU y continuó su marcha en 
-dirección a la plaza Republiky, el TVL colisionó, durante la marcha no asegurada 
-(autónoma), con el SMV estacionado en el refugio de la calle (en la parte derecha de 
-la captura).  
+el conductor del tranvía desactivó el control y el DV volvió a ponerse en movimiento de forma autónoma en la dirección de la pendiente de la vía. Continuó marchando hacia atrás de forma insegura hasta la ladera noroeste de la plaza Žižkovo náměstí, donde, en el espacio situado entre el cruce de las calles 1. máje y Jiřího z Poděbrad y el poste indicador de la parada Žižkovo náměstí, se detuvo de forma autónoma. Durante la marcha insegura, el DV TVL de la línea n.º 2, servicio 1, colisionó con un SMV estacionado de la marca Iveco Daily 50C15/35 (en adelante también Iveco Daily).
+Fig. n.º 2: Inmediatamente después de que el TVL de la línea n.º 2, servicio 1, se detuviera, había dos SMV detrás del DV. Mientras que el SMV blanco, situado inmediatamente detrás del TVL, fue rodeado por el DV tras la aparición de la MU y este continuó su marcha en dirección a la plaza Republiky, el TVL colisionó, durante la marcha insegura (autónoma), con el SMV estacionado en el refugio de la calle (en la parte derecha de la imagen).
                                          Fuente: PČR
-La DI no participó en la inspección del lugar del SU, ya que la decisión de iniciar la 
-investigación del SU se adoptó únicamente con posterioridad, el 5. 9. 2019, tras la 
-notificación demorada de su producción por parte del explotador de la vía y del 
-transportista DPMO, a. s. (véase el punto 2.1.3 de la presente II).
-La primera actuación efectivamente realizada por la DI en la investigación de este SU 
-fue el precinto del DV MTV tipo EVO 1/O_DPMO, n.º de registro 122 (en adelante 
-también EVO 1/O, n.º de registro 122), estacionado en el depósito de tranvías de 
-DPMO, a. s., en la vía nº 6, realizado el 10. 9. 2019. Posteriormente, el 18. 9. 2019, 
-la DI, con la participación de DPMO, a. s., y de representantes de las empresas 
-intervinientes en la fabricación del DV en cuestión, es decir, de las sociedades 
-DAKO-CZ, a. s., POLL, s. r. o., Pragoimex, a. s., y ŠKODA ELECTRIC, a. s., realizó 
-en el depósito de tranvías de DPMO, a. s., en la vía nº 6, la inspección del DV tipo 
-EVO 1/O, n.º de registro 122, en la que:
-mediante inspección exterior de la carrocería del DV se constató daño en la cubierta 
-•
-de la cámara del sistema de cámara exterior, situada en el lateral derecho de la 
-carrocería en el espacio situado sobre las primeras puertas de entrada de una hoja 
-corredizas;
-
+La DI no participó en la inspección del lugar de la MU, ya que la decisión de iniciar la investigación de la MU se adoptó únicamente con posterioridad, el 5. 9. 2019, tras la notificación tardía de su ocurrencia por parte del explotador de la vía y del transportista DPMO, a. s. (véase el punto 2.1.3 de la presente ZZ).
+La primera actuación realizada efectivamente por la DI en la investigación de esta MU fue el precinto del DV MTV tipo EVO 1/O_DPMO, n.º de inventario 122 (en adelante también EVO 1/O, n.º de inventario 122), estacionado en el depósito de tranvías de DPMO, a. s., en la vía n.º 6, realizado el 10. 9. 2019. Posteriormente, el 18. 9. 2019, la DI, con la participación de DPMO, a. s., y de representantes de las empresas que participaron en la fabricación del DV en cuestión, es decir, de las sociedades DAKO-CZ, a. s., POLL, s. r. o., Pragoimex, a. s., y ŠKODA ELECTRIC, a. s., realizó en el depósito de tranvías de DPMO, a. s., en la vía n.º 6, la inspección del DV tipo EVO 1/O, n.º de inventario 122, durante la cual:
+• mediante la inspección exterior de la carrocería del DV se detectó un daño en la cubierta de la cámara del sistema de cámara exterior, situada en el lateral derecho de la carrocería en el espacio situado sobre las primeras puertas de entrada de hoja única correderas;
 
 ## Página 15
+
 
 mediante inspección de los frenos de disco mecánicos – electrohidráulicos (en adelante 
 •
@@ -343,8 +463,8 @@ mecánico en el momento de producirse el SU, ni se logró reproducir el estado d
 ineficacia de dicho freno. Por ello se procedió a la realización de ensayos de 
 verificación con el DV MTV (véase el punto 3.4.4 de la presente II).
 
-
 ## Página 16
+
 
 Fig. 3: Plano del lugar de producción del SU.
         Fuente: DI (utilizando la base cartográfica www.mapy.cz)
@@ -380,48 +500,44 @@ evaluación de todas las circunstancias, incluidos los
 repercusiones sobre la explotación del transporte 
 ferroviario.
 
-
 ## Página 17
 
-Investigación de la DI en el lugar del SU:
-debido a la notificación demorada de la producción del SU, 
-no fue realizada. La investigación fue iniciada por la DI 
-únicamente tras la notificación de la producción del SU, 
-a la que precedió la realización arbitraria de cambios 
-irreversibles en el lugar del SU sin la autorización emitida 
-por la DI, habiéndose manipulado con el DV, es decir, 
-también con sus elementos de mando y sus aparatos de 
-registro. La primera actuación de la DI, realizada el 
-10. 9. 2019 en el depósito de tranvías de DPMO, a. s., 
-fue la colocación de precintos de la DI en el DV MTV 
-tipo EVO 1/O_DPMO, n.º de registro 122 (precintados 
-las puertas de entrada delanteras derechas, los 
-contenedores de propulsión «A» y «B», el contenedor 
-del inversor estático), y la recepción de la documentación 
-que contenía la información solicitada para los fines de la 
-investigación del SU (véase el punto 2.1.2 de la presente 
-II).
-Composición del equipo de investigación:
+Investigación del DI en el lugar del SU:
+debido a la notificación tardía de la aparición del SU 
+no se realizó. La investigación fue iniciada por el DI únicamente tras 
+la notificación de la aparición del SU, a la que precedió 
+la realización arbitraria de cambios irreversibles en el lugar del SU 
+sin la emisión del consentimiento del DI, cuando se manipuló el DV, 
+es decir, también sus elementos de control 
+y sus dispositivos de registro. La primera actuación del DI, 
+realizada el 10. 9. 2019 en el depósito de tranvías 
+de DPMO, a. s., consistió en la colocación de sellos del DI sobre el DV MTV 
+tipo EVO 1/O_DPMO, n.º de inventario 122 (marcados con sellos 
+las puertas de entrada delanteras derechas, las cajas de accionamientos 
+"A" y "B", la caja del convertidor estático), 
+y la recepción de la documentación que contenía la información 
+solicitada con fines de investigación del SU (véase el punto 2.1.2 
+de la presente ZZ).
+Constitución del equipo de investigación:
 no fue necesario constituirlo.
-| Composición del equipo de investigación: | no fue necesario constituirlo. |
-| Colaboración externa: | no fue utilizada. |
-La posterior investigación de las causas y circunstancias de la producción del SU fue 
-encomendada, en el marco de la DI, a la UI Ostrava.
-En la investigación de las causas y circunstancias de la producción del SU, la DI se 
-basó en sus propios conocimientos y hallazgos, en su propia documentación fotográfica, 
-en la documentación recabada durante la investigación de la PČR, del explotador de la 
-vía y del transportista DPMO, a. s., y en la documentación del fabricante del DV de la 
-gama de productos EVO (Krnovské opravny a strojírny, s. r. o.) y de las sociedades 
-participantes en su fabricación (DAKO-CZ, a. s., Krnovské opravny a strojírny, s. r. o., 
-POLL, s. r. o., PRAGOIMEX, a. s., y ŠKODA ELECTRIC, a. s.).
-La investigación de las causas y circunstancias de la producción del SU fue realizada 
-por la DI de acuerdo con la Ley nº 266/1994 Sb. y el Decreto nº 376/2006 Sb. 
-### 2.2 Circunstancias del suceso excepcional
-### 2.2.1 Empleados implicados, personas en relación contractual y demás implicados 
+| Constitución del equipo de investigación: | no fue necesario constituirlo. |
+| Colaboración externa: | no se utilizó. |
+La posterior investigación de las causas y circunstancias de la aparición del SU fue encomendada por el DI 
+a la ÚI Ostrava.
+En la investigación de las causas y circunstancias de la aparición del SU, el DI partió de sus propios conocimientos y hallazgos, 
+de su propia documentación fotográfica, de la documentación recabada durante la investigación de la PČR, 
+del operador de la vía y del transportista DPMO, a. s., y de la documentación del fabricante del DV de la gama de productos EVO 
+(Krnovské opravny a strojírny, s. r. o.) y de las empresas participantes en su fabricación 
+(DAKO-CZ, a. s., Krnovské opravny a strojírny, s. r. o., POLL, s. r. o., PRAGOIMEX, a. s., 
+y ŠKODA ELECTRIC, a. s.).
+La investigación de las causas y circunstancias de la aparición del SU fue realizada por el DI de conformidad con la ley 
+n.º 266/1994 Sb. y con el decreto n.º 376/2006 Sb. 
+### 2.2 Circunstancias del suceso extraordinario
+### 2.2.1 Empleados participantes, personas en relación contractual y demás participantes 
 y testigos
-Personas implicadas en nombre de:
-El explotador de la vía y el transportista DPMO, a. s.:
-conductor del TVL de la línea nº 2, servicio 1, empleado de DPMO, a. s.
+Personas participantes por:
+Operador de la vía y transportista DPMO, a. s.:
+conductor del TVL de la línea n.º 2, turno 1, empleado de DPMO, a. s.
 •
 Tercera parte:
 conductor del SMV Iveco Daily 50C15/35.
@@ -430,8 +546,8 @@ Testigo:
 notificador del SU. 
 •
 
-
 ## Página 18
+
 
 2.2.2 Trenes y su composición, incluidos los números de registro de los distintos 
 vehículos ferroviarios
@@ -459,6 +575,7 @@ compuesto por:
 
 ## Página 19
 
+
 EDB, que es el freno operativo principal y sirve para el frenado operativo, mientras que con
 •
 la caída de la velocidad por debajo de aproximadamente 0,3 km·h-1 se activa el freno de disco electrohidráulico de acción indirecta (véase más abajo);
@@ -475,8 +592,8 @@ La vía de tranvía de DPMO, a. s., discurre por vías de comunicación terrestr
 Desde la parada Žižkovo náměstí hasta la intersección de las calles 1. máje y Přemyslovců, la superestructura de la vía n.º 2 está formada por carril con canal de tipo NT1 sobre soportes de carril de madera (en adelante, traviesa). Los carriles están montados sobre traviesas de madera con placas base de anclaje DIOR, es decir, con un sistema de fijación rígida. Desde la intersección de las calles 1. máje y Přemyslovců hasta la parada U Dómu, la superestructura está formada por carril con canal de tipo NT1 sobre traviesas de carril prefabricadas de hormigón armado B 03-DP 04. Los carriles están montados sobre traviesas de hormigón con un sistema de fijación elástica sin placas base del sistema Vossloh W14 con abrazaderas Skl14. Para la insonorización de la vía, los carriles están provistos de revestimientos laterales de perfil completo, incluido el revestimiento del talón. En todo el tramo descrito de la vía de tranvía, la superestructura está equipada con una cubierta de vía de tranvía formada por una superficie asfáltica (km 4,175 a 4,340) o por adoquines de granito de 10 x 10 cm (km 4,340 a 4,648).
 La vía n.º 2, desde la parada Žižkovo náměstí, es decir, desde el km 4,175, hasta el km 4,385, discurre en línea recta con una pendiente (subida) del 23,37 ‰. Desde el km 4,385 hasta el km 4,420, la vía discurre en una curva a la izquierda con transiciones de radio 125 m con una pendiente (subida) del 30,16 ‰, que antes del final de la curva cambia al 25,21 ‰. Desde el km 4,420 hasta el lugar de producción del MU, es decir, en el km 4,458 (indicador de la parada U Dómu, dirección Neředín), la vía discurre en línea recta con una pendiente (subida) del 25,21 ‰.
 
-
 ## Página 20
+
 
 El hilo de contacto y las partes estructurales del suspensorio simple de TV están anclados en el lugar de producción del MU a postes de tracción de la serie de tipo TS (tubos de acero sin costura, graduados en tres diámetros) o a anclajes (suspensiones) de las casas adyacentes a la vía de comunicación terrestre. La línea de contacto no está dividida en el lugar de producción del MU en tramos separados, elécticamente aislados y desconectables. El suministro de TV lo realiza la subestación Střed a través del tramo de alimentación NK 21 – nám. Republiky.
 La vía de tranvía de DPMO, a. s., no está equipada con ningún dispositivo de seguridad. La circulación de TVL en todas las líneas de la vía donde DPMO, a. s., opera transporte público ferroviario es en un solo sentido y por la derecha, y se rige por la distancia mutua según las condiciones de visibilidad. La única excepción la constituyen los tramos de vía única de la vía de maniobras que discurre por las calles Legionářská y Sokolská (según la Autorización Oficial, «vía tecnológica no pública») hasta el depósito de tranvías de DPMO, a. s., y hasta la vía de estacionamiento «RUBIK» de la calle Koželužská, en la que no se opera transporte público ferroviario y en la que la circulación de DV es bidireccional.
@@ -497,8 +614,8 @@ parada (tras la producción del MU);
 •
 y, a continuación, se reanudó la explotación de la vía y del transporte ferroviario.
 
-
 ## Página 21
+
 
 ### 2.2.7 Activación del plan del sistema integrado de emergencia, de los servicios de emergencia policiales y sanitarios y de los procedimientos conexos
 El plan IZS no fue activado dada la naturaleza del MU.
@@ -538,8 +655,8 @@ Conductor del DV del TVL de la línea n.º 2, turno 1
 •
 DI, del Registro Oficial de la explicación presentada, elaborado por PČR, y de la Declaración de la persona implicada en el MU, elaborada por DPMO, a. s., entre otros, se desprende:
 
-
 ## Página 22
+
 
 ◦antes de incorporarse al turno del 25. 8. 2019 estaba bien descansado y se sentía completamente sano. Ni antes de incorporarse al turno ni durante el mismo (hasta la producción del MU) se encontraba alterado de ninguna manera;
 ◦durante todo el tiempo que condujo el DV, así como en el momento de la producción del MU y en todo el transcurso del suceso accidentológico hasta la parada del TVL tras el MU en el flanco noroeste de Žižkovo náměstí, en el espacio entre la intersección de las calles 1. máje y Jiřího z Poděbrad y el indicador de la parada Žižkovo náměstí, se encontraba en la cabina del conductor. No recuerda si tenía la puerta de la cabina cerrada o abierta;
@@ -553,25 +670,25 @@ Nota del redactor: la tracción proporcional positiva no podía producirse tras 
 
 ## Página 23
 
-◦durante la marcha no asegurada (espontánea) y no controlada del DV, el conductor activó repetidamente con el botón situado en el lateral de la palanca de mando del regulador manual la campana de aviso, para advertir a los demás usuarios de la vía pública de la circulación del TVL en la dirección «contraria»;
-◦el DV se detuvo de forma suave, y ello sin que actuara ningún freno;
-◦tras la detención del DV en la posición final, el conductor informó, a través de la radio de a bordo del vehículo, de la aparición de la MU al puesto de recepción de avisos de DPMO, a. s. (centro de despacho de tráfico de DPMO, a. s.), pudiendo el empleado del puesto de recepción de avisos comunicarle que esperara la llegada del TVL siguiente, es decir, de la línea n.º 4, servicio 2;
-◦durante la marcha no asegurada (espontánea) y no controlada, cuando se vio sometido a una situación de carga excepcional, no registró la colisión del TVL con el SMV aparcado. El hecho de no haber percibido la colisión lo explica porque, en el momento de su llegada a la parada U Dómu, no había ningún vehículo aparcado en las inmediaciones de la vía. Se enteró de la colisión únicamente durante la prestación de declaración al DI;
+◦durante el viaje no asegurado (espontáneo) y no controlado del DV, activó repetidamente con el botón situado en el lateral de la palanca de mando del regulador manual la campana de aviso, para advertir a los demás participantes en el tráfico rodado del paso del TVL en dirección «contraria»;
+◦el DV se detuvo de forma suave, sin que actuara ningún freno;
+◦tras la detención del DV en la posición final, a través de la MU comunicó por medio de la radio del vehículo la aparición de la MU al puesto de notificación de DPMO, a. s. (centro de despacho de tráfico de DPMO, a. s.), siendo informado por el empleado del puesto de notificación de que esperara la llegada del TVL siguiente, es decir, de la línea n.º 4, servicio 2;
+◦durante el viaje no asegurado (espontáneo) y no controlado, al hallarse sometido a una situación de carga excepcional, no registró la colisión del TVL con el SMV aparcado. El hecho de no haber percibido la colisión lo explica porque, en el momento de su llegada a la parada U Dómu, no había ningún vehículo aparcado en las proximidades de la vía. Se enteró de la colisión únicamente durante la prestación de declaración a la DI;
 ◦durante la MU no detectó la interrupción del suministro de energía de tracción;
-◦hasta la aparición de la mencionada MU, no obtuvo de la práctica ningún conocimiento negativo al conducir el DV de tipo EVO 1, respectivamente EVO 1/O, que se refiriera a la construcción y a las características del DV y a la disposición ergonómica de los elementos de mando en la cabina del conductor. Valoró positivamente la visibilidad desde la cabina del conductor y la manejabilidad del DV, la claridad de la ubicación de los elementos de mando e indicación en el panel del conductor, incl. la ubicación y el manejo de la palanca del regulador manual;
-◦durante su ejercicio profesional no le ocurrió ninguna MU similar, es decir, que se produjera una marcha no asegurada (espontánea) o incluso no controlada del TVL en la dirección de la pendiente de la vía, tanto en la dirección de circulación establecida como en la dirección en la que no se organiza la circulación del DV.
+◦hasta la aparición de la mencionada MU no obtuvo de su práctica profesional ningún conocimiento negativo al conducir el DV de tipo EVO 1, respectivamente EVO 1/O, relativo a la construcción y las características del DV y a la disposición ergonómica de los elementos de mando en la cabina del conductor. Valoró positivamente la visibilidad desde la cabina del conductor y la manejabilidad del DV, la claridad de la ubicación de los elementos de mando e indicación en el panel del conductor, incl. la ubicación y el manejo de la palanca del regulador manual;
+◦durante su ejercicio profesional no le ocurrió ninguna MU similar, es decir, que se produjera un viaje no asegurado (espontáneo) o incluso no controlado del TVL en la dirección de la pendiente de la vía, tanto en la dirección de circulación establecida como en la dirección en la que no se organiza la circulación del DV.
 ### 3.1.2 Otros testigos
 Testigo, denunciante de la MU
-  – Del Registro Oficial de la declaración prestada, 
+  – del Registro Oficial de la declaración prestada, 
 •
 elaborado por la PČR, entre otros, se desprende:
-◦el día 25. 8. 2019, en las primeras horas de la mañana, se produjo en la parada U Dómu, en la dirección de circulación desde Hlavní nádraží hacia Neředín, una avería del DV, cuya influencia provocó que el DV, tras detenerse, se pusiera espontáneamente en marcha marcha atrás de vuelta hacia la parada Žižkovo náměstí, es decir, en sentido contrario a la dirección de circulación del TVL. Al conductor no le fue posible detener el DV mediante la activación de los sistemas de freno, y el TVL quedó así incontrolable;
-◦el TVL recorrió cuesta abajo unos 150 a 200 m y se detuvo espontáneamente sobre el puente que cruza el arroyo Mlýnský potok;
-◦en el DV viajaban varios pasajeros; con motivo del suceso nadie resultó herido, no se produjo ningún daño y el DV no descarriló;
-◦no estuvo personalmente presente en el suceso, pero se enteró de su ocurrencia por fuentes fiables. Realizó la denuncia con el fin de determinar la causa del suceso y de prevenir posibles situaciones similares, y también porque no le es indiferente el mantenimiento de la explotación segura del transporte ferroviario.
-
+◦el día 25. 8. 2019, en las primeras horas de la mañana, se produjo en la parada U Dómu, en la dirección de circulación desde Hlavní nádraží hacia Neředín, una avería del DV, cuyo efecto hizo que el DV, tras detenerse, se pusiera espontáneamente en marcha marcha atrás de vuelta hacia la parada Žižkovo náměstí, es decir, en dirección contraria a la circulación del TVL. Al conductor no le fue posible detener el DV mediante la activación de los sistemas de frenado, y el TVL quedó así incontrolable;
+◦el TVL recorrió cuesta abajo unos 150 a 200 m y se detuvo espontáneamente en el puente sobre el arroyo Mlýnský potok;
+◦en el DV viajaban varios pasajeros; con motivo del suceso nadie sufrió lesiones, no se produjo ningún daño y el DV no descarriló;
+◦no estuvo presente personalmente en el suceso, pero se enteró de su aparición por fuentes fiables. Realizó la denuncia con el fin de determinar la causa del suceso y de prevenir posibles situaciones similares, así como porque no le es indiferente el mantenimiento de la explotación segura del transporte ferroviario.
 
 ## Página 24
+
 
 ### 3.2 Sistema de garantía de la seguridad
 ### 3.2.1 Organización marco y forma de emisión y ejecución de instrucciones
@@ -604,10 +721,10 @@ y comienza inmediatamente el frenado de rescate. Con este frenado se activan tod
 con el mando del DV activado;
 para el mando del movimiento del DV sirve el panel del regulador manual, situado en la cabina del conductor sobre 
 •
-la mesa izquierda junto al asiento del conductor y manejado exclusivamente con su mano izquierda. En el regulador se encuentra un conmutador de tres posiciones «CONMUTADOR DE MANDO», el conmutador de dirección de circulación y la palanca, 
-
+la mesa izquierda junto al asiento del conductor y manejado exclusivamente con su mano izquierda. En el regulador se encuentra un conmutador de tres posiciones «CONMUTADOR DE MANDO», el conmutador de dirección de circulación y la palanca,
 
 ## Página 25
+
 
 con la que se ordena la «marcha» (tracción proporcional positiva), así como el «freno» (tracción proporcional negativa). El regulador manual solo está activo con el mando del DV activado;
 la palanca de mando del regulador manual está dotada de un asa negra en forma de T. El regulador puede 
@@ -639,10 +756,10 @@ a la posición «0», y solo antes de abandonar el DV según la normativa DPMO D
 •
 ### entre otros finaliza la actividad de los frenos de riel, si esta no hubiera finalizado ya antes 
 ### con la manipulación de los elementos de mando del DV antes de abandonarlo. Con el freno mecánico de seguridad inoperativo, el fin de la actividad del modo de freno de emergencia (de rescate), es decir, tras la desactivación de los frenos de riel, y el apagado del mando, tiene 
-### como consecuencia el desfrenado total del DV. En este caso, tras una eventual 
-
+### como consecuencia el desfrenado total del DV. En este caso, tras una eventual
 
 ## Página 26
+
 
 puesta espontánea del DV en marcha y al alcanzar una velocidad de cca 0,3 km·h-1 o superior, 
 no estará en funcionamiento ni la EDB ni ningún otro sistema de freno del DV.
@@ -675,6 +792,7 @@ frenar/desfrenar, cuando, tras el frenado, la señalización en el panel del con
 
 ## Página 27
 
+
 inspección visual de fugas de aceite en los puntos de conexión, integridad del conjunto de frenos y espesor y estado de la pastilla de freno;
 la inspección de control del DV del tipo en cuestión incluye, entre otros:
 •
@@ -691,8 +809,8 @@ El conductor de TVL de la línea núm. 2, turno 1, no fue designado por el trans
 El control interno del cumplimiento de las normas de explotación del transporte ferroviario centrado en el servicio de transporte operativo de los conductores de tranvía es realizado por el transportista de forma aleatoria mediante los despachadores, el técnico de explotación de tranvía, el jefe del departamento de explotación de tranvía, el jefe del departamento de dirección de despacho y planificación del transporte, el jefe de dirección de despacho y el subdirector de explotación de transporte. Los procedimientos para la realización del control del cumplimiento de las normas del servicio de transporte operativo de los conductores de tranvía, es decir, el procedimiento, el enfoque, el alcance y la frecuencia de los controles realizados, incl. la determinación de la responsabilidad por el control de su ejecución, no están establecidos ni por la normativa legal ni por la normativa interna del transportista.
 El transportista lleva un registro general del número de controles realizados y de las deficiencias detectadas
 
-
 ## Página 28
+
 
 exclusivamente en los controles aleatorios de las actuaciones del servicio de transporte de los conductores realizados por los despachadores y en los controles aleatorios de los datos registrados por los tacógrafos del DV, que realizan los jefes de estación de tranvía. Los despachadores realizaron en los años 2018 y 2019 (hasta el momento del origen de la MU) un total de 434 controles, en los que detectaron 53 averías (por ejemplo, en 2 casos de marcha atrás desde la cabina delantera, en 1 caso de entrada en un tramo de vía única sin el consentimiento del despachador, en 2 casos de notificación tardía de avería de MTV). Los jefes de estación de tranvía realizaron un total de 1 384 controles de los datos registrados por los tacógrafos del DV, en los que detectaron 17 averías. Todas consistían en la superación de la velocidad de circulación permitida (establecida) por el gestor de la infraestructura. Las deficiencias detectadas en el servicio de transporte operativo de los conductores de tranvía fueron discutidas por el transportista con los respectivos conductores de tranvía.
 En el período de los años 2018 y 2019 (hasta el momento del origen de la MU), el transportista detectó en el conductor del DV de la línea TVL núm. 2, turno 1, una deficiencia, a saber, el incumplimiento del VJŘ, al haber salido de la parada antes de la hora establecida por el VJŘ concreto.
@@ -721,8 +839,8 @@ c) de emergencia,
 d) de rescate. ...".
 En el caso de esta MU concreta, es necesario relacionar la disposición anterior con
 
-
 ## Página 29
+
 
 el punto definitorio 4 de la Parte IV del Anexo 3 al decreto núm. 173/1995 Sb., donde se indica:
 "Todo vehículo ferroviario motriz para el transporte de pasajeros debe estar equipado
@@ -753,8 +871,8 @@ No se detectaron deficiencias.
 Para garantizar la operatividad de la vía férrea y la seguridad del transporte ferroviario, antes del origen de la MU, el gestor de la infraestructura DPMO, a. s., realizó inspecciones y mediciones de las obras de las vías férreas de conformidad con el § 64 apartados 1 y 2 del decreto núm. 177/1995 Sb.
 Los componentes de la vía férrea no guardaban relación causal con el origen de la MU.
 
-
 ## Página 30
+
 
 ### 3.4.3 Dispositivos de comunicación e información
 El uso de los dispositivos de comunicación, transmisión e información no guardó relación con el origen de la MU.
@@ -782,6 +900,7 @@ durante la permanencia de la TVL en la parada de inicio Fibichova, el DV quedó 
 movimiento
 
 ## Página 31
+
 
 con el freno de seguridad mecánico;
 a las 5.46.06 h el conductor del TVL puso en marcha y partió del espacio de la parada
@@ -844,8 +963,8 @@ el movimiento espontáneo del DV – el retroceso provocado por la ausencia repe
 efecto del freno mecánico, que tras la detención del DV debía cumplir la función de freno de
 seguridad. Con el efecto repetido de la EDB a una velocidad
 
-
 ## Página 32
+
 
 superior a 0,3 km·h-1, en combinación con la ausencia del efecto del freno mecánico, el DV
 era frenado, y por lo tanto el movimiento del DV tenía carácter de marcha «a tirones».
@@ -908,8 +1027,8 @@ a las 5.54.12 h el DV, tras recorrer 243,4 m desde la producción de la MU, se d
 posición final tras la producción de la MU, es decir, en el flanco noroeste de Žižkovo náměstí,
 en el espacio entre
 
-
 ## Página 33
+
 
 el cruce de las calles 1. máje y Jiřího z Poděbrad y el indicador de la parada Žižkovo
 náměstí;
@@ -969,13 +1088,14 @@ unidades de freno EVO restantes era suficiente;
 
 ## Página 34
 
+
 con el desfrenado total del DV MTV, este se puso en movimiento de forma espontánea en la dirección de la pendiente de la vía. En un recorrido de 117,7 m, es decir, en un recorrido de 7 m más corto que durante el suceso del accidente, se alcanzó una velocidad de 22 km·h-1 (con la que el conductor activó el frenado), es decir, una velocidad de 6,4 km·h-1 inferior a la velocidad máxima alcanzada por el DV MTV durante la marcha no asegurada (espontánea) y no controlada en el MU del 25. 8. 2019. De lo anterior se deduce que en el momento del MU el DV TVL de la línea n.º 2, servicio 1, estaba frenado con el freno mecánico con un efecto de frenado no determinado con mayor precisión, pero inferior al necesario para asegurar el DV contra el movimiento en la pendiente de la vía de 25,21 ‰.
 Con una prueba de verificación posterior con el DV MTV, tipo EVO 1/O, n.º de inventario 122, realizada en la noche del 24 al 25. 9. 2019, en el horario de 22.16 h a 3.55 h, en las líneas de la vía tranviaria en el territorio de la ciudad de Olomouc, tras la eliminación previa de una fuga de aceite en el circuito hidráulico de la unidad de freno original EVO (n.º de inventario 051) del primer eje del bogie delantero del DV, sustituida por otra unidad de freno plenamente funcional, se constató, entre otros, que:
 ### durante la prueba de conducción, tras un comportamiento previo estándar del DV MTV, se produjeron durante la detención un total de 4 casos en los que el sistema de control de las unidades de tracción solicitó el aseguramiento del DV MTV contra el movimiento y las unidades de control, mediante el mando de los elementos actuadores de los conjuntos hidráulicos, establecieron y mantuvieron en ambos circuitos hidráulicos de todas las unidades de freno de acumulador EVO una presión de 0 MPa (correspondiente a la solicitud de fuerza de frenado máxima), sin que se asegurara el DV MTV contra el movimiento mediante el freno mecánico, sin que este estado fuera provocado intencionadamente. Lo anterior ocurrió a pesar de que la presión en el circuito hidráulico del freno mecánico era de 0 MPa, lo que fue verificado también mediante una medición independiente de la presión. El DV MTV se movió espontáneamente en la dirección de la pendiente de la vía (descenso o ascenso) independientemente de la dirección de circulación anterior. A una velocidad superior a 0,4 km·h-1, ante la solicitud de frenado realizada por el conductor mediante el mando de la palanca del regulador manual, entró en funcionamiento el EDB, de acuerdo con la documentación técnica del DV MTV. A una velocidad inferior a 0,4 km·h-1, el sistema de control de la tracción activó el freno mecánico, a través de las unidades de control del mando de los elementos actuadores de los conjuntos hidráulicos, que establecieron y mantuvieron en ambos circuitos hidráulicos de todas las unidades de freno de acumulador EVO una presión de 0 MPa. Sin embargo, no se produjo el efecto de frenado requerido del freno mecánico y el DV MTV comenzó a moverse de forma no asegurada (espontánea) en la dirección de la pendiente de la vía, hasta que se superó la velocidad de 0,4 km·h-1, momento en el que se volvió a poner automáticamente en funcionamiento el EDB. Al alcanzar una velocidad inferior a 0,4 km·h-1, de nuevo no se produjo el efecto del freno mecánico. Este suceso se repitió cíclicamente durante un tiempo de aproximadamente 40 s, hasta la detención y el aseguramiento del DV MTV contra el movimiento mediante la activación del freno de riel. Tras apagar el control con el conmutador «VYPÍNAČ ŘÍZENÍ» (CONMUTADOR DE CONTROL) en la posición «0», de acuerdo con la documentación técnica del DV MTV, los frenos de riel del DV MTV dejaron de actuar y el DV MTV comenzó a moverse de forma no asegurada (espontánea) y no controlada en la dirección de la pendiente de la vía tranviaria, de manera similar a como ocurrió durante el suceso del accidente.
 De lo anterior se deduce que la causa de que el DV MTV no estuviera asegurado contra el movimiento, también en el momento de la aparición del MU, fue el funcionamiento incorrecto de las unidades de freno de acumulador EVO, que a pesar de una presión de 0 MPa en ambos circuitos hidráulicos de las unidades de freno del freno mecánico, es decir, a pesar de la solicitud de frenado con la fuerza de frenado máxima requerida por los sistemas de control del DV a partir de la orden de freno mediante la palanca del regulador manual, no generaron la fuerza de frenado necesaria para detener y asegurar el DV MTV.
 
-
 ## Página 35
+
 
 Posteriormente, el 27. 9. 2019, se realizaron en el DV MTV, tipo EVO1/O, n.º de inventario 122, mediciones en el depósito de tranvías de DPMO, a. s., para determinar la fuerza de tracción necesaria en los extremos de los cables para el desfrenado mecánico de emergencia del DV MTV, con las que no se detectó influencia de la disposición y el estado de los elementos de tracción para el desfrenado mecánico de emergencia del DV en la aparición del MU.
 Con una prueba de verificación posterior con el DV MTV, tipo EVO 1/O, n.º de inventario 122, realizada en la noche del 14 al 15. 10. 2019, en el horario de 22.20 h a 3.30 h, en las líneas de la vía tranviaria en el territorio de la ciudad de Olomouc, no se produjo en el régimen operativo estándar la aparición del estado de movimiento no asegurado (espontáneo) del DV MTV.
@@ -986,8 +1106,8 @@ el transportista DPMO, a. s., en el momento de la aparición del MU utilizaba el
 ### 3.5.1 Medidas adoptadas por el personal de la empresa explotadora de la vía y el transportista en materia de control y seguridad del tráfico
 El 25. 8. 2019, el conductor del DV MTV tipo EVO 1/O_DPMO, n.º de inventario 122, recogió en el depósito de tranvías de DPMO, a. s., el DV que había sido despachado por el transportista a la línea n.º 2, servicio 1, donde, de acuerdo con los procedimientos tecnológicos uniformes de DPMO, a. s., realizó de forma estándar la comprobación del estado, la limpieza y el funcionamiento del DV. Con esta comprobación no detectó ninguna avería. A continuación, salió con el DV MTV a la línea. El DV fue conducido de acuerdo con la normativa legal y los procedimientos tecnológicos uniformes del transportista desde la posición del conductor, separada del espacio de transporte para los pasajeros por una pared fija de la cabina del conductor, en el frontal en la dirección de circulación del DV, es decir, desde la posición desde la que tenía la mejor visibilidad. La circulación del TVL en la línea n.º 2, servicio 1, se realizó de acuerdo con el VJŘ. Para poner el TVL en movimiento al salir de la parada Žižkovo náměstí, en dirección a la parada U Dómu, accionó la palanca del regulador manual a la posición «JÍZDA» (MARCHA) y, mediante la aplicación continua de
 
-
 ## Página 36
+
 
 tracción proporcional positiva, alcanzó suavemente la velocidad máxima de 29,3 km·h-1. A continuación se produjo la circulación por inercia y, a una velocidad de 23,9 km·h-1, el conductor accionó la palanca del regulador manual al régimen de frenado para detener el TVL en la parada U Dómu. Durante el frenado operativo se puso en funcionamiento el EDB, es decir, el freno operativo principal, cuyo efecto redujo la velocidad del TVL a 0,4 km·h -1, debiendo el frenado del DV hasta la detención estar garantizado por la acción del freno mecánico, cuyo efecto de frenado suficiente para la detención y el posterior aseguramiento del DV contra el movimiento, sin embargo, no se produjo. El DV no frenado en el poste de la parada U Dómu, durante un intervalo de tiempo muy corto, del orden de décimas de segundo, sí se detuvo, pero no por el efecto de frenado suficiente del freno mecánico, sino debido a las condiciones de pendiente de la vía por la que circulaba, es decir, a la circulación en ascenso. Debido al efecto insuficiente del freno mecánico no se produjo el aseguramiento del DV contra el movimiento y el TVL comenzó a moverse espontáneamente a una velocidad de 0,4 a 0,7 km·h-1 en la dirección de la pendiente de la vía, mientras el DV era continuamente frenado por el EDB. Debido a la ausencia del efecto de frenado correspondiente del freno mecánico, sin embargo, el TVL no se detuvo tras finalizar la acción del EDB a una velocidad de 0,4 km·h-1. Para evitar que el TVL retrocediera, el conductor intentó aplicar con la palanca del regulador manual una tracción proporcional positiva, a fin de poner el DV en movimiento en sentido contrario. El DV, sin embargo, no generó tracción proporcional positiva y el conductor reaccionó a la situación creada utilizando el freno de emergencia. Mediante la acción de los frenos de riel, el DV se detuvo tras recorrer una distancia de 9,1 m y permaneció inmóvil. A continuación, el conductor, de acuerdo con los procedimientos tecnológicos uniformes contenidos en el Manual del conductor, accionó el conmutador «VYPÍNAČ ŘÍZENÍ» (CONMUTADOR DE CONTROL) a la posición «0», con lo que puso fin a la acción del régimen de freno de emergencia, es decir, desactivó los frenos de riel. El apagado del control, en combinación con el efecto de frenado insuficiente del freno mecánico para asegurar el DV estacionado en una pendiente de 25,21 ‰, tuvo como consecuencia que el TVL volviera a entrar en un movimiento no asegurado (espontáneo) y ya no controlado en la dirección de la pendiente de la vía. La colisión con el SMV estacionado de la marca Iveco Daily 50C15/35, cuya carrocería de la caja sobresalía en el perfil de paso de la vía 2 por la que circulaba, el conductor del TVL, debido a su agitación por la situación creada y a la rápida sucesión de acontecimientos, no la percibió. Durante esta circulación, el conductor del TVL utilizó repetidamente la campana de aviso del DV para advertir a los demás usuarios de la vía pública, alcanzando el TVL una velocidad de 15,6 km·h-1. Sin intervención del conductor en el control, el TVL se detuvo espontáneamente en la ladera noroeste de Žižkovo náměstí, en el espacio de la intersección de las calles 1. máje y Jiřího z Poděbrad y del poste de la parada Žižkovo náměstí. Inmediatamente después de la detención del TVL, el conductor comunicó al puesto de aviso, es decir, al centro de control de tráfico de DPMO, a. s., la aparición del MU.
 No se detectó ninguna deficiencia.
@@ -997,6 +1117,7 @@ En relación con la aparición del MU, las comunicaciones verbales se realizaron
 El transportista DPMO, a. s., detectó de forma comprobable la aparición del MU a través de su empleado, el conductor del DV TVL de la línea n.º 2, servicio 1, en el momento de su aparición, es decir, el inicio del movimiento no asegurado (espontáneo) del TVL, el 25. 8. 2019 a las 5.50.48 h. Tras la detención del TVL en la posición final tras el MU, a las 5.54.12 h, en la ladera noroeste de Žižkovo náměstí, en el espacio entre la intersección de las calles 1. máje y Jiřího z Poděbrad y el poste de la parada Žižkovo
 
 ## Página 37
+
 
 la plaza, de conformidad con la normativa legal y los procedimientos tecnológicos uniformes, contenidos en las normas internas DPMO D1 y DPMO 9/2006, comunicó a las 5.55.12 h con las palabras: «me ha ocurrido una cosa desagradable, entré en U Dómu a la parada, frené y seguí bajando, normalmente llegué hasta el puente, el que está bajo la catedral, y no dejaba de frenar, así que tuve que poner el freno de emergencia y ahora me he detenido ya después del puente. Recepción, por suerte ha salido así...», comunicó la aparición de la MU al puesto de comunicación, que en las condiciones de DPMO, a. s., es el centro de despacho de tráfico.
 A esta comunicación de la aparición de la MU precedió la detención del TVL a las 5.52.27 h, tras recorrer 9,1 m, cuando el conductor utilizó el freno de emergencia, que activó con el botón «FRENO DE EMERGENCIA». Por efecto de los frenos de riel DV, tras una marcha no asegurada (espontánea), se detuvo. Tras apagar el control del DV con el conmutador «CONMUTADOR DE CONTROL», con lo que se desactivó la función de los frenos de riel, el suceso del accidente continuó en rápida sucesión de acontecimientos. A las 5.52.33 h el TVL volvió a ponerse en movimiento y continuó en marcha no asegurada (espontánea) y ya sin control en la dirección de la pendiente de la vía. Por ello, no puede considerarse como infracción de la normativa legal el no haber comunicado el conductor la aparición de la MU al puesto de comunicación de DPMO, a. s., durante los 6 s de parada del DV. Asimismo, la manipulación del conmutador de control, que tuvo como consecuencia la reactivación del DV, no puede valorarse conforme a la normativa legal como falta de aseguramiento del lugar de la MU.
@@ -1010,62 +1131,48 @@ no se recogieron en el lugar de la MU los registros disponibles del velocímetro
 del MTV tipo EVO 1/O_DPMO, n.º de registro 122, de modo que no se perdiera o
 viciara por sobrescritura el registro «INFORME DEL DESARROLLO DE LA CIRCULACIÓN … REGISTRO CORTO», que contiene datos detallados de la circulación del DV con un intervalo de muestreo (paso) de 0,25 m en los últimos 1 500 m recorridos, es decir, inmediatamente antes de la aparición de la MU y durante la misma, y que sirve para el análisis de la circulación en la MU;
 
-
 ## Página 38
 
-no se registró la desviación entre la hora real y la hora a bordo del DV;
-•
-no se constataron ni registraron todas las circunstancias disponibles de la
-•
-aparición de la MU (estado de la línea de tracción, actuaciones de los
-intervinientes en la MU relacionadas con la aparición del suceso e influencias de
-las condiciones meteorológicas y del entorno en la explotación de la vía y del
-transporte ferroviario);
-no se solicitaron los datos identificativos de los demás intervinientes en la MU
-•
-(conductor del SMV Iveco Daily 50C15/35), o en su caso de otras personas que
-fueron testigos directos de la MU (pasajeros transportados por el TVL de la línea
-n.º 2, servicio 1);
-no se realizó la prueba de alcoholemia orientativa al conductor del DV del TVL de
-•
-la línea n.º 2, servicio 1, para alcohol u otras sustancias adictivas;
-no se elaboró documentación del estado de la vía de circulación afectada en el
-•
-momento de la aparición de la MU;
-no se realizó una estimación preliminar del daño causado.
-•
-Se detectó una deficiencia.
-Hallazgo:
-el lugar de la MU no fue asegurado por el explotador de la vía y el transportista
-•
-DPMO, a. s., tras la detención del TVL de la línea n.º 2, servicio 1, en la posición
-final tras la MU, de conformidad con lo dispuesto en el § 49 de la Ley n.º
-266/1994 Sb. y el § 9 apartado 3 del Decreto n.º 376/2006 Sb.
-Dadas las causas y circunstancias de la aparición de la MU en cuestión, el hallazgo
-anterior no puede valorarse en relación causal con su aparición (véase el punto 4.4.1
-de esta ZZ).
-### 3.6 Condiciones laborales, sanitarias y de explotación
-### 3.6.1 Jornada laboral de los empleados del explotador de la vía y del transportista que fueron intervinientes en el suceso excepcional
-El conductor del TVL de la línea n.º 2, servicio 1, entró en turno el día 25. 8. 2019 a las 4.04 h.
-El descanso previo al turno fue de 14 h 12 min. Dadas las horas de entrada en turno y la hora de aparición de la MU, el conductor no disfrutó del descanso legal para la ingesta de alimentos y reposo.
-El empleador garantizó las condiciones para el descanso previo al turno y durante el turno de conformidad con la Ley n.º 262/2006 Sb., o con el Decreto del Gobierno n.º 589/2006 Sb., por el que se establece la regulación diferenciada de la jornada laboral y del tiempo de descanso de los empleados en el transporte.
-3.6.2 Estado de salud y situación personal que tuvieron incidencia en el suceso excepcional, incluido el estrés físico o psicológico
-El conductor del TVL de la línea n.º 2, servicio 1, se encontraba en el momento de la aparición de la MU con aptitud sanitaria para el desempeño de la función que ocupaba. La investigación no arrojó datos de que la situación personal o el estado psicológico de la persona implicada en la MU hubieran tenido influencia en la aparición de la MU.
+- no registro de la desviación entre el tiempo real y el tiempo a bordo del DV;
+- no averiguación y no registro de todas las circunstancias disponibles relativas a la aparición de la MU (estado de la línea de tracción, actuación de los participantes de la MU relacionada con la aparición del suceso e influencias de las condiciones meteorológicas y del entorno en la explotación de la vía y del transporte ferroviario);
+- no solicitud de los datos de identificación de los demás participantes implicados en la MU (conductor del VTM Iveco Daily 50C15/35), o en su caso de otras personas que fueran testigos directos de la MU (pasajeros transportados en la línea de TVL n.º 2, servicio 1);
+- no realización de la prueba de alcoholemia orientativa al conductor del DV de la línea de TVL n.º 2, servicio 1, para detectar consumo de alcohol u otras sustancias adictivas;
+- no elaboración de documentación sobre el estado de la vía afectada en el momento de la aparición de la MU;
+- no realización de una estimación preliminar de los daños ocasionados.
 
+Se ha detectado una deficiencia.
+
+Hallazgo:
+- el lugar de la MU no fue asegurado por el explotador de la vía y el transportista DPMO, a. s., una vez detenido el tren de la línea de TVL n.º 2, servicio 1, en su posición final tras la MU, de conformidad con lo dispuesto en el § 49 de la Ley n.º 266/1994 Sb. y en el § 9 apartado 3 del Decreto n.º 376/2006 Sb.
+
+Dadas las causas y circunstancias de la aparición de la MU en cuestión, el hallazgo anterior no puede valorarse en relación causal con su aparición (véase el punto 4.4.1 de la presente ZZ).
+
+### 3.6 Condiciones laborales, sanitarias y de explotación
+### 3.6.1 Jornada laboral de los empleados del explotador de la vía y del transportista que participaron en el suceso extraordinario
+
+El conductor de la línea de TVL n.º 2, servicio 1, comenzó su turno el 25. 8. 2019 a las 4.04 h. El descanso antes del turno fue de 14 h 12 min. Dados los horarios de inicio de turno y la hora de aparición de la MU, el conductor no disfrutó del descanso legal para la ingesta de alimentos y reposo.
+
+El empleador garantizó las condiciones para el descanso antes del turno y durante el turno de conformidad con la Ley n.º 262/2006 Sb., o con el Decreto del Gobierno n.º 589/2006 Sb., por el que se establece un régimen diferenciado de la jornada laboral y del tiempo de descanso de los empleados en el transporte.
+
+3.6.2 Estado de salud y situación personal que tuvieron incidencia en el suceso extraordinario, incluido el estrés físico o psicológico
+
+El conductor de la línea de TVL n.º 2, servicio 1, se encontraba, en el momento de la aparición de la MU, en condiciones de salud aptas para el desempeño de la función que ocupaba. La investigación no arrojó datos de que la situación personal o el estado psicológico de la persona implicada en la MU hubieran tenido influencia en la aparición de la MU.
 
 ## Página 39
 
-3.6.3 Disposición del equipamiento del puesto de mando o del vehículo ferroviario que influye en su conducción y uso
-La disposición y el equipamiento del puesto de mando del conductor del TVL de la línea n.º 2, servicio 1, es decir, la ergonomía de la cabina y del puesto de conducción del DV del MTV tipo EVO 1/O, n.º de registro 122, permitían la observación sin interferencias de la vía y de las señales, el seguimiento de la situación del tráfico en la vía pública, la conducción fácil del DV, incl. el mando de los sistemas de freno.
-La disposición y el equipamiento del puesto de mando del conductor del TVL de la línea n.º 2, servicio 1, no guardaba relación con la aparición de la MU.
-### 3.7 Sucesos excepcionales anteriores de carácter similar
-No consta en el DI sucesos similares a la MU en las vías de tranvía.
+3.6.3 Disposición del equipamiento del puesto de conducción o del vehículo ferroviario que influye en su conducción y utilización
+La disposición y el equipamiento del puesto de conducción del conductor del TVL línea n.º 2, curso 1, es decir, la ergonomía de la cabina y del puesto de conducción del DV MTV tipo EVO 1/O, n.º de inventario 122, permitía la observación ininterrumpida de la vía y de las señales, el seguimiento de la situación del tráfico en la vía pública, la conducción fácil del DV, incl. el mando de los sistemas de freno.
+La disposición y el equipamiento del puesto de conducción del conductor del TVL línea n.º 2, curso 1, no guardaba relación con la aparición de la MU.
+### 3.7 Incidentes anteriores de carácter similar
+No consta en el DI de la DI de la vía de tranvía ningún incidente similar.
 ## 4 ANÁLISIS Y CONCLUSIONES
-### 4.1 Descripción final del suceso excepcional
-### 4.1.1 Elaboración de las conclusiones sobre el suceso excepcional basadas en los hechos constatados en el punto 3
-El día 25. 8. 2019 a las 4.18.44 h, el conductor del TVL de la línea n.º 2, servicio 1, puso en movimiento en el depósito de tranvías de DPMO, a. s., y por la vía de maniobras conducida por las calles Sokolská y Legionářská, salió hacia la plaza Národních hrdinů, donde tras girar a la derecha continuó en dirección a la dársena de Neředín. Su circulación se realizó de conformidad con el VJŘ hasta la parada Palackého en régimen de circulación sin pasajeros. A continuación, condujo el TVL entre las 4.38 h y las 4.55 h de la dársena de Neředín a la dársena de Fibichova, entre las 4.59 h y las 5.16 h de la dársena de Fibichova a la dársena de Neředín y entre las 5.23 h y las 5.40 h de nuevo de la dársena de Neředín a la dársena de Fibichova. Después, a las 5.46.06 h, el TVL partió del espacio de la parada Fibichova en dirección a Neředín y a las 5.49.52 h se detuvo en el espacio de la parada Žižkovo náměstí. 7 s después, el conductor puso el TVL en movimiento. Mediante la aplicación continua de «marcha» (tracción proporcional positiva), a las 5.50.36 h se alcanzó de forma fluida la velocidad máxima de 29,3 km·h-1, a la que siguió una circulación por inercia. A las 5.50.41 h, con una velocidad de 23,9 km·h-1, el conductor accionó la palanca del mando manual al régimen de freno para detener el TVL en la parada U Dómu. Al frenar en servicio se puso en funcionamiento la EDB, es decir, el freno principal de servicio, cuyo efecto redujo la velocidad del TVL a 0,4 km·h-1. Para el frenado final del DV hasta su detención, debía haberse puesto en funcionamiento el freno mecánico indirecto, que tras la detención sirve para asegurar el DV contra el movimiento. El efecto de frenado suficiente del freno mecánico para el frenado final y el posterior aseguramiento del DV contra el movimiento no se produjo. El DV, aunque se detuvo a las 5.50.48 h en el poste de la parada U Dómu sin haber frenado lo suficiente, pero debido principalmente a las condiciones de pendiente de la vía 2 de tranvía por la que circulaba. Por un funcionamiento incorrecto o una avería del freno mecánico, cuya causa no pudo determinarse de forma inequívoca y demostrable, tras la detención del DV en la parada U Dómu no se produjo su aseguramiento contra el movimiento, y el TVL comenzó a moverse espontáneamente en la dirección de la pendiente de la vía a una velocidad de 0,4 a 0,7 km·h-1, es decir, en sentido contrario al del transporte público ferroviario explotado. Durante esta marcha no asegurada, el control superior del DV ponía en funcionamiento la EDB cada vez que se superaba la velocidad de 0,4 km·h-1, que frenaba el DV, pero con la ausencia de
+### 4.1 Descripción final del incidente
+### 4.1.1 Elaboración de las conclusiones sobre el incidente basadas en los hechos 
+constatados en el punto 3
+El 25 de agosto de 2019 a las 4.18.44 h, el conductor del TVL línea n.º 2, curso 1, en el depósito de tranvías de DPMO, a. s., puso en marcha y, por la vía de maniobras conducida por las calles Sokolská y Legionářská, partió hacia la plaza de los Héroes Nacionales, donde, tras girar a la derecha, continuó en dirección al circuito de Neředín. Su circulación se realizó, de conformidad con el VJŘ, hasta la parada Palackého en régimen de circulación sin pasajeros. A continuación, condujo el TVL desde las 4.38 h hasta las 4.55 h del circuito de Neředín al circuito de Fibichova, desde las 4.59 h hasta las 5.16 h del circuito de Fibichova al circuito de Neředín y desde las 5.23 h hasta las 5.40 h de nuevo del circuito de Neředín al circuito de Fibichova. Posteriormente, a las 5.46.06 h, el TVL partió del espacio de la parada de embarque Fibichova en dirección a Neředín y a las 5.49.52 h se detuvo en el espacio de la parada Žižkovo náměstí. 7 s después, el conductor del TVL lo puso en marcha. Mediante la introducción progresiva de «marcha» (tracción proporcional positiva), a las 5.50.36 h se alcanzó de forma fluida la velocidad máxima de 29,3 km·h-1, a la que siguió una circulación por inercia. A las 5.50.41 h, a una velocidad de 23,9 km·h-1, el conductor accionó la palanca del mando manual al régimen de freno para detener el TVL en la parada U Dómu. En el frenado operativo se activó la EDB, es decir, el freno operativo principal, cuyo efecto redujo la velocidad del TVL a 0,4 km·h-1. Para el frenado final del DV hasta la detención, debía haberse activado el freno mecánico indirecto, que sirve, una vez detenido, para inmovilizar el DV. No se obtuvo el suficiente efecto de frenado del freno mecánico para el frenado final y la posterior inmovilización del DV. El DV, aunque se detuvo a las 5.50.48 h en el poste indicador de la parada U Dómu, pero debido principalmente a las condiciones de pendiente de la vía n.º 2 de la vía de tranvía por la que circulaba. Debido al funcionamiento incorrecto o a un defecto técnico del freno mecánico, cuya causa no se logró/no fue posible determinar de manera unívoca y demostrable, tras la detención del DV en la parada U Dómu no se produjo su inmovilización, y el TVL comenzó a moverse de forma autónoma en la dirección de la pendiente de la vía a una velocidad de 0,4 a 0,7 km·h-1, es decir, en sentido contrario al de la circulación ferroviaria pública explotada. Durante esta circulación no inmovilizada, el mando superior del DV activó siempre, al alcanzar una velocidad superior a 0,4 km·h-1, la EDB, que frenaba el DV, pero para la detención del TVL, por la ausencia de
 
 ## Página 40
+
 
 del efecto de frenado correspondiente de la frenada mecánica al descender la velocidad por debajo de 0,4 km·h -1 
 no se produjo, lo que dio lugar a un nuevo aumento de la velocidad. Para eliminar el retroceso del TVL «en dirección 
@@ -1121,6 +1228,7 @@ Con la MU no se produjeron daños personales. El daño total detectado asciende 
 
 ## Página 41
 
+
 ### 4.2 Análisis
 ### 4.2.1 Evaluación de los hechos detectados en el punto 3 y conclusiones sobre la causa 
 de la excepción y la actuación de los servicios de emergencia
@@ -1167,9 +1275,10 @@ siendo que la disposición y el equipamiento de los puestos y de la cabina del c
 la observación ininterrumpida de la línea y de las señales, incluido el mando del DV.
 El conductor del TVL de la línea nº 2, servicio 1, estaba descansado al inicio de su turno. 
 Su actuación durante la primera parte del suceso, cuando tras la detención del DV en la parada U Dómu 
-no se aseguró contra el movimiento y el TVL comenzó a moverse de forma no asegurada (espontánea) con una marcha 
+no se aseguró contra el movimiento y el TVL comenzó a moverse de forma no asegurada (espontánea) con una marcha
 
 ## Página 42
+
 
 hacia atrás en la dirección de la pendiente de la línea a una velocidad de 0,4 a 0,7 km·h-1, 
 y utilizó el freno de emergencia para detener el TVL, con lo que activó los frenos de riel y la campana del DV, fue correcta: 
@@ -1216,6 +1325,7 @@ del funcionamiento incorrecto o de la avería técnica de la frenada mecánica �
 de disco tipo EVO no pudo detectarse de forma unívoca y demostrable.
 
 ## Página 43
+
 
 Causa principal de la marcha no asegurada (espontánea) e incontrolada de un vehículo ferroviario:
 no funcionamiento del freno de disco mecánico – electrohidráulico, cuando la causa de
@@ -1268,6 +1378,7 @@ en el lugar de la EM no se estaban realizando trabajos de rescate y un empleado 
 había dado su consentimiento para su realización.
 
 ## Página 44
+
 
 Conductor del SMV Iveco Daily 50C15/35:
 al participar en la circulación en las vías públicas, según lo dispuesto en el § 4 ap. a),
@@ -1323,6 +1434,7 @@ apagado, asegurado contra el movimiento con las cuñas de aseguramiento,
 
 ## Página 45
 
+
 7. de no desconectar la batería del vehículo,
 8. en caso de necesidad de desfrenado de emergencia del DV, que solo puede realizarse tras
 acoplar con un DV plenamente operativo (auxiliar), de usar exclusivamente el conjunto de
@@ -1371,8 +1483,8 @@ de un excepcional acontecimiento similar, en el que, como consecuencia del efect
 insuficiente del freno de disco mecánico – electrohidráulico, no se produzca la detención del
 vehículo ferroviario y su aseguramiento
 
-
 ## Página 46
+
 
 contra el movimiento, y se permita la detención y el aseguramiento de este vehículo ferroviario
 contra el movimiento por efecto de los frenos de riel no adhesivos electromagnéticos también
@@ -1386,8 +1498,8 @@ inspector
 De la Inspección Territorial de Ostrava
 De la Inspección Territorial de Ostrava
 
-
 ## Página 47
+
 
 ## 7 ANEXOS
 Fig. nº 5: El TVL de la línea nº 2, servicio 1, durante la marcha no asegurada (espontánea)
@@ -1398,8 +1510,8 @@ Fig. nº 6, 7: TVL de la línea nº 2, servicio 1, en la posición final tras la
 MTV tipo EVO 1/O, n.º de serie 122).
                            Fuente: PČR
 
-
 ## Página 48
+
 
 Fig. nº 8, 9:  Como consecuencia de la colisión con el SMV estacionado, se dañó la tapa de la
 cámara del sistema de cámaras exterior del DV, situada en el lateral derecho de la carrocería

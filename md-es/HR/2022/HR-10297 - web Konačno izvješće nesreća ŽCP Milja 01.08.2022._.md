@@ -12,8 +12,8 @@ tokens_in: 41773
 tokens_out: 27942
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-verificacion: revisar
-avisos: ["página 3: cifras largas: faltan 4/7 (57%)", "página 7: ratio 2.39", "página 8: ratio 2.15", "página 19: ratio 2.32", "página 20: ratio 2.24", "página 32: ratio 1.89"]
+verificacion: ok
+notas_cifras: ["página 6: original bilingüe: se compara contra el idioma principal (EN)", "página 7: original bilingüe: se compara contra el idioma principal (HR); ratio 2.19", "página 8: original bilingüe: se compara contra el idioma principal (EN); ratio 1.93", "página 9: cifras cortas: 2/15", "página 10: original bilingüe: se compara contra el idioma principal (HR)", "página 11: cifras cortas: 1/25"]
 ---
 
 ## Página 1
@@ -50,18 +50,18 @@ El informe final no podrá utilizarse como prueba en un procedimiento judicial d
 
 ## Página 3
 
-### Prefacio  
-La Agencia de Investigación de Accidentes en el Tráfico Aéreo, Marítimo y Ferroviario (en lo sucesivo: AIN) fue creada por la Ley de Creación de la Agencia de Investigación de Accidentes en el Tráfico Aéreo, Marítimo y Ferroviario (Boletín Oficial de la República de Croacia, número 54/13, 96/18) como persona jurídica con poderes públicos. El fundador de la Agencia es la República de Croacia, y el ejercicio de los derechos de fundación corresponde al Gobierno de la República de Croacia.  
-En cuanto a la forma de realización de las funciones de la Agencia, se aplican las disposiciones especiales, es decir, las leyes que regulan el tráfico aéreo, la marina mercante, así como la seguridad y la interoperabilidad del tráfico ferroviario, o las disposiciones adoptadas para su ejecución.  
-La Sección de Investigaciones de Accidentes Ferroviarios es una unidad organizativa autónoma e independiente de la AIN que realiza las tareas técnicas relacionadas con las investigaciones de accidentes graves e incidentes extraordinarios en el tráfico ferroviario en la red ferroviaria de la República de Croacia. Las investigaciones se llevan a cabo sobre la base de las disposiciones de la Ley sobre la Seguridad y la Interoperabilidad del Sistema Ferroviario (Boletín Oficial de la República de Croacia, número 63/20) y de la Directiva (UE) 2016/798 del Parlamento Europeo y del Consejo, de 11 de mayo de 2016, relativa a la seguridad ferroviaria (revisión), así como sobre la base de las directrices de la Agencia de la Unión Europea para los Ferrocarriles.  
-La AIN investiga todos los accidentes graves en el tráfico ferroviario, es decir, todos los incidentes que impliquen colisión de trenes o descarrilamiento de trenes que tengan como consecuencia la muerte de al menos una persona o lesiones graves de cinco o más personas, o daños considerables a los vehículos, a la infraestructura ferroviaria o al medio ambiente, así como cualquier otro accidente similar con un impacto evidente en la seguridad del sistema ferroviario o en la gestión de la seguridad.  
-La AIN puede investigar también aquellos accidentes e incidentes que, bajo circunstancias ligeramente diferentes, podrían haber conducido a accidentes graves, incluidas las averías técnicas en el funcionamiento de los subsistemas estructurales o de sus componentes.  
-La AIN realiza investigaciones de seguridad con el fin de prevenir accidentes e incidentes graves, lo que incluye la recopilación y el análisis de datos, la elaboración de conclusiones, incluida la determinación de las causas y, cuando proceda, la elaboración de recomendaciones de seguridad para prevenir accidentes e incidentes en el futuro y mejorar la seguridad en el tráfico ferroviario.  
-|  | Nombre | Cargo | Fecha | Firma |
-| Elaborado por: | Ivica Majdanđić | Investigador responsable | 26.6.2023 . . . |  |
-| Revisado por: | Tomislav Antun Biber | Investigador principal | 26.6.2023 . . . |  |
-|  | Sandra Lovrić | Investigadora | 26.6.2023 . . . |  |
-| Aprobado por: | Tomislav Antun Biber | Investigador principal | 26.6.2023 . . . |  |
+### Prefacio
+La Agencia de Investigación de Accidentes en el Tráfico Aéreo, Marítimo y Ferroviario (en lo sucesivo: AIN) fue creada por la Ley de Creación de la Agencia de Investigación de Accidentes en el Tráfico Aéreo, Marítimo y Ferroviario («Narodne novine», número 54/13, 96/18) como persona jurídica con competencias públicas. El fundador de la Agencia es la República de Croacia, y los derechos de fundación los ejerce el Gobierno de la República de Croacia.
+En la forma de realización de las actividades de la Agencia se aplican las disposiciones especiales, es decir, las leyes que regulan el tráfico aéreo, la marina, y la seguridad e interoperabilidad del tráfico ferroviario, así como las disposiciones adoptadas para su aplicación.
+El Departamento de Investigación de Accidentes en el Tráfico Ferroviario es una unidad organizativa autónoma e independiente de la AIN que desempeña las funciones profesionales relacionadas con la investigación de accidentes graves y sucesos extraordinarios en el tráfico ferroviario en la red ferroviaria de la República de Croacia. Las investigaciones se llevan a cabo con base en las disposiciones de la Ley sobre la Seguridad e Interoperabilidad del Sistema Ferroviario («Narodne novine», número 63/20) y de la Directiva (UE) 2016/798 del Parlamento Europeo y del Consejo de 11 de mayo de 2016 sobre la seguridad ferroviaria (recodificación), así como con base en las directrices de la Agencia Ferroviaria de la Unión Europea.
+La AIN investiga todos los accidentes graves en el tráfico ferroviario, que son todos los sucesos que implican la colisión de trenes o el descarrilamiento de un tren que tenga como consecuencia la muerte de al menos una persona o lesiones graves en cinco o más personas, o daños importantes en los vehículos, la infraestructura ferroviaria o el medio ambiente, así como cualquier otro accidente similar con una influencia evidente en la seguridad del sistema ferroviario o en la gestión de la seguridad.
+La AIN puede investigar también aquellos accidentes e incidentes que, en circunstancias ligeramente diferentes, podrían haber dado lugar a accidentes graves, incluidos los fallos técnicos en el funcionamiento de los subsistemas estructurales o de sus componentes.
+La AIN realiza investigaciones de seguridad con el fin de prevenir accidentes y siniestros graves, lo que incluye la recopilación y el análisis de datos, la elaboración de conclusiones, incluida la determinación de las causas y, cuando resulte apropiado, la formulación de recomendaciones de seguridad para prevenir accidentes e incidentes en el futuro y mejorar la seguridad en el tráfico ferroviario.
+|  | Nombre | Puesto de trabajo | fecha | firma |
+| Elaboró: | IvicaMajdanđić | Investigadorresponsable | 2662023 . . . |  |
+| Revisaron: | TomislavAntunBiber | Investigadorprincipal | 2662023 . . . |  |
+|  | SandraLovrić | Investigadora | 2662023 . . . |  |
+| Aprobó: | TomislavAntunBiber | Investigadorprincipal | 2662023 . . . |  |
 
 ## Página 4
 
@@ -191,53 +191,76 @@ RECOMENDACIONES DE SEGURIDAD ...................................................
 
 ## Página 7
 
-### 1. RESUMEN 
-El 01 de agosto de 2022, a las 21:38 horas, en el paso a nivel (PPN) «Milja», activamente protegido (luz, sonido y barrera semiautomática) en la línea M202 Zagreb - Rijeka en el punto kilométrico 634+828, se produjo la colisión del tren de locomotora número 89717, que circulaba por el trayecto Rijeka - Ogulin, con un vehículo de carretera de pasajeros.   
-En el accidente resultó ligeramente herido un pasajero del vehículo de carretera de pasajeros, y se produjeron daños materiales considerables en el vehículo de carretera de pasajeros y daños materiales menores en la locomotora del tren.  
-El factor causal del accidente en cuestión fue el paso del tren número 89717 por el PPN en el que el dispositivo de protección no estaba activado, y la colisión del tren con un vehículo de carretera de pasajeros que en ese momento cruzaba el PPN no protegido (capítulo 3.2.1). 
+### 1. Resumen 
+El 01 de agosto de 2022 a las 21:38 horas, en el PAF «Milja», activamente asegurado (luz, sonido y semibarrera) en la línea de identificación M202 Zagreb - Rijeka en el km 634+828, se produjo el alcance por parte de la locomotora del tren número 89717, que circulaba en el tramo Rijeka - Ogulin, contra un vehículo de carretera.   
+En el accidente resultó levemente herido un pasajero del vehículo de carretera, y se produjo un daño material considerable en el vehículo de carretera y un daño material menor en la locomotora del tren.  
+El factor causal del accidente en cuestión fue el paso del tren número 89717 por el PAF en el que el dispositivo de aseguramiento no estaba activado, y el alcance del tren contra un vehículo de carretera que en ese momento estaba cruzando el PAF no asegurado (capítulo 3.2.1). 
 Factores contribuyentes:  
 - 
 visibilidad reducida debido a la noche (capítulo 3.1.3), 
 - 
-visibilidad reducida en el PPN activamente protegido para los conductores de vehículos de carretera cuando el dispositivo de protección no está activado, debido a la configuración del área circundante al PPN (capítulo 3.1.3). 
+menor visibilidad en el PAF activamente asegurado por parte de los conductores de vehículos de carretera cuando el dispositivo de aseguramiento no está activado, dada la configuración del entorno del PAF (capítulo 3.1.3). 
 Factor sistémico:  
 - 
-avería del dispositivo de señalización y seguridad para la protección del paso a nivel ferroviario-carretero (capítulo 3.2.3) 
-(desconexión del dispositivo de protección del PPN antes de la llegada del tren al mismo). 
+avería del dispositivo de señalización y seguridad para la protección del paso a nivel ferroviario (capítulo 3.2.3) 
+(desactivación del dispositivo de aseguramiento del PAF antes de la llegada del tren al mismo). 
 ### Recomendaciones de seguridad 
-La Agencia para la Investigación de Accidentes en el Tráfico Aéreo, Marítimo y Ferroviario, basándose en la investigación llevada a cabo de este accidente, con el fin de aumentar la seguridad del sistema ferroviario, emite a la Agencia de Seguridad del Tráfico Ferroviario la siguiente recomendación de seguridad:  
-AIN/06-SR-11/2023: El gestor de la infraestructura debería introducir medidas y procedimientos adicionales que garanticen la circulación segura del tráfico en los casos en que no pueda determinarse con precisión la causa de la avería en los dispositivos de señalización y seguridad, cuya reparación se realiza mediante el restablecimiento manual del dispositivo de señalización y seguridad.   
-### RESUMEN 
-El 01 de agosto de 2022, a las 21:38 p. m., en el paso a nivel (PPN) «Milja», activamente protegido (luz, sonido y barrera semiautomática) 
-en la línea M202 Zagreb - Rijeka en el punto kilométrico 634+828, el tren de locomotora número 89717 colisionó con un vehículo de carretera de pasajeros 
-mientras circulaba por la ruta Rijeka - Ogulin. 
-En el accidente, un pasajero de un vehículo de carretera de pasajeros resultó herido de gravedad leve, y se produjeron daños materiales importantes 
-en el vehículo de carretera de pasajeros y daños materiales menores en la locomotora del tren. 
-El factor causal del accidente en cuestión fue el paso del tren número 89717 por el PPN en el que 
-el dispositivo de seguridad no estaba activado y la colisión del tren con un vehículo de carretera de pasajeros que estaba 
-cruzando el PPN no protegido en ese momento (Capítulo 3.2.1). 
-Factores contribuyentes: 
+La Agencia de Investigación de Accidentes en el Tránsito Aéreo, Marítimo y Ferroviario, con base en la investigación realizada de este accidente, con el fin de aumentar la seguridad del sistema ferroviario, emite a la Agencia de Seguridad del Tráfico Ferroviario la siguiente recomendación de seguridad:  
+AIN/06-SR-11/2023: El gestor de infraestructura debería adoptar medidas y procedimientos adicionales que garanticen la circulación segura del tráfico en los casos en que en los dispositivos de señalización y seguridad no se pueda determinar con exactitud la causa de la avería, la cual se subsana mediante el reinicio manual del dispositivo de señalización y seguridad.   
+### SUMMARY 
+On August 01, 2022, at 09:38 p.m., on the LC "Milja", actively secured (light, sound and half-bumper) 
+on the line M202 Zagreb - Rijeka at km 634+828, engine train number 89717 ran into road passenger 
+vehicle while operated on the route Rijeka - Ogulin. 
+In the accident, a passenger in a personal road vehicle was minor injured, and there was major material 
+damage to the personal road vehicle and minor material damage to the locomotive of the train. 
+The causal factor of the subject accident was passing of train number 89717 over the LC on which the 
+safety device was not activated and the collision of the train with a personal road vehicle that was 
+crossing the unsecured LC at that moment (Chapter 3.2.1). 
+Contributing factors: 
 -  
-visibilidad reducida debido a la noche (Capítulo 3.1.3.),
+reduced visibility due to night (Chapter 3.1.3.),
 
 ## Página 8
 
 -  
-visibilidad reducida en un paso a nivel (PN) activamente asegurado para los conductores de vehículos de carretera cuando el dispositivo de aseguramiento no está activado, debido a la configuración del área alrededor del PN (capítulo 3.1.3). 
+visibilidad reducida en un paso a nivel (LC) activamente asegurado para los conductores de vehículos 
+de carretera cuando el dispositivo de aseguramiento no está activado, debido a la configuración del 
+entorno del paso a nivel (LC) (Capítulo 3.1.3). 
 Factor del sistema: 
 -  
-fallo del dispositivo de seguridad de señalización para la protección del PN (capítulo 3.2.3) (desconexión del dispositivo de aseguramiento del PN antes de la llegada del tren a él). 
+fallo del dispositivo de seguridad de señalización para la protección del paso a nivel (LC) (Capítulo 
+3.2.3) (desconexión del dispositivo de aseguramiento del paso a nivel (LC) antes de la llegada del 
+tren al mismo). 
 ### Recomendaciones de seguridad 
-La Agencia de Investigación de Accidentes de Tráfico Aéreo, Marítimo y Ferroviario, basándose en la investigación llevada a cabo de este accidente, con el fin de aumentar la seguridad del sistema ferroviario, emite la siguiente recomendación de seguridad a la Agencia de Seguridad Ferroviaria: 
-AIN/06-SR-11/2023: El gestor de la infraestructura debería introducir medidas y procedimientos adicionales para garantizar el flujo seguro del tráfico en los casos en los que la causa del fallo no pueda determinarse con precisión en los dispositivos de seguridad de señalización, y que se elimina mediante el restablecimiento manual del dispositivo de seguridad de señalización. 
-### 2. INVESTIGACIÓN Y SU CONTEXTO 
-### 2.1. Decisión de iniciar la investigación 
-Tras la inspección ocular realizada el 01./02. de agosto de 2022 por parte de la AIN, Departamento de Investigación de Accidentes en el Tráfico Ferroviario, y tras el análisis de la información y las pruebas recopiladas, se determinó que en el accidente en cuestión se había puesto en peligro la seguridad del sistema ferroviario, por lo que el investigador principal de accidentes ferroviarios dictó el 30 de agosto de 2022 la Decisión de iniciar la investigación de este accidente, con arreglo al artículo 126, apartado 3, de la Ley de Seguridad e Interoperabilidad del Sistema Ferroviario (Narodne novine, número 63/20). La notificación del inicio de la investigación de este accidente se envió el 30 de agosto de 2022 a todas las partes implicadas, al organismo nacional competente en materia de seguridad —la Agencia de Seguridad del Tráfico Ferroviario (ASŽ)—, al gestor de la infraestructura (IM) HŽ Infrastruktura d.o.o., al conductor del vehículo de motor de carretera y al transportista ferroviario (RU) RCC d.o.o.  
-La Agencia Ferroviaria de la Unión Europea (ERA) fue notificada mediante el formulario de informe enviado a la dirección de correo electrónico Investigation@era.europa.eu del inicio de la investigación, de conformidad con el plazo de siete días desde la fecha de dictado de la decisión de iniciar la investigación, de acuerdo con el artículo 133, apartados 1 y 2, de la Ley de Seguridad e Interoperabilidad del Sistema Ferroviario (Narodne novine, número 63/20).  
-### 2.2. Fundamentación de la Decisión de iniciar la investigación 
-La Decisión de iniciar la investigación del accidente en cuestión se dictó con arreglo al artículo 127, apartados 2 y 3, punto a), de la Ley de Seguridad e Interoperabilidad del Sistema Ferroviario (Narodne novine, número 63/20), es decir, al artículo 20, apartado 2, punto a), de la Directiva (UE) 2016/798 del Parlamento Europeo y del Consejo, de 11 de mayo de 2016, relativa a la seguridad ferroviaria (reforma). 
-### 2.3. Alcance y limitaciones de la investigación  
-El alcance de la investigación se detalla más ampliamente en el punto 4 del presente informe, mientras que no hubo limitaciones ni retrasos.
+La Agencia de Investigación de Accidentes de Tráfico Aéreo, Marítimo y Ferroviario, con base en la 
+investigación realizada de este accidente, con el fin de aumentar la seguridad del sistema ferroviario, 
+emite la siguiente recomendación de seguridad a la Agencia de Seguridad Ferroviaria: 
+AIN/06-SR-11/2023: El gestor de infraestructura debería introducir medidas y procedimientos 
+adicionales para garantizar el flujo seguro del tráfico en los casos en que la causa del fallo no pueda 
+determinarse con precisión en los dispositivos de seguridad de señalización, y que se elimina mediante 
+el reinicio manual del dispositivo de seguridad de señalización. 
+### 2. ISTRAGA I NJEZIN KONTEKST 
+### 2.1. Odluka o pokretanju istrage 
+Nakon obavljenog očevida dana 01./02. kolovoza 2022. godine od strane AIN, Odjela za istrage nesreća 
+u željezničkom prometu, te analizom prikupljenih informacija i dokaza, utvrđeno je da je u predmetnoj 
+nesreći došlo do ugrožavanja sigurnosti željezničkog sustava stoga je glavni istražitelj željezničkih 
+nesreća donio dana 30. kolovoza 2022. godine Odluku o pokretanju istrage ove nesreće temeljem 
+članka 126. stavka 3. Zakona o sigurnosti i interoperabilnosti željezničkog sustava („Narodne novine“, 
+broj 63/20). Obavijest o pokretanju istrage ove nesreće poslana je dana 30. kolovoza 2022. godine svim 
+uključenim stranama, nacionalnom tijelu nadležnom za sigurnost - Agenciji za sigurnost željezničkog 
+prometa (ASŽ), upravitelju infrastrukture (IM) HŽ Infrastruktura d.o.o., vozaču osobnog cestovnog 
+motornog vozila te željezničkom prijevozniku (RU) RCC d.o.o.  
+Agencija Europske unije za željeznice (ERA) obaviještena je putem dostavljenog Obrasca za 
+izvješćivanje na e-mail adresu Investigation@era.europa.eu o pokretanju istraživanja, sukladno roku 
+od sedam dana od dana donošenja odluke o pokretanju istraživanja, članka 133. stavka 1. i 2. Zakona 
+o sigurnosti i interoperabilnosti željezničkog sustava („Narodne novine“, broj 63/20).  
+### 2.2. Obrazloženje Odluke o pokretanju istrage 
+Odluka o pokretanju istraživanja predmetne nesreće donesena je na temelju članka 127. stavaka 2. i 3. 
+točke a) Zakona o sigurnosti i interoperabilnosti željezničkog sustava („Narodne novine“, broj 63/20) 
+tj. članka 20. stavak 2. točke (a) Direktive (EU) 2016/798 Europskog parlamenta i Vijeća od 11. svibnja 
+2016. o sigurnosti željeznica (preinaka). 
+### 2.3. Opseg i ograničenja istrage  
+Opseg istrage naveden je detaljnije u točki 4. ovog izvješća, dok ograničenja i kašnjenja nije bilo.
 
 ## Página 9
 
@@ -477,38 +500,65 @@ Botones:
 ## Página 19
 
 Contadores:
--
+- 
 BrSm, contador de averías
--
+- 
 BrKv, contador de fallos
-Modo de funcionamiento del dispositivo de control remoto
-El dispositivo de protección del paso a nivel es de tipo DK, lo que significa que consta de dos sistemas que pueden funcionar de manera completamente autónoma. Cualquiera que sea el estado activo, realiza la protección completa del cruce entre la carretera y la vía férrea.
-Cuando se produce una avería en el dispositivo del paso a nivel (ŽCP), esta se indica en el dispositivo de control remoto mediante señales luminosas y acústicas. Se distinguen dos tipos de averías: una avería (smetnja), cuando una parte del dispositivo no funciona correctamente, y un fallo (kvar), cuando el dispositivo completo está fuera de servicio. En caso de avería, el dispositivo sigue protegiendo el paso a nivel (ŽCP), mientras que en caso de fallo, el paso a nivel se considera desprotegido.
-La caída fuera de servicio de un sistema del dispositivo se manifiesta con el apagado de la luz amarilla fija en el indicador de estado correcto y el encendido de la luz roja fija en el indicador de avería, acompañada de una alarma acústica.
-La caída fuera de servicio de ambos sistemas del dispositivo se manifiesta con el apagado de la luz amarilla fija en el indicador de estado correcto y el encendido de la luz roja intermitente en el indicador de fallo, acompañada de una alarma acústica.
-Al cesar la causa de la avería, esta se resuelve automáticamente, mientras que el fallo no puede resolverse hasta la llegada del servicio de mantenimiento, que reparará la avería y probará el dispositivo. La alarma acústica puede desactivarse pulsando el botón AL. Cada avería se registra en el correspondiente contador de averías o de fallos.
-Mediante los botones de prueba de avería y fallo, IS e IK, se prueba la funcionalidad del dispositivo de control remoto de manera que, al pulsar dichos botones, aparezca en el indicador de control la indicación de avería o fallo, respectivamente. Esta verificación de la funcionalidad la realiza el encargado del tráfico de trenes al asumir y al dejar el servicio.
+Funcionamiento del dispositivo de control remoto
+El dispositivo de protección del paso a nivel es de tipo DK, lo que significa que consta de dos sistemas que pueden funcionar de forma totalmente independiente. Cualquiera de ellos, en estado activo, realiza la protección completa del cruce de carretera y ferrocarril.
+Cuando aparece una avería en el dispositivo del paso a nivel, esta se manifiesta en el dispositivo de control remoto mediante señalización luminosa y acústica. Distinguimos dos tipos de averías: la avería – cuando falla una parte del dispositivo – y el fallo – cuando el dispositivo completo deja de funcionar. En caso de avería, el dispositivo sigue protegiendo el paso a nivel, y en caso de fallo, el paso a nivel se considera sin protección.
+La caída de funcionamiento de un sistema del dispositivo se manifiesta mediante la apagado de la luz amarilla tranquila en el indicador de estado correcto y el encendido de la luz roja tranquila en el indicador de avería, junto con la alarma acústica.
+La caída de funcionamiento de ambos sistemas del dispositivo se manifiesta mediante la apagado de la luz amarilla tranquila en el indicador de estado correcto y el encendido de la luz roja intermitente en el indicador de fallo, junto con la alarma acústica.
+Al desaparecer el motivo de la avería, esta se resuelve sola, mientras que el fallo no puede resolverse hasta la llegada del servicio de mantenimiento, que reparará la avería y comprobará el dispositivo. La alarma acústica puede desactivarse con el botón AL. Cada avería se registra en el contador de averías o de fallos correspondiente.
+Con los botones de comprobación de avería y fallo IS e IK se comprueba el correcto funcionamiento del dispositivo de control remoto de modo que, al pulsar dichos botones, aparece en el indicador de control la avería o el fallo, respectivamente. Esta comprobación de correcto funcionamiento la realiza el operador de trenes al tomar y al dejar el servicio.
 Funcionamiento del dispositivo
-1. Circulación del tren procedente de Zagreb – Rijeka
-La activación del dispositivo del paso a nivel depende de la señal espacial número 922. Si la señal espacial número 922 indica una señal que permite la continuación de la marcha del tren, para la activación del dispositivo existen dos casos:
-a) La señal de salida junto a la cual se establece la vía de salida en dirección a Rijeka indica una señal que permite la continuación de la marcha; la activación del dispositivo se realiza mediante la ocupación del tramo controlado de aislamiento de entrada 1³.
-b) La señal de salida junto a la cual se establece la vía de circulación en dirección a Rijeka, debido a un fallo en el dispositivo de estación SS, no puede indicar la señal que permite la continuación de la marcha, y mediante la señal que indica la señalización "ALTO", de acuerdo con las disposiciones del reglamento RH-2, la activación del dispositivo se realiza mediante el paso por el punto de activación K1.
-En las señales de carretera se encienden las luces rojas intermitentes y se activan las campanas de sonido fuerte. Tras finalizar el tiempo de prealarma de 20 segundos, se bajan las barreras semibarrera. Cuando las barreras semibarrera bajan a la posición cerrada, las campanas dejan de funcionar. El dispositivo de protección del paso a nivel se desactiva tras el paso por el punto de desactivación K3/K13 y la salida de la zona del cruce. El estado básico del dispositivo se alcanza 15 segundos después de la desactivación del dispositivo. La posterior circulación por el contacto de activación K2 no tiene efecto sobre el dispositivo del paso a nivel, ya que para esta dirección el contacto de activación está inactivo. Si la señal número 922 indica la señalización "ALTO", se memoriza la ocupación del tramo controlado de aislamiento de entrada 1³ o del punto de activación K1. Tras el cambio de las condiciones para la señal espacial número 922 a una señal que permite la continuación de la marcha, el dispositivo se activa inmediatamente. La señal espacial número 922 indica la señal que permite la continuación de la marcha del tren únicamente cuando ha transcurrido el tiempo de retención, suficiente para garantizar la protección segura del cruce entre la carretera y la vía férrea.
+1. Circulación del tren desde la dirección Zagreb – Rijeka
+La activación del dispositivo del paso a nivel depende de la señal de posición número 922. Si la señal de posición número 922 muestra una señal que permite la continuación de la circulación del tren, para la activación del dispositivo tenemos dos casos:
+a) La señal de salida junto a la que se establece la vía de salida en dirección Rijeka muestra una señal que permite la continuación de la circulación, la activación del dispositivo se consigue mediante la ocupación del tramo controlado del aislamiento de entrada 1³.
+b) La señal de salida junto a la que se establece la vía en dirección Rijeka, debido a un fallo en el dispositivo SS de la estación, no puede mostrar una señal que permita la continuación de la circulación, y a través de la señal que muestra la señal "STOJ" de conformidad con las disposiciones del reglamento RH-2, la activación del dispositivo se consigue mediante el paso por el punto de activación K1.
+En las señales de carretera se encienden las luces rojas intermitentes y se activan las campanas de sonido fuerte. Transcurrido el tiempo de preaviso de 20 segundos, se bajan las barreras semiautomáticas. Cuando las barreras semiautomáticas se bajan a la posición cerrada, las campanas dejan de funcionar. El dispositivo de protección del paso a nivel se desactiva tras el paso por el punto de desactivación K3/K13 y la salida de la zona del paso. El estado base del dispositivo se alcanza a los 15 segundos después de la desactivación del dispositivo. El paso posterior por el contacto de activación K2 no tiene efecto sobre el dispositivo del paso a nivel; para esta dirección el contacto de activación está inactivo. Si la señal número 922 muestra la señal "STOJ", el paso por el tramo controlado del aislamiento de entrada 1³, es decir, por el punto de activación K1, queda memorizado. Tras el cambio de condiciones de la señal de posición número 922 a una señal que permite la continuación de la circulación, el dispositivo se activa inmediatamente. La señal de posición número 922 muestra una señal que permite la continuación de la circulación del tren solo cuando transcurre el tiempo de retención, suficiente para proteger de forma segura el cruce de carretera con ferrocarril.
 
 ## Página 20
 
-Si existe la necesidad de que el tren continúe su marcha junto a la señal espacial número 922 que muestra la señalización que prohíbe la continuación de la marcha del tren, el cruce ferroviario (ŽCP) “STOJ” se considerará no asegurado y el personal del tren deberá protegerlo de acuerdo con las disposiciones del reglamento RH-2. El punto de activación adicional K4, instalado detrás de la señal espacial número 922, activará el dispositivo y, de este modo, se evitarán las situaciones de avería. Debido a la proximidad, el punto de activación adicional no puede ser tratado como el punto de activación K2, ya que no hay tiempo suficiente para que el proceso de aseguramiento se complete antes de la llegada del tren al propio paso a nivel. Si el tren se detiene entre el punto de activación K1 y el ŽCP, el dispositivo no se desactivará.
-La circulación de vehículos de vía se realiza bajo el procedimiento APB SS y para ellos el ŽCP se considera no asegurado.
-2. Circulación del tren procedente de la dirección Rijeka-Zagreb
-Cuando el primer eje del tren se encuentre a la altura del punto de activación K2, se activa la activación del dispositivo de aseguramiento del ŽCP. El dispositivo se desactiva mediante el paso por el punto de exclusión K3/K13 y la salida de la zona del paso a nivel.
-La activación del dispositivo ŽCP depende de la señal espacial número 921. Si la señal espacial número 921 indica permiso de circulación, el dispositivo ŽCP se activa en el punto de activación. Si la señal espacial número 921 indica prohibición de circulación, se memoriza el paso por el punto de activación y, al cambiar las condiciones para la señal espacial 921 a la señalización de circulación, el dispositivo se desactiva inmediatamente. En la señal espacial 921, el cambio de la señalización se producirá únicamente cuando haya transcurrido el tiempo de retención para garantizar la protección del cruce de la carretera con la vía.
-Si existe la necesidad de que el tren continúe su marcha junto a la señal espacial número 921 que muestra la señalización que prohíbe la continuación de la marcha del tren, el cruce ferroviario (ŽCP) “STOJ” se considerará no asegurado y el maquinista del tren deberá protegerlo de acuerdo con las disposiciones del reglamento de circulación.
-El punto de activación adicional K5, instalado detrás de la señal espacial número 921, se activará, pero debido a la proximidad no puede considerarse como el punto de activación K2, ya que existe la posibilidad de que el proceso de aseguramiento no se complete antes de la llegada del tren al propio paso a nivel. Si el tren se detiene entre el punto de activación K2 y el ŽCP, el dispositivo no se desactivará. Si el tren se detiene en la señal de entrada B de la estación de Meja, la continuación de la marcha no provocará una reactivación inversa, ya que el punto K1 está inactivo. El estado básico del dispositivo se alcanza en el propio paso a nivel. La circulación de vehículos de vía se realiza bajo el procedimiento APB SS y para ellos el ŽCP se considera no asegurado.
-Gestión local del dispositivo de aseguramiento del paso a nivel
-El dispositivo de aseguramiento del ŽCP puede gestionarse localmente. En el armario telefónico marcado con la señalización 215: “Lugar donde está el teléfono”, hay un interruptor para el funcionamiento local. El procedimiento de gestión local es el mismo para ambas direcciones de circulación.
-Mantenimiento y eliminación de averías en el dispositivo de aseguramiento del ŽCP
-El mantenimiento de la infraestructura en la zona donde se encuentra el ŽCP “Milja” es competencia de la Unidad de Trabajo Regional para el mantenimiento de los sistemas SS y TK, Oeste, Rijeka.
-Se han solicitado a IM información y documentación sobre el mantenimiento periódico, así como datos sobre las interrupciones y averías del dispositivo de aseguramiento del ŽCP “Milja”. Al examinar la documentación de mantenimiento, las copias del libro de trabajos V-10 y las hojas de ensayo y medición correspondientes al período comprendido entre el mes de agosto de 2021, se observa que el dispositivo de aseguramiento, hasta el momento del accidente, ha sido mantenido de forma adecuada y periódica, de acuerdo con las disposiciones del Reglamento
+Ukoliko postoji potreba  da vlak nastavi vožnju pored prostornog signala broj 922 koji pokazuje signalni 
+znak  kojim se zabranjuje daljnja vožnja vlaka, “STOJ“ ŽCP će se smatrati neosiguranim i osoblje vlaka 
+ga treba zaštititi u skladu s odredbama pravilnika RH-2. Dodatna uključna točka K4 ugrađena iza 
+prostornog signala broj 922 će uključiti uređaj i tako će se izbjeći pojave stanja kvara. Zbog blizine 
+dodatna uključna točka ne može se tretirati kao uključna točka K2 jer nema dovoljno vremena da se 
+proces osiguranja do kraja izvrši prije dolaska vlaka na sam prijelaz. Ako dođe do zaustavljnja vlaka 
+između uključne točke K1 i ŽCP-a, uređaj se neće isključiti. 
+Vožnja pružnih vozila se obavlja pod APB SS i za njih se ŽCP smatra neosiguranim. 
+2. Vožnja vlaka iz smjera Rijeka-Zagreb 
+Kada se prva osovina vlaka nađe u visini uključne točke K2 aktivira se uključenje uređaja za osiguranje 
+ŽCP-a. Uređaj se isključuje iz rada prevoženjem isključne točke K3/K13 i napuštanjem područja 
+prijelaza. 
+Uključenje uređaja ŽCP-a je u ovisnosti s prostornim signalom broj 921. Ako prostorni signal broj 921  
+signalizira dozvoljenu vožnju uređaj ŽCP-a  se uključuje na uključnoj točki. Ukoliko prostorni signal broj 
+921 signalizira zabranjenu vožnju, prevoženje uključne točke se pamti, a promjenom uvjeta za 
+prostorni signal 921 za znak vožnje uređaj se odmah isključuje. Na prostornom signalu 921 će se 
+promjena signalnog znaka desiti tek kada istekne vrijeme zadržavanja-sigurno se zaštititi križanje ceste 
+s prugom. 
+Ukoliko postoji potreba da vlak nastavi vožnju pored prostornog signala broj 921 koji pokazuje signalni 
+znak  kojim se zabranjuje daljnja vožnja vlaka, “STOJ“ ŽCP će se smatrati neosiguranim i strojovođa 
+vlaka ga treba zaštiti  u skladu s odredbama prometnog pravilnika. 
+Dodatna uključna točka K5 ugrađena je iza prostornog signala broj 921 će se uključiti, ali zbog blizine 
+se ne može smatrati kao uključna točka K2 jer postoji mogućnost da se proces osiguranja do kraja ne 
+izvrši prije dolaska vlaka na sam prijelaz. Ukoliko dođe do zaustavljnja vlaka između uključne točke K2 
+i ŽCP-a uređaj se neće isključiti. Ukoliko se vlak zaustavi na ulaznom signalu B kolodvora Meja 
+nastavljanjem vožnje neće se desiti povratno uključenje jer je točka K1 neaktivna. Osnovno stanje 
+uređaja postiže se na samom prijelazu. Vožnja pružnih vozila se obavlja pod APB SS i za njih se ŽCP 
+smatra neosiguranim. 
+Lokalno rukovanje uređajem osiguranja cestovnog prijelaza 
+Uređajem osigurnja ŽCP-a može se lokalno rukovati. U telefonskom ormariću označenim signalnom 
+oznakom 215: “Mjesto na kojem je telefon“, nalazi se prekidač za lokalni rad. Postupak lokalnog 
+rukovanja je isti za oba smjera prometovanja.  
+Održavanje i otklanjanje neispravnosti na uređaju za osiguranje ŽCP-a 
+Održavanje infrastrukture na području gdje se nalazi ŽCP “Milja“ u nadležnosti je Područne radne 
+jedinice za održavanje SS i TK sustava, Zapad, Rijeka.  
+Od IM zatražene su informacije i dokumentacija o redovnom održavanju kao i podaci o smetnjama i 
+kvarovima uređaja za osiguranje ŽCP-a “Milja“.  Uvidom u dokumentaciju o održavanju, preslike knjige 
+radova V-10 i ispitno-mjernih lista za razdoblje od mjeseca kolovoza 2021. godine, vidljivo je da je  
+uređaj za osiguranje do trenutka nesreće, uredno i redovno održavan sukladno odredbama Pravilnika
 
 ## Página 21
 
@@ -765,17 +815,16 @@ Recomendaciones de seguridad del Comité Técnico de Expertos:
 
 ## Página 32
 
-3. Dado que se trata de un paso a nivel controlado por centralización (ŽCP) con una frecuencia de tráfico rodado excepcionalmente elevada (especialmente en los meses de verano), así como del hecho de que el equipo básico del ŽCP es del tipo «Iskra DK» de los años 70, el cual, debido a la modernización posterior del ISEV y a la instalación del APB, ha sufrido diversas ampliaciones, incluida la sustitución del sistema de detección de trenes, el Comité ha recomendado que el Plan de inversiones contemple la sustitución del equipo de seguridad por un nuevo equipo electrónico, fabricado conforme a la normativa vigente, todo ello con el fin de evitar posibles irregularidades en el futuro.
-4. Es necesario realizar en el próximo periodo una gran rectificación o sustituir por nuevas (la última edición disponible) todos los grupos de relés de la marca 465-414-000 que tengan más de 20 años de antigüedad.
-El 17.01.2023, el paso a nivel ferroviario-rodado fue declarado apto, con la introducción de una circulación ligera con una velocidad máxima (Vmax) de 20 km/h desde el pk 634+810 hasta el pk 634+840.
+3. Dado que se trata de un paso a nivel ferroviario con una frecuencia excepcionalmente alta de tráfico por carretera (especialmente en los meses de verano), así como por el hecho de que el dispositivo principal del paso a nivel es del tipo „Iskra DK“ de los años 70, que debido a la modernización posterior de ISEV y la instalación de APB ha sufrido diversas modificaciones, incluida la sustitución del sistema de detección de trenes, la Comisión recomendó que en el Plan de inversiones se previera la sustitución del dispositivo de seguridad por un nuevo dispositivo electrónico, ejecutado de conformidad con la normativa vigente, todo ello con el fin de prevenir posibles irregularidades en el futuro.
+4. Es necesario, en el período siguiente, realizar una gran reparación o sustituir por nuevas (última edición disponible) todos los grupos de relés con la designación 465-414-000 que tengan más de 20 años.
+El 17.01.2023 se declaró en condiciones de servicio el paso a nivel ferroviario, con la introducción de una conducción lenta con Vmax 20 km/h desde km 634+810 hasta km 634+840.
 ### 5.3. Consideraciones adicionales
-El comité de expertos, creado por el Gestor de la infraestructura tras la realización de la análisis de seguridad, ha propuesto recomendaciones de seguridad (capítulo 5.2). Al examinar la documentación, en el libro V-10 (capítulo 3.1.8) se indican 6 averías en las que la causa de la no conformidad es desconocida. En los casos en los que la causa de la avería en los equipos de señalización y seguridad es desconocida, el Gestor de la infraestructura debería adoptar medidas adicionales hasta que se descubra la causa de la avería y se subsane. En la recomendación de seguridad se solicita que el Gestor de la infraestructura, en los casos en que no se pueda descubrir la causa de la avería, adopte obligatoriamente medidas adicionales para que no se ponga en peligro la seguridad del tráfico.
+El comité de expertos creado por el Gestor de la infraestructura tras la realización del análisis de seguridad propuso recomendaciones de seguridad (capítulo 5.2). Del examen de la documentación, en el libro V-10 (capítulo 3.1.8) se indican 6 averías cuya causa de la avería es desconocida. En los casos en que en los dispositivos de señalización y seguridad la causa de la avería sea desconocida, el Gestor de la infraestructura debería adoptar medidas adicionales hasta que se descubra la causa de la avería y se elimine la misma. En la recomendación de seguridad solicitamos que el Gestor de la infraestructura, en los casos en que no se pueda descubrir la causa de la avería, adopte obligatoriamente medidas adicionales para que no se vea amenazada la seguridad del tráfico.
 ### CONCLUSIONES
-5.1. Un resumen del análisis y las conclusiones en relación con las causas del incidente
-La secuencia de causa y efecto del suceso extraordinario se ha establecido de acuerdo con las pruebas recogidas, los documentos y las declaraciones de los participantes en el accidente. El maquinista del tren número 89717 comenzó su turno el 01 de agosto de 2022 a las 18:22 h, cuando tomó el control del tren en la estación de Rijeka. El maquinista del tren comenzó a conducir el tren hacia la estación de destino Moravice el 01 de agosto de 2022 a las 21:17 h. A las 21:30 h, el tren pasó por la estación de Škrljevo y continuó su marcha por la línea M202 hacia el punto de cruce (LC) «Milja». El tren pasó junto a la señal espacial número 922 y, debido a la acción del baliza de 1000 Hz a las 21:34:04 h, el tren frenó y se detuvo a las 21:34:25 h.
-A las 21:34:42 h, el tren volvió a ponerse en marcha; a las 21:37:23 h, el maquinista del tren observó que los topes medios comenzaban a elevarse en el punto de cruce (LC) y activó el freno de emergencia, y posteriormente, a las 21:37:30 h, a una velocidad de 38 km/h, se produjo la colisión con un vehículo de pasajeros por carretera. El tren se detuvo a las 21:37:39 h en el pk 634+777.
+5.1. Resumen del análisis y de las conclusiones respecto a las causas de la ocurrencia
+La secuencia causa-efecto del acontecimiento extraordinario se elaboró de acuerdo con las pruebas recopiladas, los documentos y las declaraciones de los participantes en el accidente. El maquinista del tren número 89717 inició su turno el 01 de agosto de 2022 a las 06:22 p. m., cuando hizo cargo del tren en la estación Rijeka. El maquinista del tren comenzó a conducir el tren hacia la estación de destino Moravice el 01 de agosto de 2022 a las 09:17 p. m. A las 09:30 p. m. el tren pasó por la estación Škrljevo y continuó su marcha por la línea M202 hacia el paso a nivel „Milja“. El tren pasó junto a la señal espacial número 922 y, debido a la acción del balizaje de 1000 Hz a las 09:34:04 p. m., el tren frenó y se detuvo a las 09:34:25 p. m. A las 09:34:42 p. m. el tren arrancó, a las 09:37:23 p. m. el maquinista del tren observó que las medias barreras comienzan a elevarse en el paso a nivel y activó el frenado de emergencia, y luego a las 09:37:30 p. m., a una velocidad de 38 km/h, se produjo la colisión con un vehículo de pasajeros por carretera. El tren se detuvo a las 09:37:39 p. m. en el km 634+777.
 ### 5.2. Medidas adoptadas desde la ocurrencia
-Tras el accidente en cuestión, el Gestor de la Infraestructura (IM) declaró no asegurado el punto de cruce (LC) «Milja» y estableció un comité de expertos para examinar el equipo, cuya tarea era determinar la causa de la desconexión del equipo mientras un tren circulaba hacia él.
+Tras el accidente en cuestión, el Gestor de la infraestructura declaró el paso a nivel „Milja“ no asegurado y constituyó un comité de expertos para examinar el dispositivo, cuya tarea era determinar la causa de la desconexión del dispositivo mientras un tren entraba en él.
 
 ## Página 33
 

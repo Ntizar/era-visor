@@ -50,7 +50,7 @@ MODELO_DEF = "mimo-v2.6-flash"
 # Reutiliza el detector de idioma del conversor (mismas listas de palabras función).
 from convertir_md_pais import _STOP  # noqa: E402
 BLOQUE = 12000         # caracteres por llamada (menos viajes = más ritmo)
-RATIO_MIN, RATIO_MAX = 0.75, 1.60
+RATIO_MIN, RATIO_MAX = 0.60, 1.85   # el alemán/estonés/polaco crecen hasta ~1,3-1,7 al pasar a castellano (medido)
 TOL_NUMEROS = 0.02
 
 NL = chr(10)
@@ -328,8 +328,12 @@ def _verificar_base(orig, trad):
 
     if orig.strip():
         ratio = len(trad) / len(orig)
+        # El ratio por PÁGINA no sirve como fallo: una tabla, una lista de viñetas o un
+        # idioma compacto (de/et/pl -> es crece 1,3-1,7) lo disparan sin que falte nada.
+        # Se queda como aviso; el control serio es la pérdida de cifras y el ratio del
+        # INFORME completo (abajo).
         if not (RATIO_MIN <= ratio <= RATIO_MAX):
-            fallos.append(f"ratio {ratio:.2f}")
+            avisos.append(f"ratio {ratio:.2f}")
     return fallos, avisos
 
 
@@ -431,6 +435,12 @@ def reverificar(code, refuerza=False):
             p_or, p_es = paginas(cuerpo_or), paginas(cuerpo)
             if set(p_or) != set(p_es):
                 avisos.append(f"páginas: {len(p_or)} original vs {len(p_es)} castellano")
+            total_or = sum(len(v) for v in p_or.values())
+            total_es = sum(len(v) for v in p_es.values())
+            if total_or > 2000:
+                r = total_es / total_or
+                if not (0.55 <= r <= 2.20):
+                    avisos.append(f"ratio del informe {r:.2f}")
             for k in sorted(set(p_or) & set(p_es), key=int):
                 fallos, blandos = verificar(p_or[k], p_es[k])
                 if fallos:
@@ -513,6 +523,57 @@ def obsoletos(code):
                 salida.append(ruta)
     return salida
 
+
+def reparar_uno(ruta, modelo, base, key, max_paginas=40):
+    """Repara un md-es concreto: re-traduce solo las páginas que fallan."""
+    texto = open(ruta, encoding='utf-8').read()
+    fm, cuerpo = partir_frontmatter(texto)
+    if fm.get('verificacion') == 'ok' or fm.get('texto') == 'ocr':
+        return 0, 0, 'ok'
+    origen = fm.get('md_origen', '')
+    ruta_or = os.path.join(RAIZ, origen.replace('/', os.sep))
+    if not origen or not os.path.exists(ruta_or):
+        return 0, 0, 'sin_origen'
+    _, cuerpo_or = partir_frontmatter(open(ruta_or, encoding='utf-8').read())
+    p_or, p_es = paginas(cuerpo_or), paginas(cuerpo)
+    malas = []
+    for k in sorted(set(p_or) & set(p_es), key=int):
+        fallos, _ = verificar(p_or[k], p_es[k])
+        if fallos:
+            malas.append(k)
+    for k in [k for k in p_or if k not in p_es]:
+        p_es[k] = ''
+        malas.append(k)
+    if not malas:
+        open(ruta, 'w', encoding='utf-8').write(_reconstruir(texto, p_es, fm, 'ok', []))
+        return 0, 0, 'ok'
+    n_pag = 0
+    for k in malas[:max_paginas]:
+        bloque = '## Página ' + k + NL + NL + p_or[k]
+        trad, _ = traducir_bloque(base, key, modelo, bloque, fm.get('idioma_origen', ''))
+        clean = [l for l in trad.strip().splitlines() if not RE_PAG.match(l.strip())]
+        p_es[k] = NL.join(clean).strip()
+        fallos, _ = verificar(p_or[k], p_es[k])
+        if fallos:
+            trad2, _ = traducir_bloque(
+                base, key, modelo, bloque, fm.get('idioma_origen', ''),
+                correctivo=('CORRECCIÓN OBLIGATORIA: falló ' + '; '.join(fallos)
+                            + '. Traduce el fragmento completo, sin omitir ninguna línea,'
+                            + ' tabla ni cifra.'))
+            clean = [l for l in trad2.strip().splitlines() if not RE_PAG.match(l.strip())]
+            cand = NL.join(clean).strip()
+            f2, _ = verificar(p_or[k], cand)
+            if len(f2) <= len(fallos):
+                p_es[k] = cand
+        n_pag += 1
+    avisos = []
+    for k in sorted(set(p_or) & set(p_es), key=int):
+        fallos, _ = verificar(p_or[k], p_es[k])
+        if fallos:
+            avisos.append('página ' + k + ': ' + '; '.join(fallos))
+    open(ruta, 'w', encoding='utf-8').write(
+        _reconstruir(texto, p_es, fm, 'ok' if not avisos else 'revisar', avisos))
+    return len(malas), n_pag, ('ok' if not avisos else 'revisar')
 
 def reparar(code, modelo, base, key, max_paginas=40):
     """Re-traduce SÓLO las páginas que fallan en los md-es ya escritos.

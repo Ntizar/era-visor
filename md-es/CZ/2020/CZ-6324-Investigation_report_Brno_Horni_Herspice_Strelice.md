@@ -10,13 +10,14 @@ chars: 80199
 ratio_longitud: 1.25
 tokens_in: 41063
 tokens_out: 41604
-verificacion: revisar
-notas_cifras: ["bloque 1: original bilingüe: se compara contra el idioma principal (EN)", "bloque 2: original bilingüe: se compara contra el idioma principal (CS)", "bloque 6: original bilingüe: se compara contra el idioma principal (CS)"]
-avisos: ["bloque 6: ratio 1.67"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 5: original bilingüe: se compara contra el idioma principal (CS)", "página 6: original bilingüe: se compara contra el idioma principal (CS)", "página 8: original bilingüe: se compara contra el idioma principal (CS)", "página 9: original bilingüe: se compara contra el idioma principal (CS)", "página 12: original bilingüe: se compara contra el idioma principal (CS)", "página 13: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -45,13 +46,13 @@ IČ: 75009561
 mail@dicr.cz
 tel.: +420 736 521 003
 
-
 ## Página 2
+
 
 Este informe final es público y todos los hechos en él expuestos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ### 1 RESUMEN
 Fuente: DI
@@ -84,8 +85,8 @@ se produjo el suceso extraordinario.
 No se ha determinado por parte de la Inspección Ferroviaria una causa en el sistema de seguridad.
 No se ha emitido por parte de la Inspección Ferroviaria ninguna recomendación de seguridad.
 
-
 ## Página 4
+
 
 ### RESUMEN
 18 de agosto de 2020, 23:06 (21:06 GMT).
@@ -121,8 +122,8 @@ ninguno.
 Recomendación:
 no emitida.
 
-
 ## Página 5
+
 
 # Contenido
 1 RESUMEN.....................................................................................................................3
@@ -181,8 +182,8 @@ ferroviarios....................................................................
 4.2.1 Factores o consecuencias derivados de la construcción de los vehículos
 ferroviarios, de la infraestructura ferroviaria o de las instalaciones técnicas.............26
 
-
 ## Página 6
+
 
 4.2.2 Factores o consecuencias derivados de la instalación y puesta en servicio de
 los vehículos ferroviarios, de la infraestructura ferroviaria o de las instalaciones
@@ -228,6 +229,7 @@ ANEXOS..........................................................................
 
 ## Página 7
 
+
 ### Lista de siglas y símbolos utilizados
 BOZP
 Seguridad y salud en el trabajo
@@ -272,8 +274,8 @@ Informe final sobre los resultados de la investigación del incidente excepciona
 žst.
 Estación de ferrocarril
 
-
 ## Página 8
+
 
 ### Lista de siglas de la legislación, normas y reglamentos internos utilizados
 ley núm. 262/2006 Sb.
@@ -315,42 +317,35 @@ empleador está obligado a garantizar en la explotación del transporte con
 medios de transporte, en la redacción vigente en el momento de la ocurrencia
 del incidente excepcional
 
-
 ## Página 9
 
 ### 2 INVESTIGACIÓN Y SUS RELACIONES
-### 2.1 Decisión sobre el inicio de la investigación
-La DI decidió iniciar la investigación del incidente excepcional en cuestión el 19. 8. 2020 (ocurrencia y notificación del incidente excepcional
-en las horas nocturnas tardías del cambio de día del 18. 8. 2020, con precisión después de la medianoche del 19. 8.
-2020).
-### 2.2 Fundamentación de la decisión sobre el inicio de la investigación
-La DI decidió investigar el incidente excepcional en cuestión sobre la base de su gravedad y recurrencia.
+### 2.1 Decisión de iniciar la investigación
+El DI decidió iniciar la investigación de la MU en cuestión el 19 de 8 de 2020 (origen y notificación de la MU en las horas nocturnas tardías del cambio de día del 18 de 8 de 2020, con precisión después de la medianoche del 19 de 8 de 2020).
+### 2.2 Fundamentación de la decisión de iniciar la investigación
+El DI decidió investigar la MU en cuestión en base a su gravedad y repetitividad.
 ### 2.3 Alcance y limitaciones de la investigación, incluida la fundamentación correspondiente
-La DI no se encontró, en el marco de la investigación del incidente excepcional en cuestión, con limitaciones que influyeran negativamente en
-la forma y los procedimientos de la investigación.
-### 2.4 Descripción resumida de las capacidades técnicas y funciones del equipo de investigación
-Investigación de la DI en el lugar del incidente excepcional:
-2x inspector del ÚI Brno.
-Formación del equipo de investigación:
-no fue necesario formarlo.
+El DI no se encontró, en el marco de la investigación de la MU en cuestión, con limitaciones que influyeran negativamente en el modo y los procedimientos de la investigación.
+### 2.4 Descripción resumida de las capacidades y funciones técnicas del equipo de investigación
+Investigación del DI en el lugar de la MU:
+2x inspector de la ÚI Brno.
+Constitución del equipo de investigación:
+no fue necesario constituirlo.
 Colaboración externa:
 no se utilizó.
-2.5. Comunicación y consultas durante la investigación con personas o sujetos
-que participaron en el suceso en cuestión
-Al investigar las causas y circunstancias de la ocurrencia del incidente excepcional, la DI se basó principalmente en sus propios conocimientos,
-hallazgos y en su propia documentación fotográfica. Durante la investigación, la DI solicitó entonces la documentación
-obtenida durante la investigación al explotador del ferrocarril, al transportista y a la PČR.
-La investigación de las causas y circunstancias de la ocurrencia del incidente excepcional se realizó de acuerdo con la ley núm. 266/1994 Sb.
-y el decreto núm. 376/2006 Sb.
-### 2.6 Descripción del nivel de colaboración ofrecido por los sujetos participantes
-El nivel de colaboración con los representantes de los sujetos participantes en el incidente excepcional fue estándar.
-### 2.7 Descripción de la investigación, métodos y técnicas utilizados para demostrar los hechos
-y los hallazgos indicados en el informe
-En el marco de la investigación del incidente excepcional, la DI procedió de la siguiente manera, es decir, utilizó, entre otros, los siguientes métodos y técnicas:
-inspección del lugar del incidente excepcional, incluidos los vehículos ferroviarios participantes,
+2.5. Comunicación y consultas durante la investigación con las personas o entidades
+que participaron en el acontecimiento de que se trata
+En la investigación de las causas y circunstancias del origen de la MU, el DI se basó principalmente en sus propios conocimientos, hallazgos y en su propia documentación fotográfica. Durante la investigación, el DI solicitó posteriormente la documentación elaborada en el marco de la investigación por parte del gestor de la vía, el transportista y la PČR.
+La investigación de las causas y circunstancias del origen de la MU se realizó de conformidad con la ley nº 266/1994 Sb. y la disposición nº 376/2006 Sb.
+### 2.6 Descripción del nivel de colaboración ofrecido por las entidades participantes
+El nivel de colaboración con los representantes de las entidades participantes en la MU fue estándar.
+### 2.7 Descripción de la investigación, los métodos y las técnicas utilizados para acreditar los hechos
+y los hallazgos consignados en el informe
+En el marco de la investigación de la MU, el DI procedió de la siguiente manera, es decir, utilizó, entre otros, los siguientes métodos y técnicas:
+inspección del lugar del acontecimiento excepcional, incluidos los vehículos ferroviarios participantes,
 •
-las instalaciones técnicas y la infraestructura del ferrocarril;
-análisis de la documentación solicitada al explotador del ferrocarril, al transportista y a la PČR;
+las instalaciones técnicas y la infraestructura de la vía;
+análisis de la documentación solicitada al gestor de la vía, al transportista y a la PČR;
 •
 análisis de las explicaciones presentadas ante la PČR;
 •
@@ -359,8 +354,8 @@ análisis de los datos registrados por el registrador de velocidad del DV partic
 participación en la inspección comisionada de los DV participantes.
 •
 
-
 ## Página 10
+
 
 ### 2.8 Descripción de las dificultades y problemas concretos que surgieron durante la investigación
 Durante la investigación del incidente excepcional no surgieron dificultades ni problemas que influyeran en el
@@ -398,8 +393,8 @@ mecanismo de trabajo (la plataforma de perforación de cadenas HÜTTE HBR 605-3)
 la composición del tren Os 11542 y la infraestructura en el sentido de la marcha del tren, es decir, en el sentido desde la est. Brno-
 Horní Heršpice.
 
-
 ## Página 11
+
 
 ## Lugar del incidente excepcional
 Fig. núm. 1: Esquema del lugar de ocurrencia del incidente excepcional
@@ -421,64 +416,63 @@ en la plataforma de perforación, en el lado izquierdo, había huellas y restos 
 •
 arrancado;
 
-
 ## Página 12
 
-el empleado operador fallecido de la CPS se encontraba a 10 m detrás de la plataforma de perforación
+el empleado de servicio de CPS supervisado se encontraba a 10 m detrás del equipo de perforación
 •
-en el espacio de la 1. TK excluida en el sentido de la marcha del tren Os 11542 (sentido Střelice).
+en el espacio excluido de la 1. TK en el sentido de circulación del tren Os 11542 (dirección Střelice).
 Estado de los vehículos ferroviarios:
-el tren Os 11542 estaba compuesto por el ŘV núm. 50 54 80-29 304-0 a la cabeza del tren y por el HDV 95 54
+el tren Os 11542 estaba compuesto por el ŘV n.º 50 54 80-29 304-0 en cabeza del tren y por el HDV 95 54
 •
-5 842 017-6 (a continuación también 842.017-6);
-la cabeza del ŘV en el lugar de la posición final tras el incidente excepcional se encontraba en el pk 147,644, es decir, 101 m
+5 842 017-6 (en adelante también 842.017-6);
+la cabeza del ŘV en el punto de posición final tras el MU se encontraba en el km 147,644, es decir, 101 m
 •
-detrás del lugar de la colisión con la plataforma de perforación;
-en el momento de la ocurrencia del incidente excepcional viajaban en el tren unos 25 pasajeros;
+detrás del punto de colisión con el equipo de perforación;
+en el momento de producirse el MU viajaban unos 25 pasajeros;
 •
-el maquinista del tren Os 11542 fue informado de manera comprobable de la orden
-«Orden general para el tren Os 11542», núm. 0000526-767, de fecha 18. 8. 2020,
-que advertía sobre marchas lentas en el tramo de vía Brno-Horní Heršpice – Střelice;
-en el lugar del incidente excepcional la velocidad se fijó por orden en 50 km.h-1;
-el ŘV se conducía desde la cabina delantera, donde estaba instalado el registrador de velocidad
+el maquinista del tren Os 11542 había sido informado de forma comprobable de la orden
 •
-electrónico UniControls-Tramex núm. 6028;
-la radio del ŘV estaba sintonizada en el sistema de radio de vía simplex 22, banda 60;
+«Orden general para el tren Os 11542», n.º 0000526-767, de fecha 18. 8. 2020,
+que advertía de circulaciones lentas en el tramo Brno-Horní Heršpice – Střelice,
+en el punto del MU la velocidad estaba fijada por la orden en 50 km.h-1;
+el ŘV se conducía desde el puesto de conducción delantero, donde estaba instalado el registrador
+•
+de velocidad electrónico UniControls-Tramex n.º 6028;
+la radio del ŘV estaba sintonizada en el sistema de radio de tramo simplex 22, banda 60;
 •
 el HDV 842.017-6 estaba sin daños;
 •
-el ŘV tenía el frontal de nieve dañado y los escalones hacia la cabina del maquinista en el lado izquierdo,
+el ŘV tenía el frontal de nieve dañado y los escalones del puesto del maquinista en el lado izquierdo,
 •
-el enchufe de mando a distancia destruido con su cableado, los generadores
-antideslizantes de los ejes 1.º y 2.º izquierdo dañados, el amortiguador de suspensión secundaria
-del 1.º bogie izquierdo destruido, las consolas del amortiguador del 1.º bogie izquierdo dañadas,
-el depósito de aguas residuales del WC dañado, la tubería de llenado del WC en el lado izquierdo
-dañada y la pintura dañada en el frontal y en el lateral izquierdo;
-en la tubería de llenado del WC en el lado izquierdo, delante de las puertas de dos hojas para el
+el enchufe de mando a distancia destruido junto con el cableado, los generadores
+antideslizantes de los ejes 1.º y 2.º izquierdos dañados, el amortiguador de suspensión secundaria
+del 1.º bogie izquierdo destruido, las consolas del amortiguador del balancín del 1.º bogie izquierdo
+dañadas, el depósito de aguas residuales del WC dañado, la tubería de llenado del WC del lado izquierdo
+dañada y la pintura dañada en el frontal y el flanco izquierdo;
+en la tubería de llenado del WC del lado izquierdo, delante de las puertas de dos hojas para el acceso
 •
-subida y bajada de pasajeros, colgaba una prenda de ropa del empleado de la CPS atropellado;
-a la altura de las puertas del ŘV yacía entre la 2. TK en explotación y la 1. TK desmontada el panel de control
+y salida de pasajeros, colgaba una prenda de ropa del empleado de CPS atropellado;
+a la altura de las puertas del ŘV yacía, entre la 2. TK en servicio y la 1. TK retirada, el puesto de mando
 •
-arrancado, enganchado y arrastrado por el tren, con su cableado y su tubería hidráulica
-de la plataforma de perforación;
-en todo el lateral izquierdo del ŘV, incluida la parte de los bogies y parcialmente en el lateral izquierdo del HDV,
+arrancado, enganchado y arrastrado por el tren, con cableado y tubería hidráulica
+del equipo de perforación;
+en todo el flanco izquierdo del ŘV, incluida la parte de bogies, y parcialmente en el flanco izquierdo del HDV
 •
-había huellas de salpicaduras de fluido hidráulico de la plataforma de perforación.
+había huellas de salpicaduras de fluido hidráulico procedente del equipo de perforación.
 Condiciones meteorológicas:
 nublado, +19 °C, período nocturno, visibilidad hasta 100 m.
 Datos geográficos:
-el lugar del incidente excepcional se encontraba en un terraplén, en un puente sobre una vía
+el punto del MU se encontraba en un terraplén sobre un puente que cruza una vía
 local que conduce al patio de recogida de Ostopovice
 y a otros edificios.
-En el tramo de vía Brno-Horní Heršpice – Střelice se estaba realizando un corte de tráfico planificado de la 1. TK
-por motivo de la modernización y electrificación del tramo mencionado («Electrificación de la línea incluidas las PEÚ
-Brno – Zastávka u Brno, 1.ª fase»); la explotación se realizaba por la 2. TK, el corte de tráfico se realizaba de acuerdo con el ROV
-núm. 33088. Tras el paso del tren Os 11542 debía iniciarse también el corte de tráfico de la 2. TK con el fin de realizar trabajos de perforación
-en relación con la construcción del entibado anclado de tablestacas en el lugar de ocurrencia del incidente excepcional y el apilamiento de carriles. El corte de tráfico debía, de acuerdo con el Despacho núm. 2020-08-001084, producirse desde las 23:20 h del 18. 8. 2020
+En el tramo Brno-Horní Heršpice – Střelice se estaba llevando a cabo una interrupción planificada de la 1. TK
+por motivo de la modernización y electrificación del mencionado tramo («Electrificación de la línea incluida la PEÚ
+Brno – Zastávka u Brna, 1.ª fase»), la circulación se realizaba por la 2. TK, la interrupción se ejecutaba conforme al ROV n.º 33088. Tras el paso del tren Os 11542 debía iniciarse también la interrupción de la 2. TK con el fin de realizar trabajos de perforación
+en relación con la construcción del anclaje de muro pantalla en el punto de producción del MU y el apilamiento de raíles. La interrupción debía, conforme al Despacho n.º 2020-08-001084, producirse desde las 23:20 h del 18. 8. 2020
 hasta las 3:30 h del 19. 8. 2020.
 
-
 ## Página 13
+
 
 ### 3.1.4 Fallecimientos, lesiones y daños materiales
 En el incidente excepcional se produjo:
@@ -525,6 +519,7 @@ ferrocarril SŽ y el transportista ČD el 20. 1. 2020, con efectos desde el 23. 
 
 ## Página 14
 
+
 El promotor de la acción «Electrificación de la línea, incluido el PEÚ Brno – Zastávka u Brna, 1.ª fase» fue SŽ, y el contratista fue «Společnost Brno – Zastávka, Skanska + EŽ» en virtud del Contrato de obra para la ejecución de la construcción n.º E617-S-1258/2020. En el anexo n.º 3 se acordaron un total de 11 subcontratistas, entre los que se encontraba la empresa Swietelsky stavební s.r.o., que contrató a un subcontratista, Vivastav s.r.o., para los trabajos de perforación; este contrató a empleados de la empresa Rocknet s.r.o. para los propios trabajos de perforación (lo cual el Contrato de obra básico permitía).
 ### 3.1.7 Descripción de los vehículos ferroviarios y sus composiciones, incluidos los números de registro
 | Tren: | Os11542 | Composición del tren: |  | Modo de frenado: |
@@ -561,8 +556,8 @@ registrado el uso del freno de emergencia, la velocidad del tren era de 39 km·h
 detención del tren en el pk 147,644 en 12 s sobre un tramo de 80 m.
 •
 
-
 ## Página 15
+
 
 El estado real del tren comprobado en el punto de la MU correspondía a la documentación del tren. El maquinista operó correctamente el dispositivo de seguridad del tren durante la circulación y no superó la velocidad máxima permitida.
 ### 3.1.8 Descripción de las partes pertinentes de la infraestructura y del sistema de señalización
@@ -589,35 +584,34 @@ testigo, jefe de obra
   – Registro oficial de la explicación facilitada a la PČR:
 •
 
-
 ## Página 16
 
-◦trabaja como jefe de obra en la empresa Swietelsky;
-◦el 18. 8. 2020 llegó solo al lugar de la obra en la localidad de Ostopovice, al puente n.º 08, donde esa noche debían realizar trabajos de perforación. Fue sobre las 22:00 h;
+◦trabaja como jefe de obra para la empresa Swietelsky;
+◦el 18 de agosto de 2020 llegó solo al lugar de la obra en la localidad de Ostopovice, al puente n.º 08, donde esa noche debían realizar trabajos de perforación. Fue sobre las 22:00 h;
 ◦al lugar también acudieron 3 empleados de Vivastav;
-◦conoce a estas personas desde hace unos 8 años y realizan trabajos de perforación en toda la República Checa y en el extranjero. Se puede decir que son colegas experimentados;
+◦conoce a estas personas desde hace unos 8 años y realiza trabajos de perforación en toda la República Checa y en el extranjero. Se puede decir que son colegas experimentados;
 ◦les repartió las tareas y comenzaron a preparar el equipo para los trabajos de perforación;
-◦debieron esperar a que pasara el último tren y al inicio de la interrupción de circulación para poder comenzar los trabajos de perforación;
-◦2 trabajadores preparaban en el puente, en el lugar de la vía vacía, el equipo de perforación y esperaban el paso del último tren;
-◦esa máquina (nota DI: se refiere al equipo de perforación) estaba bastante desplazada, pero el pupitre de control parecía invadir el perfil de circulación de la línea, por donde aún debía pasar un tren;
-◦debía vigilar la línea desde Střelice hacia Brno, otro trabajador debía vigilar la línea desde Brno;
-◦podía estar a unos 100 m del equipo de perforación y debía verse y oírse con otro trabajador de la guardia, ya que se intercambiaban información sobre los trenes que pasaban;
-◦asimismo, tenía a la vista el equipo de perforación y a los 2 trabajadores que estaban junto a él;
-◦cuando circula un tren desde una dirección determinada, la guardia pita con el silbato; los trabajadores junto al equipo de perforación deben indicar con un movimiento de mano que son conscientes de la circulación del tren;
+◦tuvieron que esperar a que pasara el último tren y al inicio de la interrupción de circulación para poder comenzar los trabajos de perforación;
+◦2 trabajadores preparaban el equipo de perforación en el puente, en el lugar de la vía vacía, y esperaban el paso del último tren;
+◦esa máquina (n.º DI: se refiere al equipo de perforación) estaba bastante desplazada, pero el pupitre de control aparentemente invadía el perfil de circulación de la vía, por donde aún debía pasar un tren;
+◦debía vigilar la vía desde Střelice hacia Brno, otro trabajador debía vigilar la vía desde Brno;
+◦podía estar a unos 100 m del equipo de perforación y tenía que ver y oír al otro trabajador de la vigilancia, ya que se intercambiaban información sobre los trenes que pasaban;
+◦asimismo, tenía a la vista el equipo de perforación y a los 2 trabajadores que estaban en él;
+◦cuando circula un tren desde una dirección determinada, la vigilancia pita con el silbato; los trabajadores del equipo de perforación deben indicar con un movimiento de mano que saben que viene el tren;
 ◦el tren circulaba a una velocidad reducida de 50 km·h-1;
-◦todos eran conscientes unos de otros, llevaban frontal y se vigilaban mutuamente. El puesto de trabajo estaba iluminado también con halógenos y parcialmente con alumbrado público;
-◦cuando el tren se aproximaba, había allí una curva. Al salir de ella, tenía encendido el foco largo, con lo que los deslumbró por completo;
-◦vio cómo los compañeros junto al equipo de perforación se apartaron hacia atrás de la vía;
+◦todos se tenían localizados, llevaban frontal y se vigilaban mutuamente. El puesto de trabajo estaba iluminado también con halógenos y parcialmente con alumbrado público;
+◦cuando el tren se acercaba, había una curva. Cuando salió de ella, tenía encendido el alcance, así que los deslumbró por completo;
+◦vio cómo los colegas del equipo de perforación se apartaron de la vía hacia atrás;
 ◦miró hacia otro lado para no ser deslumbrado por el tren;
-◦a continuación solo oyó un golpe, el tren comenzó a frenar y corrió hacia el lugar donde se encontraba el equipo de perforación;
-◦vio cómo el trabajador atrozado yacía en el suelo y comenzó a comprobar su estado de salud;
-◦alguien de los chicos llamó al servicio de urgencias y se puede decir que enseguida comprobaron que el compañero estaba muerto. Estaba muy golpeado;
-◦no vio la colisión del tren con el trabajador, ya que no miró hacia el lugar debido a la luz del tren;
-◦pasado un tiempo llegó el servicio sanitario, los bomberos y la policía. A la llegada de la Policía al lugar, todos realizaron una prueba de alcoholemia;
-◦como jefe de obra, realizó pruebas de alcoholemia orientativas;
-
+◦después solo oyó un golpe, el tren comenzó a frenar y echó a correr hacia el lugar donde estaba el equipo de perforación;
+◦vio al trabajador atropellado tendido en el suelo y comenzó a comprobar su estado de salud;
+◦alguien de los chicos llamó a la ambulancia y se puede decir que enseguida se dieron cuenta de que el colega estaba muerto. Estaba muy golpeado;
+◦no vio la colisión del tren con el trabajador, porque no miraba hacia el lugar debido a la luz del tren;
+◦pasado un tiempo llegó el servicio médico, los bomberos y la policía. A la llegada de la Policía al lugar, todos realizaron una prueba de alcoholemia;
+◦como jefe de obra, realizaba pruebas de alcoholemia orientativas;
 
 ## Página 17
+
 
 ◦esa noche ninguno de los empleados mostró signos de consumo de alcohol ni olía a alcohol en ninguno de ellos cuando realizaba la instrucción a las personas y les asignaba las tareas;
 ◦si hubiera olido alcohol en alguno o visto signos de alcohol en alguien, le habría hecho soplar inmediatamente;
@@ -643,8 +637,8 @@ testigo, obrero
 ◦ambos notaron, junto a la máquina de perforación, cómo se desplegó el panel de control lateral y se abrió hacia la vía por donde debía pasar ese tren;
 ◦se puede decir que ambos estaban cerca de ese panel, quizá justo junto a él;
 
-
 ## Página 18
+
 
 ◦cuando el tren llegó hasta ellos, intentaron apartarse de la vía por la que circulaba el tren;
 ◦él se apartó en dirección a Brno, el empleado posteriormente fallecido en dirección a Praga;
@@ -675,6 +669,7 @@ testigo, capataz de perforación
 
 ## Página 19
 
+
 ◦en el momento en que empezaron, podía estar encendida una luz, no había oscuridad total, también estaba encendida la iluminación pública;
 ◦en la vía en servicio debía limitarse la velocidad a 50 km.h-1;
 ◦la máquina se preparaba por delante, fuera del perfil de paso, nadie se movía en la vía por motivos de seguridad;
@@ -703,8 +698,8 @@ testigo, jefe de tren del tren Os 11542
 •
 ◦en el tren 11542, en el momento del accidente, ya había terminado la revisión de los billetes y se encontraba en el extremo del tren, en la zona de equipajes;
 
-
 ## Página 20
+
 
 ◦el tren comenzó a frenar bruscamente, pero a la velocidad permitida en ese tramo no le pareció nada dramático, aunque el frenado fue inusualmente rápido;
 ◦entonces oyó sonidos inusuales, como si piedras golpearan la parte inferior del tren;
@@ -723,8 +718,8 @@ En las oficinas de tráfico de la est. Brno-Horní Heršpice y de la est. Střel
 ### 3.2.1 Secuencia de hechos que condujeron al suceso excepcional
 El 18 de 8 de 2020, los empleados externos de la obra (de las empresas Swietelsky stavební s.r.o. y su subcontratista Vivastav y Rocknet s.r.o.) se preparaban para los trabajos nocturnos de modernización y electrificación del tramo ferroviario Brno-Horní Heršpice – Střelice (incluido), en los que debían realizar perforaciones con el equipo perforador HÜTTE HBR 605-3 en relación con la construcción de un anclaje de muro de contención entre las vías ferroviarias en el puente en km 147,745. Los propios trabajos de perforación debían realizarse durante la interrupción de la 2. TK en servicio en el horario 23:20 h – 3:30 h y se regían según el ROV
 
-
 ## Página 21
+
 
 33088. Todos los empleados disponían de permiso de acceso a la vía de tráfico en servicio expedido por SŽ.
 Los empleados llegaron al lugar de la obra en vehículos de servicio, uno de los cuales conducía bajo los efectos del alcohol (el empleado fallecido). Tras llegar al lugar de los trabajos, el jefe de obra les hizo firmar documentos de seguridad. Dado que el jefe de obra (según su declaración) no observó en nadie influencia del alcohol ni olía alcohol en nadie, no se llegó a realizar el control de alcoholemia al aire espirado, que se realiza aproximadamente 1 vez por semana. A partir de aproximadamente las 22 h, los empleados comenzaron a preparar el equipo perforador en el espacio de la 1. TK excluida y desmantelada, en este espacio podían moverse sin restricciones. El jefe de perforación fue encargado por el jefe de obra de vigilar la vía desde la dirección de Brno, unos 100 m antes del equipo perforador, y el jefe de obra vigilaba la vía desde Střelice, unos 100 m detrás del equipo perforador. El motivo era la necesidad de que el personal accediera a la 2. TK en servicio debido al panel de control abatible del equipo perforador, situado en el lado izquierdo, la preparación del equipo perforador mediante dicho panel y la garantía de la seguridad del personal del equipo perforador. El equipo perforador no podía estar en el puesto de trabajo en posición opuesta debido a la barandilla del puente ferroviario, que habría estorbado al panel de control y a una mejor vigilancia de los trabajos de perforación entre la TK desmantelada y la en servicio. Al desplazar el equipo perforador mediante el panel de control, el empleado que lo operaba se movía en la vía en servicio. El lugar de los trabajos estaba iluminado con luces de halógeno y parcialmente con iluminación pública, todos los empleados disponían de linternas frontales. El movimiento de los empleados alrededor del equipo perforador se realizaba en el espacio de la vía excluida, con la única excepción del trabajo en el panel de control abatible, que en posición de trabajo invadía el perfil de paso de la 2. TK en servicio.
@@ -733,48 +728,73 @@ en posición de trabajo
                  Fuente: https://huette-bohrtechnik.com
 A las 22:58 h partió el tren Os 11542 (Brno hl. n. – Bohutice) de la est. Brno-Horní Heršpice en dirección a la est. Střelice. El maquinista en la est. Brno hl. n. firmó la orden general para la circulación del
 
-
 ## Página 22
 
-tren 11542, donde para el tramo ferroviario Brno-Horní Heršpice – Střelice se indicaban 3 tramos con velocidad reducida de 50 km.h-1, 30 km.h-1 y 50 km.h-1. El lugar del futuro MU se encontraba en el 3.er tramo (en km 149,620 – 143,350). Tras salir de la curva antes de la localidad de Ostopovice, el maquinista del tren vio personas moviéndose cerca de la vía en el puesto de trabajo iluminado. Por ello dio con la bocina de locomotora la señal «Atención» y apagó el foco de largo alcance. Las personas que se movían junto al equipo perforador levantaron los brazos, recibieron la señal y se apartaron de la vía en servicio. El jefe de perforación en la vigilancia vio llegar un tren desde la dirección de Brno. Sabía de este tren, debía ser el último tren antes del inicio de la interrupción. Avisó con el silbato a los empleados que trabajaban junto al equipo perforador, los cuales retiraron el panel de control del equipo perforador y se apartaron de la vía en servicio, lo que también vio el jefe de obra en la vigilancia desde Střelice. Justo antes del paso del tren Os 11542 junto al equipo perforador, según la declaración de los empleados, el panel de control comenzó a abatirse hacia el perfil de paso de la 2. TK, donde fue alcanzado por la parte delantera del tren. El panel de control arrancado y arrastrado por el tren alcanzó entonces a un 2.º empleado del equipo perforador en la dirección de circulación, lo lanzó a 10 m detrás del equipo perforador y lo mató en el lugar. El maquinista, tras el sonido inusual, inició un frenado de acción rápida y se detuvo a 101 m del lugar de la colisión. Los demás empleados se abalanzaron alrededor del atropellado, al que intentaron prestar primeros auxilios y llamaron al servicio de emergencias, sin embargo el empleado atropellado ya no mostraba signos de vida.
-### 3.2.2 Secuencia de hechos desde la producción del suceso excepcional hasta la finalización de las acciones de los servicios de emergencia
-18 de 8 de 2020:
-23:06 h producción del MU;
+del tren 11542, donde para el tramo Brno-Horní Heršpice – Střelice se indicaron 3 tramos
+con velocidad reducida de 50 km.h-1, 30 km.h-1 y 50 km.h-1. El lugar del futuro MU se
+encontraba en el 3.er tramo (en km 149,620 – 143,350). Tras salir de la curva antes de la
+localidad de Ostopovice, el maquinista del tren vio personas moviéndose cerca de la vía
+en un puesto de trabajo iluminado. Por ello dio con la bocina de la locomotora la señal
+«Peligro» y apagó el proyector de largo alcance. Las personas que se movían junto al
+equipo de perforación levantaron los brazos, recibieron la señal y se retiraron de la vía
+por la que circulaba el tren. El jefe de perforación de guardia vio llegar el tren desde la
+dirección de Brno. Sabía de este tren, debía ser el último tren antes del inicio de la
+interrupción. Avisó con el silbato a los empleados que trabajaban junto al equipo de
+perforación, los cuales retiraron el panel de control del equipo de perforación y se
+retiraron de la vía por la que circulaba el tren, lo que también vio el jefe de obra de
+guardia desde Střelice. Justo antes de que el tren Os 11542 pasara junto al equipo de
+perforación, según la declaración de los empleados, el panel de control comenzó a
+abrirse hacia el perfil de paso de la 2.ª TK, donde fue alcanzado por el morro del tren.
+El panel de control arrastrado y arrastrado por el tren alcanzó entonces al 2.º empleado
+del equipo de perforación en la dirección de circulación, lo lanzó 10 m más allá del
+equipo de perforación y lo mató en el lugar. El maquinista, tras el sonido inusual,
+inició el frenado de acción rápida y se detuvo a 101 m del lugar de la colisión. Los
+demás empleados se arrojaron alrededor del atropellado, al que intentaron prestar
+primeros auxilios y llamaron al servicio de emergencias, sin embargo, el empleado
+atropellado ya no mostraba signos de vida.
+### 3.2.2 Secuencia de hechos desde la ocurrencia de la incidencia hasta la finalización de las acciones de los servicios de emergencia
+18. 8. 2020:
+23:06 h ocurrencia de la MU;
 •
-23:07 h el maquinista del tren Os 11542 comunicó la producción del MU al jefe de maniobras;
+23:07 h el maquinista del tren Os 11542 comunicó la ocurrencia de la MU al jefe de
+circulación;
 •
 23:07 h los empleados en la obra activaron el IZS;
 •
-23:09 h el maquinista del tren Os 11542 comunicó la producción del MU a la PČR y activó el IZS;
+23:09 h el maquinista del tren Os 11542 comunicó la ocurrencia de la MU a la PČR y
+activó el IZS;
 •
-23:30 h el jefe de despachadores del CDP Přerov comunicó el MU a la O18 SŽ;
+23:30 h el jefe de despachador del CDP Přerov comunicó la MU al O18 SŽ;
 •
-23:41 h la persona designada de la O18 SŽ comunicó la producción del MU al COP de la DI, sin salida de la DI;
+23:41 h la persona autorizada del O18 SŽ comunicó la ocurrencia de la MU al COP DI,
+sin salida del DI;
 •
-19 de 8 de 2020:
+19. 8. 2020:
 0:52 h
-la persona designada de la O18 SŽ precisó la situación en el lugar al COP de la DI;
+la persona autorizada del O18 SŽ precisó la situación en el lugar en el COP DI;
 •
 0:55 h
-ordenada la salida de los inspectores de la DI;
+ordenada la salida de los inspectores del DI;
 •
 1:46 h
-inspección del lugar de producción del MU por empleados de la DI, SŽ y PČR;
+inspección del lugar de la ocurrencia de la MU por empleados del DI, SŽ y PČR;
 •
 2:37 h
-el inspector de la DI presente concedió el permiso para liberar la vía;
+el inspector del DI presente concedió el permiso para liberar la vía;
 •
 2:45 h
 restablecimiento de la circulación.
 •
-El Plan IZS, dada la naturaleza del MU, fue activado a las 23:07 h, es decir, 1 min. después de la producción del MU, por uno de los empleados del CPS.
-En el lugar del MU intervinieron los siguientes cuerpos del IZS:
-Policía de la República Checa, Distrito Territorial Brno-venkov, Departamento de Delincuencia General;
+El plan IZS, en función del carácter de la MU, fue activado a las 23:07 h, es decir, 1 min.
+tras la ocurrencia de la MU, por uno de los empleados del CPS.
+En el lugar de la MU intervinieron los siguientes cuerpos del IZS:
+Policía ČR, Distrito Territorial Brno-venkov, Departamento de Delincuencia General;
 •
 Servicio de Emergencias Sanitarias de la Región de Moravia del Sur;
 •
 
 ## Página 23
+
 
 Cuerpo de Bomberos y Rescate de SŽ Brno;
 •
@@ -793,8 +813,8 @@ En la investigación no se constató el incumplimiento de las tareas y obligacio
 ### 4.1.4 Autoridades nacionales de seguridad y Agencia Ferroviaria de la Unión Europea
 La autoridad nacional de seguridad es la Oficina Ferroviaria, que de acuerdo con la ley n.º 266/1994 Sb. es una autoridad administrativa dependiente del Ministerio de Transportes. Su función es, en particular, el ejercicio de la supervisión estatal en materia de infraestructura ferroviaria y en materia de autoridad de construcción, el ejercicio de la autoridad de construcción especial para obras de la infraestructura y obras en la infraestructura, la aprobación de material rodante nuevo y modernizado y de instalaciones técnicas designadas, y la tramitación de infracciones. La obligación de la Oficina Ferroviaria es comunicar a la Inspección Ferroviaria, en un plazo de 12 meses desde la fecha de publicación del informe final que contenga las recomendaciones de seguridad dirigidas a la misma, qué medida ha adoptado en relación con dicha recomendación de seguridad.
 
-
 ## Página 24
+
 
 La función de la Agencia Ferroviaria de la Unión Europea es, además de garantizar, en el marco de sus competencias, que se mantenga en general la seguridad ferroviaria y que, si es posible, se aumente de forma sistemática, entre otras, la emisión, renovación, suspensión y modificación de certificados únicos de seguridad, la limitación de su validez o su cancelación, en cuestión en la que coopera con las autoridades nacionales de seguridad; asimismo, emite autorizaciones para la puesta en el mercado de vehículos ferroviarios y de tipos de vehículos y está facultada para renovar, modificar, suspender o cancelar las autorizaciones que haya emitido. La Agencia evalúa asimismo los proyectos de normativa nacional, etc.
 En la investigación no se constató el incumplimiento de las tareas y obligaciones de la autoridad nacional de seguridad y de la Agencia Ferroviaria de la Unión Europea.
@@ -806,8 +826,8 @@ En la investigación no se constató el incumplimiento de las tareas y obligacio
 Los trabajos realizados por CPS en las instalaciones del gestor de la infraestructura SŽ deben estar siempre en consonancia con la legislación, las normas vigentes y las normas internas de SŽ. CPS solo podrá trabajar en las instalaciones del gestor de la infraestructura SŽ sobre la base de un contrato acordado por escrito entre ambas partes contratantes. El contrato debe contener, entre otros, disposiciones concretas para garantizar la BOZP, la designación de las personas responsables, el modo de control y las posibles sanciones, y la información recíproca y mutua por escrito sobre todos los riesgos de posible peligro para la salud y la vida de todas las personas. En el contrato debe indicarse asimismo si CPS ejecutará el encargo con medios propios o mediante subcontratistas. El contrato debe incluir, al menos, el compromiso de que CPS comunique al empleado responsable de SŽ el encargado de los trabajos con una antelación mínima de 24 h antes del comienzo de los trabajos. Todas las personas de CPS deben cumplir la cualificación profesional de acuerdo con la norma vigente de SŽDC Zam1. La autorización de acceso a las instalaciones de SŽ – la emisión de autorizaciones de acceso a lugares no accesibles al público – está regulada por la norma SŽDC Ob1. El representante legal de la empresa Rocknet s.r.o. (subcontratista) emitió una «Declaración de honor», en la que confirmó la aptitud sanitaria y profesional de sus empleados para las empresas que contrataron a empleados de la empresa Rocknet s.r.o. para la realización de trabajos de subcontratación. Dichas empresas solicitaron entonces, para los empleados mencionados, la autorización de acceso a la vía ferroviaria de circulación en servicio en SŽ al Departamento de Seguridad y Gestión de Crisis, que, tras comprobar la documentación presentada, emitió la autorización de acceso a la vía ferroviaria de circulación en servicio. Todos los empleados de la empresa Rocknet s.r.o. y demás empleados de las empresas presentes en el lugar del SU tenían dicha autorización vigente en el momento de la ocurrencia del SU.
 El contrato de obra para la ejecución de la obra «Electrificación de la línea, incluida la SE Brno – Zastávka u Brna, 1.ª fase», celebrado entre SŽ y la sociedad «Brno – Zastávka, Skanska + EŽ», contenía en su cláusula la parte de que el constructor de la obra, la sociedad «Brno – Zastávka, Skanska + EŽ»
 
-
 ## Página 25
+
 
 hubiera dado a conocer, a sí mismo y a sus subcontratistas, todas las normas internas del comitente SŽ que fueran aplicables al objeto del citado encargo.
 La actividad de CPS en la vía de circulación en servicio debe ser notificada al gestor de la infraestructura para que pueda reaccionar y garantizar la seguridad de los empleados de CPS mediante medidas adecuadas (órdenes de circulación a los trenes, reducción de velocidad,…). Dado que el equipo de perforación HÜTTE HBR 605-3 tiene un panel de control lateral que, en posición de trabajo, invadía la vía de circulación en servicio, los trabajos preparatorios debieron ser notificados al empleado correspondiente del gestor de la infraestructura. Si los trabajos preparatorios no hubieran invadido la vía en servicio no excluida, la notificación de los trabajos de CPS no habría tenido que realizarse. A efectos de seguridad, sí se estableció una guardia de seguridad, que cumplió su función; sin embargo, SŽ no tenía registrados en su base de datos operativa de trabajos de CPS en la vía de circulación en servicio ningún trabajo en el momento de la ocurrencia del SU.
@@ -831,8 +851,8 @@ a) el trabajo se realizará bajo la supervisión directa del jefe de puesto de l
 c) a una distancia de 2200 mm del eje de la vía más próxima (ampliada en curva por el ensanchamiento), debe colocarse, a una altura de 1000 mm sobre la cabeza del raíl, una banda fija de color llamativo,
 d) durante el paso de vehículos por la vía contigua, el trabajo de las máquinas debe interrumpirse,...»;
 
-
 ## Página 26
+
 
 art. 387 de la norma interna SŽDC D1:
 •
@@ -856,51 +876,54 @@ En la investigación no se detectaron otros factores relacionados con el materia
 ### 4.3 Factores humanos
 ### 4.3.1 Características humanas e individuales
 Todos los empleados tienen la obligación de presentarse al trabajo en buen estado físico
-y tienen prohibido entrar en el lugar de trabajo o permanecer en él bajo la influencia del
-alcohol u otras sustancias adictivas. Estas obligaciones están establecidas por la ley
-n.º 262/2006 Sb. y por las normas del operador de la vía SŽ, en particular la norma SŽDC Bp1,
-con las que el empleado fallecido fue informado y recibió formación (sobre la base de lo cual
-se concedió al empleado el acceso a la vía de tráfico en explotación). Los empleados están
-igualmente obligados a velar por su propia seguridad y por la seguridad de los demás empleados.
+y tienen prohibido entrar en el lugar de trabajo o permanecer en él bajo la influencia
+del alcohol u otras sustancias adictivas. Estas obligaciones están establecidas por la
+ley núm. 262/2006 Sb. y por las normativas del operador de la vía SŽ, en particular la
+normativa SŽDC Bp1, con las que el empleado fallecido fue informado y formado (en
+virtud de lo cual se le concedió al empleado el acceso a la vía de circulación en
+explotación). Los empleados están igualmente obligados a velar por su propia seguridad
+y por la seguridad de los demás empleados.
 ### Hallazgos:
-En la investigación se constató la infracción de la legislación y de las normas internas
-relativas a las funciones
-### y obligaciones de la CPS, en relación causal con la aparición de la MU:
-§ 106 apartado 4 letra c) de la ley n.º 262/2006 Sb.:
+En la investigación se constató la infracción de la normativa legal y de las normativas
+internas relativas a las funciones
+### y obligaciones de la CPS, en relación causal con la aparición del MU:
+§ 106 apartado 4 letra c) de la ley núm. 262/2006 Sb.:
 •
-"Todo empleado está obligado a velar, según sus posibilidades, por su propia
-seguridad, por su salud y por la seguridad y la salud de las personas físicas a las
-que su actuación, o su omisión en el trabajo, afecte directamente. El conocimiento
-de las obligaciones básicas derivadas de la legislación y demás normas y de los
-requisitos del empleador para garantizar la seguridad y la protección de la salud en
-el trabajo es parte integrante y permanente de los requisitos de cualificación del
-empleado. El empleado está obligado...
-c) a cumplir la legislación y demás normas y las instrucciones del empleador para
-garantizar la seguridad y la protección de la salud en el trabajo, con las que haya
-sido debidamente informado, y a regirse por los principios de conducta segura en el
-lugar de trabajo y por la información del empleador";
-§ 106 apartado 4 letra e) de la ley n.º 262/2006 Sb.:
+"Todo empleado está obligado, según sus posibilidades, a velar por su propia
+seguridad, por su salud y por la seguridad y la salud de las personas físicas a
+las que su actuación, o en su caso su omisión en el trabajo, afecte de forma
+inmediata. El conocimiento de las obligaciones básicas derivadas de la
+normativa legal y de otras normativas y de los requisitos del empleador para
+garantizar la seguridad y la protección de la salud en el trabajo es parte
+integrante y permanente de los requisitos de cualificación del empleado. El
+empleado está obligado...
+c) a cumplir la normativa legal y otras normativas y las instrucciones del
+empleador para garantizar la seguridad y la protección de la salud en el
+trabajo, con las que haya sido debidamente informado, y a regirse por los
+principios de comportamiento seguro en el lugar de trabajo y por la
+información del empleador";
+§ 106 apartado 4 letra e) de la ley núm. 262/2006 Sb.:
 •
 "...El empleado está obligado
-e) a no consumir bebidas alcohólicas ni a consumir otras sustancias adictivas en los
-lugares de trabajo del empleador y durante la jornada laboral, tampoco fuera de
-dichos lugares de trabajo, y a no entrar en los lugares de trabajo del empleador bajo
-su influencia...";
-artículo 98 de la norma interna SŽDC Bp1:
+e) a no consumir bebidas alcohólicas ni a consumir otras sustancias adictivas
+en los lugares de trabajo del empleador y durante la jornada laboral, también
+fuera de dichos lugares de trabajo, y a no entrar en el lugar de trabajo del
+empleador bajo su influencia...";
+artículo 98 de la normativa interna SŽDC Bp1:
 •
-"Todos los empleados están obligados a velar, según sus posibilidades, por su propia
-seguridad, por su salud y por la seguridad y la salud de las personas físicas a las
-que su actuación afecte directamente.".
+"Todos los empleados están obligados, según sus posibilidades, a velar por su
+propia seguridad, por su salud y por la seguridad y la salud de las personas
+físicas a las que su actuación afecte de forma inmediata.".
 ### 4.3.2 Factores laborales
-En la investigación no se detectaron factores relacionados con el contenido del trabajo o
-la jornada laboral de los empleados. El empleador garantizó a los empleados las condiciones
-para el descanso antes del turno y durante el turno.
+En la investigación no se detectaron factores relacionados con el contenido del trabajo
+o con la jornada laboral de los empleados. El empleador garantizó a los empleados las
+condiciones para el descanso antes del turno y durante el turno.
 ### 4.3.3 Factores organizativos y tareas
-En la investigación no se detectaron factores relacionados con la organización del trabajo
-o con las tareas laborales.
-
+En la investigación no se detectaron factores relacionados con la organización del
+trabajo o con las tareas laborales.
 
 ## Página 28
+
 
 ### 4.3.4 Factores relacionados con el entorno de trabajo
 La preparación del equipo de perforación tipo HÜTTE HBR 605-3 debía realizarse únicamente
@@ -948,8 +971,8 @@ En el sistema de garantía de seguridad adoptado por el operador de la vía y el
 relacionado con las circunstancias de la aparición de la MU en cuestión, no se detectaron
 deficiencias.
 
-
 ## Página 29
+
 
 ### 4.4.4 Sistema de gestión de las entidades responsables del mantenimiento de los vehículos
 ferroviarios y de los talleres de mantenimiento
@@ -987,8 +1010,8 @@ la influencia en la conducta de un empleado de una entidad jurídica externa de 
 sustancia adictiva durante la jornada laboral en la que se produjo el suceso extraordinario.
 No se constató por DI ninguna causa sistémica.
 
-
 ## Página 30
+
 
 ### A summary of the analysis and conclusions with regard to the causes of the
 occurrence
@@ -1030,8 +1053,8 @@ failure to report the movement of external workers in the operated track to the
 •
 operating employee of IM (station dispatcher).
 
-
 ## Página 31
+
 
 ### 6 RECOMENDACIONES DE SEGURIDAD
 Atendiendo a las causas constatadas y a las circunstancias de aparición del suceso
@@ -1050,8 +1073,8 @@ inspector
 De la Inspección Territorial de Brno
 De la Inspección Territorial de Brno
 
-
 ## Página 32
+
 
 ### ANEXOS
 Fig. n.º 3: Panel de control arrancado y arrastrado del equipo de perforación tras el primer
@@ -1060,8 +1083,8 @@ bogie a la izquierda en el sentido de circulación del tren Os 11542
 Fig. n.º 4: Detalle de los daños en el lado izquierdo del equipo de perforación HÜTTE HBR 605-3
      Fuente: DI
 
-
 ## Página 33
+
 
 Fig. n.º 5: Equipo de perforación HÜTTE HBR 605-3
    Fuente: DI

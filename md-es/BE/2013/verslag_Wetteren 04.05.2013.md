@@ -12,8 +12,8 @@ tokens_in: 220729
 tokens_out: 147007
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-verificacion: revisar
-avisos: ["página 244: ratio 1.74"]
+verificacion: ok
+notas_cifras: ["página 7: original bilingüe: se compara contra el idioma principal (NL)", "página 8: original bilingüe: se compara contra el idioma principal (NL)", "página 13: cifras cortas: 2/4", "página 18: cifras cortas: 2/41", "página 26: cifras cortas: 1/25", "página 29: cifras cortas: 6/70"]
 ---
 
 ## Página 1
@@ -1829,6 +1829,7 @@ Cada recomendación se presenta en una tabla independiente que indica en la part
 Al tomar su puesto, se le comunica al maquinista la información sobre las obras con las que podría encontrarse durante el trayecto. Solo se le comunican las obras que requieren una limitación de velocidad. Si las obras no tienen relación con la línea que el maquinista debe servir, la información no se le transmite.
 
 ## Página 62
+
 
 Si las obras planificadas no requieren un mensaje de limitación temporal de velocidad, estos no se incluyen en el SEMES. No obstante, pueden ser mencionados por la empresa ferroviaria como anotación en la ficha de servicio del maquinista. Las empresas ferroviias limitan la información proporcionada a sus maquinistas al estricto mínimo, con el fin de no sobrecargarlos de información.
 
@@ -6946,23 +6947,22 @@ C.  Controles de la conformidad entre el documento de transporte y la unidad de 
 
 ## Página 244
 
-7.14. Informe 10 - medidas adoptadas por NMBS Logistics
+7.14. punto 10 - medidas adoptadas NMBS Logistics
 ## I. 
-### ANÁLISIS DE RIESGO, RECOMENDACIÓN Y MEDIDAS ADOPTADAS
-- El análisis del esquema de producción pone de manifiesto la complejidad de la organización de este tipo de transporte y de la responsabilidad contractual y jurídica. SNCB Logistics y DBSR NL se han comprometido en una política de simplificación a este nivel. En el marco de estas medidas, el tráfico del que era objeto el tren 44601 es ahora asegurado de extremo a extremo por DBSR NL sin intervención de SNCB Logistics.
-- La problemática de la memoria a corto plazo ha sido reexaminada. Se ha desarrollado una ayuda a través de la tablet RITA: se encuentra en fase de implementación (señalización y recordatorio de las instrucciones en caso de señalización restrictiva).
-- Se han publicado un recordatorio de las instrucciones y un "consejo de seguridad" sobre el tratamiento del tema de la memorización de señales restrictivas. Estos preconizan reducir la velocidad tan pronto como se perciba la señal restrictiva.
-- Tras accidentes anteriores que implicaban mercancías RID (Tintigny el 04/05/2012, Godinne el 11/05/2012), se presentó una propuesta de decreto ministerial. Esta propuesta tenía como objetivo limitar las consecuencias de un accidente que implicara mercancías peligrosas, regulando la composición de los trenes de mercancías y definiendo la ubicación de las mercancías peligrosas en el cuerpo de los trenes. SNCB Logistics realizó un análisis de las medidas propuestas y comunicó sus conclusiones tanto al Organismo de Investigación como al SSICF. El análisis de SNCB Logistics demuestra la imposibilidad de obtener un balance positivo al aplicar las propuestas ministeriales en el marco de un análisis de riesgos que abarque todos los factores.
-- Se realizó una sesión de lluvia de ideas por parte de SNCB Logistics sobre las posibles recomendaciones para evitar la repetición de este tipo de accidentes. Entonces se acordó continuar con los análisis de viabilidad y de la supuesta eficacia de estas medidas y exponer lo esencial en el marco de las discusiones que se llevarán a cabo bajo la supervisión del SSICF y del SPF Movilidad y Transporte.
-Lo esencial de las medidas previstas se recoge en el archivo que figura en el anexo 4.
+### ANÁLISIS DE RIESGOS, RECOMENDACIONES Y MEDIDAS ADOPTADAS
+- El análisis del esquema de producción pone de manifiesto la complejidad de la organización de un transporte de este tipo y de la responsabilidad contractual y jurídica. SNCB Logistics y DBSR NL se han comprometido en una política de simplificación a este nivel. En el marco de estas medidas, el tráfico del que era objeto el tren 44601 es ahora asegurado de extremo a extremo por DBSR NL sin intervención de SNCB Logistics.
+- La problemática de la memorización a corto plazo ha sido reexaminada. Se ha desarrollado una ayuda mediante la tableta RITA: está en vía de implantación (punteo y recordatorio de las consignas en caso de señalización restrictiva).
+- Se han publicado un recordatorio de las instrucciones y un «safety-tip» sobre el tratamiento del tema de la memorización de señales restrictivas. Recomiendan reducir la velocidad en cuanto se perciba la señal restrictiva.
+- A raíz de accidentes anteriores que implicaron mercancías RID (Tintigny el 04/05/2012, Godinne el 11/05/2012), se ha introducido una propuesta de real decreto ministerial. Esta propuesta tenía por objeto limitar las consecuencias de un accidente que implique mercancías peligrosas, regulando la composición de los trenes de mercancías y definiendo la ubicación de las mercancías peligrosas en el cuerpo de los trenes. SNCB Logistics ha realizado un análisis de las medidas propuestas y ha comunicado sus conclusiones tanto al Organismo de Investigación como al SSICF. El análisis de SNCB Logistics demuestra la imposibilidad de obtener un balance positivo en la aplicación de las propuestas ministeriales en el marco de un análisis de riesgos que abarque todos los factores.
+- Se ha realizado por parte de SNCB Logistics un brainstorming sobre las recomendaciones posibles para evitar la repetición de este tipo de accidente. Se acordó entonces continuar los análisis de viabilidad y de eficacia presunta de estas medidas y exponer lo esencial en el marco de las discusiones a llevar a cabo bajo el amparo del SSICF y del SPF Movilidad y Transporte.
+Lo esencial de las medidas contempladas se recoge en el fichero que figura en el anexo 4.
 ## II. 
-### GESTIÓN - CONTROL DE LA FATIGA 
+### DIRECCIÓN - GESTIÓN DE LA FATIGA
 La vigilancia del conductor es una preocupación permanente de una empresa ferroviaria. 
-NMBS Logistics es consciente de que la fatiga excesiva constituye un riesgo importante para un conductor de tren que debe mantenerse especialmente vigilante durante los viajes. Por ello, NMBS Logistics ha decidido realizar esfuerzos adicionales para analizar ulteriormente esta problemática y tratar de encontrar soluciones concretas para ella.
-La normativa europea establece reglas para los tiempos de conducción y de descanso. Estas y otras limitaciones adicionales se han traducido en un reglamento laboral. NMBS Logistics insiste en que los acuerdos relativos a la duración máxima del trabajo y al tiempo mínimo de descanso se respeten estrictamente, tanto por parte de los planificadores como por los propios conductores de tren. El cumplimiento de los acuerdos no resuelve todos los problemas.
-Pero incluso si el conductor de tren y su entorno siguen la normativa, esto no es garantía de que no puedan surgir problemas. El trabajo de un conductor de tren sigue siendo pesado y fatigoso. Para ello, NMBS Logistics ha formado varios grupos de trabajo para encontrar soluciones viables que excluyan los riesgos en la medida de lo posible y ayuden a los conductores de tren a gestionar las irregularidades de su trabajo.
-Grupo de trabajo "planificación y UK Rail Fatigue Tool
-Para hacer el trabajo menos pesado, NMBS Logistics decidió, en primer lugar, optimizar la planificación. Existe una herramienta de cálculo validada que calcula el factor de riesgo de fatiga y seguridad para una prestación y una serie de prestaciones. Se formó un grupo de trabajo
+NMBS Logistics es consciente de que la fatiga excesiva constituye un riesgo importante para un conductor de tren que debe mantenerse particularmente vigilante durante los recorridos. Por ello, NMBS Logistics ha decidido realizar esfuerzos adicionales para analizar más a fondo esta problemática e intentar encontrar soluciones concretas para la misma.
+La normativa europea impone normas sobre los tiempos de conducción y de descanso. Estas y las restricciones adicionales se han traducido en un reglamento laboral. NMBS Logistics insiste en que los acuerdos relativos al tiempo máximo de trabajo y al tiempo mínimo de descanso se respeten estrictamente, tanto por parte de los planificadores como por parte de los propios conductores de tren. Cumplir los acuerdos no resuelve todos los problemas. Pero incluso si el conductor de tren y su entorno cumplen la normativa, esto no es todavía una garantía de que no puedan surgir problemas. El trabajo de un conductor de tren sigue siendo pesado y fatigoso. Para ello, NMBS Logistics ha formado varios grupos de trabajo para encontrar soluciones viables que excluyan en la medida de lo posible los riesgos y ayuden a los conductores de tren a afrontar las irregularidades de su trabajo.
+Grupo de trabajo «planificación y UK Rail Fatigue Tool»
+Para hacer el trabajo menos pesado, NMBS Logistics ha decidido optimizar en primer lugar la planificación. Existe una herramienta de cálculo validada que calcula el factor de riesgo de fatiga y de seguridad para una prestación y una serie de prestaciones. Se formó un grupo de trabajo
 
 ## Página 245
 

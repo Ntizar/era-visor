@@ -12,8 +12,8 @@ tokens_in: 11455
 tokens_out: 7594
 fecha_proceso: 2026-11-19
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-verificacion: revisar
-avisos: ["página 5: ratio 1.83"]
+verificacion: ok
+notas_cifras: ["página 4: cifras cortas: 14/40", "página 5: original bilingüe: se compara contra el idioma principal (EN); cifras largas: 1/6", "página 6: original bilingüe: se compara contra el idioma principal (HR)"]
 ---
 
 ## Página 1
@@ -88,22 +88,41 @@ El informe final no podrá utilizarse como prueba en un procedimiento judicial d
 
 ## Página 5
 
-## 1. RESUMEN 
-El 11.07.2014, aproximadamente a las 18 h, en la línea R201 Zaprešić-Čakovec, inmediatamente junto a la parada de Mađarevo 
-(en el pk 068+720), se produjo el descarrilamiento de un vagón de usos especiales integrado en el tren n.º 79151.  
-El descarrilamiento se produjo debido a un defecto técnico del vagón, más concretamente a la rotura del muelle de hojas de la rueda izquierda del segundo eje.  
-Como consecuencia del suceso se produjo un pequeño daño material en el vagón y en la infraestructura, y debido a las operaciones de izado del vagón a la vía y de remolque hasta la estación de Budinšćina, el tráfico en la línea se vio interrumpido durante un total de 12 h y 50 min, se organizó el transporte de viajeros en autobús, lo que provocó costes adicionales para la empresa ferroviaria.  
-En este accidente no hubo personas heridas.  
+## 1. Resumen 
+El 11.07.2014, hacia las 18 h, en la línea R201 Zaprešić-Čakovec, directamente en la parada de Mađarevo 
+(en el km 068+720), se produjo el descarrilamiento de un vagón de uso especial en la composición del tren n.º 79151.  
+El descarrilamiento se debió a una avería técnica en el vagón, concretamente a la rotura de la hoja de muelle de la rueda izquierda 
+del segundo eje. 
+Como consecuencia del suceso se produjo un daño material menor en el vagón y en la infraestructura, y debido a las operaciones 
+de elevación del vagón sobre la vía, así como al arrastre hasta la estación de Budinšćina, el tráfico en la línea estuvo interrumpido 
+durante un tiempo total de 12 h y 50 min; se organizó el transporte de pasajeros en autobús, lo que ocasionó costes adicionales 
+al operador ferroviario. 
+En este accidente no hubo personas heridas. 
 ### Recomendación de seguridad: 
-La Agencia de Investigación de Accidentes en el Transporte Aéreo, Marítimo y Ferroviario formula al Ministerio de Asuntos Marítimos, Transportes e Infraestructura la siguiente recomendación de seguridad:  
-A fin de mejorar la seguridad del sistema ferroviario, en la Ley de Seguridad e Interoperabilidad del Sistema Ferroviario es necesario ampliar la definición de empresa ferroviaria (de conformidad con la Directiva 2004/49/CE), a fin de garantizar que la seguridad del sistema ferroviario en su conjunto se aplique a toda empresa que utilice la infraestructura ferroviaria que no esté excluida en virtud del artículo 2, apartado 2, de la Directiva 2004/49/CE, independientemente de si se trata de la actividad principal de la empresa o no.  
+La Agencia de Investigación de Accidentes en el tráfico aéreo, marítimo y ferroviario formula al Ministerio 
+de Asuntos Marítimos, Transporte e Infraestructura la siguiente recomendación de seguridad: 
+Para mejorar la seguridad del sistema ferroviario, en la Ley sobre Seguridad e Interoperabilidad del Sistema 
+Ferroviario es necesario ampliar la definición de operador ferroviario (conforme a la Directiva 2004/49/CE), 
+de modo que se garantice que la seguridad del conjunto del sistema ferroviario sea respetada por toda empresa 
+que utilice infraestructura ferroviaria que no esté excluida con arreglo al artículo 2, apartado 2, de la Directiva 
+2004/49/CE, independientemente de si se trata de la actividad principal de la empresa o no.  
 ## RESUMEN DEL INFORME 
-Aproximadamente a las 18:00 horas (h), el viernes 11 de julio de 2014, durante la circulación de un tren de usos especiales (de trabajo) en la línea R201 Zaprešić-Čakovec, directamente en la estación de Mađarevo, se descarriló un vagón de usos especiales.  
-El descarrilamiento se produjo debido a un defecto técnico del vagón, precisamente a causa de la rotura de los muelles de hojas de la rueda izquierda del segundo eje.  
-Como resultado del suceso, se produjeron daños menores en el vehículo y en la infraestructura, y debido a las operaciones de izado del vagón a la vía y de remolque hasta la estación más cercana, el tráfico en la línea se vio interrumpido durante un total de 12 horas y 50 minutos. Durante ese tiempo, se organizó el trasbordo de los viajeros en autobús, lo que provocó costes adicionales para la Empresa Ferroviaria.  
+Aproximadamente a las 18:00 horas (h), el viernes 11 de julio de 2014, durante la circulación de un tren de uso especial (de trabajo) 
+en la línea R201 Zaprešić-Čakovec, directamente en la estación de Mađarevo, se descarriló un vagón de uso especial. 
+El descarrilamiento se produjo debido a una avería técnica en el vagón, concretamente por la rotura de las hojas de muelle 
+de la rueda izquierda del segundo eje.  
+Como resultado del suceso, se produjeron daños menores en el vehículo y en la infraestructura, y debido a las operaciones 
+de elevación del vagón sobre la vía y al arrastre hasta la estación más próxima, el tráfico en la línea estuvo interrumpido 
+durante un tiempo total de 12 horas y 50 minutos. Durante ese tiempo, se organizó el traslado de pasajeros en autobús, 
+lo que supuso costes adicionales para el Operador Ferroviario.  
 En este accidente no hubo personas heridas.  
-Como resultado de la investigación, la AIA ha formulado una recomendación de seguridad al Ministerio de Asuntos Marítimos, Transportes e Infraestructura:  
-Para mejorar la seguridad del sistema ferroviario, es necesario ampliar la definición de empresa ferroviaria en la Ley de Seguridad e Interoperabilidad del Sistema Ferroviario, de conformidad con la Directiva de Seguridad Ferroviaria 2004/49/CE, de tal manera que se garantice que la seguridad del sistema ferroviario en su conjunto se aplique a toda organización que utilice la infraestructura ferroviaria, que no pueda ser excluida en virtud del artículo 2, apartado 2, de la Directiva 2004/49/CE, independientemente de si el transporte es la actividad principal de la organización o no.
+Como resultado de la investigación, la AIA ha formulado una recomendación de seguridad al Ministerio de Asuntos Marítimos, 
+Transporte e Infraestructura:  
+Para mejorar la seguridad del sistema ferroviario, es necesario ampliar la definición de Operador Ferroviario en la Ley sobre 
+Seguridad e Interoperabilidad del Sistema Ferroviario de conformidad con la Directiva de Seguridad Ferroviaria 2004/49/CE, 
+de modo que se garantice que la seguridad del conjunto del sistema ferroviario sea respetada por toda organización que utilice 
+infraestructura ferroviaria, la cual no puede excluirse con arreglo al artículo 2, apartado 2, de la Directiva 2004/49/CE, 
+independientemente de si el transporte es la actividad principal de la organización o no.
 
 ## Página 6
 

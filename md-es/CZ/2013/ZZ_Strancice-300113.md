@@ -10,13 +10,14 @@ chars: 118270
 ratio_longitud: 1.24
 tokens_in: 61407
 tokens_out: 44481
-verificacion: revisar
-notas_cifras: ["bloque 1: original bilingüe: se compara contra el idioma principal (EN)", "bloque 2: original bilingüe: se compara contra el idioma principal (PT)", "bloque 3: original bilingüe: se compara contra el idioma principal (CS)", "bloque 4: original bilingüe: se compara contra el idioma principal (CS)", "bloque 5: original bilingüe: se compara contra el idioma principal (CS)", "bloque 6: original bilingüe: se compara contra el idioma principal (CS)"]
-avisos: ["bloque 4: ratio 1.68"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 8: original bilingüe: se compara contra el idioma principal (EN)", "página 9: original bilingüe: se compara contra el idioma principal (PT)", "página 10: original bilingüe: se compara contra el idioma principal (CS)", "página 14: original bilingüe: se compara contra el idioma principal (PT)", "página 15: original bilingüe: se compara contra el idioma principal (CS); ratio 2.00"]
 ---
+
 ## Página 1
+
 
 Inspección Ferroviaria
 República Checa
@@ -36,13 +37,13 @@ regional passenger train No. 2509
 Wednesday, 30th January 2013
 n.º de expediente: 6-299/2013/DI
 
-
 ## Página 2
+
 
 Este informe final es público y todos los documentos y hechos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ## 1 RESUMEN
             Fuente: Inspección Ferroviaria
@@ -68,8 +69,8 @@ no detención del tren Os 9104 ante la señal «Alto» de la señal principal de
 •
 salida L1 de la est. Strančice;
 
-
 ## Página 4
+
 
 Factores contribuyentes:
 ausencia de medios técnicos de seguridad en la est. Strančice,
@@ -125,8 +126,8 @@ expediente 6- 538/2009/DI-1, de fecha 18. 03. 2010, tras la incidencia de fecha
 2011 en la est. Baška; n.º de expediente 741/2012/DI, de fecha 25. 9. 2012, tras la
 incidencia de fecha 23. 8. 2011
 
-
 ## Página 5
+
 
 en la est. Praha-Libeň; n.º de expediente 957/2013/DI de fecha 21. 10. 2013, tras la
 incidencia de fecha 22. 1. 2013 en la est. Kolín; 
@@ -165,8 +166,8 @@ a garantizar la realización de las recomendaciones de seguridad anteriores por 
 de los demás gestores de la infraestructura y transportistas en las vías férreas
 nacionales y regionales.
 
-
 ## Página 6
+
 
 ## SUMMARY 
 Grade:
@@ -224,8 +225,8 @@ incidents based on issued safety recommendations after previous
 incidents of similar character on 16th February 2009 at Paskov
 station, 16th October 2009 at Přerov station, 5th December 2011
 
-
 ## Página 7
+
 
 at Baška station,  and 23rd  August 2011 at Praha-Libeň station.
 Recommendations:
@@ -263,6 +264,7 @@ above recommendations for other infrastructure manager (IM) and
 railway undertaking (RU) in the Czech Republic.
 
 ## Página 8
+
 
 # Índice
 1 Resumen ...............................................................................................................................3
@@ -308,8 +310,8 @@ las personas) ................................20
 personas en relación contractual 
 ...............................................................................20
 
-
 ## Página 9
+
 
 3.1.2 Otras personas .........................................................................................................21
 3.2 Sistema de garantía de la seguridad ...............................................................................21
@@ -363,10 +365,10 @@ punto 3
 ............................................................................................................................33
 4.2 Análisis ......................................................................................................................35
 4.2.1 Evaluación de los hechos constatados según el punto 3 y formulación de 
-conclusiones sobre la causa de la 
-
+conclusiones sobre la causa de la
 
 ## Página 10
+
 
 incidencia y la actuación de los servicios de emergencia ..........................................35
 4.3 Conclusiones .......................................................................................................................36
@@ -389,8 +391,8 @@ incidencia
 6 Recomendaciones de seguridad .............................................................................................38
 7 Anexos .............................................................................................................................40
 
-
 ## Página 11
+
 
 ## Lista de siglas y símbolos utilizados
 AŽD                                              Automatización del transporte ferroviario
@@ -459,8 +461,8 @@ TNŽ                                              Norma Técnica Ferroviaria
 TRS
 enlace radio de tramo
 
-
 ## Página 12
+
 
 TZZ                                              dispositivo de seguridad de tramo
 | TZZ ÚI ÚP | dispositivo de seguridad de tramo Ú inspectoría terrestre Ú puesto terrestre |
@@ -474,6 +476,7 @@ TZZ                                              dispositivo de seguridad de tra
 | žst . | estación ferroviaria |
 
 ## Página 13
+
 
 ## Lista de abreviaturas de disposiciones legales, normas y reglamentos internos
 ley núm. 266/1994 Sb.
@@ -505,8 +508,8 @@ SŽDC (ČD) D2                             reglamento interno SŽDC (ČD) D2 «R
                                                      55 279/97-O11, en vigor desde 28. 12. 1997, asumido
                                                      por el explotador del ferrocarril en virtud de la Instrucción del director general
 
-
 ## Página 14
+
 
                                                      núm. 8/2008 «Asumción de los reglamentos de los Ferrocarriles Checos, a. s.,
                                                      bajo la tutela de la Administración de la Vía Ferroviaria de Transporte, organización estatal, en virtud de la transferencia de las actividades del explotador del ferrocarril» ref. núm.: 12 026/08-OKS, en vigor desde 1. 7. 2008,
@@ -525,33 +528,33 @@ reglamento interno SŽDC D1 «Reglamento de circulación y de señales»
                                                     aprobado por el director general de SŽDC el 17. 12. 2012, 
 ref. núm.: 55738/2012-OZŘP, en vigor desde el 01. 07. 2013.
 
-
 ## Página 15
 
-## 2 DATOS RELATIVOS AL SUCESO EXCEPCIONAL
+## 2 DATOS RELATIVOS AL SUCESO EXTRAORDINARIO
 ## 2.1
-### Suceso excepcional
-### 2.1.1 Fecha, hora exacta y lugar del suceso excepcional
+### Suceso extraordinario
+### 2.1.1 Fecha, hora exacta y lugar del suceso extraordinario
 Fecha:
 30. 1. 2013.
 Hora:
 6:20 h.
-Ferrocarril:
-ferroviario, estatal.
+Vía:
+ferroviaria, estatal.
 Lugar:
 línea 519A, Benešov u Prahy – Praha-Vršovice pas., estación Strančice, vía
-de estación núm. 1, semáforo principal de salida L1, pk 158,224.
+de estación n.º 1, semáforo principal de salida L1, pk 158,224.
 GPS:
 49°57'1.3566''N, 14°40'19.1800''E.
-### 2.1.2 Descripción del suceso excepcional y del lugar del accidente, incluida la actividad del sistema integrado de emergencia y del servicio de rescate
-El 30. 1. 2013 a las 6:04 h llegó a la estación Strančice, al andén 1, en la vía de estación núm. 1, el tren Os 9103, que según el horario finalizó aquí su circulación, pasando la composición a ser el tren de salida Os 9104 con destino a Praha hl. n., con salida regular de la estación Strančice a las 6:20 h.
-La persona que dirige el transporte ferroviario a distancia, el jefe de estación B de la estación Praha-Uhříněves (en adelante también jefe de estación B), decidió que el tren retrasado R 630 adelantara al tren de salida Os 9104 en la estación Strančice por la vía de estación núm. 2. El jefe de estación B en la estación Praha-Uhříněves estableció la ruta de tren para el paso del tren R 630 en la vía 2 y desde la vía de estación núm. 2 con operación normal del SZZ. El maquinista del tren Os 9104, tras recibir la instrucción «Autorización de salida» de un miembro de la tripulación y cerrar las puertas DV, puso el tren Os 9104 en movimiento a la hora de salida regular, a las 6:20:00 h, y partió del andén 1 por la vía de estación núm. 1. Durante la puesta en marcha del tren Os 9104 desde el andén, el maquinista no vio el semáforo principal de salida (en adelante también semáforo de salida) L1; la vía se encuentra en un arco a la derecha. 
-En la circulación posterior, el maquinista del tren Os 9104 no respetó la señal «Alto» en el semáforo de salida L1 en el pk 158,224 junto a la vía de estación núm. 1 de la estación Strančice y salió indebidamente a la vía principal núm. 1 en dirección a la estación Říčany. Por la vía principal núm. 1 continuó la circulación, pasó junto al primer semáforo de sección apagado del bloque automático AB-1-1593 en el pk 159,379 y se detuvo en vía libre en el pk 159,996. 
-Inmediatamente después, el tren Os 9104 volvió a ponerse en marcha y se detuvo de nuevo en el pk 160,000. 
-El jefe de estación B en la estación Praha-Uhříněves a las 6:20 h, durante el paso del tren R 630 por la vía de estación núm. 2 en la estación Strančice, detectó en el monitor «Pérdida de shunt en la vía de estación núm. 1 de la estación Strančice», acompañada de una alerta sonora. Según la indicación en el monitor, el jefe de estación comprobó que el tren Os 9104 había salido de la estación Strančice, no respetó la señal «Alto» en el semáforo de salida L1 junto a la vía de estación núm. 1 y salió indebidamente a la vía principal núm. 1 en dirección a la estación Říčany. En ese momento, en la zona de la parada Světice se encontraba el tren Os 2509, que circulaba por la vía principal núm. 1 desde la estación Říčany hacia la estación Strančice. El jefe de estación B, inmediatamente tras su hallazgo, activó la señal «Parada general» en ambas estaciones de radio fijas TRS de la estación Strančice y de la estación Říčany con la instrucción verbal: «Tren 9104 alto, alto!». Por efecto de esta señal se detuvo la circulación de los trenes R 630, Os 2509 y Os 9105. El tren Os 9104 no fue detenido de esta manera; el maquinista lo detuvo mediante frenado de servicio. 
-
+### 2.1.2 Descripción del suceso extraordinario y del lugar del accidente, incluida la actividad del sistema
+integrado de emergencia y del servicio de rescate
+El 30. 1. 2013 a las 6:04 h llegó a la estación Strančice, al andén n.º 1, en la vía de estación n.º 1, el tren Os 9103, que según el horario de circulación finalizó aquí su trayecto, con el cambio de la composición al tren de salida Os 9104 con destino a Praha hl. n., con salida regular de la estación Strančice a las 6:20 h.
+La persona que dirigía el tráfico ferroviario a distancia, el jefe de estación B de la estación Praha-Uhříněves (en adelante también jefe de estación B), decidió que el tren de salida Os 9104 fuera adelantado por el tren retrasado R 630 en la estación Strančice por la vía de estación n.º 2. El jefe de estación B en la estación Praha-Uhříněves estableció la ruta de tren para el paso del tren R 630 por la vía 2 y desde la vía de estación n.º 2 con servicio normal de SZZ. El maquinista del tren Os 9104, tras recibir la instrucción «Autorización para la salida» de un miembro de la tripulación y cerrar las puertas DV, puso el tren Os 9104 en movimiento a la hora de salida regular, a las 6:20:00 h, y partió del andén n.º 1 por la vía de estación n.º 1. En el momento de la salida del tren Os 9104 del andén, el maquinista no veía el semáforo principal de salida (en adelante también semáforo de salida) L1, la línea se encuentra en una curva a la derecha.
+En la marcha posterior, el maquinista del tren Os 9104 no respetó la señal «Alto» en el semáforo de salida L1 en el pk 158,224 junto a la vía de estación n.º 1 de la estación Strančice y partió indebidamente por la vía 1. TK en dirección a la estación Říčany. Por la vía 1. TK continuó la marcha, pasó junto al primer semáforo de sección apagado del bloque automático AB-1-1593 en el pk 159,379 y se detuvo en plena línea en el pk 159,996.
+Inmediatamente después, el tren Os 9104 volvió a ponerse en marcha y se detuvo de nuevo en el pk 160,000.
+El jefe de estación B en la estación Praha-Uhříněves, a las 6:20 h, durante el paso del tren R 630 por la vía de estación n.º 2 en la estación Strančice, detectó en el monitor «Pérdida de shunt en la vía de estación n.º 1 de la estación Strančice», acompañada de una alerta sonora. Según la indicación en el monitor, el jefe de estación comprobó que el tren Os 9104 había partido de la estación Strančice, no respetó la señal «Alto» en el semáforo de salida L1 junto a la vía de estación n.º 1 y partió indebidamente por la vía 1. TK en dirección a la estación Říčany. En ese momento, en el ámbito de la parada Světice se encontraba el tren Os 2509, que circulaba por la vía 1. TK desde la estación Říčany hacia la estación Strančice. El jefe de estación B, inmediatamente tras su comprobación, activó la señal «Parada general» en ambas estaciones de radio fijas TRS de la estación Strančice y de la estación Říčany con la instrucción verbal: «Tren 9104 alto, alto!». Por efecto de esta señal se produjo la detención de la circulación de los trenes R 630, Os 2509 y Os 9105. El tren Os 9104 no fue detenido de esta manera, el maquinista lo detuvo mediante frenado operativo.
 
 ## Página 16
+
 
 Del examen del lugar del suceso excepcional se constató que el semáforo de salida L1 válido para la vía de estación núm. 1 se encuentra en la estación Strančice en el pk 158,224. Las vías de estación en dicha estación pasan, en dirección a la estación Říčany, de una alineación recta a un arco a la derecha. El semáforo de salida L1 estaba provisto de la pintura prescrita, señalizado con una placa y visible desde la vía de estación núm. 1 a una distancia de 300 m. Todos los semáforos de la estación Strančice forman parte del sistema de seguridad ESA11, operado desde el JOP por el jefe de estación B de la estación Praha-Uhříněves. En la revisión del registro del archivo SZZ ESA11 se constató que la ruta de tren para la salida del tren Os 9104 de la estación Strančice no había sido establecida, en el semáforo de salida L1 había la señal «Alto» y los desvíos en dirección a la vía principal núm. 1 se encontraban en la posición básica tras la ruta de tren anterior para el tren Os 9103. La cabeza del tren Os 9104 se encontraba en el pk 160,000 en la vía principal núm. 1 a la salida de un arco derecho que pasa a vía recta. La cabeza del tren Os 2509 se encontraba en el pk 160,600 en la vía principal núm. 1 a la salida de un arco derecho que pasa a vía recta. La distancia entre las cabezas de los trenes tras su detención era de 600 m y ambos trenes se encontraban mutuamente a la vista. Tras la ocurrencia del suceso excepcional se realizó la ÚZB en el tren Os 9104 con el resultado «Freno en orden». En el suceso excepcional se activó el IZS.
 2.1.3 Decisión de iniciar la investigación de las causas y circunstancias de su ocurrencia, composición del equipo de personas con aptitud profesional y forma de dirigir la investigación de las causas y circunstancias de su ocurrencia
@@ -577,6 +580,7 @@ En la investigación de las causas y circunstancias de la ocurrencia del suceso 
 La investigación de las causas y circunstancias de la ocurrencia del suceso excepcional se realizó de conformidad con lo dispuesto en el § 53b de la ley núm. 266/1994 Sb. y el § 11 del decreto núm. 376/2006 Sb.
 
 ## Página 17
+
 
 ## 2.2
 ### Circunstancias del suceso ferroviario
@@ -617,212 +621,222 @@ El tren estaba formado por una unidad eléctrica, la cabina del maquinista se en
 Nota sobre el tren Os 2509:
 El tren estaba formado por una unidad eléctrica, la cabina del maquinista se encontraba en el coche motor situado a la cabeza del tren.
 
-
 ## Página 18
 
-### 2.2.3 Descripción de los componentes de la vía de circulación de la infraestructura, del sistema de señalización (es decir, en particular el estado de las vías, agujas, enclavamientos, señales y del dispositivo de seguridad de tren)
-La estación de ferrocarril Strančice se sitúa en la infraestructura de ámbito nacional, en el pk 157,806 de la línea de doble vía 519A, Benešov u Prahy – Praha-Vršovice os. n. La vía de circulación, de entrada y de salida 1. SK en la est. Strančice tiene una longitud de 609 m, delimitada por las señales de salida S1 y L1. En la est. Strančice, en la 2. SK, la velocidad de línea en el sentido desde el inicio de la línea (Benešov u Prahy) está regulada por señales de velocidad, en el pk 156,780 se encuentra una señal de velocidad con la velocidad máxima permitida indicada por el número 100, en el pk 157,132 se encuentra a continuación una señal de velocidad con la velocidad máxima permitida indicada por el número 110. En la 1. SK en el sentido desde el inicio de la línea en el pk 156,780 se encuentra una señal de velocidad con la velocidad máxima permitida indicada por el número 100 y en el pk 157,160 se encuentra a continuación una señal de velocidad con la velocidad máxima permitida indicada por el número 110. La velocidad en la 1. TK desde la est. Strančice en dirección a la est. Říčany, es decir, en el sentido de la circulación no autorizada del tren Os 9104, la regula adicionalmente una señal de velocidad situada en el pk 159,358 con la velocidad máxima permitida indicada por el número 105. 
-El desnivel longitudinal más desfavorable de las vías de la estación en dirección a la est. Říčany es de 9,67 ‰
-y hacia la est. Senohraby de 9,35 ‰.
-En la est. Strančice, según la TNŽ 34 2620, existe un SZZ de 3.ª categoría tipo ESA 11, con posibilidad de mando a distancia desde la est. Praha-Uhříněves. El dispositivo disponía de un Certificado de Idoneidad UTZ n.º PZ 219/07-E.46, emitido el día 13. 03. 2007 con vigencia por tiempo indefinido. Este SZZ permite al jefe de estación establecer itinerarios de tren y de maniobras, incluida la operación del TZZ. 
-Entre la est. Strančice y la est. Říčany, en ambas vías de línea, según la TNŽ 34 2620, existe un TZZ de 3.ª categoría, bloque automático electrónico bidireccional de tres indicaciones tipo ABE 1, y ello en el sentido impar en cuatro, en el sentido par en cinco secciones de línea, con transmisión de códigos VZ en ambas direcciones con una frecuencia de codificación de 75 HZ. 
-La disposición complementaria a la normativa de SŽDC (ČD) Z1 en el anexo 5A del SŘ de la est. Strančice,
-en el artículo 64, establecía que las indicaciones del protector automático de tren se transmiten al vehículo de tracción a condición de que esté establecido el itinerario de tren para el tren correspondiente.
-Las señales de salida L1, L2 en la est. Strančice son luminosas, situadas en el puente de señales en el pk 158,224, operadas por el jefe de estación B de la est. Praha-Uhříněves en el mando a distancia o por el jefe de estación de la est. Strančice, en caso de activación del mando local. 
-La iluminación exterior en la est. Strančice está en el ámbito establecido en el SŘ de la est. Strančice, controlada automáticamente por una fotocélula, en estado sin averías. 
+### 2.2.3 Descripción de los componentes de la vía de circulación, del sistema de señalización (es decir, principalmente el estado de las vías, agujas, enclavamientos, señales y del dispositivo automático de seguridad de trenes)
+La estación de ferrocarril de Strančice se encuentra en la línea de ámbito nacional, en el km 157,806 de la línea de doble vía 519A, Benešov u Prahy – Praha-Vršovice os. n. La vía de circulación, de entrada y de salida 1.ª SK en la est. Strančice tiene una longitud de 609 m, delimitada por las señales de salida S1 y L1. En la est. Strančice, en la 2.ª SK, la velocidad de la línea en el sentido desde el inicio de la línea (Benešov u Prahy) está regulada mediante señales de velocidad; en el km 156,780 está situada una señal de velocidad con la velocidad máxima permitida indicada por el número 100, y en el km 157,132 se encuentra situada una señal de velocidad con la velocidad máxima permitida indicada por el número 110. En la 1.ª SK en el sentido desde el inicio de la línea, en el km 156,780, está situada una señal de velocidad con la velocidad máxima permitida indicada por el número 100 y en el km 157,160 se encuentra situada una señal de velocidad con la velocidad máxima permitida indicada por el número 110. La velocidad en la 1.ª TK desde la est. Strančice en dirección a la est. Říčany, es decir, en el sentido de la circulación no autorizada del tren Os 9104, la regula adicionalmente una señal de velocidad situada en el km 159,358 con la velocidad máxima permitida indicada por el número 105.
+El desnivel longitudinal más desfavorable de las vías de la estación en dirección a la est. Říčany es de 9,67 ‰ y hacia la est. Senohraby de 9,35 ‰.
+En la est. Strančice, según la TNŽ 34 2620, existe un SZZ de 3.ª categoría tipo ESA 11, con posibilidad de mando a distancia desde la est. Praha-Uhříněves. El dispositivo disponía del Certificado de idoneidad UTZ n.º PZ 219/07-E.46, emitido el día 13. 03. 2007 con vigencia por tiempo indefinido. Este SZZ permite al jefe de estación la establecimiento de itinerarios de trenes y de maniobras, incluida la operación del TZZ.
+Entre la est. Strančice y la est. Říčany, en ambas vías de línea, según la TNŽ 34 2620, existe un TZZ de 3.ª categoría, bloque automático electrónico bidireccional de tres indicaciones tipo ABE 1, y ello en el sentido impar en cuatro, y en el sentido par en cinco secciones de línea, con transmisión de códigos VZ en ambos sentidos con una frecuencia de codificación de 75 HZ.
+La disposición complementaria al reglamento SŽDC (ČD) Z1 en el anexo 5A del Rg de la est. Strančice, en el artículo 64, establecía que las indicaciones del protector automático de trenes se transmiten a la locomotora de tracción con la condición de que esté establecido el itinerario de tren para el tren correspondiente.
+Las señales de salida L1, L2 en la est. Strančice son luminosas, situadas en la pasarela de señales en el km 158,224, operadas por el jefe de estación B de la est. Praha-Uhříněves en el mando a distancia o por el jefe de estación de la est. Strančice, en caso de activación del servicio local.
+La iluminación exterior en la est. Strančice está en el ámbito establecido en el Rg de la est. Strančice, controlada automáticamente por una fotocélula, en estado sin averías.
 ### 2.2.4 Uso de los medios de comunicación
-• Las personas que dirigen el tráfico ferroviario y las personas que dirigen el HDV disponían de teléfonos móviles de servicio y del TRS, que se utilizó para detener trenes mediante la función «Parada general» y para comunicar la aparición del SU;
-• a las 6:21 h el jefe de estación B utilizó la «Parada general» en ambas estaciones de radio fijas del TRS de la est. Strančice y de la est. Říčany con la instrucción verbal «Tren 9104, ¡alto, alto!»; 
-• a las 6:23 h el jefe de estación de la est. Praha-Uhříněves verificó mediante teléfono móvil de servicio la detención de los trenes Os 2509, Os 9104 y Os 9105. El maquinista del tren R 630 confirmó la detención del tren mediante estación de radio. 
-La comunicación mediante teléfonos móviles de servicio entre los jefes de estación y los maquinistas de los trenes Os 2509, Os 9104 y Os 9105 no quedaba registrada. 
-
+• Las personas que dirigen el tráfico ferroviario y las personas que dirigen la HDV disponían de teléfonos móviles de servicio y de TRS, que se utilizó para detener trenes mediante la función «Parada general» y para comunicar la aparición de una MU;
+• a las 6:21 h, el jefe de estación B utilizó la «Parada general» en ambas estaciones de radio fijas de TRS de la est. Strančice y de la est. Říčany con la instrucción verbal «Tren 9104, párate, párate!»;
+• a las 6:23 h, el jefe de estación de la est. Praha-Uhříněves verificó mediante teléfono móvil de servicio la detención de los trenes Os 2509, Os 9104 y Os 9105. El maquinista del tren R 630 confirmó la detención del tren mediante estación de radio.
+La comunicación mediante teléfonos móviles de servicio entre los jefes de estación y los maquinistas de los trenes Os 2509, Os 9104 y Os 9105 no quedó registrada.
 
 ## Página 19
 
-### 2.2.5 Trabajos realizados en el lugar del suceso ferroviario y en sus inmediaciones
-En el lugar del SU no se realizaban, inmediatamente antes de su aparición, trabajos de reparación o de mantenimiento por parte del propietario, del gestor de la infraestructura ni de otras personas.
-### 2.2.6 Activación del plan para el caso de suceso ferroviario en la infraestructura y secuencia de acontecimientos
-6:25 h comunicación de la aparición del SU por el jefe de estación de la est. Praha-Uhříněves según el horario de
-•
-comunicaciones;
-6:35 h SU comunicado por el jefe de despacho de la OŘ Praha de SŽDC según el horario de
-•
-comunicaciones a la OSB, Delegación Territorial de Praga, SŽDC;
-6:40 h comunicado por la persona autorizada de la OSB al COP DI;
-•
-7:25 – 8:35 h inspección del lugar de aparición del suceso ferroviario por el VI DI y un empleado
-•
-de la OSB de SŽDC;
-7:50 h concedida la autorización para la liberación de la infraestructura;
-•
-7:55 h reanudación de la circulación en la 1. TK.
-•
-          En el lugar del SU estaban presentes también los jefes de los distintos componentes organizativos del gestor de la infraestructura y del transportista. Con la participación del VI DI se realizó una inspección comisionada del lugar del SU, incluida la elaboración del acta. Hasta la reanudación de la circulación se implantó un servicio de autobús de sustitución en el trayecto Strančice – Říčany y de vuelta.
-### 2.2.7 Activación del plan del sistema integrado de emergencias, de la policía y del servicio de emergencias médicas y secuencia de acontecimientos
-El SU fue comunicado por: el jefe de estación de la est. Praha-Uhříněves según el horario de comunicaciones.
-El plan IZS fue activado a las 6:25 h por el jefe de estación de la est. Praha-Uhříněves.
-Al lugar del SU acudieron los componentes del IZS:
-El suceso ferroviario fue investigado por la Policía ČR, Servicio de policía criminal e investigación,
-Delegación Territorial Praha venkov-jih bajo el n.º de expediente: KRPS-32405-3/TČ-2013-011471.
+### 2.2.5 Trabajos realizados en el lugar del suceso excepcional y en sus proximidades
+En el lugar del suceso excepcional no se estaban realizando, inmediatamente antes de su producción, trabajos de reparación o de mantenimiento por parte del propietario, del gestor de la vía ni de otras personas.
+### 2.2.6 Activación del plan para el caso de suceso excepcional en la vía y secuencia de hechos
+• 6:25 h notificación de la producción del suceso excepcional por el jefe de estación de la estación de Praga-Uhříněves conforme al horario de notificación;
+• 6:35 h suceso excepcional notificado por el jefe de despacho de la Oficina Regional de Praga de SŽDC conforme al horario de notificación a OSB, Delegación Territorial de Praga, SŽDC;
+• 6:40 h notificado por la persona autorizada de OSB a COP DI;
+• 7:25 – 8:35 h inspección del lugar de producción del suceso excepcional por VI DI y un empleado de OSB SŽDC;
+• 7:50 h concedido el consentimiento para la liberación de la vía;
+• 7:55 h restablecimiento de la circulación en la 1. TK.
+
+          En el lugar del suceso excepcional estaban presentes también los directivos de las distintas unidades organizativas del gestor de la vía y del transportista. Con la participación de VI DI se llevó a cabo una inspección comisionada del lugar del suceso excepcional, incluida la elaboración del acta. Hasta el restablecimiento de la circulación se estableció un servicio de autobuses de sustitución en el tramo Strančice – Říčany y de vuelta.
+### 2.2.7 Activación del plan del sistema integrado de rescate, de la policía y del servicio de emergencias médicas y secuencia de hechos
+El suceso excepcional lo notificó: el jefe de estación de la estación de Praga-Uhříněves conforme al horario de notificación.
+El plan IZS lo activó a las 6:25 h el jefe de estación de la estación de Praga-Uhříněves.
+Al lugar del suceso excepcional acudieron los componentes de IZS:
+El suceso excepcional lo investigó la Policía ČR, Servicio de policía criminal e investigación, Delegación Territorial Praga venkov-jih bajo el n.º de expediente: KRPS-32405-3/TČ-2013-011471.
 ## 2.3
 ### Fallecimientos, lesiones y daños materiales
-2.3.1 En los pasajeros y terceras personas, empleados del gestor de la infraestructura y del transportista, incluidas las personas en relación contractual
-En el SU no se produjo perjuicio para la salud de los empleados del gestor de la infraestructura, del transportista, de las personas en relación contractual, ni de los pasajeros y terceras personas.
-### 2.3.2 En las cosas transportadas, el equipaje y otros bienes
-En las cosas transportadas, el equipaje y otros bienes no se produjo ningún daño.
-
+2.3.1 En pasajeros y terceros, empleados del gestor de la vía y del transportista, incluidas personas en relación contractual
+En el suceso excepcional no se produjo perjuicio para la salud de los empleados del gestor de la vía, del transportista, de las personas en relación contractual, ni de los pasajeros y terceros.
+### 2.3.2 En los objetos transportados, el equipaje y otros bienes
+En los objetos transportados, el equipaje y otros bienes no se produjo ningún daño.
 
 ## Página 20
 
-### 2.3.3 En los vehículos ferroviarios, los componentes de la vía de circulación y en el medio ambiente
-No se produjo daño en los vehículos ferroviarios, en los componentes de la vía de circulación ni en otros bienes.
+### 2.3.3 En los vehículos ferroviarios, en los componentes de la vía de circulación y en el medio ambiente
+No se produjeron daños en los vehículos ferroviarios, en los componentes de la vía de circulación ni en otros bienes.
 ## 2.4
 ### Circunstancias externas
 ### 2.4.1 Condiciones meteorológicas y datos geográficos
-Condiciones meteorológicas: 6 °C, calma, oscuridad, est. Strančice iluminada en el ámbito determinado por el SŘ.
+Condiciones meteorológicas: 6 °C, calma, oscuridad, la estación de Strančice iluminada en la extensión determinada por el Reglamento de Explotación.
 ## 3 REGISTRO DE LAS EXPLICACIONES PRESENTADAS
 ## 3.1
 ### Resumen de las explicaciones presentadas (sujeto a protección de la identidad de las personas)
-### 3.1.1 Empleados del gestor de la infraestructura y del transportista, incluidas las personas en relación contractual
-maquinista del tren Os 9104 – del Acta con el empleado, entre otros, se desprende:
+### 3.1.1 Empleados del gestor de la vía y del transportista, incluidas personas en relación contractual
+maquinista del tren Os 9104 – del Registro con el empleado se deduce, entre otras cosas:
 ●
-en la est. Strančice a la hora de salida, el maquinista recibió del miembro de la tripulación la
+en la estación de Strančice, a la hora de salida, el maquinista recibió de un miembro de la tripulación del tren
 •
-instrucción «Autorización para la salida», cerró las puertas de acceso de la unidad y puso el tren en
-movimiento por la 1. SK;
-la señal de salida L1 el maquinista no la vio, la línea está en una curva a la derecha,
+la instrucción "Consentimiento para la salida", cerró las puertas de acceso de la unidad y puso el tren en
+movimiento tras la 1. SK;
+el maquinista no vio la señal de salida L1, la vía se encuentra en una curva a la derecha,
 •
-por lo que circuló despacio y al salir de la curva vio en la señal de salida de la 1. SK la
-indicación «Vía libre»;
-le resultó extraño ver la indicación «Vía libre», porque suponía que iría por la
+por lo que circuló despacio y, al salir de la curva, vio en la señal de salida de la 1. SK la
+señal "Libre";
+le resultó extraño ver la señal "Libre", porque suponía que circularía por la
 •
-2. TK, circuló despacio en rodadura libre hasta la primera señal de sección del autobloque en la
-1. TK, que estaba apagada, por lo que detuvo el tren, no detectó que el jefe de estación hubiera
-utilizado la parada general;
-tras la detención, el jefe de estación de la est. Praha-Uhříněves llamó al maquinista y le preguntó
+2. TK, circuló despacio en arrastre hasta la primera señal de bloqueo automático en la
+1. TK, que estaba apagada, por lo que el tren se detuvo, no detectó el uso del paro general
+por parte del jefe de estación;
+tras detenerse, el jefe de estación de la estación de Praha-Uhříněves llamó al maquinista y le preguntó
 •
-bajo qué indicación de la señal había salido de la est. Strančice. Respondió que bajo la
-indicación «Vía libre». Tras comunicarle el jefe de estación que se trataba de la aparición de un SU,
-que él comunicaría, permaneció en el lugar hasta la llegada de los órganos investigadores;
-si al salir se codificó el VZ en la cabina del maquinista, el maquinista no lo sabía,
+con qué señal había salido de la estación de Strančice. Respondió que con la
+señal "Libre". Tras comunicarle el jefe de estación que se trataba de la aparición de una MU, que
+sería comunicada, permaneció en el lugar hasta la llegada de los órganos investigadores;
+si al salir se codificó el VZ en el puesto del maquinista, el maquinista no lo sabía,
 •
-porque observaba la señal de salida, que en la 1. SK mostraba la indicación «Vía libre»,
-y en todas las demás señales había la indicación «Alto»;
-el tren Os 9104 lo detuvo el maquinista, no fue detenido por la parada general.
+porque observaba la señal de salida, que en la 1. SK mostraba la señal "Libre",
+y en todas las demás señales mostraba la señal "Alto";
+el tren Os 9104 lo detuvo el maquinista, no fue detenido por el paro general.
 •
-      De la Declaración de explicaciones relativa al suceso ferroviario redactada por el DI se desprende que el jefe de estación no informó al maquinista, antes de la salida del tren, de la retención del tren Os 9104 en la est. Strančice por motivos de circulación, ni se notificó al maquinista ninguna irregularidad en la circulación.
-maquinista del tren Os 2509 – del Acta con el empleado, entre otros, se desprende:
+      De la Declaración de explicaciones sobre el suceso extraordinario redactada por el DI se deduce que el jefe de estación
+no informó al maquinista, antes de la salida del tren, de la demora del tren Os 9104 en la estación de Strančice por motivos de
+circulación, ni se notificó al maquinista ninguna irregularidad
+en la circulación.
+maquinista del tren Os 2509 – del Registro con el empleado se deduce, entre otras cosas:
 •
-con la salida del tren Os 2509 de la parada Světice se produjo la activación de la
+con la salida del tren Os 2509 de la parada de Světice se produjo la activación
 •
-parada general y simultáneamente el maquinista oyó en el walkie-talkie la instrucción,
-tren 9104, ¡deténgase!;
-permaneció en la cabina del maquinista hasta la llegada de los investigadores.
+del paro general y, al mismo tiempo, el maquinista escuchó en el transmisor la instrucción,
+tren 9104, deténgase;
+permaneció en el puesto del maquinista hasta la llegada de los investigadores.
 •
-
 
 ## Página 21
 
 jefe de estación B
-  de la est. Praha-Uhříněves – del Acta con el empleado, entre otros, se desprende:
+  est. Praha-Uhříněves – del Registro con el empleado se desprende, entre otros:
 •
-prestaba servicio como jefe de estación B en la est. Praha-Uhříněves;
+ejercía el servicio como jefe de estación B en la est. Praha-Uhříněves;
 •
-el tren Os 9104 estaba en la est. Strančice preparado para salir por la 1. SK, las agujas estaban
+el tren Os 9104 estaba preparado para salir en la est. Strančice en la 1. SK, los desvíos estaban
 •
-conmutadas en sentido desde la 1. SK hacia la 1. TK en dirección a Říčany tal como quedaron
-tras la entrada del tren Os 9103. El aviso de finalización del embarque aún no se había emitido,
-puesto que se emite automáticamente tras la establecimiento del itinerario de tren desde la vía
-correspondiente;
+conmutados desde la 1. SK hacia la 1. TK en dirección a Říčany, tal como quedaron tras la entrada del tren Os 9103. El aviso de finalización de la entrada de pasajeros aún no se había anunciado, ya que se anuncia automáticamente tras la establecimiento de la vía de tren desde la vía determinada;
 a las 6:20 h circulaba por la est. Strančice el tren R 630 por la 2. SK hacia Říčany, el tren Os 9104
 •
 debía salir a continuación tras él;
-durante el paso del tren R 630 apareció en el monitor un mensaje de pérdida de shunt en la
+durante el paso del tren R 630 apareció en el monitor el mensaje de pérdida de shunt en la
 •
 1. SK de la est. Strančice, acompañado de una alerta sonora;
-con la vista en el monitor era evidente que el tren Os 9104 había abandonado la est. Strančice sin
+al mirar el monitor era evidente que el tren Os 9104 había abandonado la est. Strančice sin
 •
-respetar la indicación «Alto» en la señal de salida L1, y salía en dirección a la est. Říčany por la 1. TK;
-en ese momento, en esta 1. TK en la parada Světice, probablemente ya se estaba
+respetar la señal «Alto» en la señal de salida L1, y se estaba dirigiendo hacia la est. Říčany por la 1. TK;
+en ese momento, en esa 1. TK en la parada Světice, ya estaba probablemente en marcha el tren Os 2509,
 •
-poniendo en marcha el tren Os 2509, que circulaba hacia la est. Strančice y a continuación hacia la
-est. Benešov u Prahy;
-el jefe de estación utilizó inmediatamente en ambas estaciones de radio fijas del TRS de la est. Strančice y de la est.
+que circulaba hacia la est. Strančice y posteriormente hacia la est. Benešov u Prahy;
+el jefe de estación utilizó inmediatamente en ambas radios fijas TRS de la est. Strančice y la est.
 •
-Říčany la señal Parada general acompañada de las palabras «Tren 9104, ¡alto, alto!»;
-a continuación, la detención inmediata de los trenes 630, 2509, 9105 y 9104 la registró
+Říčany la señal «Parada general» acompañada de las palabras «Tren 9104 alto, alto!»;
+posteriormente, la parada inmediata de los trenes 630, 2509, 9105 y 9104 fue registrada
 •
-el jefe de estación B con la vista en el monitor JOP y la verificó mediante comunicación con los maquinistas;
-        Del Acta complementaria con el empleado se desprende que ya no recuerda si advirtió al maquinista del tren Os 9104 de que se produciría una retención en la est. Strančice por motivos de circulación.
+por el jefe de estación B al mirar el monitor JOP y verificada mediante comunicación con los maquinistas;
+        Del Registro complementario con el empleado se desprende que ya no recuerda si
+advirtió al maquinista del tren Os 9104 de que habría una demora en la est. Strančice por motivos de tráfico.
 ### 3.1.2 Otras personas
-Otras personas no presentaron explicaciones sobre el SU.
+Otras personas no aportaron explicaciones en relación con el MU.
 ## 3.2
-### Sistema de garantía de la seguridad
+### Sistema de garantía de seguridad
 ### 3.2.1 Organización marco y forma en que se emiten y ejecutan las instrucciones
-El gestor de la infraestructura y el transportista tienen un sistema de garantía de la seguridad adoptado con base en las disposiciones de la ley n.º 266/1994 Sb. 
-En el cumplimiento del sistema de garantía de la seguridad adoptado por el gestor de la infraestructura SŽDC relacionado con las circunstancias de la aparición del SU en cuestión, se detectó una deficiencia.
+El gestor de la vía y el transportista cuentan con un sistema de garantía de seguridad adoptado
+con base en las disposiciones de la ley nº 266/1994 Sb.
+En el cumplimiento del sistema de garantía de seguridad adoptado por el gestor de la vía SŽDC
+relativo a las circunstancias de la ocurrencia del MU en cuestión, se constató una deficiencia.
 Hallazgos:
-el gestor de la infraestructura tiene implantado un sistema de garantía de la seguridad de la explotación
 •
-de la infraestructura y ha emitido, entre otros, normas internas, cuyo componente son los procedimientos
-tecnológicos para la operación de la infraestructura y la organización del tráfico ferroviario. Con base en
-los hechos constatados, expuestos en el presente informe, el gestor de la infraestructura no garantizó el
-cumplimiento de los procedimientos tecnológicos establecidos, y por tanto del sistema de seguridad de
-explotación de la infraestructura adoptado, puesto que al maquinista del tren Os 9104 no se le advirtió
-de la retención por motivos de circulación en la est. Strančice. 
-En el cumplimiento del sistema de garantía de la seguridad adoptado por el transportista ČD,
-relacionado con las circunstancias de la aparición del SU en cuestión, se detectó una deficiencia.
+el gestor de la vía tiene implantado un sistema de garantía de seguridad de la explotación de
+la vía y ha emitido, entre otros, normas internas que incluyen procedimientos tecnológicos para
+la operación de la vía y la organización del tráfico ferroviario. Con base en los hechos constatados,
+expuestos en el presente informe, el gestor de la vía no garantizó el cumplimiento de los procedimientos
+tecnológicos establecidos, y por tanto tampoco del sistema de seguridad de la explotación de la vía
+implantado, ya que al maquinista del tren Os 9104 no se le advirtió de la demora por motivos de
+tráfico en la est. Strančice.
+En el cumplimiento del sistema de garantía de seguridad adoptado por el transportista ČD,
+relativo a las circunstancias de la ocurrencia del MU en cuestión, se constató una deficiencia.
 
 ## Página 22
 
 Hallazgos:
-el operador ferroviario participante en el siniestro cuenta con un sistema implantado de garantía de la seguridad
+el operador ferroviario participante en el SU cuenta con un sistema de garantía de la seguridad
 •
-de la explotación ferroviaria y ha emitido, entre otros, reglamentos internos, cuyos componentes son procedimientos tecnológicos mediante los que se garantizan las actividades establecidas por las reglas para la explotación ferroviaria, y en el presente caso especialmente para la conducción de los vehículos ferroviarios. En base a los hechos constatados, expuestos en el presente informe, el operador del tren Os 9104 no garantizó el cumplimiento de los procedimientos tecnológicos establecidos y, con ello, del sistema implantado de seguridad de la explotación ferroviaria, puesto que el maquinista del tren Os 9104, entre otros, no respetó la instrucción del gestor de la infraestructura de detener el tren antes de la señal de salida con la indicación «Alto» y, además, no respetó la instrucción del operador de vigilar la vía durante la marcha del tren y atenerse a las señales.
-### 3.2.2 Requisitos del personal del gestor de la infraestructura y del operador y su aplicación
-Los requisitos del personal del gestor de la infraestructura y del operador, especialmente los requisitos de su idoneidad profesional y sanitaria, están establecidos por la Ley n.º 266/1994 Sb., por el Decreto n.º 173/1995 Sb., por el Decreto n.º 101/1995 Sb., por el Decreto n.º 16/2012 Sb. y por los reglamentos internos del gestor de la infraestructura y del operador.
-En el momento de producirse el siniestro, la persona del gestor de la infraestructura SŽDC participante en el siniestro y que realizaba actividades en la explotación de la infraestructura era profesionalmente idónea para el desempeño de la función que ocupaba.
-En el momento de producirse el siniestro, todas las personas del operador ČD participantes en el siniestro y que realizaban actividades en la explotación ferroviaria eran profesionalmente idóneas para el desempeño de la función que ocupaban.
+de la explotación ferroviaria y ha emitido, entre otros, reglamentos internos, cuyos componentes son
+procedimientos tecnológicos mediante los cuales se garantizan las actividades establecidas por las reglas para
+la explotación ferroviaria, y en el caso concreto, principalmente para la conducción de los
+vehículos ferroviarios. Sobre la base de los hechos constatados, expuestos en el presente informe, el operador
+del tren Os 9104 no garantizó el cumplimiento de los procedimientos tecnológicos establecidos y, con ello,
+del sistema de seguridad de la explotación ferroviaria implantado, ya que el maquinista
+del tren Os 9104, entre otros, no respetó la instrucción del gestor de la infraestructura de detener el tren antes
+de la señal de salida con la indicación «Alto» y, además, no respetó la instrucción del operador
+de vigilar la vía durante la marcha del tren y atenerse a las señales.
+### 3.2.2 Requisitos para el personal del gestor de la infraestructura y del operador y su
+aplicación
+Los requisitos para el personal del gestor de la infraestructura y del operador, en particular los requisitos
+de idoneidad profesional y sanitaria, están establecidos por la Ley n.º 266/1994 Sb.,
+el decreto n.º 173/1995 Sb., el decreto n.º 101/1995 Sb., el decreto n.º 16/2012 Sb.
+y los reglamentos internos del gestor de la infraestructura y del operador.
+En el momento de producirse el SU mencionado, la persona del gestor de la infraestructura SŽDC participante
+en el SU y que realizaba actividades en la explotación de la infraestructura era profesionalmente idónea para el desempeño de la
+función que ocupaba.
+En el momento de producirse el SU mencionado, todas las personas del operador ČD participantes en el SU
+y que realizaban actividades en la explotación ferroviaria eran profesionalmente idóneas para el desempeño de la
+función que ocupaban.
 ### 3.2.3 Procedimiento de control interno de seguridad y sus resultados
-En el procedimiento de control interno de seguridad del gestor de la infraestructura y del operador no se constataron deficiencias.
+En el procedimiento de control interno de seguridad del gestor de la infraestructura y del operador no se
+detectaron deficiencias.
 ### 3.2.4 Interfaz entre los distintos sujetos participantes y los componentes de la vía
-El propietario de la vía ferroviaria de ámbito nacional, estación de Strančice, es la República Checa en el derecho de gestión de la Administración de la Infraestructura Ferroviaria, organización estatal, con domicilio en Dlážděná 1003/7, Praha 1, CP 110 00.
-El gestor de la infraestructura ferroviaria, categoría de ámbito nacional, línea 519A, Benešov u Prahy – Praha-Vršovice os. n., es la Administración de la Infraestructura Ferroviaria, organización estatal, con domicilio en Dlážděná 1003/7, Praha 1, CP 110 00, en base a la Autorización Administrativa emitida por la Autoridad Ferroviaria el 29. 5. 2008, bajo n.º de expediente: 3-4277/07-DÚ/Le, n.º de registro: ÚP/2008/9002, en la redacción de las sucesivas modificaciones.
-El gestor de la infraestructura era titular del Certificado de Seguridad del Gestor de la Infraestructura, emitido por la Autoridad Ferroviaria (DÚ) el 30. 6. 2008, bajo n.º de expediente 3-4274/07-DÚ/Pd, n.º de registro OSPD/2008/007, con validez hasta el 29. 6. 2013.
-
+El propietario de la vía ferroviaria de ámbito nacional, estación Strančice, es la República Checa en el derecho
+de gestión de la Administración de la Infraestructura de Transporte Ferroviario, organización estatal,
+con domicilio en Dlážděná 1003/7, Praha 1, CP 110 00.
+El explotador de la vía ferroviaria, categoría de ámbito nacional, línea 519A, Benešov u Prahy – Praha-Vršovice os. n. es la Administración de la Infraestructura de Transporte Ferroviario, organización estatal,
+con domicilio en Dlážděná 1003/7, Praha 1, CP 110 00, en virtud de la Autorización Administrativa emitida por la Autoridad Ferroviaria el 29. 5. 2008,
+con n.º de expediente: 3-4277/07-DÚ/Le, n.º de registro: ÚP/2008/9002, en la redacción de
+posteriores modificaciones.
+El explotador de la infraestructura era titular del Certificado de Seguridad del Explotador de la Infraestructura,
+emitido por la DÚ el 30. 6. 2008, con n.º de expediente 3-4274/07- DÚ/Pd, n.º de registro OSPD/2008/007, con validez
+hasta el 29. 6. 2013.
 
 ## Página 23
 
-El operador de los trenes Os 9104 y Os 2509 era České dráhy, a. s., con domicilio en Nábřeží L. Svobody 1222, Praha 1, CP 110 15, en base a la Licencia de Operador de Transporte Ferroviario n.º de registro L/2003/9000, n.º de expediente: 3-2169/03-DÚ/Bp, emitida por la Autoridad Ferroviaria en Praga el 17. 9. 2003, en la redacción vigente.
-El operador era titular del Certificado de Operador, emitido por la Autoridad Ferroviaria (DÚ) el 26. 3. 2008, bajo n.º de expediente DUCR-2366/10/Pd, n.º de registro OSD/2008/028, con validez hasta el 25. 3. 2013.
-El transporte ferroviario se realizaba en base al «Contrato n.º 001/09 para la explotación del transporte ferroviario en la vía de transporte ferroviaria de la red nacional y de las líneas regionales en propiedad de la República Checa», celebrado entre la Administración de la Infraestructura Ferroviaria, organización estatal, y la persona jurídica České dráhy, a. s., el 30. 6. 2009, con el Adendo n.º 1 de fecha 13. 4. 2010, el Adendo n.º 2 de fecha 10. 12. 2010 y el Adendo n.º 3 de fecha 22. 7. 2011.
-En la interfaz entre los sujetos participantes no se constató ninguna deficiencia.
+El transportista de los trenes Os 9104 y Os 2509 era České dráhy, a. s., con domicilio en Nábřeží L. Svobody 1222, Praha 1, PSČ 110 15, en virtud de la Licencia de operador de transporte ferroviario n.º L/2003/9000, ref. 3-2169/03-DÚ/Bp, expedida por la Autoridad Ferroviaria en Praga el 17. 9. 2003, en su versión vigente.
+El transportista era titular del Certificado de transportista, expedido por la DÚ el 26. 3. 2008, bajo la ref. DUCR-2366/10/Pd, n.º OSD/2008/028, con vigencia hasta el 25. 3. 2013.
+El transporte ferroviario se prestaba en virtud del «Contrato n.º 001/09 para la prestación de transporte ferroviario en la vía de transporte ferroviario de la red ferroviaria estatal y de las redes ferroviarias regionales en propiedad de la República Checa», celebrado entre la Administración de la Vía de Transporte Ferroviario, organización estatal, y la persona jurídica České dráhy, a. s., el 30. 6. 2009, con el Adenda n.º 1 de fecha 13. 4. 2010, el Adenda n.º 2 de fecha 10. 12. 2010 y el Adenda n.º 3 de fecha 22. 7. 2011.
+En la interfaz entre los sujetos implicados no se detectó ninguna deficiencia.
 ## 3.3
 ### Regulación jurídica y de otro tipo
-### 3.3.1 Normativa jurídica comunitaria y nacional aplicable
-En la investigación del siniestro se constató la infracción de las siguientes normas jurídicas:
+### 3.3.1 Normativa comunitaria y nacional aplicable
+En la investigación del accidente se constató la infracción de las siguientes disposiciones legales:
 § 22 apartado 1 letra a) y apartado 2 letra d) de la Ley n.º 266/1994 Sb.:
 •
-«(1) El gestor de la infraestructura está obligado a:
-a) explotar la infraestructura para las necesidades del transporte ferroviario fluido y seguro de acuerdo con las reglas para la explotación de la infraestructura y la autorización administrativa»;
-(2) El gestor de la infraestructura nacional o regional está además obligado a
-d) implantar un sistema de garantía de la seguridad de la explotación de la infraestructura y garantizar su cumplimiento.»;
+«(1) El operador de la vía está obligado a:
+a) explotar la vía para las necesidades del transporte ferroviario fluido y seguro de acuerdo con las normas de explotación de la vía y la autorización administrativa»;
+(2) El operador de la vía estatal o de la vía regional está además obligado a
+d) implantar un sistema de garantía de la seguridad de la explotación de la vía y garantizar su cumplimiento.»;
 § 35 apartado 1 letra a), f) y g) de la Ley n.º 266/1994 Sb.:
 •
-«(1) El operador está obligado a
-a) explotar el transporte ferroviario de acuerdo con las reglas de explotación del transporte ferroviario, la licencia vigente y el contrato celebrado con el gestor de la infraestructura para la explotación del transporte ferroviario en la infraestructura;
+«(1) El transportista está obligado a
+a) prestar transporte ferroviario de acuerdo con las normas de prestación de transporte ferroviario, la licencia vigente y el contrato celebrado con el operador de la vía para la prestación de transporte ferroviario en la vía;
 f) implantar un sistema de garantía de la seguridad del transporte ferroviario y garantizar su cumplimiento;
-g) atenerse, en la explotación del transporte ferroviario, a las instrucciones del gestor de la infraestructura impartidas en la organización del transporte ferroviario.»;
-§ 15 apartados 4 y 8 del Decreto n.º 173/1995 Sb.:
+g) guiarse, en la prestación de transporte ferroviario, por las instrucciones del operador de la vía impartidas al organizar el transporte ferroviario.»;
+§ 15 apartados 4 y 8 del decreto n.º 173/1995 Sb.:
 •
-«(4) El tren no puede salir de la estación sin una señal que permita la salida, ni sin el consentimiento de la persona que dirige el transporte ferroviario, ni sin otra autorización del gestor de la infraestructura...;
-(8) Las actividades de aseguramiento de la entrada, salida y paso del tren y el modo de aseguramiento de la marcha de los trenes se rigen por los procedimientos tecnológicos establecidos por el gestor de la infraestructura.»;
-§ 35 apartado 1 letra f) y m) del Decreto n.º 173/1995 Sb.:
+«(4) El tren no puede salir de la estación sin una señal que permita la salida ni sin el consentimiento de la persona que dirige el transporte ferroviario ni sin otra autorización del operador de la vía...;
+(8) Las actividades de aseguramiento de la entrada, salida y paso del tren y el modo de aseguramiento de la circulación de los trenes se rigen por los procedimientos tecnológicos establecidos por el operador de la vía.»;
+§ 35 apartado 1 letra f) y m) del decreto n.º 173/1995 Sb.:
 •
-«(1) Para la conducción de un vehículo ferroviario debe garantizarse que la persona que conduce el vehículo ferroviario
-
+«(1) Para la conducción de un vehículo ferroviario debe garantizarse que la persona que dirige el vehículo ferroviario
 
 ## Página 24
+
 
 f) observe desde el vehículo ferroviario de cabeza la vía y las señales y actúe de acuerdo con los hechos constatados.;
    m) detenga el tren de forma segura antes del lugar señalizado.»;
@@ -858,8 +872,8 @@ reglamento interno SŽDC (ČD) D2, artículo 505:
 «En las estaciones donde se permite la expedición de trenes de acuerdo con el artículo 502, es posible la expedición de trenes con transporte de pasajeros que permanecen (regular o extraordinariamente) en el espacio de bajada y subida de pasajeros, mediante la colocación de la señal principal en la señal que permite la marcha, con cumplimiento de las siguientes condiciones:...
 e) «...Si el maquinista no ve entre la parte delantera del tren y la señal de salida (de
 
-
 ## Página 25
+
 
 circulación) una aguja y no puede comprobar con la vista, antes de la salida, que la señal principal correspondiente permite la salida, y tampoco lo ha comprobado mediante la señal de aproximación independiente (señal de aproximación repetidora), mediante la señal de la señal principal anterior, que es la señal de aproximación de la señal principal correspondiente, mediante el freno automático de tren o preguntando al jefe de estación, tras realizar las actuaciones de acuerdo con el reglamento del operador (para el procedimiento de la dotación del tren antes de poner el tren en movimiento), pondrá el tren en movimiento con una velocidad máxima de 40 km/h. Sin embargo, debe ajustar la velocidad de marcha de modo que pueda detenerse de forma segura antes de la señal Alto de la señal principal o antes de una eventual aguja. El maquinista solo puede aumentar la velocidad cuando compruebe de forma segura que la señal principal correspondiente permite la salida del tren a mayor velocidad. ...»;
 reglamento interno SŽDC (ČD) D2, artículo 1302:
@@ -887,6 +901,7 @@ La comunicación se establece con el jefe de estación en cuyo ámbito se encuen
 La realización de la prueba no se registra (la registración se lleva a cabo en el dispositivo de registro correspondiente). … Cada omisión injustificada de la prueba de comunicación se considera infracción de la disciplina laboral.»
 
 ## Página 26
+
 
 ## 3.4
 ### Actividad de los vehículos ferroviarios y de las instalaciones técnicas
@@ -916,8 +931,8 @@ Los componentes de la vía no guardaban relación causal ni a causal con la prod
 
 No se detectaron deficiencias.
 
-
 ## Página 27
+
 
 ### 3.4.3 Medios de comunicación
 El uso de los medios de comunicación antes de la producción del MU no guardaba relación con la producción del MU.
@@ -946,8 +961,8 @@ El HDV 94 54 1 452 012-8 estaba equipado con el equipo registrador de velocidad 
 ➢ la luz azul encendida en el repetidor de señales advierte al maquinista que está excluido del funcionamiento del dispositivo de aceleración del frenado automático y que también está desconectada la bocina eléctrica).
 De las mediciones realizadas en la inspección del lugar de producción del MU se constató que la visibilidad de las señales en la señal de salida L1 es de 300 m, es decir, desde el km 157,924. Del análisis del registro de velocidad se desprende que la velocidad máxima permitida según el art. 505 letra e) de la norma SŽDC (ČD) D2 (40 km·h-1) no fue superada desde la salida del tren hasta el km indicado. Desde el km 157,924 hasta la señal de salida L1 la velocidad del tren aumentó de forma gradual. La velocidad máxima permitida del tren Os 9104 en el lugar
 
-
 ## Página 28
+
 
 de producción del MU, es decir, a la altura de la señal de salida L1, estaba fijada en el momento en cuestión por la señal «Alto» de dicha señal en V = 0 km.h-1 y fue superada en unos 49 km·h-1.
 La velocidad fijada para el tren Os 9104 en el tramo anterior y en el tramo siguiente (100 km·h-1) no fue superada.
@@ -975,6 +990,7 @@ El 30. 1. 2013 a las 5:57 h partió de la est. Benešov el tren internacional de
 
 ## Página 29
 
+
 regularidad y fluidez de la circulación del tren R 630, que se había retrasado en su paso por la estación de Strančice ya en unos 3 minutos debido a este método de dirección y organización del transporte ferroviario. El jefe de estación B de la estación de Praha-Uhříněves garantizó el orden correcto de los trenes indicados al establecer para el tren Nex 41500 en la estación de Strančice un itinerario de tren únicamente para su entrada en la 4.ª vía de maniobras (SK), permitiendo así que fuera adelantado por el tren R 630. El tren Nex 41500 se detuvo en la 4.ª SK de la estación de Strančice a las 6:19 h. Para el tren R 630, el itinerario de tren por la 2.ª SK de la estación de Strançice se estableció a las 6:19:39 h y su paso por dicha estación se registró a las 6:20:58 h, es decir, 3:58 minutos más tarde de lo establecido como paso regular en su horario de circulación.
 Se detectó una deficiencia.
 Debido al retraso indicado del tren R 630, el jefe de estación B decidió hacer que este tren adelantara también en la estación de Strančice al tren de origen Os 9104, con salida regular de la estación de Strančice a las 6:20 h. El jefe de estación B previó que la salida del tren Os 9104 se produjera en secuencia detrás del tren R 630, es decir, después de la liberación del 1.º tramo de vía delimitado por la señal de tramo AB-2-1593. En el momento del paso del tren R 630 por la 2.ª SK de la estación de Strančice, es decir, a las 6:20 h, el jefe de estación B detectó en el monitor «Pérdida de shunt en la 1.ª SK de la estación de Strančice», acompañada de una alerta sonora. Según la indicación en el monitor, era evidente que el tren Os 9104 había salido de la estación de Strančice de forma no autorizada por la 1.ª vía de circulación (TK) en dirección a la estación de Říčany. Con base en este hallazgo, el jefe de estación B activó inmediatamente la señal «Parada general» en ambas estaciones de radio fijas TRS de la estación de Strančice y de la estación de Říčany con la instrucción verbal: «Tren 9104, pare, pare!». Por efecto de esta señal, se detuvo la circulación de los trenes R 630, Os 9105 y, especialmente, del tren Os 2509, que en ese momento circulaba por la 1.ª TK desde la estación de Říčany hacia la estación de Strančice y se encontraba en el área de la parada de Světice.
@@ -984,8 +1000,8 @@ La no realización del «D test» por parte de este maquinista fue también regi
 Se detectó una deficiencia.
 Al investigar si el jefe de estación B de la estación de Praha-Uhříněves había advertido al maquinista del tren Os 9104 sobre el retraso por motivos de tráfico en la estación de Strančice, el jefe de estación, en una anotación complementaria con el empleado, indicó que ya no lo recordaba. El maquinista del tren Os 9104 en la estación de Strančice, según
 
-
 ## Página 30
+
 
 su declaración en el acta de la explicación prestada, no fue notificado del retraso del tren por motivos de tráfico.
 Se detectó una deficiencia.
@@ -1004,8 +1020,8 @@ Los empleadores garantizaron las condiciones para el descanso preturno de confor
 Los empleados participantes del operador ferroviario y del transportista estaban, en el momento de la ocurrencia del SU, médicamente aptos para el desempeño de la función que ocupaban. La investigación no determinó que la situación personal o el estado psicológico de las personas involucradas en el SU hubieran influido en la ocurrencia del SU.
 Los empleados del operador ferroviario y del transportista se sometían a exámenes médicos periódicos de conformidad con la disposición del decreto n.º 101/1995 Sb. No se detectaron estados de salud ni situaciones personales que pudieran haber influido en la ocurrencia del SU, incluido el estrés físico y psicológico.
 
-
 ## Página 31
+
 
 3.6.3 Disposición del equipamiento del puesto de mando o del vehículo que influye en su manejo y uso
 La disposición y el equipamiento del puesto de trabajo de los empleados del operador ferroviario y del transportista no guardaban relación con la ocurrencia del SU.
@@ -1018,6 +1034,7 @@ Al mismo tiempo, la DI recomendó a ČD, como transportista y operador del opera
 Recomendaciones de seguridad similares fueron emitidas también por la DI en los Informes sobre los resultados de la investigación de las causas y circunstancias de la ocurrencia de sucesos, con el carácter de que en las líneas donde, a largo plazo, no se implantará el sistema europeo de seguridad del tren ETCS, se recomienda instalar un dispositivo técnico de parada de emergencia de los trenes cuya seguridad esté amenazada, que sea activado automáticamente por la circulación no autorizada de un vehículo ferroviario más allá de la señal principal (p. ej., el sistema VNPN – sistema de seguridad de aviso ante el paso no autorizado de una señal);
 
 ## Página 32
+
 
 n.º de ref.: 6-3305/2009/DI de 16. 10. 2009 sobre el accidente ferroviario en la est. de Přerov, donde se produjo una colisión del tren
 •
@@ -1080,6 +1097,7 @@ siendo actualizado por el Ministerio de Transportes
 
 ## Página 33
 
+
 y, en relación con el plan de implantación ERTMS actualizado, SŽDC continuará con la
 construcción del sistema ETCS;
 el sistema VNPN fue verificado operativamente con resultado positivo en la estación ferroviaria
@@ -1132,68 +1150,20 @@ llegó a las 6:04 h en la 1. SK a la vía 1 el tren Os 9103, que aquí, según e
 circulación, pasando el material a formar el tren de salida Os 9104 a Praha hl. n., con salida
 regular de la est. de Strančice a las 6:20 h.
 
-
 ## Página 34
 
-El tren R 630 circuló en seguimiento tras el tren Nex 41500 hasta la est. de Strančice, a pesar de
-que, en la gestión y organización operativa de la circulación ferroviaria, según el procedimiento
-tecnológico del gestor de la infraestructura, el tren de categoría inferior Nex 41500 debía ser
-adelantado en la est. de Čerčany por el tren R 630. Se produjo así una alteración de la
-regularidad y fluidez de la circulación del tren R 630, que de este modo ya se había retrasado
-en su paso por la est. de Strančice en unos 3 minutos. Tras la entrada y detención del tren
-Nex 41500 en la 4. SK a las 6:19 h, se estableció para el tren R 630 el itinerario de tren por la
-2. SK de la est. de Strančice a las 6:19:39 h y su paso por dicha est. quedó registrado a las
-6:20:58 h, es decir, 3:58 minutos más tarde de lo establecido como paso regular por su horario.
-Debido al retraso indicado del tren R 630, el jefe de estación B decidió adelantar con este tren
-en la est. de Strančice también el tren de salida Os 9104. La salida del tren Os 9104 la
-presuponía el jefe de estación B realizar en seguimiento tras el tren R 630, es decir, tras la
-liberación del 1.º tramo de vía delimitado en dirección a la est. de Říčany por la señal de tramo
-AB-2.
-Mediante el uso del DOZ, el jefe de estación B estableció en la est. de Strančice el itinerario de
-tren para el paso del tren R 630 por la 2. SK y, con la operación normal del SZZ, a las 6:19:39 h
-se encendió en la señal de salida L2 la indicación "Vía libre".
-A la hora de salida regular del tren Os 9104, es decir, a las 06:20:00 h, el maquinista de
-dicho tren recibió del miembro de la tripulación la orden "Autorización para la salida". Tras
-recibirla y cerrar las puertas del DV, puso el tren Os 9104 en marcha y partió de la vía 1 del
-andén 1. Dado que la 1. SK se encuentra en una curva a la derecha, en el momento de la
-puesta en marcha del tren Os 9104 desde el andén, el maquinista no veía la señal de salida L1.
-En la circulación posterior, el maquinista del tren Os 9104 no respetó la indicación "Alto" en la
-señal de salida L1 junto a la 1. SK, a pesar de que, según la medición realizada, podía verla
-ya tras recorrer unos 165 m desde el punto de salida, es decir, desde el km 157,924, 300 m
-antes de la señal de salida L1. El tren Os 9104 continuó circulando de forma no autorizada
-más allá de esta señal y, dado que, tras la entrada anterior del tren Os 9103 en la 1. SK desde la
-1. TK, los desvíos del itinerario ya estaban establecidos, salió por la 1. TK. Por esta vía
-continuó su circulación, incluso más allá de la primera señal de tramo del bloque automático
-AB-1-1593, en el km 159,379, que estaba apagada, se detuvo en el km 159,996, volvió a
-ponerse en marcha y, tras recorrer unos 4 m, se detuvo con la cabeza del tren en el km
-160,000. Por la 1. TK el tren Os 9104 circuló durante todo el trayecto en sentido contrario al
-tren Os 2509.
-El jefe de estación B, durante el paso del tren R 630 por la 2. SK en la est. de Strančice,
-detectó en el monitor la "Pérdida de shunt en la 1. SK de la est. de Strančice", acompañada de
-una alerta sonora. De la indicación en el monitor se desprende que el tren Os 9104 partió de la
-vía 1, no respetó la indicación "Alto" en la señal de salida L1 junto a la 1. SK y salió de forma
-no autorizada por la 1. TK, por la que continuó circulando en dirección a la est. de Říčany. El
-jefe de estación B, inmediatamente tras esta detección, activó la señal "Parada general" en
-ambas radios fijas TRS de la est. de Strančice y de la est. de Říčany con la orden verbal "Tren
-9104 alto, alto!". Por la actuación de esta señal se produjo la detención de los trenes R 630,
-Os 9105 y, especialmente, del tren Os 2509, que circulaba por la 1. TK desde la est. de Říčany
-hacia la est. de Strančice y en ese momento se encontraba en el ámbito de la parada de Světice.
-La detención de los trenes fue verificada posteriormente por los jefes de estación por medios de
-telecomunicación. El tren Os 9104 no fue detenido de este modo; el maquinista lo detuvo con
-frenado en servicio. El maquinista, antes de la salida del tren, no configuró la parte móvil del
-TRS en el HDV de la manera prescrita y no realizó el "test D", que habría verificado la conexión
-funcional de las radios entre el tren y el jefe de estación en el tramo correspondiente. La
-ocurrencia del accidente ferroviario fue comunicada según el calendario de notificación. Tras la
-detención en la 1. TK, las cabezas de ambos trenes estaban a la vista y separadas 600 m.
-Del archivo del SZZ ESA11 se constató que el itinerario de tren para la salida del tren Os 9104
-de la est. de Strančice no estaba establecido, en la señal de salida L1 desde la 1. SK había la
-indicación "Alto" y los desvíos en dirección a la 1. TK estaban en posición básica tras el
-itinerario de tren anterior para el tren Os 9103. La autorización de circulación por la 1. TK
-estaba dada, debido a la circulación del tren Os 2509, hacia la est. de Říčany. Las indicaciones
-del seguridad de circulación de trenes no se transmitían al HDV del tren Os 9104, ya que no se
-cumplía la condición del itinerario de tren establecido para su salida.
+El tren R 630 circulaba en seguimiento del tren Nex 41500 hasta la estación de Strančice, a pesar de que, en la gestión operativa y organización del transporte ferroviario, según el procedimiento tecnológico del gestor de la infraestructura, el tren de categoría inferior Nex 41500 debía ser adelantado por el tren R 630 en la estación de Čerčany. Se produjo así una alteración de la regularidad y fluidez de la circulación del tren R 630, el cual se había retrasado de este modo en su paso por la estación de Strančice ya en unos 3 minutos. Tras la entrada y detención del tren Nex 41500 en el 4.º SK a las 6:19 h, se estableció para el tren R 630 una ruta de tren por el 2.º SK de la estación de Strančice a las 6:19:39 h y su paso por dicha estación quedó registrado a las 6:20:58 h, es decir, 3:58 minutos más tarde de lo establecido como paso regular por su horario de circulación.
+Debido al mencionado retraso del tren R 630, el jefe de estación B decidió adelantar en la estación de Strančice con este tren también el tren de origen Os 9104. La salida del tren Os 9104, el jefe de estación B preveía realizarla en seguimiento tras el tren R 630, es decir, tras la liberación del 1.º tramo de vía delimitado en dirección a la estación de Říčany por la señal de tramo AB-2.
+Mediante el uso del DOZ, el jefe de estación B estableció en la estación de Strančice la ruta de tren para el paso del tren R 630 por el 2.º SK y con la operación normal del SZZ a las 6:19:39 h se encendió la señal «Vía libre» en la señal de salida L2.
+A la hora de salida regular del tren Os 9104, es decir, a las 06:20:00 h, el maquinista de este tren recibió de un miembro de la tripulación la orden «Autorización para la salida». Tras recibirla y cerrar las puertas DV, el tren Os 9104 se puso en marcha y partió del andén 1 desde el SK n.º 1.
+Dado que el 1.º SK se encuentra en una curva a la derecha, en el momento de la puesta en marcha del tren Os 9104 desde el andén, el maquinista no pudo ver la señal de salida L1. En la marcha posterior, el maquinista del tren Os 9104 no respetó la señal «Alto» en la señal de salida L1 junto al 1.º SK, a pesar de que, según la medición realizada, podía haberla divisado ya tras recorrer unos 165 m desde el punto de partida, es decir, desde el pk 157,924, 300 m antes de la señal de salida L1. El tren Os 9104 continuó circulando indebidamente más allá de dicha señal y, dado que, tras la entrada anterior del tren Os 9103 en el 1.º SK desde el 1.º TK, los desvíos de la ruta ya estaban establecidos, partió por el 1.º TK. Por esta vía continuó circulando, incluso más allá de la primera señal de tramo del bloque automático AB-1-1593, en el pk 159,379, que estaba apagada, se detuvo en el pk 159,996, volvió a ponerse en marcha y tras recorrer unos 4 m detuvo la cabeza del tren en el pk 160,000. Por el 1.º TK, el tren Os 9104 circuló durante todo el trayecto en sentido contrario al tren Os 2509.
+El jefe de estación B, en el momento del paso del tren R 630 por el 2.º SK en la estación de Strančice, detectó en el monitor la «Pérdida de shunt en el 1.º SK de la estación de Strančice», acompañada de una alerta sonora. De la indicación en el monitor se dedujo que el tren Os 9104 había partido del andén 1, no respetó la señal «Alto» en la señal de salida L1 junto al 1.º SK y partió indebidamente por el 1.º TK, por donde continuó circulando en dirección a la estación de Říčany. El jefe de estación B, inmediatamente tras esta detección, activó la señal «Parada general» en ambas radios fijas TRS de la estación de Strančice y de la estación de Říčany con la orden verbal «Tren 9104 alto, alto». Por la actuación de esta señal se produjo la detención de los trenes R 630, Os 9105 y, especialmente, del tren Os 2509, que circulaba por el 1.º TK desde la estación de Říčany hacia la estación de Strančice y en ese momento se encontraba en el ámbito de la parada de Světice. La detención de los trenes fue verificada posteriormente por los jefes de estación mediante medios de telecomunicación.
+El tren Os 9104 no fue detenido de este modo; el maquinista lo detuvo mediante frenado de servicio.
+El maquinista antes de la salida del tren no configuró de la forma prescrita la parte móvil del TRS en el HDV y no realizó el «test D», que habría verificado la conexión funcional de las radios entre el tren y el jefe de estación en el tramo correspondiente. La formación de MU se comunicó según el horario de comunicación. Tras la detención en el 1.º TK, las cabezas de ambos trenes estaban a la vista y separadas entre sí 600 m.
+Del archivo del SZZ ESA11 se constató que la ruta de tren para la salida del tren Os 9104 de la estación de Strančice no había sido establecida, en la señal de salida L1 desde el 1.º SK había la señal «Alto» y los desvíos en dirección al 1.º TK se encontraban en posición básica tras la ruta de tren anterior para el tren Os 9103. La autorización de circulación por el 1.º TK, debido a la circulación del tren Os 2509, se había concedido hacia la estación de Říčany. Las señales del protector de tren no se transmitían al HDV del tren Os 9104, ya que no se cumplía la condición de la ruta de tren establecida para su salida.
 
 ## Página 35
+
 
 ## 4.2
 ### Análisis
@@ -1204,8 +1174,8 @@ En el caso concreto, el tren Os 9104, de acuerdo con el procedimiento tecnológi
 El resultado de la investigación de la causa inmediata de la producción del SE en cuestión es unívoco. El transportista, en relación con las disposiciones de las normativas internas y jurídicas, no garantizó la explotación del tráfico ferroviario de acuerdo con las reglas de explotación del tráfico ferroviario y con el contrato celebrado con el gestor de la infraestructura para la explotación del tráfico ferroviario en la infraestructura, al no respetar el maquinista del tren Os 9104, en su salida de la est. Strančice, la señal «Alto» de la señal principal (de salida) L1. Como consecuencia de ello, desde el pk 157,924, desde donde era visible la señal «Alto» en la señal de salida L1, en lugar de adaptar la velocidad de circulación del tren para que se detuviera con seguridad antes del punto señalizado, la velocidad del tren Os 9104 siguió aumentando durante otros unos 392 m, hasta los 49 km·h-1 alrededor de la señal L1. Continuó aumentando la velocidad también después de la entrada no autorizada en la 1. TK, hasta alcanzar una velocidad de 77 km h-1 en el pk 159.367, desde donde, hasta el punto de la primera parada en el pk 159,996, se fue reduciendo progresivamente mediante frenado EDB. Según la declaración del maquinista, circuló lentamente por inercia hasta el primer señal de sección del autobloque en la 1. TK, que estaba apagado, y por eso se detuvo. Del registro del velocímetro se desprende que el tren, tras pasar el señal de sección apagado AB-1-1593 en el pk 159,379 a una velocidad de 77 km·h, comenzó a frenar con EDB y, hasta su detención a las 6:23:04, recorrió una distancia de 633 m.
 Al igual que en sucesos excepcionales anteriores similares, también en este caso se demostró que el SZZ, con su actuación, prohibió efectivamente la circulación del tren Os 9104 más allá de la señal de salida L1, pero no dispone de los medios técnicos de seguridad que impidieran la circulación no autorizada del tren Os 9104 más allá de la señal de salida L1.
 
-
 ## Página 36
+
 
 También se ha demostrado que el maquinista que conduce el vehículo ferroviario, durante la circulación tanto hacia la señal de salida L1 como más allá de esta señal, operaba regularmente la parte móvil del protector de tren HDV 452.012-8 con el botón de vigilancia. Es evidente que la parte móvil del protector de tren, de acuerdo con la normativa jurídica vigente y las condiciones operativas determinadas, sí reacciona ante una posible interrupción en la operación regular del botón de vigilancia por parte de la persona que conduce el vehículo ferroviario, pero, si dicha interrupción no se produce, no impide con ningún medio técnico la circulación no autorizada del tren más allá de la señal principal que prohíbe la circulación.
 Estos hechos demuestran que el sistema establecido de despacho de trenes mediante la colocación de la señal en la señal que permite la circulación, en el estado actual de seguridad de la infraestructura ferroviaria, depende en última instancia del factor humano, en el caso concreto, y en muchos otros, de la responsabilidad, la competencia y el estado psíquico y físico del maquinista en ese momento.
@@ -1222,8 +1192,8 @@ la no parada del tren Os 9104 antes de la señal «Alto» de la señal principal
 •
 en la est. Strančice;
 
-
 ## Página 37
+
 
 El factor contribuyente fue:
 la ausencia de medios técnicos de seguridad en la est. Strančice que, ante un
@@ -1252,6 +1222,7 @@ El tren retrasado R 630 circuló a continuación del tren Nex 41500 hasta la est
 
 ## Página 38
 
+
 ## 5 MEDIDAS ADOPTADAS
 ## 5.1
 ### Lista de medidas que ya se han tomado o adoptado como consecuencia del suceso ferroviario
@@ -1272,8 +1243,8 @@ Al gestor de la infraestructura de categoría nacional y regional, a la Administ
 Al transportista České dráhy, a. s.:
 • acelerar los trabajos de implantación y equipamiento de los vehículos ferroviarios con la parte móvil del sistema europeo de seguridad de trenes ETCS, de modo que, cuando el sistema se ponga en servicio en la línea correspondiente,
 
-
 ## Página 39
+
 
 los vehículos ferroviarios explotados puedan utilizar plenamente todas las funciones de dicho sistema de seguridad.
         Conforme a lo dispuesto en el apartado 5 del artículo 53b de la Ley núm. 266/194 Sb., de ferrocarriles, en su redacción vigente, o, en su caso, del anexo núm. 7 del decreto núm. 376/2006 Sb., sobre el sistema de seguridad de la explotación de la infraestructura ferroviaria y del transporte ferroviario y los procedimientos ante la producción de sucesos ferroviarios, en su redacción vigente, la Inspección Ferroviaria recomienda a la Autoridad Ferroviaria la adopción de una medida propia encaminada a garantizar la realización de las recomendaciones de seguridad anteriormente mencionadas por parte de los demás gestores de la infraestructura y transportistas en las líneas ferroviarias nacionales y regionales.
@@ -1286,8 +1257,8 @@ Inspector superior
 de la Inspección Territorial de Praga
 de la Inspección Territorial de Praga
 
-
 ## Página 40
+
 
 ## 7 ANEXOS
 Fig. núm. 1: A las 6:19:39 h se encendió la señal «Vía libre» en la señal de salida L2 para el paso del tren R 630 por la 2.ª vía
@@ -1295,24 +1266,24 @@ Fig. núm. 1: A las 6:19:39 h se encendió la señal «Vía libre» en la señal
 Fig. núm. 2: A las 6:20:45 h se produjo la ocupación del circuito de vía V 14 por la circulación del tren Os 9104 más allá de la señal de salida L1 con la señal que prohíbe la circulación
  Fuente: SŽDC
 
-
 ## Página 41
+
 
 Fig. núm. 3: A las 6:20:53 h, tras la liberación de la 1.ª vía por el tren Os 9104, el SZZ registró la pérdida de la maniobra de enlace en la 1.ª vía (salida sin cierre y con señal autorizante)
 Fuente: SŽDC
 Fig. núm. 4: A las 6:21:15 h el tren Os 2509 dejó el tramo 1T6 y permaneció en el tramo 1T5 hasta la autorización para la liberación de la vía
 Fuente: SŽDC
 
-
 ## Página 42
+
 
 Fig. núm. 5: A las 6:21:17 h el tren R 630 pasó la señal de salida L2, cuya señal cambió a «Alto» por la ocupación del circuito de vía V 12
             Fuente: SŽDC
 Fig. núm. 6: A las 6:21:51 h el tren Os 9104 pasó la señal de sección AB-1-1593 apagada en la 1.ª vía en el km 159,397
                           Fuente: SŽDC
 
-
 ## Página 43
+
 
 Fig. núm. 7: A las 6:22:51 h el tren Os 9104 ocupó el tramo 1T3. Hasta la autorización para la liberación de la vía, el tren Os 9104 permaneció detenido en los tramos 1T2 y 1T3
     Fuente: SŽDC

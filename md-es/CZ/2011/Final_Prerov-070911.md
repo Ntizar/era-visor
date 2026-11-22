@@ -10,13 +10,14 @@ chars: 153927
 ratio_longitud: 1.24
 tokens_in: 87689
 tokens_out: 59694
-verificacion: revisar
-notas_cifras: ["bloque 2: original bilingüe: se compara contra el idioma principal (CS)", "bloque 4: original bilingüe: se compara contra el idioma principal (CS); cifras cortas: 1/30", "bloque 5: cifras cortas: 1/66", "bloque 9: original bilingüe: se compara contra el idioma principal (CS)", "bloque 16: original bilingüe: se compara contra el idioma principal (CS)", "bloque 19: original bilingüe: se compara contra el idioma principal (CS)"]
-avisos: ["bloque 4: ratio 1.74", "bloque 9: ratio 1.84", "bloque 19: ratio 1.67", "bloque 20: ratio 2.05"]
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 5: original bilingüe: se compara contra el idioma principal (EN)", "página 6: original bilingüe: se compara contra el idioma principal (CS)", "página 7: original bilingüe: se compara contra el idioma principal (CS)", "página 13: original bilingüe: se compara contra el idioma principal (CS); cifras largas: 1/37; cifras cortas: 1/29", "página 14: cifras cortas: 1/41"]
 ---
+
 ## Página 1
+
 
 Inspección Ferroviaria
 República Checa
@@ -41,8 +42,8 @@ IČ:   75009561
 http://www.dicr.cz
 tel.: (+420) 224 805 444
 
-
 ## Página 2
+
 
 ## SUMMARY
 Grado:
@@ -66,8 +67,8 @@ Consecuencias:
 0 heridos
 coste total 676 329 CZK,-
 
-
 ## Página 3
+
 
 Causa directa:
 pérdida de la fuerza vertical de la rueda derecha del primer eje del
@@ -101,14 +102,14 @@ sistema común de identificación de la pieza desmontable de la suspensión de l
 de mercancías, que permita a los investigadores reconocer la posición original de cada una
 de las piezas dispersadas tras un accidente.
 
-
 ## Página 4
+
 
 Este informe final es público y todos los documentos y hechos están respaldados por el
 expediente de investigación.
 
-
 ## Página 5
+
 
 ## Índice
  Summary .............................................................................................................................2
@@ -152,6 +153,7 @@ contractual ....................................................................
 
 ## Página 6
 
+
 3.1.2 Otras personas .........................................................................................................24
 3.2 Sistema de garantía de la seguridad ...............................................................................24
 3.2.1 Organización marco y forma en que se emiten y aplican las instrucciones .......24
@@ -182,8 +184,8 @@ aplicación ....................................................................
 ............................................................................................................................40
 4.2 Examen ......................................................................................................................42
 
-
 ## Página 7
+
 
 4.2.1 Evaluación de los hechos establecidos según el punto 3 y formulación de conclusiones sobre la causa del suceso excepcional y la actuación de los servicios de emergencia ..........................................42
 4.3 Conclusiones .......................................................................................................................44
@@ -204,6 +206,7 @@ aplicación ....................................................................
  Foto 5: Imagen que documenta el punto «0» y los lugares de medición de los perfiles transversales de la cabeza del riel de contrarriel y del corazón de la aguja de la aguja de desvío n.º 208ab, parte «a», con el fin de determinar la geometría de contacto eje-carril .............................................................................................................51
 
 ## Página 8
+
 
 ### Lista de abreviaturas y símbolos utilizados
 BK
@@ -301,14 +304,14 @@ Universidad de Pardubice
 ÚI
 Inspectorado Territorial
 
-
 ## Página 9
+
 
 |  | Informe sobre los resultados de la investigación de las causas y circunstancias de la ocurrencia de una ocurrencia extraordinaria |
 | VI Vn VSP ZO ZV ŽDP ŽS žst . | inspector superior tren de mercancías de compensación Contrato general para el uso de vagones de mercancías inicio de curva inicio de aguja Empresa de Transporte Ferroviario superestructura ferroviaria estación de ferrocarril |
 
-
 ## Página 10
+
 
 ### 1 RESUMEN
 Grupo de la ocurrencia:
@@ -352,8 +355,8 @@ decidan sobre la realización de una revisión de no consecución o no superaci�
 desgaste (desgaste) mediante medición con instrumentos de medida o con la plantilla PŠR-3, respectivamente,
 decidan sobre la adopción de las medidas correspondientes para garantizar la seguridad del transporte ferroviario.
 
-
 ## Página 11
+
 
 A la red de organismos nacionales de seguridad de la Agencia Ferroviaria Europea:
 implementar en su totalidad las recomendaciones de seguridad de la Inspección Ferroviaria emitidas sobre la
@@ -369,8 +372,8 @@ Se recomienda a la Oficina Ferroviaria la adopción de una medida propia, encami
 realización de la recomendación de seguridad anteriormente mencionada también en los demás explotadores
 de vías en la República Checa.
 
-
 ## Página 12
+
 
 ### 2 DATOS RELATIVOS A LA OCURRENCIA EXTRAORDINARIA
 ## 2.1
@@ -398,21 +401,57 @@ SŽDC, s. o., Přerov y Olomouc y PČR Sección de Distrito de Přerov.
 
 ## Página 13
 
-La inspección de la infraestructura ferroviaria en el lugar donde se produjo el MU arrojó los siguientes resultados:
-el itinerario de tren para el tren Vn 48221 se había establecido desde la vía de estación n.º 46 de la est. Přerov
-•
-desde la señal principal (de itinerario) Lc46, situada en el pk 182,831 a la derecha de la vía de estación n.º 46, a través de la aguja n.º 208ab en sentido secundario a la izquierda, a través del doble enlace de vía entre las agujas n.º 208ab y n.º 212, a través de la aguja n.º 212 por la punta en sentido secundario desde la derecha, a través de la aguja n.º 213 en sentido directo contra la punta, a través de la aguja n.º 213 en sentido directo contra la punta, a través de la aguja n.º 217 en sentido directo contra la punta, a través de la aguja n.º 221 en sentido directo contra la punta, a través de la aguja n.º 224 en sentido directo contra la punta y a través de la aguja n.º 227 contra la punta en sentido secundario a la derecha, hasta la vía de estación n.º 210. La entrada del tren en el ámbito de la parte delantera de la estación fue autorizada por el funcionamiento normal del dispositivo de enclavamiento de estación St. 4 de la est. Přerov con la indicación «Velocidad 40 km·h-1 y aviso» indicada por la señal principal (de itinerario) Lc46. Las indicaciones de la señal principal (de itinerario) eran visibles de conformidad con lo dispuesto en el § 7 apartado 1 del decreto n.º 173/1995 Sb., por el que se dicta el reglamento de circulación ferroviaria, en su versión vigente (en adelante, decreto n.º 173/1995 Sb.);
+Al examinar la infraestructura de la vía en el lugar donde se produjo el MU, se constató:
+• la ruta de tren para el tren Vn 48221 se había establecido desde la vía de estación n.º 46 de la est. Přerov
+desde la señal principal (de ruta) Lc46, situada en el km 182,831 a la derecha de la vía de
+estación n.º 46, a través de la aguja n.º 208ab en dirección secundaria a la izquierda, a través del doble
+enlace de vía entre las agujas n.º 208ab y n.º 212, a través de la aguja n.º 212 por la punta
+en dirección secundaria a la derecha, a través de la aguja n.º 213 en dirección directa contra la punta, a través
+de la aguja n.º 217 en dirección directa contra la punta, a través de la aguja n.º 211 en dirección directa
+contra la punta, a través de la aguja n.º 224 en dirección directa contra la punta y a través de la aguja n.º 227
+contra la punta en dirección secundaria a la derecha, hasta la vía de estación n.º 210. La entrada del tren en
+el ámbito de la zona delantera de la estación fue autorizada por el funcionamiento normal del dispositivo
+de enclavamiento de estación St. 4 de la est. Přerov con la señal «Velocidad 40 km·h-1 y aviso» emitida
+por la señal principal (de ruta) Lc46. Las señales de la señal principal (de ruta) eran
+visibles en cumplimiento de lo dispuesto en el § 7 apartado 1 del decreto n.º 173/1995 Sb., por el que se
+aprueba el reglamento de circulación ferroviaria, en su versión vigente (en adelante, decreto n.º 173/1995 Sb.);
 el dispositivo de enclavamiento de estación St. 4 de la est. Přerov presentaba un funcionamiento correcto;
-•
-a la derecha de la vía de estación n.º 46, en el pk 183,070, se encontraba ubicada una señal portátil para tracción eléctrica «Prepárese para bajar el pantógrafo». La señal tenía un borde resaltado en color naranja. La señal era visible de conformidad con lo dispuesto en el § 7 apartado 4 del decreto n.º 173/1995 Sb.;
-•
-a la derecha de la aguja n.º 208ab, en el pk 182,658, se encontraba ubicada una señal portátil para tracción eléctrica con la indicación «Vía en sentido a la izquierda sin línea de contacto». La señal tenía un borde resaltado en color naranja. La señal era visible de conformidad con lo dispuesto en el § 7 apartado 4 del decreto n.º 173/1995 Sb.;
-•
-a la derecha, entre las agujas n.º 212 y n.º 213, en el pk 182,606, se encontraba una señal portátil para tracción eléctrica con la indicación «Suba el pantógrafo» con un borde resaltado en color naranja. La señal fue volcada y girada 90° como consecuencia del accidente por el 11. TDV Zas 37 80 7850 148-3 descarrilado;
-•
-el punto «0», es decir, la primera huella tras el descarrilamiento, donde el borde de la rueda derecha del primer bogie del 11. TDV Zas 37 80 7850 148-3 dejó la huella del inicio de la trepada sobre la cresta de la lengüeta derecha curvada (interna) de la aguja n.º 208ab, parte «a», se encontraba en la aguja n.º 208ab, en el pk 182,666. El inicio de la trepada se encontraba a 70 cm de la punta de la lengüeta derecha adyacente curvada hacia el soporte. La huella de la trepada del borde sobre la cresta de la lengüeta derecha tenía una longitud de 40 cm, es decir, terminaba a una distancia de 1,10 m de la punta de la lengüeta derecha. A continuación, la huella del descarrilamiento continuó con la impresión del borde sobre la cresta de la lengüeta derecha curvada a lo largo de 7,50 m hasta el nivel del riel de sujeción derecho de la aguja 208ab, parte «a», hasta el lugar de los dobles corazones. A continuación siguió la huella de la salida del borde de la rueda derecha de la cresta del riel de sujeción derecho. La huella siguiente continuó en el lado exterior de la cabeza de la lengüeta derecha curvada de la aguja n.º 208ab, parte «b». A una distancia de 6,75 m del frente del riel de sujeción derecho de los dobles corazones se encontraba la huella del salto de la rueda derecha por encima de la lengüeta derecha curvada hasta el soporte directo derecho de la aguja n.º 208ab, parte «b». A continuación siguieron las impresiones de los bordes derechos del 1.º y 2.º bogie del TDV Zas 37 80 7850 148-3 sobre la cresta de la cabeza del soporte derecho. A una distancia de 8,34 m del frente del riel de sujeción derecho se encontraba la huella de la salida de la rueda derecha hacia la derecha en el lado exterior del soporte derecho. A continuación siguieron las impresiones en los apoyos de los soportes, en los elementos de fijación, en las traviesas de madera y en el lecho de balasto hasta el lugar de detención del TDV. Las ruedas izquierdas del bogie delantero del 11. TDV dejaron desde el punto «0» una huella discontinua de desgaste de las ruedas en el lado exterior de la lengüeta izquierda directa de la aguja n.º 208ab, parte «a», hasta el nivel del muelle de la lengüeta. Las huellas de desgaste de las ruedas izquierdas continuaron a través del enlace conductor del contacto de riel en la raíz
+• a la derecha de la vía de estación n.º 46, en el km 183,070, se encontraba ubicada una señal portátil para
+• tracción eléctrica «Prepárese para bajar el pantógrafo». La señal tenía un borde resaltado en
+naranja. La señal era visible en cumplimiento de lo dispuesto en el § 7 apartado 4
+del decreto n.º 173/1995 Sb.;
+• a la derecha de la aguja n.º 208ab, en el km 182,658, se encontraba ubicada una señal portátil para
+tracción eléctrica con la señal «Vía en dirección a la izquierda sin línea de contacto». La
+señal tenía un borde resaltado en naranja. La señal era visible en cumplimiento
+de lo dispuesto en el § 7 apartado 4 del decreto n.º 173/1995 Sb.;
+• a la derecha, entre las agujas n.º 212 y n.º 213, en el km 182,606, se encontraba una señal portátil
+para tracción eléctrica con la señal «Suba el pantógrafo» con un borde resaltado en
+naranja. La señal fue, como consecuencia del accidente, volcada y girada 90° por el
+11. TDV Zas 37 80 7850 148-3;
+• el punto «0», es decir, la primera huella tras el descarrilamiento, donde el borde de la rueda derecha del primer bogie del TDV Zas
+37 80 7850 148-3 dejó una huella al comenzar a trepar sobre la cresta de la lengüeta derecha
+curva (interna) de la aguja n.º 208ab, parte «a», se encontraba en la aguja n.º 208ab, en el km
+182,666. El inicio de la trepada se encontraba a 70 cm de la punta de la lengüeta derecha adyacente
+curva hacia el soporte. La huella de la trepada del borde sobre la cresta de la lengüeta derecha
+tenía una longitud de 40 cm, es decir, terminaba a una distancia de 1,10 m de la punta de la lengüeta derecha. A continuación,
+la huella del descarrilamiento continuó con la marca del borde sobre la cresta de la lengüeta derecha
+curva con una longitud de 7,50 m hasta el nivel del riel de retención derecho de la aguja 208ab,
+parte «a», hasta el lugar de los dobles corazónes. Seguía una huella de la salida del borde de la rueda derecha de la cresta
+del riel de retención derecho. La huella siguiente continuaba en el lado exterior de la cabeza de la lengüeta derecha
+curva de la aguja n.º 208ab, parte «b». A una distancia de 6,75 m del frente del riel de retención
+derecho de los dobles corazónes se encontraba la huella del salto de la rueda derecha por encima de la lengüeta derecha
+curva hasta el soporte directo derecho de la aguja n.º 208ab, parte «b». Seguían
+las marcas de los bordes derechos del 1.º y 2.º bogie del TDV Zas 37 80 7850 148-3 sobre la cresta de la cabeza
+del soporte derecho. A una distancia de 8,34 m del frente del riel de retención derecho se encontraba la huella
+de la salida de la rueda derecha hacia la derecha en el lado exterior del soporte derecho. A continuación
+seguían marcas en los apoyos de soporte, en los elementos de fijación, en las traviesas de madera
+y en el lecho de balasto hasta el lugar de parada del TDV. Las ruedas izquierdas del bogie delantero del 11.
+TDV dejaron desde el punto «0» una huella discontinua de desgaste de ruedas en el lado exterior de la lengüeta izquierda
+directa de la aguja n.º 208ab, parte «a», hasta el nivel del muelle de la lengüeta. Las huellas de desgaste de
+las ruedas izquierdas continuaron a través del enlace conductor del contacto de riel en la raíz de
 
 ## Página 14
+
 
 del lenguaje izquierdo directo de la aguja n.º 208ab, parte "a". En la parte "b" de la aguja n.º 208ab seguían las huellas de arrancamiento del enlace conductor en la unión del carril en la raíz del lenguaje izquierdo directo. A continuación, continuaban las huellas de descarrilamiento de las ruedas izquierdas en el exterior de la cabeza del lenguaje izquierdo directo de la aguja n.º 208ab, parte "b", las marcas en los soportes de apoyo, en los elementos de fijación, en las traviesas de madera y en el lecho de balasto hasta el lugar de detención;
 • en cuanto al estado de los elementos de fijación y de las traviesas en la vía de estación n.º 46 y en la aguja n.º 208ab, parte "a", no se detectaron deficiencias, salvo en el lugar de la punta del lenguaje derecho curvado, donde en la 1.ª y 2.ª placa base con sillas deslizantes, entre los puntos de medición "+1" y "0", faltaba 1 pieza de tornillo en cada placa base. Las placas base estaban embutidas en los soportes de carril. No se detectó movimiento transversal de las placas base;
@@ -427,8 +466,8 @@ Mediante la inspección del DV del tren Vn 48221 se constató que:
 • la cabeza de la HDV 363.034-0 se detuvo en la vía de estación n.º 210 en el pk 182,368. El extremo de la parte delantera del tren se encontraba en la posición final tras el MU a la altura del paso de servicio St. 4 de la est. Přerov, en la parte de corazón de la aguja n.º 213, en el pk 182,535. Como consecuencia de la rotura violenta de la composición del tren, se dañó el enganche de tracción del último TDV de la parte delantera del tren. El tirante corto discontinuo se encontraba caído en la parte de cambio de la aguja n.º 213;
 • la cabeza del 11.º TDV Zas 37 80 7850 148-3, que se descarriló como el primero, se encontraba en la posición final tras el MU en el pk 182,599, a la altura de la punta derecha del lenguaje de la aguja n.º 214. El TDV se descarriló a la derecha en el sentido de la marcha del tren con todos los ejes. El TDV quedó girado con un ángulo de aproximadamente 45° respecto a la dirección original de marcha. Con las ruedas izquierdas del bogie delantero se encontraba en la parte de lenguaje de la aguja n.º 214, y con las ruedas derechas del bogie delantero en la unión de carril entre las agujas n.º 210b y n.º 219. Ambos bogies del TDV quedaron dañados como consecuencia del MU. Se desprendieron los muelles exteriores e interiores
 
-
 ## Página 15
+
 
 de suspensión de ambos bogies del TDV, de la siguiente manera:
 ◦ en el eje 1 se desprendieron los muelles delanteros derechos, es decir, los muelles delanteros de la rueda 2;
@@ -448,6 +487,7 @@ Figura n.º 2: Localización del lugar de aparición del MU en un recorte del ma
 El tráfico ferroviario en la est. Přerov quedó restringido como consecuencia del MU. Desde la aparición del MU hasta las 00:50 h del día siguiente se impidió la circulación de DV desde la vía de estación n.º 46 a las vías de estación n.º 208 a n.º 230 de la est. Přerov, del ámbito de la estación.
 
 ## Página 16
+
 
 2.1.3 Decisión de iniciar la investigación de las causas y circunstancias del suceso, composición del equipo de personas cualificadas y método de dirección de la investigación de las causas y circunstancias del suceso
 El suceso (MU) fue notificado al DI en el COP, en representación del gestor de la infraestructura y del transportista, el día 07. 09. 2011 a las 15:07 h, es decir, 46 min después de la ocurrencia del MU, por la persona autorizada de SŽDC, s. o., OMU Ostrava. El empleado del COP, sobre la base de los hechos notificados, decidió desplazarse e iniciar la investigación de las causas y circunstancias del MU en el lugar de su ocurrencia. El motivo de esta decisión fue el hecho de que el MU en cuestión se incluye en la serie de MU significativos para todo el sistema de gestión de la infraestructura y del transporte ferroviario. El DI realizó la actividad en el lugar del MU con la composición de 2 VI ÚI Ostrava.
@@ -482,8 +522,8 @@ PO Přerov;
 jefe de PS TO Přerov – sur, empleado de SŽDC, s. o., SDC Olomouc.
 ◦
 
-
 ## Página 17
+
 
 2.2.2 Trenes y su composición, incluidos los números de registro de los distintos vehículos ferroviarios
 La estación de origen del tren Vn 48221 fue la est. Petrovice u Karviné, la estación de destino fue la est. Bratislava ÚNS (República Eslovaca). El punto de salida del territorio de la República Checa fue la est. Lanžhot. La composición del tren estaba formada por 23 vagones cisterna TDV, destinados al transporte de mercancías peligrosas, en régimen RID. El tren circulaba bajo licencia del transportista ČDC, a. s.
@@ -496,6 +536,7 @@ El titular del TDV Zas 37 87 7851 270-1, compuesto como el 12.º TDV tras el HDV
 
 ## Página 18
 
+
 La distancia entre los ejes de giro es de 10,57 m. El TDV está destinado al transporte de mercancías peligrosas (productos petrolíferos).
 El tren Vn 48221 tenía 96 ejes, una longitud de 368 m, un peso de 578 t, un peso de frenado de 611 t, estaba frenado por el método de frenado I, en el modo de frenado P, el porcentaje de frenado requerido era del 63 %, el porcentaje de frenado real era del 105 %. Todo el material rodante (DV) participante en el accidente ferroviario (MU) disponía, en el momento de producirse el accidente, de una revisión técnica (TK) válida.
 ### 2.2.3 Descripción de los componentes de la vía de circulación de la línea, del sistema de señalización (es decir, en particular del estado de los raíles, las agujas, los aparatos de maniobra, los señales y del dispositivo de seguridad del tren)
@@ -505,6 +546,7 @@ La vía de estación n.º 46 y el extremo norte del sector de la antena de la es
 El lecho de la vía de estación n.º 46 en la estación de Přerov estaba, en la dirección de circulación del tren Vn 48221, hasta el pk 187,650, formado por raíles de perfil R65 sobre traviesas transversales de hormigón de perfil SB 8. Los raíles estaban unidos a las traviesas de hormigón mediante placas base nervadas planas R4pl, abrazaderas de perfil ŶS4 y tornillos R1. La vía de estación n.º 46 se conecta a la aguja n.º 208ab mediante un tramo de transición compuesto por raíles de transición de perfil R65/S49 sobre traviesas de madera. Para los raíles de perfil R65 con placas base nervadas R4 y para los raíles de perfil S49 con placas base nervadas S4, abrazaderas de perfil ŶS4 y tornillos R1. La aguja n.º 208ab es de perfil C S49 1:9-190 ld y se insertó en la vía en combinación en una doble unión de vía en el extremo norte del sector de la antena de la estación de Přerov. La aguja está situada en el pk 182,658. Para la evaluación de la calidad geométrica de la aguja a efectos de la norma técnica checa ČSN 73 6360-2 «Diseño constructivo y geométrico de la vía de las líneas ferroviarias y su posición espacial - Parte 2: Construcción y recepción, explotación y mantenimiento», vigente desde octubre de 2009 (en adelante, ČSN 73 6360-2), la aguja n.º 208ab se clasifica en
 
 ## Página 19
+
 
 0. de banda de velocidad, es decir, a la banda de velocidad con velocidad de vía proyectada
 v ≤ 60 km·h-1 (en adelante RP0).
@@ -556,8 +598,8 @@ de Transporte n.º 15/2008 de 16. 07. 2008 y en el Boletín de Transporte y Tari
 norma SŽDC (ČD) D2] y en el § 5 apart. 7 del decreto n.º 173/1995 Sb. El maquinista del tren
 Vn 48221 fue informado de esta marcha lenta y del hecho de que la marcha lenta no está señalizada por señales para
 
-
 ## Página 20
+
 
 la limitación transitoria de la velocidad de vía, de conformidad con lo dispuesto en el § 68 apart. 3
 del decreto n.º 173/1995 Sb., de forma comprobable, mediante la orden escrita
@@ -602,22 +644,23 @@ del director del departamento de investigación de sucesos ferroviarios para los
 
 ## Página 21
 
-La aparición de la MU la comunicó, tras su producción, el jefe de maniobras de la Est. 4 de la est. de Přerov al Puesto de Comunicación de la Supervisión de Explotación – jefe de turno de la PO Přerov, el cual cumplió las demás obligaciones en la comunicación de la aparición de la MU de conformidad con el Cuadro de Comunicaciones del gestor de la infraestructura.
-En virtud del contrato «Contrato de colaboración en la investigación de sucesos extraordinarios en el transporte ferroviario y de accidentes de trabajo mortales y graves», celebrado el 31. 08. 2011 entre SŽDC, s. o. y České dráhy, a. s., con efectos desde el 01. 09. 2011, la aparición de la MU en el COP DI fue notificada conjuntamente en nombre del gestor de la infraestructura y del transportista por un empleado de SŽDC, s. o., OMU ÚP Ostrava, persona autorizada en el sentido del § 9 apartado 1 del decreto nº 376/2006 Sb. para determinar las causas y circunstancias de la aparición de la MU.
-El jefe de maniobras de la Est. 4 de la est. de Přerov, tras la aparición de la MU, excedió sus atribuciones, ya que, a pesar de no ser, en el sentido del § 9 apartado 1 del decreto nº 376/2006 Sb., la persona autorizada por el gestor de la infraestructura para asegurar el lugar de la MU, para la elaboración de la documentación del procedimiento de aseguramiento y servicio de la vía y de la organización del transporte ferroviario, del estado de la construcción de la vía, de la obra en la vía y del vehículo ferroviario en relación con la aparición de la MU, requirió, incluso antes de la llegada de las personas autorizadas al lugar de la MU, al maquinista del tren Vn 48221 que retirara y entregara el registro del dispositivo de registro del HDV.
-La presente constatación se relaciona con la disposición del artículo 58 de la norma SŽDC Dp17 - 1,
-### incumplimiento de la disposición del § 22 apartado 2 letra d) de la ley nº 266/1994 Sb.
-El maquinista del tren Vn 48221 se negó en un primer momento a acatar la requerimiento del jefe de maniobras de la Est. 4 de la est. de Přerov de retirar y entregar el registro del dispositivo de registro del HDV. A instancias del jefe de maniobras de la Est. 4, a continuación, sin la presencia de la persona autorizada, retiró la cinta registradora de velocidad del dispositivo de registro del HDV y la entregó al jefe de maniobras en forma de rollo.
-### La presente constatación se relaciona con la disposición del artículo 58 de la norma ČD 1D 17)
-«Medidas de aplicación a la norma sobre la comunicación e investigación de sucesos extraordinarios», aprobada el 08. 11. 2006, con el nº de expediente 70800/2006, en su versión vigente, asumida por el transportista ČDC, a. s. mediante la Circular del Consejo de Administración de ČDC, a. s. 10/2007-KGŘ, para la determinación de la lista de normas internas de ČDC, a. s., aprobada por la resolución nº 16/2007, de fecha 29. 11. 2007 (en adelante
-### norma interna ČD 1/D 17), incumplimiento de la disposición del § 35 apartado 2 letra f) de la ley
-nº 266/1994 Sb. El rollo de la cinta registradora de velocidad retirado fue entregado por el jefe de maniobras de la Est. 4 de la est. de Přerov, tras la llegada de la persona autorizada al lugar de la MU, en estado intacto.
-Al lugar de la MU acudieron asimismo las personas competentes del gestor de la infraestructura y del transportista, y el VI DI. En el lugar de la MU estaban también presentes los jefes de los distintos órganos organizativos del gestor de la infraestructura y del transportista. Con la participación del VI DI se realizó la inspección conjunta del lugar de la MU, incluida la elaboración del acta.
-### 2.2.7 Activación del plan del sistema integrado de emergencias, la policía y el servicio de emergencias médicas y secuencia de los sucesos
-El SIE fue activado por la supervisión de la est. de Přerov a las 14:50 h con la comunicación de la aparición de la MU al centro de operaciones HZS SŽDC, s. o., JPO Přerov. A las 14:59 h, el centro de operaciones HZS SŽDC, s. o., JPO Přerov solicitó al centro de operaciones HZS SŽDC, s. o., JPO Olomouc la intervención de la unidad de realineamiento. Los demás componentes del SIE, dadas las consecuencias de la MU, en la que no se produjo derrame de productos petrolíferos ni lesiones de personas, no intervinieron en el lugar de la MU.
-
+La creación de la MU fue comunicada tras su producción por el jefe de maniobras de la Est. 4 de la est. de Přerov al Puesto de Comunicación del supervisor de explotación – jefe de turno PO Přerov, el cual cumplió las demás obligaciones relativas a la comunicación de la creación de la MU de conformidad con el Cuadro de Comunicaciones del gestor de la vía.
+En virtud del contrato «Contrato de colaboración en la investigación de sucesos extraordinarios en el transporte ferroviario y de accidentes de trabajo mortales y graves», celebrado el 31. 08. 2011 entre SŽDC, s. o., y České dráhy, a. s., con efectos desde el 01. 09. 2011, la creación de la MU fue notificada en el COP DI conjuntamente por el gestor de la vía y el transportista, por un empleado de SŽDC, s. o., OMU ÚP Ostrava, persona autorizada en el sentido del § 9 apart. 1 del decreto núm. 376/2006 Sb. para determinar las causas y circunstancias de la creación de la MU.
+El jefe de maniobras de la Est. 4 de la est. de Přerov excedió su competencia tras la creación de la MU, ya que, a pesar de no ser, en el sentido del § 9 apart. 1 del decreto núm. 376/2006 Sb., la persona autorizada por el gestor de la vía para asegurar el lugar de la MU, para la obtención de documentación del procedimiento de aseguramiento y servicio de la vía y de la organización del transporte ferroviario, del estado de la obra de la vía, de la obra en la vía y del vehículo ferroviario en relación con la creación de la MU, requirió al maquinista del tren Vn 48221, aún antes de la llegada de las personas autorizadas al lugar de la MU, la extracción y entrega del registro del dispositivo de registro HDV.
+La presente constatación se relaciona con la disposición del art. 58 de la norma SŽDC Dp17 - 1,
+### incumplimiento de la disposición del § 22 apart. 2 letra d) de la ley núm. 266/1994 Sb.
+El maquinista del tren Vn 48221 se negó en un primer lugar a acatar la requerimiento del jefe de maniobras de la Est. 4 de la est. de Přerov de extraer y entregar el registro del dispositivo de registro HDV. A instancias del jefe de maniobras de la Est. 4, extrajo a continuación, sin la presencia de la persona autorizada, la cinta registradora de velocidad del dispositivo de registro HDV y la entregó al jefe de maniobras en forma de rollo.
+### La presente constatación se relaciona con la disposición del art. 58 de la norma ČD 1D 17)
+«Medidas de aplicación a la norma sobre la comunicación e investigación de sucesos extraordinarios»,
+aprobada el 08. 11. 2006, bajo el n.º de expediente 70800/2006, en su versión vigente, por el transportista ČDC, a. s., asumida mediante la Circular del Consejo de Administración de ČDC, a. s., 10/2007-KGŘ, para la determinación del listado de normas internas de ČDC, a. s., aprobada por la resolución núm. 16/2007, de fecha 29. 11. 2007 (en adelante
+### norma interna ČD 1/D 17), incumplimiento de la disposición del § 35 apart. 2 letra f) de la ley
+núm. 266/1994 Sb. El rollo de la cinta registradora de velocidad extraído fue entregado por el jefe de maniobras de la Est. 4 de la est. de Přerov, tras la llegada de la persona autorizada al lugar de la MU, en estado intacto.
+Al lugar de la MU acudieron asimismo las personas técnicamente competentes del gestor de la vía y del transportista y la VI DI. En el lugar de la MU estaban también presentes los jefes de empleados de las distintas ramas organizativas del gestor de la vía y del transportista. Con la participación de la VI DI se realizó la inspección comisionada del lugar de la MU, incluida la elaboración del acta.
+### 2.2.7 Activación del plan del sistema integrado de emergencias, de la policía y del servicio de emergencias médicas y secuencia de los sucesos
+El SSE fue activado por el supervisor de explotación de la est. de Přerov a las 14:50 h con la comunicación de la creación de la MU al centro de operaciones HZS SŽDC, s. o., JPO Přerov. A las 14:59 h el centro de operaciones HZS SŽDC, s. o., JPO Přerov solicitó al centro de operaciones HZS SŽDC, s. o., JPO Olomouc la intervención de la unidad de enganche. Los demás componentes del SSE, en vista de las consecuencias de la MU, al no haberse producido derrames de productos petrolíferos ni lesiones de personas, no intervinieron en el lugar de la MU.
 
 ## Página 22
+
 
 ## 2.3
 ### Fallecidos, heridos y daños materiales
@@ -665,6 +708,7 @@ estableciera comunicación radio con el jefe de maniobras del puesto de enclavam
 
 ## Página 23
 
+
 circulando por la vía de estación n.º 46, fue informado por el vigilante de desvíos St. 4 de la estación de Přerov de la constitución de la vía de tren hacia la vía de estación n.º 210 a través del tramo de marcha ordenada con pantógrafos recogidos;
 ◦
 fue informado de manera comprobable de la limitación temporal de la velocidad de vía en la vía de estación n.º 46, en el pk 182.760 – 182,730, al valor de 20 km·h-1 y de su falta de señalización;
@@ -693,8 +737,8 @@ Vigilante de desvíos St. 4 de la estación de Přerov
 •
 la vía de tren para el tren Vn 48221 desde la vía de estación n.º 46 hasta la vía de estación n.º 210 fue constituida mediante la operación normal del dispositivo de enclavamiento de estación del aparato de mando St. 4 de la estación de Přerov, de acuerdo con los procedimientos tecnológicos del gestor de la infraestructura.
 
-
 ## Página 24
+
 
 Operador de desvíos
   St. 4 de la estación de Přerov
@@ -721,6 +765,7 @@ El gestor de la infraestructura, para garantizar la operatividad de la infraestr
 
 ## Página 25
 
+
 a regionálních v obvodu SDC Olomouc", n.º 563/08-OP, de 29. 05. 2008, en su versión vigente (en adelante, Directiva Organizativa n.º 300/52).
 De los documentos siguientes del gestor de la vía sobre las inspecciones y mediciones realizadas de la infraestructura de la vía y de la documentación operativa de la infraestructura de la vía en el lugar donde se produjo el MU, antes de la producción del MU, custodiados en el SDC STM con sede en Olomouc, en la Administración de Líneas Olomouc y en la PS TO Přerov jih, se desprende:
 "LIBRO DE CONTROLES Y ACTIVIDADES DEL RESPONSABLE DE TO PŘEROV JIH", con fecha de inicio •
@@ -734,8 +779,8 @@ De los documentos siguientes del gestor de la vía sobre las inspecciones y medi
 ▪ por el gestor de la vía se detectaron magnitudes que superan las desviaciones operativas y operativas límite del ancho de la vía, además no se alcanzó el rango de la magnitud "L" (distancia del borde guía del carril de contacto al borde de rodadura de la cuña de la aguja). El gestor de la vía, en el marco de los procedimientos para garantizar la conformidad del estado técnico del desvío mediante medición, determinó el estado real, que comparó con las magnitudes de referencia establecidas en el anexo B (normativo) de la ČSN 73 6360-2 y en el anexo n.º 6 del decreto n.º 177/1995 Sb., y lo documentó en la Ficha de Desvío. Con la información de seguridad –la superación de las desviaciones operativas y operativas límite del ancho de la vía y el no alcance del rango de la magnitud "L"– continuó trabajando. Los hallazgos los indicó en la Ficha de Desvío, en la sección "Hallazgos complementarios". En el sentido del art. 7. 2 de la "Directiva SŽDC n.º 51 para la realización de inspecciones y mediciones de desvíos", aprobada el 26. 09. 2008, bajo el n.º 31124/08-OTH (en adelante, ### Directiva SŽDC n.º 51), sin embargo, el gestor de la vía no adoptó ni fijó ninguna medida para garantizar la conformidad del estado del desvío n.º 208ab con los requisitos para garantizar un transporte ferroviario fluido y seguro, y operó el desvío conscientemente con defectos que fueron progresando.
 ### El hallazgo es, en relación con lo dispuesto en el art. 15 letra c) del Reglamento SŽDC
 
-
 ## Página 26
+
 
 (ČD) S 2/3 "Organización y realización de inspecciones de líneas de los Ferrocarriles Checos", ### aprobado el 09. 12. 2002, bajo el n.º 57775/2002-O13, que fue
 asumido por el gestor de la vía SŽDC, s. o., en virtud de la Instrucción del director general de SŽDC n.º 8/2008 y fue publicado en el Boletín de Transporte n.º 13/2008 de 18. 06. 2008 y en el Boletín de Transporte y Tarifas 25-26/2008 y en su modificación n.º 1, publicada en el Boletín de Transporte n.º 15/2008 de 16. 07. 2008 y en el Boletín de ### Transporte y Tarifas 29-30 [en adelante, reglamento SŽDC (ČD) S 2/3], art. 7.2 Directiva ### SŽDC n.º 51, Anexo B (normativo) ČSN 73 6360-2, anexo n.º 6 parte B del decreto n.º 177/1995 Sb. y § 2 apartado 3 del decreto n.º 173/1995 Sb., por el incumplimiento de lo dispuesto en el § 22 apartado 1 letra a) y § 22 apartado 2 letra d) ### de la ley n.º 266/1994 Sb.
@@ -751,6 +796,7 @@ Dadas las causas y circunstancias de la producción del MU, el hallazgo indicado
 ◦ la última inspección no destructiva periódica de los rieles de la vía de estación n.º 46, incluida
 
 ## Página 27
+
 
 de los raíles de la aguja n.º 208ab, se realizó antes de la aparición del MU el 10. 07. 2009.
 No se detectaron defectos por parte del gestor de la infraestructura;
@@ -804,6 +850,7 @@ en vías de estación distintas de las de línea y de las principales (en adelan
 
 ## Página 28
 
+
 por el explotador de la vía, de conformidad con los artículos 15, 88 a 89 de la norma SŽDC (ČD) S 2/3 y el artículo 5.3 de la Directiva SŽDC n.º 51, en las inspecciones y mediciones periódicas y complementarias de desvíos y vías, visualmente. El contenido de estas inspecciones no es la determinación de magnitudes de desgaste (desgaste) de los raíles. Si la persona cualificada del explotador de la vía que realiza la inspección de desvíos y vías adquiere la impresión subjetiva de que los valores de desgaste de las agujas, los rieles de apoyo y los corazones en los desvíos y vías se acercan o superan el límite establecido en la Tabla 9, parte IV «RAÍLES» y el artículo 88 de la parte IX «DESVÍOS, UNIONES DE VÍA Y CRUCES DE VÍA» de la norma SŽDC S 3 «Superestructura ferroviaria», aprobada el 03. 06. 2008, con el n.º de expediente 9675/08-OP (en adelante, norma SŽDC S 3), en el sentido del procedimiento contenido en el artículo 15 de la Norma SŽDC (ČD) S 2/3, esta persona cualificada está obligada a garantizar medidas eficaces para asegurar la explotación segura del transporte ferroviario y ordenará la realización de la comprobación de los valores límite de desgaste (desgaste) con la plantilla PŠR-3, según los procedimientos contenidos en la Directiva PŠR-3 o con instrumentos de medida según el artículo 123 de la Norma SŽDC (ČD) S 2/3. De lo anterior se deduce que el explotador de la vía, con sus procedimientos en materia de evaluación del desgaste (desgaste) de las agujas, rieles de apoyo y corazones en los desvíos y del perfil de la cabeza del raíl en el resto de las vías de estación, se basa únicamente en la evaluación visual del estado en las inspecciones periódicas de desvíos y
 ### vías por personas cualificadas. Estas personas, a continuación, sobre la base de su
 evaluación subjetiva, deciden la adopción de las medidas correspondientes o
@@ -839,8 +886,8 @@ en vigor desde el 01. 07. 2006, en la redacción de la Enmienda n.º 1, en vigor
 (en adelante, Contrato General sobre el Uso de Vagones de Carga), capítulo II «DERECHOS
 Y OBLIGACIONES DEL POSEEDOR DEL VAGÓN», artículo 7 «Idoneidad técnica y mantenimiento de los vagones», punto 7.1,
 
-
 ## Página 29
+
 
 el poseedor del VIV, que en el caso de los VIV Zas 37 80 7850 148-3 y VIV Zas 37 87 7851 270-1
 es el arrendatario SLOVNAFT Bratislava.
@@ -883,6 +930,7 @@ En la investigación de la MU se constató la infracción de las disposiciones d
 
 ## Página 30
 
+
 «Los cambios en los parámetros constructivo-técnicos de las obras ferroviarias y de las obras en la vía, que influyen en la seguridad y en la continuidad del transporte ferroviario, deben señalizarse con las señales indicadas en el anexo n.º 1, parte I, que forma parte de esta ordenanza.»;
 § 35 apartado 1 letra i) de la ordenanza n.º 173/1995 Sb., donde se indica:
 •
@@ -919,8 +967,8 @@ en el art. 70 se indica:
 en el art. 89 se indica:
 ○
 
-
 ## Página 31
+
 
 «Las agujas, los cruces, las estructuras de agujas, las uniones de agujas y los arcos adyacentes y demás dispositivos según el art. 88 deben cumplir las condiciones establecidas en la parte B del anexo n.º 6 de la ordenanza n.º 177/1995 Sb, ČSN 73 6360-1, ČSN 73 6360-2, el reglamento ČD S3, las hojas modelo y la demás documentación técnica y los manuales para el montaje, la colocación y el mantenimiento de agujas, publicados por ČD.»;
 del reglamento SŽDC S3 parte V «Superficie ferroviaria APOYOS DE RIEL», aprobado
@@ -955,6 +1003,7 @@ en el art. 7.4.2, donde, entre otros, se indica:
 
 ## Página 32
 
+
 desviaciones de flecha sobre b/2 = 5 m con longitud de cuerda b = 10 m en curva, en transición y en recta se indican en la tabla 13."
 Tabla 8 "Desviaciones operativas límites de las magnitudes RK, ZR, RK100, VL, VP, VK, SL, SP y SK Nivel IAL – límite de intervención inmediata", donde para la banda de velocidad RP0 en la parte de lengüeta del desvío se establece el valor ZR = 14 mm·(2m)-1;
 Tabla 13 "Desviaciones operativas y operativas límites respecto de la flecha teórica sobre la longitud de la cuerda simétrica v = 10 m y diferencia de dos desviaciones de flecha consecutivas sobre b/2 = 5 m en curva, en transición y en recta", donde para la banda de velocidad RP0 en nivel IAL se indica el valor ∆f = ±21 mm, con la salvedad de que para velocidades v ≤ 40 km·h-1 es posible considerar el valor de desviación de flecha ∆f = ±23 mm;
@@ -983,8 +1032,8 @@ norma ČD V2 "Norma para las tripulaciones de locomotora", ref. 60796/97-O18, de
 en vigor desde el 22. 04. 1998, en su versión vigente. Fue asumida por el transportista ČDC, a. s. mediante Acuerdo del Consejo de Administración de ČDC, a. s. 10/2007-KGŘ, para la determinación del listado de normas internas de ČDC, a. s., aprobado por resolución n.º 16/2007, de fecha 29. 11. 2007 (en adelante norma ČD V 2), donde en el artículo 91, letra d), se indica:
 "El maquinista está obligado, en particular: a) a no superar la velocidad máxima permitida del tren.".
 
-
 ## Página 33
+
 
 ## 3.4
 ### Funcionamiento del material rodante y de las instalaciones técnicas
@@ -1026,6 +1075,7 @@ en el punto de medición "-6" (lengüeta, 6,7 m desde la punta de la lengüeta) 
 desviación operativa límite RK (+) en nivel IAL en +4 mm;
 
 ## Página 34
+
 
 en el punto de medida «-7» (lengua, 7,7 m desde la punta de la lengua) se superó 
 ▪
@@ -1085,10 +1135,10 @@ l = 2,0 m, la superación de la desviación operativa ZK en grado IL en +1 mm;
 en el punto de medida «0» se comprobó, mediante cálculo, para la base de medida l = 2,0 m, 
 ◦
 ### la superación de la desviación operativa límite ZK en grado IAL en +2 mm. Sin 
-embargo, en el sentido del artículo 7.3.3, de la Tabla 11.1 «Valores operativos y operativos límites de distorsión 
-
+embargo, en el sentido del artículo 7.3.3, de la Tabla 11.1 «Valores operativos y operativos límites de distorsión
 
 ## Página 35
+
 
 de la vía ZK para RP0 a RP2 (V ≤ 120 km/h)» ČSN 73 6360-2, no se trata 
 de una superación de la desviación operativa límite del valor ZK mantenida a lo largo de una longitud L ≥ 2,00 m;
@@ -1156,67 +1206,74 @@ entre los puntos de medida «+9» y «+4» alcanzó el valor ΔΔf en grado -IAL
 
 ## Página 36
 
-### la diferencia entre dos desviaciones consecutivas respecto del alzamiento teórico Δf 
+### la diferencia entre dos desviaciones consecutivas respecto de la flecha teórica Δf 
 ▪
-### entre los puntos de medida «+8» y «+3» superó el valor ΔΔf en el grado -IAL 
+### entre los puntos de medición «+8» y «+3» superó el valor ΔΔf en el grado -IAL 
 en -12 mm;
-la diferencia entre dos desviaciones consecutivas respecto del alzamiento teórico Δf entre 
+la diferencia entre dos desviaciones consecutivas respecto de la flecha teórica Δf entre 
 ▪
-los puntos de medida «+5» y «0» superó el valor ΔΔf en el grado -IL en -1 mm;
-### la diferencia entre dos desviaciones consecutivas respecto del alzamiento teórico Δf 
+los puntos de medición «+5» y «0» superó el valor ΔΔf en el grado -IL en -1 mm;
+### la diferencia entre dos desviaciones consecutivas respecto de la flecha teórica Δf 
 ▪
-### entre los puntos de medida «+4» y «-1» superó el valor ΔΔf en el grado +IAL 
+### entre los puntos de medición «+4» y «-1» superó el valor ΔΔf en el grado +IAL 
 en +3 mm;
-### la diferencia entre dos desviaciones consecutivas respecto del alzamiento teórico Δf 
+### la diferencia entre dos desviaciones consecutivas respecto de la flecha teórica Δf 
 ▪
-### entre los puntos de medida «+3» y «-2» superó el valor ΔΔf en el grado +IAL 
+### entre los puntos de medición «+3» y «-2» superó el valor ΔΔf en el grado +IAL 
 en +11 mm;
-### la diferencia entre dos desviaciones consecutivas respecto del alzamiento teórico Δf 
+### la diferencia entre dos desviaciones consecutivas respecto de la flecha teórica Δf 
 ▪
-### entre los puntos de medida «+2» y «-3» superó el valor ΔΔf en el grado +IAL 
+### entre los puntos de medición «+2» y «-3» superó el valor ΔΔf en el grado +IAL 
 en +6 mm.
-### La constatación indicada se refiere, en relación con lo dispuesto en los artículos 70 y 89 de la norma SŽDC (ČD) 
-### S 2/3 y en el artículo 7.4.2, Tabla 13 de la ČSN 73 6360-2, y en el § 25 apartado 1 y apartado 2 del decreto 
-n.º 177/1995 Sb. y en el § 2 apartado 3 del decreto n.º 173/1995 Sb., al no cumplirse el § 22 apartado 
-1 letra a) de la ley n.º 266/1994 Sb.;
-la magnitud medida RK en estado sin carga, para RP0, en el desvío n.º 208ab, parte 
+### La constatación indicada, en relación con lo dispuesto en los artículos 70 y 89 de la 
+### norma SŽDC (ČD) S 2/3 y en el artículo 7.4.2, Tabla 13 de la ČSN 73 6360-2, el 
+### apartado 25, apartados 1 y 2, del decreto nº 177/1995 Sb. y el apartado 3 del 
+### artículo 2 del decreto nº 173/1995 Sb., constituye un incumplimiento del apartado 22, 
+apartado 1, letra a), de la ley nº 266/1994 Sb.;
+la magnitud medida RK en estado sin carga, para RP0, en el desvío nº 208ab, parte 
 •
-«a», en el sentido I, en el punto de la aguja simple, es decir, en el punto de medida establecido según 
-la Tabla B.3 «Desviaciones operativas límite de la vía RK en el desvío en el grado IAL – límite 
-### de intervención inmediata» (en adelante Tabla B.3) de la ČSN 73 6360-2, se superó la 
-### desviación operativa límite de RK en el grado IAL en -1 mm.
-### La constatación indicada se refiere, en relación con lo dispuesto en los artículos 70 y 89 de la norma SŽDC (ČD) 
-### S 2/3 y en la Tabla B.3 de la ČSN 73 6360-2, y en el § 25 apartado 1 y apartado 2 del decreto 
-n.º 177/1995 Sb. y en el § 2 apartado 3 del decreto n.º 173/1995 Sb., al no cumplirse el § 22 apartado 
-1 letra a) de la ley n.º 266/1994 Sb.;
-las magnitudes medidas PK en estado sin carga, para RP0, en el desvío n.º 208ab, parte 
+«a», en el sentido I, en el lugar del desvío simple de corazón, es decir, en el punto de 
+medición establecido según la Tabla B.3 «Desviaciones operativas límite de la 
+vía RK en el desvío en el grado IAL – límite de intervención inmediata» (en adelante 
+### Tabla B.3) de la ČSN 73 6360-2, se superó la desviación operativa límite de RK 
+### en el grado IAL en -1 mm.
+### La constatación indicada, en relación con lo dispuesto en los artículos 70 y 89 de la 
+### norma SŽDC (ČD) S 2/3 y la Tabla B.3 de la ČSN 73 6360-2, el apartado 25, 
+### apartados 1 y 2, del decreto nº 177/1995 Sb. y el apartado 3 del artículo 2 del 
+### decreto nº 173/1995 Sb., constituye un incumplimiento del apartado 22, apartado 1, 
+letra a), de la ley nº 266/1994 Sb.;
+las magnitudes medidas PK en estado sin carga, para RP0, en el desvío nº 208ab, 
 •
-«a», en el sentido I, en los puntos de medida establecidos según la Tabla B.3 de la ČSN 73 6360-2, 
-no superan las desviaciones operativas de PK en el grado IL ni las desviaciones operativas límite de PK en 
-el grado IAL;
-mediante la medición en el desvío n.º 208ab, parte «a», se constató la distancia de la 
+parte «a», en el sentido I, en los puntos de medición establecidos según la Tabla B.3 
+de la ČSN 73 6360-2, no superan las desviaciones operativas de PK en el grado IL 
+ni las desviaciones operativas límite de PK en el grado IAL;
+mediante medición en el desvío nº 208ab, parte «a», se constató la distancia de la 
 •
-### cara de rodadura de la cuña de la aguja a la cara guía del contrarriel (L) de 1389 mm, lo que 
-supone no alcanzar el valor del límite inferior en -4 mm.
-### La constatación indicada se refiere, en relación con lo dispuesto en los artículos 70 y 89 de la norma SŽDC 
-### (ČD) S 2/3 y en el Anexo B (normativo) de la ČSN 73 6360-2, y en el § 25 apartado 1, 2 y 4 
-### del decreto n.º 177/1995 Sb. y en el § 2 apartado 3 del decreto n.º 173/1995 Sb., 
-al no cumplirse el § 22 apartado 1 letra a) de la ley n.º 266/1994 Sb.;
-mediante la medición en el desvío n.º 208ab, parte «a», se constató en la aguja simple 
+### arista rodante de la cuña del corazón a la arista guía del riel de sujeción (L) 1389 
+### mm, lo que supone no alcanzar el valor del límite inferior en -4 mm.
+### La constatación indicada, en relación con lo dispuesto en los artículos 70 y 89 de la 
+### norma SŽDC (ČD) S 2/3 y el Anexo B (normativo) de la ČSN 73 6360-2, el apartado 
+### 25, apartados 1, 2 y 4, del decreto nº 177/1995 Sb. y el apartado 3 del artículo 2 del 
+### decreto nº 173/1995 Sb., constituye un incumplimiento del apartado 22, apartado 1, 
+letra a), de la ley nº 266/1994 Sb.;
+mediante medición en el desvío nº 208ab, parte «a», en el desvío simple de corazón 
 •
-una anchura de la ranura de 39 mm, lo que supone no alcanzar el valor del límite inferior en -4 mm.
-### La constatación indicada se refiere, en relación con lo dispuesto en los artículos 70 y 89 de la norma SŽDC (ČD) 
-### S 2/3 y en el Anexo B (normativo) de la ČSN 73 6360-2, y en el § 25 apartado 1, 2 y 4 
-### del decreto n.º 177/1995 Sb. y en el § 2 apartado 3 del decreto n.º 173/1995 Sb., al no cumplirse el § 22 apartado 
-1 letra a) de la ley n.º 266/1994 Sb.;
-mediante la medición en el desvío n.º 208ab, parte «a», se constató la magnitud de la 
+se constató un ancho de ranura de 39 mm, lo que supone no alcanzar el valor del límite 
+inferior en -4 mm.
+### La constatación indicada, en relación con lo dispuesto en los artículos 70 y 89 de la 
+### norma SŽDC (ČD) S 2/3 y el Anexo B (normativo) de la ČSN 73 6360-2, el apartado 
+### 25, apartados 1, 2 y 4, del decreto nº 177/1995 Sb. y el apartado 3 del artículo 2 del 
+### decreto nº 173/1995 Sb., constituye un incumplimiento del apartado 22, apartado 1, 
+letra a), de la ley nº 266/1994 Sb.;
+mediante medición en el desvío nº 208ab, parte «a», se constató la magnitud de 
 •
-apertura de la lengüeta derecha de 120 mm, lo que supone no alcanzar el límite inferior de la desviación 
-límite de apertura de la lengüeta en el grado IAL en 30 mm.
-### La constatación indicada se refiere, en relación con lo dispuesto en el artículo 89 letra l y en la Tabla 2 
-
+apertura de la lengüeta derecha curva de 120 mm, lo que supone no alcanzar el límite 
+inferior de la desviación límite de apertura de la lengüeta en el grado IAL en 30 mm.
+### La constatación indicada, en relación con lo dispuesto en el artículo 89, letra l, y la 
+### Tabla 2
 
 ## Página 37
+
 
 ### de la norma SŽDC S 3 parte IX, y en el § 25 apartado 1 del decreto n.º 177/1995 Sb. y en el § 2 apartado 3 
 ### del decreto n.º 173/1995 Sb., al no cumplirse el § 22 apartado 1 letra a) de la ley 
@@ -1265,6 +1322,7 @@ la señal principal (de vía) Lc46 del HDV fue rebasada a una velocidad de 17 km
 •
 
 ## Página 38
+
 
 ### a continuación se produce un aumento gradual de la velocidad. En el pk 182,760, es decir, en el punto de inicio de la
 •
@@ -1319,8 +1377,8 @@ El maquinista del tren Vn 48221 fue informado, mediante enlace radiotelefónico 
 la circulación por la vía de estación nº 46, por el inspector de agujas St. 4 de la est. Přerov
 del establecimiento de la vía itineraria hacia
 
-
 ## Página 39
+
 
 la vía de estación nº 210 de la est. Přerov, zona de la plaza de la estación, a través del tramo de
 circulación obligada con pantógrafos recogidos. Este tramo estaba señalizado, en el sentido de
@@ -1377,36 +1435,34 @@ Estatuto de los Trabajadores, en su redacción vigente.
 ## Página 40
 
 3.6.2 Estado de salud y situación personal que influyeron en el suceso ferroviario, incluido el estrés físico o psicológico
-Los empleados del gestor de la infraestructura y del transportista, participantes en el SU, se encontraban en el momento de la producción del SU en condiciones de salud aptas para el desempeño de la función que ocupaban. La investigación no determinó que la situación personal o el estado psicológico de las personas participantes en el SU hubieran influido en la producción del SU. No se detectaron deficiencias.
+Los empleados del gestor de la infraestructura y del transportista, participantes en el SU, se encontraban en el momento de producirse el SU en condiciones de salud aptas para el desempeño de la función que ocupaban. La investigación no determinó que la situación personal o el estado psicológico de las personas participantes en el SU hubieran influido en la producción del SU. No se detectaron deficiencias.
 3.6.3 Disposición del equipamiento del puesto de mando o del vehículo, que influye en su control y utilización
 La disposición del equipamiento del puesto de mando y del DV no guardaba relación con la producción del SU. No se detectaron deficiencias.
 ## 3.7
 ### Sucesos ferroviarios anteriores de carácter similar
-DI registra desde el inicio del año 2011 en la red ferroviaria de ámbito nacional y regional un total de 4 SU similares, descarrilamientos de DV debido a defectos en el GPK en la vía de estación y en la aguja. En estos SU
+DI registra desde el inicio del año 2011 en la red ferroviaria de ámbito nacional y regional un total de 4 SU similares, descarrilamiento de DV debido a averías en el GPK en la vía de estación y en la aguja. En estos SU
 ### se produjo un daño por importe de 37 320 Kč. Se trata de los siguientes SU:
 del 14. 03. 2011 a las 23:20 h en la est. Nymburk, ámbito de la estación de clasificación, cuando durante
 •
-una maniobra se produjo el descarrilamiento del TDV en la aguja n.º 208. El daño total ascendió a
+una maniobra se produjo el descarrilamiento del TDV en la aguja n.º 208. El daño total detectado asciende a
 7 200 Kč;
 del 15. 04. 2011 a las 18:35 h en la est. Pardubice hl. n., cuando durante una maniobra en la vía de
 •
-estación n.º 312 se descarriló el HDV. No se produjo daño;
+estación n.º 312 descarriló el HDV. No se produjo daño;
 del 23. 04. 2011 a las 21:35 h en la est. Benešov u Prahy, cuando durante una maniobra en la aguja
 •
-n.º 25 se descarriló el TDV. El daño total ascendió a 13 920 Kč;
+n.º 25 descarriló el TDV. El daño total detectado asciende a 13 920 Kč;
 del 19. 06. 2011 a las 13:56 h en la est. Beroun, cuando durante una maniobra en la vía de
-•
-### estación n.º 209 se descarrilaron 2 TDV. El daño total ascendió a 16 200 Kč.
-El gestor de la infraestructura SŽDC, s. o., teniendo en cuenta la evaluación de las causas y circunstancias de la producción de los SU anteriormente mencionados y la responsabilidad determinada, adoptó sus propias medidas para la prevención de SU.
+### estación n.º 209 descarrilaron 2 TDV. El daño total detectado asciende a 16 200 Kč.
+El gestor de la infraestructura SŽDC, s. o., teniendo en cuenta la evaluación de las causas y circunstancias de la producción de los SU anteriormente mencionados y la responsabilidad detectada, adoptó sus propias medidas para la prevención de los SU.
 ### 4 ANÁLISIS Y CONCLUSIONES
 ## 4.1
 ### Descripción final del suceso ferroviario
-### 4.1.1 Descripción final del suceso ferroviario basada en los hechos determinados
-en el punto 3
-La ruta de tren para el tren Vn 48221 en la est. Přerov, desde el ámbito de la estación de pasajeros, vía de estación n.º 46, hasta el ámbito del andén, a la vía de estación n.º 210, fue establecida por una persona cualificada del gestor de la infraestructura, el jefe de maniobras despachante St. 4 de la est. Přerov, ámbito del andén, mediante la operación normal de SZZ de 1.ª categoría. La circulación del tren fue autorizada con la señal «Velocidad 40 km·h-1 y aviso» indicada por la señal de ruta Lc46. Durante la circulación del tren Vn 48221 por la vía de estación n.º 46, el maquinista fue informado por radiotelefonía por parte del vigilante de agujas St. 4 de la est. Přerov del establecimiento de la ruta de tren a la vía de
-
+### 4.1.1 Descripción final del suceso ferroviario basada en los hechos constatados en el punto 3
+La ruta de tren para el tren Vn 48221 en la est. Přerov, desde el ámbito de la estación de viajeros, vía de estación n.º 46, hasta el ámbito del andén, a la vía de estación n.º 210, fue establecida por una persona cualificada del gestor de la infraestructura, el jefe de maniobras St. 4 de la est. Přerov, ámbito del andén, mediante la operación normal SZZ de 1.ª categoría. La circulación del tren fue autorizada con la señal «Velocidad 40 km·h-1 y aviso» indicada por la señal de ruta Lc46. Durante la circulación del tren Vn 48221 por la vía de estación n.º 46, el maquinista fue informado por radiotelefonía, por parte del inspector de agujas St. 4 de la est. Přerov, del establecimiento de la ruta de tren a la vía de estación
 
 ## Página 41
+
 
 estación n.º 210 de la est. Přerov, ámbito del andén, a través de un tramo de circulación obligada con pantógrafos recogidos. Este estaba señalizado en el sentido de circulación del tren con una señal portátil para tracción eléctrica con la indicación «Vía en sentido a la izquierda sin línea de contacto», situada a la derecha de la aguja n.º 208ab en el km 182,658. Sobre la posible circulación a través de este tramo de circulación obligada con pantógrafos recogidos, el maquinista fue informado mediante la Orden General. Con esta orden escrita, al mismo tiempo, también fue informado de la limitación temporal de la velocidad en la vía de estación n.º 46, en el km 182,760 – 182,730, al valor de 20 km·h-1 y de su falta de señalización. La velocidad reducida no estaba señalizada en el momento de la producción del SU, a pesar de haber sido introducida por el gestor de la infraestructura 67 días antes de la producción del SU, mediante la orden n.º 2011-07-000371 emitida el 04. 07. 2011. El motivo de la introducción de la velocidad reducida era la realización de trabajos de reparación en la estructura de paso «Mádrův podjezd».
 Ante la señal que autorizaba la circulación del tren indicada por la señal principal (de ruta) Lc46, el maquinista del tren Vn 48221 continuó la circulación por la vía de estación n.º 46 en dirección a la est. Přerov, ámbito del andén. Aumentaba la velocidad del tren y se concentraba en la observación de la ubicación de las señales portátiles para tracción eléctrica. Adaptó la tecnología de circulación a la circulación prevista a través del tramo de circulación obligada con pantógrafos recogidos. No fue consciente de que se acercaba al inicio de la velocidad reducida no señalizada. Al alcanzar la velocidad de 30 km·h-1, el maquinista desconectó el pantógrafo del HDV y continuó la circulación por inercia. En ese momento superó en 10 km·h-1 la velocidad máxima permitida en el lugar de la velocidad reducida no señalizada. A las 14:21:30 h, a una velocidad de 29 km·h-1, debido a defectos en el GPK en la aguja n.º 208ab, parte «a», que causaron una oscilación vertical y transversal simultánea del TDV con la consiguiente pérdida de fuerza vertical de rueda, a lo largo de 40 cm subió la rueda derecha del eje 1 del bogie delantero del 11.º TDV Zas 37 80 7850 148-3 en la aguja n.º 208ab, parte «a», en el km 182,666, en la zona de cambio 70 cm detrás de la punta de la lengüeta derecha (interna) curva adyacente al carril de soporte derecho recto, hasta la corona de la lengüeta derecha curva. Esto tuvo como consecuencia la pérdida de fuerza vertical de rueda de la rueda derecha del eje 2 del bogie delantero, que también subió a la lengüeta derecha curva. Los bordes de las ruedas derechas del bogie delantero, circulando en estado descarrilado, descendieron posteriormente a la derecha fuera del carril de soporte en la aguja n.º 208ab, parte «b». El bogie delantero descarrilado del TDV fue conducido por el carril de soporte de la aguja n.º 208ab, parte «b», en sentido contrario al sentido original de circulación del tren, a través de un doble enlace de vía hasta la aguja n.º 212, a la derecha en dirección a la aguja n.º 210ab. Esto tuvo como consecuencia el desacoplamiento forzoso de la composición del tren entre el 10.º y el 11.º TDV tras el HDV y la fuga de aire de la tubería principal. La parte delantera del tren, formada por el HDV 363.034-0 y los 10 TDV delanteros, por efecto automático del freno de aire continuo automático, se detuvo de frente en la vía de estación n.º 210 en el km 182,368. La parte trasera del tren estaba formada por los 13 TDV restantes. El bogie delantero del 11.º TDV Zas 37 80 7850 148-3 fue guiado por la circulación de los bogies descarrilados a través de un doble enlace de vía, a través de la aguja n.º 210ab, hasta el nivel de la punta derecha de la aguja n.º 214, a la vía de estación n.º 220. El bogie trasero del TDV atravesó la aguja n.º 208ab, parte «a», en el sentido secundario de izquierda a izquierda, en dirección a la vía de estación n.º 210. A continuación, fue arrastrado por la circulación del bogie delantero descarrilado y se descarriló con todos los ejes a la derecha. El TDV se encontraba en su posición final tras el SU girado bajo un ángulo de aprox. 45° respecto al sentido original de circulación, de frente en el km 182,599. Como consecuencia de los golpes producidos y la acción dinámica del TDV descarrilado Zas 37 80 7850 148-3, se descarriló el TDV acoplado detrás Zas 33 87 7851 270-1, con el eje 2 del bogie delantero a la derecha en el sentido de circulación. Los TDV restantes de la parte trasera del tren Vn 48221 no se descarrilaron.
@@ -1416,130 +1472,44 @@ En el SU no se produjeron daños a las personas.
 
 ## 4.2
 ### Análisis
-### 4.2.1 Evaluación de los hechos constatados de acuerdo con el punto 3 y enunciación de las conclusiones sobre la causa del 
-suceso excepcional y la actuación de los servicios de emergencia
-El gestor de la infraestructura SŽDC, s. o., en el sentido del § 22 apartado 1 letra a) de la ley 
-n.º 266/1994 Sb., no gestionaba la infraestructura para las necesidades del transporte ferroviario fluido y seguro 
-de acuerdo con las normas de gestión de la infraestructura, por el hecho de que:
-de forma distinta a lo dispuesto en los arts. 70 y 89 de la norma SŽDC (ČD) S 2/3, Tablas B.3 ČSN 
-•
-73 6260-2, § 25 apartado 1 y apartado 2 del decreto n.º 177/1995 Sb. y § 2 apartado 3 del decreto 
-n.º 173/1995 Sb., las magnitudes medidas RK para la banda de velocidad RP0 en el desvío 
-n.º 208ab constatadas tras el MU, de acuerdo con la Tabla B.2 «Desviaciones operativas de la anchura de vía RK 
-en el desvío en grado IL – límite de intervención (reparación)» y la Tabla B.3 – «Desviaciones operativas límite de la 
-anchura de vía RK en el desvío en grado IAL – límite de intervención inmediata», ČSN 73 6360-2:
-en estado sin carga, en el punto de medida «+5» (corazón de aguja) se superó la desviación 
-◦
-operativa límite RK (-) en grado IAL en -1 mm;
-en estado con carga, en el punto de medida «+5» (corazón de aguja) se alcanzó la desviación 
-◦
-operativa límite RK (-) en grado IAL;
-de forma distinta a lo dispuesto en los arts. 70 y 89 de la norma SŽDC (ČD) S 2/3 y art. 7.4.2, Tabla 13 
-•
-ČSN 73 6262-2, § 25 apartado 1 y apartado 2 del decreto n.º 177/1995 Sb. y § 2 apartado 3 
-del decreto n.º 173/1995 Sb., las desviaciones calculadas respecto del fleje teórico Δf 
-comparadas para RP0:
-en el punto de medida «+23» la desviación respecto del fleje teórico Δf alcanzó el valor en 
-◦
-grado IL;
-en los puntos de medida «+21» y «+13» la desviación respecto del fleje teórico Δf superó el 
-◦
-valor en grado IL en -4 mm;
-en el punto de medida «+8» la desviación respecto del fleje teórico Δf superó el valor en 
-◦
-grado IL en +2 mm;
-en el punto de medida «-2» la desviación respecto del fleje teórico Δf superó el valor en 
-◦
-grado IL en +1 mm;
-en el punto de medida «-3» la desviación respecto del fleje teórico Δf superó el valor en 
-◦
-grado IL en +4 mm.
-de forma distinta a lo dispuesto en los arts. 70 y 89 de la norma SŽDC (ČD) S 2/3 y art. 7.4.2, Tabla 13 
-•
-ČSN 73 6262-2, § 25 apartado 1 y apartado 2 del decreto n.º 177/1995 Sb. y § 2 apartado 3 
-del decreto n.º 173/1995 Sb., los valores de las diferencias entre dos desviaciones consecutivas 
-respecto del fleje teórico Δf a una distancia b/2 = 5 m:
-la diferencia entre dos desviaciones consecutivas respecto del fleje teórico Δf entre 
-◦
-los puntos de medida «+25» y «+20» superó el valor ΔΔf en grado -IAL en -3 mm;
-la diferencia entre dos desviaciones consecutivas respecto del fleje teórico Δf entre 
-◦
-los puntos de medida «+21» y «+16» superó el valor ΔΔf en grado +IAL en +15 mm;
-la diferencia entre dos desviaciones consecutivas respecto del fleje teórico Δf entre 
-◦
-los puntos de medida «+18» y «+13» superó el valor ΔΔf en grado -IAL en -1 mm;
-la diferencia entre dos desviaciones consecutivas respecto del fleje teórico Δf entre 
-◦
-los puntos de medida «+17» y «+12» superó el valor ΔΔf en grado -IAL en -1 mm;
-la diferencia entre dos desviaciones consecutivas respecto del fleje teórico Δf entre 
-◦
-los puntos de medida «+16» y «+11» superó el valor ΔΔf en grado -IAL en -4 mm;
-
+### 4.2.1 Evaluación de los hechos constatados según el punto 3 y formulación de conclusiones sobre la causa del suceso excepcional y la actuación de los servicios de rescate
+El gestor de la vía SŽDC, s. o., en el sentido del § 22 apartado 1 letra a) de la ley núm. 266/1994 Sb., no explotaba la vía para los fines del tráfico ferroviario fluido y seguro de acuerdo con las normas de explotación de la vía, al:
+• de forma distinta a lo dispuesto en los arts. 70 y 89 de la norma SŽDC (ČD) S 2/3, Tablas B.3 ČSN 73 6260-2, § 25 apartado 1 y apartado 2 del decreto núm. 177/1995 Sb. y § 2 apartado 3 del decreto núm. 173/1995 Sb., con las magnitudes medidas de RK para la banda de velocidad RP0 en el desvío núm. 208ab constatadas tras el MU, según la Tabla B.2 «Desviaciones operativas de la anchura de vía RK en el desvío en grado IL – límite de intervención (reparación)» y la Tabla B.3 – «Desviaciones operativas límite de la anchura de vía RK en el desvío en grado IAL – límite de intervención inmediata», ČSN 73 6360-2:
+en estado sin carga, en el punto de medida «+5» (corazón de aguja) se superó la desviación operativa límite de RK (-) en grado IAL en -1 mm;
+en estado con carga, en el punto de medida «+5» (corazón de aguja) se alcanzó la desviación operativa límite de RK (-) en grado IAL;
+• de forma distinta a lo dispuesto en los arts. 70 y 89 de la norma SŽDC (ČD) S 2/3 y art. 7.4.2, Tabla 13 ČSN 73 6262-2, § 25 apartado 1 y apartado 2 del decreto núm. 177/1995 Sb. y § 2 apartado 3 del decreto núm. 173/1995 Sb., con las desviaciones calculadas respecto al alzamiento teórico Δf para RP0:
+en el punto de medida «+23» la desviación respecto al alzamiento teórico Δf alcanzó el valor en grado IL;
+en los puntos de medida «+21» y «+13» la desviación respecto al alzamiento teórico Δf superó el valor en grado IL en -4 mm;
+en el punto de medida «+8» la desviación respecto al alzamiento teórico Δf superó el valor en grado IL en +2 mm;
+en el punto de medida «-2» la desviación respecto al alzamiento teórico Δf superó el valor en grado IL en +1 mm;
+en el punto de medida «-3» la desviación respecto al alzamiento teórico Δf superó el valor en grado IL en +4 mm.
+• de forma distinta a lo dispuesto en los arts. 70 y 89 de la norma SŽDC (ČD) S 2/3 y art. 7.4.2, Tabla 13 ČSN 73 6262-2, § 25 apartado 1 y apartado 2 del decreto núm. 177/1995 Sb. y § 2 apartado 3 del decreto núm. 173/1995 Sb., con los valores de las diferencias entre dos desviaciones consecutivas respecto al alzamiento teórico Δf a la distancia b/2 = 5 m:
+la diferencia entre dos desviaciones consecutivas respecto al alzamiento teórico Δf entre los puntos de medida «+25» y «+20» superó el valor ΔΔf en grado -IAL en -3 mm;
+la diferencia entre dos desviaciones consecutivas respecto al alzamiento teórico Δf entre los puntos de medida «+21» y «+16» superó el valor ΔΔf en grado +IAL en +15 mm;
+la diferencia entre dos desviaciones consecutivas respecto al alzamiento teórico Δf entre los puntos de medida «+18» y «+13» superó el valor ΔΔf en grado -IAL en -1 mm;
+la diferencia entre dos desviaciones consecutivas respecto al alzamiento teórico Δf entre los puntos de medida «+17» y «+12» superó el valor ΔΔf en grado -IAL en -1 mm;
+la diferencia entre dos desviaciones consecutivas respecto al alzamiento teórico Δf entre los puntos de medida «+16» y «+11» superó el valor ΔΔf en grado -IAL en -4 mm;
 
 ## Página 43
 
-la diferencia entre dos desviaciones consecutivas respecto del fleje teórico Δf entre 
-◦
-los puntos de medida «+14» y «+9» alcanzó el valor ΔΔf en grado +IAL;
-la diferencia entre dos desviaciones consecutivas respecto del fleje teórico Δf entre 
-◦
-los puntos de medida «+13» y «+8» superó el valor ΔΔf en grado +IAL en +19 mm;
-la diferencia entre dos desviaciones consecutivas respecto del fleje teórico Δf entre 
-◦
-los puntos de medida «+12» y «+7» superó el valor ΔΔf en grado +IAL en +1 mm;
-la diferencia entre dos desviaciones consecutivas respecto del fleje teórico Δf entre 
-◦
-los puntos de medida «+9» y «+4» alcanzó el valor en grado -IAL;
-la diferencia entre dos desviaciones consecutivas respecto del fleje teórico Δf entre 
-◦
-los puntos de medida «+8» y «+3» superó el valor ΔΔf en grado -IAL en -12 mm;
-la diferencia entre dos desviaciones consecutivas respecto del fleje teórico Δf entre 
-◦
-los puntos de medida «+5» y «0» superó el valor ΔΔf en grado -IL en -1 mm;
-la diferencia entre dos desviaciones consecutivas respecto del fleje teórico Δf entre 
-◦
-los puntos de medida «+4» y «-1» superó el valor ΔΔf en grado +IAL en +3 mm;
-la diferencia entre dos desviaciones consecutivas respecto del fleje teórico Δf entre 
-◦
-los puntos de medida «+3» y «-2» superó el valor ΔΔf en grado +IAL en +11 mm;
-la diferencia entre dos desviaciones consecutivas respecto del fleje teórico Δf entre 
-◦
-los puntos de medida «+2» y «-3» superó el valor ΔΔf en grado +IAL en +6 mm;
-ponen de manifiesto defectos en la dirección de vía SK;
-de forma distinta a lo dispuesto en los arts. 70 y 89 de la norma SŽDC (ČD) S 2/3, Anexo B (normativo) 
-•
-ČSN 73 6262-2, § 25 apartado 1, 2 y 4 del decreto n.º 177/1995 Sb. y § 2 apartado 3 del decreto 
-n.º 173/1995 Sb., la distancia del borde recorrido de la cuña del corazón de aguja al borde guía 
-del pasador de retención (L) del desvío n.º 208ab, parte «a», es de 1389 mm. El valor del límite 
-inferior no se alcanzó en -4 mm;
-de forma distinta a lo dispuesto en los arts. 70 y 89 de la norma SŽDC (ČD) S 2/3, Anexo B (normativo) 
-•
-ČSN 73 6262-2, § 25 apartado 1, 2 y 4 del decreto n.º 177/1995 Sb. y § 2 apartado 3 del decreto 
-n.º 173/1995 Sb., la anchura del canal del corazón de aguja simple del desvío n.º 28ab, parte «a», tiene 
-un valor de 39 mm. El límite inferior de la anchura del canal no se alcanzó en -4 mm;
-de forma distinta a lo dispuesto en el art. 36 de la norma SŽDC S 3 parte XI, Hoja modelo del 
-•
-desvío de cruzamiento completo tipo CS 49-1:9-190 sobre traviesas de madera y § 25 apartado 1 
-del decreto n.º 177/1995 Sb. y § 2 apartado 3 del decreto n.º 173/1995 Sb., la dilatación 
-del empalme de cambio del desvío n.º 208ab, parte «a», situada a 2,105 m antes del punto 
-«0», tiene en el sentido de circulación del tren en el carril derecho un valor de 25 mm 
-y en el izquierdo de 43 mm;
-de forma distinta a lo dispuesto en el art. 2 de la norma SŽDC S3 parte V, § 25 apartado 7 del decreto 
-•
-n.º 177/1995 Sb. y § 2 apartado 3 del decreto n.º 173/1995 Sb., los soportes de carril dañados 
-en el lugar de la punta de la lengüeta derecha curvada en la 1.ª y 2.ª base con sillas deslizantes 
-entre los puntos de medida «+1» y «0» permitieron el hundimiento de las bases en los 
-soportes de carril y, con los elementos de fijación ausentes (en las bases mencionadas 
-con sillas deslizantes había caído 1 pieza de tornillo), no se garantizó la retención 
-de los elementos de fijación y, con ello, la rigidez del bastidor del desvío n.º 208ab, parte «a».
-Los defectos en RK en la parte del corazón de aguja del desvío n.º 208ab, parte «a», los defectos en la dirección 
-de vía SK en la vía de estación n.º 46 y en el desvío n.º 208ab, parte «a», el defecto en la distancia 
-del borde recorrido de la cuña del corazón de aguja al borde guía del pasador de retención (L) del desvío n.º 208ab, parte 
-«a», el defecto en la anchura del canal del corazón de aguja simple del desvío n.º 208ab, parte «a» y la rigidez 
-alterada del entablado en el lugar de la 1.ª y 2.ª base de carril con bases con sillas 
-deslizantes del desvío n.º 208ab, parte «a», provocaron la vibración vertical y transversal simultánea del TDV,
+la diferencia entre dos desviaciones consecutivas de la flecha teórica Δf entre los puntos de medición «+14» y «+9» alcanzó el valor ΔΔf en el grado +IAL;
+la diferencia entre dos desviaciones consecutivas de la flecha teórica Δf entre los puntos de medición «+13» y «+8» superó el valor ΔΔf en el grado +IAL en +19 mm;
+la diferencia entre dos desviaciones consecutivas de la flecha teórica Δf entre los puntos de medición «+12» y «+7» superó el valor ΔΔf en el grado +IAL en +1 mm;
+la diferencia entre dos desviaciones consecutivas de la flecha teórica Δf entre los puntos de medición «+9» y «+4» alcanzó el valor en el grado -IAL;
+la diferencia entre dos desviaciones consecutivas de la flecha teórica Δf entre los puntos de medición «+8» y «+3» superó el valor ΔΔf en el grado -IAL en -12 mm;
+la diferencia entre dos desviaciones consecutivas de la flecha teórica Δf entre los puntos de medición «+5» y «0» superó el valor ΔΔf en el grado -IL en -1 mm;
+la diferencia entre dos desviaciones consecutivas de la flecha teórica Δf entre los puntos de medición «+4» y «-1» superó el valor ΔΔf en el grado +IAL en +3 mm;
+la diferencia entre dos desviaciones consecutivas de la flecha teórica Δf entre los puntos de medición «+3» y «-2» superó el valor ΔΔf en el grado +IAL en +11 mm;
+la diferencia entre dos desviaciones consecutivas de la flecha teórica Δf entre los puntos de medición «+2» y «-3» superó el valor ΔΔf en el grado +IAL en +6 mm;
+acreditan defectos en la dirección de vía SK;
+• en contravención de lo dispuesto en los arts. 70 y 89 del reglamento SŽDC (ČD) S 2/3, Anexo B (normativo) ČSN 73 6262-2, § 25 apartados 1, 2 y 4 del decreto nº 177/1995 Sb. y § 2 apartado 3 del decreto nº 173/1995 Sb., la distancia del borde recorrido de la cuña de la aguja del desvío nº 208ab, parte «a», al borde guía del raíl de retención (L) asciende a 1389 mm. No se alcanzó el límite inferior en -4 mm;
+• en contravención de lo dispuesto en los arts. 70 y 89 del reglamento SŽDC (ČD) S 2/3, Anexo B (normativo) ČSN 73 6262-2, § 25 apartados 1, 2 y 4 del decreto nº 177/1995 Sb. y § 2 apartado 3 del decreto nº 173/1995 Sb., el ancho del canal de la aguja simple del desvío nº 28ab, parte «a», tiene un valor de 39 mm. No se alcanzó el límite inferior del ancho del canal en -4 mm;
+• en contravención de lo dispuesto en el art. 36 del reglamento SŽDC S 3 parte XI, Hoja modelo del desvío de cruzamiento completo tipo CS 49-1:9-190 sobre traviesas de madera, y § 25 apartado 1 del decreto nº 177/1995 Sb. y § 2 apartado 3 del decreto nº 173/1995 Sb., la dilatación del empalme del desvío del desvío nº 208ab, parte «a», situada a 2,105 m antes del punto «0», tiene en la dirección de marcha del tren, en el carril derecho, un valor de 25 mm y en el izquierdo de 43 mm;
+• en contravención de lo dispuesto en el art. 2 del reglamento SŽDC S3 parte V, § 25 apartado 7 del decreto nº 177/1995 Sb. y § 2 apartado 3 del decreto nº 173/1995 Sb., los soportes de raíl dañados en el lugar de la punta de la lengüeta derecha curvada en la 1.ª y 2.ª placa base con patines deslizantes entre los puntos de medición «+1» y «0» permitieron el hundimiento de las placas base en los soportes de raíl, y con los elementos de fijación ausentes (en las citadas placas base con patines deslizantes faltaba 1 pieza de tornillo) no se garantizó la retención de los elementos de fijación, y con ello la rigidez del bastidor del desvío nº 208ab, parte «a».
+Los defectos en RK en la parte de aguja del desvío nº 208ab, parte «a», los defectos en la dirección de vía SK en la vía de estación nº 46 y en el desvío nº 208ab, parte «a», el defecto en la distancia del borde recorrido de la cuña de la aguja al borde guía del raíl de retención (L) del desvío nº 208ab, parte «a», el defecto en el ancho del canal de la aguja simple del desvío nº 208ab, parte «a», y la rigidez deteriorada del enrejado de vía en el lugar de la 1.ª y 2.ª placa base de raíl con placas base con patines deslizantes del desvío nº 208ab, parte «a», provocaron la vibración vertical y transversal simultánea del TDV,
 
 ## Página 44
+
 
 que, con la contribución del defecto en la dilatación en el enlace de cambio situado a 2,105 m antes del punto "0" y los valores calculados de ZK en el punto "0", para la base de medida l = 2 m, provocaron la pérdida de la fuerza vertical de rueda de la rueda delantera derecha del primer eje del bogí delantero TDV Zas 37 80 7850 148-3, véase también Dictamen Técnico UP. La pérdida de la fuerza vertical de rueda permitió a la rueda derecha aligerada del bogí delantero, desde el punto "0" (70 cm desde la punta de la aguja), a lo largo de 40 cm, trepar a la corona de la aguja derecha (interna) curva adyacente al tramo recto de la aguja de la aguja de desvío n.º 208ab, parte "a", y el desarrollo del posterior suceso del accidente.
 
@@ -1559,37 +1529,72 @@ La causa fundamental relacionada con la cualificación, los procedimientos y el 
 
 Las causas derivadas del marco normativo y del uso del sistema de garantía de la seguridad no fueron detectadas por el DI en la investigación de las causas y circunstancias del origen del MU.
 
-
 ## Página 45
 
 ## 4.4
 ### Hallazgos complementarios
-### 4.4.1 Deficiencias y omisiones detectadas durante la investigación de las causas y circunstancias del origen del suceso excepcional, que sin embargo no son relevantes para las conclusiones sobre las causas
-
-El explotador de la vía SŽDC, s. o., en relación con lo dispuesto en el art. 605 letra f) de la norma SŽDC (ČD) D2 y el § 5 apartado 7 del decreto n.º 173/1995 Sb., en el sentido del § 22 apartado 1 letra a) de la ley n.º 266/1994 Sb., no explotó la vía para las necesidades del transporte ferroviario fluido y seguro de acuerdo con las reglas para la explotación de la vía, al introducir en la est. Přerov, distrito de la estación de pasajeros, en la vía de estación n.º 46, en el km 182,760 a 182,730, el día 04. 07. 2011, una velocidad reducida con el valor v = 20 km·h-1, que hasta la fecha de origen del citado MU no señalizó con señales de limitación transitoria de la velocidad de la línea.
-
-El explotador de la vía SŽDC, s. o., en relación con lo dispuesto en el art. 15 letra c) de la Norma SŽDC (ČD) S 2/3, art. 7.2 de la Directriz SŽDC n.º 51, Anexo B (normativo) ČSN 73 6360-2, anexo n.º 6 parte B del decreto n.º 177/1995 Sb. y el § 2 apartado 3 del decreto n.º 173/1995 Sb., en el sentido del § 22 apartado 1 letra a) de la ley n.º 266/1994 Sb., no explotó la vía para las necesidades del transporte ferroviario fluido y seguro de acuerdo con las reglas para la explotación de la vía, al detectar mediante la medición de las magnitudes del superestructura ferroviaria en la aguja de desvío n.º 208ab el día 14. 04. 2011 magnitudes que superan las desviaciones operativas y límites operativas en la anchura de vía y la no consecución del intervalo de la magnitud "L" (distancia del borde guía del riel de sujeción al borde rodante de la cuña de corazón), y lo documentó en la Hoja de Aguja. No adoptó ninguna medida para garantizar la conformidad del estado de la aguja de desvío n.º 208ab con los requisitos para garantizar el transporte ferroviario fluido y seguro, es decir, medidas para la eliminación de los defectos detectados, y explotó conscientemente la aguja de desvío n.º 208ab con defectos que fueron evolucionando. Los defectos fueron eliminados por el explotador de la vía, según su documentación, en los plazos establecidos únicamente tras la posterior medición de las magnitudes del superestructura ferroviaria en la aguja de desvío n.º 208ab el día 14. 07. 2011.
-
-El explotador de la vía SŽDC, s. o., en relación con lo dispuesto en el art. 7.2.1 de la norma SŽDC SR103/8(S) y la Tabla 8 ČSN 73 6262-2, el § 25 apartado 1 y apartado 2 del decreto n.º 177/1995 Sb. y el § 2 apartado 3 del decreto n.º 173/1995 Sb., en el sentido del § 22 apartado 1 letra a) de la ley n.º 266/1994 Sb., no explotó la vía para las necesidades del transporte ferroviario fluido y seguro de acuerdo con las reglas para la explotación de la vía, al:
-
-la magnitud medida RK para el tramo de velocidad RP0 en la aguja de desvío n.º 208ab, según la Tabla B.2 "Desviaciones operativas de la anchura de vía RK en la aguja en el nivel IL – límite de intervención (reparación)" y la Tabla B.3 – "Desviaciones límites operativas de la anchura de vía RK en la aguja en el nivel IAL – límite de intervención inmediata", ČSN 73 6360-2:
+### 4.4.1 Deficiencias y omisiones detectadas durante la investigación de las causas y circunstancias del 
+accidente ferroviario, que sin embargo no son relevantes para las conclusiones sobre las causas
+El gestor de la vía SŽDC, s. o., en virtud de lo dispuesto en el artículo 605 letra f) 
+del Reglamento SŽDC (ČD) D2 y el § 5 apartado 7 del decreto nº 173/1995 Sb., en el 
+sentido del § 22 apartado 1 letra a) de la ley nº 266/1994 Sb., no explotó la vía para 
+las necesidades del tráfico ferroviario fluido y seguro conforme a las reglas de 
+explotación de la vía, al haber establecido el 04. 07. 2011, en la estación de Přerov, 
+área de la estación de pasajeros, en la vía de estación nº 46, en el pk 182,760 hasta 
+182,730, una velocidad reducida con el valor v = 20 km·h-1, que hasta la fecha de 
+ocurrencia del accidente ferroviario en cuestión no señalizó con señales de 
+restricción transitoria de la velocidad de la vía.
+El gestor de la vía SŽDC, s. o., en virtud de lo dispuesto en el artículo 15 letra c) 
+del Reglamento SŽDC (ČD) S 2/3, artículo 7.2 de la Directiva SŽDC nº 51, Anexo B 
+(normativo) ČSN 73 6360-2, anexo nº 6 parte B del decreto nº 177/1995 Sb. y el § 2 
+apartado 3 del decreto nº 173/1995 Sb., en el sentido del § 22 apartado 1 letra a) de 
+la ley nº 266/1994 Sb., no explotó la vía para las necesidades del tráfico ferroviario 
+fluido y seguro conforme a las reglas de explotación de la vía, al haber detectado, 
+mediante la medición de las magnitudes del superestructura ferroviaria en el desvío 
+nº 208ab el 14. 04. 2011, magnitudes que superaban las desviaciones operativas y 
+operativas límite en la anchura de vía y el no alcanzamiento del valor de la magnitud 
+"L" (distancia del borde guía del carril de contacto al borde de rodadura del corazón 
+de la aguja), documentándolo en la Hoja de Desvíos. No adoptó ninguna medida para 
+garantizar la conformidad del estado del desvío nº 208ab con los requisitos de 
+garantía del tráfico ferroviario fluido y seguro, es decir, medidas para la eliminación 
+de las averías detectadas, y explotó conscientemente el desvío nº 208ab con averías 
+que fueron progresando. Las averías fueron eliminadas por el gestor de la vía, según 
+su documentación, en los plazos establecidos, tras la posterior medición de las 
+magnitudes del superestructura ferroviaria en el desvío nº 208ab el 14. 07. 2011.
+El gestor de la vía SŽDC, s. o., en virtud de lo dispuesto en el artículo 7.2.1 del 
+Reglamento SŽDC SR103/8(S) y la Tabla 8 ČSN 73 6262-2, § 25 apartado 1 y apartado 2 
+del decreto nº 177/1995 Sb. y el § 2 apartado 3 del decreto nº 173/1995 Sb., en el 
+sentido del § 22 apartado 1 letra a) de la ley nº 266/1994 Sb., no explotó la vía para 
+las necesidades del tráfico ferroviario fluido y seguro conforme a las reglas de 
+explotación de la vía, al haber:
+la magnitud RK medida para el tramo de velocidad RP0 en el desvío nº 208ab, según 
 •
-en estado sin carga:
+la Tabla B.2 "Desviaciones operativas de la anchura de vía RK en el desvío en grado 
+IL – límite de intervención (reparación)" y la Tabla B.3 – "Desviaciones operativas 
+límite de la anchura de vía RK en el desvío en grado IAL – límite de intervención 
+inmediata", ČSN 73 6360-2:
+en estado sin carga: 
 ◦
-en el punto de medida "-6" (aguja, 6,7 m desde la punta de la aguja) se superó la desviación ▪
-límite operativa RK (+) en el nivel IAL en +1 mm;
-en el punto de medida "-7" (aguja, 7,7 m desde la punta de la aguja) se superó la desviación ▪
-límite operativa RK (+) en el nivel IAL en +3 mm;
-en el punto de medida "-8" (raíz de la aguja, 8,7 m desde la punta de la aguja) se superó la ▪
-desviación límite operativa RK (+) en el nivel IL en +2 mm;
+en el punto de medición "-6" (aguja, 6,7 m desde la punta de la aguja) se superó 
+▪
+la desviación operativa límite de RK (+) en grado IAL en +1 mm;  
+en el punto de medición "-7" (aguja, 7,7 m desde la punta de la aguja) se superó 
+▪
+la desviación operativa límite de RK (+) en grado IAL en +3 mm; 
+en el punto de medición "-8" (raíz de la aguja, 8,7 m desde la punta de la aguja) 
+▪
+se superó la desviación operativa de RK (+) en grado IL en +2 mm; 
 en estado con carga:
 ◦
-en el punto de medida "-5" (aguja, 5,7 m desde la punta de la aguja) se superó la ▪
-desviación operativa RK (+) en el nivel IL en +2 mm;
-en el punto de medida "-6" (aguja, 6,7 m desde la punta de la aguja) se superó la desviación ▪
-límite operativa RK (+) en el nivel IAL en +4 mm;
+en el punto de medición "-5" (aguja, 5,7 m desde la punta de la aguja) se superó 
+▪
+la desviación operativa de RK (+) en grado IL en +2 mm;
+en el punto de medición "-6" (aguja, 6,7 m desde la punta de la aguja) se superó 
+▪
+la desviación operativa límite de RK (+) en grado IAL en +4 mm;
 
 ## Página 46
+
 
 en el punto de medida «-7» (lengüeta, 7,7 m desde la punta de la lengüeta) se superó la desviación operativa límite RK (+) en el grado IAL en +4 mm;
 ▪
@@ -1615,55 +1620,62 @@ El transportista ČDC, a. s., en relación con lo dispuesto en el artículo 58 d
 
 El transportista ČDC, a. s., en relación con lo dispuesto en el artículo 91 letra d) de la norma ČD V2 y el § 35 apartado 1 letra i) del decreto n.º 173/1995 Sb. en el sentido del § 35 apartado 1 letras a) y g) de la ley n.º 266/1994 Sb., no garantizó la explotación del transporte ferroviario de acuerdo con las reglas de explotación del transporte ferroviario y no se guió durante la explotación del transporte ferroviario por las instrucciones del explotador ferroviario impartidas durante la organización del transporte ferroviario, al haber alcanzado el tren Vn 48221 en el lugar de la citada marcha lenta la velocidad de 30 km·h-1, pese a la comunicación demostrable al maquinista del tren Vn 48221 de una marcha lenta no señalizada de 20 km·h-1 en la estación de Přerov, en la vía de estación n.º 46, en el km 182,760 a 182,730, lo que supone una superación de la velocidad máxima permitida en 10 km·h-1, es decir, en un 50 %.
 
-
 ## Página 47
 
 ### 5 MEDIDAS ADOPTADAS
 ## 5.1
-### Lista de medidas que ya se han tomado o adoptado como consecuencia de la excepción
-Sobre la base de los resultados de la investigación de las causas y circunstancias de la aparición de la UE, el explotador ferroviario, en el sentido del § 49 apartado 3 letra e) de la ley n.º 266/1994 Sb. y el § 13 apartado 1 del decreto n.º 376/2006 Sb., adoptó las siguientes medidas:
-tras la aparición de la UE, excluyó el desvío n.º 208ab de la explotación. En el marco de los trabajos de reparación, garantizó la realización de la reparación integral del desvío con la adecuación de la posición geométrica de la vía y la puesta en conformidad de los parámetros medidos del superestructura ferroviaria en el desvío con la norma ČSN 73 6360-2. El explotador ferroviario cumplió el plazo establecido del 30. 11. 2011;
+### Lista de medidas que ya se han tomado o adoptado como consecuencia del suceso excepcional
+Sobre la base de los resultados de la investigación de las causas y circunstancias del SE, el gestor de la infraestructura ferroviaria, en el sentido del § 49 apartado 3 letra e) de la Ley n.º 266/1994 Sb. y del § 13 apartado 1 del Decreto n.º 376/2006 Sb., adoptó las medidas siguientes:
+tras la ocurrencia del SE, excluyó del servicio el desvío n.º 208ab. En el marco de los trabajos de reparación, aseguró
 •
-puso en conocimiento de la dirección de SŽDC SDC STM Olomouc ST Olomouc el desarrollo y las conclusiones de la Evaluación de la UE, en la reunión colegiada más próxima. El explotador ferroviario cumplió el plazo establecido del 29. 02. 2012;
+la realización de la reparación integral del desvío con la modificación de la posición geométrica de la vía y la puesta en conformidad de los parámetros medidos del superestructura ferroviaria en el desvío con la norma ČSN 73 6360-2. El gestor de la infraestructura ferroviaria cumplió el plazo establecido del 30. 11. 2011;
+puesto en conocimiento de la dirección de SŽDC SDC STM Olomouc ST Olomouc el desarrollo y las conclusiones de
 •
-puso en conocimiento de los demás empleados de SŽDC SDC STM Olomouc ST Olomouc el desarrollo y las conclusiones de la Evaluación de la UE en la formación periódica. El explotador ferroviario cumplió el plazo establecido del 30. 04. 2012.
+la Evaluación del SE, en la próxima reunión de órgano colegiado. El gestor de la infraestructura ferroviaria cumplió el plazo establecido del 29. 02. 2012;
+puesto en conocimiento del resto de empleados de SŽDC SDC STM Olomouc ST Olomouc el desarrollo
 •
+y las conclusiones de la Evaluación del SE en la formación periódica. El gestor de la infraestructura ferroviaria cumplió el plazo establecido del 30. 04. 2012.
 ### 6 RECOMENDACIONES DE SEGURIDAD
- De acuerdo con lo dispuesto en el § 53b apartado 5 de la ley n.º 266/1994 Sb., la Inspección Ferroviaria recomienda al explotador ferroviario, de categoría nacional y regional, y a la Administración de la Vía de Transporte Ferroviario, organización estatal:
-establecer mediante procedimientos tecnológicos el intervalo de las comisiones periódicas de desgaste (desgaste) de las lengüetas, apoyos y corazones en los desvíos y del perfil de la cabeza del raíl, no solo en las vías de trazado y las vías principales de estación, sino también en las demás vías de estación, documentando la magnitud detectada mediante medición.
+De conformidad con lo dispuesto en el § 53b apartado 5 de la Ley n.º 266/1994 Sb., la Inspección Ferroviaria recomienda al gestor de la infraestructura ferroviaria, categoría estatal y regional, y a la Administración de la Vía de Tráfico Ferroviario, organización estatal:
+mediante procedimientos tecnológicos, establecer el intervalo de las comisiones periódicas de desgaste (desgaste) de las agujas, los carriles de apoyo y los corazónes en los desvíos y del perfil de la cabeza del carril, no solo en las vías de trazado y las vías principales de estación, sino también en el resto de vías de estación, documentando la magnitud
 •
-El objetivo es que en las vías distintas de las de trazado y las principales de estación, durante las inspecciones periódicas y complementarias, no se confíe únicamente en la valoración visual del estado real del desgaste (desgaste) de las lengüetas, apoyos y corazones en los desvíos y del perfil de la cabeza del raíl por parte de personas profesionalmente competentes que, de acuerdo con los procedimientos tecnológicos vigentes en la fecha de emisión de este informe, sobre la base de su valoración subjetiva decidan realizar una comisión de no alcanzamiento o no superación de los valores límite de desgaste (desgaste) mediante medición con instrumentos de medida o con la plantilla PŠR-3, respectivamente, decidan la adopción de las medidas correspondientes para garantizar la seguridad del transporte ferroviario.
-
+constatada mediante medición.
+El objetivo es que en las vías distintas de las de trazado y las principales de estación, en las inspecciones periódicas y complementarias, no se confíe únicamente en la valoración visual del estado real del desgaste (desgaste) de las agujas, los carriles de apoyo y los corazónes en los desvíos y del perfil de la cabeza del carril por parte de personas competentes que, de conformidad con los procedimientos tecnológicos vigentes en la fecha de emisión de este informe, sobre la base de su valoración subjetiva, decidan sobre la realización de la comisión de no alcanzar o no superar los valores límite de desgaste (desgaste) mediante medición con instrumentos de medida o con la plantilla PŠR-3, respectivamente, decidan sobre la adopción de las medidas correspondientes para garantizar la seguridad del transporte ferroviario.
 
 ## Página 48
 
-De acuerdo con lo dispuesto en el artículo 25 apartado 2 de la Directiva del Parlamento Europeo y del Consejo 2004/49/CE de 29. 04. 2004 sobre la seguridad ferroviaria de la Comunidad y por la que se modifican la Directiva 95/18/CE del Consejo sobre concesión de licencias a las empresas ferroviarias y la Directiva 2001/14/CE sobre asignación de capacidad de la infraestructura ferroviaria, tarificación de la infraestructura ferroviaria y emisión de certificados de seguridad (Directiva sobre seguridad ferroviaria), la Inspección Ferroviaria recomienda a la Red de Autoridades Nacionales de Seguridad de la Agencia Ferroviaria Europea:
-implementar en su totalidad la recomendación de seguridad de la Inspección Ferroviaria emitida sobre la base de los resultados de la investigación de las causas y circunstancias de la aparición de la excepción en el transporte ferroviario de fecha 22. 06. 2009 en la estación ferroviaria de Olomouc hl. n., en la que se recomendó:
-desarrollar e implantar en los países de la Unión Europea un sistema uniforme de identificación inequívoca de la posición y el lugar de los elementos separables de suspensión de los vehículos ferroviarios remolcados, incluido su sistema de registro.
-◦
-De acuerdo con lo dispuesto en el anexo n.º 7 del decreto n.º 376/2006 Sb., la Inspección Ferroviaria recomienda a la Autoridad Ferroviaria la adopción de una medida propia encaminada a garantizar la realización de las recomendaciones de seguridad anteriormente citadas.
+De conformidad con lo dispuesto en el artículo 25, apartado 2, de la Directiva 2004/49/ES del Parlamento Europeo y del Consejo, de 29. 04. 2004, sobre la seguridad ferroviaria de la Comunidad y por la que se modifican las Directivas 95/18/ES del Consejo, sobre concesión de licencias a las empresas ferroviarias, y 2001/14/ES, sobre asignación de capacidad de la infraestructura ferroviaria, tarificación de la infraestructura ferroviaria y emisión de certificados de seguridad (directiva sobre seguridad ferroviaria), la Inspección Ferroviaria recomienda a la Red de Autoridades Nacionales de Seguridad de la Agencia Ferroviaria Europea:
+
+• implementar en su totalidad las recomendaciones de seguridad emitidas por la Inspección Ferroviaria sobre la base de los resultados de la investigación de las causas y circunstancias del accidente ferroviario ocurrido el 22. 06. 2009 en la estación ferroviaria Olomouc hl. n., en la que se recomendó:
+
+◦ desarrollar e implantar en los países de la Unión Europea un sistema uniforme de identificación inequívoca de la posición y el lugar de los elementos separables de suspensión de los vehículos ferroviarios remolcados, incluido el sistema de registro de los mismos.
+
+De conformidad con lo dispuesto en el anexo n.º 7 del decreto n.º 376/2006 Sb., la Inspección Ferroviaria recomienda a la Autoridad Ferroviaria la adopción de una medida propia encaminada a garantizar la realización de las recomendaciones de seguridad mencionadas anteriormente.
+
 En Ostrava, a 4. 12. 2012.
-Ing. Bedřich Kajzar, f. r.
-Ing. Petr Maikranz, f. r.
+
+Ing. Bedřich Kajzar, rúbrica
+Ing. Petr Maikranz, rúbrica
 Inspector jefe
 Director
-de la Inspección Territorial de Ostrava
-de la Inspección Territorial de Ostrava
-
+De la Inspección Territorial de Ostrava
+De la Inspección Territorial de Ostrava
 
 ## Página 49
+
 
 ### 7 ANEXOS
 Foto 1: Imagen que acredita la posición final de los TDV Zas 11.º y 12.º del tren Vn 48221 tras la aparición de la UE
 Foto 2: Eje 2.º del bogie trasero del TDV Zas enganchado como 11.º TDV detrás del HDV del tren Vn 48221 tras la aparición de la UE
 
-
 ## Página 50
+
 
 Foto 3: Imagen que documenta la medición de los perfiles de rodadura de las ruedas del eje del TDV Zas enganchado como 11.º TDV detrás del HDV
 Foto 4: Imagen que documenta la medición de los perfiles transversales de la cabeza del apoyo y de la lengüeta del desvío n.º 208ab, parte «a» en el punto «0»
 
 ## Página 51
+
 
 # Punto «0»
 Foto 5: Imagen que documenta el punto «0» y los lugares de medición de los perfiles transversales de la cabeza del carril de apoyo y de la lengua del desvío n.º 208ab, parte «a», con el fin de determinar la geometría de contacto bogie-vía

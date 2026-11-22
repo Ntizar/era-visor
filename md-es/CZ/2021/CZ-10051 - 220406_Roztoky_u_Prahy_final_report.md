@@ -10,13 +10,14 @@ chars: 151355
 ratio_longitud: 1.25
 tokens_in: 80334
 tokens_out: 57357
-verificacion: revisar
-notas_cifras: ["bloque 6: original bilingüe: se compara contra el idioma principal (CS)", "bloque 7: original bilingüe: se compara contra el idioma principal (CS)", "bloque 11: original bilingüe: se compara contra el idioma principal (CS)"]
-avisos: ["bloque 6: ratio 1.71", "bloque 7: ratio 1.65", "bloque 11: ratio 1.75"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 3: original bilingüe: se compara contra el idioma principal (CS)", "página 4: original bilingüe: se compara contra el idioma principal (CS)", "página 6: original bilingüe: se compara contra el idioma principal (CS)", "página 7: original bilingüe: se compara contra el idioma principal (CS)", "página 10: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -43,13 +44,13 @@ IČ: 75009561
 mail@dicr.cz
 tel.: +420 736 521 003
 
-
 ## Página 2
+
 
 Este informe final es público y todos los hechos en él expuestos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ### 1 RESUMEN
 Fuente: Drážní inspekce
@@ -78,8 +79,8 @@ la señal de la señal de salida.
 No fue detectado por la Drážní inspekce ningún factor contribuyente.
 No fue detectada por la Drážní inspekce ninguna causa sistémica.
 
-
 ## Página 4
+
 
 Recomendaciones de seguridad:
 La Drážní inspekce, con base en lo dispuesto en el § 53e apartado 1 de la Ley n.º 266/1994 Sb., recomienda, en relación con la prevención de sucesos ferroviarios:
@@ -89,8 +90,8 @@ garantizar que, en los gestores de la infraestructura ferroviaria de categoría 
 •
 garantizar que, en todas las instalaciones de enclavamiento de estación pertinentes, se reevalúe el análisis de estados de riesgo derivados de la interfaz entre el dispositivo y su manipulación y, posteriormente, se valore la incorporación de un requisito de indicación gráfica de la ocupación del tramo de vía de aguja mediante el coloreado de la rama de la aguja que haya sido efectivamente ocupada, al menos en los casos en que el tramo de aguja se encuentre directamente tras la señal y la circulación no autorizada más allá del nivel de esta señal no esté indicada de forma completamente concreta por otra función de la instalación de enclavamiento de estación.
 
-
 ## Página 5
+
 
 ### SUMMARY
 6th May 2021, 12:35 (10:35 GMT).
@@ -142,8 +143,8 @@ actually occupied, at least in cases when is the switch section directly behind 
 signal device and unauthorized movement behind this signal device is not 
 specifically indicated by other function of the station interlocking plant.
 
-
 ## Página 6
+
 
 # Índice
 1 RESUMEN........................................................................................................................3
@@ -193,6 +194,7 @@ infraestructura ferroviaria o de los equipos técnicos..........................
 
 ## Página 7
 
+
 4.2.2 Factores o consecuencias derivados de la instalación y puesta en servicio de vehículos ferroviarios, infraestructura ferroviaria o instalaciones técnicas......................................39
 4.2.3 Factores o consecuencias relacionados con fabricantes de vehículos ferroviarios u otros proveedores de productos ferroviarios............................................................................39
 4.2.4 Factores o consecuencias derivados del mantenimiento y modificación de vehículos ferroviarios o instalaciones técnicas....................................................................................................40
@@ -222,6 +224,7 @@ infraestructura ferroviaria o de los equipos técnicos..........................
 ANEXOS..............................................................................................................................51
 
 ## Página 8
+
 
 ### Lista de siglas y símbolos utilizados
 AWT
@@ -271,6 +274,7 @@ estación de ferrocarril
 
 ## Página 9
 
+
 ### Lista de siglas de la legislación, normas y reglamentos internos utilizados
 ley núm. 266/1994 Sb.
 ley núm. 266/1994 Sb., de vías férreas, en la redacción vigente en el momento de producirse el suceso extraordinario
@@ -294,43 +298,45 @@ TNŽ 34 2620
 norma técnica ferroviaria núm. 34 2620, Instalaciones de enclavamiento ferroviario:
 instalaciones de enclavamiento de estación y de trazado, en la redacción vigente en el momento de producirse el suceso extraordinario
 
-
 ## Página 10
 
-### 2 LA INVESTIGACIÓN Y SU CONTEXTO
+### 2 INVESTIGACIÓN Y SUS RELACIONES
 ### 2.1 Decisión de iniciar la investigación
-La DI decidió iniciar la investigación del suceso extraordinario en cuestión el 6. 5. 2021.
+El DI decidió iniciar la investigación de la MU en cuestión el 6. 5. 2021.
 ### 2.2 Fundamentación de la decisión de iniciar la investigación
-La DI decidió investigar el suceso extraordinario en cuestión en función de la gravedad y la repetición del suceso extraordinario.
+El DI decidió investigar la MU en cuestión sobre la base de la gravedad y la repetición del suceso extraordinario.
 ### 2.3 Alcance y limitaciones de la investigación, incluida la fundamentación correspondiente
-La DI no se encontró, en el marco de la investigación del suceso extraordinario en cuestión, con limitaciones que influyeran negativamente en el modo y los procedimientos de la investigación.
-### 2.4 Descripción general de las capacidades y funciones técnicas del equipo de investigadores
-Investigación de la DI en el lugar del suceso extraordinario:
-2x inspector del ÚI Čechy, sede de Praga.
+El DI no se encontró, en el marco de la investigación de la MU en cuestión, con limitaciones que influyeran negativamente en el modo y los procedimientos de la investigación.
+### 2.4 Descripción resumida de las capacidades y funciones técnicas del equipo de investigadores
+Investigación del DI en el lugar de la MU:
+2x inspector de la ÚI Čechy, centro de trabajo Praga.
 Constitución del equipo de investigación:
 No fue necesario constituirlo.
 Colaboración externa:
 No se utilizó.
-2.5 Comunicación y consultas durante la investigación con las personas o entidades que participaron en el suceso en cuestión
-Al investigar las causas y circunstancias de la producción del suceso extraordinario, la DI se basó principalmente en sus propios conocimientos, hallazgos y en su propia documentación fotográfica. Durante la investigación, la DI solicitó posteriormente la documentación recabada en el curso de la investigación por parte del gestor de la infraestructura y de los transportistas.
-La investigación de las causas y circunstancias de la producción del suceso extraordinario se realizó de acuerdo con la ley núm. 266/1994 Sb. y el decreto núm. 376/2006 Sb.
-### 2.6 Descripción del nivel de colaboración ofrecido por las entidades implicadas
-El nivel de colaboración con los representantes de las entidades implicadas en el suceso extraordinario fue estándar.
-### 2.7 Descripción de la investigación, los métodos y las técnicas utilizados para acreditar los hechos y los hallazgos recogidos en el informe
-En el marco de la investigación del suceso extraordinario, la DI procedió de la siguiente manera, es decir, utilizó, entre otros, los siguientes métodos y técnicas:
+2.5 Comunicación y consultas durante la investigación con las personas o entidades
+que participaron en el suceso en cuestión
+En la investigación de las causas y circunstancias de la MU, el DI se basó principalmente en sus propios conocimientos, hallazgos y en su propia documentación fotográfica. Durante la investigación, el DI solicitó posteriormente la documentación recabada durante la investigación al gestor de la vía y a los transportistas.
+La investigación de las causas y circunstancias de la MU se realizó de acuerdo con la ley núm. 266/1994 Sb.
+y la orden núm. 376/2006 Sb.
+### 2.6 Descripción del nivel de colaboración ofrecido por las entidades participantes
+El nivel de colaboración con los representantes de las entidades participantes en la MU fue estándar.
+### 2.7 Descripción de la investigación, los métodos y las técnicas utilizados para acreditar los hechos
+y los hallazgos consignados en el informe
+En el marco de la investigación de la MU, el DI procedió de la siguiente manera, es decir, utilizó, entre otros, los siguientes métodos y técnicas:
 •
-inspección del lugar del suceso extraordinario, incluidos los vehículos ferroviarios implicados, las instalaciones técnicas y la infraestructura de la vía férrea;
+inspección del lugar del suceso extraordinario, incluidos los vehículos ferroviarios participantes, las instalaciones técnicas y la infraestructura de la vía;
 •
-análisis de la documentación solicitada al gestor de la infraestructura, a los transportistas y al DÚ;
+análisis de la documentación solicitada al gestor de la vía, a los transportistas y al DÚ;
 •
-análisis de los datos registrados por los registradores de velocidad de los vehículos ferroviarios implicados;
+análisis de los datos registrados por los registradores de velocidad de los vehículos ferroviarios participantes;
 •
 análisis de los datos registrados por el SZZ;
 •
 análisis de las grabaciones de cámara;
 
-
 ## Página 11
+
 
 •
 declaraciones de los empleados implicados y de los testigos;
@@ -361,8 +367,8 @@ Coordenadas GPS:
 ### 3.1.3 Descripción del lugar del suceso
 La estación de ferrocarril Roztoky u Prahy se encuentra en la vía férrea nacional, Praha-Holešovice Stromovka – Kralupy nad Vltavou, en el pk 421,805 (según las TTP trazado 527A Praha-Bubeneč – Děčín hlavní nádraží). En los tramos de estación adyacentes, el trazado es de doble vía. La estación está permanentemente sin jefe de estación y es controlada a distancia por el despachante de trazado desde el CDP Praga, con la posibilidad eventual de control por parte del jefe de estación de guardia desde el PPV Kralupy nad Vltavou o de control local por parte del jefe de estación de guardia de la est. Roztoky u Prahy desde el JOP o desde la mesa de operación de emergencia en la oficina de circulación.
 
-
 ## Página 12
+
 
 ## Lugar del suceso extraordinario
 Fig. núm. 1: Esquema del lugar de producción del suceso extraordinario
@@ -387,6 +393,7 @@ La est. Roztoky u Prahy estaba equipada con una instalación de enclavamiento de
 La señal de salida L1 se encontraba a la derecha de la 1. SK, estaba señalizada de la forma prescrita y mostraba la indicación «Alto». El gestor de la infraestructura midió el estado de aislamiento de esta señal L1 > 50 MΩ y el tensión en la bombilla de la luz roja U = 10,4 V, lo que cumplía las tolerancias establecidas en los arts. 124 y 122 del reglamento SŽDC (ČSD) T121.
 
 ## Página 13
+
 
 Estado de los vehículos ferroviarios:
 El tren Nex 47342 estaba detenido en la 1.ª vía de estación, su morro se encontraba en la zona de la rama de la aguja n.º 11 en el pk 
@@ -427,10 +434,10 @@ en el pk 422,750 (es decir, 18 m detrás de dicha señal) en la cabecera de la 1
 por la unidad eléctrica „CityElefant“, tenía una longitud de 79,2 m, 12 ejes, un peso de 180 t, y era dirigido 
 desde el coche de mando 94 54 1 971 029-4. Los porcentajes de frenado necesarios eran del 92 %, los porcentajes de frenado reales eran del 121 %. La unidad estaba señalizada con las señales Inicio de tren y Fin de tren. 
 El mando del freno de acción directa fue encontrado en la posición „O2“ (totalmente liberado). La palanca principal de conducción 
-fue encontrada en la posición „R“ (frenado de acción rápida). La presión en los cilindros de freno era de 2,8 bares. 
-
+fue encontrada en la posición „R“ (frenado de acción rápida). La presión en los cilindros de freno era de 2,8 bares.
 
 ## Página 14
+
 
 La presión en la tubería principal era de 0,0 bares. La presión en el depósito de aire principal era de 8,6 bares. En el panel de 
 la radioestación estaba sintonizado el tren 9629 en la red GSM-R (CZ). 
@@ -460,8 +467,8 @@ No se produjo daño en los vehículos ferroviarios, en los componentes de la ví
 ### 3.1.5 Descripción de otras consecuencias, incluido el impacto del suceso en las actividades regulares de los sujetos implicados
 Desde las 12:35 h hasta las 14:49 h, como consecuencia del MU, se interrumpió la explotación del transporte ferroviario entre la est. Roztoky u Prahy y la est. Libčice nad Vltavou, y se implantó un transporte por autobús alternativo. En total, como consecuencia del MU, se cancelaron 24 trenes de transporte de pasajeros y se retrasaron 21 trenes de transporte de pasajeros en un total de 803 minutos. En el transporte de mercancías se produjo el retraso de 3 trenes.
 
-
 ## Página 15
+
 
 ### 3.1.6 Identificación de las personas, sus funciones y de los sujetos implicados
 Personas implicadas por:
@@ -505,8 +512,8 @@ Ostrava-Muglinov. El transporte ferroviario se realizaba en virtud de un contrat
 | Modo de frenado: | I. |  |  |  |
 * los números de registro de los vagones individuales no son relevantes para la ZZ
 
-
 ## Página 16
+
 
 Nota sobre el tren Nex 47342:
 •
@@ -616,8 +623,8 @@ No se superó la velocidad máxima permitida del tren en el lugar del MU.
 
 Durante la circulación del tren Nex 47342 desde la 2.ª vía de circulación a la 1.ª vía de estación de la est. Roztoky u Prahy no se produjo cambio alguno en el indicador de la señal en la señal L1.
 
-
 ## Página 17
+
 
 El tren Nex 47342 pasó junto a la señal L1 con la señal Alto.
 El maquinista aplicó el frenado de servicio. El frenado de emergencia se aplicó cuando expiró el plazo de 
@@ -675,6 +682,7 @@ detención del tren Os 9629 en el pk 422,750.
 El estado real del tren Os 9269 comprobado en el lugar del MU correspondía a la documentación del tren.
 
 ## Página 18
+
 
 ### 3.1.8 Descripción de las partes de infraestructura y del sistema de señalización correspondientes
 La estación Roztoky u Prahy estaba equipada con SZZ de tipo ESA 11, que es un SZZ de 3.ª categoría según TNŽ 34 2620. Este SZZ se puso en servicio en el año 2012 y era operativamente apto en virtud del certificado de aptitud y del protocolo de inspección y ensayo del dispositivo técnico correspondiente hasta el 22. 3. 2026.
@@ -735,8 +743,8 @@ Ocupación del tramo de vía después de la señal 1S por el tren Os 9629;
 12:35:38 h
 Cambio de señalización en la señal S3a a Velocidad 80 km/h y vía libre (para el tren Os 9629).
 
-
 ## Página 19
+
 
 El último tramo antes de la estación Roztoky u Prahy en el sentido de circulación de ambos trenes implicados está formado siempre por dos tramos de vía.
 El tren Nex 47342 se encontraba, en el momento en que se le asignó la ruta, en el último tramo del bloque automático antes de la estación Roztoky u Prahy en el sentido desde la aguja de enlace Praha-Bubeneč. Este tren entró en la estación Roztoky u Prahy por la 1.ª SK con la señalización Velocidad 80 km/h y aviso. Desde las 12:28:29 h no se registró en la señal de salida L1 ninguna señalización distinta de Detenerse. A las 12:33:59 h, el jefe de estación PPV de Kralupy nad Vltavou ordenó la asignación de la ruta de entrada a la estación Roztoky u Prahy para el tren Os 9629 desde la señal 1S a la 3.ª SK desde la estación Libčice nad Vltavou. A las 12:35:12 h, como consecuencia de la circulación no autorizada del tren Nex 47342, se produjo la ocupación del tramo de vía V11 (en el desvío n.º 11) detrás de la señal L1, que formaba parte de la ruta de entrada para el tren Os 9629. A las 12:35:13 h se produjo el cambio de señalización en la señal de entrada 1S. El tren Os 9629 ocupó a las 12:35:23 h el tramo de vía situado detrás de dicha señal, en el que se detuvo.
@@ -745,8 +753,8 @@ En el momento de la producción del MU estaba excluida la agrupación de vías p
 Con fines de la investigación del MU se elaboró además un análisis complementario del registro del SZZ de la estación contigua Libčice nad Vltavou, que era controlada desde el mismo JOP.
 En la estación Libčice nad Vltavou, en la señal de salida S1 se había configurado desde la entrega al PPV desde el CDP la función Ruta con asignación automática. El jefe de estación PPV de Kralupy nad Vltavou restableció esta función también después del adelantamiento del tren Os 9629 por el tren R 609. Tras la salida del tren Os 9629 por la 1.ª TK en dirección a la estación Roztoky u Prahy, se asignó a las 12:29:44 h la ruta desde la señal S1 a la 1.ª TK (mediante el uso nuevamente de la función Ruta con asignación automática en la señal S1); a las 12:33:57 h se introdujo en el JOP, para la citada ruta,
 
-
 ## Página 20
+
 
 el número de tren R 683. Dicho tren pasó posteriormente por la estación Libčice nad Vltavou a las 12:47:53 h.
 ### 3.1.9 Cualquier otra información relevante a efectos de la descripción del suceso y de la información básica
@@ -778,64 +786,65 @@ maquinista del tren
 ◦Desde la estación Praha-Holešovice circularon hasta la estación Roztoky u Prahy detrás de un tren de viajeros.
 ◦En la estación Roztoky u Prahy se detuvo antes de la señal de entrada con la señalización Detenerse.
 
-
 ## Página 21
 
-◦A continuación, por la primera vía pasó en sentido contrario otro tren rápido.
-◦Después se le encendió la señalización Velocidad 80 km/h y aviso.
-◦Con dicha señalización arrancó hacia la estación por la primera vía.
-◦En la señal de salida L1 lucía la señalización Detenerse.
-◦Como justo detrás de la señal de salida había un tramo sin tensión que probablemente no habría superado si se hubiera detenido en la señal de salida, aplazó la frenada hasta el último momento, con la expectativa de que la señalización Detenerse pudiera cambiar.
-◦La señalización Detenerse no cambió y, por lo tanto, inició la frenada.
+◦A continuación, por la primera vía, pasó en sentido contrario otro tren rápido.
+◦Después se le encendió la señal de Velocidad 80 km/h y la advertencia.
+◦Con esta señal, se puso en marcha hacia la estación por la primera vía.
+◦En la señal de salida L1 lucía la señal de Alto.
+◦Como justo detrás de la señal de salida había un tramo sin tensión que probablemente no podría haber recorrido si se hubiera detenido en la señal de salida, aplazó el frenado hasta el último momento, con la expectativa de que la señal de Alto pudiera cambiar.
+◦La señal de Alto no cambió y por lo tanto inició el frenado.
 ◦Pero ya era tarde.
-◦De este modo, pasó la señal de salida con la señalización Detenerse en unos 50 metros.
-◦La cabeza del tren quedó justo detrás del paso a nivel provisional.
-◦A continuación, llegó a él el "jefe de estación" (nota del DI: en realidad se trataba de un testigo, el guardabarrera de la obra), que vigilaba dicho paso a nivel provisional, y le preguntó qué había ocurrido.
-◦Le comunicó (nota del DI: el maquinista al guardabarrera de la obra) que había pasado la señal con la señalización Detenerse y que tendrían que iniciar una investigación.
+◦Debido a ello, pasó la señal de salida con la señal de Alto en unos 50 metros.
+◦El frente del tren estaba justo detrás del paso a nivel provisional.
+◦A continuación, llegó el «jefe de estación» (nota DI: en realidad se trataba de un testigo, el guardabarrera de la obra), que vigilaba este paso a nivel provisional, y preguntó qué había ocurrido.
+◦Le comunicó (nota DI: el maquinista al guardabarrera de la obra) que había pasado la señal con la señal de Alto y que tendrían que iniciar una investigación.
 ◦Posteriormente, comunicó todo el suceso por teléfono móvil profesional al despachador de PKP CI en Ústí nad Labem.
-◦El colega jefe de tren estuvo con él durante todo el tiempo en el puesto de conducción delantero.
-◦Permanecieron en el lugar hasta la llegación de los órganos investigadores.
-◦Trabaja como maquinista desde el año 1989; anteriormente trabajó como electromecánico de vehículos de vía. Pertenece a la empresa PKP CI desde el año 2000.
-◦El reparto de turnos actual le resulta adecuado. No tiene turno fijo, está adscrito en régimen de rotación.
-◦No presenta ninguna molestia de salud, física o psicológica.
-◦Usa gafas y las llevaba puestas también durante la circulación del tren en cuestión.
-◦Toma regularmente medicación para la presión y el colesterol.
-◦Al incorporarse al turno del 6. 5. 2021 se encontraba física y psicológicamente descansado. Tuvo un descanso suficiente. El turno anterior lo finalizó el 3. 5. 2021 a las 22:00 h.
-◦Durante el turno no detectó averías en la HDV serie BR 189; la locomotora estaba en buen estado.
+◦El colega jefe de tren estuvo con él todo el tiempo en el puesto delantero.
+◦Permanecieron en el lugar hasta la llegada de los órganos investigadores.
+◦Trabaja como maquinista desde 1989, antes trabajaba como electromecánico de vehículos ferroviarios. Está en PKP CI desde el año 2000.
+◦El reparto de turnos actual le conviene. No tiene turno regular, está asignado en régimen de paso.
+◦No tiene problemas de salud, físicos ni psicológicos.
+◦Lleva gafas y las llevaba puestas también durante la marcha del tren en cuestión.
+◦Toma regularmente medicamentos para la presión y el colesterol.
+◦Al incorporarse al turno del 6 de mayo de 2021, estaba descansado física y psicológicamente. Tuvo un descanso suficiente. El turno anterior lo finalizó el 3 de mayo de 2021 a las 22:00 h.
+◦Durante el turno no detectó averías en el HDV de la serie BR 189, la locomotora estaba en buen estado.
 ◦Nada le distrajo.
-◦La radio de la HDV también estaba en buen estado.
-◦A la pregunta de si alguien más se había puesto en contacto con él antes de llegar a la estación Roztoky u Prahy, además de la llamada por GSM-R que mencionó, respondió que no, nadie más se había puesto en contacto con él.
-◦Se enteró de los tramos sin tensión en la entrada y en la salida de la estación Roztoky u Prahy a partir de la orden que recibió en la estación Praha-Běchovice.
+◦La radiobase del HDV también estaba en buen estado.
+◦A la pregunta de si alguien más le había contactado antes de la llegada a la estación de Roztoky u Prahy, además de la llamada por GSM-R que mencionó, respondió que no, nadie más le había contactado.
+◦Se enteró de los tramos sin tensión en la entrada y salida de la estación de Roztoky u Prahy por la orden que recibió en la estación de Praha-Běchovice.
 
 ## Página 22
 
-◦A la pregunta de si tenía esta información solo de la orden recibida o si actuaba también en base a experiencias anteriores, respondió que la información la tenía solo de la orden recibida.
-◦A la pregunta de cuántas veces había pasado por la estación Roztoky u Prahy con un vehículo ferroviario de tracción dependiente desde que en ella se había establecido un tramo sin tensión, respondió que el paso del tren Nex 47342 fue la primera vez que pasaba por la estación Roztoky u Prahy desde la creación de los tramos sin tensión.
-◦En cuanto al tramo sin tensión, el jefe de estación no lo contactó, tenía la orden.
-◦Desde el inicio de la jornada hasta la ocurrencia de la UE (mimořádná událost) no realizó ninguna pausa.
-◦En una época anterior no se había enterado de que en la estación Roztoky u Prahy se estaban realizando trabajos de vía prolongados según la orden de vía. Cuando pasó junto a la obra, esto le quedó claro.
+◦Ante la pregunta de si tenía esta información solo de la orden recibida o si actuaba también en base a la experiencia anterior, respondió que la información la tenía solo de la orden recibida.
+◦Ante la pregunta de cuántas veces había pasado por la est. Roztoky u Prahy con un vehículo ferroviario de tracción dependiente desde que en ella se estableció la sección sin tensión, respondió que el paso del tren Nex 47342 fue la primera vez que pasó por la est. Roztoky u Prahy desde la creación de las secciones sin tensión.
+◦En cuanto a la sección sin tensión, el jefe de estación no lo contactó, tenía la orden.
+◦Desde el inicio de su turno hasta la ocurrencia de la UE no tomó ningún descanso.
+◦En una época anterior no fue informado de que en la est. Roztoky u Prahy se estaban realizando obras de vía de larga duración según la orden de vía. Cuando pasó junto a la obra, le quedó claro.
 •
-maquinista del tren Os 9629
+maquinista del tren 
+ Os 9629
   – Acta con el empleado:
-◦Se aproximaba a la estación Roztoky u Prahy a una velocidad de 60 km·h-1.
-◦En el último semáforo de sección del bloque automático, la indicación era Espere velocidad 60 km/h.
-◦En el semáforo de entrada, la indicación era Velocidad 60 km/h y aviso.
-◦Cuando estaba a unos 30 – 50 m del semáforo de entrada, la indicación cambió repentinamente a Alto.
-◦Inmediatamente aplicó el frenado de acción rápida para detener el tren, pero no logró detenerlo a tiempo y pasó el semáforo a unos 50 m.
-◦Su estado de salud ni su situación personal, incluido el estrés físico y psicológico, influyeron en la ocurrencia de la UE.
+◦Se aproximaba a la est. Roztoky u Prahy a una velocidad de 60 km·h-1.
+◦En el último semáforo de sección del bloque automático había la señal Espere velocidad 60 km/h.
+◦En el semáforo de entrada había la señal Velocidad 60 km/h y aviso.
+◦Cuando estaba a unos 30 – 50 m antes del semáforo de entrada, la señal cambió repentinamente a Alto.
+◦Inmediatamente aplicó el frenado de acción rápida para detener el tren, pero no logró detenerlo a tiempo y pasó el semáforo en unos 50 m.
+◦Ni su estado de salud ni su situación personal, incluido el estrés físico y psicológico, influyeron en la ocurrencia de la UE.
 •
 jefe de estación PPV Kralupy nad Vltavou
   – Acta con el empleado:
-◦El 6. 5. 2021 prestó servicio como jefe de estación PPV.
-◦A las 12:33 h establecía la ruta de tren para la entrada del tren Nex 47342 en la 1. SK (vía principal) de la estación Roztoky u Prahy y simultáneamente para el tren Os 9629 desde la estación Libčice nad Vltavou en la 3. SK.
+◦El 6. 5. 2021 prestó servicio en turno como jefe de estación PPV.
+◦A las 12:33 h establecía la ruta ferroviaria para la entrada del tren Nex 47342 en el 1. SK en la est. Roztoky u Prahy y simultáneamente para el tren Os 9629 desde la est. Libčice nad Vltavou en el 3. SK.
 ◦A las 12:36 h se produjo el apagado del semáforo de entrada 1S.
-◦El maquinista del tren Os 9629 le comunicó que se había producido un cambio repentino de la señal a la indicación Alto.
-◦Con ello comprobó que se había producido el paso del tren Nex 47342 más allá del semáforo L1.
-◦Comunicó la ocurrencia de la UE según el plan de notificación.
-◦Que se había producido el paso del semáforo L1 lo comprobó por la ocupación de la aguja n.º 11 en el esquema de la estación y mirando la cámara.
-◦Llamó por teléfono al maquinista del tren Nex 47342 a la estación Praha-Holešovice, le preguntó si estaba informado sobre el tramo sin tensión en la estación Roztoky u Prahy, no se comunicó más con él.
+◦El maquinista del tren Os 9629 le comunicó que se había producido un cambio repentino de la señalización a la señal Alto.
+◦Con ello comprobó que se había producido el paso del semáforo L1 por el tren Nex 47342.
+◦Comunicó la ocurrencia de la UE según el calendario de notificación.
+◦Que se había producido el paso del semáforo L1 lo comprobó a partir de la ocupación de la aguja n.º 11 en el esquema de la estación y mirando la cámara.
+◦Llamó al maquinista del tren Nex 47342 a la est. Praha-Holešovice, le preguntó si estaba informado de la sección sin tensión en la est. Roztoky u Prahy, no se comunicó más con él.
 
 ## Página 23
+
 
 ◦Contaba con que el tren Nex 47342 se detuviera en la estación Roztoky u Prahy debido al cruce.
 ◦A la pregunta de si era consciente de la longitud del tramo sin tensión, respondió: «Creo que 100 – 150 metros. A la vez era consciente de que el tren 47342 era ligero y corto.»
@@ -858,6 +867,7 @@ A la persona que prestaba declaración se le reprodujo el registro de la convers
 ◦A la pregunta más concreta de si le contactó el operador de barreras de la obra en la estación Roztoky u Prahy inmediatamente antes de la llegada del tren Nex 47342, respondió que no lo recuerda.
 
 ## Página 24
+
 
 ◦A la pregunta de si tras la UE estuvo en contacto con el operador de barreras en la estación Roztoky u Prahy, respondió que aproximadamente una hora después.
 ◦A la pregunta de si el JOP (jefe de operaciones) le avisó de alguna manera de la ocupación del circuito de vía de la aguja n.º 11, que estaba en la ruta de entrada establecida para el tren Os 9629, respondió que suele tener el sonido desactivado y no se lo indicó, pero cree que ni con el sonido activado el JOP se lo habría indicado. Le sorprendió que tampoco se hubiera producido un corte tecnológico.
@@ -882,6 +892,7 @@ testigo, jefe de tren PCI
 ◦No recuerda la señal con la que el tren Nex 47342 entraba en la estación Roztoky u Prahy.
 
 ## Página 25
+
 
 ◦No puede estimar a qué distancia aproximada vio la indicación Alto, de la que avisó al maquinista.
 ◦Antes de la estación Roztoky u Prahy, el maquinista mencionó durante la circulación del tren el tramo sin tensión en la estación Roztoky u Prahy, pero de lo contrario durante el viaje no hubo conversación.
@@ -909,6 +920,7 @@ testigo, operador de barreras de la obra
 
 ## Página 26
 
+
 ◦Solicitó al jefe de estación PPV que cancelara la ruta de tren desde la 3. SK en dirección a Praga y permitiera la maniobra con la composición del tren de mercancías con el objetivo de liberar la cabeza de estación y permitir al tren abandonar la estación.
 ◦El jefe de estación PPV, a su petición, canceló la ruta de tren desde la 3. SK.
 ◦Se trasladó al final del tren de mercancías.
@@ -928,6 +940,7 @@ La cámara estaba situada en el edificio de estación de la estación Roztoky u 
 El tren Nex 47342 en la grabación de la cámara pasó junto al edificio de estación de la estación Roztoky u Prahy por la 1. SK a las 12:35:01 h de la grabación de la cámara, a las 12:35:18 h este tren se detuvo.
 
 ## Página 27
+
 
 En relación con el suceso extraordinario, se obtuvieron las grabaciones de las llamadas realizadas desde el material motor del tren Nex 47342 y desde el PPV en la estación de Kralupy nad Vltavou. Transcripción fonética de las grabaciones de audio seleccionadas del dispositivo ReDat:
 Archivo: 2021_05_06_12-09-56_2.28_1073_LABEL_KRALPNV_DT_PPV.mp3
@@ -960,8 +973,8 @@ Jefe de estación PPV: Kralupy, PPV.
 Guardabarreras de la obra: Pues en Roztoky cerrado, libre.
 Jefe de estación PPV: De acuerdo, ce- cerrado, entendido.
 
-
 ## Página 28
+
 
 Archivo: 2021_05_06_12-35-36_2.28_1073_LABEL_KRALPNV_DT_PPV.mp3
 Inicio de la llamada: 6. 5. 2021, 12:35:36 h
@@ -997,44 +1010,47 @@ Guardabarreras de la obra: A la mercancía.
 Jefe de estación PPV: Vale.
 Guardabarreras de la obra: ¿Tienes colocada detrás, tras la mercancía, todavía esa vía?
 
-
 ## Página 29
 
-Jefe de estación PPV: No. Tras la mercancía la tengo ya alineada. Allí ya, como y en [ilegible: nesrozumitelné] la tengo bien.
-Guardabarreras de la obra: Estupendo, pues voy al final. Antes de llegar al final, se te cancelará el de tres minutos,…
+Jefe de estación PPV: No. Con la mercancía ya lo tengo ordenado. Ahí ya está, como y lo ininteligible lo tengo 
+en orden.
+Guardabarrera de la obra: Perfecto, pues yo voy al final. Antes de llegar al final, se te cancelará el de tres minutos,…
 Jefe de estación PPV: Sí.
-Guardabarreras de la obra: …colócalo ahí, yo me subo a la pr*** (vulgarismo) y lo maniobramos hacia atrás, para que, para que pueda volver a salir a través de la estación, ¿vale?
-Jefe de estación PPV: Ahora [ilegible: nesrozumitelné] la mercancía, ¿vale?
-Guardabarreras de la obra: Vale.
-Jefe de estación PPV: Pero a mí no me deja colocar hacia Roztoky, es decir, hacia, hacia Libčice.
-Guardabarreras de la obra: Eee, yo no necesito colocar hacia Libčice, yo necesito colocar hacia Praga, hacia la primera.
-Jefe de estación PPV: Vale, tú quieres hacia Praga y retroceder con él un poco, vale, y él saldrá.
-Guardabarreras de la obra: Así. Necesito retroceder con la mercancía para que salga a través de la estación.
-Jefe de estación PPV: Vale.
-Guardabarreras de la obra: Si no, has terminado tu turno.
-Jefe de estación PPV: Pues, yo. De todas formas tendrá que detenerse allí, ¿no? Yo no me muevo con él más allá.
-Guardabarreras de la obra: ¿Y por qué, y por qué debería detenerse aquí?
-Jefe de estación PPV: Yo no lo coloco a través de la estación. … Cuando tengo, cuando tengo ocupada la aguja delante de él en Roztoky en la cabecera de Kralupy, que necesito girar para que él pueda ir a Kralupy.
-Guardabarreras de la obra: Por favor, yo te retrocedo con la mercancía hasta la estación y tú luego solo le colocas la salida.
-Jefe de estación PPV: Pero…
-Voz de fondo de la llamada: …él seguro que lo ha pasado…
-Jefe de estación PPV: Pero, pero yo tengo la mercancía en la estaci- Ah, así, tú estás detrás de él, claro, pues, ya lo entiendo.
-Guardabarreras de la obra: Pues.
+Guardabarrera de la obra: ...colócalo ahí, yo me subo a la pr***(vulgarismo) y lo hacemos retroceder, para que, para que pueda 
+arrancar de nuevo a través de la estación, ¿vale?
+Jefe de estación PPV: Ahora ininteligible la mercancía, ¿vale?
+Guardabarrera de la obra: Sí.
+Jefe de estación PPV: Pero no puedo colocarlo en Roztok, es decir, en, en Libčice.
+Guardabarrera de la obra: Eee, no necesito colocarlo en Libčice, necesito colocarlo en Praga, en el primero.
+Jefe de estación PPV: Sí, quieres ir a Praga y retroceder con él un poco, sí, y él arrancará.
+Guardabarrera de la obra: Así. Necesito hacer retroceder la mercancía para que arranque a través de la estación.
+Jefe de estación PPV: Sí.
+Guardabarrera de la obra: Si no, has terminado de conducir.
+Jefe de estación PPV: Bueno, yo. De todas formas tendrá que detenerse ahí, ¿verdad? No lo moveré más allá con él.
+Guardabarrera de la obra: ¿Y por qué, y por qué debería detenerse aquí?
+Jefe de estación PPV: No lo puedo colocar a través de la estación. … Cuando tengo, cuando tengo ocupada la aguja delante de él 
+en Roztoky en el extremo de Kralupy, que necesito girar para que él pueda ir a Kralupy.
+Guardabarrera de la obra: Por favor, yo con la mercancía lo hago retroceder hasta la estación y tú luego solo le colocas la salida.
+Jefe de estación PPV: Pero...
+Voz de fondo de la conversación: ...él seguramente lo pasó…
+Jefe de estación PPV: Pero, pero yo tengo la mercancía en la estaci- Ah así, tú estás detrás de eso, claro, bueno, ya lo entiendo.
+Guardabarrera de la obra: Bueno.
 Jefe de estación PPV: Ya está bien, ya estoy en casa.
-Guardabarreras de la obra: Pues, pues. Genial.
+Guardabarrera de la obra: Bueno, bueno. Bien.
 Jefe de estación PPV: Pues vale.
-Guardabarreras de la obra: Pues voy a la pr*** (vulgarismo).
+Guardabarrera de la obra: Pues yo voy a la pr***(vulgarismo).
 Jefe de estación PPV: Claro.
-Guardabarreras de la obra: Tú mientras tanto cancela eso y colócamelo hacia Praga para que tenga dónde retroceder.
-Jefe de estación PPV: Claro, te lo coloco hacia Praga para que tengas dónde retroceder. Genial.
-Guardabarreras de la obra: ¿Vale?
+Guardabarrera de la obra: Tú mientras tanto cancela eso y colócamelo en Praga para que tenga dónde retroceder.
+Jefe de estación PPV: Claro, te lo coloco en Praga para que tengas dónde retroceder. Bien.
+Guardabarrera de la obra: ¿Sí?
 Jefe de estación PPV: Pues vale.
-Guardabarreras de la obra: Luego nos pondremos de acuerdo, luego nos pondremos de acuerdo cuando ya tengas de nuevo colocada la salida hacia Kralupy, yo le hago la señal aquí, ¿vale?
-Jefe de estación PPV: Vale, de acuerdo, pactado.
-Guardabarreras de la obra: Genial, pues vale.
-
+Guardabarrera de la obra: Luego nos pondremos de acuerdo, luego nos pondremos de acuerdo cuando ya tengas colocada de nuevo la salida a Kralupy, 
+yo le hago la señal aquí, ¿vale?
+Jefe de estación PPV: Sí, de acuerdo, pactado.
+Guardabarrera de la obra: Bien, así está.
 
 ## Página 30
+
 
 Archivo: 2021_05_06_12-40-07_2.28_1073_LABEL_KRALPNV_DT_PPV.mp3
 Inicio de la llamada: 6. 5. 2021, 12:40:07 h
@@ -1071,8 +1087,8 @@ Guardabarreras de la obra: Pues, estoy aquí, ¿qué querías?
 Jefe de estación PPV: Pues mira, no vamos a retroceder con eso, como. Si eso ha pasado la señal, pues no vamos a retroceder hacia atrás con eso.
 Guardabarreras de la obra: Pero él no ha pasado la señal, a él le ha saltado.
 
-
 ## Página 31
+
 
 Jefe de estación PPV: ¿Qué le ha saltado?
 Guardabarreras de la obra: Pues Mirel, ¿no?
@@ -1112,41 +1128,41 @@ Guardabarreras de la obra: Pues. Pues, pues. Él simplemente no se dio cuenta. �
 ## Página 32
 
 Jefe de estación PPV: Hmm.
-Guardabarreras de la obra: ...no. Así que ee, como supongo, esperamos al informe de accidente y no vamos a circular en absoluto.
-Jefe de estación PPV: No, claro, así está acordado, no.
-Guardabarreras de la obra: No, eso, eso es mejor para nosotros, porque yo tengo la emháesu en el otro lado de la estación y a mí me está parado en el paso a nivel, ¿verdad?
+Guardabarreras de la obra: ...no. Así que ee, como supongo, esperamos al equipo de accidentes y no vamos a circular en absoluto.
+Jefe de estación PPV: No, claro, así queda acordado, no.
+Guardabarreras de la obra: No, eso, eso es mejor para nosotros, porque yo tengo un mhés al otro lado de la estación y a mí me está parado en el paso a nivel, ¿verdad?
 Jefe de estación PPV: Sí. También bien.
 Guardabarreras de la obra: Y aquí están paradas unas furgonetas, v***(vulgarismo), para la carga, no tienen cargadores.
-Jefe de estación PPV: Ya. Yo detrás tengo un tren rápido. Ese lo voy a retirar probablemente a Libčic, no. En un rato.
-Guardabarreras de la obra: Hmm. Uno mejor que el otro.
+Jefe de estación PPV: Ya. Detrás de él tengo un tren rápido. Ese lo voy a retirar probablemente hasta Libčice, no. En un momento.
+Guardabarreras de la obra: Hmm. Uno peor que el otro.
 Jefe de estación PPV: Claro.
-Guardabarreras de la obra: Y el tren de pasajeros de enfrente no ha pasado, desde Kralup.
-Jefe de estación PPV: No, ese precisamente, a ese le quitó la señal. Solo que si hubiera sido veinte segundos más tarde, entonces, entonces habría pasado normalmente la entrada y no habría pasado nada, ¿verdad? En el fondo.
+Guardabarreras de la obra: Y el de pasajeros de enfrente no pasó, desde Kralup.
+Jefe de estación PPV: No, ese justamente, a ese le quitó la señal. Solo que si hubiera sido veinte segundos más tarde, habría, habría pasado normalmente la entrada y no habría pasado nada, ¿verdad? En esencia.
 Guardabarreras de la obra: Sí, así está parado, así está parado en la entrada.
-Jefe de estación PPV: Así está él parado en la entrada, ¿verdad?, detrás, detrás de la señal y…
-Guardabarreras de la obra: Hmm. Pues entonces nos tomamos dos horitas un cafecito, no.
+Jefe de estación PPV: Así está parado en la entrada, ¿verdad?, detrás, detrás de la señal y…
+Guardabarreras de la obra: Hmm. Pues nos tomaremos dos horitas un cafecito, no.
 Jefe de estación PPV: No, claro, no.
 Guardabarreras de la obra: Hmm.
 Jefe de estación PPV: Hmm.
-Guardabarreras de la obra: Pues vale, pues cuídate. Chao.
+Guardabarreras de la obra: Pues vale, que te vaya bien. Chao.
 Jefe de estación PPV: Hasta luego. Chao.
 Archivo: 2021_05_06_12-53-30_2.28_1073_LABEL_KRALPNV_DT_PPV.mp3
-Inicio de la llamada: 6. 5. 2021, 12:53:30 h
+Inicio de la conversación: 6. 5. 2021, 12:53:30 h
 Contenido de la transcripción: grabación completa
 Jefe de estación PPV: Kralupy, de guardia.
-Despachante de la vía de tráfico ferroviario: D de v de c apellido, CDP Praga, hola. ¿Lo has visto en esas cámaras?
+Jefe de tráfico de la vía ferroviaria: J d c apellido, CDP Praga, hola. ¿Lo has visto en esas cámaras?
 Jefe de estación PPV: No lo he visto.
-Despachante de la vía de tráfico ferroviario: ¿No lo has visto? Esa carga te ha pasado la señal.
+Jefe de tráfico de la vía ferroviaria: ¿No lo has visto? Esa carga te ha pasado la señal.
 Jefe de estación PPV: No, esa carga, eso ya lo sé, no.
-Despachante de la vía de tráfico ferroviario: No, pues, pues habrá que investigarlo de todas formas. Así que…
-Jefe de estación PPV: Habrá, no. Ya lo estoy resolviendo.
-Despachante de la vía de tráfico ferroviario: Bien, bien. Pues vale, mira.
+Jefe de tráfico de la vía ferroviaria: No, pues, pues habrá que investigarlo de todas formas. Así que…
+Jefe de estación PPV: Sí, no. Ya lo estoy gestionando.
+Jefe de tráfico de la vía ferroviaria: Bien, bien. Pues vale, oye.
 Jefe de estación PPV: Hmm.
-Despachante de la vía de tráfico ferroviario: Pues no te voy a molestar. Hasta luego, adiós.
+Jefe de tráfico de la vía ferroviaria: Pues no te voy a molestar. Hasta luego, adiós.
 Jefe de estación PPV: Adiós.
 
-
 ## Página 33
+
 
 ### 3.2 Descripción fáctica del suceso
 ### 3.2.1 Secuencia de hechos que condujeron al suceso extraordinario
@@ -1184,38 +1200,37 @@ Alrededor de la señal con la señal Alto pasó el tren Os 9629 frenando a una v
 •
 y a 18 m detrás de esta señal a las 12:35:26 h se detuvo.
 
-
 ## Página 34
 
-### 3.2.2 Secuencia de hechos desde la aparición del suceso extraordinario hasta la finalización de las acciones de los servicios de rescate
+### 3.2.2 Secuencia de hechos desde la aparición del suceso excepcional hasta la finalización de las acciones de los servicios de rescate
 •
-12:35 h aparición del MU (circulación no autorizada del tren Nex 47342 alrededor de la señal L1 con la señal Alto y entrada en la vía de tren dispuesta para el tren Os 9629);
+12:35 h aparición del SE (circulación no autorizada del tren Nex 47342 más allá de la señal L1 con indicación de Detener y entrada en la vía de tren establecida para el tren Os 9629);
 •
-12:35 h el maquinista del tren Os 9629 contactó con el jefe de estación PPV de Kralupy nad Vltavou, informándole de que en la señal de entrada a la est. Roztoky u Prahy había registrado un cambio repentino de la indicación de la señal; el jefe de estación recibió la información y comunicó que contactaría con el personal de la administración de la técnica de telecomunicaciones y de seguridad;
+12:35 h el maquinista del tren Os 9629 contactó con el jefe de estación de PPV Kralupy nad Vltavou para informarle de que en la señal de entrada a la estación de Roztoky y Praga había registrado un cambio repentino de la indicación de la señal; el jefe de estación recibió la información y comunicó que contactaría con el personal del servicio de telecomunicaciones y de seguridad;
 •
-12:36 h el jefe de estación PPV de Kralupy nad Vltavou contactó con el Despachante de la vía de tráfico ferroviario y le transmitió la información de que el tren Os 9629 había pasado alrededor de la señal 1S, en la que se había producido un cambio repentino de la indicación de la señal a la señal Alto; asimismo comunicó que el tren Os 9629 «va a la estación», lo cual sin embargo no era cierto;
+12:36 h el jefe de estación de PPV Kralupy nad Vltavou contactó con el Despachante de la vía de tráfico ferroviario y le trasladó la información de que el tren Os 9629 había pasado más allá de la señal 1S, en la que se había producido un cambio repentino de la indicación de la señal a Detener; asimismo, comunicó que el tren Os 9629 «va a la estación», lo cual no era cierto;
 •
-12:37 h el guardabarreras de la obra contactó con el jefe de estación PPV de Kralupy nad Vltavou, informándole de que al tren Nex 47342 le había actuado el freno automático de tren y se había detenido de manera que no podía atravesar el tramo sin tensión; asimismo instruyó al jefe de estación PPV para que estuviera preparado a maniobrar con este tren en dirección inversa, de modo que el tren pudiera arrancar en una distancia mayor y así atravesar el tramo sin tensión. El jefe de estación respondió que de todos modos no podía establecer la vía de tren de salida, porque tenía ocupada la aguja delante del tren Nex 47342; sin embargo, no rechazó la maniobra, e incluso aceptó establecer la vía de maniobra en el extremo opuesto, y así el guardabarreras de la obra se dirigió al final del tren;
+12:37 h el encargado de barreras de la obra contactó con el jefe de estación de PPV Kralupy nad Vltavou informándole de que al tren Nex 47342 le había actuado el freno automático de tren y se había detenido de manera que no podía pasar por la sección sin tensión; además, instruyó al jefe de estación de PPV para que estuviera preparado a maniobrar con dicho tren en dirección de retorno, de modo que el tren pudiera tomar velocidad en una mayor distancia y así pasar por la sección sin tensión. El jefe de estación respondió que en cualquier caso no podía establecer la vía de tren de salida, porque tenía ocupada la aguja delante del tren Nex 47342; sin embargo, no rechazó la maniobra, e incluso accedió a establecer la vía de maniobra en el extremo opuesto, por lo que el encargado de barreras de la obra se dirigió hacia la cola del tren;
 •
-12:40 h el jefe de estación PPV de Kralupy nad Vltavou contactó con el supervisor, al que comunicó que en la est. Roztoky u Prahy se había producido, con el tren Nex 47342, una circulación más allá de la señal con la señal Alto (por primera vez es evidente que se dio cuenta de lo que había ocurrido) y que «el de la estación» (en realidad el guardabarreras de la obra) «quiere retroceder con eso»;
+12:40 h el jefe de estación de PPV Kralupy nad Vltavou contactó con el supervisor, al que comunicó que en la estación de Roztoky de Praga se había producido, en el tren Nex 47342, una circulación más allá de la señal con indicación de Detener (por primera vez se aprecia que se dio cuenta de lo ocurrido) y que «el de la estación» (en realidad, el encargado de barreras de la obra) «quiere retroceder con él»;
 •
-12:43 h el jefe de estación PPV de Kralupy nad Vltavou contactó con el guardabarreras, informándole de que no se iba a maniobrar con el tren Nex 47342, porque había pasado alrededor de la señal con la señal Alto, con lo que se había producido la aparición del suceso extraordinario;
+12:43 h el jefe de estación de PPV Kralupy nad Vltavou contactó con el encargado de barreras comunicándole que no se realizaría ninguna maniobra con el tren Nex 47342, porque había pasado más allá de la señal con indicación de Detener, con lo que se había producido la aparición del SE;
 •
-12:59 h el maquinista del tren Nex 47342 comunicó la aparición del MU al despachante PCI;
+12:59 h el maquinista del tren Nex 47342 comunicó la aparición del SE al despachante de PCI;
 •
-13:08 h la persona autorizada O18 SŽ comunicó la aparición del MU al COP DI como circulación no autorizada del tren Nex 47342 más allá de la señal L1 en posición que prohíbe la circulación, sin información sobre la invasión de la vía de tren dispuesta para el tren Os 9629;
+13:08 h la persona autorizada O18 SŽ comunicó la aparición del SE a COP DI como circulación no autorizada del tren Nex 47342 más allá de la señal L1 en posición de prohibición de circulación, sin información sobre la invasión de la vía de tren establecida para el tren Os 9629;
 •
-13:26 h la persona autorizada O18 SŽ comunicó al COP DI información complementaria, a saber, que como consecuencia de la aparición del MU se había producido la invasión de la vía de tren para el tren Os 9629;
+13:26 h la persona autorizada O18 SŽ comunicó a COP DI información adicional sobre el hecho de que, como consecuencia de la aparición del SE, se había producido la invasión de la vía de tren para el tren Os 9629;
 •
-14:15 h inspección del lugar de aparición del MU por parte del personal de DI;
+14:15 h inspección del lugar de aparición del SE por parte de empleados de DI;
 •
-14:35 h el inspector de DI presente dio su consentimiento para la liberación de la vía;
+14:35 h el inspector de DI presente dio su autorización para la liberación de la vía;
 •
 14:49 h restablecimiento de la circulación.
-El Plan IZS no fue activado dada la naturaleza del MU.
-
+El plan de IZS no fue activado dada la naturaleza del SE.
 
 ## Página 35
+
 
 ### 4 ANÁLISIS DEL SUCESO
 ### 4.1 Tareas y obligaciones
@@ -1228,6 +1243,7 @@ Antes de llegar a la est. Roztoky u Prahy, el maquinista del tren Nex 47342, deb
 Del registro del velocímetro de la cabina de conducción del tren Nex 47342 (véase el capítulo 3.1.7 de esta ZZ) se desprende que a las 12:34:58 h, tras la confirmación de vigilia por el maquinista, se encendió la luz azul de VZ (comenzó el ciclo determinado de operación del botón de vigilia). A las 12:35:01 h y a 130 metros antes de la señal L1, el maquinista conmutó el freno automático de tren Mirel al modo manual. 4 segundos después, es decir, a las 12:35:05 h, el maquinista aplicó a una distancia de 80 metros antes de la señal L1, a una velocidad de 45 km·h-1, el frenado de servicio. A las 12:35:06 h se solicitó al maquinista que confirmara la vigilia en VZ Mirel. A las 12:35:08 h se registró una velocidad de 46 km·h-1, a continuación se produjo la actuación del freno y el descenso gradual de la velocidad. A las 12:35:10 h expiró el plazo de 3,5 s para confirmar la vigilia en VZ Mirel, lo que el maquinista no hizo, y por lo tanto VZ aplicó el frenado de emergencia. Un segundo después se produjo la aparición del MU, cuando el tren Nex 47342 pasó alrededor de la señal de salida L1 con la señal Alto. A las 12:35:20 h se registró la detención del tren
 
 ## Página 36
+
 
 a una distancia de 50 m tras la señal L1. El tren se detuvo en el espacio de la aguja n.º 11, que en ese momento estaba dispuesta y asegurada en la vía de entrada de tren para el tren Os 9629. La actuación de los empleados implicados antes y después de la aparición del MU se analiza detalladamente desde el punto de vista del factor humano en el capítulo 4.3.1 de esta ZZ.
 ### Hallazgos:
@@ -1261,8 +1277,8 @@ art. 2954 de la normativa SŽDC D1:
 art. 3925 de la normativa SŽDC D1:
 "En la estación, durante la salida y el paso del tren, el maquinista observa desde la cabina de mando de la locomotora de tracción si las señales correspondientes permiten su circulación y si la vía de salida está libre.";
 
-
 ## Página 37
+
 
 •
 art. 145 letra d) de la normativa Vp22:
@@ -1276,8 +1292,8 @@ El MV de mando del tren Os 9629 (coche de mando 94 54 1 971 029-4), o bien la LM
 El MV de mando del tren Nex 47342, LMT 91 80 6 189 840-2, no estaba equipado con medios técnicos para la ejecución de la parada automática basada en la orden de la parte terrestre del equipo de radio de tren GSM-R, ni siquiera con TRS.
 Además, se constató que el transportista PCI no cumplió el artículo n.º 20.2 de la normativa SŽ Is10, que establece la obligación del transportista de incluir en el mensaje "Tren preparado" la comunicación básica y la de emergencia de acuerdo con la directriz SŽDC n.º 35. En el tren Nex 47342 solo se indicó la comunicación de emergencia, aunque la LMT tenía una comunicación de radio básica funcional en la red GSM-R. Esta deficiencia, según
 
-
 ## Página 38
+
 
 la comunicación de PCI, se debió a la omisión de un empleado de la central de PCI. Los posibles riesgos de seguridad derivados de la omisión de la comunicación básica en el mensaje "Tren preparado" fueron analizados por la Inspección Ferroviaria en la ZZ Circulación no asegurada de la composición desde el tren Slu 59787 hasta el tramo entre estaciones Děčín
  - Prostřední Žleb – Děčín východ, ámbito de la estación inferior, con la consiguiente colisión con
@@ -1301,8 +1317,8 @@ En la investigación no se constató infracción de las funciones y obligaciones
 ### 4.1.4 Autoridades nacionales de seguridad y Agencia de la Unión Europea para los Ferrocarriles
 La autoridad nacional de seguridad es la Oficina Ferroviaria, que de acuerdo con la Ley n.º 266/1994 Sb. es la autoridad administrativa dependiente del Ministerio de Transportes. Su función es, en particular, el ejercicio de la supervisión estatal en materia de infraestructuras ferroviarias y en materia de autoridad de construcción, el ejercicio de la autoridad de construcción especial para obras de la infraestructura y obras en la infraestructura, la aprobación de material rodante ferroviario nuevo y modernizado y de equipos técnicos designados, y la tramitación de infracciones. La Oficina Ferroviaria tiene la obligación de comunicar a la Inspección Ferroviaria, en un plazo de 12 meses desde la fecha de publicación del informe final que contenga las recomendaciones de seguridad dirigidas a la misma,
 
-
 ## Página 39
+
 
 qué medida ha adoptado en relación con esta recomendación de seguridad, realizando esta comunicación de forma regular, al menos una vez al año, hasta la adopción de las medidas correspondientes.
 La función de la Agencia de la Unión Europea para los Ferrocarriles es, además de garantizar, en el marco de sus competencias, que se mantenga y, si es posible, se aumente de forma sistemática la seguridad de los ferrocarriles, entre otras, la emisión, renovación, suspensión y modificación de certificados únicos de seguridad, la limitación de su validez o su anulación, en cuestión en la que coopera con las autoridades nacionales de seguridad; además, emite autorizaciones para la comercialización de material rodante ferroviario y de tipos de material rodante y está facultada para renovar, modificar, suspender o anular las autorizaciones que haya emitido. La Agencia evalúa asimismo los proyectos de normativa nacional, etc.
@@ -1323,6 +1339,7 @@ En la investigación no se constataron factores relacionados con los fabricantes
 
 ## Página 40
 
+
 ### 4.2.4 Factores o consecuencias derivados del mantenimiento y la modificación de vehículos ferroviarios o instalaciones técnicas
 En la investigación no se detectaron factores derivados del mantenimiento y la modificación de vehículos ferroviarios o instalaciones técnicas.
 ### 4.2.5 Factores o consecuencias relacionados con el sujeto responsable del mantenimiento de vehículos ferroviarios, los talleres de mantenimiento y otros proveedores de servicios de mantenimiento
@@ -1340,8 +1357,8 @@ Supervisor de explotación: «...el estacionario en Roztoky es como, ¿qué func
 Jefe de estación de PPV: «No sé, me llamó de allí diciendo que, que hay alguien allí.»
 El guardabarreras actuaba en las conversaciones con solvencia y determinación, porque conocía muy bien las circunstancias locales. En su empleo principal trabajaba como despachante de línea en CDP Praha y tenía experiencia del reciente atasco de un tren en un tramo sin tensión en la cabecera de la estación de Roztoky u Prahy. La impresión de que se trataba del jefe de estación de Roztoky u Prahy la adquirió también el maquinista del tren Nex 47342, que en su declaración explicó que se le acercó el jefe de estación que vigilaba dicho paso a nivel provisional y le preguntó qué había ocurrido.
 
-
 ## Página 41
+
 
 ### Suposición errónea del maquinista del tren Nex 47342 con respecto a la interrupción de tensión
 El maquinista del tren Nex 47342, sobre su actuación antes de la aparición del suceso anormal, indicó que aplazaba la frenada hasta el último momento, porque justo detrás de la señal de salida había un tramo sin tensión que probablemente no habría atravesado si se hubiera detenido en la señal de salida. El maquinista confirmó también que percibió la señal de Detener en la señal de salida L1, cuando indicó que el motivo de aplazar la frenada para él era también la expectativa de cambio de dicha señal. Por muy consistentes que sean las declaraciones repetidas del maquinista sobre la situación anterior a la aparición del citado suceso anormal, en base al registro del velocímetro y a las declaraciones de los testigos puede ponerse en duda que fuera consciente, durante todo el trayecto por la 1.ª vía principal, de que circulaba contra una señal con la indicación de Detener. El registro del velocímetro arriba descrito indica que el maquinista inició la frenada de manera desproporcionadamente tardía (aproximadamente 5 s más allá del límite de la decisión más tardía posible, tiempo que se calcula a partir de la distancia de frenado real, en la que la detención del tren Nex 47342 contribuyó también la frenada de emergencia provocada por la no intervención del freno automático de tren). Dos testigos del suceso anormal describieron la situación en el momento de la aparición del SUA de manera distinta al maquinista. El jefe de tren, que compartía con él la cabecera delantera del tren, declaró que el maquinista inició la frenada únicamente tras su aviso y, justo después de detenerse, le dijo que había visto en la señal de salida la señal de Vía libre. El guardabarreras de la obra, que se comunicó con el maquinista tras la aparición del SUA, indicó que el maquinista no supo responderle claramente por qué se había detenido y que parecía inseguro. Palabras similares sobre el maquinista comunicó el guardabarreras también al jefe de estación de PPV a través de la comunicación grabada por radio: «...él pensó que le había saltado (nota DI: se había activado la frenada de emergencia del sistema VZ Mirel), porque él ni siquiera es consciente de que le hubiera caído la roja. ... Él simplemente no se dio cuenta. Se concentró en el desvío para pasarlo...» La afirmación del jefe de tren y del guardabarreras puede respaldarse también con el hecho de que el maquinista del tren Nex 47342 comunicó la aparición del SUA al despachante del operador PCI únicamente a las 12:59 h, es decir, 24 minutos después de su aparición y después de haber hablado de la aparición del SUA con el guardabarreras (véanse las declaraciones del guardabarreras y del jefe de tren en el capítulo 3.1.9 de esta ZZ). Los hechos descritos en este párrafo demuestran que la atención del maquinista estaba dispersa justo antes de la aparición del SUA y que el motivo del inicio tardío de la frenada no fue la intención por él mencionada de aplazar la frenada del tren «hasta el último momento,
@@ -1353,8 +1370,8 @@ Para el contexto del citado suceso anormal es también importante valorar las pa
 ### en la 1.ª vía principal habría complicado sin duda la explotación en la estación de Roztoky u Prahy, pero en ningún caso habría sido culpa del maquinista.
 El jefe de estación de PPV Kralupy nad Vltavou conocía las disposiciones del ROV 63066 relativas a los trenes de mercancías de tracción dependiente. En el acta con el empleado, redactada el día de la aparición del SUA (6. 5.
 
-
 ## Página 42
+
 
 2021), indicó, entre otras cosas, que contaba con que el tren Nex 47342 se detendría en la estación de Roztoky u Prahy. Sobre la longitud del tramo sin tensión, añadió que era consciente de que el tren Nex 47342 era ligero y corto. No obstante, con una longitud del tren citado de 424 m y una longitud de la 1.ª vía principal de 683 m, tras una eventual detención del tren Nex 47342 en la 1.ª vía principal no quedaban los 500 m requeridos por el ROV 63066 para la puesta en marcha. Además, el maquinista no recibió del jefe de estación de PPV ninguna instrucción sobre el lugar de detención (más allá del lugar habitual de detención). En su declaración ante el DI el 25. 5. 2021, donde fue confrontado directamente con las obligaciones establecidas por el ROV 63066, el jefe de estación de PPV Kralupy nad Vltavou adujo que, para el tren Nex 47342, no había garantizado el paso, porque, según sus propias palabras, pretendía su posterior circulación hasta la estación de Libčice nad Vltavou por la 1.ª vía principal, es decir, de modo que este tren no atravesara el tramo sin tensión en la cabecera de Kralupy de la estación de Roztoky u Prahy.
 La Inspección Ferroviaria, en relación con la declaración del jefe de estación de PPV Kralupy nad Vltavou del 25. 5. 2021, verificó la posibilidad de circulación del tren implicado Nex 47342 hasta la estación de Libčice nad Vltavou por la 1.ª vía principal (en sentido contrario al correcto). Se constató que el jefe de estación de PPV Kralupy nad Vltavou asumió la dirección de una parte de la línea entre la estación de Praha-Holešovice y la estación de Libčice nad Vltavou a las 11:53 h. Hasta la aparición del citado SUA, ningún tren circuló de la estación de Roztoky u Prahy a la estación de Libčice nad Vltavou por la 1.ª vía principal. En la estación de Libčice nad Vltavou, en la señal de salida S1, ya desde la entrega a PPV desde CDP, estaba configurada la función de Ruta de tren con establecimiento automático. El jefe de estación de PPV Kralupy nad Vltavou restableció esta función también tras el adelantamiento del tren Os 9629 por el tren R 609. Tras la salida del tren Os 9629 por la 1.ª vía principal en dirección a la estación de Roztoky u Prahy, se estableció a las 12:29:44 h la ruta de tren desde la señal S1 hacia la 1.ª vía principal (mediante el uso repetido de la función de Ruta de tren con establecimiento automático en la señal S1), y a las 12:33:57 h se introdujo en el JOP el número de tren R 683 correspondiente a la ruta de tren citada. La aparición del SUA se produjo más tarde, a las 12:35 h. El primer registro de ReDat del que se deduce que el jefe de estación de PPV Kralupy nad Vltavou se percató de que se había producido una circulación no autorizada del tren Nex 47342 fue la conversación con el supervisor de explotación a las 12:40 h. En la conversación con el guardabarreras que comenzó a las 12:37 h, el jefe de estación de PPV aún no era consciente del paso de la señal por el tren Nex 47342. A las 12:47:53 h, el tren R 683 pasó por la estación de Libčice nad Vltavou. Para él se había establecido en la señal de salida S1 la señal de Vía libre. Puede suponerse que en ese momento el jefe de estación de PPV Kralupy nad Vltavou estaba resolviendo las consecuencias de la aparición del SUA; sin embargo, del análisis de la situación operativa en la estación de Libčice nad Vltavou puede descartarse que el tren Nex 47342 hubiera abandonado la estación de Roztoky u Prahy en sentido contrario
@@ -1363,6 +1380,7 @@ Además, se constató en el archivo de SZZ en la estación de Roztoky u Prahy qu
 La argumentación del jefe de estación de PPV de que pretendía la circulación del tren Nex 47342 hasta la estación de Libčice nad Vltavou por la 1.ª vía principal es considerada por la Inspección Ferroviaria, por los motivos arriba mencionados, como poco fiable. El procedimiento del jefe de estación de PPV, por el que no se garantizó al tren Nex 47342 el paso por la estación de Roztoky u Prahy, puede valorarse como inadecuado, pero no puede considerarse como no conforme con el ROV, porque el caso en el que es posible que un tren de tracción dependiente circule por una vía estacional sin restricción
 
 ## Página 43
+
 
 detener, existe, y precisamente en el caso de la circulación posterior del tren en sentido contrario por
 1. TK hasta la est. Libčice nad Vltavou.
@@ -1375,13 +1393,14 @@ Del registro de ReDat, cuando el despachador de la vía de tráfico ferroviario 
 
 ## Página 44
 
+
 El jefe de estación PPV tardó mucho en tener una visión de la gravedad de la situación. No sabía, en efecto, si el tren Nex 47342 estaba tras el tope de la aguja n.º 11. En la conversación que comenzó a las 12:43:28 h, dijo al guardabarreras: «Mira, tuvo que pasar un poco, probablemente, probablemente no entró en la aguja, en la, en la once.» El jefe de estación valoraba esto aparentemente solo por el hecho de que no se hubiera producido la bifurcación de la aguja correspondiente, como se deduce ya de la conversación con el supervisor, que comenzó a las 12:40:07 h. La incorrecta evaluación de la situación por parte del jefe de estación PPV desde el punto de vista de la invasión física de la vía de circulación del tren Os 9629 también la atestigua su afirmación en la conversación posterior con el guardabarreras, que tuvo lugar desde las 12:50:41 h. Después de que el guardabarreras informara al jefe de estación de las consecuencias de la situación excepcional, incluida la información de que el tren Nex 47342 estaba tras el tope, el jefe de estación PPV dijo al guardabarreras, respecto al tren Os 9629, una especulación incorrecta: «Solo que si hubiera sido veinte segundos más tarde, entonces, entonces habría pasado normalmente la entrada y no habría ocurrido nada, ¿verdad, en el fondo.» Sin embargo, en el caso de que el tren Os 9629 hubiera pasado junto a la señal de entrada con una indicación que permitiera la circulación, la probabilidad de colisión entre trenes habría sido, por el contrario, bastante mayor.
 De forma similar a lo ocurrido en la situación excepcional Circulación no autorizada de la composición del tren Os 8856 con la posterior colisión con el tren R 989 y el descarrilamiento en la estación de ferrocarril Praha-Běchovice, o en la ya mencionada situación excepcional Circulación no asegurada de la composición del tren Služ 59787 en el tramo intermedio Děčín - Prostřední Žleb – Děčín východ, barrio de la estación inferior, con la posterior colisión con el tren Lv 73839 y el descarrilamiento, en la actuación del jefe de estación PPV implicado, que reflejaba su incomprensión de la situación en el lugar de la UE, es posible apreciar una insuficiente observación del esquema JOP, o bien la no deducción de la situación en la vía a partir de sus indicaciones.
 En la explotación, por supuesto, también se producen averías y fallos de los circuitos de vía y de los contadores de ejes, que se manifiestan de forma segura mediante la indicación de ocupación de la sección de vía. Sin embargo, en la situación en la que un tren se aproximaba a la señal de salida L1, el jefe de estación debía proceder en el sentido del art. 353 del anexo 1 de la norma SŽDC (ČD) Z1 y, al mismo tiempo, en el sentido del art. 264 de la norma SŽDC D1, y asumir de inmediato la ocupación de la sección de vía tras dicha señal por una circulación no autorizada, y no por una avería o un fallo. En la situación dada, el jefe de estación tampoco aprovechó suficientemente la posibilidad de averiguar la situación a los empleados en el lugar de la UE. Por ejemplo, el jefe de estación PPV no se puso en contacto en absoluto con el maquinista del tren Nex 47342. Es cierto que la obligación de ponerse en contacto con el jefe de estación y de comunicar la creación de la situación excepcional correspondía al maquinista del tren Nex 47342. Dicho maquinista, sin embargo, estaba inseguro después de la situación excepcional, según los testigos. Como se menciona más arriba, este maquinista comunicó la creación de la UE al centro de despacho del transportista PCI con retraso. Al mismo tiempo, evaluó que el guardabarreras de la obra en la est. Roztoky u Prahy era un empleado de Správy železnic (al prestar declaración, lo identificó como jefe de estación) y que, con la conversación con él, cumplía la obligación de notificación hacia el operador de la vía. Dada la actuación del guardabarreras, que recogen los registros de ReDat, este error del maquinista es comprensible.
 Los problemas para comprender la situación en la vía a partir de la información proporcionada por el JOP también aparecieron en el caso de la situación excepcional Circulación no autorizada de la unidad de maniobras más allá del nivel de la señal Se2 en posición que prohíbe la circulación y la posterior entrada en la vía de circulación establecida para el tren Os 8617 en la estación de ferrocarril Praha Masarykovo nádraží, y pueden deducirse también en la situación excepcional Circulación no autorizada del tren Ex 350 más allá del nivel de la señal principal (de salida) L2 con la indicación «Parada» y la entrada en la vía de circulación establecida para el tren Os 17816 en la estación de ferrocarril Ejpovice. En Ejpovice, de forma similar a este caso, no se produjo la bifurcación de la primera aguja tras la señal pasada, y por tanto, al ocuparse la sección de vía de esta aguja, se produjo un coloreado en rojo de la rama de la aguja en el sentido en el que la aguja estaba originalmente establecida, y no de la rama de la aguja justo tras la señal pasada. Esto es, sin embargo, en general (independientemente del tipo de dispositivo para la detección de la libertad de la sección de vía) una actividad normal del tipo de SZZ correspondiente; en el caso de la detección de la libertad de la sección de vía mediante circuitos de vía (p. ej. en la est. Roztoky
 
-
 ## Página 45
+
 
 u Prahy en el momento de la creación de la UE), ni siquiera es técnicamente posible evaluar desde qué sentido se había ocupado la sección de vía; por el contrario, en la detección de la libertad de la sección de vía mediante contadores de ejes, esto sí es posible evaluar.
 El jefe de estación PPV no se orientó en la situación planteada, a pesar de tener una experiencia relativamente larga (examen D-07 superado el 29. 11. 2013, examen D-08 superado el 6. 1. 2014, el examen de aptitud práctica para el jefe de estación PPV de Kralupy nad Vltavou, aunque solo se superó el 28. 1. 2021, pero con experiencia previa en SZZ de categoría 3 según TNŽ 34 2620). Además, el jefe de estación PPV pudo observar este estado sin cambios durante un largo periodo, ya que ambos trenes se detuvieron de tal manera que entre ellos había también secciones de vía libres. Aunque la reacción de los empleados en situaciones excepcionales está determinada en cierta medida también por sus características individuales, una formación y educación de calidad puede, sin duda, acortar sus tiempos de reacción en estas situaciones. Por ello, la Inspección Ferroviaria emite una recomendación de seguridad a la Autoridad Ferroviaria para que garantice, en el marco de la formación periódica de las personas que dirigen el tráfico ferroviario, en los operadores de vías férreas de categoría nacional y regional, la creación y puesta en marcha de un sistema de formación práctica, en el que, durante la dirección simulada del tráfico ferroviario, se provoquen situaciones de crisis, se exija su evaluación inmediata y correcta y, sobre esa base, se produzca posteriormente la reacción correspondiente (establecida por el operador de la vía) ante la amenaza inmediata para la explotación segura del tráfico ferroviario, con el fin de evitar la creación de UE o de reducir sus consecuencias.
@@ -1394,6 +1413,7 @@ En el periodo desde el 1. 5. 2020 hasta la creación de la UE, se realizaron un 
 En el pasado, el maquinista pasó de forma no autorizada dos veces junto a una señal con una indicación que prohíbe la circulación, en los años 2011 y 2016.
 
 ## Página 46
+
 
 En el año 2011, al pasar junto a la señal de sección So de la estación de Svádov en la 1. TK entre las estaciones de Velké Březno y Ústí nad Labem-Střekov, no reaccionó de ninguna manera y en el acta con el empleado indicó «No puedo recordar la señal en la señal de sección en Svádov» y «El incumplimiento se debió probablemente a la falta de atención».
 En el año 2016, al pasar junto a la señal de sección Lo de la estación de Kazín en la 2. TK entre las estaciones de Praha-Radostín y Dobřichovice, aunque ya en reacción a la señal Alto frenaba de forma rápida y eficaz, sin embargo, según el registro del velocímetro, tras pasar el preaviso de esta señal de sección, aún aceleraba ligeramente. En el acta con el empleado indicó que registró la señal Aviso en el preaviso de la señal de sección, además, debido a la temperatura más alta del refrigerante del motor, se giró para ver si se le habían abierto las persianas de refrigeración en la locomotora de la serie 741.5; cuando se giró hacia adelante de nuevo, vio a corta distancia la señal de sección con la señal Alto.
@@ -1411,8 +1431,8 @@ En el sistema de garantía de la seguridad adoptado por el gestor de la infraest
 ### 4.4.4 Sistema de gestión de los sujetos responsables del mantenimiento de los vehículos ferroviarios y de los talleres de mantenimiento
 El sistema de gestión de los sujetos responsables del mantenimiento de los vehículos ferroviarios y de los talleres de mantenimiento no guardaba relación con la aparición de la MU.
 
-
 ## Página 47
+
 
 ### 4.4.5 Resultados de la supervisión realizada por las autoridades nacionales de seguridad
 En relación con el suceso del accidente, la Inspección Ferroviaria solicitó a la Oficina Ferroviaria, como autoridad de seguridad competente, información sobre si y con qué resultado, antes de la aparición de la MU en cuestión (en el período del 15. 1. 2020 al 6. 5. 2021), a través de la supervisión estatal, comprobaba si los vehículos ferroviarios estaban equipados, en virtud del § 71 apart. 5 letra a) del decreto núm. 173/1995 Sb., con medios técnicos para la realización de la orden de parada automática del vehículo ferroviario en la red GSM-R.
@@ -1426,28 +1446,27 @@ De los sujetos restantes se ha verificado que solo disponen de vehículos remolc
 A los transportistas y titulares de vehículos que operan vehículos que no están equipados con un dispositivo que permita la parada automática al utilizar la función «Parada General» (en la red de radio GSM-R o TRS) se les ha requerido que informen de la forma en que garantizan el cumplimiento de la obligación impuesta según el § 71 apart. 5 letra a) del reglamento de circulación. Donde se detectó una relación poco clara de la «Parada General» con los sistemas de radio, se requirió a los sujetos que la precisaran con un plazo hasta el 31.03.2022. La evaluación final le será enviada antes del 30.04.2022.
 El 13.09.2021 se realizó la supervisión estatal al transportista Metrans a. s. en la locomotora eléctrica 383.403-3 estacionada. Desde la estación Praha-Uhříněves se activó la «Parada General» en la red TRS y GSM-R durante la parada de la locomotora, con la posterior actuación de la «Parada General» con la liberación de aire del tubo principal de freno.
 
-
 ## Página 48
 
-El 07.01.2022 se realizó la inspección de la locomotora 111.031-1 en la estación Praha hl.n. con la presencia de un trabajador del transportista České dráhy para probar la función de la «Parada General» en ambos sistemas integrados de la locomotora (TRS, GSM-R) con resultado satisfactorio.»
-La obligación de cumplir lo dispuesto en el § 71 apart. 5 letra a) del decreto núm. 173/1995 Sb. en la red de radio GSM-R no era aplicable desde la puesta en servicio de esta red en el territorio de la República Checa, ya que su parte de trayecto en el pasado no era capaz de emitir la orden de parada automática del vehículo ferroviario. Sin embargo, Správa železnic modificó posteriormente la parte de trayecto del dispositivo de modo que permite la emisión de dicha orden. Esto se produjo progresivamente en toda la red de Správa železnic. A partir del 15. 1. 2020 deja de ser aplicable la prórroga de la obligación derivada del § 71 apart. 5 letra a) del decreto núm. 173/1995 Sb. Esta prórroga fue permitida por un período de 5 años mediante una disposición transitoria de dicho decreto.
-Por parte de la Inspección Ferroviaria se constata de forma prolongada que los conductores de vehículos ferroviarios en las líneas operadas por Správa železnic no son capaces de realizar la orden de parada automática a través de la red GSM-R. Del mismo modo ocurrió en el caso de la menciónada incidencia extraordinaria (más información en el capítulo 4.1.1 de esta ZZ).
-### 4.4.6 Aprobaciones, certificados y evaluaciones emitidos por la agencia, las autoridades nacionales de seguridad u otros sujetos de evaluación de la conformidad
-El gestor de la infraestructura operaba la infraestructura en base a una autorización administrativa vigente y a un certificado de seguridad del gestor de la infraestructura. El transportista operaba el transporte ferroviario en base a una licencia vigente y a un certificado del transportista.
+El 07.01.2022 se realizó la inspección de la locomotora 111.031-1 en la estación Praha hl.n. en presencia de un trabajador del transportista České dráhy para la prueba de funcionamiento del «STOP General» en ambos sistemas integrados de la locomotora (TRS, GSM-R), con resultado satisfactorio.»
+La obligación de cumplir lo dispuesto en el § 71 apartado 5 letra a) del decreto nº 173/1995 Sb. en la red de radio GSM-R no era aplicable desde la puesta en servicio de dicha red en el territorio de la República Checa, ya que su parte de vía en el pasado no era capaz de emitir una orden de parada automática del vehículo ferroviario. No obstante, Správa železnic modificó posteriormente la parte de vía del dispositivo de modo que permite emitir dicha orden. Esto se produjo progresivamente en toda la red de Správa železnic. A partir del 15. 1. 2020, deja de ser aplicable la exención de la obligación derivada del § 71 apartado 5 letra a) del decreto nº 173/1995 Sb. Dicha exención se habilitó por un plazo de 5 años mediante una disposición transitoria de dicho decreto.
+La Drážní inspekce ha constatado de forma prolongada que los conductores de vehículos ferroviarios en las vías explotadas por Správa železnic no son capaces de ejecutar la orden de parada automática a través de la red GSM-R. Del mismo modo se constató en el caso de la excepción objeto de la presente investigación (más información en el capítulo 4.1.1 de la presente ZZ).
+### 4.4.6 Aprobaciones, certificados e informes de evaluación emitidos por la agencia, las autoridades nacionales de seguridad u otros organismos de evaluación de la conformidad
+El explotador de la vía explotaba la vía en virtud de una autorización administrativa vigente y de un certificado de seguridad del explotador de la vía. El transportista explotaba el transporte ferroviario en virtud de una licencia vigente y de un certificado del transportista.
 ### 4.4.7 Otros factores sistémicos
 En la investigación no se detectaron otros factores sistémicos.
 ### 4.5 Sucesos anteriores de naturaleza similar
-La Inspección Ferroviaria registra en el período del 1. 1. 2016 hasta la aparición de la MU en cuestión, en las líneas ferroviarias de categoría nacional y regional, un total de 498 MU, en las que un tren invadió indebidamente más allá del límite de la señal principal, que con la señal Alto prohibía la circulación del tren, sin que se produjera una colisión posterior ni un descarrilamiento.
+La Drážní inspekce registra en el período comprendido entre el 1. 1. 2016 y la fecha de ocurrencia de la excepción objeto de la presente investigación un total de 498 excepciones en las vías ferroviarias de categoría nacional y regional, en las que un tren invadió indebidamente más allá del límite de la señal principal que ordenaba la parada del tren con la señal «Stůj», sin que se produjera una colisión posterior ni un descarrilamiento.
 ### 5 CONCLUSIONES
 ### 5.1 Resumen del análisis y conclusiones relativas a las causas del suceso
-La causa inmediata de la incidencia extraordinaria fue:
+La causa inmediata de la excepción fue:
 •
-el incumplimiento de la señal Alto de la señal de salida L1 de la estación ferroviaria Roztoky u Prahy por parte del maquinista del tren Nex 47342 debido a su falta de atención y a su concentración en la conducción en un tramo sin tensión en lugar de observar la señal de la señal de salida.
-No fue detectado por la DI ningún factor contribuyente.
-No fue detectado por la DI ninguna causa sistémica.
-
+el incumplimiento de la señal «Stůj» de la señal de salida L1 de la estación ferroviaria Roztoky u Prahy por parte del conductor del tren Nex 47342 debido a su falta de atención y a su concentración en la circulación por el tramo sin tensión en lugar de observar la señal de la señal de salida.
+No se detectó ningún factor contribuyente por parte de la DI.
+No se detectó ninguna causa sistémica por parte de la DI.
 
 ## Página 49
+
 
 ### A summary of the analysis and conclusions with regard to the causes of the 
 occurrence
@@ -1481,6 +1500,7 @@ failure to equipment of the rolling stock with technical means for realizing the
 
 ## Página 50
 
+
 ### 6 RECOMENDACIONES DE SEGURIDAD
 La Inspección Ferroviaria, con base en lo dispuesto en el § 53e apartado 1 de la Ley núm. 266/1994 Sb., recomienda, en relación con la prevención de sucesos extraordinarios:
 A la Autoridad Ferroviaria:
@@ -1505,8 +1525,8 @@ Ing. Petr Mencl v. r.
 director de la Inspección Territorial de Bohemia
 * El Mgr. Štěpán Esterle participó en la elaboración del ZZ hasta el 28. 1. 2022
 
-
 ## Página 51
+
 
 ### ANEXOS
 Fig. núm. 2: Posición final del tren Nex 47342 en el espacio de la aguja núm. 11
@@ -1514,15 +1534,15 @@ Fig. núm. 2: Posición final del tren Nex 47342 en el espacio de la aguja núm.
 Fig. núm. 3: Posición final del tren Nex 47342 en el espacio de la aguja núm. 11
      Fuente: DI
 
-
 ## Página 52
+
 
 Fig. núm. 4: Aparato de señalización de salida L1 y tren Nex 47342
     Fuente: SŽ
 Fig. núm. 5: Posición final del tren Os 9629 tras el aparato de señalización de entrada 1S   Fuente: DI
 
-
 ## Página 53
+
 
 Fig. núm. 6: Situación en la est. Roztoky u Prahy tras la aparición del suceso extraordinario en la visualización del visor de archivos CAS
   Fuente: DI

@@ -12,8 +12,8 @@ tokens_in: 148443
 tokens_out: 101421
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-verificacion: revisar
-avisos: ["página 145: cifras largas: faltan 4/18 (22%)"]
+verificacion: ok
+notas_cifras: ["página 41: original bilingüe: se compara contra el idioma principal (FR)", "página 53: original bilingüe: se compara contra el idioma principal (ES)", "página 61: cifras largas: 1/15", "página 78: cifras cortas: 2/19", "página 90: cifras cortas: 1/32", "página 100: cifras cortas: 1/54"]
 ---
 
 ## Página 1
@@ -4284,56 +4284,46 @@ El material locomotora de tipo 62 fue modificado para el 30 de septiembre de 201
 
 ## Página 145
 
-### 5.4.2 Sensibilización en el marco de los pasillos de señales
-
-La sensibilización en el marco de los pasillos de señales se centra en tres ejes:
-- gestión de riesgos e informes 
+### 5.4.2	 Sensibilización en el ámbito de los pasos de señales
+La sensibilización en el ámbito de los pasos de señales se centra en tres ejes:
+- gestión de riesgos y reporting 
 - estructuras de concertación
-- campaña de comunicación de seguridad y explotación 
-Esta sensibilización se lleva a cabo también a través de diversas plataformas puestas en
-marcha por Infrabel: 
-- durante las plataformas de seguridad denominadas actualmente «mesa de seguridad» organizadas con las
+- campaña de comunicación seguridad explotación 
+Esta sensibilización se lleva a cabo también a través de diversas plataformas implantadas por 
+Infrabel: 
+- durante las safety platform con la denominación actual de «safety desk» organizadas con las 
 empresas ferroviarias;
-- el grupo de dirección sobre los pasillos de señales: creación de una estructura de coordinación
-y orientación para el seguimiento de los pasillos de señales;
-- la puesta en marcha de 4 grupos de trabajo bajo el grupo de dirección (Técnica de señalización,
-Análisis de los pasillos de señales, programa de los conductores, foro de experiencia
+- el grupo de dirección sobre los pasos de señales: creación de una estructura de coordina-
+ción y orientación para el seguimiento de los pasos de señales;
+- la implantación de 4 grupos de trabajo bajo el grupo de dirección (Técnica de señaliza-
+ción, Análisis de los pasos de señales, programa de los conductores, foro de experiencia 
 de campo).
-
-### 5.4.3 Estrategia TBL1+ 2009-2015
-
-Infrabel decidió acelerar el calendario de implementación de la TBL1+ a lo largo del año
-2010. Donde se había programado alcanzar una tasa de cobertura efectiva del 80 % a finales de 2013,
-gracias a la aceleración prevista por los servicios técnicos, ahora se prevé llegar a una
-tasa de cobertura efectiva del 87 % a finales de 2012.
-
-La TBL1+ es una mejor opción a corto plazo en comparación con el ETCS, ya que la instalación requiere un 50 %
-menos de balizas y un 45 % menos de carga de trabajo. Además, el hardware de las balizas es
+### 5.4.3	 Estrategia TBL1+ 2009-2015
+Infrabel decidió acelerar la planificación de implantación de la TBL1+ durante el año 
+2010. Allí donde se había programado alcanzar una tasa de cobertura de eficacia del 80% a finales de 2013, 
+gracias a la aceleración prevista por los servicios técnicos se prevé ahora llegar a una 
+tasa de cobertura de eficacia del 87% a finales de 2012.
+La TBL1+ es una mejor opción a corto plazo en comparación con el ETCS, ya que la instalación requiere un 50% 
+menos de balizas y un 45% menos de carga de trabajo. Además, el hardware de las balizas es 
 compatible con el del ETCS.
-
-Se realizó una estimación del riesgo y de la posibilidad de un pasillo de señal sobre la base de los
-siguientes parámetros diferentes:
+Se ha realizado una estimación del riesgo y de la posibilidad de un paso de señal sobre la base de los 
+distintos parámetros siguientes:
 • Número de viajeros
 • Velocidad de referencia
 • Número de señales a respetar por un tren que atraviesa un nudo
 • Complejidad de la instalación
-
-Esto permitió a Infrabel deducir una cobertura efectiva.
-
-En el calendario se tuvo en cuenta la concentración de las cabinas de señalización y la coordinación
-de las obras en las instalaciones de señalización.
-
-Los objetivos de Infrabel eran los siguientes: a finales de 2011, un 68 % de cobertura efectiva y un 87 %
-para finales de 2012.
-
-| Año | Número de señales puestas en servicio | Cobertura efectiva |
-| 2009 | 650 | 24,100 % , |
-| 2010 | 1000 | 29,790 % , |
-| 2011 | 900 | 17,578 % , |
-| Total | 2550 | 71,468 % , |
-
-El calendario se sigue semanalmente por la dirección. Se realiza un envío sistemático de las
-modificaciones al SSICF.
+Esto permitió a Infrabel deducir una cobertura de eficacia.
+En la planificación se tuvo en cuenta la concentración de las cabinas de señalización y la coor-
+dinación de los trabajos en las instalaciones de señalización.
+Los objetivos de Infrabel fueron los siguientes: a finales de 2011, el 68% de cobertura de eficacia y el 87% 
+antes de finalizar 2012.
+| Año | Númerodeseñalespuestasenservicio | Coberturadeefi cacia |
+| 2009 | 650 | 24100% , |
+| 2010 | 1000 | 29790% , |
+| 2011 | 900 | 17578% , |
+| Total | 2550 | 71468% , |
+La planificación es seguida de forma semanal por la dirección. Se realiza un envío sistemático de las 
+modificaciones hacia el SSICF.
 
 ## Página 146
 

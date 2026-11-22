@@ -10,13 +10,14 @@ chars: 65857
 ratio_longitud: 1.24
 tokens_in: 32196
 tokens_out: 22891
-verificacion: revisar
-notas_cifras: ["bloque 1: original bilingüe: se compara contra el idioma principal (EN)", "bloque 3: original bilingüe: se compara contra el idioma principal (CS)", "bloque 4: cifras cortas: 22/191", "bloque 5: original bilingüe: se compara contra el idioma principal (CS); cifras cortas: 1/79"]
-avisos: ["bloque 5: ratio 1.63"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (PT)", "página 3: original bilingüe: se compara contra el idioma principal (PT)", "página 4: original bilingüe: se compara contra el idioma principal (PT)", "página 7: original bilingüe: se compara contra el idioma principal (EN)", "página 8: original bilingüe: se compara contra el idioma principal (PT)", "página 9: original bilingüe: se compara contra el idioma principal (PT)"]
 ---
+
 ## Página 1
+
 
 Inspección Ferroviaria
 República Checa
@@ -41,13 +42,13 @@ IČ:   75009561
 http://www.dicr.cz
 tel.: 224 805 444
 
-
 ## Página 2
+
 
 Este informe final es público y todos los documentos y hechos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ## 1 RESUMEN
 Fuente: Inspección Ferroviaria
@@ -76,39 +77,41 @@ Factores contribuyentes:
 no fueron detectados por la Inspección Ferroviaria.
 •
 
-
 ## Página 4
 
-Causas fundamentales:
-no detención del tren Os 15066 antes del desvío y no comprobación de su 
+Causas principales:
+no haber detenido el tren Os 15066 antes de la aguja y no haber comprobado su correcta 
 •
-correcta conmutación.
+conmutación.
 Causas en el sistema de seguridad:
 no fueron detectadas por la Inspección Ferroviaria.
 •
 Recomendaciones de seguridad:
-La Inspección Ferroviaria, como autoridad administrativa competente en la materia según lo dispuesto en el apartado 5 del artículo 53b de la Ley n.º 266/1994 Sb., de vías férreas, en su versión vigente, con base en el resultado de la investigación de las causas y circunstancias del origen del suceso excepcional, recomienda:
-
-Al gestor de la vía, Správa železniční dopravní cesty, organización estatal: 
-elaborar un análisis de los sucesos en los que no se señaló la conmutación de 
+La Inspección Ferroviaria, como autoridad administrativa competente en la materia, de conformidad con lo dispuesto en el apartado 5 del § 53b de la Ley núm. 266/1994 Sb., de ferrocarriles, en su redacción vigente, con base en el resultado de la investigación de las causas y circunstancias de la ocurrencia del suceso extraordinario, recomienda:
+Al operador ferroviario Administración de la Infraestructura Ferroviaria de Transporte, organización estatal: 
+elaborar un análisis de los casos en los que no se señaló la conmutación de las agujas con 
 •
-desvíos con desvío de retorno automático, equipados con deslizadores con 
-rodillos Ekoslide, a la posición de prioridad, y el maquinista se detuvo ante 
-un desvío así no conmutado y comunicó el suceso al despachador director, o 
-bien en los que se produjo un suceso excepcional (MU) al circular por un 
-desvío no conmutado, centrándose en los motivos de la no conmutación de 
-los desvíos;
-con base en los datos detectados, adoptar las medidas correspondientes en 
+motor de retorno automático, equipadas con deslizadores con rodillos Ekoslide, a la 
+posición de prioridad y el maquinista se detuvo ante dicha aguja no conmutada y 
+comunicó el suceso al despachador director, o bien en los que se produjo un suceso 
+extraordinario (MU) al circular por una aguja no conmutada, centrándose en los motivos 
+de la no conmutación de las agujas;
+con base en los datos recabados, adoptar las medidas correspondientes en relación con el 
 •
-relación con el modo de mantenimiento y mejorar el funcionamiento de estos 
-desvíos, en particular aumentando la frecuencia y regularidad de la 
-lubricación de los deslizadores y comprobando el ajuste de los rodillos 
-Ekoslide.
-
-De conformidad con el apartado 5 del artículo 53b de la Ley n.º 266/1994 Sb., de vías férreas, en su versión vigente, o bien con el anexo n.º 7 del decreto n.º 376/2006 Sb., sobre el sistema de seguridad de la explotación de vías férreas y del transporte ferroviario y los procedimientos en caso de sucesos excepcionales en las vías férreas, en su versión vigente, la Inspección Ferroviaria recomienda a la Autoridad Ferroviaria la adopción de una medida propia encaminada a la realización de la recomendación de seguridad anteriormente indicada también en relación con los demás gestores de vías férreas y transportistas de la República Checa.
-
+modo de mantenimiento y mejorar el funcionamiento de dichas agujas, en particular 
+aumentando la frecuencia y regularidad de la lubricación de los deslizadores y 
+comprobando la ajuste de los rodillos Ekoslide.
+De conformidad con lo dispuesto en el apartado 5 del § 53b de la Ley núm. 266/1994 Sb., 
+de ferrocarriles, en su redacción vigente, o bien del anexo núm. 7 del decreto núm. 
+376/2006 Sb., sobre el sistema de seguridad de la explotación de ferrocarriles y del 
+transporte ferroviario y los procedimientos en caso de ocurrencia de sucesos 
+extraordinarios en los ferrocarriles, en su redacción vigente, la Inspección Ferroviaria 
+recomienda a la Autoridad Ferroviaria la adopción de una medida propia encaminada a 
+la realización de la recomendación de seguridad anteriormente indicada también en el 
+resto de operadores ferroviarios y transportistas de la República Checa.
 
 ## Página 5
+
 
 ## SUMMARY 
 Grade:
@@ -154,13 +157,14 @@ lubrication and checks of roller chairs “Ekoslide”.
 2) Addressed to Czech National Safety Autority (NSA) 
 to take own measure forcing implementation of the above recommendations 
 •
-for other infrastructure managers (IM) in the Czech Republic. 
-
+for other infrastructure managers (IM) in the Czech Republic.
 
 ## Página 6
 
 
+
 ## Página 7
+
 
 # Índice
 1 Resumen ........................................................................................................................3
@@ -195,8 +199,8 @@ incluidas personas en relación contractual ....................................
 3 Registro de las declaraciones prestadas ................................................................................19
 3.1 Resumen de las declaraciones prestadas (sujeto a protección de la identidad de las personas) ................................19
 
-
 ## Página 8
+
 
 3.1.1 Empleados del gestor de la vía y del transportista, incluidas personas en relación 
 contractual ...............................................................................................................19
@@ -238,6 +242,7 @@ manejo y uso ...................................................................
 
 ## Página 9
 
+
 ............................................................................................................................27
 4.2 Análisis ......................................................................................................................27
 4.2.1 Evaluación de los hechos constatados de acuerdo con el punto 3 y exposición de las conclusiones sobre la causa del suceso excepcional y la actuación de los servicios de emergencia ..........................................27
@@ -256,18 +261,19 @@ manejo y uso ...................................................................
  Fig. n.º 6: Punto «0» y estado de los travesaños deslizantes           Fuente: DI ...........................................33
  Fig. n.º 7: Marcas de descarrilamiento y desviación de la vía en el sentido de circulación del tren tras la retirada de los VV descarrilados                     Fuente: DI ....................................................................33
 
-
 ## Página 10
 
 
+
 ## Página 11
+
 
 ## Lista de siglas y símbolos utilizados
 |  | Lista de siglas y símbolos utilizados |
 | COP ČD DI DKV DÚ DV GPK HDV HZS IZS JPO MU OSB P ČR PJ ŘV SK SŽDC TRS ÚI VI VŠ | Centro de notificación central de České dráhy a. s. Inspección Ferroviaria Depósito de material rodante Autoridad Ferroviaria vehículo ferroviario vehículos ferroviarios, posición geométrica de la vía vehículo ferroviario de tracción Servicio de Bomberos y Salvamento Sistema Integrado de Emergencias Unidad de Protección contra Incendios suceso excepcional Departamento del Sistema de Seguridad de la Explotación Ferroviaria Policía de la República Checa Unidad de Explotación vehículo de mando vía de estación Administración de la Infraestructura Ferroviaria, organización estatal, enlace radiofónico de vía inspectoría territorial inspector superior investigación propia |
 
-
 ## Página 12
+
 
 ## Lista de siglas de las disposiciones legales, normas y normativa interna 
 utilizadas
@@ -296,10 +302,10 @@ normativa interna del explotador ferroviario SŽDC, SŽDC (ČD) D3 «Reglamento 
 norma SŽDC S3
 normativa interna del explotador ferroviario SŽDC, SŽDC S3 «Superestructura ferroviaria», aprobada bajo el n.º de expediente 9675/08-OP, de 3. 6. 2008, en vigor desde el 1. 10. 2008
 norma SŽDC (ČD) Z1
-normativa interna del explotador ferroviario SŽDC, SŽDC (ČD) Z1 «Reglamento para la explotación de las instalaciones de estación y de enclavamiento», aprobada por decisión del director general de 
-
+normativa interna del explotador ferroviario SŽDC, SŽDC (ČD) Z1 «Reglamento para la explotación de las instalaciones de estación y de enclavamiento», aprobada por decisión del director general de
 
 ## Página 13
+
 
 České dráhy de 26. 3. 2007, n.º de expediente: 56704/2007, 
 en vigor desde el 1. 6. 2007
@@ -307,8 +313,8 @@ Las normas SŽDC (ČD) D1, SŽDC (ČD) D3 y SŽDC (ČD) Z1 fueron asumidas
 por el explotador ferroviario con base en la Instrucción n.º 8/2008 del director general «Asumción de las normas de České dráhy, a. s., en el ámbito de la Administración de la Infraestructura Ferroviaria, organización estatal, con base en la transferencia de las actividades del explotador ferroviario» n.º de expediente: 12 026/08-OKS, 
 en vigor desde el 1. 7. 2008.
 
-
 ## Página 14
+
 
 ## 2 DATOS RELATIVOS AL SUCESO EXCEPCIONAL
 ## 2.1
@@ -327,22 +333,21 @@ GPS:
 49°57'27.269"N, 16°8'41.602"E.
 Fig. n.º 1: Vista de los VV descarrilados (a la derecha en el sentido de circulación del tren)  Fuente: DI
 ### 2.1.2 Descripción del suceso excepcional y del lugar del accidente, incluida la actuación del Sistema Integrado de Emergencias y del servicio de emergencia
-El 13. 1. 2013 a las 18:51 h descarriló el tren Os 15066, que circulaba desde la estación de Choceň hasta la parada de Vysoké Mýto město, al entrar en la estación de Vysoké Mýto, en la aguja n.º 1. 
-
+El 13. 1. 2013 a las 18:51 h descarriló el tren Os 15066, que circulaba desde la estación de Choceň hasta la parada de Vysoké Mýto město, al entrar en la estación de Vysoké Mýto, en la aguja n.º 1.
 
 ## Página 15
 
-Fig. n.º 2: Esquema del lugar del SE
+Obra n.º 2: Esquema del lugar del MU
     Fuente: www.mapy.cz
-Del examen del lugar del SE se constató lo siguiente: 
-El Vd (810.245-1) del tren Os 15066 había descarrilado con ambos ejes a la derecha en el sentido de circulación del tren entre la 1.ª y la 3.ª vía. Las ruedas derechas se habían clavado en el balasto, las ruedas izquierdas del Vd se encontraban por encima del espacio de la aguja n.º 4, la delantera entre la lengua y el soporte de la aguja n.º 4, la trasera entre los carriles. Debido al descarrilamiento del Vd se produjo una alteración de la dirección de la vía n.º 1. El Vm (914.074-0) había sido descarrilado por su rueda derecha entre los carriles de la 1.ª vía con el primer eje en el sentido de circulación del tren, la rueda se encontraba pegada al carril izquierdo. El segundo eje, la rueda derecha del Vm había sido descarrilada a la izquierda del carril izquierdo de la 1.ª vía, la rueda izquierda se encontraba entre los carriles del enlace de vías de las agujas n.º 1 y 4. El Vd (814.074-1) permanecía sin descarrilar en la dirección de circulación prevista sobre la 3.ª vía, en parte en el espacio de la aguja n.º 1, y a continuación sobre el enlace de vías de las agujas n.º 1 y 4.
-La aguja n.º 1 con aparato de cambio de aguja de retorno automático había sido accionada tras la producción del SE en la posición preferente sobre la 3.ª vía, el destello blanco de la señal Sv1 estaba en funcionamiento e indicaba su correcta accionación. La punta de la lengua derecha de la aguja n.º 1 estaba recientemente golpeada, en el lado interior de la lengua izquierda era visible la huella del paso de la rueda del VV, la primera huella clara de descarrilamiento se encontraba a 6 metros de la punta de la lengua de la aguja sobre el soporte izquierdo curvado y el tope de lengua, a continuación eran apreciables huellas en el lado interior de la lengua izquierda de la aguja n.º 1 y a una distancia de 7 metros sobre el soporte derecho recto había una huella claramente visible del golpe del aro de la rueda derecha del Vd. Las huellas continuaban hasta el lugar del descarrilamiento del Vd. Las huellas de descarrilamiento evidenciaban el denominado «descarrilamiento en horquilla» del VV. La aguja superó la prueba de bloqueo con un valor de 6 mm, durante la misma no se produjo el cierre del encaje de la aguja y el destello blanco no se encendió.
-Debido al descarrilamiento se produjeron roturas de carril en el carril izquierdo de la 1.ª vía, entre las agujas n.º 1 y 3, y en el carril derecho del enlace de vías de las agujas n.º 1 y 4.
-Del examen del lugar de producción del SE no se encontró ningún cuerpo u objeto en la zona de cambio de la aguja ni en sus alrededores que pudiera influir en el funcionamiento de retorno automático de la aguja.
-En el SE se activó el IZS.
-
+Del examen del lugar del MU se constató lo siguiente:
+El HDV (810.245-1) del tren Os 15066 descarriló con ambos bogies hacia la derecha en el sentido de marcha del tren entre el 1.º y el 3.º SK. Las ruedas derechas se clavaron en el balasto, y las ruedas izquierdas del HDV quedaron por encima del espacio de la aguja n.º 4, la delantera entre la lengüeta y el apoyo de la aguja n.º 4, y la trasera entre las bandas de riel. A consecuencia del descarrilamiento del HDV se produjo la alteración de la dirección de la vía n.º 1. El ŘV (914.074-0) fue descarrilado en su primer bogie, en el sentido de marcha del tren, por la rueda derecha entre las bandas de riel del 1.º SK; la rueda se encontraba pegada a la banda de riel izquierda. En el segundo bogie, la rueda derecha del ŘV fue descarrilada a la izquierda de la banda de riel izquierda del 1.º SK, y la rueda izquierda quedó entre las bandas de riel del enlace de vías de las agujas n.º 1 y 4. El HDV (814.074-1) permaneció sin descarrilar en el sentido de marcha previsto sobre el 3.º SK, en parte en el espacio de la aguja n.º 1, y a continuación sobre el enlace de vías de las agujas n.º 1 y 4.
+La aguja n.º 1 con aparato de cambio de aguja de retorno automático fue, tras la producción del MU, accionada en la posición preferente sobre el 3.º SK; el destello de luz blanca de la señal Sv1 estaba en funcionamiento e indicaba su correcta accionación. La punta de la lengüeta derecha de la aguja n.º 1 estaba recientemente golpeada; en el lado interior de la lengüeta izquierda era visible la huella del paso de la rueda del DV; la primera huella clara de descarrilamiento se encontraba a 6 metros de la punta de la lengüeta de la aguja, sobre el apoyo curvado izquierdo y el tope de lengüeta; a continuación eran apreciables huellas en el lado interior de la lengüeta izquierda de la aguja n.º 1 y, a una distancia de 7 metros, sobre el apoyo recto derecho, había una huella claramente visible del golpe del aro de la rueda derecha del HDV. Las huellas continuaban hasta el lugar del descarrilamiento del HDV. Las huellas de descarrilamiento evidencian la denominada «marcha en horquilla» del DV. La aguja superó la prueba de enclavamiento con un valor de 6 mm; durante la misma no se produjo el cierre del enganche de gancho y la luz blanca de destello no se encendió.
+A consecuencia del descarrilamiento se produjeron roturas de rieles en la banda de riel izquierda del 1.º SK, entre las agujas n.º 1 y 3, y en la banda de riel derecha del enlace de vías de las agujas n.º 1 y 4.
+En el examen del lugar de producción del MU no se encontró ningún cuerpo u objeto en la zona de cambio de la aguja y su entorno que pudiera tener influencia en el funcionamiento de retorno automático de la aguja.
+Con el MU se activó el IZS.
 
 ## Página 16
+
 
 2.1.3 Decisión de iniciar la investigación de las causas y circunstancias del origen, composición del equipo de personas cualificadas y forma de dirigir la investigación de las causas y circunstancias del origen
 SE notificado al COP DI el día:
@@ -373,6 +378,7 @@ maquinista del tren Os 15066, empleado de ČD, DKV Česká Třebová.
 •
 
 ## Página 17
+
 
 2.2.2 Trenes y su composición, incluidos los números de registro de los distintos vehículos ferroviarios
 | Tren: | Os15066 |  | Composición del tren: | Propietario: |
@@ -405,8 +411,8 @@ El retorno tiene dos fases, marcha lenta, que se desarrolla a lo largo de 68 mm,
 mm, en la que se produce la colocación final de la aguja en la posición básica tras el paso de todos 
 los juegos de ruedas al circular el tren por la aguja.
 
-
 ## Página 18
+
 
 ### 2.2.4 Uso de los medios de comunicación
 con motivo del origen de la MU no se produjo comunicación entre los empleados 
@@ -448,29 +454,28 @@ HZS SŽDC JPO Nymburk y Česká Třebová;
 P ČR, policía judicial de Ústí nad Orlicí.
 •
 
-
 ## Página 19
 
 ## 2.3
-### Fallecidos, heridos y daños materiales
-2.3.1 En pasajeros y terceras personas, empleados del operador de la vía y del transportista, 
+### Útiles, heridos y daños materiales
+2.3.1 En cuanto a pasajeros y terceros, empleados del gestor de la infraestructura y del transportista, 
 incluidas personas en relación contractual
-En la MU no se produjo perjuicio para la salud de los empleados del operador de la vía, del transportista, 
-de las personas en relación contractual ni de los pasajeros y terceras personas.
-### 2.3.2 En los objetos transportados, equipajes y otros bienes
-No se produjo daño en los objetos transportados, equipajes y otros bienes.
-### 2.3.3 En los vehículos ferroviarios, componentes de la vía de circulación y en el medio ambiente
-El operador de la vía y el transportista cuantificaron el daño en:
+En el MU no se produjo daño alguno a la salud de los empleados del gestor de la infraestructura, del transportista, 
+de personas en relación contractual, ni tampoco de pasajeros y terceros.
+### 2.3.2 En las cosas transportadas, el equipaje y otros bienes
+No se produjo daño en las cosas transportadas, el equipaje ni otros bienes.
+### 2.3.3 En los vehículos ferroviarios, los componentes de la vía y en el medio ambiente
+El gestor de la infraestructura y el transportista cuantificaron el daño en:
 instalaciones de la vía
                35 016,75 Kč;
 •
-Locomotora 95 54 5 810 245-1
+HDV 95 54 5 810 245-1
              149 375,00 Kč;
 •
-Vehículo de viajeros y locomotora (empuje)
+RV y HDV (remolque)
              215 000,00 Kč.
 •
-En la MU, el daño causado en los vehículos ferroviarios y en los componentes de la vía fue cuantificado 
+En el MU, el daño producido en los vehículos ferroviarios y los componentes de la vía se cuantificó 
 en un total de 399 392 Kč.
 ## 2.4
 ### Circunstancias externas
@@ -479,23 +484,23 @@ Condiciones meteorológicas: oscuridad, cielo cubierto, temperatura de -4 °C.
 ## 3 REGISTRO DE LAS EXPLICACIONES PRESENTADAS
 ## 3.1
 ### Resumen de las explicaciones presentadas (sujeto a protección de la identidad de las personas)
-### 3.1.1 Empleados del operador de la vía y del transportista, incluidas personas en relación 
+### 3.1.1 Empleados del gestor de la infraestructura y del transportista, incluidas personas en relación 
 contractual
 maquinista del tren Os 15066
   – Del Acta con el empleado se desprende, entre otras cosas:
 •
-incorporó al turno a las 12:16 h y por la tarde condujo el tren Os 15066 hasta la parada de Vysoké 
+incorporó su turno a las 12:16 h y por la tarde condujo el tren Os 15066 hasta la parada Vysoké 
 •
 Mýto město. La circulación del tren Os 15066 hasta la entrada en la estación de Vysoké Mýto 
 transcurrió sin anomalías;
-circula habitualmente por esta vía;
+circula habitualmente por esta línea;
 •
-antes de entrar en la estación de Vysoké Mýto circuló con la locomotora sin tracción, la velocidad del tren 
+antes de entrar en la estación de Vysoké Mýto circulaba con el HDV sin tracción, la velocidad del tren 
 •
-descendió hasta 35 km.h-1. Al salir del arco vio la luz intermitente 
-
+descendió hasta 35 km.h-1. Al salir de la curva vio una luz intermitente destellante
 
 ## Página 20
+
 
 de la señal Sv1, que indicaba que la aguja n.º 1 había sido colocada para 
 la dirección de marcha requerida del tren;
@@ -536,10 +541,10 @@ cumplimiento
 Los requisitos para los empleados del transportista, especialmente los requisitos de idoneidad 
 técnica y de salud, están establecidos por la ley n.º 266/1994 Sb., el decreto n.º 173/1995 
 Sb., el decreto n.º 101/1995 Sb., el decreto n.º 16/2012 Sb. y las normas internas del transportista.
-En el momento del origen de la MU objeto de estudio, todas las personas del operador de la vía SŽDC 
-
+En el momento del origen de la MU objeto de estudio, todas las personas del operador de la vía SŽDC
 
 ## Página 21
+
 
 que realizaban actividades en la explotación de la vía y del transporte ferroviario eran idóneas desde el punto de vista técnico para el desempeño 
 de la función desempeñada.
@@ -575,8 +580,8 @@ En la investigación de la MU se constató la infracción de las siguientes norm
 •
   «El transportista está obligado a
 
-
 ## Página 22
+
 
 a) explotar el transporte ferroviario de acuerdo con las reglas de explotación del transporte ferroviario, 
 la licencia vigente y el contrato celebrado con el operador de la vía sobre la explotación del transporte ferroviario en la vía;»
@@ -624,6 +629,7 @@ por el despachador director, jefe de estación de la est. de Choceň. En el func
 
 ## Página 23
 
+
 en los trenes dirigidos por el despachador director no se detectaron deficiencias. Su actividad no guardaba relación causal con la aparición del MU.
 ### 3.4.2 Componentes de la vía
 El 13 de enero de 2013, tras el MU, se realizó una medición de la superestructura ferroviaria, a 30 m antes del punto «cero» y a 10 m después del punto «cero». No se superaron las desviaciones operativas límite de la GPK. Se realizó una medición de la anchura de vía y de los cambios de anchura de vía, no se superaron los valores del límite de desviación operativa IAL «límite de intervención inmediata» para la anchura de vía y para el cambio de anchura de vía. La evaluación se realizó conforme a la norma ČSN 73 6360-2.
@@ -634,8 +640,8 @@ El desvío n.º 1 está, entre otros, equipado con soportes con rodillos Ekoslid
 El 31 de enero de 2013 se realizó una medición de la resistencia de conmutación en el accionador autorretornante del desvío n.º 1, comprobando que los valores medidos se encuentran en el intervalo establecido y no superaron el límite permitido.
 Para garantizar la operatividad de la vía y la seguridad del transporte ferroviario, antes de la aparición del MU el explotador de la vía realizó inspecciones y mediciones de las obras de las vías conforme al § 26, apartados 1 y 2, del decreto n.º 177/1995 Sb. La última inspección integral (técnica) de los equipos tuvo lugar el 5 de septiembre de 2011 con el resultado: los equipos cumplen la función de un funcionamiento seguro
 
-
 ## Página 24
+
 
 y fiable. La última revisión periódica del desvío n.º 1 tuvo lugar el 13 de noviembre de 2012.
 Fig. n.º 3: Punta de la lengüeta del desvío golpeada y soporte deslizante sin lubricar
@@ -648,8 +654,8 @@ El uso de los medios de comunicación antes de la aparición del MU no guardaba 
 ### 3.4.4 Material rodante, incluidos los equipos de registro automático de datos
 La locomotora de cabecera 810.245-1 disponía del Certificado de aptitud del material rodante n.º de expediente: PZ 8770/01-V.22, emitido por el DÚ el 27 de julio de 2001. La última revisión técnica periódica antes de la aparición del MU se realizó el 11 de noviembre de 2012, con vigencia hasta el 11 de mayo de 2013. La locomotora de cabecera fue utilizada por el transportista ČD en un estado técnico que corresponde a la aptitud aprobada.
 
-
 ## Página 25
+
 
 El 17 de enero de 2013 se realizó una inspección por comisión de la locomotora de cabecera 810.245-1 del tren Os 15066 en el DKV Česká Třebová, en la que se determinó el alcance de los daños en la locomotora de cabecera y, tras la realización de la prueba completa de freno, que no pudo realizarse en el lugar de aparición del MU debido a la rotura de la llave de cierre a causa del descarrilamiento, se determinó que el estado técnico de la locomotora de cabecera no guardaba relación causal con la aparición del MU.
 La locomotora de cabecera 810.245-1 estaba equipada, en el momento de la aparición del MU, con un equipo de registro automático de datos tipo KAPS-Comm, n.º 88398.
@@ -673,8 +679,8 @@ El 17 de enero de 2013 se realizó una inspección por comisión de la locomotor
 ### 3.5.1 Medidas adoptadas por los empleados del explotador de la vía y del transportista en materia de gestión, señalización y seguridad del tráfico
 En relación con el MU, antes de su aparición no se adoptaron medidas por parte de los empleados del explotador de la vía y del transportista relacionadas con la aparición del MU.
 
-
 ## Página 26
+
 
 ### 3.5.2 Intercambio de comunicaciones verbales en relación con el suceso, incluidos los documentos del equipo registrador
 En relación con el MU no se produjo ninguna comunicación verbal que influyera en la aparición del MU.
@@ -692,8 +698,8 @@ El empleado participante del transportista gozaba de buena salud en el momento d
 3.6.3 Disposición y equipamiento del puesto de mando o del vehículo que influye en su manejo y uso
 La disposición y el equipamiento del puesto de trabajo de los empleados del explotador de la vía y del transportista no guardaban relación con la aparición del MU.
 
-
 ## Página 27
+
 
 ## 3.7
 ### Sucesos anteriores de carácter similar
@@ -711,6 +717,7 @@ La línea 517 E Choceň – Litomyšl se gestiona con una gestión simplificada 
 
 ## Página 28
 
+
 El 6 de enero de 2013, entre las 13:35 h y las 14:50 h, se produjo una comunicación entre el jefe de estación de la estación de Choceň y el maquinista del tren Os 15054, que durante su marcha hacia la estación de Vysoké Mýto detectó que la luz intermitente de la señal Sv1 no señalizaba correctamente el cambio de la aguja n.º 1 a la indicación «Marcha asegurada», aunque la aguja, tras su manipulación, llegó a la posición terminal. Esta situación puede producirse cuando la lengüeta no llega a apoyarse en el apoyo, por ejemplo, en condiciones invernales debido a la obstrucción de la aguja por nieve o hielo caído de las locomotoras en circulación, u otro objeto –obstáculo– entre la lengüeta y el apoyo (véase el punto 3.7), o por una lubricación insuficiente de los deslizadores –véase más abajo–.
 Posteriormente a la aparición de la anomalía en cuestión, se produjo una situación similar el 19 de enero de 2013 durante la circulación del tren Os 15062, cuando la aguja n.º 1 en la estación de Vysoké Mýto no llegó a la posición terminal y la señal Sv1 no indicó correctamente «Marcha asegurada». En el Registro de averías del equipo de señalización y seguridad de la estación de Vysoké Mýto consta, para la señal Sv1, una avería en el cambio de la aguja a la posición terminal, que fue subsanada ese mismo día lubricando la aguja.
 En las estaciones donde la circulación se dirige con dirección simplificada del tráfico ferroviario y que están equipadas con agujas con mecanismos de cambio autorretornables montados sobre deslizadores con rodillos Ekoslide, que permiten una aparente ausencia de mantenimiento en relación con la lubricación de los deslizadores, la funcionalidad de las agujas es susceptible a la influencia del tiempo atmosférico precisamente debido a la posibilidad de un mantenimiento limitado –la (falta de) lubricación de los deslizadores–. Este modo de mantenimiento y el funcionamiento de dichas agujas con deslizadores insuficientemente lubricados no es suficiente en algunos casos, especialmente en el periodo invernal –el mecanismo autorretornable no puede realizar el cambio debido a la considerable resistencia por el roce de las lengüetas sobre los deslizadores–.
@@ -718,30 +725,29 @@ En la investigación no se determinó la causa exacta de que la aguja no hubiera
 De los hallazgos anteriores se desprende que los deslizadores de las lengüetas insuficientemente lubricados influyen en el posible no-cambio de las agujas con mecanismo autorretornable a la posición terminal. Por estas razones, a pesar de que la correcta verificación del cambio de las agujas la realiza el maquinista del tren mediante la observación de la señal, el contrapeso y las lengüetas de la aguja, sería conveniente aumentar la frecuencia y regularidad de la lubricación, así como la verificación de la regulación de los Ekoslide, especialmente en el periodo invernal, cuando, por la interacción del mecanismo autorretornable (cambio de los parámetros físicos del aceite) y los deslizadores insuficientemente lubricados, existe mayor probabilidad de que no se realice el cambio de la aguja a la posición preferente en la vía establecida.
 La aguja n.º 1 en el punto kilométrico 7,489 fue verificada regularmente por el gestor de la infraestructura de acuerdo con la legislación vigente y cumplía las condiciones para la explotación segura de la infraestructura y del transporte ferroviario. La medición de la aguja n.º 1 tras la aparición de la anomalía no demostró que el estado del superestructura ferroviario, o el estado de la aguja n.º 1, hubiera influido en el descarrilamiento del tren Os 15066. La aguja presentaba un funcionamiento correcto y la señal Sv1 emitía, ante un cambio correcto, la indicación «Marcha
 
-
 ## Página 29
 
-asegurada», que permite la entrada en la estación. Este hecho fue verificado repetidamente en pruebas de verificación y nunca se produjo una situación en la que la aguja n.º 1 no estuviera correctamente cambiada y, a la vez, se hubiera indicado su cambio en la señal Sv1 con la indicación «Marcha asegurada».
-De las huellas y los resultados de la investigación de la anomalía se desprende que la aguja n.º 1 no estaba en la posición terminal y que en la señal Sv1 no se emitía la indicación «Marcha asegurada». La punta golpeada de la lengüeta derecha de la aguja n.º 1, las huellas encontradas de la circulación de la locomotora en estado descarrilado y las pruebas de verificación y mediciones realizadas acreditan el correcto funcionamiento de la aguja y de la señal Sv1. En la anomalía se produjo, por la circulación contra la punta de la aguja n.º 1, una circulación en bifurcación y el posterior descarrilamiento del tren Os 15066.
-Los hallazgos de la investigación excluyen la declaración del maquinista recogida en el «Acta con el empleado», en la que indica que, durante la marcha hacia y desde la estación de Vysoké Mýto, vio la luz intermitente de la señal Sv1 parpadeando. El maquinista del tren Os 15066 no detuvo el tren antes de la aguja n.º 1, no se cercioró de su correcto cambio y continuó la marcha a través de la aguja, que no estaba en la posición terminal.
+«carril asegurado», que permite la entrada en la instalación de tráfico. Este hecho fue verificado repetidamente en las pruebas de verificación y nunca se produjo una situación en la que el desvío n.º 1 no estuviera correctamente conmutado y, sin embargo, se hubiera indicado su conmutación en la señal Sv1 con la señal «carril asegurado». De las marcas y resultados de la investigación del MU es evidente que el desvío n.º 1 no estaba en la posición terminal y en la señal Sv1 no se había indicado la señal «carril asegurado». La punta golpeada del riel derecho del desvío n.º 1, las marcas encontradas de la circulación del DV en estado descarrilado y las pruebas de verificación y mediciones realizadas dan fe del correcto funcionamiento del desvío y de la señal Sv1. En el MU se produjo, al circular contra la punta del desvío n.º 1, una circulación por la horquilla y el posterior descarrilamiento del tren Os 15066.
+
+Los hallazgos de la investigación excluyen la declaración del maquinista recogida en el «Acta con el empleado», en la que indica que, al circular hacia y desde la instalación de tráfico de Vysoké Mýto, vio el destello intermitente de la señal Sv1. El maquinista del tren Os 15066 no detuvo el tren antes del desvío n.º 1, no se cercioró de su correcta conmutación y continuó la circulación por el desvío, que no estaba en la posición terminal.
 ## 4.3
 ### Conclusiones
-4.3.1 Causas inmediatas del suceso excepcional, incluidos los factores que contribuyeron al mismo y que estuvieron relacionados con la actuación de las personas implicadas o con el estado del material rodante o de los equipos técnicos
+4.3.1 Causas inmediatas del suceso excepcional, incluidos los factores que contribuyeron al mismo y que estuvieron relacionados con la actuación de las personas implicadas o con el estado del material rodante o de las instalaciones técnicas
 La causa inmediata del suceso excepcional fue:
-el incumplimiento de la instrucción del gestor de la infraestructura emitida por la señal Sv1
+no respetar la instrucción del gestor de la infraestructura ferroviaria dada por la señal Sv1 
 •
-al maquinista del tren antes de entrar en la aguja n.º 1.
+al maquinista del tren antes de la entrada en el desvío n.º 1.
 Estos hallazgos constituyen el incumplimiento del art. 9 y del art. 23 de la norma SŽDC (ČD) D1, en relación con las disposiciones del § 6 apartado 4 y del § 35 apartado 1 letra f) y m) del decreto n.º 173/1995 Sb. y del § 35 apartado 1 letra a) de la ley n.º 266/1994 Sb.
 ### 4.3.2 Causas fundamentales relacionadas con la cualificación, los procedimientos y el mantenimiento
 La causa fundamental del suceso excepcional fue:
-no haber detenido el tren Os 15066 antes de la aguja y no haber comprobado su correcto
+no detener el tren Os 15066 antes del desvío y no comprobar su correcta 
 •
-cambio.
+conmutación.
 Este hallazgo constituye el incumplimiento del art. 23 de la norma SŽDC (ČD) D1 y del art. 24 de la norma SŽDC (ČD) D3, en relación con las disposiciones del § 6 apartado 4 y del § 35 apartado 1 letra f) y m) del decreto n.º 173/1995 Sb., y del § 35 apartado 1 letra a) de la ley n.º 266/1994 Sb.
-### 4.3.3 Causas derivadas del marco normativo y del uso del sistema
-
+### 4.3.3 Causas que se deben al marco normativo y al uso del sistema
 
 ## Página 30
+
 
 de garantía de la seguridad
 No se han detectado.
@@ -763,37 +769,44 @@ todos los maquinistas y los inspectores de circulación del DKV Česká Třebov�
 •
 informados sobre la aparición y las causas del suceso excepcional.
 
-
 ## Página 31
 
 ## 6 RECOMENDACIONES DE SEGURIDAD
-La Inspección Ferroviaria, como autoridad administrativa competente en la materia de acuerdo con la disposición del § 53b apartado 5 de la ley n.º 266/1994 Sb., de ferrocarriles, en su redacción vigente, sobre la base del resultado de la investigación de las causas y circunstancias de la aparición del suceso excepcional, recomienda:
-Al gestor de la infraestructura, Administración de la Vía Ferroviaria de Transporte, organización estatal:
-elaborar un análisis de los sucesos en los que no se señalizó el cambio de las agujas con
-•
-mecanismo autorretornable, montadas sobre deslizadores con rodillos Ekoslide, a la posición preferente y el maquinista se detuvo ante una aguja así no cambiada y notificó el suceso al despachador director, o en los que se produjo la aparición de una anomalía por la circulación a través de una aguja no cambiada, centrándose en los motivos del no-cambio de las agujas;
-sobre la base de los datos detectados, adoptar las medidas correspondientes en relación con el
-•
-modo de mantenimiento y mejorar el funcionamiento de dichas agujas, especialmente aumentando la frecuencia y regularidad de la lubricación de los deslizadores y verificando la regulación de los rodillos Ekoslide.
-De acuerdo con la disposición del § 53b apartado 5 de la ley n.º 266/1994 Sb., de ferrocarriles, en su redacción vigente, o del anexo n.º 7 del decreto n.º 376/2006 Sb., sobre el sistema de seguridad de la explotación de la infraestructura y del transporte ferroviario y los procedimientos en caso de sucesos excepcionales en las infraestructuras ferroviarias, en su redacción vigente, la Inspección Ferroviaria recomienda a la Autoridad Ferroviaria la adopción de una medida propia encaminada a la realización de la recomendación de seguridad anteriormente mencionada también con el resto de gestores de la infraestructura y transportistas en la República Checa.
+La Inspección Ferroviaria, como autoridad administrativa competente en la materia según lo dispuesto en el apartado 5 del § 53b de la Ley núm. 266/1994 Sb., de ferrocarriles, en su redacción vigente, en virtud del resultado de la investigación de las causas y circunstancias del suceso extraordinario, recomienda:
+Al operador ferroviario Administración de la Infraestructura Ferroviaria de Transporte, organización estatal:
+• elaborar un análisis de los sucesos en los que no se señaló el cambio de agujas con
+mutador automático, dotadas de deslizadores con rodillos Ekoslide, a la
+posición de prioridad y el maquinista se detuvo ante una aguja así no cambiada
+y comunicó el suceso al despachador director, o en su caso cuando se produjo un
+suceso extraordinario por la circulación a través de una aguja no cambiada, centrándose en los motivos del no cambio de agujas;
+• sobre la base de los datos recabados, adoptar las medidas correspondientes en relación con el modo
+de mantenimiento y mejorar el funcionamiento de dichas agujas, en particular mediante el aumento de la frecuencia y regularidad
+de la lubricación de los deslizadores deslizantes y la comprobación del ajuste de los rodillos Ekoslide.
+De conformidad con lo dispuesto en el apartado 5 del § 53b de la Ley núm. 266/1994 Sb., de ferrocarriles,
+en su redacción vigente, o del anexo núm. 7 del decreto núm. 376/2006 Sb., sobre el sistema de seguridad
+de la explotación de ferrocarriles y del transporte ferroviario y los procedimientos en caso de sucesos extraordinarios en
+ferrocarriles, en su redacción vigente, la Inspección Ferroviaria recomienda a la Autoridad Ferroviaria la adopción de su propia
+medida encaminada a la realización de la recomendación de seguridad
+mencionada anteriormente también en relación con los demás
+operadores ferroviarios y transportistas de la República Checa.
 En Brno, a 5 de agosto de 2013.
 Bc. Josef Dvořák v. r.
 Bc. Radim Sucháč v. r.
 director
 inspector jefe
-de la Inspección Territorial de Brno
-de la Inspección Territorial de Brno
-
+De la Inspección Territorial de Brno
+De la Inspección Territorial de Brno
 
 ## Página 32
+
 
 ## 7 ANEXOS
 Fig. n.º 4: Vista de las locomotoras descarriladas (a la izquierda en el sentido de circulación del tren)   Fuente: DI
 Fig. n.º 5: Vista de la aguja n.º 1 y de la señal Sv1
         Fuente: DI
 
-
 ## Página 33
+
 
 Fig. n.º 6: Punto «0» y estado de los deslizadores
         Fuente: DI

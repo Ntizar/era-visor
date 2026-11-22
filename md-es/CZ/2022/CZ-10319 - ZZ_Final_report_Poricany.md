@@ -10,13 +10,14 @@ chars: 152227
 ratio_longitud: 1.25
 tokens_in: 68624
 tokens_out: 47783
-verificacion: revisar
-notas_cifras: ["bloque 6: cifras cortas: 4/129", "bloque 9: cifras cortas: 1/98", "bloque 11: original bilingüe: se compara contra el idioma principal (CS)"]
-avisos: ["bloque 11: ratio 1.73"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 3: original bilingüe: se compara contra el idioma principal (PT)", "página 6: original bilingüe: se compara contra el idioma principal (CS)", "página 7: original bilingüe: se compara contra el idioma principal (CS)", "página 10: original bilingüe: se compara contra el idioma principal (CS)", "página 11: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -41,13 +42,13 @@ IČ: 75009561
 mail@dicr.cz
 tel.: +420 736 521 003
 
-
 ## Página 2
+
 
 El presente informe final es público y todos los hechos en él expuestos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ### 1 RESUMEN
 Fuente: Drážní inspekce
@@ -78,8 +79,8 @@ No se ha detectado ninguna causa sistémica por parte de Drážní inspekce.
 Recomendaciones de seguridad:
 Drážní inspekce, en virtud de lo dispuesto en el § 53e apartado 1 de la ley n.º 266/1994 Sb., recomienda, con miras a la prevención de sucesos excepcionales:
 
-
 ## Página 4
+
 
 ### A la Autoridad Ferroviaria:
 en el marco de su actividad como autoridad nacional de seguridad, la adopción de sus propias medidas que garanticen a los gestores de la infraestructura ferroviaria (excepto las vías especiales):
@@ -90,8 +91,8 @@ caso de colisión con un vehículo ferroviario, presenten un menor riesgo de pue
 peligro de los perfiles de circulación de las vías de tráfico debido a las consecuencias
 de dicha colisión.
 
-
 ## Página 5
+
 
 ### RESUMEN
 10 de octubre de 2022, 17:06 (15:06 GMT).
@@ -132,8 +133,8 @@ caso de colisión con un vehículo rodante, presenten un menor riesgo de puesta 
 peligro del perfil de circulación de las vías de tráfico debido a las consecuencias de
 dicha colisión.
 
-
 ## Página 6
+
 
 # Índice
 1 RESUMEN..................................................................................................................3
@@ -184,6 +185,7 @@ ferroviaria o de las instalaciones técnicas....................................
 
 ## Página 7
 
+
 4.2.2 Factores o consecuencias derivados de la instalación y puesta en servicio de vehículos ferroviarios, infraestructura ferroviaria o instalación técnica.....................................................................40
 4.2.3 Factores o consecuencias relacionados con el fabricante de vehículos ferroviarios u otro proveedor de productos ferroviarios...........................................................................40
 4.2.4 Factores o consecuencias derivados del mantenimiento y modificación de vehículos ferroviarios o instalaciones técnicas..................................................................................................40
@@ -212,8 +214,8 @@ ferroviaria o de las instalaciones técnicas....................................
 6 RECOMENDACIONES DE SEGURIDAD...................................................................................49
 ANEXOS............................................................................................................................51
 
-
 ## Página 8
+
 
 ### Lista de siglas y símbolos utilizados
 AVV
@@ -283,8 +285,8 @@ Informe Final sobre los Resultados de la Investigación del Incidente
 žst.
 estación ferroviaria
 
-
 ## Página 9
+
 
 ### Lista de siglas de los reglamentos legales, normas y disposiciones internas utilizados
 ley núm. 262/2006 Sb.
@@ -310,8 +312,8 @@ disposición interna del gestor de la infraestructura SŽ "Reglamento de explota
 Propuesta de cierre de vías muertas
 instrucción metodológica del gestor de la infraestructura SŽ, aprobada bajo el n.º 3632/2019-SŽDC-GŘ-O13, "Propuesta de cierre de vías muertas", en la redacción vigente en el momento de la ocurrencia del incidente
 
-
 ## Página 10
+
 
 ### 2 INVESTIGACIÓN Y SU CONTEXTO
 ### 2.1 Decisión de iniciar la investigación
@@ -342,8 +344,8 @@ análisis de la documentación solicitada al gestor de la infraestructura, al tr
 •
 análisis de los datos registrados por el registrador de velocidad del vehículo ferroviario implicado y de los datos registrados por la SZZ;
 
-
 ## Página 11
+
 
 análisis de las grabaciones del sistema de cámaras de la est. Poříčany;
 •
@@ -383,6 +385,7 @@ El tramo intermedio adyacente en dirección a la est. Český Brod es de tres v�
 
 ## Página 12
 
+
 ##  est. Poříčany
 ## Lugar del MU
 ### sentido de circulación del tren Pn 55098
@@ -406,8 +409,8 @@ Al inspeccionar el tren se constató:
 - el inicio del tren no estaba señalizado en el momento de la inspección del lugar de origen del MU con ninguna señal debido al daño general del HDV. El final del tren estaba señalizado con la señal prescrita "Fin de tren";
 - el HDV tenía, entre otros, el bastidor roto, los bogies dañados, el flanco izquierdo, el colector, los amortiguadores, la tubería principal, la parte trasera deformada, la caja VZ arrancada en la sala de máquinas. Asimismo, los dos primeros TDV tenían dañados los bogies (los 3 primeros ejes del 1.º TDV se separaron de los bogies), los flancos izquierdos, el revestimiento de los calderines, la tubería principal, los aparatos de enganche y de choque;
 
-
 ## Página 13
+
 
 - el 3.º TDV detrás del HDV estaba dañado principalmente en la zona de los aparatos de enganche y de choque hacia el 2.º TDV. Los demás TDV del tren no presentaban daños visibles;
 - la inspección del espacio interior de la cabina n.º 1 del HDV tumbado de lado la realizó el inspector de DI con el consentimiento del operador y con la asistencia de HZS SŽ por razones de seguridad y salud en el trabajo. Se constató: todos los manómetros (presión en el depósito principal de aire, presión en la tubería principal y presión en el cilindro de freno) se encontraron en el valor 0 bar, el conmutador de control estaba en la posición "Z", el conmutador de colectores estaba en la posición "P", el mando de la luz blanca de posición estaba en la posición "0", el mando de la luz roja de posición estaba en la posición "P" (señal "Alto, deténgase por todos los medios"), el mando del proyector de largo alcance estaba en la posición "0", la palanca de dirección estaba en la posición "P", el controlador de mando estaba en la posición "0", el mando del freno de continuo DAKO-BS2 se encontró en la posición de frenado rápido, el mando del freno directo DAKO-BP se encontró en la posición de desfrenado, en el repetidor de señales del freno automático de tren no se encendía ningún color;
@@ -422,8 +425,8 @@ Al inspeccionar la infraestructura se constató:
 
 - la SK n.º 4a terminaba en un tope de hormigón tipo SUDOP, originalmente en el km 371,616 (218 m detrás de la señal L4). Dicho tope resultó dañado como consecuencia de la aparición del MU
 
-
 ## Página 14
+
 
 y se encontraba en el km 371,636, 17 m antes de la posición final de la parte delantera del HDV del tren, 20 m detrás de su ubicación original;
 - el tope, tras el impacto en su parte aérea, giró unos 125° a la izquierda del eje de la SK n.º 4a. Quedó clavado con su parte superior izquierda en el suelo y su parte superior derecha justo sobre el suelo. Por la posición del contacto de enganche, en su posición volcada se encontraba a la derecha de la entrada de la SK n.º 2 continuación, inclinado paralelamente en un ángulo de unos 30° hacia dicha vía;
@@ -443,8 +446,8 @@ Al inspeccionar SZZ se constató:
 Condiciones meteorológicas:
 parcialmente nublado, + 11 °C, visibilidad no reducida.
 
-
 ## Página 15
+
 
 Datos geográficos:
 la est. Poříčany se encuentra en terreno llano y en el sentido de circulación del tren Pn 55098 en una curva compuesta a la izquierda.
@@ -483,8 +486,8 @@ Transportista (ČDC):
 - maquinista en preparación en el tren Pn 55098, empleado de ČDC.
 Sujetos participantes:
 
-
 ## Página 16
+
 
 El propietario de la vía ferroviaria, categoría nacional, Kolín – Praha-Libeň, era la República Checa. El derecho de administrar el patrimonio del Estado lo ejercía SŽ, con domicilio en Dlážděná 1003/7, Praha 1, PSČ 110 00.
 El operador de la vía ferroviaria, categoría nacional, Kolín – Praha-Libeň, era SŽ.
@@ -518,6 +521,7 @@ Nota sobre el tren Pn 55098:
 
 ## Página 17
 
+
 El HDV 123.014-3 estaba equipado, en el momento de producirse el MU, con un dispositivo de registro automático de datos: un velocímetro indicador mecánico Hasler Bern tipo RT 9 n.º 18491.
 De los datos registrados se desprende:
 • 17:04:09 h circulación a una velocidad de 84 km.h-1 a una distancia de 500 m de la señal AB 2-3684 (actuación del botón de vigilancia por el maquinista);
@@ -534,16 +538,16 @@ El tramo intermedio Poříčany – Odb. Tatce – Pečky está protegido en amb
 El tren Pn 55098, al circular por la vía 2 desde la señal de entrada 2L, recorrió el tramo recto de la cabecera de vía y, a continuación, las agujas n.º 2 y n.º 3. Seguidamente, circuló por las agujas n.º 7, 8 y 9, en cuyo punto, en la aguja n.º 9, giró en dirección a la SK n.º 4 y continuó por las agujas n.º 12 y 15 hacia la SK n.º 4. Posteriormente, la circulación del tren se realizó por una curva compuesta a la izquierda con radios de 814,3 m, 595 m, 830 m, 815 m, 600 m y 700 m, y un peralte proyectado de 37 mm alrededor de la señal L4; desde la última aguja n.º 15 antes de circular por la SK n.º 4, el tren recorrió 933 m. A continuación, más allá de la señal L4, continuó circulando por las agujas n.º 45 y 46, que estaban dispuestas en dirección a la SK n.º 4a de apartadero, y chocó contra el tope de hormigón situado en su extremo.
 La est. Poříčany estaba equipada con un dispositivo de seguridad de estación de 3.ª categoría (según TNŽ 34 2620) tipo ESA 44 (ESA 11 con paneles EIP y unidades PMI-1) con sistema de señalización de velocidad. Los medios para la detección de la libertad de los tramos de vía eran, según el Reglamento de Estación, circuitos de vía y contadores de ejes. El SZZ podía ser controlado mediante JOP a distancia desde el CDP Praha o desde el puesto del jefe de maniobras de guardia en la est. Kolín, o localmente desde la est. Poříčany. En el momento de producirse el MU, la circulación en la est. Poříčany estaba controlada a distancia desde el CDP Praha. El SZZ estaba equipado con el sistema de seguridad VNPN, es decir, un sistema de alarma que compara cada circulación de DV con las rutas de tren establecidas, de modo que, al detectar una circulación no autorizada de DV más allá de
 
-
 ## Página 18
+
 
 la señal principal, activa automáticamente una alarma acústica a la persona que dirige el tráfico ferroviario y emite una orden de detención a los trenes en las inmediaciones registrados en el sistema de comunicación radio de vía.
 Fig. n.º 2: Visibilidad de la señal de salida L4 a una distancia de 100 m           Fuente: DI
 Al circular por la SK n.º 4 en la est. Poříčany, debido a la curva en la estación, era posible, primero al entrar hacia el andén desdoblado, percibir la señal L2, válida para la circulación de trenes por la SK n.º 2. La señal L4 comenzaba a ser parcialmente visible a una distancia de aprox. 350 m, cuando empezaba a aparecer intermitentemente entre el mástil del soporte de tracción situado detrás del andén entre la 2.ª y la 4.ª SK y los pilares de la cubierta del andén situado entre la 2.ª y la 4.ª SK.
 La visibilidad ininterrumpida de la indicación «Alto» en la señal L4 estaba garantizada al menos a una distancia de 250 m, lo que estaba en consonancia con el § 7 del decreto n.º 173/1995 Sb. Las indicaciones de las señales principales deben ser visibles desde el vehículo ferroviario de cabeza detenido al menos a una distancia de 100 m y desde el vehículo ferroviario de cabeza circulando a la velocidad máxima permitida al menos durante 12 s. El tiempo de visibilidad puede reducirse hasta 7 s, entre otros, en el caso de la señal de salida o de la señal de ruta al final de la vía en la estación. Con una velocidad máxima permitida de 80 km.h-1 y un tiempo de visibilidad requerido de la señal de salida de 7 s, la distancia mínima requerida de visibilidad de la señal en cuestión es de 156 m.
 
-
 ## Página 19
+
 
 Fig. n.º 3: Visibilidad de la señal de salida L4 a una distancia de 200 m           Fuente: DI
 La tensión en el filamento de la luz roja se midió en 10,9 V, siendo el valor mínimo prescrito de 10,2 V (según el art. 122 letra d) de la norma SŽDC T121). Se extrajo y documentó el filamento de la luz roja; el filamento era de un solo filamento, de tipo aprobado para luces de señalización.
@@ -555,8 +559,8 @@ Del análisis de los datos registrados por el TPC n.º 3 del SZZ de la est. Poř
 | 17:06:27 h | el tren Pn 55098 entró en la SK n.º 4; |
 | 17:06:38 h | en la señal L2 (salida de la SK n.º 2 hacia la 2.ª TK) se encendió la indicación «Vía libre» para el tren Ex 1048; |
 
-
 ## Página 20
+
 
 antes, todas las señales de salida en dirección a la est. Český Brod indicaban la indicación «Alto»;
 | 17:06:44 h | establecida la ruta de tren desde la señal 2L desde la 2.ª TK hacia la SK n.º 2 para el tren Ex 1048; en la señal 2L, indicación «Velocidad 120 km/h y vía libre»; |
@@ -569,8 +573,8 @@ antes, todas las señales de salida en dirección a la est. Český Brod indicab
 Fig. n.º 4: Paso del tren Pn 55098 más allá de la señal L4
           Fuente: SŽ, edición DI
 
-
 ## Página 21
+
 
 Fig. n.º 5: Ocupación de los tramos tras la colisión del tren Pn 55098 con el tope
           Fuente: SŽ, edición DI
@@ -588,8 +592,8 @@ maquinista del tren Pn 55098
 ◦durante la estancia en la est. Kolín, dijo al maquinista en prácticas que bajaría la persiana porque el sol empezaba a molestarle;
 ◦al entrar en la est. Poříčany, estaba en el lado derecho, en el puesto, y conducía el tren. Veía bien la señal de entrada. El sol le daba de frente; estaba convencido de que percibía correctamente la indicación en la señal de entrada 2L. Ni siquiera necesitaba gafas de sol,
 
-
 ## Página 22
+
 
 el sol se lo atenuó parcialmente bajando a medias la persiana. Estaba convencido de que la indicación era comprensible y no albergaba dudas sobre su expresión. Sobre la indicación en la preseñal discutió con el maquinista en prácticas; si le comunicó también la indicación de la señal de entrada, ya no lo recuerda;
 ◦en la preseñal de la señal de entrada a la est. Poříčany vio la indicación «Espere velocidad 80 km/h» y en la señal de entrada en la est. Poříčany vio, al entrar, la indicación «Velocidad 80 km/h y vía libre»;
@@ -609,6 +613,7 @@ maquinista del tren Pn 55098
 
 ## Página 23
 
+
 ◦en el momento en que entró en la SK n.º 4, sabía que se encontraba en esta vía. Sobre qué SK suponía que tomaría el tren con la señal «Velocidad 80 km/h y vía libre» en la señal de entrada 2L, indica que suponía que no iría en dirección directa. Suponía que pasaría la est. Poříčany y continuaría adelante;
 ◦a la pregunta de con qué velocidad máxima es posible salir de la est. Poříčany desde la SK n.º 4 hacia la vía en dirección a la est. Český Brod, indicó que no lo sabe;
 ◦a las preguntas de desde qué SK se puede salir de la est. Poříčany con un tren hacia las vías de trayecto en dirección a la est. Český Brod en dirección directa a través de la cabeza de agujas, es decir, solo con la señal que permite la circulación del tren expresada con una luz de las señales de salida, y la salida desde la SK n.º 4 en dirección a Praga se realiza siempre hacia todas las vías de trayecto en consideración a través de la primera aguja en dirección desviada, y la señal que permite la circulación del tren en la señal de salida L4 se expresa siempre encendiendo la luz inferior complementada con un indicador en combinación con la luz superior correspondiente, indicó que no sabe responder;
@@ -623,8 +628,8 @@ maquinista en la preparación en el tren Pn 55098
 ◦salieron de la est. Ústí nad Labem oeste, no se detuvieron en ningún sitio, el maquinista le explicaba la conducción del tren en relación con las condiciones del trayecto, la ubicación de las señales, etc. Desde la est. Mělník fueron solo con la HDV a «enganchar» los cisternas, después de esto tuvieron un almuerzo;
 ◦a continuación continuaron la marcha hacia la est. Kolín, donde les comunicaron el cambio de ruta. Cuando se acercaban a la est. Poříčany, seguían circulando con la señal «Vía libre». Tras la última señal «Vía libre» vio el andén en la estación, no vio ninguna otra señal. No vio la señal con el aviso «Aviso»;
 
-
 ## Página 24
+
 
 ◦las señales no se repetían mutuamente, se las decía solo para sí mismo. Las demás señales, p. ej., las de velocidad, las enumeraba en voz alta y el maquinista le confirmaba su corrección. Si en las señales había señales «Vía libre», el maquinista no se las decía. Solo decía particularidades o excepciones;
 ◦las señales y colores indicados por la señal de entrada 2L eran legibles y visibles, la visibilidad desde la ventana era buena y sin obstrucciones;
@@ -640,8 +645,8 @@ maquinista en la preparación en el tren Pn 55098
 ◦inmediatamente antes de la producción del MU el maquinista no realizaba otras actividades, solo conducía el tren;
 ◦vio la señal L4 solo cuando estaban a la mitad del andén y señalaba la señal «Alto». Entraban en la est. Poříčany a una velocidad de 80 km.h-1 y circulaban a esta velocidad hasta el inicio de la frenada.
 
-
 ## Página 25
+
 
 despachante de trayecto
   – Acta con el empleado:
@@ -658,8 +663,8 @@ Del análisis de los datos de las grabaciones de las cámaras, de la cámara n.�
 La est. Poříčany estaba, en el periodo anterior a la producción del MU, gestionada por la operación estándar del SZZ desde el CDP Praga. Para la composición del tren Pn 55098, el maquinista llegó con la HDV desde la est. Ústí nad Labem oeste a través de la est. Poděbrady hasta la est. Kutná Hora hl. n., donde se realizaron las actividades necesarias para la circulación del tren. A continuación condujo el tren por la ruta planificada hasta la est. Kolín, donde antes de la producción del MU se detuvo y fue informado de la circulación del tren por la ruta a través de Praga en lugar de la ruta planificada a través de Nymburk. Recibió también la orden general para las circulaciones lentas en la est. Velim con la ruta modificada del tren.
 El tren salió de la est. Kolín en dirección a la est. Poříčany y a las 17:04:29 h entró en el tramo de aproximación antes de la señal de entrada 2L, cuando ya estaba establecida la ruta para el tren Pn 55098 hacia la SK n.º 4. Allí estaba planificado por el despachante de trayecto el adelantamiento del tren de mercancías por dos trenes de transporte de viajeros, tras lo cual continuaría su marcha. Junto a la señal de entrada 2L pasó el tren Pn 55098 a las 17:05:13 h a una velocidad de cca 75 km.h-1 y continuó la circulación en la SK n.º 4. El maquinista, según su declaración, en el momento de la circulación del tren junto a la señal 2L suponía que había entrado en la est. Poříčany con la señal «Velocidad 80 km/h y vía libre», por lo que continuó la circulación y ni siquiera al entrar en la SK n.º 4 redujo notablemente la velocidad, esta solo descendió durante la circulación del tren en curva hasta 71 km.h-1.
 
-
 ## Página 26
+
 
 En el momento de la entrada de toda la composición del tren Pn 55098 en la SK n.º 4, el despachante de trayecto estableció la ruta para el tren Ex 1048 desde la 2.ª TK desde la est. Pečky hacia la SK n.º 2 y a continuación hacia la 2.ª TK hasta la est. Český Brod para el previsto adelantamiento del tren Pn 55098 por el tren Ex 1048. En la señal L2 se encendió durante la circulación del tren Pn 55098 por la SK n.º 4 (10 s antes del paso de la señal de salida L4 por el tren Pn 55098) la señal que permite la prevista circulación del tren Ex 1048 desde la SK n.º 2 hacia la 2.ª TK. En el momento en que se encendió la señal que permite la circulación en la señal L2, y con la velocidad de circulación del tren Pn 55098 por la SK n.º 4, su maquinista ya había registrado la señal «Alto» dada por la señal L4 válida para su vía, por la que circulaba, y reaccionó ante ella.
 Debido al periodo y a la hora de producción del MU, el sol brillaba durante la circulación en dirección hacia el tren Pn 55098 y el maquinista tenía, a causa del deslumbramiento durante la circulación desde la est. Kolín, las persianas del parabrisas de la HDV parcialmente bajadas desde arriba, según las grabaciones de las cámaras, desde el paso del tren por la est. Poříčany hasta la producción del MU. El sol en el momento de la circulación del tren hacia la est. Poříçany iluminaba el frontal de la HDV desde el lado izquierdo, con un ángulo de cca 30° y ya se encontraba bajo sobre el horizonte, durante la circulación por la SK n.º 4 en curva a la izquierda se producía a continuación la iluminación directamente sobre el frontal de la HDV.
@@ -712,6 +717,7 @@ reanudación total del servicio en la est. Poříčany.
 
 ## Página 27
 
+
 El plan de emergencias (IZS) fue activado a las 17:08 h, en función del carácter del accidente ferroviario (MU), por una persona situada en las inmediaciones del lugar de origen del MU, y el plan de emergencias (IZS) fue asimismo activado a las 17:13 h, es decir, 6 minutos después del origen del MU, por el despachante de línea del CDP Praga.
 En el lugar del MU intervinieron los siguientes servicios del sistema de emergencias (IZS):
 Policía de la República Checa (PČR), Departamento Territorial de Kolín;
@@ -735,8 +741,8 @@ el 10 de octubre de 2022:
 - tras el acuerdo en el puesto de mando, se decidió que los trabajos posteriores se realizarían el 11 de octubre de 2022 a partir de las 7:00 h. Asimismo, se decidió que los residentes podían regresar provisionalmente a sus hogares;
 - las unidades de los Bomberos (HZS) del Kraje de Bohemia Central fueron enviadas de vuelta a sus bases. La Policía de la República Checa (PČR) aseguró las vías circundantes, permaneciendo en el lugar únicamente las unidades de los Bomberos (HZS) de SŽ Praga, Nymburk y de los Bomberos (HZS) de Spolana Neratovice.
 
-
 ## Página 28
+
 
 el 11 de octubre de 2022:
 •
@@ -760,8 +766,8 @@ el 11 de octubre de 2022:
 - a las 20:24 h se iniciaron las labores de desescombro con la ayuda de dos granes de oruga de la empresa Švestka;
 - a las 20:26 h los empleados de SEE Praga iniciaron los trabajos en la TV;
 
-
 ## Página 29
+
 
 - a las 21:50 h se retiró el tope de hormigón volcado y se depositó fuera del perfil de paso de la línea. Posteriormente, el lugar bajo las cisternas volcadas fue rellenado nuevamente con espuma media debido al corte seguro con equipo autógeno. A continuación, se cortó el enganche;
 - a continuación, una cisterna fue, con la ayuda de los granes de oruga, en colaboración con los empleados del tren de accidentes, colocada sobre la vía y remolcada según las instrucciones de los empleados de ČDC a la SK n.º 8 en la estación (žst.) de Poříčany;
@@ -779,8 +785,8 @@ El gestor de la infraestructura garantizó la visibilidad de las señales del se
 De conformidad con el artículo 6.5.4 del Reglamento de Explotación GSM-R, el empleado de gestión del tráfico en la función de jefe de estación, despachante director, jefe de estación DOZ o despachante de línea, en caso de amenaza a la seguridad en la explotación del transporte ferroviario, debe activar la orden STOP VLAK mediante la operación del terminal táctil final GSM-R CZ.
 La funcionalidad VNPN monitoriza la circulación de los vehículos ferroviarios mediante un punto de detección (en este caso, contadores de ejes con función direccional) y, sobre la base de la información relacionada con los estados del sistema de señalización (SZZ), evalúa la eventual circulación no autorizada de los vehículos ferroviarios. La información obtenida sobre el paso no autorizado de la señal se utiliza principalmente para informar a los empleados operativos (normalmente el jefe de estación o el despachante), que dirigen y organizan el tráfico ferroviario, y eventualmente para informar a otras personas en la sección afectada de la playa de vías. Asimismo, puede producirse automáticamente la emisión de una orden de parada automática de los trenes en la zona correspondiente del paso no autorizado de los vehículos alrededor de la señal mediante los sistemas de radio que están dotados de la funcionalidad de
 
-
 ## Página 30
+
 
 parada automática del tren (TRS), o la emisión de una petición de parada del tren utilizando los sistemas de radio que al menos permiten transmitir al vehículo la información sobre la petición de parada (GSM-R). El sistema de señalización (SZZ) en la estación (žst) de Poříčany no estaba conectado al sistema de radio GSM-R para el caso de activación de la funcionalidad VNPN y la posterior reacción automática del sistema de radio, que emite una llamada de emergencia para la parada de los trenes en la zona afectada. El sistema de señalización (SZZ) (funcionalidad VNPN) se limitó, por tanto, en este caso, a informar al despachante de línea del CDP sobre el paso no autorizado de la señal L4; este hecho lo constató el despachante de línea según el estado del SZZ en el esquema de la estación (žst.) de Poříčany y también mediante la indicación acústica (la función VNPN estaba activa en la estación (žst.) de Poříčany en el momento del origen del MU). Entre el instante en que el SZZ registró la circulación del tren Pn 55098 más allá de la señal L4 con la señal «Alto» (ocupado el tramo de desvío n.º V44-45) y el instante en que el despachante de línea del CDP activó a las 17:07:12 h la orden STOP VLAK en la red GSM-R para el tramo entre la estación (žst.) de Kolín (fuera) y la estación (žst.) de Poříčany, transcurrieron 23 s. Asimismo, activó a las 17:07:21 h la orden STOP VLAK en la red GSM-R para el tramo entre la estación (žst.) de Poříčany (fuera) y la estación (žst.) de Úvaly. El despachante de línea del CDP no tuvo, por tanto, en el momento de la indicación del VNPN, posibilidad alguna de evitar la colisión del tren Pn 55098 con el tope de fin de vía (zarážedlo kusé) SK n.º 4a, dado que se produjo la cancelación automática de las rutas de tren del SZZ debido a la ocupación de otros tramos en la estación (žst.) de Poříčany (efecto de la colisión); en este caso, la activación de la orden STOP VLAK en la red GSM-R dio lugar a la parada de los trenes que circulaban en dirección a la estación (žst.) de Poříčany. El tren Ex 1048, que circulaba detrás del tren Pn 55098, se detuvo tras el origen del MU y la activación de la llamada de emergencia y de la orden STOP VLAK por parte del despachante de línea, en el paso a nivel P4932 antes del señal de entrada 2L, y permaneció allí hasta la evacuación de 240 pasajeros por los Bomberos (HZS), la mayoría de los cuales fueron trasladados a la estación (žst.) de Český Brod.
 El despachante de línea canceló la ruta de tren para el tren Ex 1048 a los 7 minutos y 29 segundos de la indicación del VNPN. Además, entre otras cosas, en el tiempo transcurrido entre el origen del MU y la cancelación de la ruta de tren para el tren Ex 1048, realizó el primer intento fallido de llamada al tren Ex 1048 a las 17:07 h y, posteriormente, recibió una llamada del tren Ex 1048 a las 17:10 h. La circulación no autorizada del tren Pn 55098 se produjo a las 17:06:48 h, el VNPN actuó, es decir, la advertencia en el monitor del SZZ se mostró un segundo después. El tren entró en la vía muerta (odvratná) SK n.º 4a a las 17:06:56 h; el impacto de la locomotora (HDV) contra el tope, debido a la deceleración progresiva del tren y a la longitud de la distancia recorrida de 218 m entre la señal L4 y el tope, se sitúa efectivamente a las 17:07 h (con una posible desviación mínima, no es posible determinarlo con exactitud hasta el segundo). Ni siquiera con la activación inmediata de la orden STOP VLAK por parte del despachante se habría logrado detener el tren y el MU se habría producido, ya que el tiempo restante hasta el impacto tras la señalización del paso no autorizado de la señal L4 (11 s) habría sido, incluso con una reacción inmediata del despachante, demasiado corto. Es necesario añadir que la radio de a bordo de la locomotora (HDV) del tren Pn 55098 no tenía instalada la tarjeta SIM para la comunicación en la red GSM-R adaptada para la recepción de la llamada unidireccional «STOP VLAK» (véase más adelante) y que el maquinista de este tren inició la frenación ya antes de informar al despachante de línea sobre el paso no autorizado de la señal L4 mediante la funcionalidad VNPN. Por este motivo, la actuación del despachante del CDP Praga, que activó la orden «STOP VLAK» 23 s después de la señalización del paso no autorizado de la señal (es decir, 11 s después de la colisión y el posterior descarrilamiento del tren), no tuvo influencia en las consecuencias del MU. No obstante, la reacción del despachante de línea ante la señalización del paso no autorizado en el momento en que, durante la circulación del tren Pn 55098 por la 4.ª SK, se estableció a las 17:06:44 h la ruta de tren para la circulación del tren Ex 1048 desde la 2.ª SK, y 5 segundos después se produjo la señalización del VNPN, no puede considerarse adecuada a la situación planteada.
@@ -790,6 +796,7 @@ En la investigación se constató la infracción de la normativa legal relativa 
 ### con la activación de la orden STOP VLAK por el despachante de línea de la estación (žst.) de Poříčany 23 s después de la señalización
 
 ## Página 31
+
 
 VNPN, paso indebido del tren Pn 55098 más allá de la señal L4 y la anulación de la vía de tren para el tren Ex 1048 para la entrada en la 2. SK hasta 7 minutos y 29 segundos después de la señalización VNPN:
 art. 25 apartado (11) de la norma SŽ D1:
@@ -806,8 +813,8 @@ La instrucción metodológica fue elaborada por SŽ, entre otros, sobre la base 
 
 En el diseño de un tope es conveniente tener en cuenta los requisitos de una instalación sencilla y de restitución al estado original tras el impacto, un alto grado de fiabilidad, requisitos mínimos de mantenimiento y sus costes y posibilidades espaciales. Además, es necesario establecer criterios
 
-
 ## Página 32
+
 
 que influyan en su construcción o uso: tipo de tren, masa mínima y máxima de los trenes explotados en la línea, pendiente de la vía antes del tope, carga operativa de la línea, condiciones locales, ubicación y visibilidad de las señales, velocidad de impacto admisible y distancia de frenado del tope, tipos de enganches de DV, transporte de RID, etc.
 
@@ -860,8 +867,8 @@ en el marco de la preparación de la obra "Velim – Poříčany, BC" no se apli
 especial en el sentido de la IM debido a que no se cumplía la definición anterior. Se
 propuso una solución estándar basada en el código de buenas prácticas".
 
-
 ## Página 33
+
 
 Además, en el punto 3.1 de la instrucción metodológica se indica: "Si, en caso de riesgo medio o alto, no es posible proponer un tope móvil debido a las condiciones reducidas, es posible proponer un tope fijo bajo las condiciones establecidas en SŽDC O13". Este caso parte de la situación en la que, dada la tasa de riesgo, es conveniente instalar este tipo de tope.
 
@@ -874,6 +881,7 @@ En los documentos de SŽ se indicó que los topes fijos tienen su justificación
 En la conclusión de los documentos de SŽ se mencionó que como variantes más adecuadas para la finalización de los callesjones sin salida parecen ser los topes móviles o hidráulicos. Los topes móviles son capaces de absorber una gran cantidad de energía, que puede aumentarse mediante el uso de frenos auxiliares y amortiguadores hidráulicos. Sin embargo, su desventaja puede ser la necesidad de una mayor longitud de construcción, ya que la deceleración se produce a mayor distancia (en este caso no sería un inconveniente). Además, se indicó que la elección del tipo de tope adecuado siempre depende del lugar concreto y
 
 ## Página 34
+
 
 En el proceso decisorio para la elección del aparato de tope entran una serie de factores como, por ejemplo, la composición de la explotación (tipo de tren, su masa), la velocidad del impacto, las condiciones espaciales, la localización, etc. El uso de un aparato de tope de hormigón no se presenta en este caso, según lo anterior, como una solución adecuada: no tiene en cuenta la aparición de posibles riesgos y amenazas al transporte ferroviario en caso de que se produzca un MU similar. En particular, en el HDV se produjo, entre otros efectos, debido al impacto, una deformación significativa del bastidor; no se puede especular sobre si la situación habría sido mejor en caso de colisión con otro tipo de aparato de tope, no obstante, la acumulación de energía cinética de todo el tren se habría producido de forma gradual.
 
@@ -889,6 +897,7 @@ En la investigación no se detectó incumplimiento de las funciones y obligacion
 En la inspección del lugar de la aparición del MU el 11. 10. 2022, el DI detectó deficiencias en la fijación y aseguramiento de algunas cubiertas de las traviesas con canal de las agujas n.º 47, 52 y 54 de la estación de Poříčany en la cabecera en dirección a la estación de Český Brod (faltan pestañas, chavetas, cubiertas sin asegurar). Dado que, con la intensidad de la explotación y las velocidades a las que se circula por las agujas mencionadas, existe el riesgo de que una cubierta suelta y sin asegurar sea proyectada bajo un tren en circulación, el DI avisó inmediatamente por teléfono a los representantes de SŽ de esta circunstancia con la exigencia de subsanarla sin demora antes de la reanudación de la explotación, lo cual fue prometido. En la inspección comisionada de los vehículos ferroviarios descarrilados, la complementación de la documentación y la inspección posterior el 26. 10.
 
 ## Página 35
+
 
 2022, el DI comprobó que el estado de las cubiertas era sin ningún tipo de cambios, las anomalías no habían sido subsanadas y la explotación transcurría sin las medidas correspondientes. Por ello, el DI instó de inmediato a que se subsanara sin demora la anomalía detectada repetidamente o que SŽ adoptara de inmediato medidas para garantizar la seguridad. Tras este segundo aviso, el propio día SŽ subsanó las anomalías e informó también al DI.
 
@@ -916,6 +925,7 @@ La estación de Poříčany se situaba en un terreno llano, en una curva a la iz
 
 ## Página 36
 
+
 En la estación de Poříčany, las señales se transmiten al repetidor de señales VZ solo en las vías principales; en las vías secundarias esta transmisión no está garantizada. Tras la entrada del tren Pn 55098 en la estación de Poříčany, cuando se estableció la ruta de tren desde el semáforo principal (de entrada) 2L en dirección a la SK n.º 4, se apagaron las señales transmitidas en el repetidor de señales VZ. El maquinista declaró que, en cuanto entró con el tren en dirección a la SK n.º 4, sabía que se encontraba en dicha vía, pero ni la coincidencia de informaciones que pudieron influir en él durante la marcha por la SK n.º 4 (el apagado de las señales transmitidas en el repetidor de señales VZ, la circulación por la SK n.º 4, que no es directamente transitable hacia la 2. TK y la salida de la SK n.º 4 se realiza a través de una aguja en dirección de desvío, y la señal en el semáforo de salida L4 se expresa siempre mediante el encendido del símbolo de señal inferior en combinación con el símbolo de señal superior correspondiente), las registró o evaluó correctamente, y comenzó a reducir la velocidad del tren solo en el momento en que comprobó que en el semáforo de salida L4 de la SK n.º 4 brillaba la señal «Alto» (para más detalles, véase el cap. 4.3.2 de este ZZ).
 
 El maquinista del tren Pn 55098, debido a su presunción de transitar por la estación de Poříčany, a su percepción de la señal de entrada en el semáforo 2L como «Velocidad 80 km/h y vía libre», no redujo la velocidad del tren con la suficiente rapidez y comenzó a frenar solo a la distancia en que avistó el semáforo L4, que señalizaba la señal «Alto», pero por la corta distancia no logró detenerse antes de dicho semáforo. Incluso en la situación en la que, al entrar con el tren Pn 55098 en la SK n.º 4, en el momento en que reduciendo la velocidad habría sido capaz de detener el tren, según su declaración no se percató de que para circular por la SK n.º 4 existe otro motivo distinto al tránsito del tren y de que en el semáforo de salida L4, en combinación con la posible combinación de rutas desde la SK n.º 4, no es posible circular con la señal «Vía libre», que él erróneamente percibió como preseñalizada en el semáforo de entrada 2L.
@@ -936,6 +946,7 @@ En la investigación se detectó el incumplimiento de las disposiciones legales 
 •
 
 ## Página 37
+
 
 «El transportista está obligado a explotar el transporte ferroviario de acuerdo con las reglas de explotación del transporte ferroviario, la licencia vigente y el contrato celebrado con el explotador de la vía sobre la explotación del transporte ferroviario en la vía»;
 § 35 apartado 1 letra f) de la Ley n.º 266/1994 Sb.:
@@ -967,8 +978,8 @@ artículo 437 apartado (1) de la norma SŽ D1:
 «Durante la marcha del tren, el maquinista del vehículo de mando observa si los semáforos correspondientes permiten su marcha y, al entrar en la estación, en la estación de clasificación D3 y en la estación de clasificación RB, comprueba si la vía de entrada está libre.».
 El transportista está además obligado a utilizar, para la explotación en las líneas o en parte de la línea con una sección de línea explotada del sistema de radioferrocarril destinado a garantizar la gestión del transporte ferroviario o para la transmisión de órdenes, señales, avisos o transmisión de datos, un vehículo ferroviario equipado con una parte móvil funcional compatible del equipo de radio. Si la sección de línea del sistema de radioferrocarril permite enviar una orden de parada automática del vehículo ferroviario (del tren), y ello sin especificación 54 del sistema de radioferrocarril, el vehículo ferroviario debe estar equipado con los medios técnicos para su realización. En las líneas o parte de la línea equipadas con equipo de radioferrocarril del sistema GSM-R, que garantiza las funciones de comunicación y de voz o la comunicación de datos para el ETCS, un vehículo ferroviario equipado con una parte móvil compatible del sistema GSM-R.
 
-
 ## Página 38
+
 
 La ausencia de medios técnicos en el vehículo ferroviario para la realización de la orden de parada automática del vehículo ferroviario implica la presencia necesaria de un eslabón intermedio (el maquinista) para su detención en caso de amenaza de peligro. Por ejemplo, si se produce una grave indisposición repentina del maquinista, no es posible detener el vehículo ferroviario (el tren) en la red GSM-R CZ. También en los demás casos, la implicación del maquinista en el proceso de parada de emergencia del vehículo ferroviario (del tren) supone la pérdida de segundos, a menudo valiosos, para evitar consecuencias más graves. Un sistema que exige la implicación de un factor humano adicional (la reacción del maquinista a una llamada de voz para la parada del vehículo ferroviario) solo aporta ventaja en la situación en que es conveniente retrasar el efecto de la frenada de emergencia hasta la detención, de manera similar a como se utiliza en el caso del puenteo del freno de emergencia.
 Las especificaciones técnicas de interoperabilidad no exigen que el vehículo ferroviario esté equipado para recibir la orden de parada general, ya que se trata de la denominada «función complementaria» y de la «ampliación nacional» del sistema GSM-R. En el extranjero, en la red GSM-R se utiliza únicamente la denominada llamada de emergencia en grupo (Railway Emergency Call; SKP 299), que garantiza la reproducción de la llamada automática de voz para la parada en el aparato de radio del vehículo ferroviario de mando correspondiente, con independencia de la activación de las funciones complementarias, con las que en la República Checa se ha añadido la orden codificada con la orden para la detención del tren (llamada unidireccional JSM 499). La DI es consciente de que el requisito que se deriva para el sistema GSM-R de la disposición del § 71 apartado 5 letra a) del decreto n.º 173/1995 Sb. no figura en las especificaciones técnicas de interoperabilidad, o bien, en cuanto requisito de acceso a la infraestructura que excede del ámbito de las TSI, es contrario al principio de interoperabilidad. El decreto n.º 173/1995 Sb. no admite, sin embargo, ninguna excepción, lo cual, en lo que respecta a la seguridad, según la DI, es correcto.
@@ -983,8 +994,8 @@ a) en las líneas o en parte de la línea con una sección de línea explotada d
 ### 4.1.2 Entidades responsables del mantenimiento de los vehículos ferroviarios
 En la investigación no se constató infracción de las funciones y obligaciones de las entidades responsables del mantenimiento de los vehículos ferroviarios.
 
-
 ## Página 39
+
 
 ### 4.1.3 Fabricantes de vehículos ferroviarios u otros proveedores de instalaciones ferroviarias
 En la investigación no se constató infracción de las funciones y obligaciones de los fabricantes de vehículos ferroviarios u otros proveedores de productos ferroviarios.
@@ -1002,8 +1013,8 @@ Las funciones y obligaciones de otras personas o entidades no guardaban relació
 4.2.1 Factores o consecuencias derivados de la construcción de los vehículos ferroviarios, de la infraestructura ferroviaria o de las instalaciones técnicas
 En la investigación no se constataron factores derivados de la construcción de los vehículos ferroviarios, de la infraestructura ferroviaria o de las instalaciones técnicas.
 
-
 ## Página 40
+
 
 4.2.2 Factores o consecuencias derivados de la instalación y de la puesta en servicio de los vehículos ferroviarios, de la infraestructura ferroviaria o de las instalaciones técnicas
 En la investigación no se constataron factores derivados de la instalación y de la puesta en servicio de los vehículos ferroviarios, de la infraestructura ferroviaria o de las instalaciones técnicas.
@@ -1024,6 +1035,7 @@ El maquinista del tren Pn 55098 incorporó su turno el 10 de octubre de 2022 a l
 
 ## Página 41
 
+
 Antes del turno, el maquinista disfrutó de un descanso de dos días de permiso de ciclo, un total de 76:24 h; según su declaración, se presentó al turno descansado y no se produjeron anomalías ni en el inicio del turno ni durante el mismo. Tampoco se mencionó negativmente al maquinista la presencia del maquinista en prácticas en el puesto de mando HDV, que le fue asignado debido a la ausencia de otro maquinista que debía instruirle originalmente ese día. El maquinista, entre otras cosas, indicó que durante el transcurso del turno (la instrucción) se entendieron.
 El maquinista estaba apto médica y profesionalmente. Para el tramo de vía Praha-Libeň – Praha-Běchovice – Poříčany – Kolín tenía confirmado el conocimiento de las condiciones de la vía (el 24 de 11 de 2021) para el GVD 2021/2022.
 Del resumen de todos los hechos constatados se desprende que el único factor que pudo actuar negativamente sobre la conducta del maquinista antes de la aparición de la MU fue el sol, pero ni siquiera tenía que llevar gafas de sol: lo bloqueó bajando parcialmente la persiana y no sabe en qué medida pudo deslumbrarle. Además, estaba convencido de que percibía correctamente la señal en la señal de entrada 2L y de que la señal era comprensible y no albergaba dudas sobre su expresión.
@@ -1042,6 +1054,7 @@ y el aseguramiento de la seguridad, y los procedimientos de seguimiento
 Las condiciones pertinentes del marco regulatorio están establecidas en los Reglamentos de la Unión Europea, en la Ley n.º 266/1994 Sb. y en los decretos de aplicación.
 
 ## Página 42
+
 
 4.4.2 Procedimientos, métodos, contenido y resultados de las actividades de evaluación de riesgos y seguimiento que
 realiza cualquiera de los sujetos implicados
@@ -1064,6 +1077,7 @@ ejecución de la Comisión (UE) 2019/773 por el que se aprueba la especificació
 
 ## Página 43
 
+
 • Colocar las señales S5, S3, S1 S0 S2, S4 y S6 en el andén de señales en el km 370,634 a la derecha del eje de la vía, para una mejor identificación de la vía a la que pertenece cada señal.
 • Prolongar el tiempo de transmisión del código a la locomotora en las vías n.º 1, 0, 2 hasta el tiempo máximo posible en función de las demás funcionalidades del sistema de señalización, pero al menos de 3 minutos a 6 minutos.
 • Construir repetidores de preseñal en las vías n.º 1 y 2 en ambos sentidos.
@@ -1076,6 +1090,7 @@ Asimismo, en la respuesta en cuestión se indicó que: «El gestor de la infraes
 Según la información del DÚ, el repetidor de preseñal se construyó y activó en el marco de la ejecución en curso de la obra «Velim – Poříčany, BC», habiéndose incluido el mencionado cambio adicionalmente en la estructura de obra SO 15-01-11 ŽST Poříčany, modificación SZZ. Por parte del DÚ, este cambio fue aprobado, en el sentido de la Ley de Construcción, como modificación de la obra antes de su finalización y, posteriormente, se puso en servicio de prueba, junto con otra parte de la obra, a partir del 10 de 8 de 2023. En la actualidad, la obra «Velim – Poříčany, BC» está finalizada en su totalidad y se encuentra en servicio de prueba.»
 
 ## Página 44
+
 
 ### 4.4.6 Aprobaciones, certificados y dictámenes de evaluación emitidos por la agencia, las autoridades nacionales de seguridad u otros sujetos de evaluación de la conformidad
 El gestor de la infraestructura explotaba la vía con base en la autorización administrativa vigente y el certificado de seguridad del gestor de la infraestructura. El transportista explotaba el transporte ferroviario con base en la licencia vigente y el certificado del transportista.
@@ -1098,6 +1113,7 @@ Con base en los resultados de la MU investigada del 5 de 6 de 2017 en la est. P�
 
 ## Página 45
 
+
 o de contenido análogo, en interés general, esforzarse durante el diseño de reconstrucciones o modernizaciones de la infraestructura ferroviaria, incl. modernizaciones de aparatos de enclavamiento de estaciones, de línea y de pasos a nivel, y, dentro de su competencia, actuar de manera que el equipamiento preproyectual, proyectual y constructivo de las líneas permita realizar con antelación el calendario vinculante para la futura instalación y puesta en marcha sencilla del sistema ERTMS «European Rail Traffic Management System» (sistema europeo de gestión del tráfico ferroviario) tanto a nivel de comunicación como de seguridad y gestión del transporte ferroviario, no solo en las líneas de la red TEN-T «Trans-European Network – Transport» (red ferroviaria transeuropea), sino también en el resto de vías de ámbito nacional y regional en las que se haya determinado la implantación del sistema ERTMS. Asimismo, dentro de su competencia, actuar y propugnar la reducción del plazo de equipamiento de los vehículos ferroviarios correspondientes con las partes embarcadas del sistema ERTMS, con el objetivo de acortar al máximo el llamado periodo de transición y minimizar la problemática operación paralela de la parte fija analógica y digital del enlace radio, aprovechando plenamente las ventajas que aporta el sistema ERTMS.
 
 • en el ámbito de su actuación como autoridad nacional de seguridad, adoptar sus propias medidas, que garanticen que en las vías de ámbito nacional y regional que no estén o no vayan a incluirse en el calendario vinculante para la implantación del sistema ERTMS «European Rail Traffic Management System», se instale, o se continúe con la instalación, de otro sistema de seguridad (nacional) que impida automáticamente la producción de un suceso excepcional de circulación no autorizada de un vehículo ferroviario más allá de la señal que prohíbe la circulación, o de la salida no autorizada de una estación, o que se continúe con la instalación del dispositivo técnico de parada de emergencia de trenes, que sea activado automáticamente por la circulación no autorizada de un vehículo ferroviario más allá de la señal principal. Asimismo, dentro de su competencia, actuar y propugnar el equipamiento de los vehículos ferroviarios correspondientes con las partes embarcadas del otro sistema de seguridad (nacional) mencionado más arriba, o con un dispositivo que coopere (sea compatible) con el dispositivo técnico de parada de emergencia de trenes.
@@ -1110,8 +1126,8 @@ Sobre la base de los resultados de la investigación del suceso del 14. 7. 2015 
 
 En relación con los sucesos repetidos –circulaciones no autorizadas– en la est. Poříčany, la DI registra en un periodo de 15 años, desde 2008 hasta finales de 2022, un total de 37 SU de categoría circulación no autorizada, habiéndose producido un aumento significativo de su número en 2021 (10x) y 2022 (8x). En 2023, hasta la fecha de emisión de la presente ZZ, se había registrado en la est. Poříčany otra circulación no autorizada de un tren
 
-
 ## Página 46
+
 
 más allá de la señal S6. Las cifras indicadas se relacionan, para las necesidades de la estadística que se presenta a continuación, con las circulaciones no autorizadas; algunos de estos SU tuvieron además una continuación del suceso (colisión, descarrilamiento...).
 
@@ -1141,8 +1157,8 @@ Nota a la tabla:
 
 El brusco aumento de estos SU en 2021 (10x) y 2022 (8x) no puede explicarse de manera unívoca y objetiva, también teniendo en cuenta que la actividad de corte de tráfico y la reconstrucción de la est. Poříčany comenzó en junio de 2020, cuando se iniciaron los primeros cortes de tráfico y los trabajos preparatorios, y finalizó en mayo de 2023. La cuestión es la posibilidad de una parcial distracción de la atención de los maquinistas precisamente en ese periodo (2021 – 2022) por los trabajos de construcción bastante intensos que allí se estaban desarrollando, lo que parece ser una explicación relevante de las cifras inusualmente altas precisamente durante la obra. Merece ciertamente atención que en 2019 no se produjera ninguna circulación no autorizada, en 2020 se produjo una circulación no autorizada, y más allá de la señal S1. Los años anteriores, hasta 2021, no se desvían de manera alguna del estado en el que en la est. Poříčany se producían SU de tipo circulación no autorizada con una media de 1 – 2x al año.
 
-
 ## Página 47
+
 
 ### 5 CONCLUSIONES
 ### 5.1 Resumen del análisis y conclusiones relativas a las causas del suceso
@@ -1178,8 +1194,8 @@ El transportista ČDC adoptó, tras la producción del SU, las siguientes medida
 ### Measures taken since the occurrence
 The infrastructure manager SŽ took the following measure after the occurrence:
 
-
 ## Página 48
+
 
 • it was built and activated signal devices OPřS4, OPřL4, OPřL6 and OpřL8 above framework of project „Velim – Poříčany, BC” in terms from 16.10.2022 to 31.08.2023 for ensure safety guided transport operating. The signal devices were activated on 10.08.2023.
 
@@ -1210,6 +1226,7 @@ At the infrastructure manager SŽ:
 
 ## Página 49
 
+
 55098 detrás del dispositivo de señal L4). El jefe de estación canceló la ruta del tren para el tren de pasajeros de larga distancia n.º 1048 hasta 7 minutos y 29 segundos después de la señalización VNPN.
 
 En el ferrocarril ČDC:
@@ -1239,8 +1256,8 @@ within the framework of own activity as a national safety authority, to take own
 
 The Rail Safety Inspection Office does not issue a safety recommendation due to in regard of the found causes and circumstances of this occurrence, published safety
 
-
 ## Página 50
+
 
 recommendations to occurrence from 14th July 2021 at Poříčany station and occurrences which are mentioned at chapture 4.5 of this Report. The Rail Safety Inspection Office point out to safety recommendations for NSA in Report at Poříčany station from 14th July 2021, where recommended:
 
@@ -1258,8 +1275,8 @@ inspector
 Del Útemní inspektorát Brno
 Del Útemní inspektorát Brno
 
-
 ## Página 51
+
 
 ### PŘÍLOHY
 
@@ -1268,8 +1285,8 @@ Fig. n.º 6: Topes fijo de hormigón SK n.º 4a demolido y DV descarrilado
 Fig. n.º 7: Lugar final de parada del tren tras el SU
          Fuente: DI
 
-
 ## Página 52
+
 
 Fig. n.º 8: Detalle de los daños en la HDV
         Fuente: DI

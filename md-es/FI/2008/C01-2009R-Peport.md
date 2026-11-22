@@ -10,13 +10,14 @@ chars: 58469
 ratio_longitud: 1.19
 tokens_in: 27696
 tokens_out: 19613
-verificacion: revisar
-notas_cifras: ["bloque 1: original bilingüe: se compara contra el idioma principal (EN)", "bloque 5: original bilingüe: se compara contra el idioma principal (EN)", "bloque 6: original bilingüe: se compara contra el idioma principal (EN)"]
-avisos: ["bloque 5: ratio 1.77", "bloque 6: ratio 1.65"]
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 3: original bilingüe: se compara contra el idioma principal (SV)", "página 9: original bilingüe: se compara contra el idioma principal (EN)", "página 16: original bilingüe: se compara contra el idioma principal (SV)", "página 19: original bilingüe: se compara contra el idioma principal (SV)", "página 20: original bilingüe: se compara contra el idioma principal (EN)", "página 28: original bilingüe: se compara contra el idioma principal (FI)"]
 ---
+
 ## Página 1
+
 
 Informe de investigación
 C1/2009R
@@ -24,11 +25,12 @@ Defecto de seguridad detectado en la supervisión del tráfico de trenes el 30.1
 Este informe de investigación se ha elaborado para mejorar la seguridad y prevenir nuevos accidentes.
 Aquí no se aborda la posible responsabilidad derivada del accidente ni la obligación de indemnización. Debe evitarse el uso de este informe de investigación para un fin distinto de la mejora de la seguridad.
 
-
 ## Página 2
 
 
+
 ## Página 3
+
 
 ## RESUMEN
 Según la notificación de desviación, el 30.12.2008 se detectó un problema de seguridad en Korvensuo. Los maquinistas informan de que reciben información restrictiva. El semáforo de aproximación había mostrado la indicación de espera-señal de parada, aunque la baliza situada en el semáforo anterior había proporcionado al equipo de control de tráfico del tren (JKV) la información previa de que podía circular a la mayor velocidad permitida (circule a la Ssn) y, cuando el tren llegó al campo de visión del siguiente semáforo principal, este mostró la indicación de circulación.
@@ -44,8 +46,8 @@ Orsaken till den felaktiga ATP-funktionen var att man hade satt in en gammal kor
 2  IM = Interlocking Module
 I
 
-
 ## Página 4
+
 
 Efter att den felaktiga funktionen upptäcktes avhjälptes situationen tillfälligt genom att utfärda en hastighetsbegränsning på 80 km/h inom området. Thales ”arbetsgrupp vid nödfall” samlades 5.1.2009 för att analysera situationen. Efter att felet hittades installerades ett nytt minneskort i ställverksmodulen i Haarajoki 5.1.2009 klockan 23.00. Funktionen testades och 7.1.2009 togs hastighetsbegränsningen på 80 km/h bort i området.
 För att undvika att felaktiga kortversioner används rekommenderar Centralen för undersökning av olyckor att man övervakar kontroller och dokumentering av ändrings- och reparationsarbeten i ställverken. Betydelsen av kontroller bör betonas i utbildningen av ställverkets servicepersonal. Dessutom bör komponenternas revisionsläge märkas ut noggrant. Man måste också försäkra sig om att personalen har tillräckliga kunskaper om de olika versionerna i samband med serviceåtgärder.
@@ -59,13 +61,14 @@ In order to prevent the installation of wrong cards, the Accident Investigation 
 3
 II
 
-
 ## Página 5
+
 
 maintenance training. In addition, component up-to-datedness should be clearly marked on the component and personnel should be made aware of what the latest version in connection with maintenance actions is.
 III
 
 ## Página 6
+
 
 ## CUADRO RESUMEN – SAMMANFATTNING – DATA SUMMARY
 ### Fecha:
@@ -146,8 +149,8 @@ Inga.
 None.
 IV
 
-
 ## Página 7
+
 
 ## ÍNDICE
 RESUMEN......................................................................................................................................I
@@ -184,8 +187,8 @@ Grabaciones del sistema de enclavamiento y del mando a distancia ...............
 4.1 Statements............................................................................................................................9
 V
 
-
 ## Página 8
+
 
 4.2 Causes of the occurrence.....................................................................................................9 
 5 MEDIDAS ADOPTADAS................................................................................................10
@@ -205,18 +208,18 @@ VI
 ## 1 
 ## SITUACIÓN DE PELIGRO 
 ## 1.1 
-### Hora y lugar del suceso
-La situación de peligro fue detectada el 30.12.2008 entre Korvensuo y Haarajoki, en el tramo de vía Kerava–Lahti.
-Figura 1. La situación de peligro fue detectada entre Korvensuo y Haarajoki, en la vía directa entre Kerava y Lahti.
+### Hora y lugar del suceso 
+La situación de peligro fue detectada el 30.12.2008 entre Korvensuo y Haarajoki, en el tramo de vía Kerava–Lahti. 
+Figura 1. La situación de peligro fue detectada entre Korvensuo y Haarajoki, en la vía directa entre Kerava y Lahti. 
 Bild 1. 
 Tillbudet observerades mellan Korvensuo och Haarajoki, på direktbanan mellan Kervo och Lah-
-tis.
+tis. 
 Figure 1. The incident was observed between Korvensuo and Haarajoki, along the direct line between 
-Kerava and Lahti.
+Kerava and Lahti. 
 1
 
-
 ## Página 10
+
 
 Figura 2. Esquema general de los equipos de seguridad de desvíos y señales desde la interfaz de los aparatos de enclavamiento de Haarajoki y Korvensuo.
 Bild 2. 
@@ -234,8 +237,8 @@ El responsable de producto de JKV acudió al lugar y constató que el JKV sí ha
 Ssn = mayor velocidad permitida.
 2
 
-
 ## Página 11
+
 
 ## 1.3 
 ### Daños causados por la situación de peligro
@@ -260,6 +263,7 @@ La información a las balizas se obtiene mediante codificadores, midiendo la cor
 
 ## Página 12
 
+
 En los enclavamientos, en los que la gestión de las secciones de enclavamiento también se realiza mediante ordenadores del enclavamiento, es económicamente conveniente desde el punto de vista del cableado dirigir toda la información de balizas de los señales situados en la frontera del enclavamiento desde el mismo enclavamiento. Esto requiere también la transmisión de la información de balizas de todos los señales situados en la frontera al enclavamiento vecino. Según la información recibida de Thales, un error en el intercambio de tarjetas habría causado un error en la transmisión de la información de balizas entre enclavamientos. La tarjeta se había cambiado el 5.12.2008, ya que había problemas en el arranque del módulo IM del ordenador del enclavamiento. En el sistema de Thales, la posición básica de la señal de la sección de enclavamiento, cuando la sección está libre y la dirección de circulación coincide, es Aja (Circulación). La liberación de la sección de enclavamiento depende, además de la indicación Vapaa (Libre) del recuento de ejes o del circuito de vía, de la supervisión Aja/Seis (Circulación/Parada) de la señal de salida.
 ## 2.4
 ### Medios de comunicación
@@ -279,8 +283,8 @@ Los dispositivos de seguridad habían sido fabricados e instalados por Thales Ra
 En los sistemas de Thales se graban, línea a línea de datos, los cambios de órdenes y de elementos de itinerario que se producen en el enclavamiento, así como sus marcas de tiempo. La información se conserva normalmente durante aproximadamente un año, en función de la capacidad de memoria, pero la información de casos especiales puede conservarse durante más tiempo si se solicita.
 Para la interpretación de las líneas de datos se requiere un especialista, pero a partir de las líneas de datos es posible programar una imagen de monitor del enclavamiento, desde la que se pueden ver los sucesos. Sin embargo, la información de las órdenes, como automático/manual, no es visible en la imagen del monitor. Además, en el año 4
 
-
 ## Página 13
+
 
 2008 el reloj del enclavamiento aún no estaba sincronizado con la hora local. Por tanto, las marcas de tiempo de los sucesos no pueden interpretarse con exactitud.
 Al interpretar los sucesos de la tarde del 30.12.2008, se constató la supresión del itinerario automático de la señal E543 (14.35.05) antes de las maniobras relacionadas con la lubricación de los desvíos y la restitución después de las maniobras individuales de los desvíos (14.52.40). Durante este tiempo, sin embargo, no se pudo observar en el archivo la posición de parada de la señal E547, en cuyo aviso de desviación de la posición de espera-parada de la señal previa se había informado. Ni en el archivo ni en la imagen de monitor del regulador de tráfico se muestran los datos de señal de las señales previas.
@@ -304,8 +308,8 @@ Los empleados de VR intentaron arrancar el módulo de enclavamiento, pero no lo 
 5  IM = Interlocking Module (Módulo de enclavamiento)
 5
 
-
 ## Página 14
+
 
 No se realizó el reinicio según las instrucciones de operación, por lo que el sistema no arrancó.
 5.12.2008 a las 15.12 VR notificó a Thales la caída del módulo de enclavamiento
@@ -332,6 +336,7 @@ Nota: El elemento de campo permaneció igual, aunque se modificó el software de
 
 ## Página 15
 
+
 No se había realizado la comprobación, conforme al manual de mantenimiento L90 5, de si se había cargado el programa correcto en el módulo del aparato de enclavamiento.
 El proceso de carga está correctamente descrito en el manual de mantenimiento.
 Además, deben cumplirse las instrucciones de uso (disposiciones).
@@ -351,8 +356,8 @@ Los mensajes entre las tarjetas tenían una ubicación diferente de los datos en
 El error solo se manifestó cuando los trenes circulaban muy cerca unos de otros en itinerarios consecutivos. La información JKV errónea estaba en el baliz 55028 siempre que el tren circulaba desde el aparato de enclavamiento de Korvensuo hasta el aparato de enclavamiento de Haarajoki. El error solo era posible detectarlo cuando en el señalizador de Haarajoki E547 había señal de parada al entrar el tren en el área de visión del preseñalizador EoE547.
 7
 
-
 ## Página 16
+
 
 ## 4
 ## CONCLUSIONES
@@ -379,8 +384,8 @@ La causa de la función JKV errónea fue que en el módulo IM de la transmisión
 5. Cuando se detectó la función errónea, la situación se corrigió temporalmente estableciendo un límite de velocidad de 80 km/h en la zona.
 8
 
-
 ## Página 17
+
 
 6. Una vez subsanado el fallo, se instaló una nueva tarjeta de memoria en el módulo del aparato de enclavamiento de Haarajoki el 5.1.2009.
 7. Se probó la función y el 7.1.2009 se levantó el límite de velocidad de 80 km/h establecido en la zona.
@@ -404,6 +409,7 @@ Las razones de la función ATP errónea fueron que se había colocado una versi�
 9
 
 ## Página 18
+
 
 el equipo de verificación no estaba operativo debido a la transferencia de la oficina a otra ubicación. La tarjeta tampoco había sido marcada con suficiente claridad.
 ## 5
@@ -432,8 +438,8 @@ Para evitar el uso de versiones incorrectas de tarjetas, el Centro de Investigac
 La Agencia de Transporte de Finlandia debería asegurarse de que las inspecciones de los trabajos de modificación y reparación de las instalaciones de enclavamientos, y su documentación, se realicen bajo supervisión, y de que la importancia de la inspección se destaque en la formación del personal de mantenimiento de las instalaciones de enclavamientos. [C1/09R/S300]
 10
 
-
 ## Página 19
+
 
 Cuando se modifican versiones de software, la corrección del software debe poder verificarse también in situ, especialmente en lo que respecta a las conexiones con las instalaciones de enclavamientos vecinas. Para ello, se debe informar al personal de mantenimiento sobre qué cambios se han realizado en el software y a qué operaciones afectan. Además, se deben proporcionar instrucciones sobre las pruebas que garantizan la compatibilidad con las instalaciones de enclavamientos vecinas.
 ### S301 Marcado de las versiones de las tarjetas
@@ -457,33 +463,27 @@ funktioner ändringarna påverkar. Dessutom bör man ge instruktioner om tester 
 trollerar kompatibiliteten med grannställverken.
 11
 
-
 ## Página 20
 
-### S301 Att märka ut kortversionen
-För att undvika att felaktiga kortversioner används rekommenderar Centralen för under-
-sökning av olyckor följande:
-Trafikverket borde se till att komponenternas revisionsläge märks ut noggrant. Man
-måste också försäkra sig om att personalen har tillräckliga kunskaper om de olika ver-
-sionerna i samband med serviceåtgärder. [C1/09R/S301]
-### Övrigt att beakta och förslag
-För att lösa felsituationerna i IM-datorer bör de som underhåller utrustningen få utbild-
-ning i att alltid stänga av och starta om datorerna även när programversionerna ändras.
-Trafiksäkerhetsverket, Trafikverket och VR-Group Ab har gett utlåtanden om rekom-
-mendationerna. De fullständiga utlåtandena finns i bilaga 1.
+### S301 Marcar la versión corta
+Para evitar que se utilicen versiones cortas incorrectas, el Centro de investigación de accidentes recomienda lo siguiente:
+Trafikverket debería asegurarse de que el estado de revisión de los componentes se marque cuidadosamente. También hay que asegurarse de que el personal tenga conocimientos suficientes sobre las distintas versiones en relación con las actuaciones de mantenimiento. [C1/09R/S301]
+### Otros aspectos a tener en cuenta y propuestas
+Para resolver las situaciones de error en los ordenadores IM, quienes mantienen el equipo deberían recibir formación para apagar y reiniciar siempre los ordenadores, incluso cuando se cambian las versiones de los programas.
+Trafiksäkerhetsverket, Trafikverket y VR-Group Ab han emitido informes sobre las recomendaciones. Los informes completos se encuentran en el anexo 1.
 ## 6
 ## RECOMENDACIONES DE SEGURIDAD
-### S300 Énfasis en la importancia de las inspecciones
-Para evitar el uso de versiones incorrectas de tarjetas, el Centro de Investigación de Accidentes ha formulado la siguiente recomendación:
-La Agencia de Transporte de Finlandia debería asegurarse de que las inspecciones de los trabajos de ajuste y reparación de las instalaciones de enclavamientos, y la documentación relacionada con ellos, estén supervisadas, y de que la importancia de la inspección se destaque en la formación de mantenimiento de las instalaciones de enclavamientos.  [C1/09R/S300]
-Debería ser posible verificar que también se utilizan en el lugar las versiones correctas de software, especialmente en lo que respecta a las conexiones con el equipo de instalaciones de enclavamientos vecinas. Esto significa que el personal de mantenimiento debe ser notificado sobre qué actualizaciones de software se han realizado y a qué operaciones afectan. También deben elaborarse instrucciones con respecto a las pruebas para garantizar la compatibilidad con el equipo de instalaciones de enclavamientos vecinas.
-### S301 Marcado de las versiones de las tarjetas
-Para evitar el uso de versiones incorrectas de tarjetas, el Centro de Investigación de Accidentes ha formulado la siguiente recomendación:
-La Agencia de Transporte de Finlandia debería asegurarse de que las versiones de los componentes se marquen claramente y de que se informe al personal sobre las diferentes versiones durante las acciones de mantenimiento. [C1/09R/S301]
+### S300 Enfatizar la importancia de las inspecciones
+Para evitar que se utilicen versiones de tarjeta incorrectas, el Consejo de Investigación de Accidentes ha formulado la siguiente recomendación:
+La Agencia de Transporte de Finlandia debería asegurarse de que las inspecciones de los trabajos de ajuste y reparación de los aparatos de enclavamiento, y la documentación relacionada con ellos, estén supervisadas y de que la importancia de la inspección se enfatice en la formación de mantenimiento de los aparatos de enclavamiento. [C1/09R/S300]
+Debería ser posible verificar que también se utilicen las versiones de software correctas en el lugar, especialmente en lo que respecta a las conexiones con equipos de aparatos de enclavamiento vecinos. Esto significa que se debe notificar al personal de mantenimiento qué actualizaciones de software se han realizado y qué operaciones se ven afectadas. También deben elaborarse instrucciones con respecto a las pruebas para garantizar la compatibilidad con los equipos de aparatos de enclavamiento vecinos.
+### S301 Marcar las versiones de tarjeta
+Para evitar que se utilicen versiones de tarjeta incorrectas, el Consejo de Investigación de Accidentes ha formulado la siguiente recomendación:
+La Agencia de Transporte de Finlandia debería asegurarse de que las versiones de los componentes estén claramente marcadas y de que se informe al personal sobre las distintas versiones durante las actuaciones de mantenimiento. [C1/09R/S301]
 12
 
-
 ## Página 21
+
 
 ### Otras observaciones y propuestas
 Para prevenir los fallos de los ordenadores IM, se debería impartir al personal de mantenimiento la formación adecuada sobre el apagado de las máquinas y su reinicio, incluso cuando cambian las versiones de software.
@@ -494,6 +494,7 @@ Jarmo Tuomi
 13
 
 ## Página 22
+
 
 ## LISTA DE FUENTES
 Los siguientes anexos de fuentes están registrados en el Centro de Investigación de Accidentes:
@@ -518,27 +519,28 @@ Aparato de enclavamiento y señalización, plano general, n.º de plano 0400 113
 Horario gráfico Kytömaa–Mäntsälä, en vigor a partir del 1.8.2008
 14
 
-
 ## Página 23
 
-## Anexo 1/1 (3) 
-## DICTÁMENES 
 
+## Anexo 1/1 (3) 
+## DICTÁMENES
 
 ## Página 24
 
-## Anexo 1/2 (3) 
 
+## Anexo 1/2 (3)
 
 ## Página 25
 
-## Anexo 1/3 (3) 
 
+## Anexo 1/3 (3)
 
 ## Página 26
 
 
+
 ## Página 27
+
 
 ## Anexo 2/1 (4) 
 ## EXTRACTOS DE LAS NORMAS Y DIRECTRICES RELATIVAS AL CASO 
@@ -566,10 +568,10 @@ Apartado 3.8 Órdenes, indicaciones y manual de uso del aparato de seguridad:
 La orden de un aparato de seguridad deberá ser claramente distinguible de otras órdenes.  
 Una orden crítica no podrá dar lugar a acciones de control antes de la confirmación de la orden.  
 La orden de emergencia deberá ser una orden crítica.  
-Al transferir una indicación desde el sistema de aparatos de seguridad a un sistema externo al sistema de aparatos de seguridad, la transferencia de la indicación deberá realizarse de manera que el fallo del sistema externo al sistema de aparatos de seguridad no provoque una distorsión de la indicación en el sistema de aparatos de seguridad ni afecte al funcionamiento del sistema de aparatos de seguridad.  
-
+Al transferir una indicación desde el sistema de aparatos de seguridad a un sistema externo al sistema de aparatos de seguridad, la transferencia de la indicación deberá realizarse de manera que el fallo del sistema externo al sistema de aparatos de seguridad no provoque una distorsión de la indicación en el sistema de aparatos de seguridad ni afecte al funcionamiento del sistema de aparatos de seguridad.
 
 ## Página 28
+
 
 ## Anexo 2/2 (4) 
 El sistema de aparatos de seguridad en uso deberá disponer de un manual de uso que contenga la marca de vigencia y aprobación realizada por la organización responsable del aparato correspondiente.  
@@ -605,6 +607,7 @@ En las condiciones del itinerario del itinerario de tren deberá garantizarse qu
 los tramos de vía en el itinerario de tren y en la reserva de sobrepaso estén libres, excepto el tramo de vía reservado en el itinerario de tren de la vía reservada,
 
 ## Página 29
+
 
 ## Anexo 2/3 (4)
 - 
@@ -651,8 +654,8 @@ La distancia de transmisión de información no puede ser inferior a la distanci
 
 Punto 5.3 Velocidad de vigilancia:
 
-
 ## Página 30
+
 
 ## Anexo 2/4 (4)
 La velocidad de vigilancia para la señal que finaliza la vía de circulación de trenes debe determinarse conforme a la distancia entre la señal y el punto a proteger.

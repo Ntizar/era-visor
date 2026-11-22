@@ -10,13 +10,14 @@ chars: 213789
 ratio_longitud: 1.18
 tokens_in: 93999
 tokens_out: 63719
-verificacion: revisar
-notas_cifras: ["bloque 3: original bilingüe: se compara contra el idioma principal (FI)", "bloque 4: cifras largas: 1/5", "bloque 5: cifras cortas: 1/34", "bloque 6: cifras cortas: 2/94", "bloque 7: cifras largas: 1/33", "bloque 8: original bilingüe: se compara contra el idioma principal (EN); cifras cortas: 1/97"]
-avisos: ["bloque 31: ratio 1.89"]
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 6: original bilingüe: se compara contra el idioma principal (FI)", "página 7: original bilingüe: se compara contra el idioma principal (EN); cifras cortas: 1/4", "página 8: original bilingüe: se compara contra el idioma principal (FI)", "página 9: original bilingüe: se compara contra el idioma principal (FI)", "página 13: cifras cortas: 1/8", "página 14: cifras cortas: 2/29"]
 ---
+
 ## Página 1
+
 
 B5/2009R 
 Descarrilamiento de diez vagones de un tren de mercancías en Toijala el 16.6.2009 
@@ -95,8 +96,8 @@ VAK
 VAK
 25
 
-
 ## Página 2
+
 
 Vok 
 Vok 
@@ -250,6 +251,7 @@ No
 
 ## Página 3
 
+
 | 8 | VO | 14620 | 9720 | 1850 |  |
 | 9 | VO | 14620 | 9720 | 1850 |  |
 | 10 | VGka | 14730 | 10000 | 1850 |  |
@@ -296,8 +298,8 @@ was 70 km/h.
 |  | 9000 , | 0463 , | 22 , | 0405 , | 25 , |
 |  | 4810 , | 0247 , | 40 , | 0216 , | 46 , |
 
-
 ## Página 4
+
 
 9,000 
 0,463 
@@ -557,10 +559,10 @@ was 70 km/h.
 0,095 
 10,5 
 0,083 
-12,0 
-
+12,0
 
 ## Página 5
+
 
 |  | 2625 , | 0135 , | 74 , | 0118 , | 85 , |
 | 17 vaunu . | 1850 , | 0095 , | 105 , | 0083 , | 120 , |
@@ -585,23 +587,23 @@ Aparte de los resultados de medición mecánica de los desvíos, del mantenedor 
 
 ## Página 6
 
-En el mismo constaban la fecha de sellado y la firma del operario. Actualmente no se documentan las medidas de inspección y los valores de ajuste de los bloqueos de las agujas y de los contactos de vigilancia.
-La medición del circuito de corriente continua de la vía se había realizado en diciembre de 2008 y el mantenimiento el 15.12.2008.
-El mantenimiento del armario de aparatos de vía del armario K265 que controla la aguja V004 se había realizado el 16.12.2008.
-## 2.4
-### Aparatos de seguridad
-## 2.4.1
-### Aparatos de la aguja V004
-En la investigación del accidente de Toijala se ha constatado que la aguja V004 giró bajo el tren a la posición indicada en la figura 10.
-Figura 10. La aguja V004, renovada tras el accidente. Los rieles móviles de la aguja habían girado bajo el tren a la posición indicada en la figura.
-Bild 10.
-Den nya växeln V004 som byttes efter olyckan. Växeltungorna hade lagts om under tåget till läget enligt bild.
-Figure 10. Turnout V004, which was renewed after the accident. The switch blades had turned underneath the train into the position shown in the figure.
-Al iniciarse la investigación no se conocía la causa del giro de la aguja V004 bajo el tren. El bloqueo mecánico de una aguja equipada con aparato de cambio eléctrico puede liberarse de dos maneras:
-1) El motor de cambio de la aguja se pone en marcha, con lo que se libera el bloqueo mecánico de la aguja. El giro de la aguja comienza de modo que primero empieza a moverse el riel móvil libre de la aguja. Cuando el bloqueo se ha liberado por completo, también empieza a moverse el riel móvil enclavado. En la fase final del movimiento del riel móvil que queda libre, la varilla de cambio del riel móvil que se cierra se enclava mecánicamente mediante el enclavamiento interno del motor de cambio de la aguja. El motor de cambio funciona con corriente trifásica. La aguja también puede girarse haciendo girar el extremo del eje del motor de la aguja.
-2) Se ejerce una fuerza transversal sobre el riel móvil libre de la aguja y el movimiento del riel abre el enclavamiento de la aguja.
+de la misma el sello de fecha y la firma del operario. Actualmente no se documentan las medidas de inspección y los valores de ajuste de los bloqueos de los desvíos y de los conmutadores de vigilancia.
+La medición del circuito de vía de corriente continua se había realizado en diciembre de 2008 y el mantenimiento el 15.12.2008.
+El mantenimiento del gabinete de instalaciones de vía del gabinete K265 que controla el desvío V004 se había realizado el 16.12.2008.
+## 2.4 
+### Dispositivos de seguridad 
+## 2.4.1 
+### Dispositivos del desvío V004
+En la investigación del accidente de Toijala se ha constatado que el desvío V004 giró bajo el tren a la posición indicada en la figura 10.
+Figura 10. Desvío V004 renovado después del accidente. Los raíles móviles del desvío habían girado bajo el tren a la posición indicada en la figura.  
+Bild 10. 
+Den nya växeln V004 som byttes efter olyckan. Växteltungorna hade lagts om under tåget till läget enligt bild. 
+Figure 10. Turnout V004, which was renewed after the accident. The switch blades had turned underneath the train into the position shown in the figure. 
+Al iniciarse la investigación no se conocía la causa del giro del desvío V004 bajo el tren. El bloqueo mecánico de un desvío dotado de aparato de cambio eléctrico que se encuentra mecánicamente bloqueado puede liberarse de dos maneras: 
+1) El motor de cambio del desvío se pone en marcha, con lo que se libera el bloqueo mecánico del desvío. El giro del desvío comienza de modo que primero empieza a moverse el raíl móvil libre del desvío. Cuando el bloqueo se ha liberado por completo, también empieza a moverse el raíl móvil fijo. Va-
 
 ## Página 7
+
 
 Para depurar las causas del giro de la aguja, en la investigación se decidió realizar comprobaciones y ensayos en los que se pusieron a prueba las posibilidades alternativas.
 En la fase inicial de la investigación se centró en el sistema de enclavamiento y en la hipótesis principal según la cual la aguja V004 habría girado por la fuerza del motor.
@@ -619,6 +621,7 @@ Figure 11. Left: the impact mark caused by the wheel flange at the tip of the le
 
 ## Página 8
 
+
 - El enclavamiento parece haber funcionado con normalidad hasta las interferencias causadas por el accidente.
 ## 2.4.2
 ### Enclavamiento TL1 de Toijala
@@ -634,6 +637,7 @@ De la información obtenida del fabricante y del mantenedor puede suponerse que 
 El enclavamiento Ebilock 850 de Toijala es de arquitectura distribuida. Esto significa que los programas relacionados con los enclavamientos de seguridad se encuentran en la unidad INTERLOCKING PROCESSING UNIT de nivel superior. La unidad se conecta, a través de canales de telecomunicaciones, tanto al sistema de mando a distancia externo como a la interfaz creada por el fabricante del aparato. La conexión de mando a distancia del enclavamiento está enlazada con el sistema de mando a distancia TAIKA del Centro de Control de Tráfico Regional de Tampere. La interfaz de uso de Toijala, originalmente concebida para uso local, también se ha trasladado al Centro de Control de Tráfico Regional de Tampere.
 
 ## Página 9
+
 
 Las unidades OBJECT CONTROLLER, es decir, unidades de control, programadas por procesador, relacionadas con el mando y la vigilancia de elementos individuales del enclavamiento, están situadas en el terreno, en la proximidad de los balizamientos, las agujas y otros aparatos de vía, en armarios de aparatos de seguridad (CONTROLLER CABINET), como se muestra en la figura 13. Las unidades de control están conectadas al enclavamiento mediante cables de alimentación y de transmisión de datos.
 Figura 13. Esquema estructural del enclavamiento Ebilock 850.
@@ -651,21 +655,21 @@ Los controladores de tráfico se comunicaban con los maquinistas y los revisores
 ## 2.6 
 ### Condiciones meteorológicas 
 La temperatura en el momento del accidente era de +9 °C. El tiempo en el momento del accidente estaba parcialmente nublado. 
-Según los datos meteorológicos, no se registraron tormentas eléctricas en la zona. 
+Según los datos meteorológicos, no se produjeron tormentas eléctricas en la zona. 
 ## 2.7 
 ### Organizaciones y personas relacionadas con el accidente 
-La seguridad del tráfico ferroviario estaba a cargo en 2006 de la Oficina Ferroviaria (Rautatievirasto), creada ese año. 
-La Oficina Ferroviaria se transfirió a principios de 2010 a la Agencia de Seguridad del Transporte Trafi, creada entonces, en su ámbito de actividad de carreteras y ferrocarriles. La Dirección de Gestión Ferroviaria (RHK) era titular de la red ferroviaria. 
-Gestionaba las vías y las zonas ferroviarias y edificios relacionados con ellas. A principios de 2000 se creó la Agencia de Transporte (Liikennevirasto), cuya sección ferroviaria, la Sección Ferroviaria de la Agencia de Transporte, es en la práctica la antigua Dirección de Gestión Ferroviaria. En el momento del accidente, la Oficina Ferroviaria y la Dirección de Gestión Ferroviaria seguían siendo responsables de los asuntos ferroviarios. 
-A nivel nacional, la supervisión de la conducción del tráfico ferroviario correspondía al Centro de Tráfico de la Dirección de Gestión Ferroviaria, que coordinaba la conducción del tráfico ferroviario y resolvía, cuando era necesario, las situaciones de perturbación del tráfico. La Dirección de Gestión Ferroviaria tenía también responsabilidad de autoridad sobre los centros regionales de conducción del tráfico. El personal de los centros regionales de conducción del tráfico pertenecía a la plantilla de VR Osakeyhtiön. 
-La misión del Centro de Tráfico de la Dirección de Gestión Ferroviaria era el mantenimiento de la imagen de la situación del tráfico, la gestión de las situaciones de perturbación en toda la red ferroviaria y la comunicación en situaciones de perturbación. El Centro de Tráfico seguía la fluidez del tráfico con la ayuda de los sistemas de información y de conducción del tráfico. Los efectos de las situaciones de perturbación se minimizaban coordinando la conducción regional del tráfico, dando instrucciones a los conductores del tráfico y comunicando las situaciones de perturbación. Entre las tareas del Centro de Tráfico se incluía también la distribución de capacidad ferroviaria urgente a los operadores. Los operadores podían solicitar capacidad ferroviaria urgente para necesidades de horario inesperadas o modificadas. El Centro de Tráfico es capaz de tramitar solicitudes urgentes de capacidad ferroviaria las 24 horas del día. 
-La función principal del Centro de Gestión de Transportes de VR (KUHA) era la dirección de la gestión de las situaciones de perturbación desde el punto de vista de los transportes. La misión de KUHA era responder a la rotación de material rodante, a la rotación del personal de tren y a los contactos del personal con los trenes, así como a los transportes sustitutivos. 
-En relación con la conducción regional del tráfico de Helsinki funcionaba un centro de información. Su misión era proporcionar información al cliente en situaciones de perturbación a las estaciones de la región del sur de Finlandia mediante anuncios y paneles de información. 
-La información a los pasajeros proporcionada en las estaciones formaba parte de la infraestructura ferroviaria y, por tanto, era responsabilidad de la Dirección de Gestión Ferroviaria. La Dirección de Gestión Ferroviaria era también responsable de los sistemas de información electrónicos situados en las estaciones y en las zonas de andén, entre los que se incluyen los paneles de horarios y los sistemas de anuncios, es decir, el sistema de información y anuncios a los pasajeros (MIKU). 
-Los operadores, por su parte, eran responsables de la información relacionada con la disponibilidad de los viajes, así como de la información proporcionada a bordo de los trenes. 
-
+La responsabilidad en materia de seguridad del tráfico ferroviario correspondía a la Oficina Ferroviaria (Rautatievirasto), creada en 2006. 
+La Oficina Ferroviaria fue transferida en el inicio de 2010 a la Oficina de Seguridad del Transporte Trafi (Liikenteen turvallisuusvirasto Trafi), a su área de tráfico por carretera y ferrocarril. El Centro de Gestión Ferroviaria (RHK) era el titular de la red ferroviaria. 
+Gestionaba las vías y las zonas ferroviarias y edificios relacionados con ellas. A principios de 2010 se creó la Oficina de Transporte (Liikennevirasto), cuya parte, la Sección Ferroviaria de la Oficina de Transporte (Liikenneviraston rautatieosasto), es en la práctica el antiguo Centro de Gestión Ferroviaria. En el momento de producirse el accidente, la responsabilidad en materia ferroviaria correspondía todavía al RHK y a la Oficina Ferroviaria. 
+A nivel nacional, la supervisión de la conducción del tráfico ferroviario correspondía al Centro de Tráfico (Liikennekeskus) del Centro de Gestión Ferroviaria, que coordinaba la conducción del tráfico ferroviario y resolvía, cuando era necesario, las situaciones de perturbación del tráfico. El Centro de Gestión Ferroviaria tenía también responsabilidad de autoridad sobre los centros regionales de conducción del tráfico. El personal de los centros regionales de conducción del tráfico pertenecía a la plantilla de VR Osakeyhtiön. 
+La misión del Centro de Tráfico del Centro de Gestión Ferroviaria era el mantenimiento de la imagen de la situación del tráfico, la gestión de las situaciones de perturbación en toda la red ferroviaria y la comunicación en situaciones de perturbación. El Centro de Tráfico seguía la fluidez del tráfico con la ayuda de los sistemas de información y de conducción del tráfico. Los efectos de las situaciones de perturbación se minimizaban coordinando la conducción regional del tráfico, dando instrucciones a los conductores de tráfico y comunicando las situaciones de perturbación. A las tareas del Centro de Tráfico correspondía también la distribución de capacidad ferroviaria urgente a los operadores. Los explotadores podían solicitar capacidad ferroviaria urgente para necesidades de horario inesperadas o modificadas. El Centro de Tráfico es capaz de tramitar solicitudes urgentes de capacidad ferroviaria las 24 horas del día. 
+La tarea principal del Centro de Gestión de Transportes de VR (KUHA) era la dirección de la gestión de las situaciones de perturbación desde el punto de vista de los transportes. La misión de KUHA era responder a la rotación de material rodante, a la rotación del personal de tren y a los contactos del personal con los trenes, así como a los transportes sustitutivos. 
+Junto a la conducción regional del tráfico de Helsinki funcionaba un centro de información (infokeskus). Su misión era proporcionar información al cliente en situaciones de perturbación a las estaciones de la región del sur de Finlandia mediante anuncios y paneles de información. 
+La información al pasajero facilitada en las estaciones formaba parte de la infraestructura ferroviaria y, por tanto, correspondía al Centro de Gestión Ferroviaria. El Centro de Gestión Ferroviaria respondía también de los sistemas de información electrónicos situados en las estaciones y en las zonas de andén, entre los que se incluyen las pantallas de horarios y los sistemas de anuncios, es decir, el sistema de información y anuncios al pasajero (MIKU). 
+Los operadores respondían, por su parte, de la información relacionada con la disponibilidad de los viajes, así como de la información facilitada en los trenes.
 
 ## Página 11
+
 
 Los sistemas de información electrónicos producen información principalmente de forma automática, pero en situaciones excepcionales se requiere la aportación directa de trabajo de los expertos. En estos casos, el personal de conducción del tráfico se ocupa de los asuntos de información, además de sus demás tareas. 
 La información a los pasajeros incluye también la señalización fija existente en las estaciones. A este sistema de señalización fija pertenecen, entre otros, los marcos de horarios, que VR-Yhtymä Oy utiliza para presentar los horarios en papel y la ordenación de los vagones de los trenes. El resto del contenido es responsabilidad de la Agencia de Transporte. 
@@ -684,6 +688,7 @@ Cuando se produjo el accidente el 16.6, como conductor regional trabajaba el con
 El conductor regional del turno de mañana del 17.6 comenzó su trabajo a las 7.50. Tenía 48 años y llevaba 10 años en el puesto de conductor regional. Durante su turno se centró principalmente en la organización del tráfico sustitutivo.
 
 ## Página 12
+
 
 En el momento del accidente, el director de tráfico de la sección ferroviaria Toijala–Turku era un director de tráfico de 53 años. Llevaba 36 años al servicio de VR. Había trabajado 17 años como operador de aparatos de enclavamiento y tres años como operador de mando a distancia. Entró a trabajar en el turno de noche sobre las 20.30. Como primera tarea, aseguró la vía para el tren de mercancías 3513. Su siguiente observación sobre el tren fue cuando el maquinista se puso en contacto y le informó de que la conducción de freno del tren se había vaciado. Gestionaba el tráfico de Toijala en colaboración con el director de tráfico de la línea principal.
 
@@ -704,8 +709,8 @@ Tras producirse el accidente, la dirección de tráfico realiza una alerta confo
 
 El jefe de despeje tiene en el lugar del accidente la máxima responsabilidad de dirección en cuanto al orden de ejecución de las labores de despeje y demás trabajos, es decir, el jefe de despeje otorga a los distintos agentes los permisos para la realización de los trabajos.
 
-
 ## Página 13
+
 
 Como jefes de despeje actuaron dos jefes de taller de Tampere, de 51 y 52 años de edad. Eran jefes de taller y jefes de despeje experimentados.
 
@@ -728,6 +733,7 @@ Según el contrato celebrado con RHK, el mantenimiento de la vía eléctrica de 
 
 ## Página 14
 
+
 La mantenimiento de las comunicaciones de vía estaba a cargo, de acuerdo con el acuerdo celebrado con RHK, principalmente de Corenet Oy, propiedad del grupo VR.
 La actividad de VR-Rada, Eltel Networks y Corenet estaba regida por los acuerdos celebrados con los operadores, cuya cumplimiento era supervisado por el jefe de mantenimiento de RHK a través de su organización y de la organización de gestión.
 ## 2.8
@@ -746,8 +752,8 @@ Los investigadores tuvieron a su disposición las grabaciones del dispositivo de
 Según los datos del dispositivo de registro de circulación, el peso total del tren era de 1 756 toneladas, la longitud de 499 metros y el peso de frenado de 801 toneladas. El tipo de freno del tren era G (posición de tren de mercancías) y la velocidad máxima permitida era de 80 km/h.
 Según los datos del dispositivo de registro de circulación, el tren partió de Turku a las 18.47.38. El tren se detuvo a las 19.30.17 (en Kyrö) y reanudó su marcha a las 19.30.44, circulando inicialmente a una velocidad de 24 km/h hasta las 19.32.42, momento en que comenzó a acelerar. El tren continuó su marcha con una velocidad que variaba entre 47 y 85 km/h.
 
-
 ## Página 15
+
 
 La antena JKV10 de la locomotora pasó el par de balises11 del semáforo principal P350 de la dirección de llegada de Toijala a las 20.49.20. La velocidad del tren era entonces de 59 km/h. La locomotora pasó el par de balises del semáforo principal P002 de la dirección de salida a las 20.50.45 a una velocidad de 70 km/h. El tren continuó a velocidad constante, la locomotora tenía la tracción acoplada y no se frenó.
 La velocidad del tren comenzó a descender desde 70 km/h a las 20.51.15 y la presión de la línea de freno comenzó a descender a las 20.51.16. La tracción se desactivó a las 20.51.22. La locomotora pasó el par de balises del semáforo E042 a las 20.51.23 a una velocidad de 57 km/h.
@@ -765,6 +771,7 @@ La regulación del tráfico comenzó a organizar comunicaciones alternativas par
 
 ## Página 16
 
+
 Una hora después del accidente se estimó que la despejaría duraría toda la noche y la reparación de los sistemas de seguridad al menos un día completo. Dos horas después, la estimación del director de tráfico era que quizá se podría pasar el otro lado del lugar del accidente, pero el inicio del tráfico podría prolongarse hasta la mañana. Tres horas después, el director de tráfico de Tampere informó al director de tráfico de Turku de que se había dado la información de que con asistencia diésel se podría pasar el lugar del accidente por la vía 7.
 
 Cuatro horas después del accidente, el director de tráfico de la línea Toijala–Turku llamó al jefe del Centro de Servicios de Control de Finlandia Occidental que se encontraba en el lugar del accidente. El jefe del centro de control proporcionó al director de tráfico la siguiente información e instrucciones:
@@ -779,8 +786,8 @@ A las 8.39, cuando el director de tráfico preguntó cuándo estarían los pórt
 
 De las numerosas conversaciones de las grabaciones del registro de voz se desprende cómo los controladores remotos procuraban gestionar el tráfico, instruir a los conductores y revisores, y realizar evaluaciones de la situación. De las grabaciones del registro de voz también se desprende cómo los directores de tráfico acordaban el paso de los trenes con el responsable de seguridad ferroviaria presente en Toijala según la situación en cada momento.
 
-
 ## Página 17
+
 
 ## 2.9.3 
 ### Registros del enclavamiento 
@@ -839,6 +846,7 @@ enclavamiento fallan. portal 266, lo que paraliza el sistema de
 enclavamiento y corta las comunicaciones.
 
 ## Página 18
+
 
 Tabla 3.
 Secuencia de los hechos.
@@ -927,8 +935,8 @@ servicio.
 que el sistema de enclavamiento quede fuera de
 servicio y se interrumpan las comunicaciones.
 
-
 ## Página 19
+
 
 Tabla 3.
 Secuencia de los hechos.
@@ -1019,6 +1027,7 @@ servicio y se interrumpan las comunicaciones.
 
 ## Página 20
 
+
 ## 2.9.4 
 ### Registros de los servicios de rescate 
 ### Registro de comunicaciones del centro de emergencias 
@@ -1031,10 +1040,10 @@ A las 21.16.35, el centro de emergencias preguntó a la P3 del sur si tendrían 
 A las 21.18.23, una persona que ya había llamado anteriormente al centro de emergencias informó al centro de emergencias desde Toijala de que en el lugar del accidente había numerosos transeúntes. El centro de emergencias minimizó el riesgo, a lo que el informante respondió que el trabajador de vías estaba ordenando a la gente que abandonara el lugar y advirtiendo sobre los cables bajo tensión. 
 A las 21.19.00, se alertó a la unidad V11 de la estación de bomberos de zona de Valkeakoski para una tarea de inspección y verificación en la estación de ferrocarril de Akaa Toijala. 
 A las 21.25.23, una persona que llamó al centro de emergencias y que vivía en las inmediaciones inmediatas del lugar del accidente se preguntaba si se tenía conocimiento del accidente, ya que en el lugar del accidente había varios vagones apilados y aún no se veía a nadie. Además, temía que se produjeran daños adicionales. El centro de emergencias respondió que VR estaba informado y que unidades de policía y de rescate estaban en camino. 
-A las 21.28.29, la P3 preguntó al centro de emergencias la ruta de acceso al lugar del accidente. El operador de guardia del centro de emergencias precisó que el número de vagones descarrilados era de seis y que dos de los vagones se habían vuelco. 
-
+A las 21.28.29, la P3 preguntó al centro de emergencias la ruta de acceso al lugar del accidente. El operador de guardia del centro de emergencias precisó que el número de vagones descarrilados era de seis y que dos de los vagones se habían vuelco.
 
 ## Página 21
+
 
 A las 21.29.39, la P3 preguntó cómo se podía contactar con el equipo de despeje de VR y si el lugar había sido desenergizado y puesto a tierra. El centro de emergencias informó de que la electricidad estaba cortada en el lugar y el tráfico interrumpido. El centro de emergencias supuso que VR pertenecía al grupo de llamadas "Pir Vir". 
 A las 21.47.28, la P3 informó al centro de emergencias de que los vagones VAK estaban en posición vertical. 
@@ -1047,6 +1056,7 @@ La P3 emitió posteriormente una nota de prensa en la que se indicaba que seis v
 En la sección "Actuación del servicio de bomberos" se señala que la alerta se emitió como tarea de inspección/verificación aunque se trataba claramente de un accidente ferroviario de importancia media. En el informe también se indica que los vagones de transporte de sustancias peligrosas no presentaban fugas. La P3 realizó por la mañana una nueva inspección en el lugar del accidente y observó vagones de transporte de petróleo, tras lo cual acordó con el equipo de despeje medidas de contención en caso de que se detectaran bidones rotos.
 
 ## Página 22
+
 
 ## 2.10 
 ### Documentos 
@@ -1085,10 +1095,10 @@ Aclarar la organización directiva y las relaciones de mando
  
 Actualización de las instrucciones de alerta 
  
-Verificación de la suficiencia de recursos, en especial de los expertos 
-
+Verificación de la suficiencia de recursos, en especial de los expertos
 
 ## Página 23
+
 
  
 Verificación de la suficiencia de las instrucciones y medios de comunicación 
@@ -1123,6 +1133,7 @@ En el apartado MEJORABLE se proponen correcciones al funcionamiento:
 
 ## Página 24
 
+
 9. En este caso, los esquemas y planos existían en formato papel. ¿Hay motivos para plantearse la forma electrónica?
 En el punto 9 también se presentaron propuestas de mejora:
 - En el lugar del accidente debe haber un responsable único que organice las tareas y mantenga a los contratistas al día. Cuando se trata de un proceso largo, deben mantenerse reuniones de revisión de la situación con los interlocutores (contratistas) a intervalos fijos, por ejemplo, cada hora o cada dos horas, y los asuntos deben ordenarse por prioridad. El responsable de todo el proyecto conversa con los representantes de los contratistas.
@@ -1152,6 +1163,7 @@ El propósito es examinar, sobre la base del material disponible, las medidas de
 9. Vigilancia del lugar del accidente / orientación de terceros => procedimiento de quién encarga, a quién encarga.
 
 ## Página 25
+
 
 10. Finalización de las labores de despeje en el lugar del accidente y limpieza del entorno.
 
@@ -1184,6 +1196,7 @@ La regulación del tráfico no llegó en ningún caso a utilizar el sistema de i
 2. Los conductores no tenían los números de teléfono de la regulación del tráfico en la cabina de servicio cuando la radio de línea dejó de funcionar.
 
 ## Página 26
+
 
 ### Autoridad Ferroviaria
 Las ordenanzas vigentes en este momento no permiten asistir, como maniobra de enlace, a un tren con pasajeros de una estación a otra. Requiere examen en cuanto a las instrucciones.
@@ -1222,6 +1235,7 @@ Instrucciones generales de mantenimiento de los dispositivos de seguridad e inst
 - 3.2 Inspección y mantenimiento periódicos
 
 ## Página 27
+
 
  3.3 Registro de las medidas de inspección y mantenimiento
  3.4 Inspecciones adicionales
@@ -1270,8 +1284,8 @@ la persona responsable de la actuación en nombre de la empresa, con sus datos d
 la organización de las comunicaciones.
 Además, en el punto 3 se exige que «El material rodante, la plantilla y el nivel de preparación para la alarma asignados a las labores de retirada deben ser tales que los trabajos de salvamento, retirada y reparación puedan realizarse en un plazo razonable».
 
-
 ## Página 28
+
 
 En el punto 4. NOTIFICACIONES Y ALARMAS se indica, por último, que «cada empresa es responsable de su propia alarma interna. Cada empresa se procurará por sí misma la ayuda adicional que pueda necesitarse».
 En el punto 5. RELACIONES DE MANDO EN EL LUGAR DEL ACCIDENTE se indica, por último, que «una vez retirado el material rodante, la responsabilidad total pasa al representante del contratista, salvo que se acuerde lo contrario».
@@ -1296,6 +1310,7 @@ el aislamiento necesario de la zona del accidente
 
 ## Página 29
 
+
 - 
 la obtención de permiso del responsable de la investigación de accidentes para iniciar las labores de despeje y rehabilitación
 - 
@@ -1317,8 +1332,8 @@ En el procedimiento de instrucción se presenta el sistema de alerta de la unida
 Aviso de daños, emergencias e interrupciones de Tampere
 En el aviso se presenta una descripción breve del suceso y se registra la hora en la que se alertó a las partes figurantes en la lista. El aviso es una herramienta del director de zona, una especie de lista de verificación, pero no se conserva después del accidente.
 
-
 ## Página 30
+
 
 ### Lista de tareas del centro de control de tráfico de Tampere para situaciones de accidentes e interrupciones del tráfico, 19.3.2004
 En la lista se presentan de forma escalonada y detallada las medidas y tareas que la dirección del tráfico debe ejecutar.
@@ -1342,8 +1357,8 @@ Esquema de alerta y flujo de información de la zona de Finlandia Occidental, 23
 ### Investigación realizada por la policía
 La patrulla policial acudió al lugar del accidente, fotografió el lugar del accidente y elaboró un informe de investigación.
 
-
 ## Página 31
+
 
 ## 2.13 
 ### Investigación técnica del desvío V004
@@ -1358,6 +1373,7 @@ Los medidores de VR Track acudieron a medir el desvío con un tacómetro. Compro
 
 ## Página 32
 
+
 Las medidas del desvío eran:
 A0: 1525 -> antes del accidente (26.2.2009) 1526, cambio -1 mm
 B0: 1525 -> antes del accidente 1525, cambio 0 mm
@@ -1371,8 +1387,8 @@ Los anclajes de las varillas del conmutador de desvío estaban, al comprobarlos,
 Al abrir, en el aparato de cambio no se detectaron daños. Se observó que el desvío no estaba bloqueado. El segmento de bloqueo del aparato de cambio no estaba en la ranura de bloqueo, y el conmutador del aparato de cambio no estaba en posición de vigilancia.
 En el desvío no se detectaron daños mecánicos, a excepción de pequeñas marcas de golpe en las puntas de las lengüetas (véase la figura 14) y de las marcas dejadas por ruedas desviadas que comienzan, respecto a la dirección de circulación, a 6,57 metros por el exterior de la lengüeta izquierda y a 8,82 metros por el exterior de la lengüeta derecha desde la punta de la lengüeta
 
-
 ## Página 33
+
 
 En las lengüetas y los raíles de soporte del desvío no se apreciaban marcas de paso de ruedas. En las partes eléctricas del aparato de cambio no se detectaron daños visibles ni cables sueltos. También las piezas del conmutador estaban intactas y en su sitio.
 Se midió la separación entre los raíles de soporte del desvío. Los resultados de la medición se presentan en el dibujo del Anexo 2. Las medidas no se desviaban significativamente de las medidas teóricas indicadas en el dibujo.
@@ -1387,6 +1403,7 @@ Al accionar el desvío se midieron la fuerza de apertura12 y la fuerza de ajuste
 13 Fuerza de ajuste del aparato de cambio = Fuerza estática máxima con la que el aparato de cambio del desvío gira las varillas del desvío.
 
 ## Página 34
+
 
 Tabla 4. Fuerza de ajuste y de apertura forzada del mecanismo de cambio de aguja.  
 Tabell 4. 
@@ -1419,10 +1436,10 @@ Por lo tanto, no se puede afirmar con exactitud si el cambio de aguja estaba cor
 14  Instrucción de ajuste de las barras del cambio de aguja Tlj nro 36, Rautatiehallitus, turvalaitejaosto 1986. 
 15  Justeranvisning för växelstänger Tlj nr 36, Järnvägsstyrelse, 1986. 
 16  Instructions for the adjustment of point switch rods, Tlj No. 36, Board of Administration of the Finnish State 
-Railways, 1986. 
-
+Railways, 1986.
 
 ## Página 35
+
 
 l. Sin embargo, las desviaciones medidas respecto de los valores de referencia son tan pequeñas que no afectan a la funcionabilidad fiable del cambio de aguja.  
 No se midieron los valores de ajuste de los contactos situados en el asistente de cambio de aguja, ya que no fue posible verificar la posición de las lengüetas del cambio de aguja. La verificación no fue posible porque la posición de las lengüetas del cambio de aguja ha cambiado al retirar el asistente de cambio de aguja y al trasladar el cambio de aguja. 
@@ -1443,6 +1460,7 @@ En las pruebas dinámicas, la lengüeta abierta se sacudió con control de despl
 
 ## Página 36
 
+
 En la medición hay que tener en cuenta que solo se refleja a cierta frecuencia la parte de la amplitud dinámica, mientras que el estado constante (offset) se representa en la frecuencia cero. Además, hay que tener en cuenta que los espectros no se han escalado¹⁸ para mostrar la amplitud de vibración real; los valores de amplitud deben leerse de las series temporales.
 Con las mediciones se pretendió aclarar si la causa del accidente por descarrilamiento pudo ser la vibración de la aguja. Según las mediciones, esto parece posible, siempre que las ruedas del tren generen en la aguja abierta una carga dinámica adecuada.
 En la figura 16 se muestran las frecuencias de excitación calculadas por la comisión investigadora a la velocidad del tren de 70 km/h. Según el estudio, el 80 % de la fuerza que actúa en el aparato de cambio de aguja se transmite al mecanismo de cambio en torno a 12 Hz, lo que constituye la frecuencia de excitación principal desde el coche 8 hacia atrás a una velocidad de 80 km/h. A una velocidad de 70 km/h la situación es algo mejor (transmisibilidad del 50 %).
@@ -1454,8 +1472,8 @@ Frekvenser som låste upp låsningen av tungan (utmärkta med röda prickar), n�
 Figure 15. Frequencies that caused the switch lock to open (indicated by red dots) when the blade was excited dynamically at the switch contactor. The horizontal axle shows the excitation amplitude at the switch contactor.
 ¹⁸ Esto se debe a la señal de excitación utilizada (barrido sinusoidal) y al enventanado (Hanning). El fenómeno es natural y no puede corregirse completamente. Aproximadamente, los espectros deben multiplicarse por dos. Sin embargo, los valores son correctos en relación entre sí.
 
-
 ## Página 37
+
 
 [Hz]
 12,0
@@ -1498,8 +1516,8 @@ Se entrevistó en Hyvinkää el 17.7.2009 a un experto de Oy VR-Rata Ab especial
 En la reunión de trabajo organizada en Bombardier, proveedor del dispositivo, el 12.8.2009 participaron el presidente de la comisión y el experto en dispositivos de seguridad. Por parte de Bombardier asistieron el director general de la unidad de Finlandia, el experto en sistemas, dos expertos que participaron en el diseño original del sistema y el coordinador interno de seguridad. En la reunión se revisaron los principios de funcionamiento del sistema de enclavamiento. Se prestó especial atención, desde el punto de vista de la investigación, a la unidad de control de la aguja y su funcionamiento.
 El objetivo principal era encontrar posibles anomalías de funcionamiento que pudieran provocar que la inversión de la aguja se produjera de forma errónea. En la discusión surgieron las funciones del enclavamiento
 
-
 ## Página 38
+
 
 que no generan registros en los archivos de eventos. Como ejemplo de ello, se menciona que la inversión de la aguja no transmite directamente información sobre el estado de funcionamiento del motor. La aparición de tales anomalías de funcionamiento sin la orden dada por el enclavamiento se consideró extremadamente improbable. En la reunión se leyó, con un equipo de prueba, la última orden de inversión de la memoria del procesador de la tarjeta situada en la unidad de control V004 del aparato de cambio de Toijala. Se comprobó que estaba relacionada con las pruebas realizadas después del accidente, que se organizaron el 29.6.2009.
 En la reunión de trabajo no se encontraron pruebas de posibles interferencias o fallos en el enclavamiento.
@@ -1514,20 +1532,20 @@ En las pruebas del 15.–16.10.2009 se comparó el funcionamiento de las tarjeta
 ## Página 39
 
 ### 2.13.2.1 Línea de investigación 1: Funcionamiento del aparato de enclavamiento
-En las primeras fases de la investigación se detectó que en los datos impresos el 17.6.2009 por el aparato de enclavamiento faltaban marcaciones de bloqueo esenciales para el funcionamiento seguro de las vías de circulación. La información de bloqueo de la aguja V004 y la supervisión de la ausencia de ocupación, así como la supervisión de la posición de la aguja V006, no figuraban en los archivos de sucesos. Los datos de sucesos del sistema de enclavamiento se habían capturado originalmente de modo que solo comenzaban 11 minutos antes del accidente, es decir, a partir de las 20.40. Cuando se intentó imprimir datos anteriores a ese momento siete días después del suceso, ya no había información disponible.
-Según las investigaciones, la ausencia de datos relativos a las agujas V004 y V006 en los datos originales del suceso se debió a que el regulador de tráfico había establecido la ruta de salida ya hacia las 20.30 aproximadamente, y esta no aparecía en la lista impresa tras el accidente.
+En las fases iniciales de la investigación se detectó que, en los datos impresos del aparato de enclavamiento el 17.6.2009, faltaban las marcas de bloqueo esenciales para el funcionamiento seguro de las vías. La información de bloqueo de la aguja V004 y la supervisión de la posición libre, así como la supervisión de la posición de la aguja V006, no figuraban en los archivos de sucesos. Los datos de sucesos del sistema de enclavamiento se habían capturado originalmente de modo que solo comenzaban 11 minutos antes del accidente, es decir, a partir de las 20.40. Cuando se intentó imprimir datos anteriores siete días después del suceso, dichos datos ya no estaban disponibles.
+Según las investigaciones, la ausencia de información relativa a las agujas V004 y V006 en los datos originales del suceso se debió a que el regulador de tráfico había establecido la ruta de salida ya hacia las 20.30 aproximadamente, y esta no aparecía en la lista impresa tras el accidente.
 Para verificar el funcionamiento del aparato de enclavamiento se organizó una prueba el 29.6.2009. El aparato de enclavamiento funcionó sin defectos y los datos de sucesos que produjo correspondían al funcionamiento esperado.
-Figura 18. La ruta del tren de mercancías 3513 en el momento del accidente. La sección ocupada por el tren está indicada en rojo y la ruta establecida para él en verde. La aguja de accidente V004 está indicada con una flecha azul.
+Figura 18. La ruta del tren de mercancías 3513 en el momento del accidente. La sección ocupada por el tren está indicada en rojo y la ruta establecida para el mismo, en verde. La aguja de accidente V004 está indicada con una flecha azul.
 Bild 18.
 Färdvägen för godståget 3513 vid olyckstillfället. Delen som upptas av tåget är utmärkt med rött och färdvägen som har ställts in för tåget är utmärkt med grönt. Olycksväxeln V004 är utmärkt med en blå pil.
 Figure 18. The route of freight train 3513 at the time of the accident. The section occupied by the train is indicated in red and the route set for it in green. The turnout V004 where the accident occurred is indicated by a blue arrow.
-Las investigaciones se referían al suceso siguiente: cuando se establece la ruta de salida con la llamada reserva de paso por la vía 2, esta gira y bloquea la aguja V004 hacia la vía principal en dirección a Tampere. En ese momento también se supervisa que las agujas V004 y V006 estén libres, con lo que se forma la ruta P350–P002. Al establecer la ruta de continuación desde el señalizador P002 hacia Tampere, ya no se registran en el archivo de sucesos datos de sucesos relativos a las agujas V004 y V006, aunque los estados de las agujas forman parte de las condiciones de supervisión de la ruta.
-La documentación de la prueba se encuentra en la documentación de la investigación. De las pruebas existe una nota fechada el 29.6.2009 redactada por el experto en dispositivos de seguridad de la comisión de investigación. Con motivo de las pruebas se copió para uso de la investigación la documentación de los armarios de dispositivos de seguridad 265 y 266.
-### 2.13.2.2 Línea de investigación 2: Funcionamiento de la unidad de mando de la aguja
-En las conversaciones mantenidas con el mantenedor se constató que en la inspección de puesta en servicio relacionada con la reparación de la aguja pudo haber un defecto en la unidad de mando de la aguja de accidente V004. La unidad de mando no funcionaba normalmente cuando se intentaba probarla. Los representantes del mantenedor sustituyeron, de acuerdo con el procedimiento en uso, todas las tarjetas de circuito de la unidad de mando.
-
+Las investigaciones se referían al suceso siguiente: cuando se establece la ruta de salida con el llamado movimiento de maniobra en doble aguja, esta gira y bloquea la aguja V004 hacia la vía principal en dirección a Tampere. En ese momento también se supervisa que las agujas V004 y V006 estén libres, con lo que se forma la ruta P350–P002. Al establecer la ruta continua desde la señal P002 hacia Tampere, ya no se registran en el archivo de sucesos datos de sucesos relativos a las agujas V004 y V006, aunque la información de estado de las agujas forma parte de las condiciones de supervisión de la ruta.
+La documentación de la prueba se encuentra en la documentación de la investigación. De las pruebas existe un memorándum del experto en instalaciones de seguridad de la comisión de investigación, fechado el 29.6.2009. Con motivo de las pruebas se copiaron para uso de la investigación la documentación de los armarios de seguridad 265 y 266.
+### 2.13.2.2 Línea de investigación 2: Funcionamiento de la unidad de control de la aguja
+En las conversaciones mantenidas con el mantenedor se constató que, en la inspección de puesta en servicio relacionada con la reparación de la aguja, en la unidad de control de la aguja de accidente V004 se pudo
 
 ## Página 40
+
 
 Cuando se puso de manifiesto la sospecha de defecto, el experto en dispositivos de seguridad de la comisión de investigación se hizo cargo de las tarjetas de la unidad de mando. Se incautaron la tarjeta de procesador de la unidad de mando, la tarjeta de mando de la aguja, la tarjeta de fuente de alimentación y la tarjeta de supervisión de la aguja.
 Con motivo de la prueba del aparato de enclavamiento el 29.6.2009, el experto en dispositivos de seguridad probó las tarjetas sospechosas de estar defectuosas en sus ubicaciones originales en el armario de dispositivos de seguridad K265. Como resultado de la prueba se detectó que todas las tarjetas funcionaban sin defectos, tanto en conjunto en su configuración original como probadas individualmente junto con tarjetas nuevas.
@@ -1550,6 +1568,7 @@ Según las pruebas, era extremadamente improbable que la tarjeta de control de l
 
 ## Página 41
 
+
 Los investigadores plantearon al fabricante una hipótesis según la cual una avería de memoria de la tarjeta de procesador de la unidad de control provocaría una pérdida de control del programa y causaría el giro incorrecto del desvío. Se obtuvo respuesta a la hipótesis, en la que se explican diversos métodos de protección relacionados con eventos inesperados. La probabilidad de desviaciones de funcionamiento conforme a la hipótesis es muy pequeña.
 ### 2.13.2.4 Línea de investigación 4: Versión de la tarjeta de control del motor de la unidad de control
 Al comienzo de la investigación se constató que la tarjeta de control del desvío de la unidad de control del desvío V004 de Toijala era de una versión anterior. El mantenedor tenía conocimiento de que las tarjetas se pretenden cambiar (al menos en caso de avería) por un modelo nuevo.
@@ -1563,10 +1582,10 @@ El fabricante comentó el asunto en su informe en febrero de 2009:
 - 
 El aviso de avería con diferencia más frecuente es "interferencia en la supervisión del desvío". Los desvíos deberían ajustarse para reducir la cantidad de dichos avisos de avería. (The overall most common alarm is “Failure in point supervision”. It should be possible to do some adjustments to the point installations to reduce the amounts of those alarms.)
 - 
-Según el mantenedor, la causa de los avisos de avería es la nieve y el hielo en los desvíos. Sin embargo, también se producen avisos de avería en verano. Fue el aviso de avería más frecuente en los datos de eventos recopilados en mayo-junio de 2008. (VR technicians are blaming the alarm ‘point failure in supervision’ on snow and ice in the points, but the alarms are 
-
+Según el mantenedor, la causa de los avisos de avería es la nieve y el hielo en los desvíos. Sin embargo, también se producen avisos de avería en verano. Fue el aviso de avería más frecuente en los datos de eventos recopilados en mayo-junio de 2008. (VR technicians are blaming the alarm ‘point failure in supervision’ on snow and ice in the points, but the alarms are
 
 ## Página 42
+
 
 also occurring during summertime. It is the most usual alarm during the period May-June 2008 when the log-files were collected.)
 - 
@@ -1586,32 +1605,40 @@ El gabinete de enclavamiento fue trasladado al lugar de investigación en Järve
 
 ## Página 43
 
-Figura 19. El gabinete de aparatos de seguridad destruido K266.
-### 2.13.2.7 Línea de investigación 7: Conversión deliberada de un desvío
-Maniobrar un desvío con bloqueo de vía mediante mando a distancia o aparato de enclavamiento de tal forma que no quede ningún rastro del suceso es, en la práctica, imposible.
-Una sabotaje deliberada realizada por una persona ajena es, en principio, posible, pero no hay indicios de ello. De la conversión de un desvío causada por una persona ajena no se obtendría otra expresión que la indicación de vía libre abierta producida con ocasión del accidente.
-### 2.13.2.8 Línea de investigación 8: Seguimiento posterior del aparato de enclavamiento
-Para verificar el funcionamiento del aparato de enclavamiento, el mantenedor supervisó y documentó el funcionamiento del aparato de enclavamiento en vías seleccionadas en Toijala durante julio–agosto de 2009. No se observaron anomalías en el funcionamiento.
-## 2.14
-### Examen de los vagones
-Los vagones se examinaron por primera vez con ocasión de la inspección en el lugar. En el examen no se encontraron defectos o daños que hubieran indicado que los hubieran causado el accidente.
-Los miembros de la comisión de investigación examinaron los vagones descarrilados y sus componentes el 23.6.2009, cuando ya habían sido trasladados al lateral de la vía. En el examen se observaron ejes de bogie secos, gastados y reparados mediante soldadura, propios de los vagones de mercancías rusos. Al eje de bogie del lado del vagón se le había añadido mediante soldadura una nueva superficie deslizante y en algunos ejes esta se había desprendido parcialmente. Como en el examen de los componentes no se observó nada anormal respecto a lo normal que indicara el defecto que causó el accidente
-
+Kuva 19 Tuhoutunut turvalaitekaappi K266. 
+Bild 19. 
+Det förstörda skåpet för signalsäkerhetsutrustning K266. 
+Figura 19. El gabinete de dispositivos de seguridad destruido K266. 
+### 2.13.2.7 Línea de investigación 7: Conversión intencionada de aguja 
+Maniobrar una aguja bloqueada en la vía mediante el enlace de mando a distancia o el aparato de enclavamiento de tal manera que no quedara rastro alguno del suceso es, en la práctica, imposible. 
+Una sabotaje deliberada realizada por una persona ajena es, en principio, posible, pero no hay indicios de la misma. De una conversión de aguja causada por una persona ajena no cabría esperar otra manifestación que la indicación de circulación libre producida con ocasión del accidente. 
+### 2.13.2.8 Línea de investigación 8: Seguimiento posterior del aparato de enclavamiento 
+Para verificar el funcionamiento del aparato de enclavamiento, el mantenedor supervisó y documentó el funcionamiento del aparato de enclavamiento en vías seleccionadas en Toijala durante julio–agosto de 2009. No se observaron anomalías en el funcionamiento. 
+## 2.14 
+### Examen de los vagones 
+Los vagones se examinaron por primera vez con ocasión de la inspección en el lugar. En el examen no se encontraron averías o daños que hubieran indicado que los mismos hubieran causado el accidente. 
+Los miembros de la comisión de investigación examinaron los vagones descarrilados y sus componentes de nuevo el 23.6.2009, cuando habían sido trasladados al lateral de la vía. En el examen se observaron ejes de bogie secos, gastados y reparados mediante soldadura, propios de los vagones de mercancías rusos. Al eje de bogie del lado del vagón se le había añadido mediante soldadura una nueva superficie deslizante y en algunos ejes esta se había desprendido parcialmente. Como en el examen de los componentes no se observó nada anormal respecto a lo normal con respecto a la causa del accidente
 
 ## Página 44
+
 
 se decidió montar los dos primeros vagones descarrilados para el examen de sus características de circulación.
 Figura 20. Al eje de bogie del lado del vagón se le había añadido mediante soldadura una nueva superficie deslizante y en algunos ejes esta se había desprendido parcialmente.
 Bajo la dirección de la comisión, los dos primeros vagones descarrilados se montaron el 26.8.2009 en la factoría de Pieksämäki. La comisión midió y verificó aún los bogies y los juegos de ruedas de los vagones, así como las fijaciones de los bogies al vagón, antes de levantar los vagones sobre los bogies. La anomalía más significativa fue que los ejes de bogie estaban secos y gastados, y que las partes de los ejes de bogie del lado del vagón habían sido reparadas mediante soldadura.
 
-
 ## Página 45
 
-Figura 21. Montaje del primer bogie del vagón 17, que volcó.
-Figura 22. Descenso de la caja del vagón 17 sobre los bogies.
-
+Figura 21. Reensamblaje del primer bogie del vagón 17, que se había vuelco. 
+Bild 21. 
+Ihopmontering av den första boggin i den 17:e vagnen, som välte. 
+Figure 21. Reassembly of the first bogie of the 17th wagon which had tipped over. 
+Figura 22. Descenso de la carrocería del vagón 17 sobre los bogies. 
+Bild 22. 
+Den 17:e vagnens korg sänks på boggierna. 
+Figure 22. Lowering the body of the 17th wagon onto the bogies.
 
 ## Página 46
+
 
 Las características de circulación de los vagones se ensayaron el 27.8.2009 tirando y empujando los mismos en las curvas de pequeño radio y en los desvíos de la vía de maniobras de la factoría, tanto vacíos como con una carga del tamaño de la del accidente. Los vagones circularon bien a pesar de los daños producidos en el accidente, y no existía riesgo de descarrilamiento. Tampoco en los componentes de los vagones había defectos que hubieran podido causar el descarrilamiento.
 Figura 23. Ensayo en marcha de los vagones 17 y 18 que volcaron en el accidente.
@@ -1623,8 +1650,8 @@ Los vagones con los que se realizaron los ensayos de circulación eran vagones a
 El objetivo del ensayo era estudiar el comportamiento del vagón Eaov circulando con un tren de mineral vacío y cargado en condiciones normales.
 20 Informe de investigación, Ferrocarriles del Estado, Dirección de Ferrocarriles, Oficina de Ingeniería de Máquinas.
 
-
 ## Página 47
+
 
 ### Resultados del ensayo
 Valores WzG transversales:
@@ -1652,6 +1679,7 @@ Las características de circulación del vagón 1 no se vieron afectadas por dif
 
 ## Página 48
 
+
 # 3 
 # ANÁLISIS 
 ## 3.1 
@@ -1671,10 +1699,10 @@ La velocidad del tren en el momento del accidente era de 70 km/h, por lo que est
 ## 3.1.3 
 ### Material rodante 
 Los vagones se examinaron por primera vez en el marco de la inspección in situ. Los vagones eran material rodante ruso de estado normal. En los vagones no se encontraron averías o daños que hubieran indicado que ellos solos hubieran causado el accidente. 
-En los vagones descarrilados había ejes de bogie desgastados y algunos reparados mediante soldadura. Los lubricantes se habían desgastado y secado. Estos hechos provocan rigidez de giro en los bogies. Al probar las características de circulación de los vagones se constató que los vagones circulaban bien a pesar de los daños producidos en el accidente, y que no existía peligro de descarrilamiento. Los bogies no se trababan y giraban bien incluso en desvíos y curvas de pequeño radio. 
-
+En los vagones descarrilados había ejes de bogie desgastados y algunos reparados mediante soldadura. Los lubricantes se habían desgastado y secado. Estos hechos provocan rigidez de giro en los bogies. Al probar las características de circulación de los vagones se constató que los vagones circulaban bien a pesar de los daños producidos en el accidente, y que no existía peligro de descarrilamiento. Los bogies no se trababan y giraban bien incluso en desvíos y curvas de pequeño radio.
 
 ## Página 49
+
 
 En la medición de las ruedas de los vagones descarrilados se constató que los perfiles de las ruedas eran conformes a las normas y que casi todas las ruedas tenían perfil completo. En la inspección visual no se observó nada anormal en las ruedas de los vagones de la parte delantera del tren. Las marcas de impacto en las ruedas de los vagones descarrilados se habían producido en relación con el descarrilamiento. 
 En los ensayos de circulación realizados en 1980 para los vagones Eaov de fabricación rusa se constata que las aceleraciones transversales aumentan significativamente a una velocidad de 70 km/h. En estos ensayos las frecuencias estudiadas están por debajo de 5 Hz y en los estudios realizados por el Centro de Investigación de Accidentes se determinó que las frecuencias superiores a 6 Hz eran el rango de frecuencia crítico para la apertura del bloqueo del desvío. La vibración transversal provocada por los vagones puede, con una frecuencia adecuada, amplificar la vibración provocada por los ejes. 
@@ -1687,6 +1715,7 @@ La comisión determinó en sus investigaciones que el auxiliar de giro del desv�
 Las marcas presentadas en las audiencias en las traviesas en el área del desvío y sus alrededores se han determinado en la investigación que se han producido con la mayor probabilidad posible al apoyar la vía con la máquina de apuntalamiento de vías.
 
 ## Página 50
+
 
 ## 3.1.5 
 ### Desvío V004  
@@ -1704,10 +1733,10 @@ A partir de las mediciones y pruebas realizadas en el desvío, se ha podido dete
 6. Según las mediciones realizadas, los ajustes del auxiliar de giro original, presente en el desvío V004 en el momento del accidente, no correspondían a los valores de ajuste conforme a los requisitos. El auxiliar de giro estaba ajustado de forma excéntrica en 17 mm. Por este motivo, el muelle no presionaba la aguja contra el riel de apoyo. La observación del desvaje del ajuste del contacto del desvío también respalda este hallazgo. Es posible que uno de los ajustes erróneos hubiera tenido que compensarse con el otro ajuste. Por ejemplo, el ajuste erróneo del auxiliar de giro pudo haber provocado una anomalía de control del desvío, que se habría corregido con el ajuste de los contactos de control. 
 7. En el desvío se han realizado, en el marco de la investigación, tanto pruebas estáticas como dinámicas para aclarar las vibraciones de la aguja. En las investigaciones se ha podido demostrar que, al producir una vibración de frecuencia determinada en la aguja libre, el bloqueo del mecanismo de giro del desvío se abría y permitía el giro erróneo del desvío. 
 8. En las pruebas realizadas se observó que el desvío presentaba ciertas frecuencias de resonancia que provocaban la apertura del bloqueo del desvío.  
-9. Aunque no se pudo probar de manera concluyente la relación entre el ajuste del auxiliar de giro y las vibraciones, la comisión de investigación considera que el fenómeno debería investigarse urgentemente de forma más amplia en el entorno de uso normal. 
-
+9. Aunque no se pudo probar de manera concluyente la relación entre el ajuste del auxiliar de giro y las vibraciones, la comisión de investigación considera que el fenómeno debería investigarse urgentemente de forma más amplia en el entorno de uso normal.
 
 ## Página 51
+
 
 ## 3.1.6 
 ### Aparatos de seguridad 
@@ -1733,6 +1762,7 @@ Las autenticaciones de las conexiones de mando a distancia se eliminaron hace un
 
 ## Página 52
 
+
 Conviene señalar, a la vista de lo ocurrido, que las conexiones principales duplicadas de la regulación del tráfico, los sistemas de respaldo independientes y los sistemas de comunicación de voz apenas aportan beneficio en una estructura en la que las conexiones están situadas en los mismos sistemas de telecomunicaciones. En este caso, todas se encontraban en el mismo cable óptico.
 Las llamadas del regulador de área de Tampere no se graban en el registro de voz, por lo que se perdió información clave para la investigación.
 Los teléfonos de trabajo que llevaban los maquinistas comenzaron a quedarse sin corriente. Para garantizar la comunicación en situaciones de emergencia, deberían desarrollarse medios para asegurar la suficiencia de la corriente.
@@ -1749,6 +1779,7 @@ Como consecuencia del accidente se destruyó el armario de equipos K266 y los ca
 
 ## Página 53
 
+
 En el centro de regulación del tráfico de Tampere no se comprendió inicialmente la amplitud de las consecuencias del descarrilamiento. La primera valoración realista orientativa sobre la dificultad y la duración de la situación se obtuvo, cuatro horas después del accidente, del jefe del centro de servicios de regulación que se encontraba en el lugar del accidente.
 La tarea del centro de regulación del tráfico de Tampere se complicó con el inicio del tráfico matutino y el trabajo fue muy exigente. La organización de los transportes sustitutorios y de los turnos de maquinistas y revisores habría sido responsabilidad de KUHA. El centro de tráfico (LIKE) tuvo dificultades para establecer contacto con la regulación del tráfico de Tampere, ya que el teléfono del regulador de área estaba ocupado todo el tiempo. El centro de tráfico habría tenido que emitir órdenes e instrucciones sobre la gestión y la priorización del tráfico. En la práctica, la regulación del tráfico de Tampere tuvo que atender las tareas de KUHA y LIKE. La Autoridad Ferroviaria ha manifestado en su dictamen que la coordinación del transporte por autobús sustitutorio había sido deficiente. Los conductores no sabían a dónde dirigirse y la orientación de los pasajeros fue deficiente.
 Las responsabilidades en materia de comunicación e información en situaciones de emergencia parecen ser en cierta medida poco claras. El papel del centro de información fue escaso. En este accidente la responsabilidad de la comunicación recayó en exceso en el centro de regulación del tráfico de Tampere. En la regulación del tráfico de Tampere se habría necesitado personal adicional para la prestación de información al cliente.
@@ -1760,6 +1791,7 @@ El regulador de área estaba ocupado en otras tareas, lo que interfirió en su p
 La estación de clasificación de Toijala pertenece al mando a distancia Turku–Toijala, lo que interrumpe el área de responsabilidad del regulador de la línea principal. La división del trabajo entre los puestos de trabajo de mando a distancia Tampere–Riihimäki y Toijala–Turku está definida y acordada de acuerdo con la solución actual para equilibrar la carga de trabajo. Las áreas se han unido técnicamente, pero la cuestión no se ha considerado hasta el final desde el punto de vista de la regulación del tráfico. Además, en las pantallas de los reguladores del tráfico existe un punto de discontinuidad: en las pantallas la dirección de circulación del tren cambia en Toijala, lo que puede dificultar la comprensión del tráfico.
 
 ## Página 54
+
 
 Al recibir la información desde el lugar del accidente de que una vía podría ser transitable con una locomotora diésel, el control de tráfico comenzó a planificar el tráfico transitable y las acciones de continuación del tráfico a ambos lados de Toijala.
 Los controladores de tráfico decidieron dirigir el tráfico por el lugar del accidente con la asistencia de una locomotora diésel por la vía ocho de la estación de clasificación de Toijala. Se disponía de dos locomotoras Dv12.
@@ -1776,6 +1808,7 @@ La información de VR al gran público sobre la situación excepcional fue exhau
 La información al cliente en las estaciones fue deficiente, lo que se debió en parte a los problemas de telecomunicaciones causados por el accidente y al nuevo sistema MIKU, cuyo uso los controladores de tráfico aún no habían acostumbrado. Las responsabilidades de información en situaciones excepcionales parecen poco claras según las descripciones de tareas de las organizaciones.
 
 ## Página 55
+
 
 ## 3.1.10
 Limpieza y reparación de la vía, la vía eléctrica, los dispositivos de seguridad y las telecomunicaciones y comunicaciones de información
@@ -1794,6 +1827,7 @@ La limpieza de los ocho vagones que se salieron al final de la vía de seguridad
 Uno de los factores que retrasaron la limpieza de la vía eléctrica fue la retirada del pórtico. El material propio del equipo de trabajo eléctrico era demasiado ligero para la tarea. Había grúas pesadas de camión en el lugar, pero el equipo de trabajo eléctrico...
 
 ## Página 56
+
 
 el jefe del grupo tenía la idea de que no se podían utilizar. Con la ayuda ofrecida por el conductor de la grúa, el portal se levantó sin esfuerzo y se apartó. Este retraso también se debió a la falta de flujo de información y de coordinación.
 
@@ -1818,6 +1852,7 @@ Los gabinetes de aparatos de seguridad son piezas únicas y no existen gabinetes
 Los vagones que se descarrilaron en el accidente destruyeron el canal de cables que quedó debajo y los cables que pasaban por él. Entre los cables había un cable óptico por el que transcurrían las conexiones relacionadas con los sistemas de comunicación y telecomunicaciones del área de Toijala.
 
 ## Página 57
+
 
 El cable óptico crítico se reparó realizando empalmes de fibra óptica en dos puntos y construyendo un cable óptico temporal sin protección. El cable óptico temporal discurría sobre la valla de la zona ferroviaria y rodeaba el patio de una casa cercana al lugar del accidente. Una vez finalizada la reparación del cable óptico, se restablecieron las conexiones y los sistemas de control. A partir de ese momento, la conducción del tráfico se pudo realizar de forma remota mediante estructuras temporales de seguridad que evitaban el lugar del siniestro, implantadas por expertos en aparatos de seguridad.
 
@@ -1849,6 +1884,7 @@ El seguimiento de las consecuencias del accidente y la dirección del tráfico e
 
 ## Página 58
 
+
 En el entorno ferroviario no existe prácticamente margen de maniobra en la disposición de los aparatos y de las rutas de cable. Por este motivo, para minimizar los daños en situaciones de accidente, el gestor de la infraestructura debe disponer de planes de contingencia relativos a las actuaciones y a la disponibilidad de piezas de repuesto, con el fin de minimizar las consecuencias de los accidentes que se produzcan en puntos críticos.
 ### Daños medioambientales
 El accidente no causó daños medioambientales propiamente dichos. Debido a la insuficiencia de la limpieza posterior, en la playa de vías aparecieron posteriormente problemas de olores y de fauna nociva. En los vagones implicados en el accidente había, entre otros productos, grano y pienso de pescado. Una vez extendidos en el terreno, son difíciles de eliminar, además de que atraen rápidamente a animales en busca de alimento. La limpieza se completó el 21.7.2009, 35 días después del accidente. Varios bidones de aceite resultaron dañados, pero no se produjo fuga de aceite al suelo. Los bidones se extrajeron uno a uno del vagón volcado y se comprobaron en busca de fugas.
@@ -1860,8 +1896,8 @@ De los registros de comunicación y de las declaraciones se desprende que la col
 ### Mantenimiento
 El contratista está obligado a documentar las actuaciones relacionadas con el mantenimiento de los desvíos. La investigación puso de manifiesto que en las reuniones entre el gestor de la sección y el contratista apenas se tratan documentos detallados y que el sistema se basa en la confianza. La supervisión se realiza a un nivel general a partir de la documentación, lo que es consecuencia de la enorme cantidad de asuntos. El gestor de la sección tampoco realiza en campo el control del mantenimiento de los desvíos. También es difícil obtener la documentación del mantenimiento de los desvíos, aunque el contratista debe conservarla. La investigación generó la impresión de que, en su estado actual,
 
-
 ## Página 59
+
 
 la organización de la supervisión del mantenimiento parece multietápica y compleja, lo que puede difuminar las responsabilidades y debilitar la supervisión.
 ## 3.1.13
@@ -1877,6 +1913,7 @@ El regulador de área llamó al centro de emergencias y preguntó si el centro t
 El jefe de turno del centro de emergencias llamó a P3 13 minutos después de la primera llamada de emergencia, es decir, 15 minutos después del accidente. Aún se plantearon si había ocurrido un accidente y si estaba relacionado con sustancias peligrosas.
 
 ## Página 60
+
 
 Inmediatamente después, el regulador de zona se puso en contacto con el centro de emergencias y comunicó que los dos últimos vagones del tren se habían vuelcado, pero no se conocía la magnitud del accidente. El jefe de turno preguntó al regulador de zona si debería enviarse allí una unidad de los bomberos para comprobar el asunto. El regulador de zona respondió que no habría inconveniente, por lo que el jefe de turno indicó que probablemente se enviarían los bomberos y unos cuantos policías. Se encomendó a la policía ir a echar un vistazo, "ya que no ocurre esto todos los días". En la misma comunicación, el regulador de zona también informó de que había alertado al grupo de desescombro de VR, lo que en realidad no había ocurrido.
 
@@ -1894,8 +1931,8 @@ Al servicio de bomberos no se le aclaró hasta las cinco de la mañana que en lo
 
 La investigación ha puesto de manifiesto que las alertas se retrasaron debido a la falta de claridad en la imagen de la situación y a la vacilación de los actores. No se creyó a quienes realizaron los avisos de emergencia y, por tanto, la evaluación del riesgo no se llevó a cabo con éxito. Si en el accidente se hubieran descarrilado vagones que contuvieran sustancias peligrosas o si los equipos de tracción eléctrica hubieran estado bajo tensión, las consecuencias habrían sido
 
-
 ## Página 61
+
 
 graves. La encomienda realizada a los bomberos y a la policía quedó vaga. Por este motivo, el mantenimiento del orden, la inspección y el aislamiento de la zona no se llevaron a cabo.
 
@@ -1903,8 +1940,8 @@ graves. La encomienda realizada a los bomberos y a la policía quedó vaga. Por 
 
 No hubo acción de rescate propiamente dicha relacionada con el accidente, ya que no se produjeron daños personales. El papel del servicio de bomberos quedó finalmente reducido a la tarea de aseguramiento y aislamiento de la zona del accidente, tarea que en la práctica, sin embargo, no realizaron. La policía también acudió al lugar del accidente para comprobar la situación.
 
-
 ## Página 62
+
 
 # 4 
 # CONCLUSIONES
@@ -1929,6 +1966,7 @@ No hubo acción de rescate propiamente dicha relacionada con el accidente, ya qu
 
 ## Página 63
 
+
 largo, la limitación de velocidad en un trayecto de dos kilómetros era de 10 km/h y la seguridad del tráfico en Toijala corría a cargo de una sola persona.
 17. El primer tren pasó por Toijala con tracción eléctrica el 18.6. a las 15.40, es decir, 43 horas después del accidente.
 18. En la línea principal se inició un tráfico casi normal el 18.6. después de las 20, es decir, 48 horas después del accidente. El tráfico entre Turku y Tampere comenzó el 19.6. después de las 18, pero los trenes no se detuvieron en Toijala.
@@ -1944,8 +1982,8 @@ largo, la limitación de velocidad en un trayecto de dos kilómetros era de 10 k
 28. El ajuste del contacto de aguja situado en la zona del auxiliar de conmutación se desviaba del ajuste normal conforme a la exigencia de ajuste, admitiendo un movimiento de 9 mm en lugar de los 15 mm permitidos.
 29. En las pruebas realizadas en la aguja del accidente se comprobó que una fuerza dinámica de determinada frecuencia que actúa sobre la lengüeta libre de la aguja dañada provoca una vibración de la lengüeta, que a su vez provoca la apertura del bloqueo de la aguja.
 
-
 ## Página 64
+
 
 30. Aunque no pudo probarse de forma concluyente la relación entre el ajuste del auxiliar de conmutación y las vibraciones, la junta de investigación consideró que el fenómeno debería investigarse urgentemente de forma más amplia en condiciones normales.
 ## 4.2
@@ -1966,8 +2004,8 @@ La junta de investigación considera evidente que, como resultado de la acción 
 7. Boggin i den bakre delen av en vagn som följde med det främre partiet av tåget hade spårat ur och söndrade bana och kontaktledningsanordningar där den passerade.
 8. När tåget stannade välte vagnen och tog med sig den framförvarande vagnen.
 
-
 ## Página 65
+
 
 9. Det dröjde en stund innan nödcentralen förstod situationens allvar.
 10. Röjningen av olycksplatsen fördröjdes eftersom ledningsförhållandena inte var tydliga. Dessutom bildades ingen ledningsgrupp för olyckan. Man agerade inte heller enligt de bestämmelser och föreskrifter som har tagits fram för eventuella olyckor.
@@ -1986,6 +2024,7 @@ La junta de investigación considera evidente que, como resultado de la acción 
 23. Ställverkstillverkarens uppföljningsperiod visade bland annat att det i växel V004 i Toijala hade varit störningar rörande växelkontrollen.
 
 ## Página 66
+
 
 24. En el material rodante no se encontró ningún fallo de este tipo que por sí solo pudiera provocar que el desvío se cambiara. Fallos en los bogies, que además estaban sin lubricar, causaron mayores fuerzas laterales en la vía que el material finlandés.
 25. No se observaron marcas de trepado en las agujas del desvío ni en los rieles de soporte tras el paso de las ruedas.
@@ -2015,6 +2054,7 @@ Es evidente para la comisión de investigación que la interacción entre la geo
 
 ## Página 67
 
+
 3. Mientras el tren cruzaba el desvío V004, el desvío cambió bajo el tren y algunos de los vagones fueron dirigidos a la vía de seguridad.
 4. El tren se partió en dos y la sección delantera siguió avanzando durante 350 metros antes de detenerse.
 5. Los vagones que habían sido dirigidos a la vía de seguridad colisionaron con una barrera de riel y el armario del dispositivo de seguridad al final de la misma, y algunos de los vagones se volcaron.
@@ -2032,6 +2072,7 @@ Es evidente para la comisión de investigación que la interacción entre la geo
 17. El primer tren con tracción eléctrica pasó por Toijala el 18 de junio a las 3:40pm., es decir, 43 horas después del accidente.
 
 ## Página 68
+
 
 18. Se reanudó un servicio cercano a la normalidad en la vía principal el 18 de junio después de las 8pm, 48 horas después del accidente. El tráfico entre Turku y Tampere se reanudó el 19 de junio después de las 6pm, pero los trenes no pudieron detenerse en Toijala.
 19. Los trenes entre Turku y Tampere volvieron a poder detenerse en Toijala el 28 de junio.
@@ -2054,33 +2095,46 @@ El descarrilamiento del tren de mercancías fue causado por un desvío que cambi
 
 ## Página 69
 
+
 En la investigación posterior, se demostró que era posible forzar la apertura del bloqueo del desvío sometiendo la aguja del desvío a una oscilación mecánica con la misma frecuencia que la causada por los ejes del tren de mercancías en cuestión. También quedó aparente en la investigación que el dispositivo de bloqueo Railex había sido ajustado excéntricamente, y que los contactores del desvío en el dispositivo de bloqueo permitían que la aguja del desvío cerrada se desplazara por encima del valor de referencia.  
 La Comisión de Investigación considera probable que, como resultado combinado de la geometría de la vía, los ajustes del desvío, las propiedades oscilatorias del desvío y el material rodante que circula por el cambio de vía, el bloqueo del desvío quedara desbloqueado al pasar el tren por encima de él. 
 # 5 
 # MEDIDAS ADOPTADAS 
 En las comunicaciones de Toijala se han realizado, según la información recibida del proveedor de telecomunicaciones, algunos cambios tras el accidente. Las conexiones del nuevo sistema de radio GSM-R a las estaciones base se han asegurado mediante dos conexiones independientes entre sí. Se han asegurado las conexiones de mando a distancia de la vía eléctrica al norte de Toijala. Los sistemas relacionados con la regulación del tráfico, la información al pasajero y la venta de billetes permanecen sin cambios. 
 Liikennevirasto y VR-Yhtymä Oy han acordado las relaciones de mando y el contacto en el lugar del accidente según el siguiente esquema: 
-Según los comentarios del departamento de rescate del Ministerio del Interior, el término "pelastustoimenjohtaja" debería sustituirse por el término "pelastustoiminnan johtaja". 
-
+Según los comentarios del departamento de rescate del Ministerio del Interior, el término "pelastustoimenjohtaja" debería sustituirse por el término "pelastustoiminnan johtaja".
 
 ## Página 70
 
 # MEDIDAS ADOPTADAS 
-Según los datos del proveedor de telecomunicaciones, tras el accidente se han realizado algunos cambios en las comunicaciones en Toijala. Las conexiones del nuevo sistema de radio GSM-R a las estaciones base se han asegurado mediante dos conexiones independientes entre sí. Se han asegurado las conexiones de mando a distancia de la vía eléctrica al norte de Toijala. Los sistemas relacionados con la regulación del tráfico, la información al pasajero y la venta de billetes permanecen sin cambios. 
-Trafikverket y VR-Group Ab han acordado las relaciones de mando y el contacto en el lugar del accidente según el siguiente esquema: 
-Según los comentarios del departamento de rescate del Ministerio del Interior, el término "pelastustoimenjohtaja" debería sustituirse por el término "pelastustoiminnan johtaja". 
+Según los datos del proveedor de telecomunicaciones, tras el accidente se han realizado 
+ciertos cambios en las comunicaciones en Toijala. Las conexiones del nuevo sistema de 
+radio GSM-R con las estaciones base se han asegurado mediante dos conexiones indepen-
+dientes entre sí. Se han asegurado las conexiones de mando a distancia del ferrocarril 
+electrificado hacia el norte desde Toijala. Los sistemas de dirección del tráfico, de infor-
+mación a los viajeros y de venta de billetes permanecen sin cambios. 
+La Agencia de Transporte de Finlandia y VR-Group Ab han acordado las relaciones de 
+mando y la comunicación en el lugar del accidente según el siguiente diagrama: 
+Según comentarios de la sección de rescate del Ministerio del Interior, el término 
+»pelastustoimenjohtaja« debe sustituirse por el término »pelastustoiminnan johtaja«. 
 # 5 
-# MEDIDAS ADOPTADAS 
-Según el proveedor de telecomunicaciones, se han realizado algunos cambios en las comunicaciones de Toijala desde el accidente. Las conexiones GSM-R del nuevo sistema de radio a las estaciones base se han asegurado mediante dos conexiones independientes. Se han asegurado las conexiones de mando a distancia de la vía eléctrica al norte de Toijala. Los sistemas relacionados con la regulación del tráfico, la información al pasajero y la venta de billetes permanecen sin cambios. 
-La Finnish Transport Agency y el VR Group han acordado las relaciones de mando y las comunicaciones en el lugar del accidente como sigue: 
-
+# MEDIDAS QUE SE HAN ADOPTADO 
+Según el proveedor de telecomunicaciones, desde el accidente se han realizado algunos 
+cambios en las comunicaciones en Toijala. Las conexiones del nuevo sistema de radio 
+GSM-R con las estaciones base se han asegurado mediante dos conexiones independien-
+tes. Se han asegurado las conexiones de mando a distancia del ferrocarril electrificado 
+hacia el norte desde Toijala. Los sistemas de dirección del tráfico, de información a los 
+viajeros y de venta de billetes permanecen sin cambios. 
+La Agencia de Transporte de Finlandia y VR Group han acordado las relaciones de 
+mando y la comunicación en el lugar del accidente como sigue:
 
 ## Página 71
 
-Según el Departamento de Servicios de Rescate del Ministerio del Interior, el término "pelastustoimenjohtaja" debería sustituirse por "pelastustoiminnan johtaja". 
 
+Según el Departamento de Servicios de Rescate del Ministerio del Interior, el término "pelastustoimenjohtaja" debería sustituirse por "pelastustoiminnan johtaja".
 
 ## Página 72
+
 
 # 6 
 # RECOMENDACIONES DE SEGURIDAD 
@@ -2099,6 +2153,7 @@ Sobre la base de los resultados de las investigaciones, debería realizarse una 
 
 ## Página 73
 
+
 ### S293 Documentación del mantenimiento de los desvíos
 Durante la investigación del accidente se comprobó que la documentación del mantenimiento de los desvíos era deficiente. La comisión de investigación recomienda a la Autoridad de Transporte:
 Debería elaborarse una documentación continua sobre la instalación, las inspecciones y el mantenimiento del desvío y de sus componentes. [B5/09R/S293]
@@ -2112,8 +2167,8 @@ Se acumularon demasiadas tareas de gestión del tráfico y organización del ser
 Para la gestión de situaciones excepcionales deberían definirse las formas de cooperación y la distribución de tareas y responsabilidades tanto a nivel nacional como local. [B5/09R/S295]
 Conforme a las instrucciones actuales, en los grandes accidentes se acumulan demasiadas tareas en la dirección local del tráfico. Por ello deberían elaborarse nuevas instrucciones en las que las tareas estén distribuidas de forma más razonable. También debería practicarse la cooperación y debe aclararse el papel del Centro de Tráfico y de la gestión del transporte de los operadores. Debería reducirse el umbral para la utilización de recursos adicionales.
 
-
 ## Página 74
+
 
 El Ministerio de Transporte y Comunicaciones, la Autoridad de Seguridad del Transporte, la Autoridad de Transporte, VR-Yhtymä Oy, el Departamento de Rescate del Ministerio del Interior y el Centro de Emergencias han emitido sus declaraciones sobre las recomendaciones. Las declaraciones se incluyen íntegras en el anexo 1.
 # 6
@@ -2131,6 +2186,7 @@ El gestor de la infraestructura debe averiguar si es posible que el bloqueo se d
 
 ## Página 75
 
+
 Sobre la base de la investigación, se debe realizar un análisis de riesgos y adoptar las medidas necesarias que procedan para reducir los riesgos detectados.
 ### S293 Documentación del mantenimiento del desvío
 En relación con la investigación del accidente, se puso de manifiesto que la documentación del mantenimiento del desvío era deficiente. La Comisión de Investigación recomienda lo siguiente a Trafikverket:
@@ -2146,8 +2202,8 @@ La dirección del tráfico de Tammerfors se vio sobrecargada de tareas debido a 
 Para la gestión de situaciones de excepción, se deben definir formas de cooperación, así como la distribución de tareas y responsabilidades tanto a nivel nacional como local. [B5/09R/S295]
 Cuando se actúa según la normativa actual, la dirección del tráfico local se ve sobrecargada en los grandes accidentes. Por lo tanto, se deben emitir nuevas normativas en las que las tareas estén
 
-
 ## Página 76
+
 
 distribuidas de manera más racional. También se debe practicar la cooperación y deben aclararse los roles del Centro de Control del Tráfico y de los operadores en la gestión del transporte. Se debe reducir el umbral para utilizar recursos adicionales.
 El Ministerio de Comunicaciones, la Autoridad de Seguridad del Tráfico, Trafikverket, VR-Group Ab, el departamento de rescate del Ministerio del Interior y la Autoridad del Centro de Emergencias han emitido informes sobre las recomendaciones. Los informes completos se encuentran en el anexo 1.
@@ -2165,6 +2221,7 @@ Se deben comparar las investigaciones anteriores sobre la materia con la situaci
 
 ## Página 77
 
+
 El gestor de la infraestructura debe determinar si el desbloqueo de los aparatos de vía debido a oscilación mecánica también es posible en un aparato de vía ajustado según valores de referencia, así como de qué manera desviaciones pequeñas respecto de los valores de referencia pueden provocar que los aparatos de vía queden desbloqueados. Además, también debe determinarse si los valores de referencia actuales deben modificarse.
 Debería realizarse una evaluación de riesgos sobre la base de esta información, y deberían adoptarse las medidas necesarias para reducir los riesgos potenciales.
 ### S293 Documentación del mantenimiento de los aparatos de vía
@@ -2178,8 +2235,8 @@ En las primeras fases tras un accidente debería constituirse un equipo competen
 ### S295 Gestión del tráfico en circunstancias excepcionales, Plan de preparación
 El control de tráfico de Tampere estaba sobrecargado por la gestión de la circulación de trenes y los preparativos para el transporte de sustitución. Nunca se elaboró un plan integral para la gestión del tráfico y los servicios ferroviarios. No disponía de un plan para la utilización de los servicios de tracción en circunstancias excepcionales. La organización de la rotación de equipos y personal también suponía una carga para el control de tráfico en Tampere. La Investiga-
 
-
 ## Página 78
+
 
 ción formula la siguiente recomendación a la Agencia de Transporte de Finlandia y a VR Group:
 Para afrontar eficazmente las situaciones excepcionales, las formas de cooperación y la distribución de deberes y responsabilidades deberían definirse claramente tanto a nivel nacional como local. [B5/09R/S295]
@@ -2192,8 +2249,8 @@ Timo Kivelä
 Mika Hatakka
 Reijo Sarantila
 
-
 ## Página 79
+
 
 # LÄHDELUETTELO 
 Seuraavat lähdeliitteet on taltioituna Onnettomuustutkintakeskuksessa: 
@@ -2231,10 +2288,10 @@ Raiteistokaavio, Toijala
 14. Tampereen pelastuslaitoksen onnettomuusseloste (Ei julkinen) 
 15. Poikkeamailmoitus, VR (Ei julkinen) 
 16. Tutkintailmoitus, Pirkanmaan poliisilaitos (Ei julkinen) 
-17. Raivauspäällikön raivauskertomus 
-
+17. Raivauspäällikön raivauskertomus
 
 ## Página 80
+
 
 18. Ratahallintokeskuksen ja VR Osakeyhtiön muistioita tapahtuman jälkipuinnista 
 19. Toijala V004 vaihteen tarkastusraportti 29.11.2010. 
@@ -2243,48 +2300,47 @@ Raiteistokaavio, Toijala
 22. Toijala V004 asetusosan elektroniikan testaus, raportti 2.11.2009, Oy VR-Rata Ab 
 23. Raiteentarkastustulokset ja niiden tulkinta 
 24. VR Track Oy:n raportti 25.1.2011 liitteinee 
-25. Analysis of collected data, FRISK-line Riihimäki–Seinäjoki, 20.2.2009, Bombardier 
-
+25. Analysis of collected data, FRISK-line Riihimäki–Seinäjoki, 20.2.2009, Bombardier
 
 ## Página 81
 
-# Liite 1/1 (8) 
-## LAUSUNNOT 
 
+# Liite 1/1 (8) 
+## LAUSUNNOT
 
 ## Página 82
 
-# Liite 1/2 (8) 
 
+# Liite 1/2 (8)
 
 ## Página 83
 
-# Liite 1/3 (8) 
 
+# Liite 1/3 (8)
 
 ## Página 84
 
-# Liite 1/4 (8) 
 
+# Liite 1/4 (8)
 
 ## Página 85
 
-# Liite 1/5 (8) 
 
+# Liite 1/5 (8)
 
 ## Página 86
 
-# Liite 1/6 (8) 
 
+# Liite 1/6 (8)
 
 ## Página 87
 
-# Liite 1/7 (8) 
 
+# Liite 1/7 (8)
 
 ## Página 88
 
-# Liite 1/8 (8) 
 
+# Liite 1/8 (8)
 
 ## Página 89

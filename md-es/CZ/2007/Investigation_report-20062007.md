@@ -10,13 +10,14 @@ chars: 45021
 ratio_longitud: 1.25
 tokens_in: 23510
 tokens_out: 15740
-verificacion: revisar
-notas_cifras: ["bloque 1: original bilingüe: se compara contra el idioma principal (EN)", "bloque 2: original bilingüe: se compara contra el idioma principal (CS)", "bloque 3: original bilingüe: se compara contra el idioma principal (CS)", "bloque 4: original bilingüe: se compara contra el idioma principal (CS)", "bloque 5: original bilingüe: se compara contra el idioma principal (CS)", "bloque 6: original bilingüe: se compara contra el idioma principal (CS)"]
-avisos: ["bloque 3: ratio 1.79", "bloque 4: ratio 1.61", "bloque 5: ratio 1.80"]
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 5: original bilingüe: se compara contra el idioma principal (EN)", "página 6: original bilingüe: se compara contra el idioma principal (CS)", "página 7: original bilingüe: se compara contra el idioma principal (CS)", "página 8: original bilingüe: se compara contra el idioma principal (CS)", "página 9: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 Inspección Ferroviaria
 República Checa
@@ -41,11 +42,12 @@ NIF:   75009561
 http://www.dicr.cz
 fax: (+420) 224 805 428
 
-
 ## Página 2
 
 
+
 ## Página 3
+
 
 # RESUMEN
 20 de junio de 2007, 08:40 (06:40 GMT)
@@ -66,11 +68,12 @@ Causa raíz:
 no investigada
 Recomendación: no emitida
 
-
 ## Página 4
 
 
+
 ## Página 5
+
 
 # Índice
  Resumen .............................................................................................................................3
@@ -99,6 +102,7 @@ Recomendación: no emitida
 3.1.1 Empleados del titular de la infraestructura y del transportista, incluidas las personas en relación contractual
 
 ## Página 6
+
 
 proporción ...............................................................................................................10
 3.1.2 Otras personas ..........................................................................................................11
@@ -129,8 +133,8 @@ proporción ....................................................................
 4.1.1 Descripción final del incidente basada en los hechos constatados en el punto 3 
 ............................................................................................................................13
 
-
 ## Página 7
+
 
 4.2 Análisis ......................................................................................................................13
 4.2.1 Evaluación de los hechos constatados según el punto 3 y presentación de las conclusiones sobre la causa del incidente y la actuación de los servicios de emergencia ..........................................13
@@ -151,36 +155,37 @@ proporción ....................................................................
 ## Página 8
 
 ## 1 RESUMEN
-El 20 de junio de 2007 a las 8:40 horas se produjo en la línea ferroviaria regional Volary – České Budějovice, en la estación de señalización Černý Kříž, un incidente extraordinario: un accidente grave en el transporte ferroviario a tenor del artículo 49 de la ley n.º 266/1994 Coll., sobre vías férreas, en su redacción posterior (en adelante, ley n.º 266/1994 Coll.). El tren de pasajeros Os 18544 colisionó con un conjunto de maniobras ocupado por viajeros. En total, resultaron heridas veinticuatro personas, y el daño material total se cuantificó en 24 585,- Kč. La causa fue el inicio de las maniobras inmediatamente después de la salida del tren Os 18544, que aún no había superado la señal de diamante, y ello sin el consentimiento de la persona cualificada que dirige las circulaciones, es decir, el despachador jefe.
-No se adoptó la recomendación de seguridad.
-## 2 DATOS RELATIVOS AL INCIDENTE EXTRAORDINARIO
-### 2.1 Incidente extraordinario
-### 2.1.1 Fecha, hora exacta y lugar del incidente extraordinario
-El incidente extraordinario (IE) se produjo el 20 de junio a las 8:40 horas en la línea ferroviaria regional Volary – České Budějovice, en la estación de señalización Černý Kříž, en la vía de circulación n.º 1, en el pk 62,000.
-### 2.1.2 Descripción del incidente extraordinario y del lugar del accidente, incluida la actividad del sistema integrado de rescate y del servicio de emergencias médicas
-El tren Os 18544 llegó a la estación de señalización Černý Kříž a las 8:35 horas a la vía n.º 1. Allí se separó el conjunto de vehículos. Una parte continuó desde la vía n.º 1 con la misma denominación hacia Nové Údolí; la otra parte se desplazó mediante maniobras hacia la vía n.º 3 y desde allí salió como el tren Os 8170 hacia Český Krumlov. Tras la salida del tren Os 18544, y tras recorrer unos 30 metros, este se detuvo de forma inesperada. El conjunto de maniobras, que había iniciado las maniobras empujando en la dirección de circulación del tren Os 18544 inmediatamente después de su salida, antes de haber superado la señal de diamante, ya no pudo detenerse a tiempo y chocó contra el conjunto de vehículos detenido del tren Os 18544. El transporte ferroviario no se interrumpió.
-La estación de señalización Černý Kříž se encuentra en la línea České Budějovice – Volary, en el tramo entre la estación de tráfico de Volary (ŽST Volary) y la estación de tráfico de Kájov (ŽST Kájov). Desde la estación de señalización Černý Kříž parte además la línea hacia Nové Údolí. Para la circulación de trenes en este tramo se utiliza la gestión simplificada del transporte ferroviario (véase el artículo 19 del decreto n.º 173/1995 Coll.). El despachador jefe tiene su sede en la estación de tráfico de Volary (ŽST Volary). Para la comunicación entre el despachador jefe y los maquinistas se utiliza prioritariamente la radio.
-Se activó el sistema integrado de rescate. En el lugar intervinieron la Policía de la República Checa, Oficina Regional – Servicio de Policía Criminal de Prachatice, el Servicio de Emergencias Médicas de Prachatice, el Cuerpo de Bomberos y Rescate de la Región de Bohemia Meridional, Delegación Territorial de Prachatice, y el Cuerpo de Bomberos y Rescate de ČD, a. s., de České Budějovice.
+El 20 de junio de 2007 a las 8:40 horas se produjo en la línea férrea regional Volary – České Budějovice en la estación de Černý Kříž un suceso extraordinario – accidente grave en el transporte ferroviario en el sentido del § 49 de la Ley núm. 266/1994 Sb., sobre ferrocarriles, en su redacción vigente (en adelante, Ley núm. 266/1994 Sb.). El tren de pasajeros Os 18544 colisionó con una maniobra de maniobras ocupada por pasajeros. En total resultaron heridos veinticuatro pasajeros, y el daño material total se cifró en 24 585,- CZK. La causa fue la iniciación de la maniobra inmediatamente después de la salida del tren Os 18544, que aún no había pasado la tabla trapezoidal, y ello sin el consentimiento de la persona cualificada que dirige la circulación de trenes, es decir, del despachador director. No se adoptó ninguna recomendación de seguridad.
+## 2 DATOS RELATIVOS AL SUCESO EXTRAORDINARIO
+### 2.1 Suceso extraordinario
+### 2.1.1 Fecha, hora exacta y lugar del suceso extraordinario
+El suceso extraordinario (SE) se produjo el 20 de junio a las 8:40 horas en la línea férrea regional Volary – České Budějovice en la estación de Černý Kříž, en la vía de circulación núm. 1 en el pk 62,000.
+### 2.1.2 Descripción del suceso extraordinario y del lugar del accidente, incluida la actuación del sistema integrado de emergencias y del servicio de rescate
+El tren Os 18544 llega a la estación de Černý Kříž a las 8:35 horas a la vía núm. 1. Aquí la composición se divide. Una parte continúa desde la vía núm. 1 con la misma denominación hacia Nové Údolí; la otra parte, durante la maniobra, se traslada a la vía núm. 3 y desde allí parte como tren Os 8170 hacia Český Krumlov. Tras la salida, el tren Os 18544 se detuvo inesperadamente tras recorrer unos 30 metros. La maniobra de maniobras, que inició la maniobra empujando en el sentido de la marcha del tren Os 18544 inmediatamente después de su salida, antes de que este hubiera pasado la tabla trapezoidal, ya no logró detenerse y chocó contra la composición detenida del tren Os 18544. El transporte ferroviario no se interrumpió.
+La estación de Černý Kříž se encuentra en la línea České Budějovice – Volary en el tramo entre la estación de Volary y la estación de Kájov. Desde la estación de Černý Kříž la línea continúa hacia Nové Údolí. Para la circulación de trenes en este tramo se utiliza la gestión simplificada del transporte ferroviario (véase el § 19 del decreto núm. 173/1995 Sb.). El despachador director tiene su sede en la estación de Volary. Para la comunicación entre el despachador director y los maquinistas se utiliza preferentemente la comunicación radiofónica.
+Se activó el sistema integrado de emergencias. En el lugar actuaron la Policía ČR OŘ – SKPV Prachatice, el Servicio Médico de Emergencias de Prachatice, el Cuerpo de Bomberos de
 
 ## Página 9
 
-2.1.3 Decisión de iniciar la investigación de las causas y las circunstancias de la ocurrencia, composición del equipo de personas cualificadas y método de conducción de la investigación de las causas y las circunstancias de la ocurrencia
-La Inspección Ferroviaria, de conformidad con el artículo 53b de la ley n.º 266/1994 Coll. y el artículo 11 del decreto n.º 376/2006 Coll., sobre el sistema de seguridad de la explotación de las vías férreas y del transporte ferroviario y los procedimientos en caso de incidentes extraordinarios en las vías férreas, inició la investigación de las causas y las circunstancias de la ocurrencia del incidente extraordinario. Se envió al lugar de la ocurrencia un inspector superior de la Inspección Ferroviaria de la Inspección Territorial de Pilsen. En el lugar estaban presentes las personas cualificadas autorizadas del titular de la infraestructura y del transportista ferroviario: del Inspectorado Regional de Seguridad del Transporte Ferroviario de Pilsen, de la Estación Unificada de Tráfico de České Budějovice (UŽST České Budějovice), de la Estación de Tráfico de Volary (ŽST Volary), del Centro Regional de Acompañamiento de Trenes de České Budějovice, del Taller de Vehículos sobre Ruedas de České Budějovice y de la Administración de la Vía de Circulación de České Budějovice.
-### 2.2 Circunstancias del incidente extraordinario
-### 2.2.1 Empleados del titular de la infraestructura y del transportista ferroviario participantes, personas en relación contractual y otros participantes y testigos
+Jihočeského kraje, Departamento Territorial de Prachatice y Cuerpo de Bomberos y Rescate de ČD, a. s., České Budějovice.
+2.1.3 Decisión de iniciar la investigación de las causas y circunstancias de la ocurrencia, composición del equipo de personas cualificadas y forma de dirigir la investigación de las causas y circunstancias de la ocurrencia
+La Inspección Ferroviaria, de conformidad con el § 53b de la ley nº 266/1994 Sb. y el § 11 del decreto nº 376/2006 Sb., sobre el sistema de seguridad de la explotación de la vía y del transporte ferroviario y los procedimientos en caso de ocurrencia de sucesos excepcionales en las vías, inició la investigación de las causas y circunstancias de la ocurrencia del suceso excepcional. Al lugar de la ocurrencia fue enviado el inspector principal de la Inspección Ferroviaria de la Inspección Territorial de Plzeň. Estuvieron presentes en el lugar las personas cualificadas autorizadas del explotador de la vía y del transporte ferroviario – de la Inspección Regional de Seguridad del Transporte Ferroviario de Plzeň, UŽST České Budějovice, ŽST Volary, del Centro Regional de Acompañamiento de Trenes de České Budějovice, del Depósito de Vehículos sobre Raíles de České Budějovice y de la Administración de la Vía de Transporte de České Budějovice.
+### 2.2 Circunstancias del suceso excepcional
+### 2.2.1 Empleados participantes del explotador de la vía y del transportista, personas en relación contractual y otros participantes y testigos
 ●maquinista del tren Os 18544,
-●jefe de tren de transporte de pasajeros del tren Os 18544,
-●maquinista del conjunto de maniobras,
-●jefe de tren de transporte de pasajeros del conjunto de maniobras,
-●expendedor de billetes – despachador jefe,
-●viajeros en el tren Os 18544 y en el conjunto de maniobras.
-2.2.2 Trenes y su composición, incluidos los números de registro de cada vehículo ferroviario individual
-El tren Os 18544 estaba compuesto por un vehículo motorizado 810.622-1 y un remolque Btax 010.208-7. Tenía una longitud total de 28 metros, 4 ejes, una masa de 44 toneladas, los porcentajes de frenado necesarios del 66 % y los porcentajes de frenado reales del 81 %.
-El conjunto de maniobras (conjunto de vehículos para el tren Os 8170) estaba compuesto por un vehículo motorizado 810.093-5 y un remolque Bdtax 015.494-8. Tenía una longitud total de 28 metros, 4 ejes, una masa de 44 toneladas.
-### 2.2.3 Descripción de los componentes de la vía de circulación de la infraestructura, del sistema de seguridad (es decir, especialmente del estado de las vías, de las agujas, de los edificios de señalización, de las señales y del dispositivo de seguridad de trenes)
-La estación de señalización Černý Kříž se encuentra en la línea ferroviaria regional en el pk 61,866 según la línea Černý Kříž – Nové Údolí. Tiene tres vías de circulación; n.º 1, n.º 2 y n.º 3. El dispositivo de seguridad es de primera categoría. Las agujas se conmutan mecánicamente y se aseguran con seguros de agujas. El acompañamiento del tren conmuta y asegura las agujas. Para la circulación de trenes se utiliza la gestión simplificada del transporte ferroviario. El tráfico de trenes en las líneas Volary – Kájov y Černý
+●jefe de tren de pasajeros del tren Os 18544,
+●maquinista de la maniobra,
+●jefe de tren de pasajeros de la maniobra,
+●jefe de estación – despachador director,
+●pasajeros en el tren Os 18544 y en la maniobra.
+2.2.2 Trenes y su composición, incluidos los números de registro de los distintos vehículos ferroviarios
+El tren Os 18544 estaba compuesto por el coche motor 810.622-1 y el coche remolque Btax 010.208-7. Tenía una longitud total de 28 metros, 4 ejes, un peso de 44 toneladas, porcentajes de frenado necesarios del 66 %, porcentajes de frenado reales del 81 %.
+La maniobra (composición para el tren Os 8170) estaba compuesta por el coche motor 810.093-5 y el coche remolque Bdtax 015.494-8. Tenía una longitud total de 28 metros, 4 ejes, un peso de 44 toneladas.
+### 2.2.3 Descripción de las partes de la vía de transporte de la vía, del sistema de señalización (es decir, en particular el estado de las vías, agujas, aparatos de cambio, señales y del dispositivo de seguridad del tren)
+La estación de Černý Kříž se encuentra en la vía ferroviaria regional en el km 61,866 según la línea Černý Kříž – Nové Údolí. Tiene tres vías de tráfico; nº 1, nº 2 y nº 3. El dispositivo de señalización es de primera categoría. Las agujas se accionan mecánicamente y se aseguran con cerraduras de aguja. Las agujas las acciona y bloquea el acompañante del tren. Para la circulación de trenes se utiliza la gestión simplificada del transporte ferroviario. El tráfico ferroviario en las líneas Volary – Kájov y Černý
 
 ## Página 10
+
 
 Kříž – Nové Údolí está controlada por el despachador de tráfico desde la estación de control de trenes (ŽST) de Volary. Para la comunicación entre el despachador de tráfico y los maquinistas se utiliza prioritariamente la red de radio SRV (red de radio despachadora de trenes). La comunicación en la red SRV se graba automáticamente en el dispositivo de grabación tipo REDAT en la estación de control de trenes (ŽST) de Volary.
 ### 2.2.4 Uso de medios de comunicación
@@ -199,57 +204,56 @@ En el incidente se produjeron lesiones a la salud de viajeros y de un empleado d
 ●atendidos en el hospital con periodo posterior de curación de hasta 7 días – dos personas, de las cuales un empleado del operador de transporte ferroviario,
 ●atendidos en el hospital con periodo posterior de curación de más de 7 días – dos personas.
 
-
 ## Página 11
 
-### 2.3.2 En las mercancías transportadas, equipajes y otros bienes
-No se produjeron daños en las mercancías transportadas, equipajes ni otros bienes.
-### 2.3.3 En los vehículos ferroviarios, en las partes de la vía y en el medio ambiente
-En los vehículos ferroviarios se produjeron daños por un importe total de 24 585,- Kč. La tasación de los daños del vagón remolque Bdtax 015.494-8 asciende a 8 460,- Kč, y la del vagón remolque Btax 010.208-7 a 16 125,- Kč. No se produjeron daños en las partes de la vía ni en el medio ambiente.
-### 2.4 Factores externos
+### 2.3.2 Sobre las cosas transportadas, el equipaje y otros bienes
+No se produjo daño en las cosas transportadas, el equipaje ni en otros bienes.
+### 2.3.3 Sobre el material rodante, los componentes de la vía de circulación y el medio ambiente
+En el material rodante se produjo un daño por un importe total de 24 585,- Kč. La tasación pericial del daño en el vagón de carga Bdtax 015.494-8 es de 8 460,- Kč, en el vagón de carga Btax 010.208-7 16 125,- Kč. No se produjo daño en los componentes de la vía de circulación ni en el medio ambiente.
+### 2.4 Circunstancias externas
 ### 2.4.1 Condiciones meteorológicas y datos geográficos
-En el momento de la producción del incidente la temperatura era de +18°C, nublado, calma.
-## 3 REGISTRO DE LAS EXPLICACIONES PRESTADAS
-### 3.1 Resumen de las explicaciones prestadas (sujetas a protección de la identidad de las personas) y sobre la investigación técnica de las causas de la producción del incidente
-### 3.1.1 Empleados del gestor de la infraestructura ferroviaria y del operador de transporte, incluidas las personas en relación contractual
-En el marco de la determinación de las causas y las circunstancias del incidente, el gestor de la infraestructura ferroviaria y el operador de transporte ferroviario recibieron explicaciones por escrito del maquinista del tren Os 18544, del maquinista de maniobras, del jefe de tren del transporte de viajeros del tren Os 18544, del jefe de tren del transporte de viajeros del turno de maniobras y del despachador de la estación de control de trenes (ŽST) de Volary – despachador de tráfico. Al prestar las explicaciones el maquinista de maniobras, los jefes de tren del transporte de viajeros del turno de maniobras y el despachador de la estación de control de trenes (ŽST) de Volary, estuvo presente el inspector jefe de la Inspección Territorial de Pilsen.
-Datos y circunstancias indicados en las Actas con los empleados:
-### ●El maquinista de maniobras indica que, tras el desacoplamiento del tren, regresó a su puesto de maquinista, miró por la ventana que estaba en el lado de la andén y, cuando el jefe de tren comenzó a dar la señal manual «Acercarse» con una bandera roja, puso el turno de maniobras en movimiento. Se guió por las señales manuales del jefe de tren y entonces vio a una persona que entró en el andén «por detrás del tren». Inmediatamente después vio al jefe de tren dando la señal «Parar, detener con todos los medios». Comenzó a frenar inmediatamente utilizando el freno continuo y poco después se produjo la colisión. A la pregunta de si solicitó al despachador de tráfico el consentimiento para realizar las maniobras o para la salida, responde que no lo solicitó. Quería solicitar el consentimiento para la salida únicamente después de cambiar el tren a la vía n.º 3, que está destinada como vía de salida para el tren Os 8170 a Český Krumlov.
+En el momento de producirse el MU había +18°C, cielo cubierto, calma.
+## 3 REGISTRO DE LAS EXPLICACIONES PRESENTADAS
+### 3.1 Resumen de las explicaciones presentadas (sujetas a protección de la identidad de las personas) y del peritaje profesional sobre las causas de la producción del suceso excepcional
+### 3.1.1 Empleados del gestor de la vía y del transportista, incluidas personas en relación contractual
+En el marco de la investigación de las causas y circunstancias del MU, el maquinista del tren Os 18544, el maquinista de la unidad de maniobras, el jefe de tren de pasajeros del tren Os 18544, el jefe de tren de pasajeros de la unidad de maniobras y el jefe de estación de la EST Volary – despachador director, facilitaron por escrito explicaciones al gestor de la vía y al transporte ferroviario. En el momento de presentar las explicaciones, el maquinista de la unidad de maniobras, el jefe de tren de pasajeros de la unidad de maniobras y el jefe de estación de la EST Volary estuvieron acompañados por el inspector superior de la Inspección Territorial de Plzeň.
+Datos y circunstancias consignados en los Registros con los empleados:
+### ●El maquinista de la unidad de maniobras indica que, tras desacoplar la composición, regresó a su puesto de maquinista, miró por la ventana que daba al lado del andén y, cuando el jefe de tren comenzó a dar la señal manual «Acercarse» mediante la banderola roja, puso la unidad de maniobras en movimiento. Se desplazó según las señales manuales del jefe de tren y a continuación vio una figura que entró en el andén «en algún lugar detrás del tren». Acto seguido vio al jefe de tren dar la señal «Alto, deténgase por todos los medios». Inmediatamente comenzó a frenar mediante el freno continuo y acto seguido se produbió el impacto. A la pregunta de si solicitó al despachador director el consentimiento para realizar las maniobras o para la salida, responde que no lo solicitó. El consentimiento para la salida lo quería solicitar solo después de maniobrar la composición a la vía n.º 3, que está designada como vía de salida para el tren Os 8170 con destino a Český Krumlov.
 
 ## Página 12
 
-### ●El jefe de tren de transporte de viajeros del sector de maniobras indica que recibió el consentimiento del maquinista del sector de maniobras para realizar maniobras y, cuando el tren Os 18544 en partida se encontraba a una distancia de aproximadamente 100 metros, comenzó a dar la señal con pañuelo rojo de «Acercarse». Al ver que el tren Os 18544 se detenía de forma inesperada y brusca, comenzó inmediatamente a dar con el pañuelo la señal «Deténgase, deténgase con todos los medios», la cual complementaba con una señal acústica mediante la bocina: «Deténgase, deténgase con todos los medios». Ante la pregunta de por qué dio al maquinista la señal de «Acercarse» cuando vio que el tren Os 18544 aún no había salido de la estación de tráfico, respondió que consideraba que la distancia de 100 metros entre el tren en partida y el sector de maniobras era suficiente para una posible parada segura, en caso de que ocurriera cualquier imprevisto.
-### ●El maquinista del tren Os 18544 indica que, tras la puesta en marcha del tren y tras recorrer aproximadamente 30 m, se encendió la luz de control de la apertura centralizada de las puertas. A través del retrovisor vio que el jefe de tren de transporte de viajeros daba la señal manual de «Deténgase, deténgase con todos los medios». Detuvo el tren mediante el freno continuo, inmovilizó la composición con el freno adicional y desbloqueó las puertas de control centralizado situadas a la izquierda en el sentido de marcha del tren. Tras la parada, el extremo del tren permaneció aún junto al andén. Vio que el jefe de tren y una viajera bajaban del tren y, a continuación, se produjo la colisión.
-### ●El jefe de tren de transporte de viajeros del tren Os 18544 indica que, durante el control de billetes justo con la primera viajera, comprobó que viajaba en dirección incorrecta. Intentó detener el tren mediante la señal de «Deténgase, deténgase con todos los medios» para que la viajera pudiera bajarse aún del tren. Tras la parada, bajó del tren junto con la viajera y, a continuación, se produjo la colisión.
-### ●El despachador de la estación de tráfico de Volary – despachador director indica que el maquinista del tren Os 18544 anunció la llegada del tren a Černý Kříž y, al mismo tiempo, solicitó el consentimiento para la salida hacia Nové Údolí. Tras un breve periodo, volvió a comunicarse el maquinista del tren Os 18544 y anunció un incidente extraordinario. Ante la pregunta de si el maquinista del sector de maniobras había solicitado el consentimiento para iniciar las maniobras o para la salida, respondió que no lo había solicitado. Se comunicó únicamente el maquinista del tren Os 18544, quien anunció la llegada a Černý Kříž, solicitó el consentimiento para la salida hacia Nové Údolí y, posteriormente, anunció el incidente extraordinario.
+### ●El jefe de tren de la sección de maniobras de transporte de pasajeros indica que recibió el consentimiento del maquinista de la sección de maniobras para realizar la maniobra y, cuando el tren saliente Os 18544 se hallaba a unos 100 metros de distancia, comenzó a dar la señal de banderín «Acercarse». Cuando vio que el tren Os 18544 se detuvo inesperadamente de forma brusca, comenzó a dar inmediatamente la señal de banderín «Alto, deténgase por todos los medios», la cual complementó con la señal sonora «Alto, deténgase por todos los medios» con el silbato. A la pregunta de por qué dio al maquinista la señal «Acercarse» cuando vio que el tren Os 18544 aún no había salido de la instalación de tráfico, responde que consideraba que la distancia de 100 metros entre el tren saliente y la sección de maniobras era suficiente para una eventual detención segura, en caso de que ocurriera algo.
+### ●El maquinista del tren Os 18544 indica que, tras la puesta en marcha del tren y de recorrer unos 30 m, se encendió la piloto de apertura central de puertas. En el espejo retrovisor vio que el jefe de tren de transporte de pasajeros daba la señal manual «Alto, deténgase por todos los medios». Con el freno continuo detuvo el tren, aseguró la composición con el freno auxiliar y desbloqueó las puertas controladas centralmente a la izquierda en el sentido de circulación del tren. El final del tren permaneció tras la detención aún en el andén. Vio que del tren descendían el jefe de tren y una pasajera y, a continuación, se produjo el impacto.
+### ●El jefe de tren de transporte de pasajeros del tren Os 18544 indica que, durante la revisión de los billetes, ya con la primera pasajera, comprobó que circulaba en dirección incorrecta. Intentó detener el tren con la señal «Alto, deténgase por todos los medios» para que la pasajera pudiera aún descender. Tras la detención, descendió junto con la pasajera del tren y, a continuación, se produjo el impacto.
+### ●El jefe de estación de la EST Volary – despachador director indica que el maquinista del tren Os 18544 comunicó la llegada del tren a Černý Kříž y, al mismo tiempo, solicitó el consentimiento para la salida hacia Nové Údolí. Al rato volvió a comunicarse el maquinista del tren Os 18544 e informó de un suceso excepcional. A la pregunta de si el maquinista de la sección de maniobras solicitó el consentimiento para iniciar la maniobra o para la salida, respondió que no lo solicitó. Solo se comunicó el maquinista del tren Os 18544, que informó de la llegada a Černý Kříž, solicitó el consentimiento para la salida hacia Nové Údolí y, a continuación, informó de un suceso excepcional.
 ### 3.1.2 Otras personas
-No se solicitaron explicaciones a otras personas.
+No se solicitaron explicaciones de otras personas.
 ### 3.2 Sistema de garantía de la seguridad
-### 3.2.1 Organización marco y forma en que se dictan y ejecutan las instrucciones
-El titular de la infraestructura y el operador de transporte ferroviario en las líneas Volary – České Budějovice y Černý Kříž – Nové Údolí son České dráhy, a. s. La infraestructura y el transporte ferroviario se explotan con base en la autorización administrativa expedida para la explotación de la infraestructura y la licencia concedida para la explotación del transporte ferroviario. De conformidad con lo dispuesto en la ley n.º 266/1994 Coll., sobre ferrocarriles, en su versión vigente (en adelante, ley n.º 266/1994 Coll.) y sus reglamentos de desarrollo, se emitieron normas internas para la explotación de la infraestructura y del transporte ferroviario.
-En ambas líneas se utiliza un régimen simplificado de regulación del transporte ferroviario. El tráfico es regulado por el despachador director desde la estación de tráfico de Volary. Para la comunicación entre el despachador director y los maquinistas se utiliza prioritariamente la red de radio SRV (red de radiodespacho de trenes).
-
+### 3.2.1 Organización marco y forma en que se emiten y ejecutan las instrucciones
+El explotador de la infraestructura ferroviaria y del transporte ferroviario en las líneas Volary – České Budějovice y Černý Kříž – Nové Údolí es České dráhy, a. s. La infraestructura ferroviaria y el transporte ferroviario se explotan en virtud de la autorización administrativa expedida para la explotación de la infraestructura ferroviaria y de la licencia concedida para la explotación del transporte ferroviario. De conformidad con la disposición de la Ley núm. 266/1994 Sb., de ferrocarriles, en su versión vigente (en adelante, Ley núm. 266/1994 Sb.) y de sus reglamentos de desarrollo, se emitieron normas internas para la explotación de la infraestructura ferroviaria y del transporte ferroviario.
+En ambas líneas se utiliza una gestión simplificada del transporte ferroviario. El tráfico es gestionado por el despachador director desde la EST Volary. Para la comunicación entre el despachador director y los maquinistas se utiliza preferentemente la red de radio SRV (red de radio-despacho ferroviaria).
 
 ## Página 13
 
-La comunicación en la red SRV se graba automáticamente en el dispositivo de grabación de tipo REDAT en la estación de tráfico de Volary.
-### 3.2.2 Requisitos aplicables al personal del titular de la infraestructura y del operador de transporte y su cumplimiento
-Los requisitos aplicables al personal del titular de la infraestructura y del operador de transporte, en particular su competencia profesional y aptitud física, están establecidos en la ley n.º 266/1994 Coll., en sus reglamentos de desarrollo y en las normas internas del titular. Según la documentación presentada, el día de la producción del incidente extraordinario (MU), todos los empleados del titular de la infraestructura y del transporte ferroviario implicados poseían la competencia profesional y la aptitud física necesarias para el desempeño de sus funciones.
-### 3.2.3 Procedimiento de control interno de la seguridad y sus resultados
-La actividad de control del titular de la infraestructura y del operador de transporte se realiza de conformidad con la legislación vigente, de acuerdo con lo dispuesto en las normas internas del titular de la infraestructura y del transporte ferroviario. No se detectaron deficiencias en la actividad de control.
-### 3.2.4 Interfaces entre las distintas partes implicadas y las componentes de la ruta de circulación
-La interfaz entre las partes implicadas y las componentes de la ruta de circulación está regulada por lo dispuesto en la ley n.º 266/1994 Coll. y en la ley n.º 77/2002 Coll., sobre la sociedad anónima České dráhy, la organización estatal Správa železniční dopravní cesty y por la modificación de la ley n.º 266/1994 Coll., sobre ferrocarriles, en su versión posterior, y por la ley n.º 77/1997 Coll., sobre la empresa estatal, en su versión posterior.
-El titular de la infraestructura y del transporte ferroviario en esta línea es la misma persona jurídica: České dráhy, a. s.
-### 3.3 Marco jurídico y otras disposiciones
-### 3.3.1 Normativa comunitaria y nacional aplicable
+Las comunicaciones en el SRV se registran automáticamente en un dispositivo de registro tipo REDAT en la estación de Volary.
+### 3.2.2 Requisitos de los empleados del gestor de la infraestructura y del transportista y su aplicación
+Los requisitos de los empleados del gestor de la infraestructura y del transportista, en particular su idoneidad técnica y sanitaria, vienen determinados por la Ley n.º 266/1994 Sb., sus decretos de aplicación y las normas internas del gestor. Según la documentación aportada, el día en que se produjo el SU todos los empleados implicados del gestor de la infraestructura y del transporte ferroviario eran idóneos, tanto técnica como sanitariamente, para el desempeño de su función.
+### 3.2.3 Procedimiento de control interno de seguridad y sus resultados
+La actividad de control del gestor de la infraestructura y del transportista se realiza de conformidad con la legislación vigente, de acuerdo con las disposiciones de las normas internas del gestor de la infraestructura y del transporte ferroviario. No se han detectado deficiencias en la actividad de control.
+### 3.2.4 Interfaz entre los distintos sujetos implicados y los componentes de la vía de circulación
+La interfaz entre los sujetos implicados y los componentes de la vía de circulación viene determinada por las disposiciones de la Ley n.º 266/1994 Sb. y de la Ley n.º 77/2002 Sb., de la sociedad anónima České dráhy, de la organización estatal Správa železniční dopravní cesty y de modificación de la Ley n.º 266/1994 Sb., de las vías férreas, en su redacción vigente, y de la Ley n.º 77/1997 Sb., de la empresa estatal, en su redacción vigente.
+El gestor de la infraestructura y del transporte ferroviario en esta vía es la misma persona jurídica – České dráhy, a. s.
+### 3.3 Regulación jurídica y de otro tipo
+### 3.3.1 Normas jurídicas comunitarias y nacionales aplicables
 Las normas comunitarias aplicables son las Directivas del Parlamento Europeo y del Consejo.
-Para la determinación de las causas y las circunstancias de la producción de este incidente extraordinario se utilizaron las siguientes normas nacionales:
-●la ley n.º 266/1994 Coll., sobre ferrocarriles, en su versión posterior,
-●el reglamento n.º 100/1995 Coll., por el que se establecen las condiciones para la explotación, la construcción y la fabricación de determinados equipos técnicos y su concreción (Reglamento de los equipos técnicos determinados), en su versión posterior,
-●el reglamento n.º 101/1995 Coll., por el que se aprueba el Reglamento sobre la aptitud física y profesional de las personas en la explotación de la infraestructura y del transporte ferroviario, en su versión posterior,
-●el reglamento n.º 173/1995 Coll., por el que se aprueba el reglamento de circulación de los ferrocarriles, en su versión posterior,
+Para el esclarecimiento de las causas y circunstancias de la producción de este suceso excepcional se han aplicado las siguientes normas jurídicas nacionales:
+●Ley n.º 266/1994 Sb., de las vías férreas, en su redacción vigente,
+●Decreto n.º 100/1995 Sb., por el que se establecen las condiciones para la explotación, construcción y fabricación de instalaciones técnicas designadas y su concreción (Reglamento de instalaciones técnicas designadas), en su redacción vigente,
+●Decreto n.º 101/1995 Sb., por el que se aprueba el Reglamento de idoneidad sanitaria y técnica de las personas para la explotación de la vía férrea y del transporte ferroviario, en su redacción vigente,
+●Decreto n.º 173/1995 Sb., por el que se aprueba el Reglamento de circulación de las vías férreas, en su redacción vigente,
 
 ## Página 14
+
 
 ●decreto n.º 177/1995 Coll., por el que se aprueba el reglamento de construcción y técnica de las vías férreas, en su redacción modificada por disposiciones posteriores,
 ●decreto n.º 376/2006 Coll., sobre el sistema de seguridad de la explotación de las vías férreas y del transporte ferroviario y los procedimientos en caso de incidentes en las vías férreas.
@@ -271,8 +275,8 @@ Para la comunicación entre el despachador de tráfico y los maquinistas se util
 ### 3.4.4 Vehículos ferroviarios, incluidos los dispositivos para la grabación automática de datos
 El vehículo motorizado 810.622-1 dispone de un «Certificado de aptitud del vehículo ferroviario» válido, número de registro PZ 9345/98-V.22, emitido por la Oficina Ferroviaria de Praga el 1. 12. 1998. La última inspección técnica del vehículo ferroviario se realizó el 19. 3. 2007 con el resultado «El vehículo cumple las condiciones de explotación en las vías férreas». La última inspección técnica del remolque Btax 010.208-7 se realizó el 9. 10. 2006.
 
-
 ## Página 15
+
 
 El vehículo motorizado 810.093-5 dispone de un «Certificado de aptitud del vehículo ferroviario» válido, número de registro PZ 1249/00-V.22, emitido por la Oficina Ferroviaria de Praga el 10. 3 2000. La última inspección técnica del vehículo ferroviario se realizó el 18. 4. 2007 con el resultado «El vehículo cumple las condiciones de explotación en las vías férreas». La última inspección técnica del remolque Bdtax 015.494-8 se realizó el 11. 5 2007.
 Los vehículos ferroviarios 810.622-1 y 810.093-5 están equipados con un dispositivo para la grabación automática de datos: un registrador de velocidad.
@@ -287,8 +291,8 @@ Tras la producción del incidente, se examinaron las grabaciones del dispositivo
 ### 3.5.3 Medidas adoptadas para la protección y seguridad del lugar del incidente
 Hasta la llegada de los componentes del sistema integrado de rescate, ambos maquinistas, en colaboración con los jefes de tren de transporte de viajeros, aseguraron la protección y seguridad del lugar del incidente.
 
-
 ## Página 16
+
 
 ### 3.6 Condiciones de trabajo, sanitarias y de explotación
 ### 3.6.1 Jornada laboral del personal del titular de la infraestructura y del transportista que fueron parte del incidente
@@ -307,6 +311,7 @@ Tras la llegada del tren Os 18544 a la estación de Černý Kříž en la vía n
 
 ## Página 17
 
+
 salida para el tren regional Os 8170 hacia Český Krumlov. Tras la salida del tren Os 18544, tras recorrer unos 30 metros, se detuvo de forma inesperada. El grupo de maniobras, que había iniciado las maniobras empujando en el sentido de circulación del tren Os 18544 inmediatamente después de su salida, antes de superar la señal de diamante, ya no pudo detenerse a tiempo y chocó contra el tren Os 18544 detenido.
 ### 4.2 Análisis
 ### 4.2.1 Evaluación de los hechos constatados según el punto 3 y exposición de las conclusiones sobre la causa del incidente y la actividad de los servicios de emergencia
@@ -320,8 +325,8 @@ La causa fundamental del incidente fue el incumplimiento de lo dispuesto en el D
 ### 4.3.3 Causas derivadas del marco normativo y del uso del sistema de garantía de la seguridad
 Durante la investigación no se detectaron causas derivadas del marco normativo ni del uso del sistema de garantía de la seguridad.
 
-
 ## Página 18
+
 
 ### 4.4 Hallazgos complementarios
 ### 4.4.1 Deficiencias y omisiones detectadas durante la investigación de las causas y las circunstancias de la aparición del incidente, que no son, sin embargo, relevantes para las conclusiones sobre las causas
@@ -343,8 +348,8 @@ como consecuencia de la aparición del incidente extraordinario, se encomendó a
 ●
 se emitió la Hoja Informativa n.º 6/2007 en relación con el incidente extraordinario.
 
-
 ## Página 19
+
 
 ## 6 RECOMENDACIONES DE SEGURIDAD
 La Inspección Ferroviaria no adoptó ninguna recomendación de seguridad.
@@ -356,14 +361,14 @@ director
 Inspección Territorial de Pilsen
 de la Inspección Territorial de Pilsen
 
-
 ## Página 20
+
 
 ## 7 ANEXOS
 Foto 1: Situación tras el incidente extraordinario (MU)
 Foto 2: Vagón remolque del tren Os 18544
 
-
 ## Página 21
+
 
 Foto 3: Vagón remolque del grupo de maniobras

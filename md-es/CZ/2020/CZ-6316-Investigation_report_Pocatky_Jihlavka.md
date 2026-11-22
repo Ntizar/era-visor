@@ -10,13 +10,14 @@ chars: 97108
 ratio_longitud: 1.24
 tokens_in: 47054
 tokens_out: 32865
-verificacion: revisar
-notas_cifras: ["bloque 1: original bilingüe: se compara contra el idioma principal (CS)", "bloque 4: cifras cortas: 1/195", "bloque 7: original bilingüe: se compara contra el idioma principal (CS)"]
-avisos: ["bloque 7: ratio 1.64"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 3: original bilingüe: se compara contra el idioma principal (CS)", "página 6: original bilingüe: se compara contra el idioma principal (CS)", "página 7: original bilingüe: se compara contra el idioma principal (CS)", "página 13: original bilingüe: se compara contra el idioma principal (CS)", "página 15: original bilingüe: se compara contra el idioma principal (CS)", "página 19: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -41,13 +42,13 @@ IČ: 75009561
 mail@dicr.cz
 tel.: +420 736 521 003
 
-
 ## Página 2
+
 
 Este informe final es público y todos los hechos en él expuestos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ## 1 RESUMEN
 Fuente: Drážní inspekce
@@ -78,14 +79,14 @@ cruzar el paso a nivel con seguridad.
 No fue detectado por la Drážní inspekce ningún factor contribuyente.
 No fue detectada por la Drážní inspekce ninguna causa sistémica.
 
-
 ## Página 4
+
 
 Recomendaciones de seguridad:
 No fue emitida ninguna recomendación de seguridad por la Drážní inspekce.
 
-
 ## Página 5
+
 
 ## SUMMARY
 5th August 2020, 8:18 (6:18 GMT).
@@ -120,8 +121,8 @@ none.
 Recommendation:
 not issued.
 
-
 ## Página 6
+
 
 # Índice
 1 RESUMEN........................................................................................................................3
@@ -180,8 +181,8 @@ ferroviarios....................................................................
 4.2.1 Factores o consecuencias derivados del diseño de los vehículos ferroviarios, 
 de la infraestructura ferroviaria o de las instalaciones técnicas...............................29
 
-
 ## Página 7
+
 
 4.2.2 Factores o consecuencias derivados de la instalación y puesta en servicio de 
 los vehículos ferroviarios, de la infraestructura ferroviaria o de las instalaciones 
@@ -226,6 +227,7 @@ conformidad.....................................................................
 ANEXOS..............................................................................................................................35
 
 ## Página 8
+
 
 ### Lista de abreviaturas y símbolos utilizados
 CDP
@@ -283,8 +285,8 @@ pasaje a nivel ferroviario
 žst.
 estación de ferrocarril
 
-
 ## Página 9
+
 
 ### Lista de abreviaturas de las disposiciones legales, normas y normativas internas utilizadas
 ley núm. 266/1994 Sb.
@@ -316,8 +318,8 @@ normativa interna del transportista ČDC, a. s., «Directriz PTs10-B-2011 Equipo
 Documentación tecnológica
 normativa interna del transportista ČDC, a. s., «Documentación tecnológica del puesto de explotación de Havlíčkův Brod para la estación Jihlava», en la redacción vigente en el momento de la ocurrencia de la MU
 
-
 ## Página 10
+
 
 ## 2 INVESTIGACIÓN Y SUS RELACIONES
 ### 2.1 Decisión de iniciar la investigación
@@ -350,8 +352,8 @@ medición de las condiciones de visibilidad en el ŽP;
 medición de los parámetros del ŽP;
 •
 
-
 ## Página 11
+
 
 análisis de la documentación solicitada al operador de la infraestructura, al transportista y a la PČR;
 •
@@ -387,8 +389,8 @@ Coordenadas GPS:     49.2334261N, 15.2325897E.
 ### 3.1.3 Descripción del lugar del suceso
 El ŽP P6189 se encuentra en el ferrocarril nacional, Veselí nad Lužnicí – Havlíčkův Brod, en el km 49,634, entre las est. Jihlávka y Počátky-Žirovnice. La línea está electrificada con una tensión alterna monofásica de 25 kV 50 Hz, y en los tramos entre estaciones es de vía única.
 
-
 ## Página 12
+
 
 Fig. n.º 1: Esquema del lugar de la ocurrencia de la MU
                Fuente: DI
@@ -406,40 +408,37 @@ el OA circulaba desde la finca – edificio n.º de registro 24, por una salida 
 a la vía desde la izquierda, a una distancia de 25,9 m del eje de la TK.
 El camino de campo antes del ŽP P6189 en la dirección de circulación del OA (tras la salida desde la finca – edificio n.º de registro 24) discurría en línea recta a la altura del terreno circundante, en una ligera pendiente. Tras el ŽP, el camino de campo ascendía mediante una curva suave a la izquierda en un corte profundo densamente cubierto de vegetación espontánea. Al final del corte, donde el camino de campo alcanzaba
 
-
 ## Página 13
 
-la altura del terreno circundante, la curva a la izquierda pasaba de forma continua a una curva a la derecha, que terminaba con la salida del camino de campo a la vía pública – carretera de tercera clase n.º 13404;
-la salida desde la finca – edificio n.º de registro 24, conectada al camino de campo antes del ŽP, discurría
+del nivel del terreno circundante, la curva a la izquierda pasó continuamente a una curva a la derecha, terminada por la salida de un camino de campo a una vía pública – carretera de tercera clase nº 13404;
+la salida desde la finca – edificio nº 24, conectada al camino de campo antes del PFC, discurría
 •
-a través de la parcela n.º 448/4 en el término municipal de Prostý (propiedad del municipio de Počátky) y de las parcelas n.º 449/1 y 446/1 en el término municipal de Prostý (propiedad de personas físicas privadas);
-el camino de campo en la dirección de circulación del OA hacia el ŽP P6189 discurría a través de la parcela
+a través de la parcela nº 448/4 en la circunscripción catastral de Prostý (el propietario era la ciudad de Počátky) y de las parcelas nº 449/1 y 446/1 en la circunscripción catastral de Prostý (los propietarios son personas físicas privadas);
+el camino de campo en la dirección de circulación del vehículo hacia el PFC P6189 discurría a través de la parcela nº 465/4
 •
-n.º 465/4 en el término municipal de Prostý. La propiedad era de la República Checa. El derecho de gestionar el bien del Estado lo ejercía la Oficina de Bienes Raíces del Estado;
-el ŽP estaba formado por una estructura de paneles de hormigón armado. Los paneles estaban colocados
+en la circunscripción catastral de Prostý. El propietario era la República Checa. El derecho de administrar el bien del Estado lo ejercía la Oficina Estatal de Tierras;
+el PFC estaba formado por una construcción de paneles de hormigón armado. Los paneles estaban colocados
 •
-paralelos al eje de la TK. Los canales para los ejes de las ruedas de los DV estaban limpios. Los paneles estaban asegurados contra el desplazamiento en el eje longitudinal de la TK mediante perfiles de acero soldados por las caras exteriores de los paneles a las traviesas. Los bordes de los paneles (la calzada del paso a nivel) estaban provistos, en el eje de la TK, de cuñas protectoras de madera.
-El camino de campo se conectaba a los paneles exteriores del ŽP, que formaban la estructura de la calzada del paso a nivel, mediante una mezcla de grava fina y árido;
-el ancho libre del camino de campo antes y después del ŽP era de 3,5 m, el ancho del ŽP (estructura de la calzada del paso a nivel) era de 4,0 m, la longitud del paso a nivel Dp era de 6,57 m, el ángulo de cruce de la TK y el camino de campo era de 81°;
+paralelamente al eje de la vía. Los canales para las llantas de los vehículos ferroviarios estaban limpios. Los paneles estaban asegurados contra el desplazamiento en el eje longitudinal de la vía mediante perfiles de acero soldados por las caras exteriores de los paneles a las placas de apoyo. Los bordes de los paneles (la calzada del paso a nivel) estaban provistos en el eje de la vía de cuñas protectoras de madera.
+El camino de campo estaba conectado a los paneles exteriores del PFC, que forman la construcción de la calzada del paso a nivel, mediante una mezcla de grava fina y árido;
+el ancho libre del camino de campo era de 3,5 m antes y después del PFC, el ancho del PFC (construcción de la calzada del paso a nivel) era de 4,0 m, la longitud del paso a nivel Dp era de 6,57 m, el ángulo de cruce entre la vía y el camino de campo era de 81°;
 •
-la superficie del camino de campo, en el momento de la ocurrencia de la MU, tras las lluvias anteriores, estaba embarrada en algunos tramos; la calzada del paso a nivel del ŽP P6189 y los cantos de los raíles de la TK estaban secos;
-en los cantos de las cabezas de las bandas de raíles ni en el balasto de la TK se encontraron huellas del uso del dispositivo de arenado del HDV;
+la superficie del camino de campo en el momento de la ocurrencia del accidente estaba en algunos puntos embarrada tras las lluvias anteriores; la calzada del paso a nivel del PFC P6189 y los cantos de los raíles de la vía estaban secos;
+en los cantos de las cabezas de las bandas de raíles ni en el balasto de la vía se encontraron rastros del uso del equipo de arenado de los vehículos ferroviarios;
 •
-ni en la superficie de la vía pública ni en la calzada del paso a nivel del ŽP se detectaron huellas de neumáticos por frenado del OA. La calzada del paso a nivel del ŽP no resultó dañada por el suceso del accidente;
+ni en la superficie de la vía pública ni en la calzada del paso a nivel del PFC se detectaron rastros de neumáticos por frenado del vehículo. La calzada del paso a nivel del PFC no resultó dañada por el siniestro;
+la longitud de visibilidad para el vehículo de carretera más lento Lp era, en la dirección de circulación del vehículo hacia el PFC, hacia la cabeza del tren que se acercaba al PFC por la izquierda y por la derecha, mayor de 380 m, siendo la cabeza del tren que circulaba por la izquierda, es decir, desde la estación Jihlávka, visible sin obstrucción desde el nivel de la cruz de advertencia a una distancia de 401 m;
 •
-la longitud de visibilidad para el vehículo de carretera más lento Lp era, en la dirección de circulación del OA hacia el ŽP, hacia el frente del DV que se aproximaba al ŽP desde la izquierda y desde la derecha, superior a 380 m, si bien el frente del DV que circulaba desde la izquierda, es decir, desde la est. Jihlávka, se veía sin obstrucción desde el nivel de la cruz de advertencia a una distancia de 401 m;
-la ubicación de las señales de advertencia inamovibles con la indicación «Pískejte» (Pite) estaba, en ambos sentidos, a una distancia de 371 m;
+la ubicación de las señales de advertencia fijas con la indicación «Pískejte» (Pite) estaba a una distancia de 371 m en ambas direcciones;
+el área del PFC no estaba monitorizada por un sistema de cámaras.
 •
-el área del ŽP no estaba monitorizada por un sistema de cámaras.
+Señalización vial:
+el PFC estaba señalizado y asegurado en ambas direcciones de circulación de los vehículos de carretera mediante señales verticales A 32a «Cruz de advertencia para paso a nivel ferroviario de vía única» (en adelante también cruz de advertencia), complementadas con las señales P 6 «¡Alto, ceda el paso!», colocadas en postes comunes en el borde derecho del camino de campo, perpendicularmente al eje de la vía pública en la dirección de circulación de los vehículos de carretera, en la dirección de circulación del vehículo a una distancia de 4,40 m del eje de la vía y en la dirección opuesta a una distancia de 4,05 m del eje de la vía;
 •
-Señalización:
-el ŽP estaba señalizado y protegido, en ambos sentidos de circulación de los vehículos por carretera, con señales verticales A 32a «Cruz de advertencia para pasaje a nivel ferroviario de vía única» (también cruz de advertencia), complementadas con las señales P 6 «¡Alto, ceda el paso!», colocadas en postes comunes en el borde derecho del camino de campo, perpendicularmente al eje de la vía pública en la dirección de circulación de los vehículos por carretera, a una distancia de 4,40 m del eje de la TK en la dirección de circulación del OA y a una distancia de 4,05 m del eje de la TK en la dirección contraria;
-•
-ambas cruces de advertencia, incl. las señales P 6 «¡Alto, ceda el paso!», estaban
-•
-fabricadas con material reflectante. Las señales no estaban provistas de material retrorreflectante
+ambas cruces de advertencia, incl. las señales P 6 «¡Alto, ceda el paso!», estaban fabricadas con material reflectante. Las señales no estaban provistas de retroreflexión
 
 ## Página 14
+
 
 con un fondo fluorescente amarillo verdoso. En las caras posteriores de ambas cruces de advertencia se encontraban etiquetas fácilmente legibles provistas de la designación alfanumérica ŽP «P6189»;
 el poste común para la cruz de advertencia y la señal de tráfico P 6 «Alto, ceda el paso
@@ -475,8 +474,8 @@ el maquinista conducía el tren, observaba la vía y las señales desde el puest
 •
 conducción de la locomotora. De la inspección de la cabina y del puesto de conducción no se constató nada que
 
-
 ## Página 15
+
 
 impidiera al maquinista, antes de la producción del MU, observar sin interrupciones la vía, las señales y actuar conforme a los hechos constatados;
 tras la producción del MU, el maquinista, en su empeño por evitar daños mayores, detuvo el
@@ -521,8 +520,8 @@ como consecuencia del MU se produjo la fuga de sustancias perjudiciales para el 
 •
 ambiente – aceite de motor de la OA. Las consecuencias fueron eliminadas por las unidades del HZS, la catástrofe ecológica, según la información del jefe de intervención del HZS, no se produjo.
 
-
 ## Página 16
+
 
 Condiciones meteorológicas:
 temperatura exterior + 21 °C, período diurno, seco, parcialmente nublado,
@@ -571,8 +570,8 @@ Tercera parte:
 conductora de la OA.
 •
 
-
 ## Página 17
+
 
 Otras personas, testigos:
 jefe de maniobras, empleado de ČDC, a. s.;
@@ -611,6 +610,7 @@ el titular de la locomotora y de todos los vagones de tracción era ČDC, a. s.
 El estado real del tren Nex 60430 constatado en el lugar del MU correspondía a la documentación del tren. El registro de la circulación del tren Nex 60430 del 5. 8. 2020 fue realizado por un dispositivo registrador – el registrador de velocidad n.º 83041, situado en el puesto principal de conducción de la locomotora
 
 ## Página 18
+
 
 742.370-0, y sobre un RP de 102 mm de ancho de papel especial (KAPS-COMM-ČESKÝ KRUMLOV) con un rango de escala de 0 a 150 km·h-1, que es idéntico al rango de escala del registrador de velocidad. Del registro de circulación del tren objeto de estudio, tras redondear los datos temporales a segundos completos, los datos de distancia a metros completos y los datos de velocidad a km·h-1 completos, entre otros, se desprende que:
 ### Hora
@@ -666,30 +666,29 @@ de 8:16:00 h a 8:16:36 h, a una distancia de aprox. 2 100 a 1 400 m antes del Pn
 P6189, es decir, a lo largo de una distancia de aprox. 700 m, en un máximo de 4 
 km·h-1.
 ### 3.1.8 Descripción de las partes correspondientes de la infraestructura y del sistema de seguridad
-El Pn P6189 se encuentra en el tramo entre estaciones Jihlávka – Počátky-Žirovnice, en la línea de vía única Veselí nad Lužnicí – Havlíčkův Brod, electrificada con tensión alterna de 25 kV 50 Hz. La vía (TK) antes del Pn en el sentido de circulación del tren Nex 60430 desde el km 50,392 (758 m antes del Pn P6189) hasta el km 50,042 (408 m antes del Pn P6189) discurre en una curva derecha de radio 374 m; en el km 50,042 comienza la transición de la curva, que termina en el km 49,970 (336 m antes del 
-
+El Pn P6189 se encuentra en el tramo entre estaciones Jihlávka – Počátky-Žirovnice, en la línea de vía única Veselí nad Lužnicí – Havlíčkův Brod, electrificada con tensión alterna de 25 kV 50 Hz. La vía (TK) antes del Pn en el sentido de circulación del tren Nex 60430 desde el km 50,392 (758 m antes del Pn P6189) hasta el km 50,042 (408 m antes del Pn P6189) discurre en una curva derecha de radio 374 m; en el km 50,042 comienza la transición de la curva, que termina en el km 49,970 (336 m antes del
 
 ## Página 19
 
-Pn P6189). La vía desde el km 49,970 hasta el km 49,644 (10 m antes del Pn P6189) discurre en línea recta; en el km 49,644 comienza la transición de la curva derecha, en la que se encuentra en el km 49,634 el Pn P6189; el final de la transición está en el km 49,443, tras el cual comienza una curva derecha de radio 390 m. La vía desde el km 50,392 hasta el km 50,167 desciende con una pendiente de 7,5 ‰; desde el km 50,167 hasta el km 49,970 desciende con una pendiente de 13,3 ‰; desde el km 49,970 hasta el km 49,898 desciende con una pendiente de 10,7 ‰; desde el km 49,898 hasta el km 49,639 desciende con una pendiente de 4,87 ‰; desde el km 49,639 hasta el km 49,457, es decir, también en el Pn P6189, desciende con una pendiente de 6,77 ‰. 
-En el punto del MU, la velocidad de línea establecida por el gestor de la infraestructura es de 65 km·h-1. El indicador de velocidad con el número 65, en el sentido de circulación del tren Nex 60430 antes del Pn P6189, está situado a la derecha de la vía entre las est. Horní Cerekev y Jihlávka, es decir, a una distancia de 6 898 m antes del Pn P6189.
-El enclavamiento (SZZ) de la est. Jihlávka es operado por el jefe de estación desde la oficina de tráfico de la estación. Se trata de un SZZ de 3.ª categoría – enclavamiento de relés con sistema de señalización de velocidad luminosa.
-Ambos tramos entre estaciones adyacentes a la est. Jihlávka, es decir, Jihlávka – Horní Cerekev y Jihlávka – Počátky-Žirovnice, están equipados con un TZZ bidireccional de 2.ª categoría – bloqueo semiautomático de relés.
-El Pn P6189 de vía única en el km 49,634 tiene una anchura de 3,5 m, una longitud de 5,06 m y el ángulo de cruce de la vía terrestre con la línea es de 81º. La estructura del paso a nivel está formada por paneles de hormigón que se insertaron en la vía en el año 2012. La vía local que linda con el Pn es una vía de servicio – pista sin pavimentar; en el sentido de circulación del vehículo (OA) antes del Pn discurre en descenso con una pendiente longitudinal del 1,9 %. El Pn está señalizado en ambos lados con cruces de advertencia, situadas a la derecha, junto al borde derecho de la vía local. Las cruces de advertencia se complementan con las señales de tráfico P 6 «¡Deténgase, ceda el paso!», situadas bajo las cruces de advertencia en un poste común. La longitud del paso a nivel, medida en el eje de la vía terrestre desde el nivel perpendicular a 4 m del eje de la vía exterior hasta el límite de la banda de peligro en el lado opuesto del paso a nivel, es de 6,5 m. El tráfico, según la documentación del gestor de la infraestructura, es de 158.
-### 3.1.9 Cualquier otra información relevante a efectos de la descripción del suceso y de la información básica
-Resumen de las explicaciones facilitadas por los empleados del gestor de la infraestructura y del transportista, incluidas las personas con relación contractual:
+ŽP P6189). La TK desde el km 49,970 hasta el km 49,644 (10 m antes de ŽP P6189) se encuentra en dirección recta, en el km 49,644 comienza la transición de la curva derecha, en la que se encuentra en el km 49,634 ŽP P6189, el final de la transición está en el km 49,443, tras el cual comienza la curva derecha con radio de 390 m. La TK desde el km 50,392 hasta el km 50,167 desciende con pendiente de 7,5 ‰, desde el km 50,167 hasta el km 49,970 desciende con pendiente de 13,3 ‰, desde el km 49,970 hasta el km 49,898 desciende con pendiente de 10,7 ‰, desde el km 49,898 hasta el km 49,639 desciende con pendiente de 4,87 ‰, desde el km 49,639 hasta el km 49,457, es decir, también en ŽP P6189, desciende con pendiente de 6,77 ‰.
+En el lugar del MU, el operador de la vía ha fijado la velocidad de la línea en 65 km·h-1. El indicador de velocidad con la cifra 65, en el sentido de circulación del tren Nex 60430 antes de ŽP P6189, está situado a la derecha de la TK entre las estaciones de Horní Cerekev y Jihlávka, es decir, a una distancia de 6 898 m antes de ŽP P6189.
+El SZZ de la estación de Jihlávka es atendido por el jefe de estación de la oficina de tráfico de la estación. Se trata de un SZZ de 3.ª categoría – dispositivo de señalización de seguridad por relés con sistema de señalización de velocidad de señales luminosas.
+Ambos tramos intermedios adyacentes a la estación de Jihlávka, es decir, Jihlávka – Horní Cerekev y Jihlávka – Počátky-Žirovnice, están equipados con un TZZ de 2.ª categoría bidireccional – bloque semiautomático por relés.
+El ŽP P6189 de vía única en el km 49,634 tiene una anchura de 3,5 m, una longitud de 5,06 m y el ángulo de cruce de la vía pública con la vía es de 81º. La estructura del paso a nivel está formada por paneles de hormigón que se insertaron en la vía en el año 2012. La vía local adyacente al ŽP es una vía de servicio – firme no pavimentado, en el sentido de circulación del OA antes del ŽP se encuentra en descenso con pendiente longitudinal del 1,9 %. El ŽP está señalizado en ambos lados con cruces de advertencia, situadas a la derecha, junto al borde derecho de la vía local. Las cruces de advertencia están complementadas con las señales de tráfico P 6 «¡Alto, ceda el paso!», situadas bajo las cruces de advertencia en un poste común. La longitud del paso a nivel, medida en el eje de la vía pública desde el nivel perpendicular a 4 m del eje de la vía exterior hasta el límite de la banda de peligro en el lado opuesto del paso a nivel, es de 6,5 m. El momento de tráfico, según la documentación del operador de la vía, es de 158.
+### 3.1.9 Cualquier otra información relevante para los fines de la descripción del suceso y de la información básica
+Resumen de las explicaciones presentadas por los empleados del operador de la vía y del transportista, incluidas las personas en relación contractual:
 maquinista del tren Nex 60430
   – Acta con el empleado:
 •
-◦durante la circulación, a unos 1 500 m antes del Pn P6189, registró un ligero aumento de la velocidad, que corrigió mediante frenado,
-◦a unos 10 m antes del Pn P6189 vio un vehículo (OA) que, desde la derecha en el sentido de circulación del tren, entró en el Pn sin detenerse,
-◦inmediatamente aplicó el frenado de acción rápida y, mediante la bocina de la locomotora, dio la señal audible «Pozor» (Atención),
-◦ya no pudo evitar la colisión del tren con el OA; el tren se detuvo a unos 200 m después del Pn,
-◦tras la detención del tren en la posición final tras el MU, comunicó la producción del MU al jefe de estación de la est. Počátky-Žirovnice; el jefe de maniobras comunicó el MU al IZS e intentó prestar primeros auxilios a la conductora del OA;
-Resumen de las explicaciones facilitadas por otros testigos:
-
+◦durante la circulación, a unos 1 500 m antes de ŽP P6189, registró un ligero aumento de la velocidad, que corrigió frenando,
+◦antes de ŽP P6189, a una distancia de unos 10 m, vio un OA que, por el lado derecho en el sentido de circulación del tren, entró en ŽP sin detenerse,
+◦inmediatamente aplicó el frenado de acción rápida y, mediante la bocina de la locomotora, dio la señal audible «Atención»,
+◦ya no pudo evitar la colisión del tren con el OA, el tren se detuvo a unos 200 m después de ŽP,
+◦tras la detención del tren en la posición final, tras el MU, comunicó la ocurrencia del MU al jefe de estación de Počátky-Žirovnice, el jefe de maniobras comunicó la ocurrencia del MU al IZS e intentó prestar primeros auxilios a la conductora del OA;
+Resumen de las explicaciones presentadas por otros testigos:
 
 ## Página 20
+
 
 jefe de maniobras
   – Acta con el empleado:
@@ -727,8 +726,8 @@ jefe de estación de la est. Jihlávka
 ◦el jefe de estación de la est. Počátky-Žirovnice le informó del MU producido en el Pn.
 Nota DI: del análisis de las llamadas registradas por el dispositivo de registro de la est. Jihlávka y de la est. Počátky-Žirovnice, no se registró ninguna comunicación del jefe de estación de la est. Jihlávka sobre la señalización del final del tren Nex 60430 con una señal de final de tren incompleta (véanse los puntos 3.2.1 y 4.1.1 de la presente ZZ).
 
-
 ## Página 21
+
 
 ### 3.2 Descripción fáctica del suceso
 ### 3.2.1 Secuencia de hechos que condujeron al suceso extraordinario
@@ -742,6 +741,7 @@ Durante la circulación posterior del tren Nex 60430, se superó su velocidad m�
 | • 8:23 h | el jefe de maniobras comunicó la producción del MU al HZS SŽ con o JPO Havlíčkův Brod; , . ., |
 
 ## Página 22
+
 
 | • 8:26 h | El jefe de estación de la estación Počátky-Žirovnice comunicó la aparición de un MU según el horario de comunicaciones al jefe de despacho en el CDP Přerov; |
 | • 8:30 h | El jefe de despacho del CDP Přerov comunicó la aparición de un MU al Departamento del Sistema de Seguridad de la Explotación de la Vía; |
@@ -770,10 +770,10 @@ HZS de SŽ, s. o., České Budějovice y Havlíčkův Brod.
 ### 4.1.1 Transportistas y operadores de vías
 El maquinista está obligado, al conducir un tren (DV), en el sentido del § 35 apartado 1 letra a) y g) de la Ley 
 n.º 266/1994 Sb., del § 35 apartado 1 del Decreto n.º 173/1995 Sb. y de las disposiciones correspondientes de las normas internas del operador de la vía SŽ, s. o., y del transportista ČDC, a. s., entre otros, a conducir el DV únicamente desde la posición que ofrezca la mejor visibilidad, normalmente desde la cabina delantera del maquinista en el sentido de la marcha, a observar desde la cabina de mando del DV la vía y las señales y a actuar según los hechos constatados, y durante la marcha a no superar la velocidad máxima permitida, establecida en el horario de circulación o impuesta por una velocidad limitada. Ante una ŽP con balizas de advertencia, es decir, también ante la ŽP P6189, el maquinista debe, para advertir a las personas, dar la señal «Atención» repetidamente, al menos tres veces desde dichas balizas de advertencia hasta la ŽP, si bien no debe repetir la señal «Atención» si ha constatado que ningún usuario de la vía pública se aproxima a la ŽP.
-### El maquinista del tren Nex 60430, a una distancia de aproximadamente 2 100 m a 1 400 m antes de la ŽP P6189, superó la velocidad máxima permitida del tren de 65 km·h-1 en hasta 4 km·h-1. 
-
+### El maquinista del tren Nex 60430, a una distancia de aproximadamente 2 100 m a 1 400 m antes de la ŽP P6189, superó la velocidad máxima permitida del tren de 65 km·h-1 en hasta 4 km·h-1.
 
 ## Página 23
+
 
 Dado que la superación de la velocidad máxima permitida se produjo a una distancia de 799 m a 999 m antes del punto de inicio de la visibilidad ininterrumpida del frontal del tren Nex 60430 (al menos de su parte superior, que sobresale 2 m por encima de la cima de los raíles) desde el nivel de la cruz de advertencia derecha de la ŽP P6189 en el sentido de marcha del tren, esta deficiencia no puede valorarse como incumplimiento de las disposiciones legales y de las normas internas del transportista ČDC, a. s., en relación causal con la aparición del MU.
 El jefe de maniobras está obligado, antes de la salida del tren, en el sentido del § 35 apartado 1 letra a) y g) de la Ley n.º 266/1994 Sb., del art. 11.2 del Anexo n.º 1 al Decreto n.º 173/1995 Sb. y de las disposiciones correspondientes de las normas internas del operador de la vía SŽ, s. o., y del transportista ČDC, a. s., entre otros, a asegurar la señalización del frontal trasero del vagón de señal con señales de extremo (placas rectangulares formadas por triángulos rojos y blancos enfrentados, de material reflectante, colocadas en el extremo del tren a la misma altura).
@@ -785,8 +785,8 @@ El jefe de estación de la estación Jihlávka opera el SZZ y, con el correcto f
 La circulación de trenes en la TK Jihlávka – Počátky-Žirovnice, respectivamente Jihlávka – Horní Cerekev, se dirige mediante las señales del semáforo principal (de salida) de la SK correspondiente.
 La circulación de trenes en los tramos intermedios adyacentes a la estación Jihlávka se asegura mediante la operación y el funcionamiento del TZZ, concediéndose el permiso de salida del tren desde la estación contigua mediante la autorización de vía. El jefe de estación realiza la comunicación de la salida prevista en un intervalo de 1 a 10 minutos antes de la hora prevista de salida o paso del tren. El jefe de estación da y recibe la comunicación de la salida prevista mediante informática – la aplicación EDD. Del mismo modo, el jefe de estación da y recibe también la comunicación de la salida real. La condición para la circulación desde la estación hacia la TK de los tramos intermedios es la concesión de la «odhláška», que el jefe de estación de la estación delantera da al jefe de estación de la estación trasera mediante la operación del TZZ, que consiste en tirar del botón de retorno de dos posiciones situado en el panel del bloque semiautomático. El jefe de estación da mediante la «odhláška» el aviso a la estación trasera de que todo el tren ha liberado el tramo espacial, es decir, en ambos casos concretos, la parte de vía en tramo abierto entre dos estaciones contiguas (Horní Cerekev, respectivamente Počátky-Žirovnice). El hecho de que el tren que pasa haya salido completo de la estación Jihlávka lo comprueba el jefe de estación al vigilar su marcha mediante la observación de la señal «Fin de tren», que advierte sobre el último DV del tren, y según las indicaciones o el estado del TZZ y del SZZ. En caso de que el jefe de estación detecte una avería en la señalización del final del tren, consistente en la incompletitud de la señal de extremo (p. ej., falta del señalizador portátil «Koncovka»), comunicará dicha avería a todos los
 
-
 ## Página 24
+
 
 establecimientos delanteros y al transportista (tras detener el tren en el establecimiento más próximo con desvío de vías, el jefe de estación de dicho establecimiento ordenará al maquinista que asegure la reparación de la avería).
 ### El jefe de estación de la estación Jihlávka, al vigilar el DV del tren Nex 60430 durante su paso por dicha estación, detectó mediante la observación una avería en la señalización del final del tren, consistente en la incompletitud de la señal de extremo, al faltar en el frontal trasero del TDV de señal (último) del tren el señalizador portátil «Koncovka», pero no comunicó este hecho al establecimiento delantero, es decir, al jefe de estación de la estación Počátky-Žirovnice.
@@ -800,6 +800,7 @@ A pesar de que el operador de la vía no dispone, en el sentido del § 88 aparta
 En relación con la disposición del § 4 apartado 7 del Decreto n.º 177/1995 Sb. y el art. 1.1 de la ČSN 73 6380, la ŽP en cuestión puede mantenerse en servicio si cumple las normas y disposiciones vigentes
 
 ## Página 25
+
 
 en el momento de su construcción o reconstrucción. En el sentido de la documentación del gestor de la vía "Hoja n.º 1 – Datos resumidos del paso a nivel", de fecha 10. 8. 2020, las condiciones de visibilidad en el PAF P6189 fueron evaluadas por el gestor de la vía de acuerdo con la ČSN 73 6380, a pesar de que la velocidad de la línea en el tramo de vía adyacente al PAF era de 65 km·h-1. En el art. 1.1 de dicha norma se indica: "Los pasos a nivel puestos en servicio antes de la emisión de esta norma pueden permanecer en servicio si cumplen con las normas y reglamentos vigentes en el momento de su construcción o última reconstrucción", mientras que la longitud de visibilidad determinada por cálculo para el vehículo rodante más lento Lp según el Apéndice C (normativo) de dicha norma tiene, para una velocidad de la línea de 65 km·h-1, un valor de 372 m, mientras que mediante la inspección de dicho MU se determinaron valores de las longitudes de visibilidad para el vehículo rodante más lento Lp iguales o superiores a 400 m.
 De lo anterior se desprende, entre otras cosas, que las longitudes de visibilidad en el PAF P6189 pudieron ser evaluadas de acuerdo con la ČSN 73 6380, dada la ausencia de su documentación de construcción, e incluso a pesar de que la velocidad de la línea en el tramo de vía adyacente al PAF es superior a 60 km·h-1.
@@ -825,7 +826,9 @@ art. 1297 del reglamento interno SŽ D1:
 En el caso de este MU concreto, es necesario relacionar los citados arts. 1293 y 1297 del reglamento interno SŽ D1 con el definitorio:
 ◦art. 1265 del reglamento interno SŽ D1:
 Señal Fin de tren (dos placas rectangulares, colocadas por su lado más corto, o cuadradas, formadas por dos triángulos rojos y blancos opuestos,
+
 ## Página 26
+
 
 colocadas a la misma altura en la parte trasera del último vehículo del tren) avisa al empleado sobre el último vehículo del tren…";
 art. 1302 del reglamento interno SŽ D1:
@@ -861,7 +864,9 @@ art. 1336 del reglamento interno SŽ D1:
 art. 2.4.1.8 del Apéndice 6 de la Directriz PTs10-B-2011:
 •
 "Obligaciones de la tripulación de locomotora: observar durante la marcha del tren o de la maniobra la línea y la vía, incluido el tendido de tracción, y ajustarse a las señales y a las instrucciones.";
+
 ## Página 27
+
 
 art. 3.10.1 de la Directriz PTs10-B-2011:
 •
@@ -880,8 +885,8 @@ En la inspección no se constató infracción de las funciones y obligaciones de
 La autoridad nacional de seguridad es el DÚ, que de acuerdo con la ley n.º 266/1994 Sb. es la autoridad administrativa dependiente del Ministerio de Transportes. Su función es, en particular, el ejercicio de la supervisión estatal en materia de vías y en materia de autoridad de construcción, el ejercicio de la autoridad de construcción especial para las obras de vía y las obras en la vía, la aprobación de vehículos ferroviarios nuevos y modernizados y de dispositivos técnicos designados, y la tramitación de infracciones. El DÚ tiene la obligación de comunicar, en un plazo de 12 meses desde la fecha de publicación del informe final que contenga las recomendaciones de seguridad dirigidas a él, a la DI qué medida ha adoptado en relación con dicha recomendación de seguridad.
 La función de la Agencia Ferroviaria de la Unión Europea es, además de garantizar, en el marco de sus competencias, que se mantenga y, si es posible, se aumente sistemáticamente la seguridad de los ferrocarriles, entre otras cosas, la emisión, renovación, suspensión y modificación de los certificados únicos de seguridad, la limitación de su validez o su cancelación, en cuestión en la que coopera con las autoridades nacionales de seguridad; asimismo, emite autorizaciones para la comercialización de vehículos ferroviarios y de tipos de vehículos y está facultada para renovar, modificar, suspender o cancelar las autorizaciones que haya emitido. La Agencia evalúa además los proyectos de normativa nacional, etc.
 
-
 ## Página 28
+
 
 En la inspección no se constató infracción de las funciones y obligaciones de la autoridad nacional de seguridad y de la Agencia Ferroviaria de la Unión Europea.
 ### 4.1.5 Entidades notificadas, entidades designadas y entidades dedicadas a la evaluación de riesgos
@@ -910,6 +915,7 @@ El propietario de la vía pública, que era la República Checa, la Oficina Esta
 
 ## Página 29
 
+
 del espacio pasante reducido en 0,15 m y redondeado a décimas enteras de metro hacia abajo.
 Según la documentación del gestor de la vía – datos del vehículo de medición TV – en el punto ŽP P6189 la altura del hilo de catenaria es de 5,78 m. En el caso de un paso inferior bajo la TV de una línea electrificada, al determinar el dato en la señal se parte, según las Directrices para la señalización del tráfico en las vías terrestres TP 65, punto 9.2.3.17, de la altura real del hilo de catenaria sobre el nivel de la calzada, de la cual se resta la distancia de seguridad de 0,65 m para un sistema de corriente de tracción monofásico.
 Tras restar la distancia de seguridad, el espacio libre seguro real bajo la TV es, tras el redondeo, de 5,1 m. La señal de tráfico B 16, por tanto, no tenía por qué haberse colocado antes del ŽP, ya que la señal B 16 se utiliza siempre cuando el dato calculado es inferior a la altura del espacio pasante establecida para la categoría correspondiente de vía terrestre, que en una vía local de servicio y de comunicación de uso público accesible asciende a 4,2 m, véase el punto 9.2.3.17 TP 65, y por ello su «invisibilidad» (la señal se encontraba en un espacio invadido por vegetación espontánea) y su ilegibilidad (la señal fuertemente dañada por corrosión) no pueden valorarse como incumplimiento de las disposiciones legales.
@@ -925,8 +931,8 @@ En la investigación no se detectaron factores derivados del mantenimiento y de 
 ### 4.2.5 Factores o consecuencias relacionados con el sujeto responsable del mantenimiento del material rodante, los talleres de mantenimiento y otros prestadores de servicios de mantenimiento
 En la investigación no se detectaron factores relacionados con el sujeto responsable del mantenimiento del MR, los talleres de mantenimiento y otros prestadores de servicios de mantenimiento.
 
-
 ## Página 30
+
 
 4.2.6 Otros factores o consecuencias que se consideren relevantes a efectos de la investigación
 En la investigación no se detectaron otros factores relacionados con el MR, la infraestructura ferroviaria o las instalaciones técnicas.
@@ -948,52 +954,50 @@ Las condiciones pertinentes del marco regulatorio están establecidas en los Reg
 4.4.2 Procedimientos, métodos, contenido y resultados de las actividades de evaluación de riesgos y de seguimiento realizadas por cualquiera de los sujetos implicados
 En los procedimientos, métodos, contenido y resultados de las actividades de evaluación de riesgos y de seguimiento, relacionados con las circunstancias de la aparición del MU en cuestión, no se detectaron deficiencias.
 
-
 ## Página 31
 
-### 4.4.3 Sistema de garantía de la seguridad de las empresas de transporte y de los gestores de la vía implicados
-En el sistema de garantía de la seguridad adoptado por el gestor de la vía y por la empresa de transporte, relacionado con las circunstancias de la aparición del MU en cuestión, no se detectaron deficiencias.
-### 4.4.4 Sistema de gestión de los sujetos responsables del mantenimiento del material rodante y de los talleres de mantenimiento
-El sistema de gestión de los sujetos responsables del mantenimiento del MR y de los talleres de mantenimiento no guardaba relación con la aparición del MU.
+### 4.4.3 Sistema de garantía de la seguridad de los transportistas y gestores de infraestructura participantes
+En el sistema de garantía de la seguridad del gestor de infraestructura y del transportista adoptado, relacionado con las circunstancias del origen de la MU en cuestión, no se detectaron deficiencias.
+### 4.4.4 Sistema de gestión de las entidades responsables del mantenimiento del material rodante y de los talleres de mantenimiento
+El sistema de gestión de las entidades responsables del mantenimiento del MR y de los talleres de mantenimiento no guardaba relación con el origen de la MU.
 ### 4.4.5 Resultados de la supervisión realizada por las autoridades nacionales de seguridad
-Atendiendo a los factores detectados y a las circunstancias de la aparición del MU, la supervisión de la autoridad de seguridad no guarda relación con el MU en cuestión.
-### 4.4.6 Aprobaciones, certificados y dictámenes de evaluación emitidos por la Agencia, por las autoridades nacionales de seguridad u otros sujetos de evaluación de la conformidad
-El gestor de la vía explotó la vía al amparo de la autorización administrativa vigente y del certificado de seguridad del gestor de la vía.
-La empresa de transporte explotó el transporte ferroviario al amparo de la licencia vigente y del certificado de la empresa de transporte.
+Atendiendo a los factores y circunstancias detectados del origen de la MU, la supervisión de la autoridad de seguridad no guarda relación con la MU en cuestión.
+### 4.4.6 Aprobaciones, certificados y dictámenes de evaluación emitidos por la agencia, las autoridades nacionales de seguridad u otras entidades de evaluación de la conformidad
+El gestor de infraestructura explotaba la infraestructura en virtud de una autorización administrativa vigente y de un certificado de seguridad del gestor de infraestructura.
+El transportista explotaba el transporte ferroviario en virtud de una licencia vigente y de un certificado del transportista.
 ### 4.4.7 Otros factores sistémicos
 En la investigación no se detectaron otros factores sistémicos.
 ### 4.5 Sucesos anteriores de naturaleza similar
-### DI registra en el periodo comprendido desde el 1. 1. 2008 hasta la aparición del MU en cuestión un total de 862 casos análogos (colisión de un tren con un SMV en una ŽP protegida únicamente por cruces de advertencia), en los que fallecieron 58 personas, 340 personas resultaron lesionadas y se produjo un daño por importe de
-### 187 310 936 Kč. La causa de la aparición de todos estos MU fue la entrada no autorizada de un SMV en la ŽP en el momento en que se aproximaba a ella un MR (tren).
-En la ŽP P6189, en el periodo estudiado, DI no registra ningún MU.
-DI recomendó repetidamente desde 2012 al gestor de la vía SŽ, s. o. (anteriormente Správa železniční dopravní cesty, státní organizace), con el fin de garantizar la máxima seguridad en las vías ferroviarias de categoría estatal y regional, elevar el nivel de protección de la ŽP de modo que, en las reconstrucciones y modernizaciones de líneas y ŽP, ya se proyectara e instalara únicamente instalación de señalización de cruce luminosa complementada con barreras. DI, al mismo tiempo, mediante estas recomendaciones de seguridad, recomendó a DÚ adoptar sus propias medidas orientadas a garantizar la ejecución de las recomendaciones de seguridad antedichas también en los demás gestores de vías ferroviarias de la República Checa. Desde el 1. 4. 2017, fecha en que entró en vigor la modificación de la Ley n.º 266/1994 Sb., las recomendaciones de seguridad de carácter similar se destinaron, de conformidad con el § 53e de la Ley n.º 266/1994 Sb., únicamente a DÚ. El motivo para emitir estas recomendaciones fue el hecho de que las colisiones con vehículos terrestres con consecuencias más graves se producen históricamente en las ŽP protegidas por instalación de señalización de cruce sin barreras, mientras que históricamente, desde el punto de vista de la siniestralidad y de las consecuencias, el tipo de protección de la ŽP más favorable es precisamente la instalación de señalización de cruce
-
+### DI registra en el período desde el 1 de enero de 2008 hasta el origen de la MU en cuestión un total de 862 casos similares (colisión de un tren con un VTM en un PFE protegido únicamente por cruces de advertencia), en los que resultaron muertas 58 personas, 340 personas sufrieron lesiones y se produjo un daño por importe de
+### 187 310 936 Kč. La causa del origen de todas estas MU fue la entrada no autorizada de un VTM en un PFE en el momento en que se aproximaba a él un MR (tren).
+En el PFE P6189, en el período observado, DI no registra ninguna MU.
+DI ha recomendado repetidamente desde 2012 al gestor de infraestructura SŽ, s. o. (anteriormente Správa železniční dopravní cesty, státní organizace), con el fin de garantizar la máxima seguridad en las infraestructuras ferroviarias de categoría nacional y regional, que se eleve el nivel de protección de los PFE de modo que, en las reconstrucciones y modernizaciones de líneas y PFE, ya se proyecte e instale únicamente equipamiento de señalización de cruce luminoso complementado con barreras. DI, al mismo tiempo, mediante estas recomendaciones de seguridad, recomendó a DÚ que adoptara sus propias medidas encaminadas a garantizar la realización de las recomendaciones de seguridad antedichas también en los demás gestores de infraestructuras ferroviarias en la República Checa. Desde el 1 de abril de 2017, fecha en que entró en vigor la modificación de la Ley núm. 266/1994 Sb., las recomendaciones de seguridad de carácter similar se destinaron, de conformidad con el § 53e de la Ley núm. 266/1994 Sb., únicamente a DÚ. El motivo de la emisión de estas recomendaciones fue el hecho de que las colisiones con vehículos por carretera de consecuencias más graves se producen de forma prolongada en los PFE protegidos por equipamiento de señalización de cruce sin barreras, mientras que, por el contrario, de forma prolongada, desde el punto de vista de la sinestralidad y de las consecuencias, el tipo de protección de PFE más favorable es precisamente el equipamiento de señalización de cruce
 
 ## Página 32
 
-complementada con barreras. SŽ, s. o. (anteriormente Správa železniční dopravní cesty, státní organizace), respondió a estas recomendaciones, entre otros, indicando que «en caso de sustitución de los PZM y PZS existentes por tecnología moderna, en el diseño se preferirá la construcción de instalaciones de señalización de cruce con barreras, salvo que existan obstáculos técnicos u operativos significativos. La instalación de una instalación de señalización de cruce concreta respetará en todo caso la decisión vigente de la Oficina Ferroviaria sobre el alcance y el modo de protección del cruce ferroviario». DÚ, entre otros, envió como medida la siguiente declaración: «La Oficina Ferroviaria, como autoridad administrativa ferroviaria, recomienda así permanentemente a Správa železnic, como gestor de la vía, incluir en la mayor medida posible en el plan de inversiones la dotación de barreras a la instalación de señalización de cruce luminosa existente. Deberían ser prioritarios los cruces con un alto volumen de tráfico y con sucesos extraordinarios recurrentes».
-DI sigue apoyando la dotación de barreras en las ŽP (de forma prioritaria en aquellas con mayor volumen de tráfico y con condiciones locales desfavorables), no obstante, en el caso de emitir nuevas recomendaciones de seguridad para MU concretos, tiene en cuenta las particularidades de la ŽP correspondiente y emite dichas recomendaciones de seguridad de una forma más concreta. La investigación del MU en cuestión no detectó en la ŽP P6189 ninguna circunstancia que diera motivo para emitir una recomendación de seguridad (véase el punto 6 de la presente ZZ).
+completadas con barreras de paso. SŽ, s. o. (anteriormente Administración del Transporte Ferroviario de la Vía, organización estatal), respondió a estas recomendaciones, entre otros medios, de la siguiente manera: «en caso de sustitución de los PZM y PZS existentes por tecnología moderna, en el diseño se preferirá la construcción de un dispositivo de señalización de paso a nivel con barreras, salvo que existan obstáculos técnicos o de explotación significativos. La instalación de un dispositivo de señalización de paso a nivel concreto respetará siempre la decisión vigente de la Oficina Ferroviaria sobre el alcance y el modo de protección del paso a nivel». La DÚ envió, entre otros, como medida la siguiente declaración: «La Oficina Ferroviaria, como autoridad administrativa ferroviaria, recomienda así permanentemente a la Administración de Ferrocarriles, como operador de la vía, incluir en el plan de inversiones, en la mayor medida posible, la instalación de barreras de paso en los pasos a nivel con señalización luminosa existentes. Deberían ser prioritarios los pasos a nivel con un alto tráfico y con eventos excepcionales recurrentes». La DI sigue apoyando la instalación de barreras de paso en los ŽP (con prioridad en aquellos con mayor tráfico y condiciones locales desfavorables), sin embargo, en caso de emitir más recomendaciones de seguridad en MU concretos, tiene en cuenta las características específicas del ŽP en cuestión y emite dichas recomendaciones de seguridad de forma más concreta. La investigación del MU en cuestión no detectó en el ŽP P6189 ningún hecho que diera motivo para emitir una recomendación de seguridad (véase el punto 6 de la presente ZZ).
 ## 5 CONCLUSIONES
 ### 5.1 Resumen del análisis y conclusiones relativas a las causas del suceso
-La causa inmediata del suceso extraordinario fue:
-la entrada no autorizada de un automóvil en el cruce ferroviario P6189 en el momento en •
-que se aproximaba a él el tren Nex 60430, causada por la actuación de la conductora del automóvil, que en cumplimiento de la orden de la señal de tráfico P 6 «¡Alto, ceda el paso!» no detuvo el vehículo en un lugar desde el que dispusiera de la visibilidad adecuada sobre la vía, y no comprobó si podía cruzar el cruce ferroviario de forma segura.
-No se detectó ningún factor contribuyente por parte de la Inspección Ferroviaria.
-No se detectó ninguna causa sistémica por parte de la Inspección Ferroviaria.
-### A summary of the analysis and conclusions with regard to the causes of the
+La causa inmediata del suceso excepcional fue:
+la entrada no autorizada de un automóvil en el paso a nivel P6189 en el momento en que •
+se aproximaba a él el tren Nex 60430, causada por la conductora del automóvil, que no detuvo el vehículo en cumplimiento de la señal de tráfico P 6 «¡Alto, ceda el paso!» en un lugar que le permitiera una visión adecuada de la vía, y no se comprobó si podía cruzar el paso a nivel de forma segura.
+La Inspección Ferroviaria no detectó ningún factor contribuyente.
+La Inspección Ferroviaria no detectó ninguna causa sistémica.
+### A summary of the analysis and conclusions with regard to the causes of the 
 occurrence
 Causal factor:
-an unauthorized entrance of the car at the level crossing No. P6189 at the time •
-when the train No. 60430 was arriving, caused by behavior of the car driver, who
-did not respect the traffic sign „Stop, give a priority!” and did not stop the car at a
-place where she would have a proper view of the track and did not make sure
+an unauthorized entrance of the car at the level crossing No. P6189 at the time 
+•
+when the train No. 60430 was arriving, caused by behavior of the car driver, who 
+did not respect the traffic sign „Stop, give a priority!” and did not stop the car at a 
+place where she would have a proper view of the track and did not make sure 
 whether she could safely pass the level crossing.
 Contributing factor: none.
 Systemic factor:
 none.
 
-
 ## Página 33
+
 
 ### 5.2 Medidas adoptadas para la prevención de sucesos extraordinarios
 El gestor de la vía SŽ, s. o. y la empresa de transporte ČDC, a. s., no adoptaron ni emitieron ninguna medida.
@@ -1034,6 +1038,7 @@ level crossing No. P6189.
 
 ## Página 34
 
+
 ## 6 RECOMENDACIONES DE SEGURIDAD
 Teniendo en cuenta las causas y circunstancias determinadas del suceso ferroviario, la Inspección Ferroviaria de Seguridad no emite recomendaciones de seguridad, porque no se han identificado datos que justifiquen la emisión de una recomendación de seguridad en el marco de la prevención de sucesos ferroviarios (véase el punto 4.5 de la presente ZZ).
 ## RECOMENDACIONES DE SEGURIDAD
@@ -1046,8 +1051,8 @@ inspector
 De la Inspección Territorial de Ostrava
 De la Inspección Territorial de Ostrava
 
-
 ## Página 35
+
 
 ## ANEXOS
 Fig. n.º 2: Vista del PdV en el sentido de circulación de OA.

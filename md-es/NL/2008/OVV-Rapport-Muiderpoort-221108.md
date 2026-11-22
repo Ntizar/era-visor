@@ -10,16 +10,18 @@ chars: 254638
 ratio_longitud: 1.10
 tokens_in: 78741
 tokens_out: 60337
-verificacion: revisar
 fecha_proceso: 2026-11-18
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-avisos: ["página 13: ratio 1.94"]
+verificacion: ok
 notas_cifras: ["página 16: cifras cortas: 2/14", "página 17: cifras cortas: 1/19", "página 21: cifras cortas: 2/17", "página 30: cifras largas: 1/25; cifras cortas: 2/21", "página 58: cifras cortas: 4/16"]
 ---
+
 ## Página 1
 
 
+
 ## Página 2
+
 
 Descarrilamiento de un tren de mercancías en Amsterdam-Muiderpoort,
 ## 22 de noviembre de 2008
@@ -27,8 +29,8 @@ La Haya, marzo de 2010 (número de proyecto M2008RV1122-01)
 Los informes del Consejo de Seguridad de los Países Bajos están a disposición del público. 
 Todos los informes también están disponibles en el sitio web del Consejo de Seguridad de los Países Bajos: www.safetyboard.nl
 
-
 ## Página 3
+
 
 ## El Consejo de Seguridad de los Países Bajos
 El Consejo de Seguridad de los Países Bajos fue establecido para investigar y determinar las causas o causas probables de incidentes individuales o categorías de incidentes en todos los sectores. La única finalidad de una investigación del Consejo de Seguridad de los Países Bajos es prevenir futuros accidentes o incidentes y, si los resultados dan motivo para ello, emitir las recomendaciones asociadas. La organización consta de un Consejo con cinco miembros permanentes, una Oficina profesional compuesta por investigadores y personal de apoyo, y un número de comisiones permanentes. Se constituyen comités directivos para supervisar investigaciones específicas.
@@ -63,8 +65,8 @@ Fax:
 Internet:
 www.safetyboard.nl
 
-
 ## Página 4
+
 
 ## Índice
 Consideraciones...............................................................................................................5
@@ -106,10 +108,12 @@ Anexo 3: Explicación de los hallazgos de la inspección técnica...............
 Anexo 4: Explicación del daño al proceso.........................................................................77
 Anexo 5: Memorando de Entendimiento........................................................................79
 
-
 ## Página 5
 
+
+
 ## Página 6
+
 
 ## Consideraciones
 ### Hechos, consecuencias y causa del descarrilamiento
@@ -133,6 +137,7 @@ Un sistema de señalización en tiempo real transmite una señal de advertencia 
 
 ## Página 7
 
+
 La investigación también reveló que los riesgos para la seguridad derivados del descarrilamiento de Muiderpoort podrían haberse reducido considerablemente de una tercera manera, dado que el riesgo de un accidente consecutivo no surgió inmediatamente después del descarrilamiento efectivo: este riesgo apareció solo tras recorrer otros quinientos metros, cuando varios vagones se descarrilaron al pasar el tren por una serie de aparatos de vía y quedaron inmovilizados en las vías adyacentes. Antes de la escalada, el eje descarrilado rodó sobre las traviesas durante una distancia de aproximadamente 500 metros. Esto provocó unas vibraciones severas del vagón. Sin embargo, ante la ausencia del equipo necesario, el maquinista no pudo detectar ni dichas vibraciones ni el sobrecalentamiento previo de la caja de rodamiento: si el vagón hubiera estado equipado con un detector de descarrilamiento, el tren habría sido detenido automáticamente antes de alcanzar la serie de aparatos de vía que provocó la escalada.
 Estos problemas de seguridad no son exclusivos del descarrilamiento de Muiderpoort, a saber:
 a)	
@@ -151,6 +156,7 @@ En ese momento, ProRail dio las siguientes razones: extremadamente vulnerable a 
 La detección HotBox se utiliza en países como Bélgica, Alemania, Reino Unido, Francia, Italia y Suecia.
 
 ## Página 8
+
 
 los transportistas de mercancías en otros países también hacen un uso limitado del sistema sobre una base voluntaria7.
 Se conoce al menos un caso específico en el que este equipo previó con éxito que un descarrilamiento escalara hasta convertirse en un accidente grave.
@@ -174,6 +180,7 @@ La Agencia Ferroviaria Europea (ERA) ha realizado un estudio y ha concluido que 
 ALARP es la abreviatura de «as low as reasonably practicable» (tan bajo como sea razonablemente factible).
 
 ## Página 9
+
 
 En otras palabras: las empresas/organizaciones que asumen la responsabilidad deben garantizar que se implementen las medidas disponibles, a menos que puedan demostrar que los costes y/o las consecuencias de una medida son desproporcionados.
 En este contexto, la Junta cuenta con el apoyo de la Ley Ferroviaria y de la política gubernamental. La Ley Ferroviaria prescribe que los riesgos para la seguridad deben controlarse adecuadamente mediante medidas apropiadas. El Segundo Memorando Marco sobre Seguridad Ferroviaria, que establece la política ferroviaria de seguridad del gobierno, utiliza el principio ALARP antes mencionado como criterio para la evaluación de posibles medidas de seguridad.
@@ -199,6 +206,7 @@ Los requisitos establecidos en el permiso de uso dejaron de cumplirse cuando la 
 
 ## Página 10
 
+
 En este contexto, la Junta cuenta con el apoyo de la Ley Ferroviaria y de la concesión de gestión basada en dicha Ley, ya que estas no solo imponen requisitos de calidad a los diversos componentes del sistema (como la infraestructura, el material rodante y el personal), sino que también imponen un «deber de diligencia» para la seguridad del tráfico ferroviario. Este deber de diligencia no se limita a los riesgos derivados de las obligaciones específicas de una empresa dada que puedan abordarse sin la intervención de otras empresas ferroviarias. Por el contrario, en virtud de este deber de diligencia, se exige a las empresas ferroviarias que realicen la contribución máxima posible al control de todos los riesgos. Esto incluye la modificación de sus actividades, cuando proceda, para lograr un control adecuado de los riesgos causados por otras empresas. Los riesgos solo pueden controlarse adecuadamente cuando cada empresa ferroviaria exige a las demás que hagan el mejor uso posible de las oportunidades a su alcance. Es esencial que se exijan mutuamente responsabilidades por su deber de diligencia conjunto y, cuando proceda, establezcan consecuencias para sus propias actividades.
 La Junta ha investigado cómo las empresas ferroviarias han especificado el control del riesgo de descarrilamiento en su gestión de la seguridad. En opinión de la Junta, esta cuestión no ha sido desarrollada suficientemente, en particular en lo que respecta a la elaboración de inventarios y análisis de los riesgos de seguridad, así como a la evaluación de posibles medidas de control. La Junta también considera que, como resultado, las empresas ferroviarias hacen un uso insuficiente del sistema de gestión de la seguridad (SMS) como medio para el cumplimiento estructural de su deber de diligencia.
 Dirección y aplicación por parte del gobierno
@@ -218,6 +226,7 @@ Véase la Sección 5.5.2-b.
 Esto se refiere a los informes del descarrilamiento en Apeldoorn el 30-04-2003, la colisión de trenes en Ámsterdam el 21-04-2004 y el descarrilamiento en Ámsterdam el 10-06-2005.
 
 ## Página 11
+
 
 ejercicio». En consecuencia, la Junta considera que el gobierno hace un uso insuficiente de los SMS de las empresas ferroviarias para supervisar el cumplimiento por parte de estas empresas de su deber de diligencia. Esto, a su vez, da lugar a una utilización insuficiente de un medio importante para promover la seguridad ferroviaria.
 ### Conclusiones
@@ -239,8 +248,8 @@ A Railion, ProRail y NS-Reizigers:
 a)	 Extender la gestión de la seguridad a los riesgos para las operaciones de la empresa pertinente causados por otras empresas y/o que requieran un enfoque conjunto.
 b)	 Asegurarse de que las opciones técnicas disponibles para la detección de defectos y descarrilamientos se utilicen para reducir el riesgo de descarrilamiento de trenes de mercancías al nivel ALARP.
 
-
 ## Página 12
+
 
 Investigación complementaria
 La Junta también considera que los resultados de la investigación dan lugar a investigaciones complementarias por parte de las empresas pertinentes en dos ámbitos.
@@ -265,90 +274,94 @@ Secretario General
 ## Lista de abreviaturas
 A
 ALARP
-As low as reasonably practicable (Tan bajo como sea razonablemente factible)
+As low as reasonably practicable
 ARR
-Automatic Speed Registration (Registro automático de velocidad)
+Automatic Speed Registration
 B
 B
-Bélgica
+Belgium
 C
 CEN
-Comité Européen de Normalisation (Comité Europeo de Normalización)
+Comité Européen de Normalisation
 CG
-Clearance Gauge (Gálibo de gálibo / Perfil límite)
+Clearance Gauge
 COTIF
-OTIF Convention (Convenio COTIF)
+OTIF Convention 
 CR
-Conventional rail (Ferrocarril convencional)
+Conventional rail
 D
 DB
 Deutsche Bahn
 DDD
-Derailment Detection Devices (Dispositivos de detección de descarrilamientos)
+Derailment Detection Devices 
 DVIS
-Rail Safety and Interoperability Agency (B) (Agencia de Seguridad e Interoperabilidad Ferroviaria (B))
+Rail Safety and Interoperability Agency (B)
 E
 EC
-European Community (Comunidad Europea)
+European Community
 ERA
-European Railway Agency (Agencia Ferroviaria Europea)
+European Railway Agency 
 F
 FOMV
-Ministry of Transport (B) (Ministerio de Transporte (B))
+Ministry of Transport (B)
 G
 GCU
-General Contract of Use for Wagons (Contrato General de Uso de Vagones)
+General Contract of Use for Wagons
 GSM-R
-GSM Rail - Global System for Mobile communication (Sistema Global para Comunicaciones Móviles Ferroviarias)
+GSM Rail - Global System for Mobile communication
 H
 HEATCO
-Harmonised European Approaches for Transport Costing and Project Assessment (Enfoques Europeos Armonizados para la Valoración de Costes del Transporte y Evaluación de Proyectos)
+Harmonised European Approaches for Transport Costing and Project 
+Assessment
 HSL
-High-speed line (Línea de alta velocidad)
+High-speed line
 I
 ISO
-International Organization for Standardization (Organización Internacional de Normalización)
+International Organization for Standardization
 IVW – TER
-Inspectorate for Transport, Public Works and Water Management – Rail Supervision Division (Inspección de Transporte, Obras Públicas y Gestión del Agua – División de Supervisión Ferroviaria)
+Inspectorate for Transport, Public Works and Water Management – 
+Rail Supervision Division
 K
 KLPD – VSR
-National Police Services - Rail Traffic Specialists (Servicios Nacionales de Policía - Especialistas en Tráfico Ferroviario)
+National Police Services - Rail Traffic Specialists
 N
 NEN
-Dutch standard (Norma neerlandesa)
+Dutch standard
 NMBS
-National Railway Company of Belgium (Empresa Nacional de Ferrocarriles de Bélgica)
+National Railway Company of Belgium
 O
 OTIF
-Organisation intergouvernementale pour les transports internationaux ferroviaires (Organización Intergubernamental para los Transportes Ferroviarios Internacionales)
+Organisation intergouvernementale pour les transports 
+internationaux ferroviaires 
 OVS
-Rail Company Safety Consultations (Consultas de Seguridad de las Empresas Ferroviarias)
+Rail Company Safety Consultations
 R
 RI&E
-Risk Inventory and Evaluation (Inventario y Evaluación de Riesgos)
+Risk Inventory and Evaluation
 RID
-Regulation Concerning the International Transport of Dangerous Goods by Rail (Reglamento Relativo al Transporte Internacional de Mercancías Peligrosas por Ferrocarril)
+Regulation Concerning the International Transport of Dangerous 
+Goods by Rail 
 RIV
-Regolamento Internazionale dei Veicoli (Reglamento Internacional de Vehículos)
+Regolamento Internazionale dei Veicoli
 T
 TNTS
-Train Number Tracking System (Sistema de Seguimiento de Números de Tren)
+Train Number Tracking System 
 TSI
-Interoperability Technical Specifications (Especificaciones Técnicas de Interoperabilidad)
+Interoperability Technical Specifications
 U
 UIC
-Union Internationale des Chemins de fer (Unión Internacional de Ferrocarriles)
+Union Internationale des Chemins de fer 
 S
 SMS
-Safety Management System (Sistema de Gestión de la Seguridad)
+Safety Management System
 V
 VPF
-Value of Preventing a Fatality (Valor de la Prevención de una Fatalidad)
+Value of Preventing a Fatality
 ### Explicación de términos (técnicos)
-El Anexo 2 contiene una explicación de un número de términos técnicos utilizados en este informe.
-
+El Anexo 2 contiene la explicación de una serie de términos técnicos utilizados en este informe.
 
 ## Página 14
+
 
 ## Introducción
 ## 1.1 
@@ -377,14 +390,15 @@ La investigación del descarrilamiento real se centró en los hechos y la causa:
 ## Contenido de este informe
 La Sección 2 describe los hechos y el contexto del descarrilamiento, comenzando con una descripción de los hechos y las consecuencias. La Sección 2 también contiene datos estadísticos sobre los descarrilamientos que han ocurrido en los últimos diez años e información sobre un número de descarrilamientos comparables.
 
-
 ## Página 15
+
 
 La Sección 3 resume el marco de evaluación utilizado para la investigación, que consistía en las regulaciones legales, las instrucciones que rigen el sector ferroviario y el marco general de evaluación de gestión de seguridad de la Junta de Gestión de Seguridad. La Sección 4 resume las partes involucradas y sus responsabilidades. La Sección 5 contiene el análisis de la causa del descarrilamiento, la frecuencia y las consecuencias de los descarrilamientos y el control del riesgo de descarrilamiento. La Sección 6 contiene las conclusiones y la Sección 7 las recomendaciones.
 Nombre de la empresa Railion
 Durante el curso de la investigación, el nombre de la empresa Railion Nederland NV cambió a DB Schenker Rail NV. Para fines de legibilidad de este informe, la empresa se denomina Railion en todo el documento.
 
 ## Página 16
+
 
 ## Hechos del descarrilamiento e información de contexto
 Esta sección expone los hechos y las circunstancias del descarrilamiento en Muiderpoort, comenzando por los hechos para pasar después a las circunstancias y las consecuencias. La sección continúa con una visión estadística de los descarrilamientos ocurridos en los Países Bajos durante los últimos diez años y concluye con una descripción de accidentes recientes similares al descarrilamiento en Muiderpoort.
@@ -403,6 +417,7 @@ En esencia, una inspección técnica consiste en una inspección visual de defec
 Una prueba rápida de frenos verifica que los frenos del último vagón funcionen cuando se aplican los frenos.
 
 ## Página 17
+
 
 Justo después de que el tren de mercancías pasara la estación de Amsterdam-Muiderpoort, el primer bogie del undécimo vagón descarriló. El maquinista no advirtió que el bogie había descarrilado y el tren continuó su viaje. El bogie descarrilado (que ya no rodaba sobre sino junto a los raíles) dañó la vía. A unos quinientos metros más adelante, el vagón descarrilado pasó sobre un cambio de aguja y causó graves daños en dicho cambio. Esto provocó a su vez el descarrilamiento de los ocho vagones siguientes en el cambio de aguja. Este fue el inicio de la escalada del descarrilamiento. Los vagones 11º y 12º volcaron hacia la izquierda, cayeron sobre la vía adyacente y perdieron su carga. El tren se rompió entre los vagones 12º y 13º. El vagón 13º quedó detenido atravesado sobre tres vías. Los vagones 14º y 15º volcaron hacia la derecha y quedaron sobre la vía adyacente. Los vagones del 16º al 19º descarrilaron pero no volcaron. Los vagones del 20º al 25º no descarrilaron.
 
@@ -426,6 +441,7 @@ Cuando así se solicitó, el IVW declaró que el ARR tampoco había funcionado c
 
 ## Página 18
 
+
 también se conoce. En combinación, esta información puede utilizarse para determinar la velocidad media del tren en un tramo específico de vía. La Junta de Seguridad utilizó este método para calcular la velocidad del tren. Esto reveló que el tren de mercancías circulaba a una velocidad comprendida entre 48 y 58 km/h cuando se aproximaba al lugar del descarrilamiento. Esta velocidad era inferior a la velocidad máxima vigente en dicho lugar (60 km/h).
 c)	
 Infraestructura
@@ -447,8 +463,8 @@ Material rodante: ocho vagones quedaron completamente destruidos y un vagón suf
 En una de las curvas de transición se superó en 8 mm/s el valor excepcional para la velocidad de inclinación (que, según las Normas de Diseño de Alineación OVS00051-4.1 de ProRail, no debe exceder de 35 mm/s).
 Véase la explicación en el Anexo 3 (apartado 2).
 
-
 ## Página 19
+
 
 •	
 Infraestructura: Según ProRail, los daños a la infraestructura ascendieron a unos 2,3 millones de euros. Esto se refería a la destrucción de un complejo de aparatos de vía y a los daños en unos 500 metros de vía. Un puente ferroviario también sufrió daños graves. Además, fue necesario desviar una vía para que pudiera reanudarse el tráfico ferroviario.
@@ -478,6 +494,7 @@ La sección 5.2.3 revisa los descarrilamientos de trenes de mercancías con más
 No hay información disponible sobre el número de cajas de eje sobrecalentadas que no resultaron en un descarrilamiento.
 
 ## Página 20
+
 
 2.2.2	
 Europa
@@ -529,6 +546,7 @@ Una explicación de los términos técnicos se incluye en el Anexo 2.
 
 ## Página 21
 
+
 2.3.3	
 Dos descarrilamientos de trenes de mercancías en 2009
 a) Descarrilamiento de un tren de mercancías en Vleuten
@@ -542,6 +560,7 @@ Un tren de mercancías descarriló en la estación de Viareggio (Italia) el 29 d
 La investigación sigue en curso. No obstante, ahora ha quedado claro que el descarrilamiento fue causado por la rotura de un eje en uno de los vagones. El descarrilamiento se asemeja al descarrilamiento de Muiderpoort en que ambos estaban relacionados con un descarrilamiento escalonado causado por un defecto en un juego de ruedas de uno de los vagones. Sin embargo, las principales diferencias son que el tren de Muiderpoort no transportaba mercancías peligrosas y que el defecto del juego de ruedas de Viareggio (un eje roto) no iba acompañado de una caja de ejes sobrecalentada (lo cual tiene consecuencias para la viabilidad de detectar el defecto a tiempo, véase la Sección 5.4).
 
 ## Página 22
+
 
 ## Marco de evaluación
 Esta sección describe el marco de evaluación utilizado por la Junta de Seguridad de los Países Bajos. Este marco se compone de tres elementos: la legislación y normativa aplicables, las normas y estándares que rigen el sector y los principios generales formulados por la Junta para la gestión de la seguridad.
@@ -568,6 +587,7 @@ La Ley también hace referencia a un sistema de garantía de la seguridad en est
 ProRail ha obtenido la concesión de gestión para la red ferroviaria principal durante el período comprendido entre 2005 y 2015.
 
 ## Página 23
+
 
 Gestión de la seguridad (sistemas)
 Como se ha indicado anteriormente, tanto las empresas de transporte como los gestores de infraestructura tienen un deber de diligencia (en virtud de la Ley de Ferrocarriles y de la concesión de gestión, respectivamente) en materia de seguridad y están obligados a implantar un sistema de gestión de la seguridad adecuado. En esencia, estas instrucciones establecen que:
@@ -599,6 +619,7 @@ Concesión de gestión de la infraestructura ferroviaria principal, Artículo 7,
 ALARP son las siglas de ‘tan bajo como sea razonablemente practicable’.
 
 ## Página 24
+
 
 •	
 Los empleados están obligados a velar por su salud y seguridad personales, así como por las de otras personas, adoptando medidas y absteniéndose de adoptarlas en el lugar de trabajo de conformidad con su formación y las instrucciones emitidas por el empleador.
@@ -638,8 +659,8 @@ La definición explícita del despliegue requerido de personal y su experiencia 
 La coordinación central clara y activa de las actividades de seguridad.
 EN 12080:2008 (cajas de eje, rodamientos), EN 12081:2008 (cajas de eje, grasas lubricantes) y EN 12082:2008 (cajas de eje, ensayos de rendimiento).
 
-
 ## Página 25
+
 
 d) 		
 Enfoque de seguridad cada vez más riguroso
@@ -663,6 +684,7 @@ La Junta también opina que el transporte público (incluido, evidentemente, el 
 Cabe señalar que el sector ferroviario (en contraste con algunos otros sectores) está regulado por disposiciones legales (en particular, establecidas en la Ley de Ferrocarriles y la concesión de gestión basada en dicha ley) que imponen obligaciones sobre su gestión de la seguridad, la forma en que se implementa la gestión de la seguridad y los criterios que deben utilizarse para evaluar la gestión de la seguridad.
 
 ## Página 26
+
 
 ## Las partes y sus responsabilidades
 Esta sección contiene un breve resumen de la identidad de las partes que estuvieron implicadas en el descarrilamiento de Muiderpoort y sus responsabilidades.
@@ -712,8 +734,8 @@ expedidores
 pasajeros
 Figura 4: Diagrama de las empresas/personas relevantes y sus relaciones.
 
-
 ## Página 27
+
 
 4.1.2	
 Organismos gubernamentales
@@ -745,6 +767,7 @@ Este informe entiende el «poseedor» como la empresa que opera el vagón (como 
 El hecho de que el control del riesgo de descarrilamiento sea responsabilidad compartida de todos los transportistas y el gestor de la infraestructura se explica en la Sección 5.5.1.
 
 ## Página 28
+
 
 ## Análisis
 Esta sección aborda las siguientes cuestiones:
@@ -805,8 +828,8 @@ no había indicios de sobrecarga;
 la jaula del rodamiento del rodamiento pertinente había fallado al principio del período en el que 
 la caja de eje se sobrecalentó.
 
-
 ## Página 29
+
 
 El descarrilamiento en Amsterdam-Muiderpoort fue causado por la rotura de un muñón del eje en uno 
 de los vagones debido a una caja de eje sobrecalentada. El sobrecalentamiento de la caja de eje fue causado 
@@ -856,6 +879,7 @@ a una nueva revisión general y modificó el régimen de mantenimiento en consec
 
 ## Página 30
 
+
 En consecuencia, en circunstancias ligeramente diferentes, uno o más trenes de pasajeros podrían haber colisionado con los vagones descarrilados.
 Los descarrilamientos de esta naturaleza también generan riesgos indirectos para la seguridad. Estos riesgos surgen de la perturbación del tráfico ferroviario causada por el descarrilamiento, ya que las interrupciones de los servicios de tren pueden provocar el uso de vías distintas a las habituales y un mayor uso generalizado de itinerarios parciales: ambas situaciones incrementan, a su vez, el riesgo de paso de señal en rojo (SPAD) y, en consecuencia, de accidentes. La Junta puso de manifiesto esta relación en su informe anterior «Paso de señal en rojo en Ámsterdam» (publicado en 2005).
 En circunstancias ligeramente diferentes, los trenes de pasajeros que pasaban podrían haber colisionado con los vagones de mercancías descarrilados, con un riesgo real de víctimas. Además, la extensa y prolongada perturbación del tráfico ferroviario causada por el descarrilamiento aumentó el riesgo de accidentes en otros puntos de la red ferroviaria.
@@ -885,6 +909,7 @@ Importes de daños emitidos por ProRail.
 
 ## Página 31
 
+
 ## 5.3 
 ## Mantenimiento periódico
 ¿En qué medida los hallazgos de la investigación dan lugar a la modificación del mantenimiento periódico de la serie relevante de vagones y/o a la enmienda de la legislación y normativa pertinentes?
@@ -906,6 +931,7 @@ Véase la explicación en el Anexo 3 (apartado 4).
 
 ## Página 32
 
+
 Esta investigación debe extenderse también a las condiciones de uso de los vagones, incluidos aquellos aspectos/componentes de la locomotora y de la infraestructura ferroviaria que sean relevantes para la corriente de retorno.
 La Junta considera que la realización de esta investigación es responsabilidad de las empresas que ostentan la responsabilidad principal del mantenimiento periódico de los vagones (Xpedys), del uso de los vagones incluidas las locomotoras (Railion) y de la infraestructura ferroviaria pertinente (ProRail). Por este motivo, la Junta emitió los hallazgos de la inspección técnica a las empresas pertinentes inmediatamente después de que estuvieran disponibles en abril de 2009.
 Los hallazgos de la inspección técnica de la Junta de Seguridad dan lugar a una evaluación crítica del mantenimiento periódico de las cajas de rodamiento de la serie de vagones correspondiente. Los daños por paso de corriente en los rodamientos de otras cajas de rodamiento de los vagones observados durante esta inspección también dan lugar a una investigación de las condiciones de uso de los vagones. La Junta considera que la responsabilidad de estas investigaciones recae en Xpedys (mantenimiento periódico) y Railion/ProRail (daños por paso de corriente).
@@ -922,8 +948,8 @@ La Junta considera que las consecuencias potencialmente muy graves de los descar
 La primera oportunidad disponible para la prevención de descarrilamientos causados por defectos en los ejes montados es el mantenimiento periódico tratado en la sección anterior. No obstante, un mantenimiento adecuado no puede excluir totalmente el desarrollo de defectos en los ejes montados: además de errores/carencias en los trabajos de mantenimiento, los vagones pueden estar sometidos a cargas imprevistas que resultan en el desarrollo de defectos en los ejes montados dentro del intervalo de mantenimiento.
 El Memorándum de Entendimiento se incluye en el Anexo 5.
 
-
 ## Página 33
+
 
 Algunos de los defectos se identifican durante las inspecciones visuales realizadas en el marco de las inspecciones técnicas prescritas. Sin embargo, estas inspecciones visuales no pueden identificar todos los tipos de defectos y, por esta razón, también es necesario utilizar los medios técnicos disponibles para asegurar que los defectos restantes se detecten a tiempo.
 No obstante, algunos defectos (como las grietas por fatiga) no pueden detectarse a tiempo. Además, los descarrilamientos también pueden tener causas distintas de los defectos en los ejes montados, por ejemplo, defectos en los raíles o circular demasiado rápido por una curva o por unos aparatos de vía. Por esta razón, también es necesario detectar los descarrilamientos a tiempo para que puedan implementarse medidas destinadas a reducir el riesgo de escalada (por ejemplo, deteniendo el tren descarrilado u otros trenes lo más rápidamente posible).
@@ -949,6 +975,7 @@ Las siguientes secciones examinan los sistemas disponibles para la detección de
 
 ## Página 34
 
+
 5.4.2	
 Detección de defectos
 a) 		
@@ -967,6 +994,7 @@ Es evidente que las cajas de eje con sobrecalentamiento también pueden ser dete
 También se instala un punto de detección HotBox en la sección de vía entre la línea Betuweroute y la zona del Puerto de Róterdam (en Dordrecht).
 
 ## Página 35
+
 
 En estos dos incidentes, los sistemas de detección HotBox instalados en las ubicaciones detectaron una caja de eje sobrecalentada en uno de los vagones de un tren de mercancías. El controlador de tráfico advirtió al maquinista a tiempo.
 Los sistemas de detección HotBox están instalados en las redes ferroviarias de varios países europeos. Los Países Bajos también comenzaron a utilizar este sistema, aunque en un ensayo piloto que finalizó alrededor de 2002. La detección HotBox se utiliza actualmente únicamente en las líneas HSL-Zuid y Betuweroute. Los sistemas de detección HotBox instalados en toda la red ferroviaria pueden prevenir descarrilamientos como el descarrilamiento de Muiderpoort.
@@ -987,6 +1015,7 @@ El tren de mercancías que descarriló en Muiderpoort también pasó por este pu
 
 ## Página 36
 
+
 Los puntos de medición QuoVadis instalados en toda la red ferroviaria podrían prevenir descarrilamientos de la naturaleza del ocurrido en Muiderpoort.
 5.4.3	
 Detección de descarrilamientos
@@ -1001,8 +1030,8 @@ Reducción potencial del riesgo
 La siguiente tabla muestra hasta qué punto, en opinión de la Junta, los sistemas de detección de defectos y descarrilamientos mencionados anteriormente habrían podido ser efectivos en los seis graves descarrilamientos de trenes de mercancías causados por defectos en los ejes que han ocurrido desde principios de 2005.
 Un total de varios vagones de mercancías utilizados para el transporte de mercancías peligrosas en Marruecos y Eslovenia (fuente: Knorr Bremse Group).
 
-
 ## Página 37
+
 
 ### Tabla 2:	
 ### Eficacia de los sistemas de detección en seis descarrilamientos graves en el período comprendido entre 2005-2009
@@ -1066,6 +1095,7 @@ ERA es la abreviatura de la Agencia Ferroviaria Europea.
 
 ## Página 38
 
+
 Este estudio se concluyó a mediados de 2009. El informe de la ERA sobre este estudio52 concluía que se espera que las mejoras en materia de seguridad logradas a nivel europeo mediante esta medida no justifiquen las inversiones. La ERA también señala que la relación coste/beneficio podría volverse favorable si este tipo de detección de descarrilamientos se introduce para todos los vagones de mercancías, y no únicamente para los vagones que transportan mercancías peligrosas. La ERA recomienda además un nuevo estudio exploratorio sobre la viabilidad de prevenir los descarrilamientos mediante la detección de defectos.
 
 Es posible que el RID imponga la obligación de utilizar dispositivos de detección de descarrilamientos montados en el vehículo en los nuevos vagones utilizados para el transporte de mercancías peligrosas a partir de 2013. La ERA publicó recientemente un informe en el que concluye que espera que las mejoras en materia de seguridad logradas mediante esta medida no justifiquen las inversiones. La ERA recomienda un estudio complementario sobre los costes/beneficios obtenidos mediante el uso generalizado de la detección de descarrilamientos montada en el vehículo y la viabilidad de reducir los descarrilamientos mediante la detección de defectos.
@@ -1091,6 +1121,7 @@ Evaluación del impacto sobre el uso de Dispositivos de Detección de Descarrila
 Véase la Sección 3.1.1.
 
 ## Página 39
+
 
 5.5.2	
 Cumplimiento de las responsabilidades
@@ -1118,6 +1149,7 @@ Carta VenW/DGMo-2009-7386.
 
 ## Página 40
 
+
 para acelerar la prevista actualización/ampliación del sistema QuoVadis. En respuesta, ProRail elaboró un plan de desarrollo e implementación que, en esencia, establece que el sistema QuoVadis será modernizado y que las funciones de detección HotBox y de señalización serán integradas: el plan prevé una introducción por fases con finalización a mediados de 2013.
 Entre 2007 y 2009, ProRail, a petición del Ministerio de Transportes, Obras Públicas y Gestión del Agua, llevó a cabo un estudio sobre la viabilidad del control del riesgo de descarrilamiento de trenes de mercancías causado por problemas de sobrecalentamiento. El estudio revisó la viabilidad de una actualización y ampliación del sistema QuoVadis hacia un sistema de detección y aviso en tiempo real para defectos de los ejes. ProRail opina que deben celebrarse consultas sobre la división de responsabilidades entre ProRail y los transportistas, y que dichas consultas deberían estar presididas por el Ministerio de Transportes, Obras Públicas y Gestión del Agua. El Ministerio ha indicado que considera innecesarias estas discusiones y que espera que ProRail actualice/amplíe el sistema QuoVadis lo antes posible. ProRail ha preparado un plan de desarrollo e implementación que prevé una introducción por fases y su finalización en 2013.
 c) 		
@@ -1138,6 +1170,7 @@ Cámara de Representantes, 2008–2009, 31 987, n.º 1, parte 6.3.
 
 ## Página 41
 
+
 El riesgo de descarrilamiento solo puede controlarse adecuadamente cuando los transportistas y el gestor de infraestructura adoptan un enfoque conjunto. La Ley Ferroviaria no contiene regulaciones explícitas que rijan la responsabilidad por la iniciación y coordinación de la cooperación. Según el gobierno, este deber está asignado a las Consultas de Seguridad de las Compañías Ferroviarias, OVS.
 5.5.3	
 Gestión de la seguridad
@@ -1155,6 +1188,7 @@ La probabilidad se expresa en una escala de cinco puntos desde improbable hasta 
 Cuando fue solicitado, ProRail declaró que tanto la puntuación de la matriz de riesgos como la evaluación (ALARP)
 
 ## Página 42
+
 
 de las medidas de control aún no han tenido lugar60. No obstante, el personal experimentado ha realizado una estimación de los riesgos de descarrilamiento. La empresa ha indicado que el transportista es el «propietario del problema» de los riesgos de descarrilamiento causados por defectos del material rodante y que la «inspección» y el «mantenimiento del material rodante» son las medidas de control adecuadas. El argumento de ProRail para esta postura es que la legislación y la normativa pertinentes establecen que los transportistas solo pueden utilizar material rodante que haya sido certificado y mantenido en condiciones operativas.
 En resumen: ProRail ha elaborado un RI&E amplio que incluye el riesgo de descarrilamientos de trenes debido a defectos en los ejes montados y prevé las medidas de control necesarias. ProRail también ha formulado objetivos para la reducción de este riesgo. Sin embargo, la Junta observa que Railion ha incluido medidas de control implementadas por terceros que están fuera del control de la empresa y que no se consideran la detección de defectos ni la detección de descarrilamientos. Además, la evaluación adicional prevista de los riesgos y la evaluación ALARP de las posibles medidas de control aún no han tenido lugar.
@@ -1175,6 +1209,7 @@ ProRail ha indicado, dentro del contexto de la ronda de comentarios del borrador
 ProRail ha formulado un objetivo para los descarrilamientos causados por defectos de infraestructura que estipula que la frecuencia debe reducirse a «menos de una vez cada cinco años».
 
 ## Página 43
+
 
 pero no ha formulado objetivos específicos para la reducción de los descarrilamientos causados por defectos del material rodante.
 •	 El Ministerio de Transporte, Obras Públicas y Gestión del Agua ha formulado objetivos tangibles para la reducción de una serie de riesgos específicos, como la reducción de colisiones en pasos a nivel y SPAD (señales pasadas en peligro). No obstante, el Ministerio de Transporte, Obras Públicas y Gestión del Agua no ha formulado ningún objetivo tangible para la reducción de los descarrilamientos.
@@ -1199,6 +1234,7 @@ La IVW entiende por infracción «una situación o acción contraria a la legisl
 
 ## Página 44
 
+
 ## DESCARRILAMIENTO EN DUIVEN, 23-08-2007
 señal 1
 Los datos medidos por el sistema Gotcha/QuoVadis de ProRail no pueden monitorizarse en tiempo real y, como resultado, no pueden utilizarse para emitir una advertencia oportuna sobre defectos del material rodante. Nota explicativa: Los datos registrados por el sistema Gotcha/QuoVadis para el tren 47719 revelaron que la llanta de la rueda izquierda del bogie descarrilado presentaba un defecto grave en el momento en que el tren salió de Rotterdam. Los datos medidos por el sistema QuoVadis de ProRail no se monitorizan en tiempo real (con la excepción de los datos del punto de medición situado antes del túnel de Best). El sistema Gotcha/QuoVadis podría servir como red de seguridad para trenes con defectos específicos del material rodante. Realizar un estudio para investigar la viabilidad de modificar el sistema Gotcha/QuoVadis para este uso.
@@ -1215,6 +1251,7 @@ Existe un tema pendiente de discusión entre Railion y la IVW, que se refiere a 
 
 ## Página 45
 
+
 Evaluación del SMS de ProRail
 ProRail está obligada a poseer un sistema de gestión de la seguridad (SMS) aprobado desde principios de 2008, requisito establecido en la concesión de gestión. La IVW llevó a cabo una evaluación del SMS de ProRail para verificar el cumplimiento de este requisito a principios de 2008. La evaluación se realizó sobre la base de la Ley Ferroviaria y la Directiva Europea de Seguridad Ferroviaria. La inspección examinó cinco de los 32 procesos, en particular los procesos más críticos para la seguridad. Ninguno de los cinco procesos examinados se refería directamente a descarrilamientos causados por defectos en los ejes montados. En esencia, la IVW concluyó que el SMS de ProRail no cumplía con los requisitos debido a una visión insuficiente de los procesos y documentos pertinentes, al estado poco claro de los documentos, a la calidad inadecuada de los documentos pertinentes y a la incompletitud del resumen de los puestos críticos para la seguridad.
 En primera instancia, la IVW declaró que podía emitir el permiso durante seis meses (en lugar de tres años), sujeto a la condición de que ProRail subsanara las deficiencias y atendiera las observaciones dentro de este periodo. ProRail presentó varias objeciones contra la evaluación y la decisión prevista. Esto fue en parte la razón de la decisión de la IVW de conceder la aprobación por un periodo de tres años, aunque la Inspección anunció que llevaría a cabo una auditoría a finales de 2008 para verificar que se hubieran realizado las mejoras solicitadas. Esta auditoría se llevó a cabo en septiembre de 2008 y, sobre la base de sus hallazgos, la Inspección emitió una declaración indicando que las deficiencias habían sido subsanadas y las observaciones atendidas.
@@ -1227,6 +1264,7 @@ La evaluación de la IVW sobre la gestión de la seguridad (sistemas) de Railion
 La IVW emitió un anuncio en este contexto declarando que la Inspección realizaría una designación en un futuro próximo para verificar la inspección de NS Reizigers de los RI&E disponibles.
 
 ## Página 46
+
 
 ## Conclusiones
 ## 6.1 
@@ -1249,6 +1287,7 @@ Los Países Bajos hacen solo un uso limitado de estas medidas técnicas para la 
 
 ## Página 47
 
+
 importancia. El hecho de que aún no hayan introducido estos métodos no se basa en consideraciones estructurales. En esencia, las empresas han adoptado la postura de que «no son las propietarias del problema», que esto queda fuera de su esfera de influencia y que «no es obligatorio».
 6.1.4	
 Gestión de la seguridad
@@ -1268,6 +1307,7 @@ La Junta ha tomado conocimiento de la actualización prevista del sistema QuoVad
 
 ## Página 48
 
+
 el sistema QuoVadis será suficiente para lograr un control adecuado del riesgo de descarrilamiento: es posible que se requieran más y/u otros puntos de medición en comparación con la red actual de QuoVadis (que está destinada principalmente a medir el peso de los trenes).
 b)	
 En opinión de la Junta, la falta de introducción por parte de las empresas ferroviarias de las medidas técnicas disponibles con la debida celeridad y los argumentos presentados son indicativos de una concepción incorrecta de sus responsabilidades personales en materia de seguridad del tráfico ferroviario y de sus deberes/funciones dentro del sector ferroviario. La Junta valora que las medidas de control pertinentes se refieren a diferentes ámbitos de responsabilidad (infraestructura ferroviaria - diseño de los vagones - mantenimiento de los vagones) y que las distintas empresas ferroviarias no tienen un control directo o pleno sobre todos estos ámbitos de responsabilidad. No obstante, la Junta espera que cada una de las empresas ferroviarias realice todos los esfuerzos posibles para minimizar los riesgos de seguridad del tráfico ferroviario dentro de su ámbito específico de operaciones. Las empresas ferroviarias deben garantizar conjuntamente que todos los riesgos de seguridad pertinentes se reduzcan al máximo posible. En este contexto, será importante que cada empresa ferroviaria exija a las demás empresas ferroviarias que hagan un uso máximo de las oportunidades específicas a su disposición. En este sentido, la Junta se apoya en la Ley Ferroviaria y en la concesión de gestión basada en dicha ley, que establecen un «deber de diligencia» y exigen a las empresas ferroviarias mantener un control demostrablemente adecuado de los riesgos de seguridad asociados al tráfico ferroviario. Este deber de diligencia no se limita a los riesgos derivados de los deberes específicos de una empresa que pueden abordarse sin la participación de otras empresas ferroviarias. 
@@ -1279,11 +1319,12 @@ e)
 La Junta opina que el Ministro de Transporte, Obras Públicas y Gestión del Agua debería haber establecido la dirección necesaria para el control del riesgo de descarrilamiento mediante una estructura de consulta y toma de decisiones adecuada en el sector ferroviario y la formulación de objetivos específicos para la reducción del riesgo. La Junta observa que la dirección proporcionada a la actual estructura de consulta y toma de decisiones en el sector ferroviario, incluidas las Consultas de Seguridad de las Empresas Ferroviarias) gestionadas por el Ministerio de Transporte, Obras Públicas y Gestión del Agua, no ha dado lugar a un enfoque dinámico del problema de los descarrilamientos.
 La Junta observa que el Ministerio de Transporte, Obras Públicas y Gestión del Agua no ha formulado objetivos específicos que establezcan el nivel al que debe reducirse el riesgo de descarrilamiento.
 
-
 ## Página 49
 
 
+
 ## Página 50
+
 
 ## Recomendaciones 
 Las deficiencias y los problemas subyacentes dan lugar a que la Junta formule las siguientes dos recomendaciones:
@@ -1306,12 +1347,13 @@ A Railion y ProRail:
 Realizar una investigación sobre los daños por corriente eléctrica en los rodamientos de las cajas de ejes observados en los vagones implicados en el descarrilamiento de Muiderpoort y asegurarse de que se implementen las medidas necesarias para prevenir esta forma de daño.
 Las autoridades administrativas a quienes se dirige una recomendación deberán comunicar su postura sobre la implementación de la recomendación al Ministro competente en un plazo de seis meses desde la publicación del informe final. Las autoridades no administrativas o personas a quienes se dirija una recomendación deberán comunicar su postura sobre la implementación de la recomendación al Ministro competente en un plazo de un año desde la publicación del informe final. Se enviarán copias de estas respuestas simultáneamente al Presidente de la Junta de Seguridad Neerlandesa y al Ministro del Interior y Relaciones del Reino.
 
-
 ## Página 51
+
 
 ## Anexos
 
 ## Página 52
+
 
 ## Anexo 1: Justificación de la investigación
 ### Investigación por parte de la Junta de Seguridad de los Países Bajos
@@ -1354,8 +1396,8 @@ entrevistas.
 ### Entrevistas
 Durante el transcurso de la investigación se mantuvieron entrevistas con funcionarios de las diversas partes involucradas, en este caso Railion, ProRail, el IVW y el Ministerio de Transporte, Obras Públicas y Gestión del Agua. El objetivo de estas entrevistas era obtener una comprensión de la causa del accidente y/o obtener una comprensión de la manera en que las diversas partes cumplen su responsabilidad (personal) en el control de los riesgos de descarrilamiento.
 
-
 ## Página 53
+
 
 ### Equipo del proyecto
 Director de la investigación:
@@ -1421,6 +1463,7 @@ Los comentarios recibidos de las partes se resumen a continuación en la secuenc
 
 ## Página 54
 
+
 ## COMENTARIOS ACEPTADOS
 no
 ### Sección
@@ -1476,6 +1519,7 @@ Incorporación: Se ha añadido el número máximo de kilómetros para los period
 
 ## Página 55
 
+
 no
 ### Sección
 empresa / comentario / incorporación
@@ -1508,6 +1552,7 @@ ProRail: El borrador del informe establece que ‘otros puntos’ del SMS tampoc
 Incorporación: Esta frase se refería al hecho de que las deficiencias observadas (no se tienen en cuenta importantes medidas de control potenciales, no hay una evaluación adicional de los riesgos y no hay una evaluación ALARP de las medidas de control potenciales) no solo son aplicables a los riesgos de descarrilamiento, sino también a otros riesgos. No obstante, dado que es correcto que el término ‘otros puntos’ podría interpretarse de manera diferente, la frase pertinente ha sido eliminada. Se ha mantenido la observación de que ‘la insuficiencia identificada también es aplicable a otros riesgos’.
 
 ## Página 56
+
 
 no
 ### Sección
@@ -1544,6 +1589,7 @@ Consejo: La descripción general de los hechos se basa en varias fuentes, inclui
 
 ## Página 57
 
+
 no
 sección
 ### empresa / comentario / razón del Consejo
@@ -1568,6 +1614,7 @@ Consejo: Evidentemente, se da preferencia a la «prevención» de los descarrila
 
 ## Página 58
 
+
 no
 section
 ### empresa / comentario / motivo del Consejo
@@ -1585,6 +1632,7 @@ Xpedys: La conclusión del Consejo de que los hallazgos de la investigación dan
 Consejo: Es correcto que la investigación no reveló ningún indicio específico de errores o deficiencias en el mantenimiento periódico. La opinión del Consejo de que, no obstante, se requiere una evaluación crítica del régimen de mantenimiento se basa en las dos razones siguientes. En primer lugar, el descarrilamiento fue causado por el agarrotamiento de un rodamiento de caja de eje menos de tres años después de iniciado el intervalo prescrito de revisión general de diez años. En segundo lugar, los expertos en rodamientos consultados para la inspección de uno de los otros veinte rodamientos indicaron que este defecto probablemente habría resultado en la rotura del rodamiento dentro del intervalo prescrito de revisión general. En vista de estas dos cuestiones, el Consejo considera necesaria una revisión crítica para evaluar si el actual régimen de mantenimiento (incluido el intervalo de revisión general especificado y la reutilización de rodamientos basándose en una inspección visual) es justificable para estos vagones. A juicio del Consejo, esta evaluación debe extenderse a una investigación adicional de cuestiones tales como el estado técnico de los demás rodamientos de la serie relevante de vagones. Evidentemente, esta investigación adicional debe incluir también un examen de los daños por paso de corriente revelados durante la investigación del Consejo de Seguridad y las observaciones de Xpedys respecto a dichos daños.
 
 ## Página 59
+
 
 no
 section
@@ -1610,6 +1658,7 @@ El Consejo decidió no revisar las ventajas y desventajas específicas de los di
 
 ## Página 60
 
+
 no
 section
 ### empresa / comentario / motivo del Consejo
@@ -1627,6 +1676,7 @@ La medida en que se pueda esperar un efecto comparable con el Centro de Excelenc
 
 ## Página 61
 
+
 no
 section
 ### empresa / comentario / motivo del Consejo
@@ -1639,8 +1689,8 @@ ProRail: Es incorrecta la observación de que el riesgo de descarrilamientos de 
 Consejo: En esencia, la postura de ProRail es que, conforme a la Directiva Europea de Seguridad, es suficiente disponer de un análisis de riesgos junto con una evaluación de los riesgos y una descripción de las medidas que han sido implementadas. El Consejo llama enfáticamente la atención sobre el hecho de que la Ley Ferroviaria y la concesión de gestión basada en dicha ley también establecen que deben existir garantías para un análisis de los riesgos de seguridad y la implementación de medidas adecuadas para asegurar que los riesgos estén controlados en una medida adecuada (teniendo en cuenta el estado del arte). En esencia, la diferencia entre ambas posturas radica en que, según la opinión de ProRail, es suficiente contar con un documento SMS que contenga las secciones prescritas, mientras que el Consejo considera que la cuestión es que los riesgos de seguridad pertinentes deben haberse reducido realmente al nivel ALARP. La investigación reveló que este no era el caso.
 Al final de la respuesta de la empresa, ProRail señala que la IVW ha evaluado y aprobado el SMS de ProRail. Sin embargo, en opinión del Consejo - como se indica en el informe - esta evaluación/aprobación fue incompleta y/o incorrecta.
 
-
 ## Página 62
+
 
 no
 section
@@ -1654,6 +1704,7 @@ Railion: No puede derivarse la conclusión de que el SMS de Railion no cumple co
 Consejo: El Consejo no ha basado su conclusión de que el riesgo de descarrilamientos de trenes de mercancías causados por defectos del material rodante no está desarrollado con suficiente detalle en el SMS de Railion en el hecho de que la IVW haya ignorado esta cuestión en la evaluación del Inspectorate del SMS de Railion. Esta conclusión sí se basa en la investigación propia de la Junta de Seguridad sobre el SMS de Railion: estos hallazgos se resumen en la Sección 5.5.3-a.
 
 ## Página 63
+
 
 no
 section
@@ -1672,33 +1723,34 @@ Consejo: El informe explica el sentido (en la Sección 5.5.3-a) en el que el Con
 Railion: Railion no niega ser copropietario conjunto del problema, pero no puede imponer una solución eficaz de forma aislada.
 Consejo: El Consejo es consciente de que la introducción de la detección HotBox y la actualización del sistema QuoVadis no forman parte del ámbito operativo de Railion (ni de los demás transportistas). Sin embargo, el Consejo espera que los transportistas exijan responsabilidades a ProRail por el hecho de que dichas medidas no se hayan implementado. El Consejo también opina que Railion y los demás transportistas ferroviarios deben realizar una evaluación empresarial sobre el uso del mantenimiento dinámico y la detección de descarrilamientos en los trenes que utilizan de forma más o menos permanente. En opinión del Consejo, Railion no ha dado suficiente forma tanto a la responsabilidad de la empresa como a la responsabilidad conjunta de las compañías ferroviarias para reducir de manera demostrable el riesgo de descarrilamiento hasta un nivel adecuado.
 
-
 ## Página 64
+
 
 ## Anexo 2: Explicación de términos técnicos
 Los vagones implicados en el descarrilamiento de Ámsterdam-Muiderpoort estaban compuestos por una tolva montada sobre dos bogies. Cada bogie tiene dos ejes, cada uno de los cuales está compuesto por dos ruedas montadas sobre un eje. La sección del vástago que sobresale más allá de la rueda se denomina muñón del eje. El muñón del eje está montado en una caja de eje que, mediante muelles, soporta el bogie que sostiene la tolva. La caja de eje está equipada con dos rodamientos que permiten al eje girar dentro de la caja de eje.
 Figura 6: Vagón con dos bogies (cada uno de los cuales tiene dos ejes).
 Figura 7: Eje con (en primer plano) una caja de eje.
 
-
 ## Página 65
+
 
 Figura 8: El segundo eje del undécimo vagón. El muñón del eje izquierdo se ha roto/derretido.
 Figura 9: la caja de eje sobrecalentada encontrada junto a la vía en el lugar del descarrilamiento.
 Los rodamientos de la caja de eje están compuestos por un anillo interior y un anillo exterior que alojan dos hileras de rodillos (de barril). Los rodillos se mantienen en su sitio mediante una jaula de rodamiento. Las protuberancias de la jaula que sujetan los rodillos en su sitio se denominan pestañas de la jaula.
 
-
 ## Página 66
+
 
 Figura 10: Ejemplo de un rodamiento. Este anillo exterior se ha abierto para mostrar los rodillos y la jaula del rodamiento. El rodamiento mostrado en esta foto (del mismo tipo que el rodamiento implicado en el descarrilamiento de Muiderpoort) es un rodamiento de doble hilera de barril con una jaula de rodamiento en forma de peine.
 Figura 11: Esta foto muestra una jaula de rodamiento en forma de peine como la utilizada en los rodamientos en cuestión.
 La rotura de una pestaña de la jaula provocará fricción entre los rodillos que ya no están sujetos en su sitio y pueden agarrotarse. Si el vagón continúa moviéndose, los rodillos agarrotados comienzan a rozar contra el anillo interior y/o exterior. La fricción resultante calienta la caja de eje y el muñón del eje (sobrecalentamiento) hasta tal punto que el muñón del eje puede romperse o derretirse (como ocurrió en el descarrilamiento de Muiderpoort).
 
-
 ## Página 67
 
 
+
 ## Página 68
+
 
 ### Anexo 3: Explicación de los hallazgos de la inspección técnica
 1. 	
@@ -1712,6 +1764,7 @@ Las traviesas inmediatamente posteriores al final de las marcas de descarrilamie
 Figura 13: Esta foto muestra los daños que la rueda izquierda del eje descarrilado causó en las traviesas de hormigón. La caja de eje sobrecalentada y uno de los cuatro muelles acompañantes de la caja de eje yacen junto al carril.
 
 ## Página 69
+
 
 Las dos ruedas del primer juego de ruedas fueron las únicas descarriladas que presentaban daños graves en los bordes y la superficie de rodadura, del tipo que cabe esperar cuando las ruedas recorren una distancia considerable sobre traviesas de hormigón (véase la Figura 14).
 Figura 14: Estas fotografías muestran los daños en las ruedas del primer juego de ruedas (del bogie delantero del undécimo vagón) causados por el paso del juego de ruedas sobre las traviesas de hormigón.
@@ -1727,8 +1780,8 @@ que, como resultado, los juegos de ruedas «posteriores» no siguieron recto (co
 que, como consecuencia, se descarrilaron los vagones del 11 al 19 inclusive, rompiéndose el enganche entre el duodécimo y el decimotercer vagón y volcando algunos de los vagones descarrilados (vagones 11, 12, 14 y 15).
 Figura 15: Esta fotografía muestra los daños que el juego de ruedas descarrilado causó en las traviesas y en el mecanismo de accionamiento del cambio de vía
 
-
 ## Página 70
+
 
 Lo anterior implica que, tras el descarrilamiento efectivo, el tren recorrió una distancia de unos 500 metros hasta que el descarrilamiento se agravó.
 Figura 16: Esta fotografía muestra algunos de los vagones descarrilados y varios juegos de ruedas que se habían desprendido.
@@ -1742,8 +1795,8 @@ Respecto a los cálculos de simulación, pueden hacerse las siguientes observaci
 Los cálculos de simulación se utilizaron para investigar el efecto que la rotura (progresiva) del muñón de eje afectado tenía sobre las propiedades de marcha del bogie pertinente. Los cálculos fueron realizados por DeltaRail UK utilizando el programa de simulación Vampire desarrollado por dicha empresa. Se utilizó un modelo detallado del vehículo para el vagón de mercancías pertinente: el sobrecalentamiento de la caja de cojinetes y la rotura «progresiva» del muñón de eje se modelizaron haciendo que la conexión entre el muñón de eje y el bastidor del bogie dependiera del tiempo (en el sentido de que la conexión podía eliminarse en cualquier momento elegido y durante un periodo que podía ajustarse a un tiempo específico). El modelo se utilizó para realizar simulaciones tanto en un tramo recto de vía como en un tramo curvo con una alineación idéntica a la del punto del descarrilamiento. La alineación de la vía en el punto del descarrilamiento se configuró utilizando los datos de medición disponibles pertinentes65. Las simulaciones se realizaron con un tren circulando a una velocidad de 60 km/h.
 La alineación del tramo de vía pertinente fue topografiada el 09-11-2008 (es decir, unas dos semanas antes del descarrilamiento). Los datos consistían en las coordenadas X/Y/Z y el peralte, a intervalos de 10 metros.
 
-
 ## Página 71
+
 
 •	
 En esencia, los resultados de las simulaciones fueron los siguientes:
@@ -1764,6 +1817,7 @@ Las simulaciones explicadas anteriormente revelan que tanto el descarrilamiento 
 
 ## Página 72
 
+
 3. 	
 Causa del sobrecalentamiento de la caja de rodamiento
 La Junta encargó una investigación técnica adicional para determinar la causa del sobrecalentamiento de la caja de rodamiento. En esencia, los hallazgos fueron los siguientes:
@@ -1777,16 +1831,16 @@ Una inspección técnica adicional reveló lo siguiente (véase también el dibu
 Figura 18: Sección transversal del muñón del eje y la carcasa de la caja de rodamiento. Dos rodamientos de rodillos cilíndricos de doble fila están montados en la carcasa de la caja de rodamiento. El muñón del eje se ha roto en el punto donde pasa a través del rodamiento interior.
 El muñón del eje se rompió en el punto donde pasaba a través del rodamiento interior. El taladrado del anillo interior del rodamiento exterior mostraba una erosión claramente visible: esto indicaba que el muñón del eje había girado dentro de este rodamiento y lo había erosionado. Secciones del anillo interior estaban completamente desgastadas.
 
-
 ## Página 73
+
 
 En opinión de la Junta, lo anterior implica que el rodamiento exterior se agarrotó (bloqueó) antes de que el muñón del eje se rompiera. Por consiguiente, la causa del sobrecalentamiento debe buscarse en el agarrotamiento del rodamiento exterior.
 El rodamiento exterior estaba extremadamente dañado (véanse las fotos a continuación).
 Figura 19: La capa exterior de la caja de rodamiento sobrecalentada. La foto superior izquierda muestra el lado exterior, la foto superior derecha el lado interior. La foto inferior izquierda se tomó una vez que el anillo exterior había sido cortado y parcialmente retirado. La foto inferior derecha muestra la pista de rodadura del anillo exterior después de que el anillo hubiera sido limpiado.
 Una inspección de las pistas de rodadura del anillo interior y del anillo exterior después de abrir el rodamiento no reveló un grado de picaduras que pudiera haber explicado el agarrotamiento (véase la Figura 20, foto inferior derecha). También se observó que se habían formado planos en algunos de los rodillos del rodamiento antes de que los rodillos quedaran «soldados» al anillo interior (véase la Figura 20).
 
-
 ## Página 74
+
 
 Figura 20: Tres rodillos de la capa exterior: un rodillo había girado 90 grados y se habían formado planos en los tres rodillos.
 Esta situación solo puede explicarse porque los rodillos correspondientes se atascaron respecto al anillo exterior mientras el anillo interior seguía girando. Dado que uno de los rodillos había girado 90 grados (véase la Figura 20), al menos una pestaña de la jaula del rodamiento debió haberse roto ya en el momento en que el rodamiento comenzó a agarrotarse.
@@ -1802,6 +1856,7 @@ Dado que la caja de rodamiento se había sobrecalentado, ya no era posible evalu
 Sobre la base de la naturaleza del daño anteriormente mencionada, la Junta concluye que el curso del sobrecalentamiento de la caja de rodamiento debió haber sido el siguiente: la caja de rodamiento comenzó a sobrecalentarse cuando el rodamiento exterior se agarrotó. El rodamiento comenzó a agarrotarse una vez que algunos de los rodillos se atascaron respecto al anillo exterior, momento en el cual al menos una de las pestañas de la jaula se había roto. El anillo interior continuó entonces girando durante algún tiempo respecto a los rodillos (atascados). Como resultado, el anillo interior también se atascó, lo que a su vez provocó que el muñón del eje girara dentro del anillo interior y lo erosionara. El muñón del eje se rompió entonces (en el punto donde pasaba a través del rodamiento interior). Finalmente, la sección restante del muñón del eje erosionó el rodamiento interior y la caja de rodamiento hacia arriba.
 
 ## Página 75
+
 
 4.	
 Daños en los rodamientos de referencia
@@ -1821,8 +1876,8 @@ El brinelling se refiere a pequeñas abolladuras en la pista de rodadura de los 
 Se ofrece una explicación adicional del sistema QuoVadis-Gotcha en los apartados 5.4.2 y 5.4.4.
 El peso total soportado por un bogie normalmente se divide aproximadamente por igual entre los dos ejes y las cuatro ruedas del bogie, es decir, cada eje soporta aproximadamente una cuarta parte del peso total del vagón y cada rueda aproximadamente una octava parte del peso total del vagón. El peso total del vagón en cuestión era de más de 80 toneladas, por lo que la carga nominal sobre las ruedas era de aproximadamente 10 toneladas.
 
-
 ## Página 76
+
 
 La distancia desde la estación de medición relevante (Tricht) hasta el lugar del descarrilamiento (Amsterdam-Muiderpoort) era de más de 60 kilómetros y el tren tardó unos 53 minutos en recorrer esta distancia.
 Figura 23: Esta figura muestra las cargas sobre las ruedas del undécimo vagón registradas por la estación QuoVadis-Gotcha en Tricht. El bogie delantero presenta una diferencia diagonal en las cargas sobre las ruedas.
@@ -1831,6 +1886,7 @@ Figura 24: Esta foto de (el lado interior de) la caja de eje sobrecalentada mue
 En opinión de la Junta, también es posible afirmar que este grado de erosión (aproximadamente 95 mm) del muñón del eje a través de la caja de eje habría ido acompañado de la generación de suficiente calor como para elevar la temperatura de la caja de eje a un nivel que también habría podido ser detectado por un sistema de detección de HotBox en esa ubicación y en ese momento.
 
 ## Página 77
+
 
 La distancia entre la última estación de medición (Tricht) y la penúltima estación de medición (Esch) era superior a treinta kilómetros. Dado que la penúltima estación de medición no registró ninguna distribución anómala de la carga sobre las ruedas, es posible afirmar que en dicha ubicación y en ese momento (aproximadamente 95 km antes del descarrilamiento), el proceso de sobrecalentamiento no había alcanzado una fase en la que la caja de eje ya hubiera descendido significativamente. No obstante, en opinión de la Junta, esto no excluye la posibilidad de que la caja de eje ya se hubiera sobrecalentado hasta un grado que podría haber sido detectado mediante un sistema de detección HotBox.
 6. 	
@@ -1943,8 +1999,8 @@ Operador:	Railion
 62.7
 Diagrama del vagón número 11 con los números de bogie y juego de ruedas; la caja de eje sobrecalentada estaba en el lado izquierdo del juego de ruedas 11530-3.
 
-
 ## Página 78
+
 
 ## Anexo 4: Explicación del daño operativo
 Hasta ahora, en los Países Bajos no ha sido habitual expresar el daño operativo en términos de pérdida financiera. Conforme a la práctica habitual, ha bastado con una descripción de la magnitud y duración de la interrupción del tráfico ferroviario. Se solicitó a ProRail que facilitara una descripción del daño operativo incurrido como resultado de los tres últimos descarrilamientos, expresado mediante una serie de índices numéricos. La información figura en la siguiente tabla.
@@ -1996,42 +2052,48 @@ Los valores de las variables fueron solicitados a ProRail, NS y Railion. La ERA 
 Datos de ProRail (Nota de fecha 22 July 2009).
 Se ofrece una explicación teórica en Jong (2008). Los índices numéricos neerlandeses están disponibles en el sitio web de la Dirección General de Obras Públicas y Gestión del Agua.
 
-
 ## Página 79
+
 
 La Junta de Seguridad utilizó estos índices numéricos (los índices numéricos actualizados para los Países Bajos) para calcular los costes operativos. Los cálculos se basaron en suposiciones conservadoras: por ejemplo, no se tuvo en cuenta el hecho de que la pérdida de tiempo de viaje es fundamentalmente más costosa que la ganancia de tiempo de viaje.
 Los cálculos realizados mediante el método descrito anteriormente indican que los costes operativos totales del descarrilamiento de Amsterdam-Muiderpoort ascienden a aproximadamente dos millones de euros. Este cálculo no tiene en cuenta los costes operativos incurridos por los trenes de mercancías.
 El cálculo revela que el factor determinante con diferencia es el número de pasajeros que sufrieron «molestias» debido a la interrupción de los servicios de tren. Los trenes de mercancías contribuyen de forma relativamente mucho menor a los costes, tanto por las diferencias de escala en los datos de trenes de pasajeros y de mercancías como porque los trenes de mercancías que son suprimidos simplemente no circulan. A diferencia de los viajeros, que toman un tren posterior o realizan un desvío, los trenes de mercancías no se cargan (cuando la supresión se conoce con antelación). La Junta de Seguridad desconoce ningún índice numérico que pueda utilizarse para este cálculo.
 
-
 ## Página 80
+
 
 ## Anexo 5: Memorándum de Entendimiento
 ### Memorándum de Entendimiento (MoU)
 Establecimiento de los principios básicos de un sistema común de certificación
 de las entidades encargadas del mantenimiento de los vagones de mercancías.
-Brussels, 14 May 2009 
-
+Brussels, 14 May 2009
 
 ## Página 81
+
 
 
 ## Página 82
 
 
+
 ## Página 83
+
 
 
 ## Página 84
 
 
+
 ## Página 85
+
 
 
 ## Página 86
 
 
+
 ## Página 87
+
 
 
 ## Página 88

@@ -12,8 +12,8 @@ tokens_in: 24817
 tokens_out: 16881
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-verificacion: revisar
-avisos: ["página 7: ratio 2.20", "página 11: cifras largas: faltan 1/4 (25%)", "página 21: ratio 1.85"]
+verificacion: ok
+notas_cifras: ["página 1: cifras cortas: 1/12", "página 5: cifras cortas: 2/14", "página 6: original bilingüe: se compara contra el idioma principal (EN); cifras cortas: 1/30", "página 7: original bilingüe: se compara contra el idioma principal (HR); ratio 2.10", "página 18: cifras cortas: 2/30", "página 21: original bilingüe: se compara contra el idioma principal (HR)"]
 ---
 
 ## Página 1
@@ -204,22 +204,22 @@ Factores organizativos:
 
 ## Página 7
 
-- la respuesta no oportuna del operador ferroviario externo en la estación de Škrljevo a los valores de velocidad del viento leídos (Capítulo 4.2.5), 
-- los valores de la masa de los contenedores vacíos de 40 ′ especificados en la Instrucción HŽI-451 (Capítulo 3.6.3) son inferiores a los valores estándar (Capítulo 3.12.). 
-### Recomendaciones de seguridad 
-La Agencia de Investigación de Accidentes en el Transporte Aéreo, Marítimo y Ferroviario, basándose en la investigación llevada a cabo de este accidente, con el fin de mejorar la seguridad del sistema ferroviario, emite las siguientes recomendaciones de seguridad a la Agencia de Seguridad Ferroviaria: 
-## AIN/06 SR 10/2020: 
-El Gestor de la Infraestructura debe instalar un dispositivo adicional para medir la velocidad del viento (Capítulo 4.2.6) de acuerdo con los cambios en el entorno procedentes del norte por encima de la estación de Škrljevo. 
-## AIN/06 SR 11/2020: 
-El Gestor de la Infraestructura debe actualizar la Instrucción HŽ-451, tras un análisis adicional de las condiciones para el transporte de contenedores vacíos de tipo High Cube con respecto a los valores brutos de la masa de los contenedores (Capítulos 3.1.2 y 4.2.2). 
-### 2. DATOS DEL INCIDENTE 
-## 2.1. 
-### Descripción del incidente 
-El 05 de mayo de 2019, en la línea M202 en el pk 640+632 en la estación de Škrljevo (figuras 1 y 2), durante el paso del tren de mercancías número 62006 por el tercer vía, se produjeron la caída de dos contenedores vacíos de los vagones de mercancías de la serie Rgs. El tren número 62006 estaba compuesto por 14 vagones de mercancías (cinco vagones de la serie Rgs, cuatro Lgss y cinco vagones Eas cargados con hierro. De los vagones de la serie Rgs 31 55 391 7628-1 y 31 55 391 7614-1 se produjeron la caída de contenedores vacíos. El maquinista del tren 62006 no observó ninguna irregularidad durante la conducción, sino que los contenedores mencionados anteriormente fueron observados a las 15:55 horas por el maquinista del tren 89957 durante el paso por la estación de Škrljevo y se informó del mismo al despachador de tráfico. Mediante la revisión de los diarios de tráfico se estableció que el tren anterior número 62006 tenía en su composición vagones que transportaban contenedores vacíos, y alrededor de las 17:45 horas, durante la inspección del tren 62006, se estableció que faltaban contenedores del mismo. 
-Los contenedores caídos se encontraron en la primera vía de estacionamiento en la estación de Škrljevo apoyados en el poste de la red de contacto número 23., debido a la caída de los contenedores sobre el poste, este resultó dañado, y la primera vía de estacionamiento se cerró al tráfico alrededor de las 18:15 horas. 
-Durante el incidente mencionado no hubo heridos, y se estableció un daño material en la red de contacto, la vía y los contenedores implicados. 
-### 2.1.1. Notificación del incidente 
-La AIN recibió la notificación del incidente en las horas de la tarde del 05 de mayo de 2019 por parte del despachador principal del gestor de la infraestructura. Sobre la base de la información recopilada, se decidió que los investigadores de accidentes ferroviarios de la AIN se presentarían en el lugar del incidente para realizar la inspección ocular. Tras la realización de la inspección ocular al día siguiente y la recopilación de la información, se estableció que en el accidente en cuestión se había puesto en peligro la seguridad del sistema ferroviario, por lo que el investigador principal de accidentes ferroviarios adoptó la decisión de iniciar
+- respuesta no oportuna del operador ferroviario externo en la estación de Škrljevo ante los valores de velocidad del viento del este (Capítulo 4.2.5),
+- los valores de masa de los contenedores vacíos de 40 ′ especificados en la Instrucción HŽI-451 (Capítulo 3.6.3) son inferiores a los valores estándar (Capítulo 3.12.).
+### Recomendaciones de seguridad
+La Agencia de Investigación de Accidentes en el Transporte Aéreo, Marítimo y Ferroviario, con base en la investigación realizada sobre este accidente, con el fin de mejorar la seguridad del sistema ferroviario, emite las siguientes recomendaciones de seguridad a la Agencia de Seguridad Ferroviaria:
+## AIN/06 SR 10/2020:
+El Gestor de Infraestructura debe instalar un dispositivo adicional para medir la velocidad del viento (Capítulo 4.2.6) de acuerdo con los cambios en el entorno desde el norte por encima de la estación de Škrljevo.
+## AIN/06 SR 11/2020:
+El Gestor de Infraestructura debe actualizar la Instrucción HŽ-451, tras un análisis adicional de las condiciones de transporte de contenedores vacíos del tipo High Cube en relación con los valores brutos de masa de los contenedores (Capítulos 3.1.2 y 4.2.2).
+### 2. DATOS DEL SUCESO
+## 2.1.
+### Descripción del suceso
+El día 05 de mayo de 2019 en la línea M202 en el pk 640+632 en la estación de Škrljevo (figuras 1. y 2.), durante el paso del tren de mercancías número 62006 por la 3.ª vía, se produce la caída de dos contenedores vacíos de los vagones de mercancías de la serie Rgs. El tren número 62006 estaba compuesto por 14 vagones de mercancías (cinco vagones de la serie Rgs, cuatro Lgss y cinco vagones Eas cargados con hierro. De los vagones de la serie Rgs 31 55 391 7628-1 y 31 55 391 7614-1 se produce la caída de los contenedores vacíos. El maquinista del tren 62006 durante la marcha no observó ninguna anomalía, sino que los contenedores mencionados anteriormente fueron observados a las 15:55 horas por el maquinista del tren 89957 durante el paso por la estación de Škrljevo, del que informó al despachador de tráfico. Del examen de los diarios de tráfico se constató que el tren anterior número 62006 tenía en su composición vagones que transportaban contenedores vacíos, por lo que alrededor de las 17:45 horas, durante la inspección del tren 62006, se constató que del mismo faltaban contenedores.
+Los contenedores caídos fueron encontrados en la 1.ª vía de garaje en la estación de Škrljevo apoyados contra el poste de la red de contacto número 23., debido a la caída del contenedor el poste resultó dañado, por lo que la 1.ª vía de garaje se cierra al tráfico alrededor de las 18:15 horas.
+Durante el incidente mencionado nadie resultó herido, y se constató daño material en la red de contacto, la vía y los contenedores implicados.
+### 2.1.1. Notificación del suceso
+AIN recibió la notificación del incidente durante la noche del día 05 de mayo de 2019 por parte del jefe de despacho del gestor de infraestructura. Con base en la información recopilada se decidió que los investigadores de accidentes ferroviarios de AIN acudieran al lugar del suceso para realizar la inspección. Tras la inspección realizada al día siguiente y la información recopilada, se determinó que en el accidente en cuestión se había producido una amenaza a la seguridad del sistema ferroviario, por lo que el jefe de investigación de accidentes ferroviarios adoptó la decisión de iniciar
 
 ## Página 8
 
@@ -306,14 +306,15 @@ A fin de facilitar la lectura, en la tabla siguiente se ha utilizado la taxonom�
 
 ## Página 11
 
-### 2.3.2. Carga, equipaje y demás bienes 
-Cinco vagones de la serie Rgs y cuatro vagones de la serie Lgss del tren 62006 transportaban contenedores vacíos, mientras que cinco vagones de la serie Eas transportaban chatarra de hierro. Los contenedores (figura 4.) APHU-703070-2 45G1 y TGHU-633376-8 45G1, que cayeron de los vagones de carga de la serie Rgs, eran contenedores de 40 pies de tipo High Cube (altura de 9'6"), es decir, contenedores de mayor altura en comparación con la altura estándar de los contenedores de 7'8". En los contenedores de tipo High Cube, la cara lateral tiene una superficie aproximadamente un 25 % mayor en comparación con la altura estándar. 
-Figura 4. – Contenedores de 40 pies de tipo High Cube en el lugar del incidente (fuente de la imagen: AIN) 
-### 2.3.3. Vehículos, infraestructura y entorno 
-En este incidente se produjeron daños materiales considerables en los contenedores caídos, así como daños menores en la infraestructura ferroviaria.  
-## 2.4. 
-### Factores externos 
-Las condiciones meteorológicas en el lugar y durante el incidente fueron desfavorables para la circulación ferroviaria. Era de día, llovía con ráfagas de viento (tramontana), la temperatura era de 10 °C y la visibilidad era buena.
+### 2.3.2. Mercancías, equipaje y otros bienes
+Cinco vagones de la serie Rgs y cuatro vagones de la serie Lgss en la composición del tren 62006 transportaban contenedores vacíos, mientras que cinco vagones de la serie Eas transportaban hierro viejo. Los contenedores (figura 4.) APHU-703070-2 45G1 y TGHU-633376-8 45G1, que se desprendieron de los vagones de mercancías de la serie Rgs, eran contenedores de 40′ tipo High Cube (altura 9′6"), algo más altos en comparación con la altura estándar de los contenedores de 7′8". En los contenedores tipo High Cube, el lateral es aproximadamente un 23% mayor en superficie en comparación con la altura estándar.
+Figura 4. – Contenedores de 40" tipo High Cube en el lugar del incidente (fuente de la imagen: AIN)
+### 2.3.3. Vehículos, infraestructura y entorno
+En este incidente se produjo un daño material considerable en los contenedores desprendidos, así como un daño menor en la infraestructura ferroviaria.
+## 2.4.
+### Circunstancias externas
+Las condiciones meteorológicas en el lugar y durante el suceso fueron desfavorables para el desarrollo del tráfico ferroviario.
+Era de día, llovía con ráfagas de viento (tramontana), la temperatura era de 100C y la visibilidad era buena.
 
 ## Página 12
 
@@ -536,26 +537,25 @@ La estación ferroviaria de Škrljevo se encuentra en el pk 641+242 de la línea
 
 ## Página 21
 
-Škrljevo se encuentra bajo la influencia de los vientos tramontana (norte) y bura (noreste). Por encima de una parte de la estación de Škrljevo (imagen 8.) se encuentra la zona de la cantera de Škrljevo, donde, durante la explotación a lo largo de los años, se han producido determinados cambios en el paisaje. 
+Škrljevo se encuentra bajo la influencia de los vientos tramontana (norte) y bura (noreste). Sobre una parte de la estación de Škrljevo (imagen 8.) se encuentra la zona de la cantera de Škrljevo, donde a lo largo de los años de explotación de la misma se han producido determinados cambios en el paisaje. 
 norte 
 sur 
 Imagen 8. Zona de la estación de Škrljevo vista aérea (fuente de la imagen: Google Earth )  
-### 3.12. Contenedores para el transporte de mercancías
-
-Los contenedores son equipos de transporte manipulativos, generalmente en forma de recipiente cerrado (de forma cuadrada), que sirven para formar unidades de carga manipulativas de gran tamaño con el fin de racionalizar las operaciones de manipulación y almacenamiento. 
-Las longitudes estándar de los contenedores son de 20', 40', 45' y 48', y existen tres alturas diferentes de contenedores: 7'8", 8'6" y 9'6". 
-Asimismo, según su destino, distinguimos los siguientes tipos de contenedores: 
+### 3.12. Contenedores para el transporte de mercancías 
+Los contenedores son equipos de manipulación de transporte, generalmente en forma de recipiente cerrado (de forma cuadrada), que sirve para formar grandes unidades de manipulación de mercancías con el fin de racionalizar las operaciones de manipulación y almacenamiento. 
+Las longitudes estándar de los contenedores son de 20′, 40′, 45′ y 48′, y existen tres alturas diferentes de contenedor: 7′8", 8′6" y 9′6". 
+Asimismo, según su uso, distinguimos los siguientes tipos de contenedor: 
 - 
-generales, 
+general, 
 - 
-refrigerados, 
+refrigerado, 
 - 
-abiertos, 
+abierto, 
 - 
 plataforma, 
 - 
-tanques. 
-El volumen del contenedor varía en función de la longitud y la altura, y oscila entre 33 m3 y 86 m3 .  
+cisterna. 
+El volumen del contenedor varía según la longitud y la altura, y oscila entre 33 m3 y 86 m3 .  
 Resumen de las dimensiones estándar de los contenedores (imagen 9.)
 
 ## Página 22

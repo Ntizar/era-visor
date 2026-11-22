@@ -10,13 +10,13 @@ chars: 45213
 ratio_longitud: 1.24
 tokens_in: 18523
 tokens_out: 33257
-verificacion: revisar
-notas_cifras: ["bloque 2: cifras largas: 1/19", "bloque 5: cifras cortas: 81/94"]
-avisos: ["bloque 5: marcadores de página: 3 vs 1; cifras largas: faltan 31/42 (74%); ratio 2.13"]
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
 ---
+
 ## Página 1
+
 
 •1 
 Oficina Federal de 
@@ -37,16 +37,16 @@ Accidente en paso a nivel
 | Número de línea: | 1720 |
 | Kilómetro: | 195 136 , |
 
-
 ## Página 2
+
 
 Publicado por: 
 Oficina Federal de Investigación de Accidentes Ferroviarios 
 Heinemannstraße 6 
-53175 Bonn 
-
+53175 Bonn
 
 ## Página 3
+
 
 ### Índice 
 ## I. 
@@ -97,10 +97,10 @@ Investigación de la técnica de mando y seguridad (LST) .......................
 Investigación de los procesos operativos del gestor de infraestructura ............... 14 
 4.6 
 Investigación de los procesos operativos de las EVU ........................................... 14 
-I 
-
+I
 
 ## Página 4
+
 
 4.7 
 Investigación de los vehículos ............................................................................. 16 
@@ -114,10 +114,10 @@ Investigación de los vehículos ...............................................
 ### Índice de modificaciones: 
 Modificación 
 Fecha de 
-II 
-
+II
 
 ## Página 5
+
 
 ## II. 
 ### Índice de figuras: 
@@ -133,10 +133,10 @@ Tabla 1: Resumen de daños personales ..........................................
 Tabla 2: Resumen de la cuantía estimada de los daños ......................................................... 7 
 Tabla 3: Orden de vagones DPN 83467 .................................................................................. 16 
 Tabla 4: Datos del tren ..........................................................................................................16 
-III 
-
+III
 
 ## Página 6
+
 
 ## IV. 
 ### Índice de abreviaturas: 
@@ -192,6 +192,7 @@ IV
 
 ## Página 7
 
+
 ### 1 Notas previas
 El capítulo Notas previas se ocupa de información general sobre la Oficina Federal de Investigación de Accidentes Ferroviarios (BEU). En él se menciona la base legal y se describe brevemente la estructura organizativa.
 ### 1.1 Nota organizativa
@@ -201,30 +202,29 @@ Mediante la Ley de reorganización de la investigación de accidentes ferroviari
 Dado que el suceso peligroso se produjo antes de la creación de la BEU, determinadas actuaciones de investigación fueron realizadas aún por la EUB, a las que se hace la correspondiente referencia en el informe. Todos los hallazgos obtenidos durante la investigación se compartieron de forma continua con los ferrocarriles afectados y con la autoridad de seguridad, y se emitieron recomendaciones de seguridad de carácter individual.
 A este respecto se puede consultar información más detallada en internet en www.beu.bund.de.
 
-
 ## Página 8
+
 
 ### 1.2 Objeto de la investigación de accidentes ferroviarios
 El objeto y la finalidad de las investigaciones es aclarar las causas de los sucesos peligrosos y extraer de ellos indicaciones para mejorar la seguridad. Las investigaciones de la BEU no sirven para determinar responsabilidades ni para aclarar cuestiones de responsabilidad civil u otras reclamaciones de derecho civil, y se llevan a cabo con independencia de cualquier investigación judicial.
 La investigación abarca la recopilación y evaluación de información, la elaboración de conclusiones, incluida la determinación de las causas y, en su caso, la emisión de recomendaciones de seguridad. Las propuestas del organismo de investigación para evitar accidentes y mejorar la seguridad en el tráfico ferroviario se comunican a la autoridad de seguridad y, en la medida necesaria, a otros organismos y autoridades o a otros Estados miembros de la UE en forma de recomendaciones de seguridad.
 
-
 ## Página 9
 
 ### 2 Resumen
-El capítulo se ocupa de una breve descripción del desarrollo del suceso, de sus consecuencias y de las causas primarias. Finalmente, se enumeran las recomendaciones de seguridad que, en su caso, se hayan emitido.
+El capítulo aborda una breve descripción de la secuencia de los hechos, las consecuencias y las causas primarias. Finalmente, se enumeran las recomendaciones de seguridad que, en su caso, se hayan emitido.
 ### 2.1 Descripción breve del suceso
-El 16.09.15, hacia las 07:43 h, el tren de cercanías DPN 83467 de la empresa de transporte ferroviario (EVU) Metronom Eisenbahngesellschaft mbH, en el recorrido Hamburg Hbf − Cuxhaven, entre las estaciones de Buxtehude y Horneburg, colisionó con un autobús articulado en el paso a nivel (BÜ) protegido técnicamente.
+El 16.09.2015 hacia las 07:43 h, el tren de cercanías DPN 83467 de la empresa de transporte ferroviario (EVU) Metronom Eisenbahngesellschaft mbH, en el recorrido Hamburg Hbf − Cuxhaven, entre las estaciones de Buxtehude y Horneburg, colisionó con un autobús articulado en el paso a nivel (BÜ) protegido técnicamente.
 ### 2.2 Consecuencias
 En el suceso resultaron heridas tres personas de carácter leve.
 Se produjeron daños materiales en la infraestructura ferroviaria y en los vehículos ferroviarios y por carretera por un importe de 1.360.000 euros.
 ### 2.3 Causas
-Debido a un error de conducción de la conductora del autobús, favorecido por la trazada local de la carretera, el autobús articulado se detuvo en el paso a nivel con el sistema de seguridad del paso a nivel (BÜSA) desconectado. A la conductora no le fue posible despejar el paso a nivel a tiempo.
+Debido a un error de conducción de la conductora del autobús, agravado por la trazada de la vía local, el autobús articulado se detuvo en el BÜ con el sistema de seguridad del paso a nivel (BÜSA) desconectado. A la conductora no le fue posible despejar el BÜ a tiempo.
 ### 2.4 Recomendaciones de seguridad
 No se emitieron recomendaciones de seguridad.
 
-
 ## Página 10
+
 
 ### 3 Datos generales
 El capítulo contiene datos generales para la descripción del lugar del suceso y de las infraestructuras ferroviarias relevantes. Asimismo, se indican los organismos que participaron y colaboraron en la investigación del accidente, las condiciones exteriores, el número de personas heridas y fallecidas en el suceso, así como el tipo y el importe de los daños consecuentes.
@@ -232,8 +232,8 @@ El capítulo contiene datos generales para la descripción del lugar del suceso 
 El 16.09.2015, DPN 83467 circulaba con carácter regular en el recorrido Hamburg Hbf − Cuxhaven. Para ello se recorrió la línea Lehrte, W 35 − Cuxhaven de la empresa de infraestructura ferroviaria (EIU) DB Netz AG. Esta línea se designa, según el catálogo de velocidades localmente admisibles (VzG), con el número 1720. En el tramo del lugar del accidente, según el VzG, se admite una velocidad de 140 km/h y una distancia de frenado de 1.000 m. La línea está equipada con el sistema de seguridad de trenes de la interferencia puntual de la conducción (PZB) y con el radio digital de trenes Global System for Mobile Communications Railway (GSM-R).
 El lugar del accidente se encontraba en el kilómetro 195,136 del paso a nivel «Mühlenkampstraße». Las estaciones próximas eran las de Buxtehude y Horneburg.
 
-
 ## Página 11
+
 
 e
 d
@@ -254,8 +254,8 @@ Abbildung 1: Plano de situación1
 El croquis general que se muestra a continuación indica el lugar de la colisión en el paso a nivel («Mühlenkampstraße» / kilómetro ferroviario 195,138), el recorrido previsto del autobús, la posición del autobús tras el suceso y el sentido de circulación del tren DPN 83467.
 1 Fuente: Datos geobásicos: © GeoBasis-DE / BKG [2020], editado por BEU
 
-
 ## Página 12
+
 
 EB
 N
@@ -275,6 +275,7 @@ Las condiciones exteriores, como por ejemplo el tiempo, no guardaban ninguna rel
 2 Fuente: Plano IVL de DB Netz AG editado por BEU
 
 ## Página 13
+
 
 ### 3.4 Fallecidos, heridos y daños materiales
 Según los últimos conocimientos, se produjeron las siguientes lesiones personales:
@@ -313,14 +314,14 @@ Tabla 2: Resumen de la cuantía estimada de los daños
 Las siguientes figuras ofrecen una impresión de los daños producidos en el material rodante y en la instalación del paso a nivel.
 La figura 3 muestra el punto de colisión en el paso a nivel con la BÜSA activada. El extremo trasero del autobús articulado está fuertemente dañado por la colisión con el tren DPN 83467. La figura 4 muestra el coche de mando biplanta del DPN 83467 en vista frontal con los daños producidos por la colisión.
 
-
 ## Página 14
+
 
 Figura 3: Punto de colisión
 Figura 4: Cabeza de tren DPN 83467
 
-
 ## Página 15
+
 
 ### 4 Protocolo de investigación
 En este capítulo se presentan los resultados obtenidos sobre las distintas áreas parciales del ferrocarril relacionadas con el suceso. Asimismo, se examinaron las correspondientes interfaces así como la gestión de la seguridad (SMS) en el ámbito afectado. Los hallazgos relevantes en cada caso se exponen de forma continuada.
@@ -332,8 +333,8 @@ En este suceso, la notificación a los primeros equipos de intervención (bomber
 A partir de distintos dispositivos de registro de vehículos ferroviarios y de carretera, se pudo determinar el momento de la colisión a las 07:43 horas. El autobús articulado ya se encontraba en el paso a nivel desde hacía algún tiempo antes de la colisión. El centro de operaciones de la DB Netz AG fue el último en enterarse de la anomalía por parte del EVU Metronom.
 A continuación se reconstruye la gestión de emergencias a partir de las conversaciones telefónicas y por radio de tren mantenidas, así como de las anotaciones del centro de rescate y gestión de emergencias.
 
-
 ## Página 16
+
 
 Hora
 Emisor
@@ -391,8 +392,8 @@ Tf tren 83467
 Comunicación sobre el cierre de todas las vías y la alerta a los equipos de rescate. Intercambio de información adicional sobre la situación del accidente.
 Tabla 3: desarrollo cronológico de la gestión de emergencias
 
-
 ## Página 17
+
 
 ### 4.3 Examen de la infraestructura de construcción
 La verificación de la infraestructura de construcción no arrojó indicios de defectos ni otras anomalías. Debían excluirse déficits de mantenimiento relacionados con el suceso. Los daños en la calzada y en la instalación del paso a nivel eran, sin duda, daños consecuenciales del suceso.
@@ -403,14 +404,15 @@ Debido a unas obras de construcción extensas en la capa de rodadura de la B73 e
 
 ## Página 18
 
+
 la autoridad estatal de Baja Sajonia para la construcción y el tráfico de carreteras (Niedersächsischen Landesbehörde für Straßenbau und Verkehr) se dictó una orden administrativa de construcción de carreteras (n.º 35.00-15). El contenido de la misma incluía, entre otros, la restricción del tráfico en la B 73 (cierre total o tráfico de residentes en un solo sentido en dirección oeste) así como la desviación del tráfico de la carretera federal. La desviación se realizó a gran escala por Horneburg – L 130 – Apensen – L 127 – Buxtehude. La orden administrativa de construcción de carreteras no indicaba ninguna ruta de desviación específica para el tráfico de autobuses. Únicamente se estableció una regulación de sentido único en dirección este para la calle «Am Mühlenbach», paralela a la línea ferroviaria, a fin de que allí no se produjeran mayores molestias al tráfico debido a los previsibles tráficos de paso. Asimismo, con ello se pretendía dar a los residentes, vecinos, al suministro y retirada de mercancías y al tráfico de autobuses la posibilidad de una conexión suficiente con la red viaria de continuidad. Con anterioridad se habían celebrado reuniones de coordinación, en las que participaron, entre otros, la KVG, la ciudad hanseática de Buxtehude y la comisaría de policía de Stade. Según las investigaciones, en el marco de dicha reunión de coordinación se acordó la desviación del tráfico de línea y escolar por el paso a nivel, lo que indirectamente tuvo en cuenta la orden administrativa de construcción de carreteras mencionada. La ciudad de Buxtehude comunicó oficialmente a la KVG, en un escrito de 29.07.2015, la ruta de desviación del tráfico de línea y escolar por el paso a nivel «Mühlenkampstraße».
 No se habían celebrado reuniones de coordinación con el gestor de la infraestructura ferroviaria (EIU) de la línea ferroviaria que cruza.
 Según la ciudad hanseática de Buxtehude (responsable de la construcción de carreteras), no se había realizado ninguna inspección del tráfico en el paso a nivel antes de la designación de la ruta de desviación. A la pregunta de la EUB, la justificación fue la siguiente:
 «Desde hace 138 años se celebra el mercado de Pentecostés en la localidad de Neukloster. El mercado de Pentecostés recibe más de 100.000 visitantes en tres días. El mercado se encuentra inmediatamente junto a la B 73. Por este motivo, la carretera federal se cierra desde el sábado a las 12:00 h hasta el martes a las 03:00 h.
 Para este fin, el paso a nivel de Jorker Straße se cierra al tráfico de paso. El tráfico se desvía antes de dicho paso a nivel hacia la calle «Am Mühlenbach» por el paso a nivel «Mühlenkampstraße». Esta ruta se designa entonces como calle de sentido único.
 
-
 ## Página 19
+
 
 En el marco de la inspección del tráfico (comisaría de policía de Stade, comisaría de policía de Buxtehude, cuadrillas de mantenimiento de carreteras de Stade y Bliedersdorf, entre otros) –cierre de la B 73 con rutas de desviación–, se realiza anualmente una parada en el paso a nivel de Mühlenkampstraße. No se han detectado anomalías. En los muchos transcurridos no se han producido incidentes. (…)»
 Medante una plantilla de curva de arrastre colocada sobre el plano general del paso a nivel, quedó claramente visible que la superficie de la curva de arrastre excedía la superficie de circulación existente. De este modo, quedaba acreditada la demostración teórica de la impracticabilidad del paso a nivel por parte de un autobús articulado. Esto también lo pusieron de manifiesto las pruebas realizadas tras el accidente, en las que solo a conductores con muchos años de rutina les fue posible cruzar dicho paso a nivel sin detenerse ni maniobrar con un vehículo de este tipo.
@@ -430,10 +432,10 @@ Abbildung 6: Schleppkurve Gelenkbus an BÜ „Mühlenkampstraße“
 ### 4.4 Untersuchung der Leit- und Sicherungstechnik (LST) 
 Die LST-Anlagen arbeiteten zum Zeitpunkt des Ereignisses fehlerfrei, Störungen lagen nicht vor. 
 
-Bei dem BÜ 32 („Mühlenkampstraße“) handelte es sich um einen fernüberwachten und durch Lichtzeichen und Halbschranken technisch gesicherten BÜ des Anlagentyps EBÜT 80 LzH-Fü. 
-
+Bei dem BÜ 32 („Mühlenkampstraße“) handelte es sich um einen fernüberwachten und durch Lichtzeichen und Halbschranken technisch gesicherten BÜ des Anlagentyps EBÜT 80 LzH-Fü.
 
 ## Página 20
+
 
 En la revisión de la documentación de planificación, incluido el cálculo de los tramos de activación, no se detectaron desviaciones respecto a las prescripciones. El pasaporte de paso a nivel presentado tenía un contenido incompleto y parcialmente carente de datos. Las inspecciones ferroviarias periódicas pudieron acreditarse. La última inspección del tráfico en el paso a nivel se realizó el 21.04.2009.
 En su conjunto, el paso a nivel cumplía plenamente los requisitos de la EBO y de la DB-Ril 815. La evaluación de los ordenadores de la BÜSA no arrojó indicios de irregularidades ni de averías en la instalación. La instalación se activó correctamente por efecto del paso de un tren y funcionaba sin problemas en el momento del suceso.
@@ -449,13 +451,133 @@ El tren circulaba en dirección de la numeración ascendente de puntos kilométr
 ## Página 21
 
 Richtung Buxtehude. Die zulässige Streckenhöchstgeschwindigkeit von 140 km/h wurde im ausgewerteten Bereich nicht überschriten.
-Um 07:42:24 DSK-Zeit, in km 194,732 (bezogen auf die vorgenommene Normierung) ist das Abfallen des HauptluŌleitungsdruckes unter 2,2 bar registriert („Registrierungsspur HauptluŌleitung“ wechselt von L nach −). Dieser Wert entspricht einer wirksamen Schnellbremsung.
+
+Um 07:42:24 DSK-Zeit, in km 194,732 (bezogen auf die vorgenommene Normierung) ist das Abfallen des HauptluŌleitungsdruckes unter 2,2 bar registriert („Registrierungsspur HauptluŌleitung" wechselt von L nach −). Dieser Wert entspricht einer wirksamen Schnellbremsung.
+
 Der Zug durchfuhr nach registriertem Einleiten der Schnellbremsung bis zum Halt eine Wegstrecke von ca. 445 Metern. Etwa in Streckenkilometer 195,136 befuhr der Steuerwagen den BÜ und prallte mit dem Gelenkbus zusammen. Die Geschwindigkeit betrug zu diesem Zeitpunkt ca. 45 km/h. Der Zusammenprall wurde in der EFR nicht registriert.
-Bei einer mitleren ReakƟonszeit des Tf von ca. 2 Sekunden und einer Bremsentwicklungszeit von ca. 1 Sekunde durchfuhr der Zug einen Weg von etwa 115 Meter. Demnach musste der Tf die Gefahr etwa 520 Meter vor dem BÜ erkannt haben. Er setzte einen langen Achtungspﬁﬀ - Zp 1- ab. Kurz vor dem Zusammenprall ﬂüchtete er sich in den hinteren Bereich des Führerstandes. Der Zug kam um 07:42:48 DSK-Zeit, nach einem Anhalteweg von ca. 560 m, in km 195,177 zum Stehen.
+
+Bei einer mitleren ReakƟonszeit des Tf von ca. 2 Sekunden und einer Bremsentwicklungszeit von ca. 1 Sekunde durchfuhr der Zug einen Weg von etwa 115 Meter. Demnach musste der Tf die Gefahr etwa 520 Meter vor dem BÜ erkannt haben. Er setzte einen langen Achtungspﬁﬀ -Zp 1- ab. Kurz vor dem Zusammenprall ﬂüchtete er sich in den hinteren Bereich des Führerstandes. Der Zug kam um 07:42:48 DSK-Zeit, nach einem Anhalteweg von ca. 560 m, in km 195,177 zum Stehen.
+
 ·----=---~-
-I.QO •••••••••••••••••••••'••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
+I.QO •••••••••••••••••••••'•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••H•••••••••••••••••••••••••••••••••••••••••••••••••••••••••ooOOOOOOOOOO•OOOOOOOO,OOOOOOOOOOO,oO
+lle -
+....,..,,
+tJlO -
+• --
+. - . --- --- --- --- . --- - --- --- --- . --- --- -- • -- -- - . --- ---
+~
+blu ~
+16~.2()1S 0!·~ :2'
+# 0 -
+.... .. . . . -:= ~~~S:~ j ca B0 km 195,138
+19'.732km
+= . . ; . . . ..
+16~.2()1S 07~:<e
+1
+19S,, 171 km
+### ________ N
+### _____ _
+!
+----.......
+~
+OOc00·24
+~ •.... --····-·••: :: :•••: ••• ·:: :••······· --· --·········- .... -· ..............••.... ::• :: ....••••. ···~~
+0,445 km
+•138
+• =•••=·•
+i
+.i&[I
+-
+.................. ;
+"'··················•• .•··········· .. ······················································································ ............................................................... .
+~ :
+.......................................................................................................................................... :
+.. :: ... :::..:
+....
+....
+....
+....
+... ,
+.................... , ........... , .............. , .............. , ............ ,., .................... , ............ , .............. , .............. , ............ ,.,, ............. ,,.,,., ..
+V:Uebo<w.J'""'9 ,_
+W· e.dlil,'~~T
+G.-t>,ng&IOH:
+z,z_.,..._
+8 Bed. ~Sll
+1.:...,,..,......,.
+r.8Ntnll 2GOCl-lz
+v. V d.i >U.....11000Hzj
+~vJet~IJM{~•
+e.;f:;insch311111 lndus.l
+1 FUffl'anbnd 1
+•••••• .... • .. ••••••• • .. , ... .,, •• , .............. , .............. , .......... u,••••• .. •• .... ••• •••••••• ........... , .............. , .............. , ...... ...... ,,., .. ,,,,,.,., •• , ....... .
+2.Futl'wenundl2
+1: lnd.-Sl4txh .JUi
+I·-•-
+0- Zug,d,,11_ ... , 0
+u.~
+I.Bldien.füh"tcbf.
+... ,
+-~·
+ü.l.letl«N.te!lllklrl
+,o ..
+1"51
+10\0
+Abbildung 7: Graﬁsche Darstellung der EFR-Daten
+
+Der Tf leitete nach dem Stillstand des Zuges einen Notruf ein.
+
+## Página 22
+
+### 4.7 Examen de los vehículos
+En el capítulo siguiente se presentan la composición del tren implicado en el suceso y los resultados del examen del autobús articulado.
+### 4.7.1 Composición del tren DPN 83467
+El tren DPN 83467 estaba compuesto por un vehículo de tracción dieléctrico-eléctrico del fabricante Bombardier, denominado Traxx P160, y cinco coches de doble piso. El tren circulaba con el coche de mando con el número 55 80 8673 311-7 en cabeza. El vehículo de tracción con el número de vehículo 92 80 1246 006-1 se encontraba en la cola del tren.
+Carácter de clase Tipo de coche
+N.º ord.
+Número de vehículo
+1
+55 80 8673 311-7
+DABpbzkfa
+Coche de mando de doble piso 1.ª + 2.ª clase
+2
+55 80 9673 211-7
+DBdpza
+Coche de doble piso 2.ª clase
+3
+55 80 2673 321-9
+DBpza
+Coche de doble piso 2.ª clase
+4
+55 80 2673 311-0
+DBpza
+Coche de doble piso 2.ª clase
+5
+55 80 9673 311-5
+DBdpza
+Coche de doble piso 2.ª clase
+Tabla 4: Ordenación de coches DPN 83467
+Todos los frenos estaban conectados y eficaces. Los cambios de posición de freno se encontraban en la posición prevista según el horario. El tren tenía, de acuerdo con la hoja de freno permanente, los siguientes datos de tren:
+Peso total del tren
+Peso total de frenado
+Número total de ejes
+Centésimas de freno disponibles
+Longitud total del tren
+379 t
+790 t
+24
+208
+154 m
+Tabla 5: Datos del tren
+No se ordenó un examen técnico integral de los vehículos ferroviarios, ya que no se detectaron anomalías, especialmente desde el punto de vista del sistema de frenado. Se descarta un defecto técnico en los vehículos ferroviarios como causa del accidente o como factor que contribuyera al mismo.
+
+## Página 23
+
+### 4.7.2 Examen del autobús articulado
+Por encargo de la KVG se encargó, tras el suceso, un peritaje que se encuentra en poder de la EUB. Debido a los daños masivos en el vehículo, el alcance de la investigación quedó limitado. No obstante, el perito automovilístico, tras evaluar el registrador de datos de accidentes y la inspección técnica del vehículo, concluyó en su peritaje E 0915097 que la técnica del autobús no fue la causante del accidente. De lo contrario, habrían existido registros en la unidad de control del motor del autobús. Los componentes pedal de aceleración y pedal de freno funcionaban sin incidencias desde el punto de vista de la regulación y el control. En caso de un defecto técnico del motor, se habrían podido detectar entradas erróneas en el sistema. Asimismo, el peritaje indica que, debido a la entrada incorrecta en la curva a la derecha tras el paso a nivel, probablemente haya sido necesario marcha atrás. De este modo, el autobús articulado, ya inclinado, habría amenazado con plegarse aún más. En ese momento se habría activado la protección contra el plegado prevista constructivamente. Con ello, para proteger las articulaciones, se habría producido un frenado automático mediante el freno de parada y, además, la desactivación del pedal de aceleración. Según el peritaje, esto tuvo como consecuencia que, mientras se mantengan el ángulo de dirección y la selección del sentido de marcha, no es posible una activación efectiva del pedal de aceleración.
 
 ## Página 24
+
 
 ### 5 Evaluación
 El capítulo 5 Evaluación se ocupa de la reconstrucción del suceso. A partir de las constataciones mencionadas anteriormente, se elabora un transcurso plausible del suceso peligroso. Los hallazgos relevantes se evalúan a continuación y conducen, en su caso, a las conclusiones correspondientes.
@@ -472,6 +594,7 @@ A partir de las huellas del accidente en el lugar, pudo determinarse con gran pr
 
 ## Página 25
 
+
 Un pequeño error de conducción de la conductora del autobús al tomar la curva a derecha situada detrás del paso a nivel hacia la calle «Am Mühlenbach» provocó que el autobús permaneciera detenido sobre la vía. El retroceso posterior de la conductora, con el objetivo de volver a abordar la curva, lo impidió la protección contra el vuelco instalada en el autobús articulado. De este modo, se bloqueó desde el vehículo el nuevo arranque. Posiblemente, en esta situación, la conductora asumió erróneamente que el motor estaba parado. El ruido de fondo producido por los pasajeros presentes hizo probablemente que no percibiera el ruido del motor.
 
 De acuerdo con la regulación de señalización vial descrita en el capítulo 4.3, el autobús no habría podido circular en principio por el paso a nivel. Su idoneidad como ruta desviada para el autobús no existía, debido a la regulación de señalización vial, pero principalmente por la curva de arrastre insuficiente.
@@ -483,6 +606,7 @@ El Tf emitió dos llamadas de emergencia, en las que, sin embargo, no transmiti�
 Casi simultáneamente, una testigo realizó la llamada de emergencia. La conductora del autobús no marcó el número 112 ni antes ni después del suceso. Antes del accidente, comunicó una avería del vehículo y el paso a nivel ocupado a la central de mando de la KVG. Se cumplió así la «Instrucción de servicio para la explotación con autobuses (DF Bus) complementada con las disposiciones locales de la KVG Stade GmbH & Co KG». Cuando se cerraron las barreras del paso a nivel, comenzó inmediatamente con la evacuación de los escolares que se encontraban en el autobús, de modo que, a continuación, ninguno de los niños resultó perjudicado. En principio, en situaciones de este tipo existe la posib-
 
 ## Página 26
+
 
 ilidad de informar al centro de rescate a través del número de emergencia 112. Este notifica al centro de operaciones de la DB Netz AG, que a su vez puede iniciar medidas para evitar el peligro inminente.
 

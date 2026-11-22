@@ -12,8 +12,8 @@ tokens_in: 39755
 tokens_out: 27306
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-verificacion: revisar
-avisos: ["página 3: cifras largas: faltan 3/6 (50%)", "página 14: ratio 1.95", "página 23: ratio 1.71"]
+verificacion: ok
+notas_cifras: ["página 8: cifras cortas: 4/35", "página 9: cifras cortas: 2/24", "página 11: original bilingüe: se compara contra el idioma principal (HR)", "página 12: original bilingüe: se compara contra el idioma principal (HR)", "página 14: original bilingüe: se compara contra el idioma principal (HR)", "página 20: original bilingüe: se compara contra el idioma principal (HR); cifras largas: 1/7"]
 ---
 
 ## Página 1
@@ -61,17 +61,17 @@ El informe final no podrá utilizarse como prueba en un procedimiento judicial d
 
 ## Página 3
 
-### Prefacio  
-La Agencia de Investigación de Accidentes en el Tráfico Aéreo, Marítimo y Ferroviario (en lo sucesivo: AIN) fue creada por la Ley de Creación de la Agencia de Investigación de Accidentes en el Tráfico Aéreo, Marítimo y Ferroviario (Boletín Oficial de la República de Croacia, número 54/13, 96/18) como persona jurídica con poderes públicos. El fundador de la Agencia es la República de Croacia, y el ejercicio de los derechos de fundación corresponde al Gobierno de la República de Croacia.  
-En el ejercicio de las funciones de la Agencia se aplican disposiciones especiales, es decir, leyes que regulan el tráfico aéreo, la marina mercante, así como la seguridad y la interoperabilidad del tráfico ferroviario, o las disposiciones adoptadas para su aplicación.  
-La Sección de Investigaciones de Accidentes Ferroviarios es una unidad organizativa autónoma e independiente de la AIN que realiza tareas técnicas relacionadas con las investigaciones de incidentes extraordinarios en el tráfico ferroviario en la red ferroviaria de la República de Croacia. Las investigaciones se llevan a cabo sobre la base de las disposiciones de la Ley sobre la Seguridad y la Interoperabilidad del Sistema Ferroviario (Boletín Oficial de la República de Croacia, número 63/20) y de la Directiva (UE) 2016/798 del Parlamento Europeo y del Consejo, de 11 de mayo de 2016, relativa a la seguridad ferroviaria (revisión), así como sobre la base de las directrices de la Agencia Ferroviaria de la Unión Europea.  
-La AIN investiga todos los accidentes ferroviarios graves, es decir, todos los incidentes que impliquen colisión de trenes o descarrilamiento de trenes que tengan como consecuencia la muerte de al menos una persona o lesiones graves de cinco o más personas, o daños importantes en los vehículos, la infraestructura ferroviaria o el medio ambiente, así como cualquier otro accidente similar con un impacto evidente en la seguridad del sistema ferroviario o en la gestión de la seguridad.  
-La AIN puede investigar también aquellos accidentes e incidentes que, bajo circunstancias ligeramente diferentes, podrían haber conducido a accidentes graves, incluidas las averías técnicas en el funcionamiento de subsistemas estructurales o de sus componentes.  
-La AIN realiza investigaciones de seguridad con el fin de prevenir accidentes, lo que incluye la recopilación y análisis de datos, la elaboración de conclusiones, incluida la determinación de factores y, cuando sea procedente, la emisión de recomendaciones de seguridad para prevenir accidentes e incidentes en el futuro y mejorar la seguridad en el tráfico ferroviario.  
+### Prefacio
+La Agencia de Investigación de Accidentes del Transporte Aéreo, Marítimo y Ferroviario (en adelante: AIN) fue creada por la Ley de Creación de la Agencia de Investigación de Accidentes del Transporte Aéreo, Marítimo y Ferroviario («Narodne novine», número 54/13, 96/18) como persona jurídica con competencias públicas. El fundador de la Agencia es la República de Croacia, y los derechos de fundación los ejerce el Gobierno de la República de Croacia. Al modo de realización de las actividades de la Agencia se aplican las disposiciones especiales, es decir, las leyes que regulan el transporte aéreo, la marina, y la seguridad e interoperabilidad del transporte ferroviario, así como las disposiciones adoptadas para su aplicación.
+El Departamento de Investigación de Accidentes del Transporte Ferroviario es una unidad organizativa autónoma e independiente de la AIN que desempeña las funciones profesionales relativas a la investigación de sucesos extraordinarios en el transporte ferroviario en la red ferroviaria de la República de Croacia. Las investigaciones se realizan con base en las disposiciones de la Ley sobre Seguridad e Interoperabilidad del Sistema Ferroviario («Narodne novine», número 63/20) y de la Directiva (UE) 2016/798 del Parlamento Europeo y del Consejo de 11 de mayo de 2016 sobre la seguridad ferroviaria (recodificación), así como con base en las directrices de la Agencia Ferroviaria de la Unión Europea.
+La AIN investiga todos los accidentes ferroviarios graves, que son todos los sucesos que implican la colisión de trenes o el descarrilamiento de un tren que tenga como consecuencia la muerte de al menos una persona o lesiones graves de cinco o más personas, o daños importantes en los vehículos, la infraestructura ferroviaria o el medio ambiente, así como cualquier otro accidente similar con una influencia manifiesta en la seguridad del sistema ferroviario o en la gestión de la seguridad.
+La AIN puede investigar también aquellos accidentes e incidentes que, en circunstancias ligeramente diferentes, podrían haber dado lugar a accidentes graves, incluidas las averías técnicas en el funcionamiento de los subsistemas estructurales o de sus componentes.
+La AIN realiza investigaciones de seguridad con el fin de prevenir accidentes, lo que incluye la recopilación y el análisis de datos, la elaboración de conclusiones, incluida la determinación de factores y, cuando proceda, la formulación de recomendaciones de seguridad para prevenir accidentes e incidentes en el futuro y mejorar la seguridad en el transporte ferroviario.
+
 |  | Nombre y apellidos | Puesto de trabajo | Fecha | Firma |
-| Elaborado por: | Sandra Lovrić | Investigadora responsable | 26/07/2024 . . . |  |
-| Revisado por: | Tomislav Antun Biber | Investigador principal | 26/07/2024 . . . |  |
-| Aprobado por: | Tomislav Antun Biber | Investigador principal | 26/07/2024 . . . |  |
+| Elaborado por: | Sandra Lovrić | Investigadora responsable | 26072024 . . . |  |
+| Revisado por: | Tomislav Antun Biber | Investigador principal | 26072024 . . . |  |
+| Aprobado por: | Tomislav Antun Biber | Investigador principal | 26072024 . . . |  |
 
 ## Página 4
 
@@ -369,28 +369,27 @@ La interrupción del tráfico de trenes entre las estaciones de Garčin - Andrij
 
 ## Página 14
 
-### 3.1.6. Identificación de las personas, sus funciones y las entidades implicadas 
-En el incidente mencionado participaron empleados de las empresas HŽI (gestor de la infraestructura) y HŽPP 
-(transportista ferroviario).  
-Las personas implicadas fueron:  
+### 3.1.6. Identificación de personas, sus funciones y los sujetos implicados
+En el incidente indicado participaron trabajadores ejecutivos de las sociedades HŽI (gestor de la infraestructura) y HŽPP (operador ferroviario).
+Las personas implicadas fueron:
 - 
-el despachador de trenes de la estación de Andrijevci (empleado de HŽI), 
+el jefe de tráfico de la estación de Andrijevci (trabajador de HŽI),
 - 
-la despachadora de trenes de la estación de Garčin (empleada de HŽI), 
+la jefa de tráfico de la estación de Garčin (trabajadora de HŽI),
 - 
-el maquinista del tren número 2018 (empleado de HŽPP), 
+el maquinista del tren n.º 2018 (trabajador de HŽPP),
 - 
-el maquinista del tren número 2011 (empleado de HŽPP). 
-3.1.7. Descripción e identificadores de los trenes y su composición, incluidos los vehículos ferroviarios y sus números de registro 
-Los trenes de pasajeros números 2018 y 2011 (Imagen 2.) estaban formados por un tren de tracción eléctrica de la serie 6112. Se trata de una composición de cuatro unidades destinada al tráfico urbano-suburbano y regional. El tren está compuesto por cuatro módulos:  
+el maquinista del tren n.º 2011 (trabajador de HŽPP).
+3.1.7. Descripción e identificadores de los trenes y su composición, incluidos los vehículos ferroviarios y sus números de registro
+Los trenes de pasajeros n.º 2018 y 2011 (Figura 2.) están formados por un tren eléctrico de la serie 6112. Se trata de una composición de cuatro partes destinada a la circulación en el tráfico urbano-suburbano y regional. El tren consta de cuatro módulos:
 - 
-el módulo de tracción extremo A/B con cabina de conducción (un extremo se apoya en el bogie motor y el otro en el bogie intermedio portante en la unión de los dos módulos),  
+módulo motriz extremo A/B con cabina de conducción (un extremo se apoya en el bogie motriz giratorio y el otro en el bogie intermedio portante en la unión de dos módulos),
 - 
-el módulo de pasajeros C1/C2 (se instala entre los módulos extremos con cabina de conducción y se apoya en dos bogies intermedios en las uniones de los dos módulos). 
-### Imagen 2. – Configuración del tren de tracción eléctrica de la serie 6112  
-(Fuente de la imagen: KONČAR - Električna vozila d.d.)  
-El tren de tracción eléctrica de la serie 6112 fue fabricado por la empresa Končar - Električna vozila d.d. El sistema de alimentación eléctrica es de 25 kV, 50 Hz, el esquema de ejes es Bo'2'2'2'Bo. La velocidad máxima que puede alcanzar el tren es de 160 km/h. La masa propia del TTE vacío es de 141 t, su longitud es de 75000 mm y la anchura de la caja es de 2885 mm. Cada módulo de tracción con ambas caras laterales externas de la cabina de conducción tiene instalada una cámara de vídeo para el seguimiento de la entrada o salida de los pasajeros, así como para el estado exterior del TTE durante la circulación. En cada módulo también están instaladas dos cámaras de vigilancia interior.  
-Al tren de tracción eléctrica de la serie 6112, con el número de identificación único 94 78 6112 209-3, se le realizó el control periódico (CP1) el 3 de mayo de 2023, y al tren de tracción eléctrica de la serie 6112, con el número de identificación único 94 78 6112 016-2, se le realizaron el control periódico (CP1) el 30 de marzo de 2023 y la revisión de mantenimiento el 15 de abril de 2023 por parte de los mantenedores autorizados.
+módulo de pasajeros C1/C2 (se instala entre los módulos extremos con cabina de conducción y se apoya en dos bogies intermedios en las uniones de dos módulos).
+### Figura 2. – Configuración del tren eléctrico de la serie 6112
+(Fuente de la imagen: KONČAR - Električna vozila d.d.)
+El tren eléctrico de la serie 6112 fue fabricado por la empresa Končar - Električna vozila d.d. El sistema de suministro eléctrico es de 25 kV, 50 Hz, el esquema de ejes es Bo'2'2'2'Bo. La velocidad máxima que puede alcanzar el tren es de 160 km/h. La masa propia del TUE vacío es de 141 t, su longitud es de 75000 mm, el ancho del cajón es de 2885 mm. Cada módulo motriz tiene, en ambos lados exteriores de la cabina de conducción, una cámara de vídeo instalada para el seguimiento de la entrada o salida de pasajeros y, durante la marcha, del estado exterior del TUE. En cada módulo están instaladas también dos cámaras de vigilancia interior.
+Al tren eléctrico de la serie 6112, número único 94 78 6112 209-3, se le realizó el día 03 de mayo de 2023 una inspección de control (KP1), y al tren eléctrico de la serie 6112, número único 94 78 6112 016-2, se le realizó el día 30 de marzo de 2023 una inspección de control (KP1) y una inspección de mantenimiento el día 15 de abril de 2023 por parte de los mantenedores autorizados.
 
 ## Página 15
 
@@ -531,12 +530,11 @@ lleva las siguientes registros de tráfico: Diario de Tráfico Pe-12, Libro de c
 
 ## Página 23
 
-HŽ Infrastrukture d.o.o. así como hacia el exterior, tener siempre presente la interconexión del sistema de calidad, el sistema de seguridad, la protección del medio ambiente, la seguridad y salud en el trabajo, los costes y la puntualidad como factores inseparables del éxito. 
-Además, de conformidad con la Evaluación de riesgos de la Unidad de trabajo territorial de HŽI Tráfico - Este con el Análisis de riesgos para el puesto de trabajo de despachador de trenes de 2023, se describe el trabajo del puesto de trabajo despachador de trenes: 
-regula el tráfico de trenes y vehículos de vía en la estación y en los tramos intermedios correspondientes, 
-sigue el horario de los trenes y lo ajusta al horario oficial, informa al personal autorizado sobre los cambios y desviaciones en el tráfico de trenes, pone los trenes en circulación y comunica los mismos a las estaciones del departamento de programación, emite órdenes de cambios en el tráfico para el personal de conducción, lleva diarios, inspecciones, informes y otros registros relacionados con el horario de los trenes y la seguridad del tráfico, realiza tareas para los transportistas ferroviarios de conformidad con las disposiciones del contrato con los mismos, planifica el envío de trenes según el estado de los vagones de carga y las locomotoras, supervisa y organiza las maniobras y organiza la interrupción oportuna de las maniobras y la protección de los vehículos contra el movimiento espontáneo, organiza, coordina y supervisa el trabajo de las cuadrillas de maniobras en la estación, realiza la distribución de las tareas de maniobra entre las cuadrillas de maniobras, organiza la composición oportuna de los trenes, sigue y supervisa la precalentamiento de las composiciones de trenes para el transporte de pasajeros, organiza las tareas en la composición reglamentaria y el frenado del tren, emite, recibe, sella y despacha los documentos acompañantes de los trenes, realiza inspecciones de las agujas y controla al personal de la estación durante el turno, certifica la documentación del trabajo del personal (listas de viaje, listas de locomotoras, etc.), asiste a la formación ordinaria y extraordinaria, realiza actividades de establecimiento, aplicación, mantenimiento y mejora del sistema de gestión de la calidad de conformidad con los requisitos de la norma HRN EN ISO 9001 y los documentos de la Sociedad, realiza otras tareas dentro de su competencia y experiencia laboral de conformidad con las necesidades del ámbito de trabajo establecidas por el Reglamento de la estación, es responsable de la ejecución de las tareas y deberes laborales del ámbito de su descripción del puesto de trabajo. 
-La Evaluación de riesgos de la Unidad de trabajo territorial de HŽI Tráfico - Este con el Análisis de riesgos para el puesto de trabajo de despachador de trenes, en la que también se elaboró el análisis de riesgos para el puesto de trabajo de despachador de trenes, se creó en enero de 2023 (Figura 10.). 
-Figura 10. – Análisis de riesgos en el puesto de trabajo para el despachador de trenes (fuente de la imagen: HŽI)
+HŽ Infrastrukture d.o.o. tanto hacia el exterior como en su interior, debe tener siempre presente la interconexión del sistema de calidad, el sistema de seguridad, la protección del medio ambiente, la protección laboral, los costes y la puntualidad como factores indivisibles de éxito. Asimismo, de acuerdo con la Evaluación de Riesgos de HŽI Unidad de Trabajo Regional de Tráfico - Este, junto con el Análisis de Riesgos para el puesto de trabajo de regulador de trenes del año 2023, se describe el trabajo del puesto de trabajo de regulador de trenes: regula el tráfico de trenes y vehículos ferroviarios en la estación y en los correspondientes tramos intermedios entre estaciones, sigue la circulación de los trenes y la coordina con el horario de circulación, informa al personal oficial sobre cambios y desviaciones en el tráfico de trenes, introduce los trenes en el tráfico y los comunica a las estaciones de la sección de horarios, emite órdenes de cambio en el tráfico para el personal de conducción, lleva los diarios, revisiones, informes y otros registros relacionados con la circulación de trenes y la seguridad del tráfico, realiza trabajos para los operadores ferroviarios de acuerdo con las disposiciones de los contratos con los mismos, planifica la expedición de trenes según el estado de los envíos de vagones y vehículos de tracción, supervisa y organiza el trabajo de maniobras y organiza la oportuna suspensión de maniobras y la protección de los vehículos contra el movimiento automático, organiza, coordina y supervisa el trabajo de las cuadrillas de maniobras en la estación, realiza la distribución de las tareas de maniobras a las cuadrillas de maniobras, organiza el oportuno ensamblaje de trenes, sigue y supervisa el calentamiento de los conjuntos de trenes para el transporte de pasajeros, organiza los trabajos de la composición y frenado correctos del tren, emite, recibe, cierra y expide los documentos de acompañamiento de los trenes, realiza la revisión de agujas y el control del personal de estación durante el turno, certifica la documentación sobre el trabajo del personal (hojas de circulación, hojas de locomotoras, etc.), asiste a la formación ordinaria y extraordinaria, lleva a cabo actividades de establecimiento, aplicación, mantenimiento y mejora del sistema de gestión de calidad de acuerdo con los requisitos de HRN EN ISO 9001 y los documentos de la Sociedad, realiza otras tareas en el marco de la competencia y la experiencia laboral de acuerdo con las necesidades del ámbito de trabajo determinado por la Orden de Trabajo de la Estación, responde de la ejecución de las tareas y trabajos de su descripción de puestos de trabajo.
+
+La Evaluación de Riesgos de HŽI Unidad de Trabajo Regional de Tráfico - Este, junto con el Análisis de Riesgos para el puesto de trabajo de regulador de trenes, en la que también se elaboró el análisis de riesgos para el puesto de trabajo de regulador de trenes, se creó en noviembre de 2023 (Figura 10.).
+
+Figura 10. – Análisis de riesgos en el puesto de trabajo del regulador de trenes (fuente de la imagen: HŽI)
 
 ## Página 24
 

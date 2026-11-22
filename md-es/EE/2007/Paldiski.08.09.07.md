@@ -10,13 +10,14 @@ chars: 57912
 ratio_longitud: 1.27
 tokens_in: 25890
 tokens_out: 17308
-verificacion: revisar
-notas_cifras: ["bloque 3: original bilingüe: se compara contra el idioma principal (FI)", "bloque 5: original bilingüe: se compara contra el idioma principal (FI)", "bloque 6: original bilingüe: se compara contra el idioma principal (EN); cifras cortas: 1/73", "bloque 8: cifras cortas: 1/23", "bloque 9: cifras cortas: 1/149"]
-avisos: ["bloque 3: ratio 1.62"]
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 2: original bilingüe: se compara contra el idioma principal (EN)", "página 5: original bilingüe: se compara contra el idioma principal (HU)", "página 6: original bilingüe: se compara contra el idioma principal (FI)", "página 9: original bilingüe: se compara contra el idioma principal (FI)", "página 10: original bilingüe: se compara contra el idioma principal (FI)", "página 12: original bilingüe: se compara contra el idioma principal (EN); cifras cortas: 1/49"]
 ---
+
 ## Página 1
+
 
 INFORME DE INVESTIGACIÓN DE ACCIDENTE FERROVIARIO
 Accidente ferroviario
@@ -33,8 +34,8 @@ septiembre de 2007.
 Tallin
 2007
 
-
 ## Página 2
+
 
 # 1. RESUMEN
 1. La colisión entre el tren de pasajeros n.º 0505 y el camión con remolque MAN, matrícula 304 APV, se produjo en el paso a nivel no automatizado de Paldiski el 08 de septiembre de 2007 a las 08.52.
@@ -52,8 +53,8 @@ Tallin
 4. Los dos primeros vagones del tren eléctrico de cuatro vagones, utilizado como tren de pasajeros (vagón líder y vagón motor), descarrilaron y sufrieron daños en el chasis, el sistema eléctrico y los bogies. El camión y el remolque se deformaron.
 5. La causa directa del accidente fue un error humano. El conductor del camión no evaluó adecuadamente los requisitos impuestos por la señal de advertencia y
 
-
 ## Página 3
+
 
 se lanzó contra el tren a una velocidad de 52 km/h, sin asegurarse previamente si se aproximaba o no un tren.
 6. El conductor del camión no aprovechó la amplia visibilidad que se presenta antes de alcanzar el paso a nivel para distinguir entre los rayos del sol y la luz reflejada por el tren en aproximación, la intensidad de la luz cambiante y la emisión de luz de los faros y las luces de cruce, así como la bocina del tren.
@@ -67,6 +68,7 @@ Conforme a la «Ley de Ferrocarriles» de la República de Estonia, la presente 
 Lugar del accidente tras la colisión
 
 ## Página 4
+
 
 Tras la colisión, el vagón piloto del tren quedó perpendicular a las vías, con su parte delantera fuera del perfil de vía, hacia la izquierda en dirección de circulación. En contacto con la parte delantera del vagón piloto se encontraba el camión MAN, gravemente dañado, que se encontraba en posición diagonal respecto a la vía férrea. El segundo vagón del tren, el vagón motor, se descarriló. Su parte delantera quedó fuera del perfil de vía, hacia la derecha en dirección de circulación. Los dos vagones restantes permanecieron sobre las vías. El paso a nivel estaba ocupado por el material rodante ferroviario. En el área entre el paso a nivel y el camión participante en el accidente había varios objetos que habían sido arrojados allí como consecuencia del accidente.
 A la izquierda de la dirección de circulación del camión participante en el accidente, antes del paso a nivel, se encuentra una red de durmientes ferroviarios.
@@ -85,6 +87,7 @@ La colisión entre el tren de pasajeros y el camión ocurrió en la infraestruct
 
 ## Página 5
 
+
 cruzando a nivel con un par de vías principal. En el paso a nivel no existe un sistema de señalización automático. La frecuencia del tráfico de trenes es de 32 trenes diarios y, según los datos de AS Eesti Raudtee, la frecuencia del tráfico de vehículos de motor es de 1499 unidades diarias. Según los datos del último censo de 2004 realizado por la Oficina Regional de Carreteras del Norte, la intensidad del tráfico en la carretera Paldiski – Padise es de 1730 vehículos. El censo de 2007 está incompleto y estos datos se registrarán en el registro en enero de 2008. La velocidad máxima permitida para los trenes de pasajeros es de 100 km/h y para los vehículos de carretera de 90 km/h. El maquinista tiene visibilidad hacia el paso a nivel desde una distancia de 1200 m, y el usuario de la carretera tiene visibilidad hacia la dirección de aproximación del tren desde una distancia de 50 m de la vía más cercana hasta un alcance de 400 m. El paso a nivel cuenta con un revestimiento de goma en buen estado y tiene un ancho de 10,8 m.
 
 El paso a nivel ferroviario de Paldiski es cruzado por la carretera Paldiski – Padise (Soomepoiste), que transcurre perpendicularmente a las vías. La calzada está asfaltada. Para los usuarios de la carretera se han instalado señales de advertición con pantalla de fondo luminoso 112 «Paso a nivel sin barreras», señales de advertición 121 «Ferrocarril de vía única» y 123, 124 y 125 «Paso a nivel ferroviario adelante».
@@ -94,6 +97,7 @@ El titular de la calzada es la Oficina Regional de Carreteras del Norte de Eston
 La central de emergencias recibió información sobre la colisión de un camión con un tren y el descarrilamiento de un vagón en el paso a nivel ferroviario de Laoküla. La información se transmitió a las 08:55 al coordinador operativo del servicio de rescate de Lääne-Harju y al coordinador de policía. A las 09:05 se recibió información del servicio de seguridad ferroviaria. A las 09:06 la policía había llegado al lugar del suceso. A las 09:13 la central de emergencias recibió información de la primera unidad principal de que la locomotora estaba cruzando transversalmente la vía, el segundo vagón estaba fuera de las vías, había 4 heridos, de los cuales 3 con lesiones leves y 1 grave, el camión estaba volcado en la zanja, la cabina estaba en el suelo, la policía estaba presente y se estaba comenzando a desviar el tráfico. La vía quedó cerrada. A las 09:44 se recibió información detallada del coordinador operativo de rescate, en la que se indicaba que el jefe de campo de la policía estaba en el lugar del suceso. A las 09:57 el coordinador operativo de rescate envió el coche de rescate de Keila a Paldiski para realizar labores de extinción de incendios. A las 10:04 el coordinador operativo de rescate había asumido la dirección de las labores. El jefe de campo de la policía acotó la escena del suceso y organizó el tráfico. Un representante de Eesti Raudtee había llegado al lugar del suceso y se sabía que se había convocado al tren de rescate.
 
 ## Página 6
+
 
 En el tren de pasajeros había unas 10 personas en el momento del accidente; según los datos de la central de emergencias, había 4 heridos (el conductor del vehículo y 3 personas que viajaban en el tren). A las 11:37 llegó la locomotora de rescate y se comenzó a retirar los dos vagones que habían salido de las vías. A las 12:03 el coordinador operativo de rescate informó de que la dirección de las labores en el lugar del suceso quedaba en manos del director de seguridad de AS Eesti Raudtee – jefe del grupo operativo de liquidación de las consecuencias del accidente. La seguridad la asumirían la policía y la unidad del primer coche de rescate de Paldiski. En ese momento se estaba procediendo al desacoplamiento de los vagones. A las 12:14 se comenzaron a realizar trabajos de soldadura, con la unidad de rescate asegurando la zona. A las 12:59 los trabajos de soldadura estaban finalizados y los 2 vagones habían sido desacoplados. A las 14:47 llegó el tren de rescate. Tras la llegada de los servicios públicos de emergencia, llegaron al lugar del suceso el tren de rescate de AS Eesti Raudtee, el equipo técnico, el equipo de redes eléctricas, así como el personal correspondiente de AS VolkerRail RTE y Elektriraidtee AS. Para restablecer el tráfico ferroviario, se retiraron los dos vagones descarrilados fuera de la vía y se reparó el tramo de vía dañado. En el traslado de los vagones fuera de la vía participaron el tren de rescate de AS Eesti Raudtee y el equipo de redes eléctricas, así como el personal de AS Elektriraudtee; como asistencia se utilizó la grúa ferroviaria del tren de rescate de Eesti Raudtee con una capacidad de elevación de 125 toneladas. Los trabajos de restauración de la vía los realizaron el personal de AS Eesti Raudtee y AS VolkerRail RTE.
 
@@ -109,6 +113,7 @@ Se rompieron las válvulas de cierre y las mangueras de las líneas maestras de 
 
 ## Página 7
 
+
 veovõll. 
 En la parte eléctrica del vagón, los conectores de las uniones entre vagones, el cable de puesta a tierra estaban dañados y deformados. 
 El perno de sujeción de la caja de contactores se había roto, el bastidor de fijación del compresor estaba deformado y los soportes (kronsteinid) rotos, el compresor resultó dañado. Los bogías del vagón requirieron la inspección defectoscópica de todos los componentes, los pares de ruedas una revisión, los componentes de la suspensión central una inspección por partículas magnéticas. 
@@ -120,10 +125,10 @@ Estaban deformados y dañados el conector de la conexión de alta tensión, las 
 Los pares de ruedas de los bogías del vagón, los reductores y los pernos de sujeción, los componentes de la suspensión central y los bastidores de los bogías pivotantes requerían una inspección completa. Un bogía pivotante requería reparación de restitución en fábrica. 
 El coste inicial de la reparación de restitución del vagón motor ascendió a unos 850 mil coronas. En total, los costes de reparación del material rodante superan los 2,3 millones de coronas. 
 Además, la empresa ferroviaria debe pagar los costes asociados al reemplazo del servicio de trenes con autobuses, así como el transporte y la elevación de los vagones. 
-Daños en la infraestructura 
-
+Daños en la infraestructura
 
 ## Página 8
+
 
 Como consecuencia de la colisión, en la infraestructura de AS Eesti Raudtee se dañaron significativamente los dispositivos de la infraestructura en un tramo de 40 m de vía, incluyendo la rotura de la vía y la caída de 4 postes de señalización. 
 Los costes asociados a la restauración de la infraestructura y a la eliminación de las consecuencias del accidente ferroviario han sido de aproximadamente 450 mil coronas. Los costes se distribuyeron de la siguiente manera: costes del tren de rescorte para la realización de las labores de rescate, aproximadamente 80 mil coronas; costes de transporte del tren de rescate y su tripulación, 6 mil coronas; costes del servicio de transporte relacionados con la eliminación de las consecuencias del accidente y la detención de los vagones de mercancías, 100 mil coronas; costes de materiales y mano de obra de la infraestructura, 210 mil coronas; costes de la guardia vigilante durante la realización de las labores, 3 mil coronas; costes administrativos, aproximadamente 50 mil coronas. 
@@ -138,6 +143,7 @@ El ayudante de maquinista ha indicado en su declaración que el 7/8.09.2007 trab
 El ayudante de maquinista pulsó el pedal de la señal acústica, el maquinista aplicó el freno de emergencia, pero no logró evitar la colisión. Tras ello, el maquinista informó al servicio de rescate, al despachador de trenes y al jefe de tráfico. A la policía que llegó al lugar, prestó
 
 ## Página 9
+
 
 el equipo de conducción proporcionó explicaciones sobre lo ocurrido y, a continuación, el servicio de ambulancias trasladó al ayudante de maquinista al hospital.
 
@@ -166,6 +172,7 @@ El jefe del tren de rescate-jefe de las operaciones de rescate, al llegar al lug
 Mediante la orden n.º 16, de 26.07.2004, AS Eesti Raudtee estableció «Investigación oficial de accidentes de circulación ferroviaria, incidentes ferroviarios y colisiones de trenes
 
 ## Página 10
+
 
 y comunicación». La orden establece la recopilación de materiales relacionados con el incidente, el procedimiento para llevar a cabo la investigación, así como el contenido de los materiales de investigación.
 
@@ -204,6 +211,7 @@ Elektriraudtee AS ha establecido, desde el 04.09.2006, «Procedimiento de comuni
 
 ## Página 11
 
+
 4.1. El conductor del tren eléctrico transmite inmediatamente a través de la radio del tren (en su defecto, mediante su teléfono móvil personal) la información preliminar sobre la situación de emergencia, el retraso o la avería; posteriormente, a medida que cambia la situación, transmite información periódicamente según el esquema del punto 6.
 # Normativa jurídica
 La «Ley de Ferrocarriles» establece
@@ -230,6 +238,7 @@ El «Reglamento de Tráfico» establece
 
 ## Página 12
 
+
 § 172. En un paso a nivel sin barreras ni semáforos, el conductor no debe circular sin estar seguro de que no se acerca ningún vehículo ferroviario.
 § 174. Para ceder el paso a un vehículo ferroviario que se acerca y en cualquier otro caso en que no se deba cruzar la vía férrea, el conductor debe detenerse delante de la barrera; en su defecto, a una distancia mínima de 10 m del primer riel, … .
 Mediante la orden n.º 78-P de Elektriraudtee AS de 8 de mayo de 2007 «Reglamento para la regulación del tiempo de trabajo y descanso del personal de conducción de Elektriraudtee AS», que está en consonancia con el punto 3.2 del Contrato Colectivo n.º 25 firmado el 26 de octubre de 2005 entre Elektriraudtee AS y la Unión Profesional de Conductores de Locomotoras de Estonia, se establece
@@ -248,6 +257,7 @@ En primer lugar, se decidió llevar los vagones técnicamente en orden 2107 y 31
 
 ## Página 13
 
+
 se desmontó posteriormente la red de contacto y se procedió a extraer del perfil de la vía los vagones con la grúa del tren de rescate. Se decidió dejar inicialmente los vagones dañados en el accidente en el lugar del siniestro.
 El tráfico ferroviario se interrumpió entre las estaciones de Klooga y Paldiski el 08.09.2007 a las 08.52 y se reanudó el 09.09.2007 a las 00.35. Como consecuencia de la colisión, quedaron fuera de servicio 10 trenes eléctricos en el tramo Klooga – Paldiski, 4 trenes eléctricos en el tramo Keila – Paldiski y 1 tren eléctrico (tren de viajeros) en el tramo Pääsküla – Paldiski.
 Se contrataron autobuses para transportar a los pasajeros a sus destinos.
@@ -265,8 +275,8 @@ Como resultado de la colisión, el conductor del automóvil resultó herido y re
 El conductor del automóvil no se aseguró antes de entrar en el paso a nivel de que no se acercaba ningún tren. El conductor del automóvil incumplió las normas de tráfico.
 El paso a nivel está equipado para los conductores con señales de tráfico de advertencia, cuyo cumplimiento garantiza una circulación segura.
 
-
 ## Página 14
+
 
 # 4. ANÁLISIS Y CONCLUSIONES
 # Descripción final de la secuencia de eventos
@@ -280,6 +290,7 @@ Al salir del bosque y al acercarse al paso a nivel, el usuario de la carretera t
 La reducción de la velocidad del automóvil desde la velocidad inicial superior a 80 km/h hasta 52 km/h y de ahí hasta cero se produjo, según el tacógrafo, en un periodo de tiempo muy corto e indefinido. En la escala de tiempo del tacógrafo, los intervalos de tiempo inferiores a un minuto tienen una duración indeterminada. Por lo tanto, después del giro a la izquierda, el automóvil debía chocar con el tren en un periodo de tiempo muy corto
 
 ## Página 15
+
 
 durante el intervalo de tiempo. Durante la colisión, el automóvil cambió de dirección. Su velocidad inicial se redujo a cero en un intervalo de tiempo insignificante y fue sustituida por el movimiento lateral adquirido como resultado del impacto del tren.
 
@@ -315,6 +326,7 @@ Las luces rojas intermitentes de los semáforos de paso advierten a los usuarios
 
 ## Página 16
 
+
 11. Los datos del pasaporte del paso a nivel de AS Eesti Raudtee no se han actualizado a tiempo con los datos actuales que describen la intensidad del tráfico.
 
 # Observaciones adicionales
@@ -344,6 +356,7 @@ Jüri Olde
 
 ## Página 17
 
+
 ### Anexo:
 1. Información sobre el accidente del 08.09.2007. Director del Departamento de Supervisión de Infraestructura de la División de Supervisión de la Inspección Ferroviaria, 10.09.2007 – 1 página.
 2. Formulario de registro de salida de los equipos de extinción de incendios y rescate y de las brigadas de ambulancias a la escena del suceso. Centro de Emergencias del Norte de Estonia, 11.09.2007 – 2 páginas.
@@ -369,6 +382,7 @@ Jüri Olde
 22. Accidente de tráfico el 08.09.2007 en el paso a nivel de Paldiski. Oficina Regional de Carreteras del Norte. Departamento de Gestión y Seguridad del Tráfico, 08.11.2007 – 1 página.
 
 ## Página 18
+
 
 23. Decisión. Inspección del Trabajo. Inspección de Tallin y del Condado de Harjumaa. Carta nº 8.01-26/20999-1, 24.11.2006 – 1 página.
 24. Orden. AS Elektriraudtee. Orden nº 78-P. Tallin, 08.05.2007 – 6 páginas.

@@ -10,1801 +10,199 @@ chars: 98528
 ratio_longitud: 1.83
 tokens_in: 37556
 tokens_out: 52287
-verificacion: revisar
-notas_cifras: ["bloque 1: original bilingüe: se compara contra el idioma principal (EN); cifras cortas: 219/220", "bloque 2: original bilingüe: se compara contra el idioma principal (CS)", "bloque 3: original bilingüe: se compara contra el idioma principal (CS)", "bloque 5: cifras cortas: 1/60"]
-avisos: ["bloque 1: marcadores de página: 7 vs 1; cifras largas: faltan 27/27 (100%); ratio 4.45"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 3: original bilingüe: se compara contra el idioma principal (PT)", "página 6: original bilingüe: se compara contra el idioma principal (CS)", "página 7: original bilingüe: se compara contra el idioma principal (CS)", "página 10: original bilingüe: se compara contra el idioma principal (CS)", "página 11: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
 
 República Checa
 The Rail Safety Inspection Office
 The Czech Republic
-Informe final sobre los resultados de la investigación de la
-Informe final sobre los resultados de la investigación de la
-investigación de la
-investigación de la
-circunstancia excepcional
-circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
-Circunstancia excepcional
+Informe final sobre los resultados de la investigación de un suceso
+Informe final sobre los resultados de la investigación de un suceso
+de emergencia
+de emergencia
+Závěrečná z
+Circulación no autorizada del tren regional de pasajeros Os 7152 más allá de la
+señal de bloqueo de ruta Lc1 con señal que prohíbe la circulación y su entrada
+en la vía de tren establecida para la entrada del tren regional de pasajeros
+Os 7151 en la estación de Jablonné nad Orlicí
+Miércoles, 22 de julio de 2020
+Accident and incident investigation report
+Accident and incident investigation report
+Unauthorized movement of the regional passenger train No. 7152 behind the route
+signal device Lc1 and its entry into the train route for the entrance regional
+passenger train No. 7151 at Jablonné nad Orlicí station
+Wednesday, 22nd July 2020
+n.º: 6-2150/2020/DI
+ČR – Drážní inspekce
+Těšnov 1163/5
+http://www.dicr.cz 
+ID DS: vi6aigp
+IČ: 75009561
+110 00 Praha 1
+mail@dicr.cz
+tel.: +420 736 521 003
+
+## Página 2
+
+Este informe final es público y todos los hechos en él recogidos están respaldados por el expediente de investigación.
+
+## Página 3
+
+### 1 Resumen
+Fuente: Inspección Ferroviaria
+Fecha de la ocurrencia:
+22. 7. 2020, 7:12 h.
+Descripción de la ocurrencia:
+circulación no autorizada del tren Os 7152 más allá de la señal de paso Lc1
+con señal de prohibición de circulación en la estación de Jablonné nad Orlicí
+y su entrada en la vía de tren establecida para la entrada del tren Os 7151.
+Ferrocarril, lugar:
+ferrocarril, categoría nacional, estación de Jablonné nad Orlicí, vía de estación n.º 1, señal de paso Lc1, en el km 99,041.
+Intervinientes:
+Správa železnic, organización estatal (explotador del ferrocarril);
+Leo Express Tenders, s. r. o. (transportista de los trenes Os 7152 y Os 7151).
+Consecuencias:
+sin daños personales;
+daño total 0 Kč.
+Causa inmediata:
+no respeto de la señal «Alto» de la señal principal (de paso) Lc1 de la estación
+•
+de Jablonné nad Orlicí por parte del maquinista del tren Os 7152.
+Factor contribuyente:
+ausencia de medios técnicos de seguridad que, ante un fallo (error o
+•
+avería) de la persona que dirige el vehículo ferroviario, hubieran impedido
+mediante una intervención activa en la conducción del tren la circulación
+no autorizada del tren más allá de la señal principal que prohíbe la circulación del tren.
+
+## Página 4
+
+No se ha detectado ninguna causa en el sistema de seguridad por parte de la Inspección Ferroviaria.
+La Inspección Ferroviaria no ha emitido ninguna recomendación de seguridad.
+
+## Página 5
+
+### RESUMEN
+22 de julio de 2020, 7:12 (5:12 GMT).
+Fecha y hora:
+Tipo de ocurrencia:
+ movimiento no autorizado.
+Descripción:
+movimiento no autorizado del tren de pasajeros regional No. 7152
+detrás del dispositivo de señal de itinerario Lc1 y su entrada en el itinerario de
+tren para la entrada del tren de pasajeros regional No. 7151.
+Tipo de tren:
+ el tren de pasajeros regional No. 7152;
+ el tren de pasajeros regional No. 7151.
+Localización:
+ estación de Jablonné nad Orlicí, dispositivo de señal de itinerario Lc1, km 99,041.
+Partes:
+ Správa železnic, státní organizace (el IM);
+ Leo Express Tenders, s. r. o. (el RU de los trenes de pasajeros regionales
+ No. 7152 y 7151).
+Consecuencias:
+ 0 fallecido, 0 herido;
+                                daño total CZK 0.-
+Factor causal:
+ incumplimiento de la señal „Stop” de la señal principal (de itinerario)
+•
+ Lc1 en la estación de Jablonné nad Orlicí por parte del maquinista del tren de pasajeros regional
+ No. 7152.
+Factor contribuyente:
+ ausencia de equipamiento técnico que impida a un tren
+•
+ pasar una señal en situación de peligro.
+Factor sistémico:
+ ninguno.
+Recomendación:
+ no emitida.
+
+## Página 6
+
+# Índice
+1 RESUMEN........................................................................................................................3
+SUMMARY.............................................................................................................................5
+2 INVESTIGACIÓN Y SU ALCANCE....................................................................................10
+2.1 Decisión de iniciar la investigación...........................................................................10
+2.2 Fundamentación de la decisión de iniciar la investigación......................................10
+2.3 Alcance y limitaciones de la investigación, incluida la fundamentación pertinente.....................................................................................................10
+2.4 Descripción resumida de las capacidades y funciones técnicas del equipo de investigadores...................................................................................................10
+2.5 Comunicación y consultas durante la investigación con las personas o entidades que participaron en el suceso dado.........................................................10
+2.6 Descripción del nivel de cooperación ofrecido por las entidades participantes........................................................................................................10
+2.7 Descripción de la investigación, los métodos y las técnicas empleados para acreditar los hechos y las conclusiones recogidas en el informe.......................................................................................................10
+2.8 Descripción de las dificultades y problemas concretos surgidos durante la investigación....................................................................................................11
+2.9 Interacción con las autoridades judiciales..................................................................11
+2.10 Cualquier otra información relevante para la investigación.....................................11
+3 DESCRIPCIÓN DEL SUCESO..........................................................................................11
+3.1 Descripción e información básica..............................................................................11
+3.1.1 Descripción del tipo de suceso............................................................................11
+3.1.2 Fecha, hora exacta y lugar del suceso................................................................11
+3.1.3 Descripción del lugar del suceso..........................................................................11
+3.1.4 Fallecidos, heridos y daños materiales................................................................13
+3.1.5 Descripción de otras consecuencias, incluido el impacto del suceso en las actividades habituales de las entidades participantes........................................13
+3.1.6 Identificación de las personas, sus funciones y las entidades participantes...................................................................................................13
+3.1.7 Descripción de los vehículos ferroviarios y sus composiciones, incluidos los números de registro......................................................................................14
+3.1.8 Descripción de las partes pertinentes de la infraestructura y del sistema de señalización..........................................................................................15
+3.1.9 Cualquier otra información relevante a efectos de la descripción del suceso y de la información básica..............................................................................17
+3.2 Descripción fáctica del suceso.................................................................................19
+3.2.1 Secuencia de hechos que condujeron al suceso extraordinario..............................19
+3.2.2 Secuencia de hechos desde la producción del suceso extraordinario hasta la finalización de las acciones de los servicios de emergencia..................................21
+4 ANÁLISIS DEL SUCESO..................................................................................................21
+4.1 Funciones y obligaciones..........................................................................................21
+4.1.1 Transportistas y gestores de infraestructura ferroviaria......................................21
+4.1.2 Entidades responsables del mantenimiento de los vehículos ferroviarios...............................................................................................................23
+4.1.3 Fabricantes de vehículos ferroviarios u otros proveedores de instalaciones ferroviarias............................................................................................23
+4.1.4 Autoridades nacionales de seguridad y Agencia Ferroviaria de la Unión Europea......................................................................................................23
+4.1.5 Entidades notificadas, entidades designadas y entidades dedicadas a la evaluación de riesgos............................................................................................24
+4.1.6 Entidades de certificación responsables del mantenimiento de los vehículos ferroviarios............................................................................................24
+4.1.7 Cualquier otra persona o entidad..........................................................................24
+4.2 Vehículos ferroviarios e instalaciones técnicas.......................................................24
+4.2.1 Factores o consecuencias derivados de la construcción de los vehículos ferroviarios, de la infraestructura ferroviaria o de las instalaciones técnicas.....................................................................................................24
+
+## Página 7
+
+4.2.2 Factores o consecuencias derivados de la instalación y puesta en servicio de vehículos ferroviarios, infraestructura ferroviaria o instalaciones técnicas......................................................................24
+4.2.3 Factores o consecuencias relacionados con el fabricante de vehículos ferroviarios u otro proveedor de productos ferroviarios............................................................................24
+4.2.4 Factores o consecuencias derivados del mantenimiento y modificación de vehículos ferroviarios o instalaciones técnicas....................................................................................................25
+4.2.5 Factores o consecuencias relacionados con el sujeto responsable del mantenimiento de vehículos ferroviarios, talleres de mantenimiento y otros proveedores de servicios de mantenimiento.25
+4.2.6 Otros factores o consecuencias que se consideren relevantes a efectos de la investigación.....25
+4.3 Factores humanos.............................................................................................................25
+4.3.1 Características humanas e individuales...................................................................25
+4.3.2 Factores laborales..................................................................................................25
+4.3.3 Factores organizativos y tareas................................................................................25
+4.3.4 Factores relacionados con el entorno laboral............................................................25
+4.3.5 Otro factor relevante a efectos de la investigación..............................................................25
+4.4 Mecanismos de retroalimentación y mecanismos de control, incluida la gestión del riesgo y la garantía de la seguridad, y procedimientos de seguimiento...................................................................................25
+4.4.1 Condiciones pertinentes del marco regulatorio.............................................................25
+4.4.2 Procedimientos, métodos, contenido y resultados de las actividades de evaluación de riesgos y seguimiento realizadas por cualquiera de los sujetos implicados................................................................26
+4.4.3 Sistema de garantía de la seguridad de los transportistas y gestores de infraestructura implicados
+.....................................................................................................................................26
+4.4.4 Sistema de gestión de los sujetos responsables del mantenimiento de vehículos ferroviarios y de los talleres de mantenimiento...................................................................................................26
+4.4.5 Resultados de la supervisión realizada por las autoridades nacionales de seguridad............26
+4.4.6 Aprobaciones, certificados y informes de evaluación emitidos por la Agencia, las autoridades nacionales de seguridad u otros sujetos de evaluación de la conformidad...............................26
+4.4.7 Otros factores sistémicos.......................................................................................26
+4.5 Sucesos anteriores de naturaleza similar.........................................................................26
+5 CONCLUSIONES............................................................................................................................27
+5.1 Resumen del análisis y conclusiones relativas a las causas del suceso...................................27
+5.2 Medidas adoptadas para prevenir sucesos extraordinarios..........................................27
+5.3 Hallazgos complementarios.......................................................................................................28
+6 RECOMENDACIONES DE SEGURIDAD.....................................................................................28
+ANEXOS..............................................................................................................................................................29
 
 ## Página 8
+
 
 |  | Lista de abreviaturas y símbolos utilizados |
 | CDP COP DI DV HDV IZS JOP LET MU PZS | centro de despacho central, centro central de anuncio, Inspección Ferroviaria, vehículo ferroviario, vehículo ferroviario de tracción, sistema integrado de emergencia, puesto de operación unificado, Leo Express Tenders s r o, . . . incidente ferroviario, instalación de enclavamiento de paso a nivel con señales luminosas |
 | SK SZZ SŽ TZZ ÚI žst . | vía de estación, instalación de enclavamiento de estación, Administración de Ferrocarriles organización estatal, instalación de enclavamiento de tramo, Inspección del Territorio, estación de ferrocarril |
 
 ## Página 9
+
 
 ### Lista de abreviaturas de la legislación, normas y normativa interna utilizadas
 Ley n.º 266/1994 Sb.
@@ -1820,30 +218,29 @@ Ley n.º 266/1994 Sb., de ferrocarriles, en la redacción vigente
 
 ### 2 INVESTIGACIÓN Y SUS RELACIONES
 ### 2.1 Decisión de iniciar la investigación
-La DI decidió iniciar la investigación del incidente ferroviario en cuestión el 22. 7. 2020.
+El DI decidió iniciar la investigación de la MU en cuestión el 22. 7. 2020.
 ### 2.2 Fundamentación de la decisión de iniciar la investigación
-La DI decidió investigar el incidente ferroviario en cuestión sobre la base de su carácter recurrente y de su impacto en el explotador del ferrocarril y en el transportista, de conformidad con lo dispuesto en el apartado 1 del artículo 53b de la Ley n.º 266/1994 Sb.
+El DI decidió investigar la MU en cuestión sobre la base de su repetitividad y de sus impactos en el gestor de la vía y el transportista, en virtud de lo dispuesto en el § 53b apartado 1 de la Ley núm. 266/1994 Sb.
 ### 2.3 Alcance y limitaciones de la investigación, incluida la fundamentación correspondiente
-La DI no se encontró, en el marco de la investigación del incidente ferroviario en cuestión, con limitaciones que influyeran negativamente en el modo y los procedimientos de la investigación.
-### 2.4 Descripción resumida de las capacidades y funciones técnicas del equipo de investigación
-Investigación de la DI en el lugar del incidente ferroviario:
-2x inspector del ÚI Brno.
+El DI no se encontró, en el marco de la investigación de la MU en cuestión, con limitaciones que influyeran negativamente en el modo y los procedimientos de la investigación.
+### 2.4 Descripción resumida de las capacidades técnicas y funciones del equipo de investigación
+Investigación del DI en el lugar de la MU:
+2x inspector de la ÚI Brno.
 Constitución del equipo de investigación:
 no fue necesario constituirlo.
 Colaboración externa:
 no se utilizó.
-2.5. Comunicación y consultas durante la investigación con las personas o entidades
-que participaron en el suceso
-Al investigar las causas y circunstancias de la producción del incidente ferroviario, la DI se basó principalmente en sus propios conocimientos, hallazgos y en su propia documentación fotográfica. Durante la investigación, la DI solicitó a continuación la documentación recabada durante la investigación por parte del explotador del ferrocarril y del transportista.
-La investigación de las causas y circunstancias de la producción del incidente ferroviario se realizó de conformidad con la Ley n.º 266/1994 Sb. y el Decreto n.º 376/2006 Sb.
+2.5. Comunicación y consultas durante la investigación con las personas o entidades que participaron en el suceso
+En la investigación de las causas y circunstancias de la MU, el DI se basó principalmente en sus propios conocimientos, hallazgos y en su propia documentación fotográfica. Durante la investigación, el DI solicitó posteriormente la documentación elaborada durante la investigación por parte del gestor de la vía y el transportista.
+La investigación de las causas y circunstancias de la MU se realizó de conformidad con la Ley núm. 266/1994 Sb. y el Decreto núm. 376/2006 Sb.
 ### 2.6 Descripción del nivel de colaboración ofrecido por las entidades participantes
-El nivel de colaboración con los representantes de las entidades participantes en el incidente ferroviario fue estándar.
-### 2.7 Descripción de la investigación, los métodos y las técnicas utilizados para acreditar los hechos y los hallazgos recogidos en el informe
-En el marco de la investigación del incidente ferroviario, la DI procedió de la siguiente manera, es decir, utilizó, entre otros, los siguientes métodos y técnicas:
-inspección del lugar del incidente ferroviario, incluidos los vehículos ferroviarios participantes,
+El nivel de colaboración con los representantes de las entidades participantes en la MU fue estándar.
+### 2.7 Descripción de la investigación, los métodos y las técnicas utilizados para acreditar los hechos y los hallazgos expuestos en el informe
+En el marco de la investigación de la MU, el DI procedió de la siguiente manera, y utilizó, entre otros, los siguientes métodos y técnicas:
+inspección del lugar del suceso excepcional, incluidos los vehículos ferroviarios participantes,
 •
-las instalaciones técnicas y la infraestructura del ferrocarril;
-análisis de la documentación solicitada al explotador del ferrocarril y al transportista;
+las instalaciones técnicas y la infraestructura de la vía;
+análisis de la documentación solicitada al gestor de la vía y al transportista;
 •
 análisis de los datos registrados por los registradores de velocidad de los vehículos
 •
@@ -1852,6 +249,7 @@ declaraciones de los empleados participantes.
 •
 
 ## Página 11
+
 
 ### 2.8 Descripción de las dificultades y problemas concretos surgidos durante la investigación
 Durante la investigación del incidente ferroviario no surgieron dificultades ni problemas que influyeran en el desarrollo de la investigación o en sus conclusiones.
@@ -1881,8 +279,8 @@ La estación de ferrocarril Jablonné nad Orlicí (en adelante también Jablonn�
 El 22. 7. 2020 se produjo la circulación del tren Os 7152 del transportista LET desde la est. Jablonné desde la 1.ª vía de estación contra la señal «Alto» en la señal de trayecto Lc1 en el pk 99,041 en dirección a la est. Letohrad. Al pasar junto a esta señal, el maquinista se percató de la situación, aplicó inmediatamente el freno de emergencia y el tren se detuvo con el morro en el pk 98,937, con el último eje del bogie trasero sobre el desvío n.º 4. Pasó la señal Lc1 en 104 m.
 Al pasar la señal Lc1 en posición «Alto», se produjo a la vez el cambio de la señal «Velocidad 40 km·h-1 y espere una velocidad de 40 km·h-1» de la señal de entrada S, que en ese momento estaba establecida para la entrada/salida del tren Os 7151 desde la est. Letohrad (es decir, en sentido contrario) hacia/desde la 2.ª vía de estación, a la señal «Alto». El maquinista de este tren reaccionó de inmediato al cambio de señal aplicando el freno de emergencia, pero no logró detenerse antes de la señal y se detuvo con el morro en el pk 98,429. Pasó la señal S en 11 m, delante de la cual, a una distancia de 46 m
 
-
 ## Página 12
+
 
 se encuentra el PZS P4074, que en ese momento estaba en servicio. Los morros de los trenes, tras detenerse, distaban 508 m entre sí.
 ## Lugar del incidente ferroviario
@@ -1899,36 +297,30 @@ la est. Jablonné está equipada con una SZZ de 3.ª categoría según TNŽ 34 2
 la visibilidad de la señal «Alto» en la señal Lc1 no estaba obstruida por nada. La visibilidad de la señal «Alto» en la señal de entrada S, encendida como consecuencia de la producción del incidente ferroviario, no estaba obstruida por nada.
 •
 
-
 ## Página 13
 
 Estado de los vehículos ferroviarios:
-el tren Os 7152 del transportista LET estaba, en el sentido de circulación desde la est. Jablonné, formado por la unidad automotora 95 54 5 846 784-7 + 95 54 5 846 284-8 y estaba señalizado con las señales «Inicio de tren» y «Fin de tren». El HDV estaba equipado con un registrador de velocidad Mirel Rm2 M y un protector de tren activo. En el puesto del maquinista se encontraba el horario en formato libro para el tren Os 7152 y una cámara frontal que captaba el espacio delante del tren. En el momento de la inspección, en el tren se encontraba únicamente el maquinista, sin pasajeros. No se produjeron lesiones personales ni daños en la composición del tren;
-•
-el tren Os 7151 del transportista LET estaba, en el sentido de circulación hacia la est. Jablonné, formado por la unidad automotora 95 54 5 846 286-3 + 95 54 5 846 786-2 y estaba señalizado con las señales «Inicio de tren» y «Fin de tren». El HDV estaba equipado con un registrador de velocidad Mirel Rm2 M y un protector de tren activo. En el puesto del maquinista se encontraba el horario en formato libro para el tren Os 7151 y una cámara frontal que captaba el espacio delante del tren. En el momento de la inspección, en el tren se encontraba únicamente el maquinista, sin pasajeros. No se produjeron lesiones personales ni daños en la composición del tren;
-•
-ambas unidades automotoras estaban equipadas con una estación de radio funcional para la red GSM-R y con los medios técnicos para la realización de la parada automática del vehículo ferroviario.
-•
+• el tren Os 7152 del operador LET, en el sentido de circulación desde la estación de Jablonné, estaba compuesto por la unidad motorizada 95 54 5 846 784-7 + 95 54 5 846 284-8 y estaba señalizado con las señales «Inicio de tren» y «Fin de tren». El material rodante estaba equipado con un velocímetro registrador Mirel Rm2 M y un protector de tren activo. En el puesto del maquinista se encontraba el horario en cuadernillo para el tren Os 7152 y una cámara frontal que grababa el espacio situado delante del tren. En el momento de la inspección, en el tren se encontraba únicamente el maquinista, sin pasajeros. No se produjeron lesiones personales ni daños en la composición del tren;
+• el tren Os 7151 del operador LET, en el sentido de circulación hacia la estación de Jablonné, estaba compuesto por la unidad motorizada 95 54 5 846 286-3 + 95 54 5 846 786-2 y estaba señalizado con las señales «Inicio de tren» y «Fin de tren». El material rodante estaba equipado con un velocímetro registrador Mirel Rm2 M y un protector de tren activo. En el puesto del maquinista se encontraba el horario en cuadernillo para el tren Os 7151 y una cámara frontal que grababa el espacio situado delante del tren. En el momento de la inspección, en el tren se encontraba únicamente el maquinista, sin pasajeros. No se produjeron lesiones personales ni daños en la composición del tren;
+• ambas unidades motorizadas estaban equipadas con una estación de radio funcional para la red GSM-R y con medios técnicos para la realización de la parada automática del vehículo ferroviario.
 Condiciones meteorológicas:
-horario diurno, +14 °C,
-despejado,
-visibilidad no reducida por influencias meteorológicas; no se detectó efecto deslumbrante del sol en el momento de producirse el incidente ferroviario.
+horario diurno, +14 °C, despejado, visibilidad no reducida por influencias meteorológicas, no se detectó efecto deslumbrante del sol en el momento de la aparición de la anomalía.
 Datos geográficos:
-dirección recta que continúa con un arco a la izquierda, lugar del incidente ferroviario a la izquierda en el sentido de circulación del tren en un corte, a la derecha en un terraplén, ligera pendiente.
-En el lugar del incidente ferroviario no se realizaron, inmediatamente antes de su producción, obras de reparación o de mantenimiento por parte del explotador del ferrocarril ni de otras entidades. La circulación en el lugar del incidente ferroviario y sus alrededores se desarrollaba en régimen habitual.
+dirección recta que continúa un arco a la izquierda, el lugar de la anomalía se encuentra en el lado izquierdo en el sentido de circulación del tren, en un corte, y en el lado derecho sobre un terraplén, ligera pendiente ascendente.
+En el lugar de la anomalía no se realizaron, inmediatamente antes de su aparición, por parte del gestor de la infraestructura ni por otros sujetos, trabajos de reparación o de mantenimiento. La circulación en el lugar de la anomalía y sus alrededores se desarrollaba en régimen normal.
 ### 3.1.4 Fallecimientos, lesiones y daños materiales
-En el incidente ferroviario no se produjo perjuicio para la salud de los empleados del explotador del ferrocarril, del transportista, de personas en relación contractual, ni de pasajeros ni de terceros.
-No se produjeron daños en los vehículos ferroviarios, en las partes del ferrocarril ni en el medio ambiente.
-No se produjeron daños en las mercancías transportadas, equipajes ni otros bienes.
+Con motivo de la anomalía no se produjeron daños a la salud en los empleados del gestor de la infraestructura, del operador ferroviario, de personas en relación contractual, ni tampoco en pasajeros ni en terceras personas.
+No se produjeron daños en los vehículos ferroviarios, en las partes de la infraestructura ni en el medio ambiente.
+No se produjeron daños en las mercancías transportadas, en el equipaje ni en otros bienes.
 No se activó el IZS.
-### 3.1.5 Descripción de otras consecuencias, incluido el impacto del suceso en las actividades habituales de las entidades participantes
-Como consecuencia de la producción del incidente ferroviario se interrumpió la circulación desde las 7:12 h hasta las 10:56 h.
-### 3.1.6 Identificación de las personas, sus funciones y las entidades participantes
-Personas participantes:
-Por parte del explotador del ferrocarril (SŽ):
-
+### 3.1.5 Descripción de otras consecuencias, incluido el impacto del suceso en las actividades regulares de los sujetos participantes
+Como consecuencia de la aparición de la anomalía se interrumpió la circulación desde las 7:12 h hasta las 10:56 h.
+### 3.1.6 Identificación de las personas, sus funciones y los sujetos participantes
+Personas participantes por:
+Gestor de la infraestructura (SŽ):
 
 ## Página 14
+
 
 •
 despachador de tramo del CDP Praga, empleado de SŽ.
@@ -1974,6 +366,7 @@ tras recorrer una distancia de 261 m desde el arranque, el tren se detuvo.
 
 ## Página 15
 
+
 El estado real del tren comprobado en el lugar del SU correspondía a la documentación del tren.
 | Tren: | Os7151 | Unidad diésel Coradia Lint: |  | Modo de frenado: |
 | Longitud del tren (m): | 42 | MDT en cabeza de la unidad | 955458462863 - | R |
@@ -2010,8 +403,8 @@ La est. Jablonné está electrificada con sistema de tensión de 3 kV, protegida
 El paso a nivel P4074 en el pk 98,475 es de vía única y está equipado con PZS 3 SBI. La estructura del paso a nivel es de caucho-metal, el tipo de calzada es con revestimiento asfáltico – asfalto.
 La est. Jablonné está equipada con SZZ de 3.ª categoría según TNŽ 34 2620 tipo ESA 11. La SZZ dispone de un Certificado de idoneidad del dispositivo técnico designado, emitido por la Autoridad Ferroviaria de Praga, n.º de registro PZ 2334/08-E.45 de fecha 26. 11. 2008 con vigencia por tiempo indefinido.
 
-
 ## Página 16
+
 
 El 23. 7. 2020 se realizó, tras el SU, una inspección técnica de la SZZ indicada. En el acta de dicha inspección se indica, entre otras cosas: «Del análisis de los datos de la SZZ se constató que el suceso excepcional no fue causado por la tecnología y el mantenimiento del dispositivo de señalización en Správě železnic… Las inspecciones y el mantenimiento establecidos del dispositivo de señalización se realizaron en los plazos prescritos establecidos por el Decreto 177/95 Sb., las normas de SŽ, s.o. y el plan de mantenimiento aprobado ...»
 De los datos del dispositivo de registro de la SZZ en la est. Jablonné de fecha 22. 7. 2020 se constató:
@@ -2054,8 +447,8 @@ Sobre la base del análisis de los datos indicados se constató que:
 las vías de tren para los trenes Os 7152 y Os 7151 fueron establecidas por la operación normal de la SZZ;
 •
 
-
 ## Página 17
+
 
 en la señal de vía Lc1 había, durante todo el tiempo desde el establecimiento de las vías de
 •
@@ -2103,56 +496,37 @@ maquinista del tren Os 7151
 •
 ◦el 22. 7. 2020 entró en turno a las 6:51 h;
 
-
 ## Página 18
 
-◦en la est. Letohrad recibió el tren Os 7151 en ruta y continuó la marcha hacia la est.
-Lichkov;
-◦hasta antes de la est. Jablonné la circulación transcurrió con normalidad;
-◦en el preaviso de la señal de entrada a la est. Jablonné tenía la señal «Espere
-velocidad 40 km·h-1»;
-◦al salir de la curva, al pasar el segundo señalizador de distancia de la señal de
-entrada, desde el cual ya es visible la señal de entrada, vio en dicha señal la
-señal «Alto»;
-◦inmediatamente aplicó el freno rápido, pero aun así pasó la señal de entrada en
-aprox. 8 m;
-◦inmediatamente se puso en contacto con el jefe de estación y le comunicó el suceso
-excepcional;
-◦a continuación ayudó a los pasajeros a descender del tren y les acompañó hasta el paso a
-nivel P4074, que se encontraba a unos 40 m delante del tren.
-despachador de vía CDP Praga
+◦en la estación de Letohrad recibió en el eje el tren Os 7151 y continuó la marcha hasta la estación de Lichkov;
+◦hasta antes de la estación de Jablonné la marcha transcurrió con normalidad;
+◦en el preaviso de la señal de entrada a la estación de Jablonné tenía la señal «Espere velocidad 40 km.h-1»;
+◦al salir de la curva, cuando pasaba el segundo indicador de distancia de la señal de entrada, desde el cual ya se ve la señal de entrada, vio en esta señal la señal «Alto»;
+◦aplicó inmediatamente el freno de emergencia, pero aun así pasó la señal de entrada en unos 8 m;
+◦inmediatamente se puso en contacto con el jefe de estación y le comunicó la incidencia extraordinaria;
+◦a continuación ayudó a los pasajeros a bajarse del tren y los acompañó hasta el paso a nivel P4074, que se encontraba a unos 40 m delante del tren.
+despachante de circulación CDP Praga
   – Acta con el empleado:
 •
-◦el 22. 7. 2020 estableció en la est. Jablonné la vía de tren para la entrada del tren Os 7152
-en la vía de estación 1 y para la entrada del tren Os 7151 en la vía de estación 2;
-◦hacia las 7:12 h registró en el monitor JOP la ocupación del circuito de vía V4,
-vía 1a, la avería de la señal autorizante en la señal S y además se indicó el corte
-de la aguja n.º 4;
-◦inmediatamente llamó al maquinista del tren Os 7152, quien le confirmó que había
-pasado la señal Lc1 y le comunicó que se había detenido con el tren;
-◦acto seguido le llamó el maquinista del tren Os 7151 y le comunicó que se había
-producido un cambio repentino de la indicación en la señal de entrada S y que se había
-detenido con el tren a unos 20 m detrás de dicha señal;
-◦le informó de la situación producida y le prohibió cualquier movimiento posterior con el tren;
-◦en colaboración con el despachador de reserva comunicaron la ocurrencia del suceso
-excepcional según el plan de notificación.
+◦el 22. 7. 2020 estableció en la estación de Jablonné la ruta ferroviaria para la entrada del tren Os 7152 en la vía 1 de estación y para la entrada del tren Os 7151 en la vía 2 de estación;
+◦a las unas 7:12 h registró en el monitor JOP la ocupación del circuito de vía V4, vía 1a, la avería de las señales de autorización en la señal S y, además, se indicó el corte de la aguja n.º 4;
+◦inmediatamente llamó al maquinista del tren Os 7152, quien le confirmó que había pasado la señal Lc1 y le comunicó que se había detenido con el tren;
+◦acto seguido le llamó el maquinista del tren Os 7151 y le comunicó que se había producido un cambio repentino de la señal en la señal de entrada S y que se había detenido con el tren a unos 20 m detrás de dicha señal;
+◦le informó de la situación surgida y le prohibió cualquier movimiento posterior con el tren;
+◦en colaboración con el despachante de reserva comunicaron la incidencia extraordinaria conforme al horario de comunicación.
 maquinista del tren Os 7152
-  – Registro de la explicación aportada para DI:
+  – Registro de la explicación prestada para DI:
 •
-◦al entrar en turno se sentía descansado, sin ningún tipo de problemas;
-◦al entrar en turno no se produjo ninguna anomalía;
-◦circula habitual y frecuentemente por esta línea;
-◦durante el turno no se produjeron en el vehículo ferroviario ningún tipo de averías o
-defectos;
-◦durante la puesta en marcha del tren inmediatamente antes de la ocurrencia del suceso
-excepcional tenía buena visibilidad desde su puesto;
-◦durante la puesta en marcha del tren miraba por la ventana hacia atrás si algún pasajero
-estaba corriendo y si todas las puertas estaban cerradas;
-◦registró la señal «Alto» en la señal Lc1 solo con la visión periférica cuando la estaba
-pasando;
-
+◦al incorporarse al turno se sentía descansado, sin ningún tipo de problemas;
+◦al incorporarse al turno no se produjo ninguna incidencia;
+◦circula habitualmente y con frecuencia en esta línea;
+◦durante el turno no se produjeron averías ni defectos en el material rodante;
+◦durante la puesta en marcha del tren, inmediatamente antes de producirse la incidencia extraordinaria, tenía buena visibilidad desde su puesto;
+◦durante la puesta en marcha del tren miraba por la ventanilla hacia atrás para comprobar si algún pasajero estaba corriendo detrás y si estaban cerradas todas las puertas;
+◦registró la señal «Alto» en la señal Lc1 con la visión periférica solo cuando la pasaba;
 
 ## Página 19
+
 
 ◦considera que el hecho de no haber registrado la señal «Alto» durante la puesta en
 marcha del tren fue causado por un descuido momentáneo al cumplir otras tareas de
@@ -2197,8 +571,8 @@ el tren Os 7152 se detuvo con la parte trasera en la zona de la aguja n.º 4.
 ### 3.2.1 Secuencia de hechos que condujeron al suceso excepcional
 El 22. 7. 2020 a las 6:42 h partió el tren Os 7152 desde la estación D3 Králíky, siendo la estación de destino la est. Ústí nad Orlicí. Hasta la est. Jablonné la circulación transcurrió con normalidad. El tren entró en la est. Jablonné con la señal «Aviso» en la señal de entrada L y a las 7:09:44 h se detuvo en la isla andén de la 1.ª SK. La hora de salida fijada era a las 7:11 h. El maquinista a las 7:11 h comprobó mirando hacia atrás por la ventana si el ascenso y descenso de pasajeros estaba finalizado, a continuación cerró las puertas, volvió a comprobar, según su declaración, la hora de salida y puso el tren Os 7152 en marcha. Al pasar junto a la señal Lc1 en el pk 99,041 a una velocidad de 55 km·h-1 se percató de que en la señal estaba encendida la señal «Alto», e inmediatamente aplicó el frenado de acción rápida. El tren Os 7152 pasó la aguja n.º 4 en el pk 98,974, que desplazó forzosamente, y se detuvo con el frente en el pk 98,937, a 104 m de la señal Lc1 y con el último eje del bogie trasero sobre dicha aguja. Con el paso de la señal Lc1 con la señal «Alto» se produjo el cambio de la indicación de la señal
 
-
 ## Página 20
+
 
 de entrada S de la señal autorizante «Velocidad 40 km·h-1 y espere velocidad 40
 km·h-1» a la señal «Alto» en el momento en que el tren Os 7151 se aproximaba a ella
@@ -2208,6 +582,7 @@ Fig. n.º 3: La cámara del tren en el tren Os 7152 graba la circulación contra
 Fig. n.º 4: La cámara del andén en la est. Jablonné muestra la circulación del tren Os 7152 contra la señal «Alto».         Fuente: SŽ
 
 ## Página 21
+
 
 El 22. 7. 2020 a las 7:01 h partió el tren Os 7151 de la est. Letohrad, el destino del viaje era la parada Moravský Karlov. Hasta antes de la est. Jablonné el viaje transcurrió con normalidad. La preseñal PřS de la señal de entrada S a la est. Jablonné se encontraba en la posición «Espere velocidad «40 km·h-1»». Tras salir de la curva situada después de esta preseñal, el maquinista vio en la señal de entrada S la señal «Alto». Inmediatamente aplicó frenado de acción rápida a una velocidad de 65 km·h-1, sin embargo, ya no logró detenerse antes de la señal. La cabeza del tren Os 7151 se detuvo a 11 m detrás de esta señal en el km 98,429.
 ### 3.2.2 Secuencia de hechos desde la ocurrencia de la incidencia hasta la finalización de las acciones de los servicios de emergencia
@@ -2255,30 +630,29 @@ El Plan IZS no fue activado dada la naturaleza de la incidencia (MU).
 ### 4.1.1 Transportistas y gestores de la vía
 La persona que dirige el transporte ferroviario (el despachador de vía CDP Praga) está, al dirigir el transporte ferroviario, en el sentido del § 22 apartado 1 letra a) de la Ley núm. 266/1994 Sb., § 14 apartado 1, § 15 apartado 1 letras a), c) y § 15 apartado 2 del decreto núm. 173/1995 Sb. y de las disposiciones correspondientes de las normas internas del gestor de la vía SŽ, entre otras, obligada a garantizar la dirección del transporte ferroviario conforme al horario, aprovechando las dependencias derivadas de la actividad del sistema de señalización en servicio. Asimismo, está obligada a garantizar que la ruta de tren asignada al viaje de un tren no esté ocupada por otros vehículos ferroviarios, que no se autorice la circulación de otro vehículo ferroviario que cruce o se intersecte con dicha ruta de tren, y que la entrada de un tren en una estación con bifurcación de vías sea
 
-
 ## Página 22
 
-autorizada solo cuando la ruta de tren esté correctamente establecida y libre conforme a las disposiciones del § 14 apartado 1 del decreto núm. 173/1995 Sb.
-En la investigación no se constató infracción de los preceptos legales, normas internas y normas técnicas antes mencionados, relativos a las funciones y obligaciones del gestor de la vía SŽ, ni en relación causal ni fuera de relación causal con la ocurrencia de la incidencia (MU).
-El maquinista está, al dirigir un tren (DV), en el sentido del § 35 apartado 1 letras a) y g) de la Ley núm. 266/1994 Sb., § 35 apartado 1 letra h) del decreto núm. 173/1995 Sb. y de las disposiciones correspondientes de las normas internas del gestor de la vía SŽ y del transportista LET, entre otros, obligado a regirse, en la explotación del transporte ferroviario, por las instrucciones del gestor de la vía impartidas en la organización del transporte ferroviario, pudiendo poner en movimiento un vehículo ferroviario únicamente ante la señal «Salida» u otra autorización establecida por el gestor de la vía.
-El tren Os 7152 permanecía detenido en la est. Jablonné en el andén isla 1. SK frente a la señal de vía Lc1 con la señal «Alto». A pesar de que el maquinista no recibió instrucción para la expedición del tren, dada por la señal autorizante en la señal Lc1, puso el tren Os 7152 en movimiento y pasó la señal Lc1 con la señal «Alto». Con la circulación posterior forzó el cambio de aguja núm. 4 establecido en la 2. SK para el tren Os 7151 y se detuvo con el último eje del bogie trasero sobre dicha aguja. En ese momento se aproximaba a la est. Jablonné el tren Os 7151, para el cual se había establecido la ruta de tren en la 2. SK, y la señal de entrada S desde la est. Letohrad indicaba la señal autorizante «Velocidad 40 km·h-1 y espere velocidad 40 km·h-1». Ante la circulación no autorizada del tren Os 7152 más allá de la señal Lc1 en la posición «Alto», los enlaces de seguridad SZZ para la protección de la ruta de tren establecida para el tren Os 7151 reaccionaron y cambiaron el indicador de la señal de entrada S de la señal que autoriza la circulación del tren a la señal «Alto». El maquinista del tren Os 7151 reaccionó a este hecho con la aplicación inmediata del frenado de acción rápida, sin embargo, ya no logró detenerse antes de la señal y se produjo la ocurrencia de la incidencia (MU).
-El maquinista, con la circulación no autorizada del tren Os 7152 más allá de la señal de vía Lc1 con la señal «Alto», infringió las disposiciones a continuación indicadas.
-### Hallazgos:
-En la investigación se constató infracción de los preceptos legales, normas internas y normas técnicas, relativos a las funciones y obligaciones del transportista, en relación causal con la ocurrencia de la incidencia (MU):
-§ 35 apartado 1 letra a) de la Ley núm. 266/1994 Sb.:
+permitido, solo si la vía de tren está correctamente establecida y libre según lo dispuesto en el § 14 apartado 1 del decreto nº 173/1995 Sb.
+En la investigación no se constató infracción de las disposiciones legales, normas internas y normas técnicas antes mencionadas, relativas a las funciones y obligaciones del gestor de la infraestructura SŽ, ni en relación causal ni fuera de relación causal con la aparición del MU.
+El maquinista, al conducir un tren (DV), en el sentido del § 35 apartado 1 letra a) y g) de la ley nº 266/1994 Sb., del § 35 apartado 1 letra h) del decreto nº 173/1995 Sb., y de las disposiciones correspondientes de las normas internas del gestor de la infraestructura SŽ y del transportista LET, entre otros, está obligado a regirse, al explotar el transporte ferroviario, por las instrucciones del gestor de la infraestructura emitidas al organizar el transporte ferroviario, pudiendo poner en movimiento el vehículo ferroviario únicamente mediante la señal «Salida» u otra autorización establecida por el gestor de la infraestructura.
+El tren Os 7152 se encontraba detenido en la estación de Jablonné junto al andén isla 1. SK, delante de la señal de camino Lc1 con la señal «Alto». Aunque el maquinista no recibió instrucción para la expedición del tren, dada mediante la señal autorizante en la señal Lc1, puso en movimiento el tren Os 7152 y pasó la señal Lc1 con la señal «Alto». Con la marcha siguiente forzó el cambio nº 4, establecido en el 2. SK para el tren Os 7151, y se detuvo con el último eje del bogie trasero sobre dicho cambio. En ese momento se aproximaba a la estación de Jablonné el tren Os 7151, para el cual estaba establecida la vía de tren en el 2. SK, y la señal de entrada S desde la estación de Letohrad indicaba la señal autorizante «Velocidad 40 km·h-1 y espere velocidad 40 km·h-1». Ante la marcha no autorizada del tren Os 7152 más allá de la señal Lc1 en posición «Alto», reaccionaron los enlaces de seguridad SZZ para la protección de la vía de tren establecida para el tren Os 7151 y cambiaron el indicador de señal en la señal de entrada S de la señal que autoriza la marcha del tren a la señal «Alto». El maquinista del tren Os 7151 reaccionó a esta circunstancia con la aplicación inmediata de frenado de acción rápida, pero no logró detenerse antes de la señal y se produjo el MU.
+El maquinista, con la marcha no autorizada del tren Os 7152 más allá de la señal de camino Lc1 con la señal «Alto», infringió las disposiciones indicadas a continuación.
+### Constatación:
+En la investigación se constató la infracción de disposiciones legales, normas internas y normas técnicas, relativas a las funciones y obligaciones del transportista, en relación causal con la aparición del MU:
+§ 35 apartado 1 letra a) de la ley nº 266/1994 Sb.:
 •
-«El transportista está obligado a explotar el transporte ferroviario conforme a las reglas de explotación del transporte ferroviario, la licencia vigente y el contrato celebrado con el gestor de la vía para la explotación del transporte ferroviario en la vía,»;
-§ 35 apartado 1 letra g) de la Ley núm. 266/1994 Sb.:
+«El transportista está obligado a explotar el transporte ferroviario de acuerdo con las reglas de explotación del transporte ferroviario, la licencia vigente y el contrato celebrado con el gestor de la infraestructura para la explotación del transporte ferroviario en la vía,»;
+§ 35 apartado 1 letra g) de la ley nº 266/1994 Sb.:
 •
-«El transportista está obligado a regirse, en la explotación del transporte ferroviario, por las instrucciones del gestor de la vía impartidas en la organización del transporte ferroviario,»;
-§ 35 apartado 1 letra h) del decreto núm. 173/1995 Sb.:
+«El transportista está obligado a regirse, al explotar el transporte ferroviario, por las instrucciones del gestor de la infraestructura emitidas al organizar el transporte ferroviario,»;
+§ 35 apartado 1 letra h) del decreto nº 173/1995 Sb.:
 •
-«Para la conducción de un vehículo ferroviario debe garantizarse que la persona que dirige el vehículo ferroviario haga que el vehículo ferroviario de tracción se ponga en movimiento únicamente ante la señal «Salida» u otra autorización establecida por el gestor de la vía, o ante la señal correspondiente para las maniobras en la dirección establecida, con la condición de que conozca el modo y el destino de la circulación,»
-§ 35 apartado 1 letra f) del decreto núm. 173/1995 Sb.:
+«Para la conducción de un vehículo ferroviario debe garantizarse que la persona que conduce el vehículo ferroviario motriz ponga en movimiento el vehículo ferroviario únicamente mediante la señal «Salida» u otra autorización establecida por el gestor de la infraestructura, o la señal correspondiente para las maniobras en la dirección establecida, siempre que conozca el modo y el destino de la marcha,»
+§ 35 apartado 1 letra f) del decreto nº 173/1995 Sb.:
 •
-
 
 ## Página 23
+
 
 «Para la conducción de un vehículo ferroviario debe garantizarse que la persona que dirige el vehículo ferroviario observe la vía y las señales desde el vehículo ferroviario de cabeza y actúe conforme a los hechos constatados,»;
 § 35 apartado 1 letra m) del decreto núm. 173/1995 Sb.:
@@ -2307,8 +681,8 @@ En la investigación no se constató infracción de las funciones y obligaciones
 ### 4.1.4 Autoridades de seguridad nacionales y Agencia de la Unión Europea para los Ferrocarriles
 La autoridad de seguridad nacional es la Oficina de Ferrocarriles (Drážní úřad), que de acuerdo con la Ley núm. 266/1994 Sb. es la autoridad administrativa dependiente del Ministerio de Transportes. Su función es, entre otras, el ejercicio de la supervisión estatal en materia de ferrocarriles y en materia de autoridad de construcción, el ejercicio de la autoridad de construcción especial para obras ferroviarias y obras en la vía, la aprobación de vehículos ferroviarios nuevos y modernizados y de instalaciones técnicas designadas, y la tramitación de infracciones. La obligación del Oficina de Ferrocarriles es comunicar, en el plazo de 12 meses desde la fecha de publicación del informe final que contenga las recomendaciones de seguridad dirigidas a la misma, a la Inspección Ferroviaria qué medida ha adoptado en relación con dicha recomendación de seguridad.
 
-
 ## Página 24
+
 
 La función de la Agencia de la Unión Europea para los Ferrocarriles es, además de garantizar, en el marco de sus competencias, que se mantenga generalmente y, en la medida de lo posible, se aumente de forma continua la seguridad de los ferrocarriles, entre otras, la emisión, renovación, suspensión y modificación de certificados únicos de seguridad, la limitación de su vigencia o su anulación, en cuestión en la que colabora con las autoridades de seguridad nacionales; asimismo emite autorizaciones para la comercialización de vehículos ferroviarios y tipos de vehículos y está facultada para renovar, modificar, suspender o anular las autorizaciones que haya emitido. La Agencia evalúa además los proyectos de normas nacionales, etc.
 En la investigación no se constató infracción de las funciones y obligaciones de la autoridad de seguridad nacional y de la Agencia de la Unión Europea para los Ferrocarriles.
@@ -2326,8 +700,8 @@ En la investigación no se constataron factores derivados de la instalación y p
 ### 4.2.3 Factores o consecuencias relacionados con los fabricantes de vehículos ferroviarios u otros proveedores de productos ferroviarios
 En la investigación no se constataron factores relacionados con los fabricantes de vehículos ferroviarios u otros proveedores de productos ferroviarios.
 
-
 ## Página 25
+
 
 ### 4.2.4 Factores o consecuencias derivados del mantenimiento y la modificación de los vehículos ferroviarios o de las instalaciones técnicas
 En la investigación no se constataron factores derivados del mantenimiento y la modificación de los vehículos ferroviarios o de las instalaciones técnicas.
@@ -2354,23 +728,23 @@ Las condiciones pertinentes del marco regulatorio están establecidas en los Reg
 ## Página 26
 
 4.4.2 Procedimientos, métodos, contenido y resultados de las actividades de evaluación de riesgos y seguimiento realizadas por cualquiera de los sujetos participantes
-No se detectaron deficiencias en los procedimientos, métodos, contenido y resultados de las actividades de evaluación de riesgos y seguimiento relacionados con las circunstancias del origen de la M.E. en cuestión.
+En los procedimientos, métodos, contenido y resultados de las actividades de evaluación de riesgos y seguimiento, relacionados con las circunstancias del origen de la MRC en cuestión, no se detectaron deficiencias.
 ### 4.4.3 Sistema de garantía de seguridad de los transportistas y gestores de infraestructura participantes
-No se detectaron deficiencias en el sistema de garantía de seguridad adoptado por el gestor de la infraestructura y el transportista, relacionado con las circunstancias del origen de la M.E. en cuestión.
-### 4.4.4 Sistema de gestión de los sujetos responsables del mantenimiento de los vehículos ferroviarios y de los talleres de mantenimiento
-El sistema de gestión de los sujetos responsables del mantenimiento de los vehículos ferroviarios y de los talleres de mantenimiento no guardaba relación con el origen de la M.E.
+En el sistema de garantía de seguridad adoptado por el gestor de la infraestructura y el transportista, relacionado con las circunstancias del origen de la MRC en cuestión, no se detectaron deficiencias.
+### 4.4.4 Sistema de gestión de los sujetos responsables del mantenimiento del material rodante ferroviario y de los talleres de mantenimiento
+El sistema de gestión de los sujetos responsables del mantenimiento del material rodante ferroviario y de los talleres de mantenimiento no guardaba relación con el origen de la MRC.
 ### 4.4.5 Resultados de la supervisión realizada por las autoridades nacionales de seguridad
-Atendiendo a los factores y circunstancias detectados del origen de la M.E., la supervisión de la autoridad de seguridad no guarda relación con la M.E. en cuestión.
-### 4.4.6 Aprobaciones, certificados y evaluaciones emitidos por la Agencia, las autoridades nacionales de seguridad u otros sujetos de evaluación de la conformidad
-El gestor de la infraestructura explotaba la infraestructura con base en una autorización administrativa vigente y un certificado de seguridad del gestor de la infraestructura. El transportista explotaba el transporte ferroviario con base en una licencia vigente y un certificado del transportista.
+Atendiendo a los factores y circunstancias detectados del origen de la MRC, la supervisión de la autoridad de seguridad no guarda relación con la MRC en cuestión.
+### 4.4.6 Aprobaciones, certificados y evaluaciones emitidos por la agencia, las autoridades nacionales de seguridad u otros sujetos de evaluación de la conformidad
+El gestor de la infraestructura explotaba la infraestructura en virtud de una autorización administrativa vigente y de un certificado de seguridad del gestor de la infraestructura. El transportista explotaba el transporte ferroviario en virtud de una licencia vigente y de un certificado del transportista.
 ### 4.4.7 Otros factores sistémicos
 En la investigación no se detectaron otros factores sistémicos.
 ### 4.5 Sucesos anteriores de naturaleza similar
-La Inspección Ferroviaria registra en el período comprendido entre el 1 de enero de 2015 y la fecha del origen de la M.E. en cuestión, en las vías férreas de categoría estatal y regional, un total de 501 M.E. análogas, en las que un tren invadió indebidamente más allá de la señal principal, que con la señal «Alto» prohibía la circulación del tren. Como consecuencia de estas circulaciones indebidas, falleció 1 persona, 82 personas resultaron lesionadas y se produjo un daño total de 262 802 288 CZK.
-En el período observado, la DI registra del número anteriormente mencionado un total de 110 M.E. análogas, cuya causa de origen fue la puesta en movimiento indebida de un tren con transporte de viajeros, la salida indebida de un tren del espacio destinado al ascenso y descenso de viajeros, con la consiguiente circulación indebida de estos trenes más allá de la señal principal con la señal «Alto», en estaciones donde la orden de salida del tren la da el jefe de estación al maquinista mediante la colocación de la señal principal en la señal que permite la circulación.
-
+La Inspección Ferroviaria registra en el periodo comprendido entre el 1 de enero de 2015 y la fecha del origen de la MRC en cuestión, en las infraestructuras ferroviarias de categoría nacional y regional, un total de 501 MRC análogas, en las que un tren invadió indebidamente más allá del límite de la señal principal que, con la indicación «Alto», prohibía la circulación del tren. Como consecuencia de estas circulaciones indebidas, falleció 1 persona, 82 personas resultaron con lesiones y se produjo un daño total de 262 802 288 CZK.
+En el periodo observado, la DI registra, del número anteriormente indicado, un total de 110 MRC análogas cuyo origen fue la puesta en movimiento indebida de un tren con transporte de viajeros, la salida indebida de un tren del espacio destinado al ascenso y descenso de viajeros, con la consiguiente circulación indebida de dichos trenes más allá de la señal principal con la indicación «Alto», en estaciones donde la orden de salida del tren la da el jefe de estación al maquinista mediante la colocación de la señal principal en la indicación que permite la circulación.
 
 ## Página 27
+
 
 ### 5 CONCLUSIONES
 ### 5.1 Resumen del análisis y conclusiones relativas a las causas del suceso
@@ -2399,8 +773,8 @@ El transportista LET emitió, tras el origen de la M.E., las siguientes medidas:
 ### Measures taken since the occurrence
 The infrastructure manager SŽ did not take any measures.
 
-
 ## Página 28
+
 
 The railway undertaking LET took the following measures after the occurrence:
 1. employment with the train driver of the train Os 7152 was terminated;
@@ -2438,15 +812,15 @@ Director
 De la Inspección Territorial de Brno
 De la Inspección Territorial de Brno
 
-
 ## Página 29
+
 
 ### ANEXOS
 Fig. n.º 5: El tren Os 7152 se detuvo con el último eje del bogie trasero en el desvío n.º 4                                                                                                                       Fuente: DI
 Fig. n.º 6: Visibilidad de la señal Lc1             Fuente: DI
 
-
 ## Página 30
+
 
 Fig. n.º 7: El frente del tren Os 7151 rebasó la señal S en 11 m                            Fuente: DI
 Fig. n.º 8: El frente del tren Os 7151 se detuvo a 46 m de la PZS P4074                       Fuente: DI

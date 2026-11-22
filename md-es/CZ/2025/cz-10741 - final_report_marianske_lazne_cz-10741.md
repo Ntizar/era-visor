@@ -10,13 +10,14 @@ chars: 132415
 ratio_longitud: 1.24
 tokens_in: 67780
 tokens_out: 50133
-verificacion: revisar
-notas_cifras: ["bloque 1: original bilingüe: se compara contra el idioma principal (CS)", "bloque 5: original bilingüe: se compara contra el idioma principal (CS)", "bloque 6: original bilingüe: se compara contra el idioma principal (CS)", "bloque 7: original bilingüe: se compara contra el idioma principal (CS); cifras cortas: 1/142", "bloque 10: original bilingüe: se compara contra el idioma principal (CS)"]
-avisos: ["bloque 7: ratio 1.72", "bloque 10: ratio 1.65"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 3: original bilingüe: se compara contra el idioma principal (PT)", "página 5: original bilingüe: se compara contra el idioma principal (CS)", "página 6: original bilingüe: se compara contra el idioma principal (CS)", "página 11: original bilingüe: se compara contra el idioma principal (CS)", "página 12: cifras largas: 2/20; cifras cortas: 1/9"]
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -43,14 +44,14 @@ IČ: 75009561
 mail@di.gov.cz
 tel.: +420 736 521 003
 
-
 ## Página 2
+
 
 Este informe final es público y todos los hechos en él expuestos están respaldados por el expediente de investigación.
 La Inspección Ferroviaria no se ocupa, en el marco de la investigación, de la responsabilidad penal o administrativa, y por tanto no puede deducirse de este informe final. La investigación se llevó a cabo de forma independiente con el objetivo de determinar las causas y circunstancias de la incidencia.
 
-
 ## Página 3
+
 
 ### 1 RESUMEN
 Fuente: Inspección Ferroviaria
@@ -78,8 +79,8 @@ No fue detectado por la Inspección Ferroviaria ningún factor contribuyente.
 No fue detectada por la Inspección Ferroviaria ninguna causa sistémica.
 No fue emitida por la Inspección Ferroviaria ninguna recomendación de seguridad.
 
-
 ## Página 4
+
 
 ### RESUMEN
 14 de octubre de 2025, 12:40 (10:40 GMT).
@@ -107,8 +108,8 @@ Factor sistémico:
 ninguno.
 Recomendación: no emitida.
 
-
 ## Página 5
+
 
 ## Índice
 1 RESUMEN....................................................................................................................3
@@ -150,8 +151,8 @@ RESUMEN.........................................................................
 4.2 Material rodante e instalaciones técnicas...........................................................................46
 4.2.1 Factores o consecuencias derivados de la construcción del material rodante, la infraestructura ferroviaria o las instalaciones técnicas.....................................................................46
 
-
 ## Página 6
+
 
 4.2.2 Factores o consecuencias derivados de la instalación y puesta en servicio del material rodante, la infraestructura ferroviaria o las instalaciones técnicas......................................46
 4.2.3 Factores o consecuencias relacionados con los fabricantes de material rodante u otros proveedores de productos ferroviarios............................................................................46
@@ -181,6 +182,7 @@ RESUMEN.........................................................................
 6 RECOMENDACIONES DE SEGURIDAD.....................................................................................51
 
 ## Página 7
+
 
 ### Lista de abreviaturas y símbolos utilizados
 CDP
@@ -252,8 +254,8 @@ vehículo ferroviario sobre raíles
 žst.
 estación de ferrocarril
 
-
 ## Página 8
+
 
 ### Lista de abreviaturas de la legislación, normas y normativa interna utilizados
 ley núm. 266/1994 Sb.
@@ -277,8 +279,8 @@ normativa interna del explotador ferroviario SŽ, «Reglamento de la estación d
 normativa interna ČDC KV1-B-2008
 normativa interna del transportista ČDC, «ČDC KV1-B-2008 Condiciones operativas y técnicas para vagones ferroviarios», en la redacción vigente en el momento de la ocurrencia de la MU
 
-
 ## Página 9
+
 
 normativa interna ČDC PU-1-C-ČDC-CZ
 normativa interna del transportista ČDC, «PU-1-C-ČDC-CZ Disposiciones de ejecución para KV1-B-2008», en la redacción vigente en el momento de la ocurrencia de la MU
@@ -293,8 +295,8 @@ Anexo del tratado internacional «ANEXO 9 al Acuerdo General sobre el uso de vag
 ČSN 34 2650 ed. 2
 ČSN 34 2650 ed. 2 «Dispositivos de seguridad ferroviarios – Dispositivos de seguridad de paso a nivel», en la redacción vigente en el momento de la ocurrencia de la MU
 
-
 ## Página 10
+
 
 ### 2 INVESTIGACIÓN Y SUS RELACIONES
 ### 2.1 Decisión sobre el inicio de la investigación
@@ -323,8 +325,8 @@ inspección del lugar de la MU, incluidos los DV participantes;
 •
 inspección del SZZ y de la infraestructura ferroviaria;
 
-
 ## Página 11
+
 
 •
 análisis de los datos registrados por el registrador de velocidad del HDV participante;
@@ -365,8 +367,8 @@ Hora:
 Lugar:
 ferrocarril, categoría nacional, žst. Mariánské Lázně, SK núm. 5 en km 424,804 – inicio del viaje no asegurado. El lugar de la colisión con el grupo de vehículos ferroviarios estacionados fue la žst. Planá u Mariánských Lázní, vía de maniobras núm. 13 en km 412,835.
 
-
 ## Página 12
+
 
 Coordenadas GPS:
 49.9576786N, 12.6916150E (inicio del viaje no asegurado en la žst. Mariánské Lázně);
@@ -386,31 +388,47 @@ en km 412,835
 Fig. núm. 1: Esquema del lugar de la ocurrencia de la MU
          Fuente: DI
 
-
 ## Página 13
 
-De la inspección del lugar de la MU se constató lo siguiente:
-La inspección del lugar de la ocurrencia de la MU se inició en la žst. Planá u Mariánských Lázní, concretamente con la inspección del DV de la serie Es110.7 núm. 21 RIV 54 CZ-ČDC 5555 444-8 (en adelante también DV núm. 5555 444-8), que se desplazó desde la žst. Mariánské Lázně y chocó contra el grupo de DV estacionados en la vía de maniobras núm. 13 de la žst. Planá u Mariánských Lázní. A continuación, se prosiguió con la inspección de la vía de maniobras núm. 13 desde la aguja núm. 18, incluidas las marcas dejadas por los topes en las cabezas de los carriles. La inspección continuó en la žst. Mariánské Lázně desde la aguja núm. 2 en sentido contrario a la marcha del DV desplazado, por la SK núm. 5 hasta el HDV CZ-ČDC 92 54 2 742 742-0, incluida la inspección de la sección de maniobras en la SK núm. 5 y de la cabina de conducción del HDV, y a continuación del grupo de DV estacionados en la SK núm. 7. Posteriormente, se realizó la comprobación de los datos registrados desde el ordenador tecnológico del SZZ de la žst. Mariánské Lázně en relación con el viaje del DV núm. 5555 444-8. Finalmente, en la žst. Planá u Mariánských Lázní se realizó un ensayo de comprobación para determinar el tiempo de estanqueidad del freno de aire en estado frenado del DV en cuestión.
-###   Ž  st.
-## 1)
+La inspección del lugar del MU arrojó los siguientes resultados:
+La inspección del lugar de origen del MU se inició en la est. Planá u Mariánských Lázní, concretamente
+mediante la inspección del DV de la serie Es110.7 n.º 21 RIV 54 CZ-ČDC 5555 444-8 (en adelante también DV n.º 5555 444-8),
+que se desvió de la est. Mariánské Lázně y embistió a un grupo de DV estacionados en la
+vía de maniobras n.º 13 de la est. Planá u Mariánských Lázní. A continuación, se prosiguió con la inspección de la vía de maniobras
+n.º 13 desde el desvío n.º 18, incluidas las marcas de los topes en las cabezas de los tramos de riel.
+La inspección continuó después en la est. Mariánské Lázně desde el desvío n.º 2 en sentido contrario a la marcha
+del DV desviado por la vía n.º 5 hasta el HDV CZ-ČDC 92 54 2 742 742-0, incluida la
+inspección de la sección de maniobras en la vía n.º 5 y la cabina de conducción del HDV, y
+posteriormente el grupo de DV estacionados en la vía n.º 7. A continuación, se realizó una comprobación de los datos registrados desde el ordenador tecnológico del SZZ de la est. Mariánské Lázně en relación con la circulación del DV n.º 5555 444-8. Para concluir, en la est. Planá
+u Mariánských Lázní se realizó una prueba de verificación para determinar el tiempo de estanqueidad del freno de aire
+en estado frenado del DV en cuestión.
+###   Es t. 
+## 1) 
 ###  Planá u Mariánských Lázní:
 Estado de los vehículos ferroviarios:
-### DV núm. 21 54 CZ-ČDC 5555 444-8:
+### DV n.º 21 54 CZ-ČDC 5555 444-8:
 •
-en el lugar de la posición final tras la MU se encontraba con el extremo I (delantero en sentido de marcha) en km 412,852, es decir, 17,3 m antes del lugar de la colisión con el grupo de DV estacionados en la vía de maniobras núm. 13;
+en el lugar de la posición final tras el MU se encontraba con el extremo I (delantero en el sentido de la marcha) en el km
+412,852, es decir, 17,3 m antes del lugar de la colisión con el grupo de DV estacionados en la
+vía de maniobras n.º 13;
 •
-la rueda delantera izquierda y la trasera izquierda en sentido de marcha estaban aseguradas con topes;
+la rueda delantera izquierda y la trasera izquierda en el sentido de la marcha estaban aseguradas con topes;
 •
-la palanca del mecanismo de desconexión del freno de aire se encontraba en una posición intermedia entre «ON» y «OFF», la palanca del conmutador se encontraba en la posición «CARGA»;
+la palanca del dispositivo de desconexión del freno de aire se encontraba en una posición intermedia entre «ON» y «OFF», la palanca del conmutador estaba en la posición «CARGA»;
 •
-los grifos de paso del tubo continuo del freno de aire en el extremo I (delantero en sentido de marcha) estaban cerrados, en el extremo II (trasero en sentido de marcha) el grifo izquierdo estaba cerrado y el derecho abierto;
+los grifos frontales de la tubería continua del freno de aire en el extremo I (delantero en el sentido de la marcha)
+estaban cerrados, en el extremo II (trasero en el sentido de la marcha) el grifo izquierdo estaba
+cerrado y el derecho abierto;
 •
-en los amortiguadores del extremo I se constataron marcas de fuerte compresión;
+en los amortiguadores del extremo I se detectaron marcas de fuerte compresión;
 •
-según las inscripciones en la caja, el DV no tenía la revisión técnica periódica vigente (la última revisión técnica con validez de 6 años se realizó el 18. 7. 2018).
+el DV no disponía, según las inscripciones en la caja, de una inspección técnica periódica válida (la última
+inspección técnica con validez de 6 años se realizó el 18. 7. 2018).
 ### Grupo de DV estacionados:
 •
-el grupo de DV estacionados en la vía de maniobras núm. 13 estaba formado por DV de dos cuerpos de la serie Sggmrrs, cargados con madera en rollo, en orden desde el lugar de la colisión en km 412,835 en dirección a la žst. Plzeň hlavní nádraží:
+el grupo de DV estacionados en la vía de maniobras n.º 13 estaba formado por DV de dos cuerpos de la serie Sggmrrs,
+cargados con madera en rollo, en orden desde el lugar de la colisión en el km
+412,835 en dirección a la est. Plzeň hlavní nádraží:
 1. 35 TEN 81 A-IF 4657 188-2;
 2. 35 TEN 81 A-IF 4657 193-2;
 3. 35 TEN 81 A-IF 4657 190-8;
@@ -418,6 +436,7 @@ el grupo de DV estacionados en la vía de maniobras núm. 13 estaba formado por 
 5. 35 TEN 81 A-IF 4657 378-9;
 
 ## Página 14
+
 
 •
 en el DV 35 TEN 81 A-IF 4657 188-2 se detectó una fuerte compresión de los amortiguadores y un tornillo arrancado en el frontal de la superestructura en la posición 8L;
@@ -456,8 +475,8 @@ en la vía de maniobras n.º 13 desde la aguja n.º 18 hasta el lugar de la coli
 •
 la vía de maniobras n.º 13 no presentaba daños evidentes.
 
-
 ## Página 15
+
 
 Fig. n.º 2: Detalle de las huellas en el carril derecho de la vía de maniobras n.º 13 en la est. Planá u Mariánských Lázní
    Fuente: DI
@@ -474,8 +493,8 @@ estaba formado por 7 DV vacíos de la serie Es y un HDV, el frontal del DV 21 RI
 4. 21 RIV 54 CZ-ČDC 5555 372-1, el dispositivo de desconexión del freno de aire estaba en la posición entre «ENC» y «DES» y el selector del freno de aire estaba en la posición «PASAJEROS»;
 5. 21 RIV 54 CZ-ČDC 5555 670-8, el dispositivo de desconexión del freno de aire estaba en la posición «ENC» y el selector del freno de aire estaba en la posición «PASAJEROS», el DV estaba marcado con una etiqueta de ČDC «Modelo K No cargar/después de descargar al taller» con texto ilegible;
 
-
 ## Página 16
+
 
 6. 21 RIV 54 CZ-ČDC 5557 257-2, el dispositivo de desconexión del freno de aire estaba en la posición «ENC» y el selector del freno de aire estaba en la posición «PASAJEROS», el DV estaba marcado con etiquetas correctivas de ČDC «Modelo K No cargar/después de descargar al taller» con la nota «Para chatarrizar – Plzeň hl. n. – TRS» con fecha 9. 10. 2025, sello de ČDC, firma y número 1830;
 7. 21 RIV 54 CZ-ČDC 5557 295-2 el dispositivo de desconexión del freno de aire estaba en la posición «DES» y el selector del freno de aire estaba en la posición «MERCANCÍAS», el DV estaba marcado con etiquetas correctivas de ČDC «Modelo K No cargar/después de descargar al taller» con la nota «Para chatarrizar – Plzeň hl. n. – TRS» con fecha 9. 10. 2025, sello de ČDC, firma y número 1830;
@@ -507,8 +526,8 @@ mediante la inspección de la cabina de conducción n.º I, desde la que se mane
 ◦la cabina, incluido el pupitre de control, no presentaba signos de deformación ni de daños;
 ◦en la cabina quedaba documentado el «Libro de entrega del vehículo de tracción 742 742-0».
 
-
 ## Página 17
+
 
 ### Grupo de DV en la SK n.º 7:
 •
@@ -542,37 +561,38 @@ aguja n.º 2 en el km 424,377:
 ◦la lengüeta izquierda de la aguja estaba en contacto con el riel de apoyo izquierdo, la lengüeta derecha estaba separada del riel de apoyo derecho;
 ◦con la circulación del DV n.º 5555 444-8 en sentido contrario a la punta se produjo un maniobrado forzoso de corta duración de la aguja;
 
-
 ## Página 18
 
-◦en el lado exterior de la lengüeta izquierda de la aguja en el sentido de circulación del DV n.º 5555 444-8 a una distancia de 10,5 m de la punta de la lengüeta eran visibles huellas del roce de las ruedas del DV, que se produjeron como consecuencia de su seccionado, es decir, del maniobrado forzoso, y además a una distancia de 7,5 m de la punta de la lengüeta eran visibles huellas tanto del roce de las ruedas del DV como de la subida del canto de la rueda a la parte superior del carril izquierdo;
-◦en el borde superior de la lengüeta izquierda de la aguja a una distancia de 1,1 m de la punta de la lengüeta y en el borde superior de la lengüeta derecha de la aguja a una distancia de 1,4 m de la punta de la lengüeta eran visibles huellas de la circulación del DV por las lengüetas de la aguja;
+◦en el lado exterior del zurdo de la aguja de la aguja de desvío en el sentido de la marcha del DV n.º 5555 444-8 a una distancia de 10,5 m de la punta de la aguja eran visibles huellas de roce de las ruedas del DV, que se originaron como consecuencia de su corte, es decir, de su cambio forzado, y además a una distancia de 7,5 m de la punta de la aguja eran visibles huellas tanto de roce de las ruedas del DV como de trepada del muñón de la rueda sobre el canto del carril izquierdo;
+◦en el canto superior del zurdo de la aguja de la aguja de desvío a una distancia de 1,1 m de la punta de la aguja y en el canto superior del derecho de la aguja de la aguja de desvío a una distancia de 1,4 m de la punta de la aguja eran visibles huellas de la circulación del DV por las agujas de la aguja de desvío;
 •
-aguja n.º 5 en el km 424,424:
-◦aguja maniobrada centralmente por el despachador de línea CDP, protegida por un motor de maniobra con ganchos de mordaza;
-◦la aguja no estaba equipada con un contrapeso de aguja y una señal de aguja;
-◦la aguja estaba dispuesta para la circulación hacia la aguja n.º 6 y en la posición final prescrita;
-◦la lengüeta izquierda de la aguja estaba separada del riel de apoyo izquierdo, la lengüeta derecha estaba en contacto con el riel de apoyo derecho;
-◦la aguja fue recorrida por el DV n.º 5555 444-8 en sentido contrario a la punta;
+aguja de desvío n.º 5 en el pk 424,424:
+◦aguja de desvío con cambio centralizado por el despachista de línea CDP, protegida con un motor de cambio con cierres de mordaza;
+◦la aguja de desvío no estaba equipada con contrapeso de cambio ni con señal de aguja de desvío;
+◦la aguja de desvío estaba cambiada para la circulación hacia la aguja de desvío n.º 6 y en la posición final prescrita;
+◦el zurdo de la aguja de desvío estaba separado del soporte izquierdo, el derecho estaba pegado al soporte derecho;
+◦la aguja de desvío fue recorrida por el DV n.º 5555 444-8 por la punta;
 •
-aguja n.º 6 en el km 424,464:
-◦aguja maniobrada centralmente por el despachador de línea CDP, protegida por un motor de maniobra con ganchos de mordaza;
-◦la aguja no estaba equipada con un contrapeso de aguja y una señal de aguja;
-◦la aguja estaba dispuesta para la circulación hacia/desde la SK n.º 5 y en la posición final prescrita;
-◦la lengüeta izquierda de la aguja estaba en contacto con el riel de apoyo izquierdo, la lengüeta derecha estaba separada del riel de apoyo derecho;
-◦la aguja fue recorrida por el DV n.º 5555 444-8 en sentido contrario a la punta;
+aguja de desvío n.º 6 en el pk 424,464:
+◦aguja de desvío con cambio centralizado por el despachista de línea CDP, protegida con un motor de cambio con cierres de mordaza;
+◦la aguja de desvío no estaba equipada con contrapeso de cambio ni con señal de aguja de desvío;
+◦la aguja de desvío estaba cambiada para la circulación desde/hacia el SK n.º 5 y en la posición final prescrita;
+◦el zurdo de la aguja de desvío estaba pegado al soporte izquierdo, el derecho estaba separado del soporte derecho;
+◦la aguja de desvío fue recorrida por el DV n.º 5555 444-8 por la punta;
 •
-en el km 424,564 en la SK n.º 5, es decir, a 57 m del lugar de fuga del DV, en el carril derecho en el sentido de circulación del DV fugado había una huella de piedra triturada.
-Estado del dispositivo de señalización de la est. Mariánské Lázně:
-•
-la est. Mariánské Lázně estaba equipada con un SZZ de 3.ª categoría – ESA 11;
-•
-el SZZ de la est. Mariánské Lázně estaba siendo controlado a distancia por el despachador de línea CDP en el momento de la producción de la MU;
-•
-en relación con la circulación del DV n.º 5555 444-8 se realizó una comprobación de los datos registrados del ordenador tecnológico del SZZ de la est. Mariánské Lázně:
+en el pk 424,564 en el SK n.º 5, es decir, a 57 m del punto de arranque del DV, en el carril derecho en el sentido de la marcha del DV que se había ido había una huella de piedra triturada.
 
+Estado de la instalación de seguridad de la estación de Mariánské Lázně:
+
+•
+la estación de Mariánské Lázně estaba equipada con SZZ de 3.ª categoría – ESA 11;
+•
+el SZZ de la estación de Mariánské Lázně estaba en el momento del suceso del MU controlado a distancia por el despachista de línea CDP;
+•
+en relación con la circulación del DV n.º 5555 444-8 se realizó una comprobación de los datos registrados por el ordenador tecnológico del SZZ de la estación de Mariánské Lázně:
 
 ## Página 19
+
 
 ◦12:43:53 h – ocupación del tramo de vía V6 tras la señal de salida S5 con la señal «Alto» por la circulación no protegida del DV n.º 5555 444-8;
 ◦12:43:55 h – inicio de la alerta en el PAP P301 en el km 424,316;
@@ -612,6 +632,7 @@ No se produjo daño en las cosas transportadas, equipajes ni en otros bienes.
 
 ## Página 20
 
+
 ### 3.1.5 Descripción de otras consecuencias, incluido el impacto del suceso en las actividades habituales de los sujetos participantes
 Como consecuencia de la aparición del MU se produjo la interrupción de la circulación en la vía entre las estaciones de Mariánské Lázně y Planá u Mariánských Lázní desde las 12:45 h hasta las 13:27 h.
 ### 3.1.6 Identificación de las personas, sus funciones y los sujetos participantes
@@ -644,8 +665,8 @@ El transporte ferroviario se prestaba en virtud de un contrato celebrado entre e
 | Velocidad máxima permitida de maniobra en el lugar del MU [km·h-1]: | 30 | 5 . | 21RIV54CZ ČDC5557678 9 - - | P |
 | Modo de frenado: | I . | 6 . | 21RIV54CZ ČDC5542857 7 - - | G |
 
-
 ## Página 21
+
 
 | 7 . | 21RIV54CZ ČDC5557200 2 - - | P |
 |  | 21RIV54CZ ČDC5555444 8 - - | G |
@@ -664,8 +685,8 @@ Fig. n.º 3: Etiqueta de reparación de ČDC «Vzor K»
 El vagón n.º 5555 444-8 tenía, según las inscripciones en la caja y la documentación del transportista, la última inspección técnica extraordinaria tras reparación realizada el 18. 7. 2018 en el Centro de reparación de vehículos ferroviarios de Ostrava, con el resultado «El vehículo cumple las condiciones de explotación en las vías», con una validez de 6 años, es decir, hasta el 18. 7. 2024. El vagón del grupo constructivo 12 estaba conforme con el tipo aprobado: 9-110.7 según las condiciones técnicas n.º de ref.: TP 5-219/85, en virtud del Certificado de tipo de conformidad del vehículo ferroviario con el tipo aprobado según la ley n.º 266/1994 Sb., de fecha 18. 7. 2018. Se trataba de un vagón de carga abierto de dos ejes de alto lado de la serie Es con tapas frontales, destinado al transporte de mercancías a granel de naturaleza a granel o de mercancías sueltas a granel. El vagón no estaba equipado con freno de mano ni de ordenación. En el momento de producirse el MU se encontraba vacío y tenía los siguientes parámetros: longitud sobre topes 10 m, distancia entre ejes 6 m y peso propio 12,7 t (véase la fig. n.º 4).
 Según los documentos del transportista, el vagón n.º 5555 444-8 tenía una inspección técnica realizada por el jefe de vagones de ČDC el 9. 10. 2025 para la preparación y maniobra con motivo de la composición
 
-
 ## Página 22
+
 
 del tren de vagones destinados al transporte para chatarrao. No obstante, el vagón mencionado no figuraba entre los 8 vagones destinados a dicho transporte; debía ser objeto únicamente de maniobras en el marco de la composición del tren y, una vez finalizadas las maniobras, debía permanecer estacionado en la estación de Mariánské Lázně con los demás vagones de la serie Es depositados.
 Fig. n.º 4: Plano de tipo del vagón de la serie Es
@@ -682,8 +703,8 @@ Del análisis de los datos registrados por el registrador electrónico de veloci
 | 12:04:21 | inicio de la 3.ª fase de maniobras; . |
 Descripción detallada de la parte final de la 3.ª fase de maniobras (fuente: registro del registrador de velocidad de la locomotora y registro de vídeo de la estación de Mariánské Lázně):
 
-
 ## Página 23
+
 
 Punto
 Tiempo [h]
@@ -808,8 +829,8 @@ reducción de velocidad al acoplarse a los vagones en la SK n.º 5;
 424,706
 detención final de la unidad de maniobras.
 
-
 ## Página 24
+
 
 Del registro del registrador electrónico de velocidad de la locomotora se desprende que la velocidad máxima permitida en maniobra por tracción (40 km·h-1), por empuje (30 km·h-1) y al acoplarse a los vagones (5 km·h-1) en la estación de Mariánské Lázně no fue superada.
 | Unidad de maniobras en la SK n.º 7 est. Mariánské Lázně |  | Composición de la unidad de maniobras estacionada: |  | Modo de frenado: |
@@ -840,8 +861,8 @@ el titular de los vagones de la serie Es era ČDC.
 | Velocidad máxima permitida de maniobra en el lugar del MU [km·h-1]: | - |  |  |  |
 | Modo de frenado: | I . |  |  |  |
 
-
 ## Página 25
+
 
 Nota sobre el grupo de vagones estacionados:
 •
@@ -860,16 +881,16 @@ La estación de Mariánské Lázně se encuentra en el km 424,600, la estación 
 
 ## Página 26
 
-Las estaciones indicadas son controladas a distancia desde el CDP Praga por el despachador de línea n.º 524 (tramo est. Brod nad Tichou – est. Lipová u Chebu). La est. Mariánské Lázně es a su vez estación adyacente para la línea D3 Mariánské Lázně – Karlovy Vary dolní nádraží y la est. Planá u Mariánských Lázní es estación de desvío para la línea regional de vía única Domažlice – Planá u Mariánských Lázní.
-Según el RFE de la est. Mariánské Lázně, la longitud útil de la vía de estación n.º 5 quedaba delimitada por la posición de la señal de salida S5 en el pk 424,535 y de la señal de salida L5 en el pk 424,936, y era de 401 m. Se trataba de una vía de estación que era vía de entrada, de salida y de paso destinada únicamente a los trenes de la línea Plzeň hl. n. – Cheb, dotada de hilo de contacto en toda su longitud.
-La longitud útil de la vía de estación n.º 7 quedaba delimitada por la posición de la señal de salida S7 en el pk 424,575 y de la señal de salida L7 en el pk 424,902, y era de 327 m. Se trataba de una vía de estación que era vía de entrada, de salida y de paso destinada únicamente a los trenes de la línea Plzeň hl. n. – Cheb, dotada de hilo de contacto en toda su longitud. Según el RFE de la est. Mariánské Lázně, se había establecido la pendiente más desfavorable de la vía de estación n.º 5 y de la vía de estación n.º 7 en dirección a la est. Chodová Planá hasta el pk 424,940 con un valor de 2,5 ‰ y a partir del pk 244,940 con un valor de 10 ‰.
-La aguja n.º 2 en el pk 424,377 de la est. Mariánské Lázně estaba equipada con cierres de cambio de lengüeta y estaba asegurada por un motor de maniobra de agujas instalado en el lado izquierdo. La aguja no estaba equipada ni con señal de aguja ni con contrapeso de cambio. Se trataba de una aguja curva tipo Obl-j 60-1:12-500(1700/386) I. zl, LI b sobre traviesas de hormigón, que se incorporó a la vía en 2009. Según la documentación del gestor de la infraestructura, la velocidad máxima DV permitida a través de la aguja en el sentido principal (directo) se estableció en 110 km·h-1 y en el sentido secundario (de desvío) en 50 km·h-1.
-La aguja n.º 5 en el pk 424,424 de la est. Mariánské Lázně estaba equipada con cierres de cambio de lengüeta y estaba asegurada por un motor de maniobra de agujas instalado en el lado izquierdo. La aguja no estaba equipada ni con señal de aguja ni con contrapeso de cambio. Se trataba de una aguja simple tipo J 49 1:9-300 LI b nov sobre traviesas de hormigón, que se incorporó a la vía en 2009. Según la documentación del gestor de la infraestructura, la velocidad máxima DV permitida a través de la aguja en el sentido principal (directo) y en el sentido secundario (de desvío) se estableció en 50 km·h-1.
-La aguja n.º 6 en el pk 424,464 de la est. Mariánské Lázně estaba equipada con cierres de cambio de lengüeta y estaba asegurada por un motor de maniobra de agujas instalado en el lado izquierdo. La aguja no estaba equipada ni con señal de aguja ni con contrapeso de cambio. Se trataba de una aguja simple tipo J 49 1:9-300 LI b nov sobre traviesas de hormigón, que se incorporó a la vía en 2009. Según la documentación del gestor de la infraestructura, la velocidad máxima DV permitida a través de la aguja en el sentido principal (directo) y en el sentido secundario (de desvío) se estableció en 50 km·h-1.
-Según el RFE de la est. Planá u Mariánských Lázní, la longitud útil de la vía de maniobras n.º 13 quedaba delimitada por la posición del topón de la aguja n.º 18 en el pk 412,950 y el topón de la aguja n.º 11 en el pk 412,638, y era de 305 m. Se trataba de una vía de maniobras con hilo de contacto en toda su longitud. Para la vía de maniobras n.º 13, la pendiente más desfavorable era de 5 ‰ en dirección a la est. Brod nad Tichou.
-
+Las estaciones indicadas son controladas en remoto desde CDP Praha por el despachador de línea n.º 524 (tramo est. Brod nad Tichou – est. Lipová u Chebu). La est. Mariánské Lázně es a su vez estación adyacente para la línea D3 Mariánské Lázně – Karlovy Vary dolní nádraží y la est. Planá u Mariánských Lázní es estación de desvío para la línea de vía única de la carretera regional Domažlice – Planá u Mariánských Lázní.
+Según el SŘ de la est. Mariánské Lázně, la longitud útil de la vía n.º 5 estaba delimitada por la posición de la señal de salida S5 en km 424,535 y de la señal de salida L5 en km 424,936, y era de 401 m. Se trataba de una vía de estación que era vía de entrada, de salida y de paso destinada únicamente a los trenes de la línea Plzeň hl. n. – Cheb, dotada de hilo de contacto a lo largo de toda su longitud.
+La longitud útil de la vía n.º 7 estaba delimitada por la posición de la señal de salida S7 en km 424,575 y de la señal de salida L7 en km 424,902, y era de 327 m. Se trataba de una vía de estación que era vía de entrada, de salida y de paso destinada únicamente a los trenes de la línea Plzeň hl. n. – Cheb, dotada de hilo de contacto a lo largo de toda su longitud. Según el SŘ de la est. Mariánské Lázně, se estableció la pendiente más desfavorable de la vía n.º 5 y de la vía n.º 7 en dirección a la est. Chodová Planá hasta km 424,940 con un valor de 2,5 ‰ y a partir de km 424,940 con un valor de 10 ‰.
+El desvío n.º 2 en km 424,377 de la est. Mariánské Lázně estaba equipado con cierres de cambio de lengüeta y estaba protegido por un motor de maniobra eléctrico montado en el lado izquierdo. El desvío no estaba equipado con señal de desvío ni con contrapeso de cambio. Se trataba de un desvío curvo tipo Obl-j 60-1:12-500(1700/386) I. zl, LI b sobre traviesas de hormigón, que se incorporó a la vía en el año 2009. Según la documentación del operador de la vía, la velocidad permitida DV a través del desvío en el sentido principal (directo) se estableció en 110 km·h-1 y en el sentido secundario (de desvío) en 50 km·h-1.
+El desvío n.º 5 en km 424,424 de la est. Mariánské Lázně estaba equipado con cierres de cambio de lengüeta y estaba protegido por un motor de maniobra eléctrico montado en el lado izquierdo. El desvío no estaba equipado con señal de desvío ni con contrapeso de cambio. Se trataba de un desvío simple tipo J 49 1:9-300 LI b nov sobre traviesas de hormigón, que se incorporó a la vía en el año 2009. Según la documentación del operador de la vía, la velocidad permitida DV a través del desvío en el sentido principal (directo) y en el sentido secundario (de desvío) se estableció en 50 km·h-1.
+El desvío n.º 6 en km 424,464 de la est. Mariánské Lázně estaba equipado con cierres de cambio de lengüeta y estaba protegido por un motor de maniobra eléctrico montado en el lado izquierdo. El desvío no estaba equipado con señal de desvío ni con contrapeso de cambio. Se trataba de un desvío simple tipo J 49 1:9-300 LI b nov sobre traviesas de hormigón, que se incorporó a la vía en el año 2009. Según la documentación del operador de la vía, la velocidad permitida DV a través del desvío en el sentido principal (directo) y en el sentido secundario (de desvío) se estableció en 50 km·h-1.
+Según el SŘ de la est. Planá u Mariánských Lázní, la longitud útil de la vía de maniobras n.º 13 estaba delimitada por la posición del tope del desvío n.º 18 en km 412,950 y del tope del desvío n.º 11 en km 412,638, y era de 305 m. Se trataba de una vía de maniobras con hilo de contacto a lo largo de toda su longitud. Para la vía de maniobras n.º 13, la pendiente más desfavorable era de 5 ‰ en dirección a la est. Brod nad Tichou.
 
 ## Página 27
+
 
 La aguja n.º 18 en el pk 412,992 estaba equipada con cierres de cambio de gancho y estaba asegurada por un motor de maniobra de agujas instalado en el lado derecho. La aguja estaba equipada con contrapeso de cambio y señal de aguja. Se trataba de una aguja curva tipo OBL-O S49-1:7,5-190 (462/323) d-P-p-U sobre traviesas de madera, que se incorporó a la vía en 2009. Según la documentación del gestor de la infraestructura, la velocidad máxima DV permitida a través de la aguja en el sentido principal (directo) y en el sentido secundario (de desvío) se estableció en 40 km·h-1.
 Fig. n.º 6: Esquema del perfil de la línea entre la est. Mariánské Lázně y Planá u Mariánských Lázní
@@ -880,22 +901,20 @@ El SZZ de la est. Mariánské Lázně contaba con un Certificado de idoneidad de
 La inspección completa del SZZ de la est. Mariánské Lázně fue realizada por el gestor de la infraestructura el 25. 10. 2024, con la conclusión: «El dispositivo se explota en un estado técnico acorde a su antigüedad. ... Las anomalías detectadas no impiden la explotación del dispositivo».
 La est. Chodová Planá estaba equipada con SZZ ESA 11. Según el SŽ TNŽ 34 2620, se trataba de un dispositivo de seguridad de 3.ª categoría – dispositivo de seguridad eléctrico cuyos
 
-
 ## Página 28
 
-circuitos eléctricos cumplían la función de garantizar directamente la seguridad del transporte ferroviario. La estación no estaba regularmente ocupada por un jefe de estación y el SZZ era controlado desde el JOP en estado base por el despachador de línea CDP Praga, con posibilidad de traspaso al jefe de estación PPV Cheb o al control local del jefe de estación de la est. Chodová Planá.
-La comprobación de la libertad de los tramos de vía se garantizaba mediante circuitos de vía KOA 1.
-El SZZ de la est. Chodová Planá contaba con un Certificado de idoneidad de dispositivo técnico designado, n.º ev.: PZ 2474/09-E.49, expedido por el DÚ el 13. 1. 2010, con vigencia por tiempo indefinido. El UTZ era apto para la explotación con base en el Acta de inspección y ensayo técnico n.º 583/2020/01-JO de fecha 4. 11. 2020.
-La est. Planá u Mariánských Lázní estaba equipada con SZZ ESA 11. Según el SŽ TNŽ 34 2620, se trataba de un dispositivo de seguridad de 3.ª categoría – dispositivo de seguridad eléctrico cuyos circuitos eléctricos cumplían la función de garantizar directamente la seguridad del transporte ferroviario.
-La comprobación de la libertad de los tramos de vía se garantizaba mediante circuitos de vía KOA 1 y contadores de ejes Frauscher AZF. La estación no estaba regularmente ocupada por un jefe de estación y el SZZ era controlado desde el JOP en estado base por el despachador de línea CDP Praga, con posibilidad de traspaso al jefe de estación PPV Cheb o al control local del jefe de estación de la est. Planá u Mariánských Lázní.
-El SZZ de la est. Planá u Mariánských Lázní contaba con un Certificado de idoneidad de dispositivo técnico designado, n.º ev.: PZ 1711/09-E.49, expedido por el DÚ el 21. 8. 2009, con vigencia por tiempo indefinido. El UTZ era apto para la explotación con base en el Acta de inspección y ensayo técnico n.º 568/2020/01-CH de fecha 27. 10. 2020.
-Los tramos intermedios Chodová Planá – Mariánské Lázně y Planá u Mariánských Lázní – Chodová Planá estaban equipados con TZZ de 3.ª categoría, bloque automático electrónico de tres señales bidireccional. La comprobación de la libertad de los tramos de vía se garantizaba mediante circuitos de vía. En estos tramos de línea se encontraban 3 pasos a nivel ferroviarios P300, P299 y P298, por los que circulaba el DV que se desplazaba por sí mismo.
-El ŽP P301 en el pk 424,316 (cruce con la carretera de clase III n.º 2110) estaba asegurado con un PZZ-AC luminoso de categoría PZS 3ZBI con barreras y con señal positiva. El PZZ se ponía en funcionamiento mediante la establecimiento de la vía libre. El tiempo de aproximación, en función de la longitud del ŽP P301 y de la velocidad de línea, estaba establecido en la tabla del paso a nivel tL = 52,11 s.
-El ŽP P300 en el pk 422,920 (cruce con la carretera local) estaba asegurado con un PZZ-EA luminoso de categoría PZS 3ZBI con barreras y con señal positiva. El PZZ se ponía en funcionamiento en el sentido desde la est. Mariánské Lázně mediante el establecimiento de la vía libre y desde la est. Chodová Planá automáticamente con la circulación del tren al ocuparse los tramos de aproximación, mediante la activación de los sensores de los contadores de ejes. El tiempo de aproximación, en función de la longitud del ŽP P300 y de la velocidad de línea, estaba establecido en la tabla del paso a nivel tL = 48,45 s.
-El ŽP P299 en el pk 417,128 (cruce con la carretera de clase I n.º 21) estaba asegurado con un PZZ-AC luminoso de categoría PZS 3ZBI con barreras y con señal positiva. El PZZ se ponía en funcionamiento
-
+los circuitos eléctricos cumplían la función de garantizar directamente la seguridad del tráfico ferroviario. La estación no estaba regularmente ocupada por el jefe de estación y el SZZ era controlado desde el JOP en estado básico por el despachador de línea CDP Praga, con posibilidad de entrega al jefe de estación PPV Cheb o al control local del jefe de estación en la est. Chodová Planá.
+La comprobación de la libertad de los tramos de vía se realizaba mediante los circuitos de vía KOA 1.
+El SZZ de la est. Chodová Planá disponía de un Certificado de idoneidad del dispositivo técnico designado, n.º de ev.: PZ 2474/09-E.49, expedido por el DÚ el 13. 1. 2010, con vigencia por tiempo indefinido. El UTZ era apto para la explotación en virtud del Protocolo de inspección y ensayo técnico n.º 583/2020/01-JO de fecha 4. 11. 2020.
+La est. Planá u Mariánských Lázní estaba equipada con SZZ ESA 11. Según la SŽ TNŽ 34 2620 se trataba de un dispositivo de seguridad de 3.ª categoría – dispositivo de seguridad eléctrico, cuyos circuitos eléctricos cumplían la función de garantizar directamente la seguridad del tráfico ferroviario. La comprobación de la libertad de los tramos de vía se realizaba mediante los circuitos de vía KOA 1 y los contadores de ejes Frauscher AZF. La estación no estaba regularmente ocupada por el jefe de estación y el SZZ era controlado desde el JOP en estado básico por el despachador de línea CDP Praga, con posibilidad de entrega al jefe de estación PPV Cheb o al control local del jefe de estación en la est. Planá u Mariánských Lázní.
+El SZZ de la est. Planá u Mariánských Lázní disponía de un Certificado de idoneidad del dispositivo técnico designado, n.º de ev.: PZ 1711/09-E.49, expedido por el DÚ el 21. 8. 2009, con vigencia por tiempo indefinido. El UTZ era apto para la explotación en virtud del Protocolo de inspección y ensayo técnico n.º 568/2020/01-CH de fecha 27. 10. 2020.
+Los tramos intermedios Chodová Planá – Mariánské Lázně y Planá u Mariánských Lázní – Chodová Planá estaban equipados con TZZ de 3.ª categoría, bloque automático electrónico de tres señales bidireccional. La comprobación de la libertad de los tramos de vía se realizaba mediante los circuitos de vía. En estos tramos de línea se encontraban 3 pasos a nivel P300, P299 y P298, por los que circulaba el DV que se desplazaba de forma autónoma.
+El ŽP P301 en km 424,316 (cruce con la carretera de clase III n.º 2110) estaba protegido por un PZZ-AC luminoso de categoría PZS 3ZBI con barreras y con señal positiva. El PZZ se activaba mediante la establecimiento de la vía libre. El tiempo de aproximación, en función de la longitud del ŽP P301 y de la velocidad de línea, se fijó en la tabla del paso a nivel tL = 52,11 s.
+El ŽP P300 en km 422,920 (cruce con la carretera local) estaba protegido por un PZZ-EA luminoso de categoría PZS 3ZBI con barreras y con señal positiva. El PZZ se activaba en el sentido desde la est. Mariánské Lázně mediante el establecimiento de la vía libre y desde la est. Chodová Planá automáticamente con la circulación del tren al ocupar los tramos de aproximación mediante la activación de los sensores de los contadores de ejes. El tiempo de aproximación, en función de la longitud del ŽP P300 y de la velocidad de línea, se fijó en la tabla del paso a nivel tL = 48,45 s.
+El ŽP P299 en km 417,128 (cruce con la carretera de clase I n.º 21) estaba protegido por un PZZ-AC luminoso de categoría PZS 3ZBI con barreras y con señal positiva. El PZZ se activaba
 
 ## Página 29
+
 
 mediante el establecimiento de la vía libre. El tiempo de aproximación, en función de la longitud del ŽP P299 y de la velocidad de línea, estaba establecido en la tabla del paso a nivel tL = 44,74 s.
 El ŽP P298 en el pk 416,557 (cruce con la carretera de clase II n.º 201) estaba asegurado con un PZZ-EA luminoso de categoría PZS 3ZBI con barreras y con señal positiva. El PZZ se ponía en funcionamiento mediante el establecimiento de la vía libre. El tiempo de aproximación, en función de la longitud del ŽP P298 y de la velocidad de línea, estaba establecido en la tabla del paso a nivel tL = 50,32 s.
@@ -930,8 +949,8 @@ cierre de las barreras en el ŽP P299 en el pk 417,128;
 12:55:22
 establecimiento de una vía de maniobras de emergencia desde la señal de clasificación Se13 hasta la aguja n.º 20 de la est. Planá u Mariánských Lázní por orden del despachador de línea CDP;
 
-
 ## Página 30
+
 
 13:01:54
 circulación del DV que se desplazaba por sí mismo a través del nivel del ŽP P299 en el pk 417,128;
@@ -955,6 +974,7 @@ En el tramo intermedio Planá u Mariánských Lázní – Chodová Planá, en el
 13:06:14 h – paso de 1 DV, número de ejes 2, longitud 11 m, velocidad 51 km·h-1.
 
 ## Página 31
+
 
 ### 3.1.9 Cualquier otra información relevante para los fines de la descripción del suceso y de la información básica
 Resumen de las explicaciones facilitadas por los empleados del gestor de la infraestructura y del transportista, incluidas las personas con relación contractual:
@@ -986,31 +1006,30 @@ jefe de maniobras de la unidad de maniobras
 ◦llamó inmediatamente por radio al despachador (nota DI: despachador de línea del CDP) para comunicarle que se había producido la marcha de un DV;
 ◦el despachador de línea del CDP aseguró los pasos a nivel y el paso para el DV;
 
-
 ## Página 32
 
 •
 jefe de maniobras de la unidad de maniobras
-  – Registro de la explicación facilitada por el DI:
-◦entró en su turno del 14. 10. 2025 descansado, antes del turno no realizó ningún trabajo físicamente exigente;
+  – Registro de la declaración prestada ante el DI:
+◦para el turno del 14 de octubre de 2025 se presentó descansado, no había realizado ningún trabajo físicamente exigente antes del turno;
 ◦no estuvo sometido a presión psicológica antes ni durante el turno;
-◦trabajó como jefe de maniobras durante cca 1 año, antes trabajaba para el mismo empleador como agente de la estación de enlace de Cheb (nota DI: empleado comercial del transportista);
-◦no realizaba a menudo la actividad de jefe de maniobras en las estaciones de la línea entre la est. Cheb y la est. Planá u Mariánských Lázní, siempre según el tipo de tren y las necesidades del transportista;
-◦llegaron por vía a la est. Mariánské Lázně, donde debían preparar 8 DV para el remolque a la est. Planá u Mariánských Lázní para su posterior transporte a la chatarrería;
-◦de varias vías sacaron por maniobras los DV estacionados a la SK n.º 7 y en la SK n.º 5 comenzaron a trasladar los DV que era necesario devolver a las vías originales (nota DI: debido a un nuevo estacionamiento);
-◦en la SK n.º 5 estacionaron un DV, sabía que en la SK n.º 5 volverían en maniobras en cca 10 min, y por ello aseguró el vagón estacionado únicamente con el freno de aire;
-◦despresurizó el aire de la tubería principal y comprobó el ajuste de los elementos de freno con la presión del pie;
-◦se desplazaron con la unidad de maniobras a la SK n.º 7, donde estacionaron un DV y volvían a la SK n.º 5;
-◦daba instrucciones al maquinista para las maniobras por radio, cuando se acercaron a unos 10 m del DV estacionado, observó que dicho DV se estaba arrancando por sí solo en dirección a la est. Planá u Mariánských Lázní;
-◦saltó inmediatamente de la parte delantera de la unidad de maniobras e intentó detener el DV que se movía por sí solo;
+◦trabajó como jefe de maniobras durante aproximadamente 1 año, antes trabajó para el mismo empleador como agente de la estación de enlace de Cheb (nota del DI: empleado comercial del transportista);
+◦no realizaba con frecuencia la actividad de jefe de maniobras en las estaciones de la línea entre la est. de Cheb y la est. de Planá u Mariánských Lázní, siempre según el tipo de tren y las necesidades del transportista;
+◦llegaron en tren a la est. de Mariánské Lázně, donde debían preparar 8 DV para el remolque hasta la est. de Planá u Mariánských Lázní para su posterior transporte a la chatarrería;
+◦de varias vías sacaron en maniobra los DV estacionados a la SK n.º 7 y en la SK n.º 5 comenzaron a maniobrar los DV que era necesario devolver a las vías originales (nota del DI: debido a un estacionamiento adicional);
+◦en la SK n.º 5 estacionaron un DV, sabía que volverían en maniobra a la SK n.º 5 en unos 10 minutos, y por ello el vehículo estacionado solo lo aseguró con el freno de aire;
+◦soltó el aire de la tubería principal y comprobó el acoplamiento de los aparatos de freno con la presión del pie;
+◦se desplazaron con la unidad de maniobras hasta la SK n.º 7, donde estacionaron un DV y regresaban a la SK n.º 5;
+◦daba instrucciones al maquinista para la maniobra por radio, cuando se aproximaron a unos 10 m del DV estacionado, observó que dicho DV comenzaba a moverse de forma autónoma en dirección a la est. de Planá u Mariánských Lázní;
+◦saltó inmediatamente de la parte delantera de la unidad de maniobras e intentó detener el DV que se movía de forma autónoma;
 ◦informó inmediatamente de esta situación al despachador de línea del CDP para evitar el peligro inminente;
-◦el despachador de línea del CDP le informó repetidamente de la situación y de que había llamado a los maquinistas que se encontraban en la est. Planá u Mariánských Lázní para que colocaran topes en la vía de maniobras n.º 13;
-◦a continuación, el despachador de línea del CDP le informó de que se había conseguido detener el DV;
+◦el despachador de línea del CDP le informó repetidamente de la situación y de que había llamado a los maquinistas que estaban en la est. de Planá u Mariánských Lázní para que colocaran topes en la vía de maniobras n.º 13;
+◦posteriormente, el despachador de línea del CDP le informó de que se había logrado detener el DV;
 ◦a la pregunta de si conocía los valores y la dirección de la pendiente más desfavorable en las estaciones donde realizaba maniobras, respondió que sí;
-◦a la pregunta de cómo debía asegurar el DV contra la marcha, respondió que se decidía según los conocimientos adquiridos durante la formación, la capacitación y de las normas. Concretamente, los DV estacionados en la SK n.º 7 los aseguró con tope, porque sabía que el trabajo duraría más de media hora. Los DV estacionados en la SK n.º 5 decidió asegurarlos transitoriamente despresurizando el aire de la tubería principal y comprobando el ajuste de los elementos;
-
+◦a la pregunta de cómo debía asegurar el DV contra el arrastre, respondió que decidió según los conocimientos adquiridos durante la formación, la capacitación y de las normativas. Concretamente, el DV estacionado en la SK n.º 7 lo aseguró con un tope, porque sabía que el trabajo duraría más de media hora. El DV estacionado en la SK n.º 5 decidió asegurarlo temporalmente soltando el aire de la tubería principal y comprobando el acoplamiento de los aparatos;
 
 ## Página 33
+
 
 ◦en general, aseguraba los DV siempre según las condiciones de pendiente y de acuerdo con las disposiciones de las normas (nota DI: normas internas del transportista ČDC), es decir, con topes y apretando el número necesario de frenos de mano;
 ◦para asegurar los DV utilizaba topes situados en la vía de las distintas estaciones y también aquellos con los que se habían asegurado los DV estacionados;
@@ -1041,8 +1060,8 @@ testigo, maquinista del tren Lv 62190
 ◦en la mitad de la vía de maniobras n.º 13 había un grupo de DV estacionados y frenados cargados de madera;
 ◦junto con el colega maquinista colocaron cuatro topes, dos en cada carril;
 
-
 ## Página 34
+
 
 ◦con ello consiguieron reducir la velocidad del DV de cca 50 km·h-1 a una velocidad de 10 – 15 km·h-1;
 ◦tras la colisión y la posterior parada del DV, lo aseguraron contra la marcha con dos topes;
@@ -1088,8 +1107,8 @@ la parte delantera de la unidad de maniobras empujada se encontraba a la altura 
 12:41:47
 salida del jefe de maniobras del estribo en la parte delantera de la unidad de maniobras empujada y carrera hacia el DV que se estaba arrancando;
 
-
 ## Página 35
+
 
 | 12:43:31 | parada de la unidad de maniobras empujada tras la aparición de la MU; |
 | 12:43:53 | el DV n.º 5555 444-8 que se movía por sí solo se encontraba a la altura de la señal de salida S5; |
@@ -1111,6 +1130,7 @@ en el km 424,316
 
 ## Página 36
 
+
 Del registro de la cámara K8 se constató que el PFE P301 en el pk 424,316 estuvo cerrado al tráfico rodado durante 1 min 4 s, es decir, durante un tiempo superior al establecido en la tabla del paso a nivel según la ČSN 34 2650 ed. 2 (véase el punto 3.1.8 de la presente IIA).
 La estación Chodová Planá estaba equipada con un sistema de cámaras. La cámara K01 grababa el espacio delante de la oficina de tráfico y la cámara K02 el borde de andén de la vía de clasificación n.º 1 tras la señal de salida S1. Del análisis de estos registros se desprende:
 | Hora [h] | Actividad registrada por las cámaras K01 y K02 en la estación Chodová Planá. |
@@ -1129,64 +1149,62 @@ La estación Planá u Mariánských Lázní estaba equipada con un sistema de c�
 | 13:08:39 | el DV rebotado se detuvo; |
 | 13:08:53 | colocación de dos topeones bajo las ruedas del DV rebotado por parte del maquinista. |
 
-
 ## Página 37
 
 ### 3.2 Descripción fáctica del suceso
-### 3.2.1 Secuencia de hechos que condujeron al suceso extraordinario
-El 14 de octubre de 2025, el tren Mn 87401 llegó a la estación Mariánské Lázně, donde debía realizarse la clasificación de DV de la serie Es destinados al transporte para chatarra, procedentes de DV estacionados a largo plazo en las vías de clasificación n.º 6a, 8a, 9 y 13. Los 8 DV destinados debían ser transportados posteriormente a la estación Planá u Mariánských Lázní, donde debían acoplarse a un tren de mercancías de paso. La fase final de la maniobra se realizaba en la vía de clasificación n.º 5 y la vía de clasificación n.º 7. En la vía de clasificación n.º 7 se formaba la composición de DV destinados al transporte para chatarra y en la vía de clasificación n.º 5 debían estacionarse durante la maniobra los DV que debían permanecer en la estación Mariánské Lázně. Durante la clasificación, se estacionó un DV en la vía de clasificación n.º 5. El jefe de maniobras, según su declaración, frenó este DV liberando aire del conducto principal y comprobó con el pie el correcto asentamiento de las zapatas de freno. Estaba convencido de que, si regresaba a este DV en un plazo de 10 min, el DV permanecería asegurado con el freno de aire, y por ello no lo aseguró contra el arrastre con un topeón. Con el tramo de maniobras, compuesto por el HDV y 8 DV, cruzaron la aguada de Cheb hacia la vía de clasificación n.º 7, donde estacionaron un DV y lo acoplaron al grupo de los 5 DV ya estacionados, asegurados con el freno de aire y un topeón bajo el primer eje en la dirección de la pendiente hacia la estación Chodová Planá. A continuación, regresaron a la aguada de Cheb con el tramo de maniobras compuesto por el HDV y 7 DV y, tras la maniobra de la aguja n.º 19, avanzaron hacia la vía de clasificación n.º 5. Cuando se aproximaban al DV estacionado en esta vía, el DV en cuestión comenzó a moverse autónomamente en dirección a la estación Chodová Planá. El jefe de maniobras intentó detener el DV en movimiento autónomo. Cuando no lo logró, comunicó el arrastre del DV por radio al despachador de línea CDP, quien a continuación estableció una ruta de emergencia hacia la estación Planá u Mariánských Lázní a través de la estación Chodová Planá. Simultáneamente, aseguró el cierre de todos los PFE que se encontraban en la línea entre las estaciones Mariánské Lázně y Planá u Mariánských Lázní. Además, el despachador de línea CDP, tras conocer la situación por parte de los maquinistas de los trenes Nex 60124 y Lv 62190 en la estación Planá u Mariánských Lázní, estableció una ruta de emergencia hacia la vía de maniobras n.º 13, en la que se encontraba estacionado el grupo de DV de la serie Sggmrrs cargados con madera. Simultáneamente, dio instrucciones a los maquinistas para que colocaran topeones en la vía de maniobras n.º 13 delante del grupo de DV. Tras la llegada del DV en movimiento autónomo a la estación Planá u Mariánských Lázní, el efecto de los topeones colocados provocó una reducción de su velocidad. El DV chocó a continuación contra el grupo de DV estacionados, rebotó y retrocedió 17 m, donde se detuvo. Posteriormente, uno de los maquinistas aseguró el DV detenido contra un movimiento no deseado adicional.
-### 3.2.2 Secuencia de hechos desde la ocurrencia del suceso extraordinario hasta la finalización de las acciones de los servicios de emergencia
+### 3.2.1 Secuencia de hechos que condujeron al suceso excepcional
+El día 14. 10. 2025 llegó el tren Mn 87401 a la est. Mariánské Lázně, donde debía realizarse la clasificación de DV de la serie Es destinadas al transporte para chatarrización, procedentes de DV estacionadas a largo plazo en la SK n.º 6a, 8a, 9 y 13. Las 8 DV designadas debían ser transportadas posteriormente a la est. Planá u Mariánských Lázní, donde debían acoplarse a un tren de mercancías de paso. La fase final de la maniobra de clasificación se realizaba en la SK n.º 5 y la SK n.º 7. En la SK n.º 7 se formaba el conjunto de DV destinadas al transporte para chatarrización y en la SK n.º 5 debían estacionarse durante la maniobra las DV que debían permanecer en la est. Mariánské Lázně. Durante la clasificación se estacionó una DV en la SK n.º 5. El jefe de maniobras, según su declaración, frenó esta DV mediante la liberación de aire de la tubería principal y comprobó con el pie el correcto apoyo de los taques de freno. Estaba convencido de que, si regresaba a esta DV en un plazo de 10 min, esta DV permanecería asegurada con el freno de aire, y por ello no la aseguró contra el arrastre con el tope. Con el equipo de maniobras, compuesto por el HDV y 8 DV, cruzaron la aguada de Cheb hacia la SK n.º 7, donde estacionaron una DV y la acoplaron al grupo de las 5 DV ya estacionadas, aseguradas con el freno de aire y con el tope bajo el primer eje en el sentido de la pendiente hacia la est. Chodová Planá. A continuación regresaron a la aguada de Cheb con el equipo de maniobras compuesto por el HDV y 7 DV y, tras la maniobra del desvío n.º 19, avanzaron hacia la SK n.º 5. Cuando se aproximaban a la DV estacionada en dicha SK, la DV en cuestión se puso en movimiento de forma espontánea en dirección a la est. Chodová Planá. El jefe de maniobras intentó detener la DV que se desplazaba de forma espontánea. Al no lograrlo, comunicó el arrastre de la DV por radio al despachador de vía CDP, quien a continuación estableció una ruta de emergencia hacia la est. Planá u Mariánských Lázní a través de la est. Chodová Planá. Simultáneamente, aseguró el cierre de todos los ŽP que se encontraban en la vía entre la est. Mariánské Lázně y Planá u Mariánských Lázní. Además, el despachador de vía CDP, tras conocer la situación por parte de los maquinistas de los trenes Nex 60124 y Lv 62190 en la est. Planá u Mariánských Lázní, estableció una ruta de emergencia hacia la vía de maniobras n.º 13, en la que se encontraba estacionado el grupo de DV de la serie Sggmrrs cargadas de madera. Simultáneamente, dio instrucción a los maquinistas para que colocaran topes en la vía de maniobras n.º 13 delante del grupo de DV. Con la llegada de la DV que se desplazaba de forma espontánea a la est. Planá u Mariánských Lázní, se produjo, por efecto de los topes colocados, una reducción de su velocidad. La DV chocó a continuación contra el grupo de DV estacionadas, rebotó y retrocedió 17 m, donde se detuvo. Posteriormente, uno de los maquinistas aseguró la DV detenida contra un movimiento no deseado adicional.
+### 3.2.2 Secuencia de hechos desde la producción del suceso excepcional hasta la finalización de las acciones de los servicios de rescate
 •
-12:42 h detección por el jefe de maniobras de la puesta en marcha autónoma de un DV independiente en la vía de clasificación n.º 5 de la estación Mariánské Lázně;
+12:42 h detección por el jefe de maniobras del arrastre espontáneo de una DV independiente en la SK n.º 5 de la est. Mariánské Lázně;
 •
-12:44 h cierre del PFE P301 por acción automática del SZZ mediante la influencia en los circuitos de vía de la aguja n.º 6 de la estación Mariánské Lázně;
+12:44 h cierre del ŽP P301 por acción automática de la SZZ mediante la influencia en los circuitos de vía del desvío n.º 6 de la est. Mariánské Lázně;
 •
-12:45 h comunicación de la ocurrencia del SE al despachador de línea CDP Praga por parte del jefe de maniobras;
+12:45 h comunicación de la producción del MU al despachador de vía CDP Praga por parte del jefe de maniobras;
 •
-12:46 h establecimiento de la ruta para el DV en movimiento autónomo desde la estación Mariánské Lázně hasta la estación Planá u Mariánských Lázní y cierre de los PFE P300, P299 y P298 por parte del despachador de línea CDP;
+12:46 h establecimiento de la ruta para la DV que se desplazaba de forma espontánea desde la est. Mariánské Lázně hasta la est. Planá u Mariánských Lázní y cierre de los ŽP P300, P299 y P298 por parte del despachador de vía CDP;
 •
-12:55 h comunicación de la ocurrencia del SE por el despachador de línea CDP según el horario de comunicación al SIE;
-
+12:55 h comunicación de la producción del MU por parte del despachador de vía CDP según el horario de comunicación al IZS;
 
 ## Página 38
 
 •
-13:01 h colocación de topeones en la vía de maniobras n.º 13 de la estación Planá u Mariánských Lázní por los maquinistas de los trenes Lv 62190 y Nex 60124 según instrucción del despachador de línea CDP;
+13:01 h colocación de tope en la vía de maniobras n.º 13 de la est. Planá u Mariánských Lázní por parte de los maquinistas de los trenes Lv 62190 y Nex 60124 según instrucción del despachador de línea CDP;
 •
-13:08 h colisión del DV en movimiento autónomo con el grupo de DV estacionados en la vía de maniobras n.º 13 de la estación Planá u Mariánských Lázní;
+13:08 h colisión de un DV en marcha automática con un grupo de DV estacionados en la vía de maniobras n.º 13 de la est. Planá u Mariánských Lázní;
 •
-13:09 h aseguramiento del DV tras su detención definitiva con topeones por parte del maquinista del tren Lv 62190;
+13:09 h aseguramiento del DV tras su detención definitiva por parte del maquinista del tren Lv 62190 mediante topes;
 •
-13:10 h comunicación de la ocurrencia del SE a la O18 SŽ por el jefe de despachadores CDP;
+13:10 h notificación de la creación de un MU a O18 SŽ por parte del despachador principal CDP;
 •
-13:26 h notificación de la ocurrencia del SE al COP DI por la persona designada de la O18 SŽ;
+13:26 h comunicación de la creación de un MU a COP DI por parte de la persona designada de O18 SŽ;
 •
-14:45 h inspección del lugar de ocurrencia del SE por empleados de DI en la estación Planá u Mariánských Lázní;
+14:45 h inspección del lugar de creación del MU por parte de empleados de DI en la est. Planá u Mariánských Lázní;
 •
-16:30 h inspección del lugar de ocurrencia del SE por empleados de DI en la estación Mariánské Lázně;
+16:30 h inspección del lugar de creación del MU por parte de empleados de DI en la est. Mariánské Lázně;
 •
-16:55 h concesión del permiso para la liberación de la vía por el inspector de DI presente y restablecimiento de la explotación;
+16:55 h concesión del permiso para liberar la vía por parte del inspector de DI presente y reanudación de la explotación;
 •
-20:00 h realización de una prueba de verificación para comprobar la estanqueidad del freno de aire del DV afectado en estado frenado por personas cualificadas del transportista ČDC en presencia de inspectores de DI en la vía de maniobras n.º 13 de la estación Planá u Mariánských Lázní.
-El Plan SIE fue activado dada la naturaleza del SE. El Plan SIE fue activado a las 12:55 h, es decir, 12 minutos después de la ocurrencia del SE, por el despachador de línea CDP.
-En el lugar del SE intervinieron los siguientes componentes del SIE:
+20:00 h realización de una prueba de verificación para determinar la estanqueidad del freno de aire del DV afectado en estado frenado por parte de personas cualificadas del transportista ČDC en presencia de inspectores de DI en la vía de maniobras n.º 13 de la est. Planá u Mariánských Lázní.
+El Plan IZS fue activado en función del carácter del MU. El Plan IZS fue activado a las 12:55 h, es decir, 12 minutos después de la creación del MU, por el despachador de línea CDP.
+En el lugar del MU intervinieron los siguientes servicios de IZS:
 •
-PČR, Distrito de Tachov, Departamento de Planá;
+PČR, Departamento Territorial de Tachov, sección de Planá;
 •
-PČR, Distrito de Cheb, Departamento de Mariánské Lázně;
+PČR, Departamento Territorial de Cheb, sección de Mariánské Lázně;
 •
-Bomberos de la Región de Plzeň, estación Tachov;
+HZS de la Región de Plzeň, estación de Tachov;
 •
-Bomberos de SŽ, unidad de protección contra incendios de Cheb;
+HZS SŽ, unidad de protección contra incendios de Cheb;
 •
-Bomberos, unidad SDH de los municipios de Planá y Chodová Planá.
+HZS, Unidad SDH de los municipios de Planá y Chodová Planá.
 ### 4 ANÁLISIS DEL SUCESO
 ### 4.1 Tareas y obligaciones
-### 4.1.1 Transportistas y gestores de infraestructura
-El gestor de la infraestructura, de acuerdo con lo dispuesto en la Ley n.º 266/1994 Sb., está, entre otras obligaciones, obligado a explotar la infraestructura para las necesidades del transporte ferroviario fluido y seguro de acuerdo con las normas de explotación de la infraestructura y la autorización administrativa, y a garantizar que el sistema de seguridad del gestor de la infraestructura por él establecido tenga en cuenta el alcance y el objeto de su actividad y de las actividades de los distintos transportistas realizadas en la infraestructura por él explotada, permita la explotación de la infraestructura y del transporte ferroviario de conformidad con las especificaciones técnicas de interoperabilidad, otras disposiciones legales y certificaciones del transportista, y sea cumplido.
-
+### 4.1.1 Transportistas y gestores de vías
+El gestor de la vía está obligado, de conformidad con lo dispuesto en la Ley n.º 266/1994 Sb., entre otros, a explotar la vía para las necesidades del tráfico ferroviario fluido y seguro de acuerdo con las normas de explotación de la vía y la autorización administrativa, y a garantizar que el sistema de seguridad del gestor de la vía por él establecido tenga en cuenta el alcance y el objeto de su actividad y de las actividades de los distintos transportistas realizadas en la vía por él explotada, permita la explotación de la vía y del tráfico ferroviario de conformidad con las especificaciones técnicas de interoperabilidad, otras disposiciones legales y los certificados del transportista, y sea cumplido.
 
 ## Página 39
+
 
 El gestor de la infraestructura, en el sentido de lo dispuesto en la Ley n.º 266/1994 Sb. y en el Decreto n.º 173/1995 Sb., estableció los procedimientos tecnológicos para la explotación de la infraestructura y del transporte ferroviario, contenidos en sus normas internas, entre ellas la norma interna SŽ D1 relativa al aseguramiento de los vehículos ferroviarios contra el arrastre.
 Sobre la base de la recomendación de seguridad de DI, surgida de los resultados de la investigación del SE del 14 de agosto de 2020 en la vía industrial KERACLAY Nehvizdy (véase el punto 4.5 de la presente IIA), el DÚ emitió el 15 de octubre de 2021 y el 26 de marzo de 2024 la Revisión 1 con la referencia DUCR-60946/21/Pr «Directriz metodológica para la determinación del efecto de frenado del freno de mano – fuerza de aseguramiento» (en adelante también directriz metodológica del DÚ). Con esta directriz metodológica estableció en el artículo 7 la obligación para los gestores de la infraestructura de realizar modificaciones en sus normas internas relativas al aseguramiento de los DV detenidos, y asimismo la obligación para los transportistas de realizar modificaciones en sus normas internas relativas a la operación de los dispositivos de freno de los DV. Esta directriz metodológica del DÚ introduce una nueva magnitud, la denominada Fuerza de aseguramiento Fpark [kN], que actúa contra la puesta en movimiento de un vehículo detenido. Desde 2021, en virtud de los requisitos de la Agencia Ferroviaria de la Unión Europea, es necesario expresar el valor del efecto de frenado del freno de aseguramiento en los DV únicamente mediante la «Fuerza de aseguramiento».
@@ -1208,24 +1226,18 @@ En el marco de la realización de maniobras, el gestor de la infraestructura est
 
 ## Página 40
 
-El explotador de la vía estableció además en el capítulo XVI Sucesos extraordinarios, art. 448 de la instrucción interna SŽ D1 los procedimientos tecnológicos en caso de marcha incontrolada de DV. El empleado que observe o detecte que una DV ha marchado incontroladamente y no pueda detenerla por sí mismo, dará cuenta de ello lo antes posible al personal de estación y de línea. Este debe cerrar inmediatamente los pasos a nivel ferroviarios, hacer todo lo posible para detener las DV que han marchado incontroladamente, sin por ello poner en peligro a sí mismo ni a otras personas. En caso de que las DV circulen en sentido contrario a un tren, el tren debe detenerse por todos los medios disponibles y darse cuenta de la situación. Para detener las DV que han marchado incontroladamente deben elegirse los medios según las posibilidades y circunstancias, y siempre es necesario actuar de modo que el daño causado sea menor que el que se produciría sin la aplicación de estas medidas. Por ejemplo, en una estación, dejar entrar la DV que ha marchado incontroladamente, si es posible, en una vía libre y menos importante para la explotación, y colocar en ambos carriles la mayor cantidad posible de tope.
-
-Tras enterarse el despachador de línea CDP del jefe de maniobras de la marcha incontrolada de una DV desde el SK n.º 5 de la est. Mariánské Lázně, organizó el tráfico ferroviario en el sentido del art. 448 de la instrucción interna SŽ D1. El despachador de línea CDP estableció y aseguró una vía de circulación de emergencia desde la est. Mariánské Lázně vía la est. Chodová Planá hasta la est. Planá u Mariánských Lázní y cerró los pasos a nivel ferroviarios en el tramo de línea afectado. Además, el despachador de línea CDP, tras aclarar la situación con los maquinistas de los trenes Nex 60124 y Lv 62190, estableció una vía de circulación de emergencia hacia la vía de maniobras n.º 13 de la est. Planá u Mariánských Lázní, en la que se encontraba estacionado un grupo de DV. A la vez, dio instrucción a ambos maquinistas para que colocaran topes delante del grupo de DV estacionadas en la vía de maniobras n.º 13.
-
-De lo anterior se deduce que, con la actuación del despachador de línea CDP, se garantizó la seguridad de la explotación de la vía y del tráfico ferroviario y, a la vez, la seguridad de los usuarios de la circulación por carretera.
-
-En la investigación no se constató el incumplimiento de las funciones y obligaciones del explotador de la vía.
-
-El transportista está obligado, conforme a las disposiciones de la Ley n.º 266/1994 Sb., entre otros, a explotar el tráfico ferroviario de acuerdo con las reglas de explotación del tráfico ferroviario, la licencia vigente y el contrato celebrado con el explotador de la vía sobre la explotación del tráfico ferroviario en la vía, y, al explotar el tráfico ferroviario, a regirse por las instrucciones del explotador de la vía impartidas al organizar el tráfico ferroviario.
-
-El transportista no puede utilizar para la circulación una DV que, conforme a las disposiciones del § 34 del decreto n.º 173/1995 Sb., presente defectos en partes importantes para la explotación, un defecto en el sistema de freno, no tenga superada la inspección periódica del estado técnico, con la excepción del traslado al lugar de reparación, y si con su estado pone en peligro la seguridad de la explotación de la vía y del tráfico ferroviario. Para la circulación, una DV solo puede utilizarse sobre la base de una inspección realizada por una persona cualificada.
-
-Según el art. 2.1.4 de la instrucción interna ČDC PTs9-B-ČDC-CZ, permite y, en su caso, determina las condiciones para las maniobras con DV que presenten un defecto técnico o no tengan superada la inspección técnica periódica, el empleado cualificado del transportista (en adelante, jefe de maniobras). Para este fin sirven las inspecciones técnicas en vías, que realiza el jefe de maniobras conforme a las disposiciones del art. 3.1.1 de la instrucción interna ČDC KV1-B-2008. La realización de la inspección técnica debe ser registrada por el jefe de maniobras en PRIS.
-
-Según el art. 2.1.3 de la instrucción interna ČDC PTs9-B-ČDC-CZ, permite y, en su caso, determina las condiciones para el transporte de DV que presenten un defecto técnico o no tengan superada la inspección técnica periódica, el jefe de maniobras sobre la base de una inspección técnica. La realización de la inspección técnica conforme a las disposiciones del art. 3.1.1 de la instrucción interna ČDC KV1-B-2008 debe ser registrada por el jefe de maniobras en PRIS y, conforme al art. 3.1.2.5 de la instrucción interna ČDC KV1-B-2008
-
+El explotador ferroviario estableció además, en el capítulo XVI «Sucesos extraordinarios», artículo 448 del reglamento interno SŽ D1, los procedimientos tecnológicos en caso de marcha incontrolada de material rodante. El empleado que observe o detecte que el material rodante ha quedado en marcha incontrolada y no pueda detenerlo por sí mismo, dará aviso de ello lo antes posible a los empleados de estación y de línea. Estos deben cerrar inmediatamente los pasos a nivel ferroviarios y hacer todo lo posible por detener el material rodante en marcha incontrolada, sin que con ello pongan en peligro a sí mismos ni a otras personas. En caso de que el material rodante en marcha incontrolada circule en sentido contrario a un tren, el tren debe detenerse por todos los medios disponibles y darse aviso de la situación. Para detener el material rodante en marcha incontrolada deben elegirse los medios según las posibilidades y las circunstancias, y siempre es necesario actuar de manera que el daño causado sea menor que el que se produciría sin la aplicación de estas medidas.
+Por ejemplo, en una estación, dejar entrar el material rodante en marcha incontrolada, si es posible, en una vía libre y menos importante para la explotación, y colocar en ambos carriles la mayor cantidad posible de topes.
+Tras recibir el despachador de línea CDP del jefe de maniobras el aviso de la marcha incontrolada de material rodante desde el apartadero n.º 5 de la estación de Mariánské Lázně, organizó el tráfico ferroviario en el sentido del artículo 448 del reglamento interno SŽ D1. El despachador de línea CDP estableció y aseguró una vía de circulación de emergencia desde la estación de Mariánské Lázně, pasando por la estación de Chodová Planá, hasta la estación de Planá u Mariánských Lázní, y cerró los pasos a nivel ferroviarios en el tramo de línea afectado. Además, el despachador de línea CDP, tras conocer la situación por parte de los maquinistas de los trenes Nex 60124 y Lv 62190, estableció una vía de circulación de emergencia hacia la vía de maniobras n.º 13 de la estación de Planá u Mariánských Lázní, en la que se encontraba estacionado un grupo de material rodante. Al mismo tiempo, dio instrucción a ambos maquinistas para que colocaran topes delante del grupo de material rodante estacionado en la vía de maniobras n.º 13.
+De lo anterior se deduce que, con la actuación del despachador de línea CDP, se garantizó la seguridad de la explotación de la infraestructura ferroviaria y del tráfico ferroviario, así como la seguridad de los usuarios de la circulación por carretera.
+En la investigación no se detectó incumplimiento de las funciones y obligaciones del explotador ferroviario.
+El transportista está obligado, conforme a las disposiciones de la Ley n.º 266/1994 Sb., entre otros, a explotar el tráfico ferroviario de acuerdo con las reglas de explotación del tráfico ferroviario, la licencia vigente y el contrato celebrado con el explotador ferroviario para la explotación del tráfico ferroviario en la infraestructura, y, al explotar el tráfico ferroviario, a regirse por las instrucciones del explotador ferroviario impartidas al organizar el tráfico ferroviario.
+El transportista no puede utilizar para la circulación material rodante que, conforme a las disposiciones del artículo 34 del decreto n.º 173/1995 Sb., presente defectos en partes importantes para la explotación, un defecto en el sistema de frenado, no tenga realizada la inspección técnica periódica, con la excepción del traslado hasta el lugar de reparación, y si con su estado pone en peligro la seguridad de la explotación de la infraestructura ferroviaria y del tráfico ferroviario. El material rodante solo puede utilizarse para la circulación sobre la base de una inspección realizada por una persona cualificada.
+Según el artículo 2.1.4 del reglamento interno ČDC PTs9-B-ČDC-CZ, permite y, en su caso, determina las condiciones para las maniobras con material rodante que presente un defecto técnico o no tenga realizada la inspección técnica periódica, el empleado cualificado del transportista (en adelante, jefe de maniobras). Para este fin sirven las inspecciones técnicas en vías, que realiza el jefe de maniobras conforme a las disposiciones del artículo 3.1.1 del reglamento interno ČDC KV1-B-2008. El jefe de maniobras debe registrar en PRIS la realización de la inspección técnica.
+Según el artículo 2.1.3 del reglamento interno ČDC PTs9-B-ČDC-CZ, permite y, en su caso, determina las condiciones para el transporte de material rodante que presente un defecto técnico o no tenga realizada la inspección técnica periódica, el jefe de maniobras sobre la base de una inspección técnica. La realización de la inspección técnica conforme a las disposiciones del artículo 3.1.1 del reglamento interno ČDC KV1-B-2008 debe ser registrada por el jefe de maniobras en PRIS y, conforme al artículo 3.1.2.5 del reglamento interno ČDC KV1-B-2008
 
 ## Página 41
+
 
 indicar en ambos lados de la DV con etiquetas de reparación ČDC. Las etiquetas de reparación deben tener, conforme a las disposiciones de los arts. 3.1 y 3.2 de la instrucción interna ČDC PU-1-C-ČDC-CZ, las casillas correspondientes legible y debidamente cumplimentadas con tinta negra o azul permanente, resistente a la lluvia y al sol, que deben contener, además de los datos de la DV, del defecto constatado y, en su caso, de las restricciones de transporte, el sello del transportista ČDC, la fecha, la firma y el número personal del empleado que expidió las etiquetas.
 
@@ -1242,8 +1254,8 @@ Dado que la DV n.º 5555 444-8 no estaba equipada con freno de mano ni con otro 
 
 Los medios de sujeción, es decir, los topes, según la declaración del transportista, los traen los empleados de su puesto de trabajo, en este caso del almacén de la est. Planá u Mariánských Lázní. Además de ellos
 
-
 ## Página 42
+
 
 utilizan los topes que se encuentran en la estación en la vía de maniobras donde realizan las maniobras y que en este momento no están siendo utilizados para asegurar DV.
 
@@ -1273,8 +1285,8 @@ Según el art. 3.1.3.7 de la instrucción interna ČDC KVs3-B-CDC-CZ, el valor m
 
 Ejemplo de determinación de la fuerza de sujeción para la DV concreta n.º 5555 444-8 según el art. 3.1.3.8 de la instrucción interna ČDC Kvs-3-B-ČDC-CZ:
 
-
 ## Página 43
+
 
 Masa del vehículo [t]
 12,7
@@ -1312,6 +1324,7 @@ Las DV estacionadas de este modo deben, según el art. 5.4.15 de la instrucción
 
 ## Página 44
 
+
 Los artículos mencionados anteriormente de las normas internas de ČDC KVs-3-B-ČDC-CZ y ČDC PTs9-B-ČDC-CZ se refieren, sin embargo, al acoplamiento o desacoplamiento temporal del HDV del tren.
 El jefe de maniobras, al realizar maniobras con DV depositados a largo plazo en la estación de Mariánské Lázně, debía proceder de conformidad con el art. 3.1.3.1 y el art. 3.1.3.2 de la norma interna de ČDC KVs-3-B-ČDC-CZ, y además de conformidad con el art. 5.5.1 y el art. 5.5.2 de la norma interna de ČDC PTs9-B-ČDC-CZ, dado que durante la maniobra los DV deben estar siempre protegidos contra el desplazamiento con un efecto suficiente de los medios de sujeción (frenos de mano, topeadores).
 ### Hallazgos:
@@ -1345,6 +1358,7 @@ Realiza/responde – B.1.4 – Acoplamiento/desacoplamiento de vagón, protecci�
 
 ## Página 45
 
+
 •
 art. 3.1.3.1 de la norma interna de ČDC KVs-3-B-ČDC-CZ y art. 5.5.1 de la norma interna de ČDC PTs9-B-ČDC-CZ:
 "Los vehículos estacionados deben estar siempre protegidos contra el desplazamiento con un efecto suficiente de los medios de sujeción (frenos de mano, topeadores).";
@@ -1362,8 +1376,8 @@ En la investigación no se constató infracción de las funciones y obligaciones
 La autoridad nacional de seguridad es el DÚ, que de acuerdo con la Ley nº 266/1994 Sb. es la autoridad administrativa dependiente del Ministerio de Transporte. Su función es, en particular, el ejercicio de la supervisión estatal en materia de vías, la aprobación de vehículos ferroviarios nuevos y modernizados y de dispositivos técnicos designados, y la tramitación de infracciones. Es obligación del DÚ comunicar al DI, en un plazo de 12 meses desde la fecha de publicación del informe final que contenga las recomendaciones de seguridad dirigidas a él, qué medidas ha adoptado en relación con dicha recomendación de seguridad; esta comunicación la realiza regularmente, al menos una vez al año, hasta la adopción de las medidas correspondientes.
 La función de la Agencia de la Unión Europea para los Ferrocarriles es, además de garantizar, en el marco de sus competencias, que se mantenga y, en la medida de lo posible, se aumente sistemáticamente la seguridad de los ferrocarriles, entre otras, la emisión, renovación, suspensión y modificación de certificados de seguridad uniformes, la limitación de su vigencia o su cancelación, en cuya materia coopera con las autoridades nacionales de seguridad; además emite autorizaciones para la comercialización de vehículos ferroviarios y tipos de vehículos y está facultada para renovar, modificar, suspender
 
-
 ## Página 46
+
 
 o cancelar las autorizaciones que haya emitido. La Agencia evalúa asimismo los proyectos de normativa nacional, etc.
 En la investigación no se constató infracción de las funciones y obligaciones de la autoridad nacional de seguridad y de la Agencia de la Unión Europea para los Ferrocarriles.
@@ -1385,8 +1399,8 @@ En la investigación no se detectaron factores derivados del mantenimiento y la 
 ### 4.2.5 Factores o consecuencias relacionados con la entidad responsable del mantenimiento de los vehículos ferroviarios, los talleres de mantenimiento y otros prestadores de servicios de mantenimiento
 En la investigación no se detectaron factores relacionados con la entidad responsable del mantenimiento de los vehículos ferroviarios, los talleres de mantenimiento y otros prestadores de servicios de mantenimiento.
 
-
 ## Página 47
+
 
 4.2.6 Otros factores o consecuencias que se consideren relevantes a efectos de la investigación
 En la investigación no se detectaron otros factores relacionados con los vehículos ferroviarios, la infraestructura ferroviaria o los dispositivos técnicos.
@@ -1411,38 +1425,38 @@ En la investigación no se detectaron factores relacionados con el entorno labor
 ### 4.3.5 Otro factor significativo a efectos de la investigación
 En la investigación no se detectaron otros factores relacionados con la actuación de las personas implicadas.
 ### 4.4 Mecanismos de retroalimentación y mecanismos de control, incluida la gestión de riesgos 
-y la garantía de seguridad, y procedimientos de seguimiento
+y la garantía de la seguridad, y los procedimientos de seguimiento
 ### 4.4.1 Condiciones pertinentes del marco regulatorio
 Las condiciones pertinentes del marco regulatorio están establecidas en los Reglamentos de la Unión Europea, 
 en la ley n.º 266/1994 Sb. y en los decretos de aplicación.
-4.4.2 Procedimientos, métodos, contenido y resultados de las actividades de evaluación de riesgos y seguimiento que 
+4.4.2 Procedimientos, métodos, contenido y resultados de las actividades de evaluación de riesgos y de seguimiento que 
 realiza cualquiera de los sujetos implicados
-En los procedimientos, métodos, contenido y resultados de las actividades de evaluación de riesgos y seguimiento 
-relacionados con las circunstancias del origen de la MRC en cuestión, no se detectaron deficiencias.
-### 4.4.3 Sistema de garantía de seguridad de los operadores ferroviarios y gestores de infraestructura implicados
-En el sistema de seguridad del gestor de infraestructura y en el sistema de garantía de seguridad del transporte 
-ferroviario del operador ferroviario, relacionados con las circunstancias del origen de la MRC en cuestión, no se detectaron 
+En los procedimientos, métodos, contenido y resultados de las actividades de evaluación de riesgos y de seguimiento 
+relacionados con las circunstancias de la aparición de la MU en cuestión, no se detectaron deficiencias.
+### 4.4.3 Sistema de garantía de la seguridad de los operadores ferroviarios y de los gestores de infraestructura implicados
+En el sistema de seguridad del gestor de infraestructura y en el sistema de garantía de la seguridad del transporte 
+ferroviario del operador, relacionados con las circunstancias de la aparición de la MU en cuestión, no se detectaron 
 deficiencias.
 ### 4.4.4 Sistema de gestión de los sujetos responsables del mantenimiento del material rodante 
 y de los talleres de mantenimiento
 El sistema de gestión de los sujetos responsables del mantenimiento del material rodante y de los talleres de mantenimiento 
-no guardaba relación con el origen de la MRC.
+no guardaba relación con la aparición de la MU.
 ### 4.4.5 Resultados de la supervisión realizada por las autoridades nacionales de seguridad
-Atendiendo a los factores detectados y a las circunstancias del origen de la MRC, la supervisión de la autoridad de seguridad 
-no guarda relación con la MRC en cuestión.
-### 4.4.6 Aprobaciones, certificados y dictámenes de evaluación emitidos por la Agencia, las autoridades nacionales 
+Atendiendo a los factores y circunstancias detectados de la aparición de la MU, la supervisión de la autoridad de seguridad 
+no guarda relación con la MU en cuestión.
+### 4.4.6 Aprobaciones, certificados y evaluaciones emitidos por la agencia, las autoridades nacionales 
 de seguridad u otros sujetos de evaluación de la conformidad
-El gestor de infraestructura explotó la infraestructura con base en la autorización administrativa vigente y el certificado 
-de seguridad del gestor de infraestructura. El operador ferroviario explotó el transporte ferroviario con base en 
-la licencia vigente y el certificado del operador ferroviario.
+El gestor de infraestructura explotaba la infraestructura con base en la autorización administrativa vigente y el certificado 
+de seguridad del gestor de infraestructura. El operador ferroviario explotaba el transporte ferroviario con base en 
+la licencia vigente y el certificado del operador.
 ### 4.4.7 Otros factores sistémicos
 En la investigación no se detectaron otros factores sistémicos.
 ### 4.5 Sucesos anteriores de naturaleza similar
-La Inspección Ferroviaria investigó en el periodo comprendido entre el 1. 1. 2015 y la fecha del origen de la MRC en cuestión, en las vías férreas, 
-categoría nacional, regional, ramal privado y de ensayo, un total de 3 MRC similares, en las que se produjo 
-
+El DI investigó en el período comprendido entre el 1 de enero de 2015 y la fecha de aparición de la MU en cuestión, en las vías 
+ferroviarias de categoría nacional, regional, vía privada y de pruebas, un total de 3 MU similares, en las que se produjo
 
 ## Página 49
+
 
 una marcha no asegurada (fuga) de MR con posterior colisión con MR, y 4 MRC similares, en las que se produjo 
 una marcha no asegurada (fuga) de MR sin colisión con MR.
@@ -1497,10 +1511,10 @@ La DÚ emitió el 15. 10. 2021 la instrucción «Instrucción metodológica para
 fuerza de aseguramiento», que entró en vigor el 1. 11. 2021. En ella, entre otros, se establece que 
 en lugar del término hasta ahora utilizado de peso de frenado del freno de mano para expresar el efecto de frenado 
 del freno de mano, se introduce la nueva magnitud denominada «Fuerza de aseguramiento Fpark». Posteriormente, el 26. 3. 2024, la DÚ 
-emitió la Revisión 1 de la instrucción «Instrucción metodológica para la determinación del efecto de frenado del freno de mano – 
-
+emitió la Revisión 1 de la instrucción «Instrucción metodológica para la determinación del efecto de frenado del freno de mano –
 
 ## Página 50
+
 
 fuerza de aseguramiento», que entró en vigor el 26. 3. 2024. Dicha instrucción metodológica está 
 accesible públicamente en la web de la DÚ: DUCR-60946/21/Pr «Instrucción metodológica para la determinación del efecto de frenado del freno de mano – 
@@ -1546,8 +1560,8 @@ The railway undertaking ČDC took the following measures after the occurrence:
 •
 made the Instructive letter;
 
-
 ## Página 51
+
 
 •
 add topic „securing of rolling stocks“ to a content of thematic inspections at second quarter 2026;

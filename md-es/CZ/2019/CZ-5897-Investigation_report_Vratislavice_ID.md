@@ -10,13 +10,14 @@ chars: 230738
 ratio_longitud: 1.28
 tokens_in: 113262
 tokens_out: 81434
-verificacion: revisar
-notas_cifras: ["bloque 2: original bilingüe: se compara contra el idioma principal (CS)", "bloque 4: original bilingüe: se compara contra el idioma principal (CS)", "bloque 5: original bilingüe: se compara contra el idioma principal (CS)", "bloque 7: cifras cortas: 1/148", "bloque 8: original bilingüe: se compara contra el idioma principal (CS)", "bloque 9: cifras cortas: 9/103"]
-avisos: ["bloque 4: ratio 1.65", "bloque 5: ratio 1.78", "bloque 16: ratio 1.65"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 7: original bilingüe: se compara contra el idioma principal (EN)", "página 8: original bilingüe: se compara contra el idioma principal (PT)", "página 9: original bilingüe: se compara contra el idioma principal (PL)", "página 14: original bilingüe: se compara contra el idioma principal (PT)", "página 15: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -42,13 +43,13 @@ IČ: 75009561
 mail@dicr.cz
 tel.: +420 736 521 003
 
-
 ## Página 2
+
 
 Este informe final es público y todos los hechos en él recogidos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ## 1 RESUMEN
  Fuente: tn.cz
@@ -77,8 +78,8 @@ Factor contribuyente:
 no fue detectado por la Inspección Ferroviaria.
 •
 
-
 ## Página 4
+
 
 Causas fundamentales:
 clasificación incorrecta a largo plazo de la categoría y clase funcional (grupo)
@@ -124,8 +125,8 @@ corresponde a la categoría y clase funcional (grupo) de la carretera, y
 comprobación del cumplimiento de las medidas establecidas en las inspecciones
 conjuntas de pasos a nivel.
 
-
 ## Página 5
+
 
 ## SUMMARY
 Grade: 
@@ -179,8 +180,8 @@ being correctly marked with appropriate traffic signs on the restriction of the
 operation of road vehicles on the road at the level crossing, to adopt of its own
 measure for implementation:
 
-
 ## Página 6
+
 
 1) modify safety management system that IM critic rate data about category and
 functional class (group) of the road which will get from manager of the road;
@@ -190,8 +191,8 @@ including ensuring the documentation of the method of obtaining this information
 and functional class (group) of the road, and control on compliance with the
 measures laid down during joint inspections of level crossings.
 
-
 ## Página 7
+
 
 # Índice
 1 RESUMEN........................................................................................................................3
@@ -248,6 +249,7 @@ automática
 
 ## Página 8
 
+
 registro de datos.....................................................................................................39
 3.4.2 Componentes de la vía....................................................................................................40
 3.4.3 Dispositivos de comunicación e información.........................................................................59
@@ -287,8 +289,8 @@ sobre las causas................................................................
 6 RECOMENDACIONES DE SEGURIDAD.....................................................................................77
 7 ANEXOS..........................................................................................................................79
 
-
 ## Página 9
+
 
 ## Lista de siglas y símbolos utilizados
 CDP
@@ -377,8 +379,8 @@ vía de trazado, vías de trazado
 TRS
 sistema de radio de trazado
 
-
 ## Página 10
+
 
 TTP
 tablas de condiciones de trazado
@@ -403,8 +405,8 @@ paso a nivel ferroviario
 žst.
 estación de ferrocarril
 
-
 ## Página 11
+
 
 ## Lista de siglas de la legislación, normas y normativa interna utilizadas
 ley núm. 262/2006 Sb.
@@ -453,8 +455,8 @@ para la explotación, construcción y fabricación de los dispositivos técnicos
 decreto núm. 101/1995 Sb.
 decreto núm. 101/1995 Sb., por el que se aprueba el Reglamento de Aptitud Física de las personas en la explotación de la infraestructura ferroviaria
 
-
 ## Página 12
+
 
 y del transporte ferroviario, en la redacción vigente en el momento de producirse el SU
 decreto núm. 104/1997 Sb.
@@ -501,8 +503,8 @@ Organización y realización de inspecciones y mediciones en los
 ferrocarriles de ámbito estatal y regional», 
 en la redacción vigente en el momento de producirse el SU
 
-
 ## Página 13
+
 
 SŽDC (ČD) S4/3
 normativa interna del gestor de la infraestructura SŽDC, «SŽDC (ČD) 
@@ -542,6 +544,7 @@ de la obra
 
 ## Página 14
 
+
 ## 2 DATOS RELATIVOS AL SUCESO EXTRAORDINARIO
 ### 2.1 Suceso extraordinario
 ### 2.1.1 Fecha, hora exacta y lugar del suceso extraordinario
@@ -561,50 +564,53 @@ Fuente: DI
 ### 2.1.2 Descripción del desarrollo del suceso extraordinario y del lugar de producción, incluida la actividad del sistema integrado de protección y del servicio de rescate
 El 22. 1. 2019 entró en el PAF P5508 un camión de la marca MAN con carrocería cerrada, ocupado por 3 personas y cargado, entre otros, con aislamiento térmico, una máquina y herramientas, en el que quedó atascado. En el PAF P5508, protegido por PZS sin barreras, se activó posteriormente una alarma por la circulación del tren. Se produjo una colisión en la que un tren formado por 2 HDV chocó perpendicularmente contra el lado izquierdo del camión. Como consecuencia del impacto, el camión se deformó y giró 90° respecto a
 
-
 ## Página 15
 
-su posición original, de modo que quedó situado junto al tren, con su frontal en sentido contrario a la marcha del tren. Se produjo el encastramiento de la parte trasera del camión (toda la caja excepto la cabina del conductor) entre el lado derecho del 1.º HDV del tren y un muro con pilares de hormigón, véase la Fig. n.º 1. Como consecuencia del impacto se produjo la deformación de la caja del 1.º HDV, de la parte trasera del camión, la rotura del semáforo del PZS y del cerco de hormigón; nadie resultó herido. 
-Fig. n.º 2: Esquema del lugar de producción del SE 
-Fuente: Mapy.cz – modificado por DI
-### Del examen del lugar del SE se constató:
-Paso a nivel ferroviario P
- 5508 y vía pública adyacente:
-El PAF se encontraba en una vía regional entre la est. Vesec u Liberce y la est. Jablonec nad
+posición original, de modo que estaba de pie junto al tren, con su frontal en la dirección contraria al sentido de circulación del tren. Se produjo el encastramiento de la parte trasera de la NA (todo el bastidor excepto la cabina del conductor) entre el flanco derecho de la 1.ª HDV del tren y el muro con pilares de hormigón, véase Fig. n.º 1. Como consecuencia del impacto se produjo la deformación del bastidor de la 1.ª HDV, de la parte trasera de la NA, el daño en el semáforo PZS y en la valla de hormigón; nadie resultó herido.
+Fig. n.º 2: Esquema del lugar de producción del MU
+Fuente: Mapy.cz – modificado DI
+### Del examen del lugar del MU se constató lo siguiente:
+El paso a nivel ferroviario P 5508 y la vía terrestre adyacente:
+El PZ se encontraba en la línea regional entre la est. Vesec u Liberce y la est. Jablonec nad
 •
-Nisou, en el cruce con una vía local de tercer grupo C – vía de servicio;
-El PAF era de vía única, el ángulo de cruce de la vía ferroviaria con la VP era de 90°;
+Nisou en el cruce con una vía de comunicación local de clase III, grupo C – vía de servicio;
+El PZ era de vía única, el ángulo de cruce de la línea ferroviaria con la VT era de 90°;
 •
-El PAF estaba protegido por un dispositivo de protección de paso a nivel luminoso (PZS
+El PZ estaba protegido con un dispositivo de enclavamiento de paso a nivel luminoso (PZS
 •
 3SBLI, sin barreras), con señal positiva (luz blanca intermitente);
-El PAF estaba señalizado en ambos lados por señales de tráfico de advertencia A 32a
+El PZ estaba señalizado en ambos lados con señales de tráfico de advertencia A 32a «Cruz
 •
-«Cruz de advertencia para paso a nivel ferroviario de vía única» colocadas a la derecha de la VP, bajo las cuales se encontraban las cajas luminosas de los semáforos del PZS, complementadas con la placa «Atención tren»; las cruces de advertencia y los semáforos estaban colocados de conformidad con lo dispuesto en la norma ČSN 73 6380; 
-La anchura de la VP en el PAF era de 5,2 m;
+de advertencia para paso a nivel ferroviario de vía única» colocadas a la derecha de la VT,
+bajo las cuales se encontraban las cajas luminosas de los semáforos PZS, complementadas
+con la placa «Atención tren»; las cruces de advertencia y los semáforos estaban colocados
+de conformidad con lo dispuesto en la norma ČSN 73 6380;
+la anchura de la VT en el PZ era de 5,2 m;
 •
-La anchura de la VP antes y después del PAF era de 3,5 m;
+la anchura de la VT antes y después del PZ era de 3,5 m;
 •
-La alarma del PZS en el PAF se activaba por la circulación del tren; ningún empleado
+la advertencia del PZS en el PZ se activaba con la circulación del tren; ningún empleado
 •
-del gestor de la vía activó la alarma en este paso a nivel ferroviario P5508;
-Tras la producción del SE se extrajeron los archivos del bloque de diagnóstico del PZS y se
+del gestor de la infraestructura activaba la advertencia en este paso a nivel ferroviario P5508;
+tras la producción del MU se extrajeron los archivos del bloque de diagnóstico del PZS y se
 •
-constató que el PZS estaba en funcionamiento en el momento de la producción del SE;
-La VP fuera del ámbito del PAF tenía superficie de asfalto y en el paso tenía una
+constató que el PZS estaba en funcionamiento en el momento de la producción del MU;
+la VT fuera del ámbito del PZ tenía superficie de asfalto y en el paso tenía una superficie
 •
-superficie formada por paneles de hormigón plástico tipo BODAN;
-El estado y las dimensiones de los canales para el aro del vehículo ferroviario estaban sin
+formada por paneles de hormigón plástico tipo BODAN;
+el estado y las dimensiones de los canales para el aro del vehículo ferroviario estaban sin
 •
-defectos y en un estado que permitía un paso fluido y seguro por la vía. Los pernos de protección estaban colocados en ambos lados del paso. El canal de drenaje discurría por encima del PAF;
-En la superficie de la calzada en el PAF había estrías en el sentido de marcha del camión
+defectos y en un estado que permitía un paso fluido y seguro por la vía. Los cuñas de
+protección estaban colocadas en ambos lados del paso. El canal de drenaje estaba sobre el PZ;
+en la cubierta de la calzada en el PZ había, en el sentido de circulación de la NA, estrias
 •
-procedentes de la parte metálica trasera inferior (estructura de la plataforma elevadora hidráulica) del mismo; se trataba de huellas relacionadas con el atascamiento; 
-El estado del paso permitía un paso fluido y seguro por la vía;
+de la parte metálica trasera inferior (estructura de la plataforma elevadora hidráulica) de
+dicha NA; se trataba de huellas relacionadas con el atrapamiento;
+el estado del paso permitía un paso fluido y seguro por la vía;
 •
-
 
 ## Página 16
+
 
 La vía local de la calle Prosečská, que va desde la carretera I/14 a través de la vía de
 •
@@ -639,52 +645,57 @@ excepto la cabina del conductor) encastrada entre el lado derecho del 1.º HDV d
 La cabina del conductor del camión apoyaba su parte derecha en el lado derecho del 1.º HDV del tren,
 •
 
-
 ## Página 17
 
-pero no estaba encastrada entre el cerco. La cabina del conductor no estaba significativamente dañada y se encontraba a la altura del semáforo «A» después del PAF;
-El frontal del camión estaba a la altura del centro del PAF (es decir, en el pk 5,446) 
+no quedaba encajonado entre la valla. La cabina del conductor no estaba dañada significativamente
+y se encontraba a la altura de la señal "A" detrás del PTF;
+el frontal del camión se encontraba a la altura del centro del PTF (es decir, en el pk 5,446)
 •
-La parte trasera desplazada del camión se encontraba a 9 m de su frontal (es decir, en el pk 5,455);
+la parte trasera desviada del camión se encontraba a 9 m de su frontal (es decir, en el pk 5,455);
 •
-El camión estaba deformado. El parabrisas estaba agrietado, pero en conjunto;
+el camión estaba deformado. El parabrisas estaba agrietado, pero en general;
 •
-La caja del camión estaba totalmente deformada;
+la caja del camión estaba completamente deformada;
 •
-La rueda delantera derecha estaba reventada;
+la rueda delantera derecha estaba reventada;
 •
-La rueda trasera exterior derecha estaba desmontada de la llanta;
+la rueda trasera exterior derecha estaba desmontada de la llanta;
 •
-El eje trasero estaba deformado y girado; la transmisión cardánica y la suspensión del eje
+el eje trasero estaba deformado y girado, el cardán y
 •
-trasero estaban dañadas;
-En el paso se encontraron huellas de neumático y de la parte trasera en el sentido original
+la suspensión del eje trasero estaban dañados;
+en el paso a nivel se encontraron huellas de la rueda y del frontal trasero en la dirección
 •
-de marcha del camión. 
+original de marcha del camión.
 Tren Os 2652:
-El tren tenía 2 HDV, 51 m, 8 ejes, una masa de 113 t, un porcentaje de frenado
+el tren tenía 2 locomotoras, 51 m, 8 ejes, peso de 113 t, porcentaje de frenado necesario del 86 %
 •
-necesario del 86 % y un porcentaje de frenado real del 110 %;
-En el frente del tren estaba el 1.º HDV – la unidad motora CZ ČD 95 54 5 840 003-8, tras
+y porcentaje de frenado real del 110 %;
+en la cabeza del tren estaba la 1.ª locomotora – locomotora de motor CZ ČD 95 54 5 840 003-8, tras la cual estaba
 •
-la cual estaba el 2.º HDV – la unidad motora CZ ČD 95 54 5 843 030-8. El transportista, propietario y poseedor de ambos HDV era ČD. No se produjo el descarrilamiento del tren;
-Ambos HDV estaban equipados con frenos de disco. El tren fue frenado mediante el
+la 2.ª locomotora – locomotora de motor CZ ČD 95 54 5 843 030-8. El operador, propietario y titular
+de ambas locomotoras eran ČD. No se produjo el descarrilamiento del tren;
+ambas locomotoras estaban equipadas con frenos de disco. El tren estaba frenado con el 1.º método de frenado
 •
-método de frenado I en el modo de frenado P;
-El tren estaba señalizado en el frente con la señal «Inicio del tren» y en el extremo con la
+en el modo de frenado P;
+el tren estaba señalizado en la parte delantera con la señal "Inicio del tren" y en la parte trasera del tren estaba señalizado
 •
-señal «Fin del tren». El frontal del HDV se encontraba en el pk 5,460, a una distancia de 14 m del lugar de la colisión (PAF P5508). El fin del tren se encontraba a 40 m antes del lugar de la colisión;
-En el 1.º HDV era visible la deformación y los arañazos de la pared derecha de la caja del
+con la señal "Fin del tren". El frontal de la locomotora se encontraba en el pk 5,460 a una distancia de 14 m del
+lugar de la colisión (PTF P5508). El fin del tren se encontraba a 40 m del lugar de la colisión;
+en la 1.ª locomotora era visible la deformación y el arañazón de la pared derecha de la caja del vehículo,
 •
-coche, las puertas de acceso derechas n.º 1 y el escalón extensible dañados, los cristales de 4 ventanas laterales del lado derecho rotos, el powerpack «A» (unidad motora) dañado;
-El tren fue conducido desde el HDV de la serie 840 desde el puesto de conducción n.º 1.
+las puertas de acceso 1.ª derecha y el escalón extensible estaban dañados, los cristales de 4 ventanas laterales en
+el lado derecho estaban rotos, el powerpack "A" (unidad motriz) estaba dañado;
+el tren era conducido desde la locomotora de la serie 840 desde la 1.ª cabina. La cabina no estaba dañada
 •
-El puesto no resultó dañado como consecuencia de la producción del SE. En el extremo del tren, en el puesto trasero (n.º 1) del HDV de empuje 843 030-8, se encontraba el 2.º maquinista. El estado de los elementos de mando en ambos puestos quedó documentado en el momento del examen.
-Fig. n.º 4: Vista del camión encastrado tras la producción del SE 
+como consecuencia de la aparición de MU. En la parte trasera del tren, en la cabina trasera (n.º 1) de la locomotora de empuje
+843 030-8, se encontraba el 2.º maquinista. El estado de los elementos de control en ambas cabinas
+fue documentado en el momento de la inspección.
+Fig. n.º 4: Vista del camión encajonado tras la aparición de MU
  Fuente: DI
 
-
 ## Página 18
+
 
 HDV 840 003-8:
 En el 1.º HDV, en el puesto n.º 1, la palanca de sentido de marcha estaba en posición
@@ -729,54 +740,39 @@ El 25. 1. 2019, el DI y un perito judicial realizaron un examen conjunto del cam
 En el lugar del SE se encontraban también presentes los jefes de los distintos departamentos organizativos del gestor de la vía y del transportista. 
 En el SE se activó el IZS.
 
-
 ## Página 19
 
-### 2.1.3 Decisión sobre el inicio de la investigación, composición del equipo de personas cualificadas para la investigación y forma de dirección de la investigación
-SE comunicada al COP del DI:
-22. 1. 2019, a las 8:16 h (es decir, 29 min después de la producción del SE).
+### 2.1.3 Decisión sobre el inicio de la investigación, composición del equipo de personas cualificadas para la investigación y forma de dirigir la investigación
+MU comunicada al COP DI:
+22. 1. 2019, a las 8:16 h (es decir, 29 min después de la aparición de la MU).
 Forma de comunicación:
 telefónica.
 Comunicada por la persona autorizada en nombre de:
 el gestor de la vía (SŽDC) y el transportista (ČD).
 Consentimiento del DI para la liberación de la vía:
-22. 1. 2019, a las 8:18 h (es decir, 31 min después de la producción del SE) según
-los hechos comunicados inicialmente. A las 9:09 h se
-comunicó al COP del DI una precisión de la información
-sobre el importe de los daños en el HDV; sobre la base de
-nuevos hechos, el consentimiento fue revocado a las
-9:13 h. El DI, a las 12:04 h (es decir, 4 h 17 min después
-de la producción del SE), tras finalizar la determinación
-de las causas y circunstancias de la producción del SE en
-su lugar, volvió a emitir el consentimiento para la
-liberación de la vía.
-La comunicación del SE por parte del gestor de la vía y del transportista se ajustó a lo
-dispuesto en el § 49 apartado 3 letra a) de la ley n.º 266/1994 Sb. y en el § 7 apartado 3 del
-decreto n.º 376/2006 Sb.
+22. 1. 2019, a las 8:18 h (es decir, 31 min después de la aparición de la MU) de acuerdo con los hechos comunicados originalmente. A las 9:09 h se comunicó al COP DI una precisión de la información sobre el importe de los daños en el HDV; sobre la base de los nuevos hechos, el consentimiento fue revocado a las 9:13 h. El DI a las 12:04 h (es decir, 4 h 17 min después de la aparición de la MU), tras finalizar la investigación de las causas y circunstancias de la aparición de la MU en su lugar, emitió nuevamente el consentimiento para la liberación de la vía.
+La comunicación de la MU por parte del gestor de la vía y del transportista se ajustó a lo dispuesto en el § 49 apartado 3 letra a) de la ley nº 266/1994 Sb. y en el § 7 apartado 3 del decreto nº 376/2006 Sb.
 Decisión del DI sobre el inicio de la investigación:
-22. 1. 2019, en base a la gravedad del SE.
-| Decisión del DI sobre el inicio de la investigación: | 22 1 2019 en base a la gravedad del SE . . , . |
-| Investigación del DI en el lugar del SE: | 2x inspector ÚI Čechy centro de trabajo Praga , . |
-| Constitución del equipo de investigación: | no fue necesario constituirlo . |
+22. 1. 2019, y ello sobre la base de la gravedad de la MU.
+| Decisión del DI sobre el inicio de la investigación: | 22 1 2019 y ello sobre la base de la gravedad de la MU . . , . |
+| Investigación del DI en el lugar de la MU: | 2x inspector ÚI Čechy centro de trabajo Praga , . |
+| Formación del equipo de investigación: | no fue necesario formarlo . |
 | Colaboración externa: | no se utilizó . |
-La posterior investigación de las causas y circunstancias de la producción del SE fue
-encomendada dentro del DI al ÚI Čechy, centro de trabajo Praga. 
-En la investigación de las causas y circunstancias de la producción del SE, el DI partió de
-sus propios conocimientos y hallazgos, de su propia documentación fotográfica, de la
-documentación elaborada durante la investigación por el gestor de la vía, la PČR, del
-documento del HZS y de la evaluación técnica de la ČVUT en Praga, Facultad de
-Transportes. La investigación de las causas y circunstancias de la producción del SE se
-realizó de conformidad con la ley n.º 266/1994 Sb. y el decreto n.º 376/2006 Sb. 
-### 2.2 Circunstancias del suceso extraordinario
-### 2.2.1 Empleados implicados, personas en relación contractual y demás implicados y testigos
+La posterior investigación de las causas y circunstancias de la aparición de la MU fue encomendada dentro del DI al ÚI Čechy, centro de trabajo Praga.
+En la investigación de las causas y circunstancias de la aparición de la MU, el DI partió de sus propios conocimientos y hallazgos, de su propia documentación fotográfica, de la documentación elaborada durante la investigación por el gestor de la vía, la PČR, del documento del HZS y de la evaluación técnica de la ČVUT en Praga, Facultad de Transporte.
+La investigación de las causas y circunstancias de la aparición de la MU se realizó de acuerdo con la ley nº 266/1994 Sb. y el decreto nº 376/2006 Sb.
+### 2.2 Circunstancias del suceso excepcional
+### 2.2.1 Empleados implicados, personas en relación contractual y demás implicados
+y testigos
 Personas implicadas en nombre de:
-Transportista (ČD):
-1.º maquinista (persona que conduce el 1.º HDV) del tren Os 2652, empleado de ČD;
+El transportista (ČD):
+1. maquinista (persona que conduce el 1. HDV) del tren Os 2652, empleado de ČD;
 •
-2.º maquinista (persona que conduce el 2.º HDV, en empuje) del tren Os 2652, empleado de ČD.
+2. maquinista (persona que conduce el 2. HDV, en empuje) del tren Os 2652, empleado de ČD.
 •
 
 ## Página 20
+
 
 Tercera parte:
 conductor de camión.
@@ -819,8 +815,8 @@ El estado real del tren comprobado en el lugar del MU correspondía a la documen
 El P5508 en el km 5,446 era de vía única. En el tramo anterior al P5508, la vía procedente de Liberec pasaba de una vía recta a una curva suave a la derecha trazada en un corte y, a continuación, en un desmonte. A 50 m después del P5508, la vía discurría en línea recta durante unos 140 m. El tren se aproximaba al P procedente de Liberec a través de la est. Vesec u Liberce (es decir, por el lado derecho desde el punto de vista del conductor del CAM), el conductor del CAM, antes de atascarse en el P5508, llegó por una vía local desde la carretera I/14 desde la casa n.º p. 96 de la calle Tanvaldská (por el lado izquierdo desde el punto de vista del maquinista), el ángulo de cruce mutuo entre la vía y la PK era, según la medición de DI, de 90°. La descripción adicional se encuentra en el punto 2.1.2 de esta ZZ.
 Se trataba de una vía única, no electrificada, protegida en el tramo entre estaciones Vesec u Liberce – Jablonec nad Nisou por el TZZ AH-ESA-04 sin señales de sección
 
-
 ## Página 21
+
 
 (es decir, 3.ª categoría según TNŽ 34 2620). En el punto del MU, el velocímetro superior N establecía una velocidad de vía de 55 km.h-1 para los vehículos que pueden aprovechar al pasar por la curva valores más altos de déficit de peralte de al menos 130 mm con la carga máxima por eje de 18 toneladas según el art. 1338 SŽDC D1 (es decir, también para las series 840, 843, 043, etc.). 
 La PK discurría 60 m antes del P en el sentido de marcha del CAM en línea recta en pendiente. El P tenía una anchura de 5,2 m y una longitud de 5,4 m. La calzada del paso a nivel del P estaba formada por paneles de hormigón plástico de construcción BODAN. 
@@ -884,8 +880,8 @@ finalización del examen del lugar del origen del MU por empleados del DI;
 restablecimiento de la circulación.
 •
 
-
 ## Página 22
+
 
 ### 2.2.7 Activación del plan del sistema integrado de emergencia, de los servicios de emergencia policial y sanitario y procedimientos conexos
 El plan IZS fue activado dada la naturaleza del MU. El plan IZS fue activado a las 7:51 h, es decir, 4 minutos después del origen del MU, por el jefe de taller a petición del maquinista del tren Os 2652.
@@ -931,149 +927,139 @@ En el MU, el daño causado en los vehículos ferroviarios, los componentes de la
 ### ambiente se cifró en un total de 25 064 966 Kč *)
 *) La cuantía del daño a la fecha de publicación de la ZZ no era definitiva.
 
-
 ## Página 23
 
 ### 2.4 Circunstancias externas
 ### 2.4.1 Condiciones meteorológicas y datos geográficos
 Condiciones meteorológicas:
-en el momento del origen del MU había luz diurna, despejado, sin precipitaciones, viento suave, - 11 °C, cobertura de nieve, visibilidad no reducida.
+en el momento de producirse el MU había luz diurna, despejado, sin precipitaciones, viento suave, -11 °C, cobertura de nieve, visibilidad no reducida.
 Datos geográficos:
-terreno accidentado, la vía discurre antes del P en una curva a la derecha, en un corte y en un desmonte. 
+terreno accidentado, la vía se encuentra antes de ŽP en un arco a la derecha, en corte y en desmonte.
 Posición del sol:
-DI investigó la posibilidad de deslumbramiento del maquinista del tren Os 2652
-por el sol en el momento del origen del MU (7:47 h), cuando el sol (centro del disco)
-brillaba con una elevación de -0,43° bajo el horizonte y con un azimut de
-120,67°. El amanecer fue a las 7:48 h. En el momento del origen del MU era
-el crepúsculo civil, cuando se garantizaba una buena visibilidad. 
-Según el cálculo, al conductor del CAM antes del P el sol le brillaba desde la izquierda por detrás
-con un ángulo de unos 132° y al maquinista del tren Os 2652 antes
-del P el sol le brillaba desde la izquierda por delante con un ángulo de unos 38°.
-## 3 REGISTRO DE LA INVESTIGACIÓN Y DE LAS EXPLICACIONES PRESENTADAS 
+DI investigó la posibilidad de deslumbramiento del maquinista del tren Os 2652 por el sol en el momento de producirse el MU (7:47 h), cuando el sol (centro del disco) brillaba con una elevación de -0,43° bajo el horizonte y con un azimut de 120,67°. El amanecer fue a las 7:48 h. En el momento de producirse el MU era el crepúsculo civil, con buena visibilidad garantizada.
+Según el cálculo, al conductor de NA antes de ŽP le brillaba el sol desde la izquierda por detrás con un ángulo de aprox. 132° y al maquinista del tren Os 2652 antes de ŽP le brillaba el sol desde la izquierda por delante con un ángulo de aprox. 38°.
+## 3 REGISTRO DE LA INVESTIGACIÓN Y DE LAS EXPLICACIONES PRESENTADAS
 ### 3.1 Resumen de las explicaciones presentadas (sujeto a protección de la identidad de las personas)
 ### 3.1.1 Empleados del gestor de la vía y del transportista, incluidas personas en relación contractual
-1.º maquinista (1. HDV) del tren Os 2652
-  – del Acta con el empleado
+1. maquinista (1. HDV) del tren Os 2652
+  – de la Acta con el empleado
 •
-(en presencia de DI) entre otros se desprende:
-◦entró en turno descansado y sin estrés. El descanso antes del turno fue de 60 h; 
-◦estuvo en turno desde las 3:40 h, durante el turno tomó un descanso en el horario de 5:45 – 6:00 h;
-◦el tren Os 2652 lo condujo en el tramo Liberec – Tanvald con el HDV 840 003-8, en el empuje estaba el HDV 843 030-8 ocupado por el 2.º maquinista;
-◦durante la marcha del tren Os 2652 hacia el P5508 circulaba a una velocidad de hasta 55 km.h-1;
-◦al pasar por una curva a la derecha en algún punto a la altura de la roca, a unos 50 m antes del P, vio a corta distancia un camión detenido en el paso a nivel y, al mismo tiempo, a la izquierda en el camino junto a la casa (n.º p. 521 a la izquierda de la vía) estaba de pie y agitaba la mano un hombre;
-◦inmediatamente aplicó frenado de acción rápida. Se produjo el impacto del HDV contra el CAM detenido;
-◦tras detener el tren, realizó la desactivación del freno continuo por temor a la aparición de un incendio por el freno electromagnético activado y a la fuga de diésel del depósito dañado del CAM;
-◦junto con el jefe de tren comprobaron el estado de los pasajeros y de las personas en la vía, nadie resultó herido;
-◦comunicó el origen del MU al jefe de taller en Liberec y le solicitó la activación del HZS;
-◦dado que en el RDST TRS no había canal libre (nota DI: es decir, no había señal), informó por teléfono al director de despacho D3 en Tanvald y le solicitó
-que informara al despachador DOZ 2 en la est. Liberec;
-◦acto seguido, el despachador DOZ 2 en la est. Liberec se puso en contacto con él por iniciativa propia;
-◦se sometió a la prueba de alcoholemia por la PČR con resultado negativo;
-◦en el momento del origen del MU había buena visibilidad, helaba, no llovía, no nevaba y no estaba deslumbrado por el sol;
+(en presencia de DI) entre otros se deduce:
+◦entró en turno descansado y sin estrés. Descansó 60 h antes del turno;
+◦estuvo en el turno desde las 3:40 h, durante el turno tomó un descanso en el horario de 5:45 – 6:00 h;
+◦el tren Os 2652 lo condujo en el tramo Liberec – Tanvald con HDV 840 003-8, en la maniobra de empuje se encontraba HDV 843 030-8 ocupado por el 2.º maquinista;
+◦durante la marcha del tren Os 2652 hacia ŽP P5508 circulaba a una velocidad de hasta 55 km·h-1;
+◦al pasar por un arco a la derecha en algún punto a la altura de la roca a unos 50 m antes de ŽP vio a corta distancia un camión parado en el paso a nivel y simultáneamente a la izquierda en el camino junto a la casa (n.º cons. 521 a la izquierda de la vía) había un hombre parado y agitando la mano;
+◦inmediatamente aplicó frenado de acción rápida. Se produció el impacto del HDV contra el NA parado;
+◦tras detener el tren realizó el desfrenado del freno continuo por temor a la aparición de un incendio por la activación del freno electromagnético y a la fuga de gasóleo del depósito dañado del NA;
+◦junto con la jefa de tren comprobaron el estado de los pasajeros y de las personas en la vía, nadie resultó herido;
+◦comunicó la aparición del MU al jefe de taller en Liberec y le solicitó la activación de HZS;
+◦como en RDST TRS no había canal libre (nota de DI: es decir, no había señal), informó telefónicamente al despachador director D3 en Tanvald y le solicitó que informara al despachador DOZ 2 en est. Liberec;
+◦acto seguido le llamó por teléfono el despachador DOZ 2 en est. Liberec;
+◦se sometió a la prueba de aliento de PČR con resultado negativo;
+◦en el momento de producirse el MU había buena visibilidad, hacía frío, no llovía, no nevaba y no estaba deslumbrado por el sol;
 ◦no alegó avería en el HDV;
-
 
 ## Página 24
 
-◦circula por dicha vía desde hace unos 30 años;
-◦antes del origen de este MU no había tenido ninguna mala experiencia en dicho paso a nivel.
-2.º maquinista (2. HDV, en el empuje) del tren Os 2652
+◦en la línea mencionada lleva unos 30 años;
+◦antes de que se produjera este MU en este paso a nivel, no había tenido ninguna mala experiencia.
+2. maquinista (2. HDV, en la maniobra de empuje) del tren Os 2652
   – del Acta con el empleado
 •
-(en presencia de DI) entre otros se desprende:
-◦el descanso antes del turno fue de 39 h y entró en turno descansado y sin estrés;
-◦a las 7:00 h entró en un turno excepcional para garantizar el transporte de grupos de pasajeros comunicados según el telegrama. En el empuje del tren Os 2652 debía circular en el tramo Liberec – Tanvald con el HDV 843 030-8. El HDV lo manejaba desde el puesto trasero en el sentido de marcha del tren;
-◦al circular con el mencionado tren tras la parada Vratislavice nad Nisou sintió una brusca caída de velocidad y registró una pérdida de aire en la tubería principal;
-◦tras detener el tren, era evidente que en el P se había producido una colisión con el CAM, realizó la comprobación del estado de los pasajeros. Nadie resultó herido;
-◦a continuación se dirigió al lugar de la colisión, donde comprobó que tampoco en la parte delantera del tren había nadie herido y que el maquinista del tren ya había cumplido con la obligación de comunicar;
-◦se sometió a la prueba de alcoholemia por la PČR con resultado negativo;
-◦en el momento del origen no llovía, no nevaba, estaba nublado, no estaba deslumbrado por el sol;
-◦no alegó avería en el HDV.
+(en presencia del DI) entre otras cosas se desprende:
+◦tuvo un descanso antes del turno de 39 h y se presentó al turno descansado y sin estrés;
+◦a las 7:00 h se incorporó a un turno extraordinario para garantizar el transporte de los grupos de pasajeros anunciados según el telegrama. En la maniobra de empuje del tren Os 2652 debía circular en el tramo Liberec – Tanvald con el HDV 843 030-8. El HDV lo manejaba desde el puesto trasero en el sentido de marcha del tren;
+◦durante la circulación del mencionado tren, tras la parada Vratislavice nad Nisou, sintió una brusca caída de velocidad y registró una pérdida de aire en la tubería principal;
+◦tras la detención del tren, era evidente que en el ŽP se había producido una colisión con un NA; realizó la comprobación del estado de los pasajeros. Nadie resultó herido;
+◦a continuación se dirigió al lugar de la colisión, donde comprobó que tampoco en la parte delantera del tren había nadie herido y que el maquinista del tren ya había cumplido con la obligación de notificación;
+◦se sometió a la prueba de aliento por parte de la PČR con resultado negativo;
+◦en el momento de producirse no llovía, no nevaba, estaba nublado y no estaba deslumbrado por el sol;
+◦no alegó ningún defecto en el HDV.
 jefe de estación DOZ 2 en la est. Liberec
-  – del Acta con el empleado (en presencia de DI)
+  – del Acta con el empleado (en presencia del DI)
 •
-entre otros se desprende:
-◦estuvo en turno desde las 6:00 h, el descanso antes del turno fue de 12 h; 
-◦entró en turno descansado y sin estrés. El turno transcurrió sin incidencias;
-◦a las 7:41 h llegó a la est. Vesec u Liberce en el 2.º SK el tren Os 2613 y a las 7:42 h llegó en el 1.º SK el tren Os 2652;
-◦comprobó en el monitor JOP los elementos de control del dispositivo de señalización, que mostraba un estado sin averías. Mediante el procedimiento estándar, sin el uso de elementos de emergencia, estableció la ruta para el tren Os 2652 desde el 1.º SK a la vía de circulación y, a continuación, al 1.º SK de la est. Jablonec nad Nisou. A las 7:43 h el tren Os 2652 partió de la est. Vesec u Liberce;
-◦a las 7:57 h recibió del HZS SŽDC la notificación del origen del MU – colisión del tren de pasajeros con un camión en el P5508. Comunicó inmediatamente el origen del MU según el Cuadro de Comunicaciones;
+entre otras cosas se desprende:
+◦estaba en el turno desde las 6:00 h, tuvo un descanso antes del turno de 12 h;
+◦se presentó al turno descansado y sin estrés. El turno transcurrió sin incidencias;
+◦a las 7:41 h llegó a la est. Vesec u Liberce en el 2. SK el tren Os 2613 y a las 7:42 h llegó en el 1. SK el tren Os 2652;
+◦comprobó en el monitor JOP los elementos de control del aparato de seguridad, que mostraba un estado sin averías. Mediante el procedimiento estándar, sin el uso de elementos de emergencia, estableció la ruta para el tren Os 2652 desde el 1. SK a la vía de tráfico y posteriormente al 1. SK de la est. Jablonec nad Nisou. A las 7:43 h el tren Os 2652 partió de la est. Vesec u Liberce;
+◦a las 7:57 h recibió del HZS SŽDC la notificación de la producción de un MU – colisión de un tren de pasajeros con un camión en el ŽP P5508. Comunicó inmediatamente el MU según el Cuadro de Notificaciones;
 ◦en el tramo Vesec u Liberce – Jablonec n. N. no registró problemas en el RDST;
-◦tras comunicar el MU, intentó contactar por el RDST TRS con el maquinista del Os 2652, pero este no respondió a la llamada, por lo que se comunicó con él por teléfono móvil y acordaron el procedimiento a seguir.
+◦tras la notificación del MU, intentó a través del RDST TRS llamar al maquinista del Os 2652, pero este no respondió a dicha llamada, por lo que se comunicó con él por teléfono móvil y acordaron el procedimiento a seguir.
 gestor del expediente de pasos a nivel, SŽDC, ST Liberec
   – del Registro de explicaciones presentadas
 •
-para DI, entre otros se desprende del MU:
-◦desde el año 1998 trabaja en la gestión de vías de Liberec, donde tiene a su cargo el expediente de pasos a nivel. En total tiene a su cargo 529 pasos a nivel ferroviarios;
-◦dentro de su actividad participa en las Inspecciones Conjuntas de Pasos a Nivel quinquenales, en las inspecciones excepcionales de pasos a nivel tras MU e incidencias y por orden de su superior. No participa en las inspecciones anuales de pasos a nivel;
-◦dentro de su actividad es responsable de la introducción de datos en el expediente de pasos a nivel y de su actualización, así como de negociar los cierres de pasos a nivel durante las reparaciones de los P; 
+sobre el MU para el DI, entre otras cosas se desprende:
+◦desde el año 1998 trabaja en la administración de líneas de Liberec, donde tiene a su cargo el expediente de pasos a nivel. En total tiene a su cargo 529 pasos a nivel ferroviarios;
+◦en el marco de su actividad participa en las Inspecciones Conjuntas de pasos a nivel quinquenales, en las inspecciones extraordinarias de pasos a nivel tras MU e incidencias y por orden de su superior. No participa en las inspecciones anuales de pasos a nivel;
+◦en el marco de su actividad es responsable de la introducción de datos en el expediente de pasos a nivel y de su actualización, así como de negociar los cierres de pasos a nivel durante las reparaciones del ŽP;
 ◦es responsable de la obtención de información sobre las vías terrestres y su categoría;
-◦la información sobre las carreteras la obtiene de la Dirección de Carreteras y Autopistas, de la Administración Provincial de Carreteras y Mantenimiento, y sobre las vías de servicio de la autoridad administrativa de carreteras
+◦obtiene la información sobre las carreteras de la Dirección de Carreteras y Autopistas, de la Administración Provincial y Mantenimiento de Carreteras, y sobre las vías de servicio de la autoridad administrativa de carreteras
 
 ## Página 25
 
-a o místních komunikacích od obcí;
-◦informaci, que a través de ŽP P5508 pasa la „místní komunikace D2 – nepřístupná motorovým vozidlům nebo pro smíšený provoz“ (vía local D2 – no accesible a vehículos de motor o para tráfico mixto) la introdujo en el pasaporte de pasajes a nivel hacia 1998 a raíz de una comunicación telefónica de un representante del MO Liberec – Vratislavice nad Nisou. Según su declaración, en la aplicación pasaporte de pasajes a nivel consta para la vía local D2 únicamente „nepřístupné motorovým vozidlům“ (no accesible a vehículos de motor); la otra parte „nebo pro smíšený provoz“ (o para tráfico mixto) en el sentido de la ley 13/1997 Sb. de vías terrestres, según su afirmación, lamentablemente no entró en el pasaporte;
-◦tras la aparición del MU del 22.1.2019 verificó la categoría de la vía terrestre en ŽP P5508 y lo tiene confirmado por escrito. En el correo electrónico del 8.2.2019 de un representante del MO Liberec – Vratislavice nad Nisou se indica que en la ul. Prosečská la vía está registrada como Místní komunikace IV. třídy se smíšeným provozem (vía local de IV clase con tráfico mixto);
-◦nunca solicitó al gestor de la vía el pasaporte, el registro de vías ni otro documento. Trabajaba en su mayoría con la información sobre la categoría de la vía terrestre comunicada verbalmente;
-◦por el diseño y la instalación de la señalización vial correspondiente es responsable siempre el gestor de las vías;
-◦si es necesario resolver las condiciones de visibilidad insuficientes en el paso a nivel, entonces, en nombre del operador de la vía, resuelve la señalización vial adecuada y la acuerda con la PČR y con la autoridad administrativa de carreteras competente y el gestor / propietario de la vía;
-◦el plazo de la inspección quinquenal conjunta lo notifica por escrito con antelación a la PČR y al propietario de la vía. En un día se inspeccionan unos 15 pasajes a nivel. Durante la inspección se realiza la revisión del paso a nivel y del entorno hasta 240 m de ŽP. Se controlan las señales de tráfico y en el paso a nivel las condiciones de visibilidad – Dz, Lp y Lr.
-◦sabía que detrás de ŽP P5508 hay en total 5 viviendas unifamiliares, por lo que determinó el valor de la intensidad del tráfico rodado en esta vía mediante su estimación profesional;
-◦a las viviendas unifamiliares detrás de ŽP P5508 lleva solo un acceso por carretera, y es a través de ŽP P5508, y además un sendero desde arriba solo para peatones;
-◦antes de la reforma de ŽP P5508 no había en la PK antes de ŽP ninguna señal de tráfico que restringiera el tráfico de vehículos de motor. Durante la realización de las obras de reforma había, antes del paso a nivel P5508, una prohibición de entrada. No sabe si, tras la finalización de las obras de reforma, había antes de ŽP P5508 una señal de tráfico que restringiera el tráfico de vehículos de motor;
+a de las vías locales de los municipios;
+◦la información de que a través del PdP P5508 discurre una "vía local D2 – no accesible a vehículos de motor o para tráfico mixto" la introdujo en el registro de pasos a nivel aproximadamente en 1998 con base en una comunicación telefónica de un representante del ayuntamiento de Liberec – Vratislavice nad Nisou. Según su declaración, en la aplicación del registro de pasos a nivel consta para la vía local D2 únicamente "no accesible a vehículos de motor", y la parte "o para tráfico mixto" en el sentido de la ley 13/1997 Sb. sobre vías terrestres, según sus afirmaciones, desgraciadamente no se incluyó en el registro;
+◦tras el suceso del 22.1.2019 verificó la categoría de la vía terrestre en el PdP P5508 y lo tiene confirmado por escrito. En el correo electrónico del 8.2.2019 de un representante del ayuntamiento de Liberec – Vratislavice nad Nisou se indica que en la c/ Prosečská la vía está registrada como Vía local de IV clase con tráfico mixto;
+◦nunca solicitó al gestor de la vía el registro, el inventario de vías ni ningún otro documento. Trabajaba en su mayoría con la información sobre la categoría de la vía terrestre comunicada verbalmente;
+◦el diseño y la instalación de la señalización vial correspondiente es responsabilidad siempre del gestor de las vías;
+◦si es necesario resolver las condiciones de visibilidad insuficientes en el paso a nivel, entonces, en nombre del explotador de la vía, se encarga de la señalización vial adecuada y la coordina con la Policía (PČR) y con la autoridad administrativa de carreteras competente y el gestor / propietario de la vía;
+◦el plazo de la inspección conjunta quinquenal se notifica por escrito con antelación a la PČR y al propietario de la vía. En un día se inspeccionan unos 15 pasos a nivel. Durante la inspección se realiza la revisión del paso a nivel y de su entorno hasta 240 m del PdP. Se revisan las señales de tráfico y, en el paso a nivel, las condiciones de visibilidad – Dz, Lp y Lr.
+◦sabía que detrás del PdP P5508 hay en total 5 viviendas unifamiliares, por lo que determinó el valor de la intensidad del tráfico rodado en dicha vía mediante su estimación profesional;
+◦a las viviendas unifamiliares detrás del PdP P5508 solo lleva un acceso por carretera, y es a través del PdP P5508, además de un sendero desde arriba solo para peatones;
+◦antes de la reforma del PdP P5508 no había ninguna señal de tráfico en el PK delante del PdP que restringiera el tráfico de vehículos de motor. Durante la ejecución de las obras había, delante del paso a nivel P5508, una prohibición de entrada. No sabe si, tras la finalización de las obras, había delante del PdP P5508 una señal de tráfico que restringiera el tráfico de vehículos de motor;
 ◦no sabe si formaba parte de la documentación de proyecto una restricción permanente o temporal del tráfico para vehículos de motor;
-◦no se pronunció sobre la documentación de proyecto que abordaba las obras de reforma de ŽP P5508, porque no la tenía a su disposición;
-◦nadie notifica los cambios de categoría de las vías terrestres, de modo que se entera de los cambios en la Inspección Quinquenal Conjunta de pasajes a nivel o casualmente de los colegas y luego los verifica con los gestores o propietarios de las vías.
+◦no se pronunció sobre la documentación de proyecto que abordaba la reforma del PdP P5508, porque no la tenía a su disposición;
+◦nadie comunica los cambios de categoría de las vías terrestres, de modo que se entera de los cambios en la Inspección Conjunta Quinquenal de pasos a nivel o casualmente de sus compañeros y luego los verifica con los gestores o propietarios de las vías.
 ### 3.1.2 Otros testigos
 conductor de camión
-  – del Registro de declaración prestada en relación con el MU para DI, entre otros
+  – del Registro de declaración prestada en relación con el suceso para el DI, entre
 •
-se deduce:
+otras cosas se desprende:
 ◦entró en el turno a las 6:00 h sano, descansado y sin estrés;
-◦en la sede de la empresa (Sběř u Jičína) cargaron material y máquina y hacia las 6:20 h salieron hacia Vratislavice nad Nisou; el transcurso fue sin problemas, condujo según la navegación. A este lugar fue por primera vez;
-
+◦en la instalación de la empresa (Sběř u Jičína) cargaron el material y la máquina y hacia las 6:20 h salieron hacia Vratislavice nad Nisou, el transcurso fue sin problemas, conducía según la navegación. A este lugar iba por primera vez;
 
 ## Página 26
 
-◦en Vratislavice nad Nisou, camino del cliente, tuvo que pasar por ŽP P5508;
-◦cuando el NA pasó con ambos ejes por encima de las vías en ŽP P5508, no pudo seguir avanzando, porque la parte trasera del NA quedó colgada en el paso a nivel;
-◦inmediatamente fue con el compañero obrero n.º 1 a comprobar la causa y comprobó que estaba enganchado en la estructura del cabezal hidráulico; el cabezal no se podía levantar más, estaba en posición básica;
-◦cuando volvía a la cabina del NA, el PZS en ŽP pasó a la alerta, por lo que envió al compañero obrero n.º 1 por las vías para que detuviera el tren con una señal antes de ŽP;
-◦volvió a la cabina del NA y probó repetidamente avanzar y retroceder para salir del paso a nivel, pero no cambió nada;
-◦mirando hacia la derecha, fuera de la cabina del NA, vio el tren que se aproximaba; no está seguro de si oyó la sirena del tren, todo ocurrió muy rápido;
-◦vio que el tren no podía frenarlo, así que se aferró y agarró el volante; se produció el impacto;
-◦la cabina del NA tras el impacto no quedó encajada entre el tren y la valla, así que bajó normalmente y empezó a comprobar qué había pasado y si alguien estaba herido;
-◦nadie comunicó ninguna herida ni nadie del NA resultó herido;
-◦llamó a la PČR y el compañero obrero n.º 1 llamó al empleador;
-◦no se le ocurrió llamar antes de la colisión al IZS, a la ČD o a la SŽDC, ya que probablemente no habría dado tiempo; desde el atrapamiento en ŽP P5508 hasta la colisión con el tren transcurrieron unos 2 minutos.
+◦ desde Vratislavice nad Nisou, de camino al cliente, tuvo que cruzar la PFP P5508;
+◦ cuando el NA cruzó con ambos ejes sobre las vías en la PFP P5508, no pudo continuar, porque la parte trasera del NA quedó atascada en el paso a nivel;
+◦ inmediatamente fue con el compañero obrero n.º 1 a comprobar la causa y comprobó que estaba enganchado en la estructura del frontal hidráulico, el frontal no se podía elevar más, estaba en la posición base;
+◦ cuando volvía a la cabina del NA, la PZS en la PFP pasó a la advertencia, por lo que envió al compañero obrero n.º 1 por las vías para que detuviera el tren con una señal antes de la PFP;
+◦ volvió a la cabina del NA y probó repetidamente marchar hacia adelante y hacia atrás para salir del paso a nivel, pero no cambió nada;
+◦ mirando a la derecha desde la cabina del NA vio el tren que se aproximaba, no está seguro de si oyó pitar el tren, todo ocurrió muy rápidamente;
+◦ vio que el tren no podía frenar, así que se afianzó y agarró el volante, se produció el impacto;
+◦ la cabina del NA no quedó encajonada entre el tren y la valla tras el impacto, por lo que descendió normalmente y comenzó a comprobar qué había ocurrido y si alguien estaba herido;
+◦ nadie comunicó ninguna herida ni nadie del NA resultó herido;
+◦ llamó a la PČR y el compañero obrero n.º 1 llamó al empleador;
+◦ no se le ocurrió llamar antes de la colisión al IZS, a ČD o a SŽDC, ya que probablemente no habría dado tiempo, desde el atasco en la PFP P5508 hasta la colisión con el tren transcurrieron unos 2 minutos.
 testigo, obrero n.º 1 del camión
-  – del Registro de declaración prestada
+  – Del Registro de declaración prestada
 •
-en relación con el MU para DI, entre otros se deduce:
-◦entró en el turno sano, descansado y sin estrés;
-◦en la sede de la empresa (Sběř u Jičína) cargaron la carga en el NA y salieron hacia Vratislavice nad Nisou; el transcurso fue sin problemas, el NA no patinó ni resbaló en ningún sitio y funcionaba correctamente. El NA solo se atascó en el paso a nivel ferroviario;
-◦la tripulación del vehículo la formaban el conductor, el obrero n.º 1 y el obrero n.º 2;
-◦cuando el NA se atascó en ŽP, fue junto con el conductor a comprobar por qué estaba parado el NA, y en medio minuto el PZS pasó a la alerta, por lo que gritó al obrero n.º 2 para que corriera hacia el tren y le diera la señal de detención;
-◦comprobó mirando que el compañero obrero n.º 2 corría por las vías en dirección desde Liberec, así que él mismo echó a correr al otro lado en dirección a Liberec (por el camino junto a las vías) y agitaba los brazos; cuando vio el tren que se aproximaba, siguió agitándolos;
-◦el tren lo pasó de largo y luego se produjo la colisión del tren con el NA;
-◦a continuación corrió de vuelta hacia el conductor del NA, que ya había bajado y se quejó de dolor en la rodilla;
-◦nadie del vehículo resultó gravemente herido; a continuación comunicó al empleador la aparición del MU;
-◦desde el atrapamiento en ŽP P5508 hasta la colisión con el tren transcurrieron unos 2 minutos.
-testigo de la aparición del MU
-  – del Registro Oficial de la PČR, entre otros se deduce:
+del MU para el DI, entre otras cosas, se deduce:
+◦ entró de turno sano, descansado y sin estrés;
+◦ en la instalación de la empresa (Sběř u Jičína) cargaron la mercancía en el NA y salieron hacia Vratislavice nad Nisou, el transcurso fue sin problemas, el NA no patinó ni resbaló en ningún lugar y funcionaba correctamente. El NA solo se atascó en el paso a nivel;
+◦ la tripulación del vehículo estaba formada por el conductor, el obrero n.º 1 y el obrero n.º 2;
+◦ cuando el NA se atascó en la PFP, fue junto con el conductor a comprobar por qué estaba parado el NA, y en menos de medio minuto la PZS pasó a la advertencia, por lo que gritó al obrero n.º 2 para que corriera hacia el tren y le diera la señal de detención;
+◦ comprobó mirando que el compañero obrero n.º 2 corría por las vías en dirección desde Liberec, así que él mismo echó a correr hacia el otro lado en dirección a Liberec (por el camino junto a las vías) y agitaba los brazos, cuando vio el tren que se aproximaba, siguió agitándolos;
+◦ el tren lo pasó de largo y a continuación se produjo la colisión del tren con el NA;
+◦ a continuación corrió de vuelta hacia el conductor del NA, este ya había descendido, se quejó de dolor en la rodilla;
+◦ nadie del vehículo resultó gravemente herido, a continuación comunicó al empleador la ocurrencia del MU;
+◦ desde el atasco en la PFP P5508 hasta la colisión con el tren transcurrieron unos 2 minutos.
+testigo de la ocurrencia del MU
+  – Del Registro oficial de la PČR, entre otras cosas, se deduce:
 •
-◦por casualidad miraba desde la ventana de la casa hacia ŽP, en el que estaba aparcado un camión;
-◦el NA probablemente se había atascado; su conductor estaba fuera del NA y comprobaba qué había pasado y la forma de salir del paso a nivel en vehículo; a su lado había todavía dos hombres;
-◦en ese momento las luces rojas del paso a nivel aún no estaban encendidas y no vio luz blanca;
-◦el NA estuvo en el paso a nivel unos 1 o 2 minutos; luego se encendieron intermitentes las luces rojas del paso a nivel, el conductor corrió de vuelta a la cabina del NA e intentó salir del paso a nivel con él;
-◦parecía que intentaba avanzar con el NA, pero el NA ni siquiera se movió;
-◦dos hombres echaron a correr por la vía, cada uno hacia un lado, presumiblemente para avisar al tren;
-◦más tarde quedó claro que el tren venía desde Liberec, así que el segundo hombre volvió y corrió a agitar hacia el tren en el lado contrario, frente al tren;
-◦a continuación se produjo la colisión y el conductor del NA seguía en la cabina del vehículo;
-
+◦ por casualidad miraba desde la ventana de la casa hacia la PFP, en la que estaba estacionado un camión;
+◦ el NA probablemente se había atascado, su conductor estaba fuera del NA y comprobaba qué había ocurrido y la forma de abandonar el paso a nivel con el vehículo, a su lado había todavía otros dos hombres;
+◦ en ese momento las luces rojas del paso a nivel todavía no estaban encendidas y no vio luz blanca;
+◦ el NA estuvo en el paso a nivel unas 1 o 2 minutos, después se encendieron intermitentemente las luces rojas del paso a nivel, el conductor corrió de vuelta a la cabina del NA e intentó salir del paso a nivel con él;
+◦ parecía que intentaba marchar con el NA hacia adelante, pero el NA ni siquiera se movió;
+◦ dos hombres echaron a correr por la vía, cada uno hacia un lado, aparentemente para avisar al tren;
+◦ más tarde quedó claro que el tren venía desde Liberec, así que el segundo hombre volvió y corrió a agitar hacia el tren en el lado contrario, contra el tren;
+◦ a continuación se produjo la colisión y el conductor del NA seguía en la cabina del vehículo;
 
 ## Página 27
+
 
 ◦el primer vagón del tren estaba en el paso a nivel; la gente empezó a bajar y el conductor del NA también bajó;
 ◦el conductor del NA y los dos hombres intentaron hacer lo máximo para que no se produjera la desgracia.
@@ -1099,6 +1085,7 @@ se deduce:
 
 ## Página 28
 
+
 vehículos de motor. La clase de comunicación debía permanecer igual;
 ◦toda la documentación del proyecto era objeto de deliberación, esto lo garantizaba la empresa PRODIN, incluido el ingeniería, es decir, garantizaba la obtención de declaraciones de los órganos competentes, del inversor y de los municipios donde era posible formular observaciones;
 ◦no sabe si la documentación del proyecto fue objeto de deliberación con los propietarios de casas familiares situadas detrás del paso a nivel P5508;
@@ -1122,8 +1109,8 @@ en relación con el MU para el DI, entre otros, se desprende:
 ◦el número de vías de acceso a las casas familiares situadas detrás del ŽP P5508 no fue verificado por los proyectistas;
 ◦el ŽP P5508 cumplía los parámetros de paso peatonal. El ŽP P5508 superó la pericia del adjudicante SŽDC (nota del DI: su resultado fue el Informe de evaluación independiente de seguridad, análisis y evaluación de riesgos del cambio de infraestructura ferroviaria
 
-
 ## Página 29
+
 
 ) y la Autoridad Ferroviaria emitió la licencia de construcción, posteriormente fue objeto de recepción por parte de la Autoridad Ferroviaria;
 ◦en el ŽP P5508 hicieron instalar señalización de tráfico para el período de reconstrucción, no resolvieron nada más. No resolvieron la señalización de tráfico antes y después de la reconstrucción del paso a nivel. No se modificaron los parámetros de la vía;
@@ -1151,8 +1138,8 @@ en relación con el MU para el DI, entre otros, se desprende:
 ◦antes de elaborar la documentación del proyecto no estuvo en el lugar de la obra;
 ◦no sabe cuántas vías de comunicación conducían a las casas familiares situadas detrás del ŽP P5508, pero recuerda que antes del cierre total de la vía en el ŽP, según los mapas (mapy.cz,
 
-
 ## Página 30
+
 
 maps.google.com), verificaban que se podía llegar a la zona correspondiente por un camino desde arriba;
 ◦en el ŽP P5508 se realizaron trabajos de reparación extensivos solo en terreno de la vía;
@@ -1175,20 +1162,20 @@ En el sistema de garantía de seguridad de la explotación del transporte ferrov
 En el sistema de garantía de seguridad adoptado por el operador de la vía SŽDC, relacionado con las circunstancias de la aparición del MU en cuestión, se detectaron deficiencias.
 En el caso de este MU, la determinación incorrecta a largo plazo de la categoría y la clase funcional (grupo) de la vía de comunicación terrestre en el ŽP desempeñó un papel fundamental. Esto no fue detectado en la inspección conjunta, el diseño de la obra, la formulación de observaciones y la aprobación de la documentación del proyecto, la evaluación independiente ni la actividad de control regular por parte del operador de la vía y del gestor de la vía. Todos estos elementos del sistema de seguridad y demás mecanismos de control, es decir, las personas concretas, fallaron en este caso concreto. El operador de la vía fue representado repetidamente en la actividad de control y desempeñó un papel clave el gestor del inventario de pasos a nivel (empleado del operador de la vía que desempeña la agenda de pasos a nivel ferroviarios, incluida la gestión del inventario de pasos a nivel ferroviarios). La clase funcional de la PK determinada incorrectamente por él (registrada en el inventario del paso a nivel), que no correspondía a la realidad, se extendió progresivamente también a otra documentación, sin ser detectada durante ninguno
 
-
 ## Página 31
 
-de los mecanismos de control mencionados, como se describe en los puntos 3.2.3, 3.4.2 y 4.2.1 de la presente ZZ.
-Los mecanismos de control aplicados actualmente, que se basan en las disposiciones legales vigentes y en las disposiciones internas del operador de la vía, son regulares (repetidos), multietapa (deliberación de la documentación del proyecto) o, en su caso, comisionales (es decir, con la participación de varios sujetos). Sin embargo, se revela como fundamental el nivel de conocimientos de las personas que realizan dicho control. Las únicas personas cuyo nivel de conocimientos puede influir directamente el operador de la vía en el marco de este proceso son sus empleados. Las clases funcionales (grupos) de las vías de comunicación terrestre las elige el gestor del inventario de pasos a nivel de una oferta (véase la Fig. n.º 31), para poder seleccionar correctamente de dicha oferta debe tener los conocimientos adecuados y saber aplicarlos.
-Los gestores del inventario de pasos a nivel, por tanto, para el correcto desempeño de su actividad, necesitan conocer las categorías y clases funcionales (grupos) de las vías de comunicación terrestre en el ŽP. Según SŽDC Zam1, las personas que desempeñan esta agenda según su clasificación concreta deben disponer del examen profesional correspondiente para el desempeño de la actividad en la infraestructura y el balasto ferroviarios. Ninguno de estos exámenes tiene en el programa de competencia profesional el requisito de conocimiento de la ley n.º 13/1997 Sb., como confirmó también la comunicación escrita del gestor de esta disposición. Según la comunicación del subdirector de explotación de la infraestructura, OŘ Hradec Králové, SŽDC, estos empleados reciben formación sobre la ley n.º 13/1997 Sb., sin embargo, esta afirmación no corresponde al contenido de las Actas de reuniones (formación, seminarios) remitidas al DI del 25. 5. 2018, 19. – 20. 9. 2018 y 16. 5. 2019, donde no consta una sola mención sobre el tema de la ley n.º 13/1997 Sb. Tampoco se establece el conocimiento de las normas técnicas que se ocupan de la determinación de la categoría y la clase funcional (grupo) de las vías de comunicación terrestre (aquí ČSN 73 6110, además, por ejemplo, ČSN 73 6101).
-La investigación llevó al DI a la conclusión de que en el estado actual el sistema de garantía de seguridad de la explotación del ferrocarril de ámbito nacional y regional y del transporte ferroviario en dichas vías no establece procedimientos que garanticen la evaluación crítica de los datos sobre la categoría y la clase funcional de la vía de comunicación terrestre obtenidos del gestor de la vía de comunicación terrestre, como consecuencia de lo cual puede producirse el incumplimiento de las normas técnicas (por ejemplo, ČSN 73 6380) u otras condiciones vinculantes establecidas en las disposiciones legales nacionales (ley n.º 266/1994 Sb.).
-### 3.2.2 Requisitos para los empleados del operador de la vía y del transportista y aplicación de dichos requisitos
-Los requisitos para los empleados del operador de la vía y del transportista, especialmente los requisitos de su competencia profesional y de aptitud médica, fueron establecidos por la ley n.º 266/1994 Sb., el decreto n.º 173/1995 Sb., el decreto n.º 101/1995 Sb., el decreto n.º 16/2012 Sb. y las disposiciones internas del operador de la vía y del transportista.
-En el momento de la aparición del MU en cuestión, las personas del transportista ČD involucradas en el MU (maquinistas) que realizaban actividades en la explotación del transporte ferroviario eran competentes profesionalmente para el desempeño de la función que ocupaban.
+de los mecanismos de control indicados, tal como se describe en los puntos 3.2.3, 3.4.2 y 4.2.1 de la presente ZZ.
+Los mecanismos de control aplicados actualmente, que se basan en las disposiciones legales vigentes y en las disposiciones internas del gestor de la vía, son periódicos (repetidos), de varios niveles (examen de la documentación de proyecto) o, en su caso, comisionales (es decir, con la participación de varios sujetos). Sin embargo, se revela como fundamental el nivel de conocimientos de las personas que realizan dicho control. Las únicas personas cuyo nivel de conocimientos puede el gestor de la vía influir directamente dentro de este proceso son sus propios empleados. Las clases funcionales (grupos) de las vías terrestres las elige el gestor del pasaporte de pasajes a nivel de la oferta (véase Fig. n.º 31); para poder seleccionar correctamente de dicha oferta, debe poseer los conocimientos adecuados y saber aplicarlos.
+Los gestores de pasaporte de pasajes a nivel necesitan, para el correcto desempeño de su actividad, conocer las categorías y clases funcionales (grupos) de las vías terrestres en la VP. Según SŽDC Zam1, las personas que desempeñan esta función, según su clasificación concreta, deben disponer del examen profesional correspondiente para el desempeño de la actividad en la infraestructura y superestructura ferroviarias. Ninguno de estos exámenes tiene en su programa de competencia profesional el requisito de conocimiento de la Ley n.º 13/1997 Sb., como confirmó también la comunicación escrita del gestor de esta disposición. Según la comunicación del subdirector de explotación de la infraestructura, OŘ Hradec Králové, SŽDC, estos empleados están formados en la Ley n.º 13/1997 Sb., no obstante, esta afirmación no corresponde al contenido de las Actas de reuniones (formaciones, seminarios) remitidas a la DI del 25. 5. 2018, 19. – 20. 9. 2018 y 16. 5. 2019, donde no consta una sola mención sobre el tema de la Ley n.º 13/1997 Sb. Tampoco se establece el conocimiento de las normas técnicas que se ocupan de la determinación de la categoría y la clase funcional (grupo) de la vía terrestre (aquí ČSN 73 6110, además, por ejemplo, ČSN 73 6101).
+La investigación llevada a cabo por la DI concluyó que, en el estado actual, el sistema de garantía de la seguridad de la explotación de la vía de ámbito nacional y regional y del transporte ferroviario en dichas vías no establece procedimientos que garanticen la evaluación crítica de los datos sobre la categoría y la clase funcional de la vía terrestre obtenidos del gestor de la vía terrestre, como consecuencia de lo cual puede producirse el incumplimiento de las normas técnicas (por ejemplo, ČSN 73 6380) u otras condiciones vinculantes establecidas en las disposiciones jurídicas nacionales (Ley n.º 266/1994 Sb.).
+### 3.2.2 Requisitos para los empleados del gestor de la vía y del transportista y aplicación de dichos requisitos
+Los requisitos para los empleados del gestor de la vía y del transportista, en particular los requisitos de su competencia profesional y de aptitud médica, fueron establecidos por la Ley n.º 266/1994 Sb., el decreto n.º 173/1995 Sb., el decreto n.º 101/1995 Sb., el decreto n.º 16/2012 Sb. y las disposiciones internas del gestor de la vía y del transportista.
+En el momento de la ocurrencia de la MU en cuestión, las personas del transportista ČD involucradas en la MU (maquinistas) que realizaban actividades en la explotación del transporte ferroviario eran competentes profesionalmente para el desempeño de la función que ocupaban.
 ### 3.2.3 Procedimientos de control interno de seguridad y auditoría y sus resultados
-La obligación de realizar inspecciones y mediciones regulares de los ŽP, incluida la verificación de las condiciones de visibilidad, la impuso al operador de la vía la disposición § 26 del decreto n.º 177/1995 Sb. El intervalo de tiempo para la realización de la inspección de los pasos a nivel fue establecido en el anexo n.º 1 de dicho decreto y ascendía a
+La obligación de realizar inspecciones y mediciones periódicas de la VP, incluida la comprobación de las condiciones de visibilidad, la impuso al gestor de la vía la disposición del § 26 del decreto n.º 177/1995 Sb. El intervalo de tiempo para la realización de la inspección de los pasajes a nivel se estableció en el anexo n.º 1 de dicho decreto y ascendía a
 
 ## Página 32
+
 
 12 meses. El reglamento interno del gestor de la vía SŽDC (ČD) S 4/3 determinaba, en su artículo 40, el contenido de las inspecciones de pasos a nivel y los procedimientos a seguir ante la detección de defectos. El reglamento interno del gestor de la vía SŽDC S 2/3, en los artículos 75 a 81, establecía el listado y el alcance de las comprobaciones de los PPN y el artículo 39 del mismo reglamento establecía la obligación del empleado de realizar recorridos a pie en los intervalos prescritos y de registrar sus resultados en el libro de servicio.
 La Inspección Ferroviaria recibió, a petición, del gestor de la vía SŽDC la documentación sobre las comprobaciones e inspecciones realizadas.
@@ -1199,8 +1186,8 @@ Según el catastro de vías (del año 2014) remitido por el MO Liberec – Vrati
 La última inspección conjunta del PPN se realizó el 20. 6. 2014 por representantes de SŽDC, PČR, MO Liberec – Vratislavice nad Nisou y del departamento de transporte del MML. En el documento «Acta de la inspección conjunta del paso a nivel ferroviario y de la vía contigua» de fecha 20. 6. 2014 se indica que las condiciones de visibilidad en el PPN P5508 se evalúan conforme a la ČSN 73 6380, la magnitud del momento de tráfico es 100 y el número/clase de la vía: D2 (nota DI: conforme a la ficha de inscripción del PPN y sin señalización de restricción de tráfico). En la conclusión del documento se recomienda instalar en la vía de la calle Prosečská la señal nº A31c «Placa indicadora (80 m)» antes del 30. 9. 2014, siendo responsables de la ejecución de esta tarea el MML y el MO Liberec – Vratislavice. Asimismo, en el documento se indica que «debido a la valla tras el paso a nivel a la derecha no se respeta la longitud de visibilidad según la norma – anexo Z1» (nota DI: ČSN 73 6380).
 Dado que, según la Instrucción nº 4/2010, la inspección de las vías locales de primera, segunda y tercera clase se realiza a una distancia de 240 m y, en el caso de las demás vías locales, a la longitud de visibilidad prescrita Dz para la cruz de aviso o las luces de la señal de cierre de barrera, al seguir el procedimiento correcto debió constatarse que la vía que atraviesa el PPN P5508 es el único camino de acceso a las viviendas unifamiliares adyacentes, véase la propuesta de señal A31c «Placa indicadora (80 m)» en la calle Prosečská (sin salida). No obstante, en el documento firmado por todos, Acta de la inspección conjunta del paso a nivel ferroviario P5508 y de la vía terrestre contigua de fecha 20. 6. 2014, consta la clase de categoría D2 (es decir, con exclusión del tráfico de vehículos a motor), lo que contradice el valor del momento de tráfico 100, contradice la categoría PK según el gestor de la vía y, sobre todo, contradice el interés general de los residentes que viven en las inmediaciones del paso a nivel, el cual debe tenerse en cuenta conforme al artículo 7.8.1 de la ČSN 73 6380. Asimismo, la comprobación no detectó que la longitud de visibilidad Dz al señalizador es de 17 m, cuando conforme al artículo 7.3.1 de la ČSN 73 6380, para el PZS (con luz positiva) en esta vía se establece un valor mínimo de
 
-
 ## Página 33
+
 
 Dz = 35 m.
 En la investigación de la ocurrencia del SU de fecha 20. 12. 2010, en la que se produjo la colisión de un tren con un OA en el PPN P5508, según el expediente del SU del transportista ČD, en la ficha de inscripción del PPN P5508 del gestor de la vía SŽDC constaba que se trataba de una vía local D2 – no accesible a vehículos a motor, en ausencia de señalización que restringiera el tráfico de vehículos a motor (véase más adelante el punto 3.7 y 4.2.1 de la presente ZZ).
@@ -1214,8 +1201,8 @@ Hallazgos:
 • incumplimiento del artículo 40 del reglamento SŽDC (ČD) S4/3 – durante las comprobaciones de primavera y otoño, centrarse, entre otros, en el estado de la señalización correspondiente. Ante el PPN P5508 no se detectó la señalización ausente que prohíba la circulación de vehículos a motor conforme a la vía terrestre de clase funcional D2 según la ficha de inscripción de SŽDC;
 • incumplimiento del cumplimiento del artículo 7.8.5.2 de la ČSN 73 6380, es decir, sobre la base de los datos sobre la ocurrencia de accidentes de tráfico en el paso a nivel, el gestor de la vía no evaluó ni valoró, tras el SU de 2010, la insuficiencia de la señalización existente antes del paso a nivel. Concretamente, no se detectó la contradicción en la determinación de la clase funcional de la vía terrestre y, en consecuencia, la ausencia de señalización de tráfico que prohíba la entrada de vehículos a motor (en la vía terrestre de clase funcional D2, según la ficha de inscripción del PPN), o bien la infracción del artículo 5.4.1 de la ČSN 73 6380 (la modificación constructiva de la superficie del paso a nivel en la vía terrestre de clase funcional C no se realizó de manera que garantizara la seguridad del tráfico por carretera);
 
-
 ## Página 34
+
 
 • en contradicción con la Determinación de la regulación local en las vías terrestres del departamento de transporte del MML de fecha 12. 8. 2014 y en contradicción con la recomendación dada en el «Acta de la inspección conjunta del paso a nivel ferroviario y de la vía terrestre contigua» en el PPN P5508 de fecha 20. 6. 2014, con plazo hasta el 30. 9. 2014, en la vía local de la calle Prosečská (sin salida) antes del PPN P5508, en el momento de la ocurrencia del SU, no se garantizó la instalación de la señal A30 «Paso a nivel sin barreras» + señal A31c «Placa indicadora (80 m)» antes del paso a nivel;
 • incumplimiento del artículo 39 del reglamento SŽDC S2/3 – en el libro de servicio no constan registrados los resultados del recorrido a pie realizado;
@@ -1233,8 +1220,8 @@ En la investigación se detectó la infracción de normas legales con relación 
 • § 159 apartado 2 de la ley nº 183/2006 Sb. (ley de construcción):
 «El proyectista responde de la corrección, integridad, completitud y seguridad de la obra ejecutada conforme a la documentación de proyecto por él elaborada y de la viabilidad de la obra conforme a dicha documentación, así como del nivel técnico y económico del proyecto de instalación tecnológica, incluidos los efectos sobre el medio ambiente. Debe velar por el cumplimiento de las normas legales y de los requisitos generales de construcción aplicables a la concreta actuación constructiva y actuar en colaboración con los órganos competentes afectados. Los cálculos estáticos u otros cálculos deben elaborarse de manera que sean verificables. Si el proyectista no está capacitado para elaborar por sí mismo alguna parte de la documentación de proyecto, debe invitar para su elaboración a una persona con habilitación para la rama o especialización correspondiente, la cual responde de la propuesta por ella elaborada.
 
-
 ## Página 35
+
 
 La responsabilidad del proyectista por la documentación de proyecto de la obra en su conjunto no queda afectada por ello.»;
 • § 9 apartado 3 de la ley nº 13/1997 Sb.:
@@ -1265,66 +1252,69 @@ d) a implantar un sistema de garantía de la seguridad de la explotación de la 
 
 ## Página 36
 
-debe estar garantizado, según la documentación de proyecto, la señalización y la protección del paso a nivel, las condiciones de visibilidad, el drenaje y la practicabilidad de la calzada del paso a nivel. …
-### Los requisitos para estas modificaciones los establece la norma técnica indicada en el anexo n.º 5
+debe estar garantizada, según la documentación de proyecto, la señalización y la protección del paso a nivel, las condiciones de visibilidad, el drenaje y la practicabilidad de la calzada del paso a nivel. …
+### Los requisitos para estas modificaciones los contiene la norma técnica indicada en el anexo n.º 5
 bajo el epígrafe 165 (nota DI: ČSN 73 6380).";
 § 17 apartado 3 del decreto n.º 177/1995 Sb.:
 •
-### «La modificación constructiva de la superficie del paso a nivel debe realizarse de modo que corresponda a la carga del tráfico rodante y garantice la seguridad de la explotación del transporte ferroviario.
-### La estructura de la calzada en el paso a nivel en la línea de ámbito nacional y en la línea regional
+### «La modificación constructiva de la superficie del paso a nivel debe realizarse de manera que corresponda a la carga del tráfico rodoviario y garantice la seguridad de la explotación del transporte ferroviario.
+### La construcción de la calzada en el paso a nivel en la línea de ámbito nacional y en la línea regional
 debe ser desmontable.»;
 § 25 apartado 12 del decreto n.º 177/1995 Sb.:
 •
-### «El estado operativo-técnico de los pasos a nivel y los pasos peatonales ferroviarios debe
-garantizar la explotación segura de la vía y la circulación segura en la vía pública; en particular, debe estar garantizado, según la documentación de proyecto, la señalización y la protección del paso a nivel, las condiciones de visibilidad, el drenaje y la practicabilidad de la calzada del paso a nivel.»;
+### «El estado operativo-técnico de los pasos a nivel y pasos peatonales ferroviarios debe
+garantizar la explotación segura de la línea y la circulación segura en la vía pública;
+en particular, debe estar garantizada, según la documentación de proyecto, la
+señalización y la protección del paso a nivel, las condiciones de visibilidad, el drenaje
+y la practicabilidad de la calzada del paso a nivel.»;
 § 26 apartado 2 letras a), g), n) del decreto n.º 177/1995 Sb.:
 •
 «Las inspecciones y mediciones periódicas según el apartado 1 se realizan
-a) mediante el recorrido de la línea, durante el cual se realiza la inspección periódica de la línea para determinar el estado del superestructura e infraestructura ferroviaria, de los pasos a nivel y de las obras de la infraestructura ferroviaria, y para detectar la posible aparición de fuentes de amenaza para la vía,
-g) mediante la inspección integral de la línea, durante la cual se evalúa el estado de la superestructura ferroviaria, del cuerpo de la infraestructura ferroviaria, de las obras de la infraestructura ferroviaria, de los andenes, de las rampas y de los pasos a nivel tras el periodo invernal, y se detectan los defectos y su alcance,
-n) mediante la inspección de los pasos a nivel y los pasos peatonales, durante la cual, según la documentación de proyecto, se verifica el estado de la señalización y la protección y del paso peatonal, las condiciones de visibilidad, el drenaje y la practicabilidad de la calzada.»;
+a) mediante el recorrido de la línea, durante el cual se realiza la inspección periódica de la línea para determinar el estado del balasto y del canto, de los pasos a nivel y de las obras del firme, así como para detectar la posible aparición de fuentes de peligro para la línea,
+g) mediante la inspección integral de la línea, durante la cual se evalúa el estado del balasto, del cuerpo del firme, de las obras del firme, de los andenes, de las rampas y de los pasos a nivel tras el periodo invernal, y se detectan los defectos y su alcance,
+n) mediante la inspección de los pasos a nivel y pasos peatonales, durante la cual se comprueba, según la documentación de proyecto, el estado de la señalización y la protección y del paso peatonal, las condiciones de visibilidad, el drenaje y la practicabilidad de la calzada.»;
 punto 2 letra c) del Anexo n.º 1 al decreto n.º 376/2006 Sb.:
 •
-### «El sistema de garantía de seguridad de la explotación de la línea de ámbito nacional y regional y del transporte ferroviario en dichas líneas debe establecer: ...
-c) procedimientos que garanticen el cumplimiento de las normas técnicas y de explotación existentes, nuevas y modificadas u otras condiciones vinculantes establecidas en: …
+### «El sistema de garantía de la seguridad de la explotación de la línea de ámbito nacional y regional y del transporte ferroviario en dichas líneas debe establecer: ...
+c) procedimientos que garanticen el cumplimiento de las normas técnicas y operativas existentes, nuevas y modificadas, u otras condiciones vinculantes establecidas en: …
 2. en la legislación nacional, ...»;
 § 6 apartado 2 del decreto n.º 104/1997 Sb.:
 •
-«La inspección ordinaria tiene como finalidad principalmente comprobar el correcto funcionamiento de la señalización viaria, del dispositivo de seguridad y los defectos en la practicabilidad (transitabilidad) ...»;
-En el caso de esta MU concreta, es necesario relacionar el citado § 6 apartado 2 del decreto n.º 104/1997 Sb. con el definitorio:
+«La inspección ordinaria tiene como objeto, principalmente, comprobar el correcto funcionamiento de la señalización vial, de los dispositivos de seguridad y los defectos en la practicabilidad (transitabilidad) ...»;
+En el caso de esta MU concreta, es necesario relacionar el citado § 6 apartado 2 del decreto
+n.º 104/1997 Sb. con el definitorio:
 ◦§ 6 apartado 1 del decreto n.º 104/1997 Sb.:
-«La inspección es garantizada por el propietario o el gestor de la vía pública afectada, y se lleva registro de su resultado. Las inspecciones se dividen en ordinarias, principales, extraordinarias y en inspecciones de seguridad de las vías públicas incluidas en la red viaria transeuropea.»;
-
+«La inspección es responsabilidad del propietario o gestor de la vía afectada, y se lleva registro de su resultado. Las inspecciones se dividen en ordinarias, principales, extraordinarias y en inspecciones de seguridad de las vías incluidas en la red viaria transeuropea.»;
 
 ## Página 37
 
-§ 7 apartado 1 del decreto n.º 104/1997 Sb.:
+§ 7 apartado 1 del decreto nº 104/1997 Sb.:
 •
-«Inspección principal y extraordinaria de la vía pública
-Salvo que se disponga lo contrario, la inspección principal es garantizada por el propietario o el gestor de la vía pública afectada, en su caso en colaboración con la persona física o jurídica encargada de la recogida de datos para los sistemas de gestión de la calzada. El objetivo de la inspección es determinar el estado constructivo-técnico de la vía pública, incluidas sus partes y accesorios.»;
-3.3.2 Otras disposiciones, p. ej. reglamento de explotación, reglamento de trabajo, disposiciones de mantenimiento, normas técnicas aplicables y otras disposiciones internas
-En la investigación se constató la infracción de disposiciones internas en relación causal con la aparición de la MU:
-art. 80 de la disposición interna del explotador de la vía, SŽDC S 2/3:
+«Inspección principal y extraordinaria de la vía
+Salvo que se disponga otra cosa, la inspección principal es responsabilidad del propietario o gestor de la vía afectada, en su caso en colaboración con la persona física o jurídica encargada de la recogida de datos para los sistemas de gestión de la calzada. El objetivo de la inspección es determinar el estado constructivo-técnico de la vía, incluidos sus componentes y accesorios.»;
+3.3.2 Otras normas, p. ej. reglamento de explotación, reglamento de trabajo, normas de mantenimiento, normas técnicas aplicables y otras normas internas
+En la investigación se constató la infracción de normas internas en relación causal con la aparición del MU:
+art. 80 de la norma interna del gestor de la vía, SŽDC S 2/3:
 •
-«En la inspección conjunta de los pasos a nivel y pasos peatonales ferroviarios y de las vías públicas adyacentes, se evaluará de forma integral el estado del paso a nivel y de la vía pública adyacente desde el punto de vista del cruce seguro de la vía con un vehículo rodante (datos generales sobre el paso a nivel, visibilidad de los semáforos o de la cruz de advertencia, señalización vertical y horizontal en la vía pública, condiciones de visibilidad en el paso a nivel). Los hechos comprobados serán anotados por los participantes en la inspección en el «Registro de la inspección conjunta», que forma parte de la Instrucción. ...»;
-art. 40 de la disposición interna del explotador de la vía, SŽDC S 4/3:
+«En la inspección conjunta de los pasos a nivel y pasos peatonales y de las vías adyacentes se evaluará de forma integral el estado del paso a nivel y de la vía terrestre adyacente desde el punto de vista del cruce seguro de la vía con un vehículo por carretera (datos generales sobre el paso a nivel, visibilidad de los señales de advertencia o de la cruz de advertencia, señalización vertical y horizontal en la vía terrestre, condiciones de visibilidad en el paso a nivel). Los hechos constatados serán anotados por los participantes en la inspección en el «Registro de la inspección conjunta», que forma parte de la Instrucción. ...»;
+art. 40 de la norma interna del gestor de la vía, SŽDC S 4/3:
 •
-«Las revisiones de primavera y otoño se miden especialmente en:
-a) la detección de desviaciones respecto a las hojas modelo,
-b) el estado operativo-mantenimiento general de la estructura del paso a nivel ...
-bb) la nivelación del paso a nivel, incluida la nivelación de la vía pública en continuidad con los pasos a nivel,
-bc) el estado de las condiciones de visibilidad, de las señales de tráfico correspondientes, de las barandillas, …
-La revisión determinará el alcance y la necesidad de los trabajos de reparación y se redactará un acta con los plazos para la eliminación de los defectos.»;
-En la investigación se constató la infracción de la norma técnica/las normas técnicas en relación causal con la aparición de la MU:
+«Las inspecciones de primavera y otoño se miden especialmente para:
+a) la detección de desviaciones respecto de las hojas de referencia,
+b) el estado general de explotación y mantenimiento de la estructura del paso a nivel ...
+bb) la nivelación del paso a nivel, incluida la nivelación de la vía terrestre en continuidad con los pasos a nivel,
+bc) el estado de las condiciones de visibilidad, las señales de tráfico correspondientes, las barandillas, …
+La inspección determinará el alcance y la necesidad de los trabajos de reparación y se levantará un acta con los plazos para la eliminación de los defectos.»;
+En la investigación se constató la infracción de la norma/normas técnica/técnicas en relación causal con la aparición del MU:
 art. 5.1.2 ČSN 73 6380:
 •
-«El ancho libre de la vía pública debe ser el mismo a ambos lados de la vía hasta una distancia de al menos 30 m de los ejes de los raíles exteriores (en la reconstrucción del paso a nivel es necesario acordar con el gestor de la vía pública la determinación de su categoría prevista).»;
+«El ancho libre de la vía terrestre debe ser el mismo a ambos lados de la vía hasta una distancia de al menos 30 m de los ejes de las vías exteriores (en la reconstrucción de un paso a nivel es necesario acordar con el gestor de la vía terrestre la determinación de su categoría prevista).»;
 art. 5.2.8 ČSN 73 6380:
 •
-«Los quiebros de la pendiente longitudinal de la vía pública fuera de la estructura del paso a nivel (en los pasos a nivel, p. ej., con superficie de hormigón asfáltico o asfalto vertido fuera del carril exterior) se redondean con arcos parabólicos según la tabla 1 A». 
-
+«Los quiebros de la pendiente longitudinal de la vía terrestre fuera de la estructura del paso a nivel (en pasos a nivel con, p. ej., superficie de hormigón asfáltico o asfalto vertido fuera del carril exterior) se redondearán con arcos parabólicos según la tabla 1 A».
 
 ## Página 38
+
 
 Fig. n.º 5: Tabla 1A – Redondeo de los quiebros de la nivelación de las vías públicas 
 Fuente: ČSN 73 6380
@@ -1336,8 +1326,8 @@ art. 5.3.1 ČSN 73 6380:
 El valor del quiebro de pendiente en cima con una altura libre de 0,1 m a una distancia entre ejes de 4 m corresponde a la altura del badén de reducción de velocidad según la disposición especial (TP 85)
 ### y al redondeo para la circulación de autobuses según ČSN 73 6057. Si los parámetros existentes o alcanzados no corresponden ni a estos valores, el paso a nivel debe estar señalizado con una señal de tráfico adecuada.»;
 
-
 ## Página 39
+
 
 Fig. n.º 6: Figura 3A ČSN 73 6380 - Quiebros de pendiente en la estructura del paso a nivel 
  Fuente: ČSN 73 6380, modificación DI
@@ -1359,8 +1349,8 @@ El PZZ de categoría PZS 3SBLI, tipo PZZ-RE/AC, dispone de un Certificado de ido
 El PZZ en km 5,446 fue conectado de forma nueva al JOP del puesto de despacho regional en Liberec y al JOP del puesto de control de emergencia en Tanvald. El SZZ dispone de un Certificado de idoneidad de dispositivo técnico designado, n.º de expediente: PZ 1206/15-E.44, expedido por la Autoridad Ferroviaria el 13 de julio de 2015. El UTZ es apto para la explotación en virtud del Acta de inspección y ensayo técnico n.º de expediente: 530/2015/01-SY de fecha 5 de julio de 2015, con la conclusión:
 «El dispositivo es apto para su puesta en servicio según el § 47 de la ley n.º 266/94 Sb., de vías férreas, en su redacción vigente.»
 
-
 ## Página 40
+
 
 Del análisis del archivo de datos descargado sobre la actividad del PZS ŽP P5508 en cuestión, se constató:
 07:46:07 h
@@ -1392,6 +1382,7 @@ El paso a nivel ferroviario P5508 estaba señalizado con cruces de advertencia y
 Durante la medición de las condiciones de visibilidad en el ŽP, se realizó asimismo la medición geodésica del ŽP P5508 y de la calzada que atraviesa dicho ŽP. En el paso a nivel protegido por PZS sin barreras, se midió primero la longitud Dp y a continuación se evaluaron, entre otros, las longitudes de visibilidad para el vehículo rodante más lento Lp en caso de desconexión o avería del dispositivo de protección del paso a nivel y las longitudes de visibilidad para la detención (del vehículo rodante) Dz.
 
 ## Página 41
+
 
 Se constató:
 Dp = 6,5 m. La longitud total máxima admitida del tren no estaba limitada por la señalización DZ ni por la ficha del paso a nivel, y por tanto era de 22 m.
@@ -1436,18 +1427,16 @@ todos los vehículos por carretera a los que la señalización DZ permitía el a
 ###  de la PČR
 El 7 de marzo de 2019, con base en el acuerdo previo entre la PČR, la DI, el perito judicial y los sujetos implicados, se realizó un Ensayo de investigación con el fin de comprobar la causa
 
-
 ## Página 42
 
-del citado accidente de circulación. Se garantizaron condiciones similares. El conductor de un NA del mismo tipo, con la misma carga y el mismo número de personas en la tripulación, se fue aproximando progresivamente a la señal de paso a nivel según las instrucciones, de modo que detuviera el frontal del vehículo en una marca predeterminada y señalizada (a una distancia primero de 1 metro, y después de 0,5 metros).
-En cada una de las marcas se realizó la medición y documentación de la distancia de la parte inferior delantera y trasera del NA al firme. Al acercarse el vehículo a la marca de medición n.º 20, se bloqueó el eje trasero del vehículo, de modo que la parte trasera más baja del NA (la estructura de la plataforma hidráulica elevadora) quedó atascada al comienzo de la señal de paso a nivel y se produjo el derrape del eje trasero. La posición del NA quedó documentada, incluidas las marcas de frenado y de derrape del NA. El atasco del NA se produjo cuando el frontal del NA estaba en la marca n.º 20, es decir, a 10 m del poste del semáforo «B» de la señal de paso a nivel (situado antes de la señal de paso a nivel en el sentido de circulación NA). Las marcas – surcos estaban a una distancia de 152 cm a 212 cm del poste del semáforo «B» en el sentido de circulación NA. Las marcas de derrape de las ruedas del eje trasero del NA estaban a una distancia de 360 cm a 420 cm
-del poste del semáforo «B».
-Fig. n.º 7: Vista de la PK que atraviesa la señal de paso a nivel P5508 y del NA atascado durante el ensayo de investigación de la PČR. Fuente: PČR
+del surgimiento del MU indicado. Se establecieron condiciones similares. El conductor del mismo tipo de NA con la misma carga, el mismo número de personas de la tripulación, se acercó gradualmente según las instrucciones al PFC de modo que detuviera el vehículo con el frontal en la marca predeterminada y señalizada (a una distancia primero de 1 metro, y posteriormente de 0,5 metros).
+En cada una de las marcas se realizó la medición y documentación de la distancia de la parte inferior delantera y trasera del NA desde la calzada. Al acercarse el vehículo a la marca de medición n.º 20 se produjo el bloqueo del eje trasero del vehículo, cuando la parte trasera más baja del NA (construcción de la plataforma hidráulica elevadora) quedó atascada al comienzo del PFC y se produjo el derrape del eje trasero. La posición del NA fue documentada, incluidas las marcas de arrastre y derrape del NA. El atasco del NA se produjo cuando el frontal del NA estaba en la marca n.º 20, es decir, a 10 m detrás del poste del semáforo "B" del PFC (situado antes del PFC en la dirección de marcha del NA). Las marcas – surcos se encontraban a una distancia de 152 cm a 212 cm del poste del semáforo "B" en la dirección de marcha del NA. Las marcas de derrape de las ruedas del eje trasero del NA se encontraban a una distancia de 360 cm a 420 cm del poste del semáforo "B".
+Fig. n.º 7: Vista de la vía que atraviesa el PFC P5508 y el NA atascado durante el ensayo de investigación de la PČR. Fuente: PČR
 Fig. n.º 8: Vista de la vía que conduce al paso a nivel P5508
 Fuente: Mapy.cz
 
-
 ## Página 43
+
 
 ### Datos sobre la vía por carretera según el gestor de la vía
 La vía por carretera que conduce a la señal de paso a nivel P5508 (a la casa n.º cons. 843 de la calle Prosečská) figura en el inventario de vías locales (del año 2014) como vía local de clase III n.º 853 (nota de la DI: vía local de servicio con tráfico de vehículos a motor). La PK n.º 1047, que tras la señal de paso a nivel P5508 se une a la PK n.º 853, figura en el inventario como vía local de clase IV con tráfico mixto, véase la Fig. n.º 9. El acceso de vehículos a la vía local de clase III en el punto del paso a nivel ferroviario no estaba limitado por la señalización DZ.
@@ -1468,8 +1457,8 @@ La DI dispone de datos sobre la señal de paso a nivel P5508 generados a partir 
  del proyecto
 Según el informe técnico de esta obra, el paso a nivel original tenía 3,85 m de ancho, con revestimiento bituminoso (asfalto) y traviesas de madera, y cruzaba una línea de vía única en transición y con un ángulo de 95°. La reforma del paso a nivel se realizó de forma nueva mediante paneles de plástico-hormigón para traviesas Y encajados en muros de contención, enlazando con el firme bituminoso. El ancho del paso a nivel pasó a ser de 5,28 m y el ángulo de cruce de 95°. El ancho de la vía objeto de la actuación era de 2,7 m.
 
-
 ## Página 44
+
 
 ### Según el Informe técnico, punto 5.4.1 – Estado antes de la ejecución:
 ### se trataba del paso a nivel P5508 situado en una vía local no accesible
@@ -1500,6 +1489,7 @@ se ha acreditado la conformidad con los requisitos de seguridad de la norma de l
 Desde el 21 de mayo de 2015, la SŽDC, TÚDC debería realizar en general la evaluación de seguridad no según la norma de la Comisión CE n.º 352/2009, sino ya según la nueva norma de la Comisión UE n.º 402/2013. La Autoridad Ferroviaria, según la notificación en su página web, con base en el art. 2 apartado 6 de la norma de la Comisión UE n.º 402/2013, aceptó los Informes de evaluación de seguridad elaborados por los sujetos por ella reconocidos para la evaluación según la norma de la Comisión CE n.º 352/2009 también después del 21 de mayo de 2015, siempre que el proponente aporte la prueba de que, en el caso concreto, se trataba de un proyecto que a 21 de mayo de 2015 se encontraba en una fase avanzada de desarrollo según el art. 2
 
 ## Página 45
+
 
 písm. t) de la Directiva 2008/57/CE. Para la obra objeto de estudio ya se emitió el permiso de construcción el 2. 2. 2015, que entró en vigor el 12. 3. 2015. Por tanto, la evaluación de seguridad según el Reglamento de la Comisión (CE) nº 352/2009 no constituye una deficiencia.
 ### Del documento «EVALUACIÓN TÉCNICA DEL PASO A NIVEL P5508» elaborado
@@ -1543,8 +1533,8 @@ claramente como inadecuada.
 Fig. nº 10: Pendiente de la vía local adyacente [m]
 Fuente: Evaluación ČVUT
 
-
 ## Página 46
+
 
 Fig. nº 11: Pendiente de la vía local adyacente en el Pn P5508
 Fuente: DI
@@ -1566,8 +1556,8 @@ Fuente: Evaluación ČVUT
 ### de la vía. La pendiente longitudinal del nivel de la vía terrestre
 detrás del paso a nivel (15 – 16 %) puede calificarse como límite.
 
-
 ## Página 47
+
 
 Según el art. 5.2.8 de la ČSN 73 6380:
 Los quiebros de la pendiente longitudinal de la vía terrestre fuera de la estructura del paso a nivel (en
@@ -1583,8 +1573,8 @@ estudiado en el rango de aproximadamente 10 – 15 m.
 Fig. nº 15: Imagen del apart. 36 de la norma ya derogada ČSN 73 6057
 Fuente: Evaluación ČVUT
 
-
 ## Página 48
+
 
 En el caso de que se evalúe la Sección Transversal del paso a nivel E.1.3, el redondeo convexo
 del nivel antes del paso a nivel no está realizado. El radio de redondeo del arco cóncavo se sitúa,
@@ -1628,8 +1618,8 @@ principio el acceso del transporte en autobús. No obstante, incluso en este cas
 del arco cóncavo determinado sobre la base de la medición geodésica no corresponde al
 valor límite de 20 m.
 
-
 ## Página 49
+
 
 Según el art. 5.3.1 de la ČSN 73 6380:
 «En los pasos a nivel de vías terrestres con tráfico motorizado es conveniente (para facilitar
@@ -1656,8 +1646,8 @@ Fuente: ČSN 73 6380, modificación del DI
 Fig. nº 18: Quiebre cóncavo real de la pendiente entre el panel central y el panel exterior [m]
 Fuente: Evaluación ČVUT
 
-
 ## Página 50
+
 
 Fig. nº 19: Fotografía del ensayo de investigación, cuando el frontal del NA estaba en la marca nº 20
 Fuente: DI
@@ -1703,6 +1693,7 @@ permitir el paso de un vehículo con una altura libre de 0,1 m con una distancia
 
 ## Página 51
 
+
 El valor de la inflexión de pendiente en la cumbre con un claro de 0,1 m a una distancia entre ejes de 4 m corresponde a la altura del umbral de frenado según la norma especial (TP 85) y al redondeo para la circulación de autobuses según la ČSN 73 6057.
 De manera similar a lo que ocurre con el redondeo en el valle, el redondeo en la cumbre antes del paso a nivel no cumple los valores de radio de redondeo exigidos por la norma y debe tratarse como una inflexión de pendiente en la cumbre. Esta suposición se confirma también en la Sección Transversal del paso a nivel E.1.3, en la que el redondeo en la cumbre no se tiene en cuenta. Utilizando una distancia entre ejes de 4 m, el vértice de la inflexión se encuentra a una altura relativa de aproximadamente 18 cm por encima del nivel de las ruedas. Por tanto, el paso a nivel no cumple el valor límite de 0,1 m.
 Fig. n.º 20: Inflexión de pendiente en el valle de la nivelación [m] (azul – según la Figura 3A de la ČSN 73 6380, violeta – según el arco real en el valle)
@@ -1719,8 +1710,8 @@ La norma exige la señalización de los valores límite no cumplidos mediante se
 B17 «Prohibido el paso de vehículos o conjuntos cuya longitud supere el límite indicado»,
 o bien otra señal de tráfico (DZ) adecuada.
 
-
 ## Página 52
+
 
 ### Esquema y dimensiones del vehículo atascado
 Fig. n.º 22: Camión (atascado) objeto del caso y su modelo teórico derivado
@@ -1734,8 +1725,8 @@ Fig. n.º 24: Detalle de la posición del punto crítico según la simulación, 
 con la superficie de la calzada [m], y fotografía del punto crítico del ensayo de investigación
  Fuente: Evaluación de la ČVUT, PČR
 
-
 ## Página 53
+
 
 En la simulación se identificó el contacto de una parte del vehículo con la calzada durante el recorrido por la vía pública.
 El vehículo que abandonaba la zona de peligro de la vía pública colisionó con el extremo de la articulación basculante de la plataforma elevadora con la calzada en la vía pública. Las situaciones conflictivas continuaron posteriormente en un tramo de una longitud de aproximadamente 2,38 m. El resultado fue el contacto físico del extremo del vehículo con la superficie de la calzada, que en valores límite puede conducir incluso al posible atascamiento del automóvil en la vía pública. La posición del tramo teórico de contacto del vehículo con la calzada se muestra en la Fig. n.º 24.
@@ -1767,36 +1758,36 @@ Informe Técnico con el fin de evaluar la vía pública P5508 en el pk 5,446 seg
 proyecto de ejecución «Eliminación de la caída de velocidad en tramos seleccionados de la línea Liberec – Tanvald» y de la medición geodésica de la vía pública P5508, la SŽG, SŽDC elaboró la evaluación de la vía pública
 P5508 desde el punto de vista de la ČSN 73 6380.
 
-
 ## Página 54
 
-En la parte de la evaluación de la vía pública P5508 desde el punto de vista de la ČSN 73 6380 se indica, entre otros aspectos:
-a) Primero se evaluó según la ČSN 73 6380 la «Evaluación de la inflexión de pendiente en el valle del paso a nivel» con la condición de una pendiente máx. de 7° en una distancia de 9 m. La vía pública no cumple esta condición.
-b) A continuación se evaluó según la ČSN 73 6380 la «Evaluación de la pendiente en la cumbre del paso a nivel»
-con la condición de un resalte máx. de 0,1 m con una base de 4 m. La vía pública no cumple esta condición.
-Es necesario modificar notablemente el perfil de nivel de la vía local para que … tras la eventual obra de modificación de la estructura del paso a nivel y del muro de contención, la cumpla. En el proyecto de ejecución disponible no se abordó la evaluación del paso a nivel según la ČSN 73 6380. La obra de modificación del resalte de
-los 91 mm originales a los 83 mm actuales eliminó la discrepancia con la ČSN 73 6360-1
-(Nota de la DI: norma para el diseño de la Posición Geométrica de la Vía).
-### Las conclusiones de la SŽG SŽDC están en consonancia con las conclusiones de la Evaluación de la ČVUT.
-TÉRMINOS según la Ley n.º 586/1992 Sb., el Decreto n.º 500/2002 Sb. y la Ley n.º 13/1997 Sb.
-### El § 47 apartado 2 letra a) del Decreto n.º 500/2002 Sb. indica: Mediante la reparación
-se eliminan los efectos
-del desgaste físico parcial o de los daños con el fin de restituir el estado anterior o el estado de operatividad. Por restitución del estado de operatividad se entiende la realización de la reparación incluso con el uso de materiales, piezas, componentes o tecnologías distintos de los originales, siempre que ello no dé lugar a una mejora técnica. Por mantenimiento se entiende la actividad sistemática
-mediante la cual se ralentiza el desgaste físico, se previenen las averías y se eliminan las averías menores.
-### El § 33 apartado 1 de la Ley n.º 586/1992 Sb. indica: A efectos de la presente Ley, por mejora técnica se entiende
-siempre el gasto en ampliaciones, anexos y obras de modificación terminados, reconstrucciones y modernizaciones del bien, siempre que hayan superado, en un bien individual, la suma total en el periodo impositivo de 1995 de 10 000 CZK y, a partir del periodo impositivo de 1996, de 20 000 CZK y, a partir del periodo impositivo de 1998, de 40 000 CZK. Constituyen también mejora técnica los gastos indicados que no superen las cantidades establecidas y que el contribuyente, por decisión propia, no aplique como gasto (coste) según el § 24 apartado 2 letra zb).
-El § 33 apartado 2 de la Ley n.º 586/1992 Sb. indica: A efectos de la presente Ley, por reconstrucción se entienden las intervenciones en el bien que tienen como consecuencia un cambio de su finalidad o de sus parámetros técnicos.
-El § 33 apartado 3 de la Ley n.º 586/1992 Sb. indica: A efectos de la presente Ley, por modernización se entiende la ampliación de la equipamiento o de la utilidad del bien.
-El § 26 apartado 4 de la Ley n.º 13/1997 Sb.
-indica: Por estado técnico de tráfico de la autopista, la carretera y la vía local se entienden sus características técnicas (disposición transversal, pendiente transversal y longitudinal, anchura y tipo de calzada, arcos de alineación y de nivelación) y la integración de la vía terrestre en el terreno (visibilidad, altitud sobre el nivel del mar). Y según el comentario a la Ley
-sobre las vías terrestres¹, por ello se entienden los parámetros inmutables que fueron diseñados
-en el proyecto de ejecución durante la preparación de la obra de la vía y se realizaron durante la construcción. Solo pueden modificarse en el marco de la reconstrucción de la vía terrestre o en el marco de su desvío.
-¹
-KOČÍ, Roman. Ley sobre las vías terrestres: con comentario, decreto de desarrollo y modelos de decisiones administrativas y otros
-actos jurídicos: 6.ª ed. según el estado jurídico a 1 de marzo de 2018. Praga: Leges, 2018.
-
+En la parte de
+ evaluación de la ZP P5508 desde
+ el punto de vista de la ČSN 73 6380
+ se
+ indica, entre otros:
+a) En primer lugar, según la ČSN 73 6380, se evaluó la «Evaluación de la pendiente en valle del paso a nivel» con la condición de una pendiente máx. de 7° en una distancia de 9 m. La ZP no cumple esta condición.
+b) A continuación, según la ČSN 73 6380, se evaluó la «Evaluación de la pendiente en cresta del paso a nivel» con la condición de un desnivel máx. de 0,1 m sobre una base de 4 m. La ZP no cumple esta condición.
+Es necesario modificar significativamente el perfil altimétrico de la vía local para que … tras la eventual modificación constructiva de la estructura del paso a nivel y del muro de cierre, cumpla. En la documentación de proyecto disponible, la evaluación del paso a nivel según la ČSN 73
+ 6380 no estaba resuelta. La modificación constructiva del desnivel de
+ los 91 mm originales a los 83 mm actuales eliminó la discrepancia con la ČSN
+ 73
+ 63
+ 6 0-1 (Nota DI: norma para el diseño de la Posición geométrica de la vía).
+### Las conclusiones de SŽG SŽDC están en consonancia con las conclusiones de la Evaluación de la ČVUT.
+TÉRMINOS según la ley n.º 586/1992 Sb., el decreto n.º 500/2002 Sb. y la ley n.º 13/1997 Sb.
+### El § 47 apartado 2 letra a) del decreto n.º 500/2002 Sb. establece: Mediante la reparación se eliminan los efectos del desgaste físico parcial o de los daños con el fin de restablecer el estado anterior o un estado operativo. Por restablecimiento de un estado operativo se entiende la realización de la reparación incluso con el uso de materiales, piezas, componentes o tecnologías distintos de los originales, siempre que ello no conlleve una mejora técnica. Por mantenimiento se entiende la actividad sistemática mediante la cual se ralentiza el desgaste físico, se previenen las averías y se eliminan las averías menores.
+### El § 33 apartado 1 de la ley n.º 586/1992 Sb. establece: A efectos de la presente ley, por mejora técnica se entienden siempre los gastos de las ampliaciones, edificaciones anexas y modificaciones constructivas terminadas, las reconstrucciones y las modernizaciones de bienes, cuando hayan superado, en un bien individual, por importe total en el periodo impositivo de 1995, la cantidad de 10 000 CZK, y a partir del periodo impositivo de 1996 la cantidad de 20 000 CZK, y a partir del periodo impositivo de 1998 la cantidad de 40 000 CZK. Constituyen también mejora técnica los gastos indicados que no superen las cantidades establecidas y que el contribuyente, por decisión propia, no aplique como gasto (coste) de acuerdo con el § 24 apartado 2 letra zb).
+El § 33 apartado 2 de la ley n.º 586/1992 Sb. establece: A efectos de la presente ley, por reconstrucción se entienden las intervenciones en los bienes que tengan como consecuencia un cambio de su finalidad o de sus parámetros técnicos.
+El § 33 apartado 3 de la ley n.º 586/1992 Sb. establece: A efectos de la presente ley, por modernización se entiende la ampliación de la equipamiento o de la utilidad de los bienes.
+El § 26 apartado 4 de la ley n.º 13/1997 Sb.
+ establece:
+ Por estado técnico de tráfico de la autopista, la carretera y la vía local se entienden sus características técnicas (disposición transversal, pendiente transversal y longitudinal, anchura y tipo de firme, curvas en planta y en alzado) y la integración de la vía terrestre en el terreno (visibilidad, altitud sobre el nivel del mar). Y según el comentario a la ley
+sobre las vías terrestres1, por ello se entienden los parámetros inmutables que fueron diseñados en la documentación de proyecto durante la preparación de la obra de la vía y ejecutados durante la construcción. Solo pueden modificarse en el marco de la reconstrucción de la vía terrestre o en el marco de su desvío.
+1
+KOČÍ, Roman. Zákon o pozemních komunikacích: s komentářem, prováděcí vyhláškou a vzory správních rozhodnutí a jiných právních aktů: 6. vyd. podle právního stavu k 1. 3. 2018. Praha: Leges, 2018.
 
 ## Página 55
+
 
 ### TÉRMINOS según el redactor de la norma ČSN 73 6380
 1) reconstrucción del paso a nivel:
@@ -1828,6 +1819,7 @@ o mejor dicho, una reconstrucción de la vía pública. Las obras de modificaci�
 
 ## Página 56
 
+
 permitieron aumentar la velocidad de algunos vehículos por carretera en el paso a nivel, aumentar la carga del paso a nivel hasta 15 vehículos de carga en 24 horas, la modificación del paso a nivel debía permitir un fácil mantenimiento de la vía con una estructura desmontable del paso a nivel, también se produjo un aumento de la velocidad de la vía para algunos tipos de vehículos ferroviarios en el paso a nivel (y en otros tramos de la vía), lo que era el objetivo principal de la acción Eliminación de la caída de velocidad, y así se modificaron cualitativa y cuantitativamente las propiedades útiles del paso a nivel. Se modificaron los parámetros técnicos, lo que cumple la definición de reconstrucción, sin duda se amplió la equipamiento y la utilizabilidad del bien, lo que cumple la definición de modernización. También se amplió el paso a nivel (anchura del firme), lo que puede considerarse una ampliación. La reconstrucción, la modernización y la ampliación aportan de forma uniforme una revalorización técnica del paso a nivel, lo que excluye que se tratara únicamente de una reparación o mantenimiento.
 
 ## SEÑALIZACIÓN DE TRÁFICO ANTES DEL PASE A NIVEL
@@ -1843,19 +1835,37 @@ En la Fig. n.º 25 se muestra un mapa con la trazada de la ruta prevista del cam
 
 ## Página 57
 
-Fig. n.º 26: Vista de la carretera que conduce al paso a nivel P5508 y la señalización de tráfico instalada después del accidente
-Fuente: DI
-
-### La señalización de tráfico en la vía pública antes del paso a nivel P5508 no cumplía la normativa aplicable para la circulación en las vías públicas, porque no advirtió al conductor del NA de las restricciones de circulación causadas por el estado técnico del paso a nivel.
-
+Fig. n.º 26: Vista de la vía que conduce al PFC P5508 y la señalización instalada tras el MU 
+ Fuente: DI
+### La señalización en la vía pública antes del PFC P5508 no se ajustaba
+a las normativas aplicables para la circulación en vías públicas,
+ porque
+### no advirtió a los conductores de NA de la limitación de circulación causada por el estado técnico del PFC.
 Hallazgos:
-• algunos de los defectos aquí indicados se relacionan con los hallazgos relativos a la actividad de control, que por razones de claridad se resumen en el capítulo 3.2.3 de esta ZZ, aunque se refieren a la señalización de tráfico y a la clase funcional (grupo) de la PK;
-• incumplimiento de lo dispuesto en el apartado 1 del artículo 17 del decreto n.º 177/1995 Sb., es decir, que el paso a nivel debe garantizar la seguridad de los usuarios de la vía pública, por ejemplo, mediante la instalación de la señalización de tráfico correspondiente, la garantía de la practicabilidad del firme del paso a nivel y de las condiciones de visibilidad (véase más abajo);
-• incumplimiento de lo dispuesto en el apartado 3 del artículo 17 del decreto n.º 177/1995 Sb., es decir, que la modificación constructiva de la superficie del paso a nivel debe realizarse de modo que corresponda a la carga del tráfico por carretera y garantice la seguridad de la explotación del transporte ferroviario (véase más abajo);
-• incumplimiento de lo dispuesto en el apartado 12 del artículo 25 del decreto n.º 177/1995 Sb., es decir, que el estado operativo-técnico de los pasos a nivel y cruces ferroviarios debe garantizar la explotación segura de la vía y la circulación segura en la vía pública; en particular, de acuerdo con la documentación de proyecto, debe garantizarse la practicabilidad del firme del paso a nivel (véase más abajo);
-• incumplimiento del cumplimiento del punto 7.3.4 en relación con el punto 7.4.3 de la ČSN 73 6380, es decir, garantizar una visibilidad suficiente de la vía en caso de avería o desconexión del PZS (Lp = 57 m para una velocidad DV de 10 km·h-1), medido solo Lp = 10,5 m;
+algunos de los defectos aquí indicados se relacionan con los hallazgos relativos a la actividad de inspección,
+•
+que por razones de claridad se resumen en el capítulo 3.2.3 de la presente ZZ, aunque
+se refieren a la señalización y a la clase funcional (grupo) de la VP;
+incumplimiento de lo dispuesto en el apartado 1 del artículo 17 del decreto n.º 177/1995 Sb., es decir, que el paso a nivel debe
+•
+garantizar la seguridad de los usuarios de la vía pública, por ejemplo
+mediante la instalación de la señalización correspondiente, la garantía de la
+transitabilidad de la calzada del paso a nivel y de las condiciones de visibilidad (véase más abajo);
+incumplimiento de lo dispuesto en el apartado 3 del artículo 17 del decreto n.º 177/1995 Sb., es decir, que la modificación constructiva
+•
+de la superficie del paso a nivel debe realizarse de modo que corresponda a la
+carga del tráfico rodado y garantice la seguridad de la explotación del transporte ferroviario (véase más abajo);
+incumplimiento de lo dispuesto en el apartado 12 del artículo 25 del decreto n.º 177/1995 Sb., es decir, que el estado
+•
+operativo-técnico de los pasos a nivel y pasos peatonales ferroviarios debe garantizar
+la explotación segura de la vía y la circulación segura en la vía pública; en particular,
+según la documentación de proyecto, debe garantizarse la transitabilidad de la calzada del paso a nivel (véase más abajo);
+no garantización del cumplimiento del art. 7.3.4 en relación con el art. 7.4.3 de la ČSN 73 6380, es decir, garantizar una
+•
+visibilidad suficiente de la vía en caso de avería o desconexión del PZS (Lp = 57 m para la velocidad DV 10 km·h-1), medida solo Lp = 10,5 m;
 
 ## Página 58
+
 
 • incumplimiento de lo dispuesto en los puntos 7.3.1 y 7.3.2.3 de la ČSN 73 6380, es decir, no garantizar una visibilidad suficiente del semáforo del PZS (con señalización positiva) a una distancia Dz = 35 m, medido solo Dz = 17 m;
 • incumplimiento del punto 5.1.2 de la ČSN 73 6380, ya que durante la reconstrucción del paso a nivel no se trató con el gestor de la vía la determinación de su categoría prevista, como consecuencia de lo cual el explotador de la vía SŽDC no detectó la discrepancia entre la clase funcional de la PK indicada en la ficha del paso a nivel P5508 y la clase funcional real de la PK según el gestor de la vía (MK de 3.ª clase, es decir, clase funcional C);
@@ -1869,6 +1879,7 @@ Hallazgos:
 • incumplimiento de lo dispuesto en el punto 5.2.8 de la ČSN 73 6380, ya que los valores resultantes de los radios de los arcos parabólicos de redondeo de las inflexiones de la nivelación (de cresta y de valle) determinados sobre la base de la medición geodésica estaban en el intervalo de aproximadamente 10 – 15 m. En el caso
 
 ## Página 59
+
 
 del Transversal E.1.3 del paso a nivel proyectado, el redondeo de cresta de la nivelación antes del paso a nivel no está realizado y el radio de redondeo del arco de valle estaba en el intervalo de aproximadamente 10 – 15 m. Los valores anteriores de los radios de las inflexiones de los arcos (de cresta, respectivamente, de valle) eran inferiores a los valores mínimos indicados en la norma de 20, respectivamente, 70 m, e incluso inferiores a los valores límite de 12, respectivamente, 20 m con tráfico de motor;
 • incumplimiento de lo dispuesto en el segundo punto del artículo 5.3.1 de la ČSN 73 6380, ya que el valor resultante de la inflexión de valle de la pendiente en la vía pública ascendía a 9,59°, respectivamente, 9,66°. Este valor supera el valor límite de 7° (con una distancia entre ejes extremos de hasta 9 m y un voladizo del vehículo de hasta 3,5 m, es decir, un autobús de hasta 15 m) en ambos casos (pendiente determinada respecto al canto del raíl / pendiente realmente determinada del punto más bajo de la nivelación en el paso a nivel);
@@ -1887,6 +1898,7 @@ El uso de dispositivos de comunicación, transmisión e información no guardaba
 El HDV 95 54 5 840 003-8 estaba equipado en el momento del accidente con un dispositivo de registro automático de datos – tipo CONJUNTO VELOCIMÉTRICO ELECTRÓNICO DEUTA WERKE ADS4, n.º RPB1S1byja. Se realizó la corrección de la hora.
 
 ## Página 60
+
 
 De los datos registrados tras la corrección se desprende:
 • 07:45:56 h salida del tren Os 2652 de la parada Vratislavice nad Nisou, salida programada a las 7:43 h, la velocidad del tren aumenta progresivamente hasta 50 km·h-1, a continuación se mantiene automáticamente la velocidad de 50 km·h-1;
@@ -1918,6 +1930,7 @@ El lugar del accidente fue asegurado por la persona cualificada designada del ex
 
 ## Página 61
 
+
 El empleador garantizó las condiciones para el descanso antes del turno de conformidad con la Ley n.º 262/2006 Sb., o con el decreto gubernamental n.º 589/2006 Sb., que establece la regulación diferenciada de la jornada laboral y del tiempo de descanso de los empleados en el transporte.
 3.6.2 Estado de salud y situación personal que tuvieron incidencia en el suceso ferroviario, incluido el estrés físico o psicológico
 Los empleados de la empresa de transporte implicados estaban, en el momento de producirse el SU, médicamente aptos para el desempeño de la función que ocupaban. Los empleados de la empresa de transporte se sometían a reconocimientos médicos periódicos de conformidad con lo dispuesto en la disposición n.º 101/1995 Sb. No se detectó ningún estado de salud o situación personal que pudiera haber tenido influencia en la producción del SU, incluido el estrés físico y psicológico.
@@ -1935,31 +1948,64 @@ en todos los pasos a nivel en carreteras y vías urbanas de la República Checa,
 •
 cuya reconstrucción se hubiera realizado durante la vigencia del § 37 apartado 2 de la Ley n.º 13/1997
 
-
 ## Página 62
 
-Sb., comprobar si con su ejecución real la estructura del paso a nivel garantiza una anchura libre del paso a nivel de al menos 5 m;
-poner de inmediato todos los pasos a nivel en carreteras y vías urbanas,
+Sb., comprobar si con su ejecución real las estructuras de paso aseguran
+el ancho libre del paso a nivel de al menos 5 m;
 •
-cuya reconstrucción se hubiera realizado durante la vigencia del § 37 apartado 2 de la Ley n.º 13/1997 Sb. y en los que se detecte una anchura libre insuficiente, en conformidad con dichas disposiciones;
-realizar una comprobación y poner en conformidad la categorización de las
+poner de inmediato todos los pasos a nivel en carreteras y vías locales,
+en los que se hubiera realizado una reconstrucción durante la vigencia del § 37
+apartado 2 de la Ley n.º 13/1997
+Sb. y en los que se detecte un ancho libre insuficiente, en conformidad con estas
+disposiciones;
+realizar la comprobación y poner en conformidad la categorización de las
 •
-### calzadas de los pasos a nivel en los datos de SŽDC con los datos de los municipios y ciudades en cuyo término municipal se encuentran las vías adyacentes a los pasos a nivel bajo la gestión de SŽDC;
-2. A la Autoridad Ferroviaria, la adopción de una medida propia encaminada a la realización de las recomendaciones de seguridad anteriormente mencionadas también en los demás gestores de la infraestructura de la República Checa;
-3. A la Autoridad de Normalización Técnica, Metrología y Ensayos del Estado:
-completar el capítulo 5.1.2 Anchura del paso a nivel de la norma ČSN 73 6380 Pasos a nivel y pasos a nivel peatonales, en su versión vigente, con las reglas que establezcan la creación de un margen de seguridad más allá de la anchura libre del paso a nivel en forma de un arcén reforzado, que garantice una distancia segura respecto al borde lateral de la calzada del paso a nivel y de la vía.
-SŽDC adoptó medidas en el sentido de los 3 puntos de la recomendación de seguridad y, además, en el marco de la comunicación de información sobre las medidas adoptadas en relación con la recomendación de seguridad, indicó, entre otros extremos, que:
-«A fecha 7. 10. 2013, el número total de pasos a nivel no conformes era de 530. Tras la comprobación del estado real, tras la corrección de los datos en el catastro de pasos a nivel y tras la comprobación de la categorización de las vías urbanas, el número total de pasos a nivel no conformes descendió a 171.
-La solución posterior en el sentido de la recomendación de seguridad de la Inspección Ferroviaria consistirá en garantizar la anchura libre requerida del paso a nivel de al menos 5 m, ya sea en el marco de las acciones de inversión, o bien, en los pasos a nivel que se engloben en la acción del programa operativo de transporte, garantizar la ampliación del paso a nivel durante la construcción o reconstrucción del dispositivo de enclavamiento del paso a nivel.»
-La Autoridad Ferroviaria, en su respuesta a la iniciativa de la DI durante la investigación, indicó, entre otros extremos, que el proyectista es responsable de la corrección, integridad, completitud y seguridad de la obra ejecutada de acuerdo con la documentación de proyecto por él elaborada. El proyectista está obligado a respetar la normativa y los requisitos generales de construcción aplicables a la iniciativa concreta y a actuar en colaboración con los órganos administrativos competentes correspondientes. La Autoridad Ferroviaria constató que, en colaboración con la autoridad administrativa de carreteras competente, adoptará las medidas que conduzcan a la eliminación de la situación desfavorable no solo en el paso a nivel ferroviario anteriormente mencionado.
-## 4 ANÁLISIS Y CONCLUSIONS
-### 4.1 Descripción final del suceso ferroviario
-### 4.1.1 Elaboración de las conclusiones sobre el suceso ferroviario basadas en los hechos
-### comprobados en el punto 3
-El 22. 1. 2019 a las 7:47 h, entre la est. Vesec u Liberce y la est. Jablonec nad Nisou en la IP P5508, en el pk 5,446, protegido por un PZS con señalización positiva sin barreras, se produjo la colisión del tren Os 2652 con un camión MAN. El conductor del camión se quedó atascado en la IP, poco después el PZS comenzó
-
+### vías de paso en los datos de SŽDC con los datos de los municipios y ciudades
+en cuyos términos se encuentran las vías adyacentes a los pasos a nivel bajo
+gestión de SŽDC;
+2. Al Drážní úřad (Oficina Ferroviaria) la adopción de una medida propia encaminada
+a la realización de las recomendaciones de seguridad anteriores también en los demás
+operadores ferroviarios de la República Checa;
+3. Al Úřad pro technickou normalizaci, metrologii a státní zkušebnictví (Oficina de
+Normalización Técnica, Metrología y Ensayos del Estado):
+completar el capítulo 5.1.2 Ancho del paso a nivel de la norma ČSN 73 6380
+Pasos a nivel y pasos a nivel peatonales ferroviarios, en su versión vigente, con
+las reglas que establecen la creación de una reserva de seguridad más allá del ancho
+libre del paso a nivel en forma de berma consolidada, que garantice una distancia
+segura respecto al borde lateral de la calzada del paso a nivel y de la vía.
+SŽDC adoptó medidas en el sentido de los 3 puntos de la recomendación de seguridad
+y, además, en el marco de la comunicación de información sobre las medidas adoptadas
+en relación con la recomendación de seguridad, indicó, entre otras cosas, que:
+«A fecha 7. 10. 2013 el número total de pasos a nivel no conformes era de 530.
+Tras la comprobación del estado real, tras la corrección de los datos en el pasaporte
+de pasos a nivel y tras la comprobación de la categorización de las vías de carretera,
+el número total de pasos a nivel no conformes descendió a 171.
+La solución posterior en el sentido de la recomendación de seguridad de la
+Inspección Ferroviaria consistirá en garantizar el ancho libre requerido del paso a
+nivel de al menos 5 m, ya sea en el marco de actuaciones de inversión, ya sea en los
+pasos a nivel que se incluyan en la actuación del programa operativo de transporte,
+garantizando la ampliación del paso a nivel durante la construcción o reconstrucción
+del dispositivo de enclavamiento del paso a nivel.»
+El Drážní úřad, en su respuesta a la iniciativa de la DI durante la investigación,
+indicó, entre otras cosas, que el proyectista es responsable de la corrección,
+integridad, completitud y seguridad de la obra realizada según la documentación de
+proyecto elaborada por él. El proyectista está obligado a cumplir la normativa
+jurídica y los requisitos generales de construcción aplicables a la concreta
+iniciativa y a actuar en colaboración con los órganos administrativos competentes
+afectados. El Drážní úřad constató que, en colaboración con el órgano administrativo
+de carreteras competente, adoptará tales pasos que conduzcan a la eliminación de la
+situación desfavorable no solo en el paso a nivel ferroviario anteriormente indicado.
+## 4 ANÁLISIS Y CONCLUSIONES
+### 4.1 Descripción final del suceso excepcional
+### 4.1.1 Elaboración de las conclusiones sobre el suceso excepcional basadas en los
+hechos determinados en el punto 3
+El 22. 1. 2019 a las 7:47 h, entre la est. Vesec u Liberce y la est. Jablonec nad Nisou
+en la VP P5508, en el km 5,446, protegido por PZS con señalización positiva sin
+barreras, el tren Os 2652 colisionó con un camión MAN. El conductor del NA quedó
+atrapado en la VP, poco después el PZS comenzó
 
 ## Página 63
+
 
 a emitir una alerta luminosa (dos luces rojas intermitentes alternas) y sonora, y se aproximaba a él el tren Os 2652. El conductor del camión intentó hasta el último momento abandonar el paso a nivel ferroviario con el camión. Los dos acompañantes (obreros) hacían señales para detener el tren. Posteriormente se produjo la colisión, el camión fue empujado y arrojado contra una valla de hormigón a la derecha de la vía inmediatamente detrás de la IP, y quedó encajado entre el tren y la valla de hormigón. El tren se detuvo con la locomotora en el pk 5,460, es decir, 14 m después del lugar de la colisión.
 En el SU no se produjeron daños personales, el camión quedó destruido. No se produjo descarrilamiento de ningún vehículo ferroviario, la 1.ª locomotora del tren sufrió daños considerables, la 2.ª locomotora del tren no sufrió daños significativos.
@@ -1974,18 +2020,16 @@ El gestor de la infraestructura SŽDC no garantizó el cumplimiento del § 17 ap
 ### Accidente en la IP en el año 2010
 En la investigación de la producción del SU del 20. 12. 2010, cuando se produjo la colisión del tren con un automóvil en la IP P5508, según el expediente del SU de la empresa de transporte ČD, en la ficha de registro de la IP P5508 del gestor de la infraestructura SŽDC constaba que se trataba de una vía urbana D2 – no accesible a vehículos a motor, sin señalización de tráfico con restricción de la circulación de vehículos (concretos), pero la señalización C 7a «Sendero peatonal» se encontraba a varios metros detrás de dicha IP, véanse las Figs. n.º 27 y 28.
 
-
 ## Página 64
 
- Fuente: expediente del SU de ČD
-Fig. n.º 27: Estado de la vía pública y de la señalización de tráfico en la IP P5508 tras el SU del año 2010
-Fig. n.º 28: Señalización de tráfico detrás de la IP P5508 (2011) y delante de la IP P5508 (2012)
+Fuente: expediente MU ČD
+Fig. n.º 27: Estado de la vía pública y de la señalización en el paso a nivel P5508 tras el MU de 2010
+Fig. n.º 28: Señalización detrás del paso a nivel P5508 (2011) y delante del paso a nivel P5508 (2012)
 Fuente: maps.google.com
-Según el documento «Evaluación de las causas y circunstancias de la producción del SU» (en adelante también Evaluación del SU) del gestor de la infraestructura SŽDC, la causa de la producción del SU fue la entrada y detención no autorizadas del conductor del automóvil en la IP en el momento en que se estaba emitiendo la alerta luminosa y sonora del PZS en la IP; según la evaluación, la responsabilidad por la producción del SU correspondía al conductor del automóvil. En relación con este SU, el gestor de la infraestructura SŽDC no adoptó ninguna medida por considerar que la responsabilidad recaía fuera de él. Mediante la comparación de la ficha de registro del paso a nivel con la VU D2 sin circulación de vehículos a motor y la señalización de tráfico antes de la IP, en la investigación de este SU, tanto el investigador como el representante de la ST de SŽDC deberían haber comprobado que no se encontraba instalada la señalización de tráfico correspondiente. El gestor de la infraestructura SŽDC no garantizó la instalación de la señalización de tráfico correspondiente.
-Tampoco tras la investigación de este SU se procedió, según la comunicación del municipio, los datos de la ficha de registro del paso a nivel (con la lista de señales de tráfico utilizadas en la IP) y según las fotografías de mapas, véanse las figuras n.º 25, 26, 27, 28 y 29, a la instalación de señalización de tráfico con restricción de la circulación de vehículos a motor en la IP. El gestor de la infraestructura, con base en las comprobaciones de la IP, debía haberse percatado de la señalización de tráfico ausente, pero no garantizó la instalación de la señalización de tráfico correspondiente.
-
+Según el documento «Evaluación de las causas y circunstancias de la aparición del MU» (en adelante también Evaluación MU) del gestor de la vía SŽDC, la causa de la aparición del MU fue la entrada y detención no autorizadas del conductor del OA en el paso a nivel en el momento en que se emitía la alerta luminosa y acústica del PZS en el paso a nivel; según la evaluación, la responsabilidad de la aparición del MU correspondía al conductor del OA. Por parte del gestor de la vía SŽDC no se adoptó ninguna medida respecto a este MU, al considerar que la responsabilidad recaía fuera de él. Mediante la comparación de la ficha de registro del paso a nivel con el MK D2 sin circulación de vehículos a motor y la señalización delante del paso a nivel, durante la investigación de este MU, el investigador y el representante del ST de SŽDC deberían haber comprobado que no estaba instalada la señalización correspondiente. El gestor de la vía SŽDC no garantizó la instalación de la señalización correspondiente. Incluso tras la investigación de este MU, según la información del municipio, los datos de la ficha de registro del paso a nivel (con la lista de señales de tráfico utilizadas en el paso a nivel) y según las fotos de mapas, véanse las figuras n.º 25, 26, 27, 28 y 29, no se llegó a instalar la señalización con restricción de circulación de vehículos a motor en el paso a nivel. El gestor de la vía, a partir de las inspecciones del paso a nivel, debió haberse percatado de la señalización ausente, pero no garantizó la instalación de la señalización correspondiente.
 
 ## Página 65
+
 
  Fuente: maps.google.com
 Fig. n.º 29: Estado de la señalización de tráfico en la IP P5508 en agosto de 2011
@@ -2009,6 +2053,7 @@ La documentación de proyecto incluye las modificaciones de construcción de var
 
 ## Página 66
 
+
 El proyectista de TYMDI, según su declaración, estuvo en la inspección de la EE P5508, sabía de las viviendas unifamiliares situadas tras el paso a nivel, pero no examinó el estado de la señalización. Tanto él como su colega proyectista de TYMDI – ingeniero autorizado del ČKAIT – revisaron posteriormente la documentación presentada, incluida la ficha de registro del paso a nivel (con la información sobre la clase funcional D2 de la vía municipal – sin tráfico de vehículos a motor, sin la señalización correspondiente). Sin embargo, de la inspección del lugar o, en su caso, de la inspección de los mapas (funciones streetview y panoramas) se deduce que la vía que atraviesa la EE P5508 es el único acceso por carretera a las viviendas situadas tras dicho paso a nivel.
 El proyectista de PRODIN – ingeniero autorizado del ČKAIT – estuvo en la inspección del lugar durante la ejecución de la obra y, según su declaración, estudió las bases cartográficas, los fotomapas, los planos de situación, verificó el proyecto de señalización provisional con el cierre de la vía, pero no advirtió el hecho de que se tratara del único acceso por carretera.
 Los proyectistas (en particular los ingenieros autorizados del ČKAIT) poseen, a diferencia de otras personas, en virtud del examen superado, una competencia profesional especial y conocimiento de las leyes, decretos, normas y reglamentos individuales aplicables, u otros requisitos necesarios para el desempeño de su trabajo, esto es, el proyecto de construcción y reconstrucción de vías férreas, o de carreteras y del cruce de la vía férrea con la carretera, incluidos los procedimientos y la tecnología establecidos, de modo que la solución propuesta por ellos sea conforme a la legislación vigente para garantizar la explotación segura tanto en la carretera como en el ferrocarril.
@@ -2019,12 +2064,14 @@ De los mapas se evidenciaba que esta vía era la única de acceso a las vivienda
 
 ## Página 67
 
+
 Fig. n.º 30: Mapa del entorno con la indicación del destino del viaje NA y la única vía de acceso al mismo. Fuente: mapy.cz
 De las declaraciones de ambos proyectistas de la oficina TYMDI se desprende que no negociaron con el gestor de la carretera sobre la categoría y la clase funcional de la vía municipal, no solicitaron el registro (pasaporte) de las carreteras y consideraron suficientes las bases existentes (ficha de registro del paso a nivel de SŽDC). Como se trataba de una obra situada únicamente en terreno de la vía férrea y la vía municipal está registrada por SŽDC como carretera local de clase funcional D2, no presupusieron que dicha vía sería utilizada por automovilistas. El proyecto de señalización provisional para el periodo de ejecución de la obra fue elaborado por la oficina de proyectos PRODIN, que tenía entre sus cometidos, entre otros, la garantía de dicha señalización y la información pública de la documentación de proyecto. En la comunicación escrita de la oficina PRODIN de fecha 19. 11. 2019 se indicó que, tras la modificación realizada en el paso a nivel en el marco de la obra, no se abordó el proyecto de señalización y se partió de la base de que el paso a nivel es inaccesible para vehículos a motor en la carretera.
 En la Medida de Ingeniería de Tráfico parte F.3 de 6/2014 elaborada por la empresa PRODIN, en la EE P5508 se indica que se trata de una vía de uso específico inaccesible para vehículos a motor y que la carretera quedará temporalmente cerrada en el punto del paso a nivel durante su reconstrucción. El proyecto de señalización para el periodo de ejecución de la obra se encuentra elaborado en el anexo E.1.3.2 – 05, véase la figura n.º 35 en el punto 7 de esta ZZ.
 En la ficha de registro del paso a nivel de SŽDC, en el Informe Técnico y en la Medida de Ingeniería de Tráfico de la documentación de proyecto se indica que a través de la EE P5508 discurre una carretera local inaccesible para vehículos a motor. Los proyectistas de PRODIN pudieron, por tanto, llegar a la conclusión de que el proyecto de señalización temporal era innecesario y duplicado. No obstante, los proyectistas de ambas empresas realizaron una inspección (recorrido) en el lugar de la obra, y el proyectista de PRODIN verificó además en los portales cartográficos si se podía acceder a la zona correspondiente por la parte superior. Mediante el recorrido local de la zona de la EE P5508 y el estudio de las bases cartográficas es posible obtener sin duda una visión suficiente – completa – de la información sobre la zona, la señalización y las vías de acceso. Conforme a lo dispuesto en el § 159 apartado 2 de la ley n.º 183/2006 Sb. (ley de construcción), el proyectista responde de la corrección, integridad, completitud y seguridad
 
 ## Página 68
+
 
 de la obra ejecutada conforme a la documentación de proyecto elaborada por él y de la viabilidad de la obra conforme a dicha documentación. Asimismo, está obligado a respetar la legislación y los requisitos generales de construcción y a actuar en colaboración con los órganos competentes interesados. Esta disposición no fue cumplida por parte de los proyectistas.
 Además, al valorar los defectos de la obra (y por tanto también de la documentación de proyecto) hay que partir también de los parámetros establecidos en el § 1914 apartado 1 de la ley 89/2012 Sb. (código civil), según el cual, desde el punto de vista de la calidad (o de los defectos), son importantes no solo las características exigidas por el comitente, sino también las características habituales, es decir, que la obra pueda ser utilizada de forma habitual conforme a su función. La obra debe estar, a su vez, conforme a la legislación de obligado cumplimiento.
@@ -2037,6 +2084,7 @@ A la documentación de proyecto se adjuntan los informes favorables de todos los
 ### entre el cambio realizado y las normas indicadas. El dictamen del evaluador independiente fue: «Declaro que, con base en la evaluación independiente, se ha acreditado la conformidad con los requisitos de seguridad del reglamento de la Comisión CE n.º 352/2009 "sobre la adopción de un método de seguridad común para la evaluación y valoración de riesgos" en la redacción vigente en el momento de la evaluación de la obra.»
 
 ## Página 69
+
 
 ### SŽDC, TÚDC indica al final de su evaluación independiente que la parte definida
 ### del cambio corresponde al ámbito del Código. Y no existen excepciones, es decir, diferencias
@@ -2054,6 +2102,7 @@ DI solicitó en el marco de la investigación la documentación relativa a la re
 Al igual que en la inspección conjunta de la EE y la carretera adyacente en junio de 2014, tampoco posteriormente, en las siguientes inspecciones de la vía férrea y de los pasos a nivel, el explotador de la vía férrea SŽDC detectó ni subsanó la deficiencia de la señalización de tráfico ausente antesmente mencionada en la EE P5508, o la clasificación errónea de la vía municipal como D2 (para más detalles, véanse los puntos 3.2.3 y 3.4.2 de esta ZZ).
 
 ## Página 70
+
 
 ### Accidente en el PFE en 2019
 El 22. 1. 2019 se produjo en el PFE P5508 un MU de colisión del tren Os 2652 con un NA atascado.
@@ -2079,8 +2128,8 @@ Esta afirmación, sin embargo, no es exacta, ya que como vía de clase IV con tr
 ### J  uicio del conductor del camión y del gestor de la vía terrestre
 Aunque el gestor de la vía indica en su Evaluación del MU que la causa de la aparición del MU fue «el atascamiento del camión en el paso a nivel como consecuencia del estado vial y técnico de la vía terrestre local», asimismo indica que el conductor del camión incumplió la disposición del § 6 apartado 3 de la Ley n.º 266/1994 Sb. «En el cruce de la vía ferroviaria con las vías terrestres a nivel de las vías, el transporte ferroviario tiene prioridad sobre la circulación en las vías terrestres» y la disposición del § 28 apartado 1 de la Ley n.º 361/2000 Sb. «antes de un paso a nivel, el conductor debe proceder con especial precaución, en particular asegurarse de que puede cruzar el paso a nivel de forma segura». Según la disposición del § 29 apartado 1
 
-
 ## Página 71
+
 
 letra f) de la misma Ley «el conductor no debe entrar en un paso a nivel si la situación tras el paso a nivel no permite su cruce seguro y la continuación de la marcha».
 Según la DI, el conductor del NA no incumplió la disposición del § 28 apartado 1 de la Ley n.º 361/2000 Sb. «Antes de un paso a nivel, el conductor debe proceder con especial precaución, en particular asegurarse de que puede cruzar el paso a nivel de forma segura.» ni la disposición del § 29 apartado 1 de la Ley n.º 361/2000 Sb. «El conductor no debe entrar en un paso a nivel si la situación tras el paso a nivel no permite su cruce seguro y la continuación de la marcha.». A modo de comparación, la DI indica la disposición análoga para la circulación de un automóvil por una intersección según el § 22 apartado 3 de la Ley n.º 361/2000 Sb. «El conductor no debe entrar en una intersección si la situación no le permite continuar la marcha en la intersección y tras la intersección, de modo que se vería obligado a detener el vehículo en la intersección. ...». De las disposiciones anteriores se deduce que el conductor no debe entrar en un paso a nivel o en una intersección si la situación no le permite continuar la marcha tras el paso a nivel o en la intersección y tras la intersección. Así que si al conductor del NA no le impedía la situación del tráfico ni un obstáculo claramente visible (p. ej., un pavimento hundido) superar el paso a nivel, podía continuar la marcha a través del paso a nivel. Dada la existencia de viviendas unifamiliares tras el paso a nivel y la nueva construcción del paso a nivel, era previsible que por aquí circularan automóviles y también camiones, p. ej., para la recogida de residuos municipales, o camiones para la prestación de otros servicios y necesidades de los residentes de estas viviendas. La señalización de tráfico no restringía ni prohibía la circulación de camiones por el PFE P5508. Cabe señalar que el conductor del NA no se detuvo por voluntad propia, sino debido a la pendiente inadecuada del pavimento tras el PFE, que no podía prever. Nada le impedía la marcha a través del PFE
@@ -2097,8 +2146,8 @@ Según el comentario a la Ley de vías terrestres2, la disposición del § 9 apa
 2
 KOČÍ, Roman. Zákon o pozemních komunikacích: s komentářem, prováděcí vyhláškou a vzory správních rozhodnutí a jiných právních aktů: 6. vyd. podle právního stavu k 1. 3. 2018. Praha: Leges, 2018.
 
-
 ## Página 72
+
 
 se deduce también del objeto de la regulación jurídica del § 2 apartado 1 de la Ley n.º 13/1997 Sb. y del art. 11 apartados 2 y 3 de la Carta de Derechos Fundamentales y Libertades en su redacción vigente.
 El gestor de la vía realizaba las inspecciones; su fallo en este sentido, y por tanto la infracción del § 9 apartado 3 de la Ley n.º 13/1997 Sb., consistió en no detectar la discrepancia entre la clase funcional de la vía indicada en el «Registro de la inspección conjunta del paso a nivel y de la vía adyacente» de fecha 20. 6. 2014 (D2) y la clase funcional real de la vía según el gestor de la vía (vía local de clase III, es decir, clase funcional C). Si la vía en el PFE se hubiera valorado como vía de clase funcional D2, los participantes en la inspección conjunta no habrían detectado la señalización de tráfico ausente que prohíbe la circulación de vehículos a motor, la cual debería estar colocada en una vía terrestre de clase D2.
@@ -2114,28 +2163,27 @@ La Inspección Ferroviaria está de acuerdo con las conclusiones de la PČR en v
 ### Clasificación de la clase funcional de la vía terrestre y la señalización de tráfico asociada
 Según la declaración del gestor del inventario de SŽDC, la vía local que atraviesa el PFE P5508 estaba destinada también a la circulación de vehículos a motor. El gestor del inventario de SŽDC conocía la existencia de viviendas unifamiliares tras el PFE P5508 y la necesidad de sus residentes de circular por el paso a nivel con vehículos a motor, véase su declaración y la ficha del paso a nivel tras el MU del año 2010, en la que se indica el momento de tráfico 100 y la velocidad máxima del vehículo de carretera a través del paso a nivel de 20 km·h-1.
 
-
 ## Página 73
 
-Fig. n.º 31: Oferta de opciones «Clase de vía» en el inventario de pasos a nivel
+Fig. n.º 31: Oferta de posibilidades de "Clase de vía" en el pasaporte de pasajes a nivel
  Fuente: FOTO DI
-Aunque el gestor del inventario conocía la necesidad y la posibilidad de acceder con vehículos a motor a las viviendas unifamiliares tras el PFE P5508, en la aplicación del inventario de pasos a nivel seleccionó de la oferta preestablecida la vía D2 – vía local no accesible para vehículos a motor. La oferta de vías D1 y D2 en el inventario de pasos a nivel se ajusta a la ČSN 73 6110 y a la ČSN 73 6380 y se basa en la Ley n.º 13/1997 Sb. En base a la clase de vía que él determinó erróneamente, siguió a ciegas la elaboración y aprobación de la documentación del proyecto y, posteriormente, la ejecución de las modificaciones constructivas —modernización, respectivamente reconstrucción— de la estructura del paso a nivel del PFE P5508 (nueva estructura de plástico-hormigón en sustitución de la madera original, ampliación del pavimento del paso a nivel —ampliación—).
-### Cabe señalar que la modernización es, según la definición, la ampliación de la equipabilidad o la utilizabilidad del bien, la adaptación a las necesidades y requisitos más recientes, en la que no se cambia el fin de la obra, en la que se utilizan nuevas soluciones técnicas, tecnológicas y de materiales, correspondientes al grado actual de conocimiento y desarrollo técnico. A la modernización corresponde el uso de una nueva estructura desmontable de plástico-hormigón en sustitución de la estructura original de madera con pavimento de asfalto fuera de la vía según la documentación del proyecto en cumplimiento de la ČSN 73 6380 aprobada por la DÚ en el procedimiento de construcción. Por reconstrucción se entienden las intervenciones en el bien que tienen como consecuencia el cambio de su fin o de sus parámetros técnicos, la ejecución de tales obras de construcción en la obra mediante las que se logra la recuperación de la funcionalidad al menos en la medida para la que fue construida, la eliminación de la desgastabilidad de los elementos constructivos individuales mediante su sustitución; en construcción, por reconstrucción se entiende también el cambio de la disposición en altura del edificio o el cambio de la distribución. A la reconstrucción corresponde el cambio del estado vial y técnico, p. ej., la ampliación del pavimento del paso a nivel, el cambio de la pendiente longitudinal y de los arcos en altura. A esta obra no le es aplicable la excepción según el § 88 del Decreto n.º 177/1995 Sb., ya que en el marco de las modificaciones constructivas de la línea se realizó una modernización, respectivamente reconstrucción, para la que se verificó la documentación del proyecto en el procedimiento de construcción durante la vigencia de dicho decreto,
+A pesar de que el gestor del pasaporte conocía la necesidad y la posibilidad de acceder con vehículos motorizados a las viviendas unifamiliares más allá del PAP P5508, en la aplicación del pasaporte de pasaje a nivel seleccionó de la oferta preestablecida la vía D2 – vía local no accesible para vehículos motorizados. La oferta de vías D1 y D2 en el pasaporte de pasajes a nivel se realiza conforme a la ČSN 73 6110 y la ČSN 73 6380 y se basa en la ley n.º 13/1997 Sb. En base a la clase de vía que él estableció erróneamente, siguió a ciegas la elaboración y aprobación de la documentación del proyecto y, posteriormente, la ejecución de las obras de construcción – modernización, respectivamente reconstrucción de la estructura del paso a nivel PAP P5508 (nueva estructura de plástico-hormigón en lugar de la original entablado de madera, ampliación de la calzada del paso a nivel – ampliación).
+### Cabe señalar que la modernización es, según la definición, la ampliación de la equipamiento o la utilizabilidad del bien, la adaptación a las necesidades y requisitos más recientes, en la que no se cambia el fin de la obra, en la que se utilizan nuevas soluciones técnicas, tecnológicas y de materiales, correspondientes al nivel actual de conocimiento y desarrollo técnico. A la modernización corresponde el uso de una nueva estructura desmontable de plástico-hormigón en lugar de la estructura original con calzada de asfalto fuera de la vía, conforme a la documentación del proyecto de acuerdo con la ČSN 73 6380 aprobada por el DÚ en el procedimiento de construcción. Por reconstrucción se entienden las intervenciones en el bien que tienen como consecuencia el cambio de su fin o de sus parámetros técnicos, la ejecución de tales obras de construcción en la obra con las que se consigue la recuperación de la funcionalidad al menos en el alcance para el que fue construida, la eliminación de la desgastabilidad de los elementos constructivos individuales mediante su sustitución; en la construcción, la reconstrucción también se entiende como el cambio de la disposición en altura del edificio o el cambio de la distribución. A la reconstrucción corresponde el cambio del estado técnico del transporte, p. ej. la ampliación de la calzada del paso a nivel, el cambio de la pendiente longitudinal y de los arcos en altura. A esta obra no le es, por tanto, aplicable la excepción conforme al § 88 del decreto n.º 177/1995 Sb., ya que en el marco de las obras de construcción de la línea se realizó una modernización, respectivamente reconstrucción, para la que se verificó la documentación del proyecto en el procedimiento de construcción en el tiempo de vigencia de dicho decreto,
 
 ## Página 74
 
-a tedy la aplicación de esta disposición que regula las condiciones técnicas y los requisitos para las obras de vías y las obras en la vía para la presente obra son aplicables, incluidas las condiciones establecidas en la ČSN 73 6380 sobre la base del § 17 apartado 1 de esta disposición.
-Según el dictamen del gestor de la ČSN 73 6380, la modernización o reconstrucción es una transformación, y por tanto es necesario cumplir las obligaciones que de ello se derivan, establecidas, entre otras, por las disposiciones de los artículos 5.1.2, 7.8.1, es decir, por ejemplo, negociar con el gestor de la vía la determinación de la categoría prevista de la vía pública y, sobre todo, tener en cuenta las condiciones locales, es decir, las demandas de las personas que residen en las inmediaciones del paso a nivel. En este caso, esto no ocurrió.
-Por tanto, no se puede estar de acuerdo con la afirmación contenida en la Evaluación de la MU de la SŽDC, de que el paso a nivel P5508 se puso en servicio en el año 1888, fue reconstruido por última vez en el año 1977 – 1978, y que, con referencia al artículo 1.1 de la ČSN 73 6380 y al § 88 de la disposición nº 177/1995 Sb., el paso a nivel no tiene por qué cumplir la ČSN 73 6380 ni la disposición nº 177/1995 Sb. y puede mantenerse en servicio.
-En cuanto a la propuesta de cambio de la señalización de tráfico, la misma puede presentarla cualquier persona, es decir, un ciudadano, un municipio o una organización (por ejemplo, asociaciones, el órgano estatutario de una persona jurídica, etc.). La propuesta debe ser por escrito y es necesario presentarla ante la autoridad administrativa competente (autoridad administrativa de carreteras) y dirigirla al departamento de tráfico. La norma jurídica básica y general es la ley sobre vías terrestres nº 13/1997 Sb., que se desarrolla mediante la disposición nº 104/1997 Sb.
-Según el § 77 apartado 1 letra c) de la ley nº 361/2000 Sb. (sobre la circulación en la vía pública), la regulación local y transitoria de la circulación en carreteras de clase II y III, en vías locales y en vías de servicio de acceso público corresponde a la oficina municipal del municipio con competencia ampliada, es decir, al Departamento de Tráfico del MML. La autoridad administrativa está obligada a decidir sobre la SOLICITUD de cambio de la señalización de tráfico sin demora indebida. Las normas regulan la señalización de tráfico permanente como «regulación local de la circulación en las vías terrestres».
-La propuesta de cambio de la señalización de tráfico, que no estaba en consonancia con la clase funcional de la vía pública, pudo, por tanto, presentarla, por ejemplo, el explotador de la vía u otro participante en la inspección conjunta. Sin embargo, ninguno de los participantes en la inspección señaló la discrepancia (véase también el punto 3.2.3 y 3.4.2 de la presente ZZ).
-### La determinación incorrecta de la clase funcional de la vía pública por parte del gestor del pasaporte de pasos a nivel (ST SŽDC), que no correspondía a la realidad y que se extendió progresivamente también a otra documentación, sin embargo, no fue detectada durante la inspección conjunta, el diseño de la obra, la formulación de observaciones y la aprobación de la documentación del proyecto, la evaluación independiente ni la actividad de control regular por parte del explotador de la vía y del gestor de la vía.
-De lo anterior se desprende que precisamente el explotador de la vía, los proyectistas, el MO Vratislavice, el MML, al ejercer su actividad, estaban en condiciones de impedir o al menos limitar en la mayor medida posible el riesgo de producción de daños en la vida, la salud o los bienes, y era posible exigir razonablemente de él, dada la situación temporal y local concreta (información sobre el paso a nivel, la vía adyacente y la modificación de la obra disponible a largo plazo, actividad de control sin presión de tiempo, etc.), diligencia (atención) en el sentido de la disposición del § 2900 de la ley nº 89/2012 Sb. Fue precisamente el explotador de la vía quien no intervino en protección de otro (por ejemplo, instalando la señalización de tráfico correspondiente), a pesar de haber creado una situación peligrosa y de tener control sobre ella en el sentido de las disposiciones del § 2901 y § 2012 de la ley nº 89/2012 Sb.
-Los casos similares de atascos en pasos a nivel ferroviarios no son aislados y se producen repetidamente. Algunos terminan en una colisión, en otros se logra detener el vehículo ferroviario a tiempo. Para prevenir estas situaciones es necesaria la colaboración del explotador de la vía, del gestor de la vía terrestre y de otros sujetos que participan en las inspecciones conjuntas de pasos a nivel, o que participan en la modificación de la obra de los pasos a nivel ferroviarios, si esta tiene lugar. Por ello, la Inspección Ferroviaria emite recomendaciones de seguridad (véase el punto 6 de la presente ZZ).
-
+a la entrada en vigor de esta ordenanza que regula las condiciones técnicas y los requisitos para las construcciones de líneas férreas y las construcciones en la línea férrea, para esta construcción, incluidas las condiciones establecidas por la ČSN 73 6380 en virtud del § 17 apartado 1 de esta ordenanza.
+Según el dictamen del gestor de la ČSN 73 6380, la modernización o reconstrucción es una transformación, y por tanto es necesario cumplir las obligaciones que de ello se derivan, establecidas, entre otros, por las disposiciones de los artículos 5.1.2 y 7.8.1, es decir, por ejemplo, negociar con el gestor de la vía pública la determinación de la categoría prevista de la PK y, especialmente, tener en cuenta las circunstancias locales, es decir, las demandas de las personas que residen en las inmediaciones del paso a nivel. En este caso no se hizo así.
+Por tanto, no puede aceptarse la afirmación contenida en la Evaluación de MU de la SŽDC de que el paso a nivel ŽP P5508 se puso en servicio en el año 1888, que fue reconstruido por última vez en los años 1977–1978 y que, en referencia al artículo 1.1 de la ČSN 73 6380 y al § 88 de la ordenanza nº 177/1995 Sb., el paso a nivel no tiene por qué cumplir la ČSN 73 6380 ni la ordenanza nº 177/1995 Sb. y puede permanecer en servicio.
+En cuanto a la propuesta de modificación de la señalización de tráfico, la cual está legitimado para presentar cualquier persona, es decir, un ciudadano, un municipio o una organización (por ejemplo, asociaciones, el órgano estatutario de una persona jurídica, etc.). La propuesta debe ser por escrito y es necesario presentarla ante la autoridad administrativa competente (autoridad administrativa de carreteras) y dirigirla al departamento de tráfico. La norma jurídica básica y general es la ley de carreteras nº 13/1997 Sb., que se desarrolla mediante la ordenanza nº 104/1997 Sb.
+Según el § 77 apartado 1 letra c) de la ley nº 361/2000 Sb. (sobre el tráfico en la PK), la regulación local y transitoria del tráfico en las carreteras de segunda y tercera clase, en las vías locales y en las vías de uso público destinadas a un fin específico corresponde a la oficina municipal del municipio con competencia ampliada, es decir, al Departamento de Tráfico del MML. El órgano administrativo está obligado a decidir sobre la SOLICITUD de modificación de la DZ sin demora indebida. Las normas reguladoras de la DZ permanente la califican como «regulación local del tráfico en las carreteras».
+La propuesta de modificación de la señalización de tráfico que no estaba en consonancia con la clase funcional de la PK, es decir, pudo presentarla, por ejemplo, el explotador de la línea férrea u otro participante de la inspección conjunta. Sin embargo, ninguno de los participantes en la inspección señaló la discrepancia (véase también el punto 3.2.3 y el 3.4.2 de la presente ZZ).
+### La determinación incorrecta de la clase funcional de la PK por parte del gestor del pasaporte de pasos a nivel (ST SŽDC), que no correspondía a la realidad y que se extendió progresivamente también a otra documentación, sin embargo, no fue detectada durante la inspección conjunta, el diseño de la construcción, la enmienda y aprobación de la documentación del proyecto, la evaluación independiente ni la actividad de control regular por parte del explotador de la línea férrea y del gestor de la vía pública.
+De lo anterior se desprende que precisamente el explotador de la línea férrea, los proyectistas, el MO Vratislavice y el MML, al ejercer su actividad, estaban en condiciones de prevenir o, al menos, limitar en la mayor medida posible el riesgo de daños a la vida, la salud o los bienes, y era posible exigirles razonablemente diligencia (atención) en el sentido de la disposición del § 2900 de la ley nº 89/2012 Sb., dada la situación temporal y local concreta (información sobre el paso a nivel, la vía pública adyacente y la modificación constructiva disponible a largo plazo, actividad de control sin presión de tiempo, etc.). Fue precisamente el explotador de la línea férrea quien no intervino en protección de otro (por ejemplo, mediante la instalación de la señalización de tráfico correspondiente), a pesar de haber creado una situación peligrosa y de tener control sobre ella en el sentido de las disposiciones del § 2901 y del § 2012 de la ley nº 89/2012 Sb.
+Los casos similares de atascamiento en pasos a nivel ferroviarios no son aislados y se producen repetidamente. Algunos terminan en una colisión, en otros casos se logra detener el vehículo ferroviario a tiempo. Para prevenir estas situaciones es necesaria la colaboración del explotador de la línea férrea, del gestor de la carretera y de otros sujetos que participan en las inspecciones conjuntas de pasos a nivel o que participan en la modificación constructiva de los pasos a nivel ferroviarios, cuando esta se realiza. Por ello, la Inspección Ferroviaria emite recomendaciones de seguridad (véase el punto 6 de la presente ZZ).
 
 ## Página 75
+
 
 ### 4.3 Conclusiones
 4.3.1 Causas directas e inmediatas del suceso excepcional, incluidos los factores que contribuyeron al mismo y que estuvieron relacionados con la actuación de las personas implicadas o con el estado de los vehículos ferroviarios o de las instalaciones técnicas
@@ -2164,54 +2212,74 @@ la no garantía del cumplimiento del artículo 7.3.4 en relación con el 7.4.3 d
 ◦artículo 7.3.4 de la ČSN 73 6380:
 «En caso de avería o desconexión del dispositivo de enclavamiento del paso a nivel, no deben colocarse nuevos obstáculos en el campo de visibilidad del paso a nivel determinado según el artículo 7.4.3, para una velocidad del vehículo ferroviario de 10 km.h-1. Según las posibilidades y las condiciones locales, de estos campos de visibilidad deben eliminarse también los obstáculos existentes
 
-
 ## Página 76
 
-»;
-◦artículo 7.4.3 de la ČSN 73 6380:
-«El campo de visibilidad para el conductor del vehículo por carretera más lento (véase la Figura 7) tiene en cada cuadrante forma de triángulo, cuyo un vértice se encuentra en la intersección del eje del carril de circulación de la vía terrestre con el eje de la vía, el segundo vértice se encuentra en el eje del carril de circulación de la vía terrestre a un nivel perpendicularmente distante de 4 m del eje de la vía exterior y el tercer vértice se encuentra en el eje de la vía a la distancia de la longitud de visibilidad correspondiente Lp (medida desde la intersección del eje del carril de circulación de la vía terrestre con el eje de la vía).»;
-el incumplimiento de las disposiciones del artículo 7.3.1 y del artículo 7.3.2.3 de la
+obstáculos.".;
+◦art. 7.4.3 ČSN 73 6380:
+"El campo visual para el conductor del vehículo rodado más lento (véase la Figura 7)
+tiene en cada cuadrante forma de triángulo, cuyo un vértice se encuentra en la intersección
+del eje del carril de la vía terrestre con el eje de la vía, el segundo vértice se encuentra en el eje
+del carril de la vía terrestre a la altura perpendicularmente distante de 4 m del eje de la vía
+exterior y el tercer vértice se encuentra en el eje de la vía a la distancia de la longitud visual
+correspondiente Lp (medida desde la intersección del eje del carril de la vía terrestre con el eje
+de la vía).";
+incumplimiento de las disposiciones del art. 7.3.1 y art. 7.3.2.3 ČSN 73 6380, es decir, no
 •
-ČSN 73 6380, es decir, la no garantía de una visibilidad suficiente hacia el indicador del PZS (con señalización positiva) a una distancia Dz = 35 m, medida solo Dz = 17 m;
-◦artículo 7.3.1 de la ČSN 73 6380:
-«En un paso a nivel equipado con un dispositivo de enclavamiento del paso a nivel, debe garantizarse para el conductor de un vehículo por carretera la visibilidad hacia el indicador o hacia la barra de la barrera bajada, y a una longitud tal que el conductor pueda detenerse de forma fiable antes del paso a nivel.»;
-◦artículo 7.3.2.3 de la ČSN 73 6380:
-«En un paso a nivel de una vía local del grupo funcional C y del subgrupo funcional D1 con una velocidad máxima permitida de circulación de vehículos a través del paso a nivel vs = 50 km.h-1, el Dz mínimo es de 35 m.»;
-el incumplimiento del artículo 39 de la normativa de la SŽDC S2/3 – en la libreta de
+garantización de la visibilidad suficiente hacia la señal de advertencia PZS (con señalización
+positiva) a la distancia Dz = 35 m, medidos solo Dz = 17 m;
+◦art. 7.3.1 ČSN 73 6380:
+"En un paso a nivel equipado con instalación de seguridad de paso a nivel debe garantizarse
+para el conductor de un vehículo rodado la visibilidad hacia la señal de advertencia o hacia la
+barra de barrera bajada y ello a una longitud tal que el conductor pueda detenerse de forma
+fiable antes del paso a nivel.";
+◦art. 7.3.2.3 ČSN 73 6380:
+"En un paso a nivel de una vía local de grupo funcional C y subgrupo funcional D1 con la
+velocidad máxima permitida de circulación de vehículos a través del paso a nivel vs = 50
+km·h-1 es Dz mínimo = 35 m.";
+incumplimiento del art. 39 de la normativa SŽDC S2/3 – en el libro de servicio no constan
 •
-servicio no se registran los resultados de la ronda realizada;
-◦artículo 39 de la normativa interna del explotador de la vía, SŽDC S 2/3:
-«El empleado designado realiza rondas en los intervalos establecidos según el calendario aprobado y rondas extraordinarias según las instrucciones del empleado superior. Registra los resultados en la Libreta de Servicio. ...».
-En el gestor de las vías locales, que es el MO Liberec – Vratislavice nad Nisou, se detectó:
+los resultados de la inspección perimetral realizada;
+◦art. 39 de la normativa interna del gestor de la vía, SŽDC S 2/3:
+"El empleado designado realiza inspecciones perimetrales en los intervalos establecidos
+según el calendario aprobado e inspecciones perimetrales extraordinarias según las
+instrucciones del empleado superior. Los resultados los registra en el Libro de Servicio. ...".
+Al gestor de las vías locales, que es MO Liberec – Vratislavice nad Nisou, se le constató:
 en contradicción con la Determinación de la regulación local en las vías terrestres del
 •
-departamento de tráfico del MML de fecha 12. 8. 2014 y en contradicción con la recomendación dada en el «Registro de la inspección conjunta del paso a nivel ferroviario y de la vía terrestre adyacente» en el paso a nivel P5508 de fecha 20. 6. 2014, con un plazo hasta el 30. 9. 2014, en la vía local de la c/ Prosečská (sin salida) antes del paso a nivel P5508, en el momento de la producción de la MU, no se garantizó la instalación de la señalización de tráfico A30 «Paso a nivel sin barreras» + la señalización de tráfico A31c «Placa indicadora (80 m)» antes del paso a nivel;
-la no garantía del cumplimiento del artículo 9.2.5.13 TP 65 – en la vía local de la c/
+departamento de transporte de MML de fecha 12. 8. 2014 y en contradicción con la
+recomendación dada en el "Registro de la inspección conjunta del paso a nivel y de la vía
+terrestre adyacente" en el ŽP P5508 de fecha 20. 6. 2014, con plazo hasta el 30. 9. 2014, en la
+vía local de la c/ Prosečská (sin salida) antes del ŽP P5508 en el momento del suceso del MU
+no se había garantizado la instalación de la señal DZ A30 "Paso a nivel sin barreras" + DZ
+A31c "Placa de señalización (80 m)" antes del paso a nivel;
+no garantización del cumplimiento del art. 9.2.5.13 TP 65 – en la vía local de la c/
 •
-Prosečská (sin salida) antes del paso a nivel P5508, en el momento de la producción de la MU, no se garantizó la instalación de la señalización de tráfico IP 10a «Vía terrestre sin salida»;
-◦artículo 9.2.5.13 TP 65:
-«Con la señal nº IP 10a se señala una vía terrestre o un área que no se puede atravesar y continuar la marcha. Con la señal se señala también una vía terrestre o
-
+Prosečská (sin salida) antes del ŽP P5508 en el momento del suceso del MU no se había
+garantizado la instalación de la señal DZ IP 10a "Vía terrestre sin salida";
+◦art. 9.2.5.13 TP 65:
+"Con la señal n.º IP 10a se señala una vía terrestre o un área que no se puede recorrer y
+continuar la marcha. Con la señal se señala asimismo una vía terrestre o
 
 ## Página 77
 
-un área que está terminada estructuralmente más allá o cuyo acceso está prohibido en el tramo siguiente por una regulación local de la circulación.».
+oblast, que está además terminada a efectos de construcción o a la que se prohíbe el acceso en el transcurso posterior mediante una regulación local del tráfico.“.
 ## 5 MEDIDAS ADOPTADAS
-### 5.1 Lista de medidas que ya se han tomado o adoptado como consecuencia del suceso excepcional
-El explotador de la vía y el transportista, según sus propias evaluaciones de la MU, no adoptaron ni emitieron ninguna medida.
-El explotador de la vía, a petición de la DI, envió un documento en el que se indica que de esta MU de fecha 22. 1. 2019 fueron informados los jefes de las administraciones especializadas en la reunión del subdirector de explotación de la infraestructura de la Dirección Regional de Hradec Králové.
-El gestor y propietario de la vía MO Liberec – Vratislavice nad Nisou, sobre la base de la Determinación de la regulación transitoria de la circulación en la vía pública emitida por el departamento de tráfico del MML de fecha 22. 1. 2020, garantizó primero la regulación transitoria de la circulación, y posteriormente, sobre la base de la Determinación de la regulación local de la circulación en las vías terrestres emitida por el departamento de tráfico del MML de fecha 12. 3. 2020, garantizó la regulación de la circulación en la c/ Prosečská antes del paso a nivel P5508 mediante la instalación de la señalización de tráfico B1 – «Prohibido el acceso de todos los vehículos en ambos sentidos» con el panel complementario E13 con el texto «Excepto vehículos con permiso especial del ÚMO Vratislavice n. N.». El gestor de la vía instaló además antes del paso a nivel P5508 la señalización de tráfico IP 10a «Vía terrestre sin salida».
-En la motivación de la citada Determinación se indica, entre otras cosas, que tras la realización de la modificación de la obra del paso a nivel, antes del paso a nivel se instalará la señalización de tráfico que permita el acceso de vehículos según los parámetros del paso a nivel
+### 5.1 Lista de medidas que ya se han tomado o adoptado como consecuencia del suceso ferroviario
+El gestor de la infraestructura ferroviaria y el transportista, de acuerdo con sus propias evaluaciones, no adoptaron ni emitieron ninguna medida en relación con el SU.
+El gestor de la infraestructura ferroviaria, en respuesta a la consulta de la DI, remitió un documento en el que se indica que, con respecto a este SU del 22. 1. 2019, los jefes de las administraciones especializadas fueron informados en la reunión del subdirector de explotación de la infraestructura de la Dirección Regional de Hradec Králové.
+El gestor y propietario de la vía MO Liberec – Vratislavice nad Nisou, con base en la Determinación de una regulación transitoria del tráfico en la PK emitida por el departamento de transporte del MML del 22. 1. 2020, aseguró en primer lugar una regulación transitoria del tráfico y, posteriormente, con base en la Determinación de una regulación local del tráfico en las vías públicas emitida por el departamento de transporte del MML del 12. 3. 2020, aseguró la regulación del tráfico en la c/ Prosečská antes del PP P5508 mediante la instalación de la señalización B1 – «Prohibido el paso de todo tipo de vehículos en ambos sentidos» con el panel adicional E13 con el texto «Excepto vehículos con autorización especial del ÚMO Vratislavice n. N.». El gestor de la vía instaló además, antes del PP P5508, la señalización IP 10a «Vía pública sin salida».
+En la fundamentación de la citada Determinación se indica, entre otros, que tras la realización de la modificación constructiva del PP, se instalará antes del PP una señalización que permita el paso de vehículos según los parámetros del PP
 ## 6 RECOMENDACIONES DE SEGURIDAD
-La Inspección Ferroviaria, sobre la base de la disposición del § 53e apartado 1 de la ley nº 266/1994 Sb., recomienda, en vista de la prevención de sucesos excepcionales:
-### Al Organismo Ferroviario:
-dado que se han producido atascos repetidos de vehículos motorizados por carretera
+La Inspección Ferroviaria, con base en lo dispuesto en el apartado 1 del artículo 53e de la Ley n.º 266/1994 Sb., recomienda, con vistas a la prevención de los sucesos ferroviarios:
+### A la Autoridad Ferroviaria:
+atendiendo al hecho de que se han producido atascos repetidos de vehículos
 •
-en pasos a nivel ferroviarios que habían sido objeto de una reparación o transformación significativa aprobada por el Organismo Ferroviario, sin que se hubiera verificado el cumplimiento de todas las normas vigentes, incluida la ČSN 73 6380, para garantizar el paso fluido de los vehículos por carretera, o sin que el paso a nivel ferroviario hubiera sido correctamente señalizado con la señalización de tráfico correspondiente de restricción de la circulación de vehículos por carretera en la vía terrestre en el paso a nivel, la adopción de una medida propia orientada a la realización de:
-1) la modificación del sistema de seguridad de modo que el explotador de la vía pueda, mediante la comparación con el estado real, evaluar críticamente los datos sobre la categoría y la clase funcional de la vía terrestre obtenidos del gestor de la vía terrestre;
-2) la determinación sistemática de la categoría y de la clase funcional (grupo) de la vía terrestre, incluida la garantía de la documentación del método de obtención de esta información;
+automotores en pasos a nivel ferroviarios que habían sido objeto de una reparación o reconstrucción significativa aprobada por la Autoridad Ferroviaria, sin que se hubiera verificado el cumplimiento de todas las normas vigentes, incluida la ČSN 73 6380, para garantizar el paso fluido de los vehículos por carretera, o sin que el paso a nivel estuviera correctamente señalizado con la señalización de tráfico correspondiente sobre la limitación del tráfico de vehículos por carretera en la vía pública en el paso a nivel, la adopción de una medida propia orientada a la realización:
+1) de la modificación del sistema de seguridad de modo que el gestor de la infraestructura ferroviaria pueda, mediante la comparación con el estado real, valorar críticamente los datos sobre la categoría y la clase funcional de la vía pública obtenidos del gestor de la vía pública;
+2) de la obtención sistemática de la categoría y la clase funcional (grupo) de la vía pública, incluida la garantía de la documentación del modo de obtención de esta información;
 
 ## Página 78
+
 
 3) comprobaciones de si la señalización vial antes de los pasos a nivel corresponde a la categoría y clase funcional (grupo) de la vía pública, y comprobaciones del cumplimiento de las medidas establecidas en las inspecciones conjuntas de pasos a nivel.
 El sentido de la recomendación de seguridad mencionada más arriba es garantizar la máxima seguridad en la explotación del transporte ferroviario y de los participantes en el tráfico en las vías públicas, respectivamente, evitar la aparición de sucesos extraordinarios similares, mediante la determinación sistemática de la categoría y la clase funcional (grupo) de la vía pública en los pasos a nivel y la comprobación sistemática de la señalización vial antes de los pasos a nivel, no solo en el marco de las inspecciones conjuntas, y la comprobación del cumplimiento de las medidas adoptadas en las inspecciones conjuntas de pasos a nivel.
@@ -2228,6 +2296,7 @@ director del Inspectorado Territorial de Bohemia
 
 ## Página 79
 
+
 ## 7 ANEXOS
 Fig. n.º 32: Datos del PNP P5508 de la aplicación de ficha técnica de pasos a nivel de SŽDC
  Fuente: SŽDC, modificación DI
@@ -2238,14 +2307,17 @@ nic – sin registro.
 
 ## Página 80
 
+
 Fig. n.º 33: Fotografía de la señalización vial antes del PNP P5508 del 7 de febrero de 2020
  Fuente: DI
 
 ## Página 81
 
+
 Fig. n.º 34: Esquema del camión con los valores medidos
  Fuente: DI
 
 ## Página 82
+
 
 Fig. n.º 35: Mapa del Proyecto de señalización vial para el período de ejecución de las obras de modificación del PNP Fuente: PRODIN

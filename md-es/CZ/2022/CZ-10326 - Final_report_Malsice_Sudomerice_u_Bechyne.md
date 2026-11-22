@@ -10,13 +10,14 @@ chars: 84518
 ratio_longitud: 1.23
 tokens_in: 40441
 tokens_out: 27788
-verificacion: revisar
-notas_cifras: ["bloque 6: original bilingüe: se compara contra el idioma principal (CS)"]
-avisos: ["bloque 6: ratio 1.82"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 3: original bilingüe: se compara contra el idioma principal (CS)", "página 4: original bilingüe: se compara contra el idioma principal (PT)", "página 6: original bilingüe: se compara contra el idioma principal (CS)", "página 7: original bilingüe: se compara contra el idioma principal (CS)", "página 11: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -41,13 +42,13 @@ IČ: 75009561
 mail@dicr.cz
 tel.: +420 736 521 003
 
-
 ## Página 2
+
 
 Este informe final es público y todos los hechos en él expuestos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ## 1 RESUMEN
 Fuente: Drážní inspekce
@@ -78,8 +79,8 @@ Causa sistémica:
 •
 no fue detectada por la Drážní inspekce.
 
-
 ## Página 4
+
 
 Recomendaciones de seguridad:
 La Drážní inspekce, en virtud de lo dispuesto en el § 53e apartado 1 de la ley n.º 266/1994 Sb.,
@@ -103,8 +104,8 @@ la posible incorporación de otra señalización de tráfico antes del paso a ni
 que contribuya a aumentar la seguridad y, con ello, a reducir la posibilidad de
 producción de sucesos excepcionales en el mencionado paso a nivel.
 
-
 ## Página 5
+
 
 ## SUMMARY
 26th October 2022, 19:32 (18:32 GMT).
@@ -152,8 +153,8 @@ the possible addition of other traffic sign in front of the level crossing No. P
 leading to increase safety and thereby reduce the possibility of accidents at the
 level crossing.
 
-
 ## Página 6
+
 
 # Índice
 1 RESUMEN........................................................................................................................3
@@ -214,6 +215,7 @@ de la infraestructura ferroviaria o de las instalaciones técnicas..............
 
 ## Página 7
 
+
 4.2.2 Factores o consecuencias derivados de la instalación y puesta en servicio de vehículos ferroviarios, infraestructura ferroviaria o instalaciones técnicas.....................................27
 4.2.3 Factores o consecuencias relacionados con fabricantes de vehículos ferroviarios u otros proveedores de productos ferroviarios...........................................................................28
 4.2.4 Factores o consecuencias derivados del mantenimiento y modificación de vehículos ferroviarios o instalaciones técnicas..................................................................................................28
@@ -243,6 +245,7 @@ de la infraestructura ferroviaria o de las instalaciones técnicas..............
 ANEXOS............................................................................................................................35
 
 ## Página 8
+
 
 ### Lista de siglas y símbolos utilizados
 COP
@@ -294,8 +297,8 @@ paso a nivel ferroviario
 žst.
 estación de ferrocarril
 
-
 ## Página 9
+
 
 ### Lista de siglas de la legislación, normas y normativa interna utilizadas
 ley núm. 262/2006 Sb.
@@ -321,8 +324,8 @@ decreto núm. 294/2015 Sb., por el que se aplican las normas de circulación en 
 ČSN 73 6380
 ČSN 73 6380 «Pasos a nivel y pasos peatonales ferroviarios», en la redacción vigente en el momento de la ocurrencia del suceso extraordinario
 
-
 ## Página 10
+
 
 | SŽ D1 | normativa interna del gestor de la infraestructura SŽ SŽ D1 PARTE , « PRIMERA Reglamento de Circulación y de Señalización para líneas no equipadas con el sistema europeo de seguridad del tren» en la redacción vigente en el momento de la ocurrencia del suceso extraordinario |
 | SŽ D3 | normativa interna del gestor de la infraestructura SŽ SŽ D3 Reglamento , « para la gestión simplificada del tráfico ferroviario» en la redacción vigente en el momento de la ocurrencia del suceso extraordinario |
@@ -330,37 +333,38 @@ decreto núm. 294/2015 Sb., por el que se aplican las normas de circulación en 
 | SŽ S2/3 | normativa interna del gestor de la infraestructura SŽ SŽ S2/3 , « Organización y realización de inspecciones y mediciones en el ferrocarril de ámbito nacional y en los ferrocarriles regionales» en la redacción vigente en el momento de la ocurrencia del suceso extraordinario |
 | SŽ S4/4 | normativa interna del gestor de la infraestructura SŽ SŽ S 4/4 , « Pasos a nivel ferroviarios» en la redacción vigente en el momento de la ocurrencia del suceso extraordinario |
 
-
 ## Página 11
 
-## 2 LA INVESTIGACIÓN Y SU CONTEXTO
+## 2 INVESTIGACIÓN Y SUS CONTEXTO
 ### 2.1 Decisión de iniciar la investigación
-La DI decidió iniciar la investigación del suceso extraordinario en cuestión el 26. 10. 2022.
+DI decidió iniciar la investigación de la MU en cuestión el 26. 10. 2022.
 ### 2.2 Fundamentación de la decisión de iniciar la investigación
-La DI decidió investigar el suceso extraordinario en cuestión sobre la base de su gravedad, su recurrencia, sus repercusiones sobre la explotación segura del ferrocarril y del tráfico ferroviario, y de la facultad que le confiere el apartado § 53b de la ley núm. 266/1994 Sb. 
-### 2.3 Alcance y limitaciones de la investigación, incluida su fundamentación pertinente
-La DI no se encontró, en el marco de la investigación del suceso extraordinario en cuestión, con limitaciones que pudieran influir negativamente en el modo y los procedimientos de la investigación.
+DI decidió investigar la MU en cuestión sobre la base de su gravedad, de su repetitividad, de los impactos del suceso excepcional en la explotación segura de la vía y del transporte ferroviario, y de la facultad que se deriva de la disposición § 53b de la Ley núm. 266/1994 Sb.
+### 2.3 Alcance y limitaciones de la investigación, incluida la fundamentación correspondiente
+DI no se encontró, en el marco de la investigación de la MU en cuestión, con limitaciones que influyeran negativamente en el modo y los procedimientos de la investigación.
 ### 2.4 Descripción resumida de las capacidades y funciones técnicas del equipo de investigación
-Investigación de la DI en el lugar del suceso extraordinario:
-1x inspector de la ÚI Čechy, centro de trabajo Plzeň. 
+Investigación de DI en el lugar de la MU:
+1x inspector de ÚI Čechy, centro de trabajo Plzeň.
 Constitución del equipo de investigación:
 no fue necesario constituirlo.
 Colaboración externa:
 no se utilizó.
-2.5 Comunicación y consultas durante la investigación con las personas o entidades que participaron en el suceso
-En la investigación de las causas y circunstancias de la ocurrencia del suceso extraordinario, la DI se basó principalmente en sus propios conocimientos, hallazgos y en su propia documentación fotográfica. Durante la investigación, la DI solicitó la documentación necesaria al gestor de la infraestructura, al operador ferroviario, al propietario de las vías públicas, a la autoridad administrativa de carreteras y a la Policía ČR. 
-La investigación de las causas y circunstancias de la ocurrencia del suceso extraordinario se realizó de acuerdo con la ley núm. 266/1994 Sb. y el decreto núm. 376/2006 Sb. 
-### 2.6 Descripción del nivel de colaboración ofrecido por las entidades implicadas
-El nivel de colaboración con los representantes de las entidades implicadas en el suceso extraordinario fue estándar; la cooperación con la autoridad administrativa de carreteras, el MěÚ Tábor y el Městys Malšice fue superior al estándar, sobre la base de la cooperación de las autoridades administrativas en el interés común de aumentar la seguridad en el paso a nivel ferroviario en cuestión.
-### 2.7 Descripción de la investigación, los métodos y las técnicas utilizados para acreditar los hechos y los hallazgos recogidos en el informe
-En el marco de la investigación del suceso extraordinario, la DI procedió de la siguiente manera, es decir, utilizó, entre otros, los siguientes métodos y técnicas:
+2.5 Comunicación y consultas durante la investigación con las personas o entidades
+que participaron en el suceso en cuestión
+Al investigar las causas y circunstancias del origen de la MU, DI se basó principalmente en sus propios conocimientos, hallazgos y en su propia documentación fotográfica. Durante la investigación, DI solicitó posteriormente la documentación necesaria al explotador de la vía, al transportista, al propietario de las vías públicas, a la autoridad administrativa de carreteras y a la Policía ČR.
+La investigación de las causas y circunstancias del origen de la MU se realizó de acuerdo con la Ley núm. 266/1994 Sb. y con la disposición núm. 376/2006 Sb.
+### 2.6 Descripción del nivel de colaboración ofrecido por las entidades participantes
+El nivel de colaboración con los representantes de las entidades participantes en la MU fue de nivel estándar; la cooperación con la autoridad administrativa de carreteras, el MěÚ Tábor y el Městys Malšice fue por encima del estándar, sobre la base de la cooperación de los órganos administrativos en el interés común de aumentar la seguridad en el paso a nivel ferroviario en cuestión.
+### 2.7 Descripción de la investigación, los métodos y las técnicas empleados para acreditar los hechos
+y los hallazgos consignados en el informe
+En el marco de la investigación de la MU, DI procedió de la siguiente manera, es decir, utilizó, entre otros, los siguientes métodos y técnicas:
 •
-inspección del lugar del suceso extraordinario, incluidos los vehículos ferroviarios implicados, las instalaciones técnicas y la infraestructura ferroviaria;
+inspección del lugar del suceso excepcional, incluidos los vehículos ferroviarios participantes, las instalaciones técnicas y la infraestructura de la vía;
 •
 medición de las condiciones de visibilidad en el paso a nivel ferroviario;
 
-
 ## Página 12
+
 
 •
 análisis de la documentación solicitada al gestor de la infraestructura, al operador ferroviario, a la Policía ČR y a la autoridad administrativa de carreteras;
@@ -395,8 +399,8 @@ ferrocarril, categoría regional, Tábor – Bechyně, entre las estaciones de s
 Coordenadas GPS:
 49°21'15.670"N, 14°34'59.209"E.
 
-
 ## Página 13
+
 
 Fig. n.º 1: Vista del paso a nivel ferroviario P 6309 a plena luz del día
           Fuente: DI
@@ -404,6 +408,7 @@ Fig. n.º 1: Vista del paso a nivel ferroviario P 6309 a plena luz del día
 El paso a nivel ferroviario P6309, de vía única, se sitúa en el ferrocarril regional en el pk 11,019 de la línea de vía única Tábor – Bechyně, entre las estaciones de servicio D3 Malšice y Sudoměřice u Bechyně. El tráfico ferroviario se organiza mediante la denominada gestión simplificada del tráfico ferroviario. El paso a nivel ferroviario permite el cruce del ferrocarril con la vía local MK 24 en el término municipal del Městys Malšice, en la que, en las inmediaciones inmediatas del paso a nivel, desemboca la vía de servicio UK 2, por la que circuló el usuario de la vía pública, el conductor de un automóvil. El propietario de las vías públicas adyacentes es el Městys Malšice.
 
 ## Página 14
+
 
 Fig. n. 2: Esquema del lugar de origen del AM
     Fuente: DI
@@ -415,8 +420,8 @@ el tren Os 28422 estaba compuesto por la locomotora eléctrica CZ-ČD 91 54 7 11
 •
 el tren estaba señalizado con las señales «Inicio de tren» y «Fin de tren»;
 
-
 ## Página 15
+
 
 •
 la luz de posición izquierda del HDV en la parte delantera en el sentido de la marcha estaba apagada por daños en la parte frontal del tren debido a la colisión, el conmutador en la cabina del maquinista estaba en posición «Encendido»;
@@ -456,44 +461,43 @@ el OA se encontraba en la posición final tras el AM fuera de la vía pública, 
 el OA quedó considerablemente destruido por la colisión y el posterior impacto contra el poste de LC.
 Estado de la infraestructura y de la señalización vial:
 
-
 ## Página 16
 
 •
-el PFE P6309 estaba señalizado en ambos lados con señales verticales de advertencia A 32a «Cruz de advertencia para paso a nivel de vía única» en acabado reflectante sin resalte con fondo fluorescente retroreflectante amarillo-verde, colocadas siempre a la derecha en la vía pública;
+El paso a nivel ŽP P6309 estaba señalizado en ambos lados con señales de tráfico verticales de advertencia A 32a «Cruz de advertencia para paso a nivel de vía única» en acabado reflectante sin resaltado con fondo fluorescente retroreflectante amarillo-verde, colocadas siempre a la derecha en la vía pública;
 •
-además, por el lado de la confluencia de la vía de servicio en la vía local, se colocó en un poste común la «Cruz de advertencia para paso a nivel de vía única» en acabado reflectante sin resalte con fondo fluorescente retroreflectante amarillo-verde, para los usuarios del tráfico rodado que llegan por la vía de servicio;
+además, por el lado de la confluencia de la vía de servicio en la vía local, se había colocado en un poste común la «Cruz de advertencia para paso a nivel de vía única» en acabado reflectante sin resaltado con fondo fluorescente retroreflectante amarillo-verde, para los participantes en el tráfico rodado que llegan por la vía de servicio;
 •
-en las caras posteriores de las cruces de advertencia se colocaron adhesivos con la identificación del PFE con el número de identificación P6309;
+en las caras posteriores de las cruces de advertencia se habían colocado adhesivos con la identificación del paso a nivel con el número de identificación P6309;
 •
-las cruces de advertencia se situaban antes del PFE en la vía pública en el sentido de marcha del OA a la derecha a una distancia de 4,60 m del eje de la vía, y en el lado opuesto de la vía pública a la derecha a 4,15 m del eje de la vía;
+las cruces de advertencia estaban colocadas antes del paso a nivel en la vía pública en el sentido de circulación del vehículo de motor a la derecha, a una distancia de 4,60 m del eje de la vía; desde el lado opuesto de la vía pública, a la derecha, a 4,15 m del eje de la vía;
 •
-se midieron los valores de distancia de las señales verticales A 31a «Placa de señal» (240 m), A 31b «Placa de señal» (160 m) y A 31c «Placa de señal» (80 m) al paso a nivel P6309. Las placas de señal en el sentido de marcha desde la localidad de Čenkov estaban colocadas a las distancias A 31a 270 m (complementada con la señal de tráfico A 30 «Paso a nivel sin barreras»), A 31b 167 m, A 31c 81 m, y en el sentido de marcha desde la localidad de Malšice a las distancias A 31b 113 m (complementada con las señales de tráfico A 30 «Paso a nivel sin barreras» y E 3a «Distancia 120 m»), A 31c 81 m;
+se midieron los valores de las distancias de las señales de tráfico verticales A 31a «Placa de señalización» (240 m), A 31b «Placa de señalización» (160 m) y A 31c «Placa de señalización» (80 m) desde el paso a nivel P6309. Las placas de señalización en el sentido de circulación desde la localidad de Čenkov estaban colocadas a las distancias A 31a 270 m (complementada con la señal de tráfico A 30 «Paso a nivel sin barreras»), A 31b 167 m, A 31c 81 m, y en el sentido de circulación desde la localidad de Malšice a las distancias A 31b 113 m (complementada con las señales de tráfico A 30 «Paso a nivel sin barreras» y E 3a «Distancia 120 m»), A 31c 81 m;
 •
-la distancia de la señal «Pite» en el sentido de marcha del tren Os 28422, es decir, desde la estación de tráfico D3 Malšice, se midió en 394 m del PFE;
+la distancia de la señal «Pite» en el sentido de circulación del tren Os 28422, es decir, desde la estación de tráfico D3 Malšice, se midió en 394 m desde el paso a nivel;
 •
-la distancia de la señal «Pite» en el sentido de marcha desde la estación de tráfico D3 Sudoměřice u Bechyně se midió en 363 m del PFE;
+la distancia de la señal «Pite» en el sentido de circulación desde la estación de tráfico D3 Sudoměřice u Bechyně se midió en 363 m desde el paso a nivel;
 •
 la distancia del eje de la vía de servicio al eje de la vía se midió en 7 m;
 •
-la anchura de los paneles en la vía de servicio se midió en 3 m;
+el ancho de los paneles en la vía de servicio se midió en 3 m;
 •
-no se utilizó señalización horizontal en el PFE y el espacio del PFE no estaba monitorizado por sistema de cámaras;
+no se utilizó señalización horizontal en el paso a nivel y el espacio del paso a nivel no estaba monitorizado por un sistema de cámaras;
 •
-la longitud del paso a nivel se midió en 10,65 m, la anchura del paso a nivel en 5,06 m, la anchura de la vía del paso a nivel en 7,32 m;
+la longitud del paso a nivel se midió en 10,65 m, el ancho del paso a nivel en 5,06 m, el ancho de la vía del paso a nivel en 7,32 m;
 •
-la longitud constructiva de la estructura del paso a nivel era de 9,04 m;
+la longitud de construcción de la estructura del paso a nivel era de 9,04 m;
 •
-la distancia de la confluencia de la vía de servicio en la vía local desde el límite de la banda de peligro del PFE (2,5 m) se midió en 4,8 m;
+la distancia de la confluencia de la vía de servicio en la vía local desde el límite de la banda de peligro del paso a nivel (2,5 m) se midió en 4,8 m;
 •
-la longitud de visibilidad para la detención de Dz en el PFE P6309 en relación con el AM en cuestión, es decir, en el sentido de marcha del OA, era superior a 80 m (el valor prescrito para la vía de servicio en cuestión era de 15 m);
+la longitud de visibilidad para la detención de la señal de tráfico en el paso a nivel P6309 en relación con el vehículo de motor en cuestión, es decir, en el sentido de circulación del vehículo de motor, era mayor de 80 m (el valor prescrito para la vía de servicio en cuestión era de 15 m);
 •
-la longitud de visibilidad para la detención de Dz en el PFE P6309 en el sentido de marcha desde la localidad de Čenkov era superior a 80 m (el valor prescrito para la vía local en cuestión era de 20 m);
+la longitud de visibilidad para la detención de la señal de tráfico en el paso a nivel P6309 en el sentido de circulación desde la localidad de Čenkov era mayor de 80 m (el valor prescrito para la vía local en cuestión era de 20 m);
 •
-la longitud de visibilidad para la detención de Dz en el PFE P6309 en el sentido de marcha de los vehículos a motor desde la localidad de Malšice era superior a 80 m (el valor prescrito para la vía local en cuestión era de 20 m);
-
+la longitud de visibilidad para la detención de la señal de tráfico en el paso a nivel P6309 en el sentido de circulación de los vehículos rodados desde la localidad de Malšice era mayor de 80 m (el valor prescrito para la vía local en cuestión era de 20 m);
 
 ## Página 17
+
 
 •
 en los alrededores del PFE no había ningún obstáculo en la visibilidad del PFE en relación con el origen del AM;
@@ -535,8 +539,8 @@ automóvil marca Citroën Berlingo
 ### 3.1.5 Descripción de otras consecuencias, incluido el impacto del suceso en las actividades habituales de los sujetos implicados
 Como consecuencia del origen del AM, el 26. 10. 2022 se interrumpió el servicio entre las estaciones de tráfico D3 Malšice y Sudoměřice u Bechyně desde las 19:32 h hasta las 22:55 h.
 
-
 ## Página 18
+
 
 ### 3.1.6 Identificación de las personas, sus funciones y de los sujetos implicados
 Personas implicadas por:
@@ -578,8 +582,8 @@ el titular de todos los DV era ČD;
 el DV dañado en el AM está resaltado en amarillo.
 El estado real del tren Os 28422 constatado en el lugar del AM correspondía a la documentación del tren.
 
-
 ## Página 19
+
 
 El HDV 113.003-8 contaba con el Certificado de aptitud del vehículo ferroviario válido, n.º de ev.: PZ 2355/99-V.01, expedido por DÚ el 5. 1. 2022. La última revisión técnica periódica antes del origen del AM se realizó el 1. 5. 2022 con vigencia hasta el 1. 11. 2022, con el resultado de que el vehículo cumple las condiciones de explotación en las vías y está conforme a las Condiciones técnicas de la serie de HDV indicada.
 El HDV estaba equipado, en el momento del origen del AM, con un dispositivo de registro automático de datos – registrador de velocidad Metra n.º 72039.
@@ -605,6 +609,7 @@ El paso a nivel P6309, en el pk 11,019, era de vía única, tenía una anchura d
 Las cruces de advertencia en el sentido de marcha del OA se situaban en la vía pública – de servicio y, a continuación, tras su confluencia, también en la vía local, conforme a la norma ČSN 73 6380.
 
 ## Página 20
+
 
 La visibilidad de las cruces de advertencia en la dirección de circulación del VU fue constatada en más de 80 m. La norma ČSN 73 6380 establece el valor mínimo de dicha visibilidad para la vía de comunicación específica en 15 m. El valor de la pendiente de la vía local en la dirección de circulación del VU antes del PFE es, según la documentación del gestor de la vía, del 3,5 % de subida.
 
@@ -632,8 +637,8 @@ Maquinista del tren Os 28422
 ◦Partió con el tren Os 28422 de la estación de Malšice a la hora prevista (nota DI: la salida del tren Os 28422 de la estación de Malšice se produjo con un retraso de 2 min);
 ◦Desde la señal «Poste de advertencia» (es decir, desde la señal «Poste de advertencia para pasos a nivel» – señal «Pite» – nota DI) comenzó a dar repetidamente la señal «Atención»;
 
-
 ## Página 21
+
 
 ◦Registró a la izquierda, a lo largo de la vía, un vehículo en circulación que se detuvo antes del paso a nivel;
 ◦Por este motivo, comenzó a pitar de nuevo durante todo el tiempo en que el tren se aproximaba al paso a nivel (a dar la señal «Atención» – nota DI);
@@ -661,55 +666,49 @@ Testigos, pasajeros del tren Os 28422
 ### 3.2.1 Secuencia de hechos que condujeron al suceso excepcional
 El 26. 10. 2022 a las 19:27 h llegó el tren Os 28422 a la estación D3 Malšice, donde para este tren el horario tabular de circulación impone la obligación de notificación y el cruce con el tren en sentido contrario Os 28423. Según la conversación registrada en el dispositivo de registro ReDat3, el maquinista, conforme al art. 65 y al art. 67 de la normativa interna del gestor de la vía SŽ D3, comunicó al despachador director de la estación de Bechyně la hora de llegada a la estación y, tras el cruce
 
-
 ## Página 22
 
-con el tren Os 28423, solicitó el permiso para salir hacia la estación D3 Sudoměřice u Bechyně. El despachador director concedió al maquinista el permiso de salida.
-
-Tras la salida de la estación D3 Malšice, el maquinista, según su declaración, dio repetidamente la señal «Atención» durante la marcha hacia el PFE P6309. A la izquierda, en la vía que transcurre paralela a la vía férrea, registró un VU en circulación que se detuvo antes del paso a nivel. Continuó dando repetidamente la señal «Atención», y ello durante todo el tiempo en que el tren se aproximaba al paso a nivel.
-
-Cuando el tren Os 28422 en circulación, según la declaración del maquinista, se encontraba a corta distancia inmediata antes del paso a nivel P6309, el VU se puso de repente en marcha directamente frente a su morro, e incluso a pesar de que el maquinista seguía y repetidamente dando la señal «Atención», lo que también confirmaron los pasajeros del tren.
-
-El maquinista activó inmediatamente el frenado de emergencia; dada la velocidad de circulación del tren y la distancia inmediata al PFE, ya no pudo evitar el encuentro con el VU.
-
-Como consecuencia del encuentro del VU con la parte frontal izquierda del tren, el VU fue proyectado contra un poste de la línea de alimentación de tracción a la izquierda en la dirección de circulación del tren, giró aproximadamente 180° por el impacto y fue rebotado hacia la superficie herbácea junto a la vía férrea. No se produjo el descarrilamiento del tren Os 28422.
-### 3.2.2 Secuencia de hechos desde el suceso del MU hasta la finalización de las acciones de los servicios de emergencia
-•
-19:32 h‍
-suceso del MU
+s el tren Os 28423 solicitó el permiso de salida hacia la estación de maniobras D3 Sudoměřice u Bechyně.
+El jefe de circulación concedió al maquinista el permiso de salida.
+Tras salir de la estación de maniobras D3 Malšice, el maquinista, según su declaración, durante la marcha hacia el PPF P6309, daba repetidamente la señal de «Atención». A la izquierda, en la vía que transcurre paralela a la vía principal, registró un vehículo de carretera en marcha que se detuvo antes del paso a nivel. Continuó dando repetidamente la señal de «Atención», durante todo el tiempo que el tren se aproximaba al paso a nivel.
+Cuando el tren en circulación Os 28422, según la declaración del maquinista, se encontraba inmediatamente antes del paso a nivel P6309, el vehículo de carretera se puso en marcha de repente directamente frente a su morro, a pesar de que el maquinista seguía y repetidamente daba la señal de «Atención», lo que confirmaron también los pasajeros del tren.
+El maquinista aplicó de inmediato el frenado de emergencia; dada la velocidad de marcha del tren y la inmediata distancia al PPF, ya no pudo evitar la colisión con el vehículo de carretera.
+Como consecuencia de la colisión del vehículo de carretera con la parte frontal izquierda del tren, el vehículo de carretera fue proyectado contra un poste de la línea de alimentación de tracción a la izquierda en el sentido de marcha del tren, giró aproximadamente 180° por el impacto y fue rebotado sobre la superficie con hierba junto a la vía principal. No se produjo el descarrilamiento del tren Os 28422.
+### 3.2.2 Secuencia de hechos desde la producción del suceso hasta la finalización de las acciones de los servicios de emergencia
 •
 19:32 h
-el maquinista del tren Os 28422, tras detenerlo, aseguró la composición, informó al jefe de tren y comunicó el suceso del MU al despachador director de la estación de Bechyně;
+producción del suceso
+•
+19:32 h
+el maquinista del tren Os 28422, tras detenerlo, aseguró la composición, informó al jefe de tren y comunicó la producción del suceso al jefe de circulación en la est. Bechyně;
 •
 19:33 h
-el acompañante del tren (jefe de tren) Os 28422 comprobó si algún pasajero resultaba herido y, junto con los testigos en el lugar del suceso del MU, llamó al IZS e intentó prestar primeros auxilios al conductor del VU;
+el acompañante del tren (jefe de tren) Os 28422 comprobó si algún pasajero resultaba herido y, junto con los testigos en el lugar del suceso, llamó a los servicios de emergencia (IZS) e intentó prestar primeros auxilios al conductor del vehículo de carretera;
 •
-19:35 – 19:40 h el despachador director de la estación de Bechyně comunicó el suceso del MU conforme al Cuadro de Notificación establecido;
+19:35 – 19:40 h el jefe de circulación de la est. Bechyně comunicó la producción del suceso conforme al Cuadro de Comunicación establecido;
 •
 19:49 h
-la persona autorizada O18 SŽ comunicó el suceso del MU en el COP DI como encuentro del tren Os 28422 con un VU en el paso a nivel en cuestión, únicamente con lesiones al conductor del VU;
+la persona autorizada O18 SŽ comunicó la producción del suceso al COP DI como colisión del tren Os 28422 con un vehículo de carretera en el paso a nivel en cuestión, únicamente con heridas del conductor del vehículo de carretera;
 •
-20:17 – 23:15 h inspección del lugar del suceso del MU por empleados de SŽ y PČR;
+20:17 – 23:15 h inspección del lugar de producción del suceso por empleados de SŽ y PČR;
 •
-20:25 h‍
-la persona autorizada O18 SŽ precisó las consecuencias del MU (fallecimiento del conductor del VU) en el COP DI
+20:25 h
+la persona autorizada O18 SŽ precisó las consecuencias del suceso (fallecimiento del conductor del vehículo de carretera) en el COP DI
 •
-21:50 – 23:15 h‍ inspección del lugar del suceso del MU por un empleado de DI;
+21:50 – 23:15 h inspección del lugar de producción del suceso por un empleado de DI;
 •
 22:25 h
 el inspector de DI presente concedió el permiso para la liberación de la vía;
 •
 22:55 h
-reanudación de la explotación.
-
-El Plan IZS se activó en función de la naturaleza del MU. El Plan IZS fue activado a las 19:33 h, en primer lugar, por el jefe de tren junto con los testigos en el lugar del suceso del MU y, posteriormente, a las 19:35 h, es decir, 3 minutos después del suceso del MU, por el despachador director de la estación de Bechyně conforme al Cuadro de Notificación.
-
-En el lugar del suceso del MU intervinieron los siguientes componentes del IZS:
+restablecimiento de la explotación.
+El Plan IZS fue activado en función del carácter del suceso. El Plan IZS fue activado a las 19:33 h en primer lugar por el jefe de tren junto con los testigos del lugar de producción del suceso y, posteriormente, a las 19:35 h, es decir, 3 minutos después de la producción del suceso, por el jefe de circulación de la est. Bechyně conforme al Cuadro de Comunicación.
+En el lugar del suceso intervinieron los siguientes componentes del IZS:
 •
-PČR, Jefatura Regional de Policía de la Región de Bohemia del Sur, Distrito de Tábor, Inspección de Tráfico de Tábor;
-
+PČR, Jefatura de Policía de la Región de Bohemia Meridional, Distrito de Tábor, Inspección de Tráfico de Tábor;
 
 ## Página 23
+
 
 •
 PČR, Jefatura Regional de Policía de la Región de Bohemia del Sur, Distrito de Tábor, Departamento de Sección de Bechyně;
@@ -763,16 +762,16 @@ el valor Dp = 10,65 m, la longitud del vehículo más largo Ds = 22 m y la veloc
 ## Página 24
 
 | Valores establecidos L p |  | Valores comprobados L p |  |  |  |
-| a la derecha del inicio de la vía (est. Tábor . – sentido de circulación del OA y del tren Os 28422) | a la izquierda del final de la vía (desde est. Bechyně) . | a la derecha del inicio de la vía (est. Tábor . – sentido de circulación del OA y del tren Os 28422) | a la izquierda del final de la vía (desde est. Bechyně) . |  |  |
+| a la derecha del inicio de la vía (est. Tábor . – sentido de marcha de la OA y del tren Os 28422) | a la izquierda del final de la vía (desde est. Bechyně) . | a la derecha del inicio de la vía (est. Tábor . – sentido de marcha de la OA y del tren Os 28422) | a la izquierda del final de la vía (desde est. Bechyně) . |  |  |
 | 391 8 m , | 391 8 m , | más de 400 m |  | más de 450 m |  |
-### Condiciones de visibilidad en el PFP P6309 en el sentido de circulación de los vehículos terrestres desde la localidad de Malšice:
+### Condiciones de visibilidad en el PFP P6309 en el sentido de marcha de los vehículos rodados desde la localidad de Malšice:
 •
-la longitud de visibilidad para detener Dz era mayor de 80 m (el valor prescrito para
-la correspondiente vía local en relación con la pendiente longitudinal de la vía
+la longitud de visibilidad para detenerse Dz era superior a 80 m (el valor prescrito para
+la vía local correspondiente, en relación con la pendiente longitudinal de la vía
 terrestre en el tramo adyacente al paso a nivel s = -0,6 % es 20 m);
 longitudes de visibilidad Lr para la velocidad de la vía en los tramos adyacentes vž = 60 km·h-1
 •
-y la velocidad del vehículo terrestre vs = 30 km·h-1:
+y la velocidad del vehículo rodado vs = 30 km·h-1:
 Valores establecidos Lr
 Valores comprobados Lr
 a la derecha del final de la vía
@@ -789,23 +788,23 @@ más de 100 m
 más de 100 m
 longitudes de visibilidad Lp para la velocidad de la vía en los tramos adyacentes vž = 60 km·h-1,
 •
-el valor Dp = 10,65 m, la longitud del vehículo terrestre más largo Ds = 22 m y la velocidad
-del vehículo terrestre más lento vsn = 10 km·h-1:
+el valor Dp = 10,65 m, la longitud del vehículo rodado más largo Ds = 22 m y la velocidad
+del vehículo rodado más lento vsn = 10 km·h-1:
 | Valores establecidos L p |  | Valores comprobados L p |  |  |  |
 | a la derecha del final de la vía (desde est. Bechyně) . | a la izquierda del inicio de la vía (desde est. Tábor) . | a la derecha del final de la vía (desde est. Bechyně) . | a la izquierda del inicio de la vía (desde est. Tábor) . |  |  |
 | 195 9 m , | 195 9 m , | más de 400 m |  | más de 450 m |  |
-En la longitud de visibilidad Lr = 20 m a la derecha del final de la vía (desde est. Bechyně), en el cuadrante de circulación de los vehículos terrestres en el sentido desde la localidad de Malšice y de circulación del tren desde est. Bechyně, es decir, fuera de cualquier posible relación causal con la aparición del MU, en el extrarradio se situó en el campo de visibilidad hacia la vía un poste de línea de alta tensión, que estaba invadido en su base por matorral adventicio, que causaba una visibilidad parcialmente interrumpida de la vía en servicio. El explotador de la vía SŽ, tras la aparición del MU, se encargó de eliminar esta deficiencia.
-### Condiciones de visibilidad en el PFP P6309 en relación con el MU en cuestión, es decir, en el sentido de circulación
-## OA:
+En la longitud de visibilidad Lr = 20 m a la derecha del final de la vía (desde est. Bechyně), en el cuadrante de marcha de los vehículos rodados en el sentido desde la localidad de Malšice y de marcha del tren desde est. Bechyně, es decir, fuera de una posible relación causal con la aparición de la MU, se situó en el extrarradio, en el campo de visión hacia la vía, un poste de línea de alta tensión que estaba invadido en su base por arbustos adventicios, lo que provocaba una visibilidad parcialmente interrumpida de la vía en servicio. El explotador de la vía SŽ, tras la aparición de la MU, hizo eliminar esta deficiencia.
+### Condiciones de visibilidad en el PFP P6309 en relación con la MU en cuestión, es decir, en el sentido de marcha
+## de la OA:
 •
-la longitud de visibilidad para detener Dz era mayor de 80 m (el valor prescrito para
-la correspondiente vía de servicio en cuestión es 15 m);
+la longitud de visibilidad para detenerse Dz era superior a 80 m (el valor prescrito para
+la vía de servicio en cuestión es 15 m);
 longitudes de visibilidad Lr para la velocidad de la vía en los tramos adyacentes vž = 60 km·h-1
 •
-y la velocidad del vehículo terrestre vs = 30 km·h-1:
-
+y la velocidad del vehículo rodado vs = 30 km·h-1:
 
 ## Página 25
+
 
 Valores establecidos Lr
 Valores comprobados Lr
@@ -854,8 +853,8 @@ En la investigación no se detectó infracción de la normativa legal, de los re
 normas técnicas relativas a las funciones y obligaciones del explotador de la vía en relación causal
 con la aparición del MU.
 
-
 ## Página 26
+
 
 El transportista está, entre otros, obligado a garantizar que el maquinista conduzca el material rodante únicamente desde la posición desde la que existe la mejor visibilidad, normalmente desde la cabina delantera del maquinista en el sentido de circulación, que desde la cabina de mando del material rodante observe la vía y las señales y actúe conforme a los hechos comprobados, y que durante la circulación no supere la velocidad máxima permitida establecida en el horario de circulación o la velocidad limitada ordenada.
 En la investigación no se detectó infracción de la normativa legal, de los reglamentos internos y de las normas técnicas relativas a las funciones y obligaciones del transportista, tanto en relación causal como fuera de la relación causal con la aparición del MU.
@@ -870,8 +869,8 @@ En la investigación no se detectó infracción de las funciones y obligaciones 
 ### 4.1.5 Organismos notificados, organismos designados y organismos dedicados a la evaluación de riesgos
 En la investigación no se detectó infracción de las funciones y obligaciones de los organismos notificados, de los organismos designados y de los organismos dedicados a la evaluación de riesgos.
 
-
 ## Página 27
+
 
 ### 4.1.6 Organismos de certificación responsables del mantenimiento del material rodante
 En la investigación no se detectó infracción de las funciones y obligaciones de los organismos de certificación responsables del mantenimiento del material rodante.
@@ -897,8 +896,8 @@ En la investigación no se detectaron factores derivados de la construcción del
 4.2.2 Factores o consecuencias derivados de la instalación y puesta en servicio del material rodante, de la infraestructura ferroviaria o de las instalaciones técnicas
 En la investigación no se detectaron factores derivados de la instalación y puesta en servicio del material rodante, de la infraestructura ferroviaria o de las instalaciones técnicas.
 
-
 ## Página 28
+
 
 ### 4.2.3 Factores o consecuencias relacionados con los fabricantes de material rodante u otros proveedores de productos ferroviarios
 En la investigación no se detectaron factores relacionados con los fabricantes de material rodante u otros proveedores de productos ferroviarios.
@@ -922,57 +921,59 @@ El conductor del OA fue advertido en el PFP P6309 mediante señales de tráfico 
 
 ## Página 29
 
-v sintonía con las normas de tráfico para la circulación en las vías públicas y, en el momento de la inspección tras la ocurrencia de la MU, sin daños y bien visibles.
+en cumplimiento de las normas de tráfico para la circulación en las vías públicas y, en el momento de la inspección tras la producción del MU, sin daños y bien visibles.
 La Inspección Ferroviaria midió los valores de las distancias de las señales de tráfico verticales A 31a «Placa de señalización» (240 m), A 31b «Placa de señalización» (160 m) y A 31c «Placa de señalización» (80 m) desde el paso a nivel P6309. Las placas de señalización en el sentido de la marcha desde la localidad de Čenkov estaban situadas a las distancias A 31a = 270 m, A 31b = 167 m, A 31c = 81 m y en el sentido de la marcha desde la localidad de Malšice a las distancias A 31b = 113 m y A 31c = 81 m..
 ### Hallazgos:
-En la investigación se constató una infracción de la normativa legal relativa a las funciones y obligaciones del propietario
-### de la vía local, al margen de la relación causal con la ocurrencia de la MU:
+En la investigación se constató el incumplimiento de las disposiciones legales relativas a las funciones y obligaciones del propietario
+### de la vía local, al margen de la relación causal con la producción del MU:
 •
 Anexo n.º 1 del decreto n.º 294/2015 Sb.:
 «A 31a Placa de señalización (240 m). La señal se coloca a una distancia de 240 m antes del paso a nivel al que advierte;
 A 31b Placa de señalización (160 m). La señal se coloca a una distancia de 160 m antes del paso a nivel al que advierte;
 A 31c Placa de señalización (80 m). La señal se coloca a una distancia de 80 m antes del paso a nivel al que advierte»;
 ### 4.4 Mecanismos de retroalimentación y mecanismos de control, incluida la gestión de riesgos
-y el aseguramiento de la seguridad, y procedimientos de seguimiento
+y el aseguramiento de la seguridad, y los procedimientos de seguimiento
 ### 4.4.1 Condiciones pertinentes del marco regulatorio
 Las condiciones pertinentes del marco regulatorio están establecidas en los Reglamentos de la Unión Europea, en la ley n.º 266/1994 Sb. y en los decretos de aplicación.
-4.4.2 Procedimientos, métodos, contenido y resultados de las actividades de evaluación de riesgos y seguimiento, que
+4.4.2 Procedimientos, métodos, contenido y resultados de las actividades de evaluación de riesgos y seguimiento que
 realiza cualquiera de los sujetos implicados
-En los procedimientos, métodos, contenido y resultados de las actividades de evaluación de riesgos y seguimiento, relacionados con las circunstancias de la ocurrencia de la MU en cuestión, no se detectaron deficiencias.
+En los procedimientos, métodos, contenido y resultados de las actividades de evaluación de riesgos y seguimiento,
+relacionados con las circunstancias de la producción del MU en cuestión, no se detectaron deficiencias.
 ### 4.4.3 Sistema de aseguramiento de la seguridad de los transportistas y gestores de infraestructura implicados
-En el sistema de seguridad del gestor de la infraestructura y en el sistema de aseguramiento de la seguridad del transporte ferroviario del transportista, relacionados con las circunstancias de la ocurrencia de la MU en cuestión, no se detectaron deficiencias.
+En el sistema de seguridad del gestor de infraestructura y en el sistema de aseguramiento de la seguridad del transporte ferroviario del transportista,
+relacionados con las circunstancias de la producción del MU en cuestión, no se detectaron
+deficiencias.
 ### 4.4.4 Sistema de gestión de los sujetos responsables del mantenimiento de los vehículos ferroviarios
 y de los talleres de mantenimiento
-El sistema de gestión de los sujetos responsables del mantenimiento de los vehículos ferroviarios y de los talleres de mantenimiento no guardaba relación con la ocurrencia de la MU.
-
+El sistema de gestión de los sujetos responsables del mantenimiento de los vehículos ferroviarios y de los talleres de mantenimiento
+no guardaba relación con la producción del MU.
 
 ## Página 30
 
 ### 4.4.5 Resultados de la supervisión realizada por las autoridades nacionales de seguridad
-La Inspección Ferroviaria solicitó a la Oficina Ferroviaria el envío de la información indicada a continuación, en relación con la ocurrencia de la excepcionalidad en cuestión:
+La Inspección Ferroviaria solicitó a la Oficina Ferroviaria el envío de la información indicada a continuación, en relación con la ocurrencia de la excepcionalidad objeto de este asunto:
 •
 envío de todas las medidas que la Oficina Ferroviaria ya haya adoptado o tomado en relación con la excepcionalidad mencionada anteriormente;
 •
-número y resultados de las inspecciones estatales realizadas que la Oficina Ferroviaria llevó a cabo en el paso a nivel P6309, con especial atención al estado constructivo-técnico de dicho paso a nivel, en el período comprendido entre el 1. 1. 2020 y el 26. 10. 2022.
-La Oficina Ferroviaria, en respuesta a la solicitud de la DI, comunicó que en el período del 1. 1. 2020 al 26. 10. 2022 no realizó ninguna inspección estatal en el paso a nivel P6309 centrada en su estado constructivo-técnico.
-Asimismo, en el período indicado no adoptó ninguna medida concreta destinada específicamente a dicho paso a nivel, más allá de su actividad ordinaria.
-### 4.4.6 Aprobaciones, certificados y informes de evaluación emitidos por la agencia, las autoridades nacionales de seguridad u otros sujetos de evaluación de la conformidad
-El gestor de la infraestructura operó la infraestructura sobre la base de una autorización administrativa vigente y de un certificado de seguridad del gestor de la infraestructura. El transportista operó el transporte ferroviario sobre la base de una licencia vigente y de un certificado del transportista.
+número y resultados de las inspecciones estatales realizadas que la Oficina Ferroviaria haya efectuado en el paso a nivel P6309, con especial atención al estado constructivo-técnico de dicho paso a nivel, en el período comprendido entre el 1. 1. 2020 y el 26. 10. 2022.
+La Oficina Ferroviaria comunicó a la DI, en respuesta a la solicitud, que en el período del 1. 1. 2020 al 26. 10. 2022 no había realizado ninguna inspección estatal en el paso a nivel P6309 centrada en su estado constructivo-técnico. Asimismo, en el período indicado no había adoptado medidas concretas específicamente destinadas a dicho paso a nivel, más allá de su actividad ordinaria.
+### 4.4.6 Aprobaciones, certificados e informes de evaluación emitidos por la agencia, las autoridades nacionales de seguridad u otros organismos de evaluación de la conformidad
+El gestor de la infraestructura ferroviaria explotaba la infraestructura en virtud de una autorización administrativa vigente y de un certificado de seguridad del gestor de la infraestructura ferroviaria. El operador ferroviario explotaba el transporte ferroviario en virtud de una licencia vigente y de un certificado del operador.
 ### 4.4.7 Otros factores sistémicos
-En la investigación no se detectaron otros factores sistémicos.
+En el curso de la investigación no se detectaron otros factores sistémicos.
 ### 4.5 Sucesos anteriores de naturaleza similar
-La DI registra en el período comprendido entre el 1. 1. 2008 y la ocurrencia de la MU en cuestión, en la red ferroviaria de ámbito estatal y regional, un total de 964 casos similares (colisión de trenes con vehículos automotores en pasos a nivel protegidos únicamente por cruces de advertencia), en los que fallecieron 64 personas, 385 personas resultaron lesionadas y se produjo un daño por un importe de 226 934 079 Kč.
-En el paso a nivel P6309 la DI registra en el período observado un total de 3 MU similares:
+La DI registra, en el período comprendido entre el 1. 1. 2008 y la ocurrencia de la excepcionalidad objeto de este asunto, en las infraestructuras ferroviarias de ámbito nacional y regional, un total de 964 casos análogos (colisión de un tren con vehículos automotores en pasos a nivel protegidos únicamente por cruces de advertencia), en los que resultaron fallecidas 64 personas, 385 personas resultaron lesionadas y se produjo un daño por importe de 226 934 079 Kč.
+En el paso a nivel P6309, la DI registra, en el período observado, un total de 3 excepcionalidades análogas:
 •
-del 30. 6. 2021, cuando se produjo la colisión del tren Slu 54369 con un automóvil. En la MU no se produjeron lesiones. El daño total se valoró en 102 332 Kč;
+del 30. 6. 2021, en que se produjo la colisión del tren Služ 54369 con un automóvil. En la excepcionalidad no se produjeron lesiones. El daño total se cifró en 102 332 Kč;
 •
-del 7. 10. 2016, cuando se produjo la colisión del tren Os 28414 con un automóvil. En la MU se produjeron lesiones en la conductora del automóvil y el daño total se valoró en 68 695 Kč;
+del 7. 10. 2016, en que se produjo la colisión del tren Os 28414 con un automóvil. En la excepcionalidad se produjeron lesiones en la conductora del automóvil y el daño total se cifró en 68 695 Kč;
 •
-del 28. 12. 2012, cuando se produjo la colisión del tren Os 28412 con un automóvil. En la MU no se produjeron lesiones. El daño total se valoró en 14 960 Kč.
-La DI ha recomendado repetidamente desde el año 2012 al gestor de la infraestructura SŽ (anteriormente SŽDC), con el fin de garantizar la máxima seguridad en las vías ferroviarias de ámbito estatal y regional, que se eleve el nivel de protección de los pasos a nivel de modo que, en las reconstrucciones y modernizaciones de líneas y pasos a nivel, ya se proyectara e instalara únicamente equipo de protección de paso a nivel luminoso complementado con barreras
-
+del 28. 12. 2012, en que se produjo la colisión del tren Os 28412 con un automóvil. En la excepcionalidad no se produjeron lesiones. El daño total se cifró en 14 960 Kč.
+La DI ha recomendado reiteradamente, desde el año 2012, al gestor de la infraestructura ferroviaria SŽ (anteriormente SŽDC), con el fin de garantizar la máxima seguridad en las infraestructuras ferroviarias de ámbito nacional y regional, que se eleve el nivel de protección de los pasos a nivel, de modo que, en las reconstrucciones y modernizaciones de líneas y pasos a nivel, ya se proyecte e instale únicamente equipamiento de protección de paso a nivel luminoso complementado con barreras
 
 ## Página 31
+
 
 de cierre. La DI, al mismo tiempo, mediante estas recomendaciones de seguridad, recomendó a la Oficina Ferroviaria que adoptara sus propias medidas encaminadas a garantizar la realización de las recomendaciones de seguridad mencionadas anteriormente también en los demás gestores de infraestructuras ferroviarias en la República Checa. Desde el 1. 4. 2017, cuando entró en vigor la enmienda a la ley n.º 266/1994 Sb., las recomendaciones de seguridad de carácter similar se dirigieron, de conformidad con el § 53e de la ley n.º 266/1994 Sb., únicamente a la Oficina Ferroviaria. El motivo para emitir estas recomendaciones fue el hecho de que las colisiones con vehículos automotores con las consecuencias más graves se producen históricamente en los pasos a nivel protegidos por equipo de protección de paso a nivel sin barreras, mientras que históricamente, desde el punto de vista de la siniestralidad y de las consecuencias, el tipo de protección de pasos a nivel más favorable es precisamente el equipo de protección de paso a nivel complementado con barreras de cierre. SŽ (anteriormente SŽDC) reaccionó a estas recomendaciones, entre otros, de la siguiente manera: «en caso de sustitución de los PZM existentes (equipo de protección de paso a nivel mecánico – nota de la DI) y PZS (equipo de protección de paso a nivel luminoso – nota de la DI) por tecnología moderna, en el diseño se priorizará la construcción de equipos de protección de paso a nivel con barreras, siempre que no lo impidan obstáculos técnicos u operativos significativos. La instalación de un equipo de protección de paso a nivel concreto respetará siempre la decisión vigente de la Oficina Ferroviaria sobre el alcance y el modo de protección del paso a nivel».
 La Oficina Ferroviaria, entre otras, envió como medida la siguiente declaración: «La Oficina Ferroviaria, como autoridad administrativa ferroviaria, recomienda así permanentemente a la Administración de la Infraestructura Ferroviaria, como gestor de la infraestructura, que incluya en la mayor medida posible en el plan de inversiones la dotación de barreras de cierre a los equipos de protección de paso a nivel luminosos existentes. Deberían ser prioritarios los pasos a nivel con alto volumen de tráfico y con excepcionalidades recurrentes».
@@ -992,8 +993,8 @@ an unauthorized entrance of the car at the level crossing No. P6309 at the time
 when the train No. 28422 was arriving, caused by behavior of the driver of the car,
 who did not make sure whether he could safely pass the level crossing.
 
-
 ## Página 32
+
 
 Contributing factor: none.
 Systemic factor:
@@ -1024,6 +1025,7 @@ En el gestor de la infraestructura SŽ:
 visión parcialmente interrumpida de la infraestructura operada (un mástil de línea de alta tensión invadido por vegetación en su base) en una longitud de visibilidad Lr = 20 m en el cuadrante de circulación de vehículos automotores en el sentido desde la localidad de Malšice y de circulación de vehículos ferroviarios desde la estación D3 Sudoměřice u Bechyně. El gestor de la infraestructura SŽ, tras la ocurrencia de la MU, garantizó la eliminación de esta deficiencia;
 
 ## Página 33
+
 
 •
 la señal de advertencia con la indicación «¡Silbí!» en el sentido de circulación de los vehículos ferroviarios desde el punto de explotación D3 Sudoměřice u Bechyně estaba situada, en contra de la normativa aplicable, a una distancia insuficiente del paso a nivel P6309. El gestor de la infraestructura SŽ, tras la producción del SU, garantizó la eliminación de esta deficiencia.
@@ -1056,8 +1058,8 @@ A la autoridad administrativa de carreteras de la Oficina Municipal de Tábor y 
 •
 la orientación de los usuarios de la vía pública mediante la instalación del dispositivo de tráfico Z 4a Placa direccional con bandas inclinadas hacia la izquierda, complementada con los llamados bloques delta para desplazar físicamente el punto de confluencia de la vía de servicio hacia la vía local a una mayor distancia del paso a nivel P6309, creando así la posibilidad de visión de los usuarios de la vía de servicio sobre la línea férrea regional y también hacia la derecha en el sentido de su circulación hacia el paso a nivel;
 
-
 ## Página 34
+
 
 •
 la eventual incorporación de otra señalización vial delante del paso a nivel P6309 que conduzca a aumentar la seguridad y, por tanto, a reducir las posibilidades de producción de sucesos extraordinarios en el citado paso a nivel.
@@ -1083,8 +1085,8 @@ inspector
 Inspección Territorial de Bohemia
 Inspección Territorial de Bohemia
 
-
 ## Página 35
+
 
 ## ANEXOS
 

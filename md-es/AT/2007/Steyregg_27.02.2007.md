@@ -10,13 +10,14 @@ chars: 15248
 ratio_longitud: 1.09
 tokens_in: 6314
 tokens_out: 4564
-verificacion: revisar
 fecha_proceso: 2026-11-18
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-avisos: ["página 6: ratio 0.61"]
+verificacion: ok
 notas_cifras: ["página 7: original bilingüe: se compara contra el idioma principal (DE)", "página 10: original bilingüe: se compara contra el idioma principal (DE)"]
 ---
+
 ## Página 1
+
 
 República de Austria
 Ministerio Federal
@@ -36,8 +37,8 @@ Lohnergasse 9, A-1210 Viena
 Tel.: +43(0)1-27760-7500, Fax: +43(0)1-27760-9298, email: uus-schiene@bmvit.gv.at
 Página 1 de 13
 
-
 ## Página 2
+
 
 ### Índice de contenidos
 |  | Índice de abreviaturas | 2 |
@@ -72,8 +73,8 @@ Z Tren
 ### Suceso
 ### Admisión no autorizada del tren 3870 en un tramo de vía ocupado
 
-
 ## Página 3
+
 
 ### 1. Resumen
 El 27 de febrero de 2007 a las 15:43 horas, en la estación de Steyregg, se admitió sin autorización el tren Z 3870 (ocupado por 80 viajeros) en el tramo de vía (vía 1) ocupado por el tren Z 44507 detenido, produciéndose una aproximación entre ambos movimientos de unos 70 m.
@@ -93,8 +94,8 @@ Z 44507
 ### 4. Condiciones meteorológicas, visibilidad
 • + 6°C, lluvia ligera, no existían restricciones de visibilidad debidas a las condiciones meteorológicas.
 
-
 ## Página 4
+
 
 ### 5. Composición de los movimientos implicados
 • R 3870 (tren regional de la empresa ferroviaria RU ÖBB-Personenverkehr AG)
@@ -142,21 +143,20 @@ Porcentaje de frenado disponible 74 %
 Frenado continuo y suficiente
 -
 
-
 ## Página 5
+
 
 ### 6. Particularidades locales
 El lugar del incidente se encuentra en el punto kilométrico 5,891 de la línea ÖBB 22101, electrificada y de vía única, desde Linz Hbf hasta la frontera estatal hacia Summerau-(Horni Dvoriste), en la estación de Steyregg, a la altura del desvío 2.
 La gestión de la explotación se realiza con señalización completa conforme a las directrices de la instrucción de servicio ÖBB DV V 2 ("Instrucción de señales") y según las disposiciones de la instrucción de servicio ÖBB DV V 3 ("Instrucción de explotación"). La estación de Steyregg está dotada de un enclavamiento central mecánico tipo 5007 con desvíos eléctricos y adicionalmente con un panel de control de teclas pulsantes.
 
-
 ## Página 6
 
-Enclavamiento central mecánico tipo 5007 con desvíos eléctricos
-Panel de control de teclas pulsantes adicional
-
+Enclavamiento mecánico central del tipo 5007 con desvíos eléctricos 
+                                                  Pupitre de pulsadores adicional
 
 ## Página 7
+
 
 En el área del suceso son determinantes las siguientes velocidades:
 Z 3870
@@ -174,6 +174,7 @@ o Señal de salida H 1 – "Parada"
 
 ## Página 8
 
+
 ## 7. 
 ### Descripción del incidente 
 El tren Z 44507 estaba detenido, según acuerdo con la estación de Linz Vbf, en la estación de Steyregg, vía 1, para realizar un cruce con el tren Z 3870. A continuación, se estableció una ruta de circulación apta por señal (entrada) para el tren Z 3870 —procedente de la estación de Linz Vbf— sobre la vía libre 3. Al mismo tiempo, se estableció también una ruta de circulación apta por señal (entrada) para el tren locomotora 38566 (RU ÖBB-Traktion GmbH), que se aproximaba desde la estación de St. Georgen / Gusen, sobre la vía libre 2. 
@@ -190,10 +191,10 @@ Cierre de la línea 22101 hasta las 18:45 horas
 • 
 Se organizó un servicio sustitutivo por carretera para los trenes de cercanías y regionales 
 • 
-La dependencia de señales en la estación de Steyregg estuvo suprimida hasta las 22:45 horas 
-
+La dependencia de señales en la estación de Steyregg estuvo suprimida hasta las 22:45 horas
 
 ## Página 9
+
 
 ### 9. Personal implicado y contratistas, así como otros participantes y testigos 
 • 
@@ -218,28 +219,28 @@ Velocidad desarrollada, antes de iniciar un frenado de emergencia, 40 km/h
 Preformateos de contadores de ejes 
 Los valores registrados de todos los preformateos de contadores de ejes de la estación de Steyregg fueron comparados por la sección UUS con los valores de los contadores de ejes del equipo de seguridad. 
 Resultado: 
-Todos los valores de los contadores de ejes del equipo de seguridad coinciden con los valores registrados en los preformateos de contadores de ejes. 
-
+Todos los valores de los contadores de ejes del equipo de seguridad coinciden con los valores registrados en los preformateos de contadores de ejes.
 
 ## Página 10
+
 
 • 
 Equipo de seguridad 
 El equipo de seguridad fue inspeccionado en presencia de la sección UUS por personal de mantenimiento especializado en seguridad de ÖBB-Infrastruktur Betrieb AG. 
 Resultado: 
 o Desgaste mecánico del electroimán de bloqueo de ruta «A/H» 
-o En el circuito de cancelación, incluida la iluminación asociada, se constató un funcionamiento correcto 
-
+o En el circuito de cancelación, incluida la iluminación asociada, se constató un funcionamiento correcto
 
 ## Página 11
+
 
 Electroimán de bloqueo de ruta 
 • 
 Declaración de la estación de Steyregg 
-Se mantuvo una conversación con la estación de Linz Vbf sobre el cruce del tren Z 44507 con el tren Z 3870 en la estación de Linz Vbf. Cuando el tren Z 44507 se aproximaba procedente de la estación de St. Georgen (antes aún de la señal de bloqueo automático «Sy 1»), se fijó en el equipo de seguridad un paso directo por la vía 1 (se maniobraron las palancas de ruta de la señal de entrada «Z» y de la señal de salida «H»). La señal de entrada «Z» fue liberada. Después, la estación de Linz Vbf contactó y preguntó si sería posible realizar el cruce del tren Z 3870 con el tren Z 44507 en la estación de Steyregg. La estación de Steyregg aceptó y canceló mediante cancelación auxiliar de ruta la ruta ya fijada para la salida. Desde la estación de St. Georgen se aproximaba el tren locomotora 38566 y desde la estación de Linz Vbf el tren Z 3870. Se estableció una entrada para el tren locomotora 38566 sobre la vía 2. Para el tren Z 3870 se estableció una entrada sobre la vía 3. El tren locomotora 38566 entró en la vía 2 y aproximadamente al mismo tiempo se produjo la entrada del tren Z 3870 en la vía 3. Se esperó en el equipo de seguridad a la cancelación de la ruta para el tren Z 3870 y cuando parpadeó el indicador de fijación de ruta (entrada cancelada) se devolvió la palanca de ruta. A continuación, se colocó la aguja 1 en posición directa y se fijó una salida para el tren Z 44507 desde la vía 1. Cuando se intentó liberar la señal de salida, se observó una iluminación roja en la aguja 1 y se procedió a una comprobación visual. 
-
+Se mantuvo una conversación con la estación de Linz Vbf sobre el cruce del tren Z 44507 con el tren Z 3870 en la estación de Linz Vbf. Cuando el tren Z 44507 se aproximaba procedente de la estación de St. Georgen (antes aún de la señal de bloqueo automático «Sy 1»), se fijó en el equipo de seguridad un paso directo por la vía 1 (se maniobraron las palancas de ruta de la señal de entrada «Z» y de la señal de salida «H»). La señal de entrada «Z» fue liberada. Después, la estación de Linz Vbf contactó y preguntó si sería posible realizar el cruce del tren Z 3870 con el tren Z 44507 en la estación de Steyregg. La estación de Steyregg aceptó y canceló mediante cancelación auxiliar de ruta la ruta ya fijada para la salida. Desde la estación de St. Georgen se aproximaba el tren locomotora 38566 y desde la estación de Linz Vbf el tren Z 3870. Se estableció una entrada para el tren locomotora 38566 sobre la vía 2. Para el tren Z 3870 se estableció una entrada sobre la vía 3. El tren locomotora 38566 entró en la vía 2 y aproximadamente al mismo tiempo se produjo la entrada del tren Z 3870 en la vía 3. Se esperó en el equipo de seguridad a la cancelación de la ruta para el tren Z 3870 y cuando parpadeó el indicador de fijación de ruta (entrada cancelada) se devolvió la palanca de ruta. A continuación, se colocó la aguja 1 en posición directa y se fijó una salida para el tren Z 44507 desde la vía 1. Cuando se intentó liberar la señal de salida, se observó una iluminación roja en la aguja 1 y se procedió a una comprobación visual.
 
 ## Página 12
+
 
 • 
 Declaración del tren Z 3870 
@@ -260,6 +261,7 @@ Viena, a 13 de septiembre de 2007
 Peter Nowak e.h.
 
 ## Página 13
+
 
 ### Anexo 1: Observaciones recibidas
 | Organismo / Persona | Número de referencia externa | Fecha de recepción - |

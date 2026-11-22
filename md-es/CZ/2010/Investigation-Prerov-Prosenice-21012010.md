@@ -10,13 +10,14 @@ chars: 134656
 ratio_longitud: 1.22
 tokens_in: 71149
 tokens_out: 48027
-verificacion: revisar
-notas_cifras: ["bloque 1: original bilingüe: se compara contra el idioma principal (EN)", "bloque 2: original bilingüe: se compara contra el idioma principal (CS)", "bloque 4: original bilingüe: se compara contra el idioma principal (CS)", "bloque 6: original bilingüe: se compara contra el idioma principal (CS)", "bloque 8: original bilingüe: se compara contra el idioma principal (CS)", "bloque 10: original bilingüe: se compara contra el idioma principal (CS)"]
-avisos: ["bloque 4: ratio 1.75", "bloque 8: ratio 1.69"]
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 5: original bilingüe: se compara contra el idioma principal (EN)", "página 6: original bilingüe: se compara contra el idioma principal (PT)", "página 7: original bilingüe: se compara contra el idioma principal (CS)", "página 9: original bilingüe: se compara contra el idioma principal (CS)", "página 11: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 Inspección Ferroviaria
 República Checa
@@ -42,11 +43,12 @@ NIF:   75009561
 http://www.dicr.cz
 fax: (+420) 224 805 428
 
-
 ## Página 2
 
 
+
 ## Página 3
+
 
 # RESUMEN
 Grado:
@@ -72,8 +74,8 @@ Consecuencias:
 sin fallecidos ni heridos
 coste total 4 140 292,33 CZK,-
 
-
 ## Página 4
+
 
 |  | Informe sobre los resultados de la investigación de las causas y circunstancias del origen de la excepcionalidad |
 | Causa directa: | tecnología del material rodante (avería técnica, componentes ausentes en el bogie) – - |
@@ -81,8 +83,8 @@ coste total 4 140 292,33 CZK,-
 | Causa raíz: | ninguna |
 Recomendaciones: no emitidas
 
-
 ## Página 5
+
 
 # Índice
  Resumen .........................................................................................................................3
@@ -127,6 +129,7 @@ relación contractual ..........................................................
 
 ## Página 6
 
+
 3.1.2 Otras personas .........................................................................................................17
 3.2 Sistema de garantía de la seguridad ...............................................................................17
 3.2.1 Organización marco y forma en que se emiten y aplican las instrucciones .......17
@@ -156,10 +159,10 @@ aplicación ....................................................................
 4.1.1 Descripción definitiva del suceso excepcional basada en los hechos constatados en el punto 3 
 ............................................................................................................................34
 4.2 Examen ......................................................................................................................35
-4.2.1 Evaluación de los hechos constatados de acuerdo con el punto 3 y formulación de conclusiones sobre la causa 
-
+4.2.1 Evaluación de los hechos constatados de acuerdo con el punto 3 y formulación de conclusiones sobre la causa
 
 ## Página 7
+
 
 del suceso excepcional y la actuación de los servicios de emergencia ..........................................35
 4.3 Conclusiones .......................................................................................................................38
@@ -182,6 +185,7 @@ Nex 46723) del TDV Laekks 43 83 4254 362-8. ....................................
  7. 2 Anexo 4 de la norma UIC 510-1 .................................................................................43
 
 ## Página 8
+
 
 ## 1 RESUMEN
 Clasificación del suceso:
@@ -208,8 +212,8 @@ no fueron determinadas por la Inspección Ferroviaria
 Recomendaciones de seguridad:
 no emitidas por la Inspección Ferroviaria
 
-
 ## Página 9
+
 
 ## 2 DATOS RELATIVOS AL SUCESO
 ## 2.1
@@ -219,8 +223,8 @@ El suceso en el transporte ferroviario (en adelante MU) se produjo el 21/01/2010
 ### 2.1.2 Descripción del suceso y del lugar del accidente, incluida la actuación del sistema integrado de emergencias y del servicio de rescate
 El tren Nex 46723 partió, tras realizar una prueba simple de freno, de la estación de paso fronterizo (en adelante PPS) Břeclav el 21/01/2010 a las 22:41 h. La circulación del tren entre las est. Břeclav y Přerov transcurrió sin incidencias. La salida del tren Nex 46723 de la est. Přerov hacia la 2.ª vía de circulación en dirección a Prosenice fue autorizada por la señal de autorización emitida por la señal de salida S2. El maquinista puso el tren en movimiento a las 23:51:30 h. Durante la circulación en el tramo Přerov – Prosenice, al circular por la 2.ª vía de circulación, se produjo en el pk 186,780 el descarrilamiento del 3.er eje del vehículo ferroviario remolcado (en adelante TDV) Laekks 43 83 4254 362-8, enganchado como el 13.º TDV tras el vehículo ferroviario de tracción (en adelante HDV), sin desacople de la composición del tren. El tren con el TDV descarrilado continuó su marcha hasta
 
-
 ## Página 10
+
 
 el momento de la fuga de aire de la tubería del freno automático de vacío continuo, tras lo cual se produjo la parada automática del tren. El tren se detuvo con la cabeza en el pk 188,536. El maquinista del tren en cuestión informó de la situación al jefe de maniobras IIB del Centro de Control Centralizado (en adelante CDP) de Přerov, del que supo que desde la est. Prosenice circularía por la vía de circulación contigua el tren de locomotoras Lv 72702, cuyo maquinista estaba informado de la situación operativa del tren Nex 46723. Posteriormente, el maquinista del tren de locomotoras informó al maquinista del tren Nex 46723 de que, aproximadamente en el 6.º TDV desde la cola del tren Nex 46723, parecía existir una manguera de acoplamiento rota en la tubería del freno automático de vacío continuo. Del supervisor de ČD Cargo, a. s. (en adelante ČDC, a. s.), Unidad Operativa (en adelante PJ) Olomouc, Centro de Trabajo Operativo (en adelante PP) Přerov, el maquinista del tren Nex 46723 recibió la información de que hasta el lugar se desplazaría desde la est. Přerov en forma de maniobra entre instalaciones (en adelante PMD) el HDV con personal cualificado para realizar la inspección del tren (en adelante jefe de tren) de ČDC, a. s. El PMD partió de la est. Přerov hacia la 2.ª vía de circulación en dirección a Prosenice a las 01:00 h. Tras la llegada de los jefes de tren al lugar y la inspección posteriormente realizada, el maquinista del tren Nex 46723 recibió, a través de la radio de a bordo, la información de que 1 TDV del tren estaba descarrilado por un eje.
 El lugar del descarrilamiento es el pk 186,780.
@@ -247,13 +251,13 @@ La arandela de ajuste ausente (altura de la arandela sin asiento 35 mm, diámetr
 
 ## Página 11
 
-Mediante el examen del lugar de origen del MU, el punto "0", es decir, la primera huella tras el descarrilamiento, se fijó en el pk 186,780, en el punto donde el borde de la rueda izquierda del tercer bogie del TDV Laekks n.º 43 83 4254 362-8 dejó una huella de haber circulado por la cabeza del raíl de la banda izquierda de la vía. A una distancia de 3,5 m del punto "0", la rueda izquierda descendió hacia la izquierda (hacia fuera) de la banda izquierda de la vía de la vía nº 2. La rueda derecha de este bogie descendió de la cabeza del raíl de la banda derecha hacia la izquierda en dirección al eje de la vía nº 2, también a una distancia de 3,5 m del punto "0". Las huellas de descarrilamiento de ambas ruedas del tercer bogie continuaron en la dirección de la marcha del tren Nex 46723 hacia la estación de Prosenice, con las huellas dejadas por las ruedas en los tornillos de sujeción, abrazaderas, placas de asiento, traviesas de hormigón y balasto, hasta el punto de parada del TDV descarrilado en el pk 188,175. En el punto "0" se constató una buena retención y integridad de los elementos de fijación del superestructura ferroviaria, es decir, los raíles de la banda derecha e izquierda de la vía, de perfil R 65, estaban correctamente fijados a las traviesas de hormigón de perfil SB 8, mediante abrazaderas de perfil ŽS 4, tornillos de sujeción y espigas.
-En el lugar del MU intervinieron los servicios del Sistema Integrado de Emergencia (en adelante IZS), el Servicio de Bomberos y Rescate de la Administración de la Infraestructura Ferroviaria de Transporte, organización estatal (en adelante HZS SŽDC, s. o.), Přerov y HZS SŽDC, s. o., Olomouc.
-2.1.3 Decisión de iniciar la investigación de las causas y circunstancias del origen, composición del equipo de personas cualificadas y forma de dirección de la investigación de las causas y circunstancias del origen
+Mediante el examen del lugar de origen del MU, el punto "0", es decir, la primera huella tras el descarrilamiento, se fijó en el pk 186,780, en el punto donde el borde de la rueda izquierda del tercer bogie TDV Laekks n.º 43 83 4254 362-8 dejó una huella de circulación por la cabeza del riel del carril izquierdo. A una distancia de 3,5 m del punto "0", la rueda izquierda descendió hacia la izquierda (hacia fuera) del carril izquierdo de la vía de circulación n.º 2. La rueda derecha de este bogie descendió de la cabeza del riel del carril derecho hacia la izquierda en dirección al eje de la vía de circulación n.º 2, también a una distancia de 3,5 m del punto "0". Las huellas de descarrilamiento de ambas ruedas del tercer bogie continuaron en la dirección de circulación del tren Nex 46723 hacia la estación de Prosenice, con las huellas dejadas por las ruedas en los tornillos de sujeción, abrazaderas, placas de asiento, traviesas de hormigón y balasto, hasta el punto de parada del TDV descarrilado en el pk 188,175. En el punto "0" se constató una buena retención y integridad de los elementos de fijación del superestructura ferroviaria, es decir, los rieles de ambos carriles, de forma R 65, estaban correctamente fijados a las traviesas de hormigón de forma SB 8, mediante abrazaderas de forma ŽS 4, tornillos de sujeción y espárragos.
+En el lugar del MU intervinieron los cuerpos del Sistema Integrado de Emergencia (en adelante IZS), el Servicio de Bomberos y Rescate de la Administración de la Infraestructura Ferroviaria de Transporte, organización estatal (en adelante HZS SŽDC, s. o.), Přerov y HZS SŽDC, s. o., Olomouc.
+2.1.3 Decisión de iniciar la investigación de las causas y circunstancias del origen, composición del equipo de personas cualificadas y método de dirección de la investigación de las causas y circunstancias del origen
 El origen del MU fue comunicado por la Inspección Ferroviaria (en adelante DI) al Centro Central de Notificación (en adelante COP) como operador de la vía y transportista, el 22. 01. 2010 a las 01:29 h, es decir, 92 min después del origen del MU, por el inspector superior de České dráhy, a. s. (en adelante ČD, a. s.), de la Inspección Regional de Seguridad del Transporte Ferroviario (en adelante RIBŽD) Ostrava. El empleado del COP, sobre la base de los hechos comunicados, decidió el desplazamiento y el inicio de la investigación de las causas y circunstancias del origen del MU en el lugar de su origen. La razón de esta decisión fue el hecho de que el MU en cuestión se incluye en la serie de MU significativos para todo el sistema de explotación de la vía y del transporte ferroviario. La DI realizó la actividad en el lugar del MU con la composición de dos inspectores superiores y el director de la Inspección Territorial Ostrava.
-El consentimiento para el inicio de los trabajos de limpieza fue otorgado por la DI el 22. 01. 2010 a las 10:34 h, es decir, 10 h y 37 min después del origen del MU.
-La posterior investigación de las causas y circunstancias del origen del MU fue encomendada a la Inspección Territorial Ostrava. La propia investigación de las causas y circunstancias del origen del MU se realizó de conformidad con el § 53 letra b) de la Ley n.º 266/1994 Sb., de vías, en la redacción de las disposiciones posteriores (en adelante Ley n.º 266/1994 Sb.) y el § 11 del Decreto n.º 376/2006 Sb., sobre el sistema de seguridad de la explotación de la vía y del transporte ferroviario y los procedimientos en caso de ocurrencia de acontecimientos excepcionales en las vías (en adelante Decreto n.º 376/2006 Sb.).
-Como consultor externo de la DI en la investigación de las causas y circunstancias del origen del MU actuó la Universidad de Pardubice, Facultad de Transporte Jan Perner, Departamento de Medios de Transporte y Diagnóstico, Centro Descentralizado Česká Třebová, que a instancias de la DI elaboró el documento "PROTOCOLO DE ENSAYO", n.º de protocolo SP6-P-01-10, que figura bajo el n.º de expediente: 6-289/2010/DI-24, de fecha 07. 04. 2010, como parte del expediente del MU.
+El consentimiento para el inicio de los trabajos de retirada fue otorgado por la DI el 22. 01. 2010 a las 10:34 h, es decir, 10 h y 37 min después del origen del MU.
+La posterior investigación de las causas y circunstancias del origen del MU fue encomendada a la Inspección Territorial Ostrava. La propia investigación de las causas y circunstancias del origen del MU se realizó de conformidad con el § 53, letra b), de la ley n.º 266/1994 Sb., de las vías, en la redacción de las disposiciones posteriores (en adelante ley n.º 266/1994 Sb.) y el § 11 del decreto n.º 376/2006 Sb., sobre el sistema de seguridad de la explotación de la vía y del transporte ferroviario y los procedimientos en caso de ocurrencia de acontecimientos excepcionales en las vías (en adelante decreto n.º 376/2006 Sb.).
+Como consultor externo de la DI en la investigación de las causas y circunstancias del origen del MU actuó la Universidad de Pardubice, Facultad de Transporte Jan Perner, Departamento de Vehículos de Transporte y Diagnóstico, Centro Descentralizado Česká Třebová, que a instancias de la DI elaboró el documento "PROTOKOL O ZKOUŠCE" (Protocolo de ensayo), n.º de protocolo SP6-P-01-10, que figura bajo el n.º de expediente: 6-289/2010/DI-24, de fecha 07. 04. 2010, como parte del expediente del MU.
 ## 2.2
 ### Circunstancias del acontecimiento excepcional
 ### 2.2.1 Empleados participantes del operador de la vía y del transportista, personas en relación contractual y demás participantes y testigos
@@ -262,6 +266,7 @@ Jefe de tren 1, empleado de ČDC, a. s., PJ Olomouc, PP Přerov, testigo.
 Jefe de tren 2, empleado de ČDC, a. s., PJ Olomouc, PP Přerov, testigo.
 
 ## Página 12
+
 
 2.2.2 Trenes y su composición, incluidos los números de registro de los distintos vehículos ferroviarios
 La estación de origen del tren Nex 46723 era Piedemonte-Villa S. Lucia-Aquin (República de Italia), y la estación de destino Tychy FIAT (República de Polonia). En el territorio de la República Checa, la composición del tren Nex 46723 entró el 21. 01. 2010 como tren Nex 46722 desde la República de Austria a través de PPS Hohenau – Břeclav. La composición del tren estaba formada por TDV vacíos, destinados al transporte de automóviles. A lo largo de todo su recorrido en el territorio de la República Checa, el tren objeto de estudio fue transportado bajo la licencia del transportista ČDC, a. s.
@@ -327,6 +332,7 @@ peso 24 900 kg, última revisión técnica periódica realizada el 27. 06. 2007
 
 ## Página 13
 
+
 13. 43 83 4254 362-8
   – propietario SITFA S.p.A., clasificador FS, longitud sobre topes 26,24 m, 
 masa 22 500 kg, última revisión técnica periódica realizada el 27. 10. 2009 
@@ -383,6 +389,7 @@ pendiente del 4,50 ‰ .
 
 ## Página 14
 
+
 El encofrado de la vía de la vía nº 2 entre la est. Přerov y la est. Prosenice es, hasta el pk 187,650, en el sentido de circulación del tren Nex 46723, formado por raíles de tipo R 65 sobre traviesas transversales de hormigón de tipo SB 8. Los raíles de tipo R 65 están unidos a las traviesas de hormigón mediante placas base nervadas R 4pl, abrazaderas de tipo ŽS 4 y tornillos R 1. A partir del pk 187,650, el encofrado de la vía de la vía nº 2 está formado por raíles de tipo UIC 60 sobre traviesas transversales de hormigón de tipo B 91S. Los raíles de tipo UIC 60 están unidos a las traviesas de hormigón mediante grapas elásticas FC 1501.
 El balasto de la vía nº 2 está formado por árido natural triturado de fracción 32-63 mm.
 Los raíles de la vía nº 2 entre la est. Přerov y la est. Prosenice son, hasta el pk 187,650, en el sentido de circulación del tren Nex 46723, soldados tras la renovación realizada en 1991, y a partir del pk 187,650 tras la renovación de 2000. En el lugar de origen de la MU se ha instalado una vía sin juntas (en adelante BK). La vía nº 2 está clasificada, para la evaluación de la calidad geométrica de la vía, en el llamado segundo banda de velocidad (en adelante RP2), es decir, en la banda de velocidad con velocidad de vía proyectada v, con un rango de 80 < v ≤ 120 km·h-1.
@@ -417,8 +424,8 @@ Red tecnológica (STE-1), canal simplex nº 31;
 •
 Red tecnológica (STE-2), canal simplex nº 14.
 
-
 ## Página 15
+
 
 ### 2.2.5 Trabajos realizados en el lugar del suceso ferroviario y en sus inmediaciones
 En el lugar de la MU no se estaban realizando, inmediatamente antes de su origen, por parte del titular de la vía ni del operador de la vía, ningún trabajo de reparación o mantenimiento en la superestructura, subestructura, línea de tracción y equipo de enclavamiento, ni otros trabajos en la explotación de la vía que tuvieran relación causal con el origen de la MU en cuestión.
@@ -453,7 +460,7 @@ El HZS SŽDC, s. o., Přerov se desplazó al lugar de la MU el 22. 01. 2010 a la
 ### Muertos, heridos y daños materiales
 2.3.1 En cuanto a pasajeros y terceras personas, empleados del gestor de la vía y del transportista,
 incluidas personas en relación contractual
-Ninguna persona sufrió daño para la salud en relación con la ocurrencia del MU.
+Ninguna persona sufrió daño a la salud en relación con la ocurrencia del MU.
 ### 2.3.2 En cuanto a las cosas transportadas, el equipaje y otros bienes
 No se produjo daño en las cosas transportadas ni en otros bienes, tampoco hubo fuga de
 sustancias peligrosas.
@@ -465,63 +472,38 @@ de fecha 11. 08. 2010, que forma parte del expediente del MU.
 El daño producido en el MU en los componentes de la vía de tráfico fue cuantificado por el gestor de la vía SŽDC, s. o.,
 en la cantidad de 4.124.092,33 Kč, véase el documento „Vyčíslení výše škody“, que consta bajo el n.º de expediente:
 6-289/2010/DI-64, de fecha 23. 07. 2010, que forma parte del expediente del MU.
-El daño total constatado producido en los vehículos ferroviarios y en los componentes de la vía de tráfico asciende a
+El daño total constatado, producido en los vehículos ferroviarios y en los componentes de la vía de tráfico, asciende a
 ### 4.140.292,33 Kč.
 ## 2.4
 ### Circunstancias externas
 ### 2.4.1 Condiciones meteorológicas y datos geográficos
 Horario nocturno, llovizna, viento de dirección nordeste, durante el horario nocturno la visibilidad de objetos
-o personas reducida a cca 50 m, la visibilidad de las señales luminosas no se vio afectada por influencias
+o personas reducida a unos 50 m, la visibilidad de las señales luminosas no se vio afectada por influencias
 meteorológicas, temperatura -10 ºC.
 El lugar del MU se encuentra en el término catastral de Lýsky (distrito urbano de la ciudad de Přerov, Přerov IX-Lýsky).
 Coordenadas GPS: 49°28'14.031''N, 17°26'50.739''E,
 
-
 ## Página 17
 
-## 3 REGISTRO DE LAS EXPLICACIONES PRESENTADAS
+## 3 RESUMEN DE LAS EXPLICACIONES PRESENTADAS
 ## 3.1
 ### Resumen de las explicaciones presentadas (sujeto a protección de la identidad de las personas)
-### 3.1.1 Empleados del gestor de la vía y del transportista, incluidas personas en relación
-contractual
-De las explicaciones presentadas por las personas participantes en el MU, contenidas en las actas con los empleados“, n.º de expediente:
-6-289/2010/DI-7, de fecha 22. 01. 2010, n.º de expediente: 6-289/2010/DI-54, de fecha 28. 01. 2010 y n.º de expediente:
-6-289/2010/DI-57, de fecha 29. 01. 2010, elaboradas por el transportista ČDC, a. s., entre otros, se desprende:
-Tras la salida del tren Nex 46723 de la est. Břeclav hasta la est. Přerov, el turno transcurrió sin incidencias.
-La salida del tren de la est. Přerov fue autorizada por la señal de autorización emitida por la señal de salida S2
-a las cca 23.50 h, mientras que la siguiente señal de sección indicaba la señal „Volno“. El maquinista
-aumentó la velocidad del tren hasta el valor de 90 km.h-1. Entre la est. Přerov y Prosenice, el maquinista percibió
-en la composición del tren un débil golpe longitudinal, registró una fuga de aire de la tubería principal y el tren a continuación
-se detuvo. Sobre la situación producida, el maquinista informó al despachador CDP Přerov, del que se enteró
-de que desde Prosenic circularía un tren de locomotora, cuyo maquinista intentaría, mediante la observación desde la HDV, determinar la causa
-de la fuga de aire en la composición del tren Nex 46723. Posteriormente, el maquinista del tren de locomotora informó
-al maquinista del tren Nex 46723 del hecho de que aproximadamente en el 6.º TDV desde el final del tren Nex 46723 estaba
-roto el acoplamiento de freno del freno continuo. A continuación, por orden del jefe de turno de ČDC, a. s. – PJ
-Olomouc, PP Přerov, se desplazaron los jefes de material rodante de ČDC, a. s. – PJ Olomouc, PP Přerov hacia la avería en el tren Nex
-46723 comunicada por su maquinista, donde según la información inicial debía producirse una avería en el acoplamiento de freno
-del TDV. Tras llegar al lugar del daño del TDV, los jefes de material rodante observaron una gran diferencia
-entre los topes de los TDV y a continuación buscaron la causa de este fenómeno. Primero en el TDV 23 83 4351 944-9,
-enganchado como 14.º TDV detrás de la HDV, detectaron un acoplamiento de freno dañado y a continuación el descarrilamiento de un
-eje del TDV 43 83 4254 362-8, enganchado como 13.º TDV detrás de la HDV. Mediante la estación de radio
-informaron al maquinista del tren Nex 46723 de los hallazgos. La reparación del acoplamiento de presión dañado en el TDV
-23 83 4351 944-9 no fue realizada por los jefes de material rodante, a fin de preservar el estado del TDV tras el MU.
+### 3.1.1 Empleados del gestor de la infraestructura y del transportista, incluidas personas en relación contractual
+De las explicaciones presentadas por las personas implicadas en el SU, contenidas en las actas con empleados", ref. 6-289/2010/DI-7, de fecha 22. 01. 2010, ref. 6-289/2010/DI-54, de fecha 28. 01. 2010 y ref. 6-289/2010/DI-57, de fecha 29. 01. 2010, elaboradas por el transportista ČDC, a. s., entre otros, se desprende lo siguiente:
+Tras la salida del tren Nex 46723 de la est. Břeclav hasta la est. Přerov, el turno transcurrió sin incidencias. La salida del tren de la est. Přerov fue autorizada por la señal de salida autorizante, indicada por la señal de salida S2 a las aprox. 23.50 h, mientras que la siguiente señal de sección indicaba la señal "Libre". El maquinista aumentó la velocidad del tren hasta el valor de 90 km.h-1. Entre la est. Přerov y Prosenice, el maquinista percibió en la composición del tren un débil golpe longitudinal, registró una fuga de aire de la tubería principal y, a continuación, detuvo el tren. El maquinista informó de la situación producida al despachador del CDP Přerov, del que se enteró de que desde Prosenice circularía un tren de locomotoras, cuyo maquinista intentaría determinar, mediante observación desde la HDV, la causa de la fuga de aire en la composición del tren Nex 46723. Posteriormente, el maquinista del tren de locomotoras informó al maquinista del tren Nex 46723 del hecho de que aproximadamente en el 6.º TDV desde el final del tren Nex 46723 se encontraba roto el acoplamiento de freno del freno continuo. A continuación, por instrucción del jefe de turno de ČDC, a. s. – PJ Olomouc, PP Přerov, se desplazaron los jefes de material rodante de ČDC, a. s. – PJ Olomouc, PP Přerov hacia la avería en el tren Nex 46723 comunicada por su maquinista, donde, según la información inicial, se habría producido una avería en el acoplamiento de freno del TDV. Al llegar al lugar del daño del TDV, los jefes de material rodante comprobaron visualmente una gran diferencia entre los topes del TDV y, a continuación, investigaron la causa de este fenómeno. Primero, en el TDV 23 83 4351 944-9, enganchado como 14.º TDV tras la HDV, detectaron un acoplamiento de freno dañado y, posteriormente, el descarrilamiento de un eje del TDV 43 83 4254 362-8, enganchado como 13.º TDV tras la HDV. Mediante radio, informaron al maquinista del tren Nex 46723 de los hallazgos. Los jefes de material rodante no realizaron la reparación del acoplamiento de presión dañado en el TDV 23 83 4351 944-9, a fin de preservar el estado del TDV tras el SU.
 ### 3.1.2 Otras personas
-Otras personas no participaron en el MU.
+Otras personas no participaron en el SU.
 ## 3.2
 ### Sistema de garantía de la seguridad
 ### 3.2.1 Organización marco y forma en que se emiten y ejecutan las instrucciones
-La organización marco y la forma de emisión y ejecución de las instrucciones en la explotación de la vía y del transporte ferroviario
-en relación con el MU en cuestión está establecida por procedimientos tecnológicos que se encuentran en
-las normas internas del gestor de la vía y del transportista, entre las que se pueden incluir:
-norma interna SŽDC (ČD) S2/3 „Organizace a provádění kontrol tratí Českých drah",
+La organización marco y la forma de emisión y ejecución de las instrucciones en la explotación de la infraestructura y del transporte ferroviario en relación con el SU objeto de estudio vienen determinadas por los procedimientos tecnológicos contenidos en las normas internas del gestor de la infraestructura y del transportista, entre los que se pueden incluir:
+norma interna SŽDC (ČD) S2/3 "Organización y realización de las inspecciones de las líneas de los Ferrocarriles Checos",
 •
-aprobada el 09. 12. 2002, bajo el n.º de expediente: 57775/2002-O13, con efectos desde el 01. 01. 2003, en su
-redacción vigente [en adelante, norma interna SŽDC (ČD) S2/3], art. 3, donde se indica:
-„Por la organización y ejecución de las inspecciones conforme a la presente norma responde, en el sector asignado,
-el jefe de la unidad ejecutiva, el jefe de la administración de líneas, el jefe de la unidad de explotación, el maestro, el inspector de recorrido
-y demás empleados a quienes las obligaciones les son establecidas por el Reglamento Organizativo de la UJ, laboral
+aprobada el 09. 12. 2002, bajo el n.º de ref. 57775/2002-O13, con entrada en vigor el 01. 01. 2003, en su versión vigente [en adelante, norma interna SŽDC (ČD) S2/3], art. 3, donde se establece:
+"Por la organización y realización de las inspecciones conforme a la presente norma responde, en el ámbito asignado, el jefe de la unidad ejecutiva, el jefe de la gestión de líneas, el jefe de la unidad de explotación, el capataz, el inspector de recorrido y demás empleados a los que las obligaciones les son asignadas por la Ordenación Orgánica de la VJ, labor
 
 ## Página 18
+
 
 contrato, o en su caso, la descripción del puesto de trabajo.“;
 reglamento interno de SŽDC (ČD) S2/3, art. 15, donde se indica:
@@ -563,8 +545,8 @@ reglamento interno de SŽDC S3 «Superestructura ferroviaria», aprobado el 03. 
 9675/08/OP, en vigor desde el 01. 10. 2008, en su versión vigente, PARTE PRIMERA, DISPOSICIONES GENERALES [en adelante reglamento interno de SŽDC S3], art. 4, donde se indica:
 «El terreno natural, las capas estructurales del cuerpo de la infraestructura ferroviaria y parte del lecho de la vía (o en su caso parte de las capas estructurales de la vía de circulación sólida) bajo la superficie de apoyo del traviesa (o de la estructura que sustituye a la traviesa) forman el lecho de traviesas. La estructura del lecho de traviesas debe ser suficientemente resistente para garantizar la estabilidad de la vía. Las disposiciones para la disposición del terreno natural y de las capas estructurales del cuerpo de la infraestructura ferroviaria se contienen en la norma de servicio de SŽDC S 4 «Infraestructura ferroviaria».»;
 
-
 ## Página 19
+
 
 reglamento interno de SŽDC S3 «Superestructura ferroviaria», aprobado el 03. 06. 2008, con el n.º de expediente:
 •
@@ -607,38 +589,39 @@ DEL POSEEDOR DEL VAGÓN, art. 12 Manipulación de los vagones, donde se indica:
 
 ## Página 20
 
-Contrato general para la utilización de vagones de carga, CAPÍTULO V, RESPONSABILIDAD EN
+Contrato general para el uso de vagones de carga, CAPÍTULO V, RESPONSABILIDAD EN CASO DE
 •
-CASO DE PÉRDIDA O DAÑOS AL VAGÓN, art. 22.2, donde se indica:
-
-«La empresa de transporte ferroviario no será responsable especialmente cuando demuestre que existe alguna de las siguientes causas:
+PÉRDIDA O DAÑO DEL VAGÓN, art. 22.2, donde se indica:
+"La empresa de transporte ferroviario no es culpable especialmente cuando demuestra que existe alguna de las siguientes causas:
 circunstancias que la empresa de transporte ferroviario no pudo evitar y cuyas consecuencias no pudo
 •
-conjurar;
+prevenir;
 culpa de un tercero;
 •
-mantenimiento insuficiente por parte del titular del vagón, si la empresa de transporte ferroviario
+mantenimiento insuficiente por parte del titular del vagón, si la empresa de transporte ferroviario demuestra
 •
-demuestra que ella operó e inspeccionó (controló) el vagón correctamente;
+que ella operó e inspeccionó (controló) el vagón correctamente;
 culpa del titular del vagón.
 •
-En caso de culpa compartida de la empresa de transporte ferroviario, los daños se repartirán proporcionalmente entre los responsables (culpables) según la cuota de su responsabilidad.
-
-El titular del vagón no podrá invocar un defecto oculto de su propio vagón para demostrar que no
+En caso de culpa compartida de la empresa de transporte ferroviario, el daño se repartirá proporcionalmente entre
+los responsables (culpables) según la cuota de su responsabilidad.
+El titular del vagón no puede invocar un defecto oculto de su propio vagón para demostrar que no
 •
-es responsable de los daños.»;
-
-Contrato general para la utilización de vagones de carga, Anexo 9 «Condiciones para las
+causó el daño.";
+Contrato general para el uso de vagones de carga, Anexo 9 "Condiciones para las inspecciones
 •
-inspecciones técnicas de tránsito en vagones de carga», en vigor desde el 01. 07. 2006, en la redacción de la Modificación en vigor desde el 16. 06. 2009, en el capítulo 2, art. 2.2 Procedimiento se indica:
-
-«La inspección técnica de tránsito la realizan los jefes de vagón en el lugar acordado entre las empresas de transporte ferroviario participantes. La inspección consiste en que se examina el vagón desde el punto de vista de la seguridad operativa y de la aptitud para el transporte, se detectan defectos evidentes o avisos sobre los mismos, de acuerdo con el Adenda 1 (Catálogo de defectos), y se adoptan las medidas necesarias. Para detectar defectos, el jefe de vagón (los jefes de vagón) recorre ambos lados del tren e inspecciona minuciosamente cada vagón.»;
-
-Contrato general para la utilización de vagones de carga, Anexo 10, Mantenimiento ordinario y
+técnicas de tránsito en vagones de carga", en vigor desde el 01. 07. 2006, en la redacción de la Modificación en vigor
+desde el 16. 06. 2009, en el capítulo 2, art. 2.2 Procedimiento se indica:
+"La inspección técnica de tránsito la realizan los jefes de vagón en el lugar acordado entre las empresas de
+transporte ferroviario participantes. La inspección consiste en que se verifica el vagón desde el punto de vista
+de la seguridad operativa y la aptitud para el transporte, se detectan defectos evidentes o se advierte sobre
+ellos, según el Apéndice 1 (Catálogo de defectos) y se adoptan las medidas necesarias. Para detectar defectos,
+recorre(n) el jefe de vagón (los jefes de vagón) a lo largo de ambos lados del tren e inspecciona(n)
+minuciosamente cada vagón.";
+Contrato general para el uso de vagones de carga, Anexo 10, Mantenimiento ordinario y preventivo, punto
 •
-preventivo, punto 1.2, donde se indica:
-
-«El diámetro del círculo de rodadura de las ruedas no debe ser inferior a:
+1.2, donde se indica:
+"El diámetro del círculo de contacto de las ruedas no debe ser inferior a:
 •
 840 mm con un diámetro nominal de rueda nueva de 900 mm a 1000 mm;
 •
@@ -646,27 +629,33 @@ preventivo, punto 1.2, donde se indica:
 •
 680 mm con un diámetro nominal de rueda nueva de 760 mm;
 •
-630 mm con un diámetro nominal de rueda nueva de 680 mm.»;
-
-Convenio sobre las inspecciones técnicas de tránsito en el intercambio de vagones de carga de
+630 mm con un diámetro nominal de rueda nueva de 680 mm.";
+Convención sobre inspecciones técnicas de tránsito en el intercambio de vagones de carga de las
 •
-las empresas de transporte ferroviario (en adelante ETF) ČD Cargo, a. s. – DB Schenker Rail Deutschland AG – Györ-Sopron-Ebenfurti Vasút Zrt. – MÁV Cargo AG – PKP Cargo S. A. – Rail Cargo Austria AG – Slovenske železnice d. o. o. – Železničná spoločnosť Cargo Slovakia, a. s., en vigor desde el 01. 01. 2010 por duración indefinida (en adelante Convenio sobre las inspecciones técnicas de tránsito en el intercambio de vagones de carga), art. 1 Vigencia y objeto del contrato, donde, entre otros, se indica:
-
-«El presente convenio es aplicable a las inspecciones técnicas de tránsito de trenes de carga que realiza la ETF formadora del tren y que la ETF receptora reconoce, de modo que dichas ETF no tienen que realizar una inspección técnica / inspección de tránsito en el lugar de entrega.»;
-
-«Acuerdo sobre las reglas generales para trenes interoperables (IV)», celebrado entre las
+empresas de transporte ferroviario (en adelante ETF) ČD Cargo, a. s. – DB Schenker Rail Deutschland AG –
+Györ-Sopron-Ebenfurti Vasút Zrt. – MÁV Cargo AG – PKP Cargo S. A. – Rail Cargo Austria AG
+– Slovenske železnice d. o. o. – Železničná spoločnosť Cargo Slovakia, a. s., en vigor desde el 01. 01.
+2010 por tiempo indefinido (en adelante Convención sobre inspecciones técnicas de tránsito en el intercambio de
+vagones de carga), art. 1 Validez y propósito del contrato, donde se indica, entre otras cosas:
+"Esta convención se aplica a las inspecciones técnicas de tránsito de trenes de carga que realiza
+la ETF que forma el tren y que la ETF receptora reconoce, de modo que dichas ETF no tienen que realizar en el lugar de entrega
+una inspección técnica / inspección de tránsito.";
+"Acuerdo sobre normas generales para trenes interoperables (IV)", celebrado entre las compañías
 •
-compañías ČD Cargo, a. s. y Rail Cargo Austria, n.º de ref.: 1780/2009 ŘTOD-O13/32, en vigor desde el 01. 10. 2009 por duración indefinida [en adelante Acuerdo sobre las reglas generales para trenes interoperables (IV)], capítulo 2. Criterios para los IV, punto 2.1 Principios, donde, entre otros, se indica:
-
-«Los trenes se consideran o se planifican como trenes IV si cumplen íntegramente los siguientes supuestos:
-a) aplicación del Convenio sobre las inspecciones técnicas de tránsito en el intercambio de vagones de carga;
+ČD Cargo, a. s., y Rail Cargo Austria, n.º de ref.: 1780/2009 ŘTOD-O13/32, en vigor desde el 01. 10. 2009
+por tiempo indefinido [en adelante Acuerdo sobre normas generales para trenes interoperables (IV)],
+capítulo 2. Criterios para IV, punto 2.1 Principios, donde se indica, entre otras cosas:
+"Los trenes se consideran o se planifican como trenes IV si cumplen íntegramente los siguientes supuestos:
+a) aplicación de la Convención sobre inspecciones técnicas de tránsito en el intercambio de vagones de carga;
 d) no realización de inspección física y despacho comercial u otras inspecciones en la estación fronteriza;
-f) el enganche de vagones, el apriete de los tornillos y la prueba de freno se realizan en la estación de origen o, en su caso, en la estación en la que se añaden vagones, de acuerdo con las normas vigentes en las mismas o, en su caso, de acuerdo con las disposiciones pertinentes de la UIC.
-
-Los trenes IV no tienen prevista, en principio, ninguna permanencia ni actividades en la estación fronteriza. Las permanencias debidas al cambio de locomotora o de maquinistas y por motivos operativos (por ejemplo, por el orden de los trenes)
-
+f) el descuelgue de vagones, el apriete de las clavijas y la prueba de freno se realizan en la estación de origen, o
+bien en la estación en la que se añaden vagones, según las normas vigentes en ellos, o según las
+disposiciones UIC correspondientes.
+Los trenes IV no tienen prevista, en principio, estancia o bien actividades en la estación fronteriza. Las estancias por motivo de
+cambio de vehículo de tracción o de maquinistas y por motivos operativos (por ejemplo, por el orden de trenes)
 
 ## Página 21
+
 
 en la estación de tránsito no afectan al estatus de IV. Los trenes IV se identifican como tales en los documentos de horario con una nota.»;
 
@@ -708,6 +697,7 @@ norma interna de ČD V67 «Norma para el mantenimiento y reparación de vagones 
 ferroviarios», aprobada el 11. 12. 2003, bajo n.º de ref.: 60 133/2003-O12, en la redacción vigente, Anexo n.º 5, en el que se publica la ilustración indicada a continuación. La norma en cuestión fue asumida por el transportista ČDC, a. s. en el sentido del documento «Resolución del Consejo de Administración de ČD Cargo, a. s. para la determinación de la lista de normas internas de ČD Cargo, a. s.», emitido el 29. 11. 2007 con la referencia 10 / 2007 - KGŘ, con efectos desde el 01. 12. 2007.
 
 ## Página 22
+
 
 reglamento interno de ČDC, a. s., KV1-B-2008 «Reglamento operativo-técnico para vagones ferroviarios»,
 •
@@ -780,8 +770,8 @@ reglamento interno KV1-B-2008, capítulo 3. Inspecciones de vagones y envíos, a
 •
 punto 3.2.5.3, donde se indica:
 
-
 ## Página 23
+
 
 «El estado y la aptitud de los vagones los verifica el jefe de vagones de acuerdo con las condiciones técnicas de la VSP, el RID, o en su caso el RIC, teniendo en cuenta los acuerdos bilaterales o multilaterales entre los ŽDP participantes.»;
 reglamento interno KV1-B-2008, capítulo 3. Inspecciones de vagones y envíos, art. 3.2 Inspecciones técnicas,
@@ -803,6 +793,7 @@ El operador de la infraestructura, para garantizar la operatividad de la infraes
 De los documentos del operador de la infraestructura sobre las inspecciones y mediciones de la construcción ferroviaria realizadas, y de la documentación operativa de la construcción ferroviaria llevada en la SDC Olomouc, se desprende:
 
 ## Página 24
+
 
 Recorridos de vía
   son realizados por empleados del Sector de Vía (en adelante TO) Přerov – norte en
@@ -839,6 +830,7 @@ Mediante la verificación de la documentación sobre la medición de las magnitu
 
 ## Página 25
 
+
 sobre la base de sus hallazgos, o bien no fijó un plazo para la eliminación del defecto y no eliminó el defecto, o bien fijó un plazo para la eliminación del defecto, pero hasta la fecha de su eliminación no adoptó ninguna medida para garantizar la explotación segura de la vía y del transporte ferroviario.
 El hallazgo, en relación con lo dispuesto en el apartado 2 del § 25 del decreto n.º 177/1995 Sb. y en el apartado 3 del § 2 del decreto n.º 173/1995 Sb., constituye el incumplimiento de lo dispuesto en el apartado 1, letra a), y en el apartado 2
 ### letra d) del § 22 de la ley n.º 266/1994 Sb.
@@ -864,6 +856,7 @@ y técnicas para garantizar la explotación regular y segura de los vehículos f
 
 ## Página 26
 
+
 a. s., y están vinculados al cumplimiento de esta norma por una relación contractual;
 Convenio General sobre uso de vagones de carga:
   la norma, incluido el anexo, establece las condiciones
@@ -887,8 +880,8 @@ El propietario y operador del ferrocategoría ferroviaria de ámbito nacional, P
 La operación de los instalaciones de la vía de tráfico ferroviario, la organización del tráfico ferroviario, la dirección y organización del tráfico ferroviario las realizan empleados de ČD, a. s., y ello en virtud del contrato «CONTRATO DE OPERACIÓN DE LA VÍA», celebrado entre SŽDC, s. o., y ČD, a. s., el 30. 06. 2008, en vigor desde el 01. 07. 2008.
 El transportista es ČDC, a. s., con domicilio en Nábřeží L. Svobody 1222, Praha, CP 110 15, en virtud de la Licencia de transportista concedida por la Autoridad Ferroviaria el 20. 11. 2007, bajo n.º de expediente: 3-841/07-DÚ/Le, n.º de registro: L/1996/5000, Resolución de modificación de licencia expedida por la Autoridad Ferroviaria el 05. 08. 2008, bajo n.º de expediente: 3-935/08-DÚ/Le, n.º de registro: L/2008/1452-1, y el 27. 08. 2008, bajo n.º de expediente: 3-3186/08-DÚ/Le, n.º de registro: L/2008/1452-2, y «CONTRATO sobre la explotación en la vía de ámbito nacional y en las vías regionales en propiedad de ČD, a. s.». El contrato se celebra por duración indefinida, con vigencia desde el 10. 03. 2009 y en vigor desde la fecha de su firma, es decir, el 10. 03. 2009.
 
-
 ## Página 27
+
 
 ## 3.3
 ### Regulación jurídica y de otro tipo
@@ -937,6 +930,7 @@ TNŽ 34 2620 Instalaciones de señalización ferroviaria, Instalaciones de seña
 
 ## Página 28
 
+
 norma interna del transportista ČDC, a. s., «PERs28-2009 REGLAMENTO DE FORMACIÓN Y EXÁMENES»,
 •
 aprobada el 01. 04. 2009, con efectos desde el 01. 05. 2009, en su versión vigente;
@@ -976,8 +970,8 @@ El tramo entre estaciones de doble vía Přerov – Dluhonice está equipado con
 El TZZ del tramo entre estaciones en cuestión no está equipado con dispositivo de registro de datos de circulación de trenes.
 La circulación de trenes en el tramo entre estaciones en cuestión se dirige y organiza desde el puesto de mando IIB COP Přerov [área de mando Přerov (excepto la estación de entrada contigua Přerov) – Polom] a través de la puesta de trabajo única de mando a distancia del dispositivo de seguridad. El puesto de mando en el área de mando se encarga, entre otras cosas, de la dirección de la composición del tren en todo el trayecto y hasta las estaciones más próximas
 
-
 ## Página 29
+
 
 de las líneas de enlace, del servicio del dispositivo de seguridad en todas las estaciones y de la dirección del tráfico en caso de eventos excepcionales y averías de los dispositivos de la vía.
 En el sistema de mando, señalización y seguridad no se detectaron anomalías.
@@ -1002,6 +996,7 @@ La HDV 363.034-0 estaba equipada, en el momento del suceso del MU, con la parte 
 
 ## Página 30
 
+
 El HDV 363.034-0, en el momento de producirse el MU, de acuerdo con el apartado 5, parte II, del Anexo n.º 3 de la disposición n.º 173/1995 Sb., estaba equipado con un dispositivo de registro con grabación mecánica de datos, registrador de velocidad tipo 662A308, n.º de fabricación 87181, con un rango de velocidad de 0 – 150 km.h-1. La circulación del tren Nex 46723 fue registrada en una tira registradora de velocidad con capa de carbono tipo KAPS-COMM – Český Krumlov, con un rango de velocidad de 0 – 150 km.h-1. De los datos registrados, véase el documento "Posouzení rychloměrného proužku MU – 027/2010", que figura bajo el n.º de expediente: 6-289/2010/DI-13, de fecha 27. 01. 2010, parte del expediente del MU, se desprende:
 
 • a las 23:51:30 h se registra la salida de la est. de Přerov. Con una aceleración suave, en un recorrido de 2 600 m, se alcanzó una velocidad de v = 90 km.h-1;
@@ -1022,6 +1017,7 @@ En la medición descrita anteriormente se midieron los parámetros que figuran e
 | peso por rueda M k [kg] , izquierda M KL | 4015 | 3460 | 4050 | 4040 | 3430 | 4005 |
 
 ## Página 31
+
 
 | diferencia de masa de la rueda [kg] | 20 | 255 | 200 | 85 | 295 | 125 |
 | valor límite de la diferencia de masa entre ruedas del bogie de dos ejes [kg] 10% | 801 | 717 | 790 | 799 | 715 | 788 |
@@ -1073,8 +1069,9 @@ de desgaste del perfil de rodadura ORE S1002. Tampoco ninguna de las magnitudes 
 eje 1.º y 2.º, lo que da lugar a un valor inferior del ancho de vía del bogie (1 418,4 mm). Este valor,
 sin embargo, no alcanza el valor límite del ancho de vía del bogie de 1 410 mm;
 
-
 ## Página 32
+
+
 • los perfiles transversales de las cabezas de los carriles en todos los tramos medidos no presentan
 un desgaste apreciable (este hecho se deduce de la comparación con la forma nominal de la cabeza
 del carril R 65 con inclinación 1:20);
@@ -1129,6 +1126,7 @@ transportista.
 
 ## Página 33
 
+
 ## 3.6
 ### Condiciones laborales, sanitarias y de explotación
 ### 3.6.1 Jornada laboral de los empleados del gestor de la infraestructura y del transportista que participaron en el suceso
@@ -1146,8 +1144,8 @@ La disposición del puesto de conducción del maquinista y del HDV no guardaba r
 ### Sucesos anteriores de carácter similar
 El DI no registra, en el periodo comprendido entre el 01. 01. 2003 y la fecha de producción del SU en cuestión, ningún SU cuya causa probable de producción fuera el cambio de fuerzas radiales como consecuencia de la salida de la arandela de ajuste del alojamiento en la cámara del rodamiento del eje.
 
-
 ## Página 34
+
 
 ## 4 ANÁLISIS Y CONCLUSIONES
 ## 4.1
@@ -1160,6 +1158,7 @@ Ninguna persona sufrió daños personales como consecuencia del SU.
 El daño total detectado en los vehículos ferroviarios del transportista ČDC, asciende a 16.200,- CZK.
 
 ## Página 35
+
 
 El daño total detectado en la infraestructura ferroviaria asciende a 4.124.092,33 Kč.
 El daño total detectado a la fecha de emisión del Informe Final asciende a 4.140.292,33 Kč.
@@ -1189,8 +1188,8 @@ con registro continuo mediante el vehículo de medición MV1 – el día 08. 12.
 Inspecciones no destructivas de los carriles
   – la última inspección no destructiva de los carriles antes del origen del MU se realizó el día 22. 12. 2009, con el hallazgo de un defecto de ensayo por corrientes inducidas de código 211.1, categoría de defecto B, concretamente en el km 186,150, es decir, a 630 m del lugar de origen del MU, y en el km 186,480, es decir, a 300 m del lugar de origen del MU, en la banda de carriles derecha de la vía de servicio n.º 2. Las averías detectadas fueron eliminadas por el operador ferroviario antes del origen del MU mediante la colocación de un empalme;
 
-
 ## Página 36
+
 
 •
 Inspecciones integrales de la vía
@@ -1228,6 +1227,7 @@ no se superó la velocidad máxima permitida del tren (v = 100 km.h-1).
 El transportista ČDC, a. s., de conformidad con el § 35 apartado 1 letra e) y letra f) de la ordenanza n.º 173/1995 Sb., garantizó que el maquinista del tren Nex 46723 condujera el HDV desde la cabina frontal en el sentido de la circulación del tren y observara la vía y las señales, actuando a tiempo de acuerdo con los hechos constatados.
 
 ## Página 37
+
 
 De la inspección del TDV Laekks 43 83 4254 362-8 descarrilado se comprobó además:
 •
@@ -1297,40 +1297,24 @@ El TDV Laekks 43 83 4254 362-8, con el separador de ajuste caído en su posició
 cumple con su construcción los requisitos de diseño constructivo y de características
 técnicas en servicio.
 
-
 ## Página 38
 
 ## 4.3
 ### Conclusiones
-4.3.1 Causas inmediatas del suceso excepcional, incluidos los factores que contribuyeron al
-mismo y que estuvieron relacionados con la actuación de las personas implicadas o con el
-estado del material rodante o de los dispositivos técnicos
-La causa inmediata de la MU fue la variación de las fuerzas de rueda del 3.º eje del TDV
-Laekks 43 83 4254 362-8, provocada por el cambio de posición (encañonamiento) del separador
-de ajuste en su alojamiento entre la cámara de rodamiento derecha y la pestaña derecha del
-muelle (en el sentido de circulación del tren Nex 46723).
-El tiempo, lugar y causa del cambio de posición (encañonamiento) del separador de ajuste no
-fueron posibles de determinar mediante la investigación de la DI de forma comprobable, debido a la
-inexistencia de defectos en la posición geométrica de la vía circulada antes del lugar de
-origen de la MU y a la no constatación de manipulaciones con el TDV que pudieran ser la causa
-del funcionamiento no estándar del TDV.
+4.3.1 Causas inmediatas del suceso ferroviario, incluidos los factores que contribuyeron al mismo y que estuvieron relacionados con la actuación de las personas implicadas o con el estado del material rodante o de las instalaciones técnicas
+La causa inmediata del suceso ferroviario fue la variación de las fuerzas en rueda del tercer eje del material rodante Laekks 43 83 4254 362- 8, provocada por el cambio de posición (encajamiento) del espaciador en el alojamiento entre la cámara de rodamiento derecha y el anillo derecho del muelle de hoja (en el sentido de la marcha del tren Nex 46723).
+El momento, el lugar y la causa del cambio de posición (encajamiento) del espaciador no pudieron determinarse mediante la investigación de forma comprobable, debido a la inexistencia de anomalías en la posición geométrica de la vía circulada antes del lugar de producción del suceso ferroviario y a la no constatación de manipulaciones del material rodante que pudieran ser la causa del funcionamiento no estándar del material rodante.
 ### 4.3.2 Causas fundamentales relacionadas con la cualificación, los procedimientos y el mantenimiento
-No fueron detectadas por la DI causas fundamentales de la MU relacionadas con la cualificación,
-los procedimientos y el mantenimiento.
-### 4.3.3 Causas derivadas del marco normativo y del uso del sistema de
-aseguramiento de la seguridad
-No fueron detectadas por la DI causas derivadas del marco normativo y del uso del sistema de
-aseguramiento de la seguridad.
+No se constataron, mediante la investigación, causas fundamentales del suceso ferroviario relacionadas con la cualificación, los procedimientos y el mantenimiento.
+### 4.3.3 Causas derivadas del marco normativo y del uso del sistema de aseguramiento de la seguridad
+No se constataron, mediante la investigación, causas derivadas del marco normativo y del uso del sistema de aseguramiento de la seguridad.
 ## 4.4
 ### Hallazgos complementarios
-### 4.4.1 Deficiencias y omisiones detectadas durante la investigación de las causas y circunstancias del
-origen del suceso excepcional, que sin embargo no son relevantes para las conclusiones sobre las causas
-No fueron detectadas por la DI deficiencias y omisiones detectadas durante la investigación de las
-causas y circunstancias del origen de la MU, que sin embargo no son relevantes para las
-conclusiones sobre las causas.
-
+### 4.4.1 Deficiencias y omisiones constatadas durante la determinación de las causas y circunstancias de producción del suceso ferroviario, que sin embargo no son relevantes para las conclusiones sobre las causas
+No se constataron, mediante la investigación, deficiencias y omisiones durante la determinación de las causas y circunstancias de producción del suceso ferroviario, que sin embargo no sean relevantes para las conclusiones sobre las causas.
 
 ## Página 39
+
 
 ## 5 MEDIDAS ADOPTADAS
 ## 5.1
@@ -1357,28 +1341,28 @@ Director
 de la Inspección Territorial de Ostrava
 de la Inspección Territorial de Ostrava
 
-
 ## Página 40
+
 
 ## 7 ANEXOS
 ### 7. 1 Documentación fotográfica del lugar del suceso excepcional
 Fig. 1, 2 Imágenes que documentan el eje descarrilado del TDV Laekks 43 83 4254 362-8.
 
-
 ## Página 41
+
 
 Fig. 3 Imagen que documenta la ausencia del separador de ajuste entre la pestaña del
 muelle y la cámara de rodamiento de la rueda derecha del 3.º eje (en el sentido de
 circulación del tren Nex 46723) del TDV Laekks 43 83 4254 362-8.
 
-
 ## Página 42
+
 
 ### Fig. 4 Imagen que documenta la ubicación del separador de ajuste entre la pestaña del
 muelle y la cámara de rodamiento de la rueda izquierda del 3.º eje (en el sentido de
 circulación del tren Nex 46723) del TDV Laekks 43 83 4254 362-8.
 
-
 ## Página 43
+
 
 ### 7. 2 Anexo 4 del decreto UIC 510-1

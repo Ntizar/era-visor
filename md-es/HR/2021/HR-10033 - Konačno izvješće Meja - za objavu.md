@@ -12,8 +12,8 @@ tokens_in: 33797
 tokens_out: 22553
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
-verificacion: revisar
-avisos: ["página 7: ratio 1.96", "página 30: ratio 2.06"]
+verificacion: ok
+notas_cifras: ["página 7: original bilingüe: se compara contra el idioma principal (HR); ratio 1.89", "página 12: original bilingüe: se compara contra el idioma principal (HR)", "página 13: original bilingüe: se compara contra el idioma principal (HR)", "página 14: original bilingüe: se compara contra el idioma principal (HR)", "página 28: cifras cortas: 4/27", "página 29: cifras cortas: 6/36"]
 ---
 
 ## Página 1
@@ -175,25 +175,31 @@ RECOMENDACIONES DE SEGURIDAD ...................................................
 
 ## Página 7
 
-### 1. RESUMEN 
-El 27 de enero de 2021 a las 03:30 horas, cerca de la estación de Meja, en la línea internacional identificada con la señalización M202, en el punto kilométrico PK 636+072, se produjo el descarrilamiento del penúltimo vagón del tren de mercancías número 61019. 
-Concretamente, durante la circulación del tren se produjo un desplazamiento de la rueda derecha delantera en la posición del cojinete número 3 aproximadamente 50 mm por eje hacia el centro de la vía en el bogie trasero del vagón número 31 78 7850 041-0. El tren número 61019 se detuvo con la cabeza en el PK 633+185 en la vía 2 de la estación de Meja como consecuencia de las daños causados por el desplazamiento de la rueda sobre el cubo del eje. 
-En el mencionado accidente no hubo fallecidos ni heridos, aunque se produjeron importantes daños materiales en la infraestructura ferroviaria y en los vagones de mercancías. 
-El factor causal del accidente en cuestión fue el descarrilamiento del vagón número 31 78 7850 041-0 debido al desplazamiento de la rueda derecha delantera en la posición del cojinete número 3 aproximadamente 50 mm por eje (capítulo 4.2.4. y 4.2.5.). 
+### 1. Resumen 
+El 27 de enero de 2021 a las 03:30 horas, en las proximidades de la estación de Meja, en la línea internacional de designación M202, en el PK 636+072, se produjo el descarrilamiento del penúltimo vagón de la composición del tren de mercancías número 61019. 
+En efecto, durante la circulación del tren se produjo un desplazamiento de la rueda delantera derecha en el asiento de rodamiento número 3 de aproximadamente 50 mm a lo largo del eje hacia el interior, hacia el centro de la vía, en el bogie trasero del vagón número 31 78 7850 041-0. El tren número 61019 se detuvo con la cabecera en el PK 633+185 en la vía 2 de la estación de Meja debido a los daños producidos por el desplazamiento de la rueda sobre el buje del eje. 
+En el accidente indicado no hubo personas fallecidas ni heridas, mientras que se produjeron daños materiales significativos en la infraestructura ferroviaria y en los vagones de mercancías. 
+El factor causal del accidente indicado es el descarrilamiento del vagón número 31 78 7850 041-0 debido al desplazamiento de la rueda delantera derecha en el asiento de rodamiento número 3 de aproximadamente 50 mm a lo largo del eje (capítulos 4.2.4. y 4.2.5.). 
 Factores contribuyentes:  
 - 
-utilización de grasa en lugar de lubricante a base de MoS2 (capítulo 4.2.5.);  
+uso de grasa en lugar de lubricante a base de MoS2 (capítulo 4.2.5); 
 - 
 visibilidad reducida debido a la noche (capítulo 3.1.3.). 
 Factores sistémicos:  
 - 
-procedimientos de trabajo durante el montaje de las ruedas sobre los ejes durante la última revisión del vagón descarrilado número 31 78 7850 041-0 (capítulo 4.2.4. y 4.2.5.). 
+procedimientos de trabajo durante el montaje de las ruedas en los ejes durante la última revisión del vagón descarrilado número 31 78 7850 041-0 (capítulos 4.2.4. y 4.2.5.). 
 ### Recomendaciones de seguridad 
-La Agencia para la Investigación de Accidentes en el Tráfico Aéreo, Marítimo y Ferroviario, con base en la investigación llevada a cabo de este accidente, con el fin de aumentar la seguridad del sistema ferroviario, emite a la Agencia de Seguridad del Tráfico Ferroviario la siguiente recomendación de seguridad:  
-AIN/06-SR-01/2022: El taller de mantenimiento de vagones implicado debería revisar su Registro de riesgos de revisión de vehículos ferroviarios y actualizarlo cuando sea necesario para que se cubran en la medida adecuada todos los riesgos razonablemente previsibles, y para que estos se eliminen mediante la adopción de medidas operativas.  
-### RESUMEN 
-El 27 de enero de 2021, a las 03:30 a. m. cerca de la estación de Meja, en la línea internacional identificada con la señalización M202, en el punto kilométrico PK 636+072, se produjo el descarrilamiento del penúltimo vagón del tren de mercancías n.º 61019. De hecho, durante la circulación del tren se produjo un desplazamiento de la rueda derecha delantera en la posición del cojinete número 3 aproximadamente 50 mm por eje hacia el centro de la vía en el bogie trasero del vagón número 31 78 7850 041-0. La cabeza del tren n.º 61019 se detuvo en el PK 633+185 en la vía 2 de la estación de Meja debido a los daños causados por el desplazamiento de la rueda sobre el cubo del eje. 
-No hubo fallecidos ni heridos en el accidente, aunque se produjeron importantes daños materiales en la infraestructura ferroviaria y en los vagones de mercancías.
+La Agencia de Investigación de Accidentes en el tráfico aéreo, marítimo y ferroviario, con base en la investigación realizada de este accidente, con el fin de aumentar la seguridad del sistema ferroviario, emite a la Agencia de Seguridad del Tráfico Ferroviario la siguiente recomendación de seguridad:  
+AIN/06-SR-01/2022: El taller de mantenimiento de vagones implicado debería revisar su Registro de riesgos de la revisión de vehículos ferroviarios y actualizarlo cuando sea necesario, de modo que se abarquen en la medida necesaria todos los riesgos razonablemente previsibles, y para que los mismos se eliminen mediante la adopción de medidas operativas.  
+### SUMMARY 
+On January 27, 2021, at 03:30 a.m. near the station Meja, on the international line marked M202, at 
+KM 636+072, was derailment of the penultimate wagon of the freight train No. 61019. In fact, while 
+driving train there was a movement of the front right wheel at bearing position number 3 by 
+approximately 50 mm per axle towards to the center of the track on the rear bogie of the wagon 
+number 31 78 7850 041-0. The front of train No. 61019 stopped at KM 633+185 on the 2nd track at 
+the Meja station due to damage caused by wheel movement on the axle hub. 
+No one was killed or injured in the accident, while there was great material damage to the railway 
+infrastructure and freight wagons.
 
 ## Página 8
 
@@ -600,23 +606,19 @@ El propietario de los vagones, HŽ Cargo, el 31 de enero de 2021, emitió una or
 
 ## Página 30
 
-el conjunto en el Taller de Slavonski Brod y, por tanto, otorgó una valoración positiva para la formación de conjuntos de ejes en el Taller de Slavonski Brod conforme a la nueva instrucción de trabajo y a los requisitos adicionales para la realización de controles de conformidad con el punto 3.2 de la norma EN 13260 y para cada conjunto de eje formado en los Talleres OV de Mantenimiento de Vagones que esté sometido a una fuerza de montaje inferior o igual a 700 kN dentro del rango de fuerza de montaje permitido según la norma EN 13260.
-
-El ejecutor del mantenimiento, Održavanje vozila d.o.o., emitió el 16 de abril de 2021 una nueva instrucción de trabajo «Formación de conjuntos de ejes para vagones de mercancías» conforme a la norma EN 13260 y a otras normas del sistema ferroviario, en la que modificaron las magnitudes características del juego y de la fuerza de tracción, prescribieron el uso de un lubricante a base de MoS2 en lugar de grasa, y añadieron nuevos capítulos sobre el método de prueba de la unión sólida rueda/eje, sobre la medición de la resistencia eléctrica, sobre la ensayo ultrasónico, sobre la identificación de los conjuntos de ejes. Asimismo, el taller de Slavonski Brod renovó detalladamente la prueba y la calibración de la prensa por parte del organismo competente, sustituyó el antiguo registro analógico del diagrama de fuerza de montaje por uno nuevo digital y elaboró nuevas hojas de medición unificadas que se utilizarán en los talleres de Slavonski Brod y Bjelovar, donde se realiza la formación de conjuntos de ejes.
-
-La empresa de transporte ferroviario (RU), Enna, mediante la formación periódica a los inspectores, les señaló la mencionada irregularidad técnica en los vagones que participaron en el mencionado incidente extraordinario, y les indicó que prestaran mayor atención durante la inspección técnica para detectar a tiempo posibles irregularidades técnicas en los vagones con el fin de garantizar la seguridad del tráfico ferroviario.
-
-### 5.3. Consideraciones adicionales
-
+sklopova u Pogonu Slavonski Brod te je dao pozitivnu ocjenu za formiranje osovinskih sklopova u 
+Pogonu Slavonski Brod prema novoj radnoj uputi i dodatnim zahtjevom za provođenjem kontrole u 
+skladu s točkom 3.2 EN 13260 i svakog formiranog osovinskog sklopa u Pogonima OV Održavanje 
+vagona koji je naprešan silom manjom ili jednakom od 700 kN u dozvoljenom rasponu sile 
+naprešavanja prema EN 13260.  
+El contratista de mantenimiento, Održavanje vozila d.o.o., emitió el día 16 de abril de 2021 una nueva instrucción de trabajo «Formiranje osovinskih sklopova za teretne vagone» (Formación de juegos de ejes para vagones de mercancías) de conformidad con la norma EN 13260 y demás normas del sistema ferroviario, en la que modificaron las magnitudes características de la prensión y las fuerzas de tracción, en lugar de grasa prescribieron el uso de un lubricante a base de MOS2, y añadieron nuevos capítulos sobre el método de ensayo de la unión sólida rueda/eje, sobre la medición de la resistencia eléctrica, sobre el ensayo por ultrasonidos y sobre la marcación de los juegos de ejes. Asimismo, el taller de Slavonski Brod renovó detalladamente el ensayo y la calibración de la prensa por parte de un organismo autorizado, sustituyó el antiguo registro analógico del diagrama de fuerza de prensión por uno nuevo digital y se confeccionaron nuevas listas de medición unificadas que se utilizarán en las plantas de Slavonski Brod y Bjelovar, donde se realiza la formación de juegos de ejes.
+El operador ferroviario (RU), Enna, mediante la formación ordinaria de los revisores, señaló la irregularidad técnica indicada en los vagones que participaron en el suceso extraordinario indicado, y les indicó que prestaran mayor atención durante la inspección técnica a fin de que las posibles irregularidades técnicas en los vagones se detecten de forma oportuna para garantizar la circulación segura del tráfico ferroviario.
+### 5.3. Consideraciones adicionales  
 No tenemos consideraciones adicionales.
-
-### CONCLUSIONES
-
-5.1. Resumen del análisis y las conclusiones respecto a las causas del incidente
-
-Tras el accidente citado, se enviaron 52 vagones de HŽ Cargo para controlar las uniones de rueda y eje mediante la prueba de la carga de la rueda en la prensa, conforme a la norma EN 13260, en la que se realizó la formación de conjuntos de ejes en la sección Slavonski Brod OV. En la comprobación de control, tres vagones más presentaban conjuntos de ejes defectuosos (n.º 31 78 7850 133-5, 31 78 7850 041-0, 31 78 7855 030-8), que formaban parte del tren n.º 61019.
-
-El taller afirma que la formación del conjunto de ejes se realizó en noviembre de 2020, cuando las temperaturas eran bastante bajas, y supone que, tras el montaje, una parte de la grasa permaneció entre la unión de la rueda y el eje, lo cual afectó a la calidad de la unión. Aunque utilizaron un lubricante a base de MoS2 en la sección Bjelovar y, según su conocimiento, no tuvieron problemas con las diferencias de temperaturas y resultó ser más estable y seguro, cabe cuestionarse por qué no lo utilizaron en la sección Slavonski Brod. Asimismo, en las revisiones de los vagones realizadas el 13 de enero de 2021, el taller de mantenimiento de Slavonski Brod aplicó el «Procedimiento tecnológico para la fabricación e instalación de nuevos conjuntos de ejes para vagones de mercancías» conforme a la norma ISO 9001/00, mientras que el nuevo procedimiento se emitió tras el accidente el 16 de abril de 2021.
+### CONCLUSIONES  
+5.1. Resumen del análisis y de las conclusiones en relación con las causas del suceso
+Tras el accidente citado, se sometieron a control, mediante ensayo de carga de rueda en prensa de conformidad con la norma EN 13260, 52 vagones de HŽ Cargo para la verificación de los juegos de rueda y eje, en los que se había realizado la formación de juegos de ejes en la sección Slavonski Brod OV. En el control de verificación también se detectaron juegos de ejes defectuosos en tres vagones (n.º 31 78 7850 133-5, 31 78 7850 041-0, 31 78 7855 030-8) que formaban parte del tren n.º 61019.
+El taller indica que la formación del juego de ejes se realizó en noviembre de 2020, cuando las temperaturas eran bastante bajas, y supone que, tras el traccionado, permaneció una determinada parte de la grasa entre la unión de la rueda y el eje, lo que afectó a la calidad de la unión. Aunque en la sección Bjelovar utilizaron un lubricante a base de MoS2 y, según su conocimiento, no tuvieron problemas con las diferencias de temperatura y demostró ser más estable y seguro, es cuestionable por qué no utilizaron el mismo en la sección Slavonski Brod. También en las revisiones de vagones realizadas el 13 de enero de 2021, el taller de mantenimiento de Slavonski Brod aplicó el «Procedimiento tecnológico para la fabricación e instalación de nuevos juegos de ejes para vagones de mercancías» de conformidad con ISO 9001/00, mientras que el nuevo procedimiento se emitió después del accidente, el 16 de abril de 2021.
 
 ## Página 31
 

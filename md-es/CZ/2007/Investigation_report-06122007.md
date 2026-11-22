@@ -10,13 +10,14 @@ chars: 115856
 ratio_longitud: 1.27
 tokens_in: 52127
 tokens_out: 37736
-verificacion: revisar
-notas_cifras: ["bloque 2: original bilingüe: se compara contra el idioma principal (CS)", "bloque 3: cifras cortas: 4/97", "bloque 4: original bilingüe: se compara contra el idioma principal (CS)", "bloque 8: original bilingüe: se compara contra el idioma principal (CS)", "bloque 9: cifras cortas: 2/71", "bloque 10: original bilingüe: se compara contra el idioma principal (CS)"]
-avisos: ["bloque 8: ratio 1.61", "bloque 10: ratio 1.64"]
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 4: original bilingüe: se compara contra el idioma principal (EN)", "página 5: original bilingüe: se compara contra el idioma principal (CS)", "página 7: cifras cortas: 4/47", "página 8: original bilingüe: se compara contra el idioma principal (CS)", "página 9: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 República Checa
 Inspección Ferroviaria
@@ -42,11 +43,12 @@ NIF: 75009561
 http://www.dicr.cz
 fax: (+420) 224 805 428
 
-
 ## Página 2
 
 
+
 ## Página 3
+
 
 ### RESUMEN
 Fecha y hora:
@@ -71,10 +73,10 @@ y a la autoridad nacional de seguridad:
 1) elaborar un esquema de mantenimiento para la unidad eléctrica clase 460 basado
     en el seguimiento periódico del estado técnico real del vehículo.
 ### El bogie descarrilado del vehículo ferroviario remolcado 063.321-4 
-barras de suspensión secundaria. 
-
+barras de suspensión secundaria.
 
 ## Página 4
+
 
 # Índice
 RESUMEN......................................................................................................................3
@@ -126,6 +128,7 @@ de datos........................................................................
 
 ## Página 5
 
+
 3.5 Documentación o sistema de explotación...........................................................21
 3.5.1 Medidas adoptadas por el personal del gestor de infraestructura y del transportista, en lo que respecta a la gestión de la señalización y de la seguridad de la circulación............................................................................................21
 3.5.2 Intercambio de comunicaciones verbales en relación con el incidente, incluidos los documentos procedentes del dispositivo de grabación...............................................................................................................21
@@ -157,8 +160,8 @@ estuvieron relacionados con la actuación de las personas implicadas o con el es
 recomendación lo requiere, a otros organismos o personas..................................................................................30
 7 ANEXOS.................................................................................................................30
 
-
 ## Página 6
+
 
 N.º de ref.: 6-039/2007-DI
 ### Informe
@@ -180,6 +183,7 @@ El incidente se produjo en el ferrocarril nacional de Český Těšín – Polan
 
 ## Página 7
 
+
 hacia el punto de aguja y el desvío n.º 95 en dirección recta hacia el punto de aguja, sobre la primera vía de circulación en dirección a Ostrava-Bartovice. La circulación del tren Os 3425 fue autorizada mediante la señal de permiso de circulación «Velocidad 40 km/h y libre» completada con un indicador numérico con el dígito 5, de la señal de salida L1, situada a la derecha de la vía de estación n.º 1 en el pk 8,243 (kilometraje de la línea Ostrava hl. n. – Valašské Meziříčí). La velocidad máxima permitida para el tren Os 3425 en el área de los desvíos adyacentes a la señal principal L1 era de 50 km/h.
 
 La estación de Ostrava-Kunčice está equipada con un dispositivo de seguridad de estación (en lo sucesivo, SZZ) de la 3.ª categoría, tipo ETB, controlado por una unidad operativa unificada (en lo sucesivo, JOP). El tramo interstacional entre Ostrava-Kunčice y Ostrava-Bartovice está equipado con un bloqueo automático unilateral de mano derecha de la 3.ª categoría.
@@ -200,8 +204,8 @@ El empleado de la COP, basándose en los hechos notificados, decidió a las 18:3
 
 La Inspección Territorial de Ostrava fue encargada de la subsiguiente investigación de las causas y circunstancias de la aparición del incidente. La propia investigación de las causas y circunstancias de la aparición del incidente se llevó a cabo de conformidad con el artículo 53, letra b), de la Ley n.º 266/1994 Coll., sobre ferrocarriles, en su versión vigente (en lo sucesivo, Ley n.º 266/1994 Coll.) y con los artículos 11 y 12 del Decreto n.º 376/2006 Coll., sobre el sistema de seguridad de la explotación de la infraestructura y del transporte ferroviario y los procedimientos en caso de aparición de incidentes en la infraestructura ferroviaria (en lo sucesivo, Decreto n.º 376/2006 Coll.).
 
-
 ## Página 8
+
 
 ### 2.2 Circunstancias del incidente
 ### 2.2.1 Empleados participantes del administrador de la infraestructura y del transportista, personas en relación contractual y otros participantes y testigos
@@ -245,6 +249,7 @@ El propietario del TEM en cuestión es České dráhy, a. s., y el TEM está inc
 El incidente se produjo en la línea ferroviaria nacional Český Těšín – Výhybna Polanka nad Odrou, electrificada con corriente continua de 3 kV, en la estación de Ostrava-Kunčice, en el extremo de Bartovice, en el pk 8,627 (kilometraje de la línea Ostrava hl. n. – Valašské Meziříčí) = pk 28,442 (kilometraje
 
 ## Página 9
+
 
 dráhy Český Těšín – Výhybna Polanka nad Odrou) en el punto de cruce n.º 89, de forma UIC 60 1:11-300, 
 izquierda, instalado en 1999. La vía del tren para el tren de viajeros Os 3425 en salida fue establecida desde 
@@ -297,10 +302,10 @@ del incidente fue notificada al responsable del turno del Centro Regional de Ope
 República Checa, división distrital de Ostrava. Al inspector jefe de Českých drah, a. s., de la Inspección Regional 
 de Transporte Ferroviario de Ostrava, persona autorizada según el artículo 9 del decreto n.º 376/2006 Coll., 
 para determinar las causas y las circunstancias de la aparición del incidente, notificó la aparición del incidente a la Oficina Central de Notificación 
-de la Inspección Ferroviaria a las 19:29 h. 
-
+de la Inspección Ferroviaria a las 19:29 h.
 
 ## Página 10
+
 
 ### 2.2.7 Activación del plan del sistema integrado de rescate de la policía y 
 del servicio de rescate médico y secuencia de los acontecimientos
@@ -361,6 +366,7 @@ arrancada del marco del bogie la placa de impacto de la caja del vehículo.
 
 ## Página 11
 
+
 Mediante la inspección comisionada se determinaron daños por un importe de aproximadamente 160.000,- Kč.
 El 31.03.2008, el EMJ 460.013-6/460.014-4, incluido el TDV 063.321-4, fue destinado a una reparación periódica. El importe real de los daños en el momento de redactar el Informe sobre los resultados de la investigación de las causas y circunstancias de la aparición del IM no fue cuantificado por el explotador del transporte ferroviario.
 Se detectó el siguiente daño en los componentes de la vía en la estación de Ostrava-Kunčice:
@@ -387,8 +393,8 @@ El lugar del IM se encuentra en el catastro del municipio de Ostrava-Kunčice.
 El maquinista del tren Os 3425, en el "Acta con el empleado" redactada por České dráhy, a. s., DKV Olomouc, Unidad de explotación de Bohumín, el 11.12.2007, indicó:
 "La marcha del tren se desarrolló sin averías; no observé ningún comportamiento anormal de la unidad. El tren 3425 lo conduje desde la unidad 013. Tras la salida de la estación de Ostrava-Kunčice, escuché en la radio de mano cómo el despachador de tráfico me comunicaba que, tras la salida de mi tren, había caído algo. Pensé reaccionar deteniendo el tren, pero ya se estaba produciendo una fuga de aire del conducto principal del tren y la consiguiente parada. En los primeros instantes no supe qué había ocurrido; tras la parada, me desplacé a lo largo del tren y vi que el vagón 063021 estaba inclinado y que un bogie del vagón había descarrilado. Más tarde descubrí que un viajero había accionado los frenos de emergencia del vagón; tras regresar a la cabina, comuniqué esto al despachador de tráfico y esperé la llegada de los órganos investigadores".
 
-
 ## Página 12
+
 
 ### El despachador de tráfico de la estación de Ostrava-Kunčice, en el "Acta con el empleado" redactada por České dráhy, a. s., Estación nodal de Ostrava hl. n., el 07.12.2007, indicó, entre otras cosas:
 "El 6.12.2007 inicié el turno nocturno habitual en el cargo de despachador de tráfico JOP O. Kunčice. A las 18,30 h di la orden al vigilante de estación para que entregara la indicación «V» en la vía 5 para el tren 50540. En ese momento ya se había preparado la ruta de tren para el EOs 3425 desde la vía 1 de estación a la 1.ª vía de vía principal en dirección a O. Bartovice. Al mismo tiempo, el vigilante de estación se comunicó por radio de mano pidiendo «...retirad la indicación de salida de la vía 1». Miré inmediatamente por la ventana para ver dónde se encontraba el tren; ya estaba en movimiento y, al mirar el monitor, ya había superado la indicación de salida L 1. El despachador de tráfico de circulación se comunicó inmediatamente con el maquinista mediante la radio de tren (TRS) y le comunicó que, a través del vigilante de estación, había comprobado que algo no estaba bien en el tren. El maquinista respondió que ya se había detenido, que se le había escapado el aire y que iba a comprobar la avería. Tras un rato, el maquinista indicó que se había arrancado el freno de emergencia. ...".
@@ -404,6 +410,7 @@ El viajero, en el "Acta de explicaciones prestadas por persona participante en e
 Tras la salida del tren de la estación de Ostrava-Kunčice, en el cabezal de Bartovice, escuché un fuerte golpe, tras el cual siguieron todos los sonidos característicos de la marcha de un vagón descarrilado. A través de las puertas de paso abiertas entre los vagones intercalados, vi que el vagón intercalado situado detrás del vagón en el que viajaba había descarrilado. A través de las puertas de paso abiertas hacia el interior de ambos vagones entraba ruido y una gran cantidad de polvo levantado causado por la marcha del vagón descarrilado. Dado que el tren no frenaba, tiré de la maneta del freno de emergencia, situada en el compartimento en el que viajaba. Tras la consiguiente fuga de aire del conducto principal del freno automático continuo de presión, el tren se detuvo. Exhorté a los viajeros del compartimento en el que viajaba a que permanecieran en sus asientos y esperaran las instrucciones de la tripulación. Luego corrí hacia el vagón descarrilado. Todos los viajeros estaban de pie en el pasillo. Pregunté si alguien resultó herido. Los viajeros me respondieron que estaban bien. Dado que ambos compartimentos del vagón intercalado descarrilado estaban llenos de una gran cantidad de polvo, exhorté a los viajeros a que se trasladaran a los vagones delanteros y esperaran las instrucciones de la tripulación. Los viajeros se comportaron de manera disciplinada y sumisa. Cuando todos los viajeros
 
 ## Página 13
+
 
 pasaron al vagón intercalado delantero, me dirigí hacia el maquinista, al cual le comuniqué que el tren se había detenido como consecuencia de mi tirón de la palanca del freno de emergencia, debido a que el vagón intercalado trasero se descarriló. Asimismo, comuniqué al maquinista que ningún pasajero había resultado herido y le insté a que, mediante la estación de radio del vehículo, informara al despachador de la estación de Ostrava-Kunčice de la creación de una situación extraordinaria con la solicitud de detención de las circulaciones de los vehículos ferroviarios en la segunda vía entre las estaciones de Ostrava-Kunčice y Ostrava-Bartovice. No sabía si el vagón intercalado descarrilado afectaba al perfil de paso libre de la vía lateral.  ...“.  
 ### 3.2 Sistema de garantía de la seguridad
@@ -423,8 +430,8 @@ el 01. 10. 2000 en su versión vigente, donde en el art. 16 se indica:
 Nota: 
 Para la retirada a mantenimiento de los vagones de mando e intercalados de las unidades eléctricas y de motor completas se aplican las mismas directrices que para los vehículos eléctricos o de motor a los que pertenecen estos vagones de mando e intercalados. En este caso, los vagones intercalados y de mando de las unidades completas se retiran a las asistencias operativas y a las inspecciones periódicas conjuntamente con los vehículos eléctricos o de motor de estas unidades. Los vehículos acoplados y de mando de los vehículos eléctricos o de motor que no forman una unidad de transporte completa se retiran a mantenimiento sobre la base de los recorridos kilométricos indicados en el anexo n.º 1.
 
-
 ## Página 14
+
 
    Tabla n.º 1:
 | Denominación | Designación |  |  |  |  |
@@ -472,23 +479,28 @@ A: HKV de tracción eléctrica:
 | 162 163 263 362 , , , , 3633/ |  | 17 26 | 180 |  | 2200 |  |
 | 371 372 , | 4 5 , 6 5 , |  |  | 600 | 1200 |  |
 | 470 |  | 20 26 | 200 | 400 | 800 | 2500 |
-1/ Si no se realiza EVY, el km recorrido es 360.
-
-● El reglamento interno ČD V 25/3 «NORMA PARA LAS REPARACIONES PERIÓDICAS DE LAS UNIDADES ELÉCTRICAS DE LAS SERIES 451, 452, 460, 560» aprobado el 29. 12. 1992, ref. n.º 60.904/1991 en su versión vigente, establece en el art. 1:
-«Esta «Norma para las reparaciones periódicas de las unidades eléctricas» (en adelante, la norma) es aplicable a las reparaciones periódicas de las unidades eléctricas de las series 460, 560, 451 y 452 (incluidas las reparaciones periódicas de los coches intermedios 060, 063, 051 y 052)».
-
-● El reglamento interno ČD V 25/3 «NORMA PARA LAS REPARACIONES PERIÓDICAS DE LAS UNIDADES ELÉCTRICAS DE LAS SERIES 451, 452, 460, 560» aprobado el 29. 12. 1992, ref. n.º 60.904/1991 en su versión vigente, establece en el art. 38:
-«Tras el desmontaje de la suspensión secundaria, durante la reparación se realizará:
-a) Limpieza de las piezas de la suspensión secundaria.
-b) Inspección visual de las vigas de los muelles (460, 560, 060, 063) en busca de grietas. Durante la inspección se debe prestar especial atención a las zonas de las soldaduras. No se admiten grietas en toda la superficie de las vigas de los muelles.
-c) Inspección visual de las vigas de los muelles (460, 560, 060, 063), centrándose en las zonas de los asientos para los muelles helicoidales, en los orificios para los pasadores de los soportes de la suspensión secundaria (460, 560), en los asientos de los soportes de la suspensión secundaria (060, 063), en las inserciones de goma para la unión de las dos mitades de la viga del muelle (063) y en la unión de las vigas de los muelles con la barra de torsión (060). No se admiten daños mecánicos de las superficies de apoyo de las vigas de los muelles mediante arañazos agudos, grietas de profundidad igual o superior a 5 mm ni desprendimiento de los bordes de las inserciones de goma (063) ni daños o aflojamiento de las uniones atornilladas de las vigas de los muelles con la barra de torsión (060).
-d) Inspección visual del estado y la ejecución de los muelles helicoidales de la suspensión secundaria (460, 560, 060, 063). No se admiten grietas, muescas, rayas transversales ni material desprendido en la superficie de los muelles helicoidales.
-e) Inspección visual del estado de los muelles de las barras de torsión (451, 452, 051, 052) de acuerdo con la norma ČSD V 20/5.
-f) Control defectoscópico de las barras de torsión (460, 560), los soportes y las tuercas de los soportes (460, 560,
-### 060, 063). No se admiten grietas en las piezas indicadas, excepto en los soportes (460, 560).
-En los soportes (460,560) se admite el siguiente alcance de defectos:
+1/  Si no se realiza EVY, el km de recorrido es 360.
+reglamento interno ČD V 25/3 «REGLAMENTO PARA LAS REPARACIONES PERIÓDICAS DE
+●
+UNIDADES ELÉCTRICAS DE LA SERIE 451, 452, 460, 560» aprobado el 29. 12. 1992, ref. n.º
+60.904/1991 en su versión vigente, se indica en el art. 1:
+«El presente "Reglamento para las reparaciones periódicas de unidades eléctricas" (en adelante, el reglamento) es aplicable a las reparaciones periódicas de las unidades eléctricas de las series 460, 560, 451 y 452 (incluidas las reparaciones periódicas de los coches intercalados 060, 063, 051 y 052)».
+reglamento interno ČD V 25/3 «REGLAMENTO PARA LAS REPARACIONES PERIÓDICAS DE
+●
+UNIDADES ELÉCTRICAS DE LA SERIE 451, 452, 460, 560» aprobado el 29. 12. 1992, ref. n.º
+60.904/1991 en su versión vigente, se indica en el art. 38:
+«Tras el desmontaje del suspensorio secundario, durante la reparación se realizará:
+a) Limpieza de las piezas del suspensorio secundario.
+b) Inspección visual de los soportes de muelle (460, 560, 060, 063) en busca de grietas. Durante la inspección es necesario prestar atención especialmente a las zonas de soldadura. En toda la superficie de los soportes de muelle no se admiten grietas.
+c) Inspección visual de los soportes de muelle (460, 560, 060, 063), con especial atención a las zonas de asiento para los muelles helicoidales, a las barrenas para los pasadores de los soportes del suspensorio secundario (460, 560), a los asientos de los soportes del suspensorio secundario (060, 063), a las juntas de goma para la unión de ambas mitades del soporte de muelle (063) y a la unión de los soportes de muelle con la biela (060). No se admiten daños mecánicos en las superficies de apoyo de los soportes de muelle con surcos afilados, grietas de una profundidad de 5 mm o más, ni el desprendimiento de los bordes de las juntas de goma (063), así como daños o aflojamiento de las uniones roscadas de los soportes de muelle con la biela (060).
+d) Inspección visual de la superficie y ejecución de los muelles helicoidales del suspensorio secundario (460, 560, 060, 063). No se admiten grietas, muescas, rayas transversales ni material desprendido en la superficie de los muelles helicoidales.
+e) Inspección visual del estado de los largueros (451, 452, 051, 052) de acuerdo con el reglamento ČSD V 20/5.
+f) Inspección por control de defectos de los travesaños (460, 560), de los soportes y de las tuercas de los soportes (460, 560,
+### 060, 063). No se admiten grietas en las piezas indicadas, con excepción de los soportes (460, 560).
+En los soportes (460, 560) se admite el siguiente alcance de defectos:
 
 ## Página 16
+
 
 fa) En los últimos 5 hilos en el extremo superior de los soportes pueden existir grietas con una longitud total de un hilo, sin que ninguna grieta pueda tener una longitud superior a 1/3 de la circunferencia.
 fb) En la parte restante de los hilos hacia abajo, hasta los ojos de los soportes, pueden existir como máximo 3 grietas, ninguna de las cuales puede superar una longitud de 15 mm.
@@ -520,30 +532,33 @@ Tras este manejo, el maquinista verifica que la estación de radio está en la p
 
 ## Página 17
 
-Si no se pudiera restablecer el funcionamiento correcto de la estación de radio a bordo del tren mediante la operación indicada o debido a otra avería,
+Si por la operación indicada o por cualquier otra avería no fuera posible restablecer
 –
-el maquinista debe liberar el freno del tren cerrando la llave de cierre en la derivación del conducto de frenos (pintada de amarillo y sellada).
-A continuación, el maquinista procederá de acuerdo con lo dispuesto en la norma ČD T108.
+el correcto funcionamiento de la estación de radio del vehículo, el maquinista debe desfrenar el tren cerrando la llave de cierre en la derivación del tubo de freno (pintada de amarillo y precintada).
+A continuación, el maquinista procede según las disposiciones de la norma ČD T108.
 –
-Si no es posible determinar la causa de la parada del tren mediante los medios de telecomunicación disponibles,
+Si no es posible determinar la causa de la parada del tren por los medios de telecomunicación disponibles,
 –
-el maquinista podrá continuar la marcha según las condiciones de visibilidad hasta la estación más cercana, debiendo suponer que los pasos a nivel con barreras y semibarreras (PZZ) no estarán cerrados y actuará como si hubiera recibido la orden Op, parte A.“
-### 3.2.2 Requisitos aplicables al personal del administrador de la infraestructura y del transportista y su cumplimiento
-La aptitud física del personal del administrador de la infraestructura y del transportista se evalúa conforme a lo dispuesto en el Decreto n.º 101/1995 Coll., por el que se aprueba el Reglamento sobre la aptitud física y profesional de las personas que participan en la explotación de la vía férrea y del transporte ferroviario, en su versión vigente.
-En el momento de la aparición del incidente en cuestión, todo el personal del administrador de la infraestructura y del transportista participante en el incidente disponía de un informe válido sobre aptitud física.
-Los requisitos de aptitud profesional, incluido el modo de su cumplimiento, se establecen en el reglamento interno del administrador de la infraestructura y del transportista «ČD Ok 2 REGLAMENTO DE FORMACIÓN Y EXAMEN DE ČESKÉ DRÁHY, a. s.», aprobado el 07. 12. 2005, con el número de registro: 61773/05-O10, con efecto desde el 01. 01. 2006, en su versión vigente.
-Todo el personal participante del administrador estaba profesionalmente cualificado para el desempeño de la función que ostentaba en el momento de la aparición del incidente. Las anotaciones por escrito forman parte del expediente.
-La condición de aptitud para la conducción de vehículos ferroviarios se establece en el artículo 45 de la Ley n.º 266/1994 Coll., sobre vías férreas, en su versión vigente.
-El maquinista es titular de un Certificado de aptitud para la conducción de vehículos ferroviarios válido, núm. de registro 502833, emitido por la Oficina Ferroviaria de Praga el 23. 10. 2007, para el tipo de vehículo M, E1, en la vía C.
+el maquinista puede continuar la marcha según las condiciones de visibilidad hasta la estación más próxima; debe suponer que los pasos a nivel con PZZ no estarán cerrados y actuar como si hubiera sido informado de la orden Op, parte A.“
+### 3.2.2 Requisitos de los empleados del gestor de la vía y del transportista y su aplicación
+La aptitud física de los empleados del gestor de la vía y del transportista se evalúa en el sentido de las disposiciones del decreto nº 101/1995 Sb., por el que se dicta el Reglamento de aptitud física y profesional de las personas para la explotación de la vía y del transporte ferroviario, en su versión vigente.
+En el momento de producirse el siniestro MU, todos los empleados del gestor de la vía y del transportista participantes en el MU disponían de un dictamen válido de aptitud física.
+Los requisitos de aptitud profesional, incluido el modo de su aplicación, los establece la norma interna del gestor de la vía y del transportista „ČD Ok 2 VÝCVIKOVÝ A ZKUŠENÍ ŘÁD ČESKÝCH DRAH, a. s.“, aprobada el 07. 12. 2005, con referencia nº 61773/05-O10, en vigor desde el 01. 01. 2006, en su versión vigente.
+Todos los empleados del gestor participantes eran, en el momento de producirse el MU, profesionalmente aptos para el desempeño de la función que ocupaban. Los registros escritos forman parte del expediente.
+La condición de aptitud para la conducción de vehículos ferroviarios la establece el § 45 de la ley nº 266/1994 Sb., de vías, en su versión vigente.
+El maquinista es titular de un Prueba de Aptitud para la conducción de vehículos ferroviarios válido, nº de expediente 502833, expedido por la Oficina Ferroviaria de Praga, el 23. 10. 2007, para la clase de vehículo M, E1, en la vía C.
 ### 3.2.3 Procedimientos de control interno de seguridad y sus resultados
-A petición de la Inspección Ferroviaria de fecha 15. 01. 2008, núm. de registro: 1-98/2008/DI, el administrador del transporte ferroviario indicó en el documento «Petición relativa a un incidente extraordinario – Comunicación» núm. de registro: 393/2008-O12 de fecha 31. 01. 2008:
-«El soporte inferior del basculante de la suspensión secundaria, que se fracturó, se inspecciona visualmente en cada una de las revisiones periódicas dentro del mantenimiento regular realizado en el marco de las revisiones DKV (alcance EO, EM, EV) de mantenimiento, véase. La inspección del desgaste, la posible reparación de las dimensiones del asiento en cruz y la inspección no destructiva del soporte mediante el método magnético se realizan en el marco de las reparaciones periódicas de niveles superiores (EVY, EH) a cargo de reparadores externos. Esta reparación e inspección no destructiva (se entiende EMJ 460.013-6/014-4) se realizó durante la reparación de alcance EH (02. 03. -01.06. 1999) en Pars DMN s. r. o. (actualmente Pars nova, a. s., Šumperk). ...
-Las reparaciones y el mantenimiento de estos vehículos se realizan según la Instrucción de mantenimiento de la unidad eléctrica EM 488, conforme a la norma ČD V 25 en la versión de otras Medidas de ejecución de la norma V 25, así como conforme a la norma ČD V 25/3. ...».
-Antes de la aparición del incidente, se realizaron en la EMJ 460.013-6/014-4, conforme al anexo n.º 1 del reglamento interno del transportista ČD V 25 «NORMA PARA LA ORGANIZACIÓN DEL MANTENIMIENTO DE VEHÍCULOS TRACTORES ELÉCTRICOS Y DE MOTOR, DE PASAJEROS, MODULARES, ACoplados Y DE MANDO», aprobada el 20. 09. 2000, con el número de registro: 59.213/00-O12, con efecto desde el 01. 10. 2000, en su versión vigente, las siguientes inspecciones y reparaciones periódicas:
-Inspección periódica menor (EM) – norma 5 000-7 500 km. En la EMJ 460.013-6/014-4 se realizó antes de la aparición del incidente el 22. 11. 2007 tras recorrer 4 524 km;
-### Inspección periódica mayor (EV) – norma 90 000 km. En la EMJ 460.013-6/014-4 antes de la aparición del incidente se realizó el 22. 11. 2007 tras recorrer 31 502 km;
+En respuesta a la solicitud de la Inspección Ferroviaria de fecha 15. 01. 2008, ref. nº 1-98/2008/DI, el gestor del transporte ferroviario, en el documento „Solicitud en relación con el suceso excepcional – Comunicación“ ref. nº 393/2008-O12 de fecha 31. 01. 2008, indicó:
+
+„El soporte inferior del balancín del amortiguador secundario, en el que se produjo la rotura, es objeto de inspección visual en cada una de las revisiones periódicas realizadas en el marco del DKV (alcance EO, EM, EV). La comprobación del desgaste, la eventual reparación de las dimensiones del asiento de la cruz y la inspección por defectoscopia del soporte mediante el método magnético se realizan en el marco de las reparaciones periódicas de mayor alcance (EVY, EH) en talleres externos. Dicha reparación y dicha inspección por defectoscopia (entendida EMJ 460.013-6/014-4) se realizaron durante la reparación de alcance EH (02. 03. -01.06. 1999) en Pars DMN s. r. o. (hoy Pars nova, a. s., Šumperk). ...
+Las reparaciones y el mantenimiento de estos vehículos se realizan según el Manual de mantenimiento de la unidad eléctrica EM 488, según la norma ČD V 25 en la redacción de las demás Medidas de Aplicación a la norma V 25, y asimismo según la norma ČD V 25/3. ...“.
+Antes de producirse el MU, en la EMJ 460.013-6/014-4, en el sentido del anexo nº 1 de la norma interna del transportista
+ČD V 25 „NORMA PARA LA ORGANIZACIÓN DEL MANTENIMIENTO DE VEHÍCULOS ELÉCTRICOS Y DE TRACCIÓN MOTOR, DE PASAJEROS, INTERCALADOS, DE REMOLQUE Y DE MANDO“, aprobada el 20. 09. 2000, con referencia nº 59.213/00-O12, en vigor desde el 01. 10. 2000, en su versión vigente, se realizaron las siguientes revisiones y reparaciones periódicas:
+Revisión periódica pequeña (EM) – norma 5 000-7 500 km. En la EMJ 460.013-6/014-4, antes de producirse el MU, realizada el 22. 11. 2007 tras recorrer 4 524 km;
+### Revisión periódica grande (EV) – norma 90 000 km. En la EMJ 460.013-6/014-4, antes de
 
 ## Página 18
+
 
 antes de la aparición del incidente se realizó el 22. 11. 2007 tras recorrer 31 502 km;
 Reparación periódica de suspensión (EVY) – norma 360 000 km. En la EMJ 460.013-6/014-4 antes de la aparición del incidente no se realizó;
@@ -591,6 +606,7 @@ reglamento interno ČD V 25 NORMA PARA LA ORGANIZACIÓN DEL MANTENIMIENTO DE VEH
 
 ## Página 19
 
+
 MANUALES DE CONDUCCIÓN, aprobados por resolución del director general de la División Comercial y de Explotación, de fecha 20.09.2000, con el número de expediente 59. 213/00-O12, en su versión vigente;
 norma interna de ČD V 25/3 NORMA PARA LAS REVISIONES PERIÓDICAS DE LAS UNIDADES ELÉCTRICAS DE LAS SERIES 451, 452, 460, 560, aprobada por el viceministro director central de ČSD, de fecha 29.12.1992, con el número de expediente 60. 904/1991, en su versión vigente;
 MANUAL DE MANTENIMIENTO DE LA UNIDAD ELÉCTRICA EM 488.0, publicado por el fabricante
@@ -611,6 +627,7 @@ La estación de Ostrava-Kunčice está equipada con un SZZ de categoría 3 de ti
 El tramo interstacional Ostrava-Kunčice – Ostrava-Bartovice está equipado con un bloqueo automático de vía única en sentido derecho de categoría 3.
 
 ## Página 20
+
 
 La estación de ferrocarril de Ostrava-Kunčice se encuentra también en la línea ferroviaria nacional Ostrava – Valašské Meziříčí, cubierta por la señal «Vf» del sistema de banda estrecha TRS, que permite en el canal compartido de la banda n.º 60 la comunicación entre el despachador, los jefes de estación de las estaciones adyacentes y los maquinistas de los vehículos de tracción diésel (HDV) equipados con la parte móvil del sistema TRS. Las islas de la red TRS constituyen las estaciones base de radio situadas en las distintas estaciones de ferrocarril. La estación base de radio situada en la estación de Ostrava-Kunčice funciona en la señal «Vf» de 467,500 MHz.
 
@@ -642,37 +659,37 @@ El TDV 063.321-4 descarrilado tiene la última inspección técnica periódica r
 
 ## Página 21
 
-El HDV 460.013-6, que circula a la cabeza del tren Os 3425, está equipado, según el artículo 5, apartado 5, del anexo n.º 3 del Decreto n.º 173/1995 Coll., con un dispositivo de registro, un registrador de velocidad n.º 76160 con registro mecánico de datos y un rango de medición de velocidad de 0 a 150 km/h.
-
-De la evaluación de los datos registrados por el registrador de velocidad n.º 76160, situado en la cabina del maquinista del HDV serie 460.013-6, se desprende:
-
-*   la hora de llegada del tren a la estación de Ostrava-Kunčice está registrada a las 18:29 h;
-*   la hora de salida del tren de la estación de Ostrava-Kunčice está registrada a las 18:30 h;
-*   la hora en el lugar del descarrilamiento está registrada a las 18:31 h aproximadamente, a una velocidad de 47 – 48 km/h;
-*   la hora de detención tras la producción del incidente está registrada a las 18:31:30 h, tras recorrer una distancia de aproximadamente 1 000 m desde el último lugar de detención en la estación de Ostrava-Kunčice;
-*   no se superó la velocidad máxima permitida de 50 km/h en el lugar de producción del incidente;
-*   durante la circulación del tren Os 3425 no se superó la velocidad máxima permitida;
-*   el dispositivo de seguridad del tren estaba activado durante toda la circulación del tren y fue operado periódicamente por el maquinista.
-
-### 3.5 Documentación sobre el sistema de explotación
-
-### 3.5.1 Medidas adoptadas por los empleados del explotador de la vía y del transportista, en lo que respecta a la gestión de la señalización y la seguridad del tráfico
-
-El tren Os 3425 salió de la vía de estación n.º 1 de la estación de Ostrava-Kunčice, desde el área de embarque y desembarque de viajeros, a las 18:30 h. La salida del tren se llevó a cabo de conformidad con el artículo 505 del reglamento interno «ČD D2 REGLAMENTO PARA LA ORGANIZACIÓN Y LA EXPLOTACIÓN DEL TRÁFICO FERROVIARIO», aprobado por decisión del director general de los Ferrocarriles Checos el 13 de marzo de 1997, n.º de registro: 55079/97-O11, en su versión vigente, mediante el establecimiento de la señal de salida en la señal que permite la circulación del tren.
-
-Mediante la comprobación del estado del SZZ ETB 4 y del JOP se comprobó que la vía de circulación para el tren Os 3425 se había establecido mediante la operación normal del SZZ desde la vía n.º 1 hacia la vía principal n.º 1 en dirección a la estación de Ostrava-Bartovice y no se había recorrido en toda su longitud. Se retiraron los datos del TPC n.º 1 y n.º 2. En el momento de la producción del incidente, el SZZ funcionaba sin averías y no se había registrado ninguna avería. Como consecuencia del incidente, se dañaron los cables de alimentación de los circuitos de vía. El tren Os 3425 salía de la vía n.º 1 con la señal «Velocidad 40 km/h y libre» complementada con un panel indicador con el número 5 de la señal de salida L1.
-
-### 3.5.2 Intercambio de mensajes verbales en relación con el incidente extraordinario, incluidos los documentos del dispositivo de registro
-
-Se puede considerar como el primer mensaje comprobado en relación con el incidente la información transmitida por radio desde el vigilante de estación al despachador de tráfico, mediante la cual le comunicaba que en el tren Os 3425 que salía había una pieza suelta en el bogie delantero del cuarto vehículo de tracción diésel (TDV).
-
-El mencionado mensaje verbal se desprende de las actas del archivo de datos del TPC 1 y del TPC 2 del SZZ ETB de la estación de Ostrava-Kunčice.
-
-### 3.5.3 Medidas adoptadas para la protección y seguridad del lugar del incidente extraordinario
-
-Las medidas de protección y seguridad del lugar del incidente se aseguraron, hasta la llegada de la persona autorizada y técnicamente competente del explotador de la vía y del transporte ferroviario (en adelante, persona autorizada), por el maquinista del tren Os 3425 en colaboración con el empleado de la DI. Tras la llegada de la persona autorizada, las medidas de protección y seguridad del lugar del incidente se adoptaron en coordinación con los órganos competentes en el procedimiento penal.
+HDV 460.013-6, que circula a la cabeza del tren Os 3425, está equipado, en el sentido del decreto nº 173/1995 Sb., anexo nº 3, parte II, apartado 5., con un dispositivo de registro, registrador de velocidad nº 76160 con registro mecánico de datos y rango de medición de velocidad de 0 - 150 km/h.
+De la evaluación de los datos registrados por el registrador de velocidad nº 76160, situado en la cabina de conducción del HDV de la serie 460.013-6, se desprende:
+la hora de llegada del tren a la est. Ostrava-Kunčice está registrada a las 18:29 h;
+•
+la hora de salida del tren de la est. Ostrava-Kunčice está registrada a las 18:30 h;
+•
+la hora en el lugar del descarrilamiento está registrada a las ca. 18:31 h a una velocidad de 47 – 48 km hֿ¹;
+•
+la hora de detención tras la producción del MU está registrada a las 18:31:30 h después de recorrer una distancia de ca. 1 000 m desde el
+•
+último punto de parada en la est. Ostrava-Kunčice;
+no se produjo el paso de la velocidad máxima permitida de 50 km/h en el lugar de producción del MU;
+•
+durante la circulación del tren Os 3425 no se superó la velocidad máxima permitida;
+•
+el protector de tren estuvo activado durante todo el tiempo de circulación del tren y fue
+•
+operado periódicamente por el maquinista.
+### 3.5 Documentación sobre el sistema operativo
+### 3.5.1 Medidas adoptadas por los empleados del gestor de la infraestructura y del transportista en lo que respecta a la señalización de control y la seguridad del tráfico
+El tren Os 3425 salió de la vía de estación nº 1 de la est. Ostrava-Kunčice, del espacio de embarque y desembarque de pasajeros, a las 18:30 h. La expedición del tren se llevó a cabo de conformidad con el art. 505 de la norma interna «ČD D2 PŘEDPIS PRO ORGANIZOVÁNÍ A PROVOZOVÁNÍ DRÁŽNÍ DOPRAVY,
+aprobada por decisión del director general de los Ferrocarriles Checos de fecha 13 de marzo de 1997, ref. nº: 55079/97-O11, en su versión vigente, mediante la colocación de la señal de salida en la señal que autoriza la circulación del tren.
+Tras la comprobación del estado del SZZ ETB 4 y JOP se constató que la ruta ferroviaria para el tren Os 3425 fue establecida por la operación normal del SZZ desde la vía nº 1 hasta la 1. TK en dirección a la est. Ostrava-Bartovice y no fue recorrida en toda su longitud. Se descargaron los datos del TPC nº 1 y nº 2. En el momento de la producción del MU el SZZ funcionaba sin averías, no se registró ninguna incidencia. Como consecuencia del MU se dañaron los cables de tracción de los circuitos de vía. El tren Os 3425 salía de la vía nº 1 con la señal «Velocidad 40 km.h-1 y libre» complementada con la placa indicadora con el dígito 5 de la señal de salida L1.
+### 3.5.2 Intercambio de comunicaciones verbales en relación con el suceso excepcional, incluidos los documentos del dispositivo de registro
+Como primera comunicación acreditada en relación con el MU puede considerarse la información transmitida por radio por el jefe de estación al despachador de tráfico, en la que le comunicaba que en el tren saliente Os 3425 había una pieza suelta en el bogie delantero del cuarto TDV.
+La citada comunicación verbal se desprende de los registros del archivo de datos del TPC 1 y TPC 2 del SZZ ETB de la est. Ostrava-Kunčice.
+### 3.5.3 Medidas adoptadas para la protección y seguridad del lugar del suceso excepcional
+Las medidas de protección y seguridad del lugar del MU fueron aseguradas, hasta la llegada de la persona autorizada, profesionalmente competente, del gestor de la infraestructura y del transporte ferroviario (en adelante, persona autorizada), por el maquinista del tren Os 3425 en colaboración con un empleado del DI. Tras la llegada de la persona autorizada, las medidas de protección y seguridad del lugar del MU se adoptaron en cooperación con los órganos actuantes en el procedimiento penal.
 
 ## Página 22
+
 
 ### 3.6 Condiciones laborales, sanitarias y de explotación
 ### 3.6.1 Tiempo de trabajo del personal del administrador de la infraestructura y del transportista que fueron parte en el incidente
@@ -712,6 +729,7 @@ Meziříčí) = PK 28,442 (kilometraje de la línea Český Těšín – Výhybn
 La vía de circulación para el tren Os 3425 en salida se estableció desde la vía de estación n.º 1, a través de
 
 ## Página 23
+
 
 el punto de aguja nº 81 en dirección recta, el punto de aguja nº 82 contra el aguja a la izquierda, el derivación 
 y el punto de aguja nº 88 por el aguja desde la derecha, a través del punto de aguja nº 89 en dirección recta contra el aguja, la derivación 
@@ -755,6 +773,7 @@ despachador) de la estación de Ostrava-Kunčice inmediatamente después de la a
 
 ## Página 24
 
+
 ### 4.2 Análisis
 ### 4.2.1 Evaluación de los hechos constatados según el punto 3 y exposición de las conclusiones sobre la causa del incidente extraordinario y la actividad de los servicios de rescate
 
@@ -778,6 +797,7 @@ desde el área destinada a la bajada y subida de viajeros, el tren Os 3425 parti
 
 ## Página 25
 
+
 k vzniku MU došlo v 18:31 h při rychlosti 47 – 48 km hֿ¹;
 •
 el tren Os 3425 tras la aparición del incidente se detuvo a las 18:31:30 h, tras recorrer una distancia de 1 000 m desde la última
@@ -799,21 +819,46 @@ Según el documento «Solicitud de información sobre incidente extraordinario �
 
 ## Página 26
 
-talleres en el año ....», del:
-21.07.2004, bajo ref. n.º: 5658/2004 para el cuarto trimestre de 2004 tras recorrer 618 681 km;
+a los reparadores en el año ....", de fecha:
+21. 07. 2004, con n.º de expediente: 5658/2004 para el cuarto trimestre del año 2004 tras haber recorrido 618 681 km;
 •
-05.11.2004, bajo ref. n.º: 8379/2004 para el primer trimestre de 2005 tras recorrer 669 913 km;
+05. 11. 2004, con n.º de expediente: 8379/2004 para el primer trimestre del año 2005 tras haber recorrido 669 913 km;
 •
-14.08.2006, bajo ref. n.º: 6086/2006 para el segundo trimestre de 2006 tras recorrer 808 895 km;
+14. 08. 2006, con n.º de expediente" 6086/2006 para el segundo trimestre del año 2006 tras haber recorrido 808 895 km;
 •
-19.09.2006, bajo ref. n.º: 6871/2006 para el primer trimestre de 2007 tras recorrer 893 524 km.
+19. 09. 2006, con n.º de expediente: 6871/2006 para el primer trimestre del año 2007 tras haber recorrido 893 524 km.
 •
-De lo anterior se desprende que el operador de transporte ferroviario verificó el estado técnico actual del EMJ 460.013-6/014-4 y que el EMJ, en el sentido del apartado 1, letra a) del artículo 34 del Decreto n.º 173/1995 Coll., por el que se establece el reglamento de circulación ferroviaria, en su versión vigente, no había superado los límites admisibles de desgaste en las partes importantes para el funcionamiento, es decir, también en los enlaces del soporte de la suspensión secundaria, ni presentaba daños inaceptables ni grietas. Este hecho, sin embargo, está en contradicción con el documento «Solicitud de información sobre incidente extraordinario – Comunicación» ref. n.º 393/2008-O12/2 del 31.01.2008, en el que el operador de transporte ferroviario, entre otras cosas, indicó: «El enlace inferior de la basculante de la suspensión secundaria, sobre el cual se produjo la fractura, se inspecciona visualmente en el marco del mantenimiento regular llevado a cabo dentro del DKV (alcance EO, EM, EV) en cada una de estas revisiones regulares, véase mantenimiento regular. La inspección del desgaste, la posible reparación de las dimensiones del asiento cruzado y la inspección de defectos del enlace mediante el método magnético se realiza en el marco de las reparaciones periódicas de niveles superiores (EVY, EH)...».
-La inspección visual de los enlaces del soporte de la suspensión secundaria del EMJ, llevada a cabo en el alcance de las inspecciones periódicas EO, EM y EV, solo puede controlar las partes visibles del enlace. El grado de desgaste y daño, incluidas las grietas del enlace inferior, que atraviesa el soporte de la suspensión secundaria, en el lugar del asiento cruzado y del cojinete deslizante del soporte de la suspensión secundaria, no puede ser inspeccionado visualmente de hecho debido a la construcción de estas piezas, es decir, en el estado fijado del enlace de la suspensión secundaria, no se puede evaluar en ningún caso el estado técnico real y actual de esta parte importante para el funcionamiento del vehículo ferroviario.
-Antes de la aparición del incidente se produjo la rotura de la parte inferior del enlace frontal izquierdo del soporte de la suspensión secundaria TDV 063.321-4 en el lugar del asiento cruzado y del cojinete deslizante del soporte de la suspensión secundaria. La superficie de fractura presentaba 2 fracturas por fatiga en los bordes opuestos (25 % y 35 %, es decir, el 60 % de la superficie total de fractura) y una fractura frágil en la parte central (40 % de la superficie total de fractura). La última reparación e inspección de defectos de los enlaces inferiores del soporte de la suspensión secundaria TDV 063.321-4, centrada en la superación del límite de desgaste y daños inaceptables o grietas, se realizó en el marco de la reparación periódica EH el
-26.05.1999. El vehículo había recorrido 1.067.117 km desde esta fecha hasta la aparición del incidente.
+De lo anterior se deduce que el operador del transporte ferroviario verificó el estado técnico actual de la EMJ 
+460.013-6/014-4 y la EMJ, en el sentido del § 34 apartado 1 letra a) del decreto n.º 173/1995 Sb., 
+por el que se dicta el reglamento de circulación ferroviaria, en su versión vigente, no tenía en las partes 
+operativamente importantes, es decir, también en los soportes del portamuelle de suspensión secundaria, 
+excedidos los límites admisibles de desgaste, ni daños o grietas inadmisibles. Este hecho, sin embargo, 
+contradice el documento "Solicitud de caso excepcional – Comunicación" n.º de expediente 393/2008-O12/2 de fecha 
+31. 01. 2008, en el que el operador del transporte ferroviario, entre otras cosas, indicó: "El soporte inferior del 
+balancín de la suspensión secundaria, en el que se produjo la fractura, es objeto de verificación visual 
+### en cada una de estas revisiones periódicas 
+### realizadas en el ámbito del DKV (alcance EO, EM, EV). La comprobación del desgaste, la eventual reparación de las 
+dimensiones del asiento de la cruz y la comprobación por defectoscopia del soporte mediante el método magnético se 
+realizan en el marco de las reparaciones periódicas de mayor grado (EVY, EH) ...".
+Mediante la comprobación visual de los soportes del portamuelle de suspensión secundaria de la EMJ, realizada en el 
+alcance de las revisiones periódicas EO, EM y EV, solo pueden comprobarse las partes visibles del soporte. El grado 
+de desgaste y daños, incluidas las grietas del soporte inferior que atraviesa el portamuelle de suspensión secundaria, 
+en el punto del asiento de la cruz y de la superficie deslizante del portamuelle de suspensión secundaria, no puede 
+en realidad, dada la construcción de estas piezas, comprobarse visualmente, es decir, en el estado montado del 
+soporte de la suspensión secundaria no puede evaluarse en ningún caso el estado técnico real y actual de esta parte 
+operativamente importante del vehículo ferroviario. 
+Al suceso excepcional precedió el desprendimiento de la parte inferior del soporte frontal izquierdo del portamuelle 
+de suspensión secundaria TDV 063.321-4 en el punto del asiento de la cruz y de la superficie deslizante del 
+portamuelle de suspensión secundaria. La superficie de fractura presentaba 2 fracturas por fatiga en los lados 
+opuestos (25 % 
+y 35 %, es decir, 60 % de la superficie total de fractura) y una fractura frágil en la parte central (40 % de la superficie 
+total de fractura). La última reparación y comprobación por defectoscopia de los soportes inferiores del 
+portamuelle de suspensión secundaria TDV 063.321-4, centrada en la superación del límite de desgaste 
+y en daños o grietas inadmisibles, se realizó en el marco de la reparación periódica EH el 
+### 26. 05. 1999. El vehículo, desde esta fecha hasta la producción del suceso excepcional, recorrió 1.067.117 km.
 
 ## Página 27
+
 
 ### Operador de transporte ferroviario para el periodo desde la última revisión periódica del EMJ 
 460.013-6/014-4, realizada en el periodo comprendido entre el 02. 03. 1999 y el 01. 06. 1999, hasta la aparición del IM, 
@@ -823,10 +868,10 @@ Antes de la aparición del incidente se produjo la rotura de la parte inferior d
 460.013-6/014-4, que autorice al operador de transporte ferroviario, en virtud del artículo 22 del reglamento interno de ČD V 25 «NORMA PARA LA ORGANIZACIÓN DEL MANTENIMIENTO DE LOS VEHÍCULOS DE TRACCIÓN ELÉCTRICA Y AUTOMOTRIZ, DE PASAJEROS, INCLUIDOS, ADJUNTOS Y DE MANDO», aprobado por decisión del director general de la División Comercial y Operativa del 20. 9. 2000, con el número de expediente 59. 213/00-O12, en su versión vigente, a no someter este 
 ### EMJ a revisión periódica.
 El operador de transporte ferroviario, en relación con lo dispuesto en el apartado 1 y 2 del artículo 33 del Decreto n.º 173/1995 Coll., en virtud del apartado 1 letra a) del artículo 35 de la Ley n.º 266/1994 Coll., no garantizó la explotación del transporte ferroviario de conformidad con las normas de explotación del transporte ferroviario y la licencia vigente, al no someter, en virtud del artículo 22 del reglamento interno de ČD V 25 «NORMA PARA LA ORGANIZACIÓN DEL MANTENIMIENTO DE LOS VEHÍCULOS DE TRACCIÓN ELÉCTRICA Y AUTOMOTRIZ, DE PASAJEROS, 
-INCLUIDOS, ADJUNTOS Y DE MANDO», aprobado por decisión del director general de la División Comercial y Operativa del 20. 09. 2000, con el número de expediente 59. 213/00-O12, en su versión vigente, el EMJ 460.013-6/014-4 a revisión periódica, a pesar de que el real 
-
+INCLUIDOS, ADJUNTOS Y DE MANDO», aprobado por decisión del director general de la División Comercial y Operativa del 20. 09. 2000, con el número de expediente 59. 213/00-O12, en su versión vigente, el EMJ 460.013-6/014-4 a revisión periódica, a pesar de que el real
 
 ## Página 28
+
 
 (estado técnico actual) no era conocido.
 ### El operador de transporte ferroviario, además, en virtud del apartado 1 letra d) del artículo 35 y del apartado 1 del artículo 43 de la Ley n.º 266/1994 Coll. y del apartado 1 letra a) del artículo 34 del Decreto n.º 173/1995 Coll., no garantizó la explotación segura del transporte ferroviario con vehículos ferroviarios en un estado técnico que correspondiera a la aptitud aprobada, al explotar el vehículo ferroviario 063.321-4 
@@ -849,6 +894,7 @@ INCLUIDOS, ADJUNTOS Y DE MANDO», aprobado por decisión del director general de
 
 ## Página 29
 
+
 La DKV decidirá si la ŽKV debe solicitar la presentación para una revisión periódica del grado correspondiente, o si se solicitará la realización de una revisión periódica de grado inferior (por ejemplo, V en lugar de H), o si en lugar de la revisión periódica se realizará una inspección periódica del alcance V y si, en función de los kilómetros recorridos o del plazo hasta la inspección periódica V, se aplazará la revisión periódica.
 ### El procedimiento indicado puede combinarse o repetirse según el estado técnico real de la ŽKV”. El estado técnico real (actual) de los soportes del portador de la suspensión secundaria de los vehículos ferroviarios EMJ serie 460, que autoriza al operador de transporte ferroviario a decidir la necesidad de realizar una revisión periódica o su aplazamiento, se realiza mediante una inspección visual de los soportes. Sin embargo, mediante esta inspección no es posible en ningún caso evaluar el grado de desgaste y daño, incluidas las grietas del soporte, que atraviesa el portador de la suspensión secundaria, en el lugar del asiento transversal y del cojinete deslizante del portador de la suspensión secundaria, debido a la construcción de estos componentes en el estado montado del soporte de la suspensión secundaria. Se constata el incumplimiento de lo dispuesto en el apartado 1, letra d) del artículo 35 y en el apartado 1 del artículo 43 de la ley n.º 266/1994 Coll., por parte del operador de transporte ferroviario.
 ### 4.4 Hallazgos complementarios
@@ -863,8 +909,8 @@ Las medidas relativas al incidente en cuestión fueron adoptadas por el operador
 La Inspección Ferroviaria, en virtud del apartado 4, letra c) del artículo 53b de la ley n.º 266/1994 Coll., presentó el 26 de mayo de 2008, con ref. n.º: 5-432/2008/DI, una solicitud a la autoridad administrativa ferroviaria para iniciar un procedimiento de decisión sobre la inhabilidad del EMJ serie 460 para su explotación. La solicitud se refiere a los EMJ serie 460 que han alcanzado la norma de kilómetros recorridos (recomendada) para la presentación a revisión periódica y el operador de transporte ferroviario no evaluó el estado técnico real (actual) de las partes importantes para la explotación del vehículo ferroviario —los soportes del portador de la suspensión secundaria— de una manera que permitiera una evaluación inequívoca del límite de desgaste, o de daños o grietas inaceptables.
 El motivo de la solicitud es que la investigación del estado técnico real (actual) de las partes importantes para la explotación del EMJ serie 460 —los soportes del portador de la suspensión secundaria (barras de torsión)—,
 
-
 ## Página 30
+
 
 que autoriza al operador de transporte ferroviario, en virtud del reglamento interno ČD V 25, a decidir sobre la realización de una revisión periódica o su aplazamiento, sigue realizándose únicamente mediante inspección visual. Este método de inspección del grado de desgaste y daño, incluidas las grietas del soporte, que atraviesa el portador de la suspensión secundaria, en el lugar del asiento transversal y del cojinete deslizante del portador de la suspensión secundaria en el estado montado no permite,
 El hecho de que el procedimiento actual del operador de transporte ferroviario para controlar el estado técnico real (actual) del EMJ serie 460 sea insuficiente puede demostrarse con la nueva rotura de la parte inferior del soporte del portador de la suspensión secundaria del vehículo ferroviario insertado serie 063 durante la circulación del tren. El incidente ocurrió el 17 de marzo de 2008 entre las estaciones de Ostrava-Svinov y Studénka en el vehículo ferroviario 063.335-4, EMJ 460.023-5/024-3. Por pura casualidad no se produjo el incidente. El tren de pasajeros Os 2922, según el horario vigente de tráfico ferroviario, finalizó su recorrido en la estación de Studénka y la avería fue detectada por el maquinista, que inspeccionaba el tren desde el exterior, antes de la salida del tren de retorno Os 2933.
@@ -883,13 +929,13 @@ Inspector Jefe de la Inspección Territorial
 Ostrava
 Ostrava
 
-
 ## Página 31
+
 
 ### 7 ANEXOS
 Foto n.º 1: Vista de la parte rota del soporte inferior y del soporte roto
 
-
 ## Página 32
+
 
          Foto n.º 2: Vista de la superficie del soporte en el lugar de la rotura.

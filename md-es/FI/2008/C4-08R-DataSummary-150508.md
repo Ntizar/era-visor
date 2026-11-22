@@ -11,9 +11,9 @@ ratio_longitud: 1.03
 tokens_in: 1254
 tokens_out: 651
 verificacion: ok
-notas_cifras: ["bloque 1: original bilingüe: se compara contra el idioma principal (SV)"]
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (SV)"]
 ---
 ## Página 1
 

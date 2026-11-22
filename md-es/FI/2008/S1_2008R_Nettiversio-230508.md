@@ -10,13 +10,15 @@ chars: 99281
 ratio_longitud: 1.14
 tokens_in: 44247
 tokens_out: 29221
-verificacion: revisar
-notas_cifras: ["bloque 1: original bilingüe: se compara contra el idioma principal (SV)", "bloque 2: original bilingüe: se compara contra el idioma principal (EN)", "bloque 3: original bilingüe: se compara contra el idioma principal (SV)", "bloque 8: original bilingüe: se compara contra el idioma principal (FI)", "bloque 13: original bilingüe: se compara contra el idioma principal (FI)", "bloque 14: cifras cortas: 7/31"]
-avisos: ["bloque 2: ratio 1.76", "bloque 14: cifras largas: faltan 9/19 (47%)"]
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: revisar
+avisos: ["página 40: cifras largas: faltan 5/14 (36%)"]
+notas_cifras: ["página 2: original bilingüe: se compara contra el idioma principal (NL)", "página 4: original bilingüe: se compara contra el idioma principal (SV)", "página 6: original bilingüe: se compara contra el idioma principal (FI)", "página 7: original bilingüe: se compara contra el idioma principal (SV)", "página 18: original bilingüe: se compara contra el idioma principal (FI)", "página 21: original bilingüe: se compara contra el idioma principal (EN)"]
 ---
+
 ## Página 1
+
 
 Informe de investigación
 S1/2008R
@@ -24,8 +26,8 @@ Estudio de seguridad sobre las anomalías en la regulación del tráfico de Kouv
 Este informe de investigación se ha elaborado para mejorar la seguridad y prevenir nuevos accidentes.
 Aquí no se aborda la posible responsabilidad derivada del accidente ni la obligación de indemnización por daños y perjuicios. Debe evitarse el uso del informe de investigación para fines distintos de la mejora de la seguridad.
 
-
 ## Página 2
+
 
 ### Centro de investigación de accidentes
 ### Centralen för undersökning av olyckor
@@ -84,8 +86,8 @@ ISBN 978-951-836-266-4
 ISSN 1797-2108
 Multiprint Oy, Helsinki 2009
 
-
 ## Página 3
+
 
 ## RESUMEN
 El Centro de investigación de accidentes decidió el 21.8.2008 iniciar un estudio de seguridad sobre las anomalías detectadas en la regulación del tráfico de Kouvola. El punto de partida de la investigación fue la carta enviada por VR-Yhtymä Oy al Centro de investigación de accidentes el 17.6.2008, en la que expresaba su preocupación por las sospechas detectadas en el centro de regulación del tráfico de Kouvola sobre el funcionamiento erróneo de la automatización de vía libre y de los dispositivos de seguridad.
@@ -106,25 +108,25 @@ I
 
 ## Página 4
 
-Grupo Ab expresó su preocupación sobre las sospechas de funcionamiento incorrecto de la automatización de itinerarios y de los dispositivos de seguridad en el centro de control de tráfico de Kouvola.
-Inicialmente, la tarea de la comisión de investigación era investigar dos desviaciones que se habían observado antes de que se iniciara la investigación. Durante la fase inicial de la investigación se produjo una tercera desviación en el control de tráfico que se decidió incluir en la investigación.
-La primera desviación se produjo el 25.4.2008 en el tramo de vía Lahtis–Riihimäki en la estación de Järvelä. Durante una maniobra de maniobras, una función de memoria de la automatización de itinerarios dio lugar a un itinerario inesperado. La consecuencia fue que los desvíos a lo largo de la ruta de la unidad de maniobras se cambiaron.
-La segunda desviación se produjo el 23.5.2008 en el tramo de vía Lahtis–Riihimäki entre la estación de Lahtis y Hakosilta. Un tren regional que partió de la estación de Lahtis con destino a Riihimäki recibió un número y un itinerario que correspondían a otro tren regional que esperaba la hora de salida en la estación.
-La tercera desviación se observó el 6.9.2008 en el tramo de vía Kervo–Lahtis (Lahtis genbana) al sur de Hakosilta. Dos trenes se dirigían hacia Lahtis con solo un intervalo de sección de bloque entre ellos. En el límite entre dos instalaciones de enclavamiento al sur de Hakosilta, el número del segundo tren se transfirió al primer tren que pasaba en el sistema de control de tráfico.
-De la investigación se desprende que todas las desviaciones investigadas estaban relacionadas con funciones del software. En todos los casos, los fabricantes de los sistemas han confirmado las observaciones. En los casos investigados, la comisión de investigación evalúa además el sistema de tratamiento de desviaciones y el papel de los distintos actores en la gestión del sistema de datos. El proceso de tratamiento de desviaciones es deficiente.
+Group Ab expresó su preocupación por las sospechas de funcionamiento incorrecto de la automatización de itinerarios y de los dispositivos de seguridad en el centro de control de tráfico de Kouvola.
+Inicialmente, la tarea de la comisión de investigación era examinar dos desviaciones que se habían observado antes de que se iniciara la investigación. En la fase inicial de la investigación se produjo una tercera desviación en el control de tráfico que se decidió incluir en la investigación.
+La primera desviación se produjo el 25.4.2008 en la vía Lahtis–Riihimäki en la estación de tráfico de Järvelä. Durante el cambio de vía, una función de memoria en la automatización de itinerarios dio lugar a un itinerario inesperado. Como consecuencia, los desvíos a lo largo de la ruta de la unidad de cambio fueron reajustados.
+La segunda desviación se produjo el 23.5.2008 en la vía Lahtis–Riihimäki entre la estación de tráfico de Lahtis y Hakosilta. Un tren regional que partió de la estación de tráfico de Lahtis con destino a Riihimäki recibió un número y un itinerario que correspondían a otro tren regional que esperaba la hora de salida en la estación de tráfico.
+La tercera desviación se observó el 6.9.2008 en el tramo Kervo–Lahtis (bypass de Lahtis) al sur de Hakosilta. Dos trenes se dirigían hacia Lahtis con solo un intervalo de bloque entre ellos. En el límite entre dos estaciones de enclavamiento al sur de Hakosilta, el número de tren del segundo tren se transmitió al primer tren que pasaba en el sistema de control de tráfico.
+De la investigación se desprende que todas las desviaciones examinadas estaban relacionadas con funciones del software. En todos los casos, los fabricantes de los sistemas han confirmado las observaciones. En los casos examinados, la comisión de investigación evalúa además el sistema de tratamiento de desviaciones y el papel de los distintos actores en la gestión de los sistemas de datos. El proceso de tratamiento de desviaciones es deficiente.
 La comisión de investigación emitió dos recomendaciones:
 •
-Las organizaciones responsables de la propiedad, la explotación y el mantenimiento de los sistemas de control de tráfico y de seguridad deben mejorar y aclarar las rutinas para detectar y gestionar las desviaciones.
+Las organizaciones responsables de la propiedad, la explotación y el mantenimiento de los sistemas de control de tráfico y de seguridad deben mejorar y aclarar las rutinas para detectar y gestionar desviaciones.
 •
-Los expertos en control de tráfico que son usuarios directos diarios del sistema de control de tráfico deben participar en la definición, la verificación y la puesta en marcha de los sistemas, así como también en las tareas de administración de sistemas durante el ciclo de vida de los sistemas.
-## SUMMARY
-## SAFETY STUDY ON TRAFFIC CONTROL DEVIATIONS IN KOUVOLA, FINLAND
-On 21 August 2008, the Accident Investigation Board decided to start a safety study on traffic control safety deviations observed in Kouvola, Finland. The basis for the study was a VR Group Ltd letter sent to the Accident Investigation Board, dated 17 June 2008, in which VR Group expressed its concern about the possible route automation and safety system malfunctions observed in Kouvola Centralised Traffic Control.
-Initially, the investigation commission was tasked with investigating two safety deviations that had been observed before the initiation of the study. However a third incident occurred during the early stages of the study, and the decision was made to include it within the scope of the study.
+Los expertos en control de tráfico que son usuarios directos diarios del sistema de control de tráfico deben participar en la definición, la verificación y la puesta en servicio de los sistemas, así como en las tareas de administración de sistemas durante el ciclo de vida de los mismos.
+## RESUMEN
+## ESTUDIO DE SEGURIDAD SOBRE DESVIACIONES EN EL CONTROL DE TRÁFICO EN KOUVOLA, FINLANDIA
+El 21 de agosto de 2008, la Junta de Investigación de Accidentes decidió iniciar un estudio de seguridad sobre desviaciones de seguridad en el control de tráfico observadas en Kouvola, Finlandia. La base del estudio fue una carta de VR Group Ltd dirigida a la Junta de Investigación de Accidentes, fechada el 17 de junio de 2008, en la que VR Group expresaba su preocupación por posibles fallos en la automatización de itinerarios y en los sistemas de seguridad observados en el Centro de Control de Tráfico Centralizado de Kouvola.
+Inicialmente, la comisión de investigación tenía encomendado examinar dos desviaciones de seguridad que se habían observado antes del inicio del embargo. Sin embargo, durante las primeras fases del estudio se produjo un tercer incidente, y se decidió incluirlo dentro del alcance del estudio.
 II
 
-
 ## Página 5
+
 
 La primera desviación se produjo el 25 de abril de 2008 en la estación de Järvelä, en el tramo de vía Lahti–Riihimäki. Durante una maniobra de maniobras, una función de memoria de la automatización de itinerarios generó una configuración de itinerario de tren inesperada que dio lugar al cambio de los desvíos delante de la ruta prevista de la unidad de maniobras.
 La segunda desviación se produjo el 23 de mayo de 2008 en el tramo de vía Lahti–Riihimäki, entre la estación de Lahti y la estación de Hakosilta. Un tren de cercanías que había partido de la estación de Lahti con destino a Riihimäki recibió el número y el itinerario de tren de otro tren de cercanías que esperaba su hora de salida en la estación.
@@ -139,6 +141,7 @@ III
 
 ## Página 6
 
+
 ## ALKUSANAT
 El Centro de Investigación de Accidentes decidió, de conformidad con el artículo 5 de la ley sobre investigación de accidentes (373/1985), iniciar el 21.8.2008 un estudio de seguridad sobre las desviaciones observadas en el control de tráfico de Kouvola. El punto de partida de la investigación fue la carta enviada por VR-Yhtymä Oy al Centro de Investigación de Accidentes el 17.6.2008, en la que expresaba su preocupación por las sospechas observadas en el centro de control de tráfico de Kouvola sobre el funcionamiento defectuoso de la automatización de vías y de los dispositivos de seguridad.
 Se designó como presidente de la comisión de investigación encargada de realizar el estudio de seguridad al maestro en ciencias políticas Kari Ylönen, y como miembro al investigador Matti Katajala. El ingeniero industrial Jarmo Tuomi fue invitado a ser experto permanente de la comisión de investigación.
@@ -152,8 +155,8 @@ El resumen del informe de investigación, las palabras preliminares, las conclus
 Centralen för undersökning av olyckor beslöt 21.8.2008 att enligt lagen om undersökning av storolyckor (373/1985) 5 § inleda en säkerhetsutredning av avvikelser som har observerats vid trafikledningen i Kouvola. Utgångspunkten för undersökningen var ett brev som VR-Group Ab sänt till Centralen för undersökning av olyckor 17.6.2008 i vilket VR-Group Ab uttryckte sin oro över miss-
 IV
 
-
 ## Página 7
+
 
 tankar om felaktig funktion i färdvägsautomatiken och säkerhetsanordningarna vid trafikledningscentralen i Kouvola.
 Politices magister Kari Ylönen utsågs till ordförande och forskare Matti Katajala till medlem i den undersökningskommission som utför säkerhetsutredningen. Diplomingenjör Jarmo Tuomi kallades till permanent expert i undersökningskommissionen.
@@ -170,6 +173,7 @@ V
 
 ## Página 8
 
+
 Inicialmente, a la comisión de investigación se le encomendó la investigación de dos desviaciones de seguridad que se habían observado antes del inicio del estudio. Sin embargo, se produjo una tercera desviación durante las primeras fases del estudio, y se decidió incluirla dentro del ámbito del estudio. Este estudio de seguridad presenta la cadena de acontecimientos de las tres desviaciones investigadas. El estudio incluye una evaluación no solo de las desviaciones, sino también de los factores de fondo. Al final del estudio se presentan las recomendaciones de seguridad pertinentes, cuya aplicación podría evitar la aparición de desviaciones de seguridad similares. El propósito del estudio es mejorar la seguridad; por tanto, no se adopta ninguna posición respecto a cuestiones de culpa o responsabilidad.
 Las siguientes partes han emitido una declaración sobre este estudio de seguridad: la Agencia Ferroviaria Finlandesa, la Administración Ferroviaria Finlandesa, VR Group, Siemens Oy y Thales GmbH (el proveedor del sistema de información de control de tráfico). A las partes pertinentes implicadas en las desviaciones también se les ha dado la oportunidad de comentar el estudio de seguridad. Las declaraciones y los comentarios han sido tenidos en cuenta en la finalización de este estudio. Las declaraciones se recogen en el Apéndice 1.
 Al final de este estudio de seguridad se indica una lista de los materiales de investigación utilizados. El material se encuentra en los archivos de la Junta de Investigación de Accidentes.
@@ -177,8 +181,8 @@ Este estudio de seguridad también puede consultarse en el sitio web de la Junta
 El resumen, la introducción, las conclusiones, la información sobre las medidas adoptadas y las recomendaciones de seguridad del estudio de seguridad, así como los títulos de las figuras, los gráficos y las tablas, están disponibles también en sueco e inglés (el texto completo está disponible en finés).
 VI
 
-
 ## Página 9
+
 
 ## ÍNDICE 
 RESUMEN...................................................................................................................................I 
@@ -214,6 +218,7 @@ MÄÄRITELMIÄ .................................................................
 VII
 
 ## Página 10
+
 
 1.2.10 Documentos............................................................................................................... 10 
 1.2.11 Otras observaciones ................................................................................................... 10 
@@ -252,8 +257,8 @@ VII
 5 VIDTAGNA ÅTGÄRDER ......................................................................................................... 26 
 VIII
 
-
 ## Página 11
+
 
 5 MEASURES THAT HAVE BEEN TAKEN................................................................................26 
 6 RECOMENDACIONES DE SEGURIDAD.............................................................................................27 
@@ -267,6 +272,7 @@ IX
 
 ## Página 12
 
+
 ## DEFINICIONES 
 Ajonesto es un estado establecido en el aparato de enclavamiento para un tramo de vía que impide la verificación del camino de circulación a través de dicho tramo de vía con la orden normal de establecimiento de camino de circulación. 
 El recuento de ejes es un sistema de supervisión de la libertad de vía basado en la identificación del rodaje de las unidades mediante un sensor instalado en el límite del tramo de vía y en el recuento del número de rodajes que se desplazan de un tramo de vía a otro. 
@@ -278,10 +284,10 @@ El mando a distancia se entiende, en sentido técnico, como la operación del ap
 El camino de circulación se entiende como la ruta verificada por el sistema de seguridad entre el punto inicial y el punto final del camino de circulación. El camino de circulación incluye las señales, los desvíos, los enclavamientos de vía y los tramos de vía que en él se encuentran. Al camino de circulación se vinculan los posibles elementos de protección lateral y de paso en vía libre. El tramo de vía protegido verificado por el sistema de enclavamiento se asimila al camino de circulación verificado. 
 La regulación del tráfico se entiende como la verificación del movimiento seguro y eficiente de los trenes conforme al horario en la red ferroviaria. 
 La automatización de paso es un sistema anterior a la automatización por número de tren descrita anteriormente, en el que no se conoce el tren que se desplaza por la infraestructura ni su itinerario. Sin embargo, la activación se obtiene a la llegada del tren a un tramo de vía definido como tramo de activación. La automatización de paso establece automáticamente tanto el camino de circulación de llegada como el de salida para la siguiente estación de tráfico. En muchas líneas, la automatización de paso es suficiente para la mayor parte del tráfico que se desplaza por la infraestructura. 
-X 
-
+X
 
 ## Página 13
+
 
 El permiso local es una autorización otorgada por la regulación del tráfico que permite el uso local de desvíos, enclavamientos de vía y dispositivos de llave pertenecientes a uno o varios grupos de permisos locales. 
 ### PORA es el sistema interno de notificación de desviaciones de VR-Yhtymä. 
@@ -293,11 +299,12 @@ La desviación de seguridad es un suceso o una interferencia que se aparta de la
 La supervisión de la libertad de vía es un sistema mediante el cual se verifica la libertad de vía de un tramo de vía respecto del material rodante que se desplaza por los raíles. La supervisión de la libertad de vía puede llevarse a cabo mediante el recuento de ejes o mediante un circuito de vía.  
 XI
 
-
 ## Página 14
 
 
+
 ## Página 15
+
 
 ## 1 
 ## EVENTOS INVESTIGADOS 
@@ -314,10 +321,10 @@ the cases were within the jurisdiction of Kouvola’s centralised traffic contro
 ## 1.1.1 
 ### Hora y lugar del suceso 
 La desviación se produjo el 25.4.2008 a las aproximadamente 6.24 en la línea Lahti–Riihimäki a la altura de la estación de tráfico de Järvelä. Por la regulación del tráfico en Järvelä respondía el operador a distancia de Lahti del centro regional de regulación del tráfico de Kouvola. 
-Las marcas de los dibujos de las siguientes figuras se explican en el anexo 2. En el lado izquierdo de las figuras se encuentra el número correlativo de la serie de imágenes. 
-
+Las marcas de los dibujos de las siguientes figuras se explican en el anexo 2. En el lado izquierdo de las figuras se encuentra el número correlativo de la serie de imágenes.
 
 ## Página 16
+
 
 Figura 2. Estación de tráfico de Järvelä en estado normal. 
 Bild 2. 
@@ -365,6 +372,7 @@ En la figura 4, el tren de mercancías 2816 está llegando a la vía 3.
 
 ## Página 17
 
+
 Figura 4. 2816 llega a la vía 3.
 Bild 4.
 2816 anländer till spår 3.
@@ -378,8 +386,8 @@ Figure 5. Route for 1195 through Järvelä.
 La automatización de paso también generaba órdenes de ruta, que sin embargo, debido a la ruta establecida manualmente, permanecían en cola en la memoria del aparato de enclavamiento. Una vez que el tren 1195 pasó por Järvelä, las rutas de tren establecidas manualmente se liberaron con normalidad. El regulador de tráfico preparó el inicio de las maniobras girando los desvíos V7 y V5 de modo que la unidad de maniobras pudiera arrastrar los vagones por encima del desvío V9.
 En la figura 6 se muestra la situación en la que el regulador de tráfico concedió al desvío V9 un permiso local (permiso con llave de seguridad).
 
-
 ## Página 18
+
 
 Figura 6. Preparación para las maniobras.
 Bild 6.
@@ -396,8 +404,8 @@ Bild 8.
 Oväntade tågväg.
 Picture 8. Unexpected route.
 
-
 ## Página 19
+
 
 Figura 9. Fotografía tomada por el regulador de tráfico. Los números de los trenes están en negrita. (Fotografía: regulador de tráfico JV.)
 Bild 9.
@@ -419,8 +427,8 @@ El tipo de aparato de enclavamiento utilizado en Järvelä (Siemens, Simis-C) fu
 ### Medios de comunicación
 Las conversaciones entre el maquinista de la locomotora y el regulador de tráfico se mantuvieron por radio de línea. Los medios de comunicación funcionaron con normalidad en relación con el suceso.
 
-
 ## Página 20
+
 
 ## 1.1.8
 ### Organizaciones y personas relacionadas con el suceso
@@ -445,6 +453,7 @@ En la figura 10 se ve la situación inicial del suceso. En la estación de Lahti
 
 ## Página 21
 
+
 En relación con el caso, la ruta de la primera expedición (322) desde la señal E263 era hacia Riihimäki en la vía 072. La ruta de la siguiente expedición que partía de la misma vía (9852) conducía desde la misma señal E263 hacia Kerava en la vía 251.
 
 Figura 10. Expedición 322 en la vía 703 lista para la salida. La expedición 9852 estaba en la misma vía, pero el sistema no muestra dos números en la misma vía.
@@ -468,8 +477,8 @@ Figure 11. Route for train 322.
 
 La expedición 322 partió desde Lahti. El número de expedición seguía a la expedición conforme se reservaban los tramos de vía, como se ve en la figura 12. La vía 703 permaneció reservada, ya que allí seguía la expedición 9852. La llegada de la expedición al tramo de detección de la automatización de números de expedición provocó una orden de ruta desde la señal E722.
 
-
 ## Página 22
+
 
 Figura 12. La expedición 322 se dirige hacia Hakosilta.
 
@@ -496,8 +505,8 @@ Tåg numret har förändrats 322 Æ 9852.
 
 Figure 14. Train number has been changed 322 Æ 9852.
 
-
 ## Página 23
+
 
 El maquinista observó en Hakosilta que las señales indicaban incorrectamente hacia Kerava, detuvo la expedición y comunicó el asunto al control de tráfico. Debido a la velocidad de la expedición, esta se detuvo únicamente sobre los desvíos de Hakosilta. La situación se muestra en la figura 15.
 
@@ -537,8 +546,8 @@ El software de gestión de números de expedición (ARAMIS) funcionó de forma i
 
 Las conversaciones entre el maquinista y el regulador de tráfico se mantuvieron por radio de línea. Los medios de comunicación funcionaron con normalidad en relación con el caso.
 
-
 ## Página 24
+
 
 ## 1.2.8
 ### Organizaciones y personas relacionadas con el acontecimiento
@@ -581,6 +590,7 @@ La expedición 9819 (tren de cercanías Z, Helsinki–Lahti) circulaba por la l�
 
 ## Página 25
 
+
 nalla oli 8.41. El tren 71 (InterCity2, Helsinki–Kajaani) circulaba en el mismo tramo de vía en la misma dirección, a unos seis minutos de retraso respecto a su horario, detrás del tren 9819. La hora de llegada prevista a Lahti con el tren 71 era las 9.00.
 Figura 16. Horario gráfico del tramo Kytömaa–Lahti desde las 8.21 hasta las 9.07. La imagen se imprimió cuatro días después del suceso.
 Bild 16.
@@ -591,6 +601,7 @@ En la impresión, el trazado del tren 9819 se ha dibujado normalmente, hasta que
 Además de la gráfica presentada anteriormente, la junta de investigación ha tenido a su disposición capturas de pantalla tomadas de las pantallas del programa de automatización ARAMIS. Las figuras 17–23 se han dibujado y sellado con hora a partir de las capturas de pantalla.
 
 ## Página 26
+
 
 La junta de investigación centró su atención, además de la anomalía gráfica y el cambio de número de tren informado, en las indicaciones deficientes de la vía 256 en el punto de límite entre dos sistemas de enclavamiento. El señal de entrada parecería estar permanentemente en «STOP», y la vía no tiene ruta establecida. La situación parecería mantenerse estable según las capturas de pantalla. La observación se basó en las pantallas del programa ARAMIS que controla la automatización de números de tren. En las pantallas del sistema de enlace a larga distancia propiamente dicho no se detectó el problema correspondiente.
 No se obtuvo confirmación de si existe relación entre este hecho y el problema detectado.
@@ -609,6 +620,7 @@ En la figura 19, el tren 305, que circulaba delante del tren 9819, ya ha salido 
 
 ## Página 27
 
+
 Figura 19. Número de tren 9819 atascado en la vía 256.
 Bild 19.
 Tågnumret 9819 fastnat på spår 256.
@@ -626,6 +638,7 @@ Figure 21. Traffic controller’s intervention in track 256.
 En la figura 22, el regulador de tráfico acaba de cambiar el número del tren que circula por delante por el correcto 9819.
 
 ## Página 28
+
 
 Figura 22. Número de tren modificado en la vía 264.
 Bild 22.
@@ -651,6 +664,7 @@ Las instalaciones de seguridad (Thales/Siemens) funcionaron de la manera previst
 
 ## Página 29
 
+
 ## 1.3.7
 ### Medios de comunicación
 Durante la anomalía no hubo tráfico radioeléctrico entre los trenes y la regulación del tráfico.
@@ -670,6 +684,7 @@ Según la apreciación de la regulación del tráfico, la gráfica de la figura 
 
 ## Página 30
 
+
 ## 2 
 ## SISTEMA DE GESTIÓN DEL TRÁFICO FERROVIARIO 
 ## 2.1 
@@ -688,9 +703,10 @@ La finalidad de la Ley Ferroviaria (555/2006) es promover el tráfico ferroviari
 De acuerdo con el artículo 26 de la Ley Ferroviaria (modificación 1204/2007), RHK es responsable de la gestión del tráfico de la red ferroviaria. RHK velará por la imparcialidad del servicio de gestión del tráfico y organizará la supervisión y coordinación a escala nacional del servicio de gestión del tráfico. Los demás servicios de gestión del tráfico los organizará RHK por sí mismo o los adquirirá de proveedores de servicios públicos o privados. De acuerdo con el artículo 27 de la Ley, RHK deberá contar con una organización que garantice la seguridad y el sistema de gestión de la seguridad previsto en el artículo 30. 
 De acuerdo con el artículo 34 de la Ley, las personas que participen en la gestión del tráfico de los ferrocarriles deberán contar con la salud, la formación y demás aptitudes exigidas para el desempeño adecuado de sus funciones, según lo establecido o prescrito específicamente al respecto. 
 En el artículo 60 de la Ley se establecen requisitos para los servicios de gestión del tráfico. La empresa que preste servicios de gestión del tráfico deberá contar con una organización y un sistema que garanticen la seguridad, aprobados por la Autoridad Ferroviaria (RVI), que permitan asegurar la gestión de los riesgos esenciales para el funcionamiento de la organización. En la actividad de la empresa deberán cumplirse los requisitos de buena administración y a las personas a su servicio se les aplicarán las disposiciones relativas a la responsabilidad penal por delitos en el ejercicio de sus funciones de gestión del tráfico. 
-### En la Ley sobre las tareas de seguridad del tráfico del sistema ferroviario (1167/2004) se establecen los requisitos de aptitud de las personas que desempeñan tareas de seguridad del tráfico. De acuerdo con el artículo 5 de la Ley, los requisitos generales de aptitud de las personas que desempeñan tareas de seguridad del tráfico son la idoneidad para el desempeño de la tarea de seguridad del tráfico, el dominio suficiente del idioma utilizado en la gestión del tráfico y una edad mínima de 18 años y máxima de 65 años. Además, la persona deberá contar con la habilitación específica para dicha tarea. Asimismo, la persona deberá cumplir los requisitos de estado de salud específicos de la tarea. 
+### En la Ley sobre las tareas de seguridad del tráfico del sistema ferroviario (1167/2004) se establecen los requisitos de aptitud de las personas que desempeñan tareas de seguridad del tráfico. De acuerdo con el artículo 5 de la Ley, los requisitos generales de aptitud de las personas que desempeñan tareas de seguridad del tráfico son la idoneidad para el desempeño de la tarea de seguridad del tráfico, el dominio suficiente del idioma utilizado en la gestión del tráfico y una edad mínima de 18 años y máxima de 65 años. Además, la persona deberá contar con la habilitación específica para dicha tarea. Asimismo, la persona deberá cumplir los requisitos de estado de salud específicos de la tarea.
 
 ## Página 31
+
 
 ### Reglamentos 
 En el momento en que ocurrieron los hechos objeto de investigación estaba en vigor la Reglamentación de Seguridad de los Trenes (Jt, 5.6.2005) emitida por RHK. Según Jt, la gestión del tráfico de una vía de control remoto se basa en señales e indicaciones. El tráfico se asegura de forma centralizada mediante equipos de control remoto. 
@@ -705,6 +721,7 @@ En la parte 6 de las directrices técnicas ferroviarias de RHK (RATO) (1747/611/
 
 ## Página 32
 
+
 ## 2.2 
 ### Descripción general del sistema de control de tráfico 
 El tráfico ferroviario se controla mediante itinerarios de tren, cuya seguridad se garantiza mediante aparatos de enclavamiento implementados con lógicas de seguridad. Para garantizar los itinerarios, se envían órdenes al aparato de enclavamiento y este muestra las establecimientos realizados al operador de tráfico en la pantalla de control y al tren mediante señales luminosas y con la información de control del TCC. El control de tráfico puede centralizarse en un control remoto, que gestiona varios aparatos de enclavamiento e incluye, por ejemplo, automatismos basados en el número de tren. 
@@ -715,10 +732,10 @@ Los controles de tráfico regionales están en Helsinki, Oulu, Tampere, Kouvola,
 ## 2.3 
 ### Control de tráfico regional de Kouvola 
 Del control de tráfico regional de RHK en Kouvola se encarga el Centro de Servicios de Control de Finlandia Oriental de VR-Yhtymä Oy. El control de tráfico funciona en Kouvola en las instalaciones de RHK. 
-El Centro de Servicios de Control de Finlandia Oriental sigue el sistema de gestión de seguridad de VR-Yhtymä Oy.  
-
+El Centro de Servicios de Control de Finlandia Oriental sigue el sistema de gestión de seguridad de VR-Yhtymä Oy.
 
 ## Página 33
+
 
 En el turno de trabajo del control de tráfico se incluyen el controlador regional, cuatro controladores remotos (Lahti, Mikkeli, Luumäki y Saimaa), el controlador de tráfico de Kouvola y dos personas encargadas de los aparatos de enclavamiento. La plantilla total del control de tráfico es de unas 60 personas. 
 Como ámbito de actuación del control de tráfico se encuentran los tramos de vía  
@@ -743,10 +760,10 @@ El control de tráfico en el área se realiza con varios sistemas diferentes. El
 ### Perspectivas futuras del control de tráfico 
 El plan Rautatieliikenne 2030 (Tráfico ferroviario 2030) de RHK define los puntos de partida, los desafíos, la dirección objetivo y las necesidades de actuación y financiación del mantenimiento de la vía desde la situación actual hasta 2030. 
 Según el plan a largo plazo, antes de 2020 tanto el control del tráfico como el de las maniobras se centralizarán en cuatro centros de control, situados en Helsinki, Tampere, Kouvola y Oulu. En el marco de esta centralización aumentará la automatización, lo que reducirá la necesidad de personal. El automatismo del número de tren se implantará antes de 2020 en toda la red ferroviaria. 
-Los centros regionales de control de tráfico emplean a más de 400 personas. Según la estimación presentada en el plan a largo plazo, la modernización de los dispositivos de seguridad, la ampliación del control remoto, la implantación del automatismo del número de tren y la centralización del control de tráfico en centros de control de tráfico reducirán la cantidad de trabajo manual. 
-
+Los centros regionales de control de tráfico emplean a más de 400 personas. Según la estimación presentada en el plan a largo plazo, la modernización de los dispositivos de seguridad, la ampliación del control remoto, la implantación del automatismo del número de tren y la centralización del control de tráfico en centros de control de tráfico reducirán la cantidad de trabajo manual.
 
 ## Página 34
+
 
 ## 3 
 ## ANÁLISIS 
@@ -775,6 +792,7 @@ El fabricante aparentemente modificó el software en octubre de 2008. Según las
 
 ## Página 35
 
+
 La comisión de investigación solicitó a las distintas partes información sobre el momento de la corrección, pero no se obtuvo.
 El regulador de tráfico no pudo conocer el funcionamiento del programa, ya que la función no estaba documentada en el momento del suceso.
 Se han producido varios casos similares, pero no se han formulado notificaciones PORA.
@@ -796,6 +814,7 @@ RHK y VR-Yhtymä Oy disponen cada uno de sus propias organizaciones para el dese
 Los procedimientos relacionados con la gestión de desviaciones y de la seguridad se han acordado en los contratos de servicio y de adquisición entre RHK y las organizaciones prestadoras de servicios.
 
 ## Página 36
+
 
 • 
 Las inversiones en los sistemas las ha realizado el departamento de inversiones responsable de las adquisiciones de RHK. En la fase de adquisición, el contratante verifica la capacidad del proveedor del sistema para suministrar sistemas que cumplan el nivel de usabilidad y seguridad exigido.
@@ -822,6 +841,7 @@ la notificación no había dado lugar a medidas correctoras antes de los sucesos
 
 ## Página 37
 
+
 • 
 los tres casos estudiados representaban a los controladores de tráfico más experimentados, así llamadas "características conocidas".
 El usuario de un sistema relacionado con la seguridad experimenta el sistema completo como su eslabón más débil. Los programas y sistemas de control de tráfico constituyen una estructura por capas, en la que en la parte inferior y como núcleo se encuentran los sistemas de enclavamientos de seguridad, y en la parte superior las herramientas de automatización que facilitan y asisten el uso. Las partes de software relacionadas con la automatización se entregan a menudo después del sistema base propiamente dicho.
@@ -841,8 +861,8 @@ La comisión de investigación no pudo formar una imagen clara durante la invest
 ### Causas de las desviaciones
 Los fallos o características sistemáticos que surgieron en la investigación no se eliminan por sí solos ni con el paso del tiempo. Siempre deben corregirse o modificarse. En todos los casos investigados por la comisión de investigación
 
-
 ## Página 38
+
 
 se produjeron cambios/necesidades de cambio en los programas de automatización que se realizaron o detectaron por parte de los fabricantes originales durante el tiempo que duró la investigación.
 A los programas de control de tráfico (automatización, gráficos, etc.) en general no se les exigen requisitos técnicos específicos de seguridad, porque se considera que el enclavamiento se ocupa de la seguridad primaria. Sin embargo, los sistemas de automatización emiten órdenes de mando relacionadas con la seguridad a los enclavamientos. Desde el punto de vista del usuario, los sistemas constituyen un conjunto funcional.
@@ -879,37 +899,45 @@ under den tid undersökningen pågick.
 
 ## Página 39
 
-En general no se establecen requisitos técnicos de seguridad específicos para los programas de gestión del tráfico (automatización, gráficos, etc.), ya que se parte de la base de que la instalación de enclavamiento gestiona la seguridad primaria. Sin embargo, los sistemas de automatización emiten órdenes de establecimiento de ruta a las instalaciones de enclavamiento que afectan a la seguridad. Para el usuario, los sistemas constituyen una totalidad funcional.
-Independientemente del nivel de seguridad, se espera una gran facilidad de uso y un funcionamiento previsible de los programas que se utilizan directamente en el trabajo de gestión del tráfico. Por ello, debe prestarse especial atención a la gestión y el tratamiento eficaces de las desviaciones funcionales y los fallos que se detecten en los programas, así como al uso de los programas. El cliente y el usuario tienen el derecho y la obligación de comunicar los problemas que surjan en el software durante su ciclo de vida, independientemente del nivel de seguridad establecido.
-La duración relativamente larga de las desviaciones investigadas y la "aceptación silenciosa" demuestran que los métodos de tratamiento de las desviaciones debidas al funcionamiento del sistema no han estado en un nivel suficientemente alto, al menos no en los casos investigados.
+No se plantean en general requisitos técnicos de seguridad específicos para los programas de control de tráfico (automatización, gráficos, etc.), ya que la idea es que la instalación de enclavamiento gestione la seguridad primaria. Sin embargo, los sistemas de automatización envían órdenes de mando a las instalaciones de enclavamiento que afectan a la seguridad. Para el usuario, los sistemas constituyen un todo funcional.
+Independientemente del nivel de seguridad, se espera una gran facilidad de uso y un funcionamiento previsible en los programas que se utilizan directamente en el trabajo de control de tráfico. Por lo tanto, debe prestarse especial atención a una gestión y tratamiento eficaces de las desviaciones funcionales y los fallos que se detectan en los programas, así como al uso de los programas. El cliente y el usuario tienen el derecho y la obligación de informar de los problemas que surjan en el software durante su ciclo de vida, independientemente del nivel de seguridad establecido.
+La duración relativamente larga de las desviaciones investigadas y la "aceptación silenciosa" demuestran que los métodos de tratamiento de las desviaciones debidas al funcionamiento del sistema no han estado en un nivel suficientemente alto, al menos en los casos que se investigaron.
+
 ## 4
 ## CONCLUSIONES
 ## 4.1
 ### Declaraciones
-1. La desviación de Järvelä fue causada por una característica no documentada e inesperada del software de automatización de rutas del sistema de enclavamiento.
+1. La desviación de Järvelä fue causada por una característica no documentada e inesperada del software de automatización de itinerarios del sistema de enclavamiento.
 2. La desviación de Lahti fue causada por una función de programa no documentada del sistema de automatización de números de tren.
-3. La desviación de Hakosilta fue causada por un fallo en el software de números de tren, que se hizo evidente cuando dos trenes circulaban uno cerca del otro a lo largo de la línea directa Kerava–Lahti.
+3. La desviación de Hakosilta fue causada por un fallo en el software de números de tren, que se puso de manifiesto cuando dos trenes circulaban uno cerca del otro a lo largo de la línea directa Kerava–Lahti.
 4. Todas las desviaciones investigadas eran sistemáticas. Fueron causadas por factores dentro del software del sistema y, por tanto, bajo las condiciones adecuadas volverán a ocurrir siempre de la misma manera.
 5. La gestión de las desviaciones fue inadecuada.
-6. Desde la perspectiva del usuario, el sistema de gestión remota del tráfico presenta deficiencias.
-## 4.2
-### Causas de aparición
-Los fallos o errores sistemáticos investigados no desaparecerán por sí solos con el tiempo. Siempre deben ser reparados o corregidos. Durante la investigación hubo ajustes de software y planificación de acciones correctivas por parte de los fabricantes respectivos con respecto a al menos parte de todas las desviaciones.
+6. Desde la perspectiva del usuario, el sistema de control remoto de tráfico presenta deficiencias.
 
+## 4.2
+### Causas de producción
+Los fallos o errores sistemáticos investigados no desaparecerán por sí solos con el tiempo. Siempre deben repararse o corregirse. Durante la investigación hubo ajustes de software y planificación de acciones correctivas por parte de los fabricantes correspondientes con respecto a al menos parte de todas las desviaciones.
 
 ## Página 40
 
-En general no se establecen requisitos técnicos de seguridad específicos para el software de gestión del tráfico (automatización, gráficos, etc.), ya que se entiende que el sistema de enclavamiento se encarga de la seguridad primaria. Sin embargo, el sistema de automatización emite órdenes de establecimiento de ruta a los sistemas de enclavamiento. Desde el punto de vista del usuario, los sistemas forman una totalidad funcional.
-Independientemente del nivel de seguridad deseado, se espera una alta usabilidad y previsibilidad del software utilizado directamente en la gestión del tráfico. Por este motivo, debe prestarse especial atención a la gestión y el tratamiento eficientes de los fallos del software y de las posibles desviaciones observadas durante su funcionamiento. Además, independientemente del nivel de seguridad establecido, el cliente y los usuarios tienen el derecho y la obligación de comunicar los problemas encontrados durante el ciclo de vida del software.
-El hecho de que las desviaciones hubieran existido durante mucho tiempo y fueran "aceptadas silenciosamente" indica que los procedimientos para el tratamiento de las desviaciones del sistema no han estado en un nivel suficientemente alto, al menos en relación con las desviaciones investigadas.
+No se establecen generalmente requisitos técnicos de seguridad específicos para el software de control de tráfico (automatización, gráficos, etc.), porque se entiende que el sistema de enclavamiento se encarga de la seguridad primaria. Sin embargo, el sistema de automatización emite órdenes de establecimiento de ruta a los sistemas de enclavamiento. Desde el punto de vista del usuario, los sistemas forman una entidad funcional.
+Independientemente del nivel de seguridad deseado, se espera del software utilizado directamente en el control de tráfico una alta usabilidad y previsibilidad. Por esta razón, se debe prestar especial atención a la gestión y manipulación eficientes de las averías del software y de cualquier desviación posible observada durante su funcionamiento. Además, independientemente del nivel de seguridad establecido, el cliente y los usuarios tienen el derecho y la obligación de informar de los problemas encontrados durante el ciclo de vida del software.
+El hecho de que las desviaciones hubieran existido durante mucho tiempo y fueran «aceptadas silenciosamente» indica que los procedimientos para la gestión de las desviaciones del sistema no habían estado en un nivel suficientemente alto, al menos en relación con las desviaciones investigadas.
+
 ## 5
 ## MEDIDAS ADOPTADAS
-En relación con el caso Järvelä, la Administración Ferroviaria Finlandesa emitió el 10.10.2008 una norma de funcionamiento (2299/741/08) en la que se describe cómo se puede evitar el problema en el trabajo de gestión del tráfico. Siemens ha comunicado que las correcciones necesarias se completarán durante el otoño de 2009.
-Los problemas relacionados con los casos de Lahti y Hakosilta, según las observaciones de la gestión del tráfico, han desaparecido a finales de 2008.
-Se ha designado un administrador local de sistemas para el sistema de gestión remota del tráfico de Kouvola.
 
+En relación con la desviación de Järvelä, la Administración Ferroviaria Finlandesa emitió el 10.10.2008 una norma de operación (2299/741/08) en la que se describe cómo se puede evitar el problema en el trabajo de control de tráfico. Siemens ha comunicado que la corrección se llevará a cabo en el otoño de 2009.
+Los problemas de los casos de Lahti y Hakosilla, según las observaciones del control de tráfico, han desaparecido en el otoño-invierno de 2008.
+En el control de tráfico de Kouvola se ha designado un administrador principal para el sistema de mando a distancia.
+
+## 5
+## MEDIDAS QUE SE HAN TOMADO
+
+En relación con la desviación de Järvelä, la Administración Ferroviaria Finlandesa emitió una norma de operación (2299/741/08) el 10 de octubre de 2008 en la que se indica cómo se puede evitar el problema en el control de tráfico. Siemens ha informado de que las correcciones necesarias se completarán durante el otoño de 2009.
 
 ## Página 41
+
 
 Según las observaciones realizadas por el personal del Centro de Gestión Centralizada del Tráfico de Kouvola, los fallos relacionados con las desviaciones de Lahti y Hakosilta han sido corregidos a finales de 2008.
 Se ha designado un administrador local de sistemas para el sistema de gestión remota del tráfico de Kouvola.
@@ -927,20 +955,20 @@ La Administración Ferroviaria, el Centro de Gestión Ferroviaria, VR-Yhtymä Oy
 
 ## RECOMENDACIONES DE SEGURIDAD
 ### S269 Gestión de desviaciones
-La información sobre las desviaciones no siempre llega al conocimiento de todos los actores afectados en el sistema de gestión de desviaciones utilizado en la actualidad. Es posible que no se realice el tratamiento de las desviaciones documentadas. Se presentan desviaciones que no han sido documentadas. La información sobre las desviaciones y las correcciones es deficiente.
-Las organizaciones responsables de la propiedad, explotación y mantenimiento de los sistemas de control de tráfico y de seguridad deberían mejorar y aclarar los procedimientos para detectar y gestionar las desviaciones. [S1/08R/S269]
+La información sobre las desviaciones no siempre llega al conocimiento de todos los actores afectados en el sistema de gestión de desviaciones que se utiliza actualmente. Es posible que no se realice el tratamiento de las desviaciones documentadas. Se presentan desviaciones que no han sido documentadas. La información sobre las desviaciones y las correcciones es deficiente.
+Las organizaciones responsables de la propiedad, la explotación y el mantenimiento de los sistemas de control de tráfico y de seguridad deben mejorar y aclarar las rutinas para detectar y gestionar las desviaciones. [S1/08R/S269]
 ### S270 Gestión de sistemas
-Muchas partes diferentes de la organización de la Banförvaltningscentralen y de VR-Group Ab participan en la contratación y gestión de los sistemas de control de tráfico. La distribución del trabajo, la supervisión y la responsabilidad en las diferentes fases del ciclo de vida de los sistemas no están claras. La centralización del control de tráfico requiere la introducción continua de automatización y tecnología de la información. Los casos examinados muestran deficiencias en las instrucciones de uso de los sistemas y problemas en las observaciones en las pantallas. La responsabilidad de que las funciones de los sistemas sean correctas y de la supervisión de las medidas correctoras debería recaer cerca del usuario final.
-Los expertos en control de tráfico que utilizan diariamente el sistema de control de tráfico deberían participar en la definición, verificación y puesta en servicio de los sistemas, así como también en las tareas de administración de sistemas durante el ciclo de vida de los sistemas. [S1/08R/S270]
+Muchas partes diferentes de la organización de Banförvaltningscentralen y de VR-Group Ab participan en la contratación y la gestión de los sistemas de control de tráfico. La distribución del trabajo, la supervisión y la responsabilidad en las diferentes fases del ciclo de vida de los sistemas no están claras. La centralización del control de tráfico requiere la introducción continua de automatización y tecnología de la información. Los casos examinados muestran deficiencias en las instrucciones de uso de los sistemas y problemas en las observaciones en las pantallas. La responsabilidad de que las funciones de los sistemas sean correctas y de la supervisión de las medidas correctivas debe recaer cerca del usuario final.
+Los expertos en control de tráfico que utilizan diariamente el sistema de control de tráfico deben participar en la definición, la verificación y la puesta en servicio de los sistemas, así como también en las tareas de administración de sistemas durante el ciclo de vida de los mismos. [S1/08R/S270]
 Järnvägsverket, Banförvaltningscentralen, VR-Group Ab y Siemens han presentado recomendaciones en sus dictámenes. Los dictámenes completos se encuentran en el anexo 1. El texto del informe de investigación ha sido modificado de acuerdo con los dictámenes y comentarios recibidos.
 ## 6
 ## RECOMENDACIONES DE SEGURIDAD
 ### S269 Gestión de desviaciones
-En el sistema de gestión de desviaciones actualmente en uso, la información sobre una desviación no siempre llega a todas las partes relevantes. Es posible que incluso las desviaciones documentadas no sean tratadas. Además, algunas desviaciones no han sido documentadas. La información sobre los procedimientos relacionados con la gestión de desviaciones ha sido inadecuada.
-Las organizaciones responsables de la propiedad, uso y mantenimiento de los sistemas de equipos de control de tráfico y de seguridad deberían mejorar y aclarar los procedimientos mediante los cuales se identifican y gestionan las desviaciones. [S1/08R/S269]
-
+En el sistema de gestión de desviaciones actualmente en uso, la información sobre una desviación no siempre llega a todas las partes afectadas. Es posible que incluso las desviaciones documentadas no sean tratadas. Además, algunas desviaciones no han sido documentadas. La información sobre los procedimientos relacionados con la gestión de desviaciones ha sido deficiente.
+Las organizaciones responsables de la propiedad, la explotación y el mantenimiento de los sistemas de control de tráfico y de equipos de seguridad deben mejorar y aclarar los procedimientos mediante los cuales se identifican y gestionan las desviaciones. [S1/08R/S269]
 
 ## Página 43
+
 
 ### S270 Gestión de sistemas
 Varias partes de la Administración Ferroviaria Finlandesa y VR Group participan en la contratación y gestión del sistema de control de tráfico. La organización de los paquetes de trabajo y la asignación de la propiedad del proyecto y de las responsabilidades a lo largo de los ciclos de vida de los sistemas no están claras. La centralización del control de tráfico requiere la introducción continua de nuevas tecnologías de automatización e información. Las desviaciones investigadas han implicado deficiencias en las instrucciones de uso de los sistemas, así como dificultades para que los usuarios identifiquen situaciones problemáticas en las pantallas de visualización. La responsabilidad de garantizar que los sistemas funcionen correctamente y de que se supervisen las medidas correctoras debería recaer cerca de los usuarios finales.
@@ -950,8 +978,8 @@ En Helsinki, 31.8.2009
 Kari Ylönen
 Matti Katajala
 
-
 ## Página 44
+
 
 ## LISTADO DE FUENTES
 Los siguientes anexos de fuentes se encuentran registrados en el Centro de Investigación de Accidentes:
@@ -964,29 +992,29 @@ Dictamen de Ratahallintokeskuksen
 Dictamen de VR-Yhtymä Oy
 Dictamen de Siemens Osakeyhtiö
 
-
 ## Página 45
+
 
 ## Anexo 1/1 (4)
 ## DICTÁMENES
 
-
 ## Página 46
+
 
 ## Anexo 1/2 (4)
 
-
 ## Página 47
+
 
 ## Anexo 1/3 (4)
 
-
 ## Página 48
+
 
 ## Anexo 1/4 (4)
 
-
 ## Página 49
+
 
 ## Anexo 2/1 (2)
 ## EXPLICACIÓN DE LOS SÍMBOLOS
@@ -1028,8 +1056,8 @@ El señal se presenta como un triángulo. El rojo es la indicación de la señal
 El fondo negro detrás del señal indica que el señal funciona gobernado por la automatismo del aparato de enclavamiento.
 El cuadrado de color violeta bajo el desvío indica que se ha concedido al desvío una autorización técnica, cuyo efecto permite girar el desvío localmente.
 
-
 ## Página 50
+
 
 ## Anexo 2/2 (2)
 En el caso de Hakosilla, la modelización se ha realizado mediante un gráfico de vías similar a la interfaz del sistema ARAMIS.

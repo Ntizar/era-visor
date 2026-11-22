@@ -10,13 +10,14 @@ chars: 150136
 ratio_longitud: 1.26
 tokens_in: 87456
 tokens_out: 63351
-verificacion: revisar
-notas_cifras: ["bloque 2: original bilingüe: se compara contra el idioma principal (PT)", "bloque 4: original bilingüe: se compara contra el idioma principal (CS)", "bloque 5: original bilingüe: se compara contra el idioma principal (CS); cifras cortas: 2/88", "bloque 6: original bilingüe: se compara contra el idioma principal (CS); cifras cortas: 6/119", "bloque 8: original bilingüe: se compara contra el idioma principal (CS)", "bloque 9: original bilingüe: se compara contra el idioma principal (CS); cifras cortas: 6/45"]
-avisos: ["bloque 5: ratio 1.63", "bloque 6: ratio 1.61", "bloque 8: ratio 1.69", "bloque 10: ratio 1.68"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 7: original bilingüe: se compara contra el idioma principal (EN)", "página 8: original bilingüe: se compara contra el idioma principal (PT)", "página 11: original bilingüe: se compara contra el idioma principal (PT)", "página 15: original bilingüe: se compara contra el idioma principal (CS)", "página 16: original bilingüe: se compara contra el idioma principal (CS)", "página 18: original bilingüe: se compara contra el idioma principal (PT)"]
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -39,13 +40,13 @@ IČ:   75009561
 mail@dicr.cz
 tel.: +420 736 521 003
 
-
 ## Página 2
+
 
 El presente informe final es público y todos los hechos en él expuestos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ## 1 RESUMEN
                 Fuente: DI
@@ -69,10 +70,10 @@ daño total 1 546 600 Kč.
 Causa inmediata:
 incumplimiento de la obligación de aviso en el punto de regulación del tráfico D3 Ronov nad Doubravou
 •
-por el maquinista del tren Os 15912 y salida no autorizada al intervalo de vía ocupado por el tren Mn 84261. 
-
+por el maquinista del tren Os 15912 y salida no autorizada al intervalo de vía ocupado por el tren Mn 84261.
 
 ## Página 4
+
 
 Factor contribuyente:
 no fue detectado por la Inspección Ferroviaria.
@@ -115,10 +116,10 @@ y la normativa de la UE relacionada, respectivamente, permitir la implantación 
 un equipo técnico que permita aumentar el nivel de seguridad de la circulación de
 los vehículos ferroviarios mediante una solución técnica adecuada al estado actual
 de la técnica y, a la vez, económicamente aceptable en un nivel de seguridad
-adecuado. 
-
+adecuado.
 
 ## Página 5
+
 
 ## RESUMEN
 Clasificación: 
@@ -168,8 +169,8 @@ uso habitual en el extranjero (p. ej., los componentes del Sistema Europeo de Co
 de Trenes en nivel 1 con el uso del modo operativo «Supervisión limitada» y otros)
 al actualizar el Plan Nacional de Implantación (en adelante, «NIP»);
 
-
 ## Página 6
+
 
 el Ministerio y la NSA propondrán un progreso concreto y un calendario de
 •
@@ -196,6 +197,7 @@ mediante una solución técnica adecuada al estado actual de la técnica y, a la
 económicamente aceptable en un nivel de seguridad adecuado en dichas líneas.
 
 ## Página 7
+
 
 # Índice
 1 RESUMEN........................................................................................................................3
@@ -236,8 +238,8 @@ SUMMARY.........................................................................
 3.4 Actividad de los vehículos ferroviarios y de otros dispositivos técnicos..........................................29
 3.4.1 Sistema de control, señalización y seguridad, incluidos los dispositivos para la grabación automática de
 
-
 ## Página 8
+
 
 datos.....................................................................................................29
 3.4.2 Componentes de la vía....................................................................................................29
@@ -269,8 +271,8 @@ datos...........................................................................
 6 RECOMENDACIONES DE SEGURIDAD.....................................................................................48
 7 ANEXOS..........................................................................................................................50
 
-
 ## Página 9
+
 
 ## Lista de siglas y símbolos utilizados
 COP
@@ -356,6 +358,7 @@ ZZS
 
 ## Página 10
 
+
 ## Lista de abreviaturas de disposiciones legales, normas y reglamentos internos
 ley núm. 262/2006 Sb.
 ley núm. 262/2006 Sb., Código del Trabajo, en la redacción vigente
@@ -401,8 +404,8 @@ reglamento interno del explotador de la vía SŽDC, «SŽDC (ČD)
 Z11 REGLAMENTO PARA LA OPERACIÓN DE EQUIPOS DE RADIO»,
 en la redacción vigente en el momento de producirse la incidencia.
 
-
 ## Página 11
+
 
 ## 2 DATOS RELATIVOS A LA INCIDENCIA
 ### 2.1 Incidencia
@@ -432,8 +435,8 @@ en ese momento se encontraba el tren en sentido contrario Mn 84261. En el pk 11,
 rebote hacia atrás del tren Os 15912 en 69 m hasta el pk 11,187; los frentes de los trenes se detuvieron a una
 distancia de 66 m. El frente del tren Mn 84261 se detuvo 3,2 m más allá del lugar de la colisión, es decir, del hallazgo de los tornillos cortados
 
-
 ## Página 12
+
 
 del paragolpes derecho de la locomotora del tren Os 15912. No se produjo el descarrilamiento de ningún vehículo; ambas
 locomotoras resultaron dañadas; no se produjeron daños en la infraestructura. En el tren Os 15912 viajaban un total de unas 15 personas,
@@ -452,8 +455,8 @@ documentación de circulación, y se comprobó la grabación de la comunicación
 Čáslav. El 11. 3. 2019, durante la circulación de los trenes Os 15912 y Mn 84261, se verificó desde el lugar de la incidencia la
 visibilidad de los maquinistas sobre la vía.
 
-
 ## Página 13
+
 
 ### La inspección arrojó los siguientes resultados: 
 El tren de mercancías Mn 84261 circulaba desde la estación local de Čáslav hacia la estación de enlace D3 Ronov
@@ -495,8 +498,8 @@ canal 15 SIMPLEX, con el número de llamada sintonizado 084201.
 Según el TTP, la comunicación radiofónica básica se establece en la banda 75 de la red TRS. 
 La locomotora estaba equipada con un velocímetro registrador mecánico Metra, tipo 504,
 
-
 ## Página 14
+
 
 número: 86352, con una velocidad máxima de 150 km/h. La desviación horaria del velocímetro respecto de la hora
 real era de -3 m 3 s. La extracción de la tira del velocímetro se realizó en presencia del
@@ -544,6 +547,7 @@ el paragolpes delantero derecho roto y el frontal de la carrocería debajo del p
 
 ## Página 15
 
+
 dañado el conducto de aire y un banco para pasajeros fue arrancado de su fijación. El transportista ČD estimó provisionalmente el daño en 1 500 000 Kč.
 De la inspección de la infraestructura se constató:
 El lugar de origen del accidente ferroviario se situaba en una línea de vía única no electrificada en un arco a la derecha en el punto kilométrico 11,118, a la derecha con corte parcial en un terreno ligeramente en pendiente. A este arco le seguía, en ambos sentidos, un tramo recto. La superestructura ferroviaria estaba formada por raíles S49 apoyados sobre soportes T5 y traviesas de hormigón SB5, la vía era de empalme por soldadura.
@@ -574,41 +578,51 @@ En la línea D3 con gestión simplificada del tráfico ferroviario Čáslav esta
 Según la declaración del maquinista del tren Mn 84261, en el momento del suceso hacía buen tiempo, había ligero viento y no había nubosidad.
 El 11. 3. 2019 se realizó en el lugar del accidente una verificación orientativa de la visibilidad de los maquinistas de los trenes Os 15912 y Mn 84261, incluida la grabación de un vídeo. El figurante A conducía sucesivamente en la cabina de mando de estos trenes, el figurante B permanecía junto a la vía siempre en el punto de inicio de la frenada del tren que circulaba en sentido contrario. La visibilidad del figurante B (el frontal del tren que circulaba en sentido contrario) desde
 
-
 ## Página 16
 
-la cabina de mando era:
-desde Ronov nad Doubravou desde el km 11,195 (según el velocímetro, el tren Os 15912
-•
-comenzó a frenar en el km 11,169);
-desde Žleby desde el km 10,900 (según el velocímetro, el tren Mn 84261 comenzó a
-•
-frenar en el km 11,088);
-A partir de la diferencia de las posiciones kilométricas indicadas para los trenes Os 15912 y Mn 84261 se calculó orientativamente el tiempo de reacción de ambos maquinistas (teniendo en cuenta la velocidad del tren y el tiempo de establecimiento de la frenada), y se constató que el maquinista del tren Os 15912 vigiló correctamente la vía por delante del tren y, dadas las circunstancias, adoptó todas las medidas posibles para reducir las consecuencias del accidente ferroviario. El maquinista del tren Mn 84261 reaccionó de forma adecuada.
-En el lugar del accidente ferroviario estaban presentes también los responsables de las distintas divisiones organizativas del explotador de la infraestructura y del transportista.
-Con motivo del accidente ferroviario se activó el SIU.
-### 2.1.3 Decisión de iniciar la investigación, composición del equipo de personas cualificadas para la investigación y método de dirección de la investigación
-Accidente ferroviario notificado al COP DI:
-4. 3. 2019, a las 12.39 h (es decir, 20 min después del accidente ferroviario).
-| Accidente ferroviario notificado al COP DI: | 4 3 2019 a las 12 39 h (es decir, 20 min después del accidente ferroviario) . . , . . . |
-| Forma de notificación: | telefónicamente . |
-| Notificado por la persona autorizada en nombre de: | el explotador de la infraestructura (SŽDC) el transportista (ČD) , y el transportista (ČD Cargo) |
-| Consentimiento del DI para la liberación de la vía: | 4 3 2019 a las 14 55 h (es decir, 2 h 36 min después del accidente . . , . . ferroviario) . |
-La notificación del accidente ferroviario por parte del explotador de la infraestructura y del transportista se ajustó a lo dispuesto en el § 49 apartado 3 letra a) de la Ley núm. 266/1994 Sb. y en el § 7 apartado 3 del Decreto núm. 376/2006 Sb.
+puesto de conducción del maquinista era:
+• desde Ronov nad Doubravou desde el pk 11,195 (según el velocímetro, el tren Os 15912
+comenzó a frenar en el pk 11,169);
+• desde Žlebů desde el pk 10,900 (según el velocímetro, el tren Mn 84261 comenzó a
+frenar en el pk 11,088);
+A partir de la diferencia de posiciones kilométricas indicadas para los trenes Os 15912 y
+Mn 84261 se calculó de forma orientativa el tiempo de reacción de ambos maquinistas
+(teniendo en cuenta la velocidad del tren y el tiempo de actuación del freno), y se
+constató que el maquinista del tren Os 15912 vigiló correctamente la vía por delante del
+tren y, dadas las circunstancias, adoptó todas las medidas posibles para reducir las
+consecuencias del suceso excepcional. El maquinista del tren Mn 84261 reaccionó de
+forma adecuada.
+En el lugar del suceso excepcional estaban presentes también los responsables de las
+distintas unidades organizativas del gestor de la vía y del transportista.
+Con motivo del suceso excepcional se activó el SIU.
+### 2.1.3 Decisión de iniciar la investigación, composición del equipo de personas cualificadas para la investigación y forma de dirigir la investigación
+Suceso excepcional comunicado al COP DI:
+4. 3. 2019, a las 12.39 h (es decir, 20 min después de la producción del suceso excepcional).
+| Suceso excepcional comunicado al COP DI: | 4 3 2019 a las 12 39 h (es decir, 20 min después de la producción del suceso excepcional) . . , . . . |
+| Forma de comunicación: | telefónicamente . |
+| Comunicado por la persona autorizada en nombre de: | el gestor de la vía (SŽDC) el transportista (ČD) , y el transportista (ČD Cargo) |
+| Consentimiento del DI para liberar la vía: | 4 3 2019 a las 14 55 h (es decir, 2 h 36 min después de la producción del . . , . . suceso excepcional) . |
+La comunicación del suceso excepcional por parte del gestor de la vía y del transportista
+se ajustó a lo dispuesto en el § 49 apartado 3 letra a) de la Ley núm. 266/1994 Sb. y en el
+§ 7 apartado 3 del Decreto núm. 376/2006 Sb.
 Decisión del DI de iniciar la investigación:
-4. 3. 2019, en base a la gravedad del accidente
-ferroviario.
-Investigación del DI en el lugar del accidente ferroviario:
-4x inspector de la UI Čechy, oficina de Praga.
-Formación del equipo de investigación:
-no fue necesario formarlo.
+4. 3. 2019, en base a la gravedad del suceso
+excepcional.
+Investigación del DI en el lugar del suceso excepcional:
+4x inspector del ÚI Čechy, centro de trabajo Praga.
+Constitución del equipo de investigación:
+no fue necesario constituirlo.
 Colaboración externa:
 no se utilizó.
-La posterior investigación de las causas y circunstancias del accidente ferroviario fue encomendada, en el marco del DI, a la UI Čechy, oficina de Praga.
-Para la investigación de las causas y circunstancias del accidente ferroviario, el DI partió de sus propios conocimientos y hallazgos, de su propia documentación fotográfica, de la documentación recabada durante la investigación por el explotador de la infraestructura, el transportista, la Policía Nacional (PČR) y de la documentación del Servicio de Bomberos (HZS).
-
+La investigación posterior de las causas y circunstancias de la producción del suceso
+excepcional fue encomendada dentro del DI al ÚI Čechy, centro de trabajo Praga.
+En la investigación de las causas y circunstancias de la producción del suceso excepcional,
+el DI partió de sus propios conocimientos y hallazgos, de su propia documentación
+fotográfica, de la documentación recabada durante la investigación por el gestor de la vía,
+el transportista, la PČR y de la documentación del HZS.
 
 ## Página 17
+
 
 La investigación de las causas y circunstancias del accidente ferroviario se realizó de acuerdo con la Ley núm. 266/1994 Sb. y el Decreto núm. 376/2006 Sb.
 ### 2.2 Circunstancias del accidente ferroviario
@@ -650,8 +664,8 @@ el maquinista del tren Os 15912 fue informado de forma fehaciente de la ORDEN DE
 TREN para la línea con gestión simplificada del tráfico ferroviario para el tren 15912, número 420367, el 4. 3. 2019 en la estación Čáslav estación local.
 El estado real del tren comprobado en el lugar del accidente ferroviario correspondía a la documentación del tren.
 
-
 ## Página 18
+
 
 | Tren: | Mn84261 | Composición del tren: |  | Régimen de frenado: |
 | Longitud del tren (m): | 56 | Locomotora: | 92542742200 9 – | P |
@@ -695,60 +709,52 @@ despachador director la aparición del accidente ferroviario;
 •
 director la activación del SIU y para precisar el lugar de origen del accidente ferroviario.
 
-
 ## Página 19
 
-La comunicación realizada a través del TRS fue grabada, la comunicación realizada a través del teléfono profesional no fue grabada.
-### 2.2.5 Trabajos realizados en el lugar y en sus alrededores
-En el lugar del accidente ferroviario no se estaban realizando, inmediatamente antes de su producción, trabajos de reparación o mantenimiento por parte del propietario, del explotador de la infraestructura ni de otras personas.
-### 2.2.6 Activación del plan de emergencia en la infraestructura y procedimientos conexos
-12.22 h el maquinista del tren Os 15912 utilizó el TRS para notificar al despachador
+La comunicación realizada a través de TRS fue grabada, la comunicación realizada mediante el teléfono de servicio no fue grabada.
+### 2.2.5 Trabajos realizados en el lugar y en sus proximidades
+En el lugar del MU no se realizaron, inmediatamente antes de su producción, por parte del propietario, del gestor de la vía ni de otras personas, ningún tipo de trabajos de reparación o de mantenimiento.
+### 2.2.6 Activación del plan para el caso de incidente excepcional en la vía y procedimientos conexos
+12.22 h el maquinista del tren Os 15912 utilizó TRS para comunicar la producción del MU al despachador director de la estación Čáslav m. n.;
 •
-director de la estación Čáslav estación local la aparición del accidente ferroviario;
-12.22 h el maquinista del tren Mn 84261 utilizó el teléfono móvil profesional del jefe de
+12.22 h el maquinista del tren Mn 84261 utilizó el teléfono móvil de servicio del jefe de maniobras para comunicar la producción del MU al despachador director;
 •
-maniobras para notificar al despachador director la aparición del accidente ferroviario;
-12.27 h el despachador director notificó la aparición del accidente ferroviario al número
+12.27 h el despachador director comunicó la producción del MU al número de emergencias 112;
 •
-de emergencias 112;
-12.30 h el despachador director notificó la aparición del accidente ferroviario al
+12.30 h el despachador director comunicó la producción del MU al despachador principal;
 •
-despachador principal;
-12.35 h el despachador principal notificó la aparición del accidente ferroviario a la O18
+12.35 h el despachador principal comunicó la producción del MU a O18 SŽDC;
 •
-de SŽDC;
-12.39 h la persona autorizada de la O18 de SŽDC notificó la aparición del accidente
+12.39 h la persona autorizada de O18 SŽDC comunicó la producción del MU a COP DI;
 •
-ferroviario al COP DI;
-14.10 h inspección del lugar de origen del accidente ferroviario por empleados del DI;
+14.10 h inspección del lugar de producción del MU por parte de empleados de DI;
 •
-14.55 h el inspector del DI presente concedió el permiso para la liberación de la vía;
+14.55 h el inspector de DI presente concedió la autorización para la liberación de la vía;
 •
 16.50 h se produjo la restitución total de la circulación.
 •
-### 2.2.7 Activación del plan del sistema integrado de emergencias, de los servicios de emergencia policial y sanitario y procedimientos conexos
-El plan del SIU fue activado dada la naturaleza del accidente ferroviario. El plan del SIU fue activado a las 12.27 h, es decir, 8 minutos después del accidente ferroviario, por el despachador director.
-En el lugar del accidente ferroviario intervinieron los siguientes cuerpos del SIU:
-Socorro Sanitario Urgente (ZZS) Čáslav, Socorro Sanitario Urgente (ZZS) Chrudim,
+### 2.2.7 Activación del plan del sistema integrado de emergencia, de los servicios de emergencia policiales y sanitarios y procedimientos conexos
+El plan IZS fue activado en función del carácter del MU. El plan IZS fue activado a las 12.27 h, es decir, 8 minutos después de la producción del MU, por el despachador director.
+En el lugar del MU intervinieron los siguientes componentes del IZS:
+ZZS Čáslav, ZZS Chrudim, LZS Hradec Králové;
 •
-Servicio de Helicópteros Sanitarios (LZS) Hradec Králové;
-Unidades de Bomberos (JPO) del Servicio de Bomberos (HZS): Čáslav, Seč, Unidades de
+JPO HZS: Čáslav, Seč, JPO JSDH: Lipovec, Ronov nad Doubravou, Třemošnice;
 •
-Bomberos Municipales (JPO JSDH): Lipovec, Ronov nad Doubravou, Třemošnice;
-Servicio de Bomberos (HZS) de SŽDC, Unidad de Bomberos (JPO) Havlíčkův Brod, que
+HZS SŽDC, JPO Havlíčkův Brod, que realizó la retirada de los restos, respectivamente
 •
-realizó la retirada de los restos, respectivamente, de las consecuencias del accidente ferroviario;
-Policía Nacional (PČR), SKPV Chrudim, que inició la investigación.
+de las consecuencias del MU;
+PČR, SKPV Chrudim, que inició la investigación.
 •
 ### 2.3 Fallecimientos, lesiones y daños causados
-2.3.1 En pasajeros y terceras personas, empleados del explotador de la infraestructura y del transportista, incluidas personas en relación contractual
-Con motivo del accidente ferroviario se produjo:
+2.3.1 En cuanto a pasajeros y terceros, empleados del gestor de la vía y del transportista, incluidas personas en relación contractual
+En el MU se produjo:
 perjuicio para la salud de 5 pasajeros;
 •
-lesiones leves en el maquinista del tren Os 15912.
+lesiones leves al maquinista del tren Os 15912.
 •
 
 ## Página 20
+
 
 ### 2.3.2 Sobre las cosas transportadas, el equipaje y otros bienes
 No se produjeron daños sobre las cosas transportadas, el equipaje y otros bienes.
@@ -793,8 +799,8 @@ Doubravou, el despachador director concedió el permiso para la circulación;
 despachador director, tras cumplir las operaciones previas a la salida del tren inició
 la circulación en dirección a Žleby;
 
-
 ## Página 21
+
 
 ◦en la estación D3 Ronov nad Doubravou no se percató de la ausencia del tren
 Mn 84261, ya que el cruzamiento allí no se produce habitualmente;
@@ -851,66 +857,37 @@ nad Doubravou;
 ◦hasta el origen del MU, durante la mañana, realizó así 8 circulaciones de trenes
 en el tramo Čáslav – Třemošnice;
 
-
 ## Página 22
 
-◦la última circulación del 4 de marzo de 2019 debía realizarla con el tren Os 15912
-con salida a las 12.10 h de la estación Třemošnice en dirección a Čáslav m. n.;
-◦por radioteléfono solicitó al despachador director el permiso para la salida del
-tren de Třemošnice en dirección a Ronov nad Doubravou. En ese momento era
-consciente del cruce excepcional de los trenes Os 15912 y Mn 84261 en la estación
-D3 Ronov nad Doubravou;
-◦llegó a Ronov nad Doubravou a las 12.20 h, tras el ascenso y descenso de
-pasajeros no se reportó al despachador director y partió de forma totalmente
-automática hacia la línea en dirección a Žleby, sin que en absoluto se le ocurriera
-que en sentido contrario circulaba el tren Mn 84261;
-◦la Orden del tren Os 15912 la tenía durante su circulación en su puesto plegada
-junto a la ventanilla frontal;
-◦la velocidad actual de su tren era en ese momento de unos 40 km.h-1
-◦en la curva a la derecha vio salir de detrás del horizonte el tren Mn 84261,
-tomó conciencia de su error, comenzó a frenar con freno rápido y a pitar;
-◦debido a la corta distancia se produjo la colisión y el rebote de la automotora,
-la velocidad en el momento de la colisión la estimó en 25 km.h-1;
+◦el último viaje del 4 de marzo de 2019 debía realizarlo con el tren Os 15912 con salida a las 12.10 h desde la estación de maniobras Třemošnice dirección Čáslav m. n.;
+◦mediante radio solicitó al despachador director el consentimiento para la salida del tren desde Třemošnice dirección Ronov nad Doubravou. En ese momento era consciente del cruce excepcional de los trenes Os 15912 y Mn 84261 en la estación de maniobras D3 Ronov nad Doubravou;
+◦llegó a Ronov nad Doubravou a las 12.20 h, tras el ascenso y descenso de los viajeros no se puso en contacto con el despachador director y partió de forma totalmente automática hacia la línea dirección Žleby, sin que en absoluto se le ocurriera que en sentido contrario circulaba el tren Mn 84261;
+◦la orden de marcha del tren Os 15912 la tenía durante su viaje colocada en su puesto, junto a la ventanilla frontal;
+◦la velocidad actual de su tren era en ese momento de unos 40 km·h-1
+◦en una curva a la derecha vio salir desde detrás del horizonte al tren Mn 84261, se dio cuenta de su error, comenzó a frenar con freno rápido y pitó;
+◦debido a la corta distancia se produjo la colisión y el retroceso del coche motor, la velocidad en el momento de la colisión la estimó en 25 km·h-1;
 ◦se sometió a una prueba de alcoholemia orientativa con resultado negativo;
-maquinista del tren Mn
+el maquinista del tren Mn
    84261
-  – del Registro de la explicación presentada al DI se
+  – del Registro de declaración prestada para el DI se desprende:
 •
-desprende:
-◦el 4 de marzo de 2019 condujo el tren Mn 84261 en el tramo Čáslav – Ronov nad
-Doubravou;
+◦el 4 de marzo de 2019 condujo el tren Mn 84261 en el tramo Čáslav – Ronov nad Doubravou;
 ◦condujo el HDV desde el primer puesto;
-◦al circular por una curva a la izquierda vio asomar por detrás del horizonte el
-techo del HDV del tren Os 15912, al que dio la señal sonora «Atención»;
-◦aplicó el frenado de acción rápida y dijo a sus compañeros de trabajo que se
-agarraran, a continuación se produbió el impacto;
-◦tras detenerse aseguró el tren y fue a comprobar la situación, el origen del MU
-lo comunicó el jefe de maniobras presente al despachador director;
-– del Registro Oficial de la explicación presentada a la Policía de la República
-Checa se desprende además:
-◦el 3 de marzo de 2019 se fue a dormir sobre las 22 horas, el 4 de marzo de 2019
-se levantó sobre las 9;
-◦en la estación Čáslav recibió el HDV del tren Mn 84261, el destino de la
-circulación era la estación D3 Třemošnice;
-◦desde la estación Čáslav llegaron con el tren a la estación de cabeza de línea D3
-Žleby, donde se realizó una maniobra (rodeo de la composición con la locomotora);
-◦a las 12.05 h, tras conceder el despachador director el permiso para la circulación,
-partieron con el tren Mn 84261 en dirección a Ronov nad Doubravou;
-◦además de él, en el puesto estaban el jefe de maniobras y el maniobrador;
-◦detrás de la estación Žleby se produjo en el HDV una avería técnica (pérdida de
-potencia). La avería se logró subsanar unos 5 minutos después, de lo que informó
-por teléfono al despachador director, ya que sabía que el tren Os 15912 había
-tenido que esperar el cruce en la estación D3 Ronov nad Doubravou;
-◦a la llegada a la estación Ronov nad Doubravou, el maniobrador debía desbloquear
-y conmutar el desvío a una vía distinta de aquella en la que se encontraba el tren
-Os 15912. Tras la entrada del tren Mn 84261 en la estación, el maniobrador debía
-devolverlo a su posición original y el maquinista debía comunicar al despachador
-director la libertad de tránsito del tramo para la circulación del tren Os 15912;
-◦ninguno de los empleados en el puesto del HDV del tren Mn 84261 sufrió daño
-en su salud;
-
+◦al circular por una curva a la izquierda vio salir desde detrás del horizonte el techo del HDV del tren Os 15912, el cual dio la señal sonora «Atención»;
+◦activó el frenado de acción rápida y dijo a sus compañeros de trabajo que se agarraran, a continuación se produbió el impacto;
+◦tras detener el tren lo aseguró y fue a comprobar la situación, el suceso lo comunicó el jefe de maniobras presente al despachador director;
+– del Registro oficial de declaración prestada ante la Policía de la República Checa se desprende además:
+◦el 3 de marzo de 2019 se fue a dormir hacia las 22 horas, el 4 de marzo de 2019 se levantó hacia las 9;
+◦en la estación de Čáslav recibió el HDV del tren Mn 84261, el destino del viaje era la estación de maniobras D3 Třemošnice;
+◦desde la estación de Čáslav llegaron con el tren hasta la estación de maniobras de retroceso D3 Žleby, donde se realizó una maniobra (rodeo de la formación con la locomotora);
+◦a las 12.05 h, tras la concesión del permiso de circulación por el despachador director, partieron con el tren Mn 84261 dirección Ronov nad Doubravou;
+◦además de él, en el puesto se encontraban el jefe de maniobras y el maniobrador;
+◦más allá de la estación de maniobras Žleby se produjo en el HDV una avería técnica (pérdida de potencia). La avería se logró subsanar en unos 5 minutos, de lo que informó telefónicamente al despachador director, pues sabía que el tren Os 15912 debía esperar el cruce en la estación de maniobras D3 Ronov nad Doubravou;
+◦al llegar a la estación de maniobras Ronov nad Doubravou, el maniobrador debía desbloquear y cambiar el desvío a una vía distinta de aquella en la que se encontraba el tren Os 15912. Una vez que el tren Mn 84261 entrara en la estación de maniobras, el maniobrador debía devolverlo a su posición original y el maquinista debía comunicar al despachador director la libertad de tránsito del tramo para la circulación del tren Os 15912;
+◦ninguno de los empleados en el puesto del HDV del tren Mn 84261 sufrió daños en su salud;
 
 ## Página 23
+
 
 despachador director de la línea D3 Čáslav estación local – Třemošnice
   – del Acta
@@ -974,6 +951,7 @@ heridos, algunos pasajeros se marcharon y no solicitaron asistencia;
 
 ## Página 24
 
+
 jefe de maniobras de tren Mn
   – del Registro Oficial de la declaración prestada ante la Policía de la ČR
 •
@@ -1027,50 +1005,30 @@ delantero para pasajeros, donde dos pasajeros solicitaban la expedición de un b
 pudiera terminar la expedición, se produjo una frenada brusca a la que no prestó atención, ya que
 a situaciones similares se producen a menudo debido a la presencia de fauna silvestre;
 
-
 ## Página 25
 
-◦unos 5 segundos después del inicio de la frenada se produjo el impacto y él cayó al pasillo;
+◦así, a los 5 segundos del inicio de la frenada, se produjo el impacto y cayó al pasillo;
 ◦se sintió conmocionado, pero logró levantarse por sí mismo;
-◦acto seguido entró en el espacio el maquinista y dijo que se había producido un accidente ferroviario
-del que era culpable él mismo por no haber esperado la llegada del tren de mercancías a Ronov nad
-Doubravou, y que se disculpaba con los pasajeros;
-◦a continuación comenzó, junto con el maquinista, a atender a los heridos;
-◦tras la atención inicial de los heridos comprobó que se había producido una colisión entre los trenes Os 15912
-y Mn 84261;
-◦con la llegada de los servicios de emergencia, los pasajeros heridos y el maquinista
-fueron trasladados para recibir atención médica;
-◦él mismo no reclamó daños a la salud y permaneció en el lugar de aparición del MU hasta la llegada de
-los equipos de investigación;
-◦al día siguiente no estuvo en baja por enfermedad y se incorporó normalmente al turno.
+◦a continuación, el maquinista entró en el espacio y dijo que se había producido un accidente ferroviario, que él mismo lo había causado al no esperar la llegada del tren de mercancías a Ronov nad Doubravou, y que se disculpaba con los pasajeros;
+◦después, comenzaron a atender a los heridos junto con el maquinista;
+◦tras la primera atención a los heridos, comprobó que se había producido una colisión entre los trenes Os 15912 y Mn 84261;
+◦con la llegada de los servicios de emergencia, los pasajeros heridos y el maquinista fueron trasladados para recibir atención médica;
+◦él mismo no reclamó daños a la salud y permaneció en el lugar del accidente hasta la llegación de los equipos de investigación;
+◦al día siguiente no estuvo en baja por enfermedad y se incorporó normalmente a su turno.
 ### 3.1.2 Otros testigos
-Otros testigos no aportaron ningún hecho adicional que fuera de utilidad para la investigación del MU.
+Los demás testigos no aportaron ningún hecho adicional que fuera útil para la investigación del accidente.
 ### 3.2 Sistema de garantía de la seguridad
-### 3.2.1 Organización marco y forma de emisión y ejecución de instrucciones
-El gestor de la infraestructura y los operadores ferroviarios cuentan con un sistema de garantía de la seguridad
-adecionado en base a las disposiciones de la Ley n.º 266/1994 Sb. El gestor de la infraestructura y el operador ferroviario cuentan con procedimientos
-adecionados que determinan la organización y la forma en que se emiten y ejecutan las instrucciones (procedimientos tecnológicos internos).
-En el sistema de garantía de la seguridad de la explotación de la infraestructura del
-gestor de la infraestructura SŽDC, relacionado con las circunstancias de la aparición del MU en cuestión,
-no se detectó ninguna deficiencia.
-En el sistema de garantía de la seguridad de la explotación del tráfico ferroviario del
-operador ferroviario ČD, relacionado con las circunstancias de la aparición del MU en cuestión,
-no se detectó ninguna deficiencia.
-En el sistema de garantía de la seguridad de la explotación del tráfico ferroviario del
-operador ferroviario ČD Cargo, relacionado con las circunstancias de la aparición del MU en cuestión,
-no se detectó ninguna deficiencia.
-### 3.2.2 Requisitos para el personal del gestor de la infraestructura y del operador ferroviario y aplicación
-de dichos requisitos
-Los requisitos para el personal del gestor de la infraestructura y de los operadores ferroviarios, en particular los requisitos
-de su idoneidad técnica y sanitaria, están establecidos por la Ley n.º 266/1994 Sb.,
-el Decreto n.º 173/1995 Sb., el Decreto n.º 101/1995 Sb., el Decreto n.º 16/2012 Sb.
-y las normas internas del gestor de la infraestructura y de los operadores ferroviarios.
-En el momento de la aparición del MU en cuestión, todas las personas del gestor de la infraestructura SŽDC,
-del operador ferroviario ČD y del operador ferroviario ČD Cargo, implicadas en el MU y que realizaban actividades en
-la explotación de la infraestructura y del tráfico ferroviario, eran idóneas técnicamente para el desempeño de la función que ocupaban.
-
+### 3.2.1 Organización marco y forma de emisión y ejecución de las instrucciones
+El gestor de la infraestructura y los transportistas cuentan con un sistema de garantía de la seguridad adoptado en virtud de lo dispuesto en la ley n.º 266/1994 Sb. El gestor de la infraestructura y el transportista cuentan con procedimientos adoptados que determinan la organización y la forma en que se emiten y ejecutan las instrucciones (procedimientos tecnológicos internos).
+En el sistema de garantía de la seguridad de la explotación de la infraestructura adoptado por el gestor de la infraestructura SŽDC, relacionado con las circunstancias del accidente en cuestión, no se detectó ninguna deficiencia.
+En el sistema de garantía de la seguridad de la explotación del transporte ferroviario adoptado por el transportista ČD, relacionado con las circunstancias del accidente en cuestión, no se detectó ninguna deficiencia.
+En el sistema de garantía de la seguridad de la explotación del transporte ferroviario adoptado por el transportista ČD Cargo, relacionado con las circunstancias del accidente en cuestión, no se detectó ninguna deficiencia.
+### 3.2.2 Requisitos aplicables al personal del gestor de la infraestructura y del transportista y aplicación de dichos requisitos
+Los requisitos aplicables al personal del gestor de la infraestructura y de los transportistas, en particular los requisitos de idoneidad profesional y de salud, están establecidos en la ley n.º 266/1994 Sb., en el decreto n.º 173/1995 Sb., en el decreto n.º 101/1995 Sb., en el decreto n.º 16/2012 Sb. y en las normativas internas del gestor de la infraestructura y de los transportistas.
+En el momento del accidente en cuestión, todas las personas del gestor de la infraestructura SŽDC, del transportista ČD y del transportista ČD Cargo, implicadas en el accidente y que desempeñaban actividades en la explotación de la infraestructura y del transporte ferroviario, reunían la idoneidad profesional para el ejercicio de la función que desempeñaban.
 
 ## Página 26
+
 
 ### 3.2.3 Procedimientos de control interno de seguridad y de auditoría y sus resultados
 El operador ferroviario ČD realizó controles al maquinista implicado en los días
@@ -1106,8 +1064,8 @@ El operador ferroviario ČD Cargo realizó al maquinista implicado los siguiente
 | 23 1 . . 2019 | Bošice | Temático | 3 - control de maniobras | Sin anomalías |
 | 1 2 . . 2019 | Čáslav | Ordinario | 1 control - de carácter general | Sin anomalías |
 
-
 ## Página 27
+
 
 El gestor de la infraestructura SŽDC realizó al despachador director implicado los siguientes controles:
 | Fecha del control | Lugar | Enfoque | Resultado |
@@ -1140,46 +1098,35 @@ El tráfico ferroviario fue explotado por el operador ferroviario Ferrocarriles 
 contrato celebrado entre el gestor de la infraestructura y el operador ferroviario Ferrocarriles Checos, a. s., el día
 21 de agosto de 2013, con entrada en vigor el 1 de septiembre de 2013.
 
-
 ## Página 28
 
-El tráfico ferroviario fue explotado por el operador ferroviario ČD Cargo, a. s., en base al
-contrato celebrado entre el gestor de la infraestructura y el operador ferroviario ČD Cargo, a. s., el día
-31 de diciembre de 2009, con entrada en vigor el 1 de enero de 2010.
+El transporte ferroviario era realizado por el transportista ČD Cargo, a. s., en virtud de un contrato celebrado entre el gestor de la infraestructura ferroviaria y el transportista ČD Cargo, a. s., el 31. 12. 2009, con efectos desde el 1. 1. 2010.
 En la interfaz entre los sujetos implicados no se detectó ninguna deficiencia.
-### 3.3 Regulación legal y de otro tipo
-### 3.3.1 Normativa legal nacional pertinente y normativa de la Unión Europea
-En la investigación se constató una infracción de la normativa legal con relación causal a la aparición del MU:
-§ 35 apartado 1 letra a), g) de la Ley n.º 266/1994 Sb.:
+### 3.3 Regulación jurídica y otra
+### 3.3.1 Normativa jurídica nacional y normativa de la Unión Europea aplicables
+En la investigación se constató el incumplimiento de la normativa jurídica en relación causal con la aparición del MU:
+§ 35 apartado 1 letra a), g) de la Ley núm. 266/1994 Sb.:
 •
- «El operador ferroviario está obligado a
-a) explotar el tráfico ferroviario de acuerdo con las reglas de explotación del tráfico ferroviario,
-la licencia vigente y el contrato celebrado con el gestor de la infraestructura para la explotación
-del tráfico ferroviario en la infraestructura, …
-g) regirse, en la explotación del tráfico ferroviario, por las instrucciones del gestor de la infraestructura
-emitidas en la explotación del tráfico ferroviario,»;
-§ 19 apartado 4 del Decreto n.º 173/1995 Sb.:
+ „El transportista está obligado a
+a) explotar el transporte ferroviario de acuerdo con las normas de explotación del transporte ferroviario, la licencia vigente y el contrato celebrado con el gestor de la infraestructura ferroviaria para la explotación del transporte ferroviario en la vía, …
+g) ceñirse, durante la explotación del transporte ferroviario, a las instrucciones del gestor de la infraestructura ferroviaria impartidas durante la explotación del transporte ferroviario“;
+§ 19 apartado 4 del Decreto núm. 173/1995 Sb.:
 •
-«El tren no puede salir de la estación de tráfico establecida sin el consentimiento de la persona que dirige el tráfico ferroviario
-o sin otra autorización del gestor de la infraestructura.»;
-§ 35 apartado 1 letra h) del Decreto n.º 173/1995 Sb.:
+„El tren no puede salir de la estación de tráfico establecida sin el consentimiento de la persona que dirige el transporte ferroviario o sin otra autorización del gestor de la infraestructura ferroviaria.“;
+§ 35 apartado 1 letra h) del Decreto núm. 173/1995 Sb.:
 •
-«Para la conducción de un vehículo ferroviario debe garantizarse que la persona que conduce el vehículo ferroviario
-ponga en movimiento el vehículo ferroviario motriz únicamente con la señal «Salida» o con otra
-autorización establecida por el gestor de la infraestructura, o con la señal correspondiente para las maniobras
-en la dirección establecida, siempre que conozca el modo y el destino de la marcha, ...».
-3.3.2 Otras normas, p. ej. reglamento de explotación, reglamento de trabajo, normas de mantenimiento, normas
-técnicas aplicables y otras normas internas
-En la investigación se constató una infracción de las normas internas con relación causal a la aparición del MU:
-art. 260, norma interna del gestor de la infraestructura SŽDC, norma SŽDC D3:
+„Para la conducción de un vehículo ferroviario debe garantizarse que la persona que conduce el vehículo ferroviario haga avanzar el vehículo ferroviario de tracción únicamente con la señal „Salida“ u otra autorización establecida por el gestor de la infraestructura ferroviaria, o con la señal correspondiente para las maniobras en la dirección establecida, siempre que conozca el modo y el destino de la marcha, ...“.
+3.3.2 Otras normativas, por ejemplo, el reglamento de explotación, el reglamento laboral, las normativas de mantenimiento, las normas técnicas aplicables y otras normativas internas
+En la investigación se constató el incumplimiento de las normativas internas en relación causal con la aparición del MU:
+art. 260, de la normativa interna del gestor de la infraestructura ferroviaria SŽDC, normativa SŽDC D3:
 •
-«El maquinista está obligado a comunicar sin dilación al despachador director la hora de llegada
-y la liberación del sector espacial:
+„El maquinista está obligado a comunicar de inmediato al despachador director la hora de llegada y la liberación del sector espacial:
 a) en cada estación de tráfico D3 en la que tenga impuesta la obligación de comunicar; …
 El maquinista solicita al despachador director el consentimiento para la salida del tren al sector espacial de la línea D3 (sectores espaciales de la línea D3):
-a) en cada estación de tráfico D3 en la que tenga impuesta la obligación de comunicar; ...»;
+a) en cada estación de tráfico D3 en la que tenga impuesta la obligación de comunicar; ...“;
 
 ## Página 29
+
 
 art. 263, norma interna del operador de la vía SŽDC, norma SŽDC D3:
 •
@@ -1200,8 +1147,8 @@ En la radio de a bordo del HDV del tren Mn 84261 estaba sintonizado el indicativ
 Algunas llamadas fueron gestionadas por el transportista ČD Cargo mediante el teléfono profesional del jefe de maniobras en la red GSM.
 El uso de los dispositivos de comunicación, transmisión e información no guardaba relación con la aparición de la MU.
 
-
 ## Página 30
+
 
 ### 3.4.4 Vehículos ferroviarios, incluidos los dispositivos de registro automático de datos
 El HDV 810.654-4 tenía el Certificado de aptitud del vehículo ferroviario válido, n.º de ev.:
@@ -1261,8 +1208,8 @@ registro de la presión en los cilindros de freno, desprendimiento de la válvul
 •
 (Nota: en rojo se indican los datos con registro incorrecto de la distancia).
 
-
 ## Página 31
+
 
 La velocidad máxima permitida del tren Os 15912 en el lugar de aparición de la MU de 50 km.h-1 no fue superada, el freno automático de tren estaba en funcionamiento y fue manipulado por el maquinista durante todo el turno registrado.
 El HDV 742.200-9 tenía el Certificado de aptitud del vehículo ferroviario válido, n.º de ev.:
@@ -1301,8 +1248,8 @@ No se constataron defectos.
 ### 3.5.1 Medidas adoptadas por los empleados del operador de la vía y del transportista en materia de conducción y seguridad del tráfico
 De la documentación solicitada (SGVD) registrada por el operador de la vía desde la entrada en vigor del nuevo GVD se constató que, en el periodo comprendido entre el 10. 12. 2018 y el día de la aparición del suceso excepcional 4. 3. 2019, el tren Mn 84261 circuló un total de 15 veces. En todos los casos, el cruce con el tren de pasajeros en sentido contrario no se realizó en la estación de tráfico D3 Skovice (según el GVD vigente), sino que se trasladó a la estación de tráfico D3 Ronov nad Doubravou, habiendo sido innecesario, en un caso, utilizar el cruce de trenes por motivos de horario. Casi siempre, el tren de pasajeros con el que se cruzaba fue el tren Os 15912, en un caso el tren Os 15914.
 
-
 ## Página 32
+
 
 El 4. 3. 2019 en la est. Čáslav m. n., el maquinista de ČD implicado fue puesto de forma fehaciente por el despachador director, antes de la salida del tren Os 15915, al corriente de las órdenes PvD3 para los trenes Os 15915 y Os 15912, que firmó y recibió los duplicados.
 ### ORDEN DE TREN para la línea con gestión simplificada del tráfico ferroviario para el tren 15915:
@@ -1351,36 +1298,41 @@ Número de orden "*420368"
 
 ## Página 33
 
-A las 11.48 h el maquinista con el tren Mn 84261 partió de la est. Čáslav m. n. en dirección a Ronov nad Doubravou, sin cumplir la obligación de aviso establecida en el GVD (fig. n.º 3 del anexo) en la estación de tráfico D3 Skovice. A las 11.57 h el maquinista del tren Mn 84261 comunicó la llegada a la estación de tráfico D3 Žleby y solicitó permiso para la maniobra; el despachador director recibió el aviso y concedió el permiso para la maniobra hasta las 12.05 h. A las 12.01 h el maquinista del tren Mn 84261 comunicó al despachador director la finalización de la maniobra en la estación de tráfico D3 Žleby a las 12.02 h y solicitó el consentimiento para la circulación del tren hasta la estación de tráfico D3 Ronov nad Doubravou a las 12.03 h; el despachador director concedió el consentimiento para la circulación del tren y a las 12.02.39 h el tren partió de la estación. Debido a una avería en el HDV, el tren Mn 84261 se detuvo a las 12.04.33 h en el tramo entre las estaciones Žleby y Ronov nad Doubravou en el km 8,678. Posteriormente el maquinista eliminó la avería, de lo cual fue informado el despachador director a las 12.16 h por teléfono de servicio del jefe de maniobras; a las 12.16.16 h el tren volvió a ponerse en marcha y posteriormente se produjo a las 12.21.10 h en el km 11,118 la colisión con el tren Os 15912. A las 12.10 h el maquinista de ČD participante solicitó al despachador director el consentimiento para la circulación del tren Os 15912 desde la estación de tráfico D3 Třemošnice hasta la estación de tráfico D3 Ronov nad Doubravou; el despachador director concedió el consentimiento para la circulación del tren. A las 12.18.49 h el tren Os 15912 se detuvo en la estación de tráfico D3 Ronov nad Doubravou y a las 12.19.06 h partió indebidamente en dirección a Žleby, donde en ese momento se encontraba el tren Mn 84261.
-A las 12.22 h el maquinista del tren Os 15912 comunicó al despachador director la aparición y el lugar del MU, daños a la salud de los pasajeros, y solicitó la notificación de los servicios de emergencia y la activación del IZS. A las 12.22 h el despachador director fue informado telefónicamente de la aparición del MU por teléfono de servicio del jefe de maniobras. A las 12.27 h el maquinista del tren Os 15912 requirió al despachador director la notificación de los servicios de emergencia y precisó la ubicación del lugar de aparición del MU en las proximidades de la vía pública y en el km de la línea 11,200.
+A las 11.48 h el maquinista con el tren Mn 84261 partió de la estación Čáslav m. n. en dirección a Ronov nad Doubravou, sin cumplir la obligación de aviso establecida por el GVD (fig. n.º 3 del anexo) en el punto de tráfico D3 Skovice. A las 11.57 h el maquinista del tren Mn 84261 comunicó la llegada al punto de tráfico D3 Žleby y solicitó autorización para la maniobra; el despachador director recibió el aviso y concedió la autorización para la maniobra hasta las 12.05 h. A las 12.01 h el maquinista del tren Mn 84261 comunicó al despachador director la finalización de la maniobra en el punto de tráfico D3 Žleby a las 12.02 h y solicitó el consentimiento para la circulación del tren hasta el punto de tráfico D3 Ronov nad Doubravou a las 12.03 h; el despachador director concedió el consentimiento para la circulación del tren y a las 12.02.39 h el tren partió del punto de tráfico. Debido a una avería en el HDV, el tren Mn 84261 se detuvo a las 12.04.33 h en el tramo entre los puntos de tráfico Žleby y Ronov nad Doubravou en el km 8,678. Posteriormente el maquinista eliminó la avería, de lo cual el despachador director fue informado a las 12.16 h por teléfono de servicio del jefe de maniobras; a las 12.16.16 h el tren volvió a ponerse en marcha y posteriormente se produjo a las 12.21.10 h en el km 11,118 la colisión con el tren Os 15912. A las 12.10 h el maquinista de ČD implicado solicitó al despachador director el consentimiento para la circulación del tren Os 15912 desde el punto de tráfico D3 Třemošnice hasta el punto de tráfico D3 Ronov nad Doubravou; el despachador director concedió el consentimiento para la circulación del tren. A las 12.18.49 h el tren Os 15912 se detuvo en el punto de tráfico D3 Ronov nad Doubravou y a las 12.19.06 h partió indebidamente en dirección a Žleby, donde en ese momento se encontraba el tren Mn 84261.
+
+A las 12.22 h el maquinista del tren Os 15912 comunicó al despachador director la aparición y el lugar del MU, daños a la salud de los pasajeros, y solicitó la notificación a los servicios de emergencia y la activación del IZS. A las 12.22 h el despachador director fue informado telefónicamente de la aparición del MU por teléfono de servicio del jefe de maniobras. A las 12.27 h el maquinista del tren Os 15912 requirió al despachador director la notificación a los servicios de emergencia y precisó la ubicación del lugar de aparición del MU próximo a la vía terrestre y en el km 11,200 de la línea.
+
 Se detectaron deficiencias.
+
 Hallazgos:
-en contradicción con el § 35 apartado 1 letra g) de la ley n.º 266/1994 Sb. y el art. 260 de la normativa de SŽDC
+
+en contradicción con el § 35 apartado 1 letra g) de la Ley n.º 266/1994 Sb. y el art. 260 de la normativa SŽDC
 •
-D3 el maquinista del tren Mn 84261 no comunicó al despachador director la hora de llegada a
-### la estación de tráfico D3 Skovice y la liberación del sector espacial, y no solicitó al
-despachador director el consentimiento para la circulación del tren hasta la estación de tráfico D3 Ronov nad Doubravou.
+D3 el maquinista del tren Mn 84261 no comunicó al despachador director la hora de llegada al
+### punto de tráfico D3 Skovice y la liberación del sector espacial, y no solicitó al despachador
+director el consentimiento para la circulación del tren hasta el punto de tráfico D3 Ronov nad Doubravou.
 La deficiencia no guardaba relación causal con la aparición del MU;
-en contradicción con el § 35 apartado 1 letra g) de la ley n.º 266/1994 Sb., el § 19 apartado 4 y el § 35
+en contradicción con el § 35 apartado 1 letra g) de la Ley n.º 266/1994 Sb., el § 19 apartado 4 y el § 35
 •
-apartado 1 letra h) del decreto n.º 173/1995 Sb. y el art. 263 de la normativa de SŽDC D3 el maquinista
-### del tren Mn 84261 partió indebidamente de la estación de tráfico D3 Skovice a la estación de tráfico D3 Žleby
-sin el consentimiento de la persona que dirige el tráfico ferroviario ni sin otra autorización del explotador de la vía. La deficiencia no guardaba relación causal con la aparición del MU;
-en contradicción con el § 35 apartado 1 letra g) de la ley n.º 266/1994 Sb., el art. 260 de la normativa de SŽDC
+apartado 1 letra h) del decreto n.º 173/1995 Sb. y el art. 263 de la normativa SŽDC D3 el maquinista
+### del tren Mn 84261 partió indebidamente del punto de tráfico D3 Skovice al punto de tráfico D3 Žleby
+sin el consentimiento de la persona que dirige el tráfico ferroviario ni sin otra autorización del
+explotador de la infraestructura. La deficiencia no guardaba relación causal con la aparición del MU;
+en contradicción con el § 35 apartado 1 letra g) de la Ley n.º 266/1994 Sb., el art. 260 de la normativa SŽDC
 •
 ### D3 y el punto 6. PvD3 para el tren 15912 el maquinista del tren Os 15912 no comunicó
-al despachador director la hora de llegada a la estación de tráfico D3 Ronov nad Doubravou
+al despachador director la hora de llegada al punto de tráfico D3 Ronov nad Doubravou
 y la liberación del sector espacial, y no solicitó al despachador director el consentimiento para la circulación
-del tren hasta la estación de tráfico D3 Skovice. La deficiencia guardaba relación causal con la aparición
+del tren hasta el punto de tráfico D3 Skovice. La deficiencia guardaba relación causal con la aparición
 del MU;
-en contradicción con el § 35 apartado 1 letra g) de la ley n.º 266/1994 Sb., el § 19 apartado 4 y el § 35
+en contradicción con el § 35 apartado 1 letra g) de la Ley n.º 266/1994 Sb., el § 19 apartado 4 y el § 35
 •
-apartado 1 letra h) del decreto n.º 173/1995 Sb., los arts. 263 y 305 de la normativa de SŽDC D3
+apartado 1 letra h) del decreto n.º 173/1995 Sb., los arts. 263 y 305 de la normativa SŽDC D3
 ### y el punto 3. PvD3 para el tren 15912 el maquinista del tren Os 15912 partió indebidamente
-de la estación de tráfico D3 Ronov nad Doubravou a la estación de tráfico D3 Skovice sin el consentimiento de la persona
-
+del punto de tráfico D3 Ronov nad Doubravou al punto de tráfico D3 Skovice sin el consentimiento de la persona
 
 ## Página 34
+
 
 que dirige el tráfico ferroviario ni sin otra autorización del explotador de la vía. La deficiencia guardaba
 relación causal con la aparición del MU;
@@ -1433,8 +1385,8 @@ Entendido, sí.
 Sí, el tren 84261 puede salir a las 12.03 h de Žleby a Ronov,
 (apellido del despachador director).
 
-
 ## Página 35
+
 
 Sí, sí, entiendo, (apellido del maquinista)».
 12.10 h el maquinista de ČD participante solicitó al despachador director el consentimiento
@@ -1479,46 +1431,53 @@ maquinista del tren Mn 84261, en la jornada del 4. 3. 2019 desde las 10.17 h, de
 a la jornada de 67.43 h; la obligación de disfrutar del descanso legal para la comida y el recreo
 por parte del empleado, dada la hora de inicio de la jornada y la aparición del MU, no se suscitó.
 
-
 ## Página 36
 
+director de despacho, en el turno del 21. 3. 2019 desde las 8.34 h, descanso previo al turno
 •
-despachador director, en la jornada del 21. 3. 2019 desde las 8.34 h, descanso previo a la jornada
-de 9.59 h; el descanso para la comida y el recreo se disfrutó según la situación operativa.
-Los empleadores garantizaron las condiciones para el descanso previo a la jornada y durante
-la jornada, es decir, también el sueño en la cama de los maquinistas, de conformidad con la ley n.º 262/2006 Sb.,
-o con el decreto gubernamental n.º 589/2006 Sb., por el que se establece un régimen diferenciado de la jornada
-laboral y del tiempo de descanso de los empleados en el transporte.
-3.6.2 Estado de salud y situación personal que tuvieron incidencia en la incidencia,
+9.59 h; la pausa para comer y descanso se disfrutó según la situación operativa.
+Los empleadores garantizaron las condiciones para el descanso previo al turno y durante
+el turno, incluido el sueño en cama de los maquinistas, de conformidad con la Ley núm. 262/2006 Sb.,
+o bien con el Decreto gubernamental núm. 589/2006 Sb., por el que se establece la regulación
+excepcional de la jornada laboral y del tiempo de descanso de los empleados en el transporte.
+3.6.2 Estado de salud y situación personal que tuvieron incidencia en el suceso excepcional,
 incluido el estrés físico o psicológico
-Los empleados participantes del explotador de la vía y de los transportistas se encontraban en el momento de la aparición del MU
-apto para el desempeño de las funciones que ocupaban. Los empleados del explotador de la vía
-y de los transportistas se sometían a reconocimientos médicos periódicos de conformidad con la disposición
-del decreto n.º 101/1995 Sb.
-Parte de la investigación de la influencia del factor humano en la aparición de la incidencia fue, entre otros,
-la evaluación del estado de salud y de la situación personal, la capacidad de procesar información,
-la experiencia y los conocimientos, la carga laboral y el posible estrés físico o psicológico.
-El maquinista del tren Os 15912 circula en la línea afectada en turno regular desde hace unos 7 u
-8 años, antes también circulaba allí de forma irregular. Finalizó la jornada anterior el 3. 3. 2019 a las 13.14 h, se dedicó
-entre otras cosas al deporte (jugó al fútbol), se acostó a las 23 h. El día de la aparición del MU, 4. 3. 2019, se levantó, según su
-declaración, sobre las 2.45 h, e inició la jornada a las 3.28 h. Según su declaración, al inicio
-y durante la jornada no sintió cansancio, se sentía descansado y sano. El jefe de servicio del tren
-Os 15912 conoce al maquinista afectado desde hace tiempo y el día de la aparición del MU no le observó
-ninguna indisposición en relación con el desempeño del servicio.
-En la parte anterior de la jornada no se detectaron deficiencias en la actividad del maquinista, a la vez que fue capaz de reaccionar adecuadamente al avistar el tren en sentido contrario
-Mn 84261 frenando a tiempo e intentando la marcha atrás. La orden PvD3 para el tren
-Os 15912 no la siguió durante la circulación del tren, la tenía plegada en el parabrisas; la posible influencia
-del estado físico y psicológico del maquinista en el olvido de las instrucciones en ella indicadas
-no fue acreditada.
-3.6.3 Disposición del equipamiento del puesto de mando o del vehículo ferroviario que tiene
-influencia en su conducción y uso
-La disposición y el equipamiento del puesto de trabajo de los empleados del explotador de la vía y de los transportistas
-no guardaba relación con la aparición del MU.
-### 3.7 Incidencias anteriores de carácter similar
-La DI investigó las causas y circunstancias, en el período desde el 1. 1. 2008 hasta la aparición de la
-MU en cuestión, en las vías ferroviarias, categoría nacional y regional, de las siguientes MU similares:
+Los empleados participantes de la empresa gestora de la infraestructura y de los transportistas
+se encontraban, en el momento de producirse el SE, aptos para el desempeño de las funciones
+que desempeñaban. Los empleados de la empresa gestora de la infraestructura y de los
+transportistas se sometían a reconocimientos médicos periódicos de conformidad con lo dispuesto
+en la Resolución núm. 101/1995 Sb.
+Parte de la investigación de la influencia del factor humano en la producción del suceso
+excepcional fue, entre otros, la evaluación del estado de salud y de la situación personal,
+la capacidad de procesar información, la experiencia y los conocimientos, la carga laboral
+y el posible estrés físico o psicológico.
+El maquinista del tren Os 15912 circula en la línea afectada en turno regular desde hace
+aproximadamente 7 a 8 años, antes también circulaba allí de forma esporádica. Finalizó
+el turno anterior el 3. 3. 2019 a las 13.14 h, se dedicó, entre otras cosas, al deporte
+(jugó al fútbol), se acostó a las 23 h. El día de producirse el SE, 4. 3. 2019, se levantó,
+según su declaración, aproximadamente a las 2.45 h, incorporándose al turno a las 3.28 h.
+Según su declaración, al incorporarse y durante el turno no experimentó fatiga, se sentía
+descansado y sano. El jefe de servicio del tren Os 15912 conoce al maquinista afectado
+desde hace tiempo y el día de producirse el SE no le observó ninguna indisposición
+relacionada con el desempeño del servicio.
+En la parte anterior del turno no se detectaron deficiencias en la actividad del maquinista,
+y al mismo tiempo fue capaz de reaccionar adecuadamente al avistar el tren contrario
+Mn 84261, frenando a tiempo e intentando la marcha atrás. La orden PvD3 para el tren
+Os 15912 no la siguió durante la circulación del tren, la tenía plegada junto al parabrisas
+delantero, la posible influencia del estado físico y psicológico del maquinista en el
+incumplimiento de las instrucciones en ella indicadas no quedó acreditada.
+3.6.3 Disposición del equipamiento del puesto de mando o del vehículo ferroviario
+que tiene incidencia en su conducción y utilización
+La disposición y el equipamiento del puesto de trabajo de los empleados de la empresa
+gestora de la infraestructura y de los transportistas no guardaba relación con la
+producción del SE.
+### 3.7 Sucesos excepcionales previos de carácter similar
+La DI investigó las causas y circunstancias, en el periodo desde el 1. 1. 2008 hasta
+la fecha de producción del SE en cuestión, en las vías ferroviarias, categoría nacional
+y regional, de los siguientes SE similares:
 
 ## Página 37
+
 
 del 2 de febrero de 2011 entre la estación de maniobras D3 Vodňany y la estación Číčenice, cuando se produjo la colisión
 •
@@ -1542,8 +1501,8 @@ A) la adopción de sus propias medidas encaminadas a garantizar la realización 
 El operador de transporte ferroviario ČD Cargo envió el siguiente pronunciamiento en relación con la Recomendación de Seguridad:
 A) Los vehículos ferroviarios de tracción (en adelante VFT) de ČD Cargo, a. s., se operan de conformidad con la documentación técnica aprobada, las disposiciones pertinentes de la Ley de Ferrocarriles, decretos y reglamentos. Los VFT operados están equipados con estaciones de radio que permiten la parada remota del tren. La línea Číčenice – Volary
 
-
 ## Página 38
+
 
 no está equipada con la red de radio correspondiente. Actualmente no existe ninguna instalación técnica para eliminar la falla del factor humano, consistente en la salida ilícita de la estación de maniobras, utilizable en una línea operada según D3 sin red de radio, que hubiera sido aprobada por la Oficina Ferroviaria para su montaje en los VFT. En la línea Číčenice – Volary, la empresa AŽD está probando el dispositivo «Radioblok», que utiliza la red telefónica pública GSM. Los representantes de ČD Cargo, a. s., tienen concertada con AŽD una reunión informativa sobre las posibles montajes del dispositivo «Radioblok» para su prueba en los VFT.
 B) ČD Cargo, a. s., garantizará el aumento de la actividad de control dirigida al cumplimiento de las disposiciones reglamentarias establecidas en la línea mencionada por el operador de la infraestructura SŽDC, s. o. Tras la implantación de la instalación técnica de seguridad, los empleados del transportista ČD Cargo serán debidamente informados sobre los cambios en la PND3 y formados con la verificación de los conocimientos adquiridos en la formación. Las demás condiciones se cumplirán de acuerdo con las instrucciones del operador de la infraestructura.
@@ -1565,8 +1524,8 @@ La Inspección Ferroviaria recomendó a la Oficina Ferroviaria la adopción de s
 El operador de la infraestructura SŽDC envió el siguiente pronunciamiento en relación con la Recomendación de Seguridad:
 Por parte del operador de la infraestructura Administración de la Vía de Transporte Ferroviario, organización estatal, la recomendación de seguridad mencionada se respeta y se cumple mediante la construcción gradual del sistema ERTMS/ETCS para las líneas incluidas en la red principal de conformidad con el Reglamento del Parlamento Europeo
 
-
 ## Página 39
+
 
 y del Consejo (UE) n.º 1315/2013 y para las líneas en las que, durante la modernización, se produce un aumento de la velocidad de la línea por encima de 100 km/h.
 En las líneas con contadores de ejes, donde no se implantará ETCS a medio plazo, SŽDC aplica, en el marco de su modernización, la funcionalidad de Advertencia por paso ilícito de señal. Esta funcionalidad, sin embargo, por la naturaleza de su funcionamiento, solo puede reducir en algunos casos las consecuencias de una posible situación excepcional, pero no puede eliminarla por completo.
@@ -1583,49 +1542,39 @@ notificó la llegada del tren Os 15915 a la estación de maniobras D3 Třemošni
 
 ## Página 40
 
-Antes de la salida del tren Mn 84261, su maquinista fue acreditadamente informado por el despachador director en la estación Čáslav m. n. de la orden PvD3 para el tren Mn 84261, la cual firmó y recibió una copia. A las 11.48
-   h   partió con el tren Mn 84261 de la estación Čáslav
+Antes de la salida del tren Mn 84261, su maquinista fue informado de forma verificable por el despachador director en la estación de Čáslav m. n. sobre la orden PvD3 para el tren Mn 84261, que firmó y recibió una copia. A las 11.48
+   h   partió con el tren Mn 84261 de la estación de Čáslav
 m. n. en dirección a Ronov nad Doubravou, sin cumplir la obligación de aviso establecida por el GVD (fig. n.º 3
-   en el anexo) en la estación de tráfico D3 Skovice. A las 11.57
-   h   el maquinista del tren
-Mn 84261 comunicó su llegada a la estación de tráfico D3 Žleby y solicitó permiso para la maniobra; el despachador director recibió la comunicación y concedió el permiso para la maniobra hasta las 12.05
-   h  . A las 12.01
-   h   el maquinista del tren
-Mn 84261 comunicó al despachador director la finalización de la maniobra en la estación de tráfico D3 Žleby a las
-12.02
-   h   y solicitó el consentimiento para la circulación del tren hasta la estación de tráfico D3 Ronov n. D. a las 12.03
-   h  , el despachador
-director concedió el consentimiento para la circulación del tren; a las 12.02.39
-   h   el tren partió de la estación de tráfico.
-Tras finalizar la circulación del tren Os 15915, el maquinista de ČD participante pasó al puesto de conducción (2.) opuesto, desde donde dirigió el tren Os 15912 de regreso a la estación Čáslav m. n. Según su declaración, se llevó consigo la PvD3 para el tren Os 15912 al puesto de conducción y durante la circulación la tenía plegada junto al parabrisas. A las 12.10
-   h   el maquinista de ČD participante solicitó al despachador director
-el consentimiento para la circulación del tren Os 15912 desde la estación de tráfico D3 Třemošnice hasta la estación de tráfico D3 Ronov nad Doubravou; el despachador director concedió el consentimiento para la circulación del tren. Tras la llegada a la estación de tráfico D3 Ronov nad Doubravou a las 12.18.49
-   h   el maquinista omitió por completo la obligación de aviso
-establecida en el punto 6. de la PvD3 para el tren Os 15912 y, a pesar de la ausencia del tren de mercancías Mn 84261, en contradicción con el punto 3. de la PvD3 para el tren Os 15912, partió a las 12.19.06
-   h   hacia
-el sector en dirección a Žleby, donde en ese momento se encontraba el tren de mercancías Mn 84261.
+del anexo) en el punto de tráfico D3 Skovice. A las 11.57
+   h   el maquinista del tren
+Mn 84261 comunicó su llegada al punto de tráfico D3 Žleby y solicitó permiso para la maniobra; el despachador director recibió el aviso y concedió el permiso para la maniobra hasta las 12.05
+   h  . A las 12.01
+   h   el maquinista del tren
+Mn 84261 comunicó al despachador director la finalización de la maniobra en el punto de tráfico D3 Žleby a las 12.02
+   h   y solicitó el consentimiento para la circulación del tren hasta el punto de tráfico D3 Ronov n. D. a las 12.03
+   h  ; el despachador director
+concedió el consentimiento para la circulación del tren y a las 12.02.39
+   h   el tren partió del punto de tráfico.
+Tras finalizar la circulación del tren Os 15915, el maquinista de ČD participante pasó al puesto de conducción (2.) opuesto, desde donde dirigió el tren Os 15912 de regreso a la estación de Čáslav m. n. Según su declaración, se llevó consigo la PvD3 para el tren Os 15912 al puesto de conducción y durante la circulación la tenía plegada junto al parabrisas delantero. A las 12.10
+   h   el maquinista de ČD participante solicitó al despachador director el consentimiento para la circulación del tren Os 15912 desde el punto de tráfico D3 Třemošnice hasta el punto de tráfico D3 Ronov nad Doubravou; el despachador director concedió el consentimiento para la circulación del tren. Tras la llegada al punto de tráfico D3 Ronov nad Doubravou a las 12.18.49
+   h   el maquinista omitió por completo la obligación de aviso establecida en el punto 6 de la PvD3 para el tren Os 15912 y, a pesar de la ausencia del tren de mercancías Mn 84261, en contradicción con el punto 3 de la PvD3 para el tren Os 15912, partió a las 12.19.06
+   h   hacia el sector en dirección a Žleby, donde en ese momento se encontraba el tren de mercancías Mn 84261.
 Debido a una avería en el HDV, el tren Mn 84261 se detuvo a las 12.04.33
-   h   en el tramo entre
-las estaciones de tráfico D3 Žleby y Ronov nad Doubravou en el km 8,678; a las 12.16
-   h   el despachador director fue informado de su resolución por teléfono oficial por parte del jefe de maniobras.
+   h   en el tramo entre los puntos de tráfico D3 Žleby y Ronov nad Doubravou en el km 8,678; a las 12.16
+   h   el despachador director fue informado de su reparación por teléfono oficial por parte del jefe de maniobras.
 A las 12.16.03
-   h   el tren volvió a ponerse en marcha y posteriormente, a las 12.21.10
-   h   en el km 11,118, se produjo la
-colisión con el tren en sentido contrario Os 15912. El frente del tren Mn 84261 se detuvo a 3,2 m del punto de colisión; el HDV del tren Os 15912 fue, como consecuencia de la colisión, arrastrado hacia atrás, en sentido contrario a la marcha, 69,35 m; la distancia entre los frentes de ambos trenes tras detenerse fue de 66 m. No se produjo descarrilamiento del DV. A las 12.22
-   h   el maquinista del tren Os 15912 comunicó al despachador director la aparición y el lugar del
-SU (suceso ferroviario), daños personales a los pasajeros, y solicitó la notificación a los servicios de emergencia y la activación del IZS. A las 12.22
-   h   fue notificada la aparición del SU al despachador director por teléfono oficial por parte del jefe de maniobras. A las 12.27
-   h   el maquinista del tren Os 15912
-reiteró la solicitud de activación del IZS ante el despachador director y precisó la ubicación del lugar de aparición del SU, próximo a una vía terrestre y en el km 11,200 de la línea.
+   h   el tren volvió a ponerse en marcha y posteriormente, a las 12.21.10
+   h   en el km 11,118, se produjo la colisión con el tren en sentido contrario Os 15912. El frente del tren Mn 84261 se detuvo a 3,2 m del punto de colisión; el HDV del tren Os 15912 fue, como consecuencia de la colisión, arrastrado hacia atrás en sentido contrario a la marcha en 69,35 m; la distancia entre los frentes de ambos trenes tras detenerse fue de 66 m. No se produjo descarrilamiento del DV. A las 12.22
+   h   el maquinista del tren Os 15912 comunicó al despachador director la aparición y el lugar del MU, daños personales entre los pasajeros, y solicitó la notificación a los servicios de emergencia y la activación del IZS. A las 12.22
+   h   fue notificada la aparición del MU al despachador director por teléfono oficial por parte del jefe de maniobras. A las 12.27
+   h   el maquinista del tren Os 15912 insistió en la petición de activación del IZS ante el despachador director y precisó la ubicación del lugar de aparición del MU, próximo a la vía terrestre y en el km 11,200 de la línea.
 ### 4.2 Análisis
-### 4.2.1 Evaluación de los hechos constatados en el punto 3 y conclusiones sobre la causa
-del suceso ferroviario y la actuación de los servicios de emergencia
-Los empleados participantes estaban, en el momento del suceso ferroviario, profesional y médicamente capacitados para el desempeño de las funciones que ocupaban, de conformidad con el § 35 apartado 1 letra f) de la ley
-n.º 266/1994 Sb. En la prueba de alcoholemia orientativa no se detectó presencia de alcohol y la investigación tampoco arrojó indisposición física o psíquica.
-La visibilidad en el momento de la aparición del SU no se vio reducida por influencias meteorológicas y los maquinistas no fueron deslumbrados por el sol. El HDV fue conducido desde el punto con mejor visibilidad de la línea: el maquinista del tren Os 15912 observaba la línea desde el lado derecho del puesto de conducción frontal (2.) y el maquinista del tren
-
+### 4.2.1 Evaluación de los hechos constatados en el punto 3 y conclusiones sobre la causa del suceso excepcional y la actuación de los servicios de emergencia
+Los empleados participantes eran, en el momento del suceso excepcional, profesional y médicamente aptos para el desempeño de las funciones que ocupaban, de conformidad con el § 35 apartado 1 letra f) de la Ley n.º 266/1994 Sb. En su prueba de alcoholemia orientativa no se detectó la presencia de alcohol y la investigación tampoco arrojó indicios de indisposición física o psíquica.
+La visibilidad en el momento de la aparición del MU no se vio reducida por influencias meteorológicas y los maquinistas no fueron deslumbrados por el sol. El HDV se condujo desde el punto con mejor visibilidad de la línea: el maquinista del tren Os 15912 observaba la línea desde el lado derecho del puesto de conducción delantero (2.) y el maquinista del tren
 
 ## Página 41
+
 
 Mn 84261 desde la ventanilla izquierda del HDV circulando con un corto avance hacia delante. La velocidad máxima permitida no fue superada en ningún tramo de la línea. Mediante una prueba de verificación el día
 11. 3. 2019 en el lugar de aparición del SU se constató la visibilidad mutua de los trenes Os 15912
@@ -1671,8 +1620,8 @@ en la explicación presentada indicó que durante toda la circulación vigiló e
 de su tren la tenía plegada junto al parabrisas. En el caso de haberla tenido en su campo de visión en el pupitre de
 mando, podría haberle servido como adecuada ayuda recordatoria para la obligación de aviso ordenada y el cruce de trenes en la estación de tráfico D3 Ronov nad Doubravou.
 
-
 ## Página 42
+
 
 La investigación constató que el maquinista del tren Mn 84261 no comunicó al despachador
 director desde la estación de tráfico D3 Skovice la liberación del sector, no solicitó el consentimiento
@@ -1732,14 +1681,15 @@ una colisión frontal de los trenes mencionados.
 
 ## Página 43
 
+
 La forma de organizar el tráfico ferroviario mediante la llamada gestión simplificada del tráfico ferroviario se lleva a cabo a través de instrucciones del despachador director, que el resto de empleados del gestor de la infraestructura y de los transportistas están obligados a respetar. Dichas líneas no están equipadas con ningún dispositivo de seguridad ni con otro dispositivo técnico que controle y evalúe el cumplimiento de las instrucciones del despachador director y, en caso de error o fallo del maquinista, evite la aparición de un suceso excepcional análogo. Esta situación no es ideal y, en las líneas por las que circulan simultáneamente varios trenes o PMD, genera la probabilidad de que se produzca un SE análogo, que se repiten con frecuencia (véase, entre otros, el punto 3.7). 
 Más llamativo aún es que, en la actualidad, no es posible mejorar de hecho esta situación y, si no se produce un cambio en el Plan Nacional de Implementación de ERTMS publicado en 2017 por el Ministerio de Transportes, no será posible mejorar la seguridad de estas líneas ni siquiera en el plazo de decenas de años en el futuro. En el Plan Nacional de Implementación se indica, entre otros: «Dado que solo en el caso de la implantación de la circulación exclusiva de vehículos bajo la supervisión del sistema ETCS se puede cumplir el objetivo requerido de aumento fundamental de la seguridad del tráfico ferroviario, y que la circulación paralela del sistema de clase B en paralelo con el sistema de clase A es, desde el punto de vista de la seguridad, técnico, de la tecnología del tráfico y económico, ### fundamentalmente indeseable, no deben seguir desplegándose en la República Checa, en el marco de cualquier acción de inversión y no inversión en la infraestructura ferroviaria, sistemas de clase B ### y sistemas incompatibles con vehículos equipados con la parte a bordo de ETCS, en el caso de la primera instalación de la parte en línea del dispositivo de seguridad de tren.». 
 Con esta idea, en principio, hay que estar de acuerdo, ya que es en sí misma cierta. Sin embargo, en el contexto del resto del NIP, a continuación resulta problemática, ya que el propio NIP no prevé que en esta y en líneas análogas se implante ETCS a corto plazo, ya que posteriormente indica que «En conjunto, se mantiene la aplicabilidad racional de ERTMS a toda la red ferroviaria, donde es necesario construir dispositivos de seguridad de tren en el sentido del decreto del Ministerio de Transportes n.º 173/1995 Sb., por el que se aprueba el reglamento de circulación ferroviaria, en su versión vigente (nota DI: líneas donde es posible alcanzar velocidades superiores a 100 km.h-1), y esto en pasos graduales según las prioridades. Con ello se entiende no el actual, sino el ### futuro, económicamente significativo, alcance de la red ferroviaria en la República Checa. Las líneas o bien estarán equipadas con ERTMS, o bien no formarán parte de un sistema de red ferroviaria realmente funcional.» y, además, establece el horizonte de implantación de ERTMS mediante la equipación de líneas concretas primero con el sistema GSM-R y posteriormente con el propio ETCS: «La equipación de las líneas que forman parte de la red global debe organizarse inmediatamente en relación con su modernización u optimización, con el objetivo de equiparlas también antes de 2030, como máximo, no obstante, antes del final del año 2050.». 
 La línea Čáslav estación local – Třemošnice y las líneas análogas con gestión simplificada del tráfico ferroviario figuran en el NIP como «otras líneas sin GSM-R para la verificación de la construcción gradual de GSM-R», respectivamente «otras líneas donde, en caso de instalación de la parte en línea del dispositivo de seguridad de tren, se construirá ETCS (nivel de aplicación adecuado)». Estas líneas no están equipadas con el sistema de clase B, ya que, según el «Listado de sistemas de clase B "Gestión y seguridad"», ERA/TD/2011-11, versión 4.0, el único sistema de clase B es el freno automático de tren LS. El sistema de clase B no es, por ejemplo, Radioblok, con el que está equipada la línea Číčenice – Volary (originalmente línea con gestión simplificada del tráfico ferroviario) y que fue aprobado como dispositivo de seguridad integrado de estación y de línea, no como freno automático de tren. También en este caso se trata, sin duda, de un sistema incompatible con vehículos equipados con la parte a bordo de ETCS. 
 De lo anterior se derivan dos cuestiones fundamentales. Con las líneas con gestión simplificada del tráfico ferroviario, al menos en la actualidad, sigue contándose como parte de la red ferroviaria
 
-
 ## Página 44
+
 
 (con ERTMS), a pesar de que no está claro si seguirán formando parte de esta red o si, por ejemplo, se transferirán a otra categoría de vía. Al mismo tiempo, en ellas, al menos hasta 2030 (respectivamente ### 2050), no se prevé la implantación de ETCS, pero, sin embargo, les resulta de aplicación la prohibición de desplegar sistemas de clase B y sistemas incompatibles con vehículos equipados con la parte a bordo de ETCS. Precisamente, por ejemplo, Radioblok es una variante relativamente barata y eficaz de seguridad de líneas análogas que, entre otras cosas, permite, con una intervención mínima en el DV, aumentar el nivel de seguridad en la explotación de vehículos antiguos, para los que la instalación de ETCS no es económicamente viable o técnicamente resoluble, hasta el final de su vida útil. La implantación de un sistema de este tipo, que consta de una parte en línea y una parte móvil (por ejemplo, Radioblok), solo tiene sentido en las líneas en las que todos los vehículos explotados estén equipados con la parte móvil de dicho sistema y, al mismo tiempo, en las que tampoco se prevea a futuro la circulación de vehículos con la parte móvil de ETCS, es decir, por el contrario, se prevé que a futuro se produzca la separación de dicha vía de la red ferroviaria con ERTMS. 
 La República Checa no es el único Estado en el que los transportistas abordan la cuestión de los vehículos antiguos. También el art. 7.2.4 del Reglamento de la Comisión (UE) 2016/919 prevé una posible solución para permitir la explotación de vehículos ferroviarios que no son compatibles con los sistemas de clase A, y establece: 
@@ -1749,8 +1699,8 @@ La parte en línea debe, además, admitir las transiciones entre la clase A y la
 Por ello, la Inspección Ferroviaria recomienda al Ministerio de Transportes que, en colaboración con la Oficina Ferroviaria, en la actualización del NIP, que debe realizarse como máximo en 2022, valore, dada la complejidad temporal y financiera de la implantación de ERTMS en forma de ETCS nivel 2 (que requiere la implantación de GSM-R), la posibilidad de equipar las líneas con ERTMS en una realización técnica más sencilla y en un nivel económicamente aceptable, por ejemplo, también mediante el uso de medios y funcionalidades aún no implantados en la República Checa, pero de uso habitual en el extranjero (por ejemplo, elementos de ETCS nivel 1, uso del modo de explotación «Supervisión limitada» [Limited Supervision] y otros). Además, recomienda encarecidamente al Ministerio de Transportes que proponga un procedimiento concreto y un calendario de equipación de las demás líneas, también fuera del marco establecido por la normativa de la UE (líneas de la red TEN-T) y por la normativa de la República Checa (líneas con velocidad superior a 100 km/h), es decir, también de las líneas con gestión simplificada del tráfico ferroviario, y que complete en este sentido el Plan Nacional de Implementación de ERTMS. Atendiendo a las posibilidades mencionadas de uso de otras variantes más sencillas de realización de ERTMS/ETCS, la Inspección Ferroviaria no recomienda aplazar la implantación de ERTMS a un periodo posterior a 2030 ni esperar a que se establezcan nuevas obligaciones por parte de la normativa de la UE, condicionar la implantación de ETCS a la implantación previa de GSM-R y, en ningún caso, recomienda vincular la implantación a la realización de la modernización u optimización total de la línea. En el caso de que se realice la modernización u optimización total de la línea (también fuera de TEN-T), la Inspección Ferroviaria recomienda incluir la implantación de ETCS como parte integrante de la misma. 
 Dada la posibilidad de que en algunas líneas no se implante ERTMS ni siquiera a largo plazo, la Inspección Ferroviaria recomienda valorar su
 
-
 ## Página 45
+
 
 exclusión del sistema al que resultan de aplicación los requisitos de la directiva de interoperabilidad y la normativa relacionada de la UE, respectivamente, permitir la implantación de un dispositivo técnico que, en dichas líneas, permita aumentar el nivel de seguridad de la circulación de los vehículos ferroviarios mediante una solución técnica adecuada al estado actual de la técnica y, al mismo tiempo, económicamente aceptable en el nivel de seguridad correspondiente. 
 La decisión de exclusión del sistema debería ser revocable a largo plazo, atendiendo al futuro, económicamente significativo, alcance de la red ferroviaria en la República Checa. Con la exclusión del sistema no se entiende, en primer lugar, la transferencia inmediata a una vía local, que en la actualidad está definida por la disposición § 3 apartado 1 letra c) de la ley n.º 266/1994 Sb. como separada, es decir, permite el traslado de un vehículo ferroviario a otra vía solo mediante el uso de un «dispositivo técnico especial» aún no definido o sirve exclusivamente para la explotación del transporte ferroviario de viajeros no público, del transporte ferroviario de viajeros para fines turísticos o es explotada por trenes históricos. La separación de la línea de desvío excluida debería permitir, en condiciones fijas, el paso de los vehículos y debería aplicarse en el momento de la puesta en marcha de la circulación exclusiva bajo la supervisión de ETCS en la línea principal. 
@@ -1774,27 +1724,27 @@ No se detectaron causas del suceso excepcional originadas en el marco jurídico 
 ## Página 46
 
 ### 4.4 Hallazgos complementarios
-4.4.1 Deficiencias e omisiones detectadas durante la investigación que no se relacionan con las conclusiones sobre las causas
+4.4.1 Deficiencias y omisiones detectadas durante la investigación que no se refieren a las conclusiones sobre las causas
 
 En el gestor de la vía SŽDC:
-• en contradicción con el § 49 apartado 3 letra a) de la ley núm. 266/1994 Sb. y el § 7 apartado 2 del decreto núm. 376/2006 Sb. y el art. 42 de la norma interna SŽDC D17, el gestor de la vía SŽDC no aseguró la notificación de la aparición de un SU (suceso extraordinario) – incumplimiento de la obligación de notificación por parte del maquinista del tren Mn 84261 en la estación de tráfico D3 Skovice y salida no autorizada del tren hacia la estación de tráfico D3 Žleby:
-◦§ 49 apartado 3 letra a) de la ley núm. 266/1994 Sb.:
-«El gestor de la vía y el operador ferroviario están obligados a
-a) comunicar sin demora cada suceso extraordinario en el transporte ferroviario a la Inspección Ferroviaria y, al mismo tiempo, cada accidente grave y aquel accidente cuyas consecuencias sean un daño considerable según el Código Penal, a la Policía de la República Checa, ...»;
-◦§ 7 apartado 2 del decreto núm. 376/2006 Sb.:
-«Cuando se produzca un suceso extraordinario durante la explotación de la vía o la explotación del transporte ferroviario, el gestor de la vía y el operador ferroviario garantizarán que cada empleado o persona en relación contractual con el gestor de la vía o el operador ferroviario, que con su actividad laboral participen en la explotación de la vía o en la explotación del transporte ferroviario, notifiquen sin demora a la estación de notificación designada su aparición, si este suceso lo han detectado ellos mismos o si han tenido conocimiento fiable del mismo.»;
-◦art. 42 de la norma SŽDC D17:
-«Cada empleado o persona en relación contractual con el gestor de la vía o el transporte ferroviario, que con su actividad laboral participen en la explotación de la vía o en la explotación del transporte ferroviario, están obligados a notificar sin demora a la estación de notificación designada la aparición de un SU, si este suceso lo han detectado ellos mismos o si han tenido conocimiento fiable del mismo.
-Si en el lugar del SU hay varios empleados, el SU lo notificará, tras un acuerdo mutuo, el empleado con la categoría funcional más alta.».
+• en contradicción con el § 49 apartado 3 letra a) de la ley núm. 266/1994 Sb. y el § 7 apartado 2 del decreto núm. 376/2006 Sb. y el art. 42 de la norma interna de SŽDC D17, el gestor de la vía SŽDC no aseguró la notificación de la aparición de un MU – incumplimiento de la obligación de notificación por parte del maquinista del tren Mn 84261 en la estación de tráfico D3 Skovice y salida no autorizada del tren hacia la estación de tráfico D3 Žleby:
+◦ § 49 apartado 3 letra a) de la ley núm. 266/1994 Sb.:
+  «El gestor de la vía y el transportista están obligados
+  a) a comunicar sin demora cada suceso extraordinario en el transporte ferroviario a la Inspección Ferroviaria y, al mismo tiempo, cada accidente grave y aquel accidente cuyas consecuencias sean un daño considerable según el Código Penal, a la Policía de la República Checa, ...»;
+◦ § 7 apartado 2 del decreto núm. 376/2006 Sb.:
+  «Si se produce un suceso extraordinario durante la explotación de la vía o la explotación del transporte ferroviario, el gestor de la vía y el transportista garantizan que cada empleado o persona en relación contractual con el gestor de la vía o el transportista que, con su actividad laboral, participe en la explotación de la vía o en la explotación del transporte ferroviario, comunique sin demora a la oficina de notificación designada su aparición, si este suceso lo han detectado ellos mismos o si han tenido conocimiento fidedigno del mismo.»;
+◦ art. 42 de la norma SŽDC D17:
+  «Cada empleado o persona en relación contractual con el gestor de la vía o el transporte ferroviario que, con su actividad laboral, participe en la explotación de la vía o en la explotación del transporte ferroviario, está obligado a comunicar sin demora a la oficina de notificación designada la aparición de un MU, si ha detectado este suceso él mismo o si ha tenido conocimiento fidedigno del mismo.
+  Si en el lugar del MU hay varios empleados, el MU lo notificará, tras un acuerdo mutuo, el empleado de mayor rango funcional.».
 
-En el operador ferroviario ČD Cargo:
-• en contradicción con el § 35 apartado 1 letra g) de la ley núm. 266/1994 Sb. y el art. 260 de la norma interna SŽDC D3, el maquinista del tren Mn 84261 no notificó al despachador director la hora de llegada a la estación de tráfico D3 Skovice y la liberación del sector espacial, y no solicitó al despachador director el permiso para la circulación del tren hacia la estación de tráfico D3 Ronov nad Doubravou;
-◦§ 35 apartado 1 letra g) de la ley núm. 266/1994 Sb.:
-«El operador ferroviario está obligado a
-g) guiarse durante la explotación del transporte ferroviario por las instrucciones del gestor de la vía impartidas durante la explotación del transporte ferroviario,»;
-
+En el transportista ČD Cargo:
+• en contradicción con el § 35 apartado 1 letra g) de la ley núm. 266/1994 Sb. y el art. 260 de la norma interna de SŽDC D3, el maquinista del tren Mn 84261 no comunicó al despachador director la hora de llegada a la estación de tráfico D3 Skovice ni la liberación de la sección espacial, y no solicitó al despachador director el permiso para la circulación del tren hacia la estación de tráfico D3 Ronov nad Doubravou;
+◦ § 35 apartado 1 letra g) de la ley núm. 266/1994 Sb.:
+  «El transportista está obligado
+  g) a regirse, durante la explotación del transporte ferroviario, por las instrucciones del gestor de la vía impartidas durante la explotación del transporte ferroviario,»;
 
 ## Página 47
+
 
 ◦art. 260 de la norma SŽDC D3:
 «El maquinista está obligado a notificar sin demora al despachador director la hora de llegada y la liberación del sector espacial:
@@ -1815,8 +1765,8 @@ a) en cada estación de tráfico D3 en la que tenga impuesta la obligación de n
 a) «en cursiva entre comillas» indica las formulaciones verbales obligatorias de las instrucciones, que tienen una importancia fundamental para garantizar la seguridad durante la explotación de la vía y del transporte ferroviario y que no deben modificarse. La excepción la constituyen los nombres de las estaciones de tráfico, los apellidos de las personas, los números de tren, de vías, las designaciones de elementos de maniobra, de señales, los datos kilométricos y horarios, el orden de las entradas, e incluso con las correspondientes vinculaciones de preposiciones; ...».
 • en contradicción con el § 49 apartado 3 letra a) de la ley núm. 266/1994 Sb. y el § 7 apartado 2 del decreto núm. 376/2006 Sb. y el art. 42 de la norma interna SŽDC D17, el operador ferroviario ČD Cargo no aseguró la notificación de la aparición de un SU – incumplimiento de la obligación de notificación por parte del maquinista del tren Mn 84261 en la estación de tráfico D3 Skovice y salida no autorizada del tren hacia la estación de tráfico D3 Žleby;
 
-
 ## Página 48
+
 
 • En la estación de radio del vehículo HDV del tren Mn 84261 estaba sintonizado el número de llamada incorrecto 084201, en contradicción con el art. 43 de la norma SŽDC (ČD) Z11:
 ◦art. 43 de la norma SŽDC (ČD) Z11:
@@ -1835,8 +1785,8 @@ La Inspección Ferroviaria, con base en lo dispuesto en el § 53e apartado 1 de 
 ### Al Ministerio de Transporte en colaboración con la Autoridad Ferroviaria:
 • al actualizar el NIP, valorar la posibilidad de equipar líneas con ERTMS en una realización técnica más sencilla y en un nivel económicamente asequible, por ejemplo, también mediante el uso de medios y funcionalidades aún no implantados en la RCR, pero de uso habitual en el extranjero (por ejemplo, elementos ETCS de nivel 1, uso del modo de explotación «Supervisión limitada» [Limited Supervision] y otros);
 
-
 ## Página 49
+
 
 • al actualizar el NIP, proponer un procedimiento concreto y un calendario para el equipamiento de las demás líneas, también fuera del marco establecido por las normas jurídicas de la UE (líneas de la red TEN-T) y por las normas jurídicas de la RCR (líneas con velocidad superior a 100 km/h), es decir, también de líneas con gestión simplificada del transporte ferroviario, y completar en este sentido el NIP. En relación con las mencionadas posibilidades de uso de otras variantes más sencillas de realización de ERTMS/ETCS, la Inspección Ferroviaria no recomienda aplazar la implantación de ERTMS a un periodo posterior a 2030 ni esperar a la determinación de nuevas obligaciones por parte de las normas jurídicas de la UE, condicionar la implantación de ETCS a la implantación previa de GSM-R y en ningún caso recomienda vincular la implantación a la realización de la modernización u optimización total de la línea. En caso de que se realice la modernización u optimización total de la línea (también fuera de TEN-T), la Inspección Ferroviaria recomienda incluir la implantación de ETCS como parte integrante de la misma;
 • dado que en algunas líneas puede que no se implante ERTMS ni a largo plazo, la Inspección Ferroviaria recomienda valorar su exclusión del sistema al que se aplican los requisitos de la directiva de interoperabilidad y las normas jurídicas de la UE relacionadas, respectivamente, permitir la implantación de un dispositivo técnico que, en dichas líneas, permita aumentar el nivel de seguridad de la circulación de los vehículos ferroviarios mediante una solución técnica adecuada al estado actual de la técnica y, al mismo tiempo, económicamente asequible en el nivel de seguridad correspondiente.
@@ -1852,15 +1802,15 @@ Ing. Jan Novák v. r.
 encargado de la dirección del puesto de Praga
 Inspectorado Territorial de Bohemia
 
-
 ## Página 50
+
 
 ## 7 ANEXOS
 Fig. núm. 3: Selección del Gráfico de tráfico ferroviario          
                 Fuente: SŽDC
 
-
 ## Página 51
+
 
 Fig. núm. 4: Debido a la colisión, fue arrancado el colisionador derecho del HDV del tren Os 15912. En el lugar del hallazgo de los tornillos cortados en la vía se determinó el km de la colisión 11,118 
           Fuente: DI

@@ -10,13 +10,14 @@ chars: 32402
 ratio_longitud: 1.25
 tokens_in: 14103
 tokens_out: 9677
-verificacion: revisar
-notas_cifras: ["bloque 1: original bilingüe: se compara contra el idioma principal (EN); cifras cortas: 1/62", "bloque 3: original bilingüe: se compara contra el idioma principal (CS)", "bloque 4: cifras cortas: 3/94"]
-avisos: ["bloque 3: ratio 1.87"]
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 3: original bilingüe: se compara contra el idioma principal (EN)", "página 6: original bilingüe: se compara contra el idioma principal (CS); ratio 1.88", "página 8: original bilingüe: se compara contra el idioma principal (CS); cifras cortas: 3/32", "página 10: original bilingüe: se compara contra el idioma principal (EN)", "página 11: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 República Checa
 Inspección Ferroviaria
@@ -34,8 +35,8 @@ en la estación de Brandys nad Orlici
 26 de diciembre de 2006
 n.º ref.: 2-3133/2006/DI
 
-
 ## Página 2
+
 
 # Índice
 | 1 . | Resumen (Summary) ................................................................................................................... |  |  | 3 |  |
@@ -63,20 +64,24 @@ n.º ref.: 2-3133/2006/DI
 | 7 . | Resumen ............................................................................................................................................. |  |  | 11 |  |
 | 8 . | Anexos ............................................................................................................................................ |  |  | 11 |  |
 
-
 ## Página 3
 
 # Resumen
-El 26 de diciembre de 2006 a las 19:16 horas se produjo en la estación de Brandýs nad Orlicí, en el pk 266,049 de la línea Česká Třebová – 
-Praha-Libeň, la colisión del tren EC 278, operado por la empresa de transporte České dráhy, a. s., con una persona en el paso a nivel de la vía 2a. En el incidente murió 1 persona (en adelante, la «víctima»).
-La causa del incidente fue la infracción del apartado 2 del artículo 72 del Decreto n.º 173/1995 Sb., por parte del gestor de la infraestructura (cita: «En las estaciones sin acceso a los trenes a distinto nivel, debe garantizarse el acceso seguro de los viajeros a los trenes, teniendo en cuenta el movimiento de los vehículos ferroviarios.»), concretamente la entrada del tren EC 278 en el paso a nivel en el momento en que se encontraba en él una viajera que había bajado del tren Os 5029.
+El 26 de diciembre de 2006 a las 19:16 horas se produjo en la estación de Brandýs nad Orlicí, en el punto kilométrico 266,049 de la línea Česká Třebová – Praha-Libeň, una colisión del tren EC 278 del transportista České dráhy, a. s., con una persona en el paso a nivel de la vía 2a. En el suceso se produjo el fallecimiento de 1 persona (denominada en adelante «persona perjudicada»).
+La causa del suceso es la infracción del apartado 2 del artículo 72 del decreto n.º 173/1995 Sb. por parte del gestor de la infraestructura (cita: «En las estaciones sin acceso al tren a distinto nivel, debe garantizarse el acceso seguro de los pasajeros al tren, teniendo en cuenta el movimiento de los vehículos ferroviarios»), concretamente la entrada del tren EC 278 en el paso a nivel en el momento en que en el mismo se encontraba una pasajera que había descendido del tren Os 5029.
 No se emitió ninguna recomendación de seguridad.
 # Summary
-El 26 de diciembre de 2006 a las 19:16, el tren rápido n.º EC278, operado por la empresa de transporte Ceske drahy (Czech Railways), atropelló a un peatón en la estación de Brandys nad Orlici (en el pk 266,049 de la línea Ceska Trebova – Praha Liben). La persona fue atropellada y murió en un paso para peatones entre la primera y la segunda andena después de haber abandonado otro tren de pasajeros.
-El accidente fue causado por un fallo del sistema del gestor de la infraestructura Ceske drahy (Czech Railways). No lograron garantizar el acceso seguro de los pasajeros a los trenes y desde ellos en esa estación, a pesar de que la ley lo exigía.
-No se emitió ninguna recomendación de seguridad.
+26th December 2006 at 19:16 fast train No. EC278, run by Ceske drahy (Czech Railways) train operator, 
+hit a pedestrian at Brandys nad Orlici station (in km 266,049 of Ceska Trebova – Praha Liben line). The 
+person was hit and killed at a pedestrian crossing between 1st and 2nd platform after she had left another 
+passenger train.
+The accident was caused by a system fault of infrastructure manager Ceske drahy (Czech Railways). 
+They didn't manage safe passenger access to and from trains in that station, despite it was required by 
+the law.
+Safety recommendation isn't issued.
 
 ## Página 4
+
 
 # Datos relativos al incidente
 ## 2.1
@@ -114,8 +119,8 @@ Tren Os 5029: vehículo ferroviario motor 163087-0 y 3 coches de viajeros, longi
 La estación de tren de Brandýs nad Orlicí es una estación intermedia en la vía doble Česká Třebová – Praha-
 Libeň. La vía está electrificada con un sistema de tracción de corriente continua de 3 kV. La estación está equipada con un dispositivo de seguridad de la 3.ª categoría (dispositivo de seguridad de relés de sistema de ruta) con señales luminosas AŽD 70. La vía n.º 1a es la continuación de la vía principal de la estación; es la vía de entrada, salida y paso para todos los trenes. La vía n.º 2a es la continuación de la vía principal de la estación; es la vía de entrada, salida y paso para todos los trenes. Entre las vías de estación 1a y 2a hay un andén bilateral en el pk 266,004 hasta el pk 266,163 (longitud 159 m). En este andén paran los trenes de sentido impar. Los trenes de sentido par paran en el andén unilateral a nivel de 260 m de longitud, adyacente al lado exterior de la vía 2a. Para el acceso de las personas al andén I junto a la vía 1a se han construido tres pasos a nivel con traviesas a través de la vía 2a desde el andén de la vía de estación 2a.
 
-
 ## Página 5
+
 
 ### 2.2.4 Medios de comunicación utilizados
 Para garantizar el funcionamiento se utilizan:
@@ -153,50 +158,52 @@ toda la superficie, incluidas sus bordes inclinados.
 
 ## Página 6
 
-# Acta de las explicaciones presentadas
+# Registro de explicaciones aportadas
 ## 3.1
-## Resumen de las explicaciones presentadas y de la investigación técnica de las causas del incidente
-### 3.1.1 Personal del titular de la infraestructura y del transportista, incluidas las personas en relación contractual
-El maquinista del tren EC 278 declaró, entre otras cosas:
+## Resumen de las explicaciones aportadas y del peritaje sobre las causas de la 
+ocurrencia de la excepcionalidad
+### 3.1.1 Empleados del gestor de la vía y del transportista, incluidas personas en relación contractual
+El maquinista del tren EC 278 indicó, entre otras cosas:
 •
-A una distancia de 50 m vio en el perfil de paso de la vía 2 de la vía rápida a una persona parada. Tras aplicar el freno de emergencia, se detuvo a 300 m del punto de la colisión. Inmediatamente después de detenerse, informó al despachador de la estación de tren (ŽST) de Brandýs nad Orlicí.
-El despachador declaró, entre otras cosas:
+A una distancia de 50 m vio una persona de pie en el perfil de paso de la 2.ª vía de tráfico. Tras aplicar el freno de acción rápida, se detuvo a 300 m del lugar del choque. Una vez detenido, informó inmediatamente al jefe de estación de la estación de Brandýs nad Orlicí.
+El jefe de estación indicó, entre otras cosas:
 •
-El tren Os 5029 se detuvo en la vía 1 de la estación, en el área de la andén. El despachador procedió entonces a realizar la comunicación mediante la radio de la estación y esperó la salida del tren. Tras su salida, salió fuera de la oficina de tráfico para comprobar la libertad de la andén y de la vía 2 de la estación, teniendo en cuenta la bajada y subida de los pasajeros del tren Os 5029. La zona de la andén y la vía 2 de la estación estaban libres. En ese momento, varios pasajeros de este tren pasaban por allí. Tras comprobar la libertad, regresó a la oficina de tráfico y preparó la ruta del tren para el tren EC 278. En ese momento, el tren entraba en el primer tramo de aproximación procedente de Ústí nad Orlicí.
-A la pregunta: «¿Vio claramente toda la andén entre la vía 1 y la vía 2 de la estación, y la vía 2 de la estación a lo largo de esta andén?», respondió: «Sí, no había nadie allí, esa zona estaba libre».
-El despachador de servicios exteriores declaró, entre otras cosas:
+El tren Os 5029 se detuvo en la 1.ª vía de estación en el ámbito del andén. A continuación, el jefe de estación realizó un anuncio por el altavoz de la estación y esperó la salida del tren. Tras su salida, salió del despacho de tráfico para comprobar la disponibilidad del andén y de la 2.ª vía de estación, en relación con el desembarque y el embarque de pasajeros del tren Os 5029. El ámbito del andén y de la 2.ª vía de estación estaba libre. En ese momento, pasaban a su alrededor varios pasajeros de dicho tren. Tras comprobar la disponibilidad, regresó al despacho de tráfico y estableció la vía de tren para el tren EC 278. Este, en ese momento, estaba entrando en el 1.º tramo de aproximación procedente de Ústí nad Orlicí.
+A la pregunta: «¿Vio claramente todo el andén entre la 1.ª y la 2.ª vía de estación y la 2.ª vía de estación a lo largo de dicho andén?», respondió: «Sí, no había nadie, ese ámbito estaba libre».
+El jefe de estación de servicio exterior indicó, entre otras cosas:
 •
-A las 19:13, el tren Os 5029 procedente de Chocně se detuvo. Este tren lo esperaba en la mitad de la andén junto a la vía 2 de la estación. Tras la bajada y subida de los pasajeros, recibió el consentimiento para la salida y posteriormente despachó el tren. Esperó a que los pasajeros abandonaran el andén entre las vías 1 y 2 y, tras la salida del tren, regresó con los últimos pasajeros a la oficina de tráfico. Al hacerlo, procuró que el andén entre las vías 1 y 2 y el acceso al mismo quedaran despejados por los pasajeros, ya que sabía que procedente de Ústí nad Orlicí se acercaba el tren EC 278.
-A la pregunta: «¿En qué lugar esperaba la llegada del EC 278 y desde allí se podía ver el último paso de cruce por la segunda vía, es decir, el más alejado?», respondió: «Estaba a un metro de la puerta de la oficina de tráfico y se podía ver ese paso de cruce. Cuando miré, estaba seguro de que no había nadie allí. Seguí sin mirar allí, no es el lugar al que debería mirar».
-El maquinista del tren Os 5029 declaró, entre otras cosas:
+A las 19:13 se detuvo el tren Os 5029 procedente de Chocen. Este tren lo esperaba en la mitad del andén junto a la 2.ª vía de estación. Tras el desembarque y el embarque de pasajeros, recibió la autorización de salida y a continuación despachó el tren. Esperó a que los pasajeros abandonaran el andén entre la 1.ª y la 2.ª vía y, tras la salida del tren, regresó al despacho de tráfico junto con los últimos pasajeros. Al hacerlo, se aseguró de que el andén entre la 1.ª y la 2.ª vía y el acceso al mismo quedaran despejados de pasajeros, porque sabía que desde Ústí nad Orlicí se aproximaba el tren EC 278.
+A la pregunta: «¿En qué punto esperaba la llegada del EC 278 y se veía desde allí el último paso a nivel sobre la segunda vía, es decir, el más alejado?», respondió: «Estaba de pie a un metro de la puerta del despacho de tráfico y desde allí se veía dicho paso a nivel. Cuando miré, definitivamente no había nadie. No dejaba de mirar hacia allí, no es un lugar al que deba mirar».
+El maquinista del tren Os 5029 indicó, entre otras cosas:
 •
-El despacho del tren Os 5029 en la estación de tren (ŽST) de Brandýs nad Orlicí se realizó de forma estándar. El despachador estaba en el extremo del conjunto de vehículos.
-El jefe de la tripulación del tren Os 5029 declaró, entre otras cosas:
+El despacho del tren Os 5029 en la estación de Brandýs nad Orlicí se realizó de forma estándar. El jefe de estación se encontraba en el extremo de la composición.
+El jefe de cuadrilla del tren Os 5029 indicó, entre otras cosas:
 •
-Antes del despacho del tren 5029 en la estación de tren (ŽST) de Brandýs nad Orlicí, ya no quedaba nadie en la andén junto a la vía 1. Todos los pasajeros se trasladaron a la andén junto a la vía 2. Bajaron del tren aproximadamente entre 10 y 15 pasajeros.
+Antes del despacho del tren 5029 en la estación de Brandýs nad Orlicí, ya no quedaba nadie en el andén junto a la 1.ª vía. Todos los pasajeros habían cruzado al andén junto a la 2.ª vía. Del tren descendieron unos 10 a 15 pasajeros.
 ### 3.1.2 Otras personas
-Un testigo, empleado de České dráhy, a. s. (despachador que regresaba a casa tras su turno), declaró, entre otras cosas:
+Un testigo, empleado de České dráhy, a. s. (jefe de estación que se dirigía a casa tras el servicio), indicó, entre otras cosas:
 •
-A la pregunta: «¿Vio, al bajar del tren o más tarde, a una mujer con una niña de doce años?», respondió: «No, no la vi. En cualquier caso, no bajó del primer vagón».
-La Policía de la República Checa proporcionó a la Inspección Ferroviaria los hechos constatados sobre la persona lesionada:
+A la pregunta: «¿Vio al descender del tren, o más tarde, a una mujer con una niña de doce años?», respondió: «No, no la vi. En cualquier caso, no descendió del 1.º vagón».
+La Policía de la República Checa facilitó a la Inspección Ferroviaria los hechos constatados sobre la persona perjudicada:
 •
-La persona lesionada llegó con su hija menor de edad en el tren Os 5029. Viajaba regularmente a Brandýs nad Orlicí. En el paso de cruce donde se produjo la colisión, la persona lesionada resbaló, cayó y se puso en pie. En el lugar del incidente se encontraron repartidas las bolsas que llevaba la persona lesionada.
+La persona perjudicada viajó con su hija menor en el tren Os 5029. Solía desplazarse habitualmente a Brandýs nad Orlicí. En el paso a nivel donde se produjo el choque, la persona perjudicada resbaló, cayó y se levantaba. En el lugar de la excepcionalidad se encontraron bolsas desparramadas que la persona perjudicada portaba.
 ## 3.2
 ## Sistema de garantía de la seguridad
-### 3.2.1 Marco organizativo y forma en que se emiten y ejecutan las instrucciones
-Oficina de tráfico de la estación de tren (ŽST) de Brandýs nad Orlicí – dotación del turno: despachador y despachador de servicios exteriores.
+### 3.2.1 Organización marco y forma en que se emiten y ejecutan las instrucciones
+Despacho de tráfico de la estación de Brandýs nad Orlicí – dotación en el turno: jefe de estación y jefe de estación de servicio exterior.
 •
-Despachador: Es el responsable del turno y está por encima de todos los empleados del servicio de tráfico de la estación.
+Jefe de estación: Es el jefe de turno y tiene autoridad sobre todos los empleados del servicio de tráfico en la estación.
 •
-Organiza el trabajo de los empleados subordinados para garantizar la seguridad del tráfico. Responde de la información oportuna de los trenes. Maneja el equipo de señalización de relés y asegura las circulaciones de los trenes.
-Despachador de servicios exteriores: Despacha los trenes por orden del despachador. Controla todos los trenes en la entrada,
+Organiza el trabajo de los empleados subordinados de modo que se garantice la seguridad de la explotación. Es responsable de la información oportuna de los trenes. Opera el aparato de enclavamiento de relés y garantiza las circulaciones de los trenes.
+Jefe de estación de servicio exterior: Despacha los trenes por orden del jefe de estación. Vigila todos los trenes en la
 •
-paso y salida. El lugar designado para esperar y controlar los trenes está delante del edificio de la estación o en la andén junto a la vía 2 de la estación. Es responsable de la correcta iluminación de todas las zonas para los pasajeros.
-Mediante una prueba de verificación se constató que, desde el lugar situado delante del edificio de la estación, debido a las condiciones locales,
+entrada, el paso y la salida. El punto designado para la espera y la vigilancia de los trenes se encuentra delante del edificio de despacho o en el andén junto a la 2.ª vía de estación. Es responsable de la iluminación adecuada de todos los espacios para pasajeros.
+Mediante una prueba de verificación se constató que, desde el punto situado delante del edificio de despacho, no es
 •
-especialmente a la disposición espacial y al tipo de iluminación, no se ve de noche si en
+posible, en función de las condiciones locales, especialmente la disposición espacial y el modo de iluminación, ver de noche si en
 
 ## Página 7
+
 
 en el paso de nivel objeto de investigación y en sus inmediaciones, si se encuentra o no una persona.
 3.2.2 Requisitos aplicables al personal del administrador de la infraestructura y del transportista, y su cumplimiento
@@ -251,8 +258,8 @@ En el vehículo ferroviario motorizado 163087-0 del tren Os 5029 estaba en funci
 •
 que registraba los datos del velocímetro, el funcionamiento del dispositivo LVZ y de otros dispositivos del vehículo.
 
-
 ## Página 8
+
 
 ## 3.5
 ## Documentación sobre el sistema de explotación
@@ -287,6 +294,7 @@ No influyó en la producción del incidente.
 No se había producido anteriormente ningún incidente de carácter similar en la estación ferroviaria de Brandýs nad Orlicí.
 
 ## Página 9
+
 
 # Análisis y conclusiones
 ## 4.1
@@ -350,22 +358,21 @@ La iluminación insuficiente del andén II y del paso a nivel en el pk 266,049 e
 •
 (el paso a nivel sobre raíles se encuentra en sombra entre dos conos de luz y la intensidad de la iluminación no permite, en la oscuridad, determinar con responsabilidad desde la oficina de tráfico si hay personas en el andén al nivel del paso a nivel o no).
 
-
 ## Página 10
 
 ### 4.3.2 Causas fundamentales relacionadas con la cualificación, los procedimientos y el mantenimiento
-No las hay.
-4.3.3 Causas provocadas por el marco normativo y por la aplicación del sistema de garantía de 
+No existen.
+4.3.3 Causas debidas al marco normativo y al uso del sistema de garantía de la 
 seguridad:
-No las hay.
+No existen.
 ## 4.4
 ## Hallazgos complementarios
-4.4.1 Deficiencias y omisiones constatadas durante la investigación de las causas y las circunstancias de la producción del incidente, 
+4.4.1 Deficiencias y omisiones detectadas durante la investigación de las causas y circunstancias del suceso ferroviario, 
 que sin embargo no son relevantes para las conclusiones sobre las causas
-No las hay.
-
+No existen.
 
 ## Página 11
+
 
 # Medidas adoptadas
 ### 5.1     Lista de medidas que ya se han adoptado o tomado como consecuencia del incidente

@@ -10,13 +10,14 @@ chars: 34859
 ratio_longitud: 0.99
 tokens_in: 22616
 tokens_out: 12948
-verificacion: revisar
-notas_cifras: ["bloque 1: cifras cortas: 2/181", "bloque 2: cifras largas: 4/41; cifras cortas: 15/138", "bloque 3: cifras cortas: 6/111"]
-avisos: ["bloque 2: marcadores de página: 10 vs 9"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 6: original bilingüe: se compara contra el idioma principal (DE)", "página 8: cifras cortas: 2/16", "página 22: cifras cortas: 3/7", "página 23: cifras cortas: 3/13"]
 ---
+
 ## Página 1
+
 
 Informe intermedio
 Referencia:
@@ -33,16 +34,16 @@ Suceso peligroso en la explotación ferroviaria
 | Número de línea: | 5702 |
 | Punto kilométrico: | 441 , |
 
-
 ## Página 2
+
 
 Publicado por:
 Oficina Federal de Investigación de Accidentes Ferroviarios
 Heinemannstraße 6
 53175 Bonn
 
-
 ## Página 3
+
 
 ## Índice
 ## I.
@@ -81,8 +82,8 @@ Dispositivos de detección durante la marcha del tren...........................
 Estado de avance de las investigaciones...................................................................... 22
 I
 
-
 ## Página 4
+
 
 ## I.
 ## Índice de modificaciones:
@@ -90,8 +91,8 @@ I
 | Versión 2.0 debido a nuevos hallazgos. | 29 07 2026 . . |
 II
 
-
 ## Página 5
+
 
 ## II.
 ## Índice de figuras:
@@ -119,8 +120,8 @@ Tabla 1: Datos técnicos del portacontenedores 31 85 4552 414‐8...............
 Tabla 2: Medición del juego de ruedas................................................................................................. 6
 III
 
-
 ## Página 6
+
 
 ## IV.
 ## Índice de abreviaturas:
@@ -159,15 +160,15 @@ ZfP
 Zerstörungsfreie Prüfung
 IV
 
-
 ## Página 7
+
 
 ## 1 Observaciones previas
 La elaboración del informe intermedio se realiza con base en el § 5 Abs. 5 de la Ordenanza sobre investigación de accidentes ferroviarios (EUV). Conforme a esta, para todas las investigaciones formalmente iniciadas y en curso por un organismo de investigación, al menos en cada aniversario del suceso peligroso, debe publicarse un informe intermedio. Los informes contienen información sobre el estado de la investigación y sobre posibles problemas de seguridad identificados durante la misma. Esta información se basa en el estado actual de la investigación, puede verse modificada en cualquier momento y no pretende ser exhaustiva. El objetivo y la finalidad de las investigaciones es aclarar las causas de los sucesos peligrosos y extraer de ello indicaciones para mejorar la seguridad. Las investigaciones de la Oficina Federal de Investigación de Accidentes Ferroviarios (BEU) no sirven para determinar responsabilidades ni para aclarar cuestiones de responsabilidad civil u otros derechos civiles, y se realizan con independencia de cualquier investigación judicial.
 El accidente objeto de este informe podría ser un suceso dentro de una serie de accidentes en el sistema ferroviario europeo. Esta serie afecta a roturas de discos de rueda en vagones de mercancías y es objeto de amplias consultas de expertos desde hace varios años. La BEU ha decidido, por tanto, publicar de forma periódica, en forma de informes intermedios, los nuevos hallazgos que se obtengan en el curso de la investigación.
 
-
 ## Página 8
+
 
 ## 2 Descarrilamiento el 31.12.2025 entre el Bf Rosenheim –
 ## Hp Pfraundorf (Inn)
@@ -177,8 +178,8 @@ El 31.12.2025 sobre las 13:42 h, el tren de mercancías DGS 43119, en su trayect
 Figura 1: Plano de situación del lugar del suceso¹
 ¹ Fuente: Datos geobásicos: © GeoBasis‐DE / BKG [2026], editado por BEU
 
-
 ## Página 9
+
 
 Entre los participantes en el suceso se encontraban, entre otros:
  la empresa de infraestructura ferroviaria (EIU) (DB InfraGO AG),
@@ -193,8 +194,8 @@ Entre los participantes en el suceso se encontraban, entre otros:
 ### 2.2 Consecuencias
 Como consecuencia del descarrilamiento se produjeron daños considerables en la infraestructura y en el portacontenedores afectado, incluida la carga. La carcasa del contenedor de gasoil resultó dañada por piezas voladoras. No hubo derrame de carga. No hubo personas heridas ni fallecidas.
 
-
 ## Página 10
+
 
 ### 2.3 Estado de la investigación
 La investigación se encuentra en la fase de proceso 3 ‐Establecimiento de los hechos‐. Información adicional sobre las fases del proceso de investigación puede consultarse en Internet en www.beu.bund.de.
@@ -208,6 +209,7 @@ El vehículo descarrilado era un portacontenedores de la clase Sgnss con el núm
 La tabla siguiente ilustra los datos técnicos de este vehículo.
 
 ## Página 11
+
 
 Datos técnicos Vagón 1
 Número de vehículo
@@ -257,8 +259,8 @@ Tabla 1: Datos técnicos del vagón portacontenedores 31 85 4552 414‐8
 El vagón disponía de un freno de estacionamiento que actuaba sobre el bogie no descarrilado.
 El diseño y la funcionalidad del sistema de frenado son actualmente objeto de la investigación en curso.
 
-
 ## Página 12
+
 
 La siguiente figura 2 muestra una vista esquemática superior del vagón portacontenedores afectado con las denominaciones utilizadas en lo sucesivo para los distintos ejes o ruedas.
 Figura 2: Representación esquemática del vagón portacontenedores 2
@@ -295,8 +297,8 @@ Eje 4
 Tabla 2: Medición de ejes
 2 Mercitalia Intermodal SpA, procesado por BEU
 
-
 ## Página 13
+
 
 Cabe constatar que los ejes presentaban ya un elevado grado de desgaste, pero se encontraban dentro de las cotas límite de explotación. Debido a las imprecisiones descritas del método de medición, en los ejes 1 y 2 no es posible una comparación entre la rueda derecha y la izquierda.
 ### 2.4.2 Examen metalúrgico
@@ -310,38 +312,44 @@ Las siguientes figuras 3 y 4 muestran los ejes en estado de entrega en la DB Sys
 Figura 3: Estado de entrega de los ejes 3
 3 Fuente: DB Systemtechnik GmbH
 
-
 ## Página 14
 
-Figura 4: Estado de entrega del eje 2 4
-Todos los ejes eran del tipo LL 306, fabricados con una rueda de acero de calidad ER7. Las ruedas estaban, en el estado instalado en el vagón de mercancías afectado de la clase Sgnss, todas frenadas por superficie de rodadura con suelas de zapata de freno de material compuesto K – J816M (Jurid) y clasificadas como termoestables. La historia de los ejes se describe con mayor detalle en el capítulo 2.4.4. La siguiente figura 5 muestra una representación esquemática de un eje motor del tipo LL 306.
-Figura 5: Eje motor tipo LL 306 5
+Figura 4: Estado de entrega del eje 24
+Todos los ejes eran del tipo LL 306, fabricados con un material de rueda con calidad de acero ER7. Las ruedas, en el estado instalado en el vagón de mercancías afectado de la clase Sgnss, estaban todas frenadas por fricción en la pista de rodadura con zapatas de freno compuesto K – J816M (Jurid) y clasificadas como termoestables. La historia de los ejes se describe con mayor detalle en el capítulo 2.4.4. La siguiente figura 5 muestra una representación esquemática de un eje rodante del tipo LL 306.
+Figura 5: Eje rodante tipo LL 3065
 4 Fuente: DB Systemtechnik GmbH, procesado por BEU
 5 Fuente: Mercitalia Intermodal SpA, procesado por BEU
 
-
 ## Página 15
+
 
 Tras la entrega de los ejes se realizó un examen visual de los mismos. Cabe señalar que las ruedas de los ejes 1 y 2 presentaban daños adicionales en la superficie derivados del vuelo de fragmentos tras el descarrilamiento, que debían clasificarse como consecuencia del suceso. En la comprobación visual se examinó, entre otros, el sistema de pintura termosensible de las caras exteriores de las ruedas. Termosensible significa, según las directrices pertinentes, la utilización de una pintura que a una temperatura de unos 300 °C se descascarilla de forma claramente visible y extensa. Este descascarillado de la pintura era inicialmente visible en todos los ejes examinados en el borde de tracción. En las siguientes figuras 6 y 7, la parte del aro de la rueda denominada borde de tracción está señalada con una flecha amarilla doble.
 Figura 6: Borde de tracción en la sección transversal 6
 Sin embargo, el descascarillado de la pintura observado no constituía, según la norma DIN EN 15313:2024, aún un indicio de sobrecarga térmica. Para ello era demasiado leve y, en el estado instalado, no era visible o solo era muy difícil de apreciar. En la siguiente figura 7 se muestra, a modo de ejemplo, el descascarillado de la pintura visible en el borde de tracción de un fragmento de fractura de la rueda 2R tras el suceso, en condiciones óptimas de iluminación.
 6 Fuente: DB Systemtechnik GmbH, procesado por BEU
 
+## Página 16
+
+Figura 7: Desgaste de la pintura, fragmento de la rueda 2R
+Una investigación complementaria realizada posteriormente sobre la pintura de recubrimiento determinó que el sistema de pintura utilizado cumplía las prescripciones normativas y poseía la termosensibilidad requerida.
+También se examinó el estado de las superficies de rodadura de las ruedas. En condiciones de iluminación ideales, en todas las superficies de rodadura eran visibles manchas de sobrecalentamiento (hotspots), que sin embargo solo se hicieron plenamente visibles tras realizar un grabado de Adler sobre un fragmento de la rueda 2R. Al igual que el desgaste de la pintura, las manchas de sobrecalentamiento no eran apreciables, o solo con mucha dificultad, en el estado montado.
+El desgaste residual de la rueda 2R, que tras el suceso, debido a la rotura de la rueda, ya no podía determinarse mediante medición exterior, se calculó de forma complementaria a la tabla 2 mediante un corte transversal. Se determinó así un desgaste residual de 3,6 mm referido al radio, o de 7,2 mm referido al diámetro, sin tener en cuenta un posible hueco de rodadura. Derivado de la especificación técnica del fabricante de un diámetro de rodadura mínimo de 840 mm con una tolerancia de +2 mm, esto daba un diámetro de rodadura posible para la rueda 2R de 847,2 mm a 849,2 mm. Las mediciones realizadas son apreciables en la siguiente figura 8.
 
 ## Página 17
+
 
 Figura 8: Determinación de la reserva de desgaste de la rueda 2R 7
 Para la reconstrucción del proceso de fallo del disco de rueda, los fragmentos de fractura encontrados fueron documentados fotográficamente y las superficies de fractura examinadas ópticamente. Las denominaciones asignadas a cada fragmento con las letras mayúsculas A a H se mantuvieron en lo sucesivo para facilitar su identificación. La siguiente figura 9 representa el proceso de fallo del disco de rueda reconstruido a partir de todos los fragmentos.
 7 Fuente: DB Systemtechnik GmbH
 
-
 ## Página 18
+
 
 Figura 9: Proceso de fallo del disco de rueda
 El fragmento A fue identificado como la parte de la rueda que se desprendió en primer lugar. A continuación, en rápida sucesión, los demás fragmentos, según el sentido de rotación, en orden alfabético. A unos 90 mm de la cara interior del cubo de la rueda, en la zona de un punto de sobrecalentamiento, entre los fragmentos A y B, se produjo la formación de una grieta inicial en la superficie de rodadura. Esta grieta inicial creció, debido a las fuerzas que se producen en servicio, en dirección radial hasta una profundidad de unos 60 mm y, a continuación, se ramificó en dirección circunferencial. No es posible reconstruir de forma inequívoca cuánto tiempo tardó el primer crecimiento de la grieta en la zona de la fractura por fatiga inicial representada en la figura 9 mediante flechas azules. La siguiente figura 10 ilustra las superficies de fractura entre los fragmentos A y B. A la izquierda se representa la superficie de fractura del
 
-
 ## Página 19
+
 
 fragmento A y a la derecha la superficie de fractura del fragmento B. En el punto de la flecha amarilla se produjo la grieta inicial.
 Figura 10: Superficies de fractura entre el fragmento A y el B 8
@@ -349,8 +357,8 @@ Del examen metalúrgico se desprende que, tras la formación de la grieta, se pr
 Para investigar más a fondo la formación de grietas, se realizó una prueba con polvo magnético en la superficie de rodadura de todos los fragmentos de la rueda 2R, así como de todas las demás ruedas de este vagón. En el momento de la redacción del informe se disponía de los resultados para la rueda 2R. En la zona de los puntos de sobrecalentamiento del fragmento A se identificaron bajo luz UV numerosas indicaciones transversales. Seis de ellas tenían una longitud superior a 50 mm. En los restantes fragmentos B a G se observaron indicaciones transversales aisladas, pero principalmente indicaciones de orientación irregular.
 8 Fuente: DB Systemtechnik GmbH, procesado por BEU
 
-
 ## Página 20
+
 
 Las siguientes figuras 11 y 12 ilustran las indicaciones descritas.
 Figura 11: Fragmento A con indicaciones transversales y puntos de sobrecalentamiento 9
@@ -360,17 +368,20 @@ Según la norma DIN EN 15313 «Mantenimiento de ejes», capítulo 6.2.3.1 Tabla 
 
 ## Página 21
 
+
 son las tensiones residuales localmente predominantes en el material. Las tensiones residuales pueden verificarse mediante una medición ultrasónica de tensiones residuales en el marco del mantenimiento de un juego de ruedas. Mediante este método de ensayo, las tensiones residuales de origen tecnológico solo pueden determinarse con seguridad a partir de una profundidad de 10 mm o más. Las tensiones residuales locales en las manchas de sobrecalentamiento presentes solo superficialmente no pueden ser detectadas por este método de ensayo.
 
 Para verificar la profundidad de las transformaciones de estructura producidas en el área de las manchas de sobrecalentamiento o indicaciones transversales, la DB Systemtechnik GmbH realizó tanto un examen macroscópico como microscópico en puntos seleccionados de la rueda 2R. El examen macroscópico reveló una aportación de calor localmente limitada en el área de la banda de rodadura. Los cortes transversales y longitudinales representados a continuación muestran claramente esta circunstancia. Solo en el área superior del borde se observan cambios de estructura en la zona afectada por el calor.
 
 ## Página 22
 
+
 Figura 13: Corte transversal rueda 2R macroestructura¹⁰
 Figura 14: Corte longitudinal rueda 2R macroestructura¹⁰
 ¹⁰ Fuente: DB Systemtechnik GmbH, editado por BEU
 
 ## Página 23
+
 
 Para el examen de la zona afectada por el calor, se prepararon cortes longitudinales micrográficos y se evaluaron microscópicamente. La siguiente Figura 15 muestra a modo de ejemplo el corte longitudinal micrográfico del fragmento A con una grieta en la banda de rodadura. En la parte superior, tras el ataque con nítil, se observa claramente una microestructura transformada hasta una profundidad de aproximadamente 1 mm.
 Figura 15: Corte longitudinal micrográfico en el fragmento A con grieta¹¹
@@ -383,9 +394,11 @@ En este corte longitudinal micrográfico se registró un perfil de dureza a baja
 
 ## Página 24
 
+
 En resumen, puede afirmarse que en el área de las manchas de sobrecalentamiento debió producirse un calentamiento de la superficie del acero por encima de la temperatura de austenización de 723 °C con un enfriamiento posterior suficientemente rápido. Sin embargo, la transformación de estructura en martensita se produjo exclusivamente en el área de la superficie de las manchas de sobrecalentamiento hasta una profundidad de ca. 1 – 2 mm. En el momento de la elaboración del informe no existían indicios de que una avería de freno, como por ejemplo un freno agarrotado, pudiera haber causado esta aportación de calor. En el bogie del accidente con los juegos de ruedas 1 y 2 no había freno de mano, este actuaba exclusivamente sobre el otro bogie, por lo que también pudo descartarse una freno de estacionamiento no completamente liberado. Los tacos de freno desbordados también pueden ser descartados por parte de la DB Systemtechnik GmbH como posible causa. Según el estado actual de la investigación, es probable que condiciones operativas debidas al contacto rueda-carril y procesos de frenado de alta intensidad hayan conducido a las transformaciones de estructura constatadas.
 
 ## Página 25
+
 
 ### 2.4.3 Mantenimiento del vagón portacontenedores 31 85 4552 414-8
 
@@ -400,6 +413,7 @@ El juego de ruedas con la rueda 2R rota y el número de juego de ruedas C3060012
 
 ## Página 26
 
+
 una investigación adicional de rodamientos de juego de ruedas así como una ZfP ampliada conforme al nivel de mantenimiento IS 2 según la VPI-EMG. En el año 2024 se realizó un mantenimiento adicional conforme al nivel de mantenimiento IS 1 según la VPI-EMG. Este incluía además una investigación de rodamientos de juego de ruedas (IL). El mantenimiento de los juegos de ruedas se realizó según necesidad en estado desmontado, independientemente de las demás medidas de mantenimiento realizadas en el vagón. De ello se derivaron para el juego de ruedas C306001270 diferentes tiempos de almacenamiento entre el mantenimiento realizado y la reinstalación. El juego de ruedas había estado en servicio, desde su producción, en un total de cuatro vagones diferentes.
 
 La VPI-EMG aplicada por la ECM para el mantenimiento de juegos de ruedas fijaba para el nivel de mantenimiento IS 2 un plazo de 660.000 km o 8 años. Con una prescripción complementaria, la ECM redujo este límite de kilometraje a 600.000 km, mientras que el plazo de 8 años se mantuvo sin cambios. Otros niveles de mantenimiento se establecieron y ejecutaron según necesidad conforme a la VPI-EMG.
@@ -408,6 +422,7 @@ La siguiente Figura 18 contrasta la prescripción objetivo de un kilometraje má
 Figura 18: Historial de mantenimiento juego de ruedas 2
 
 ## Página 27
+
 
 ### 2.4.5 Inspección de vagones y juegos de ruedas en servicio
 
@@ -422,6 +437,7 @@ Una vez que el tren de vagones alcanzó la estación de clasificación Múnich O
 No se produjo ninguna modificación de la composición del tren de vagones ni ninguna intervención técnica de vagón más amplia. Un control de calidad en la entrega en la estación de clasificación Múnich Ost Rbf estaba previsto de forma aleatoria para este servicio, con el antecedente de que la composición del tren de vagones ya había sido comprobada en la estación Colonia Eifeltor, conforme a las prescripciones de la empresa ferroviaria Lokomotion Gesellschaft für Schienentraktion GmbH. En el tren de vagones afectado no se realizó ningún muestreo.
 
 ## Página 28
+
 
 ### 2.4.6 Dispositivos de detección durante la circulación del tren
 

@@ -33,5 +33,5 @@ Fidelidad = revisión IA del castellano contra el original (0-100).
 
 | Informe | Págs | Caracteres | Verificación |
 |---|---|---|---|
-| [CH 22.03.2017 2017032201_SB_Luzern.md](2017/CH%2022.03.2017%202017032201_SB_Luzern.md) | — | 96192 | revisar |
+| [CH 22.03.2017 2017032201_SB_Luzern.md](2017/CH%2022.03.2017%202017032201_SB_Luzern.md) | — | 96192 | ok |
 | [CH 29.11.2017 2017112902_SB_Basel.md](2017/CH%2029.11.2017%202017112902_SB_Basel.md) | — | 88570 | ok |

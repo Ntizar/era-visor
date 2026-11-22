@@ -10,13 +10,14 @@ chars: 97792
 ratio_longitud: 1.26
 tokens_in: 47711
 tokens_out: 32228
-verificacion: revisar
-notas_cifras: ["bloque 2: original bilingüe: se compara contra el idioma principal (PT)", "bloque 3: cifras cortas: 5/72", "bloque 4: cifras cortas: 2/81", "bloque 5: cifras cortas: 5/134", "bloque 6: original bilingüe: se compara contra el idioma principal (CS)", "bloque 7: cifras largas: 1/32"]
-avisos: ["bloque 6: ratio 1.64"]
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 6: original bilingüe: se compara contra el idioma principal (EN)", "página 7: original bilingüe: se compara contra el idioma principal (PT)", "página 8: original bilingüe: se compara contra el idioma principal (CS)", "página 11: original bilingüe: se compara contra el idioma principal (CS); cifras cortas: 1/30", "página 12: original bilingüe: se compara contra el idioma principal (PT)"]
 ---
+
 ## Página 1
+
 
 Inspección Ferroviaria
 República Checa
@@ -42,11 +43,12 @@ CIF:   75009561
 http://www.dicr.cz
 fax: (+420) 224 805 428
 
-
 ## Página 2
 
 
+
 ## Página 3
+
 
 # RESUMEN
 Grado:
@@ -72,8 +74,8 @@ sin fallecidos
 sin heridos 
 coste total 71 990 CZK,-
 
-
 ## Página 4
+
 
 Causa directa:
 avería del cuadro de mando de freno debido a una carga térmica excesiva y 
@@ -94,13 +96,13 @@ Se recomienda adoptar una medida propia que fuerce la implementación de
 la recomendación anterior.
 Responsable de la traducción al inglés: Ing. Hana Pechačová
 
-
 ## Página 5
+
 
 Este informe final es público y todos los documentos y hechos están respaldados por el expediente de investigación.
 
-
 ## Página 6
+
 
 # Índice
  Resumen .............................................................................................................................3
@@ -145,6 +147,7 @@ relación contractual ..........................................................
 
 ## Página 7
 
+
 3.1.2 Otras personas .........................................................................................................21
 3.2 Sistema de garantía de la seguridad ........................................................................22
 3.2.1 Organización marco y forma en que se emiten y ejecutan las instrucciones .......22
@@ -174,10 +177,10 @@ aplicación ....................................................................
 4.1.1 Descripción definitiva del suceso grave basada en los hechos establecidos en el punto 3 
 ............................................................................................................................31
 4.2 Análisis ......................................................................................................................33
-4.2.1 Evaluación de los hechos establecidos de acuerdo con el punto 3 y formulación de conclusiones sobre la causa 
-
+4.2.1 Evaluación de los hechos establecidos de acuerdo con el punto 3 y formulación de conclusiones sobre la causa
 
 ## Página 8
+
 
 del suceso grave y la actuación de los servicios de emergencia ..........................................33
 4.3 Conclusiones .......................................................................................................................34
@@ -197,10 +200,12 @@ del suceso grave y la actuación de los servicios de emergencia ................
  Foto 6: vista de la coloración de las pastillas de freno.   ...........................................................39
  Foto 7: vista de las pastillas de freno desmontadas. .........................................................39
 
-
 ## Página 9
 
+
+
 ## Página 10
+
 
 ## Lista de siglas y símbolos utilizados
 COP 
@@ -270,8 +275,8 @@ paso a nivel ferroviario
 žst.                                  
 estación ferroviaria
 
-
 ## Página 11
+
 
 ## 1 RESUMEN
 Grupo del suceso: 
@@ -314,30 +319,16 @@ remolcado en servicio, por parte de personas cualificadas del transportista
 durante la revisión y evaluación de la idoneidad técnica del material rodante 
 remolcado en servicio.
 
-
 ## Página 12
 
-Recomendación de seguridad: La Inspección Ferroviaria, como autoridad competente en la materia según lo dispuesto en el apartado 5 del artículo 53b 
-de la Ley n.º 266/1994 Sb., de ferrocarriles, en su redacción vigente, sobre la base de 
-los resultados de la investigación de las causas y circunstancias de la ocurrencia de la excepcional, para 
-reducir la probabilidad de ocurrencia de sucesos excepcionales similares, 
-recomienda al transportista České dráhy, a. s.:
-para aumentar la seguridad de la explotación del transporte ferroviario utilizar 
+Recomendación de seguridad: La Inspección Ferroviaria, como autoridad competente en la materia según lo dispuesto en el apartado 5 del § 53b de la Ley núm. 266/1994 Sb., de ferrocarriles, en su redacción vigente, sobre la base de los resultados de la investigación de las causas y circunstancias del suceso extraordinario, a fin de reducir la probabilidad de que se produzcan sucesos extraordinarios similares, recomienda al transportista České dráhy, a. s.:
+para aumentar la seguridad de la explotación del transporte ferroviario, utilizar
 •
-en el material rodante remolcado frenado con freno de zapatas, 
-ruedas optimizadas en tensión-deformación, que son resistentes a 
-una carga térmica elevada y presentan un bajo nivel de 
-tensiones residuales internas y de deformaciones permanentes. 
-De conformidad con lo dispuesto en el anexo n.º 7 del decreto n.º 376/2006 Sb., 
-sobre el sistema de seguridad de la explotación del ferrocarril y del transporte ferroviario y los procedimientos 
-para la ocurrencia de sucesos excepcionales en los ferrocarriles, en su redacción vigente, la Inspección 
-Ferroviaria recomienda a la Autoridad Ferroviaria la adopción de una medida propia, 
-encaminada a garantizar la realización de la recomendación de seguridad 
-más arriba indicada también en otros transportistas que utilicen 
-en la explotación del transporte ferroviario material rodante remolcado con freno de zapatas. 
-
+en los vehículos ferroviarios de tracción con freno de zapata ruedas optimizadas tensionalmente y deformablemente, que son resistentes a una carga térmica elevada y presentan un bajo nivel de tensiones residuales internas y de deformaciones permanentes.
+De conformidad con lo dispuesto en el anexo núm. 7 de la Orden núm. 376/2006 Sb., sobre el sistema de seguridad de la explotación del ferrocarril y del transporte ferroviario y los procedimientos en caso de sucesos extraordinarios en los ferrocarriles, en su redacción vigente, la Inspección Ferroviaria recomienda a la Autoridad Ferroviaria la adopción de una medida propia encaminada a garantizar la realización de la recomendación de seguridad anteriormente mencionada también en otros transportistas que utilicen en la explotación del transporte ferroviario vehículos de tracción con freno de zapata.
 
 ## Página 13
+
 
 ## 2 DATOS RELATIVOS AL SUCESO EXCEPCIONAL
 ## 2.1
@@ -359,6 +350,7 @@ eje impactó contra el borde del riel rebajado, que forma el canal del ŽP en el
 provocó un nuevo cambio de anchura de vía del tercer eje, de modo que la pista de rodadura de la rueda izquierda no dañada
 
 ## Página 14
+
 
 dejó la cresta de la cabeza del carril izquierdo a la derecha. La rueda derecha liberada del tercer eje no abandonó la cresta de la cabeza del carril derecho. Debido a la dinámica del suceso del accidente, en el momento del impacto se produjo simultáneamente el descarrilamiento del cuarto eje. Este descendió con la rueda izquierda hacia la derecha del carril izquierdo y con la rueda derecha saltó hacia la derecha, fuera del carril derecho. Con el TDV descarrilado de esta manera, el tren R 900 continuó su marcha. El descarrilamiento del TDV fue notado por un pasajero sentado en este coche, quien reaccionó a la situación creada utilizando el freno de emergencia, con el resultado de la detención del tren.
 El descarrilamiento del TDV fue comunicado al acompañamiento del tren por un pasajero que utilizó el freno de emergencia.
@@ -389,8 +381,8 @@ persona cualificada del transportista para la realización de la TP DV (en adela
 de material rodante), que el día 05. 12. 2010 realizó la KTP tras el tren R 865 en la
 est. Česká Třebová, empleado de ČD, a. s., DKV Česká Třebová, STP Česká Třebová;
 
-
 ## Página 15
+
 
 jefe de material rodante, que el día 06. 12. 2010 inspeccionó el TDV de serie B, núm.
 ●
@@ -419,14 +411,12 @@ Todos los TDV tenían bogies ferroviarios con ruedas macizas. Los bogies de todo
 
 ## Página 16
 
-Foto 2: vista de la rotura de la rueda maciza tras el descarrilamiento.
-Del examen de los vehículos se constató que el frente del tren R 900 se encontraba en su posición final tras la producción de la MU en el pk 32,807, en la vía de tráfico entre las estaciones de Jeseník y Lipová Lázně.
-La locomotora 754.022-2, el 1.º y el 2.º vehículo tras la locomotora, no presentaban daños ni descarrilaban. A continuación seguía el vehículo de la serie B, n.º 50 54 20 41 408-6, con bogies Görlitz, enganchado como 3.º tras la locomotora, descarrilado por el bogie «a», el trasero en el sentido de la marcha. La rueda derecha en el sentido de marcha del tren del tercer eje se encontraba con la superficie de rodadura sobre la cabeza del carril derecho. Entre la superficie de rodadura y el asiento del buje del eje se constató una ramaificación de grieta, que se ensanchaba desde el asiento del buje hacia la superficie de rodadura. El vehículo tenía el freno automático de vacío continuo desconectado. Las balatas de freno estaban oxidadas, de color rojizo, fuertemente desgastadas y desintegradas en algunos puntos. Debido a las condiciones meteorológicas y a la cobertura de los bogies con nieve, no fue posible determinar de forma inequívoca las huellas visibles de quemadura de pintura en la transición entre el anillo y el disco de las ruedas macizas.
-El vehículo estaba rotulado en el lateral derecho con la etiqueta de vehículo n.º 735 1 5311 «Směrem k opravně možno ložit» («Hacia el taller es posible cargar») con la anomalía en el freno indicada. En la sección «podrobnější údaje o poruchách» («datos más detallados sobre averías») figuraba el texto «zdrže sjeté» («zapatas desgastadas»). En la sección «Do opravny DKV» («Al taller DKV») figuraba el texto «Brno». El vehículo no llevaba otras etiquetas. El 4.º y el 5.º vehículo tras la locomotora, incluida la locomotora de reserva 810.675-9 enganchada al final del tren, no presentaban daños ni descarrilaban.
-El vehículo descarrilado de la serie B, n.º 50 54 20 41 408-6, disponía de un bogie ferroviario con ruedas macizas, tipo 409. Junto con el resto de vehículos del tren R 900, fue incluido por el operador en la rotación de 9 días de vehículos DKV Brno, n.º VO 33003. La producción de la MU se produjo, en relación con dicha rotación, en el 6.º día de turno de la rotación. En el 4.º día de turno, es decir, el 05. 12. 2010, la composición partió con el tren R 865 desde la estación de Praha-Smíchov hasta la estación de Česká Třebová, donde, tras la llegada del tren R 865, el jefe de material realizó la KTP al vehículo. Esta fue simultáneamente la VTP para el tren Sv 29865, con el que la composición partió el 5.º día de turno, es decir, el 06. 12. 2010, desde la estación de Česká Třebová hasta la estación de Svitavy. Desde la estación de Svitavy la composición continuó con el tren R 864 hasta la estación de Praha-Smíchov, a continuación con el tren R 871 desde la estación de Praha-Smíchov hasta la estación de Brno hl. n. y a continuación con el tren R 901 desde la estación de Brno hl. n. hasta la estación de Jeseník. En la estación de Jeseník, en el 6.º día de turno, es decir, el 07. 12. 2010, antes de la salida del tren R 900, se realizó al vehículo la TP, que fue efectuada por el maquinista del tren R 900.
-
+Foto 2: vista de la fractura de la rueda maciza tras el descarrilamiento.
+Mediante la inspección del material rodante se constató que el frente del tren R 900 se encontraba en la posición final tras la producción del accidente en el pk 32,807, en la vía de tráfico entre las estaciones de Jeseník y Lipová Lázně. La locomotora 754.022-2, y el 1.º y 2.º vagón tras la locomotora, no estaban dañados ni descarrilados. A continuación figuraba el vagón de la serie B, n.º 50 54 20 41 408-6, con bogies Görlitz, situado como 3.º tras la locomotora, descarrilado por el bogie «a», trasero en el sentido de marcha. La rueda derecha en el sentido de marcha del tren del eje 3 se encontraba con la superficie de rodadura sobre la cabeza del carril derecho. Entre la superficie de rodadura y el asiento del buje del eje se detectó una ramaificación de grieta, que se ensanchaba desde el asiento del buje hacia la superficie de rodadura. El vagón disponía del freno automático de vacío continuo desconectado. Las zapatas de freno estaban oxidadas, de color rojizo, fuertemente desgastadas y en algunos puntos desintegradas. Debido a las condiciones meteorológicas y a la cubierta de nieve de los bogies, no fue posible determinar de forma inequívoca las marcas visibles de quemadura de pintura en la transición entre el anillo y la placa de las ruedas macizas. El vagón estaba rotulado en el lateral derecho con la etiqueta de vagón n.º 735 1 5311 «Směrem k opravně možno ložit» (Hacia el taller se puede cargar) con la avería del freno indicada. En la sección «podrobnější údaje o poruchách» (datos más detallados de las averías) figuraba el texto «zdrže sjeté» (zapatas desgastadas). En la sección «Do opravny DKV» (Al taller DKV) figuraba el texto «Brno». El vagón no llevaba otras etiquetas. El 4.º y 5.º vagón tras la locomotora, incluida la locomotora de servicio de reserva 810.675-9 situada al final del tren, no estaban dañados ni descarrilados.  
+El vagón descarrilado de la serie B, n.º 50 54 20 41 408-6, disponía de un bogie ferroviario con ruedas macizas, tipo 409. Junto con el resto de vagones del tren R 900, fue incorporado por el transportista al ciclo de 9 días del material rodante del DKV Brno, n.º VO 33003. La producción del accidente tuvo lugar, en relación con dicho ciclo, en el 6.º día de turno del ciclo. El 4.º día de turno, es decir, el 05. 12. 2010, la composición partió con el tren R 865 desde la estación de Praha-Smíchov hasta la estación de Česká Třebová, donde, tras la llegada del tren R 865, el jefe de vagones realizó la KTP (inspección técnica de vagón) en el vagón. Dicha inspección fue a la vez la VTP (inspección técnica previa) para el tren Sv 29865, con el que la composición partió el 5.º día de turno, es decir, el 06. 12. 2010, desde la estación de Česká Třebová hasta la estación de Svitavy. Desde la estación de Svitavy la composición continuó con el tren R 864 hasta la estación de Praha-Smíchov, a continuación con el tren R 871 desde la estación de Praha-Smíchov hasta la estación de Brno hl. n. y, por último, con el tren R 901 desde la estación de Brno hl. n. hasta la estación de Jeseník. En la estación de Jeseník, el 6.º día de turno, es decir, el 07. 12. 2010, antes de la partida del tren R 900, se realizó en el vagón la TP (inspección técnica), que fue efectuada por el maquinista del tren R 900.
 
 ## Página 17
+
 
 ### 2.2.3 Descripción de los componentes de la vía de circulación de la línea, del sistema de señalización (es decir, en particular del estado de las vías, agujas, enclavamientos, señales y del dispositivo de seguridad del tren)
 La circulación de trenes en el tramo de línea entre las estaciones de Jeseník y Lipová Lázně está protegida por un dispositivo de enclavamiento de línea de 2.ª categoría, tipo RPB 71.
@@ -437,6 +427,7 @@ La velocidad máxima de línea en el tramo indicado es v = 50 km·h-1.
 Del examen de la línea se constató en el pk 33,988, es decir, a 942 m del punto «0» en el pk 33,046, la 1.ª huella que acredita la circulación del vehículo de la serie B, n.º 50 54 20 41 408-6, con un bogie que tenía la anchura de vía reducida, sin descarrilamiento. Las huellas continúan hasta el punto «0», donde, en el sentido de marcha del tren, el aro de la rueda izquierda del tercer eje impactó contra el borde del carril rebajado que forma el zanjón del PAF en el pk 33,044 (P4299). A continuación continúa la huella del aro de la rueda izquierda del tercer eje hacia la derecha a lo largo del carril izquierdo hasta el lugar de detención en el pk 32,892, situado a 154 m del punto «0». La rueda derecha agrietada del tercer eje no abandonó la cabeza del carril derecho. La 1.ª huella tras el descarrilamiento del cuarto eje se constató tras el borde de la carretera de paso a nivel del PAF en el pk 33,044 (P4299), cuando la rueda izquierda descendió hacia la derecha de la banda de carril izquierda y la rueda derecha saltó hacia la derecha de la banda de carril derecha. Las huellas de la circulación del eje descarrilado continúan hasta el lugar de detención.
 
 ## Página 18
+
 
 Como consecuencia de la circulación del TDV descarrilado, se dañaron los elementos de fijación de la vía férrea desde el PK 33,044 (P4299) hasta el lugar de detención del TDV descarrilado.
 ### 2.2.4 Uso de los medios de comunicación
@@ -464,8 +455,8 @@ En el lugar de la MU actuaron los equipos HZS del gestor de la vía y la PČR Je
 2.3.1 En pasajeros y terceras personas, empleados del gestor de la vía y del transportista, incluidas personas en relación contractual
 En la MU no hubo ninguna persona herida ni fallecida.
 
-
 ## Página 19
+
 
 ### 2.3.2 En las mercancías transportadas, el equipaje y otros bienes
 No se produjo ningún daño en las mercancías transportadas, el equipaje ni otros bienes.
@@ -502,6 +493,7 @@ durante la circulación del tren R 871, un pasajero advirtió que el 3.º TDV tr
 
 ## Página 20
 
+
 el maquinista, mediante el dispositivo de desconexión del freno automático de aire TDV, desactivó el freno. Posteriormente, el jefe de material (vozmistr) inspeccionó el TDV en la estación de Pardubice hl. n. y, tras la inspección por parte del jefe de material, el tren R 871 continuó su marcha.
 
 El jefe de tren del tren R 871 – del Registro con el empleado, entre otros, se desprende:
@@ -524,8 +516,8 @@ El jefe de material que inspeccionó el TDV de la serie B, n.º 50 54 20 41 408-
 ●
 esperaba el tren a su llegada a la estación de Brno hl. n. El TDV tenía un funcionamiento silencioso, el freno automático de aire estaba desactivado, el TDV tenía zapatas débiles, las ruedas no presentaban influencia térmica. Ambos bogies estaban fuertemente cubiertos de nieve. El TDV fue etiquetado con las etiquetas n.º 735 1 5311 "Hacia el taller se puede cargar" y n.º 735 1 5304 "Freno inutilizable". Como desde la estación de Brno hl. n. el efecto de frenado del tren R 901 que continuaba garantizaba la parada segura del tren dentro de la distancia de frenado, el tren continuó su marcha.
 
-
 ## Página 21
+
 
 El maquinista del tren R 900 – del Registro con el empleado y del Registro de la declaración prestada ante el testigo MU, entre otros, se desprende:
 
@@ -557,30 +549,29 @@ cuando se recibe un TDV de otro DKV, siempre se realiza una inspección por part
 ## Página 22
 
 ## 3.2
-### Sistema de garantía de seguridad
-### 3.2.1 Organización marco y forma en que se emiten y ejecutan las instrucciones
-El gestor de la infraestructura dispone de un sistema de garantía de seguridad implantado. En el sistema de garantía de seguridad implantado relacionado con las circunstancias de producción de esta concreta MU no se detectaron deficiencias.
+### Sistema de garantía de la seguridad
+### 3.2.1 Organización marco y forma en que se emiten y aplican las instrucciones
+El gestor de la vía dispone de un sistema de garantía de la seguridad adoptado. En el sistema de garantía de la seguridad adoptado relacionado con las circunstancias de la aparición de esta concreta MU no se detectaron deficiencias.
 
-El transportista dispone de un sistema de garantía de seguridad implantado:
+El transportista dispone de un sistema de garantía de la seguridad adoptado:
 
-• en el sistema de garantía de seguridad implantado relacionado con la responsabilidad por la calidad de los suministros de material y productos – bogies TDV, tipo 409 – no se detectaron deficiencias;
-• en el sistema de garantía de seguridad implantado relacionado con el procedimiento de identificación de las ruedas de los bogies ferroviarios TDV en servicio afectadas térmicamente, se detectó un procedimiento impreciso e inequívoco de identificación de las ruedas de los bogies ferroviarios TDV en servicio afectadas térmicamente por parte de las personas con competencia profesional del transportista durante la inspección y evaluación de la idoneidad técnica de los TDV en servicio.
+• en el sistema de garantía de la seguridad adoptado relacionado con la responsabilidad por la calidad de los suministros de material y productos – bogie TDV, tipo 409 – no se detectaron deficiencias;
+• en el sistema de garantía de la seguridad adoptado relacionado con el procedimiento de detección de la identificación de las ruedas térmicamente afectadas de los bogies ferroviarios TDV en servicio se detectó un procedimiento impreciso e inequívoco de identificación de las ruedas térmicamente afectadas de los bogies ferroviarios TDV en servicio por parte de las personas cualificadas del transportista en la inspección y evaluación de la idoneidad técnica de los TDV en servicio.
 
-El procedimiento de identificación de las ruedas de los bogies ferroviarios TDV en servicio afectadas térmicamente se basa, en virtud del § 35 apartado 1 letra b) del decreto nº 173/1995 Sb., por el que se aprueba el Reglamento de circulación ferroviaria, en su versión vigente (en adelante, decreto nº 173/1995 Sb.), y en las disposiciones de las VP SŽDC (ČD) D2 «PRESCRIPCIÓN PARA LA ORGANIZACIÓN Y EXPLOTACIÓN DEL TRANSPORTE FERROVIARIO», aprobado el 13. 03. 1997, con el nº de expediente: 55079/97-O11, en su versión vigente (en adelante, VP SŽDC (ČD) D2), artículos 976, 1232 y 1233, contenido por el transportista en las VP ČD V 62 «Prescripción técnica de explotación para el material rodante ferroviario», aprobado el 13. 12. 1999, con el nº de expediente: 60.636/99-12, en su versión vigente (en adelante, VP ČD V 62), donde en la parte 2. «REQUISITOS TÉCNICOS EXIGIDOS EN EXPLOTACIÓN A LOS VEHÍCULOS Y SUS COMPONENTES», artículo 20 letra m), se indica, entre otros:
+El procedimiento de detección de las ruedas térmicamente afectadas de los bogies ferroviarios TDV en servicio se basa, en relación con el § 35 apartado 1 letra b) del decreto nº 173/1995 Sb., por el que se aprueba el reglamento de tráfico ferroviario, en su versión vigente (en adelante, decreto nº 173/1995 Sb.), y en las disposiciones del VP SŽDC (ČD) D2 "PRESCRIPCIÓN PARA LA ORGANIZACIÓN Y EXPLOTACIÓN DEL TRANSPORTE FERROVIARIO", aprobado el 13. 03. 1997, con el nº de expediente: 55079/97-O11, en su versión vigente (en adelante, VP SŽDC (ČD) D2), artículos 976, 1232 y 1233, contenido por el transportista en el VP ČD V 62 "Prescripción técnico-operativa para vagones ferroviarios", aprobado el 13. 12. 1999, con el nº de expediente: 60.636/99-12, en su versión vigente (en adelante, VP ČD V 62), donde en la parte 2 "REQUISITOS TÉCNICOS EXIGIDOS EN SERVICIO A LOS VAGONES Y SUS COMPONENTES", artículo 20 letra m), se indica, entre otros:
 
-«El bogie debe cumplir las siguientes condiciones, sin cuyo cumplimiento el vehículo no podrá ser incluido en un tren: m) la rueda maciza y la llanta de la rueda no deben presentar huellas de acción térmica. La acción térmica se caracteriza por un punto quemado en la coloración de la unión de la llanta con el disco (en la llanta de la rueda) o por suciedad en el disco de la rueda y su desprendimiento por efecto de la carga térmica. También es reconocible por el color de las balatas de freno simultáneamente quemadas. ...».
+"El bogie debe cumplir las siguientes condiciones, sin cuyo cumplimiento el vagón no podrá ser incorporado a un tren: m) la rueda íntegra y el aro de la rueda no deben presentar huellas de intervención térmica. La intervención térmica se manifiesta por un punto tostado en la pintura de la unión del aro con el disco (en el aro de la rueda) o por suciedad en el disco de la rueda y su desprendimiento como consecuencia de la carga térmica. También es reconocible por el color de los pastillas de freno simultáneamente tostadas. ...".
 
-El procedimiento citado de identificación de la rueda afectada térmicamente no proporciona una descripción inequívoca del color del punto quemado en la rueda ni una descripción inequívoca del color de las balatas de freno quemadas, que debe determinar la persona con competencia profesional del transportista durante la inspección y evaluación de la idoneidad técnica de los TDV en servicio, es decir, no establece un procedimiento para garantizar la conformidad del estado de las ruedas ferroviarias con el estado técnico requerido.
+El procedimiento citado de identificación de la rueda térmicamente afectada no proporciona una descripción inequívoca del color del punto tostado en la rueda ni una descripción inequívoca del color de las pastillas de freno tostadas, que debe determinar la persona cualificada del transportista en la inspección y evaluación de la idoneidad técnica de los TDV en servicio, es decir, no establece un procedimiento para garantizar la conformidad del estado de las ruedas ferroviarias con el estado técnico requerido.
 
-La citada constatación constituye el incumplimiento de las disposiciones del § 35 apartado 2 letra f) de la ley nº 266/1994 Sb.
+La presente constatación constituye el incumplimiento de las disposiciones del § 35 apartado 2 letra f) de la ley nº 266/1994 Sb.
+### 3.2.2 Requisitos para los empleados del gestor de la vía y del transportista y su aplicación
+Los requisitos de cualificación profesional de los empleados del transportista ČD, a. s., incluida la forma de su aplicación, están establecidos en el VP del transportista ČD Ok 2 "REGLAMENTO DE FORMACIÓN Y EXAMEN DE LOS FERROCARRILES CHECOS, a. s.", aprobado el 25. 03. 2009, con el nº de expediente: 55713/2009-O10, en su versión vigente.
 
-### 3.2.2 Requisitos para los empleados del gestor de la infraestructura y del transportista y su aplicación
-Los requisitos de competencia profesional de los empleados del transportista ČD, a. s., incluida la forma de su aplicación, están establecidos en las VP del transportista ČD Ok 2 «REGLAMENTO DE FORMACIÓN Y EXAMEN DE LOS FERROCARRILES CHECOS, a. s.», aprobado el 25. 03. 2009, con el nº de expediente: 55713/2009-O10, en su versión vigente.
-
-Los empleados del transportista contaban, en el momento de producción de la MU, con la competencia profesional necesaria para el desempeño de la función que ocupaban.
-
+Los empleados del transportista estaban cualificados profesionalmente para el desempeño de la función que desempeñaban en el momento de la aparición de la MU.
 
 ## Página 23
+
 
 ### 3.2.3 Procedimiento de control interno de seguridad y sus resultados
 La realización de la actividad de control del transportista en las reparaciones de los TDV y tras su reparación antes de su incorporación a la explotación está regulada por las VP del transportista ČD V 62 y por el Reglamento de explotación del DKV. En las condiciones del DKV Brno se trata del «Reglamento de explotación del DKV Brno, Centro de explotación Horní Heršpice», nº de expediente: 40/01-O12/1-Fej. Las controles de entrada, intermedios y de salida tras las reparaciones de los TDV son realizados por los responsables de la OV. La última reparación menor de un TDV de la serie B, nº 50 54 20 41 408-6, antes de la producción de la MU, se realizó el 27. 09. 2010. El control de salida no detectó deficiencias por parte del transportista tras la reparación del TDV en cuestión.
@@ -594,6 +585,7 @@ Además de las TP anteriormente mencionadas, antes de la producción de la MU se
 • por el maquinista del tren R 871 en la línea entre las paradas de Tuklaty y Roztoklaty, cuando, tras una parada extraordinaria del tren, el maquinista constató que el TDV en cuestión estaba frenado por el freno automático neumático continuo. Las ruedas, según la declaración del maquinista, estaban ligeramente calientes y las balatas de freno desgastadas. Mediante la inspección, el maquinista constató que en el TDV no existían deficiencias que pusieran en peligro la seguridad del transporte ferroviario, es decir, no detectó huellas de afectación térmica de las ruedas del TDV. A continuación, el maquinista desconectó el freno del TDV mediante el dispositivo de desconexión del freno automático neumático;
 
 ## Página 24
+
 
 vozmistr de DKV Česká Třebová, STP Česká Třebová, en la est. Pardubice hl. n., en el 
 •
@@ -645,8 +637,8 @@ DKV Olomouc y la directriz «Sistema de control interno en DKV Olomouc». La act
 del maquinista, que realizó el TP en la est. Jeseník, en el tren R 900, fue controlada 2 veces 
 en el año natural 2010. El transportista no detectó defectos.
 
-
 ## Página 25
+
 
 ### 3.2.4 Interfaz entre los distintos sujetos implicados y los componentes de la vía de tráfico
 El propietario y operador de la vía ferroviaria, categoría de ámbito nacional, Mikulovice st. 
@@ -698,6 +690,7 @@ causar un frenado no fiable del vehículo ferroviario o del tren»;
 
 ## Página 26
 
+
 utilizado el vehículo ferroviario, que f) presenta daños o, en su caso, deformaciones de la carrocería o del bogie, o presenta otros defectos que amenacen directamente la seguridad de la explotación de la vía o de la explotación del transporte ferroviario".
 3.3.2 Otras normas, p. ej. reglamento de explotación, reglamento de trabajo, normas de mantenimiento, normas técnicas vigentes y otras normas internas
 En la investigación del SU se constató, por parte del transportista, el incumplimiento de las siguientes NI:
@@ -718,8 +711,8 @@ NI SŽDC (ČD) D2, art. 1232, letra a), donde se indica:
 a) si los coches presentan defectos evidentes que puedan poner en peligro la seguridad del transporte o causar daños a personas o a la carga, si los coches están marcados como no aptos para la circulación.";
 "Medidas para garantizar la seguridad de la explotación de coches de pasajeros equipados con freno de zapata", ref. núm.: 852/2010-12/5, de fecha 23. 04. 2010, emitido por la Dirección General
 
-
 ## Página 27
+
 
 de ČD, a. s., Departamento de vehículos sobre raíles, punto 4, donde se indica: "En todos los niveles de mantenimiento periódico, preste especial atención a la verificación del estado de los órganos de freno agarrotados. … … En todos los casos en que se detecten órganos agarrotados, realice, además de eliminar la causa del agarrotamiento, también una prueba de detección de defectos de la superficie de rodadura de las ruedas macizas afectadas del bogie conforme a la Metodología NDT".
 ## 3.4
@@ -746,6 +739,7 @@ En los datos registrados por el dispositivo de registro del HDV 362.158-8 no se 
 
 ## Página 28
 
+
 El 07. 12. 2010, el TDV de la serie B, n.º 50 54 20 41 408-6, fue incluido en la composición del tren R 900. El HDV 754.022-2, en el momento en que se produjo el MU, de conformidad con el apartado 5 de la parte II del anexo n.º 3 del decreto n.º 173/1995 Sb., estaba equipado con un dispositivo de registro con registro mecánico de datos, un registrador de velocidad tipo METRA, n.º de registro 11338, con un rango de velocidad de 0 – 150 km·h-1. La circulación del tren R 900 fue registrada en una tira registradora de velocidad con capa de carbono tipo KAPS-COMM – Český Krumlov, con un rango de velocidades de 0 – 150 km·h-1. De los datos registrados se desprende, entre otros:
 ● a las 04:47 h el HDV se detuvo en la est. Jeseník como tren Lv 70383;
 ● a las 06:42 h el tren R 900 partió de la est. Jeseník;
@@ -763,6 +757,7 @@ De la inspección conjunta del estado técnico del TDV de la serie B, n.º 50 54
 El 12. 01. 2011, en el laboratorio certificado "Českomoravská železniční opravna s. r. o. Přerov" se realizó una comprobación del funcionamiento del equipo de freno del TDV en cuestión. De la comprobación de ambos reguladores de retardo SZ 10, del regulador centrífugo Dako K, n.º de fabricación 136, de la válvula auxiliar del distribuidor Dako R, n.º de fabricación 999 y del regulador antideslizamiento Dako F, n.º de fabricación 8336, no se detectaron averías.
 
 ## Página 29
+
 
 De la comprobación del distribuidor Dako CVI R 20", n.º de fabricación 54637, se detectó una avería de aparición irregular que, al soltar el freno, se manifestó por la no liberación de todo el aire comprimido del cilindro de freno. En el distribuidor se detectó un apriete insuficiente de la conducción del pistón de avance y de distribución. Esta avería causaba una ventilación completa irregular del cilindro de freno del TDV tras la liberación del freno, permaneciendo el TDV con el freno ligeramente aplicado.
 
@@ -791,6 +786,7 @@ La citada detección constituye un incumplimiento del apartado 2, letra f), del 
 • la realización de la inspección del TDV de la serie B, n.º 50 54 20 41 408-6, en la est. Pardubice hl. n. en el tren R 871. El jefe de tren, en la inspección del TDV, no detectó huellas de influencia térmica en los juegos de ruedas. La citada detección constituye un incumplimiento del apartado 2, letra f), del § 35 de la ley n.º 266/1994 Sb.;
 
 ## Página 30
+
 
 realización de la inspección TDV serie B, n.º 50 54 20 41 408-6, en la est. Brno hl. n. entre los trenes 
 •
@@ -836,8 +832,8 @@ El jefe de vagones que realizó en la est. Brno hl. n. la inspección TDV serie 
 6, entre los trenes R 871 y R 901, inició la jornada conforme al horario del turno de servicio 
 el 06. 12. 2010 a las 07:22 h, disponiendo de un descanso antes de la jornada de 16:49 h.
 
-
 ## Página 31
+
 
        El transportista garantizó las condiciones para el descanso antes de la jornada de conformidad con el § 90 de la Ley 
 n.º 262/2006 Sb., Estatuto de los Trabajadores, en su redacción vigente.
@@ -874,12 +870,13 @@ detuvo el tren excepcionalmente en la vía entre las estaciones Úvaly y Český
 
 ## Página 32
 
+
 Tuklaty y Roztoklaty. El maquinista, mediante la inspección, comprobó que el TDV objeto de estudio era, según sus palabras, «ligeramente frenado, con las ruedas algo calientes y las pastillas de freno desgastadas». Por ello, desconectó el freno mediante el dispositivo de desconexión del freno automático por aire comprimido del TDV y solicitó al despachador que organizara la inspección del TDV por el jefe de tren. El maquinista no detectó, en la inspección del TDV, la presencia de defectos que pusieran en peligro la seguridad del transporte ferroviario, es decir, huellas de influencia térmica en las ruedas del TDV. Sin embargo, las ruedas sí habían sufrido influencia térmica. Tras un nuevo cálculo del porcentaje real de frenado, se redujo la velocidad establecida para el tren R 871. El motivo fue garantizar la parada segura del tren dentro de la distancia de frenado. Posteriormente, el jefe de tren inspeccionó el TDV en la estación de Pardubice hl. n. y decidió que el TDV de la serie B, n.º 54 20 41 408-6, se encontraba en un estado técnico que permitía continuar la marcha, es decir, no detectó huellas de influencia térmica en las ruedas del TDV. No aplicó al TDV las etiquetas de vagón. El jefe de tren realizó una inspección posterior del TDV tras la llegada del tren R 871 a la estación de Brno hl. n. También el jefe de tren en la estación de Brno hl. n. no detectó la presencia de defectos que pusieran en peligro la seguridad del transporte ferroviario, es decir, huellas de influencia térmica en las ruedas del TDV. Aplicó al TDV las etiquetas de vagón y dio su conformidad para que el TDV continuara la marcha según el ciclo en el tren R 901 con destino a la estación de Jeseník. El 07. 12. 2010, el TDV continuó la marcha incorporado al tren R 900. Antes de la salida del tren R 900 de la estación de Jeseník, se realizó en el tren la VTP, a cargo del maquinista del tren R 900. Mediante la inspección técnica, el maquinista no detectó la presencia de defectos que pusieran en peligro la seguridad del transporte ferroviario, es decir, huellas de influencia térmica en las ruedas del TDV. El factor que contribuyó a que no se detectaran las huellas de influencia térmica en las ruedas del TDV de la serie B, n.º 54 20 41 408-6, en las inspecciones realizadas por personas cualificadas del transportista, fue la influencia de las condiciones meteorológicas, nevada acompañada de fuerte viento. Los bogies del TDV estaban parcialmente cubiertos de nieve y hielo.
 
 Tras la salida del tren R 900 de la estación de Jeseník, se produjo en el tramo entre estaciones Jeseník – Lipová Lázně, en el TDV de la serie B, n.º 50 54 20 41 408-6, en la rueda derecha íntegra del eje 3 en el sentido de marcha del tren, la rotura de la rueda. La causa fue la influencia térmica previa en la rueda, con la consiguiente aparición de grietas en la superficie de rodadura de la rueda que afectaban al cara exterior de la llanta. La influencia térmica en las ruedas del TDV y la aparición de grietas se produjeron con anterioridad a la parada extraordinaria del tren R 871 el 06. 12. 2010 en la línea, donde el maquinista desconectó el freno mediante el dispositivo de desconexión del freno automático por aire comprimido del TDV. Dicho freno no estuvo en servicio hasta la aparición del MU. Como consecuencia de la rotura, la rueda derecha se soltó del asiento del eje durante la marcha del tren R 900 y provocó un cambio en el valor de la anchura de vía, sin descarrilamiento. Debido al cambio en el valor de la anchura de vía, en el km 33,046 el aro de la rueda izquierda del eje 3 impactó contra el canto de la vía rebajada, que formaba el canal de la vía en el km 33,044 (P4299), con el resultado de un cambio en la anchura de vía del eje 3 de tal forma que la superficie de rodadura de la rueda izquierda abandonó la cabeza del carril izquierdo hacia la derecha. La rueda derecha del eje 3, que se había soltado, no abandonó la cabeza del carril derecho. Debido a la dinámica del suceso, con el impacto se produjo simultáneamente el descarrilamiento del eje 4. Este descendió con la rueda izquierda a la derecha del carril izquierdo y con la rueda derecha saltó hacia la derecha, al exterior del carril derecho. Con el TDV en este estado de descarrilamiento, el tren R 900 continuó la marcha. Un pasajero sentado en este vagón advirtió el funcionamiento anormal del TDV descarrilado, que reaccionó ante la situación creada utilizando el freno de emergencia, con el resultado de la parada del tren.
 
-
 ## Página 33
+
 
 ## 4.2
 ### Análisis
@@ -900,6 +897,7 @@ El transportista, en el sentido del § 35 apartado 1 letra a) y del § 35 aparta
 
 ## Página 34
 
+
 El factor que contribuyó a la no detección de huellas de influencia térmica en las ruedas del TDV serie B, n.º 54 20 41 408-6, en las inspecciones y TP realizadas por personas cualificadas del transportista, fue la influencia de las condiciones meteorológicas, nevada intensa acompañada de fuerte viento. Los bogies del TDV estaban parcialmente cubiertos de nieve y hielo.
 
 El transportista, en virtud del § 2 apartado 2 del decreto n.º 376/2006 Sb., en el sentido del § 35 apartado 2 letra f) de la ley n.º 266/1994 Sb., mediante sus procedimientos en el sistema de garantía de seguridad, no garantizó el cumplimiento de las normas técnicas y de explotación existentes, nuevas y modificadas u otras condiciones vinculantes establecidas en la legislación nacional y en las normas internas del gestor de la vía y del transportista, al haber definido de forma imprecisa e inequívoca el procedimiento de identificación de ruedas de los ejes ferroviarios del TDV en servicio afectadas térmicamente por personas cualificadas del transportista en la inspección y evaluación de la idoneidad técnica del TDV en servicio.
@@ -914,21 +912,20 @@ El factor que contribuyó a la no detección de huellas de influencia térmica e
 ### 4.3.3 Causas derivadas del marco normativo y del uso del sistema de garantía de seguridad
 La causa derivada del marco normativo y del uso del sistema de garantía de seguridad fue el procedimiento de identificación de ruedas de los ejes ferroviarios del TDV en servicio afectadas térmicamente por personas cualificadas del transportista en la inspección y evaluación de la idoneidad técnica del TDV en servicio, definido de forma imprecisa e inequívoca.
 
-
 ## Página 35
 
 ## 4.4
 ### Hallazgos complementarios
-### 4.4.1 Deficiencias y omisiones detectadas durante la investigación de las causas y circunstancias del suceso excepcional, que sin embargo no son relevantes para las conclusiones sobre las causas
-El transportista, en virtud del § 35 apartado 1 letra a) y del § 35 apartado 2 letra f) de la ley n.º 266/1994 Sb., no explotó el transporte ferroviario de acuerdo con las reglas de explotación del transporte ferroviario, la licencia vigente y el contrato celebrado con el gestor de la vía para la explotación del transporte ferroviario en la vía, y no cumplió el sistema de garantía de seguridad del transporte ferroviario establecido, al no proceder, en la reparación de las pastillas de freno desgastadas del TDV serie B, n.º 50 54 20 41 408-6, en DKV Brno, OV Horní Heršpice, de conformidad con los procedimientos tecnológicos uniformes del transportista contenidos en la «Medida para garantizar la seguridad de la explotación de vagones de pasajeros equipados con freno de pastillas», n.º de expediente: 852/2010-12/5, de fecha 23. 04. 2010, ya que no realizaba la inspección de la superficie de rodadura de las ruedas macizas afectadas de los ejes mediante método no destructivo.
+### 4.4.1 Deficiencias y omisiones detectadas durante la investigación de las causas y circunstancias del origen del suceso ferroviario, que sin embargo no son relevantes para las conclusiones sobre las causas
+El transportista, en el sentido del § 35 apartado 1 letra a) y del § 35 apartado 2 letra f) de la Ley núm. 266/1994 Sb., no explotaba el transporte ferroviario de acuerdo con las reglas de explotación del transporte ferroviario, la licencia vigente y el contrato celebrado con el explotador de la vía para la explotación del transporte ferroviario en la vía, y no cumplió el sistema establecido de garantía de la seguridad del transporte ferroviario, al no proceder, durante las reparaciones de las zapatas de freno embutidas del TDV serie B, núm. 50 54 20 41 408-6, en el DKV Brno, OV Horní Heršpice, de conformidad con los procedimientos tecnológicos uniformes del transportista contenidos en la «Medida para la garantía de la seguridad de la explotación de los coches de pasajeros equipados con freno de zapata», ref. núm. 852/2010-12/5, de fecha 23. 04. 2010, ya que no realizaba la inspección de la superficie de rodadura de las ruedas enteras afectadas de los bogies mediante método no destructivo.
 ## 5 MEDIDAS ADOPTADAS
 ## 5.1
-### Lista de medidas que ya se han adoptado o realizado como consecuencia del suceso excepcional
-El transportista adoptó la siguiente medida para prevenir la aparición de un suceso excepcional, con la que eliminó la causa detectada en el marco normativo y en el uso del sistema de garantía de seguridad:
-●Instrucción del director O12 n.º 2/2011 «Medidas en caso de sospecha de influencia térmica en las ruedas de vehículos de tracción del transporte de pasajeros», n.º de expediente: 135/2011-O12, de fecha 17. 01. 2011, en la que se describe la indicación de ruedas afectadas térmicamente, incluidos los procedimientos de detección de dichas ruedas y los procedimientos de resolución por parte de los empleados de explotación del DKV.
-
+### Lista de medidas que ya han sido tomadas o adoptadas como consecuencia del suceso ferroviario
+El transportista adoptó la siguiente medida para prevenir la aparición del suceso ferroviario, con la que eliminó la causa detectada en el marco normativo y en el uso del sistema de garantía de la seguridad:
+●Instrucción del director O12 núm. 2/2011 «Medidas en caso de sospecha de influencia térmica en las ruedas de los vehículos de tracción del transporte de pasajeros», ref. núm. 135/2011-O12, de fecha 17. 01. 2011, en la que se describe la indicación de ruedas con influencia térmica, incluidos los procedimientos de detección de dichas ruedas y los procedimientos de resolución por parte del personal explotador del DKV.
 
 ## Página 36
+
 
 ## 6 RECOMENDACIONES DE SEGURIDAD
 La Inspección Ferroviaria, como órgano competente en la materia según lo dispuesto en el § 53b apartado 5 de la ley n.º 266/1994 Sb., sobre la base de los resultados de la investigación de las causas y circunstancias del suceso excepcional, para reducir la probabilidad de la aparición de sucesos excepcionales similares, recomienda a la empresa ČD, a. s.:
@@ -943,20 +940,20 @@ Director
 Inspección Territorial de Ostrava
 de la Inspección Territorial de Ostrava
 
-
 ## Página 37
+
 
 ## 7 ANEXOS
 Foto 3: vista de la fractura de la llanta de la rueda maciza.
 Foto 4: vista de la fractura general del disco y de la llanta de la rueda.
 
-
 ## Página 38
+
 
 Foto 5: vista de las pastillas de freno desgastadas.
 
-
 ## Página 39
+
 
 Foto 6: vista de la coloración de las pastillas de freno.
 Foto 7: vista de las pastillas de freno desmontadas.

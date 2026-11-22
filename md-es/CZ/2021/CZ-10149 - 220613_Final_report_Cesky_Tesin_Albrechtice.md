@@ -10,13 +10,14 @@ chars: 200793
 ratio_longitud: 1.27
 tokens_in: 96926
 tokens_out: 70821
-verificacion: revisar
-notas_cifras: ["bloque 2: cifras cortas: 1/238", "bloque 3: cifras cortas: 1/128", "bloque 4: cifras cortas: 1/112", "bloque 7: original bilingüe: se compara contra el idioma principal (CS)", "bloque 15: original bilingüe: se compara contra el idioma principal (CS)", "bloque 16: cifras cortas: 1/14"]
-avisos: ["bloque 7: ratio 1.65", "bloque 15: ratio 1.96"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 3: original bilingüe: se compara contra el idioma principal (CS)", "página 7: original bilingüe: se compara contra el idioma principal (CS)", "página 8: original bilingüe: se compara contra el idioma principal (CS)", "página 9: cifras cortas: 1/2", "página 11: original bilingüe: se compara contra el idioma principal (CS)", "página 14: cifras cortas: 1/44"]
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -39,13 +40,13 @@ IČ: 75009561
 mail@dicr.cz
 tel.: +420 736 521 003
 
-
 ## Página 2
+
 
 Este informe final es público y todos los hechos en él expuestos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ## 1 RESUMEN
 Fuente: Drážní inspekce
@@ -69,8 +70,8 @@ Factor contribuyente:
 reducción del coeficiente de adherencia necesario para detener la maniobra entre puntos de explotación en la vía de tráfico n.º 2 Český Těšín – Albrechtice u Českého Těšína por la acumulación de material biológico arrastrado y pisado (hojas) en los cantos de los cabezales de ambos carriles, con la intervención de la humedad atmosférica en el momento de la producción del suceso ferroviario.
 No se ha detectado por la Drážní inspekce ninguna causa sistémica.
 
-
 ## Página 4
+
 
 Recomendaciones de seguridad:
 La Drážní inspekce, en virtud de lo dispuesto en el § 53e apartado 1 de la Ley n.º 266/1994 Sb., de ferrocarriles, en su redacción vigente, recomienda, en relación con la prevención de sucesos ferroviarios:
@@ -80,10 +81,10 @@ en el marco de su actividad como autoridad nacional de seguridad, la adopción d
 ◦hasta la puesta en marcha de la formación, la capacitación y la verificación de la capacidad práctica de las personas que conducen locomotoras de tracción ferroviaria en simuladores para resolver adecuadamente también situaciones que puedan producirse con un coeficiente de adherencia reducido necesario para la puesta en marcha o la detención de los vehículos ferroviarios, en los transportistas, siempre antes del inicio del periodo con presencia frecuente de coeficiente de adherencia reducido necesario para la puesta en marcha y la detención de los vehículos ferroviarios (condiciones de adherencia deterioradas) causado por las hojas caídas en combinación con la humedad atmosférica, el aviso demostrable a las personas que conducen locomotoras de tracción ferroviaria sobre el inicio de dicho periodo y el recuerdo relacionado con el mismo del modo correcto de circular al frenar (tecnología de manejo del equipo de freno y de areneado) en condiciones de coeficiente de adherencia reducido,
 ◦hasta la puesta en marcha de la recomendación indicada más abajo, en los transportistas que utilizan un simulador de vehículo ferroviario para mejorar la formación y la capacitación de las personas que conducen locomotoras de tracción ferroviaria con el fin de adquirir y mantener los hábitos del modo correcto de circular, que en la formación y la capacitación de dichas personas en los simuladores se simularan también las circulaciones en pendiente (descenso) para el tren atascado en condiciones de coeficiente de adherencia reducido necesario para la detención de los vehículos ferroviarios;
 •
-en colaboración con el Ministerio de Transporte, la creación de un marco jurídico y un sistema mediante los cuales se amplíe el alcance y el contenido de los conocimientos, las aptitudes y los procedimientos necesarios para acreditar la competencia profesional especializada para la conducción de vehículos ferroviarios en vías ferroviarias de categoría nacional y regional, mediante la verificación de la capacidad práctica de la persona que conduce el vehículo ferroviario en un simulador de locomotora para resolver adecuadamente también situaciones que solo se produzcan raramente, incluida la circulación y, en especial, el frenado con coeficiente de adherencia reducido necesario para la puesta en marcha o la detención.     
-
+en colaboración con el Ministerio de Transporte, la creación de un marco jurídico y un sistema mediante los cuales se amplíe el alcance y el contenido de los conocimientos, las aptitudes y los procedimientos necesarios para acreditar la competencia profesional especializada para la conducción de vehículos ferroviarios en vías ferroviarias de categoría nacional y regional, mediante la verificación de la capacidad práctica de la persona que conduce el vehículo ferroviario en un simulador de locomotora para resolver adecuadamente también situaciones que solo se produzcan raramente, incluida la circulación y, en especial, el frenado con coeficiente de adherencia reducido necesario para la puesta en marcha o la detención.
 
 ## Página 5
+
 
 ## SUMMARY
 31st October 2021, 2:35 (1:35 GMT).
@@ -115,8 +116,8 @@ Addressed to the Czech National Safety Authority (NSA):
 •
 ensure that train drivers will be notified of the season when reduction of adhesion rate necessary for starting and stop of the rolling stocks (worsened adhesion condition) occures very often due to the fallen leaves in combination with atmospheric humidity and the train drivers should also be notified of the right method of braking (technology of braking device and sanding equipment). This should be done at railway undertakings always before the season mentioned above starts. This notification will be carry out until realization training to acquire and maintain the right way of driving of train drivers on the rolling stock simulator – see next indent;
 
-
 ## Página 6
+
 
 •
 until realization below stated recommendation it should be ensured at railway undertakings, which using rolling stock simulator for improvement of the train driver's training to acquire and maintain the right way of driving, that these trainings shlould be supplemented by simulatation of driving on downgrade for the stuck train under the conditions when adhesion rate necessary for stop of the rolling stocks is reduced;
@@ -124,6 +125,7 @@ until realization below stated recommendation it should be ensured at railway un
 in cooperation with the Ministry of transport, we recommend that the NSA create the legal framework and system which will determine the scope and content of knowledge, skills and procedure necessary to prove professional competence for driving the rolling stocks on the national and regional lines and this system should be extend by verification of train driver’s practical ability to also solve the situations which can rarely happen, including braking when adhesion rate necessary for starting and stop of the rolling stocks is reduced, this should be proved on the rolling stock simulator adequately.
 
 ## Página 7
+
 
 # Índice
 1 RESUMEN........................................................................................................................3
@@ -165,8 +167,8 @@ SUMMARY.........................................................................
 4.2 Vehículos ferroviarios e instalaciones técnicas........................................................46
 4.2.1 Factores o consecuencias derivados del diseño de los vehículos ferroviarios, de la infraestructura ferroviaria o de las instalaciones técnicas.........................46
 
-
 ## Página 8
+
 
 4.2.2 Factores o consecuencias derivados de la instalación y de la puesta en servicio de los vehículos ferroviarios, de la infraestructura ferroviaria o de las instalaciones técnicas..........................................................................................46
 4.2.3 Factores o consecuencias relacionados con los fabricantes de vehículos ferroviarios u otros proveedores de productos ferroviarios................................46
@@ -195,8 +197,8 @@ SUMMARY.........................................................................
 6 RECOMENDACIONES DE SEGURIDAD..........................................................................58
 ANEXOS..............................................................................................................................60
 
-
 ## Página 9
+
 
 ### Lista de siglas y símbolos utilizados
 AVV
@@ -270,8 +272,8 @@ Informe final sobre los resultados de la investigación del suceso excepcional
 žst.
 estación de ferrocarril
 
-
 ## Página 10
+
 
 ### Lista de siglas de la legislación, normas y disposiciones internas aplicadas
 Reglamento (UE) 2019/554 de la Comisión
@@ -301,6 +303,7 @@ disposición interna del transportista ČDC, «Equipos de locomotora», en la re
 
 ## Página 11
 
+
 ## 2 INVESTIGACIÓN Y SUS CONTEXTO
 ### 2.1 Decisión de iniciar la investigación
 DI decidió iniciar la investigación de la MU en cuestión el 31. 10. 2021.
@@ -324,8 +327,8 @@ La investigación de las causas y circunstancias de la MU se realizó de acuerdo
 ### 2.6 Descripción del nivel de colaboración ofrecido por los sujetos participantes
 El nivel de colaboración con los representantes de los sujetos participantes en la MU fue estándar; DI recibió la información requerida para la investigación de las causas y circunstancias de la MU.
 
-
 ## Página 12
+
 
 ### 2.7 Descripción de la investigación, los métodos y las técnicas utilizados para acreditar los hechos y los hallazgos indicados en el informe
 En el marco de la investigación de la MU, DI procedió de la siguiente manera, respectivamente, utilizó, entre otros, los siguientes métodos y técnicas:
@@ -369,8 +372,8 @@ Coordenadas GPS:
 49.7915267N, 18.5786156E.
 *) Si no se indica otra especificación de la hora después de los datos horarios en toda la ZZ, se trata de Hora de Verano de Europa Central.
 
-
 ## Página 13
+
 
 ### 3.1.3 Descripción del lugar del suceso
 La colisión del PMD núm. 858011 (en adelante también PMD) con el tren varado Pn 62054 se produjo en la TK núm. 2 Český Těšín – Albrechtice u ČT, en el pk 6,758. La línea forma parte de la vía estatal Český Těšín – Ostrava-Kunčice, que es de doble vía y electrificada (electrificada) con sistema de tracción de corriente continua con tensión de 3 kV.
@@ -380,8 +383,8 @@ Inspección del lugar de la MU:
 La inspección se realizó en tres fases, en la primera fase se inspeccionó el lugar de origen de la MU, en la segunda fase se inspeccionó la infraestructura en la dirección de marcha del PMD y en la tercera fase se inspeccionó el estado de la instalación de señalización.
 La inspección del lugar de origen de la MU se realizó primero en el lugar de la colisión de los DV, cuando se inspeccionó el HDV CZ-ČDC 91 54 7 181 084-5 (en adelante 181.084-5) del tren varado Pn 62054 y el HDV de dos piezas 131.043-2/131.044-0 que circulaba en forma de maniobra como PMD núm. 858011 desde la est. Albrechtice u ČT para el tren varado hasta el pk 6,800, con la excepción de la sala de máquinas en la cabecera del HDV que circulaba como PMD de la sección principal 131.043-2, ya que los daños en la sección principal del HDV derivados de la MU no permitieron poner esta sección en estado para un acceso seguro a la sala de máquinas (véase más abajo). Por este motivo, el inspector de DI precintó las puertas de acceso a la sala de máquinas de la sección principal desde el lado de la cabina del maquinista y las puertas de paso desde el lado de la sala de máquinas del HDV de la sección final 131.044-0. En el marco de la inspección del HDV, se realizó en el HDV de dos piezas 131.043-2/131.044-0 en el horario de 5:31 h (Hora de Verano de Europa Central) a 5:36 h (Hora de Verano de Europa Central), una prueba de freno del HDV y, a continuación, se verificó la función del dispositivo de arenado.
 
-
 ## Página 14
+
 
 A continuación, se inspeccionó la infraestructura de la vía, el estado de los elementos de sujeción y los raíles de ambos cantos de la TK núm. 2, incl. sus cabezas, mediante un recorrido a pie desde el lugar de la colisión en sentido contrario a la marcha del PMD, a través de la primera huella inequívoca visualmente determinada de arrastre de las ruedas del PMD en el pk 7,208 (450 m antes del lugar de la colisión de los DV), y a través del lugar donde en el pk 7,380 (622 m antes del lugar de la colisión de los DV) se determinó el inicio de la visibilidad ininterrumpida del frontal del tren varado durante la marcha del PMD por la TK núm. 2, hasta el pk 7,410 (652 m antes del lugar de la colisión de los DV), donde en la dirección de marcha del PMD se determinó el inicio de la contaminación continua de las cabezas húmedas de ambos cantos de la TK núm. 2 con material biológico oscuro atropellado (hojas) – hasta este lugar las cabezas de los raíles estaban húmedas y contaminadas de forma discontinua. Desde el pk 7,410 se continuó el recorrido a pie en sentido contrario, es decir, en la dirección de marcha del PMD y en sentido contrario a la marcha del tren varado Pn 62054, a través del lugar de la colisión en el pk 6,758 y a través del pk 6,278 (480 m antes del lugar de la colisión de los DV), donde en la dirección de marcha del tren Pn 62054 se determinó el inicio de la contaminación continua de las cabezas de ambos cantos de la TK núm. 2 con material biológico húmedo atropellado – hasta este lugar las cabezas de los raíles no estaban contaminadas, hasta el pk 4,233, es decir, hasta el nivel de la señal principal (de sección) del bloque automático (en adelante señal de sección AB) 2-43. En el marco del recorrido a pie, se realizó también la inspección del TDV del tren Pn 62054.
 A una distancia de 2 m y 316 m tras el frontal del HDV de la sección final 131.044-0, es decir, en los pk 6,795 y 7,108, el inspector de DI tomó muestras de la rueda de los DV del material atropellado que se encontraba en las cabezas de ambos cantos, para el posterior análisis de este material y la verificación de si en las muestras tomadas se encuentran trazas de arena de sílice con la que estaba equipado el HDV de dos piezas 131.043-2/131.044-0. Las muestras de arena de sílice del HDV de dos piezas fueron aseguradas por el inspector de DI durante la verificación de la funcionalidad del dispositivo de arenado de este HDV, que para las necesidades de dicha prueba se controlaba desde la cabina del maquinista de la sección principal 131.043-2.
@@ -398,59 +401,57 @@ La ruta de marcha (de maniobra) para el PMD núm. 858011 se estableció en la es
 
 ## Página 15
 
-por el extremo en dirección directa y a través de la aguja n.º 2 por el extremo en dirección directa hacia la SK de la cabecera de Český Těšín, que es continuación de la TK n.º 2 Český Těšín – Albrechtice u ČT, hasta la señal principal (de entrada) (en adelante, señal de entrada) 2L (km 10,041) válida para la circulación de DV por la TK n.º 2 desde Český Těšín;
+punta en dirección directa y a través de la aguja n.º 2 por la punta en dirección directa hacia la SK de la cabecera de Český Těšín, que es la continuación de la TK n.º 2 Český Těšín – Albrechtice u ČT, hasta la señal principal (de entrada) (en adelante, señal de entrada) 2L (pk 10,041) válida para la circulación de DV por la TK n.º 2 desde Český Těšín;
 •
-el consentimiento para la maniobra del PMD n.º 858011 desde la SK n.º 2 de la est. Albrechtice u ČT se dio con la señal «Maniobra permitida», emitida por la señal de salida S2, que se encontraba a la derecha justo junto a la SK n.º 2;
+el permiso para el maniobrar del PMD n.º 858011 desde la SK n.º 2 de la est. Albrechtice u ČT se dio con la señal «Posun dovolen» (Maniobra permitida), emitida por la señal de salida S2, que se encontraba a la derecha justo junto a la SK n.º 2;
 •
-la est. Český Těšín estaba equipada con SZZ de 3.ª categoría – enclavamiento electrónico ESA 11, que se controlaba en remoto desde el CDP Přerov, cuando:
-◦el SZZ del ámbito de la estación de pasajeros, del atrio de Frýdek y de la parada Chotěbuz lo manejaba el despachante de línea 2H del CDP Přerov,
-◦el SZZ del ámbito de la estación de mercancías lo manejaba el despachante director 1H del CDP Přerov,
-con la posibilidad de traspasar la gestión de todos los ámbitos de la est. Český Těšín y de la parada Chotěbuz al puesto del jefe de estación de guardia 2 de la est. Český Těšín;
+la est. Český Těšín estaba equipada con SZZ de 3.ª categoría – enclavamiento electrónico ESA 11, que era controlado en remoto desde el CDP Přerov, cuando:
+◦el SZZ del ámbito de la estación de pasajeros, del atrio de Frýdek y de la parada Chotěbuz era operado por el despachador de línea 2H del CDP Přerov,
+◦el SZZ del ámbito de la estación de mercancías era operado por el despachador director 1H del CDP Přerov,
+con la posibilidad de transferir la operación de todos los ámbitos de la est. Český Těšín y de la parada Chotěbuz al puesto del jefe de estación de guardia n.º 2 de la est. Český Těšín;
 •
-la est. Albrechtice u ČT estaba equipada con SZZ de 3.ª categoría, enclavamiento de relevo del modelo SSSR con agujas conmutadas individualmente. La estación estaba equipada con KO. El SZZ lo manejaba localmente el jefe de estación de la est. Albrechtice u ČT desde la DK, que era el puesto del jefe de estación;
+la est. Albrechtice u ČT estaba equipada con SZZ de 3.ª categoría, enclavamiento de seguridad por relés del modelo SSSR con agujas conmutadas individualmente. La estación estaba equipada con KO. El SZZ era operado localmente por el jefe de estación de la est. Albrechtice u ČT desde la DK, que era el puesto del jefe de estación;
 •
-la TK n.º 1 Albrechtice u ČT – parada Chotěbuz estaba equipada con TZZ – bloque automático electrónico bidireccional ABE-1, en posición básica el permiso de circulación por la TK n.º 1 se recibía en la est. Albrechtice u ČT;
+la TK n.º 1 Albrechtice u ČT – parada Chotěbuz estaba equipada con TZZ – bloque automático electrónico bidireccional ABE-1, en posición básica el permiso para circular por la TK n.º 1 se recibía en la est. Albrechtice u ČT;
 •
-la TK n.º 2 Český Těšín – Albrechtice u ČT estaba equipada con TZZ – bloque automático electrónico bidireccional ABE-1, en posición básica el permiso de circulación por la TK n.º 2 se recibía en la est. Český Těšín. El tramo ferroviario en el sentido Český Těšín – Albrechtice ČT estaba dividido en 8 tramos de línea, en el sentido Albrechtice u ČT – Český Těšín estaba dividido en 7 tramos de línea;
+la TK n.º 2 Český Těšín – Albrechtice u ČT estaba equipada con TZZ – bloque automático electrónico bidireccional ABE-1, en posición básica el permiso para circular por la TK n.º 2 se recibía en la est. Český Těšín. El tramo de línea en el sentido Český Těšín – Albrechtice ČT estaba dividido en 8 tramos de línea, en el sentido Albrechtice u ČT – Český Těšín estaba dividido en 7 tramos de línea;
 •
 el TZZ en ambas TK estaba conectado al SZZ de las estaciones adyacentes y de la parada Chotěbuz;
 •
-la señal de tramo AB 2-43 (km 4,233) se encontraba sobre el soporte de la TK n.º 2 Český Těšín – Albrechtice u ČT. Se trataba de una señal luminosa del tipo AŽD 70, que por su construcción era una señal unidireccional, con tres lámparas de señal con parasoles. La señal estaba marcada con una placa de señalización blanca de forma rectangular con borde negro, que contenía el texto negro «2-43», y con una banda de señalización blanca situada a la derecha junto a las lámparas de señal;
+la señal de tramo AB 2-43 (pk 4,233) se encontraba sobre el pórtico de la TK n.º 2 Český Těšín – Albrechtice u ČT. Se trataba de una señal luminosa del tipo AŽD 70, que por su construcción era una señal unidireccional, con tres lámparas de señal con parasoles. La señal estaba marcada con una placa de identificación blanca de forma rectangular con borde negro, que contenía el texto negro «2-43», y con una banda de identificación blanca situada a la derecha junto a las lámparas de señal;
 •
-la señal de tramo AB 2-53 (km 5,255) estaba situada a la derecha justo junto a la TK n.º 2. Se trataba de una señal luminosa del tipo AŽD 70, que por su construcción era una señal unidireccional, de mástil, con tres lámparas de señal con parasoles. La señal estaba marcada con una placa de señalización blanca de forma rectangular con borde negro, que contenía el texto negro «2-53», y con una banda de señalización blanca;
+la señal de tramo AB 2-53 (pk 5,255) estaba situada a la derecha justo junto a la TK n.º 2. Se trataba de una señal luminosa del tipo AŽD 70, que por su construcción era una señal unidireccional, de mástil, con tres lámparas de señal con parasoles. La señal estaba marcada con una placa de identificación blanca de forma rectangular con borde negro, que contenía el texto negro «2-53», y con una banda de identificación blanca;
 •
-la señal de tramo AB 2-63 (km 6,336) estaba situada a la derecha justo junto a la TK n.º 2. Se trataba de una señal luminosa del tipo AŽD 70, que por su construcción era una señal unidireccional, de mástil, con tres lámparas de señal con parasoles. La señal estaba marcada con una placa de señalización blanca de forma rectangular con borde negro, que contenía el texto negro «2-63», y con una banda de señalización blanca;
+la señal de tramo AB 2-63 (pk 6,336) estaba situada a la derecha justo junto a la TK n.º 2. Se trataba de una señal luminosa del tipo AŽD 70, que por su construcción era una señal unidireccional, de mástil, con tres lámparas de señal con parasoles. La señal estaba marcada con una placa de identificación blanca de forma rectangular con borde negro, que contenía el texto negro «2-63», y con una banda de identificación blanca;
 •
-la TK n.º 2 Český Těšín – Albrechtice u ČT estaba equipada con la parte ferroviaria en servicio del VZ para la transmisión de información sobre las señales de los señales principales a la DV motriz
-
+la TK n.º 2 Český Těšín – Albrechtice u ČT estaba equipada con la sección de línea VZ en servicio para la transmisión de información sobre las señales de los señales principales al DV de cabecera
 
 ## Página 16
 
-y con la parte estacionaria (ferroviaria) del sistema de automatización de la conducción de vehículos ferroviarios AVV, que controla la circulación del tren, pero que por su naturaleza no es un dispositivo de seguridad. No estaba equipada con la parte estacionaria (ferroviaria) del sistema europeo de VZ ETCS (European Train Control System);
+a la parte estacionaria (de vía) del sistema de automatización de la conducción de vehículos ferroviarios AVV, que controla la marcha del tren, pero que por su naturaleza no es un dispositivo de seguridad. No estaba equipado con la parte estacionaria (de vía) del sistema europeo de seguridad VZ ETCS (European Train Control System);
 •
-la TK n.º 2 Český Těšín – Albrechtice u ČT estaba formada por carriles de perfil ancho S49 sobre soportes de carril de hormigón (en adelante, traviesas) SB8 con fijación K. Las almohadillas de caucho bajo los pies de los carriles no estaban dañadas. No se detectaron defectos en la sujeción de los elementos de fijación, las traviesas, los carriles ni en el lecho del carril;
+La TK n.º 2 Český Těšín – Albrechtice u ČT estaba formada por traviesas de ancho estándar de forma S49 sobre soportes de traviesas de hormigón (en adelante, traviesas) SB8 con fijación K. Las almohadillas de caucho bajo las bases de las traviesas no estaban dañadas. No se detectaron defectos en la retención de los elementos de fijación, traviesas, traviesas y lecho de la vía;
 •
-en las cabezas de ambas bandas de carriles de la TK n.º 2, desde el km 7,380 hasta el km 6,278, es decir, también en el punto de colisión en el km 6,758, se detectó una contaminación continua de material biológico atropellado – hojas, que en combinación con la humedad atmosférica formó una masa resbaladiza de color negro, con efecto negativo sobre el coeficiente de adherencia entre el carril y la rueda.
-La aparición de humedad atmosférica en las inmediaciones del punto de origen del MU la favorecieron las condiciones geográficas – la traza de la línea discurriendo en un corte, en el punto de origen del MU con una profundidad de unos 11,5 m (véase el punto 3.1.8 de esta ZZ). El corte se excavó en un terreno boscoso, formado por un bosque mixto con predominio de frondosas caducifolias.
-Las laderas del corte estaban cubiertas de una vegetación arbustiva baja que reforzaba la ladera, sin efecto negativo sobre la vía. A lo largo de ambos bordes del corte, respectivamente, detrás de la vía terrestre de servicio discurrida a lo largo del corte a la izquierda en el sentido de circulación del PMD (camino de campo hacia la c/ Malé kempy y la c/ Velké kempy en el término municipal de Karviná, parte Louky), crecían árboles maduros, cuyas hojas, en el periodo anterior al origen del MU, eran arrastradas por el viento a las inmediaciones, es decir, también a la proximidad inmediata de la vía, a la vía y también a las coronas de los carriles. Mediante inspección no se detectó en ambas TK la acumulación de una mayor cantidad de hojas caídas. La mayoría de las hojas se encontraba en una capa casi continua que cubría el terreno por las caras exteriores de ambas TK, a la que eran desplazadas por la acción conjunta del viento y de la presión aerodinámica y la succión inducida por la circulación de la DV. En el superestructura ferroviaria se encontraban únicamente hojas caídas sueltas;
+En las cabezas de ambos tramos de traviesas de la TK n.º 2, desde el pk 7,380 hasta el pk 6,278, es decir, también en el lugar de la colisión en el pk 6,758, se detectó una contaminación continua de material biológico pisoteado – hojas, que en combinación con la humedad atmosférica creó una masa resbaladiza de color negro, que tiene un efecto negativo en el coeficiente de adherencia entre la rueda y la traviesa.
+La aparición de humedad atmosférica en las inmediaciones del lugar donde se produjo el MU (accidente ferroviario) estuvo favorecida por las condiciones geográficas – el trazado de la vía en un corte, en el lugar de producción del MU con una profundidad de unos 11,5 m (véase el punto 3.1.8 de esta ZZ). El corte se excavó en un terreno boscoso, formado por un bosque mixto con predominio de maderas caducifolias.
+Las laderas del corte estaban cubiertas de una vegetación arbustiva baja que reforzaba la ladera, sin efecto negativo sobre la vía. A lo largo de ambos bordes del corte, o sea, detrás de la vía de comunicación terrestre de servicio transcurrida a lo largo del corte a la izquierda en el sentido de marcha del PMD (camino de campo hacia la c/ Malé kempy y la c/ Velké kempy en el término municipal de Karviná, parte Louky), crecían árboles desarrollados, cuyas hojas, en el periodo anterior a la producción del MU, eran arrastradas por el viento a los alrededores, es decir, también a la inmediata proximidad de la vía, a la vía y también a las cabezas de las traviesas. Con la inspección no se detectó en ambas TK una acumulación de una mayor cantidad de hojas caídas. La mayoría de las hojas se encontraban en una capa casi continua que cubría el terreno por los lados exteriores de ambas TK, a donde eran desplazadas por la acción conjunta del viento y la presión aerodinámica y la succión provocada por la marcha del DV (tren de mercancías). En la superestructura ferroviaria solo había hojas sueltas de hojas caídas;
 •
-en las coronas de ambas bandas de carriles de la TK n.º 2 y en el material biológico atropellado sobre ellas, desde el km 7,208 hasta el punto de colisión en el km 6,758, es decir, a una distancia de 450 m antes del punto de colisión de la DV, se detectaron surcos longitudinales continuos que evidenciaban el derrape de las ruedas sobre los carriles. Antes del km 7,208 los surcos longitudinales en las coronas de ambas bandas de carriles aparecían de forma discontinua, y mediante inspección no era posible determinar de forma inequívoca si se habían producido durante la circulación del PMD en cuestión o en algún momento anterior. Por ello, en el momento de la inspección se determinó el km 7,208 como el punto de la primera huella indudable de circulación con derrape [el punto exacto del inicio de la circulación con derrape se determinó mediante la evaluación de los datos registrados por el dispositivo de registro instalado en la HDV del PMD (véase el punto 3.1.7 de esta ZZ)];
+En las cabezas de ambos tramos de traviesas de la TK n.º 2 y en el material biológico pisoteado sobre ellas, desde el pk 7,208 hasta el lugar de la colisión en el pk 6,758, es decir, desde una distancia de 450 m antes del lugar de la colisión del DV, se detectaron surcos longitudinales continuos que atestiguan el deslizamiento de las ruedas sobre las traviesas. Antes del pk 7,208, los surcos longitudinales en las cabezas de ambos tramos de traviesas aparecían de forma discontinua, y mediante la inspección no era posible determinar de manera inequívoca si se habían producido durante la marcha del PMD en cuestión o en algún momento anterior. Por ello, durante la inspección, el pk 7,208 se determinó como el lugar de la primera huella indudable de marcha con deslizamiento [el lugar exacto del inicio de la marcha con deslizamiento se determinó mediante la evaluación de los datos registrados por el dispositivo de registro instalado en el HDV del PMD (véase el punto 3.1.7 de esta ZZ)];
 •
-mediante inspección visual no se detectaron en las coronas de la banda de carriles izquierda y derecha ni en el superestructura ferroviaria de la TK n.º 2:
-### ◦en el sentido de circulación del PMD hasta el punto de colisión, ninguna huella del uso 
-### del dispositivo de arenado de la HDV bitren 131.043-2/131.044-0. La excepción fue la arena de sílice derramada sobre ambas bandas de carriles, sus elementos de fijación y las traviesas en las inmediaciones de los extremos de todos los tubos de las cápsulas de arena del dispositivo de arenado de la HDV bitren. La arena se derramó de las cápsulas de arena y de las mangueras de arenado terminadas en tubos como consecuencia del golpe producido en la colisión (véase la Fig. n.º 2).
-
+Mediante inspección visual no se detectaron en las cabezas del tramo izquierdo y derecho de traviesas ni en la superestructura ferroviaria de la TK n.º 2:
+### ◦en el sentido de marcha del PMD hasta el lugar de la colisión, ninguna huella del uso
+### del dispositivo de arenado del HDV bimotor 131.043-2/131.044-0. La excepción fue la arena de sílice derramada sobre ambos tramos de traviesas, sus elementos de fijación y traviesas en las inmediaciones de los extremos de todos los tubos de las cápsulas de arena del dispositivo de arenado del HDV bimotor. La arena se derramó de las curvas de las cápsulas de arena y las mangueras de arenado terminadas en tubos como consecuencia del golpe producido en la colisión (véase la Fig. n.º 2).
 
 ## Página 17
 
-Fig. n.º 2: Vista de la arena de sílice derramada como consecuencia del golpe producido en la colisión en las inmediaciones de los tubos de las cápsulas de arena del dispositivo de arenado delante de la rueda izquierda del eje 1 y detrás de la rueda izquierda del eje 2 de la HDV de la sección motriz.
+Fig. 2: Vista de la arena de sílice derramada como consecuencia del golpe producido en la colisión en las inmediaciones de las tuberías de las toberas del equipo de arenado delante de la rueda izquierda del eje 1 y detrás de la rueda izquierda del eje 2 del VTM de la sección tractora.
        Fuente: DI
-Tras la concesión del permiso para liberar la vía por el inspector DI (véase más abajo), se realizó con la HDV bitren 131.043-2/131.044-0 un regreso desde el punto de origen del MU hasta la est. Albrechtice u ČT. Debido al daño en la HDV de la sección motriz 131.043-2, para el regreso a la est. Albrechtice u ČT se utilizó únicamente la tracción de la HDV originalmente de la sección final 131.044-0, siendo la HDV de la sección 131.043-2 (de 84,5 t de peso) transportada como inactiva. Dado que la circulación del PMD de regreso desde el punto de origen del MU discurría inicialmente en una pendiente ascendente de hasta 8,1 ‰, y ello sobre carriles que seguían húmedos y contaminados por el material biológico atropellado (hojas), el maquinista utilizó el dispositivo de arenado de la HDV para mejorar la fricción de adherencia entre los carriles y las ruedas. Tras la salida del PMD, desde el punto de uso del dispositivo de arenado, las coronas de ambas bandas de carriles de la TK n.º 2 quedaron cubiertas por una capa continua de arena de sílice parcialmente atropellada (véase la Fig. n.º 3),
-Fig. n.º 3: Vista del punto de inicio del uso del dispositivo de arenado durante la circulación del PMD de regreso desde el punto de origen del MU hasta la est. Albrechtice u ČT.
+Tras la concesión de la autorización para la liberación de la vía por parte del inspector de DI (véase más abajo), se realizó un trayecto con el VTM bitripartito 131.043-2/131.044-0 desde el lugar del origen del MU de vuelta a la estación de Albrechtice u ČT. Debido a los daños sufridos por el VTM de la sección tractora 131.043-2, para el trayecto de vuelta a la estación de Albrechtice u ČT se utilizó únicamente la tracción del VTM originalmente de la sección final 131.044-0, siendo el VTM de la sección 131.043-2 (de un peso de 84,5 t) transportado como inactivo. Dado que el trayecto del PMD de vuelta desde el lugar del origen del MU se realizó inicialmente en rampa de hasta 8,1 ‰, y ello sobre carriles aún húmedos y contaminados por material biológico (hojas) atropellado y depositado, el maquinista utilizó el equipo de arenado del VTM para mejorar la adherencia entre los carriles y las ruedas. Tras la salida del PMD, los cantos de ambas bandas de carril de la vía n.º 2 quedaron cubiertos, desde el punto de utilización del equipo de arenado, por una capa continua de arena de sílice parcialmente atropellada (véase Fig. 3),
+Fig. 3: Vista del punto de inicio de la utilización del equipo de arenado durante el trayecto del PMD desde el lugar del origen del MU de vuelta a la estación de Albrechtice u ČT.
          Fuente: DI
 
-
 ## Página 18
+
 
 ◦en el sentido de circulación del tren Pn 62054 desde el nivel de la señal de tramo AB 2-43 en el km 4,233, a través del punto de inicio de la contaminación continua de las coronas de carriles húmedas con material biológico oscuro atropellado en el km 6,278, hasta el punto de atasco del tren en el km 6,758, no se detectó ninguna huella del uso del dispositivo de arenado de la HDV 181.084-5;
 •
@@ -475,6 +476,7 @@ Como consecuencia de la colisión, en la sección motriz de la HDV se dañaron e
 
 ## Página 19
 
+
 Con la inspección visual de todos los bogies del HDV de dos cuerpos se constató que, durante el derrape de las ruedas que precedió a la aparición de la MU, no se produjeron zonas planas ni soldaduras en las superficies de rodadura de las ruedas;
 •
 En la cabina del maquinista de la sección de cabeza 131.043-2:
@@ -488,8 +490,8 @@ En la cabina del maquinista de la sección de cabeza 131.043-2:
 El maquinista del PMD asumió el control del HDV de dos cuerpos 131.043-2/131.044-0 el día 30. 10. 2021 en la estación de Čadca en el tren Nex 49704,
 ◦El maquinista fue informado por la orden escrita «VŠEOBECNÝ ROZKAZ PRO PMD 858011» (Orden general para PMD 858011), n.º 432639, redactada el día 31. 10. 2021 y emitida en la estación de Albrechtice u ČT. En la fila 1 subrayada se indicaba: «Se autoriza la circulación del PMD en dirección hacia ČESKÝ TĚŠÍN por la vía de tráfico número SEGUNDA». En la fila 3 subrayada se indicaba: «Finalice la circulación del PMD en el km 6,800». Las demás filas no estaban subrayadas ni rellenadas (los textos preimpresos no se completaron). En la sección «Otras órdenes» se indicaba: «VAIS A POR EL TREN ATASCADO 62054 HASTA EL KM 6,8. TRAS LA CONEXIÓN CON EL TREN, CIRCULARÉIS HASTA LA ESTACIÓN ALBRECHTICE U ČESKÉHO TĚŠÍNA COMO TREN 62054»;
 
-
 ## Página 20
+
 
 ◦No se constató nada que impidiera al maquinista observar sin interrupciones la vía y las señales y actuar conforme a los hechos comprobados;
 •
@@ -510,8 +512,8 @@ En el marco de la inspección del PMD, durante el mando del HDV de dos cuerpos d
 La prueba de alcoholemia en el aliento se realizó al maquinista del PMD con resultado negativo.
 El día 9. 11. 2021 se celebró en el Depósito de Locomotoras de Spišská Nová Ves de la empresa ZSSKC una inspección comisionada del HDV de dos cuerpos en cuestión. Tras permitir el acceso seguro a la sala de máquinas del HDV de la sección de cabeza 131.043-2 y retirar los precintos DI intactos de las puertas de acceso a la sala de máquinas de dicha sección por el lado de la cabina del maquinista y de las puertas de comunicación por el lado de la sala de máquinas de la sección de cola 131.044-0, los inspectores DI descargaron en la sala de máquinas de la sección de cabeza los datos registrados por el velocímetro registrador MIREL RM1. De la inspección de la sala de máquinas de la sección de cabeza se constató, entre otros, que las llaves de corte antes y después del freno controlado eléctricamente DAKO-BSE (1062/2 y 1062/3) estaban abiertas, la llave de corte de la parte móvil del sistema de seguridad VZ (1062/4) estaba abierta, las llaves de corte de los cilindros de freno (1064/3 y 1064/4) estaban abiertas, la llave de corte en el cuadro eléctrico de la locomotora DAKO-LTR estaba (en posición vertical) abierta, la llave conmutable N-O estaba en la posición «O» (pasajeros), la llave de corte del arenado (1063/3) estaba abierta.
 
-
 ## Página 21
+
 
 Para las necesidades del análisis posterior de los datos registrados por el RR (véase el punto 3.1.7 de la presente ZZ), cuando era necesario determinar la corrección entre la distancia registrada por el RR y la distancia realmente recorrida por el HDV, se midió, en el marco de dicha inspección, el diámetro real de las ruedas del eje 4.º del HDV de la sección de cabeza (en el que estaba situado el transductor de revoluciones de ruedas del RR electrónico). El diámetro real (desgastado por el servicio) de las ruedas tenía un valor de 1 217 mm; el diámetro de las ruedas configurado en el RR tenía un valor 5 mm mayor.
 Estado del tren atascado Pn 62054:
@@ -532,6 +534,7 @@ De la inspección del HDV 181.084-5 se constató, entre otros:
 ▪El maquinista fue informado por la orden escrita «VŠEOBECNÝ rozkaz pro vlak číslo 62054» (Orden general para el tren número 62054), n.º 0000009-949, redactada el día 30. 10. 2021 a las 23:33 h y emitida en la estación de Český Těšín. Para el tramo entre estaciones Český Těšín – Albrechtice u ČT, la orden no contenía información sobre cambios inmediatos de las condiciones
 
 ## Página 22
+
 
 parámetros de las obras ferroviarias y de las obras en la vía, que deberían tener una influencia directa en la seguridad y la fluidez del tráfico ferroviario;
 ▪no se constató nada que impidiera al maquinista observar sin interferencias la vía y las señales y actuar según los hechos constatados;
@@ -570,6 +573,7 @@ En el MU, el daño causado en el material rodante de tracción, en los component
 No se causó daño en las cosas transportadas ni en otros bienes.
 
 ## Página 23
+
 
 ### 3.1.5 Descripción de otras consecuencias, incluido el impacto del suceso en las actividades regulares de los sujetos implicados
 Como consecuencia del origen del MU se interrumpió la circulación en la vía 2 Český Těšín – Albrechtice u ČT, en el período comprendido entre las 2:35 h del 31. 10. 2021 y las 11:40 h (hora de Europa Central) del mismo día, en que se restableció la circulación en la vía 2.
@@ -611,6 +615,7 @@ El tráfico ferroviario se prestaba en virtud del contrato celebrado entre el ge
 
 ## Página 24
 
+
 | 11 . | CZČDC31546681034 0 - - | P |
 | 12 . | CZČDC31546683656 8 - - | P |
 | 13 . | CZČDC31546679433 8 - - | P |
@@ -646,6 +651,7 @@ El estado real del tren Pn 62054 constatado en el lugar del MU correspondía a l
 Del registro de circulación del tren Pn 62054 registrado por el RR instalado en el MDT 181.084-5, tras redondear los datos temporales a segundos completos, los datos de distancia a metros completos, los datos de velocidad a km·h-1 completos y tras tener en cuenta las desviaciones temporales entre el tiempo registrado por el RR y el tiempo registrado por el TZZ de la vía 2 Český Těšín – Albrechtice u ČT, respectivamente el tiempo registrado por el RR instalado en el PMD, que se consideraron como tiempos de referencia a efectos de la investigación de este MU, entre otros se desprende que:
 
 ## Página 25
+
 
 •
 a las 1:10:30 h
@@ -691,6 +697,7 @@ no se superó la velocidad máxima permitida del tren en el tramo examinado.
 
 ## Página 26
 
+
 | PMD: | n.º 858011 | Composición del PMD: |  | Modo de frenado: |
 | Longitud del PMD (m): | 3442 , | MDT: | 131043 2/1310440 . - . - | P |
 | Número de ejes: | 8 |  |  |  |
@@ -708,6 +715,7 @@ La locomotora de la serie 131 es una locomotora de dos piezas de construcción e
 De los datos registrados por el RR MIREL RM1 instalado en el MDT 131.043-2/131.044-0 sobre la circulación del PMD n.º 858011, tras redondear los datos temporales a segundos completos, los datos de velocidad a km·h-1 completos y los datos de distancia a metros completos, que se multiplicaban por el coeficiente
 
 ## Página 27
+
 
 0,995908347 calculado como la relación entre la media real de las ruedas del eje
 4 y la media establecida en RR (1 217 mm/1 222 mm), y tras tener en cuenta las desviaciones temporales entre el tiempo
@@ -762,8 +770,8 @@ a las 2:33:58 h por el efecto del freno directo de la sección delantera del PMD
 al valor de la velocidad máxima permitida de 20 km·h-1. La cabeza de la
 sección delantera se encontraba a una distancia de 494 m del lugar de la colisión;
 
-
 ## Página 28
+
 
 •
 a las 2:34:00 h registro de la última activación del botón de vigilancia del maquinista de la
@@ -817,166 +825,140 @@ interrupción del suministro de EPV del colector trasero de la sección trasera
 y la posterior interrupción del suministro de la sección trasera desde la línea
 de tracción;
 
-
 ## Página 29
 
 •
-en todo el tramo examinado, el conmutador de control S101 del HDV de la sección delantera
-131.043-2 estaba posicionado en la posición "V" (delantera), el conmutador de
-control S101 de la sección trasera del HDV 131.044-0 estaba posicionado en la
-posición "K" (trasera);
+en todo el tramo examinado, el conmutador de mando S101 del HDV de la sección líder 131.043-2 se encontraba en la posición "V" (líder), el conmutador de mando S101 del HDV de la sección final 131.044-0 se encontraba en la posición "K" (final);
 •
-la parte móvil del VZ estaba encendida y era activada periódicamente por el maquinista en todo
-el tramo examinado;
+la parte móvil del VZ estaba encendida y era operada periódicamente por el maquinista en todo el tramo examinado;
 •
-de acuerdo con la documentación técnica, RR no registraba el uso del dispositivo
-de arenado del HDV (no está conectado).
-### 3.1.8 Descripción de las partes correspondientes de la infraestructura y del sistema de seguridad
-La superestructura de la vía del TK n.º 2 Český Těšín – Albrechtice u ČT estaba formada por raíles
-de ancho de vía ancha de perfil S49, colocadas en 1987 y en los años 2015 a 2019,
-con fijación rígida de las raíles a las traviesas de hormigón SB8 mediante
-zapatillas, con distribución "e". El balasto era de piedra de cantera de fracción
-31,5/63 mm.
-La vía, en el sentido de circulación del PMD, desde el nivel de las señales de entrada 1L y 2L de la est. Albrechtice
-u ČT (válidas para el sentido de circulación contrario del DV) situadas en el km 10,041, discurría:
+de acuerdo con la documentación técnica del RR, no se registraba el uso del dispositivo de arenado del HDV (no está conectado).
+### 3.1.8 Descripción de las partes correspondientes de la infraestructura y del sistema de señalización
+El superestructura del TK n.º 2 Český Těšín – Albrechtice u ČT estaba formada por traviesas de ancho estándar de perfil S49 colocadas en 1987 y en los años 2015 a 2019, con fijación rígida de las traviesas a las traviesas de hormigón SB8 mediante separación "e". El balasto era de piedra de cantera de fracción 31,5/63 mm.
+La vía, en el sentido de circulación PMD desde el nivel de las señales de entrada 1L y 2L de la est. Albrechtice u ČT (válidas para el sentido de circulación contrario DV), situadas en el km 10,041, discurría:
 •
-del km 10,041 al km 9,764 en línea recta, en llano, sobre un terraplén situado fuera del TK n.º 2 [a la izquierda
-de la vía de apartadero "Vlečková síť OKD, Doprava, a.s. - ČSM sever", entre la est. Albrechtice
-u ČT y la estación de apartadero ČSM sever (en adelante, vía de apartadero)] de unos 17,7 m
-de altura y fuera del TK n.º 1 de unos 15,8 m de altura, cuando en el km 9,989 se encontraba un puente
-de acero de 22,6 m de longitud sobre el valle del arroyo Stonávka, tras lo cual el terraplén
-descendía gradualmente;
+del km 10,041 al km 9,764 en tramo recto, en llano, sobre un terraplén fuera del TK n.º 2 [a la izquierda de la vía de la vía privada "Vlečková síť OKD, Doprava, a.s. - ČSM sever", entre la est. Albrechtice u ČT y la estación de vía privada ČSM sever (en adelante, vía de vía privada)] de unos 17,7 m de altura y fuera del TK n.º 1 de unos 15,8 m de altura, encontrándose en el km 9,989 un puente de acero de 22,6 m de longitud sobre el valle del arroyo Stonávka, tras el cual el terraplén descendía gradualmente;
 •
-del km 9,764 al km 9,702 en una transición de arco derecho de radio 674 m,
-en llano, sobre un terraplén situado fuera del TK n.º 2 (a la izquierda de la vía de apartadero) de unos 11,2 m
-de altura y fuera del TK n.º 1 de unos 12,5 m de altura;
+del km 9,764 al km 9,702 en transición de curva derecha de radio 674 m, en llano, sobre un terraplén fuera del TK n.º 2 (a la izquierda de la vía de vía privada) de unos 11,2 m de altura y fuera del TK n.º 1 de unos 12,5 m de altura;
 •
-del km 9,702 al km 9,676 en un arco derecho de radio 674 m, en pendiente
-del 3,45 ‰, sobre un terraplén situado fuera del TK n.º 2 (a la izquierda de la vía de apartadero) y fuera del TK
-n.º 1 de unos 8 m de altura;
+del km 9,702 al km 9,676 en curva derecha de radio 674 m, en pendiente del 3,45 ‰, sobre un terraplén fuera del TK n.º 2 (a la izquierda de la vía de vía privada) y fuera del TK n.º 1 de unos 8 m de altura;
 •
-del km 9,676 al km 9,573 en un arco derecho de radio 674 m, en pendiente
-del 3,45 ‰, sobre un terraplén situado fuera del TK n.º 2 (a la izquierda de la vía de apartadero) de unos 5,9 m
-de altura y fuera del TK n.º 1 de unos 5,5 m de altura, cuando en el km 9,640 se encontraba un puente
-sobre la vía local de la calle Osvobození en el municipio de Albrechtice. Tras el puente el terraplén
-descendía gradualmente, cuando a la derecha de la vía se encontraba una vía de servicio
-que discurría paralela. Hasta el lugar
-de aparición de la MU
-la vía discurría por un terreno arbolado accidentado formado por un bosque
-mixto con predominancia de especies arbóreas caducifolias
-;
+del km 9,676 al km 9,573 en curva derecha de radio 674 m, en pendiente del 3,45 ‰, sobre un terraplén fuera del TK n.º 2 (a la izquierda de la vía de vía privada) de unos 5,9 m de altura y fuera del TK n.º 1 de unos 5,5 m de altura, encontrándose en el km 9,640 un puente sobre la vía local ul. Osvobození en la localidad de Albrechtice. Tras el puente el terraplén descendía gradualmente, encontrándose a la derecha de la vía una vía de servicio que discurría paralela. Hasta el lugar de ocurrencia del MU, la vía discurría por un terreno accidentado y boscoso formado por un bosque mixto con predominio de frondosas caducifolias;
 •
-del km 9,573 al km 9,503 en una transición de arco derecho de radio 674 m, en pendiente
-del 3,45 ‰, sobre un terraplén situado fuera del TK n.º 2 (a la izquierda de la vía de apartadero) de unos 1 m
-de altura y fuera del TK n.º 1 de unos 3 m de altura respecto a una vía de servicio que discurría
-paralela y en ascenso permanente, trazada en un corte de hasta unos 11 m
-de profundidad;
+del km 9,573 al km 9,503 en transición de curva derecha de radio 674 m, en pendiente del 3,45 ‰, sobre un terraplén fuera del TK n.º 2 (a la izquierda de la vía de vía privada) de unos 1 m de altura y fuera del TK n.º 1 de unos 3 m de altura respecto a la vía de servicio que discurría paralela y en pendiente ascendente permanente, trazada en un corte de hasta unos 11 m de profundidad;
 •
-del km 9,503 al km 9,201 en línea recta, en pendiente del 3,45 ‰, sobre un terraplén situado
-fuera del TK n.º 2 (a la izquierda de la vía de apartadero) de unos 1 m de altura, que se transformó
-progresivamente en un corte de hasta 9,1 m de profundidad, y fuera del TK n.º 1 sobre un terraplén
-de unos 0,8 m de altura respecto a una vía de servicio que discurría paralela,
-trazada en un corte de hasta unos 5 m de profundidad;
+del km 9,503 al km 9,201 en tramo recto, en pendiente del 3,45 ‰, sobre un terraplén fuera del TK n.º 2 (a la izquierda de la vía de vía privada) de unos 1 m de altura, que se transformó progresivamente en un corte de hasta 9,1 m de profundidad, y fuera del TK n.º 1 sobre un terraplén de unos 0,8 m de altura respecto a la vía de servicio que discurría paralela, trazada en un corte de hasta unos 5 m de profundidad;
 •
-del km 9,201 al km 8,685 en línea recta, en pendiente del 7,8 ‰, en un corte de
-unos 5,5 m de profundidad fuera del TK n.º 2 (a la izquierda de la vía de apartadero) y fuera del TK n.º 1, situado a nivel
-
+del km 9,201 al km 8,685 en tramo recto, en pendiente del 7,8 ‰, en un corte de unos 5,5 m de profundidad fuera del TK n.º 2 (a la izquierda de la vía de vía privada) y fuera del TK n.º 1 situado al nivel
 
 ## Página 30
 
-con una vía de servicio que discurría paralela, trazada en un corte de hasta
-unos 5 m de profundidad, cuando en el punto del paso a nivel en el km 9,073 la vía,
-junto con la vía de servicio, se encontraba sobre un terraplén de unos 8 m de altura.
-En el km 8,883 se encontraba el comienzo del arco izquierdo de la vía de apartadero
-que discurría sobre un terraplén en dirección a la estación de apartadero ČSM sever, con la
-posterior separación del cuerpo ferroviario del apartadero del cuerpo de la vía
+junto a una vía de servicio paralela transcurrida en un corte de hasta
+aproximadamente 5 m de profundidad, habiendo estado la vía, junto con la
+vía de servicio, en un terraplén de aproximadamente 8 m de altura en el
+lugar del paso a nivel en km 9,073. En km 8,883 se encontraba el inicio
+del arco izquierdo de la vía de apartadero transcurrida sobre el terraplén
+en dirección a la estación de apartadero ČSM sever, con la posterior
+separación del cuerpo ferroviario del apartadero del cuerpo de la vía
 nacional;
 •
-del km 8,685 al km 8,174 en línea recta, en pendiente del 8,3 ‰, sobre un terraplén de
-hasta unos 8,5 m de altura fuera del TK n.º 2 (en el punto del puente en el km 8,187) y fuera del TK n.º 1,
-situado hasta 1,5 m por debajo del nivel de una vía de servicio que discurría paralela y en
-ascenso constante, trazada sobre un terraplén de hasta unos 8,8 m de altura;
+de km 8,685 a km 8,174 en sentido recto, en pendiente del 8,3 ‰, sobre un
+terraplén de altura exterior al TK n.º 2 de hasta aproximadamente 8,5 m (en
+el lugar del puente en km 8,187) y exterior al TK n.º 1, situado hasta 1,5 m
+por debajo del nivel de la vía de servicio paralela y en constante ascenso,
+transcurrida sobre un terraplén de hasta aproximadamente 8,8 m de altura;
 •
-del km 8,174 al km 8,072 en un arco izquierdo de radio 7 996 m sin transiciones, en pendiente
-del 8,3 ‰, sobre un terraplén de unos 4,4 m de altura fuera del TK n.º 2 que pasa a un corte
-de unos 2,7 m de profundidad, y fuera del TK n.º 1, situado entre 1,5 m y 2,1 m por debajo
-del nivel de una vía de servicio que discurría paralela, trazada sobre un terraplén que
-desciende gradualmente de unos 7,6 m a 0,5 m de altura;
+de km 8,174 a km 8,072 en un arco izquierdo de radio 7 996 m sin
+transiciones, en pendiente del 8,3 ‰, sobre un terraplén de altura exterior
+al TK n.º 2 de aproximadamente 4,4 m que pasa a un corte de aproximadamente
+2,7 m de profundidad y exterior al TK n.º 1, situado entre 1,5 m y 2,1 m por
+debajo del nivel de la vía de servicio paralela, transcurrida sobre un
+terraplén que desciende gradualmente de aproximadamente 7,6 m a 0,5 m de
+altura;
 •
-del km 8,072 al km 8,001 en línea recta, en pendiente del 8,3 ‰, en un corte de
-hasta unos 3,8 m de profundidad fuera del TK n.º 2 y fuera del TK n.º 1, situado
-hasta 2,2 m por debajo del nivel de una vía de servicio que discurría paralela,
-trazada a nivel del terreno circundante;
+de km 8,072 a km 8,001 en sentido recto, en pendiente del 8,3 ‰, en un corte
+de profundidad exterior al TK n.º 2 de hasta aproximadamente 3,8 m y
+exterior al TK n.º 1, situado hasta 2,2 m por debajo del nivel de la vía de
+servicio paralela, transcurrida a la altura del terreno circundante;
 •
-del km 8,001 al km 7,591 en línea recta, en pendiente del 2,4 ‰, en un corte de
-hasta unos 6,4 m de profundidad fuera del TK n.º 2 y fuera del TK n.º 1, situado
-hasta 4,9 m por debajo del nivel de una vía de servicio que discurría paralela y en
-ascenso, trazada aproximadamente a nivel del terreno circundante;
+de km 8,001 a km 7,591 en sentido recto, en pendiente del 2,4 ‰, en un corte
+de profundidad exterior al TK n.º 2 de hasta aproximadamente 6,4 m y
+exterior al TK n.º 1, situado hasta 4,9 m por debajo del nivel de la vía de
+servicio paralela y en ascenso, transcurrida aproximadamente a la altura del
+terreno circundante;
 •
-del km 7,591 al km 7,531 en una transición de arco derecho de radio 994 m, en pendiente
-del 2,4 ‰, en un corte de hasta unos 7,0 m de profundidad fuera del TK n.º 2 y fuera del TK n.º 1,
-situado hasta 5,1 m por debajo del nivel de una vía de servicio que discurría paralela y
-en ascenso continuo, trazada a nivel del terreno circundante. Poco antes del km 7,531 la
-vía de servicio giraba a la derecha para el posterior cruce a distinto nivel con la vía;
+de km 7,591 a km 7,531 en una transición de arco derecho de radio 994 m,
+en pendiente del 2,4 ‰, en un corte de profundidad exterior al TK n.º 2 de
+hasta aproximadamente 7,0 m y exterior al TK n.º 1, situado hasta 5,1 m por
+debajo del nivel de la vía de servicio paralela y en continuo ascenso,
+transcurrida a la altura del terreno circundante. Poco antes de km 7,531 la
+vía de servicio giraba a la derecha para el posterior cruce en nivel
+distinto con la vía;
 •
-del km 7,531 al km 7,473 en un arco derecho de radio 994 m, en pendiente del 2,4 ‰,
-en un corte de hasta unos 7,4 m de profundidad fuera del TK n.º 2 y de hasta unos 5,5 m
-fuera del TK n.º 1. En el km 7,473 se encontraba un paso superior carretero – cruce a
-distinto nivel de la vía ferroviaria con una vía de servicio. Desde este paso superior, la vía de
-servicio (camino de campo hacia la calle Malé kempy en el término municipal de la ciudad de
-Karviná, parte Louky), y esto hasta el lugar de aparición de la MU, discurría a lo largo del borde
-izquierdo del corte, es decir, fuera del TK n.º 2;
+de km 7,531 a km 7,473 en un arco derecho de radio 994 m, en pendiente del
+2,4 ‰, en un corte de profundidad exterior al TK n.º 2 de hasta
+aproximadamente 7,4 m y exterior al TK n.º 1 de hasta aproximadamente 5,5 m.
+En km 7,473 se encontraba un paso superior – cruce en nivel distinto de la
+vía ferroviaria con la vía de servicio. Desde este paso superior, la vía de
+servicio (camino de campo hacia la c/ Malé kempy en el término municipal de
+la ciudad de Karviná, parte Louky), hasta el lugar de ocurrencia del MU,
+transcurría a lo largo del borde izquierdo del corte, es decir, exterior al
+TK n.º 2;
 •
-del km 7,473 al km 7,270 (a través del km 7,380, es decir, el lugar de comienzo de la visibilidad
-ininterrumpida de la parte frontal del tren atascado situado en el km 6,758) en un arco derecho
-de radio 994 m, en bajada del 7,07 ‰, en un corte cuya profundidad, tras el paso superior
-carretero fuera del TK n.º 2, descendió gradualmente hasta unos 6,2 m y fuera del TK n.º 1
-aumentó hasta unos 5,6 m;
+de km 7,473 a km 7,270 (a través de km 7,380, es decir, el lugar de inicio
+de la visibilidad ininterrumpida del frontal del tren encallado detenido en
+km 6,758) en un arco derecho de radio 994 m, en pendiente del 7,07 ‰, en un
+corte cuya profundidad disminuyó gradualmente tras el paso superior
+exterior al TK n.º 2 hasta aproximadamente 6,2 m y aumentó exterior al TK
+n.º 1 hasta aproximadamente 5,6 m;
 •
-del km 7,270 al km 7,220 en una transición de arco derecho de radio 994 m,
-en bajada del 7,07 ‰, en un corte cuya profundidad era de unos 6,2 m fuera del TK n.º 2 y de
-unos 5,4 m fuera del TK n.º 1;
+de km 7,270 a km 7,220 en una transición de arco derecho de radio 994 m,
+en pendiente del 7,07 ‰, en un corte cuya profundidad era exterior al TK
+n.º 2 de aproximadamente 6,2 m y exterior al TK n.º 1 de aproximadamente
+5,4 m;
 •
-del km 7,220 al km 7,199 en línea recta, en bajada del 7,07 ‰, en un corte cuya
-profundidad era de unos 6,2 m fuera del TK n.º 2 y de unos 5,4 m fuera del TK n.º 1;
+de km 7,220 a km 7,199 en sentido recto, en pendiente del 7,07 ‰, en un
+corte cuya profundidad era exterior al TK n.º 2 de aproximadamente 6,2 m y
+exterior al TK n.º 1 de aproximadamente 5,4 m;
 •
-del km 7,199 al lugar de aparición de la MU en el km 6,758 en línea recta, en bajada del 8,1 ‰,
-en un corte fuera de ambos TK de hasta unos 11,5 m de profundidad.
+de km 7,199 al lugar de ocurrencia del MU en km 6,758 en sentido recto, en
+pendiente del 8,1 ‰, en un corte de profundidad exterior a ambos TK de
+hasta aproximadamente 11,5 m.
 
 ## Página 31
 
-La vía (TK n.º 2 Český Těšín – Albrechtice u ČT) en el sentido de circulación del tren Pn 62054 estaba conducida desde el nivel de la señal de sección AB 2-43 en el pk 4,233:
+La vía (TK n.º 2 Český Těšín – Albrechtice u ČT) en el sentido de circulación del tren Pn 62054 estuvo trazada desde el nivel de la señal de bloqueo de sección AB 2-43 en el pk 4,233:
 •
-del pk 4,233 al pk 4,765, excepto dos curvas de sentido contrario de radio 2 000 m sin transiciones unidas por un tramo recto de 61 m, en sentido recto, en descenso de hasta 3,3 ‰, sobre un terraplén justo por encima del nivel del terreno circundante;
+del pk 4,233 al pk 4,765, con excepción de dos arcos de sentido contrario de radio 2 000 m sin transiciones unidos por un raíl directo de 61 m de longitud, en tramo recto, en descenso de hasta 3,3 ‰, sobre un terraplén ligeramente por encima del nivel del terreno circundante;
 •
-del pk 4,765 al pk 4,831 en una transición de curva derecha de radio 790 m, en descenso de 2,34 ‰, sobre un terraplén justo por encima del nivel del terreno circundante;
+del pk 4,765 al pk 4,831 en transición de arco derecho de radio 790 m, en descenso de 2,34 ‰, sobre un terraplén ligeramente por encima del nivel del terreno circundante;
 •
-del pk 4,831 al pk 4,863 en curva derecha de radio 790 m, en descenso de 2,34 ‰, sobre un terraplén justo por encima del nivel del terreno circundante;
+del pk 4,831 al pk 4,863 en arco derecho de radio 790 m, en descenso de 2,34 ‰, sobre un terraplén ligeramente por encima del nivel del terreno circundante;
 •
-del pk 4,863 al pk 5,004 en curva derecha de radio 790 m, en pendiente de 6,73 ‰, sobre un terraplén creciente de hasta unos 1,4 m de altura;
+del pk 4,863 al pk 5,004 en arco derecho de radio 790 m, en pendiente ascendente del 6,73 ‰, sobre un terraplén creciente de hasta unos 1,4 m de altura;
 •
-del pk 5,004 al pk 5,013 en curva derecha de radio 790 m, en pendiente de 7,1 ‰, sobre un terraplén creciente de hasta unos 2,7 m de altura;
+del pk 5,004 al pk 5,013 en arco derecho de radio 790 m, en pendiente ascendente del 7,1 ‰, sobre un terraplén creciente de hasta unos 2,7 m de altura;
 •
-del pk 5,013 al pk 5,079 en una transición de curva derecha de radio 790 m, en pendiente de 7,1 ‰, sobre un terraplén creciente de hasta unos 3,2 m de altura;
+del pk 5,013 al pk 5,079 en transición de arco derecho de radio 790 m, en pendiente ascendente del 7,1 ‰, sobre un terraplén creciente de hasta unos 3,2 m de altura;
 •
-del pk 5,079 al pk 5,109 en sentido recto, en pendiente de 7,1 ‰, sobre un terraplén creciente de hasta unos 3,4 m de altura;
+del pk 5,079 al pk 5,109 en tramo recto, en pendiente ascendente del 7,1 ‰, sobre un terraplén creciente de hasta unos 3,4 m de altura;
 •
-del pk 5,109 al pk 5,268 en sentido recto, en pendiente de 7,9 ‰, sobre un terraplén creciente de hasta unos 5,1 m de altura;
+del pk 5,109 al pk 5,268 en tramo recto, en pendiente ascendente del 7,9 ‰, sobre un terraplén creciente de hasta unos 5,1 m de altura;
 •
-del pk 5,268 al pk 5,306 en sentido recto, en pendiente de 7 ‰, sobre un terraplén creciente de hasta unos 5,4 m de altura;
+del pk 5,268 al pk 5,306 en tramo recto, en pendiente ascendente del 7 ‰, sobre un terraplén creciente de hasta unos 5,4 m de altura;
 •
-del pk 5,306 al pk 6,058 en curva izquierda de radio 450 m con transiciones, en pendiente de 7 ‰, sobre un terraplén que seguía aumentando de hasta unos 12 m de altura, donde en el pk 5,872 se encontraba un puente sobre la carretera I/67, sobre el extremo de Louky de la est. Louky nad Olší y sobre la vía local ul. Ke Statku en el término municipal de Karviná, parte de Louky, de 142 m de longitud;
+del pk 5,306 al pk 6,058 en arco izquierdo de radio 450 m con transiciones, en pendiente ascendente del 7 ‰, sobre un terraplén en continuo aumento de hasta unos 12 m de altura, donde en el pk 5,872 se encontraba un puente sobre la carretera I/67, sobre la cabecera de ČT de la estación Louky nad Olší y sobre la vía local ul. Ke Statku en el término municipal de Karviná, parte de Louky, de 142 m de longitud;
 •
-del pk 6,058 al pk 6,275, en sentido recto, en pendiente de 7 ‰, sobre un terraplén que pasa suavemente a una zanja exterior a la TK n.º 2 de hasta unos 12,2 m de profundidad y exterior a la TK n.º 1 de hasta unos 12,8 m, que al final de este tramo pasaba a un corte previo a un paso inferior (véase más abajo). Hasta el lugar de origen del MU, la vía discurría por una zona boscosa formada por un bosque mixto con predominio de frondosas caducifolias;
+del pk 6,058 al pk 6,275, en tramo recto, en pendiente ascendente del 7 ‰, sobre un terraplén que pasa suavemente a una zanja exterior a la TK n.º 2 de hasta unos 12,2 m de profundidad y exterior a la TK n.º 1 de hasta unos 12,8 m, que al final de este tramo pasaba a un corte previo al paso inferior (véase más abajo). Hasta el lugar de origen del MU, la vía estuvo trazada por una zona arbolada formada por un bosque mixto con predominio de especies arbóreas caducifolias;
 •
-del pk 6,275 al pk 6,310 en sentido recto, en pendiente de 8 ‰, a través de un paso inferior en el pk 6,277, en un corte exterior a la TK n.º 2 de hasta unos 8,1 m de altura y exterior a la TK n.º 1 de hasta unos 10 m de profundidad;
+del pk 6,275 al pk 6,310 en tramo recto, en pendiente ascendente del 8 ‰, a través del paso inferior en el pk 6,277, en un corte exterior a la TK n.º 2 de hasta unos 8,1 m de altura y exterior a la TK n.º 1 de hasta unos 10 m de profundidad;
 •
-del pk 6,310 al pk 6,507 en una transición de curva derecha y en curva derecha de radio 743 m, en pendiente de 8 ‰, en un corte exterior a la TK n.º 2 de hasta unos 8,3 m de altura en el lugar del paso inferior en el pk 6,379 y exterior a la TK n.º 1 de hasta unos 9 m de profundidad, que pasaba a un terraplén de puente en el pk 6,482 de 6 m de longitud sobre una vía de servicio en el término municipal de Karviná, parte de Louky;
+del pk 6,310 al pk 6,507 en transición de arco derecho y en arco derecho de radio 743 m, en pendiente ascendente del 8 ‰, en un corte exterior a la TK n.º 2 de altura en el lugar del paso inferior en el pk 6,379 de hasta unos 8,3 m y exterior a la TK n.º 1 de hasta unos 9 m de profundidad, que pasaba a un terraplén de puente en el pk 6,482 de 6 m de longitud sobre una vía de servicio en el término municipal de Karviná, parte de Louky;
 •
-del pk 6,507 al pk 6,682 en curva derecha de radio 743 m y en una transición de curva derecha, en pendiente de 7,25 ‰, sobre el terraplén tras el puente en el pk 6,482, que pasaba suavemente a una zanja exterior a la TK n.º 2 de hasta unos 9 m de profundidad y exterior a la TK n.º 1 de hasta unos 9 m de profundidad. Desde el pk 6,600 y hasta el lugar de origen del MU discurría, a lo largo del borde derecho de la zanja, es decir, exterior a la TK n.º 2, una vía de servicio terrestre (hacia ul. Velké kempy y ul. Malé kempy en el término municipal de Karviná, parte de Louky);
-
+del pk 6,507 al pk 6,682 en arco derecho de radio 743 m y transición de arco derecho, en pendiente ascendente del 7,25 ‰, sobre el terraplén tras el puente en el pk 6,482, que pasaba suavemente a una zanja exterior a la TK n.º 2 de hasta unos 9 m de profundidad y exterior a la TK n.º 1 de hasta unos 9 m de profundidad. Desde el pk 6,600 y hasta el lugar de origen del MU, por el borde derecho de la zanja, es decir, exterior a la TK n.º 2, discurría una vía de servicio terrestre (hacia ul. Velké kempy y ul. Malé kempy en el término municipal de Karviná, parte de Louky);
 
 ## Página 32
+
 
 •
 del pk 6,682 al pk 6,738, en sentido recto, en pendiente de 7,25 ‰, y del pk 6,738 al lugar de origen del MU en el pk 6,758, en pendiente de 8,1 ‰, en una zanja de hasta unos 11,5 m de profundidad exterior a ambas TK.
@@ -1016,8 +998,8 @@ a las 2:30:36 h el PMD n.º 858011 pasó el nivel de la señal de sección AB 2-
 •
 a las 2:32:47 h el PMD n.º 858011 pasó íntegramente el nivel de la señal de sección AB 2-78, es decir, liberó el KO 2T9 CT-AL y se encontraba íntegramente en el KO 2T8 CT-AL ocupado por el tren Pn 62054 varado.
 
-
 ## Página 33
+
 
 ### 3.1.9 Cualquier otra información relevante para los fines de la descripción del suceso y de la información básica
 Resumen de las explicaciones facilitadas por los empleados del gestor de la infraestructura y del transportista, incluidas las personas en relación contractual:
@@ -1045,8 +1027,8 @@ maquinista del PMD n.º 858011
 ◦conocía las condiciones de vía en las instalaciones y en las líneas de toda la línea Český Těšín – Ostrava-Kunčice;
 ◦el inicio del turno fue en Čadca (República Eslovaca) el 30. 10. 2021 a las 20:10 h, donde asumió la conducción de la HDV 131.043-2/131.044-0, se le asignó la realización del servicio en el tren Nex 49704 hasta Třinec. Antes de partir de la est. Čadca realizó una comprobación del funcionamiento del dispositivo de arenado sin detectar anomalías;
 
-
 ## Página 34
+
 
 ◦desde la est. Třinec circuló como tren de locomotoras Lv 52991 hasta la est. Albrechtice u ČT. Desde la est. Český Těšín circuló por la TK n.º 1 odb. Chotěbuz – Český Těšín y por la TK n.º 1 Albrechtice u ČT – odb. Chotěbuz. En la TK n.º 2 Český Těšín – Albrechtice u ČT vio, entre otros, detenido el tren Pn 62054 varado. Tras su llegada a la est. Albrechtice u ČT, donde se detuvo hacia las 2:18 h, el jefe de estación de la est. Albrechtice u ČT fue informado mediante una orden escrita para el PMD n.º 858011. El contenido de la orden autorizaba la circulación del PMD por la TK n.º 2 en dirección a Český Těšín para el tren varado. La circulación del PMD debía finalizar en el pk 6,8;
 ◦el jefe de estación de la est. Albrechtice u ČT fue advertido con las palabras «Cuidado, que resbala» sobre las condiciones de adherencia deterioradas en el lugar de varadura del tren Pn 62054;
@@ -1063,6 +1045,7 @@ maquinista del PMD n.º 858011
 ◦las muy malas condiciones de adherencia, según él, las acredita la ausencia de zonas planas en las superficies de rodadura de las ruedas de la HDV de dos cuerpos, que no se formaron en las superficies de rodadura antes del origen del MU, cuando la HDV recorrió con derrape unos 450 m.
 
 ## Página 35
+
 
 •
 maquinista del tren Pn 62054
@@ -1115,8 +1098,8 @@ cual no se había designado ninguna otra misión tras su llegada a la est. Třin
 número de tren Lv 52991, bajo el cual circularía hasta la est. Albrechtice u ČT. Posteriormente,
 ya no se comunicó con dicho maquinista.
 
-
 ## Página 36
+
 
 ### 3.2 Descripción fáctica del suceso
 ### 3.2.1 Secuencia de hechos que condujeron al suceso extraordinario
@@ -1175,8 +1158,8 @@ A las 2:27:04 h el maquinista del PMD n.º 858011 puso el HDV en marcha en la es
 Albrechtice u ČT en dirección a la TK n.º 2. La circulación del PMD fue conducida desde
 la cabina del maquinista del HDV por el jefe de sección 131.043-
 
-
 ## Página 37
+
 
 2. A las 2:32:42 h el frente del HDV de la sección de cabeza, que circulaba a una velocidad
 de 27 km·h-1, se encontraba en el pk 7,800, es decir, en el punto de inicio del tramo de los
@@ -1240,6 +1223,7 @@ colisión durante la posterior circulación en derrape en un recorrido de 476 m,
 
 ## Página 38
 
+
 ### 3.2.2 Secuencia de hechos desde la aparición de la incidencia hasta la finalización de las acciones de los servicios de rescate
 •
 2:35 h
@@ -1274,16 +1258,16 @@ El plan del sistema integrado de protección no fue activado dada la naturaleza 
 El operador ferroviario SŽ y el transportista ČDC cuentan con un sistema de garantía de seguridad adoptado con base en las disposiciones de la Ley n.º 266/1994 Sb., cuyo contenido incluye, entre otros, la organización marco y el método establecido para la realización de inspecciones y mediciones de las obras ferroviarias para garantizar la aptitud de la vía y la seguridad del transporte ferroviario, la emisión y ejecución de instrucciones y el uso de DV para la circulación. Las locomotoras de apoyo deben circular por la TK ocupada por el tren estancado en calidad de PMD. Si la TK se vuelve intransitable de forma inesperada en algún punto, el empleado que haya detectado el punto intransitable deberá comunicar el caso de inmediato a las jefas de estación de ambas estaciones adyacentes y, de ser posible, también a todos los puestos de línea. En la comunicación indicará la ubicación del punto intransitable, la causa y el alcance de la intransitabilidad.
 La persona que dirige el transporte ferroviario, es decir, también el despachador de línea 2H CDP Přerov y la jefa de estación de Albrechtice u ČT, al organizar y dirigir el transporte ferroviario y conforme a las disposiciones pertinentes de las normas internas del operador ferroviario SŽ, está, entre otras, obligada a respetar el método y las condiciones para la explotación de la vía, la dirección del transporte ferroviario, el seguimiento de los DV, el seguimiento de la capacidad de tráfico de la vía, la dirección operativa del transporte ferroviario y, en la explotación de la vía para la dirección del transporte ferroviario, a utilizar las dependencias derivadas del funcionamiento del SZZ y del TZZ en servicio. En las
 
-
 ## Página 39
+
 
 actividades relacionadas con la explotación del SZZ y del TZZ debe cumplir siempre también el conjunto de maniobras de tráfico y procedimientos de trabajo establecidos en las normas internas del operador ferroviario.
 En caso de estancamiento de un tren en la línea, el transportista (el maquinista del tren en cuestión) está obligado a informar al operador ferroviario (a la jefa de estación correspondiente o, en su caso, al despachador de línea DOZ) de la situación producida. Si el maquinista solicita locomotoras de apoyo, su salida a la línea abierta para el tren estancado se realiza en forma de PMD con locomotoras especiales, locomotoras circulando de forma autónoma o con elementos de maniobra, si bien, frente a la circulación autorizada de trenes, el PMD solo podrá realizarse en el caso en que sea necesario retirar de la línea un tren cuyo maquinista haya solicitado locomotoras de apoyo. Cada circulación de PMD deberá ser acordada por la jefa de estación desde la que el PMD salga hacia la línea abierta con la jefa de la estación adyacente (o con el despachador de línea DOZ). Al acordar la circulación de PMD, la jefa de estación comunicará a la jefa de estación adyacente (o al despachador de línea DOZ) el número de PMD [seis dígitos en el formato 8xxxxx, donde xxxxx es el número de PMD asignado por el sistema de información de registro de números – si no es posible asignar un número de PMD de este sistema, la jefa de estación deberá solicitar la asignación del número de PMD al jefe de despacho correspondiente], hasta dónde se desplazará, en qué TK, el tiempo de maniobra autorizado y si continuará hasta la estación adyacente o, en su caso, que este DV no afecta de forma fiable a la KO. Sobre el acuerdo de la circulación de PMD, incluida la indicación de su número, que debe constar en todas las comunicaciones relacionadas con la circulación de PMD, ambos empleados que lo acuerden realizarán una anotación en la documentación de tráfico correspondiente (el diario de tráfico), en la que se registra el desarrollo de la dirección del transporte ferroviario, es decir, los datos sobre las circulaciones de trenes y de PMD. Una vez acordada la circulación, la jefa de estación comunicará a la estación adyacente si se trata de una circulación de locomotora, de elemento de maniobra o de SHV (incluido su tipo), e indicará el tipo de enlace de radio ferroviario mediante el que el maquinista del PMD se comunicará con la jefa de estación. Solo una vez acordada la circulación de PMD con la jefa de estación adyacente (o con el despachador de línea DOZ), la jefa de estación desde la que saldrá el PMD podrá emitir al maquinista una orden escrita «ORDEN GENERAL para PMD». El maquinista deberá tomar conocimiento del contenido de la orden escrita para PMD de forma acreditada, es decir, mediante firma, y a continuación esperar la instrucción mediante la que la jefa de estación dé la conformidad para la maniobra de salida del PMD hacia la línea abierta. La jefa de estación no podrá dar la conformidad para la maniobra de salida del PMD antes de la hora de salida comunicada. Si la locomotora de apoyo procedía de la estación delantera y el tren continúa su circulación en la dirección original, la jefa de estación, tras comprobar que el tren ha llegado completo (mediante la observación de la señal «Fin de tren»), dará tras el tren el aviso de llegada a la jefa de estación (o al despachador de línea DOZ) de la estación trasera. Además del aviso de llegada tras el tren, dará también el mensaje de finalización de la circulación de PMD y de liberación de la TK.
 Ni las normas jurídicas ni las tecnológicas del operador ferroviario SŽ regulan el ámbito de garantía de la circulabilidad de la línea en relación con los valores límite (mínimos) del coeficiente de adherencia necesarios para la puesta en marcha o la detención de un tren (PMD). El motivo es la imposibilidad teórica y práctica del operador ferroviario de monitorizar de forma continua los valores reales del coeficiente de adherencia en un lugar determinado y en el tiempo real, lo que influye directamente en el límite de adherencia. Para eliminar los valores reducidos del coeficiente de adherencia necesarios para la puesta en marcha o la detención (véase más abajo), las locomotoras y los DV de mando están equipados con equipos de areneado que se activan de forma automática o mediante la manipulación del elemento de control correspondiente del DV por parte del maquinista, lo que también se aplica a las locomotoras de la serie 131.
 Para mayor claridad es necesario indicar que el límite de adherencia es el estado en el que no es posible aumentar más la fuerza de tracción o de frenado en la periferia de la rueda debido a la aparición de patinaje o derrape de las ruedas. Para que no se produzca derrape, la fuerza de adherencia en la periferia de la rueda (FA) debe ser mayor, o en el caso extremo igual, que la fuerza de frenado en la periferia de la rueda (FB). En caso contrario se produce el derrape de la rueda sobre el raíl y el efecto de frenado disminuye, ya que el coeficiente de fricción de derrape entre la rueda y el raíl es menor que el coeficiente de adherencia. El derrape es el estado en el que las ruedas del DV no giran durante su circulación – se trata
 
-
 ## Página 40
+
 
 de un estado indeseado debido al alargamiento de la distancia de frenado y al riesgo de aparición de zonas planas y soldaduras en la superficie de rodadura de las ruedas.
 Al frenar con freno de zapatas neumático, la zapata de freno se presiona contra la rueda con una fuerza (P). Entre la zapata y la superficie de rodadura de la rueda se produce fricción de derrape. La fuerza de frenado (FB) generada por la fricción actúa en sentido contrario al de giro de la rueda, siendo su magnitud dada por la relación FB = P · f, donde:
@@ -1307,6 +1291,7 @@ El equipo de areneado del DV solo puede activarse para compensar la influencia d
 
 ## Página 41
 
+
 •
 cantidad máxima permitida de arena suelta por un esparcidor durante 30 s, para velocidades inferiores a 140 km·h-1, 400 g, no obstante, como máximo 500 g,
 •
@@ -1316,8 +1301,8 @@ La persona que conduce la DV, es decir, también el maquinista del tren Pn 62054
 Pn 62054 – En caso de que el tren quede atascado en la vía, el transportista (maquinista) está obligado a informar al gestor de la infraestructura (el jefe de estación, el despachador de vía DOZ) de la situación producida. Toda la información transmitida debe comunicarse de forma unívoca y comprensible. Para la notificación se utilizará preferentemente el equipo de telecomunicaciones (normalmente RDST – GSM-R), que según las Tablas de condiciones de vía es la conexión básica en el tramo de vía en cuestión. Si la conexión básica no está disponible, se utilizará una sustitutiva, por ejemplo la red de radio local o el teléfono móvil. El maquinista debe comunicar al jefe de estación el lugar en la vía (posición kilométrica del frente del tren) en el que quedó atascado con el tren. Si el maquinista solicita una HDV de asistencia, no puede continuar con el tren atascado en la marcha sin el consentimiento del jefe de estación de la estación anterior.
 PMD n.º 858011 – Durante la marcha del PMD el maquinista debe cumplir siempre las condiciones para la marcha según las condiciones de visibilidad. Por marcha según las condiciones de visibilidad se entiende aquel modo de marcha en el que la marcha de la DV se dirige únicamente por la visibilidad del maquinista del PMD, de modo que la sección de maniobras se detenga antes de otra DV que amenace su marcha, es decir, también antes de las DV detenidas del tren atascado y, en la medida de lo posible, antes de otro obstáculo. Asimismo, teniendo en cuenta las limitaciones de velocidad permanentes o transitorias que pudieran existir, el maquinista del PMD con una HDV que circula de forma independiente, en marcha para el tren atascado, puede circular a una velocidad máxima de 40 km·h-1 y en el tramo de los últimos 1 000 m antes del lugar de atasco indicado en la orden escrita para el PMD, como máximo a una velocidad de 20 km·h-1. Para la posibilidad de acoplarse a las DV atascadas rigen las mismas condiciones que en las maniobras. Tras el acoplamiento de la HDV del PMD con las DV del tren atascado, el maquinista puede, según las condiciones acordadas por los jefes de estación de las estaciones vecinas o, en su caso, por el despachador de vía DOZ, al acordar la marcha del PMD y los hechos indicados en la orden escrita V PMD, continuar con el tren hasta la estación vecina como PMD o circular en el sentido original de marcha del tren atascado como tren, siempre que la marcha del PMD sea acordada por los jefes de estación de las estaciones vecinas hasta el kilómetro de vía libre donde el PMD finalice su marcha. En el caso de que el PMD finalice su marcha en un kilómetro de vía libre y el frente del tren atascado se encuentre en una posición kilométrica más allá del lugar en la vía hasta el que se acordó la marcha del PMD, el maquinista del PMD solicitará al jefe de estación instrucciones para la marcha posterior, debiendo comunicar al jefe de estación, entre otros datos, dónde desea realizar maniobras, la duración de las maniobras y dónde desea finalizar la marcha del PMD.
 
-
 ## Página 42
+
 
 Nota DI.: la marcha del PMD n.º 858011 más allá del km 6,800, hasta el que se acordó la marcha del PMD, no puede valorarse de forma aislada, en el caso de esta MU concreta, como incumplimiento de las disposiciones legales y normas internas del gestor de la infraestructura y del transportista, porque la marcha del PMD desde ese kilómetro hasta el lugar de la colisión con el tren atascado Pn 62054 en el km 6,758 se realizó en continuación de la marcha anterior por derrape, es decir, no por voluntad del maquinista (véase más abajo y el punto 4.3.1 de esta ZZ).
 Si el lugar de atasco del tren no es conocido por el maquinista que solicita el PMD, el maquinista puede, teniendo en cuenta las limitaciones de velocidad permanentes o transitorias que pudieran existir, circular con el PMD a una velocidad máxima de 20 km·h-1, debiendo cumplir siempre las condiciones para la marcha según las condiciones de visibilidad. Las señales de sección AB no son válidas para la marcha del PMD. El PMD debe estar señalizado como tren, ser frenado de forma continua y el último DV debe tener activo y operativo el freno de aire.
@@ -1334,8 +1319,8 @@ Si es necesaria la detención inmediata de la DV por la razón de evitar un peli
 El maquinista del PMD n.º 858011 fue advertido, antes de salir hacia la TK n.º 2 Český Těšín – Albrechtice u ČT, por el jefe de estación de Albrechtice u ČT, sobre las condiciones de adherencia deterioradas en el lugar de atasco del tren Pn 62054. A pesar de ello, eligió un modo de marcha con el que, en el tramo de los últimos 1 000 m antes del lugar de atasco del tren Pn 62054 en el km 6,800, indicado en la orden escrita para el PMD n.º 858011, excedió la velocidad máxima permitida del PMD de 20 km·h-1 (véase la constatación antes mencionada) y, al frenar en el lugar con el coeficiente de adherencia reducido necesario para detenerse antes del lugar de atasco del tren Pn 62054 en el km 6,800, indicado en la orden escrita para el PMD n.º 858011, no previno el peligro de derrape de las ruedas activando el dispositivo de esparcido de arena de la HDV. Durante el derrape posterior en una distancia de 476 m, que duró los suficientes 77 s, tampoco activó el maquinista el dispositivo de esparcido de arena de la HDV, ni siquiera para evitar el peligro inminente – la colisión con el tren atascado en el km 6,758 (véase también el punto 4.3.1 de esta ZZ).
 La no activación del dispositivo de esparcido de arena de la HDV bicompuesta 131.043-2/131.044-0 no solo la acredita la ausencia de rastros de su uso en las cabezas de los carriles y en las demás partes del supraestructura de la TK n.º 2, constatada visualmente mediante la inspección del lugar del MU (véase el punto 3.1.3 de esta ZZ), sino también las conclusiones contenidas en el Acta de análisis de muestras, según las cuales las muestras de rozaduras tomadas de las superficies recorridas de la TK n.º 2 diferían por la ausencia de aluminio de las muestras de arena tomadas del dispositivo de esparcido de arena de la HDV 131.043-2/131.044-0, en el que se encontraba en la arena de sílice.
 
-
 ## Página 43
+
 
 En caso de activación del dispositivo de esparcido de arena de la HDV bicompuesta 131.043-2/131.044-0 circulando hacia delante con la HDV de la sección de cabeza 131.043-2 durante 30 s, se habría vertido sobre el carril izquierdo de la TK n.º 2 7,95 kg (lo que es 5,95 kg más de lo permitido por las disposiciones legales y normas internas del gestor de la infraestructura) y sobre el carril derecho 7,06 kg (lo que es 5,06 kg más de lo permitido por las disposiciones legales y normas internas del gestor de la infraestructura) de arena de sílice (véase el punto 4.2.4 de esta ZZ). Dicha cantidad de arena habría conducido, en combinación con la posible manipulación correspondiente de los frenistas de la HDV, con fiabilidad a la recuperación del rodamiento de las ruedas y a la obtención del correspondiente efecto de frenado, y con ello a la detención segura del PMD aún antes del lugar de la colisión.
 ### Constataciones:
@@ -1364,6 +1349,7 @@ art. 2022 de la norma interna SŽDC D1:
 
 ## Página 44
 
+
 •
 art. 4.3.1.4 de la Directriz KVs3-B-2010:
 «Al frenar un tren y:
@@ -1385,8 +1371,8 @@ El maquinista de la PMD n.º 858011, desde el lugar de inicio del tramo de los �
 ### Hallazgos:
 En la investigación se constató la infracción de normativa legal y normativa interna relativa a las funciones y obligaciones del transportista ČDC, al margen de la relación causal con la aparición de la MU:
 
-
 ## Página 45
+
 
 •
 § 35 apartado 1 letra a) de la Ley n.º 266/1994 Sb.:
@@ -1413,8 +1399,8 @@ En la investigación no se constató infracción de las funciones y obligaciones
 ### 4.1.4 Autoridades nacionales de seguridad y Agencia Ferroviaria de la Unión Europea
 La autoridad nacional de seguridad es el DÚ, que de acuerdo con la Ley n.º 266/1994 Sb. es la autoridad administrativa dependiente del Ministerio de Transportes. Su función es, entre otras, el ejercicio de la supervisión estatal en materia de ferrocarriles y en materia de autoridad de obra civil, el ejercicio de la autoridad de obra civil especial para construcciones ferroviarias y construcciones en la infraestructura ferroviaria, la aprobación de DV nuevas y modernizadas y de instalaciones técnicas designadas, y la tramitación de infracciones. La obligación del DÚ es comunicar al DI, en el plazo de 12 meses desde la fecha de publicación del informe final que contenga las recomendaciones de seguridad dirigidas a él, qué medida ha adoptado en relación con dicha recomendación de seguridad, realizando esta comunicación de forma regular, al menos una vez al año, hasta la adopción de las medidas correspondientes.
 
-
 ## Página 46
+
 
 La función de la Agencia Ferroviaria de la Unión Europea es, además de garantizar, en el marco de sus competencias, que se mantenga generalmente y, en la medida de lo posible, se aumente de forma sistemática la seguridad ferroviaria, entre otras, la emisión, renovación, suspensión y modificación de certificados únicos de seguridad, la limitación de su vigencia o su cancelación, en cuestión en la que coopera con las autoridades nacionales de seguridad; además emite autorizaciones para la comercialización de vehículos ferroviarios y de tipos de vehículos, y está facultada para renovar, modificar, suspender o cancelar las autorizaciones que haya emitido. La Agencia evalúa asimismo los proyectos de normativa nacional, etc.
 En la investigación no se constató infracción de las funciones y obligaciones de la autoridad nacional de seguridad y de la Agencia Ferroviaria de la Unión Europea.
@@ -1432,8 +1418,8 @@ En la investigación no se identificaron factores derivados de la instalación y
 ### 4.2.3 Factores o consecuencias relacionados con los fabricantes de vehículos ferroviarios u otros proveedores de productos ferroviarios
 En la investigación no se identificaron factores relacionados con los fabricantes de DV ni con otros proveedores de productos ferroviarios.
 
-
 ## Página 47
+
 
 ### 4.2.4 Factores o consecuencias derivados del mantenimiento y la modificación de vehículos ferroviarios o de instalaciones técnicas
 El 1. 11. 2021 el DI, en las instalaciones del transportista ČDC, del Centro de reparaciones de vehículos ferroviarios de Ostrava, determinó la cantidad de arena esparcida por un arenador de la HDV 131.043-2/131.044-0 durante 30 s, y ello en todos los dispositivos de arenado de la HDV tenidos en cuenta, habiendo sido accionado el dispositivo de arenado desde la cabina del maquinista de la HDV de la sección principal en el momento de la aparición de la MU, es decir, desde la sección principal 131.043-2.
@@ -1459,6 +1445,7 @@ Al accionar la palanca de dirección del controlador a la posición hacia atrás
 La cantidad de arena esparcida por un arenador de la HDV de dos piezas 131.043-2/131.044-0 superaba la cantidad máxima permitida de 0,5 kg en 30 s (para velocidades inferiores a 140 km·h-1) hasta en 3,26 kg, lo que, tras la activación del dispositivo de arenado, podía impedir la transferencia completa de la corriente de retorno de las ruedas a los raíles y podía comprometer el correcto funcionamiento de la KO, en particular la indicación de ocupación de la vía.
 
 ## Página 48
+
 
 ### Hallazgos:
 Durante la investigación se constató el incumplimiento de la normativa legal y de las normas internas relativas a las funciones
@@ -1501,60 +1488,20 @@ El DI, en el marco de la investigación de las características humanas e indivi
 profesional de las personas participantes en el SU que realizan la explotación de la vía o que ejecutan el transporte
 ferroviario, con posible influencia en su actuación.
 
-
 ## Página 49
 
-Dadas las causas y circunstancias de la aparición del SU en cuestión, se presenta a continuación el análisis de la cuestión
-de la licencia de maquinista y del certificado de maquinista, así como de la competencia profesional del maquinista PMD
-relacionada con los mismos.
-El transportista, de acuerdo con el § 35 apartado 1 letra a) de la Ley núm. 266/1994 Sb., puede explotar el transporte
-ferroviario en la vía de ámbito nacional o regional, entre otros, si es titular de una licencia y un certificado de transportista
-válidos, y de acuerdo con el § 35 apartado 1 letra b) de la Ley núm. 266/1994 Sb. está obligado a emitir una norma interna
-sobre la competencia profesional y los conocimientos de las personas que garantizan la explotación del transporte ferroviario
-y el método de su verificación, incl. el sistema de formación periódica, la expedición y retirada de los certificados de
-maquinista y de las modificaciones de los datos en ellos contenidos, así como el plazo de validez del certificado de
-maquinista. Asimismo, el transportista está obligado, de acuerdo con el § 35 apartado 1 letra h) de la Ley núm. 266/1994
-Sb., en conexión con el § 46b apartado 1 de la misma Ley, a garantizar que las locomotoras de tracción en la vía de
-ámbito nacional y regional sean conducidas por personas que posean una licencia de maquinista válida y un certificado de
-maquinista válido, y de acuerdo con el § 35 apartado 1 letras f) y g) de la Ley núm. 266/1994 Sb. está obligado a garantizar
-que el transporte ferroviario lo realicen personas que estén sanas y sean competentes profesionalmente, y que durante la
-explotación del transporte ferroviario se guíen por las instrucciones del explotador de la vía impartidas al organizar el
-transporte ferroviario.
-De acuerdo con el § 46b apartado 2 de la Ley núm. 266/1994 Sb., es válida en el territorio de la República Checa la licencia
-de maquinista concedida por la autoridad de otro Estado miembro de la Unión Europea. De acuerdo con el apartado 3 del
-mismo § 46b, el certificado de maquinista es válido en la vía o en su parte para los tipos de locomotoras de tracción y la
-forma de su utilización que en él se indican. Una persona sin un certificado de maquinista válido puede, de acuerdo con el
-apartado 4 del mismo § 46b, conducir locomotoras de tracción en la vía de ámbito nacional y regional únicamente bajo la
-supervisión de una persona que sea titular de un certificado de maquinista válido para la vía en cuestión o su parte, si la
-perturbación de la fluidez del transporte ferroviario o el mantenimiento de la vía requieren un desvío del transporte
-ferroviario establecido por el explotador de la vía, o si se trata de un viaje puntual de un tren histórico, de un viaje
-puntual excepcional de un tren de mercancías, de un suministro o de un viaje de prueba o de demostración de un nuevo
-tipo de tren o de locomotora de tracción, o si se trata de un viaje de formación o de un examen de conducción de
-locomotoras de tracción. De acuerdo con el § 46b apartado 5 de la Ley núm. 266/1994 Sb., el transportista debe notificar
-previamente al explotador de la vía el viaje de una locomotora de tracción conducida por una persona sin un certificado de
-maquinista válido, debiendo el explotador de la vía dar su consentimiento en el caso del viaje puntual excepcional de un
-tren de mercancías, con la excepción de cuando la perturbación de la fluidez del transporte ferroviario o el mantenimiento
-de la vía requieran un desvío del transporte ferroviario establecido por el explotador de la vía.
-De acuerdo con el § 46i de la Ley núm. 266/1994 Sb., el transportista expedirá el certificado de maquinista, a petición, a la
-persona física que mantenga una relación laboral básica con el transportista, sea titular de una licencia de maquinista
-válida y haya acreditado la CAP para la conducción de un tipo concreto de locomotora de tracción, la conducción en vías
-delimitadas o sus partes y el uso de la lengua checa en la medida necesaria para la conducción de locomotoras de tracción
-en el territorio de la República Checa, fijando el transportista el plazo de validez del certificado de maquinista de
-conformidad con la norma interna emitida en virtud del § 35 apartado 1 letra b) de la Ley núm. 266/1994 Sb., delimitando
-en el certificado de maquinista la vía o su parte, los tipos de locomotoras de tracción y la forma de su utilización para los
-cuales el certificado es válido.
-De acuerdo con el § 46j de la Ley núm. 266/1994 Sb., el solicitante acredita la CAP mediante la superación con éxito de un
-examen teórico y práctico ante una comisión designada por el transportista, verificándose el conocimiento de la lengua
-checa si la lengua materna del solicitante es distinta del checo. Solo el solicitante que haya seguido la formación para
-adquirir los conocimientos, las aptitudes y los procedimientos correspondientes puede presentarse al examen que acredita
-la CAP. El alcance y el contenido de los conocimientos, aptitudes y procedimientos detallados, así como el alcance, el
-contenido y el modo de realización del examen de CAP, el método de evaluación de los resultados del examen y el alcance y
-el contenido de la formación los fija el decreto núm. 16/2012 Sb. De acuerdo con el siguiente § 46k de la Ley núm.
-266/1994 Sb., el titular del certificado de maquinista está obligado a someterse, en los plazos fijados por la norma interna
-del transportista, a una reevaluación periódica de la CAP, no pudiendo los plazos para la reevaluación periódica
+Dada las causas y circunstancias de la aparición de la MU en cuestión, a continuación se presenta un análisis de la cuestión de la licencia de maquinista y del certificado de maquinista y de la competencia profesional del maquinista de PMD relacionada con ello.
 
+El transportista, de acuerdo con el § 35 apartado 1 letra a) de la Ley núm. 266/1994 Sb., puede explotar el transporte ferroviario en la vía de ámbito nacional o regional, entre otros, si es titular de una licencia y un certificado de transportista válidos, y de acuerdo con el § 35 apartado 1 letra b) de la Ley núm. 266/1994 Sb. está obligado a emitir un reglamento interno sobre la competencia profesional y los conocimientos de las personas que garantizan la explotación del transporte ferroviario y el método de su verificación, incl. el sistema de formación periódica, la emisión y retirada de certificados de maquinista y de los cambios en los datos en ellos contenidos, así como el plazo de validez del certificado de maquinista. Además, el transportista, de acuerdo con el § 35 apartado 1 letra h) de la Ley núm. 266/1994 Sb., está obligado a garantizar, y esto en relación con el § 46b apartado 1 de la presente Ley, que las DV en la vía de ámbito nacional y regional sean conducidas por personas que posean una licencia de maquinista válida y un certificado de maquinista válido, y de acuerdo con el § 35 apartado 1 letras f) y g) de la Ley núm. 266/1994 Sb. está obligado a garantizar que el transporte ferroviario lo realicen personas que estén sanas y sean profesionalmente competentes, que durante la explotación del transporte ferroviario se guíen por las instrucciones del explotador de la vía impartidas al organizar el transporte ferroviario.
+
+De acuerdo con el § 46b apartado 2 de la Ley núm. 266/1994 Sb., en el territorio de la República Checa es válida la licencia de maquinista otorgada por la autoridad de otro Estado miembro de la Unión Europea. De acuerdo con el apartado 3 del mismo § 46b, el certificado de maquinista es válido en la vía o en su parte para los tipos de DV y la forma de su uso que en él se indican. Una persona sin certificado de maquinista válido puede, de acuerdo con el apartado 4 del mismo § 46b, conducir DV en la vía de ámbito nacional y regional únicamente bajo la supervisión de una persona que sea titular de un certificado de maquinista válido para la vía en cuestión o su parte, cuando la interrupción de la fluidez del transporte ferroviario o el mantenimiento de la vía requieran un desvío del transporte ferroviario establecido por el explotador de la vía, o cuando se trate de un viaje puntual de un tren histórico, de un viaje puntual excepcional de un tren de mercancías, de un suministro o de un viaje de prueba o de demostración de un tipo nuevo de tren o de HDV, o de un viaje de entrenamiento o de un examen de conducción de DV. De acuerdo con el § 46b apartado 5 de la Ley núm. 266/1994 Sb., el transportista debe notificar previamente al explotador de la vía el viaje de DV conducido por una persona sin certificado de maquinista válido, debiendo el explotador de la vía dar su consentimiento en el caso del viaje puntual excepcional de un tren de mercancías, con la excepción de cuando la interrupción de la fluidez del transporte ferroviario o el mantenimiento de la vía requieran un desvío del transporte ferroviario establecido por el explotador de la vía.
+
+De acuerdo con el § 46i de la Ley núm. 266/1994 Sb., el certificado de maquinista lo emitirá el transportista, a petición de una persona física que mantenga con el transportista una relación laboral básica, que sea titular de una licencia de maquinista válida y que haya acreditado la ZOZ para la conducción de un tipo concreto de DV, la conducción en vías o partes de vías delimitadas y el uso de la lengua checa en la medida necesaria para la conducción de DV en el territorio de la República Checa, fijando el transportista el plazo de validez del certificado de maquinista de conformidad con el reglamento interno emitido en virtud del § 35 apartado 1 letra b) de la Ley núm. 266/1994 Sb., delimitando en el certificado de maquinista la vía o su parte, los tipos de DV y la forma de su uso para los cuales el certificado es válido.
+
+De acuerdo con el § 46j de la Ley núm. 266/1994 Sb., el solicitante acredita la ZOZ mediante la superación con éxito de un examen teórico y práctico ante una comisión nombrada por el transportista, verificándose el conocimiento de la lengua checa cuando la lengua materna del solicitante sea distinta del checo. Solo puede presentarse al examen que acredita la ZOZ el solicitante que haya realizado la formación para adquirir los conocimientos, habilidades y procedimientos correspondientes. El alcance y el contenido de los conocimientos, habilidades y procedimientos detallados, así como el alcance, el contenido y el modo de realización del examen ZOZ, el método de evaluación de los resultados del examen, y el alcance y el contenido de la formación, los establece el decreto núm. 16/2012 Sb. De acuerdo con el siguiente § 46k de la Ley núm. 266/1994 Sb., el titular del certificado de maquinista está obligado a someterse, en los plazos fijados por el reglamento interno del transportista, a una reevaluación periódica de la ZOZ, siendo los plazos para la reevaluación periódica
 
 ## Página 50
+
 
 superar los 3 años. El examen de CAP incluye también el alcance de conocimientos exigido para el examen profesional
 DSt-7 de acuerdo con la Directriz PERs28-B-2009.
@@ -1607,6 +1554,7 @@ el punto 1.3.1.8 de la norma interna del transportista ČDC – Directriz PERs28
 
 ## Página 51
 
+
 •
 8. 11. 2016 última formación periódica, cuyo contenido era demostrablemente la problemática 
 de la conducción de PMD para el tren atascado – en el presente asunto el transportista ČDC se pronunció en el sentido de que «no siempre el alcance completo de la formación recibida queda reflejado en el contenido de la formación, por lo que no se descarta que se haya formado en dicha problemática.»,
@@ -1657,10 +1605,10 @@ de la presente ZZ). En el transcurso posterior de la marcha, el maquinista de PM
 frenada directa de la HDV de la sección principal (con una presión en los cilindros de freno superior a 0,15 bar 
 e inferior a 1,5 bar), con lo que redujo la velocidad de PMD a 18 km·h-1. El frontal de PMD se encontraba en ese 
 momento a una distancia de 482 m del tren atascado, en el punto donde la fuerza de frenado (generada entre las 
-zapatas de freno y las superficies de rodadura de las ruedas), debido a 
-
+zapatas de freno y las superficies de rodadura de las ruedas), debido a
 
 ## Página 52
+
 
 la reducción del coeficiente de adherencia (por la acumulación de material biológico atropellado, en combinación con 
 la humedad atmosférica), comenzó a ser mayor que la fuerza de adherencia (generada entre las ruedas y los 
@@ -1714,10 +1662,10 @@ formación, pero también verificar su capacidad práctica para resolver situaci
 formación ni de verificación de la capacidad de resolución de situaciones inesperadas en condiciones reales.
 El transportista ČDC no acreditó la DI, cuándo se le recordó por última vez al maquinista de PMD, antes de la 
 aparición de la MU, en el marco de la formación periódica de los maquinistas o mediante una comunicación 
-demostrable o en el marco de 
-
+demostrable o en el marco de
 
 ## Página 53
+
 
 los viajes de inspección realizados por los empleados del transportista encargados de la supervisión en la cabina 
 del maquinista, la forma correcta de circular (la tecnología de operación del dispositivo de freno 
@@ -1753,54 +1701,25 @@ relacionados con las circunstancias de la aparición de la MU en cuestión, no s
 En el sistema de garantía de seguridad adoptado por el gestor de la infraestructura y el transportista, relacionado 
 con las circunstancias de la aparición de la MU en cuestión, no se detectaron deficiencias.
 
-
 ## Página 54
 
-### 4.4.4 Sistema de gestión de los sujetos responsables del mantenimiento de los vehículos ferroviarios 
-y de los talleres de mantenimiento
-El sistema de gestión de los sujetos responsables del mantenimiento de la DV y de los talleres de mantenimiento 
-no guardaba relación con la aparición de la MU.
+### 4.4.4 Sistema de gestión de los sujetos responsables del mantenimiento de los vehículos ferroviarios y de los talleres de mantenimiento
+El sistema de gestión de los sujetos responsables del mantenimiento de los VDF y de los talleres de mantenimiento no guardaba relación con la aparición del MU.
 ### 4.4.5 Resultados de la supervisión realizada por las autoridades nacionales de seguridad
-Atendiendo a los factores y circunstancias detectados de la aparición de la MU, la supervisión de la autoridad de 
-seguridad no guarda relación con la MU en cuestión.
-### 4.4.6 Aprobaciones, certificados y dictámenes de evaluación emitidos por la Agencia, las autoridades 
-nacionales de seguridad u otros sujetos de evaluación de la conformidad
-El gestor de la infraestructura SŽ explotó la infraestructura ferroviaria en base a la autorización administrativa 
-vigente y al certificado de seguridad del gestor de la infraestructura. El transportista ČDC explotó el transporte 
-ferroviario en base a la licencia vigente y al certificado del transportista.
+Atendiendo a los factores y circunstancias de aparición del MU constatados, la supervisión de la autoridad de seguridad no guarda relación con el MU en cuestión.
+### 4.4.6 Aprobaciones, certificados y dictámenes de evaluación emitidos por la agencia, las autoridades nacionales de seguridad u otros sujetos de evaluación de la conformidad
+El operador ferroviario SŽ explotaba la vía en virtud de la autorización administrativa vigente y del certificado de seguridad del operador ferroviario. El transportista ČDC explotaba el transporte ferroviario en virtud de la licencia vigente y del certificado del transportista.
 ### 4.4.7 Otros factores sistémicos
-En la investigación no se detectaron otros factores sistémicos.
+En la investigación no se constataron otros factores sistémicos.
 ### 4.5 Sucesos anteriores de naturaleza similar
-La DI registra en el período comprendido entre el 1. 1. 2008 y la fecha de aparición de la MU en cuestión, en las 
-infraestructuras ferroviarias de categoría estatal y regional, un total de 3 MU similares, en las que, durante la 
-circulación de un PMD destinado a un tren atascado en el sentido de la pendiente (descenso) de la infraestructura, 
-con un coeficiente de adherencia reducido entre el raíl y la rueda, necesario para la puesta en marcha o la 
-parada del tren o del PMD, se produjo su colisión 
-con el tren atascado. Como consecuencia de estas MU no se produjeron daños personales y se originó un daño 
-total por importe de 1 925 835 Kč.
-La DI investigó en el período anteriormente mencionado las causas y circunstancias de 1 MU similar, concretamente 
-la del día 
-11. 11. 2014, entre las estaciones de Petrovice u Karviné y Odbočka Závada, donde el PMD colisionó 
-con el tren atascado Pn 47850. La causa inmediata de la aparición de la MU fue la circulación no autorizada 
-del PMD más allá del kilómetro de la infraestructura abierta (punto de la infraestructura) para el que se había 
-concertado la maniobra y que estaba establecido por instrucción del gestor de la infraestructura en una orden 
-escrita y hasta el que el transportista estaba autorizado a realizarla. Los factores contribuyentes a la MU fueron la 
-no adaptación de la velocidad de circulación por parte del maquinista del PMD a la circulación según las condiciones 
-de visibilidad, de modo que se garantizara la seguridad de la maniobra, la superación de la velocidad máxima 
-permitida y la no adaptación de la circulación de la HDV circulando de forma autónoma a las condiciones de 
-adherencia deterioradas en la infraestructura.
-La DI, en base a los resultados de la investigación de las causas y circunstancias de la aparición de esta MU, emitió 
-al gestor de la infraestructura SŽDC, s. o., una recomendación de seguridad con referencia núm.: 397/2015/DI, 
-de fecha 23. 6. 2015, cuyo contenido era, entre otros:
+El DI registra en el período comprendido entre el 1. 1. 2008 y la fecha de aparición del MU en cuestión, en las vías ferroviarias, categoría nacional y regional, un total de 3 MU similares, en los que, durante la marcha de un PMD efectuada para un tren estancado en la dirección de la pendiente (descenso) de la vía, con un coeficiente de adherencia reducido entre el raíl y la rueda necesario para la puesta en marcha o la parada del tren o del PMD, se produjo su colisión con el tren estancado. Como consecuencia de estos MU no se produjeron daños personales y el daño total ascendió a 1 925 835 Kč.
+El DI investigó, en el período anteriormente indicado, las causas y circunstancias de aparición de 1 MU similar, concretamente el del día 11. 11. 2014, entre las estaciones de Petrovice u Karviné y la desviación Závada, donde un PMD colisionó con el tren estancado Pn 47850. La causa inmediata de la aparición del MU fue la marcha no autorizada del PMD más allá del punto kilométrico de la vía libre (lugar de la vía) para el que se había acordado la maniobra y que estaba establecido por instrucción del operador ferroviario en la orden escrita y en el que el transportista podía ejecutarla. Los factores contribuyentes al MU fueron la no adaptación de la velocidad de marcha por parte del maquinista del PMD a la marcha según las condiciones de visibilidad, de modo que se garantizara la seguridad de la maniobra, la superación de la velocidad máxima permitida y la no adaptación de la marcha del HDV circulando en solitario a las condiciones de adherencia desfavorables en la vía.
+El DI, en base a los resultados de la investigación de las causas y circunstancias de aparición de este MU, emitió al operador ferroviario SŽDC, s. o., una recomendación de seguridad n.º de ref.: 397/2015/DI, de fecha 23. 6. 2015, cuyo contenido era, entre otros:
 •
-reconsiderar el procedimiento tecnológico de la circulación del PMD realizado para un tren que, 
-debido a condiciones de adherencia deterioradas, se había atascado en la infraestructura, cuando la circulación del 
-PMD se realiza en el sentido de la pendiente de la vía circulada hacia el tren atascado, establecido por la norma 
-internamente de explotación de la infraestructura, especialmente en relación con la velocidad máxima permitida 
-de circulación del PMD en el tramo de los últimos 1 000 m antes del punto de atascamiento, de modo que estos 
-procedimientos se refuercen aún más para la eliminación de la aparición y de las consecuencias de MU similares.
+reconsiderar el procedimiento tecnológico de la marcha del PMD efectuada para un tren que, debido a las condiciones de adherencia desfavorables, se había estancado en la vía, cuando la marcha del PMD se realiza en la dirección de la pendiente de la vía recorrida hacia el tren estancado, establecido por la normativa interna de explotación de la vía, especialmente en relación con la velocidad máxima permitida de marcha del PMD en el tramo de los últimos 1 000 m antes del punto de estancamiento, de modo que estos procedimientos se refuercen aún más para eliminar la aparición y las consecuencias de MU similares.
 
 ## Página 55
+
 
 En los casos en que no se conozca el lugar de atasco del tren, se aplicará el endurecimiento de los procedimientos ya desde el nivel de la señal de entrada para el sentido de circulación opuesto.
 El gestor de la infraestructura SŽDC, s. o., sobre la base de esta recomendación de seguridad, informó a la DI mediante el documento «Medidas adoptadas en respuesta a la recomendación de seguridad de la Inspección Ferroviaria», ref. 36212/215-SŽDC-O18, de fecha 28. 8. 2015, sobre la medida adoptada: «En la cuarta modificación considerada del reglamento SŽDC D1 "Reglamento de circulación y de señales", se reevaluará el procedimiento tecnológico actual de la maniobra de maniobras entre estaciones de clasificación (PMD) para el tren que, debido a condiciones de adherencia deterioradas, se ha atascado en la vía, cuando la maniobra PMD se realiza en el sentido de la pendiente de la vía recorrida hacia el tren atascado, y en particular en relación con la velocidad máxima permitida de la maniobra PMD en el tramo de los últimos 1 000 metros antes del lugar de atasco, de modo que estos procedimientos se endurezcan más. En los casos en que no se conozca el lugar de atasco del tren, se aplicará el endurecimiento de los procedimientos ya desde el nivel de la señal principal (de entrada) para el sentido de circulación opuesto.».
@@ -1810,8 +1729,8 @@ Entre las MU similares puede incluirse también la MU del 9. 9. 2020 (7:08 h) en
 La causa inmediata fue la no detención del tren Os 17544 antes de la indicación «Alto» de la señal de salida L2 de la estación de Kdyně, debido a la manipulación incorrecta de los aparatos de freno y a la no utilización del dispositivo de areneado por parte del maquinista del tren Os 17544, y por tanto la no garantía del rodaje de las ruedas tras el derrape previo ocurrido en las ruedas de la locomotora.
 Los factores contribuyentes fueron la reducción del coeficiente de adherencia necesario para la puesta en marcha o la detención de los trenes en la vía de clasificación n.º 2 de la estación de Kdyně por la acumulación de restos aplastados de vegetación no deseada en los cantos de los cabezales de ambos carriles, con la acción conjunta de la humedad atmosférica en el momento de la aparición de la MU, causada por su falta de tratamiento oportuno, y la superación de la velocidad máxima permitida en 20 km·h-1 por el incumplimiento de la indicación «Velocidad 40 km/h y repetición de la indicación Aviso» de la señal de entrada L de la estación de Kdyně por parte del maquinista del tren Os 17544.
 
-
 ## Página 56
+
 
 Sobre los resultados de la investigación de la MU en cuestión, la DI emitió una recomendación de seguridad en la que recomendó al DÚ, entre otras cosas:
 •
@@ -1833,10 +1752,10 @@ Causal factor:
 •
 failure to stop of the shunting between operating control points No. 858011 in front 
 of the standing locomotive of the stuck freight train No. 62054 due to failure to use 
-the sanding equipment for prevention of wheel slide skid of wheels during breaking 
-
+the sanding equipment for prevention of wheel slide skid of wheels during breaking
 
 ## Página 57
+
 
 at place where it was reduced coefficient of adhesion rate and for deflect of collision 
 by train driver of the shunting between operation control points.
@@ -1879,8 +1798,8 @@ training of the train drivers during 2022, incl. training of the train driver's 
 reaction when driving with reduced adhesion and in case of locomotive wheel 
 skidding.
 
-
 ## Página 58
+
 
 ### 5.3 Hallazgos complementarios
 En el operador ferroviario ČDC:
@@ -1917,6 +1836,7 @@ en el marco de su actividad como organismo nacional de seguridad, la adopción d
 
 ## Página 59
 
+
 ◦hasta la realización de la recomendación indicada más abajo en los operadores ferroviarios que, para mejorar la formación y capacitación de las personas que conducen vehículos ferroviarios, utilizan un simulador de vehículo ferroviario para adquirir y mantener los hábitos del modo correcto de conducción, de modo que durante la formación y capacitación de estas personas en los simuladores se simularan también las marchas en pendiente (descenso) de un tren atascado en condiciones de coeficiente de adherencia reducido necesario para detener los vehículos ferroviarios;
 •
 en colaboración con el Ministerio de Transportes, la creación de un marco jurídico y de un sistema mediante los que se amplíe el alcance y el contenido de los conocimientos, habilidades y procedimientos necesarios para acreditar la aptitud profesional especializada para la conducción de vehículos ferroviarios en la vía ferroviaria, categoría nacional y regional, con la verificación de la capacidad práctica de la persona que conduce un vehículo ferroviario para resolver adecuadamente, en un simulador de locomotoras, también situaciones que pueden producirse solo raramente, incluida la marcha y, en especial, la frenada con coeficiente de adherencia reducido necesario para la puesta en marcha o la detención.
@@ -1936,8 +1856,8 @@ inspector
 Inspección Territorial de Ostrava
 Inspección Territorial de Ostrava
 
-
 ## Página 60
+
 
 ## ANEXOS
 Fig. n.º 5: Vista general del lugar del MU desde la estación de Albrechtice u ČT.
@@ -1945,10 +1865,10 @@ Fig. n.º 5: Vista general del lugar del MU desde la estación de Albrechtice u 
 Fig. n.º 6: Vista del elemento de choque deformado y del frontal (de deformación) delantero deformado del HDV de la sección líder 131.043-2 tras la colisión con el tren atascado Pn 62054.
         Fuente: DI
 
-
 ## Página 61
 
-Fig. n.º 7: Vista de la cabeza del raíl tras el frontal del HDV de la sección final 131.044-0.
+Fig. n.º 7: Vista del canto del raíl en la parte superior del tren de tracción de la sección final 131.044-0.
                       Fuente: DI
-Fig. n.º 8: Vista detallada del material biológico atropellado y de la huella visible por derrape del HDV 131.044-0/131.043-2 en la cabeza del raíl de la vía TK n.º 2.
+Fig. n.º 8: Vista detallada del material biológico aplastado y de la huella visible 
+por el derrape del tren de tracción 131.044-0/131.043-2 en el canto del raíl de la vía n.º 2.
         Fuente: DI

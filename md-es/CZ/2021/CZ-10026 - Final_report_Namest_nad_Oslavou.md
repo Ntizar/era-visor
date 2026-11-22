@@ -10,13 +10,14 @@ chars: 139372
 ratio_longitud: 1.27
 tokens_in: 72778
 tokens_out: 51549
-verificacion: revisar
-notas_cifras: ["bloque 2: original bilingüe: se compara contra el idioma principal (CS)", "bloque 3: original bilingüe: se compara contra el idioma principal (CS)", "bloque 4: original bilingüe: se compara contra el idioma principal (CS)", "bloque 5: original bilingüe: se compara contra el idioma principal (CS)", "bloque 9: cifras cortas: 12/91", "bloque 10: original bilingüe: se compara contra el idioma principal (EN)"]
-avisos: ["bloque 4: ratio 1.67", "bloque 5: ratio 1.75", "bloque 10: ratio 1.84"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 3: original bilingüe: se compara contra el idioma principal (PT)", "página 4: original bilingüe: se compara contra el idioma principal (CS)", "página 7: original bilingüe: se compara contra el idioma principal (CS)", "página 8: original bilingüe: se compara contra el idioma principal (CS)", "página 10: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -42,13 +43,13 @@ IČ: 75009561
 mail@dicr.cz
 tel.: +420 736 521 003
 
-
 ## Página 2
+
 
 Este informe final es público y todos los hechos en él expuestos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ### 1 RESUMEN
 Fuente: Drážní inspekce
@@ -80,8 +81,8 @@ Factores contribuyentes:
 indisciplina tecnológica – inserción y montaje de una lengüeta con daños superficiales
 en la cara inferior del talón en la aguja n.º 12;
 
-
 ## Página 4
+
 
 •
 imposibilidad de detectar la fatiga mediante las inspecciones realizadas según los
@@ -114,8 +115,8 @@ el registro acreditado de los valores medidos, la eliminación oportuna de los d
 detectados y el mantenimiento de los valores de dichas holguras dentro de los límites
 prescritos.
 
-
 ## Página 5
+
 
 ### SUMMARY
 3rd March 2021, 7:18 (6:18 GMT).
@@ -168,8 +169,8 @@ a surface-damaged point blade to the new or operated switch;
 2. the regular controls should be implemented in the control activities at the overtaking
 stations on the running track which are high work loaded and/or running at high
 
-
 ## Página 6
+
 
 speeds. Due to found impact of running clearance of fit of the switch blades on the
 slide baseplates, catching up of the web of the switch blades to the studs and catching
@@ -181,8 +182,8 @@ these clearances, so that the limit violation of these clearances will be reveal
 same time, the record of the measuring data will be kept, the found defects will be
 removed in time and the values of clearances will be constrained.
 
-
 ## Página 7
+
 
 # Índice
 1 RESUMEN........................................................................................................................3
@@ -233,6 +234,7 @@ infraestructura ferroviaria o de las instalaciones técnicas....................
 
 ## Página 8
 
+
 4.2.2 Factores o consecuencias derivados de la instalación y puesta en servicio de vehículos ferroviarios, infraestructura ferroviaria o instalaciones técnicas......................................38
 4.2.3 Factores o consecuencias relacionados con fabricantes de vehículos ferroviarios u otros proveedores de productos ferroviarios............................................................................38
 4.2.4 Factores o consecuencias derivados del mantenimiento y modificación de vehículos ferroviarios o instalaciones técnicas....................................................................................................38
@@ -261,8 +263,8 @@ infraestructura ferroviaria o de las instalaciones técnicas....................
 6 RECOMENDACIONES DE SEGURIDAD.....................................................................................46
 ANEXOS..............................................................................................................................47
 
-
 ## Página 9
+
 
 ### Lista de siglas y símbolos utilizados
 BD                           recomendación de seguridad
@@ -308,8 +310,8 @@ Informe Final sobre los resultados de la investigación del suceso extraordinari
 žst.
 estación de ferrocarril
 
-
 ## Página 10
+
 
 ### Lista de siglas de la legislación, normas y normativa interna utilizadas
 ley núm. 266/1994 Sb.
@@ -362,8 +364,8 @@ normativa interna del gestor de infraestructura SŽ, "SŽDC S4/3
 "Ensayos no destructivos de carriles", en la redacción
 vigorosa en el momento de producirse el suceso extraordinario
 
-
 ## Página 11
+
 
 SŽDC S67
 normativa interna del gestor de infraestructura SŽ, "SŽDC S67
@@ -375,71 +377,72 @@ SŽDC núm. 51 para la realización de inspecciones y mediciones
 de agujas", en la redacción vigorosa en el momento de
 producirse el suceso extraordinario
 
-
 ## Página 12
 
-### 2 INVESTIGACIÓN Y SU CONTEXTO
-### 2.1 Decisión de iniciar la investigación
-La DI decidió iniciar la investigación del suceso extraordinario en cuestión el 3. 3. 2021.
-### 2.2 Fundamentación de la decisión de iniciar la investigación
-La DI decidió investigar el suceso extraordinario en cuestión sobre la base de su carácter recurrente, su gravedad y su impacto en el gestor de infraestructura y el transportista.
-### 2.3 Alcance y limitaciones de la investigación, incluida la fundamentación pertinente
-La DI se enfrentó, en el marco de la investigación del suceso extraordinario en cuestión, a las siguientes limitaciones, que influyeron negativamente en el modo y los procedimientos de la investigación:
+### 2 INVESTIGACIÓN Y SUS RELACIONES
+### 2.1 Decisión sobre el inicio de la investigación
+El DI decidió iniciar la investigación de la MU en cuestión el día 3. 3. 2021.
+### 2.2 Fundamentación de la decisión sobre el inicio de la investigación
+El DI decidió investigar la MU en cuestión sobre la base de su repetitividad, gravedad e impacto en el gestor de la vía y el transportista.
+### 2.3 Alcance y limitaciones de la investigación, incluida la fundamentación correspondiente
+El DI, en el marco de la investigación de la MU en cuestión, se enfrentó a las siguientes limitaciones, que influyeron negativamente en el modo y los procedimientos de la investigación:
 •
-el suceso extraordinario en cuestión fue notificado al COP de la DI el 3. 3. 2021 a las 10:32 h, es decir, hasta 3 h y 14 minutos después de su producción. El suceso no fue evaluado como suceso extraordinario por el VPS (empleado de SŽ Správa tratí Jihlava), tras la inspección inicial de la aguja núm. 12 y por los empleados de tráfico tras la posterior circulación no asegurada del tren Os 4817. Posteriormente, el lugar fue inspeccionado por la persona designada por SŽ para la investigación de las causas y circunstancias de producción del suceso extraordinario, que evaluó los hechos anteriores como suceso extraordinario y, tras esta constatación, se procedió a su notificación a la DI. La inspección y documentación del lugar de producción del suceso extraordinario fueron realizadas por la DI con un desfase temporal respecto a la producción del suceso extraordinario, esto es, solo tras la restablecimiento de la explotación y sin conocimiento ni consentimiento de la DI. Lo anterior tuvo influencia en la garantía de los hechos fácticos en el lugar de producción del suceso extraordinario, pero no tuvo influencia en la determinación de las causas de producción del suceso extraordinario en cuestión. La composición del tren Os 4817, en vista de los hechos anteriores, fue inspeccionada tras el suceso extraordinario únicamente en la inspección comisionada tras la retirada de la composición en la est. Brno-Horní Heršpice el 4. 3. 2021 (para más detalles, véase el capítulo 3.1.3 de la presente ZZ).
-### 2.4 Descripción resumida de las capacidades y funciones técnicas del equipo de investigación
-Investigación de la DI en el lugar del suceso extraordinario:
-2x inspector del ÚI Brno.
-Constitución del equipo de investigación:
-no fue necesario constituirlo.
+la MU en cuestión fue notificada al COP del DI el día 3. 3. 2021 a las 10:32 h, es decir, hasta 3 h y 14 minutos después de su ocurrencia. El suceso no fue valorado como MU por el VPS (empleado de SŽ Správa tratí Jihlava), tras la inspección inicial del desvío n.º 12 y por los empleados de tráfico tras la posterior circulación no asegurada del tren Os 4817. Posteriormente, el lugar fue inspeccionado por la persona autorizada de SŽ para la investigación de las causas y circunstancias de la ocurrencia del suceso extraordinario, que valoró los hechos antes mencionados como MU y, tras esta constatación, se produjo su notificación al DI. La inspección y documentación del lugar de ocurrencia de la MU fueron realizadas por el DI con un intervalo de tiempo desde la ocurrencia de la MU, y ello hasta después de la restablecimiento de la circulación sin conocimiento y consentimiento del DI. Lo anterior tuvo influencia en la obtención de los hechos reales en el lugar de ocurrencia de la MU, pero no tuvo influencia en la determinación de las causas de la ocurrencia de la MU en cuestión. El tren del convoy del Os 4817, en vista de los hechos antes mencionados, fue inspeccionado tras la MU únicamente en la inspección comisionada tras la retirada del convoy en la est. Brno-Horní Heršpice el día 4. 3. 2021 (detalles véase el capítulo 3.1.3 de la presente ZZ).
+### 2.4 Descripción resumida de las capacidades y funciones técnicas del equipo de investigadores
+Investigación del DI en el lugar de la MU:
+2x inspector de ÚI Brno.
+Formación del equipo de investigación:
+no fue necesario formarlo.
 Colaboración externa:
-se utilizó, con la entidad:
+fue utilizada, con el sujeto:
 •
-Universidad Técnica Checa en Praga, Facultad de Ingeniería Nuclear y Física, departamento de materiales, que elaboró dos dictámenes técnicos:
-1) "Evaluación de las causas de la rotura de la lengüeta de la aguja núm. 12";
-2) "Discusión de los resultados de los análisis de las averías operativas de las lengüetas de agujas".
-2.5 Comunicación y consultas durante la investigación con las personas o entidades que participaron en el suceso
-En la investigación de las causas y circunstancias de producción del suceso extraordinario, la DI se basó principalmente en sus propios conocimientos, hallazgos y en su propia documentación fotográfica. Durante la investigación, la DI solicitó posteriormente la documentación recabada durante la investigación al gestor de infraestructura y al transportista.
-
+Universidad Técnica Checa en Praga, Facultad de Ingeniería Nuclear y Física, departamento de materiales, que elaboró dos peritajes técnicos:
+1) "Evaluación de las causas de la rotura del corazón del desvío n.º 12";
+2) "Discusión de los resultados de los análisis de averías operativas de los corazones de los desvíos".
+2.5 Comunicación y consultas durante la investigación con las personas o sujetos
+que participaron en el suceso en cuestión
+En la investigación de las causas y circunstancias de la ocurrencia de la MU, el DI se basó principalmente en sus propios conocimientos, hallazgos y en su propia documentación fotográfica. Durante la investigación, el DI solicitó posteriormente la documentación recabada durante la investigación al gestor de la vía y al transportista.
 
 ## Página 13
 
-La investigación de las causas y circunstancias de producción del suceso extraordinario se realizó de acuerdo con la ley núm. 266/1994 Sb. y el decreto núm. 376/2006 Sb.
-### 2.6 Descripción del nivel de colaboración ofrecido por las entidades implicadas
-El nivel de colaboración con los representantes de las entidades implicadas en el suceso extraordinario fue estándar.
-### 2.7 Descripción de la investigación, métodos y técnicas utilizados para acreditar los hechos y los hallazgos recogidos en el informe
-En el marco de la investigación del suceso extraordinario, la DI procedió de la siguiente manera, es decir, utilizó, entre otros, los siguientes métodos y técnicas:
+La investigación de las causas y circunstancias de la aparición del MU se realizó de conformidad con la ley n.º 266/1994 Sb.
+y la disposición n.º 376/2006 Sb.
+### 2.6 Descripción del nivel de cooperación ofrecido por las entidades participantes
+El nivel de cooperación con los representantes de las entidades participantes en el MU fue estándar.
+### 2.7 Descripción de la investigación, los métodos y las técnicas utilizados para acreditar los hechos
+y los hallazgos consignados en el informe
+En el marco de la investigación del MU, la DI procedió de la siguiente manera, es decir, utilizó, entre otros, los siguientes métodos y técnicas:
 •
-inspección del lugar del suceso extraordinario, de las instalaciones técnicas y de la infraestructura ferroviaria;
+inspección del lugar del suceso excepcional, de las instalaciones técnicas y de la infraestructura de la vía;
 •
-medición de los parámetros de la superestructura ferroviaria mediante el uso de un patrón de ancho de vía manual y la plantilla PŠR-3;
+medición de los parámetros de la superestructura ferroviaria mediante el uso del ancho de vía manual y la plantilla PŠR-3;
 •
-análisis de la documentación solicitada al gestor de infraestructura y al transportista;
+análisis de la documentación solicitada al operador de la vía y al transportista;
 •
-declaraciones de los empleados implicados;
+declaraciones de los empleados participantes;
 •
-análisis de los datos registrados por el registrador de velocidad del vehículo ferroviario implicado;
+análisis de los datos registrados por el registrador de velocidad del vehículo ferroviario participante;
 •
-encargo y evaluación del dictamen técnico núm. E-KMAT-1115/21 sobre la evaluación de las causas de la rotura de la lengüeta de la aguja núm. 12 en la est. Náměšť nad Oslavou.
+encargo y evaluación del dictamen pericial n.º E-KMAT-1115/21 sobre la evaluación de las causas de la rotura del canto de la aguja n.º 12 en la est. Náměšť nad Oslavou.
 ### 2.8 Descripción de las dificultades y problemas concretos surgidos durante la investigación
-Durante la investigación del suceso extraordinario no se produjeron dificultades ni problemas que influyeran en el desarrollo de la investigación o en sus conclusiones, a excepción de los hechos recogidos en el capítulo 2.3 de la presente ZZ.
+Durante la investigación del MU no surgieron dificultades ni problemas que pudieran influir en el desarrollo de la investigación o en sus conclusiones, salvo las circunstancias indicadas en el capítulo 2.3 de este II.
 ### 2.9 Interacción con los órganos judiciales
-Durante la investigación del suceso extraordinario en cuestión, no se inició por parte de la DI ni por parte de los órganos judiciales ninguna comunicación ni colaboración.
+Durante la investigación del MU en cuestión, ni por parte de la DI ni por parte de los órganos judiciales se inició ninguna comunicación ni cooperación.
 ### 2.10 Cualquier otra información relevante para la investigación
-Todas las circunstancias esenciales constatadas relativas al desarrollo de la investigación del suceso extraordinario en cuestión ya han sido recogidas más arriba.
+Todas las conexiones esenciales detectadas relativas al desarrollo de la investigación del MU en cuestión ya han sido indicadas más arriba.
 ### 3 DESCRIPCIÓN DEL SUCESO
 ### 3.1 Descripción e información básica
 ### 3.1.1 Descripción del tipo de suceso
-Tipo de suceso extraordinario:
+Tipo de MU:
 descarrilamiento de DV.
-Grupo de suceso extraordinario:
+Grupo de MU:
 incidente.
-
 ### 3.1.2 Fecha, hora exacta y lugar del suceso
 Fecha:
-3. 3. 2021.
+3 de 3 de 2021.
 
 ## Página 14
+
 
 Hora:
 7:18 h.
@@ -472,123 +475,71 @@ se encuentra en el pk 30,049;
 •
 se trata de la aguja extrema (de entrada) en el sentido desde la estación de Studenec;
 
-
 ## Página 15
 
 •
-el tren Os 4817 circuló en contra de las puntas de las lenguas de la aguja n.º 12;
+el tren Os 4817 circulaba hacia las puntas de las agujas de la aguja n.º 12;
 •
-en el examen del DI, ya fuera de la vía, se encontraba la parte frontal rota y desmontada
-de la lengua izquierda de 2,75 m de longitud con la superficie de rotura visible;
+en la inspección del lugar ya se encontraba fuera de la vía la parte frontal desprendida y desmontada de la punta izquierda, de una longitud de 2,75 m, con la superficie de fractura visible;
 •
-la aguja estaba cerrada con dos cerraduras mecánicas en la posición recta. La primera
-cerradura de recambio portátil, con la que se cerró la lengua recta derecha en la posición
-adyacente al soporte curvo derecho, estaba instalada en el tercer campo entre traviesas
-a la derecha. Con la segunda cerradura de empuje, instalada en el sexto campo entre traviesas
-a la izquierda, se aseguró el resto de la lengua curva izquierda rota en la posición alejada respecto
-al soporte recto izquierdo;
+la aguja estaba bloqueada con dos cerraduras mecánicas en la posición de vía directa. La primera cerradura de cambio portátil, con la que se había bloqueado la punta directa derecha en la posición adyacente al soporte curvo derecho, estaba instalada en el tercer campo entre traviesas a la derecha. Con la segunda cerradura de empuje, instalada en el sexto campo entre traviesas a la izquierda, se había asegurado el resto de la punta curva izquierda rota en la posición alejada respecto al soporte directo izquierdo;
 •
-en la parte restante de la lengua en la aguja era también claramente visible la superficie de rotura;
+en la parte restante de la punta en la aguja era también claramente visible la superficie de fractura;
 •
-el lugar de origen del SU (rotura de la lengua de la aguja) se determinó en el pk 30,045 (3,92 m desde el inicio
-de la aguja);
+el lugar de origen del MU (rotura de la punta de la aguja) se determinó en el km 30,045 (3,92 m desde el inicio de la aguja);
 •
-el punto «0», es decir, el lugar del inicio del descarrilamiento (inicio visible del trepado de las ruedas derechas sobre la
-lengua recta derecha), se determinó en el pk 30,044 (5,11 m desde el inicio de la aguja);
+el punto «0», es decir, el lugar del inicio del descarrilamiento (inicio visible del trepado de las ruedas derechas sobre la punta directa derecha), se determinó en el km 30,044 (5,11 m desde el inicio de la aguja);
 •
-en la cabeza de la lengua recta derecha (no rota) se encontraron a una distancia de 5,20 m desde el
-inicio de la aguja las primeras huellas claras del trepado completo de los frisos de las ruedas del DV sobre
-la lengua, que a partir de ese punto continuaron circulando con los frisos por la cabeza de la lengua;
+en la cabeza de la punta directa derecha (no rota) se encontraron, a una distancia de 5,20 m desde el inicio de la aguja, las primeras marcas claras del trepado completo de los aros de las ruedas del DV sobre la punta, que a partir de ese punto continuaron circulando con los aros sobre la cabeza de la punta;
 •
-a una distancia de 8,30 m desde el inicio de la aguja terminaban las huellas de la circulación por la cabeza de la lengua
-con el deslizamiento – la caída de las ruedas de la lengua derecha al soporte curvo derecho. Desde
-la distancia de 5,20 m hasta 8,30 m desde el inicio de la aguja se constató y documentó
-un mínimo de 6 huellas claramente visibles del trepado y la posterior caída de las ruedas del DV a través de
-la lengua recta derecha de la aguja;
+a una distancia de 8,30 m desde el inicio de la aguja terminaban las marcas de la circulación sobre la cabeza de la punta con el deslizamiento – la caída de las ruedas de la punta derecha sobre el soporte curvo derecho. Desde la distancia de 5,20 m hasta 8,30 m desde el inicio de la aguja se detectó y documentó un mínimo de 6 marcas claramente visibles del trepado y la posterior caída de las ruedas del DV a través de la punta directa derecha de la aguja;
 •
-las ruedas derechas del DV circularon un momento con el friso por la cabeza de la lengua y luego comenzaron a caer
-– pero no llegó a su caída completa al hueco entre la lengua y el soporte, porque
-en estos lugares el soporte está aún tan cerca que, tras su deslizamiento de la lengua, se
-produjo el enganche de los frisos en el soporte y las ruedas continuaron
-circulando en dirección a la desviación en el sentido de la 3.ª vía;
+las ruedas derechas del DV circularon durante un rato con el aro sobre la cabeza de la punta y luego comenzaron a caer – pero no llegó a producirse su caída completa al hueco entre la punta y el soporte, porque en estos lugares el soporte está aún tan cerca que, tras su deslizamiento desde la punta, se produjo el enganche de los rebordes en el soporte y las ruedas continuaron circulando en dirección a la desviación en el sentido hacia la 3. SK;
 •
-en las ruedas izquierdas se produjo la circulación por el soporte entre este y la parte rota de la lengua izquierda hasta
-el lugar donde la parte trasera de la lengua izquierda, tras su rotura, estaba en posición junto al soporte,
-y allí se produjo el enganche de las ruedas izquierdas, su subida a la parte restante de la lengua izquierda
-de la aguja y el redireccionamiento forzoso de la circulación del tren Os 4817 a la 3.ª vía.
+en las ruedas izquierdas se produjo la circulación sobre el soporte entre este y la parte desprendida de la punta izquierda hasta el lugar donde la parte trasera de la punta izquierda, tras su rotura, quedó en posición junto al soporte, y allí se produjo el enganche de las ruedas izquierdas, su subida sobre la parte restante de la punta izquierda de la aguja y el redireccionamiento forzoso de la circulación del tren Os 4817 hacia la 3. SK.
 Estado del dispositivo de seguridad:
 •
-la estación de Náměšť nad Oslavou estaba equipada con un SZZ electromecánico;
+la estación Náměšť nad Oslavou estaba equipada con un SZZ electromecánico;
 •
-la aguja n.º 12 era maniobrada centralmente por el operador de St 2 y estaba equipada
-con un maniobrador mecánico y un enclavador mecánico;
+la aguja n.º 12 era maniobrada centralmente por el operador de maniobras St 2 y estaba equipada con un cambiador mecánico y un enclavador mecánico;
 •
-la aguja n.º 12 fue maniobrada a la posición recta con el maniobrador mecánico, estaba
-en la posición final y también se enclavaba en ella. La dependencia mecánica para su
-maniobra se transmitió mediante varillas de alambre al aparato de enclavamiento en St 2;
+la aguja n.º 12 se había conmutado a la posición de vía directa mediante el cambiador mecánico, estaba en la posición final y también se enclavaba en ella. La dependencia mecánica para su conmutación se había transmitido mediante varillas de alambre al aparato de enclavamiento en St 2;
 •
-la rotura de la lengua era de tal carácter que, a pesar de su daño, se permitía la operación
-normal sin averías del dispositivo de seguridad;
+la rotura de la punta era de tal carácter que, a pesar de su daño, se permitía la operación normal sin fallos del dispositivo de seguridad;
 •
-la señal de aguja en la aguja n.º 12 correspondía a la posición del maniobrador, respectivamente
-a la palanca de maniobra en el aparato de enclavamiento;
-
+la señal de aguja en la aguja n.º 12 correspondía a la posición del cambiador, respectivamente, de la palanca de maniobra en el aparato de enclavamiento;
 
 ## Página 16
 
 •
-en el momento del examen del lugar del SU por el DI estaba establecida la ruta de tren de entrada, que
-por razones de seguridad estaba además asegurada con las cerraduras mecánicas mencionadas anteriormente desde la estación de
-Studenec a la vía de estación n.º 2, cuando el dispositivo de seguridad, desde el punto de vista de su
-operación, permitió establecer esta ruta con la operación estándar según la tabla de
-enclavamiento aprobada, es decir, una operación sin estado de avería;
+En el momento de la inspección del lugar del MU DI se había establecido la vía de entrada de tren, que por motivos de seguridad estaba adicionalmente asegurada con los cerraduras mecánicas mencionadas más arriba desde la estación de Studenec a la vía de estación n.º 2, cuando el dispositivo de señalización, desde el punto de vista de su explotación, permitió establecer esta vía mediante la explotación estándar según la tabla de bloqueo aprobada, es decir, una explotación sin estado de avería;
 •
-en los componentes del SZZ, además de la rotura en la lengua de la aguja n.º 12, no se constató
-en el examen la infracción de las dependencias creadas mecánicamente, la infracción de las uniones fijas, la infracción de
-los enclavamientos de seguridad y de los precintos.
+En los componentes del SZZ, aparte de la rotura en el lengüete del desvío n.º 12, la inspección no detectó violación de las dependencias creadas mecánicamente, violación de uniones fijas, violación de los bloqueos de seguridad y de los precintos.
 
-Examen de St 2 y de la oficina de tráfico del jefe de estación de la estación de Náměšť nad Oslavou:
+Inspección de St 2 y de la oficina de tráfico del jefe de estación de la estación de Náměšť nad Oslavou:
 •
-en la aplicación diario de tráfico electrónico se registró en la DK el dato de la entrada
-y salida del tren Os 4817 a y desde la 2.ª vía;
+En la aplicación diario de tráfico electrónico se registró en la DK el dato de la entrada y salida del tren Os 4817 a y desde la 2.ª SK;
 •
-en el Libro de registro telefónico se anotó el día 3. 3. 2021 a las 7:25 h con el n.º 17
-la notificación de la avería n.º 1 SSZT sobre la lengua dañada de la aguja n.º 12
-al maestro de señales;
+En el Registro Telefónico se anotó el día 3. 3. 2021 a las 7:25 h con el n.º 17 la notificación de la avería n.º 1 SSZT sobre el lengüete dañado del desvío n.º 12 al maestro de señales;
 •
-además, en el Libro de registro telefónico se anotó a las 9:25 h con el n.º 18, que la aguja n.º 12
-era transitable con limitación, la circulación a través de la aguja era posible únicamente en la posición recta
-a una velocidad de 10 km.h-1 entre el pk 30,010 y el pk 30,055;
+Además, en el Registro Telefónico se anotó a las 9:25 h con el n.º 18 que el desvío n.º 12 es transitable con limitación, el paso por el desvío solo es posible en dirección directa a una velocidad de 10 km.h-1 entre km 30,010 y km 30,055;
 •
-en el libro Registro de averías del equipo de comunicaciones y seguridad se realizó
-aproximadamente a las 7:25 h (hora de difícil lectura) el día 3. 3. 2021 un registro sobre la constatación de la
-lengua dañada de la aguja n.º 12 y sobre la notificación de esta información a las 7:25 h
-al maestro de señales y al despachador PD 5. Además, se dio de baja la avería
-relativa a la lengua izquierda rota de la aguja n.º 12 en el circuito St 2. En el texto se indica que
-la reparación (de la rotura de la lengua) la realizará «TO Náměšť» y se indica el método
-de aseguramiento de la aguja (hasta la reparación para la posible dirección de circulación a través de la
-lengua derecha no dañada) con cerraduras de recambio portátiles;
+En el Libro Registro de averías de los aparatos de telecomunicaciones y de señalización se realizó, aproximadamente a las 7:25 h (hora mal legible) del día 3. 3. 2021, una anotación sobre la detección del lengüete dañado del desvío n.º 12 y sobre la notificación de esta información a las 7:25 h al maestro de señales y al despachador de PD 5. Además se dio de baja la avería relativa al lengüete izquierdo roto del desvío n.º 12 en el ámbito de St 2. En el texto se indica que la reparación (de la rotura del lengüete) la realizará "TO Náměšť" y se indica el método de aseguramiento del desvío (hasta la reparación, para la posible dirección de paso a través del lengüete derecho no dañado) con cerraduras de cambio portátiles;
 •
-además, en el libro Registro de averías del equipo de comunicaciones y seguridad
-en la DK se anotó: «9:25, Medida de tráfico la determinará TO Náměšť VPS apellido
-del empleado»;
+Además, en el Libro Registro de averías de los aparatos de telecomunicaciones y de señalización se anotó en la DK: "9:25, Medida de tráfico la determinará TO Náměšť VPS apellido del empleado";
 •
-en el libro Registro de averías del equipo de comunicaciones y seguridad en St 2
-el operador realizó a las 7:25 h del día 3. 3. 2021 un registro sobre el daño de la aguja n.º 12,
-sobre el aseguramiento de la aguja en la posición básica de las lenguas con cerraduras de recambio
-y sobre la notificación de la avería al jefe de estación de la estación de Náměšť nad Oslavou (con el n.º 17);
+En el Libro Registro de averías de los aparatos de telecomunicaciones y de señalización en St 2, el señalero realizó a las 7:25 h del día 3. 3. 2021 una anotación sobre el daño del desvío n.º 12, sobre el aseguramiento del desvío en la posición básica de los lengüetes con cerraduras de cambio y sobre la notificación de la avería al jefe de estación de la estación de Náměšť nad Oslavou (con el n.º 17);
 •
-en el cuaderno de libre y correcta establecimiento de la ruta de tren en St 2 se registró el dato
-sobre el establecimiento de la ruta de tren, para la circulación prevista del tren Os 4817 en la 2.ª vía.
+En el registro de libre y correcta establecimiento de la vía de tren en St 2 se anotó el dato del establecimiento de la vía de tren, previsto para la circulación del tren Os 4817 en la 2.ª SK.
 Estado de los vehículos ferroviarios: véase el capítulo 2.3 de esta ZZ.
 Condiciones meteorológicas:
 + 13 °C, seco, despejado, visibilidad no reducida.
 Datos geográficos:
-la línea en el lugar del SU se encuentra a la altura del terreno circundante.
-En el lugar del SU no se realizaron, inmediatamente antes de su origen, por parte del propietario, del explotador de la línea ni de otros sujetos, trabajos de reparación o de mantenimiento. La circulación en el lugar del SU y sus alrededores se desarrollaba en régimen normal.
-
+la vía en el lugar del MU se encuentra a la altura del terreno circundante.
+En el lugar del MU no se realizaron, inmediatamente antes de su producción, por parte del propietario, del explotador de la vía ni de otros sujetos, ningún tipo de trabajos de reparación o de mantenimiento. La circulación en el lugar del MU y sus alrededores se desarrollaba en régimen normal.
 
 ## Página 17
+
 
 ### 3.1.4 Fallecidos, heridos y daños materiales
 En el SU no se produjeron lesiones en la salud de los empleados del explotador de la línea, del transportista, de las personas en relación contractual ni tampoco de los pasajeros ni de terceras personas.
@@ -626,8 +577,8 @@ El explotador de la línea de ferrocarril, categoría nacional, Brno-Horní Her�
 El transportista del tren Os 4817 era ČD, con domicilio en Nábřeží L. Svobody 1222, Praha 1, CP 110 15.
 El transporte ferroviario se realizaba en virtud de un contrato celebrado entre el explotador de la línea SŽ y el transportista ČD el día 20. 1. 2020, con efectos desde el 23. 1. 2020.
 
-
 ## Página 18
+
 
 ### 3.1.7 Descripción de los vehículos ferroviarios y sus composiciones, incluidos los números de registro
 | Tren: | Os4817 | Composición del tren: |  | Régimen de frenado: |
@@ -676,6 +627,7 @@ aparato de enclavamiento en St 2 y señales luminosas. El SZZ tenía un certific
 
 ## Página 19
 
+
 de idoneidad emitido por el Drážní úřad el 29. 7. 1996 con vigencia por tiempo indefinido. Su última inspección ordinaria se realizó el 12. 4. 2020 con n.º de registro 109/2020-LP y vigencia hasta el 9. 4. 2025. El SZZ se encontraba en el momento del suceso del MU en estado sin averías y cumplía su función. El estado del SZZ no guardaba relación causal con la aparición del MU.
 La aguja simple n.º 12 es de tipo 1:9-300 Pp, con corazón montado sin sobreelevación de los raíles de las alas, con lengüetas de muelle soldadas y cierres de gancho. La aguja se insertó en la vía en el año 1981, está montada sobre traviesas de madera, en una vía con circuitos de vía y maniobrada centralmente. En la placa de la aguja, que seguía siendo legible, estaba indicado el fabricante de la lengüeta de la aguja, que eran las Železárny Prostějov.
 En la lengüeta izquierda curvada de la aguja (año de fabricación 1980) se produjo entre el 5.º y el 6.º travesaño deslizante (a una distancia de 2,75 m de la punta de la lengüeta, en el km 30,045) una fractura casi vertical en toda la sección de la lengüeta de la aguja. La superficie de fractura presentaba un carácter homogéneo de fractura frágil. En la cara inferior del pie de la lengüeta se detectó su daño (un cráter quemado con metal fundido alrededor). Esta superficie y la parte alrededor de este punto presentaban signos de ataque corrosivo y formación de grietas (véase la fig. n.º 4). Del DI se aseguraron dos partes de la lengüeta – muestras con superficies de fractura, que fueron posteriormente remitidas para un examen pericial.
@@ -695,68 +647,66 @@ jefe de estación de la est. Náměšť nad Oslavou
   – Registro de la explicación aportada al DI:
 ◦al incorporarse al turno estaba descansado y el turno transcurrió con normalidad hasta la aparición del MU. Antes del servicio tuvo un descanso suficiente y no se produjeron anomalías antes de la incorporación. Desempeña la función de jefe de estación únicamente en la est. Náměšť nad Oslavou y ello desde el año 1996;
 
-
 ## Página 20
 
-◦con el señalero en St 2 habló antes de la circulación del tren Os 4817 solo una vez por la preparación de la ruta de tren para este tren. Tras la entrada del tren en una vía distinta de la prevista, habló también una sola vez con el señalero sobre este suceso, no emitió ninguna otra instrucción al señalero de St 2;
-◦a las 7:21 h llamó el VPS para decir que se había producido una avería en la aguja. La información sobre la fractura de la lengüeta de la aguja n.º 12 la recibió del jefe de vías (nota DI: VPS), probablemente se le comunicó esta información verbalmente a las 7:29 h;
-◦antes de la entrada del tren Os 4817 estaba delante de la sala de tráfico. Al entrar el tren en la 3.ª SK se asustó y comprobó el SZZ, en el que constó que la ruta de tren se había establecido correctamente. A continuación habló verbalmente con el maquinista del tren Os 4817, el maquinista le informó de que la lengüeta de la aguja estaba inclinada de forma extraña, y él le informó de que el tren Os 4817 se despacharía desde la 3.ª SK. En el momento del despacho y de la salida del tren Os 4817 no sabía que se hubiera producido la fractura de la lengüeta de la aguja;
-◦decidió él mismo la salida del tren Os 4817, el tren partió a las 7:20 h. Entre sus competencias profesionales se encuentra el conocimiento de la norma SŽDC D17, no evaluó la entrada del tren Os 4817 en la 3.ª SK como MU, hasta la redacción de la declaración de explicación al empleador evaluó este suceso como una avería técnica. Sobre el hecho de que se hubiera producido el MU, probablemente le informó la persona autorizada durante la redacción de la declaración de explicación al empleador.
+◦con el señalizador de la St 2 habló antes de la circulación del tren Os 4817 solo una vez con motivo de la preparación de la vía libre para dicho tren. Tras la entrada del tren en una vía distinta de la prevista, habló también una sola vez con el señalizador de la St 2 sobre este suceso; no dio ninguna instrucción adicional al señalizador de la St 2;
+◦a las 7:21 h llamó el VPS para comunicar que se había producido una avería en el desvío. La información sobre la rotura de la lengüeta del desvío n.º 12 la recibió del jefe de vía (nota DI: VPS); probablemente se le comunicó esta información verbalmente a las 7:29 h;
+◦antes de la entrada del tren Os 4817 se encontraba delante de la oficina de tráfico. Al entrar el tren en la 3. SK se sobresaltó y comprobó el SZZ, en el que detectó que la vía libre se había establecido correctamente. A continuación habló verbalmente con el maquinista del tren Os 4817; el maquinista le informó de que la lengüeta del desvío estaba extrañamente inclinada, y él le informó de que el tren Os 4817 se despacharía desde la 3. SK. En el momento del despacho y de la salida del tren Os 4817 no sabía que se hubiera producido la rotura de la lengüeta del desvío;
+◦decidió por sí mismo la salida del tren Os 4817; el tren partió a las 7:20 h. Entre sus competencias profesionales se encuentra el conocimiento de la norma SŽDC D17; no evaluó la entrada del tren Os 4817 en la 3. SK como MU, y hasta la redacción de la declaración de explicación al empleador evaluó este suceso como una avería técnica. Probablemente fue la persona autorizada quien le informó de que se había producido un MU durante la redacción de la declaración de explicación al empleador.
 •
-señalero de St 2 de la est. Náměšť nad Oslavou
+señalizador de la St 2 est. Náměšť nad Oslavou
   – Acta con el empleado:
-◦tras la emisión de la orden por parte del jefe de estación para la preparación de la ruta de tren para el tren Os 4817, comprobó la libertad de la ruta de tren;
-◦tras liberar el jefe de estación el enclavamiento de señales, comprobó el número de vía en el cuadro de numeración de vías y lo confirmó al jefe de estación mediante timbre, y estableció la ruta de tren;
-◦en la palanca de la aguja n.º 12, al maniobrarla, no observó ningún cambio, ni un recorrido más ligero ni más pesado;
-◦traspasó el cerrador de vía para la ruta de tren, cerró el bloqueo de agujas y a continuación ya esperaba la entrada del tren Os 4817 en la 2.ª SK;
-◦al entrar el tren Os 4817 observó que entraba en otra vía, comprobó visualmente el estado del SZZ. Todo le pareció en orden y a continuación el tren ya pasaba junto a St 2, por lo que no pudo detenerlo. Además, informó de todo al jefe de estación.
+◦tras la orden dada por el jefe de estación para la preparación de la vía libre para el tren Os 4817, comprobó la libertad de la vía libre;
+◦una vez que el jefe de estación liberó el enclavamiento de señales, comprobó el número de vía en la tabla de numeración de vías y lo confirmó al jefe de estación mediante timbre, y estableció la vía libre;
+◦en la palanca del desvío n.º 12, al accionarla, no observó ningún cambio, ni un recorrido más ligero ni más pesado;
+◦traspasó el cerrador de vía para la vía libre, cerró el bloqueo de cambios y a continuación ya esperaba la entrada del tren Os 4817 en la 2. SK;
+◦al entrar el tren Os 4817 observó que entraba en otra vía y comprobó visualmente el estado del SZZ. Todo le pareció en orden y, como el tren ya pasaba junto a la St 2, no pudo detenerlo. A continuación comunicó todo al jefe de estación.
 •
-señalero de St 2 de la est. Náměšť nad Oslavou
-  – Registro de la explicación aportada al DI:
-◦al incorporarse al turno estaba descansado y el turno transcurrió con normalidad hasta la aparición del MU. Antes del servicio tuvo un descanso suficiente y no se produjeron anomalías antes de la incorporación. En la función de señalero en St 2 de la est. Náměšť nad Oslavou realizaba 14 – 15 servicios al mes;
-◦el MU se produjo en los primeros momentos tras la toma de turno. Primero partió un tren desde la 3.ª SK y a continuación ya estableció la ruta de tren para el tren Os 4817. Antes de la circulación del tren Os 4817 comunicó con el jefe de estación solo una vez, por teléfono conectado al circuito de agujas;
-◦observó desde la ventana de St 2 la entrada del tren en la est. Náměšť nad Oslavou. En ese momento había un poco de penumbra. Casi de inmediato observó la circulación del tren Os 4817 en la 3.ª SK. Inmediatamente se
-
+señalizador de la St 2 est. Náměšť nad Oslavou
+  – Registro de la declaración de explicación presentada DI:
+◦al incorporarse al turno estaba descansado y el turno transcurrió con normalidad hasta la producción del MU. Antes del servicio tuvo el descanso suficiente y no se produjeron anomalías antes de la incorporación. En su función de señalizador en la St 2 de la est. Náměšť nad Oslavou realizaba 14 – 15 servicios al mes;
+◦el MU se produjo en los primeros momentos tras la toma del turno. Primero partió un tren desde la 3. SK y a continuación ya estableció la vía libre para el tren Os 4817. Antes de la circulación del tren Os 4817 comunicó con el jefe de estación solo una vez, por teléfono conectado al circuito de cambio de agujas;
+◦siguió desde la ventana de la St 2 la entrada del tren en la est. Náměšť nad Oslavou. En ese momento había un poco de penumbra. Casi de inmediato observó la circulación del tren Os 4817 en la 3. SK. Inmediatamente se
 
 ## Página 21
 
-dio la vuelta y comprobó el estado del SZZ, y al darse la vuelta de nuevo, el tren ya se aproximaba a St 2. Además, informó al jefe de estación de la entrada del tren Os 4817 en una vía distinta de la prevista mediante el teléfono conectado al circuito de agujas, no adoptó ninguna otra medida;
-◦durante la circulación del tren Os 4817 por la aguja n.º 12 no notó ninguna conducta no estándar del tren;
-◦se enteró de la fractura de la lengüeta de la aguja n.º 12 por parte del empleado que realizaba el mantenimiento de la vía, que pasaba junto a St 2. En el momento en que la aguja ya estaba asegurada, el jefe de estación le informó de que se había producido el MU.
+dio la vuelta y comprobó el estado de la SZZ; cuando dio la vuelta de nuevo, el tren ya se aproximaba a la St 2. Además, informó al jefe de estación de la entrada del tren Os 4817 en una vía distinta de la prevista mediante un teléfono conectado al circuito de cambio de agujas, sin adoptar ninguna otra medida;
+◦durante el paso del tren Os 4817 por el cambio de agujas n.º 12 no observó ningún comportamiento anormal del tren;
+◦del quiebre de la lengüeta del cambio de agujas n.º 12 se enteró por parte de un empleado que realizaba el mantenimiento de la vía, que pasaba junto a la St 2. En el momento en que ya se había asegurado el cambio de agujas, el jefe de estación le informó de que se había producido una MU.
 •
 VPS
-  – Registro de la explicación aportada al DI:
-◦el jefe de estación de la est. Náměšť nad Oslavou le llamó por teléfono después de las 7, aproximadamente entre las 7:15 h – 7:20 h, para decirle que el tren había llegado a una vía distinta de aquella en la que se había establecido la ruta de tren, y que fuera a comprobar las agujas en dicha ruta para el tren Os 4817, que allí habría algún problema;
-◦en el momento en que el jefe de estación le informó del problema en la aguja, se encontraba en su oficina. Se vistió y se calzó y fue a ver las agujas en la ruta de tren para el tren Os 4817. Tras 5 – 10 minutos llegó a la aguja n.º 12 y a continuación llamó por teléfono móvil al jefe de estación para decirle que la aguja era impracticable. Al mismo tiempo llamó por teléfono a la despachadora y al jefe adjunto operativo. En el lugar comprobó que se había producido la fractura de la lengüeta de la aguja n.º 12;
-◦a la pregunta de si en las lengüetas o, en su caso, en otras piezas de la aguja n.º 12 eran visibles huellas de descarrilamiento y de trepado de la lengüeta por la rueda del vehículo ferroviario, respondió que a primera vista no tenía idea de cómo había llegado el tren a la 3.ª SK, no notó nada. Solo tras la llegada de los empleados de la Dirección de Técnica de Señalización y Seguridad, que llegaron aproximadamente a los media hora, se planteó cómo pudo el tren Os 4817 llegar a otra vía. A continuación notaron huellas de descarrilamiento – el trepado de las ruedas del tren Os 4817 sobre la segunda lengüeta de la aguja;
-◦habló con el jefe de la Dirección de Vías de Jihlava, que le dijo que llegarían las personas autorizadas, que no debía manipular nada y que debía esperarlas. Se fue a la oficina y se ocupó de pedir una nueva lengüeta de aguja;
-◦cuando volvió a la aguja, ya estaban allí las personas autorizadas de SŽ y, tras documentar el lugar, obtuvieron el permiso para asegurar el lugar – la seguridad de la aguja para la circulación en dirección directa. Las personas autorizadas, que llegaron aproximadamente entre las 9 y las 10, emitieron esta instrucción, es decir, entre otras cosas, se retiró la parte desprendida de la lengüeta de la aguja n.º 12;
-◦tiene el conocimiento de la norma SŽDC D17. Se consideró que se había producido el MU probablemente por parte de la persona autorizada en el lugar durante su presencia.
+  – Registro de la declaración prestada por el DI:
+◦el jefe de estación de la est. Náměšť nad Oslavou le llamó por teléfono después de las 7 horas, aproximadamente entre las 7:15 h y las 7:20 h, para decirle que el tren había llegado a una vía distinta de la que se había establecido el itinerario de tren y que fuera a comprobar los cambios de agujas en dicho itinerario para el tren Os 4817, que allí habría algún problema;
+◦en el momento en que el jefe de estación le informó del problema en el cambio de agujas, se encontraba en su oficina. Se vistió y se calzó y fue a mirar los cambios de agujas en el itinerario de tren para el tren Os 4817. Después de 5 – 10 minutos llegó al cambio de agujas n.º 12 y a continuación llamó por teléfono móvil al jefe de estación para decirle que el cambio de agujas no era transitable. Al mismo tiempo llamó por teléfono a la despachadora y al subdirector de explotación. En el lugar comprobó que se había producido un quiebre de la lengüeta del cambio de agujas n.º 12;
+◦a la pregunta de si en las lengüetas o en otros componentes del cambio de agujas n.º 12 eran visibles huellas de descarrilamiento y de trepado de la lengüeta por la rueda del vehículo ferroviario, respondió que a primera vista no sabía cómo había llegado el tren a la 3. SK, no había notado nada. Solo tras la llegada de los empleados de la Administración de Técnica de Comunicaciones y Seguridad, que llegaron aproximadamente a los media hora, se plantearon cómo pudo el tren Os 4817 llegar a otra vía. Después notaron las huellas de descarrilamiento – el trepado de las ruedas del tren Os 4817 por la segunda lengüeta del cambio de agujas;
+◦habló con el jefe de la Administración de Vías Jihlava, que le dijo que llegarían las personas autorizadas, que no manipulara nada y que debía esperarlas. Se fue a la oficina y se ocupó de pedir una lengüeta nueva de cambio de agujas;
+◦cuando volvió al cambio de agujas, ya estaban allí las personas autorizadas de SŽ y, tras documentar el lugar, obtuvieron el permiso para asegurar el lugar – asegurar el cambio de agujas para la circulación en dirección directa. Las personas autorizadas, que llegaron aproximadamente entre las 9 y las 10 horas, emitieron esta instrucción, es decir, entre otras cosas se retiró la parte desprendida de la lengüeta del cambio de agujas n.º 12;
+◦el reglamento SŽDC D17 lo tiene en conocimiento. Se valoró que la declaración de la MU se produjo probablemente por parte de la persona autorizada en el lugar, en su presencia.
 •
 maquinista del tren Os 4817
   – Acta con el empleado:
-◦durante la circulación del tren Os 4817 entre la est. Studenec y la est. Náměšť nad Oslavou, el jefe de estación de la est. Náměšť nad Oslavou les preguntó si se les había emitido la orden de circulación lenta y, entre otras cosas, se les informó de que la circulación del tren se realizaría en la 2.ª SK. El tren lo conducía una maquinista en formación, que le confirmó la emisión de la orden;
-
+◦durante el trayecto del tren Os 4817 entre la est. Studenec y la est. Náměšť nad Oslavou, el jefe de estación de la est. Náměšť nad Oslavou le preguntó si se les había emitido la orden de marcha lenta, y entre otras cosas se les informó de que la circulación del tren se realizaría en la 2. SK. El tren lo conducía una maquinista en formación, que le confirmó la emisión de la orden;
 
 ## Página 22
 
-◦al entrar en la est. Náměšť nad Oslavou entraron en la señal «Velocidad 40 km/h y aviso». Se concentró para que no se superara la velocidad del tren. Tras pasar el tren por las agujas comprobó que la circulación del tren se había realizado en la 3.ª SK;
-◦tras detenerse, preguntó al jefe de estación por qué habían entrado en la 3.ª SK si originalmente se les había informado de que entrarían en la 2.ª SK. El jefe de estación le informó de una posible avería técnica, de que todo el asunto debía verificarse;
-◦la salida del tren se realizó a continuación desde la 3.ª SK en dirección a la est. Zastávka u Brna;
-◦a la pregunta de si recibió para la circulación del tren Os 4817 alguna orden o información sobre la necesidad de una circulación cuidadosa o de una circulación a velocidad reducida, respondió que recibieron la orden de circulación lenta, que se refería al tramo Rapotice – Zastávka u Brna;
-◦en su declaración añadió que durante la entrada del tren Os 4817, en el tramo desde la señal de entrada de la est. Náměšť nad Oslavou hasta la detención, no notó nada especial ni registró al pasar por la zona de agujas golpes anormales en el bogie en comparación con el estado operativo normal.
+◦al entrar en la estación de Náměšť nad Oslavou, entraron en la señal «Velocidad 40 km/h y aviso». Se concentró para que no se superara la velocidad del tren. Tras pasar el tren por los desvíos, comprobó que la circulación del tren se había realizado en la 3.ª vía;
+◦tras detenerse, preguntó al jefe de estación por qué habían entrado en la 3.ª vía, cuando originalmente les habían informado de que entrarían en la 2.ª vía. El jefe de estación le informó de una posible avería técnica y de que todo el asunto debía ser verificado;
+◦la salida del tren se realizó a continuación desde la 3.ª vía en dirección a la estación de Zastávka u Brna;
+◦a la pregunta de si había recibido para la circulación del tren Os 4817 alguna orden o información sobre la necesidad de una circulación prudente o de una circulación a velocidad reducida, respondió que habían recibido una orden de circulación lenta, que se refería al tramo Rapotice – Zastávka u Brna;
+◦en su declaración añadió que, durante la entrada del tren Os 4817, en el tramo desde la señal de entrada de la estación de Náměšť nad Oslavou hasta la detención, no había notado nada especial ni había registrado durante el paso en el ámbito de los desvíos golpes extraordinarios en el bogie respecto al estado operativo normal.
 •
 maquinista del tren Os 4817
-  – Registro de la explicación aportada al DI:
-◦al incorporarse al turno estaba descansado y el turno transcurrió con normalidad hasta la aparición del MU. Antes del servicio tuvo un descanso suficiente;
-◦aproximadamente a mitad del trayecto desde la est. Studenec hasta la est. Náměšť nad Oslavou llamó el jefe de estación para decirles que entrarían en la 2.ª SK. Llegaron a la est. Náměšť nad Oslavou con la preseñal «Espere velocidad 40 km/h» y en la señal había la señal «Velocidad 40 km/h y aviso». Se concentró en la actividad de la maquinista en formación, que conducía el tren, para que frenara el tren a menos de 40 km.h-1, la vía desciende aquí hacia la estación, para que no circularan a mayor velocidad al entrar;
-◦ni el maquinista, ni la maquinista en formación, ni el jefe de tren registraron ningún golpe durante la circulación;
-◦tras detenerse, fue a preguntar al jefe de estación, que estaba delante del edificio junto al andén, si ocurría algo, porque habían entrado en la 3.ª SK. El jefe de estación decía que tendría que enviar a alguien a la cabecera de la estación y, a continuación, estableció la ruta de circulación para el tren Os 4817 y les despachó desde la 3.ª SK;
-◦tras la detención del tren en la est. Náměšť nad Oslavou, subieron y bajaron pasajeros, habló con el jefe de estación y a continuación se despachó el tren Os 4817, aproximadamente a los 3 minutos de su detención;
-◦a la pregunta: «El jefe de estación, en su declaración de explicación al empleador, indicó que usted le informó de la lengüeta de la aguja “inclinada de forma extraña”. ¿Informó usted al jefe de estación de ello, en caso afirmativo, ¿le comunicó exactamente esta información? ¿Se refería esta información a la lengüeta de la aguja n.º 12?», respondió que no le dijo tal información. Solo le preguntó si estaba bien que hubieran llegado a la 3.ª SK. Al entrar se concentró en la maquinista en formación, no prestó atención a las agujas en la ruta de tren durante la entrada del tren Os 4817 en la est. Náměšť nad Oslavou;
-◦se enteró de la aparición del MU solo en la est. Zastávka u Brna, donde fue a ver al jefe de estación para tratar la situación del tráfico y este le dijo que se había producido un MU en la est. Náměšť nad Oslavou. De ello entendió que probablemente se había producido un MU durante la circulación de su tren en la est. Náměšť
+  – Registro de la explicación presentada DI:
+◦al incorporarse al turno estaba descansado y el turno transcurrió con normalidad hasta la aparición de la MU. Antes del servicio tuvo un descanso suficiente;
+◦aproximadamente a mitad del trayecto desde la estación de Studenec hasta la estación de Náměšť nad Oslavou, llamó el jefe de estación para decirles que entrarían en la 2.ª vía. Llegaron a la estación de Náměšť nad Oslavou con el preaviso «Espere velocidad 40 km/h» y en la señal había la señal «Velocidad 40 km/h y aviso». Se concentró en la actividad del maquinista en prácticas, que conducía el tren, para que frenara el convoy a menos de 40 km.h-1, la vía desciende aquí hacia la estación, para que no circularan a mayor velocidad al entrar;
+◦ni el maquinista, ni el maquinista en prácticas, ni el jefe de tren registraron golpes durante la circulación;
+◦tras detenerse, fue a preguntar al jefe de estación, que estaba delante del edificio junto al andén, si ocurría algo, porque habían entrado en la 3.ª vía. El jefe de estación dijo que tendría que enviar a alguien a la cabecera de la estación y, a continuación, estableció la ruta para el tren Os 4817 y lo despachó desde la 3.ª vía;
+◦tras la detención del tren en la estación de Náměšť nad Oslavou, subieron y bajaron pasajeros, habló con el jefe de estación y a continuación se despachó el tren Os 4816, aproximadamente en 3 minutos desde su detención;
+◦a la pregunta: «El jefe de estación, en su presentación de la explicación al empleador, indicó que usted le había informado de la aguja "inclinada de forma extraña". ¿Informó usted al jefe de estación de ello, en caso afirmativo, ¿le comunicó exactamente esta información? ¿Se refería esta información a la aguja n.º 12?», respondió que no le había dicho tal información. Solo le preguntó si estaba bien que hubieran llegado a la 3.ª vía. Al entrar, se concentró en el maquinista en prácticas, no prestó atención a los desvíos en la ruta del tren durante la entrada del tren Os 4817 en la estación de Náměšť nad Oslavou;
+◦se enteró de la aparición de la MU solo en la estación de Zastávka u Brna, donde fue al jefe de estación a resolver la situación del tráfico y este le dijo que se había producido la MU en la estación de Náměšť nad Oslavou. De ello entendió que probablemente se había producido la MU durante la circulación de su tren en la estación de Náměšť
 
 ## Página 23
+
 
 nad Oslavou. Desde la estación Zastávka u Brna debían los maquinistas en formación subir
 al tren, que debía llegar desde la estación Náměšť nad Oslavou.
@@ -787,37 +737,64 @@ La zona en el lugar del MU ni en toda la estación Náměšť nad Oslavou estaba
 •
 8:07:57 h el VPS pasaba de nuevo por la zona delante de St 2 en dirección desde DK hacia la aguja n.º 12; mientras tanto llegó en dirección desde la aguja una furgoneta azul y, con otra persona, se dirigieron después en dirección a la aguja n.º 12. El conductor que estacionó la furgoneta se dirigió después también en dirección a la aguja n.º 12;
 
-
 ## Página 24
 
 •
-8:14:47 h el VPS fue a St 2, donde permaneció aproximadamente un minuto y medio;
+8:14:47 h el VPS fue a St 2, donde se detuvo aproximadamente un minuto y medio;
 •
-8:35:15 h el VPS y otras dos personas partieron de la aguja n.º 12, primero hacia St 2 y después en dirección a la estación hacia DK;
-A partir de entonces ya no es posible identificar de forma inequívoca en las grabaciones a las personas que se movían en las inmediaciones de St 2 (aparecieron otras dos personas).
+8:35:15 h el VPS y otras dos personas abandonaron la aguja n.º 12, primero hacia St 2 y
+posteriormente en dirección a la estación hacia DK;
+A partir de entonces ya no es posible identificar de forma inequívoca en los registros a las
+personas individuales que se movían en las inmediaciones de St 2 (aparecieron otras dos
+personas).
 •
-9:36:15 h el tren R 653 pasó por la zona delante de St 2 en dirección desde la estación Studenec;
+9:36:15 h el tren R 653 pasó por el espacio situado delante de St 2 en dirección desde la
+est. Studenec;
 •
-9:54:00 h partió hacia la estación Studenec el tren Os 4808;
+9:54:00 h el tren Os 4808 partió hacia la est. Studenec;
 •
-9:58:15 h otras dos personas entraron en St 2, donde permanecieron aproximadamente 16 minutos y después se marcharon en dirección a la estación. Según las explicaciones facilitadas, corresponde a las personas autorizadas de SŽ en el lugar de origen del MU;
+9:58:15 h otras dos personas entraron en St 2, donde se detuvieron aproximadamente 16
+minutos y posteriormente se marcharon en dirección a la estación. Según las explicaciones
+facilitadas, esto corresponde a las personas autorizadas de SŽ en el lugar de origen del MU;
 •
-10:35:05 h el señalizador de St 2 se dirigió en dirección a la aguja n.º 12, desde donde regresó a las 10:48:45 h (mantenimiento operativo de las agujas, corresponde a las anotaciones en el Libro de registro telefónico).
-Las grabaciones pertinentes de las cámaras en un contexto más amplio se utilizaron en el análisis en la parte 4.1.1 de esta ZZ.
+10:35:05 h el señalizador de St 2 se dirigió hacia la aguja n.º 12, desde la que regresó a
+las 10:48:45 h (mantenimiento operativo de las agujas, corresponde a las anotaciones en el
+Registro Telefónico).
+Los registros individuales relevantes de las cámaras, en un contexto más amplio, se han
+utilizado en el análisis en la parte 4.1.1 de la presente ZZ.
 ### 3.2 Descripción fáctica del suceso
-### 3.2.1 Secuencia de hechos que condujeron al suceso extraordinario
-El 3 de marzo de 2021 a las 7:02 h llegó en la 3. SK a la estación Náměšť nad Oslavou desde la dirección de la estación Brno hl. n. el tren Os 11548 con retraso. Aquí cambió su número por el de tren Os 4802 y, con el nuevo número, partió a las 7:04 h (en dirección a Třebíč) hacia la estación contigua Studenec. Para el tren se estableció la ruta de tren con la operación normal de SZZ. Durante la marcha pasó, entre otros, por la aguja n.º 12 (en dirección a favor de las puntas de los víveres), que estaba establecida para la marcha hacia la desviación de modo que el víver izquierdo se apoyaba contra el carril de apoyo.
-A continuación se estableció la ruta de tren para el tren Os 4817 en la 2. SK con la operación normal de SZZ. El tren Os 4817 circulaba desde la estación Jihlava hasta la estación Brno hl. n. y llegó con 7 min de retraso a la estación Náměšť nad Oslavou. La aguja n.º 12 en la ruta de tren estaba, para la dirección hacia la 2. SK, establecida en recto de modo que el víver derecho recto se apoyaba contra el carril de apoyo derecho curvo y el víver izquierdo curvo debía estar completamente separado del carril de apoyo.
-Durante la marcha del tren anterior Os 4802 por la aguja n.º 12, o como muy tarde en su posterior cambio de posición, se produjo la fractura completa del víver izquierdo, que se produjo a una distancia de 2,75 m de su punta. Su parte delantera se desprendió y quedó unida al cierre de la aguja y, al cambiar de posición, se separó del carril de apoyo, pero la parte restante del víver izquierdo no se separó del carril de apoyo, porque sobre ella no podía actuar la fuerza de cambio de posición debido a la fractura. Se produjo así una situación indeseada en la que ambos víveres de la aguja n.º 12 estaban simultáneamente apoyados contra los carriles de apoyo – la parte restante del víver izquierdo permaneció cambiada en la posición para la marcha hacia la desviación, y a la vez el víver derecho estaba cambiado para la marcha en dirección recta (véase Fig. n.º 2).
-
+### 3.2.1 Secuencia de hechos que condujeron al suceso excepcional
+El 3 de marzo de 2021 a las 7:02 h llegó al 3.º SK de la est. Náměšť nad Oslavou, procedente
+de la est. Brno hl. n., el tren Os 11548 con retraso. Allí cambió su número por el del tren
+Os 4802 y, con el nuevo número, partió a las 7:04 h (en dirección a Třebíč) hacia la est.
+contigua Studenec. Para el tren se estableció la ruta ferroviaria mediante el servicio normal
+de SZZ. Durante la circulación pasó, entre otros puntos, por la aguja n.º 12 (en dirección
+por las puntas de los labios), que se había establecido para la circulación hacia el desvío de
+modo que el labio izquierdo quedaba adosado al soporte.
+Posteriormente se estableció la ruta ferroviaria para el tren Os 4817 en el 2.º SK mediante
+el servicio normal de SZZ. El tren Os 4817 circulaba desde la est. Jihlava hasta la est. Brno
+hl. n. y llegaba con 7 min de retraso a la est. Náměšť nad Oslavou. La aguja n.º 12 en la
+ruta ferroviaria se había establecido, para el dirección hacia el 2.º SK, en posición de
+directo de modo que el labio derecho recto quedaba adosado al soporte derecho curvado y el
+labio izquierdo curvado debía quedar completamente separado del soporte.
+Durante la circulación del tren anterior Os 4802 por la aguja n.º 12, o en su defecto como
+más tarde en su posterior cambio de posición, se produjo la fractura total del labio izquierdo,
+que se produjo a una distancia de 2,75 m de su punta. Su parte delantera se desprendió y
+permaneció unida al cierre de la aguja y, al cambiar de posición, se separó del soporte; sin
+embargo, la parte restante del labio izquierdo no se separó del soporte, ya que sobre él no
+podía actuar la fuerza de cambio de posición debido a la fractura. Se produjo así una
+situación indeseable en la que ambos labios de la aguja n.º 12 quedaban simultáneamente
+adosados a los soportes – la parte restante del labio izquierdo permaneció cambiada en la
+posición para la circulación hacia el desvío, y a la vez el labio derecho estaba cambiado
+para la circulación en dirección directa (véase la Fig. n.º 2).
 
 ## Página 25
 
-Fig. n.º 2: Estado del víver izquierdo y de la aguja n.º 12 tras el MU                            Fuente: SŽ
-El tren Os 4817, al marchar contra las puntas de los víveres, chocó con la parte restante del víver izquierdo de la aguja, que permaneció cambiado en la posición para la marcha en dirección a la 3. SK, es decir, hacia la desviación. Se produjo la subida y el salto de las ruedas sobre este víver y la marcha momentánea del tren en ambas direcciones a la vez. Las ruedas derechas del tren Os 4817 fueron progresivamente descarriladas a la derecha en el sentido de marcha, treparon sobre el víver derecho de la aguja y, a continuación, se hundieron en los lugares donde los guardarruedas se apoyaron sobre la cabeza del carril de apoyo derecho. Las ruedas izquierdas del tren no treparon sobre la parte apoyada del víver izquierdo y se produció así el redireccionamiento
-
+Obr. č. 2: Stav levého jazyka a výhybky č. 12 po MU                            Zdroj: SŽ
+El tren Os 4817, al circular en sentido contrario a las puntas de las agujas, chocó con la parte restante de la lengua izquierda de la aguja, que permanecía dispuesta en la posición para la circulación en dirección al 3. SK, es decir, hacia la desviación. Se produjo el paso y el salto de las ruedas sobre esta lengua y la circulación momentánea del tren en ambos sentidos a la vez. Las ruedas derechas del tren Os 4817 descarrilaron progresivamente a la derecha en el sentido de la marcha, treparon sobre la lengua derecha de la aguja y a continuación se hundieron en los puntos donde los guardarruedas se apoyaron sobre la cabeza de la soporte derecha. Las ruedas izquierdas del tren no treparon sobre la parte adyacente de la lengua izquierda y se produció así la redirección
 
 ## Página 26
+
 
 de la marcha del tren Os 4817 hacia la 3. SK. Todos los ejes del tren continuaron, tras este mecanismo de salto forzado sobre el víver derecho, que originalmente debía guiar la composición del tren en dirección recta, la marcha no asegurada en dirección de desviación hacia la 3. SK.
 Fig. n.º 3: Fractura del víver de la aguja n.º 12, estado tras la marcha del tren Os 4817
@@ -834,57 +811,57 @@ la aguja quedó así en un estado indeseado en el que, al cambiar de posición, 
 •
 posteriormente, durante el paso del tren Os 4817 por la aguja n.º 12, se produjo una situación en la que las ruedas izquierdas fueron chocando progresivamente con la superficie de fractura de la parte restante del víver izquierdo, que permaneció apoyada contra el carril de apoyo, no treparon sobre él, no descarrilaron, pero mantuvieron la dirección y continuaron la marcha en dirección a la desviación;
 
-
 ## Página 27
 
 •
-así, las ruedas izquierdas, más cargadas por la fuerza centrífuga, al ir en lugar de hacia la recta ya por el lado exterior de la curva, empujaban y dirigían progresivamente todo el tren en dirección a la desviación y, al marchar en una vía cada vez más estrecha, ejercían una presión lateral cada vez mayor sobre las ruedas derechas, más descargadas, que comenzaron a trepar sobre el víver derecho;
+las ruedas izquierdas, más cargadas por la fuerza centrífuga, que circulaban en lugar de por la recta por el lado exterior de la curva, empujaban y dirigían progresivamente todo el tren hacia la desviación, y al circular por un ancho de vía cada vez más estrecho ejercían una presión lateral cada vez mayor sobre las ruedas derechas, más aligeradas, que comenzaron a trepar sobre el laberinto derecho;
 •
-el tren primero descarriló brevemente de forma progresiva con las ruedas derechas, de modo que las ocho ruedas derechas treparon progresivamente sobre la cabeza del víver derecho y, tras una breve marcha con los guardarruedas sobre el víver, todas volvieron a bajar de él y se recolocaron sobre el carril de apoyo derecho. A continuación, ya sin descarrilarse, continuó la marcha hacia la desviación;
+el tren primero descarriló brevemente de forma progresiva por las ruedas derechas, de modo que las ocho ruedas derechas treparon progresivamente sobre la cabeza del laberinto derecho y, tras un breve recorrido con los aros por el laberinto, todas volvieron a bajar y se recolocaron sobre el asiento derecho. A partir de ahí, ya sin descarrilarse, continuó el recorrido hacia la desviación;
 •
-dado que las ocho ruedas izquierdas del tren se mantuvieron sobre la parte restante del víver izquierdo y no descarrilaron, se produció así el redireccionamiento forzado completo de la marcha de todo el tren Os 4817 en dirección a la desviación de la aguja n.º 12, es decir, hacia otra vía;
+dado que las ocho ruedas izquierdas del tren se mantuvieron en la parte restante del laberinto izquierdo y no se descarrilaron, se produjo así el redireccionamiento forzado completo de la circulación de todo el tren Os 4817 hacia la desviación del desvío n.º 12, es decir, hacia otra vía;
 •
-el tren continuó después en dirección incorrecta e inesperada hacia la 3. SK, con lo que se produjo una marcha no asegurada.
-### 3.2.2 Secuencia de hechos desde el origen del suceso extraordinario hasta la finalización de las acciones de los servicios de rescate
+el tren continuó en una dirección incorrecta e inintencionada por la 3. SK, lo que dio lugar a una circulación no asegurada.
+### 3.2.2 Secuencia de hechos desde la producción del suceso excepcional hasta la finalización de las acciones de los servicios de rescate
 •
 7:18 h
-el tren Os 4817 entró en la estación Náměšť nad Oslavou;
+el tren Os 4817 entró en la est. Náměšť nad Oslavou;
 •
 7:19 h
-el tren se detuvo en la 3. SK en la estación Náměšť nad Oslavou;
+el tren se detuvo en la 3. SK de la est. Náměšť nad Oslavou;
 •
 7:21 h
-el tren Os 4817 partió de la estación Náměšť nad Oslavou;
+el tren Os 4817 partió de la est. Náměšť nad Oslavou;
 •
 7:22 h
-el jefe de estación de la estación Náměšť nad Oslavou prohibió la circulación en el tramo en dirección a la estación Studenec;
+el jefe de estación de la est. Náměšť nad Oslavou prohibió la circulación en el tramo con dirección a la est. Studenec;
 •
 7:23 h
-el jefe de estación de la estación Náměšť nad Oslavou comunicó este hecho también al jefe de estación de la estación Kralice nad Oslavou;
+el jefe de estación de la est. Náměšť nad Oslavou comunicó este hecho también al jefe de estación de la est. Kralice nad Oslavou;
 •
 7:24 h
-el jefe de estación comunicó al despachador de circulación PD 5 CDP Přerov el suceso (víver anormalmente curvado en la aguja n.º 12);
+el jefe de estación comunicó al despachador de circulación PD 5 CDP Přerov el suceso (laberinto anormalmente curvado en el desvío n.º 12);
 •
 7:31 h
-el jefe de estación comunicó al despachador de circulación PD 5 CDP Přerov la fractura del víver de la aguja n.º 12;
+el jefe de estación comunicó al despachador de circulación PD 5 CDP Přerov la rotura del laberinto del desvío n.º 12;
 •
 7:38 h
-el jefe despachador de CDP Přerov preguntó al jefe de estación sobre la circulabilidad y si se había puesto en peligro la seguridad;
+el jefe de despacho de CDP Přerov preguntó al jefe de estación sobre la circulabilidad y si se había puesto en peligro la seguridad;
 •
 9:09 h
-el jefe despachador de CDP Přerov preguntó al jefe de estación sobre la previsión de limitación de la circulación y si se había producido un peligro para la seguridad;
+el jefe de despacho de CDP Přerov preguntó al jefe de estación sobre la previsión de limitación de la circulación y si se había producido un peligro para la seguridad;
 •
 9:25 h
-reanudación de la circulación por la aguja n.º 12;
+reanudación de la circulación a través del desvío n.º 12;
 •
-10:29 h la persona autorizada de SŽ comunicó el origen del MU en el COP DI;
+10:29 h la persona designada de SŽ comunicó la producción del SU en el COP DI;
 •
-11:00 h inicio de la inspección del lugar de origen del MU por los inspectores de DI;
+11:00 h inicio de la inspección del lugar de producción del SU por los inspectores de DI;
 •
-14:20 h fin de la inspección del lugar de origen del MU por los inspectores de DI.
-El Plan IZS no se activó, dadas las circunstancias en el origen del MU. En el lugar del MU no intervinieron los servicios de IZS.
+14:20 h finalización de la inspección del lugar de producción del SU por los inspectores de DI.
+El Plan IZS no fue activado, dadas las circunstancias concurrentes en la producción del SU. En el lugar del SU no intervinieron los servicios de IZS.
 
 ## Página 28
+
 
 ### 4 ANÁLISIS DEL SUCESO
 ### 4.1 Tareas y obligaciones
@@ -895,8 +872,8 @@ El gestor de la infraestructura tiene la obligación de explotar la infraestruct
 El gestor de la infraestructura tiene establecida una actividad de control periódica, centrada en el estado de la superestructura ferroviaria. La obligación del operador de señales es, al maniobrar los elementos para el enclavamiento central de los desvíos, valorar su funcionamiento y comprobar la coincidencia de la posición de la señal de desvío y del elemento de mando (la palanca de enclavamiento). El operador de señales, al mirar en dirección al desvío n.º 12, no fue capaz, debido a la gran distancia (aprox. 130 m), de ver y valorar si se había producido una rotura de la aguja del desvío. Al enclavar el desvío por parte del operador de señales no se interrumpieron los tirantes de varilla y el enclavador mecánico maniobraba las partes móviles del desvío. La rotura no se manifestó ni en el movimiento ligero del desvío ni en la inoperatividad de la señal de desvío, porque funcionaba la conexión de mando de la posición de ambas agujas del desvío con el elemento de mando en el aparato de enclavamiento (la parte delantera desprendida de la aguja, conectada al cerrojo, había sido enclavada).
 La actividad de control del gestor de la infraestructura, centrada en el estado de la superestructura ferroviaria, respectivamente en el componente del desvío n.º 12, se realizó conforme al decreto n.º 177/1995 Sb., a las disposiciones de la norma SŽDC S2/3 y a la directriz SŽDC n.º 51. El gestor de la infraestructura ya no era capaz, en la actualidad, de detectar dentro de la actividad de control, dada su ubicación, un defecto originado por una intervención brusca (aparentemente con oxicorte) que, con la mayor probabilidad, debió haberse detectado ya en la época del montaje del desvío hace aprox. 40 años (o en la época de su sustitución). La aguja, mecánicamente dañada en la cara inferior de la base por falta de rigor tecnológico, no debió haber sido insertada ni montada en el desvío en aquel momento. Este defecto, con el que la aguja izquierda del desvío n.º 12 fue explotada posteriormente, condujo, como consecuencia de la carga cíclica a largo plazo,
 
-
 ## Página 29
+
 
 a la aparición y el desarrollo de grietas y, por tanto, a su rotura total en todo el perfil – para más detalles, véase el capítulo 4.2.1.
 ### Constataciones:
@@ -925,22 +902,22 @@ norma SŽDC S67, parte segunda, catálogo de defectos y roturas, pág. 86 – 89
 El gestor de la infraestructura y el ferroviario están obligados a notificar sin demora cada MU en el transporte ferroviario al DI, asegurar el lugar del MU y realizar la documentación del estado en el momento de la aparición del MU, garantizar la liberación de la infraestructura para restablecer la explotación de la infraestructura o del transporte ferroviario, si no lo impiden otras circunstancias, y el DI haya emitido su consentimiento para la liberación de la infraestructura. Para el cumplimiento de estas obligaciones en el marco de la competencia de los empleados, el gestor de la infraestructura emitió la norma interna SŽDC D17 y la medida de aplicación SŽDC D17 – 1.
 Los empleados del gestor de la infraestructura participantes en el MU eran competentes y, según sus declaraciones, formaba parte de su competencia también el conocimiento de la norma interna SŽDC D17
 
-
 ## Página 30
 
-y de la medida de aplicación SŽDC D17 – 1. El análisis de sucesos que se indica a continuación es la explicación a la constatación del DI en el capítulo 2.3 sobre las limitaciones que influyeron negativamente en el modo y los procedimientos de la investigación del MU y en la constatación de deficiencias fuera de la relación causal con la aparición del MU, relativas al cumplimiento de las obligaciones anteriores por parte de los empleados del gestor de la infraestructura participantes en el MU.
-A partir de las grabaciones de cámara facilitadas al DI en el marco de la investigación, así como de los registros de comunicación telefónica y radio solicitados al gestor de la infraestructura, del análisis del registrador de velocidad solicitado al ferroviario, de las actas documentadas de los empleados de tráfico y de los empleados dedicados al mantenimiento y reparación de la infraestructura del gestor de la infraestructura en el Registro de averías y en el cuaderno de registro telefónico y de las declaraciones prestadas, se realizó el análisis de las distintas actividades y actuaciones en el momento y inmediatamente después de la aparición del MU (se aplicó una corrección temporal a la grabación de cámara de la estación de servicio de +6 minutos y 15 segundos, respecto al tiempo del registrador de velocidad del HDV. Los tiempos de los registros de comunicación telefónica y radio respecto al tiempo del registrador de velocidad están sin corregir, los tiempos indicados en el análisis inferior corresponden a UTC+1).
-A las 7:18:50 h, según las grabaciones de cámara, el tren Os 4817 pasó junto a St 2 en la est. Náměšť nad Oslavou y, de forma contraria al funcionamiento de la SZZ y a la garantía de la marcha del tren en la 2. SK, detuvo dicho tren en el espacio anterior a DK en la 3. SK. A las 7:22:28 h, en una llamada telefónica, el jefe de estación de la est. Náměšť nad Oslavou comunicó al jefe de estación de la est. Studenec la información sobre la entrada del tren en una vía distinta de la establecida por la SZZ y «una aguja de desvío algo doblada», añadiendo «todo tiene Parada» y «mando a un ferroviario de vía allí». Posteriormente, el jefe de estación no reaccionó de forma pertinente dentro de su competencia. El hecho de que la marcha del tren Os 4817 se hubiera realizado en una SK en la que no se había establecido ni garantizado la SZZ, no lo valoró como un MU (marcha no garantizada de un vehículo ferroviario). De este hecho no consta ninguna anotación en ninguno de los documentos destinados al registro de anomalías, averías y defectos en DK. En la aplicación diario de tráfico electrónico, la marcha del tren Os 4817 está registrada por el jefe de estación en los datos de entrada y salida en/de la 2. SK, a pesar de que se produjo la marcha no garantizada anteriormente mencionada en la 3. SK.
-El DI documentó igualmente varias anotaciones en el Registro de averías y en el cuaderno de registro telefónico que, por el tiempo del suceso en ellas indicado, se adelantan a la propia constatación de los hechos en ellos descritos:
+a la medida ejecutiva SŽDC D17 – 1. El análisis de los hechos que se expone a continuación es una explicación de la constatación del DI en el capítulo 2.3 sobre las limitaciones que influyeron negativamente en el modo y los procedimientos de la investigación del MU y en la constatación de deficiencias ajenas a la relación causal con la aparición del MU, relativas al cumplimiento de las obligaciones antes mencionadas por parte de los empleados del gestor de la vía participantes en el MU.
+A partir de las grabaciones de vídeo que fueron facilitadas al DI en el marco de la investigación, así como de los registros de comunicación telefónica y radio solicitados al gestor de la vía, del análisis del registrador de velocidad solicitado al transportista, de las actas documentadas de los empleados de tráfico y de los empleados dedicados al mantenimiento y reparación de la infraestructura del gestor de la vía en el Registro de averías y en el cuaderno de registro telefónico, y de la presentación de explicaciones, se realizó un análisis de las distintas actividades y actuaciones en el momento y inmediatamente después de la aparición del MU (se aplicó una corrección temporal a la grabación de vídeo de la estación de servicio de +6 minutos y 15 segundos, en relación con el tiempo del registrador de velocidad de la HDV. Los tiempos de registro de la comunicación telefónica y radio en relación con el tiempo del registrador de velocidad están sin corregir, los tiempos indicados en el análisis que sigue corresponden a UTC+1).
+A las 7:18:50 h, según las grabaciones de vídeo, el tren Os 4817 pasó junto al St 2 en la estación de Náměšť nad Oslavou y, de forma contraria al funcionamiento del SZZ y a la protección de la circulación del tren en la 2.ª SK, este tren se detuvo en el espacio situado delante del DK en la 3.ª SK. A las 7:22:28 h, en una llamada telefónica, el jefe de estación de la estación de Náměšť nad Oslavou comunicó al jefe de estación de la estación de Studenec la información sobre la entrada del tren en una vía distinta de la establecida por el SZZ y «una lengua de aguja de desvío torcida», añadiendo «todo tiene la señal de Detener» y «voy a llamar al capataz de vía». A continuación, el jefe de estación no reaccionó de forma pertinente dentro de su competencia profesional. El hecho de que la circulación del tren Os 4817 se hubiera realizado en la SK en la que no se había establecido ni protegido el SZZ, no lo valoró como MU (circulación no protegida de un vehículo ferroviario). De este hecho no consta ninguna anotación en ninguno de los documentos destinados al registro de incidencias, averías y defectos en el DK. En la aplicación diario de tráfico electrónico, la circulación del tren Os 4817 figura por parte del jefe de estación en los datos de entrada y salida en la/de la 2.ª SK, a pesar de que se produjo la circulación no protegida antes mencionada en la 3.ª SK.
+El DI documentó también varias anotaciones en el Registro de averías y en el cuaderno de registro telefónico cuyo tiempo de los hechos en ellos indicados adelanta las propias constataciones de los hechos en ellos descritos:
 •
-en el registro de averías del equipo de comunicaciones y señales en DK se realizó, con el tiempo 7:25 h, en el lado izquierdo, una anotación sobre una avería: «Detectada aguja dañada en el desvío n.º 12, notificado al jefe de señales. Nombre y PD5 Nombre a las 7:25 h.»;
+en el registro de averías del equipo de comunicaciones y señales en el DK se realizó, con la hora 7:25 h, una anotación de avería en el lado izquierdo: «Se detectó una lengua de aguja dañada en el desvío n.º 12, comunicado al capataz de señales. Nombre y PD5 Nombre a las 7:25 h»;
 •
-en el cuaderno de registro telefónico en DK se realizó, con el tiempo 7:25 h, una anotación con el número 17: «notificada la avería n.º 1 – aguja dañada del desvío n.º 12 al jefe de señales Nombre»;
+en el cuaderno de registro telefónico en el DK se realizó, con la hora 7:25 h, una anotación con el número 17: «comunicado el defecto n.º 1 – lengua de aguja dañada del desvío n.º 12 al capataz de señales Nombre»;
 •
-en el registro de averías del equipo de comunicaciones y señales en St 2 se realizó, con el tiempo 7:25 h, en el lado izquierdo, una anotación sobre una avería: «Avería en el desvío n.º 12. Desvío asegurado para la circulación en la posición básica de las agujas – con cerrojo de tracción y de empuje. Avería notificada al jefe de estación Nombre con el n.º 17.
-Según las declaraciones prestadas, los empleados de tráfico participantes en el MU se enteraron de la rotura de la aguja únicamente por parte del VPS, que fue enviado al lugar por el jefe de estación de la est. Náměšť nad Oslavou. Su actividad en el tiempo, por tanto, sigue al tiempo escrito en las anotaciones, ya que solo a las 7:26:57 h pasó el VPS, según las grabaciones de cámara, en dirección desde DK en el espacio anterior a St 2 hacia el desvío n.º 12. A continuación, el VPS informó al jefe de estación de la est. Náměšť nad Oslavou sobre la rotura de la aguja y este, a las 7:30:32 h, comunicó esta información al jefe de estación de la est. Studenec. Posteriormente, el VPS no reaccionó de forma pertinente dentro de su competencia. A pesar de saber que la rotura de la aguja detectada
+en el registro de averías del equipo de comunicaciones y señales en el St 2 se realizó, con la hora 7:25 h, una anotación de avería en el lado izquierdo: «Desvío n.º 12 dañado. Desvío asegurado para la circulación en la posición básica de las agujas – con el cerrojo de tracción y de empuje. Defecto comunicado al jefe de estación Nombre con el n.º 17.
+Según las explicaciones presentadas, los empleados de tráfico participantes en el MU se enteraron de la rotura de la lengua de aguja únicamente por parte del VPS, que fue enviado al lugar por el jefe de estación de la estación de Náměšť nad Oslavou. Su actividad en el tiempo sigue, por tanto, al tiempo escrito en las anotaciones, ya que el VPS solo pasó, según las grabaciones de vídeo, en dirección desde el DK en el espacio situado delante del St 2 hacia el desvío n.º 12 a las 7:26:57 h. A continuación, el VPS informó al jefe de estación de la estación de Náměšť nad Oslavou de la rotura de la lengua de aguja, y este a las 7:30:32 h comunicó esta información al jefe de estación de la estación de Studenec. Posteriormente, el VPS no reaccionó de forma pertinente dentro de su competencia profesional. A pesar de saber que la rotura de la lengua de aguja detectada
 
 ## Página 31
+
 
 circuló el tren Os 4817 y provocó su circulación por la AG, para la cual la SZZ no estaba preparada ni protegida, y no evaluó esta situación como MU (rotura de carril, con la que se produjo la puesta en peligro de un vehículo ferroviario en movimiento). Respecto a la anotación citada en el tercer punto, es necesario indicar que la forma de protección de la aguja para la circulación en MU no podía ser conocida en el momento indicado por el señalero St 2. La descripción de los trabajos realizados en el dispositivo y el estado del dispositivo no pertenecen a la anotación en la página izquierda y no corresponde al empleado de tráfico, sino al empleado del servicio especializado de infraestructura del explotador ferroviario.
 
@@ -967,8 +944,8 @@ momento de la aparición del suceso excepcional";
 § 9 apartado 3 del Decreto n.º 376/2006 Sb.:
 "Los cambios del estado original en el lugar del suceso excepcional son admisibles hasta la llegada de los órganos actuantes en el procedimiento penal y del empleado de la Inspección Ferroviaria solo con el consentimiento del jefe de intervención de los servicios del Sistema Integrado de Rescate. Si estas personas no intervienen, los cambios del estado original en el lugar del suceso excepcional son admisibles con el consentimiento de la persona autorizada del explotador ferroviario o del transportista conforme al apartado 1, cuando se trate de la realización de trabajos de rescate";
 
-
 ## Página 32
+
 
 •
 § 7 apartado 2 del Decreto n.º 376/2006 Sb.:
@@ -989,8 +966,8 @@ En la investigación no se constató infracción de las funciones y obligaciones
 ### 4.1.4 Órganos nacionales de seguridad y Agencia de la Unión Europea para los Ferrocarriles
 El órgano nacional de seguridad es el DÚ, que conforme a la Ley n.º 266/1994 Sb. es una autoridad administrativa dependiente del Ministerio de Transportes. Su función es, entre otras, el ejercicio de la supervisión estatal en materia de ferrocarriles y en materia de autoridad de construcción, el ejercicio de la autoridad de construcción especial para obras ferroviarias y obras en la vía, la aprobación de vehículos ferroviarios nuevos y modernizados y de dispositivos técnicos designados, y la tramitación de
 
-
 ## Página 33
+
 
 infracciones. La obligación del DÚ es comunicar a la DI, en un plazo de 12 meses desde la fecha de publicación del informe final que contenga las recomendaciones de seguridad dirigidas a él, qué medida ha adoptado en relación con dicha recomendación de seguridad.
 
@@ -1015,8 +992,8 @@ inspección integral de la línea en la estación Náměšť nad Oslavou realiza
 •
 inspección por ultrasonidos de la aguja n.º 12 realizada el 29. 9. 2020 sin defectos detectados.
 
-
 ## Página 34
+
 
 En la evaluación de las causas y circunstancias de la aparición de la MU del explotador ferroviario SŽ se indicaron los resultados de los hallazgos, realizados a partir de la fotodocumentación disponible del lugar de aparición de la MU por el departamento O13 de SŽ, que es la unidad gestora de la norma SŽDC S67:
 •
@@ -1035,6 +1012,7 @@ A continuación se indica un resumen de las conclusiones de los distintos análi
 
 ## Página 35
 
+
 1) «El análisis de control de la composición química del material de la lengüeta demostró que la composición química corresponde a la norma ČSN EN 13674-1+A1 para el acero de clase R260.
 2) El análisis metalográfico demostró que la macroestructura es homogénea, sin presencia de defectos de conformado (cavidades subsuperficiales o grietas de conformado). La impresión de azufre es conforme según la norma ČSN EN 13674-1 (clasificación aceptable – sin segregación ni estructura dendrítica).
 En la cara inferior del talón se encontró una defecto de tamaño considerable creado por un calentamiento intenso y la posterior refrigeración. En los alrededores de este defecto se presenta una zona afectada térmicamente que alcanza una profundidad de aprox. 6,5 mm bajo la superficie.
@@ -1049,8 +1027,8 @@ En relación con los requisitos del solicitante, las conclusiones anteriores pue
 •
 La degradación de la lengüeta del desvío n.º 12 se produjo en la zona del extremo libre de la lengüeta, donde la solicitación por momento flector no debería ser demasiado significativa. La presencia de degradación por fatiga en el talón y el alma demuestra que la lengüeta estaba sometida a una carga cíclica. La carga cíclica se debe principalmente a la carga variable de los trenes que circulan. Sin embargo, esta carga puede verse aumentada por el efecto adverso de
 
-
 ## Página 36
+
 
 diferentes holguras de construcción o, respectivamente, de montaje, que pueden conducir a deformaciones aumentadas de la lengüeta durante el paso de los trenes. Como consecuencia, se produce también un aumento significativo de la amplitud de la carga de impacto, que conduce a la fractura final de la lengüeta. En el caso estudiado, además, se manifestó de manera significativa el efecto entalla del defecto en la cara inferior del talón y la microestructura alterada del material.
 •
@@ -1074,8 +1052,8 @@ En el resumen de la conclusión de este peritaje se indica, entre otros:
 «Los conocimientos obtenidos conducen a la conclusión de que el material de las lengüetas de desvíos presenta valores muy bajos de tenacidad a la entalla y, por tanto, también una tendencia a la degradación frágil, especialmente a bajas temperaturas. Sin embargo, en los casos estudiados no fue la causa principal de las fracturas de las lengüetas.
 … desde el punto de vista de la degradación de las lengüetas de desvíos estudiadas, como causa principal de la degradación puede considerarse la iniciación y aparición de grietas por fatiga. La iniciación de las grietas por fatiga se relacionó con defectos superficiales y, en su caso, con la afectación térmica (del talón) de las lengüetas.
 
-
 ## Página 37
+
 
 •
 La aparición de la degradación por fatiga demuestra que las lengüetas están sometidas a una carga cíclica, que se provoca principalmente por la carga variable de los trenes que circulan. Sin embargo, esta carga puede verse aumentada por el efecto adverso de diferentes holguras de construcción o, respectivamente, de montaje (véase la lengüeta n.º 10b Malešice), que pueden conducir a deformaciones aumentadas de la lengüeta durante el paso de los trenes. Como consecuencia, se produce también un aumento significativo de la amplitud de la carga de impacto, que conduce a la fractura final de la lengüeta.
@@ -1098,8 +1076,8 @@ Del resumen de los conocimientos de los análisis de las cuatro lengüetas de de
 6) En el espectro de carga de las cuatro lengüetas se demostró la presencia de (numerosos) ciclos de sobrecarga».
 Entre los elementos de los ciclos de sobrecarga repetidos de las lengüetas se encuentra también el hecho de que con cada paso de una rueda DV sobre la lengüeta se produce su carga y una carga repetida y (especialmente en líneas y vías concurridas y en desvíos con carga en explotación) un número muy elevado de impactos dinámicos, originados por el asentamiento brusco de la lengüeta sobre los carriles de apoyo deslizantes, junto con el tope de su cabeza contra el riel de apoyo y el alma contra los apoyos de lengüeta. El valor
 
-
 ## Página 38
+
 
 y la magnitud de estos impactos se ven influidos, entre otros factores, también por la magnitud de las holguras entre estos componentes individuales del desvío. De ello se desprende que es deseable mantener estas holguras dentro de las tolerancias más estrechas posibles. Esto solo puede lograrse mediante un seguimiento sistemático y periódico –medición– de estos valores, su registro y la eliminación temprana de las averías detectadas.
 4.2.2 Factores o consecuencias derivados de la instalación y la puesta en servicio de vehículos ferroviarios, infraestructura ferroviaria o instalaciones técnicas
@@ -1119,6 +1097,7 @@ En la investigación no se detectaron factores relacionados con la formación pr
 En la investigación no se detectaron factores relacionados con el contenido del trabajo o la jornada laboral de los empleados. En la investigación no se constató, en los empleados implicados, el incumplimiento de las condiciones de descanso antes del turno y de los descansos, respectivamente, del tiempo adecuado para el descanso y la alimentación durante el turno.
 
 ## Página 39
+
 
 ### 4.3.3 Factores organizativos y tareas
 En la investigación no se detectaron factores relacionados con la organización del trabajo o con las tareas laborales.
@@ -1150,8 +1129,8 @@ de seguridad u otros sujetos de evaluación de la conformidad
 El gestor de la infraestructura explotaba la infraestructura al amparo de la autorización administrativa vigente y del certificado
 de seguridad del gestor de la infraestructura. El transportista explotaba el transporte ferroviario al amparo de la licencia vigente y del certificado del transportista.
 
-
 ## Página 40
+
 
 ### 4.4.7 Otros factores sistémicos
 En la investigación no se detectaron otros factores sistémicos.
@@ -1179,8 +1158,8 @@ para la MU del 22 de enero de 2011 en la estación de Brno-Maloměřice:
 •
 para todos los corazones de aguja que lleven más de 15 años en servicio, acortar los plazos de realización de las inspecciones por defectoscopia y realizar en ellos siempre una inspección por defectoscopia capaz de detectar también defectos ocultos;
 
-
 ## Página 41
+
 
 •
 establecer un tiempo máximo de vida útil para los corazones de aguja en relación con su tiempo de servicio y su forma de carga.
@@ -1198,8 +1177,8 @@ para la MU del 21 de julio de 2013 en la estación de Pardubice hl. n.:
 •
 en el marco del desarrollo de los métodos de defectoscopia más modernos, comprobar, respectivamente evaluar sin dilación todos los métodos de defectoscopia disponibles que permitan detectar defectos ocultos en la zona de la base del corazón de la aguja, y aplicar posteriormente el método más eficaz en el marco de su actividad de inspección.
 
-
 ## Página 42
+
 
 El gestor de la infraestructura, en respuesta a esta Recomendación de seguridad, comunicó:
 «La tarea de comprobar y evaluar todos los métodos de defectoscopia disponibles que permitan detectar defectos ocultos en la zona del corazón de la aguja fue encomendada a los especialistas correspondientes del departamento de superestructura ferroviaria de la sección 13 y a la TÚDC (centro técnico de la vía). La evaluación de métodos extranjeros no condujo a la búsqueda de un método adecuado. Según las últimas noticias, se vislumbra una posible solución que es necesario verificar y confirmar su eficacia. De esta actividad se mantiene informado continuamente al director de la Inspección Territorial de Brno, y el asunto en cuestión se sigue consultando con él.» (nota de la DI: director de la Inspección Territorial de Brno, Inspección Ferroviaria).
@@ -1212,6 +1191,7 @@ sobre el establecimiento de un tiempo máximo de vida útil de los corazones de 
 «También para este punto se realizó un análisis. La gran cantidad de factores que influyen en la vida útil de los corazones de aguja y sus numerosas combinaciones hacen que los desvíos se comporten de manera muy diferente en condiciones aparentemente iguales. La vida útil de los corazones de aguja se agota, en general, al alcanzar el desgaste límite (rodadura) prescrito y/o cuando su mantenimiento se vuelve
 
 ## Página 43
+
 
 del desarrollo de defectos de todo tipo, incluidos los de fatiga y de fatiga por contacto, es antieconómico. Mientras que los límites de desgaste están establecidos reglamentariamente, los límites en relación con el tiempo de servicio y la forma de carga, dadas las circunstancias anteriores, no pueden establecerse. Por ello, tampoco están contenidos en las Especificaciones Técnicas de Interoperabilidad, en las Normas Europeas ni en las disposiciones de la UIC, y no queda más remedio que partir del estado real de las agujas, determinado mediante las inspecciones prescritas. En este contexto y tras un acuerdo con la DI, en 2013 se inició el cambio periódico de las agujas del sistema S49 de formas 1:9-300 y 1:11-300 en las vías de 1.º a 4.º orden. El cambio cíclico de las agujas de los desvíos, ... , se basa en las estadísticas de roturas y de los cambios de agujas realizados debido a defectos, teniendo en cuenta que el cambio de una aguja no tiene por qué correlacionarse siempre con su vida útil.",
 a la MU del 3 de noviembre de 2019 en la est. Praha-Malešice (BD para DÚ), adopción de una medida propia que garantice a los gestores de infraestructura ferroviaria:
@@ -1227,37 +1207,38 @@ a la segunda parte de la BD:
 «Správa železnic ha emitido, con efectos desde el 26 de abril de 2021, la norma interna SŽ PO-11/2021-GŘ «Instrucción del director general sobre el cambio cíclico de las agujas de los desvíos», que define el intervalo y las condiciones del cambio cíclico de las agujas de los desvíos. El sistema de cambio cíclico de agujas de desvíos establecido se basa en el análisis de las roturas y de los cambios de agujas de desvíos en los años 2010 – 2019, en el análisis de la actividad de inspección y supervisión, incluidas las pruebas no destructivas, y en la evolución en el ámbito de los materiales y la tecnología de fabricación. El sistema establecido, como parte del conjunto de medidas para aumentar la seguridad en el ámbito de la explotación de las agujas de los desvíos, fue presentado a la Inspección Ferroviaria el 13 de agosto de 2020, y posteriormente fue debatido con la Inspección Ferroviaria y con la Autoridad Ferroviaria el 13 de enero de 2021.»,
 a la tercera parte de la BD:
 
-
 ## Página 44
 
-«En las vías de las ferrocarriles donde la operatividad es garantizada por Správa železnic, se encuentran varias decenas de miles de agujas montadas con juntas cortas de carril. A todos los gestores (Jefes de Línea de las Direcciones Regionales) se les ha ordenado por escrito que, en el marco de la próxima inspección de desvíos realizada de conformidad con las disposiciones del capítulo 3.6 de la norma SŽDC S2/3 «Organización y realización de inspecciones y mediciones en la vía de ámbito nacional y en las vías regionales», se centren, entre otros, en una comprobación minuciosa del apriete de la unión a tornillo y del estado de las mencionadas juntas cortas de carril, y en la comprobación de la zona adyacente de las agujas, con especial atención a los daños visibles (muescas, fisuras, deformaciones, etc.), y que registren el estado detectado en el sistema de información correspondiente. Los resultados de estas comprobaciones serán evaluados durante agosto de 2021. La inspección permanente y periódica del estado y del apriete de la unión a tornillo de las mencionadas juntas viene dada por la inspección visual del estado de dichas juntas, que es una parte estándar de los recorridos según el capítulo 3.1 y de las inspecciones de desvíos según el capítulo 3.6 de la norma SŽDC S2/3. El 20 de mayo de 2021, esta obligación fue recordada a todos los Jefes de Línea en una reunión conjunta.»;
-a la MU del 19 de diciembre de 2020 en la est. Hluboká nad Vltavou-Zámostí (BD para DÚ), adopción de una medida que garantice en el gestor de infraestructura Správy železnic, organización estatal:
+„En los carriles de las vías férreas, donde la operatividad es garantizada por Správa železnic, se encuentran varias decenas de miles de agujas montadas con juntas cortas de carril. A todos los gestores (Správ tratí de las Direcciones Regionales) se les ordenó por escrito que, en el marco de la próxima inspección de desvíos realizada de conformidad con las disposiciones del capítulo 3.6 de la norma SŽDC S2/3 «Organización y realización de inspecciones y mediciones en la vía de ámbito nacional y en las vías regionales», se centraran, entre otros aspectos, en la comprobación exhaustiva del apriete de la unión atornillada y del estado de las referidas juntas cortas de carril, así como en la comprobación de la zona adyacente a las agujas, con atención a daños visibles (muescas, grietas, deformaciones, etc.), y que dejaran constancia del estado observado en el sistema de información correspondiente. Los resultados de estas comprobaciones serán evaluados durante agosto de 2021. La comprobación permanente y regular del estado y del apriete de la unión atornillada de las referidas juntas se realiza mediante la comprobación visual del estado de dichas juntas, que es parte estándar de los recorridos a pie según el capítulo 3.1 y de las inspecciones de desvíos según el capítulo 3.6 de la norma SŽDC S2/3. El 20 de mayo de 2021 se recordó esta obligación a todos los jefes de las Správ tratí en una reunión conjunta.“;
+en relación con la medida del 19 de diciembre de 2020 en la estación Hluboká nad Vltavou-Zámostí (BD para DÚ), la adopción de una medida que garantice en el operador de la vía, Správa železnic, organización estatal:
 •
-desde el punto de vista del desarrollo actual y futuro posible de los métodos de detección de defectos más modernos, la verificación sistemática, o la evaluación, de todos los métodos y procedimientos de detección de defectos disponibles con los que sea posible detectar defectos ocultos en la zona del talón del carril de aguja en el lado adyacente al carril de apoyo, y la aplicación del método o métodos y procedimientos más eficaces en el sistema de la actividad de inspección realizada.
+desde el punto de vista del desarrollo actual y futuro posible de los métodos de inspección por ultrasonidos más modernos, la verificación sistemática, o bien la evaluación, de todos los métodos y procedimientos de inspección por ultrasonidos disponibles con los que sea posible detectar defectos ocultos en la zona de la base de la aguja del carril en el lado adyacente al soporte, y la aplicación del método o métodos y procedimientos más eficaces en el sistema de la actividad de comprobación realizada.
+
 ### 5 CONCLUSIONES
 ### 5.1 Resumen del análisis y conclusiones relativas a las causas del suceso
-La causa inmediata del suceso extraordinario fue:
+
+La causa inmediata del suceso excepcional fue:
 •
-la rotura de la aguja izquierda del desvío n.º 12 debido a una fisura de fatiga, originada por un daño superficial de la aguja, y el paso del tren Os 4817 por dicho desvío, que, gracias a la rotura de la aguja, se encontraba en un estado técnico que no garantizaba la conducción segura del tren en la dirección prevista.
+la fractura de la aguja izquierda del desvío n.º 12 a causa de una grieta de fatiga originada por un daño superficial de la aguja, y el paso del tren Os 4817 por dicho desvío, que, debido a la fractura de la aguja, se encontraba en un estado técnico que no garantizaba la conducción segura del tren en la dirección prevista.
+
 Factores contribuyentes:
 •
-indisciplina tecnológica – inserción y montaje de una aguja con daño superficial en la cara inferior del talón en el desvío n.º 12;
+indisciplina tecnológica – la inserción y montaje de una aguja con daño superficial en la cara inferior de la base en el desvío n.º 12;
 •
-imposibilidad de detectar la fisura de fatiga mediante las inspecciones realizadas según los procedimientos del gestor de infraestructura;
+la imposibilidad de detectar la grieta de fatiga mediante las inspecciones realizadas según los procedimientos del operador de la vía;
 •
-carga cíclica a largo plazo de la aguja por el intenso tráfico ferroviario.
-La DI no detectó ninguna causa sistémica.
-### A summary of the analysis and conclusions with regard to the causes of the
-occurrence
+la carga cíclica prolongada de la aguja por el intenso tráfico ferroviario.
+
+La causa sistémica no fue detectada por la DI.
+
+### A summary of the analysis and conclusions with regard to the causes of the occurrence
+
 Causal factor:
 •
-fracture of the left point blade of the switch No. 12 due to fatigue crack caused by
-surface damage of the point blade and movement of the regional passenger train
-No. 4817 over this switch, which was due to fracture of the point blade in technical
-condition, which did not ensure safe movement of the train in the intended direction.
-
+fracture of the left point blade of the switch No. 12 due to fatigue crack caused by surface damage of the point blade and movement of the regional passenger train No. 4817 over this switch, which was due to fracture of the point blade in technical condition, which did not ensure safe movement of the train in the intended direction.
 
 ## Página 45
+
 
 Contributing factors:
 •
@@ -1299,8 +1280,8 @@ the regional passenger train No. 4817 to the next movement made illegal changes
 at the place of the occurrence before granting of consent to release of railway by
 Railway Safety Inspection Office.
 
-
 ## Página 46
+
 
 ### 6 RECOMENDACIONES DE SEGURIDAD
 La Inspección Ferroviaria, con base en lo dispuesto en el § 53e apartado 1 de la Ley n.º 266/1994 Sb., recomienda, en aras de la prevención de sucesos extraordinarios:
@@ -1335,16 +1316,16 @@ director
 de la Inspección Territorial de Brno
 de la Inspección Territorial de Brno
 
-
 ## Página 47
+
 
 ### ANEXOS
 Fig. n.º 4: Marcas de trepada de ruedas en la aguja derecha del desvío n.º 12                           Fuente: DI
 Fig. n.º 5: Detalle del defecto en la cara inferior del talón de la aguja del desvío n.º 12
        Fuente: DI
 
-
 ## Página 48
+
 
 Fig. n.º 6: Ambas caras de la rotura de la aguja del desvío n.º 12
             Fuente: ČVUT
@@ -1355,14 +1336,15 @@ caras de la rotura; M – muestra para análisis metalográfico y medición de d
 
 ## Página 49
 
+
 Fig. 8: a) Macrofractografía (atacado con 3% Nital)
      b) Impresión de azufre
 Resultados de la evaluación de las características macroestructurales del material del lengüeta (muestra M de la Fig. 7). Es evidente que la estructura es homogénea, sin presencia de defectos de conformación (cavidades subsuperficiales o grietas de conformación). La única excepción es la capa superficial de la cabeza del raíl (área 3b).        Fuente: ČVUT
 Fig. 9: Carácter macroscópico de la fractura de la lengüeta (CARA 1 tras el corte). El área de iniciación de la grieta de fatiga en la pared inferior del talón del raíl está indicada con una flecha. En el detalle se documenta el aspecto del defecto en la pared inferior del talón del raíl, con la indicación de la posición del corte en el que se observó la microestructura del material en el corte a través del defecto.
  Fuente: ČVUT
 
-
 ## Página 50
+
 
 Fig. 10: Iniciación múltiple de grietas de fatiga en la pared inferior del talón (detalle del área A1-4 de la Fig. 11). Presencia de líneas de avance que delimitan la posición y la forma de los frentes de las grietas de fatiga parciales. 
 Fuente: ČVUT

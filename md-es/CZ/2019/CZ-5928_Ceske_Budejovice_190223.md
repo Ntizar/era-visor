@@ -10,13 +10,14 @@ chars: 158956
 ratio_longitud: 1.25
 tokens_in: 87145
 tokens_out: 63453
-verificacion: revisar
-notas_cifras: ["bloque 2: original bilingüe: se compara contra el idioma principal (CS); cifras cortas: 1/213", "bloque 4: original bilingüe: se compara contra el idioma principal (CS)", "bloque 7: original bilingüe: se compara contra el idioma principal (CS)", "bloque 9: cifras cortas: 6/170", "bloque 10: original bilingüe: se compara contra el idioma principal (CS)"]
-avisos: ["bloque 4: ratio 1.63", "bloque 7: ratio 1.61", "bloque 10: ratio 1.81"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (CS)", "página 4: original bilingüe: se compara contra el idioma principal (CS)", "página 7: original bilingüe: se compara contra el idioma principal (EN)", "página 8: original bilingüe: se compara contra el idioma principal (PT); cifras cortas: 1/85", "página 12: original bilingüe: se compara contra el idioma principal (PL)", "página 17: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -41,13 +42,13 @@ IČ:   75009561
 mail@dicr.cz
 tel.: +420 736 521 003
 
-
 ## Página 2
+
 
 Este informe final es público y todos los hechos en él expuestos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ## 1 RESUMEN
         Fuente: DI
@@ -71,10 +72,10 @@ daño total 6 906 387 Kč.
 Causa inmediata:
 fallo del sistema de frenos del vehículo ferroviario de tracción 91 54 7 362 055-6 causado por
 •
-un defecto técnico (fuga de aire) de su unidad de frenos (unidades de frenos). 
-
+un defecto técnico (fuga de aire) de su unidad de frenos (unidades de frenos).
 
 ## Página 4
+
 
 Factores contribuyentes:
 acción de las condiciones climáticas sobre el estado técnico incorrecto del mecanismo de
@@ -107,10 +108,10 @@ de los vehículos ferroviarios de tracción, especialmente de las series 362, 36
 los transportistas, debido al cambio de sus propiedades por efecto de la helada (endurecimiento y
 reducción del diámetro por debajo del límite necesario) y, en combinación con el desgaste – cavitación
 (ataque corrosivo del acero al carbono ferrítico-perlítico) de las paredes de trabajo de los cilindros
-de frenos, la fuga esencial de aire comprimido de los cilindros de frenos a la atmósfera. 
-
+de frenos, la fuga esencial de aire comprimido de los cilindros de frenos a la atmósfera.
 
 ## Página 5
+
 
 ## RESUMEN
 Clasificación: 
@@ -166,16 +167,16 @@ en la posible instalación de juntas de goma incorrectas en los pistones de los 
 frenos de las unidades de frenos de las locomotoras, especialmente de las series n.º 362, 363, 162,
 163 operadas por todos los RU en la República Checa, esto debe hacerse debido a
 
-
 ## Página 6
+
 
 los cambios mencionados anteriormente causados por la helada en combinación con el desgaste –
 cavitación (ataque corrosivo del acero al carbono ferrítico-perlítico) de la pared de trabajo de los
 cilindros de frenos y, por tanto, la fuga esencial de aire comprimido de los cilindros de frenos
 a la atmósfera.
 
-
 ## Página 7
+
 
 # Índice
 1 RESUMEN........................................................................................................................3
@@ -226,6 +227,7 @@ normas técnicas aplicables y otras normas internas.............................
 
 ## Página 8
 
+
 3.4.1 Sistema de control, señalización y seguridad, incluidos los dispositivos de registro automático de datos.....................................................................................................35
 3.4.2 Componentes de la vía....................................................................................................36
 3.4.3 Dispositivos de comunicación e información.........................................................................36
@@ -256,8 +258,8 @@ constatados en el punto 3.......................................................
 .........................................................................................................................................57
 6 RECOMENDACIONES DE SEGURIDAD.....................................................................................57
 
-
 ## Página 9
+
 
 ## Lista de siglas y símbolos utilizados
 ARR
@@ -330,8 +332,8 @@ vehículo ferroviario sobre raíles
 žst.
 estación ferroviaria
 
-
 ## Página 10
+
 
 ## Lista de siglas de la legislación, normas y normativa interna
 utilizadas
@@ -388,8 +390,8 @@ S2/3 Organización y realización de inspecciones y mediciones en
 ferrocarriles de ámbito nacional y regional», aprobada el 27. 11. 2013, con el n.º de expediente: S 48269/2013-
 O15, en vigor desde el 1. 1. 2014, en la redacción vigorosa en el momento de producirse el suceso ferroviario
 
-
 ## Página 11
+
 
 ČD V 1
 normativa interna del transportista ČD, a. s., «ČD V 1 Reglamento para
@@ -427,8 +429,8 @@ para la reparación de compresores de los vehículos de tracción», aprobada el
 15. 10. 1992, con el n.º de expediente: 61.299/91 0232, en vigor desde el 1.
 1. 1993, en la redacción vigorosa en el momento de producirse el suceso ferroviario
 
-
 ## Página 12
+
 
 ## 2 DATOS RELATIVOS AL SUCESO FERROVIARIO
 ### 2.1 Suceso ferroviario
@@ -449,8 +451,8 @@ Fig. n.º 1: Vista de las partes dañadas del HDV tras la producción del SU    
 del sistema integrado de emergencia y del servicio de emergencia
 El 23. 2. 2019 a las 5.42 h se produjo una colisión entre la formación de maniobras I, compuesta por un HDV circulando por sí solo para el tren R 726, y la formación de maniobras II, compuesta por un HDV circulando por sí solo para el tren R 658, que se encontraba detenida en la SK n.º 1 de la est. České Budějovice.
 
-
 ## Página 13
+
 
 HDV 242.220-2 detenido
 km 213,331 - lugar de la colisión de DV durante las maniobras 
@@ -490,6 +492,7 @@ bajo el HDV, sobre las traviesas, yacía el dispositivo de transmisión de fuerz
 •
 
 ## Página 14
+
 
 obr. n.º 3).
 Fig. n.º 3: Dispositivo de transmisión de fuerzas de tracción arrancado
@@ -538,8 +541,8 @@ daños considerables en el lado del puesto n.º 2, largueros y testero fuertemen
 •
 incluidos ambos amortiguadores (véase fig. n.º 1); luces de posición dañadas;
 
-
 ## Página 15
+
 
 ambos limpiabolas deformados;
 •
@@ -619,8 +622,8 @@ las posiciones de las distintas manijas de válvulas y conmutadores de aire comp
 •
 de freno en la sala de máquinas del HDV estaban en las posiciones correctas.
 
-
 ## Página 16
+
 
 El examen del lugar de la MU incluyó la realización de una prueba de funcionalidad de los frenos
 neumáticos del HDV 362.055-6 desde el puesto de conducción n.º 2, desde el que se había conducido
@@ -674,8 +677,8 @@ ambos HDV circulaban desde la zona de la vía lateral SOKV České Budějovice h
 •
 est. České Budějovice – estación de pasajeros;
 
-
 ## Página 17
+
 
 a la izquierda en el sentido de la marcha, desde la vía lateral SOKV České Budějovice en el km 119,308 (kilometraje
 •
@@ -737,50 +740,40 @@ En el lugar de la MU estaban también presentes los jefes de los distintos compo
 del explotador de la vía y del transportista. Con la participación de la DI se realizó un examen
 comisionado del lugar de la MU, incluida la elaboración de un acta.
 
-
 ## Página 18
 
-### 2.1.3 Decisión sobre el inicio de la investigación, composición del equipo de personas cualificadas para la investigación y método de dirección de la investigación
-MU comunicada al COP de la DI:
+### 2.1.3 Decisión sobre la apertura de la investigación, composición del equipo de personas cualificadas para la investigación y forma de dirigir la investigación
+MU comunicada al COP DI:
 23. 2. 2019, a las 6.28 h (es decir, 46 min después de la aparición de la MU)
-como colisión de dos HDV durante una maniobra, con un daño
-de unos 650 000 Kč.
+como colisión de dos HDV durante maniobras de clasificación, en la que se produjo
+un daño de unos 650 000 Kč.
 A las
 8.05
 h
-siguió una
-comunicación
-|  | A las 8 05 h siguió una comunicación . |
+siguió
+una comunicación
+|  | A las 8.05 h siguió una comunicación |
 |  | complementaria sobre el aumento del daño y la posible sospecha |
-|  | de un funcionamiento incorrecto del equipo de freno de uno |
+|  | de un funcionamiento incorrecto del aparato de freno de uno |
 |  | de los HDV. |
-| Forma de comunicación: | telefónica. |
-| Comunicado por la persona autorizada en nombre de: | el explotador de la vía (SŽDC) y el transportista (ČD). |
-| Consentimiento de la DI para la liberación de la vía: | 23 2 2019 a las 12 05 h (es decir, 6 h 23 min después de la aparición . . , . . de la MU). |
-La comunicación de la MU por parte del explotador de la vía y del transportista se ajustó a lo
-dispuesto en el § 49 apart. 3 letra a) de la ley n.º 266/1994 Sb. y en el § 7 apart. 3 del decreto
-n.º 376/2006 Sb.
-Decisión de la DI sobre el inicio de la investigación:
+| Forma de la comunicación: | telefónica. |
+| Comunicado por la persona autorizada en nombre de: | el gestor de la vía (SŽDC) y el transportista (ČD). |
+| Consentimiento del DI para la liberación de la vía: | 23. 2. 2019 a las 12.05 h (es decir, 6 h 23 min después de la aparición de la MU). |
+La comunicación de la MU por parte del gestor de la vía y del transportista se ajustó a lo dispuesto en el § 49 apartado 3 letra a) de la Ley núm. 266/1994 Sb. y en el § 7 apartado 3 del Decreto núm. 376/2006 Sb.
+Decisión del DI sobre la apertura de la investigación:
 23. 2. 2019, y ello sobre la base de la gravedad de la MU
-| Decisión de la DI sobre el inicio de la investigación: | 23 2 2019 y ello sobre la base de la gravedad de la MU . . , |
+| Decisión del DI sobre la apertura de la investigación: | 23. 2. 2019, y ello sobre la base de la gravedad de la MU, |
 |  | derivada de la comunicación complementaria de la MU. |
-| Investigación de la DI en el lugar de la MU: | 2x inspector de ÚI Čechy. |
+| Investigación del DI en el lugar de la MU: | 2 veces inspector del ÚI Čechy. |
 | Constitución del equipo de investigación: | no fue necesario constituirlo. |
-| Colaboración externa: | DAKO -CZ a.s.; Českomoravská železniční opravna s r.o.; |
-|  | Západočeská univerzita v Plzni. |
-La posterior investigación de las causas y circunstancias de la aparición de la MU fue encomendada
-dentro de la DI al ÚI Čechy.
-En la investigación de las causas y circunstancias de la aparición de la MU, la DI partió de sus
-propios conocimientos y hallazgos, de su propia documentación fotográfica, de la documentación
-elaborada durante la investigación por el explotador de la vía y el transportista, de los resultados
-del examen del sistema de freno sobre la base de la citada colaboración externa y del encargo de
-una evaluación técnica de los componentes del sistema de freno del HDV 362.055-6 a la
-Facultad de Ingeniería – Departamento de Materiales e Ingeniería Metalúrgica de la
-Universidad de Bohemia Occidental en Plzeň.
-La investigación de las causas y circunstancias de la aparición de la MU se realizó de acuerdo con
-la ley n.º 266/1994 Sb. y el decreto n.º 376/2006 Sb.
+| Colaboración externa: | DAKO-CZ a.s.; Českomoravská železniční opravna s.r.o.; |
+|  | Universidad de Bohemia Occidental en Plzeň. |
+La posterior investigación de las causas y circunstancias de la aparición de la MU fue encomendada por el DI al ÚI Čechy.
+En la investigación de las causas y circunstancias de la aparición de la MU, el DI partió de sus propios conocimientos y hallazgos, de su propia documentación fotográfica, de la documentación elaborada durante la investigación por el gestor de la vía y el transportista, de los resultados del examen del sistema de freno en virtud de la mencionada colaboración externa y del encargo de una evaluación experta de los componentes del sistema de freno del HDV 362.055-6 a la Facultad de Ingeniería – Departamento de Materiales e Ingeniería Metalúrgica de la Universidad de Bohemia Occidental en Plzeň.
+La investigación de las causas y circunstancias de la aparición de la MU se realizó de conformidad con la Ley núm. 266/1994 Sb. y el Decreto núm. 376/2006 Sb.
 
 ## Página 19
+
 
 ### 2.2 Circunstancias del suceso excepcional
 ### 2.2.1 Empleados participantes, personas en relación contractual y otros participantes
@@ -818,8 +811,8 @@ Nota
 | Porcentaje de frenado real (%): | - |  |  |  |
 | Porcentaje de frenado faltante (%): | - |  |  |  |
 
-
 ## Página 20
+
 
 | Velocidad máxima permitida en el lugar del SE (km·h-1): | 40 |
 | Modo de frenado: | I |
@@ -834,8 +827,8 @@ La estación de České Budějovice está dividida en 10 distritos de maniobra. 
 El distrito OCP/OCÚ Západ, desde el que ambos HDV participantes salieron hacia los trenes asignados, se encuentra en el distrito de la infraestructura-ramal SOKV České Budějovice.
 La velocidad máxima permitida en el lugar de origen del SE fue de 40 km·h-1.
 
-
 ## Página 21
+
 
 ### 2.2.4 Uso de los medios de comunicación
 • A las 5.41.58 h, el maquinista del HDV 362.055-6 utilizó la radio del vehículo para advertir al maquinista del HDV 242.220-2 que estaba delante de él en la SK n.º 1, tras detectar el fallo del sistema de freno, con las palabras «popojeď s tím plecháčem na první»;
@@ -872,8 +865,8 @@ En el lugar del SE intervinieron los siguientes componentes de la IZS:
 • Servicio de Bomberos de Emergencias de SŽDC (desde el 1 de enero de 2020 HZS Správa železnic, entidad estatal), Unidad de Protección contra Incendios de Plzeň y České Budějovice;
 • Policía de la República Checa, Dirección Regional de Policía de la Región de Jihočeský, Distrito Policial de České Budějovice.
 
-
 ## Página 22
+
 
 ### 2.3 Fallecimientos, lesiones y daños causados
 2.3.1 En pasajeros y terceros, empleados del operador de la infraestructura y del transportista,
@@ -911,111 +904,91 @@ Los datos geográficos no guardaban relación con el SE en cuestión.
 ◦se estableció la ruta de maniobra hacia la 1.ª SK;
 ◦posteriormente, de la misma manera, se acordó y estableció también la ruta de circulación del HDV hacia el tren R 726;
 
-
 ## Página 23
 
-◦informó al maquinista del HDV, que accedía al tren R 726, de que circulaba hacia la
-1.ª SK ocupada;
+◦el maquinista del HDV, que se incorporaba al tren R 726, informó de que circulaba por
+1. la SK ocupada;
 ◦el maquinista le respondió que entendía;
-◦tras un momento, se escuchó en la radio una llamada del maquinista del HDV que accedía al
-tren R 726 al maquinista que accedía al tren R 658, diciéndole que «con esa locomotora
-tiene que moverse un poco, que eso no frena»;
-◦posteriormente se escuchó un golpe;
-• maquinista del elemento de maniobra I
+◦transcurrido un momento, se escuchó en el transmisor una llamada del maquinista del HDV que se incorporaba al tren R 726 al maquinista que se incorporaba al tren R 658, diciendo que "con esa locomotora tiene que moverse, que no frena";
+◦a continuación se escuchó un golpe;
+maquinista de la maniobra I
   – del Acta con el empleado se desprende, entre otras cosas:
-◦el 23 de febrero de 2019 salió del OCÚ České Budějovice con el HDV de la serie 242 hacia el tren
-R 658;
-◦en el límite del ramal SOKV se puso en contacto con el señalero St 2 y acordó con él la maniobra hacia
-el distrito de la estación de viajeros de la estación de České Budějovice, hacia la SK n.º 1;
-◦tras llegar al andén, se detuvo en la SK n.º 1 a la altura de la entrada de la oficina de tráfico,
-donde le esperaba el jefe de servicio exterior de la estación de České Budějovice con la orden
-escrita «V» para el tren R 658;
-◦se encontraba en el lado izquierdo de la cabina del maquinista en el sentido de la marcha y estaba
-recibiendo la orden cuando escuchó en la radio del vehículo al maquinista del elemento de
-maniobra siguiente, para que se marchara del lugar, porque eso no frena;
-◦cuando se desplazaba al lado derecho de la cabina para soltar el freno, se produjo el golpe;
-• maquinista del elemento de maniobra II 
- – del Acta con el empleado se desprende, entre otras cosas:
-◦el 23 de febrero de 2019 salió del OCÚ České Budějovice con el HDV de la serie 362 hacia el tren
-R 726;
-◦en el límite del ramal SOKV České Budějovice se puso en contacto con el señalero St 2
-y acordó con él la maniobra hacia el distrito de la estación de viajeros de la estación de České Budějovice hacia
-la SK n.º 1 ocupada;
-◦tras salir del ramal, aumentó la velocidad a unos 40 km·h-1;
-◦al pasar por St 2 vio que la SK n.º 1 seguía ocupada y, por tanto, al pasar
-junto a la señal de clasificación Se10 quiso reducir la velocidad con el freno directo;
-◦sin embargo, la reducción de velocidad no se produjo y junto a la señal de camino Sc1 utilizó
-el freno de emergencia;
-◦como el HDV seguía sin frenar, advirtió por radio al maquinista
-del elemento de maniobra anterior para que se marchara urgentemente, porque el HDV no frena;
-◦a continuación, se aferró al asiento del maquinista y esperó el golpe;
-◦al acceder y recibir el HDV en el OCÚ České Budějovice, realizó la prueba del freno del
-HDV de la siguiente manera:
-➢aflojó los frenos de mano en ambas posiciones y, con el freno directo aplicado,
-puso el HDV en marcha hacia delante y hacia atrás, y no se produjo ningún movimiento del HDV;
-➢a continuación, redujo la presión en la tubería principal con el mando del freno BSE y en el
-manómetro del cilindro de freno se podía ver que se había producido el frenado del freno continuo;
-◦no comprobó físicamente el ajuste de las zapatas de freno a las llantas de las ruedas, porque el HDV
-estaba claramente frenado;
-◦en cuanto a la explicación de dicho comportamiento del HDV – fallo de los frenos neumáticos –, la
-consideró, dada la temperatura exterior, en la posibilidad de formación de un tapón de hielo en el sistema
-de freno;
+•
+◦el 23. 2. 2019 salió de la OCÚ České Budějovice con el HDV de la serie 242 para el tren R 658;
+◦en los límites de la vía lateral SOKV se comunicó con el señalero St 2 y acordó con él la maniobra hacia el ámbito de la estación de pasajeros žst. České Budějovice, a la SK n.º 1;
+◦tras llegar al andén, se detuvo en la SK n.º 1 a la altura de la entrada a la oficina de tráfico, donde le esperaba la jefa de servicio exterior de la žst. České Budějovice con la orden escrita "V" para el tren R 658;
+◦se encontraba en el lado izquierdo de la cabina del maquinista en el sentido de la marcha y estaba recibiendo la orden cuando escuchó en la radio del vehículo del maquinista de la maniobra siguiente que se marchara del sitio, porque no frena;
+◦cuando se trasladaba al lado derecho de la cabina para soltar el freno, se produjo el golpe;
+maquinista de la maniobra II 
+  – del Acta con el empleado se desprende, entre otras cosas:
+•
+◦el 23. 2. 2019 salió de la OCÚ České Budějovice con el HDV de la serie 362 para el tren R 726;
+◦en los límites de la vía lateral SOKV České Budějovice se comunicó con el señalero St 2 y acordó con él la maniobra hacia el ámbito de la estación de pasajeros žst. České Budějovice a la SK n.º 1 ocupada;
+◦tras salir de la vía lateral, aumentó la velocidad a unos 40 km·h-1;
+◦al pasar junto a St 2 vio que la SK n.º 1 seguía ocupada y, por tanto, al pasar junto a la señal de enclavamiento Se10 quería reducir la velocidad con el freno directo;
+◦sin embargo, la reducción de velocidad no se produjo y junto a la señal de camino Sc1 utilizó el freno de emergencia;
+◦como el HDV seguía sin frenar, advirtió por radio al maquinista de la maniobra anterior que se marchara urgentemente, porque el HDV no frena;
+◦a continuación, se apoyó en el asiento del maquinista y esperó el golpe;
+◦al subir y recibir el HDV en la OCÚ České Budějovice, realizó la prueba del freno del HDV de la siguiente manera:
+➢aflojó los frenos de mano en ambas puestos de conducción y con el freno directo accionado puso el HDV en marcha hacia delante y hacia atrás, sin que se produjera ningún movimiento del HDV;
+➢a continuación redujo la presión en la tubería principal con el mando del freno BSE y en el manómetro del cilindro de freno se podía ver que se había producido el frenado del freno continuo;
+◦no comprobó físicamente el apoyo de las balatas de freno contra los aros de las ruedas, porque el HDV estaba claramente frenado;
+◦explicación de dicho comportamiento del HDV – fallo de los frenos neumáticos, que atribuyó, dada la temperatura exterior, a la posible formación de un tapón de hielo en el sistema de frenos;
 
 ## Página 24
 
 maquinista
- del servicio de maniobras II
-  – del Registro de explicaciones prestadas por el DI, entre otros
+ de la unidad de maniobras II
+  – del Registro de explicaciones presentadas por el DI, entre otros
 •
-se desprende:
-◦al subir, activó el HDV y en el puesto de conducción del maquinista II comprobó la eficacia del freno de accionamiento directo e indirecto;
-◦tras presurizar el depósito de aire y llenar el freno, puso la marcha hacia atrás y puso el HDV en servicio, lo mismo hizo con la marcha hacia delante para comprobar si en las grandes heladas cambiaban las direcciones de marcha;
-◦el HDV reaccionó normalmente y quedó completamente frenado por el freno auxiliar DAKO-BP a presión total, lo que también se observaba en los manómetros del puesto II (en dirección a la estación de pasajeros);
-◦a continuación, desfrenó por completo el freno de accionamiento directo y frenó de forma continua para realizar el ZBHV;
+ se desprende:
+◦al subir, puso en marcha la HDV y en el puesto del maquinista II comprobó la eficacia del freno de mando directo e indirecto;
+◦tras presurizar el depósito de aire y llenar el freno, puso la marcha hacia atrás y puso la HDV en servicio, hizo lo mismo en dirección hacia adelante para comprobar si en las grandes heladas cambiaban las direcciones de marcha;
+◦la HDV reaccionó normalmente y quedó completamente frenada por el freno auxiliar DAKO-BP a plena presión, lo que se veía también en los manómetros del puesto II (en dirección hacia la estación de pasajeros);
+◦a continuación solucionó por completo el freno de mando directo y frenó de forma continua para realizar el ZBHV;
 ◦en los manómetros vio que el freno automático también era funcional;
-◦volvió a frenar parcialmente con el freno de accionamiento directo y desfrenó el freno automático con el fin de comprobar la cooperación de las dobles válvulas de retención;
+◦volvió a frenar parcialmente con el freno de mando directo y solucionó el freno automático con el fin de comprobar la cooperación de las dobles válvulas de retorno;
 ◦todo funcionaba absolutamente normal, no se oía ninguna fuga de aire;
-◦a continuación, volvió a frenar con el freno de accionamiento directo, dejó también el freno automático puesto y fue a revisar el bastidor del HDV, cuando comprobó la rotación de los discos, el espesor de las zapatas y su contacto con las ruedas, así como si se presentaban defectos en el bastidor;
-◦el contacto de las zapatas lo comprobó visualmente, una posible avería del conjunto de freno sería visible, ya que las zapatas no contactarían con la rueda;
-◦tras la actividad anterior, se reportó en el puesto n.º H1 en SOKV České Budějovice, que saldría con el tren R 726 a la estación de pasajeros de la est. České Budějovice;
-◦antes que él, partió de la misma vía el HDV con el tren R 658;
-◦tras acordar la maniobra y obtener el permiso, se puso en marcha hacia la señal de clasificación, en la que se encendió la señal «Maniobra permitida»;
-◦continuó la marcha, antes de la siguiente señal de clasificación redujo la velocidad con frenado de accionamiento directo y acordó la maniobra hasta la estación de pasajeros;
-◦el señalero St 2 le comunicó que iría a la vía de clasificación SK n.º 1 ocupada y encendió la señal «Maniobra permitida» en ambas señales de clasificación;
-◦continuó la marcha y antes de St 2, a una distancia de unos 300 m, vio que la SK n.º 1 seguía ocupada, por lo que quería reducir la velocidad con frenado de accionamiento directo;
-◦como el efecto de frenado no se produjo, frenó con el freno de accionamiento directo a frenado máximo;
-◦tampoco después se produjo el efecto de frenado, por lo que aproximadamente junto a la señal de paso SK n.º 1 utilizó el freno rápido;
-◦el HDV seguía sin frenar, por lo que advirtió por radio al compañero en el HDV de delante que se pusiera en marcha, ya que su HDV no frenaba;
-◦a continuación, se aferró en el asiento del maquinista y esperó el impacto, que posteriormente se produjo;
-◦no abrió la válvula de emergencia en la cabina del maquinista;
+◦a continuación volvió a frenar con el freno de mando directo, dejó también el freno automático aplicado y fue a revisar el bogie de la HDV, cuando comprobó la rotación de los discos, el espesor de los zapatos y su ajuste a las ruedas, y si existían defectos en el bogie;
+◦el ajuste de los zapatos lo comprobó visualmente, una posible avería del conjunto de freno sería visible, ya que los zapatos no ajustarían a la rueda;
+◦tras la actividad anterior se comunicó con el puesto n.º H1 en SOKV České Budějovice, que saldría con el tren R 726 a la estación de pasajeros de la est. České Budějovice;
+◦antes de él partió de la misma vía la HDV con el tren R 658;
+◦tras acordar la maniobra y haber recibido el permiso, se puso en marcha hacia la señal de clasificación, en la que se encendió la señal "Posun dovolen" (Maniobra permitida);
+◦continuó la marcha, antes de la siguiente señal de clasificación frenó con el freno de mando directo y acordó la maniobra hacia la estación de pasajeros;
+◦el señalero St 2 le comunicó que entraría en la vía de clasificación SK n.º 1 ocupada y encendió la señal "Posun dovolen" (Maniobra permitida) en ambas señales de clasificación;
+◦continuó la marcha y antes de St 2 a una distancia de unos 300 m vio que la SK n.º 1 seguía ocupada, por lo que quería reducir la velocidad con frenado de mando directo;
+◦como el efecto de frenado no se produjo, frenó con el freno de mando directo a frenado máximo;
+◦tampoco después se produjo el efecto de frenado, por lo que aproximadamente junto a la señal de camino SK n.º 1 utilizó el freno de emergencia;
+◦la HDV seguía sin frenar, por lo que por radio avisó al colega de la HDV que iba delante para que se pusiera en marcha, ya que su HDV no frenaba;
+◦a continuación se apoyó en el asiento del maquinista y esperó el impacto, que posteriormente se produjo;
+◦no abrió la válvula de freno de emergencia en la cabina del maquinista;
 ◦en el andén estaba la jefa de estación y entregaba órdenes escritas;
-◦esta, junto con el compañero del HDV 242.220-2, en el que chocó, le informó de que no había heridos (nota del DI: sin embargo, posteriormente el maquinista del HDV 362.055-6, según su declaración, por una hinchazón considerable de la rodilla de la extremidad inferior derecha, fue atendido en un centro sanitario);
-◦aseguró su HDV contra la marcha inesperada, porque tras el impacto oyó cómo escapaba el aire, y vio la caída de presión también en los manómetros del puesto de conducción del maquinista;
-
+◦esta, junto con el colega de la HDV 242.220-2, en la que chocó, informó de que no había heridos (nota del DI: sin embargo, posteriormente el maquinista de la HDV 362.055-6, según su declaración, fue atendido en un centro sanitario por una hinchazón considerable de la rodilla de la extremidad inferior derecha);
+◦aseguró su HDV contra el arrastre, porque tras el impacto oyó cómo escapaba el aire, y vio la caída de presión también en los manómetros del puesto del maquinista;
 
 ## Página 25
 
-◦el aseguramiento contra la marcha inesperada lo realizó apretando los frenos de mano del HDV, desconectó el suministro eléctrico del HDV, puso el interruptor de control en la posición «0» y hasta la llegada de los órganos investigadores no manipuló ningún otro elemento de mando;
-◦del servicio y control de la serie 362 de HDV realizó el examen profesional, las posibles reconstrucciones se dan a conocer a los maquinistas en la formación periódica;
-◦nunca se había encontrado con una avería similar, solo tras el MU ocurrido se enteró del controlador de circulación de que el HDV 362.055-6 ya había tenido un accidente en diciembre de 2018 por la misma causa en la est. Praha hl. n.;
-◦del Libro de reparaciones se enteró posteriormente de que en varias ocasiones se había solicitado a los compañeros la reparación debido a fallos de freno muy frecuentes;
-◦con la serie 362 de HDV no se presenta ningún problema en la conducción y el mando de los frenos desde el punto de vista de la disposición del puesto de conducción del maquinista, solo hay un problema con el ruido de los inversores de pulso de la sala de máquinas y en verano, ocasionalmente, con el aire acondicionado inoperativo;
+◦la protección contra la marcha incontrolada la realizó apretando los frenos de mano del HDV, desconectó el suministro eléctrico del HDV, puso el interruptor de mando en la posición "0" y hasta la llegada de los órganos de investigación no manipuló ningún otro elemento de mando;
+◦realizó el examen profesional para la explotación y conducción de la serie 362 de HDV, las posibles reconstrucciones se dan a conocer a los conductores en la formación periódica;
+◦nunca se había encontrado con una avería similar, hasta después de la MU ocurrida se enteró por parte del inspector de tráfico de que el HDV 362.055-6 ya había tenido un accidente en diciembre de 2018 por la misma causa en la est. Praha hl. n.;
+◦posteriormente se enteró, a través del Libro de reparaciones, de que en varias ocasiones se había solicitado a sus compañeros una reparación debido a fallos muy frecuentes del freno;
+◦con el HDV de la serie 362, en lo que respecta a la conducción y al mando de los frenos desde el punto de vista de la disposición del puesto del conductor, no se presenta ningún problema, solo hay un problema con el ruido de los inversores de pulsos de la sala de máquinas y en verano, ocasionalmente, con el aire acondicionado inoperativo;
 ◦está convencido de que en el HDV 362.055-6 la avería del freno se producía de forma totalmente aleatoria;
-◦para evitar la colisión, en su opinión, hizo lo suficiente, incluida la advertencia al compañero de delante, y ya no estaba en su mano hacer más.
+◦para evitar la colisión, según su opinión, llegó a hacer lo suficiente, incluida la advertencia a su compañero que le precedía, y ya no estaba en su mano hacer más.
 ### 3.1.2 Otros testigos
-Otras personas no prestaron explicaciones sobre las causas y circunstancias de la aparición de este MU.
+Otras personas no aportaron explicaciones sobre las causas y circunstancias de la aparición de esta MU.
 ### 3.2 Sistema de garantía de la seguridad
 ### 3.2.1 Organización marco y forma de emisión y ejecución de instrucciones
-El gestor de la infraestructura y el transportista tienen un sistema de garantía de la seguridad adoptado con base en las disposiciones de la Ley n.º 266/1994 Sb.
-En el sistema de garantía de la seguridad de la explotación de la infraestructura adoptado por el gestor de la infraestructura SŽDC, relacionado con las circunstancias de la aparición del MU en cuestión, no se detectó ningún defecto.
-En el sistema de garantía de la seguridad del transporte ferroviario adoptado por el transportista ČD, relacionado con las circunstancias de la aparición del MU en cuestión, no se detectó ningún defecto.
+El gestor de la infraestructura y el transportista disponen de un sistema de garantía de la seguridad adoptado con base en las disposiciones de la Ley n.º 266/1994 Sb.
+En el sistema de garantía de la seguridad de la explotación de la infraestructura adoptado por el gestor de la infraestructura SŽDC, relacionado con las circunstancias de la aparición de la MU en cuestión, no se detectó ningún defecto.
+En el sistema de garantía de la seguridad del transporte ferroviario adoptado por el transportista ČD, relacionado con las circunstancias de la aparición de la MU en cuestión, no se detectó ningún defecto.
 ### 3.2.2 Requisitos para los empleados del gestor de la infraestructura y del transportista y aplicación de dichos requisitos
-Los requisitos para los empleados del gestor de la infraestructura y del transportista, en particular los requisitos de su idoneidad profesional y sanitaria, están establecidos por la Ley n.º 266/1994 Sb., el Decreto n.º 173/1995 Sb., el Decreto n.º 101/1995 Sb., el Decreto n.º 16/2012 Sb. y las normas internas del gestor de la infraestructura y del transportista.
-En el momento de la aparición del MU en cuestión, la persona del gestor de la infraestructura SŽDC (señalero St 2 de la est. České Budějovice) involucrada en el MU y que realizaba actividades en la explotación de la infraestructura era profesionalmente idónea para el desempeño de la función que ocupaba.
-En el momento de la aparición del MU en cuestión, todas las personas del transportista ČD (maquinista del servicio de maniobras I y maquinista del servicio de maniobras II) que realizaban actividades en la explotación
-
+Los requisitos para los empleados del gestor de la infraestructura y del transportista, en particular los requisitos de su idoneidad profesional y sanitaria, están establecidos por la Ley n.º 266/1994 Sb., la disposición n.º 173/1995 Sb., la disposición n.º 101/1995 Sb., la disposición n.º 16/2012 Sb. y las normas internas del gestor de la infraestructura y del transportista.
+En el momento de la aparición de la MU en cuestión, la persona del gestor de la infraestructura SŽDC (guardagujas St 2 de la est. České Budějovice) implicada en la MU y que realizaba actividades en la explotación de la infraestructura era profesionalmente idónea para el desempeño de la función que ocupaba.
+En el momento de la aparición de la MU en cuestión, todas las personas del transportista ČD (conductor de la unidad de maniobras I y conductor de la unidad de maniobras II) que realizaban actividades en la explotación
 
 ## Página 26
+
 
 del transporte ferroviario eran profesionalmente idóneas para el desempeño de la función que ocupaban.
 ### 3.2.3 Procedimientos de control interno de seguridad y auditoría y sus resultados
@@ -1043,8 +1016,8 @@ Tabla n.º 1: inspecciones y reparaciones de ŽKV
 | Reparacionesperiódicas -de ajuste -principal -general | VY H - | VY H G | VY H - | VY H G | VY H G |
 | Reparacionesplanificadas | P | P | P | P | P |
 
-
 ## Página 27
+
 
 | Reparacionesno planificadas | N | N | N | N | N |
 | Reparacionesno planificadasde servicio | SO | SO | SO | SO | SO |
@@ -1072,6 +1045,7 @@ Los procedimientos tecnológicos uniformes del transportista contenidos en la no
 
 ## Página 28
 
+
 Medida del director de la Sección de Material Rodante de la Dirección General de ČD «Medida del director de la sección de material rodante al anexo n.º 1 de la norma ČD V 25», ref. n.º 05-12/2-2845 de fecha 21. 10. 2005, aumenta las normas de kilómetros recorridos para la ampliación de ŽKV hasta la inspección de seguridad, el mantenimiento operativo y las inspecciones periódicas. Para determinadas series de ŽKV de tracción eléctrica se incorporó una nueva inspección de seguridad con un contenido en el alcance del mantenimiento operativo. Para la serie
 ### HDV 242 y 362 se aumentó la norma de recorrido hasta el mantenimiento operativo EO a 9 000
 ### – 10 000 km y hasta la inspección periódica pequeña EM a 38 000 – 42 000 km.
@@ -1087,8 +1061,8 @@ Medida del director de la Sección de Material Rodante de la Dirección General 
 Medida del subdirector general de ČD para comercio y explotación «Medida ejecutiva para la norma ČD V 25 para el año 2005», ref. n.º 1044/2005-12/4-Ro, de fecha 6. 1. 2005, entre otras cosas, establece: «Tras la verificación de las perspectivas de uso posterior de las locomotoras eléctricas de las series 121, 181 y 182 y de las unidades eléctricas de las series 451 y 452, y atendiendo a la situación en el mantenimiento de los coches de pasajeros, de remolque y de mando independientes, la medida ref. n.º 3391/04-O12/2-Ca de fecha 17. 12. 2004 se precisa de tal modo que las inspecciones periódicas de alcance «V» en el año 2005 no se realizarán en los vehículos de tracción ni en los coches de pasajeros, de remolque y de mando independientes. Las únicas excepciones son los vehículos en garantía del fabricante, donde es necesario cumplir el programa de mantenimiento establecido por el fabricante del vehículo (art. 26 de la norma interna ČD V 25) y, además, las locomotoras eléctricas de las series 122 y 123 y las unidades eléctricas de las series 451, 452 y 460. La vigencia de esta medida ejecutiva es hasta la fecha de publicación de la norma ČD V 25 actualizada.».
 En relación con la supresión de la realización de inspecciones periódicas de alcance «V» a partir del año 2005, es decir, tras la finalización de la vigencia de la medida del subdirector general de ČD para comercio y explotación «Medida ejecutiva para la norma ČD V 25 para el año 2005», el transportista en el documento ref. n.º 1315/2013-O 12 de fecha 2. 8. 2013 indicó: «La vigencia de esta medida ejecutiva es hasta la fecha de publicación de la norma ČD V 25 actualizada.» Aunque en el título se indica que
 
-
 ## Página 29
+
 
 la medida se refiere al año 2005, hasta la fecha no se ha publicado la norma ČD V 25 novada, a pesar de que se contemplaba ya en el año 2005, a más tardar a principios del año 2006, de modo que, con base en la última frase, la medida sigue vigente. Si la medida hubiera dejado de estar vigente el 31. 12. 2005, habría sido necesario además publicar una medida para la realización de las inspecciones V periódicas en los vehículos que en el año 2005 superaron los kilómetros recorridos prescritos para la inspección V, lo cual no ocurrió. Además, ya se habían establecido por decreto las inspecciones técnicas con la periodicidad prescrita, que deben garantizar el estado seguro de los vehículos ferroviarios en servicio, por lo que, en nuestra opinión, el no realizar las inspecciones V no tiene influencia en la seguridad, en todo caso en la fiabilidad de nuestros vehículos ferroviarios.».
 El alcance de las actividades de control y mantenimiento, incluidos los kilómetros recorridos en cada uno de los niveles de mantenimiento, lo establece el fabricante en el programa de mantenimiento del DV concreto y, a continuación, el transportista en su norma interna sobre la garantía organizativa del mantenimiento del DV, no el decreto n.º 173/1995 Sb. Este, en su § 64, establece la obligación de realizar la inspección técnica, entre otros, de los HDV, y ello en los intervalos de tiempo o kilométricos establecidos, que se indican en el anexo n.º 5, que forma parte de este decreto.
@@ -1125,65 +1099,78 @@ Desmontar, limpiar y volver a montar los filtros de la tubería de aire.
 Tubería de aire: probar la estanqueidad, comprobar los grifos finales y las mangueras de conexión de aire
 •
 
-
 ## Página 30
 
-Mandos DAKO-OBE 1: probar el funcionamiento del programa de conmutación.
+Mando DAKO-OBE 1: probar la función del programa de conmutación.
 •
-Freno DAKO-BSE: limpiar la malla en la tubería antes del freno, probar el freno.
+Freno DAKO-BSE: limpiar el tamiz en la tubería antes del freno, probar el freno.
 •
-Freno DAKO-BP: limpiar la malla en la tubería antes del freno en la tubería, probar el freno.
+Freno DAKO-BP: limpiar el tamiz en la tubería antes del freno en la tubería, probar el freno.
 •
-Verificar el funcionamiento de las válvulas de seguridad Js 15 (948) – sin desmontaje.
+Verificar la función de las válvulas de seguridad Js 15 (948) – sin desmontaje.
 •
-Se realizará el desmontaje de las tapas, limpieza, revisión de las piezas (sustituir las defectuosas y dañadas) y, tras el montaje, verificar el funcionamiento de las válvulas de retorno (Lo 10648 P n.º 940/1,
+Se procederá al desmontaje de las contravalvulas, limpieza, revisión de las piezas (las defectuosas y dañadas
 •
+se sustituirán) y tras el montaje verificar el funcionamiento de las contravalvulas de retorno (Lo 10648 P indic. 940/1,
 945/1, 945/2, 946/1, 946/2 y 946/4).
-Freno de mano: ajustar, probar la tracción, lubricar y hacer girar el husillo.
+Freno de mano: ajustar, probar a tracción, lubricar el husillo y hacerlo girar.
 •
-Freno mecánico: comprobar la fijación de los grupos de freno a los bastidores,
+Freno mecánico: comprobar el fijación de las unidades de freno en los bogies,
 •
-comprobar todos los pasadores, tornillos y tuercas, soportes y varillas de freno, el desgaste de las zapatas, ajustar el freno, lubricar el grupo de freno y comprobar el ajuste de la holgura de las zapatas de freno respecto a las llantas del eje de unos 3 + 10 mm.
-Cilindro de freno del grupo de freno: comprobar la extensión del vástago y probar la estanqueidad.
+comprobar todos los pasadores, tornillos y tuercas, enganches y varillas de freno, desgaste
+del freno, ajustar el freno, lubricar la unidad de freno y comprobar el ajuste de la holgura
+de las balatas de freno respecto a los aros del bogie de aprox. 3 + 10 mm.
+Cilindro de freno de la unidad de freno: comprobar la extensión del vástago y probar la estanqueidad.
 •
-Según la medida Ř O12 n.º 1844/08-O12, realizar una prueba funcional de la correcta función del dispositivo de arenado, comprobar la orientación de las boquillas hacia el canto del raíl y el estado de los botones (pedales), comprobar las válvulas electoneumáticas, las válvulas de accionamiento y en cascada, las codos de la caja de arena con las toberas de señalización del funcionamiento del dispositivo de arenado.
+De acuerdo con la medida Ř O12 nº 1844/08-O12, realizar la prueba funcional de la correcta función
 •
+del dispositivo de arenado, la comprobación de la orientación de las toberas sobre la cabeza del carril y el estado
+de los botones (pedales), la comprobación de las válvulas electropneumáticas, de las válvulas de accionamiento
+y en cascada, de las codos de la caja de arena con las toberas de señalización del funcionamiento del dispositivo de arenado.
 Limpiar los codos de la caja de arena, las toberas y los tubos.
-Cada 3.ª EM, desmontar y desarmar las válvulas de potencia en cascada (n.º 942/1,
+Cada 3.ª EM desmontaje y despiece de las válvulas en cascada de potencia (indic. 942/1,
 •
-942/2) del arenador, su comprobación completa (muelle, tapa, obturador y su estanqueidad).
-Medir la cantidad de arena según la TSI. La cantidad permitida por caja de arena en 30 segundos es
-•
-400 g + 100 g para la serie 363, 650 g + 150 g para la serie 362. Si la cantidad no está dentro de la tolerancia, ajustar. Probar el funcionamiento del arenado desde ambas posiciones de conducción.
-La estanqueidad de todo el equipo neumático se controla en el manómetro de los depósitos de aire principales.
+942/2) del arenador, su comprobación completa (muelle, contravalvula, tapón y su estanqueidad).
+Medir la cantidad de arena según la TSI. La cantidad permitida en la caja de arena en 30 segundos es
+de 400 g + 100 g para la serie 363, 650 g + 150 g para la serie 362. Si la cantidad no está en tolerancia,
+ajustar. Probar la función de arenado desde ambas posiciones de conducción.
+La estanqueidad de todo el equipo de aire comprimido se controla en el manómetro de los depósitos de aire principales.
 •
 Caída de sobrepresión máx. 0,5 bares en 10 min.
-La estanqueidad de todo el equipo de producción de aire desde el compresor hasta todos los grifos de cierre tras los depósitos de aire principales debe ser al menos tal que la caída de sobrepresión
+La estanqueidad de todo el sistema de producción de aire desde el compresor hasta todas las llaves de cierre
 •
-en todo el sistema probado no sea superior a 0,2 bares en 10 minutos.
-La estanqueidad del freno automático de la locomotora en estado frenado debe ser al menos
+detrás de los depósitos de aire principales debe ser al menos tal que la caída de sobrepresión
+en todo el sistema ensayado no sea superior a 0,2 bares en 10 minutos.
+La estanqueidad del freno automático de la locomotora en estado aplicado debe ser al menos
 •
-tal que no descienda la sobrepresión en los cilindros de freno en más de 0,3 bares en 10 min.
+tal que no caiga la sobrepresión en los cilindros de freno en más de 0,3 bares en 10 min.
 La estanqueidad del freno automático de la locomotora en estado liberado debe ser al menos
 •
-tal que la sobrepresión en la tubería principal no descienda en más de 0,3 bares en 10 min.
+tal que la sobrepresión en la tubería principal no caiga en más de 0,3 bares en 10 min.
 Estanqueidad del circuito de mando de aire del freno electrodinámico: en estado
 •
-frenado, la estanqueidad es al menos tal que la caída de sobrepresión de aire en el transductor B101 no sea superior a 0,2 bares durante 5 minutos.
-Estanqueidad del freno de mando directo: la caída de sobrepresión de aire en los cilindros de freno y en la tubería de este freno no debe exceder de 0,3 bares en 10 min. La prueba se realiza por separado en cada posición de conducción.
+aplicado la estanqueidad es al menos tal que la caída de sobrepresión de aire en el transmisor B101
+no sea mayor de 0,2 bares durante 5 minutos.
+Estanqueidad del freno de mando directo: la caída de sobrepresión de aire en los cilindros de freno y en la tubería
 •
-Freno de rescate: probar el funcionamiento de la tapa AK-1" 929/1,2 del freno BSE y de los mandos OBE1 de frenado. Simultáneamente, comprobar el funcionamiento del caudalímetro PM2 – n.º 979 y el funcionamiento de la válvula de seguridad. Comprobar la actuación del freno de acción rápida en la frenada de emergencia con los mandos DAKO-OBE1-923/1,2.
-### Reparación de equilibrado:
-Inspección visual del grupo de freno.
+de este freno no debe exceder de 0,3 bares en 10 min. La prueba se realiza por separado en
+cada posición de conducción.
+Freno de rescate: probar la función de la contravalvula AK-1" 929/1,2 del freno BSE y de los mandos
 •
-Prueba de estanqueidad y correcta función de los grupos de freno.
+OBE1 de frenado. Simultáneamente comprobación de la función del caudalímetro PM2 – indic. 979 y de la función
+de la válvula de seguridad. Comprobar el actuación del freno de acción rápida en el frenado de emergencia con los mandos DAKO-OBE1-923/1,2.
+### Reparación de ajuste:
+Inspección visual de la unidad de freno.
 •
-Pintura del grupo de freno.
+Prueba de estanqueidad y de la correcta función de las unidades de freno.
 •
-Desmontaje y montaje, comprobación de pasadores y casquillos.
+Pintura de la unidad de freno.
+•
+Desmontaje y montaje, comprobación de pasadores y bujes.
 •
 
 ## Página 31
+
 
 Sustitución de las zapatas de freno.
 •
@@ -1260,8 +1247,8 @@ comprobación del estado de desgaste del neumoválvula, ajuste;
 comprobación de los parámetros prescritos del freno (estáticamente).
 •
 
-
 ## Página 32
+
 
 Freno DAKO-BP
 comprobación dimensional de las válvulas de asiento de metal-caucho;
@@ -1317,46 +1304,27 @@ se realizaron los siguientes grados de mantenimiento:
 se realizó el día 12. 2. 2019. Desde esta atención hasta la aparición de la MU, el HDV recorrió 3 814 km.
 ### Inspección periódica pequeña EM – norma de recorrido 38 000 – 42 000 km. En el HDV antes
 
-
 ## Página 33
 
-de la aparición de la MU se realizó el día 10. 1. 2019. Desde esta inspección hasta la aparición de la MU, el HDV
-recorrió 22 075 km.
-### Reparación periódica de ajuste EVY – norma de recorrido recomendada 550 000 km. En el HDV
-antes de la aparición de la MU se realizó el día 4. 11. 2016. Desde esta reparación hasta la aparición de la MU, el HDV
-recorrió 409 582 km.
-Reparación periódica principal EH – norma de recorrido recomendada 2 200 000 km. Según la declaración
-del transportista, en el HDV 362.055-6 no se había realizado desde la fecha de su fabricación en el año 1986
-la reparación periódica principal. Desde la fabricación hasta la aparición de la MU, el HDV recorrió 4 425 745 km.
+con la aparición de la MU se realizó el día 10. 1. 2019. Desde esta inspección hasta la aparición de la MU, el HDV recorrió 22 075 km.
+### Reparación periódica del acoplador EVY – norma de recorrido recomendada 550 000 km. En el HDV se realizó el día 4. 11. 2016. Desde esta reparación hasta la aparición de la MU, el HDV recorrió 409 582 km.
+Reparación periódica del EH principal – norma de recorrido recomendada 2 200 000 km. Según la declaración del transportista, en el HDV 362.055-6 no se había realizado ninguna reparación periódica del principal desde la fecha de su fabricación en 1986. Desde la fabricación hasta la aparición de la MU, el HDV recorrió 4 425 745 km.
 En el procedimiento de control interno de seguridad del transportista ČD se detectaron deficiencias.
 Hallazgos:
-el transportista, tras la aparición de una MU similar el día 28. 12. 2018, y concretamente en el HDV 362.055-6,
+el transportista, tras la aparición de una MU similar el día 28. 12. 2018, concretamente en el HDV 362.055-6,
 •
-no realizó, con base en lo dispuesto en el § 64 apartado 3 del decreto n.º 173/1995 Sb.,
-«la Inspección técnica del HDV fuera del intervalo de tiempo o kilométrico establecido en
-el anexo n.º 5, que forma parte de este decreto y al que están sometidos los vehículos indicados en
-el apartado (1) tras un accidente o una incidencia con influencia en su idoneidad técnica...» y admitió
-el HDV en cuestión al servicio regular hasta la aparición de la MU posterior.
-Esta infracción no puede considerarse una infracción en relación causal con la aparición de la MU,
-pues el transportista realizó el esfuerzo para evitar la eventual amenaza posterior a la seguridad
-del transporte ferroviario y realizó todos los actos ordenados por el decreto n.º 173/1995 Sb.,
-como actos independientes, es decir, el día 9. 1. 2019 en aquellas partes constructivas del sistema de freno del HDV,
-«cuya funcionalidad podría tener influencia en la seguridad de la explotación de la vía o del
-transporte ferroviario», sin que la avería en el sistema de freno se manifestara.
-### 3.2.4 Interfaz entre los distintos sujetos implicados y los componentes de la vía de circulación
-El propietario de la vía ferroviaria, categoría nacional, České Velenice frontera estatal
-– České Budějovice, es la República Checa. El derecho de administrar los bienes del Estado lo ejercía
-SŽDC, con domicilio en Dlážděná 1003/7, Praha 1, CP 110 00.
-El explotador de la vía ferroviaria, categoría nacional, České Velenice frontera estatal –
-České Budějovice, fue SŽDC.
-El transportista de ambas secciones de maniobra fue ČD, con domicilio en Nábřeží L. Svobody 1222,
-Praha 1, CP 110 15.
-El transporte ferroviario se realizó con base en el contrato celebrado entre
-el explotador de la vía SŽDC y el transportista ČD el día 21. 8. 2013, con efectos desde el 1. 9. 2013.
-En la interfaz entre los sujetos implicados no se detectó ninguna deficiencia.
-
+no realizó, con base en lo dispuesto en el § 64 apartado 3 del decreto nº 173/1995 Sb.,
+"una revisión técnica del HDV fuera del intervalo de tiempo o kilométrico establecido en el   anexo nº 5, que forma parte de este decreto y al que están sometidos los vehículos indicados en el   apartado (1) tras un accidente o incidente que influya en su idoneidad técnica..." y admitió el HDV en cuestión al servicio regular hasta la aparición de la MU posterior.
+Esta infracción no puede considerarse una infracción en relación causal con la aparición de la MU, ya que el transportista realizó esfuerzos para evitar una eventual amenaza posterior a la seguridad del transporte ferroviario y llevó a cabo todas las actuaciones ordenadas por el decreto nº 173/1995 Sb., y ello como actuaciones independientes, es decir, el día 9. 1. 2019 en aquellas partes constructivas del sistema de frenado del HDV, "cuya funcionalidad podría tener influencia en la seguridad de la explotación de la vía o del transporte ferroviario.", sin que la avería en el sistema de frenado se manifestara.
+### 3.2.4 Interfaz entre los distintos sujetos participantes y los componentes de la vía de circulación
+El propietario de la vía ferroviaria, categoría de ámbito nacional, České Velenice frontera estatal – České Budějovice, es la República Checa. El derecho de administrar los bienes del Estado lo ejerció SŽDC, con domicilio en Dlážděná 1003/7, Praha 1, CP 110 00.
+El explotador de la vía ferroviaria, categoría de ámbito nacional, České Velenice frontera estatal – České Budějovice, fue SŽDC.
+El transportista de ambas maniobras fue ČD, con domicilio en Nábřeží L. Svobody 1222, Praha 1, CP 110 15.
+El transporte ferroviario se prestaba con base en el contrato celebrado entre el explotador de la vía SŽDC y el transportista ČD el día 21. 8. 2013, con efectos desde el 1. 9. 2013.
+En la interfaz entre los sujetos participantes no se detectó ninguna deficiencia.
 
 ## Página 34
+
 
 ### 3.3 Regulación legal y otra
 ### 3.3.1 Normativa legal nacional pertinente y normativa de la Unión Europea
@@ -1402,60 +1370,62 @@ art. 473, letras a), b) de la norma interna del transportista ČD, norma ČD V15
 a) la verificación del contacto de todas las zapatas de freno exteriores (si no están instaladas, interiores)
 con las ruedas, respectivamente el estado «frenado» en el indicador del freno de disco,
 
-
 ## Página 35
 
-y la función de los reguladores antideslizamiento (salvo en HV con diagnóstico propio de este
+y la función de los reguladores antideslizantes (además del HV con autodiagnóstico de este
 equipo):
-aa) se realizará en el tiempo entre las verificaciones de la cooperación del freno directo
-y del freno automático (al cambiar de posición) y, por tanto, el freno automático debe estar
-frenado;
-b) la verificación del desfrenado del freno automático de modo que, tras su desfrenado:
-ba) en locomotoras independientes o en coches motores o eléctricos
-solo se verificará el vaciado de los cilindros de freno en el manómetro correspondiente».
-art. 5 de la norma interna del transportista ČD, norma V 25:
+aa) se realiza en el tiempo entre las verificaciones de la cooperación del freno
+directo y automático (al cambiar de puesto de mando), y el freno automático debe estar
+por tanto aplicado;
+b) la verificación de la liberación del freno automático, de modo que tras su liberación:
+ba) en locomotoras independientes o en coches motoros o eléctricos
+únicamente se verifica el vaciado de los cilindros de freno en el manómetro correspondiente“.
+art. 5 del reglamento interno del transportista ČD, reglamento V 25:
 •
-«El objetivo del mantenimiento de los ŽKV es garantizar la seguridad y la fiabilidad en su explotación,
-el mantenimiento de los ŽKV tiene, por tanto, carácter preventivo. En el marco del mantenimiento se realiza la comprobación
-del estado de las partes individuales y, si con el mantenimiento preventivo no se logra evitar
-averías en las partes individuales de los ŽKV, se realiza la eliminación de las averías surgidas...».
-art. 405 de la norma interna del transportista ČD, norma ČD V 1:
+«El objetivo del mantenimiento de los ŽKV es garantizar la seguridad y la fiabilidad en su
+funcionamiento, por lo que el mantenimiento de los ŽKV tiene carácter preventivo. En el
+marco del mantenimiento se realiza la inspección del estado de las distintas partes y, si
+con el mantenimiento preventivo no se logra prevenir averías en las distintas partes de los
+ŽKV, se procede a la eliminación de las averías surgidas...».
+art. 405 del reglamento interno del transportista ČD, reglamento ČD V 1:
 •
-«Los vehículos destinados a un servicio deben, por su estado técnico, corresponder
-a las disposiciones de las leyes pertinentes, decretos de aplicación, normas y directivas y deben
-estar preparados para el servicio correspondiente.»
+«Los vehículos destinados a la prestación de servicio deben, por su estado técnico,
+corresponder a las disposiciones de las leyes, decretos reglamentarios, normas y directivas
+aplicables, y deben estar preparados para el servicio correspondiente.»
 ### 3.4 Funcionamiento de los vehículos ferroviarios y de otros equipos técnicos
-### 3.4.1 Sistema de control, señalización y seguridad, incluidos los equipos de registro
+### 3.4.1 Sistema de control, señalización y seguridad, incluido el equipo de registro
 automático de datos
-El SZZ de 3.ª categoría tipo ESA 11 con función EZŠ en la estación de České Budějovice tiene un Certificado
-de idoneidad del equipo técnico designado, n.º de ed.: PZ 2709/15-E.48, emitido por el DÚ el día
-30. 10. 2015, con validez por tiempo indefinido. La última inspección y prueba del UTZ se realizó
-con base en el Acta de inspección y prueba técnica n.º 126/2016/02-RE el día 28. 8. 2016
-con la conclusión: El equipo técnico designado que fue objeto de la inspección y prueba técnica
-está realizado de acuerdo con la documentación técnica presentada. Con base en
-los documentos presentados, la inspección y prueba técnica realizadas en el ámbito indicado en
-este acta, el UTZ anteriormente indicado cumple la idoneidad técnica y la seguridad.
-El equipo es apto para su puesta en servicio según el § 47 de la ley n.º 266/1994 Sb.,
-de vías, en la redacción de las normas posteriores.
-Del análisis del archivo de datos descargado del ordenador tecnológico del SZZ ESA 11 de la estación de
-České Budějovice se detectó, entre otros:
-5.39.30 h 
-establecida la ruta de maniobra desde la señal de clasificación Se5 a la SK
+El SZZ de 3.ª categoría tipo ESA 11 con función EZŠ en la estación de České Budějovice
+dispone del Certificado de idoneidad del equipo técnico designado, n.º de ref.: PZ 2709/15-E.48,
+expedido por el DÚ el 30. 10. 2015, con vigencia por tiempo indefinido. La última inspección
+y prueba del UTZ se realizó, con base en el Protocolo de inspección técnica y prueba
+n.º 126/2016/02-RE, el 28. 8. 2016, con la conclusión: El equipo técnico designado que
+fue objeto de la inspección técnica y prueba se ha realizado conforme a la documentación
+técnica presentada. Con base en los documentos presentados, la inspección técnica y prueba
+realizadas en el alcance indicado en este protocolo, el UTZ anteriormente mencionado
+cumple la idoneidad técnica y la seguridad. El equipo es apto para su puesta en servicio
+conforme al § 47 de la Ley n.º 266/1994 Sb., de ferrocarriles, en su redacción vigente.
+Del análisis del archivo de datos descargado del ordenador tecnológico del SZZ ESA 11 de la
+estación de České Budějovice se constató, entre otros extremos:
+5.39.30 h
 •
-n.º 1 para la sección de maniobra I. La señal de clasificación Se5 señaliza la señal
+establecida la vía de maniobra desde la señal de clasificación Se5 a la vía
+SK n.º 1 para la sección de maniobra I. La señal de clasificación Se5 indica la señal
 «Maniobra permitida»;
-5.40.21 h 
-ocupación del tramo de vía antes de la señal de clasificación Se5
+5.40.21 h
 •
-por la circulación de la sección de maniobra I;
-5.41.04 h 
+ocupación del tramo de vía situado delante de la señal de clasificación Se5
+por el paso de la sección de maniobra I;
+5.41.04 h
+•
 SK n.º 1 ocupada por la sección de maniobra I;
+5.41.10 h
 •
-5.41.10 h 
-establecida la ruta de maniobra desde la señal de clasificación Se5 a la SK n.º 1
+establecida la vía de maniobra desde la señal de clasificación Se5 a la vía SK n.º 1
 •
 
 ## Página 36
+
 
 para el tramo de maniobras II. La señal de clasificación Se5 con la señal "Maniobras permitidas";
 5.41.19 h 
@@ -1511,8 +1481,8 @@ solicitó al maquinista del HDV 242.220-2 que hiciera avanzar el HDV
 con la mayor rapidez, ya que en su HDV no se producía el
 correspondiente efecto de frenado de los frenos.
 
-
 ## Página 37
+
 
 El uso de los aparatos de comunicación, transmisión e información no guardaba relación
 con la aparición del MU.
@@ -1568,8 +1538,8 @@ propia en el momento de la aparición del MU y durante la verificación del func
 en el marco de la investigación de las causas de la aparición del MU en su lugar. Al mismo
 tiempo se incorporaron los datos de los puntos kilométricos de
 
-
 ## Página 38
+
 
 los puntos de referencia en la vía de la vía de servicio SOKV České Budějovice y de la est.
 České Budějovice.
@@ -1669,8 +1639,8 @@ Distancia
 Distancia
 Funcionamiento del HDV
 
-
 ## Página 39
+
 
 instantánea
 recorrida
@@ -1793,8 +1763,8 @@ de circulación "P" – estacionamiento;
 inicio del aumento de la presión en el HP – presión
 instantánea 2,175 bares;
 
-
 ## Página 40
+
 
 5.39.15
 igualación de la presión en el HP – presión instantánea
@@ -1908,8 +1878,8 @@ a la rápida sucesión de acontecimientos no se puso en
 funcionamiento la EDB – no se desfrenó el freno directo
 (presión en los cilindros de freno inducida por el efecto
 
-
 ## Página 41
+
 
 |  |  |  |  | del freno directo no se redujo por debajo de 1,1 bares en el conmutador de presión S514. Con ello no se interrumpió la señal lógica "Bl" que entra en el miembro central de mando. Esto tuvo, entre otros, como consecuencia la no emisión de la solicitud de régimen de frenado desde el miembro central de mando al regulador de tracción mediante la señal "WB"); |
 | 5.42.09 | 29 | 955 | 0 | aparición del MU – colisión del HDV, desactivación del freno de servicio y del freno de emergencia, bajada del pantógrafo por efecto de la colisión; |
@@ -1930,6 +1900,7 @@ funcionamiento la EDB – no se desfrenó el freno directo
 | 11.30.05 | 5,175 | "0" | 0 | activación del freno de servicio (indirecto) mediante la operación del mando DAKO-BSE1 con el freno directo desfrenado; |
 
 ## Página 42
+
 
 | 11 30 12 . . | 3 575 , | 1“ „ | 4 3 , | los tacos de freno se apoyaron firmemente contra las ruedas; |
 | 11 31 12 . . | 2 975 , | 1“ „ | 3 8 , | desactivación del freno de servicio (no directo) por parte del operador mediante el mando DAKO -BSE1; |
@@ -1963,8 +1934,8 @@ Tabla n.º 3:
 | • 4 2 2017 . . | BSE en posición J no mantiene la presión“; „ |
 | • 12 4 2017 . . | No frena la unidad de freno 2 eje izquierdo“; „ . |
 
-
 ## Página 43
+
 
 | • 12 11 2017 . . | Limpie revise o sustituya alguna de „ , , . las válvulas de retención o dobles de la locomotora a veces no quiere frenar . (ni directa ni automáticamente)“; |
 | • 20 11 2017 . . | „Se repiten las averías anteriores – vuelva a probar o sustituya correctamente las válvulas dobles entre el freno directo y el automático Con la presión en los cilindros de freno tras . el frenado escapa aire por el segundo freno y la locomotora se libera“; . |
@@ -2002,8 +1973,8 @@ durante toda la verificación del sistema de freno no se manifestó ninguna aver
 funcionamiento del freno directo.
 *) el comportamiento no estándar del sistema durante la prueba de freno puede explicarse, además de una avería en alguna de las
 
-
 ## Página 44
+
 
 piezas del equipo de freno, por un llenado insuficiente del depósito de distribución y auxiliar de la HDV al pasar y operar el freno de un puesto a otro y por la introducción de órdenes mediante el mando DAKO-OBE1 antes de que se produjera dicho llenado necesario de los depósitos y el necesario equilibrio de presiones (opinión del representante de DAKO-CZ a.s. y nota del autor)
 Al concluir la inspección conjunta se acordó que, en la reparación del daño violento sufrido por el vehículo, se exigiría la reprobación de todos y cada uno de los componentes del sistema de freno por parte de un centro certificado y el desmontaje de las partes designadas de la tubería de freno en presencia de representantes de ČD y de la DI.
@@ -2018,8 +1989,8 @@ Se realizó y constató:
 6. asimismo se realizó una inspección visual de todas las demás piezas del equipo de freno de la HDV en la sala de máquinas, en los puestos del maquinista y, tras desenganchar, en el lado interior del bastidor y en los bogies, centrándose especialmente en el paso de la tubería.
 Conclusión: Durante el examen de todos los componentes desmontados y revisados visualmente o con la ayuda de un endoscopio, no se detectó ninguna avería en el estado técnico de las piezas desmontadas individuales ni en el sistema de freno de la HDV en su conjunto, es decir, tanto en el freno directo como en el freno de continuidad. Todas las válvulas de retención dobles presentaban un funcionamiento correcto en el banco de pruebas. Los filtros revisados estaban libres de suciedad.
 
-
 ## Página 45
+
 
 Sin embargo, en el momento de la celebración de la Inspección conjunta el 7 de marzo de 2019, respectivamente, en el momento del examen del estado del sistema de freno el 15 de julio de 2019, la temperatura ambiente no correspondía a las condiciones operativas del día de la aparición de la MU, el 23 de febrero de 2019, es decir, de -5 °C, sino que se situaba ligeramente, respectivamente, considerablemente por encima del punto de congelación.
 Conclusión del examen del estado de las HDV implicadas: Durante todas las inspecciones conjuntas y exámenes del estado técnico de la HDV anteriormente mencionados no se detectaron deficiencias que pudieran tener influencia en la aparición de la MU, incluido el sistema de freno de la serie 362 de la HDV.
@@ -2031,14 +2002,15 @@ El 5 de diciembre de 2019, dicha inspección detectó, entre otros, la instalaci
 A raíz de las deficiencias de carácter técnico en las piezas estructurales detectadas anteriormente y de la avería probada en la funcionalidad de la unidad de freno 1P, la Drážní inspekce encargó un examen técnico (análisis) del cilindro de freno de la unidad de freno 1P y de las juntas tóricas de goma, tanto la que corresponde como la que no corresponde a la documentación técnica, desmontadas de la mencionada HDV 362.055-6, a la Facultad de Ingeniería – Departamento de Materiales e Ingeniería Metalúrgica de la Universidad de Bohemia Occidental en Pilsen (ZČÚ).
 El examen técnico arrojó los hechos recogidos en el informe técnico «ANÁLISIS DEL CUERPO DEL CILINDRO DE FRENO Y DE LAS JUNTAS TÓRICAS DE GOMA DE LA HDV 362.055-6», en el que «De los resultados obtenidos se desprende la hipótesis de que, debido a la fuga de la junta tórica (dimensión
 
-
 ## Página 46
+
 
 exterior 
  pequeña y mayor rigidez, es decir, baja deformabilidad), en el periodo frío se condensó agua en la superficie del cilindro, lo que provocó un ataque corrosivo del acero al carbono ferrítico-perlítico. Durante la parada y con la temperatura de congelación se formó hielo en la pared, que provocó un desplazamiento adicional de la junta tórica y un aumento de la holgura. Como consecuencia de ello no se alcanzaron las presiones y la eficacia de frenado necesarias. Con el posterior aumento de la temperatura por encima de 0 °C se produjo el deshielo y la junta tórica ya pudo sellar correctamente el espacio de trabajo y así mantener la presión de aire requerida en el cilindro de freno.»
 Fig. n.º 5: Evaluación técnica de la superficie de trabajo del cilindro de freno de la HDV 362.055-6  Fuente: ZČÚ Plzeň
 
 ## Página 47
+
 
 Obraje n.º 6: Forma de las juntas de goma de los pistones de los cilindros de freno HDV362.055-6
 Fuente: DI
@@ -2047,63 +2019,110 @@ La investigación en relación con las juntas de goma que no se ajustan a la doc
 • el HDV fue posteriormente operado correctamente y se le realizaron inspecciones y reparaciones cíclicas. Antes de la ocurrencia del MU el 28. 12. 2018, respectivamente el 23. 2. 2019, en la estación Praha hl. n., respectivamente en la estación České Budějovice, no se manifestaron defectos en el sistema de freno del HDV que hubieran tenido como consecuencia la propia ocurrencia de un suceso excepcional. Sin embargo, los maquinistas indicaban en sus partes algunas averías fundamentales, detectadas a posteriori por la investigación de DI e indicadas en el Informe Final de DI, que fueron siendo eliminadas progresivamente por el transportista, aunque algunas de ellas apuntan en su esencia a un fallo del sistema de freno del HDV en los referidos MU. La posibilidad y el fallo real y fundamental del sistema de freno del referido HDV se manifestaron, no obstante, únicamente en el marco de las actividades durante la prueba de circulación tras la reparación efectuada tras el segundo MU mencionado, y ello en ČMŽO Přerov;
 • en relación con la investigación de la instalación de las juntas de goma, se consultaron además con los representantes de la empresa proveedora, que presentaron los certificados otorgados para la actividad de suministro correcta para el sujeto ECM, las respuestas escritas a las Condiciones de Adjudicación (Zadávací podmínky) sobre los alcances solicitados de
 
-
 ## Página 48
 
-reparación de los grupos de freno del HDV y los actas de recepción correcta de los 8 grupos de freno reparados para el HDV 362.055-6 por parte del sujeto ECM en el año natural 2016;
-• según la declaración de los representantes del OCÚ, tras la detección de la instalación de juntas de goma incorrectas se realizó una inspección extraordinaria de las existencias de juntas de goma en el Almacén de Suministros y en las unidades organizativas de reparación, incluidas las existencias suministradas a los proveedores contractuales, y no se detectó ninguna junta no conforme;
-• el transportista, además, como medida para evitar la repetición de los referidos MU por las mismas o causas similares, realizó controles extraordinarios de los grupos de freno denominados «disponibles para su uso» (volně k použití), y asimismo en el HDV 362.024-2 y el HDV 362.027-5, es decir, pruebas de freno, controles de los cilindros de freno y controles de las juntas de goma instaladas. Se presentaron los Registros de estas inspecciones extraordinarias, todos con el hallazgo «sin averías».
+reparaciones de unidades de freno HDV y protocolos de recepción regular de las 8
+unidades de freno reparadas para el HDV 362.055-6 por parte del sujeto ECM en el año
+calendario 2016;
+según la declaración de los representantes de la OCÚ, tras detectar la instalación de
+•
+juntas de goma incorrectas, se realizó una inspección extraordinaria de las existencias de
+juntas de goma en el Almacén de Suministros y en las unidades organizativas de
+reparación, incluidas las existencias suministradas a los proveedores contractuales, y no
+se detectó ninguna junta no conforme;
+asimismo, el transportista, como medida para evitar la repetición de los MU objeto de
+•
+estudio por las mismas o causas similares, realizó controles extraordinarios de las
+unidades de freno denominadas «disponibles para su uso», así como también en los HDV
+362.024-2 y HDV 362.027-5, es decir, pruebas de freno, controles de los cilindros de
+freno y controles de las juntas de goma instaladas. Se presentaron las Actas de estas
+inspecciones extraordinarias, todas con el hallazgo «sin defectos».
 ### Conclusión:
-El HDV 362.055-6 no fue utilizado por el transportista, tras el montaje de los pistones de los grupos de freno 1P y 4P con juntas de goma que no se ajustan a la documentación de planos, en la operación del transporte ferroviario en un estado técnico correspondiente a la documentación aprobada.
-No fue posible determinar a posteriori de forma demostrable e inequívoca la persona jurídica ni la persona física que suministró, respectivamente, instaló las 2 referidas juntas de goma, no conformes con la documentación técnica, en los grupos de freno del HDV 362.055-6.
-Los representantes del sujeto ECM expusieron y se comprometieron a aplicar las medidas ya determinadas para eliminar la actividad de reparación incorrecta por parte del sujeto ECM y de los proveedores contractuales, y ello principalmente en la realización de un registro inequívoco y demostrable del material y de las operaciones laborales concretas, y ello en todos los trabajos de mantenimiento. Para la identificación inequívoca de los grupos de freno individuales se utilizarán a partir de ahora los números con los que están dotadas las fundiciones de los cuerpos de los distintos cilindros de freno. El sujeto ECM se centrará además en la determinación del grado de desgaste permitido, su control y en la ordenación del cambio necesario de los cilindros de freno al detectar una excesiva «cavitación» (desgaste) de sus paredes de trabajo.
+El HDV 362.055-6 no fue utilizado por el transportista, tras la colocación de los pistones
+de las unidades de freno 1P y 4P con juntas de goma que no se correspondían con la
+documentación de planos, en la explotación del transporte ferroviario en un estado técnico
+que se correspondiera con la documentación aprobada.
+No fue posible determinar retroactivamente de forma demostrable e inequívoca a la
+persona jurídica ni a la persona física que suministró, respectivamente, instaló las 2
+juntas de goma objeto de estudio, que no se correspondían con la documentación técnica,
+en las unidades de freno del HDV 362.055-6.
+Los representantes del sujeto ECM expusieron y se comprometieron a aplicar las medidas
+ya determinadas para eliminar la actividad de reparación incorrecta por parte del sujeto
+ECM y de los proveedores contractuales, principalmente en la realización de un registro
+inequívoco y demostrable del material y de las operaciones laborales concretas, en todas
+las labores de mantenimiento. Para la identificación inequívoca de las unidades de freno
+independientes se utilizarán a partir de ahora los números con los que están dotadas las
+fundiciones de los cuerpos de los distintos cilindros de freno. Asimismo, el sujeto ECM se
+centrará también en la determinación del grado de desgaste permitido, su control y en la
+ordenación del cambio necesario de los cilindros de freno cuando se detecte una
+«cavitación» (desgaste) excesiva de sus paredes de trabajo.
 ### 3.5 Documentación del sistema de explotación
-### 3.5.1 Medidas adoptadas por los empleados del gestor de la infraestructura y del transportista en lo que respecta a la dirección y la seguridad del tráfico
-El señalizador St 2 de la estación České Budějovice, tras deliberar la maniobra con SOKV, consintió la circulación del HDV en el tren R 658, estableció la vía de maniobra en la 1. SK y, tras el aviso del maquinista por radio desde la señal Se 5, accionó dicha señal y permitió la circulación del HDV 242.220-2 en la 1. SK. Posteriormente, de la misma manera, deliberó y estableció también la vía de circulación para el HDV 362.055-6 en el tren R 726, también en la 1. SK, y esta ocupada. El maquinista de la unidad de maniobras I se anunció al señalizador St 2 en el límite del apartadero SOKV y acordó con él la maniobra hacia el recinto de la estación de pasajeros de la estación České Budějovice, a la SK n.º 1 y posteriormente al tren del R 658. Tras la llegada con el HDV al andén elevado, se detuvo en la SK n.º 1 a la altura de la entrada a la oficina de tráfico, donde le esperaba la jefa de estación de servicio exterior de la estación České Budějovice con una orden escrita «V». Se encontraba en el lado izquierdo de la cabina del maquinista en el sentido de la marcha y estaba recibiendo la orden cuando oyó en la radio de a bordo del maquinista de la unidad de maniobras posterior que se marchara del lugar, «porque no le frena». Cuando se desplazaba al lado derecho de la cabina para desfrenar, ya se había producido el impacto.
-
+### 3.5.1 Medidas adoptadas por los empleados del explotador de la vía y del
+transportista en materia de gestión y seguridad del tráfico
+El señalero St 2 de la estación de České Budějovice, tras deliberar la maniobra con
+SOKV, accedió a la circulación del HDV en el tren R 658, estableció la ruta de
+maniobra en la 1.ª SK y, tras la comunicación del maquinista por radio desde la señal Se 5,
+operó dicha señal y permitió la circulación del HDV 242.220-2 en la 1.ª SK. A
+continuación, del mismo modo, deliberó y estableció también la ruta de circulación para
+el HDV 362.055-6 en el tren R 726, también en la 1.ª SK, y esta ocupada.
+El maquinista de la sección de maniobras I se comunicó con el señalero St 2 en el límite
+del apartadero SOKV y acordó con él la maniobra hacia el ámbito de la estación de
+pasajeros de České Budějovice, a la SK n.º 1 y, posteriormente, al tren del tren R 658.
+Tras llegar con el HDV al andén elevado, se detuvo en la SK n.º 1 a la altura de la
+entrada a la oficina de tráfico, donde le esperaba la jefa de estación del servicio exterior
+de la estación de České Budějovice con una orden escrita «V». Se encontraba en el lado
+izquierdo de la cabina del maquinista en el sentido de la marcha y recibía la orden cuando
+oyó en la radio de a bordo del maquinista de la sección de maniobras posterior que se
+marchara del lugar, «porque no le frena». Cuando se desplazaba al lado derecho de la
+cabina para soltar el freno, ya se había producido el choque.
 
 ## Página 49
 
-El maquinista de la unidad de maniobras II se anunció al señalizador St 2 en el límite del apartadero SOKV České Budějovice y acordó con él la maniobra hacia el recinto de la estación de pasajeros de la estación České Budějovice a la SK n.º 1 ocupada y posteriormente al tren del R 726. Al pasar junto a St 2 vio que la SK n.º 1 seguía ocupada, y por ello al pasar junto a la señal de agrupamiento Se10 quiso reducir la velocidad con el freno de acción directa. Como el efecto de frenado no se produjo, frenó con el freno de acción directa a frenado máximo. Tampoco después se produjo el efecto de frenado, por lo que advirtió por la radio de a bordo al maquinista del HDV situado delante de él y, a una velocidad de 34 km·h-1, a una distancia de 87 m antes del lugar de la colisión, utilizó el freno de emergencia. El HDV seguía sin frenar. A continuación, se arrojó en el asiento del maquinista y esperó el impacto, al que posteriormente se produjo.
-Se detectaron las deficiencias/infracciones de las normas indicadas en los puntos 3.3.2 y 4.2.1 de este informe final.
-El maquinista de la unidad de maniobras II, al subir y recibir el HDV 362.055-6 en el OCÚ České Budějovice en el recinto del apartadero SOKV, realizó la prueba de freno del HDV con un procedimiento incorrecto, infringiendo así el procedimiento tecnológico establecido por el transportista.
-3.5.2 Intercambio de partes verbales en relación con el suceso excepcional, incluidos los datos del dispositivo de registro
-A las 5.41.56 h, el maquinista de la unidad de maniobras II solicitó, a través de la radio de a bordo, al maquinista de la unidad de maniobras I que acelerara la puesta en marcha del HDV hacia delante, porque en su HDV no se producía el correspondiente efecto de frenado de los frenos.
-### 3.5.3 Medidas adoptadas para la protección y la seguridad del lugar del suceso excepcional
-El lugar del MU fue asegurado por la persona cualificada y competente designada del gestor de la infraestructura y del transportista de conformidad con el decreto n.º 376/2006 Sb.
+El maquinista de la maniobra II, en el límite de la vía privada SOKV České Budějovice, se comunicó con el señalero St 2 y acordó con él la maniobra hacia el ámbito de la estación de viajeros de České Budějovice sobre la vía de clasificación SK n.º 1 y, a continuación, hacia el tren R 726. Al pasar junto a St 2, vio que la SK n.º 1 seguía ocupada y, por ello, al pasar junto a la señal de clasificación Se10 quiso reducir la velocidad con el freno directo. Como el efecto de frenado no se produjo, frenó con el freno directo al frenado máximo. Tampoco después se produjo el efecto de frenado, por lo que, mediante la radio de a bordo, advirtió al maquinista del HDV que le precedía y, a una velocidad de 34 km·h-1, a una distancia de 87 m del lugar de la colisión, utilizó el freno de emergencia. El HDV seguía sin frenar. A continuación, se apoyó en el asiento del maquinista y esperó el impacto, que posteriormente se produjo.
+Se detectaron deficiencias/infracciones de las normativas indicadas en los puntos 3.3.2 y 4.2.1 de este informe final.
+El maquinista de la maniobra II, al incorporarse y recibir el HDV 362.055-6 en el OCÚ České Budějovice en el ámbito de la vía privada SOKV, realizó la prueba de freno del HDV con un procedimiento incorrecto, infringiendo así el procedimiento tecnológico establecido por el transportista.
+3.5.2 Intercambio de comunicaciones orales en relación con el suceso excepcional, incluidos los datos del dispositivo de registro
+A las 5.41.56 h, el maquinista de la maniobra II, a través de la radio de a bordo, solicitó al maquinista de la maniobra I que acelerara la puesta en marcha del HDV hacia adelante, ya que en su HDV no se había obtenido el efecto de frenado correspondiente de los frenos.
+### 3.5.3 Medidas adoptadas para la protección y aseguramiento del lugar del suceso excepcional
+El lugar del SE fue asegurado por la persona cualificada y competente designada del gestor de la vía y del transportista, de conformidad con el decreto n.º 376/2006 Sb.
 ### 3.6 Condiciones laborales, sanitarias y de explotación
-### 3.6.1 Jornada laboral de los empleados del gestor de la infraestructura y del transportista que fueron participantes en el suceso excepcional
-• señalizador St 2, en el turno del 22. 2. 2019 desde las 18.20 h, descanso previo al turno 227.50 h; el descanso para la comida y el recreo fue disfrutado en los periodos de explotación adecuados;
-• maquinista de la unidad de maniobras I, en el turno del 23. 2. 2019 desde las 4.46 h, descanso previo al turno 17.36 h; el descanso para la comida y el recreo hasta la ocurrencia del MU no fue disfrutado en atención a la duración trabajada del turno;
-• maquinista de la unidad de maniobras II, en el turno del 23. 2. 2019 desde las 4.54 h, descanso previo al turno 52.54 h; el descanso para la comida y el recreo hasta la ocurrencia del MU no fue disfrutado en atención a la duración trabajada del turno.
-
+### 3.6.1 Jornada laboral de los empleados del gestor de la vía y del transportista que fueron participantes en el suceso excepcional
+señalero St 2, en el turno del 22. 2. 2019 desde las 18.20 h, descanso previo al turno
+•
+227.50 h; la pausa para comida y descanso se disfrutó en los periodos de explotación adecuados;
+maquinista de la maniobra I, en el turno del 23. 2. 2019 desde las 4.46 h, descanso
+•
+previo al turno 17.36 h; la pausa para comida y descanso hasta la ocurrencia del SE no se disfrutó, dada la duración trabajada del turno;
+maquinista de la maniobra II, en el turno del 23. 2. 2019 desde las 4.54 h, descanso
+•
+previo al turno 52.54 h; la pausa para comida y descanso hasta la ocurrencia del SE no se disfrutó, dada la duración trabajada del turno.
 
 ## Página 50
 
-Los empleadores garantizaron las condiciones para el descanso previo al turno y durante el turno de conformidad con la ley n.º 262/2006 Sb., respectivamente con el decreto gubernamental n.º 589/2006 Sb., por el que se establece la regulación diferenciada de la jornada laboral y del tiempo de descanso de los empleados en el transporte.
-3.6.2 Estado de salud y situación personal que tuvieron impacto en el suceso excepcional, incluido el estrés físico o psicológico
-Los empleados participantes del gestor de la infraestructura y del transportista estaban, en el momento de la ocurrencia del MU, médicamente aptos para el desempeño de la función que ocupaban.
-Los empleados del gestor de la infraestructura y del transportista se sometían a exámenes médicos periódicos de conformidad con la disposición del decreto n.º 101/1995 Sb.
-Parte de la investigación del factor humano fue, entre otros, la evaluación de todas las influencias que pudieron actuar sobre los empleados participantes y que pudieran haber tenido, en su caso, influencia en la ocurrencia del MU. Se trata, en particular, además de la evaluación del estado de salud y de la situación personal, de la capacidad de procesar información, del posible estrés físico y psicológico, así como de la evaluación de la experiencia, los conocimientos, la antigüedad en el puesto y la carga laboral.
-No se detectó ningún estado de salud ni situación personal que pudiera haber tenido influencia en la ocurrencia del MU, incluido el estrés físico y psicológico.
-3.6.3 Disposición del equipamiento del puesto de mando o del vehículo ferroviario que tiene influencia en su conducción y uso
-La disposición y el equipamiento del puesto de trabajo de los empleados del gestor de la infraestructura y del transportista no guardaba relación con la ocurrencia del MU. La construcción del HDV 242.220-2 y 362.055-6, incl. la disposición de la cabina y del puesto del maquinista, permitía a los maquinistas una visión ininterrumpida de la vía, la observación de la vía y de las señales, incluida la actuación según los hechos constatados.
+Los empleadores garantizaron las condiciones de descanso antes del turno y durante el turno de conformidad con la Ley núm. 262/2006 Sb. o con el decreto gubernamental núm. 589/2006 Sb., por el que se establece la regulación excepcional de la jornada laboral y del tiempo de descanso de los empleados en el transporte.
+3.6.2 Estado de salud y situación personal que tuvieron incidencia en el suceso excepcional, incluido el estrés físico o psicológico
+Los empleados participantes del gestor de la vía y del transportista se encontraban, en el momento de producirse el SE, aptos para el desempeño de la función que desempeñaban.
+Los empleados del gestor de la vía y del transportista se sometían a reconocimientos médicos periódicos de conformidad con lo dispuesto en la disposición núm. 101/1995 Sb.
+La investigación del factor humano incluyó, entre otros aspectos, la evaluación de todas las influencias que pudieron actuar sobre los empleados participantes y que pudieran haber tenido, en su caso, incidencia en la producción del SE. Se trata, en particular, además de la evaluación del estado de salud y de la situación personal, de la capacidad de procesar información, de un posible estrés físico y psicológico, así como de la evaluación de la experiencia, los conocimientos, la antigüedad en el ejercicio y la carga laboral.
+No se detectó ningún estado de salud ni situación personal que pudiera tener incidencia en la producción del SE, incluido el estrés físico y psicológico.
+3.6.3 Disposición del equipamiento del puesto de mando o del vehículo ferroviario que incide en su conducción y utilización
+La disposición y el equipamiento del puesto de trabajo de los empleados del gestor de la vía y del transportista no guardaban relación con la producción del SE. La construcción de los HDV 242.220-2 y 362.055-6, incluida la disposición de la cabina y del puesto del maquinista, permitía a los maquinistas una visión ininterrumpida de la vía, la observación de la vía y de las señales, incluida la actuación conforme a los hechos constatados.
 ### 3.7 Sucesos excepcionales anteriores de carácter similar
-DI registra un MU similar del 28. 12. 2018 en la estación Praha hl. n., cuando se produjo una colisión con el mismo HDV 362.055-6 durante una maniobra, pero con un topador de vía muerta (zarážedlem kusé koleje) con el consiguiente descarrilamiento del HDV. La investigación de las causas y circunstancias de la ocurrencia de este MU por parte del transportista ČD no ha finalizado aún. El maquinista, en el Registro con el empleado, indicó entre otras cosas que «los frenos, tanto de acción directa como indirecta, no funcionaban».
-A pesar de todos los resultados de la investigación independiente del transportista, incluidas las inspecciones realizadas y las medidas adoptadas para determinar las causas de la ocurrencia del MU anterior, fue únicamente con la investigación a largo plazo del transportista y de DI, en colaboración con las organizaciones proveedoras, tras la ocurrencia del MU el 23. 2. 2019, cuando se logró descubrir y demostrar una avería técnica en el sistema de freno del HDV 362.055-6 que tuvo una influencia fundamental y demostrable en la ocurrencia del MU anterior y de este, posterior.
+El DI registra un SE similar del 28 de diciembre de 2018 en la est. Praha hl. n., cuando se produjo una colisión del mismo HDV 362.055-6 durante una maniobra de maniobras, pero con el tope de vía muerta, con el consiguiente descarrilamiento del HDV. La investigación de las causas y circunstancias de la producción de este SE no la ha concluido aún el transportista ČD. El maquinista indicó en el Registro con el empleado, entre otros extremos, que «los frenos, tanto directo como indirecto, no funcionaban».
+A pesar de todos los resultados de la investigación independiente del transportista, incluidas las inspecciones realizadas y las medidas adoptadas para determinar las causas de la producción del SE anterior, solo la investigación prolongada del transportista y del DI, en colaboración con las organizaciones proveedoras, tras la producción del SE del 23 de febrero de 2019, logró detectar y acreditar una avería técnica en el sistema de frenos del HDV 362.055-6 que tuvo una influencia fundamental y demostrable en la producción del SE anterior y de este, posterior, SE.
 
 ## Página 51
 
 ## 4 ANÁLISIS Y CONCLUSIONES
-### 4.1 Descripción final del suceso ferroviario
-### 4.1.1 Elaboración de las conclusiones sobre el suceso ferroviario basadas en los hechos
-establecidos en el punto 3
-El 23. 2. 2019 a las 5.42 h se produjo en la vía de estación n.º 1 de la est. České Budějovice una colisión entre una unidad de maniobras (HDV circulando en solitario) y una unidad de maniobras (HDV estacionado en solitario). El señalizador St 2 de la est. České Budějovice trató y concedió la autorización y el consentimiento para la maniobra desde el SOKV České Budějovice, concretamente de dos HDV circulando en solitario hacia la estación de pasajeros, a la vía de estación n.º 1, para los trenes R 658 y R 726. El maquinista del tren R 726, fuera de los procedimientos tecnológicos, informó por radio de que circulaba hacia una vía ocupada. Estableció la ruta de maniobras y para cada circulación individual estableció siempre la señal Se 5 en la indicación que autoriza la circulación. De repente oyó en la radio una llamada indicando que alguien debía mover la locomotora, porque no podía frenar. A continuación oyó el impacto físico.
-El maquinista de la unidad de maniobras I salió de la maniobra del SOKV České Budějovice para el tren R 658, tras el tratamiento y el consentimiento para la maniobra con el señalizador St 2 en la vía de estación n.º 1 de la est. České Budějovice. Se detuvo a la altura de la entrada a la oficina de tráfico, donde ya le esperaba en el andén la jefa de servicio exterior con una orden por escrito. Cuando recibía esta orden en el lado izquierdo de la cabina del maquinista, oyó en la radio del vehículo del maquinista de la unidad de maniobras posterior que le comunicaba que se marchara del lugar, porque su HDV no frenaba. En el momento en que cruzaba al lado derecho de la cabina para que el HDV frenara, se produjo el impacto.
-El maquinista de la unidad de maniobras II, al subir al HDV, según su propia declaración, «revivió» el HDV y comprobó la eficacia del freno de aire directo e indirecto. Tras llenar el depósito de aire y el freno con aire comprimido, puso la marcha atrás y «puso el HDV en marcha», hizo lo mismo hacia adelante para comprobar si en las grandes heladas cambiaban correctamente las direcciones de circulación. El HDV respondía normalmente y estaba completamente frenado con el freno DAKO-BP a presión máxima, lo que se observaba también en los manómetros de la cabina n.º 2 del maquinista (hacia la estación de pasajeros). A continuación desactivó el freno de aire directo y frenó de forma continua para realizar el ZBHV. En los manómetros vio que el freno automático también funcionaba. Volvió a frenar parcialmente con el freno de aire directo y desactivó el freno automático para comprobar la interacción de las válvulas. Todo funcionaba absolutamente normal, no se oía ninguna fuga de aire. A continuación volvió a frenar con el freno de aire directo, dejó también el freno automático activado y fue a revisar el bogie del HDV, donde comprobó la rotación de los aros, el espesor de los zapatos y su ajuste a las ruedas, así como si existían defectos en el bogie de la locomotora. El ajuste de los zapatos lo comprobó visualmente, un posible defecto del conjunto de freno sería visible, ya que los zapatos no ajustarían a la rueda. Tras lo anterior, se presentó en la cabina n.º H1 del SOKV České Budějovice para indicar que saldría con el tren R 726 hacia la estación de pasajeros. Antes de él salió de la misma vía el HDV para el tren R 658. Tras el tratamiento de maniobra y el consentimiento concedido, se puso en marcha hacia la señal de agrupamiento, aún en el ámbito de la vía lateral, en la que se encendió la indicación «Maniobra autorizada». Continuó la circulación y antes de la siguiente señal de agrupamiento, es decir, Se5 en los límites de la vía-vía lateral, supuestamente redujo la velocidad con frenado de aire directo y coordinó por radio la maniobra hacia la estación de pasajeros. El señalizador St 2 le comunicó que circularía hacia la vía de estación n.º 1 ocupada y estableció en la señal Se10
-
+### 4.1 Descripción final del suceso excepcional
+### 4.1.1 Elaboración de las conclusiones sobre el suceso excepcional basadas en los hechos
+determinados en el punto 3
+El 23. 2. 2019 a las 5.42 h se produjo en la vía de estación n.º 1 de la est. České Budějovice una colisión entre una unidad de maniobras (HDV circulando en solitario) y una unidad de maniobras (HDV estacionado en solitario). El señalizador St 2 de la est. České Budějovice trató y concedió la autorización y el consentimiento para la maniobra desde SOKV České Budějovice, concretamente de dos HDV circulando en solitario hacia la estación de pasajeros, a la vía de estación n.º 1, para los trenes R 658 y R 726. El maquinista del tren R 726, fuera de los procedimientos tecnológicos, le informó por radio de que circulaba hacia una vía ocupada. Estableció la ruta de maniobras y para cada circulación individual estableció siempre la señal Se 5 en la señal que autoriza la circulación. De repente oyó en la estación de radio una llamada indicando que alguien debía mover la locomotora, porque no podía frenar. A continuación oyó un impacto físico.
+El maquinista de la unidad de maniobras I salió de la maniobra SOKV České Budějovice para el tren R 658 tras el tratamiento y el consentimiento para la maniobra con el señalizador St 2 en la SK n.º 1 de la est. České Budějovice. Se detuvo a la altura de la entrada a la oficina de tráfico, donde ya le esperaba en el andén la jefa de servicio exterior con una orden escrita. Cuando recibía esta orden en el lado izquierdo de la cabina del maquinista, oyó en la estación de radio del vehículo al maquinista de la unidad de maniobras posterior, que le comunicaba que se marchara del lugar, porque el HDV no le frenaba. En el momento en que se desplazaba al lado derecho de la cabina para desactivar el freno del HDV, se produjo el impacto.
+El maquinista de la unidad de maniobras II, al subir al HDV, según su propia declaración, supuestamente "revivió" el HDV y comprobó la eficacia del freno de aire de acción directa e indirecta. Tras llenar el depósito de aire y el freno con aire comprimido, puso la marcha hacia atrás y supuestamente puso el HDV en servicio; hizo lo mismo en sentido hacia adelante para comprobar si en las grandes heladas cambiaban correctamente las direcciones de circulación. El HDV respondía normalmente y estaba completamente frenado con el freno DAKO-BP a plena presión, lo que también se observaba en los manómetros de la cabina n.º 2 del maquinista (en dirección a la estación de pasajeros). A continuación desactivó el freno de acción directa y frenó de forma continua para realizar el ZBHV. En los manómetros vio que el freno automático también era funcional. Volvió a frenar parcialmente con el freno de acción directa y desactivó el freno automático con el fin de comprobar la cooperación de las compuertas. Todo funcionaba absolutamente normal, no se oía ninguna fuga de aire. A continuación volvió a frenar con el freno de acción directa, dejó también el freno automático activado y fue a revisar el bogie del HDV, cuando comprobó la rotación de las bandas, el espesor de los zapatos y su ajuste a las ruedas, así como si existían defectos en el bogie de la locomotora. El ajuste de los zapatos lo comprobó visualmente; una posible avería del conjunto de freno sería visible, ya que los zapatos no ajustarían a la rueda. Tras lo anterior se presentó en la cabina n.º H1 de SOKV České Budějovice para indicar que saldría con el tren R 726 hacia la estación de pasajeros. Antes de él salió de la misma vía el HDV para el tren R 658. Tras el tratamiento de la maniobra y el consentimiento concedido, se puso en marcha hacia la señal de agrupamiento, aún en el ámbito de la vía lateral, en la que se encendió la señal "Maniobras autorizadas". Continuó la circulación y antes de la siguiente señal de agrupamiento, es decir, Se5 en los límites de la vía-vía lateral, supuestamente redujo la velocidad con frenado de acción directa y coordinó por radio la maniobra hacia la estación de pasajeros. El señalizador St 2 le comunicó que circularía hacia la SK n.º 1 ocupada y estableció en la señal Se10
 
 ## Página 52
+
 
 la indicación «Maniobra autorizada». Continuó la circulación y antes de St 2, a una distancia de unos 300 m, vio que la vía de estación n.º 1 seguía ocupada, por lo que quería reducir la velocidad con frenado de aire directo. Como el efecto de frenado no se producía, frenó con el freno de aire directo a frenado máximo. Tampoco después se produjo el efecto de frenado, por lo que con la radio del vehículo advirtió al maquinista del HDV que circulaba delante de él y, a una velocidad de 34 km·h-1, a una distancia de 87 m antes del lugar de la colisión, utilizó el freno de emergencia. El HDV seguía sin frenar. A continuación se arrostró en el asiento del maquinista y esperó el impacto, que se produjo posteriormente a una velocidad de 29 km·h-1.
 El maquinista de la unidad de maniobras II, durante la maniobra en la vía lateral del SOKV České Budějovice, superó la velocidad máxima permitida de 10 km·h-1 en hasta 10 km·h-1. Como la superación de la velocidad máxima permitida se detectó en una vía distinta a aquella en la que se produjo el presente SU, dicha circunstancia no puede valorarse en relación causal con la aparición del SU (véase el punto 4.4.1 de este Informe final)».
@@ -2115,8 +2134,8 @@ La est. České Budějovice se encuentra en la vía ferroviaria de ámbito nacio
 La velocidad máxima permitida en el lugar de aparición del SU está fijada por el decreto n.º 173/1995 Sb. y por las normas internas del operador de la vía para las maniobras en v = 40 km·h-1.
 En base a la declaración del maquinista de la unidad de maniobras II sobre la avería del sistema de frenos del HDV, se realizó un examen profesional de las causas y circunstancias de esta posible avería repentina del sistema de frenos, entre otros se realizó una investigación retrospectiva de las averías comunicadas en el sistema de frenos del HDV por los maquinistas y la forma de su resolución en los años anteriores. Se realizó una comprobación del alcance establecido de las actividades de inspección y mantenimiento en los distintos niveles de mantenimiento en general y en relación con la comprobación del sistema de frenos
 
-
 ## Página 53
+
 
 del HDV en cuestión, ello en el marco de la inspección del HDV tras la aparición del SU, de las siguientes inspecciones periciales tras la aparición del SU en la OCÚ Plzeň, con el socio contractual del operador ČMŽO Přerov, utilizando un centro certificado.
 Tras la reparación realizada, y solo en el marco de las actividades de la prueba en marcha realizadas por ČMŽO Přerov, se detectó un funcionamiento incorrecto del sistema de frenos, es decir, una fuga considerable de aire comprimido del conjunto de frenos 1P, que no se había manifestado en la investigación anterior de las causas y circunstancias de la aparición del SU y en las inspecciones y pruebas relacionadas. Tras el desmontaje del conjunto de frenos se detectó además una cavitación por corrosión en la pared interior del cilindro de freno y una instalación de la junta de goma que no se correspondía con la documentación técnica. El HDV fue trasladado a la OCÚ Plzeň por instrucción del operador y por acuerdo mutuo con el DI. Se desmontaron otros conjuntos de frenos y se convocó una inspección pericial extraordinaria para determinar su estado y funcionalidad.
@@ -2127,13 +2146,14 @@ A continuación se realizó una investigación sobre las juntas de goma que no s
 
 ## Página 54
 
+
 por el transportista, sin embargo, algunas de ellas apuntan en su esencia a un fallo del sistema de frenos del HDV de los MU en cuestión. La posibilidad y el fallo real y fundamental del sistema de frenos del HDV en cuestión se manifestaron, no obstante, únicamente en el marco de las actividades durante la prueba de marcha tras la reparación realizada tras el segundo MU mencionado, y esto en ČMŽO Přerov. En relación con la investigación de la instalación de juntas de caucho, se consultaron además con los representantes de la empresa suministradora, que presentaron los certificados otorgados para la actividad de suministro regular al sujeto ECM, las respuestas escritas a las Condiciones de licitación sobre los alcances de reparación requeridos de las unidades de frenos del HDV y los protocolos de recepción regular de las 8 unidades de frenos reparadas para el HDV 362.055-6 por parte del sujeto ECM en el año natural 2016.
 El transportista, con base en estos hallazgos, no utilizaba el HDV 362.055-6 en un estado técnico correspondiente a la aptitud aprobada, en el sentido de que al menos los pistones de las unidades de frenos 1P y 4P estaban montados con juntas de caucho que no correspondían a la documentación de planos.
 Mediante la investigación del MU no se pudo constatar de forma demostrable, como otra posible causa del fallo del sistema de frenos, la influencia de condiciones climáticas adversas en la formación del denominado tapón de hielo en la tubería de aire, la congelación de alguna de las válvulas dobles destinadas a la distribución del aire comprimido desde los frenos hasta los cilindros de freno, o la limitación de la permeabilidad de la distribución de aire del HDV 362.055-6 en su conjunto. Sin embargo, mediante un examen pericial se acreditó la influencia real de las condiciones climáticas en el estado del mecanismo de frenos del vehículo ferroviario de tracción 362.055-6, concretamente en la contracción de la junta de caucho incorrecta y, por tanto, en la funcionalidad de la unidad de frenos 1P del HDV en cuestión, con la concurrencia del desgaste – cavitación (ataque corrosivo del acero al carbono ferrítico-perlítico) de la pared de trabajo del cilindro de freno, de modo que al inmovilizar el HDV y con una temperatura bajo cero se formó hielo en dicha pared a partir de la humedad ambiental, lo que tuvo como consecuencia un mayor empuje de la junta ya contraída y, con ello, un mayor aumento de la holgura, lo que provocó una fuga considerable de aire comprimido en el cilindro de freno durante la marcha del HDV y la solicitud de frenado y, en última instancia, el fallo del sistema de frenos del HDV en su conjunto.
 En el marco de la investigación se probó además el procedimiento incorrecto en la realización de la ZBHV por parte del maquinista de la maniobra II, que no realizó antes de la marcha del HDV, tras su anterior inmovilización en las instalaciones de OCP/OCÚ Západ en el ámbito de la vía-ramal SOKV České Budějovice, para el tren R 726, la prueba de frenos del vehículo ferroviario de tracción según el procedimiento tecnológico establecido en la norma interna del transportista ČD V15/I y, con ello, no realizó la comprobación del funcionamiento correcto del sistema de frenos del HDV 362.055-6 antes de la salida del lugar de inmovilización. Esta infracción fundamental de la norma interna del transportista ČD V 15/I fue probada mediante el análisis de señales registradas seleccionadas de los registros del registrador electrónico de velocidad, es decir, de la secuencia temporal de las acciones del maquinista durante la reactivación del HDV 362.055-6 y su posterior marcha desde el lugar de inmovilización hasta la aparición del MU. Según dicha secuencia temporal de las acciones del maquinista durante la reactivación del HDV 362.055-6, el maquinista realizó la ZBHV únicamente desde un puesto de conducción (n.º 2) y, además, en la combinación establecida de actuación conjunta del freno directo con el indirecto, redujo la presión en la tubería principal en contra del procedimiento tecnológico no en 0,5 bar, sino en más de 2 bar. Según su declaración escrita, además no comprobó físicamente el ajuste de las zapatas de freno a las llantas de las ruedas, puesto que el HDV estaba evidentemente frenado. Este incumplimiento del procedimiento tecnológico establecido no se atribuye en las conclusiones de la investigación DI a las causas de la aparición del MU en cuestión, ya que no puede probarse que el HDV se hubiera manifestado con un fallo del sistema de frenos ya durante su realización, es decir, con un pequeño intervalo temporal antes de la propia aparición del MU. Esta infracción de las disposiciones
 
-
 ## Página 55
+
 
 normativas por parte del maquinista, sin embargo, no puede pasarse por alto. La forma de prestación del servicio del maquinista permanece necesariamente como un factor contribuyente a la aparición de este MU, dada la posibilidad objetiva de que, con la operación de ambos frenos (freno directo e indirecto) también desde el puesto de conducción del HDV n.º 1, pudiera haberse manifestado el fallo del sistema de frenos (fuga de aire) ya en el lugar de inmovilización del HDV, incluso antes de la salida hacia el ámbito de la estación de pasajeros de la est. České Budějovice.
 La Inspección Ferroviaria evaluó también el nivel de posibilidad de evitar la colisión mediante la posible utilización del efecto de frenado del freno electrodinámico – EDB en el HDV 362.055-6 por el procedimiento del maquinista, es decir, la desactivación del freno directo en la situación crítica, con el tracción relativa del HDV ajustada al grado «6», constatado en la inspección del lugar de aparición del MU. Con base en el hallazgo de que el maquinista (a una velocidad de 37 km·h-1, a una distancia de 241 m antes de la colisión) utilizó el freno auxiliar, comprobó que no actuaba y, por tanto, solicitó la aplicación del frenado total (a una velocidad de 36 km·h-1, a una distancia de 206 m antes de la colisión), de nuevo sin el resultado necesario, decidió advertir por radioteléfono al maquinista del HDV situado delante de él (a una velocidad de 35 km·h-1, a una distancia de 116 m antes de la colisión) y utilizó el freno de servicio y el freno de emergencia (a una velocidad de 34 km·h-1, a una distancia de 87 m antes de la colisión), que también fallaron de forma demostrable; además, teniendo en cuenta la corta distancia restante desde el lugar de la colisión, tras la constatación del fallo también de este freno indirecto y el tiempo de reacción necesario del maquinista y del HDV para el desarrollo del efecto de frenado del EDB, ya no podía lograrse mediante la utilización de esta posibilidad evitar la colisión o reducir de forma fundamental las posibles consecuencias.
@@ -2145,8 +2165,8 @@ el sistema de frenos no funcional del vehículo ferroviario de tracción 91 54 7
 •
 un defecto técnico (fuga de aire) de su unidad de frenos (unidades de frenos).
 
-
 ## Página 56
+
 
 Los factores contribuyentes al suceso excepcional fueron:
 la influencia de las condiciones climáticas en el estado técnico incorrecto del mecanismo de frenos
@@ -2177,25 +2197,21 @@ el maquinista de la maniobra II – HDV 362.055-6 durante la maniobra en el rama
 •
 České Budějovice superó la velocidad máxima permitida de 10 km·h-1 hasta en 19 km·h-1.
 
-
 ## Página 57
 
 ## 5 MEDIDAS ADOPTADAS
-### 5.1 Lista de medidas que ya han sido tomadas o adoptadas como
-consecuencia del suceso excepcional
-El operador de la vía no ha adoptado ni emitido ninguna medida.
-El transportista ČD no ha adoptado ni emitido ninguna medida, ya que la investigación del MU de este y del MU similar mencionado no había sido finalizada por su parte hasta la fecha de emisión de este Informe final.
-La Autoridad Ferroviaria no ha emitido ninguna medida.
+### 5.1 Lista de medidas que ya se han tomado o adoptado como consecuencia del suceso
+El gestor de la vía no ha adoptado ni emitido ninguna medida.
+El transportista ČD no ha adoptado ni emitido ninguna medida, ya que la investigación del SU en cuestión y del SU similar mencionado no había sido concluida por su parte hasta la fecha de emisión de este Informe Final.
+La Oficina Ferroviaria no ha emitido ninguna medida.
 ## 6 RECOMENDACIONES DE SEGURIDAD
-La Inspección Ferroviaria, con base en las disposiciones del § 53e apartado 1 de la ley n.º 266/1994 Sb., recomienda, en relación con la prevención de sucesos excepcionales:
-### A la Autoridad Ferroviaria:
-la adopción de una medida propia encaminada a la realización de una comprobación de la posible
-•
-instalación de juntas de caucho incorrectas en los pistones de los cilindros de freno de las unidades de frenos de los vehículos ferroviarios de tracción, principalmente de las series 362, 363, 162 y 163, en todos los transportistas, debido al cambio de sus propiedades por efecto de la helada (endurecimiento y reducción del diámetro por debajo del límite necesario) y, con la concurrencia del desgaste – cavitación (ataque corrosivo del acero al carbono ferrítico-perlítico) de las paredes de trabajo de los cilindros de freno, a la fuga fundamental de aire comprimido desde los cilindros de freno a la atmósfera.
-El sentido de la recomendación de seguridad anteriormente indicada es prevenir la posible repetición de fallos de los sistemas de frenos de los vehículos ferroviarios de tracción, que en sus consecuencias, bajo condiciones modificadas, podrían conducir a la aparición de accidentes graves.
+La Inspección Ferroviaria, en virtud de lo dispuesto en el § 53e apartado 1 de la Ley nº 266/1994 Sb., recomienda, en relación con la prevención de sucesos:
+### A la Oficina Ferroviaria:
+• la adopción de una medida propia encaminada a la realización de una comprobación de la posible instalación de juntas de goma incorrectas en los pistones de los cilindros de freno de los conjuntos de freno de los vehículos ferroviarios de tracción, en particular de las series 362, 363, 162 y 163, en todos los transportistas, debido a la modificación de sus propiedades por efecto de las heladas (endurecimiento y reducción del diámetro por debajo del límite necesario) y, en combinación con el desgaste – cavitación (ataque corrosivo del acero al carbono ferrítico-perlítico) de las paredes de trabajo de los cilindros de freno, a la fuga esencial de aire comprimido de los cilindros de freno a la atmósfera.
+El propósito de la recomendación de seguridad anteriormente mencionada es prevenir la posible repetición de fallos de los sistemas de freno de los vehículos ferroviarios de tracción, que, como consecuencia, en condiciones modificadas, podrían dar lugar a la ocurrencia de accidentes graves.
 En České Budějovice, a 7 de abril de 2020
-Ing. Petr Mencl s. l.
-Jaroslav Říha s. l.
+Ing. Petr Mencl v. r.
+Jaroslav Říha v. r.
 director
 inspector
 De la Inspección Territorial de Bohemia

@@ -10,13 +10,14 @@ chars: 141811
 ratio_longitud: 1.23
 tokens_in: 79194
 tokens_out: 48473
-verificacion: revisar
-notas_cifras: ["bloque 2: original bilingüe: se compara contra el idioma principal (CS)", "bloque 14: original bilingüe: se compara contra el idioma principal (CS)", "bloque 15: original bilingüe: se compara contra el idioma principal (CS)", "bloque 18: original bilingüe: se compara contra el idioma principal (CS)", "bloque 19: original bilingüe: se compara contra el idioma principal (CS)", "bloque 20: original bilingüe: se compara contra el idioma principal (CS)"]
-avisos: ["bloque 18: ratio 1.66", "bloque 19: ratio 1.66"]
 fecha_proceso: 2026-11-20
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 6: original bilingüe: se compara contra el idioma principal (EN)", "página 7: original bilingüe: se compara contra el idioma principal (CS)", "página 8: original bilingüe: se compara contra el idioma principal (CS)", "página 10: original bilingüe: se compara contra el idioma principal (CS)", "página 12: original bilingüe: se compara contra el idioma principal (PT)"]
 ---
+
 ## Página 1
+
 
 Inspección Ferroviaria
 República Checa
@@ -42,11 +43,12 @@ CIF: 75009561
       http://www.dicr.cz
            tel.: 224 805 444
 
-
 ## Página 2
 
 
+
 ## Página 3
+
 
 # RESUMEN
 Foto n.º 1: Vista del lugar de la excepcionalidad
@@ -68,8 +70,8 @@ Consecuencias:      2 fallecimientos de trabajadores;
 Causa directa           operativa – personal de vía (entrada no autorizada de 2 trabajadores 
 en la vía n.º 1).
 
-
 ## Página 4
+
 
 Causa de fondo:  factor humano – no observaron los procedimientos tecnológicos durante 
                                el mantenimiento en la vía.
@@ -92,13 +94,13 @@ Se recomienda adoptar sus propias medidas para garantizar la adopción de las re
 anteriores por parte de todos los gestores de infraestructura ferroviaria de la República Checa.
 Por la traducción al inglés responde: Ing. Hana Pechačová
 
-
 ## Página 5
+
 
 Este informe final es público y todos los documentos y hechos están respaldados por el expediente de investigación.
 
-
 ## Página 6
+
 
 # Índice
  Summary .............................................................................................................................3
@@ -135,6 +137,7 @@ incluidas personas en relación contractual ....................................
 
 ## Página 7
 
+
 3.1 Resumen de las explicaciones facilitadas (sujeto a la protección de la identidad de las personas) ................................17
 3.1.1 Empleados del gestor de la infraestructura y del transportista, incluidas personas en relación contractual ...............................................................................................................17
 3.1.2 Otras personas .........................................................................................................22
@@ -162,10 +165,10 @@ incluidas personas en relación contractual ....................................
 3.7 Sucesos excepcionales anteriores de carácter similar ............................................39
 4 Análisis y conclusiones ............................................................................................................39
 4.1 Descripción definitiva del suceso excepcional ..........................................................................39
-4.1.1 Descripción definitiva del suceso excepcional basada en los hechos constatados en el punto 3 
-
+4.1.1 Descripción definitiva del suceso excepcional basada en los hechos constatados en el punto 3
 
 ## Página 8
+
 
 ............................................................................................................................39
 4.2 Examen ......................................................................................................................40
@@ -190,6 +193,7 @@ incluidas personas en relación contractual ....................................
 ,
 
 ## Página 9
+
 
 ## Lista de siglas y símbolos utilizados
 BOZP
@@ -256,8 +260,8 @@ supervisión estatal
 SKPV
 grupo de policía criminal y de investigación
 
-
 ## Página 10
+
 
 Directriz SŽDC n.º 50
 Directriz SŽDC n.º 50 – Requisitos de cualificación profesional de los proveedores en las actividades en vías férreas
@@ -311,8 +315,8 @@ norma técnica ferroviaria
 TRS
 enlace radio de línea
 
-
 ## Página 11
+
 
 ÚO
 departamento territorial
@@ -342,6 +346,7 @@ paso a nivel
 estación de ferrocarril
 
 ## Página 12
+
 
 ## 1 RESUMEN
 Clasificación del suceso:
@@ -389,8 +394,8 @@ la información sobre la diferencia entre las actividades de los contratistas en
 explotación de tráfico ferroviario y las actividades en la vía de tráfico en servicio, 
 incluidas las medidas que de ello se deriven, en el sentido del sistema de seguridad adoptado;
 
-
 ## Página 13
+
 
 garantizar la información oportuna a los empleados de tráfico que participan 
 •
@@ -412,8 +417,8 @@ nacional, de la línea de doble vía 527A Praha Bubeneč – Děčín hl. n., en
 Prackovice nad Labem y Lovosice, en la 1.ª vía de tráfico, en el pk 496,093.
 Foto n.º 2: Vista del lugar del SE
 
-
 ## Página 14
+
 
 ### 2.1.2 Descripción del suceso extraordinario y del lugar del accidente, incluidas las actividades del sistema 
 integrado de emergencias y del servicio de rescate
@@ -435,6 +440,7 @@ iniciar, de conformidad con lo dispuesto en el § 11 apartado 2 del Decreto núm
 la investigación complementaria de las causas y circunstancias de la producción del SE en su totalidad, es decir, incluida la elaboración de
 
 ## Página 15
+
 
 informes finales. Para la investigación y el esclarecimiento de las causas y circunstancias del origen de la UE, el Departamento de Investigación (DI) encomendó al Inspectorado Territorial de Praga. En la investigación, el DI se basó tanto en sus propios conocimientos, hallazgos y documentación fotográfica propia, como también en la documentación solicitada elaborada durante la investigación por el operador ferroviario, el transportista, la empresa Viamont DSP, a. s., y la Policía ČR.
 ## 2.2
@@ -469,8 +475,8 @@ Longitud total del tren 255 m, 40 ejes, peso total del tren 545 t, porcentaje de
 La vía en el lugar del suceso es de doble vía y, desde la dirección de la est. Prackovice nad Labem, en el sentido de circulación del tren, transcurre en una curva de izquierda de radio 1 300 m, la pendiente constructiva desde la dirección de Prackovice nad Labem es de 0,00 ‰. Es un bloque automático de tres indicaciones bidireccional con funcionamiento automático de las señales de sección, incluida la transmisión de VZ de acuerdo con TNŽ 34 2620 categoría 3.
 La vía principal en el tramo entre estaciones Prackovice nad Labem – Lovosice tiene un perfil UIC 60 sobre traviesas de hormigón y está equipada con dispositivo de seguridad de vía: bloque automático de tres indicaciones categoría 3 con funcionamiento automático de las señales de sección, incluida la transmisión de VZ de acuerdo con TNŽ 34 2620,, (bloque automático universal AB3-74). El dispositivo tiene certificado de aptitud número de ev. PZ 0533/99-E.47 de fecha 1. 9. 1999, expedido por la Autoridad Ferroviaria de Praga.
 
-
 ## Página 16
+
 
            Mediante el acta UTZ número 54/09-JV, de fecha 3. 8. 2009, se prorrogó la vigencia del certificado de aptitud hasta el 23. 6. 2014.
            El lugar de inicio de los trabajos se encontraba en la 1. TK junto a la señal AB-1-4973 en el km 497,322, cerca del paso a nivel PZS 3ZI n.º P 2420 en el km 497,106. El suceso se produjo en el km 496,093, no lejos del lugar previsto para la finalización de los trabajos, junto a la señal de entrada VJ-1S en el km 496,052.
@@ -490,46 +496,47 @@ El plan IZS fue activado simultáneamente con la notificación de la producción
 ## Página 17
 
 servicio de emergencias sanitarias de la región de Ústí.
-El accidente fue investigado por la Policía de la República Checa, Jefatura Regional de la Región de Ústí, Grupo de Policía Criminal e Investigación, Departamento Territorial de Litoměřice, con el n.º de expediente: KRPU-28122/TČ-2010-040672.
+El accidente fue investigado por la Policía de la República Checa, Dirección Regional de la Región de Ústí, Grupo de Policía Criminal e Investigación, Departamento Territorial de Litoměřice, bajo el n.º de expediente: KRPU-28122/TČ-2010-040672.
 ## 2.3
-### Fallecimientos, lesiones y daños materiales
-2.3.1 En cuanto a pasajeros y terceros, empleados del operador de la vía y del transportista, incluidas personas en relación contractual
+### Fallecidos, heridos y daños materiales
+2.3.1 En cuanto a pasajeros y terceros, empleados del gestor de la vía y del transportista, incluidas personas en relación contractual
 2 empleados de la empresa Viamont DSP, a. s., en relación contractual, fallecidos.
 •
-### 2.3.2 En cuanto a los objetos transportados, equipaje y otros bienes
-No se produjeron daños en los objetos transportados, el equipaje ni otros bienes.
+### 2.3.2 En cuanto a mercancías transportadas, equipaje y otros bienes
+No se produjeron daños en las mercancías transportadas, el equipaje ni otros bienes.
 ### 2.3.3 En cuanto a los vehículos ferroviarios, los componentes de la vía y el medio ambiente
-El operador de la vía y el transportista cuantificaron el daño:
+El gestor de la vía y el transportista cuantificaron el daño:
 En HDV
-          10.000 CZK
+          10.000 Kč
 •
 En TDV no se produjeron daños.
 •
-En los dispositivos de infraestructura no se produjeron daños.
+En los equipos de infraestructura no se produjeron daños.
 •
-No se produjeron daños en el medio ambiente.
+No se produjeron daños al medio ambiente.
 •
 Daño total
-### 10.000 CZK
+### 10.000 Kč
 •
 ## 2.4
 ### Circunstancias externas
 ### 2.4.1 Condiciones meteorológicas y datos geográficos
-Temperatura del aire +8 °C, cielo cubierto, lluvia intermitente, calma, buena visibilidad;
+Temperatura del aire +8 °C, cielo cubierto, lluvia ocasional, sin viento, buena visibilidad;
 •
 Coordenadas GPS del lugar del accidente: 50°30'47.1"N, 14°2'48.5"E. 
 •
 ## 3 REGISTRO DE LAS EXPLICACIONES PRESENTADAS
 ## 3.1
 ### Resumen de las explicaciones presentadas (sujeto a protección de la identidad de las personas)
-### 3.1.1 Empleados del operador de la vía y del transportista, incluidas personas en relación contractual
+### 3.1.1 Empleados del gestor de la vía y del transportista, incluidas personas en relación contractual
 maquinista del tren EC 175 – del Acta con el empleado se desprende, entre otros:
 •
-durante la marcha del tren desde la est. Prackovice n. L. hasta la est. Lovosice por la 1.ª vía, circulaba a una velocidad de aproximadamente ◦
-110 km·h-1, en una curva a la izquierda se cruzó con un tren rápido en sentido contrario, que le impedía la visibilidad;
-
+durante la marcha del tren desde la est. Prackovice n. L. hasta la est. Lovosice por la 1. TK circulaba a una velocidad de unos 
+◦
+110 km.h-1, en una curva a la izquierda se cruzó con un tren rápido en sentido contrario que le impedía la visibilidad;
 
 ## Página 18
+
 
 a la derecha en el sentido de la marcha, junto a la vía, a unos 200 m ◦
 del lugar de la colisión, divisó a dos personas con monos azul y amarillo;
@@ -577,56 +584,52 @@ solos, y que no les exigía ninguna medida;
 
 ## Página 19
 
-hacia las 14:30 horas sonó el tono del comunicador IPR; la llamada fue atendida por el despachante de vía;
-◦
-como se trata de una escucha espacial, la llamada se escuchó y sonaba aproximadamente así: "aquí es el maquinista del EC 175, he atropellado a dos trabajadores en la vía" e indicó la posición kilométrica, además decía que estaban a unos 400 metros detrás de él y solicitaba que se llamara al servicio de urgencias;
-◦
-también les comunicó que se había encontrado con el R 612, que circulaba por la 2.ª vía principal, y que los trabajadores se estaban lanzando delante de este tren en dirección a la 1.ª vía principal;
-◦
-tras esta comunicación se detuvo todo el tráfico en ambas vías en dirección a Ústí nad Labem y la creación de la MU se comunicó de conformidad con el Cuadro de Comunicaciones;
-•
-del Registro con el empleado del despachante de la estación del segundo enclavamiento central de la estación de Lovosice, entre otras cosas se desprende:
-◦
-hacia las 08:30 horas escuchó cómo el despachante de vía de su turno hablaba con alguien por teléfono directo;
-◦
-decía algo en el sentido de que no sabía cuál sería la situación del tráfico en una hora, a continuación se dedicó a su actividad laboral;
-◦
-unos dos minutos después del paso del R 612 escuchó el timbre del comunicador IPR en la oficina de tráfico;
-◦
-la llamada fue atendida por el despachante de vía y sonaba aproximadamente así: "aquí es el maquinista del EC 175, he atropellado a dos trabajadores en la vía" e indicó el kilómetro de detención;
-◦
-tras esta llamada se detuvo el tráfico en ambas vías en dirección a Ústí nad Labem;
-◦
-a continuación se dedicó a la actividad conforme al Cuadro de Comunicaciones;
-•
-del Registro con el empleado del despachante de servicio exterior de la estación de Lovosice, entre otras cosas se desprende:
-◦
-hacia las 08:25 horas llegó a la oficina de tráfico un trabajador de la empresa Viamont y dijo que venía a comunicar algún trabajo;
-◦
-le facilitó una conversación por teléfono directo con el despachante del enclavamiento central de la estación de Lovosice, la cual ya no escuchó;
-•
-del Registro con el empleado del jefe del centro de explotación de Lovosice, empleado de SŽDC, s. o., entre otras cosas se desprende:
-◦
-el 19. 10. 2010 se estaba llevando a cabo entre las estaciones de Prackovice n. L. y Lovosice la interrupción de la 1.ª vía principal, que finalizó a las 18:35 horas, durante la cual fui designado como OZOV;
-◦
-los trabajos de interrupción los realizó la empresa Viamont DSP, la interrupción se llevó a cabo según el plan sin incidencias;
-◦
-no sabía nada de que los empleados de la empresa Viamont DSP fueran a realizar trabajos de finalización tras la interrupción el 20. 10. 2010;
-•
-del Registro con el empleado del jefe del centro de explotación STO Ústí nad Labem, supervisor de construcción especializado, empleado de SŽDC, s. o., entre otras cosas se desprende:
-◦
-el 19. 10. 2010 se estaba llevando a cabo la interrupción de la 1.ª vía principal entre las estaciones de Prackovice n. L. y Lovosice, el OZOV era el jefe del centro de explotación de Lovosice;
-◦
-en la interrupción trabajaban empleados de la empresa Viamont DSP en la adaptación del lecho de balasto al perfil;
-◦
-los trabajos se realizaban en virtud de un contrato de obra y finalizaron hacia las 19:00 horas del 19. 10. 2010;
-◦
-todos los trabajos planificados se habían realizado, excepto la adaptación definitiva del lecho de balasto al perfil;
-◦
-preguntó personalmente al jefe de obra de Viamont DSP cuándo se finalizarían los trabajos, él
-
+- hacia las 14:30 horas sonó el tono del comunicador IPR, la llamada fue atendida por el jefe de estación de vía;
+  ◦
+  como se trata de una escucha espacial, la llamada se oía y sonaba aproximadamente así: «aquí el maquinista del EC 175, he atropellado a dos operarios en la vía» e indicó la posición kilométrica, además decía que estaban a unos 400 metros por detrás de él y pedía que se llamara al servicio de urgencias;
+  ◦
+  además les comunicó que se había cruzado con el R 612, que circulaba por la 2.ª vía, y que los operarios se estaban lanzando delante de dicho tren en dirección a la 1.ª vía;
+  ◦
+  tras este aviso se detuvo todo el tráfico en ambas vías en dirección a Ústí nad Labem y la creación de la MU se comunicó de conformidad con el Cuadro de Comunicaciones;
+- jefe de estación del II. aparato central de señales de la est. Lovosice – del Acta con el empleado, entre otras cosas, se desprende:
+  ◦
+  hacia las 08:30 horas oyó cómo el jefe de estación de vía de su turno hablaba con alguien por teléfono directo;
+  ◦
+  decía algo en el sentido de que no sabía cuál sería la situación del tráfico dentro de una hora, a continuación se dedicó a su actividad laboral;
+  ◦
+  unos dos minutos después del paso del R 612 percibió el timbre del comunicador IPR en la oficina de tráfico;
+  ◦
+  la llamada fue atendida por el jefe de estación de vía y sonaba aproximadamente así: «aquí el maquinista del EC 175, he atropellado a dos operarios en la vía» e indicó el kilómetro de detención;
+  ◦
+  tras esta llamada se detuvo el tráfico en ambas vías en dirección a Ústí nad Labem;
+  ◦
+  a continuación se dedicó a la actividad conforme al Cuadro de Comunicaciones;
+- jefe de estación de servicio exterior de la est. Lovosice – del Acta con el empleado, entre otras cosas, se desprende:
+  ◦
+  hacia las 08:25 horas acudió a la oficina de tráfico un trabajador de la empresa Viamont y dijo que venía a comunicar algún trabajo;
+  ◦
+  le facilitó una conversación por teléfono directo con el jefe del aparato central de señales de la est. Lovosice, la cual ya no escuchó;
+- jefe del centro operativo de Lovosice, empleado de SŽDC, s. o. – del Acta con el empleado, entre otras cosas, se desprende:
+  ◦
+  el 19. 10. 2010 se estaba ejecutando la vía 1.ª entre las est. Prackovice n. L. y Lovosice, que finalizó a las 18:35 horas, durante la cual fui designado como OZOV;
+  ◦
+  los trabajos de vía los realizó la empresa Viamont DSP, la vía se ejecutó según el plan sin incidencias;
+  ◦
+  no sabía nada de que los empleados de la empresa Viamont DSP fueran a realizar trabajos de acabado tras la vía el 20. 10. 2010;
+- jefe del centro operativo STO Ústí nad Labem, inspector de construcción experto, empleado de SŽDC, s. o. – del Acta con el empleado, entre otras cosas, se desprende:
+  ◦
+  el 19. 10. 2010 se estaba ejecutando la vía 1.ª entre las est. Prackovice n. L. y Lovosice, el OZOV era el jefe del centro operativo de Lovosice;
+  ◦
+  en la vía trabajaban empleados de la empresa Viamont DSP en la adaptación del balasto al perfil;
+  ◦
+  los trabajos se realizaban en virtud de un contrato de obra y finalizaron hacia las 19:00 horas del 19. 10. 2010;
+  ◦
+  todos los trabajos planificados se habían realizado, a excepción de la adaptación definitiva del balasto al perfil;
+  ◦
+  personalmente preguntó al jefe de obra de Viamont DSP cuándo se finalizarían los trabajos, él
 
 ## Página 20
+
 
 dijo que en algún momento de los días siguientes;
 ◦
@@ -673,6 +676,7 @@ del Registro Oficial sobre la declaración prestada del capataz de la cuadrilla 
 trabajaban en la vía en el corredor principal de la línea ferroviaria entre la parada de Lovosice-
 
 ## Página 21
+
 
 municipio y estación de Lovosice, cuando tenían la tarea de eliminar la grava del pie del carril;
 realizaban el trabajo ya el 19. 10. 2010, cuando trabajaban en ese mismo tramo;
@@ -746,8 +750,8 @@ a la pregunta de qué cualificación profesional tenía, indicó que había trab
 ◦
 maquinista y tiene exámenes en Viamont para la realización de trabajos de construcción
 
-
 ## Página 22
+
 
 con la designación F1, F2, dirección de maniobras, tiene un reconocimiento médico válido y una
 tarjeta válida de acceso a los carriles, los documentos están depositados en la empresa;
@@ -813,6 +817,7 @@ director de producción de la empresa Viamont DSP, a. s. – de la Declaración 
 
 ## Página 23
 
+
 se desprende:
 de la cláusula 3.1 del contrato de obra: se trata de una intervención integral del superestructura ferroviaria,
 ○
@@ -873,8 +878,8 @@ delimita y define en la cláusula 5, entre otros, los términos técnicos:
 "empleado directivo" – empleado encargado por el empleador de la dirección en
 •
 
-
 ## Página 24
+
 
 los distintos niveles de mando;
 "jefe de trabajo" – empleado (persona) designado por el empleado directivo, o bien
@@ -934,6 +939,7 @@ seguridad del grupo de trabajo del proveedor antes de la aparición de MU:
 
 ## Página 25
 
+
 El jefe de obra del contratista indicado en el contrato comunicará, en caso de trabajos en plena vía sin posibilidad de entendimiento, personalmente al empleado de tráfico el tipo y el lugar concreto de los trabajos, su comienzo y su final, y acordará con él las condiciones de vigilancia del puesto de trabajo, ya sea por medio de información sobre la circulación de vehículos en el tramo de vía indicado proporcionada por el empleado de tráfico, o bien por medio de patrullas de seguridad. En caso de necesidad (p. ej., a requerimiento del empleado de tráfico) exhibirá los documentos que le habilitan para acceder a la vía de circulación en servicio correspondiente al tramo de vía en cuestión. Cuando la vigilancia del puesto de trabajo se realice mediante patrullas de seguridad, el jefe de obra debe solicitar al empleado de tráfico información detallada sobre la situación del tráfico y, si resulta conveniente, para una vía de doble ancho se puede acordar la prohibición de circular en sentido contrario al correcto, de modo que la patrulla de seguridad pueda situarse únicamente en el sentido de circulación previsto de los vehículos. Al establecer el puesto de trabajo en plena vía no se entrega la placa de seguridad, pero con un número de 6 o más empleados del grupo de trabajo, el jefe de obra está obligado a señalizar dicho puesto de trabajo con señales de advertencia de acuerdo con la norma SŽDC (ČD) D1. Para la colocación de señales de advertencia, el jefe de obra debe solicitar el permiso al jefe de estación, quien solo lo concederá en caso de que se cumplan las condiciones establecidas en la norma. (En los casos en que estas condiciones no se cumplan, el jefe de obra debe colocar delante del puesto de trabajo señales luminosas de advertencia. Si no las tiene disponibles, no debe establecer el puesto de trabajo en la vía en servicio).
 Las condiciones acordadas para la realización de los trabajos y el modo de comunicación mutua las anotará el empleado de tráfico en el cuaderno telefónico y ambos firmarán la anotación.
 En el caso en que la adopción de medidas de seguridad para el trabajo del grupo de trabajo se realice mediante un dispositivo de telecomunicaciones, el empleado de tráfico comunicará al jefe de obra el número de registro de dicha adopción en el cuaderno telefónico, incluida la posible denegación de los trabajos del grupo de trabajo en el sector por él gestionado. La anotación en el cuaderno telefónico debe realizarla, por tanto, siempre el empleado de tráfico.
@@ -945,6 +951,7 @@ Sobre la base de otros hechos constatados, el DI constata que el explotador de l
 Sobre la base de la inspección de seguridad (SD) realizada sobre el expediente del accidente ferroviario (MU) en el explotador de la vía, se detectaron nuevas deficiencias en el cumplimiento del sistema adoptado de seguridad de la explotación de la vía, ya que la Evaluación de las causas y circunstancias de la aparición del MU no contenía una propuesta de medidas correctoras para la prevención del MU, incluida una propuesta de plazos para su realización. El DI concluyó en la SD que: «en contradicción con el Sistema adoptado de garantía de la seguridad de la explotación de la vía y de la organización del transporte ferroviario en la vía de ámbito nacional y en las vías regionales, no se adoptaron medidas correctoras de
 
 ## Página 26
+
 
 de la parte del explotador de la vía“.
            Se detectó una anomalía.
@@ -958,25 +965,25 @@ El requisito de aptitud para conducir un vehículo ferroviario lo establece el �
 Los procedimientos tecnológicos para la actividad de control están contenidos en la normativa interna y otras medidas del explotador de la vía y del transportista. En su cumplimiento no se detectaron, por parte del transportista, deficiencias en relación con las causas y circunstancias de la causa del MU.
            El explotador de la vía no garantizó el cumplimiento de los procedimientos tecnológicos para la actividad de control, contenidos en la normativa interna SŽDC (ČD) Op 16, en el sentido de que el responsable de los trabajos, empleado de la contratista, que dirigía directamente a los empleados en la ejecución del trabajo, no inspeccionó el puesto de trabajo antes del inicio del trabajo y no ejerció sistemáticamente la supervisión del cumplimiento de las normas de seguridad por parte de los empleados a su cargo. El responsable de los trabajos –
 
-
 ## Página 27
 
-jefe de obra de la empresa Viamont DSP, a. s., no estuvo en el puesto de trabajo desde el inicio de los trabajos ni en el momento de la causa del MU, a pesar de que su presencia quedó registrada en la anotación del diario de obra.
-           Se detectó una anomalía.
-### 3.2.4 Interfaz entre los distintos sujetos involucrados y los componentes de la vía de circulación
-El explotador de la vía ferroviaria, categoría nacional, Praga Bubeneč – Děčín hl. n. es la Administración de la Vía de Circulación Ferroviaria, organización estatal, con domicilio en Dlážděná 1003/7, Praga 1 – Nové Město, CP 110 00, con base en la Autorización Administrativa expedida por la Autoridad Ferroviaria el 29. 5. 2008, bajo el n.º de expediente: 3-4277/07-DÚ/Le-DÚ/O-SI, n.º de referencia: ÚP/2008/9002.
-           El transportista del tren EC 175 eran los Ferrocarriles Checos, a. s., con domicilio en Nábřeží L. Svobody 1222, Praga 1, CP 110 15, con base en la Licencia de explotador del transporte ferroviario n.º de expediente: 1-57/96-DÚ/O-Bp, n.º de referencia: L/1996/5000, concedida por la Autoridad Ferroviaria el 21. 5. 1996.
-           El transporte ferroviario se explotaba con base en el «Contrato núm. 001/08 para la explotación del transporte ferroviario en la vía de circulación ferroviaria de la línea nacional y de las líneas regionales en propiedad de la República Checa», en la redacción del Adendo núm. 1 en vigor, celebrado entre las partes contratantes Administración de la Vía de Circulación Ferroviaria, organización estatal, con domicilio en Dlážděná 1003/7, Praga 1 – Nové Město, CP 110 00, y Ferrocarriles Checos, a. s., con domicilio en Nábřeží L. Svobody 1222, Praga 1, CP 110 15, el 1. 7. 2008, con vigencia desde el 1. 7. 2008.
-           La contratista de la obra «Reparación de las agujas n.º 53, 56, 56XA y DKS en combinación en la estación de Lovosice y 1.ª TK Lovosice – Ústí n. L. jih en km 495,700 – 497,600» era la empresa Viamont DSP, a. s., con domicilio en Železničářská 1385, 400 03 Ústí nad Labem. Entre el contratista y el comitente – explotador de la vía, la Administración de la Vía de Circulación Ferroviaria, organización estatal, con domicilio en Dlážděná 1003/7, Praga 1 – Nové Město, CP 110 00, se celebró un Contrato de ejecución de obra (n.º del comitente: 650 – 0118/31/SN/10, n.º del contratista: SK100006-125/10) para la suministro de la obra mencionada.
-El Contrato de ejecución de obra contiene, entre otras, una disposición relativa a la incidencia excepcional:
-«3.1  ...los trabajos se realizarán en las interrupciones de circulación establecidas con arreglo a las condiciones de RCP Ústí n. L.
-6.3  El comitente se compromete a entregar al contratista la obra para su ejecución... antes del inicio de los trabajos.
-6.4  El contratista (jefe de obra) es responsable de la seguridad y salud en el trabajo de sus propios trabajadores … con arreglo a las normas vigentes. El contratista está además obligado a cumplir, durante la ejecución de la obra, las normas vigentes de protección contra incendios, el cumplimiento de los procedimientos tecnológicos vigentes y todas las demás normas jurídicas generalmente aplicables relacionadas con el objeto de la obra en materia de SST y protección contra incendios.
-6.7  El contratista está obligado a llevar, desde el inicio de los trabajos en la obra, un diario de obra de conformidad con la Ley de Construcción núm. 183/2006 Sb., en su redacción vigente, y su reglamento de desarrollo núm. 499/2006 Sb.
-6.10 El contratista es plenamente responsable de que todos sus empleados involucrados en esta obra cumplan las condiciones de aptitud sanitaria y profesional establecidas por las normas vigentes y por las normas SŽDC (ČD).
-6.11 El contratista debe permanecer únicamente en el puesto de trabajo asignado de la vía excluida; fuera de ella, el comitente renuncia a cualquier responsabilidad por el contratista. En tal caso, el contratista actúa bajo su propio riesgo y está obligado a cumplir las disposiciones de Op 16, norma de SŽDC (ČD)
+El jefe de obra de la empresa Viamont DSP, a. s., no se encontraba en el puesto de trabajo desde el inicio de los trabajos ni en el momento en que se produjo el MU, a pesar de que su presencia quedó registrada en la anotación del diario de obra.
+           Se detectó la anomalía.
+### 3.2.4 Interfaz entre los distintos sujetos participantes y los componentes de la vía
+El explotador de la vía férrea, categoría de ámbito nacional, Praha Bubeneč – Děčín hl. n. es la Správa železniční dopravní cesty, organización estatal, con domicilio en Dlážděná 1003/7, Praha 1 – Nové Město, CP 110 00, en virtud de la Autorización Oficial emitida por el Drážní úřad el 29. 5. 2008, con n.º de expediente: 3-4277/07-DÚ/Le-DÚ/O-SI, n.º de registro: ÚP/2008/9002.
+           El transportista del tren EC 175 eran los České dráhy, a. s., con domicilio en Nábřeží L. Svobody 1222, Praha 1, CP 110 15, en virtud de la Licencia de explotador del transporte ferroviario n.º de expediente: 1-57/96-DÚ/O-Bp, n.º de registro: L/1996/5000, concedida por el Drážní úřad el 21. 5. 1996.
+           El transporte ferroviario se prestaba en virtud del «Contrato n.º 001/08 para la explotación del transporte ferroviario en la vía de transporte férrea de la vía de ámbito nacional y de las vías regionales en propiedad de la República Checa», en la redacción del Anexo n.º 1 en vigor, celebrado entre las partes contratantes Správa železniční dopravní cesty, organización estatal, con domicilio en Dlážděná 1003/7, Praha 1 – Nové Město, CP 110 00, y České dráhy, a. s., con domicilio en Nábřeží L. Svobody 1222, Praha 1, CP 110 15, el 1. 7. 2008, con vigencia a partir del 1. 7. 2008.
+           El contratista de la obra «Reparación de los desvíos n.º 53, 56, 56XA y DKS en combinación en la estación de Lovosice y 1. TK Lovosice – Ústí n. L. jih en el km 495,700 – 497,600» era la empresa Viamont DSP, a. s., con domicilio en Železničářská 1385, 400 03 Ústí nad Labem. Entre el contratista y el comitente-explotador de la vía, la Správa železniční dopravní cesty, organización estatal, con domicilio en Dlážděná 1003/7, Praha 1 – Nové Město, CP 110 00, se celebró un Contrato de obra (n.º del comitente: 650 – 0118/31/SN/10, n.º del contratista: SK100006-125/10) para la suministro de la obra mencionada.
+El Contrato de obra contiene, entre otras, una disposición relativa a la incidencia excepcional:
+«3.1  ...los trabajos se realizarán en las interrupciones de circulación establecidas de acuerdo con las condiciones de RCP Ústí n. L.
+6.3  El comitente se compromete a entregar al contratista la obra para la ejecución de la misma... antes del inicio de los trabajos.
+6.4  El contratista (jefe de obra) es responsable de la seguridad y de la protección de la salud en el trabajo de sus propios empleados … de acuerdo con las normativas vigentes. El contratista está además obligado a cumplir durante la ejecución de la obra las normativas vigentes de protección contra incendios, el cumplimiento de las tecnologías de trabajo vigentes y todas las demás normas jurídicas generalmente aplicables relacionadas con el objeto de la obra en relación con la PRL y la protección contra incendios.
+6.7  El contratista está obligado a llevar, desde el inicio de los trabajos en la obra, un diario de obra de conformidad con la Ley de Construcción n.º 183/2006 Sb., en la redacción vigente, y su reglamento de desarrollo n.º 499/2006 Sb.
+6.10 El contratista es plenamente responsable de que todos sus empleados participantes en esta obra cumplan las condiciones de idoneidad sanitaria y profesional establecidas por la normativa vigente y por las normativas de SŽDC (ČD).
+6.11 El contratista debe permanecer únicamente en el puesto de trabajo asignado de la vía excluida; fuera de la misma, el comitente renuncia a cualquier responsabilidad respecto del contratista. En tal caso, el contratista actúa bajo su propio riesgo y está obligado a cumplir las disposiciones de Op 16, normativa de SŽDC (ČD)
 
 ## Página 28
+
 
 de seguridad laboral durante la circulación en la vía. Los riesgos durante la circulación en la vía fueron comunicados por escrito por el contratante.
 6.12 Es obligación del contratista garantizar que las actividades en las vías se realicen bajo la dirección directa de una persona competente y apta para la salud – el jefe de obra, es decir, un empleado del contratista que está obligado a acreditar su competencia mediante documentos válidos, entre ellos, un «Certificado de examen profesional» válido conforme a la norma SŽDC ZAM 1 (ČD OK2), el documento de aptitud para la salud, etc., ante todos los empleados autorizados de SŽDC y de la Administración de la República Checa, cuando así le sea requerido. Los documentos de competencia deben emitirse de conformidad con la legislación vigente y la Directiva.
@@ -1003,8 +1010,8 @@ d) a implantar un sistema de garantía de la seguridad de la explotación de la 
 •
 «El gestor de la vía y el transportista están obligados
 
-
 ## Página 29
+
 
 d) a determinar las causas y circunstancias de la aparición de sucesos excepcionales en el tráfico ferroviario en los casos establecidos por la norma jurídica de desarrollo y a adoptar medidas para prevenirlos,
 e) a eliminar las deficiencias detectadas en la aparición de sucesos excepcionales, sus causas y consecuencias perjudiciales, y a adoptar en los plazos establecidos las medidas destinadas a prevenir la aparición de sucesos excepcionales.
@@ -1033,6 +1040,7 @@ g) «medidas que garanticen una información suficiente en el ámbito del gestor
 
 ## Página 30
 
+
 La información mutua básica entre las distintas OS del gestor de la infraestructura viene determinada por los actos de dirección de la GŘ SŽDC en el marco del Reglamento de Organización del organismo estatal Správa železniční dopravní cesty.
 El alcance y la forma de proporcionar información a los empleados operativos los definen las normas internas del gestor de la infraestructura. Se trata de la información a los empleados antes del turno, incidencias, interrupciones de servicio, cambios de carácter permanente, nuevos sistemas de señalización, cambios de velocidades permanentes, información durante el turno, órdenes. El acceso a la información está garantizado directa o indirectamente en todos los puestos de trabajo...“
 i) «Los procedimientos que garantizan que los accidentes graves, accidentes, riesgos y otros acontecimientos que afecten a la explotación segura de la infraestructura sean notificados, investigados y analizados, y que se determinen sus causas y se adopten las medidas necesarias, forman parte de las normas internas del gestor de la infraestructura. Los detalles los establece la norma SŽDC Dp17 Norma para la notificación y la investigación de incidencias y su reglamento de ejecución SŽDC Dp17 - 1.»
@@ -1055,8 +1063,8 @@ SŽDC (ČD) D2), artículo 41:
 SŽDC Dp17 (provisional), art. 162:
 •
 
-
 ## Página 31
+
 
 «La evaluación de las causas y circunstancias del origen de la MU contiene los hechos acreditados y documentados en la determinación de las causas y circunstancias del origen de la incidencia, en particular:
 j) la propuesta de medidas para la prevención de la MU, incluida la propuesta de plazo para su realización.»
@@ -1088,6 +1096,7 @@ SŽDC (ČD) Op 16, art. 33:
 
 ## Página 32
 
+
 acuerdo, lugar de trabajo, hora de inicio y finalización del trabajo en el teléfono móvil y ambos firmarán el registro. En este caso, la etiqueta de seguridad no se entrega."
 SŽDC (ČD) Op 16, art. 41:
 •
@@ -1109,8 +1118,8 @@ SŽDC (ČD) Op 16, art. 119:
 El jefe de trabajo deberá además garantizar:
 a) la designación de un lugar seguro al que los empleados en la vía abierta y en la estación deben retirarse ante los vehículos que se aproximan.
 
-
 ## Página 33
+
 
 Está obligado a anotar en el libro de servicio las circunstancias importantes que garanticen la seguridad de los empleados (por ejemplo, la instrucción de los empleados antes del inicio del trabajo, la protección del lugar de trabajo, la designación de un lugar seguro para la retirada, etc.),
 b) informarse antes del inicio del trabajo y durante los trabajos sobre la situación del tráfico. Observar los trenes o vehículos que circulan por ambos lados hacia el lugar de trabajo y tomar oportunamente todas las medidas para garantizar la seguridad de sus empleados,
@@ -1139,6 +1148,7 @@ a) el jefe de trabajo:
 
 ## Página 34
 
+
 - garantizará la verificación de la funcionalidad de la comunicación radiofónica, si se utiliza para la seguridad del puesto de trabajo...;
 - debe, en caso de que no garantice la seguridad personalmente, controlar continuamente el cumplimiento de las medidas adoptadas para garantizar la seguridad del puesto de trabajo;
 b) procedimiento general para la seguridad del empleado del grupo de trabajo:
@@ -1157,6 +1167,7 @@ b) procedimiento general para la seguridad del empleado del grupo de trabajo:
 La actividad del dispositivo de seguridad y del dispositivo de registro automático de datos no guarda relación con la causa de la aparición del MU.
 
 ## Página 35
+
 
 En las condiciones dadas (6 empleados en el grupo de trabajo, ausencia de señalización del puesto de trabajo con señales de advertencia), el puesto de trabajo en la vía en explotación solo puede establecerse si se colocan señales luminosas de advertencia antes de dicho lugar. Esta obligación no fue cumplida.
            Se detectó una anomalía.
@@ -1184,6 +1195,7 @@ La HDV 371.004-3, propiedad de ČD, a. s., DKV Praha, dispone de un "Certificado
 
 ## Página 36
 
+
 ## 3.5
 ### Documentación sobre el sistema de explotación
 ### 3.5.1 Medidas adoptadas por los empleados del gestor de la infraestructura y del transportista en lo que respecta a la conducción, la señalización y la seguridad del tráfico
@@ -1198,6 +1210,7 @@ El capataz de la cuadrilla de la empresa Viamont DSP, a. s., se puso por teléfo
 
 ## Página 37
 
+
 paso. En ese momento le pasaba por la 2.ª TK el tren R 612 y a esa hora aún le veían el jefe de cuadrilla y uno de los empleados del segundo grupo, antes de que el tren EC 175 les tapara la visión.
            Se detectaron deficiencias.
            Dos empleados afectados de la empresa Viamont DSP, a. s., trabajaban separados a la cabeza de la cuadrilla en el carril izquierdo de la 1.ª TK. Uno de ellos tenía un walkie-talkie, con el que el jefe de cuadrilla, como vigilancia de seguridad, les advertía de la llegada de trenes. Inmediatamente antes de que se produjera el MU, se les advirtió de la circulación del tren EC 175 procedente de Ústí nad Labem. El empleado con el walkie-talkie respondió a esta indicación con la palabra «Jo» y ambos comenzaron a salir hacia la derecha de la 1.ª TK. En ese momento les pasaba el tren R 612, que circulaba por la 2.ª TK de Lovosic a Ústí nad Labem, y el empleado con el walkie-talkie levantó la mano. En el momento en que el maquinista del tren EC 175 los detectó a una distancia de unos 100 metros, ambos habían vuelto a la 1.ª TK y aquí, de espaldas al tren EC 175 que llegaba, trabajaban.
@@ -1211,8 +1224,8 @@ El jefe de obra, responsable de los trabajos, cuya obligación era llevar el dia
 ### 3.5.2 Intercambio de comunicaciones verbales en relación con el suceso excepcional, incluidos los registros del dispositivo de registro
 Aproximadamente a las 08:30 horas, el jefe de cuadrilla de la empresa Viamont DSP, a. s., se comunicó con el jefe de vía del enclavamiento central de la estación de Lovosic mediante teléfono directo desde la oficina de tráfico de la estación de Lovosic, a pesar de tener la obligación de presentarse personalmente ante dicho empleado de tráfico. El jefe de cuadrilla comunicó al jefe de vía que realizarían trabajos en la 1.ª TK y solicitó al jefe de vía la etiqueta de seguridad. El jefe de vía lo
 
-
 ## Página 38
+
 
 consideró innecesario, dado que debían trabajar fuera de la estación de Lovosic, y acordaron que los empleados de la empresa Viamont DSP, a. s., se protegerían por sí mismos.
            Deficiencia detectada.
@@ -1249,61 +1262,45 @@ de la ley n.º 262/2006 Sb.
 
 ## Página 39
 
-3.6.2 Estado de salud y situación personal que influyeron en el suceso ferroviario,
-incluido el estrés físico o psicológico
-Todos los empleados de la empresa Viamont DSP, a. s., implicados eran, en el momento de la producción del SU•
-apto para el desempeño de la función que ocupaban. La investigación no determinó que la situación personal o el estado psicológico de las personas implicadas en el SU hubieran influido en la producción del SU.
-Los empleados del gestor de la infraestructura y del transportista se someten a exámenes médicos periódicos de acuerdo con lo dispuesto en el decreto n.º 101/1995 Sb. No se detectó•
-ningún estado de salud ni situación personal que pudiera haber influido en la producción del SU, incluido el estrés físico y psicológico.
-3.6.3 Disposición del equipamiento del puesto de mando o del vehículo que influye en su
-manejo y uso
-La disposición del equipamiento del puesto de mando y del vehículo no guardaba relación con la producción del SU.
+3.6.2 Estado de salud y situación personal que influyeron en el suceso ferroviario, incluido el estrés físico o psicológico
+• Todos los empleados de la empresa Viamont DSP, a. s., implicados estaban, en el momento de producirse el suceso ferroviario, en condiciones de salud para desempeñar la función que ocupaban. La investigación no determinó que la situación personal o el estado psicológico de las personas implicadas en el suceso ferroviario hubieran influido en la aparición del mismo.
+• Los empleados del gestor de la infraestructura ferroviaria y del transportista se someten a reconocimientos médicos periódicos de conformidad con lo dispuesto en el decreto nº 101/1995 Sb. No se detectaron circunstancias de salud ni situaciones personales que pudieran haber influido en la aparición del suceso ferroviario, incluido el estrés físico y psicológico.
+3.6.3 Disposición del equipamiento del puesto de mando o del vehículo que influye en su manejo y utilización
+La disposición del equipamiento del puesto de mando y del vehículo no guardaba relación con la aparición del suceso ferroviario.
 ## 3.7
 ### Sucesos ferroviarios anteriores de carácter similar
-La Inspección Ferroviaria no registra, en cuanto a causas y consecuencias, un SU análogo al ocurrido
-durante la realización independiente de actividades en la explotación de la infraestructura por parte del contratista, es decir, durante la realización de trabajos de mantenimiento de la infraestructura en la vía en explotación.
-Sin embargo, registra, por ejemplo, el SU del 20. 2. 2007, cuando entre las estaciones Mníšek pod Brdy –
-Čísovice se produjo el descarrilamiento de HDV y 6 DV durante la circulación del Mn 85956 por un puesto de trabajo, en el que el contratista realizaba de forma independiente en la vía en explotación su mantenimiento.
-La relación entre este SU y el SU indicado en el informe es el hecho de que se produjeron durante actividades realizadas de forma independiente por el contratista en la explotación de la infraestructura, que la ley n.º 266/1994 Sb. y sus decretos de aplicación establecen como obligaciones del gestor de la infraestructura. En ambos casos, el gestor de la infraestructura atribuyó al contratista la responsabilidad por la producción del SU, incluida la adopción de las medidas correspondientes para prevenir el SU, a pesar de que, según la normativa vigente, en virtud de una relación contractual no es posible transferir a otros sujetos la responsabilidad por el incumplimiento de las obligaciones del gestor de la infraestructura, impuestas por las disposiciones de la ley n.º 266/1994 Sb. y las normas jurídicas relacionadas.
+La Inspección Ferroviaria no registra, en cuanto a causas y consecuencias, un suceso ferroviario análogo al ocurrido con ocasión de la realización independiente de actividades en la explotación de la infraestructura ferroviaria por parte del contratista, es decir, durante la realización de trabajos de mantenimiento de la infraestructura en la vía en explotación.
+Sin embargo, registra, por ejemplo, el suceso ferroviario del 20. 2. 2007, en el que entre las estaciones Mníšek pod Brdy – Čísovice se produjo el descarrilamiento de la HDV y de 6 DV durante la circulación del Mn 85956 por un puesto de trabajo en el que el contratista realizaba de forma independiente, en la vía en explotación, los trabajos de mantenimiento de la misma.
+La relación entre este suceso ferroviario y el recogido en el informe radica en el hecho de que ambos se produjeron con ocasión de actividades realizadas de forma independiente por el contratista en la explotación de la infraestructura ferroviaria, que la ley nº 266/1994 Sb. y sus reglamentos de desarrollo establecen como obligaciones del gestor de la infraestructura ferroviaria. En ambos casos, el gestor de la infraestructura ferroviaria atribuyó al contratista la responsabilidad por la aparición del suceso ferroviario, incluida la adopción de las medidas correspondientes para prevenir sucesos ferroviarios, pese a que, según la normativa vigente, en virtud de una relación contractual no es posible trasladar a otros sujetos la responsabilidad por el incumplimiento de las obligaciones del gestor de la infraestructura ferroviaria que le son impuestas por las disposiciones de la ley nº 266/1994 Sb. y las normas jurídicas de referencia.
 ## 4 ANÁLISIS Y CONCLUSIONES
 ## 4.1
-### Descripción final del suceso ferroviario
-### 4.1.1 Descripción final del suceso ferroviario basada en los hechos constatados
-en el punto 3
-El 20. 10. 2010 a las 14:29 horas, el tren EC 175, que circulaba desde la estación Ústí nad Labem
-hl. n. en dirección a la estación Praha-Holešovice, colisionó entre la estación Prackovice nad Labem y la estación
-
+### Descripción definitiva del suceso ferroviario
+### 4.1.1 Descripción definitiva del suceso ferroviario basada en los hechos establecidos en el punto 3
+El 20. 10. 2010 a las 14:29 horas, el tren EC 175, que circulaba desde la estación Ústí nad Labem hl. n. en dirección a la estación Praha-Holešovice, colisionó entre las estaciones Prackovice nad Labem y
 
 ## Página 40
 
-Lovosice en el km 496,093 con dos empleados de la empresa Viamont DSP, a. s., que se
-movían en la sección de gálibo de la 1. TK en circulación. Inmediatamente antes de la producción del SU, el gestor de la infraestructura realizaba en la 1. TK desde la parada Lovosice-město en dirección a la señal de entrada 1S de la estación Lovosice, a través de una cuadrilla compuesta por cinco obreros de vía y un capataz de cuadrilla de la empresa Viamont DSP, a. s., trabajos de acabado en la superestructura ferroviaria. Estos trabajos se realizaban como actividad en la explotación de la infraestructura en la vía en explotación y consistían en el ajuste definitivo del balasto al perfil y en la retirada del balasto del pie de la 1. TK. Dado que el responsable de los trabajos –el jefe de obra– no estuvo presente en el puesto de trabajo durante todo el tiempo de los trabajos de acabado el 20. 11. 2010, el capataz de cuadrilla acordó telefónicamente con el jefe de estación del enclavamiento central de la estación Lovosice, al que comunicó que trabajaría con la cuadrilla en la 1. TK desde la señal previa hasta la señal de entrada a Lovosice desde la estación Prackovice nad Labem. A la vez, quería entregar la etiqueta de seguridad, lo que el jefe de estación rechazó indicando que en estos casos la etiqueta de seguridad no se entrega. Así pues, acordó con el jefe de estación que se vigilarían mutuamente. Tras este acuerdo, la conversación finalizó, sin adoptar ninguna otra medida requerida a la hora de establecer las condiciones para la realización del trabajo y el modo de comunicación mutua según las normas internas del gestor de la infraestructura. El capataz de cuadrilla estableció a continuación en el tramo indicado, en la 1. TK, un puesto de trabajo y se designó a sí mismo como vigilante de seguridad, con la condición de que informaría a los demás empleados de la cuadrilla mediante radio. No adoptó ninguna otra medida para garantizar la seguridad del trabajo de la cuadrilla.
-Inmediatamente antes de la producción del SU, la cuadrilla se dividió en dos grupos, de dos y tres empleados respectivamente. El primer grupo de dos empleados se encontraba a unos 114 m del capataz de cuadrilla (vigilante de seguridad), mientras que el segundo grupo de tres empleados trabajaba cerca de él. Tras la orden del capataz de cuadrilla y la información, transmitida por radio y reforzada con el toque de silbato, sobre la circulación del tren desde Ústí nad Labem, el grupo de tres empleados salió de la vía; el empleado con la radio del grupo de dos empleados dio a entender que había comprendido la orden de abandonar la vía y ambos comenzaron a salir de la 1. TK. Dado que estos empleados trabajaban en el carril izquierdo, salían de la vía a través de la 1. TK. Tras el paso del tren R 612, regresaron a la 1. TK, ya que el maquinista del tren EC 175 observó a una distancia de unos 100 metros a ambas personas de espaldas al tren que se aproximaba, que se movían con herramientas en la superestructura ferroviaria de la 1. TK. Inmediatamente aplicó el frenado de acción rápida y dio repetidamente la señal «Pozor» con la bocina de la locomotora. Sin embargo, las personas no lograron abandonar a tiempo la 1. TK en circulación y se produjo su colisión con el tren EC 175. El maquinista del tren EC 175 comunicó la producción del SU a través de TRS al jefe de estación en el enclavamiento central de la estación Lovosice, quien actuó según el Cuadro de Comunicación y activó el sistema integrado de emergencias.
-           En el SU fallecieron ambos empleados de la empresa Viamont DSP, a. s.
+Lovosice en el pk 496,093 con dos empleados de la empresa Viamont DSP, a. s., que se movían en el perfil de circulación de la 1. TK. Inmediatamente antes de la aparición de la MU, el gestor de la vía realizaba en la 1. TK, desde la parada Lovosice-město hacia la señal de entrada 1S de la est. Lovosice, mediante una cuadrilla compuesta por cinco obreros de vía y el capataz de la cuadrilla de la empresa Viamont DSP, a. s., trabajos de acabado en la superestructura ferroviaria. Estos trabajos se realizaban como actividad de explotación de la vía en la vía en servicio y consistían en el ajuste definitivo del lecho de balasto al perfil y en la eliminación de balasto del pie de la 1. TK. Dado que el responsable de los trabajos –el jefe de obra– no estuvo presente en el lugar de trabajo durante todo el período de trabajos de acabado del 20. 11. 2010, el capataz de la cuadrilla acordó telefónicamente con el jefe de estación del enclavamiento central de la est. Lovosice, al que comunicó que trabajaría con la cuadrilla en la 1. TK desde la preseñal hasta la señal de entrada a Lovosice desde la est. Prackovice nad Labem. Al mismo tiempo quería entregar la placa de seguridad, lo que el jefe de estación rechazó indicando que en estos casos la placa de seguridad no se entrega. Así pues, acordó con el jefe de estación que se vigilarían mutuamente. Tras este acuerdo, la conversación finalizó, sin ninguna de las demás medidas exigidas al concertar las condiciones para la realización del trabajo y el modo de comunicación mutua según las normas internas de referencia del gestor de la vía. El capataz de la cuadrilla estableció a continuación un puesto de trabajo en el tramo indicado en la 1. TK y se designó a sí mismo como vigilante de seguridad, con la condición de informar al resto de empleados de la cuadrilla mediante radio. No adoptó ninguna otra medida para garantizar la seguridad del trabajo de la cuadrilla. Inmediatamente antes de la aparición de la MU, la cuadrilla se dividió en dos grupos, de dos y tres empleados respectivamente. El primer grupo de dos empleados estaba a unos 114 m del capataz de la cuadrilla (vigilante de seguridad), mientras que el segundo grupo de tres empleados trabajaba cerca de él. Tras la orden del capataz de la cuadrilla y la información, transmitida por radio y reforzada con el silbato de la trompeta, sobre la circulación de un tren desde Ústí nad Labem, el grupo de tres empleados salió de la vía; el empleado con la radio del grupo de dos empleados dio a entender que había comprendido la orden de abandonar la vía y ambos comenzaron a salir de la 1. TK. Dado que estos empleados trabajaban en la banda izquierda del carril, salían de la vía por la 1. TK. Tras el paso del tren R 612, regresaron a la 1. TK, ya que el maquinista del tren EC 175 observó a unos 100 metros de distancia a ambas personas de espaldas al tren que se aproximaba, que se movían con herramientas sobre la superestructura ferroviaria de la 1. TK. Inmediatamente aplicó frenado de emergencia y dio repetidamente la señal «¡Atención!» con la bocina de la locomotora. Sin embargo, las personas no lograron abandonar la 1. TK en circulación a tiempo y se produjo su colisión con el tren EC 175. El maquinista del tren EC 175 comunicó la aparición de la MU mediante TRS al jefe de estación del enclavamiento central de la est. Lovosice, el cual actuó según el Plan de Comunicaciones y activó el sistema integrado de emergencia.
+
+           En la MU fallecieron ambos empleados de la empresa Viamont DSP, a. s.
 ## 4.2
 ### Análisis
-### 4.2.1 Evaluación de los hechos constatados según el punto 3 y exposición de las conclusiones sobre la causa
-del suceso ferroviario y la actuación de los servicios de emergencia
-El gestor de la infraestructura SŽDC, entidad estatal, celebró con el contratista, la empresa
-Viamont DSP, a. s., un contrato de obra, cuyo objeto de ejecución incluía, entre otros, la elaboración del tramo de la 1. TK en el km 495,680 – 497,800. Los trabajos debían realizarse, según el art. 3.1 de dicho contrato, en interrupciones de circulación. Esta disposición, según manifestación de los representantes de ambas partes contratantes, no excluye la realización de trabajos de acabado sin interrupción de circulación (véase el art. 6.13), siempre que se cumplan las normas del gestor de la infraestructura y las demás condiciones del contrato.
+### 4.2.1 Evaluación de los hechos constatados según el punto 3 y formulación de conclusiones sobre la causa del suceso excepcional y la actuación de los servicios de emergencia
+El gestor de la vía SŽDC, organización estatal, celebró con el contratista, la empresa Viamont DSP, a. s., un contrato de obra, cuyo objeto de ejecución incluía, entre otros, la remodelación del tramo de la 1. TK en el pk 495,680 – 497,800. Los trabajos debían realizarse, según el art. 3.1 de dicho contrato, en interrupciones de circulación. Esta disposición, según información de los representantes de ambas partes contratantes, no excluye la realización de trabajos de acabado sin interrupción de circulación (véase el art. 6.13), siempre que se cumplan las normas del gestor de la vía y las demás condiciones del contrato.
 
 ## Página 41
 
-La ejecución de la sección indicada de la 1. TK tuvo lugar el 19. 10. 2010, fecha en la que se estableció la interrupción de circulación de la 1. TK para estos trabajos. Los trabajos se realizaron conforme al contrato de obra, con la salvedad de que el jefe de STO Ústí n. L. hl. n., que ejercía la supervisión técnica de construcción por cuenta del contratante, durante la realización de los trabajos de acabado en la vía excluida el 19. 10. 2010, planteó la exigencia de ejecutar manualmente el ajuste definitivo del lecho de balasto al perfil, que según su declaración no había sido finalizado. Sobre este hecho, en su condición de persona que ejercía la supervisión de construcción, no realizó una anotación en el diario de construcción con la descripción de las deficiencias detectadas, no solicitó una anotación sobre el criterio del ejecutor respecto a dichas deficiencias, el plazo de finalización de los trabajos ni la firma mutua correspondiente. Esta anotación tampoco la solicitó el representante del ejecutor, el jefe de obra, cuya obligación era llevar el diario de construcción. Debido a esta doble negligencia en la gestión del diario de construcción y a las explicaciones diametralmente opuestas aportadas por ambas personas implicadas, no es posible determinar si el gestor de la vía sabía o no del plan del ejecutor de finalizar el trabajo en la 1. TK en servicio el 20. 10. 2010, y si por tanto debió adoptar las medidas correspondientes para dicho trabajo. Sobre la intención del ejecutor de trabajar el 20. 10. 2010 en la 1. TK en servicio, el gestor de la vía se enteró, sin embargo, de manera absolutamente inequívoca aún antes del inicio del trabajo, en el momento en que el capataz de la cuadrilla del ejecutor comunicó este hecho al empleado de tráfico, es decir, al jefe de estación de la estación de Lovosice. Las medidas correspondientes por parte del gestor de la vía se derivan de la diferencia en la evaluación del trabajo del ejecutor, cuando al trabajar en la vía excluida, es decir, conforme al contrato en la obra entregada, el ejecutor, en el sentido de la ley nº 266/1994 Sb., es evaluado únicamente como persona jurídica que opera en el ámbito de la vía con el consentimiento del gestor de la vía, ya que en la vía excluida no se presta servicio de transporte ferroviario y su eventual responsabilidad por amenaza a la explotación de la vía se evalúa solo conforme al § 22 apartado 4, respectivamente § 51 apartado 1 de dicha ley.
-
-Si, sin embargo, el ejecutor realiza el trabajo en una vía en la que se presta servicio de transporte ferroviario, ejerce las actividades del gestor de la vía, las cuales son actividades mediante las que se asegura, respectivamente, se mantiene la vía y se organiza el transporte ferroviario. Para el aseguramiento de la vía sirven, entre otros, también el mantenimiento de los componentes de la vía de circulación. Conforme a la normativa legal vigente, no es posible, sobre la base de una relación contractual en estos casos, transferir la responsabilidad por el incumplimiento de las obligaciones del gestor de la vía impuestas por las disposiciones de la ley nº 266/1994 Sb. y de las normas legales relacionadas, al ejecutor.
-
-El gestor de la vía en el caso concreto no respetó la evaluación arriba indicada de la posición del ejecutor desde la perspectiva de la ley nº 266/1994 Sb., lo que se deriva:
-
-a) de la explicación aportada por el representante responsable del contratante que participó en la elaboración del contrato de obra, quien sostiene que dicho contrato permite el trabajo del ejecutor sin interrupciones de circulación, pero que, en su opinión, el ejecutor no cumplió el marco estándar de cumplimiento de las condiciones establecidas en el contrato de obra y debió informar al contratante y acordar condiciones adicionales para la finalización de los trabajos (nuevas interrupciones de circulación, señales lentas de seguridad, supervisión del gestor de la vía), lo que no hizo;
-
-b) de los resultados de la supervisión estatal en materia de vías realizada por el DI sobre el expediente y de la evaluación de las causas y circunstancias del origen de esta MU, cuando se constató que el gestor de la vía transfiere la responsabilidad por su origen al ejecutor sobre la base del incumplimiento del § 22 apartado 4 de la ley nº 266/1994 Sb.
-
-           La responsabilidad por las actividades del gestor de la vía establecida por la ley nº 266/1994 Sb. y por las normas legales relacionadas, tal como se concibe, tiene como consecuencia perjudicial el hecho de que, en la investigación de la MU, no se constatan exhaustivamente todas las causas y circunstancias de su origen, y en las que sí se constatan, se produce una evaluación distorsionada de las mismas, lo que posteriormente se manifiesta en la no adopción, respectivamente, en la adopción de medidas correctivas insuficientes para prevenir el origen de la MU. Esta situación choca no solo con el sistema adoptado de garantía de la seguridad de la explotación de la vía por parte del gestor de la vía, sino especialmente con la intención del legislador de garantizar la máxima seguridad posible del transporte ferroviario.
-
-           Al no haber acordado personalmente el jefe de obra, en su condición de responsable del trabajo y persona profesionalmente competente, las condiciones para la realización del trabajo con el empleado de tráfico, al no haber comprobado el puesto de trabajo antes del inicio del trabajo, al no haber garantizado personalmente la seguridad del grupo de trabajo y al no haber
+La elaboración de la sección indicada de la 1. TK se realizó el 19. 10. 2010, fecha en la que se estableció la interrupción de circulación de la 1. TK para dichos trabajos. Los trabajos se llevaron a cabo de conformidad con el contrato de obra, con el hecho de que el jefe del STO Ústí n. L. hl. n. que ejercía la supervisión técnica de construcción del contratante durante la realización de los trabajos de acabado en la vía excluida el 19. 10. 2010, planteó la exigencia de realizar manualmente el ajuste definitivo del lecho de balasto al perfil, que según su declaración no había sido finalizado. Sobre este hecho, como persona que ejercía la supervisión técnica de construcción, no realizó una anotación en el diario de construcción con la descripción de las deficiencias detectadas, no solicitó una anotación con la postura del contratista sobre dichas deficiencias, el plazo de finalización de los trabajos y la inclusión de las firmas mutuas. Esta anotación tampoco la exigió el representante del contratista, el jefe de obra, cuya obligación era llevar el diario de construcción. Sobre la base de esta falta bilateral en la gestión del diario de construcción y de las explicaciones diametralmente diferentes aportadas por ambas personas implicadas, no es posible determinar si el gestor de la vía sabía o no del plan del contratista de finalizar el trabajo en la 1. TK en servicio el 20. 10. 2010, y si por tanto debió adoptar las medidas correspondientes para dicho trabajo. Sobre la intención del contratista de trabajar el 20. 10. 2010 en la 1. TK en servicio, el gestor de la vía se enteró, sin embargo, completamente y sin lugar a dudas, antes del inicio del trabajo, en el momento en que el capataz de la cuadrilla de trabajo del contratista comunicó este hecho al empleado de tráfico, es decir, al jefe de estación de la estación Lovosice.
+Las medidas correspondientes por parte del gestor de la vía se derivan de la diferencia en la evaluación del trabajo del contratista, cuando al trabajar en la vía excluida, es decir, según el contrato en la obra entregada, el contratista, en el sentido de la Ley n.º 266/1994 Sb., es evaluado únicamente como persona jurídica que opera en el ámbito de la vía con el consentimiento del gestor de la vía, ya que en la vía excluida no se opera transporte ferroviario y su eventual responsabilidad por la amenaza a la operación de la vía se evalúa solo según el § 22 apartado 4, respectivamente § 51 apartado 1 de dicha ley.
+Cuando, sin embargo, el contratista realiza el trabajo en una vía en la que se opera transporte ferroviario, ejerce las actividades del gestor de la vía, las cuales son actividades mediante las que se asegura, respectivamente, se mantiene la vía y se organiza el transporte ferroviario. Para el aseguramiento de la vía sirven, entre otros, también el mantenimiento de los componentes de la vía de circulación. Según la normativa legal vigente, no es posible, sobre la base de una relación contractual en estos casos, transferir la responsabilidad por el incumplimiento de las obligaciones del gestor de la vía impuestas por las disposiciones de la Ley n.º 266/1994 Sb. y de la normativa legal relacionada, al contratista.
+El gestor de la vía en el caso concreto no respetó la evaluación anterior de la posición del contratista desde el punto de vista de la Ley n.º 266/1994 Sb., lo que se deriva:
+a) de la explicación aportada por el representante responsable del contratante que participó en la elaboración del contrato de obra, quien sostiene que este contrato permite el trabajo del contratista sin interrupciones de circulación, pero que, en su opinión, el contratista no cumplió el marco estándar de cumplimiento de las condiciones dadas por el contrato de obra y debió haber informado al contratante y acordado las condiciones adicionales para la finalización de los trabajos (nuevas interrupciones de circulación, lenteces de seguridad, supervisión del gestor de la vía), lo que no hizo;
+b) de los resultados de la supervisión estatal en materia de vías realizada por el DI sobre el expediente y de la evaluación de las causas y circunstancias del origen de esta MU, cuando se constató que el gestor de la vía transfiere la responsabilidad de su origen al contratista sobre la base del incumplimiento del § 22 apartado 4 de la Ley n.º 266/1994 Sb.
+           La responsabilidad de esta manera concebida por las actividades del gestor de la vía establecidas por la Ley n.º 266/1994 Sb. y la normativa legal relacionada tiene como consecuencia perjudicial el hecho de que, en la investigación de las MU, no se constatan exhaustivamente todas las causas y circunstancias de su origen, y en las que sí se constatan, se produce una evaluación distorsionada de las mismas, lo que posteriormente se manifiesta en la no adopción, respectivamente, en la adopción de medidas correctivas insuficientes para prevenir el origen de las MU. Esta situación choca no solo con el sistema adoptado de garantía de la seguridad de la operación de la vía por parte del gestor de la vía, sino especialmente con la intención del legislador de garantizar la mayor seguridad posible del transporte ferroviario.
+           Al no haber acordado personalmente el jefe de obra, como responsable del trabajo y persona profesionalmente competente, con el empleado de tráfico las condiciones para la realización del trabajo, al no haber comprobado el puesto de trabajo antes del inicio del trabajo, al no haber garantizado personalmente la seguridad del grupo de trabajo y al no haber
 
 ## Página 42
+
 
 no controlaba el cumplimiento de las medidas adoptadas para garantizar la seguridad del puesto de trabajo, no cumplió las obligaciones que le fueron impuestas por la norma SŽDC (ČD) Op 16 y la Resolución n.º 1.
            Todas las actividades del director de trabajo las dejó realizar a cargo del maestro de cuadrilla, aunque según el contrato de obra, y por tanto como persona cualificada para su realización, solo él mismo había sido designado. Como consecuencia de esta actuación, el gestor de la vía no garantizó que la explotación de la vía la realizaran únicamente personas cualificadas, y así se creó un margen para un enfoque superficial, respectivamente irresponsable, por parte de otras personas implicadas en el MU en el cumplimiento de las disposiciones normativas pertinentes.
@@ -1314,38 +1311,40 @@ El gestor de la vía no garantizó la interconexión entre los empleados que en 
 
 ## Página 43
 
-autorizado por la normativa del gestor de la infraestructura. Debido a su desconocimiento de las relaciones contractuales, tampoco puede determinar si se trata de una persona designada para la función de jefe de obra y, por tanto, autorizada para actuar en su nombre. En los carnés emitidos para el acceso a las instalaciones y a la vía de tráfico ferroviario en servicio del gestor de la infraestructura, si bien en las Instrucciones se establece la obligación de presentarse antes del acceso a dichas zonas ante el empleado jefe de la unidad organizativa del gestor de la infraestructura, o bien ante el jefe de estación o el despachador, la norma interna de SŽDC Ob1 permite, bajo determinadas condiciones, la notificación también telefónica. En el caso concreto, el empleado de tráfico no disponía de información alguna sobre el hecho de que debieran realizarse trabajos en la 1. TK en servicio.
-           Los trabajadores de vía de la empresa Viamont DSP, a. s., que sufrieron un accidente mortal durante el MU, entraron en el perfil de paso de la 1. TK en servicio sin que, tras la previa orden de despejo del puesto de trabajo por motivo del paso de trenes dada por el capataz de la cuadrilla, se les hubiera requerido para ello. Incumplieron así la obligación que les impone la norma interna de SŽDC (ČD) Op 16, consistente en velar, según sus posibilidades, por su propia seguridad y su salud, y en cumplir las normas, las normas de seguridad, los procedimientos tecnológicos y las instrucciones emitidas por el gestor de la infraestructura para garantizar la PRL.
+autorizado por la normativa del gestor de infraestructura. Debido a su desconocimiento de las relaciones contractuales, tampoco puede comprobar si se trata de una persona designada para la función de responsable de trabajos y, por tanto, autorizada para actuar en su nombre. En los acreditativos emitidos para el acceso a las instalaciones y a la vía de tráfico ferroviario en explotación del gestor de infraestructura, si bien en las Instruciones se establece la obligación de presentarse antes del acceso a dichas zonas ante el empleado responsable de la unidad organizativa del gestor de infraestructura, o bien ante el jefe de estación o el despachador, la normativa interna SŽDC Ob1 permite, bajo determinadas condiciones, la notificación también telefónica. En el caso concreto, el empleado de tráfico no disponía de información alguna sobre el hecho de que debieran realizarse trabajos en la 1. TK en explotación.
+           Los trabajadores de vía de la empresa Viamont DSP, a. s., que sufrieron lesiones mortales en el MU, accedieron al perfil de paso de la 1. TK en circulación sin que, tras la previa orden de despejo del puesto de trabajo por motivo del paso de trenes dada por el capataz de cuadrilla, se les hubiera requerido para ello. Incumplieron así la obligación que les impone la normativa interna de SŽDC (ČD) Op 16, consistente en velar, según sus posibilidades, por su propia seguridad y su salud, y en cumplir las normas, las normas de seguridad, los procedimientos tecnológicos y las instrucciones emitidas por el gestor de infraestructura para garantizar la PRL.
 ## 4.3
 ### Conclusiones
-4.3.1 Causas inmediatas del suceso excepcional, incluidos los factores que contribuyeron al mismo y que estuvieron relacionados con la actuación de las personas implicadas o con el estado del material rodante o de las instalaciones técnicas
+4.3.1 Causas inmediatas del suceso excepcional, incluidos los factores que contribuyeron al mismo y que estuvieron relacionados con la actuación de las personas implicadas o con el estado de los vehículos ferroviarios o de las instalaciones técnicas
            La causa inmediata del suceso excepcional fue:
 la entrada no autorizada de dos empleados de la empresa Viamont DSP, a. s., en el
 •
-perfil de paso de la 1.ª vía de servicio en el momento en que por dicha vía circulaba el tren EC 175.
+perfil de paso de la 1.ª vía de servicio en explotación en el momento en que por dicha
+vía circulaba el tren EC 175.
 ### 4.3.2 Causas fundamentales relacionadas con la cualificación, los procedimientos y el mantenimiento
            La causa fundamental del suceso excepcional fue:
-el incumplimiento de los procedimientos tecnológicos del gestor de la infraestructura,
+el incumplimiento de los procedimientos tecnológicos del gestor de infraestructura, que
 •
-que regulan las actividades de garantía de la seguridad de los empleados que trabajan y se desplazan durante la explotación en la vía.
+regulan las actividades de garantía de la seguridad de los empleados que trabajan y se
+desplazan durante la explotación en la plataforma vial.
 ### 4.3.3 Causas derivadas del marco normativo y del uso del sistema de garantía de la seguridad
-la no distinción entre la actividad del contratista en la obra en la vía excluida sin
+la no distinción entre la actividad del contratista en la obra de la vía excluida de la
 •
-explotación de tráfico ferroviario y la actividad realizada por el contratista para la
-seguridad de la vía en la vía de tráfico en servicio, con el consecuente no
-establecimiento de las medidas necesarias por parte del gestor de la
+circulación de tráfico ferroviario y la actividad realizada por el contratista para la
+seguridad de la infraestructura en la vía de tráfico en explotación, con el
+consiguiente no establecimiento de las medidas necesarias por parte del gestor de
 infraestructura, en particular en lo que respecta a la actividad de control en esta
 materia;
-la falta de garantía de la interconexión entre los empleados del gestor de la
+la falta de coordinación entre los empleados del gestor de infraestructura responsables
 •
-infraestructura responsables de las relaciones contractuales y su cumplimiento con
-el contratista, y los empleados de tráfico que participan en la garantía de la
-seguridad de los empleados del contratista que realizan, en virtud de dichas
-relaciones contractuales, actividades del gestor de la infraestructura en el perfil de
-paso y en el espacio libre transitable de la vía en servicio.
-
+de las relaciones contractuales y su cumplimiento con el contratista, y los empleados
+de tráfico que participan en la garantía de la seguridad de los empleados del
+contratista que realizan, en virtud de dichas relaciones contractuales, actividades del
+gestor de infraestructura en el perfil de paso y en el espacio libre transitable de la
+vía en explotación.
 
 ## Página 44
+
 
 ## 4.4
 ### Hallazgos complementarios
@@ -1372,56 +1371,47 @@ cumplimiento de todos los puntos del «Contrato de obra» con énfasis en:
 del formulario actualizado.
            El contratista, empresa Viamont DSP, a. s., en su Medida posterior al accidente adoptada para accidentes de trabajo con resultado de muerte de fecha 20. 10. 2010, adoptó una medida consistente en la reciclación de la norma SŽDC (ČD) Op 16, en particular los artículos 10, 11 y 44. Asimismo, instruyó a los jefes de obra (capataces) para que, en caso de imposibilidad de cumplir con la seguridad laboral según la norma SŽDC (ČD) Op 16, rechazaran el trabajo previa consulta con sus superiores (jefes de obra).
 
-
 ## Página 45
 
 ## 6 RECOMENDACIONES DE SEGURIDAD
-La Inspección Ferroviaria, como autoridad administrativa competente en la materia según lo dispuesto en el apartado 5 del artículo 53b de la Ley núm. 266/1994 Sb., con base en el resultado de la investigación de las causas y circunstancias del suceso excepcional, recomienda al gestor de la infraestructura SŽDC, organización estatal:
-garantizar de forma adecuada, en particular respecto de los empleados de explotación,
+La Inspección Ferroviaria, como autoridad administrativa competente en la materia según lo dispuesto en el apartado 5 del § 53b de la Ley núm. 266/1994 Sb., sobre ferrocarriles, en su redacción vigente, sobre la base del resultado de la investigación de las causas y circunstancias de la ocurrencia del suceso excepcional, recomienda al explotador de la vía SŽDC, organización estatal:
+garantizar de manera adecuada, especialmente entre el personal operativo, la información
 •
-la información sobre la diferencia entre las actividades de los contratistas en la vía
-excluida sin explotación de tráfico ferroviario y las actividades en la vía de tráfico en
-servicio, incluidas las medidas que de ello se derivan, en el sentido del sistema de
-seguridad adoptado;
-garantizar la información oportuna a los empleados de tráfico que participan, durante
+sobre la diferencia entre las actividades de los contratistas en una vía excluida sin explotación de tráfico ferroviario y las actividades en una vía de circulación explotada, incluidas las medidas que de ello se derivan, en el sentido del sistema de seguridad adoptado;
+garantizar la información oportuna del personal de tráfico que participa en el desempeño
 •
-el servicio, en la garantía de la seguridad de los empleados del contratista que realizan
-actividades durante la explotación de la vía, o que se desplazan por el perfil de paso y
-el espacio de maniobras de la vía en servicio, sobre el plazo de ejecución de dicha
-actividad, incluida la orientación sobre su competencia profesional de referencia y, en
-su caso, la entrega de las instrucciones que de ello se deriven.
-A la Autoridad Ferroviaria, de conformidad con lo dispuesto en el apartado 5 del artículo 53b de la Ley núm. 266/1994 Sb., de ferrocarriles, en su redacción vigente, la Inspección Ferroviaria le recomienda la adopción de una medida propia encaminada a garantizar la realización de la recomendación de seguridad anteriormente mencionada también en los demás gestores de la infraestructura ferroviaria de la República Checa.
+de sus funciones en la garantía de la seguridad de los empleados de los contratistas que realizan actividades durante la explotación de la vía, o que se desplazan en el perfil de paso y en el espacio de maniobra de la vía explotada, sobre la fecha de realización de dicha actividad, incluida la orientación en su competencia profesional de referencia y, en su caso, la transmisión de las instrucciones que de ello se derivan.
+A la Autoridad Ferroviaria, de conformidad con lo dispuesto en el apartado 5 del § 53b de la Ley núm. 266/1994 Sb., sobre ferrocarriles, en su redacción vigente, la Inspección Ferroviaria recomienda la adopción de una medida propia encaminada a garantizar la realización de la recomendación de seguridad anteriormente mencionada también en el resto de explotadores de vías ferroviarias en la República Checa.
 En Praga, a 29 de marzo de 2012
-Jan Tesař s. f.
-Zdeněk Malý s. f.
-inspector superior
-director
-Inspectorado Territorial de Praga
-Inspectorado Territorial de Praga
-
+Jan Tesař v. r.
+Zdeněk Malý v. r.
+Inspector jefe
+Director
+De la Inspección Territorial de Praga
+De la Inspección Territorial de Praga
 
 ## Página 46
+
 
 ## 7 ANEXOS
 Foto n.º 4: Cabeza del tren EC 175
 
-
 ## Página 47
+
 
 Foto n.º 5: Parte trasera del tren EC 175
 Foto n.º 6: Vista a la izquierda en el sentido de marcha del tren EC 175
 
-
 ## Página 48
+
 
 Foto n.º 7: Vista a la derecha en el sentido de marcha del tren EC 175
 Foto n.º 8: Vista de la vía en dirección a Prackovice nad Labem
 
-
 ## Página 49
+
 
 Foto n.º 9: Vista de la vía en dirección a la est. de Lovosice
 Foto n.º 10: Lugar de producción del suceso excepcional
-
 
 ## Página 50

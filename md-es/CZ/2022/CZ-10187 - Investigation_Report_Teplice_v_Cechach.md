@@ -10,13 +10,14 @@ chars: 127066
 ratio_longitud: 1.27
 tokens_in: 58146
 tokens_out: 40838
-verificacion: revisar
-notas_cifras: ["bloque 1: original bilingüe: se compara contra el idioma principal (EN)", "bloque 2: cifras cortas: 2/170", "bloque 10: original bilingüe: se compara contra el idioma principal (CS)"]
-avisos: ["bloque 10: ratio 1.73"]
 fecha_proceso: 2026-11-21
 generador: traducir_md_es.py (traducción IA + verificación numérica)
+verificacion: ok
+notas_cifras: ["página 1: original bilingüe: se compara contra el idioma principal (EN)", "página 3: original bilingüe: se compara contra el idioma principal (PT)", "página 4: original bilingüe: se compara contra el idioma principal (CS)", "página 6: original bilingüe: se compara contra el idioma principal (CS)", "página 7: original bilingüe: se compara contra el idioma principal (CS)", "página 11: original bilingüe: se compara contra el idioma principal (CS)"]
 ---
+
 ## Página 1
+
 
 República Checa
 The Rail Safety Inspection Office
@@ -39,13 +40,13 @@ IČ: 75009561
 mail@dicr.cz
 tel.: +420 736 521 003
 
-
 ## Página 2
+
 
 Este informe final es público y todos los hechos en él expuestos están respaldados por el expediente de investigación.
 
-
 ## Página 3
+
 
 ### 1 RESUMEN
 Fuente: Drážní inspekce
@@ -68,8 +69,8 @@ no respeto de la señal «Alto» de la señal principal de salida L3 de la estac
 ◦falta de atención suficiente a la observación de dicha señal;
 ◦no seguimiento de la indicación del repetidor de señal del control automático de tren, pese a la necesidad no estándar de operar el botón de vigilancia.
 
-
 ## Página 4
+
 
 No se ha detectado ningún factor contribuyente por parte de la Drážní inspekce.
 No se ha detectado ninguna causa sistémica por parte de la Drážní inspekce.
@@ -79,8 +80,8 @@ Al Drážní úřad, o en su caso en colaboración con la autoridad administrati
 •
 con el fin de mejorar las condiciones de trabajo y eliminar posibles fallos involuntarios (errores) de los maquinistas, la adopción de una medida propia que (por ejemplo, mediante una medida constructivo-técnica adecuada) garantice la eliminación de una fuente de luz que pudiera confundirse con las señales ferroviarias en el sentido del § 9 apartado 1 de la Ley n.º 266/1994 Sb., concretamente las luces del semáforo de carretera en la intersección de las calles Na Hrázi y Dubská en Teplice.
 
-
 ## Página 5
+
 
 ### SUMMARY
 29th January 2022, 13:12 (12:12 GMT).
@@ -125,8 +126,8 @@ interchangeable with signal aspects in meaning of section 9, paragraph 1 of Act 
 266/1994 Coll., specifically traffic light on crossroad Na Hrázi and Dubská in
 Teplice.
 
-
 ## Página 6
+
 
 # Contenido
 1 RESUMEN..................................................................................................................3
@@ -170,6 +171,7 @@ SUMMARY.........................................................................
 
 ## Página 7
 
+
 4.2.2 Factores o consecuencias derivados de la instalación y puesta en servicio de vehículos ferroviarios, infraestructura ferroviaria o instalaciones técnicas.....................................34
 4.2.3 Factores o consecuencias relacionados con fabricantes de vehículos ferroviarios u otros proveedores de productos ferroviarios...........................................................................34
 4.2.4 Factores o consecuencias derivados del mantenimiento y modificación de vehículos ferroviarios o instalaciones técnicas..................................................................................................34
@@ -198,8 +200,8 @@ SUMMARY.........................................................................
 6 RECOMENDACIONES DE SEGURIDAD...................................................................................42
 ANEXOS............................................................................................................................43
 
-
 ## Página 8
+
 
 ### Lista de siglas y símbolos utilizados
 ARR
@@ -243,8 +245,8 @@ pasaje a nivel
 žst.
 estación de ferrocarril
 
-
 ## Página 9
+
 
 ### Lista de siglas de la legislación, normas y normativa interna utilizadas
 ley núm. 266/1994 Sb.
@@ -268,8 +270,8 @@ normativa interna del operador ČD, «ČD V2 Reglamento para las tripulaciones d
 ČD D2
 normativa interna del operador ČD, «ČD D2 Reglamento para la explotación del transporte ferroviario», en la redacción vigente en el momento de producirse el suceso extraordinario
 
-
 ## Página 10
+
 
 ### 2 LA INVESTIGACIÓN Y SU CONTEXTO
 ### 2.1 Decisión de iniciar la investigación
@@ -293,8 +295,8 @@ La Inspección Ferroviaria, a través del operador ČD, solicitó a los maquinis
 ### 2.7 Descripción de la investigación, los métodos y las técnicas utilizados para acreditar los hechos y los hallazgos recogidos en el informe
 En el marco de la investigación del suceso extraordinario, la DI actuó como sigue, es decir, utilizó, entre otros, los siguientes métodos y técnicas:
 
-
 ## Página 11
+
 
 •
 inspección del lugar del suceso extraordinario, de las instalaciones técnicas, de las instalaciones de infraestructura y del tren implicado Os 16936;
@@ -333,8 +335,8 @@ Hora:
 Lugar:
 vía férrea, categoría nacional, estación de ferrocarril Teplice v Čechách, vía de estación n.º 3, señal de salida L3, pk 18,374.
 
-
 ## Página 12
+
 
 El lugar del descarrilamiento del tren Os 16936 se encontraba en el pk 18,384, en el desvío n.º 12.
 Coordenadas GPS:
@@ -351,6 +353,7 @@ La inspección del tren determinó lo siguiente:
 El tren Os 16936 se detuvo con el frente del coche de mando en el pk 18,409, en el espacio de la rama de corazón del desvío n.º 12. Los tres primeros bogies del coche de mando se encontraban sobre los raíles en la dirección recta del desvío, es decir, hacia la 3.ª vía de estación; la rueda derecha del 4.º bogie del coche de mando estaba encajada entre la lengüeta y el contraquie, y la rueda izquierda se encontraba en la cima del contraquie izquierdo. El desvío se encontraba en posición terminal, los siguientes bogies del tren estaban sobre los raíles y en el desvío continuarían su circulación por la rama de desviación a la derecha.
 
 ## Página 13
+
 
 El tren tenía una longitud de 95 m, un peso de 225 t, un porcentaje de frenado necesario del 95 %, un porcentaje de frenado real del 105 %, estaba frenado por el método de frenado I en el modo R. La velocidad máxima permitida del tren en el lugar del MU era de 50 km.h-1.
 El coche de mando n.º CZ-ČD 50 54 80-30 007-6 estaba, en el momento de la aparición del MU, equipado con un dispositivo de registro automático de datos – equipo electrónico de registrador de velocidad del fabricante UniControls – Tramex tipo RE1xx. La hora mostrada en la pantalla del registrador de velocidad estaba adelantada 4 s respecto a la HEC. A la hora exacta de las 15:18:00 h se registró en el registrador de velocidad una marca de tiempo mediante la bocina de la locomotora. La DI solicitó los datos registrados con el fin de su propio análisis – ver punto 3.1.7, el análisis de los datos lo realizó también el transportista. En el radioteléfono se había seleccionado la red TRS, canal 66, tren 16936. El conmutador de dirección estaba en posición adelante, la palanca de freno directo estaba en posición liberado, la palanca de mando principal (combinada) estaba en posición neutra. El conmutador de modos del AVV estaba en posición «AUT» (funciona el ARR, la función de frenado de destino CB está desactivada). La presión en el depósito de aire principal era de 9,6 bar, la presión en la tubería principal era de 5 bar, la presión en los cilindros de freno era de 3 bar, el coche de mando estaba frenado con el freno de estacionamiento. El VZ estaba encendido, en el repetidor de señal luminosa brillaba la luz azul.
@@ -370,6 +373,7 @@ Examen del dispositivo de seguridad:
 Del examen de la sala de operaciones de los jefes de estación de la est. Teplice v Čechách y de la sala tecnológica del SZZ se constató que el SZZ en cuestión presentaba, antes de la aparición del MU y en el momento de la aparición del MU, un estado sin averías (funcionamiento normal) y estaba controlado por la jefa de estación V2 de la est. Teplice v Čechách. La hora del TPC estaba retrasada 2 s respecto a la HEC. En el registrador de averías del equipo de comunicaciones y seguridad no constaba, en relación con el MU, ninguna avería o defecto no eliminado.
 
 ## Página 14
+
 
 La visibilidad de la señal «Alto» de la señal L3 se verificó a una distancia mínima de 200 m, la señal era de cinco luces, de poste, tipo AŽD 71, estaba dotada de la placa reglamentaria y de la banda indicadora para la circulación de trenes y para las maniobras, complementadas con una placa indicadora con el dígito «5» y un preaviso con la señal «Señal principal fusionada con el preaviso».
 La visibilidad de la señal «Alto» de la señal L3 estaba garantizada como mínimo a una distancia de 200 m, lo que estaba en consonancia con el § 7 del decreto n.º 173/1995 Sb. Las señales de las señales principales deben ser visibles desde el vehículo ferroviario de cabeza detenido como mínimo a una distancia de 100 m y desde el vehículo ferroviario de cabeza circulando a la velocidad máxima permitida al menos durante 12 s. El tiempo de visibilidad puede reducirse hasta 7 s, entre otros, en el caso de la señal de salida o de la señal de vía al final de la vía en una estación. Con una velocidad máxima permitida de 50 km.h-1 y un tiempo de visibilidad requerido de la señal de salida de 7 s, la distancia mínima requerida de visibilidad de la señal en cuestión es de 97 m, respectivamente 100 m.
@@ -396,6 +400,7 @@ No se produjo daño en las cosas transportadas, equipajes ni en otros bienes.
 Como consecuencia de la aparición del MU se detuvo la circulación en la est. Teplice v Čechách desde las 13:12 h hasta las 14:32 h, momento en que se restableció la circulación en el grupo de vías pares. A las 18:10 h se restableció la circulación en toda la est. Teplice v Čechách. Se cancelaron 7 trenes de transporte de pasajeros del transportista ČD. En total se produjo un retraso de 10 trenes de transporte de pasajeros del transportista ČD de 204 min y de un tren de transporte de mercancías de 13 minutos.
 
 ## Página 15
+
 
 ### 3.1.6 Identificación de las personas, sus funciones y de los sujetos participantes
 Personas participantes:
@@ -433,6 +438,7 @@ De los datos registrados se desprende, entre otros:
 dirección de circulación adelante);
 
 ## Página 16
+
 
 •
 13:12:10 h velocidad 1 km.h-1, arranque del tren Os 16936 en la est. Teplice v Čechách,
@@ -475,6 +481,7 @@ La est. Teplice v Čechách estaba equipada con un dispositivo de seguridad de e
 El SZZ de la est. Teplice v Čechách permitía el mando y la supervisión remotos del SZZ de la est. Řetenice.
 
 ## Página 17
+
 
 Los ámbitos de actuación de los distintos jefes de estación se establecieron, de acuerdo con el art. 61 del Reglamento de Circulación de la estación Teplice v Čechách, de la siguiente manera:
 •
@@ -534,8 +541,8 @@ finalización de la secuencia de confirmación «asdf» con la pulsación de la 
 13:12:41 h
 pérdida de la indicación de la posición «más» del par de agujas n.º 12/14;
 
-
 ## Página 18
+
 
 •
 13:12:43 h
@@ -578,42 +585,42 @@ Conductor del tren Os
 ◦estaba sentado en el coche de mando, fuera del tren estaba la jefa de tren, que cumplía con sus obligaciones;
 ◦con la composición se encontraba en la 3.ª vía de estación de la estación Teplice v Čechách junto al andén 1;
 
-
 ## Página 19
 
-◦a las 13:12 h, en la hora de salida regular, miró hacia la señal, que se encontraba a una distancia de unos 100 a 150 m por delante de él;
+◦a las 13:12 h, en la hora de salida prevista, miró la señal, que se encontraba a una distancia de unos 100 a 150 m por delante de él;
 ◦la visibilidad era buena, no estaba reducida por nada, no lleva gafas – ve bien;
-◦en la señal vio subconscientemente una luz verde, se asomó por la ventanilla, dio con la mano la señal «V» a la jefa de tren, la jefa de tren dio con la mano la señal «T» y subió al tren;
+◦en la señal vio subconscientemente una luz verde, se asomó por la ventanilla, dio con la mano la señal "V" al jefe de tren, el jefe de tren dio con la mano la señal "T" y subió al tren;
 ◦cerró las puertas del tren y se puso en marcha;
-◦a unos 100 m registró en la señal la señal «Alto» y aplicó inmediatamente el freno de emergencia;
+◦tras unos 100 m registró en la señal la indicación "Alto" y aplicó inmediatamente el freno rápido;
 ◦la velocidad en ese momento podía ser de unos 35 km·h-1;
-◦detuvo el tren a unos 30 m más allá de la señal, habiendo hecho pasar el coche de mando por la aguja, que se encontraba en su campo visual accionada en línea recta hacia la 3.ª vía secundaria muerta;
-◦posteriormente el jefe de estación le comunicó que estaba precisamente estableciendo la vía de tren. Esto significa que la aguja se accionó bajo el coche de mando, y por ello el coche de mando descarriló;
-◦tras detener el tren, llamó al jefe de estación y le dijo que pensó que la señal había «caído» a «Alto», pero el jefe de estación le comunicó que había pasado la señal en «Alto»;
-◦inmediatamente se dio cuenta de que el color verde que brillaba no era la señal, sino el semáforo de carretera, con cuya luz verde confundió la señal «Vía libre» en la señal;
-◦la señal está sustancialmente más cerca que el semáforo de carretera, que está a lo lejos;
-◦en el momento en que se encontraba con la composición en la estación, vio brevemente el color verde y, suponiendo que se trataba de la señal para la 3.ª vía de estación, pensó que podía circular;
-◦en la composición no registró ninguna avería, él mismo se sentía sano y no estaba cansado;
-◦manifestó su sincero pesar, en su larga práctica no le había ocurrido algo similar, no entiende cómo pudo ocurrirle esto.
+◦detuvo el tren a unos 30 m detrás de la señal, habiendo hecho pasar la locomotora de mando por una aguja que, en su campo visual, estaba cambiada en línea recta a la 3b. vía muerta SK;
+◦posteriormente la jefa de estación le comunicó que acababa de establecer la vía de tren. Esto significa que la aguja se cambió bajo la locomotora de mando, y por eso la locomotora de mando descarriló;
+◦tras la detención del tren, llamó la jefa de estación y le dijo que pensó que la señal había "caído" a "Alto", pero la jefa de estación le comunicó que había pasado la señal en "Alto";
+◦inmediatamente se dio cuenta de que el color verde que brillaba no era la señal, sino un semáforo de carretera, con cuya luz verde confundió la indicación "Vía libre" en la señal;
+◦la señal está considerablemente más cerca que el semáforo de carretera, que está a lo lejos;
+◦en el momento en que estaba detenido con el convoy en la estación, vio brevemente el color verde y, creyendo que se trataba de la señal para la 3.ª vía de estación, pensó que podía marchar;
+◦en el convoy no registró ninguna avería, él mismo se sentía sano y no estaba cansado;
+◦manifestó un sincero pesar, en su larga práctica no le había ocurrido algo así, no entiende cómo pudo sucederle.
+
 •
-Conductor del tren Os 16936 – Acta redactada con el empleado el 4.
-   2.
-    2022 con la presencia del DI:
-◦el 29.1.2022 ingresó como conductor en el turno Rg 605 – Rg 6824 en la estación Most;
-◦se le asignó el HDV 162.079-8 con el coche de mando 50 54 80-30 007-6 en cabeza;
+Maquinista del tren Os 16936 – Acta redactada con el empleado el 4.
+   2.
+   2022 con la presencia del DI:
+◦el 29.1.2022 entró como maquinista en el turno Rg 605 – Rg 6824 en la est. Most;
+◦se le asignó el HDV 162.079-8 con la locomotora de mando 50 54 80-30 007-6 en cabeza;
 ◦para el desempeño de su función tiene realizadas todas las pruebas prescritas, el conocimiento de la línea y la aptitud médica vigente;
-◦con el mencionado HDV dirigió después los trenes entre la estación Teplice v Čechách y la estación Litvínov;
+◦con el mencionado HDV condujo después los trenes entre la est. Teplice v Čechách y la est. Litvínov;
 ◦el desempeño del servicio transcurrió sin incidencias, incluido el tren anterior Os 16937;
-◦tras su llegada a la estación Teplice v Čechách, pasó al otro lado de la composición y preparó la composición para la circulación del tren Os 16936, disponiendo de unos 20 min para la preparación;
-◦en la hora de salida, hacia las 13:12 h, miró hacia la señal y vislumbró la señal «40 km/h y vía libre»;
-◦miró por la ventanilla y dio la señal manual «Llamada a la disponibilidad»;
-◦de la jefa de tren recibió la señal «Autorización para la salida» y, cuando subió a la composición, aseguró las puertas y esperó a que se apagara la luz indicadora de apertura de las puertas;
-◦a continuación puso el tren en movimiento y volvió a mirar por la ventanilla para comprobar si alguien estaba corriendo para alcanzarlo;
-◦más adelante miró de nuevo hacia delante y vislumbró la señal «Alto» en la señal de salida L3;
+◦tras la llegada a la est. Teplice v Čechách pasó al otro lado del convoy y preparó el convoy para la circulación del tren Os 16936, disponía de unos 20 min para la preparación;
+◦en la hora de salida, hacia las 13:12 h, miró la señal y vislumbró la indicación "40 km/h y vía libre";
+◦asomó la cabeza por la ventanilla y dio la señal manual "Llamada a la disponibilidad";
+◦del jefe de tren recibió la señal "Consentimiento para la salida" y, cuando subió al convoy, aseguró las puertas y esperó a que se apagara la luz indicadora de apertura de puertas;
+◦a continuación puso el tren en movimiento y volvió a asomarse por la ventanilla para comprobar si alguien estaba corriendo para alcanzarlo;
+◦más adelante volvió a mirar hacia delante y vislumbró la indicación "Alto" en la señal de salida L3;
 ◦inmediatamente comenzó a frenar con freno de acción rápida;
 
-
 ## Página 20
+
 
 ◦tras detenerse, contactó por teléfono con el jefe de estación de la estación Teplice v Čechách para decirle que la señal había «caído», esta le comunicó que no, sino que había pasado la señal «Alto» en la señal de salida;
 ◦el conductor se dio cuenta de que se había equivocado y había confundido la señal luminosa con la luz del semáforo de carretera;
@@ -637,6 +644,7 @@ Conductor del tren Os 16936 – Acta redactada con el empleado el 4.
 ▪a la pregunta del DI, si antes de la salida del tren algo le distrajo o interrumpió, indicó que no.
 
 ## Página 21
+
 
 •
 Jefe de estación V2 de la estación de Teplice v Čechách – Acta levantada con el empleado el día
@@ -665,8 +673,8 @@ y apta desde el punto de vista médico;
 ◦presta servicio en la estación de Teplice v Čechách desde junio de 2021 y el tren Os 16936 salía durante sus turnos siempre desde la 3.ª vía de estación; no recuerda que fuera de otra manera alguna vez;
 ◦con el maquinista del tren Os 16936 se comunicó antes de la aparición del MU únicamente hacia las 7. h de la mañana, cuando este recibió la orden «V» (que contiene circulaciones lentas) para todos los trenes que conducía.
 
-
 ## Página 22
+
 
 •
 Jefe de estación V2 de la estación de Teplice v Čechách – Registro oficial de la declaración presentada ante la Policía de la República Checa, levantado el 8.
@@ -703,8 +711,8 @@ k    relativa al suceso extraordinario, levantada el 7. 2. 2022:
 ◦tras su entrada en la estación de Most se desplazó en circulación de servicio a la estación de Teplice v Čechách;
 ◦en el tren en cuestión acompañó los trenes desde la estación de Teplice v Čechách hasta la estación de Litvínov y de vuelta;
 
-
 ## Página 23
+
 
 ◦el primer viaje de ida y vuelta a la estación de Litvínov lo realizó un maquinista del turno de noche; a continuación entró el maquinista implicado en el MU;
 ◦a la hora de salida del tren Os 16936 se encontraba en el andén junto al principio del tren;
@@ -745,8 +753,8 @@ para la salida»;
 y el maquinista comenzó a frenar lentamente hasta la detención del tren. Pensó que el tren había invadido la aguja;
 ◦el tren se detuvo tras aproximadamente 200 metros junto a la aguja;
 
-
 ## Página 24
+
 
 ◦tras la detención del tren, dijo a los pasajeros que permanecieran en sus asientos y que iba a obtener la información necesaria;
 ◦el maquinista, tras la detención del tren, salió de la cabina y hablaba de que había luz verde;
@@ -773,6 +781,7 @@ Administración de Infraestructura (SDC) de Ústí nad Labem se pronunció el 13
 
 ## Página 25
 
+
 Al evaluar la obra y el procedimiento constructivo de la obra "Teplice, Reconstrucción y ampliación de la instalación de señalización luminosa existente SSZ TP.08 - Dubská - Na Hrázi - Spojenecká", no se evaluó la influencia de la fuente luminosa del semáforo viario en cuestión, que podría confundirse con las señales ferroviarias, en la explotación de la vía y del transporte ferroviario.
 ### 3.2 Descripción fáctica del suceso
 ### 3.2.1 Secuencia de hechos que condujeron al suceso extraordinario
@@ -784,8 +793,8 @@ Tras la detención del tren, los empleados implicados de la empresa transportist
 •
 13:13 h el maquinista del tren Os 16936 notificó la producción del SE a la jefa de estación V2 de la estación Teplice v Čechách;
 
-
 ## Página 26
+
 
 •
 13:20 h la jefa de estación V2 de la estación Teplice v Čechách notificó la producción del SE al despachista operativo CDP Praga y activó el IZS;
@@ -821,32 +830,31 @@ Conforme al § 12 apartados 1 y 3 del decreto n.º 173/1995 Sb., los desvíos, r
 Conforme al § 15 apartado 1 letras a) y b) del decreto n.º 173/1995 Sb., la salida de un tren de la estación puede autorizarse sin la adopción de medidas adicionales, siempre que el itinerario de tren para el trayecto dado no esté ocupado por otros vehículos ferroviarios, y los desvíos recorridos y los desvíos de apartado deben encontrarse en la posición correcta para el itinerario de tren dado y no deben ser cambiados hasta que el tren no libere la sección correspondiente del itinerario de tren.
 El explotador de la vía estableció, para el cumplimiento de las obligaciones anteriormente mencionadas, los procedimientos tecnológicos de organización y la forma de impartición y ejecución de las instrucciones en la explotación de la vía y del transporte ferroviario, contenidos, entre otros, en las normas SŽDC D1 y SŽDC (ČSD) T108.
 
-
 ## Página 27
 
-El explotador de la vía estableció, entre otros, que en la estación Teplice v Čechách los trenes se despachan con la señal de la señal principal que autoriza la circulación del tren.
-El explotador de la vía garantizó la visibilidad de la señal "Alto" de la señal de salida L3, el valor de tensión requerido en el filamento de la bombilla de la luz roja y, en general, garantizó también la transmisión del código del freno automático de tren al repetidor de señal del DV.
-Operación no autorizada del SZZ de la estación Řetenice por la jefa de estación V4:
-Los ámbitos de competencia de las distintas jefas de estación se establecieron conforme al art. 61 de las Normas de Explotación (SŘ) de la estación Teplice v Čechách de la siguiente manera:
+El operador ferroviario, entre otros, estableció que en la estación de Teplice v Čechách se despachan los trenes con la indicación del semáforo principal que autoriza la circulación del tren.
+El operador ferroviario garantizó la visibilidad de la indicación «Stůj» (Deténgase) del semáforo de salida L3, el valor de tensión requerido en el filamento del bombillo de la luz roja y, en general, garantizó también la transmisión del código del freno automático de tren al repetidor de señal del DV (jefe de maniobras).
+Operación no autorizada del SZZ (sistema de enclavamiento electrónico) de la estación de Řetenice. Jefe de estación V4:
+Los ámbitos de competencia de los distintos jefes de estación estaban determinados, según el art. 61 del Reglamento de Circulación (SŘ) de la estación de Teplice v Čechách, de la siguiente manera:
 •
-jefa de estación V2:
+jefe de estación V2:
 ◦Krupka-Bohosudov (fuera) – Teplice v Čechách – Řetenice (fuera);
 •
-jefa de estación V3:
+jefe de estación V3:
 ◦Teplice v Čechách (fuera) – Řetenice – Oldřichov u Duchcova – Bílina (fuera);
 ◦Řetenice – Úpořiny (fuera);
 ◦Oldřichov u Duchcova – Osek (fuera);
 ◦línea D3 Děčín hlavní nádraží (fuera) – Oldřichov u Duchcova;
 •
-jefa de estación V4:
+jefe de estación V4:
 ◦Oldřichov u Duchcova (fuera) – Litvínov;
 ◦Most nové nádraží (fuera) – Louka u Litvínova;
 ◦línea D3 Louka u Litvínova – Dubí – Moldava v Krušných horách.
-Conforme al art. 61 de las Normas de Explotación de la estación Teplice v Čechách, cualquiera de las jefas de estación (V2, V3, V4) podía designar a otra jefa de estación para la realización de actuaciones en la organización y explotación del transporte ferroviario en su ámbito. Cada autorización para la realización de actuaciones en la organización y explotación del transporte ferroviario debía quedar documentada de forma verificable, por ejemplo, en el dispositivo de registro, en el cuaderno de registro telefónico, etc. Del análisis de los datos registrados por el SZZ de la estación Teplice v Čechách se constató que el itinerario de tren para el tren Os 16936 fue establecido en la estación Teplice v Čechách por la jefa de estación V2 y en la estación Řetenice por la jefa de estación V3, habiendo realizado la jefa de estación V4 el cierre preventivo del paso a nivel P1947 en el extremo de Teplice de la estación Řenetice (ámbito de la jefa de estación V3), es decir, fuera de su ámbito de competencia. En contradicción con el art. 61 de las Normas de Explotación de la estación Teplice v Čechách, no constaba ninguna tal designación documentada ni en el cuaderno de registro telefónico ni en la grabación de la comunicación vocal, por lo que la jefa de estación V4 no había sido designada, respectivamente, destinada al cierre preventivo de dicho paso a nivel. Con la infracción del art. 61 de las Normas de Explotación de la estación Teplice v Čechách no se cumplió la disposición del § 22 apartado 1 letra a) de la ley n.º 266/1994 Sb. En el sentido de las Normas de Explotación de la estación Teplice v Čechách, la finalidad de esta designación es la sustitución de la jefa de estación durante su ausencia laboral u otra ausencia justificada en el puesto de trabajo, no una situación en la que intervienen simultáneamente varias personas en un mismo ámbito de competencia, como en este caso (operación en el ámbito V3 simultáneamente por las jefas de estación V3 y V4). De la investigación se constató que las jefas de estación V2, V3 y V4, en relación con el itinerario de tren de salida para el tren Os 16936, intervinieron en el SZZ casi simultáneamente, por lo que las tres se encontraban presentes en el puesto de trabajo durante la realización de estas actuaciones.
-Se trata de una infracción de las funciones y obligaciones del empleado del explotador de la vía SŽ fuera de la relación causal con la producción del SE.
-
+Según el art. 61 del SŘ de la estación de Teplice v Čechách, cualquiera de los jefes de estación (V2, V3, V4) podía encomendar a otro jefe de estación la realización de actuaciones en la organización y explotación del transporte ferroviario en su ámbito. Cada autorización para la realización de actuaciones en la organización y explotación del transporte ferroviario debía quedar documentada de forma verificable, por ejemplo, en el dispositivo de registro, en el cuaderno telefónico, etc. Del análisis de los datos registrados del SZZ de la estación de Teplice v Čechách se constató que la ruta de tren para el tren Os 16936 fue establecida en la estación de Teplice v Čechách por el jefe de estación V2, y en la estación de Řetenice por el jefe de estación V3, mientras que el cierre preliminar del paso a nivel P1947 en el extremo de Teplice de la estación de Řetenice (ámbito del jefe de estación V3) lo realizó el jefe de estación V4, es decir, fuera de su ámbito de competencia. En contradicción con el art. 61 del SŘ de la estación de Teplice v Čechách, no constaba tal autorización documentada ni en el cuaderno telefónico ni en la grabación de la comunicación vocal, por lo que el jefe de estación V4 no estaba autorizada, o designada, para el cierre preliminar de dicho paso a nivel. Al infringir el art. 61 del SŘ de la estación de Teplice v Čechách, no se cumplió la disposición del § 22 apartado 1 letra a) de la Ley n.º 266/1994 Sb. En el sentido del SŘ de la estación de Teplice v Čechách, la finalidad de esta autorización es la sustitución del jefe de estación durante su ausencia laboral u otra ausencia justificada en el puesto de trabajo, no una situación en la que intervienen simultáneamente varias personas en un mismo ámbito de competencia, como en este caso (en el ámbito V3 operan simultáneamente los jefes de estación V3 y V4). La investigación determinó que los jefes de estación V2, V3 y V4 intervinieron en el SZZ casi simultáneamente con respecto a la ruta de tren de salida para el tren Os 16936, por lo que las tres estaban presentes en el puesto de trabajo durante la realización de estas actuaciones.
+Se trata de una infracción de las funciones y obligaciones del empleado del operador ferroviario SŽ, al margen de cualquier nexo causal con la aparición del MU (suceso ferroviario).
 
 ## Página 28
+
 
 Establecimiento tardío del itinerario de tren para el tren Os 16936:
 La jefa de estación V3 de la estación Teplice v Čechách, en el acta con el empleado y en presencia del DI, indicó, entre otros, que desde la oficina de tráfico observó la salida del tren R 612 con dirección a Řetenice, que tras su salida constató la disponibilidad del itinerario de tren para la salida del tren Os 16936, que a continuación volvió a la oficina de tráfico y que con la operación normal del SZZ realizó el establecimiento del itinerario de tren para la salida del tren Os 16936, estableciendo el itinerario de tren inmediatamente en cuanto se lo permitió el SZZ. Sin embargo, su declaración no corresponde a los hechos registrados por el SZZ (véase también el punto 3.1.8).
@@ -874,6 +882,7 @@ La relación de este defecto con la producción del SE es evidente, ya que puede
 Se trata de una infracción de las funciones y obligaciones del empleado del explotador de la vía SŽ fuera de la relación causal con la producción del SE.
 
 ## Página 29
+
 
 Maniobra de la aguja n.º 12 delante y bajo los vehículos ferroviarios en circulación del tren Os
    16936:
@@ -909,18 +918,17 @@ artículo 2361 de las Instrucciones SŽDC D1:
 artículo 2865 de las Instrucciones SŽDC D1:
 "El jefe de estación es responsable de la emisión oportuna de la orden correcta para la preparación de la vía de tren a todos los empleados que deben participar en la preparación de la vía de tren, y de la recepción del informe correcto sobre la realización de la preparación de la vía de tren de todos los empleados participantes en la preparación de la vía de tren.".
 
-
 ## Página 30
 
 ### Transportista
-El transportista, de acuerdo con el § 35 apartado 1 letras a) y g) de la Ley n.º 266/1994 Sb., estaba, entre otras obligaciones, obligado a explotar el tráfico ferroviario de acuerdo con las reglas de explotación del tráfico ferroviario, la licencia vigente y el contrato celebrado con el gestor de la vía, y a ceñirse a las instrucciones del gestor de la vía impartidas durante la explotación del tráfico ferroviario. Asimismo, de acuerdo con el § 35 apartado 1 letras e), f), i) y m) del decreto n.º 173/1995 Sb., debe garantizarse que el maquinista conduzca el vehículo ferroviario motriz únicamente desde la posición desde la que exista la mejor visibilidad, normalmente desde la cabina frontal en el sentido de la marcha, observe la vía y las señales desde el vehículo ferroviario motriz de cabeza y actúe de acuerdo con los hechos constatados, no supere durante la marcha la velocidad máxima permitida establecida en el horario o la velocidad limitada ordenada y detenga el tren de forma segura antes del lugar señalizado. Asimismo, de acuerdo con el § 35 apartado 1 letra h) del decreto n.º 173/1995 Sb., debe garantizarse, entre otras cosas, que el maquinista ponga el vehículo ferroviario en movimiento únicamente ante la señal "Salida" u otra autorización establecida por el gestor de la vía.
-El transportista estableció, para el cumplimiento de las obligaciones anteriormente mencionadas, procedimientos tecnológicos uniformes que estaban contenidos, entre otros, en las Instrucciones ČD D2 y ČD V2, y en virtud del contrato celebrado con el gestor de la vía, sus empleados estaban, entre otras obligaciones, obligados a cumplir también las disposiciones de las Instrucciones SŽDC D1.
-El tren Os 16936 se encontraba detenido en la est. Teplice v Čechách en la vía 3. SK a unos 200 m antes de la señal de salida L3 con la señal "Alto". Aunque el maquinista no recibió la orden para la expedición del tren dada por la señal que permite la circulación en la señal L3 ni de otra manera, al mismo tiempo el repetidor de señal VZ no mostraba el color correspondiente al símbolo de señal que permite la circulación por la vía de salida del tren Os 16936 (como es habitual en este punto), según su declaración, dio en el horario de salida regular la señal "Aviso de preparación" hacia el personal de conducción del tren y, tras realizar los actos previos a la salida, puso el tren en movimiento. Además, tras la puesta en marcha, no vigiló suficientemente la señal de salida L3, que mostraba durante todo el tiempo la señal "Alto", lo que también correspondía al resplandor de la luz azul únicamente del repetidor de señal VZ (llegada del convoy a la 3. SK desde el sentido contrario), que se apagó inmediatamente después de la puesta en marcha del tren y, hasta la aparición del MU, se accionó el TB un total de 3 veces. En la circulación posterior hacia esta señal, sí reaccionó ante la señal que prohíbe la circulación mediante el frenado de acción rápida, pero ya no pudo evitar la circulación no autorizada más allá de la señal L3 y la posterior circulación en bifurcación y el descarrilamiento en la aguja n.º 12. Según su declaración inicial a la Policía (PČR), se dio cuenta inmediatamente de que el color verde que estaba encendido no era una señal ferroviaria, sino un semáforo de carretera, con cuya luz confundió la señal que permite la circulación del tren en la señal. El maquinista estaba obligado a detectar la discrepancia entre su suposición errónea de la señal que permite la circulación del tren en la señal L3 y la luz correspondiente en el repetidor de señal VZ, pero no detectó la discrepancia a pesar de la necesidad no estándar de accionar el botón de vigilancia VZ.
-Un análisis más detallado de la influencia del factor humano en relación con la conducción del HDV, la observación de la vía y la influencia del entorno exterior (semáforo de carretera) en la percepción de las señales se encuentra en el punto 4.3.2.
-Asimismo, se examinó la actividad laboral del personal de conducción del tren. Ni los procedimientos tecnológicos ni los procedimientos tecnológicos uniformes del transportista establecen la obligación de vigilar antes de la salida del tren la señal correspondiente, y el personal de conducción del tren, según su declaración, en este caso no vigiló la señal de la señal de salida L3.
-
+El transportista estaba obligado, de acuerdo con el § 35 apartado 1 letra a) y g) de la Ley núm. 266/1994 Sb., entre otras cosas, a explotar el transporte ferroviario de acuerdo con las reglas de explotación del transporte ferroviario, la licencia vigente y el contrato celebrado con el explotador de la vía, y a regirse por las instrucciones del explotador de la vía impartidas durante la explotación del transporte ferroviario. Asimismo, de acuerdo con el § 35 apartado 1 letras e), f), i) y m) del decreto núm. 173/1995 Sb., debe garantizarse que el maquinista conduzca la locomotora de tracción únicamente desde el puesto desde el que exista la mejor visibilidad, por lo general desde la cabina frontal en el sentido de la marcha, que desde la locomotora de cabeza observe la vía y las señales y actúe de acuerdo con los hechos constatados, que durante la marcha no supere la velocidad máxima permitida establecida en el horario de circulación o la velocidad limitada ordenada, y que detenga el tren con seguridad antes del lugar señalizado. Asimismo, de acuerdo con el § 35 apartado 1 letra h) del decreto núm. 173/1995 Sb., debe garantizarse, entre otras cosas, que el maquinista ponga en movimiento el vehículo ferroviario únicamente ante la señal «Salida» u otra autorización establecida por el explotador de la vía.
+El transportista estableció, para el cumplimiento de las obligaciones anteriormente mencionadas, procedimientos tecnológicos uniformes, que estaban contenidos, entre otros, en las normas ČD D2 y ČD V2, y con base en el contrato celebrado con el explotador de la vía, sus empleados estaban obligados, entre otros, a cumplir también las disposiciones de la norma SŽDC D1.
+El tren Os 16936 se encontraba detenido en la estación de Teplice v Čechách, en el andén 3. SK, a unos 200 m antes de la señal de salida L3 con la señal «Alto». A pesar de que el maquinista no recibió la instrucción para la expedición del tren dada por la señal que permite la circulación en la señal L3 ni de otra manera, y simultáneamente el repetidor de señal VZ no mostraba el color correspondiente al signo de señal que permite la circulación por la vía de salida del tren Os 16936 (como es habitual en este punto), según su declaración, dio en la hora de salida prevista la señal «Llamada a la alerta» hacia el personal de conducción del tren y, tras las maniobras realizadas antes de la salida, puso el tren en movimiento. Además, tras la puesta en marcha, no vigiló suficientemente la señal de salida L3, en la que permaneció la señal «Alto» durante todo el tiempo, lo que también correspondía al encendido únicamente de la luz azul del repetidor de señal VZ (llegada de la composición al 3. SK desde la dirección opuesta), que se apagó inmediatamente después de la puesta en marcha del tren, y hasta la aparición de la MU se accionó el TB un total de 3 veces. En la circulación posterior hacia esta señal, aunque reaccionó a la señal que prohíbe la circulación mediante frenado de acción rápida, sin embargo, ya no pudo impedir la circulación no autorizada más allá de la señal L3 y la posterior circulación en bifurcación y el descarrilamiento en el desvío núm. 12. Según su primera declaración a la PČR, se dio cuenta inmediatamente de que el color verde que brillaba no era la señal, sino el semáforo de carretera, con cuya luz confundió la señal que permite la circulación del tren en la señal. El maquinista estaba obligado a detectar la discrepancia entre su suposición errónea de que la señal permitía la circulación del tren en la señal L3 y la luz correspondiente en el repetidor de señal VZ, sin embargo, no detectó la discrepancia a pesar de la necesidad no estándar de accionar el botón de alerta VZ.
+Un análisis más detallado de la influencia del factor humano en relación con la conducción de la HDV, la observación de la vía y la influencia del entorno exterior (el semáforo de carretera) en la percepción de las señales se indica en el punto 4.3.2.
+Asimismo, se examinó la actividad laboral del personal de conducción del tren. Los procedimientos tecnológicos ni los procedimientos tecnológicos uniformes del transportista establecen la obligación de vigilar antes de la salida del tren la señal correspondiente, y el personal de conducción del tren, según su declaración, en este caso no vigiló la señal de la señal de salida L3.
 
 ## Página 31
+
 
 ### Hallazgos:
 En la investigación se constató la infracción de normativa legal y normativa interna relativa a las funciones
@@ -957,8 +965,8 @@ artículo 2979 de las Instrucciones SŽDC D1:
 "En las estaciones donde se permite la expedición de trenes desde la vía de tráfico mediante la señal de la señal principal, se procederá además de acuerdo con las siguientes disposiciones:
 a) si el maquinista ve que la señal principal válida para la vía de tráfico en la que se encuentra la cabeza del tren permite la salida del tren (o constató este hecho a partir de la señal de la señal principal anterior, de la preseñal independiente, de la preseñal de repetición o del freno automático de tren), pondrá el tren en movimiento tras realizar los actos prescritos por el transportista";
 
-
 ## Página 32
+
 
 •
 artículo 3925 de las Instrucciones SŽDC D1:
@@ -992,6 +1000,7 @@ La autoridad nacional de seguridad es la Autoridad Ferroviaria (Drážní úřad
 
 ## Página 33
 
+
 de la autoridad de construcción para obras ferroviarias y obras en la vía férrea, la aprobación de nuevos y modernizados vehículos ferroviarios y equipos técnicos designados, y la tramitación de infracciones. La obligación de la Autoridad Ferroviaria es comunicar a la Inspección Ferroviaria, en un plazo de 12 meses desde la fecha de publicación del informe final que contenga las recomendaciones de seguridad dirigidas a la misma, qué medida ha adoptado en relación con dicha recomendación de seguridad; esta comunicación se realiza de forma regular, al menos una vez al año, hasta la adopción de las medidas correspondientes.
 La función de la Agencia de la Unión Europea para los Ferrocarriles es, además de garantizar, en el marco de sus competencias, que se mantenga la seguridad ferroviaria en general y, si es posible, se aumente de forma sistemática, entre otras, la emisión, renovación, suspensión y modificación de certificados únicos de seguridad, la limitación de su validez o su anulación, en cuestión en la que coopera con las autoridades nacionales de seguridad; asimismo, emite autorizaciones para la comercialización de vehículos ferroviarios y de tipos de vehículos, y está facultada para renovar, modificar, suspender o retirar las autorizaciones que haya emitido. La Agencia evalúa además los proyectos de normativa nacional, etc.
 En la investigación no se detectó incumplimiento de las funciones y obligaciones de la autoridad nacional de seguridad y de la Agencia de la Unión Europea para los Ferrocarriles.
@@ -1005,8 +1014,8 @@ Las funciones y obligaciones de otras personas u organismos no guardaban relaci�
 4.2.1 Factores o consecuencias derivados de la construcción de vehículos ferroviarios, de la infraestructura ferroviaria o de los equipos técnicos
 En el funcionamiento normal, el SZZ de tipo ESA 11 no permite la maniobra de una aguja ocupada por un DV. Maniobrar una aguja cuyo tramo de vía indica ocupación por un DV solo es posible en modo de emergencia, en cuyo caso en la pantalla de riesgo se mostraría el texto «Tramo de vía ocupado». En este caso concreto, el par de agujas n.º 12/14 también se maniobró en modo de emergencia, pero debido a que se maniobraba la aguja n.º 12 desde la posición de la rama no desviadora del tramo de vía, lo que correspondía al texto «Perfil de rodadura» en la pantalla de riesgo, y por ello la jefa de estación V2 tuvo que comprobar la libertad del perfil de rodadura en la aguja n.º 12. La operación en modo de emergencia debe finalizar, tras la comprobación del cumplimiento de todas las condiciones dadas, con la introducción de la secuencia de confirmación «asdf», que se envía pulsando la tecla ENTER.
 
-
 ## Página 34
+
 
 El desarrollo temporal de la operación del SZZ por la jefa de estación V2 y la actividad del SZZ fue el siguiente en relación con lo anterior (véase también el punto 3.1.8):
 •
@@ -1033,8 +1042,8 @@ En la investigación no se detectaron factores relacionados con los fabricantes 
 ### 4.2.4 Factores o consecuencias derivados del mantenimiento y la modificación de vehículos ferroviarios o equipos técnicos
 En la investigación no se detectaron factores derivados del mantenimiento y la modificación de vehículos ferroviarios o equipos técnicos.
 
-
 ## Página 35
+
 
 ### 4.2.5 Factores o consecuencias relacionados con el organismo responsable del mantenimiento de vehículos ferroviarios, los talleres de mantenimiento y otros prestadores de servicios de mantenimiento
 En la investigación no se detectaron factores relacionados con el organismo responsable del mantenimiento de vehículos ferroviarios, los talleres de mantenimiento y otros prestadores de servicios de mantenimiento.
@@ -1055,6 +1064,7 @@ El maquinista del tren Os 16936 implicado en la aparición del AM en cuestión, 
 
 ## Página 36
 
+
 en el sentido de que estaba convencido de que se trataba de una instrucción del gestor de la vía para la expedición del tren.
 Asimismo, comunicó que la fuente de luz era un semáforo de carretera (nota DI: cruce de las calles Na Hrázi y Dubská – véase fig. n.º 6), que se encuentra en dicho lugar de forma permanente y del que era consciente antes de que se produjera el MU. Sin embargo, en el caso del MU en cuestión, señaló su presencia como causa de su fallo.
 La Inspección Ferroviaria realizó una encuesta entre los maquinistas del transportista ČD que conducían trenes en el tramo Teplice v Čechách – Řetenice, en relación con la presencia de la fuente de luz – el mencionado semáforo de carretera –, en particular su posible influencia en la seguridad de la explotación desde el punto de vista del factor humano, es decir, la posibilidad de confusión con las señales de los señales de salida de la est. Teplice v Čechách. En total, 5 maquinistas se pronunciaron por correo electrónico o por teléfono a petición de la DI, enviada a través del empleador ČD, de los cuales 2 pertenecían al turno del maquinista implicado. Naturalmente, se puede alegar con razón que a la petición responderán, en principio, solo las personas que consideran que el mencionado semáforo de carretera supone un riesgo. Precisamente por ello, la DI contactó posteriormente por teléfono con otros 15 maquinistas del turno en cuestión, que constituye una muestra representativa. Para evaluar la situación, la DI contaba con las declaraciones de 17 maquinistas del turno y de 3 maquinistas más.
@@ -1063,6 +1073,7 @@ De un total de 20 maquinistas, 12 comunicaron que, a pesar de las deficiencias m
 La salida no autorizada de un tren ante una señal que prohíbe la circulación de un señal de salida, si el tren se detiene a tiempo posteriormente, todavía no se registra como MU; se trata de una infracción de las normas internas, lo que no es objeto de la estadística de MU y la frecuencia de tales incidencias no puede ser demostrada. Asimismo, puede darse la situación de que por el lugar circule un maquinista que, aunque formalmente conoce las condiciones locales y de línea, no circula habitualmente por aquí, o lo hace de forma excepcional, y no tiene por qué tratarse necesariamente solo de maquinistas del transportista ČD, sino también de transportistas más pequeños o de mercancías. Los maquinistas consultados se pronunciaron casi de forma unánime en el sentido de que es necesario eliminar la situación actual mediante alguna medida adecuada.
 
 ## Página 37
+
 
 A este respecto, es necesario indicar que la DI no registra desde 2008 ninguna circulación no autorizada más allá del señal de salida en la est. Teplice v Čechách en dirección a la est. Řetenice. Aunque en dicho lugar se encuentra el mencionado semáforo de carretera, existe un conocimiento general sobre el mismo entre los maquinistas consultados (véase el análisis anterior) y se trata, en el lugar concreto, de un MU aislado. La documentación fotográfica, tanto inmediatamente después de la producción del MU (período invernal – véanse las figs. n.º 4 y 5) como en los meses de verano, confirmó la visibilidad de la luz del semáforo de carretera en el campo visual de los maquinistas de los trenes en todos los andenes de las vías de estación en dirección a la est. Řetenice, si bien durante el período de vegetación la visibilidad era menor debido a la foliación, y durante la noche la luz del semáforo era más visible. Asimismo, la intensidad de las luces del semáforo de carretera no superaba la intensidad de las luces de los señales de salida. Las luces de los señales eran, en comparación con las luces del semáforo, más grandes y nítidas, los señales eran correctamente visibles y estaban provistos de la pintura prescrita.
 Con el fin de mejorar las condiciones de trabajo y eliminar posibles fallos involuntarios (errores) de los maquinistas, la DI considera conveniente, a corto plazo, adoptar una medida constructiva y técnica adecuada que impida la penetración del cono estrecho de luz de la fuente de luz en cuestión en el espacio de los andenes de las vías de estación de la est. Teplice v Čechách – véase la fig. n.º 7. Sin embargo, es necesario constatar que, dada la longitud y la frecuencia de la experiencia del maquinista implicado con este lugar, sin quejas previas por su parte, y dada la evolución de este MU –que pudo haberse evitado, por ejemplo, mediante la observación de la indicación del repetidor de señal del freno automático de tren o la percepción de la necesidad no estándar de operar el botón de vigilancia–, la DI considera que la causa de la producción del MU en cuestión fue la falta de atención suficiente a la observación de la señal del señal de salida L3.
@@ -1081,6 +1092,7 @@ Las condiciones pertinentes del marco regulatorio están establecidas en los Reg
 En los procedimientos, métodos, contenido y resultados de las actividades de evaluación de riesgos y seguimiento relacionados con las circunstancias de la producción del MU en cuestión, no se detectaron deficiencias.
 
 ## Página 38
+
 
 ### 4.4.3 Sistema de garantía de seguridad de los transportistas y gestores de la vía implicados
 En el sistema de garantía de seguridad adoptado por el gestor de la vía y el transportista, relacionado con las circunstancias de la producción del MU en cuestión, no se detectaron deficiencias.
@@ -1112,28 +1124,25 @@ El gestor de la vía explotaba la vía al amparo de la autorización administrat
 ### 4.4.7 Otros factores sistémicos
 En la investigación no se detectaron otros factores sistémicos.
 ### 4.5 Sucesos anteriores de naturaleza similar
-La DI, en el periodo comprendido entre el 1. 1. 2015 y la fecha de ocurrencia de la MU objeto de estudio, registra en las vías férreas, categoría estatal y regional, un total de 163 MU similares, cuya causa de ocurrencia fue la puesta en movimiento no autorizada de un tren con transporte de pasajeros – salida no autorizada de un tren del espacio destinado al desembarco y embarque de pasajeros, seguida de la circulación no autorizada de dichos trenes más allá de la señal principal con la indicación «Alto», en estaciones donde la orden de salida del tren la da el jefe de estación al maquinista mediante la colocación de la señal principal en la indicación que permite la circulación.
-De este número, se produjo posteriormente una colisión de DV en 2 casos y un descarrilamiento de DV en 3 casos. Como consecuencia de estas circulaciones no autorizadas, 44 personas resultaron con lesiones y se produjo un daño total
+El DI, en el período comprendido entre el 1. 1. 2015 y la fecha de ocurrencia de la MU objeto de estudio, registra en las vías férreas, categorías nacional y regional, un total de 163 MU análogas, cuya causa de ocurrencia fue la puesta en movimiento no autorizada de un tren con transporte de pasajeros – salida no autorizada de un tren del espacio destinado al embarque y desembarque de pasajeros, seguida de la circulación no autorizada de dichos trenes más allá de la señal principal con la indicación «Alto», en estaciones donde la orden de salida del tren la da el jefe de estación al maquinista mediante la colocación de la señal principal en la indicación que permite la circulación.
+De este número, se produjo posteriormente en 2 casos una colisión de DV y en 3 casos un descarrilamiento de DV. Como consecuencia de estas circulaciones no autorizadas, 44 personas resultaron lesionadas y se produjo un daño total
 ### por importe de 30 379 878 Kč.
-De la relación anterior de MU similares, la DI investigó un total de 6 MU:
+De la relación anterior de MU análogas, el DI investigó un total de 6 MU:
 •
-del 3. 5. 2018, cuando a las 8:37 h se produjo la circulación no autorizada del tren Os 8102 más allá de la señal de salida L1 de la est. Křemže que prohibía la circulación, el cambio forzado del desvío n.º 6, la entrada en la vía de tren establecida para el tren en sentido contrario Os 8103, seguida de la colisión y el descarrilamiento del tren Os 8103. La causa inmediata de la ocurrencia de la MU fue el incumplimiento de la indicación «Alto» de la señal de salida L1 de la est. Křemže por parte de la persona que conduce el vehículo ferroviario – tren Os 8102. En la MU resultaron con lesiones 18 personas y se produjo un daño total por importe de 23 631 902 Kč;
+del 3. 5. 2018, cuando a las 8:37 h se produjo la circulación no autorizada del tren Os 8102 más allá de la señal de salida L1 en la est. Křemže que prohibía la circulación, el cambio forzado de la aguja n.º 6, la entrada en la vía de tren establecida para el tren en sentido contrario Os 8103, seguida de la colisión y el descarrilamiento del tren Os 8103. La causa inmediata de la MU fue el no respeto de la indicación «Alto» de la señal de salida L1 en la est. Křemže por parte de la persona que conduce el vehículo ferroviario – tren Os 8102. En la MU resultaron lesionadas 18 personas y se produjo un daño total por importe de 23 631 902 Kč;
 •
-del 22. 2. 2019, cuando a las 19:20 h se produjo la circulación no autorizada del tren Ex 350 más allá del nivel de la señal de salida L2 con la indicación que prohibía la circulación y la entrada en la vía de tren establecida para el tren Os 17816 en la est. Ejpovice. La causa inmediata de la ocurrencia de la MU fue la salida del tren Ex 350 de la est. Ejpovice sin la expedición debida. En la MU no se produjeron lesiones en personas ni daños materiales;
+del 22. 2. 2019, cuando a las 19:20 h se produjo la circulación no autorizada del tren Ex 350 más allá del nivel de la señal de salida L2 con indicación que prohibía la circulación y la entrada en la vía de tren establecida para el tren Os 17816 en la est. Ejpovice. La causa inmediata de la MU fue la salida del tren Ex 350 de la est. Ejpovice sin la correspondiente expedición. En la MU no se produjeron lesiones en personas ni daños materiales;
 •
-del 5. 3. 2019, cuando a las 8:00 h se produjo la circulación no autorizada del tren Os 4708 más allá del nivel de la señal de vía Lc4 con la indicación que prohibía la circulación y la posterior colisión con el tren en sentido contrario Os 4711 en la est. Brno hl. n. La causa inmediata de la ocurrencia de la MU fue el incumplimiento de la indicación «Alto» de la señal de vía Lc4 de la est. Brno hl. n. por parte de la persona que conduce el vehículo ferroviario de tracción del tren Os 4708. En la MU resultaron con lesiones 23 personas y se produjo un daño total por importe de 452 393 Kč;
+del 5. 3. 2019, cuando a las 8:00 h se produjo la circulación no autorizada del tren Os 4708 más allá del nivel de la señal de itinerio Lc4 con indicación que prohibía la circulación y la posterior colisión con el tren en sentido contrario Os 4711 en la est. Brno hl. n. La causa inmediata de la MU fue el no respeto de la indicación «Alto» de la señal de itinerio Lc4 de la est. Brno hl. n. por parte de la persona que conduce el vehículo ferroviario motriz del tren Os 4708. En la MU resultaron lesionadas 23 personas y se produjo un daño total por importe de 452 393 Kč;
 •
-del 22. 7. 2020, cuando a las 7:12 h se produjo la circulación no autorizada del tren Os 7152 más allá del nivel de la señal de vía Lc1 con la indicación que prohibía la circulación y su entrada en la vía de tren establecida para la entrada del tren Os 7151 en la est. Jablonné nad Orlicí. La causa inmediata de la ocurrencia de la MU fue el incumplimiento de la indicación «Alto» de la señal de vía Lc1 de la estación Jablonné nad Orlicí por parte del maquinista del tren Os 7152. En la MU no se produjeron lesiones en personas ni daños materiales;
+del 22. 7. 2020, cuando a las 7:12 h se produjo la circulación no autorizada del tren Os 7152 más allá del nivel de la señal de itinerio Lc1 con indicación que prohibía la circulación y su entrada en la vía de tren establecida para la entrada del tren Os 7151 en la est. Jablonné nad Orlicí. La causa inmediata de la MU fue el no respeto de la indicación «Alto» de la señal de itinerio Lc1 de la estación Jablonné nad Orlicí por parte del maquinista del tren Os 7152. En la MU no se produjeron lesiones en personas ni daños materiales;
 •
-del 22. 7. 2020, cuando a las 14:52 h se produjo la circulación no autorizada del tren Os 7004 más allá del nivel de la señal de salida que prohibía la circulación y el posterior descarrilamiento
-en   la est.
-   Lázně Kynžvart
-   . La causa inmediata de la ocurrencia de la MU fue la puesta en movimiento no autorizada del tren sin expedición por un medio distinto de la indicación de la señal principal y el posterior incumplimiento de la indicación «Alto» de la señal principal de salida S1 de la est. Lázně Kynžvart. En la MU resultaron con lesiones 3 personas y se produjo un daño total por importe de 4 580 906,50 Kč;
+del 22. 7. 2020, cuando a las 14:52 h se produjo la circulación no autorizada del tren Os 7004 más allá del nivel de la señal de salida que prohibía la circulación y el posterior descarrilamiento en la est. Lázně Kynžvart. La causa inmediata de la MU fue la puesta en movimiento no autorizada del tren sin expedición por un medio distinto de la indicación de la señal principal y el posterior no respeto de la indicación «Alto» de la señal principal de salida S1 de la est. Lázně Kynžvart. En la MU resultaron lesionadas 3 personas y se produjo un daño total por importe de 4 580 906,50 Kč;
 •
-del 10. 5. 2021, cuando a las 6:12 h se produjo la circulación no autorizada del tren Os 9608 más allá de la señal principal (de vía) Sc7 con la indicación que prohibía la circulación y la entrada en la vía de tren
-
+del 10. 5. 2021, cuando a las 6:12 h se produjo la circulación no autorizada del tren Os 9608 más allá de la señal principal (de itinerio) Sc7 con indicación que prohibía la circulación y la entrada en la vía de tren
 
 ## Página 40
+
 
 establecida para el tren Os 6903 en la est. 
  Praha Masarykovo nádraží
@@ -1164,8 +1173,8 @@ control although he had to non-standard operated dead-man button.
 Contributing factor: none.
 Systemic factor: none.
 
-
 ## Página 41
+
 
 ### 5.2 Medidas adoptadas para la prevención de sucesos extraordinarios
 El gestor de la infraestructura SŽ no adoptó ni emitió ninguna medida.
@@ -1199,8 +1208,8 @@ the station dispatchers V2, V3 and V4 started with preparation of train route fo
 regional passenger train No. 16936 with delay without obvious transport reason.
 It was not found at the railway undertaking ČD.
 
-
 ## Página 42
+
 
 ### 6 RECOMENDACIONES DE SEGURIDAD
 La Inspección Ferroviaria, con base en lo dispuesto en el § 53e apartado 1 de la Ley n.º 266/1994 Sb., recomienda, en relación con la prevención de sucesos extraordinarios:
@@ -1232,8 +1241,8 @@ inspectora del centro de Praga
 del Inspectorado Territorial de Bohemia
 Inspectorado Territorial de Bohemia
 
-
 ## Página 43
+
 
 ### ANEXOS
 Fig. n.º 2: Lugar de parada de la cabeza del tren Os 16936 tras la aguja de la vía n.º 12.
@@ -1241,18 +1250,20 @@ Fig. n.º 2: Lugar de parada de la cabeza del tren Os 16936 tras la aguja de la 
 Fig. n.º 3: Hundimiento de la rueda derecha del 4.º bogie del coche de mando entre la lengüeta y el apoyo de la vía n.º 12 (el tren se movía de izquierda a derecha).
                                Fuente: DI
 
-
 ## Página 44
+
 
 Fig. n.º 4: En la realidad, fuente claramente visible de la luz verde del semáforo en el campo de visión del maquinista del tren que sale desde la 3.ª vía de la est. Teplice v Čechách en dirección a la est. Řetenice.
        Fuente: DI
 Fig. n.º 5: En la realidad, fuente claramente visible de la luz verde del semáforo visible desde el andén central entre la 1.ª y la 2.ª vía de la est. Teplice v Čechách en dirección a la est. Řetenice.
         Fuente: DI
 
-
 ## Página 45
 
-Fig. n.º 6: La luz del semáforo de carretera de la intersección de las calles Na Hrázi y Dubská objeto de estudio está orientada hacia el espacio de los andenes de la est. Teplice v Čechách. La vía férrea se encuentra a la derecha, tras la entrada al paso subterráneo.  
+Fig. n.º 6: La luz del semáforo de carretera del cruce de las calles Na Hrázi y Dubská está
+dirigida hacia el espacio de los andenes de la est. de Teplice v Čechách. La vía férrea se
+encuentra a la derecha de la entrada al paso subterráneo.  
          Fuente: DI
-Fig. n.º 7: El estrecho cono de luz del semáforo de carretera de la intersección de las calles Na Hrázi y Dubská que penetra en el espacio de los andenes de la est. Teplice v Čechách.
+Fig. n.º 7: El cono estrecho de luz del semáforo de carretera del cruce de las calles Na Hrázi y
+Dubská que penetra en el espacio de los andenes de la est. de Teplice v Čechách.
                  Fuente: Google maps
